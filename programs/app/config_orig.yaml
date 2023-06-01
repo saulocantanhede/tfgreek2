@@ -1,0 +1,29 @@
+apiVersion: 3
+dataDisplay:
+  excludedFeatures: []
+  noneValues:
+  - none
+  - unknown
+  - null
+  - NA
+  sectionSep1: '@'
+  textFormat: text-orig-full
+docs:
+  docPage: about
+  featureBase: '{docBase}/transcription.md'
+  featurePage: transcription
+interfaceDefaults:
+  fmt: text-orig-full
+provenanceSpec:
+  branch: main
+  corpus: '{org} - {repo}{relative}'
+  doi: 10.5281/zenodo.notyet
+  moduleSpecs: []
+  version: 0.4.0
+  webBase: https://public.{org}.org/{repo}
+  webHint: Show this on the website
+  webLang: en
+  webUrl: '{webBase}/<1>/<2>/<3>&version={version}'
+  webUrlLex: '{webBase}/word?version={version}&id=<lid>'
+typeDisplay: {}
+writing: ''

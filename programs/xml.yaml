@@ -1,0 +1,114 @@
+generic:
+  author: Evangelists and apostles
+  title: Greek New Testament
+  institute: ETCBC (Eep Talstra Centre for Bible and Computer)
+  sourceFormat: XML (lowfat)
+  sourceDescription: Nestle 1904 edition
+  converters: Tony Jorg, Saulo Oliveira de Cantanhêde, Dirk Roorda
+
+intFeatures:
+  - appositioncontainer
+  - articular
+  - chapter
+  - discontinuous
+  - nodeId
+  - num
+  - strong
+  - verse
+  - sibling
+
+featureDescriptions:
+  after:
+    material after the end of the word
+  appositioncontainer:
+    1 if it is an apposition container
+  articular:
+    1 if the wg has an article
+  book:
+    book name (abbreviated), from ref attribute in xml
+  case:
+    grammatical case
+  chapter:
+    chapter number, from ref attribute in xml
+  class:
+    part-of-speech (on w); syntactical function (on wg)
+  clauseType:
+    clause type
+  cltype:
+    clause type for verbless, verb-elided, and minor clauses
+  crule:
+    clause rule (from xml attribute Rule)
+  degree:
+    grammatical degree
+  discontinuous:
+    1 if the word is out of sequence in the xml
+  domain:
+    domain
+  frame:
+    links to nodes that are part of the frame; labelled as A0, A1 etc.
+  frameSpec:
+    frame specification as list of labels with node refs
+  gender:
+    grammatical gender
+  gloss:
+    short translation
+  id:
+    xml id
+  junction:
+    type of junction
+  lang:
+    language the text is in
+  lemma:
+    lexical lemma
+  ln:
+    ln
+  mood:
+    verbal mood
+  morph:
+    morphological code
+  nodeId:
+    node id (as in the XML source data
+  normalized:
+    lemma normalized
+  num: >-
+    generated number (not in xml): 
+    book: (Matthew=1, Mark=2, ..., Revelation=27); 
+    sentence: numbered per chapter; 
+    word: numbered per verse.
+  number:
+    grammatical number
+  note:
+    annotation of linguistic nature
+  parent:
+    edge between a node and its parent node
+  person:
+    grammatical person
+  ref:
+    biblical reference with word counting
+  referent:
+    number of referent
+  sibling: >-
+    edge between a node and its preceding sibling nodes; 
+    labelled with the distance between them
+  strong:
+    strong number
+  subjref:
+    links to the node that carries the subject
+  subjrefspec:
+    subject referent
+  role:
+    role of word or wordgroup
+  rule:
+    syntactical rule
+  text:
+    the text of a word
+  tense:
+    verbal tense
+  type:
+    type of (pro)noun (on w); type of word group (on wg)
+  unicode: >-
+    surface greek form of the word in unicode, contains material after it
+  verse:
+    verse number, from ref attribute in xml
+  voice:
+    verbal voice

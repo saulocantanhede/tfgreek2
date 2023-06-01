@@ -1,0 +1,7 @@
+OK  1 namespace for book             :    27x None
+OK  1 namespace for error            :     1x None
+OK  1 namespace for milestone        :  9605x None
+OK  1 namespace for p                :  8011x None
+OK  1 namespace for sentence         :  8011x None
+OK  1 namespace for w                : 137779x None
+OK  1 namespace for wg               : 114878x None
