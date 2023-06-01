@@ -1,0 +1,161 @@
+Inventory of tags and attributes in the source XML file(s).
+Contains the following sections:
+	Keyword Attributes
+	Remaining Attributes and Elements
+
+
+
+Keyword Attributes
+
+	<error>            role=                  1x err_clause-complex-met-no-conditionsClCl2
+
+	<w>                case=              23031x accusative
+	                   "                  12126x dative
+	                   "                  19515x genitive
+	                   "                  24197x nominative
+	                   "                    649x vocative
+	                   cls (was class)=    8452x adj
+	                   "                   6147x adv
+	                   "                  18227x conj
+	                   "                  19786x det
+	                   "                     15x intj
+	                   "                  28455x noun
+	                   "                    476x num
+	                   "                  10914x prep
+	                   "                  16177x pron
+	                   "                    773x ptcl
+	                   "                  28357x verb
+	                   gender=            18736x feminine
+	                   "                  41486x masculine
+	                   "                  13753x neuter
+	                   mood=               1877x imperative
+	                   "                  15617x indicative
+	                   "                   2285x infinitive
+	                   "                     69x optative
+	                   "                   6653x participle
+	                   "                   1856x subjunctive
+	                   number=            29091x plural
+	                   "                  69846x singular
+	                   person=             2943x first
+	                   "                   3729x second
+	                   "                  12747x third
+	                   role=               5596x adv
+	                   "                     10x apposition
+	                   "                    705x aux
+	                   "                   1956x io
+	                   "                   4672x o
+	                   "                    141x o2
+	                   "                   1904x p
+	                   "                   4458x s
+	                   "                  24767x v
+	                   "                   2583x vc
+	                   tense=             11803x aorist
+	                   "                   1626x future
+	                   "                   1689x imperfect
+	                   "                   1572x perfect
+	                   "                     88x pluperfect
+	                   "                  11579x present
+	                   type=                  3x adverbial
+	                   "                  23644x common
+	                   "                   1722x demonstrative
+	                   "                    552x indefinite
+	                   "                    633x interrogative
+	                   "                  11521x personal
+	                   "                     70x possessive
+	                   "                   4639x proper
+	                   "                   1674x relative
+	                   voice=             20742x active
+	                   "                   2408x middle
+	                   "                   1714x middlepassive
+	                   "                   3493x passive
+
+	<wg>               cls (was class)=     168x adjp
+	                   "                      7x adv
+	                   "                    166x advp
+	                   "                  30152x cl
+	                   "                      1x conj
+	                   "                  30911x np
+	                   "                      7x nump
+	                   "                  11169x pp
+	                   "                    207x vp
+	                   role=              15981x adv
+	                   "                   2429x apposition
+	                   "                    351x aux
+	                   "                      2x ellipsis
+	                   "                    702x io
+	                   "                   8822x o
+	                   "                    218x o2
+	                   "                   1770x p
+	                   "                   6710x s
+	                   "                      2x tail
+	                   "                     23x topic
+	                   "                    405x v
+	                   "                     10x vc
+	                   type=                891x apposition-group
+	                   "                   8075x conjuncted-wg
+	                   "                   4957x group
+	                   "                   1712x modifier-clause-scope
+	                   "                  29645x modifier-scope
+	                   "                  12166x wrapper-clause-scope
+	                   "                  11264x wrapper-scope
+
+Remaining Attributes and Elements
+
+	<book>             id=                   27x X
+	                   lang=                 27x el
+
+	<milestone>        id=                 9605x X
+	                   unit=               9605x verse
+
+	<p>                                    8011x 
+
+	<sentence>                             8011x 
+
+	<w>                after=             119271x  
+	                   "                   9443x ,
+	                   "                   5717x .
+	                   "                    970x ;
+	                   "                   2355x ·
+	                   "                      1x ί
+	                   "                      1x α
+	                   "                      3x ε
+	                   "                      1x ι
+	                   "                      3x ς
+	                   "                      1x χ
+	                   "                      1x ἱ
+	                   "                      1x ὁ
+	                   "                      1x ὰ
+	                   "                      2x ὶ
+	                   "                      1x ὸ
+	                   "                      7x —
+	                   degree=              313x comparative
+	                   "                    200x superlative
+	                   discontinuous=      6034x true
+	                   domain=            126879x X
+	                   framespec (was frame)= 25493x X
+	                   gloss=             137779x X
+	                   id=                137779x X
+	                   lemma=             137779x X
+	                   ln=                126879x X
+	                   morph=             137779x X
+	                   normalized=        137779x X
+	                   note=                  1x discontinuous discourse
+	                   ref=               137779x X
+	                   referent=          14471x X
+	                   strong=            137779x X
+	                   subjrefspec (was subjref)= 16575x X
+	                   unicode=           137779x X
+
+	<wg>                                   8011x 
+	                   crule (was Rule)=   4308x ClCl
+	                   "                   1250x ClClN
+	                   appositioncontainer=  1908x true
+	                   articular=         28772x true
+	                   clauseType=         5296x nominalized
+	                   cltype=              832x Minor
+	                   "                   1050x VerbElided
+	                   "                    961x Verbless
+	                   junction=           9367x coordinate
+	                   "                   8554x subordinate
+	                   nodeId=             5558x NNNNNNNNNNNNNNN
+	                   rule=              93234x X

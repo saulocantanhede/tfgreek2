@@ -1,0 +1,77 @@
+Inventory of tags and attributes in the source XML file(s).
+Contains the following sections:
+	Keyword Attributes
+	Remaining Attributes and Elements
+
+
+
+Keyword Attributes
+
+	<w>                case=                 16x dative
+	                   "                      6x genitive
+	                   "                      6x nominative
+	                   class=                 2x adj
+	                   "                      4x conj
+	                   "                      2x det
+	                   "                     20x noun
+	                   "                      2x prep
+	                   "                      4x verb
+	                   gender=               28x masculine
+	                   mood=                  4x participle
+	                   number=                8x plural
+	                   "                     20x singular
+	                   role=                  4x v
+	                   tense=                 4x perfect
+	                   type=                  8x common
+	                   "                     12x proper
+	                   voice=                 4x passive
+
+	<wg>               class=                 6x cl
+	                   "                      8x np
+	                   "                      2x pp
+	                   role=                  4x adv
+	                   "                      2x apposition
+	                   "                      2x io
+	                   "                      2x s
+	                   type=                  4x conjuncted-wg
+	                   "                      8x group
+	                   "                      4x modifier-clause-scope
+	                   "                      4x modifier-scope
+	                   "                      2x wrapper-scope
+
+Remaining Attributes and Elements
+
+	<book>             id=                    1x X
+	                   lang=                  1x el
+
+	<milestone>        id=                    2x X
+	                   unit=                  2x verse
+
+	<p>                                       2x 
+
+	<sentence>                                2x 
+
+	<w>                after=                28x  
+	                   "                      4x ,
+	                   "                      2x .
+	                   discontinuous=         2x true
+	                   domain=               28x X
+	                   frame=                 4x X
+	                   gloss=                34x X
+	                   lemma=                34x X
+	                   ln=                   28x X
+	                   morph=                34x X
+	                   normalized=           34x X
+	                   ref=                  34x X
+	                   strong=               34x X
+	                   subjref=               4x X
+	                   unicode=              34x X
+
+	<wg>                                      2x 
+	                   appositioncontainer=     8x true
+	                   articular=             2x true
+	                   clauseType=            2x nominalized
+	                   cltype=                2x VerbElided
+	                   junction=              4x coordinate
+	                   "                      2x subordinate
+	                   rule=                 28x X

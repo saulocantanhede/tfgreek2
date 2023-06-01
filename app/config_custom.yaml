@@ -1,0 +1,7 @@
+typeDisplay:
+  w:
+    featuresBare: num
+  sentence:
+    condense: true
+writing: 'grc'
+
