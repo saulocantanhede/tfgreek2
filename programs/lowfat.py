@@ -18,6 +18,18 @@ book_name = {'MAT': 'Matthew', 'MRK': 'Mark', 'LUK': 'Luke', 'JHN': 'John', 'ACT
             'HEB': 'Hebrews', 'JAS': 'James', '1PE': '1Peter','2PE': '2Peter', '1JN': '1John', '2JN': '2John', '3JN': '3John',
             'JUD': 'Jude', 'REV': 'Revelation'}
 
+type_features = {"adjp": "AdjP",
+                 "advp": "AdvP",
+                 "np": "NP",
+                 "pp": "PP",
+                 "vp": "VP"}
+
+role_features = {"io": "Cmpl",
+                 "o": "Objc",
+                 "o2": "Objc",
+                 "p": "Pred",
+                 "s": "Subj"}
+
 def convertTaskCustom(self):
     """Implementation of the "convert" task.
 
@@ -74,10 +86,15 @@ def convertTaskCustom(self):
 
     self.monoAtts = monoAtts
 
+    #information about the authors and the version of the datasource
     tfVersion = self.tfVersion
     xmlVersion = self.xmlVersion
     generic = self.generic
-    generic["sourceFormat"] = "XML"
+    generic["author"] = "Evangelists and apostles"
+    generic["title"] = "Greek New Testament"
+    generic["institute"] = "ETCBC (Eep Talstra Centre for Bible and Computer)"
+    generic["converters"] = "Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda"
+    generic["sourceFormat"] = "XML lowfat"
     generic["version"] = tfVersion
     generic["xmlVersion"] = xmlVersion
     intFeatures = self.intFeatures
@@ -320,11 +337,30 @@ def getDirector(self):
                 
             elif tag == "wg":
                 cls = atts.get("cls", None)
+                role = atts.get("role")
+                cltype = atts.get("cltype")
+                clauseType = atts.get("clauseType")
+                rule = atts.get("rule")
                 if cls is not None:
                     if cls == "cl":
                         extraType = "clause"
+                        
+                        #atts["typ"] = cltype
+                        #atts["typ"] = clauseType
+                        #atts["typ"] = rule
+                        atts["typ"] = (cltype or "") + ", " + (clauseType or "") + ", " + (rule or "")
+
                     else:
                         extraType = "phrase"
+                        
+                        if cls in type_features:
+                            atts["typ"] = type_features[cls]
+                        
+                        if role in role_features:
+                            atts["function"] = role_features[role]
+                        
+                        if role == "apposition":
+                            atts["rela"] = "Appo"
 
             curNode = cv.node(tag)
             if len(atts):
