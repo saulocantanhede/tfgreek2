@@ -1,10 +1,14 @@
 @node
-@sourceFormat=XML
+@author=Evangelists and apostles
+@converters=Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda
+@institute=ETCBC (Eep Talstra Centre for Bible and Computer)
+@sourceFormat=XML lowfat
+@title=Greek New Testament
 @valueType=str
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-01T01:08:42Z
+@dateWritten=2023-06-13T23:27:00Z
 
 1-137779	word
 137780-137806	book

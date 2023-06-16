@@ -1,12 +1,16 @@
 @edge
 @edgeValues
+@author=Evangelists and apostles
+@converters=Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda
 @description=this is XML attribute frame
-@sourceFormat=XML
+@institute=ETCBC (Eep Talstra Centre for Bible and Computer)
+@sourceFormat=XML lowfat
+@title=Greek New Testament
 @valueType=str
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-01T01:08:45Z
+@dateWritten=2023-06-13T23:27:02Z
 
 10	9	A0
 10	12	A1
