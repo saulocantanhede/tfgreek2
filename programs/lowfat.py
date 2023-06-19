@@ -39,7 +39,7 @@ def convertTaskCustom(self):
 
     *   **parents/siblings**
         We only compute parents and siblings for de `wg` elements and their
-        descendant elements (only `wg` and `w`.
+        descendant elements (only `wg` and `w`).
 
         If we would do siblings between sentences, the sibling feature would grow
         enormously and take up 40% of the dataset.
@@ -179,6 +179,10 @@ def getDirector(self):
             An lxml element node.
         """
         tag = etree.QName(xnode.tag).localname
+
+        if tag == "w":
+            tag = "word"
+
         nestable = tag in {"word", "wg"}
 
         cur[XNEST].append(tag)
@@ -348,8 +352,7 @@ def getDirector(self):
                         #atts["typ"] = cltype
                         #atts["typ"] = clauseType
                         #atts["typ"] = rule
-                        atts["typ"] = (cltype or "") + ", " + (clauseType or "") + ", " + (rule or "")
-
+                        
                     else:
                         extraType = "phrase"
                         
