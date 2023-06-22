@@ -9,7 +9,7 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-19T03:15:42Z
+@dateWritten=2023-06-22T03:04:10Z
 
 138068	coordinate
 coordinate
@@ -15417,17924 +15417,17924 @@ coordinate
 168196	subordinate
 168209	subordinate
 168212	subordinate
-226821	coordinate
-226824	coordinate
-226827	coordinate
-226834	coordinate
-226842	coordinate
-226845	coordinate
-226848	coordinate
-226851	coordinate
-226854	coordinate
-226857	coordinate
-226862	coordinate
-226867	coordinate
-226870	coordinate
-226877	coordinate
-226883	coordinate
-226886	coordinate
-226889	coordinate
-226892	coordinate
-226895	coordinate
-226898	coordinate
-226901	coordinate
-226904	coordinate
-226907	coordinate
-226910	coordinate
-226913	coordinate
-226916	coordinate
-226919	coordinate
-226931	coordinate
-226937	coordinate
-226940	coordinate
-226943	coordinate
-226946	coordinate
-226949	coordinate
-226952	coordinate
-226955	coordinate
-226958	coordinate
-226961	coordinate
-226964	coordinate
-226967	coordinate
-226981	coordinate
-226990	coordinate
-226998	coordinate
-227021	subordinate
-227023	subordinate
-subordinate
-227034	subordinate
-coordinate
-227037	coordinate
-subordinate
-subordinate
-227048	coordinate
-227053	subordinate
-227057	subordinate
-227064	coordinate
-coordinate
-227071	subordinate
-227083	subordinate
-227091	coordinate
-227095	coordinate
-227097	coordinate
-227103	subordinate
-227109	coordinate
-coordinate
-227112	subordinate
-227117	subordinate
-227121	coordinate
-coordinate
-227126	coordinate
-227128	subordinate
-227130	coordinate
-227153	subordinate
-227158	coordinate
-227164	coordinate
-subordinate
-227169	coordinate
-coordinate
-subordinate
-227175	coordinate
-227179	coordinate
-subordinate
-227188	subordinate
-227215	subordinate
-227223	coordinate
-subordinate
-227231	subordinate
-227234	subordinate
-227237	coordinate
-subordinate
-227242	coordinate
-227245	subordinate
-227248	subordinate
-subordinate
-227253	coordinate
-subordinate
-227264	subordinate
-subordinate
-227267	subordinate
-227272	subordinate
-227278	coordinate
-subordinate
-227289	coordinate
-subordinate
-227292	coordinate
-subordinate
-227303	subordinate
-227305	subordinate
-227323	coordinate
-subordinate
-227331	coordinate
-227334	coordinate
-227337	subordinate
-227341	subordinate
-227349	coordinate
-subordinate
-227357	coordinate
-227360	coordinate
-227365	subordinate
-227378	coordinate
-227385	coordinate
-subordinate
-227423	coordinate
-227428	subordinate
-227430	subordinate
-227444	coordinate
-subordinate
-227452	coordinate
-227456	subordinate
-227465	coordinate
-subordinate
-227473	coordinate
-227487	subordinate
-227491	coordinate
-subordinate
-227500	subordinate
-227503	subordinate
-227505	subordinate
-227510	subordinate
-227520	subordinate
-227529	subordinate
-227557	coordinate
-coordinate
-227566	coordinate
-227572	coordinate
-227580	coordinate
-227592	coordinate
-227597	subordinate
-227603	subordinate
-227609	subordinate
-227615	subordinate
-227619	subordinate
-227638	subordinate
-227654	coordinate
-227657	subordinate
-227660	coordinate
-227665	coordinate
-227674	subordinate
-227684	coordinate
-227691	coordinate
-227695	coordinate
-coordinate
-227702	coordinate
-227722	coordinate
-subordinate
-227726	coordinate
-227731	subordinate
-227736	subordinate
-subordinate
-subordinate
-227745	subordinate
-227755	coordinate
-subordinate
-227759	subordinate
-227781	subordinate
-227787	subordinate
-227795	subordinate
-227800	subordinate
-227811	subordinate
-227814	coordinate
-227818	coordinate
-227822	subordinate
-227827	coordinate
-227833	coordinate
-coordinate
-227843	subordinate
-227852	coordinate
-227857	coordinate
-227874	coordinate
-227880	coordinate
-coordinate
-227896	subordinate
-subordinate
-227907	coordinate
-227912	coordinate
-227916	coordinate
-227920	coordinate
-227922	coordinate
-227935	subordinate
-227937	subordinate
-227947	subordinate
-227968	coordinate
-227988	subordinate
-coordinate
-227995	subordinate
-228002	subordinate
-228007	subordinate
-228027	coordinate
-228030	coordinate
-228035	subordinate
-228040	subordinate
-subordinate
-228067	subordinate
-228079	subordinate
-coordinate
-228085	coordinate
-228090	coordinate
-228108	coordinate
-228114	subordinate
-228118	subordinate
-228120	subordinate
-228123	coordinate
-228142	subordinate
-228156	subordinate
-228159	subordinate
-228166	subordinate
-228175	subordinate
-228180	subordinate
-228190	subordinate
-228195	subordinate
-228202	subordinate
-228209	subordinate
-228217	subordinate
-228225	subordinate
-coordinate
-228228	coordinate
-228230	coordinate
-228233	subordinate
-228237	coordinate
-228239	coordinate
-228241	subordinate
-228262	subordinate
-228268	subordinate
-subordinate
-subordinate
-228280	subordinate
-subordinate
-228285	coordinate
-coordinate
-228288	coordinate
-228291	coordinate
-coordinate
-228296	coordinate
-228308	subordinate
-coordinate
-228314	coordinate
-228325	subordinate
-228332	coordinate
-subordinate
-coordinate
-228342	subordinate
-228357	subordinate
-228362	subordinate
-228364	coordinate
-228371	coordinate
-228382	coordinate
-228384	coordinate
-228396	subordinate
-228413	coordinate
-228415	coordinate
-subordinate
-228424	coordinate
-228432	coordinate
-subordinate
-228440	coordinate
-subordinate
-228452	subordinate
-228464	coordinate
-228470	coordinate
-228476	coordinate
-subordinate
-228486	subordinate
-228491	coordinate
-228495	coordinate
-228499	coordinate
-228509	subordinate
-228536	subordinate
-228541	coordinate
-228543	coordinate
-228548	subordinate
-228550	coordinate
-228555	coordinate
-228564	subordinate
-228568	coordinate
-228570	coordinate
-228575	subordinate
-228577	coordinate
-228582	coordinate
-228591	subordinate
-228600	coordinate
-228608	subordinate
-228610	coordinate
-subordinate
-228613	subordinate
-228620	coordinate
-228622	coordinate
-228633	coordinate
-228638	subordinate
-228642	coordinate
-228647	subordinate
-228652	coordinate
-228656	subordinate
-228666	subordinate
-subordinate
-228676	subordinate
-228691	coordinate
-228694	coordinate
-228699	subordinate
-228717	subordinate
-coordinate
-228720	coordinate
-228734	coordinate
-228738	coordinate
-228741	subordinate
-228748	coordinate
-228752	coordinate
-228761	coordinate
-228765	coordinate
-228770	subordinate
-228778	subordinate
-coordinate
-228786	coordinate
-228794	subordinate
-228808	subordinate
-228822	subordinate
-228830	subordinate
-228842	subordinate
-228854	subordinate
-228859	subordinate
-228869	subordinate
-228891	subordinate
-228911	subordinate
-228917	subordinate
-subordinate
-228928	subordinate
-228941	subordinate
-228943	coordinate
-228948	coordinate
-subordinate
-228972	subordinate
-228974	subordinate
-228988	subordinate
-228991	subordinate
-229007	coordinate
-229010	coordinate
-229013	coordinate
-229032	subordinate
-229039	coordinate
-229041	coordinate
-229048	subordinate
-229061	subordinate
-229072	subordinate
-229074	subordinate
-subordinate
-229078	subordinate
-229083	subordinate
-229085	subordinate
-229097	coordinate
-subordinate
-229102	coordinate
-229106	subordinate
-coordinate
-229109	subordinate
-coordinate
-229132	coordinate
-229136	coordinate
-229144	coordinate
-229149	coordinate
-229172	subordinate
-229182	subordinate
-229192	subordinate
-229201	subordinate
-229204	subordinate
-229206	coordinate
-coordinate
-229210	coordinate
-229213	coordinate
-coordinate
-229216	coordinate
-229220	subordinate
-coordinate
-229223	coordinate
-229228	coordinate
-229231	subordinate
-coordinate
-229234	coordinate
-229236	coordinate
-229239	subordinate
-229243	coordinate
-229247	coordinate
-229257	subordinate
-coordinate
-coordinate
-229261	coordinate
-229263	coordinate
-229266	coordinate
-229279	subordinate
-subordinate
-229287	subordinate
-229297	coordinate
-229299	coordinate
-229310	subordinate
-229316	subordinate
-229320	subordinate
-coordinate
-229323	coordinate
-229335	coordinate
-229337	coordinate
-229339	coordinate
-229358	coordinate
-229365	coordinate
-229374	subordinate
-229384	subordinate
-229389	coordinate
-subordinate
-229394	coordinate
-subordinate
-229401	coordinate
-229411	coordinate
-229439	coordinate
-229445	coordinate
-subordinate
-229456	coordinate
-229460	coordinate
-229466	coordinate
-229471	coordinate
-subordinate
-229476	coordinate
-coordinate
-229479	coordinate
-coordinate
-coordinate
-229483	coordinate
-coordinate
-coordinate
-229487	coordinate
-229489	subordinate
-coordinate
-229495	coordinate
-229499	coordinate
-229522	subordinate
-subordinate
-subordinate
-229543	subordinate
-229562	subordinate
-coordinate
-coordinate
-229567	coordinate
-229575	coordinate
-229580	subordinate
-coordinate
-coordinate
-229585	coordinate
-229593	coordinate
-229602	coordinate
-229607	coordinate
-229617	coordinate
-229620	coordinate
-229624	coordinate
-229629	coordinate
-229635	coordinate
-229637	subordinate
-229640	coordinate
-229642	subordinate
-229646	coordinate
-229649	subordinate
-229652	coordinate
-229662	coordinate
-229673	coordinate
-229695	coordinate
-229699	coordinate
-229703	coordinate
-229722	subordinate
-coordinate
-229728	coordinate
-229740	coordinate
-229743	coordinate
-229746	coordinate
-229749	coordinate
-229753	coordinate
-229755	subordinate
-229764	coordinate
-229769	coordinate
-229780	coordinate
-229783	coordinate
-229786	coordinate
-229789	coordinate
-229793	coordinate
-229795	coordinate
-229804	subordinate
-229817	subordinate
-coordinate
-subordinate
-229821	coordinate
-229823	subordinate
-229837	subordinate
-229842	subordinate
-229844	subordinate
-229848	subordinate
-229867	coordinate
-229870	coordinate
-229873	coordinate
-229885	subordinate
-coordinate
-229895	subordinate
-229899	subordinate
-229903	subordinate
-229914	coordinate
-coordinate
-229917	coordinate
-229923	coordinate
-229928	subordinate
-229931	coordinate
-coordinate
-229936	coordinate
-229938	coordinate
-coordinate
-229943	coordinate
-229945	coordinate
-coordinate
-229952	coordinate
-229956	coordinate
-subordinate
-229976	coordinate
-229981	coordinate
-230017	subordinate
-230029	subordinate
-230034	subordinate
-230042	coordinate
-230046	coordinate
-230051	coordinate
-230053	coordinate
-230060	subordinate
-230064	coordinate
-230067	coordinate
-230073	subordinate
-230081	coordinate
-230085	coordinate
-230090	subordinate
-230093	subordinate
-230099	subordinate
-230103	subordinate
-230110	coordinate
-coordinate
-230114	coordinate
-230119	coordinate
-230123	subordinate
-230132	subordinate
-coordinate
-230135	coordinate
-230143	coordinate
-230145	coordinate
-subordinate
-230165	subordinate
-subordinate
-230176	subordinate
-230189	coordinate
-subordinate
-230196	coordinate
-230206	subordinate
-230226	subordinate
-subordinate
-230233	subordinate
-subordinate
-230251	subordinate
-230259	subordinate
-230267	subordinate
-230280	subordinate
-230286	coordinate
-230294	coordinate
-230300	coordinate
-230304	coordinate
-subordinate
-230316	coordinate
-230324	subordinate
-230326	subordinate
-230333	coordinate
-subordinate
-230337	coordinate
-230345	subordinate
-230350	subordinate
-230371	subordinate
-230392	coordinate
-230394	coordinate
-230396	coordinate
-230405	subordinate
-230412	coordinate
-230416	coordinate
-230423	subordinate
-230430	coordinate
-subordinate
-230434	coordinate
-230444	coordinate
-subordinate
-230449	subordinate
-230452	subordinate
-230459	subordinate
-230473	subordinate
-230482	subordinate
-230497	subordinate
-230499	coordinate
-230503	coordinate
-230510	subordinate
-230512	subordinate
-coordinate
-230515	coordinate
-230519	coordinate
-subordinate
-coordinate
-230528	coordinate
-230534	coordinate
-230546	subordinate
-230548	subordinate
-230556	subordinate
-230560	coordinate
-230571	coordinate
-230577	coordinate
-230589	subordinate
-coordinate
-230593	coordinate
-230596	coordinate
-230601	coordinate
-230606	coordinate
-230611	subordinate
-230615	coordinate
-230619	coordinate
-coordinate
-subordinate
-230626	coordinate
-230630	coordinate
-subordinate
-230634	coordinate
-230641	subordinate
-230643	subordinate
-230654	subordinate
-230662	subordinate
-coordinate
-230665	coordinate
-230682	subordinate
-coordinate
-230690	coordinate
-subordinate
-coordinate
-230695	coordinate
-230700	subordinate
-coordinate
-230703	coordinate
-230711	subordinate
-230713	coordinate
-subordinate
-230718	coordinate
-230736	subordinate
-coordinate
-230750	coordinate
-230758	subordinate
-230788	subordinate
-230799	subordinate
-230834	subordinate
-coordinate
-230840	coordinate
-230845	coordinate
-230853	subordinate
-230857	subordinate
-230863	subordinate
-230865	subordinate
-230872	coordinate
-230875	coordinate
-230884	subordinate
-230891	subordinate
-230897	subordinate
-subordinate
-coordinate
-230901	coordinate
-230915	coordinate
-230920	coordinate
-230960	subordinate
-230963	coordinate
-230967	coordinate
-230983	subordinate
-230992	coordinate
-subordinate
-coordinate
-coordinate
-coordinate
-231040	subordinate
-231045	subordinate
-231054	subordinate
-231062	subordinate
-231071	coordinate
-231073	coordinate
-231077	subordinate
-231093	coordinate
-231100	coordinate
-231106	subordinate
-231114	subordinate
-231117	coordinate
-231120	subordinate
-231130	coordinate
-231133	coordinate
-231154	subordinate
-231158	coordinate
-231160	coordinate
-231167	subordinate
-231171	coordinate
-231174	coordinate
-231185	coordinate
-coordinate
-231189	coordinate
-231191	coordinate
-coordinate
-231195	coordinate
-231215	subordinate
-231233	subordinate
-231239	coordinate
-231243	coordinate
-231249	coordinate
-231251	subordinate
-231257	coordinate
-231265	subordinate
-231279	subordinate
-231286	subordinate
-231294	subordinate
-231305	coordinate
-231308	coordinate
-subordinate
-231316	subordinate
-231386	subordinate
-231391	coordinate
-subordinate
-coordinate
-231397	coordinate
-subordinate
-coordinate
-231404	coordinate
-231409	coordinate
-231414	coordinate
-231437	subordinate
-coordinate
-231442	coordinate
-231446	coordinate
-231452	coordinate
-231460	coordinate
-231464	coordinate
-231471	coordinate
-231478	coordinate
-231508	subordinate
-231510	subordinate
-231526	subordinate
-231532	subordinate
-231537	coordinate
-231541	coordinate
-231545	subordinate
-231548	subordinate
-subordinate
-231554	coordinate
-231556	coordinate
-coordinate
-231559	coordinate
-231561	coordinate
-231563	coordinate
-231567	subordinate
-231581	subordinate
-231586	subordinate
-231591	subordinate
-231594	subordinate
-231634	coordinate
-231641	coordinate
-231651	coordinate
-231663	coordinate
-231677	subordinate
-subordinate
-231683	subordinate
-231697	subordinate
-231702	subordinate
-231705	coordinate
-231707	coordinate
-231709	coordinate
-231711	coordinate
-231715	coordinate
-subordinate
-231725	coordinate
-231729	subordinate
-coordinate
-231732	coordinate
-231754	subordinate
-231763	subordinate
-231773	subordinate
-231790	coordinate
-231796	coordinate
-231810	subordinate
-231825	coordinate
-231830	coordinate
-231836	subordinate
-231848	subordinate
-coordinate
-231854	coordinate
-231862	subordinate
-231866	coordinate
-231871	coordinate
-231875	subordinate
-231881	subordinate
-231885	subordinate
-231887	subordinate
-231897	coordinate
-231899	coordinate
-231903	coordinate
-231908	coordinate
-231911	subordinate
-coordinate
-231917	coordinate
-231923	coordinate
-231927	coordinate
-231942	coordinate
-231946	coordinate
-subordinate
-coordinate
-231950	coordinate
-231955	subordinate
-231959	subordinate
-subordinate
-231970	subordinate
-coordinate
-231973	coordinate
-231978	coordinate
-231990	coordinate
-subordinate
-231994	coordinate
-231997	subordinate
-232007	coordinate
-232014	coordinate
-232026	subordinate
-subordinate
-subordinate
-coordinate
-232031	coordinate
-232046	subordinate
-232055	subordinate
-232062	subordinate
-232065	subordinate
-232073	coordinate
-232078	subordinate
-232082	coordinate
-232084	coordinate
-232091	subordinate
-232102	coordinate
-232106	subordinate
-232111	subordinate
-232115	subordinate
-232120	subordinate
-232124	coordinate
-232126	coordinate
-coordinate
-232135	subordinate
-232157	coordinate
-232162	coordinate
-232166	coordinate
-232168	coordinate
-232170	coordinate
-232177	coordinate
-232179	subordinate
-232181	coordinate
-232183	subordinate
-232185	subordinate
-232197	subordinate
-232203	subordinate
-subordinate
-232211	coordinate
-232224	subordinate
-232229	subordinate
-232238	subordinate
-232242	coordinate
-232245	subordinate
-232248	coordinate
-232253	subordinate
-232259	subordinate
-232272	subordinate
-232286	subordinate
-232290	subordinate
-232299	subordinate
-coordinate
-232306	coordinate
-232310	subordinate
-232319	coordinate
-232325	coordinate
-232333	coordinate
-232339	coordinate
-232375	coordinate
-coordinate
-232379	coordinate
-232383	coordinate
-coordinate
-232387	coordinate
-232400	subordinate
-subordinate
-232412	coordinate
-232419	coordinate
-232442	coordinate
-232447	coordinate
-232460	subordinate
-232465	subordinate
-232467	coordinate
-232474	subordinate
-232483	subordinate
-232505	coordinate
-232507	coordinate
-232515	coordinate
-232517	subordinate
-232526	coordinate
-232528	coordinate
-232536	coordinate
-232538	subordinate
-232543	subordinate
-232553	subordinate
-232558	coordinate
-232561	subordinate
-232563	coordinate
-232575	subordinate
-subordinate
-coordinate
-232579	coordinate
-232581	coordinate
-232584	coordinate
-coordinate
-232587	coordinate
-232594	coordinate
-subordinate
-232597	coordinate
-232619	subordinate
-subordinate
-232632	subordinate
-subordinate
-232636	subordinate
-232640	coordinate
-232644	coordinate
-232650	subordinate
-232686	subordinate
-232694	coordinate
-232697	subordinate
-subordinate
-subordinate
-232702	coordinate
-232725	coordinate
-coordinate
-232730	coordinate
-subordinate
-232734	coordinate
-coordinate
-232742	coordinate
-coordinate
-232749	coordinate
-coordinate
-232754	coordinate
-232759	coordinate
-coordinate
-232764	coordinate
-coordinate
-232768	coordinate
-232770	coordinate
-coordinate
-232777	coordinate
-232781	coordinate
-232783	coordinate
-232785	coordinate
-232793	subordinate
-232801	subordinate
-232804	coordinate
-subordinate
-232812	coordinate
-232818	coordinate
-232820	coordinate
-232822	coordinate
-232826	subordinate
-232833	subordinate
-coordinate
-subordinate
-232837	coordinate
-subordinate
-232850	coordinate
-coordinate
-232853	coordinate
-232856	coordinate
-coordinate
-subordinate
-232860	coordinate
-232866	coordinate
-232872	coordinate
-232875	coordinate
-232879	coordinate
-coordinate
-232883	coordinate
-232886	coordinate
-232889	coordinate
-232891	coordinate
-232895	coordinate
-232900	subordinate
-232902	coordinate
-232907	subordinate
-232914	coordinate
-coordinate
-232919	subordinate
-subordinate
-232922	coordinate
-232924	coordinate
-coordinate
-subordinate
-232928	coordinate
-232939	coordinate
-232944	coordinate
-232946	coordinate
-232949	coordinate
-232971	coordinate
-232974	coordinate
-232979	coordinate
-coordinate
-232983	coordinate
-232999	coordinate
-233004	coordinate
-233015	coordinate
-233028	coordinate
-233031	coordinate
-233034	coordinate
-233036	coordinate
-233038	coordinate
-233040	coordinate
-233042	coordinate
-233052	subordinate
-233060	coordinate
-233068	coordinate
-233073	coordinate
-233078	subordinate
-coordinate
-233082	coordinate
-233088	subordinate
-233115	subordinate
-233122	subordinate
-233128	subordinate
-233139	coordinate
-coordinate
-233143	coordinate
-233149	coordinate
-233165	subordinate
-233172	coordinate
-233178	subordinate
-coordinate
-233182	coordinate
-233184	subordinate
-coordinate
-233190	coordinate
-233204	subordinate
-233209	subordinate
-233212	coordinate
-233221	subordinate
-233232	subordinate
-233236	subordinate
-233255	subordinate
-233281	coordinate
-233287	coordinate
-233296	coordinate
-233300	coordinate
-233306	subordinate
-coordinate
-233310	coordinate
-233317	coordinate
-233324	coordinate
-coordinate
-233337	coordinate
-233354	subordinate
-233372	subordinate
-233376	coordinate
-subordinate
-233379	coordinate
-233384	coordinate
-subordinate
-233387	coordinate
-233396	subordinate
-233401	coordinate
-subordinate
-233405	subordinate
-233407	subordinate
-233409	coordinate
-233417	subordinate
-coordinate
-233422	coordinate
-233426	coordinate
-subordinate
-coordinate
-subordinate
-subordinate
-233434	coordinate
-233438	coordinate
-233448	coordinate
-233451	coordinate
-coordinate
-233458	coordinate
-233484	subordinate
-233502	subordinate
-233510	subordinate
-233517	subordinate
-subordinate
-coordinate
-233537	coordinate
-233541	coordinate
-233571	subordinate
-233588	coordinate
-233605	coordinate
-233609	coordinate
-233616	coordinate
-233618	subordinate
-233621	coordinate
-233635	subordinate
-233640	subordinate
-subordinate
-233644	subordinate
-233650	coordinate
-233661	coordinate
-233664	subordinate
-233666	subordinate
-subordinate
-233672	subordinate
-233685	coordinate
-subordinate
-233694	subordinate
-233696	coordinate
-subordinate
-233703	coordinate
-233708	coordinate
-233711	coordinate
-233717	coordinate
-subordinate
-233723	coordinate
-233725	coordinate
-subordinate
-233731	subordinate
-233740	subordinate
-233747	coordinate
-subordinate
-233751	coordinate
-coordinate
-233755	coordinate
-233767	coordinate
-233770	coordinate
-233776	subordinate
-subordinate
-233786	subordinate
-233788	subordinate
-233795	subordinate
-233807	coordinate
-subordinate
-subordinate
-233813	subordinate
-233820	subordinate
-233824	coordinate
-coordinate
-subordinate
-233830	coordinate
-233836	coordinate
-coordinate
-233839	coordinate
-233841	coordinate
-233845	subordinate
-233862	subordinate
-coordinate
-233868	coordinate
-233872	subordinate
-233877	subordinate
-233882	subordinate
-233896	subordinate
-233900	subordinate
-233909	subordinate
-233915	coordinate
-233917	subordinate
-subordinate
-233925	coordinate
-233941	subordinate
-233946	subordinate
-233948	subordinate
-233959	coordinate
-subordinate
-233966	coordinate
-233972	coordinate
-subordinate
-233976	coordinate
-subordinate
-subordinate
-233985	coordinate
-233987	subordinate
-234014	subordinate
-234021	coordinate
-coordinate
-subordinate
-234033	coordinate
-234048	subordinate
-234068	subordinate
-234072	subordinate
-234087	coordinate
-234093	coordinate
-234102	subordinate
-234109	subordinate
-234134	coordinate
-234139	coordinate
-234146	subordinate
-234151	subordinate
-234155	coordinate
-234157	coordinate
-234159	coordinate
-234174	subordinate
-234180	subordinate
-234185	subordinate
-234204	subordinate
-234209	subordinate
-234223	coordinate
-234232	coordinate
-234255	coordinate
-234260	coordinate
-234268	subordinate
-234279	subordinate
-234298	subordinate
-234305	subordinate
-234310	subordinate
-234314	subordinate
-234325	subordinate
-234332	subordinate
-234334	subordinate
-coordinate
-234340	coordinate
-234349	subordinate
-234364	subordinate
-234375	subordinate
-234387	coordinate
-subordinate
-234395	coordinate
-subordinate
-234402	coordinate
-coordinate
-234405	subordinate
-234411	coordinate
-234416	coordinate
-subordinate
-subordinate
-234420	subordinate
-subordinate
-234437	subordinate
-234441	coordinate
-234446	subordinate
-coordinate
-234450	coordinate
-subordinate
-234454	subordinate
-234466	subordinate
-subordinate
-234485	coordinate
-subordinate
-234488	subordinate
-234497	coordinate
-subordinate
-234500	coordinate
-coordinate
-234504	coordinate
-234510	coordinate
-coordinate
-234513	coordinate
-234515	coordinate
-234519	subordinate
-234535	coordinate
-subordinate
-234541	coordinate
-234548	subordinate
-234552	subordinate
-subordinate
-234560	subordinate
-234575	subordinate
-subordinate
-234581	coordinate
-subordinate
-234587	coordinate
-234593	coordinate
-234600	subordinate
-234606	subordinate
-234610	subordinate
-234614	subordinate
-234638	subordinate
-234649	coordinate
-coordinate
-234656	coordinate
-234659	coordinate
-coordinate
-234666	coordinate
-234672	coordinate
-234675	coordinate
-234686	coordinate
-subordinate
-234692	coordinate
-234702	subordinate
-234713	subordinate
-234723	coordinate
-234727	coordinate
-234729	coordinate
-234738	subordinate
-234742	subordinate
-234756	subordinate
-234763	subordinate
-coordinate
-234768	coordinate
-234780	coordinate
-234782	coordinate
-234789	coordinate
-234793	coordinate
-234800	coordinate
-coordinate
-subordinate
-234810	coordinate
-subordinate
-234836	subordinate
-coordinate
-234840	coordinate
-234847	coordinate
-234849	coordinate
-234855	subordinate
-234857	subordinate
-234867	subordinate
-234877	subordinate
-coordinate
-234881	coordinate
-234891	subordinate
-subordinate
-234895	coordinate
-234897	coordinate
-234901	coordinate
-234905	coordinate
-subordinate
-234908	subordinate
-234912	coordinate
-subordinate
-234923	subordinate
-coordinate
-234928	coordinate
-234932	coordinate
-234939	coordinate
-234943	subordinate
-234953	coordinate
-234969	subordinate
-234971	subordinate
-234981	coordinate
-234993	coordinate
-235000	coordinate
-235003	coordinate
-coordinate
-235010	coordinate
-235020	subordinate
-235025	subordinate
-235031	subordinate
-235034	subordinate
-235038	coordinate
-235040	coordinate
-235042	coordinate
-235065	coordinate
-subordinate
-235071	coordinate
-235075	coordinate
-235079	subordinate
-235081	coordinate
-235083	coordinate
-235087	subordinate
-235091	subordinate
-235106	subordinate
-235121	subordinate
-235125	subordinate
-235128	coordinate
-coordinate
-235131	coordinate
-235137	coordinate
-235139	coordinate
-coordinate
-coordinate
-235143	subordinate
-235148	subordinate
-235165	subordinate
-coordinate
-235175	subordinate
-235177	coordinate
-235179	coordinate
-235182	coordinate
-235186	coordinate
-235192	coordinate
-235196	coordinate
-subordinate
-235201	subordinate
-235209	subordinate
-235220	coordinate
-235223	coordinate
-235235	subordinate
-235241	subordinate
-235255	coordinate
-235257	subordinate
-235267	coordinate
-235269	coordinate
-235279	coordinate
-235283	subordinate
-235287	coordinate
-235289	coordinate
-235301	coordinate
-235359	subordinate
-235361	coordinate
-subordinate
-235365	coordinate
-235368	subordinate
-235371	coordinate
-subordinate
-235376	subordinate
-235397	coordinate
-subordinate
-235408	subordinate
-coordinate
-235411	coordinate
-235435	subordinate
-235455	subordinate
-235457	coordinate
-235463	coordinate
-235476	coordinate
-subordinate
-235480	coordinate
-235490	subordinate
-235497	coordinate
-235499	coordinate
-235503	coordinate
-subordinate
-235510	coordinate
-subordinate
-235524	subordinate
-235527	coordinate
-235529	coordinate
-235533	coordinate
-subordinate
-235538	coordinate
-subordinate
-235573	subordinate
-coordinate
-235578	coordinate
-235582	coordinate
-235588	coordinate
-subordinate
-235596	subordinate
-subordinate
-235602	coordinate
-235605	coordinate
-235620	subordinate
-235629	subordinate
-235642	subordinate
-235651	subordinate
-235658	subordinate
-235668	subordinate
-235675	subordinate
-235687	coordinate
-subordinate
-235695	coordinate
-subordinate
-235708	subordinate
-235739	subordinate
-235743	coordinate
-235748	coordinate
-235758	coordinate
-235770	subordinate
-235778	subordinate
-235787	subordinate
-235789	subordinate
-coordinate
-235799	subordinate
-235801	coordinate
-235805	subordinate
-235809	coordinate
-235812	coordinate
-235816	coordinate
-subordinate
-235823	coordinate
-235828	coordinate
-subordinate
-235839	coordinate
-subordinate
-235845	subordinate
-235849	subordinate
-235854	coordinate
-235857	coordinate
-235861	coordinate
-235863	coordinate
-235865	subordinate
-235868	subordinate
-235874	coordinate
-subordinate
-235881	coordinate
-subordinate
-235890	subordinate
-235901	subordinate
-235905	subordinate
-235910	subordinate
-235914	subordinate
-235919	subordinate
-235931	subordinate
-235943	subordinate
-235948	coordinate
-235952	coordinate
-235963	coordinate
-235966	coordinate
-235970	subordinate
-coordinate
-235976	subordinate
-235984	subordinate
-235998	coordinate
-coordinate
-236006	coordinate
-236010	coordinate
-236017	coordinate
-coordinate
-236023	subordinate
-236029	subordinate
-coordinate
-236033	coordinate
-236038	coordinate
-236042	subordinate
-236046	coordinate
-236053	subordinate
-236055	coordinate
-236061	coordinate
-236067	subordinate
-236075	subordinate
-236080	coordinate
-236083	coordinate
-236087	coordinate
-236093	coordinate
-236099	coordinate
-236110	subordinate
-236115	subordinate
-coordinate
-236119	coordinate
-236130	coordinate
-236133	coordinate
-subordinate
-236137	subordinate
-236145	subordinate
-236150	subordinate
-236156	subordinate
-236168	coordinate
-236170	subordinate
-subordinate
-236187	coordinate
-coordinate
-coordinate
-coordinate
-coordinate
-coordinate
-236202	subordinate
-236215	subordinate
-subordinate
-236218	coordinate
-coordinate
-236222	coordinate
-236227	coordinate
-236229	coordinate
-236232	coordinate
-236238	subordinate
-236241	subordinate
-236243	subordinate
-236264	coordinate
-subordinate
-236269	coordinate
-236277	subordinate
-236282	subordinate
-236286	subordinate
-236289	coordinate
-236292	coordinate
-236296	subordinate
-236300	coordinate
-236302	coordinate
-236304	subordinate
-236319	subordinate
-subordinate
-236330	subordinate
-236338	coordinate
-236340	subordinate
-236352	coordinate
-236357	coordinate
-236360	coordinate
-236371	subordinate
-236378	subordinate
-236389	subordinate
-236393	subordinate
-236400	coordinate
-236405	coordinate
-subordinate
-236414	subordinate
-236422	coordinate
-subordinate
-236426	subordinate
-236435	subordinate
-236453	coordinate
-236456	coordinate
-236458	subordinate
-236466	subordinate
-236474	subordinate
-236487	subordinate
-236492	coordinate
-236497	coordinate
-236510	subordinate
-236519	coordinate
-236522	coordinate
-236526	subordinate
-236530	subordinate
-236535	subordinate
-subordinate
-236545	subordinate
-236548	coordinate
-236551	coordinate
-236556	coordinate
-subordinate
-subordinate
-236570	coordinate
-coordinate
-coordinate
-236580	coordinate
-coordinate
-236584	coordinate
-236589	coordinate
-236591	coordinate
-236593	coordinate
-236595	coordinate
-236607	subordinate
-coordinate
-236610	coordinate
-236625	subordinate
-coordinate
-236629	coordinate
-236638	subordinate
-236641	subordinate
-236643	subordinate
-236647	subordinate
-236655	coordinate
-236659	coordinate
-coordinate
-236668	subordinate
-236670	coordinate
-236677	subordinate
-236686	subordinate
-236690	coordinate
-236695	coordinate
-236699	coordinate
-236703	coordinate
-subordinate
-236706	subordinate
-236710	coordinate
-subordinate
-236713	subordinate
-236716	subordinate
-236720	subordinate
-coordinate
-236723	coordinate
-coordinate
-236726	coordinate
-236743	subordinate
-236759	subordinate
-236771	coordinate
-subordinate
-236777	subordinate
-236788	coordinate
-subordinate
-236794	coordinate
-coordinate
-236797	coordinate
-236802	subordinate
-coordinate
-236806	coordinate
-236817	coordinate
-236824	coordinate
-subordinate
-coordinate
-236828	coordinate
-236831	subordinate
-236836	subordinate
-236850	subordinate
-236864	subordinate
-236874	coordinate
-subordinate
-coordinate
-236879	coordinate
-236882	subordinate
-236889	coordinate
-236893	coordinate
-236898	coordinate
-236906	coordinate
-coordinate
-236911	coordinate
-236931	subordinate
-236964	coordinate
-236968	coordinate
-236977	coordinate
-236997	coordinate
-237002	coordinate
-237008	coordinate
-237012	coordinate
-subordinate
-237027	coordinate
-237052	subordinate
-237056	coordinate
-subordinate
-237062	coordinate
-237066	subordinate
-237072	coordinate
-coordinate
-subordinate
-237084	subordinate
-237098	subordinate
-237106	subordinate
-237113	subordinate
-coordinate
-237116	coordinate
-237118	coordinate
-237121	coordinate
-237127	coordinate
-237129	coordinate
-237137	subordinate
-237141	subordinate
-237149	subordinate
-237158	coordinate
-237162	coordinate
-237168	subordinate
-237174	subordinate
-237185	coordinate
-237188	coordinate
-237196	coordinate
-237206	coordinate
-237215	subordinate
-237221	subordinate
-237239	subordinate
-237251	subordinate
-237255	coordinate
-237259	subordinate
-237265	subordinate
-237268	subordinate
-237299	coordinate
-coordinate
-coordinate
-237306	coordinate
-237308	coordinate
-237314	coordinate
-subordinate
-237324	coordinate
-237326	coordinate
-237328	coordinate
-237331	coordinate
-237333	coordinate
-237335	coordinate
-237340	subordinate
-237348	subordinate
-237360	coordinate
-237362	coordinate
-237364	coordinate
-237367	coordinate
-237373	coordinate
-237388	subordinate
-237397	coordinate
-237399	coordinate
-237405	coordinate
-subordinate
-237410	coordinate
-237415	subordinate
-237427	coordinate
-237451	coordinate
-237454	coordinate
-237462	coordinate
-237468	coordinate
-237470	subordinate
-237476	coordinate
-237486	subordinate
-237491	subordinate
-237505	subordinate
-subordinate
-237509	subordinate
-237514	subordinate
-237530	coordinate
-237533	subordinate
-237539	coordinate
-subordinate
-237567	subordinate
-237570	coordinate
-237575	coordinate
-237583	subordinate
-237591	coordinate
-237594	coordinate
-subordinate
-237601	coordinate
-237610	coordinate
-237613	coordinate
-237619	coordinate
-237625	coordinate
-subordinate
-237633	subordinate
-237640	subordinate
-237648	subordinate
-237652	subordinate
-237654	subordinate
-237658	subordinate
-237665	subordinate
-237675	subordinate
-237694	coordinate
-237696	coordinate
-237699	subordinate
-237702	subordinate
-237717	coordinate
-237719	coordinate
-237728	subordinate
-237735	coordinate
-subordinate
-237738	coordinate
-237742	subordinate
-237772	coordinate
-237775	coordinate
-237782	coordinate
-subordinate
-237785	coordinate
-subordinate
-237789	coordinate
-237794	subordinate
-subordinate
-237797	coordinate
-237803	subordinate
-subordinate
-237806	coordinate
-237812	coordinate
-237823	coordinate
-237825	subordinate
-237827	coordinate
-subordinate
-237857	subordinate
-237861	subordinate
-237864	subordinate
-coordinate
-237868	coordinate
-237875	coordinate
-237882	coordinate
-237914	coordinate
-237917	coordinate
-237921	subordinate
-237942	subordinate
-237983	subordinate
-237986	coordinate
-237994	coordinate
-238027	subordinate
-238038	subordinate
-238044	coordinate
-subordinate
-238047	coordinate
-238051	subordinate
-238072	coordinate
-238074	subordinate
-238079	coordinate
-238086	coordinate
-238088	coordinate
-238092	coordinate
-coordinate
-238096	coordinate
-238102	coordinate
-238105	subordinate
-238119	coordinate
-coordinate
-238124	coordinate
-238127	coordinate
-238144	subordinate
-238151	subordinate
-coordinate
-238156	coordinate
-238165	subordinate
-238173	subordinate
-238186	coordinate
-subordinate
-238189	coordinate
-subordinate
-238200	subordinate
-238207	subordinate
-coordinate
-238210	coordinate
-subordinate
-238221	subordinate
-coordinate
-238227	subordinate
-238231	subordinate
-238243	coordinate
-subordinate
-238249	coordinate
-subordinate
-238263	coordinate
-238266	coordinate
-238275	coordinate
-subordinate
-238281	coordinate
-subordinate
-238294	coordinate
-238297	coordinate
-238355	subordinate
-coordinate
-238364	coordinate
-238378	subordinate
-238387	coordinate
-238390	coordinate
-238399	subordinate
-coordinate
-238408	coordinate
-238421	subordinate
-238433	subordinate
-238436	subordinate
-238439	coordinate
-238441	coordinate
-238449	subordinate
-238451	coordinate
-238454	coordinate
-238465	subordinate
-coordinate
-coordinate
-238472	coordinate
-238480	subordinate
-238527	coordinate
-238532	coordinate
-coordinate
-238539	coordinate
-238544	subordinate
-238587	coordinate
-238590	coordinate
-238595	coordinate
-238606	coordinate
-238619	subordinate
-238622	subordinate
-238630	coordinate
-subordinate
-238636	coordinate
-238639	subordinate
-238646	subordinate
-238673	coordinate
-238675	coordinate
-238687	subordinate
-238696	coordinate
-238704	coordinate
-238708	subordinate
-238719	coordinate
-subordinate
-238722	coordinate
-238727	coordinate
-coordinate
-238731	coordinate
-238734	coordinate
-238745	coordinate
-coordinate
-238749	coordinate
-238751	coordinate
-238762	coordinate
-238764	coordinate
-238766	coordinate
-238770	coordinate
-238773	coordinate
-238794	coordinate
-238806	coordinate
-238813	subordinate
-subordinate
-238840	subordinate
-238850	subordinate
-238870	subordinate
-238881	coordinate
-238888	coordinate
-238894	subordinate
-238911	coordinate
-238914	coordinate
-238919	coordinate
-238923	coordinate
-238927	subordinate
-subordinate
-subordinate
-subordinate
-238953	subordinate
-238956	subordinate
-coordinate
-238961	coordinate
-238976	coordinate
-238984	coordinate
-238989	coordinate
-238994	coordinate
-239001	coordinate
-239009	coordinate
-239015	coordinate
-subordinate
-239031	coordinate
-239037	coordinate
-239057	subordinate
-coordinate
-239062	coordinate
-239070	subordinate
-subordinate
-239085	subordinate
-239090	coordinate
-239096	coordinate
-239117	subordinate
-239123	subordinate
-239136	subordinate
-coordinate
-239152	subordinate
-239159	subordinate
-coordinate
-239163	coordinate
-239176	coordinate
-239178	coordinate
-239184	coordinate
-239186	coordinate
-239209	coordinate
-239212	coordinate
-239214	subordinate
-239223	subordinate
-239252	subordinate
-subordinate
-239270	subordinate
-239282	coordinate
-coordinate
-subordinate
-239288	coordinate
-239295	coordinate
-239309	coordinate
-coordinate
-239312	coordinate
-239333	subordinate
-239342	coordinate
-239346	coordinate
-239351	subordinate
-239369	coordinate
-239371	coordinate
-239384	coordinate
-239389	coordinate
-239403	subordinate
-239416	coordinate
-239420	coordinate
-239424	coordinate
-239426	subordinate
-239430	coordinate
-coordinate
-239437	coordinate
-239453	subordinate
-239463	subordinate
-239471	subordinate
-coordinate
-coordinate
-coordinate
-subordinate
-239479	coordinate
-239484	coordinate
-239487	coordinate
-239490	coordinate
-239492	coordinate
-239498	coordinate
-239501	coordinate
-subordinate
-239509	coordinate
-239520	coordinate
-239524	subordinate
-239526	coordinate
-239534	coordinate
-239542	coordinate
-239547	subordinate
-239585	subordinate
-239622	subordinate
-239636	subordinate
-coordinate
-subordinate
-239640	coordinate
-subordinate
-239643	coordinate
-subordinate
-subordinate
-239655	subordinate
-239666	coordinate
-subordinate
-239669	coordinate
-subordinate
-239672	subordinate
-coordinate
-subordinate
-239679	coordinate
-239681	subordinate
-239687	coordinate
-239691	coordinate
-239699	coordinate
-coordinate
-239705	coordinate
-239712	subordinate
-239735	subordinate
-coordinate
-239744	coordinate
-239754	coordinate
-239762	subordinate
-coordinate
-239769	coordinate
-239771	coordinate
-239776	coordinate
-239796	subordinate
-239802	coordinate
-coordinate
-239805	coordinate
-subordinate
-coordinate
-coordinate
-239810	coordinate
-coordinate
-coordinate
-239814	coordinate
-coordinate
-coordinate
-239818	coordinate
-coordinate
-coordinate
-239822	coordinate
-coordinate
-coordinate
-239827	coordinate
-239835	coordinate
-239837	coordinate
-coordinate
-subordinate
-239841	coordinate
-239843	coordinate
-coordinate
-239846	coordinate
-239848	coordinate
-239850	coordinate
-coordinate
-subordinate
-239854	coordinate
-239856	coordinate
-coordinate
-239859	coordinate
-239861	coordinate
-239863	coordinate
-subordinate
-subordinate
-subordinate
-239870	coordinate
-239875	subordinate
-239881	subordinate
-239911	coordinate
-coordinate
-239914	coordinate
-subordinate
-coordinate
-coordinate
-239919	coordinate
-coordinate
-coordinate
-239923	coordinate
-coordinate
-coordinate
-239927	coordinate
-coordinate
-coordinate
-239933	coordinate
-239941	coordinate
-subordinate
-subordinate
-subordinate
-239946	subordinate
-239953	coordinate
-239961	subordinate
-239968	coordinate
-239972	coordinate
-239982	subordinate
-239993	coordinate
-239998	coordinate
-240007	coordinate
-240024	subordinate
-coordinate
-240028	coordinate
-240037	subordinate
-240052	coordinate
-subordinate
-240057	coordinate
-240065	subordinate
-240075	subordinate
-coordinate
-240078	coordinate
-240082	subordinate
-240094	coordinate
-240098	coordinate
-240102	subordinate
-240116	subordinate
-240124	subordinate
-240129	subordinate
-240139	subordinate
-240150	subordinate
-240163	subordinate
-240169	coordinate
-240191	coordinate
-240195	subordinate
-240198	coordinate
-240222	subordinate
-subordinate
-240231	subordinate
-240243	coordinate
-240249	subordinate
-240252	coordinate
-240264	subordinate
-240270	subordinate
-240285	coordinate
-subordinate
-coordinate
-240290	coordinate
-240293	subordinate
-240305	subordinate
-coordinate
-240308	coordinate
-240314	subordinate
-240341	subordinate
-240351	subordinate
-240369	coordinate
-240372	coordinate
-240377	coordinate
-240386	subordinate
-240390	subordinate
-240403	subordinate
-subordinate
-240410	subordinate
-subordinate
-240422	coordinate
-240427	subordinate
-240433	subordinate
-subordinate
-240438	subordinate
-240445	subordinate
-coordinate
-240448	coordinate
-240457	coordinate
-240459	coordinate
-240464	subordinate
-240475	subordinate
-240480	coordinate
-coordinate
-subordinate
-coordinate
-subordinate
-240488	coordinate
-coordinate
-240493	coordinate
-subordinate
-240499	subordinate
-240505	coordinate
-240507	coordinate
-240509	subordinate
-240514	coordinate
-240517	coordinate
-240521	subordinate
-240529	subordinate
-240531	subordinate
-240539	subordinate
-subordinate
-240542	subordinate
-240549	subordinate
-subordinate
-240552	subordinate
-240557	coordinate
-240565	coordinate
-240567	coordinate
-240569	coordinate
-240572	coordinate
-240589	coordinate
-240594	coordinate
-240616	subordinate
-240622	subordinate
-240627	coordinate
-240637	coordinate
-subordinate
-240643	coordinate
-240647	coordinate
-240651	subordinate
-240656	coordinate
-subordinate
-240674	subordinate
-240684	coordinate
-subordinate
-240689	coordinate
-240699	subordinate
-240708	coordinate
-240711	subordinate
-240717	subordinate
-240719	coordinate
-240723	subordinate
-240725	coordinate
-240727	coordinate
-240731	subordinate
-240739	subordinate
-240758	coordinate
-240766	coordinate
-subordinate
-240770	subordinate
-240784	subordinate
-240786	coordinate
-240793	subordinate
-240796	subordinate
-coordinate
-240802	coordinate
-240808	subordinate
-240829	subordinate
-240839	coordinate
-240844	subordinate
-coordinate
-240853	coordinate
-240874	subordinate
-240878	coordinate
-coordinate
-240884	coordinate
-240886	coordinate
-240916	subordinate
-240924	coordinate
-240943	subordinate
-240952	subordinate
-240958	subordinate
-coordinate
-240978	subordinate
-subordinate
-240983	subordinate
-240998	subordinate
-subordinate
-241003	coordinate
-subordinate
-241006	coordinate
-241017	subordinate
-241025	subordinate
-241037	coordinate
-subordinate
-241043	coordinate
-subordinate
-241049	subordinate
-241053	subordinate
-241057	subordinate
-241062	subordinate
-241088	coordinate
-241101	coordinate
-241108	subordinate
-241143	subordinate
-241151	subordinate
-241158	subordinate
-241168	subordinate
-241177	subordinate
-241208	subordinate
-241221	coordinate
-241224	coordinate
-241229	subordinate
-241232	subordinate
-241270	coordinate
-241272	coordinate
-subordinate
-241287	subordinate
-241301	coordinate
-241305	subordinate
-241308	subordinate
-241314	subordinate
-241324	coordinate
-subordinate
-241328	coordinate
-subordinate
-241335	coordinate
-241340	coordinate
-subordinate
-241349	coordinate
-subordinate
-241354	coordinate
-241361	coordinate
-241363	subordinate
-241365	coordinate
-241368	coordinate
-241372	coordinate
-241379	subordinate
-241382	subordinate
-241386	subordinate
-241392	subordinate
-241395	subordinate
-241400	subordinate
-241402	subordinate
-241407	subordinate
-subordinate
-241412	coordinate
-subordinate
-241416	subordinate
-241418	coordinate
-subordinate
-241440	coordinate
-241443	coordinate
-241450	subordinate
-coordinate
-241460	coordinate
-241463	coordinate
-241466	coordinate
-241469	subordinate
-241473	coordinate
-241479	subordinate
-241487	subordinate
-241490	coordinate
-241497	coordinate
-241506	subordinate
-241549	subordinate
-241563	subordinate
-241569	subordinate
-coordinate
-241574	coordinate
-241576	coordinate
-241578	coordinate
-241589	subordinate
-241594	subordinate
-241600	coordinate
-241609	coordinate
-241612	coordinate
-241615	coordinate
-241618	coordinate
-coordinate
-241624	subordinate
-241626	coordinate
-subordinate
-241637	coordinate
-241648	subordinate
-241664	subordinate
-241670	subordinate
-241705	subordinate
-241713	subordinate
-241717	coordinate
-subordinate
-241724	coordinate
-241734	coordinate
-subordinate
-241772	subordinate
-241779	subordinate
-241785	coordinate
-coordinate
-subordinate
-241796	coordinate
-241810	subordinate
-241814	subordinate
-241816	subordinate
-241834	subordinate
-241843	coordinate
-241845	subordinate
-coordinate
-241849	coordinate
-241852	coordinate
-241857	coordinate
-241862	coordinate
-241869	coordinate
-241876	coordinate
-241881	subordinate
-241897	subordinate
-241900	subordinate
-241911	subordinate
-241916	coordinate
-241930	subordinate
-241937	subordinate
-241948	coordinate
-subordinate
-241953	coordinate
-241977	subordinate
-241987	subordinate
-coordinate
-241992	coordinate
-242002	subordinate
-242008	subordinate
-242012	coordinate
-242014	coordinate
-242019	subordinate
-242021	subordinate
-242034	coordinate
-coordinate
-242046	coordinate
-subordinate
-242049	coordinate
-242053	subordinate
-242067	subordinate
-242082	subordinate
-242138	subordinate
-242146	coordinate
-242156	coordinate
-242161	subordinate
-242168	subordinate
-coordinate
-coordinate
-242173	coordinate
-242179	coordinate
-242192	subordinate
-subordinate
-242200	coordinate
-242202	coordinate
-242212	coordinate
-242217	coordinate
-242224	subordinate
-242227	subordinate
-coordinate
-242231	coordinate
-242257	coordinate
-242261	subordinate
-242265	coordinate
-coordinate
-242270	coordinate
-242282	subordinate
-coordinate
-242292	coordinate
-242295	coordinate
-242300	coordinate
-242302	coordinate
-242308	subordinate
-242313	subordinate
-242329	coordinate
-242332	coordinate
-subordinate
-242338	subordinate
-242343	coordinate
-subordinate
-242355	subordinate
-242360	coordinate
-242364	subordinate
-242381	subordinate
-242394	coordinate
-subordinate
-242397	coordinate
-242399	subordinate
-242404	coordinate
-242412	coordinate
-242422	subordinate
-242435	coordinate
-242437	coordinate
-242442	subordinate
-coordinate
-242448	coordinate
-242454	subordinate
-subordinate
-242465	coordinate
-242471	coordinate
-242485	subordinate
-242499	coordinate
-242502	subordinate
-242504	coordinate
-242509	subordinate
-subordinate
-242515	coordinate
-242518	coordinate
-242546	coordinate
-242548	subordinate
-242551	coordinate
-coordinate
-242556	subordinate
-242559	subordinate
-242563	coordinate
-242565	subordinate
-242567	coordinate
-242575	coordinate
-242581	coordinate
-coordinate
-242596	subordinate
-242598	subordinate
-242601	subordinate
-242606	subordinate
-coordinate
-242615	coordinate
-242621	subordinate
-coordinate
-242624	coordinate
-242629	subordinate
-subordinate
-242634	coordinate
-subordinate
-subordinate
-242647	coordinate
-242651	coordinate
-242655	coordinate
-subordinate
-242663	coordinate
-242666	coordinate
-242669	coordinate
-242673	subordinate
-242679	coordinate
-subordinate
-subordinate
-coordinate
-242684	coordinate
-242686	subordinate
-subordinate
-subordinate
-242691	coordinate
-242711	coordinate
-subordinate
-subordinate
-242719	coordinate
-242724	subordinate
-242727	subordinate
-242732	coordinate
-subordinate
-subordinate
-242741	coordinate
-subordinate
-242750	subordinate
-242764	subordinate
-coordinate
-242776	subordinate
-242778	subordinate
-242799	coordinate
-242808	coordinate
-242810	coordinate
-coordinate
-242815	coordinate
-242817	coordinate
-242824	subordinate
-242834	coordinate
-242838	coordinate
-242845	coordinate
-242847	coordinate
-subordinate
-242851	subordinate
-subordinate
-coordinate
-242855	coordinate
-242868	coordinate
-242873	coordinate
-242877	coordinate
-subordinate
-subordinate
-242891	subordinate
-242895	coordinate
-subordinate
-242901	coordinate
-242912	subordinate
-coordinate
-242915	coordinate
-242940	subordinate
-242943	coordinate
-242947	coordinate
-242952	coordinate
-subordinate
-coordinate
-242967	coordinate
-242971	coordinate
-242981	coordinate
-242994	subordinate
-242997	subordinate
-243004	subordinate
-243010	subordinate
-243014	coordinate
-243028	subordinate
-coordinate
-243037	coordinate
-243042	coordinate
-coordinate
-243050	subordinate
-coordinate
-243055	coordinate
-coordinate
-243059	coordinate
-243062	coordinate
-243069	coordinate
-subordinate
-243076	coordinate
-243079	subordinate
-subordinate
-243088	subordinate
-243096	subordinate
-coordinate
-243099	coordinate
-243107	coordinate
-243115	coordinate
-243122	subordinate
-subordinate
-243126	coordinate
-243135	coordinate
-243140	coordinate
-243161	subordinate
-subordinate
-243173	subordinate
-243191	subordinate
-243193	coordinate
-243195	coordinate
-243197	coordinate
-243199	coordinate
-243206	subordinate
-243208	subordinate
-243220	coordinate
-243222	coordinate
-243228	subordinate
-243234	subordinate
-243270	subordinate
-subordinate
-243284	subordinate
-243288	subordinate
-243291	subordinate
-subordinate
-243296	coordinate
-243300	subordinate
-subordinate
-243303	coordinate
-243314	subordinate
-243318	coordinate
-coordinate
-243323	coordinate
-subordinate
-243326	coordinate
-243333	coordinate
-subordinate
-243337	coordinate
-subordinate
-subordinate
-coordinate
-243342	coordinate
-subordinate
-243348	coordinate
-243351	coordinate
-coordinate
-243355	coordinate
-coordinate
-243367	coordinate
-243399	subordinate
-subordinate
-subordinate
-243405	subordinate
-243408	subordinate
-243422	coordinate
-243425	coordinate
-243435	subordinate
-243438	subordinate
-243443	subordinate
-243445	subordinate
-243452	subordinate
-243456	subordinate
-243461	subordinate
-coordinate
-243466	coordinate
-coordinate
-subordinate
-coordinate
-243474	subordinate
-subordinate
-243483	subordinate
-243486	coordinate
-243509	coordinate
-subordinate
-243519	coordinate
-243527	coordinate
-243535	coordinate
-subordinate
-243538	subordinate
-243542	coordinate
-243559	subordinate
-243569	subordinate
-243597	subordinate
-243603	coordinate
-243606	subordinate
-subordinate
-subordinate
-243613	coordinate
-243624	coordinate
-243636	subordinate
-243645	coordinate
-coordinate
-243650	coordinate
-coordinate
-243654	coordinate
-243656	coordinate
-coordinate
-coordinate
-243665	coordinate
-243671	coordinate
-243674	subordinate
-243677	coordinate
-243682	coordinate
-coordinate
-243687	coordinate
-coordinate
-coordinate
-243692	coordinate
-243694	coordinate
-243696	coordinate
-coordinate
-243703	coordinate
-coordinate
-subordinate
-243709	coordinate
-243720	subordinate
-subordinate
-243726	subordinate
-243738	coordinate
-243745	coordinate
-243752	subordinate
-coordinate
-coordinate
-subordinate
-243757	coordinate
-243759	coordinate
-coordinate
-subordinate
-243763	coordinate
-243765	coordinate
-243767	coordinate
-243772	coordinate
-243776	coordinate
-243787	coordinate
-243795	coordinate
-243797	subordinate
-243799	coordinate
-243802	coordinate
-243817	coordinate
-subordinate
-subordinate
-243823	coordinate
-coordinate
-243827	coordinate
-243844	coordinate
-243849	coordinate
-coordinate
-243864	subordinate
-243867	coordinate
-243879	coordinate
-243882	coordinate
-243884	coordinate
-243899	subordinate
-coordinate
-243904	coordinate
-243910	subordinate
-243919	subordinate
-243922	subordinate
-243924	coordinate
-coordinate
-subordinate
-243931	subordinate
-subordinate
-243942	coordinate
-subordinate
-243947	coordinate
-243954	coordinate
-243958	subordinate
-243969	subordinate
-coordinate
-243975	coordinate
-coordinate
-243982	coordinate
-243988	subordinate
-243993	coordinate
-coordinate
-coordinate
-244002	subordinate
-244006	subordinate
-244012	coordinate
-244017	coordinate
-244025	coordinate
-subordinate
-subordinate
-244039	subordinate
-coordinate
-244042	coordinate
-244046	coordinate
-244048	subordinate
-subordinate
-subordinate
-244064	subordinate
-subordinate
-244069	coordinate
-244072	coordinate
-244091	subordinate
-244094	subordinate
-244098	coordinate
-244104	coordinate
-244108	coordinate
-244112	subordinate
-subordinate
-244120	subordinate
-244126	coordinate
-244132	subordinate
-244137	coordinate
-subordinate
-244149	coordinate
-244152	coordinate
-244163	coordinate
-244171	subordinate
-244208	coordinate
-244210	subordinate
-244214	coordinate
-244218	coordinate
-coordinate
-244223	coordinate
-244226	coordinate
-subordinate
-244231	coordinate
-244243	coordinate
-244247	coordinate
-coordinate
-subordinate
-244253	coordinate
-244255	coordinate
-244257	subordinate
-244292	subordinate
-244297	subordinate
-244308	subordinate
-244318	subordinate
-244326	coordinate
-subordinate
-244334	coordinate
-coordinate
-244343	coordinate
-244349	coordinate
-244353	coordinate
-244363	subordinate
-244371	coordinate
-244375	coordinate
-coordinate
-subordinate
-244381	subordinate
-coordinate
-244384	coordinate
-244389	coordinate
-244400	coordinate
-244406	subordinate
-subordinate
-244421	subordinate
-244426	coordinate
-244429	coordinate
-244436	coordinate
-subordinate
-coordinate
-244441	coordinate
-244445	coordinate
-coordinate
-244448	coordinate
-subordinate
-244452	subordinate
-244455	coordinate
-244459	coordinate
-244470	coordinate
-244476	coordinate
-244480	subordinate
-244482	coordinate
-coordinate
-subordinate
-244489	coordinate
-244497	subordinate
-244500	subordinate
-coordinate
-244503	coordinate
-244511	coordinate
-244514	coordinate
-244519	subordinate
-coordinate
-244525	coordinate
-244529	coordinate
-244534	coordinate
-coordinate
-244537	coordinate
-244540	subordinate
-244544	subordinate
-244555	subordinate
-244562	coordinate
-244578	subordinate
-244580	subordinate
-244584	subordinate
-244596	coordinate
-subordinate
-244605	subordinate
-244611	coordinate
-244613	subordinate
-244616	subordinate
-subordinate
-244619	coordinate
-244621	coordinate
-244633	coordinate
-244636	coordinate
-244657	subordinate
-subordinate
-244667	subordinate
-244670	subordinate
-244681	coordinate
-244687	coordinate
-coordinate
-244691	subordinate
-244696	subordinate
-244702	coordinate
-244705	coordinate
-244712	coordinate
-subordinate
-244724	coordinate
-subordinate
-244730	subordinate
-244746	coordinate
-244749	coordinate
-244751	subordinate
-244766	subordinate
-244770	coordinate
-coordinate
-244773	coordinate
-244778	coordinate
-244786	subordinate
-244793	subordinate
-244796	coordinate
-244798	coordinate
-244804	coordinate
-244843	subordinate
-244859	subordinate
-244862	subordinate
-subordinate
-244876	subordinate
-244880	coordinate
-244883	coordinate
-subordinate
-244887	coordinate
-244900	subordinate
-244902	coordinate
-coordinate
-coordinate
-coordinate
-244909	coordinate
-coordinate
-244912	coordinate
-244918	coordinate
-244924	subordinate
-244927	coordinate
-244930	coordinate
-244933	coordinate
-244935	subordinate
-244948	subordinate
-244950	subordinate
-244952	coordinate
-244955	coordinate
-coordinate
-244959	coordinate
-244967	subordinate
-244974	coordinate
-244980	coordinate
-244995	subordinate
-245001	subordinate
-245010	coordinate
-245013	subordinate
-245026	subordinate
-245034	subordinate
-245042	coordinate
-coordinate
-245046	coordinate
-subordinate
-245049	coordinate
-245053	coordinate
-coordinate
-245057	subordinate
-245062	coordinate
-245064	coordinate
-coordinate
-subordinate
-245068	coordinate
-245076	subordinate
-245089	coordinate
-coordinate
-245096	coordinate
-245108	coordinate
-subordinate
-245112	coordinate
-245119	subordinate
-245128	subordinate
-245144	subordinate
-245160	subordinate
-245168	subordinate
-245172	subordinate
-245174	subordinate
-245180	coordinate
-subordinate
-245185	coordinate
-coordinate
-coordinate
-245192	coordinate
-245195	coordinate
-245202	coordinate
-subordinate
-245207	coordinate
-245211	coordinate
-245216	coordinate
-245221	coordinate
-245223	subordinate
-coordinate
-245226	coordinate
-245232	coordinate
-245238	coordinate
-245240	subordinate
-coordinate
-245249	coordinate
-subordinate
-245262	coordinate
-coordinate
-subordinate
-245266	coordinate
-245268	coordinate
-coordinate
-245274	coordinate
-245278	coordinate
-subordinate
-245282	coordinate
-245286	subordinate
-245289	subordinate
-245291	coordinate
-subordinate
-245298	subordinate
-245303	coordinate
-245306	coordinate
-245310	subordinate
-subordinate
-245317	subordinate
-245321	subordinate
-245323	subordinate
-245328	coordinate
-subordinate
-245333	coordinate
-subordinate
-245346	subordinate
-245354	subordinate
-245370	coordinate
-coordinate
-subordinate
-245379	subordinate
-245383	coordinate
-245386	coordinate
-245390	subordinate
-245392	coordinate
-245398	coordinate
-245400	coordinate
-245404	coordinate
-245409	coordinate
-245422	subordinate
-coordinate
-245434	subordinate
-245439	subordinate
-245442	subordinate
-245448	coordinate
-245454	coordinate
-245460	subordinate
-245462	subordinate
-245467	subordinate
-245474	subordinate
-245480	subordinate
-245486	subordinate
-subordinate
-245493	coordinate
-245495	subordinate
-coordinate
-245498	coordinate
-245502	coordinate
-245514	coordinate
-245519	coordinate
-245528	subordinate
-coordinate
-245532	coordinate
-245539	coordinate
-subordinate
-245545	coordinate
-245553	coordinate
-subordinate
-245559	coordinate
-subordinate
-245565	subordinate
-subordinate
-245569	subordinate
-245573	coordinate
-subordinate
-245576	subordinate
-245598	subordinate
-245609	subordinate
-coordinate
-245626	coordinate
-245632	subordinate
-subordinate
-245635	subordinate
-245640	coordinate
-245642	subordinate
-subordinate
-245647	subordinate
-245660	coordinate
-245669	coordinate
-245683	coordinate
-coordinate
-245689	coordinate
-245694	coordinate
-subordinate
-245699	subordinate
-245714	subordinate
-245721	coordinate
-245729	coordinate
-245747	subordinate
-245751	subordinate
-245756	subordinate
-245772	subordinate
-245775	coordinate
-245779	coordinate
-245784	subordinate
-245787	subordinate
-245789	coordinate
-245801	subordinate
-245825	subordinate
-245827	subordinate
-coordinate
-245832	coordinate
-coordinate
-245837	coordinate
-245870	coordinate
-245875	coordinate
-245880	subordinate
-245887	coordinate
-subordinate
-245890	subordinate
-245892	coordinate
-subordinate
-245897	subordinate
-245905	subordinate
-245930	subordinate
-245933	subordinate
-subordinate
-coordinate
-245940	coordinate
-245945	coordinate
-245975	subordinate
-245979	subordinate
-coordinate
-245985	coordinate
-245990	subordinate
-246006	coordinate
-246017	coordinate
-subordinate
-246028	coordinate
-subordinate
-246033	coordinate
-coordinate
-subordinate
-246042	subordinate
-246046	coordinate
-246050	coordinate
-coordinate
-246057	coordinate
-246075	subordinate
-coordinate
-246079	coordinate
-246083	coordinate
-246089	coordinate
-subordinate
-246092	subordinate
-246099	subordinate
-coordinate
-246103	coordinate
-subordinate
-246109	subordinate
-246127	subordinate
-246142	subordinate
-246148	coordinate
-coordinate
-subordinate
-246153	subordinate
-246155	coordinate
-246160	subordinate
-246162	coordinate
-246171	subordinate
-subordinate
-246177	coordinate
-coordinate
-246180	coordinate
-246182	coordinate
-246196	subordinate
-246208	coordinate
-246211	coordinate
-subordinate
-subordinate
-246217	subordinate
-246221	subordinate
-246232	subordinate
-246238	subordinate
-subordinate
-246245	coordinate
-subordinate
-246250	subordinate
-246278	subordinate
-246288	subordinate
-246293	coordinate
-subordinate
-246296	coordinate
-subordinate
-246303	subordinate
-246317	subordinate
-246339	coordinate
-246347	coordinate
-subordinate
-246356	subordinate
-246360	subordinate
-246367	subordinate
-246372	subordinate
-subordinate
-246377	coordinate
-246383	coordinate
-coordinate
-246386	coordinate
-246388	coordinate
-246420	subordinate
-246428	coordinate
-246432	coordinate
-coordinate
-246445	subordinate
-246448	subordinate
-246464	subordinate
-coordinate
-246470	coordinate
-coordinate
-246480	coordinate
-246482	coordinate
-246492	subordinate
-246494	subordinate
-246498	coordinate
-subordinate
-coordinate
-246502	coordinate
-246512	subordinate
-coordinate
-246516	coordinate
-246522	subordinate
-246529	subordinate
-subordinate
-246533	coordinate
-246535	coordinate
-246539	coordinate
-246543	subordinate
-246545	subordinate
-246551	subordinate
-246562	subordinate
-coordinate
-246567	coordinate
-246599	subordinate
-246623	subordinate
-246625	subordinate
-246633	coordinate
-246643	coordinate
-246650	coordinate
-246657	subordinate
-246663	subordinate
-246667	coordinate
-246670	coordinate
-246676	subordinate
-246681	coordinate
-subordinate
-246684	coordinate
-246688	coordinate
-246690	coordinate
-246692	coordinate
-246696	subordinate
-246698	subordinate
-246702	coordinate
-subordinate
-246718	coordinate
-subordinate
-246721	coordinate
-246733	subordinate
-246735	subordinate
-246737	subordinate
-246760	subordinate
-246765	coordinate
-246767	subordinate
-246776	coordinate
-246778	coordinate
-246784	coordinate
-246787	coordinate
-246789	subordinate
-246791	subordinate
-246796	subordinate
-246799	subordinate
-coordinate
-246804	coordinate
-246809	coordinate
-246812	subordinate
-246814	coordinate
-subordinate
-246832	subordinate
-246837	coordinate
-subordinate
-246841	coordinate
-246843	coordinate
-246846	coordinate
-246856	coordinate
-246860	subordinate
-246880	coordinate
-subordinate
-246884	coordinate
-subordinate
-246888	subordinate
-246898	subordinate
-246903	coordinate
-246906	coordinate
-246908	coordinate
-246912	coordinate
-246915	subordinate
-246919	subordinate
-subordinate
-246930	subordinate
-246935	subordinate
-246962	coordinate
-246965	coordinate
-246970	subordinate
-coordinate
-246973	coordinate
-246978	subordinate
-246986	coordinate
-246988	subordinate
-246992	coordinate
-247003	subordinate
-247012	subordinate
-247014	subordinate
-247018	coordinate
-subordinate
-247029	coordinate
-247036	coordinate
-247043	coordinate
-247045	coordinate
-subordinate
-247052	coordinate
-247055	coordinate
-subordinate
-247064	subordinate
-247082	coordinate
-subordinate
-247089	subordinate
-subordinate
-247099	coordinate
-subordinate
-247105	subordinate
-247107	coordinate
-subordinate
-247117	coordinate
-coordinate
-subordinate
-247122	coordinate
-247130	coordinate
-247137	coordinate
-247140	subordinate
-247148	subordinate
-subordinate
-coordinate
-247155	coordinate
-subordinate
-247160	subordinate
-247171	subordinate
-247193	subordinate
-coordinate
-247200	coordinate
-247207	subordinate
-247212	coordinate
-subordinate
-247217	coordinate
-subordinate
-247232	subordinate
-247237	coordinate
-subordinate
-247242	coordinate
-subordinate
-247252	subordinate
-247257	coordinate
-subordinate
-247264	coordinate
-subordinate
-247271	coordinate
-247275	coordinate
-247287	subordinate
-247292	coordinate
-247295	coordinate
-247300	coordinate
-subordinate
-247311	coordinate
-coordinate
-247315	coordinate
-247317	subordinate
-247323	subordinate
-247326	subordinate
-247331	subordinate
-247337	subordinate
-coordinate
-247341	coordinate
-247361	coordinate
-247369	coordinate
-247376	coordinate
-coordinate
-247382	subordinate
-247395	coordinate
-subordinate
-247398	coordinate
-247402	coordinate
-247407	subordinate
-subordinate
-247415	subordinate
-247423	coordinate
-subordinate
-247431	subordinate
-247436	subordinate
-247445	subordinate
-247451	subordinate
-247457	subordinate
-subordinate
-247467	subordinate
-coordinate
-247470	coordinate
-247476	subordinate
-247487	subordinate
-247493	coordinate
-coordinate
-coordinate
-coordinate
-coordinate
-coordinate
-247515	coordinate
-247517	subordinate
-247523	coordinate
-247526	coordinate
-subordinate
-247529	coordinate
-247532	coordinate
-247535	coordinate
-247541	subordinate
-247544	subordinate
-247546	subordinate
-247552	subordinate
-247576	subordinate
-247581	subordinate
-247587	coordinate
-subordinate
-247594	coordinate
-247606	subordinate
-247609	subordinate
-247613	coordinate
-247616	coordinate
-247619	subordinate
-247627	coordinate
-247629	coordinate
-247637	subordinate
-247651	subordinate
-coordinate
-247665	coordinate
-247675	coordinate
-247678	coordinate
-247683	coordinate
-coordinate
-247687	subordinate
-247690	coordinate
-247694	coordinate
-coordinate
-247697	coordinate
-247703	subordinate
-247708	subordinate
-247714	coordinate
-247723	coordinate
-coordinate
-247726	coordinate
-247729	coordinate
-coordinate
-247732	coordinate
-247734	coordinate
-247736	coordinate
-247738	coordinate
-247754	subordinate
-247760	subordinate
-247767	subordinate
-coordinate
-247772	coordinate
-247782	subordinate
-247785	subordinate
-coordinate
-247791	coordinate
-247804	coordinate
-coordinate
-247810	coordinate
-247815	coordinate
-coordinate
-247824	subordinate
-247826	coordinate
-247830	subordinate
-247832	subordinate
-247839	subordinate
-247844	coordinate
-247847	subordinate
-247850	coordinate
-247857	coordinate
-247859	coordinate
-coordinate
-subordinate
-247863	subordinate
-247867	coordinate
-subordinate
-247870	subordinate
-247874	subordinate
-coordinate
-247880	subordinate
-247882	coordinate
-coordinate
-247885	coordinate
-247898	coordinate
-247901	coordinate
-247923	subordinate
-coordinate
-247946	subordinate
-247955	coordinate
-coordinate
-coordinate
-247961	subordinate
-247964	subordinate
-247970	subordinate
-247973	subordinate
-247993	coordinate
-247995	coordinate
-248002	subordinate
-248012	coordinate
-248020	coordinate
-248027	coordinate
-subordinate
-248030	subordinate
-248036	coordinate
-248038	coordinate
-248047	coordinate
-248051	coordinate
-248055	coordinate
-248057	coordinate
-coordinate
-subordinate
-248064	coordinate
-248072	subordinate
-248078	subordinate
-248086	coordinate
-248091	coordinate
-coordinate
-248096	coordinate
-248101	coordinate
-248107	coordinate
-subordinate
-248122	coordinate
-subordinate
-248128	coordinate
-subordinate
-248132	subordinate
-248137	coordinate
-248150	subordinate
-248167	subordinate
-subordinate
-248175	coordinate
-248177	subordinate
-248180	subordinate
-248182	subordinate
-248187	subordinate
-248204	coordinate
-subordinate
-248208	subordinate
-248219	coordinate
-248239	coordinate
-248243	coordinate
-248253	coordinate
-248258	coordinate
-248264	coordinate
-248266	subordinate
-248268	subordinate
-248271	subordinate
-248281	subordinate
-248287	subordinate
-subordinate
-248294	subordinate
-248304	subordinate
-248318	coordinate
-248320	coordinate
-248324	coordinate
-coordinate
-248332	subordinate
-248340	subordinate
-248347	coordinate
-248353	subordinate
-subordinate
-248358	subordinate
-248361	subordinate
-248382	coordinate
-248393	coordinate
-248401	subordinate
-248407	coordinate
-coordinate
-248411	coordinate
-248420	coordinate
-248426	coordinate
-248435	coordinate
-248445	coordinate
-248453	subordinate
-248455	subordinate
-248460	subordinate
-248477	coordinate
-248479	coordinate
-248481	coordinate
-248483	coordinate
-248485	coordinate
-248487	coordinate
-248495	subordinate
-248505	coordinate
-subordinate
-248508	coordinate
-248516	coordinate
-248518	coordinate
-248522	coordinate
-248526	coordinate
-248531	coordinate
-248533	coordinate
-248556	coordinate
-248560	coordinate
-248565	coordinate
-subordinate
-248568	coordinate
-248578	coordinate
-coordinate
-248581	coordinate
-248584	coordinate
-248599	coordinate
-248602	coordinate
-248609	coordinate
-subordinate
-248612	coordinate
-248623	subordinate
-248635	subordinate
-248639	subordinate
-248645	coordinate
-248650	subordinate
-coordinate
-248654	coordinate
-248661	coordinate
-subordinate
-248664	coordinate
-248666	coordinate
-248668	coordinate
-248672	subordinate
-248679	subordinate
-248701	coordinate
-248704	coordinate
-248715	coordinate
-248719	subordinate
-248721	coordinate
-248728	subordinate
-coordinate
-248732	coordinate
-248734	coordinate
-248736	coordinate
-248741	coordinate
-248750	coordinate
-248753	coordinate
-subordinate
-248758	coordinate
-248761	coordinate
-subordinate
-248781	subordinate
-subordinate
-248786	subordinate
-248794	subordinate
-coordinate
-248798	coordinate
-248806	subordinate
-248808	coordinate
-248810	coordinate
-248812	coordinate
-248814	coordinate
-248846	coordinate
-248848	coordinate
-248854	subordinate
-248858	subordinate
-248870	subordinate
-248874	coordinate
-248880	coordinate
-248910	subordinate
-248925	coordinate
-coordinate
-248928	coordinate
-248931	coordinate
-248952	subordinate
-248972	subordinate
-248976	subordinate
-248978	subordinate
-249002	subordinate
-249011	coordinate
-249014	coordinate
-249033	coordinate
-subordinate
-249037	coordinate
-249054	coordinate
-249059	coordinate
-249065	subordinate
-249079	subordinate
-249088	subordinate
-249107	coordinate
-249112	coordinate
-249118	subordinate
-249173	coordinate
-249178	subordinate
-249180	subordinate
-249192	coordinate
-249200	coordinate
-249205	subordinate
-249212	coordinate
-subordinate
-249215	coordinate
-249221	coordinate
-249224	coordinate
-249238	coordinate
-249241	coordinate
-249244	coordinate
-249254	subordinate
-249263	subordinate
-subordinate
-249267	coordinate
-subordinate
-coordinate
-249277	subordinate
-coordinate
-249281	coordinate
-249288	coordinate
-coordinate
-249292	coordinate
-249294	coordinate
-coordinate
-249298	coordinate
-249319	subordinate
-subordinate
-249324	subordinate
-249336	coordinate
-coordinate
-249342	coordinate
-subordinate
-249348	coordinate
-249354	subordinate
-249382	coordinate
-249392	coordinate
-249398	subordinate
-249425	coordinate
-249429	coordinate
-249435	subordinate
-subordinate
-249446	coordinate
-249455	coordinate
-249460	coordinate
-249466	coordinate
-249475	subordinate
-249487	coordinate
-249490	coordinate
-249510	subordinate
-coordinate
-249515	coordinate
-249524	subordinate
-subordinate
-subordinate
-249539	subordinate
-249543	coordinate
-249549	coordinate
-249570	subordinate
-249583	subordinate
-coordinate
-249586	subordinate
-coordinate
-249591	coordinate
-249620	subordinate
-subordinate
-249626	subordinate
-249645	subordinate
-249670	subordinate
-249677	subordinate
-249698	subordinate
-coordinate
-249703	coordinate
-249722	coordinate
-coordinate
-249729	subordinate
-subordinate
-249732	coordinate
-249735	subordinate
-249738	subordinate
-249749	subordinate
-249756	subordinate
-249770	subordinate
-249774	coordinate
-subordinate
-249777	coordinate
-subordinate
-249782	subordinate
-249790	subordinate
-subordinate
-249797	subordinate
-249800	subordinate
-249805	coordinate
-249812	coordinate
-249816	coordinate
-249818	subordinate
-249822	coordinate
-249825	subordinate
-249846	subordinate
-249853	coordinate
-coordinate
-249857	coordinate
-249861	coordinate
-249864	subordinate
-249866	coordinate
-249895	subordinate
-coordinate
-249917	subordinate
-249919	coordinate
-249925	subordinate
-249928	coordinate
-249940	subordinate
-249948	coordinate
-subordinate
-subordinate
-249952	coordinate
-249963	coordinate
-subordinate
-subordinate
-249967	coordinate
-249996	subordinate
-250004	subordinate
-250019	coordinate
-250022	coordinate
-250025	coordinate
-250037	subordinate
-250051	subordinate
-subordinate
-subordinate
-250059	subordinate
-subordinate
-250070	coordinate
-250083	subordinate
-250087	coordinate
-250096	coordinate
-subordinate
-coordinate
-250100	coordinate
-250109	coordinate
-250111	coordinate
-250115	coordinate
-subordinate
-250120	coordinate
-250125	subordinate
-250142	coordinate
-coordinate
-250147	coordinate
-coordinate
-250150	coordinate
-subordinate
-250159	subordinate
-250164	coordinate
-250166	coordinate
-250168	subordinate
-250173	coordinate
-250176	coordinate
-250181	subordinate
-subordinate
-250188	coordinate
-250190	subordinate
-subordinate
-250193	subordinate
-250198	coordinate
-subordinate
-250203	coordinate
-250209	coordinate
-250212	coordinate
-250237	coordinate
-subordinate
-250244	coordinate
-250262	subordinate
-250265	subordinate
-250267	coordinate
-250269	coordinate
-250274	subordinate
-subordinate
-250278	coordinate
-250282	coordinate
-250285	coordinate
-250289	coordinate
-250294	subordinate
-250300	coordinate
-250306	subordinate
-250310	subordinate
-250316	subordinate
-250319	coordinate
-250322	subordinate
-250326	coordinate
-250330	subordinate
-250335	subordinate
-250339	coordinate
-250341	subordinate
-250344	coordinate
-coordinate
-250347	coordinate
-subordinate
-250353	coordinate
-250358	coordinate
-250369	coordinate
-250379	coordinate
-coordinate
-250385	coordinate
-250391	coordinate
-250403	coordinate
-250407	coordinate
-250410	coordinate
-250415	subordinate
-250423	coordinate
-250429	coordinate
-250441	subordinate
-250451	coordinate
-250453	coordinate
-250456	coordinate
-250471	coordinate
-250473	coordinate
-subordinate
-coordinate
-250483	coordinate
-250492	subordinate
-250505	subordinate
-250509	coordinate
-subordinate
-coordinate
-250513	coordinate
-250517	coordinate
-250522	coordinate
-250532	coordinate
-250539	subordinate
-subordinate
-250542	subordinate
-250556	coordinate
-250558	coordinate
-250569	subordinate
-250590	subordinate
-250595	subordinate
-coordinate
-250619	subordinate
-250623	subordinate
-250627	coordinate
-subordinate
-250637	subordinate
-250640	coordinate
-250653	subordinate
-250670	subordinate
-subordinate
-250695	subordinate
-250699	subordinate
-250706	subordinate
-250723	subordinate
-250729	subordinate
-250732	subordinate
-250745	subordinate
-250754	coordinate
-250756	subordinate
-subordinate
-250764	subordinate
-250766	subordinate
-250770	coordinate
-250777	coordinate
-250783	coordinate
-250785	coordinate
-subordinate
-250799	coordinate
-250803	coordinate
-250805	coordinate
-subordinate
-250811	coordinate
-250813	subordinate
-250815	coordinate
-250818	coordinate
-250822	coordinate
-250825	subordinate
-250833	subordinate
-250835	subordinate
-250842	subordinate
-250858	coordinate
-250860	subordinate
-250862	coordinate
-250866	coordinate
-250868	coordinate
-250872	subordinate
-250878	coordinate
-250881	coordinate
-250900	coordinate
-250903	coordinate
-250911	subordinate
-coordinate
-250922	coordinate
-250925	coordinate
-250928	subordinate
-250935	subordinate
-250942	subordinate
-250953	subordinate
-coordinate
-250956	coordinate
-250989	subordinate
-251005	subordinate
-251010	subordinate
-coordinate
-251013	coordinate
-subordinate
-251022	subordinate
-251027	subordinate
-251061	subordinate
-251081	coordinate
-subordinate
-subordinate
-251087	coordinate
-251100	subordinate
-251104	coordinate
-subordinate
-251119	subordinate
-251123	coordinate
-251130	coordinate
-251137	subordinate
-251144	subordinate
-251152	coordinate
-subordinate
-subordinate
-251157	coordinate
-251164	coordinate
-251179	subordinate
-251194	subordinate
-subordinate
-251222	subordinate
-251227	subordinate
-251232	coordinate
-subordinate
-251236	subordinate
-251239	subordinate
-251242	coordinate
-251283	subordinate
-251288	subordinate
-251292	subordinate
-251299	subordinate
-251303	subordinate
-251313	subordinate
-251317	subordinate
-coordinate
-251320	coordinate
-251326	coordinate
-251328	coordinate
-251334	subordinate
-251339	subordinate
-251343	subordinate
-251349	coordinate
-subordinate
-251360	subordinate
-251363	subordinate
-251368	subordinate
-251377	coordinate
-251380	coordinate
-251382	coordinate
-251384	coordinate
-251395	coordinate
-251399	coordinate
-251401	coordinate
-coordinate
-251404	subordinate
-251408	coordinate
-coordinate
-251412	coordinate
-251417	coordinate
-coordinate
-251427	coordinate
-251433	subordinate
-251435	coordinate
-251438	coordinate
-251443	subordinate
-251477	subordinate
-251481	subordinate
-251484	subordinate
-251492	subordinate
-subordinate
-251497	subordinate
-251505	coordinate
-251515	subordinate
-251520	coordinate
-coordinate
-251526	coordinate
-251534	subordinate
-251546	subordinate
-coordinate
-251550	coordinate
-251576	subordinate
-251596	subordinate
-251605	coordinate
-subordinate
-251608	coordinate
-251619	subordinate
-coordinate
-251624	coordinate
-251629	coordinate
-251646	coordinate
-251649	coordinate
-251654	coordinate
-251661	coordinate
-251677	subordinate
-251679	coordinate
-251683	coordinate
-251688	subordinate
-251699	coordinate
-251701	coordinate
-251710	subordinate
-251713	coordinate
-251720	coordinate
-subordinate
-coordinate
-251725	coordinate
-251729	subordinate
-coordinate
-251732	coordinate
-subordinate
-251735	subordinate
-251738	subordinate
-251749	coordinate
-251754	coordinate
-251763	coordinate
-subordinate
-subordinate
-251775	coordinate
-251778	coordinate
-251785	subordinate
-251813	subordinate
-251819	coordinate
-251835	subordinate
-251842	coordinate
-251849	subordinate
-251860	coordinate
-251876	subordinate
-251882	coordinate
-coordinate
-251886	coordinate
-251888	coordinate
-251893	coordinate
-251895	coordinate
-251898	coordinate
-251907	coordinate
-251914	coordinate
-251925	subordinate
-251929	subordinate
-251932	coordinate
-251936	coordinate
-251944	subordinate
-251959	coordinate
-251965	subordinate
-251990	coordinate
-subordinate
-252001	coordinate
-252006	coordinate
-252014	subordinate
-252020	coordinate
-252026	coordinate
-252030	coordinate
-252035	coordinate
-subordinate
-252039	coordinate
-subordinate
-252059	subordinate
-252088	coordinate
-252093	coordinate
-252102	subordinate
-252117	subordinate
-coordinate
-252121	coordinate
-252125	coordinate
-252144	coordinate
-252147	coordinate
-252149	coordinate
-subordinate
-252152	coordinate
-subordinate
-252159	subordinate
-252161	subordinate
-252175	coordinate
-252180	coordinate
-252187	coordinate
-252194	coordinate
-252210	coordinate
-252220	coordinate
-subordinate
-252224	coordinate
-252233	subordinate
-252237	coordinate
-252239	coordinate
-252261	subordinate
-252265	subordinate
-252275	coordinate
-coordinate
-252280	coordinate
-252284	coordinate
-subordinate
-252290	coordinate
-252296	coordinate
-252319	subordinate
-252326	coordinate
-252332	coordinate
-252340	subordinate
-252343	coordinate
-252345	coordinate
-252349	coordinate
-252356	subordinate
-252374	subordinate
-coordinate
-252380	coordinate
-252392	subordinate
-subordinate
-252410	subordinate
-252412	subordinate
-252430	subordinate
-252446	coordinate
-coordinate
-252450	coordinate
-252452	coordinate
-252471	subordinate
-252482	subordinate
-252511	subordinate
-252517	subordinate
-252526	coordinate
-252532	coordinate
-252540	coordinate
-252542	coordinate
-252545	subordinate
-252555	subordinate
-coordinate
-252558	coordinate
-252567	coordinate
-coordinate
-252571	coordinate
-252574	coordinate
-252600	subordinate
-coordinate
-252603	coordinate
-252612	subordinate
-coordinate
-252618	coordinate
-252621	coordinate
-252631	subordinate
-252641	coordinate
-252644	coordinate
-252656	coordinate
-subordinate
-252659	coordinate
-252667	subordinate
-252674	subordinate
-252701	subordinate
-252709	subordinate
-252719	subordinate
-252725	subordinate
-252747	subordinate
-252757	subordinate
-coordinate
-252769	subordinate
-252772	coordinate
-252794	coordinate
-coordinate
-252800	subordinate
-252804	coordinate
-252817	subordinate
-subordinate
-252832	coordinate
-252851	coordinate
-coordinate
-252865	subordinate
-252901	coordinate
-252910	coordinate
-252922	subordinate
-252924	coordinate
-252930	subordinate
-252946	coordinate
-subordinate
-252950	subordinate
-252957	coordinate
-252962	subordinate
-252970	coordinate
-252973	subordinate
-252976	coordinate
-252986	subordinate
-253002	coordinate
-253005	coordinate
-subordinate
-253008	coordinate
-253025	subordinate
-253029	coordinate
-253035	coordinate
-253038	coordinate
-253046	coordinate
-253052	coordinate
-subordinate
-subordinate
-253059	coordinate
-253066	coordinate
-subordinate
-253069	subordinate
-253077	subordinate
-coordinate
-253085	coordinate
-253087	coordinate
-253103	coordinate
-subordinate
-253117	subordinate
-253124	subordinate
-253129	subordinate
-253143	coordinate
-253146	coordinate
-253149	coordinate
-253182	subordinate
-coordinate
-253187	coordinate
-253190	coordinate
-253199	coordinate
-253220	subordinate
-253246	coordinate
-coordinate
-253250	coordinate
-253255	coordinate
-coordinate
-253260	coordinate
-253276	subordinate
-subordinate
-253282	subordinate
-253286	subordinate
-253305	subordinate
-253322	coordinate
-253325	subordinate
-253328	coordinate
-253340	subordinate
-253342	coordinate
-253349	coordinate
-253355	coordinate
-253357	subordinate
-253376	subordinate
-253384	coordinate
-coordinate
-253387	coordinate
-253389	coordinate
-253396	coordinate
-253408	subordinate
-253412	coordinate
-253419	subordinate
-253430	coordinate
-253436	subordinate
-coordinate
-253441	coordinate
-253447	coordinate
-253454	subordinate
-253464	subordinate
-253494	coordinate
-253497	coordinate
-subordinate
-coordinate
-253502	coordinate
-253527	subordinate
-253531	subordinate
-253687	coordinate
-253693	coordinate
-253698	subordinate
-253705	coordinate
-253710	coordinate
-253719	subordinate
-253741	subordinate
-253762	subordinate
-coordinate
-253765	coordinate
-subordinate
-253772	subordinate
-253777	subordinate
-253781	coordinate
-253786	coordinate
-253791	coordinate
-coordinate
-253795	coordinate
-253804	subordinate
-253812	coordinate
-253820	coordinate
-253831	subordinate
-253842	subordinate
-253870	subordinate
-253875	coordinate
-253881	coordinate
-coordinate
-253893	coordinate
-subordinate
-253898	coordinate
-253903	coordinate
-subordinate
-253916	subordinate
-subordinate
-coordinate
-coordinate
-253921	coordinate
-coordinate
-subordinate
-253925	coordinate
-253931	subordinate
-253933	subordinate
-253959	coordinate
-coordinate
-253962	coordinate
-253988	subordinate
-subordinate
-254012	coordinate
-254038	subordinate
-254047	coordinate
-254058	subordinate
-254064	coordinate
-254068	subordinate
-254070	coordinate
-coordinate
-subordinate
-254076	coordinate
-254085	subordinate
-subordinate
-254090	subordinate
-254113	subordinate
-254120	coordinate
-254124	subordinate
-254139	subordinate
-254153	coordinate
-254155	coordinate
-254160	subordinate
-254165	subordinate
-254169	coordinate
-254172	coordinate
-254179	subordinate
-coordinate
-254187	coordinate
-254200	subordinate
-254209	coordinate
-254215	coordinate
-254220	coordinate
-subordinate
-254225	coordinate
-254229	subordinate
-254236	subordinate
-subordinate
-254243	subordinate
-254252	subordinate
-coordinate
-254264	subordinate
-subordinate
-254267	subordinate
-subordinate
-254275	subordinate
-254281	coordinate
-coordinate
-254285	coordinate
-254288	coordinate
-254298	subordinate
-254306	subordinate
-254323	coordinate
-254326	coordinate
-254332	coordinate
-254338	coordinate
-subordinate
-254347	subordinate
-254353	coordinate
-subordinate
-254360	subordinate
-254364	coordinate
-subordinate
-254373	subordinate
-subordinate
-254379	coordinate
-254383	coordinate
-254390	subordinate
-254393	coordinate
-subordinate
-254398	coordinate
-254406	coordinate
-subordinate
-254411	coordinate
-254424	subordinate
-254428	coordinate
-254430	coordinate
-254433	subordinate
-subordinate
-254438	subordinate
-254446	subordinate
-254452	coordinate
-254465	coordinate
-254489	subordinate
-254493	subordinate
-254498	coordinate
-254512	subordinate
-254514	subordinate
-254520	subordinate
-254522	subordinate
-254526	subordinate
-254539	coordinate
-subordinate
-254542	coordinate
-coordinate
-subordinate
-254547	coordinate
-254551	subordinate
-subordinate
-254558	coordinate
-254563	coordinate
-254565	subordinate
-coordinate
-254568	coordinate
-254575	coordinate
-254580	coordinate
-254590	coordinate
-254593	coordinate
-254623	coordinate
-subordinate
-coordinate
-254627	coordinate
-254632	subordinate
-subordinate
-254636	subordinate
-254650	subordinate
-254660	subordinate
-254671	subordinate
-254673	subordinate
-254679	subordinate
-254683	subordinate
-254700	coordinate
-254702	coordinate
-254704	coordinate
-254713	subordinate
-254720	coordinate
-254722	coordinate
-subordinate
-254732	subordinate
-254734	subordinate
-subordinate
-254740	subordinate
-254745	coordinate
-254747	coordinate
-coordinate
-254751	coordinate
-254758	coordinate
-254761	coordinate
-coordinate
-subordinate
-254765	subordinate
-254774	subordinate
-subordinate
-254817	subordinate
-254821	coordinate
-254825	coordinate
-254830	coordinate
-subordinate
-coordinate
-254839	coordinate
-254841	coordinate
-254845	coordinate
-254851	coordinate
-254862	subordinate
-subordinate
-254868	subordinate
-254874	coordinate
-254878	subordinate
-254891	subordinate
-254900	subordinate
-254902	coordinate
-254905	coordinate
-254922	subordinate
-coordinate
-254929	coordinate
-coordinate
-254932	coordinate
-254944	subordinate
-254953	subordinate
-254963	subordinate
-254971	subordinate
-254976	subordinate
-254983	subordinate
-254991	coordinate
-254997	coordinate
-subordinate
-255003	coordinate
-255008	subordinate
-subordinate
-255025	subordinate
-coordinate
-255032	coordinate
-255035	coordinate
-255037	coordinate
-255056	subordinate
-subordinate
-255061	coordinate
-255072	coordinate
-255074	coordinate
-255080	subordinate
-255090	subordinate
-255092	coordinate
-255094	coordinate
-255096	coordinate
-255098	coordinate
-255102	subordinate
-255110	coordinate
-255112	coordinate
-255118	coordinate
-255129	subordinate
-255135	subordinate
-255147	subordinate
-255149	coordinate
-255153	coordinate
-255187	coordinate
-subordinate
-255193	coordinate
-255215	subordinate
-coordinate
-255218	coordinate
-255235	subordinate
-255237	subordinate
-coordinate
-255241	coordinate
-255245	subordinate
-255255	subordinate
-255264	subordinate
-255270	subordinate
-255275	coordinate
-subordinate
-255279	coordinate
-subordinate
-coordinate
-255283	coordinate
-255285	coordinate
-255288	subordinate
-subordinate
-255297	coordinate
-255302	coordinate
-255323	subordinate
-255332	subordinate
-255340	subordinate
-coordinate
-255343	coordinate
-255348	subordinate
-255352	subordinate
-255365	coordinate
-255368	coordinate
-255371	coordinate
-255374	coordinate
-255380	coordinate
-255388	coordinate
-255398	coordinate
-255400	subordinate
-255402	coordinate
-255420	subordinate
-255425	subordinate
-255435	subordinate
-255448	subordinate
-255450	subordinate
-subordinate
-255458	subordinate
-255462	subordinate
-coordinate
-coordinate
-255468	coordinate
-255470	coordinate
-subordinate
-255475	coordinate
-255479	coordinate
-255482	subordinate
-255490	subordinate
-255496	coordinate
-255498	coordinate
-255503	coordinate
-255505	coordinate
-255509	coordinate
-255511	coordinate
-255514	coordinate
-255516	coordinate
-255521	subordinate
-coordinate
-coordinate
-coordinate
-255531	subordinate
-255540	subordinate
-255547	coordinate
-255551	coordinate
-255553	subordinate
-255560	coordinate
-255570	coordinate
-255584	subordinate
-255600	coordinate
-255606	coordinate
-subordinate
-255619	coordinate
-255624	coordinate
-255637	coordinate
-255640	coordinate
-255645	coordinate
-255655	coordinate
-255661	subordinate
-255669	coordinate
-subordinate
-255674	coordinate
-subordinate
-255682	coordinate
-255685	coordinate
-255689	coordinate
-255695	subordinate
-255697	coordinate
-255699	coordinate
-255701	coordinate
-255707	coordinate
-255714	coordinate
-subordinate
-255724	coordinate
-255726	coordinate
-255728	subordinate
-255733	coordinate
-255736	coordinate
-255738	coordinate
-255746	subordinate
-255761	subordinate
-subordinate
-255767	subordinate
-255775	subordinate
-subordinate
-255782	subordinate
-255789	subordinate
-255791	subordinate
-coordinate
-255796	coordinate
-255826	subordinate
-255831	coordinate
-255833	coordinate
-255839	coordinate
-255842	subordinate
-255848	coordinate
-coordinate
-255853	coordinate
-255855	coordinate
-coordinate
-255860	coordinate
-255862	coordinate
-coordinate
-255869	coordinate
-255873	coordinate
-subordinate
-255878	subordinate
-255881	subordinate
-255890	subordinate
-255895	subordinate
-255904	coordinate
-255907	subordinate
-255909	coordinate
-255919	subordinate
-255925	coordinate
-coordinate
-255928	subordinate
-255934	coordinate
-255936	coordinate
-255944	coordinate
-subordinate
-255954	coordinate
-coordinate
-subordinate
-255959	coordinate
-255970	coordinate
-coordinate
-255974	coordinate
-subordinate
-255977	coordinate
-255983	coordinate
-255985	coordinate
-255989	coordinate
-255994	coordinate
-256023	subordinate
-256033	coordinate
-256037	coordinate
-256041	subordinate
-256050	coordinate
-256054	coordinate
-256057	coordinate
-256067	coordinate
-256069	subordinate
-256073	subordinate
-256075	subordinate
-subordinate
-256081	coordinate
-coordinate
-coordinate
-coordinate
-256086	coordinate
-coordinate
-coordinate
-coordinate
-256093	subordinate
-256108	subordinate
-256113	subordinate
-256118	subordinate
-256121	subordinate
-256131	subordinate
-256137	subordinate
-256178	subordinate
-256182	subordinate
-256196	subordinate
-256201	coordinate
-256207	coordinate
-256214	coordinate
-256217	coordinate
-256221	coordinate
-256223	coordinate
-256225	coordinate
-256227	coordinate
-256231	coordinate
-256234	subordinate
-coordinate
-256237	coordinate
-256243	coordinate
-256247	subordinate
-coordinate
-256250	coordinate
-256282	subordinate
-256297	coordinate
-coordinate
-256306	subordinate
-coordinate
-256310	coordinate
-256314	subordinate
-subordinate
-256320	coordinate
-256326	coordinate
-256330	coordinate
-256335	subordinate
-256345	subordinate
-256355	subordinate
-256359	subordinate
-256364	subordinate
-256379	coordinate
-256383	coordinate
-256387	subordinate
-256394	subordinate
-256406	subordinate
-256420	coordinate
-256423	coordinate
-coordinate
-256429	coordinate
-256434	coordinate
-256436	coordinate
-256438	subordinate
-subordinate
-256444	coordinate
-256448	coordinate
-256461	subordinate
-256465	subordinate
-256500	coordinate
-256504	subordinate
-256511	coordinate
-256550	coordinate
-256553	coordinate
-256569	coordinate
-256576	coordinate
-256578	coordinate
-256585	coordinate
-256589	coordinate
-subordinate
-256597	coordinate
-256602	coordinate
-subordinate
-256608	coordinate
-256614	coordinate
-subordinate
-256619	subordinate
-256623	subordinate
-256636	coordinate
-subordinate
-256648	subordinate
-coordinate
-subordinate
-256652	coordinate
-subordinate
-256675	coordinate
-256678	coordinate
-256684	subordinate
-subordinate
-256689	coordinate
-256693	subordinate
-subordinate
-subordinate
-256701	coordinate
-256704	coordinate
-256719	coordinate
-256726	subordinate
-256728	coordinate
-256737	subordinate
-coordinate
-subordinate
-256746	coordinate
-256751	coordinate
-coordinate
-subordinate
-256755	coordinate
-256761	subordinate
-256768	coordinate
-256772	coordinate
-256775	coordinate
-256778	coordinate
-256783	subordinate
-256787	coordinate
-256796	subordinate
-subordinate
-256802	coordinate
-256810	coordinate
-subordinate
-256824	subordinate
-subordinate
-256829	subordinate
-256853	coordinate
-coordinate
-256857	coordinate
-256879	coordinate
-256884	coordinate
-coordinate
-256887	coordinate
-256891	subordinate
-256901	subordinate
-256911	coordinate
-256913	coordinate
-256923	subordinate
-256930	subordinate
-coordinate
-256938	coordinate
-256953	subordinate
-256961	subordinate
-256965	coordinate
-256968	coordinate
-coordinate
-256972	coordinate
-256978	coordinate
-subordinate
-256981	subordinate
-257003	subordinate
-257009	coordinate
-257012	coordinate
-257015	subordinate
-257017	coordinate
-subordinate
-257035	subordinate
-257043	subordinate
-257052	subordinate
-257060	subordinate
-257068	coordinate
-subordinate
-257076	coordinate
-coordinate
-257084	coordinate
-257088	coordinate
-subordinate
-257095	coordinate
-257105	coordinate
-coordinate
-subordinate
-257111	coordinate
-257115	coordinate
-subordinate
-257122	subordinate
-coordinate
-257125	coordinate
-257131	coordinate
-257143	subordinate
-257152	subordinate
-257157	subordinate
-257167	subordinate
-257174	coordinate
-257179	coordinate
-subordinate
-257185	subordinate
-257189	subordinate
-257201	subordinate
-257206	coordinate
-257210	coordinate
-257215	subordinate
-257219	subordinate
-257224	subordinate
-coordinate
-257231	coordinate
-257242	coordinate
-257245	subordinate
-257251	subordinate
-257253	subordinate
-257259	coordinate
-257278	coordinate
-257281	coordinate
-257289	subordinate
-subordinate
-257295	coordinate
-257300	subordinate
-257302	coordinate
-coordinate
-subordinate
-subordinate
-257312	coordinate
-257339	subordinate
-257343	coordinate
-257345	coordinate
-257349	subordinate
-257352	subordinate
-257355	subordinate
-257376	coordinate
-coordinate
-257387	subordinate
-257397	coordinate
-coordinate
-257402	coordinate
-257404	coordinate
-subordinate
-subordinate
-257415	subordinate
-257421	coordinate
-subordinate
-257431	subordinate
-257433	coordinate
-subordinate
-coordinate
-257440	coordinate
-257446	coordinate
-257452	coordinate
-257454	coordinate
-257456	coordinate
-257458	coordinate
-257460	coordinate
-257464	coordinate
-coordinate
-257471	coordinate
-257473	coordinate
-257475	coordinate
-257479	subordinate
-257493	subordinate
-257496	subordinate
-257502	coordinate
-257509	coordinate
-257534	coordinate
-257536	coordinate
-257543	subordinate
-257547	subordinate
-257549	subordinate
-257553	subordinate
-257557	subordinate
-257562	subordinate
-257566	coordinate
-subordinate
-257573	coordinate
-257581	subordinate
-257585	subordinate
-257591	subordinate
-coordinate
-subordinate
-257600	coordinate
-257602	subordinate
-257610	subordinate
-257616	coordinate
-257618	coordinate
-257624	subordinate
-257626	subordinate
-257648	coordinate
-257650	coordinate
-257654	coordinate
-subordinate
-257662	subordinate
-257666	coordinate
-257668	coordinate
-257670	subordinate
-257675	coordinate
-coordinate
-257678	coordinate
-257680	coordinate
-257695	coordinate
-257698	coordinate
-257701	subordinate
-257706	subordinate
-257708	coordinate
-257712	coordinate
-257725	subordinate
-257729	subordinate
-257737	subordinate
-subordinate
-257742	subordinate
-coordinate
-257748	coordinate
-257755	coordinate
-257757	coordinate
-257766	subordinate
-subordinate
-257770	coordinate
-257772	coordinate
-257777	coordinate
-257781	subordinate
-257783	subordinate
-257797	subordinate
-coordinate
-257802	coordinate
-257820	subordinate
-257841	subordinate
-257857	subordinate
-257863	subordinate
-257871	coordinate
-257877	coordinate
-257880	subordinate
-257889	subordinate
-257895	subordinate
-257909	subordinate
-257933	coordinate
-subordinate
-257936	coordinate
-257940	coordinate
-257942	coordinate
-257944	coordinate
-subordinate
-subordinate
-257951	coordinate
-257953	coordinate
-257985	coordinate
-257987	coordinate
-257992	subordinate
-258015	subordinate
-258020	subordinate
-258023	coordinate
-258025	coordinate
-258027	coordinate
-258030	coordinate
-258032	subordinate
-258042	coordinate
-258046	subordinate
-258055	subordinate
-coordinate
-258060	coordinate
-258069	coordinate
-258072	coordinate
-258076	coordinate
-258082	coordinate
-258085	coordinate
-258101	subordinate
-258113	subordinate
-258117	subordinate
-258123	coordinate
-coordinate
-258132	subordinate
-258134	coordinate
-subordinate
-258151	coordinate
-258153	subordinate
-258158	subordinate
-258164	coordinate
-subordinate
-258173	coordinate
-subordinate
-258187	subordinate
-258192	coordinate
-subordinate
-258198	coordinate
-258200	subordinate
-258209	subordinate
-subordinate
-258226	coordinate
-258232	coordinate
-258238	subordinate
-258241	subordinate
-subordinate
-258247	subordinate
-258255	subordinate
-258264	subordinate
-coordinate
-258269	coordinate
-258273	subordinate
-258288	subordinate
-258295	coordinate
-coordinate
-258299	coordinate
-258304	coordinate
-258308	subordinate
-258319	subordinate
-subordinate
-258327	coordinate
-subordinate
-258333	coordinate
-subordinate
-258346	coordinate
-subordinate
-258358	subordinate
-coordinate
-258363	coordinate
-258372	coordinate
-258377	coordinate
-258387	subordinate
-258394	coordinate
-258397	coordinate
-258406	subordinate
-258415	subordinate
-258420	coordinate
-coordinate
-coordinate
-coordinate
-258425	coordinate
-258443	subordinate
-258451	subordinate
-258460	subordinate
-258466	subordinate
-258480	coordinate
-258484	coordinate
-258486	coordinate
-258490	coordinate
-258506	coordinate
-258510	coordinate
-258512	subordinate
-258517	coordinate
-258539	coordinate
-258544	coordinate
-258556	subordinate
-258566	subordinate
-258572	subordinate
-coordinate
-258579	coordinate
-258592	coordinate
-258596	coordinate
-258623	subordinate
-258625	subordinate
-subordinate
-258631	coordinate
-258646	coordinate
-258650	subordinate
-coordinate
-258655	subordinate
-258658	coordinate
-258661	subordinate
-258668	coordinate
-258689	subordinate
-coordinate
-258695	coordinate
-258701	subordinate
-258704	coordinate
-258709	coordinate
-subordinate
-coordinate
-258715	subordinate
-258718	coordinate
-258722	subordinate
-258726	subordinate
-258728	subordinate
-258733	subordinate
-258743	subordinate
-258748	coordinate
-coordinate
-258753	subordinate
-subordinate
-258756	coordinate
-258758	coordinate
-coordinate
-subordinate
-258762	coordinate
-258767	subordinate
-258771	subordinate
-258784	subordinate
-258786	coordinate
-258815	subordinate
-258821	coordinate
-258823	coordinate
-258827	subordinate
-subordinate
-258836	subordinate
-258839	coordinate
-258847	subordinate
-coordinate
-258850	coordinate
-subordinate
-258855	coordinate
-258862	coordinate
-subordinate
-258868	subordinate
-coordinate
-258873	coordinate
-258877	coordinate
-258879	subordinate
-258882	coordinate
-subordinate
-258885	coordinate
-coordinate
-subordinate
-258890	subordinate
-258894	coordinate
-coordinate
-subordinate
-258902	coordinate
-258906	coordinate
-258909	subordinate
-258915	coordinate
-258917	coordinate
-258926	subordinate
-258948	coordinate
-258950	coordinate
-258964	subordinate
-258972	subordinate
-258974	subordinate
-258990	subordinate
-258998	subordinate
-259007	subordinate
-259015	coordinate
-259020	coordinate
-coordinate
-259024	coordinate
-259041	subordinate
-259049	subordinate
-259051	subordinate
-259060	subordinate
-259085	subordinate
-259088	subordinate
-259098	coordinate
-259102	coordinate
-259110	subordinate
-coordinate
-259116	coordinate
-subordinate
-259120	subordinate
-259122	coordinate
-coordinate
-coordinate
-259127	coordinate
-259133	coordinate
-subordinate
-subordinate
-259140	subordinate
-subordinate
-259151	subordinate
-subordinate
-259157	coordinate
-coordinate
-259160	coordinate
-coordinate
-coordinate
-259164	coordinate
-coordinate
-coordinate
-259168	coordinate
-259170	subordinate
-coordinate
-259176	coordinate
-259180	coordinate
-259202	subordinate
-subordinate
-subordinate
-259220	coordinate
-259223	coordinate
-259252	subordinate
-259259	subordinate
-259263	coordinate
-259266	subordinate
-259269	coordinate
-259276	subordinate
-259284	subordinate
-subordinate
-259292	subordinate
-259306	subordinate
-259310	subordinate
-259318	subordinate
-259320	subordinate
-259331	subordinate
-259333	subordinate
-259341	coordinate
-259346	coordinate
-259352	coordinate
-259359	subordinate
-259365	coordinate
-259368	subordinate
-259371	subordinate
-259381	subordinate
-subordinate
-coordinate
-259385	coordinate
-259388	coordinate
-coordinate
-259391	coordinate
-259397	coordinate
-subordinate
-259400	coordinate
-259413	subordinate
-259433	subordinate
-coordinate
-259439	coordinate
-259454	coordinate
-259458	subordinate
-259462	subordinate
-259464	subordinate
-259475	coordinate
-259477	coordinate
-259487	coordinate
-259489	subordinate
-259494	subordinate
-259502	coordinate
-259504	coordinate
-259512	coordinate
-259514	subordinate
-259523	coordinate
-coordinate
-subordinate
-259528	coordinate
-259532	coordinate
-259537	subordinate
-259551	subordinate
-259562	subordinate
-259580	subordinate
-259584	subordinate
-259589	subordinate
-subordinate
-259600	subordinate
-259605	subordinate
-259610	subordinate
-259612	subordinate
-259621	coordinate
-259631	coordinate
-259647	subordinate
-coordinate
-259659	subordinate
-coordinate
-259668	coordinate
-259678	subordinate
-259687	subordinate
-259702	subordinate
-coordinate
-259709	coordinate
-259717	subordinate
-259722	subordinate
-259732	subordinate
-coordinate
-259737	coordinate
-259745	subordinate
-coordinate
-259751	coordinate
-259758	coordinate
-259760	coordinate
-259766	subordinate
-259768	coordinate
-259770	coordinate
-259779	coordinate
-259784	coordinate
-259790	subordinate
-259833	coordinate
-259835	coordinate
-259846	subordinate
-coordinate
-259849	coordinate
-259851	subordinate
-subordinate
-259863	subordinate
-subordinate
-259881	subordinate
-259888	subordinate
-coordinate
-subordinate
-259896	coordinate
-subordinate
-259914	coordinate
-259917	coordinate
-259919	subordinate
-259932	subordinate
-259972	subordinate
-260002	subordinate
-260019	subordinate
-260028	subordinate
-coordinate
-260031	coordinate
-260033	coordinate
-260042	subordinate
-subordinate
-260054	subordinate
-260072	coordinate
-260074	coordinate
-260078	subordinate
-260105	subordinate
-subordinate
-260115	coordinate
-coordinate
-coordinate
-260121	coordinate
-260123	coordinate
-260138	subordinate
-260142	coordinate
-coordinate
-coordinate
-coordinate
-260152	coordinate
-260159	coordinate
-subordinate
-260165	coordinate
-260167	coordinate
-260178	coordinate
-260180	subordinate
-260182	coordinate
-260184	subordinate
-260188	coordinate
-260192	coordinate
-260202	coordinate
-260204	coordinate
-260209	coordinate
-260220	subordinate
-subordinate
-260229	subordinate
-260249	subordinate
-260255	subordinate
-260259	subordinate
-coordinate
-260262	coordinate
-260270	coordinate
-260272	subordinate
-coordinate
-260275	coordinate
-260277	coordinate
-260295	coordinate
-260299	coordinate
-260306	subordinate
-260309	subordinate
-260313	coordinate
-260318	coordinate
-260323	subordinate
-260330	coordinate
-260332	coordinate
-260346	coordinate
-coordinate
-260350	subordinate
-260352	coordinate
-260354	subordinate
-260356	coordinate
-260358	subordinate
-260367	coordinate
-260369	coordinate
-260376	subordinate
-subordinate
-260384	coordinate
-260386	coordinate
-260388	coordinate
-subordinate
-260393	subordinate
-coordinate
-260403	coordinate
-260411	subordinate
-260413	subordinate
-260418	subordinate
-260426	subordinate
-subordinate
-260438	coordinate
-260443	coordinate
-260471	subordinate
-subordinate
-260488	subordinate
-260498	subordinate
-260500	coordinate
-subordinate
-260513	coordinate
-260527	coordinate
-coordinate
-260530	coordinate
-260543	coordinate
-260549	coordinate
-260560	coordinate
-260562	coordinate
-260570	subordinate
-260577	coordinate
-subordinate
-260584	subordinate
-260588	coordinate
-subordinate
-260591	coordinate
-260593	subordinate
-260598	subordinate
-260604	coordinate
-260607	coordinate
-260619	coordinate
-260622	coordinate
-260625	coordinate
-coordinate
-260629	coordinate
-260631	coordinate
-coordinate
-260635	coordinate
-260638	coordinate
-coordinate
-260644	coordinate
-260653	coordinate
-260655	subordinate
-subordinate
-260662	coordinate
-260666	coordinate
-260668	subordinate
-260673	coordinate
-260677	coordinate
-subordinate
-260686	coordinate
-260700	subordinate
-260707	subordinate
-260710	coordinate
-260714	coordinate
-260718	coordinate
-260727	subordinate
-260737	subordinate
-260750	subordinate
-260760	subordinate
-260768	subordinate
-260778	coordinate
-260785	coordinate
-260800	subordinate
-260808	coordinate
-subordinate
-260814	coordinate
-coordinate
-subordinate
-260819	coordinate
-260828	coordinate
-260831	subordinate
-subordinate
-260837	coordinate
-260848	subordinate
-260855	subordinate
-coordinate
-260859	coordinate
-260863	coordinate
-subordinate
-260871	subordinate
-260884	coordinate
-260886	subordinate
-260891	coordinate
-coordinate
-subordinate
-260895	coordinate
-subordinate
-260902	coordinate
-subordinate
-260914	coordinate
-260917	coordinate
-coordinate
-260920	coordinate
-260925	subordinate
-260939	subordinate
-260942	coordinate
-260944	subordinate
-260946	coordinate
-260953	coordinate
-260960	coordinate
-260971	coordinate
-subordinate
-260976	subordinate
-260979	subordinate
-261002	coordinate
-261016	coordinate
-261021	coordinate
-261027	coordinate
-subordinate
-261032	coordinate
-261034	coordinate
-261037	coordinate
-261055	subordinate
-261060	subordinate
-261067	subordinate
-coordinate
-261070	coordinate
-261086	subordinate
-261093	coordinate
-subordinate
-261096	coordinate
-261101	subordinate
-261103	coordinate
-coordinate
-261107	coordinate
-261110	coordinate
-subordinate
-coordinate
-261114	coordinate
-261121	subordinate
-261128	coordinate
-coordinate
-261132	coordinate
-261134	coordinate
-261159	subordinate
-subordinate
-coordinate
-261173	coordinate
-261177	coordinate
-261187	coordinate
-261195	coordinate
-261199	coordinate
-261214	subordinate
-subordinate
-261220	subordinate
-261224	coordinate
-subordinate
-coordinate
-261228	coordinate
-261232	coordinate
-261237	subordinate
-261244	subordinate
-subordinate
-261255	coordinate
-261258	coordinate
-261263	coordinate
-261274	coordinate
-261286	subordinate
-261291	subordinate
-261309	subordinate
-261322	subordinate
-261331	subordinate
-261334	subordinate
-261341	coordinate
-subordinate
-261344	coordinate
-261350	coordinate
-261357	coordinate
-261365	subordinate
-261373	subordinate
-subordinate
-261381	subordinate
-261388	coordinate
-coordinate
-261395	subordinate
-261402	coordinate
-261404	subordinate
-261412	subordinate
-261414	subordinate
-261419	subordinate
-261422	subordinate
-261435	subordinate
-coordinate
-261441	coordinate
-261453	subordinate
-261469	coordinate
-261472	coordinate
-261477	subordinate
-261485	subordinate
-subordinate
-261488	subordinate
-261496	subordinate
-261501	subordinate
-261510	coordinate
-coordinate
-261515	coordinate
-261517	coordinate
-261529	subordinate
-261534	subordinate
-261540	coordinate
-261542	coordinate
-subordinate
-subordinate
-261547	subordinate
-261553	coordinate
-261557	coordinate
-subordinate
-261561	subordinate
-261566	coordinate
-261568	coordinate
-261570	subordinate
-261574	subordinate
-261580	subordinate
-261585	coordinate
-261593	coordinate
-261605	coordinate
-subordinate
-261608	coordinate
-261616	coordinate
-261623	subordinate
-261625	subordinate
-261644	coordinate
-261648	subordinate
-261652	subordinate
-coordinate
-261656	coordinate
-261677	subordinate
-261681	subordinate
-coordinate
-261686	coordinate
-261688	subordinate
-261697	subordinate
-subordinate
-subordinate
-261705	subordinate
-261707	coordinate
-261709	coordinate
-subordinate
-261715	subordinate
-261719	coordinate
-261722	subordinate
-261724	coordinate
-subordinate
-261731	subordinate
-subordinate
-261735	subordinate
-261738	subordinate
-261750	subordinate
-261754	subordinate
-261767	subordinate
-261777	subordinate
-261794	subordinate
-261804	subordinate
-261816	coordinate
-261818	coordinate
-261832	subordinate
-coordinate
-261836	coordinate
-261840	coordinate
-261851	subordinate
-261855	coordinate
-subordinate
-261860	subordinate
-261862	coordinate
-subordinate
-261874	subordinate
-261884	coordinate
-261890	subordinate
-261892	coordinate
-261905	subordinate
-261908	subordinate
-261912	coordinate
-261914	coordinate
-261917	coordinate
-261919	subordinate
-261923	subordinate
-261931	subordinate
-261947	subordinate
-261964	subordinate
-261974	coordinate
-261978	subordinate
-261984	coordinate
-261987	subordinate
-261991	coordinate
-261999	coordinate
-subordinate
-262004	coordinate
-subordinate
-262012	coordinate
-262016	subordinate
-262020	coordinate
-subordinate
-262030	coordinate
-262034	subordinate
-262037	coordinate
-262043	coordinate
-262046	coordinate
-subordinate
-262063	subordinate
-262068	subordinate
-262075	subordinate
-262082	coordinate
-262088	coordinate
-262090	coordinate
-subordinate
-262096	coordinate
-262110	subordinate
-262121	coordinate
-coordinate
-262126	coordinate
-262128	coordinate
-coordinate
-262134	coordinate
-262138	coordinate
-coordinate
-262146	coordinate
-subordinate
-262149	subordinate
-262151	coordinate
-262156	coordinate
-262158	coordinate
-262161	coordinate
-262165	subordinate
-262177	coordinate
-262179	subordinate
-subordinate
-262186	coordinate
-subordinate
-262190	subordinate
-262197	coordinate
-262208	subordinate
-subordinate
-262213	coordinate
-262215	coordinate
-subordinate
-262222	subordinate
-262226	subordinate
-262229	coordinate
-coordinate
-262233	coordinate
-262236	coordinate
-262239	subordinate
-262247	subordinate
-262264	coordinate
-262267	coordinate
-262273	subordinate
-coordinate
-262276	coordinate
-262278	subordinate
-coordinate
-coordinate
-262285	coordinate
-262287	coordinate
-coordinate
-262290	coordinate
-262300	coordinate
-262302	coordinate
-subordinate
-subordinate
-262311	subordinate
-262321	subordinate
-subordinate
-262331	subordinate
-262339	subordinate
-262341	subordinate
-262348	subordinate
-262357	subordinate
-262378	coordinate
-262382	coordinate
-subordinate
-262397	coordinate
-262401	coordinate
-262413	subordinate
-262438	subordinate
-262444	coordinate
-262451	coordinate
-262461	subordinate
-262471	subordinate
-262480	subordinate
-262483	subordinate
-262485	coordinate
-coordinate
-262489	coordinate
-262492	coordinate
-coordinate
-262495	coordinate
-262499	subordinate
-coordinate
-262502	coordinate
-262506	coordinate
-262509	subordinate
-262511	coordinate
-262517	coordinate
-262523	coordinate
-262528	subordinate
-262543	coordinate
-262549	coordinate
-262554	coordinate
-subordinate
-262561	coordinate
-262567	coordinate
-262571	coordinate
-262575	coordinate
-262577	coordinate
-262580	subordinate
-262585	coordinate
-262588	coordinate
-262591	subordinate
-262598	subordinate
-262602	subordinate
-coordinate
-262605	coordinate
-subordinate
-262619	subordinate
-262625	subordinate
-coordinate
-262629	coordinate
-262638	coordinate
-262642	coordinate
-262646	coordinate
-262649	subordinate
-262652	subordinate
-262656	coordinate
-262664	subordinate
-262668	coordinate
-262672	subordinate
-coordinate
-262679	coordinate
-262683	subordinate
-262694	coordinate
-262701	coordinate
-262706	coordinate
-262708	coordinate
-262719	subordinate
-coordinate
-262723	subordinate
-262726	coordinate
-262738	subordinate
-262745	subordinate
-262750	subordinate
-262775	subordinate
-262783	subordinate
-262788	subordinate
-subordinate
-262798	coordinate
-262803	coordinate
-subordinate
-262810	subordinate
-coordinate
-262817	coordinate
-262821	coordinate
-262830	coordinate
-262832	subordinate
-262837	coordinate
-262839	subordinate
-262845	subordinate
-coordinate
-262850	coordinate
-262867	subordinate
-262872	coordinate
-262877	coordinate
-262879	coordinate
-262883	coordinate
-262888	coordinate
-262893	subordinate
-262896	subordinate
-262898	subordinate
-262901	subordinate
-262904	subordinate
-262906	coordinate
-262909	coordinate
-262914	subordinate
-262916	subordinate
-coordinate
-262919	coordinate
-262921	coordinate
-262930	subordinate
-262936	subordinate
-subordinate
-262945	subordinate
-subordinate
-262964	coordinate
-262974	coordinate
-262984	subordinate
-262986	subordinate
-262999	coordinate
-263005	subordinate
-263010	coordinate
-263015	subordinate
-263022	subordinate
-263026	coordinate
-263030	coordinate
-263033	subordinate
-subordinate
-263037	subordinate
-263045	subordinate
-263052	coordinate
-263064	coordinate
-263072	coordinate
-263074	coordinate
-263089	coordinate
-subordinate
-263098	coordinate
-263109	coordinate
-263111	coordinate
-263116	subordinate
-263118	subordinate
-263136	subordinate
-coordinate
-263139	coordinate
-263147	subordinate
-263160	coordinate
-subordinate
-coordinate
-coordinate
-coordinate
-coordinate
-263167	subordinate
-263172	coordinate
-coordinate
-263176	coordinate
-263179	subordinate
-263185	coordinate
-coordinate
-coordinate
-coordinate
-coordinate
-coordinate
-263197	coordinate
-263202	coordinate
-263207	subordinate
-263214	coordinate
-263218	subordinate
-coordinate
-263223	coordinate
-263228	subordinate
-263230	coordinate
-263241	coordinate
-subordinate
-263244	subordinate
-263248	coordinate
-subordinate
-263260	coordinate
-263263	coordinate
-263271	coordinate
-263274	coordinate
-263279	subordinate
-263297	subordinate
-coordinate
-263300	coordinate
-263306	subordinate
-coordinate
-263310	coordinate
-263314	coordinate
-263319	coordinate
-263329	coordinate
-263337	subordinate
-coordinate
-263342	coordinate
-263351	subordinate
-263353	subordinate
-263366	coordinate
-263380	coordinate
-263391	subordinate
-263414	coordinate
-263423	subordinate
-263425	coordinate
-263428	coordinate
-263433	subordinate
-263440	subordinate
-coordinate
-subordinate
-263448	coordinate
-subordinate
-263459	subordinate
-263463	coordinate
-263465	subordinate
-subordinate
-263471	coordinate
-263484	subordinate
-263490	subordinate
-coordinate
-263496	coordinate
-263505	subordinate
-263509	subordinate
-263518	coordinate
-subordinate
-263523	coordinate
-263525	subordinate
-263534	subordinate
-263540	subordinate
-263551	subordinate
-263562	subordinate
-263568	coordinate
-coordinate
-coordinate
-coordinate
-coordinate
-263587	subordinate
-263591	coordinate
-coordinate
-coordinate
-263595	subordinate
-263597	coordinate
-263599	coordinate
-263603	coordinate
-263610	subordinate
-263612	subordinate
-263616	subordinate
-263629	subordinate
-coordinate
-subordinate
-263635	coordinate
-263647	subordinate
-263662	subordinate
-263672	subordinate
-263683	coordinate
-263688	coordinate
-263698	subordinate
-263715	subordinate
-coordinate
-coordinate
-coordinate
-263721	coordinate
-263723	coordinate
-263725	coordinate
-263727	coordinate
-subordinate
-263730	coordinate
-263737	coordinate
-263740	coordinate
-263745	coordinate
-263760	subordinate
-263764	subordinate
-subordinate
-subordinate
-263799	subordinate
-263801	subordinate
-263809	subordinate
-263828	coordinate
-263830	coordinate
-subordinate
-263838	subordinate
-263843	subordinate
-263848	coordinate
-263850	subordinate
-263852	coordinate
-263854	coordinate
-263858	coordinate
-263860	subordinate
-263868	subordinate
-263873	subordinate
-263878	subordinate
-263880	subordinate
-subordinate
-263886	subordinate
-263890	subordinate
-263896	subordinate
-263898	subordinate
-subordinate
-263906	coordinate
-subordinate
-263909	coordinate
-subordinate
-263914	subordinate
-263920	subordinate
-263924	subordinate
-263928	coordinate
-263937	coordinate
-263939	subordinate
-263951	subordinate
-263960	subordinate
-263970	subordinate
-263974	coordinate
-263983	subordinate
-263992	subordinate
-coordinate
-263995	coordinate
-263999	coordinate
-subordinate
-264009	subordinate
-264013	coordinate
-264017	coordinate
-264021	subordinate
-264030	subordinate
-264034	subordinate
-264041	subordinate
-subordinate
-264047	subordinate
-264062	subordinate
-264065	subordinate
-264099	subordinate
-264107	coordinate
-subordinate
-264110	coordinate
-subordinate
-264127	subordinate
-coordinate
-subordinate
-264131	coordinate
-subordinate
-264134	coordinate
-264142	subordinate
-264150	coordinate
-264154	coordinate
-264169	coordinate
-264174	coordinate
-264179	subordinate
-264183	coordinate
-264190	subordinate
-264193	coordinate
-264198	subordinate
-subordinate
-264207	subordinate
-264225	coordinate
-subordinate
-264228	subordinate
-264234	coordinate
-subordinate
-264252	subordinate
-264256	subordinate
-264278	coordinate
-264282	coordinate
-subordinate
-264313	subordinate
-subordinate
-264323	subordinate
-264331	coordinate
-264334	coordinate
-264352	subordinate
-264356	subordinate
-264363	subordinate
-264365	subordinate
-264371	coordinate
-subordinate
-264386	coordinate
-264389	coordinate
-coordinate
-264394	coordinate
-264396	coordinate
-264398	coordinate
-264406	coordinate
-264410	subordinate
-264418	subordinate
-264421	subordinate
-264433	coordinate
-264446	coordinate
-264451	subordinate
-264453	coordinate
-264464	subordinate
-264467	subordinate
-264477	coordinate
-264482	coordinate
-264484	coordinate
-264492	coordinate
-264497	coordinate
-264501	coordinate
-264509	subordinate
-264512	coordinate
-264516	coordinate
-264521	coordinate
-264530	coordinate
-264539	coordinate
-264549	subordinate
-264551	subordinate
-264555	subordinate
-subordinate
-264568	subordinate
-264575	coordinate
-264577	coordinate
-264579	coordinate
-264587	subordinate
-264596	subordinate
-264600	subordinate
-264605	subordinate
-264611	subordinate
-264615	subordinate
-264635	subordinate
-264644	subordinate
-264649	subordinate
-264660	coordinate
-coordinate
-264663	coordinate
-264667	coordinate
-264672	subordinate
-264677	subordinate
-264692	coordinate
-264708	coordinate
-264713	subordinate
-264720	coordinate
-264733	subordinate
-264735	subordinate
-subordinate
-264738	subordinate
-264740	subordinate
-subordinate
-264757	coordinate
-264761	coordinate
-coordinate
-coordinate
-264769	coordinate
-subordinate
-264772	coordinate
-264776	subordinate
-264795	coordinate
-264798	coordinate
-264805	coordinate
-subordinate
-264811	coordinate
-subordinate
-264819	subordinate
-264825	subordinate
-264831	subordinate
-coordinate
-264834	subordinate
-264836	coordinate
-264838	coordinate
-264843	coordinate
-264854	subordinate
-264858	coordinate
-264864	coordinate
-coordinate
-264869	coordinate
-264884	subordinate
-264891	coordinate
-264899	coordinate
-264902	subordinate
-coordinate
-264907	coordinate
-264919	subordinate
-264921	subordinate
-coordinate
-264924	coordinate
-264926	subordinate
-264939	subordinate
-264951	coordinate
-264953	coordinate
-264955	subordinate
-264959	subordinate
-264967	subordinate
-264973	subordinate
-264990	subordinate
-265000	coordinate
-265002	coordinate
-265019	coordinate
-subordinate
-265023	coordinate
-265037	coordinate
-265042	coordinate
-265048	subordinate
-265051	subordinate
-265059	coordinate
-subordinate
-265077	coordinate
-265085	coordinate
-265121	coordinate
-265126	subordinate
-subordinate
-265142	coordinate
-265144	coordinate
-265153	subordinate
-265160	coordinate
-subordinate
-265163	coordinate
-265168	coordinate
-coordinate
-265172	coordinate
-265174	coordinate
-265183	coordinate
-265193	coordinate
-265200	coordinate
-subordinate
-265206	subordinate
-265222	subordinate
-subordinate
-265225	subordinate
-265230	subordinate
-coordinate
-265233	coordinate
-265240	coordinate
-265248	coordinate
-265251	coordinate
-265275	subordinate
-subordinate
-265286	coordinate
-265293	coordinate
-265298	coordinate
-265304	subordinate
-265326	coordinate
-265331	coordinate
-265335	coordinate
-265338	coordinate
-265343	coordinate
-265347	subordinate
-265354	coordinate
-265360	coordinate
-265378	subordinate
-265385	subordinate
-265398	subordinate
-265400	coordinate
-265402	coordinate
-265406	subordinate
-265422	subordinate
-265424	subordinate
-265432	subordinate
-subordinate
-subordinate
-265449	subordinate
-265453	coordinate
-265459	coordinate
-265467	coordinate
-265481	subordinate
-265501	subordinate
-coordinate
-265507	subordinate
-265509	coordinate
-265517	coordinate
-265523	coordinate
-265525	subordinate
-265537	subordinate
-265560	subordinate
-265570	subordinate
-265578	subordinate
-265587	coordinate
-265589	coordinate
-subordinate
-265594	coordinate
-265596	coordinate
-265608	subordinate
-265618	subordinate
-265621	subordinate
-265637	subordinate
-265666	subordinate
-265672	coordinate
-265674	subordinate
-265676	subordinate
-265678	coordinate
-265684	subordinate
-265686	coordinate
-265688	coordinate
-265696	subordinate
-265710	subordinate
-265718	subordinate
-subordinate
-265721	coordinate
-265723	coordinate
-265737	subordinate
-265744	coordinate
-subordinate
-subordinate
-265748	coordinate
-265772	coordinate
-265795	subordinate
-265797	coordinate
-265805	coordinate
-265814	subordinate
-265822	subordinate
-265832	subordinate
-265837	coordinate
-265842	coordinate
-265848	coordinate
-265850	coordinate
-coordinate
-265858	coordinate
-265897	coordinate
-265899	subordinate
-subordinate
-265904	subordinate
-265914	coordinate
-265916	subordinate
-265932	subordinate
-265945	subordinate
-265954	subordinate
-265969	subordinate
-subordinate
-265976	subordinate
-265999	coordinate
-266005	coordinate
-266011	subordinate
-266039	subordinate
-266054	subordinate
-266058	subordinate
-266063	coordinate
-266068	coordinate
-subordinate
-266076	subordinate
-266082	subordinate
-coordinate
-266086	coordinate
-266092	subordinate
-266096	subordinate
-266101	coordinate
-266106	subordinate
-266110	coordinate
-coordinate
-subordinate
-266115	subordinate
-266118	subordinate
-266126	subordinate
-266128	subordinate
-266136	coordinate
-coordinate
-266144	coordinate
-266146	subordinate
-266158	subordinate
-266170	coordinate
-266178	coordinate
-266186	subordinate
-266193	subordinate
-266201	subordinate
-266210	subordinate
-266239	coordinate
-subordinate
-266242	coordinate
-266255	coordinate
-266260	coordinate
-266266	subordinate
-coordinate
-subordinate
-266273	coordinate
-266280	subordinate
-266287	subordinate
-266312	subordinate
-266320	subordinate
-266324	subordinate
-266328	coordinate
-subordinate
-266333	coordinate
-266343	subordinate
-subordinate
-266348	subordinate
-266352	coordinate
-266357	subordinate
-266359	coordinate
-subordinate
-266370	subordinate
-266376	subordinate
-266378	coordinate
-266386	coordinate
-266393	subordinate
-266401	subordinate
-266408	subordinate
-266446	subordinate
-266453	subordinate
-266462	subordinate
-266465	subordinate
-coordinate
-266470	coordinate
-subordinate
-266473	coordinate
-subordinate
-266488	subordinate
-266510	subordinate
-266514	subordinate
-266522	subordinate
-266537	subordinate
-266548	subordinate
-266551	subordinate
-coordinate
-266556	subordinate
-266562	coordinate
-subordinate
-subordinate
-266582	subordinate
-266586	subordinate
-coordinate
-266593	coordinate
-subordinate
-266611	subordinate
-subordinate
-266618	subordinate
-266627	coordinate
-266630	subordinate
-subordinate
-266635	coordinate
-subordinate
-266642	subordinate
-266645	coordinate
-266648	subordinate
-266659	subordinate
-266665	coordinate
-266667	coordinate
-266675	subordinate
-266685	subordinate
-subordinate
-266710	subordinate
-266714	coordinate
-266716	subordinate
-subordinate
-266719	coordinate
-266725	subordinate
-266731	coordinate
-266741	coordinate
-266749	subordinate
-subordinate
-266754	subordinate
-266757	subordinate
-266775	subordinate
-266785	coordinate
-266788	coordinate
-266809	subordinate
-266815	coordinate
-266823	subordinate
-266835	subordinate
-266840	subordinate
-266853	coordinate
-266856	coordinate
-266866	subordinate
-subordinate
-266871	subordinate
-266878	subordinate
-266890	subordinate
-266901	subordinate
-subordinate
-coordinate
-266908	subordinate
-266928	subordinate
-266939	subordinate
-266941	subordinate
-266946	subordinate
-266951	coordinate
-266953	coordinate
-266956	subordinate
-266958	subordinate
-266960	coordinate
-266968	subordinate
-266985	coordinate
-266989	coordinate
-coordinate
-267000	coordinate
-267007	subordinate
-267019	subordinate
-267023	subordinate
-267038	subordinate
-267042	subordinate
-267045	subordinate
-267061	subordinate
-267071	subordinate
-subordinate
-267092	coordinate
-subordinate
-267099	coordinate
-coordinate
-subordinate
-267103	coordinate
-267112	coordinate
-267115	coordinate
-267119	coordinate
-subordinate
-267130	subordinate
-267135	coordinate
-subordinate
-267155	subordinate
-267161	coordinate
-subordinate
-267167	coordinate
-subordinate
-267186	subordinate
-267191	coordinate
-267193	coordinate
-267206	coordinate
-coordinate
-267212	subordinate
-267218	subordinate
-coordinate
-267227	coordinate
-267229	coordinate
-267235	coordinate
-267239	coordinate
-subordinate
-267270	coordinate
-267276	coordinate
-267280	coordinate
-267282	subordinate
-267286	coordinate
-subordinate
-subordinate
-267293	subordinate
-267300	coordinate
-267310	subordinate
-267315	coordinate
-267329	coordinate
-267331	coordinate
-267334	coordinate
-267336	subordinate
-267338	coordinate
-267353	subordinate
-267360	subordinate
-267362	subordinate
-267365	coordinate
-267367	coordinate
-267401	subordinate
-coordinate
-267411	coordinate
-267419	subordinate
-267431	subordinate
-267441	subordinate
-coordinate
-267446	coordinate
-267449	subordinate
-267454	subordinate
-267458	coordinate
-267465	coordinate
-coordinate
-267469	subordinate
-267473	coordinate
-267490	subordinate
-267493	subordinate
-coordinate
-267497	coordinate
-267504	subordinate
-267519	coordinate
-267525	coordinate
-subordinate
-267535	subordinate
-coordinate
-267539	coordinate
-267556	coordinate
-subordinate
-267560	coordinate
-subordinate
-267565	coordinate
-267569	coordinate
-267587	subordinate
-267591	subordinate
-267596	coordinate
-subordinate
-267602	coordinate
-subordinate
-267612	coordinate
-267615	coordinate
-267624	subordinate
-267634	coordinate
-267643	subordinate
-coordinate
-267646	coordinate
-subordinate
-267652	coordinate
-267655	coordinate
-267672	coordinate
-267674	coordinate
-267680	subordinate
-subordinate
-267685	subordinate
-267694	coordinate
-267698	coordinate
-267710	subordinate
-267722	subordinate
-267726	subordinate
-267751	subordinate
-coordinate
-coordinate
-267756	coordinate
-267761	coordinate
-267773	subordinate
-267790	subordinate
-267795	coordinate
-267799	coordinate
-subordinate
-267810	coordinate
-267813	coordinate
-267819	coordinate
-subordinate
-267825	coordinate
-267833	coordinate
-267837	coordinate
-267842	coordinate
-267851	coordinate
-267854	coordinate
-267860	coordinate
-267863	coordinate
-267871	coordinate
-267876	coordinate
-267882	subordinate
-267890	subordinate
-267894	subordinate
-267898	coordinate
-267900	coordinate
-subordinate
-267917	coordinate
-267921	coordinate
-267925	coordinate
-267929	coordinate
-267933	coordinate
-267941	subordinate
-267962	coordinate
-coordinate
-267966	coordinate
-267969	coordinate
-267983	coordinate
-267986	coordinate
-267997	subordinate
-268000	subordinate
-268039	subordinate
-268052	coordinate
-268054	coordinate
-268085	subordinate
-268101	subordinate
-268107	subordinate
-268113	coordinate
-268119	subordinate
-268135	subordinate
-268158	coordinate
-268160	subordinate
-268188	subordinate
-268190	coordinate
-268192	coordinate
-268194	subordinate
-268198	subordinate
-268206	coordinate
-subordinate
-268212	coordinate
-268216	coordinate
-268222	subordinate
-268228	subordinate
-268240	coordinate
-268250	coordinate
-268261	subordinate
-subordinate
-268273	coordinate
-268276	subordinate
-268278	coordinate
-268283	subordinate
-coordinate
-268287	coordinate
-subordinate
-268297	subordinate
-subordinate
-268302	coordinate
-268304	coordinate
-268308	coordinate
-coordinate
-268311	coordinate
-subordinate
-268314	coordinate
-268333	coordinate
-268336	coordinate
-268339	coordinate
-268357	subordinate
-268369	coordinate
-268371	subordinate
-268375	coordinate
-coordinate
-268394	coordinate
-268400	subordinate
-coordinate
-268405	coordinate
-268417	subordinate
-268424	coordinate
-268426	coordinate
-268429	coordinate
-subordinate
-268445	coordinate
-268452	subordinate
-268468	coordinate
-268489	subordinate
-coordinate
-268493	coordinate
-268506	coordinate
-268514	coordinate
-268572	subordinate
-268589	coordinate
-268591	coordinate
-268600	subordinate
-coordinate
-268605	subordinate
-268607	coordinate
-268611	coordinate
-268618	coordinate
-268625	coordinate
-268632	subordinate
-268640	coordinate
-coordinate
-268650	coordinate
-268654	coordinate
-268660	coordinate
-268673	coordinate
-268679	coordinate
-268684	coordinate
-268690	coordinate
-268693	subordinate
-268703	coordinate
-coordinate
-268706	subordinate
-268717	coordinate
-coordinate
-268723	coordinate
-268753	coordinate
-268760	subordinate
-268763	coordinate
-268767	coordinate
-268771	coordinate
-268779	coordinate
-268786	coordinate
-268801	subordinate
-268810	coordinate
-268822	subordinate
-268833	subordinate
-268841	coordinate
-268847	coordinate
-subordinate
-268855	subordinate
-subordinate
-268872	coordinate
-268884	subordinate
-268890	subordinate
-268895	coordinate
-268903	subordinate
-268905	subordinate
-268915	subordinate
-subordinate
-268919	subordinate
-coordinate
-268927	coordinate
-268935	subordinate
-268940	subordinate
-268947	coordinate
-268953	coordinate
-268964	subordinate
-268967	coordinate
-268969	subordinate
-268971	coordinate
-coordinate
-268978	coordinate
-268980	coordinate
-268990	coordinate
-268994	subordinate
-268997	coordinate
-269001	coordinate
-269006	coordinate
-269013	coordinate
-coordinate
-subordinate
-269017	coordinate
-subordinate
-269020	coordinate
-269026	subordinate
-coordinate
-269030	coordinate
-269032	subordinate
-subordinate
-269041	subordinate
-269054	subordinate
-269060	subordinate
-269065	subordinate
-269078	subordinate
-269084	subordinate
-coordinate
-269091	coordinate
-269102	subordinate
-269104	coordinate
-subordinate
-269118	subordinate
-269132	coordinate
-269137	coordinate
-269139	coordinate
-269143	coordinate
-269146	subordinate
-269153	coordinate
-269159	coordinate
-269163	subordinate
-269180	subordinate
-269185	coordinate
-269196	coordinate
-coordinate
-269200	coordinate
-269211	subordinate
-269213	coordinate
-coordinate
-269216	coordinate
-269234	coordinate
-269247	coordinate
-269249	coordinate
-269253	coordinate
-269258	subordinate
-269260	subordinate
-269270	coordinate
-269273	coordinate
-269291	coordinate
-269293	coordinate
-269307	subordinate
-coordinate
-269310	coordinate
-269318	coordinate
-269326	coordinate
-269343	coordinate
-269359	subordinate
-269364	subordinate
-269369	coordinate
-269373	coordinate
-269387	coordinate
-269392	coordinate
-269408	coordinate
-269413	coordinate
-269415	subordinate
-coordinate
-269419	coordinate
-269423	coordinate
-269426	coordinate
-269432	subordinate
-269443	subordinate
-269460	subordinate
-269473	subordinate
-269478	subordinate
-269487	subordinate
-269497	subordinate
-269500	subordinate
-269502	subordinate
-269504	subordinate
-269507	coordinate
-269512	subordinate
-269518	subordinate
-269522	subordinate
-269524	coordinate
-269527	coordinate
-269530	subordinate
-269536	coordinate
-269538	coordinate
-269554	coordinate
-269557	coordinate
-coordinate
-269561	coordinate
-269570	coordinate
-269574	coordinate
-269582	coordinate
-coordinate
-subordinate
-269594	coordinate
-269601	subordinate
-269613	subordinate
-coordinate
-269616	coordinate
-subordinate
-269623	coordinate
-269627	coordinate
-269630	coordinate
-269644	subordinate
-coordinate
-269648	coordinate
-subordinate
-269661	coordinate
-269675	subordinate
-269684	subordinate
-269695	subordinate
-269698	subordinate
-269700	subordinate
-269708	coordinate
-269710	coordinate
-269712	subordinate
-269720	subordinate
-269726	coordinate
-269729	coordinate
-subordinate
-269748	subordinate
-269760	coordinate
-269765	coordinate
-269768	subordinate
-269774	coordinate
-269776	coordinate
-269781	coordinate
-coordinate
-269787	coordinate
-269800	subordinate
-269806	coordinate
-269810	coordinate
-269825	subordinate
-269833	subordinate
-269839	subordinate
-269841	coordinate
-269847	coordinate
-269855	coordinate
-269857	coordinate
-269862	coordinate
-269873	coordinate
-269877	coordinate
-269881	subordinate
-269895	coordinate
-269899	coordinate
-269904	subordinate
-subordinate
-269908	coordinate
-269910	coordinate
-269932	subordinate
-269937	subordinate
-269941	subordinate
-269950	coordinate
-269964	subordinate
-coordinate
-269995	subordinate
-269999	subordinate
-270001	subordinate
-270006	subordinate
-270031	coordinate
-270042	coordinate
-270046	coordinate
-270048	coordinate
-270052	subordinate
-subordinate
-270061	subordinate
-270072	subordinate
-subordinate
-270086	coordinate
-270093	coordinate
-270136	coordinate
-270148	subordinate
-270156	coordinate
-270161	coordinate
-270174	subordinate
-270191	subordinate
-270193	coordinate
-270198	coordinate
-270204	subordinate
-270214	subordinate
-270223	subordinate
-coordinate
-subordinate
-270233	subordinate
-270244	subordinate
-270249	coordinate
-270251	subordinate
-270259	coordinate
-270263	coordinate
-270267	coordinate
-270270	coordinate
-coordinate
-270275	coordinate
-270289	coordinate
-270291	coordinate
-subordinate
-270302	coordinate
-270306	coordinate
-270315	coordinate
-270317	coordinate
-270323	subordinate
-270325	subordinate
-270333	coordinate
-270343	subordinate
-270347	coordinate
-270363	subordinate
-270379	subordinate
-270382	subordinate
-coordinate
-270385	coordinate
-270389	subordinate
-270394	coordinate
-270404	subordinate
-270407	subordinate
-subordinate
-270420	coordinate
-coordinate
-270425	coordinate
-270427	subordinate
-270433	subordinate
-270438	subordinate
-coordinate
-270443	coordinate
-270447	subordinate
-270451	coordinate
-270453	coordinate
-270461	subordinate
-270478	coordinate
-270481	coordinate
-270485	coordinate
-270490	coordinate
-coordinate
-270494	coordinate
-270506	coordinate
-270508	coordinate
-270510	subordinate
-coordinate
-270519	coordinate
-270526	subordinate
-270531	subordinate
-270536	subordinate
-270538	subordinate
-270547	coordinate
-270556	coordinate
-270572	subordinate
-270577	subordinate
-270584	subordinate
-coordinate
-270589	coordinate
-270597	subordinate
-270604	coordinate
-270618	coordinate
-270621	coordinate
-270626	coordinate
-270632	subordinate
-270635	coordinate
-270640	coordinate
-270642	coordinate
-270644	coordinate
-subordinate
-270666	subordinate
-270680	subordinate
-270684	coordinate
-270686	coordinate
-270689	coordinate
-270693	subordinate
-270704	subordinate
-subordinate
-270717	subordinate
-270720	subordinate
-270723	coordinate
-270735	coordinate
-270742	coordinate
-270746	subordinate
-270754	coordinate
-subordinate
-subordinate
-270759	coordinate
-270784	subordinate
-270788	subordinate
-270794	subordinate
-270816	subordinate
-270826	coordinate
-270830	coordinate
-270845	subordinate
-coordinate
-270859	subordinate
-270863	subordinate
-270865	subordinate
-subordinate
-subordinate
-270876	subordinate
-270898	coordinate
-270904	subordinate
-270924	coordinate
-270928	coordinate
-subordinate
-270941	subordinate
-270949	subordinate
-270951	subordinate
-270955	coordinate
-270957	coordinate
-270971	subordinate
-270990	subordinate
-coordinate
-270993	coordinate
-270995	subordinate
-271002	subordinate
-coordinate
-271009	coordinate
-subordinate
-271018	coordinate
-coordinate
-271021	coordinate
-271025	coordinate
-271027	subordinate
-271032	coordinate
-subordinate
-271039	subordinate
-coordinate
-271045	coordinate
-271049	coordinate
-271059	coordinate
-subordinate
-271064	coordinate
-271082	coordinate
-271086	subordinate
-271088	coordinate
-271090	coordinate
-271096	coordinate
-271119	coordinate
-271121	coordinate
-271124	coordinate
-271128	coordinate
-271130	subordinate
-271135	subordinate
-271142	coordinate
-271152	coordinate
-subordinate
-coordinate
-subordinate
-coordinate
-271160	coordinate
-271181	subordinate
-271192	subordinate
-271198	coordinate
-271208	subordinate
-271217	subordinate
-coordinate
-271220	coordinate
-271237	subordinate
-271246	coordinate
-271251	coordinate
-271268	coordinate
-271272	coordinate
-271291	coordinate
-271297	coordinate
-271308	coordinate
-271310	coordinate
-271314	coordinate
-271316	subordinate
-271320	coordinate
-271325	subordinate
-271330	coordinate
-subordinate
-271335	coordinate
-271351	subordinate
-coordinate
-271355	coordinate
-271368	coordinate
-271372	coordinate
-271375	coordinate
-271379	coordinate
-271419	coordinate
-271427	subordinate
-271430	subordinate
-271452	coordinate
-271456	coordinate
-271464	subordinate
-271487	coordinate
-271494	coordinate
-271504	subordinate
-coordinate
-271508	coordinate
-271523	subordinate
-271549	subordinate
-271551	subordinate
-271561	subordinate
-271563	coordinate
-271570	coordinate
-271580	coordinate
-271584	coordinate
-271594	coordinate
-271599	coordinate
-271608	coordinate
-271612	coordinate
-271621	subordinate
-271625	subordinate
-271643	subordinate
-coordinate
-271647	coordinate
-271658	subordinate
-271665	subordinate
-271673	subordinate
-271689	subordinate
-subordinate
-271694	subordinate
-271706	coordinate
-271711	coordinate
-271724	coordinate
-271728	coordinate
-271738	subordinate
-271741	subordinate
-271747	coordinate
-271755	coordinate
-271765	subordinate
-271774	coordinate
-271778	coordinate
-coordinate
-271791	coordinate
-271796	coordinate
-271806	subordinate
-271808	subordinate
-271822	subordinate
-subordinate
-271827	subordinate
-subordinate
-271846	coordinate
-271848	coordinate
-271852	subordinate
-271863	coordinate
-271866	coordinate
-subordinate
-271872	subordinate
-271886	coordinate
-271891	coordinate
-271898	coordinate
-271900	subordinate
-271902	coordinate
-271920	subordinate
-271926	subordinate
-271933	subordinate
-271946	coordinate
-271969	coordinate
-271971	coordinate
-271987	coordinate
-271991	coordinate
-271998	subordinate
-272002	coordinate
-272006	coordinate
-272010	coordinate
-272016	subordinate
-subordinate
-272024	coordinate
-272028	coordinate
-272048	coordinate
-272050	coordinate
-272064	subordinate
-272071	subordinate
-272074	coordinate
-272078	coordinate
-272081	coordinate
-272088	subordinate
-coordinate
-272092	coordinate
-272096	coordinate
-272101	subordinate
-272105	subordinate
-272111	subordinate
-272116	coordinate
-272118	coordinate
-272129	subordinate
-subordinate
-272134	coordinate
-272136	coordinate
-272153	subordinate
-272159	coordinate
-subordinate
-272167	coordinate
-272174	coordinate
-272177	coordinate
-272186	subordinate
-272192	coordinate
-subordinate
-272199	subordinate
-272205	coordinate
-272215	subordinate
-272219	subordinate
-272222	coordinate
-272229	coordinate
-272236	subordinate
-272242	coordinate
-272246	coordinate
-272252	coordinate
-coordinate
-272255	coordinate
-272257	coordinate
-subordinate
-subordinate
-272267	subordinate
-272269	subordinate
-272273	subordinate
-coordinate
-272280	coordinate
-272289	coordinate
-coordinate
-272292	coordinate
-272294	coordinate
-subordinate
-subordinate
-272300	coordinate
-272310	coordinate
-272314	subordinate
-272316	coordinate
-272319	coordinate
-272327	subordinate
-272335	subordinate
-272343	subordinate
-272350	subordinate
-272356	subordinate
-272400	coordinate
-272403	subordinate
-272405	coordinate
-272411	coordinate
-272426	subordinate
-272439	coordinate
-272445	coordinate
-272464	subordinate
-272473	subordinate
-coordinate
-272477	coordinate
-subordinate
-272481	coordinate
-272491	coordinate
-272514	coordinate
-272518	coordinate
-272523	coordinate
-subordinate
-272528	coordinate
-272535	subordinate
-272539	subordinate
-272545	subordinate
-272551	subordinate
-272559	subordinate
-272561	subordinate
-subordinate
-272567	subordinate
-272575	subordinate
-subordinate
-272578	subordinate
-272588	subordinate
-272594	coordinate
-subordinate
-coordinate
-272598	coordinate
-272602	subordinate
-272608	coordinate
-coordinate
-272612	coordinate
-272618	subordinate
-coordinate
-272622	coordinate
-272645	coordinate
-272647	coordinate
-272659	coordinate
-272666	coordinate
-272681	coordinate
-272687	subordinate
-272695	coordinate
-272697	coordinate
-272702	coordinate
-272704	coordinate
-272715	subordinate
-272721	subordinate
-coordinate
-272724	coordinate
-272744	coordinate
-272749	coordinate
-272753	subordinate
-272764	coordinate
-272766	coordinate
-272772	subordinate
-272784	subordinate
-272791	subordinate
-272799	coordinate
-272801	coordinate
-272803	coordinate
-272808	subordinate
-subordinate
-272820	subordinate
-subordinate
-272852	subordinate
-272874	coordinate
-subordinate
-272899	subordinate
-272906	coordinate
-272908	coordinate
-coordinate
-272912	coordinate
-272914	subordinate
-272925	subordinate
-272939	subordinate
-272942	subordinate
-272948	coordinate
-272951	coordinate
-coordinate
-272955	coordinate
-272962	coordinate
-272965	coordinate
-273000	subordinate
-273011	subordinate
-273013	subordinate
-273020	subordinate
-273027	subordinate
-273032	coordinate
-273043	subordinate
-273053	subordinate
-273083	subordinate
-273089	subordinate
-coordinate
-273094	coordinate
-273096	coordinate
-273098	coordinate
-273106	subordinate
-subordinate
-273113	coordinate
-273119	coordinate
-subordinate
-273127	coordinate
-273134	subordinate
-273140	subordinate
-273146	subordinate
-coordinate
-273149	coordinate
-273157	subordinate
-273168	subordinate
-273184	subordinate
-273189	coordinate
-273197	coordinate
-273199	coordinate
-273203	coordinate
-coordinate
-273206	coordinate
-273210	coordinate
-273220	coordinate
-273222	coordinate
-273229	subordinate
-273244	coordinate
-coordinate
-273247	coordinate
-273253	subordinate
-273278	subordinate
-273295	coordinate
-273297	coordinate
-273300	coordinate
-273309	coordinate
-coordinate
-273312	coordinate
-273322	subordinate
-273327	coordinate
-coordinate
-273330	coordinate
-273337	coordinate
-273340	coordinate
-273347	subordinate
-273353	subordinate
-273358	coordinate
-273360	coordinate
-273366	subordinate
-273385	subordinate
-273389	coordinate
-273391	coordinate
-273393	coordinate
-273397	coordinate
-subordinate
-273405	subordinate
-273411	subordinate
-273415	subordinate
-subordinate
-273420	subordinate
-273427	coordinate
-subordinate
-273430	coordinate
-273434	coordinate
-273450	subordinate
-273454	coordinate
-coordinate
-273457	coordinate
-273459	coordinate
-subordinate
-273476	coordinate
-273478	coordinate
-273486	coordinate
-273488	coordinate
-273504	coordinate
-273510	coordinate
-273517	coordinate
-273521	coordinate
-273524	subordinate
-coordinate
-273527	coordinate
-273546	subordinate
-coordinate
-273552	coordinate
-273565	coordinate
-273570	coordinate
-coordinate
-273573	coordinate
-273586	subordinate
-273592	subordinate
-273605	subordinate
-273618	subordinate
-273620	coordinate
-273622	coordinate
-273624	subordinate
-coordinate
-273632	coordinate
-273646	coordinate
-273653	coordinate
-273658	coordinate
-273663	coordinate
-273667	coordinate
-273684	subordinate
-273692	subordinate
-273730	subordinate
-273744	coordinate
-273746	coordinate
-273748	subordinate
-273752	subordinate
-273757	coordinate
-273761	coordinate
-273764	coordinate
-273778	coordinate
-273791	coordinate
-273801	coordinate
-273803	subordinate
-coordinate
-273806	coordinate
-273818	subordinate
-273822	subordinate
-273824	subordinate
-273827	coordinate
-273831	coordinate
-273834	coordinate
-273845	subordinate
-273853	coordinate
-273861	subordinate
-273868	coordinate
-273870	coordinate
-273893	subordinate
-coordinate
-273898	coordinate
-273903	coordinate
-273920	subordinate
-273940	coordinate
-273947	coordinate
-coordinate
-273950	coordinate
-273962	coordinate
-273965	coordinate
-coordinate
-273971	coordinate
-coordinate
-273977	coordinate
-273980	coordinate
-273982	subordinate
-273988	coordinate
-273992	subordinate
-273999	coordinate
-274002	coordinate
-274005	subordinate
-274017	subordinate
-subordinate
-274033	coordinate
-coordinate
-274036	subordinate
-274039	coordinate
-274041	coordinate
-274050	subordinate
-274053	coordinate
-coordinate
-coordinate
-274057	coordinate
-274059	coordinate
-274064	subordinate
-274066	subordinate
-coordinate
-274069	coordinate
-274071	coordinate
-274075	subordinate
-coordinate
-274078	coordinate
-274096	coordinate
-coordinate
-274102	subordinate
-274105	subordinate
-274108	coordinate
-274111	coordinate
-274113	coordinate
-coordinate
-274117	coordinate
-subordinate
-coordinate
-274121	coordinate
-274126	coordinate
-274132	coordinate
-274135	coordinate
-274138	subordinate
-274160	coordinate
-subordinate
-274163	coordinate
-coordinate
-274168	coordinate
-274181	subordinate
-274184	coordinate
-274187	coordinate
-274191	coordinate
-subordinate
-274194	coordinate
-subordinate
-274217	coordinate
-274219	coordinate
-274226	subordinate
-274229	subordinate
-274238	coordinate
-274240	coordinate
-274251	coordinate
-274261	subordinate
-274268	coordinate
-274270	coordinate
-274287	subordinate
-274302	coordinate
-274307	coordinate
-274312	coordinate
-274322	subordinate
-274324	coordinate
-subordinate
-274339	subordinate
-274356	coordinate
-coordinate
-274361	coordinate
-274364	coordinate
-subordinate
-subordinate
-274382	subordinate
-274390	coordinate
-subordinate
-274395	subordinate
-coordinate
-274399	coordinate
-274410	subordinate
-274421	subordinate
-274429	coordinate
-274431	coordinate
-274443	subordinate
-274453	coordinate
-274463	coordinate
-274467	coordinate
-274474	coordinate
-274477	coordinate
-274479	subordinate
-274491	subordinate
-274507	coordinate
-274510	coordinate
-274527	subordinate
-274531	subordinate
-274535	coordinate
-274540	coordinate
-274546	subordinate
-274587	coordinate
-subordinate
-274591	coordinate
-274601	subordinate
-274605	subordinate
-274614	subordinate
-274618	subordinate
-274623	coordinate
-274628	coordinate
-274633	coordinate
-274636	subordinate
-274644	subordinate
-274666	coordinate
-coordinate
-274673	subordinate
-274677	coordinate
-274690	subordinate
-274695	subordinate
-274697	subordinate
-274720	subordinate
-274746	subordinate
-274754	subordinate
-274785	coordinate
-274789	subordinate
-274792	coordinate
-274796	coordinate
-274798	coordinate
-274826	coordinate
-subordinate
-274829	coordinate
-274835	coordinate
-274838	coordinate
-274842	coordinate
-subordinate
-subordinate
-274846	coordinate
-274851	coordinate
-274855	coordinate
-274868	coordinate
-274873	coordinate
-274878	coordinate
-274880	coordinate
-274887	subordinate
-274892	subordinate
-subordinate
-subordinate
-subordinate
-274903	subordinate
-274912	subordinate
-subordinate
-coordinate
-274916	coordinate
-274919	subordinate
-274921	coordinate
-coordinate
-274925	coordinate
-274933	coordinate
-274935	coordinate
-274957	subordinate
-274960	subordinate
-274965	subordinate
-274972	coordinate
-274974	coordinate
-274992	subordinate
-275001	subordinate
-275013	coordinate
-275020	coordinate
-275023	subordinate
-275042	subordinate
-275048	coordinate
-275051	subordinate
-275057	coordinate
-275064	coordinate
-275066	coordinate
-subordinate
-275077	coordinate
-275081	coordinate
-subordinate
-275087	coordinate
-275093	coordinate
-subordinate
-275098	coordinate
-275108	subordinate
-275115	subordinate
-275117	coordinate
-275120	coordinate
-coordinate
-275124	coordinate
-275138	subordinate
-275142	coordinate
-275147	subordinate
-275149	coordinate
-275154	coordinate
-275160	coordinate
-275164	subordinate
-275169	subordinate
-coordinate
-275174	coordinate
-coordinate
-275178	coordinate
-subordinate
-275199	coordinate
-275212	subordinate
-275219	coordinate
-275231	subordinate
-275235	coordinate
-275240	subordinate
-275260	subordinate
-subordinate
-275264	subordinate
-275282	coordinate
-coordinate
-275285	coordinate
-275288	coordinate
-275298	coordinate
-275300	subordinate
-275309	coordinate
-275334	subordinate
-275336	coordinate
-275342	coordinate
-275348	coordinate
-subordinate
-275352	coordinate
-subordinate
-275355	coordinate
-subordinate
-275367	subordinate
-275374	subordinate
-coordinate
-275379	coordinate
-275392	coordinate
-coordinate
-275397	coordinate
-subordinate
-275413	subordinate
-coordinate
-275419	coordinate
-275424	coordinate
-275441	coordinate
-275448	subordinate
-275462	subordinate
-275475	subordinate
-275480	coordinate
-275485	coordinate
-275487	subordinate
-275491	coordinate
-275495	coordinate
-275505	subordinate
-coordinate
-275511	coordinate
-275519	subordinate
-275544	subordinate
-275550	coordinate
-275557	coordinate
-275561	subordinate
-275565	coordinate
-275568	coordinate
-275572	coordinate
-275576	coordinate
-275587	subordinate
-275598	subordinate
-275602	subordinate
-275608	subordinate
-275612	coordinate
-275618	coordinate
-275632	subordinate
-275634	coordinate
-275644	subordinate
-275678	coordinate
-275680	coordinate
-275688	coordinate
-275690	coordinate
-subordinate
-275697	coordinate
-275701	coordinate
-275705	coordinate
-275721	subordinate
-275731	subordinate
-275750	subordinate
-275771	subordinate
-275774	subordinate
-275787	subordinate
-275793	subordinate
-275797	coordinate
-275799	coordinate
-subordinate
-275819	coordinate
-275823	coordinate
-275829	subordinate
-275834	coordinate
-275838	coordinate
-275842	subordinate
-275844	coordinate
-coordinate
-275848	coordinate
-275851	coordinate
-275853	coordinate
-275857	subordinate
-coordinate
-275862	coordinate
-275867	coordinate
-275874	coordinate
-275879	subordinate
-275893	coordinate
-275897	coordinate
-coordinate
-275904	coordinate
-275909	coordinate
-275920	subordinate
-275932	subordinate
-coordinate
-275937	coordinate
-275940	subordinate
-coordinate
-275944	subordinate
-275946	coordinate
-subordinate
-275953	coordinate
-275955	coordinate
-275969	subordinate
-coordinate
-275977	subordinate
-275979	coordinate
-275981	coordinate
-275995	subordinate
-276012	subordinate
-276018	subordinate
-276028	coordinate
-276036	subordinate
-276042	coordinate
-276048	coordinate
-276050	coordinate
-276053	coordinate
-276059	coordinate
-276062	coordinate
-subordinate
-276066	coordinate
-276070	coordinate
-subordinate
-coordinate
-276077	coordinate
-276095	coordinate
-276099	coordinate
-subordinate
-276102	coordinate
-276116	subordinate
-276124	coordinate
-276127	coordinate
-276137	coordinate
-coordinate
-276141	subordinate
-subordinate
-276145	coordinate
-276147	coordinate
-coordinate
-276150	coordinate
-276163	subordinate
-coordinate
-276168	coordinate
-276172	coordinate
-276175	subordinate
-276178	coordinate
-subordinate
-276187	subordinate
-276193	subordinate
-276203	subordinate
-276211	subordinate
-276218	coordinate
-276222	coordinate
-276228	subordinate
-276232	subordinate
-276239	subordinate
-276263	subordinate
-276271	coordinate
-276274	subordinate
-276277	coordinate
-276284	coordinate
-subordinate
-276288	coordinate
-coordinate
-276303	subordinate
-subordinate
-276322	coordinate
-276328	subordinate
-276332	subordinate
-276346	coordinate
-276349	coordinate
-276353	coordinate
-subordinate
-276357	coordinate
-276371	subordinate
-276375	subordinate
-276384	subordinate
-276389	coordinate
-subordinate
-276395	coordinate
-276401	subordinate
-276410	subordinate
-276413	coordinate
-276418	coordinate
-276424	subordinate
-276427	coordinate
-276432	coordinate
-276439	coordinate
-276441	coordinate
-276447	subordinate
-subordinate
-276459	subordinate
-276470	subordinate
-276480	coordinate
-subordinate
-subordinate
-276484	coordinate
-276490	subordinate
-276509	subordinate
-276534	subordinate
-276539	subordinate
-276544	subordinate
-coordinate
-276547	coordinate
-coordinate
-276550	coordinate
-276553	subordinate
-subordinate
-276559	subordinate
-276565	subordinate
-276582	subordinate
-276587	subordinate
-276594	coordinate
-276597	coordinate
-276602	coordinate
-276605	coordinate
-276610	coordinate
-276614	coordinate
-276629	coordinate
-276633	coordinate
-276646	subordinate
-276654	coordinate
-276658	coordinate
-276665	subordinate
-276680	coordinate
-276685	coordinate
-276688	subordinate
-276702	subordinate
-276709	subordinate
-276717	subordinate
-276724	coordinate
-276732	subordinate
-276742	subordinate
-276744	subordinate
-coordinate
-276747	coordinate
-276751	subordinate
-coordinate
-276755	coordinate
-276765	coordinate
-276769	coordinate
-276771	subordinate
-276796	coordinate
-276800	coordinate
-276813	coordinate
-276815	coordinate
-276819	subordinate
-276822	coordinate
-276827	subordinate
-coordinate
-276830	coordinate
-276834	coordinate
-276838	coordinate
-coordinate
-276841	subordinate
-276846	coordinate
-276850	coordinate
-coordinate
-276854	coordinate
-276865	coordinate
-276870	coordinate
-276873	subordinate
-276876	subordinate
-276893	coordinate
-276895	coordinate
-276897	subordinate
-276908	subordinate
-276912	coordinate
-276916	coordinate
-276922	coordinate
-276924	coordinate
-276929	subordinate
-276932	subordinate
-276936	subordinate
-276941	subordinate
-subordinate
-276944	subordinate
-276946	subordinate
-276952	subordinate
-276959	coordinate
-276962	coordinate
-276967	coordinate
-276970	coordinate
-276972	subordinate
-276981	coordinate
-276986	coordinate
-276998	subordinate
-277000	coordinate
-277007	subordinate
-277026	subordinate
-277029	subordinate
-277033	subordinate
-277052	subordinate
-277054	subordinate
-277058	subordinate
-277065	coordinate
-277067	coordinate
-277069	coordinate
-277073	coordinate
-277077	subordinate
-coordinate
-277081	coordinate
-277085	coordinate
-subordinate
-277089	coordinate
-277097	coordinate
-277100	coordinate
-277105	subordinate
-277118	subordinate
-277126	subordinate
-coordinate
-277133	coordinate
-277140	subordinate
-coordinate
-277147	coordinate
-277158	subordinate
-277175	subordinate
-subordinate
-277180	subordinate
-277182	subordinate
-277189	subordinate
-277191	subordinate
-277197	coordinate
-coordinate
-coordinate
-277201	coordinate
-277204	subordinate
-277206	coordinate
-coordinate
-277209	coordinate
-277211	coordinate
-277215	subordinate
-277226	subordinate
-277230	subordinate
-277239	subordinate
-277249	subordinate
-coordinate
-277254	coordinate
-277271	subordinate
-277276	subordinate
-277291	subordinate
-277297	subordinate
-coordinate
-277300	coordinate
-277350	subordinate
-277371	subordinate
-277377	subordinate
-277388	subordinate
-277395	subordinate
-coordinate
-277399	coordinate
-277404	subordinate
-277406	subordinate
-277417	subordinate
-277422	coordinate
-277435	subordinate
-277446	subordinate
-277449	subordinate
-277452	subordinate
-277459	subordinate
-277464	subordinate
-277475	coordinate
-277479	subordinate
-277482	coordinate
-277486	subordinate
-coordinate
-277491	coordinate
-277493	coordinate
-277497	subordinate
-277504	coordinate
-subordinate
-277507	coordinate
-subordinate
-277514	subordinate
-277524	subordinate
-coordinate
-coordinate
-277528	coordinate
-subordinate
-277531	coordinate
-277538	subordinate
-coordinate
-277543	coordinate
-277548	subordinate
-277553	coordinate
-277557	coordinate
-277560	coordinate
-coordinate
-277563	coordinate
-277565	coordinate
-coordinate
-277568	coordinate
-277580	coordinate
-coordinate
-277583	coordinate
-277585	coordinate
-coordinate
-277588	coordinate
-277590	coordinate
-subordinate
-277603	subordinate
-277609	subordinate
-277618	coordinate
-coordinate
-277621	coordinate
-277623	coordinate
-coordinate
-277626	coordinate
-277634	coordinate
-coordinate
-277637	coordinate
-277639	coordinate
-277642	coordinate
-277644	coordinate
-277651	subordinate
-277654	subordinate
-277661	subordinate
-277667	subordinate
-277674	coordinate
-277677	coordinate
-coordinate
-coordinate
-277681	coordinate
-277685	coordinate
-277700	subordinate
-277715	coordinate
-277717	coordinate
-277719	subordinate
-277731	coordinate
-277733	coordinate
-277738	coordinate
-277758	subordinate
-coordinate
-277769	coordinate
-277773	coordinate
-277777	coordinate
-277780	coordinate
-277788	coordinate
-277791	coordinate
-277796	coordinate
-277812	coordinate
-277814	coordinate
-277825	subordinate
-277831	subordinate
-277836	coordinate
-277840	coordinate
-277845	coordinate
-277848	subordinate
-277861	subordinate
-277870	subordinate
-277886	subordinate
-277892	subordinate
-277897	subordinate
-277924	coordinate
-277926	coordinate
-277935	subordinate
-277938	subordinate
-coordinate
-277944	coordinate
-coordinate
-277961	coordinate
-277964	coordinate
-277966	subordinate
-277968	subordinate
-coordinate
-277971	coordinate
-277975	coordinate
-277978	coordinate
-277984	coordinate
-277988	coordinate
-278005	subordinate
-278008	coordinate
-278010	subordinate
-278013	coordinate
-278020	coordinate
-278022	coordinate
-278028	subordinate
-278033	subordinate
-278038	coordinate
-278045	subordinate
-subordinate
-278053	coordinate
-278057	coordinate
-278065	subordinate
-278075	coordinate
-278084	subordinate
-278099	subordinate
-278110	subordinate
-278119	coordinate
-278121	coordinate
-278139	subordinate
-278160	coordinate
-278163	coordinate
-278166	subordinate
-278174	coordinate
-278178	subordinate
-278187	subordinate
-278189	subordinate
-278195	subordinate
-278202	coordinate
-coordinate
-278207	coordinate
-278209	coordinate
-278214	coordinate
-278216	coordinate
-278220	coordinate
-278231	subordinate
-278257	subordinate
-278265	subordinate
-278283	coordinate
-subordinate
-278315	coordinate
-278319	coordinate
-278340	subordinate
-subordinate
-278343	subordinate
-278355	coordinate
-278357	subordinate
-278359	coordinate
-coordinate
-278365	coordinate
-278394	coordinate
-278405	coordinate
-278407	coordinate
-278411	subordinate
-278427	subordinate
-278442	coordinate
-coordinate
-278448	coordinate
-278455	coordinate
-278462	coordinate
-coordinate
-278472	coordinate
-278475	coordinate
-278503	subordinate
-278505	subordinate
-278507	coordinate
-278536	coordinate
-278547	coordinate
-278558	subordinate
-278565	subordinate
-278574	coordinate
-278576	subordinate
-278581	coordinate
-278583	subordinate
-278589	subordinate
-278611	coordinate
-278623	subordinate
-278625	subordinate
-278629	subordinate
-278656	subordinate
-coordinate
-278659	coordinate
-278664	coordinate
-278676	coordinate
-278681	subordinate
-278690	coordinate
-278692	coordinate
-278700	subordinate
-278708	subordinate
-subordinate
-278711	subordinate
-278715	coordinate
-278720	coordinate
-coordinate
-278732	coordinate
-278735	coordinate
-278765	subordinate
-278777	subordinate
-278780	coordinate
-278800	coordinate
-278803	coordinate
-278808	subordinate
-278825	coordinate
-subordinate
-278836	subordinate
-278842	subordinate
-278851	coordinate
-coordinate
-278861	coordinate
-278865	coordinate
-278869	coordinate
-coordinate
-278872	subordinate
-278877	coordinate
-278880	coordinate
-coordinate
-278896	coordinate
-278912	subordinate
-278930	subordinate
-278945	coordinate
-278947	coordinate
-278949	subordinate
-278955	coordinate
-278960	subordinate
-278962	subordinate
-278968	subordinate
-278973	coordinate
-278975	coordinate
-coordinate
-278998	coordinate
-subordinate
-279001	coordinate
-subordinate
-279010	subordinate
-279021	subordinate
-279030	subordinate
-279042	coordinate
-279044	subordinate
-279049	coordinate
-279053	subordinate
-coordinate
-279056	coordinate
-279094	subordinate
-279099	subordinate
-279107	subordinate
-279117	coordinate
-279119	coordinate
-coordinate
-279126	coordinate
-279131	coordinate
-279135	coordinate
-279157	subordinate
-coordinate
-279166	coordinate
-279182	coordinate
-279191	subordinate
-279196	subordinate
-279199	coordinate
-coordinate
-279204	coordinate
-279210	coordinate
-279227	coordinate
-279235	coordinate
-279239	coordinate
-279247	coordinate
-279250	coordinate
-279274	subordinate
-279311	subordinate
-subordinate
-subordinate
-279323	subordinate
-279333	subordinate
-279341	subordinate
-279348	subordinate
-subordinate
-subordinate
-subordinate
-279359	subordinate
-279367	coordinate
-279371	coordinate
-279375	coordinate
-279378	coordinate
-279380	coordinate
-279396	subordinate
-subordinate
-coordinate
-279401	coordinate
-coordinate
-279408	coordinate
-279415	coordinate
-279419	coordinate
-279427	subordinate
-279444	subordinate
-279452	subordinate
-coordinate
-279457	coordinate
-279474	coordinate
-279476	coordinate
-279488	subordinate
-279497	coordinate
-279506	subordinate
-279508	subordinate
-279512	coordinate
-279518	coordinate
-279533	subordinate
-subordinate
-279540	coordinate
-279551	coordinate
-subordinate
-279559	coordinate
-coordinate
-279562	coordinate
-279576	coordinate
-279581	coordinate
-subordinate
-279586	coordinate
-279593	coordinate
-279603	coordinate
-coordinate
-279609	coordinate
-279613	coordinate
-coordinate
-subordinate
-subordinate
-279619	coordinate
-279623	coordinate
-279626	subordinate
-279628	coordinate
-279634	subordinate
-coordinate
-279646	coordinate
-279649	coordinate
-279655	coordinate
-279665	coordinate
-coordinate
-279668	coordinate
-279675	subordinate
-279687	subordinate
-279692	subordinate
-coordinate
-279697	coordinate
-279703	coordinate
-279707	coordinate
-279710	subordinate
-279723	coordinate
-279727	coordinate
-subordinate
-279731	coordinate
-subordinate
-279736	coordinate
-coordinate
-subordinate
-279760	subordinate
-279762	subordinate
-279769	subordinate
-279773	subordinate
-279777	coordinate
-279780	subordinate
-279784	coordinate
-coordinate
-279812	coordinate
-279815	coordinate
-279820	coordinate
-279827	coordinate
-279829	subordinate
-279836	coordinate
-279839	coordinate
-coordinate
-279849	subordinate
-279859	subordinate
-279869	subordinate
-279875	coordinate
-subordinate
-279903	subordinate
-279916	subordinate
-coordinate
-279925	coordinate
-279933	coordinate
-279944	coordinate
-279950	coordinate
-279954	coordinate
-279960	coordinate
-coordinate
-279971	coordinate
-coordinate
-coordinate
-279977	coordinate
-279981	coordinate
-coordinate
-279986	coordinate
-279991	coordinate
-coordinate
-coordinate
-279996	coordinate
-280012	subordinate
-280017	coordinate
-280019	coordinate
-280039	coordinate
-280049	coordinate
-subordinate
-subordinate
-280093	subordinate
-280101	coordinate
-coordinate
-280104	coordinate
-280108	coordinate
-280139	coordinate
-280147	coordinate
-280151	coordinate
-280153	coordinate
-subordinate
-280181	subordinate
-280183	coordinate
-280194	subordinate
-coordinate
-280198	coordinate
-280210	subordinate
-280213	subordinate
-coordinate
-280216	coordinate
-280218	coordinate
-280229	coordinate
-280232	coordinate
-280264	coordinate
-280266	coordinate
-coordinate
-coordinate
-280271	coordinate
-280273	coordinate
-280280	subordinate
-280286	subordinate
-280358	subordinate
-coordinate
-280361	coordinate
-subordinate
-280366	subordinate
-coordinate
-280371	coordinate
-280373	coordinate
-subordinate
-280378	subordinate
-subordinate
-280385	subordinate
-280389	subordinate
-280391	subordinate
-280398	coordinate
-280413	subordinate
-280426	subordinate
-280428	subordinate
-280449	coordinate
-280452	subordinate
-280454	subordinate
-280459	coordinate
-280486	subordinate
-280489	subordinate
-280494	subordinate
-280504	subordinate
-subordinate
-280514	subordinate
-280520	subordinate
-280526	subordinate
-coordinate
-280531	coordinate
-280540	subordinate
-subordinate
-coordinate
-280545	coordinate
-280552	subordinate
-280554	coordinate
-280556	coordinate
-280567	subordinate
-280581	subordinate
-280593	coordinate
-280600	coordinate
-280619	coordinate
-subordinate
-subordinate
-280623	coordinate
-280631	subordinate
-280649	subordinate
-280661	subordinate
-280663	subordinate
-280676	subordinate
-280682	subordinate
-280727	coordinate
-280731	subordinate
-280736	coordinate
-280748	subordinate
-280764	subordinate
-coordinate
-280769	coordinate
-280778	coordinate
-280783	coordinate
-coordinate
-subordinate
-280787	coordinate
-280797	subordinate
-subordinate
-280813	coordinate
-coordinate
-280818	coordinate
-280823	coordinate
-280833	subordinate
-280843	subordinate
-280871	subordinate
-280881	subordinate
-280891	subordinate
-280899	coordinate
-coordinate
-280902	coordinate
-280906	coordinate
-280928	subordinate
-280931	coordinate
-280940	coordinate
-280942	subordinate
-280944	subordinate
-280946	coordinate
-280951	coordinate
-coordinate
-280956	subordinate
-280959	subordinate
-280961	subordinate
-280984	coordinate
-280987	coordinate
-280989	subordinate
-280991	subordinate
-280997	coordinate
-280999	coordinate
-281049	subordinate
-281055	subordinate
-281064	coordinate
-281066	coordinate
-281071	subordinate
-281075	subordinate
-281082	coordinate
-subordinate
-281099	coordinate
-281101	coordinate
-281107	coordinate
-281110	subordinate
-281113	subordinate
-281117	coordinate
-281133	coordinate
-281140	coordinate
-coordinate
-281149	coordinate
-281153	coordinate
-281158	coordinate
-281175	coordinate
-281180	coordinate
-281184	coordinate
-281194	coordinate
-281198	coordinate
-281202	subordinate
-281213	subordinate
-281232	subordinate
-281246	subordinate
-281252	subordinate
-281258	subordinate
-281262	subordinate
-281266	subordinate
-subordinate
-281283	subordinate
-281287	coordinate
-coordinate
-281293	coordinate
-281297	coordinate
-281303	subordinate
-coordinate
-281309	coordinate
-subordinate
-281326	subordinate
-281335	coordinate
-281340	coordinate
-281350	subordinate
-coordinate
-281357	subordinate
-281365	subordinate
-281373	coordinate
-281376	coordinate
-281389	subordinate
-coordinate
-281395	coordinate
-281411	coordinate
-281424	subordinate
-281450	coordinate
-subordinate
-281472	coordinate
-coordinate
-281475	coordinate
-281486	coordinate
-281494	coordinate
-281497	coordinate
-281514	coordinate
-281518	coordinate
-281530	coordinate
-281536	coordinate
-281562	coordinate
-281565	coordinate
-281574	coordinate
-281581	coordinate
-coordinate
-281590	subordinate
-281595	subordinate
-coordinate
-281601	coordinate
-281607	subordinate
-coordinate
-281611	coordinate
-281643	subordinate
-281663	subordinate
-subordinate
-281667	subordinate
-281670	subordinate
-281674	subordinate
-281683	subordinate
-subordinate
-281691	coordinate
-281707	subordinate
-281713	coordinate
-281720	coordinate
-coordinate
-coordinate
-subordinate
-281725	coordinate
-281727	coordinate
-281731	subordinate
-coordinate
-281734	coordinate
-281736	coordinate
-281741	coordinate
-coordinate
-281745	subordinate
-coordinate
-281748	coordinate
-281764	coordinate
-281790	subordinate
-281799	coordinate
-281802	coordinate
-subordinate
-subordinate
-281828	coordinate
-281834	subordinate
-281838	coordinate
-coordinate
-281844	coordinate
-subordinate
-281859	coordinate
-281872	coordinate
-281889	subordinate
-281898	subordinate
-281917	subordinate
-281919	coordinate
-281925	coordinate
-281930	subordinate
-281932	subordinate
-281958	subordinate
-281963	subordinate
-282020	subordinate
-282024	subordinate
-282046	subordinate
-282050	coordinate
-282053	coordinate
-282061	coordinate
-coordinate
-282065	coordinate
-282071	subordinate
-282075	coordinate
-282081	coordinate
-282089	coordinate
-coordinate
-282093	subordinate
-282103	coordinate
-282111	subordinate
-282115	coordinate
-subordinate
-282119	subordinate
-282128	subordinate
-282138	subordinate
-282191	subordinate
-282202	subordinate
-282206	coordinate
-subordinate
-coordinate
-282218	coordinate
-282221	coordinate
-282231	subordinate
-subordinate
-282238	subordinate
-282242	subordinate
-subordinate
-282255	coordinate
-subordinate
-282264	coordinate
-subordinate
-282270	subordinate
-282275	subordinate
-282283	subordinate
-subordinate
-282297	subordinate
-282302	subordinate
-282305	subordinate
-coordinate
-282308	coordinate
-282312	subordinate
-subordinate
-subordinate
-282320	subordinate
-subordinate
-282327	subordinate
-282348	coordinate
-subordinate
-282353	coordinate
-subordinate
-282363	coordinate
-subordinate
-282395	coordinate
-282398	coordinate
-282400	coordinate
-282405	coordinate
-282438	subordinate
-subordinate
-subordinate
-282449	coordinate
-282456	coordinate
-282459	subordinate
-282467	coordinate
-282471	coordinate
-282485	coordinate
-282492	coordinate
-coordinate
-282497	coordinate
-282505	coordinate
-282514	coordinate
-coordinate
-subordinate
-282520	coordinate
-282524	coordinate
-282534	coordinate
-282546	coordinate
-subordinate
-282551	subordinate
-282557	coordinate
-282566	subordinate
-282584	coordinate
-282587	subordinate
-282590	coordinate
-282598	coordinate
-coordinate
-282602	subordinate
-282608	coordinate
-282616	coordinate
-subordinate
-282633	subordinate
-coordinate
-282639	coordinate
-282647	coordinate
-subordinate
-282650	coordinate
-subordinate
-282657	subordinate
-282666	coordinate
-coordinate
-282672	subordinate
-282676	subordinate
-282688	coordinate
-subordinate
-282692	coordinate
-subordinate
-282697	coordinate
-282702	coordinate
-282705	subordinate
-282729	subordinate
-282731	subordinate
-282735	coordinate
-282745	coordinate
-282749	coordinate
-282754	coordinate
-282758	coordinate
-subordinate
-282761	subordinate
-282763	coordinate
-subordinate
-282802	coordinate
-282805	subordinate
-282807	coordinate
-282812	subordinate
-282818	subordinate
-282820	coordinate
-282826	coordinate
-282831	subordinate
-282834	subordinate
-282846	subordinate
-282850	subordinate
-282858	coordinate
-subordinate
-282872	coordinate
-coordinate
-282878	coordinate
-282884	coordinate
-282892	subordinate
-282894	coordinate
-282896	coordinate
-subordinate
-282909	coordinate
-subordinate
-282916	coordinate
-282920	coordinate
-subordinate
-282936	coordinate
-282939	subordinate
-282945	subordinate
-282951	subordinate
-282955	coordinate
-subordinate
-coordinate
-282962	coordinate
-282967	coordinate
-subordinate
-282973	subordinate
-282990	subordinate
-282993	coordinate
-283003	coordinate
-283009	subordinate
-283023	subordinate
-283032	coordinate
-subordinate
-283039	coordinate
-283044	coordinate
-subordinate
-283054	subordinate
-283059	coordinate
-subordinate
-283062	coordinate
-283071	subordinate
-283082	coordinate
-283085	coordinate
-283090	coordinate
-283095	coordinate
-283107	coordinate
-subordinate
-283110	coordinate
-subordinate
-283115	coordinate
-subordinate
-283123	subordinate
-283128	subordinate
-283139	subordinate
-283149	subordinate
-subordinate
-283156	coordinate
-283158	coordinate
-coordinate
-283161	subordinate
-283163	coordinate
-283168	coordinate
-283177	coordinate
-283180	coordinate
-283182	coordinate
-283184	subordinate
-283191	coordinate
-283196	coordinate
-283198	subordinate
-coordinate
-283201	subordinate
-283211	coordinate
-283214	subordinate
-283216	subordinate
-283222	coordinate
-283224	coordinate
-coordinate
-subordinate
-283228	subordinate
-subordinate
-283235	coordinate
-283241	subordinate
-283246	subordinate
-subordinate
-283259	subordinate
-coordinate
-283262	coordinate
-subordinate
-283280	subordinate
-283290	subordinate
-283296	subordinate
-subordinate
-283311	subordinate
-283331	coordinate
-283337	coordinate
-283358	coordinate
-subordinate
-283364	coordinate
-283369	coordinate
-coordinate
-283376	coordinate
-283395	coordinate
-283411	subordinate
-283414	coordinate
-subordinate
-283428	subordinate
-283437	coordinate
-283445	coordinate
-coordinate
-subordinate
-283449	coordinate
-coordinate
-283454	coordinate
-283461	subordinate
-283470	subordinate
-283474	coordinate
-283481	coordinate
-283488	subordinate
-283498	subordinate
-283518	coordinate
-283525	subordinate
-283528	subordinate
-283530	subordinate
-283536	coordinate
-283545	coordinate
-283553	subordinate
-283559	coordinate
-283572	coordinate
-coordinate
-coordinate
-283577	coordinate
-283581	subordinate
-coordinate
-283585	coordinate
-283597	coordinate
-283603	coordinate
-283618	coordinate
-coordinate
-283622	coordinate
-283633	coordinate
-coordinate
-coordinate
-283638	coordinate
-283643	coordinate
-283646	coordinate
-283653	subordinate
-283659	coordinate
-coordinate
-283664	coordinate
-283670	coordinate
-coordinate
-283678	coordinate
-subordinate
-283689	coordinate
-coordinate
-283697	coordinate
-283700	coordinate
-283706	subordinate
-subordinate
-283714	coordinate
-283720	coordinate
-283727	coordinate
-subordinate
-283740	coordinate
-283745	coordinate
-coordinate
-283752	coordinate
-283755	coordinate
-283769	subordinate
-283783	subordinate
-283791	subordinate
-283805	coordinate
-283809	coordinate
-283822	coordinate
-283826	coordinate
-283831	coordinate
-283835	coordinate
-283844	subordinate
-283850	subordinate
-283859	coordinate
-subordinate
-subordinate
-283863	coordinate
-283866	subordinate
-283871	coordinate
-283880	coordinate
-283884	coordinate
-283887	subordinate
-subordinate
-283890	coordinate
-283913	subordinate
-subordinate
-283920	coordinate
-283925	coordinate
-283949	subordinate
-283955	subordinate
-283971	subordinate
-subordinate
-283984	subordinate
-283992	coordinate
-coordinate
-subordinate
-284003	coordinate
-284007	coordinate
-subordinate
-284039	subordinate
-284067	subordinate
-284092	subordinate
-subordinate
-284095	coordinate
-subordinate
-284100	coordinate
-coordinate
-284103	coordinate
-284123	subordinate
-284127	coordinate
-coordinate
-284133	coordinate
-284136	coordinate
-284146	coordinate
-284149	coordinate
-subordinate
-284185	subordinate
-284200	subordinate
-284204	subordinate
-284210	subordinate
-284230	coordinate
-284234	coordinate
-subordinate
-284251	coordinate
-284254	coordinate
-284261	coordinate
-284266	coordinate
-284290	subordinate
-284315	coordinate
-284320	coordinate
-284324	coordinate
-subordinate
-284329	coordinate
-284335	coordinate
-subordinate
-284338	subordinate
-284344	subordinate
-284351	subordinate
-coordinate
-284355	coordinate
-284365	coordinate
-coordinate
-subordinate
-284372	coordinate
-284375	coordinate
-subordinate
-284389	subordinate
-284394	subordinate
-coordinate
-284406	subordinate
-284416	subordinate
-284449	coordinate
-284453	coordinate
-284461	subordinate
-284465	subordinate
-284474	coordinate
-284477	subordinate
-284480	coordinate
-subordinate
-284498	coordinate
-284500	coordinate
-284513	subordinate
-284516	coordinate
-284519	subordinate
-284533	subordinate
-284536	subordinate
-coordinate
-284539	coordinate
-284543	subordinate
-subordinate
-284571	subordinate
-284573	subordinate
-284596	coordinate
-subordinate
-284601	subordinate
-subordinate
-284626	subordinate
-284628	subordinate
-284633	coordinate
-284638	coordinate
-284647	coordinate
-284651	coordinate
-284673	subordinate
-subordinate
-284689	subordinate
-subordinate
-284704	subordinate
-284713	coordinate
-284719	coordinate
-284731	subordinate
-284740	subordinate
-284747	subordinate
-284750	subordinate
-284755	coordinate
-subordinate
-284764	coordinate
-284775	coordinate
-284777	coordinate
-284791	subordinate
-284795	coordinate
-284810	subordinate
-284816	subordinate
-284821	coordinate
-284830	coordinate
-284832	coordinate
-284838	coordinate
-subordinate
-284841	subordinate
-284849	subordinate
-284857	subordinate
-284861	subordinate
-284863	subordinate
-284875	coordinate
-284877	subordinate
-284881	coordinate
-284883	subordinate
-284900	subordinate
-284908	subordinate
-284924	subordinate
-coordinate
-284930	coordinate
-284939	subordinate
-284943	coordinate
-284953	subordinate
-284957	coordinate
-subordinate
-284961	coordinate
-coordinate
-284971	coordinate
-284977	subordinate
-284983	coordinate
-284987	subordinate
-284990	subordinate
-284994	coordinate
-284997	coordinate
-subordinate
-285009	subordinate
-285016	subordinate
-285027	subordinate
-285030	subordinate
-285035	subordinate
-285040	coordinate
-285044	subordinate
-285047	coordinate
-coordinate
-285052	coordinate
-subordinate
-285076	coordinate
-coordinate
-285079	coordinate
-285083	coordinate
-subordinate
-285086	subordinate
-285094	subordinate
-285096	coordinate
-285099	coordinate
-285103	coordinate
-285107	coordinate
-285115	subordinate
-285120	coordinate
-285124	coordinate
-285130	coordinate
-285134	subordinate
-285154	coordinate
-subordinate
-285162	coordinate
-285166	subordinate
-285170	coordinate
-285172	coordinate
-subordinate
-coordinate
-285176	subordinate
-285178	coordinate
-285181	subordinate
-285192	coordinate
-285198	coordinate
-285202	subordinate
-285217	subordinate
-285231	subordinate
-subordinate
-subordinate
-285240	coordinate
-285242	coordinate
-coordinate
-285248	subordinate
-285264	subordinate
-coordinate
-285267	coordinate
-285272	coordinate
-coordinate
-285279	subordinate
-285281	coordinate
-285283	coordinate
-subordinate
-285286	coordinate
-subordinate
-285291	coordinate
-285310	coordinate
-285318	coordinate
-285327	coordinate
-285331	subordinate
-subordinate
-285338	coordinate
-285340	coordinate
-285353	subordinate
-285357	subordinate
-285373	subordinate
-285377	subordinate
-285382	subordinate
-285387	subordinate
-285389	subordinate
-285400	coordinate
-subordinate
-285407	coordinate
-coordinate
-285413	coordinate
-285416	coordinate
-285429	subordinate
-285443	subordinate
-285447	coordinate
-subordinate
-285452	coordinate
-285458	coordinate
-285466	subordinate
-285468	coordinate
-subordinate
-285482	subordinate
-subordinate
-285498	subordinate
-subordinate
-285504	subordinate
-285514	coordinate
-285516	coordinate
-285538	subordinate
-285541	subordinate
-285555	subordinate
-subordinate
-285560	subordinate
-285578	subordinate
-285583	subordinate
-285585	coordinate
-subordinate
-285590	coordinate
-285593	subordinate
-coordinate
-285596	coordinate
-285601	subordinate
-285607	coordinate
-subordinate
-coordinate
-285612	coordinate
-285616	subordinate
-285624	coordinate
-285628	coordinate
-subordinate
-285634	coordinate
-subordinate
-285637	coordinate
-subordinate
-285643	subordinate
-285647	coordinate
-285652	coordinate
-285658	subordinate
-285674	subordinate
-285682	subordinate
-285689	subordinate
-285693	subordinate
-285702	subordinate
-coordinate
-285713	subordinate
-coordinate
-285716	coordinate
-285735	coordinate
-285738	coordinate
-285754	subordinate
-285760	subordinate
-coordinate
-285771	coordinate
-285778	subordinate
-coordinate
-285781	coordinate
-285785	subordinate
-285791	coordinate
-285793	coordinate
-subordinate
-285800	coordinate
-285803	coordinate
-subordinate
-coordinate
-285810	subordinate
-subordinate
-285813	subordinate
-285834	subordinate
-285846	subordinate
-285856	subordinate
-285861	coordinate
-285864	coordinate
-285872	subordinate
-285875	subordinate
-285881	coordinate
-285888	subordinate
-285895	coordinate
-subordinate
-subordinate
-285914	coordinate
-285916	coordinate
-subordinate
-285919	coordinate
-285921	subordinate
-285923	subordinate
-285927	subordinate
-285932	subordinate
-285947	subordinate
-285950	subordinate
-285958	subordinate
-coordinate
-285964	coordinate
-285969	subordinate
-285973	coordinate
-285975	subordinate
-285978	coordinate
-285995	subordinate
-286006	subordinate
-286010	subordinate
-286012	subordinate
-286028	coordinate
-coordinate
-subordinate
-286032	coordinate
-subordinate
-286038	subordinate
-286040	subordinate
-286046	subordinate
-286053	subordinate
-286057	subordinate
-286064	coordinate
-286078	coordinate
-286086	coordinate
-286090	coordinate
-286098	coordinate
-286101	coordinate
-286113	coordinate
-286116	coordinate
-subordinate
-286124	subordinate
-286133	subordinate
-286139	coordinate
-286141	coordinate
-286146	coordinate
-286148	coordinate
-286157	subordinate
-286170	subordinate
-286183	subordinate
-286190	subordinate
-coordinate
-286193	coordinate
-286199	subordinate
-286216	subordinate
-286220	coordinate
-286226	coordinate
-subordinate
-286248	subordinate
-coordinate
-286257	subordinate
-286262	subordinate
-286268	subordinate
-286301	subordinate
-286312	subordinate
-coordinate
-286315	coordinate
-286321	subordinate
-286331	subordinate
-286336	subordinate
-286343	subordinate
-286368	subordinate
-286377	coordinate
-286380	subordinate
-286382	coordinate
-286386	subordinate
-286389	coordinate
-286394	coordinate
-coordinate
-286401	subordinate
-286407	coordinate
-286411	coordinate
-subordinate
-286415	coordinate
-286433	subordinate
-286444	subordinate
-286457	subordinate
-286462	coordinate
-286465	coordinate
-286477	subordinate
-286484	subordinate
-subordinate
-286489	coordinate
-286496	coordinate
-286505	subordinate
-subordinate
-coordinate
-286515	coordinate
-286518	coordinate
-286538	subordinate
-286544	subordinate
-286558	coordinate
-286560	coordinate
-286567	subordinate
-286573	subordinate
-286575	subordinate
-286589	coordinate
-subordinate
-286592	coordinate
-286622	subordinate
-286632	subordinate
-286637	subordinate
-286643	coordinate
-286647	coordinate
-286657	coordinate
-286674	coordinate
-subordinate
-coordinate
-286678	coordinate
-286684	coordinate
-subordinate
-286690	subordinate
-286706	coordinate
-286708	subordinate
-286710	coordinate
-subordinate
-286716	subordinate
-coordinate
-coordinate
-286724	coordinate
-286727	coordinate
-286741	subordinate
-286745	subordinate
-286748	subordinate
-286750	subordinate
-286762	subordinate
-286765	subordinate
-286769	subordinate
-286773	subordinate
-286789	subordinate
-286804	coordinate
-286809	subordinate
-286812	coordinate
-286815	subordinate
-286817	subordinate
-286820	subordinate
-subordinate
-subordinate
-286830	coordinate
-286835	coordinate
-286846	subordinate
-subordinate
-286850	coordinate
-286857	subordinate
-286860	coordinate
-286867	coordinate
-286870	coordinate
-286876	subordinate
-286896	coordinate
-286898	coordinate
-286908	coordinate
-286912	coordinate
-286916	coordinate
-subordinate
-286919	coordinate
-286927	coordinate
-subordinate
-286932	coordinate
-coordinate
-subordinate
-286950	coordinate
-subordinate
-286954	coordinate
-286961	subordinate
-286966	coordinate
-286971	coordinate
-286985	subordinate
-287010	subordinate
-subordinate
-287015	coordinate
-subordinate
-287024	coordinate
-subordinate
-subordinate
-287038	subordinate
-287048	subordinate
-287052	coordinate
-subordinate
-287055	coordinate
-287059	coordinate
-subordinate
-287062	subordinate
-subordinate
-287076	subordinate
-287088	subordinate
-287093	coordinate
-subordinate
-coordinate
-287097	coordinate
-subordinate
-287100	subordinate
-287102	coordinate
-subordinate
-287117	coordinate
-287120	coordinate
-subordinate
-287140	subordinate
-287142	subordinate
-287151	coordinate
-287154	coordinate
-287158	coordinate
-287161	subordinate
-287165	coordinate
-subordinate
-287181	subordinate
-287183	subordinate
-287194	subordinate
-287220	coordinate
-287223	coordinate
-287239	subordinate
-coordinate
-287242	coordinate
-287244	coordinate
-287250	coordinate
-coordinate
-subordinate
-287258	coordinate
-287261	coordinate
-subordinate
-287278	subordinate
-287298	subordinate
-287301	subordinate
-287312	subordinate
-287315	subordinate
-subordinate
-287326	subordinate
-287328	subordinate
-287333	coordinate
-287339	coordinate
-287341	coordinate
-287345	subordinate
-287359	coordinate
-subordinate
-287366	coordinate
-287371	coordinate
-subordinate
-287375	subordinate
-287379	subordinate
-287387	subordinate
-287398	subordinate
-287404	coordinate
-subordinate
-287412	coordinate
-subordinate
-287438	subordinate
-287449	subordinate
-coordinate
-287452	coordinate
-287457	coordinate
-287461	coordinate
-287469	coordinate
-287478	coordinate
-coordinate
-coordinate
-coordinate
-287489	coordinate
-287494	coordinate
-287500	coordinate
-subordinate
-287520	coordinate
-287522	coordinate
-287536	subordinate
-287541	subordinate
-287577	subordinate
-287581	subordinate
-287583	coordinate
-287586	subordinate
-subordinate
-287594	coordinate
-coordinate
-coordinate
-287604	subordinate
-287614	coordinate
-287622	subordinate
-coordinate
-287625	coordinate
-287634	subordinate
-287636	coordinate
-subordinate
-287640	subordinate
-287645	subordinate
-287651	subordinate
-287679	subordinate
-287688	subordinate
-287706	subordinate
-subordinate
-287721	subordinate
-287728	coordinate
-coordinate
-subordinate
-287736	coordinate
-287741	coordinate
-287743	coordinate
-subordinate
-287755	coordinate
-287759	coordinate
-287763	subordinate
-287786	coordinate
-287788	coordinate
-287799	subordinate
-287805	subordinate
-287823	subordinate
-287830	subordinate
-subordinate
-287840	subordinate
-287844	subordinate
-287851	coordinate
-subordinate
-287856	coordinate
-287860	subordinate
-287864	subordinate
-287870	subordinate
-287877	subordinate
-coordinate
-287880	coordinate
-287903	coordinate
-coordinate
-subordinate
-287908	coordinate
-287913	coordinate
-subordinate
-287930	coordinate
-287935	subordinate
-287943	coordinate
-coordinate
-287950	coordinate
-287957	coordinate
-subordinate
-287965	coordinate
-287974	subordinate
-coordinate
-287983	coordinate
-subordinate
-subordinate
-287996	subordinate
-288008	coordinate
-288010	subordinate
-288021	subordinate
-subordinate
-288029	coordinate
-coordinate
-288035	coordinate
-288037	coordinate
-288041	coordinate
-288048	subordinate
-288058	subordinate
-288063	subordinate
-288084	subordinate
-288095	subordinate
-coordinate
-288110	coordinate
-288112	coordinate
-288117	subordinate
-subordinate
-288124	subordinate
-288129	coordinate
-coordinate
-288133	coordinate
-288137	subordinate
-288143	coordinate
-288152	subordinate
-288159	subordinate
-288163	subordinate
-288168	subordinate
-288173	subordinate
-coordinate
-288184	subordinate
-subordinate
-288193	subordinate
-288209	subordinate
-subordinate
-288218	subordinate
-coordinate
-coordinate
-coordinate
-288223	coordinate
-288225	coordinate
-288233	subordinate
-288240	coordinate
-288245	coordinate
-subordinate
-coordinate
-288250	coordinate
-288254	subordinate
-subordinate
-288262	subordinate
-288275	subordinate
-coordinate
-288280	coordinate
-288288	subordinate
-288294	subordinate
-coordinate
-288298	coordinate
-288300	subordinate
-288310	subordinate
-288312	subordinate
-288321	coordinate
-subordinate
-288327	coordinate
-subordinate
-288348	subordinate
-coordinate
-288351	coordinate
-288353	subordinate
-coordinate
-288358	coordinate
-288372	subordinate
-288379	subordinate
-288384	subordinate
-288398	subordinate
-288417	coordinate
-subordinate
-288425	subordinate
-288430	coordinate
-288437	coordinate
-subordinate
-288448	coordinate
-subordinate
-288462	subordinate
-288466	subordinate
-coordinate
-288469	coordinate
-subordinate
-288480	subordinate
-288489	subordinate
-288502	subordinate
-coordinate
-288512	coordinate
-288519	subordinate
-288524	subordinate
-288527	coordinate
-288532	subordinate
-288546	subordinate
-288555	subordinate
-288562	subordinate
-288567	coordinate
-288571	coordinate
-subordinate
-288600	subordinate
-288615	coordinate
-288618	coordinate
-coordinate
-coordinate
-288627	coordinate
-288632	coordinate
-288634	subordinate
-288652	subordinate
-288654	subordinate
-288659	subordinate
-coordinate
-288665	subordinate
-288668	coordinate
-288688	subordinate
-288702	subordinate
-288704	subordinate
-288719	subordinate
-288751	subordinate
-288756	subordinate
-subordinate
-subordinate
-288768	subordinate
-288787	subordinate
-288798	subordinate
-288811	subordinate
-288819	coordinate
-subordinate
-288823	coordinate
-subordinate
-288830	subordinate
-288835	coordinate
-288839	subordinate
-288845	coordinate
-288849	subordinate
-288862	subordinate
-288879	subordinate
-288893	subordinate
-288906	coordinate
-288910	coordinate
-288916	subordinate
-subordinate
-coordinate
-288921	coordinate
-288923	subordinate
-288929	coordinate
-subordinate
-subordinate
-288938	coordinate
-288942	subordinate
-288959	subordinate
-288975	coordinate
-subordinate
-288981	subordinate
-289000	subordinate
-289003	subordinate
-289019	coordinate
-289023	coordinate
-289033	subordinate
-289037	subordinate
-289044	coordinate
-subordinate
-289048	subordinate
-289052	coordinate
-289058	subordinate
-289072	subordinate
-289076	subordinate
-289082	subordinate
-289085	subordinate
-289090	subordinate
-289095	coordinate
-subordinate
-289100	coordinate
-289126	coordinate
-289135	subordinate
-289137	coordinate
-subordinate
-289141	subordinate
-289149	subordinate
-289152	subordinate
-289158	subordinate
-289166	subordinate
-coordinate
-289169	coordinate
-289176	subordinate
-subordinate
-289180	subordinate
-289190	subordinate
-289196	subordinate
-289202	subordinate
-289205	subordinate
-289227	subordinate
-coordinate
-289230	coordinate
-289233	subordinate
-289246	coordinate
-289256	subordinate
-289267	subordinate
-289270	coordinate
-289275	subordinate
-289277	coordinate
-289280	subordinate
-289283	subordinate
-289287	coordinate
-289291	coordinate
-coordinate
-289294	subordinate
-289297	subordinate
-289299	coordinate
-subordinate
-289305	subordinate
-289307	coordinate
-subordinate
-289314	coordinate
-289322	coordinate
-289327	subordinate
-289330	coordinate
-289335	coordinate
-289337	subordinate
-subordinate
-289343	coordinate
-coordinate
-289348	coordinate
-289354	subordinate
-coordinate
-289358	coordinate
-subordinate
-289363	subordinate
-289365	subordinate
-subordinate
-subordinate
-289378	subordinate
-289382	coordinate
-coordinate
-subordinate
-289386	coordinate
-subordinate
-289393	subordinate
-289396	subordinate
-289398	subordinate
-289403	coordinate
-289408	coordinate
-289428	coordinate
-subordinate
-289438	coordinate
-289444	coordinate
-subordinate
-289449	coordinate
-subordinate
-289476	subordinate
-289479	subordinate
-289488	coordinate
-subordinate
-subordinate
-289494	coordinate
-289496	subordinate
-coordinate
-289499	coordinate
-subordinate
-289511	coordinate
-coordinate
-289517	coordinate
-subordinate
-289520	coordinate
-subordinate
-subordinate
-289528	coordinate
-subordinate
-289535	coordinate
-coordinate
-subordinate
-289540	coordinate
-289544	subordinate
-289557	coordinate
-289564	coordinate
-289573	coordinate
-289575	subordinate
-coordinate
-289579	coordinate
-289582	coordinate
-289593	coordinate
-289597	coordinate
-289608	subordinate
-289618	coordinate
-subordinate
-coordinate
-289623	coordinate
-coordinate
-289630	coordinate
-289633	coordinate
-subordinate
-289637	subordinate
-289643	subordinate
-289664	subordinate
-subordinate
-289670	coordinate
-289675	subordinate
-289677	coordinate
-subordinate
-289697	subordinate
-289721	coordinate
-289725	coordinate
-289754	subordinate
-289763	subordinate
-289778	coordinate
-289784	coordinate
-289809	subordinate
-289815	coordinate
-coordinate
-289825	coordinate
-289834	coordinate
-coordinate
-289843	coordinate
-289848	subordinate
-289852	coordinate
-289855	subordinate
-289859	subordinate
-289865	coordinate
-subordinate
-289873	subordinate
-subordinate
-289880	subordinate
-289883	subordinate
-289885	subordinate
-289891	subordinate
-subordinate
-subordinate
-289897	coordinate
-289903	subordinate
-289907	coordinate
-coordinate
-289910	coordinate
-289915	subordinate
-289923	subordinate
-289929	subordinate
-coordinate
-289932	coordinate
-289939	subordinate
-289945	subordinate
-289959	coordinate
-subordinate
-289967	coordinate
-289970	subordinate
-subordinate
-289982	subordinate
-289987	subordinate
-289990	subordinate
-289996	subordinate
-290002	coordinate
-290004	coordinate
-subordinate
-290033	subordinate
-290036	subordinate
-subordinate
-290051	subordinate
-290058	subordinate
-290061	subordinate
-290065	subordinate
-290071	subordinate
-subordinate
-290080	coordinate
-290095	subordinate
-290104	subordinate
-290111	subordinate
-290119	coordinate
-subordinate
-290125	subordinate
-subordinate
-290128	subordinate
-290137	subordinate
-290143	coordinate
-290149	coordinate
-290151	subordinate
-290168	subordinate
-290179	subordinate
-290181	subordinate
-290187	coordinate
-290189	coordinate
-290191	subordinate
-290210	subordinate
-290216	subordinate
-290218	subordinate
-290228	coordinate
-290237	coordinate
-coordinate
-290241	subordinate
-290243	coordinate
-290252	coordinate
-coordinate
-coordinate
-290258	subordinate
-coordinate
-290266	subordinate
-290277	subordinate
-290289	coordinate
-290293	coordinate
-290302	subordinate
-290309	subordinate
-290316	coordinate
-290318	subordinate
-290329	coordinate
-290332	subordinate
-290343	subordinate
-290353	subordinate
-290367	coordinate
-290369	subordinate
-290371	subordinate
-290376	coordinate
-290385	subordinate
-290392	coordinate
-290394	coordinate
-subordinate
-290403	subordinate
-290406	coordinate
-coordinate
-subordinate
-coordinate
-290422	coordinate
-subordinate
-290425	subordinate
-coordinate
-290428	coordinate
-290432	coordinate
-subordinate
-290435	subordinate
-290440	subordinate
-290451	subordinate
-subordinate
-290456	subordinate
-290461	coordinate
-290467	coordinate
-subordinate
-290475	subordinate
-290481	coordinate
-subordinate
-290486	coordinate
-coordinate
-subordinate
-290492	coordinate
-290501	subordinate
-290505	subordinate
-290508	subordinate
-290511	subordinate
-290517	subordinate
-290519	subordinate
-290522	subordinate
-290527	coordinate
-290533	subordinate
-coordinate
-subordinate
-290540	coordinate
-290548	subordinate
-290586	subordinate
-290592	subordinate
-290604	coordinate
-290610	coordinate
-coordinate
-290613	coordinate
-290623	subordinate
-290628	subordinate
-290639	subordinate
-290642	subordinate
-290647	subordinate
-290650	subordinate
-290660	subordinate
-290684	subordinate
-subordinate
-coordinate
-290697	coordinate
-coordinate
-290702	coordinate
-290713	subordinate
-290715	subordinate
-290743	subordinate
-290748	coordinate
-coordinate
-290752	coordinate
-290755	coordinate
-290759	subordinate
-290768	subordinate
-290770	subordinate
-subordinate
-290774	subordinate
-290781	coordinate
-290791	coordinate
-coordinate
-290796	coordinate
-290807	subordinate
-290819	subordinate
-290825	coordinate
-290829	coordinate
-290844	subordinate
-290849	subordinate
-subordinate
-290861	subordinate
-290866	subordinate
-290893	subordinate
-subordinate
-290902	subordinate
-290931	subordinate
-290942	coordinate
-subordinate
-290946	coordinate
-coordinate
-290956	coordinate
-subordinate
-290960	subordinate
-290969	subordinate
-coordinate
-290972	coordinate
-290980	coordinate
-290984	coordinate
-290987	subordinate
-290997	subordinate
-291008	subordinate
-subordinate
-291011	subordinate
-291020	subordinate
-coordinate
-291025	coordinate
-291027	subordinate
-291041	subordinate
-291043	subordinate
-291056	subordinate
-291064	subordinate
-291072	subordinate
-subordinate
-291087	subordinate
-coordinate
-subordinate
-291091	coordinate
-291102	subordinate
-291109	coordinate
-291111	subordinate
-291120	coordinate
-291122	coordinate
-291125	coordinate
-291127	subordinate
-291135	subordinate
-291142	subordinate
-291149	subordinate
-291158	subordinate
-coordinate
-291163	coordinate
-subordinate
-subordinate
-291170	coordinate
-subordinate
-coordinate
-291176	coordinate
-291181	coordinate
-291189	subordinate
-291220	subordinate
-291225	coordinate
-291232	coordinate
-291249	subordinate
-291251	coordinate
-291253	subordinate
-subordinate
-291257	coordinate
-291272	coordinate
-subordinate
-291276	subordinate
-291279	subordinate
-291285	subordinate
-291291	coordinate
-291295	coordinate
-subordinate
-291300	subordinate
-291304	subordinate
-291311	subordinate
-coordinate
-291314	coordinate
-291317	coordinate
-291319	coordinate
-291325	coordinate
-291327	subordinate
-291329	coordinate
-291335	subordinate
-291340	subordinate
-subordinate
-291344	subordinate
-291346	subordinate
-subordinate
-291352	subordinate
-291355	coordinate
-291357	subordinate
-291360	subordinate
-291365	coordinate
-291369	coordinate
-291378	subordinate
-291381	subordinate
-subordinate
-291386	subordinate
-291389	subordinate
-subordinate
-291398	subordinate
-291409	subordinate
-291413	subordinate
-291424	subordinate
-291440	subordinate
-291447	coordinate
-291449	coordinate
-291453	subordinate
-291472	subordinate
-291480	subordinate
-291497	subordinate
-subordinate
-291529	subordinate
-291544	subordinate
-291563	subordinate
-291577	coordinate
-291583	subordinate
-291586	coordinate
-291589	subordinate
-subordinate
-291603	subordinate
-291620	subordinate
-coordinate
-291623	coordinate
-291652	subordinate
-subordinate
-coordinate
-291666	coordinate
-subordinate
-291669	coordinate
-291673	subordinate
-subordinate
-291682	coordinate
-291685	coordinate
-subordinate
-291691	subordinate
-291698	subordinate
-291710	subordinate
-subordinate
-subordinate
-291714	coordinate
-subordinate
-291719	coordinate
-291729	subordinate
-291731	subordinate
-291733	subordinate
-291737	coordinate
-subordinate
-coordinate
-291742	coordinate
-291745	coordinate
-291749	subordinate
-291757	subordinate
-291763	subordinate
-291769	subordinate
-subordinate
-291773	coordinate
-coordinate
-subordinate
-subordinate
-291784	coordinate
-subordinate
-291789	subordinate
-291791	coordinate
-coordinate
-291796	coordinate
-291802	coordinate
-subordinate
-291808	coordinate
-subordinate
-291816	coordinate
-291818	subordinate
-291821	coordinate
-subordinate
-291829	subordinate
-291839	subordinate
-291846	coordinate
-291852	subordinate
-291855	subordinate
-coordinate
-291859	coordinate
-subordinate
-291874	coordinate
-291883	coordinate
-291890	subordinate
-291904	subordinate
-coordinate
-291907	coordinate
-291911	subordinate
-subordinate
-coordinate
-coordinate
-291936	subordinate
-291946	subordinate
-291964	coordinate
-291971	coordinate
-291977	subordinate
-291980	subordinate
-291990	coordinate
-subordinate
-291996	coordinate
-292007	coordinate
-292023	subordinate
-subordinate
-coordinate
-292028	coordinate
-292045	subordinate
-292049	coordinate
-coordinate
-subordinate
-292057	subordinate
-292063	coordinate
-subordinate
-292067	coordinate
-292069	subordinate
-292077	subordinate
-subordinate
-subordinate
-292089	subordinate
-292093	subordinate
-subordinate
-292114	subordinate
-292117	subordinate
-292119	coordinate
-292124	subordinate
-292130	coordinate
-292141	coordinate
-292155	coordinate
-coordinate
-292161	coordinate
-292170	subordinate
-292185	coordinate
-coordinate
-292190	coordinate
-coordinate
-292195	coordinate
-subordinate
-292201	coordinate
-292207	subordinate
-292216	subordinate
-292223	subordinate
-292228	subordinate
-292232	coordinate
-subordinate
-292236	coordinate
-subordinate
-292240	coordinate
-subordinate
-coordinate
-292244	coordinate
-292256	subordinate
-292260	subordinate
-292267	subordinate
-292272	subordinate
-292280	subordinate
-292289	subordinate
-subordinate
-292297	subordinate
-292309	coordinate
-292314	coordinate
-292327	coordinate
-292340	subordinate
-292349	subordinate
-292361	subordinate
-292388	subordinate
-coordinate
-292394	coordinate
-292398	subordinate
-292410	subordinate
-292417	subordinate
-292425	coordinate
-292429	coordinate
-292433	subordinate
-292443	subordinate
-292446	subordinate
-292450	coordinate
-subordinate
-coordinate
-292454	coordinate
-292457	subordinate
-292463	coordinate
-coordinate
-292468	coordinate
-292493	coordinate
-292499	coordinate
-292516	subordinate
-292521	subordinate
-subordinate
-292527	subordinate
-292533	subordinate
-292548	subordinate
-292553	subordinate
-subordinate
-coordinate
-292558	coordinate
-292577	subordinate
-coordinate
-292582	coordinate
-292585	coordinate
-292591	subordinate
-292595	subordinate
-292603	coordinate
-subordinate
-292606	coordinate
-292609	subordinate
-292615	subordinate
-coordinate
-292619	coordinate
-292622	subordinate
-coordinate
-292626	coordinate
-292630	coordinate
-292632	coordinate
-292636	subordinate
-292658	subordinate
-292667	subordinate
-coordinate
-292670	coordinate
-292672	coordinate
-292684	subordinate
-292689	coordinate
-292694	coordinate
-292704	subordinate
-subordinate
-292710	coordinate
-292712	coordinate
-coordinate
-292716	coordinate
-292721	subordinate
-292724	subordinate
-subordinate
-292727	subordinate
-subordinate
-292735	subordinate
-292741	subordinate
-292745	subordinate
-292752	subordinate
-292754	subordinate
-292759	subordinate
-292761	subordinate
-292767	subordinate
-292795	subordinate
-292801	subordinate
-292804	coordinate
-292807	coordinate
-292813	coordinate
-292815	subordinate
-subordinate
-292824	coordinate
-coordinate
-subordinate
-292833	coordinate
-subordinate
-292840	subordinate
-292861	subordinate
-292870	subordinate
-292874	subordinate
-292876	coordinate
-292878	subordinate
-292882	coordinate
-subordinate
-subordinate
-292917	coordinate
-292921	coordinate
-292945	coordinate
-292951	coordinate
-292954	subordinate
-coordinate
-subordinate
-292961	coordinate
-292966	coordinate
-292969	coordinate
-subordinate
-292979	coordinate
-292985	coordinate
-subordinate
-coordinate
-292989	coordinate
-292995	subordinate
-293002	subordinate
-coordinate
-293005	subordinate
-293009	coordinate
-293017	subordinate
-subordinate
-293023	subordinate
-293025	subordinate
-293030	subordinate
-293038	subordinate
-293040	subordinate
-subordinate
-293046	subordinate
-293059	subordinate
-293064	subordinate
-293066	subordinate
-293076	subordinate
-293078	subordinate
-subordinate
-subordinate
-293084	coordinate
-293093	subordinate
-293099	subordinate
-coordinate
-293102	coordinate
-293109	subordinate
-293120	subordinate
-subordinate
-293126	coordinate
-subordinate
-293135	subordinate
-subordinate
-293140	subordinate
-subordinate
-293145	subordinate
-coordinate
-293151	coordinate
-293153	subordinate
-subordinate
-subordinate
-293165	subordinate
-293169	subordinate
-subordinate
-subordinate
-293177	subordinate
-coordinate
-293185	subordinate
-293190	subordinate
-293192	coordinate
-subordinate
-293203	subordinate
-293212	subordinate
-293221	subordinate
-293234	subordinate
-subordinate
-293242	subordinate
-293257	subordinate
-coordinate
-293262	coordinate
-subordinate
-293265	subordinate
-293274	subordinate
-subordinate
-293285	subordinate
-coordinate
-293292	coordinate
-293302	subordinate
-293306	subordinate
-293309	subordinate
-293320	subordinate
-293329	subordinate
-subordinate
-293336	subordinate
-coordinate
-293341	coordinate
-293350	subordinate
-coordinate
-293365	subordinate
-293370	subordinate
-293396	subordinate
-293401	coordinate
-293405	coordinate
-293423	subordinate
-293426	subordinate
-293438	subordinate
-293451	subordinate
-293455	subordinate
-293458	subordinate
-subordinate
-293465	subordinate
-subordinate
-293474	subordinate
-293476	subordinate
-subordinate
-293488	coordinate
-293491	subordinate
-subordinate
-293495	coordinate
-coordinate
-293501	subordinate
-coordinate
-293505	coordinate
-293514	coordinate
-subordinate
-293517	subordinate
-293529	subordinate
-293540	subordinate
-293551	subordinate
-293559	subordinate
-293570	coordinate
-293573	subordinate
-293578	coordinate
-293581	subordinate
-293596	subordinate
-293600	subordinate
-293614	coordinate
-293621	subordinate
-293631	subordinate
-293638	subordinate
-293644	subordinate
-293646	subordinate
-coordinate
-293649	coordinate
-coordinate
-293652	coordinate
-subordinate
-293660	coordinate
-293663	subordinate
-293670	subordinate
-293673	coordinate
-293691	subordinate
-293693	subordinate
-coordinate
-293698	coordinate
-subordinate
-293708	subordinate
-293712	coordinate
-293719	coordinate
-subordinate
-subordinate
-293725	subordinate
-293729	coordinate
-subordinate
-293737	coordinate
-coordinate
-293749	subordinate
-293752	subordinate
-293754	subordinate
-subordinate
-293763	subordinate
-coordinate
-293768	coordinate
-subordinate
-293778	subordinate
-293780	subordinate
-293787	subordinate
-293794	subordinate
-293796	subordinate
-293800	subordinate
-293810	subordinate
-293817	subordinate
-293820	subordinate
-293837	subordinate
-subordinate
-293840	subordinate
-293843	subordinate
-subordinate
-293859	subordinate
-293864	subordinate
-293870	coordinate
-293872	subordinate
-coordinate
-293875	coordinate
-293882	coordinate
-293884	subordinate
-subordinate
-293887	subordinate
-293893	subordinate
-293911	subordinate
-293917	subordinate
-293930	subordinate
-293934	subordinate
-293942	subordinate
-293947	subordinate
-293952	subordinate
-coordinate
-293959	coordinate
-293968	subordinate
-293970	subordinate
-293974	subordinate
-293977	coordinate
-293979	subordinate
-293986	coordinate
-coordinate
-293994	coordinate
-293999	subordinate
-294001	subordinate
-294006	subordinate
-294012	subordinate
-coordinate
-294016	coordinate
-294023	subordinate
-294029	subordinate
-294031	subordinate
-294041	subordinate
-294050	coordinate
-coordinate
-294060	coordinate
-294073	coordinate
-294089	subordinate
-294101	subordinate
-subordinate
-subordinate
-294107	coordinate
-subordinate
-294117	subordinate
-294120	subordinate
-294135	subordinate
-294139	subordinate
-294143	subordinate
-subordinate
-294155	subordinate
-294160	subordinate
-294167	subordinate
-294171	subordinate
-subordinate
-294184	subordinate
-294204	subordinate
-294206	subordinate
-294223	subordinate
-294229	subordinate
-294231	subordinate
-294235	subordinate
-294249	subordinate
-294256	subordinate
-294265	coordinate
-294268	coordinate
-294270	coordinate
-294274	subordinate
-294280	coordinate
-coordinate
-294285	coordinate
-subordinate
-294290	subordinate
-294292	coordinate
-subordinate
-294301	subordinate
-294315	subordinate
-294344	subordinate
-294361	coordinate
-294363	coordinate
-294371	subordinate
-294377	subordinate
-294379	subordinate
-subordinate
-294389	subordinate
-294421	coordinate
-294424	coordinate
-294440	subordinate
-coordinate
-294443	coordinate
-294446	subordinate
-294453	subordinate
-294456	subordinate
-294460	subordinate
-294468	subordinate
-294474	subordinate
-subordinate
-294479	subordinate
-294483	subordinate
-294487	subordinate
-294491	subordinate
-294517	coordinate
-294520	coordinate
-294531	subordinate
-294534	subordinate
-294536	subordinate
-294557	subordinate
-294570	subordinate
-294585	coordinate
-294599	coordinate
-subordinate
-294617	subordinate
-294621	subordinate
-294626	subordinate
-294640	subordinate
-294646	subordinate
-294649	subordinate
-subordinate
-294663	coordinate
-294667	coordinate
-subordinate
-294671	subordinate
-subordinate
-294677	coordinate
-subordinate
-294685	coordinate
-subordinate
-294699	subordinate
-294703	subordinate
-294711	coordinate
-294715	coordinate
-294722	coordinate
-294726	coordinate
-subordinate
-294732	subordinate
-294741	coordinate
-294744	coordinate
-294758	subordinate
-294777	coordinate
-294784	coordinate
-294796	subordinate
-294800	subordinate
-subordinate
-294807	subordinate
-294817	subordinate
-subordinate
-294820	subordinate
-294836	coordinate
-294839	coordinate
-subordinate
-294842	subordinate
-294847	subordinate
-294850	subordinate
-subordinate
-294854	subordinate
-subordinate
-294858	coordinate
-subordinate
-294865	subordinate
-294872	coordinate
-294875	coordinate
-294884	coordinate
-294891	coordinate
-294904	subordinate
-294912	subordinate
-coordinate
-subordinate
-294918	coordinate
-294928	subordinate
-294930	subordinate
-294951	coordinate
-subordinate
-294971	subordinate
-294976	subordinate
-294983	subordinate
-294994	subordinate
-294999	coordinate
-subordinate
-295003	coordinate
-subordinate
-coordinate
-295007	coordinate
-295012	subordinate
-295018	subordinate
-295021	subordinate
-295026	coordinate
-295028	subordinate
-295037	subordinate
-subordinate
-295048	subordinate
-295052	subordinate
-295055	coordinate
-295061	coordinate
-subordinate
-295067	subordinate
-subordinate
-295070	subordinate
-295073	subordinate
-295075	subordinate
-295080	subordinate
-295082	subordinate
-295087	subordinate
-295095	coordinate
-subordinate
-coordinate
-295099	coordinate
-295103	coordinate
-subordinate
-subordinate
-295109	subordinate
-295123	subordinate
-295125	subordinate
-295133	subordinate
-295135	coordinate
-295142	subordinate
-295144	subordinate
-295151	coordinate
-subordinate
-295156	subordinate
-295161	coordinate
-subordinate
-295171	coordinate
-subordinate
-295177	coordinate
-295179	coordinate
-295181	subordinate
-295183	coordinate
-295192	subordinate
-295197	subordinate
-295201	coordinate
-295203	subordinate
-subordinate
-295208	coordinate
-subordinate
-coordinate
-295213	subordinate
-subordinate
-295222	coordinate
-295225	coordinate
-295234	subordinate
-295241	subordinate
-295251	subordinate
-295253	subordinate
-subordinate
-295269	coordinate
-295274	coordinate
-295277	subordinate
-295286	subordinate
-295288	subordinate
-295300	subordinate
-subordinate
-295309	subordinate
-295317	subordinate
-coordinate
-subordinate
-295321	coordinate
-295326	coordinate
-295329	coordinate
-subordinate
-295334	subordinate
-subordinate
-295349	subordinate
-295351	subordinate
-295357	subordinate
-295361	subordinate
-295364	subordinate
-coordinate
-295369	coordinate
-subordinate
-295377	coordinate
-295386	coordinate
-295388	coordinate
-295391	coordinate
-subordinate
-295405	subordinate
-295408	subordinate
-295413	subordinate
-295417	subordinate
-295429	subordinate
-subordinate
-295441	subordinate
-295452	subordinate
-295454	subordinate
-295460	subordinate
-295463	subordinate
-295468	subordinate
-295474	subordinate
-295491	subordinate
-295504	subordinate
-subordinate
-295517	subordinate
-subordinate
-295520	subordinate
-subordinate
-295530	subordinate
-coordinate
-295533	coordinate
-295535	subordinate
-295548	coordinate
-295554	coordinate
-subordinate
-295566	subordinate
-295568	subordinate
-295570	subordinate
-295575	subordinate
-295580	subordinate
-295585	subordinate
-coordinate
-295591	coordinate
-295608	coordinate
-295612	coordinate
-295616	subordinate
-295632	subordinate
-295635	coordinate
-295640	coordinate
-295642	coordinate
-coordinate
-295645	coordinate
-295648	coordinate
-coordinate
-subordinate
-295652	coordinate
-295658	coordinate
-295664	coordinate
-295667	coordinate
-295671	coordinate
-coordinate
-295675	coordinate
-295678	coordinate
-295681	coordinate
-295683	coordinate
-295687	subordinate
-295699	coordinate
-295704	coordinate
-295709	subordinate
-coordinate
-295715	coordinate
-295731	subordinate
-295811	subordinate
-295835	subordinate
-295840	subordinate
-295842	subordinate
-295852	subordinate
-295854	subordinate
-295860	coordinate
-295862	coordinate
-subordinate
-295881	coordinate
-subordinate
-295885	coordinate
-295894	subordinate
-295913	subordinate
-295923	subordinate
-295964	subordinate
-295981	subordinate
-295994	subordinate
-coordinate
-coordinate
-subordinate
-296003	coordinate
-296008	coordinate
-296014	coordinate
-subordinate
-subordinate
-296018	coordinate
-296048	coordinate
-296055	coordinate
-296077	coordinate
-296086	coordinate
-296089	subordinate
-296098	subordinate
-coordinate
-296103	coordinate
-296115	subordinate
-subordinate
-296123	subordinate
-296126	subordinate
-coordinate
-296130	coordinate
-296132	coordinate
-296138	coordinate
-296149	coordinate
-296166	subordinate
-296168	subordinate
-296175	subordinate
-296193	coordinate
-296198	coordinate
-296201	coordinate
-296206	coordinate
-296247	coordinate
-296258	coordinate
-296261	coordinate
-296264	coordinate
-coordinate
-296268	coordinate
-296274	coordinate
-296290	coordinate
-296311	coordinate
-subordinate
-296314	coordinate
-subordinate
-296321	coordinate
-296326	coordinate
-296333	subordinate
-296341	subordinate
-296351	subordinate
-coordinate
-296356	coordinate
-coordinate
-296361	coordinate
-296378	subordinate
-coordinate
-296381	coordinate
-296383	coordinate
-296386	coordinate
-296389	coordinate
-296392	subordinate
-296396	coordinate
-subordinate
-296405	subordinate
-296424	subordinate
-296430	subordinate
-296439	subordinate
-296456	subordinate
-296461	coordinate
-296464	subordinate
-296466	coordinate
-296468	subordinate
-296477	subordinate
-296493	subordinate
-296505	coordinate
-coordinate
-296511	coordinate
-296518	coordinate
-296523	coordinate
-296537	coordinate
-296542	coordinate
-296554	subordinate
-296564	subordinate
-296579	coordinate
-296582	coordinate
-296587	subordinate
-coordinate
-296594	coordinate
-296602	subordinate
-296622	subordinate
-296629	subordinate
-296645	coordinate
-subordinate
-296648	coordinate
-296655	subordinate
-296670	subordinate
-296705	subordinate
-296723	coordinate
-296727	subordinate
-296735	coordinate
-296749	subordinate
-296754	subordinate
-coordinate
-296758	coordinate
-296770	subordinate
-296776	coordinate
-296779	subordinate
-296786	coordinate
-296802	coordinate
-296804	coordinate
-296808	subordinate
-296835	subordinate
-296853	subordinate
-296872	coordinate
-296874	coordinate
-296880	subordinate
-296897	subordinate
-296901	coordinate
-296904	coordinate
-296914	coordinate
-296916	coordinate
-296920	subordinate
-296929	subordinate
-296942	coordinate
-296945	coordinate
-296961	coordinate
-coordinate
-296982	subordinate
-296986	subordinate
-297024	coordinate
-297026	coordinate
-297044	coordinate
-297055	coordinate
-297077	coordinate
-297089	coordinate
-297096	subordinate
-297100	coordinate
-297103	coordinate
-297112	subordinate
-297118	subordinate
-297152	coordinate
-297155	coordinate
-297159	subordinate
-297178	coordinate
-coordinate
-subordinate
-297184	subordinate
-subordinate
-297187	coordinate
-297193	coordinate
-coordinate
-297201	coordinate
-297203	subordinate
-coordinate
-297212	subordinate
-297224	coordinate
-297230	subordinate
-297242	coordinate
-297247	coordinate
-297254	subordinate
-297265	coordinate
-297277	coordinate
-297286	coordinate
-coordinate
-297293	coordinate
-297296	coordinate
-297299	coordinate
-297306	subordinate
-297320	subordinate
-297322	subordinate
-297334	subordinate
-297351	subordinate
-297362	subordinate
-subordinate
-297371	subordinate
-297378	coordinate
-coordinate
-297398	subordinate
-coordinate
-297406	coordinate
-297416	subordinate
-297418	subordinate
-coordinate
-297451	subordinate
-297459	subordinate
-297487	subordinate
-297493	coordinate
-297498	coordinate
-297507	subordinate
-297535	subordinate
-297552	subordinate
-297569	subordinate
-297574	subordinate
-297580	subordinate
-297601	subordinate
-297607	subordinate
-297615	subordinate
-297631	subordinate
-297644	subordinate
-297660	subordinate
-297678	subordinate
-297688	subordinate
-297694	coordinate
-subordinate
-297698	coordinate
-subordinate
-297704	subordinate
-subordinate
-297707	coordinate
-297710	coordinate
-subordinate
-297718	coordinate
-coordinate
-297731	coordinate
-297737	coordinate
-coordinate
-297741	subordinate
-297744	coordinate
-297754	subordinate
-coordinate
-297757	coordinate
-297766	subordinate
-coordinate
-297769	coordinate
-297780	subordinate
-297782	coordinate
-297785	coordinate
-297793	coordinate
-297797	coordinate
-297804	coordinate
-subordinate
-297820	subordinate
-297837	subordinate
-297846	subordinate
-297855	coordinate
-subordinate
-coordinate
-297861	coordinate
-297867	coordinate
-297874	coordinate
-297879	coordinate
-297894	subordinate
-subordinate
-297901	subordinate
-297910	subordinate
-297915	subordinate
-297930	subordinate
-297936	subordinate
-297943	subordinate
-297964	subordinate
-297970	subordinate
-297993	subordinate
-297995	subordinate
-subordinate
-subordinate
-298018	subordinate
-298021	subordinate
-298031	subordinate
-298051	coordinate
-298054	coordinate
-298056	coordinate
-298066	coordinate
-298068	subordinate
-298072	coordinate
-298078	coordinate
-298081	coordinate
-298099	subordinate
-subordinate
-298104	subordinate
-298113	subordinate
-298118	subordinate
-298124	subordinate
-298146	coordinate
-coordinate
-298150	subordinate
-298166	coordinate
-298170	coordinate
-298177	coordinate
-298179	subordinate
-298183	subordinate
-298190	coordinate
-coordinate
-298194	subordinate
-298203	subordinate
-298211	coordinate
-298219	coordinate
-subordinate
-coordinate
-298231	coordinate
-298265	coordinate
-298270	coordinate
-298311	subordinate
-298324	subordinate
-298338	coordinate
-298345	coordinate
-298354	coordinate
-298359	coordinate
-298367	subordinate
-298375	subordinate
-298380	subordinate
-298387	subordinate
-298395	subordinate
-298402	subordinate
-298408	subordinate
-298411	coordinate
-298415	coordinate
-298422	subordinate
-298441	subordinate
-298460	subordinate
-298462	subordinate
-298466	subordinate
-298479	coordinate
-298482	coordinate
-298503	subordinate
-298508	coordinate
-298511	coordinate
-298514	subordinate
-298516	subordinate
-298529	subordinate
-subordinate
-298555	subordinate
-298585	coordinate
-coordinate
-298590	subordinate
-298597	subordinate
-298611	subordinate
-298615	subordinate
-298620	subordinate
-subordinate
-298633	coordinate
-298637	subordinate
-298639	coordinate
-298649	subordinate
-298654	subordinate
-298673	subordinate
-coordinate
-subordinate
-298702	subordinate
-298709	subordinate
-coordinate
-298714	coordinate
-298740	coordinate
-298742	coordinate
-298788	subordinate
-298798	subordinate
-298800	subordinate
-298808	subordinate
-298832	coordinate
-298834	coordinate
-298841	subordinate
-298883	subordinate
-298899	coordinate
-298908	subordinate
-298910	coordinate
-298923	coordinate
-298934	coordinate
-298939	coordinate
-298944	coordinate
-coordinate
-298957	coordinate
-298959	coordinate
-298964	subordinate
-298984	coordinate
-298987	coordinate
-299004	coordinate
-subordinate
-299008	coordinate
-subordinate
-299024	subordinate
-299036	coordinate
-subordinate
-299042	coordinate
-subordinate
-299053	coordinate
-subordinate
-299056	coordinate
-subordinate
-299089	subordinate
-299096	coordinate
-299099	coordinate
-299104	subordinate
-coordinate
-subordinate
-299108	subordinate
-coordinate
-299112	coordinate
-299119	subordinate
-299122	coordinate
-subordinate
-299148	coordinate
-299154	coordinate
-299157	subordinate
-299171	subordinate
-299179	subordinate
-299193	subordinate
-299204	subordinate
-299207	coordinate
-299211	coordinate
-299231	subordinate
-299239	subordinate
-coordinate
-299242	coordinate
-subordinate
-299254	coordinate
-299261	coordinate
-299287	coordinate
-299290	coordinate
-299295	subordinate
-coordinate
-299301	coordinate
-subordinate
-299327	subordinate
-299344	subordinate
-299352	subordinate
-299378	subordinate
-299380	subordinate
-coordinate
-299399	coordinate
-299402	coordinate
-299422	subordinate
-299425	subordinate
-299434	subordinate
-299442	subordinate
-299446	subordinate
-299451	subordinate
-299456	subordinate
-299479	coordinate
-299483	coordinate
-299495	coordinate
-299502	coordinate
-299526	coordinate
-299549	subordinate
-299551	subordinate
-299590	coordinate
-299593	coordinate
-299596	coordinate
-coordinate
-299599	coordinate
-299625	subordinate
-299628	subordinate
-299637	coordinate
-299653	subordinate
-299657	subordinate
-299694	subordinate
-299711	subordinate
-coordinate
-299717	coordinate
-299735	subordinate
-299741	coordinate
-299745	coordinate
-299752	subordinate
-299758	subordinate
-299764	subordinate
-299772	subordinate
-299780	subordinate
-coordinate
-299785	coordinate
-coordinate
-subordinate
-299790	coordinate
-299803	subordinate
-299805	coordinate
-299807	coordinate
-299815	subordinate
-299820	coordinate
-299823	coordinate
-299827	coordinate
-coordinate
-299833	subordinate
-299847	coordinate
-299856	subordinate
-299859	subordinate
-299864	subordinate
-subordinate
-299871	subordinate
-299876	subordinate
-coordinate
-299883	coordinate
-299895	subordinate
-299900	subordinate
-299904	coordinate
-299908	subordinate
-299913	coordinate
-299932	subordinate
-299938	coordinate
-299943	coordinate
-299961	subordinate
-coordinate
-299965	coordinate
-299972	subordinate
-299981	subordinate
-299993	subordinate
-coordinate
-299998	coordinate
-300012	coordinate
-300014	coordinate
-300017	subordinate
-300045	subordinate
-300055	coordinate
-300058	coordinate
-300086	subordinate
-coordinate
-300089	subordinate
-subordinate
-300096	subordinate
-300103	subordinate
-coordinate
-300109	coordinate
-300114	coordinate
-300119	coordinate
-300134	coordinate
-300136	subordinate
-300142	coordinate
-300144	subordinate
-300148	coordinate
-subordinate
-300154	coordinate
-subordinate
-300160	coordinate
-300164	coordinate
-300168	coordinate
-300183	coordinate
-300186	coordinate
-300188	coordinate
-300190	coordinate
-300192	coordinate
-300194	coordinate
-300196	coordinate
-300198	coordinate
-300200	coordinate
-300204	coordinate
-300211	coordinate
-300213	coordinate
-300218	subordinate
-300221	subordinate
-300227	coordinate
-300229	coordinate
-300244	subordinate
-300252	coordinate
-300254	coordinate
-300267	subordinate
-300273	subordinate
-300277	subordinate
-300284	coordinate
-300288	coordinate
-300296	subordinate
-300302	subordinate
-300305	coordinate
-300313	coordinate
-300321	coordinate
-300335	subordinate
-300339	coordinate
-300342	coordinate
-300354	subordinate
-300374	subordinate
-300389	subordinate
-300391	subordinate
-300399	coordinate
-300403	coordinate
-300407	coordinate
-300411	coordinate
-300418	subordinate
-300431	coordinate
-300434	coordinate
-coordinate
-coordinate
-coordinate
-300439	coordinate
-subordinate
-300453	subordinate
-300471	subordinate
-300474	subordinate
-300477	subordinate
-subordinate
-subordinate
-300482	coordinate
-300485	coordinate
-300490	coordinate
-300495	coordinate
-300502	subordinate
-300504	coordinate
-300507	coordinate
-300510	coordinate
-300516	coordinate
-300521	coordinate
-300537	coordinate
-subordinate
-300540	coordinate
-300546	coordinate
-300552	coordinate
-300558	subordinate
-300577	subordinate
-300579	subordinate
-300584	coordinate
-300587	coordinate
-300606	subordinate
-300611	coordinate
-300615	coordinate
-300620	coordinate
-300623	coordinate
-300628	coordinate
-300630	subordinate
-300634	coordinate
-300636	subordinate
-300644	coordinate
-subordinate
-300647	coordinate
-subordinate
-300657	subordinate
-300661	subordinate
-300687	coordinate
-300690	coordinate
-300723	subordinate
-300728	subordinate
-300733	subordinate
-300752	coordinate
-300758	coordinate
-300768	coordinate
-300775	coordinate
-300799	coordinate
-300801	coordinate
-300811	coordinate
-300813	coordinate
-300815	coordinate
-300831	subordinate
-300837	subordinate
-300842	subordinate
-300848	subordinate
-300855	subordinate
-coordinate
-300861	coordinate
-300888	subordinate
-300892	subordinate
-300912	subordinate
-300918	subordinate
-300934	subordinate
-300943	subordinate
-300950	coordinate
-300955	coordinate
-300962	coordinate
-300966	coordinate
-300982	coordinate
-300988	coordinate
-301002	subordinate
-301041	subordinate
-301047	subordinate
-subordinate
-301063	subordinate
-301068	subordinate
-301072	subordinate
-301089	coordinate
-subordinate
-301092	subordinate
-301106	subordinate
-subordinate
-301118	subordinate
-301120	subordinate
-301122	subordinate
-coordinate
-301126	coordinate
-301129	coordinate
-subordinate
-301133	coordinate
-subordinate
-301146	coordinate
-301151	coordinate
-301158	subordinate
-301164	subordinate
-subordinate
-coordinate
-301168	coordinate
-301171	subordinate
-301177	subordinate
-301184	subordinate
-301196	coordinate
-301198	coordinate
-301203	subordinate
-301207	subordinate
-301213	subordinate
-coordinate
-301216	coordinate
-301226	subordinate
-301235	subordinate
-301254	subordinate
-coordinate
-301263	coordinate
-301271	subordinate
-subordinate
-301293	subordinate
-301300	subordinate
-coordinate
-301306	coordinate
-301312	subordinate
-301494	coordinate
-subordinate
-301508	coordinate
-301513	coordinate
-coordinate
-301520	coordinate
-301524	coordinate
-301541	coordinate
-301544	coordinate
-subordinate
-coordinate
-301550	coordinate
-301618	subordinate
-301630	subordinate
-coordinate
-coordinate
-301635	coordinate
-301637	coordinate
-301681	subordinate
-301735	subordinate
-301740	subordinate
-subordinate
-301744	subordinate
-301789	coordinate
-301792	coordinate
-coordinate
-301796	coordinate
-301825	coordinate
-301827	coordinate
-301829	coordinate
-301831	coordinate
-301838	coordinate
-301841	coordinate
-301853	subordinate
-301877	subordinate
-coordinate
-coordinate
-301884	subordinate
-301892	coordinate
-301900	coordinate
-301909	coordinate
-301914	coordinate
-301939	subordinate
-301954	subordinate
-301958	subordinate
-301960	coordinate
-301962	coordinate
-301968	subordinate
-301971	coordinate
-301973	coordinate
-301975	coordinate
-301988	subordinate
-coordinate
-301995	coordinate
-302008	coordinate
-302010	coordinate
-coordinate
-302022	subordinate
-302031	subordinate
-302047	subordinate
-302051	subordinate
-302069	subordinate
-302077	subordinate
-302080	subordinate
-302094	subordinate
-302099	subordinate
-302102	coordinate
-302128	subordinate
-302139	coordinate
-302143	coordinate
-302180	subordinate
-302182	subordinate
-302193	subordinate
-coordinate
-302196	coordinate
-302198	coordinate
-302201	subordinate
-302228	subordinate
-302241	subordinate
-302249	coordinate
-302253	coordinate
-302260	subordinate
-302274	subordinate
-302285	subordinate
-302288	subordinate
-302290	subordinate
-302294	coordinate
-302297	coordinate
-302311	subordinate
-coordinate
-302314	coordinate
-302326	subordinate
-302332	subordinate
-302337	subordinate
-302343	coordinate
-302345	coordinate
-302351	subordinate
-302356	coordinate
-302373	subordinate
-302378	coordinate
-302382	coordinate
-302386	subordinate
-coordinate
-302389	coordinate
-302393	coordinate
-302397	coordinate
-302400	subordinate
-302404	coordinate
-302412	coordinate
-302429	coordinate
-302440	coordinate
-302449	subordinate
-302462	subordinate
-302474	subordinate
-coordinate
-302478	coordinate
-302487	subordinate
-302496	subordinate
-302500	coordinate
-coordinate
-302503	coordinate
-subordinate
-302510	coordinate
-302513	coordinate
-302521	subordinate
-302539	subordinate
-subordinate
-302547	subordinate
-302584	coordinate
-302596	subordinate
-302598	subordinate
-302600	coordinate
-coordinate
-302603	coordinate
-302607	subordinate
-302636	coordinate
-coordinate
-302639	coordinate
-302642	coordinate
-302649	subordinate
-subordinate
-302655	subordinate
-302657	coordinate
-302662	coordinate
-302683	subordinate
-302688	subordinate
-302690	subordinate
-302707	subordinate
-302709	subordinate
-subordinate
-302725	subordinate
-302736	subordinate
-302743	coordinate
-302746	coordinate
-302750	coordinate
-302752	coordinate
-302755	coordinate
-302757	coordinate
-302760	coordinate
-302771	coordinate
-subordinate
-302777	coordinate
-subordinate
-coordinate
-subordinate
-coordinate
-subordinate
-302794	coordinate
-subordinate
-302797	coordinate
-302802	subordinate
-302805	subordinate
-302812	subordinate
-302843	subordinate
-302850	subordinate
-302855	coordinate
-302859	subordinate
-302870	subordinate
-coordinate
-302876	coordinate
-302882	coordinate
-302886	coordinate
-302903	subordinate
-302909	coordinate
-302914	subordinate
-302924	subordinate
-302926	coordinate
-302929	coordinate
-302931	subordinate
-subordinate
-302958	subordinate
-302983	subordinate
-303011	subordinate
-303025	subordinate
-subordinate
-subordinate
-303033	subordinate
-303037	subordinate
-303039	subordinate
-303051	subordinate
-303070	subordinate
-303073	subordinate
-coordinate
-303078	coordinate
-303092	subordinate
-303107	subordinate
-303124	subordinate
-303132	coordinate
-303135	coordinate
-303141	subordinate
-303153	coordinate
-303157	coordinate
-303186	coordinate
-303188	coordinate
-303190	coordinate
-303206	coordinate
-303208	coordinate
-303211	coordinate
-303213	coordinate
-303217	coordinate
-303221	coordinate
-303234	coordinate
-303240	coordinate
-303247	subordinate
-303249	coordinate
-303252	coordinate
-303266	subordinate
-303301	coordinate
-303309	coordinate
-303331	coordinate
-303347	subordinate
-subordinate
-303352	coordinate
-303358	coordinate
-303363	coordinate
-303368	coordinate
-303374	coordinate
-303379	coordinate
-303385	coordinate
-303391	coordinate
-303398	subordinate
-303404	subordinate
-coordinate
-303408	coordinate
-303412	subordinate
-303426	subordinate
-303438	coordinate
-303440	coordinate
-303451	subordinate
-303458	subordinate
-303460	subordinate
-coordinate
-subordinate
-303464	coordinate
-303472	subordinate
-coordinate
-coordinate
-303479	subordinate
-coordinate
-303482	coordinate
-303485	coordinate
-303496	subordinate
-coordinate
-303501	coordinate
-subordinate
-303511	coordinate
-303514	coordinate
-subordinate
-303521	coordinate
-303528	coordinate
-303536	subordinate
-coordinate
-subordinate
-303542	coordinate
-303547	subordinate
-303579	subordinate
-303582	subordinate
-303585	subordinate
-303596	subordinate
-303606	coordinate
-coordinate
-303610	coordinate
-303613	coordinate
-303625	subordinate
-303632	subordinate
-subordinate
-303640	subordinate
-303647	subordinate
-303664	coordinate
-303669	coordinate
-303671	subordinate
-303673	subordinate
-303677	subordinate
-303681	subordinate
-303699	subordinate
-303704	subordinate
-303709	coordinate
-303713	coordinate
-303726	coordinate
-303730	subordinate
-subordinate
-303733	coordinate
-303736	subordinate
-subordinate
-303739	coordinate
-303742	subordinate
-subordinate
-303745	coordinate
-303748	subordinate
-subordinate
-303751	coordinate
-303755	subordinate
-subordinate
-303767	subordinate
-303779	coordinate
-303788	coordinate
-303801	subordinate
-303825	coordinate
-subordinate
-coordinate
-303837	coordinate
-303839	subordinate
-subordinate
-303845	subordinate
-303847	coordinate
-subordinate
-subordinate
-303857	subordinate
-coordinate
-303862	subordinate
-303864	coordinate
-coordinate
-303881	coordinate
-303887	coordinate
-303893	subordinate
-303901	subordinate
-303903	subordinate
-subordinate
-303910	coordinate
-303913	subordinate
-303918	coordinate
-subordinate
-303930	coordinate
-303933	coordinate
-303938	subordinate
-subordinate
-303942	subordinate
-subordinate
-303948	subordinate
-303960	coordinate
-303964	coordinate
-303967	subordinate
-303971	coordinate
-303974	subordinate
-303981	subordinate
-coordinate
-303984	coordinate
-303986	coordinate
-coordinate
-303992	coordinate
-303996	coordinate
-303999	coordinate
-304004	coordinate
-304008	coordinate
-304023	subordinate
-304025	coordinate
-304028	subordinate
-304038	subordinate
-304042	subordinate
-304058	subordinate
-subordinate
-304068	subordinate
-304089	subordinate
-coordinate
-304094	coordinate
-304098	subordinate
-304104	subordinate
-304111	subordinate
-304135	subordinate
-304155	subordinate
-304161	subordinate
-304164	subordinate
-304179	subordinate
-304185	coordinate
-304187	coordinate
-304193	coordinate
-304195	coordinate
-304203	coordinate
-304206	coordinate
-304217	subordinate
-304232	subordinate
-coordinate
-subordinate
-304239	coordinate
-304248	subordinate
-304251	subordinate
-304257	subordinate
-304266	coordinate
-304270	coordinate
-304272	subordinate
-304300	subordinate
-304312	subordinate
-304315	subordinate
-coordinate
-subordinate
-304319	coordinate
-304326	subordinate
-304336	subordinate
-304341	subordinate
-304346	subordinate
-304355	subordinate
-304367	subordinate
-304370	subordinate
-304380	subordinate
-304386	subordinate
-304389	subordinate
-304396	subordinate
-coordinate
-304399	coordinate
-304402	subordinate
-304408	subordinate
-304414	subordinate
-304421	subordinate
-304432	coordinate
-304434	coordinate
-304439	subordinate
-304452	subordinate
-304455	coordinate
-304461	subordinate
-subordinate
-304464	subordinate
-subordinate
-304470	coordinate
-304474	coordinate
-304478	subordinate
-304486	coordinate
-304493	coordinate
-304497	coordinate
-304507	coordinate
-coordinate
-304513	coordinate
-304523	subordinate
-304538	subordinate
-304550	subordinate
-304557	subordinate
-304562	coordinate
-304564	subordinate
-304568	coordinate
-subordinate
-304574	subordinate
-coordinate
-304578	coordinate
-304586	subordinate
-coordinate
-304590	coordinate
-304597	subordinate
-coordinate
-304601	coordinate
-304607	coordinate
-304609	coordinate
-304623	subordinate
-304629	subordinate
-304637	coordinate
-subordinate
-304640	subordinate
-coordinate
-304648	subordinate
-304658	subordinate
-304661	subordinate
-304686	subordinate
-304690	subordinate
-304713	coordinate
-304716	coordinate
-304722	coordinate
-subordinate
-304728	coordinate
-subordinate
-304734	subordinate
-coordinate
-304738	coordinate
-304742	subordinate
-coordinate
-304746	coordinate
-304757	coordinate
-304759	coordinate
-304762	coordinate
-304764	coordinate
-304767	coordinate
-304770	coordinate
-304780	subordinate
-304794	subordinate
-coordinate
-304799	coordinate
-subordinate
-304805	subordinate
-304815	coordinate
-304831	subordinate
-304840	subordinate
-304843	subordinate
-304849	coordinate
-304851	coordinate
-304853	coordinate
-304867	subordinate
-304869	subordinate
-304876	subordinate
-304881	subordinate
-304886	subordinate
-coordinate
-304889	coordinate
-304891	subordinate
-304900	coordinate
-304906	coordinate
-304910	coordinate
-304917	subordinate
-304920	subordinate
-304928	subordinate
-304947	subordinate
-304952	subordinate
-304961	coordinate
-subordinate
-304964	subordinate
-304969	coordinate
-304975	coordinate
-304977	coordinate
-304983	coordinate
-304986	coordinate
-304993	subordinate
-305002	coordinate
-305005	coordinate
-305013	subordinate
-305022	coordinate
-305032	subordinate
-subordinate
-305046	subordinate
-305050	subordinate
-305052	subordinate
-305059	subordinate
-subordinate
-305062	coordinate
-305065	coordinate
-305072	subordinate
-305074	subordinate
-305088	coordinate
-subordinate
-305092	coordinate
-305098	subordinate
-305102	subordinate
-305114	subordinate
-305117	subordinate
-coordinate
-305125	coordinate
-305127	coordinate
-305129	coordinate
-305142	coordinate
-305147	coordinate
-305162	subordinate
-305165	coordinate
-305173	coordinate
-subordinate
-305207	subordinate
-305219	coordinate
-305223	coordinate
-305230	subordinate
-305234	subordinate
-305236	subordinate
-coordinate
-305240	coordinate
-305253	coordinate
-305255	coordinate
-coordinate
-305260	coordinate
-305272	subordinate
-305276	coordinate
-305282	coordinate
-305287	subordinate
-305293	subordinate
-305297	subordinate
-305305	subordinate
-305312	subordinate
-305315	subordinate
-305321	subordinate
-subordinate
-305330	subordinate
-305336	subordinate
-305342	subordinate
-subordinate
-305352	subordinate
-305361	subordinate
-305367	coordinate
-305370	coordinate
-305376	coordinate
-305379	coordinate
-305385	coordinate
-305388	coordinate
-305409	coordinate
-305424	coordinate
-305430	coordinate
-305433	coordinate
-305440	coordinate
-305452	subordinate
-305455	subordinate
-305460	subordinate
-coordinate
-coordinate
-305465	coordinate
-305468	coordinate
-305473	subordinate
-305494	coordinate
-305510	subordinate
-305527	subordinate
-305539	subordinate
-305546	subordinate
-305559	subordinate
-305564	subordinate
-305572	coordinate
-305574	coordinate
-305578	coordinate
-305585	coordinate
-305594	coordinate
-coordinate
-305599	subordinate
-305602	subordinate
-305606	subordinate
-305611	coordinate
-305616	coordinate
-305624	subordinate
-305629	subordinate
-coordinate
-305634	coordinate
-305643	subordinate
-305650	subordinate
-305666	subordinate
-305670	subordinate
-coordinate
-coordinate
-coordinate
-coordinate
-coordinate
-305715	subordinate
-coordinate
-305724	coordinate
-305728	subordinate
-305731	subordinate
-305736	coordinate
-coordinate
-subordinate
-coordinate
-305741	coordinate
-305749	coordinate
-subordinate
-305753	subordinate
-subordinate
-305756	coordinate
-305762	coordinate
-coordinate
-subordinate
-305770	coordinate
-305775	subordinate
-305777	coordinate
-305780	coordinate
-305782	coordinate
-305784	coordinate
-coordinate
-305787	coordinate
-coordinate
-coordinate
-305791	coordinate
-coordinate
-305794	coordinate
-coordinate
-305798	coordinate
-305802	coordinate
-coordinate
-coordinate
-coordinate
-305812	coordinate
-305814	subordinate
-305816	coordinate
-305818	subordinate
-305820	coordinate
-305822	subordinate
-305827	coordinate
-305830	coordinate
-305836	subordinate
-305843	subordinate
-305845	coordinate
-305847	coordinate
-305849	coordinate
-305854	subordinate
-305860	coordinate
-305864	coordinate
-305868	coordinate
-305873	subordinate
-305877	coordinate
-305883	coordinate
-305887	coordinate
-coordinate
-305891	coordinate
-305894	coordinate
-305900	coordinate
-305904	coordinate
-305906	subordinate
-coordinate
-305909	coordinate
-305930	coordinate
-subordinate
-305934	coordinate
-305940	coordinate
-305944	coordinate
-305950	subordinate
-305957	subordinate
-305960	subordinate
-305963	subordinate
-305979	subordinate
-305986	subordinate
-305999	subordinate
-306007	subordinate
-306022	coordinate
-306026	subordinate
-306030	coordinate
-306035	subordinate
-306040	coordinate
-306044	coordinate
-306054	subordinate
-306069	subordinate
-306073	coordinate
-306075	subordinate
-306080	coordinate
-306090	coordinate
-306093	coordinate
-306097	coordinate
-306100	coordinate
-306104	subordinate
-306107	subordinate
-306125	coordinate
-306127	coordinate
-306139	subordinate
-306144	subordinate
-306147	coordinate
-306153	coordinate
-coordinate
-306156	coordinate
-306159	coordinate
-306168	coordinate
-306177	coordinate
-306182	coordinate
-306190	coordinate
-306200	subordinate
-coordinate
-coordinate
-306208	coordinate
-306210	coordinate
-306221	subordinate
-coordinate
-306224	coordinate
-306229	coordinate
-coordinate
-306232	coordinate
-306234	coordinate
-306240	coordinate
-subordinate
-306256	subordinate
-306258	coordinate
-coordinate
-coordinate
-coordinate
-coordinate
-306269	subordinate
-306271	coordinate
-306281	coordinate
-306285	coordinate
-306287	subordinate
-306291	coordinate
-306298	coordinate
-306302	coordinate
-306308	subordinate
-306310	subordinate
-306318	subordinate
-306320	subordinate
-coordinate
-306323	coordinate
-306325	coordinate
-306330	coordinate
-306332	coordinate
-306337	subordinate
-306348	subordinate
-subordinate
-306355	subordinate
-306363	subordinate
-subordinate
-306370	subordinate
-subordinate
-306376	coordinate
-306382	coordinate
-306387	subordinate
-subordinate
-306392	subordinate
-306400	subordinate
-306407	coordinate
-306411	coordinate
-306427	coordinate
-coordinate
-coordinate
-306431	coordinate
-306437	subordinate
-306440	subordinate
-306445	subordinate
-306447	coordinate
-306455	coordinate
-306458	coordinate
-306466	coordinate
-306476	coordinate
-306481	coordinate
-306493	subordinate
-306504	subordinate
-subordinate
-306512	coordinate
-coordinate
-306515	subordinate
-306517	coordinate
-306524	coordinate
-coordinate
-306528	coordinate
-306538	coordinate
-306543	coordinate
-306562	subordinate
-306568	subordinate
-306570	subordinate
-306593	subordinate
-subordinate
-306599	subordinate
-306604	subordinate
-306622	subordinate
-306641	subordinate
-306650	subordinate
-306675	subordinate
-306681	subordinate
-306691	subordinate
-306693	subordinate
-306718	subordinate
-306728	subordinate
-306737	subordinate
-306742	subordinate
-306750	subordinate
-306773	subordinate
-306781	subordinate
-coordinate
-306784	coordinate
-306786	subordinate
-306796	coordinate
-306798	coordinate
-306800	subordinate
-306809	coordinate
-306812	coordinate
-306818	subordinate
-subordinate
-306825	coordinate
-306830	coordinate
-306834	subordinate
-306845	subordinate
-306847	coordinate
-306853	coordinate
-306857	coordinate
-306859	coordinate
-306861	coordinate
-306864	coordinate
-306867	coordinate
-306879	coordinate
-306884	coordinate
-306889	coordinate
-306892	coordinate
-306895	coordinate
-306934	subordinate
-306946	subordinate
-306952	subordinate
-306956	coordinate
-306958	coordinate
-306990	subordinate
-307004	coordinate
-307007	subordinate
-307010	coordinate
-307019	coordinate
-307021	coordinate
-307032	coordinate
-307034	coordinate
-307037	coordinate
-307041	subordinate
-coordinate
-307046	coordinate
-307053	subordinate
-coordinate
-307058	coordinate
-307082	coordinate
-307088	coordinate
-307113	subordinate
-307120	subordinate
-307136	subordinate
-307148	subordinate
-307153	subordinate
-subordinate
-subordinate
-307160	subordinate
-307166	subordinate
-307174	subordinate
-307184	subordinate
-307186	subordinate
-307190	coordinate
-307192	subordinate
-307194	coordinate
-307196	subordinate
-subordinate
-307203	subordinate
-307206	subordinate
-307211	subordinate
-307222	coordinate
-307227	coordinate
-subordinate
-307234	subordinate
-307239	subordinate
-307253	subordinate
-307256	subordinate
-307262	coordinate
-307277	coordinate
-307280	subordinate
-307283	coordinate
-coordinate
-307287	coordinate
-coordinate
-307304	coordinate
-307308	coordinate
-307320	coordinate
-307322	coordinate
-307334	subordinate
-307338	subordinate
-307380	subordinate
-307468	subordinate
-307481	subordinate
-307495	subordinate
-307528	subordinate
-307536	subordinate
-307550	subordinate
-subordinate
-307564	subordinate
-coordinate
-307568	coordinate
-307578	coordinate
-307582	coordinate
-307595	subordinate
-307615	coordinate
-307629	coordinate
-307634	coordinate
-307636	subordinate
-307638	coordinate
-307640	coordinate
-307647	subordinate
-307653	subordinate
-307666	subordinate
-307670	subordinate
-307674	coordinate
-307678	coordinate
-307682	coordinate
-307690	subordinate
-307697	subordinate
-307699	subordinate
-307723	coordinate
-307741	coordinate
-307764	coordinate
-307768	coordinate
-307773	coordinate
-307775	coordinate
-307791	subordinate
-307797	coordinate
-307800	coordinate
-307804	subordinate
-307819	subordinate
-307824	subordinate
-307832	subordinate
-subordinate
-subordinate
-307836	subordinate
-subordinate
-307857	coordinate
-subordinate
-coordinate
-subordinate
-307869	subordinate
-coordinate
-307874	subordinate
-307886	subordinate
-307899	subordinate
-307910	subordinate
-307923	subordinate
-307928	subordinate
-307932	subordinate
-307939	coordinate
-307947	coordinate
-307950	coordinate
-307959	coordinate
-subordinate
-307969	coordinate
-307973	coordinate
-307982	subordinate
-307996	coordinate
-308002	coordinate
-308017	subordinate
-308022	coordinate
-308024	coordinate
-subordinate
-308028	coordinate
-subordinate
-308036	subordinate
-308065	subordinate
-308072	subordinate
-308089	coordinate
-308092	subordinate
-308095	coordinate
-308109	coordinate
-308112	coordinate
-308118	subordinate
-308122	subordinate
-308125	subordinate
-subordinate
-subordinate
-308151	subordinate
-308170	subordinate
-308175	subordinate
-308186	coordinate
-subordinate
-308191	coordinate
-308193	subordinate
-308225	subordinate
-308227	subordinate
-308237	subordinate
-308246	subordinate
-308259	subordinate
-308267	subordinate
-subordinate
-308276	subordinate
-308289	subordinate
-308291	coordinate
-coordinate
-308296	subordinate
-coordinate
-coordinate
-308301	coordinate
-308305	coordinate
-308318	subordinate
-308354	coordinate
-coordinate
-coordinate
-308359	coordinate
-308363	subordinate
-308391	subordinate
-coordinate
-308398	coordinate
-308403	coordinate
-coordinate
-308407	coordinate
-coordinate
-coordinate
-308411	coordinate
-coordinate
-coordinate
-308415	coordinate
-coordinate
-coordinate
-308419	coordinate
-308428	subordinate
-308446	subordinate
-308458	coordinate
-308462	coordinate
-308468	subordinate
-308485	coordinate
-308493	coordinate
-308502	subordinate
-308504	subordinate
-308515	coordinate
-308517	coordinate
-coordinate
-subordinate
-308525	coordinate
-308544	coordinate
-308547	coordinate
-308553	coordinate
-308557	coordinate
-308566	subordinate
-308583	subordinate
-subordinate
-308591	subordinate
-308593	subordinate
-308602	subordinate
-308604	subordinate
-subordinate
-308608	subordinate
-308628	coordinate
-coordinate
-308631	coordinate
-308635	subordinate
-308641	subordinate
-308646	coordinate
-coordinate
-308649	coordinate
-subordinate
-coordinate
-308655	coordinate
-308661	subordinate
-308665	subordinate
-308669	subordinate
-308682	subordinate
-308685	coordinate
-308687	coordinate
-308691	subordinate
-308698	coordinate
-308700	coordinate
-subordinate
-308709	coordinate
-coordinate
-308714	subordinate
-308718	coordinate
-308721	coordinate
-308744	subordinate
-308750	subordinate
-308768	subordinate
-308776	subordinate
-308794	coordinate
-308797	coordinate
-308802	subordinate
-308806	subordinate
-coordinate
-308811	coordinate
-308822	subordinate
-308836	subordinate
-308842	subordinate
-subordinate
-308851	coordinate
-308854	coordinate
-308865	coordinate
-308870	subordinate
-308873	coordinate
-308917	coordinate
-308919	subordinate
-308922	coordinate
-308924	subordinate
-308927	coordinate
-308929	subordinate
-308933	coordinate
-308935	subordinate
-308938	coordinate
-308940	subordinate
-308943	coordinate
-308945	subordinate
-308948	coordinate
-308950	subordinate
-308964	coordinate
-308967	coordinate
-308979	subordinate
-308988	coordinate
-308992	coordinate
-308997	coordinate
-309001	coordinate
-309014	subordinate
-309020	coordinate
-coordinate
-309024	coordinate
-309026	coordinate
-coordinate
-309030	coordinate
-309037	coordinate
-coordinate
-309042	coordinate
-309045	coordinate
-309048	coordinate
-309050	coordinate
-309053	coordinate
-309062	subordinate
-309071	subordinate
-309078	coordinate
-coordinate
-coordinate
-309118	coordinate
-309121	coordinate
-coordinate
-309124	coordinate
-coordinate
-309152	subordinate
-309162	subordinate
-subordinate
-subordinate
-309167	subordinate
-309173	subordinate
-309180	subordinate
-subordinate
-309186	coordinate
-subordinate
-coordinate
-subordinate
-309196	subordinate
-309233	subordinate
-309239	subordinate
-309277	subordinate
-309284	subordinate
-309287	coordinate
-coordinate
-309290	subordinate
-309317	subordinate
-309363	subordinate
-309377	coordinate
-coordinate
-309381	subordinate
-309383	coordinate
-309396	subordinate
-309405	subordinate
-309425	coordinate
-309427	coordinate
-309448	subordinate
-309450	subordinate
-309478	subordinate
-309493	subordinate
-309497	subordinate
-309501	subordinate
-309506	coordinate
-309510	coordinate
-309522	subordinate
-309530	subordinate
-309535	coordinate
-309540	coordinate
-309558	subordinate
-309560	coordinate
-309563	coordinate
-subordinate
-309573	coordinate
-309583	coordinate
-subordinate
-coordinate
-coordinate
-309605	subordinate
-309632	subordinate
-coordinate
-309635	coordinate
-309643	coordinate
-309653	coordinate
-309689	subordinate
-coordinate
-309700	coordinate
-309712	subordinate
-309722	subordinate
-309724	subordinate
-309731	subordinate
-coordinate
-309735	coordinate
-subordinate
-309738	subordinate
-309751	coordinate
-309754	coordinate
-309757	subordinate
-309759	subordinate
-309769	coordinate
-309773	coordinate
-309784	subordinate
-309792	subordinate
-309801	subordinate
-309805	subordinate
-309807	subordinate
-309815	coordinate
-coordinate
-309818	coordinate
-309826	coordinate
-309829	coordinate
-309833	coordinate
-309840	coordinate
-309855	subordinate
-coordinate
-309866	coordinate
-309872	coordinate
-309899	coordinate
-309905	subordinate
-309929	subordinate
-309931	coordinate
-309935	coordinate
-subordinate
-309943	subordinate
-309947	subordinate
-309952	subordinate
-subordinate
-309960	subordinate
-309964	subordinate
-coordinate
-309971	coordinate
-309976	coordinate
-309981	subordinate
-309987	coordinate
-309994	coordinate
-309997	subordinate
-310000	subordinate
-310010	subordinate
-subordinate
-310017	subordinate
-310024	subordinate
-310041	subordinate
-subordinate
-subordinate
-310052	coordinate
-310057	coordinate
-coordinate
-310063	coordinate
-310065	subordinate
-310075	subordinate
-subordinate
-310081	subordinate
-310090	subordinate
-coordinate
-310094	coordinate
-310098	coordinate
-310102	coordinate
-310110	subordinate
-310117	subordinate
-subordinate
-310121	subordinate
-310130	coordinate
-310136	coordinate
-subordinate
-310140	subordinate
-coordinate
-310147	coordinate
-310151	coordinate
-310169	coordinate
-310186	subordinate
-310188	subordinate
-310199	subordinate
-310220	subordinate
-coordinate
-310228	coordinate
-310241	subordinate
-310247	coordinate
-310249	subordinate
-310256	coordinate
-310266	subordinate
-310268	subordinate
-310274	coordinate
-310276	subordinate
-310281	coordinate
-subordinate
-coordinate
-310286	coordinate
-310293	subordinate
-310307	subordinate
-310319	subordinate
-310328	subordinate
-subordinate
-310337	subordinate
-subordinate
-310346	subordinate
-310354	subordinate
-310363	subordinate
-310378	subordinate
-310384	subordinate
-310387	subordinate
-subordinate
-310391	subordinate
-310395	coordinate
-subordinate
-310399	coordinate
-subordinate
-310410	subordinate
-310418	subordinate
-310424	coordinate
-subordinate
-coordinate
-subordinate
-coordinate
-subordinate
-coordinate
-subordinate
-coordinate
-subordinate
-310439	subordinate
-310468	subordinate
-310472	coordinate
-310474	coordinate
-310476	coordinate
-310478	coordinate
-310482	coordinate
-310486	coordinate
-coordinate
-coordinate
-coordinate
-310496	coordinate
-310498	coordinate
-310500	coordinate
-310502	coordinate
-310504	coordinate
-310506	coordinate
-310508	coordinate
-310510	coordinate
-310513	coordinate
-310516	coordinate
-310518	coordinate
-310522	coordinate
-310524	coordinate
-310542	coordinate
-310544	coordinate
-310547	coordinate
-310549	coordinate
-310553	subordinate
-subordinate
-310576	coordinate
-310584	subordinate
-310586	coordinate
-coordinate
-310593	coordinate
-310598	subordinate
-310602	coordinate
-310604	coordinate
-310622	subordinate
-310627	subordinate
-310647	coordinate
-310650	coordinate
-310657	coordinate
-310661	coordinate
-310665	subordinate
-310668	coordinate
-310675	subordinate
-310683	subordinate
-subordinate
-310687	subordinate
-310696	subordinate
-coordinate
-310699	coordinate
-310709	subordinate
-310714	subordinate
-310716	subordinate
-310732	subordinate
-310741	subordinate
-310761	subordinate
-310769	subordinate
-310777	subordinate
-310795	subordinate
-310800	subordinate
-310810	coordinate
-310812	subordinate
-310815	coordinate
-310820	coordinate
-310822	coordinate
-310824	subordinate
-coordinate
-310827	subordinate
-310829	coordinate
-310843	subordinate
-310852	subordinate
-310863	coordinate
-310865	coordinate
-310905	subordinate
-subordinate
-310908	subordinate
-310918	coordinate
-310923	coordinate
-310927	coordinate
-310929	coordinate
-310953	subordinate
-coordinate
-subordinate
-310958	coordinate
-310969	subordinate
-310974	subordinate
-310979	subordinate
-310982	coordinate
-310985	coordinate
-310990	coordinate
-310993	coordinate
-310999	coordinate
-311003	coordinate
-311026	subordinate
-311041	subordinate
-311044	coordinate
-subordinate
-coordinate
-subordinate
-311050	coordinate
-311055	coordinate
-311058	coordinate
-311066	subordinate
-coordinate
-311069	coordinate
-311078	subordinate
-311080	subordinate
-subordinate
-311097	coordinate
-coordinate
-coordinate
-coordinate
-coordinate
-311103	coordinate
-311105	coordinate
-311185	subordinate
-311211	subordinate
-311222	subordinate
-311225	coordinate
-311227	coordinate
-subordinate
-311238	subordinate
-311244	subordinate
-311247	subordinate
-311249	coordinate
-311251	coordinate
-311254	subordinate
-311256	subordinate
-311261	coordinate
-311266	coordinate
-subordinate
-311271	subordinate
-311289	coordinate
-coordinate
-311293	coordinate
-coordinate
-311309	coordinate
-311315	coordinate
-311317	coordinate
-311326	subordinate
-311338	coordinate
-311343	coordinate
-311347	subordinate
-311352	subordinate
-311366	coordinate
-coordinate
-311370	coordinate
-311374	coordinate
-311378	subordinate
-311380	coordinate
-311389	subordinate
-311438	coordinate
-311447	subordinate
-311456	coordinate
-311479	subordinate
-subordinate
-311490	subordinate
-311498	subordinate
-311503	subordinate
-311515	subordinate
-311519	subordinate
-311524	subordinate
-311530	subordinate
-coordinate
-311539	subordinate
-311542	subordinate
-311552	coordinate
-311563	subordinate
-311568	subordinate
-coordinate
-311573	coordinate
-311583	subordinate
-311590	subordinate
-311595	subordinate
-311600	coordinate
-311610	subordinate
-311613	subordinate
-subordinate
-311625	subordinate
-311645	subordinate
-subordinate
-311651	subordinate
-311655	coordinate
-coordinate
-311658	coordinate
-311661	coordinate
-311669	subordinate
-311677	subordinate
-coordinate
-311682	coordinate
-311686	subordinate
-311694	subordinate
-subordinate
-subordinate
-311715	subordinate
-311721	coordinate
-311723	coordinate
-311728	subordinate
-311739	coordinate
-311741	coordinate
-311752	subordinate
-311763	subordinate
-311767	subordinate
-311782	subordinate
-311786	subordinate
-311792	coordinate
-311795	coordinate
-311804	subordinate
-coordinate
-311808	coordinate
-311846	subordinate
-311856	subordinate
-311869	subordinate
-311875	subordinate
-311881	coordinate
-311885	coordinate
-311897	subordinate
-311907	subordinate
-311916	subordinate
-311930	subordinate
-311944	coordinate
-311951	subordinate
-311955	subordinate
-311968	subordinate
-311973	subordinate
-311985	subordinate
-312005	subordinate
-312010	subordinate
-312017	coordinate
-312020	coordinate
-312036	subordinate
-312040	subordinate
-312052	subordinate
-312067	subordinate
-312071	subordinate
-subordinate
-312080	subordinate
-312100	subordinate
-312104	coordinate
-312107	coordinate
-312110	coordinate
-312123	subordinate
-312135	coordinate
-subordinate
-312140	subordinate
-312143	coordinate
-312154	subordinate
-subordinate
-312165	subordinate
-312174	subordinate
-312176	subordinate
-312179	subordinate
-312183	subordinate
-312189	subordinate
-312211	subordinate
-312218	coordinate
-subordinate
-312223	coordinate
-subordinate
-coordinate
-312227	coordinate
-312236	subordinate
-312256	subordinate
-312258	subordinate
-312261	subordinate
-312271	coordinate
-312277	coordinate
-coordinate
-312289	subordinate
-312292	subordinate
-312305	subordinate
-subordinate
-312313	subordinate
-312316	coordinate
-312319	subordinate
-312321	subordinate
-312325	subordinate
-312329	subordinate
-312339	subordinate
-312345	subordinate
-coordinate
-312349	coordinate
-312353	subordinate
-312361	subordinate
-312384	coordinate
-312390	coordinate
-312397	subordinate
-312405	coordinate
-312409	subordinate
-312413	coordinate
-312415	coordinate
-312421	coordinate
-312425	subordinate
-312446	coordinate
-312448	coordinate
-312453	subordinate
-coordinate
-312459	coordinate
-312473	subordinate
-312491	subordinate
-312513	coordinate
-312515	coordinate
-312523	subordinate
-312529	subordinate
-312532	subordinate
-312538	subordinate
-312553	coordinate
-312556	coordinate
-312558	subordinate
-312564	subordinate
-312595	subordinate
-312618	coordinate
-312623	coordinate
-312640	subordinate
-312645	subordinate
-312656	coordinate
-312658	coordinate
-312664	coordinate
-312669	coordinate
-312677	subordinate
-312685	subordinate
-312736	subordinate
-312739	subordinate
-subordinate
-312745	subordinate
-312760	coordinate
-312764	coordinate
-312772	subordinate
-subordinate
-subordinate
-312779	coordinate
-312783	coordinate
-coordinate
-312788	coordinate
-312815	subordinate
-coordinate
-312825	coordinate
-312836	subordinate
-312842	subordinate
-312848	subordinate
-312850	coordinate
-312854	coordinate
-312870	subordinate
-312872	subordinate
-subordinate
-312880	coordinate
-312884	coordinate
-312886	subordinate
-312888	subordinate
-312895	subordinate
-312897	subordinate
-312935	subordinate
-313005	subordinate
-313009	subordinate
-313014	subordinate
-313058	subordinate
-313074	subordinate
-313092	subordinate
-313118	subordinate
-313127	subordinate
-313149	subordinate
-313165	subordinate
-313196	subordinate
-313217	subordinate
-313236	subordinate
-coordinate
-313240	coordinate
-313255	subordinate
-313268	coordinate
-313273	coordinate
-313320	coordinate
-313329	subordinate
-313340	subordinate
-313346	coordinate
-313349	subordinate
-313357	subordinate
-313363	coordinate
-313365	coordinate
-313367	coordinate
-313373	subordinate
-313382	subordinate
-313411	subordinate
-313416	subordinate
-313425	subordinate
-313453	subordinate
-313463	subordinate
-313488	coordinate
-313491	coordinate
-313507	subordinate
-coordinate
-313514	subordinate
-313516	coordinate
-313523	subordinate
-313530	coordinate
-subordinate
-313535	coordinate
-313538	subordinate
-313551	coordinate
-313554	coordinate
-313561	subordinate
-313568	subordinate
-313575	subordinate
-313602	subordinate
-313618	subordinate
-313622	subordinate
-subordinate
-313638	subordinate
-313645	subordinate
-313680	subordinate
-coordinate
-313688	coordinate
-subordinate
-313705	subordinate
-313743	subordinate
-313775	subordinate
-313782	subordinate
-313789	subordinate
-313795	subordinate
-coordinate
-313800	subordinate
-313807	coordinate
-313810	subordinate
-313815	subordinate
-313827	subordinate
-313830	subordinate
-313861	subordinate
-313865	subordinate
-313872	subordinate
-subordinate
-313889	subordinate
-313930	subordinate
-313940	subordinate
-313960	subordinate
-314013	subordinate
-coordinate
-314016	subordinate
-314034	coordinate
-subordinate
-314048	subordinate
-314071	coordinate
-314073	coordinate
-314075	subordinate
-314078	subordinate
-314104	subordinate
-314117	subordinate
-314119	coordinate
-314121	coordinate
-314123	subordinate
-subordinate
-314127	subordinate
-coordinate
-314142	coordinate
-314148	coordinate
-314163	subordinate
-314169	subordinate
-314173	coordinate
-314175	coordinate
-314186	coordinate
-314190	coordinate
-314192	subordinate
-314197	subordinate
-subordinate
-314203	coordinate
-314210	coordinate
-314212	subordinate
-314217	subordinate
-314251	subordinate
-314262	subordinate
-314268	subordinate
-coordinate
-314273	coordinate
-314285	coordinate
-314293	subordinate
-314295	coordinate
-314302	coordinate
-314325	subordinate
-314341	coordinate
-314343	coordinate
-314349	subordinate
-314352	subordinate
-314362	subordinate
-314368	coordinate
-314375	coordinate
-314377	subordinate
-314381	subordinate
-314386	subordinate
-314390	subordinate
-314403	coordinate
-314407	coordinate
-314412	subordinate
-314415	coordinate
-subordinate
-coordinate
-subordinate
-subordinate
-314422	subordinate
-314426	coordinate
-314429	coordinate
-subordinate
-314437	coordinate
-314441	coordinate
-314443	subordinate
-coordinate
-314449	coordinate
-314455	coordinate
-314466	coordinate
-314476	subordinate
-314483	subordinate
-314496	subordinate
-314510	subordinate
-coordinate
-314516	coordinate
-314521	subordinate
-314527	subordinate
-314530	subordinate
-314532	coordinate
-314538	coordinate
-314546	subordinate
-314550	subordinate
-314561	subordinate
-coordinate
-314575	subordinate
-314581	coordinate
-coordinate
-314589	coordinate
-314594	coordinate
-314600	coordinate
-314604	coordinate
-314621	subordinate
-314637	subordinate
-314651	subordinate
-coordinate
-314654	coordinate
-314663	coordinate
-314666	coordinate
-314688	subordinate
-314691	coordinate
-314695	subordinate
-coordinate
-314698	subordinate
-314701	subordinate
-314709	subordinate
-coordinate
-314713	coordinate
-314718	subordinate
-314724	coordinate
-314726	coordinate
-314734	subordinate
-314739	coordinate
-314747	coordinate
-314768	subordinate
-314774	subordinate
-314805	subordinate
-subordinate
-coordinate
-314813	coordinate
-subordinate
-314818	subordinate
-coordinate
-314824	coordinate
-314829	coordinate
-314836	subordinate
-314844	subordinate
-314866	subordinate
-coordinate
-314894	subordinate
-314907	subordinate
-subordinate
-314913	subordinate
-314934	subordinate
-coordinate
-314939	coordinate
-315004	subordinate
-315031	subordinate
-315038	subordinate
-subordinate
-315059	subordinate
-315094	subordinate
-315099	subordinate
-315121	subordinate
-subordinate
-coordinate
-315135	coordinate
-315139	subordinate
-315143	subordinate
-315150	coordinate
-315156	coordinate
-315163	coordinate
-315176	subordinate
-subordinate
-315187	coordinate
-315193	coordinate
-315219	subordinate
-subordinate
-coordinate
-315224	coordinate
-315239	coordinate
-315243	coordinate
-315250	subordinate
-315258	subordinate
-315265	subordinate
-315270	coordinate
-315272	coordinate
-315275	subordinate
-315286	subordinate
-315300	subordinate
-315320	subordinate
-315322	coordinate
-coordinate
-315325	coordinate
-315327	coordinate
-315335	subordinate
-315341	subordinate
-315347	coordinate
-coordinate
-315351	coordinate
-315354	coordinate
-315357	subordinate
-315370	subordinate
-315375	coordinate
-315378	coordinate
-315384	coordinate
-subordinate
-315388	coordinate
-subordinate
-315392	coordinate
-subordinate
-315396	coordinate
-subordinate
-315408	subordinate
-315411	subordinate
-315414	coordinate
-315422	subordinate
-315424	coordinate
-315426	coordinate
-315437	coordinate
-subordinate
-315444	coordinate
-subordinate
-315447	subordinate
-315455	subordinate
-subordinate
-315465	coordinate
-315469	coordinate
-315476	subordinate
-coordinate
-315487	coordinate
-315489	subordinate
-315501	subordinate
-subordinate
-subordinate
-coordinate
-315508	coordinate
-315539	subordinate
-315550	subordinate
-315554	subordinate
-subordinate
-315557	subordinate
-315563	subordinate
-coordinate
-315566	coordinate
-315572	subordinate
-315581	coordinate
-315583	coordinate
-315588	coordinate
-315592	coordinate
-315598	subordinate
-315600	subordinate
-subordinate
-315613	subordinate
-315626	subordinate
-315628	subordinate
-315637	coordinate
-subordinate
-subordinate
-subordinate
-315653	subordinate
-315669	subordinate
-coordinate
-315674	coordinate
-315694	subordinate
-315700	subordinate
-315702	subordinate
-315708	coordinate
-315713	coordinate
-315721	subordinate
-315724	subordinate
-315739	subordinate
-315741	subordinate
-315743	coordinate
-315745	coordinate
-315748	coordinate
-315750	coordinate
-315753	coordinate
-315762	coordinate
-315765	coordinate
-315769	coordinate
-315771	subordinate
-subordinate
-315778	subordinate
-315780	subordinate
-315785	coordinate
-coordinate
-315789	coordinate
-315791	coordinate
-315794	coordinate
-315796	coordinate
-315798	subordinate
-315800	coordinate
-315818	subordinate
-315831	coordinate
-315835	coordinate
-315837	subordinate
-coordinate
-315840	coordinate
-315842	subordinate
-315869	subordinate
-315882	coordinate
-315884	coordinate
-315886	coordinate
-315890	subordinate
-315897	subordinate
-315903	subordinate
-315905	coordinate
-315908	coordinate
-315929	subordinate
-315938	subordinate
-315942	coordinate
-315946	coordinate
-315951	subordinate
-315957	coordinate
-315959	coordinate
-subordinate
-subordinate
-315971	coordinate
-315976	coordinate
-316012	subordinate
-316031	coordinate
-316033	coordinate
-316078	coordinate
-316080	coordinate
-316116	subordinate
-subordinate
-subordinate
-subordinate
-subordinate
-subordinate
-316123	coordinate
-subordinate
-316126	coordinate
-subordinate
-316155	coordinate
-316158	coordinate
-316161	subordinate
-316165	subordinate
-subordinate
-subordinate
-316171	subordinate
-316173	subordinate
-316180	subordinate
-316183	coordinate
-316185	coordinate
-316188	coordinate
-316190	coordinate
-316199	subordinate
-316215	subordinate
-316223	subordinate
-316226	subordinate
-316237	coordinate
-316240	coordinate
-316250	coordinate
-316252	coordinate
-316255	subordinate
-316305	coordinate
-316309	coordinate
-316360	subordinate
-316362	subordinate
-316396	subordinate
-316415	subordinate
-316421	subordinate
-316446	subordinate
-316463	subordinate
-316467	subordinate
-coordinate
-coordinate
-316474	coordinate
-316478	coordinate
-316490	coordinate
-316506	coordinate
-316512	coordinate
-316538	subordinate
-316563	coordinate
-316570	coordinate
-316573	coordinate
-316591	subordinate
-subordinate
-316594	subordinate
-subordinate
-coordinate
-316601	coordinate
-316606	subordinate
-316626	coordinate
-subordinate
-subordinate
-316644	subordinate
-316650	subordinate
-316653	subordinate
-coordinate
-316656	coordinate
-316658	coordinate
-316680	coordinate
-316685	coordinate
-316711	subordinate
-316734	subordinate
-316745	subordinate
-316753	subordinate
-subordinate
-coordinate
-316758	coordinate
-316767	subordinate
-316779	subordinate
-subordinate
-316788	subordinate
-316793	subordinate
-316796	subordinate
-316824	subordinate
-316830	subordinate
-316837	subordinate
-coordinate
-316840	coordinate
-316855	subordinate
-316861	subordinate
-coordinate
-316870	subordinate
-subordinate
-316899	subordinate
-coordinate
-316907	coordinate
-316932	subordinate
-316951	coordinate
-subordinate
-316961	subordinate
-316964	subordinate
-316974	coordinate
-316977	subordinate
-316981	subordinate
-316987	subordinate
-317004	coordinate
-317009	coordinate
-317014	subordinate
-coordinate
-317021	coordinate
-subordinate
-coordinate
-coordinate
-317031	coordinate
-317038	subordinate
-317052	subordinate
-317059	subordinate
-subordinate
-317078	subordinate
-317095	subordinate
-317115	coordinate
-317117	coordinate
-317127	subordinate
-317160	subordinate
-317175	subordinate
-coordinate
-317183	coordinate
-317194	subordinate
-coordinate
-317204	coordinate
-coordinate
-317207	coordinate
-317218	subordinate
-317221	subordinate
-coordinate
-317224	coordinate
-317226	subordinate
-317231	subordinate
-317267	subordinate
-317274	subordinate
-317296	subordinate
-317306	subordinate
-317312	coordinate
-317315	coordinate
-317325	subordinate
-317334	subordinate
-317347	subordinate
-coordinate
-317351	subordinate
-317355	subordinate
-317377	coordinate
-317380	subordinate
-317382	coordinate
-317400	subordinate
-317403	subordinate
-317412	subordinate
-317422	subordinate
-subordinate
-317429	subordinate
-317436	subordinate
-subordinate
-subordinate
-subordinate
-317460	subordinate
-subordinate
-coordinate
-317466	coordinate
-317498	subordinate
-317529	subordinate
-coordinate
-317532	coordinate
-317575	subordinate
-317581	coordinate
-317588	coordinate
-317603	subordinate
-317642	subordinate
-317646	subordinate
-317670	subordinate
-317673	subordinate
-317696	subordinate
-subordinate
-317707	subordinate
-317714	subordinate
-subordinate
-317729	coordinate
-317739	coordinate
-317748	subordinate
-subordinate
-subordinate
-317755	subordinate
-coordinate
-317760	coordinate
-317765	subordinate
-coordinate
-317769	subordinate
-317772	coordinate
-317801	coordinate
-coordinate
-317807	subordinate
-317812	subordinate
-317822	coordinate
-317832	coordinate
-317834	subordinate
-317837	subordinate
-317840	subordinate
-subordinate
-317851	coordinate
-317856	subordinate
-317858	coordinate
-317864	coordinate
-317872	subordinate
-317875	subordinate
-317877	coordinate
-317884	subordinate
-subordinate
-317889	subordinate
-subordinate
-317900	subordinate
-317912	subordinate
-317940	subordinate
-317943	subordinate
-subordinate
-317946	subordinate
-317970	subordinate
-317981	subordinate
-318005	subordinate
-318013	subordinate
-318020	coordinate
-318028	coordinate
-318030	coordinate
-318032	coordinate
-318039	subordinate
-318055	subordinate
-318061	subordinate
-318069	subordinate
-318073	coordinate
-318079	coordinate
-318084	coordinate
-318091	coordinate
-318112	coordinate
-subordinate
-subordinate
-318117	coordinate
-318155	subordinate
-318161	subordinate
-318163	subordinate
-318165	coordinate
-318167	coordinate
-318171	subordinate
-318180	coordinate
-318184	coordinate
-318193	coordinate
-318197	coordinate
-318204	subordinate
-318209	subordinate
-318211	subordinate
-318229	subordinate
-318234	subordinate
-318247	subordinate
-318253	coordinate
-318257	coordinate
-318290	subordinate
-subordinate
-318331	subordinate
-coordinate
-318334	coordinate
-318336	subordinate
-318341	subordinate
-318363	subordinate
-318375	subordinate
-318391	subordinate
-318396	subordinate
-coordinate
-318399	coordinate
-318403	coordinate
-318406	coordinate
-318428	subordinate
-318430	subordinate
-318449	subordinate
-coordinate
-318453	coordinate
-subordinate
-318456	coordinate
-318459	coordinate
-318463	subordinate
-318465	subordinate
-coordinate
-318470	coordinate
-318475	subordinate
-318483	subordinate
-318527	subordinate
-coordinate
-318540	coordinate
-318578	subordinate
-318585	subordinate
-318590	subordinate
-318597	subordinate
-318603	coordinate
-318615	subordinate
-318617	subordinate
-318631	coordinate
-318634	subordinate
-318636	coordinate
-coordinate
-318639	coordinate
-318643	coordinate
-318647	coordinate
-318653	subordinate
-subordinate
-318664	coordinate
-318667	coordinate
-318680	subordinate
-318683	coordinate
-318685	coordinate
-318691	coordinate
-318693	coordinate
-318696	subordinate
-318700	subordinate
-coordinate
-318705	coordinate
-318708	coordinate
-318711	coordinate
-318713	coordinate
-318726	coordinate
-318728	coordinate
-318730	coordinate
-318732	coordinate
-318737	coordinate
-318739	coordinate
-318747	coordinate
-coordinate
-coordinate
-318760	coordinate
-318765	coordinate
-coordinate
-coordinate
-318769	coordinate
-318776	coordinate
-318782	coordinate
-318817	subordinate
-318858	subordinate
-318863	subordinate
-318865	subordinate
-318867	coordinate
-318871	coordinate
-318880	subordinate
-318919	subordinate
-318922	subordinate
-coordinate
-318927	coordinate
-318946	subordinate
-318973	subordinate
-subordinate
-coordinate
-318980	coordinate
-318986	subordinate
-319000	coordinate
-319005	coordinate
-319012	subordinate
-coordinate
-319021	coordinate
-319052	subordinate
-319067	subordinate
-319077	subordinate
-subordinate
-319080	coordinate
-319083	coordinate
-319098	subordinate
-319101	subordinate
-subordinate
-319114	subordinate
-319138	subordinate
-319147	coordinate
-319155	coordinate
-319180	subordinate
-319198	subordinate
-319202	coordinate
-319204	coordinate
-319210	subordinate
-319215	subordinate
-319244	coordinate
-319246	coordinate
-319259	coordinate
-319274	coordinate
-319276	coordinate
-319285	coordinate
-319297	coordinate
-319300	coordinate
-319305	coordinate
-319307	subordinate
-319311	coordinate
-319328	coordinate
-319330	coordinate
-319340	subordinate
-319369	subordinate
-319373	subordinate
-coordinate
-319376	coordinate
-319387	subordinate
-319389	subordinate
-coordinate
-coordinate
-319394	coordinate
-319396	coordinate
-319408	coordinate
-319410	coordinate
-319420	subordinate
-319426	subordinate
-subordinate
-319431	subordinate
-319433	subordinate
-coordinate
-coordinate
-319447	subordinate
-319455	subordinate
-319461	subordinate
-319468	subordinate
-319470	subordinate
-319474	coordinate
-319476	subordinate
-319480	subordinate
-319552	subordinate
-subordinate
-319555	subordinate
-319558	subordinate
-subordinate
-coordinate
-319562	coordinate
-319568	coordinate
-319570	coordinate
-319591	subordinate
-319594	subordinate
-319598	subordinate
-319600	subordinate
-319609	subordinate
-319613	coordinate
-coordinate
-coordinate
-319626	coordinate
-subordinate
-319631	subordinate
-319652	subordinate
-subordinate
-319655	subordinate
-319663	coordinate
-319666	subordinate
-subordinate
-319670	coordinate
-319694	subordinate
-319712	subordinate
-319741	subordinate
-319744	subordinate
-319748	subordinate
-319755	subordinate
-319764	subordinate
-subordinate
-319783	subordinate
-319801	subordinate
-319803	subordinate
-coordinate
-319806	coordinate
-319848	subordinate
-319871	subordinate
-319881	subordinate
-coordinate
-coordinate
-319885	coordinate
-coordinate
-319891	coordinate
-319895	coordinate
-coordinate
-319898	coordinate
-319900	subordinate
-319909	subordinate
-319921	subordinate
-319926	subordinate
-319935	subordinate
-319947	subordinate
-subordinate
-319956	subordinate
-subordinate
-319964	subordinate
-319969	subordinate
-319977	subordinate
-319980	subordinate
-319983	subordinate
-319995	subordinate
-319998	subordinate
-320007	subordinate
-320015	coordinate
-320020	coordinate
-320029	subordinate
-subordinate
-320036	subordinate
-320038	subordinate
-subordinate
-subordinate
-320048	subordinate
-320061	coordinate
-320063	coordinate
-320065	coordinate
-coordinate
-320068	coordinate
-320070	coordinate
-320081	subordinate
-320089	subordinate
-coordinate
-320093	coordinate
-subordinate
-coordinate
-320107	subordinate
-320109	subordinate
-320111	coordinate
-320115	coordinate
-subordinate
-320119	subordinate
-320126	subordinate
-320131	subordinate
-320155	coordinate
-320160	coordinate
-320163	subordinate
-320189	subordinate
-320201	coordinate
-320205	coordinate
-320217	subordinate
-320242	subordinate
-320253	subordinate
-subordinate
-320263	coordinate
-320265	coordinate
-320268	coordinate
-320270	coordinate
-320272	coordinate
-320285	subordinate
-320289	subordinate
-coordinate
-320294	coordinate
-320304	coordinate
-320309	subordinate
-320312	coordinate
-320324	subordinate
-320329	subordinate
-320334	subordinate
-320340	coordinate
-320343	coordinate
-320349	subordinate
-320352	subordinate
-320356	coordinate
-subordinate
-coordinate
-subordinate
-coordinate
-subordinate
-320363	coordinate
-subordinate
-subordinate
-coordinate
-subordinate
-320378	subordinate
-320381	subordinate
-subordinate
-320385	subordinate
-320391	coordinate
-320393	subordinate
-320396	coordinate
-coordinate
-coordinate
-320402	subordinate
-320408	subordinate
-subordinate
-coordinate
-coordinate
-coordinate
-coordinate
-320426	subordinate
-320428	coordinate
-320430	coordinate
-320433	subordinate
-320441	subordinate
-320454	coordinate
-320456	subordinate
-320458	coordinate
-320467	subordinate
-320477	subordinate
-320493	subordinate
-320497	coordinate
-320499	coordinate
-320505	coordinate
-coordinate
-320517	coordinate
-320521	subordinate
-320524	coordinate
-320528	coordinate
-320534	coordinate
-320537	subordinate
-320541	subordinate
-320547	subordinate
-320561	subordinate
-320567	subordinate
-320580	subordinate
-coordinate
-320583	coordinate
-320587	subordinate
-320598	subordinate
-coordinate
-320601	coordinate
-320612	subordinate
-320619	subordinate
-320634	subordinate
-subordinate
-320639	subordinate
-320647	subordinate
-320671	coordinate
-subordinate
-320676	coordinate
-320687	coordinate
-320689	coordinate
-320694	coordinate
-320700	subordinate
-coordinate
-320703	coordinate
-320726	subordinate
-320758	subordinate
-320763	coordinate
-320766	coordinate
-subordinate
-320780	subordinate
-coordinate
-coordinate
-coordinate
-320785	coordinate
-320788	coordinate
-320794	coordinate
-coordinate
-320798	coordinate
-coordinate
-coordinate
-320806	subordinate
-320814	subordinate
-320824	subordinate
-320868	subordinate
-320877	subordinate
-320879	subordinate
-subordinate
-320884	subordinate
-subordinate
-320893	coordinate
-320913	subordinate
-320928	coordinate
-320931	coordinate
-320938	coordinate
-320948	coordinate
-320955	coordinate
-320957	coordinate
-320970	coordinate
-320976	coordinate
-320985	subordinate
-320987	coordinate
-320990	coordinate
-321004	coordinate
-321009	coordinate
-subordinate
-coordinate
-subordinate
-321029	subordinate
-321068	subordinate
-coordinate
-321071	coordinate
-coordinate
-321075	coordinate
-coordinate
-subordinate
-321080	coordinate
-321084	subordinate
-321092	subordinate
-321097	coordinate
-321115	subordinate
-321125	subordinate
-321130	subordinate
-321137	subordinate
-321139	subordinate
-321142	subordinate
-321145	subordinate
-321149	subordinate
-321161	subordinate
-321174	subordinate
-321176	coordinate
-321201	subordinate
-321205	subordinate
-321209	subordinate
-321215	subordinate
-321218	subordinate
-subordinate
-321222	subordinate
-321225	subordinate
-321235	subordinate
-321241	subordinate
-321253	coordinate
-321257	coordinate
-321266	coordinate
-321269	subordinate
-subordinate
-321272	coordinate
-321286	coordinate
-321290	coordinate
-321300	coordinate
-321312	coordinate
-321314	coordinate
-321317	coordinate
-321323	subordinate
-321330	subordinate
-321333	subordinate
-321340	coordinate
-321344	coordinate
-321365	subordinate
-coordinate
-321369	coordinate
-321373	subordinate
-321378	coordinate
-321383	coordinate
-321388	subordinate
-321409	coordinate
-subordinate
-321412	coordinate
-321414	coordinate
-321417	coordinate
-321429	coordinate
-321433	coordinate
-321436	subordinate
-321440	subordinate
-coordinate
-321443	coordinate
-subordinate
-321458	subordinate
-321473	subordinate
-321479	coordinate
-321503	coordinate
-321513	subordinate
-321524	subordinate
-321531	subordinate
-321536	coordinate
-321539	coordinate
-321546	subordinate
-321568	subordinate
-321572	subordinate
-321587	subordinate
-321589	subordinate
-321600	coordinate
-321602	coordinate
-321604	coordinate
-subordinate
-coordinate
-coordinate
-coordinate
-321618	subordinate
-coordinate
-coordinate
-321623	subordinate
-coordinate
-321628	subordinate
-321631	coordinate
-321633	coordinate
-321638	coordinate
-321644	coordinate
-321646	coordinate
-coordinate
-321649	coordinate
-321655	coordinate
-321657	coordinate
-321664	coordinate
-321667	coordinate
-321669	coordinate
-321678	coordinate
-321687	coordinate
-321698	subordinate
-321704	coordinate
-coordinate
-subordinate
-321710	coordinate
-321712	coordinate
-321714	coordinate
-321721	subordinate
-321724	subordinate
-321732	coordinate
-321738	subordinate
-321740	coordinate
-321765	coordinate
-321771	coordinate
-321777	coordinate
-321779	coordinate
-321782	coordinate
-321784	subordinate
-coordinate
-321789	coordinate
-321793	coordinate
-321799	coordinate
-321805	coordinate
-321826	coordinate
-321829	coordinate
-321831	subordinate
-321834	subordinate
-321877	coordinate
-321883	coordinate
-321918	subordinate
-coordinate
-321923	coordinate
-321928	subordinate
-321930	subordinate
-321934	subordinate
-321937	subordinate
-321945	subordinate
-321955	subordinate
-321966	subordinate
-321970	coordinate
-321977	coordinate
-321994	subordinate
-321997	subordinate
-subordinate
-322021	subordinate
-322024	subordinate
-322030	subordinate
-322038	coordinate
-322041	subordinate
-322044	coordinate
-322053	coordinate
-subordinate
-322056	coordinate
-322058	subordinate
-322069	subordinate
-322072	subordinate
-322076	subordinate
-322087	subordinate
-322090	subordinate
-subordinate
-322094	subordinate
-322098	subordinate
-322105	subordinate
-322120	subordinate
-322123	subordinate
-subordinate
-322134	subordinate
-322138	coordinate
-322142	subordinate
-322161	subordinate
-322173	subordinate
-322192	subordinate
-coordinate
-322197	coordinate
-322204	coordinate
-322206	coordinate
-322215	subordinate
-coordinate
-322218	coordinate
-coordinate
-322223	coordinate
-coordinate
-coordinate
-subordinate
-322235	subordinate
-subordinate
-322240	subordinate
-322244	subordinate
-322249	subordinate
-322283	subordinate
-subordinate
-322300	subordinate
-322319	subordinate
-322335	subordinate
-322340	subordinate
-322345	subordinate
-322349	subordinate
-subordinate
-322358	subordinate
-322364	subordinate
-322370	subordinate
-322428	subordinate
-322433	subordinate
-322450	subordinate
-322473	subordinate
-322482	subordinate
-322486	subordinate
-322491	subordinate
-coordinate
-322496	coordinate
-322531	subordinate
-322534	subordinate
-322546	subordinate
-322548	subordinate
-coordinate
-322554	coordinate
-322568	coordinate
-322570	coordinate
-322581	subordinate
-322585	subordinate
-322590	subordinate
-coordinate
-322593	coordinate
-322618	subordinate
-322626	subordinate
-322664	subordinate
-322686	subordinate
-coordinate
-322696	coordinate
-322702	subordinate
-322709	subordinate
-322726	coordinate
-322729	coordinate
-322735	subordinate
-322754	coordinate
-322758	coordinate
-322763	coordinate
-322768	coordinate
-322778	coordinate
-322787	coordinate
-322789	coordinate
-322804	coordinate
-322809	coordinate
-322816	coordinate
-322818	coordinate
-322824	subordinate
-322826	coordinate
-322829	subordinate
-322832	subordinate
-322836	coordinate
-322839	coordinate
-322853	subordinate
-322865	subordinate
-322870	subordinate
-322874	subordinate
-322882	subordinate
-coordinate
-322886	subordinate
-322889	coordinate
-322895	subordinate
-322900	subordinate
-subordinate
-322937	subordinate
-322942	subordinate
-322945	coordinate
-322948	coordinate
-322951	coordinate
-322966	subordinate
-322984	subordinate
-322992	coordinate
-322996	coordinate
-322999	subordinate
-subordinate
-323024	subordinate
-323056	subordinate
-323063	subordinate
-coordinate
-323076	coordinate
-323088	coordinate
-323090	coordinate
-323096	subordinate
-323100	subordinate
-323117	subordinate
-subordinate
-subordinate
-323142	subordinate
-323162	coordinate
-323166	coordinate
-323173	coordinate
-323184	coordinate
-323193	subordinate
-323210	subordinate
-323218	subordinate
-323229	coordinate
-323234	coordinate
-323241	coordinate
-323245	coordinate
-323248	coordinate
-323251	coordinate
-323260	subordinate
-323266	coordinate
-323279	subordinate
-323285	subordinate
-323288	subordinate
-323300	subordinate
-323310	subordinate
-323318	subordinate
-323324	subordinate
-323352	subordinate
-323357	subordinate
-323365	subordinate
-323373	subordinate
-323379	subordinate
-323386	subordinate
-323388	coordinate
-323392	subordinate
-323412	subordinate
-323417	subordinate
-323442	subordinate
-323450	subordinate
-coordinate
-subordinate
-323455	coordinate
-323462	subordinate
-323470	subordinate
-323480	subordinate
-323506	subordinate
-323514	subordinate
-323519	subordinate
-323529	subordinate
-323540	subordinate
-323557	coordinate
-323560	coordinate
-323563	subordinate
-323573	subordinate
-323577	subordinate
-323588	subordinate
-coordinate
-subordinate
-323593	coordinate
-323605	subordinate
-coordinate
-323608	coordinate
-323616	subordinate
-323623	subordinate
-323629	subordinate
-323635	subordinate
-coordinate
-323639	coordinate
-323643	subordinate
-323652	coordinate
-323658	subordinate
-323662	coordinate
-323665	subordinate
-323667	coordinate
-323687	subordinate
-coordinate
-323700	subordinate
-323707	coordinate
-323712	subordinate
-subordinate
-323715	subordinate
-323720	subordinate
-323726	subordinate
-323735	coordinate
-323740	subordinate
-323742	subordinate
-323747	coordinate
-subordinate
-subordinate
-323763	coordinate
-subordinate
-323779	subordinate
-323781	coordinate
-323790	subordinate
-323799	subordinate
-323807	subordinate
-323830	subordinate
-323835	subordinate
-323838	coordinate
-323840	coordinate
-323845	coordinate
-323849	coordinate
-323856	subordinate
-323858	coordinate
-323860	subordinate
-coordinate
-323866	coordinate
-323870	coordinate
-323874	coordinate
-323877	subordinate
-323880	coordinate
-323889	coordinate
-subordinate
-323894	coordinate
-323908	subordinate
-323910	subordinate
-323915	subordinate
-323926	subordinate
-323933	subordinate
-323943	subordinate
-coordinate
-323946	coordinate
-323957	subordinate
-323960	subordinate
-subordinate
-subordinate
-323968	subordinate
-323970	coordinate
-subordinate
-323973	coordinate
-subordinate
-323978	subordinate
-323983	coordinate
-323987	coordinate
-323995	subordinate
-323998	subordinate
-324006	subordinate
-324013	subordinate
-324017	subordinate
-324021	subordinate
-324032	subordinate
-324041	subordinate
-324063	coordinate
-subordinate
-324070	coordinate
-324074	subordinate
-324076	coordinate
-324079	coordinate
-324087	subordinate
-coordinate
-324095	coordinate
-324115	coordinate
-324122	subordinate
-324130	subordinate
-subordinate
-324136	coordinate
-coordinate
-324142	coordinate
-324158	coordinate
-324160	subordinate
-324170	subordinate
-324184	subordinate
-324190	subordinate
-324196	subordinate
-324200	subordinate
-coordinate
-324207	coordinate
-324224	subordinate
-324232	subordinate
-324246	subordinate
-324277	subordinate
-324284	subordinate
-324287	coordinate
-324301	subordinate
-324303	coordinate
-324307	coordinate
-324315	coordinate
-324317	coordinate
-324329	coordinate
-324335	subordinate
-324337	coordinate
-324347	subordinate
-324354	subordinate
-324367	subordinate
-coordinate
-324372	coordinate
-324378	subordinate
-324387	subordinate
-subordinate
-324392	coordinate
-324394	subordinate
-324396	coordinate
-324404	subordinate
-324452	subordinate
-324460	coordinate
-324462	subordinate
-324479	subordinate
-subordinate
-324507	subordinate
-324515	subordinate
-324517	coordinate
-324523	coordinate
-324546	subordinate
-324550	subordinate
-324559	subordinate
-324571	coordinate
-coordinate
-324578	coordinate
-324582	coordinate
-coordinate
-324586	coordinate
-324592	coordinate
-324597	coordinate
-324604	subordinate
-324611	subordinate
-coordinate
-324616	coordinate
-324631	subordinate
-324633	subordinate
-324676	subordinate
-324685	subordinate
-324687	coordinate
-324692	subordinate
-324705	coordinate
-324709	subordinate
-324714	subordinate
-324723	coordinate
-324729	subordinate
-324732	coordinate
-324772	subordinate
-subordinate
-324784	subordinate
-324791	subordinate
-324795	subordinate
-324820	subordinate
-324826	subordinate
-324834	subordinate
-324858	subordinate
-324866	subordinate
-324885	subordinate
-subordinate
-324897	subordinate
-324915	subordinate
-324958	coordinate
-324963	coordinate
-324968	subordinate
-324970	coordinate
-324977	coordinate
-324995	subordinate
-325005	subordinate
-325013	subordinate
-subordinate
-325033	coordinate
-325036	subordinate
-325038	coordinate
-325042	subordinate
-325055	subordinate
-325061	subordinate
-325074	subordinate
-325078	subordinate
-325081	subordinate
-325088	subordinate
-325098	subordinate
-325105	subordinate
-325109	coordinate
-coordinate
-325114	coordinate
-coordinate
-325154	subordinate
-325172	subordinate
-coordinate
-325176	coordinate
-325181	subordinate
-325185	subordinate
-325196	subordinate
-325233	coordinate
-subordinate
-325243	coordinate
-325252	coordinate
-subordinate
-325260	subordinate
-325275	subordinate
-325283	coordinate
-325293	subordinate
-coordinate
-325299	coordinate
-325308	subordinate
-325319	subordinate
-325324	subordinate
-coordinate
-325329	subordinate
-325341	coordinate
-325344	coordinate
-325352	subordinate
-subordinate
-325357	subordinate
-325366	subordinate
-325370	coordinate
-325375	coordinate
-325383	coordinate
-325397	coordinate
-325409	subordinate
-325418	subordinate
-325421	subordinate
-325423	coordinate
-325428	coordinate
-325435	coordinate
-325439	coordinate
-325444	subordinate
-325446	subordinate
-subordinate
-325451	subordinate
-325466	subordinate
-subordinate
-325475	coordinate
-325481	coordinate
-325485	coordinate
-325490	coordinate
-325492	subordinate
-325511	subordinate
-325514	subordinate
-325522	subordinate
-325529	subordinate
-325542	subordinate
-325548	coordinate
-325550	subordinate
-325553	coordinate
-325557	coordinate
-325560	subordinate
-325565	coordinate
-325568	subordinate
-325573	subordinate
-325575	subordinate
-325582	coordinate
-325584	coordinate
-325589	subordinate
-325593	subordinate
-325599	coordinate
-325603	coordinate
-325610	coordinate
-subordinate
-subordinate
-325616	subordinate
-325619	coordinate
-subordinate
-subordinate
-325628	subordinate
-325645	subordinate
-325662	subordinate
-325672	subordinate
-325674	coordinate
-subordinate
-325681	coordinate
-subordinate
-325695	subordinate
-coordinate
-325698	coordinate
-coordinate
-325723	subordinate
-325728	subordinate
-325730	coordinate
-325737	subordinate
-325744	coordinate
-325746	subordinate
-325748	coordinate
-325762	subordinate
-325775	subordinate
-325782	coordinate
-subordinate
-325788	coordinate
-325796	coordinate
-subordinate
-325804	coordinate
-325810	subordinate
-325815	subordinate
-coordinate
-subordinate
-325820	coordinate
-325826	subordinate
-subordinate
-325830	subordinate
-subordinate
-coordinate
-325837	coordinate
-325839	subordinate
-325847	subordinate
-325852	subordinate
-325857	subordinate
-325859	subordinate
-subordinate
-325870	subordinate
-325882	subordinate
-325889	subordinate
-325898	subordinate
-325907	subordinate
-325919	coordinate
-325921	coordinate
-coordinate
-coordinate
-325925	coordinate
-325927	coordinate
-325929	coordinate
-325931	coordinate
-325933	coordinate
-325943	subordinate
-325946	subordinate
-325951	coordinate
-325956	coordinate
-325962	coordinate
-coordinate
-coordinate
-coordinate
-325968	coordinate
-325973	subordinate
-coordinate
-coordinate
-coordinate
-325979	subordinate
-325993	subordinate
-326002	subordinate
-326008	subordinate
-326011	subordinate
-326013	subordinate
-326022	subordinate
-subordinate
-326033	coordinate
-326037	subordinate
-subordinate
-326040	coordinate
-326058	subordinate
-326061	subordinate
-326065	subordinate
-326075	subordinate
-326079	coordinate
-326082	coordinate
-subordinate
-326088	coordinate
-subordinate
-326091	coordinate
-326101	subordinate
-326112	subordinate
-326125	coordinate
-326131	coordinate
-326133	coordinate
-326139	coordinate
-326144	coordinate
-326151	coordinate
-326164	subordinate
-326166	coordinate
-326170	subordinate
-coordinate
-coordinate
-326174	coordinate
-326183	coordinate
-326187	subordinate
-326191	subordinate
-326193	coordinate
-326198	subordinate
-coordinate
-326202	coordinate
-326213	subordinate
-subordinate
-coordinate
-326221	coordinate
-326223	coordinate
-326226	subordinate
-326228	coordinate
-326231	coordinate
-326248	subordinate
-subordinate
-326255	subordinate
-326261	subordinate
-326264	subordinate
-326276	subordinate
-326306	subordinate
-326314	subordinate
-326322	subordinate
-326330	subordinate
-326344	subordinate
-326346	subordinate
-326359	coordinate
-326364	coordinate
-326383	subordinate
-326385	subordinate
-326391	subordinate
-326407	subordinate
-326416	subordinate
-326418	subordinate
-326423	subordinate
-subordinate
-326428	subordinate
-subordinate
-326435	coordinate
-326439	coordinate
-326442	subordinate
-326458	coordinate
-326461	coordinate
-326465	subordinate
-326467	coordinate
-coordinate
-coordinate
-326476	subordinate
-326482	subordinate
-326490	coordinate
-326496	coordinate
-326507	subordinate
-326519	subordinate
-326545	subordinate
-subordinate
-326559	subordinate
-326565	coordinate
-326567	subordinate
-coordinate
-326582	subordinate
-326593	subordinate
-326599	coordinate
-326602	subordinate
-326604	coordinate
-326606	subordinate
-326610	subordinate
-subordinate
-326613	subordinate
-coordinate
-326617	coordinate
-326619	subordinate
-326621	subordinate
-326630	subordinate
-subordinate
-326636	subordinate
-326638	subordinate
-326668	subordinate
-326692	subordinate
-326697	subordinate
-326703	subordinate
-subordinate
-326711	subordinate
-326739	subordinate
-326745	subordinate
-subordinate
-326761	subordinate
-326764	subordinate
-326770	subordinate
-326773	coordinate
-326777	subordinate
-coordinate
-326780	coordinate
-326782	coordinate
-326787	subordinate
-326796	subordinate
-326798	subordinate
-326818	coordinate
-326826	coordinate
-326835	subordinate
-326840	coordinate
-coordinate
-326846	coordinate
-326849	coordinate
-coordinate
-326854	coordinate
-326872	subordinate
-subordinate
-326883	subordinate
-326890	coordinate
-326893	coordinate
-326897	subordinate
-326905	coordinate
-326907	subordinate
-326909	coordinate
-326911	subordinate
-326925	subordinate
-326938	subordinate
-326955	coordinate
-326960	coordinate
-326964	coordinate
-326974	subordinate
-326985	subordinate
-326992	coordinate
-326995	coordinate
-subordinate
-326998	subordinate
-327000	subordinate
-coordinate
-327004	coordinate
-327007	subordinate
-327014	subordinate
-coordinate
-327017	coordinate
-327019	coordinate
-subordinate
-327027	coordinate
-327034	coordinate
-subordinate
-327045	subordinate
-subordinate
-subordinate
-coordinate
-327050	coordinate
-327093	subordinate
-coordinate
-coordinate
-327103	coordinate
-327109	coordinate
-coordinate
-coordinate
-327125	coordinate
-327127	coordinate
-327133	coordinate
-327136	coordinate
-327168	coordinate
-327171	coordinate
-327185	subordinate
-subordinate
-327196	subordinate
-327202	subordinate
-327208	subordinate
-327212	subordinate
-coordinate
-327217	coordinate
-327231	subordinate
-coordinate
-327234	coordinate
-327240	coordinate
-327242	coordinate
-327244	subordinate
-subordinate
-327263	subordinate
-coordinate
-subordinate
-327267	coordinate
-327272	subordinate
-327276	subordinate
-coordinate
-coordinate
-327282	coordinate
-327286	coordinate
-327294	coordinate
-327296	coordinate
-327298	coordinate
-327308	subordinate
-subordinate
-327336	coordinate
-327340	coordinate
-327361	subordinate
-327371	coordinate
-coordinate
-327377	coordinate
-327382	coordinate
-coordinate
-327388	subordinate
-coordinate
-327393	coordinate
-327396	coordinate
-327402	coordinate
-327405	coordinate
-327415	subordinate
-coordinate
-327419	coordinate
-327425	subordinate
-327445	subordinate
-327459	subordinate
-327477	subordinate
-coordinate
-327480	coordinate
-327485	subordinate
-327492	coordinate
-327497	coordinate
-327521	coordinate
-327525	coordinate
-327530	coordinate
-327536	coordinate
-327550	coordinate
-327552	subordinate
-327561	coordinate
-327567	coordinate
-327586	subordinate
-327601	coordinate
-327604	subordinate
-327606	coordinate
-327629	subordinate
-327638	coordinate
-327640	coordinate
-327645	coordinate
-327648	subordinate
-coordinate
-327682	coordinate
-327684	coordinate
-327701	coordinate
-327703	coordinate
-327706	coordinate
-coordinate
-327709	coordinate
-327711	coordinate
-subordinate
-327715	coordinate
-327717	coordinate
-327726	coordinate
-327728	coordinate
-327732	subordinate
-327750	subordinate
-327752	subordinate
-327777	coordinate
-327780	coordinate
-327784	coordinate
-327787	coordinate
-coordinate
-327791	coordinate
-327795	coordinate
-327798	coordinate
-327808	coordinate
-327810	coordinate
-327812	coordinate
-327815	coordinate
-327820	coordinate
-327825	coordinate
-327828	coordinate
-327834	coordinate
-327837	coordinate
-327839	coordinate
-327843	coordinate
-327848	subordinate
-327859	subordinate
-327877	coordinate
-327884	coordinate
-coordinate
-327887	coordinate
-327889	coordinate
-327896	subordinate
-327910	subordinate
-327914	coordinate
-327916	coordinate
-327933	coordinate
-subordinate
-327936	coordinate
-327945	subordinate
-327954	coordinate
-327958	coordinate
-327963	coordinate
-327970	coordinate
-coordinate
-327976	coordinate
-327986	coordinate
-328000	coordinate
-328011	coordinate
-328015	coordinate
-328043	subordinate
-328046	subordinate
-328057	subordinate
-328066	subordinate
-328092	coordinate
-328096	coordinate
-328120	coordinate
-328124	coordinate
-328127	subordinate
-328145	coordinate
-328150	coordinate
-328152	subordinate
-328160	coordinate
-328167	coordinate
-328172	subordinate
-328179	coordinate
-328182	coordinate
-328185	subordinate
-328189	subordinate
-328192	coordinate
-328196	coordinate
-coordinate
-328201	coordinate
-328211	coordinate
-328213	coordinate
-coordinate
-328217	coordinate
-328226	subordinate
-coordinate
-328233	coordinate
-328237	coordinate
-328246	coordinate
-328294	subordinate
-328306	subordinate
-328317	subordinate
-328325	subordinate
-subordinate
-328329	subordinate
-328339	coordinate
-328341	coordinate
-328352	coordinate
-subordinate
-328355	coordinate
-subordinate
-328358	subordinate
-328362	subordinate
-subordinate
-328382	subordinate
-328393	subordinate
-328416	subordinate
-328419	subordinate
-328424	subordinate
-328434	subordinate
-328442	subordinate
-328445	coordinate
-328452	coordinate
-328456	subordinate
-328465	subordinate
-328470	subordinate
-328485	coordinate
-328494	coordinate
-328498	subordinate
-328504	subordinate
-328506	coordinate
-328510	coordinate
-328524	coordinate
-328527	coordinate
-subordinate
-subordinate
-328537	subordinate
-328547	subordinate
-328555	subordinate
-328557	subordinate
-328560	subordinate
-328562	coordinate
-328566	coordinate
-328572	coordinate
-coordinate
-328576	coordinate
-328579	coordinate
-328596	subordinate
-328611	subordinate
-328621	subordinate
-328626	subordinate
-subordinate
-328629	coordinate
-328632	coordinate
-328638	subordinate
-328642	subordinate
-328652	coordinate
-328658	coordinate
-328673	subordinate
-subordinate
-328684	coordinate
-328691	subordinate
-328705	subordinate
-328716	coordinate
-328718	coordinate
-328721	coordinate
-subordinate
-328724	coordinate
-subordinate
-328729	subordinate
-328747	subordinate
-328751	subordinate
-subordinate
-328770	subordinate
-328774	subordinate
-328783	subordinate
-328787	subordinate
-subordinate
-328795	coordinate
-subordinate
-328798	coordinate
-coordinate
-subordinate
-328804	coordinate
-subordinate
-328809	coordinate
-coordinate
-328812	coordinate
-328814	coordinate
-328836	subordinate
-328839	subordinate
-328845	subordinate
-subordinate
-328852	subordinate
-subordinate
-328865	subordinate
-328867	subordinate
-328872	coordinate
-328874	coordinate
-328882	subordinate
-subordinate
-328885	coordinate
-328899	subordinate
-subordinate
-328910	coordinate
-328913	subordinate
-328915	coordinate
-328930	subordinate
-328932	subordinate
-328941	subordinate
-328986	subordinate
-328992	subordinate
-328995	subordinate
-coordinate
-328998	coordinate
-329007	subordinate
-329011	subordinate
-subordinate
-329026	subordinate
-coordinate
-coordinate
-329031	coordinate
-329038	subordinate
-329042	coordinate
-coordinate
-329046	subordinate
-coordinate
-329049	coordinate
-329054	coordinate
-329058	coordinate
-329060	coordinate
-329063	coordinate
-329065	coordinate
-329067	coordinate
-329070	subordinate
-coordinate
-coordinate
-329076	coordinate
-329081	coordinate
-329084	subordinate
-329091	subordinate
-329098	subordinate
-329104	coordinate
-coordinate
-coordinate
-329110	coordinate
-329112	coordinate
-329118	subordinate
-329129	coordinate
-329135	subordinate
-329137	subordinate
-329149	coordinate
-subordinate
-subordinate
-subordinate
-subordinate
-329158	coordinate
-329167	subordinate
-329169	subordinate
-329171	coordinate
-329173	coordinate
-329182	subordinate
-329185	subordinate
-329220	subordinate
-329235	subordinate
-329253	subordinate
-329266	subordinate
-329272	subordinate
-329276	subordinate
-329278	subordinate
-329288	coordinate
-329291	coordinate
-329312	subordinate
-329323	subordinate
-subordinate
-329327	subordinate
-329335	subordinate
-329337	subordinate
-329341	subordinate
-329343	subordinate
-329349	subordinate
-329369	coordinate
-329378	subordinate
-coordinate
-329381	subordinate
-329387	subordinate
-329394	subordinate
-329399	subordinate
-329404	subordinate
-329417	coordinate
-329427	coordinate
-329429	subordinate
-329432	coordinate
-coordinate
-329439	subordinate
-329452	subordinate
-329466	subordinate
-329503	subordinate
-subordinate
-329515	subordinate
-coordinate
-subordinate
-329519	coordinate
-329540	subordinate
-coordinate
-329544	coordinate
-329553	subordinate
-subordinate
-329556	subordinate
-329563	subordinate
-329574	subordinate
-subordinate
-329577	subordinate
-subordinate
-subordinate
-329582	subordinate
-subordinate
-329608	coordinate
-subordinate
-coordinate
-coordinate
-coordinate
-329628	subordinate
-329630	subordinate
-coordinate
-329633	coordinate
-329693	subordinate
-329719	subordinate
-329723	subordinate
-329733	coordinate
-329736	subordinate
-329743	coordinate
-329748	coordinate
-329753	coordinate
-329758	coordinate
-329763	coordinate
-329768	coordinate
-329775	subordinate
-329789	subordinate
-subordinate
-subordinate
-329802	subordinate
-329810	subordinate
-329831	subordinate
-329834	subordinate
-329840	subordinate
-329845	subordinate
-329849	subordinate
-329860	subordinate
-329869	subordinate
-subordinate
-329880	coordinate
-subordinate
-329883	subordinate
-329892	coordinate
-329899	coordinate
-329919	coordinate
-329922	subordinate
-329924	subordinate
-329935	subordinate
-subordinate
-subordinate
-329939	subordinate
-329943	subordinate
-coordinate
-329946	coordinate
-329959	coordinate
-329961	coordinate
-subordinate
-329974	subordinate
-329980	subordinate
-329984	subordinate
-subordinate
-330004	coordinate
-330007	coordinate
-330014	subordinate
-coordinate
-coordinate
-coordinate
-330020	subordinate
-330022	coordinate
-330024	subordinate
-subordinate
-330028	coordinate
-coordinate
-330032	coordinate
-330036	subordinate
-330039	coordinate
-coordinate
-subordinate
-330045	subordinate
-330047	subordinate
-subordinate
-330050	coordinate
-330054	subordinate
-330062	subordinate
-330066	subordinate
-330073	subordinate
-coordinate
-330077	coordinate
-coordinate
-subordinate
-330083	coordinate
-330086	coordinate
-330091	coordinate
-330095	subordinate
-subordinate
-subordinate
-330109	subordinate
-330113	subordinate
-330115	subordinate
-330120	subordinate
-330124	subordinate
-coordinate
-330129	coordinate
-330132	coordinate
-330136	coordinate
-coordinate
-330143	coordinate
-330145	coordinate
-330147	subordinate
-coordinate
-330150	coordinate
-330152	subordinate
-330160	coordinate
-330163	coordinate
-330169	subordinate
-330181	subordinate
-330190	subordinate
-330212	subordinate
-subordinate
-coordinate
-330226	coordinate
-330233	coordinate
-subordinate
-330239	coordinate
-subordinate
-330244	subordinate
-330252	coordinate
-330257	coordinate
-subordinate
-330272	subordinate
-330276	subordinate
-330297	subordinate
-coordinate
-330311	subordinate
-330313	subordinate
-330320	subordinate
-330323	coordinate
-330325	coordinate
-330337	subordinate
-330349	subordinate
-330364	coordinate
-330370	coordinate
-330379	subordinate
-coordinate
-330382	subordinate
-subordinate
-coordinate
-coordinate
-330393	coordinate
-330397	coordinate
-coordinate
-subordinate
-330401	coordinate
-330412	subordinate
-330417	subordinate
-330427	coordinate
-330429	subordinate
-330431	coordinate
-subordinate
-330449	coordinate
-subordinate
-subordinate
-330462	subordinate
-330471	subordinate
-subordinate
-330486	subordinate
-subordinate
-330499	subordinate
-330501	subordinate
-subordinate
-330530	subordinate
-330532	subordinate
-subordinate
-330536	subordinate
-coordinate
-330539	coordinate
-330549	coordinate
-330552	coordinate
-330554	coordinate
-330556	coordinate
-330562	coordinate
-330566	coordinate
-330570	subordinate
-330574	subordinate
-330597	subordinate
-330607	coordinate
-330610	coordinate
-330613	coordinate
-330616	coordinate
-330622	subordinate
-coordinate
-subordinate
-330628	coordinate
-330632	coordinate
-330634	coordinate
-330644	subordinate
-330647	coordinate
-330650	coordinate
-330661	subordinate
-subordinate
-330665	coordinate
-330667	coordinate
-330673	subordinate
-330680	subordinate
-coordinate
-330684	coordinate
-330694	coordinate
-330696	coordinate
-330705	subordinate
-330710	subordinate
-330719	coordinate
-330724	coordinate
-330737	subordinate
-330740	subordinate
-330745	coordinate
-330752	coordinate
-330756	coordinate
-330774	subordinate
-330782	subordinate
-330786	subordinate
-330788	subordinate
-330815	subordinate
-coordinate
-330819	coordinate
-330827	coordinate
-subordinate
-330832	coordinate
-330840	coordinate
-330848	coordinate
-330854	coordinate
-330862	coordinate
-330866	coordinate
-subordinate
-330869	subordinate
-330877	subordinate
-330886	subordinate
-330893	subordinate
-330899	subordinate
-330905	subordinate
-330912	subordinate
-coordinate
-330915	coordinate
-330921	coordinate
-330934	subordinate
-330942	subordinate
-coordinate
-330963	coordinate
-330969	coordinate
-330976	coordinate
-330987	coordinate
-330990	coordinate
-331006	coordinate
-331009	coordinate
-331015	subordinate
-331029	coordinate
-331033	coordinate
-331036	subordinate
-coordinate
-subordinate
-331040	coordinate
-coordinate
-subordinate
-331044	coordinate
-subordinate
-331053	subordinate
-331086	subordinate
-331092	subordinate
-331094	subordinate
-331122	coordinate
-331136	coordinate
-subordinate
-coordinate
-331143	coordinate
-coordinate
-331146	coordinate
-331148	coordinate
-subordinate
-331158	subordinate
-331161	subordinate
-331163	coordinate
-331200	subordinate
-331204	coordinate
-331207	coordinate
-subordinate
-331214	subordinate
-331218	subordinate
-331230	subordinate
-331233	coordinate
-331241	coordinate
-331251	subordinate
-331254	coordinate
-331264	coordinate
-331269	coordinate
-331279	subordinate
-331288	subordinate
-331298	subordinate
-331311	subordinate
-331317	subordinate
-331319	subordinate
-331336	coordinate
-331343	coordinate
-331359	subordinate
-coordinate
-331364	coordinate
-331374	coordinate
-331378	coordinate
-331386	subordinate
-331397	subordinate
-331407	coordinate
-331420	subordinate
-331436	subordinate
-331443	coordinate
-331448	coordinate
-subordinate
-331453	coordinate
-331481	coordinate
-331489	subordinate
-331493	coordinate
-331498	coordinate
-331502	coordinate
-331504	subordinate
-331512	subordinate
-331515	subordinate
-coordinate
-331520	coordinate
-331530	coordinate
-331538	coordinate
-331541	subordinate
-331545	coordinate
-331552	coordinate
-331570	coordinate
-331572	coordinate
-331580	subordinate
-331592	coordinate
-331596	subordinate
-331602	coordinate
-331620	coordinate
-331625	coordinate
-331630	coordinate
-331632	subordinate
-coordinate
-331637	coordinate
-331647	coordinate
-331652	coordinate
-331664	subordinate
-331683	subordinate
-coordinate
-331689	coordinate
-coordinate
-331697	coordinate
-331705	subordinate
-331724	subordinate
-331731	coordinate
-331734	coordinate
-331736	coordinate
-331738	coordinate
-331749	subordinate
-331752	subordinate
-331758	subordinate
-coordinate
-331763	coordinate
-331773	coordinate
-331776	coordinate
-331788	subordinate
-331804	coordinate
-331808	coordinate
-331823	coordinate
-331826	coordinate
-coordinate
-331835	coordinate
-331845	subordinate
-331853	subordinate
-331860	coordinate
-331864	coordinate
-331869	subordinate
-coordinate
-331873	coordinate
-331881	subordinate
-331885	subordinate
-331891	coordinate
-331904	subordinate
-331924	coordinate
-331934	coordinate
-331953	subordinate
-coordinate
-331957	coordinate
-331976	subordinate
-332002	subordinate
-332022	coordinate
-332025	coordinate
-332039	subordinate
-332044	subordinate
-332056	coordinate
-332098	subordinate
-332113	coordinate
-332117	coordinate
-332163	subordinate
-332175	subordinate
-332186	coordinate
-332188	subordinate
-subordinate
-332197	coordinate
-332214	coordinate
-332217	coordinate
-332225	coordinate
-332232	coordinate
-coordinate
-332239	coordinate
-332245	coordinate
-332249	coordinate
-332259	coordinate
-332266	subordinate
-332293	coordinate
-332319	coordinate
-332345	subordinate
-subordinate
-332353	subordinate
-332360	subordinate
-subordinate
-coordinate
-subordinate
-332365	coordinate
-332368	subordinate
-332382	subordinate
-332389	subordinate
-332396	subordinate
-332408	subordinate
-coordinate
-subordinate
-coordinate
-332418	coordinate
-332420	coordinate
-332440	subordinate
-coordinate
-332444	coordinate
-332448	coordinate
-332451	coordinate
-subordinate
-332458	subordinate
-332465	coordinate
-subordinate
-subordinate
-332473	subordinate
-coordinate
-332477	coordinate
-332481	subordinate
-332505	subordinate
-332509	subordinate
-332518	coordinate
-332520	coordinate
-332524	subordinate
-332531	subordinate
-332539	coordinate
-subordinate
-332545	coordinate
-332553	subordinate
-332560	subordinate
-332566	subordinate
-332569	subordinate
-332583	subordinate
-subordinate
-332589	subordinate
-332598	coordinate
-332601	coordinate
-332605	coordinate
-332611	coordinate
-332613	coordinate
-332637	coordinate
-332647	coordinate
-subordinate
-332650	coordinate
-subordinate
-332658	coordinate
-subordinate
-332661	coordinate
-332683	subordinate
-coordinate
-332688	coordinate
-332698	subordinate
-332700	subordinate
-332705	subordinate
-subordinate
-subordinate
-332710	subordinate
-332723	subordinate
-coordinate
-332731	coordinate
-332742	subordinate
-332744	subordinate
-332747	coordinate
-subordinate
-332755	coordinate
-332759	coordinate
-332763	coordinate
-332772	subordinate
-332779	subordinate
-coordinate
-332784	coordinate
-332787	subordinate
-332795	subordinate
-subordinate
-332798	coordinate
-332800	coordinate
-332802	coordinate
-332807	coordinate
-332812	subordinate
-subordinate
-332818	subordinate
-332826	coordinate
-subordinate
-332831	subordinate
-subordinate
-332840	subordinate
-coordinate
-332846	coordinate
-332852	coordinate
-332863	subordinate
-332870	subordinate
-332876	subordinate
-subordinate
-332881	subordinate
-332903	subordinate
-coordinate
-332907	coordinate
-332928	coordinate
-332931	subordinate
-332936	coordinate
-332939	subordinate
-332964	subordinate
-332975	subordinate
-332989	subordinate
-333005	subordinate
-subordinate
-333009	coordinate
-333011	subordinate
-333015	subordinate
-333023	subordinate
-subordinate
-coordinate
-333027	coordinate
-333058	coordinate
-333060	subordinate
-333063	subordinate
-subordinate
-333067	coordinate
-subordinate
-333095	coordinate
-333100	coordinate
-333105	subordinate
-333160	coordinate
-333163	coordinate
-333165	coordinate
-333173	coordinate
-333196	coordinate
-coordinate
-333201	subordinate
-333203	coordinate
-333266	coordinate
-333272	coordinate
-333278	coordinate
-subordinate
-333282	coordinate
-333303	subordinate
-333311	coordinate
-subordinate
-333316	coordinate
-333323	subordinate
-coordinate
-333326	coordinate
-333333	coordinate
-333341	subordinate
-333343	subordinate
-333345	coordinate
-333351	coordinate
-333355	subordinate
-subordinate
-333359	coordinate
-333364	subordinate
-333368	coordinate
-333375	coordinate
-333382	coordinate
-333387	subordinate
-333396	subordinate
-333411	coordinate
-333420	coordinate
-coordinate
-333424	coordinate
-333431	coordinate
-333442	subordinate
-333444	subordinate
-333446	subordinate
-subordinate
-333467	coordinate
-333474	coordinate
-333506	coordinate
-333516	coordinate
-333518	coordinate
-subordinate
-333521	coordinate
-coordinate
-333526	coordinate
-coordinate
-333529	coordinate
-subordinate
-333534	coordinate
-333536	coordinate
-coordinate
-333542	coordinate
-333556	coordinate
-subordinate
-333559	coordinate
-333561	coordinate
-333569	subordinate
-333578	subordinate
-333593	subordinate
-333601	subordinate
-333628	coordinate
-333630	coordinate
-333633	coordinate
-coordinate
-333641	coordinate
-333643	coordinate
-coordinate
-333650	subordinate
-333652	coordinate
-coordinate
-coordinate
-333659	subordinate
-subordinate
-333664	subordinate
-333669	subordinate
-333671	coordinate
-333676	coordinate
-333679	coordinate
-333687	subordinate
-333718	coordinate
-333720	subordinate
-333726	coordinate
-333730	coordinate
-333754	subordinate
-subordinate
-333766	coordinate
-333768	coordinate
-333772	subordinate
-333783	subordinate
-coordinate
-333786	coordinate
-333797	subordinate
-333805	coordinate
-333811	coordinate
-333817	subordinate
-333823	subordinate
-333842	coordinate
-333848	coordinate
-333868	subordinate
-333887	coordinate
-333890	subordinate
-333893	subordinate
-coordinate
-333896	coordinate
-333902	subordinate
-333904	coordinate
-subordinate
-333911	coordinate
-333921	subordinate
-333944	coordinate
-333974	subordinate
-333976	subordinate
-333992	coordinate
-334001	subordinate
-334006	subordinate
-334011	coordinate
-334019	subordinate
-334052	coordinate
-334056	coordinate
-334059	coordinate
-334063	subordinate
-334065	subordinate
-subordinate
-334074	coordinate
-subordinate
-334079	coordinate
-coordinate
-334082	coordinate
-334087	subordinate
-334089	coordinate
-334092	coordinate
-334094	subordinate
-334111	subordinate
-334114	coordinate
-334120	coordinate
-334129	coordinate
-334144	subordinate
-334168	coordinate
-coordinate
-334171	coordinate
-334173	coordinate
-coordinate
-334176	coordinate
-334186	subordinate
-334188	subordinate
-334191	subordinate
-coordinate
-334195	coordinate
-334199	coordinate
-334204	coordinate
-334212	subordinate
-334214	coordinate
-coordinate
-coordinate
-334224	coordinate
-334226	coordinate
-334237	subordinate
-334250	subordinate
-334254	subordinate
-334263	subordinate
-334265	subordinate
-334273	coordinate
-334280	coordinate
-334283	coordinate
-334317	subordinate
-334362	subordinate
-coordinate
-334365	coordinate
-334369	subordinate
-334376	subordinate
-334380	coordinate
-334382	coordinate
-334384	coordinate
-334397	subordinate
-334401	subordinate
-334404	subordinate
-334409	subordinate
-coordinate
-334412	coordinate
-334419	subordinate
-334423	subordinate
-334426	subordinate
-334433	coordinate
-334435	coordinate
-334438	coordinate
-334442	coordinate
-334446	subordinate
-coordinate
-334451	coordinate
-334454	coordinate
-334457	coordinate
-coordinate
-334461	coordinate
-334468	subordinate
-334474	subordinate
-coordinate
-334477	coordinate
-334488	subordinate
-334493	coordinate
-334497	coordinate
-334501	coordinate
-334511	coordinate
-334513	coordinate
-subordinate
-subordinate
-334523	coordinate
-334527	coordinate
-coordinate
-334532	coordinate
-coordinate
-334540	coordinate
-334547	coordinate
-334553	coordinate
-334558	subordinate
-334562	coordinate
-334589	coordinate
-334595	subordinate
-334608	subordinate
-334614	coordinate
-334619	coordinate
-334623	coordinate
-334630	coordinate
-334634	subordinate
-334640	subordinate
-334673	subordinate
-334690	coordinate
-334700	coordinate
-coordinate
-334709	coordinate
-334723	subordinate
-334731	subordinate
-coordinate
-334735	coordinate
-334753	subordinate
-334756	subordinate
-334761	subordinate
-334765	subordinate
-subordinate
-coordinate
-334770	coordinate
-334786	subordinate
-coordinate
-334790	coordinate
-334795	subordinate
-334797	subordinate
-coordinate
-334801	coordinate
-334820	subordinate
-334830	subordinate
-334843	subordinate
-334845	subordinate
-334857	subordinate
-334864	coordinate
-334866	coordinate
-334878	subordinate
-334890	subordinate
-334895	subordinate
-334908	subordinate
-coordinate
-334912	coordinate
-334916	subordinate
-coordinate
-334919	coordinate
-334931	coordinate
-334937	coordinate
-334943	coordinate
-334945	coordinate
-334947	coordinate
-334958	coordinate
-334967	subordinate
-334972	subordinate
-334985	subordinate
-335034	coordinate
-335037	coordinate
-335041	coordinate
-335044	subordinate
-335051	coordinate
-335063	coordinate
-335065	coordinate
-coordinate
-335071	coordinate
-335076	coordinate
-coordinate
-335079	coordinate
-coordinate
-subordinate
-335083	coordinate
-subordinate
-335089	subordinate
-335101	coordinate
-335110	coordinate
-coordinate
-subordinate
-335117	coordinate
-subordinate
-335120	coordinate
-335126	subordinate
-335138	coordinate
-335140	coordinate
-335145	coordinate
-335155	subordinate
-335162	coordinate
-coordinate
-335166	coordinate
-335170	coordinate
-335179	subordinate
-335192	coordinate
-335194	coordinate
-335199	coordinate
-335207	coordinate
-335217	subordinate
-335233	subordinate
-335257	subordinate
-335259	coordinate
-335268	coordinate
-335279	coordinate
-335283	coordinate
-subordinate
-335288	subordinate
-335299	subordinate
-335302	subordinate
-335307	coordinate
-335310	subordinate
-335315	coordinate
-coordinate
-335319	coordinate
-335324	coordinate
-335339	subordinate
-335348	coordinate
-335391	coordinate
-335394	coordinate
-335408	subordinate
-coordinate
-335417	coordinate
-subordinate
-335429	subordinate
-335435	subordinate
-335448	coordinate
-subordinate
-335453	subordinate
-335456	subordinate
-335458	coordinate
-335465	subordinate
-335480	subordinate
-335499	subordinate
-335506	coordinate
-335510	coordinate
-335514	coordinate
-335518	coordinate
-335522	coordinate
-335526	coordinate
-335530	coordinate
-335534	coordinate
-335538	coordinate
-335542	coordinate
-335546	coordinate
-335550	coordinate
-335556	coordinate
-335560	coordinate
-335565	subordinate
-335579	subordinate
-335582	coordinate
-335606	coordinate
-335618	coordinate
-coordinate
-335626	coordinate
-335660	coordinate
-335668	coordinate
-335679	coordinate
-335687	coordinate
-coordinate
-335692	coordinate
-335699	coordinate
-coordinate
-335707	coordinate
-335714	coordinate
-335722	coordinate
-335724	coordinate
-335726	coordinate
-335733	subordinate
-coordinate
-coordinate
-335743	coordinate
-335748	coordinate
-335758	subordinate
-335769	coordinate
-335777	coordinate
-335782	coordinate
-335785	coordinate
-coordinate
-335789	subordinate
-335792	coordinate
-335796	subordinate
-335826	coordinate
-335830	coordinate
-335836	coordinate
-335857	subordinate
-335865	coordinate
-335868	subordinate
-335871	coordinate
-335877	coordinate
-335882	coordinate
-335887	coordinate
-335901	subordinate
-335907	coordinate
-335912	coordinate
-335924	coordinate
-335936	coordinate
-335940	subordinate
-335943	subordinate
-335945	coordinate
-335966	coordinate
-335972	coordinate
-335979	subordinate
-336002	subordinate
-336006	coordinate
-coordinate
-336012	coordinate
-336017	coordinate
-336019	coordinate
-336022	subordinate
-336042	subordinate
-336051	coordinate
-subordinate
-336058	coordinate
-336067	coordinate
-coordinate
-336077	subordinate
-336081	coordinate
-336093	coordinate
-336101	subordinate
-336108	subordinate
-336120	subordinate
-336132	subordinate
-336134	coordinate
-coordinate
-336146	subordinate
-336150	coordinate
-coordinate
-336158	coordinate
-336161	coordinate
-coordinate
-subordinate
-336165	coordinate
-336171	coordinate
-336176	subordinate
-336179	coordinate
-336187	coordinate
-336193	coordinate
-336198	coordinate
-336203	coordinate
-336208	coordinate
-336218	subordinate
-336223	coordinate
-336229	coordinate
-336248	coordinate
-336251	coordinate
-336283	subordinate
-336290	subordinate
-336316	subordinate
-336336	coordinate
-336341	coordinate
-336352	coordinate
-336359	coordinate
-336406	coordinate
-336409	subordinate
-336411	coordinate
-336431	subordinate
-336449	subordinate
-336455	coordinate
-336475	coordinate
-subordinate
-336481	subordinate
-336483	coordinate
-coordinate
-coordinate
-336491	coordinate
-336497	coordinate
-336503	coordinate
-336508	subordinate
-336512	coordinate
-coordinate
-336521	coordinate
-336529	subordinate
-336534	subordinate
-336544	subordinate
-336548	subordinate
-336552	subordinate
-336555	subordinate
-coordinate
-subordinate
-336561	coordinate
-336565	coordinate
-336569	subordinate
-336613	coordinate
-336623	subordinate
-subordinate
-subordinate
-336630	subordinate
-336638	coordinate
-336646	coordinate
-subordinate
-336672	subordinate
-subordinate
-336679	coordinate
-coordinate
-336682	coordinate
-336684	coordinate
-coordinate
-336694	subordinate
-336698	coordinate
-coordinate
-336706	coordinate
-336708	coordinate
-336717	subordinate
-336724	subordinate
-336738	coordinate
-336740	coordinate
-336754	coordinate
-336761	coordinate
-336763	subordinate
-coordinate
-336767	coordinate
-336776	coordinate
-336781	coordinate
-336784	subordinate
-336804	subordinate
-subordinate
-336807	coordinate
-336812	coordinate
-336819	subordinate
-subordinate
-336822	subordinate
-336825	coordinate
-336828	subordinate
-336831	subordinate
-336837	coordinate
-336840	subordinate
-336843	coordinate
-336855	subordinate
-336859	coordinate
-336868	coordinate
-coordinate
-336871	coordinate
-336895	coordinate
-336908	coordinate
-subordinate
-336916	coordinate
-coordinate
-336924	coordinate
-336926	coordinate
-336928	subordinate
-336939	coordinate
-coordinate
-336951	coordinate
-336956	coordinate
-336972	coordinate
-336978	coordinate
-336984	coordinate
-336990	coordinate
-coordinate
-336996	coordinate
-coordinate
-337004	coordinate
-coordinate
-337008	coordinate
-337035	coordinate
-337046	coordinate
-337054	coordinate
-337070	coordinate
-337088	subordinate
-coordinate
-337095	coordinate
-337099	coordinate
-337102	coordinate
-coordinate
-337107	coordinate
-337113	coordinate
-337115	coordinate
-337134	coordinate
-337141	coordinate
-337150	coordinate
-337174	coordinate
-coordinate
-coordinate
-337179	coordinate
-337185	coordinate
-337192	coordinate
-337195	coordinate
-subordinate
-coordinate
-337199	coordinate
-subordinate
-337204	coordinate
-337209	coordinate
-337211	coordinate
-337219	coordinate
-337225	coordinate
-coordinate
-337235	coordinate
-337247	subordinate
-337251	subordinate
-337260	subordinate
-337286	subordinate
-337290	subordinate
-337312	coordinate
-337319	coordinate
-337347	coordinate
-337351	coordinate
-337379	subordinate
-337395	coordinate
-337408	coordinate
-337429	subordinate
-337432	subordinate
-337463	subordinate
-337488	subordinate
-337490	subordinate
-337494	coordinate
-337498	coordinate
-coordinate
-337504	coordinate
-337515	coordinate
-337520	coordinate
-subordinate
-337530	coordinate
-337535	coordinate
-337548	coordinate
-subordinate
-337552	subordinate
-337558	coordinate
-coordinate
-337565	coordinate
-337573	coordinate
-337578	coordinate
-coordinate
-337584	coordinate
-337604	coordinate
-337609	subordinate
-subordinate
-337613	coordinate
-337621	coordinate
-coordinate
-337631	subordinate
-337635	coordinate
-337639	coordinate
-337642	coordinate
-subordinate
-337648	coordinate
-337650	subordinate
-337654	coordinate
-subordinate
-337667	subordinate
-337682	coordinate
-subordinate
-coordinate
-337688	coordinate
-337690	coordinate
-337724	subordinate
-337729	subordinate
-337735	subordinate
-337737	subordinate
-337750	coordinate
-subordinate
-337756	coordinate
-coordinate
-337763	subordinate
-337783	subordinate
-337798	subordinate
-subordinate
-337817	subordinate
-337820	subordinate
-337825	subordinate
-337829	coordinate
-337834	coordinate
-337839	subordinate
-337844	subordinate
-coordinate
-337850	coordinate
-337853	subordinate
-subordinate
-337880	coordinate
-subordinate
-337893	coordinate
-subordinate
-337896	subordinate
-coordinate
-337899	coordinate
-337901	subordinate
-337926	subordinate
-337937	coordinate
-337940	coordinate
-337946	coordinate
-337951	subordinate
-subordinate
-337971	coordinate
-subordinate
-337976	coordinate
-subordinate
-337981	coordinate
-337986	subordinate
-338007	subordinate
-338010	subordinate
-338022	subordinate
-338025	subordinate
-338031	subordinate
-338035	coordinate
-338044	coordinate
-338053	subordinate
-338056	subordinate
-338058	subordinate
-338076	coordinate
-338078	coordinate
-338081	coordinate
-338083	subordinate
-338089	coordinate
-338131	subordinate
-coordinate
-338139	coordinate
-338149	coordinate
-338166	coordinate
-338179	coordinate
-338187	coordinate
-338199	subordinate
-subordinate
-338244	subordinate
-338251	coordinate
-338254	coordinate
-338263	coordinate
-338269	coordinate
-338289	coordinate
-338293	coordinate
-338297	subordinate
-338299	subordinate
-338306	coordinate
-338316	coordinate
-338328	subordinate
-338334	coordinate
-338344	coordinate
-338354	coordinate
-338360	coordinate
-338367	subordinate
-338373	coordinate
-338380	coordinate
-coordinate
-338386	coordinate
-338398	coordinate
-338403	coordinate
-338430	subordinate
-338440	coordinate
-338444	coordinate
-338464	subordinate
-338509	coordinate
-338516	coordinate
-338520	coordinate
-338523	subordinate
-338529	coordinate
-338532	coordinate
-coordinate
-338543	coordinate
-338553	subordinate
-coordinate
-338558	coordinate
-338574	subordinate
-338588	coordinate
-338601	subordinate
-338605	subordinate
-338621	coordinate
-338623	coordinate
-338635	coordinate
-338638	coordinate
-338674	coordinate
-338678	coordinate
-338722	subordinate
-coordinate
-338728	coordinate
-subordinate
-338759	subordinate
-338765	coordinate
-338769	coordinate
-coordinate
-338782	coordinate
-subordinate
-338797	coordinate
-338800	subordinate
-338802	coordinate
-coordinate
-coordinate
-338810	coordinate
-338823	coordinate
-338844	subordinate
-338855	subordinate
-338881	subordinate
-338888	subordinate
-338903	subordinate
-338908	coordinate
-338910	coordinate
-338914	subordinate
-coordinate
-338917	coordinate
-338949	coordinate
-338954	coordinate
-338959	subordinate
-338967	coordinate
-338974	coordinate
-338985	subordinate
-338997	coordinate
-339000	coordinate
-339021	subordinate
-339027	coordinate
-339038	coordinate
-339055	coordinate
-339061	coordinate
-339078	subordinate
-339083	subordinate
-339085	subordinate
-339095	subordinate
-coordinate
-339100	coordinate
-339106	coordinate
-339112	subordinate
-339120	coordinate
-339140	subordinate
-339156	subordinate
-339186	coordinate
-coordinate
-339192	coordinate
-339194	coordinate
-coordinate
-subordinate
-339200	coordinate
-339223	coordinate
-339225	coordinate
-339227	coordinate
-339249	coordinate
-339251	coordinate
-339253	coordinate
-coordinate
-339259	subordinate
-subordinate
-339268	coordinate
-339270	coordinate
-coordinate
-coordinate
-339275	coordinate
-339279	coordinate
-339291	coordinate
-339293	coordinate
-339300	coordinate
-339303	coordinate
-339311	coordinate
-339315	coordinate
-339319	subordinate
-coordinate
-339326	coordinate
-339357	coordinate
-339360	coordinate
-coordinate
-339363	subordinate
-339366	coordinate
-coordinate
-339371	coordinate
-339380	subordinate
-coordinate
-339385	coordinate
-339388	coordinate
-339393	subordinate
-339415	coordinate
-339417	subordinate
-339421	subordinate
-339424	coordinate
-339436	coordinate
-339455	subordinate
-339457	subordinate
-coordinate
-339469	coordinate
-339475	coordinate
-339497	coordinate
-subordinate
-339502	coordinate
-subordinate
-339508	subordinate
-coordinate
-339515	coordinate
-339523	subordinate
-339526	coordinate
-339541	coordinate
-339543	coordinate
-339553	coordinate
-339555	coordinate
-coordinate
-339558	coordinate
-339562	coordinate
-339573	coordinate
-339576	subordinate
-339599	subordinate
-339604	subordinate
-339625	subordinate
-339639	subordinate
-339692	coordinate
-coordinate
-339702	coordinate
-339710	coordinate
-339726	subordinate
-coordinate
-339729	coordinate
-339741	coordinate
-339746	coordinate
-339753	subordinate
-339760	coordinate
-339770	subordinate
-339774	coordinate
-subordinate
-339788	coordinate
-339793	coordinate
-subordinate
-coordinate
-339797	coordinate
-339819	subordinate
-339834	subordinate
-339842	coordinate
-339849	coordinate
-339854	coordinate
-339859	coordinate
-339865	coordinate
-339874	coordinate
-339881	coordinate
-339886	coordinate
-339891	coordinate
-339898	subordinate
-339906	subordinate
-coordinate
-339914	coordinate
-339953	subordinate
-coordinate
-339965	coordinate
-339976	coordinate
-339978	coordinate
-339988	coordinate
-339998	coordinate
-340047	subordinate
-340056	coordinate
-coordinate
-340059	coordinate
-340061	coordinate
-340064	subordinate
-coordinate
-340070	coordinate
-340077	subordinate
-340082	subordinate
-340114	subordinate
-340122	subordinate
-340137	subordinate
-340146	coordinate
-subordinate
-340150	coordinate
-340155	coordinate
-coordinate
-340163	coordinate
-340170	coordinate
-coordinate
-340176	coordinate
-340181	subordinate
-coordinate
-340185	subordinate
-340188	subordinate
-340190	coordinate
-340192	subordinate
-340194	coordinate
-340210	subordinate
-340222	subordinate
-340226	coordinate
-340255	subordinate
-340263	subordinate
-coordinate
-340269	coordinate
-340290	subordinate
-340317	subordinate
-340327	subordinate
-340342	coordinate
-340368	subordinate
-340381	coordinate
-340397	coordinate
-340406	subordinate
-340409	subordinate
-340424	coordinate
-coordinate
-340437	coordinate
-340440	coordinate
-coordinate
-340445	coordinate
-coordinate
-340448	coordinate
-340451	subordinate
-340454	subordinate
-340460	subordinate
-340465	coordinate
-coordinate
-coordinate
-340469	coordinate
-coordinate
-340473	coordinate
-340475	coordinate
-340490	coordinate
-coordinate
-340498	coordinate
-340510	coordinate
-340512	coordinate
-340522	subordinate
-340542	coordinate
-340547	coordinate
-coordinate
-340555	coordinate
-340563	subordinate
-340567	coordinate
-340574	subordinate
-340587	subordinate
-340601	coordinate
-340607	coordinate
-340620	coordinate
-340624	coordinate
-340628	coordinate
-340645	coordinate
-340664	coordinate
-340673	coordinate
-340677	coordinate
-subordinate
-340688	coordinate
-340710	coordinate
-coordinate
-340718	coordinate
-340728	coordinate
-340756	subordinate
-subordinate
-340776	subordinate
-coordinate
-340785	coordinate
-340790	subordinate
-340800	subordinate
-340803	subordinate
-340814	coordinate
-coordinate
-coordinate
-340823	coordinate
-340826	coordinate
-coordinate
-340830	coordinate
-340835	coordinate
-coordinate
-340842	coordinate
-coordinate
-340846	coordinate
-340867	subordinate
-340899	coordinate
-340903	coordinate
-coordinate
-340906	coordinate
-340915	subordinate
-340939	coordinate
-340957	coordinate
-340971	coordinate
-340978	coordinate
-subordinate
-340988	subordinate
-340998	subordinate
-341001	subordinate
-341009	coordinate
-341012	coordinate
-coordinate
-341018	coordinate
-341027	coordinate
-341031	coordinate
-341035	coordinate
-341039	coordinate
-341045	coordinate
-341051	coordinate
-341068	subordinate
-341080	coordinate
-341118	coordinate
-341124	coordinate
-341141	coordinate
-341145	coordinate
-341147	coordinate
-341149	coordinate
-341151	coordinate
-341153	coordinate
-341155	coordinate
-341157	coordinate
-341159	coordinate
-341161	coordinate
-341163	coordinate
-341165	coordinate
-341195	subordinate
-341216	subordinate
-341218	subordinate
-coordinate
-341224	coordinate
-341252	subordinate
-341276	subordinate
-341288	subordinate
-341303	coordinate
-341316	subordinate
-341318	subordinate
-341324	coordinate
-341338	coordinate
-341347	coordinate
-coordinate
-coordinate
-341353	coordinate
-341357	coordinate
-341366	coordinate
-coordinate
-341376	subordinate
-341381	coordinate
-341390	coordinate
-341396	coordinate
-341406	subordinate
-341409	subordinate
-subordinate
-341436	subordinate
-coordinate
-341439	coordinate
-341441	subordinate
-341455	subordinate
-341484	subordinate
-341488	coordinate
-coordinate
-341493	coordinate
-341496	coordinate
-coordinate
-341500	coordinate
-341506	coordinate
-341512	subordinate
-341538	subordinate
-coordinate
-341547	coordinate
-341565	subordinate
-341573	subordinate
-341627	subordinate
-341643	subordinate
+364600	coordinate
+364603	coordinate
+364606	coordinate
+364613	coordinate
+364621	coordinate
+364624	coordinate
+364627	coordinate
+364630	coordinate
+364633	coordinate
+364636	coordinate
+364641	coordinate
+364646	coordinate
+364649	coordinate
+364656	coordinate
+364662	coordinate
+364665	coordinate
+364668	coordinate
+364671	coordinate
+364674	coordinate
+364677	coordinate
+364680	coordinate
+364683	coordinate
+364686	coordinate
+364689	coordinate
+364692	coordinate
+364695	coordinate
+364698	coordinate
+364710	coordinate
+364716	coordinate
+364719	coordinate
+364722	coordinate
+364725	coordinate
+364728	coordinate
+364731	coordinate
+364734	coordinate
+364737	coordinate
+364740	coordinate
+364743	coordinate
+364746	coordinate
+364760	coordinate
+364769	coordinate
+364777	coordinate
+364800	subordinate
+364802	subordinate
+subordinate
+364813	subordinate
+coordinate
+364816	coordinate
+subordinate
+subordinate
+364827	coordinate
+364832	subordinate
+364836	subordinate
+364843	coordinate
+coordinate
+364850	subordinate
+364862	subordinate
+364870	coordinate
+364874	coordinate
+364876	coordinate
+364882	subordinate
+364888	coordinate
+coordinate
+364891	subordinate
+364896	subordinate
+364900	coordinate
+coordinate
+364905	coordinate
+364907	subordinate
+364909	coordinate
+364932	subordinate
+364937	coordinate
+364943	coordinate
+subordinate
+364948	coordinate
+coordinate
+subordinate
+364954	coordinate
+364958	coordinate
+subordinate
+364967	subordinate
+364994	subordinate
+365002	coordinate
+subordinate
+365010	subordinate
+365013	subordinate
+365016	coordinate
+subordinate
+365021	coordinate
+365024	subordinate
+365027	subordinate
+subordinate
+365032	coordinate
+subordinate
+365043	subordinate
+subordinate
+365046	subordinate
+365051	subordinate
+365057	coordinate
+subordinate
+365068	coordinate
+subordinate
+365071	coordinate
+subordinate
+365082	subordinate
+365084	subordinate
+365102	coordinate
+subordinate
+365110	coordinate
+365113	coordinate
+365116	subordinate
+365120	subordinate
+365128	coordinate
+subordinate
+365136	coordinate
+365139	coordinate
+365144	subordinate
+365157	coordinate
+365164	coordinate
+subordinate
+365202	coordinate
+365207	subordinate
+365209	subordinate
+365223	coordinate
+subordinate
+365231	coordinate
+365235	subordinate
+365244	coordinate
+subordinate
+365252	coordinate
+365266	subordinate
+365270	coordinate
+subordinate
+365279	subordinate
+365282	subordinate
+365284	subordinate
+365289	subordinate
+365299	subordinate
+365308	subordinate
+365336	coordinate
+coordinate
+365345	coordinate
+365351	coordinate
+365359	coordinate
+365371	coordinate
+365376	subordinate
+365382	subordinate
+365388	subordinate
+365394	subordinate
+365398	subordinate
+365417	subordinate
+365433	coordinate
+365436	subordinate
+365439	coordinate
+365444	coordinate
+365453	subordinate
+365463	coordinate
+365470	coordinate
+365474	coordinate
+coordinate
+365481	coordinate
+365501	coordinate
+subordinate
+365505	coordinate
+365510	subordinate
+365515	subordinate
+subordinate
+subordinate
+365524	subordinate
+365534	coordinate
+subordinate
+365538	subordinate
+365560	subordinate
+365566	subordinate
+365574	subordinate
+365579	subordinate
+365590	subordinate
+365593	coordinate
+365597	coordinate
+365601	subordinate
+365606	coordinate
+365612	coordinate
+coordinate
+365622	subordinate
+365631	coordinate
+365636	coordinate
+365653	coordinate
+365659	coordinate
+coordinate
+365675	subordinate
+subordinate
+365686	coordinate
+365691	coordinate
+365695	coordinate
+365699	coordinate
+365701	coordinate
+365714	subordinate
+365716	subordinate
+365726	subordinate
+365747	coordinate
+365767	subordinate
+coordinate
+365774	subordinate
+365781	subordinate
+365786	subordinate
+365806	coordinate
+365809	coordinate
+365814	subordinate
+365819	subordinate
+subordinate
+365846	subordinate
+365858	subordinate
+coordinate
+365864	coordinate
+365869	coordinate
+365887	coordinate
+365893	subordinate
+365897	subordinate
+365899	subordinate
+365902	coordinate
+365921	subordinate
+365935	subordinate
+365938	subordinate
+365945	subordinate
+365954	subordinate
+365959	subordinate
+365969	subordinate
+365974	subordinate
+365981	subordinate
+365988	subordinate
+365996	subordinate
+366004	subordinate
+coordinate
+366007	coordinate
+366009	coordinate
+366012	subordinate
+366016	coordinate
+366018	coordinate
+366020	subordinate
+366041	subordinate
+366047	subordinate
+subordinate
+subordinate
+366059	subordinate
+subordinate
+366064	coordinate
+coordinate
+366067	coordinate
+366070	coordinate
+coordinate
+366075	coordinate
+366087	subordinate
+coordinate
+366093	coordinate
+366104	subordinate
+366111	coordinate
+subordinate
+coordinate
+366121	subordinate
+366136	subordinate
+366141	subordinate
+366143	coordinate
+366150	coordinate
+366161	coordinate
+366163	coordinate
+366175	subordinate
+366192	coordinate
+366194	coordinate
+subordinate
+366203	coordinate
+366211	coordinate
+subordinate
+366219	coordinate
+subordinate
+366231	subordinate
+366243	coordinate
+366249	coordinate
+366255	coordinate
+subordinate
+366265	subordinate
+366270	coordinate
+366274	coordinate
+366278	coordinate
+366288	subordinate
+366315	subordinate
+366320	coordinate
+366322	coordinate
+366327	subordinate
+366329	coordinate
+366334	coordinate
+366343	subordinate
+366347	coordinate
+366349	coordinate
+366354	subordinate
+366356	coordinate
+366361	coordinate
+366370	subordinate
+366379	coordinate
+366387	subordinate
+366389	coordinate
+subordinate
+366392	subordinate
+366399	coordinate
+366401	coordinate
+366412	coordinate
+366417	subordinate
+366421	coordinate
+366426	subordinate
+366431	coordinate
+366435	subordinate
+366445	subordinate
+subordinate
+366455	subordinate
+366470	coordinate
+366473	coordinate
+366478	subordinate
+366496	subordinate
+coordinate
+366499	coordinate
+366513	coordinate
+366517	coordinate
+366520	subordinate
+366527	coordinate
+366531	coordinate
+366540	coordinate
+366544	coordinate
+366549	subordinate
+366557	subordinate
+coordinate
+366565	coordinate
+366573	subordinate
+366587	subordinate
+366601	subordinate
+366609	subordinate
+366621	subordinate
+366633	subordinate
+366638	subordinate
+366648	subordinate
+366670	subordinate
+366690	subordinate
+366696	subordinate
+subordinate
+366707	subordinate
+366720	subordinate
+366722	coordinate
+366727	coordinate
+subordinate
+366751	subordinate
+366753	subordinate
+366767	subordinate
+366770	subordinate
+366786	coordinate
+366789	coordinate
+366792	coordinate
+366811	subordinate
+366818	coordinate
+366820	coordinate
+366827	subordinate
+366840	subordinate
+366851	subordinate
+366853	subordinate
+subordinate
+366857	subordinate
+366862	subordinate
+366864	subordinate
+366876	coordinate
+subordinate
+366881	coordinate
+366885	subordinate
+coordinate
+366888	subordinate
+coordinate
+366911	coordinate
+366915	coordinate
+366923	coordinate
+366928	coordinate
+366951	subordinate
+366961	subordinate
+366971	subordinate
+366980	subordinate
+366983	subordinate
+366985	coordinate
+coordinate
+366989	coordinate
+366992	coordinate
+coordinate
+366995	coordinate
+366999	subordinate
+coordinate
+367002	coordinate
+367007	coordinate
+367010	subordinate
+coordinate
+367013	coordinate
+367015	coordinate
+367018	subordinate
+367022	coordinate
+367026	coordinate
+367036	subordinate
+coordinate
+coordinate
+367040	coordinate
+367042	coordinate
+367045	coordinate
+367058	subordinate
+subordinate
+367066	subordinate
+367076	coordinate
+367078	coordinate
+367089	subordinate
+367095	subordinate
+367099	subordinate
+coordinate
+367102	coordinate
+367114	coordinate
+367116	coordinate
+367118	coordinate
+367137	coordinate
+367144	coordinate
+367153	subordinate
+367163	subordinate
+367168	coordinate
+subordinate
+367173	coordinate
+subordinate
+367180	coordinate
+367190	coordinate
+367218	coordinate
+367224	coordinate
+subordinate
+367235	coordinate
+367239	coordinate
+367245	coordinate
+367250	coordinate
+subordinate
+367255	coordinate
+coordinate
+367258	coordinate
+coordinate
+coordinate
+367262	coordinate
+coordinate
+coordinate
+367266	coordinate
+367268	subordinate
+coordinate
+367274	coordinate
+367278	coordinate
+367301	subordinate
+subordinate
+subordinate
+367322	subordinate
+367341	subordinate
+coordinate
+coordinate
+367346	coordinate
+367354	coordinate
+367359	subordinate
+coordinate
+coordinate
+367364	coordinate
+367372	coordinate
+367381	coordinate
+367386	coordinate
+367396	coordinate
+367399	coordinate
+367403	coordinate
+367408	coordinate
+367414	coordinate
+367416	subordinate
+367419	coordinate
+367421	subordinate
+367425	coordinate
+367428	subordinate
+367431	coordinate
+367441	coordinate
+367452	coordinate
+367474	coordinate
+367478	coordinate
+367482	coordinate
+367501	subordinate
+coordinate
+367507	coordinate
+367519	coordinate
+367522	coordinate
+367525	coordinate
+367528	coordinate
+367532	coordinate
+367534	subordinate
+367543	coordinate
+367548	coordinate
+367559	coordinate
+367562	coordinate
+367565	coordinate
+367568	coordinate
+367572	coordinate
+367574	coordinate
+367583	subordinate
+367596	subordinate
+coordinate
+subordinate
+367600	coordinate
+367602	subordinate
+367616	subordinate
+367621	subordinate
+367623	subordinate
+367627	subordinate
+367646	coordinate
+367649	coordinate
+367652	coordinate
+367664	subordinate
+coordinate
+367674	subordinate
+367678	subordinate
+367682	subordinate
+367693	coordinate
+coordinate
+367696	coordinate
+367702	coordinate
+367707	subordinate
+367710	coordinate
+coordinate
+367715	coordinate
+367717	coordinate
+coordinate
+367722	coordinate
+367724	coordinate
+coordinate
+367731	coordinate
+367735	coordinate
+subordinate
+367755	coordinate
+367760	coordinate
+367796	subordinate
+367808	subordinate
+367813	subordinate
+367821	coordinate
+367825	coordinate
+367830	coordinate
+367832	coordinate
+367839	subordinate
+367843	coordinate
+367846	coordinate
+367852	subordinate
+367860	coordinate
+367864	coordinate
+367869	subordinate
+367872	subordinate
+367878	subordinate
+367882	subordinate
+367889	coordinate
+coordinate
+367893	coordinate
+367898	coordinate
+367902	subordinate
+367911	subordinate
+coordinate
+367914	coordinate
+367922	coordinate
+367924	coordinate
+subordinate
+367944	subordinate
+subordinate
+367955	subordinate
+367968	coordinate
+subordinate
+367975	coordinate
+367985	subordinate
+368005	subordinate
+subordinate
+368012	subordinate
+subordinate
+368030	subordinate
+368038	subordinate
+368046	subordinate
+368059	subordinate
+368065	coordinate
+368073	coordinate
+368079	coordinate
+368083	coordinate
+subordinate
+368095	coordinate
+368103	subordinate
+368105	subordinate
+368112	coordinate
+subordinate
+368116	coordinate
+368124	subordinate
+368129	subordinate
+368150	subordinate
+368171	coordinate
+368173	coordinate
+368175	coordinate
+368184	subordinate
+368191	coordinate
+368195	coordinate
+368202	subordinate
+368209	coordinate
+subordinate
+368213	coordinate
+368223	coordinate
+subordinate
+368228	subordinate
+368231	subordinate
+368238	subordinate
+368252	subordinate
+368261	subordinate
+368276	subordinate
+368278	coordinate
+368282	coordinate
+368289	subordinate
+368291	subordinate
+coordinate
+368294	coordinate
+368298	coordinate
+subordinate
+coordinate
+368307	coordinate
+368313	coordinate
+368325	subordinate
+368327	subordinate
+368335	subordinate
+368339	coordinate
+368350	coordinate
+368356	coordinate
+368368	subordinate
+coordinate
+368372	coordinate
+368375	coordinate
+368380	coordinate
+368385	coordinate
+368390	subordinate
+368394	coordinate
+368398	coordinate
+coordinate
+subordinate
+368405	coordinate
+368409	coordinate
+subordinate
+368413	coordinate
+368420	subordinate
+368422	subordinate
+368433	subordinate
+368441	subordinate
+coordinate
+368444	coordinate
+368461	subordinate
+coordinate
+368469	coordinate
+subordinate
+coordinate
+368474	coordinate
+368479	subordinate
+coordinate
+368482	coordinate
+368490	subordinate
+368492	coordinate
+subordinate
+368497	coordinate
+368515	subordinate
+coordinate
+368529	coordinate
+368537	subordinate
+368567	subordinate
+368578	subordinate
+368613	subordinate
+coordinate
+368619	coordinate
+368624	coordinate
+368632	subordinate
+368636	subordinate
+368642	subordinate
+368644	subordinate
+368651	coordinate
+368654	coordinate
+368663	subordinate
+368670	subordinate
+368676	subordinate
+subordinate
+coordinate
+368680	coordinate
+368694	coordinate
+368699	coordinate
+368739	subordinate
+368742	coordinate
+368746	coordinate
+368762	subordinate
+368771	coordinate
+subordinate
+coordinate
+coordinate
+coordinate
+368819	subordinate
+368824	subordinate
+368833	subordinate
+368841	subordinate
+368850	coordinate
+368852	coordinate
+368856	subordinate
+368872	coordinate
+368879	coordinate
+368885	subordinate
+368893	subordinate
+368896	coordinate
+368899	subordinate
+368909	coordinate
+368912	coordinate
+368933	subordinate
+368937	coordinate
+368939	coordinate
+368946	subordinate
+368950	coordinate
+368953	coordinate
+368964	coordinate
+coordinate
+368968	coordinate
+368970	coordinate
+coordinate
+368974	coordinate
+368994	subordinate
+369012	subordinate
+369018	coordinate
+369022	coordinate
+369028	coordinate
+369030	subordinate
+369036	coordinate
+369044	subordinate
+369058	subordinate
+369065	subordinate
+369073	subordinate
+369084	coordinate
+369087	coordinate
+subordinate
+369095	subordinate
+369165	subordinate
+369170	coordinate
+subordinate
+coordinate
+369176	coordinate
+subordinate
+coordinate
+369183	coordinate
+369188	coordinate
+369193	coordinate
+369216	subordinate
+coordinate
+369221	coordinate
+369225	coordinate
+369231	coordinate
+369239	coordinate
+369243	coordinate
+369250	coordinate
+369257	coordinate
+369287	subordinate
+369289	subordinate
+369305	subordinate
+369311	subordinate
+369316	coordinate
+369320	coordinate
+369324	subordinate
+369327	subordinate
+subordinate
+369333	coordinate
+369335	coordinate
+coordinate
+369338	coordinate
+369340	coordinate
+369342	coordinate
+369346	subordinate
+369360	subordinate
+369365	subordinate
+369370	subordinate
+369373	subordinate
+369413	coordinate
+369420	coordinate
+369430	coordinate
+369442	coordinate
+369456	subordinate
+subordinate
+369462	subordinate
+369476	subordinate
+369481	subordinate
+369484	coordinate
+369486	coordinate
+369488	coordinate
+369490	coordinate
+369494	coordinate
+subordinate
+369504	coordinate
+369508	subordinate
+coordinate
+369511	coordinate
+369533	subordinate
+369542	subordinate
+369552	subordinate
+369569	coordinate
+369575	coordinate
+369589	subordinate
+369604	coordinate
+369609	coordinate
+369615	subordinate
+369627	subordinate
+coordinate
+369633	coordinate
+369641	subordinate
+369645	coordinate
+369650	coordinate
+369654	subordinate
+369660	subordinate
+369664	subordinate
+369666	subordinate
+369676	coordinate
+369678	coordinate
+369682	coordinate
+369687	coordinate
+369690	subordinate
+coordinate
+369696	coordinate
+369702	coordinate
+369706	coordinate
+369721	coordinate
+369725	coordinate
+subordinate
+coordinate
+369729	coordinate
+369734	subordinate
+369738	subordinate
+subordinate
+369749	subordinate
+coordinate
+369752	coordinate
+369757	coordinate
+369769	coordinate
+subordinate
+369773	coordinate
+369776	subordinate
+369786	coordinate
+369793	coordinate
+369805	subordinate
+subordinate
+subordinate
+coordinate
+369810	coordinate
+369825	subordinate
+369834	subordinate
+369841	subordinate
+369844	subordinate
+369852	coordinate
+369857	subordinate
+369861	coordinate
+369863	coordinate
+369870	subordinate
+369881	coordinate
+369885	subordinate
+369890	subordinate
+369894	subordinate
+369899	subordinate
+369903	coordinate
+369905	coordinate
+coordinate
+369914	subordinate
+369936	coordinate
+369941	coordinate
+369945	coordinate
+369947	coordinate
+369949	coordinate
+369956	coordinate
+369958	subordinate
+369960	coordinate
+369962	subordinate
+369964	subordinate
+369976	subordinate
+369982	subordinate
+subordinate
+369990	coordinate
+370003	subordinate
+370008	subordinate
+370017	subordinate
+370021	coordinate
+370024	subordinate
+370027	coordinate
+370032	subordinate
+370038	subordinate
+370051	subordinate
+370065	subordinate
+370069	subordinate
+370078	subordinate
+coordinate
+370085	coordinate
+370089	subordinate
+370098	coordinate
+370104	coordinate
+370112	coordinate
+370118	coordinate
+370154	coordinate
+coordinate
+370158	coordinate
+370162	coordinate
+coordinate
+370166	coordinate
+370179	subordinate
+subordinate
+370191	coordinate
+370198	coordinate
+370221	coordinate
+370226	coordinate
+370239	subordinate
+370244	subordinate
+370246	coordinate
+370253	subordinate
+370262	subordinate
+370284	coordinate
+370286	coordinate
+370294	coordinate
+370296	subordinate
+370305	coordinate
+370307	coordinate
+370315	coordinate
+370317	subordinate
+370322	subordinate
+370332	subordinate
+370337	coordinate
+370340	subordinate
+370342	coordinate
+370354	subordinate
+subordinate
+coordinate
+370358	coordinate
+370360	coordinate
+370363	coordinate
+coordinate
+370366	coordinate
+370373	coordinate
+subordinate
+370376	coordinate
+370398	subordinate
+subordinate
+370411	subordinate
+subordinate
+370415	subordinate
+370419	coordinate
+370423	coordinate
+370429	subordinate
+370465	subordinate
+370473	coordinate
+370476	subordinate
+subordinate
+subordinate
+370481	coordinate
+370504	coordinate
+coordinate
+370509	coordinate
+subordinate
+370513	coordinate
+coordinate
+370521	coordinate
+coordinate
+370528	coordinate
+coordinate
+370533	coordinate
+370538	coordinate
+coordinate
+370543	coordinate
+coordinate
+370547	coordinate
+370549	coordinate
+coordinate
+370556	coordinate
+370560	coordinate
+370562	coordinate
+370564	coordinate
+370572	subordinate
+370580	subordinate
+370583	coordinate
+subordinate
+370591	coordinate
+370597	coordinate
+370599	coordinate
+370601	coordinate
+370605	subordinate
+370612	subordinate
+coordinate
+subordinate
+370616	coordinate
+subordinate
+370629	coordinate
+coordinate
+370632	coordinate
+370635	coordinate
+coordinate
+subordinate
+370639	coordinate
+370645	coordinate
+370651	coordinate
+370654	coordinate
+370658	coordinate
+coordinate
+370662	coordinate
+370665	coordinate
+370668	coordinate
+370670	coordinate
+370674	coordinate
+370679	subordinate
+370681	coordinate
+370686	subordinate
+370693	coordinate
+coordinate
+370698	subordinate
+subordinate
+370701	coordinate
+370703	coordinate
+coordinate
+subordinate
+370707	coordinate
+370718	coordinate
+370723	coordinate
+370725	coordinate
+370728	coordinate
+370750	coordinate
+370753	coordinate
+370758	coordinate
+coordinate
+370762	coordinate
+370778	coordinate
+370783	coordinate
+370794	coordinate
+370807	coordinate
+370810	coordinate
+370813	coordinate
+370815	coordinate
+370817	coordinate
+370819	coordinate
+370821	coordinate
+370831	subordinate
+370839	coordinate
+370847	coordinate
+370852	coordinate
+370857	subordinate
+coordinate
+370861	coordinate
+370867	subordinate
+370894	subordinate
+370901	subordinate
+370907	subordinate
+370918	coordinate
+coordinate
+370922	coordinate
+370928	coordinate
+370944	subordinate
+370951	coordinate
+370957	subordinate
+coordinate
+370961	coordinate
+370963	subordinate
+coordinate
+370969	coordinate
+370983	subordinate
+370988	subordinate
+370991	coordinate
+371000	subordinate
+371011	subordinate
+371015	subordinate
+371034	subordinate
+371060	coordinate
+371066	coordinate
+371075	coordinate
+371079	coordinate
+371085	subordinate
+coordinate
+371089	coordinate
+371096	coordinate
+371103	coordinate
+coordinate
+371116	coordinate
+371133	subordinate
+371151	subordinate
+371155	coordinate
+subordinate
+371158	coordinate
+371163	coordinate
+subordinate
+371166	coordinate
+371175	subordinate
+371180	coordinate
+subordinate
+371184	subordinate
+371186	subordinate
+371188	coordinate
+371196	subordinate
+coordinate
+371201	coordinate
+371205	coordinate
+subordinate
+coordinate
+subordinate
+subordinate
+371213	coordinate
+371217	coordinate
+371227	coordinate
+371230	coordinate
+coordinate
+371237	coordinate
+371263	subordinate
+371281	subordinate
+371289	subordinate
+371296	subordinate
+subordinate
+coordinate
+371316	coordinate
+371320	coordinate
+371350	subordinate
+371367	coordinate
+371384	coordinate
+371388	coordinate
+371395	coordinate
+371397	subordinate
+371400	coordinate
+371414	subordinate
+371419	subordinate
+subordinate
+371423	subordinate
+371429	coordinate
+371440	coordinate
+371443	subordinate
+371445	subordinate
+subordinate
+371451	subordinate
+371464	coordinate
+subordinate
+371473	subordinate
+371475	coordinate
+subordinate
+371482	coordinate
+371487	coordinate
+371490	coordinate
+371496	coordinate
+subordinate
+371502	coordinate
+371504	coordinate
+subordinate
+371510	subordinate
+371519	subordinate
+371526	coordinate
+subordinate
+371530	coordinate
+coordinate
+371534	coordinate
+371546	coordinate
+371549	coordinate
+371555	subordinate
+subordinate
+371565	subordinate
+371567	subordinate
+371574	subordinate
+371586	coordinate
+subordinate
+subordinate
+371592	subordinate
+371599	subordinate
+371603	coordinate
+coordinate
+subordinate
+371609	coordinate
+371615	coordinate
+coordinate
+371618	coordinate
+371620	coordinate
+371624	subordinate
+371641	subordinate
+coordinate
+371647	coordinate
+371651	subordinate
+371656	subordinate
+371661	subordinate
+371675	subordinate
+371679	subordinate
+371688	subordinate
+371694	coordinate
+371696	subordinate
+subordinate
+371704	coordinate
+371720	subordinate
+371725	subordinate
+371727	subordinate
+371738	coordinate
+subordinate
+371745	coordinate
+371751	coordinate
+subordinate
+371755	coordinate
+subordinate
+subordinate
+371764	coordinate
+371766	subordinate
+371793	subordinate
+371800	coordinate
+coordinate
+subordinate
+371812	coordinate
+371827	subordinate
+371847	subordinate
+371851	subordinate
+371866	coordinate
+371872	coordinate
+371881	subordinate
+371888	subordinate
+371913	coordinate
+371918	coordinate
+371925	subordinate
+371930	subordinate
+371934	coordinate
+371936	coordinate
+371938	coordinate
+371953	subordinate
+371959	subordinate
+371964	subordinate
+371983	subordinate
+371988	subordinate
+372002	coordinate
+372011	coordinate
+372034	coordinate
+372039	coordinate
+372047	subordinate
+372058	subordinate
+372077	subordinate
+372084	subordinate
+372089	subordinate
+372093	subordinate
+372104	subordinate
+372111	subordinate
+372113	subordinate
+coordinate
+372119	coordinate
+372128	subordinate
+372143	subordinate
+372154	subordinate
+372166	coordinate
+subordinate
+372174	coordinate
+subordinate
+372181	coordinate
+coordinate
+372184	subordinate
+372190	coordinate
+372195	coordinate
+subordinate
+subordinate
+372199	subordinate
+subordinate
+372216	subordinate
+372220	coordinate
+372225	subordinate
+coordinate
+372229	coordinate
+subordinate
+372233	subordinate
+372245	subordinate
+subordinate
+372264	coordinate
+subordinate
+372267	subordinate
+372276	coordinate
+subordinate
+372279	coordinate
+coordinate
+372283	coordinate
+372289	coordinate
+coordinate
+372292	coordinate
+372294	coordinate
+372298	subordinate
+372314	coordinate
+subordinate
+372320	coordinate
+372327	subordinate
+372331	subordinate
+subordinate
+372339	subordinate
+372354	subordinate
+subordinate
+372360	coordinate
+subordinate
+372366	coordinate
+372372	coordinate
+372379	subordinate
+372385	subordinate
+372389	subordinate
+372393	subordinate
+372417	subordinate
+372428	coordinate
+coordinate
+372435	coordinate
+372438	coordinate
+coordinate
+372445	coordinate
+372451	coordinate
+372454	coordinate
+372465	coordinate
+subordinate
+372471	coordinate
+372481	subordinate
+372492	subordinate
+372502	coordinate
+372506	coordinate
+372508	coordinate
+372517	subordinate
+372521	subordinate
+372535	subordinate
+372542	subordinate
+coordinate
+372547	coordinate
+372559	coordinate
+372561	coordinate
+372568	coordinate
+372572	coordinate
+372579	coordinate
+coordinate
+subordinate
+372589	coordinate
+subordinate
+372615	subordinate
+coordinate
+372619	coordinate
+372626	coordinate
+372628	coordinate
+372634	subordinate
+372636	subordinate
+372646	subordinate
+372656	subordinate
+coordinate
+372660	coordinate
+372670	subordinate
+subordinate
+372674	coordinate
+372676	coordinate
+372680	coordinate
+372684	coordinate
+subordinate
+372687	subordinate
+372691	coordinate
+subordinate
+372702	subordinate
+coordinate
+372707	coordinate
+372711	coordinate
+372718	coordinate
+372722	subordinate
+372732	coordinate
+372748	subordinate
+372750	subordinate
+372760	coordinate
+372772	coordinate
+372779	coordinate
+372782	coordinate
+coordinate
+372789	coordinate
+372799	subordinate
+372804	subordinate
+372810	subordinate
+372813	subordinate
+372817	coordinate
+372819	coordinate
+372821	coordinate
+372844	coordinate
+subordinate
+372850	coordinate
+372854	coordinate
+372858	subordinate
+372860	coordinate
+372862	coordinate
+372866	subordinate
+372870	subordinate
+372885	subordinate
+372900	subordinate
+372904	subordinate
+372907	coordinate
+coordinate
+372910	coordinate
+372916	coordinate
+372918	coordinate
+coordinate
+coordinate
+372922	subordinate
+372927	subordinate
+372944	subordinate
+coordinate
+372954	subordinate
+372956	coordinate
+372958	coordinate
+372961	coordinate
+372965	coordinate
+372971	coordinate
+372975	coordinate
+subordinate
+372980	subordinate
+372988	subordinate
+372999	coordinate
+373002	coordinate
+373014	subordinate
+373020	subordinate
+373034	coordinate
+373036	subordinate
+373046	coordinate
+373048	coordinate
+373058	coordinate
+373062	subordinate
+373066	coordinate
+373068	coordinate
+373080	coordinate
+373138	subordinate
+373140	coordinate
+subordinate
+373144	coordinate
+373147	subordinate
+373150	coordinate
+subordinate
+373155	subordinate
+373176	coordinate
+subordinate
+373187	subordinate
+coordinate
+373190	coordinate
+373214	subordinate
+373234	subordinate
+373236	coordinate
+373242	coordinate
+373255	coordinate
+subordinate
+373259	coordinate
+373269	subordinate
+373276	coordinate
+373278	coordinate
+373282	coordinate
+subordinate
+373289	coordinate
+subordinate
+373303	subordinate
+373306	coordinate
+373308	coordinate
+373312	coordinate
+subordinate
+373317	coordinate
+subordinate
+373352	subordinate
+coordinate
+373357	coordinate
+373361	coordinate
+373367	coordinate
+subordinate
+373375	subordinate
+subordinate
+373381	coordinate
+373384	coordinate
+373399	subordinate
+373408	subordinate
+373421	subordinate
+373430	subordinate
+373437	subordinate
+373447	subordinate
+373454	subordinate
+373466	coordinate
+subordinate
+373474	coordinate
+subordinate
+373487	subordinate
+373518	subordinate
+373522	coordinate
+373527	coordinate
+373537	coordinate
+373549	subordinate
+373557	subordinate
+373566	subordinate
+373568	subordinate
+coordinate
+373578	subordinate
+373580	coordinate
+373584	subordinate
+373588	coordinate
+373591	coordinate
+373595	coordinate
+subordinate
+373602	coordinate
+373607	coordinate
+subordinate
+373618	coordinate
+subordinate
+373624	subordinate
+373628	subordinate
+373633	coordinate
+373636	coordinate
+373640	coordinate
+373642	coordinate
+373644	subordinate
+373647	subordinate
+373653	coordinate
+subordinate
+373660	coordinate
+subordinate
+373669	subordinate
+373680	subordinate
+373684	subordinate
+373689	subordinate
+373693	subordinate
+373698	subordinate
+373710	subordinate
+373722	subordinate
+373727	coordinate
+373731	coordinate
+373742	coordinate
+373745	coordinate
+373749	subordinate
+coordinate
+373755	subordinate
+373763	subordinate
+373777	coordinate
+coordinate
+373785	coordinate
+373789	coordinate
+373796	coordinate
+coordinate
+373802	subordinate
+373808	subordinate
+coordinate
+373812	coordinate
+373817	coordinate
+373821	subordinate
+373825	coordinate
+373832	subordinate
+373834	coordinate
+373840	coordinate
+373846	subordinate
+373854	subordinate
+373859	coordinate
+373862	coordinate
+373866	coordinate
+373872	coordinate
+373878	coordinate
+373889	subordinate
+373894	subordinate
+coordinate
+373898	coordinate
+373909	coordinate
+373912	coordinate
+subordinate
+373916	subordinate
+373924	subordinate
+373929	subordinate
+373935	subordinate
+373947	coordinate
+373949	subordinate
+subordinate
+373966	coordinate
+coordinate
+coordinate
+coordinate
+coordinate
+coordinate
+373981	subordinate
+373994	subordinate
+subordinate
+373997	coordinate
+coordinate
+374001	coordinate
+374006	coordinate
+374008	coordinate
+374011	coordinate
+374017	subordinate
+374020	subordinate
+374022	subordinate
+374043	coordinate
+subordinate
+374048	coordinate
+374056	subordinate
+374061	subordinate
+374065	subordinate
+374068	coordinate
+374071	coordinate
+374075	subordinate
+374079	coordinate
+374081	coordinate
+374083	subordinate
+374098	subordinate
+subordinate
+374109	subordinate
+374117	coordinate
+374119	subordinate
+374131	coordinate
+374136	coordinate
+374139	coordinate
+374150	subordinate
+374157	subordinate
+374168	subordinate
+374172	subordinate
+374179	coordinate
+374184	coordinate
+subordinate
+374193	subordinate
+374201	coordinate
+subordinate
+374205	subordinate
+374214	subordinate
+374232	coordinate
+374235	coordinate
+374237	subordinate
+374245	subordinate
+374253	subordinate
+374266	subordinate
+374271	coordinate
+374276	coordinate
+374289	subordinate
+374298	coordinate
+374301	coordinate
+374305	subordinate
+374309	subordinate
+374314	subordinate
+subordinate
+374324	subordinate
+374327	coordinate
+374330	coordinate
+374335	coordinate
+subordinate
+subordinate
+374349	coordinate
+coordinate
+coordinate
+374359	coordinate
+coordinate
+374363	coordinate
+374368	coordinate
+374370	coordinate
+374372	coordinate
+374374	coordinate
+374386	subordinate
+coordinate
+374389	coordinate
+374404	subordinate
+coordinate
+374408	coordinate
+374417	subordinate
+374420	subordinate
+374422	subordinate
+374426	subordinate
+374434	coordinate
+374438	coordinate
+coordinate
+374447	subordinate
+374449	coordinate
+374456	subordinate
+374465	subordinate
+374469	coordinate
+374474	coordinate
+374478	coordinate
+374482	coordinate
+subordinate
+374485	subordinate
+374489	coordinate
+subordinate
+374492	subordinate
+374495	subordinate
+374499	subordinate
+coordinate
+374502	coordinate
+coordinate
+374505	coordinate
+374522	subordinate
+374538	subordinate
+374550	coordinate
+subordinate
+374556	subordinate
+374567	coordinate
+subordinate
+374573	coordinate
+coordinate
+374576	coordinate
+374581	subordinate
+coordinate
+374585	coordinate
+374596	coordinate
+374603	coordinate
+subordinate
+coordinate
+374607	coordinate
+374610	subordinate
+374615	subordinate
+374629	subordinate
+374643	subordinate
+374653	coordinate
+subordinate
+coordinate
+374658	coordinate
+374661	subordinate
+374668	coordinate
+374672	coordinate
+374677	coordinate
+374685	coordinate
+coordinate
+374690	coordinate
+374710	subordinate
+374743	coordinate
+374747	coordinate
+374756	coordinate
+374776	coordinate
+374781	coordinate
+374787	coordinate
+374791	coordinate
+subordinate
+374806	coordinate
+374831	subordinate
+374835	coordinate
+subordinate
+374841	coordinate
+374845	subordinate
+374851	coordinate
+coordinate
+subordinate
+374863	subordinate
+374877	subordinate
+374885	subordinate
+374892	subordinate
+coordinate
+374895	coordinate
+374897	coordinate
+374900	coordinate
+374906	coordinate
+374908	coordinate
+374916	subordinate
+374920	subordinate
+374928	subordinate
+374937	coordinate
+374941	coordinate
+374947	subordinate
+374953	subordinate
+374964	coordinate
+374967	coordinate
+374975	coordinate
+374985	coordinate
+374994	subordinate
+375000	subordinate
+375018	subordinate
+375030	subordinate
+375034	coordinate
+375038	subordinate
+375044	subordinate
+375047	subordinate
+375078	coordinate
+coordinate
+coordinate
+375085	coordinate
+375087	coordinate
+375093	coordinate
+subordinate
+375103	coordinate
+375105	coordinate
+375107	coordinate
+375110	coordinate
+375112	coordinate
+375114	coordinate
+375119	subordinate
+375127	subordinate
+375139	coordinate
+375141	coordinate
+375143	coordinate
+375146	coordinate
+375152	coordinate
+375167	subordinate
+375176	coordinate
+375178	coordinate
+375184	coordinate
+subordinate
+375189	coordinate
+375194	subordinate
+375206	coordinate
+375230	coordinate
+375233	coordinate
+375241	coordinate
+375247	coordinate
+375249	subordinate
+375255	coordinate
+375265	subordinate
+375270	subordinate
+375284	subordinate
+subordinate
+375288	subordinate
+375293	subordinate
+375309	coordinate
+375312	subordinate
+375318	coordinate
+subordinate
+375346	subordinate
+375349	coordinate
+375354	coordinate
+375362	subordinate
+375370	coordinate
+375373	coordinate
+subordinate
+375380	coordinate
+375389	coordinate
+375392	coordinate
+375398	coordinate
+375404	coordinate
+subordinate
+375412	subordinate
+375419	subordinate
+375427	subordinate
+375431	subordinate
+375433	subordinate
+375437	subordinate
+375444	subordinate
+375454	subordinate
+375473	coordinate
+375475	coordinate
+375478	subordinate
+375481	subordinate
+375496	coordinate
+375498	coordinate
+375507	subordinate
+375514	coordinate
+subordinate
+375517	coordinate
+375521	subordinate
+375551	coordinate
+375554	coordinate
+375561	coordinate
+subordinate
+375564	coordinate
+subordinate
+375568	coordinate
+375573	subordinate
+subordinate
+375576	coordinate
+375582	subordinate
+subordinate
+375585	coordinate
+375591	coordinate
+375602	coordinate
+375604	subordinate
+375606	coordinate
+subordinate
+375636	subordinate
+375640	subordinate
+375643	subordinate
+coordinate
+375647	coordinate
+375654	coordinate
+375661	coordinate
+375693	coordinate
+375696	coordinate
+375700	subordinate
+375721	subordinate
+375762	subordinate
+375765	coordinate
+375773	coordinate
+375806	subordinate
+375817	subordinate
+375823	coordinate
+subordinate
+375826	coordinate
+375830	subordinate
+375851	coordinate
+375853	subordinate
+375858	coordinate
+375865	coordinate
+375867	coordinate
+375871	coordinate
+coordinate
+375875	coordinate
+375881	coordinate
+375884	subordinate
+375898	coordinate
+coordinate
+375903	coordinate
+375906	coordinate
+375923	subordinate
+375930	subordinate
+coordinate
+375935	coordinate
+375944	subordinate
+375952	subordinate
+375965	coordinate
+subordinate
+375968	coordinate
+subordinate
+375979	subordinate
+375986	subordinate
+coordinate
+375989	coordinate
+subordinate
+376000	subordinate
+coordinate
+376006	subordinate
+376010	subordinate
+376022	coordinate
+subordinate
+376028	coordinate
+subordinate
+376042	coordinate
+376045	coordinate
+376054	coordinate
+subordinate
+376060	coordinate
+subordinate
+376073	coordinate
+376076	coordinate
+376134	subordinate
+coordinate
+376143	coordinate
+376157	subordinate
+376166	coordinate
+376169	coordinate
+376178	subordinate
+coordinate
+376187	coordinate
+376200	subordinate
+376212	subordinate
+376215	subordinate
+376218	coordinate
+376220	coordinate
+376228	subordinate
+376230	coordinate
+376233	coordinate
+376244	subordinate
+coordinate
+coordinate
+376251	coordinate
+376259	subordinate
+376306	coordinate
+376311	coordinate
+coordinate
+376318	coordinate
+376323	subordinate
+376366	coordinate
+376369	coordinate
+376374	coordinate
+376385	coordinate
+376398	subordinate
+376401	subordinate
+376409	coordinate
+subordinate
+376415	coordinate
+376418	subordinate
+376425	subordinate
+376452	coordinate
+376454	coordinate
+376466	subordinate
+376475	coordinate
+376483	coordinate
+376487	subordinate
+376498	coordinate
+subordinate
+376501	coordinate
+376506	coordinate
+coordinate
+376510	coordinate
+376513	coordinate
+376524	coordinate
+coordinate
+376528	coordinate
+376530	coordinate
+376541	coordinate
+376543	coordinate
+376545	coordinate
+376549	coordinate
+376552	coordinate
+376573	coordinate
+376585	coordinate
+376592	subordinate
+subordinate
+376619	subordinate
+376629	subordinate
+376649	subordinate
+376660	coordinate
+376667	coordinate
+376673	subordinate
+376690	coordinate
+376693	coordinate
+376698	coordinate
+376702	coordinate
+376706	subordinate
+subordinate
+subordinate
+subordinate
+376732	subordinate
+376735	subordinate
+coordinate
+376740	coordinate
+376755	coordinate
+376763	coordinate
+376768	coordinate
+376773	coordinate
+376780	coordinate
+376788	coordinate
+376794	coordinate
+subordinate
+376810	coordinate
+376816	coordinate
+376836	subordinate
+coordinate
+376841	coordinate
+376849	subordinate
+subordinate
+376864	subordinate
+376869	coordinate
+376875	coordinate
+376896	subordinate
+376902	subordinate
+376915	subordinate
+coordinate
+376931	subordinate
+376938	subordinate
+coordinate
+376942	coordinate
+376955	coordinate
+376957	coordinate
+376963	coordinate
+376965	coordinate
+376988	coordinate
+376991	coordinate
+376993	subordinate
+377002	subordinate
+377031	subordinate
+subordinate
+377049	subordinate
+377061	coordinate
+coordinate
+subordinate
+377067	coordinate
+377074	coordinate
+377088	coordinate
+coordinate
+377091	coordinate
+377112	subordinate
+377121	coordinate
+377125	coordinate
+377130	subordinate
+377148	coordinate
+377150	coordinate
+377163	coordinate
+377168	coordinate
+377182	subordinate
+377195	coordinate
+377199	coordinate
+377203	coordinate
+377205	subordinate
+377209	coordinate
+coordinate
+377216	coordinate
+377232	subordinate
+377242	subordinate
+377250	subordinate
+coordinate
+coordinate
+coordinate
+subordinate
+377258	coordinate
+377263	coordinate
+377266	coordinate
+377269	coordinate
+377271	coordinate
+377277	coordinate
+377280	coordinate
+subordinate
+377288	coordinate
+377299	coordinate
+377303	subordinate
+377305	coordinate
+377313	coordinate
+377321	coordinate
+377326	subordinate
+377364	subordinate
+377401	subordinate
+377415	subordinate
+coordinate
+subordinate
+377419	coordinate
+subordinate
+377422	coordinate
+subordinate
+subordinate
+377434	subordinate
+377445	coordinate
+subordinate
+377448	coordinate
+subordinate
+377451	subordinate
+coordinate
+subordinate
+377458	coordinate
+377460	subordinate
+377466	coordinate
+377470	coordinate
+377478	coordinate
+coordinate
+377484	coordinate
+377491	subordinate
+377514	subordinate
+coordinate
+377523	coordinate
+377533	coordinate
+377541	subordinate
+coordinate
+377548	coordinate
+377550	coordinate
+377555	coordinate
+377575	subordinate
+377581	coordinate
+coordinate
+377584	coordinate
+subordinate
+coordinate
+coordinate
+377589	coordinate
+coordinate
+coordinate
+377593	coordinate
+coordinate
+coordinate
+377597	coordinate
+coordinate
+coordinate
+377601	coordinate
+coordinate
+coordinate
+377606	coordinate
+377614	coordinate
+377616	coordinate
+coordinate
+subordinate
+377620	coordinate
+377622	coordinate
+coordinate
+377625	coordinate
+377627	coordinate
+377629	coordinate
+coordinate
+subordinate
+377633	coordinate
+377635	coordinate
+coordinate
+377638	coordinate
+377640	coordinate
+377642	coordinate
+subordinate
+subordinate
+subordinate
+377649	coordinate
+377654	subordinate
+377660	subordinate
+377690	coordinate
+coordinate
+377693	coordinate
+subordinate
+coordinate
+coordinate
+377698	coordinate
+coordinate
+coordinate
+377702	coordinate
+coordinate
+coordinate
+377706	coordinate
+coordinate
+coordinate
+377712	coordinate
+377720	coordinate
+subordinate
+subordinate
+subordinate
+377725	subordinate
+377732	coordinate
+377740	subordinate
+377747	coordinate
+377751	coordinate
+377761	subordinate
+377772	coordinate
+377777	coordinate
+377786	coordinate
+377803	subordinate
+coordinate
+377807	coordinate
+377816	subordinate
+377831	coordinate
+subordinate
+377836	coordinate
+377844	subordinate
+377854	subordinate
+coordinate
+377857	coordinate
+377861	subordinate
+377873	coordinate
+377877	coordinate
+377881	subordinate
+377895	subordinate
+377903	subordinate
+377908	subordinate
+377918	subordinate
+377929	subordinate
+377942	subordinate
+377948	coordinate
+377970	coordinate
+377974	subordinate
+377977	coordinate
+378001	subordinate
+subordinate
+378010	subordinate
+378022	coordinate
+378028	subordinate
+378031	coordinate
+378043	subordinate
+378049	subordinate
+378064	coordinate
+subordinate
+coordinate
+378069	coordinate
+378072	subordinate
+378084	subordinate
+coordinate
+378087	coordinate
+378093	subordinate
+378120	subordinate
+378130	subordinate
+378148	coordinate
+378151	coordinate
+378156	coordinate
+378165	subordinate
+378169	subordinate
+378182	subordinate
+subordinate
+378189	subordinate
+subordinate
+378201	coordinate
+378206	subordinate
+378212	subordinate
+subordinate
+378217	subordinate
+378224	subordinate
+coordinate
+378227	coordinate
+378236	coordinate
+378238	coordinate
+378243	subordinate
+378254	subordinate
+378259	coordinate
+coordinate
+subordinate
+coordinate
+subordinate
+378267	coordinate
+coordinate
+378272	coordinate
+subordinate
+378278	subordinate
+378284	coordinate
+378286	coordinate
+378288	subordinate
+378293	coordinate
+378296	coordinate
+378300	subordinate
+378308	subordinate
+378310	subordinate
+378318	subordinate
+subordinate
+378321	subordinate
+378328	subordinate
+subordinate
+378331	subordinate
+378336	coordinate
+378344	coordinate
+378346	coordinate
+378348	coordinate
+378351	coordinate
+378368	coordinate
+378373	coordinate
+378395	subordinate
+378401	subordinate
+378406	coordinate
+378416	coordinate
+subordinate
+378422	coordinate
+378426	coordinate
+378430	subordinate
+378435	coordinate
+subordinate
+378453	subordinate
+378463	coordinate
+subordinate
+378468	coordinate
+378478	subordinate
+378487	coordinate
+378490	subordinate
+378496	subordinate
+378498	coordinate
+378502	subordinate
+378504	coordinate
+378506	coordinate
+378510	subordinate
+378518	subordinate
+378537	coordinate
+378545	coordinate
+subordinate
+378549	subordinate
+378563	subordinate
+378565	coordinate
+378572	subordinate
+378575	subordinate
+coordinate
+378581	coordinate
+378587	subordinate
+378608	subordinate
+378618	coordinate
+378623	subordinate
+coordinate
+378632	coordinate
+378653	subordinate
+378657	coordinate
+coordinate
+378663	coordinate
+378665	coordinate
+378695	subordinate
+378703	coordinate
+378722	subordinate
+378731	subordinate
+378737	subordinate
+coordinate
+378757	subordinate
+subordinate
+378762	subordinate
+378777	subordinate
+subordinate
+378782	coordinate
+subordinate
+378785	coordinate
+378796	subordinate
+378804	subordinate
+378816	coordinate
+subordinate
+378822	coordinate
+subordinate
+378828	subordinate
+378832	subordinate
+378836	subordinate
+378841	subordinate
+378867	coordinate
+378880	coordinate
+378887	subordinate
+378922	subordinate
+378930	subordinate
+378937	subordinate
+378947	subordinate
+378956	subordinate
+378987	subordinate
+379000	coordinate
+379003	coordinate
+379008	subordinate
+379011	subordinate
+379049	coordinate
+379051	coordinate
+subordinate
+379066	subordinate
+379080	coordinate
+379084	subordinate
+379087	subordinate
+379093	subordinate
+379103	coordinate
+subordinate
+379107	coordinate
+subordinate
+379114	coordinate
+379119	coordinate
+subordinate
+379128	coordinate
+subordinate
+379133	coordinate
+379140	coordinate
+379142	subordinate
+379144	coordinate
+379147	coordinate
+379151	coordinate
+379158	subordinate
+379161	subordinate
+379165	subordinate
+379171	subordinate
+379174	subordinate
+379179	subordinate
+379181	subordinate
+379186	subordinate
+subordinate
+379191	coordinate
+subordinate
+379195	subordinate
+379197	coordinate
+subordinate
+379219	coordinate
+379222	coordinate
+379229	subordinate
+coordinate
+379239	coordinate
+379242	coordinate
+379245	coordinate
+379248	subordinate
+379252	coordinate
+379258	subordinate
+379266	subordinate
+379269	coordinate
+379276	coordinate
+379285	subordinate
+379328	subordinate
+379342	subordinate
+379348	subordinate
+coordinate
+379353	coordinate
+379355	coordinate
+379357	coordinate
+379368	subordinate
+379373	subordinate
+379379	coordinate
+379388	coordinate
+379391	coordinate
+379394	coordinate
+379397	coordinate
+coordinate
+379403	subordinate
+379405	coordinate
+subordinate
+379416	coordinate
+379427	subordinate
+379443	subordinate
+379449	subordinate
+379484	subordinate
+379492	subordinate
+379496	coordinate
+subordinate
+379503	coordinate
+379513	coordinate
+subordinate
+379551	subordinate
+379558	subordinate
+379564	coordinate
+coordinate
+subordinate
+379575	coordinate
+379589	subordinate
+379593	subordinate
+379595	subordinate
+379613	subordinate
+379622	coordinate
+379624	subordinate
+coordinate
+379628	coordinate
+379631	coordinate
+379636	coordinate
+379641	coordinate
+379648	coordinate
+379655	coordinate
+379660	subordinate
+379676	subordinate
+379679	subordinate
+379690	subordinate
+379695	coordinate
+379709	subordinate
+379716	subordinate
+379727	coordinate
+subordinate
+379732	coordinate
+379756	subordinate
+379766	subordinate
+coordinate
+379771	coordinate
+379781	subordinate
+379787	subordinate
+379791	coordinate
+379793	coordinate
+379798	subordinate
+379800	subordinate
+379813	coordinate
+coordinate
+379825	coordinate
+subordinate
+379828	coordinate
+379832	subordinate
+379846	subordinate
+379861	subordinate
+379917	subordinate
+379925	coordinate
+379935	coordinate
+379940	subordinate
+379947	subordinate
+coordinate
+coordinate
+379952	coordinate
+379958	coordinate
+379971	subordinate
+subordinate
+379979	coordinate
+379981	coordinate
+379991	coordinate
+379996	coordinate
+380003	subordinate
+380006	subordinate
+coordinate
+380010	coordinate
+380036	coordinate
+380040	subordinate
+380044	coordinate
+coordinate
+380049	coordinate
+380061	subordinate
+coordinate
+380071	coordinate
+380074	coordinate
+380079	coordinate
+380081	coordinate
+380087	subordinate
+380092	subordinate
+380108	coordinate
+380111	coordinate
+subordinate
+380117	subordinate
+380122	coordinate
+subordinate
+380134	subordinate
+380139	coordinate
+380143	subordinate
+380160	subordinate
+380173	coordinate
+subordinate
+380176	coordinate
+380178	subordinate
+380183	coordinate
+380191	coordinate
+380201	subordinate
+380214	coordinate
+380216	coordinate
+380221	subordinate
+coordinate
+380227	coordinate
+380233	subordinate
+subordinate
+380244	coordinate
+380250	coordinate
+380264	subordinate
+380278	coordinate
+380281	subordinate
+380283	coordinate
+380288	subordinate
+subordinate
+380294	coordinate
+380297	coordinate
+380325	coordinate
+380327	subordinate
+380330	coordinate
+coordinate
+380335	subordinate
+380338	subordinate
+380342	coordinate
+380344	subordinate
+380346	coordinate
+380354	coordinate
+380360	coordinate
+coordinate
+380375	subordinate
+380377	subordinate
+380380	subordinate
+380385	subordinate
+coordinate
+380394	coordinate
+380400	subordinate
+coordinate
+380403	coordinate
+380408	subordinate
+subordinate
+380413	coordinate
+subordinate
+subordinate
+380426	coordinate
+380430	coordinate
+380434	coordinate
+subordinate
+380442	coordinate
+380445	coordinate
+380448	coordinate
+380452	subordinate
+380458	coordinate
+subordinate
+subordinate
+coordinate
+380463	coordinate
+380465	subordinate
+subordinate
+subordinate
+380470	coordinate
+380490	coordinate
+subordinate
+subordinate
+380498	coordinate
+380503	subordinate
+380506	subordinate
+380511	coordinate
+subordinate
+subordinate
+380520	coordinate
+subordinate
+380529	subordinate
+380543	subordinate
+coordinate
+380555	subordinate
+380557	subordinate
+380578	coordinate
+380587	coordinate
+380589	coordinate
+coordinate
+380594	coordinate
+380596	coordinate
+380603	subordinate
+380613	coordinate
+380617	coordinate
+380624	coordinate
+380626	coordinate
+subordinate
+380630	subordinate
+subordinate
+coordinate
+380634	coordinate
+380647	coordinate
+380652	coordinate
+380656	coordinate
+subordinate
+subordinate
+380670	subordinate
+380674	coordinate
+subordinate
+380680	coordinate
+380691	subordinate
+coordinate
+380694	coordinate
+380719	subordinate
+380722	coordinate
+380726	coordinate
+380731	coordinate
+subordinate
+coordinate
+380746	coordinate
+380750	coordinate
+380760	coordinate
+380773	subordinate
+380776	subordinate
+380783	subordinate
+380789	subordinate
+380793	coordinate
+380807	subordinate
+coordinate
+380816	coordinate
+380821	coordinate
+coordinate
+380829	subordinate
+coordinate
+380834	coordinate
+coordinate
+380838	coordinate
+380841	coordinate
+380848	coordinate
+subordinate
+380855	coordinate
+380858	subordinate
+subordinate
+380867	subordinate
+380875	subordinate
+coordinate
+380878	coordinate
+380886	coordinate
+380894	coordinate
+380901	subordinate
+subordinate
+380905	coordinate
+380914	coordinate
+380919	coordinate
+380940	subordinate
+subordinate
+380952	subordinate
+380970	subordinate
+380972	coordinate
+380974	coordinate
+380976	coordinate
+380978	coordinate
+380985	subordinate
+380987	subordinate
+380999	coordinate
+381001	coordinate
+381007	subordinate
+381013	subordinate
+381049	subordinate
+subordinate
+381063	subordinate
+381067	subordinate
+381070	subordinate
+subordinate
+381075	coordinate
+381079	subordinate
+subordinate
+381082	coordinate
+381093	subordinate
+381097	coordinate
+coordinate
+381102	coordinate
+subordinate
+381105	coordinate
+381112	coordinate
+subordinate
+381116	coordinate
+subordinate
+subordinate
+coordinate
+381121	coordinate
+subordinate
+381127	coordinate
+381130	coordinate
+coordinate
+381134	coordinate
+coordinate
+381146	coordinate
+381178	subordinate
+subordinate
+subordinate
+381184	subordinate
+381187	subordinate
+381201	coordinate
+381204	coordinate
+381214	subordinate
+381217	subordinate
+381222	subordinate
+381224	subordinate
+381231	subordinate
+381235	subordinate
+381240	subordinate
+coordinate
+381245	coordinate
+coordinate
+subordinate
+coordinate
+381253	subordinate
+subordinate
+381262	subordinate
+381265	coordinate
+381288	coordinate
+subordinate
+381298	coordinate
+381306	coordinate
+381314	coordinate
+subordinate
+381317	subordinate
+381321	coordinate
+381338	subordinate
+381348	subordinate
+381376	subordinate
+381382	coordinate
+381385	subordinate
+subordinate
+subordinate
+381392	coordinate
+381403	coordinate
+381415	subordinate
+381424	coordinate
+coordinate
+381429	coordinate
+coordinate
+381433	coordinate
+381435	coordinate
+coordinate
+coordinate
+381444	coordinate
+381450	coordinate
+381453	subordinate
+381456	coordinate
+381461	coordinate
+coordinate
+381466	coordinate
+coordinate
+coordinate
+381471	coordinate
+381473	coordinate
+381475	coordinate
+coordinate
+381482	coordinate
+coordinate
+subordinate
+381488	coordinate
+381499	subordinate
+subordinate
+381505	subordinate
+381517	coordinate
+381524	coordinate
+381531	subordinate
+coordinate
+coordinate
+subordinate
+381536	coordinate
+381538	coordinate
+coordinate
+subordinate
+381542	coordinate
+381544	coordinate
+381546	coordinate
+381551	coordinate
+381555	coordinate
+381566	coordinate
+381574	coordinate
+381576	subordinate
+381578	coordinate
+381581	coordinate
+381596	coordinate
+subordinate
+subordinate
+381602	coordinate
+coordinate
+381606	coordinate
+381623	coordinate
+381628	coordinate
+coordinate
+381643	subordinate
+381646	coordinate
+381658	coordinate
+381661	coordinate
+381663	coordinate
+381678	subordinate
+coordinate
+381683	coordinate
+381689	subordinate
+381698	subordinate
+381701	subordinate
+381703	coordinate
+coordinate
+subordinate
+381710	subordinate
+subordinate
+381721	coordinate
+subordinate
+381726	coordinate
+381733	coordinate
+381737	subordinate
+381748	subordinate
+coordinate
+381754	coordinate
+coordinate
+381761	coordinate
+381767	subordinate
+381772	coordinate
+coordinate
+coordinate
+381781	subordinate
+381785	subordinate
+381791	coordinate
+381796	coordinate
+381804	coordinate
+subordinate
+subordinate
+381818	subordinate
+coordinate
+381821	coordinate
+381825	coordinate
+381827	subordinate
+subordinate
+subordinate
+381843	subordinate
+subordinate
+381848	coordinate
+381851	coordinate
+381870	subordinate
+381873	subordinate
+381877	coordinate
+381883	coordinate
+381887	coordinate
+381891	subordinate
+subordinate
+381899	subordinate
+381905	coordinate
+381911	subordinate
+381916	coordinate
+subordinate
+381928	coordinate
+381931	coordinate
+381942	coordinate
+381950	subordinate
+381987	coordinate
+381989	subordinate
+381993	coordinate
+381997	coordinate
+coordinate
+382002	coordinate
+382005	coordinate
+subordinate
+382010	coordinate
+382022	coordinate
+382026	coordinate
+coordinate
+subordinate
+382032	coordinate
+382034	coordinate
+382036	subordinate
+382071	subordinate
+382076	subordinate
+382087	subordinate
+382097	subordinate
+382105	coordinate
+subordinate
+382113	coordinate
+coordinate
+382122	coordinate
+382128	coordinate
+382132	coordinate
+382142	subordinate
+382150	coordinate
+382154	coordinate
+coordinate
+subordinate
+382160	subordinate
+coordinate
+382163	coordinate
+382168	coordinate
+382179	coordinate
+382185	subordinate
+subordinate
+382200	subordinate
+382205	coordinate
+382208	coordinate
+382215	coordinate
+subordinate
+coordinate
+382220	coordinate
+382224	coordinate
+coordinate
+382227	coordinate
+subordinate
+382231	subordinate
+382234	coordinate
+382238	coordinate
+382249	coordinate
+382255	coordinate
+382259	subordinate
+382261	coordinate
+coordinate
+subordinate
+382268	coordinate
+382276	subordinate
+382279	subordinate
+coordinate
+382282	coordinate
+382290	coordinate
+382293	coordinate
+382298	subordinate
+coordinate
+382304	coordinate
+382308	coordinate
+382313	coordinate
+coordinate
+382316	coordinate
+382319	subordinate
+382323	subordinate
+382334	subordinate
+382341	coordinate
+382357	subordinate
+382359	subordinate
+382363	subordinate
+382375	coordinate
+subordinate
+382384	subordinate
+382390	coordinate
+382392	subordinate
+382395	subordinate
+subordinate
+382398	coordinate
+382400	coordinate
+382412	coordinate
+382415	coordinate
+382436	subordinate
+subordinate
+382446	subordinate
+382449	subordinate
+382460	coordinate
+382466	coordinate
+coordinate
+382470	subordinate
+382475	subordinate
+382481	coordinate
+382484	coordinate
+382491	coordinate
+subordinate
+382503	coordinate
+subordinate
+382509	subordinate
+382525	coordinate
+382528	coordinate
+382530	subordinate
+382545	subordinate
+382549	coordinate
+coordinate
+382552	coordinate
+382557	coordinate
+382565	subordinate
+382572	subordinate
+382575	coordinate
+382577	coordinate
+382583	coordinate
+382622	subordinate
+382638	subordinate
+382641	subordinate
+subordinate
+382655	subordinate
+382659	coordinate
+382662	coordinate
+subordinate
+382666	coordinate
+382679	subordinate
+382681	coordinate
+coordinate
+coordinate
+coordinate
+382688	coordinate
+coordinate
+382691	coordinate
+382697	coordinate
+382703	subordinate
+382706	coordinate
+382709	coordinate
+382712	coordinate
+382714	subordinate
+382727	subordinate
+382729	subordinate
+382731	coordinate
+382734	coordinate
+coordinate
+382738	coordinate
+382746	subordinate
+382753	coordinate
+382759	coordinate
+382774	subordinate
+382780	subordinate
+382789	coordinate
+382792	subordinate
+382805	subordinate
+382813	subordinate
+382821	coordinate
+coordinate
+382825	coordinate
+subordinate
+382828	coordinate
+382832	coordinate
+coordinate
+382836	subordinate
+382841	coordinate
+382843	coordinate
+coordinate
+subordinate
+382847	coordinate
+382855	subordinate
+382868	coordinate
+coordinate
+382875	coordinate
+382887	coordinate
+subordinate
+382891	coordinate
+382898	subordinate
+382907	subordinate
+382923	subordinate
+382939	subordinate
+382947	subordinate
+382951	subordinate
+382953	subordinate
+382959	coordinate
+subordinate
+382964	coordinate
+coordinate
+coordinate
+382971	coordinate
+382974	coordinate
+382981	coordinate
+subordinate
+382986	coordinate
+382990	coordinate
+382995	coordinate
+383000	coordinate
+383002	subordinate
+coordinate
+383005	coordinate
+383011	coordinate
+383017	coordinate
+383019	subordinate
+coordinate
+383028	coordinate
+subordinate
+383041	coordinate
+coordinate
+subordinate
+383045	coordinate
+383047	coordinate
+coordinate
+383053	coordinate
+383057	coordinate
+subordinate
+383061	coordinate
+383065	subordinate
+383068	subordinate
+383070	coordinate
+subordinate
+383077	subordinate
+383082	coordinate
+383085	coordinate
+383089	subordinate
+subordinate
+383096	subordinate
+383100	subordinate
+383102	subordinate
+383107	coordinate
+subordinate
+383112	coordinate
+subordinate
+383125	subordinate
+383133	subordinate
+383149	coordinate
+coordinate
+subordinate
+383158	subordinate
+383162	coordinate
+383165	coordinate
+383169	subordinate
+383171	coordinate
+383177	coordinate
+383179	coordinate
+383183	coordinate
+383188	coordinate
+383201	subordinate
+coordinate
+383213	subordinate
+383218	subordinate
+383221	subordinate
+383227	coordinate
+383233	coordinate
+383239	subordinate
+383241	subordinate
+383246	subordinate
+383253	subordinate
+383259	subordinate
+383265	subordinate
+subordinate
+383272	coordinate
+383274	subordinate
+coordinate
+383277	coordinate
+383281	coordinate
+383293	coordinate
+383298	coordinate
+383307	subordinate
+coordinate
+383311	coordinate
+383318	coordinate
+subordinate
+383324	coordinate
+383332	coordinate
+subordinate
+383338	coordinate
+subordinate
+383344	subordinate
+subordinate
+383348	subordinate
+383352	coordinate
+subordinate
+383355	subordinate
+383377	subordinate
+383388	subordinate
+coordinate
+383405	coordinate
+383411	subordinate
+subordinate
+383414	subordinate
+383419	coordinate
+383421	subordinate
+subordinate
+383426	subordinate
+383439	coordinate
+383448	coordinate
+383462	coordinate
+coordinate
+383468	coordinate
+383473	coordinate
+subordinate
+383478	subordinate
+383493	subordinate
+383500	coordinate
+383508	coordinate
+383526	subordinate
+383530	subordinate
+383535	subordinate
+383551	subordinate
+383554	coordinate
+383558	coordinate
+383563	subordinate
+383566	subordinate
+383568	coordinate
+383580	subordinate
+383604	subordinate
+383606	subordinate
+coordinate
+383611	coordinate
+coordinate
+383616	coordinate
+383649	coordinate
+383654	coordinate
+383659	subordinate
+383666	coordinate
+subordinate
+383669	subordinate
+383671	coordinate
+subordinate
+383676	subordinate
+383684	subordinate
+383709	subordinate
+383712	subordinate
+subordinate
+coordinate
+383719	coordinate
+383724	coordinate
+383754	subordinate
+383758	subordinate
+coordinate
+383764	coordinate
+383769	subordinate
+383785	coordinate
+383796	coordinate
+subordinate
+383807	coordinate
+subordinate
+383812	coordinate
+coordinate
+subordinate
+383821	subordinate
+383825	coordinate
+383829	coordinate
+coordinate
+383836	coordinate
+383854	subordinate
+coordinate
+383858	coordinate
+383862	coordinate
+383868	coordinate
+subordinate
+383871	subordinate
+383878	subordinate
+coordinate
+383882	coordinate
+subordinate
+383888	subordinate
+383906	subordinate
+383921	subordinate
+383927	coordinate
+coordinate
+subordinate
+383932	subordinate
+383934	coordinate
+383939	subordinate
+383941	coordinate
+383950	subordinate
+subordinate
+383956	coordinate
+coordinate
+383959	coordinate
+383961	coordinate
+383975	subordinate
+383987	coordinate
+383990	coordinate
+subordinate
+subordinate
+383996	subordinate
+384000	subordinate
+384011	subordinate
+384017	subordinate
+subordinate
+384024	coordinate
+subordinate
+384029	subordinate
+384057	subordinate
+384067	subordinate
+384072	coordinate
+subordinate
+384075	coordinate
+subordinate
+384082	subordinate
+384096	subordinate
+384118	coordinate
+384126	coordinate
+subordinate
+384135	subordinate
+384139	subordinate
+384146	subordinate
+384151	subordinate
+subordinate
+384156	coordinate
+384162	coordinate
+coordinate
+384165	coordinate
+384167	coordinate
+384199	subordinate
+384207	coordinate
+384211	coordinate
+coordinate
+384224	subordinate
+384227	subordinate
+384243	subordinate
+coordinate
+384249	coordinate
+coordinate
+384259	coordinate
+384261	coordinate
+384271	subordinate
+384273	subordinate
+384277	coordinate
+subordinate
+coordinate
+384281	coordinate
+384291	subordinate
+coordinate
+384295	coordinate
+384301	subordinate
+384308	subordinate
+subordinate
+384312	coordinate
+384314	coordinate
+384318	coordinate
+384322	subordinate
+384324	subordinate
+384330	subordinate
+384341	subordinate
+coordinate
+384346	coordinate
+384378	subordinate
+384402	subordinate
+384404	subordinate
+384412	coordinate
+384422	coordinate
+384429	coordinate
+384436	subordinate
+384442	subordinate
+384446	coordinate
+384449	coordinate
+384455	subordinate
+384460	coordinate
+subordinate
+384463	coordinate
+384467	coordinate
+384469	coordinate
+384471	coordinate
+384475	subordinate
+384477	subordinate
+384481	coordinate
+subordinate
+384497	coordinate
+subordinate
+384500	coordinate
+384512	subordinate
+384514	subordinate
+384516	subordinate
+384539	subordinate
+384544	coordinate
+384546	subordinate
+384555	coordinate
+384557	coordinate
+384563	coordinate
+384566	coordinate
+384568	subordinate
+384570	subordinate
+384575	subordinate
+384578	subordinate
+coordinate
+384583	coordinate
+384588	coordinate
+384591	subordinate
+384593	coordinate
+subordinate
+384611	subordinate
+384616	coordinate
+subordinate
+384620	coordinate
+384622	coordinate
+384625	coordinate
+384635	coordinate
+384639	subordinate
+384659	coordinate
+subordinate
+384663	coordinate
+subordinate
+384667	subordinate
+384677	subordinate
+384682	coordinate
+384685	coordinate
+384687	coordinate
+384691	coordinate
+384694	subordinate
+384698	subordinate
+subordinate
+384709	subordinate
+384714	subordinate
+384741	coordinate
+384744	coordinate
+384749	subordinate
+coordinate
+384752	coordinate
+384757	subordinate
+384765	coordinate
+384767	subordinate
+384771	coordinate
+384782	subordinate
+384791	subordinate
+384793	subordinate
+384797	coordinate
+subordinate
+384808	coordinate
+384815	coordinate
+384822	coordinate
+384824	coordinate
+subordinate
+384831	coordinate
+384834	coordinate
+subordinate
+384843	subordinate
+384861	coordinate
+subordinate
+384868	subordinate
+subordinate
+384878	coordinate
+subordinate
+384884	subordinate
+384886	coordinate
+subordinate
+384896	coordinate
+coordinate
+subordinate
+384901	coordinate
+384909	coordinate
+384916	coordinate
+384919	subordinate
+384927	subordinate
+subordinate
+coordinate
+384934	coordinate
+subordinate
+384939	subordinate
+384950	subordinate
+384972	subordinate
+coordinate
+384979	coordinate
+384986	subordinate
+384991	coordinate
+subordinate
+384996	coordinate
+subordinate
+385011	subordinate
+385016	coordinate
+subordinate
+385021	coordinate
+subordinate
+385031	subordinate
+385036	coordinate
+subordinate
+385043	coordinate
+subordinate
+385050	coordinate
+385054	coordinate
+385066	subordinate
+385071	coordinate
+385074	coordinate
+385079	coordinate
+subordinate
+385090	coordinate
+coordinate
+385094	coordinate
+385096	subordinate
+385102	subordinate
+385105	subordinate
+385110	subordinate
+385116	subordinate
+coordinate
+385120	coordinate
+385140	coordinate
+385148	coordinate
+385155	coordinate
+coordinate
+385161	subordinate
+385174	coordinate
+subordinate
+385177	coordinate
+385181	coordinate
+385186	subordinate
+subordinate
+385194	subordinate
+385202	coordinate
+subordinate
+385210	subordinate
+385215	subordinate
+385224	subordinate
+385230	subordinate
+385236	subordinate
+subordinate
+385246	subordinate
+coordinate
+385249	coordinate
+385255	subordinate
+385266	subordinate
+385272	coordinate
+coordinate
+coordinate
+coordinate
+coordinate
+coordinate
+385294	coordinate
+385296	subordinate
+385302	coordinate
+385305	coordinate
+subordinate
+385308	coordinate
+385311	coordinate
+385314	coordinate
+385320	subordinate
+385323	subordinate
+385325	subordinate
+385331	subordinate
+385355	subordinate
+385360	subordinate
+385366	coordinate
+subordinate
+385373	coordinate
+385385	subordinate
+385388	subordinate
+385392	coordinate
+385395	coordinate
+385398	subordinate
+385406	coordinate
+385408	coordinate
+385416	subordinate
+385430	subordinate
+coordinate
+385444	coordinate
+385454	coordinate
+385457	coordinate
+385462	coordinate
+coordinate
+385466	subordinate
+385469	coordinate
+385473	coordinate
+coordinate
+385476	coordinate
+385482	subordinate
+385487	subordinate
+385493	coordinate
+385502	coordinate
+coordinate
+385505	coordinate
+385508	coordinate
+coordinate
+385511	coordinate
+385513	coordinate
+385515	coordinate
+385517	coordinate
+385533	subordinate
+385539	subordinate
+385546	subordinate
+coordinate
+385551	coordinate
+385561	subordinate
+385564	subordinate
+coordinate
+385570	coordinate
+385583	coordinate
+coordinate
+385589	coordinate
+385594	coordinate
+coordinate
+385603	subordinate
+385605	coordinate
+385609	subordinate
+385611	subordinate
+385618	subordinate
+385623	coordinate
+385626	subordinate
+385629	coordinate
+385636	coordinate
+385638	coordinate
+coordinate
+subordinate
+385642	subordinate
+385646	coordinate
+subordinate
+385649	subordinate
+385653	subordinate
+coordinate
+385659	subordinate
+385661	coordinate
+coordinate
+385664	coordinate
+385677	coordinate
+385680	coordinate
+385702	subordinate
+coordinate
+385725	subordinate
+385734	coordinate
+coordinate
+coordinate
+385740	subordinate
+385743	subordinate
+385749	subordinate
+385752	subordinate
+385772	coordinate
+385774	coordinate
+385781	subordinate
+385791	coordinate
+385799	coordinate
+385806	coordinate
+subordinate
+385809	subordinate
+385815	coordinate
+385817	coordinate
+385826	coordinate
+385830	coordinate
+385834	coordinate
+385836	coordinate
+coordinate
+subordinate
+385843	coordinate
+385851	subordinate
+385857	subordinate
+385865	coordinate
+385870	coordinate
+coordinate
+385875	coordinate
+385880	coordinate
+385886	coordinate
+subordinate
+385901	coordinate
+subordinate
+385907	coordinate
+subordinate
+385911	subordinate
+385916	coordinate
+385929	subordinate
+385946	subordinate
+subordinate
+385954	coordinate
+385956	subordinate
+385959	subordinate
+385961	subordinate
+385966	subordinate
+385983	coordinate
+subordinate
+385987	subordinate
+385998	coordinate
+386018	coordinate
+386022	coordinate
+386032	coordinate
+386037	coordinate
+386043	coordinate
+386045	subordinate
+386047	subordinate
+386050	subordinate
+386060	subordinate
+386066	subordinate
+subordinate
+386073	subordinate
+386083	subordinate
+386097	coordinate
+386099	coordinate
+386103	coordinate
+coordinate
+386111	subordinate
+386119	subordinate
+386126	coordinate
+386132	subordinate
+subordinate
+386137	subordinate
+386140	subordinate
+386161	coordinate
+386172	coordinate
+386180	subordinate
+386186	coordinate
+coordinate
+386190	coordinate
+386199	coordinate
+386205	coordinate
+386214	coordinate
+386224	coordinate
+386232	subordinate
+386234	subordinate
+386239	subordinate
+386256	coordinate
+386258	coordinate
+386260	coordinate
+386262	coordinate
+386264	coordinate
+386266	coordinate
+386274	subordinate
+386284	coordinate
+subordinate
+386287	coordinate
+386295	coordinate
+386297	coordinate
+386301	coordinate
+386305	coordinate
+386310	coordinate
+386312	coordinate
+386335	coordinate
+386339	coordinate
+386344	coordinate
+subordinate
+386347	coordinate
+386357	coordinate
+coordinate
+386360	coordinate
+386363	coordinate
+386378	coordinate
+386381	coordinate
+386388	coordinate
+subordinate
+386391	coordinate
+386402	subordinate
+386414	subordinate
+386418	subordinate
+386424	coordinate
+386429	subordinate
+coordinate
+386433	coordinate
+386440	coordinate
+subordinate
+386443	coordinate
+386445	coordinate
+386447	coordinate
+386451	subordinate
+386458	subordinate
+386480	coordinate
+386483	coordinate
+386494	coordinate
+386498	subordinate
+386500	coordinate
+386507	subordinate
+coordinate
+386511	coordinate
+386513	coordinate
+386515	coordinate
+386520	coordinate
+386529	coordinate
+386532	coordinate
+subordinate
+386537	coordinate
+386540	coordinate
+subordinate
+386560	subordinate
+subordinate
+386565	subordinate
+386573	subordinate
+coordinate
+386577	coordinate
+386585	subordinate
+386587	coordinate
+386589	coordinate
+386591	coordinate
+386593	coordinate
+386625	coordinate
+386627	coordinate
+386633	subordinate
+386637	subordinate
+386649	subordinate
+386653	coordinate
+386659	coordinate
+386689	subordinate
+386704	coordinate
+coordinate
+386707	coordinate
+386710	coordinate
+386731	subordinate
+386751	subordinate
+386755	subordinate
+386757	subordinate
+386781	subordinate
+386790	coordinate
+386793	coordinate
+386812	coordinate
+subordinate
+386816	coordinate
+386833	coordinate
+386838	coordinate
+386844	subordinate
+386858	subordinate
+386867	subordinate
+386886	coordinate
+386891	coordinate
+386897	subordinate
+386952	coordinate
+386957	subordinate
+386959	subordinate
+386971	coordinate
+386979	coordinate
+386984	subordinate
+386991	coordinate
+subordinate
+386994	coordinate
+387000	coordinate
+387003	coordinate
+387017	coordinate
+387020	coordinate
+387023	coordinate
+387033	subordinate
+387042	subordinate
+subordinate
+387046	coordinate
+subordinate
+coordinate
+387056	subordinate
+coordinate
+387060	coordinate
+387067	coordinate
+coordinate
+387071	coordinate
+387073	coordinate
+coordinate
+387077	coordinate
+387098	subordinate
+subordinate
+387103	subordinate
+387115	coordinate
+coordinate
+387121	coordinate
+subordinate
+387127	coordinate
+387133	subordinate
+387161	coordinate
+387171	coordinate
+387177	subordinate
+387204	coordinate
+387208	coordinate
+387214	subordinate
+subordinate
+387225	coordinate
+387234	coordinate
+387239	coordinate
+387245	coordinate
+387254	subordinate
+387266	coordinate
+387269	coordinate
+387289	subordinate
+coordinate
+387294	coordinate
+387303	subordinate
+subordinate
+subordinate
+387318	subordinate
+387322	coordinate
+387328	coordinate
+387349	subordinate
+387362	subordinate
+coordinate
+387365	subordinate
+coordinate
+387370	coordinate
+387399	subordinate
+subordinate
+387405	subordinate
+387424	subordinate
+387449	subordinate
+387456	subordinate
+387477	subordinate
+coordinate
+387482	coordinate
+387501	coordinate
+coordinate
+387508	subordinate
+subordinate
+387511	coordinate
+387514	subordinate
+387517	subordinate
+387528	subordinate
+387535	subordinate
+387549	subordinate
+387553	coordinate
+subordinate
+387556	coordinate
+subordinate
+387561	subordinate
+387569	subordinate
+subordinate
+387576	subordinate
+387579	subordinate
+387584	coordinate
+387591	coordinate
+387595	coordinate
+387597	subordinate
+387601	coordinate
+387604	subordinate
+387625	subordinate
+387632	coordinate
+coordinate
+387636	coordinate
+387640	coordinate
+387643	subordinate
+387645	coordinate
+387674	subordinate
+coordinate
+387696	subordinate
+387698	coordinate
+387704	subordinate
+387707	coordinate
+387719	subordinate
+387727	coordinate
+subordinate
+subordinate
+387731	coordinate
+387742	coordinate
+subordinate
+subordinate
+387746	coordinate
+387775	subordinate
+387783	subordinate
+387798	coordinate
+387801	coordinate
+387804	coordinate
+387816	subordinate
+387830	subordinate
+subordinate
+subordinate
+387838	subordinate
+subordinate
+387849	coordinate
+387862	subordinate
+387866	coordinate
+387875	coordinate
+subordinate
+coordinate
+387879	coordinate
+387888	coordinate
+387890	coordinate
+387894	coordinate
+subordinate
+387899	coordinate
+387904	subordinate
+387921	coordinate
+coordinate
+387926	coordinate
+coordinate
+387929	coordinate
+subordinate
+387938	subordinate
+387943	coordinate
+387945	coordinate
+387947	subordinate
+387952	coordinate
+387955	coordinate
+387960	subordinate
+subordinate
+387967	coordinate
+387969	subordinate
+subordinate
+387972	subordinate
+387977	coordinate
+subordinate
+387982	coordinate
+387988	coordinate
+387991	coordinate
+388016	coordinate
+subordinate
+388023	coordinate
+388041	subordinate
+388044	subordinate
+388046	coordinate
+388048	coordinate
+388053	subordinate
+subordinate
+388057	coordinate
+388061	coordinate
+388064	coordinate
+388068	coordinate
+388073	subordinate
+388079	coordinate
+388085	subordinate
+388089	subordinate
+388095	subordinate
+388098	coordinate
+388101	subordinate
+388105	coordinate
+388109	subordinate
+388114	subordinate
+388118	coordinate
+388120	subordinate
+388123	coordinate
+coordinate
+388126	coordinate
+subordinate
+388132	coordinate
+388137	coordinate
+388148	coordinate
+388158	coordinate
+coordinate
+388164	coordinate
+388170	coordinate
+388182	coordinate
+388186	coordinate
+388189	coordinate
+388194	subordinate
+388202	coordinate
+388208	coordinate
+388220	subordinate
+388230	coordinate
+388232	coordinate
+388235	coordinate
+388250	coordinate
+388252	coordinate
+subordinate
+coordinate
+388262	coordinate
+388271	subordinate
+388284	subordinate
+388288	coordinate
+subordinate
+coordinate
+388292	coordinate
+388296	coordinate
+388301	coordinate
+388311	coordinate
+388318	subordinate
+subordinate
+388321	subordinate
+388335	coordinate
+388337	coordinate
+388348	subordinate
+388369	subordinate
+388374	subordinate
+coordinate
+388398	subordinate
+388402	subordinate
+388406	coordinate
+subordinate
+388416	subordinate
+388419	coordinate
+388432	subordinate
+388449	subordinate
+subordinate
+388474	subordinate
+388478	subordinate
+388485	subordinate
+388502	subordinate
+388508	subordinate
+388511	subordinate
+388524	subordinate
+388533	coordinate
+388535	subordinate
+subordinate
+388543	subordinate
+388545	subordinate
+388549	coordinate
+388556	coordinate
+388562	coordinate
+388564	coordinate
+subordinate
+388578	coordinate
+388582	coordinate
+388584	coordinate
+subordinate
+388590	coordinate
+388592	subordinate
+388594	coordinate
+388597	coordinate
+388601	coordinate
+388604	subordinate
+388612	subordinate
+388614	subordinate
+388621	subordinate
+388637	coordinate
+388639	subordinate
+388641	coordinate
+388645	coordinate
+388647	coordinate
+388651	subordinate
+388657	coordinate
+388660	coordinate
+388679	coordinate
+388682	coordinate
+388690	subordinate
+coordinate
+388701	coordinate
+388704	coordinate
+388707	subordinate
+388714	subordinate
+388721	subordinate
+388732	subordinate
+coordinate
+388735	coordinate
+388768	subordinate
+388784	subordinate
+388789	subordinate
+coordinate
+388792	coordinate
+subordinate
+388801	subordinate
+388806	subordinate
+388840	subordinate
+388860	coordinate
+subordinate
+subordinate
+388866	coordinate
+388879	subordinate
+388883	coordinate
+subordinate
+388898	subordinate
+388902	coordinate
+388909	coordinate
+388916	subordinate
+388923	subordinate
+388931	coordinate
+subordinate
+subordinate
+388936	coordinate
+388943	coordinate
+388958	subordinate
+388973	subordinate
+subordinate
+389001	subordinate
+389006	subordinate
+389011	coordinate
+subordinate
+389015	subordinate
+389018	subordinate
+389021	coordinate
+389062	subordinate
+389067	subordinate
+389071	subordinate
+389078	subordinate
+389082	subordinate
+389092	subordinate
+389096	subordinate
+coordinate
+389099	coordinate
+389105	coordinate
+389107	coordinate
+389113	subordinate
+389118	subordinate
+389122	subordinate
+389128	coordinate
+subordinate
+389139	subordinate
+389142	subordinate
+389147	subordinate
+389156	coordinate
+389159	coordinate
+389161	coordinate
+389163	coordinate
+389174	coordinate
+389178	coordinate
+389180	coordinate
+coordinate
+389183	subordinate
+389187	coordinate
+coordinate
+389191	coordinate
+389196	coordinate
+coordinate
+389206	coordinate
+389212	subordinate
+389214	coordinate
+389217	coordinate
+389222	subordinate
+389256	subordinate
+389260	subordinate
+389263	subordinate
+389271	subordinate
+subordinate
+389276	subordinate
+389284	coordinate
+389294	subordinate
+389299	coordinate
+coordinate
+389305	coordinate
+389313	subordinate
+389325	subordinate
+coordinate
+389329	coordinate
+389355	subordinate
+389375	subordinate
+389384	coordinate
+subordinate
+389387	coordinate
+389398	subordinate
+coordinate
+389403	coordinate
+389408	coordinate
+389425	coordinate
+389428	coordinate
+389433	coordinate
+389440	coordinate
+389456	subordinate
+389458	coordinate
+389462	coordinate
+389467	subordinate
+389478	coordinate
+389480	coordinate
+389489	subordinate
+389492	coordinate
+389499	coordinate
+subordinate
+coordinate
+389504	coordinate
+389508	subordinate
+coordinate
+389511	coordinate
+subordinate
+389514	subordinate
+389517	subordinate
+389528	coordinate
+389533	coordinate
+389542	coordinate
+subordinate
+subordinate
+389554	coordinate
+389557	coordinate
+389564	subordinate
+389592	subordinate
+389598	coordinate
+389614	subordinate
+389621	coordinate
+389628	subordinate
+389639	coordinate
+389655	subordinate
+389661	coordinate
+coordinate
+389665	coordinate
+389667	coordinate
+389672	coordinate
+389674	coordinate
+389677	coordinate
+389686	coordinate
+389693	coordinate
+389704	subordinate
+389708	subordinate
+389711	coordinate
+389715	coordinate
+389723	subordinate
+389738	coordinate
+389744	subordinate
+389769	coordinate
+subordinate
+389780	coordinate
+389785	coordinate
+389793	subordinate
+389799	coordinate
+389805	coordinate
+389809	coordinate
+389814	coordinate
+subordinate
+389818	coordinate
+subordinate
+389838	subordinate
+389867	coordinate
+389872	coordinate
+389881	subordinate
+389896	subordinate
+coordinate
+389900	coordinate
+389904	coordinate
+389923	coordinate
+389926	coordinate
+389928	coordinate
+subordinate
+389931	coordinate
+subordinate
+389938	subordinate
+389940	subordinate
+389954	coordinate
+389959	coordinate
+389966	coordinate
+389973	coordinate
+389989	coordinate
+389999	coordinate
+subordinate
+390003	coordinate
+390012	subordinate
+390016	coordinate
+390018	coordinate
+390040	subordinate
+390044	subordinate
+390054	coordinate
+coordinate
+390059	coordinate
+390063	coordinate
+subordinate
+390069	coordinate
+390075	coordinate
+390098	subordinate
+390105	coordinate
+390111	coordinate
+390119	subordinate
+390122	coordinate
+390124	coordinate
+390128	coordinate
+390135	subordinate
+390153	subordinate
+coordinate
+390159	coordinate
+390171	subordinate
+subordinate
+390189	subordinate
+390191	subordinate
+390209	subordinate
+390225	coordinate
+coordinate
+390229	coordinate
+390231	coordinate
+390250	subordinate
+390261	subordinate
+390290	subordinate
+390296	subordinate
+390305	coordinate
+390311	coordinate
+390319	coordinate
+390321	coordinate
+390324	subordinate
+390334	subordinate
+coordinate
+390337	coordinate
+390346	coordinate
+coordinate
+390350	coordinate
+390353	coordinate
+390379	subordinate
+coordinate
+390382	coordinate
+390391	subordinate
+coordinate
+390397	coordinate
+390400	coordinate
+390410	subordinate
+390420	coordinate
+390423	coordinate
+390435	coordinate
+subordinate
+390438	coordinate
+390446	subordinate
+390453	subordinate
+390480	subordinate
+390488	subordinate
+390498	subordinate
+390504	subordinate
+390526	subordinate
+390536	subordinate
+coordinate
+390548	subordinate
+390551	coordinate
+390573	coordinate
+coordinate
+390579	subordinate
+390583	coordinate
+390596	subordinate
+subordinate
+390611	coordinate
+390630	coordinate
+coordinate
+390644	subordinate
+390680	coordinate
+390689	coordinate
+390701	subordinate
+390703	coordinate
+390709	subordinate
+390725	coordinate
+subordinate
+390729	subordinate
+390736	coordinate
+390741	subordinate
+390749	coordinate
+390752	subordinate
+390755	coordinate
+390765	subordinate
+390781	coordinate
+390784	coordinate
+subordinate
+390787	coordinate
+390804	subordinate
+390808	coordinate
+390814	coordinate
+390817	coordinate
+390825	coordinate
+390831	coordinate
+subordinate
+subordinate
+390838	coordinate
+390845	coordinate
+subordinate
+390848	subordinate
+390856	subordinate
+coordinate
+390864	coordinate
+390866	coordinate
+390882	coordinate
+subordinate
+390896	subordinate
+390903	subordinate
+390908	subordinate
+390922	coordinate
+390925	coordinate
+390928	coordinate
+390961	subordinate
+coordinate
+390966	coordinate
+390969	coordinate
+390978	coordinate
+390999	subordinate
+391025	coordinate
+coordinate
+391029	coordinate
+391034	coordinate
+coordinate
+391039	coordinate
+391055	subordinate
+subordinate
+391061	subordinate
+391065	subordinate
+391084	subordinate
+391101	coordinate
+391104	subordinate
+391107	coordinate
+391119	subordinate
+391121	coordinate
+391128	coordinate
+391134	coordinate
+391136	subordinate
+391155	subordinate
+391163	coordinate
+coordinate
+391166	coordinate
+391168	coordinate
+391175	coordinate
+391187	subordinate
+391191	coordinate
+391198	subordinate
+391209	coordinate
+391215	subordinate
+coordinate
+391220	coordinate
+391226	coordinate
+391233	subordinate
+391243	subordinate
+391273	coordinate
+391276	coordinate
+subordinate
+coordinate
+391281	coordinate
+391306	subordinate
+391310	subordinate
+391466	coordinate
+391472	coordinate
+391477	subordinate
+391484	coordinate
+391489	coordinate
+391498	subordinate
+391520	subordinate
+391541	subordinate
+coordinate
+391544	coordinate
+subordinate
+391551	subordinate
+391556	subordinate
+391560	coordinate
+391565	coordinate
+391570	coordinate
+coordinate
+391574	coordinate
+391583	subordinate
+391591	coordinate
+391599	coordinate
+391610	subordinate
+391621	subordinate
+391649	subordinate
+391654	coordinate
+391660	coordinate
+coordinate
+391672	coordinate
+subordinate
+391677	coordinate
+391682	coordinate
+subordinate
+391695	subordinate
+subordinate
+coordinate
+coordinate
+391700	coordinate
+coordinate
+subordinate
+391704	coordinate
+391710	subordinate
+391712	subordinate
+391738	coordinate
+coordinate
+391741	coordinate
+391767	subordinate
+subordinate
+391791	coordinate
+391817	subordinate
+391826	coordinate
+391837	subordinate
+391843	coordinate
+391847	subordinate
+391849	coordinate
+coordinate
+subordinate
+391855	coordinate
+391864	subordinate
+subordinate
+391869	subordinate
+391892	subordinate
+391899	coordinate
+391903	subordinate
+391918	subordinate
+391932	coordinate
+391934	coordinate
+391939	subordinate
+391944	subordinate
+391948	coordinate
+391951	coordinate
+391958	subordinate
+coordinate
+391966	coordinate
+391979	subordinate
+391988	coordinate
+391994	coordinate
+391999	coordinate
+subordinate
+392004	coordinate
+392008	subordinate
+392015	subordinate
+subordinate
+392022	subordinate
+392031	subordinate
+coordinate
+392043	subordinate
+subordinate
+392046	subordinate
+subordinate
+392054	subordinate
+392060	coordinate
+coordinate
+392064	coordinate
+392067	coordinate
+392077	subordinate
+392085	subordinate
+392102	coordinate
+392105	coordinate
+392111	coordinate
+392117	coordinate
+subordinate
+392126	subordinate
+392132	coordinate
+subordinate
+392139	subordinate
+392143	coordinate
+subordinate
+392152	subordinate
+subordinate
+392158	coordinate
+392162	coordinate
+392169	subordinate
+392172	coordinate
+subordinate
+392177	coordinate
+392185	coordinate
+subordinate
+392190	coordinate
+392203	subordinate
+392207	coordinate
+392209	coordinate
+392212	subordinate
+subordinate
+392217	subordinate
+392225	subordinate
+392231	coordinate
+392244	coordinate
+392268	subordinate
+392272	subordinate
+392277	coordinate
+392291	subordinate
+392293	subordinate
+392299	subordinate
+392301	subordinate
+392305	subordinate
+392318	coordinate
+subordinate
+392321	coordinate
+coordinate
+subordinate
+392326	coordinate
+392330	subordinate
+subordinate
+392337	coordinate
+392342	coordinate
+392344	subordinate
+coordinate
+392347	coordinate
+392354	coordinate
+392359	coordinate
+392369	coordinate
+392372	coordinate
+392402	coordinate
+subordinate
+coordinate
+392406	coordinate
+392411	subordinate
+subordinate
+392415	subordinate
+392429	subordinate
+392439	subordinate
+392450	subordinate
+392452	subordinate
+392458	subordinate
+392462	subordinate
+392479	coordinate
+392481	coordinate
+392483	coordinate
+392492	subordinate
+392499	coordinate
+392501	coordinate
+subordinate
+392511	subordinate
+392513	subordinate
+subordinate
+392519	subordinate
+392524	coordinate
+392526	coordinate
+coordinate
+392530	coordinate
+392537	coordinate
+392540	coordinate
+coordinate
+subordinate
+392544	subordinate
+392553	subordinate
+subordinate
+392596	subordinate
+392600	coordinate
+392604	coordinate
+392609	coordinate
+subordinate
+coordinate
+392618	coordinate
+392620	coordinate
+392624	coordinate
+392630	coordinate
+392641	subordinate
+subordinate
+392647	subordinate
+392653	coordinate
+392657	subordinate
+392670	subordinate
+392679	subordinate
+392681	coordinate
+392684	coordinate
+392701	subordinate
+coordinate
+392708	coordinate
+coordinate
+392711	coordinate
+392723	subordinate
+392732	subordinate
+392742	subordinate
+392750	subordinate
+392755	subordinate
+392762	subordinate
+392770	coordinate
+392776	coordinate
+subordinate
+392782	coordinate
+392787	subordinate
+subordinate
+392804	subordinate
+coordinate
+392811	coordinate
+392814	coordinate
+392816	coordinate
+392835	subordinate
+subordinate
+392840	coordinate
+392851	coordinate
+392853	coordinate
+392859	subordinate
+392869	subordinate
+392871	coordinate
+392873	coordinate
+392875	coordinate
+392877	coordinate
+392881	subordinate
+392889	coordinate
+392891	coordinate
+392897	coordinate
+392908	subordinate
+392914	subordinate
+392926	subordinate
+392928	coordinate
+392932	coordinate
+392966	coordinate
+subordinate
+392972	coordinate
+392994	subordinate
+coordinate
+392997	coordinate
+393014	subordinate
+393016	subordinate
+coordinate
+393020	coordinate
+393024	subordinate
+393034	subordinate
+393043	subordinate
+393049	subordinate
+393054	coordinate
+subordinate
+393058	coordinate
+subordinate
+coordinate
+393062	coordinate
+393064	coordinate
+393067	subordinate
+subordinate
+393076	coordinate
+393081	coordinate
+393102	subordinate
+393111	subordinate
+393119	subordinate
+coordinate
+393122	coordinate
+393127	subordinate
+393131	subordinate
+393144	coordinate
+393147	coordinate
+393150	coordinate
+393153	coordinate
+393159	coordinate
+393167	coordinate
+393177	coordinate
+393179	subordinate
+393181	coordinate
+393199	subordinate
+393204	subordinate
+393214	subordinate
+393227	subordinate
+393229	subordinate
+subordinate
+393237	subordinate
+393241	subordinate
+coordinate
+coordinate
+393247	coordinate
+393249	coordinate
+subordinate
+393254	coordinate
+393258	coordinate
+393261	subordinate
+393269	subordinate
+393275	coordinate
+393277	coordinate
+393282	coordinate
+393284	coordinate
+393288	coordinate
+393290	coordinate
+393293	coordinate
+393295	coordinate
+393300	subordinate
+coordinate
+coordinate
+coordinate
+393310	subordinate
+393319	subordinate
+393326	coordinate
+393330	coordinate
+393332	subordinate
+393339	coordinate
+393349	coordinate
+393363	subordinate
+393379	coordinate
+393385	coordinate
+subordinate
+393398	coordinate
+393403	coordinate
+393416	coordinate
+393419	coordinate
+393424	coordinate
+393434	coordinate
+393440	subordinate
+393448	coordinate
+subordinate
+393453	coordinate
+subordinate
+393461	coordinate
+393464	coordinate
+393468	coordinate
+393474	subordinate
+393476	coordinate
+393478	coordinate
+393480	coordinate
+393486	coordinate
+393493	coordinate
+subordinate
+393503	coordinate
+393505	coordinate
+393507	subordinate
+393512	coordinate
+393515	coordinate
+393517	coordinate
+393525	subordinate
+393540	subordinate
+subordinate
+393546	subordinate
+393554	subordinate
+subordinate
+393561	subordinate
+393568	subordinate
+393570	subordinate
+coordinate
+393575	coordinate
+393605	subordinate
+393610	coordinate
+393612	coordinate
+393618	coordinate
+393621	subordinate
+393627	coordinate
+coordinate
+393632	coordinate
+393634	coordinate
+coordinate
+393639	coordinate
+393641	coordinate
+coordinate
+393648	coordinate
+393652	coordinate
+subordinate
+393657	subordinate
+393660	subordinate
+393669	subordinate
+393674	subordinate
+393683	coordinate
+393686	subordinate
+393688	coordinate
+393698	subordinate
+393704	coordinate
+coordinate
+393707	subordinate
+393713	coordinate
+393715	coordinate
+393723	coordinate
+subordinate
+393733	coordinate
+coordinate
+subordinate
+393738	coordinate
+393749	coordinate
+coordinate
+393753	coordinate
+subordinate
+393756	coordinate
+393762	coordinate
+393764	coordinate
+393768	coordinate
+393773	coordinate
+393802	subordinate
+393812	coordinate
+393816	coordinate
+393820	subordinate
+393829	coordinate
+393833	coordinate
+393836	coordinate
+393846	coordinate
+393848	subordinate
+393852	subordinate
+393854	subordinate
+subordinate
+393860	coordinate
+coordinate
+coordinate
+coordinate
+393865	coordinate
+coordinate
+coordinate
+coordinate
+393872	subordinate
+393887	subordinate
+393892	subordinate
+393897	subordinate
+393900	subordinate
+393910	subordinate
+393916	subordinate
+393957	subordinate
+393961	subordinate
+393975	subordinate
+393980	coordinate
+393986	coordinate
+393993	coordinate
+393996	coordinate
+394000	coordinate
+394002	coordinate
+394004	coordinate
+394006	coordinate
+394010	coordinate
+394013	subordinate
+coordinate
+394016	coordinate
+394022	coordinate
+394026	subordinate
+coordinate
+394029	coordinate
+394061	subordinate
+394076	coordinate
+coordinate
+394085	subordinate
+coordinate
+394089	coordinate
+394093	subordinate
+subordinate
+394099	coordinate
+394105	coordinate
+394109	coordinate
+394114	subordinate
+394124	subordinate
+394134	subordinate
+394138	subordinate
+394143	subordinate
+394158	coordinate
+394162	coordinate
+394166	subordinate
+394173	subordinate
+394185	subordinate
+394199	coordinate
+394202	coordinate
+coordinate
+394208	coordinate
+394213	coordinate
+394215	coordinate
+394217	subordinate
+subordinate
+394223	coordinate
+394227	coordinate
+394240	subordinate
+394244	subordinate
+394279	coordinate
+394283	subordinate
+394290	coordinate
+394329	coordinate
+394332	coordinate
+394348	coordinate
+394355	coordinate
+394357	coordinate
+394364	coordinate
+394368	coordinate
+subordinate
+394376	coordinate
+394381	coordinate
+subordinate
+394387	coordinate
+394393	coordinate
+subordinate
+394398	subordinate
+394402	subordinate
+394415	coordinate
+subordinate
+394427	subordinate
+coordinate
+subordinate
+394431	coordinate
+subordinate
+394454	coordinate
+394457	coordinate
+394463	subordinate
+subordinate
+394468	coordinate
+394472	subordinate
+subordinate
+subordinate
+394480	coordinate
+394483	coordinate
+394498	coordinate
+394505	subordinate
+394507	coordinate
+394516	subordinate
+coordinate
+subordinate
+394525	coordinate
+394530	coordinate
+coordinate
+subordinate
+394534	coordinate
+394540	subordinate
+394547	coordinate
+394551	coordinate
+394554	coordinate
+394557	coordinate
+394562	subordinate
+394566	coordinate
+394575	subordinate
+subordinate
+394581	coordinate
+394589	coordinate
+subordinate
+394603	subordinate
+subordinate
+394608	subordinate
+394632	coordinate
+coordinate
+394636	coordinate
+394658	coordinate
+394663	coordinate
+coordinate
+394666	coordinate
+394670	subordinate
+394680	subordinate
+394690	coordinate
+394692	coordinate
+394702	subordinate
+394709	subordinate
+coordinate
+394717	coordinate
+394732	subordinate
+394740	subordinate
+394744	coordinate
+394747	coordinate
+coordinate
+394751	coordinate
+394757	coordinate
+subordinate
+394760	subordinate
+394782	subordinate
+394788	coordinate
+394791	coordinate
+394794	subordinate
+394796	coordinate
+subordinate
+394814	subordinate
+394822	subordinate
+394831	subordinate
+394839	subordinate
+394847	coordinate
+subordinate
+394855	coordinate
+coordinate
+394863	coordinate
+394867	coordinate
+subordinate
+394874	coordinate
+394884	coordinate
+coordinate
+subordinate
+394890	coordinate
+394894	coordinate
+subordinate
+394901	subordinate
+coordinate
+394904	coordinate
+394910	coordinate
+394922	subordinate
+394931	subordinate
+394936	subordinate
+394946	subordinate
+394953	coordinate
+394958	coordinate
+subordinate
+394964	subordinate
+394968	subordinate
+394980	subordinate
+394985	coordinate
+394989	coordinate
+394994	subordinate
+394998	subordinate
+395003	subordinate
+coordinate
+395010	coordinate
+395021	coordinate
+395024	subordinate
+395030	subordinate
+395032	subordinate
+395038	coordinate
+395057	coordinate
+395060	coordinate
+395068	subordinate
+subordinate
+395074	coordinate
+395079	subordinate
+395081	coordinate
+coordinate
+subordinate
+subordinate
+395091	coordinate
+395118	subordinate
+395122	coordinate
+395124	coordinate
+395128	subordinate
+395131	subordinate
+395134	subordinate
+395155	coordinate
+coordinate
+395166	subordinate
+395176	coordinate
+coordinate
+395181	coordinate
+395183	coordinate
+subordinate
+subordinate
+395194	subordinate
+395200	coordinate
+subordinate
+395210	subordinate
+395212	coordinate
+subordinate
+coordinate
+395219	coordinate
+395225	coordinate
+395231	coordinate
+395233	coordinate
+395235	coordinate
+395237	coordinate
+395239	coordinate
+395243	coordinate
+coordinate
+395250	coordinate
+395252	coordinate
+395254	coordinate
+395258	subordinate
+395272	subordinate
+395275	subordinate
+395281	coordinate
+395288	coordinate
+395313	coordinate
+395315	coordinate
+395322	subordinate
+395326	subordinate
+395328	subordinate
+395332	subordinate
+395336	subordinate
+395341	subordinate
+395345	coordinate
+subordinate
+395352	coordinate
+395360	subordinate
+395364	subordinate
+395370	subordinate
+coordinate
+subordinate
+395379	coordinate
+395381	subordinate
+395389	subordinate
+395395	coordinate
+395397	coordinate
+395403	subordinate
+395405	subordinate
+395427	coordinate
+395429	coordinate
+395433	coordinate
+subordinate
+395441	subordinate
+395445	coordinate
+395447	coordinate
+395449	subordinate
+395454	coordinate
+coordinate
+395457	coordinate
+395459	coordinate
+395474	coordinate
+395477	coordinate
+395480	subordinate
+395485	subordinate
+395487	coordinate
+395491	coordinate
+395504	subordinate
+395508	subordinate
+395516	subordinate
+subordinate
+395521	subordinate
+coordinate
+395527	coordinate
+395534	coordinate
+395536	coordinate
+395545	subordinate
+subordinate
+395549	coordinate
+395551	coordinate
+395556	coordinate
+395560	subordinate
+395562	subordinate
+395576	subordinate
+coordinate
+395581	coordinate
+395599	subordinate
+395620	subordinate
+395636	subordinate
+395642	subordinate
+395650	coordinate
+395656	coordinate
+395659	subordinate
+395668	subordinate
+395674	subordinate
+395688	subordinate
+395712	coordinate
+subordinate
+395715	coordinate
+395719	coordinate
+395721	coordinate
+395723	coordinate
+subordinate
+subordinate
+395730	coordinate
+395732	coordinate
+395764	coordinate
+395766	coordinate
+395771	subordinate
+395794	subordinate
+395799	subordinate
+395802	coordinate
+395804	coordinate
+395806	coordinate
+395809	coordinate
+395811	subordinate
+395821	coordinate
+395825	subordinate
+395834	subordinate
+coordinate
+395839	coordinate
+395848	coordinate
+395851	coordinate
+395855	coordinate
+395861	coordinate
+395864	coordinate
+395880	subordinate
+395892	subordinate
+395896	subordinate
+395902	coordinate
+coordinate
+395911	subordinate
+395913	coordinate
+subordinate
+395930	coordinate
+395932	subordinate
+395937	subordinate
+395943	coordinate
+subordinate
+395952	coordinate
+subordinate
+395966	subordinate
+395971	coordinate
+subordinate
+395977	coordinate
+395979	subordinate
+395988	subordinate
+subordinate
+396005	coordinate
+396011	coordinate
+396017	subordinate
+396020	subordinate
+subordinate
+396026	subordinate
+396034	subordinate
+396043	subordinate
+coordinate
+396048	coordinate
+396052	subordinate
+396067	subordinate
+396074	coordinate
+coordinate
+396078	coordinate
+396083	coordinate
+396087	subordinate
+396098	subordinate
+subordinate
+396106	coordinate
+subordinate
+396112	coordinate
+subordinate
+396125	coordinate
+subordinate
+396137	subordinate
+coordinate
+396142	coordinate
+396151	coordinate
+396156	coordinate
+396166	subordinate
+396173	coordinate
+396176	coordinate
+396185	subordinate
+396194	subordinate
+396199	coordinate
+coordinate
+coordinate
+coordinate
+396204	coordinate
+396222	subordinate
+396230	subordinate
+396239	subordinate
+396245	subordinate
+396259	coordinate
+396263	coordinate
+396265	coordinate
+396269	coordinate
+396285	coordinate
+396289	coordinate
+396291	subordinate
+396296	coordinate
+396318	coordinate
+396323	coordinate
+396335	subordinate
+396345	subordinate
+396351	subordinate
+coordinate
+396358	coordinate
+396371	coordinate
+396375	coordinate
+396402	subordinate
+396404	subordinate
+subordinate
+396410	coordinate
+396425	coordinate
+396429	subordinate
+coordinate
+396434	subordinate
+396437	coordinate
+396440	subordinate
+396447	coordinate
+396468	subordinate
+coordinate
+396474	coordinate
+396480	subordinate
+396483	coordinate
+396488	coordinate
+subordinate
+coordinate
+396494	subordinate
+396497	coordinate
+396501	subordinate
+396505	subordinate
+396507	subordinate
+396512	subordinate
+396522	subordinate
+396527	coordinate
+coordinate
+396532	subordinate
+subordinate
+396535	coordinate
+396537	coordinate
+coordinate
+subordinate
+396541	coordinate
+396546	subordinate
+396550	subordinate
+396563	subordinate
+396565	coordinate
+396594	subordinate
+396600	coordinate
+396602	coordinate
+396606	subordinate
+subordinate
+396615	subordinate
+396618	coordinate
+396626	subordinate
+coordinate
+396629	coordinate
+subordinate
+396634	coordinate
+396641	coordinate
+subordinate
+396647	subordinate
+coordinate
+396652	coordinate
+396656	coordinate
+396658	subordinate
+396661	coordinate
+subordinate
+396664	coordinate
+coordinate
+subordinate
+396669	subordinate
+396673	coordinate
+coordinate
+subordinate
+396681	coordinate
+396685	coordinate
+396688	subordinate
+396694	coordinate
+396696	coordinate
+396705	subordinate
+396727	coordinate
+396729	coordinate
+396743	subordinate
+396751	subordinate
+396753	subordinate
+396769	subordinate
+396777	subordinate
+396786	subordinate
+396794	coordinate
+396799	coordinate
+coordinate
+396803	coordinate
+396820	subordinate
+396828	subordinate
+396830	subordinate
+396839	subordinate
+396864	subordinate
+396867	subordinate
+396877	coordinate
+396881	coordinate
+396889	subordinate
+coordinate
+396895	coordinate
+subordinate
+396899	subordinate
+396901	coordinate
+coordinate
+coordinate
+396906	coordinate
+396912	coordinate
+subordinate
+subordinate
+396919	subordinate
+subordinate
+396930	subordinate
+subordinate
+396936	coordinate
+coordinate
+396939	coordinate
+coordinate
+coordinate
+396943	coordinate
+coordinate
+coordinate
+396947	coordinate
+396949	subordinate
+coordinate
+396955	coordinate
+396959	coordinate
+396981	subordinate
+subordinate
+subordinate
+396999	coordinate
+397002	coordinate
+397031	subordinate
+397038	subordinate
+397042	coordinate
+397045	subordinate
+397048	coordinate
+397055	subordinate
+397063	subordinate
+subordinate
+397071	subordinate
+397085	subordinate
+397089	subordinate
+397097	subordinate
+397099	subordinate
+397110	subordinate
+397112	subordinate
+397120	coordinate
+397125	coordinate
+397131	coordinate
+397138	subordinate
+397144	coordinate
+397147	subordinate
+397150	subordinate
+397160	subordinate
+subordinate
+coordinate
+397164	coordinate
+397167	coordinate
+coordinate
+397170	coordinate
+397176	coordinate
+subordinate
+397179	coordinate
+397192	subordinate
+397212	subordinate
+coordinate
+397218	coordinate
+397233	coordinate
+397237	subordinate
+397241	subordinate
+397243	subordinate
+397254	coordinate
+397256	coordinate
+397266	coordinate
+397268	subordinate
+397273	subordinate
+397281	coordinate
+397283	coordinate
+397291	coordinate
+397293	subordinate
+397302	coordinate
+coordinate
+subordinate
+397307	coordinate
+397311	coordinate
+397316	subordinate
+397330	subordinate
+397341	subordinate
+397359	subordinate
+397363	subordinate
+397368	subordinate
+subordinate
+397379	subordinate
+397384	subordinate
+397389	subordinate
+397391	subordinate
+397400	coordinate
+397410	coordinate
+397426	subordinate
+coordinate
+397438	subordinate
+coordinate
+397447	coordinate
+397457	subordinate
+397466	subordinate
+397481	subordinate
+coordinate
+397488	coordinate
+397496	subordinate
+397501	subordinate
+397511	subordinate
+coordinate
+397516	coordinate
+397524	subordinate
+coordinate
+397530	coordinate
+397537	coordinate
+397539	coordinate
+397545	subordinate
+397547	coordinate
+397549	coordinate
+397558	coordinate
+397563	coordinate
+397569	subordinate
+397612	coordinate
+397614	coordinate
+397625	subordinate
+coordinate
+397628	coordinate
+397630	subordinate
+subordinate
+397642	subordinate
+subordinate
+397660	subordinate
+397667	subordinate
+coordinate
+subordinate
+397675	coordinate
+subordinate
+397693	coordinate
+397696	coordinate
+397698	subordinate
+397711	subordinate
+397751	subordinate
+397781	subordinate
+397798	subordinate
+397807	subordinate
+coordinate
+397810	coordinate
+397812	coordinate
+397821	subordinate
+subordinate
+397833	subordinate
+397851	coordinate
+397853	coordinate
+397857	subordinate
+397884	subordinate
+subordinate
+397894	coordinate
+coordinate
+coordinate
+397900	coordinate
+397902	coordinate
+397917	subordinate
+397921	coordinate
+coordinate
+coordinate
+coordinate
+397931	coordinate
+397938	coordinate
+subordinate
+397944	coordinate
+397946	coordinate
+397957	coordinate
+397959	subordinate
+397961	coordinate
+397963	subordinate
+397967	coordinate
+397971	coordinate
+397981	coordinate
+397983	coordinate
+397988	coordinate
+397999	subordinate
+subordinate
+398008	subordinate
+398028	subordinate
+398034	subordinate
+398038	subordinate
+coordinate
+398041	coordinate
+398049	coordinate
+398051	subordinate
+coordinate
+398054	coordinate
+398056	coordinate
+398074	coordinate
+398078	coordinate
+398085	subordinate
+398088	subordinate
+398092	coordinate
+398097	coordinate
+398102	subordinate
+398109	coordinate
+398111	coordinate
+398125	coordinate
+coordinate
+398129	subordinate
+398131	coordinate
+398133	subordinate
+398135	coordinate
+398137	subordinate
+398146	coordinate
+398148	coordinate
+398155	subordinate
+subordinate
+398163	coordinate
+398165	coordinate
+398167	coordinate
+subordinate
+398172	subordinate
+coordinate
+398182	coordinate
+398190	subordinate
+398192	subordinate
+398197	subordinate
+398205	subordinate
+subordinate
+398217	coordinate
+398222	coordinate
+398250	subordinate
+subordinate
+398267	subordinate
+398277	subordinate
+398279	coordinate
+subordinate
+398292	coordinate
+398306	coordinate
+coordinate
+398309	coordinate
+398322	coordinate
+398328	coordinate
+398339	coordinate
+398341	coordinate
+398349	subordinate
+398356	coordinate
+subordinate
+398363	subordinate
+398367	coordinate
+subordinate
+398370	coordinate
+398372	subordinate
+398377	subordinate
+398383	coordinate
+398386	coordinate
+398398	coordinate
+398401	coordinate
+398404	coordinate
+coordinate
+398408	coordinate
+398410	coordinate
+coordinate
+398414	coordinate
+398417	coordinate
+coordinate
+398423	coordinate
+398432	coordinate
+398434	subordinate
+subordinate
+398441	coordinate
+398445	coordinate
+398447	subordinate
+398452	coordinate
+398456	coordinate
+subordinate
+398465	coordinate
+398479	subordinate
+398486	subordinate
+398489	coordinate
+398493	coordinate
+398497	coordinate
+398506	subordinate
+398516	subordinate
+398529	subordinate
+398539	subordinate
+398547	subordinate
+398557	coordinate
+398564	coordinate
+398579	subordinate
+398587	coordinate
+subordinate
+398593	coordinate
+coordinate
+subordinate
+398598	coordinate
+398607	coordinate
+398610	subordinate
+subordinate
+398616	coordinate
+398627	subordinate
+398634	subordinate
+coordinate
+398638	coordinate
+398642	coordinate
+subordinate
+398650	subordinate
+398663	coordinate
+398665	subordinate
+398670	coordinate
+coordinate
+subordinate
+398674	coordinate
+subordinate
+398681	coordinate
+subordinate
+398693	coordinate
+398696	coordinate
+coordinate
+398699	coordinate
+398704	subordinate
+398718	subordinate
+398721	coordinate
+398723	subordinate
+398725	coordinate
+398732	coordinate
+398739	coordinate
+398750	coordinate
+subordinate
+398755	subordinate
+398758	subordinate
+398781	coordinate
+398795	coordinate
+398800	coordinate
+398806	coordinate
+subordinate
+398811	coordinate
+398813	coordinate
+398816	coordinate
+398834	subordinate
+398839	subordinate
+398846	subordinate
+coordinate
+398849	coordinate
+398865	subordinate
+398872	coordinate
+subordinate
+398875	coordinate
+398880	subordinate
+398882	coordinate
+coordinate
+398886	coordinate
+398889	coordinate
+subordinate
+coordinate
+398893	coordinate
+398900	subordinate
+398907	coordinate
+coordinate
+398911	coordinate
+398913	coordinate
+398938	subordinate
+subordinate
+coordinate
+398952	coordinate
+398956	coordinate
+398966	coordinate
+398974	coordinate
+398978	coordinate
+398993	subordinate
+subordinate
+398999	subordinate
+399003	coordinate
+subordinate
+coordinate
+399007	coordinate
+399011	coordinate
+399016	subordinate
+399023	subordinate
+subordinate
+399034	coordinate
+399037	coordinate
+399042	coordinate
+399053	coordinate
+399065	subordinate
+399070	subordinate
+399088	subordinate
+399101	subordinate
+399110	subordinate
+399113	subordinate
+399120	coordinate
+subordinate
+399123	coordinate
+399129	coordinate
+399136	coordinate
+399144	subordinate
+399152	subordinate
+subordinate
+399160	subordinate
+399167	coordinate
+coordinate
+399174	subordinate
+399181	coordinate
+399183	subordinate
+399191	subordinate
+399193	subordinate
+399198	subordinate
+399201	subordinate
+399214	subordinate
+coordinate
+399220	coordinate
+399232	subordinate
+399248	coordinate
+399251	coordinate
+399256	subordinate
+399264	subordinate
+subordinate
+399267	subordinate
+399275	subordinate
+399280	subordinate
+399289	coordinate
+coordinate
+399294	coordinate
+399296	coordinate
+399308	subordinate
+399313	subordinate
+399319	coordinate
+399321	coordinate
+subordinate
+subordinate
+399326	subordinate
+399332	coordinate
+399336	coordinate
+subordinate
+399340	subordinate
+399345	coordinate
+399347	coordinate
+399349	subordinate
+399353	subordinate
+399359	subordinate
+399364	coordinate
+399372	coordinate
+399384	coordinate
+subordinate
+399387	coordinate
+399395	coordinate
+399402	subordinate
+399404	subordinate
+399423	coordinate
+399427	subordinate
+399431	subordinate
+coordinate
+399435	coordinate
+399456	subordinate
+399460	subordinate
+coordinate
+399465	coordinate
+399467	subordinate
+399476	subordinate
+subordinate
+subordinate
+399484	subordinate
+399486	coordinate
+399488	coordinate
+subordinate
+399494	subordinate
+399498	coordinate
+399501	subordinate
+399503	coordinate
+subordinate
+399510	subordinate
+subordinate
+399514	subordinate
+399517	subordinate
+399529	subordinate
+399533	subordinate
+399546	subordinate
+399556	subordinate
+399573	subordinate
+399583	subordinate
+399595	coordinate
+399597	coordinate
+399611	subordinate
+coordinate
+399615	coordinate
+399619	coordinate
+399630	subordinate
+399634	coordinate
+subordinate
+399639	subordinate
+399641	coordinate
+subordinate
+399653	subordinate
+399663	coordinate
+399669	subordinate
+399671	coordinate
+399684	subordinate
+399687	subordinate
+399691	coordinate
+399693	coordinate
+399696	coordinate
+399698	subordinate
+399702	subordinate
+399710	subordinate
+399726	subordinate
+399743	subordinate
+399753	coordinate
+399757	subordinate
+399763	coordinate
+399766	subordinate
+399770	coordinate
+399778	coordinate
+subordinate
+399783	coordinate
+subordinate
+399791	coordinate
+399795	subordinate
+399799	coordinate
+subordinate
+399809	coordinate
+399813	subordinate
+399816	coordinate
+399822	coordinate
+399825	coordinate
+subordinate
+399842	subordinate
+399847	subordinate
+399854	subordinate
+399861	coordinate
+399867	coordinate
+399869	coordinate
+subordinate
+399875	coordinate
+399889	subordinate
+399900	coordinate
+coordinate
+399905	coordinate
+399907	coordinate
+coordinate
+399913	coordinate
+399917	coordinate
+coordinate
+399925	coordinate
+subordinate
+399928	subordinate
+399930	coordinate
+399935	coordinate
+399937	coordinate
+399940	coordinate
+399944	subordinate
+399956	coordinate
+399958	subordinate
+subordinate
+399965	coordinate
+subordinate
+399969	subordinate
+399976	coordinate
+399987	subordinate
+subordinate
+399992	coordinate
+399994	coordinate
+subordinate
+400001	subordinate
+400005	subordinate
+400008	coordinate
+coordinate
+400012	coordinate
+400015	coordinate
+400018	subordinate
+400026	subordinate
+400043	coordinate
+400046	coordinate
+400052	subordinate
+coordinate
+400055	coordinate
+400057	subordinate
+coordinate
+coordinate
+400064	coordinate
+400066	coordinate
+coordinate
+400069	coordinate
+400079	coordinate
+400081	coordinate
+subordinate
+subordinate
+400090	subordinate
+400100	subordinate
+subordinate
+400110	subordinate
+400118	subordinate
+400120	subordinate
+400127	subordinate
+400136	subordinate
+400157	coordinate
+400161	coordinate
+subordinate
+400176	coordinate
+400180	coordinate
+400192	subordinate
+400217	subordinate
+400223	coordinate
+400230	coordinate
+400240	subordinate
+400250	subordinate
+400259	subordinate
+400262	subordinate
+400264	coordinate
+coordinate
+400268	coordinate
+400271	coordinate
+coordinate
+400274	coordinate
+400278	subordinate
+coordinate
+400281	coordinate
+400285	coordinate
+400288	subordinate
+400290	coordinate
+400296	coordinate
+400302	coordinate
+400307	subordinate
+400322	coordinate
+400328	coordinate
+400333	coordinate
+subordinate
+400340	coordinate
+400346	coordinate
+400350	coordinate
+400354	coordinate
+400356	coordinate
+400359	subordinate
+400364	coordinate
+400367	coordinate
+400370	subordinate
+400377	subordinate
+400381	subordinate
+coordinate
+400384	coordinate
+subordinate
+400398	subordinate
+400404	subordinate
+coordinate
+400408	coordinate
+400417	coordinate
+400421	coordinate
+400425	coordinate
+400428	subordinate
+400431	subordinate
+400435	coordinate
+400443	subordinate
+400447	coordinate
+400451	subordinate
+coordinate
+400458	coordinate
+400462	subordinate
+400473	coordinate
+400480	coordinate
+400485	coordinate
+400487	coordinate
+400498	subordinate
+coordinate
+400502	subordinate
+400505	coordinate
+400517	subordinate
+400524	subordinate
+400529	subordinate
+400554	subordinate
+400562	subordinate
+400567	subordinate
+subordinate
+400577	coordinate
+400582	coordinate
+subordinate
+400589	subordinate
+coordinate
+400596	coordinate
+400600	coordinate
+400609	coordinate
+400611	subordinate
+400616	coordinate
+400618	subordinate
+400624	subordinate
+coordinate
+400629	coordinate
+400646	subordinate
+400651	coordinate
+400656	coordinate
+400658	coordinate
+400662	coordinate
+400667	coordinate
+400672	subordinate
+400675	subordinate
+400677	subordinate
+400680	subordinate
+400683	subordinate
+400685	coordinate
+400688	coordinate
+400693	subordinate
+400695	subordinate
+coordinate
+400698	coordinate
+400700	coordinate
+400709	subordinate
+400715	subordinate
+subordinate
+400724	subordinate
+subordinate
+400743	coordinate
+400753	coordinate
+400763	subordinate
+400765	subordinate
+400778	coordinate
+400784	subordinate
+400789	coordinate
+400794	subordinate
+400801	subordinate
+400805	coordinate
+400809	coordinate
+400812	subordinate
+subordinate
+400816	subordinate
+400824	subordinate
+400831	coordinate
+400843	coordinate
+400851	coordinate
+400853	coordinate
+400868	coordinate
+subordinate
+400877	coordinate
+400888	coordinate
+400890	coordinate
+400895	subordinate
+400897	subordinate
+400915	subordinate
+coordinate
+400918	coordinate
+400926	subordinate
+400939	coordinate
+subordinate
+coordinate
+coordinate
+coordinate
+coordinate
+400946	subordinate
+400951	coordinate
+coordinate
+400955	coordinate
+400958	subordinate
+400964	coordinate
+coordinate
+coordinate
+coordinate
+coordinate
+coordinate
+400976	coordinate
+400981	coordinate
+400986	subordinate
+400993	coordinate
+400997	subordinate
+coordinate
+401002	coordinate
+401007	subordinate
+401009	coordinate
+401020	coordinate
+subordinate
+401023	subordinate
+401027	coordinate
+subordinate
+401039	coordinate
+401042	coordinate
+401050	coordinate
+401053	coordinate
+401058	subordinate
+401076	subordinate
+coordinate
+401079	coordinate
+401085	subordinate
+coordinate
+401089	coordinate
+401093	coordinate
+401098	coordinate
+401108	coordinate
+401116	subordinate
+coordinate
+401121	coordinate
+401130	subordinate
+401132	subordinate
+401145	coordinate
+401159	coordinate
+401170	subordinate
+401193	coordinate
+401202	subordinate
+401204	coordinate
+401207	coordinate
+401212	subordinate
+401219	subordinate
+coordinate
+subordinate
+401227	coordinate
+subordinate
+401238	subordinate
+401242	coordinate
+401244	subordinate
+subordinate
+401250	coordinate
+401263	subordinate
+401269	subordinate
+coordinate
+401275	coordinate
+401284	subordinate
+401288	subordinate
+401297	coordinate
+subordinate
+401302	coordinate
+401304	subordinate
+401313	subordinate
+401319	subordinate
+401330	subordinate
+401341	subordinate
+401347	coordinate
+coordinate
+coordinate
+coordinate
+coordinate
+401366	subordinate
+401370	coordinate
+coordinate
+coordinate
+401374	subordinate
+401376	coordinate
+401378	coordinate
+401382	coordinate
+401389	subordinate
+401391	subordinate
+401395	subordinate
+401408	subordinate
+coordinate
+subordinate
+401414	coordinate
+401426	subordinate
+401441	subordinate
+401451	subordinate
+401462	coordinate
+401467	coordinate
+401477	subordinate
+401494	subordinate
+coordinate
+coordinate
+coordinate
+401500	coordinate
+401502	coordinate
+401504	coordinate
+401506	coordinate
+subordinate
+401509	coordinate
+401516	coordinate
+401519	coordinate
+401524	coordinate
+401539	subordinate
+401543	subordinate
+subordinate
+subordinate
+401578	subordinate
+401580	subordinate
+401588	subordinate
+401607	coordinate
+401609	coordinate
+subordinate
+401617	subordinate
+401622	subordinate
+401627	coordinate
+401629	subordinate
+401631	coordinate
+401633	coordinate
+401637	coordinate
+401639	subordinate
+401647	subordinate
+401652	subordinate
+401657	subordinate
+401659	subordinate
+subordinate
+401665	subordinate
+401669	subordinate
+401675	subordinate
+401677	subordinate
+subordinate
+401685	coordinate
+subordinate
+401688	coordinate
+subordinate
+401693	subordinate
+401699	subordinate
+401703	subordinate
+401707	coordinate
+401716	coordinate
+401718	subordinate
+401730	subordinate
+401739	subordinate
+401749	subordinate
+401753	coordinate
+401762	subordinate
+401771	subordinate
+coordinate
+401774	coordinate
+401778	coordinate
+subordinate
+401788	subordinate
+401792	coordinate
+401796	coordinate
+401800	subordinate
+401809	subordinate
+401813	subordinate
+401820	subordinate
+subordinate
+401826	subordinate
+401841	subordinate
+401844	subordinate
+401878	subordinate
+401886	coordinate
+subordinate
+401889	coordinate
+subordinate
+401906	subordinate
+coordinate
+subordinate
+401910	coordinate
+subordinate
+401913	coordinate
+401921	subordinate
+401929	coordinate
+401933	coordinate
+401948	coordinate
+401953	coordinate
+401958	subordinate
+401962	coordinate
+401969	subordinate
+401972	coordinate
+401977	subordinate
+subordinate
+401986	subordinate
+402004	coordinate
+subordinate
+402007	subordinate
+402013	coordinate
+subordinate
+402031	subordinate
+402035	subordinate
+402057	coordinate
+402061	coordinate
+subordinate
+402092	subordinate
+subordinate
+402102	subordinate
+402110	coordinate
+402113	coordinate
+402131	subordinate
+402135	subordinate
+402142	subordinate
+402144	subordinate
+402150	coordinate
+subordinate
+402165	coordinate
+402168	coordinate
+coordinate
+402173	coordinate
+402175	coordinate
+402177	coordinate
+402185	coordinate
+402189	subordinate
+402197	subordinate
+402200	subordinate
+402212	coordinate
+402225	coordinate
+402230	subordinate
+402232	coordinate
+402243	subordinate
+402246	subordinate
+402256	coordinate
+402261	coordinate
+402263	coordinate
+402271	coordinate
+402276	coordinate
+402280	coordinate
+402288	subordinate
+402291	coordinate
+402295	coordinate
+402300	coordinate
+402309	coordinate
+402318	coordinate
+402328	subordinate
+402330	subordinate
+402334	subordinate
+subordinate
+402347	subordinate
+402354	coordinate
+402356	coordinate
+402358	coordinate
+402366	subordinate
+402375	subordinate
+402379	subordinate
+402384	subordinate
+402390	subordinate
+402394	subordinate
+402414	subordinate
+402423	subordinate
+402428	subordinate
+402439	coordinate
+coordinate
+402442	coordinate
+402446	coordinate
+402451	subordinate
+402456	subordinate
+402471	coordinate
+402487	coordinate
+402492	subordinate
+402499	coordinate
+402512	subordinate
+402514	subordinate
+subordinate
+402517	subordinate
+402519	subordinate
+subordinate
+402536	coordinate
+402540	coordinate
+coordinate
+coordinate
+402548	coordinate
+subordinate
+402551	coordinate
+402555	subordinate
+402574	coordinate
+402577	coordinate
+402584	coordinate
+subordinate
+402590	coordinate
+subordinate
+402598	subordinate
+402604	subordinate
+402610	subordinate
+coordinate
+402613	subordinate
+402615	coordinate
+402617	coordinate
+402622	coordinate
+402633	subordinate
+402637	coordinate
+402643	coordinate
+coordinate
+402648	coordinate
+402663	subordinate
+402670	coordinate
+402678	coordinate
+402681	subordinate
+coordinate
+402686	coordinate
+402698	subordinate
+402700	subordinate
+coordinate
+402703	coordinate
+402705	subordinate
+402718	subordinate
+402730	coordinate
+402732	coordinate
+402734	subordinate
+402738	subordinate
+402746	subordinate
+402752	subordinate
+402769	subordinate
+402779	coordinate
+402781	coordinate
+402798	coordinate
+subordinate
+402802	coordinate
+402816	coordinate
+402821	coordinate
+402827	subordinate
+402830	subordinate
+402838	coordinate
+subordinate
+402856	coordinate
+402864	coordinate
+402900	coordinate
+402905	subordinate
+subordinate
+402921	coordinate
+402923	coordinate
+402932	subordinate
+402939	coordinate
+subordinate
+402942	coordinate
+402947	coordinate
+coordinate
+402951	coordinate
+402953	coordinate
+402962	coordinate
+402972	coordinate
+402979	coordinate
+subordinate
+402985	subordinate
+403001	subordinate
+subordinate
+403004	subordinate
+403009	subordinate
+coordinate
+403012	coordinate
+403019	coordinate
+403027	coordinate
+403030	coordinate
+403054	subordinate
+subordinate
+403065	coordinate
+403072	coordinate
+403077	coordinate
+403083	subordinate
+403105	coordinate
+403110	coordinate
+403114	coordinate
+403117	coordinate
+403122	coordinate
+403126	subordinate
+403133	coordinate
+403139	coordinate
+403157	subordinate
+403164	subordinate
+403177	subordinate
+403179	coordinate
+403181	coordinate
+403185	subordinate
+403201	subordinate
+403203	subordinate
+403211	subordinate
+subordinate
+subordinate
+403228	subordinate
+403232	coordinate
+403238	coordinate
+403246	coordinate
+403260	subordinate
+403280	subordinate
+coordinate
+403286	subordinate
+403288	coordinate
+403296	coordinate
+403302	coordinate
+403304	subordinate
+403316	subordinate
+403339	subordinate
+403349	subordinate
+403357	subordinate
+403366	coordinate
+403368	coordinate
+subordinate
+403373	coordinate
+403375	coordinate
+403387	subordinate
+403397	subordinate
+403400	subordinate
+403416	subordinate
+403445	subordinate
+403451	coordinate
+403453	subordinate
+403455	subordinate
+403457	coordinate
+403463	subordinate
+403465	coordinate
+403467	coordinate
+403475	subordinate
+403489	subordinate
+403497	subordinate
+subordinate
+403500	coordinate
+403502	coordinate
+403516	subordinate
+403523	coordinate
+subordinate
+subordinate
+403527	coordinate
+403551	coordinate
+403574	subordinate
+403576	coordinate
+403584	coordinate
+403593	subordinate
+403601	subordinate
+403611	subordinate
+403616	coordinate
+403621	coordinate
+403627	coordinate
+403629	coordinate
+coordinate
+403637	coordinate
+403676	coordinate
+403678	subordinate
+subordinate
+403683	subordinate
+403693	coordinate
+403695	subordinate
+403711	subordinate
+403724	subordinate
+403733	subordinate
+403748	subordinate
+subordinate
+403755	subordinate
+403778	coordinate
+403784	coordinate
+403790	subordinate
+403818	subordinate
+403833	subordinate
+403837	subordinate
+403842	coordinate
+403847	coordinate
+subordinate
+403855	subordinate
+403861	subordinate
+coordinate
+403865	coordinate
+403871	subordinate
+403875	subordinate
+403880	coordinate
+403885	subordinate
+403889	coordinate
+coordinate
+subordinate
+403894	subordinate
+403897	subordinate
+403905	subordinate
+403907	subordinate
+403915	coordinate
+coordinate
+403923	coordinate
+403925	subordinate
+403937	subordinate
+403949	coordinate
+403957	coordinate
+403965	subordinate
+403972	subordinate
+403980	subordinate
+403989	subordinate
+404018	coordinate
+subordinate
+404021	coordinate
+404034	coordinate
+404039	coordinate
+404045	subordinate
+coordinate
+subordinate
+404052	coordinate
+404059	subordinate
+404066	subordinate
+404091	subordinate
+404099	subordinate
+404103	subordinate
+404107	coordinate
+subordinate
+404112	coordinate
+404122	subordinate
+subordinate
+404127	subordinate
+404131	coordinate
+404136	subordinate
+404138	coordinate
+subordinate
+404149	subordinate
+404155	subordinate
+404157	coordinate
+404165	coordinate
+404172	subordinate
+404180	subordinate
+404187	subordinate
+404225	subordinate
+404232	subordinate
+404241	subordinate
+404244	subordinate
+coordinate
+404249	coordinate
+subordinate
+404252	coordinate
+subordinate
+404267	subordinate
+404289	subordinate
+404293	subordinate
+404301	subordinate
+404316	subordinate
+404327	subordinate
+404330	subordinate
+coordinate
+404335	subordinate
+404341	coordinate
+subordinate
+subordinate
+404361	subordinate
+404365	subordinate
+coordinate
+404372	coordinate
+subordinate
+404390	subordinate
+subordinate
+404397	subordinate
+404406	coordinate
+404409	subordinate
+subordinate
+404414	coordinate
+subordinate
+404421	subordinate
+404424	coordinate
+404427	subordinate
+404438	subordinate
+404444	coordinate
+404446	coordinate
+404454	subordinate
+404464	subordinate
+subordinate
+404489	subordinate
+404493	coordinate
+404495	subordinate
+subordinate
+404498	coordinate
+404504	subordinate
+404510	coordinate
+404520	coordinate
+404528	subordinate
+subordinate
+404533	subordinate
+404536	subordinate
+404554	subordinate
+404564	coordinate
+404567	coordinate
+404588	subordinate
+404594	coordinate
+404602	subordinate
+404614	subordinate
+404619	subordinate
+404632	coordinate
+404635	coordinate
+404645	subordinate
+subordinate
+404650	subordinate
+404657	subordinate
+404669	subordinate
+404680	subordinate
+subordinate
+coordinate
+404687	subordinate
+404707	subordinate
+404718	subordinate
+404720	subordinate
+404725	subordinate
+404730	coordinate
+404732	coordinate
+404735	subordinate
+404737	subordinate
+404739	coordinate
+404747	subordinate
+404764	coordinate
+404768	coordinate
+coordinate
+404779	coordinate
+404786	subordinate
+404798	subordinate
+404802	subordinate
+404817	subordinate
+404821	subordinate
+404824	subordinate
+404840	subordinate
+404850	subordinate
+subordinate
+404871	coordinate
+subordinate
+404878	coordinate
+coordinate
+subordinate
+404882	coordinate
+404891	coordinate
+404894	coordinate
+404898	coordinate
+subordinate
+404909	subordinate
+404914	coordinate
+subordinate
+404934	subordinate
+404940	coordinate
+subordinate
+404946	coordinate
+subordinate
+404965	subordinate
+404970	coordinate
+404972	coordinate
+404985	coordinate
+coordinate
+404991	subordinate
+404997	subordinate
+coordinate
+405006	coordinate
+405008	coordinate
+405014	coordinate
+405018	coordinate
+subordinate
+405049	coordinate
+405055	coordinate
+405059	coordinate
+405061	subordinate
+405065	coordinate
+subordinate
+subordinate
+405072	subordinate
+405079	coordinate
+405089	subordinate
+405094	coordinate
+405108	coordinate
+405110	coordinate
+405113	coordinate
+405115	subordinate
+405117	coordinate
+405132	subordinate
+405139	subordinate
+405141	subordinate
+405144	coordinate
+405146	coordinate
+405180	subordinate
+coordinate
+405190	coordinate
+405198	subordinate
+405210	subordinate
+405220	subordinate
+coordinate
+405225	coordinate
+405228	subordinate
+405233	subordinate
+405237	coordinate
+405244	coordinate
+coordinate
+405248	subordinate
+405252	coordinate
+405269	subordinate
+405272	subordinate
+coordinate
+405276	coordinate
+405283	subordinate
+405298	coordinate
+405304	coordinate
+subordinate
+405314	subordinate
+coordinate
+405318	coordinate
+405335	coordinate
+subordinate
+405339	coordinate
+subordinate
+405344	coordinate
+405348	coordinate
+405366	subordinate
+405370	subordinate
+405375	coordinate
+subordinate
+405381	coordinate
+subordinate
+405391	coordinate
+405394	coordinate
+405403	subordinate
+405413	coordinate
+405422	subordinate
+coordinate
+405425	coordinate
+subordinate
+405431	coordinate
+405434	coordinate
+405451	coordinate
+405453	coordinate
+405459	subordinate
+subordinate
+405464	subordinate
+405473	coordinate
+405477	coordinate
+405489	subordinate
+405501	subordinate
+405505	subordinate
+405530	subordinate
+coordinate
+coordinate
+405535	coordinate
+405540	coordinate
+405552	subordinate
+405569	subordinate
+405574	coordinate
+405578	coordinate
+subordinate
+405589	coordinate
+405592	coordinate
+405598	coordinate
+subordinate
+405604	coordinate
+405612	coordinate
+405616	coordinate
+405621	coordinate
+405630	coordinate
+405633	coordinate
+405639	coordinate
+405642	coordinate
+405650	coordinate
+405655	coordinate
+405661	subordinate
+405669	subordinate
+405673	subordinate
+405677	coordinate
+405679	coordinate
+subordinate
+405696	coordinate
+405700	coordinate
+405704	coordinate
+405708	coordinate
+405712	coordinate
+405720	subordinate
+405741	coordinate
+coordinate
+405745	coordinate
+405748	coordinate
+405762	coordinate
+405765	coordinate
+405776	subordinate
+405779	subordinate
+405818	subordinate
+405831	coordinate
+405833	coordinate
+405864	subordinate
+405880	subordinate
+405886	subordinate
+405892	coordinate
+405898	subordinate
+405914	subordinate
+405937	coordinate
+405939	subordinate
+405967	subordinate
+405969	coordinate
+405971	coordinate
+405973	subordinate
+405977	subordinate
+405985	coordinate
+subordinate
+405991	coordinate
+405995	coordinate
+406001	subordinate
+406007	subordinate
+406019	coordinate
+406029	coordinate
+406040	subordinate
+subordinate
+406052	coordinate
+406055	subordinate
+406057	coordinate
+406062	subordinate
+coordinate
+406066	coordinate
+subordinate
+406076	subordinate
+subordinate
+406081	coordinate
+406083	coordinate
+406087	coordinate
+coordinate
+406090	coordinate
+subordinate
+406093	coordinate
+406112	coordinate
+406115	coordinate
+406118	coordinate
+406136	subordinate
+406148	coordinate
+406150	subordinate
+406154	coordinate
+coordinate
+406173	coordinate
+406179	subordinate
+coordinate
+406184	coordinate
+406196	subordinate
+406203	coordinate
+406205	coordinate
+406208	coordinate
+subordinate
+406224	coordinate
+406231	subordinate
+406247	coordinate
+406268	subordinate
+coordinate
+406272	coordinate
+406285	coordinate
+406293	coordinate
+406351	subordinate
+406368	coordinate
+406370	coordinate
+406379	subordinate
+coordinate
+406384	subordinate
+406386	coordinate
+406390	coordinate
+406397	coordinate
+406404	coordinate
+406411	subordinate
+406419	coordinate
+coordinate
+406429	coordinate
+406433	coordinate
+406439	coordinate
+406452	coordinate
+406458	coordinate
+406463	coordinate
+406469	coordinate
+406472	subordinate
+406482	coordinate
+coordinate
+406485	subordinate
+406496	coordinate
+coordinate
+406502	coordinate
+406532	coordinate
+406539	subordinate
+406542	coordinate
+406546	coordinate
+406550	coordinate
+406558	coordinate
+406565	coordinate
+406580	subordinate
+406589	coordinate
+406601	subordinate
+406612	subordinate
+406620	coordinate
+406626	coordinate
+subordinate
+406634	subordinate
+subordinate
+406651	coordinate
+406663	subordinate
+406669	subordinate
+406674	coordinate
+406682	subordinate
+406684	subordinate
+406694	subordinate
+subordinate
+406698	subordinate
+coordinate
+406706	coordinate
+406714	subordinate
+406719	subordinate
+406726	coordinate
+406732	coordinate
+406743	subordinate
+406746	coordinate
+406748	subordinate
+406750	coordinate
+coordinate
+406757	coordinate
+406759	coordinate
+406769	coordinate
+406773	subordinate
+406776	coordinate
+406780	coordinate
+406785	coordinate
+406792	coordinate
+coordinate
+subordinate
+406796	coordinate
+subordinate
+406799	coordinate
+406805	subordinate
+coordinate
+406809	coordinate
+406811	subordinate
+subordinate
+406820	subordinate
+406833	subordinate
+406839	subordinate
+406844	subordinate
+406857	subordinate
+406863	subordinate
+coordinate
+406870	coordinate
+406881	subordinate
+406883	coordinate
+subordinate
+406897	subordinate
+406911	coordinate
+406916	coordinate
+406918	coordinate
+406922	coordinate
+406925	subordinate
+406932	coordinate
+406938	coordinate
+406942	subordinate
+406959	subordinate
+406964	coordinate
+406975	coordinate
+coordinate
+406979	coordinate
+406990	subordinate
+406992	coordinate
+coordinate
+406995	coordinate
+407013	coordinate
+407026	coordinate
+407028	coordinate
+407032	coordinate
+407037	subordinate
+407039	subordinate
+407049	coordinate
+407052	coordinate
+407070	coordinate
+407072	coordinate
+407086	subordinate
+coordinate
+407089	coordinate
+407097	coordinate
+407105	coordinate
+407122	coordinate
+407138	subordinate
+407143	subordinate
+407148	coordinate
+407152	coordinate
+407166	coordinate
+407171	coordinate
+407187	coordinate
+407192	coordinate
+407194	subordinate
+coordinate
+407198	coordinate
+407202	coordinate
+407205	coordinate
+407211	subordinate
+407222	subordinate
+407239	subordinate
+407252	subordinate
+407257	subordinate
+407266	subordinate
+407276	subordinate
+407279	subordinate
+407281	subordinate
+407283	subordinate
+407286	coordinate
+407291	subordinate
+407297	subordinate
+407301	subordinate
+407303	coordinate
+407306	coordinate
+407309	subordinate
+407315	coordinate
+407317	coordinate
+407333	coordinate
+407336	coordinate
+coordinate
+407340	coordinate
+407349	coordinate
+407353	coordinate
+407361	coordinate
+coordinate
+subordinate
+407373	coordinate
+407380	subordinate
+407392	subordinate
+coordinate
+407395	coordinate
+subordinate
+407402	coordinate
+407406	coordinate
+407409	coordinate
+407423	subordinate
+coordinate
+407427	coordinate
+subordinate
+407440	coordinate
+407454	subordinate
+407463	subordinate
+407474	subordinate
+407477	subordinate
+407479	subordinate
+407487	coordinate
+407489	coordinate
+407491	subordinate
+407499	subordinate
+407505	coordinate
+407508	coordinate
+subordinate
+407527	subordinate
+407539	coordinate
+407544	coordinate
+407547	subordinate
+407553	coordinate
+407555	coordinate
+407560	coordinate
+coordinate
+407566	coordinate
+407579	subordinate
+407585	coordinate
+407589	coordinate
+407604	subordinate
+407612	subordinate
+407618	subordinate
+407620	coordinate
+407626	coordinate
+407634	coordinate
+407636	coordinate
+407641	coordinate
+407652	coordinate
+407656	coordinate
+407660	subordinate
+407674	coordinate
+407678	coordinate
+407683	subordinate
+subordinate
+407687	coordinate
+407689	coordinate
+407711	subordinate
+407716	subordinate
+407720	subordinate
+407729	coordinate
+407743	subordinate
+coordinate
+407774	subordinate
+407778	subordinate
+407780	subordinate
+407785	subordinate
+407810	coordinate
+407821	coordinate
+407825	coordinate
+407827	coordinate
+407831	subordinate
+subordinate
+407840	subordinate
+407851	subordinate
+subordinate
+407865	coordinate
+407872	coordinate
+407915	coordinate
+407927	subordinate
+407935	coordinate
+407940	coordinate
+407953	subordinate
+407970	subordinate
+407972	coordinate
+407977	coordinate
+407983	subordinate
+407993	subordinate
+408002	subordinate
+coordinate
+subordinate
+408012	subordinate
+408023	subordinate
+408028	coordinate
+408030	subordinate
+408038	coordinate
+408042	coordinate
+408046	coordinate
+408049	coordinate
+coordinate
+408054	coordinate
+408068	coordinate
+408070	coordinate
+subordinate
+408081	coordinate
+408085	coordinate
+408094	coordinate
+408096	coordinate
+408102	subordinate
+408104	subordinate
+408112	coordinate
+408122	subordinate
+408126	coordinate
+408142	subordinate
+408158	subordinate
+408161	subordinate
+coordinate
+408164	coordinate
+408168	subordinate
+408173	coordinate
+408183	subordinate
+408186	subordinate
+subordinate
+408199	coordinate
+coordinate
+408204	coordinate
+408206	subordinate
+408212	subordinate
+408217	subordinate
+coordinate
+408222	coordinate
+408226	subordinate
+408230	coordinate
+408232	coordinate
+408240	subordinate
+408257	coordinate
+408260	coordinate
+408264	coordinate
+408269	coordinate
+coordinate
+408273	coordinate
+408285	coordinate
+408287	coordinate
+408289	subordinate
+coordinate
+408298	coordinate
+408305	subordinate
+408310	subordinate
+408315	subordinate
+408317	subordinate
+408326	coordinate
+408335	coordinate
+408351	subordinate
+408356	subordinate
+408363	subordinate
+coordinate
+408368	coordinate
+408376	subordinate
+408383	coordinate
+408397	coordinate
+408400	coordinate
+408405	coordinate
+408411	subordinate
+408414	coordinate
+408419	coordinate
+408421	coordinate
+408423	coordinate
+subordinate
+408445	subordinate
+408459	subordinate
+408463	coordinate
+408465	coordinate
+408468	coordinate
+408472	subordinate
+408483	subordinate
+subordinate
+408496	subordinate
+408499	subordinate
+408502	coordinate
+408514	coordinate
+408521	coordinate
+408525	subordinate
+408533	coordinate
+subordinate
+subordinate
+408538	coordinate
+408563	subordinate
+408567	subordinate
+408573	subordinate
+408595	subordinate
+408605	coordinate
+408609	coordinate
+408624	subordinate
+coordinate
+408638	subordinate
+408642	subordinate
+408644	subordinate
+subordinate
+subordinate
+408655	subordinate
+408677	coordinate
+408683	subordinate
+408703	coordinate
+408707	coordinate
+subordinate
+408720	subordinate
+408728	subordinate
+408730	subordinate
+408734	coordinate
+408736	coordinate
+408750	subordinate
+408769	subordinate
+coordinate
+408772	coordinate
+408774	subordinate
+408781	subordinate
+coordinate
+408788	coordinate
+subordinate
+408797	coordinate
+coordinate
+408800	coordinate
+408804	coordinate
+408806	subordinate
+408811	coordinate
+subordinate
+408818	subordinate
+coordinate
+408824	coordinate
+408828	coordinate
+408838	coordinate
+subordinate
+408843	coordinate
+408861	coordinate
+408865	subordinate
+408867	coordinate
+408869	coordinate
+408875	coordinate
+408898	coordinate
+408900	coordinate
+408903	coordinate
+408907	coordinate
+408909	subordinate
+408914	subordinate
+408921	coordinate
+408931	coordinate
+subordinate
+coordinate
+subordinate
+coordinate
+408939	coordinate
+408960	subordinate
+408971	subordinate
+408977	coordinate
+408987	subordinate
+408996	subordinate
+coordinate
+408999	coordinate
+409016	subordinate
+409025	coordinate
+409030	coordinate
+409047	coordinate
+409051	coordinate
+409070	coordinate
+409076	coordinate
+409087	coordinate
+409089	coordinate
+409093	coordinate
+409095	subordinate
+409099	coordinate
+409104	subordinate
+409109	coordinate
+subordinate
+409114	coordinate
+409130	subordinate
+coordinate
+409134	coordinate
+409147	coordinate
+409151	coordinate
+409154	coordinate
+409158	coordinate
+409198	coordinate
+409206	subordinate
+409209	subordinate
+409231	coordinate
+409235	coordinate
+409243	subordinate
+409266	coordinate
+409273	coordinate
+409283	subordinate
+coordinate
+409287	coordinate
+409302	subordinate
+409328	subordinate
+409330	subordinate
+409340	subordinate
+409342	coordinate
+409349	coordinate
+409359	coordinate
+409363	coordinate
+409373	coordinate
+409378	coordinate
+409387	coordinate
+409391	coordinate
+409400	subordinate
+409404	subordinate
+409422	subordinate
+coordinate
+409426	coordinate
+409437	subordinate
+409444	subordinate
+409452	subordinate
+409468	subordinate
+subordinate
+409473	subordinate
+409485	coordinate
+409490	coordinate
+409503	coordinate
+409507	coordinate
+409517	subordinate
+409520	subordinate
+409526	coordinate
+409534	coordinate
+409544	subordinate
+409553	coordinate
+409557	coordinate
+coordinate
+409570	coordinate
+409575	coordinate
+409585	subordinate
+409587	subordinate
+409601	subordinate
+subordinate
+409606	subordinate
+subordinate
+409625	coordinate
+409627	coordinate
+409631	subordinate
+409642	coordinate
+409645	coordinate
+subordinate
+409651	subordinate
+409665	coordinate
+409670	coordinate
+409677	coordinate
+409679	subordinate
+409681	coordinate
+409699	subordinate
+409705	subordinate
+409712	subordinate
+409725	coordinate
+409748	coordinate
+409750	coordinate
+409766	coordinate
+409770	coordinate
+409777	subordinate
+409781	coordinate
+409785	coordinate
+409789	coordinate
+409795	subordinate
+subordinate
+409803	coordinate
+409807	coordinate
+409827	coordinate
+409829	coordinate
+409843	subordinate
+409850	subordinate
+409853	coordinate
+409857	coordinate
+409860	coordinate
+409867	subordinate
+coordinate
+409871	coordinate
+409875	coordinate
+409880	subordinate
+409884	subordinate
+409890	subordinate
+409895	coordinate
+409897	coordinate
+409908	subordinate
+subordinate
+409913	coordinate
+409915	coordinate
+409932	subordinate
+409938	coordinate
+subordinate
+409946	coordinate
+409953	coordinate
+409956	coordinate
+409965	subordinate
+409971	coordinate
+subordinate
+409978	subordinate
+409984	coordinate
+409994	subordinate
+409998	subordinate
+410001	coordinate
+410008	coordinate
+410015	subordinate
+410021	coordinate
+410025	coordinate
+410031	coordinate
+coordinate
+410034	coordinate
+410036	coordinate
+subordinate
+subordinate
+410046	subordinate
+410048	subordinate
+410052	subordinate
+coordinate
+410059	coordinate
+410068	coordinate
+coordinate
+410071	coordinate
+410073	coordinate
+subordinate
+subordinate
+410079	coordinate
+410089	coordinate
+410093	subordinate
+410095	coordinate
+410098	coordinate
+410106	subordinate
+410114	subordinate
+410122	subordinate
+410129	subordinate
+410135	subordinate
+410179	coordinate
+410182	subordinate
+410184	coordinate
+410190	coordinate
+410205	subordinate
+410218	coordinate
+410224	coordinate
+410243	subordinate
+410252	subordinate
+coordinate
+410256	coordinate
+subordinate
+410260	coordinate
+410270	coordinate
+410293	coordinate
+410297	coordinate
+410302	coordinate
+subordinate
+410307	coordinate
+410314	subordinate
+410318	subordinate
+410324	subordinate
+410330	subordinate
+410338	subordinate
+410340	subordinate
+subordinate
+410346	subordinate
+410354	subordinate
+subordinate
+410357	subordinate
+410367	subordinate
+410373	coordinate
+subordinate
+coordinate
+410377	coordinate
+410381	subordinate
+410387	coordinate
+coordinate
+410391	coordinate
+410397	subordinate
+coordinate
+410401	coordinate
+410424	coordinate
+410426	coordinate
+410438	coordinate
+410445	coordinate
+410460	coordinate
+410466	subordinate
+410474	coordinate
+410476	coordinate
+410481	coordinate
+410483	coordinate
+410494	subordinate
+410500	subordinate
+coordinate
+410503	coordinate
+410523	coordinate
+410528	coordinate
+410532	subordinate
+410543	coordinate
+410545	coordinate
+410551	subordinate
+410563	subordinate
+410570	subordinate
+410578	coordinate
+410580	coordinate
+410582	coordinate
+410587	subordinate
+subordinate
+410599	subordinate
+subordinate
+410631	subordinate
+410653	coordinate
+subordinate
+410678	subordinate
+410685	coordinate
+410687	coordinate
+coordinate
+410691	coordinate
+410693	subordinate
+410704	subordinate
+410718	subordinate
+410721	subordinate
+410727	coordinate
+410730	coordinate
+coordinate
+410734	coordinate
+410741	coordinate
+410744	coordinate
+410779	subordinate
+410790	subordinate
+410792	subordinate
+410799	subordinate
+410806	subordinate
+410811	coordinate
+410822	subordinate
+410832	subordinate
+410862	subordinate
+410868	subordinate
+coordinate
+410873	coordinate
+410875	coordinate
+410877	coordinate
+410885	subordinate
+subordinate
+410892	coordinate
+410898	coordinate
+subordinate
+410906	coordinate
+410913	subordinate
+410919	subordinate
+410925	subordinate
+coordinate
+410928	coordinate
+410936	subordinate
+410947	subordinate
+410963	subordinate
+410968	coordinate
+410976	coordinate
+410978	coordinate
+410982	coordinate
+coordinate
+410985	coordinate
+410989	coordinate
+410999	coordinate
+411001	coordinate
+411008	subordinate
+411023	coordinate
+coordinate
+411026	coordinate
+411032	subordinate
+411057	subordinate
+411074	coordinate
+411076	coordinate
+411079	coordinate
+411088	coordinate
+coordinate
+411091	coordinate
+411101	subordinate
+411106	coordinate
+coordinate
+411109	coordinate
+411116	coordinate
+411119	coordinate
+411126	subordinate
+411132	subordinate
+411137	coordinate
+411139	coordinate
+411145	subordinate
+411164	subordinate
+411168	coordinate
+411170	coordinate
+411172	coordinate
+411176	coordinate
+subordinate
+411184	subordinate
+411190	subordinate
+411194	subordinate
+subordinate
+411199	subordinate
+411206	coordinate
+subordinate
+411209	coordinate
+411213	coordinate
+411229	subordinate
+411233	coordinate
+coordinate
+411236	coordinate
+411238	coordinate
+subordinate
+411255	coordinate
+411257	coordinate
+411265	coordinate
+411267	coordinate
+411283	coordinate
+411289	coordinate
+411296	coordinate
+411300	coordinate
+411303	subordinate
+coordinate
+411306	coordinate
+411325	subordinate
+coordinate
+411331	coordinate
+411344	coordinate
+411349	coordinate
+coordinate
+411352	coordinate
+411365	subordinate
+411371	subordinate
+411384	subordinate
+411397	subordinate
+411399	coordinate
+411401	coordinate
+411403	subordinate
+coordinate
+411411	coordinate
+411425	coordinate
+411432	coordinate
+411437	coordinate
+411442	coordinate
+411446	coordinate
+411463	subordinate
+411471	subordinate
+411509	subordinate
+411523	coordinate
+411525	coordinate
+411527	subordinate
+411531	subordinate
+411536	coordinate
+411540	coordinate
+411543	coordinate
+411557	coordinate
+411570	coordinate
+411580	coordinate
+411582	subordinate
+coordinate
+411585	coordinate
+411597	subordinate
+411601	subordinate
+411603	subordinate
+411606	coordinate
+411610	coordinate
+411613	coordinate
+411624	subordinate
+411632	coordinate
+411640	subordinate
+411647	coordinate
+411649	coordinate
+411672	subordinate
+coordinate
+411677	coordinate
+411682	coordinate
+411699	subordinate
+411719	coordinate
+411726	coordinate
+coordinate
+411729	coordinate
+411741	coordinate
+411744	coordinate
+coordinate
+411750	coordinate
+coordinate
+411756	coordinate
+411759	coordinate
+411761	subordinate
+411767	coordinate
+411771	subordinate
+411778	coordinate
+411781	coordinate
+411784	subordinate
+411796	subordinate
+subordinate
+411812	coordinate
+coordinate
+411815	subordinate
+411818	coordinate
+411820	coordinate
+411829	subordinate
+411832	coordinate
+coordinate
+coordinate
+411836	coordinate
+411838	coordinate
+411843	subordinate
+411845	subordinate
+coordinate
+411848	coordinate
+411850	coordinate
+411854	subordinate
+coordinate
+411857	coordinate
+411875	coordinate
+coordinate
+411881	subordinate
+411884	subordinate
+411887	coordinate
+411890	coordinate
+411892	coordinate
+coordinate
+411896	coordinate
+subordinate
+coordinate
+411900	coordinate
+411905	coordinate
+411911	coordinate
+411914	coordinate
+411917	subordinate
+411939	coordinate
+subordinate
+411942	coordinate
+coordinate
+411947	coordinate
+411960	subordinate
+411963	coordinate
+411966	coordinate
+411970	coordinate
+subordinate
+411973	coordinate
+subordinate
+411996	coordinate
+411998	coordinate
+412005	subordinate
+412008	subordinate
+412017	coordinate
+412019	coordinate
+412030	coordinate
+412040	subordinate
+412047	coordinate
+412049	coordinate
+412066	subordinate
+412081	coordinate
+412086	coordinate
+412091	coordinate
+412101	subordinate
+412103	coordinate
+subordinate
+412118	subordinate
+412135	coordinate
+coordinate
+412140	coordinate
+412143	coordinate
+subordinate
+subordinate
+412161	subordinate
+412169	coordinate
+subordinate
+412174	subordinate
+coordinate
+412178	coordinate
+412189	subordinate
+412200	subordinate
+412208	coordinate
+412210	coordinate
+412222	subordinate
+412232	coordinate
+412242	coordinate
+412246	coordinate
+412253	coordinate
+412256	coordinate
+412258	subordinate
+412270	subordinate
+412286	coordinate
+412289	coordinate
+412306	subordinate
+412310	subordinate
+412314	coordinate
+412319	coordinate
+412325	subordinate
+412366	coordinate
+subordinate
+412370	coordinate
+412380	subordinate
+412384	subordinate
+412393	subordinate
+412397	subordinate
+412402	coordinate
+412407	coordinate
+412412	coordinate
+412415	subordinate
+412423	subordinate
+412445	coordinate
+coordinate
+412452	subordinate
+412456	coordinate
+412469	subordinate
+412474	subordinate
+412476	subordinate
+412499	subordinate
+412525	subordinate
+412533	subordinate
+412564	coordinate
+412568	subordinate
+412571	coordinate
+412575	coordinate
+412577	coordinate
+412605	coordinate
+subordinate
+412608	coordinate
+412614	coordinate
+412617	coordinate
+412621	coordinate
+subordinate
+subordinate
+412625	coordinate
+412630	coordinate
+412634	coordinate
+412647	coordinate
+412652	coordinate
+412657	coordinate
+412659	coordinate
+412666	subordinate
+412671	subordinate
+subordinate
+subordinate
+subordinate
+412682	subordinate
+412691	subordinate
+subordinate
+coordinate
+412695	coordinate
+412698	subordinate
+412700	coordinate
+coordinate
+412704	coordinate
+412712	coordinate
+412714	coordinate
+412736	subordinate
+412739	subordinate
+412744	subordinate
+412751	coordinate
+412753	coordinate
+412771	subordinate
+412780	subordinate
+412792	coordinate
+412799	coordinate
+412802	subordinate
+412821	subordinate
+412827	coordinate
+412830	subordinate
+412836	coordinate
+412843	coordinate
+412845	coordinate
+subordinate
+412856	coordinate
+412860	coordinate
+subordinate
+412866	coordinate
+412872	coordinate
+subordinate
+412877	coordinate
+412887	subordinate
+412894	subordinate
+412896	coordinate
+412899	coordinate
+coordinate
+412903	coordinate
+412917	subordinate
+412921	coordinate
+412926	subordinate
+412928	coordinate
+412933	coordinate
+412939	coordinate
+412943	subordinate
+412948	subordinate
+coordinate
+412953	coordinate
+coordinate
+412957	coordinate
+subordinate
+412978	coordinate
+412991	subordinate
+412998	coordinate
+413010	subordinate
+413014	coordinate
+413019	subordinate
+413039	subordinate
+subordinate
+413043	subordinate
+413061	coordinate
+coordinate
+413064	coordinate
+413067	coordinate
+413077	coordinate
+413079	subordinate
+413088	coordinate
+413113	subordinate
+413115	coordinate
+413121	coordinate
+413127	coordinate
+subordinate
+413131	coordinate
+subordinate
+413134	coordinate
+subordinate
+413146	subordinate
+413153	subordinate
+coordinate
+413158	coordinate
+413171	coordinate
+coordinate
+413176	coordinate
+subordinate
+413192	subordinate
+coordinate
+413198	coordinate
+413203	coordinate
+413220	coordinate
+413227	subordinate
+413241	subordinate
+413254	subordinate
+413259	coordinate
+413264	coordinate
+413266	subordinate
+413270	coordinate
+413274	coordinate
+413284	subordinate
+coordinate
+413290	coordinate
+413298	subordinate
+413323	subordinate
+413329	coordinate
+413336	coordinate
+413340	subordinate
+413344	coordinate
+413347	coordinate
+413351	coordinate
+413355	coordinate
+413366	subordinate
+413377	subordinate
+413381	subordinate
+413387	subordinate
+413391	coordinate
+413397	coordinate
+413411	subordinate
+413413	coordinate
+413423	subordinate
+413457	coordinate
+413459	coordinate
+413467	coordinate
+413469	coordinate
+subordinate
+413476	coordinate
+413480	coordinate
+413484	coordinate
+413500	subordinate
+413510	subordinate
+413529	subordinate
+413550	subordinate
+413553	subordinate
+413566	subordinate
+413572	subordinate
+413576	coordinate
+413578	coordinate
+subordinate
+413598	coordinate
+413602	coordinate
+413608	subordinate
+413613	coordinate
+413617	coordinate
+413621	subordinate
+413623	coordinate
+coordinate
+413627	coordinate
+413630	coordinate
+413632	coordinate
+413636	subordinate
+coordinate
+413641	coordinate
+413646	coordinate
+413653	coordinate
+413658	subordinate
+413672	coordinate
+413676	coordinate
+coordinate
+413683	coordinate
+413688	coordinate
+413699	subordinate
+413711	subordinate
+coordinate
+413716	coordinate
+413719	subordinate
+coordinate
+413723	subordinate
+413725	coordinate
+subordinate
+413732	coordinate
+413734	coordinate
+413748	subordinate
+coordinate
+413756	subordinate
+413758	coordinate
+413760	coordinate
+413774	subordinate
+413791	subordinate
+413797	subordinate
+413807	coordinate
+413815	subordinate
+413821	coordinate
+413827	coordinate
+413829	coordinate
+413832	coordinate
+413838	coordinate
+413841	coordinate
+subordinate
+413845	coordinate
+413849	coordinate
+subordinate
+coordinate
+413856	coordinate
+413874	coordinate
+413878	coordinate
+subordinate
+413881	coordinate
+413895	subordinate
+413903	coordinate
+413906	coordinate
+413916	coordinate
+coordinate
+413920	subordinate
+subordinate
+413924	coordinate
+413926	coordinate
+coordinate
+413929	coordinate
+413942	subordinate
+coordinate
+413947	coordinate
+413951	coordinate
+413954	subordinate
+413957	coordinate
+subordinate
+413966	subordinate
+413972	subordinate
+413982	subordinate
+413990	subordinate
+413997	coordinate
+414001	coordinate
+414007	subordinate
+414011	subordinate
+414018	subordinate
+414042	subordinate
+414050	coordinate
+414053	subordinate
+414056	coordinate
+414063	coordinate
+subordinate
+414067	coordinate
+coordinate
+414082	subordinate
+subordinate
+414101	coordinate
+414107	subordinate
+414111	subordinate
+414125	coordinate
+414128	coordinate
+414132	coordinate
+subordinate
+414136	coordinate
+414150	subordinate
+414154	subordinate
+414163	subordinate
+414168	coordinate
+subordinate
+414174	coordinate
+414180	subordinate
+414189	subordinate
+414192	coordinate
+414197	coordinate
+414203	subordinate
+414206	coordinate
+414211	coordinate
+414218	coordinate
+414220	coordinate
+414226	subordinate
+subordinate
+414238	subordinate
+414249	subordinate
+414259	coordinate
+subordinate
+subordinate
+414263	coordinate
+414269	subordinate
+414288	subordinate
+414313	subordinate
+414318	subordinate
+414323	subordinate
+coordinate
+414326	coordinate
+coordinate
+414329	coordinate
+414332	subordinate
+subordinate
+414338	subordinate
+414344	subordinate
+414361	subordinate
+414366	subordinate
+414373	coordinate
+414376	coordinate
+414381	coordinate
+414384	coordinate
+414389	coordinate
+414393	coordinate
+414408	coordinate
+414412	coordinate
+414425	subordinate
+414433	coordinate
+414437	coordinate
+414444	subordinate
+414459	coordinate
+414464	coordinate
+414467	subordinate
+414481	subordinate
+414488	subordinate
+414496	subordinate
+414503	coordinate
+414511	subordinate
+414521	subordinate
+414523	subordinate
+coordinate
+414526	coordinate
+414530	subordinate
+coordinate
+414534	coordinate
+414544	coordinate
+414548	coordinate
+414550	subordinate
+414575	coordinate
+414579	coordinate
+414592	coordinate
+414594	coordinate
+414598	subordinate
+414601	coordinate
+414606	subordinate
+coordinate
+414609	coordinate
+414613	coordinate
+414617	coordinate
+coordinate
+414620	subordinate
+414625	coordinate
+414629	coordinate
+coordinate
+414633	coordinate
+414644	coordinate
+414649	coordinate
+414652	subordinate
+414655	subordinate
+414672	coordinate
+414674	coordinate
+414676	subordinate
+414687	subordinate
+414691	coordinate
+414695	coordinate
+414701	coordinate
+414703	coordinate
+414708	subordinate
+414711	subordinate
+414715	subordinate
+414720	subordinate
+subordinate
+414723	subordinate
+414725	subordinate
+414731	subordinate
+414738	coordinate
+414741	coordinate
+414746	coordinate
+414749	coordinate
+414751	subordinate
+414760	coordinate
+414765	coordinate
+414777	subordinate
+414779	coordinate
+414786	subordinate
+414805	subordinate
+414808	subordinate
+414812	subordinate
+414831	subordinate
+414833	subordinate
+414837	subordinate
+414844	coordinate
+414846	coordinate
+414848	coordinate
+414852	coordinate
+414856	subordinate
+coordinate
+414860	coordinate
+414864	coordinate
+subordinate
+414868	coordinate
+414876	coordinate
+414879	coordinate
+414884	subordinate
+414897	subordinate
+414905	subordinate
+coordinate
+414912	coordinate
+414919	subordinate
+coordinate
+414926	coordinate
+414937	subordinate
+414954	subordinate
+subordinate
+414959	subordinate
+414961	subordinate
+414968	subordinate
+414970	subordinate
+414976	coordinate
+coordinate
+coordinate
+414980	coordinate
+414983	subordinate
+414985	coordinate
+coordinate
+414988	coordinate
+414990	coordinate
+414994	subordinate
+415005	subordinate
+415009	subordinate
+415018	subordinate
+415028	subordinate
+coordinate
+415033	coordinate
+415050	subordinate
+415055	subordinate
+415070	subordinate
+415076	subordinate
+coordinate
+415079	coordinate
+415129	subordinate
+415150	subordinate
+415156	subordinate
+415167	subordinate
+415174	subordinate
+coordinate
+415178	coordinate
+415183	subordinate
+415185	subordinate
+415196	subordinate
+415201	coordinate
+415214	subordinate
+415225	subordinate
+415228	subordinate
+415231	subordinate
+415238	subordinate
+415243	subordinate
+415254	coordinate
+415258	subordinate
+415261	coordinate
+415265	subordinate
+coordinate
+415270	coordinate
+415272	coordinate
+415276	subordinate
+415283	coordinate
+subordinate
+415286	coordinate
+subordinate
+415293	subordinate
+415303	subordinate
+coordinate
+coordinate
+415307	coordinate
+subordinate
+415310	coordinate
+415317	subordinate
+coordinate
+415322	coordinate
+415327	subordinate
+415332	coordinate
+415336	coordinate
+415339	coordinate
+coordinate
+415342	coordinate
+415344	coordinate
+coordinate
+415347	coordinate
+415359	coordinate
+coordinate
+415362	coordinate
+415364	coordinate
+coordinate
+415367	coordinate
+415369	coordinate
+subordinate
+415382	subordinate
+415388	subordinate
+415397	coordinate
+coordinate
+415400	coordinate
+415402	coordinate
+coordinate
+415405	coordinate
+415413	coordinate
+coordinate
+415416	coordinate
+415418	coordinate
+415421	coordinate
+415423	coordinate
+415430	subordinate
+415433	subordinate
+415440	subordinate
+415446	subordinate
+415453	coordinate
+415456	coordinate
+coordinate
+coordinate
+415460	coordinate
+415464	coordinate
+415479	subordinate
+415494	coordinate
+415496	coordinate
+415498	subordinate
+415510	coordinate
+415512	coordinate
+415517	coordinate
+415537	subordinate
+coordinate
+415548	coordinate
+415552	coordinate
+415556	coordinate
+415559	coordinate
+415567	coordinate
+415570	coordinate
+415575	coordinate
+415591	coordinate
+415593	coordinate
+415604	subordinate
+415610	subordinate
+415615	coordinate
+415619	coordinate
+415624	coordinate
+415627	subordinate
+415640	subordinate
+415649	subordinate
+415665	subordinate
+415671	subordinate
+415676	subordinate
+415703	coordinate
+415705	coordinate
+415714	subordinate
+415717	subordinate
+coordinate
+415723	coordinate
+coordinate
+415740	coordinate
+415743	coordinate
+415745	subordinate
+415747	subordinate
+coordinate
+415750	coordinate
+415754	coordinate
+415757	coordinate
+415763	coordinate
+415767	coordinate
+415784	subordinate
+415787	coordinate
+415789	subordinate
+415792	coordinate
+415799	coordinate
+415801	coordinate
+415807	subordinate
+415812	subordinate
+415817	coordinate
+415824	subordinate
+subordinate
+415832	coordinate
+415836	coordinate
+415844	subordinate
+415854	coordinate
+415863	subordinate
+415878	subordinate
+415889	subordinate
+415898	coordinate
+415900	coordinate
+415918	subordinate
+415939	coordinate
+415942	coordinate
+415945	subordinate
+415953	coordinate
+415957	subordinate
+415966	subordinate
+415968	subordinate
+415974	subordinate
+415981	coordinate
+coordinate
+415986	coordinate
+415988	coordinate
+415993	coordinate
+415995	coordinate
+415999	coordinate
+416010	subordinate
+416036	subordinate
+416044	subordinate
+416062	coordinate
+subordinate
+416094	coordinate
+416098	coordinate
+416119	subordinate
+subordinate
+416122	subordinate
+416134	coordinate
+416136	subordinate
+416138	coordinate
+coordinate
+416144	coordinate
+416173	coordinate
+416184	coordinate
+416186	coordinate
+416190	subordinate
+416206	subordinate
+416221	coordinate
+coordinate
+416227	coordinate
+416234	coordinate
+416241	coordinate
+coordinate
+416251	coordinate
+416254	coordinate
+416282	subordinate
+416284	subordinate
+416286	coordinate
+416315	coordinate
+416326	coordinate
+416337	subordinate
+416344	subordinate
+416353	coordinate
+416355	subordinate
+416360	coordinate
+416362	subordinate
+416368	subordinate
+416390	coordinate
+416402	subordinate
+416404	subordinate
+416408	subordinate
+416435	subordinate
+coordinate
+416438	coordinate
+416443	coordinate
+416455	coordinate
+416460	subordinate
+416469	coordinate
+416471	coordinate
+416479	subordinate
+416487	subordinate
+subordinate
+416490	subordinate
+416494	coordinate
+416499	coordinate
+coordinate
+416511	coordinate
+416514	coordinate
+416544	subordinate
+416556	subordinate
+416559	coordinate
+416579	coordinate
+416582	coordinate
+416587	subordinate
+416604	coordinate
+subordinate
+416615	subordinate
+416621	subordinate
+416630	coordinate
+coordinate
+416640	coordinate
+416644	coordinate
+416648	coordinate
+coordinate
+416651	subordinate
+416656	coordinate
+416659	coordinate
+coordinate
+416675	coordinate
+416691	subordinate
+416709	subordinate
+416724	coordinate
+416726	coordinate
+416728	subordinate
+416734	coordinate
+416739	subordinate
+416741	subordinate
+416747	subordinate
+416752	coordinate
+416754	coordinate
+coordinate
+416777	coordinate
+subordinate
+416780	coordinate
+subordinate
+416789	subordinate
+416800	subordinate
+416809	subordinate
+416821	coordinate
+416823	subordinate
+416828	coordinate
+416832	subordinate
+coordinate
+416835	coordinate
+416873	subordinate
+416878	subordinate
+416886	subordinate
+416896	coordinate
+416898	coordinate
+coordinate
+416905	coordinate
+416910	coordinate
+416914	coordinate
+416936	subordinate
+coordinate
+416945	coordinate
+416961	coordinate
+416970	subordinate
+416975	subordinate
+416978	coordinate
+coordinate
+416983	coordinate
+416989	coordinate
+417006	coordinate
+417014	coordinate
+417018	coordinate
+417026	coordinate
+417029	coordinate
+417053	subordinate
+417090	subordinate
+subordinate
+subordinate
+417102	subordinate
+417112	subordinate
+417120	subordinate
+417127	subordinate
+subordinate
+subordinate
+subordinate
+417138	subordinate
+417146	coordinate
+417150	coordinate
+417154	coordinate
+417157	coordinate
+417159	coordinate
+417175	subordinate
+subordinate
+coordinate
+417180	coordinate
+coordinate
+417187	coordinate
+417194	coordinate
+417198	coordinate
+417206	subordinate
+417223	subordinate
+417231	subordinate
+coordinate
+417236	coordinate
+417253	coordinate
+417255	coordinate
+417267	subordinate
+417276	coordinate
+417285	subordinate
+417287	subordinate
+417291	coordinate
+417297	coordinate
+417312	subordinate
+subordinate
+417319	coordinate
+417330	coordinate
+subordinate
+417338	coordinate
+coordinate
+417341	coordinate
+417355	coordinate
+417360	coordinate
+subordinate
+417365	coordinate
+417372	coordinate
+417382	coordinate
+coordinate
+417388	coordinate
+417392	coordinate
+coordinate
+subordinate
+subordinate
+417398	coordinate
+417402	coordinate
+417405	subordinate
+417407	coordinate
+417413	subordinate
+coordinate
+417425	coordinate
+417428	coordinate
+417434	coordinate
+417444	coordinate
+coordinate
+417447	coordinate
+417454	subordinate
+417466	subordinate
+417471	subordinate
+coordinate
+417476	coordinate
+417482	coordinate
+417486	coordinate
+417489	subordinate
+417502	coordinate
+417506	coordinate
+subordinate
+417510	coordinate
+subordinate
+417515	coordinate
+coordinate
+subordinate
+417539	subordinate
+417541	subordinate
+417548	subordinate
+417552	subordinate
+417556	coordinate
+417559	subordinate
+417563	coordinate
+coordinate
+417591	coordinate
+417594	coordinate
+417599	coordinate
+417606	coordinate
+417608	subordinate
+417615	coordinate
+417618	coordinate
+coordinate
+417628	subordinate
+417638	subordinate
+417648	subordinate
+417654	coordinate
+subordinate
+417682	subordinate
+417695	subordinate
+coordinate
+417704	coordinate
+417712	coordinate
+417723	coordinate
+417729	coordinate
+417733	coordinate
+417739	coordinate
+coordinate
+417750	coordinate
+coordinate
+coordinate
+417756	coordinate
+417760	coordinate
+coordinate
+417765	coordinate
+417770	coordinate
+coordinate
+coordinate
+417775	coordinate
+417791	subordinate
+417796	coordinate
+417798	coordinate
+417818	coordinate
+417828	coordinate
+subordinate
+subordinate
+417872	subordinate
+417880	coordinate
+coordinate
+417883	coordinate
+417887	coordinate
+417918	coordinate
+417926	coordinate
+417930	coordinate
+417932	coordinate
+subordinate
+417960	subordinate
+417962	coordinate
+417973	subordinate
+coordinate
+417977	coordinate
+417989	subordinate
+417992	subordinate
+coordinate
+417995	coordinate
+417997	coordinate
+418008	coordinate
+418011	coordinate
+418043	coordinate
+418045	coordinate
+coordinate
+coordinate
+418050	coordinate
+418052	coordinate
+418059	subordinate
+418065	subordinate
+418137	subordinate
+coordinate
+418140	coordinate
+subordinate
+418145	subordinate
+coordinate
+418150	coordinate
+418152	coordinate
+subordinate
+418157	subordinate
+subordinate
+418164	subordinate
+418168	subordinate
+418170	subordinate
+418177	coordinate
+418192	subordinate
+418205	subordinate
+418207	subordinate
+418228	coordinate
+418231	subordinate
+418233	subordinate
+418238	coordinate
+418265	subordinate
+418268	subordinate
+418273	subordinate
+418283	subordinate
+subordinate
+418293	subordinate
+418299	subordinate
+418305	subordinate
+coordinate
+418310	coordinate
+418319	subordinate
+subordinate
+coordinate
+418324	coordinate
+418331	subordinate
+418333	coordinate
+418335	coordinate
+418346	subordinate
+418360	subordinate
+418372	coordinate
+418379	coordinate
+418398	coordinate
+subordinate
+subordinate
+418402	coordinate
+418410	subordinate
+418428	subordinate
+418440	subordinate
+418442	subordinate
+418455	subordinate
+418461	subordinate
+418506	coordinate
+418510	subordinate
+418515	coordinate
+418527	subordinate
+418543	subordinate
+coordinate
+418548	coordinate
+418557	coordinate
+418562	coordinate
+coordinate
+subordinate
+418566	coordinate
+418576	subordinate
+subordinate
+418592	coordinate
+coordinate
+418597	coordinate
+418602	coordinate
+418612	subordinate
+418622	subordinate
+418650	subordinate
+418660	subordinate
+418670	subordinate
+418678	coordinate
+coordinate
+418681	coordinate
+418685	coordinate
+418707	subordinate
+418710	coordinate
+418719	coordinate
+418721	subordinate
+418723	subordinate
+418725	coordinate
+418730	coordinate
+coordinate
+418735	subordinate
+418738	subordinate
+418740	subordinate
+418763	coordinate
+418766	coordinate
+418768	subordinate
+418770	subordinate
+418776	coordinate
+418778	coordinate
+418828	subordinate
+418834	subordinate
+418843	coordinate
+418845	coordinate
+418850	subordinate
+418854	subordinate
+418861	coordinate
+subordinate
+418878	coordinate
+418880	coordinate
+418886	coordinate
+418889	subordinate
+418892	subordinate
+418896	coordinate
+418912	coordinate
+418919	coordinate
+coordinate
+418928	coordinate
+418932	coordinate
+418937	coordinate
+418954	coordinate
+418959	coordinate
+418963	coordinate
+418973	coordinate
+418977	coordinate
+418981	subordinate
+418992	subordinate
+419011	subordinate
+419025	subordinate
+419031	subordinate
+419037	subordinate
+419041	subordinate
+419045	subordinate
+subordinate
+419062	subordinate
+419066	coordinate
+coordinate
+419072	coordinate
+419076	coordinate
+419082	subordinate
+coordinate
+419088	coordinate
+subordinate
+419105	subordinate
+419114	coordinate
+419119	coordinate
+419129	subordinate
+coordinate
+419136	subordinate
+419144	subordinate
+419152	coordinate
+419155	coordinate
+419168	subordinate
+coordinate
+419174	coordinate
+419190	coordinate
+419203	subordinate
+419229	coordinate
+subordinate
+419251	coordinate
+coordinate
+419254	coordinate
+419265	coordinate
+419273	coordinate
+419276	coordinate
+419293	coordinate
+419297	coordinate
+419309	coordinate
+419315	coordinate
+419341	coordinate
+419344	coordinate
+419353	coordinate
+419360	coordinate
+coordinate
+419369	subordinate
+419374	subordinate
+coordinate
+419380	coordinate
+419386	subordinate
+coordinate
+419390	coordinate
+419422	subordinate
+419442	subordinate
+subordinate
+419446	subordinate
+419449	subordinate
+419453	subordinate
+419462	subordinate
+subordinate
+419470	coordinate
+419486	subordinate
+419492	coordinate
+419499	coordinate
+coordinate
+coordinate
+subordinate
+419504	coordinate
+419506	coordinate
+419510	subordinate
+coordinate
+419513	coordinate
+419515	coordinate
+419520	coordinate
+coordinate
+419524	subordinate
+coordinate
+419527	coordinate
+419543	coordinate
+419569	subordinate
+419578	coordinate
+419581	coordinate
+subordinate
+subordinate
+419607	coordinate
+419613	subordinate
+419617	coordinate
+coordinate
+419623	coordinate
+subordinate
+419638	coordinate
+419651	coordinate
+419668	subordinate
+419677	subordinate
+419696	subordinate
+419698	coordinate
+419704	coordinate
+419709	subordinate
+419711	subordinate
+419737	subordinate
+419742	subordinate
+419799	subordinate
+419803	subordinate
+419825	subordinate
+419829	coordinate
+419832	coordinate
+419840	coordinate
+coordinate
+419844	coordinate
+419850	subordinate
+419854	coordinate
+419860	coordinate
+419868	coordinate
+coordinate
+419872	subordinate
+419882	coordinate
+419890	subordinate
+419894	coordinate
+subordinate
+419898	subordinate
+419907	subordinate
+419917	subordinate
+419970	subordinate
+419981	subordinate
+419985	coordinate
+subordinate
+coordinate
+419997	coordinate
+420000	coordinate
+420010	subordinate
+subordinate
+420017	subordinate
+420021	subordinate
+subordinate
+420034	coordinate
+subordinate
+420043	coordinate
+subordinate
+420049	subordinate
+420054	subordinate
+420062	subordinate
+subordinate
+420076	subordinate
+420081	subordinate
+420084	subordinate
+coordinate
+420087	coordinate
+420091	subordinate
+subordinate
+subordinate
+420099	subordinate
+subordinate
+420106	subordinate
+420127	coordinate
+subordinate
+420132	coordinate
+subordinate
+420142	coordinate
+subordinate
+420174	coordinate
+420177	coordinate
+420179	coordinate
+420184	coordinate
+420217	subordinate
+subordinate
+subordinate
+420228	coordinate
+420235	coordinate
+420238	subordinate
+420246	coordinate
+420250	coordinate
+420264	coordinate
+420271	coordinate
+coordinate
+420276	coordinate
+420284	coordinate
+420293	coordinate
+coordinate
+subordinate
+420299	coordinate
+420303	coordinate
+420313	coordinate
+420325	coordinate
+subordinate
+420330	subordinate
+420336	coordinate
+420345	subordinate
+420363	coordinate
+420366	subordinate
+420369	coordinate
+420377	coordinate
+coordinate
+420381	subordinate
+420387	coordinate
+420395	coordinate
+subordinate
+420412	subordinate
+coordinate
+420418	coordinate
+420426	coordinate
+subordinate
+420429	coordinate
+subordinate
+420436	subordinate
+420445	coordinate
+coordinate
+420451	subordinate
+420455	subordinate
+420467	coordinate
+subordinate
+420471	coordinate
+subordinate
+420476	coordinate
+420481	coordinate
+420484	subordinate
+420508	subordinate
+420510	subordinate
+420514	coordinate
+420524	coordinate
+420528	coordinate
+420533	coordinate
+420537	coordinate
+subordinate
+420540	subordinate
+420542	coordinate
+subordinate
+420581	coordinate
+420584	subordinate
+420586	coordinate
+420591	subordinate
+420597	subordinate
+420599	coordinate
+420605	coordinate
+420610	subordinate
+420613	subordinate
+420625	subordinate
+420629	subordinate
+420637	coordinate
+subordinate
+420651	coordinate
+coordinate
+420657	coordinate
+420663	coordinate
+420671	subordinate
+420673	coordinate
+420675	coordinate
+subordinate
+420688	coordinate
+subordinate
+420695	coordinate
+420699	coordinate
+subordinate
+420715	coordinate
+420718	subordinate
+420724	subordinate
+420730	subordinate
+420734	coordinate
+subordinate
+coordinate
+420741	coordinate
+420746	coordinate
+subordinate
+420752	subordinate
+420769	subordinate
+420772	coordinate
+420782	coordinate
+420788	subordinate
+420802	subordinate
+420811	coordinate
+subordinate
+420818	coordinate
+420823	coordinate
+subordinate
+420833	subordinate
+420838	coordinate
+subordinate
+420841	coordinate
+420850	subordinate
+420861	coordinate
+420864	coordinate
+420869	coordinate
+420874	coordinate
+420886	coordinate
+subordinate
+420889	coordinate
+subordinate
+420894	coordinate
+subordinate
+420902	subordinate
+420907	subordinate
+420918	subordinate
+420928	subordinate
+subordinate
+420935	coordinate
+420937	coordinate
+coordinate
+420940	subordinate
+420942	coordinate
+420947	coordinate
+420956	coordinate
+420959	coordinate
+420961	coordinate
+420963	subordinate
+420970	coordinate
+420975	coordinate
+420977	subordinate
+coordinate
+420980	subordinate
+420990	coordinate
+420993	subordinate
+420995	subordinate
+421001	coordinate
+421003	coordinate
+coordinate
+subordinate
+421007	subordinate
+subordinate
+421014	coordinate
+421020	subordinate
+421025	subordinate
+subordinate
+421038	subordinate
+coordinate
+421041	coordinate
+subordinate
+421059	subordinate
+421069	subordinate
+421075	subordinate
+subordinate
+421090	subordinate
+421110	coordinate
+421116	coordinate
+421137	coordinate
+subordinate
+421143	coordinate
+421148	coordinate
+coordinate
+421155	coordinate
+421174	coordinate
+421190	subordinate
+421193	coordinate
+subordinate
+421207	subordinate
+421216	coordinate
+421224	coordinate
+coordinate
+subordinate
+421228	coordinate
+coordinate
+421233	coordinate
+421240	subordinate
+421249	subordinate
+421253	coordinate
+421260	coordinate
+421267	subordinate
+421277	subordinate
+421297	coordinate
+421304	subordinate
+421307	subordinate
+421309	subordinate
+421315	coordinate
+421324	coordinate
+421332	subordinate
+421338	coordinate
+421351	coordinate
+coordinate
+coordinate
+421356	coordinate
+421360	subordinate
+coordinate
+421364	coordinate
+421376	coordinate
+421382	coordinate
+421397	coordinate
+coordinate
+421401	coordinate
+421412	coordinate
+coordinate
+coordinate
+421417	coordinate
+421422	coordinate
+421425	coordinate
+421432	subordinate
+421438	coordinate
+coordinate
+421443	coordinate
+421449	coordinate
+coordinate
+421457	coordinate
+subordinate
+421468	coordinate
+coordinate
+421476	coordinate
+421479	coordinate
+421485	subordinate
+subordinate
+421493	coordinate
+421499	coordinate
+421506	coordinate
+subordinate
+421519	coordinate
+421524	coordinate
+coordinate
+421531	coordinate
+421534	coordinate
+421548	subordinate
+421562	subordinate
+421570	subordinate
+421584	coordinate
+421588	coordinate
+421601	coordinate
+421605	coordinate
+421610	coordinate
+421614	coordinate
+421623	subordinate
+421629	subordinate
+421638	coordinate
+subordinate
+subordinate
+421642	coordinate
+421645	subordinate
+421650	coordinate
+421659	coordinate
+421663	coordinate
+421666	subordinate
+subordinate
+421669	coordinate
+421692	subordinate
+subordinate
+421699	coordinate
+421704	coordinate
+421728	subordinate
+421734	subordinate
+421750	subordinate
+subordinate
+421763	subordinate
+421771	coordinate
+coordinate
+subordinate
+421782	coordinate
+421786	coordinate
+subordinate
+421818	subordinate
+421846	subordinate
+421871	subordinate
+subordinate
+421874	coordinate
+subordinate
+421879	coordinate
+coordinate
+421882	coordinate
+421902	subordinate
+421906	coordinate
+coordinate
+421912	coordinate
+421915	coordinate
+421925	coordinate
+421928	coordinate
+subordinate
+421964	subordinate
+421979	subordinate
+421983	subordinate
+421989	subordinate
+422009	coordinate
+422013	coordinate
+subordinate
+422030	coordinate
+422033	coordinate
+422040	coordinate
+422045	coordinate
+422069	subordinate
+422094	coordinate
+422099	coordinate
+422103	coordinate
+subordinate
+422108	coordinate
+422114	coordinate
+subordinate
+422117	subordinate
+422123	subordinate
+422130	subordinate
+coordinate
+422134	coordinate
+422144	coordinate
+coordinate
+subordinate
+422151	coordinate
+422154	coordinate
+subordinate
+422168	subordinate
+422173	subordinate
+coordinate
+422185	subordinate
+422195	subordinate
+422228	coordinate
+422232	coordinate
+422240	subordinate
+422244	subordinate
+422253	coordinate
+422256	subordinate
+422259	coordinate
+subordinate
+422277	coordinate
+422279	coordinate
+422292	subordinate
+422295	coordinate
+422298	subordinate
+422312	subordinate
+422315	subordinate
+coordinate
+422318	coordinate
+422322	subordinate
+subordinate
+422350	subordinate
+422352	subordinate
+422375	coordinate
+subordinate
+422380	subordinate
+subordinate
+422405	subordinate
+422407	subordinate
+422412	coordinate
+422417	coordinate
+422426	coordinate
+422430	coordinate
+422452	subordinate
+subordinate
+422468	subordinate
+subordinate
+422483	subordinate
+422492	coordinate
+422498	coordinate
+422510	subordinate
+422519	subordinate
+422526	subordinate
+422529	subordinate
+422534	coordinate
+subordinate
+422543	coordinate
+422554	coordinate
+422556	coordinate
+422570	subordinate
+422574	coordinate
+422589	subordinate
+422595	subordinate
+422600	coordinate
+422609	coordinate
+422611	coordinate
+422617	coordinate
+subordinate
+422620	subordinate
+422628	subordinate
+422636	subordinate
+422640	subordinate
+422642	subordinate
+422654	coordinate
+422656	subordinate
+422660	coordinate
+422662	subordinate
+422679	subordinate
+422687	subordinate
+422703	subordinate
+coordinate
+422709	coordinate
+422718	subordinate
+422722	coordinate
+422732	subordinate
+422736	coordinate
+subordinate
+422740	coordinate
+coordinate
+422750	coordinate
+422756	subordinate
+422762	coordinate
+422766	subordinate
+422769	subordinate
+422773	coordinate
+422776	coordinate
+subordinate
+422788	subordinate
+422795	subordinate
+422806	subordinate
+422809	subordinate
+422814	subordinate
+422819	coordinate
+422823	subordinate
+422826	coordinate
+coordinate
+422831	coordinate
+subordinate
+422855	coordinate
+coordinate
+422858	coordinate
+422862	coordinate
+subordinate
+422865	subordinate
+422873	subordinate
+422875	coordinate
+422878	coordinate
+422882	coordinate
+422886	coordinate
+422894	subordinate
+422899	coordinate
+422903	coordinate
+422909	coordinate
+422913	subordinate
+422933	coordinate
+subordinate
+422941	coordinate
+422945	subordinate
+422949	coordinate
+422951	coordinate
+subordinate
+coordinate
+422955	subordinate
+422957	coordinate
+422960	subordinate
+422971	coordinate
+422977	coordinate
+422981	subordinate
+422996	subordinate
+423010	subordinate
+subordinate
+subordinate
+423019	coordinate
+423021	coordinate
+coordinate
+423027	subordinate
+423043	subordinate
+coordinate
+423046	coordinate
+423051	coordinate
+coordinate
+423058	subordinate
+423060	coordinate
+423062	coordinate
+subordinate
+423065	coordinate
+subordinate
+423070	coordinate
+423089	coordinate
+423097	coordinate
+423106	coordinate
+423110	subordinate
+subordinate
+423117	coordinate
+423119	coordinate
+423132	subordinate
+423136	subordinate
+423152	subordinate
+423156	subordinate
+423161	subordinate
+423166	subordinate
+423168	subordinate
+423179	coordinate
+subordinate
+423186	coordinate
+coordinate
+423192	coordinate
+423195	coordinate
+423208	subordinate
+423222	subordinate
+423226	coordinate
+subordinate
+423231	coordinate
+423237	coordinate
+423245	subordinate
+423247	coordinate
+subordinate
+423261	subordinate
+subordinate
+423277	subordinate
+subordinate
+423283	subordinate
+423293	coordinate
+423295	coordinate
+423317	subordinate
+423320	subordinate
+423334	subordinate
+subordinate
+423339	subordinate
+423357	subordinate
+423362	subordinate
+423364	coordinate
+subordinate
+423369	coordinate
+423372	subordinate
+coordinate
+423375	coordinate
+423380	subordinate
+423386	coordinate
+subordinate
+coordinate
+423391	coordinate
+423395	subordinate
+423403	coordinate
+423407	coordinate
+subordinate
+423413	coordinate
+subordinate
+423416	coordinate
+subordinate
+423422	subordinate
+423426	coordinate
+423431	coordinate
+423437	subordinate
+423453	subordinate
+423461	subordinate
+423468	subordinate
+423472	subordinate
+423481	subordinate
+coordinate
+423492	subordinate
+coordinate
+423495	coordinate
+423514	coordinate
+423517	coordinate
+423533	subordinate
+423539	subordinate
+coordinate
+423550	coordinate
+423557	subordinate
+coordinate
+423560	coordinate
+423564	subordinate
+423570	coordinate
+423572	coordinate
+subordinate
+423579	coordinate
+423582	coordinate
+subordinate
+coordinate
+423589	subordinate
+subordinate
+423592	subordinate
+423613	subordinate
+423625	subordinate
+423635	subordinate
+423640	coordinate
+423643	coordinate
+423651	subordinate
+423654	subordinate
+423660	coordinate
+423667	subordinate
+423674	coordinate
+subordinate
+subordinate
+423693	coordinate
+423695	coordinate
+subordinate
+423698	coordinate
+423700	subordinate
+423702	subordinate
+423706	subordinate
+423711	subordinate
+423726	subordinate
+423729	subordinate
+423737	subordinate
+coordinate
+423743	coordinate
+423748	subordinate
+423752	coordinate
+423754	subordinate
+423757	coordinate
+423774	subordinate
+423785	subordinate
+423789	subordinate
+423791	subordinate
+423807	coordinate
+coordinate
+subordinate
+423811	coordinate
+subordinate
+423817	subordinate
+423819	subordinate
+423825	subordinate
+423832	subordinate
+423836	subordinate
+423843	coordinate
+423857	coordinate
+423865	coordinate
+423869	coordinate
+423877	coordinate
+423880	coordinate
+423892	coordinate
+423895	coordinate
+subordinate
+423903	subordinate
+423912	subordinate
+423918	coordinate
+423920	coordinate
+423925	coordinate
+423927	coordinate
+423936	subordinate
+423949	subordinate
+423962	subordinate
+423969	subordinate
+coordinate
+423972	coordinate
+423978	subordinate
+423995	subordinate
+423999	coordinate
+424005	coordinate
+subordinate
+424027	subordinate
+coordinate
+424036	subordinate
+424041	subordinate
+424047	subordinate
+424080	subordinate
+424091	subordinate
+coordinate
+424094	coordinate
+424100	subordinate
+424110	subordinate
+424115	subordinate
+424122	subordinate
+424147	subordinate
+424156	coordinate
+424159	subordinate
+424161	coordinate
+424165	subordinate
+424168	coordinate
+424173	coordinate
+coordinate
+424180	subordinate
+424186	coordinate
+424190	coordinate
+subordinate
+424194	coordinate
+424212	subordinate
+424223	subordinate
+424236	subordinate
+424241	coordinate
+424244	coordinate
+424256	subordinate
+424263	subordinate
+subordinate
+424268	coordinate
+424275	coordinate
+424284	subordinate
+subordinate
+coordinate
+424294	coordinate
+424297	coordinate
+424317	subordinate
+424323	subordinate
+424337	coordinate
+424339	coordinate
+424346	subordinate
+424352	subordinate
+424354	subordinate
+424368	coordinate
+subordinate
+424371	coordinate
+424401	subordinate
+424411	subordinate
+424416	subordinate
+424422	coordinate
+424426	coordinate
+424436	coordinate
+424453	coordinate
+subordinate
+coordinate
+424457	coordinate
+424463	coordinate
+subordinate
+424469	subordinate
+424485	coordinate
+424487	subordinate
+424489	coordinate
+subordinate
+424495	subordinate
+coordinate
+coordinate
+424503	coordinate
+424506	coordinate
+424520	subordinate
+424524	subordinate
+424527	subordinate
+424529	subordinate
+424541	subordinate
+424544	subordinate
+424548	subordinate
+424552	subordinate
+424568	subordinate
+424583	coordinate
+424588	subordinate
+424591	coordinate
+424594	subordinate
+424596	subordinate
+424599	subordinate
+subordinate
+subordinate
+424609	coordinate
+424614	coordinate
+424625	subordinate
+subordinate
+424629	coordinate
+424636	subordinate
+424639	coordinate
+424646	coordinate
+424649	coordinate
+424655	subordinate
+424675	coordinate
+424677	coordinate
+424687	coordinate
+424691	coordinate
+424695	coordinate
+subordinate
+424698	coordinate
+424706	coordinate
+subordinate
+424711	coordinate
+coordinate
+subordinate
+424729	coordinate
+subordinate
+424733	coordinate
+424740	subordinate
+424745	coordinate
+424750	coordinate
+424764	subordinate
+424789	subordinate
+subordinate
+424794	coordinate
+subordinate
+424803	coordinate
+subordinate
+subordinate
+424817	subordinate
+424827	subordinate
+424831	coordinate
+subordinate
+424834	coordinate
+424838	coordinate
+subordinate
+424841	subordinate
+subordinate
+424855	subordinate
+424867	subordinate
+424872	coordinate
+subordinate
+coordinate
+424876	coordinate
+subordinate
+424879	subordinate
+424881	coordinate
+subordinate
+424896	coordinate
+424899	coordinate
+subordinate
+424919	subordinate
+424921	subordinate
+424930	coordinate
+424933	coordinate
+424937	coordinate
+424940	subordinate
+424944	coordinate
+subordinate
+424960	subordinate
+424962	subordinate
+424973	subordinate
+424999	coordinate
+425002	coordinate
+425018	subordinate
+coordinate
+425021	coordinate
+425023	coordinate
+425029	coordinate
+coordinate
+subordinate
+425037	coordinate
+425040	coordinate
+subordinate
+425057	subordinate
+425077	subordinate
+425080	subordinate
+425091	subordinate
+425094	subordinate
+subordinate
+425105	subordinate
+425107	subordinate
+425112	coordinate
+425118	coordinate
+425120	coordinate
+425124	subordinate
+425138	coordinate
+subordinate
+425145	coordinate
+425150	coordinate
+subordinate
+425154	subordinate
+425158	subordinate
+425166	subordinate
+425177	subordinate
+425183	coordinate
+subordinate
+425191	coordinate
+subordinate
+425217	subordinate
+425228	subordinate
+coordinate
+425231	coordinate
+425236	coordinate
+425240	coordinate
+425248	coordinate
+425257	coordinate
+coordinate
+coordinate
+coordinate
+425268	coordinate
+425273	coordinate
+425279	coordinate
+subordinate
+425299	coordinate
+425301	coordinate
+425315	subordinate
+425320	subordinate
+425356	subordinate
+425360	subordinate
+425362	coordinate
+425365	subordinate
+subordinate
+425373	coordinate
+coordinate
+coordinate
+425383	subordinate
+425393	coordinate
+425401	subordinate
+coordinate
+425404	coordinate
+425413	subordinate
+425415	coordinate
+subordinate
+425419	subordinate
+425424	subordinate
+425430	subordinate
+425458	subordinate
+425467	subordinate
+425485	subordinate
+subordinate
+425500	subordinate
+425507	coordinate
+coordinate
+subordinate
+425515	coordinate
+425520	coordinate
+425522	coordinate
+subordinate
+425534	coordinate
+425538	coordinate
+425542	subordinate
+425565	coordinate
+425567	coordinate
+425578	subordinate
+425584	subordinate
+425602	subordinate
+425609	subordinate
+subordinate
+425619	subordinate
+425623	subordinate
+425630	coordinate
+subordinate
+425635	coordinate
+425639	subordinate
+425643	subordinate
+425649	subordinate
+425656	subordinate
+coordinate
+425659	coordinate
+425682	coordinate
+coordinate
+subordinate
+425687	coordinate
+425692	coordinate
+subordinate
+425709	coordinate
+425714	subordinate
+425722	coordinate
+coordinate
+425729	coordinate
+425736	coordinate
+subordinate
+425744	coordinate
+425753	subordinate
+coordinate
+425762	coordinate
+subordinate
+subordinate
+425775	subordinate
+425787	coordinate
+425789	subordinate
+425800	subordinate
+subordinate
+425808	coordinate
+coordinate
+425814	coordinate
+425816	coordinate
+425820	coordinate
+425827	subordinate
+425837	subordinate
+425842	subordinate
+425863	subordinate
+425874	subordinate
+coordinate
+425889	coordinate
+425891	coordinate
+425896	subordinate
+subordinate
+425903	subordinate
+425908	coordinate
+coordinate
+425912	coordinate
+425916	subordinate
+425922	coordinate
+425931	subordinate
+425938	subordinate
+425942	subordinate
+425947	subordinate
+425952	subordinate
+coordinate
+425963	subordinate
+subordinate
+425972	subordinate
+425988	subordinate
+subordinate
+425997	subordinate
+coordinate
+coordinate
+coordinate
+426002	coordinate
+426004	coordinate
+426012	subordinate
+426019	coordinate
+426024	coordinate
+subordinate
+coordinate
+426029	coordinate
+426033	subordinate
+subordinate
+426041	subordinate
+426054	subordinate
+coordinate
+426059	coordinate
+426067	subordinate
+426073	subordinate
+coordinate
+426077	coordinate
+426079	subordinate
+426089	subordinate
+426091	subordinate
+426100	coordinate
+subordinate
+426106	coordinate
+subordinate
+426127	subordinate
+coordinate
+426130	coordinate
+426132	subordinate
+coordinate
+426137	coordinate
+426151	subordinate
+426158	subordinate
+426163	subordinate
+426177	subordinate
+426196	coordinate
+subordinate
+426204	subordinate
+426209	coordinate
+426216	coordinate
+subordinate
+426227	coordinate
+subordinate
+426241	subordinate
+426245	subordinate
+coordinate
+426248	coordinate
+subordinate
+426259	subordinate
+426268	subordinate
+426281	subordinate
+coordinate
+426291	coordinate
+426298	subordinate
+426303	subordinate
+426306	coordinate
+426311	subordinate
+426325	subordinate
+426334	subordinate
+426341	subordinate
+426346	coordinate
+426350	coordinate
+subordinate
+426379	subordinate
+426394	coordinate
+426397	coordinate
+coordinate
+coordinate
+426406	coordinate
+426411	coordinate
+426413	subordinate
+426431	subordinate
+426433	subordinate
+426438	subordinate
+coordinate
+426444	subordinate
+426447	coordinate
+426467	subordinate
+426481	subordinate
+426483	subordinate
+426498	subordinate
+426530	subordinate
+426535	subordinate
+subordinate
+subordinate
+426547	subordinate
+426566	subordinate
+426577	subordinate
+426590	subordinate
+426598	coordinate
+subordinate
+426602	coordinate
+subordinate
+426609	subordinate
+426614	coordinate
+426618	subordinate
+426624	coordinate
+426628	subordinate
+426641	subordinate
+426658	subordinate
+426672	subordinate
+426685	coordinate
+426689	coordinate
+426695	subordinate
+subordinate
+coordinate
+426700	coordinate
+426702	subordinate
+426708	coordinate
+subordinate
+subordinate
+426717	coordinate
+426721	subordinate
+426738	subordinate
+426754	coordinate
+subordinate
+426760	subordinate
+426779	subordinate
+426782	subordinate
+426798	coordinate
+426802	coordinate
+426812	subordinate
+426816	subordinate
+426823	coordinate
+subordinate
+426827	subordinate
+426831	coordinate
+426837	subordinate
+426851	subordinate
+426855	subordinate
+426861	subordinate
+426864	subordinate
+426869	subordinate
+426874	coordinate
+subordinate
+426879	coordinate
+426905	coordinate
+426914	subordinate
+426916	coordinate
+subordinate
+426920	subordinate
+426928	subordinate
+426931	subordinate
+426937	subordinate
+426945	subordinate
+coordinate
+426948	coordinate
+426955	subordinate
+subordinate
+426959	subordinate
+426969	subordinate
+426975	subordinate
+426981	subordinate
+426984	subordinate
+427006	subordinate
+coordinate
+427009	coordinate
+427012	subordinate
+427025	coordinate
+427035	subordinate
+427046	subordinate
+427049	coordinate
+427054	subordinate
+427056	coordinate
+427059	subordinate
+427062	subordinate
+427066	coordinate
+427070	coordinate
+coordinate
+427073	subordinate
+427076	subordinate
+427078	coordinate
+subordinate
+427084	subordinate
+427086	coordinate
+subordinate
+427093	coordinate
+427101	coordinate
+427106	subordinate
+427109	coordinate
+427114	coordinate
+427116	subordinate
+subordinate
+427122	coordinate
+coordinate
+427127	coordinate
+427133	subordinate
+coordinate
+427137	coordinate
+subordinate
+427142	subordinate
+427144	subordinate
+subordinate
+subordinate
+427157	subordinate
+427161	coordinate
+coordinate
+subordinate
+427165	coordinate
+subordinate
+427172	subordinate
+427175	subordinate
+427177	subordinate
+427182	coordinate
+427187	coordinate
+427207	coordinate
+subordinate
+427217	coordinate
+427223	coordinate
+subordinate
+427228	coordinate
+subordinate
+427255	subordinate
+427258	subordinate
+427267	coordinate
+subordinate
+subordinate
+427273	coordinate
+427275	subordinate
+coordinate
+427278	coordinate
+subordinate
+427290	coordinate
+coordinate
+427296	coordinate
+subordinate
+427299	coordinate
+subordinate
+subordinate
+427307	coordinate
+subordinate
+427314	coordinate
+coordinate
+subordinate
+427319	coordinate
+427323	subordinate
+427336	coordinate
+427343	coordinate
+427352	coordinate
+427354	subordinate
+coordinate
+427358	coordinate
+427361	coordinate
+427372	coordinate
+427376	coordinate
+427387	subordinate
+427397	coordinate
+subordinate
+coordinate
+427402	coordinate
+coordinate
+427409	coordinate
+427412	coordinate
+subordinate
+427416	subordinate
+427422	subordinate
+427443	subordinate
+subordinate
+427449	coordinate
+427454	subordinate
+427456	coordinate
+subordinate
+427476	subordinate
+427500	coordinate
+427504	coordinate
+427533	subordinate
+427542	subordinate
+427557	coordinate
+427563	coordinate
+427588	subordinate
+427594	coordinate
+coordinate
+427604	coordinate
+427613	coordinate
+coordinate
+427622	coordinate
+427627	subordinate
+427631	coordinate
+427634	subordinate
+427638	subordinate
+427644	coordinate
+subordinate
+427652	subordinate
+subordinate
+427659	subordinate
+427662	subordinate
+427664	subordinate
+427670	subordinate
+subordinate
+subordinate
+427676	coordinate
+427682	subordinate
+427686	coordinate
+coordinate
+427689	coordinate
+427694	subordinate
+427702	subordinate
+427708	subordinate
+coordinate
+427711	coordinate
+427718	subordinate
+427724	subordinate
+427738	coordinate
+subordinate
+427746	coordinate
+427749	subordinate
+subordinate
+427761	subordinate
+427766	subordinate
+427769	subordinate
+427775	subordinate
+427781	coordinate
+427783	coordinate
+subordinate
+427812	subordinate
+427815	subordinate
+subordinate
+427830	subordinate
+427837	subordinate
+427840	subordinate
+427844	subordinate
+427850	subordinate
+subordinate
+427859	coordinate
+427874	subordinate
+427883	subordinate
+427890	subordinate
+427898	coordinate
+subordinate
+427904	subordinate
+subordinate
+427907	subordinate
+427916	subordinate
+427922	coordinate
+427928	coordinate
+427930	subordinate
+427947	subordinate
+427958	subordinate
+427960	subordinate
+427966	coordinate
+427968	coordinate
+427970	subordinate
+427989	subordinate
+427995	subordinate
+427997	subordinate
+428007	coordinate
+428016	coordinate
+coordinate
+428020	subordinate
+428022	coordinate
+428031	coordinate
+coordinate
+coordinate
+428037	subordinate
+coordinate
+428045	subordinate
+428056	subordinate
+428068	coordinate
+428072	coordinate
+428081	subordinate
+428088	subordinate
+428095	coordinate
+428097	subordinate
+428108	coordinate
+428111	subordinate
+428122	subordinate
+428132	subordinate
+428146	coordinate
+428148	subordinate
+428150	subordinate
+428155	coordinate
+428164	subordinate
+428171	coordinate
+428173	coordinate
+subordinate
+428182	subordinate
+428185	coordinate
+coordinate
+subordinate
+coordinate
+428201	coordinate
+subordinate
+428204	subordinate
+coordinate
+428207	coordinate
+428211	coordinate
+subordinate
+428214	subordinate
+428219	subordinate
+428230	subordinate
+subordinate
+428235	subordinate
+428240	coordinate
+428246	coordinate
+subordinate
+428254	subordinate
+428260	coordinate
+subordinate
+428265	coordinate
+coordinate
+subordinate
+428271	coordinate
+428280	subordinate
+428284	subordinate
+428287	subordinate
+428290	subordinate
+428296	subordinate
+428298	subordinate
+428301	subordinate
+428306	coordinate
+428312	subordinate
+coordinate
+subordinate
+428319	coordinate
+428327	subordinate
+428365	subordinate
+428371	subordinate
+428383	coordinate
+428389	coordinate
+coordinate
+428392	coordinate
+428402	subordinate
+428407	subordinate
+428418	subordinate
+428421	subordinate
+428426	subordinate
+428429	subordinate
+428439	subordinate
+428463	subordinate
+subordinate
+coordinate
+428476	coordinate
+coordinate
+428481	coordinate
+428492	subordinate
+428494	subordinate
+428522	subordinate
+428527	coordinate
+coordinate
+428531	coordinate
+428534	coordinate
+428538	subordinate
+428547	subordinate
+428549	subordinate
+subordinate
+428553	subordinate
+428560	coordinate
+428570	coordinate
+coordinate
+428575	coordinate
+428586	subordinate
+428598	subordinate
+428604	coordinate
+428608	coordinate
+428623	subordinate
+428628	subordinate
+subordinate
+428640	subordinate
+428645	subordinate
+428672	subordinate
+subordinate
+428681	subordinate
+428710	subordinate
+428721	coordinate
+subordinate
+428725	coordinate
+coordinate
+428735	coordinate
+subordinate
+428739	subordinate
+428748	subordinate
+coordinate
+428751	coordinate
+428759	coordinate
+428763	coordinate
+428766	subordinate
+428776	subordinate
+428787	subordinate
+subordinate
+428790	subordinate
+428799	subordinate
+coordinate
+428804	coordinate
+428806	subordinate
+428820	subordinate
+428822	subordinate
+428835	subordinate
+428843	subordinate
+428851	subordinate
+subordinate
+428866	subordinate
+coordinate
+subordinate
+428870	coordinate
+428881	subordinate
+428888	coordinate
+428890	subordinate
+428899	coordinate
+428901	coordinate
+428904	coordinate
+428906	subordinate
+428914	subordinate
+428921	subordinate
+428928	subordinate
+428937	subordinate
+coordinate
+428942	coordinate
+subordinate
+subordinate
+428949	coordinate
+subordinate
+coordinate
+428955	coordinate
+428960	coordinate
+428968	subordinate
+428999	subordinate
+429004	coordinate
+429011	coordinate
+429028	subordinate
+429030	coordinate
+429032	subordinate
+subordinate
+429036	coordinate
+429051	coordinate
+subordinate
+429055	subordinate
+429058	subordinate
+429064	subordinate
+429070	coordinate
+429074	coordinate
+subordinate
+429079	subordinate
+429083	subordinate
+429090	subordinate
+coordinate
+429093	coordinate
+429096	coordinate
+429098	coordinate
+429104	coordinate
+429106	subordinate
+429108	coordinate
+429114	subordinate
+429119	subordinate
+subordinate
+429123	subordinate
+429125	subordinate
+subordinate
+429131	subordinate
+429134	coordinate
+429136	subordinate
+429139	subordinate
+429144	coordinate
+429148	coordinate
+429157	subordinate
+429160	subordinate
+subordinate
+429165	subordinate
+429168	subordinate
+subordinate
+429177	subordinate
+429188	subordinate
+429192	subordinate
+429203	subordinate
+429219	subordinate
+429226	coordinate
+429228	coordinate
+429232	subordinate
+429251	subordinate
+429259	subordinate
+429276	subordinate
+subordinate
+429308	subordinate
+429323	subordinate
+429342	subordinate
+429356	coordinate
+429362	subordinate
+429365	coordinate
+429368	subordinate
+subordinate
+429382	subordinate
+429399	subordinate
+coordinate
+429402	coordinate
+429431	subordinate
+subordinate
+coordinate
+429445	coordinate
+subordinate
+429448	coordinate
+429452	subordinate
+subordinate
+429461	coordinate
+429464	coordinate
+subordinate
+429470	subordinate
+429477	subordinate
+429489	subordinate
+subordinate
+subordinate
+429493	coordinate
+subordinate
+429498	coordinate
+429508	subordinate
+429510	subordinate
+429512	subordinate
+429516	coordinate
+subordinate
+coordinate
+429521	coordinate
+429524	coordinate
+429528	subordinate
+429536	subordinate
+429542	subordinate
+429548	subordinate
+subordinate
+429552	coordinate
+coordinate
+subordinate
+subordinate
+429563	coordinate
+subordinate
+429568	subordinate
+429570	coordinate
+coordinate
+429575	coordinate
+429581	coordinate
+subordinate
+429587	coordinate
+subordinate
+429595	coordinate
+429597	subordinate
+429600	coordinate
+subordinate
+429608	subordinate
+429618	subordinate
+429625	coordinate
+429631	subordinate
+429634	subordinate
+coordinate
+429638	coordinate
+subordinate
+429653	coordinate
+429662	coordinate
+429669	subordinate
+429683	subordinate
+coordinate
+429686	coordinate
+429690	subordinate
+subordinate
+coordinate
+coordinate
+429715	subordinate
+429725	subordinate
+429743	coordinate
+429750	coordinate
+429756	subordinate
+429759	subordinate
+429769	coordinate
+subordinate
+429775	coordinate
+429786	coordinate
+429802	subordinate
+subordinate
+coordinate
+429807	coordinate
+429824	subordinate
+429828	coordinate
+coordinate
+subordinate
+429836	subordinate
+429842	coordinate
+subordinate
+429846	coordinate
+429848	subordinate
+429856	subordinate
+subordinate
+subordinate
+429868	subordinate
+429872	subordinate
+subordinate
+429893	subordinate
+429896	subordinate
+429898	coordinate
+429903	subordinate
+429909	coordinate
+429920	coordinate
+429934	coordinate
+coordinate
+429940	coordinate
+429949	subordinate
+429964	coordinate
+coordinate
+429969	coordinate
+coordinate
+429974	coordinate
+subordinate
+429980	coordinate
+429986	subordinate
+429995	subordinate
+430002	subordinate
+430007	subordinate
+430011	coordinate
+subordinate
+430015	coordinate
+subordinate
+430019	coordinate
+subordinate
+coordinate
+430023	coordinate
+430035	subordinate
+430039	subordinate
+430046	subordinate
+430051	subordinate
+430059	subordinate
+430068	subordinate
+subordinate
+430076	subordinate
+430088	coordinate
+430093	coordinate
+430106	coordinate
+430119	subordinate
+430128	subordinate
+430140	subordinate
+430167	subordinate
+coordinate
+430173	coordinate
+430177	subordinate
+430189	subordinate
+430196	subordinate
+430204	coordinate
+430208	coordinate
+430212	subordinate
+430222	subordinate
+430225	subordinate
+430229	coordinate
+subordinate
+coordinate
+430233	coordinate
+430236	subordinate
+430242	coordinate
+coordinate
+430247	coordinate
+430272	coordinate
+430278	coordinate
+430295	subordinate
+430300	subordinate
+subordinate
+430306	subordinate
+430312	subordinate
+430327	subordinate
+430332	subordinate
+subordinate
+coordinate
+430337	coordinate
+430356	subordinate
+coordinate
+430361	coordinate
+430364	coordinate
+430370	subordinate
+430374	subordinate
+430382	coordinate
+subordinate
+430385	coordinate
+430388	subordinate
+430394	subordinate
+coordinate
+430398	coordinate
+430401	subordinate
+coordinate
+430405	coordinate
+430409	coordinate
+430411	coordinate
+430415	subordinate
+430437	subordinate
+430446	subordinate
+coordinate
+430449	coordinate
+430451	coordinate
+430463	subordinate
+430468	coordinate
+430473	coordinate
+430483	subordinate
+subordinate
+430489	coordinate
+430491	coordinate
+coordinate
+430495	coordinate
+430500	subordinate
+430503	subordinate
+subordinate
+430506	subordinate
+subordinate
+430514	subordinate
+430520	subordinate
+430524	subordinate
+430531	subordinate
+430533	subordinate
+430538	subordinate
+430540	subordinate
+430546	subordinate
+430574	subordinate
+430580	subordinate
+430583	coordinate
+430586	coordinate
+430592	coordinate
+430594	subordinate
+subordinate
+430603	coordinate
+coordinate
+subordinate
+430612	coordinate
+subordinate
+430619	subordinate
+430640	subordinate
+430649	subordinate
+430653	subordinate
+430655	coordinate
+430657	subordinate
+430661	coordinate
+subordinate
+subordinate
+430696	coordinate
+430700	coordinate
+430724	coordinate
+430730	coordinate
+430733	subordinate
+coordinate
+subordinate
+430740	coordinate
+430745	coordinate
+430748	coordinate
+subordinate
+430758	coordinate
+430764	coordinate
+subordinate
+coordinate
+430768	coordinate
+430774	subordinate
+430781	subordinate
+coordinate
+430784	subordinate
+430788	coordinate
+430796	subordinate
+subordinate
+430802	subordinate
+430804	subordinate
+430809	subordinate
+430817	subordinate
+430819	subordinate
+subordinate
+430825	subordinate
+430838	subordinate
+430843	subordinate
+430845	subordinate
+430855	subordinate
+430857	subordinate
+subordinate
+subordinate
+430863	coordinate
+430872	subordinate
+430878	subordinate
+coordinate
+430881	coordinate
+430888	subordinate
+430899	subordinate
+subordinate
+430905	coordinate
+subordinate
+430914	subordinate
+subordinate
+430919	subordinate
+subordinate
+430924	subordinate
+coordinate
+430930	coordinate
+430932	subordinate
+subordinate
+subordinate
+430944	subordinate
+430948	subordinate
+subordinate
+subordinate
+430956	subordinate
+coordinate
+430964	subordinate
+430969	subordinate
+430971	coordinate
+subordinate
+430982	subordinate
+430991	subordinate
+431000	subordinate
+431013	subordinate
+subordinate
+431021	subordinate
+431036	subordinate
+coordinate
+431041	coordinate
+subordinate
+431044	subordinate
+431053	subordinate
+subordinate
+431064	subordinate
+coordinate
+431071	coordinate
+431081	subordinate
+431085	subordinate
+431088	subordinate
+431099	subordinate
+431108	subordinate
+subordinate
+431115	subordinate
+coordinate
+431120	coordinate
+431129	subordinate
+coordinate
+431144	subordinate
+431149	subordinate
+431175	subordinate
+431180	coordinate
+431184	coordinate
+431202	subordinate
+431205	subordinate
+431217	subordinate
+431230	subordinate
+431234	subordinate
+431237	subordinate
+subordinate
+431244	subordinate
+subordinate
+431253	subordinate
+431255	subordinate
+subordinate
+431267	coordinate
+431270	subordinate
+subordinate
+431274	coordinate
+coordinate
+431280	subordinate
+coordinate
+431284	coordinate
+431293	coordinate
+subordinate
+431296	subordinate
+431308	subordinate
+431319	subordinate
+431330	subordinate
+431338	subordinate
+431349	coordinate
+431352	subordinate
+431357	coordinate
+431360	subordinate
+431375	subordinate
+431379	subordinate
+431393	coordinate
+431400	subordinate
+431410	subordinate
+431417	subordinate
+431423	subordinate
+431425	subordinate
+coordinate
+431428	coordinate
+coordinate
+431431	coordinate
+subordinate
+431439	coordinate
+431442	subordinate
+431449	subordinate
+431452	coordinate
+431470	subordinate
+431472	subordinate
+coordinate
+431477	coordinate
+subordinate
+431487	subordinate
+431491	coordinate
+431498	coordinate
+subordinate
+subordinate
+431504	subordinate
+431508	coordinate
+subordinate
+431516	coordinate
+coordinate
+431528	subordinate
+431531	subordinate
+431533	subordinate
+subordinate
+431542	subordinate
+coordinate
+431547	coordinate
+subordinate
+431557	subordinate
+431559	subordinate
+431566	subordinate
+431573	subordinate
+431575	subordinate
+431579	subordinate
+431589	subordinate
+431596	subordinate
+431599	subordinate
+431616	subordinate
+subordinate
+431619	subordinate
+431622	subordinate
+subordinate
+431638	subordinate
+431643	subordinate
+431649	coordinate
+431651	subordinate
+coordinate
+431654	coordinate
+431661	coordinate
+431663	subordinate
+subordinate
+431666	subordinate
+431672	subordinate
+431690	subordinate
+431696	subordinate
+431709	subordinate
+431713	subordinate
+431721	subordinate
+431726	subordinate
+431731	subordinate
+coordinate
+431738	coordinate
+431747	subordinate
+431749	subordinate
+431753	subordinate
+431756	coordinate
+431758	subordinate
+431765	coordinate
+coordinate
+431773	coordinate
+431778	subordinate
+431780	subordinate
+431785	subordinate
+431791	subordinate
+coordinate
+431795	coordinate
+431802	subordinate
+431808	subordinate
+431810	subordinate
+431820	subordinate
+431829	coordinate
+coordinate
+431839	coordinate
+431852	coordinate
+431868	subordinate
+431880	subordinate
+subordinate
+subordinate
+431886	coordinate
+subordinate
+431896	subordinate
+431899	subordinate
+431914	subordinate
+431918	subordinate
+431922	subordinate
+subordinate
+431934	subordinate
+431939	subordinate
+431946	subordinate
+431950	subordinate
+subordinate
+431963	subordinate
+431983	subordinate
+431985	subordinate
+432002	subordinate
+432008	subordinate
+432010	subordinate
+432014	subordinate
+432028	subordinate
+432035	subordinate
+432044	coordinate
+432047	coordinate
+432049	coordinate
+432053	subordinate
+432059	coordinate
+coordinate
+432064	coordinate
+subordinate
+432069	subordinate
+432071	coordinate
+subordinate
+432080	subordinate
+432094	subordinate
+432123	subordinate
+432140	coordinate
+432142	coordinate
+432150	subordinate
+432156	subordinate
+432158	subordinate
+subordinate
+432168	subordinate
+432200	coordinate
+432203	coordinate
+432219	subordinate
+coordinate
+432222	coordinate
+432225	subordinate
+432232	subordinate
+432235	subordinate
+432239	subordinate
+432247	subordinate
+432253	subordinate
+subordinate
+432258	subordinate
+432262	subordinate
+432266	subordinate
+432270	subordinate
+432296	coordinate
+432299	coordinate
+432310	subordinate
+432313	subordinate
+432315	subordinate
+432336	subordinate
+432349	subordinate
+432364	coordinate
+432378	coordinate
+subordinate
+432396	subordinate
+432400	subordinate
+432405	subordinate
+432419	subordinate
+432425	subordinate
+432428	subordinate
+subordinate
+432442	coordinate
+432446	coordinate
+subordinate
+432450	subordinate
+subordinate
+432456	coordinate
+subordinate
+432464	coordinate
+subordinate
+432478	subordinate
+432482	subordinate
+432490	coordinate
+432494	coordinate
+432501	coordinate
+432505	coordinate
+subordinate
+432511	subordinate
+432520	coordinate
+432523	coordinate
+432537	subordinate
+432556	coordinate
+432563	coordinate
+432575	subordinate
+432579	subordinate
+subordinate
+432586	subordinate
+432596	subordinate
+subordinate
+432599	subordinate
+432615	coordinate
+432618	coordinate
+subordinate
+432621	subordinate
+432626	subordinate
+432629	subordinate
+subordinate
+432633	subordinate
+subordinate
+432637	coordinate
+subordinate
+432644	subordinate
+432651	coordinate
+432654	coordinate
+432663	coordinate
+432670	coordinate
+432683	subordinate
+432691	subordinate
+coordinate
+subordinate
+432697	coordinate
+432707	subordinate
+432709	subordinate
+432730	coordinate
+subordinate
+432750	subordinate
+432755	subordinate
+432762	subordinate
+432773	subordinate
+432778	coordinate
+subordinate
+432782	coordinate
+subordinate
+coordinate
+432786	coordinate
+432791	subordinate
+432797	subordinate
+432800	subordinate
+432805	coordinate
+432807	subordinate
+432816	subordinate
+subordinate
+432827	subordinate
+432831	subordinate
+432834	coordinate
+432840	coordinate
+subordinate
+432846	subordinate
+subordinate
+432849	subordinate
+432852	subordinate
+432854	subordinate
+432859	subordinate
+432861	subordinate
+432866	subordinate
+432874	coordinate
+subordinate
+coordinate
+432878	coordinate
+432882	coordinate
+subordinate
+subordinate
+432888	subordinate
+432902	subordinate
+432904	subordinate
+432912	subordinate
+432914	coordinate
+432921	subordinate
+432923	subordinate
+432930	coordinate
+subordinate
+432935	subordinate
+432940	coordinate
+subordinate
+432950	coordinate
+subordinate
+432956	coordinate
+432958	coordinate
+432960	subordinate
+432962	coordinate
+432971	subordinate
+432976	subordinate
+432980	coordinate
+432982	subordinate
+subordinate
+432987	coordinate
+subordinate
+coordinate
+432992	subordinate
+subordinate
+433001	coordinate
+433004	coordinate
+433013	subordinate
+433020	subordinate
+433030	subordinate
+433032	subordinate
+subordinate
+433048	coordinate
+433053	coordinate
+433056	subordinate
+433065	subordinate
+433067	subordinate
+433079	subordinate
+subordinate
+433088	subordinate
+433096	subordinate
+coordinate
+subordinate
+433100	coordinate
+433105	coordinate
+433108	coordinate
+subordinate
+433113	subordinate
+subordinate
+433128	subordinate
+433130	subordinate
+433136	subordinate
+433140	subordinate
+433143	subordinate
+coordinate
+433148	coordinate
+subordinate
+433156	coordinate
+433165	coordinate
+433167	coordinate
+433170	coordinate
+subordinate
+433184	subordinate
+433187	subordinate
+433192	subordinate
+433196	subordinate
+433208	subordinate
+subordinate
+433220	subordinate
+433231	subordinate
+433233	subordinate
+433239	subordinate
+433242	subordinate
+433247	subordinate
+433253	subordinate
+433270	subordinate
+433283	subordinate
+subordinate
+433296	subordinate
+subordinate
+433299	subordinate
+subordinate
+433309	subordinate
+coordinate
+433312	coordinate
+433314	subordinate
+433327	coordinate
+433333	coordinate
+subordinate
+433345	subordinate
+433347	subordinate
+433349	subordinate
+433354	subordinate
+433359	subordinate
+433364	subordinate
+coordinate
+433370	coordinate
+433387	coordinate
+433391	coordinate
+433395	subordinate
+433411	subordinate
+433414	coordinate
+433419	coordinate
+433421	coordinate
+coordinate
+433424	coordinate
+433427	coordinate
+coordinate
+subordinate
+433431	coordinate
+433437	coordinate
+433443	coordinate
+433446	coordinate
+433450	coordinate
+coordinate
+433454	coordinate
+433457	coordinate
+433460	coordinate
+433462	coordinate
+433466	subordinate
+433478	coordinate
+433483	coordinate
+433488	subordinate
+coordinate
+433494	coordinate
+433510	subordinate
+433590	subordinate
+433614	subordinate
+433619	subordinate
+433621	subordinate
+433631	subordinate
+433633	subordinate
+433639	coordinate
+433641	coordinate
+subordinate
+433660	coordinate
+subordinate
+433664	coordinate
+433673	subordinate
+433692	subordinate
+433702	subordinate
+433743	subordinate
+433760	subordinate
+433773	subordinate
+coordinate
+coordinate
+subordinate
+433782	coordinate
+433787	coordinate
+433793	coordinate
+subordinate
+subordinate
+433797	coordinate
+433827	coordinate
+433834	coordinate
+433856	coordinate
+433865	coordinate
+433868	subordinate
+433877	subordinate
+coordinate
+433882	coordinate
+433894	subordinate
+subordinate
+433902	subordinate
+433905	subordinate
+coordinate
+433909	coordinate
+433911	coordinate
+433917	coordinate
+433928	coordinate
+433945	subordinate
+433947	subordinate
+433954	subordinate
+433972	coordinate
+433977	coordinate
+433980	coordinate
+433985	coordinate
+434026	coordinate
+434037	coordinate
+434040	coordinate
+434043	coordinate
+coordinate
+434047	coordinate
+434053	coordinate
+434069	coordinate
+434090	coordinate
+subordinate
+434093	coordinate
+subordinate
+434100	coordinate
+434105	coordinate
+434112	subordinate
+434120	subordinate
+434130	subordinate
+coordinate
+434135	coordinate
+coordinate
+434140	coordinate
+434157	subordinate
+coordinate
+434160	coordinate
+434162	coordinate
+434165	coordinate
+434168	coordinate
+434171	subordinate
+434175	coordinate
+subordinate
+434184	subordinate
+434203	subordinate
+434209	subordinate
+434218	subordinate
+434235	subordinate
+434240	coordinate
+434243	subordinate
+434245	coordinate
+434247	subordinate
+434256	subordinate
+434272	subordinate
+434284	coordinate
+coordinate
+434290	coordinate
+434297	coordinate
+434302	coordinate
+434316	coordinate
+434321	coordinate
+434333	subordinate
+434343	subordinate
+434358	coordinate
+434361	coordinate
+434366	subordinate
+coordinate
+434373	coordinate
+434381	subordinate
+434401	subordinate
+434408	subordinate
+434424	coordinate
+subordinate
+434427	coordinate
+434434	subordinate
+434449	subordinate
+434484	subordinate
+434502	coordinate
+434506	subordinate
+434514	coordinate
+434528	subordinate
+434533	subordinate
+coordinate
+434537	coordinate
+434549	subordinate
+434555	coordinate
+434558	subordinate
+434565	coordinate
+434581	coordinate
+434583	coordinate
+434587	subordinate
+434614	subordinate
+434632	subordinate
+434651	coordinate
+434653	coordinate
+434659	subordinate
+434676	subordinate
+434680	coordinate
+434683	coordinate
+434693	coordinate
+434695	coordinate
+434699	subordinate
+434708	subordinate
+434721	coordinate
+434724	coordinate
+434740	coordinate
+coordinate
+434761	subordinate
+434765	subordinate
+434803	coordinate
+434805	coordinate
+434823	coordinate
+434834	coordinate
+434856	coordinate
+434868	coordinate
+434875	subordinate
+434879	coordinate
+434882	coordinate
+434891	subordinate
+434897	subordinate
+434931	coordinate
+434934	coordinate
+434938	subordinate
+434957	coordinate
+coordinate
+subordinate
+434963	subordinate
+subordinate
+434966	coordinate
+434972	coordinate
+coordinate
+434980	coordinate
+434982	subordinate
+coordinate
+434991	subordinate
+435003	coordinate
+435009	subordinate
+435021	coordinate
+435026	coordinate
+435033	subordinate
+435044	coordinate
+435056	coordinate
+435065	coordinate
+coordinate
+435072	coordinate
+435075	coordinate
+435078	coordinate
+435085	subordinate
+435099	subordinate
+435101	subordinate
+435113	subordinate
+435130	subordinate
+435141	subordinate
+subordinate
+435150	subordinate
+435157	coordinate
+coordinate
+435177	subordinate
+coordinate
+435185	coordinate
+435195	subordinate
+435197	subordinate
+coordinate
+435230	subordinate
+435238	subordinate
+435266	subordinate
+435272	coordinate
+435277	coordinate
+435286	subordinate
+435314	subordinate
+435331	subordinate
+435348	subordinate
+435353	subordinate
+435359	subordinate
+435380	subordinate
+435386	subordinate
+435394	subordinate
+435410	subordinate
+435423	subordinate
+435439	subordinate
+435457	subordinate
+435467	subordinate
+435473	coordinate
+subordinate
+435477	coordinate
+subordinate
+435483	subordinate
+subordinate
+435486	coordinate
+435489	coordinate
+subordinate
+435497	coordinate
+coordinate
+435510	coordinate
+435516	coordinate
+coordinate
+435520	subordinate
+435523	coordinate
+435533	subordinate
+coordinate
+435536	coordinate
+435545	subordinate
+coordinate
+435548	coordinate
+435559	subordinate
+435561	coordinate
+435564	coordinate
+435572	coordinate
+435576	coordinate
+435583	coordinate
+subordinate
+435599	subordinate
+435616	subordinate
+435625	subordinate
+435634	coordinate
+subordinate
+coordinate
+435640	coordinate
+435646	coordinate
+435653	coordinate
+435658	coordinate
+435673	subordinate
+subordinate
+435680	subordinate
+435689	subordinate
+435694	subordinate
+435709	subordinate
+435715	subordinate
+435722	subordinate
+435743	subordinate
+435749	subordinate
+435772	subordinate
+435774	subordinate
+subordinate
+subordinate
+435797	subordinate
+435800	subordinate
+435810	subordinate
+435830	coordinate
+435833	coordinate
+435835	coordinate
+435845	coordinate
+435847	subordinate
+435851	coordinate
+435857	coordinate
+435860	coordinate
+435878	subordinate
+subordinate
+435883	subordinate
+435892	subordinate
+435897	subordinate
+435903	subordinate
+435925	coordinate
+coordinate
+435929	subordinate
+435945	coordinate
+435949	coordinate
+435956	coordinate
+435958	subordinate
+435962	subordinate
+435969	coordinate
+coordinate
+435973	subordinate
+435982	subordinate
+435990	coordinate
+435998	coordinate
+subordinate
+coordinate
+436010	coordinate
+436044	coordinate
+436049	coordinate
+436090	subordinate
+436103	subordinate
+436117	coordinate
+436124	coordinate
+436133	coordinate
+436138	coordinate
+436146	subordinate
+436154	subordinate
+436159	subordinate
+436166	subordinate
+436174	subordinate
+436181	subordinate
+436187	subordinate
+436190	coordinate
+436194	coordinate
+436201	subordinate
+436220	subordinate
+436239	subordinate
+436241	subordinate
+436245	subordinate
+436258	coordinate
+436261	coordinate
+436282	subordinate
+436287	coordinate
+436290	coordinate
+436293	subordinate
+436295	subordinate
+436308	subordinate
+subordinate
+436334	subordinate
+436364	coordinate
+coordinate
+436369	subordinate
+436376	subordinate
+436390	subordinate
+436394	subordinate
+436399	subordinate
+subordinate
+436412	coordinate
+436416	subordinate
+436418	coordinate
+436428	subordinate
+436433	subordinate
+436452	subordinate
+coordinate
+subordinate
+436481	subordinate
+436488	subordinate
+coordinate
+436493	coordinate
+436519	coordinate
+436521	coordinate
+436567	subordinate
+436577	subordinate
+436579	subordinate
+436587	subordinate
+436611	coordinate
+436613	coordinate
+436620	subordinate
+436662	subordinate
+436678	coordinate
+436687	subordinate
+436689	coordinate
+436702	coordinate
+436713	coordinate
+436718	coordinate
+436723	coordinate
+coordinate
+436736	coordinate
+436738	coordinate
+436743	subordinate
+436763	coordinate
+436766	coordinate
+436783	coordinate
+subordinate
+436787	coordinate
+subordinate
+436803	subordinate
+436815	coordinate
+subordinate
+436821	coordinate
+subordinate
+436832	coordinate
+subordinate
+436835	coordinate
+subordinate
+436868	subordinate
+436875	coordinate
+436878	coordinate
+436883	subordinate
+coordinate
+subordinate
+436887	subordinate
+coordinate
+436891	coordinate
+436898	subordinate
+436901	coordinate
+subordinate
+436927	coordinate
+436933	coordinate
+436936	subordinate
+436950	subordinate
+436958	subordinate
+436972	subordinate
+436983	subordinate
+436986	coordinate
+436990	coordinate
+437010	subordinate
+437018	subordinate
+coordinate
+437021	coordinate
+subordinate
+437033	coordinate
+437040	coordinate
+437066	coordinate
+437069	coordinate
+437074	subordinate
+coordinate
+437080	coordinate
+subordinate
+437106	subordinate
+437123	subordinate
+437131	subordinate
+437157	subordinate
+437159	subordinate
+coordinate
+437178	coordinate
+437181	coordinate
+437201	subordinate
+437204	subordinate
+437213	subordinate
+437221	subordinate
+437225	subordinate
+437230	subordinate
+437235	subordinate
+437258	coordinate
+437262	coordinate
+437274	coordinate
+437281	coordinate
+437305	coordinate
+437328	subordinate
+437330	subordinate
+437369	coordinate
+437372	coordinate
+437375	coordinate
+coordinate
+437378	coordinate
+437404	subordinate
+437407	subordinate
+437416	coordinate
+437432	subordinate
+437436	subordinate
+437473	subordinate
+437490	subordinate
+coordinate
+437496	coordinate
+437514	subordinate
+437520	coordinate
+437524	coordinate
+437531	subordinate
+437537	subordinate
+437543	subordinate
+437551	subordinate
+437559	subordinate
+coordinate
+437564	coordinate
+coordinate
+subordinate
+437569	coordinate
+437582	subordinate
+437584	coordinate
+437586	coordinate
+437594	subordinate
+437599	coordinate
+437602	coordinate
+437606	coordinate
+coordinate
+437612	subordinate
+437626	coordinate
+437635	subordinate
+437638	subordinate
+437643	subordinate
+subordinate
+437650	subordinate
+437655	subordinate
+coordinate
+437662	coordinate
+437674	subordinate
+437679	subordinate
+437683	coordinate
+437687	subordinate
+437692	coordinate
+437711	subordinate
+437717	coordinate
+437722	coordinate
+437740	subordinate
+coordinate
+437744	coordinate
+437751	subordinate
+437760	subordinate
+437772	subordinate
+coordinate
+437777	coordinate
+437791	coordinate
+437793	coordinate
+437796	subordinate
+437824	subordinate
+437834	coordinate
+437837	coordinate
+437865	subordinate
+coordinate
+437868	subordinate
+subordinate
+437875	subordinate
+437882	subordinate
+coordinate
+437888	coordinate
+437893	coordinate
+437898	coordinate
+437913	coordinate
+437915	subordinate
+437921	coordinate
+437923	subordinate
+437927	coordinate
+subordinate
+437933	coordinate
+subordinate
+437939	coordinate
+437943	coordinate
+437947	coordinate
+437962	coordinate
+437965	coordinate
+437967	coordinate
+437969	coordinate
+437971	coordinate
+437973	coordinate
+437975	coordinate
+437977	coordinate
+437979	coordinate
+437983	coordinate
+437990	coordinate
+437992	coordinate
+437997	subordinate
+438000	subordinate
+438006	coordinate
+438008	coordinate
+438023	subordinate
+438031	coordinate
+438033	coordinate
+438046	subordinate
+438052	subordinate
+438056	subordinate
+438063	coordinate
+438067	coordinate
+438075	subordinate
+438081	subordinate
+438084	coordinate
+438092	coordinate
+438100	coordinate
+438114	subordinate
+438118	coordinate
+438121	coordinate
+438133	subordinate
+438153	subordinate
+438168	subordinate
+438170	subordinate
+438178	coordinate
+438182	coordinate
+438186	coordinate
+438190	coordinate
+438197	subordinate
+438210	coordinate
+438213	coordinate
+coordinate
+coordinate
+coordinate
+438218	coordinate
+subordinate
+438232	subordinate
+438250	subordinate
+438253	subordinate
+438256	subordinate
+subordinate
+subordinate
+438261	coordinate
+438264	coordinate
+438269	coordinate
+438274	coordinate
+438281	subordinate
+438283	coordinate
+438286	coordinate
+438289	coordinate
+438295	coordinate
+438300	coordinate
+438316	coordinate
+subordinate
+438319	coordinate
+438325	coordinate
+438331	coordinate
+438337	subordinate
+438356	subordinate
+438358	subordinate
+438363	coordinate
+438366	coordinate
+438385	subordinate
+438390	coordinate
+438394	coordinate
+438399	coordinate
+438402	coordinate
+438407	coordinate
+438409	subordinate
+438413	coordinate
+438415	subordinate
+438423	coordinate
+subordinate
+438426	coordinate
+subordinate
+438436	subordinate
+438440	subordinate
+438466	coordinate
+438469	coordinate
+438502	subordinate
+438507	subordinate
+438512	subordinate
+438531	coordinate
+438537	coordinate
+438547	coordinate
+438554	coordinate
+438578	coordinate
+438580	coordinate
+438590	coordinate
+438592	coordinate
+438594	coordinate
+438610	subordinate
+438616	subordinate
+438621	subordinate
+438627	subordinate
+438634	subordinate
+coordinate
+438640	coordinate
+438667	subordinate
+438671	subordinate
+438691	subordinate
+438697	subordinate
+438713	subordinate
+438722	subordinate
+438729	coordinate
+438734	coordinate
+438741	coordinate
+438745	coordinate
+438761	coordinate
+438767	coordinate
+438781	subordinate
+438820	subordinate
+438826	subordinate
+subordinate
+438842	subordinate
+438847	subordinate
+438851	subordinate
+438868	coordinate
+subordinate
+438871	subordinate
+438885	subordinate
+subordinate
+438897	subordinate
+438899	subordinate
+438901	subordinate
+coordinate
+438905	coordinate
+438908	coordinate
+subordinate
+438912	coordinate
+subordinate
+438925	coordinate
+438930	coordinate
+438937	subordinate
+438943	subordinate
+subordinate
+coordinate
+438947	coordinate
+438950	subordinate
+438956	subordinate
+438963	subordinate
+438975	coordinate
+438977	coordinate
+438982	subordinate
+438986	subordinate
+438992	subordinate
+coordinate
+438995	coordinate
+439005	subordinate
+439014	subordinate
+439033	subordinate
+coordinate
+439042	coordinate
+439050	subordinate
+subordinate
+439072	subordinate
+439079	subordinate
+coordinate
+439085	coordinate
+439091	subordinate
+439273	coordinate
+subordinate
+439287	coordinate
+439292	coordinate
+coordinate
+439299	coordinate
+439303	coordinate
+439320	coordinate
+439323	coordinate
+subordinate
+coordinate
+439329	coordinate
+439397	subordinate
+439409	subordinate
+coordinate
+coordinate
+439414	coordinate
+439416	coordinate
+439460	subordinate
+439514	subordinate
+439519	subordinate
+subordinate
+439523	subordinate
+439568	coordinate
+439571	coordinate
+coordinate
+439575	coordinate
+439604	coordinate
+439606	coordinate
+439608	coordinate
+439610	coordinate
+439617	coordinate
+439620	coordinate
+439632	subordinate
+439656	subordinate
+coordinate
+coordinate
+439663	subordinate
+439671	coordinate
+439679	coordinate
+439688	coordinate
+439693	coordinate
+439718	subordinate
+439733	subordinate
+439737	subordinate
+439739	coordinate
+439741	coordinate
+439747	subordinate
+439750	coordinate
+439752	coordinate
+439754	coordinate
+439767	subordinate
+coordinate
+439774	coordinate
+439787	coordinate
+439789	coordinate
+coordinate
+439801	subordinate
+439810	subordinate
+439826	subordinate
+439830	subordinate
+439848	subordinate
+439856	subordinate
+439859	subordinate
+439873	subordinate
+439878	subordinate
+439881	coordinate
+439907	subordinate
+439918	coordinate
+439922	coordinate
+439959	subordinate
+439961	subordinate
+439972	subordinate
+coordinate
+439975	coordinate
+439977	coordinate
+439980	subordinate
+440007	subordinate
+440020	subordinate
+440028	coordinate
+440032	coordinate
+440039	subordinate
+440053	subordinate
+440064	subordinate
+440067	subordinate
+440069	subordinate
+440073	coordinate
+440076	coordinate
+440090	subordinate
+coordinate
+440093	coordinate
+440105	subordinate
+440111	subordinate
+440116	subordinate
+440122	coordinate
+440124	coordinate
+440130	subordinate
+440135	coordinate
+440152	subordinate
+440157	coordinate
+440161	coordinate
+440165	subordinate
+coordinate
+440168	coordinate
+440172	coordinate
+440176	coordinate
+440179	subordinate
+440183	coordinate
+440191	coordinate
+440208	coordinate
+440219	coordinate
+440228	subordinate
+440241	subordinate
+440253	subordinate
+coordinate
+440257	coordinate
+440266	subordinate
+440275	subordinate
+440279	coordinate
+coordinate
+440282	coordinate
+subordinate
+440289	coordinate
+440292	coordinate
+440300	subordinate
+440318	subordinate
+subordinate
+440326	subordinate
+440363	coordinate
+440375	subordinate
+440377	subordinate
+440379	coordinate
+coordinate
+440382	coordinate
+440386	subordinate
+440415	coordinate
+coordinate
+440418	coordinate
+440421	coordinate
+440428	subordinate
+subordinate
+440434	subordinate
+440436	coordinate
+440441	coordinate
+440462	subordinate
+440467	subordinate
+440469	subordinate
+440486	subordinate
+440488	subordinate
+subordinate
+440504	subordinate
+440515	subordinate
+440522	coordinate
+440525	coordinate
+440529	coordinate
+440531	coordinate
+440534	coordinate
+440536	coordinate
+440539	coordinate
+440550	coordinate
+subordinate
+440556	coordinate
+subordinate
+coordinate
+subordinate
+coordinate
+subordinate
+440573	coordinate
+subordinate
+440576	coordinate
+440581	subordinate
+440584	subordinate
+440591	subordinate
+440622	subordinate
+440629	subordinate
+440634	coordinate
+440638	subordinate
+440649	subordinate
+coordinate
+440655	coordinate
+440661	coordinate
+440665	coordinate
+440682	subordinate
+440688	coordinate
+440693	subordinate
+440703	subordinate
+440705	coordinate
+440708	coordinate
+440710	subordinate
+subordinate
+440737	subordinate
+440762	subordinate
+440790	subordinate
+440804	subordinate
+subordinate
+subordinate
+440812	subordinate
+440816	subordinate
+440818	subordinate
+440830	subordinate
+440849	subordinate
+440852	subordinate
+coordinate
+440857	coordinate
+440871	subordinate
+440886	subordinate
+440903	subordinate
+440911	coordinate
+440914	coordinate
+440920	subordinate
+440932	coordinate
+440936	coordinate
+440965	coordinate
+440967	coordinate
+440969	coordinate
+440985	coordinate
+440987	coordinate
+440990	coordinate
+440992	coordinate
+440996	coordinate
+441000	coordinate
+441013	coordinate
+441019	coordinate
+441026	subordinate
+441028	coordinate
+441031	coordinate
+441045	subordinate
+441080	coordinate
+441088	coordinate
+441110	coordinate
+441126	subordinate
+subordinate
+441131	coordinate
+441137	coordinate
+441142	coordinate
+441147	coordinate
+441153	coordinate
+441158	coordinate
+441164	coordinate
+441170	coordinate
+441177	subordinate
+441183	subordinate
+coordinate
+441187	coordinate
+441191	subordinate
+441205	subordinate
+441217	coordinate
+441219	coordinate
+441230	subordinate
+441237	subordinate
+441239	subordinate
+coordinate
+subordinate
+441243	coordinate
+441251	subordinate
+coordinate
+coordinate
+441258	subordinate
+coordinate
+441261	coordinate
+441264	coordinate
+441275	subordinate
+coordinate
+441280	coordinate
+subordinate
+441290	coordinate
+441293	coordinate
+subordinate
+441300	coordinate
+441307	coordinate
+441315	subordinate
+coordinate
+subordinate
+441321	coordinate
+441326	subordinate
+441358	subordinate
+441361	subordinate
+441364	subordinate
+441375	subordinate
+441385	coordinate
+coordinate
+441389	coordinate
+441392	coordinate
+441404	subordinate
+441411	subordinate
+subordinate
+441419	subordinate
+441426	subordinate
+441443	coordinate
+441448	coordinate
+441450	subordinate
+441452	subordinate
+441456	subordinate
+441460	subordinate
+441478	subordinate
+441483	subordinate
+441488	coordinate
+441492	coordinate
+441505	coordinate
+441509	subordinate
+subordinate
+441512	coordinate
+441515	subordinate
+subordinate
+441518	coordinate
+441521	subordinate
+subordinate
+441524	coordinate
+441527	subordinate
+subordinate
+441530	coordinate
+441534	subordinate
+subordinate
+441546	subordinate
+441558	coordinate
+441567	coordinate
+441580	subordinate
+441604	coordinate
+subordinate
+coordinate
+441616	coordinate
+441618	subordinate
+subordinate
+441624	subordinate
+441626	coordinate
+subordinate
+subordinate
+441636	subordinate
+coordinate
+441641	subordinate
+441643	coordinate
+coordinate
+441660	coordinate
+441666	coordinate
+441672	subordinate
+441680	subordinate
+441682	subordinate
+subordinate
+441689	coordinate
+441692	subordinate
+441697	coordinate
+subordinate
+441709	coordinate
+441712	coordinate
+441717	subordinate
+subordinate
+441721	subordinate
+subordinate
+441727	subordinate
+441739	coordinate
+441743	coordinate
+441746	subordinate
+441750	coordinate
+441753	subordinate
+441760	subordinate
+coordinate
+441763	coordinate
+441765	coordinate
+coordinate
+441771	coordinate
+441775	coordinate
+441778	coordinate
+441783	coordinate
+441787	coordinate
+441802	subordinate
+441804	coordinate
+441807	subordinate
+441817	subordinate
+441821	subordinate
+441837	subordinate
+subordinate
+441847	subordinate
+441868	subordinate
+coordinate
+441873	coordinate
+441877	subordinate
+441883	subordinate
+441890	subordinate
+441914	subordinate
+441934	subordinate
+441940	subordinate
+441943	subordinate
+441958	subordinate
+441964	coordinate
+441966	coordinate
+441972	coordinate
+441974	coordinate
+441982	coordinate
+441985	coordinate
+441996	subordinate
+442011	subordinate
+coordinate
+subordinate
+442018	coordinate
+442027	subordinate
+442030	subordinate
+442036	subordinate
+442045	coordinate
+442049	coordinate
+442051	subordinate
+442079	subordinate
+442091	subordinate
+442094	subordinate
+coordinate
+subordinate
+442098	coordinate
+442105	subordinate
+442115	subordinate
+442120	subordinate
+442125	subordinate
+442134	subordinate
+442146	subordinate
+442149	subordinate
+442159	subordinate
+442165	subordinate
+442168	subordinate
+442175	subordinate
+coordinate
+442178	coordinate
+442181	subordinate
+442187	subordinate
+442193	subordinate
+442200	subordinate
+442211	coordinate
+442213	coordinate
+442218	subordinate
+442231	subordinate
+442234	coordinate
+442240	subordinate
+subordinate
+442243	subordinate
+subordinate
+442249	coordinate
+442253	coordinate
+442257	subordinate
+442265	coordinate
+442272	coordinate
+442276	coordinate
+442286	coordinate
+coordinate
+442292	coordinate
+442302	subordinate
+442317	subordinate
+442329	subordinate
+442336	subordinate
+442341	coordinate
+442343	subordinate
+442347	coordinate
+subordinate
+442353	subordinate
+coordinate
+442357	coordinate
+442365	subordinate
+coordinate
+442369	coordinate
+442376	subordinate
+coordinate
+442380	coordinate
+442386	coordinate
+442388	coordinate
+442402	subordinate
+442408	subordinate
+442416	coordinate
+subordinate
+442419	subordinate
+coordinate
+442427	subordinate
+442437	subordinate
+442440	subordinate
+442465	subordinate
+442469	subordinate
+442492	coordinate
+442495	coordinate
+442501	coordinate
+subordinate
+442507	coordinate
+subordinate
+442513	subordinate
+coordinate
+442517	coordinate
+442521	subordinate
+coordinate
+442525	coordinate
+442536	coordinate
+442538	coordinate
+442541	coordinate
+442543	coordinate
+442546	coordinate
+442549	coordinate
+442559	subordinate
+442573	subordinate
+coordinate
+442578	coordinate
+subordinate
+442584	subordinate
+442594	coordinate
+442610	subordinate
+442619	subordinate
+442622	subordinate
+442628	coordinate
+442630	coordinate
+442632	coordinate
+442646	subordinate
+442648	subordinate
+442655	subordinate
+442660	subordinate
+442665	subordinate
+coordinate
+442668	coordinate
+442670	subordinate
+442679	coordinate
+442685	coordinate
+442689	coordinate
+442696	subordinate
+442699	subordinate
+442707	subordinate
+442726	subordinate
+442731	subordinate
+442740	coordinate
+subordinate
+442743	subordinate
+442748	coordinate
+442754	coordinate
+442756	coordinate
+442762	coordinate
+442765	coordinate
+442772	subordinate
+442781	coordinate
+442784	coordinate
+442792	subordinate
+442801	coordinate
+442811	subordinate
+subordinate
+442825	subordinate
+442829	subordinate
+442831	subordinate
+442838	subordinate
+subordinate
+442841	coordinate
+442844	coordinate
+442851	subordinate
+442853	subordinate
+442867	coordinate
+subordinate
+442871	coordinate
+442877	subordinate
+442881	subordinate
+442893	subordinate
+442896	subordinate
+coordinate
+442904	coordinate
+442906	coordinate
+442908	coordinate
+442921	coordinate
+442926	coordinate
+442941	subordinate
+442944	coordinate
+442952	coordinate
+subordinate
+442986	subordinate
+442998	coordinate
+443002	coordinate
+443009	subordinate
+443013	subordinate
+443015	subordinate
+coordinate
+443019	coordinate
+443032	coordinate
+443034	coordinate
+coordinate
+443039	coordinate
+443051	subordinate
+443055	coordinate
+443061	coordinate
+443066	subordinate
+443072	subordinate
+443076	subordinate
+443084	subordinate
+443091	subordinate
+443094	subordinate
+443100	subordinate
+subordinate
+443109	subordinate
+443115	subordinate
+443121	subordinate
+subordinate
+443131	subordinate
+443140	subordinate
+443146	coordinate
+443149	coordinate
+443155	coordinate
+443158	coordinate
+443164	coordinate
+443167	coordinate
+443188	coordinate
+443203	coordinate
+443209	coordinate
+443212	coordinate
+443219	coordinate
+443231	subordinate
+443234	subordinate
+443239	subordinate
+coordinate
+coordinate
+443244	coordinate
+443247	coordinate
+443252	subordinate
+443273	coordinate
+443289	subordinate
+443306	subordinate
+443318	subordinate
+443325	subordinate
+443338	subordinate
+443343	subordinate
+443351	coordinate
+443353	coordinate
+443357	coordinate
+443364	coordinate
+443373	coordinate
+coordinate
+443378	subordinate
+443381	subordinate
+443385	subordinate
+443390	coordinate
+443395	coordinate
+443403	subordinate
+443408	subordinate
+coordinate
+443413	coordinate
+443422	subordinate
+443429	subordinate
+443445	subordinate
+443449	subordinate
+coordinate
+coordinate
+coordinate
+coordinate
+coordinate
+443494	subordinate
+coordinate
+443503	coordinate
+443507	subordinate
+443510	subordinate
+443515	coordinate
+coordinate
+subordinate
+coordinate
+443520	coordinate
+443528	coordinate
+subordinate
+443532	subordinate
+subordinate
+443535	coordinate
+443541	coordinate
+coordinate
+subordinate
+443549	coordinate
+443554	subordinate
+443556	coordinate
+443559	coordinate
+443561	coordinate
+443563	coordinate
+coordinate
+443566	coordinate
+coordinate
+coordinate
+443570	coordinate
+coordinate
+443573	coordinate
+coordinate
+443577	coordinate
+443581	coordinate
+coordinate
+coordinate
+coordinate
+443591	coordinate
+443593	subordinate
+443595	coordinate
+443597	subordinate
+443599	coordinate
+443601	subordinate
+443606	coordinate
+443609	coordinate
+443615	subordinate
+443622	subordinate
+443624	coordinate
+443626	coordinate
+443628	coordinate
+443633	subordinate
+443639	coordinate
+443643	coordinate
+443647	coordinate
+443652	subordinate
+443656	coordinate
+443662	coordinate
+443666	coordinate
+coordinate
+443670	coordinate
+443673	coordinate
+443679	coordinate
+443683	coordinate
+443685	subordinate
+coordinate
+443688	coordinate
+443709	coordinate
+subordinate
+443713	coordinate
+443719	coordinate
+443723	coordinate
+443729	subordinate
+443736	subordinate
+443739	subordinate
+443742	subordinate
+443758	subordinate
+443765	subordinate
+443778	subordinate
+443786	subordinate
+443801	coordinate
+443805	subordinate
+443809	coordinate
+443814	subordinate
+443819	coordinate
+443823	coordinate
+443833	subordinate
+443848	subordinate
+443852	coordinate
+443854	subordinate
+443859	coordinate
+443869	coordinate
+443872	coordinate
+443876	coordinate
+443879	coordinate
+443883	subordinate
+443886	subordinate
+443904	coordinate
+443906	coordinate
+443918	subordinate
+443923	subordinate
+443926	coordinate
+443932	coordinate
+coordinate
+443935	coordinate
+443938	coordinate
+443947	coordinate
+443956	coordinate
+443961	coordinate
+443969	coordinate
+443979	subordinate
+coordinate
+coordinate
+443987	coordinate
+443989	coordinate
+444000	subordinate
+coordinate
+444003	coordinate
+444008	coordinate
+coordinate
+444011	coordinate
+444013	coordinate
+444019	coordinate
+subordinate
+444035	subordinate
+444037	coordinate
+coordinate
+coordinate
+coordinate
+coordinate
+444048	subordinate
+444050	coordinate
+444060	coordinate
+444064	coordinate
+444066	subordinate
+444070	coordinate
+444077	coordinate
+444081	coordinate
+444087	subordinate
+444089	subordinate
+444097	subordinate
+444099	subordinate
+coordinate
+444102	coordinate
+444104	coordinate
+444109	coordinate
+444111	coordinate
+444116	subordinate
+444127	subordinate
+subordinate
+444134	subordinate
+444142	subordinate
+subordinate
+444149	subordinate
+subordinate
+444155	coordinate
+444161	coordinate
+444166	subordinate
+subordinate
+444171	subordinate
+444179	subordinate
+444186	coordinate
+444190	coordinate
+444206	coordinate
+coordinate
+coordinate
+444210	coordinate
+444216	subordinate
+444219	subordinate
+444224	subordinate
+444226	coordinate
+444234	coordinate
+444237	coordinate
+444245	coordinate
+444255	coordinate
+444260	coordinate
+444272	subordinate
+444283	subordinate
+subordinate
+444291	coordinate
+coordinate
+444294	subordinate
+444296	coordinate
+444303	coordinate
+coordinate
+444307	coordinate
+444317	coordinate
+444322	coordinate
+444341	subordinate
+444347	subordinate
+444349	subordinate
+444372	subordinate
+subordinate
+444378	subordinate
+444383	subordinate
+444401	subordinate
+444420	subordinate
+444429	subordinate
+444454	subordinate
+444460	subordinate
+444470	subordinate
+444472	subordinate
+444497	subordinate
+444507	subordinate
+444516	subordinate
+444521	subordinate
+444529	subordinate
+444552	subordinate
+444560	subordinate
+coordinate
+444563	coordinate
+444565	subordinate
+444575	coordinate
+444577	coordinate
+444579	subordinate
+444588	coordinate
+444591	coordinate
+444597	subordinate
+subordinate
+444604	coordinate
+444609	coordinate
+444613	subordinate
+444624	subordinate
+444626	coordinate
+444632	coordinate
+444636	coordinate
+444638	coordinate
+444640	coordinate
+444643	coordinate
+444646	coordinate
+444658	coordinate
+444663	coordinate
+444668	coordinate
+444671	coordinate
+444674	coordinate
+444713	subordinate
+444725	subordinate
+444731	subordinate
+444735	coordinate
+444737	coordinate
+444769	subordinate
+444783	coordinate
+444786	subordinate
+444789	coordinate
+444798	coordinate
+444800	coordinate
+444811	coordinate
+444813	coordinate
+444816	coordinate
+444820	subordinate
+coordinate
+444825	coordinate
+444832	subordinate
+coordinate
+444837	coordinate
+444861	coordinate
+444867	coordinate
+444892	subordinate
+444899	subordinate
+444915	subordinate
+444927	subordinate
+444932	subordinate
+subordinate
+subordinate
+444939	subordinate
+444945	subordinate
+444953	subordinate
+444963	subordinate
+444965	subordinate
+444969	coordinate
+444971	subordinate
+444973	coordinate
+444975	subordinate
+subordinate
+444982	subordinate
+444985	subordinate
+444990	subordinate
+445001	coordinate
+445006	coordinate
+subordinate
+445013	subordinate
+445018	subordinate
+445032	subordinate
+445035	subordinate
+445041	coordinate
+445056	coordinate
+445059	subordinate
+445062	coordinate
+coordinate
+445066	coordinate
+coordinate
+445083	coordinate
+445087	coordinate
+445099	coordinate
+445101	coordinate
+445113	subordinate
+445117	subordinate
+445159	subordinate
+445247	subordinate
+445260	subordinate
+445274	subordinate
+445307	subordinate
+445315	subordinate
+445329	subordinate
+subordinate
+445343	subordinate
+coordinate
+445347	coordinate
+445357	coordinate
+445361	coordinate
+445374	subordinate
+445394	coordinate
+445408	coordinate
+445413	coordinate
+445415	subordinate
+445417	coordinate
+445419	coordinate
+445426	subordinate
+445432	subordinate
+445445	subordinate
+445449	subordinate
+445453	coordinate
+445457	coordinate
+445461	coordinate
+445469	subordinate
+445476	subordinate
+445478	subordinate
+445502	coordinate
+445520	coordinate
+445543	coordinate
+445547	coordinate
+445552	coordinate
+445554	coordinate
+445570	subordinate
+445576	coordinate
+445579	coordinate
+445583	subordinate
+445598	subordinate
+445603	subordinate
+445611	subordinate
+subordinate
+subordinate
+445615	subordinate
+subordinate
+445636	coordinate
+subordinate
+coordinate
+subordinate
+445648	subordinate
+coordinate
+445653	subordinate
+445665	subordinate
+445678	subordinate
+445689	subordinate
+445702	subordinate
+445707	subordinate
+445711	subordinate
+445718	coordinate
+445726	coordinate
+445729	coordinate
+445738	coordinate
+subordinate
+445748	coordinate
+445752	coordinate
+445761	subordinate
+445775	coordinate
+445781	coordinate
+445796	subordinate
+445801	coordinate
+445803	coordinate
+subordinate
+445807	coordinate
+subordinate
+445815	subordinate
+445844	subordinate
+445851	subordinate
+445868	coordinate
+445871	subordinate
+445874	coordinate
+445888	coordinate
+445891	coordinate
+445897	subordinate
+445901	subordinate
+445904	subordinate
+subordinate
+subordinate
+445930	subordinate
+445949	subordinate
+445954	subordinate
+445965	coordinate
+subordinate
+445970	coordinate
+445972	subordinate
+446004	subordinate
+446006	subordinate
+446016	subordinate
+446025	subordinate
+446038	subordinate
+446046	subordinate
+subordinate
+446055	subordinate
+446068	subordinate
+446070	coordinate
+coordinate
+446075	subordinate
+coordinate
+coordinate
+446080	coordinate
+446084	coordinate
+446097	subordinate
+446133	coordinate
+coordinate
+coordinate
+446138	coordinate
+446142	subordinate
+446170	subordinate
+coordinate
+446177	coordinate
+446182	coordinate
+coordinate
+446186	coordinate
+coordinate
+coordinate
+446190	coordinate
+coordinate
+coordinate
+446194	coordinate
+coordinate
+coordinate
+446198	coordinate
+446207	subordinate
+446225	subordinate
+446237	coordinate
+446241	coordinate
+446247	subordinate
+446264	coordinate
+446272	coordinate
+446281	subordinate
+446283	subordinate
+446294	coordinate
+446296	coordinate
+coordinate
+subordinate
+446304	coordinate
+446323	coordinate
+446326	coordinate
+446332	coordinate
+446336	coordinate
+446345	subordinate
+446362	subordinate
+subordinate
+446370	subordinate
+446372	subordinate
+446381	subordinate
+446383	subordinate
+subordinate
+446387	subordinate
+446407	coordinate
+coordinate
+446410	coordinate
+446414	subordinate
+446420	subordinate
+446425	coordinate
+coordinate
+446428	coordinate
+subordinate
+coordinate
+446434	coordinate
+446440	subordinate
+446444	subordinate
+446448	subordinate
+446461	subordinate
+446464	coordinate
+446466	coordinate
+446470	subordinate
+446477	coordinate
+446479	coordinate
+subordinate
+446488	coordinate
+coordinate
+446493	subordinate
+446497	coordinate
+446500	coordinate
+446523	subordinate
+446529	subordinate
+446547	subordinate
+446555	subordinate
+446573	coordinate
+446576	coordinate
+446581	subordinate
+446585	subordinate
+coordinate
+446590	coordinate
+446601	subordinate
+446615	subordinate
+446621	subordinate
+subordinate
+446630	coordinate
+446633	coordinate
+446644	coordinate
+446649	subordinate
+446652	coordinate
+446696	coordinate
+446698	subordinate
+446701	coordinate
+446703	subordinate
+446706	coordinate
+446708	subordinate
+446712	coordinate
+446714	subordinate
+446717	coordinate
+446719	subordinate
+446722	coordinate
+446724	subordinate
+446727	coordinate
+446729	subordinate
+446743	coordinate
+446746	coordinate
+446758	subordinate
+446767	coordinate
+446771	coordinate
+446776	coordinate
+446780	coordinate
+446793	subordinate
+446799	coordinate
+coordinate
+446803	coordinate
+446805	coordinate
+coordinate
+446809	coordinate
+446816	coordinate
+coordinate
+446821	coordinate
+446824	coordinate
+446827	coordinate
+446829	coordinate
+446832	coordinate
+446841	subordinate
+446850	subordinate
+446857	coordinate
+coordinate
+coordinate
+446897	coordinate
+446900	coordinate
+coordinate
+446903	coordinate
+coordinate
+446931	subordinate
+446941	subordinate
+subordinate
+subordinate
+446946	subordinate
+446952	subordinate
+446959	subordinate
+subordinate
+446965	coordinate
+subordinate
+coordinate
+subordinate
+446975	subordinate
+447012	subordinate
+447018	subordinate
+447056	subordinate
+447063	subordinate
+447066	coordinate
+coordinate
+447069	subordinate
+447096	subordinate
+447142	subordinate
+447156	coordinate
+coordinate
+447160	subordinate
+447162	coordinate
+447175	subordinate
+447184	subordinate
+447204	coordinate
+447206	coordinate
+447227	subordinate
+447229	subordinate
+447257	subordinate
+447272	subordinate
+447276	subordinate
+447280	subordinate
+447285	coordinate
+447289	coordinate
+447301	subordinate
+447309	subordinate
+447314	coordinate
+447319	coordinate
+447337	subordinate
+447339	coordinate
+447342	coordinate
+subordinate
+447352	coordinate
+447362	coordinate
+subordinate
+coordinate
+coordinate
+447384	subordinate
+447411	subordinate
+coordinate
+447414	coordinate
+447422	coordinate
+447432	coordinate
+447468	subordinate
+coordinate
+447479	coordinate
+447491	subordinate
+447501	subordinate
+447503	subordinate
+447510	subordinate
+coordinate
+447514	coordinate
+subordinate
+447517	subordinate
+447530	coordinate
+447533	coordinate
+447536	subordinate
+447538	subordinate
+447548	coordinate
+447552	coordinate
+447563	subordinate
+447571	subordinate
+447580	subordinate
+447584	subordinate
+447586	subordinate
+447594	coordinate
+coordinate
+447597	coordinate
+447605	coordinate
+447608	coordinate
+447612	coordinate
+447619	coordinate
+447634	subordinate
+coordinate
+447645	coordinate
+447651	coordinate
+447678	coordinate
+447684	subordinate
+447708	subordinate
+447710	coordinate
+447714	coordinate
+subordinate
+447722	subordinate
+447726	subordinate
+447731	subordinate
+subordinate
+447739	subordinate
+447743	subordinate
+coordinate
+447750	coordinate
+447755	coordinate
+447760	subordinate
+447766	coordinate
+447773	coordinate
+447776	subordinate
+447779	subordinate
+447789	subordinate
+subordinate
+447796	subordinate
+447803	subordinate
+447820	subordinate
+subordinate
+subordinate
+447831	coordinate
+447836	coordinate
+coordinate
+447842	coordinate
+447844	subordinate
+447854	subordinate
+subordinate
+447860	subordinate
+447869	subordinate
+coordinate
+447873	coordinate
+447877	coordinate
+447881	coordinate
+447889	subordinate
+447896	subordinate
+subordinate
+447900	subordinate
+447909	coordinate
+447915	coordinate
+subordinate
+447919	subordinate
+coordinate
+447926	coordinate
+447930	coordinate
+447948	coordinate
+447965	subordinate
+447967	subordinate
+447978	subordinate
+447999	subordinate
+coordinate
+448007	coordinate
+448020	subordinate
+448026	coordinate
+448028	subordinate
+448035	coordinate
+448045	subordinate
+448047	subordinate
+448053	coordinate
+448055	subordinate
+448060	coordinate
+subordinate
+coordinate
+448065	coordinate
+448072	subordinate
+448086	subordinate
+448098	subordinate
+448107	subordinate
+subordinate
+448116	subordinate
+subordinate
+448125	subordinate
+448133	subordinate
+448142	subordinate
+448157	subordinate
+448163	subordinate
+448166	subordinate
+subordinate
+448170	subordinate
+448174	coordinate
+subordinate
+448178	coordinate
+subordinate
+448189	subordinate
+448197	subordinate
+448203	coordinate
+subordinate
+coordinate
+subordinate
+coordinate
+subordinate
+coordinate
+subordinate
+coordinate
+subordinate
+448218	subordinate
+448247	subordinate
+448251	coordinate
+448253	coordinate
+448255	coordinate
+448257	coordinate
+448261	coordinate
+448265	coordinate
+coordinate
+coordinate
+coordinate
+448275	coordinate
+448277	coordinate
+448279	coordinate
+448281	coordinate
+448283	coordinate
+448285	coordinate
+448287	coordinate
+448289	coordinate
+448292	coordinate
+448295	coordinate
+448297	coordinate
+448301	coordinate
+448303	coordinate
+448321	coordinate
+448323	coordinate
+448326	coordinate
+448328	coordinate
+448332	subordinate
+subordinate
+448355	coordinate
+448363	subordinate
+448365	coordinate
+coordinate
+448372	coordinate
+448377	subordinate
+448381	coordinate
+448383	coordinate
+448401	subordinate
+448406	subordinate
+448426	coordinate
+448429	coordinate
+448436	coordinate
+448440	coordinate
+448444	subordinate
+448447	coordinate
+448454	subordinate
+448462	subordinate
+subordinate
+448466	subordinate
+448475	subordinate
+coordinate
+448478	coordinate
+448488	subordinate
+448493	subordinate
+448495	subordinate
+448511	subordinate
+448520	subordinate
+448540	subordinate
+448548	subordinate
+448556	subordinate
+448574	subordinate
+448579	subordinate
+448589	coordinate
+448591	subordinate
+448594	coordinate
+448599	coordinate
+448601	coordinate
+448603	subordinate
+coordinate
+448606	subordinate
+448608	coordinate
+448622	subordinate
+448631	subordinate
+448642	coordinate
+448644	coordinate
+448684	subordinate
+subordinate
+448687	subordinate
+448697	coordinate
+448702	coordinate
+448706	coordinate
+448708	coordinate
+448732	subordinate
+coordinate
+subordinate
+448737	coordinate
+448748	subordinate
+448753	subordinate
+448758	subordinate
+448761	coordinate
+448764	coordinate
+448769	coordinate
+448772	coordinate
+448778	coordinate
+448782	coordinate
+448805	subordinate
+448820	subordinate
+448823	coordinate
+subordinate
+coordinate
+subordinate
+448829	coordinate
+448834	coordinate
+448837	coordinate
+448845	subordinate
+coordinate
+448848	coordinate
+448857	subordinate
+448859	subordinate
+subordinate
+448876	coordinate
+coordinate
+coordinate
+coordinate
+coordinate
+448882	coordinate
+448884	coordinate
+448964	subordinate
+448990	subordinate
+449001	subordinate
+449004	coordinate
+449006	coordinate
+subordinate
+449017	subordinate
+449023	subordinate
+449026	subordinate
+449028	coordinate
+449030	coordinate
+449033	subordinate
+449035	subordinate
+449040	coordinate
+449045	coordinate
+subordinate
+449050	subordinate
+449068	coordinate
+coordinate
+449072	coordinate
+coordinate
+449088	coordinate
+449094	coordinate
+449096	coordinate
+449105	subordinate
+449117	coordinate
+449122	coordinate
+449126	subordinate
+449131	subordinate
+449145	coordinate
+coordinate
+449149	coordinate
+449153	coordinate
+449157	subordinate
+449159	coordinate
+449168	subordinate
+449217	coordinate
+449226	subordinate
+449235	coordinate
+449258	subordinate
+subordinate
+449269	subordinate
+449277	subordinate
+449282	subordinate
+449294	subordinate
+449298	subordinate
+449303	subordinate
+449309	subordinate
+coordinate
+449318	subordinate
+449321	subordinate
+449331	coordinate
+449342	subordinate
+449347	subordinate
+coordinate
+449352	coordinate
+449362	subordinate
+449369	subordinate
+449374	subordinate
+449379	coordinate
+449389	subordinate
+449392	subordinate
+subordinate
+449404	subordinate
+449424	subordinate
+subordinate
+449430	subordinate
+449434	coordinate
+coordinate
+449437	coordinate
+449440	coordinate
+449448	subordinate
+449456	subordinate
+coordinate
+449461	coordinate
+449465	subordinate
+449473	subordinate
+subordinate
+subordinate
+449494	subordinate
+449500	coordinate
+449502	coordinate
+449507	subordinate
+449518	coordinate
+449520	coordinate
+449531	subordinate
+449542	subordinate
+449546	subordinate
+449561	subordinate
+449565	subordinate
+449571	coordinate
+449574	coordinate
+449583	subordinate
+coordinate
+449587	coordinate
+449625	subordinate
+449635	subordinate
+449648	subordinate
+449654	subordinate
+449660	coordinate
+449664	coordinate
+449676	subordinate
+449686	subordinate
+449695	subordinate
+449709	subordinate
+449723	coordinate
+449730	subordinate
+449734	subordinate
+449747	subordinate
+449752	subordinate
+449764	subordinate
+449784	subordinate
+449789	subordinate
+449796	coordinate
+449799	coordinate
+449815	subordinate
+449819	subordinate
+449831	subordinate
+449846	subordinate
+449850	subordinate
+subordinate
+449859	subordinate
+449879	subordinate
+449883	coordinate
+449886	coordinate
+449889	coordinate
+449902	subordinate
+449914	coordinate
+subordinate
+449919	subordinate
+449922	coordinate
+449933	subordinate
+subordinate
+449944	subordinate
+449953	subordinate
+449955	subordinate
+449958	subordinate
+449962	subordinate
+449968	subordinate
+449990	subordinate
+449997	coordinate
+subordinate
+450002	coordinate
+subordinate
+coordinate
+450006	coordinate
+450015	subordinate
+450035	subordinate
+450037	subordinate
+450040	subordinate
+450050	coordinate
+450056	coordinate
+coordinate
+450068	subordinate
+450071	subordinate
+450084	subordinate
+subordinate
+450092	subordinate
+450095	coordinate
+450098	subordinate
+450100	subordinate
+450104	subordinate
+450108	subordinate
+450118	subordinate
+450124	subordinate
+coordinate
+450128	coordinate
+450132	subordinate
+450140	subordinate
+450163	coordinate
+450169	coordinate
+450176	subordinate
+450184	coordinate
+450188	subordinate
+450192	coordinate
+450194	coordinate
+450200	coordinate
+450204	subordinate
+450225	coordinate
+450227	coordinate
+450232	subordinate
+coordinate
+450238	coordinate
+450252	subordinate
+450270	subordinate
+450292	coordinate
+450294	coordinate
+450302	subordinate
+450308	subordinate
+450311	subordinate
+450317	subordinate
+450332	coordinate
+450335	coordinate
+450337	subordinate
+450343	subordinate
+450374	subordinate
+450397	coordinate
+450402	coordinate
+450419	subordinate
+450424	subordinate
+450435	coordinate
+450437	coordinate
+450443	coordinate
+450448	coordinate
+450456	subordinate
+450464	subordinate
+450515	subordinate
+450518	subordinate
+subordinate
+450524	subordinate
+450539	coordinate
+450543	coordinate
+450551	subordinate
+subordinate
+subordinate
+450558	coordinate
+450562	coordinate
+coordinate
+450567	coordinate
+450594	subordinate
+coordinate
+450604	coordinate
+450615	subordinate
+450621	subordinate
+450627	subordinate
+450629	coordinate
+450633	coordinate
+450649	subordinate
+450651	subordinate
+subordinate
+450659	coordinate
+450663	coordinate
+450665	subordinate
+450667	subordinate
+450674	subordinate
+450676	subordinate
+450714	subordinate
+450784	subordinate
+450788	subordinate
+450793	subordinate
+450837	subordinate
+450853	subordinate
+450871	subordinate
+450897	subordinate
+450906	subordinate
+450928	subordinate
+450944	subordinate
+450975	subordinate
+450996	subordinate
+451015	subordinate
+coordinate
+451019	coordinate
+451034	subordinate
+451047	coordinate
+451052	coordinate
+451099	coordinate
+451108	subordinate
+451119	subordinate
+451125	coordinate
+451128	subordinate
+451136	subordinate
+451142	coordinate
+451144	coordinate
+451146	coordinate
+451152	subordinate
+451161	subordinate
+451190	subordinate
+451195	subordinate
+451204	subordinate
+451232	subordinate
+451242	subordinate
+451267	coordinate
+451270	coordinate
+451286	subordinate
+coordinate
+451293	subordinate
+451295	coordinate
+451302	subordinate
+451309	coordinate
+subordinate
+451314	coordinate
+451317	subordinate
+451330	coordinate
+451333	coordinate
+451340	subordinate
+451347	subordinate
+451354	subordinate
+451381	subordinate
+451397	subordinate
+451401	subordinate
+subordinate
+451417	subordinate
+451424	subordinate
+451459	subordinate
+coordinate
+451467	coordinate
+subordinate
+451484	subordinate
+451522	subordinate
+451554	subordinate
+451561	subordinate
+451568	subordinate
+451574	subordinate
+coordinate
+451579	subordinate
+451586	coordinate
+451589	subordinate
+451594	subordinate
+451606	subordinate
+451609	subordinate
+451640	subordinate
+451644	subordinate
+451651	subordinate
+subordinate
+451668	subordinate
+451709	subordinate
+451719	subordinate
+451739	subordinate
+451792	subordinate
+coordinate
+451795	subordinate
+451813	coordinate
+subordinate
+451827	subordinate
+451850	coordinate
+451852	coordinate
+451854	subordinate
+451857	subordinate
+451883	subordinate
+451896	subordinate
+451898	coordinate
+451900	coordinate
+451902	subordinate
+subordinate
+451906	subordinate
+coordinate
+451921	coordinate
+451927	coordinate
+451942	subordinate
+451948	subordinate
+451952	coordinate
+451954	coordinate
+451965	coordinate
+451969	coordinate
+451971	subordinate
+451976	subordinate
+subordinate
+451982	coordinate
+451989	coordinate
+451991	subordinate
+451996	subordinate
+452030	subordinate
+452041	subordinate
+452047	subordinate
+coordinate
+452052	coordinate
+452064	coordinate
+452072	subordinate
+452074	coordinate
+452081	coordinate
+452104	subordinate
+452120	coordinate
+452122	coordinate
+452128	subordinate
+452131	subordinate
+452141	subordinate
+452147	coordinate
+452154	coordinate
+452156	subordinate
+452160	subordinate
+452165	subordinate
+452169	subordinate
+452182	coordinate
+452186	coordinate
+452191	subordinate
+452194	coordinate
+subordinate
+coordinate
+subordinate
+subordinate
+452201	subordinate
+452205	coordinate
+452208	coordinate
+subordinate
+452216	coordinate
+452220	coordinate
+452222	subordinate
+coordinate
+452228	coordinate
+452234	coordinate
+452245	coordinate
+452255	subordinate
+452262	subordinate
+452275	subordinate
+452289	subordinate
+coordinate
+452295	coordinate
+452300	subordinate
+452306	subordinate
+452309	subordinate
+452311	coordinate
+452317	coordinate
+452325	subordinate
+452329	subordinate
+452340	subordinate
+coordinate
+452354	subordinate
+452360	coordinate
+coordinate
+452368	coordinate
+452373	coordinate
+452379	coordinate
+452383	coordinate
+452400	subordinate
+452416	subordinate
+452430	subordinate
+coordinate
+452433	coordinate
+452442	coordinate
+452445	coordinate
+452467	subordinate
+452470	coordinate
+452474	subordinate
+coordinate
+452477	subordinate
+452480	subordinate
+452488	subordinate
+coordinate
+452492	coordinate
+452497	subordinate
+452503	coordinate
+452505	coordinate
+452513	subordinate
+452518	coordinate
+452526	coordinate
+452547	subordinate
+452553	subordinate
+452584	subordinate
+subordinate
+coordinate
+452592	coordinate
+subordinate
+452597	subordinate
+coordinate
+452603	coordinate
+452608	coordinate
+452615	subordinate
+452623	subordinate
+452645	subordinate
+coordinate
+452673	subordinate
+452686	subordinate
+subordinate
+452692	subordinate
+452713	subordinate
+coordinate
+452718	coordinate
+452783	subordinate
+452810	subordinate
+452817	subordinate
+subordinate
+452838	subordinate
+452873	subordinate
+452878	subordinate
+452900	subordinate
+subordinate
+coordinate
+452914	coordinate
+452918	subordinate
+452922	subordinate
+452929	coordinate
+452935	coordinate
+452942	coordinate
+452955	subordinate
+subordinate
+452966	coordinate
+452972	coordinate
+452998	subordinate
+subordinate
+coordinate
+453003	coordinate
+453018	coordinate
+453022	coordinate
+453029	subordinate
+453037	subordinate
+453044	subordinate
+453049	coordinate
+453051	coordinate
+453054	subordinate
+453065	subordinate
+453079	subordinate
+453099	subordinate
+453101	coordinate
+coordinate
+453104	coordinate
+453106	coordinate
+453114	subordinate
+453120	subordinate
+453126	coordinate
+coordinate
+453130	coordinate
+453133	coordinate
+453136	subordinate
+453149	subordinate
+453154	coordinate
+453157	coordinate
+453163	coordinate
+subordinate
+453167	coordinate
+subordinate
+453171	coordinate
+subordinate
+453175	coordinate
+subordinate
+453187	subordinate
+453190	subordinate
+453193	coordinate
+453201	subordinate
+453203	coordinate
+453205	coordinate
+453216	coordinate
+subordinate
+453223	coordinate
+subordinate
+453226	subordinate
+453234	subordinate
+subordinate
+453244	coordinate
+453248	coordinate
+453255	subordinate
+coordinate
+453266	coordinate
+453268	subordinate
+453280	subordinate
+subordinate
+subordinate
+coordinate
+453287	coordinate
+453318	subordinate
+453329	subordinate
+453333	subordinate
+subordinate
+453336	subordinate
+453342	subordinate
+coordinate
+453345	coordinate
+453351	subordinate
+453360	coordinate
+453362	coordinate
+453367	coordinate
+453371	coordinate
+453377	subordinate
+453379	subordinate
+subordinate
+453392	subordinate
+453405	subordinate
+453407	subordinate
+453416	coordinate
+subordinate
+subordinate
+subordinate
+453432	subordinate
+453448	subordinate
+coordinate
+453453	coordinate
+453473	subordinate
+453479	subordinate
+453481	subordinate
+453487	coordinate
+453492	coordinate
+453500	subordinate
+453503	subordinate
+453518	subordinate
+453520	subordinate
+453522	coordinate
+453524	coordinate
+453527	coordinate
+453529	coordinate
+453532	coordinate
+453541	coordinate
+453544	coordinate
+453548	coordinate
+453550	subordinate
+subordinate
+453557	subordinate
+453559	subordinate
+453564	coordinate
+coordinate
+453568	coordinate
+453570	coordinate
+453573	coordinate
+453575	coordinate
+453577	subordinate
+453579	coordinate
+453597	subordinate
+453610	coordinate
+453614	coordinate
+453616	subordinate
+coordinate
+453619	coordinate
+453621	subordinate
+453648	subordinate
+453661	coordinate
+453663	coordinate
+453665	coordinate
+453669	subordinate
+453676	subordinate
+453682	subordinate
+453684	coordinate
+453687	coordinate
+453708	subordinate
+453717	subordinate
+453721	coordinate
+453725	coordinate
+453730	subordinate
+453736	coordinate
+453738	coordinate
+subordinate
+subordinate
+453750	coordinate
+453755	coordinate
+453791	subordinate
+453810	coordinate
+453812	coordinate
+453857	coordinate
+453859	coordinate
+453895	subordinate
+subordinate
+subordinate
+subordinate
+subordinate
+subordinate
+453902	coordinate
+subordinate
+453905	coordinate
+subordinate
+453934	coordinate
+453937	coordinate
+453940	subordinate
+453944	subordinate
+subordinate
+subordinate
+453950	subordinate
+453952	subordinate
+453959	subordinate
+453962	coordinate
+453964	coordinate
+453967	coordinate
+453969	coordinate
+453978	subordinate
+453994	subordinate
+454002	subordinate
+454005	subordinate
+454016	coordinate
+454019	coordinate
+454029	coordinate
+454031	coordinate
+454034	subordinate
+454084	coordinate
+454088	coordinate
+454139	subordinate
+454141	subordinate
+454175	subordinate
+454194	subordinate
+454200	subordinate
+454225	subordinate
+454242	subordinate
+454246	subordinate
+coordinate
+coordinate
+454253	coordinate
+454257	coordinate
+454269	coordinate
+454285	coordinate
+454291	coordinate
+454317	subordinate
+454342	coordinate
+454349	coordinate
+454352	coordinate
+454370	subordinate
+subordinate
+454373	subordinate
+subordinate
+coordinate
+454380	coordinate
+454385	subordinate
+454405	coordinate
+subordinate
+subordinate
+454423	subordinate
+454429	subordinate
+454432	subordinate
+coordinate
+454435	coordinate
+454437	coordinate
+454459	coordinate
+454464	coordinate
+454490	subordinate
+454513	subordinate
+454524	subordinate
+454532	subordinate
+subordinate
+coordinate
+454537	coordinate
+454546	subordinate
+454558	subordinate
+subordinate
+454567	subordinate
+454572	subordinate
+454575	subordinate
+454603	subordinate
+454609	subordinate
+454616	subordinate
+coordinate
+454619	coordinate
+454634	subordinate
+454640	subordinate
+coordinate
+454649	subordinate
+subordinate
+454678	subordinate
+coordinate
+454686	coordinate
+454711	subordinate
+454730	coordinate
+subordinate
+454740	subordinate
+454743	subordinate
+454753	coordinate
+454756	subordinate
+454760	subordinate
+454766	subordinate
+454783	coordinate
+454788	coordinate
+454793	subordinate
+coordinate
+454800	coordinate
+subordinate
+coordinate
+coordinate
+454810	coordinate
+454817	subordinate
+454831	subordinate
+454838	subordinate
+subordinate
+454857	subordinate
+454874	subordinate
+454894	coordinate
+454896	coordinate
+454906	subordinate
+454939	subordinate
+454954	subordinate
+coordinate
+454962	coordinate
+454973	subordinate
+coordinate
+454983	coordinate
+coordinate
+454986	coordinate
+454997	subordinate
+455000	subordinate
+coordinate
+455003	coordinate
+455005	subordinate
+455010	subordinate
+455046	subordinate
+455053	subordinate
+455075	subordinate
+455085	subordinate
+455091	coordinate
+455094	coordinate
+455104	subordinate
+455113	subordinate
+455126	subordinate
+coordinate
+455130	subordinate
+455134	subordinate
+455156	coordinate
+455159	subordinate
+455161	coordinate
+455179	subordinate
+455182	subordinate
+455191	subordinate
+455201	subordinate
+subordinate
+455208	subordinate
+455215	subordinate
+subordinate
+subordinate
+subordinate
+455239	subordinate
+subordinate
+coordinate
+455245	coordinate
+455277	subordinate
+455308	subordinate
+coordinate
+455311	coordinate
+455354	subordinate
+455360	coordinate
+455367	coordinate
+455382	subordinate
+455421	subordinate
+455425	subordinate
+455449	subordinate
+455452	subordinate
+455475	subordinate
+subordinate
+455486	subordinate
+455493	subordinate
+subordinate
+455508	coordinate
+455518	coordinate
+455527	subordinate
+subordinate
+subordinate
+455534	subordinate
+coordinate
+455539	coordinate
+455544	subordinate
+coordinate
+455548	subordinate
+455551	coordinate
+455580	coordinate
+coordinate
+455586	subordinate
+455591	subordinate
+455601	coordinate
+455611	coordinate
+455613	subordinate
+455616	subordinate
+455619	subordinate
+subordinate
+455630	coordinate
+455635	subordinate
+455637	coordinate
+455643	coordinate
+455651	subordinate
+455654	subordinate
+455656	coordinate
+455663	subordinate
+subordinate
+455668	subordinate
+subordinate
+455679	subordinate
+455691	subordinate
+455719	subordinate
+455722	subordinate
+subordinate
+455725	subordinate
+455749	subordinate
+455760	subordinate
+455784	subordinate
+455792	subordinate
+455799	coordinate
+455807	coordinate
+455809	coordinate
+455811	coordinate
+455818	subordinate
+455834	subordinate
+455840	subordinate
+455848	subordinate
+455852	coordinate
+455858	coordinate
+455863	coordinate
+455870	coordinate
+455891	coordinate
+subordinate
+subordinate
+455896	coordinate
+455934	subordinate
+455940	subordinate
+455942	subordinate
+455944	coordinate
+455946	coordinate
+455950	subordinate
+455959	coordinate
+455963	coordinate
+455972	coordinate
+455976	coordinate
+455983	subordinate
+455988	subordinate
+455990	subordinate
+456008	subordinate
+456013	subordinate
+456026	subordinate
+456032	coordinate
+456036	coordinate
+456069	subordinate
+subordinate
+456110	subordinate
+coordinate
+456113	coordinate
+456115	subordinate
+456120	subordinate
+456142	subordinate
+456154	subordinate
+456170	subordinate
+456175	subordinate
+coordinate
+456178	coordinate
+456182	coordinate
+456185	coordinate
+456207	subordinate
+456209	subordinate
+456228	subordinate
+coordinate
+456232	coordinate
+subordinate
+456235	coordinate
+456238	coordinate
+456242	subordinate
+456244	subordinate
+coordinate
+456249	coordinate
+456254	subordinate
+456262	subordinate
+456306	subordinate
+coordinate
+456319	coordinate
+456357	subordinate
+456364	subordinate
+456369	subordinate
+456376	subordinate
+456382	coordinate
+456394	subordinate
+456396	subordinate
+456410	coordinate
+456413	subordinate
+456415	coordinate
+coordinate
+456418	coordinate
+456422	coordinate
+456426	coordinate
+456432	subordinate
+subordinate
+456443	coordinate
+456446	coordinate
+456459	subordinate
+456462	coordinate
+456464	coordinate
+456470	coordinate
+456472	coordinate
+456475	subordinate
+456479	subordinate
+coordinate
+456484	coordinate
+456487	coordinate
+456490	coordinate
+456492	coordinate
+456505	coordinate
+456507	coordinate
+456509	coordinate
+456511	coordinate
+456516	coordinate
+456518	coordinate
+456526	coordinate
+coordinate
+coordinate
+456539	coordinate
+456544	coordinate
+coordinate
+coordinate
+456548	coordinate
+456555	coordinate
+456561	coordinate
+456596	subordinate
+456637	subordinate
+456642	subordinate
+456644	subordinate
+456646	coordinate
+456650	coordinate
+456659	subordinate
+456698	subordinate
+456701	subordinate
+coordinate
+456706	coordinate
+456725	subordinate
+456752	subordinate
+subordinate
+coordinate
+456759	coordinate
+456765	subordinate
+456779	coordinate
+456784	coordinate
+456791	subordinate
+coordinate
+456800	coordinate
+456831	subordinate
+456846	subordinate
+456856	subordinate
+subordinate
+456859	coordinate
+456862	coordinate
+456877	subordinate
+456880	subordinate
+subordinate
+456893	subordinate
+456917	subordinate
+456926	coordinate
+456934	coordinate
+456959	subordinate
+456977	subordinate
+456981	coordinate
+456983	coordinate
+456989	subordinate
+456994	subordinate
+457023	coordinate
+457025	coordinate
+457038	coordinate
+457053	coordinate
+457055	coordinate
+457064	coordinate
+457076	coordinate
+457079	coordinate
+457084	coordinate
+457086	subordinate
+457090	coordinate
+457107	coordinate
+457109	coordinate
+457119	subordinate
+457148	subordinate
+457152	subordinate
+coordinate
+457155	coordinate
+457166	subordinate
+457168	subordinate
+coordinate
+coordinate
+457173	coordinate
+457175	coordinate
+457187	coordinate
+457189	coordinate
+457199	subordinate
+457205	subordinate
+subordinate
+457210	subordinate
+457212	subordinate
+coordinate
+coordinate
+457226	subordinate
+457234	subordinate
+457240	subordinate
+457247	subordinate
+457249	subordinate
+457253	coordinate
+457255	subordinate
+457259	subordinate
+457331	subordinate
+subordinate
+457334	subordinate
+457337	subordinate
+subordinate
+coordinate
+457341	coordinate
+457347	coordinate
+457349	coordinate
+457370	subordinate
+457373	subordinate
+457377	subordinate
+457379	subordinate
+457388	subordinate
+457392	coordinate
+coordinate
+coordinate
+457405	coordinate
+subordinate
+457410	subordinate
+457431	subordinate
+subordinate
+457434	subordinate
+457442	coordinate
+457445	subordinate
+subordinate
+457449	coordinate
+457473	subordinate
+457491	subordinate
+457520	subordinate
+457523	subordinate
+457527	subordinate
+457534	subordinate
+457543	subordinate
+subordinate
+457562	subordinate
+457580	subordinate
+457582	subordinate
+coordinate
+457585	coordinate
+457627	subordinate
+457650	subordinate
+457660	subordinate
+coordinate
+coordinate
+457664	coordinate
+coordinate
+457670	coordinate
+457674	coordinate
+coordinate
+457677	coordinate
+457679	subordinate
+457688	subordinate
+457700	subordinate
+457705	subordinate
+457714	subordinate
+457726	subordinate
+subordinate
+457735	subordinate
+subordinate
+457743	subordinate
+457748	subordinate
+457756	subordinate
+457759	subordinate
+457762	subordinate
+457774	subordinate
+457777	subordinate
+457786	subordinate
+457794	coordinate
+457799	coordinate
+457808	subordinate
+subordinate
+457815	subordinate
+457817	subordinate
+subordinate
+subordinate
+457827	subordinate
+457840	coordinate
+457842	coordinate
+457844	coordinate
+coordinate
+457847	coordinate
+457849	coordinate
+457860	subordinate
+457868	subordinate
+coordinate
+457872	coordinate
+subordinate
+coordinate
+457886	subordinate
+457888	subordinate
+457890	coordinate
+457894	coordinate
+subordinate
+457898	subordinate
+457905	subordinate
+457910	subordinate
+457934	coordinate
+457939	coordinate
+457942	subordinate
+457968	subordinate
+457980	coordinate
+457984	coordinate
+457996	subordinate
+458021	subordinate
+458032	subordinate
+subordinate
+458042	coordinate
+458044	coordinate
+458047	coordinate
+458049	coordinate
+458051	coordinate
+458064	subordinate
+458068	subordinate
+coordinate
+458073	coordinate
+458083	coordinate
+458088	subordinate
+458091	coordinate
+458103	subordinate
+458108	subordinate
+458113	subordinate
+458119	coordinate
+458122	coordinate
+458128	subordinate
+458131	subordinate
+458135	coordinate
+subordinate
+coordinate
+subordinate
+coordinate
+subordinate
+458142	coordinate
+subordinate
+subordinate
+coordinate
+subordinate
+458157	subordinate
+458160	subordinate
+subordinate
+458164	subordinate
+458170	coordinate
+458172	subordinate
+458175	coordinate
+coordinate
+coordinate
+458181	subordinate
+458187	subordinate
+subordinate
+coordinate
+coordinate
+coordinate
+coordinate
+458205	subordinate
+458207	coordinate
+458209	coordinate
+458212	subordinate
+458220	subordinate
+458233	coordinate
+458235	subordinate
+458237	coordinate
+458246	subordinate
+458256	subordinate
+458272	subordinate
+458276	coordinate
+458278	coordinate
+458284	coordinate
+coordinate
+458296	coordinate
+458300	subordinate
+458303	coordinate
+458307	coordinate
+458313	coordinate
+458316	subordinate
+458320	subordinate
+458326	subordinate
+458340	subordinate
+458346	subordinate
+458359	subordinate
+coordinate
+458362	coordinate
+458366	subordinate
+458377	subordinate
+coordinate
+458380	coordinate
+458391	subordinate
+458398	subordinate
+458413	subordinate
+subordinate
+458418	subordinate
+458426	subordinate
+458450	coordinate
+subordinate
+458455	coordinate
+458466	coordinate
+458468	coordinate
+458473	coordinate
+458479	subordinate
+coordinate
+458482	coordinate
+458505	subordinate
+458537	subordinate
+458542	coordinate
+458545	coordinate
+subordinate
+458559	subordinate
+coordinate
+coordinate
+coordinate
+458564	coordinate
+458567	coordinate
+458573	coordinate
+coordinate
+458577	coordinate
+coordinate
+coordinate
+458585	subordinate
+458593	subordinate
+458603	subordinate
+458647	subordinate
+458656	subordinate
+458658	subordinate
+subordinate
+458663	subordinate
+subordinate
+458672	coordinate
+458692	subordinate
+458707	coordinate
+458710	coordinate
+458717	coordinate
+458727	coordinate
+458734	coordinate
+458736	coordinate
+458749	coordinate
+458755	coordinate
+458764	subordinate
+458766	coordinate
+458769	coordinate
+458783	coordinate
+458788	coordinate
+subordinate
+coordinate
+subordinate
+458808	subordinate
+458847	subordinate
+coordinate
+458850	coordinate
+coordinate
+458854	coordinate
+coordinate
+subordinate
+458859	coordinate
+458863	subordinate
+458871	subordinate
+458876	coordinate
+458894	subordinate
+458904	subordinate
+458909	subordinate
+458916	subordinate
+458918	subordinate
+458921	subordinate
+458924	subordinate
+458928	subordinate
+458940	subordinate
+458953	subordinate
+458955	coordinate
+458980	subordinate
+458984	subordinate
+458988	subordinate
+458994	subordinate
+458997	subordinate
+subordinate
+459001	subordinate
+459004	subordinate
+459014	subordinate
+459020	subordinate
+459032	coordinate
+459036	coordinate
+459045	coordinate
+459048	subordinate
+subordinate
+459051	coordinate
+459065	coordinate
+459069	coordinate
+459079	coordinate
+459091	coordinate
+459093	coordinate
+459096	coordinate
+459102	subordinate
+459109	subordinate
+459112	subordinate
+459119	coordinate
+459123	coordinate
+459144	subordinate
+coordinate
+459148	coordinate
+459152	subordinate
+459157	coordinate
+459162	coordinate
+459167	subordinate
+459188	coordinate
+subordinate
+459191	coordinate
+459193	coordinate
+459196	coordinate
+459208	coordinate
+459212	coordinate
+459215	subordinate
+459219	subordinate
+coordinate
+459222	coordinate
+subordinate
+459237	subordinate
+459252	subordinate
+459258	coordinate
+459282	coordinate
+459292	subordinate
+459303	subordinate
+459310	subordinate
+459315	coordinate
+459318	coordinate
+459325	subordinate
+459347	subordinate
+459351	subordinate
+459366	subordinate
+459368	subordinate
+459379	coordinate
+459381	coordinate
+459383	coordinate
+subordinate
+coordinate
+coordinate
+coordinate
+459397	subordinate
+coordinate
+coordinate
+459402	subordinate
+coordinate
+459407	subordinate
+459410	coordinate
+459412	coordinate
+459417	coordinate
+459423	coordinate
+459425	coordinate
+coordinate
+459428	coordinate
+459434	coordinate
+459436	coordinate
+459443	coordinate
+459446	coordinate
+459448	coordinate
+459457	coordinate
+459466	coordinate
+459477	subordinate
+459483	coordinate
+coordinate
+subordinate
+459489	coordinate
+459491	coordinate
+459493	coordinate
+459500	subordinate
+459503	subordinate
+459511	coordinate
+459517	subordinate
+459519	coordinate
+459544	coordinate
+459550	coordinate
+459556	coordinate
+459558	coordinate
+459561	coordinate
+459563	subordinate
+coordinate
+459568	coordinate
+459572	coordinate
+459578	coordinate
+459584	coordinate
+459605	coordinate
+459608	coordinate
+459610	subordinate
+459613	subordinate
+459656	coordinate
+459662	coordinate
+459697	subordinate
+coordinate
+459702	coordinate
+459707	subordinate
+459709	subordinate
+459713	subordinate
+459716	subordinate
+459724	subordinate
+459734	subordinate
+459745	subordinate
+459749	coordinate
+459756	coordinate
+459773	subordinate
+459776	subordinate
+subordinate
+459800	subordinate
+459803	subordinate
+459809	subordinate
+459817	coordinate
+459820	subordinate
+459823	coordinate
+459832	coordinate
+subordinate
+459835	coordinate
+459837	subordinate
+459848	subordinate
+459851	subordinate
+459855	subordinate
+459866	subordinate
+459869	subordinate
+subordinate
+459873	subordinate
+459877	subordinate
+459884	subordinate
+459899	subordinate
+459902	subordinate
+subordinate
+459913	subordinate
+459917	coordinate
+459921	subordinate
+459940	subordinate
+459952	subordinate
+459971	subordinate
+coordinate
+459976	coordinate
+459983	coordinate
+459985	coordinate
+459994	subordinate
+coordinate
+459997	coordinate
+coordinate
+460002	coordinate
+coordinate
+coordinate
+subordinate
+460014	subordinate
+subordinate
+460019	subordinate
+460023	subordinate
+460028	subordinate
+460062	subordinate
+subordinate
+460079	subordinate
+460098	subordinate
+460114	subordinate
+460119	subordinate
+460124	subordinate
+460128	subordinate
+subordinate
+460137	subordinate
+460143	subordinate
+460149	subordinate
+460207	subordinate
+460212	subordinate
+460229	subordinate
+460252	subordinate
+460261	subordinate
+460265	subordinate
+460270	subordinate
+coordinate
+460275	coordinate
+460310	subordinate
+460313	subordinate
+460325	subordinate
+460327	subordinate
+coordinate
+460333	coordinate
+460347	coordinate
+460349	coordinate
+460360	subordinate
+460364	subordinate
+460369	subordinate
+coordinate
+460372	coordinate
+460397	subordinate
+460405	subordinate
+460443	subordinate
+460465	subordinate
+coordinate
+460475	coordinate
+460481	subordinate
+460488	subordinate
+460505	coordinate
+460508	coordinate
+460514	subordinate
+460533	coordinate
+460537	coordinate
+460542	coordinate
+460547	coordinate
+460557	coordinate
+460566	coordinate
+460568	coordinate
+460583	coordinate
+460588	coordinate
+460595	coordinate
+460597	coordinate
+460603	subordinate
+460605	coordinate
+460608	subordinate
+460611	subordinate
+460615	coordinate
+460618	coordinate
+460632	subordinate
+460644	subordinate
+460649	subordinate
+460653	subordinate
+460661	subordinate
+coordinate
+460665	subordinate
+460668	coordinate
+460674	subordinate
+460679	subordinate
+subordinate
+460716	subordinate
+460721	subordinate
+460724	coordinate
+460727	coordinate
+460730	coordinate
+460745	subordinate
+460763	subordinate
+460771	coordinate
+460775	coordinate
+460778	subordinate
+subordinate
+460803	subordinate
+460835	subordinate
+460842	subordinate
+coordinate
+460855	coordinate
+460867	coordinate
+460869	coordinate
+460875	subordinate
+460879	subordinate
+460896	subordinate
+subordinate
+subordinate
+460921	subordinate
+460941	coordinate
+460945	coordinate
+460952	coordinate
+460963	coordinate
+460972	subordinate
+460989	subordinate
+460997	subordinate
+461008	coordinate
+461013	coordinate
+461020	coordinate
+461024	coordinate
+461027	coordinate
+461030	coordinate
+461039	subordinate
+461045	coordinate
+461058	subordinate
+461064	subordinate
+461067	subordinate
+461079	subordinate
+461089	subordinate
+461097	subordinate
+461103	subordinate
+461131	subordinate
+461136	subordinate
+461144	subordinate
+461152	subordinate
+461158	subordinate
+461165	subordinate
+461167	coordinate
+461171	subordinate
+461191	subordinate
+461196	subordinate
+461221	subordinate
+461229	subordinate
+coordinate
+subordinate
+461234	coordinate
+461241	subordinate
+461249	subordinate
+461259	subordinate
+461285	subordinate
+461293	subordinate
+461298	subordinate
+461308	subordinate
+461319	subordinate
+461336	coordinate
+461339	coordinate
+461342	subordinate
+461352	subordinate
+461356	subordinate
+461367	subordinate
+coordinate
+subordinate
+461372	coordinate
+461384	subordinate
+coordinate
+461387	coordinate
+461395	subordinate
+461402	subordinate
+461408	subordinate
+461414	subordinate
+coordinate
+461418	coordinate
+461422	subordinate
+461431	coordinate
+461437	subordinate
+461441	coordinate
+461444	subordinate
+461446	coordinate
+461466	subordinate
+coordinate
+461479	subordinate
+461486	coordinate
+461491	subordinate
+subordinate
+461494	subordinate
+461499	subordinate
+461505	subordinate
+461514	coordinate
+461519	subordinate
+461521	subordinate
+461526	coordinate
+subordinate
+subordinate
+461542	coordinate
+subordinate
+461558	subordinate
+461560	coordinate
+461569	subordinate
+461578	subordinate
+461586	subordinate
+461609	subordinate
+461614	subordinate
+461617	coordinate
+461619	coordinate
+461624	coordinate
+461628	coordinate
+461635	subordinate
+461637	coordinate
+461639	subordinate
+coordinate
+461645	coordinate
+461649	coordinate
+461653	coordinate
+461656	subordinate
+461659	coordinate
+461668	coordinate
+subordinate
+461673	coordinate
+461687	subordinate
+461689	subordinate
+461694	subordinate
+461705	subordinate
+461712	subordinate
+461722	subordinate
+coordinate
+461725	coordinate
+461736	subordinate
+461739	subordinate
+subordinate
+subordinate
+461747	subordinate
+461749	coordinate
+subordinate
+461752	coordinate
+subordinate
+461757	subordinate
+461762	coordinate
+461766	coordinate
+461774	subordinate
+461777	subordinate
+461785	subordinate
+461792	subordinate
+461796	subordinate
+461800	subordinate
+461811	subordinate
+461820	subordinate
+461842	coordinate
+subordinate
+461849	coordinate
+461853	subordinate
+461855	coordinate
+461858	coordinate
+461866	subordinate
+coordinate
+461874	coordinate
+461894	coordinate
+461901	subordinate
+461909	subordinate
+subordinate
+461915	coordinate
+coordinate
+461921	coordinate
+461937	coordinate
+461939	subordinate
+461949	subordinate
+461963	subordinate
+461969	subordinate
+461975	subordinate
+461979	subordinate
+coordinate
+461986	coordinate
+462003	subordinate
+462011	subordinate
+462025	subordinate
+462056	subordinate
+462063	subordinate
+462066	coordinate
+462080	subordinate
+462082	coordinate
+462086	coordinate
+462094	coordinate
+462096	coordinate
+462108	coordinate
+462114	subordinate
+462116	coordinate
+462126	subordinate
+462133	subordinate
+462146	subordinate
+coordinate
+462151	coordinate
+462157	subordinate
+462166	subordinate
+subordinate
+462171	coordinate
+462173	subordinate
+462175	coordinate
+462183	subordinate
+462231	subordinate
+462239	coordinate
+462241	subordinate
+462258	subordinate
+subordinate
+462286	subordinate
+462294	subordinate
+462296	coordinate
+462302	coordinate
+462325	subordinate
+462329	subordinate
+462338	subordinate
+462350	coordinate
+coordinate
+462357	coordinate
+462361	coordinate
+coordinate
+462365	coordinate
+462371	coordinate
+462376	coordinate
+462383	subordinate
+462390	subordinate
+coordinate
+462395	coordinate
+462410	subordinate
+462412	subordinate
+462455	subordinate
+462464	subordinate
+462466	coordinate
+462471	subordinate
+462484	coordinate
+462488	subordinate
+462493	subordinate
+462502	coordinate
+462508	subordinate
+462511	coordinate
+462551	subordinate
+subordinate
+462563	subordinate
+462570	subordinate
+462574	subordinate
+462599	subordinate
+462605	subordinate
+462613	subordinate
+462637	subordinate
+462645	subordinate
+462664	subordinate
+subordinate
+462676	subordinate
+462694	subordinate
+462737	coordinate
+462742	coordinate
+462747	subordinate
+462749	coordinate
+462756	coordinate
+462774	subordinate
+462784	subordinate
+462792	subordinate
+subordinate
+462812	coordinate
+462815	subordinate
+462817	coordinate
+462821	subordinate
+462834	subordinate
+462840	subordinate
+462853	subordinate
+462857	subordinate
+462860	subordinate
+462867	subordinate
+462877	subordinate
+462884	subordinate
+462888	coordinate
+coordinate
+462893	coordinate
+coordinate
+462933	subordinate
+462951	subordinate
+coordinate
+462955	coordinate
+462960	subordinate
+462964	subordinate
+462975	subordinate
+463012	coordinate
+subordinate
+463022	coordinate
+463031	coordinate
+subordinate
+463039	subordinate
+463054	subordinate
+463062	coordinate
+463072	subordinate
+coordinate
+463078	coordinate
+463087	subordinate
+463098	subordinate
+463103	subordinate
+coordinate
+463108	subordinate
+463120	coordinate
+463123	coordinate
+463131	subordinate
+subordinate
+463136	subordinate
+463145	subordinate
+463149	coordinate
+463154	coordinate
+463162	coordinate
+463176	coordinate
+463188	subordinate
+463197	subordinate
+463200	subordinate
+463202	coordinate
+463207	coordinate
+463214	coordinate
+463218	coordinate
+463223	subordinate
+463225	subordinate
+subordinate
+463230	subordinate
+463245	subordinate
+subordinate
+463254	coordinate
+463260	coordinate
+463264	coordinate
+463269	coordinate
+463271	subordinate
+463290	subordinate
+463293	subordinate
+463301	subordinate
+463308	subordinate
+463321	subordinate
+463327	coordinate
+463329	subordinate
+463332	coordinate
+463336	coordinate
+463339	subordinate
+463344	coordinate
+463347	subordinate
+463352	subordinate
+463354	subordinate
+463361	coordinate
+463363	coordinate
+463368	subordinate
+463372	subordinate
+463378	coordinate
+463382	coordinate
+463389	coordinate
+subordinate
+subordinate
+463395	subordinate
+463398	coordinate
+subordinate
+subordinate
+463407	subordinate
+463424	subordinate
+463441	subordinate
+463451	subordinate
+463453	coordinate
+subordinate
+463460	coordinate
+subordinate
+463474	subordinate
+coordinate
+463477	coordinate
+coordinate
+463502	subordinate
+463507	subordinate
+463509	coordinate
+463516	subordinate
+463523	coordinate
+463525	subordinate
+463527	coordinate
+463541	subordinate
+463554	subordinate
+463561	coordinate
+subordinate
+463567	coordinate
+463575	coordinate
+subordinate
+463583	coordinate
+463589	subordinate
+463594	subordinate
+coordinate
+subordinate
+463599	coordinate
+463605	subordinate
+subordinate
+463609	subordinate
+subordinate
+coordinate
+463616	coordinate
+463618	subordinate
+463626	subordinate
+463631	subordinate
+463636	subordinate
+463638	subordinate
+subordinate
+463649	subordinate
+463661	subordinate
+463668	subordinate
+463677	subordinate
+463686	subordinate
+463698	coordinate
+463700	coordinate
+coordinate
+coordinate
+463704	coordinate
+463706	coordinate
+463708	coordinate
+463710	coordinate
+463712	coordinate
+463722	subordinate
+463725	subordinate
+463730	coordinate
+463735	coordinate
+463741	coordinate
+coordinate
+coordinate
+coordinate
+463747	coordinate
+463752	subordinate
+coordinate
+coordinate
+coordinate
+463758	subordinate
+463772	subordinate
+463781	subordinate
+463787	subordinate
+463790	subordinate
+463792	subordinate
+463801	subordinate
+subordinate
+463812	coordinate
+463816	subordinate
+subordinate
+463819	coordinate
+463837	subordinate
+463840	subordinate
+463844	subordinate
+463854	subordinate
+463858	coordinate
+463861	coordinate
+subordinate
+463867	coordinate
+subordinate
+463870	coordinate
+463880	subordinate
+463891	subordinate
+463904	coordinate
+463910	coordinate
+463912	coordinate
+463918	coordinate
+463923	coordinate
+463930	coordinate
+463943	subordinate
+463945	coordinate
+463949	subordinate
+coordinate
+coordinate
+463953	coordinate
+463962	coordinate
+463966	subordinate
+463970	subordinate
+463972	coordinate
+463977	subordinate
+coordinate
+463981	coordinate
+463992	subordinate
+subordinate
+coordinate
+464000	coordinate
+464002	coordinate
+464005	subordinate
+464007	coordinate
+464010	coordinate
+464027	subordinate
+subordinate
+464034	subordinate
+464040	subordinate
+464043	subordinate
+464055	subordinate
+464085	subordinate
+464093	subordinate
+464101	subordinate
+464109	subordinate
+464123	subordinate
+464125	subordinate
+464138	coordinate
+464143	coordinate
+464162	subordinate
+464164	subordinate
+464170	subordinate
+464186	subordinate
+464195	subordinate
+464197	subordinate
+464202	subordinate
+subordinate
+464207	subordinate
+subordinate
+464214	coordinate
+464218	coordinate
+464221	subordinate
+464237	coordinate
+464240	coordinate
+464244	subordinate
+464246	coordinate
+coordinate
+coordinate
+464255	subordinate
+464261	subordinate
+464269	coordinate
+464275	coordinate
+464286	subordinate
+464298	subordinate
+464324	subordinate
+subordinate
+464338	subordinate
+464344	coordinate
+464346	subordinate
+coordinate
+464361	subordinate
+464372	subordinate
+464378	coordinate
+464381	subordinate
+464383	coordinate
+464385	subordinate
+464389	subordinate
+subordinate
+464392	subordinate
+coordinate
+464396	coordinate
+464398	subordinate
+464400	subordinate
+464409	subordinate
+subordinate
+464415	subordinate
+464417	subordinate
+464447	subordinate
+464471	subordinate
+464476	subordinate
+464482	subordinate
+subordinate
+464490	subordinate
+464518	subordinate
+464524	subordinate
+subordinate
+464540	subordinate
+464543	subordinate
+464549	subordinate
+464552	coordinate
+464556	subordinate
+coordinate
+464559	coordinate
+464561	coordinate
+464566	subordinate
+464575	subordinate
+464577	subordinate
+464597	coordinate
+464605	coordinate
+464614	subordinate
+464619	coordinate
+coordinate
+464625	coordinate
+464628	coordinate
+coordinate
+464633	coordinate
+464651	subordinate
+subordinate
+464662	subordinate
+464669	coordinate
+464672	coordinate
+464676	subordinate
+464684	coordinate
+464686	subordinate
+464688	coordinate
+464690	subordinate
+464704	subordinate
+464717	subordinate
+464734	coordinate
+464739	coordinate
+464743	coordinate
+464753	subordinate
+464764	subordinate
+464771	coordinate
+464774	coordinate
+subordinate
+464777	subordinate
+464779	subordinate
+coordinate
+464783	coordinate
+464786	subordinate
+464793	subordinate
+coordinate
+464796	coordinate
+464798	coordinate
+subordinate
+464806	coordinate
+464813	coordinate
+subordinate
+464824	subordinate
+subordinate
+subordinate
+coordinate
+464829	coordinate
+464872	subordinate
+coordinate
+coordinate
+464882	coordinate
+464888	coordinate
+coordinate
+coordinate
+464904	coordinate
+464906	coordinate
+464912	coordinate
+464915	coordinate
+464947	coordinate
+464950	coordinate
+464964	subordinate
+subordinate
+464975	subordinate
+464981	subordinate
+464987	subordinate
+464991	subordinate
+coordinate
+464996	coordinate
+465010	subordinate
+coordinate
+465013	coordinate
+465019	coordinate
+465021	coordinate
+465023	subordinate
+subordinate
+465042	subordinate
+coordinate
+subordinate
+465046	coordinate
+465051	subordinate
+465055	subordinate
+coordinate
+coordinate
+465061	coordinate
+465065	coordinate
+465073	coordinate
+465075	coordinate
+465077	coordinate
+465087	subordinate
+subordinate
+465115	coordinate
+465119	coordinate
+465140	subordinate
+465150	coordinate
+coordinate
+465156	coordinate
+465161	coordinate
+coordinate
+465167	subordinate
+coordinate
+465172	coordinate
+465175	coordinate
+465181	coordinate
+465184	coordinate
+465194	subordinate
+coordinate
+465198	coordinate
+465204	subordinate
+465224	subordinate
+465238	subordinate
+465256	subordinate
+coordinate
+465259	coordinate
+465264	subordinate
+465271	coordinate
+465276	coordinate
+465300	coordinate
+465304	coordinate
+465309	coordinate
+465315	coordinate
+465329	coordinate
+465331	subordinate
+465340	coordinate
+465346	coordinate
+465365	subordinate
+465380	coordinate
+465383	subordinate
+465385	coordinate
+465408	subordinate
+465417	coordinate
+465419	coordinate
+465424	coordinate
+465427	subordinate
+coordinate
+465461	coordinate
+465463	coordinate
+465480	coordinate
+465482	coordinate
+465485	coordinate
+coordinate
+465488	coordinate
+465490	coordinate
+subordinate
+465494	coordinate
+465496	coordinate
+465505	coordinate
+465507	coordinate
+465511	subordinate
+465529	subordinate
+465531	subordinate
+465556	coordinate
+465559	coordinate
+465563	coordinate
+465566	coordinate
+coordinate
+465570	coordinate
+465574	coordinate
+465577	coordinate
+465587	coordinate
+465589	coordinate
+465591	coordinate
+465594	coordinate
+465599	coordinate
+465604	coordinate
+465607	coordinate
+465613	coordinate
+465616	coordinate
+465618	coordinate
+465622	coordinate
+465627	subordinate
+465638	subordinate
+465656	coordinate
+465663	coordinate
+coordinate
+465666	coordinate
+465668	coordinate
+465675	subordinate
+465689	subordinate
+465693	coordinate
+465695	coordinate
+465712	coordinate
+subordinate
+465715	coordinate
+465724	subordinate
+465733	coordinate
+465737	coordinate
+465742	coordinate
+465749	coordinate
+coordinate
+465755	coordinate
+465765	coordinate
+465779	coordinate
+465790	coordinate
+465794	coordinate
+465822	subordinate
+465825	subordinate
+465836	subordinate
+465845	subordinate
+465871	coordinate
+465875	coordinate
+465899	coordinate
+465903	coordinate
+465906	subordinate
+465924	coordinate
+465929	coordinate
+465931	subordinate
+465939	coordinate
+465946	coordinate
+465951	subordinate
+465958	coordinate
+465961	coordinate
+465964	subordinate
+465968	subordinate
+465971	coordinate
+465975	coordinate
+coordinate
+465980	coordinate
+465990	coordinate
+465992	coordinate
+coordinate
+465996	coordinate
+466005	subordinate
+coordinate
+466012	coordinate
+466016	coordinate
+466025	coordinate
+466073	subordinate
+466085	subordinate
+466096	subordinate
+466104	subordinate
+subordinate
+466108	subordinate
+466118	coordinate
+466120	coordinate
+466131	coordinate
+subordinate
+466134	coordinate
+subordinate
+466137	subordinate
+466141	subordinate
+subordinate
+466161	subordinate
+466172	subordinate
+466195	subordinate
+466198	subordinate
+466203	subordinate
+466213	subordinate
+466221	subordinate
+466224	coordinate
+466231	coordinate
+466235	subordinate
+466244	subordinate
+466249	subordinate
+466264	coordinate
+466273	coordinate
+466277	subordinate
+466283	subordinate
+466285	coordinate
+466289	coordinate
+466303	coordinate
+466306	coordinate
+subordinate
+subordinate
+466316	subordinate
+466326	subordinate
+466334	subordinate
+466336	subordinate
+466339	subordinate
+466341	coordinate
+466345	coordinate
+466351	coordinate
+coordinate
+466355	coordinate
+466358	coordinate
+466375	subordinate
+466390	subordinate
+466400	subordinate
+466405	subordinate
+subordinate
+466408	coordinate
+466411	coordinate
+466417	subordinate
+466421	subordinate
+466431	coordinate
+466437	coordinate
+466452	subordinate
+subordinate
+466463	coordinate
+466470	subordinate
+466484	subordinate
+466495	coordinate
+466497	coordinate
+466500	coordinate
+subordinate
+466503	coordinate
+subordinate
+466508	subordinate
+466526	subordinate
+466530	subordinate
+subordinate
+466549	subordinate
+466553	subordinate
+466562	subordinate
+466566	subordinate
+subordinate
+466574	coordinate
+subordinate
+466577	coordinate
+coordinate
+subordinate
+466583	coordinate
+subordinate
+466588	coordinate
+coordinate
+466591	coordinate
+466593	coordinate
+466615	subordinate
+466618	subordinate
+466624	subordinate
+subordinate
+466631	subordinate
+subordinate
+466644	subordinate
+466646	subordinate
+466651	coordinate
+466653	coordinate
+466661	subordinate
+subordinate
+466664	coordinate
+466678	subordinate
+subordinate
+466689	coordinate
+466692	subordinate
+466694	coordinate
+466709	subordinate
+466711	subordinate
+466720	subordinate
+466765	subordinate
+466771	subordinate
+466774	subordinate
+coordinate
+466777	coordinate
+466786	subordinate
+466790	subordinate
+subordinate
+466805	subordinate
+coordinate
+coordinate
+466810	coordinate
+466817	subordinate
+466821	coordinate
+coordinate
+466825	subordinate
+coordinate
+466828	coordinate
+466833	coordinate
+466837	coordinate
+466839	coordinate
+466842	coordinate
+466844	coordinate
+466846	coordinate
+466849	subordinate
+coordinate
+coordinate
+466855	coordinate
+466860	coordinate
+466863	subordinate
+466870	subordinate
+466877	subordinate
+466883	coordinate
+coordinate
+coordinate
+466889	coordinate
+466891	coordinate
+466897	subordinate
+466908	coordinate
+466914	subordinate
+466916	subordinate
+466928	coordinate
+subordinate
+subordinate
+subordinate
+subordinate
+466937	coordinate
+466946	subordinate
+466948	subordinate
+466950	coordinate
+466952	coordinate
+466961	subordinate
+466964	subordinate
+466999	subordinate
+467014	subordinate
+467032	subordinate
+467045	subordinate
+467051	subordinate
+467055	subordinate
+467057	subordinate
+467067	coordinate
+467070	coordinate
+467091	subordinate
+467102	subordinate
+subordinate
+467106	subordinate
+467114	subordinate
+467116	subordinate
+467120	subordinate
+467122	subordinate
+467128	subordinate
+467148	coordinate
+467157	subordinate
+coordinate
+467160	subordinate
+467166	subordinate
+467173	subordinate
+467178	subordinate
+467183	subordinate
+467196	coordinate
+467206	coordinate
+467208	subordinate
+467211	coordinate
+coordinate
+467218	subordinate
+467231	subordinate
+467245	subordinate
+467282	subordinate
+subordinate
+467294	subordinate
+coordinate
+subordinate
+467298	coordinate
+467319	subordinate
+coordinate
+467323	coordinate
+467332	subordinate
+subordinate
+467335	subordinate
+467342	subordinate
+467353	subordinate
+subordinate
+467356	subordinate
+subordinate
+subordinate
+467361	subordinate
+subordinate
+467387	coordinate
+subordinate
+coordinate
+coordinate
+coordinate
+467407	subordinate
+467409	subordinate
+coordinate
+467412	coordinate
+467472	subordinate
+467498	subordinate
+467502	subordinate
+467512	coordinate
+467515	subordinate
+467522	coordinate
+467527	coordinate
+467532	coordinate
+467537	coordinate
+467542	coordinate
+467547	coordinate
+467554	subordinate
+467568	subordinate
+subordinate
+subordinate
+467581	subordinate
+467589	subordinate
+467610	subordinate
+467613	subordinate
+467619	subordinate
+467624	subordinate
+467628	subordinate
+467639	subordinate
+467648	subordinate
+subordinate
+467659	coordinate
+subordinate
+467662	subordinate
+467671	coordinate
+467678	coordinate
+467698	coordinate
+467701	subordinate
+467703	subordinate
+467714	subordinate
+subordinate
+subordinate
+467718	subordinate
+467722	subordinate
+coordinate
+467725	coordinate
+467738	coordinate
+467740	coordinate
+subordinate
+467753	subordinate
+467759	subordinate
+467763	subordinate
+subordinate
+467783	coordinate
+467786	coordinate
+467793	subordinate
+coordinate
+coordinate
+coordinate
+467799	subordinate
+467801	coordinate
+467803	subordinate
+subordinate
+467807	coordinate
+coordinate
+467811	coordinate
+467815	subordinate
+467818	coordinate
+coordinate
+subordinate
+467824	subordinate
+467826	subordinate
+subordinate
+467829	coordinate
+467833	subordinate
+467841	subordinate
+467845	subordinate
+467852	subordinate
+coordinate
+467856	coordinate
+coordinate
+subordinate
+467862	coordinate
+467865	coordinate
+467870	coordinate
+467874	subordinate
+subordinate
+subordinate
+467888	subordinate
+467892	subordinate
+467894	subordinate
+467899	subordinate
+467903	subordinate
+coordinate
+467908	coordinate
+467911	coordinate
+467915	coordinate
+coordinate
+467922	coordinate
+467924	coordinate
+467926	subordinate
+coordinate
+467929	coordinate
+467931	subordinate
+467939	coordinate
+467942	coordinate
+467948	subordinate
+467960	subordinate
+467969	subordinate
+467991	subordinate
+subordinate
+coordinate
+468005	coordinate
+468012	coordinate
+subordinate
+468018	coordinate
+subordinate
+468023	subordinate
+468031	coordinate
+468036	coordinate
+subordinate
+468051	subordinate
+468055	subordinate
+468076	subordinate
+coordinate
+468090	subordinate
+468092	subordinate
+468099	subordinate
+468102	coordinate
+468104	coordinate
+468116	subordinate
+468128	subordinate
+468143	coordinate
+468149	coordinate
+468158	subordinate
+coordinate
+468161	subordinate
+subordinate
+coordinate
+coordinate
+468172	coordinate
+468176	coordinate
+coordinate
+subordinate
+468180	coordinate
+468191	subordinate
+468196	subordinate
+468206	coordinate
+468208	subordinate
+468210	coordinate
+subordinate
+468228	coordinate
+subordinate
+subordinate
+468241	subordinate
+468250	subordinate
+subordinate
+468265	subordinate
+subordinate
+468278	subordinate
+468280	subordinate
+subordinate
+468309	subordinate
+468311	subordinate
+subordinate
+468315	subordinate
+coordinate
+468318	coordinate
+468328	coordinate
+468331	coordinate
+468333	coordinate
+468335	coordinate
+468341	coordinate
+468345	coordinate
+468349	subordinate
+468353	subordinate
+468376	subordinate
+468386	coordinate
+468389	coordinate
+468392	coordinate
+468395	coordinate
+468401	subordinate
+coordinate
+subordinate
+468407	coordinate
+468411	coordinate
+468413	coordinate
+468423	subordinate
+468426	coordinate
+468429	coordinate
+468440	subordinate
+subordinate
+468444	coordinate
+468446	coordinate
+468452	subordinate
+468459	subordinate
+coordinate
+468463	coordinate
+468473	coordinate
+468475	coordinate
+468484	subordinate
+468489	subordinate
+468498	coordinate
+468503	coordinate
+468516	subordinate
+468519	subordinate
+468524	coordinate
+468531	coordinate
+468535	coordinate
+468553	subordinate
+468561	subordinate
+468565	subordinate
+468567	subordinate
+468594	subordinate
+coordinate
+468598	coordinate
+468606	coordinate
+subordinate
+468611	coordinate
+468619	coordinate
+468627	coordinate
+468633	coordinate
+468641	coordinate
+468645	coordinate
+subordinate
+468648	subordinate
+468656	subordinate
+468665	subordinate
+468672	subordinate
+468678	subordinate
+468684	subordinate
+468691	subordinate
+coordinate
+468694	coordinate
+468700	coordinate
+468713	subordinate
+468721	subordinate
+coordinate
+468742	coordinate
+468748	coordinate
+468755	coordinate
+468766	coordinate
+468769	coordinate
+468785	coordinate
+468788	coordinate
+468794	subordinate
+468808	coordinate
+468812	coordinate
+468815	subordinate
+coordinate
+subordinate
+468819	coordinate
+coordinate
+subordinate
+468823	coordinate
+subordinate
+468832	subordinate
+468865	subordinate
+468871	subordinate
+468873	subordinate
+468901	coordinate
+468915	coordinate
+subordinate
+coordinate
+468922	coordinate
+coordinate
+468925	coordinate
+468927	coordinate
+subordinate
+468937	subordinate
+468940	subordinate
+468942	coordinate
+468979	subordinate
+468983	coordinate
+468986	coordinate
+subordinate
+468993	subordinate
+468997	subordinate
+469009	subordinate
+469012	coordinate
+469020	coordinate
+469030	subordinate
+469033	coordinate
+469043	coordinate
+469048	coordinate
+469058	subordinate
+469067	subordinate
+469077	subordinate
+469090	subordinate
+469096	subordinate
+469098	subordinate
+469115	coordinate
+469122	coordinate
+469138	subordinate
+coordinate
+469143	coordinate
+469153	coordinate
+469157	coordinate
+469165	subordinate
+469176	subordinate
+469186	coordinate
+469199	subordinate
+469215	subordinate
+469222	coordinate
+469227	coordinate
+subordinate
+469232	coordinate
+469260	coordinate
+469268	subordinate
+469272	coordinate
+469277	coordinate
+469281	coordinate
+469283	subordinate
+469291	subordinate
+469294	subordinate
+coordinate
+469299	coordinate
+469309	coordinate
+469317	coordinate
+469320	subordinate
+469324	coordinate
+469331	coordinate
+469349	coordinate
+469351	coordinate
+469359	subordinate
+469371	coordinate
+469375	subordinate
+469381	coordinate
+469399	coordinate
+469404	coordinate
+469409	coordinate
+469411	subordinate
+coordinate
+469416	coordinate
+469426	coordinate
+469431	coordinate
+469443	subordinate
+469462	subordinate
+coordinate
+469468	coordinate
+coordinate
+469476	coordinate
+469484	subordinate
+469503	subordinate
+469510	coordinate
+469513	coordinate
+469515	coordinate
+469517	coordinate
+469528	subordinate
+469531	subordinate
+469537	subordinate
+coordinate
+469542	coordinate
+469552	coordinate
+469555	coordinate
+469567	subordinate
+469583	coordinate
+469587	coordinate
+469602	coordinate
+469605	coordinate
+coordinate
+469614	coordinate
+469624	subordinate
+469632	subordinate
+469639	coordinate
+469643	coordinate
+469648	subordinate
+coordinate
+469652	coordinate
+469660	subordinate
+469664	subordinate
+469670	coordinate
+469683	subordinate
+469703	coordinate
+469713	coordinate
+469732	subordinate
+coordinate
+469736	coordinate
+469755	subordinate
+469781	subordinate
+469801	coordinate
+469804	coordinate
+469818	subordinate
+469823	subordinate
+469835	coordinate
+469877	subordinate
+469892	coordinate
+469896	coordinate
+469942	subordinate
+469954	subordinate
+469965	coordinate
+469967	subordinate
+subordinate
+469976	coordinate
+469993	coordinate
+469996	coordinate
+470004	coordinate
+470011	coordinate
+coordinate
+470018	coordinate
+470024	coordinate
+470028	coordinate
+470038	coordinate
+470045	subordinate
+470072	coordinate
+470098	coordinate
+470124	subordinate
+subordinate
+470132	subordinate
+470139	subordinate
+subordinate
+coordinate
+subordinate
+470144	coordinate
+470147	subordinate
+470161	subordinate
+470168	subordinate
+470175	subordinate
+470187	subordinate
+coordinate
+subordinate
+coordinate
+470197	coordinate
+470199	coordinate
+470219	subordinate
+coordinate
+470223	coordinate
+470227	coordinate
+470230	coordinate
+subordinate
+470237	subordinate
+470244	coordinate
+subordinate
+subordinate
+470252	subordinate
+coordinate
+470256	coordinate
+470260	subordinate
+470284	subordinate
+470288	subordinate
+470297	coordinate
+470299	coordinate
+470303	subordinate
+470310	subordinate
+470318	coordinate
+subordinate
+470324	coordinate
+470332	subordinate
+470339	subordinate
+470345	subordinate
+470348	subordinate
+470362	subordinate
+subordinate
+470368	subordinate
+470377	coordinate
+470380	coordinate
+470384	coordinate
+470390	coordinate
+470392	coordinate
+470416	coordinate
+470426	coordinate
+subordinate
+470429	coordinate
+subordinate
+470437	coordinate
+subordinate
+470440	coordinate
+470462	subordinate
+coordinate
+470467	coordinate
+470477	subordinate
+470479	subordinate
+470484	subordinate
+subordinate
+subordinate
+470489	subordinate
+470502	subordinate
+coordinate
+470510	coordinate
+470521	subordinate
+470523	subordinate
+470526	coordinate
+subordinate
+470534	coordinate
+470538	coordinate
+470542	coordinate
+470551	subordinate
+470558	subordinate
+coordinate
+470563	coordinate
+470566	subordinate
+470574	subordinate
+subordinate
+470577	coordinate
+470579	coordinate
+470581	coordinate
+470586	coordinate
+470591	subordinate
+subordinate
+470597	subordinate
+470605	coordinate
+subordinate
+470610	subordinate
+subordinate
+470619	subordinate
+coordinate
+470625	coordinate
+470631	coordinate
+470642	subordinate
+470649	subordinate
+470655	subordinate
+subordinate
+470660	subordinate
+470682	subordinate
+coordinate
+470686	coordinate
+470707	coordinate
+470710	subordinate
+470715	coordinate
+470718	subordinate
+470743	subordinate
+470754	subordinate
+470768	subordinate
+470784	subordinate
+subordinate
+470788	coordinate
+470790	subordinate
+470794	subordinate
+470802	subordinate
+subordinate
+coordinate
+470806	coordinate
+470837	coordinate
+470839	subordinate
+470842	subordinate
+subordinate
+470846	coordinate
+subordinate
+470874	coordinate
+470879	coordinate
+470884	subordinate
+470939	coordinate
+470942	coordinate
+470944	coordinate
+470952	coordinate
+470975	coordinate
+coordinate
+470980	subordinate
+470982	coordinate
+471045	coordinate
+471051	coordinate
+471057	coordinate
+subordinate
+471061	coordinate
+471082	subordinate
+471090	coordinate
+subordinate
+471095	coordinate
+471102	subordinate
+coordinate
+471105	coordinate
+471112	coordinate
+471120	subordinate
+471122	subordinate
+471124	coordinate
+471130	coordinate
+471134	subordinate
+subordinate
+471138	coordinate
+471143	subordinate
+471147	coordinate
+471154	coordinate
+471161	coordinate
+471166	subordinate
+471175	subordinate
+471190	coordinate
+471199	coordinate
+coordinate
+471203	coordinate
+471210	coordinate
+471221	subordinate
+471223	subordinate
+471225	subordinate
+subordinate
+471246	coordinate
+471253	coordinate
+471285	coordinate
+471295	coordinate
+471297	coordinate
+subordinate
+471300	coordinate
+coordinate
+471305	coordinate
+coordinate
+471308	coordinate
+subordinate
+471313	coordinate
+471315	coordinate
+coordinate
+471321	coordinate
+471335	coordinate
+subordinate
+471338	coordinate
+471340	coordinate
+471348	subordinate
+471357	subordinate
+471372	subordinate
+471380	subordinate
+471407	coordinate
+471409	coordinate
+471412	coordinate
+coordinate
+471420	coordinate
+471422	coordinate
+coordinate
+471429	subordinate
+471431	coordinate
+coordinate
+coordinate
+471438	subordinate
+subordinate
+471443	subordinate
+471448	subordinate
+471450	coordinate
+471455	coordinate
+471458	coordinate
+471466	subordinate
+471497	coordinate
+471499	subordinate
+471505	coordinate
+471509	coordinate
+471533	subordinate
+subordinate
+471545	coordinate
+471547	coordinate
+471551	subordinate
+471562	subordinate
+coordinate
+471565	coordinate
+471576	subordinate
+471584	coordinate
+471590	coordinate
+471596	subordinate
+471602	subordinate
+471621	coordinate
+471627	coordinate
+471647	subordinate
+471666	coordinate
+471669	subordinate
+471672	subordinate
+coordinate
+471675	coordinate
+471681	subordinate
+471683	coordinate
+subordinate
+471690	coordinate
+471700	subordinate
+471723	coordinate
+471753	subordinate
+471755	subordinate
+471771	coordinate
+471780	subordinate
+471785	subordinate
+471790	coordinate
+471798	subordinate
+471831	coordinate
+471835	coordinate
+471838	coordinate
+471842	subordinate
+471844	subordinate
+subordinate
+471853	coordinate
+subordinate
+471858	coordinate
+coordinate
+471861	coordinate
+471866	subordinate
+471868	coordinate
+471871	coordinate
+471873	subordinate
+471890	subordinate
+471893	coordinate
+471899	coordinate
+471908	coordinate
+471923	subordinate
+471947	coordinate
+coordinate
+471950	coordinate
+471952	coordinate
+coordinate
+471955	coordinate
+471965	subordinate
+471967	subordinate
+471970	subordinate
+coordinate
+471974	coordinate
+471978	coordinate
+471983	coordinate
+471991	subordinate
+471993	coordinate
+coordinate
+coordinate
+472003	coordinate
+472005	coordinate
+472016	subordinate
+472029	subordinate
+472033	subordinate
+472042	subordinate
+472044	subordinate
+472052	coordinate
+472059	coordinate
+472062	coordinate
+472096	subordinate
+472141	subordinate
+coordinate
+472144	coordinate
+472148	subordinate
+472155	subordinate
+472159	coordinate
+472161	coordinate
+472163	coordinate
+472176	subordinate
+472180	subordinate
+472183	subordinate
+472188	subordinate
+coordinate
+472191	coordinate
+472198	subordinate
+472202	subordinate
+472205	subordinate
+472212	coordinate
+472214	coordinate
+472217	coordinate
+472221	coordinate
+472225	subordinate
+coordinate
+472230	coordinate
+472233	coordinate
+472236	coordinate
+coordinate
+472240	coordinate
+472247	subordinate
+472253	subordinate
+coordinate
+472256	coordinate
+472267	subordinate
+472272	coordinate
+472276	coordinate
+472280	coordinate
+472290	coordinate
+472292	coordinate
+subordinate
+subordinate
+472302	coordinate
+472306	coordinate
+coordinate
+472311	coordinate
+coordinate
+472319	coordinate
+472326	coordinate
+472332	coordinate
+472337	subordinate
+472341	coordinate
+472368	coordinate
+472374	subordinate
+472387	subordinate
+472393	coordinate
+472398	coordinate
+472402	coordinate
+472409	coordinate
+472413	subordinate
+472419	subordinate
+472452	subordinate
+472469	coordinate
+472479	coordinate
+coordinate
+472488	coordinate
+472502	subordinate
+472510	subordinate
+coordinate
+472514	coordinate
+472532	subordinate
+472535	subordinate
+472540	subordinate
+472544	subordinate
+subordinate
+coordinate
+472549	coordinate
+472565	subordinate
+coordinate
+472569	coordinate
+472574	subordinate
+472576	subordinate
+coordinate
+472580	coordinate
+472599	subordinate
+472609	subordinate
+472622	subordinate
+472624	subordinate
+472636	subordinate
+472643	coordinate
+472645	coordinate
+472657	subordinate
+472669	subordinate
+472674	subordinate
+472687	subordinate
+coordinate
+472691	coordinate
+472695	subordinate
+coordinate
+472698	coordinate
+472710	coordinate
+472716	coordinate
+472722	coordinate
+472724	coordinate
+472726	coordinate
+472737	coordinate
+472746	subordinate
+472751	subordinate
+472764	subordinate
+472813	coordinate
+472816	coordinate
+472820	coordinate
+472823	subordinate
+472830	coordinate
+472842	coordinate
+472844	coordinate
+coordinate
+472850	coordinate
+472855	coordinate
+coordinate
+472858	coordinate
+coordinate
+subordinate
+472862	coordinate
+subordinate
+472868	subordinate
+472880	coordinate
+472889	coordinate
+coordinate
+subordinate
+472896	coordinate
+subordinate
+472899	coordinate
+472905	subordinate
+472917	coordinate
+472919	coordinate
+472924	coordinate
+472934	subordinate
+472941	coordinate
+coordinate
+472945	coordinate
+472949	coordinate
+472958	subordinate
+472971	coordinate
+472973	coordinate
+472978	coordinate
+472986	coordinate
+472996	subordinate
+473012	subordinate
+473036	subordinate
+473038	coordinate
+473047	coordinate
+473058	coordinate
+473062	coordinate
+subordinate
+473067	subordinate
+473078	subordinate
+473081	subordinate
+473086	coordinate
+473089	subordinate
+473094	coordinate
+coordinate
+473098	coordinate
+473103	coordinate
+473118	subordinate
+473127	coordinate
+473170	coordinate
+473173	coordinate
+473187	subordinate
+coordinate
+473196	coordinate
+subordinate
+473208	subordinate
+473214	subordinate
+473227	coordinate
+subordinate
+473232	subordinate
+473235	subordinate
+473237	coordinate
+473244	subordinate
+473259	subordinate
+473278	subordinate
+473285	coordinate
+473289	coordinate
+473293	coordinate
+473297	coordinate
+473301	coordinate
+473305	coordinate
+473309	coordinate
+473313	coordinate
+473317	coordinate
+473321	coordinate
+473325	coordinate
+473329	coordinate
+473335	coordinate
+473339	coordinate
+473344	subordinate
+473358	subordinate
+473361	coordinate
+473385	coordinate
+473397	coordinate
+coordinate
+473405	coordinate
+473439	coordinate
+473447	coordinate
+473458	coordinate
+473466	coordinate
+coordinate
+473471	coordinate
+473478	coordinate
+coordinate
+473486	coordinate
+473493	coordinate
+473501	coordinate
+473503	coordinate
+473505	coordinate
+473512	subordinate
+coordinate
+coordinate
+473522	coordinate
+473527	coordinate
+473537	subordinate
+473548	coordinate
+473556	coordinate
+473561	coordinate
+473564	coordinate
+coordinate
+473568	subordinate
+473571	coordinate
+473575	subordinate
+473605	coordinate
+473609	coordinate
+473615	coordinate
+473636	subordinate
+473644	coordinate
+473647	subordinate
+473650	coordinate
+473656	coordinate
+473661	coordinate
+473666	coordinate
+473680	subordinate
+473686	coordinate
+473691	coordinate
+473703	coordinate
+473715	coordinate
+473719	subordinate
+473722	subordinate
+473724	coordinate
+473745	coordinate
+473751	coordinate
+473758	subordinate
+473781	subordinate
+473785	coordinate
+coordinate
+473791	coordinate
+473796	coordinate
+473798	coordinate
+473801	subordinate
+473821	subordinate
+473830	coordinate
+subordinate
+473837	coordinate
+473846	coordinate
+coordinate
+473856	subordinate
+473860	coordinate
+473872	coordinate
+473880	subordinate
+473887	subordinate
+473899	subordinate
+473911	subordinate
+473913	coordinate
+coordinate
+473925	subordinate
+473929	coordinate
+coordinate
+473937	coordinate
+473940	coordinate
+coordinate
+subordinate
+473944	coordinate
+473950	coordinate
+473955	subordinate
+473958	coordinate
+473966	coordinate
+473972	coordinate
+473977	coordinate
+473982	coordinate
+473987	coordinate
+473997	subordinate
+474002	coordinate
+474008	coordinate
+474027	coordinate
+474030	coordinate
+474062	subordinate
+474069	subordinate
+474095	subordinate
+474115	coordinate
+474120	coordinate
+474131	coordinate
+474138	coordinate
+474185	coordinate
+474188	subordinate
+474190	coordinate
+474210	subordinate
+474228	subordinate
+474234	coordinate
+474254	coordinate
+subordinate
+474260	subordinate
+474262	coordinate
+coordinate
+coordinate
+474270	coordinate
+474276	coordinate
+474282	coordinate
+474287	subordinate
+474291	coordinate
+coordinate
+474300	coordinate
+474308	subordinate
+474313	subordinate
+474323	subordinate
+474327	subordinate
+474331	subordinate
+474334	subordinate
+coordinate
+subordinate
+474340	coordinate
+474344	coordinate
+474348	subordinate
+474392	coordinate
+474402	subordinate
+subordinate
+subordinate
+474409	subordinate
+474417	coordinate
+474425	coordinate
+subordinate
+474451	subordinate
+subordinate
+474458	coordinate
+coordinate
+474461	coordinate
+474463	coordinate
+coordinate
+474473	subordinate
+474477	coordinate
+coordinate
+474485	coordinate
+474487	coordinate
+474496	subordinate
+474503	subordinate
+474517	coordinate
+474519	coordinate
+474533	coordinate
+474540	coordinate
+474542	subordinate
+coordinate
+474546	coordinate
+474555	coordinate
+474560	coordinate
+474563	subordinate
+474583	subordinate
+subordinate
+474586	coordinate
+474591	coordinate
+474598	subordinate
+subordinate
+474601	subordinate
+474604	coordinate
+474607	subordinate
+474610	subordinate
+474616	coordinate
+474619	subordinate
+474622	coordinate
+474634	subordinate
+474638	coordinate
+474647	coordinate
+coordinate
+474650	coordinate
+474674	coordinate
+474687	coordinate
+subordinate
+474695	coordinate
+coordinate
+474703	coordinate
+474705	coordinate
+474707	subordinate
+474718	coordinate
+coordinate
+474730	coordinate
+474735	coordinate
+474751	coordinate
+474757	coordinate
+474763	coordinate
+474769	coordinate
+coordinate
+474775	coordinate
+coordinate
+474783	coordinate
+coordinate
+474787	coordinate
+474814	coordinate
+474825	coordinate
+474833	coordinate
+474849	coordinate
+474867	subordinate
+coordinate
+474874	coordinate
+474878	coordinate
+474881	coordinate
+coordinate
+474886	coordinate
+474892	coordinate
+474894	coordinate
+474913	coordinate
+474920	coordinate
+474929	coordinate
+474953	coordinate
+coordinate
+coordinate
+474958	coordinate
+474964	coordinate
+474971	coordinate
+474974	coordinate
+subordinate
+coordinate
+474978	coordinate
+subordinate
+474983	coordinate
+474988	coordinate
+474990	coordinate
+474998	coordinate
+475004	coordinate
+coordinate
+475014	coordinate
+475026	subordinate
+475030	subordinate
+475039	subordinate
+475065	subordinate
+475069	subordinate
+475091	coordinate
+475098	coordinate
+475126	coordinate
+475130	coordinate
+475158	subordinate
+475174	coordinate
+475187	coordinate
+475208	subordinate
+475211	subordinate
+475242	subordinate
+475267	subordinate
+475269	subordinate
+475273	coordinate
+475277	coordinate
+coordinate
+475283	coordinate
+475294	coordinate
+475299	coordinate
+subordinate
+475309	coordinate
+475314	coordinate
+475327	coordinate
+subordinate
+475331	subordinate
+475337	coordinate
+coordinate
+475344	coordinate
+475352	coordinate
+475357	coordinate
+coordinate
+475363	coordinate
+475383	coordinate
+475388	subordinate
+subordinate
+475392	coordinate
+475400	coordinate
+coordinate
+475410	subordinate
+475414	coordinate
+475418	coordinate
+475421	coordinate
+subordinate
+475427	coordinate
+475429	subordinate
+475433	coordinate
+subordinate
+475446	subordinate
+475461	coordinate
+subordinate
+coordinate
+475467	coordinate
+475469	coordinate
+475503	subordinate
+475508	subordinate
+475514	subordinate
+475516	subordinate
+475529	coordinate
+subordinate
+475535	coordinate
+coordinate
+475542	subordinate
+475562	subordinate
+475577	subordinate
+subordinate
+475596	subordinate
+475599	subordinate
+475604	subordinate
+475608	coordinate
+475613	coordinate
+475618	subordinate
+475623	subordinate
+coordinate
+475629	coordinate
+475632	subordinate
+subordinate
+475659	coordinate
+subordinate
+475672	coordinate
+subordinate
+475675	subordinate
+coordinate
+475678	coordinate
+475680	subordinate
+475705	subordinate
+475716	coordinate
+475719	coordinate
+475725	coordinate
+475730	subordinate
+subordinate
+475750	coordinate
+subordinate
+475755	coordinate
+subordinate
+475760	coordinate
+475765	subordinate
+475786	subordinate
+475789	subordinate
+475801	subordinate
+475804	subordinate
+475810	subordinate
+475814	coordinate
+475823	coordinate
+475832	subordinate
+475835	subordinate
+475837	subordinate
+475855	coordinate
+475857	coordinate
+475860	coordinate
+475862	subordinate
+475868	coordinate
+475910	subordinate
+coordinate
+475918	coordinate
+475928	coordinate
+475945	coordinate
+475958	coordinate
+475966	coordinate
+475978	subordinate
+subordinate
+476023	subordinate
+476030	coordinate
+476033	coordinate
+476042	coordinate
+476048	coordinate
+476068	coordinate
+476072	coordinate
+476076	subordinate
+476078	subordinate
+476085	coordinate
+476095	coordinate
+476107	subordinate
+476113	coordinate
+476123	coordinate
+476133	coordinate
+476139	coordinate
+476146	subordinate
+476152	coordinate
+476159	coordinate
+coordinate
+476165	coordinate
+476177	coordinate
+476182	coordinate
+476209	subordinate
+476219	coordinate
+476223	coordinate
+476243	subordinate
+476288	coordinate
+476295	coordinate
+476299	coordinate
+476302	subordinate
+476308	coordinate
+476311	coordinate
+coordinate
+476322	coordinate
+476332	subordinate
+coordinate
+476337	coordinate
+476353	subordinate
+476367	coordinate
+476380	subordinate
+476384	subordinate
+476400	coordinate
+476402	coordinate
+476414	coordinate
+476417	coordinate
+476453	coordinate
+476457	coordinate
+476501	subordinate
+coordinate
+476507	coordinate
+subordinate
+476538	subordinate
+476544	coordinate
+476548	coordinate
+coordinate
+476561	coordinate
+subordinate
+476576	coordinate
+476579	subordinate
+476581	coordinate
+coordinate
+coordinate
+476589	coordinate
+476602	coordinate
+476623	subordinate
+476634	subordinate
+476660	subordinate
+476667	subordinate
+476682	subordinate
+476687	coordinate
+476689	coordinate
+476693	subordinate
+coordinate
+476696	coordinate
+476728	coordinate
+476733	coordinate
+476738	subordinate
+476746	coordinate
+476753	coordinate
+476764	subordinate
+476776	coordinate
+476779	coordinate
+476800	subordinate
+476806	coordinate
+476817	coordinate
+476834	coordinate
+476840	coordinate
+476857	subordinate
+476862	subordinate
+476864	subordinate
+476874	subordinate
+coordinate
+476879	coordinate
+476885	coordinate
+476891	subordinate
+476899	coordinate
+476919	subordinate
+476935	subordinate
+476965	coordinate
+coordinate
+476971	coordinate
+476973	coordinate
+coordinate
+subordinate
+476979	coordinate
+477002	coordinate
+477004	coordinate
+477006	coordinate
+477028	coordinate
+477030	coordinate
+477032	coordinate
+coordinate
+477038	subordinate
+subordinate
+477047	coordinate
+477049	coordinate
+coordinate
+coordinate
+477054	coordinate
+477058	coordinate
+477070	coordinate
+477072	coordinate
+477079	coordinate
+477082	coordinate
+477090	coordinate
+477094	coordinate
+477098	subordinate
+coordinate
+477105	coordinate
+477136	coordinate
+477139	coordinate
+coordinate
+477142	subordinate
+477145	coordinate
+coordinate
+477150	coordinate
+477159	subordinate
+coordinate
+477164	coordinate
+477167	coordinate
+477172	subordinate
+477194	coordinate
+477196	subordinate
+477200	subordinate
+477203	coordinate
+477215	coordinate
+477234	subordinate
+477236	subordinate
+coordinate
+477248	coordinate
+477254	coordinate
+477276	coordinate
+subordinate
+477281	coordinate
+subordinate
+477287	subordinate
+coordinate
+477294	coordinate
+477302	subordinate
+477305	coordinate
+477320	coordinate
+477322	coordinate
+477332	coordinate
+477334	coordinate
+coordinate
+477337	coordinate
+477341	coordinate
+477352	coordinate
+477355	subordinate
+477378	subordinate
+477383	subordinate
+477404	subordinate
+477418	subordinate
+477471	coordinate
+coordinate
+477481	coordinate
+477489	coordinate
+477505	subordinate
+coordinate
+477508	coordinate
+477520	coordinate
+477525	coordinate
+477532	subordinate
+477539	coordinate
+477549	subordinate
+477553	coordinate
+subordinate
+477567	coordinate
+477572	coordinate
+subordinate
+coordinate
+477576	coordinate
+477598	subordinate
+477613	subordinate
+477621	coordinate
+477628	coordinate
+477633	coordinate
+477638	coordinate
+477644	coordinate
+477653	coordinate
+477660	coordinate
+477665	coordinate
+477670	coordinate
+477677	subordinate
+477685	subordinate
+coordinate
+477693	coordinate
+477732	subordinate
+coordinate
+477744	coordinate
+477755	coordinate
+477757	coordinate
+477767	coordinate
+477777	coordinate
+477826	subordinate
+477835	coordinate
+coordinate
+477838	coordinate
+477840	coordinate
+477843	subordinate
+coordinate
+477849	coordinate
+477856	subordinate
+477861	subordinate
+477893	subordinate
+477901	subordinate
+477916	subordinate
+477925	coordinate
+subordinate
+477929	coordinate
+477934	coordinate
+coordinate
+477942	coordinate
+477949	coordinate
+coordinate
+477955	coordinate
+477960	subordinate
+coordinate
+477964	subordinate
+477967	subordinate
+477969	coordinate
+477971	subordinate
+477973	coordinate
+477989	subordinate
+478001	subordinate
+478005	coordinate
+478034	subordinate
+478042	subordinate
+coordinate
+478048	coordinate
+478069	subordinate
+478096	subordinate
+478106	subordinate
+478121	coordinate
+478147	subordinate
+478160	coordinate
+478176	coordinate
+478185	subordinate
+478188	subordinate
+478203	coordinate
+coordinate
+478216	coordinate
+478219	coordinate
+coordinate
+478224	coordinate
+coordinate
+478227	coordinate
+478230	subordinate
+478233	subordinate
+478239	subordinate
+478244	coordinate
+coordinate
+coordinate
+478248	coordinate
+coordinate
+478252	coordinate
+478254	coordinate
+478269	coordinate
+coordinate
+478277	coordinate
+478289	coordinate
+478291	coordinate
+478301	subordinate
+478321	coordinate
+478326	coordinate
+coordinate
+478334	coordinate
+478342	subordinate
+478346	coordinate
+478353	subordinate
+478366	subordinate
+478380	coordinate
+478386	coordinate
+478399	coordinate
+478403	coordinate
+478407	coordinate
+478424	coordinate
+478443	coordinate
+478452	coordinate
+478456	coordinate
+subordinate
+478467	coordinate
+478489	coordinate
+coordinate
+478497	coordinate
+478507	coordinate
+478535	subordinate
+subordinate
+478555	subordinate
+coordinate
+478564	coordinate
+478569	subordinate
+478579	subordinate
+478582	subordinate
+478593	coordinate
+coordinate
+coordinate
+478602	coordinate
+478605	coordinate
+coordinate
+478609	coordinate
+478614	coordinate
+coordinate
+478621	coordinate
+coordinate
+478625	coordinate
+478646	subordinate
+478678	coordinate
+478682	coordinate
+coordinate
+478685	coordinate
+478694	subordinate
+478718	coordinate
+478736	coordinate
+478750	coordinate
+478757	coordinate
+subordinate
+478767	subordinate
+478777	subordinate
+478780	subordinate
+478788	coordinate
+478791	coordinate
+coordinate
+478797	coordinate
+478806	coordinate
+478810	coordinate
+478814	coordinate
+478818	coordinate
+478824	coordinate
+478830	coordinate
+478847	subordinate
+478859	coordinate
+478897	coordinate
+478903	coordinate
+478920	coordinate
+478924	coordinate
+478926	coordinate
+478928	coordinate
+478930	coordinate
+478932	coordinate
+478934	coordinate
+478936	coordinate
+478938	coordinate
+478940	coordinate
+478942	coordinate
+478944	coordinate
+478974	subordinate
+478995	subordinate
+478997	subordinate
+coordinate
+479003	coordinate
+479031	subordinate
+479055	subordinate
+479067	subordinate
+479082	coordinate
+479095	subordinate
+479097	subordinate
+479103	coordinate
+479117	coordinate
+479126	coordinate
+coordinate
+coordinate
+479132	coordinate
+479136	coordinate
+479145	coordinate
+coordinate
+479155	subordinate
+479160	coordinate
+479169	coordinate
+479175	coordinate
+479185	subordinate
+479188	subordinate
+subordinate
+479215	subordinate
+coordinate
+479218	coordinate
+479220	subordinate
+479234	subordinate
+479263	subordinate
+479267	coordinate
+coordinate
+479272	coordinate
+479275	coordinate
+coordinate
+479279	coordinate
+479285	coordinate
+479291	subordinate
+479317	subordinate
+coordinate
+479326	coordinate
+479344	subordinate
+479352	subordinate
+479406	subordinate
+479422	subordinate

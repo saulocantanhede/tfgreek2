@@ -9,21495 +9,47757 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-19T03:15:41Z
+@dateWritten=2023-06-22T03:04:07Z
 
+9	Subj
+13	Subj
+18	Subj
+27	Subj
+38	Subj
+43	Subj
+48	Subj
+53	Subj
+58	Subj
+63	Subj
+71	Subj
+79	Subj
+84	Subj
+91	Subj
+100	Subj
+105	Subj
+110	Subj
+115	Subj
+120	Subj
+125	Subj
+130	Subj
+135	Subj
+140	Subj
+145	Subj
+150	Subj
+155	Subj
+160	Subj
+178	Subj
+182	Subj
+187	Subj
+192	Subj
+197	Subj
+202	Subj
+207	Subj
+212	Subj
+217	Subj
+222	Subj
+227	Subj
+232	Subj
+246	Pred
+282	Pred
+294	Subj
+307	Pred
+312	Objc
+317	Objc
+Objc
+320	Subj
+328	Cmpl
+336	Objc
+351	Objc
+357	Objc
+Subj
+390	Objc
+397	Subj
+414	Objc
+426	Objc
+430	Objc
+436	Objc
+451	Subj
+458	Pred
+476	Objc
+504	Subj
+507	Cmpl
+519	Subj
+524	Pred
+535	Subj
+543	Subj
+558	Objc
+572	Cmpl
+574	Subj
+577	Objc
+Subj
+588	Objc
+594	Objc
+599	Pred
+627	Objc
+634	Cmpl
+659	Subj
+687	Cmpl
+690	Subj
+696	Objc
+Subj
+714	Pred
+736	Subj
+767	Objc
+789	Subj
+837	Subj
+855	Subj
+883	Pred
+892	Pred
+917	Subj
+936	Objc
+1007	Cmpl
+1010	Subj
+1012	Cmpl
+1030	Objc
+1036	Cmpl
+1046	Objc
+1071	Subj
+1073	Objc
+1084	Pred
+1090	Pred
+1094	Subj
+Objc
+1145	Subj
+1148	Objc
+1150	Subj
+Objc
+1157	Subj
+1166	Cmpl
+1179	Objc
+1206	Subj
+1211	Subj
+1249	Cmpl
+1260	Pred
+1262	Subj
+1284	Objc
+1293	Objc
+1301	Cmpl
+1308	Objc
+1323	Objc
+1333	Cmpl
+1346	Objc
+1355	Cmpl
+1367	Cmpl
+1369	Cmpl
+1375	Objc
+1378	Cmpl
+1396	Objc
+1401	Subj
+1405	Objc
+1409	Subj
+1469	Subj
+1500	Pred
+1507	Objc
+1513	Pred
+1516	Cmpl
+1522	Objc
+1525	Subj
+1532	Objc
+1563	Objc
+Subj
+1575	Objc
+1614	Cmpl
+1631	Objc
+1634	Objc
+1660	Subj
+1672	Objc
+1674	Pred
+1680	Pred
+1686	Pred
+1690	Subj
+1692	Pred
+1696	Subj
+1700	Pred
+1708	Subj
+1710	Pred
+1714	Subj
+1716	Pred
+1722	Subj
+1726	Pred
+1730	Subj
+1734	Pred
+1740	Pred
+1746	Pred
+1750	Objc
+1769	Pred
+1781	Subj
+1807	Subj
+1815	Subj
+1822	Objc
+1825	Objc
+1881	Cmpl
+1903	Subj
+1905	Subj
+1920	Pred
+1927	Subj
+1933	Subj
+Pred
+1943	Cmpl
+1971	Subj
+1975	Pred
+1979	Subj
+1982	Cmpl
+1990	Pred
+1994	Subj
+2002	Pred
+2006	Subj
+2011	Pred
+2034	Objc
+2075	Objc
+2092	Cmpl
+2108	Subj
+2111	Cmpl
+2116	Objc
+2120	Objc
+2123	Objc
+2136	Objc
+2138	Objc
+2168	Objc
+2170	Objc
+2195	Subj
+2202	Cmpl
+Objc
+Subj
+2207	Cmpl
+2219	Subj
+2222	Subj
+2242	Subj
+2245	Cmpl
+2297	Subj
+Pred
+Subj
+Pred
+2312	Objc
+2316	Objc
+2319	Subj
+2322	Cmpl
+2328	Subj
+Objc
+2337	Cmpl
+2352	Cmpl
+2357	Subj
+Objc
+2368	Objc
+2390	Subj
+2393	Cmpl
+2403	Objc
+2433	Objc
+2463	Subj
+Pred
+2471	Pred
+2490	Objc
+2504	Objc
+2527	Cmpl
+2532	Subj
+2535	Objc
+2541	Objc
+2564	Cmpl
+2592	Cmpl
+2597	Subj
+2629	Cmpl
+2659	Subj
+2661	Objc
+2665	Subj
+2696	Cmpl
+2700	Cmpl
+2714	Objc
+2719	Objc
+2761	Pred
+2774	Cmpl
+2779	Subj
+2815	Cmpl
+2818	Cmpl
+Objc
+2830	Subj
+2836	Cmpl
+Objc
+2848	Subj
+2853	Pred
+2859	Pred
+2878	Pred
+2883	Pred
+2890	Pred
+2896	Pred
+2905	Pred
+2909	Pred
+Subj
+2925	Objc
+2933	Objc
+2936	Objc
+2940	Cmpl
+2946	Objc
+2949	Objc
+2955	Objc
+2960	Pred
+2991	Objc
+2993	Subj
+3028	Cmpl
+3031	Subj
+3061	Objc
+3067	Objc
+3070	Objc
+3073	Objc
+3105	Cmpl
+3116	Objc
+Pred
+3140	Cmpl
+3222	Objc
+3230	Objc
+3234	Cmpl
+3241	Cmpl
+3261	Objc
+3266	Objc
+3268	Objc
+3270	Cmpl
+3276	Objc
+3278	Cmpl
+3281	Subj
+Pred
+3301	Objc
+3304	Objc
+3312	Cmpl
+3319	Cmpl
+Subj
+3334	Pred
+3338	Pred
+3347	Pred
+3354	Pred
+3358	Pred
+3367	Pred
+3371	Objc
+3376	Subj
+3393	Objc
+3398	Objc
+3402	Objc
+3447	Objc
+3452	Cmpl
+3473	Subj
+3475	Cmpl
+3491	Objc
+3503	Cmpl
+3507	Objc
+3517	Subj
+3525	Objc
+3529	Subj
+3573	Objc
+3577	Subj
+3609	Pred
+3629	Objc
+3631	Objc
+3641	Subj
+3646	Objc
+3651	Subj
+3654	Objc
+3660	Objc
+3667	Objc
+3679	Cmpl
+3683	Cmpl
+3687	Objc
+3695	Objc
+3697	Subj
+3703	Subj
+3708	Subj
+3710	Objc
+3725	Cmpl
+Subj
+3729	Objc
+3738	Pred
+3764	Objc
+3767	Cmpl
+3772	Cmpl
+3781	Objc
+3795	Cmpl
+3806	Cmpl
+3808	Subj
+3838	Pred
+3888	Objc
+3895	Objc
+Subj
+3900	Cmpl
+3923	Subj
+3936	Objc
+3949	Cmpl
+3952	Objc
+3958	Cmpl
+3963	Objc
+3970	Objc
+3987	Cmpl
+3990	Cmpl
+4002	Cmpl
+4004	Objc
+4015	Subj
+4020	Objc
+4039	Subj
+4045	Objc
+4052	Cmpl
+4054	Pred
+4074	Pred
+4076	Subj
+4084	Objc
+4088	Subj
+4098	Objc
+4110	Subj
+4120	Subj
+4132	Objc
+4135	Pred
+4146	Objc
+4150	Objc
+4152	Objc
+4160	Cmpl
+4162	Subj
+4213	Objc
+4235	Cmpl
+4264	Subj
+4277	Objc
+4282	Subj
+4285	Pred
+4300	Objc
+4310	Objc
+4359	Pred
+4363	Cmpl
+4365	Objc
+4369	Objc
+4372	Subj
+4410	Subj
+4427	Pred
+4429	Objc
+4433	Objc
+4438	Objc
+4440	Objc
+4463	Cmpl
+4482	Subj
+4492	Subj
+4542	Subj
+4544	Objc
+Subj
+4547	Cmpl
+4553	Objc
+4576	Objc
+4612	Objc
+4620	Objc
+4657	Objc
+4694	Objc
+4708	Cmpl
+4714	Objc
+4717	Cmpl
+4731	Cmpl
+4739	Cmpl
+4744	Subj
+4746	Subj
+4750	Objc
+4756	Subj
+4761	Cmpl
+4838	Objc
+4847	Pred
+4851	Pred
+4860	Objc
+4872	Cmpl
+4878	Objc
+4893	Pred
+Pred
+4898	Pred
+4938	Objc
+4946	Objc
+4981	Objc
+4983	Objc
+4985	Objc
+5013	Pred
+5029	Subj
+5032	Pred
+5045	Objc
+5052	Pred
+5063	Pred
+5071	Subj
+5075	Objc
+5097	Cmpl
+Pred
+5112	Subj
+5114	Objc
+5116	Objc
+5122	Pred
+5127	Pred
+5138	Objc
+5147	Objc
+5166	Objc
+5171	Objc
+5175	Cmpl
+5180	Objc
+5184	Subj
+5200	Subj
+Objc
+5205	Subj
+Objc
+5209	Subj
+5214	Objc
+5229	Subj
+5234	Objc
+5246	Cmpl
+5262	Subj
+5267	Subj
+5272	Pred
+5291	Objc
+5301	Objc
+Pred
+5306	Subj
+5311	Subj
+5314	Objc
+5316	Cmpl
+5325	Objc
+5394	Subj
+5405	Subj
+5416	Subj
+5420	Objc
+5425	Subj
+Objc
+5440	Objc
+5447	Objc
+5449	Objc
+5453	Objc
+5459	Objc
+5465	Objc
+5487	Pred
+5499	Pred
+5501	Subj
+5514	Pred
+5521	Objc
+5531	Objc
+5534	Objc
+Objc
+5539	Objc
+5544	Objc
+5547	Objc
+5557	Objc
+5565	Subj
+5580	Cmpl
+5625	Cmpl
+Subj
+5631	Objc
+5638	Cmpl
+5641	Cmpl
+Objc
+5646	Subj
+5649	Subj
+5651	Subj
+5654	Subj
+5657	Subj
+5660	Subj
+5663	Pred
+5665	Subj
+5671	Subj
+5682	Objc
+5693	Objc
+5713	Objc
+5717	Cmpl
+5721	Subj
+5727	Subj
+5735	Subj
+5744	Cmpl
+5762	Pred
+5780	Subj
+5782	Objc
+5797	Subj
+5805	Objc
+5813	Pred
+5820	Subj
+5826	Cmpl
+5836	Subj
+5843	Objc
+5887	Subj
+Cmpl
+5890	Subj
+Cmpl
+5915	Cmpl
+5919	Pred
+5927	Subj
+5954	Cmpl
+5958	Pred
+5974	Objc
+5984	Objc
+5991	Objc
+Cmpl
+5998	Subj
+6002	Subj
+Cmpl
+6010	Subj
+6021	Subj
+6028	Cmpl
+6042	Subj
+6044	Objc
+6064	Objc
+6072	Pred
+6077	Pred
+6099	Objc
+6107	Cmpl
+6113	Objc
+6119	Subj
+6122	Cmpl
+6125	Objc
+6127	Subj
+6147	Objc
+6180	Pred
+6184	Cmpl
+6190	Pred
+6194	Pred
+6196	Objc
+6200	Objc
+6226	Objc
+6228	Objc
+6231	Objc
+6240	Objc
+Subj
+6244	Cmpl
+Subj
+6250	Subj
+6257	Subj
+6264	Objc
+6270	Subj
+6298	Objc
+6303	Objc
+6313	Objc
+Subj
+6321	Cmpl
+6324	Objc
+Objc
+6340	Objc
+6345	Objc
+6357	Objc
+6367	Subj
+6394	Subj
+6398	Cmpl
+6405	Objc
+6420	Subj
+6430	Subj
+6449	Cmpl
+6484	Subj
+6498	Subj
+6507	Subj
+6522	Subj
+6564	Cmpl
+6580	Subj
+6583	Objc
+6590	Cmpl
+Subj
+6602	Cmpl
+6616	Objc
+6621	Objc
+6626	Objc
+6631	Objc
+6643	Objc
+6645	Pred
+6664	Objc
+6674	Objc
+6677	Cmpl
+6682	Objc
+6689	Objc
+6707	Cmpl
+6718	Objc
+6720	Subj
+6724	Cmpl
+6729	Objc
+6732	Subj
+6735	Cmpl
+6746	Subj
+6785	Objc
+6796	Pred
+6809	Objc
+6825	Pred
+6840	Objc
+6883	Pred
+6886	Pred
+6895	Subj
+6909	Cmpl
+6913	Subj
+Cmpl
+6926	Cmpl
+6928	Subj
+6934	Cmpl
+Subj
+6941	Subj
+6964	Subj
+6976	Subj
+7004	Subj
+7019	Cmpl
+Objc
+7034	Subj
+Subj
+7046	Objc
+Subj
+7067	Subj
+7076	Objc
+7078	Subj
+7090	Objc
+Subj
+7101	Objc
+Subj
+7104	Objc
+Subj
+7107	Objc
+Subj
+7110	Objc
+7113	Objc
+7120	Cmpl
+7126	Cmpl
+Subj
+7132	Cmpl
+7141	Cmpl
+7145	Subj
+7149	Cmpl
+7152	Subj
+7157	Objc
+7166	Cmpl
+7180	Cmpl
+7233	Objc
+7236	Pred
+7250	Cmpl
+7258	Objc
+7265	Objc
+7270	Subj
+7277	Subj
+7297	Subj
+7310	Subj
+7321	Objc
+7325	Objc
+7329	Pred
+7347	Subj
+7367	Pred
+7376	Subj
+7384	Subj
+7389	Subj
+7391	Objc
+Subj
+7394	Objc
+Subj
+7397	Objc
+7401	Cmpl
+7428	Objc
+7441	Objc
+7455	Cmpl
+7468	Objc
+Subj
+7472	Cmpl
+7475	Objc
+7480	Cmpl
+7486	Objc
+Subj
+7503	Subj
+7521	Objc
+7527	Objc
+7539	Cmpl
+7541	Pred
+7549	Objc
+7551	Subj
+7557	Subj
+Pred
+7567	Pred
+7573	Pred
+7589	Cmpl
+Pred
+7597	Objc
+7599	Subj
+7608	Subj
+7621	Objc
+7623	Cmpl
+7658	Cmpl
+7665	Subj
+7689	Subj
+7708	Objc
+7721	Pred
+7731	Pred
+7762	Objc
+7768	Pred
+7792	Objc
+7794	Pred
+7805	Objc
+7807	Subj
+7817	Objc
+7825	Pred
+7843	Objc
+7847	Objc
+7849	Pred
+7865	Objc
+7884	Pred
+7904	Objc
+7910	Pred
+7923	Cmpl
+7925	Subj
+7928	Cmpl
+7938	Pred
+7942	Subj
+7969	Objc
+7976	Subj
+7980	Cmpl
+7988	Subj
+7999	Pred
+8016	Subj
+8022	Cmpl
+8033	Cmpl
+8036	Subj
+Pred
+8074	Subj
+8079	Subj
+8115	Cmpl
+8120	Objc
+8123	Objc
+8131	Objc
+8154	Cmpl
+8156	Objc
+8159	Subj
+8167	Cmpl
+8192	Objc
+8222	Objc
+8246	Objc
+8265	Subj
+8273	Pred
+8292	Cmpl
+Objc
+8298	Cmpl
+8300	Objc
+8304	Cmpl
+Subj
+8307	Subj
+8310	Cmpl
+8321	Subj
+8325	Cmpl
+8327	Objc
+8363	Subj
+8397	Objc
+8417	Subj
+8420	Pred
+8439	Pred
+8458	Subj
+8466	Pred
+8478	Cmpl
+8481	Subj
+8487	Cmpl
+8493	Subj
+8496	Subj
+8503	Subj
+8512	Subj
+8534	Objc
+8543	Objc
+8546	Cmpl
+8553	Subj
+8566	Objc
+8582	Objc
+8596	Cmpl
+8603	Objc
+8613	Subj
+8642	Objc
+8644	Subj
+8648	Cmpl
+8680	Subj
+8683	Subj
+8691	Pred
+Objc
+8722	Subj
+8729	Objc
+8742	Objc
+8744	Objc
+8752	Cmpl
+8771	Subj
+8780	Cmpl
+8789	Subj
+8795	Objc
+8805	Objc
+8810	Subj
+8812	Objc
+8815	Subj
+8824	Cmpl
+8826	Cmpl
+8829	Subj
+8835	Pred
+8864	Subj
+8881	Subj
+8920	Objc
+8929	Subj
+8933	Cmpl
+Objc
+8941	Objc
+8944	Objc
+8949	Subj
+8964	Subj
+8968	Objc
+8972	Objc
+Subj
+8979	Pred
+8989	Subj
+9015	Cmpl
+9018	Pred
+9023	Cmpl
+9070	Objc
+9077	Objc
+9083	Subj
+9085	Subj
+Pred
+9088	Subj
+9091	Subj
+9119	Objc
+9135	Cmpl
+9139	Cmpl
+9150	Cmpl
+9156	Subj
+9192	Subj
+9236	Subj
+9242	Cmpl
+Subj
+9247	Cmpl
+Subj
+9251	Pred
+9259	Pred
+9283	Objc
+9286	Subj
+9289	Cmpl
+9297	Objc
+9307	Objc
+9313	Cmpl
+9324	Subj
+9331	Objc
+9345	Objc
+9379	Cmpl
+9423	Pred
+9432	Subj
+9435	Subj
+9440	Subj
+9442	Objc
+Subj
+9451	Cmpl
+Subj
+9454	Pred
+Subj
+9463	Subj
+9478	Cmpl
+Pred
+9489	Cmpl
+9498	Subj
+9500	Cmpl
+9503	Subj
+9505	Pred
+9520	Objc
+9522	Cmpl
+9530	Objc
+9542	Objc
+9558	Cmpl
+9561	Subj
+9576	Subj
+9581	Objc
+9599	Objc
+9604	Objc
+9606	Pred
+9612	Pred
+Subj
+Subj
+9645	Subj
+9651	Objc
+9659	Objc
+Subj
+9669	Objc
+Subj
+9680	Objc
+Objc
+9684	Subj
+9696	Objc
+9698	Subj
+9723	Cmpl
+9730	Cmpl
+9737	Subj
+9741	Objc
+9772	Objc
+9795	Pred
+9802	Cmpl
+9817	Pred
+9819	Subj
+Pred
+9828	Cmpl
+Objc
+9831	Cmpl
+Objc
+9834	Cmpl
+Objc
+9837	Subj
+9843	Objc
+9846	Subj
+9851	Subj
+9862	Objc
+9880	Objc
+9891	Objc
+9900	Subj
+9905	Cmpl
+9909	Cmpl
+9924	Objc
+9934	Subj
+9938	Subj
+9942	Subj
+9947	Objc
+9950	Cmpl
+9952	Subj
+9958	Objc
+9963	Objc
+9985	Cmpl
+9993	Subj
+9995	Objc
+10021	Objc
+10028	Objc
+10048	Objc
+10050	Cmpl
+Objc
+10055	Cmpl
+10083	Subj
+10087	Objc
+Subj
+10091	Cmpl
+10099	Cmpl
+10116	Subj
+10121	Subj
+10126	Cmpl
+10140	Objc
+10151	Subj
+10168	Objc
+10177	Objc
+10181	Subj
+10209	Cmpl
+10213	Pred
+10221	Objc
+10226	Objc
+10239	Objc
+Objc
+10243	Cmpl
+10258	Subj
+10260	Pred
+10269	Objc
+10271	Objc
+10279	Cmpl
+10296	Subj
+10299	Objc
+10304	Subj
+10314	Subj
+10324	Objc
+10326	Subj
+10355	Subj
+10361	Pred
+10367	Subj
+10385	Objc
+10387	Objc
+10392	Pred
+10421	Objc
+10423	Objc
+10428	Pred
+10455	Cmpl
+10473	Subj
+10504	Objc
+10507	Cmpl
+10524	Pred
+10546	Objc
+10553	Objc
+10583	Objc
+10603	Cmpl
+Objc
+10615	Objc
+10628	Cmpl
+10641	Objc
+10674	Cmpl
+10685	Cmpl
+10689	Cmpl
+10694	Cmpl
+10710	Subj
+10713	Objc
+10720	Subj
+10724	Cmpl
+10731	Subj
+10746	Objc
+10755	Objc
+10761	Objc
+10763	Cmpl
+10772	Objc
+10777	Cmpl
+10788	Subj
+10790	Cmpl
+10795	Objc
+10800	Objc
+10808	Objc
+10815	Cmpl
+Subj
+10823	Objc
+10850	Objc
+10855	Cmpl
+10863	Cmpl
+10866	Objc
+10876	Subj
+Objc
+10885	Objc
+10894	Cmpl
+10903	Cmpl
+10907	Subj
+10940	Objc
+10945	Objc
+10950	Subj
+10952	Objc
+10964	Subj
+10979	Objc
+10985	Subj
+11006	Pred
+11010	Objc
+11015	Subj
+11019	Cmpl
+11022	Subj
+11030	Cmpl
+11032	Subj
+11038	Cmpl
+11051	Cmpl
+11053	Subj
+11064	Objc
+11067	Cmpl
+11071	Pred
+11083	Subj
+11086	Cmpl
+11088	Subj
+11094	Cmpl
+11099	Subj
+11108	Subj
+11116	Subj
+11118	Objc
+11130	Cmpl
+Subj
+11136	Cmpl
+11143	Objc
+11154	Subj
+11170	Cmpl
+11175	Subj
+11177	Cmpl
+11187	Subj
+11190	Cmpl
+11192	Objc
+11197	Pred
+11212	Cmpl
+Objc
+11239	Objc
+11241	Cmpl
+11247	Objc
+11251	Cmpl
+11256	Pred
+11265	Cmpl
+11268	Objc
+11274	Objc
+11297	Cmpl
+11299	Subj
+11310	Cmpl
+Pred
+11313	Subj
+11319	Subj
+11332	Subj
+11341	Cmpl
+11344	Subj
+Pred
+11350	Subj
+Pred
+11357	Cmpl
+11359	Subj
+11361	Objc
+11364	Objc
+Subj
+11368	Pred
+11373	Cmpl
+11376	Cmpl
+11381	Objc
+11409	Subj
+11428	Objc
+11438	Pred
+11440	Subj
+Pred
+Pred
+11451	Subj
+11456	Objc
+11471	Objc
+11489	Cmpl
+11498	Subj
+11501	Pred
+11503	Cmpl
+Subj
+11523	Subj
+11527	Cmpl
+11536	Cmpl
+11538	Subj
+Objc
+11542	Cmpl
+11549	Subj
+11583	Objc
+11590	Objc
+11613	Objc
+Objc
+11626	Subj
+11635	Objc
+11657	Objc
+11667	Pred
+11670	Subj
+Pred
+11677	Pred
+11681	Pred
+11685	Subj
+11698	Cmpl
+11715	Objc
+11720	Objc
+11750	Objc
+11753	Subj
+11756	Cmpl
+Objc
+11760	Cmpl
+11769	Subj
+11773	Subj
+11788	Objc
+11794	Objc
+Subj
+11799	Cmpl
+11802	Cmpl
+11819	Subj
+Objc
+11823	Cmpl
+11842	Objc
+11851	Objc
+11858	Pred
+11863	Subj
+11868	Pred
+11874	Subj
+11880	Pred
+11904	Subj
+11908	Objc
+11921	Subj
+11927	Objc
+11934	Objc
+11937	Subj
+11944	Objc
+11952	Objc
+11955	Objc
+11958	Cmpl
+11960	Cmpl
+11980	Objc
+11996	Subj
+12001	Cmpl
+12012	Subj
+12015	Subj
+12020	Cmpl
+12023	Subj
+Cmpl
+12026	Objc
+12037	Objc
+Subj
+12077	Cmpl
+12107	Subj
+12110	Objc
+12130	Subj
+12140	Subj
+12146	Subj
+12154	Pred
+12156	Subj
+12161	Subj
+12173	Subj
+12202	Cmpl
+12210	Subj
+12212	Objc
+12227	Objc
+12237	Objc
+12249	Subj
+12256	Cmpl
+12258	Objc
+Subj
+12265	Cmpl
+12276	Objc
+12279	Objc
+12307	Objc
+12313	Objc
+12317	Cmpl
+12322	Subj
+12348	Cmpl
+12351	Cmpl
+12354	Objc
+12379	Objc
+12389	Subj
+12407	Objc
+12410	Subj
+Cmpl
+12421	Cmpl
+12423	Objc
+Subj
+12427	Objc
+12430	Cmpl
+Subj
+Cmpl
+12437	Objc
+12443	Pred
+12450	Subj
+12461	Cmpl
+12467	Objc
+12476	Subj
+12491	Cmpl
+12495	Subj
+12497	Cmpl
+12501	Objc
+12503	Subj
+12507	Subj
+12522	Subj
+12526	Subj
+12537	Subj
+12559	Cmpl
+12564	Cmpl
+12580	Subj
+12589	Objc
+12597	Objc
+Subj
+12606	Objc
+12610	Subj
+12612	Pred
+Subj
+12615	Objc
+12617	Objc
+Cmpl
+12624	Objc
+12627	Objc
+12630	Objc
+Cmpl
+12659	Objc
+12662	Objc
+12665	Objc
+12677	Cmpl
+12701	Subj
+12707	Objc
+12715	Objc
+12729	Objc
+12735	Cmpl
+12739	Objc
+12746	Subj
+12748	Cmpl
+12756	Cmpl
+12765	Objc
+12769	Subj
+12777	Subj
+12780	Pred
+12787	Cmpl
+12812	Objc
+12817	Objc
+12835	Objc
+12843	Objc
+12853	Cmpl
+12862	Subj
+12864	Objc
+12904	Subj
+Pred
+12910	Subj
+12914	Subj
+12920	Subj
+12962	Pred
+12969	Pred
+12978	Objc
+12995	Objc
+13022	Cmpl
+13031	Subj
+13046	Objc
+13052	Pred
+13061	Pred
+13064	Subj
+Pred
+13067	Subj
+13072	Objc
+13075	Objc
+13081	Cmpl
+13092	Pred
+13116	Cmpl
+Subj
+13122	Objc
+Cmpl
+13135	Objc
+13139	Cmpl
+13144	Subj
+13147	Cmpl
+Objc
+13151	Cmpl
+Pred
+13160	Pred
+13163	Cmpl
+13168	Cmpl
+13180	Objc
+13192	Subj
+13195	Objc
+13198	Subj
+13201	Subj
+13205	Objc
+13215	Objc
+13233	Objc
+13266	Subj
+13269	Objc
+13275	Cmpl
+13311	Cmpl
+13316	Subj
+13335	Pred
+13364	Objc
+13366	Pred
+13372	Subj
+13375	Cmpl
+13398	Subj
+13405	Subj
+Pred
+13413	Objc
+13431	Objc
+13435	Subj
+13445	Cmpl
+13449	Cmpl
+13452	Subj
+13456	Objc
+Objc
+13460	Subj
+13480	Subj
+13482	Objc
+Objc
+13489	Subj
+13492	Cmpl
+Objc
+13496	Subj
+13502	Objc
+13527	Objc
+13530	Cmpl
+13557	Subj
+13565	Objc
+13610	Pred
+Subj
+13615	Pred
+Pred
+13625	Pred
+13635	Pred
+13645	Pred
+13660	Subj
+13663	Objc
+13666	Subj
+13668	Objc
+13670	Subj
+13672	Cmpl
+13686	Subj
+13695	Subj
+Cmpl
+13709	Objc
+Objc
+13715	Objc
+13720	Subj
+Cmpl
+13726	Subj
+13732	Pred
+13734	Subj
+13747	Subj
+13749	Pred
+13761	Subj
+13767	Pred
+13769	Subj
+13781	Subj
+13783	Pred
+13840	Subj
+Cmpl
+13870	Objc
+13874	Objc
+13887	Subj
+Cmpl
+13923	Pred
+Subj
+Cmpl
+13934	Subj
+13938	Pred
+13955	Pred
+13959	Pred
+13963	Subj
+Cmpl
+14003	Cmpl
+14012	Subj
+14032	Subj
+14083	Objc
+14093	Cmpl
+14121	Subj
+14134	Cmpl
+14140	Cmpl
+14143	Objc
+14170	Cmpl
+14175	Subj
+14179	Cmpl
+14186	Cmpl
+14194	Subj
+14199	Subj
+14213	Cmpl
+14215	Subj
+14218	Pred
+14233	Cmpl
+14236	Subj
+Objc
+14239	Subj
+14247	Subj
+14252	Objc
+14274	Subj
+14278	Subj
+14295	Objc
+14300	Objc
+14315	Subj
+14317	Objc
+14321	Objc
+14328	Objc
+14345	Subj
+14421	Subj
+14450	Subj
+14485	Subj
+Cmpl
+14489	Pred
+14493	Pred
+14510	Pred
+14516	Cmpl
+14520	Cmpl
+14545	Pred
+14553	Pred
+14666	Pred
+14673	Pred
+14678	Subj
+14685	Pred
+14691	Cmpl
+14724	Subj
+14745	Pred
+14774	Subj
+14787	Objc
+Pred
+14799	Subj
+14803	Subj
+14806	Subj
+14808	Subj
+14813	Subj
+14816	Subj
+14829	Objc
+14857	Pred
+14868	Pred
+14876	Objc
+14886	Cmpl
+14891	Pred
+14895	Subj
+14905	Cmpl
+14913	Objc
+14961	Objc
+14970	Pred
+14987	Subj
+15002	Pred
+15004	Subj
+Pred
+15016	Objc
+15021	Objc
+15034	Subj
+15040	Subj
+15066	Cmpl
+15096	Cmpl
+15099	Subj
+15128	Cmpl
+Subj
+15135	Cmpl
+15138	Objc
+15151	Subj
+15159	Cmpl
+15164	Cmpl
+15169	Cmpl
+15171	Objc
+Cmpl
+15174	Objc
+Cmpl
+15210	Objc
+15230	Objc
+15248	Cmpl
+15256	Cmpl
+15268	Pred
+15271	Objc
+15290	Cmpl
+15298	Cmpl
+15310	Pred
+15313	Objc
+15333	Objc
+15367	Cmpl
+15384	Subj
+15394	Subj
+15426	Objc
+15441	Pred
+15482	Objc
+15524	Cmpl
+15533	Cmpl
+15538	Objc
+Pred
+15543	Objc
+Pred
+15547	Objc
+15551	Objc
+15561	Cmpl
+15567	Subj
+15578	Subj
+15580	Pred
+15584	Pred
+15589	Subj
+15604	Cmpl
+15607	Cmpl
+15618	Cmpl
+15648	Cmpl
+15654	Objc
+Pred
+15660	Objc
+Pred
+15665	Objc
+15673	Objc
+15681	Subj
+15698	Objc
+15701	Cmpl
+15705	Cmpl
+15715	Cmpl
+15719	Subj
+15776	Pred
+15794	Subj
+15812	Subj
+15822	Subj
+15837	Subj
+15842	Cmpl
+15848	Cmpl
+15850	Objc
+15867	Objc
+15874	Subj
+15885	Objc
+15889	Cmpl
+15902	Objc
+15904	Subj
+15921	Objc
+15923	Cmpl
+15925	Subj
+Cmpl
+15928	Objc
+Subj
+15932	Cmpl
+15939	Objc
+15941	Objc
+15957	Cmpl
+15961	Subj
+15973	Cmpl
+15980	Pred
+15997	Cmpl
+16004	Subj
+16014	Subj
+16018	Cmpl
+16024	Objc
+16030	Cmpl
+16034	Subj
+16037	Subj
+16050	Subj
+Objc
+16063	Subj
+16075	Pred
+16089	Objc
+16092	Subj
+16096	Cmpl
+Subj
+16101	Subj
+16105	Objc
+16116	Subj
+16123	Objc
+16127	Cmpl
+16132	Subj
+Subj
+16150	Cmpl
+16167	Objc
+16188	Cmpl
+16215	Subj
+16226	Cmpl
+16228	Subj
+16232	Subj
+16236	Cmpl
+16241	Cmpl
+16248	Subj
+16252	Objc
+16254	Cmpl
+16259	Subj
+16265	Objc
+16282	Pred
+16309	Cmpl
+Pred
+16336	Pred
+16347	Subj
+16351	Subj
+16359	Subj
+16384	Pred
+16388	Pred
+16400	Subj
+16404	Objc
+16414	Subj
+16424	Objc
+16442	Cmpl
+16466	Objc
+16469	Subj
+16496	Objc
+16498	Cmpl
+Objc
+16501	Objc
+16504	Subj
+16507	Objc
+16518	Objc
+16523	Cmpl
+16538	Objc
+16564	Cmpl
+16579	Objc
+16594	Cmpl
+16627	Objc
+16638	Objc
+16654	Objc
+16677	Objc
+16703	Objc
+16708	Objc
+16719	Subj
+16721	Subj
+16739	Cmpl
+Objc
+16742	Objc
+Subj
+16754	Cmpl
+16756	Objc
+16763	Cmpl
+16766	Subj
+16775	Cmpl
+16778	Subj
+16782	Cmpl
+16821	Subj
+16824	Subj
+16828	Pred
+16839	Objc
+Subj
+16845	Cmpl
+16847	Pred
+16851	Objc
+16873	Subj
+16881	Objc
+16889	Objc
+Subj
+16895	Subj
+16931	Objc
+Objc
+16946	Subj
+16958	Subj
+16962	Objc
+16968	Subj
+16971	Objc
+16986	Objc
+16989	Objc
+17001	Objc
+17018	Subj
+17021	Pred
+17024	Subj
+17047	Objc
+17055	Objc
+17097	Objc
+17104	Objc
+17112	Cmpl
+Subj
+17123	Objc
+17127	Subj
+17137	Subj
+17143	Subj
+17149	Objc
+17153	Cmpl
+17158	Objc
+Objc
+17164	Cmpl
+17185	Objc
+17193	Pred
+17196	Subj
+17198	Cmpl
+17201	Objc
+17204	Cmpl
+17210	Pred
+17217	Objc
+17220	Subj
+17231	Pred
+17237	Objc
+17267	Cmpl
+17274	Cmpl
+Subj
+17281	Cmpl
+17284	Objc
+17290	Pred
+17292	Subj
+17294	Subj
+17301	Subj
+17312	Objc
+17316	Subj
+17319	Objc
+17327	Pred
+17333	Subj
+17353	Cmpl
+17382	Objc
+17386	Cmpl
+17389	Objc
+17398	Objc
+17408	Objc
+17430	Objc
+17432	Objc
+17437	Objc
+17443	Objc
+17453	Pred
+Objc
+17467	Subj
+17473	Cmpl
+17486	Objc
+17492	Objc
+17496	Objc
+17508	Subj
+17521	Subj
+17525	Subj
+17532	Objc
+17549	Objc
+17570	Objc
+17572	Objc
+17596	Objc
+17614	Objc
+17619	Subj
+17643	Subj
+17651	Objc
+17661	Objc
+17663	Subj
+17672	Objc
+17678	Cmpl
+17680	Objc
+17689	Subj
+17691	Objc
+17750	Cmpl
+17774	Subj
+17777	Pred
+17783	Subj
+17791	Objc
+17812	Subj
+17820	Subj
+Pred
+17828	Subj
+17849	Objc
+17855	Objc
+17861	Objc
+17892	Subj
+17934	Objc
+17948	Pred
+17952	Cmpl
+17956	Objc
+17961	Subj
+18023	Pred
+18047	Subj
+18057	Pred
+18088	Objc
+18092	Cmpl
+18111	Subj
+18113	Objc
+18116	Subj
+18125	Objc
+18128	Cmpl
+18144	Objc
+18148	Subj
+18168	Objc
+18185	Objc
+Subj
+18191	Subj
+18195	Subj
+18198	Objc
+Objc
+18201	Subj
+18204	Objc
+18232	Cmpl
+18237	Objc
+18239	Subj
+18247	Cmpl
+18250	Cmpl
+18266	Objc
+18280	Subj
+18283	Objc
+18285	Cmpl
+18288	Subj
+18322	Subj
+18336	Objc
+18410	Pred
+18418	Subj
+18420	Objc
+18422	Subj
+18425	Objc
+18435	Subj
+18466	Subj
+18471	Subj
+18485	Objc
+18510	Objc
+18566	Pred
+18569	Cmpl
+18577	Subj
+18587	Objc
+18602	Subj
+18612	Objc
+18650	Objc
+18652	Objc
+18673	Subj
+18681	Objc
+18683	Objc
+Pred
+18692	Objc
+18702	Objc
+18716	Subj
+18719	Subj
+18721	Pred
+18723	Subj
+18736	Objc
+18776	Cmpl
+18782	Objc
+18788	Objc
+18793	Objc
+Subj
+18839	Objc
+18855	Objc
+18863	Objc
+18866	Cmpl
+18868	Subj
+18870	Objc
+18873	Cmpl
+18907	Subj
+18909	Objc
+18913	Cmpl
+18918	Objc
+18929	Cmpl
+18943	Objc
+18946	Objc
+18949	Cmpl
+18951	Cmpl
+Objc
+18956	Objc
+18966	Objc
+18968	Subj
+18972	Subj
+18977	Objc
+18984	Subj
+19015	Subj
+19026	Cmpl
+19042	Cmpl
+19049	Pred
+19089	Subj
+19093	Subj
+19096	Objc
+19116	Cmpl
+19118	Objc
+19124	Subj
+19126	Pred
+19148	Objc
+19155	Objc
+19162	Cmpl
+19187	Subj
+19212	Objc
+19226	Cmpl
+19228	Objc
+19232	Objc
+19236	Subj
+19255	Pred
+19258	Objc
+19288	Cmpl
+19302	Objc
+19304	Objc
+19318	Cmpl
+19338	Cmpl
+19367	Subj
+19381	Subj
+19406	Subj
+19436	Subj
+19449	Objc
+19458	Cmpl
+19464	Subj
+19469	Cmpl
+19472	Objc
+19474	Subj
+19476	Objc
+19501	Objc
+19518	Cmpl
+19549	Pred
+19557	Objc
+19562	Objc
+19565	Objc
+19581	Cmpl
+19585	Objc
+19589	Objc
+19593	Subj
+19598	Objc
+19629	Objc
+19634	Objc
+19677	Objc
+19688	Subj
+19690	Objc
+19697	Objc
+Objc
+19705	Objc
+19707	Subj
+19709	Objc
+19716	Objc
+19724	Subj
+19733	Objc
+19736	Objc
+Objc
+19746	Objc
+19748	Subj
+19755	Objc
+19763	Objc
+19767	Objc
+19777	Objc
+19780	Objc
+19794	Cmpl
+Objc
+19797	Subj
+19825	Subj
+19828	Objc
+19841	Subj
+19843	Objc
+19852	Objc
+19866	Objc
+19880	Objc
+19884	Cmpl
+19887	Subj
+Objc
+19892	Subj
+19904	Subj
+19927	Objc
+19932	Subj
+19957	Cmpl
+19970	Objc
+19973	Subj
+19984	Objc
+19989	Pred
+20014	Objc
+20019	Subj
+20022	Cmpl
+20037	Objc
+20040	Cmpl
+20042	Pred
+20066	Subj
+20073	Subj
+20095	Subj
+20116	Objc
+20119	Objc
+20122	Cmpl
+20138	Subj
+20150	Objc
+20152	Subj
+20182	Objc
+20185	Subj
+20196	Objc
+20198	Objc
+20202	Subj
+20211	Objc
+20227	Subj
+20229	Objc
+20238	Objc
+20249	Cmpl
+Cmpl
+20284	Cmpl
+20287	Cmpl
+20304	Pred
+20339	Subj
+20348	Objc
+20352	Objc
+20356	Pred
+20369	Pred
+20376	Subj
+20403	Pred
+20415	Subj
+20433	Cmpl
+20465	Subj
+20472	Subj
+20474	Objc
+20479	Cmpl
+20481	Objc
+20488	Cmpl
+20491	Cmpl
+Subj
+20496	Cmpl
+20498	Subj
+20502	Objc
+20509	Pred
+20516	Subj
+20539	Subj
+20545	Objc
+20547	Objc
+20549	Pred
+Subj
+20578	Objc
+20584	Subj
+20590	Pred
+20605	Pred
+20629	Cmpl
+20640	Cmpl
+20648	Objc
+20651	Cmpl
+20656	Subj
+20667	Objc
+20697	Subj
+20708	Objc
+20711	Cmpl
+20739	Cmpl
+20741	Pred
+20747	Objc
+20756	Pred
+20758	Subj
+20768	Objc
+20783	Subj
+20789	Objc
+20797	Subj
+20808	Subj
+20810	Objc
+20814	Subj
+20831	Subj
+20833	Objc
+20852	Objc
+20863	Objc
+20869	Subj
+20880	Objc
+20884	Objc
+20888	Cmpl
+20899	Objc
+Pred
+20905	Cmpl
+Pred
+20910	Pred
+20914	Objc
+20918	Objc
+20935	Objc
+20938	Objc
+20948	Cmpl
+20979	Objc
+20993	Pred
+21018	Cmpl
+21032	Subj
+21040	Subj
+21045	Objc
+21055	Objc
+21058	Cmpl
+21069	Cmpl
+Objc
+21073	Cmpl
+21077	Objc
+21086	Objc
+21088	Cmpl
+21092	Subj
+21121	Pred
+21124	Objc
+21132	Objc
+21139	Pred
+21146	Cmpl
+21157	Objc
+21162	Objc
+21172	Objc
+21184	Objc
+21250	Subj
+21257	Cmpl
+21265	Objc
+21268	Subj
+Objc
+21275	Objc
+21284	Subj
+21293	Cmpl
+21297	Subj
+21300	Cmpl
+21306	Objc
+21312	Pred
+21318	Subj
+21352	Subj
+21385	Cmpl
+21398	Objc
+Subj
+21402	Objc
+21417	Pred
+21428	Cmpl
+21431	Subj
+21436	Cmpl
+21457	Cmpl
+21460	Subj
+21462	Objc
+21466	Cmpl
+21479	Objc
+21485	Subj
+21498	Cmpl
+Subj
+21501	Pred
+21506	Cmpl
+21517	Subj
+21549	Cmpl
+21555	Subj
+Pred
+21606	Objc
+21612	Cmpl
+21620	Cmpl
+21622	Objc
+21628	Objc
+21631	Objc
+21633	Objc
+21638	Objc
+21641	Objc
+21649	Cmpl
+21667	Objc
+21670	Objc
+21705	Pred
+21728	Subj
+21732	Pred
+21734	Subj
+21738	Pred
+21748	Objc
+Subj
+21752	Subj
+21764	Objc
+21776	Objc
+21798	Objc
+21801	Objc
+21813	Objc
+21820	Objc
+21823	Objc
+21828	Objc
+21835	Subj
+21839	Objc
+21874	Objc
+Objc
+21880	Cmpl
+21883	Cmpl
+21886	Objc
+21889	Cmpl
+21901	Objc
+21903	Subj
+21925	Cmpl
+21934	Pred
+21947	Objc
+21953	Objc
+21962	Objc
+21975	Objc
+21982	Objc
+21999	Objc
+22011	Cmpl
+22013	Objc
+22016	Objc
+22020	Cmpl
+22039	Pred
+22056	Subj
+22060	Subj
+22087	Objc
+22091	Objc
+Objc
+22095	Subj
+Pred
+22099	Cmpl
+22105	Pred
+22111	Subj
+Pred
+22114	Objc
+22124	Cmpl
+Objc
+22127	Subj
+22131	Cmpl
+22133	Cmpl
+Subj
+22138	Cmpl
+22146	Cmpl
+22148	Subj
+22151	Cmpl
+22166	Cmpl
+22168	Objc
+22208	Cmpl
+22214	Cmpl
+22217	Subj
+22256	Subj
+22262	Objc
+22269	Subj
+22279	Subj
+Pred
+22286	Subj
+22295	Pred
+22313	Subj
+22316	Subj
+22323	Pred
+22327	Subj
+22329	Objc
+22333	Subj
+22341	Cmpl
+22343	Subj
+22389	Subj
+22395	Objc
+22434	Objc
+22444	Subj
+22447	Objc
+22471	Subj
+22473	Pred
+22506	Subj
+Pred
+22509	Objc
+22520	Objc
+22544	Subj
+22547	Cmpl
+22550	Subj
+22563	Objc
+22576	Objc
+22578	Objc
+22593	Cmpl
+22605	Subj
+22624	Subj
+22629	Subj
+22636	Subj
+22638	Pred
+Objc
+22646	Subj
+Objc
+22662	Objc
+22675	Cmpl
+22677	Objc
+Subj
+22681	Pred
+22689	Subj
+22692	Objc
+22713	Objc
+22721	Cmpl
+22725	Pred
+22739	Objc
+22769	Subj
+22820	Subj
+22850	Pred
+Pred
+22856	Objc
+22867	Cmpl
+22876	Pred
+22886	Subj
+22891	Cmpl
+22908	Cmpl
+22960	Cmpl
+22966	Objc
+22969	Cmpl
+22974	Objc
+23002	Cmpl
+23004	Subj
+23025	Cmpl
+23027	Cmpl
+23029	Objc
+23031	Cmpl
+23033	Subj
+23042	Objc
+23050	Subj
+23063	Objc
+23069	Cmpl
+23083	Objc
+23105	Cmpl
+23111	Objc
+23113	Subj
+23121	Objc
+23125	Subj
+23128	Objc
+23161	Objc
+23182	Objc
+23209	Objc
+23214	Objc
+23226	Objc
+23229	Cmpl
+23235	Subj
+23238	Objc
+23248	Objc
+23263	Cmpl
+23281	Objc
+23287	Cmpl
+23291	Objc
+23303	Objc
+23308	Objc
+23329	Cmpl
+Objc
+23344	Objc
+23347	Cmpl
+23356	Cmpl
+Objc
+23360	Objc
+23362	Objc
+23371	Objc
+23384	Cmpl
+23386	Objc
+23388	Objc
+23417	Objc
+23420	Objc
+23453	Cmpl
+Pred
+Subj
+23460	Subj
+23463	Cmpl
+23470	Subj
+Objc
+Subj
+23479	Subj
+23481	Objc
+Subj
+23484	Pred
+Subj
+23492	Cmpl
+Subj
+23499	Cmpl
+23501	Cmpl
+23508	Objc
+23515	Objc
+23544	Objc
+23547	Objc
+Subj
+23557	Objc
+23583	Cmpl
+23585	Subj
+23591	Objc
+23599	Objc
+Subj
+23609	Objc
+Subj
+23623	Objc
+23627	Objc
+23637	Objc
+23640	Subj
+23645	Subj
+23668	Objc
+23684	Cmpl
+23687	Cmpl
+23694	Subj
+23698	Objc
+23725	Objc
+23755	Cmpl
+Subj
+23772	Pred
+23774	Subj
+Pred
+23781	Cmpl
+Objc
+23784	Cmpl
+Objc
+23787	Cmpl
+Objc
+23792	Objc
+23794	Pred
+23799	Subj
+23801	Objc
+23804	Subj
+23808	Subj
+23816	Objc
+23821	Objc
+23831	Subj
+23836	Cmpl
+23838	Cmpl
+Objc
+23859	Pred
+23867	Objc
+23874	Subj
+23878	Subj
+23881	Cmpl
+Subj
+23887	Objc
+23897	Objc
+23903	Cmpl
+23910	Cmpl
+Objc
+23928	Subj
+23938	Objc
+23943	Objc
+23946	Objc
+Objc
+23953	Cmpl
+23971	Objc
+23974	Objc
+23989	Objc
+23994	Subj
+23997	Cmpl
+24010	Objc
+24012	Objc
+24017	Objc
+24022	Objc
+24027	Objc
+24044	Subj
+24047	Subj
+24057	Objc
+24064	Objc
+24067	Objc
+24070	Objc
+24078	Cmpl
+24082	Subj
+Pred
+24104	Subj
+24111	Cmpl
+24117	Subj
+24119	Cmpl
+24152	Objc
+24157	Subj
+24166	Objc
+24168	Subj
+24172	Objc
+24175	Cmpl
+24197	Subj
+24206	Cmpl
+24218	Objc
+24225	Subj
+24232	Objc
+24244	Objc
+Objc
+24250	Subj
+24260	Subj
+Pred
+24269	Cmpl
+24271	Subj
+24273	Pred
+24283	Objc
+24285	Objc
+24291	Objc
+24293	Cmpl
+Subj
+24305	Objc
+24308	Subj
+24310	Objc
+24313	Objc
+24318	Objc
+24320	Cmpl
+24325	Subj
+24331	Objc
+Subj
+24335	Objc
+24338	Objc
+24342	Objc
+24349	Objc
+Pred
+24353	Subj
+24355	Objc
+24364	Objc
+Subj
+24374	Subj
+24378	Objc
+24384	Pred
+24388	Cmpl
+24397	Subj
+24406	Pred
+24426	Objc
+24431	Objc
+Pred
+24434	Subj
+24460	Objc
+24462	Objc
+Pred
+24465	Subj
+24486	Objc
+24488	Objc
+Pred
+Subj
+24518	Subj
+24522	Pred
+24529	Pred
+24533	Objc
+24538	Objc
+24559	Subj
+24567	Objc
+24570	Subj
+24572	Objc
+24576	Objc
+24579	Objc
+Subj
+24584	Cmpl
+Objc
+Cmpl
+24588	Subj
+Subj
+24593	Subj
+24603	Cmpl
+24609	Cmpl
+24621	Objc
+24625	Subj
+24642	Pred
+24646	Objc
+24651	Subj
+24664	Objc
+24667	Cmpl
+Subj
+24676	Objc
+24682	Subj
+24688	Objc
+24692	Cmpl
+Objc
+24695	Objc
+24701	Objc
+24709	Cmpl
+24718	Objc
+24729	Cmpl
+Subj
+24739	Subj
+24747	Objc
+24756	Subj
+24760	Subj
+24763	Objc
+24765	Objc
+24768	Objc
+24778	Cmpl
+24780	Objc
+24782	Objc
+Subj
+Pred
+24810	Subj
+24813	Cmpl
+24825	Objc
+24827	Objc
+24830	Cmpl
+Subj
+Objc
+24835	Objc
+24844	Objc
+24850	Objc
+Subj
+24898	Cmpl
+24909	Pred
+24911	Subj
+24919	Subj
+24926	Subj
+24934	Subj
+24938	Objc
+24944	Pred
+24949	Subj
+24951	Pred
+24959	Cmpl
+24961	Subj
+24963	Objc
+24966	Objc
+24972	Cmpl
+Pred
+24975	Subj
+25030	Pred
+25034	Pred
+25046	Objc
+25061	Cmpl
+25085	Objc
+25089	Objc
+25094	Objc
+25097	Objc
+25100	Objc
+25118	Cmpl
+25122	Objc
+25125	Objc
+25127	Cmpl
+Subj
+25131	Cmpl
+Objc
+25134	Subj
+25136	Cmpl
+Subj
+25140	Cmpl
+25142	Cmpl
+25144	Subj
+25149	Subj
+25161	Cmpl
+25164	Objc
+25170	Objc
+Subj
+25177	Subj
+25180	Subj
+25183	Cmpl
+25189	Cmpl
+25192	Objc
+Subj
+25200	Subj
+25214	Subj
+25217	Cmpl
+25231	Objc
+25235	Cmpl
+25252	Pred
+25258	Subj
+25261	Pred
+25269	Subj
+25275	Pred
+25304	Subj
+25339	Objc
+25342	Cmpl
+Subj
+25346	Subj
+25354	Objc
+25361	Objc
+25367	Cmpl
+25371	Objc
+Subj
+25385	Cmpl
+25389	Objc
+Cmpl
+25397	Cmpl
+25405	Cmpl
+25411	Objc
+25417	Objc
+25442	Cmpl
+25465	Objc
+25470	Subj
+Cmpl
+25475	Objc
+25484	Objc
+25492	Subj
+25502	Objc
+25509	Cmpl
+Objc
+25515	Subj
+25518	Cmpl
+25525	Objc
+25535	Cmpl
+25544	Subj
+25552	Subj
+25554	Objc
+25581	Subj
+25594	Objc
+Pred
+25610	Subj
+25616	Subj
+25620	Objc
+25624	Objc
+25632	Objc
+25636	Objc
+25642	Pred
+25646	Cmpl
+25653	Subj
+Objc
+25697	Subj
+25699	Objc
+25707	Cmpl
+25720	Subj
+25723	Objc
+25736	Objc
+25740	Objc
+25772	Cmpl
+25777	Objc
+25785	Cmpl
+25791	Cmpl
+25793	Subj
+25815	Objc
+25823	Cmpl
+25825	Objc
+25841	Objc
+25855	Cmpl
+25869	Subj
+25883	Cmpl
+25887	Objc
+25890	Subj
+Cmpl
+25897	Objc
+25903	Cmpl
+25905	Objc
+25910	Cmpl
+25913	Cmpl
+25917	Objc
+25930	Cmpl
+25946	Objc
+25954	Subj
+25961	Pred
+25974	Cmpl
+25976	Subj
+25978	Cmpl
+25982	Objc
+25986	Cmpl
+25990	Objc
+Subj
+25995	Objc
+25998	Objc
+26001	Objc
+26004	Objc
+Cmpl
+26015	Objc
+26028	Objc
+26040	Objc
+26045	Objc
+26047	Objc
+26052	Objc
+26055	Objc
+26064	Objc
+26082	Subj
+26088	Objc
+26090	Pred
+26097	Objc
+26100	Objc
+26104	Objc
+26119	Cmpl
+26126	Objc
+26130	Subj
+26138	Subj
+26141	Pred
+26147	Objc
+26163	Objc
+26176	Objc
+26182	Cmpl
+26186	Pred
+26210	Objc
+Cmpl
+26218	Subj
+26225	Cmpl
+26227	Objc
+26230	Cmpl
+Objc
+26234	Subj
+26239	Cmpl
+Pred
+26247	Subj
+26250	Cmpl
+Pred
+26256	Cmpl
+26260	Cmpl
+26276	Subj
+26278	Subj
+26283	Objc
+26286	Subj
+26288	Cmpl
+26296	Objc
+26300	Objc
+26310	Objc
+26321	Objc
+26326	Objc
+26331	Objc
+26336	Objc
+26340	Pred
+26346	Objc
+26366	Objc
+Objc
+26369	Cmpl
+26418	Cmpl
+26422	Subj
+26437	Pred
+26446	Subj
+26452	Cmpl
+26454	Objc
+Pred
+26464	Subj
+26504	Subj
+Pred
+26511	Objc
+Pred
+26520	Cmpl
+26529	Pred
+26532	Pred
+26534	Subj
+26540	Objc
+26561	Objc
+Pred
+26573	Objc
+26578	Cmpl
+26580	Pred
+26588	Subj
+26591	Objc
+26621	Subj
+26642	Objc
+Objc
+26654	Objc
+26694	Objc
+26696	Subj
+26710	Objc
+26718	Objc
+26727	Subj
+26729	Pred
+26736	Cmpl
+26739	Cmpl
+26746	Objc
+26754	Subj
+26761	Subj
+26768	Objc
+26777	Subj
+26782	Cmpl
+26798	Cmpl
+26810	Subj
+26816	Subj
+26826	Objc
+26837	Cmpl
+26839	Subj
+26842	Pred
+26855	Cmpl
+26858	Subj
+Objc
+26861	Subj
+26869	Subj
+26872	Objc
+26891	Subj
+26895	Subj
+26899	Subj
+26903	Subj
+26906	Subj
+26909	Subj
+Objc
+26912	Objc
+26943	Objc
+26947	Objc
+26950	Subj
+26953	Cmpl
+26958	Objc
+26963	Subj
+26973	Subj
+Objc
+26978	Subj
+Objc
+26982	Subj
+26987	Objc
+27002	Subj
+27035	Objc
+27055	Subj
+27080	Subj
+27083	Pred
+27087	Objc
+27102	Subj
+27114	Objc
+27122	Subj
+Cmpl
+27126	Pred
+27130	Pred
+27147	Pred
+27150	Subj
+27154	Cmpl
+Objc
+27239	Pred
+27247	Pred
+27256	Subj
+27260	Pred
+27266	Cmpl
+27299	Subj
+27318	Pred
+27336	Cmpl
+27369	Subj
+27371	Objc
+27373	Cmpl
+27375	Cmpl
+27396	Objc
+27415	Subj
+27425	Subj
+27427	Subj
+27443	Subj
+27470	Objc
+27476	Objc
+27478	Cmpl
+Objc
+27497	Cmpl
+27500	Objc
+27505	Objc
+27519	Cmpl
+27530	Objc
+27532	Subj
+27549	Objc
+27551	Cmpl
+Subj
+27558	Cmpl
+Objc
+27564	Objc
+27578	Cmpl
+27598	Cmpl
+27605	Objc
+27611	Objc
+27623	Pred
+27637	Subj
+Cmpl
+27647	Cmpl
+27661	Cmpl
+27667	Subj
+27675	Subj
+27683	Cmpl
+27689	Objc
+27698	Cmpl
+27703	Subj
+Subj
+27707	Cmpl
+27729	Subj
+27741	Pred
+27751	Subj
+27753	Objc
+27758	Cmpl
+27762	Subj
+27769	Objc
+27772	Cmpl
+27777	Subj
+27780	Cmpl
+Subj
+27794	Cmpl
+27810	Objc
+27828	Cmpl
+27832	Subj
+27847	Subj
+27857	Cmpl
+27864	Subj
+27867	Cmpl
+27872	Cmpl
+27874	Subj
+27882	Subj
+27885	Objc
+27887	Subj
+27893	Subj
+27898	Objc
+27912	Pred
+27941	Cmpl
+Pred
+27964	Pred
+27976	Subj
+Pred
+27987	Objc
+Subj
+27991	Objc
+Subj
+27997	Subj
+28021	Pred
+28025	Pred
+28038	Subj
+28049	Objc
+28051	Cmpl
+28058	Cmpl
+28084	Objc
+28089	Subj
+28118	Objc
+Objc
+Cmpl
+28122	Objc
+28125	Pred
+28128	Objc
+28141	Objc
+Subj
+28147	Cmpl
+28150	Objc
+28174	Cmpl
+28184	Objc
+28197	Objc
+28205	Objc
+28207	Subj
+28212	Objc
+28214	Objc
+28219	Objc
+Subj
+28251	Objc
+28281	Objc
+28285	Objc
+28289	Subj
+28295	Pred
+28301	Subj
+28308	Subj
+28310	Subj
+28313	Subj
+28330	Pred
+28347	Objc
+Objc
+Subj
+28352	Subj
+28358	Objc
+28363	Objc
+28366	Cmpl
+Subj
+28379	Subj
+28415	Subj
+Cmpl
+28422	Subj
+Pred
+28428	Subj
+28430	Objc
+28438	Objc
+28441	Cmpl
+28447	Objc
+28469	Objc
+28479	Subj
+28487	Subj
+Objc
+28500	Objc
+28507	Subj
+28511	Subj
+28532	Subj
+28544	Objc
+28550	Subj
+28560	Cmpl
+28565	Subj
+28569	Objc
+28577	Objc
+28596	Cmpl
+28599	Objc
+28602	Subj
+28608	Subj
+28611	Cmpl
+28613	Subj
+28617	Objc
+28620	Objc
+28626	Objc
+28630	Objc
+28632	Objc
+Objc
+28639	Objc
+28649	Cmpl
+28652	Objc
+28658	Pred
+28663	Subj
+28667	Objc
+28677	Cmpl
+28682	Cmpl
+28686	Cmpl
+28697	Objc
+28711	Cmpl
+28718	Cmpl
+Objc
+28722	Objc
+28728	Subj
+28733	Objc
+28738	Cmpl
+28743	Subj
+28748	Objc
+28759	Cmpl
+28773	Objc
+28777	Subj
+28779	Pred
+28787	Objc
+Objc
+28791	Cmpl
+28798	Objc
+28811	Objc
+28817	Objc
+28821	Objc
+28823	Objc
+28828	Objc
+28834	Objc
+28837	Objc
+28859	Objc
+28864	Subj
+28871	Cmpl
+28874	Subj
+28880	Objc
+28887	Objc
+28890	Subj
+Objc
+28899	Objc
+28918	Objc
+28922	Objc
+28930	Objc
+28948	Objc
+28964	Objc
+28966	Objc
+28990	Objc
+28995	Subj
+29017	Subj
+29029	Objc
+29037	Objc
+29041	Subj
+29044	Objc
+29049	Objc
+29055	Subj
+29057	Objc
+29121	Subj
+29128	Objc
+29131	Objc
+29142	Subj
+29147	Subj
+29149	Pred
+29189	Objc
+29205	Objc
+29207	Objc
+29213	Objc
+29216	Subj
+29223	Objc
+29256	Objc
+29260	Objc
+29279	Subj
+29281	Cmpl
+29306	Subj
+29316	Subj
+29319	Cmpl
+29331	Pred
+29337	Objc
+29354	Objc
+29358	Cmpl
+29367	Objc
+29372	Cmpl
+Objc
+29392	Subj
+29402	Subj
+29425	Subj
+29431	Objc
+29450	Subj
+29456	Cmpl
+29487	Objc
+29492	Objc
+29500	Objc
+29504	Objc
+29507	Pred
+29517	Cmpl
+29528	Subj
+29578	Subj
+29581	Objc
+29590	Cmpl
+29604	Objc
+29607	Cmpl
+29630	Pred
+29635	Subj
+29645	Pred
+29648	Pred
+Subj
+29666	Pred
+Subj
+29672	Pred
+29674	Subj
+29686	Subj
+29725	Cmpl
+29737	Subj
+29740	Subj
+29764	Objc
+Cmpl
+29771	Objc
+29775	Pred
+29779	Subj
+29787	Pred
+29818	Subj
+29833	Objc
+29838	Cmpl
+29843	Subj
+29850	Objc
+Subj
+29854	Pred
+29869	Cmpl
+Subj
+29885	Cmpl
+Objc
+29899	Subj
+29907	Subj
+29928	Subj
+29934	Cmpl
+29938	Objc
+29944	Subj
+29947	Cmpl
+29950	Pred
+29977	Objc
+29983	Cmpl
+29985	Subj
+30013	Subj
+Pred
+30020	Subj
+Pred
+30030	Pred
+30042	Subj
+30050	Pred
+30059	Cmpl
+30065	Objc
+30076	Objc
+30082	Objc
+Subj
+30085	Pred
+30092	Cmpl
+30115	Pred
+30117	Subj
+30120	Subj
+30126	Subj
+30128	Objc
+30136	Cmpl
+30146	Objc
+30164	Objc
+30169	Subj
+30176	Pred
+30187	Subj
+30206	Subj
+30260	Subj
+30271	Pred
+30273	Subj
+30306	Pred
+30311	Subj
+30314	Cmpl
+30319	Subj
+30351	Objc
+30357	Cmpl
+Objc
+30362	Pred
+30376	Objc
+30378	Objc
+30383	Objc
+30388	Objc
+30393	Objc
+30400	Objc
+30406	Objc
+30424	Subj
+30444	Subj
+30447	Objc
+30458	Subj
+30480	Objc
+30487	Objc
+30497	Pred
+30509	Subj
+30520	Pred
+30524	Subj
+30527	Objc
+30530	Pred
+30536	Subj
+30556	Subj
+30559	Objc
+30582	Pred
+30606	Pred
+30616	Objc
+30624	Cmpl
+30640	Objc
+30650	Objc
+30652	Objc
+30663	Objc
+30672	Cmpl
+30679	Objc
+30723	Objc
+Subj
+30769	Subj
+30777	Subj
+30784	Subj
+30787	Subj
+30789	Subj
+30810	Subj
+30812	Pred
+30816	Subj
+30827	Cmpl
+30829	Pred
+30835	Subj
+Pred
+30842	Subj
+30852	Objc
+30855	Objc
+30861	Pred
+Subj
+30867	Subj
+30888	Cmpl
+30893	Objc
+30900	Cmpl
+30908	Cmpl
+30911	Subj
+30918	Cmpl
+30921	Subj
+30929	Subj
+30931	Pred
+30933	Subj
+30953	Subj
+30956	Pred
+30960	Subj
+30991	Objc
+30995	Cmpl
+31022	Cmpl
+31047	Objc
+31064	Objc
+31079	Objc
+31085	Pred
+31094	Subj
+31111	Objc
+31126	Objc
+Pred
+31134	Objc
+31150	Subj
+31155	Subj
+Pred
+31176	Cmpl
+31185	Objc
+31212	Subj
+31223	Objc
+31253	Objc
+31285	Objc
+Subj
+31295	Subj
+31316	Subj
+31323	Subj
+31333	Subj
+31348	Subj
+Pred
+31354	Subj
+31433	Subj
+31446	Subj
+31461	Subj
+31471	Objc
+31485	Objc
+31492	Subj
+31503	Objc
+31506	Objc
+31512	Objc
+31522	Objc
+31534	Cmpl
+31543	Objc
+31548	Pred
+31551	Objc
+31562	Subj
+31564	Subj
+31569	Objc
+31571	Cmpl
+31583	Cmpl
+31597	Subj
+31627	Subj
+31640	Subj
+31691	Objc
+31735	Subj
+31737	Cmpl
+31755	Objc
+31761	Cmpl
+31771	Objc
+31799	Objc
+31803	Objc
+31809	Cmpl
+31821	Objc
+31834	Objc
+31836	Subj
+31846	Cmpl
+31850	Objc
+31854	Objc
+31860	Cmpl
+Objc
+31876	Subj
+31886	Subj
+31892	Cmpl
+31895	Subj
+31899	Objc
+31908	Pred
+31915	Subj
+Objc
+32019	Subj
+32023	Subj
+32198	Subj
+32224	Objc
+32231	Subj
+32235	Cmpl
+32249	Pred
+32267	Objc
+32269	Cmpl
+32280	Cmpl
+32283	Cmpl
+32294	Cmpl
+32297	Objc
+32301	Objc
+Subj
+32309	Pred
+Subj
+32316	Cmpl
+32329	Objc
+32341	Cmpl
+32348	Objc
+32362	Objc
+32368	Objc
+32380	Cmpl
+32415	Subj
+32424	Subj
+32459	Cmpl
+32481	Objc
+32483	Cmpl
+32485	Objc
+32487	Cmpl
+Objc
+32490	Cmpl
+Objc
+32517	Objc
+32534	Subj
+32536	Cmpl
+32556	Subj
+32563	Cmpl
+32569	Objc
+Subj
+32587	Cmpl
+32591	Pred
+32601	Cmpl
+32635	Subj
+32673	Objc
+32677	Objc
+32683	Objc
+32696	Objc
+Subj
+32714	Objc
+32746	Subj
+32754	Objc
+32756	Objc
+Pred
+32765	Objc
+32776	Objc
+32787	Objc
+32790	Subj
+32798	Pred
+32843	Objc
+32855	Objc
+32860	Objc
+32866	Subj
+32872	Objc
+32875	Subj
+32884	Objc
+32895	Subj
+32905	Subj
+32911	Subj
+32915	Subj
+32925	Objc
+32932	Objc
+32938	Subj
+32949	Subj
+32974	Objc
+32982	Subj
+33012	Subj
+33014	Pred
+33016	Subj
+33051	Subj
+33058	Objc
+33069	Objc
+33091	Objc
+33101	Subj
+33119	Subj
+33133	Objc
+33143	Subj
+33145	Pred
+33160	Objc
+33171	Objc
+33173	Objc
+33179	Subj
+33197	Objc
+33203	Objc
+33210	Objc
+33222	Subj
+33224	Cmpl
+Cmpl
+33230	Objc
+33241	Subj
+33263	Subj
+33279	Subj
+33288	Subj
+33307	Subj
+33310	Subj
+33315	Subj
+33320	Objc
+33331	Objc
+33343	Objc
+33361	Cmpl
+33374	Pred
+33377	Subj
+33379	Objc
+Subj
+33382	Objc
+33406	Subj
+33408	Pred
+33411	Cmpl
+33428	Objc
+33434	Objc
+33438	Cmpl
+33469	Subj
+33471	Objc
+33482	Objc
+33492	Pred
+33499	Cmpl
+33501	Objc
+33504	Objc
+33507	Objc
+33512	Subj
+Cmpl
+33525	Subj
+33573	Objc
+33575	Objc
+33578	Subj
+33589	Objc
+33625	Subj
+33646	Subj
+Objc
+33675	Subj
+33693	Subj
+33705	Pred
+33707	Subj
+33709	Objc
+33711	Objc
+33716	Pred
+33723	Subj
+33745	Subj
+33760	Objc
+33762	Subj
+33790	Objc
+33801	Cmpl
+33816	Subj
+33824	Subj
+Pred
+33833	Pred
+33836	Objc
+33850	Objc
+Subj
+33862	Objc
+33882	Objc
+33890	Objc
+33899	Cmpl
+33904	Subj
+33912	Subj
+33920	Objc
+33932	Subj
+33948	Subj
+33958	Objc
+33963	Objc
+33966	Objc
+33991	Pred
+33998	Subj
+34000	Pred
+34031	Subj
+34034	Objc
+34054	Objc
+34056	Subj
+34062	Objc
+34064	Subj
+34074	Pred
+34078	Pred
+34084	Pred
+34090	Pred
+34096	Pred
+34100	Objc
+34106	Objc
+34115	Objc
+34133	Pred
+34148	Subj
+34157	Subj
+Cmpl
+34175	Objc
+34203	Objc
+34207	Objc
+34212	Objc
+34215	Objc
+34237	Objc
+34252	Cmpl
+34256	Cmpl
+34263	Objc
+34265	Pred
+34274	Objc
+34282	Objc
+34284	Pred
+34301	Pred
+34306	Cmpl
+34321	Objc
+34328	Pred
+34334	Subj
+Pred
+34343	Pred
+34348	Pred
+34370	Cmpl
+34386	Cmpl
+34391	Cmpl
+34394	Subj
+Objc
+34398	Subj
+34404	Subj
+34454	Subj
+34513	Objc
+34517	Objc
+34550	Objc
+34557	Objc
+34571	Objc
+34573	Cmpl
+34576	Pred
+Pred
+34581	Objc
+Subj
+34588	Objc
+34592	Subj
+34605	Objc
+34610	Subj
+34617	Pred
+34621	Objc
+34627	Objc
+34641	Pred
+34664	Subj
+34667	Pred
+34680	Objc
+34687	Subj
+34694	Objc
+34698	Pred
+34700	Cmpl
+34702	Objc
+34711	Subj
+34713	Cmpl
+34722	Subj
+34730	Objc
+34734	Cmpl
+34740	Pred
+34750	Objc
+34774	Objc
+34777	Cmpl
+34782	Cmpl
+34791	Objc
+34796	Objc
+34800	Objc
+34805	Objc
+34809	Cmpl
+34837	Pred
+34864	Subj
+34866	Pred
+34877	Objc
+34885	Cmpl
+34900	Cmpl
+34912	Objc
+34918	Subj
+Objc
+34956	Cmpl
+34977	Subj
+34982	Objc
+34995	Objc
+34999	Subj
+35004	Objc
+35011	Objc
+35027	Cmpl
+35030	Cmpl
+Objc
+35035	Subj
+35037	Subj
+35039	Subj
+35042	Subj
+35044	Subj
+35046	Subj
+35049	Pred
+35051	Subj
+35069	Objc
+35080	Objc
+35101	Objc
+35104	Objc
+35107	Cmpl
+35111	Subj
+35124	Subj
+35132	Cmpl
+Pred
+35138	Subj
+35148	Pred
+35194	Pred
+Pred
+35204	Cmpl
+Subj
+35208	Cmpl
+35223	Objc
+35226	Objc
+35229	Objc
+35262	Objc
+35280	Subj
+35285	Pred
+35335	Objc
+35340	Subj
+35343	Pred
+35351	Subj
+35353	Objc
+35355	Pred
+35366	Cmpl
+Objc
+35369	Subj
+35387	Objc
+35390	Subj
+35392	Cmpl
+35399	Objc
+35401	Subj
+35405	Cmpl
+35409	Subj
+35412	Cmpl
+35432	Objc
+Cmpl
+35438	Subj
+35451	Objc
+Cmpl
+35455	Subj
+35472	Subj
+35482	Cmpl
+35492	Cmpl
+35494	Subj
+35500	Cmpl
+35512	Pred
+Subj
+35515	Subj
+35528	Objc
+35538	Subj
+35559	Subj
+35570	Pred
+35587	Subj
+35589	Objc
+35620	Subj
+Subj
+35635	Objc
+35637	Subj
+35649	Objc
+35651	Subj
+35662	Objc
+35664	Subj
+35676	Objc
+35681	Objc
+35686	Objc
+35690	Pred
+35695	Subj
+35698	Cmpl
+35722	Pred
+35761	Subj
+35770	Subj
+Objc
+35774	Subj
+35789	Subj
+35813	Subj
+35815	Subj
+35829	Subj
+35831	Objc
+35834	Objc
+35850	Pred
+35854	Subj
+35856	Pred
+35860	Subj
+35872	Subj
+35877	Cmpl
+35879	Subj
+35884	Objc
+35904	Objc
+35910	Cmpl
+35922	Objc
+Subj
+35934	Subj
+35951	Subj
+35973	Subj
+35989	Objc
+35994	Subj
+36009	Subj
+36012	Cmpl
+Pred
+36023	Pred
+36025	Subj
+36037	Objc
+36045	Subj
+36052	Objc
+36063	Objc
+36069	Objc
+36090	Subj
+36101	Objc
+36103	Objc
+36119	Objc
+36139	Objc
+36142	Pred
+36144	Subj
+36146	Subj
+36149	Pred
+36158	Objc
+36162	Cmpl
+36169	Pred
+36179	Objc
+36182	Cmpl
+36188	Cmpl
+36260	Cmpl
+36269	Subj
+36284	Subj
+36292	Objc
+36305	Objc
+36314	Objc
+Cmpl
+36326	Objc
+36328	Cmpl
+36338	Objc
+36343	Subj
+36345	Objc
+36351	Subj
+Pred
+36354	Subj
+36366	Subj
+36376	Pred
+36381	Subj
+36387	Subj
+36391	Objc
+36401	Subj
+36427	Pred
+36430	Objc
+36433	Subj
+36441	Objc
+36449	Objc
+Subj
+Subj
+36454	Subj
+36474	Objc
+36484	Subj
+36487	Cmpl
+36493	Objc
+36498	Subj
+36501	Subj
+36520	Cmpl
+36535	Subj
+36555	Subj
+36558	Objc
+Subj
+36570	Objc
+36574	Subj
+36595	Cmpl
+36603	Subj
+36606	Cmpl
+Cmpl
+36616	Cmpl
+36625	Objc
+36629	Objc
+36641	Objc
+36647	Objc
+36649	Objc
+36651	Objc
+36653	Objc
+36671	Subj
+36675	Objc
+36718	Subj
+36726	Subj
+36738	Subj
+Objc
+Subj
+36742	Pred
+36749	Objc
+36753	Objc
+36759	Cmpl
+Objc
+36764	Objc
+36771	Pred
+36777	Objc
+36780	Objc
+36782	Cmpl
+36804	Cmpl
+36819	Objc
+36831	Cmpl
+36833	Subj
+Subj
+36839	Pred
+Subj
+36850	Subj
+36857	Objc
+36861	Subj
+36870	Objc
+36880	Objc
+36895	Objc
+36909	Subj
+36923	Subj
+36933	Objc
+36935	Pred
+Subj
+36941	Subj
+36948	Subj
+36950	Objc
+Subj
+36961	Cmpl
+Subj
+36964	Pred
+Subj
+36968	Subj
+36976	Subj
+36979	Objc
+36981	Cmpl
+36983	Objc
+36991	Objc
+37014	Subj
+37020	Objc
+37030	Objc
+Subj
+37040	Objc
+Subj
+37050	Subj
+37052	Objc
+Objc
+37056	Subj
+37061	Objc
+37066	Subj
+37075	Objc
+37096	Cmpl
+37103	Subj
+37107	Objc
+37141	Subj
+37147	Pred
+37152	Pred
+37160	Subj
+37165	Subj
+37173	Objc
+37206	Subj
+37216	Pred
+37218	Subj
+Pred
+37225	Objc
+Cmpl
+37228	Objc
+Cmpl
+37231	Objc
+Cmpl
+37235	Objc
+37237	Objc
+37239	Subj
+37242	Subj
+37245	Objc
+37251	Subj
+37256	Subj
+37262	Subj
+37269	Objc
+37278	Subj
+Objc
+37281	Subj
+37284	Cmpl
+37291	Objc
+37299	Subj
+37304	Objc
+37317	Objc
+37324	Pred
+37329	Subj
+37331	Objc
+37337	Objc
+37346	Objc
+37354	Objc
+37375	Objc
+37384	Subj
+37386	Objc
+37405	Objc
+37411	Subj
+37417	Subj
+37422	Objc
+37430	Subj
+37448	Subj
+37462	Objc
+37466	Objc
+37480	Pred
+37492	Objc
+37494	Objc
+37499	Cmpl
+Subj
+37510	Objc
+37513	Subj
+37515	Objc
+37520	Objc
+37523	Pred
+37528	Subj
+37530	Pred
+37538	Subj
+37544	Objc
+37547	Objc
+37557	Subj
+37560	Subj
+37580	Subj
+37590	Objc
+37602	Cmpl
+37606	Objc
+37626	Subj
+37633	Objc
+37637	Objc
+37645	Subj
+37650	Subj
+37654	Objc
+37660	Cmpl
+37665	Objc
+37672	Objc
+37689	Objc
+Subj
+37694	Cmpl
+37703	Cmpl
+37711	Subj
+37724	Objc
+37729	Cmpl
+37742	Subj
+37753	Pred
+37769	Objc
+37782	Subj
+37791	Pred
+37795	Pred
+37803	Objc
+37812	Objc
+37814	Objc
+37820	Objc
+37822	Objc
+37824	Objc
+37826	Objc
+37839	Subj
+37845	Pred
+37873	Pred
+37894	Objc
+37898	Cmpl
+37907	Cmpl
+37924	Objc
+37936	Cmpl
+37945	Cmpl
+37947	Objc
+37956	Cmpl
+37963	Pred
+37969	Subj
+Cmpl
+37972	Subj
+Cmpl
+38000	Pred
+38008	Subj
+38020	Objc
+Objc
+38026	Objc
+Objc
+38031	Objc
+38036	Objc
+38049	Cmpl
+38056	Cmpl
+38061	Subj
+38068	Cmpl
+38085	Subj
+Objc
+38122	Objc
+38132	Objc
+38139	Objc
+Cmpl
+38146	Subj
+38150	Subj
+Cmpl
+38158	Subj
+38160	Pred
+38169	Pred
+38178	Cmpl
+38192	Pred
+38197	Objc
+38201	Cmpl
+38209	Objc
+Subj
+38217	Objc
+38228	Objc
+38231	Objc
+38236	Subj
+38244	Subj
+38248	Subj
+38285	Objc
+38288	Cmpl
+38291	Objc
+38295	Subj
+38299	Objc
+38305	Subj
+38323	Subj
+38326	Objc
+38328	Objc
+38332	Objc
+38345	Objc
+38380	Objc
+38386	Objc
+38391	Objc
+38405	Objc
+38407	Objc
+38411	Subj
+38415	Subj
+38417	Cmpl
+38431	Subj
+38442	Cmpl
+38447	Subj
+38454	Subj
+Subj
+38464	Pred
+38466	Objc
+38471	Pred
+38475	Pred
+Subj
+38512	Cmpl
+38514	Objc
+38519	Cmpl
+38534	Subj
+Subj
+38541	Subj
+38550	Subj
+38566	Subj
+38577	Cmpl
+38596	Cmpl
+38602	Cmpl
+38612	Cmpl
+38616	Objc
+38627	Objc
+38635	Cmpl
+38638	Cmpl
+38652	Objc
+38654	Cmpl
+Subj
+38660	Cmpl
+Objc
+38681	Cmpl
+38683	Cmpl
+38688	Cmpl
+38702	Cmpl
+Objc
+38705	Subj
+Cmpl
+38711	Cmpl
+38718	Cmpl
+38741	Objc
+38745	Objc
+Cmpl
+38751	Objc
+38753	Cmpl
+Objc
+38757	Subj
+Pred
+38779	Objc
+38783	Objc
+38785	Subj
+38787	Pred
+38814	Subj
+38823	Subj
+38830	Cmpl
+38838	Subj
+38860	Subj
+38865	Subj
+38879	Subj
+38888	Subj
+38920	Objc
+38961	Objc
+38999	Pred
+39007	Subj
+Objc
+39011	Objc
+39017	Cmpl
+Pred
+39023	Objc
+39026	Objc
+39028	Subj
+39032	Pred
+39053	Objc
+39056	Subj
+39059	Cmpl
+39068	Subj
+39071	Pred
+Pred
+39096	Objc
+39112	Pred
+39125	Objc
+39136	Pred
+Subj
+Objc
+39169	Pred
+39176	Pred
+39180	Pred
+39186	Pred
+39195	Pred
+39203	Pred
+39219	Objc
+39225	Objc
+Subj
+39286	Objc
+39289	Subj
+Pred
+39294	Subj
+39317	Objc
+39321	Objc
+39324	Subj
+39341	Subj
+Cmpl
+39364	Cmpl
+39366	Objc
+39371	Subj
+39378	Subj
+39386	Subj
+39395	Subj
+Cmpl
+39408	Objc
+39410	Pred
+39420	Subj
+39423	Objc
+Subj
+39479	Cmpl
+39485	Subj
+39495	Subj
+39504	Subj
+39515	Objc
+39519	Objc
+39521	Objc
+39535	Objc
+39544	Objc
+39548	Subj
+39550	Pred
+39553	Pred
+39557	Subj
+39562	Subj
+39567	Objc
+39577	Objc
+39612	Cmpl
+Objc
+39621	Objc
+39628	Cmpl
+Objc
+39663	Cmpl
+39665	Subj
+39689	Objc
+39701	Subj
+39703	Objc
+39710	Cmpl
+39723	Objc
+39737	Objc
+39740	Objc
+39747	Objc
+39752	Objc
+39761	Cmpl
+39772	Subj
+39775	Cmpl
+39777	Subj
+Objc
+39811	Objc
+39826	Objc
+39838	Objc
+39845	Objc
+39876	Cmpl
+39889	Objc
+39892	Pred
+39894	Pred
+39897	Cmpl
+39912	Cmpl
+39917	Objc
+39922	Objc
+39927	Pred
+39944	Pred
+39954	Objc
+39957	Subj
+39972	Objc
+39976	Objc
+39993	Cmpl
+39995	Subj
+40024	Objc
+40030	Objc
+40033	Objc
+40053	Objc
+40060	Subj
+40062	Cmpl
+40074	Cmpl
+40083	Objc
+40085	Cmpl
+40095	Subj
+40099	Subj
+40101	Pred
+40107	Pred
+40123	Subj
+Pred
+40141	Cmpl
+Pred
+40146	Subj
+40154	Cmpl
+40159	Objc
+40163	Objc
+40177	Pred
+40179	Subj
+Objc
+40203	Pred
+40233	Pred
+40241	Objc
+40255	Pred
+40259	Subj
+40269	Cmpl
+40277	Objc
+40326	Objc
+40369	Cmpl
+40371	Subj
+Subj
+40377	Cmpl
+40379	Objc
+Objc
+40382	Objc
+Objc
+40390	Objc
+40395	Objc
+40407	Objc
+40415	Cmpl
+40418	Objc
+40429	Subj
+40433	Subj
+40437	Subj
+40441	Subj
+40444	Subj
+40448	Subj
+40452	Subj
+40458	Subj
+40469	Subj
+40476	Subj
+40483	Subj
+40487	Pred
+40530	Objc
+40537	Objc
+40544	Objc
+40551	Objc
+40556	Cmpl
+40569	Subj
+40575	Cmpl
+40582	Subj
+40591	Cmpl
+40597	Pred
+40604	Objc
+40608	Cmpl
+40613	Subj
+40631	Objc
+40634	Subj
+Pred
+40646	Cmpl
+40651	Subj
+40659	Objc
+40661	Subj
+40670	Objc
+40688	Objc
+40697	Objc
+40704	Subj
+40708	Cmpl
+40711	Objc
+40723	Objc
+40727	Objc
+40735	Objc
+40767	Objc
+40773	Cmpl
+40781	Cmpl
+40826	Cmpl
+40855	Objc
+40876	Objc
+40878	Subj
+40883	Objc
+40900	Pred
+40909	Objc
+Pred
+40914	Objc
+40916	Subj
+40946	Pred
+40949	Objc
+40951	Subj
+40960	Subj
+40969	Objc
+40975	Subj
+Cmpl
+40979	Pred
+40982	Subj
+40994	Subj
+40996	Cmpl
+41023	Cmpl
+41027	Cmpl
+41030	Objc
+Pred
+41050	Cmpl
+41053	Pred
+41061	Pred
+41086	Subj
+41112	Subj
+41114	Pred
+41118	Subj
+41120	Pred
+41129	Cmpl
+41135	Subj
+41137	Objc
+41141	Cmpl
+41149	Objc
+41151	Objc
+41162	Subj
+41173	Subj
+41197	Subj
+41209	Cmpl
+41215	Cmpl
+41219	Objc
+41235	Subj
+41245	Objc
+41247	Subj
+41250	Objc
+41276	Subj
+41282	Objc
+41301	Objc
+41317	Objc
+41353	Cmpl
+41355	Cmpl
+Objc
+41380	Objc
+41382	Cmpl
+41388	Pred
+Subj
+41399	Objc
+41404	Objc
+41411	Objc
+41438	Objc
+41441	Subj
+Pred
+41445	Objc
+41453	Pred
+41459	Cmpl
+41462	Cmpl
+41473	Objc
+41475	Cmpl
+Pred
+Subj
+41479	Objc
+41485	Subj
+41488	Cmpl
+41496	Objc
+41512	Pred
+41518	Subj
+41523	Cmpl
+Objc
+41528	Objc
+41531	Objc
+41533	Objc
+41535	Subj
+41538	Subj
+41547	Objc
+41549	Objc
+41551	Subj
+41554	Subj
+41556	Objc
+41572	Objc
+41607	Objc
+41610	Pred
+Subj
+41636	Cmpl
+41659	Subj
+41695	Subj
+41715	Objc
+41731	Subj
+Objc
+41741	Objc
+41768	Pred
+41785	Subj
+Pred
+41788	Objc
+41799	Subj
+41811	Pred
+41830	Pred
+41834	Objc
+41837	Objc
+41851	Objc
+41862	Subj
+Objc
+41903	Objc
+41924	Cmpl
+41935	Cmpl
+41938	Subj
+41952	Subj
+41969	Objc
+41994	Objc
+41998	Cmpl
+42000	Subj
+42026	Cmpl
+42032	Subj
+42035	Cmpl
+42044	Objc
+42062	Subj
+Objc
+42072	Subj
+42086	Objc
+42092	Objc
+42102	Objc
+42107	Subj
+42109	Cmpl
+42122	Subj
+42135	Cmpl
+42146	Pred
+42151	Objc
+42166	Subj
+42170	Objc
+42185	Objc
+42190	Cmpl
+42201	Pred
+42220	Objc
+42223	Objc
+42229	Objc
+42248	Pred
+42284	Pred
+42287	Subj
+Subj
+42291	Cmpl
+42308	Objc
+42322	Objc
+Subj
+42333	Objc
+42340	Cmpl
+42343	Objc
+42365	Cmpl
+42369	Subj
+42372	Cmpl
+42374	Subj
+42383	Pred
+42395	Pred
+42412	Pred
+Subj
+42415	Objc
+42417	Subj
+42419	Cmpl
+42427	Objc
+42429	Cmpl
+42431	Objc
+42452	Objc
+42469	Objc
+42478	Objc
+42495	Objc
+42500	Subj
+42506	Subj
+42509	Cmpl
+42518	Objc
+42520	Cmpl
+42522	Subj
+42524	Objc
+42526	Subj
+42533	Cmpl
+42540	Objc
+42558	Pred
+42571	Subj
+Cmpl
+42574	Cmpl
+42576	Objc
+42586	Objc
+42598	Pred
+42608	Pred
+42616	Pred
+42621	Subj
+Cmpl
+42629	Pred
+42634	Subj
+42636	Cmpl
+42653	Objc
+42661	Objc
+42664	Objc
+42671	Pred
+42675	Objc
+42678	Cmpl
+Subj
+42683	Objc
+42699	Pred
+42718	Subj
+42722	Pred
+42745	Objc
+42758	Pred
+42772	Pred
+42806	Subj
+42833	Objc
+42843	Subj
+42849	Objc
+42852	Objc
+42874	Subj
+42887	Subj
+42895	Subj
+42926	Objc
+42931	Objc
+42944	Cmpl
+42958	Subj
+42965	Objc
+Subj
+42974	Subj
+42983	Cmpl
+42993	Subj
+43004	Pred
+43011	Subj
+43039	Objc
+43046	Objc
+43051	Cmpl
+43068	Cmpl
+43076	Cmpl
+Objc
+43102	Objc
+43112	Subj
+43118	Cmpl
+43125	Cmpl
+43127	Objc
+43132	Objc
+43143	Subj
+43146	Objc
+43161	Cmpl
+43167	Objc
+43179	Subj
+43188	Subj
+43196	Subj
+43200	Subj
+43202	Objc
+43207	Objc
+43211	Cmpl
+43214	Objc
+43222	Subj
+43247	Objc
+43249	Subj
+43251	Pred
+43264	Pred
+43269	Objc
+43279	Cmpl
+43286	Objc
+43299	Cmpl
+43331	Subj
+43347	Cmpl
+43371	Pred
+43384	Subj
+Objc
+43400	Pred
+43418	Subj
+43428	Objc
+Pred
+43446	Subj
+43457	Objc
+43473	Subj
+43488	Objc
+43503	Subj
+43511	Objc
+43513	Subj
+43517	Objc
+43519	Cmpl
+43524	Subj
+43536	Subj
+43551	Cmpl
+43554	Subj
+43557	Cmpl
+Pred
+43568	Objc
+Cmpl
+43575	Subj
+43591	Objc
+43594	Subj
+43607	Objc
+43630	Objc
+43636	Cmpl
+Objc
+43642	Objc
+43649	Objc
+43655	Objc
+43674	Cmpl
+43683	Cmpl
+43715	Pred
+43732	Pred
+43736	Pred
+43740	Objc
+43747	Cmpl
+43771	Objc
+43800	Cmpl
+43802	Subj
+43814	Objc
+43819	Objc
+43823	Cmpl
+43828	Objc
+43835	Objc
+43840	Objc
+43851	Objc
+43862	Cmpl
+Subj
+43872	Subj
+43881	Objc
+43886	Objc
+43893	Cmpl
+43897	Objc
+43899	Objc
+Subj
+Pred
+43925	Subj
+43938	Cmpl
+43940	Subj
+43944	Objc
+43949	Cmpl
+43952	Objc
+43959	Objc
+Subj
+43963	Objc
+Pred
+43968	Pred
+43972	Objc
+43988	Pred
+43991	Subj
+43997	Subj
+44009	Subj
+44012	Subj
+44019	Pred
+44029	Subj
+44034	Objc
+Subj
+44038	Cmpl
+44041	Cmpl
+44043	Pred
+44045	Subj
+44061	Subj
+44065	Objc
+44114	Objc
+44122	Subj
+44131	Pred
+44144	Subj
+44156	Subj
+44159	Pred
+44161	Subj
+44164	Cmpl
+44177	Objc
+44182	Cmpl
+44185	Subj
+44193	Objc
+44199	Subj
+44205	Subj
+44207	Objc
+Objc
+Cmpl
+44212	Subj
+44222	Cmpl
+44228	Objc
+44234	Objc
+44244	Objc
+44257	Pred
+44259	Subj
+44261	Pred
+44263	Subj
+Pred
+44270	Pred
+44281	Pred
+44293	Objc
+44320	Subj
+44327	Objc
+44331	Subj
+44342	Subj
+44360	Objc
+44363	Objc
+44372	Subj
+44396	Subj
+Objc
+44400	Objc
+44406	Subj
+44409	Subj
+44428	Cmpl
+Objc
+44438	Cmpl
+44454	Objc
+44457	Objc
+44463	Subj
+44472	Subj
+44479	Cmpl
+44483	Cmpl
+44489	Subj
+Objc
+44506	Cmpl
+44513	Pred
+44516	Objc
+44553	Objc
+44560	Objc
+44566	Objc
+44571	Objc
+44575	Cmpl
+44581	Objc
+44586	Subj
+44591	Objc
+44596	Objc
+44609	Subj
+44614	Objc
+44634	Cmpl
+44640	Cmpl
+44652	Objc
+44663	Subj
+44671	Objc
+44676	Objc
+44695	Pred
+44720	Objc
+44724	Subj
+Objc
+44745	Cmpl
+44748	Subj
+44761	Subj
+44772	Objc
+44789	Subj
+44799	Subj
+44822	Objc
+44836	Subj
+44838	Subj
+44860	Cmpl
+44862	Subj
+44897	Subj
+44905	Objc
+Cmpl
+44909	Objc
+44912	Objc
+44926	Objc
+44950	Cmpl
+44959	Subj
+44961	Objc
+44981	Objc
+44992	Objc
+44999	Objc
+45008	Subj
+45031	Cmpl
+45035	Objc
+45038	Pred
+45042	Cmpl
+45052	Objc
+Subj
+Objc
+45057	Cmpl
+45067	Subj
+45083	Objc
+45093	Objc
+45097	Subj
+Pred
+45104	Pred
+45109	Cmpl
+45111	Subj
+45113	Cmpl
+45117	Objc
+45128	Subj
+45130	Objc
+45133	Objc
+Cmpl
+45145	Objc
+45153	Cmpl
+45158	Objc
+45160	Objc
+45166	Subj
+45168	Objc
+45176	Objc
+45178	Subj
+45190	Objc
+45199	Objc
+45203	Objc
+45210	Subj
+45215	Objc
+45217	Pred
+45223	Objc
+45228	Objc
+45231	Cmpl
+45246	Cmpl
+45252	Subj
+45255	Objc
+45257	Pred
+45264	Objc
+45268	Subj
+45287	Objc
+45322	Subj
+Pred
+45331	Objc
+45341	Objc
+45353	Objc
+45363	Subj
+Cmpl
+Objc
+45378	Cmpl
+Objc
+45385	Subj
+45388	Objc
+Subj
+45398	Cmpl
+45428	Subj
+Pred
+45432	Objc
+45435	Subj
+45437	Cmpl
+45443	Objc
+45445	Subj
+Pred
+45457	Objc
+45469	Objc
+45479	Objc
+45487	Objc
+45509	Objc
+Objc
+45513	Cmpl
+45546	Pred
+45570	Objc
+45580	Subj
+45584	Pred
+45586	Pred
+Subj
+45604	Objc
+Objc
+45625	Subj
+45643	Subj
+45645	Objc
+Objc
+45686	Subj
+45694	Objc
+45696	Subj
+45725	Cmpl
+45746	Subj
+45755	Objc
+45759	Subj
+45772	Objc
+45775	Subj
+45783	Subj
+45788	Objc
+45791	Pred
+45793	Subj
+45796	Pred
+45801	Subj
+45803	Subj
+45809	Subj
+45817	Subj
+45837	Subj
+45847	Cmpl
+45849	Subj
+45853	Subj
+45914	Subj
+45917	Cmpl
+45930	Objc
+45956	Subj
+45978	Subj
+46013	Subj
+46020	Subj
+46040	Subj
+46055	Subj
+46067	Subj
+46087	Subj
+46119	Subj
+46134	Objc
+Cmpl
+46152	Pred
+46161	Subj
+46165	Pred
+46173	Cmpl
+46183	Subj
+46200	Objc
+46223	Subj
+46274	Pred
+46286	Objc
+46295	Pred
+46306	Objc
+46313	Subj
+46318	Pred
+46334	Cmpl
+46336	Objc
+46341	Cmpl
+Objc
+46348	Objc
+46351	Objc
+46354	Cmpl
+46374	Cmpl
+46379	Subj
+46382	Cmpl
+46386	Subj
+46389	Cmpl
+46392	Subj
+46397	Objc
+46403	Objc
+46417	Cmpl
+46420	Pred
+46432	Subj
+Cmpl
+46445	Cmpl
+46475	Subj
+46479	Cmpl
+46485	Objc
+46496	Objc
+46500	Objc
+46507	Cmpl
+46528	Objc
+46533	Cmpl
+46535	Subj
+46544	Objc
+46578	Objc
+46595	Subj
+46603	Subj
+46609	Pred
+46615	Objc
+46629	Pred
+Subj
+46633	Cmpl
+46643	Objc
+Pred
+46646	Subj
+46649	Pred
+46665	Subj
+46667	Pred
+46676	Subj
+46685	Subj
+46696	Subj
+46698	Cmpl
+46701	Cmpl
+46705	Objc
+46734	Objc
+46740	Subj
+46752	Subj
+46759	Subj
+46762	Cmpl
+46766	Pred
+46775	Subj
+46779	Cmpl
+46784	Subj
+46787	Objc
+46793	Cmpl
+46796	Objc
+46806	Subj
+46812	Cmpl
+46817	Objc
+46832	Objc
+46835	Cmpl
+46854	Objc
+46856	Subj
+46861	Subj
+46863	Pred
+Subj
+46867	Cmpl
+Pred
+46883	Objc
+46893	Cmpl
+46900	Subj
+46933	Cmpl
+Subj
+46938	Objc
+46968	Subj
+46974	Cmpl
+46985	Subj
+46988	Subj
+46992	Pred
+47003	Objc
+Subj
+47007	Cmpl
+47058	Objc
+47061	Subj
+47085	Subj
+47098	Subj
+47110	Objc
+47126	Objc
+47140	Subj
+47149	Objc
+47156	Subj
+47162	Objc
+47167	Subj
+47169	Objc
+47210	Objc
+47216	Subj
+47218	Subj
+47236	Cmpl
+47239	Subj
+47243	Objc
+47255	Objc
+47257	Objc
+47261	Objc
+47265	Pred
+47269	Objc
+47280	Subj
+47292	Objc
+47299	Subj
+47304	Cmpl
+47307	Cmpl
+47309	Cmpl
+47338	Subj
+Subj
+47346	Subj
+47351	Subj
+47354	Subj
+47356	Subj
+47364	Subj
+47378	Objc
+47385	Objc
+47387	Subj
+47395	Objc
+Cmpl
+47400	Subj
+47408	Objc
+47410	Subj
+47416	Subj
+47419	Cmpl
+47421	Subj
+47435	Objc
+47440	Subj
+47460	Subj
+47467	Pred
+47478	Objc
+47505	Objc
+47521	Objc
+47525	Subj
+47527	Objc
+47529	Cmpl
+47539	Objc
+47542	Objc
+47555	Objc
+47560	Pred
+47580	Subj
+47595	Cmpl
+47605	Subj
+47616	Objc
+47622	Subj
+47625	Objc
+47638	Objc
+47645	Objc
+47648	Cmpl
+47651	Subj
+47671	Objc
+47676	Subj
+47682	Objc
+Subj
+47693	Subj
+47702	Objc
+47704	Subj
+47710	Subj
+47718	Subj
+47734	Objc
+47746	Objc
+47755	Cmpl
+47764	Objc
+47771	Subj
+47775	Objc
+47780	Subj
+47804	Pred
+47810	Subj
+47815	Subj
+47830	Objc
+47836	Objc
+47841	Subj
+47860	Pred
+47867	Objc
+47871	Objc
+47881	Cmpl
+47885	Objc
+47893	Objc
+47905	Objc
+47908	Objc
+47910	Subj
+47920	Objc
+47925	Objc
+47927	Cmpl
+47931	Subj
+47938	Objc
+47949	Subj
+47956	Objc
+47958	Subj
+47971	Objc
+47975	Subj
+47985	Subj
+47990	Objc
+47993	Subj
+48002	Objc
+48011	Cmpl
+48013	Cmpl
+48029	Subj
+48063	Objc
+48081	Pred
+48111	Objc
+48116	Objc
+48121	Pred
+48128	Subj
+48143	Subj
+48149	Subj
+48161	Objc
+48165	Objc
+48172	Subj
+48180	Subj
+48186	Subj
+48228	Objc
+48253	Subj
+48265	Pred
+48268	Subj
+48288	Pred
+48294	Cmpl
+48358	Objc
+48370	Objc
+48384	Pred
+48411	Subj
+Pred
+48414	Subj
+48428	Subj
+48445	Objc
+48450	Pred
+48454	Objc
+48466	Pred
+48470	Subj
+48473	Objc
+48487	Cmpl
+Objc
+Subj
+48492	Cmpl
+48498	Subj
+48517	Objc
+48529	Objc
+Subj
+48534	Subj
+48553	Subj
+48562	Objc
+48580	Subj
+48582	Subj
+48601	Objc
+48606	Subj
+48625	Objc
+48646	Cmpl
+48662	Subj
+48668	Objc
+48693	Subj
+48703	Cmpl
+48711	Objc
+48713	Subj
+Pred
+48732	Cmpl
+48738	Cmpl
+48766	Cmpl
+48768	Subj
+48783	Objc
+48785	Subj
+48787	Subj
+48794	Cmpl
+Subj
+Cmpl
+48800	Pred
+48803	Objc
+48807	Cmpl
+48814	Subj
+48829	Subj
+48831	Pred
+48833	Objc
+48837	Subj
+48844	Subj
+48848	Objc
+48851	Cmpl
+48860	Subj
+48867	Cmpl
+48872	Subj
+48875	Cmpl
+48888	Pred
+48892	Objc
+48928	Cmpl
+48959	Subj
+48964	Subj
+48973	Subj
+48984	Objc
+48987	Objc
+48997	Objc
+49003	Subj
+Objc
+49014	Subj
+49016	Objc
+49046	Pred
+49050	Subj
+49057	Subj
+49067	Subj
+49071	Subj
+49091	Objc
+49099	Subj
+49101	Pred
+Subj
+49112	Subj
+49118	Subj
+49132	Subj
+49153	Objc
+49163	Objc
+49166	Subj
+49169	Objc
+49172	Objc
+49182	Subj
+49201	Pred
+49221	Subj
+49228	Subj
+49240	Pred
+49270	Objc
+Subj
+49283	Subj
+49286	Pred
+49305	Objc
+Subj
+Pred
+49317	Subj
+49324	Objc
+Pred
+49327	Subj
+Pred
+49337	Subj
+49343	Cmpl
+Pred
+49347	Objc
+49351	Objc
+Objc
+49357	Subj
+49380	Objc
+49383	Cmpl
+49388	Subj
+49399	Cmpl
+49403	Subj
+49410	Objc
+Subj
+49421	Subj
+Pred
+49430	Subj
+49463	Subj
+49467	Subj
+49473	Subj
+49478	Pred
+49481	Subj
+49484	Objc
+49493	Subj
+49499	Subj
+49514	Subj
+49517	Objc
+49521	Objc
+49525	Subj
+Cmpl
+49539	Subj
+49546	Subj
+49551	Subj
+49585	Subj
+49597	Subj
+49600	Cmpl
+Objc
+49603	Subj
+49606	Cmpl
+49608	Subj
+49615	Cmpl
+49632	Subj
+49652	Objc
+49654	Subj
+49663	Cmpl
+49667	Subj
+49670	Pred
+49672	Objc
+49677	Objc
+49681	Subj
+49687	Subj
+49690	Subj
+49692	Pred
+49702	Objc
+49705	Cmpl
+49709	Objc
+49723	Subj
+49728	Cmpl
+Objc
+49731	Subj
+49748	Cmpl
+Subj
+49757	Cmpl
+49764	Subj
+49779	Subj
+49783	Cmpl
+Subj
+49786	Objc
+49789	Subj
+49792	Cmpl
+49795	Objc
+Subj
+49803	Subj
+49805	Cmpl
+Subj
+49808	Subj
+49814	Subj
+49820	Subj
+49823	Cmpl
+49826	Cmpl
+49829	Objc
+49839	Cmpl
+49843	Cmpl
+49866	Subj
+49878	Pred
+49893	Subj
+49901	Objc
+49906	Cmpl
+49909	Subj
+49925	Objc
+49929	Cmpl
+49950	Cmpl
+49959	Objc
+49964	Cmpl
+49971	Subj
+49981	Pred
+49986	Pred
+50003	Cmpl
+50016	Subj
+50070	Pred
+50100	Objc
+50103	Objc
+50131	Objc
+50155	Objc
+50162	Cmpl
+50166	Cmpl
+50168	Objc
+50171	Subj
+50174	Cmpl
+50184	Objc
+50198	Subj
+50203	Objc
+Subj
+50223	Objc
+50232	Objc
+50248	Subj
+50258	Objc
+50265	Objc
+Cmpl
+50269	Subj
+50271	Objc
+50275	Objc
+50278	Subj
+50283	Subj
+50286	Subj
+50297	Pred
+Subj
+50303	Subj
+50310	Cmpl
+50318	Subj
+50325	Objc
+Subj
+50336	Subj
+50339	Cmpl
+50343	Cmpl
+50346	Subj
+50363	Subj
+50365	Pred
+50380	Subj
+50384	Cmpl
+50387	Subj
+50406	Pred
+50414	Pred
+50420	Cmpl
+50422	Subj
+50443	Pred
+50452	Subj
+50455	Cmpl
+50458	Subj
+50461	Subj
+50464	Cmpl
+Subj
+50472	Objc
+50478	Cmpl
+50480	Objc
+50484	Objc
+50497	Cmpl
+50504	Cmpl
+50509	Subj
+50527	Subj
+50618	Pred
+50643	Pred
+50649	Objc
+50716	Subj
+Pred
+50731	Subj
+50734	Subj
+50750	Cmpl
+50752	Subj
+50759	Cmpl
+Subj
+50763	Subj
+50766	Subj
+50771	Subj
+50776	Subj
+50778	Objc
+50783	Cmpl
+50789	Cmpl
+50795	Subj
+50808	Pred
+50819	Objc
+50834	Subj
+50837	Subj
+50868	Objc
+50872	Objc
+50878	Subj
+50889	Pred
+50891	Objc
+50914	Objc
+50935	Objc
+50954	Subj
+50961	Subj
+50982	Subj
+50994	Pred
+50998	Objc
+51000	Subj
+51007	Pred
+51023	Subj
+51033	Objc
+51035	Cmpl
+51039	Cmpl
+51050	Objc
+51054	Cmpl
+51061	Pred
+51068	Pred
+51073	Subj
+51076	Subj
+51079	Cmpl
+51087	Pred
+51091	Cmpl
+51093	Cmpl
+51095	Subj
+51098	Objc
+51102	Cmpl
+51106	Cmpl
+51109	Objc
+51115	Pred
+51124	Subj
+Pred
+51131	Subj
+51133	Cmpl
+51137	Subj
+51150	Subj
+51153	Cmpl
+51163	Subj
+51170	Objc
+Subj
+51173	Cmpl
+51183	Objc
+51185	Cmpl
+51202	Cmpl
+51214	Cmpl
+51230	Objc
+51232	Cmpl
+51238	Objc
+51247	Objc
+51253	Objc
+Objc
+51257	Cmpl
+51263	Pred
+51265	Subj
+51275	Subj
+51287	Cmpl
+51291	Objc
+51295	Subj
+51308	Subj
+51310	Objc
+51313	Subj
+51315	Objc
+51326	Subj
+51328	Pred
+51345	Objc
+51350	Pred
+51363	Cmpl
+51372	Pred
+51375	Subj
+51377	Cmpl
+Objc
+51380	Cmpl
+51387	Cmpl
+51401	Subj
+51404	Objc
+51430	Subj
+51432	Cmpl
+51434	Objc
+51437	Subj
+51453	Objc
+51459	Subj
+51462	Cmpl
+Subj
+Objc
+51467	Objc
+Subj
+51478	Subj
+51480	Cmpl
+51483	Cmpl
+51495	Objc
+51502	Subj
+51505	Pred
+Subj
+51514	Cmpl
+51524	Pred
+51531	Objc
+51535	Objc
+51553	Pred
+51555	Subj
+51560	Subj
+51563	Subj
+51565	Objc
+51567	Objc
+51569	Subj
+51571	Subj
+51574	Subj
+51599	Cmpl
+51601	Objc
+51611	Subj
+51639	Subj
+51645	Subj
+51667	Subj
+51672	Objc
+51682	Objc
+51687	Objc
+51713	Objc
+51724	Subj
+51727	Subj
+51778	Cmpl
+51791	Objc
+51793	Cmpl
+51800	Subj
+51805	Objc
+51820	Pred
+51824	Cmpl
+51830	Objc
+51844	Cmpl
+51882	Subj
+51897	Pred
+51915	Subj
+51936	Pred
+51938	Subj
+51946	Pred
+51956	Subj
+51969	Cmpl
+51971	Pred
+51974	Cmpl
+51978	Objc
+51987	Objc
+51995	Subj
+Subj
+52001	Cmpl
+52014	Pred
+52026	Pred
+52037	Pred
+52046	Subj
+52049	Cmpl
+52052	Objc
+Objc
+Subj
+Cmpl
+52064	Objc
+Pred
+52071	Cmpl
+52080	Pred
+52086	Subj
+52094	Objc
+52102	Cmpl
+52104	Pred
+52122	Pred
+52126	Objc
+Objc
+52137	Objc
+52141	Subj
+52144	Cmpl
+52151	Subj
+52158	Objc
+52175	Objc
+Objc
+52186	Cmpl
+52190	Cmpl
+52198	Objc
+52201	Objc
+52206	Objc
+52209	Subj
+52211	Objc
+52226	Cmpl
+Objc
+Subj
+52234	Cmpl
+52237	Subj
+52252	Objc
+52260	Objc
+52269	Subj
+52288	Objc
+52292	Cmpl
+52303	Objc
+52323	Cmpl
+52326	Subj
+52328	Pred
+52349	Objc
+52357	Objc
+52362	Objc
+52364	Cmpl
+Objc
+52373	Objc
+52406	Subj
+52410	Objc
+52419	Pred
+52433	Objc
+52435	Subj
+52444	Pred
+Pred
+52454	Pred
+52458	Objc
+52462	Subj
+52470	Subj
+52479	Objc
+52482	Subj
+52484	Subj
+52492	Subj
+52502	Subj
+52513	Objc
+52515	Cmpl
+52520	Objc
+52524	Objc
+52532	Objc
+52537	Objc
+52539	Subj
+52562	Objc
+52564	Subj
+Objc
+Subj
+52573	Subj
+52581	Subj
+52594	Objc
+52596	Objc
+52603	Objc
+52613	Subj
+52624	Objc
+52626	Subj
+52633	Objc
+52637	Subj
+52639	Objc
+52656	Subj
+52658	Objc
+52665	Objc
+52669	Subj
+52674	Objc
+52677	Objc
+52681	Subj
+52709	Objc
+52716	Objc
+52726	Subj
+52736	Pred
+52762	Objc
+52765	Subj
+Objc
+52770	Objc
+Subj
+52774	Objc
+52778	Cmpl
+52788	Subj
+52793	Cmpl
+52805	Subj
+Pred
+Subj
+52816	Subj
+Pred
+52859	Objc
+52874	Subj
+52889	Subj
+52897	Objc
+52902	Subj
+52920	Objc
+52923	Objc
+52933	Subj
+52953	Subj
+52992	Subj
+52995	Cmpl
+Subj
+53003	Objc
+53033	Pred
+53036	Subj
+53057	Subj
+53076	Subj
+53079	Pred
+53085	Subj
+53098	Objc
+53103	Cmpl
+53109	Cmpl
+53117	Cmpl
+53119	Objc
+53123	Objc
+53146	Objc
+53151	Cmpl
+53153	Objc
+53164	Objc
+53173	Subj
+53176	Cmpl
+Pred
+53186	Objc
+53188	Subj
+53191	Cmpl
+53195	Subj
+53201	Objc
+Objc
+53221	Cmpl
+53225	Cmpl
+53231	Cmpl
+53233	Subj
+53235	Cmpl
+53246	Cmpl
+53266	Objc
+53277	Cmpl
+53282	Cmpl
+53285	Subj
+53309	Cmpl
+53313	Objc
+53318	Objc
+53320	Cmpl
+53352	Objc
+Pred
+53360	Objc
+53363	Objc
+53365	Cmpl
+53372	Objc
+53377	Pred
+53400	Objc
+Subj
+53414	Subj
+53426	Subj
+53433	Subj
+53449	Subj
+53452	Cmpl
+53457	Subj
+53468	Objc
+53470	Objc
+Subj
+53473	Objc
+53485	Subj
+53504	Subj
+53512	Subj
+53519	Cmpl
+53525	Subj
+53542	Subj
+53552	Subj
+53559	Subj
+53571	Subj
+53585	Objc
+Subj
+53606	Subj
+Cmpl
+53614	Cmpl
+53620	Cmpl
+53637	Objc
+53653	Subj
+53655	Objc
+53686	Subj
+53691	Objc
+53695	Subj
+53703	Objc
+Subj
+53708	Subj
+53732	Objc
+53747	Pred
+53752	Subj
+53754	Objc
+53770	Cmpl
+Subj
+Objc
+53782	Pred
+53795	Objc
+53798	Objc
+Subj
+53801	Cmpl
+Pred
+53805	Pred
+53812	Subj
+53821	Pred
+53827	Pred
+53831	Objc
+53837	Cmpl
+53839	Subj
+53848	Cmpl
+53879	Cmpl
+53891	Subj
+53896	Subj
+53903	Cmpl
+53907	Subj
+53916	Pred
+53924	Subj
+53928	Objc
+53951	Objc
+53957	Pred
+53987	Objc
+53989	Subj
+53991	Objc
+53997	Subj
+54002	Objc
+54005	Objc
+54018	Cmpl
+54034	Pred
+54040	Objc
+Objc
+54045	Subj
+54053	Pred
+54055	Subj
+54060	Subj
+54073	Objc
+54076	Cmpl
+54104	Objc
+54110	Pred
+54112	Subj
+54118	Pred
+54122	Subj
+54126	Pred
+54128	Subj
+54136	Subj
+54153	Subj
+54165	Subj
+Objc
+54172	Cmpl
+Subj
+54181	Pred
+54185	Objc
+54187	Subj
+54203	Subj
+54223	Objc
+Subj
+Pred
+54228	Subj
+54234	Subj
+54236	Cmpl
+54247	Objc
+54253	Objc
+54255	Subj
+Objc
+54260	Subj
+54263	Cmpl
+54268	Subj
+54272	Subj
+54274	Cmpl
+54291	Objc
+54293	Objc
+54295	Subj
+54304	Objc
+54309	Objc
+54329	Subj
+54331	Objc
+54339	Objc
+Cmpl
+54349	Subj
+54354	Objc
+54356	Pred
+54363	Subj
+54365	Pred
+54377	Objc
+54381	Pred
+54390	Pred
+54393	Objc
+Objc
+Subj
+54398	Subj
+54400	Objc
+54405	Subj
+Objc
+54410	Objc
+54413	Subj
+54429	Subj
+54443	Objc
+Subj
+54454	Objc
+54462	Objc
+54465	Objc
+54481	Objc
+54483	Objc
+54488	Pred
+54490	Subj
+Subj
+54502	Subj
+54506	Subj
+54509	Objc
+54522	Pred
+54527	Objc
+54530	Objc
+54535	Pred
+54537	Subj
+Subj
+54558	Subj
+54581	Objc
+54587	Objc
+54597	Subj
+54599	Subj
+54611	Subj
+54616	Subj
+54618	Subj
+54622	Subj
+54647	Pred
+54649	Subj
+54653	Subj
+54667	Objc
+54669	Subj
+54686	Cmpl
+Subj
+54692	Objc
+54699	Subj
+54707	Cmpl
+54735	Pred
+54765	Objc
+54770	Cmpl
+54785	Subj
+54790	Subj
+54795	Subj
+54820	Objc
+54836	Objc
+54840	Cmpl
+54852	Subj
+Cmpl
+54858	Subj
+54860	Objc
+54862	Objc
+54866	Objc
+54870	Objc
+54886	Objc
+54908	Subj
+54942	Objc
+54948	Cmpl
+54951	Pred
+54957	Subj
+Objc
+54960	Subj
+54963	Subj
+54967	Cmpl
+54971	Subj
+Objc
+54980	Cmpl
+54985	Subj
+54993	Objc
+55008	Cmpl
+55011	Subj
+55020	Pred
+55022	Subj
+55025	Cmpl
+55027	Subj
+55031	Pred
+55043	Subj
+55052	Subj
+55057	Subj
+55060	Objc
+55065	Subj
+55070	Pred
+55073	Pred
+55081	Objc
+55095	Pred
+55097	Subj
+55109	Objc
+55113	Cmpl
+Pred
+55120	Subj
+55122	Objc
+55129	Objc
+55149	Subj
+55151	Objc
+55161	Cmpl
+Subj
+55166	Objc
+55174	Subj
+55176	Subj
+55186	Objc
+55190	Subj
+55192	Subj
+55198	Cmpl
+Subj
+55204	Subj
+55209	Subj
+55215	Subj
+55224	Cmpl
+55236	Subj
+55245	Cmpl
+Subj
+Pred
+55250	Cmpl
+55255	Objc
+55259	Cmpl
+Objc
+55270	Objc
+Pred
+55273	Subj
+Objc
+55278	Objc
+55288	Cmpl
+55303	Subj
+55309	Objc
+55313	Objc
+55316	Objc
+55321	Objc
+55327	Objc
+Objc
+55330	Subj
+55336	Objc
+Subj
+55339	Subj
+55350	Objc
+55353	Subj
+55372	Objc
+55380	Objc
+55384	Subj
+55387	Pred
+55390	Cmpl
+55396	Cmpl
+55428	Objc
+55431	Pred
+55440	Objc
+55451	Objc
+Subj
+55461	Objc
+55470	Cmpl
+55474	Pred
+55477	Cmpl
+55496	Subj
+55499	Cmpl
+55501	Objc
+55506	Objc
+Subj
+55510	Subj
+55518	Cmpl
+Subj
+55530	Cmpl
+55541	Objc
+Subj
+55556	Subj
+Objc
+55575	Subj
+55590	Subj
+Pred
+55604	Subj
+55616	Pred
+55630	Objc
+55635	Objc
+55639	Objc
+55643	Subj
+55646	Objc
+55659	Subj
+55673	Cmpl
+55677	Subj
+55679	Pred
+55681	Subj
+55683	Objc
+55686	Subj
+Subj
+Objc
+55697	Subj
+55699	Objc
+Subj
+55715	Cmpl
+55717	Subj
+55722	Objc
+55730	Cmpl
+55736	Objc
+55738	Subj
+55744	Subj
+55747	Subj
+55755	Objc
+55760	Subj
+Pred
+55767	Subj
+55773	Objc
+Objc
+55777	Subj
+55779	Subj
+55781	Objc
+55785	Pred
+55793	Objc
+55795	Subj
+55804	Objc
+Subj
+55808	Objc
+55814	Objc
+55821	Objc
+55853	Objc
+55856	Cmpl
+Subj
+55861	Cmpl
+55863	Subj
+55865	Subj
+55869	Objc
+55874	Subj
+55891	Objc
+55897	Subj
+55908	Subj
+55910	Subj
+55925	Subj
+55932	Objc
+55934	Subj
+55937	Subj
+55939	Subj
+55951	Objc
+55957	Objc
+55971	Cmpl
+55979	Subj
+55995	Objc
+55999	Pred
+56003	Subj
+56009	Subj
+56012	Pred
+56014	Subj
+56018	Pred
+56021	Subj
+56024	Subj
+56028	Cmpl
+56036	Subj
+56041	Pred
+Objc
+56051	Cmpl
+56066	Cmpl
+Pred
+56069	Subj
+56083	Pred
+56100	Objc
+56106	Subj
+56109	Cmpl
+Objc
+56138	Subj
+56148	Subj
+56157	Objc
+Subj
+56167	Subj
+56171	Pred
+56182	Pred
+56195	Objc
+56197	Subj
+56203	Subj
+56221	Subj
+56237	Subj
+56242	Subj
+56245	Objc
+56247	Objc
+56249	Subj
+56253	Objc
+56269	Subj
+Objc
+56272	Objc
+Pred
+56282	Pred
+56284	Objc
+56292	Subj
+56294	Pred
+56297	Cmpl
+56299	Objc
+56302	Subj
+56308	Pred
+56312	Subj
+56314	Pred
+56318	Objc
+56321	Pred
+56327	Cmpl
+Objc
+56330	Cmpl
+56337	Cmpl
+56339	Cmpl
+56357	Objc
+56360	Subj
+56364	Subj
+56370	Subj
+56373	Cmpl
+56377	Objc
+56381	Pred
+56388	Cmpl
+56396	Subj
+56399	Pred
+56410	Objc
+56415	Subj
+Pred
+56423	Objc
+56432	Subj
+56439	Subj
+56445	Objc
+56449	Cmpl
+56452	Subj
+56456	Subj
+56458	Objc
+56461	Objc
+56464	Subj
+56467	Objc
+56471	Objc
+56473	Subj
+56481	Subj
+56485	Pred
+56493	Cmpl
+56498	Objc
+56504	Subj
+56506	Subj
+56513	Objc
+56520	Subj
+56534	Pred
+56540	Objc
+56547	Cmpl
+56551	Pred
+56554	Cmpl
+56558	Pred
+56563	Objc
+56576	Cmpl
+56591	Subj
+Pred
+56595	Pred
+56606	Cmpl
+56626	Objc
+56638	Objc
+56645	Objc
+56665	Cmpl
+56668	Subj
+56672	Pred
+56674	Objc
+56676	Cmpl
+56685	Cmpl
+56687	Subj
+56694	Subj
+56698	Pred
+56701	Pred
+56705	Objc
+56708	Subj
+56715	Subj
+56723	Objc
+56737	Subj
+56740	Objc
+56745	Subj
+56767	Pred
+56773	Pred
+56788	Objc
+56792	Pred
+56801	Subj
+56813	Objc
+56818	Objc
+56821	Subj
+56837	Subj
+56844	Objc
+56846	Subj
+56861	Objc
+56866	Subj
+56874	Objc
+Subj
+56877	Objc
+56881	Subj
+56883	Objc
+56886	Objc
+56889	Objc
+56891	Objc
+56895	Objc
+56904	Subj
+56919	Objc
+56924	Objc
+56926	Subj
+56935	Subj
+56947	Pred
+56963	Objc
+56968	Cmpl
+56976	Subj
+56981	Cmpl
+56984	Cmpl
+56988	Cmpl
+56994	Objc
+Subj
+57003	Subj
+57008	Subj
+57027	Subj
+57029	Objc
+57032	Objc
+Subj
+57035	Cmpl
+57048	Subj
+Objc
+57057	Objc
+57059	Cmpl
+57061	Pred
+57064	Subj
+57076	Pred
+57080	Objc
+57085	Objc
+57087	Cmpl
+57093	Cmpl
+57102	Objc
+57105	Cmpl
+57113	Objc
+57119	Subj
+Pred
+57123	Objc
+Objc
+57126	Cmpl
+57137	Subj
+57139	Pred
+57142	Objc
+57144	Objc
+57158	Objc
+57167	Subj
+57187	Objc
+57192	Objc
+57207	Subj
+57213	Objc
+57233	Subj
+57241	Subj
+57248	Subj
+57255	Objc
+57257	Subj
+57260	Pred
+57263	Subj
+57286	Subj
+57314	Objc
+57382	Cmpl
+57388	Objc
+57397	Subj
+57405	Subj
+57421	Subj
+57434	Objc
+57440	Cmpl
+57450	Objc
+57455	Cmpl
+57468	Subj
+57481	Cmpl
+57485	Subj
+57496	Pred
+57506	Pred
+57521	Subj
+57531	Subj
+57552	Objc
+57562	Subj
+57565	Objc
+Subj
+57581	Pred
+57592	Objc
+57598	Cmpl
+57602	Cmpl
+57610	Cmpl
+57624	Cmpl
+57627	Subj
+57656	Objc
+57658	Cmpl
+57661	Subj
+57664	Subj
+57678	Objc
+57694	Objc
+Subj
+57721	Objc
+57736	Objc
+57746	Objc
+57761	Pred
+57763	Subj
+57765	Objc
+57772	Cmpl
+57776	Pred
+57787	Subj
+57792	Objc
+57800	Objc
+57805	Objc
+57807	Cmpl
+57822	Objc
+57843	Subj
+57855	Pred
+57857	Subj
+57868	Cmpl
+57877	Pred
+57881	Cmpl
+57886	Cmpl
+57910	Objc
+57913	Objc
+Subj
+57919	Objc
+57931	Subj
+Objc
+57935	Objc
+57960	Cmpl
+57964	Objc
+57967	Subj
+57981	Objc
+57996	Cmpl
+Objc
+57999	Subj
+58007	Objc
+58010	Objc
+58021	Objc
+58023	Subj
+58046	Pred
+58052	Cmpl
+Subj
+58056	Objc
+58075	Objc
+58082	Pred
+58090	Subj
+58121	Objc
+58141	Pred
+58151	Pred
+58158	Subj
+58169	Objc
+58182	Subj
+58199	Objc
+58202	Subj
+58204	Pred
+58209	Objc
+58221	Pred
+58224	Objc
+58228	Subj
+58231	Cmpl
+Objc
+58290	Objc
+58303	Cmpl
+58306	Objc
+58316	Pred
+58330	Objc
+58339	Objc
+58347	Objc
+58361	Pred
+58376	Objc
+58414	Subj
+58445	Objc
+58465	Objc
+58476	Subj
+58480	Subj
+58486	Objc
+58488	Cmpl
+58506	Objc
+58513	Objc
+58519	Subj
+58533	Objc
+58552	Subj
+58563	Objc
+58589	Cmpl
+58603	Cmpl
+58615	Subj
+Pred
+58630	Objc
+58645	Objc
+58647	Objc
+Subj
+58650	Objc
+58653	Pred
+58655	Subj
+Pred
+58664	Subj
+Objc
+58668	Objc
+58677	Objc
+58681	Objc
+58701	Subj
+58718	Subj
+58720	Subj
+58722	Subj
+Cmpl
+58726	Subj
+58739	Pred
+58753	Subj
+58759	Objc
+58763	Objc
+58773	Cmpl
+58776	Subj
+58791	Subj
+58799	Pred
+58808	Cmpl
+58826	Subj
+Objc
+58851	Objc
+58853	Subj
+58861	Subj
+58877	Objc
+58880	Subj
+58889	Cmpl
+58899	Subj
+58922	Objc
+Objc
+58925	Subj
+58953	Pred
+58967	Subj
+58984	Objc
+58988	Objc
+58992	Objc
+Subj
+59012	Subj
+59020	Subj
+59023	Objc
+59038	Objc
+59048	Objc
+59051	Objc
+59053	Subj
+59055	Objc
+59061	Subj
+59069	Objc
+59071	Subj
+Cmpl
+Objc
+59075	Objc
+59078	Objc
+59089	Objc
+59091	Subj
+59095	Cmpl
+59133	Objc
+59135	Subj
+59146	Objc
+59152	Objc
+59154	Cmpl
+59180	Objc
+59182	Objc
+59185	Objc
+59209	Cmpl
+59211	Subj
+59217	Subj
+59220	Cmpl
+Objc
+Subj
+59224	Subj
+59233	Cmpl
+Subj
+59245	Subj
+Cmpl
+59250	Objc
+59253	Objc
+59257	Cmpl
+59274	Cmpl
+Subj
+59280	Objc
+59288	Pred
+59291	Subj
+Pred
+59296	Subj
+59301	Objc
+59307	Subj
+Pred
+59325	Cmpl
+59327	Objc
+59329	Cmpl
+Subj
+59332	Objc
+59362	Objc
+59365	Cmpl
+59368	Subj
+59370	Cmpl
+59377	Cmpl
+59380	Subj
+Pred
+59386	Subj
+Pred
+59390	Objc
+59392	Objc
+59394	Pred
+59398	Objc
+59404	Subj
+59406	Objc
+59427	Cmpl
+59436	Subj
+59441	Cmpl
+59445	Objc
+59447	Objc
+59451	Objc
+59456	Objc
+Objc
+59459	Subj
+59470	Cmpl
+59476	Objc
+59498	Objc
+59504	Cmpl
+59509	Cmpl
+59511	Pred
+59517	Subj
+59525	Cmpl
+59527	Pred
+59535	Cmpl
+Subj
+59542	Cmpl
+59565	Cmpl
+Subj
+Objc
+59571	Objc
+59580	Cmpl
+Subj
+59588	Subj
+59591	Cmpl
+Subj
+59604	Objc
+59610	Subj
+59615	Pred
+59620	Subj
+59643	Objc
+59649	Objc
+59657	Objc
+59665	Subj
+59667	Subj
+59678	Cmpl
+59681	Objc
+59684	Objc
+59689	Objc
+59693	Subj
+59699	Objc
+59704	Cmpl
+59711	Subj
+59716	Objc
+59723	Cmpl
+Subj
+59730	Objc
+59740	Subj
+59750	Cmpl
+59753	Subj
+59758	Objc
+59787	Cmpl
+59791	Objc
+Cmpl
+59798	Objc
+Cmpl
+59804	Objc
+59808	Pred
+59810	Subj
+59816	Subj
+59822	Cmpl
+Subj
+59834	Cmpl
+Subj
+Subj
+59846	Subj
+59857	Objc
+59867	Objc
+59871	Cmpl
+Subj
+59875	Cmpl
+59882	Cmpl
+59893	Objc
+59897	Objc
+59902	Subj
+59905	Cmpl
+59911	Subj
+59923	Objc
+Subj
+59926	Cmpl
+59942	Cmpl
+59944	Subj
+59964	Cmpl
+59971	Objc
+Subj
+59974	Subj
+59981	Subj
+59987	Objc
+59995	Objc
+60005	Objc
+60007	Objc
+60012	Subj
+60016	Objc
+60022	Subj
+60030	Cmpl
+60042	Objc
+60051	Objc
+60054	Subj
+60056	Objc
+60067	Objc
+Objc
+60077	Objc
+60080	Subj
+60083	Objc
+60085	Subj
+60095	Subj
+60097	Subj
+60103	Subj
+60106	Subj
+60116	Objc
+Subj
+60121	Objc
+60125	Objc
+60131	Subj
+60133	Objc
+60136	Cmpl
+Objc
+60139	Cmpl
+60146	Subj
+60149	Cmpl
+60152	Objc
+60158	Subj
+60161	Cmpl
+60163	Subj
+60165	Objc
+60175	Objc
+60181	Objc
+60188	Objc
+60197	Objc
+60201	Pred
+60205	Objc
+60207	Objc
+60209	Cmpl
+60220	Objc
+60228	Subj
+Objc
+60231	Objc
+60234	Objc
+60236	Objc
+60238	Cmpl
+Subj
+Objc
+60242	Cmpl
+60247	Cmpl
+60253	Subj
+60255	Cmpl
+60265	Subj
+60267	Cmpl
+60275	Objc
+60286	Pred
+60292	Cmpl
+60300	Objc
+60315	Objc
+60328	Cmpl
+60336	Subj
+60355	Objc
+60357	Objc
+60361	Objc
+60364	Objc
+60370	Subj
+Pred
+60376	Objc
+60378	Cmpl
+60382	Subj
+60390	Objc
+60402	Subj
+60408	Subj
+60412	Subj
+60419	Subj
+60422	Subj
+60432	Objc
+60435	Subj
+60448	Objc
+60467	Objc
+60490	Objc
+60493	Subj
+Objc
+60513	Subj
+60526	Objc
+60528	Cmpl
+60542	Pred
+60550	Objc
+60553	Objc
+60557	Subj
+60560	Subj
+60569	Subj
+60575	Objc
+Subj
+60578	Cmpl
+60581	Objc
+Objc
+60588	Objc
+60593	Objc
+60596	Objc
+60599	Objc
+60606	Cmpl
+60608	Subj
+Objc
+60612	Subj
+60614	Objc
+60617	Objc
+60619	Subj
+60622	Objc
+60630	Objc
+60641	Cmpl
+Objc
+60644	Cmpl
+60647	Objc
+60651	Objc
+60655	Objc
+60678	Subj
+60680	Objc
+60687	Objc
+60693	Objc
+Subj
+60696	Cmpl
+60699	Subj
+Pred
+60705	Objc
+60734	Objc
+60740	Cmpl
+Objc
+60746	Objc
+60754	Objc
+60768	Objc
+60772	Objc
+60800	Objc
+60806	Objc
+Subj
+60809	Cmpl
+60817	Subj
+60822	Subj
+60836	Objc
+60838	Cmpl
+60842	Objc
+60844	Objc
+60847	Subj
+60852	Objc
+60854	Objc
+60859	Objc
+60867	Objc
+60869	Objc
+60871	Cmpl
+60879	Objc
+60881	Subj
+60883	Cmpl
+Objc
+60886	Cmpl
+60901	Objc
+60907	Objc
+60912	Objc
+60914	Cmpl
+60922	Subj
+60926	Cmpl
+60930	Subj
+60947	Objc
+60952	Subj
+60983	Objc
+60995	Objc
+60997	Cmpl
+61013	Objc
+61024	Objc
+61031	Cmpl
+Subj
+Objc
+61042	Cmpl
+61044	Objc
+61048	Pred
+61060	Cmpl
+61065	Objc
+61071	Objc
+61080	Pred
+61083	Objc
+61085	Cmpl
+61090	Objc
+61096	Objc
+61106	Pred
+61108	Objc
+61114	Objc
+61117	Subj
+61120	Objc
+61124	Cmpl
+61136	Objc
+61142	Objc
+61146	Cmpl
+61151	Subj
+61156	Subj
+61169	Objc
+61190	Subj
+61199	Objc
+61204	Objc
+61214	Subj
+61223	Objc
+61226	Objc
+61230	Cmpl
+61232	Objc
+61237	Cmpl
+61246	Objc
+61260	Objc
+61264	Cmpl
+61266	Subj
+61272	Cmpl
+61279	Cmpl
+61292	Cmpl
+61294	Subj
+61305	Objc
+61307	Subj
+Objc
+61313	Subj
+61346	Objc
+61353	Objc
+61356	Objc
+61359	Subj
+Objc
+61370	Cmpl
+Subj
+61376	Subj
+61381	Subj
+61385	Objc
+Objc
+61391	Pred
+61398	Objc
+61400	Cmpl
+61404	Objc
+61409	Objc
+61413	Subj
+61417	Objc
+61419	Subj
+61441	Objc
+61444	Cmpl
+Objc
+61450	Objc
+61452	Cmpl
+61454	Cmpl
+61457	Pred
+61471	Objc
+61475	Subj
+Objc
+61484	Objc
+61486	Cmpl
+61492	Objc
+Subj
+61499	Objc
+61514	Objc
+61516	Cmpl
+61520	Pred
+61522	Cmpl
+Objc
+61534	Objc
+61536	Cmpl
+61543	Objc
+61545	Cmpl
+61547	Cmpl
+61549	Subj
+61561	Subj
+Objc
+61564	Subj
+61575	Objc
+61577	Cmpl
+61579	Pred
+61585	Pred
+61590	Pred
+61602	Subj
+61607	Subj
+61614	Objc
+61619	Objc
+61621	Cmpl
+61624	Pred
+61626	Subj
+61631	Subj
+61633	Objc
+61638	Objc
+61640	Cmpl
+61664	Objc
+61678	Subj
+61680	Cmpl
+61688	Objc
+61696	Subj
+61706	Objc
+61713	Objc
+61723	Subj
+61730	Objc
+61738	Pred
+61741	Objc
+61746	Subj
+61748	Objc
+61755	Subj
+61757	Objc
+61783	Subj
+Pred
+61787	Subj
+61791	Subj
+61805	Subj
+Objc
+61808	Subj
+61811	Objc
+61813	Cmpl
+61815	Cmpl
+61818	Pred
+61820	Subj
+Pred
+Subj
+61826	Subj
+61839	Subj
+Objc
+61844	Objc
+61846	Objc
+61849	Objc
+61851	Cmpl
+61854	Pred
+61856	Subj
+Subj
+61867	Objc
+61869	Cmpl
+61872	Objc
+61881	Objc
+61884	Subj
+61886	Objc
+61889	Subj
+61892	Subj
+Objc
+61897	Cmpl
+61908	Objc
+61912	Subj
+61915	Objc
+61917	Subj
+61928	Pred
+61945	Objc
+61951	Subj
+61980	Subj
+61991	Cmpl
+Objc
+61995	Cmpl
+62000	Cmpl
+Subj
+62009	Objc
+62015	Cmpl
+Subj
+62028	Objc
+Objc
+62031	Subj
+62038	Subj
+62040	Cmpl
+62042	Subj
+62046	Objc
+62049	Subj
+62055	Objc
+62058	Objc
+62060	Cmpl
+62070	Objc
+62072	Objc
+62088	Pred
+62091	Subj
+62106	Objc
+62108	Cmpl
+62114	Objc
+62131	Objc
+62142	Subj
+62150	Subj
+62177	Pred
+62234	Subj
+62244	Objc
+62247	Pred
+62277	Cmpl
+Subj
+Subj
+62284	Subj
+62302	Objc
+62304	Objc
+62309	Objc
+62311	Cmpl
+62313	Subj
+62315	Objc
+62317	Subj
+Objc
+62320	Subj
+62327	Objc
+62336	Cmpl
+Subj
+62349	Objc
+62353	Objc
+62370	Cmpl
+62380	Subj
+62396	Subj
+62400	Subj
+Subj
+62411	Subj
+62414	Subj
+62428	Pred
+62430	Subj
+62461	Cmpl
+62465	Subj
+Objc
+62470	Cmpl
+62472	Objc
+62475	Cmpl
+62479	Objc
+Subj
+62487	Objc
+62489	Cmpl
+62496	Objc
+62503	Objc
+62524	Cmpl
+Subj
+62532	Subj
+62535	Subj
+Objc
+62539	Subj
+62541	Cmpl
+62548	Subj
+Pred
+62559	Objc
+Cmpl
+Objc
+62564	Subj
+62604	Pred
+62607	Cmpl
+62611	Pred
+62613	Subj
+62617	Subj
+62620	Pred
+62622	Subj
+62648	Cmpl
+62651	Pred
+62653	Subj
+62655	Objc
+62664	Cmpl
+Subj
+62670	Objc
+62673	Pred
+62676	Objc
+62678	Cmpl
+62685	Cmpl
+62695	Objc
+62703	Pred
+62717	Objc
+62728	Objc
+62742	Cmpl
+Objc
+62752	Cmpl
+62755	Cmpl
+Objc
+62781	Cmpl
+62788	Objc
+62799	Cmpl
+62803	Objc
+Subj
+62807	Subj
+62813	Objc
+62815	Cmpl
+62818	Subj
+Objc
+62830	Objc
+62852	Pred
+62854	Subj
+62858	Objc
+62861	Cmpl
+62864	Cmpl
+62867	Cmpl
+62873	Objc
+62876	Objc
+62878	Objc
+62881	Objc
+62883	Subj
+62894	Cmpl
+62900	Objc
+Cmpl
+62911	Objc
+62918	Objc
+62927	Objc
+Objc
+62951	Pred
+62954	Pred
+62960	Subj
+62974	Subj
+62978	Objc
+62980	Cmpl
+62992	Objc
+62995	Objc
+62999	Objc
+Cmpl
+63009	Cmpl
+63018	Subj
+63021	Pred
+63023	Objc
+63099	Subj
+63108	Objc
+63128	Objc
+63136	Pred
+63140	Pred
+63149	Objc
+63154	Pred
+63164	Cmpl
+63171	Objc
+63176	Objc
+63202	Subj
+63211	Objc
+63237	Objc
+63248	Subj
+63291	Pred
+63306	Pred
+63347	Subj
+63374	Pred
+63380	Subj
+63391	Subj
+63407	Objc
+63473	Objc
+63479	Pred
+63491	Subj
+63501	Subj
+63512	Pred
+63529	Pred
+63555	Objc
+63561	Cmpl
+63573	Objc
+63621	Objc
+63635	Subj
+63676	Subj
+63687	Subj
+63709	Subj
+63714	Subj
+63726	Cmpl
+Subj
+63732	Cmpl
+63743	Objc
+Objc
+63759	Pred
+63762	Cmpl
+Subj
+63767	Objc
+63769	Subj
+63776	Cmpl
+63779	Subj
+63781	Objc
+63783	Cmpl
+63786	Objc
+Subj
+Objc
+63791	Cmpl
+Subj
+63795	Subj
+63797	Cmpl
+63800	Subj
+63804	Cmpl
+Subj
+63807	Objc
+63823	Cmpl
+63850	Objc
+63852	Cmpl
+63855	Subj
+63866	Pred
+63885	Cmpl
+Subj
+Cmpl
+63889	Objc
+63898	Cmpl
+63908	Cmpl
+63912	Subj
+Cmpl
+63916	Objc
+63919	Subj
+63921	Objc
+63923	Objc
+63928	Cmpl
+63938	Cmpl
+63940	Objc
+63951	Pred
+63958	Subj
+63961	Cmpl
+63968	Subj
+63971	Cmpl
+64011	Pred
+64016	Subj
+64032	Subj
+Cmpl
+64062	Pred
+64064	Pred
+64066	Subj
+64069	Cmpl
+64078	Cmpl
+64083	Objc
+64085	Pred
+64103	Subj
+64111	Subj
+64117	Subj
+64128	Objc
+64137	Objc
+64139	Subj
+64151	Pred
+64158	Pred
+64178	Cmpl
+64184	Cmpl
+64202	Objc
+Subj
+64208	Subj
+64218	Pred
+64222	Cmpl
+Subj
+64230	Cmpl
+64232	Subj
+64235	Cmpl
+64251	Objc
+64264	Objc
+64286	Pred
+64289	Objc
+64303	Pred
+64324	Subj
+64327	Subj
+64330	Subj
+64332	Cmpl
+64339	Objc
+64359	Pred
+64366	Cmpl
+64376	Objc
+Subj
+Pred
+64386	Subj
+64393	Cmpl
+64398	Subj
+64402	Subj
+64420	Objc
+64424	Cmpl
+64427	Subj
+64431	Objc
+64433	Cmpl
+64439	Cmpl
+64445	Objc
+64447	Cmpl
+64450	Subj
+64454	Objc
+64456	Cmpl
+64462	Cmpl
+64468	Objc
+64474	Cmpl
+64478	Objc
+64481	Cmpl
+64483	Objc
+Subj
+64486	Subj
+64490	Objc
+64492	Cmpl
+Subj
+64501	Cmpl
+64504	Pred
+64506	Objc
+64519	Subj
+64521	Objc
+64527	Objc
+64537	Objc
+64540	Cmpl
+64542	Objc
+64549	Objc
+64554	Subj
+64567	Pred
+64571	Objc
+Objc
+64581	Subj
+64583	Pred
+64585	Cmpl
+64589	Subj
+64594	Subj
+64597	Subj
+Objc
+64617	Cmpl
+64625	Subj
+64630	Subj
+64633	Subj
+64644	Objc
+64648	Pred
+64658	Objc
+64662	Subj
+64685	Objc
+64702	Objc
+64705	Cmpl
+64708	Objc
+64713	Subj
+64721	Cmpl
+64733	Cmpl
+64744	Objc
+64748	Subj
+64752	Subj
+64763	Subj
+64768	Objc
+64785	Pred
+64791	Objc
+64801	Objc
+64828	Objc
+64831	Subj
+64834	Subj
+64836	Objc
+64849	Subj
+64859	Subj
+64885	Subj
+64898	Pred
+Subj
+64966	Subj
+64988	Objc
+65001	Pred
+65004	Objc
+65017	Subj
+65021	Objc
+65027	Pred
+65038	Pred
+65054	Subj
+65067	Pred
+65080	Subj
+65126	Pred
+Subj
+65129	Pred
+65135	Subj
+65140	Objc
+65158	Subj
+65167	Objc
+Cmpl
+65190	Subj
+65201	Subj
+65216	Cmpl
+65218	Subj
+65220	Subj
+65229	Subj
+65242	Cmpl
+65276	Subj
+65289	Pred
+65292	Subj
+65346	Subj
+65356	Subj
+65363	Pred
+65365	Subj
+65367	Subj
+65388	Cmpl
+65396	Subj
+65398	Pred
+65408	Subj
+65410	Subj
+65419	Subj
+65457	Objc
+65488	Objc
+65494	Objc
+65526	Subj
+65554	Objc
+65564	Subj
+65580	Objc
+65592	Pred
+65594	Subj
+65597	Subj
+65651	Objc
+65653	Cmpl
+65657	Objc
+65691	Pred
+65699	Cmpl
+65729	Objc
+65740	Pred
+65760	Objc
+Subj
+65768	Subj
+65775	Subj
+65777	Subj
+65813	Objc
+Subj
+65830	Objc
+65834	Subj
+65860	Pred
+65874	Objc
+65888	Objc
+65935	Subj
+65953	Objc
+Objc
+65964	Objc
+Cmpl
+65968	Subj
+Objc
+65983	Objc
+65985	Objc
+65996	Objc
+66030	Pred
+66037	Objc
+66048	Pred
+66051	Objc
+66058	Subj
+66069	Objc
+66073	Subj
+66083	Subj
+66086	Objc
+66088	Objc
+66094	Subj
+66101	Objc
+66104	Objc
+Cmpl
+66117	Objc
+66122	Objc
+66156	Subj
+66164	Objc
+66166	Subj
+66190	Subj
+66207	Pred
+66224	Objc
+66235	Subj
+66253	Objc
+Subj
+66263	Subj
+66265	Subj
+66277	Cmpl
+66284	Objc
+66291	Subj
+Pred
+66302	Objc
+66317	Cmpl
+66340	Objc
+66376	Cmpl
+66379	Objc
+66381	Subj
+66388	Objc
+66400	Subj
+66404	Objc
+Cmpl
+66415	Objc
+Objc
+66420	Objc
+66429	Subj
+66450	Subj
+66457	Subj
+66466	Objc
+66488	Cmpl
+66497	Objc
+66499	Objc
+66503	Objc
+66510	Subj
+66515	Objc
+66530	Subj
+66545	Cmpl
+66557	Pred
+66602	Subj
+66609	Objc
+66622	Objc
+Subj
+66625	Subj
+66638	Subj
+66647	Subj
+66649	Pred
+66666	Objc
+Subj
+66669	Objc
+66677	Subj
+66682	Subj
+66721	Subj
+66737	Pred
+66741	Objc
+66756	Objc
+66761	Subj
+66770	Objc
+66787	Pred
+66802	Cmpl
+66813	Objc
+66835	Pred
+66840	Objc
+66850	Subj
+Objc
+66857	Subj
+66861	Objc
+66867	Objc
+66872	Subj
+66902	Objc
+66911	Subj
+66916	Objc
+66923	Subj
+66954	Subj
+66956	Subj
+66958	Objc
+66993	Objc
+67006	Subj
+67041	Subj
+67059	Subj
+67069	Subj
+67090	Pred
+67093	Subj
+67099	Pred
+67104	Subj
+Pred
+67133	Subj
+67155	Cmpl
+67158	Subj
+Objc
+67165	Pred
+67169	Subj
+67179	Pred
+Subj
+67195	Pred
+67203	Objc
+67237	Subj
+67260	Pred
+67272	Cmpl
+67298	Objc
+67321	Subj
+67323	Cmpl
+67329	Subj
+67339	Pred
+67360	Objc
+67375	Subj
+Pred
+67397	Objc
+67415	Subj
+67429	Objc
+67459	Subj
+67510	Objc
+67526	Objc
+67578	Subj
+67585	Objc
+67611	Objc
+67630	Pred
+67633	Subj
+67636	Subj
+67638	Cmpl
+67643	Objc
+67665	Objc
+67677	Objc
+67684	Objc
+67690	Cmpl
+67724	Objc
+67727	Objc
+67735	Objc
+Subj
+67741	Objc
+67753	Objc
+67760	Subj
+67771	Objc
+67777	Objc
+Subj
+67785	Objc
+67794	Pred
+67813	Objc
+67818	Objc
+67827	Subj
+67830	Pred
+Subj
+67838	Subj
+67842	Subj
+67844	Objc
+67863	Objc
+67866	Subj
+67870	Subj
+67872	Objc
+67878	Cmpl
+67886	Objc
+67908	Objc
+67932	Subj
+67963	Pred
+67999	Pred
+68001	Subj
+68008	Objc
+68021	Objc
+68027	Subj
+68068	Objc
+68076	Cmpl
+68102	Subj
+68125	Pred
+68156	Subj
+68178	Objc
+68195	Objc
+68206	Subj
+68221	Objc
+68223	Cmpl
+Subj
+68247	Subj
+68250	Subj
+68274	Subj
+68295	Objc
+68297	Cmpl
+68315	Objc
+68322	Subj
+68328	Cmpl
+Objc
+68338	Cmpl
+68341	Objc
+68350	Pred
+Subj
+68362	Pred
+68368	Objc
+68376	Objc
+68380	Subj
+68390	Objc
+68397	Cmpl
+68407	Objc
+68413	Subj
+68417	Subj
+68438	Objc
+68446	Cmpl
+68456	Objc
+68467	Subj
+68480	Objc
+68486	Subj
+68488	Subj
+68501	Subj
+68506	Pred
+68515	Subj
+68531	Subj
+68550	Objc
+68552	Subj
+68568	Objc
+68588	Subj
+68593	Subj
+68605	Objc
+68615	Subj
+68618	Pred
+68621	Subj
+68632	Subj
+68634	Objc
+68640	Objc
+Cmpl
+68646	Subj
+68652	Pred
+68678	Subj
+68683	Objc
+68701	Objc
+Cmpl
+Subj
+68712	Cmpl
+68716	Objc
+68721	Pred
+68726	Objc
+68733	Objc
+68735	Subj
+Objc
+68745	Objc
+Subj
+68756	Subj
+68763	Pred
+68776	Cmpl
+68783	Subj
+68797	Subj
+68802	Subj
+68815	Pred
+68818	Subj
+68824	Cmpl
+68860	Objc
+68865	Objc
+68871	Objc
+68874	Subj
+Objc
+68880	Objc
+68893	Cmpl
+68897	Subj
+68899	Objc
+68917	Subj
+68926	Objc
+Cmpl
+68936	Objc
+Subj
+68952	Cmpl
+68961	Subj
+68966	Cmpl
+68970	Pred
+68989	Cmpl
+68991	Subj
+68998	Subj
+69000	Objc
+69006	Subj
+69017	Objc
+69034	Objc
+69051	Cmpl
+69073	Objc
+69076	Objc
+69079	Objc
+69100	Objc
+69104	Objc
+69106	Objc
+69120	Objc
+69133	Subj
+69135	Objc
+69142	Objc
+69146	Subj
+69149	Cmpl
+Objc
+69165	Pred
+69176	Cmpl
+69178	Subj
+69180	Pred
+69199	Subj
+69231	Subj
+69236	Subj
+69248	Objc
+69261	Pred
+69272	Subj
+69326	Pred
+69350	Cmpl
+69355	Objc
+69358	Subj
+69379	Subj
+69404	Subj
+69429	Subj
+69438	Cmpl
+69454	Subj
+69459	Objc
+69489	Pred
+69504	Subj
+69506	Objc
+69514	Subj
+69522	Pred
+69525	Objc
+69533	Objc
+69595	Subj
+69647	Cmpl
+Objc
+69651	Cmpl
+69656	Cmpl
+69664	Subj
+69688	Pred
+69702	Pred
+69734	Subj
+69742	Subj
+69753	Objc
+69755	Subj
+69795	Subj
+69797	Pred
+69810	Subj
+69817	Subj
+69853	Subj
+69863	Objc
+69865	Subj
+69874	Subj
+69876	Objc
+69890	Objc
+69893	Pred
+69895	Subj
+69901	Subj
+69905	Objc
+Pred
+69923	Subj
+69941	Objc
+69947	Objc
+69968	Cmpl
+69986	Subj
+Subj
+69989	Subj
+70010	Objc
+70025	Objc
+70035	Subj
+70049	Subj
+70097	Subj
+70103	Objc
+70105	Subj
+70115	Subj
+70117	Cmpl
+70121	Objc
+70125	Pred
+70128	Subj
+70130	Subj
+70133	Objc
+Subj
+70145	Cmpl
+70147	Objc
+Subj
+70163	Objc
+70168	Subj
+70177	Objc
+70181	Objc
+70203	Pred
+70213	Subj
+70217	Subj
+70231	Pred
+70237	Pred
+70246	Pred
+70251	Cmpl
+Objc
+70257	Subj
+70300	Subj
+70314	Subj
+70317	Cmpl
+Objc
+70320	Subj
+70328	Subj
+70346	Objc
+70350	Cmpl
+70370	Subj
+70378	Objc
+70398	Subj
+70412	Subj
+70430	Objc
+70435	Subj
+70448	Subj
+70461	Objc
+70479	Objc
+70491	Objc
+70504	Subj
+70506	Objc
+70511	Pred
+Subj
+70515	Objc
+70522	Cmpl
+70533	Cmpl
+70565	Subj
+70569	Objc
+70575	Objc
+70580	Objc
+70596	Objc
+70613	Subj
+70631	Pred
+70638	Subj
+70643	Cmpl
+70648	Objc
+70654	Cmpl
+70660	Objc
+70668	Subj
+70681	Subj
+70684	Pred
+Subj
+70687	Pred
+70692	Objc
+70701	Subj
+70711	Subj
+70718	Subj
+70735	Subj
+70738	Objc
+70756	Objc
+70766	Objc
+70782	Subj
+70795	Cmpl
+Objc
+70798	Objc
+70807	Objc
+70809	Pred
+70818	Subj
+70839	Pred
+70845	Pred
+70885	Cmpl
+70887	Subj
+70890	Objc
+70892	Pred
+70895	Pred
+70900	Cmpl
+70917	Objc
+70924	Subj
+70926	Pred
+Subj
+70933	Pred
+70935	Subj
+70945	Cmpl
+70955	Objc
+70958	Objc
+Cmpl
+70961	Objc
+70969	Subj
+70975	Subj
+70985	Pred
+70991	Subj
+70995	Subj
+71030	Subj
+71052	Subj
+71058	Objc
+71062	Subj
+71065	Subj
+71085	Pred
+71090	Objc
+71116	Pred
+71133	Objc
+71141	Objc
+71144	Subj
+71146	Objc
+71149	Subj
+71155	Subj
+71157	Objc
+71159	Pred
+71165	Subj
+71189	Objc
+71196	Objc
+71201	Objc
+71231	Objc
+71248	Objc
+71260	Objc
+71266	Pred
+71275	Subj
+71280	Subj
+71283	Pred
+71291	Cmpl
+71311	Objc
+71333	Subj
+71362	Subj
+71364	Pred
+Subj
+71378	Subj
+71395	Cmpl
+71401	Subj
+71411	Pred
+71420	Objc
+71423	Objc
+Pred
+71429	Objc
+71435	Objc
+71439	Subj
+71443	Subj
+71459	Objc
+71461	Subj
+71468	Objc
+71475	Subj
+71493	Subj
+71496	Objc
+71506	Objc
+71512	Objc
+71522	Subj
+Pred
+71537	Subj
+71545	Subj
+71550	Cmpl
+71557	Subj
+71568	Cmpl
+71609	Subj
+71626	Subj
+71635	Subj
+71641	Subj
+71646	Subj
+71657	Subj
+71666	Subj
+71694	Subj
+71708	Objc
+71715	Subj
+71717	Cmpl
+71720	Subj
+71771	Subj
+71773	Cmpl
+71797	Subj
+71801	Objc
+71805	Subj
+71808	Subj
+71816	Subj
+71841	Cmpl
+71844	Objc
+71864	Cmpl
+71884	Pred
+Subj
+71887	Objc
+71903	Subj
+71926	Subj
+71930	Subj
+71942	Cmpl
+71954	Subj
+Pred
+71963	Objc
+71999	Cmpl
+72006	Cmpl
+72016	Subj
+72061	Objc
+72064	Subj
+72076	Subj
+72105	Objc
+72132	Pred
+72141	Subj
+72150	Pred
+72163	Subj
+72172	Subj
+72185	Objc
+72224	Pred
+72237	Objc
+72248	Objc
+72254	Objc
+72265	Subj
+72282	Objc
+72298	Subj
+72312	Subj
+72324	Objc
+72354	Cmpl
+72361	Objc
+72369	Pred
+72378	Objc
+72397	Subj
+72400	Cmpl
+72432	Objc
+72457	Pred
+72460	Subj
+72466	Subj
+72475	Pred
+72498	Subj
+72504	Subj
+72507	Pred
+72509	Subj
+72524	Objc
+72529	Cmpl
+72534	Cmpl
+72538	Objc
+72550	Objc
+72559	Subj
+72567	Pred
+72572	Subj
+72575	Objc
+72613	Objc
+72646	Pred
+72650	Objc
+72663	Pred
+72687	Pred
+72706	Pred
+72721	Subj
+72733	Cmpl
+72743	Objc
+72752	Cmpl
+72754	Subj
+72788	Objc
+72803	Subj
+Pred
+Subj
+72814	Subj
+72827	Objc
+72886	Pred
+72904	Objc
+72931	Subj
+72939	Subj
+72990	Subj
+73029	Objc
+73037	Objc
+73061	Objc
+73067	Objc
+73070	Cmpl
+73085	Objc
+73089	Cmpl
+73092	Cmpl
+73106	Subj
+73126	Subj
+73141	Subj
+73145	Pred
+Subj
+73151	Subj
+73160	Pred
+73178	Cmpl
+73194	Objc
+73214	Objc
+73216	Subj
+73236	Objc
+73239	Subj
+73252	Subj
+73261	Subj
+Objc
+73271	Objc
+73279	Objc
+73291	Subj
+Subj
+73295	Objc
+73299	Objc
+73311	Cmpl
+73328	Objc
+Subj
+73348	Objc
+Objc
+73356	Objc
+Pred
+73366	Cmpl
+73403	Objc
+73405	Subj
+73411	Objc
+73416	Subj
+73418	Cmpl
+73421	Subj
+73428	Cmpl
+73449	Subj
+73451	Cmpl
+73453	Subj
+73496	Cmpl
+73498	Pred
+73507	Objc
+73512	Objc
+73524	Cmpl
+73528	Objc
+73534	Subj
+73554	Subj
+73586	Objc
+73594	Objc
+73599	Subj
+73627	Subj
+73691	Subj
+73697	Subj
+73718	Objc
+73738	Pred
+73744	Pred
+73749	Subj
+73752	Subj
+73757	Subj
+73759	Objc
+73764	Objc
+73784	Objc
+73786	Subj
+73804	Objc
+73808	Objc
+73810	Subj
+73858	Objc
+73867	Objc
+73876	Subj
+73891	Subj
+73906	Objc
+Objc
+73911	Cmpl
+Objc
+73925	Objc
+73934	Cmpl
+73941	Subj
+73955	Subj
+73961	Objc
+73983	Objc
+74009	Subj
+74018	Cmpl
+74021	Objc
+74026	Objc
+74063	Objc
+74072	Objc
+74094	Subj
+74148	Subj
+74189	Objc
+74209	Objc
+74233	Subj
+74239	Subj
+74268	Cmpl
+74278	Objc
+74298	Objc
+74304	Objc
+74325	Subj
+74337	Objc
+74353	Subj
+74355	Subj
+74360	Objc
+Subj
+74371	Objc
+74401	Objc
+74427	Pred
+74431	Subj
+74445	Cmpl
+74460	Subj
+74469	Objc
+74490	Objc
+74504	Pred
+74542	Objc
+74548	Cmpl
+74556	Objc
+74603	Cmpl
+74620	Objc
+74624	Subj
+74650	Pred
+74672	Objc
+74698	Subj
+74714	Pred
+74716	Subj
+74725	Pred
+Subj
+74744	Objc
+74747	Subj
+74750	Subj
+74762	Subj
+74765	Objc
+74797	Pred
+74799	Pred
+74807	Subj
+74816	Subj
+74826	Objc
+74838	Subj
+74840	Pred
+74851	Cmpl
+74909	Objc
+74921	Subj
+74934	Objc
+74941	Objc
+74955	Subj
+74959	Objc
+74976	Subj
+75004	Pred
+75006	Subj
+75018	Pred
+75048	Subj
+Pred
+75061	Objc
+75065	Subj
+75075	Objc
+Subj
+75084	Subj
+75101	Subj
+75103	Cmpl
+75106	Objc
+75114	Subj
+75121	Cmpl
+75161	Objc
+75172	Pred
+75177	Objc
+75184	Pred
+75204	Cmpl
+75214	Objc
+Subj
+75220	Objc
+75246	Objc
+75271	Pred
+75287	Objc
+75295	Subj
+75301	Cmpl
+75303	Subj
+75306	Pred
+75309	Objc
+75312	Pred
+75321	Objc
+75325	Objc
+Subj
+75331	Subj
+75348	Cmpl
+75362	Objc
+75383	Objc
+75388	Objc
+75395	Subj
+75437	Objc
+75449	Objc
+75455	Subj
+Objc
+75471	Pred
+75476	Objc
+75510	Pred
+75547	Subj
+75553	Objc
+Subj
+75556	Cmpl
+75603	Objc
+75611	Objc
+75626	Subj
+75630	Objc
+75632	Subj
+75645	Subj
+75654	Objc
+75666	Objc
+75682	Subj
+75690	Subj
+75693	Pred
+75697	Subj
+75712	Subj
+Pred
+75809	Objc
+75819	Pred
+75855	Subj
+75857	Objc
+75864	Subj
+75880	Objc
+75889	Pred
+75909	Pred
+75911	Subj
+75926	Objc
+75933	Subj
+75946	Subj
+75963	Objc
+75967	Objc
+Subj
+75970	Cmpl
+75982	Subj
+75999	Objc
+Subj
+76002	Cmpl
+76038	Objc
+76092	Pred
+76123	Objc
+76125	Objc
+76127	Cmpl
+76129	Objc
+76136	Subj
+76139	Subj
+76143	Objc
+76159	Cmpl
+76170	Pred
+76189	Pred
+Pred
+76205	Subj
+76218	Pred
+76227	Pred
+76266	Pred
+76269	Subj
+76285	Pred
+Subj
+76352	Subj
+76357	Subj
+76359	Objc
+76362	Objc
+76366	Pred
+76385	Subj
+76399	Objc
+76409	Subj
+76442	Objc
+76457	Subj
+76459	Subj
+76466	Objc
+76472	Subj
+76513	Objc
+76518	Objc
+76521	Subj
+76532	Subj
+76585	Pred
+76587	Pred
+76595	Pred
+76600	Subj
+76624	Subj
+76633	Objc
+76638	Objc
+76641	Cmpl
+76649	Subj
+76662	Subj
+76684	Pred
+76694	Subj
+76715	Subj
+76732	Subj
+76741	Subj
+Subj
+76756	Subj
+76772	Cmpl
+76775	Objc
+76814	Subj
+76837	Subj
+76918	Objc
+76921	Objc
+Subj
+76932	Objc
+76941	Cmpl
+76949	Subj
+76951	Pred
+76980	Subj
+76983	Pred
+76995	Subj
+77052	Subj
+77072	Subj
+Pred
+77075	Subj
+77087	Objc
+77091	Subj
+77109	Pred
+77168	Pred
+77176	Subj
+77202	Objc
+77214	Pred
+77218	Pred
+77241	Subj
+77250	Objc
+77260	Pred
+77267	Objc
+77271	Subj
+77295	Objc
+77297	Objc
+77313	Pred
+77325	Pred
+77342	Subj
+77356	Pred
+77359	Subj
+77362	Subj
+77393	Objc
+Subj
+77397	Subj
+77400	Objc
+77403	Objc
+77427	Objc
+77433	Objc
+77463	Objc
+77475	Subj
+77512	Subj
+77516	Objc
+77519	Subj
+77550	Subj
+77552	Objc
+77582	Pred
+77649	Subj
+77669	Subj
+77679	Objc
+77720	Pred
+77748	Cmpl
+Subj
+77793	Cmpl
+77796	Objc
+77821	Subj
+77831	Objc
+77843	Cmpl
+77849	Objc
+77867	Objc
+77883	Subj
+77901	Cmpl
+77907	Pred
+77924	Cmpl
+77933	Objc
+77939	Objc
+77945	Objc
+77952	Subj
+77973	Subj
+78001	Objc
+78028	Subj
+78043	Objc
+78045	Cmpl
+78061	Subj
+78063	Pred
+78070	Objc
+78080	Pred
+78093	Objc
+78110	Objc
+78118	Subj
+78150	Objc
+78175	Subj
+78190	Subj
+78196	Objc
+Subj
+78215	Objc
+78221	Subj
+78227	Subj
+78268	Pred
+78286	Pred
+78305	Objc
+78313	Pred
+78332	Objc
+78342	Subj
+78349	Objc
+78357	Subj
+78378	Subj
+78415	Subj
+78420	Objc
+78440	Objc
+78445	Objc
+78456	Subj
+78464	Cmpl
+78476	Subj
+78499	Subj
+78506	Pred
+78513	Objc
+78516	Objc
+Cmpl
+78520	Pred
+78523	Objc
+78527	Objc
+78542	Subj
+78544	Objc
+78548	Pred
+78562	Subj
+78566	Subj
+78621	Objc
+78639	Subj
+78654	Objc
+78682	Objc
+78706	Objc
+78717	Objc
+78720	Subj
+78729	Subj
+78738	Subj
+78755	Objc
+78763	Pred
+78766	Objc
+78769	Subj
+78780	Subj
+78789	Subj
+78801	Subj
+78818	Objc
+78834	Objc
+78837	Subj
+78844	Subj
+78868	Subj
+78882	Objc
+78884	Cmpl
+78891	Subj
+78930	Objc
+78933	Objc
+78936	Subj
+78970	Subj
+78991	Cmpl
+79010	Pred
+79043	Subj
+79045	Cmpl
+79049	Objc
+79051	Subj
+79054	Pred
+79061	Subj
+79066	Objc
+Subj
+79085	Cmpl
+79088	Objc
+79102	Cmpl
+79106	Objc
+79108	Cmpl
+79148	Cmpl
+79152	Subj
+79159	Subj
+79168	Objc
+79191	Objc
+79197	Objc
+79218	Subj
+79223	Subj
+79228	Subj
+79230	Cmpl
+79245	Subj
+79248	Subj
+79251	Subj
+79284	Objc
+79291	Subj
+79296	Objc
+79299	Objc
+79319	Subj
+79323	Subj
+79329	Objc
+79338	Subj
+79345	Subj
+79353	Cmpl
+79357	Objc
+79384	Objc
+79391	Pred
+79398	Cmpl
+79400	Cmpl
+Subj
+Pred
+79404	Subj
+79412	Subj
+79423	Subj
+79434	Objc
+79443	Pred
+79447	Objc
+79464	Objc
+79490	Subj
+79520	Objc
+79530	Objc
+79537	Subj
+79557	Pred
+79577	Pred
+79581	Pred
+79588	Subj
+Pred
+79599	Objc
+79601	Subj
+79613	Subj
+79623	Subj
+79652	Subj
+79654	Cmpl
+79656	Subj
+79675	Objc
+79703	Subj
+79711	Subj
+79713	Objc
+79717	Objc
+79737	Subj
+79747	Subj
+Objc
+79757	Subj
+79766	Objc
+79776	Subj
+79781	Subj
+Pred
+79786	Objc
+79823	Objc
+Cmpl
+Subj
+79829	Objc
+79840	Objc
+79849	Objc
+79851	Cmpl
+79864	Pred
+79866	Objc
+79869	Cmpl
+79878	Objc
+79889	Objc
+79894	Subj
+79901	Objc
+79907	Subj
+79909	Subj
+79917	Objc
+79921	Pred
+79935	Cmpl
+79938	Objc
+79967	Objc
+80011	Pred
+80021	Objc
+80027	Subj
+80045	Cmpl
+Subj
+80071	Cmpl
+80094	Subj
+80109	Cmpl
+80124	Objc
+80139	Subj
+80155	Subj
+80164	Subj
+80176	Subj
+80200	Objc
+80204	Subj
+Objc
+80218	Objc
+80232	Subj
+80238	Objc
+80244	Subj
+80250	Objc
+Subj
+80253	Objc
+80260	Subj
+Pred
+80268	Cmpl
+80276	Subj
+Pred
+80288	Subj
+80292	Pred
+80309	Subj
+80328	Cmpl
+80330	Objc
+80333	Objc
+80336	Objc
+Cmpl
+80342	Objc
+80344	Objc
+80367	Objc
+80399	Objc
+80407	Objc
+80411	Subj
+80428	Subj
+80436	Objc
+80448	Subj
+80457	Objc
+80466	Subj
+80473	Objc
+80496	Subj
+80499	Objc
+80507	Objc
+80521	Pred
+80527	Objc
+80536	Subj
+80546	Pred
+80555	Objc
+80559	Objc
+80564	Subj
+80566	Cmpl
+80573	Objc
+80577	Subj
+80588	Objc
+80598	Subj
+80613	Cmpl
+80626	Objc
+80628	Objc
+80633	Objc
+80636	Objc
+80639	Objc
+80653	Subj
+80674	Objc
+80700	Subj
+80713	Objc
+80734	Objc
+80742	Objc
+80769	Subj
+80772	Objc
+80795	Pred
+80797	Objc
+Subj
+80800	Objc
+Subj
+Objc
+80804	Cmpl
+80806	Objc
+80816	Objc
+80862	Subj
+80876	Objc
+80883	Pred
+80928	Objc
+Subj
+80947	Subj
+80954	Subj
+80974	Subj
+80982	Subj
+80986	Objc
+80989	Subj
+81003	Objc
+81060	Objc
+81069	Subj
+81072	Subj
+81077	Subj
+81099	Objc
+81113	Objc
+81115	Pred
+81120	Objc
+81128	Subj
+81135	Cmpl
+81148	Objc
+81155	Objc
+Objc
+81165	Subj
+81178	Objc
+81201	Objc
+81253	Pred
+81260	Objc
+81262	Subj
+81277	Objc
+81287	Subj
+81299	Subj
+81301	Objc
+81309	Objc
+81351	Subj
+81365	Subj
+81375	Objc
+81377	Pred
+81382	Subj
+81385	Pred
+81392	Subj
+81395	Objc
+Subj
+81410	Cmpl
+81412	Objc
+81419	Objc
+81423	Cmpl
+81425	Objc
+81435	Subj
+81437	Objc
+81457	Subj
+81474	Pred
+81509	Objc
+Subj
+81534	Objc
+81537	Subj
+81547	Pred
+81551	Pred
+81555	Objc
+81564	Objc
+81566	Subj
+81578	Objc
+81610	Objc
+81621	Subj
+81638	Objc
+81640	Objc
+81663	Objc
+81667	Pred
+81705	Subj
+81718	Objc
+81724	Subj
+81738	Pred
+81778	Objc
+81790	Pred
+81817	Objc
+81833	Objc
+81864	Pred
+81878	Cmpl
+81918	Pred
+81928	Objc
+81949	Subj
+81970	Pred
+81988	Pred
+81991	Pred
+81995	Objc
+81997	Objc
+82017	Subj
+82020	Objc
+82051	Subj
+82069	Objc
+82087	Subj
+82092	Pred
+82107	Pred
+82109	Objc
+82118	Subj
+82124	Cmpl
+82140	Pred
+82146	Cmpl
+82152	Subj
+82160	Subj
+82203	Subj
+82224	Objc
+82237	Subj
+82242	Subj
+82256	Subj
+82261	Subj
+82267	Subj
+82269	Objc
+82277	Objc
+82281	Subj
+82283	Objc
+Subj
+82301	Objc
+82304	Objc
+82314	Pred
+82317	Subj
+82321	Objc
+82335	Objc
+82347	Subj
+82358	Objc
+82423	Subj
+82434	Objc
+82451	Subj
+82455	Subj
+82466	Subj
+82476	Pred
+82488	Cmpl
+82491	Objc
+82516	Subj
+82541	Pred
+82546	Subj
+82556	Subj
+82568	Subj
+82571	Subj
+82581	Subj
+82592	Subj
+82594	Pred
+82603	Subj
+82609	Pred
+Subj
+82612	Objc
+82638	Cmpl
+82640	Objc
+Subj
+82652	Objc
+82656	Subj
+82661	Objc
+82681	Pred
+Subj
+82700	Subj
+82707	Objc
+82737	Objc
+82745	Objc
+82760	Objc
+82768	Subj
+82776	Subj
+82780	Subj
+82802	Subj
+82804	Objc
+82821	Objc
+82828	Objc
+82836	Objc
+82850	Subj
+82855	Subj
+82881	Objc
+82889	Pred
+82897	Cmpl
+Objc
+82905	Subj
+Cmpl
+82915	Objc
+82932	Subj
+82937	Subj
+82940	Pred
+83021	Objc
+Pred
+83035	Subj
+83079	Objc
+83151	Cmpl
+83189	Objc
+83228	Objc
+83233	Cmpl
+83238	Subj
+Subj
+83257	Subj
+83292	Pred
+83365	Pred
+83372	Cmpl
+83395	Subj
+Pred
+83421	Pred
+83443	Objc
+83461	Subj
+83479	Subj
+83481	Pred
+83489	Objc
+83526	Subj
+83535	Subj
+83553	Objc
+83569	Pred
+83589	Subj
+83600	Pred
+83605	Objc
+83613	Pred
+83626	Objc
+83651	Objc
+83662	Objc
+83664	Subj
+83691	Objc
+83702	Cmpl
+Objc
+83712	Subj
+83714	Cmpl
+83783	Subj
+83787	Subj
+83795	Subj
+83807	Pred
+83821	Objc
+83829	Objc
+83834	Pred
+Subj
+83878	Subj
+Pred
+83902	Subj
+83928	Objc
+Objc
+83947	Subj
+83972	Subj
+83977	Objc
+83987	Pred
+84028	Pred
+84037	Pred
+84043	Pred
+84045	Subj
+Pred
+84061	Pred
+84068	Pred
+84073	Pred
+84077	Pred
+84090	Subj
+84106	Pred
+84110	Pred
+84125	Subj
+84134	Objc
+84137	Pred
+84173	Subj
+84184	Subj
+Subj
+84198	Pred
+84200	Objc
+84220	Subj
+84222	Subj
+84233	Subj
+84241	Objc
+84268	Pred
+84273	Objc
+84297	Objc
+84311	Pred
+84361	Subj
+Subj
+84383	Objc
+84387	Objc
+84423	Subj
+84431	Pred
+84450	Subj
+84455	Pred
+84466	Pred
+84469	Subj
+84471	Objc
+84475	Objc
+84479	Objc
+84488	Objc
+84490	Objc
+84502	Subj
+84507	Objc
+84512	Objc
+84519	Subj
+84524	Cmpl
+84564	Cmpl
+84568	Objc
+84571	Pred
+84581	Pred
+84587	Subj
+Objc
+84641	Subj
+84651	Cmpl
+84690	Subj
+84702	Pred
+84713	Objc
+84719	Subj
+84721	Subj
+84732	Pred
+84750	Subj
+84762	Objc
+84764	Objc
+84778	Subj
+84787	Subj
+84794	Pred
+84809	Pred
+84833	Objc
+84839	Objc
+84848	Cmpl
+84859	Cmpl
+84864	Cmpl
+84878	Subj
+84894	Objc
+84941	Objc
+84946	Objc
+84950	Objc
+84971	Cmpl
+84974	Subj
+84976	Subj
+Pred
+84988	Subj
+84995	Subj
+85010	Pred
+85012	Subj
+Subj
+85034	Pred
+85102	Subj
+85107	Subj
+85111	Subj
+85117	Subj
+85137	Subj
+85268	Pred
+85279	Pred
+85283	Subj
+85322	Objc
+85334	Subj
+85346	Subj
+85368	Subj
+85385	Pred
+85397	Objc
+85414	Subj
+85436	Subj
+85442	Subj
+85463	Subj
+85465	Pred
+85503	Objc
+85518	Subj
+85531	Objc
+85547	Cmpl
+85549	Objc
+Objc
+85553	Pred
+85555	Objc
+85558	Pred
+85562	Pred
+85565	Subj
+85591	Objc
+85605	Objc
+85620	Objc
+85631	Pred
+85641	Objc
+85648	Pred
+85675	Pred
+85694	Objc
+85731	Pred
+85742	Pred
+85750	Subj
+Pred
+85771	Subj
+85817	Subj
+85825	Objc
+85830	Pred
+85855	Objc
+85871	Subj
+Pred
+Subj
+85886	Subj
+85903	Objc
+85909	Objc
+85918	Pred
+85932	Pred
+85940	Pred
+85944	Cmpl
+85946	Objc
+85951	Pred
+85962	Pred
+85964	Subj
+85966	Pred
+85972	Objc
+85979	Objc
+85981	Objc
+85984	Objc
+85986	Objc
+85990	Objc
+85993	Objc
+85999	Pred
+86003	Subj
+86005	Objc
+86019	Subj
+86025	Subj
+86039	Objc
+86044	Objc
+86048	Objc
+86052	Objc
+86055	Subj
+Objc
+86059	Subj
+86061	Objc
+86109	Objc
+86122	Subj
+86124	Subj
+Objc
+86133	Subj
+86176	Objc
+86252	Pred
+86266	Pred
+86284	Objc
+86288	Subj
+86305	Subj
+86310	Subj
+86313	Pred
+86316	Subj
+86322	Pred
+86328	Pred
+86366	Pred
+86391	Subj
+86396	Subj
+86431	Pred
+86449	Pred
+86553	Pred
+Objc
+86557	Subj
+86562	Objc
+86580	Objc
+86599	Pred
+86617	Subj
+86624	Pred
+86627	Objc
+86640	Subj
+Pred
+86645	Objc
+86648	Objc
+86652	Objc
+86654	Objc
+86657	Objc
+86660	Objc
+86663	Objc
+86673	Subj
+86676	Subj
+86688	Objc
+86696	Cmpl
+86698	Subj
+86703	Subj
+86706	Subj
+86716	Subj
+86722	Subj
+86727	Subj
+Objc
+86769	Objc
+86796	Objc
+86810	Objc
+86825	Subj
+86828	Pred
+86837	Pred
+86853	Subj
+86856	Pred
+86874	Pred
+86890	Pred
+86896	Subj
+86910	Subj
+Pred
+86917	Subj
+Pred
+86923	Cmpl
+Subj
+Subj
+86932	Subj
+86948	Pred
+86958	Subj
+86967	Objc
+86998	Cmpl
+87014	Objc
+87018	Subj
+87029	Objc
+87034	Objc
+87060	Objc
+87080	Objc
+87083	Objc
+87088	Cmpl
+87097	Subj
+87103	Pred
+87116	Objc
+87132	Objc
+87137	Objc
+87174	Objc
+87178	Objc
+87215	Cmpl
+87219	Subj
+87225	Subj
+87246	Objc
+87252	Subj
+87259	Subj
+87265	Cmpl
+Objc
+87276	Objc
+87284	Objc
+87292	Subj
+87353	Cmpl
+87382	Subj
+87388	Subj
+87416	Subj
+87421	Subj
+87423	Objc
+87426	Subj
+87431	Subj
+87433	Objc
+87438	Objc
+87454	Subj
+87460	Objc
+87480	Objc
+87518	Pred
+87524	Objc
+87527	Subj
+87538	Objc
+87544	Objc
+87561	Pred
+87566	Objc
+87569	Subj
+87573	Subj
+87577	Subj
+87619	Subj
+87623	Subj
+87625	Subj
+87627	Objc
+87635	Objc
+Subj
+87643	Objc
+87646	Pred
+87649	Objc
+87683	Pred
+87697	Objc
+87704	Objc
+87724	Subj
+87733	Objc
+87735	Cmpl
+87739	Cmpl
+87742	Subj
+87745	Objc
+87755	Subj
+87771	Pred
+Objc
+87774	Objc
+87776	Subj
+Objc
+87791	Cmpl
+87810	Subj
+87861	Objc
+87890	Subj
+87915	Pred
+87920	Subj
+87927	Pred
+87935	Pred
+87945	Subj
+87947	Pred
+87969	Subj
+87976	Objc
+87980	Subj
+87982	Subj
+87988	Subj
+87994	Objc
+88009	Objc
+88021	Subj
+88035	Subj
+88043	Pred
+88050	Objc
+88053	Subj
+88079	Subj
+88090	Pred
+88092	Subj
+88118	Objc
+88122	Subj
+88137	Pred
+88144	Pred
+88148	Pred
+88159	Subj
+88204	Pred
+88209	Pred
+88213	Subj
+88219	Subj
+88224	Subj
+88226	Cmpl
+88229	Cmpl
+88241	Cmpl
+88250	Subj
+88286	Subj
+Pred
+88305	Cmpl
+88314	Objc
+88322	Cmpl
+88368	Cmpl
+88371	Objc
+88378	Objc
+88408	Pred
+88419	Pred
+88422	Objc
+88427	Pred
+88479	Pred
+88482	Cmpl
+Objc
+88488	Objc
+88493	Pred
+88502	Objc
+88507	Objc
+88512	Pred
+Subj
+Subj
+88517	Subj
+88525	Objc
+88529	Objc
+Objc
+88560	Subj
+88585	Cmpl
+Objc
+88593	Pred
+88611	Objc
+88638	Pred
+88646	Pred
+88673	Cmpl
+88696	Cmpl
+Objc
+88702	Objc
+88709	Objc
+88738	Objc
+88743	Objc
+88757	Pred
+88759	Subj
+88765	Pred
+88832	Subj
+88836	Objc
+88840	Objc
+88860	Objc
+88862	Subj
+Pred
+88882	Objc
+Subj
+88887	Objc
+88890	Subj
+88895	Subj
+88933	Subj
+88962	Subj
+88972	Subj
+88987	Subj
+88997	Subj
+88999	Subj
+89017	Objc
+89023	Objc
+89026	Objc
+89044	Subj
+Pred
+89052	Subj
+Pred
+89056	Pred
+89073	Objc
+89077	Subj
+89111	Pred
+89115	Pred
+89139	Subj
+89141	Pred
+89143	Pred
+89150	Pred
+89154	Objc
+89157	Objc
+89165	Subj
+89167	Objc
+89175	Pred
+89179	Objc
+89181	Objc
+89195	Subj
+89199	Pred
+89213	Objc
+89230	Objc
+89239	Objc
+89243	Subj
+89273	Cmpl
+89299	Objc
+89305	Objc
+89312	Subj
+89339	Objc
+89366	Objc
+89372	Subj
+89386	Subj
+89394	Objc
+89405	Subj
+89425	Pred
+89439	Cmpl
+89444	Objc
+89450	Cmpl
+89457	Subj
+89475	Pred
+89496	Objc
+89499	Subj
+89518	Subj
+89538	Subj
+89549	Cmpl
+89555	Subj
+89571	Objc
+89577	Objc
+89597	Objc
+89636	Pred
+89653	Objc
+Objc
+89659	Cmpl
+89681	Subj
+89720	Pred
+89746	Cmpl
+89759	Objc
+89772	Objc
+89794	Subj
+89803	Objc
+89826	Subj
+89835	Subj
+Objc
+89850	Subj
+89852	Pred
+89856	Subj
+89919	Subj
+Objc
+89965	Objc
+89970	Objc
+89978	Subj
+89990	Objc
+Subj
+90035	Subj
+Pred
+90041	Pred
+90069	Objc
+90084	Objc
+90094	Objc
+90104	Objc
+90117	Objc
+90160	Cmpl
+90213	Cmpl
+90237	Cmpl
+90262	Subj
+90276	Subj
+90279	Objc
+90282	Objc
+90291	Pred
+90309	Objc
+90323	Subj
+90329	Subj
+90344	Cmpl
+90353	Subj
+90359	Objc
+90364	Subj
+90367	Pred
+Subj
+90370	Pred
+Subj
+90373	Pred
+Subj
+90376	Pred
+90381	Subj
+90403	Subj
+90427	Objc
+Subj
+90452	Pred
+90474	Pred
+Subj
+Pred
+Subj
+Pred
+90520	Subj
+Objc
+90524	Subj
+Objc
+90527	Subj
+90532	Cmpl
+90534	Objc
+Cmpl
+90537	Objc
+90557	Pred
+90566	Pred
+90577	Pred
+Subj
+90582	Pred
+Subj
+90585	Pred
+Subj
+90640	Subj
+90645	Subj
+90665	Subj
+90678	Cmpl
+90686	Objc
+90697	Subj
+90742	Objc
+90770	Objc
+90780	Objc
+90801	Objc
+Subj
+90806	Subj
+90815	Objc
+90821	Objc
+Cmpl
+90833	Objc
+90861	Subj
+90869	Subj
+90891	Cmpl
+Objc
+90906	Objc
+90918	Pred
+90934	Objc
+Subj
+90940	Subj
+90945	Subj
+90947	Objc
+Subj
+90953	Subj
+90958	Cmpl
+90968	Objc
+Objc
+90972	Objc
+90983	Pred
+90993	Pred
+91002	Subj
+Subj
+91006	Pred
+Subj
+91009	Subj
+Pred
+91012	Pred
+91014	Pred
+91017	Subj
+Pred
+91021	Subj
+91032	Subj
+91034	Subj
+91045	Pred
+91059	Pred
+91061	Subj
+91087	Cmpl
+91091	Objc
+91093	Subj
+91096	Subj
+91104	Subj
+91110	Subj
+91116	Subj
+91131	Pred
+91145	Pred
+91149	Objc
+91156	Objc
+91158	Objc
+91166	Subj
+91189	Subj
+91196	Objc
+91204	Pred
+91206	Pred
+91208	Subj
+Subj
+Objc
+91213	Subj
+91215	Pred
+91223	Pred
+91227	Pred
+91234	Pred
+91251	Subj
+91259	Pred
+91261	Subj
+91265	Subj
+91267	Pred
+91286	Pred
+Subj
+91289	Pred
+Subj
+91292	Pred
+91294	Objc
+91296	Subj
+91311	Objc
+Subj
+91329	Objc
+91331	Objc
+91343	Objc
+Pred
+91350	Objc
+91357	Subj
+91379	Objc
+91396	Subj
+91400	Subj
+91408	Subj
+91410	Objc
+91415	Objc
+91456	Pred
+91464	Subj
+Pred
+91468	Subj
+91470	Pred
+91473	Subj
+Pred
+Subj
+91477	Pred
+Subj
+Pred
+Subj
+91482	Pred
+91520	Objc
+91522	Objc
+91547	Subj
+Objc
+91552	Objc
+91560	Cmpl
+91562	Subj
+91571	Subj
+Objc
+91591	Subj
+91595	Subj
+91626	Objc
+91647	Subj
+91654	Subj
+91659	Subj
+91676	Subj
+91692	Objc
+91732	Pred
+91755	Pred
+91782	Cmpl
+91813	Cmpl
+91818	Pred
+91836	Pred
+91845	Subj
+91862	Objc
+91892	Pred
+91899	Objc
+91902	Objc
+91914	Objc
+91918	Cmpl
+91927	Subj
+91936	Subj
+91948	Pred
+91952	Objc
+91967	Subj
+91973	Objc
+91978	Subj
+92009	Pred
+Subj
+92032	Subj
+92037	Subj
+92039	Subj
+92044	Subj
+92087	Objc
+92145	Objc
+92148	Subj
+92182	Pred
+92196	Objc
+92198	Pred
+92200	Objc
+92207	Subj
+92213	Subj
+92257	Objc
+92278	Objc
+92285	Objc
+92302	Subj
+92308	Subj
+92311	Subj
+92321	Pred
+92332	Pred
+92347	Subj
+92357	Pred
+92363	Subj
+Objc
+92382	Subj
+92389	Objc
+92392	Subj
+92397	Subj
+92429	Pred
+92433	Pred
+92455	Objc
+92458	Objc
+92467	Objc
+92476	Cmpl
+92481	Objc
+92496	Subj
+92503	Subj
+92508	Pred
+92513	Pred
+92519	Subj
+92528	Pred
+92537	Pred
+92563	Subj
+92581	Objc
+92588	Pred
+92592	Subj
+Pred
+92600	Pred
+92603	Pred
+92609	Objc
+92615	Objc
+92629	Objc
+92636	Subj
+92638	Objc
+92640	Objc
+92654	Objc
+92694	Subj
+Pred
+92734	Pred
+92752	Objc
+92762	Objc
+Cmpl
+92776	Subj
+92785	Pred
+92790	Objc
+92796	Subj
+92806	Objc
+Objc
+92815	Objc
+92840	Objc
+92842	Subj
+92856	Pred
+92858	Objc
+92864	Pred
+92876	Subj
+92886	Subj
+Objc
+92897	Subj
+92900	Objc
+92908	Subj
+92912	Subj
+92924	Pred
+Subj
+92930	Pred
+Subj
+92934	Pred
+92949	Subj
+Pred
+92952	Subj
+Pred
+92956	Pred
+92965	Subj
+92969	Pred
+92978	Subj
+92987	Subj
+92996	Objc
+93002	Pred
+93005	Subj
+93007	Objc
+93029	Pred
+93035	Subj
+93040	Objc
+93048	Pred
+93068	Subj
+93087	Subj
+93095	Objc
+93107	Pred
+93110	Pred
+93121	Subj
+93129	Pred
+93140	Subj
+93148	Objc
+93151	Pred
+93155	Objc
+93162	Objc
+93185	Objc
+93188	Subj
+93193	Subj
+93195	Objc
+93203	Subj
+93205	Objc
+93217	Objc
+93223	Objc
+93266	Subj
+Cmpl
+93271	Pred
+93273	Subj
+93279	Subj
+93286	Subj
+93294	Objc
+93337	Subj
+93346	Objc
+93352	Pred
+93361	Subj
+93368	Pred
+Subj
+Subj
+93374	Subj
+93376	Pred
+93384	Objc
+93386	Objc
+93391	Objc
+93393	Pred
+93415	Pred
+93420	Cmpl
+Objc
+93434	Objc
+93444	Subj
+93470	Pred
+93478	Pred
+93481	Objc
+93483	Objc
+93500	Subj
+93503	Subj
+93518	Subj
+93525	Subj
+93527	Objc
+Subj
+93539	Objc
+93550	Cmpl
+93552	Subj
+Pred
+93558	Subj
+93571	Subj
+93577	Subj
+93590	Subj
+93597	Subj
+93629	Subj
+93638	Subj
+93642	Subj
+93645	Pred
+93697	Subj
+93721	Subj
+Objc
+93727	Subj
+Pred
+93732	Subj
+93735	Subj
+93738	Objc
+93759	Cmpl
+93762	Subj
+Objc
+93769	Objc
+93780	Objc
+93790	Pred
+Subj
+93819	Objc
+93823	Subj
+Pred
+93828	Subj
+Pred
+93833	Objc
+93843	Subj
+93869	Pred
+93872	Subj
+93876	Subj
+93878	Subj
+93882	Subj
+93884	Subj
+93898	Objc
+93915	Objc
+93924	Cmpl
+93926	Objc
+93933	Subj
+Cmpl
+93936	Subj
+Pred
+93969	Subj
+93976	Subj
+93984	Objc
+93986	Objc
+93991	Pred
+94003	Subj
+94005	Objc
+94022	Subj
+Pred
+94026	Objc
+94029	Objc
+94034	Cmpl
+94040	Subj
+94098	Subj
+94103	Pred
+94110	Subj
+94132	Subj
+94136	Subj
+94143	Subj
+94148	Subj
+94157	Objc
+94167	Subj
+94171	Subj
+94212	Objc
+94214	Subj
+94218	Pred
+94221	Subj
+94225	Pred
+94234	Cmpl
+94237	Subj
+94239	Pred
+94241	Subj
+94251	Objc
+94270	Subj
+94274	Subj
+94293	Pred
+94299	Subj
+94308	Subj
+94318	Subj
+94321	Subj
+94326	Objc
+94345	Objc
+94347	Cmpl
+94349	Objc
+94354	Subj
+94360	Objc
+94363	Cmpl
+94374	Objc
+94380	Subj
+94388	Objc
+94413	Objc
+94442	Subj
+94454	Pred
+94465	Subj
+Objc
+94483	Objc
+Cmpl
+94496	Subj
+94502	Subj
+94505	Objc
+94529	Objc
+94532	Subj
+94556	Subj
+94561	Pred
+94574	Cmpl
+94582	Pred
+Subj
+94585	Subj
+94588	Pred
+Subj
+94625	Cmpl
+94635	Cmpl
+94644	Cmpl
+94652	Cmpl
+Subj
+94658	Cmpl
+94666	Cmpl
+94670	Cmpl
+94672	Subj
+Cmpl
+94677	Cmpl
+94680	Cmpl
+94703	Pred
+94715	Pred
+94744	Subj
+94765	Pred
+94787	Pred
+94805	Pred
+Pred
+94810	Subj
+Pred
+Pred
+94837	Pred
+94842	Pred
+94844	Subj
+Pred
+94847	Subj
+94878	Pred
+94880	Pred
+94883	Subj
+94889	Cmpl
+94905	Objc
+94921	Subj
+94944	Subj
+94949	Subj
+94959	Objc
+94968	Objc
+94970	Objc
+94972	Objc
+94974	Objc
+94983	Subj
+Pred
+94986	Subj
+Pred
+94989	Subj
+Pred
+94992	Subj
+Pred
+94995	Subj
+95000	Subj
+95004	Subj
+95016	Objc
+Cmpl
+95028	Objc
+95041	Objc
+95058	Objc
+95060	Objc
+95064	Pred
+95081	Objc
+95085	Objc
+95122	Objc
+95124	Objc
+95126	Objc
+95128	Objc
+95136	Subj
+95139	Subj
+95142	Subj
+95163	Pred
+95175	Pred
+95189	Objc
+95211	Pred
+95232	Cmpl
+95235	Cmpl
+Subj
+95239	Cmpl
+95242	Objc
+95246	Cmpl
+95256	Objc
+95261	Objc
+95273	Pred
+95288	Objc
+95299	Objc
+Objc
+95304	Cmpl
+95320	Objc
+95327	Objc
+95346	Subj
+95379	Subj
+Pred
+95392	Pred
+95398	Pred
+95433	Pred
+95435	Pred
+95473	Objc
+95477	Subj
+95516	Pred
+95527	Pred
+95548	Objc
+95550	Subj
+95582	Subj
+95596	Subj
+95615	Pred
+95633	Pred
+95639	Subj
+Objc
+95642	Objc
+95644	Objc
+95646	Objc
+95648	Objc
+95650	Subj
+95656	Subj
+95668	Subj
+95674	Subj
+95706	Subj
+95709	Subj
+95712	Subj
+95717	Cmpl
+95722	Pred
+95726	Pred
+95743	Cmpl
+95754	Objc
+95763	Pred
+95784	Subj
+95791	Objc
+95793	Cmpl
+95800	Subj
+95815	Subj
+95824	Cmpl
+95828	Objc
+95830	Cmpl
+Objc
+95845	Cmpl
+95855	Cmpl
+95858	Objc
+95862	Subj
+95887	Cmpl
+95904	Subj
+95909	Cmpl
+95921	Cmpl
+Subj
+95929	Subj
+95932	Pred
+95934	Pred
+95945	Pred
+95955	Pred
+95984	Subj
+96007	Subj
+96011	Subj
+96014	Pred
+96019	Pred
+96039	Objc
+96044	Subj
+96049	Subj
+96053	Subj
+96057	Subj
+96060	Pred
+96087	Pred
+96104	Subj
+96115	Subj
+96122	Subj
+96124	Subj
+96130	Pred
+Subj
+96162	Subj
+96179	Objc
+96190	Subj
+96192	Pred
+96197	Cmpl
+96203	Cmpl
+96214	Cmpl
+96221	Pred
+96225	Objc
+96234	Subj
+96256	Objc
+96270	Pred
+96275	Subj
+96299	Subj
+96303	Cmpl
+96307	Subj
+96317	Subj
+Objc
+96326	Objc
+96348	Cmpl
+Objc
+96365	Pred
+96367	Subj
+Pred
+96372	Pred
+96376	Pred
+96378	Subj
+96386	Pred
+96392	Pred
+96397	Pred
+96401	Pred
+96405	Pred
+96408	Subj
+96484	Pred
+96490	Pred
+96493	Pred
+96498	Pred
+96501	Pred
+96518	Objc
+96538	Objc
+Cmpl
+96541	Subj
+96544	Subj
+96564	Subj
+96572	Objc
+96578	Objc
+96585	Objc
+96591	Objc
+96603	Pred
+96608	Pred
+96630	Subj
+96633	Cmpl
+96663	Pred
+96693	Objc
+96702	Subj
+96707	Objc
+96712	Objc
+96722	Pred
+96725	Subj
+96749	Subj
+Objc
+96758	Objc
+96790	Pred
+96794	Subj
+96797	Pred
+96809	Subj
+96811	Objc
+96815	Objc
+96824	Objc
+96835	Objc
+96847	Subj
+96869	Objc
+96886	Objc
+96913	Subj
+96928	Objc
+96934	Objc
+96948	Objc
+96953	Objc
+96964	Subj
+96970	Pred
+97019	Cmpl
+97030	Pred
+97050	Objc
+97059	Subj
+97070	Subj
+97114	Objc
+97122	Pred
+97139	Subj
+97159	Subj
+97164	Subj
+97186	Subj
+97191	Objc
+97259	Cmpl
+97262	Objc
+97276	Objc
+97286	Pred
+97327	Objc
+97336	Objc
+97352	Pred
+97393	Pred
+97420	Objc
+97427	Objc
+97432	Objc
+97443	Subj
+97445	Objc
+97455	Objc
+97467	Pred
+97490	Subj
+97492	Objc
+97497	Objc
+97511	Objc
+97516	Subj
+97537	Cmpl
+97549	Objc
+97556	Subj
+97559	Objc
+97569	Pred
+97582	Subj
+97596	Subj
+97600	Objc
+97614	Pred
+97616	Cmpl
+97618	Objc
+97620	Subj
+97624	Objc
+97627	Objc
+97657	Subj
+Cmpl
+97664	Objc
+97671	Subj
+97678	Objc
+97685	Subj
+97689	Objc
+97735	Subj
+Pred
+97763	Objc
+97780	Subj
+97831	Pred
+97834	Objc
+97845	Subj
+97848	Objc
+97912	Pred
+97957	Subj
+97959	Objc
+98008	Subj
+Subj
+98035	Subj
+98089	Objc
+98134	Subj
+98141	Objc
+98146	Objc
+Objc
+98160	Subj
+98162	Subj
+98358	Cmpl
+98361	Subj
+98371	Pred
+98376	Pred
+98416	Pred
+98444	Objc
+98451	Cmpl
+98498	Pred
+98514	Subj
+98520	Objc
+98523	Objc
+98525	Objc
+98532	Objc
+98547	Objc
+98549	Cmpl
+98553	Cmpl
+98571	Cmpl
+98574	Cmpl
+98581	Objc
+98583	Objc
+98585	Subj
+98611	Subj
+98615	Objc
+98624	Objc
+98631	Subj
+98641	Subj
+98650	Objc
+Cmpl
+98656	Cmpl
+98663	Subj
+98667	Objc
+98669	Cmpl
+98672	Cmpl
+98703	Objc
+98706	Objc
+98709	Subj
+98727	Subj
+98733	Objc
+98739	Objc
+98741	Pred
+98745	Pred
+98762	Objc
+98825	Pred
+98827	Pred
+98848	Pred
+Objc
+98853	Objc
+98856	Objc
+98884	Cmpl
+98893	Subj
+98895	Pred
+98900	Subj
+Pred
+98905	Subj
+98912	Subj
+Pred
+98917	Subj
+98919	Pred
+98924	Subj
+98945	Subj
+98957	Subj
+98959	Objc
+98962	Subj
+98964	Objc
+98971	Subj
+98988	Objc
+98996	Objc
+99001	Objc
+Objc
+99004	Objc
+99006	Objc
+99025	Pred
+99027	Subj
+99030	Pred
+99032	Subj
+99049	Subj
+99054	Objc
+99062	Pred
+Subj
+Pred
+Subj
+99072	Objc
+99096	Cmpl
+99109	Subj
+99116	Objc
+99135	Objc
+99171	Objc
+99183	Cmpl
+99200	Objc
+Pred
+99209	Cmpl
+99258	Objc
+Cmpl
+99267	Objc
+99271	Cmpl
+99279	Pred
+99285	Pred
+99300	Objc
+99310	Cmpl
+99358	Objc
+99375	Objc
+99388	Subj
+Objc
+99458	Pred
+99461	Subj
+99467	Objc
+99471	Subj
+99475	Subj
+99514	Pred
+99523	Subj
+99525	Subj
+99552	Subj
+99566	Subj
+99586	Pred
+99638	Objc
+99640	Subj
+Objc
+99653	Objc
+99668	Objc
+99673	Pred
+99678	Pred
+99727	Pred
+99732	Cmpl
+99738	Objc
+99742	Cmpl
+99744	Subj
+99783	Subj
+99786	Subj
+Pred
+99789	Subj
+99793	Subj
+99798	Objc
+99814	Subj
+Pred
+99824	Objc
+99841	Subj
+99895	Objc
+99899	Objc
+99921	Subj
+99925	Objc
+99980	Subj
+99985	Objc
+99994	Subj
+100007	Objc
+100015	Subj
+100019	Pred
+100042	Objc
+100062	Pred
+100064	Pred
+100107	Subj
+100110	Pred
+100112	Objc
+100119	Subj
+Pred
+100134	Objc
+100153	Objc
+100170	Pred
+100175	Objc
+100180	Pred
+100187	Pred
+100198	Objc
+100201	Objc
+100204	Subj
+100207	Objc
+100211	Objc
+100215	Subj
+100228	Objc
+100230	Cmpl
+100233	Objc
+100246	Objc
+100265	Objc
+100303	Objc
+100305	Subj
+100307	Pred
+100309	Objc
+100315	Objc
+100322	Objc
+100325	Objc
+100330	Objc
+100346	Objc
+100372	Objc
+100379	Objc
+100385	Objc
+100392	Objc
+100416	Objc
+100418	Objc
+100421	Subj
+100430	Cmpl
+100435	Objc
+100462	Objc
+Objc
+Cmpl
+100491	Objc
+100495	Objc
+100506	Objc
+100509	Objc
+100527	Pred
+100537	Pred
+100559	Subj
+Subj
+100562	Pred
+100569	Objc
+100571	Objc
+100573	Subj
+100577	Objc
+100594	Subj
+100599	Subj
+100606	Pred
+100611	Subj
+Objc
+100615	Subj
+100618	Subj
+100621	Subj
+100624	Subj
+100627	Objc
+100634	Subj
+100640	Subj
+100646	Subj
+Pred
+100649	Subj
+Pred
+100652	Subj
+100656	Subj
+100663	Subj
+100694	Pred
+100700	Pred
+100703	Pred
+100706	Pred
+100709	Pred
+100712	Pred
+100715	Pred
+100749	Subj
+100754	Subj
+100758	Subj
+100778	Pred
+100797	Objc
+100877	Objc
+100902	Pred
+Objc
+100909	Subj
+100914	Objc
+100931	Cmpl
+Subj
+100938	Objc
+100955	Cmpl
+101000	Pred
+101003	Pred
+Subj
+Objc
+101007	Subj
+101013	Objc
+101040	Pred
+101058	Cmpl
+101079	Objc
+101093	Subj
+101105	Objc
+101111	Subj
+101114	Objc
+101117	Pred
+101119	Objc
+101123	Objc
+101130	Objc
+101132	Objc
+101139	Objc
+Subj
+101153	Cmpl
+101174	Objc
+101177	Objc
+Subj
+101181	Objc
+101197	Subj
+101199	Objc
+101220	Objc
+101268	Subj
+101302	Objc
+101309	Objc
+101314	Objc
+101322	Pred
+101329	Subj
+101332	Pred
+101340	Subj
+101345	Subj
+Pred
+101350	Subj
+101354	Subj
+101362	Objc
+101373	Subj
+101375	Subj
+101377	Pred
+101387	Objc
+101398	Objc
+101402	Cmpl
+101429	Objc
+101434	Objc
+101475	Objc
+101489	Cmpl
+101502	Objc
+101509	Objc
+101524	Cmpl
+101541	Objc
+101548	Subj
+101551	Pred
+101554	Subj
+101558	Objc
+101575	Cmpl
+101577	Objc
+101579	Cmpl
+Pred
+101589	Subj
+Objc
+101593	Objc
+101595	Pred
+101606	Objc
+101610	Objc
+101619	Cmpl
+101634	Subj
+101638	Objc
+101665	Objc
+101690	Objc
+101709	Objc
+101745	Objc
+101765	Objc
+101768	Cmpl
+101805	Objc
+101811	Objc
+101839	Cmpl
+101842	Objc
+101865	Pred
+101874	Subj
+101880	Objc
+101886	Objc
+101908	Pred
+Pred
+101921	Cmpl
+101925	Objc
+101937	Subj
+101960	Cmpl
+101968	Pred
+101977	Subj
+101981	Subj
+102000	Subj
+102005	Objc
+102014	Subj
+102027	Objc
+102063	Subj
+Pred
+102076	Subj
+102078	Pred
+102083	Pred
+102089	Subj
+102132	Objc
+102134	Subj
+102141	Objc
+102143	Objc
+102146	Objc
+Objc
+102149	Subj
+102163	Subj
+102168	Subj
+Objc
+102185	Objc
+102188	Objc
+102201	Subj
+102203	Subj
+102209	Subj
+Objc
+102212	Cmpl
+102236	Pred
+102243	Objc
+102249	Pred
+102253	Cmpl
+102258	Objc
+102269	Subj
+102275	Cmpl
+102284	Subj
+102319	Subj
+102331	Pred
+102333	Subj
+102346	Objc
+102351	Subj
+102356	Pred
+102373	Objc
+102377	Subj
+Objc
+102388	Pred
+102391	Pred
+102426	Subj
+102456	Subj
+102458	Pred
+Objc
+102512	Cmpl
+102523	Pred
+102529	Pred
+102608	Subj
+102619	Subj
+102624	Objc
+102626	Pred
+102631	Pred
+102636	Pred
+102644	Pred
+102651	Subj
+Pred
+102660	Pred
+102668	Pred
+102670	Objc
+102692	Pred
+102731	Pred
+102756	Pred
+102766	Objc
+102772	Pred
+102776	Objc
+102791	Objc
+102814	Subj
+102816	Subj
+102818	Subj
+102821	Objc
+102823	Objc
+102833	Cmpl
+102853	Objc
+102857	Pred
+102864	Cmpl
+102867	Pred
+102873	Cmpl
+102879	Cmpl
+102881	Objc
+102886	Objc
+102889	Objc
+102891	Pred
+102903	Subj
+102908	Objc
+102914	Subj
+102933	Cmpl
+102946	Subj
+102976	Subj
+102979	Subj
+102984	Subj
+102992	Subj
+102994	Pred
+103019	Pred
+103021	Subj
+103039	Pred
+103050	Subj
+103073	Objc
+103108	Objc
+Subj
+103123	Cmpl
+103127	Subj
+Objc
+103138	Pred
+103147	Subj
+103154	Subj
+103168	Objc
+103179	Subj
+Subj
+103191	Objc
+103198	Subj
+103211	Objc
+103215	Pred
+103218	Subj
+103222	Objc
+103239	Objc
+Subj
+103259	Objc
+103275	Objc
+103278	Objc
+103310	Subj
+103312	Objc
+103316	Objc
+103319	Objc
+103329	Pred
+103336	Subj
+103357	Objc
+103359	Cmpl
+103391	Subj
+103414	Pred
+Objc
+103417	Objc
+103423	Subj
+103437	Objc
+103456	Subj
+103458	Pred
+Pred
+103462	Objc
+103468	Subj
+103482	Subj
+103501	Subj
+103504	Objc
+103508	Subj
+Objc
+103523	Objc
+103551	Objc
+103567	Cmpl
+103573	Subj
+103578	Subj
+103580	Subj
+103595	Objc
+103599	Subj
+103624	Cmpl
+Subj
+103627	Subj
+Cmpl
+103632	Pred
+103640	Subj
+103658	Objc
+Cmpl
+Subj
+103662	Subj
+103705	Cmpl
+103716	Pred
+103728	Objc
+103740	Objc
+103747	Subj
+103756	Objc
+103776	Objc
+103778	Objc
+103801	Objc
+103811	Cmpl
+103821	Objc
+103903	Subj
+103920	Subj
+103943	Objc
+103962	Cmpl
+103979	Subj
+Pred
+103987	Pred
+103999	Pred
+104018	Objc
+104024	Objc
+104060	Objc
+104067	Objc
+104074	Subj
+104088	Subj
+104090	Pred
+104157	Pred
+104168	Objc
+104171	Subj
+Pred
+104219	Subj
+104231	Subj
+104244	Objc
+104263	Pred
+104289	Objc
+104306	Pred
+104308	Pred
+104314	Subj
+104324	Objc
+104355	Objc
+104376	Objc
+104381	Objc
+104423	Pred
+104473	Cmpl
+104480	Cmpl
+104500	Subj
+104548	Cmpl
+104574	Pred
+104614	Objc
+104646	Subj
+104671	Cmpl
+104710	Pred
+104743	Objc
+104754	Cmpl
+104775	Objc
+104795	Objc
+104863	Objc
+104865	Objc
+104871	Pred
+104900	Subj
+104988	Subj
+105023	Objc
+105031	Subj
+105065	Subj
+105067	Objc
+105077	Subj
+105086	Objc
+105094	Subj
+105099	Subj
+105141	Objc
+105164	Objc
+105184	Objc
+105197	Subj
+Pred
+105205	Objc
+105246	Objc
+105254	Objc
+105272	Objc
+105275	Objc
+105306	Subj
+105311	Subj
+Objc
+105323	Subj
+105325	Pred
+105328	Objc
+105336	Subj
+Objc
+105362	Pred
+105365	Pred
+105385	Subj
+105387	Pred
+105409	Pred
+105425	Pred
+105449	Subj
+105452	Subj
+105459	Pred
+105465	Pred
+105468	Pred
+105480	Subj
+105486	Cmpl
+105517	Cmpl
+105530	Subj
+105542	Subj
+105574	Objc
+105579	Objc
+105590	Subj
+Cmpl
+105628	Objc
+105630	Subj
+105641	Objc
+105657	Subj
+105679	Pred
+105681	Subj
+105703	Objc
+105719	Subj
+105722	Pred
+105730	Subj
+105737	Pred
+105742	Pred
+105756	Objc
+105785	Subj
+105805	Objc
+105808	Subj
+105813	Objc
+105818	Pred
+105820	Pred
+105844	Subj
+105869	Subj
+105923	Objc
+105979	Subj
+106011	Cmpl
+106013	Subj
+106037	Subj
+106047	Objc
+106049	Objc
+106051	Cmpl
+106061	Objc
+106126	Cmpl
+106190	Pred
+106192	Objc
+106200	Subj
+106204	Objc
+106239	Objc
+106258	Subj
+106283	Subj
+106300	Pred
+106331	Subj
+106338	Subj
+106346	Subj
+106357	Subj
+106367	Objc
+106372	Subj
+106382	Subj
+106394	Subj
+106428	Subj
+106443	Pred
+106447	Pred
+106454	Subj
+106459	Objc
+106481	Pred
+106487	Pred
+106491	Objc
+106537	Objc
+106564	Subj
+106573	Subj
+106577	Cmpl
+106598	Objc
+106642	Objc
+106651	Objc
+106665	Objc
+106669	Subj
+106674	Subj
+106680	Objc
+106684	Pred
+106687	Objc
+106700	Subj
+106702	Objc
+106704	Pred
+106714	Objc
+106718	Cmpl
+106743	Pred
+106779	Subj
+106795	Objc
+106818	Subj
+106870	Objc
+106873	Cmpl
+106875	Subj
+106885	Subj
+106909	Subj
+106916	Objc
+106937	Objc
+106989	Objc
+106996	Objc
+106999	Objc
+107002	Subj
+Pred
+107007	Objc
+107016	Objc
+107048	Cmpl
+107052	Pred
+107055	Pred
+107086	Subj
+107088	Objc
+107099	Subj
+107102	Pred
+107113	Pred
+107125	Pred
+107127	Subj
+107130	Pred
+Objc
+107136	Objc
+107143	Subj
+Pred
+107163	Objc
+107165	Objc
+107236	Subj
+Subj
+107241	Objc
+107265	Subj
+107267	Pred
+Objc
+107272	Objc
+107279	Cmpl
+107283	Objc
+107299	Objc
+Objc
+Subj
+107304	Objc
+107307	Cmpl
+107322	Pred
+107354	Subj
+107372	Subj
+107375	Cmpl
+107393	Objc
+107396	Objc
+107411	Subj
+107446	Pred
+Objc
+107489	Subj
+107491	Pred
+Subj
+Pred
+Subj
+Pred
+Subj
+Pred
+Subj
+Pred
+Subj
+Pred
+107503	Subj
+Pred
+107507	Subj
+Pred
+Objc
+107511	Objc
+107522	Objc
+107551	Pred
+107556	Subj
+107562	Pred
+107584	Objc
+107589	Objc
+107653	Objc
+107708	Objc
+107714	Objc
+107756	Cmpl
+107786	Objc
+107801	Objc
+107848	Subj
+107859	Cmpl
+107933	Objc
+107944	Subj
+107946	Objc
+107971	Subj
+108016	Subj
+108027	Subj
+108035	Subj
+108046	Subj
+108084	Subj
+108110	Objc
+108125	Pred
+108134	Objc
+108173	Subj
+108179	Subj
+108188	Cmpl
+108218	Pred
+108229	Subj
+108238	Objc
+Subj
+108255	Objc
+108275	Subj
+108287	Subj
+108328	Pred
+Objc
+108332	Subj
+Objc
+108390	Subj
+Objc
+108430	Subj
+108474	Objc
+108478	Subj
+Pred
+108490	Objc
+108494	Cmpl
+108505	Subj
+108510	Objc
+108516	Objc
+108529	Objc
+108534	Subj
+Objc
+108550	Subj
+108560	Subj
+Objc
+108570	Objc
+108625	Subj
+108639	Subj
+108729	Subj
+108731	Pred
+108789	Objc
+108791	Pred
+108804	Pred
+108808	Subj
+108825	Objc
+108828	Objc
+108830	Subj
+108834	Objc
+108840	Objc
+108850	Subj
+108873	Pred
+108889	Objc
+108906	Objc
+108915	Objc
+108952	Subj
+108954	Pred
+108981	Subj
+108989	Objc
+109018	Objc
+109021	Pred
+109023	Subj
+109039	Objc
+109074	Objc
+109077	Subj
+109099	Subj
+109108	Cmpl
+109120	Objc
+109144	Subj
+109149	Cmpl
+109154	Objc
+109167	Objc
+109173	Objc
+109178	Pred
+109183	Subj
+109191	Subj
+109194	Pred
+109196	Objc
+109223	Cmpl
+109239	Objc
+109285	Cmpl
+109289	Objc
+109294	Objc
+109326	Cmpl
+109336	Objc
+109403	Pred
+109410	Subj
+109429	Subj
+Pred
+109470	Objc
+109472	Subj
+109474	Objc
+Subj
+109507	Objc
+109515	Objc
+109521	Subj
+109533	Pred
+109606	Subj
+Pred
+109612	Objc
+109628	Pred
+109634	Subj
+109641	Objc
+109644	Cmpl
+109657	Pred
+109687	Pred
+109708	Subj
+109712	Objc
+109720	Subj
+109726	Objc
+109756	Pred
+109760	Subj
+109767	Subj
+109810	Objc
+109813	Objc
+109819	Pred
+109821	Subj
+109842	Subj
+109877	Objc
+109880	Subj
+109902	Subj
+109937	Objc
+109945	Subj
+109951	Subj
+109965	Cmpl
+109976	Subj
+109989	Objc
+110002	Subj
+110009	Cmpl
+110024	Objc
+110029	Objc
+110051	Subj
+110112	Objc
+110137	Objc
+110162	Objc
+110176	Subj
+110180	Objc
+110192	Cmpl
+110197	Pred
+110207	Subj
+110247	Pred
+Subj
+110255	Cmpl
+110261	Objc
+110293	Objc
+110296	Cmpl
+110300	Pred
+110305	Objc
+110309	Objc
+110320	Subj
+110337	Cmpl
+110352	Subj
+110368	Objc
+110373	Subj
+110389	Objc
+110391	Cmpl
+110461	Objc
+110475	Objc
+110477	Cmpl
+110479	Subj
+110487	Subj
+110513	Subj
+110523	Objc
+110525	Subj
+110562	Subj
+110564	Pred
+110579	Objc
+110609	Objc
+110620	Subj
+110629	Objc
+110634	Objc
+110637	Objc
+110650	Objc
+110666	Subj
+Objc
+110670	Cmpl
+110689	Subj
+110702	Objc
+110705	Objc
+110723	Objc
+110746	Pred
+110749	Objc
+Subj
+110765	Objc
+110800	Cmpl
+110819	Pred
+110872	Subj
+110882	Pred
+110888	Objc
+Objc
+110894	Objc
+110913	Objc
+110917	Objc
+110928	Subj
+110976	Objc
+111004	Subj
+111019	Objc
+111039	Subj
+111065	Subj
+Objc
+111099	Subj
+111107	Objc
+111110	Pred
+111118	Objc
+111120	Cmpl
+111129	Subj
+111154	Objc
+111205	Subj
+111210	Cmpl
+111218	Subj
+111233	Subj
+111248	Objc
+111265	Objc
+111286	Objc
+111310	Objc
+111361	Pred
+111364	Pred
+111369	Subj
+111371	Objc
+111384	Objc
+111410	Cmpl
+111419	Subj
+111430	Objc
+111434	Subj
+111440	Objc
+111448	Objc
+111471	Objc
+111474	Objc
+Objc
+111477	Cmpl
+111481	Objc
+111488	Objc
+111490	Cmpl
+111493	Subj
+111501	Subj
+111528	Subj
+111536	Subj
+111545	Objc
+111555	Objc
+111560	Objc
+111568	Cmpl
+111587	Subj
+111589	Pred
+111639	Subj
+111648	Cmpl
+111657	Subj
+Objc
+111684	Subj
+111691	Pred
+111695	Objc
+111704	Pred
+111708	Subj
+Objc
+111713	Objc
+111716	Subj
+111754	Objc
+111756	Subj
+Objc
+111761	Objc
+111768	Objc
+Objc
+111818	Objc
+111823	Subj
+111870	Cmpl
+111891	Objc
+Subj
+111898	Pred
+111903	Objc
+111942	Subj
+111951	Subj
+111961	Pred
+111963	Subj
+Pred
+111975	Objc
+Objc
+111986	Subj
+111990	Objc
+112016	Subj
+112025	Objc
+112037	Subj
+112041	Objc
+112045	Subj
+112054	Subj
+112059	Objc
+112064	Subj
+112069	Subj
+112071	Subj
+112096	Pred
+112100	Subj
+Objc
+112133	Objc
+112142	Subj
+112154	Pred
+112181	Subj
+112207	Pred
+112209	Subj
+112218	Subj
+112235	Cmpl
+112247	Objc
+Cmpl
+112266	Subj
+112278	Pred
+112284	Subj
+112292	Cmpl
+112312	Subj
+112332	Objc
+112350	Pred
+112352	Subj
+Pred
+112364	Objc
+112393	Objc
+112403	Pred
+112409	Pred
+112437	Subj
+112445	Objc
+112448	Subj
+112483	Subj
+112485	Cmpl
+112494	Objc
+112503	Pred
+112513	Objc
+112522	Objc
+Objc
+112530	Objc
+112533	Objc
+112536	Objc
+112562	Objc
+112566	Subj
+112569	Pred
+112601	Pred
+112605	Subj
+112619	Pred
+Subj
+112662	Objc
+112679	Pred
+112691	Subj
+112704	Subj
+112713	Objc
+112715	Objc
+112749	Pred
+112757	Objc
+112777	Objc
+112791	Objc
+112795	Objc
+112799	Objc
+112801	Cmpl
+112807	Objc
+Objc
+112828	Pred
+112843	Pred
+112851	Subj
+112855	Pred
+112881	Pred
+112895	Objc
+112900	Subj
+112919	Objc
+112945	Pred
+112957	Objc
+112966	Objc
+112990	Subj
+113006	Objc
+Subj
+113014	Objc
+113018	Subj
+113023	Objc
+113074	Subj
+113087	Objc
+113107	Objc
+113111	Objc
+113118	Cmpl
+113143	Cmpl
+Objc
+113153	Pred
+113155	Pred
+113157	Cmpl
+113182	Objc
+Subj
+113222	Objc
+113226	Objc
+113248	Objc
+113264	Subj
+113287	Subj
+113293	Subj
+113306	Cmpl
+113339	Objc
+113357	Cmpl
+113390	Subj
+113407	Objc
+113426	Objc
+113450	Objc
+113453	Objc
+113459	Pred
+113465	Objc
+113473	Objc
+113487	Objc
+113491	Cmpl
+113495	Objc
+113503	Objc
+113508	Subj
+113510	Subj
+113523	Objc
+113530	Objc
+113534	Subj
+Pred
+113546	Subj
+113561	Subj
+113577	Objc
+113581	Cmpl
+113584	Objc
+113606	Subj
+113616	Objc
+113633	Pred
+113647	Subj
+113649	Objc
+113652	Subj
+Pred
+113657	Objc
+113660	Objc
+113676	Objc
+113704	Objc
+113706	Pred
+113711	Subj
+113717	Subj
+113737	Subj
+113740	Pred
+113768	Subj
+113772	Subj
+113778	Subj
+113780	Objc
+113825	Objc
+113847	Cmpl
+113850	Objc
+113868	Objc
+113900	Pred
+113903	Pred
+113948	Objc
+113951	Subj
+113972	Pred
+113980	Subj
+114002	Subj
+114017	Objc
+114044	Subj
+114048	Objc
+114065	Objc
+114092	Pred
+114140	Subj
+114152	Cmpl
+114154	Objc
+114171	Subj
+114184	Subj
+114212	Objc
+114214	Cmpl
+114241	Subj
+114243	Objc
+114253	Subj
+114256	Subj
+114259	Subj
+114264	Objc
+114272	Pred
+114275	Objc
+114282	Objc
+114300	Cmpl
+114304	Cmpl
+114311	Objc
+114326	Subj
+114330	Subj
+Objc
+114334	Cmpl
+114343	Objc
+114361	Objc
+114376	Cmpl
+114393	Subj
+114397	Objc
+114408	Objc
+114451	Objc
+114468	Objc
+114470	Subj
+114498	Objc
+114509	Objc
+114511	Subj
+Cmpl
+114515	Subj
+114546	Pred
+114579	Pred
+114589	Objc
+114592	Subj
+114597	Subj
+114610	Subj
+114621	Pred
+114626	Objc
+114643	Subj
+Pred
+114652	Subj
+Pred
+114663	Objc
+114680	Subj
+114683	Subj
+114688	Subj
+114700	Subj
+114741	Objc
+114765	Subj
+114771	Pred
+114803	Objc
+114838	Subj
+114840	Objc
+114845	Objc
+114851	Cmpl
+114857	Objc
+114866	Subj
+Objc
+114870	Objc
+114879	Pred
+114881	Objc
+114883	Pred
+114885	Pred
+114912	Objc
+114931	Objc
+114933	Subj
+114940	Objc
+114948	Objc
+114964	Pred
+114970	Pred
+114977	Subj
+114986	Objc
+Subj
+115026	Pred
+115052	Subj
+115070	Pred
+115072	Objc
+115080	Objc
+115118	Cmpl
+115148	Objc
+115165	Pred
+115202	Cmpl
+115210	Pred
+115222	Objc
+115246	Cmpl
+115248	Subj
+115253	Objc
+Subj
+115262	Objc
+115274	Objc
+115298	Objc
+115309	Cmpl
+115313	Cmpl
+115322	Objc
+115324	Objc
+115326	Objc
+115328	Objc
+115333	Objc
+115336	Objc
+Cmpl
+115345	Subj
+115350	Cmpl
+115354	Cmpl
+115358	Subj
+115374	Cmpl
+115379	Objc
+115386	Cmpl
+Objc
+115396	Cmpl
+115398	Objc
+115441	Cmpl
+115444	Objc
+115454	Subj
+115485	Pred
+115504	Subj
+Subj
+115508	Objc
+115511	Subj
+115517	Subj
+115534	Objc
+115549	Objc
+115580	Objc
+115583	Objc
+115587	Objc
+115600	Subj
+115615	Subj
+115617	Subj
+115621	Subj
+115623	Subj
+115627	Objc
+115629	Objc
+115631	Subj
+115634	Subj
+115667	Subj
+115678	Objc
+115684	Subj
+115698	Pred
+115708	Subj
+115713	Subj
+115746	Cmpl
+115758	Subj
+115760	Pred
+115762	Subj
+115765	Objc
+115771	Objc
+115773	Objc
+115782	Objc
+Objc
+115793	Cmpl
+115796	Objc
+115804	Cmpl
+115832	Objc
+115873	Objc
+Objc
+115888	Objc
+115891	Subj
+115903	Objc
+Cmpl
+115933	Subj
+115940	Subj
+115953	Objc
+115984	Objc
+115987	Subj
+116008	Pred
+116012	Objc
+116023	Subj
+116037	Objc
+116046	Objc
+116048	Pred
+116050	Subj
+116052	Pred
+116064	Subj
+116075	Subj
+116143	Subj
+116181	Objc
+116231	Subj
+116244	Objc
+116259	Cmpl
+116285	Subj
+116301	Subj
+116309	Objc
+116378	Subj
+116416	Objc
+Subj
+116429	Subj
+116466	Subj
+116505	Subj
+Pred
+116509	Subj
+116565	Objc
+116567	Objc
+116603	Objc
+116622	Subj
+116639	Objc
+116642	Pred
+116651	Subj
+Subj
+116655	Objc
+116661	Subj
+Pred
+116670	Subj
+116685	Objc
+116701	Pred
+116704	Objc
+116714	Objc
+116729	Pred
+116734	Pred
+116737	Pred
+116745	Pred
+116754	Objc
+Subj
+116776	Objc
+116780	Pred
+116838	Objc
+116844	Pred
+116903	Objc
+116912	Pred
+116937	Pred
+116947	Objc
+116975	Pred
+117007	Objc
+117011	Objc
+117018	Subj
+117058	Pred
+117060	Subj
+117070	Objc
+117097	Pred
+117115	Objc
+117124	Objc
+Cmpl
+117131	Subj
+117142	Subj
+117163	Pred
+117169	Pred
+117171	Cmpl
+Objc
+117190	Objc
+117198	Subj
+117216	Objc
+117236	Objc
+117247	Objc
+117254	Objc
+117267	Objc
+Subj
+117272	Subj
+117284	Pred
+117286	Subj
+117315	Subj
+117321	Subj
+117325	Pred
+117339	Objc
+Subj
+117355	Subj
+117370	Subj
+Pred
+117391	Objc
+117411	Subj
+117417	Pred
+117419	Subj
+117429	Subj
+117433	Subj
+Pred
+117445	Subj
+117452	Pred
+117458	Subj
+117463	Subj
+117505	Pred
+117509	Subj
+117514	Objc
+117523	Objc
+117529	Objc
+117533	Objc
+117538	Objc
+117540	Objc
+117542	Objc
+117552	Objc
+117565	Subj
+117584	Objc
+117602	Pred
+117607	Objc
+117618	Pred
+117626	Subj
+117635	Subj
+117644	Objc
+117650	Cmpl
+117665	Subj
+117676	Pred
+117684	Objc
+117687	Subj
+117690	Subj
+117708	Objc
+117716	Subj
+117721	Objc
+117726	Subj
+117733	Subj
+117735	Objc
+117737	Subj
+117739	Pred
+117742	Objc
+117752	Subj
+117765	Objc
+117772	Subj
+117795	Subj
+117797	Objc
+117804	Pred
+117820	Objc
+117861	Subj
+117863	Pred
+117915	Pred
+117919	Subj
+117949	Objc
+117958	Objc
+117975	Objc
+Subj
+Pred
+118026	Subj
+118076	Subj
+118080	Objc
+118082	Objc
+118105	Subj
+118123	Pred
+118125	Subj
+118127	Pred
+118131	Subj
+118135	Pred
+118188	Subj
+118193	Objc
+118217	Subj
+118227	Subj
+Pred
+118253	Subj
+118274	Objc
+118289	Subj
+118322	Subj
+118340	Objc
+118363	Objc
+118396	Pred
+118403	Objc
+118415	Objc
+118418	Cmpl
+118457	Subj
+118504	Subj
+118508	Objc
+Subj
+118547	Cmpl
+118557	Pred
+118560	Objc
+118569	Subj
+118582	Objc
+118595	Pred
+118616	Objc
+118626	Subj
+118664	Pred
+118670	Objc
+118683	Pred
+118698	Subj
+118710	Subj
+118724	Subj
+118751	Objc
+118767	Subj
+Subj
+118773	Subj
+118777	Pred
+118826	Subj
+118837	Subj
+118882	Subj
+118896	Subj
+118927	Subj
+118937	Pred
+118952	Subj
+118957	Objc
+118963	Objc
+118977	Pred
+118991	Objc
+Pred
+118996	Subj
+119003	Objc
+119023	Subj
+119028	Objc
+119077	Objc
+119087	Objc
+119129	Objc
+119145	Objc
+119149	Objc
+119161	Objc
+119167	Subj
+119169	Pred
+119173	Objc
+119181	Cmpl
+Objc
+119185	Subj
+119204	Cmpl
+Subj
+119212	Pred
+119216	Objc
+119226	Subj
+119233	Subj
+119249	Subj
+119265	Subj
+119275	Pred
+119286	Subj
+Pred
+119323	Objc
+119352	Objc
+119391	Objc
+119395	Subj
+119412	Subj
+119416	Objc
+119418	Objc
+119420	Objc
+119434	Pred
+119441	Subj
+119447	Subj
+119458	Subj
+119489	Pred
+119559	Subj
+119566	Objc
+Objc
+119607	Subj
+Cmpl
+119610	Cmpl
+119623	Objc
+119626	Subj
+119632	Objc
+119638	Cmpl
+Cmpl
+119643	Pred
+119646	Objc
+119649	Subj
+119658	Subj
+119673	Objc
+119686	Subj
+119697	Subj
+119717	Pred
+119720	Pred
+119764	Subj
+119770	Subj
+119791	Subj
+119797	Subj
+119824	Objc
+119850	Cmpl
+Subj
+119858	Subj
+119865	Pred
+119869	Subj
+119911	Objc
+119952	Subj
+120012	Subj
+120014	Objc
+120028	Pred
+120036	Pred
+120044	Pred
+120050	Subj
+120055	Objc
+120060	Objc
+120064	Subj
+120066	Subj
+120068	Pred
+120071	Objc
+120073	Cmpl
+Subj
+120079	Subj
+120081	Cmpl
+120112	Pred
+120133	Objc
+120205	Subj
+120232	Subj
+120240	Objc
+120245	Objc
+120250	Pred
+120253	Subj
+120271	Objc
+120276	Cmpl
+120301	Objc
+120321	Cmpl
+120332	Objc
+120344	Cmpl
+120357	Objc
+120368	Objc
+120410	Objc
+120430	Objc
+120436	Cmpl
+120443	Cmpl
+120448	Objc
+120467	Objc
+120473	Pred
+120533	Pred
+120535	Subj
+120537	Objc
+120539	Pred
+120546	Objc
+120550	Objc
+Subj
+120561	Pred
+120566	Subj
+Objc
+Subj
+120583	Objc
+120589	Objc
+120602	Pred
+120620	Objc
+120626	Subj
+120640	Pred
+120644	Pred
+120648	Pred
+120683	Pred
+120686	Objc
+120689	Subj
+120695	Pred
+Subj
+120709	Objc
+120715	Pred
+120735	Subj
+Pred
+120743	Subj
+120745	Pred
+120756	Pred
+120778	Objc
+Objc
+120828	Subj
+120836	Subj
+120873	Objc
+120877	Objc
+Subj
+120887	Objc
+120889	Subj
+120891	Objc
+120895	Subj
+120917	Objc
+120923	Objc
+120930	Subj
+Subj
+120976	Pred
+120980	Objc
+120982	Subj
+Objc
+Pred
+120990	Objc
+120992	Subj
+120994	Objc
+121003	Objc
+121008	Pred
+121018	Cmpl
+121030	Cmpl
+121035	Pred
+121045	Objc
+Pred
+121052	Subj
+Subj
+Objc
+121056	Subj
+Objc
+121060	Cmpl
+121067	Subj
+Cmpl
+121076	Subj
+121079	Pred
+121103	Pred
+121144	Subj
+121149	Cmpl
+121161	Subj
+121190	Pred
+121198	Pred
+121201	Subj
+Pred
+121214	Subj
+121216	Subj
+121221	Subj
+121243	Subj
+Objc
+121255	Pred
+121280	Objc
+121291	Pred
+121379	Subj
+Pred
+121399	Subj
+Objc
+121403	Subj
+Objc
+121406	Subj
+121410	Subj
+121456	Pred
+121461	Pred
+121473	Pred
+121494	Objc
+Pred
+Subj
+121498	Pred
+Subj
+121534	Subj
+121560	Subj
+121584	Objc
+121596	Objc
+121598	Cmpl
+121601	Objc
+121621	Objc
+121625	Objc
+121648	Objc
+121651	Objc
+121655	Objc
+121662	Objc
+121665	Objc
+121668	Objc
+121676	Pred
+121686	Subj
+121688	Pred
+121714	Subj
+121719	Pred
+121736	Subj
+121758	Pred
+121762	Objc
+121767	Subj
+121790	Pred
+121863	Objc
+121927	Subj
+121969	Objc
+121975	Pred
+121979	Pred
+121991	Subj
+122023	Objc
+122027	Objc
+122031	Cmpl
+122034	Cmpl
+122048	Subj
+122076	Objc
+122097	Subj
+Objc
+122103	Objc
+122145	Cmpl
+122149	Pred
+122166	Objc
+122238	Objc
+122297	Cmpl
+122306	Subj
+122309	Cmpl
+122313	Objc
+122323	Subj
+122338	Cmpl
+122360	Objc
+122364	Pred
+122371	Pred
+122374	Subj
+Pred
+122378	Objc
+122439	Objc
+122443	Objc
+Cmpl
+122469	Objc
+122512	Subj
+122552	Pred
+122584	Cmpl
+122617	Objc
+122621	Subj
+122632	Subj
+122641	Subj
+122659	Objc
+122666	Subj
+122669	Pred
+122674	Subj
+122690	Subj
+122702	Objc
+122707	Objc
+122709	Objc
+122759	Pred
+122773	Objc
+122802	Subj
+122804	Pred
+122810	Subj
+Objc
+122814	Pred
+122816	Subj
+122828	Subj
+Pred
+122842	Cmpl
+122844	Objc
+122850	Subj
+Objc
+122856	Subj
+122861	Subj
+122969	Subj
+122974	Pred
+122987	Objc
+122993	Subj
+122997	Objc
+Objc
+123021	Objc
+123037	Subj
+123045	Objc
+123049	Objc
+123060	Objc
+123065	Objc
+123077	Objc
+123081	Objc
+123088	Objc
+123090	Objc
+123093	Objc
+123110	Objc
+123112	Pred
+123115	Objc
+123127	Pred
+123145	Pred
+123152	Objc
+123180	Pred
+123199	Subj
+123203	Objc
+123238	Subj
+123266	Subj
+123275	Cmpl
+123281	Subj
+123311	Pred
+123336	Subj
+123344	Subj
+123346	Objc
+123391	Subj
+123395	Pred
+123400	Subj
+123403	Objc
+123406	Objc
+123415	Subj
+123421	Subj
+123426	Objc
+123464	Subj
+123490	Pred
+123548	Pred
+123646	Cmpl
+Subj
+123649	Cmpl
+123656	Objc
+123658	Cmpl
+123661	Objc
+123671	Objc
+123698	Objc
+123700	Objc
+123724	Objc
+123734	Subj
+123739	Cmpl
+123750	Cmpl
+123762	Subj
+123772	Objc
+123783	Objc
+123787	Subj
+123815	Cmpl
+123831	Cmpl
+123847	Objc
+123858	Cmpl
+123926	Subj
+123949	Subj
+Pred
+123965	Objc
+123972	Objc
+123983	Cmpl
+124000	Objc
+124012	Objc
+124023	Objc
+124028	Pred
+124043	Cmpl
+124049	Subj
+124064	Cmpl
+124090	Cmpl
+124102	Subj
+124106	Subj
+124112	Subj
+124126	Objc
+124130	Objc
+124142	Subj
+124145	Subj
+124151	Objc
+124167	Subj
+124177	Subj
+124191	Subj
+124198	Objc
+124202	Cmpl
+124206	Subj
+124223	Objc
+124264	Objc
+124310	Subj
+Objc
+124315	Objc
+124332	Objc
+124336	Objc
+124341	Subj
+124345	Pred
+124355	Subj
+124367	Objc
+124379	Objc
+124422	Subj
+124442	Subj
+124451	Cmpl
+124473	Objc
+Cmpl
+124476	Subj
+124483	Subj
+124485	Cmpl
+124511	Pred
+124514	Pred
+124530	Cmpl
+124539	Subj
+124546	Subj
+124555	Cmpl
+124585	Objc
+124596	Subj
+124605	Pred
+124618	Subj
+124626	Objc
+Objc
+124630	Subj
+124632	Pred
+124634	Subj
+124680	Objc
+124698	Subj
+124702	Subj
+Objc
+124711	Subj
+124714	Subj
+124730	Subj
+124746	Pred
+124749	Subj
+124766	Subj
+124770	Subj
+124786	Subj
+124790	Objc
+124806	Objc
+124818	Cmpl
+124821	Cmpl
+124835	Pred
+124837	Objc
+124853	Subj
+124882	Cmpl
+124891	Subj
+124895	Objc
+124897	Objc
+124902	Objc
+124924	Cmpl
+124929	Subj
+124936	Cmpl
+Objc
+124947	Objc
+124968	Objc
+124970	Subj
+124979	Pred
+124982	Objc
+124988	Cmpl
+124992	Pred
+125004	Objc
+125026	Subj
+125031	Objc
+125043	Objc
+125050	Objc
+125053	Objc
+125073	Cmpl
+125078	Objc
+125087	Objc
+125089	Objc
+125100	Objc
+125102	Cmpl
+125108	Subj
+125119	Subj
+Pred
+125144	Objc
+125154	Objc
+125161	Pred
+125170	Subj
+125199	Subj
+125210	Cmpl
+125214	Objc
+125225	Objc
+125231	Cmpl
+Subj
+125234	Pred
+125278	Subj
+125311	Cmpl
+125315	Cmpl
+125323	Cmpl
+125331	Cmpl
+125338	Cmpl
+125345	Cmpl
+125353	Cmpl
+125356	Pred
+125380	Subj
+125449	Subj
+125485	Subj
+125489	Subj
+Objc
+125497	Subj
+125500	Cmpl
+125509	Objc
+125519	Pred
+125528	Subj
+125533	Subj
+125562	Objc
+125573	Objc
+125588	Pred
+125592	Objc
+Subj
+125595	Cmpl
+125600	Objc
+125602	Cmpl
+125606	Objc
+125611	Objc
+125620	Objc
+125623	Subj
+125625	Objc
+125632	Objc
+125636	Pred
+125641	Pred
+125645	Objc
+125659	Objc
+125672	Pred
+125689	Cmpl
+125704	Objc
+125708	Objc
+125717	Pred
+125723	Pred
+125728	Objc
+125741	Objc
+125743	Subj
+Pred
+125764	Subj
+125771	Subj
+125788	Objc
+125791	Objc
+125793	Subj
+125795	Objc
+125800	Pred
+125803	Subj
+Pred
+125839	Objc
+125859	Pred
+125874	Objc
+125888	Pred
+125892	Objc
+125898	Objc
+125901	Subj
+125915	Objc
+125920	Pred
+125927	Pred
+125933	Objc
+125936	Subj
+125963	Pred
+125983	Subj
+125991	Subj
+125999	Subj
+126012	Objc
+126063	Pred
+126072	Objc
+126079	Objc
+126085	Objc
+126103	Pred
+126119	Objc
+126122	Objc
+Cmpl
+126134	Subj
+126148	Objc
+Cmpl
+126181	Subj
+126195	Subj
+126206	Subj
+126222	Subj
+126230	Objc
+126232	Pred
+126242	Subj
+126256	Objc
+126258	Subj
+126268	Objc
+Subj
+126277	Objc
+126292	Objc
+126322	Pred
+126356	Subj
+126362	Subj
+126364	Objc
+126381	Objc
+126385	Objc
+126387	Objc
+Subj
+126393	Objc
+126415	Subj
+126424	Cmpl
+126426	Subj
+126439	Subj
+126443	Subj
+126455	Subj
+126460	Subj
+126466	Objc
+126474	Pred
+126500	Objc
+126509	Subj
+126518	Subj
+126535	Objc
+126545	Subj
+126548	Subj
+126551	Objc
+126553	Subj
+126564	Pred
+126573	Objc
+126577	Objc
+126604	Subj
+126641	Pred
+126657	Pred
+126671	Pred
+126682	Pred
+126693	Subj
+126699	Pred
+126735	Pred
+126764	Pred
+126767	Pred
+126796	Objc
+126798	Objc
+126805	Objc
+126814	Pred
+126824	Cmpl
+126852	Objc
+126871	Pred
+126875	Objc
+126881	Objc
+126888	Objc
+126894	Objc
+Objc
+126903	Objc
+126908	Subj
+126922	Objc
+126940	Pred
+126965	Objc
+126971	Objc
+126996	Cmpl
+Objc
+127013	Subj
+127023	Objc
+127035	Objc
+127098	Objc
+127106	Objc
+127112	Cmpl
+127115	Objc
+127121	Objc
+127123	Pred
+127133	Pred
+127160	Subj
+127168	Objc
+127172	Objc
+127189	Objc
+127197	Subj
+127206	Subj
+127218	Objc
+127223	Cmpl
+127229	Cmpl
+127237	Objc
+127239	Cmpl
+127264	Objc
+127277	Objc
+Subj
+127286	Subj
+127299	Subj
+127306	Subj
+127325	Objc
+127327	Objc
+127334	Objc
+127336	Subj
+127355	Objc
+127360	Subj
+127367	Pred
+127372	Objc
+127382	Objc
+127391	Objc
+127396	Objc
+127403	Subj
+127455	Pred
+127457	Objc
+127460	Cmpl
+127468	Cmpl
+127473	Objc
+127480	Subj
+Cmpl
+127483	Objc
+127509	Cmpl
+127520	Cmpl
+127526	Objc
+127529	Cmpl
+127570	Objc
+127574	Objc
+127576	Subj
+Objc
+127630	Objc
+127640	Objc
+127643	Objc
+127646	Objc
+127671	Objc
+Subj
+Subj
+127675	Objc
+127680	Objc
+127691	Subj
+Cmpl
+127712	Subj
+127722	Objc
+127744	Cmpl
+127763	Subj
+127769	Objc
+127790	Objc
+127796	Subj
+127810	Objc
+127812	Objc
+127815	Subj
+127833	Cmpl
+127847	Subj
+127852	Objc
+127855	Subj
+127859	Objc
+127868	Objc
+127893	Objc
+127910	Objc
+Objc
+127918	Objc
+127951	Objc
+127953	Cmpl
+127960	Subj
+127976	Subj
+127987	Objc
+127989	Pred
+128008	Pred
+Subj
+128018	Cmpl
+128035	Subj
+128061	Objc
+128064	Objc
+128075	Objc
+128083	Cmpl
+128102	Objc
+128106	Subj
+Objc
+128120	Subj
+128163	Pred
+128189	Objc
+128224	Subj
+128243	Objc
+128258	Pred
+128260	Subj
+Pred
+128263	Subj
+128275	Pred
+128322	Objc
+128340	Subj
+128352	Pred
+128373	Objc
+128376	Subj
+128379	Subj
+128389	Objc
+128424	Objc
+128460	Objc
+128465	Objc
+Objc
+128472	Subj
+Pred
+128475	Objc
+128526	Objc
+128534	Objc
+Subj
+128539	Objc
+128541	Objc
+128550	Cmpl
+128557	Subj
+128572	Objc
+128579	Subj
+128581	Pred
+128592	Pred
+128600	Pred
+128602	Subj
+128612	Objc
+128632	Pred
+128637	Cmpl
+128644	Objc
+128646	Objc
+128670	Objc
+128683	Pred
+128710	Subj
+128722	Objc
+128730	Subj
+128735	Objc
+128741	Objc
+128774	Objc
+128776	Objc
+128785	Cmpl
+128792	Cmpl
+128802	Objc
+Subj
+128817	Objc
+128835	Pred
+128860	Pred
+128874	Objc
+Objc
+128886	Objc
+128889	Cmpl
+Objc
+128903	Objc
+128934	Subj
+128957	Subj
+128963	Subj
+128979	Objc
+128998	Cmpl
+129005	Objc
+129016	Subj
+129024	Cmpl
+129031	Objc
+129033	Objc
+129047	Objc
+129065	Objc
+129070	Pred
+129078	Subj
+129123	Subj
+129136	Pred
+129173	Objc
+129175	Objc
+129189	Objc
+129203	Subj
+129208	Subj
+129221	Subj
+129249	Subj
+Pred
+129259	Objc
+129271	Subj
+129273	Objc
+129281	Subj
+Objc
+129305	Objc
+129308	Subj
+129316	Objc
+Objc
+129367	Objc
+129369	Objc
+129383	Objc
+129416	Pred
+129424	Objc
+129433	Pred
+129445	Subj
+129458	Cmpl
+129482	Objc
+129489	Subj
+Objc
+129508	Subj
+129525	Subj
+129531	Cmpl
+129540	Subj
+129554	Objc
+129556	Objc
+129567	Subj
+129577	Objc
+129589	Cmpl
+Subj
+129601	Subj
+129614	Pred
+129625	Pred
+129672	Subj
+129686	Pred
+129700	Objc
+129709	Pred
+129715	Pred
+129730	Pred
+129749	Objc
+129751	Objc
+129825	Pred
+129843	Subj
+129881	Subj
+Pred
+129910	Objc
+129923	Objc
+129930	Cmpl
+129968	Subj
+129978	Subj
+130027	Subj
+130038	Pred
+130069	Objc
+130110	Pred
+130134	Subj
+130229	Objc
+130232	Cmpl
+Subj
+130264	Cmpl
+130273	Objc
+130277	Cmpl
+130305	Objc
+130313	Subj
+130322	Pred
+130327	Pred
+130361	Pred
+130373	Cmpl
+Subj
+130418	Objc
+130454	Cmpl
+130492	Pred
+130513	Subj
+130527	Subj
+130562	Objc
+130584	Objc
+130608	Subj
+130632	Subj
+130782	Subj
+130805	Subj
+130894	Cmpl
+130902	Pred
+130909	Cmpl
+130912	Subj
+130916	Cmpl
+Subj
+130933	Objc
+130949	Objc
+130991	Objc
+130994	Objc
+131017	Subj
+131028	Subj
+131035	Cmpl
+131052	Cmpl
+131096	Objc
+131126	Objc
+131184	Pred
+131197	Objc
+131218	Subj
+131335	Subj
+131345	Cmpl
+131360	Subj
+131385	Subj
+131391	Cmpl
+Subj
+131395	Objc
+131402	Cmpl
+131420	Subj
+131432	Cmpl
+131436	Objc
+131451	Objc
+131466	Objc
+131481	Pred
+131493	Pred
+131538	Pred
+131566	Pred
+131571	Objc
+131573	Objc
+131745	Pred
+131748	Objc
+131758	Subj
+131795	Subj
+131835	Objc
+131886	Subj
+131908	Subj
+131914	Objc
+131921	Objc
+131926	Subj
+131955	Subj
+131978	Subj
+132009	Objc
+132046	Cmpl
+132048	Cmpl
+132053	Cmpl
+132057	Objc
+132069	Pred
+132071	Subj
+132083	Objc
+132092	Pred
+132096	Objc
+132103	Cmpl
+132105	Subj
+132119	Cmpl
+132121	Pred
+132150	Objc
+132178	Objc
+Subj
+132197	Subj
+Objc
+132201	Subj
+132214	Subj
+132216	Objc
+132220	Subj
+132222	Subj
+132231	Subj
+132239	Objc
+132245	Objc
+132274	Objc
+132277	Objc
+132280	Objc
+132292	Subj
+132343	Objc
+132345	Cmpl
+132385	Objc
+132394	Cmpl
+132407	Objc
+132437	Pred
+132441	Objc
+132515	Objc
+132619	Subj
+132686	Objc
+132711	Subj
+132751	Objc
+132758	Subj
+132860	Objc
+132869	Subj
+132871	Objc
+132901	Subj
+132934	Subj
+132982	Objc
+132984	Objc
+132986	Objc
+Objc
+133006	Objc
+133024	Objc
+133054	Subj
+133079	Objc
+133082	Pred
+133099	Cmpl
+133152	Subj
+Pred
+133157	Subj
+133164	Cmpl
+133172	Cmpl
+Subj
+133203	Cmpl
+133205	Objc
+133211	Objc
+133214	Cmpl
+Subj
+133227	Objc
+133253	Subj
+133255	Objc
+133258	Subj
+133265	Subj
+133270	Subj
+133274	Pred
+133300	Subj
+133339	Subj
+133361	Subj
+133363	Cmpl
+133375	Objc
+133378	Subj
+133388	Cmpl
+133390	Objc
+133405	Subj
+133436	Cmpl
+Objc
+133452	Subj
+133473	Pred
+133479	Objc
+133531	Objc
+133547	Objc
+133550	Subj
+133572	Subj
+133589	Subj
+133591	Subj
+133596	Pred
+133599	Subj
+133607	Subj
+133625	Subj
+Pred
+133664	Cmpl
+Objc
+133698	Subj
+133716	Objc
+133722	Subj
+133732	Objc
+133787	Objc
+133801	Subj
+133808	Pred
+133826	Subj
+133832	Pred
+133960	Objc
+134030	Subj
+134139	Subj
+134151	Pred
+134246	Subj
+134358	Pred
+134366	Pred
+134376	Objc
+134385	Objc
+Cmpl
+134389	Pred
+134420	Cmpl
+134450	Cmpl
+Objc
+134557	Objc
+Subj
+134567	Objc
+134582	Subj
+Pred
+134602	Objc
+134609	Pred
+134643	Subj
+134648	Subj
+134656	Pred
+134681	Cmpl
+134696	Subj
+134723	Pred
+134748	Cmpl
+134781	Objc
+134788	Subj
+134873	Objc
+134878	Cmpl
+134884	Subj
+134886	Cmpl
+134896	Objc
+134908	Objc
+134954	Pred
+134959	Objc
+134990	Subj
+134996	Subj
+135003	Pred
+135018	Objc
+135023	Subj
+Objc
+135028	Objc
+135037	Subj
+135050	Subj
+135059	Objc
+135078	Cmpl
+135081	Objc
+135099	Objc
+135104	Subj
+135111	Objc
+135120	Objc
+135156	Objc
+135165	Objc
+135295	Cmpl
+135314	Cmpl
+Objc
+135318	Objc
+135323	Cmpl
+135337	Pred
+135341	Objc
+135364	Pred
+135370	Objc
+135436	Subj
+135532	Objc
+135595	Subj
+135611	Subj
+Pred
+135619	Objc
+135829	Subj
+135885	Subj
+135901	Objc
+135940	Cmpl
+135952	Objc
+135955	Cmpl
+135971	Cmpl
+135973	Pred
+135985	Cmpl
+Subj
+136000	Objc
+136003	Cmpl
+136070	Objc
+Subj
+136075	Subj
+136098	Objc
+136121	Subj
+136123	Objc
+136128	Subj
+136318	Subj
+136343	Subj
+136351	Objc
+136356	Objc
+136381	Subj
+136386	Objc
+136392	Subj
+136394	Cmpl
+136411	Subj
+136453	Subj
+136463	Objc
+136476	Objc
+136522	Objc
+136555	Subj
+136561	Objc
+136567	Objc
+136576	Pred
+136614	Subj
+136617	Cmpl
+136632	Subj
+136638	Subj
+136679	Subj
+136696	Subj
+136708	Subj
+136788	Subj
+136834	Objc
+136836	Objc
+136850	Cmpl
+136852	Subj
+136863	Subj
+136878	Objc
+136882	Pred
+136884	Subj
+136887	Pred
+136918	Subj
+136950	Cmpl
+136959	Objc
+136969	Cmpl
+136990	Pred
+137014	Subj
+137082	Pred
+137088	Pred
+137110	Pred
+137123	Subj
+137125	Pred
+137132	Pred
+137138	Pred
+137155	Pred
+137158	Pred
+137161	Pred
+137164	Pred
+137167	Pred
+137170	Pred
+137173	Pred
+137176	Pred
+137179	Pred
+137182	Pred
+137185	Pred
+137188	Pred
+137215	Objc
+137253	Objc
+137287	Subj
+137291	Pred
+137330	Cmpl
+137400	Objc
+137415	Subj
+137444	Cmpl
+137468	Subj
+137477	Pred
+137493	Objc
+137508	Cmpl
+Objc
+137512	Cmpl
+137537	Cmpl
+137550	Pred
+137564	Objc
+137582	Cmpl
+137588	Subj
+137604	Pred
+137627	Pred
+137647	Objc
+137655	Cmpl
+Objc
+137660	Subj
+137698	Subj
+137710	Subj
+137729	Subj
+137765	Objc
 168219	Pred
-168223	Objc
-Objc
-168232	Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-168240	Objc
-168243	Objc
-168246	Objc
-168250	Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-168271	Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-Objc
-168286	Subj
-168291	Pred
-168296	Pred
-168302	Pred
-Subj
-168308	Cmpl
-168314	Subj
-168317	Objc
-168320	Pred
-168322	Objc
+168231	Subj
+168233	Objc
+168236	Subj
+168239	Objc
+168242	Subj
+168254	Subj
+168269	Subj
+168272	Objc
+168275	Subj
+168278	Objc
+168281	Subj
+168284	Objc
+168287	Subj
+168290	Objc
+168293	Subj
+168296	Objc
+168299	Subj
+168302	Objc
+168310	Subj
+168313	Objc
+168321	Subj
 168324	Objc
-168329	Subj
-168333	Subj
-168335	Objc
-168338	Pred
-Subj
-Subj
-168343	Subj
-168345	Objc
-168348	Objc
-168350	Subj
-168359	Subj
-168363	Objc
-168368	Subj
+168327	Subj
+168336	Subj
+168339	Objc
+168349	Subj
+168352	Objc
+168355	Subj
+168358	Objc
+168361	Subj
+168364	Objc
+168367	Subj
 168370	Objc
-168375	Subj
-168389	Objc
-168391	Objc
-168398	Objc
-Subj
+168373	Subj
+168376	Objc
+168379	Subj
+168382	Objc
+168385	Subj
+168388	Objc
+168391	Subj
+168394	Objc
+168397	Subj
+168400	Objc
 168403	Subj
-Objc
-168408	Objc
-168413	Objc
-168422	Subj
-168424	Cmpl
-168429	Objc
-168441	Objc
-168445	Objc
-168464	Subj
-Subj
-168467	Cmpl
+168406	Objc
+168409	Subj
+168412	Objc
+168415	Subj
+168418	Objc
+168421	Subj
+168448	Subj
+168450	Objc
+168453	Subj
+168456	Objc
+168459	Subj
+168462	Objc
+168465	Subj
+168468	Objc
+168471	Subj
 168474	Objc
-168503	Subj
-168508	Subj
-168511	Objc
-168513	Objc
-168515	Subj
-168517	Objc
-168521	Objc
-168525	Subj
-168538	Objc
-168540	Objc
-168549	Objc
-168553	Objc
+168477	Subj
+168480	Objc
+168483	Subj
+168486	Objc
+168489	Subj
+168492	Objc
+168495	Subj
+168498	Objc
+168501	Subj
+168504	Objc
+168507	Subj
+168510	Objc
+168513	Subj
+168531	Pred
 Subj
-168558	Cmpl
-Subj
-168564	Subj
-168566	Objc
-168571	Objc
-168574	Subj
-168576	Pred
-168579	Objc
-168581	Objc
-168585	Objc
-168587	Subj
-168597	Subj
-Objc
-Subj
+168545	Pred
+168559	Pred
+168575	Pred
+168578	Subj
+168587	Pred
+168596	Cmpl
 168602	Subj
-Subj
-168612	Subj
-168621	Pred
-168623	Subj
-168627	Subj
+168620	Pred
+168625	Objc
+168630	Objc
+Objc
 168633	Subj
-168641	Pred
+168636	Subj
 168643	Cmpl
-168648	Objc
-168650	Subj
-168653	Subj
-168663	Objc
-Subj
-168667	Objc
-Subj
-168671	Objc
-168690	Objc
-168694	Subj
-Subj
-168708	Objc
+168652	Objc
 Objc
-168721	Objc
-168732	Objc
-168739	Subj
-168746	Subj
-168752	Objc
-168755	Subj
-168757	Objc
-168759	Subj
-168762	Subj
-168765	Subj
-Objc
-Objc
+168664	Pred
+168672	Objc
+168675	Objc
+168680	Objc
 Subj
+168684	Objc
+168696	Subj
+168715	Subj
+168724	Objc
+168727	Objc
+168733	Subj
+168737	Pred
+168740	Subj
+168745	Subj
+168756	Objc
 Subj
+168764	Objc
 168772	Objc
+168777	Objc
+168780	Objc
+168785	Objc
 Subj
-Pred
-168776	Subj
-168779	Objc
-168782	Subj
-168789	Pred
-168792	Subj
-168797	Pred
-168809	Subj
-168813	Objc
-168830	Objc
-168835	Objc
-168844	Subj
-168852	Cmpl
-168854	Subj
-Objc
-168858	Cmpl
-168865	Objc
-168869	Subj
-168872	Objc
-168878	Objc
-168884	Pred
-168887	Subj
-Cmpl
+168807	Subj
+168816	Pred
+168818	Subj
+168829	Objc
+168842	Objc
+168851	Subj
+168859	Objc
+168875	Subj
+168879	Subj
+168882	Cmpl
+168899	Subj
+168905	Pred
+168920	Subj
+168931	Subj
+168934	Objc
+168941	Objc
+168952	Objc
+168969	Cmpl
+168971	Subj
+168974	Objc
 Subj
-Cmpl
-168893	Objc
-168895	Subj
-168900	Subj
-168905	Subj
-168908	Subj
-168912	Subj
-168916	Subj
-168919	Subj
-168923	Objc
-168925	Subj
-Objc
-168930	Cmpl
-Cmpl
-Objc
-168936	Pred
-168940	Pred
-168944	Pred
-168950	Objc
-Subj
-168953	Subj
-168955	Pred
-168959	Objc
-168964	Objc
-168966	Objc
-168968	Objc
-168973	Objc
-168975	Objc
-168977	Objc
-168980	Pred
-168985	Objc
-168989	Objc
-Subj
-168992	Objc
-Objc
+168978	Objc
+168984	Subj
+168987	Objc
 168995	Objc
+169001	Pred
+169003	Subj
+169008	Objc
+169024	Objc
+169039	Objc
+169042	Objc
+169048	Cmpl
+169080	Subj
+169082	Subj
+169089	Cmpl
+169115	Cmpl
+169118	Subj
+169120	Objc
+169125	Objc
 Subj
-168998	Objc
-Subj
-169003	Objc
-169015	Subj
-169022	Objc
-169024	Subj
-169026	Subj
-169028	Subj
-169030	Pred
-169036	Pred
-169045	Objc
-169050	Objc
-169061	Subj
-169065	Subj
-169067	Objc
-169073	Subj
-169075	Subj
-169077	Subj
-169083	Objc
-169087	Objc
-169089	Subj
-Cmpl
-169095	Cmpl
-Objc
-169098	Cmpl
-Subj
-169103	Cmpl
-Subj
-169106	Objc
-169108	Subj
-Objc
-169111	Cmpl
-Objc
-169114	Objc
-169116	Objc
-169118	Cmpl
-169131	Subj
-169133	Subj
-169136	Subj
-169139	Pred
-Subj
-169142	Subj
-169145	Subj
-169147	Subj
-169153	Subj
-Objc
-Objc
-Objc
-Objc
-169163	Subj
-169165	Subj
-169172	Subj
-169176	Subj
-169181	Objc
-169183	Objc
-169190	Subj
-Objc
-169195	Subj
-169197	Objc
-Subj
-Subj
-169203	Objc
-169207	Subj
-169210	Subj
-169212	Subj
-169225	Objc
-169230	Cmpl
-169232	Objc
-169236	Subj
-Pred
-169243	Objc
-Objc
-169250	Objc
-Cmpl
-Objc
-169259	Subj
-Subj
-Pred
-Subj
-169264	Objc
-Objc
-Cmpl
-169275	Subj
-Subj
-169282	Subj
-169287	Subj
-169296	Pred
-169302	Subj
-169304	Objc
-Subj
-169307	Objc
-Subj
-Objc
-Subj
-Objc
-Subj
-169314	Objc
-169319	Subj
-169324	Objc
-169340	Objc
-169342	Objc
-Subj
-Objc
-169348	Objc
-169352	Subj
-Subj
-Subj
-Objc
-169359	Subj
-Objc
-169364	Objc
-169368	Subj
-Subj
-Subj
-Objc
-169373	Subj
-169375	Subj
-Objc
-169378	Subj
-169383	Subj
-169387	Subj
-Objc
-Subj
-169391	Subj
-Cmpl
-Objc
-169397	Subj
-169401	Subj
-169405	Subj
-169407	Subj
-Pred
-169412	Cmpl
-169414	Subj
-169416	Objc
-169425	Subj
-169436	Subj
-Cmpl
-Subj
-169442	Subj
-169446	Subj
+169147	Pred
+169172	Objc
+169178	Subj
+169192	Objc
+169222	Objc
+169250	Subj
+169266	Subj
+169270	Subj
+169277	Cmpl
+169306	Objc
+169313	Subj
+169336	Subj
+169375	Pred
+169386	Pred
+169415	Subj
+169422	Subj
+169434	Subj
+169443	Objc
 169448	Objc
-169450	Subj
-Objc
-Objc
-Objc
-169456	Objc
-169458	Objc
-Subj
-169463	Subj
-Subj
-Subj
-Subj
-169469	Subj
-169472	Objc
-Subj
-169475	Objc
-169477	Subj
-Subj
-Objc
+169450	Objc
+169455	Subj
+169462	Objc
+169473	Objc
 169483	Subj
-169485	Subj
-169488	Subj
-169493	Subj
-Subj
-169503	Subj
-169516	Subj
-169519	Subj
-169526	Subj
-169537	Subj
-169549	Objc
-169551	Subj
-Objc
-169554	Cmpl
-Subj
-169557	Subj
-169560	Subj
-Objc
-169567	Subj
-169569	Subj
-169574	Cmpl
-Objc
-169583	Subj
-169585	Objc
+169529	Objc
+169536	Objc
+169551	Cmpl
+169555	Subj
+169557	Cmpl
+169568	Objc
+169582	Objc
+169584	Objc
+169589	Cmpl
+169592	Subj
+169603	Objc
 Cmpl
-Subj
+169609	Subj
+169622	Subj
+169629	Objc
+169638	Subj
+169640	Objc
+169654	Pred
+169660	Pred
 Objc
-169594	Subj
-169598	Subj
-Cmpl
-169604	Subj
-169606	Objc
-Subj
-169611	Subj
-169613	Subj
-Subj
-169618	Pred
-Subj
-169621	Subj
-Objc
-169626	Subj
-169630	Subj
-Objc
-169634	Subj
-Subj
-Subj
-Objc
-169640	Subj
-Subj
-169643	Objc
-169646	Subj
-Subj
-169649	Subj
-169651	Objc
-169656	Objc
-169658	Subj
-Subj
-169661	Subj
 169665	Subj
-169670	Subj
-Subj
-Subj
-Subj
 Objc
-169676	Subj
-Subj
-169683	Subj
-Subj
-169688	Subj
-Subj
+169675	Subj
+169680	Pred
+169689	Objc
+169696	Objc
+169706	Objc
+169716	Subj
+169739	Subj
+169742	Objc
+169744	Subj
 Objc
-169695	Subj
-169697	Subj
-169702	Objc
+169752	Subj
+169759	Subj
+169763	Cmpl
+169772	Objc
+169777	Objc
+169780	Subj
+169793	Subj
+169798	Subj
+169811	Subj
+169818	Subj
+169833	Subj
+169869	Cmpl
+169871	Pred
+169879	Subj
+169884	Pred
+169886	Subj
+169898	Subj
+169916	Objc
 Subj
-Subj
-Subj
-169708	Subj
-169713	Objc
-Subj
-169721	Objc
-169726	Objc
-169729	Subj
-Cmpl
-169732	Subj
-Subj
-Objc
-169740	Objc
-169743	Objc
-169747	Subj
-169762	Objc
-169764	Subj
-169773	Subj
-169782	Subj
-169790	Subj
-Subj
-169794	Subj
-169797	Objc
-169803	Objc
-169814	Subj
-Subj
-169831	Subj
-169850	Objc
-169853	Subj
-169856	Pred
-169858	Pred
-169862	Pred
-169865	Subj
-Pred
-169869	Objc
-169871	Objc
-169882	Objc
-Objc
-169885	Subj
-Subj
-169893	Subj
-169901	Subj
-169931	Subj
-169933	Pred
-169937	Objc
-169940	Objc
-169942	Objc
-169947	Objc
+169929	Objc
+169941	Cmpl
+169943	Pred
 169950	Objc
-Objc
-169954	Objc
-169958	Objc
-169960	Subj
-Cmpl
-169967	Subj
-169970	Objc
-169976	Subj
-169978	Subj
-Cmpl
-169983	Objc
-169985	Objc
-169987	Objc
-Pred
-169992	Objc
-169994	Objc
+169955	Cmpl
+169969	Objc
+169976	Objc
+169982	Cmpl
+Subj
 169998	Objc
-170003	Subj
-170006	Subj
-170017	Subj
-170020	Subj
-170024	Objc
-170029	Objc
 Subj
-170034	Subj
+170011	Cmpl
+170029	Cmpl
+Objc
+170032	Cmpl
 170038	Objc
-170040	Subj
-170062	Subj
-170068	Pred
-170072	Objc
+170041	Cmpl
 Subj
-Objc
-170076	Subj
-170079	Objc
-170084	Cmpl
-170086	Subj
-170088	Subj
-170093	Subj
-170097	Subj
-170099	Subj
+170057	Objc
+170063	Objc
 Subj
-170103	Subj
-170109	Objc
-170119	Subj
-170122	Objc
-Subj
-170125	Objc
-Pred
-170128	Subj
-170134	Subj
-170137	Objc
-170141	Cmpl
-Objc
-170144	Subj
-Subj
-170147	Subj
-Objc
-170155	Subj
-170157	Objc
-170160	Cmpl
-170163	Objc
-170165	Objc
-Objc
-170168	Objc
-Objc
-170171	Subj
-Subj
-Subj
-170175	Pred
+170069	Subj
+170073	Objc
+170077	Subj
+170087	Objc
+170147	Objc
+170161	Subj
+170168	Subj
 170177	Subj
-Objc
-170183	Objc
-170185	Subj
-170188	Subj
-170191	Subj
-Objc
-170194	Subj
-170197	Objc
-Subj
 170202	Pred
-170205	Objc
-170207	Subj
-170214	Objc
-170216	Objc
-Objc
+170211	Objc
 170219	Pred
-Pred
-170223	Subj
-Cmpl
-Subj
-170240	Objc
+170222	Cmpl
+170229	Objc
 Objc
-170243	Objc
-Objc
-170248	Subj
-170254	Subj
+170233	Subj
+170237	Objc
+170241	Objc
+170278	Objc
+170285	Objc
 Subj
-170260	Subj
-170267	Subj
-170277	Subj
-170281	Subj
-170284	Pred
-170290	Subj
-170293	Pred
-170307	Subj
+170300	Objc
+170320	Objc
+170343	Subj
+170357	Cmpl
+170376	Objc
+170379	Objc
 Subj
-170318	Objc
-170320	Subj
+170403	Objc
+170414	Subj
+170417	Subj
+170424	Objc
+170430	Objc
+170432	Pred
 Subj
-170331	Objc
-170335	Subj
-170345	Cmpl
-170353	Pred
-170355	Pred
-170357	Objc
-170366	Objc
-170372	Pred
-170376	Subj
-170381	Subj
-170383	Subj
-170391	Subj
-170394	Objc
-170396	Objc
-170400	Subj
-170405	Subj
-170408	Objc
-170413	Subj
-170421	Subj
-170426	Objc
-170431	Subj
-170433	Subj
-170435	Subj
-Objc
-170438	Objc
-170441	Subj
-170449	Objc
-170456	Objc
+170441	Pred
+170443	Subj
+170450	Pred
+170454	Subj
+170456	Pred
+Subj
+170461	Subj
 170463	Objc
-170467	Objc
+170466	Pred
+170471	Objc
+170475	Subj
+170477	Pred
+Subj
+170482	Subj
+170484	Pred
+Subj
+170493	Subj
 Objc
+170498	Pred
 Subj
-170473	Objc
-170478	Subj
-Subj
-170484	Subj
-Subj
-170487	Subj
-170490	Objc
-170494	Subj
-Subj
-Objc
-170498	Objc
-170504	Cmpl
-Objc
-170508	Objc
-170512	Objc
-Subj
-170523	Subj
-170529	Objc
-Subj
-170537	Objc
-Subj
-170540	Cmpl
-170545	Objc
-170548	Objc
-170551	Subj
-170553	Objc
-170558	Objc
-170560	Pred
-170563	Subj
+170503	Subj
 Pred
-170567	Pred
-170570	Subj
-Pred
-170575	Pred
-Subj
-Pred
-Subj
-Subj
-170584	Subj
-170587	Objc
-170592	Objc
-170594	Objc
+170508	Pred
+170515	Pred
+170517	Subj
+170524	Pred
+170528	Objc
+170533	Objc
+170547	Subj
+170552	Pred
+170569	Subj
+170571	Pred
+170580	Subj
 170603	Subj
-Subj
-170610	Subj
-170619	Objc
-170621	Subj
+170605	Pred
+170614	Subj
+170622	Objc
 170625	Objc
-Objc
-170628	Objc
-Subj
-170639	Objc
-170641	Objc
-170646	Subj
-Objc
-170659	Objc
-170661	Subj
-170669	Subj
-Objc
-170681	Pred
-170684	Subj
-170686	Subj
-170690	Pred
-Subj
-170693	Subj
-170699	Objc
-170707	Objc
-170709	Cmpl
-170715	Subj
-170717	Subj
-Objc
-170725	Subj
-Objc
-170728	Subj
-170730	Subj
-170735	Objc
-170741	Objc
-170744	Subj
-170749	Subj
-170752	Cmpl
-Cmpl
-170755	Subj
-170757	Objc
-Cmpl
-Subj
-170764	Subj
-170767	Objc
-170769	Objc
-170771	Subj
-Subj
-Subj
-Objc
-170777	Subj
-170780	Subj
-170789	Cmpl
-Objc
-Subj
-Cmpl
-170798	Pred
-170801	Subj
-170807	Objc
-Objc
-170812	Subj
-170818	Subj
-170825	Subj
-170830	Subj
-Subj
+170650	Subj
+170662	Objc
+170703	Cmpl
+170732	Subj
+170734	Subj
+170738	Objc
+170752	Objc
+170755	Pred
+170766	Subj
+170772	Subj
+Pred
+170786	Cmpl
+170791	Subj
+170818	Cmpl
+170823	Subj
+170827	Pred
+170832	Subj
+170835	Cmpl
+170837	Subj
 170841	Objc
-Subj
-Objc
-170847	Subj
-Subj
-170851	Pred
-170855	Subj
-170863	Objc
-Objc
-170871	Subj
-170873	Objc
-170876	Objc
-170878	Subj
-Objc
-170885	Subj
-170896	Objc
-170903	Subj
-170906	Subj
-170909	Objc
-Objc
-170913	Objc
-170916	Objc
-Subj
-Subj
-Objc
-Subj
-Subj
-170925	Pred
-170928	Subj
-Objc
-Subj
-Subj
-170941	Objc
-170945	Objc
-170947	Objc
-Subj
-170952	Subj
-170957	Subj
-170959	Subj
-170966	Objc
-170969	Cmpl
-Subj
-170979	Subj
-170981	Subj
-170983	Subj
-170988	Subj
-170995	Subj
-171001	Subj
-Objc
-171004	Subj
-Objc
-171010	Objc
-171013	Subj
-171015	Subj
+170846	Pred
+170851	Subj
+170855	Cmpl
+170861	Pred
+170866	Subj
+170871	Pred
+170885	Objc
+170898	Subj
+170904	Objc
+170910	Objc
+170933	Objc
+170951	Pred
+170961	Objc
+170963	Subj
+170966	Cmpl
+170970	Subj
+170973	Cmpl
+170983	Cmpl
+170992	Objc
+171002	Subj
+171005	Cmpl
+171007	Subj
+171011	Objc
+171016	Objc
+171019	Objc
+171029	Subj
+171039	Objc
+171041	Objc
+171052	Subj
+171061	Subj
+171074	Subj
+171082	Objc
+171084	Objc
+171095	Subj
+171104	Subj
+171117	Subj
+171120	Objc
+171126	Cmpl
 Objc
 Subj
-Objc
-171020	Cmpl
-171026	Cmpl
-Subj
-Cmpl
-171034	Pred
-171036	Objc
-171042	Subj
-Objc
-171046	Subj
-Subj
-Objc
-171051	Objc
-171055	Subj
-171057	Subj
-171060	Subj
-171066	Subj
-171068	Objc
-171072	Objc
-Objc
-171077	Objc
-171091	Subj
-171097	Objc
-171099	Subj
-Subj
-171110	Subj
-171119	Objc
-171121	Subj
-Objc
-171137	Cmpl
-Pred
-171140	Cmpl
-171147	Subj
-171149	Cmpl
-171151	Pred
-Objc
-171154	Objc
-171156	Subj
-Cmpl
-171160	Objc
-171162	Objc
-171164	Objc
-171167	Objc
-171169	Objc
-171171	Objc
-171174	Subj
-171190	Subj
-171198	Subj
-171206	Subj
-171210	Subj
-171215	Subj
-Cmpl
-Objc
-Subj
-171225	Subj
-171228	Subj
-Objc
-171231	Objc
-171235	Subj
-Objc
-171238	Subj
-171242	Subj
-Subj
-171245	Subj
+171131	Cmpl
+171133	Subj
+171137	Objc
+171148	Subj
+171151	Subj
+171160	Cmpl
+171167	Cmpl
+171170	Objc
+171175	Subj
+171178	Cmpl
+171189	Pred
+171202	Pred
+171215	Pred
+171235	Objc
+171244	Subj
 171249	Subj
-171254	Objc
-171260	Cmpl
-171262	Subj
-171266	Pred
-171268	Subj
-171270	Subj
+Pred
 Subj
-171275	Subj
-171282	Objc
-171285	Cmpl
-171289	Subj
+Pred
 Subj
-171298	Objc
-171300	Subj
-171304	Subj
-Subj
-171316	Subj
-Subj
-171319	Objc
-171322	Objc
-171328	Subj
-171336	Pred
-171346	Pred
-171351	Objc
-171356	Objc
-171360	Subj
-171368	Cmpl
-171371	Subj
-Cmpl
-171374	Subj
-171388	Subj
-171393	Objc
+171259	Pred
+171268	Objc
+171273	Objc
+171277	Subj
+171280	Cmpl
+171283	Objc
+171287	Subj
+Objc
+171300	Cmpl
+Objc
+171312	Objc
+171319	Cmpl
+Objc
+171326	Subj
+Objc
+171339	Objc
+171354	Objc
+171361	Objc
+171366	Subj
+171369	Cmpl
+171371	Objc
+171382	Objc
+171385	Pred
 171398	Objc
-171401	Subj
-171405	Objc
-171411	Pred
-Subj
-Subj
-171415	Objc
-171426	Subj
-171429	Subj
-171433	Objc
-171436	Objc
-171440	Subj
-Cmpl
+171421	Objc
 Objc
-171444	Pred
-171455	Subj
-171470	Pred
-171472	Subj
-171474	Subj
-171477	Subj
-171482	Subj
-171490	Subj
-171494	Subj
-171496	Subj
-171500	Objc
-Subj
-171506	Objc
-Subj
-171511	Subj
-171513	Cmpl
-171515	Objc
-Subj
-171519	Objc
-171522	Subj
-Objc
-171525	Subj
-171527	Cmpl
-171529	Objc
-Subj
-171535	Cmpl
-171540	Subj
-Objc
-171552	Subj
-Objc
-171561	Cmpl
-171563	Subj
+171427	Subj
+171432	Objc
+171439	Objc
+171445	Objc
+171450	Subj
+171455	Objc
+171461	Subj
 Pred
-171566	Pred
-Subj
+171464	Subj
+171473	Pred
+171477	Objc
+171497	Objc
+171517	Objc
+171524	Subj
+171548	Cmpl
+171550	Objc
+171555	Subj
+171558	Objc
+171561	Subj
+171566	Objc
+171568	Subj
+171575	Subj
+171580	Pred
+171599	Cmpl
+171605	Pred
+171636	Cmpl
+171638	Objc
+171643	Subj
+171657	Objc
+171689	Cmpl
+171695	Subj
+171715	Subj
+171720	Objc
+171727	Subj
+171729	Objc
+171733	Subj
+171745	Subj
+171751	Subj
+171757	Subj
+171772	Objc
+171782	Cmpl
+171786	Cmpl
 Objc
-171572	Objc
-171575	Objc
-171579	Subj
-Subj
-171586	Objc
-171596	Objc
-Subj
-Subj
-Objc
-171601	Pred
-Subj
-171605	Objc
-Objc
-Objc
-171610	Subj
-171613	Objc
-Subj
-171617	Objc
-171619	Subj
-Objc
-Subj
-Objc
-171624	Subj
-Objc
-171627	Objc
-Subj
-Cmpl
-171641	Subj
-Subj
-171645	Subj
-Subj
-171649	Subj
-171655	Subj
-171658	Objc
-171662	Subj
-171666	Objc
-Subj
-Subj
-171684	Objc
-171687	Subj
-171696	Subj
-171699	Subj
-171702	Cmpl
-171704	Objc
-Objc
-171710	Subj
-171714	Subj
-Objc
-171717	Subj
-171720	Subj
-171727	Cmpl
-Objc
-Cmpl
-171731	Cmpl
-171734	Subj
-171736	Subj
-Subj
-171739	Objc
-171744	Subj
-171747	Cmpl
-171749	Cmpl
-171753	Subj
-171761	Subj
-171771	Subj
-Objc
-Objc
-171781	Subj
-171785	Subj
-Subj
-171789	Subj
-171792	Pred
-171794	Pred
-Subj
-171798	Objc
-171800	Objc
-171803	Subj
-Subj
-171809	Subj
-171811	Subj
-Subj
-171814	Subj
-Objc
+171793	Subj
+171797	Cmpl
+171805	Objc
+171811	Objc
+171820	Cmpl
 171823	Objc
-171829	Subj
+171829	Cmpl
+171832	Subj
+171845	Cmpl
+171849	Subj
+171855	Objc
+171866	Subj
+171869	Pred
+171872	Objc
+171879	Cmpl
+171885	Cmpl
+171887	Objc
+171892	Subj
+171896	Objc
+171902	Objc
+171911	Cmpl
+171942	Cmpl
+171945	Cmpl
 Objc
-171833	Cmpl
-171835	Subj
-171840	Subj
+171959	Subj
+171965	Cmpl
+Objc
+171978	Subj
+171983	Pred
+171986	Subj
+171991	Pred
+171993	Subj
+172000	Subj
+172008	Pred
+172014	Subj
+172019	Pred
 Subj
-171845	Objc
-171847	Subj
-171849	Objc
-171858	Pred
-171862	Pred
-171865	Subj
-171867	Subj
-171875	Objc
-171883	Objc
+172027	Pred
+172031	Subj
+172036	Pred
+172038	Subj
+172045	Pred
+172057	Pred
+172059	Subj
+172062	Pred
 Subj
-171886	Pred
-Objc
-171896	Pred
-171898	Subj
-171906	Objc
-171915	Subj
-Subj
-Subj
-Subj
-Objc
-171921	Cmpl
-171925	Objc
-171936	Objc
-171938	Subj
-Objc
-171944	Pred
-Pred
-171947	Pred
-171949	Pred
-Objc
-171952	Objc
-Cmpl
-Subj
-171957	Objc
-171962	Subj
-171965	Objc
-171968	Subj
-Subj
-171981	Objc
-171983	Subj
-171986	Objc
-171990	Objc
-171992	Subj
-Objc
-171995	Objc
-172000	Objc
-172002	Objc
-172004	Subj
-Objc
-172007	Pred
-Objc
-172012	Subj
-172015	Cmpl
-172017	Objc
-Cmpl
-Objc
-172023	Subj
-172033	Subj
-172036	Cmpl
-Objc
-172045	Objc
-172048	Objc
-172050	Subj
-172052	Subj
-172055	Cmpl
-172057	Objc
-172061	Objc
-Objc
-172075	Subj
-Objc
-172078	Subj
-Objc
+172065	Objc
+172071	Objc
+172076	Objc
 172081	Objc
-172083	Objc
-172085	Cmpl
-172087	Subj
-172094	Subj
-172099	Subj
-Subj
-Objc
-Objc
-Objc
-Subj
-Cmpl
-Objc
-172115	Subj
+172084	Objc
+172090	Objc
+172093	Objc
+172098	Cmpl
+172106	Objc
+172109	Objc
 172117	Objc
-172121	Objc
-172128	Subj
-Objc
-172131	Objc
-172137	Objc
-Objc
-172140	Cmpl
-172144	Subj
-Subj
-172147	Objc
-172149	Cmpl
-172151	Pred
-Subj
-Subj
-Objc
-172156	Cmpl
-172163	Subj
-172166	Pred
-172169	Subj
-Objc
-Objc
-172176	Pred
-172192	Pred
-172194	Subj
-172198	Subj
-Objc
-172204	Subj
-172222	Pred
-172224	Objc
-172230	Subj
-172232	Subj
-Subj
-Subj
-172237	Pred
-Pred
-172240	Cmpl
-172244	Objc
-172249	Pred
-172253	Subj
-172262	Objc
+172120	Subj
+172123	Pred
+172129	Subj
+172156	Subj
+172166	Objc
+172168	Subj
+172172	Subj
+172188	Objc
+172198	Objc
+172213	Cmpl
+172216	Subj
+172228	Subj
+172233	Objc
+172248	Subj
+172257	Objc
+172263	Objc
 172266	Objc
-172273	Objc
-172278	Objc
-172280	Objc
-172295	Subj
-172297	Subj
-Objc
-172301	Subj
-172304	Subj
-172306	Subj
-172308	Pred
-Objc
-172316	Objc
-172326	Subj
-172328	Objc
-172335	Subj
-172337	Objc
-172367	Objc
-Objc
-Objc
-172375	Objc
-172378	Subj
-172384	Subj
-172386	Objc
-172389	Objc
-172392	Pred
-172397	Pred
-172402	Pred
-Objc
-Objc
-172423	Subj
-172438	Subj
-172442	Objc
-172444	Objc
-172447	Objc
-172451	Subj
-172457	Subj
-172460	Subj
-172462	Objc
-172465	Objc
-172472	Subj
-172474	Subj
-172480	Subj
-172484	Pred
-172486	Subj
-172490	Subj
+172269	Objc
+172271	Objc
+172275	Subj
+172281	Subj
+172292	Objc
+172308	Subj
+172312	Cmpl
+172321	Subj
+172326	Objc
 Pred
-172500	Subj
-172502	Subj
+172331	Subj
+172357	Cmpl
+172377	Objc
+172394	Cmpl
+172401	Objc
+172413	Subj
+172416	Pred
+172433	Objc
+172440	Objc
+172456	Objc
+172459	Cmpl
+172464	Objc
+172477	Objc
+172488	Objc
+172492	Cmpl
+172499	Cmpl
 Subj
-172507	Subj
-172515	Cmpl
-172517	Subj
-172525	Subj
-172530	Subj
-172533	Objc
-172537	Subj
+172515	Subj
+172518	Pred
+172522	Objc
+172524	Subj
+172529	Objc
+172531	Objc
+172533	Cmpl
+172535	Objc
 172540	Objc
-172546	Subj
-172554	Subj
-172556	Subj
-172559	Subj
-172561	Subj
-172563	Objc
-172565	Pred
-172567	Pred
-172569	Subj
-172572	Subj
-172577	Subj
-Subj
-172584	Subj
-Subj
-Objc
-172588	Subj
-172591	Subj
-172594	Subj
-172600	Subj
-172604	Subj
-172613	Objc
-172617	Objc
-172628	Objc
-Subj
-172631	Objc
-Subj
-Objc
-172636	Subj
-172638	Subj
-172641	Subj
-172651	Subj
-Subj
-172655	Subj
-172671	Subj
-Subj
-172678	Pred
-172683	Subj
-172685	Subj
-172687	Subj
-Subj
-172691	Subj
-Subj
-172697	Subj
-172701	Objc
-172705	Subj
-172710	Subj
-172716	Subj
-172718	Objc
-172721	Subj
-172727	Objc
-172735	Subj
-172739	Objc
-172744	Subj
-172746	Subj
-Objc
-172749	Subj
-172755	Subj
-172757	Subj
-172759	Subj
-172762	Objc
-172764	Subj
-Cmpl
-172769	Subj
-172771	Subj
-172774	Subj
-Subj
-172779	Subj
-Subj
-172785	Objc
-172787	Objc
-Objc
-172792	Objc
-172795	Objc
-Objc
-Objc
-Objc
-Objc
-172805	Subj
-172810	Objc
-172812	Objc
-172814	Objc
-Objc
-172817	Subj
-172827	Subj
-Objc
-172830	Objc
-Objc
-172833	Subj
-172843	Subj
-Objc
-172846	Pred
-172848	Objc
-172852	Objc
-Subj
-172856	Objc
-172858	Cmpl
-Objc
-172862	Objc
-Objc
-172865	Cmpl
-Subj
-172868	Objc
-172878	Subj
-172884	Subj
-172891	Subj
-172894	Subj
-Objc
-172898	Objc
-172901	Objc
-172903	Subj
-Cmpl
-172910	Objc
-172914	Pred
-172916	Subj
-172919	Subj
-172921	Cmpl
-172927	Cmpl
-172939	Subj
-172942	Cmpl
-172947	Subj
-172950	Subj
-Objc
-172954	Cmpl
-172956	Pred
-172958	Subj
-Subj
-172971	Objc
-172976	Subj
-172981	Objc
-172985	Subj
+172542	Cmpl
+172545	Subj
 Pred
+172549	Objc
+172553	Cmpl
+172574	Objc
+172577	Objc
+172586	Cmpl
 Subj
-172989	Subj
-Cmpl
-Objc
-172993	Objc
-172995	Objc
-173001	Subj
-173006	Subj
+172591	Subj
+172595	Cmpl
+Subj
+172615	Pred
+Subj
+172620	Pred
+172632	Pred
+172640	Pred
+Subj
+172645	Pred
+172657	Pred
+172661	Objc
+172668	Subj
+172681	Pred
+172692	Objc
+172698	Objc
+172703	Objc
+172705	Subj
+172710	Objc
+172714	Subj
+172720	Objc
+172726	Subj
+172729	Objc
+172734	Subj
+172737	Objc
+172741	Subj
+172747	Objc
+172765	Objc
+172767	Subj
+172771	Cmpl
+172787	Objc
+172803	Subj
+172805	Cmpl
+172828	Objc
+172836	Objc
+172843	Cmpl
+172847	Objc
+172854	Objc
+172857	Subj
+172860	Subj
+172862	Objc
+172871	Objc
+172876	Subj
+172878	Objc
+172890	Subj
+172895	Subj
+172900	Subj
+172905	Objc
+172921	Subj
+172925	Objc
+172935	Objc
+172940	Subj
+172942	Objc
+172954	Subj
+172959	Subj
+172964	Subj
+172969	Objc
+172978	Subj
+172983	Pred
+172988	Subj
+172991	Objc
+172997	Subj
+173011	Objc
 173013	Objc
 173018	Subj
-173020	Objc
 173025	Subj
+173032	Objc
 Subj
-173029	Objc
-173033	Subj
+173038	Subj
+173041	Objc
+173047	Objc
+173051	Objc
+173055	Objc
+173062	Subj
+173069	Cmpl
 Subj
-Objc
-173039	Subj
-173041	Subj
-173043	Objc
-173046	Subj
-173053	Subj
-173056	Subj
-173058	Subj
-Cmpl
-Pred
+173074	Cmpl
+173078	Objc
+173080	Cmpl
+173085	Objc
+173088	Objc
 173090	Subj
+173098	Subj
+173104	Subj
+173106	Objc
+173110	Subj
+173125	Cmpl
 Subj
-173096	Objc
-Subj
-173103	Subj
-173105	Subj
-173109	Subj
-173112	Subj
-173116	Subj
-173119	Cmpl
-173125	Subj
-173133	Subj
-173137	Cmpl
-173141	Subj
-Subj
-173145	Subj
-173148	Subj
-173151	Objc
+173129	Objc
+173132	Subj
+173139	Pred
 173155	Subj
-Subj
-173164	Subj
-173173	Subj
+173160	Subj
+173164	Pred
 173175	Objc
-173178	Subj
-173181	Objc
-Objc
-173184	Objc
-173187	Objc
-173189	Subj
-Objc
-173195	Subj
-173197	Objc
-173199	Objc
-173202	Subj
-173206	Subj
-Cmpl
-173213	Subj
+173178	Cmpl
+173183	Cmpl
+173188	Cmpl
+173194	Objc
+173199	Subj
+173209	Cmpl
+173213	Objc
+173224	Cmpl
+173226	Subj
+173251	Subj
+173269	Pred
+173284	Subj
+173287	Cmpl
+173297	Subj
+173309	Subj
+173320	Subj
+173330	Objc
+173337	Objc
 Subj
-173217	Subj
-173219	Objc
-173224	Subj
-173232	Objc
-173238	Subj
-Objc
-173244	Subj
+173345	Objc
 Subj
+173350	Cmpl
+Objc
+173356	Objc
+173361	Objc
+173378	Subj
+Objc
+173386	Objc
+173392	Subj
+173395	Objc
+173408	Subj
+173412	Cmpl
+173415	Objc
+173421	Cmpl
 Subj
-173253	Subj
-173255	Subj
-173265	Subj
-Objc
-173268	Objc
-Objc
-173273	Subj
-173276	Subj
-Subj
-Pred
-173283	Cmpl
-Pred
-173287	Objc
-173289	Cmpl
-Subj
-Pred
-Subj
-173295	Objc
-Subj
-Objc
-173300	Subj
-173308	Objc
-173310	Cmpl
-Objc
-173313	Objc
-173316	Subj
-Objc
-173320	Pred
-173322	Objc
-173328	Subj
-173330	Pred
-173345	Subj
-173348	Subj
-Pred
-173352	Subj
-173356	Subj
-173360	Subj
-173362	Subj
-Objc
-Cmpl
-Objc
-173367	Subj
-173372	Subj
-173380	Objc
-Objc
-Objc
-Subj
-Objc
-173387	Objc
-Subj
-Objc
-Subj
-Objc
-173397	Subj
-173399	Subj
-173405	Objc
-Objc
-Subj
-173410	Objc
-173414	Objc
-173416	Objc
+173425	Subj
 173428	Objc
-173432	Objc
-Objc
-173436	Objc
-Objc
-173442	Pred
-Objc
-173445	Objc
+173431	Subj
+173438	Objc
+Subj
 173450	Objc
-173457	Subj
-173460	Objc
-173462	Objc
-173465	Pred
-173469	Subj
-173472	Pred
-173478	Pred
-173480	Subj
-173493	Subj
-173498	Subj
+173454	Subj
+173461	Cmpl
+173464	Cmpl
+173469	Objc
+173474	Subj
+173479	Cmpl
+173481	Objc
+173484	Subj
+173488	Objc
+173495	Subj
+173502	Objc
 Subj
-173501	Subj
+173510	Subj
+173520	Subj
+173529	Subj
+173535	Objc
+173542	Cmpl
+173544	Pred
+173559	Subj
+173562	Subj
+173568	Pred
+173570	Subj
+173580	Objc
+173584	Subj
+173600	Objc
 Subj
-173504	Objc
-Subj
-173511	Subj
-Subj
-Subj
-Subj
-173528	Objc
-173530	Pred
-173534	Objc
-173537	Pred
-173550	Cmpl
-Cmpl
-Objc
-173555	Subj
-Objc
-Subj
-173566	Objc
-173577	Pred
-173582	Subj
-173586	Subj
-173590	Subj
-Cmpl
-173594	Subj
-173597	Subj
-Objc
-Objc
-173608	Objc
-Subj
-Subj
-173612	Objc
-173614	Subj
-173616	Pred
-Subj
-173623	Pred
-Subj
-Cmpl
-Objc
-Cmpl
-173637	Cmpl
-173639	Objc
-173641	Subj
-Cmpl
-173646	Subj
-173650	Cmpl
-Objc
-173654	Objc
-Cmpl
-Subj
+173618	Subj
+173631	Subj
+173646	Objc
+173649	Pred
+173653	Subj
 173660	Subj
-173666	Subj
-173672	Subj
-Subj
-Subj
-173679	Objc
-173688	Pred
-173695	Pred
-173702	Objc
-173706	Objc
-173708	Pred
-173711	Objc
-173713	Objc
-173717	Objc
-173730	Objc
-173732	Subj
-Objc
-Objc
+173665	Objc
+173669	Objc
+173671	Objc
+173683	Cmpl
+173685	Subj
+173697	Subj
 173739	Subj
-173742	Objc
-173758	Subj
-Subj
-173768	Subj
-173771	Pred
-173776	Pred
-173778	Subj
-173780	Subj
-Subj
-173784	Objc
-173787	Subj
-Subj
-173801	Subj
-173803	Pred
+173754	Objc
+173783	Cmpl
 Objc
-173811	Objc
+173792	Subj
+173795	Objc
+173801	Cmpl
+173807	Subj
+173814	Subj
+173823	Subj
 173827	Subj
-Pred
-173831	Subj
-173834	Pred
-173837	Subj
-173839	Subj
-173844	Pred
-173847	Cmpl
-173851	Subj
-173864	Subj
-173867	Objc
-Subj
-Subj
-173871	Objc
-173873	Subj
-173877	Objc
-173879	Objc
-Subj
-173897	Objc
-173899	Objc
-173902	Subj
-Cmpl
-173909	Objc
-173911	Pred
-173916	Pred
-Subj
-173921	Objc
-173923	Objc
-173927	Objc
-Objc
-Subj
-Subj
-Objc
-173933	Cmpl
-Subj
+173830	Objc
+173840	Objc
+173848	Subj
+173851	Pred
+173854	Subj
+173868	Objc
+173870	Subj
+173883	Objc
+173886	Cmpl
+173891	Objc
+173917	Subj
+173928	Objc
+173931	Cmpl
 173936	Subj
-173942	Subj
-173949	Cmpl
+173941	Objc
+173950	Pred
+173954	Cmpl
+173956	Objc
+173960	Objc
+173963	Subj
+173972	Subj
+173990	Subj
+173994	Cmpl
+174010	Subj
+174015	Subj
+174020	Objc
+174033	Pred
+174035	Objc
+174039	Objc
+174044	Objc
+174046	Objc
+174050	Subj
+174065	Subj
+174075	Cmpl
 Subj
-173952	Objc
-173954	Subj
-173959	Cmpl
-Objc
-173965	Objc
-173967	Objc
-173970	Subj
-173980	Subj
-173984	Subj
-173989	Cmpl
-173993	Subj
-Objc
-174005	Subj
-174007	Subj
-Subj
-174012	Subj
-Pred
-174015	Objc
-174018	Subj
-174022	Objc
-174026	Subj
-174031	Subj
-Objc
-174035	Subj
-Objc
-Subj
-Subj
-Objc
-174046	Subj
-174048	Objc
-Subj
-174058	Objc
-174061	Subj
-Cmpl
-Pred
-Subj
-174067	Subj
-174070	Pred
-Subj
-174077	Subj
-Objc
-174081	Objc
-174092	Cmpl
-Objc
-Subj
+174081	Subj
+174092	Pred
 174096	Subj
-174100	Subj
-174106	Subj
-174118	Subj
-174120	Cmpl
-174124	Subj
-174127	Pred
-174133	Pred
-Objc
-Objc
-Cmpl
-174142	Pred
-174147	Subj
-Subj
-174156	Objc
-174159	Subj
-174162	Subj
-174164	Subj
-174170	Objc
+174101	Subj
+174107	Subj
+174113	Subj
+174116	Objc
+174128	Subj
+174139	Subj
+174145	Objc
+174157	Subj
+174161	Subj
+174166	Subj
 174172	Objc
-Objc
-174176	Cmpl
-174188	Objc
-174209	Objc
-174216	Subj
-174220	Subj
-174233	Subj
-174236	Objc
-174238	Objc
+174181	Subj
+174183	Objc
 Subj
-174243	Subj
-174252	Subj
-174256	Objc
-Subj
-174265	Subj
-Objc
-174268	Objc
+174186	Cmpl
+174188	Subj
+174193	Objc
+174196	Subj
+174206	Objc
+174218	Subj
+174222	Objc
+174224	Subj
+174231	Subj
+174240	Objc
+174257	Objc
+174263	Subj
 174270	Objc
-Subj
 174274	Subj
-Subj
 174280	Objc
-174287	Objc
-174298	Objc
-174303	Objc
-174307	Subj
-174314	Subj
-174318	Subj
-174320	Subj
-174323	Objc
-174326	Subj
-Subj
-174330	Subj
-Objc
-Subj
-Objc
-174338	Pred
-174349	Objc
-174353	Subj
-174358	Objc
-174361	Cmpl
-174368	Objc
-Pred
+174283	Subj
+174295	Subj
+174309	Subj
+174313	Subj
+174322	Subj
+174329	Objc
+174333	Subj
+174338	Objc
+174345	Subj
+174350	Subj
+174367	Subj
 174371	Subj
-Pred
+174378	Objc
+174391	Subj
+174396	Cmpl
 Subj
-174375	Subj
-174378	Subj
-Pred
-174383	Objc
-Cmpl
+174403	Objc
+174406	Cmpl
+174411	Objc
+174425	Cmpl
+174428	Subj
+174435	Cmpl
 Subj
-Subj
+174441	Subj
+174443	Subj
+174447	Objc
+174457	Subj
+174462	Cmpl
 Objc
-174406	Objc
-174412	Subj
-Subj
-174420	Objc
-174432	Subj
-Subj
-174436	Pred
-174438	Subj
-174444	Subj
-174449	Subj
-174463	Objc
-174471	Pred
+174468	Subj
+174472	Subj
 174477	Subj
-174480	Subj
+174489	Subj
+174504	Objc
+174509	Subj
+174531	Objc
+174549	Objc
+174563	Subj
+174567	Objc
+174570	Cmpl
+174575	Subj
+174579	Pred
 Subj
-174486	Subj
-174488	Pred
-174490	Subj
-174496	Subj
-174498	Objc
-174500	Subj
-Subj
-Pred
-174507	Objc
-174512	Objc
-174517	Objc
-174519	Objc
-174522	Subj
-174529	Subj
-174531	Subj
-174536	Objc
-174538	Subj
-174540	Subj
-Subj
+174584	Pred
+174587	Objc
+174596	Objc
+174606	Objc
+174614	Cmpl
 Objc
-174544	Subj
-174552	Subj
-174554	Objc
-Subj
-Subj
-Cmpl
-174566	Subj
-174573	Subj
-Objc
-174579	Subj
-Pred
-174585	Subj
-174589	Subj
-174591	Subj
-174601	Subj
-174603	Pred
-174605	Subj
-174615	Objc
-Cmpl
-Objc
-174621	Objc
-Objc
-Objc
-174630	Objc
+174622	Objc
 174632	Subj
-174640	Objc
-Objc
-174643	Subj
-174647	Subj
-174649	Pred
-174651	Subj
-Subj
-174654	Objc
-174661	Subj
-Cmpl
-Objc
-174667	Subj
-Subj
-Objc
-Objc
-Subj
-174680	Subj
-174685	Subj
-Cmpl
-174691	Cmpl
-174693	Objc
+174643	Pred
+Pred
+174648	Pred
 174699	Objc
-174702	Subj
-174705	Subj
 Objc
+174706	Subj
 174710	Objc
-174713	Cmpl
+174747	Subj
+174756	Objc
+174758	Objc
+174760	Objc
+174794	Pred
+174796	Subj
+174815	Subj
+174819	Pred
+174834	Objc
+174839	Subj
+174842	Pred
+174844	Subj
+174856	Pred
 Subj
-Cmpl
-174717	Subj
-174719	Objc
-174722	Subj
-174725	Objc
-Subj
-174738	Objc
-174740	Pred
-174742	Subj
-174744	Subj
-174748	Objc
-174750	Objc
-174763	Objc
-Cmpl
-Objc
-174771	Objc
+174867	Subj
+174871	Objc
+174874	Objc
+174892	Objc
+174903	Cmpl
 Pred
-Subj
-174780	Objc
-174783	Subj
+174923	Subj
+174925	Objc
+174927	Objc
+174935	Pred
+174937	Subj
+174941	Pred
+174943	Subj
+174955	Objc
+174968	Objc
+174993	Objc
+174998	Objc
+175002	Cmpl
+175010	Objc
+175014	Subj
+175019	Subj
+175035	Subj
+Objc
+175041	Subj
+Objc
+175045	Subj
+175051	Objc
+175072	Subj
+175077	Objc
+175094	Cmpl
+175099	Objc
+175108	Subj
+175117	Subj
 Pred
-174790	Subj
-174804	Subj
-174810	Subj
-174827	Objc
-174836	Objc
-174840	Objc
-174844	Objc
-Objc
-174849	Objc
-174853	Subj
-174860	Objc
-174863	Subj
-174866	Subj
-174869	Objc
-Objc
-174873	Objc
-174876	Objc
-174879	Objc
-174890	Objc
-174895	Objc
-174897	Objc
-174904	Objc
-174908	Subj
-174910	Objc
-Subj
-Subj
-174922	Objc
-174926	Objc
-174932	Subj
-174936	Subj
-174939	Objc
-174945	Subj
-174948	Objc
-174952	Subj
-174954	Objc
-174958	Subj
-Objc
-174962	Cmpl
-Subj
-174977	Subj
-174981	Subj
-174984	Subj
-174997	Objc
-175001	Objc
-175006	Objc
-175010	Subj
-175012	Subj
-175017	Subj
-175021	Subj
-Objc
-175026	Objc
-175031	Subj
+175124	Subj
 Pred
-Subj
-175036	Objc
-Cmpl
-175040	Objc
-175042	Cmpl
-175044	Cmpl
-Objc
-Objc
-175049	Pred
-175058	Subj
-175064	Subj
-175066	Cmpl
-175070	Objc
-175081	Objc
-175083	Objc
-175087	Objc
-175090	Objc
-175093	Objc
-175097	Objc
-175105	Objc
-Objc
-Subj
-Objc
-175126	Objc
-175128	Subj
-175130	Pred
-175132	Subj
-Pred
-175135	Subj
-175144	Objc
-Subj
-Objc
-175149	Objc
-175151	Objc
-175153	Objc
-175158	Objc
+175132	Pred
+175138	Pred
+175146	Subj
+175149	Pred
+175157	Objc
 175160	Objc
-175162	Objc
-175166	Objc
-175168	Objc
-175170	Objc
-175179	Subj
-175194	Subj
-175200	Subj
-175207	Subj
-175209	Pred
-175211	Subj
-175217	Subj
-Cmpl
-Objc
-175225	Objc
-175229	Subj
-175233	Objc
-175236	Subj
-175241	Subj
+175165	Objc
+175173	Objc
+Pred
+175178	Subj
+175183	Subj
+175186	Objc
+175188	Cmpl
+175201	Objc
+175221	Objc
+175224	Objc
 175245	Subj
-Pred
-175248	Subj
 175251	Subj
-175254	Objc
-175257	Objc
-Objc
-Cmpl
-175264	Pred
-175268	Subj
-175271	Objc
-175273	Subj
-175279	Subj
+175270	Subj
+175294	Subj
 Subj
-175283	Objc
-175285	Subj
-Objc
-175293	Pred
-Subj
-Subj
-Objc
-175299	Subj
-175302	Subj
-175308	Objc
-175310	Subj
-175317	Objc
-175319	Pred
-175326	Objc
+175309	Subj
+175327	Subj
 175331	Objc
-175337	Subj
-175341	Subj
-175345	Pred
-Pred
+175338	Subj
 Objc
-175350	Objc
-175352	Objc
-175355	Subj
-175361	Subj
-175365	Objc
-175373	Subj
-175377	Objc
-175381	Subj
-175387	Objc
-175390	Subj
-175392	Subj
-Subj
-Subj
-175405	Objc
-Subj
-175410	Objc
-175418	Subj
-Pred
-175421	Pred
-Subj
-175425	Subj
-175427	Objc
-175430	Objc
-175432	Subj
-Subj
-Subj
-175436	Pred
-Subj
+175359	Objc
+175368	Objc
+175370	Objc
+175374	Objc
+175383	Objc
+175392	Objc
+175401	Subj
+175406	Pred
+175422	Pred
+175435	Pred
+175437	Subj
 175440	Objc
-175445	Objc
-175449	Objc
-Subj
-175452	Objc
+175453	Pred
 175456	Objc
-175459	Subj
-Cmpl
-175465	Objc
-Subj
-Cmpl
-175470	Objc
-175475	Subj
-175479	Subj
-Pred
-175494	Subj
-175499	Subj
-Subj
+175462	Objc
+175466	Objc
+175475	Objc
+175478	Objc
+Objc
+175483	Objc
+175488	Objc
+175491	Objc
+175497	Objc
+175504	Objc
 175510	Objc
+175515	Subj
+175518	Objc
+175525	Objc
+175536	Cmpl
+175541	Objc
+175550	Subj
+175554	Cmpl
+175574	Subj
+175584	Objc
+175600	Cmpl
 Subj
-Subj
-Pred
-175517	Subj
+175606	Objc
+175610	Subj
+175614	Cmpl
+175617	Cmpl
 Objc
-175520	Subj
-175525	Cmpl
-175536	Subj
-Objc
-175539	Subj
-Objc
-175545	Subj
-175547	Subj
-175549	Subj
-175553	Pred
-175555	Pred
-Subj
-175560	Objc
-175562	Objc
-175578	Subj
-Objc
-Objc
-175584	Subj
-Subj
-Subj
-Subj
-175597	Objc
-175606	Subj
-Subj
-Objc
-175612	Subj
-Objc
-Subj
-Objc
-175618	Objc
-175621	Objc
-175629	Subj
-175634	Pred
-175639	Subj
+175622	Subj
+175625	Subj
+175627	Subj
+175630	Subj
+175633	Subj
+175636	Subj
+175639	Pred
+175641	Subj
 175648	Subj
 175652	Subj
-175657	Objc
-175665	Objc
-175668	Subj
-175670	Pred
-175673	Objc
-175676	Subj
-175683	Subj
-175685	Subj
-Subj
-Subj
-Objc
-Cmpl
-175699	Subj
-175705	Objc
-175716	Objc
-175718	Subj
-Objc
-175724	Pred
-Pred
-175727	Pred
-175729	Pred
-Objc
-Objc
-Cmpl
-Subj
-175747	Objc
-175749	Objc
-175752	Objc
-175754	Subj
-175757	Pred
-Subj
-175761	Subj
-175764	Objc
-Objc
-Objc
-175773	Objc
-175775	Objc
-175777	Objc
-175784	Objc
-175787	Objc
-175792	Subj
-Objc
-Objc
-175796	Cmpl
+175656	Cmpl
+175662	Objc
+175670	Objc
+175677	Objc
+175680	Objc
+175688	Objc
+175692	Pred
+175704	Objc
+175708	Cmpl
+175710	Objc
+175713	Subj
+175720	Subj
+175722	Objc
+175732	Subj
+175734	Objc
+175744	Cmpl
+175752	Subj
+175759	Subj
+175773	Pred
+175790	Subj
 175799	Subj
+175801	Objc
 Subj
-175802	Objc
+175820	Subj
+175828	Objc
+175833	Objc
+175838	Pred
+175848	Subj
+175850	Objc
+175855	Cmpl
+175865	Subj
+175872	Objc
+175875	Subj
+175899	Subj
+175912	Objc
+175919	Subj
+175929	Subj
 Cmpl
-175805	Subj
-Subj
-Subj
-Subj
-Subj
-175811	Subj
-175815	Pred
-175817	Subj
-Subj
-175820	Objc
-Objc
-175825	Pred
-175836	Subj
-175841	Pred
-Subj
-175844	Subj
-175846	Subj
-175849	Pred
-175868	Objc
-175870	Subj
-Subj
-175883	Objc
-175886	Subj
-175891	Subj
-175894	Subj
-Subj
-Pred
-Subj
-175902	Cmpl
-175906	Objc
-175911	Subj
-Pred
-Subj
-175930	Objc
-175933	Objc
-175936	Subj
-175939	Subj
-Subj
-175943	Objc
-175961	Subj
-175966	Subj
-Objc
-175980	Subj
-Subj
-Subj
-175987	Subj
-175991	Pred
-176001	Subj
-176005	Subj
-176016	Subj
-176019	Subj
-176024	Subj
-176030	Subj
-176035	Objc
-176041	Subj
-176045	Subj
+175932	Subj
+Cmpl
+175961	Cmpl
+175965	Pred
+175975	Subj
+176009	Cmpl
+176014	Pred
+176031	Subj
+176036	Objc
 176049	Objc
-Subj
-176053	Objc
-Subj
-176056	Objc
-176063	Subj
-Subj
-Objc
-176067	Subj
-176075	Subj
-176081	Objc
-Objc
-176093	Objc
-Subj
-176096	Objc
-Subj
-Subj
-176101	Subj
-176104	Subj
-176107	Subj
-176117	Subj
-Subj
-Subj
-Objc
-176122	Cmpl
+176057	Objc
+Cmpl
+176065	Subj
+176067	Pred
+176070	Subj
+Cmpl
+176081	Subj
+176083	Objc
+176088	Subj
+176092	Objc
+176095	Subj
+176103	Cmpl
+176106	Subj
+176120	Subj
+176122	Objc
 176124	Objc
-Objc
-176127	Cmpl
-Subj
-176133	Pred
-176140	Subj
-176142	Pred
 176147	Objc
-176151	Objc
-176157	Subj
+Cmpl
+176153	Subj
+176159	Pred
 176161	Subj
-176165	Cmpl
-Subj
-Objc
-176169	Objc
-176171	Objc
-176175	Subj
-176179	Subj
-176191	Objc
-Subj
-176194	Objc
-Objc
+176166	Pred
+176176	Subj
+176187	Subj
+176197	Objc
 176200	Subj
+176206	Cmpl
+176208	Subj
+176214	Objc
+176221	Subj
+176224	Cmpl
+176227	Objc
+176229	Subj
+176233	Subj
+176250	Objc
+176258	Objc
+176289	Subj
+176297	Objc
+176302	Pred
+176306	Cmpl
+176308	Subj
+176314	Pred
+176318	Pred
+176320	Objc
+176324	Objc
+176328	Objc
+176331	Pred
+176338	Subj
+176358	Subj
+176360	Objc
+176362	Objc
+176365	Objc
+176375	Objc
+Subj
+176379	Cmpl
+Subj
+176386	Subj
+176388	Objc
+176394	Subj
+176403	Objc
+176409	Subj
+176420	Cmpl
+176424	Objc
+176435	Subj
+176440	Subj
+176443	Objc
+176449	Objc
+176451	Subj
+176460	Objc
+Subj
+176464	Objc
+176469	Cmpl
+176472	Objc
 Objc
+176492	Objc
+176499	Objc
+176501	Subj
+176507	Objc
+176516	Objc
 Cmpl
+176527	Subj
+176533	Objc
+176538	Objc
+176544	Objc
+176555	Objc
+176559	Objc
+176564	Subj
+176568	Cmpl
 Subj
+176576	Objc
+176578	Subj
+176586	Subj
+176594	Subj
+176596	Pred
+176601	Subj
+176607	Subj
+176610	Objc
+176627	Objc
+176633	Cmpl
 Subj
-176206	Objc
-176210	Objc
-176213	Subj
-176216	Objc
-176219	Subj
-176230	Subj
-176237	Subj
-176240	Subj
-176242	Pred
-176266	Subj
-Objc
-Subj
-176272	Subj
-Subj
-Subj
-176278	Subj
-176280	Subj
-176282	Cmpl
-176288	Subj
-176294	Subj
-176296	Objc
-176299	Cmpl
-176302	Subj
-Subj
-Objc
-176307	Subj
-176311	Subj
-Subj
-176323	Subj
-176329	Objc
-176331	Objc
-Objc
-176335	Objc
-176337	Subj
-176341	Pred
-176344	Subj
-Subj
-176347	Objc
-Objc
-176351	Subj
-176355	Subj
-176375	Subj
-176382	Objc
-Subj
-176385	Subj
-176387	Objc
-Subj
-176393	Subj
-Subj
-176404	Subj
-Objc
-176407	Objc
-Objc
-Subj
-Objc
-176412	Subj
-Subj
-Pred
-176416	Subj
-176420	Subj
-Subj
-Pred
-176427	Subj
-Pred
-176430	Cmpl
-Pred
-Pred
-176436	Subj
-Objc
-Subj
-Subj
-176444	Objc
-Subj
-Pred
-176449	Subj
-Subj
-Subj
-Subj
-176460	Subj
-Subj
-Objc
-176466	Subj
-Subj
-Objc
-Objc
-Subj
-Objc
-176474	Subj
-Objc
-Subj
-Cmpl
-Objc
-Objc
-Objc
-Subj
-176484	Objc
-176486	Objc
-176489	Objc
-176491	Objc
-Objc
-Objc
-176500	Objc
-176505	Pred
-Objc
-Objc
-176510	Pred
-176512	Subj
-176520	Objc
-176524	Objc
-176526	Objc
-176531	Subj
-176542	Subj
-176550	Subj
-176558	Subj
-Subj
-Objc
-Subj
-176570	Subj
-176572	Pred
-Subj
-176576	Pred
-176582	Pred
-176591	Objc
-176596	Objc
-176599	Subj
-Objc
-176603	Objc
-Cmpl
-176616	Subj
-176626	Subj
-176628	Objc
-176633	Subj
-Pred
-176639	Objc
-176641	Pred
-176652	Objc
-Pred
-176656	Subj
-176661	Cmpl
-Cmpl
-176669	Objc
-Cmpl
+176644	Subj
+176658	Subj
+176661	Objc
 176672	Subj
-176677	Objc
+176679	Subj
+176684	Objc
 176687	Subj
-Objc
-176692	Objc
-Cmpl
-176697	Subj
-176703	Objc
-176715	Objc
-176725	Pred
-176727	Pred
-176730	Subj
-176739	Subj
-176760	Subj
-176768	Subj
-176776	Subj
-Subj
-176781	Objc
-176793	Objc
-176802	Objc
-176806	Objc
-176810	Subj
-176815	Subj
-176828	Subj
-Objc
-176836	Subj
-176850	Objc
-176864	Cmpl
-176867	Subj
-176871	Subj
+176699	Subj
 Pred
-176875	Subj
-176877	Subj
-176881	Objc
-176883	Pred
-176885	Objc
-176898	Subj
+176711	Subj
+176713	Objc
+176721	Subj
+176731	Subj
+176743	Objc
+176753	Objc
+176758	Objc
+176767	Pred
+176770	Pred
+176786	Cmpl
 Subj
-176901	Subj
+176793	Cmpl
+176796	Subj
+176807	Subj
+176810	Objc
+176821	Cmpl
 Subj
-176905	Pred
-176908	Subj
-176911	Pred
-176914	Subj
-Pred
-176921	Subj
-176933	Objc
-Objc
-176937	Subj
-Subj
-176943	Subj
-176946	Subj
+176837	Cmpl
+176853	Objc
+176856	Objc
+176858	Objc
+176863	Objc
+176866	Objc
+176869	Objc
+176871	Objc
+176876	Objc
+176883	Subj
+176892	Objc
+176894	Pred
+176906	Subj
+176910	Subj
+176923	Objc
+176925	Subj
+176938	Objc
+176941	Cmpl
+176948	Objc
 176950	Subj
-176955	Subj
-176963	Subj
-176968	Subj
-176970	Objc
+176957	Objc
+176983	Cmpl
 Subj
-176984	Subj
-176986	Subj
-Subj
-176989	Subj
-177012	Cmpl
-Subj
-177018	Objc
-177025	Objc
-177031	Subj
-177034	Pred
-177039	Cmpl
-177041	Subj
-Subj
-177044	Subj
-177046	Objc
-177054	Subj
-177057	Subj
-177061	Subj
-177063	Subj
-177065	Pred
-177072	Cmpl
-177074	Objc
-177105	Subj
+176997	Objc
+176999	Subj
+177003	Cmpl
+177009	Objc
+177012	Subj
+177015	Cmpl
+177018	Subj
+177029	Subj
 Pred
-177108	Objc
-Objc
+177048	Subj
+177055	Pred
+177088	Objc
+177100	Subj
+177103	Pred
+Subj
+177122	Objc
+177135	Objc
+177142	Subj
+177145	Pred
+177148	Subj
+177166	Objc
+177197	Objc
+177212	Subj
+177221	Pred
+177225	Pred
+177239	Subj
+177241	Cmpl
+177257	Cmpl
+177261	Subj
 Cmpl
-177123	Objc
-177127	Subj
+177278	Cmpl
+177280	Subj
+177286	Cmpl
+Subj
+177289	Pred
+177295	Subj
+177297	Pred
+177304	Objc
+177329	Subj
+177333	Objc
+177347	Subj
 Pred
-177140	Subj
-177142	Pred
-177147	Subj
-177157	Pred
-177161	Subj
-177163	Objc
-177170	Pred
-177173	Objc
-177178	Subj
-Subj
-Objc
-Subj
-177183	Pred
-177190	Subj
-177192	Objc
-177195	Pred
-177200	Subj
-Subj
-177206	Subj
-177209	Subj
-177217	Subj
-177222	Subj
-Objc
-177228	Subj
-Objc
-177233	Subj
-Subj
-177241	Subj
-177249	Cmpl
-177252	Subj
-177262	Pred
-Subj
-177265	Objc
-177267	Subj
-Pred
-177274	Objc
-177281	Subj
-177287	Subj
-177290	Objc
-Objc
-177297	Subj
-177332	Subj
-177346	Objc
-177349	Objc
-177351	Cmpl
-Objc
-Objc
-177362	Subj
-Subj
-Pred
-Subj
-177372	Pred
-177377	Objc
+177364	Subj
 177381	Subj
-177383	Pred
-177385	Objc
-177397	Subj
-177403	Subj
-177408	Pred
-177412	Objc
-177416	Subj
-177418	Objc
-177440	Subj
-177451	Objc
-177459	Subj
-177462	Objc
-177464	Objc
-177466	Subj
-Subj
-Subj
-177470	Subj
-177473	Subj
+177385	Subj
+177392	Subj
+177405	Cmpl
 Objc
-177477	Cmpl
-177484	Objc
-177488	Objc
+177422	Subj
 Subj
-177493	Cmpl
+177433	Subj
+177437	Objc
 Subj
-177500	Subj
-177502	Objc
-177504	Subj
-Objc
+177449	Objc
+177460	Objc
+177463	Subj
+177473	Objc
+177475	Subj
+177485	Subj
+177490	Objc
 Subj
-177509	Objc
-177511	Subj
+177505	Objc
 Subj
-177515	Subj
-177521	Pred
+177508	Objc
 Subj
-177525	Objc
-177531	Subj
-177533	Pred
-177536	Objc
-177538	Objc
+177511	Objc
+Subj
+177514	Objc
+177517	Objc
+177521	Subj
+177525	Cmpl
+177533	Cmpl
+Subj
+177539	Cmpl
 177542	Objc
-177544	Objc
-177554	Subj
-Objc
-177557	Objc
-177560	Subj
-177562	Subj
+177553	Cmpl
+177557	Subj
+177561	Cmpl
+177564	Subj
+177568	Subj
+177570	Objc
+177582	Cmpl
+177596	Cmpl
+177621	Subj
+177637	Objc
+177663	Objc
 Subj
-Subj
-177575	Subj
-177579	Pred
-177670	Subj
-Pred
-177673	Cmpl
-177676	Subj
-177679	Subj
-Objc
+177667	Pred
+177674	Subj
+177684	Cmpl
 177686	Subj
-177693	Subj
-177696	Objc
-177702	Pred
-177704	Cmpl
-177709	Objc
-177711	Subj
-177714	Objc
+177693	Objc
+177700	Objc
+177705	Subj
+177708	Objc
+177714	Subj
+177716	Objc
+177727	Subj
+177741	Subj
+177758	Subj
+177761	Objc
+177771	Objc
+177775	Objc
+177780	Pred
+177802	Subj
+177805	Objc
+177826	Objc
+177830	Pred
+177842	Subj
+177845	Objc
+177851	Subj
+177856	Subj
+177858	Objc
 Subj
-177718	Subj
-177742	Subj
-177744	Objc
+177861	Objc
+Subj
+177864	Objc
 Objc
-177747	Subj
-Pred
-177751	Objc
-177753	Objc
-Cmpl
-Subj
-177762	Subj
-177774	Pred
-177776	Objc
-177784	Subj
-177789	Subj
-Pred
-177795	Subj
-177799	Subj
-Pred
-177809	Subj
-177812	Pred
-177814	Subj
-177816	Subj
-177825	Subj
-177838	Pred
-Subj
-177841	Pred
-177843	Subj
-Objc
-177847	Pred
-177850	Subj
-177852	Subj
-177858	Subj
-177861	Cmpl
-177863	Subj
-177874	Subj
-177880	Objc
-Subj
-Subj
-177885	Cmpl
-177887	Objc
-Subj
-177890	Pred
-177893	Pred
-177896	Subj
-177900	Cmpl
-177903	Objc
-177913	Subj
-Objc
+177869	Cmpl
+177872	Subj
+177882	Objc
+177897	Subj
+177901	Subj
+177908	Objc
 177921	Subj
-177924	Subj
-177926	Objc
-177934	Objc
-177939	Objc
+177925	Objc
+177929	Subj
+177936	Subj
+177944	Cmpl
 177947	Objc
-Objc
-177950	Subj
-177952	Cmpl
-177957	Objc
-177962	Pred
-177970	Objc
-177975	Subj
-177979	Objc
-177983	Pred
-177986	Subj
-177988	Objc
-177990	Objc
+177961	Objc
 Subj
-177993	Cmpl
-177999	Subj
-178002	Subj
-178019	Subj
-178036	Objc
-178038	Subj
-178042	Subj
-178044	Subj
+177965	Cmpl
+Subj
+177969	Objc
+177971	Subj
+177975	Cmpl
+177981	Objc
+Subj
+177989	Objc
+177996	Objc
+178001	Subj
+178016	Cmpl
+178021	Objc
+178026	Objc
+178034	Objc
 Objc
-178051	Subj
-178053	Subj
-178058	Objc
-178068	Objc
-Objc
-178071	Subj
-178074	Objc
-178078	Subj
-178091	Subj
-178093	Objc
-178096	Subj
+178047	Objc
+178051	Cmpl
+178053	Pred
+178055	Subj
+178065	Objc
+178067	Subj
+178076	Subj
+Pred
+178088	Pred
+178095	Pred
 178098	Subj
-178101	Subj
-Subj
-178104	Subj
-178108	Subj
+178114	Objc
+178118	Cmpl
 Pred
-178111	Subj
-178115	Objc
-178121	Objc
-178127	Objc
-178130	Subj
-178133	Objc
-Subj
-Subj
-178138	Subj
-178141	Subj
-178143	Objc
-178145	Subj
+178121	Subj
+178129	Objc
+178131	Subj
+178144	Subj
+Objc
 178149	Subj
-Pred
-178155	Objc
-178158	Cmpl
-178160	Subj
-178162	Pred
-178164	Subj
-178171	Subj
+178155	Cmpl
+178162	Objc
+178164	Cmpl
 178179	Objc
-178182	Objc
-178185	Subj
-178188	Objc
+178191	Objc
+178203	Subj
+178210	Cmpl
 Objc
-178191	Subj
-178194	Cmpl
-178205	Objc
-178208	Objc
-178233	Subj
-178236	Objc
+178222	Subj
+178228	Objc
+178234	Pred
 178241	Subj
-Subj
-178245	Subj
-Objc
+178246	Pred
 178255	Subj
-178261	Cmpl
-Subj
-178265	Objc
-178267	Subj
-178271	Cmpl
-Subj
-178274	Objc
-178279	Objc
+178257	Pred
+178264	Subj
+178269	Pred
 178282	Objc
-178284	Objc
-178286	Cmpl
-178288	Objc
-Subj
-Subj
-Subj
-178293	Subj
-Subj
-178296	Objc
-178298	Subj
-Subj
-Objc
-Objc
-178303	Subj
-178305	Pred
-178308	Subj
-178312	Objc
-178318	Objc
-178320	Pred
+178284	Pred
+178287	Subj
+178291	Pred
+178295	Subj
+178299	Pred
+178304	Subj
+178310	Pred
 178322	Subj
-Pred
-178338	Cmpl
-178345	Objc
-178350	Objc
-178362	Subj
-Objc
-Subj
-Objc
-Subj
-178372	Subj
-178379	Objc
-Subj
-178383	Objc
-178386	Subj
-178390	Objc
-178395	Subj
-Objc
-178403	Subj
-Subj
-178408	Objc
-178416	Subj
-178421	Objc
-178423	Objc
-178427	Objc
-178429	Objc
-Subj
-178435	Subj
-178440	Subj
-178442	Subj
-Pred
-178446	Cmpl
-178448	Subj
-Cmpl
-178453	Objc
-178456	Subj
-178467	Subj
-178472	Subj
-178475	Pred
-Subj
-178478	Objc
-Subj
-Cmpl
-178482	Objc
-Subj
-178485	Subj
-Objc
-178488	Subj
-178497	Subj
+178329	Objc
+178343	Objc
+178351	Objc
+178356	Objc
+178366	Pred
+178380	Subj
+178385	Subj
+178401	Objc
+178403	Pred
+178405	Subj
+178420	Objc
+178422	Subj
+178435	Objc
+178439	Objc
+178445	Pred
+178447	Subj
+178457	Objc
+178462	Objc
+178469	Objc
+178471	Objc
+178475	Objc
+178477	Pred
+178479	Subj
 178501	Objc
-178505	Subj
-178509	Subj
-178517	Cmpl
-178519	Subj
-178526	Objc
-178528	Objc
-178531	Subj
-178534	Pred
-178536	Objc
-178538	Objc
+178513	Objc
+178519	Objc
+178525	Pred
+178537	Subj
 178542	Objc
-178547	Subj
-178556	Objc
-178561	Objc
-178566	Objc
-178572	Subj
-178576	Subj
-178581	Subj
-178594	Objc
-178599	Objc
-178605	Objc
-178610	Subj
-Subj
-178613	Subj
-Pred
-Subj
-Objc
-Subj
-Subj
-Objc
-178622	Cmpl
-Objc
-178630	Objc
-178635	Objc
-178637	Objc
-178639	Objc
-178642	Subj
-178646	Subj
-178649	Objc
-178652	Subj
-178658	Objc
-178662	Pred
+178554	Objc
+178564	Pred
+178578	Objc
+178582	Cmpl
+178584	Subj
+178587	Cmpl
+178591	Subj
+178603	Pred
+178607	Subj
+178623	Subj
+178626	Objc
+178643	Objc
+178653	Subj
+178657	Cmpl
 178668	Subj
-178673	Subj
-Subj
-178678	Objc
-178683	Subj
-178692	Subj
-178697	Objc
-Subj
-178700	Subj
-178702	Objc
-178707	Cmpl
-178709	Subj
-Subj
+178670	Pred
+178678	Subj
+178684	Pred
+178686	Subj
+178705	Subj
 Pred
-178714	Subj
-178717	Subj
-Objc
-178722	Subj
-178726	Objc
-178741	Objc
-178745	Objc
-178748	Subj
-178763	Objc
-178770	Subj
-178777	Subj
+178712	Cmpl
+Subj
+178721	Subj
+178726	Cmpl
+178729	Subj
+Pred
+178750	Objc
+178772	Objc
+178779	Cmpl
 178784	Subj
-178793	Pred
-178797	Subj
-178806	Objc
-178811	Cmpl
-178817	Objc
-178822	Subj
-Subj
-178827	Subj
-178833	Subj
-178838	Subj
-178851	Subj
-178856	Subj
-178865	Subj
-178867	Subj
-Pred
-178872	Subj
-178876	Subj
-178878	Subj
-Subj
-178881	Pred
-178889	Subj
-178894	Subj
-178896	Pred
-178901	Objc
-178905	Subj
-178909	Subj
-Subj
-Subj
-Subj
-178914	Subj
-178920	Subj
-178925	Subj
-178927	Objc
-Subj
-178936	Objc
-178939	Subj
-178941	Subj
-178943	Objc
-178947	Objc
-178960	Objc
-178970	Objc
-178978	Subj
-178982	Subj
-178987	Objc
-Subj
-Subj
+178790	Subj
+178801	Subj
+178808	Subj
+178813	Objc
+178837	Subj
+178840	Cmpl
+178845	Objc
+178848	Objc
+178851	Objc
+178858	Objc
+178860	Subj
+178868	Subj
+178882	Objc
+178890	Cmpl
+178892	Objc
+178895	Subj
+178906	Cmpl
+178912	Objc
+178922	Subj
+178938	Objc
+178946	Subj
+178956	Cmpl
+178961	Cmpl
+178968	Subj
+178974	Objc
+178979	Objc
+178983	Cmpl
+178988	Subj
+179006	Subj
+179010	Objc
+179020	Objc
+179030	Objc
+179035	Subj
+179040	Subj
+179044	Pred
+179046	Subj
+179050	Subj
+179057	Objc
+179068	Cmpl
 Objc
-178994	Pred
-179003	Pred
-179016	Cmpl
-Cmpl
-179023	Subj
 Subj
-179026	Subj
-179029	Pred
-179032	Subj
-179041	Objc
-179044	Objc
-179046	Objc
-179049	Objc
-179053	Subj
-179064	Objc
-179075	Subj
-179079	Subj
-179081	Subj
-179096	Subj
-179099	Objc
-179108	Subj
-179112	Objc
-179117	Subj
+179075	Cmpl
+179077	Objc
+179081	Cmpl
 Subj
-179126	Objc
-179128	Subj
-179132	Pred
-Objc
-179135	Subj
+179084	Subj
+179087	Cmpl
+179100	Subj
+179104	Cmpl
+179106	Objc
+179109	Subj
+179140	Cmpl
+179143	Objc
+179146	Subj
+179150	Cmpl
+179155	Subj
+179176	Pred
+179189	Subj
+179200	Objc
+179210	Objc
+179215	Objc
+179228	Subj
+179231	Pred
+179234	Subj
+179256	Pred
 Subj
-Objc
-179140	Objc
-Cmpl
-179155	Objc
-179157	Subj
-179162	Objc
-179170	Subj
+179278	Subj
+179283	Subj
+179293	Pred
+179305	Subj
+179308	Cmpl
+179311	Subj
+179317	Cmpl
 Subj
-Objc
-179177	Objc
-179184	Subj
-179190	Pred
-Pred
-179193	Subj
-179197	Objc
-179203	Subj
-179215	Subj
-Subj
-Subj
-179220	Subj
-179223	Objc
-179225	Objc
-179227	Subj
-Objc
-179230	Objc
-179233	Subj
-Objc
-179239	Subj
-Objc
-179248	Subj
-Objc
-179256	Subj
-Subj
-Objc
-179270	Cmpl
-179272	Subj
-179274	Subj
-179280	Objc
-179282	Subj
-179289	Objc
-179293	Subj
-179301	Objc
-179308	Subj
-179325	Subj
+179324	Subj
 179327	Subj
-179332	Subj
-179335	Objc
-179344	Subj
-Subj
-179364	Subj
-Subj
-Subj
-179368	Subj
-179373	Subj
-Subj
-Objc
-179397	Objc
-179401	Pred
-Subj
-Subj
+179337	Subj
+179348	Subj
+179364	Objc
+179375	Objc
+179378	Subj
+179382	Objc
+179386	Objc
+179389	Cmpl
+179397	Subj
+179404	Subj
 179407	Subj
-179411	Subj
-179414	Subj
 179416	Objc
-179424	Objc
-Cmpl
-179427	Subj
-179430	Pred
-179433	Objc
-179435	Subj
-179439	Subj
-179448	Objc
-179450	Subj
-179453	Subj
-179455	Subj
+179419	Pred
+179436	Objc
 Subj
-179458	Subj
+179458	Cmpl
 Objc
-179465	Subj
-179469	Subj
+179466	Objc
+179470	Objc
+179480	Subj
+179498	Subj
+179504	Objc
+179514	Objc
+179518	Objc
+179520	Subj
+179524	Cmpl
+179528	Subj
+179532	Objc
+179546	Subj
+179567	Subj
+179570	Subj
+179580	Pred
 Objc
-179472	Subj
-179474	Subj
-179476	Objc
-179482	Objc
-179484	Subj
-Cmpl
-179488	Subj
-179491	Objc
-Subj
-179495	Subj
-Subj
-179499	Pred
-179502	Pred
-179506	Subj
-179510	Subj
-179512	Objc
-Cmpl
-179519	Objc
-179521	Subj
-Subj
-Subj
-Subj
-179530	Objc
+179604	Objc
+179624	Subj
+179626	Subj
+179634	Objc
+179636	Subj
+179650	Objc
+179652	Objc
 Objc
-179534	Objc
-179536	Subj
-179540	Subj
-179543	Subj
-179546	Objc
-179548	Objc
-Subj
-179553	Pred
-179556	Objc
-179558	Subj
-179561	Subj
-Objc
-179564	Pred
-Subj
-Subj
-Objc
-179570	Objc
-179572	Pred
-Pred
-179575	Subj
-179584	Objc
-179588	Subj
-179594	Subj
-179599	Subj
-Objc
-179603	Subj
-Subj
-179606	Pred
-Subj
-179610	Subj
-179616	Subj
-179628	Objc
-179630	Subj
-179639	Subj
-179645	Objc
-Subj
-179649	Pred
-179651	Subj
-179653	Subj
-179657	Subj
-179663	Subj
-179666	Objc
-179668	Pred
-Subj
-179673	Subj
-179676	Subj
-179679	Objc
-179683	Subj
-179685	Objc
-Objc
-179705	Pred
-179710	Subj
-179712	Objc
-Cmpl
+179658	Objc
+179662	Cmpl
+179675	Objc
+179686	Subj
+179688	Objc
+179693	Subj
+179697	Cmpl
+179700	Subj
+179704	Objc
+179708	Subj
+179712	Subj
 179715	Objc
+179718	Subj
+179729	Objc
+Pred
+179736	Subj
+179738	Objc
+179741	Subj
+179748	Subj
+179752	Cmpl
+179754	Cmpl
 Objc
-179720	Objc
-Objc
-179724	Subj
-179731	Subj
-179757	Objc
-179767	Subj
-179791	Objc
-179793	Objc
-179797	Subj
-179799	Subj
+179758	Subj
+179762	Subj
+179765	Pred
+179770	Subj
 179804	Subj
-179815	Subj
-179842	Subj
-179847	Subj
-179850	Cmpl
-179853	Objc
+179806	Objc
+179825	Subj
+179829	Objc
+179840	Objc
+179846	Subj
+179861	Subj
+179875	Objc
+179880	Subj
+179887	Subj
+179891	Cmpl
 Objc
-179860	Subj
-179862	Pred
-179864	Subj
-179869	Objc
-179871	Objc
-179873	Objc
-179877	Cmpl
-179879	Objc
-179883	Subj
-179886	Objc
-179896	Subj
-179898	Subj
-179900	Objc
+179895	Subj
+179901	Objc
+179904	Objc
+179910	Subj
+179929	Subj
+179933	Objc
+179937	Objc
 Subj
-179904	Subj
-179911	Objc
-179916	Subj
-Objc
-179921	Subj
-179923	Subj
-Objc
-Subj
-179928	Subj
-179930	Objc
-179934	Subj
-179936	Objc
-Objc
-179943	Subj
-179945	Subj
-179948	Subj
-179950	Subj
-179952	Objc
+179944	Pred
+179946	Objc
+179955	Cmpl
 179958	Subj
-179964	Subj
-179966	Subj
+179963	Subj
+179990	Subj
+179994	Cmpl
+179998	Pred
 Subj
-179969	Subj
-179971	Subj
-179974	Subj
-179976	Objc
-179979	Subj
-Subj
-179984	Subj
-179989	Objc
-179992	Subj
-179997	Subj
-180002	Subj
-180006	Subj
-180012	Objc
-180018	Objc
-180025	Objc
-180037	Subj
-180052	Cmpl
-180055	Objc
-180059	Objc
-180063	Objc
-180073	Subj
-Cmpl
-Subj
-180078	Objc
-180086	Objc
-180091	Subj
-180099	Subj
+180005	Cmpl
+180010	Subj
+180025	Subj
+180050	Subj
+180067	Objc
+180077	Objc
+180079	Subj
+180084	Subj
+180086	Subj
+Pred
+180089	Subj
+180092	Subj
+180096	Objc
+180101	Subj
 180106	Objc
-180120	Objc
-180135	Objc
-180139	Subj
-180142	Objc
+180128	Objc
+180132	Objc
+180147	Cmpl
+Subj
+180152	Cmpl
+180156	Subj
+180161	Objc
+180166	Cmpl
+Subj
+180170	Objc
+180174	Subj
+180184	Cmpl
+180208	Cmpl
+180211	Subj
+180215	Cmpl
+180220	Subj
+180241	Pred
+180251	Objc
+180271	Subj
+180278	Subj
 Objc
+180287	Cmpl
 Subj
-180146	Subj
-Cmpl
+180292	Cmpl
 Subj
-180154	Subj
-Subj
-180163	Pred
-Subj
-180172	Subj
-Subj
-180179	Subj
-180186	Subj
-180192	Objc
-180206	Subj
-Objc
-Objc
-180235	Subj
-Cmpl
-180240	Objc
-180242	Objc
-180245	Objc
-180249	Subj
-180262	Subj
-180264	Pred
-Subj
-180270	Subj
-180278	Objc
-180284	Subj
-180288	Objc
-180295	Subj
-Cmpl
-180304	Subj
+180296	Pred
+180299	Subj
+180305	Pred
 180309	Subj
-180314	Subj
-Objc
-Objc
-180322	Subj
-Objc
-180326	Subj
-Cmpl
-180329	Subj
-Cmpl
-180336	Objc
-Subj
-Subj
-180343	Subj
-180345	Subj
-180348	Objc
-180350	Subj
-180364	Pred
-Objc
-180368	Pred
-Subj
-180371	Objc
-180373	Subj
-Subj
-180376	Subj
-180384	Objc
-180388	Objc
-180391	Pred
-Subj
-Subj
-180399	Subj
-180405	Objc
-180411	Objc
-Objc
-180414	Objc
-180427	Pred
+180312	Objc
+180322	Objc
+180337	Objc
+180340	Subj
+180343	Cmpl
+180346	Subj
+180353	Objc
+180357	Subj
+180366	Objc
+180368	Subj
+180373	Cmpl
+180388	Subj
+180396	Objc
+180401	Subj
+180412	Objc
+180419	Objc
+180429	Objc
 180434	Objc
-180437	Objc
-Objc
-Objc
-180441	Objc
-Objc
-180450	Subj
-Objc
+180444	Objc
+180457	Cmpl
+180500	Subj
+180515	Objc
+180521	Pred
+180523	Subj
+180527	Subj
+180534	Subj
+180537	Subj
+180543	Subj
+180545	Objc
 Subj
-180454	Cmpl
-Objc
-180459	Objc
-180463	Subj
-180467	Objc
-180469	Subj
-180473	Cmpl
-180481	Objc
-180485	Subj
-180487	Subj
-180497	Pred
-Objc
-180504	Subj
-180509	Subj
-180513	Pred
+180556	Cmpl
 Subj
-180518	Objc
-180525	Objc
-180528	Subj
-180532	Subj
-180536	Pred
-180538	Objc
-180540	Subj
-180542	Subj
-180544	Objc
-180547	Subj
-180549	Cmpl
-180558	Objc
-180561	Objc
-180563	Pred
+180559	Pred
 Subj
-180566	Subj
-180572	Subj
+180568	Subj
+180584	Subj
+180588	Cmpl
+Pred
+180599	Cmpl
+180613	Subj
+180615	Cmpl
+180618	Subj
+180620	Pred
+180630	Objc
+180636	Subj
+180641	Objc
+180643	Cmpl
 Objc
-180575	Objc
-180580	Subj
-Subj
-180583	Objc
-180590	Objc
-180596	Cmpl
-Cmpl
-180599	Objc
-180601	Objc
-180603	Objc
-180605	Objc
-180607	Subj
-Objc
-180611	Subj
-180629	Subj
-180634	Subj
-180642	Objc
-180645	Objc
-Subj
-Objc
-Objc
-Objc
-Objc
-Objc
-Subj
-180655	Subj
-Objc
-180658	Subj
-180665	Pred
-180667	Subj
-180673	Subj
-180676	Subj
-Objc
-180680	Subj
-180682	Subj
-180692	Subj
-180694	Objc
-180696	Subj
-180702	Subj
-180706	Objc
-180710	Objc
-180714	Objc
-180718	Objc
+180656	Objc
+180673	Objc
+180691	Cmpl
+180695	Cmpl
+180698	Subj
+180700	Pred
+180710	Cmpl
+180717	Subj
 180723	Objc
-180728	Objc
-180732	Subj
-180740	Objc
+180745	Objc
 Subj
-180755	Subj
-180757	Subj
-180763	Objc
-180766	Subj
-180771	Subj
-Cmpl
+180751	Objc
+180753	Pred
+180760	Pred
 Subj
+Subj
+180766	Cmpl
+180774	Pred
+180781	Objc
+180787	Objc
+180793	Subj
+180797	Cmpl
+180803	Subj
+180810	Objc
+180813	Objc
+180820	Objc
+Subj
+180825	Objc
+180832	Objc
+Subj
+180837	Objc
+180846	Objc
 Objc
-180777	Cmpl
-180784	Objc
-180788	Cmpl
-Subj
+180850	Subj
+180852	Objc
+180858	Objc
+180866	Objc
+180868	Subj
 Objc
-Pred
-180798	Subj
-180800	Cmpl
-180802	Subj
-180806	Objc
-180811	Subj
-Subj
-Subj
-Cmpl
-Subj
-180817	Subj
-180821	Subj
-180824	Subj
-180828	Subj
-180831	Pred
-180834	Objc
-180840	Subj
-180848	Subj
-180871	Subj
-180878	Pred
-180881	Subj
-180887	Pred
-180889	Subj
-180891	Pred
-180893	Subj
-180897	Objc
-180899	Objc
-180903	Pred
-180905	Subj
-Subj
-180910	Subj
-Subj
-Subj
-Subj
-180916	Subj
-Pred
-180919	Objc
-Pred
+180878	Subj
+180907	Cmpl
+180917	Cmpl
+180925	Subj
 180930	Objc
-180933	Subj
-180936	Subj
-Subj
-180940	Subj
+180934	Subj
+180956	Subj
+180973	Objc
+180989	Subj
+180999	Subj
+181006	Pred
+181015	Cmpl
+181025	Subj
+181029	Cmpl
+181033	Pred
+181035	Subj
+Pred
+181042	Objc
+181045	Cmpl
 Objc
-180946	Objc
-180949	Subj
-180952	Objc
-180959	Objc
+181048	Cmpl
 Objc
-180962	Subj
-180965	Subj
-Subj
-Subj
-180970	Subj
-180973	Subj
-180977	Objc
-Subj
-Objc
-180982	Objc
-180990	Subj
-Objc
-180993	Subj
-Subj
-Subj
-180997	Pred
-Subj
-181001	Objc
-181006	Subj
-181008	Objc
-Subj
-181011	Objc
-181015	Objc
-181017	Subj
-Objc
-181021	Subj
-181023	Objc
-181034	Subj
-181039	Subj
-Objc
-181050	Objc
+181051	Cmpl
 Objc
 181054	Subj
-181060	Cmpl
-181064	Objc
+181057	Subj
+181061	Objc
+181064	Subj
+181071	Subj
+181086	Objc
+181089	Subj
+181103	Subj
+181108	Objc
+181116	Objc
+181121	Objc
+181125	Objc
+181132	Subj
+181139	Cmpl
 Subj
-181070	Subj
-181077	Subj
-181079	Subj
+181144	Cmpl
+181146	Objc
+181152	Subj
+181165	Objc
 Subj
-181082	Objc
-Subj
-181085	Cmpl
-181087	Subj
-Objc
-181097	Subj
-181106	Objc
-181109	Cmpl
-181111	Subj
-Pred
-181114	Subj
-Pred
-Subj
-181120	Pred
-Subj
-181124	Subj
-181128	Objc
-181130	Objc
-181133	Subj
-181138	Objc
-181141	Objc
-Subj
-Subj
-181145	Objc
-181150	Subj
-Subj
-181153	Objc
-Cmpl
-Subj
-Pred
-181158	Subj
-181162	Pred
-181167	Pred
-181170	Objc
-181175	Objc
-Objc
-181178	Objc
-Cmpl
+181172	Subj
+181177	Subj
 181181	Subj
-181191	Objc
-181198	Subj
-181200	Subj
+181185	Subj
+181190	Objc
+181193	Cmpl
+181195	Subj
+181201	Objc
+181207	Objc
+181211	Subj
+181225	Subj
+181236	Cmpl
+181246	Subj
+181248	Objc
+181253	Objc
+181280	Objc
+Cmpl
+181289	Objc
+181293	Subj
+181307	Pred
+181315	Objc
+181317	Cmpl
 Objc
-Objc
+181322	Cmpl
 Subj
-181206	Objc
-Subj
-Objc
-181211	Objc
-181215	Objc
-Objc
-181226	Subj
-181230	Objc
-181237	Pred
-Pred
-Subj
-181245	Objc
-181247	Subj
-Objc
-181253	Subj
-Objc
-181259	Subj
-181268	Objc
-181274	Subj
-181276	Pred
-Objc
-181285	Subj
-181288	Subj
-181293	Objc
-181303	Objc
-181306	Subj
-181308	Pred
-Pred
-181311	Pred
-181313	Pred
-Subj
-181317	Subj
-181322	Objc
 181331	Subj
-Objc
-Objc
+181336	Subj
+181348	Subj
+181361	Subj
+181365	Objc
 Subj
-181340	Subj
-181342	Pred
+181369	Cmpl
+181380	Cmpl
+181383	Objc
+181391	Cmpl
+181402	Subj
+181407	Subj
+181414	Cmpl
 Subj
-181346	Subj
-181349	Objc
-181351	Objc
-Subj
-Pred
-181355	Subj
-181363	Objc
-181367	Objc
-181369	Objc
-181371	Objc
-Objc
-181378	Objc
-181381	Objc
-181384	Objc
-181386	Objc
-Objc
-181389	Cmpl
-Objc
-181398	Subj
-Subj
-181401	Objc
-Cmpl
-181404	Subj
-Subj
-181408	Subj
-181410	Subj
-181412	Subj
-181415	Pred
-181417	Subj
-Subj
-Subj
-181423	Objc
-181428	Pred
-Pred
-181431	Subj
-Subj
-181435	Objc
-181439	Subj
-181442	Subj
-Pred
-Subj
-181447	Cmpl
-181451	Objc
+181419	Subj
+181434	Objc
+181447	Subj
 181453	Objc
-181456	Pred
-Subj
-181459	Cmpl
-181472	Objc
-181475	Objc
-Objc
+181462	Subj
+181469	Objc
 181480	Objc
-181482	Subj
-181484	Objc
-181488	Objc
 Subj
-181496	Objc
-181503	Subj
-181507	Subj
-181509	Subj
-181521	Objc
-181533	Subj
-181549	Objc
-181552	Subj
-181554	Subj
-181559	Subj
-181562	Subj
-181566	Pred
+181485	Subj
+181489	Subj
+181524	Cmpl
 Subj
-181572	Subj
-Pred
-181575	Pred
-181584	Subj
-Pred
-Pred
-181588	Subj
-181595	Subj
-181598	Subj
+181529	Pred
+181531	Subj
+181538	Objc
+181544	Objc
+181546	Objc
+181556	Objc
+181562	Objc
+Objc
+181566	Cmpl
+181580	Subj
+181587	Subj
+181589	Pred
+181602	Objc
 181604	Objc
-181606	Subj
-181612	Subj
-Subj
-Subj
-181618	Subj
-181622	Subj
-181625	Subj
-181630	Subj
-181652	Subj
-181662	Objc
-181665	Pred
-181669	Cmpl
-181671	Subj
-181674	Subj
-Objc
-181678	Subj
-Objc
-181683	Cmpl
-181686	Subj
-Subj
-Objc
-181692	Objc
-181694	Objc
-Subj
-Subj
-181699	Objc
-181718	Subj
-181727	Objc
-181731	Pred
-181738	Subj
-181741	Pred
-181743	Subj
-181752	Subj
-181754	Subj
-Subj
-181758	Subj
-181761	Pred
-181763	Pred
-181766	Pred
-181771	Subj
-181780	Objc
-181784	Subj
-Objc
-181787	Subj
-181789	Objc
-181796	Objc
-Objc
-181802	Subj
-181811	Subj
-181819	Objc
-Objc
-181823	Subj
-181825	Subj
-181827	Pred
-Subj
-181830	Pred
-181844	Objc
-181847	Subj
-181852	Objc
-181855	Objc
-181859	Subj
-181861	Objc
-181871	Pred
-181874	Objc
-181885	Subj
-181889	Subj
-181891	Subj
-181894	Subj
-Pred
-181897	Subj
-Pred
-Subj
-Subj
-181902	Subj
-181904	Subj
-Pred
-Pred
-Subj
-Subj
-Objc
-Subj
-Objc
-181915	Objc
-181923	Pred
-181929	Subj
-181937	Pred
-181941	Objc
-181945	Subj
-181950	Objc
-181952	Subj
-Pred
-181956	Subj
-181963	Objc
-181970	Subj
-Pred
-181976	Subj
-Pred
-181981	Subj
-Objc
-181988	Subj
-181994	Subj
-181998	Objc
+181614	Cmpl
+181620	Pred
+181638	Subj
+181641	Objc
+181649	Subj
+181651	Pred
+181664	Subj
+181667	Objc
+181679	Objc
+181681	Subj
+181685	Objc
+181701	Subj
+181722	Subj
 Cmpl
-182006	Pred
-182012	Objc
-182014	Objc
-182019	Objc
-182022	Subj
-182025	Objc
-182034	Subj
+181731	Pred
+181734	Subj
+181738	Subj
+Cmpl
+181745	Subj
+181763	Objc
+181765	Objc
+181771	Pred
+181804	Subj
+181810	Objc
+181812	Objc
+181818	Pred
+181829	Objc
+181846	Objc
+181855	Cmpl
+181857	Subj
+181869	Objc
+181883	Subj
+181888	Pred
+181891	Subj
+181896	Subj
+181903	Objc
+181921	Objc
+181924	Cmpl
+181944	Pred
+181959	Subj
+181969	Subj
+181976	Objc
+181985	Objc
+181988	Objc
+182001	Objc
+182017	Subj
+182023	Objc
+182025	Cmpl
+182030	Objc
+182038	Pred
+182049	Cmpl
 Objc
-182037	Objc
-Objc
-182042	Subj
-182044	Subj
-182048	Objc
-182051	Objc
-182054	Objc
-182057	Subj
-182070	Cmpl
-182072	Cmpl
-182077	Subj
-182086	Subj
-Objc
-182089	Subj
+182065	Objc
+182082	Cmpl
+182085	Subj
+182101	Objc
+182135	Pred
+182142	Subj
+182146	Cmpl
+182153	Subj
+182160	Cmpl
+182165	Cmpl
 Subj
-182096	Subj
-182098	Pred
-182101	Subj
-Pred
-Pred
-182106	Subj
-182109	Pred
-Subj
-Objc
-Pred
-182115	Objc
-Objc
-182121	Pred
-182123	Pred
-182130	Subj
-Subj
-182135	Subj
-182138	Objc
-182140	Subj
-Objc
-Subj
-182144	Subj
-182150	Objc
-182168	Objc
 182171	Cmpl
-Objc
-182178	Pred
-Subj
-182184	Subj
-182195	Subj
-182198	Objc
-182203	Subj
-182206	Objc
-182212	Pred
-182214	Subj
-182222	Objc
-182226	Objc
-182239	Subj
-182241	Subj
-182244	Subj
-182246	Subj
+182185	Subj
+182194	Subj
+182197	Objc
+182207	Subj
+182211	Cmpl
+182220	Subj
+182224	Subj
+182239	Objc
+182245	Subj
+182249	Objc
+182256	Objc
+182258	Cmpl
 182261	Subj
-Subj
-182268	Subj
-182289	Objc
-182293	Objc
-182296	Subj
-182302	Objc
-182304	Objc
-182306	Subj
-182311	Subj
-182320	Subj
+182271	Objc
+182273	Objc
+182277	Cmpl
+182280	Subj
+182293	Subj
+182295	Cmpl
+Objc
+182301	Objc
+182306	Objc
+182310	Subj
+182316	Objc
+182324	Cmpl
 Subj
 182332	Objc
-182337	Pred
+182342	Subj
+182354	Cmpl
+182359	Objc
+182365	Objc
 Subj
-182342	Objc
-Subj
-182347	Subj
-182353	Objc
-182360	Subj
-182383	Objc
+182372	Cmpl
+182376	Objc
+182384	Cmpl
+182387	Objc
+182390	Subj
+182394	Objc
+182400	Subj
 Objc
-182388	Subj
-182391	Pred
+182405	Subj
+182411	Objc
+Cmpl
+182419	Objc
+182423	Cmpl
+182425	Subj
+182437	Cmpl
+182441	Subj
+Cmpl
+182458	Subj
+182461	Objc
+182491	Objc
 Subj
-182398	Objc
-182400	Objc
-Subj
-182408	Subj
-182415	Pred
-Objc
-182427	Objc
-182440	Objc
-Pred
-Subj
-Subj
-Pred
-182446	Subj
-182448	Pred
-182452	Pred
-Subj
-Pred
-182457	Subj
-182460	Subj
-Subj
-182467	Pred
-182474	Objc
-182477	Pred
-182479	Subj
-182481	Subj
-182484	Subj
-Pred
-182495	Subj
 182497	Objc
-182507	Pred
-182511	Subj
-Objc
-182514	Subj
-182521	Pred
-182525	Subj
-182529	Subj
-182531	Pred
-Pred
-182534	Pred
-182537	Objc
-182540	Pred
-182544	Subj
-182548	Objc
-182556	Subj
-182558	Subj
-182563	Objc
-182568	Pred
-Cmpl
-182572	Subj
+182502	Subj
+182504	Objc
+182510	Objc
+182520	Subj
+182536	Objc
+182543	Subj
+182553	Cmpl
+182560	Subj
+182563	Pred
+182571	Pred
+182573	Pred
+182576	Objc
 182578	Subj
-182582	Pred
-182591	Subj
-Pred
-182595	Subj
-182597	Objc
+182582	Subj
+182586	Cmpl
+182589	Subj
+182592	Objc
+182598	Cmpl
+182600	Subj
+182609	Cmpl
+182611	Objc
+182625	Cmpl
+182627	Subj
+182630	Objc
+182642	Objc
+182645	Cmpl
 Subj
-182602	Pred
-182605	Pred
-182612	Objc
-182616	Subj
-182622	Subj
-Subj
-182628	Objc
-182631	Subj
-182636	Pred
-Subj
-Subj
-Subj
-182642	Pred
-182644	Pred
-182646	Pred
-182649	Pred
-182653	Objc
-Subj
-Subj
+182650	Pred
+182652	Subj
 182668	Subj
-182671	Subj
-182677	Subj
-182681	Subj
+182671	Cmpl
+182673	Subj
+182675	Objc
+182681	Cmpl
+182686	Subj
+182697	Subj
+182707	Subj
+182709	Objc
+182725	Cmpl
 Subj
-182684	Subj
-182686	Cmpl
-182688	Subj
-182698	Subj
-Objc
-182701	Cmpl
+182728	Objc
+182732	Cmpl
+182735	Subj
+182740	Objc
 Subj
-182705	Objc
-Objc
-Subj
-Subj
-Objc
-182711	Objc
-Objc
-182715	Objc
-182718	Subj
-182722	Objc
-182725	Subj
-182736	Subj
-182740	Subj
-182749	Objc
-182752	Objc
-Objc
-Objc
-182758	Objc
-Subj
-182762	Subj
-182766	Subj
-Objc
-Objc
-182772	Subj
-182774	Subj
-182784	Subj
-182788	Subj
-Pred
-182798	Objc
-182800	Subj
-182804	Pred
-182815	Subj
-Pred
-Objc
-182821	Subj
-182836	Subj
-Objc
-182839	Subj
-182842	Pred
-182845	Objc
-182847	Objc
-Objc
-182856	Objc
-182859	Subj
-182862	Subj
-182864	Objc
-Subj
-Objc
-Objc
-182870	Subj
-182872	Objc
-Subj
-Objc
-182877	Objc
-Subj
-182888	Subj
-Subj
-182892	Subj
-Objc
+182747	Objc
+182753	Subj
+182758	Pred
+182763	Subj
+182772	Objc
+182775	Cmpl
+182780	Subj
+182782	Cmpl
+182785	Objc
+182791	Objc
+182794	Subj
+182797	Cmpl
+182799	Objc
+182806	Pred
+182808	Subj
+182821	Objc
+182825	Cmpl
 Objc
 Subj
-182897	Subj
-Objc
-182901	Subj
+182851	Objc
+182857	Objc
+182859	Cmpl
+Subj
+182863	Objc
+182867	Objc
+182871	Cmpl
+Subj
+182877	Pred
+182881	Objc
+182887	Cmpl
+182890	Objc
+182897	Objc
+182900	Subj
 182903	Objc
-182906	Subj
-182919	Subj
-182933	Pred
-182940	Subj
+182912	Objc
+182915	Subj
+182920	Cmpl
+182927	Cmpl
+182929	Subj
+182944	Cmpl
 Pred
-182944	Objc
-182952	Subj
-182956	Pred
+182947	Subj
+182955	Subj
+182967	Subj
+182973	Subj
+182979	Subj
+182983	Cmpl
+182987	Subj
 Pred
-182959	Pred
-182965	Pred
-Objc
-182968	Objc
-182970	Subj
-Subj
-Objc
-182976	Objc
-Subj
-Objc
-182984	Objc
-Objc
-Subj
-182990	Subj
-Subj
-Objc
-Subj
-Subj
-182996	Objc
-183010	Subj
-183012	Subj
-183017	Pred
-Subj
-183021	Subj
-Subj
-183028	Subj
-183034	Objc
-Subj
-183040	Objc
-183046	Subj
-183055	Subj
-183057	Pred
-183062	Subj
-Objc
-183065	Objc
-183067	Subj
-Subj
-Objc
+182994	Subj
 Pred
+182998	Subj
+183002	Cmpl
+183004	Subj
+183006	Objc
+183009	Objc
 Subj
+183013	Pred
 Subj
-183077	Pred
-Subj
-Subj
-183084	Objc
-Subj
+183019	Cmpl
+183022	Cmpl
+183027	Objc
+183035	Subj
+183050	Subj
+183059	Objc
+183069	Subj
+183071	Subj
+183093	Objc
+183096	Objc
+183100	Subj
+183105	Pred
+183107	Subj
 Pred
-183088	Subj
-183090	Objc
-183092	Subj
-Subj
-183095	Subj
-Subj
-183098	Subj
-183102	Objc
-183104	Subj
-183107	Cmpl
-Objc
 Pred
-183115	Subj
-Subj
-183118	Subj
-Subj
-Objc
-183122	Objc
-183124	Subj
-Objc
+183112	Subj
+183121	Subj
 183127	Objc
-183132	Subj
-183139	Subj
-183146	Objc
-183148	Subj
-183151	Subj
-183155	Cmpl
-183159	Pred
-183167	Subj
-183173	Subj
-Objc
+183149	Objc
+183165	Objc
+183175	Cmpl
 183178	Subj
-183185	Objc
+183187	Subj
+183190	Pred
+183192	Cmpl
 Subj
-Subj
-183195	Objc
-183197	Subj
-183201	Subj
-Subj
-183204	Subj
-Subj
-183207	Subj
+183216	Subj
+183220	Cmpl
+183231	Cmpl
+183233	Subj
 Objc
-Subj
-Subj
-Subj
-183213	Objc
-183217	Subj
-Subj
-183222	Subj
-Subj
-183228	Objc
-183230	Subj
-183236	Subj
-183239	Pred
-183243	Subj
-Objc
-183246	Subj
-Objc
-183253	Objc
-Subj
-183259	Subj
-183264	Subj
-183266	Subj
-183271	Subj
-Objc
-183274	Subj
-Objc
-183280	Subj
-Objc
-Objc
+183237	Cmpl
+183239	Subj
+183247	Subj
+183251	Subj
+183258	Cmpl
+183264	Objc
+183269	Objc
 183285	Subj
-Pred
-183289	Subj
-183292	Subj
-Subj
-Cmpl
-183296	Subj
-Objc
+183296	Objc
 183299	Subj
-183303	Subj
+183304	Objc
+183308	Objc
+183313	Subj
+183325	Subj
+183335	Objc
 Objc
-Objc
-183307	Objc
-183309	Subj
-Subj
-183312	Subj
-Subj
-183315	Subj
-Objc
-Objc
-Objc
-183320	Subj
-Objc
-Subj
-183324	Subj
-Objc
-183327	Cmpl
-Objc
-Objc
-Objc
-183332	Objc
-183334	Objc
-183340	Subj
-Objc
-183346	Subj
-183348	Cmpl
-183351	Pred
-183353	Subj
-183357	Objc
-183359	Objc
+183352	Subj
+183355	Cmpl
 183362	Objc
-183366	Subj
-183369	Objc
-183372	Objc
-183375	Subj
-183378	Subj
-183381	Cmpl
-183383	Objc
-183393	Subj
+183368	Objc
+183375	Cmpl
+183382	Cmpl
+183388	Objc
 183397	Subj
-183401	Objc
-Objc
-Subj
-183406	Objc
-183408	Objc
-183412	Objc
-183435	Objc
-183437	Objc
-183440	Subj
-183446	Subj
-Objc
-183458	Objc
-Subj
-Subj
-183463	Subj
-Subj
-183466	Objc
-183477	Subj
-Subj
-Subj
+183402	Pred
+183405	Subj
 Pred
-183482	Subj
-183484	Pred
+183410	Subj
+183413	Pred
+183415	Subj
+183418	Pred
+183422	Subj
+183427	Objc
+183440	Cmpl
+183447	Subj
+183455	Cmpl
+183462	Objc
+183468	Objc
+Cmpl
+183490	Subj
+183509	Objc
+183513	Subj
+183516	Cmpl
 Objc
+183520	Cmpl
+183524	Subj
+183533	Subj
+183538	Subj
+183553	Subj
+183559	Objc
+183563	Objc
+183566	Objc
 Subj
-183490	Cmpl
-183492	Objc
-183494	Objc
-183499	Subj
-183503	Subj
-183507	Subj
-183516	Subj
-Subj
-Subj
+183571	Cmpl
+183574	Cmpl
 Objc
-183521	Subj
-183528	Subj
-Pred
-183536	Subj
-183539	Subj
-183542	Subj
-183547	Objc
-Subj
-Subj
-Subj
-183555	Objc
-183558	Subj
-183565	Subj
-183571	Objc
-183574	Subj
-183578	Objc
-Subj
-183581	Objc
-183585	Objc
-183588	Subj
+183596	Subj
 Objc
-183593	Subj
-183595	Objc
-183601	Subj
-183606	Cmpl
-183608	Objc
-183610	Subj
-Pred
-183618	Subj
-Subj
-183625	Objc
-183628	Objc
-183630	Subj
-183637	Subj
+183600	Cmpl
+183611	Subj
+183622	Subj
+183627	Objc
+183631	Subj
+183639	Objc
 183641	Subj
-Objc
-183644	Objc
-183648	Subj
-183668	Pred
+183647	Pred
+183653	Subj
+183659	Pred
+183662	Pred
+183666	Subj
+183673	Pred
+183675	Pred
+183679	Subj
+183693	Objc
+183698	Objc
+183705	Subj
+183710	Objc
 Subj
-183673	Objc
-Pred
-183676	Objc
-Objc
-Pred
-183681	Subj
-183685	Objc
-183698	Subj
-183700	Pred
-183707	Subj
-Objc
-Subj
-Objc
-183715	Objc
-183718	Objc
-183720	Objc
-183722	Objc
-183725	Subj
-183727	Pred
-Subj
-183730	Pred
-Objc
-183733	Objc
-183737	Subj
-183745	Subj
-Objc
-183752	Subj
-183756	Subj
-183758	Subj
-183761	Subj
-183763	Subj
-183767	Subj
-Subj
-Subj
-183773	Subj
-183780	Subj
-183786	Subj
-Cmpl
-Subj
-183790	Objc
-183792	Pred
-183795	Subj
-183797	Subj
-183799	Objc
-183801	Pred
-183805	Subj
-183810	Subj
-183816	Subj
-183820	Subj
-183823	Objc
-183826	Pred
-Cmpl
-Subj
-183831	Subj
-Subj
-183835	Subj
-183838	Subj
-183840	Subj
-183847	Subj
+183716	Subj
+183728	Subj
+183734	Objc
+183738	Subj
+183743	Objc
+183746	Subj
+183753	Objc
+183759	Subj
+183763	Objc
+183766	Objc
+183769	Cmpl
+183771	Cmpl
+183775	Subj
+183782	Subj
+183786	Objc
+183796	Objc
+183818	Subj
+183820	Objc
+183824	Cmpl
+183839	Subj
+183842	Subj
+183848	Cmpl
 183851	Subj
-183855	Subj
-183858	Subj
-183861	Subj
-183865	Objc
-183871	Subj
-183874	Subj
+Cmpl
+183854	Objc
+183857	Subj
+183860	Objc
+183867	Objc
 Subj
-183877	Objc
-183881	Pred
-183885	Objc
-183888	Objc
-183890	Pred
-Objc
+183882	Cmpl
+183888	Subj
+183910	Subj
+183917	Cmpl
 Subj
-183894	Objc
-Subj
-Objc
-183898	Objc
-Pred
-183901	Pred
-183905	Subj
-183907	Objc
-183910	Objc
-183912	Subj
-183915	Subj
-Pred
-183920	Subj
-183922	Pred
-183924	Objc
-Subj
-183931	Objc
-Subj
-Subj
-183937	Subj
-183939	Pred
-183941	Subj
-183947	Objc
-183956	Subj
+183934	Objc
+183942	Subj
+183949	Objc
 183959	Subj
-Subj
-183968	Subj
-183970	Objc
-183972	Pred
-Pred
-183976	Subj
-Subj
-183983	Subj
+183962	Objc
 183987	Subj
-183990	Objc
-Subj
-183995	Subj
-Subj
-183998	Subj
-Subj
-Subj
-184004	Subj
-184008	Objc
-184011	Pred
-184013	Subj
-184015	Objc
-184017	Subj
 Pred
-184031	Subj
-184037	Objc
-184040	Subj
-184044	Objc
-Subj
-184050	Subj
-184052	Objc
-184063	Subj
-Subj
-184066	Subj
-184070	Subj
-184073	Subj
-Subj
+184001	Subj
 Pred
-184081	Objc
-184084	Subj
-184086	Subj
-184089	Subj
-184093	Subj
-184101	Subj
-184106	Subj
-184108	Subj
-184110	Objc
-184112	Objc
-184115	Objc
-184121	Subj
-184126	Subj
+184009	Subj
+184014	Subj
+184020	Pred
+184022	Subj
+Subj
+184028	Subj
+184045	Subj
+184053	Objc
+184080	Objc
+184085	Cmpl
+184087	Subj
+184092	Pred
+184096	Subj
+184098	Objc
+184100	Objc
+184116	Objc
+184129	Objc
+184144	Subj
 Pred
-184129	Pred
-184131	Pred
-184134	Pred
-184143	Subj
-184149	Objc
+184153	Cmpl
+184155	Objc
 Subj
-Objc
-184155	Subj
-Pred
-Objc
-184160	Subj
-184168	Pred
-Objc
-Subj
-184172	Pred
-Subj
-Subj
-Objc
-Pred
-184178	Subj
-184183	Subj
-184186	Subj
-Pred
-Subj
-184194	Subj
-184197	Subj
-184199	Subj
-Pred
-184202	Objc
-184205	Objc
-184208	Objc
-184215	Subj
-Subj
-Pred
-184222	Objc
-184225	Objc
-184228	Pred
-184231	Objc
-184238	Pred
-Objc
-184242	Pred
-184244	Objc
-Subj
-184249	Pred
-184251	Objc
-184255	Pred
+184158	Subj
+184163	Cmpl
+184176	Objc
+184179	Objc
+184203	Objc
+184217	Objc
+184224	Objc
+184228	Cmpl
+184234	Subj
+184244	Subj
+184249	Subj
 184257	Subj
-Objc
-184260	Objc
-184262	Objc
-184267	Subj
-Subj
-Objc
-184276	Subj
-Subj
-184279	Pred
-184281	Pred
-Pred
-184284	Objc
-184288	Objc
-184291	Subj
-184293	Objc
-184297	Objc
-184300	Subj
-184304	Subj
-184306	Subj
-184310	Objc
-184312	Pred
-184314	Pred
-184318	Objc
-184328	Subj
-184331	Objc
-184335	Objc
+184262	Subj
+184266	Cmpl
+184269	Cmpl
+184272	Objc
+184278	Objc
+184286	Cmpl
+184302	Objc
+184304	Objc
+184316	Subj
 184342	Objc
-Subj
-Objc
-184346	Subj
-184351	Subj
-184354	Subj
-Pred
-184357	Objc
-Subj
-Objc
-Pred
+184345	Subj
 Cmpl
-184363	Objc
-184365	Subj
-184368	Objc
-184372	Subj
-184374	Pred
-184376	Objc
-184379	Subj
-184381	Objc
-Subj
-184384	Subj
-184386	Objc
-184388	Cmpl
-Subj
-184391	Objc
-184393	Subj
-Pred
-Pred
-Pred
-184398	Subj
-Subj
-Pred
+184348	Objc
+184355	Subj
+184359	Cmpl
+184361	Objc
 Subj
 Objc
-184404	Subj
-Objc
-184409	Objc
-184411	Pred
-184418	Subj
-184420	Subj
-184427	Pred
+184366	Objc
+184369	Cmpl
 Subj
+Cmpl
+184378	Objc
+184386	Pred
+184388	Pred
+184392	Pred
+184395	Subj
+184404	Pred
+184408	Cmpl
+184415	Objc
+184419	Pred
+184423	Objc
+184426	Subj
+184432	Objc
+184437	Cmpl
+184444	Cmpl
 Subj
-Subj
-184440	Pred
-184442	Subj
-Subj
-Objc
-184446	Objc
-184449	Objc
-184452	Subj
-Objc
+184449	Subj
+184451	Cmpl
 184457	Objc
-184460	Objc
-184462	Subj
-Subj
-Pred
-184467	Subj
-184469	Subj
-Pred
-184472	Subj
-Pred
-184476	Subj
-184479	Objc
-184484	Subj
-Subj
-Objc
-Subj
-184490	Pred
-184493	Objc
-Subj
-Subj
-Objc
-Objc
-184501	Objc
-Pred
-184505	Objc
-184510	Subj
-Objc
+184459	Subj
+184463	Subj
+184465	Objc
+184482	Subj
+184486	Subj
+184498	Subj
+184507	Subj
 184515	Objc
-184525	Subj
-184527	Subj
-184529	Objc
+184523	Subj
+184527	Cmpl
 Subj
-184533	Subj
-184540	Subj
-184542	Objc
-184544	Pred
+184533	Cmpl
+184555	Subj
+184567	Objc
+184577	Objc
 Subj
-184553	Pred
-184557	Subj
-184560	Objc
-184562	Objc
-184576	Subj
-Subj
+184586	Objc
 Objc
-184585	Subj
-184589	Subj
-184595	Subj
-184598	Subj
+184591	Subj
+184593	Pred
 Subj
-184602	Pred
-184604	Objc
-184608	Objc
-Pred
-Subj
-Pred
-184623	Objc
-Subj
-184627	Subj
-184635	Objc
+184596	Objc
+184598	Objc
+Cmpl
+184606	Objc
+184609	Objc
+184612	Objc
+Cmpl
+184619	Subj
+184627	Objc
+184638	Objc
+184645	Subj
+184648	Objc
+184653	Objc
+184656	Objc
+184659	Objc
+184664	Objc
+184675	Cmpl
+184683	Objc
+184690	Objc
+184695	Subj
+184700	Objc
+184707	Subj
+184709	Pred
+184714	Objc
+184717	Objc
+184724	Objc
+184736	Subj
+184743	Objc
+184745	Cmpl
+184751	Cmpl
+184755	Objc
+184757	Objc
+184761	Cmpl
+184764	Subj
+184766	Cmpl
 Objc
-184642	Subj
-184644	Subj
+184778	Cmpl
 Subj
-184647	Pred
-Pred
-184652	Subj
-184656	Subj
-184664	Cmpl
-184667	Subj
-Subj
-Subj
-Pred
-184673	Objc
-184679	Subj
-Pred
-184684	Subj
-Subj
-184693	Subj
-184696	Cmpl
-Subj
-184699	Subj
-Objc
-184703	Pred
-184708	Subj
-184715	Subj
-184718	Subj
-184720	Subj
-184722	Objc
-Subj
-Subj
-Subj
-184727	Subj
-184733	Subj
-184737	Subj
-184750	Subj
-184752	Subj
-184755	Pred
-184757	Subj
-184759	Pred
-184762	Objc
-184765	Subj
-184769	Subj
-184771	Subj
-184774	Subj
-Subj
-Subj
-184778	Subj
-Objc
-184782	Subj
-184787	Subj
-Objc
-184791	Subj
-Objc
-184795	Objc
-Subj
-Objc
-184803	Subj
+184790	Objc
+184794	Subj
 184805	Subj
-184812	Subj
-184818	Subj
-184820	Objc
-184822	Subj
-Objc
-184831	Subj
-184834	Subj
-184843	Objc
-184851	Subj
-184863	Subj
-184871	Objc
-184880	Subj
-184887	Subj
-Subj
-Pred
-184892	Subj
-Objc
-184897	Objc
-184902	Objc
-184904	Subj
-184914	Subj
-184919	Objc
-Subj
+184808	Pred
+184818	Cmpl
+184824	Subj
+184833	Cmpl
+184836	Objc
+184854	Objc
+184859	Objc
+184869	Objc
+184882	Objc
+184885	Objc
+184892	Objc
+184896	Subj
+184904	Cmpl
+184907	Subj
+184916	Subj
+184918	Objc
+Cmpl
 184926	Objc
-184928	Subj
-184935	Objc
-184937	Subj
-Objc
-184940	Subj
-184951	Objc
-184961	Subj
-184965	Subj
-184969	Subj
-184975	Pred
-Objc
-184981	Subj
-Objc
-Subj
-184985	Subj
-184987	Subj
+184945	Objc
+184953	Objc
+184970	Subj
 Pred
-184995	Objc
-Subj
-Cmpl
-Cmpl
-Subj
-Subj
-Subj
-185004	Subj
-185009	Objc
-Objc
-185012	Objc
-185019	Subj
-185023	Subj
-Subj
-185033	Objc
-185039	Subj
-185042	Subj
+184978	Subj
+184982	Subj
+184991	Subj
+185000	Subj
+185005	Objc
+185013	Subj
+185020	Objc
+185026	Objc
+185032	Objc
+185040	Cmpl
 185045	Subj
-185053	Subj
-185056	Subj
-185059	Subj
-185062	Subj
-185066	Subj
-185068	Subj
+185049	Pred
+185056	Pred
+185069	Objc
+185080	Subj
+185093	Objc
+185101	Subj
+185107	Subj
+185115	Objc
+185119	Objc
+185124	Cmpl
+185131	Objc
+185134	Subj
+185138	Subj
+185142	Cmpl
+185146	Objc
+185152	Objc
+185162	Pred
+185175	Pred
+185178	Subj
 Pred
+185181	Subj
+185184	Subj
+185187	Objc
+185190	Objc
+185197	Cmpl
 Objc
-185073	Objc
-185076	Pred
-185078	Objc
-185081	Subj
-185084	Objc
-185086	Subj
-185089	Objc
-185091	Objc
-185095	Objc
-185098	Subj
-185105	Objc
-185108	Objc
-185116	Subj
-185120	Objc
-185122	Objc
-Objc
-Objc
-185133	Subj
-185135	Pred
+185212	Pred
+185215	Objc
+185243	Cmpl
 Subj
-185141	Subj
-Subj
-185154	Subj
-185157	Subj
-Subj
-185166	Objc
-185169	Objc
-185175	Objc
-185179	Objc
-185184	Objc
-185186	Objc
-185189	Objc
-185191	Objc
-185193	Objc
-185197	Objc
-185201	Subj
-Objc
-185204	Subj
-185209	Subj
-Objc
-185213	Objc
-185218	Subj
-185221	Subj
-185224	Subj
-185232	Subj
-185238	Subj
-Objc
-Objc
+185249	Objc
 Cmpl
-185245	Subj
-Subj
-185248	Objc
+185255	Subj
+185258	Objc
+185265	Objc
+185269	Cmpl
 Objc
-185252	Cmpl
+185277	Subj
+185280	Cmpl
 Objc
-Subj
-185257	Subj
-185259	Subj
-185261	Subj
-185264	Pred
-Cmpl
-Objc
-Objc
-Subj
-185270	Pred
-185273	Objc
-185276	Objc
-185281	Subj
-185287	Pred
-185292	Subj
-185294	Subj
-Objc
-Objc
-185303	Objc
+185284	Cmpl
+Pred
+185296	Pred
+185299	Cmpl
+185302	Objc
+185305	Cmpl
 185307	Objc
-Subj
-185310	Pred
-Objc
-Objc
-Pred
-185315	Subj
-Pred
-Objc
-185319	Subj
-185321	Objc
-185323	Pred
-185325	Subj
-Pred
-185331	Objc
-Objc
-185338	Subj
-185344	Objc
-185347	Objc
-Objc
-Pred
-185355	Subj
-185357	Pred
-185360	Subj
-Subj
-185365	Pred
-185368	Pred
-Pred
-Objc
-185375	Subj
-Pred
+185312	Cmpl
+185320	Objc
+185331	Subj
+185336	Subj
+185339	Objc
+185342	Subj
+185345	Subj
+185349	Objc
+185351	Subj
+185356	Objc
+185363	Objc
 Cmpl
-Objc
-185380	Subj
-185384	Objc
-185386	Subj
+185371	Pred
+185374	Subj
+185378	Subj
+185386	Objc
+185388	Objc
+185393	Cmpl
+185417	Subj
+185426	Pred
+185434	Subj
+185437	Objc
+185440	Subj
+185444	Cmpl
+185448	Objc
+185452	Objc
+185470	Pred
+185494	Cmpl
+185501	Subj
+185522	Pred
+185528	Pred
+185531	Subj
+185542	Subj
+185549	Objc
+185567	Objc
+185569	Pred
+Subj
+185579	Subj
+185582	Cmpl
+185619	Subj
+185621	Pred
+185628	Subj
 Pred
-185394	Subj
-185398	Objc
-Objc
-185401	Subj
-Subj
-185407	Subj
-185409	Subj
-185413	Subj
-Objc
-Subj
-Pred
-185419	Subj
-185421	Pred
-185427	Objc
-185432	Subj
-185437	Pred
-Pred
-185441	Objc
-185444	Subj
-185448	Subj
-185452	Subj
-185454	Objc
-Pred
-Subj
-185461	Objc
-185466	Objc
-185473	Subj
-185476	Pred
-Subj
-185479	Subj
-185482	Objc
-185484	Objc
-185489	Pred
-Subj
-Subj
-185493	Objc
-185497	Subj
-185499	Objc
-185503	Subj
-185505	Pred
-185507	Subj
-Objc
-Pred
-185514	Subj
-Objc
-185518	Objc
-Objc
-185521	Objc
-185523	Objc
-185531	Objc
-185534	Objc
-185536	Subj
-185552	Subj
-185554	Pred
-Subj
-Cmpl
-Objc
-Subj
-185561	Pred
-185563	Subj
-185565	Subj
-Objc
-185568	Objc
-Subj
-185573	Objc
-185583	Subj
-185596	Subj
-Subj
-185601	Subj
-185610	Subj
-Subj
-185613	Pred
-Subj
-Subj
-185617	Objc
-Objc
-185623	Subj
-Subj
-185626	Objc
 185632	Objc
-185640	Subj
-185653	Objc
+185638	Objc
+185648	Subj
 185655	Subj
-185663	Objc
-185666	Subj
-185673	Subj
-Pred
-185678	Objc
-Objc
-185683	Subj
-Objc
-185686	Subj
-185689	Objc
+185660	Subj
+185664	Objc
 Subj
-185697	Objc
-185701	Subj
-185703	Objc
-185705	Cmpl
-185708	Objc
-185710	Subj
+185669	Subj
+185677	Pred
+185682	Cmpl
 Pred
+185687	Cmpl
+185690	Subj
+185695	Objc
 Objc
-185718	Subj
-185720	Subj
-185722	Pred
-185724	Pred
-185731	Pred
-185735	Subj
-185737	Subj
-185740	Subj
-185744	Subj
-185748	Objc
-185750	Subj
-Pred
-185753	Pred
-185759	Pred
-185761	Pred
-185765	Subj
-185774	Subj
-185782	Pred
-Pred
-Subj
-Pred
-Subj
-Objc
-Pred
-Pred
-185792	Subj
-185794	Objc
-185800	Subj
-185802	Objc
-185804	Subj
-Pred
-Pred
-185817	Subj
-Objc
-185822	Subj
-185830	Objc
-185833	Subj
-185838	Subj
-Objc
-185841	Objc
-185844	Objc
-185849	Subj
+185699	Subj
 Cmpl
+185714	Objc
+185728	Subj
+185730	Objc
 Objc
-185855	Subj
-185861	Objc
-185863	Pred
-185865	Pred
-185868	Cmpl
+185733	Pred
+185738	Subj
+185741	Cmpl
+Objc
+185745	Subj
+185754	Objc
+185757	Subj
+185786	Objc
+185789	Objc
+185792	Cmpl
+185813	Objc
+185827	Subj
+185837	Objc
+Objc
+185856	Objc
+185863	Objc
+185904	Pred
 Subj
-185872	Objc
-185874	Subj
-185882	Subj
-185891	Cmpl
-Objc
-Cmpl
-185896	Subj
+185909	Pred
 Pred
-185905	Subj
-185908	Subj
-Objc
-185916	Cmpl
-185920	Subj
-185923	Subj
-185926	Cmpl
-Cmpl
-185930	Subj
-185934	Subj
-Pred
+185913	Subj
+185918	Subj
+185922	Pred
+185925	Objc
+185935	Pred
 185938	Subj
-185944	Pred
-Objc
 185948	Pred
-Objc
-185956	Objc
-Subj
-185959	Objc
-185964	Subj
+185950	Subj
+185958	Subj
+185965	Pred
 185968	Subj
-Subj
-185975	Subj
-Objc
-Pred
-185982	Subj
-185987	Subj
-185990	Pred
-185993	Pred
-185996	Subj
+185971	Objc
+185974	Subj
+185976	Objc
+185978	Subj
+185980	Cmpl
+185987	Objc
 185999	Subj
-186002	Cmpl
-Subj
-186006	Subj
-Subj
-186012	Cmpl
-Subj
-Pred
-186016	Objc
-186018	Subj
+186008	Subj
+Cmpl
 186024	Objc
-186027	Objc
-Subj
-Subj
 Objc
-Subj
-186040	Subj
+186030	Objc
 Objc
-186043	Subj
-186048	Pred
-186051	Subj
-186053	Subj
-186056	Objc
-Subj
-Objc
-186062	Cmpl
-Subj
-Subj
-Objc
-186069	Objc
-186071	Subj
-Subj
-Pred
-186075	Subj
+186038	Subj
 Cmpl
+186045	Subj
+186053	Pred
+186055	Subj
+186072	Subj
+186074	Pred
+186076	Subj
+186085	Objc
+186089	Subj
+186097	Pred
+186099	Subj
+186115	Subj
+186117	Pred
 Subj
-Objc
-186080	Objc
-186084	Pred
-186086	Pred
-Cmpl
-Pred
-186090	Subj
-Objc
-186093	Subj
-Objc
-Objc
-186099	Objc
-Objc
-Objc
-Subj
-186110	Objc
-186112	Subj
-186114	Pred
-Subj
-186117	Subj
-186119	Cmpl
-Subj
-186126	Pred
-186128	Subj
-Subj
-Objc
-Objc
-186133	Objc
-Cmpl
-Objc
-Subj
-186142	Subj
-Objc
-186148	Subj
-186164	Cmpl
-Pred
-186167	Cmpl
-Pred
-186173	Subj
-186177	Subj
-Subj
-Subj
-186181	Objc
-186184	Cmpl
-186186	Objc
-Subj
-Objc
-Objc
-Subj
-186193	Subj
+186127	Objc
 186196	Subj
-186200	Objc
-Subj
-186203	Subj
-Objc
-186210	Objc
-186212	Subj
-186214	Objc
-186216	Subj
-186218	Subj
-Subj
-Subj
-Subj
-186224	Objc
-Subj
-186227	Pred
-186233	Objc
-186236	Subj
-Objc
-186239	Subj
-186242	Objc
-186245	Objc
-186251	Pred
-186253	Pred
-186262	Subj
-Objc
-186270	Subj
-186277	Subj
-Objc
-186286	Subj
-Subj
-186292	Subj
-Subj
+Cmpl
+186235	Objc
+186239	Objc
+186247	Objc
+186250	Objc
+186255	Subj
+Cmpl
+186263	Objc
+186287	Objc
 186296	Subj
-186298	Pred
-186305	Subj
-186310	Objc
-186313	Subj
-186318	Subj
-186325	Subj
-186328	Objc
-186332	Subj
-Pred
-186346	Cmpl
-Objc
-186352	Subj
+186303	Pred
 Subj
-186358	Subj
-186363	Subj
-Objc
-Subj
-Subj
-Objc
-Objc
-186373	Pred
-Subj
-186376	Objc
-186380	Objc
-186383	Objc
-186389	Objc
-186397	Subj
-186399	Pred
-Subj
-Subj
+Cmpl
+186315	Subj
+186319	Pred
+186331	Subj
+186340	Pred
+186344	Pred
+186348	Subj
+Cmpl
+186356	Objc
+186365	Objc
+186376	Pred
+186390	Pred
 186404	Cmpl
+186406	Pred
+186411	Objc
+186415	Subj
+186417	Objc
+186445	Subj
+186486	Subj
+186517	Objc
+186530	Cmpl
+186532	Subj
+186546	Objc
+186559	Objc
+186567	Subj
+186569	Objc
+186584	Cmpl
+Subj
+186592	Cmpl
+186596	Objc
+186614	Subj
+186625	Subj
+186631	Cmpl
 Objc
-186407	Objc
-186409	Objc
-186418	Subj
-Objc
-186422	Subj
-186437	Cmpl
-186453	Subj
-186462	Subj
-Objc
-186469	Objc
-186476	Subj
-Cmpl
-Pred
-Pred
-Objc
-186483	Subj
-186488	Pred
-186491	Objc
-186496	Subj
-186499	Objc
-186505	Subj
-Subj
-Subj
-186509	Pred
-Objc
-Objc
-Cmpl
-186514	Cmpl
-Subj
-186518	Objc
-186521	Objc
-186525	Subj
-186527	Objc
-186529	Objc
-186532	Objc
-Subj
-Subj
-Subj
-186541	Subj
-Cmpl
-Subj
-Pred
-Subj
-186549	Subj
-186551	Subj
-Pred
-186555	Subj
-186557	Subj
-186559	Subj
-186561	Subj
-186563	Objc
-186565	Objc
-186570	Subj
-186573	Cmpl
-186581	Objc
-186587	Objc
-186599	Objc
-Cmpl
-186602	Subj
-186606	Subj
-186609	Pred
-186623	Subj
-186638	Pred
-Objc
-186647	Subj
-186649	Objc
-186663	Subj
-186667	Pred
-Subj
-Subj
-186677	Objc
-186684	Subj
+186639	Subj
+186643	Cmpl
+186646	Objc
+186651	Cmpl
+186661	Subj
+186666	Subj
+186678	Subj
+186686	Cmpl
 186688	Subj
-186693	Pred
-186696	Subj
-186699	Objc
-186713	Pred
-186717	Subj
-186722	Objc
-186731	Subj
-186737	Subj
-186740	Pred
-186744	Subj
-186753	Subj
-186763	Subj
+186691	Pred
+Subj
+186709	Subj
+186713	Cmpl
+186716	Subj
+Objc
+186719	Subj
+186730	Subj
+186732	Pred
+186736	Objc
+186755	Subj
+186760	Subj
 186765	Subj
+186777	Subj
+186781	Pred
+186786	Objc
+186792	Objc
+186814	Subj
+186816	Objc
+186820	Objc
+186822	Subj
+186828	Objc
+186834	Subj
+186838	Subj
+186851	Subj
+186855	Subj
+186874	Cmpl
+186882	Subj
+186913	Subj
+186926	Subj
+186936	Objc
+186946	Subj
+186957	Objc
+186962	Subj
+186984	Subj
+186998	Subj
+187020	Subj
+187028	Subj
+187038	Subj
+187045	Subj
+Cmpl
+187049	Pred
 Subj
-186769	Subj
-186785	Objc
-186791	Subj
-186794	Objc
-186798	Objc
-186800	Pred
-186805	Pred
-186808	Subj
-186818	Subj
-186820	Subj
-186840	Subj
-186842	Subj
-186844	Subj
-186847	Subj
+187054	Pred
+187072	Pred
 Objc
-186850	Objc
-186858	Subj
-186861	Objc
-186869	Subj
-Objc
-186875	Objc
-186878	Pred
-186881	Subj
-186883	Subj
-186885	Subj
-186889	Objc
-186892	Subj
-186894	Objc
-186902	Subj
-186904	Pred
-186908	Subj
-186921	Subj
-186923	Objc
-186925	Subj
-Subj
-186930	Objc
-186939	Cmpl
-186943	Objc
-186945	Objc
-186948	Subj
-186950	Subj
-186959	Subj
-186967	Objc
-186971	Subj
-186986	Objc
-186991	Subj
-187003	Subj
-187006	Subj
-187017	Objc
-187021	Subj
-187032	Subj
-187064	Objc
-Subj
-187067	Objc
-187078	Subj
-187083	Subj
-187098	Objc
-Objc
-187102	Subj
-187109	Subj
-187114	Objc
-187119	Subj
-187122	Subj
-187127	Subj
-187130	Subj
+187080	Cmpl
+187084	Cmpl
+187086	Pred
+187095	Pred
+187104	Subj
+187116	Pred
+187118	Subj
+187129	Pred
 187132	Subj
-187141	Subj
-187156	Subj
-Objc
-187161	Subj
-187167	Objc
-187169	Pred
-187173	Subj
-187181	Subj
-187185	Subj
-Objc
-187200	Objc
-187206	Objc
-187210	Subj
-Objc
-Subj
-187214	Pred
+187137	Subj
+187153	Subj
+187158	Subj
+187163	Objc
+187169	Subj
+187179	Subj
+187190	Subj
+187207	Subj
 187218	Subj
-187224	Pred
-187248	Subj
-187255	Pred
-187257	Pred
-187259	Subj
-187261	Pred
-187265	Objc
-187268	Pred
-Pred
-187276	Cmpl
-187278	Subj
-187287	Cmpl
-187292	Subj
-187296	Objc
-187299	Objc
-187301	Pred
-187305	Subj
-187329	Subj
-187332	Subj
-187357	Cmpl
-187361	Objc
-187364	Objc
-187377	Objc
-187381	Subj
-187384	Subj
-187386	Objc
-187388	Subj
+187244	Objc
+187256	Objc
+187285	Objc
+187290	Subj
+187296	Pred
+187298	Objc
+187304	Pred
+Subj
+187310	Subj
+187313	Objc
+187318	Pred
+187325	Cmpl
+187331	Subj
+187338	Subj
+187350	Subj
+187370	Subj
+187386	Subj
 187392	Subj
-Pred
-187395	Subj
-Pred
-Pred
-Objc
-187407	Pred
-187410	Objc
-187415	Subj
-187422	Subj
-187424	Objc
-187429	Subj
-187431	Subj
-Objc
-187434	Objc
-187441	Pred
-187447	Objc
-187449	Cmpl
-Subj
-Objc
+187399	Pred
+187401	Subj
+187442	Subj
 187453	Subj
-187456	Subj
-Subj
-187460	Subj
-187463	Objc
-Subj
-187466	Objc
-187468	Subj
-187470	Objc
-187472	Pred
-187477	Subj
-187481	Subj
-187491	Subj
-187494	Pred
+187458	Objc
+Pred
+187461	Subj
+187476	Subj
+Pred
+187482	Subj
+187485	Subj
+187487	Subj
+187494	Subj
 187497	Subj
-187499	Subj
-Objc
-Subj
-187505	Objc
 187507	Subj
-Objc
-Subj
-187517	Subj
-187522	Pred
-187524	Objc
-187529	Subj
-187531	Objc
-187536	Cmpl
-Objc
-187557	Subj
-187561	Subj
-187564	Subj
-187567	Objc
+187513	Objc
+187519	Subj
+187525	Subj
+187536	Subj
+187544	Subj
+187548	Pred
+187554	Subj
+187562	Pred
+187572	Objc
 187574	Subj
-187580	Objc
-Subj
-187585	Objc
-187588	Subj
-187592	Objc
-187596	Objc
+187586	Cmpl
+Objc
+187593	Pred
+187599	Subj
 187601	Subj
-187606	Subj
-187609	Cmpl
-Objc
-Pred
-187617	Subj
-187626	Objc
-187634	Subj
-187637	Subj
-187646	Subj
-187651	Pred
-187656	Pred
-Pred
-Objc
-187672	Subj
-187676	Subj
-Subj
-187685	Subj
-187687	Subj
-Objc
-187691	Objc
-187707	Subj
-187716	Objc
-Subj
-187720	Subj
-187724	Subj
+187611	Cmpl
+187622	Objc
+187626	Subj
+187641	Subj
+187649	Objc
+187663	Subj
+187687	Objc
+187689	Objc
+187700	Pred
+187715	Subj
+187725	Subj
 187727	Objc
-187729	Objc
-187732	Subj
-187741	Objc
-Objc
-187750	Objc
-187752	Subj
-187759	Subj
-187761	Objc
-187763	Objc
-187765	Subj
-187768	Objc
+187740	Subj
+187747	Pred
+187749	Subj
+Pred
+Subj
+187756	Objc
+187764	Objc
+Subj
 187770	Objc
-Subj
-Subj
-187777	Pred
-187792	Subj
-187799	Objc
-187801	Cmpl
-187805	Subj
-Subj
-187811	Objc
-Subj
+187785	Subj
+187789	Subj
+187796	Subj
+187799	Subj
+187808	Subj
 187817	Objc
-Objc
-187822	Objc
-Objc
-187825	Subj
-Objc
-187828	Subj
-Pred
-187843	Subj
+187822	Subj
+187826	Cmpl
+187831	Cmpl
+187840	Subj
+187848	Subj
+187869	Cmpl
+187872	Subj
+187875	Subj
+187879	Subj
+187893	Subj
+187899	Subj
+187910	Cmpl
 Subj
-187846	Pred
+187917	Cmpl
+187920	Objc
+187935	Subj
+187938	Objc
+187945	Cmpl
 Objc
-187851	Cmpl
-187854	Subj
-187873	Subj
-187876	Subj
+187951	Cmpl
+187954	Objc
+187957	Cmpl
+187959	Objc
 Cmpl
-Subj
-187883	Objc
-Objc
-187886	Objc
-Objc
-187898	Subj
-187905	Subj
-187913	Objc
-Subj
-Subj
-187922	Objc
-Objc
-187926	Objc
-187932	Objc
-Subj
-187941	Subj
-Objc
-Subj
-187950	Subj
-Objc
-187955	Subj
-187957	Pred
-Objc
-187964	Objc
-187969	Subj
-187981	Cmpl
-187983	Subj
-187991	Pred
+187962	Objc
+Cmpl
+187976	Objc
+187988	Objc
+187993	Objc
 187997	Objc
+188002	Objc
+188008	Objc
+188011	Objc
+188027	Subj
+188038	Objc
+188045	Objc
+188052	Objc
+188059	Objc
+188062	Cmpl
+188065	Objc
+188072	Cmpl
 Subj
-188004	Cmpl
-188012	Cmpl
-188018	Subj
-Objc
-188038	Subj
-188041	Pred
-188045	Cmpl
-188048	Subj
-188055	Subj
-188065	Cmpl
-188067	Subj
-188069	Subj
+188088	Pred
+188092	Objc
+188107	Subj
+188110	Objc
+188117	Objc
+188120	Cmpl
+188123	Objc
+188130	Cmpl
 Subj
-Subj
-Pred
-188075	Objc
-Subj
-188079	Subj
-188081	Objc
-188084	Objc
-188087	Subj
-188089	Subj
-Objc
-188092	Subj
-188098	Objc
-188103	Objc
-188112	Subj
-Subj
-188120	Objc
-188125	Subj
-Objc
-188132	Objc
-Objc
-188135	Objc
-188137	Objc
-188145	Subj
-188156	Objc
-Subj
-Objc
-188160	Objc
-188164	Objc
+188146	Pred
+188150	Objc
+188166	Subj
 188169	Objc
-Subj
-188174	Objc
-188176	Objc
-188178	Subj
-Subj
-188183	Subj
-188187	Objc
-188190	Pred
-Subj
-188200	Objc
-188208	Subj
+188178	Objc
+188180	Pred
+188198	Objc
 188210	Objc
-188212	Subj
 188215	Subj
-Objc
-188221	Objc
-188230	Objc
-188232	Objc
-Subj
-188240	Subj
-Objc
-188243	Objc
-Objc
-188246	Subj
-188249	Pred
-Objc
-188257	Subj
-188265	Objc
-Subj
-188270	Pred
-188273	Subj
-188277	Subj
-188279	Objc
-188283	Objc
-188286	Subj
-188295	Pred
-188305	Subj
-Cmpl
-Cmpl
-188309	Subj
-188311	Subj
-188313	Subj
-188318	Objc
-188322	Subj
-188324	Objc
-188328	Subj
+188221	Cmpl
+188239	Subj
+188242	Objc
+188247	Cmpl
+188252	Subj
+188255	Objc
+188266	Objc
+188273	Objc
+188278	Cmpl
+188290	Subj
+188292	Objc
+188299	Objc
+188314	Pred
 188330	Subj
-Cmpl
-188333	Subj
-188337	Subj
-Objc
-188343	Objc
-188348	Subj
-Subj
-188356	Subj
-Objc
-Subj
-188362	Objc
-188366	Subj
-188373	Objc
-188379	Pred
-188390	Objc
-188393	Subj
-188398	Subj
-188400	Pred
-188403	Subj
-Subj
-188410	Objc
-Subj
-188416	Objc
-Cmpl
-188420	Objc
-188423	Objc
-Objc
-188427	Subj
+188345	Subj
+188367	Subj
+188374	Objc
+188379	Subj
+188383	Objc
+188393	Objc
+188402	Objc
+188411	Subj
+188414	Cmpl
+188431	Objc
+188435	Cmpl
+188446	Cmpl
+188451	Objc
 Pred
-Objc
-188439	Objc
-188447	Pred
-188454	Objc
+188456	Objc
 Pred
-188458	Subj
 188460	Objc
-188466	Pred
-Subj
-Subj
-Cmpl
-Subj
-188472	Objc
-188474	Subj
-188480	Cmpl
-188485	Objc
-188499	Subj
-188502	Subj
-188523	Subj
-Subj
-188528	Pred
-Subj
-188536	Pred
-188538	Subj
+188464	Objc
 Pred
-Objc
-188545	Subj
-188547	Pred
+188476	Cmpl
 Subj
-Subj
-Objc
-188553	Objc
-188555	Objc
-188567	Subj
-188575	Objc
-188580	Objc
-Cmpl
-Objc
-188590	Subj
-188619	Subj
-Subj
-Subj
-188625	Pred
-Subj
-188633	Subj
-Objc
-188637	Subj
-188639	Subj
-188643	Subj
-Subj
-188648	Objc
-188653	Subj
-188656	Subj
-Subj
-188661	Subj
-188664	Objc
-188678	Subj
-188685	Subj
-188691	Subj
-Subj
-188695	Subj
-Subj
-188700	Subj
-Objc
-188703	Subj
-188717	Subj
-188719	Subj
-188728	Subj
-188731	Objc
-188734	Objc
-188736	Subj
-188739	Objc
-Cmpl
-188743	Pred
-188754	Subj
-188756	Objc
-188759	Subj
+188483	Subj
+188494	Subj
+188496	Pred
+188500	Pred
+188505	Subj
+188519	Subj
+188523	Cmpl
+188526	Cmpl
+188531	Cmpl
+188544	Cmpl
+188548	Cmpl
+188585	Cmpl
+188591	Objc
 Pred
+188597	Objc
 Pred
+188602	Objc
+188611	Objc
+188614	Subj
+188620	Subj
+188638	Objc
+188641	Cmpl
+188645	Cmpl
+188651	Cmpl
+188659	Cmpl
+188663	Subj
+188669	Subj
+188682	Subj
+188685	Objc
+188693	Cmpl
+188700	Pred
+188705	Subj
+188710	Subj
+188746	Pred
+188750	Objc
 188767	Subj
-188777	Cmpl
-Pred
-188783	Subj
-188785	Objc
-188789	Subj
-188791	Subj
-Objc
-188794	Subj
-188799	Objc
-188807	Subj
-188811	Objc
-Objc
-Objc
-188816	Subj
-188823	Pred
+188774	Subj
+188792	Subj
+188794	Objc
+188806	Subj
+188810	Subj
+188815	Pred
+188818	Subj
 188825	Subj
-188827	Objc
-188832	Subj
-188839	Subj
-Subj
-188860	Subj
-188864	Subj
-188867	Pred
-188870	Subj
-188872	Subj
-188880	Subj
-188891	Subj
-188898	Objc
-188903	Objc
-188905	Subj
-Cmpl
-188909	Objc
+188830	Cmpl
+188833	Subj
+188837	Cmpl
+188839	Objc
+188841	Cmpl
+188844	Objc
+188854	Objc
+188861	Objc
+188868	Subj
 Objc
+188885	Objc
+188889	Cmpl
+188893	Subj
+188906	Subj
+188908	Objc
+188910	Subj
+188933	Objc
+188935	Cmpl
+188937	Subj
 Cmpl
-188913	Subj
+188940	Objc
+Subj
+188944	Cmpl
 Objc
-188921	Objc
+188953	Objc
+188955	Objc
+188966	Subj
+188976	Cmpl
+188978	Objc
+188981	Subj
+188997	Cmpl
 Subj
-188929	Subj
-Pred
-188934	Subj
-188940	Pred
-188950	Pred
-188953	Subj
-Cmpl
-188961	Objc
-188963	Subj
-188969	Subj
-188974	Subj
-Pred
-188980	Subj
-188982	Cmpl
-188994	Objc
-Objc
-189002	Objc
-Pred
-189006	Cmpl
-189010	Cmpl
+189002	Subj
+189007	Pred
+189013	Objc
+189025	Subj
+189030	Cmpl
 Subj
-189017	Pred
-189020	Subj
-189024	Subj
-189030	Objc
-Subj
-189034	Objc
-189038	Subj
-189042	Subj
-189044	Objc
-189046	Objc
+189036	Objc
+189039	Subj
+189052	Subj
+189056	Cmpl
 189058	Subj
-189060	Subj
-189062	Subj
+189064	Objc
+189070	Cmpl
+Subj
+189075	Subj
+189078	Subj
+189087	Objc
+189095	Subj
 Objc
-189080	Objc
-189083	Subj
-Objc
-189089	Objc
+189098	Subj
+189112	Subj
+189122	Subj
+189130	Pred
+189136	Subj
+189146	Objc
+189149	Subj
+189153	Cmpl
 Subj
-189094	Pred
+189158	Subj
+189160	Subj
+189163	Objc
+189169	Cmpl
+189175	Subj
+189177	Pred
+189184	Objc
+189188	Cmpl
+189194	Subj
 Subj
-189097	Subj
-189103	Subj
-189105	Pred
-189107	Subj
-Objc
-189120	Subj
-189125	Subj
-Objc
-189130	Subj
-Pred
+189219	Cmpl
+189246	Objc
+189277	Cmpl
 Subj
-189134	Objc
-Cmpl
+189281	Subj
+189298	Objc
+189303	Subj
+189315	Subj
+189325	Subj
+189329	Cmpl
+189331	Subj
+189336	Subj
+189340	Cmpl
 Subj
-189140	Objc
-Pred
-189149	Objc
+189346	Cmpl
+189356	Subj
+189360	Objc
+189362	Cmpl
 Subj
-189153	Objc
-189156	Objc
-189162	Pred
-Objc
-189170	Objc
-189176	Pred
-189179	Objc
-189183	Subj
-189185	Objc
-189202	Subj
-Pred
-Objc
-189207	Subj
-189214	Subj
-189236	Subj
-189238	Subj
-Pred
-189245	Objc
-Subj
-189250	Objc
-189252	Objc
-189265	Objc
-189269	Objc
-189276	Subj
-189283	Objc
-189291	Objc
-189296	Subj
-189299	Cmpl
-189304	Objc
-Cmpl
-189308	Objc
-189310	Objc
-189318	Objc
-Subj
-189331	Objc
-189333	Objc
-189338	Subj
-189345	Pred
-189348	Objc
-189352	Subj
-Cmpl
-189360	Pred
 189368	Subj
-189371	Objc
-189377	Subj
+189376	Objc
 189379	Subj
-189384	Subj
-189395	Subj
-189397	Subj
-Subj
-189409	Subj
-189412	Objc
-189415	Subj
-Objc
-189420	Subj
-189423	Objc
-189428	Subj
-189431	Pred
-189435	Subj
-Objc
-189442	Subj
-189448	Subj
-189461	Objc
-189466	Subj
-189475	Subj
-189477	Subj
-189479	Objc
+189392	Subj
+189400	Pred
+189403	Cmpl
+189433	Cmpl
+Pred
+189436	Subj
+189467	Pred
+189473	Subj
+189481	Subj
+189485	Subj
 189495	Subj
-189498	Pred
-189500	Pred
-189502	Subj
-189514	Subj
-189520	Subj
-189525	Subj
-Objc
-189528	Subj
-189530	Objc
-Objc
-Pred
-189534	Subj
-189537	Pred
-189544	Objc
-189548	Subj
-Pred
+189499	Cmpl
+189521	Subj
+189525	Pred
+Subj
+189530	Pred
+189544	Subj
+189548	Objc
+189551	Subj
+189560	Subj
 189565	Subj
-189569	Objc
+189573	Objc
+189580	Objc
+189596	Cmpl
+189603	Subj
+189607	Subj
+189626	Objc
+189629	Subj
+189643	Subj
+189667	Objc
+189669	Cmpl
 Objc
-189572	Objc
-189574	Objc
-Objc
-189578	Subj
-189585	Objc
-189591	Objc
-189603	Cmpl
-189609	Objc
-189613	Cmpl
-189618	Objc
-Subj
-189621	Cmpl
-Objc
-189629	Objc
-189632	Subj
-189649	Objc
-189652	Objc
-Cmpl
-189660	Subj
-189668	Objc
+189672	Objc
 189675	Subj
-189680	Subj
-189684	Subj
-Objc
-189689	Objc
-189692	Cmpl
-189695	Objc
-189697	Objc
-189710	Subj
-189712	Subj
-189717	Subj
-189721	Subj
-189727	Objc
+189678	Objc
+189690	Objc
 Subj
-189731	Objc
+189696	Cmpl
+189705	Objc
+189715	Objc
+189718	Subj
+189726	Objc
+189730	Objc
+189737	Objc
+189745	Objc
+189752	Cmpl
 Subj
-189736	Subj
-189739	Subj
-Objc
-189742	Objc
-189782	Subj
-189784	Objc
-189791	Objc
-189798	Objc
-189801	Objc
-189805	Objc
-189812	Objc
-Objc
-189816	Subj
-189819	Objc
-189828	Objc
-189834	Objc
-189838	Objc
-189841	Objc
-189848	Subj
-Objc
-189851	Cmpl
-189857	Objc
-189869	Subj
-189873	Pred
-189876	Subj
-189884	Subj
-189893	Objc
-189900	Subj
-189905	Cmpl
-189909	Objc
-189911	Subj
-189932	Cmpl
+189757	Objc
+189769	Subj
+189774	Objc
+189785	Objc
+189792	Cmpl
+189794	Objc
+189804	Subj
+189819	Subj
+189822	Cmpl
+189836	Objc
+189850	Objc
+Subj
+189858	Subj
+189866	Subj
+189872	Objc
+189877	Objc
+189896	Subj
+189901	Objc
+189924	Objc
 189938	Objc
-Objc
-Subj
-189943	Subj
-189951	Subj
-189953	Objc
-Cmpl
+189945	Objc
+189950	Subj
 189957	Subj
-189959	Pred
-189962	Objc
-189965	Cmpl
-189971	Subj
-189973	Subj
+189959	Subj
+189963	Objc
+189979	Subj
 189983	Cmpl
-Subj
+Objc
 189986	Objc
-189988	Subj
+Subj
 189990	Subj
-Objc
-189993	Objc
-189995	Cmpl
-Objc
-190000	Objc
-190006	Objc
-Subj
-Subj
-Subj
-190012	Subj
+189996	Subj
+190000	Cmpl
+190002	Objc
+190011	Cmpl
 190014	Subj
-190016	Subj
+190027	Cmpl
 Subj
-190020	Objc
+190031	Subj
+190035	Cmpl
+190040	Subj
+190067	Subj
+190071	Objc
+190080	Objc
+190087	Objc
+190090	Subj
+190093	Subj
+190097	Pred
+190111	Objc
 Subj
-190023	Objc
-190029	Objc
-190049	Objc
+190117	Cmpl
+190119	Pred
+190123	Objc
 Subj
+190138	Subj
+190142	Subj
+190146	Pred
+190152	Subj
+190161	Objc
+190171	Objc
+Subj
+190175	Cmpl
+190178	Subj
+190180	Pred
+190195	Objc
+190206	Cmpl
+190210	Subj
+190213	Pred
+190217	Subj
+190225	Objc
 Objc
-Objc
-190054	Subj
-Objc
-190059	Subj
-190061	Subj
-190063	Pred
-190065	Cmpl
+190236	Objc
+190241	Subj
+190245	Subj
+190248	Objc
+190257	Subj
+190261	Objc
+190267	Subj
+190270	Objc
+190272	Subj
+190292	Objc
+190295	Objc
+190308	Objc
+190313	Objc
+190318	Cmpl
+190326	Objc
+190329	Subj
+190332	Pred
+190336	Subj
+190340	Objc
+190352	Subj
+190357	Objc
+190364	Objc
+190371	Pred
+190375	Objc
+190382	Objc
+190398	Subj
+190403	Pred
+190435	Objc
+190444	Objc
+190456	Cmpl
 Subj
-Objc
-190075	Objc
-190079	Subj
-190088	Subj
-190092	Subj
-190104	Subj
-Objc
-190109	Objc
-190117	Objc
 Subj
-190122	Pred
-190125	Objc
-190129	Subj
-190140	Objc
-190145	Objc
+190470	Objc
 Subj
-190148	Subj
-190154	Subj
-190163	Subj
-190166	Objc
-Objc
-Subj
-190174	Objc
-190176	Objc
-190184	Subj
-Subj
-190188	Subj
-190197	Subj
-190200	Subj
-190202	Pred
-190213	Objc
-190222	Objc
-190229	Pred
-Objc
-190232	Objc
-190234	Cmpl
-190240	Pred
-190247	Objc
-190258	Objc
-Pred
-190264	Subj
-190269	Pred
-190271	Pred
-190275	Subj
-Objc
-190279	Subj
-190281	Cmpl
-Subj
-190284	Objc
-190288	Objc
-190291	Subj
-190294	Subj
-Pred
-190304	Objc
-190314	Subj
-190330	Subj
-Cmpl
-Subj
-Objc
-190335	Subj
-190337	Pred
-190348	Objc
-Subj
-190354	Objc
-190359	Subj
-190361	Subj
-190364	Cmpl
-Pred
-Subj
-190372	Objc
-190375	Pred
-190377	Subj
-Objc
-190383	Objc
-Objc
-Subj
-Objc
-Subj
-190394	Pred
-190398	Pred
-190404	Subj
-190406	Subj
-190408	Objc
-190411	Pred
-190413	Objc
-190421	Subj
-190425	Objc
-190427	Objc
-190430	Objc
-190441	Objc
-190445	Objc
-190448	Objc
-190452	Objc
-190457	Subj
-Cmpl
-190461	Objc
-190464	Subj
-190466	Subj
-Pred
-190471	Objc
-190473	Objc
 190475	Subj
-190480	Objc
-Cmpl
-190490	Subj
+190477	Pred
+190484	Subj
+190489	Subj
+190496	Subj
+190504	Objc
+190508	Cmpl
 Subj
-190495	Subj
-190497	Pred
-190506	Objc
-190510	Objc
-190517	Subj
-190519	Objc
-190523	Subj
-190533	Subj
-Subj
-190537	Subj
+190514	Objc
+Objc
+190520	Cmpl
+190530	Subj
+190539	Subj
 190543	Objc
-190546	Objc
-190551	Subj
-190555	Subj
-190558	Objc
-Objc
-190562	Pred
+190545	Cmpl
+190549	Objc
+190554	Objc
+190559	Pred
+190562	Subj
+190564	Cmpl
 Subj
-190574	Subj
-190577	Subj
+190568	Objc
+190571	Cmpl
+190577	Pred
+190585	Objc
+190588	Subj
+190598	Subj
+190604	Pred
+190612	Objc
+190631	Objc
+190636	Objc
+190639	Objc
+190646	Subj
+190650	Cmpl
 Objc
-190580	Subj
-Objc
-Objc
-190584	Objc
-190586	Objc
-190589	Subj
-190592	Subj
-190598	Objc
-190607	Subj
-190613	Objc
-190615	Cmpl
-Objc
-190622	Pred
-190625	Subj
-190631	Subj
-190633	Objc
-190635	Subj
-190637	Subj
-190648	Subj
-190650	Subj
-190657	Subj
+190660	Cmpl
+Subj
 190664	Objc
-190666	Subj
+190668	Cmpl
 Subj
-190669	Subj
-190671	Subj
-Subj
-Objc
-Cmpl
-Subj
+190672	Objc
+190678	Pred
 190680	Subj
 190682	Subj
+190685	Objc
+190690	Subj
+190698	Subj
+190702	Objc
+190706	Subj
+190709	Objc
+190711	Objc
+190720	Pred
+190729	Subj
+190733	Subj
+190739	Subj
+190757	Cmpl
 Objc
-190685	Pred
-Subj
-190688	Pred
-190693	Objc
-190696	Objc
-190707	Subj
-190712	Objc
-190714	Subj
-Subj
+190761	Objc
+190770	Subj
+190778	Objc
+190790	Objc
+190797	Objc
 Objc
-190749	Subj
-190751	Objc
-190753	Subj
-Pred
-190757	Subj
-190762	Subj
-190768	Subj
-Subj
-190771	Pred
+190802	Cmpl
+190805	Objc
+190818	Objc
+190832	Objc
+190846	Objc
+190861	Objc
+190863	Objc
 Objc
-190775	Objc
-190781	Objc
-190790	Subj
-190797	Pred
-190801	Objc
-190810	Pred
-190813	Objc
-190820	Objc
-190822	Objc
-190832	Subj
-190837	Objc
+190869	Objc
 Objc
-190844	Objc
-190849	Objc
-190853	Objc
-190860	Objc
-190867	Subj
-190870	Objc
-190880	Subj
-190882	Objc
+190877	Objc
 190885	Objc
-190888	Objc
-190895	Objc
-190898	Objc
-190901	Pred
-Subj
-190904	Objc
-190907	Objc
-190911	Subj
-190918	Objc
-190929	Objc
-190931	Objc
-190934	Subj
-190936	Objc
+190889	Pred
 Objc
-190939	Cmpl
-190943	Objc
-190948	Objc
-190955	Objc
-190958	Objc
-190968	Pred
-190978	Objc
-190981	Objc
-190984	Subj
-190987	Objc
-Subj
-190991	Subj
-190996	Subj
-Objc
-191004	Subj
-191011	Subj
-191020	Subj
-Subj
-191024	Subj
-191027	Objc
-Subj
-191034	Objc
-Subj
-191037	Pred
-191039	Pred
-191042	Objc
-191044	Objc
-191049	Objc
-191051	Subj
-191056	Objc
-191058	Subj
-Objc
-191064	Subj
-Objc
-191071	Objc
-191080	Subj
-Subj
-191083	Subj
-191089	Objc
-191092	Objc
-191099	Objc
-191102	Objc
-191109	Pred
-191112	Subj
-Subj
-191115	Subj
-191117	Objc
-191120	Subj
-191124	Subj
-191128	Objc
-Subj
-191132	Objc
-191135	Objc
-191148	Subj
-191153	Subj
-Cmpl
-191162	Objc
-191166	Subj
-191169	Pred
-191174	Subj
+190894	Objc
+190907	Subj
+190910	Pred
+190915	Cmpl
+190917	Objc
+190930	Objc
+190932	Objc
+190938	Objc
+190942	Objc
+190953	Objc
+190960	Subj
+190975	Subj
+190978	Subj
+190983	Subj
+190991	Objc
+190993	Objc
+191002	Objc
+191013	Objc
+191015	Pred
+191029	Subj
+191041	Objc
+191043	Objc
+191047	Pred
+191073	Objc
+191077	Pred
+191085	Subj
+191096	Objc
+191103	Subj
+191126	Subj
+191137	Subj
+191148	Objc
+191150	Subj
+191159	Objc
+191161	Subj
+191165	Subj
+191172	Objc
 191178	Cmpl
+191180	Objc
 Subj
-191181	Objc
-191187	Pred
-191201	Pred
-191203	Subj
-Objc
+191190	Subj
+191192	Objc
+Subj
+191203	Objc
 191208	Subj
-191210	Subj
-191213	Objc
-191217	Objc
-191223	Subj
-191229	Pred
-Objc
-Objc
-191233	Subj
-191259	Subj
-191263	Objc
-191265	Objc
-Objc
-191270	Pred
-191273	Objc
-191275	Objc
-191280	Pred
-191283	Objc
-191290	Subj
-191294	Subj
-191296	Objc
-191303	Objc
-191307	Objc
-Objc
-191311	Subj
-191320	Subj
-Objc
-Subj
-191324	Subj
-191326	Subj
-Subj
-191329	Objc
-191331	Subj
-191333	Subj
-191343	Objc
-191345	Subj
-Objc
-191354	Objc
-191356	Subj
-191358	Subj
-191360	Subj
-191363	Objc
-191366	Subj
-Objc
-191370	Subj
-Subj
-191373	Subj
-191376	Pred
-191379	Subj
-191381	Subj
-Objc
-Subj
-Subj
-191390	Objc
-191394	Subj
-Subj
-Subj
-191398	Subj
-191405	Subj
-Objc
-191411	Subj
-191413	Objc
+191226	Subj
+191231	Subj
+191236	Subj
+191241	Subj
+191275	Cmpl
+191286	Objc
+191300	Pred
+191304	Subj
+191307	Pred
+191316	Subj
+191318	Objc
+191327	Objc
 Pred
-Objc
-191420	Objc
-Cmpl
-191425	Objc
-191428	Subj
-191432	Objc
-191435	Cmpl
+191357	Subj
+191368	Subj
+Pred
+191375	Cmpl
+191378	Subj
+191380	Cmpl
+191384	Objc
+191392	Subj
+191399	Objc
+191402	Subj
+191406	Objc
+191414	Objc
+191424	Objc
+191433	Objc
+191468	Subj
+191470	Pred
+191490	Subj
+191507	Subj
+191520	Subj
+191524	Objc
+191527	Cmpl
+191538	Subj
+191543	Pred
+191548	Cmpl
 Subj
-Objc
-191439	Objc
-191446	Objc
-191449	Objc
-191451	Subj
-191453	Subj
-Objc
-191463	Objc
-191466	Subj
-Objc
-191469	Objc
-191480	Objc
-191483	Objc
-Objc
-191488	Objc
-191495	Objc
-191504	Objc
-191510	Cmpl
-191514	Subj
-191516	Objc
-191521	Subj
-191527	Objc
-Cmpl
-Objc
-191531	Pred
-191533	Pred
-Subj
-191547	Cmpl
-191550	Subj
-Objc
-191564	Subj
-191566	Cmpl
-191575	Objc
-191579	Subj
-191581	Subj
-Subj
-191587	Objc
-191589	Subj
-191595	Objc
-191603	Objc
-191605	Objc
-191614	Subj
-191616	Subj
-191618	Subj
-Objc
-191640	Subj
-Objc
-191650	Subj
-Objc
-191655	Objc
-191657	Cmpl
-Subj
+191553	Objc
+191558	Subj
+191562	Objc
+191566	Objc
+191597	Objc
+191602	Subj
+191606	Subj
+191617	Objc
+191627	Subj
+191632	Pred
+191636	Subj
+191641	Pred
+191658	Pred
 191663	Subj
-191668	Objc
-191675	Subj
-191678	Subj
-Cmpl
+191667	Cmpl
+191672	Subj
+191682	Pred
+191689	Objc
+191698	Cmpl
+191720	Objc
+191724	Cmpl
+191742	Cmpl
+191749	Subj
+191751	Objc
+191754	Subj
+191758	Objc
+191765	Objc
+191768	Cmpl
 Subj
-Objc
-191697	Subj
-Subj
-191701	Subj
-191704	Pred
-191714	Subj
-Subj
-191718	Objc
-Subj
-191727	Subj
-Cmpl
-Cmpl
-191733	Subj
-191738	Subj
-Objc
-191741	Subj
-191745	Subj
-191748	Objc
-191750	Subj
-Cmpl
-Objc
-191755	Subj
-Pred
-191759	Pred
-191766	Objc
-191768	Objc
-Objc
-191772	Objc
-191776	Subj
-191778	Subj
-Objc
-191781	Objc
-191789	Subj
-Objc
+191776	Cmpl
+191789	Objc
+191793	Subj
 191795	Subj
-191804	Subj
-Objc
-191818	Subj
+191807	Cmpl
+191810	Objc
+191821	Objc
+191824	Objc
+191828	Cmpl
+191834	Subj
+191842	Objc
 Subj
-Subj
-191825	Subj
-191830	Objc
-191832	Subj
-Objc
-191835	Objc
-Cmpl
-191840	Subj
-Objc
 191848	Subj
+191854	Subj
+191857	Objc
 Objc
-191854	Pred
-191868	Subj
-191885	Subj
-191892	Subj
-191897	Objc
-191899	Objc
-191902	Objc
-191928	Subj
-191934	Subj
-191945	Objc
-191971	Objc
-191977	Objc
-191986	Subj
-191991	Subj
-191994	Subj
-191997	Subj
-191999	Objc
-192001	Subj
-192005	Objc
+191860	Subj
+191863	Objc
+191869	Subj
+191884	Subj
+191903	Cmpl
 Subj
-192010	Subj
-Cmpl
-192017	Subj
-192025	Objc
+191909	Objc
+191911	Subj
+191916	Subj
+191920	Cmpl
+191923	Cmpl
+Subj
+191940	Objc
+191946	Objc
+191967	Subj
+191970	Objc
+191972	Cmpl
+191975	Subj
+Pred
+191994	Pred
+192017	Objc
 192027	Subj
-192029	Cmpl
+192029	Objc
+192034	Pred
+192043	Objc
+192048	Objc
+192050	Objc
+192065	Objc
+192104	Objc
+192111	Subj
+192115	Objc
+192119	Objc
+192140	Subj
+192151	Pred
+192154	Objc
+192163	Subj
+192165	Objc
+192167	Subj
+192170	Objc
+192184	Subj
+192212	Subj
+192216	Subj
+192227	Subj
+192234	Subj
+192250	Subj
+192253	Objc
+192262	Pred
+192278	Pred
+192284	Subj
+192288	Objc
+192294	Subj
+192298	Subj
+192307	Objc
+192318	Subj
+192323	Subj
+192366	Pred
+192369	Cmpl
 Subj
-192037	Cmpl
-192047	Pred
-192051	Subj
-Objc
-192057	Subj
-192065	Subj
-Objc
-192075	Subj
-192081	Pred
-Pred
-Subj
-Subj
-192086	Subj
-192088	Subj
-Pred
-192098	Subj
-Subj
-192103	Subj
-192105	Subj
-192112	Objc
-192118	Subj
-Objc
-192123	Objc
-192126	Objc
-192129	Objc
-192134	Subj
-192136	Subj
-192138	Subj
-Subj
-192149	Subj
-192155	Subj
-192157	Subj
-Objc
-192160	Objc
-192165	Subj
-192171	Subj
-Subj
-Objc
-Objc
-192178	Objc
-Subj
-192182	Objc
-192186	Subj
-192191	Subj
-Objc
-192196	Subj
-Objc
-Pred
-192201	Subj
-192205	Objc
-192207	Subj
-Subj
-192213	Objc
-Objc
-192217	Objc
-Objc
-192221	Objc
-Objc
-192225	Objc
-192228	Objc
-192233	Objc
-Subj
-Subj
-192238	Subj
-192240	Objc
-Subj
-Objc
-192246	Subj
-192255	Subj
-Subj
-Objc
-192259	Objc
-192264	Subj
-Objc
-192271	Objc
-192273	Subj
-Subj
-192283	Subj
-Objc
-192287	Objc
-192289	Subj
-192301	Subj
-192305	Subj
-Objc
-Subj
-192312	Objc
-192333	Subj
-Objc
-192341	Subj
-Objc
-192344	Cmpl
-192351	Pred
-192354	Objc
-192365	Subj
-192367	Pred
-Subj
-Objc
-192378	Objc
-192381	Objc
-192385	Subj
+192379	Subj
+192381	Pred
 192387	Objc
-192397	Objc
-192409	Subj
-Objc
-Subj
-192424	Subj
-192429	Objc
-192434	Cmpl
-Subj
-192442	Objc
-192444	Objc
-192447	Objc
-192452	Subj
-192466	Pred
-192469	Objc
-192487	Subj
+192391	Objc
+192410	Subj
+192417	Objc
+192423	Objc
+192476	Objc
+192478	Objc
+192483	Subj
+192489	Pred
+192496	Subj
+192506	Subj
+192514	Objc
+192516	Objc
 Pred
-Cmpl
-Pred
-192495	Objc
-192500	Subj
-192505	Pred
+192519	Pred
+192528	Objc
 Subj
-192515	Objc
-192525	Objc
-192537	Objc
-192544	Subj
-192547	Cmpl
-192550	Objc
-Pred
-192555	Subj
+192540	Objc
+Subj
 192559	Subj
-192561	Subj
-192566	Objc
-192568	Subj
-192572	Subj
-192582	Objc
-192587	Subj
-192590	Objc
-192598	Subj
-192605	Subj
-192608	Objc
-192613	Objc
-192618	Subj
-192621	Subj
-192623	Objc
-192628	Subj
-192630	Objc
-192639	Objc
-Objc
-192645	Objc
-192647	Subj
-192653	Objc
-192656	Objc
-192660	Objc
-Objc
+192562	Subj
+192564	Pred
+192566	Subj
+Pred
+192574	Cmpl
+192586	Objc
+192589	Subj
+192630	Subj
+192641	Cmpl
+192648	Objc
+192650	Objc
+192655	Objc
 Subj
-192665	Pred
-192667	Objc
-192669	Objc
-Objc
-192673	Objc
-192679	Subj
+192661	Objc
+Subj
+192667	Subj
+192674	Objc
+192685	Subj
 192698	Objc
-192700	Objc
-Objc
-192705	Objc
-192707	Cmpl
-Objc
-192710	Pred
+192706	Objc
 192714	Subj
-192718	Subj
-192720	Objc
-192722	Subj
+192719	Objc
+192738	Objc
+192748	Objc
+192751	Cmpl
+192753	Subj
+192755	Objc
+192758	Cmpl
+192796	Objc
+192805	Subj
+192807	Objc
+192811	Cmpl
+192816	Objc
+192821	Objc
+192829	Cmpl
+192838	Subj
+192845	Objc
+192848	Objc
+192851	Cmpl
+192853	Cmpl
 Objc
-192726	Objc
-192730	Subj
-192733	Subj
-192735	Subj
-Objc
-192744	Objc
-192753	Objc
-192759	Objc
-192765	Objc
-Subj
-192772	Pred
-Subj
-192775	Subj
-Objc
-192779	Subj
-192782	Subj
-192785	Objc
-192790	Subj
-192793	Subj
-192797	Subj
-192802	Subj
-192807	Subj
-192810	Subj
-192815	Objc
-192818	Subj
-192820	Objc
-192823	Subj
-Subj
-192829	Subj
-192831	Objc
-192833	Objc
-192835	Subj
-Objc
-Subj
-192847	Objc
-Subj
-Subj
-192851	Subj
-Pred
-Objc
-192855	Pred
-Subj
-192860	Subj
-Pred
-192864	Subj
-192866	Subj
-192868	Pred
-192871	Objc
-Subj
-Pred
-192876	Subj
-Cmpl
+192858	Objc
+192860	Cmpl
+192872	Objc
+192874	Subj
 192880	Subj
-Subj
-192886	Subj
-192889	Pred
-192891	Subj
-192895	Subj
-192901	Objc
-192910	Subj
-192937	Objc
-192940	Subj
-192948	Subj
-Pred
-Pred
-192962	Subj
+192885	Objc
+192888	Objc
+192893	Subj
+192902	Pred
+192925	Pred
+192931	Subj
+192935	Subj
+192946	Cmpl
 Objc
-192965	Subj
-192969	Objc
-Subj
-192973	Subj
-Objc
-192977	Subj
-192979	Subj
-192981	Subj
-192984	Subj
-192991	Cmpl
-Subj
-192996	Pred
-Pred
-193007	Pred
-193011	Subj
-Pred
-Pred
-193028	Pred
-193031	Subj
+192956	Objc
+192966	Cmpl
+192973	Objc
+192976	Pred
+192981	Objc
+192985	Subj
+192991	Subj
+192994	Objc
+193000	Cmpl
+193005	Subj
+193012	Subj
+193029	Subj
 193033	Subj
-Subj
-Subj
-193040	Subj
-193051	Pred
-193053	Objc
-193056	Objc
-193061	Pred
-193064	Subj
-193067	Objc
-193069	Objc
-193079	Cmpl
+193036	Objc
+193046	Subj
+193061	Cmpl
+193063	Objc
+193072	Subj
+193074	Pred
+193076	Cmpl
+193080	Subj
+193090	Objc
 193101	Objc
-193115	Subj
-Subj
-Subj
-Subj
-Subj
-193132	Objc
-193135	Subj
-193144	Cmpl
-193160	Objc
-193164	Subj
-193169	Subj
+193103	Subj
+193111	Objc
+193118	Cmpl
+193121	Cmpl
+193125	Objc
+193144	Objc
+193153	Subj
+193156	Objc
 193173	Subj
-193176	Pred
-Subj
-193187	Pred
-Subj
-Subj
-193194	Subj
-193207	Pred
-193210	Subj
-Subj
-Pred
-193214	Subj
-Pred
+193184	Objc
+193202	Cmpl
+193204	Objc
+193208	Objc
+193212	Subj
 193221	Subj
-193251	Subj
-193257	Subj
+193238	Pred
+193241	Objc
+193243	Subj
+193261	Cmpl
+193277	Subj
+193281	Cmpl
+193283	Objc
+193296	Objc
+193298	Objc
+193316	Cmpl
+193334	Subj
+193344	Cmpl
 Subj
-Subj
-Subj
-Subj
-193264	Subj
-193273	Subj
-193289	Subj
-193298	Subj
-193301	Subj
-193304	Objc
-193311	Subj
-193315	Subj
-193321	Objc
-193323	Objc
-193325	Objc
-Cmpl
-Cmpl
-193330	Objc
-193332	Objc
-Cmpl
-Pred
-Pred
-Pred
-Pred
-193341	Cmpl
-Pred
-193349	Cmpl
-193355	Objc
-193361	Objc
-193363	Cmpl
-193365	Pred
-193368	Objc
-193370	Subj
-193374	Cmpl
-Objc
-193380	Subj
+193350	Subj
+193360	Subj
+193363	Pred
+193372	Objc
 193383	Subj
-193386	Pred
-193390	Subj
-193393	Subj
-193395	Cmpl
-193397	Subj
+193389	Subj
 193402	Subj
-Pred
-Subj
-193407	Pred
-193409	Subj
-193417	Cmpl
-Pred
-193430	Cmpl
-193438	Subj
 Objc
-193441	Objc
-Subj
-Subj
-193447	Objc
-193450	Subj
-Subj
-Subj
-193457	Subj
-193461	Subj
-Subj
-Subj
-Subj
-193468	Subj
-193471	Subj
-193475	Subj
-193479	Pred
-193482	Objc
-Subj
-193486	Objc
-Objc
-Subj
-193495	Subj
-193507	Pred
-193510	Pred
-193516	Cmpl
-193520	Subj
+193418	Subj
+193432	Subj
+193437	Subj
+193439	Objc
+193451	Subj
+193454	Objc
+193458	Subj
+193463	Subj
+193467	Objc
+193477	Subj
+193490	Subj
+193496	Objc
+193499	Objc
+193503	Subj
+193507	Cmpl
+193514	Subj
+193519	Cmpl
 193522	Objc
-193524	Objc
-Subj
-Pred
-193528	Subj
-193545	Subj
-Objc
-193552	Objc
-193555	Subj
-193561	Pred
-Objc
-193564	Pred
-Objc
+193524	Subj
+193526	Objc
+193553	Objc
+193561	Objc
 193567	Subj
-193570	Subj
-193573	Subj
-193577	Cmpl
-193580	Pred
-193583	Subj
-193585	Objc
-Pred
+193572	Cmpl
+193575	Pred
+193581	Cmpl
 Subj
-193589	Subj
-193591	Subj
-193593	Objc
-193597	Objc
-193609	Objc
-193613	Pred
-Objc
-193619	Subj
-193623	Pred
-Pred
-Pred
-Pred
+193593	Subj
+193602	Pred
+193605	Subj
+193625	Pred
 Subj
-193635	Subj
-193638	Objc
-193643	Cmpl
-Subj
-193647	Subj
-193662	Subj
-193666	Subj
-193669	Objc
-193679	Subj
-193681	Subj
-193685	Subj
-193688	Objc
-Subj
-193694	Objc
-193697	Objc
-193706	Subj
-Pred
-Pred
-Objc
-193715	Objc
-193718	Pred
-193745	Subj
-193749	Subj
-Pred
-193752	Subj
-193768	Subj
-Pred
-193773	Subj
-193775	Pred
-193778	Subj
-193784	Pred
-193789	Pred
+193630	Objc
+193635	Objc
+193641	Objc
+193644	Objc
+193651	Objc
+193665	Cmpl
+193670	Objc
+193674	Objc
+193678	Subj
+193683	Objc
+193700	Cmpl
+193704	Objc
+193711	Subj
+193718	Subj
+193727	Objc
+193733	Objc
+193736	Subj
+193753	Subj
 193791	Subj
-193795	Subj
-193800	Pred
-Subj
-193805	Objc
-Subj
-193813	Subj
+193795	Objc
+193803	Cmpl
+193809	Subj
+193811	Objc
+193820	Objc
 Objc
+193828	Objc
+193830	Subj
+193832	Objc
+193834	Subj
+193842	Objc
+193850	Subj
+193852	Pred
+193862	Objc
+193865	Objc
 Objc
-Objc
-Pred
-193819	Cmpl
-193822	Subj
+193877	Objc
+193879	Subj
+193887	Objc
+193890	Pred
+193896	Objc
+193900	Objc
+193902	Objc
+193907	Objc
+193912	Objc
 Cmpl
-193827	Objc
-193829	Subj
-193834	Objc
-193837	Cmpl
-Subj
+193916	Objc
+193935	Cmpl
 Objc
-Subj
-193847	Subj
-Objc
-Objc
-193853	Objc
-193856	Objc
-193870	Objc
-193873	Objc
-Pred
-193876	Pred
-Pred
-193881	Subj
-193885	Pred
-193889	Subj
-193892	Subj
-Pred
-193897	Objc
-193919	Pred
-Objc
-193922	Objc
-193925	Objc
-Cmpl
-193929	Pred
-193935	Subj
 193938	Subj
-193949	Pred
-Subj
-193957	Pred
-193966	Subj
+193940	Pred
 193970	Subj
-Subj
-193973	Subj
-Subj
-193978	Subj
-Objc
-193983	Subj
-193985	Objc
-Objc
+193973	Objc
+193982	Subj
 193988	Subj
-193990	Subj
-193996	Subj
-194002	Subj
-194012	Objc
-194016	Subj
-Objc
-194019	Subj
-194024	Subj
-194028	Subj
-Objc
-194032	Objc
-194034	Objc
+193990	Objc
+193994	Subj
+194001	Objc
+194017	Objc
+194031	Objc
 194036	Objc
-194038	Subj
-194040	Cmpl
-194048	Subj
-Subj
-Subj
-Subj
-194060	Subj
-194067	Subj
-194069	Objc
-194074	Subj
-Pred
-194077	Subj
-194079	Pred
-Subj
-194082	Pred
-194084	Subj
-194088	Pred
+194041	Cmpl
+194044	Subj
 Objc
-194091	Objc
-194093	Objc
-194095	Subj
-194097	Pred
-Subj
-Pred
-Subj
-Subj
-194103	Subj
-Subj
-194106	Subj
-194109	Pred
-194116	Objc
-Subj
-194120	Subj
-Objc
-194124	Objc
-Pred
-Pred
-Subj
-194129	Subj
-194131	Subj
-194139	Subj
-194144	Objc
-194150	Subj
+194049	Subj
+194057	Subj
+194064	Subj
+194071	Subj
+194079	Subj
+194092	Objc
+194097	Subj
+194108	Objc
+194117	Objc
+194123	Objc
+194131	Cmpl
+194136	Cmpl
+194150	Objc
 194153	Subj
-194156	Pred
-194159	Objc
-194172	Objc
-194175	Subj
-194178	Subj
-Subj
-Objc
+194168	Objc
+194175	Pred
 194182	Objc
-194185	Subj
-194187	Subj
-194189	Objc
-Pred
-194194	Subj
-Subj
-194202	Objc
-194204	Objc
-194209	Objc
-194218	Subj
-194225	Cmpl
-Pred
-194229	Subj
-Objc
-194233	Objc
-Subj
-194236	Objc
-194238	Subj
-Pred
-194241	Subj
-194243	Pred
-Objc
-194260	Subj
-Objc
-Cmpl
-194268	Objc
-194271	Objc
-194275	Objc
-194278	Objc
-194280	Objc
-194290	Cmpl
-Subj
-194293	Objc
-194301	Objc
-Subj
-Cmpl
-194307	Objc
-Objc
+194207	Objc
+194213	Subj
+194216	Cmpl
+194237	Objc
+194240	Cmpl
+194242	Pred
+194274	Subj
+194277	Objc
+194284	Subj
+194307	Subj
 194311	Subj
-194315	Objc
-Objc
-194318	Pred
-194321	Objc
-194323	Objc
-Pred
-194326	Objc
-194334	Objc
-Pred
-194338	Objc
-Cmpl
+194323	Subj
 194341	Objc
-Cmpl
-194344	Objc
-Cmpl
-194347	Objc
-Cmpl
-194350	Objc
-Objc
-Subj
-194358	Objc
-194360	Subj
-Cmpl
-Pred
-Subj
-Objc
-194367	Subj
-194369	Subj
-Subj
-Objc
-194374	Objc
-194379	Objc
+194345	Objc
+194348	Cmpl
+194368	Subj
+194378	Subj
+194383	Objc
 194385	Subj
-Objc
-194389	Subj
-194391	Objc
 194395	Objc
-Objc
-Objc
-Subj
-194401	Pred
-194403	Objc
-194405	Subj
-Objc
-194411	Subj
-Subj
-Objc
-Subj
-194416	Cmpl
-Cmpl
-194421	Subj
-194427	Subj
-194429	Subj
-194436	Objc
-194446	Objc
-194452	Subj
-194458	Pred
-Subj
-Pred
-194462	Objc
-194465	Subj
-Objc
-194470	Subj
-194472	Subj
-194484	Objc
-Subj
+194406	Objc
+194412	Subj
+194422	Objc
+194425	Subj
+194434	Subj
+194439	Objc
+194441	Objc
+194445	Subj
+194458	Objc
+194477	Subj
+194479	Objc
 194489	Objc
-194494	Objc
-194498	Subj
-194503	Pred
-194507	Objc
-194510	Subj
-194512	Objc
-194515	Cmpl
-194522	Objc
 Subj
-194530	Subj
-194542	Subj
-194545	Subj
-194548	Objc
-194555	Pred
-194558	Objc
-194561	Subj
-194572	Objc
-194585	Objc
-194605	Objc
-Objc
-194615	Subj
-194618	Objc
-194651	Subj
-194654	Pred
-194658	Pred
-194666	Subj
-Pred
-194676	Objc
-194690	Pred
-194700	Pred
-194716	Objc
-194724	Pred
-194744	Subj
-194753	Subj
-194756	Objc
-194760	Objc
-194763	Subj
-194771	Subj
-194774	Objc
+194500	Objc
+194505	Cmpl
+Cmpl
+Subj
+194528	Subj
+194549	Cmpl
+194552	Cmpl
+194555	Objc
+194562	Objc
+194570	Objc
+194574	Pred
+194577	Subj
+194586	Subj
+194594	Subj
+194618	Subj
+194621	Objc
+194629	Objc
+194633	Objc
+194638	Pred
+194653	Pred
+194662	Subj
+194665	Objc
+194697	Objc
+194701	Pred
+194717	Subj
+194719	Objc
+194739	Cmpl
+194743	Subj
+194770	Subj
 194779	Subj
-194783	Pred
-194788	Objc
-194821	Subj
-194835	Pred
-194841	Objc
-194849	Objc
-194861	Subj
-194867	Objc
-194878	Subj
+194787	Subj
+194789	Objc
+194794	Cmpl
+194796	Objc
+194805	Cmpl
+194808	Cmpl
+Subj
+194813	Cmpl
+194815	Subj
+194818	Subj
+194820	Objc
+194828	Pred
+194830	Subj
+194838	Subj
+194840	Objc
+194856	Subj
+194865	Subj
+194867	Subj
+194872	Objc
+194874	Objc
+194876	Pred
+Subj
+194886	Subj
 194891	Objc
-Pred
-194904	Pred
-Subj
-Subj
-194911	Objc
+194896	Subj
+194903	Objc
 194915	Objc
-194918	Objc
-194921	Subj
-194927	Pred
+194918	Pred
+194923	Subj
+194931	Pred
+194951	Pred
+194959	Objc
+194971	Subj
+194986	Cmpl
 Objc
-194931	Objc
-194934	Subj
-194937	Subj
-Objc
-194945	Subj
-194948	Objc
-Subj
-194954	Objc
-194958	Subj
-194962	Subj
-194966	Objc
-194969	Objc
-194972	Subj
-Objc
-Objc
-194977	Subj
-Objc
-194982	Subj
-Subj
-194987	Pred
-194993	Objc
-195012	Subj
-195020	Objc
-195030	Subj
-195035	Subj
-195040	Objc
-195045	Subj
-Subj
-195049	Subj
-Objc
-195054	Subj
-Objc
-195062	Objc
-195065	Subj
-195068	Objc
-195083	Subj
-Objc
-195088	Subj
+194999	Cmpl
+195004	Cmpl
+195010	Objc
+195013	Cmpl
+195021	Subj
+195031	Objc
+195035	Objc
+195038	Pred
+195044	Subj
+195048	Pred
+195053	Subj
+195059	Subj
+195071	Subj
+195075	Subj
+195077	Pred
 195090	Objc
-Objc
-195097	Pred
-195100	Cmpl
-Subj
-Subj
-Subj
-195105	Objc
-195110	Pred
-195119	Objc
-195124	Subj
-195126	Subj
-195128	Subj
-195130	Subj
-Subj
-195133	Subj
-195136	Pred
-Subj
-195141	Objc
-195144	Subj
-Subj
-195152	Subj
+195093	Cmpl
+195103	Objc
+195108	Cmpl
+195115	Subj
+195120	Subj
+195125	Cmpl
+195127	Pred
+195133	Objc
+195136	Objc
+195144	Pred
+195146	Subj
 195158	Objc
-195162	Objc
-195171	Pred
-195177	Subj
+195181	Subj
+195189	Objc
+195202	Subj
 Objc
-195181	Objc
-195184	Subj
-195197	Subj
-Subj
-195209	Pred
-195217	Objc
+195217	Subj
 195219	Objc
-195223	Pred
-195226	Pred
-195230	Objc
-195238	Subj
-195242	Pred
-Subj
-195246	Pred
-195253	Pred
-195255	Objc
-195260	Objc
+195224	Subj
+195235	Subj
+195239	Subj
+195244	Subj
+195246	Objc
+195271	Objc
 195275	Objc
-Cmpl
-195280	Subj
-195285	Subj
-195287	Subj
-Objc
-195290	Objc
-195292	Pred
-Subj
-195312	Subj
-195314	Objc
-Objc
-Objc
-Subj
-Objc
-195321	Subj
-195328	Subj
-Objc
-195331	Subj
-195333	Objc
-195337	Pred
-Subj
-195348	Objc
-Objc
-195360	Subj
+195284	Objc
+195291	Subj
+195305	Objc
+195310	Objc
+195314	Cmpl
+195330	Objc
 Pred
 Subj
+195337	Cmpl
 Pred
 Subj
-Subj
-195368	Subj
-Pred
-Subj
-Objc
-195375	Subj
-195377	Pred
-Objc
-195381	Objc
-Cmpl
-Pred
-Subj
-Pred
-195387	Cmpl
-Pred
-Objc
-Subj
-Pred
-195396	Subj
-195398	Pred
-195404	Objc
-195411	Objc
-195413	Objc
-195415	Cmpl
-Subj
+195343	Pred
+195347	Objc
+195351	Objc
+195361	Pred
+195366	Subj
+195375	Objc
+195378	Objc
+195391	Cmpl
+195394	Subj
+195409	Subj
+195435	Objc
+195453	Pred
+195474	Objc
+195481	Cmpl
+195497	Subj
+195508	Subj
+195515	Objc
+195519	Pred
+195526	Objc
+195529	Cmpl
+195545	Cmpl
 Objc
 Subj
-195420	Cmpl
-Subj
-195424	Subj
-Subj
-195429	Subj
-195433	Pred
-195435	Subj
-195441	Subj
-Pred
-195444	Objc
-195452	Cmpl
-195455	Subj
-Objc
-195458	Objc
-195460	Objc
-Subj
-195466	Subj
-195471	Subj
-195473	Subj
-195479	Subj
-Objc
-Objc
-Subj
-Subj
-195488	Subj
-Subj
-Subj
-195495	Subj
-195498	Pred
-Subj
-195501	Pred
-Pred
-195508	Objc
-195515	Subj
-195517	Subj
-Subj
-195521	Subj
-Objc
-Subj
-195527	Subj
-Objc
-195530	Objc
-Objc
-195533	Objc
-195537	Objc
-195541	Objc
-195543	Objc
-195563	Objc
+195550	Cmpl
+195554	Objc
 195565	Objc
-195569	Subj
-195571	Subj
-195576	Objc
-195579	Subj
+195567	Cmpl
 Subj
-Objc
-195588	Subj
-195592	Pred
+195572	Subj
+195576	Subj
+195591	Subj
+195599	Pred
+195606	Subj
+195613	Pred
+195616	Objc
+195627	Objc
+195631	Subj
+195636	Pred
+195641	Objc
+195644	Cmpl
+195656	Objc
 Subj
-Pred
-Pred
-Subj
-Pred
-Pred
-Subj
-Pred
-195603	Subj
-195605	Cmpl
-Subj
-195611	Subj
-195614	Objc
-195622	Objc
-195626	Objc
-195631	Objc
-195635	Pred
-195638	Pred
-195643	Subj
-195645	Subj
-195652	Objc
-195659	Subj
-195664	Objc
-195671	Objc
-Objc
-195674	Objc
+195662	Objc
+195664	Subj
+195667	Pred
 195676	Objc
-195678	Objc
-Cmpl
-195682	Objc
-Objc
-195688	Subj
-195690	Objc
+195685	Objc
 195693	Objc
-195695	Objc
-195697	Subj
-195699	Objc
-195701	Objc
-195706	Objc
-195708	Pred
-195711	Pred
-195713	Pred
-Objc
-195717	Pred
-Pred
-Pred
-Objc
-195722	Objc
-195726	Pred
-195728	Objc
-Subj
-Objc
-Objc
-195733	Subj
-195736	Pred
-195746	Objc
-195749	Objc
-195755	Subj
-Pred
-195760	Subj
-195763	Pred
-195765	Pred
-Subj
-Subj
-Subj
+195704	Objc
+195719	Objc
+195729	Objc
+195740	Subj
+195763	Subj
 195770	Subj
+195785	Subj
 Objc
+195794	Cmpl
 Subj
-195775	Subj
-195781	Subj
-195784	Subj
-195788	Objc
-195793	Subj
-195796	Pred
-195800	Subj
-Pred
-195805	Pred
-Subj
-Subj
-195811	Objc
-195814	Objc
-Pred
-195818	Pred
-195820	Objc
+195801	Subj
+195805	Objc
+195808	Subj
 Objc
+195815	Objc
+195817	Subj
+195825	Subj
+195834	Cmpl
 Objc
-Objc
-Objc
-Objc
-Objc
-195828	Objc
-195832	Pred
-195836	Subj
-195838	Objc
-195848	Subj
-195862	Pred
-Objc
-Pred
+195840	Subj
+195843	Cmpl
+195845	Subj
+195851	Objc
+195858	Pred
 195867	Subj
-Pred
-Subj
-Pred
-195872	Subj
-Subj
-195875	Objc
 195877	Subj
-195880	Objc
-195883	Objc
-Pred
+195886	Objc
+195889	Subj
+195894	Subj
+195899	Cmpl
+195909	Subj
+195950	Cmpl
+195955	Subj
+195964	Objc
 Subj
-Pred
-Pred
-Pred
-195895	Subj
-195900	Pred
-Pred
-195903	Subj
-Pred
-195906	Subj
-195908	Pred
-195910	Subj
-Pred
-195915	Subj
-Cmpl
-Subj
-195919	Subj
-195921	Objc
-Subj
-195931	Objc
-Subj
-Pred
-Subj
-195939	Objc
-Objc
-195944	Objc
-195960	Objc
-195963	Subj
-195965	Pred
-195973	Objc
-195975	Objc
-Objc
-195980	Objc
-Objc
-195992	Objc
-196003	Objc
-196010	Subj
-196015	Subj
-Subj
-196018	Subj
-Subj
-196021	Subj
-196024	Objc
-196026	Subj
-196032	Subj
-Subj
-196040	Subj
-196044	Subj
-Subj
-Subj
-Subj
-Objc
-196052	Cmpl
-Subj
-Objc
-Subj
-196059	Pred
-Subj
-196067	Objc
+195968	Objc
+195989	Pred
+195991	Subj
+195996	Objc
+196004	Cmpl
+196007	Subj
+196014	Cmpl
+196020	Subj
+196027	Pred
+196038	Cmpl
+196041	Subj
+196043	Objc
+196047	Cmpl
+196063	Objc
 Subj
 196071	Subj
+196080	Subj
+196087	Cmpl
+Subj
+196090	Pred
+196096	Cmpl
+196098	Subj
+196112	Subj
+196137	Subj
+196143	Pred
+196153	Cmpl
+Subj
+196160	Subj
 Pred
-196075	Pred
-196077	Subj
-Pred
-196081	Pred
-196083	Subj
-196085	Subj
-Subj
-Subj
-196093	Subj
-Pred
-Subj
-Subj
-Cmpl
-Objc
-Subj
-Cmpl
-Objc
-196103	Subj
-196107	Pred
-196109	Objc
-Subj
-196112	Objc
-Subj
-196115	Subj
-Objc
-Objc
-Pred
-196120	Objc
-196122	Subj
-Subj
-Subj
-196126	Subj
-196131	Subj
-196136	Objc
-Objc
-196152	Objc
-196154	Objc
-196156	Objc
-196158	Subj
-Subj
-Subj
-Objc
-Objc
-196166	Subj
-196169	Subj
-Subj
-196175	Objc
-196183	Subj
-Objc
-Objc
-Subj
-Subj
-196195	Subj
-Objc
-196198	Subj
+196192	Objc
+196197	Cmpl
 196201	Objc
-196204	Subj
-196206	Pred
+196216	Objc
+196223	Objc
+196228	Objc
+196234	Cmpl
 Objc
-196212	Pred
-196217	Subj
-196219	Subj
-196227	Objc
-196230	Objc
-196234	Subj
-Objc
-196238	Objc
-196241	Objc
-Objc
-196252	Cmpl
-196254	Subj
-Pred
-196257	Subj
-196259	Subj
-196263	Subj
-196266	Subj
-196271	Objc
+196246	Cmpl
+196248	Objc
+196255	Objc
+196258	Objc
+196260	Objc
+196267	Objc
+196270	Objc
+196274	Objc
+196279	Cmpl
+196293	Subj
+196299	Objc
+196302	Objc
+196329	Objc
+196336	Objc
+196347	Pred
+196350	Subj
+196370	Subj
+196376	Subj
+196380	Pred
+196382	Subj
+196386	Pred
+196388	Pred
+196395	Subj
+196399	Objc
 Subj
-Pred
-Pred
-196280	Subj
-Subj
-Cmpl
-Subj
-196285	Subj
-Subj
-196292	Subj
-196295	Subj
-196298	Objc
-196302	Subj
-196306	Pred
-196309	Objc
-196324	Cmpl
-196328	Subj
-196330	Cmpl
-196333	Cmpl
-Pred
-196337	Objc
-196352	Subj
-196354	Subj
-Subj
-Subj
-196358	Subj
-196361	Pred
-196367	Subj
-196369	Pred
-196372	Subj
-196382	Pred
-Pred
-196385	Subj
-196394	Subj
-196399	Subj
-Objc
-Cmpl
-196405	Objc
-196416	Objc
-Subj
-Subj
-196421	Objc
-Subj
-196427	Subj
-196438	Subj
-Objc
-Subj
-Objc
-196443	Subj
-196446	Objc
-196449	Subj
-Cmpl
-196452	Objc
-Subj
-Pred
-196456	Subj
-Subj
+196403	Subj
+196405	Subj
+196413	Objc
+196418	Objc
+196436	Objc
+196440	Subj
+196443	Cmpl
+196451	Objc
 196460	Subj
-196463	Subj
-196465	Subj
-Subj
-Subj
-196469	Subj
-196479	Subj
-Subj
-Subj
-Subj
-196487	Subj
-196491	Subj
-Subj
-Subj
-Subj
-196497	Subj
-196499	Pred
-Subj
-Subj
-196503	Subj
-Subj
-196506	Objc
-196509	Objc
-196513	Objc
-Subj
+196465	Objc
+196468	Objc
+196473	Subj
+196478	Objc
+196482	Objc
 Objc
-196522	Subj
-Subj
-196525	Subj
-196527	Subj
-196529	Subj
-196532	Subj
-196534	Subj
-196536	Subj
-196538	Subj
-196541	Pred
-Subj
-196545	Pred
-196547	Objc
-196553	Pred
-196558	Subj
+196490	Objc
+196493	Objc
+196498	Objc
+196502	Subj
+196506	Subj
+196512	Objc
+196533	Subj
+196551	Subj
+196556	Cmpl
+196560	Objc
+Objc
 196566	Cmpl
-196569	Subj
-196572	Subj
-196575	Objc
-196582	Objc
-196584	Subj
-196588	Subj
-196590	Objc
-196604	Subj
-Pred
-196608	Pred
-196611	Cmpl
-Subj
-196618	Objc
-196623	Objc
-Subj
-196633	Subj
+196569	Cmpl
+196572	Objc
+196575	Cmpl
+196588	Cmpl
+196593	Objc
+196595	Subj
+196598	Objc
+196622	Cmpl
+196626	Objc
+196635	Pred
 196637	Subj
-196641	Objc
-Subj
-196645	Pred
-Subj
-196648	Pred
-196659	Pred
-196663	Pred
-196668	Subj
-196682	Objc
-196689	Subj
-196695	Subj
-196708	Subj
-Subj
-196712	Pred
-196719	Pred
-196725	Objc
-196732	Objc
-196737	Subj
-196742	Subj
+196651	Objc
+196655	Subj
+196658	Objc
+196661	Objc
+196669	Objc
+196677	Objc
+196687	Objc
+Cmpl
+196692	Subj
+196696	Objc
+Cmpl
+196704	Subj
+196712	Objc
+196719	Objc
+196725	Subj
+196735	Cmpl
+Objc
+196738	Objc
+196741	Objc
+196745	Cmpl
 196747	Subj
-196750	Pred
-196766	Pred
+196768	Pred
+196790	Subj
+196794	Subj
+196812	Objc
+196822	Pred
+196828	Objc
+196832	Objc
+Objc
+196836	Subj
+Pred
+196840	Cmpl
 Subj
-196776	Objc
-196786	Pred
-196789	Subj
-196801	Subj
-196804	Pred
-196807	Subj
-Cmpl
-196813	Objc
-196819	Objc
-196832	Subj
-196834	Objc
-196838	Subj
-196840	Pred
-196846	Objc
-196849	Objc
-196859	Subj
-196862	Objc
-196865	Subj
-196871	Objc
+196848	Pred
+196850	Subj
+196855	Subj
+Pred
+196858	Objc
+196871	Cmpl
+Objc
+196874	Subj
+196878	Cmpl
+196880	Cmpl
+Subj
+196885	Cmpl
 196888	Objc
-196895	Pred
-196899	Pred
-196902	Pred
-196907	Subj
+196895	Cmpl
+196897	Subj
+196900	Cmpl
 Objc
-196916	Objc
-196919	Pred
-196926	Pred
-196934	Objc
-196942	Subj
-196944	Pred
-196946	Objc
-196949	Subj
-Subj
-Subj
-196956	Subj
-196967	Subj
-196971	Subj
-196975	Subj
-196987	Objc
-196993	Subj
-196998	Subj
-197003	Subj
-197016	Subj
-Subj
+196917	Cmpl
+196919	Objc
+196962	Objc
+196967	Cmpl
+196972	Cmpl
+196974	Objc
+196980	Cmpl
+196983	Subj
+197004	Objc
+197007	Pred
+197013	Subj
+197035	Subj
+197037	Objc
+197042	Objc
+197051	Subj
+197054	Subj
+197057	Pred
+197065	Subj
 Pred
-Subj
-197021	Subj
-197023	Objc
-197032	Objc
-197034	Objc
-197038	Objc
-197050	Subj
-197055	Subj
-197059	Objc
-197063	Subj
-197070	Pred
-197072	Objc
-197074	Pred
-197088	Objc
-197092	Subj
-197095	Pred
+197074	Subj
+197082	Subj
+197085	Pred
+197110	Subj
+197113	Subj
+197122	Pred
+197126	Subj
+197128	Objc
+197132	Subj
+197141	Cmpl
+197143	Subj
+197159	Subj
+197182	Subj
+197203	Subj
+197211	Objc
+197260	Objc
+197263	Objc
+197274	Subj
+197277	Objc
+197299	Objc
+197310	Subj
+197312	Pred
+197314	Objc
+197331	Objc
+197337	Objc
+197354	Subj
 Pred
-197098	Objc
-197103	Subj
-197112	Subj
-197120	Subj
-197122	Subj
-197124	Objc
-197129	Subj
-197131	Objc
-197134	Subj
-Pred
-Subj
-197139	Objc
-197144	Subj
-197148	Subj
-197150	Subj
-197156	Objc
-197158	Subj
-197174	Subj
-Pred
-197178	Subj
-197183	Objc
-197202	Objc
-197206	Objc
-197213	Objc
-197218	Subj
-197222	Subj
-197229	Pred
-Pred
-Subj
-Subj
-Pred
-197236	Objc
-197241	Objc
-197244	Objc
-197248	Subj
-197253	Pred
-197256	Objc
-197262	Subj
-Subj
+197357	Objc
+197360	Objc
+197369	Objc
+197382	Subj
+197401	Objc
+197404	Subj
+197407	Cmpl
+197410	Subj
+197420	Subj
+197428	Objc
+197430	Subj
+197444	Objc
+197446	Objc
 Objc
-197266	Subj
-197301	Subj
-197304	Subj
-197310	Objc
-197312	Subj
-197315	Pred
-197320	Pred
-197322	Subj
-197324	Pred
-Pred
-197328	Pred
-Pred
+197451	Objc
+197459	Objc
+197468	Cmpl
+197471	Objc
+197479	Objc
+197485	Subj
+197508	Subj
+197513	Subj
+197522	Subj
+197524	Pred
 Objc
-197338	Pred
-197351	Subj
-197354	Objc
-197377	Subj
-197384	Subj
-197387	Objc
-197390	Subj
-197395	Objc
-197416	Subj
-197422	Subj
-197427	Subj
-197430	Objc
-197476	Objc
-197493	Objc
-197498	Objc
-197509	Objc
-Subj
-197512	Subj
-197514	Subj
-Pred
-197519	Subj
-197524	Subj
-197530	Objc
+197533	Subj
 Objc
-197533	Objc
-197539	Objc
-197542	Objc
+197544	Objc
+197556	Objc
+197559	Objc
+197568	Objc
+197572	Cmpl
+197574	Objc
 Subj
-197548	Pred
-197553	Pred
-197572	Objc
-197585	Objc
-197601	Objc
-197605	Subj
-197607	Objc
+197578	Pred
+197590	Subj
+197593	Objc
+197605	Objc
+197620	Objc
+Subj
+197626	Objc
+197631	Cmpl
+197633	Subj
+197636	Pred
+197641	Subj
+197653	Objc
+197679	Objc
+197694	Subj
+197696	Objc
+197711	Subj
+197733	Subj
+197744	Objc
+197763	Subj
+197777	Subj
+197785	Objc
+197797	Subj
+197802	Pred
+Pred
+197809	Objc
+197811	Objc
+197824	Cmpl
+197828	Subj
+197834	Pred
+197836	Objc
+197844	Cmpl
+197848	Subj
+197853	Cmpl
+197856	Subj
+197878	Cmpl
+197895	Subj
+197908	Subj
+197918	Subj
+197956	Cmpl
+197962	Objc
+197965	Cmpl
 Objc
-197621	Objc
-197623	Objc
-197634	Objc
+197971	Objc
+197981	Objc
+197996	Objc
+198011	Cmpl
+198013	Subj
+198018	Subj
+198026	Subj
+198040	Cmpl
+198042	Cmpl
+198044	Objc
+198046	Cmpl
+198048	Subj
+198058	Objc
+198061	Subj
+198067	Subj
+198077	Subj
+198084	Objc
+198087	Objc
+198091	Cmpl
+198108	Objc
+198113	Objc
+198128	Subj
+198131	Pred
+198137	Cmpl
 Subj
-Subj
+198145	Objc
+198147	Subj
+198156	Objc
 Objc
-197640	Objc
-197644	Cmpl
-Subj
-197650	Objc
-197652	Objc
-197660	Cmpl
-Subj
-197666	Objc
-197677	Objc
-197702	Cmpl
-197721	Subj
-197734	Objc
-197740	Objc
-Subj
-197743	Objc
-197746	Subj
-197751	Subj
-197758	Subj
-Subj
-197762	Subj
-Subj
-197776	Subj
-197790	Subj
-197805	Subj
-Objc
-197809	Cmpl
-Objc
-Cmpl
-Subj
-197816	Subj
-197823	Objc
-197828	Pred
-197834	Objc
-197837	Objc
-197842	Objc
-197844	Subj
-197847	Subj
-Pred
-Subj
-197857	Subj
-Objc
-197861	Subj
-Subj
-197866	Subj
-197870	Subj
-197875	Subj
-197877	Pred
-197880	Objc
-197890	Objc
-197895	Pred
-Pred
-197902	Objc
-197906	Pred
-Pred
-197914	Pred
-Pred
-Pred
-Pred
-197920	Subj
-197927	Objc
-197936	Subj
-197939	Objc
-197945	Objc
-197956	Subj
-Subj
-197965	Subj
-197982	Subj
-197984	Objc
-197986	Subj
-197988	Subj
-197993	Subj
-198004	Pred
-Subj
-198014	Subj
-Objc
-198017	Objc
-198019	Objc
-Subj
-Cmpl
-Subj
-Cmpl
-198029	Objc
-198036	Subj
-Pred
-198040	Subj
-198043	Objc
-198051	Subj
-198057	Objc
-198066	Subj
-198072	Pred
-198074	Pred
-198077	Objc
-Objc
-Pred
-198089	Subj
-198093	Objc
-Subj
-198097	Pred
-198100	Subj
-198112	Pred
-198123	Cmpl
-198139	Subj
-198149	Objc
-198157	Pred
-198160	Pred
+198161	Subj
 198164	Objc
-198171	Objc
-198182	Pred
-198192	Objc
-198209	Objc
+198167	Cmpl
+198178	Objc
+198187	Cmpl
+198196	Cmpl
+198201	Objc
+198206	Objc
+198208	Objc
+198226	Pred
 198231	Objc
-198236	Objc
-198238	Objc
-198248	Objc
-198253	Subj
-198258	Objc
-Subj
-Objc
-198263	Objc
-198271	Objc
-198276	Objc
-Objc
-198285	Objc
-198287	Subj
-198290	Subj
+198257	Subj
+198268	Objc
+198275	Objc
+198285	Subj
+198291	Objc
+198294	Cmpl
 198297	Cmpl
-198300	Subj
-198306	Subj
-198314	Subj
-198316	Subj
-Pred
-198327	Objc
-198330	Pred
-198334	Objc
-198338	Objc
-198341	Objc
-198347	Objc
-198351	Pred
-Subj
-198354	Objc
-Subj
-Cmpl
-198358	Subj
-198360	Subj
-198365	Pred
-198367	Pred
-Subj
-198377	Subj
-198379	Subj
-Pred
-198387	Subj
-198391	Subj
-198395	Objc
-198401	Objc
-198404	Subj
-198412	Objc
-198415	Subj
-198420	Objc
-Pred
-Subj
-Pred
-Cmpl
-198426	Subj
-Subj
-198435	Subj
-Subj
-Subj
-Pred
-198442	Pred
-Subj
-Subj
+198302	Subj
+198305	Objc
+198317	Objc
+198321	Objc
+198336	Cmpl
+198361	Objc
+198367	Cmpl
+198371	Objc
+198380	Objc
+198385	Objc
+198390	Objc
+198398	Objc
+198409	Objc
+198418	Cmpl
 Objc
-198447	Subj
-198451	Subj
-198456	Subj
-Pred
-198460	Subj
-Pred
-Pred
-198468	Subj
-198470	Pred
-198475	Subj
-Pred
-Pred
-198482	Subj
-198488	Subj
-198491	Subj
+198421	Objc
+198429	Objc
+198439	Objc
+198442	Cmpl
+198452	Cmpl
 Objc
-198496	Objc
-198498	Objc
-Subj
-Objc
-198508	Pred
-198520	Objc
-198526	Objc
-Subj
-198529	Objc
-198531	Pred
-198539	Objc
-198542	Pred
-Objc
-198551	Subj
-198555	Subj
-198560	Pred
+198456	Objc
+198458	Objc
+198462	Objc
+198470	Objc
+198486	Objc
+198489	Cmpl
+198491	Objc
+198493	Objc
+198499	Objc
+198503	Subj
+198511	Objc
+198528	Objc
+198531	Objc
+198574	Objc
+198580	Cmpl
 Pred
-198564	Subj
-198572	Subj
-198574	Pred
 Subj
-198578	Objc
-198580	Pred
-198582	Objc
 198584	Subj
-198589	Subj
-198600	Cmpl
-198602	Objc
-198608	Objc
+198588	Subj
+198591	Cmpl
+198599	Subj
+Objc
+Subj
+198604	Pred
 198610	Subj
-198612	Subj
-Pred
+198612	Objc
 Subj
-Objc
-198619	Objc
-Objc
+198615	Pred
 Subj
-198626	Objc
-198632	Subj
-198637	Objc
-198640	Objc
-198642	Subj
+198620	Subj
+198624	Cmpl
+Subj
+198627	Pred
+198632	Cmpl
+198634	Cmpl
+198642	Objc
 198645	Subj
-198648	Pred
-198654	Objc
-Objc
+198652	Objc
+198680	Objc
+198686	Subj
+198689	Objc
+198692	Objc
 Subj
-198659	Pred
-198661	Subj
-198663	Objc
-198670	Objc
-198673	Subj
-Objc
-198676	Objc
-198679	Objc
-198682	Objc
-198685	Objc
-198687	Objc
-198699	Objc
-Objc
-198702	Objc
-198715	Subj
-198734	Objc
-198740	Subj
-198744	Pred
-198751	Cmpl
-Pred
-198803	Objc
-198816	Objc
-198829	Objc
-198842	Subj
-198856	Pred
-198889	Objc
-198892	Subj
-198897	Subj
-198901	Subj
-198910	Subj
-198944	Objc
-198951	Objc
-198974	Subj
-198981	Objc
-198985	Pred
+198698	Objc
+198704	Objc
+198715	Objc
+198721	Objc
+198728	Objc
+198739	Cmpl
+198741	Subj
+198748	Objc
+198751	Objc
+198758	Objc
 Subj
-198988	Subj
-199002	Objc
-199016	Pred
-Pred
-199019	Pred
-Pred
-199024	Subj
-199030	Pred
-199036	Pred
-199054	Objc
-199062	Objc
-199067	Objc
-199072	Objc
-199075	Cmpl
-199078	Objc
-199081	Cmpl
-199083	Objc
+198763	Objc
+198770	Objc
 Subj
-199099	Subj
-199104	Subj
-199110	Pred
-199116	Objc
-199123	Subj
-199126	Objc
-199134	Cmpl
-199137	Cmpl
-199141	Subj
-199147	Pred
-199162	Subj
-199164	Cmpl
+198775	Objc
+198788	Objc
+198792	Objc
+198794	Objc
+198801	Objc
+198806	Objc
+198809	Subj
 Objc
-199169	Subj
-199176	Objc
-Cmpl
-199184	Subj
-199196	Objc
-199206	Pred
-199208	Objc
-199213	Subj
-199228	Subj
-199238	Subj
+198817	Subj
+198840	Subj
+198850	Objc
+198875	Cmpl
+198878	Cmpl
+198886	Subj
+198891	Objc
+198895	Subj
+198913	Subj
+198927	Objc
+198943	Subj
+198949	Pred
+198955	Subj
+198968	Cmpl
+Subj
+198982	Subj
+198986	Cmpl
+198990	Pred
+198992	Subj
+Pred
+198997	Objc
+199000	Cmpl
 Objc
+199003	Cmpl
+Objc
+199006	Cmpl
+Objc
+199011	Objc
+199013	Pred
+199018	Subj
+199020	Objc
+199023	Subj
+199029	Subj
+199040	Objc
+199045	Objc
+199048	Objc
+199057	Subj
+199064	Cmpl
+199066	Cmpl
+Objc
+199073	Subj
+199085	Objc
+199093	Pred
+199102	Objc
+199106	Subj
+199110	Subj
+199114	Subj
+199117	Cmpl
+Subj
+199123	Objc
+199137	Objc
+199143	Cmpl
+199145	Subj
+199151	Cmpl
+Objc
+199167	Subj
+199170	Pred
+199174	Subj
+199181	Subj
+199187	Objc
+199192	Objc
+199195	Objc
+Objc
+199203	Cmpl
+Subj
+199213	Objc
+199222	Objc
+199228	Objc
+199231	Objc
+199236	Objc
+199243	Cmpl
+199249	Objc
 199254	Subj
-199273	Objc
-199296	Cmpl
-199298	Subj
-199306	Cmpl
+199257	Cmpl
+199267	Pred
+199275	Objc
+199277	Objc
+199283	Objc
+199289	Objc
+Subj
+199295	Objc
+199307	Objc
 199312	Subj
+199317	Subj
+199320	Subj
+199333	Objc
+199341	Objc
+199344	Objc
+199347	Objc
+199352	Subj
+199357	Cmpl
+199361	Subj
 Pred
-199317	Objc
-199335	Subj
-199353	Pred
-199371	Pred
-199373	Subj
-199383	Objc
-199391	Subj
-199403	Pred
-199415	Objc
-199417	Pred
-199438	Objc
-199442	Pred
-Subj
-199446	Cmpl
+199367	Subj
+199377	Objc
+199384	Subj
+199389	Subj
+199391	Objc
+199399	Cmpl
+199407	Subj
+199409	Cmpl
+199428	Pred
+199432	Subj
+199438	Subj
+199443	Objc
 199449	Objc
+199454	Subj
+199458	Subj
+199467	Objc
+199469	Subj
+199473	Objc
+199476	Cmpl
 Subj
-199465	Subj
-199470	Pred
-Subj
-199474	Pred
-199476	Subj
-199478	Subj
-199481	Objc
-199495	Subj
-199502	Pred
 199504	Subj
-Subj
-199508	Pred
-199516	Subj
-199519	Subj
-199522	Subj
+199508	Objc
+199515	Cmpl
+199517	Subj
+199532	Objc
+199541	Subj
+199544	Objc
+199549	Objc
+199557	Pred
+199564	Objc
 Objc
-Subj
-199526	Subj
-199529	Pred
-199534	Cmpl
-199540	Objc
-199544	Cmpl
-199546	Cmpl
-Pred
-199549	Subj
-199551	Pred
-199553	Pred
-199555	Subj
-Cmpl
-Subj
-199559	Cmpl
-199562	Objc
-Subj
-199565	Objc
-199571	Objc
-Objc
-199575	Subj
-199577	Objc
-199579	Objc
-199581	Objc
-199583	Objc
+199572	Subj
 199585	Subj
-199587	Objc
 Pred
+199590	Objc
+199595	Cmpl
 199597	Subj
-Pred
-199600	Subj
-199605	Subj
-199608	Objc
-199610	Subj
-Objc
+199599	Pred
+199611	Objc
 199613	Objc
-199619	Pred
-199625	Objc
-199630	Objc
-199638	Objc
-199640	Subj
-Objc
+199621	Objc
+199623	Cmpl
+Subj
+199626	Objc
+199641	Objc
+199644	Subj
 199646	Objc
+199649	Objc
+199654	Objc
+199656	Cmpl
+Subj
+199662	Subj
+199671	Objc
+Subj
+199675	Objc
+199678	Objc
+199682	Objc
+Subj
+199690	Objc
+Pred
+199694	Subj
+199696	Objc
+199708	Objc
+Subj
+199713	Pred
+199716	Pred
+199720	Subj
+199724	Objc
 Objc
-199650	Objc
-199652	Objc
+199732	Pred
+199736	Cmpl
+199742	Objc
+199748	Subj
+199751	Objc
+199760	Pred
+199766	Subj
+199786	Objc
 Subj
-199655	Pred
+199793	Objc
 Pred
-199664	Objc
-199672	Subj
-199692	Objc
-199699	Objc
-199702	Objc
-199705	Objc
-199716	Objc
-199726	Pred
-199744	Objc
-199750	Subj
-199761	Objc
-199763	Objc
-199765	Cmpl
-199768	Subj
+199796	Subj
+199805	Objc
+199828	Subj
+199834	Objc
+199836	Objc
 Pred
-199771	Objc
-199775	Cmpl
-199779	Pred
-199783	Objc
-199796	Objc
-199809	Objc
-Subj
-199812	Objc
-199827	Pred
-199830	Subj
-Pred
-Subj
-Objc
-199836	Subj
-199848	Subj
-199853	Subj
-199861	Subj
-199867	Objc
-199874	Objc
-199880	Objc
-199905	Pred
-199908	Objc
-199910	Pred
-199919	Subj
-199932	Objc
-199942	Pred
-Pred
-Pred
-199955	Subj
+199839	Subj
+199848	Objc
+199862	Subj
+199868	Objc
+199870	Objc
 Pred
 Subj
-199959	Subj
-199961	Subj
-Objc
-199964	Objc
-Objc
-199967	Objc
+199886	Objc
+199897	Subj
+199905	Subj
+199910	Subj
+199914	Pred
+Subj
+199920	Subj
+199923	Pred
+199928	Objc
+199934	Objc
+199962	Subj
 199971	Objc
+199974	Subj
+199976	Objc
+199980	Objc
+199983	Objc
+Subj
+199988	Cmpl
 Objc
-199975	Pred
-199978	Objc
-Pred
-199983	Subj
+Cmpl
 199992	Subj
-199994	Subj
-199998	Pred
-200002	Pred
-200006	Objc
-200018	Objc
-200032	Subj
+Subj
+199997	Subj
+Objc
+200004	Subj
+200009	Cmpl
+200018	Cmpl
+Objc
 200034	Objc
-200036	Objc
-Objc
 200039	Subj
-Objc
-Objc
-Objc
-200047	Objc
-200050	Subj
-200059	Objc
-200061	Subj
-200068	Objc
-200074	Objc
-200083	Objc
-Objc
-Objc
-200087	Objc
-Pred
-200094	Subj
-200096	Pred
-200098	Pred
-Pred
-200103	Objc
-200116	Objc
-200144	Objc
-200156	Objc
+200051	Subj
+200054	Pred
+200062	Pred
+200064	Pred
+200067	Objc
+200069	Subj
+200073	Subj
+200083	Subj
+200090	Objc
+200093	Cmpl
 Subj
-200160	Pred
+200097	Objc
+200104	Objc
+200111	Subj
+200113	Objc
+200119	Objc
+200123	Cmpl
+Objc
+200126	Objc
+200128	Subj
+200133	Objc
+200136	Subj
+200142	Cmpl
+200144	Subj
+200153	Objc
 Pred
-200166	Subj
-200168	Subj
-200170	Pred
+200159	Subj
+200168	Cmpl
 Subj
-Pred
-200175	Objc
-Subj
-200180	Objc
-200184	Objc
-200192	Objc
-200197	Objc
-200199	Objc
+200173	Objc
+200181	Subj
+200191	Objc
+200194	Objc
+200202	Subj
 200207	Subj
-200209	Pred
-200212	Subj
-200214	Cmpl
+200210	Objc
+200212	Objc
+200216	Objc
+200219	Objc
+200223	Subj
+200228	Cmpl
+200230	Objc
+200232	Objc
 Subj
-200220	Subj
-200234	Subj
-200237	Pred
-200242	Pred
-200248	Subj
-200253	Subj
-200256	Subj
-200262	Objc
-200273	Subj
-200275	Objc
-200284	Cmpl
-200286	Subj
-200291	Objc
-200293	Subj
-200296	Subj
-200298	Subj
-200302	Subj
-200305	Pred
-200313	Cmpl
-200353	Objc
-200366	Objc
-200371	Subj
-200441	Subj
-200444	Pred
+Pred
+200241	Objc
+200265	Subj
+200268	Cmpl
+200270	Objc
+200279	Subj
+200284	Objc
+200286	Objc
+200289	Cmpl
 Subj
+Objc
+200294	Objc
+200299	Cmpl
+200304	Objc
+200311	Objc
+Subj
+200326	Objc
+200331	Subj
+200335	Cmpl
+200344	Objc
+200358	Subj
+200370	Subj
+200377	Cmpl
+200379	Pred
+200393	Pred
+200395	Subj
+200407	Subj
+200418	Subj
+200427	Subj
+200431	Objc
+Subj
+200439	Pred
+200445	Subj
 200447	Pred
-200456	Subj
-200459	Objc
-200496	Pred
-200500	Objc
-200512	Pred
-200528	Subj
+200455	Subj
+200458	Cmpl
+200460	Subj
+200462	Objc
+200465	Objc
+200467	Subj
+200472	Cmpl
+Pred
+200475	Subj
+200533	Objc
+200536	Subj
+200541	Pred
+200543	Subj
+200546	Pred
+200549	Pred
+200562	Objc
 Subj
-200537	Subj
-200539	Pred
-200542	Objc
-Objc
-200546	Objc
-200554	Objc
-200558	Objc
-200561	Subj
-200576	Subj
-200584	Pred
-200594	Objc
-200613	Subj
-200619	Pred
-200650	Objc
-200657	Pred
+200575	Objc
+200579	Cmpl
+200592	Subj
+200609	Objc
+200613	Objc
+Cmpl
+200619	Objc
+200622	Objc
+200625	Objc
+200647	Cmpl
+200651	Objc
+200654	Objc
+200656	Cmpl
+Subj
 200660	Cmpl
-200669	Pred
-Subj
-Pred
-200682	Subj
-200695	Pred
-200703	Objc
-200706	Pred
-200712	Objc
-Subj
-200718	Objc
 Objc
-200722	Subj
-200731	Subj
+200663	Subj
+200665	Cmpl
+Subj
+200669	Cmpl
+200671	Cmpl
+200673	Subj
+200680	Subj
+200692	Subj
+200697	Cmpl
+200700	Objc
+200704	Objc
+200707	Objc
+Subj
+200715	Subj
+200718	Subj
+200721	Cmpl
+200723	Subj
+200728	Cmpl
+Objc
+200732	Objc
+Subj
 200741	Subj
-200745	Subj
-200747	Subj
-200753	Objc
-200762	Pred
-200769	Subj
-200771	Subj
-200774	Objc
-Pred
-200777	Subj
-200786	Subj
-200798	Cmpl
-200807	Cmpl
-200810	Objc
-200813	Objc
-200817	Objc
-200821	Objc
-200827	Objc
-200833	Objc
-200840	Cmpl
+200758	Subj
+200761	Cmpl
+200765	Subj
+200777	Objc
 Subj
-200843	Objc
-200848	Subj
-Objc
-200858	Objc
+200782	Cmpl
+200794	Subj
+200802	Pred
+200809	Subj
+200812	Pred
+200818	Pred
+200822	Subj
+200829	Pred
+200831	Pred
+200834	Subj
+200851	Objc
+200856	Objc
+200868	Subj
+200914	Objc
+200917	Cmpl
 Subj
-200861	Pred
+200921	Subj
+200931	Objc
+200934	Subj
+200939	Objc
+200942	Objc
+200946	Cmpl
+200950	Objc
+Subj
+200954	Objc
+200968	Cmpl
+Subj
+200973	Objc
 Cmpl
-Objc
-200874	Objc
-200876	Objc
-200881	Pred
-Objc
-200890	Pred
-Pred
-200906	Objc
-200923	Subj
-200928	Objc
-200930	Subj
-Objc
-200933	Subj
-200937	Objc
-200939	Subj
-Pred
+200977	Subj
+200982	Cmpl
+200987	Subj
+200991	Cmpl
+200993	Subj
+200999	Objc
+201005	Objc
+201032	Objc
+201041	Cmpl
+201065	Subj
+201071	Objc
+201076	Subj
 Cmpl
-200945	Objc
-200951	Objc
-200970	Objc
-200972	Subj
-200984	Pred
-200986	Objc
-200999	Subj
-201012	Objc
-201018	Objc
-201036	Objc
-201041	Subj
-201048	Objc
+201081	Objc
+201083	Subj
+201086	Objc
+201092	Objc
+201100	Subj
+201113	Objc
+201115	Subj
+201121	Cmpl
 Objc
-201051	Pred
-201053	Pred
-201058	Pred
-Subj
-201062	Objc
-201075	Objc
-201077	Objc
-201081	Pred
+201125	Objc
+201128	Subj
+201131	Cmpl
+201134	Subj
+201139	Objc
+201142	Objc
+201152	Cmpl
 Objc
-201084	Objc
-201091	Subj
+201164	Subj
 Objc
-Objc
-201101	Pred
-201105	Pred
-201108	Objc
-Subj
-201113	Subj
-201119	Cmpl
-201121	Objc
-201124	Subj
-201131	Objc
-201136	Subj
+201176	Subj
+201178	Objc
+201202	Subj
+201214	Subj
 Pred
-201139	Subj
+201232	Objc
 Pred
-201167	Pred
-201170	Objc
-201173	Subj
-201180	Objc
-201182	Subj
-201193	Objc
-Cmpl
-201204	Objc
-201206	Objc
-201215	Objc
-201218	Subj
-201223	Subj
-201226	Objc
-201244	Objc
-201247	Subj
+201236	Subj
 201253	Subj
-Objc
-201257	Pred
-201259	Subj
-201261	Objc
-201264	Objc
-201268	Subj
-201272	Objc
-201279	Subj
-201288	Objc
-201293	Objc
-201295	Subj
-201297	Subj
-201308	Subj
-201316	Subj
-201326	Pred
-201333	Subj
-201335	Subj
+201260	Subj
+201265	Objc
+201269	Objc
+201279	Objc
+201283	Objc
 Subj
-201339	Pred
+201290	Pred
+201294	Cmpl
+201304	Subj
+Objc
+201309	Subj
+201328	Objc
+201354	Objc
+201362	Subj
+201364	Objc
+201374	Cmpl
+201378	Subj
+201383	Pred
+201392	Subj
+201395	Objc
+Objc
+201411	Objc
+201415	Objc
 Subj
-Subj
-201344	Subj
-201348	Subj
-201357	Objc
-201365	Objc
+201444	Subj
+201453	Subj
+201457	Cmpl
+201460	Subj
+201463	Objc
+201468	Subj
+201472	Cmpl
+201474	Objc
+201479	Cmpl
+201481	Subj
+201484	Cmpl
+201510	Objc
+201519	Cmpl
+201522	Objc
+201538	Objc
+201544	Subj
+201559	Cmpl
 Objc
-Objc
-201370	Objc
-201374	Pred
-201377	Objc
-Objc
-201382	Subj
-201386	Subj
-201397	Objc
-201402	Subj
+201578	Subj
+201596	Cmpl
+201602	Objc
+201605	Subj
 Cmpl
-201405	Subj
-201409	Pred
-Cmpl
-201416	Objc
-201418	Subj
-201420	Subj
-201427	Subj
-201442	Pred
-201467	Objc
-201485	Subj
-201494	Subj
-201496	Objc
-201500	Subj
-201528	Subj
-201533	Subj
-201546	Pred
-201551	Subj
-201565	Subj
-201567	Pred
-201577	Objc
-201582	Subj
-Objc
-201585	Objc
-Subj
-Objc
-201589	Objc
-201593	Subj
 201608	Objc
-201621	Objc
-201628	Subj
-201636	Subj
-201642	Subj
+201614	Objc
+201616	Subj
+201621	Cmpl
+201623	Objc
 Objc
-201666	Objc
-201668	Pred
-201670	Cmpl
-201673	Objc
-201675	Objc
-201680	Subj
-201684	Objc
-201688	Subj
-Pred
-201691	Subj
-201697	Subj
-201701	Pred
-201722	Subj
-201725	Pred
-201732	Subj
+201629	Cmpl
+201632	Cmpl
+201638	Objc
+201646	Pred
+201651	Pred
+201655	Cmpl
+201664	Pred
+201674	Objc
+201677	Pred
+201681	Objc
+201684	Subj
+201687	Objc
+201692	Pred
+201696	Cmpl
+201703	Subj
+201707	Cmpl
+201709	Subj
+201711	Cmpl
+201717	Objc
+201721	Cmpl
+201726	Objc
 Subj
-Objc
-201749	Subj
-201756	Subj
-201761	Pred
-201764	Objc
-201779	Objc
-201786	Objc
-201791	Cmpl
-201797	Pred
-Objc
-201804	Subj
-201807	Subj
-201810	Subj
-201816	Subj
-201819	Objc
-201832	Pred
-Subj
-201839	Subj
-Objc
-Subj
+201731	Objc
+201734	Objc
+201737	Objc
+201740	Objc
+Cmpl
+201754	Objc
+201773	Objc
+201784	Objc
+201787	Objc
+201792	Objc
+201794	Objc
+201800	Objc
+201803	Objc
+201807	Objc
+201814	Objc
+201822	Objc
+201827	Subj
+201838	Subj
+201840	Pred
 201845	Objc
-201850	Objc
-201852	Objc
-201856	Objc
-201865	Objc
-201870	Subj
-201874	Pred
-201878	Objc
-Objc
-201890	Subj
-201898	Subj
-201909	Subj
-201915	Objc
-Subj
-201921	Cmpl
-Pred
-201929	Objc
-201932	Subj
-201935	Subj
-201937	Objc
-201940	Subj
-201946	Pred
-201949	Objc
-201951	Pred
-201970	Pred
-Subj
-201982	Subj
-Objc
-201985	Cmpl
-201988	Subj
-201993	Objc
-Objc
+201847	Pred
+201849	Subj
+201855	Objc
+201858	Objc
+201864	Objc
+201866	Subj
+201876	Objc
+201881	Objc
+201884	Cmpl
+201886	Objc
+201893	Objc
+201897	Subj
+201908	Subj
+201911	Pred
+201919	Objc
+201923	Objc
+201932	Objc
+201938	Objc
+201945	Objc
+201955	Objc
+201961	Cmpl
+201965	Pred
+201986	Objc
 201996	Objc
-202000	Pred
-202004	Objc
+Cmpl
+202004	Subj
 202007	Objc
-202009	Objc
-202013	Pred
-Objc
-202018	Subj
-Subj
+202013	Cmpl
+202015	Objc
+202018	Cmpl
 Objc
 202022	Subj
-202026	Subj
-Objc
-Subj
-202035	Subj
-202044	Objc
-202050	Subj
-202054	Subj
-202059	Objc
-202061	Objc
-202067	Objc
-Objc
-202083	Subj
+202027	Cmpl
+Pred
+202038	Subj
+202041	Cmpl
 Pred
 Subj
-202093	Objc
-202095	Pred
-202104	Objc
-202111	Objc
-202117	Objc
-202119	Objc
-202121	Objc
-202137	Subj
-202139	Cmpl
-202150	Objc
-202152	Objc
-202155	Objc
+202048	Cmpl
 Objc
-202163	Subj
-Pred
-202182	Objc
-202188	Objc
-202190	Objc
-202207	Pred
-202213	Subj
-Objc
-202239	Objc
-202245	Objc
-Objc
-202251	Objc
-202257	Objc
-202266	Subj
+202053	Cmpl
+202055	Objc
+202060	Cmpl
+202074	Subj
+202076	Subj
+202081	Objc
+202084	Subj
+202086	Cmpl
+202089	Subj
+202095	Objc
+202099	Objc
+202102	Subj
+202107	Objc
+202112	Objc
 Cmpl
-202269	Objc
-202271	Pred
+202118	Subj
+202123	Subj
+202127	Objc
+202132	Objc
+202134	Subj
+202138	Objc
+202143	Objc
+202145	Subj
+202148	Pred
+202150	Subj
+202155	Objc
+202159	Subj
+202172	Pred
+202178	Subj
+202183	Objc
+Objc
+202186	Cmpl
 Subj
-202287	Objc
-202294	Subj
-202296	Objc
+202197	Objc
+202201	Objc
+202220	Pred
+202253	Cmpl
 Subj
+202258	Subj
+202274	Pred
+202278	Pred
+202283	Subj
+202289	Subj
+202295	Cmpl
+202297	Objc
+Pred
+202300	Subj
+202306	Subj
 202310	Subj
-202316	Subj
-202321	Subj
-202332	Objc
-202335	Objc
-202339	Subj
-202344	Objc
-202346	Subj
-202350	Objc
-202353	Subj
-Objc
-202356	Pred
-202361	Pred
+202320	Pred
+202371	Subj
 Pred
-202364	Pred
 202374	Objc
-202377	Objc
 202380	Objc
-202382	Subj
-202386	Subj
-202399	Subj
+Pred
+202383	Subj
+202390	Cmpl
 Subj
-202402	Objc
-Objc
-202405	Objc
-Pred
-202409	Objc
-202415	Objc
-Pred
-202423	Subj
-202425	Subj
+202401	Pred
+202404	Pred
+202406	Subj
+202413	Objc
 202440	Objc
-202442	Subj
-Subj
-202457	Subj
-202465	Subj
-202477	Objc
+202444	Objc
+Pred
+202455	Subj
+202459	Objc
+202464	Cmpl
+202466	Pred
+202478	Subj
 202481	Objc
-202486	Objc
-202489	Objc
-202493	Objc
-Objc
-202496	Subj
-202500	Objc
-202502	Objc
-Objc
-202516	Objc
-202519	Objc
-202524	Pred
-202528	Objc
-202535	Objc
-Subj
-202540	Subj
-Objc
-202547	Subj
+202485	Subj
+202497	Subj
+202501	Subj
+202504	Pred
+202508	Subj
+202522	Subj
+Cmpl
+202537	Objc
 202549	Subj
-Subj
-202554	Subj
-202563	Subj
-202575	Subj
-Pred
-202579	Subj
-Pred
-202592	Subj
-202597	Objc
-202616	Objc
-202620	Subj
-Pred
-202628	Objc
-202639	Objc
-202648	Subj
+202553	Objc
+Objc
+202557	Pred
+202562	Subj
+202568	Objc
+202617	Objc
+202626	Objc
+202628	Subj
+202630	Objc
+202642	Subj
+202646	Objc
+202653	Subj
 202657	Objc
 202660	Subj
-202675	Cmpl
-Subj
-Cmpl
-202679	Subj
-202682	Objc
-202684	Objc
-202690	Subj
-202692	Objc
-202694	Cmpl
-202696	Objc
-202703	Subj
-202714	Objc
-202732	Objc
+202669	Subj
+202671	Pred
+202674	Objc
+202680	Cmpl
+202683	Cmpl
+202693	Objc
+202704	Subj
+202712	Subj
+202723	Objc
 202735	Subj
-Objc
-202738	Subj
-202762	Subj
-202764	Objc
-202768	Objc
-202771	Subj
-202776	Subj
-202778	Objc
-202782	Subj
-202786	Subj
-Pred
-202802	Objc
+202742	Cmpl
+Subj
+202760	Subj
+202764	Cmpl
+202766	Objc
+202781	Subj
+202788	Subj
 202804	Objc
-202816	Subj
-202830	Subj
-202834	Objc
-202840	Pred
-202845	Objc
-202853	Objc
-Pred
-202865	Pred
-202867	Subj
-202869	Pred
-202874	Objc
-202880	Objc
-202882	Objc
-202899	Subj
-202902	Pred
-202905	Subj
-Cmpl
-202914	Objc
-202916	Objc
-202922	Objc
-202927	Objc
-202934	Objc
-202936	Cmpl
-202938	Pred
-Pred
-Pred
+202816	Cmpl
+202818	Subj
+202821	Pred
+Subj
+202827	Subj
+202831	Subj
+202837	Cmpl
+202840	Subj
 Objc
-202944	Subj
+202843	Subj
+202854	Subj
+202857	Objc
+202873	Subj
+202878	Subj
+202883	Subj
+202888	Subj
+202893	Subj
+Pred
+202897	Subj
+202900	Subj
+Objc
+202903	Objc
+202938	Subj
+202944	Objc
 202948	Objc
-202950	Objc
-202952	Objc
-202955	Subj
-202958	Pred
-202962	Pred
-202965	Subj
-202977	Objc
-Pred
-202981	Subj
-Pred
-Subj
-202990	Objc
-202992	Objc
-202995	Pred
-203000	Subj
-203003	Subj
+202951	Subj
+202954	Cmpl
+202962	Objc
+202967	Subj
+202971	Subj
+202980	Subj
 Objc
-203010	Subj
-203019	Subj
-203026	Objc
+202986	Subj
 Objc
-Subj
-203038	Subj
-203040	Subj
+202990	Subj
+202996	Objc
+203017	Subj
+203022	Subj
+203037	Subj
+203050	Subj
+203061	Objc
+203071	Subj
+203086	Objc
+203091	Subj
+203116	Subj
+203122	Subj
+203125	Pred
+203131	Objc
+203133	Subj
+203150	Subj
 Objc
-203043	Objc
-203048	Pred
-203052	Objc
-203054	Cmpl
-203061	Subj
+203157	Subj
+203166	Objc
+203169	Objc
+203175	Subj
+Cmpl
+203179	Pred
 Subj
-Subj
+203184	Pred
+203202	Pred
 Objc
-203067	Objc
-203070	Pred
-203074	Pred
+203206	Subj
+203210	Cmpl
 Objc
-203078	Pred
-203083	Objc
-203095	Subj
-203100	Objc
-203103	Objc
-203105	Subj
-203118	Pred
-203124	Subj
-203127	Objc
-203129	Objc
-203139	Subj
-203142	Objc
-203145	Objc
-203148	Objc
-203156	Pred
-203158	Subj
-203166	Pred
+203227	Subj
+203232	Subj
+203237	Objc
+203243	Subj
+203269	Subj
+203290	Objc
+203295	Objc
+203324	Objc
+203329	Subj
+203334	Pred
+203338	Objc
+203343	Pred
 Subj
-203171	Pred
-203173	Objc
-203178	Objc
-203180	Objc
-203184	Subj
-203188	Subj
-203199	Subj
-203202	Subj
-203214	Subj
-203219	Subj
-203238	Objc
-203240	Objc
-203245	Cmpl
-203257	Subj
-203266	Subj
-203280	Pred
-Subj
-203288	Objc
-Objc
-203301	Subj
-203309	Subj
-203316	Objc
-203319	Subj
-Subj
-203323	Pred
-203343	Objc
-203345	Pred
-203349	Objc
+203349	Subj
 203354	Subj
-203358	Objc
+203358	Pred
+203365	Cmpl
+203371	Subj
+203379	Subj
+203391	Subj
+203411	Subj
+203427	Subj
+203435	Pred
+Subj
+203441	Subj
+203445	Objc
+203452	Cmpl
+203457	Objc
+203460	Cmpl
 Objc
-203366	Objc
-203369	Subj
-Pred
-203372	Subj
-203376	Objc
-203379	Objc
-203396	Subj
-Objc
-203400	Objc
-203407	Objc
-203410	Objc
-203413	Objc
-203417	Pred
-Subj
-203420	Pred
-203422	Objc
-Subj
-203430	Objc
-Subj
-Objc
-203439	Pred
-203441	Objc
-Cmpl
-Subj
-203447	Objc
-203450	Pred
-203453	Subj
-203455	Subj
-Cmpl
-203459	Objc
-203467	Objc
-203494	Objc
-203496	Pred
-Pred
-203499	Pred
-203514	Objc
-203518	Pred
-203524	Objc
-203527	Subj
-203530	Subj
-203532	Subj
-Pred
-203540	Subj
-203545	Subj
+203467	Cmpl
+203479	Subj
+203499	Subj
+203501	Objc
+203503	Cmpl
+203505	Cmpl
+203517	Pred
+203532	Objc
 203549	Subj
-203551	Subj
-203554	Objc
-203558	Subj
-203563	Pred
-203579	Subj
-203584	Subj
-Subj
-203599	Pred
-203602	Subj
-203608	Objc
-203628	Subj
-Subj
-203637	Subj
-203639	Objc
-203654	Subj
-203656	Subj
+203556	Subj
 Pred
-203659	Objc
+203571	Subj
+203573	Subj
+203575	Objc
+203585	Objc
+203597	Subj
+203605	Subj
+203617	Subj
+203630	Cmpl
+203635	Objc
+Subj
+203642	Objc
+203644	Cmpl
 Objc
-203662	Objc
-203667	Objc
-Pred
-203672	Subj
-203674	Subj
-203681	Objc
-203687	Objc
-203694	Subj
-203700	Objc
-203706	Pred
-Pred
+203647	Objc
+203656	Objc
+203667	Cmpl
+203670	Objc
+203675	Objc
+203680	Objc
+203693	Cmpl
+203697	Subj
+203707	Subj
 203709	Objc
-203711	Objc
-203713	Objc
-203719	Objc
-203723	Objc
+203711	Subj
+203735	Objc
+203737	Cmpl
 Subj
-Pred
-Subj
-203733	Pred
-203739	Pred
-203742	Subj
-Pred
-203749	Pred
-203752	Objc
-203758	Pred
-Subj
-203761	Objc
-203768	Subj
+203744	Cmpl
 Objc
-203774	Subj
-203781	Subj
-203784	Subj
-203787	Subj
-203795	Pred
-203807	Pred
-203816	Objc
-203825	Subj
-203830	Cmpl
-Objc
-203836	Objc
-203838	Pred
-203847	Objc
-203851	Subj
-203853	Subj
-203855	Subj
+203750	Objc
+203764	Objc
+203769	Cmpl
+Subj
+203781	Objc
+203786	Objc
+203795	Cmpl
+203804	Objc
+Subj
+203807	Objc
+203812	Objc
+203818	Cmpl
+203822	Subj
+203826	Pred
+203828	Subj
+203834	Objc
+203846	Subj
+Cmpl
+203849	Objc
 203859	Cmpl
-203861	Objc
-203871	Pred
-203875	Subj
-203886	Subj
-203891	Subj
-203907	Subj
+203862	Subj
+203876	Cmpl
+203879	Objc
+203883	Subj
+203893	Subj
+203896	Subj
+203902	Cmpl
+203910	Objc
+203920	Cmpl
 203927	Subj
-203930	Objc
-203935	Subj
-203949	Objc
-Pred
 Subj
-203953	Subj
-203961	Objc
-203965	Objc
-203967	Objc
-Objc
-203977	Subj
-203979	Objc
-203981	Objc
-203989	Subj
-203997	Subj
-204002	Subj
-204007	Objc
-204019	Subj
+203931	Cmpl
+203948	Subj
+203962	Subj
+203972	Subj
+203980	Pred
+203985	Subj
+203992	Subj
+203994	Objc
+203999	Cmpl
+204003	Subj
+204005	Pred
+204012	Objc
+204015	Cmpl
+204021	Subj
+204024	Cmpl
 Subj
-204022	Objc
-204033	Pred
-204035	Objc
-204049	Objc
-204055	Objc
-204058	Subj
-204060	Objc
-204069	Objc
-Objc
-204075	Objc
-204082	Objc
-204085	Objc
-204093	Objc
-204095	Pred
-204098	Objc
+204043	Cmpl
+204067	Objc
+204093	Cmpl
+Subj
+204098	Subj
 204103	Objc
-204106	Objc
-Objc
-Objc
-204111	Objc
-204113	Subj
+204107	Subj
 204116	Subj
-204128	Subj
+204124	Subj
+204129	Cmpl
+204131	Subj
+204137	Subj
+204140	Cmpl
 Subj
-204133	Objc
-204136	Cmpl
-204141	Subj
-204143	Subj
-204146	Objc
-204155	Objc
-Pred
+204146	Cmpl
+204148	Subj
+204158	Subj
+204161	Objc
+204163	Subj
+204169	Subj
 204175	Objc
+204179	Subj
+204188	Subj
+204193	Pred
+204196	Cmpl
+204228	Cmpl
 Pred
-Subj
-204187	Subj
-Subj
-204198	Pred
-204200	Subj
-Objc
-204205	Subj
+204231	Subj
+204256	Pred
+204262	Subj
+204271	Subj
 Pred
-Objc
-Objc
-Objc
-204214	Subj
-204221	Objc
-204240	Subj
-Objc
-204244	Pred
-204249	Objc
-Objc
-204253	Objc
-204258	Objc
-204261	Objc
-204266	Objc
-Objc
-204272	Objc
-Subj
-Subj
-204279	Objc
-204281	Subj
+204275	Objc
 204285	Objc
-Objc
-Objc
-204290	Objc
-204292	Objc
-204294	Objc
-Objc
-Objc
-Objc
-204303	Subj
-204308	Subj
-204311	Objc
 Subj
-204314	Objc
-204316	Subj
-Objc
-204324	Objc
-204338	Objc
-204351	Objc
-204353	Objc
-204355	Subj
-Pred
-Pred
-204359	Objc
-204364	Cmpl
-204372	Objc
-204374	Subj
-204376	Objc
-204383	Objc
-Cmpl
-204386	Subj
-204390	Objc
-204395	Subj
-204398	Subj
-204403	Objc
-204405	Objc
-Objc
-204411	Objc
-204428	Subj
-204431	Objc
-204433	Subj
-204435	Objc
-204441	Subj
-204443	Objc
+204289	Objc
+Subj
+204295	Subj
+204299	Cmpl
+204319	Subj
+204323	Pred
+Subj
+204328	Pred
+204333	Objc
+204343	Subj
+204348	Subj
+204357	Objc
+204359	Cmpl
+204367	Cmpl
+204376	Subj
+204381	Subj
+204402	Objc
+204407	Subj
+204422	Subj
 204446	Objc
-204448	Objc
-204450	Subj
+Objc
+Cmpl
+204450	Objc
 204453	Pred
-Subj
-Objc
-204457	Objc
-Subj
-Pred
-Subj
-204462	Subj
-Subj
-Subj
+204456	Objc
 204469	Objc
-204472	Objc
-204476	Objc
-Pred
-204481	Subj
-204485	Objc
 Subj
-204494	Subj
-204498	Subj
-204502	Objc
-204508	Objc
-204510	Objc
-204514	Cmpl
-Pred
-204517	Cmpl
-204519	Objc
-204521	Subj
-Objc
-204529	Objc
-204548	Objc
-204551	Objc
-204554	Subj
+204473	Objc
+204476	Cmpl
+204479	Objc
+204487	Objc
+204491	Objc
+204500	Objc
+204507	Subj
+204511	Cmpl
+204523	Objc
+204528	Pred
+204540	Objc
+204544	Subj
+204549	Objc
+204551	Subj
+204553	Subj
+204557	Objc
 204559	Objc
-204572	Subj
-204575	Subj
-204579	Cmpl
-204584	Objc
-204587	Subj
-204591	Subj
-Objc
-204594	Subj
-204601	Subj
-204605	Subj
-204610	Subj
-204616	Subj
-204620	Subj
+204565	Objc
 Subj
-204624	Objc
+204569	Objc
+204576	Objc
+204586	Subj
+204600	Subj
+204607	Objc
+204653	Objc
+204658	Objc
+204662	Subj
+204669	Pred
 Subj
-204627	Subj
-204631	Subj
-204640	Subj
-204644	Subj
-Subj
-204656	Pred
-204660	Pred
-204666	Subj
-204670	Subj
-Objc
-Objc
-204677	Objc
-204679	Pred
-Pred
-204682	Objc
-204696	Objc
-Objc
-Subj
-204700	Subj
-204711	Objc
-204719	Subj
-204723	Subj
+204676	Subj
+204684	Subj
+204686	Subj
+204689	Subj
+204705	Objc
+204712	Pred
+204714	Subj
+204721	Subj
 204728	Objc
-204731	Cmpl
-204736	Pred
-204740	Subj
+204734	Objc
 Objc
-204748	Objc
 Subj
-204754	Objc
-204757	Objc
-204761	Objc
-204764	Pred
+204739	Subj
+204745	Objc
+204747	Subj
+204751	Objc
+204754	Cmpl
+Subj
+204767	Subj
+204772	Subj
+204776	Subj
+204802	Subj
+204807	Objc
+204815	Objc
+204820	Objc
+204823	Subj
+Cmpl
+204826	Subj
+204831	Subj
 Pred
-204768	Subj
-Subj
-204771	Subj
-Objc
-204774	Subj
-204777	Objc
-204780	Subj
-Subj
-204784	Objc
-204791	Objc
-Subj
-Subj
-204797	Subj
-204807	Subj
-204812	Subj
-204814	Objc
-204816	Pred
-204819	Subj
-204823	Objc
-204825	Subj
-204827	Subj
-204830	Objc
-204832	Pred
-204834	Objc
-204837	Objc
-204843	Objc
-204847	Subj
-204853	Subj
+204837	Subj
+204839	Objc
+204842	Objc
+204849	Objc
+204852	Cmpl
 204855	Subj
-204857	Pred
-Subj
+204859	Objc
+204863	Subj
+204867	Pred
+204873	Subj
+204884	Subj
+204889	Objc
+204891	Subj
+204894	Pred
+204903	Subj
+204911	Subj
 Objc
-Subj
+204923	Subj
+204927	Objc
+204934	Subj
 Pred
-204864	Subj
-204868	Objc
-204870	Objc
-204875	Subj
-204880	Objc
+204939	Subj
+204951	Cmpl
+204955	Pred
+204959	Pred
+204964	Subj
+204978	Objc
+204985	Subj
+204989	Subj
+204992	Objc
+204997	Cmpl
 Subj
-204885	Objc
-204894	Subj
-204901	Objc
-204906	Objc
-204916	Subj
-204920	Subj
-204924	Subj
-204927	Pred
-204938	Subj
-204941	Pred
-204943	Pred
-204945	Objc
-204947	Subj
-204949	Objc
-204951	Objc
-Subj
-Objc
-Objc
-204957	Subj
-204960	Subj
-204963	Objc
-204966	Objc
-204970	Objc
-Subj
-204976	Subj
-204980	Subj
-204986	Subj
-204988	Subj
-204993	Subj
-204995	Pred
-Objc
-205004	Objc
-205007	Subj
+205003	Subj
+205007	Objc
 205015	Objc
-205019	Objc
-205024	Subj
-Objc
-205030	Subj
-Objc
-205033	Subj
-205037	Subj
-205040	Objc
-205047	Objc
-205049	Objc
-205051	Subj
-205057	Subj
-205059	Subj
+205017	Subj
+205034	Objc
+205040	Cmpl
+205043	Objc
+Subj
+205047	Subj
+205049	Pred
+205056	Subj
+205059	Cmpl
 205061	Subj
-205063	Subj
 205065	Objc
-205073	Subj
-205076	Subj
-205078	Objc
-205080	Subj
-Pred
-205087	Subj
 Subj
+205069	Objc
+Subj
+205076	Objc
+205080	Objc
+205082	Objc
 Objc
-205092	Subj
-205099	Objc
-205101	Objc
-205103	Cmpl
-205143	Subj
-205167	Subj
-205183	Objc
-205192	Pred
-205202	Subj
-205234	Subj
-205236	Pred
+205085	Subj
+205090	Objc
+205094	Subj
+205102	Cmpl
+205106	Objc
+205113	Pred
+205120	Subj
+205126	Objc
+205130	Subj
+205137	Cmpl
+Subj
+205143	Cmpl
+205147	Cmpl
 Objc
-205251	Subj
-Pred
+205162	Objc
 Subj
-205255	Pred
-205257	Subj
+205166	Subj
+205171	Objc
+205176	Objc
+205180	Cmpl
 Subj
+205188	Cmpl
+Objc
+205192	Objc
+205194	Objc
+205201	Subj
+205206	Objc
 Subj
-205270	Objc
-205275	Subj
-205281	Pred
+205212	Cmpl
+Objc
+205218	Subj
+205223	Objc
 Subj
-205288	Objc
+205229	Cmpl
+205232	Objc
+205237	Cmpl
+Objc
+205243	Objc
+205249	Subj
+205254	Objc
+205260	Subj
+205262	Pred
+205265	Objc
+205272	Objc
+Objc
+205276	Cmpl
+205278	Objc
+205284	Objc
 205293	Objc
-205298	Subj
-205303	Objc
-205310	Objc
-205317	Pred
-205319	Objc
-205323	Objc
+205301	Objc
+205304	Objc
+205308	Objc
+205312	Objc
+205314	Objc
+Objc
+205320	Objc
+Objc
+205328	Objc
 205331	Objc
-205344	Subj
-205347	Objc
-205351	Objc
 205353	Objc
-Pred
+205360	Objc
+205367	Subj
+205371	Pred
+205376	Cmpl
 Objc
+205380	Subj
+205386	Objc
+205389	Objc
+205395	Objc
+205399	Subj
 Objc
-Objc
-205370	Subj
-205377	Subj
-Objc
-205389	Pred
-205396	Cmpl
-205398	Subj
-Objc
-205405	Objc
-205428	Subj
-205432	Cmpl
-205434	Objc
-Pred
-Objc
-205439	Cmpl
-Cmpl
-Cmpl
-205445	Subj
-205451	Objc
-Objc
-205455	Subj
-Pred
+205404	Pred
+205409	Objc
+205413	Subj
+205435	Objc
+205438	Objc
+205443	Objc
+205453	Objc
+205455	Objc
+205465	Objc
+205476	Objc
+205484	Subj
+205499	Objc
+205501	Objc
+205531	Objc
+205534	Subj
+205537	Subj
+205558	Subj
+205568	Subj
+205586	Objc
+205588	Subj
+205595	Objc
+205599	Subj
+205602	Objc
+205607	Objc
+205613	Subj
+205615	Objc
 Subj
-Pred
-205460	Subj
-Pred
-Pred
-205473	Objc
-205479	Objc
-205481	Objc
-205486	Subj
-205489	Subj
-205492	Cmpl
-205498	Subj
-205504	Pred
-205506	Objc
-205515	Pred
-205518	Subj
-Objc
-205524	Objc
-205528	Subj
-205530	Objc
-205542	Cmpl
-205545	Subj
-205549	Objc
-205553	Objc
-205557	Subj
-205561	Objc
-205563	Subj
-205565	Subj
-205569	Pred
-205594	Subj
-205598	Objc
-205602	Subj
-Subj
-205608	Pred
-Subj
-205611	Objc
-205614	Subj
-Subj
-Subj
-205621	Cmpl
-Objc
-205625	Objc
-205636	Objc
-205643	Pred
-205645	Subj
-Objc
-205650	Objc
-Subj
-205658	Objc
-205665	Subj
-205668	Subj
-205684	Subj
-205693	Pred
-205708	Objc
-205718	Subj
-205728	Objc
-205731	Pred
-205733	Objc
-205741	Objc
-205745	Objc
-205748	Objc
-205751	Objc
-205754	Objc
-205757	Objc
-205760	Objc
-205763	Objc
-205769	Objc
-205775	Objc
-205778	Subj
-205791	Pred
-205795	Subj
-205799	Subj
-205806	Objc
-205808	Objc
-Objc
-205813	Pred
-205817	Subj
-205826	Objc
-205830	Pred
-205833	Objc
-205835	Objc
-205842	Subj
-205849	Subj
-Pred
-205852	Pred
-205854	Objc
-Objc
-205858	Objc
-Objc
-205862	Subj
-205867	Subj
-Subj
-205870	Subj
-Objc
-205874	Objc
-205876	Cmpl
-Objc
-Objc
-Objc
-205886	Subj
-205890	Objc
+205621	Objc
+205626	Subj
+205660	Subj
+205665	Pred
+205671	Subj
+205679	Pred
+205702	Subj
+205705	Pred
+205711	Objc
+205714	Objc
+205727	Subj
+205732	Subj
+205734	Pred
+205752	Objc
+205768	Objc
+205775	Subj
+205785	Objc
+205789	Objc
+205801	Objc
+205804	Cmpl
+205809	Objc
+205811	Objc
+205818	Objc
+205822	Subj
+205831	Objc
+205858	Subj
+205875	Objc
+205879	Objc
 205898	Subj
-205901	Objc
-Pred
-205911	Objc
-205917	Objc
-205920	Objc
+205906	Subj
+205908	Cmpl
 Objc
-Pred
-Objc
-Objc
-205928	Objc
-Objc
-205931	Subj
-205934	Objc
-205940	Subj
-205943	Objc
-205947	Pred
-205949	Objc
+205926	Subj
+205931	Pred
+205942	Subj
+205950	Objc
 205955	Subj
-205957	Objc
-205964	Subj
-205972	Objc
-205975	Objc
-205998	Subj
-206003	Subj
-206012	Subj
-206025	Subj
-Subj
-206028	Pred
-206030	Subj
-Pred
-206036	Subj
-206039	Subj
-206043	Subj
-206046	Objc
-206059	Objc
-206063	Subj
-206076	Subj
+205958	Cmpl
+205971	Pred
+205973	Pred
+205978	Objc
+206000	Objc
+206004	Cmpl
+206015	Objc
+206020	Cmpl
 Objc
-206093	Subj
-206096	Pred
-206099	Subj
-206101	Pred
-206105	Subj
-206109	Pred
-206111	Cmpl
-Subj
-206114	Subj
-206123	Subj
-206126	Subj
-206128	Subj
-Subj
-Pred
-206134	Objc
-206137	Pred
-206140	Subj
-206146	Subj
-Pred
-Objc
-206150	Objc
-206153	Subj
-206155	Pred
-206170	Objc
-206172	Objc
-206174	Pred
-Subj
-Objc
-206179	Subj
-206183	Pred
-206185	Subj
-206189	Subj
-206192	Pred
-Objc
-206196	Subj
-Subj
-206200	Pred
-206202	Objc
-206204	Pred
-206207	Objc
-206211	Pred
-Objc
-206214	Pred
-206218	Subj
-Objc
-206221	Subj
-206225	Objc
-206227	Objc
-Objc
-Objc
-206231	Subj
+206041	Objc
+206044	Subj
+206048	Pred
+206055	Subj
+206069	Subj
+206085	Subj
+206088	Cmpl
+206092	Objc
+206097	Cmpl
+206115	Subj
+206121	Cmpl
+206131	Objc
+206134	Cmpl
+206148	Subj
+206162	Objc
+206168	Objc
+206171	Objc
+206178	Objc
+206183	Objc
+206186	Pred
+206198	Cmpl
+206214	Subj
+206219	Subj
+206224	Objc
 206235	Objc
-206240	Objc
-Subj
-206244	Pred
-Subj
-206258	Pred
-206260	Pred
-206265	Objc
-206270	Pred
-206272	Subj
-Pred
-206275	Pred
-Pred
-206278	Pred
-206281	Objc
-Subj
-Pred
+206240	Cmpl
+206253	Subj
+206271	Objc
 206285	Subj
+206288	Objc
+206301	Cmpl
+206317	Objc
+206320	Cmpl
+206327	Objc
+206354	Pred
 Pred
-206290	Subj
-Objc
-Objc
-Objc
-Objc
-206300	Subj
-206305	Subj
-Pred
-206310	Subj
-206313	Subj
-206322	Subj
-206324	Objc
-206326	Objc
+206361	Subj
+206363	Pred
+206371	Subj
+206376	Pred
+206379	Pred
 Subj
-Pred
-206330	Subj
-Pred
+206404	Pred
 Subj
-Objc
-206336	Subj
-Objc
-Objc
-206340	Subj
-Pred
-Objc
-Pred
+206408	Subj
+206411	Pred
+206413	Subj
+206430	Subj
+206470	Subj
+206492	Cmpl
 Subj
-206346	Subj
-Objc
-Objc
-Pred
-206352	Subj
-206354	Subj
-206357	Objc
-206360	Subj
-206363	Subj
-206374	Subj
-Pred
-206377	Objc
-206379	Subj
-206381	Pred
-206383	Objc
-206386	Subj
-206388	Subj
-206391	Subj
-206396	Objc
-206399	Subj
-Objc
-206402	Subj
-Objc
-206407	Objc
-206409	Objc
-206413	Objc
-Objc
-206417	Subj
-206419	Objc
-206422	Subj
-206429	Pred
-206432	Objc
-206434	Subj
-206436	Subj
-206439	Subj
-206443	Objc
-206445	Objc
-206447	Subj
-206449	Objc
-206453	Objc
-206461	Objc
-Objc
-Pred
-206465	Subj
-206469	Objc
-206472	Subj
-206474	Pred
-206476	Subj
-Objc
-Pred
-206482	Pred
-206484	Pred
-206486	Subj
-206488	Subj
-206491	Pred
-206496	Subj
-Pred
-206499	Objc
-Pred
-206509	Subj
-Pred
-206512	Subj
-206515	Objc
-Objc
-Subj
-206519	Subj
-206523	Objc
-206527	Subj
-206531	Pred
-Subj
-Objc
-Objc
-206536	Objc
-206540	Subj
-Subj
-Subj
-206544	Subj
-206551	Objc
-206554	Subj
-Objc
-Objc
-206558	Pred
+206510	Subj
+206513	Subj
+206523	Subj
+206531	Subj
+206544	Objc
+Cmpl
+206548	Objc
+206553	Objc
+206557	Pred
 206561	Subj
-206565	Objc
-Subj
-206568	Subj
-206573	Subj
-206576	Subj
-206582	Subj
-Pred
-206586	Pred
-206588	Subj
-206590	Objc
-Subj
-206594	Objc
-Objc
-206597	Objc
+206572	Pred
 206599	Objc
+206616	Subj
+206629	Objc
+206636	Objc
+206643	Cmpl
 Objc
-206603	Objc
-Objc
-206607	Subj
-Pred
-206611	Subj
-206614	Objc
-206617	Objc
-Objc
-206620	Subj
-206623	Objc
-206625	Subj
-206627	Subj
-206630	Objc
-206632	Objc
-Pred
-206635	Objc
-Pred
-206646	Pred
+206649	Subj
+206659	Objc
 Subj
-Pred
-206652	Subj
-Pred
-206655	Objc
-206658	Subj
-206661	Subj
-206671	Objc
-206673	Objc
-206676	Subj
+206663	Pred
+206665	Subj
 206680	Subj
-Objc
+206684	Cmpl
 Subj
-Subj
-206685	Pred
-206688	Objc
+206703	Cmpl
 Objc
-Objc
-206693	Objc
-Objc
-206701	Subj
-206706	Objc
-206708	Subj
-206710	Objc
-206713	Objc
-206715	Subj
-206718	Subj
-Subj
-206722	Subj
-206727	Subj
-Pred
+206719	Subj
 206730	Subj
-206734	Subj
-206737	Objc
-206748	Subj
-206756	Objc
-206760	Pred
-206763	Pred
-Subj
-206777	Objc
-206779	Subj
-206783	Subj
-206792	Objc
-Subj
-206803	Objc
-206811	Pred
-206814	Subj
-206817	Subj
-206823	Subj
-206828	Subj
-206833	Objc
-Subj
-206848	Objc
-206850	Cmpl
-206856	Objc
-206859	Objc
-Objc
-Pred
-206863	Objc
-206868	Subj
-Subj
+206742	Subj
+206746	Objc
+206760	Subj
+206766	Cmpl
+206770	Objc
+206778	Subj
+206782	Cmpl
+206785	Pred
+206790	Subj
+206824	Objc
+206831	Cmpl
+206833	Subj
+206840	Objc
 206874	Subj
-Objc
-206879	Cmpl
-206882	Objc
-206889	Cmpl
-206894	Objc
-206899	Objc
-206905	Objc
-206907	Objc
-206917	Objc
-206921	Objc
-206923	Subj
-206931	Objc
-Subj
-206945	Pred
-206960	Objc
-206962	Subj
-206966	Cmpl
-206973	Objc
-206984	Subj
 Pred
-206990	Subj
-206999	Pred
-207002	Subj
-207015	Objc
-207021	Objc
-207024	Objc
-207046	Subj
-Cmpl
-207060	Objc
-207064	Subj
-207074	Pred
-207108	Subj
-207136	Objc
-207139	Cmpl
-207149	Objc
-207151	Objc
-207156	Objc
-207161	Objc
-207165	Subj
-207167	Pred
-207169	Subj
-207173	Subj
-207175	Subj
-207181	Objc
-207185	Subj
-207187	Subj
-207189	Subj
-207197	Objc
-207207	Objc
-207223	Subj
-207225	Pred
-207228	Subj
-207231	Pred
-Cmpl
-207237	Objc
-207257	Objc
-207261	Objc
-207263	Objc
-207271	Subj
-Cmpl
-207277	Pred
-207281	Cmpl
-207288	Objc
-207291	Objc
-207294	Pred
-207296	Subj
-Objc
-207299	Objc
-207302	Objc
-207305	Subj
-Cmpl
-207312	Cmpl
-207317	Objc
-207322	Subj
-207325	Objc
-207327	Objc
-207338	Subj
-207340	Objc
+206881	Cmpl
+206884	Subj
+Pred
+206892	Subj
+206899	Pred
+206908	Subj
+206911	Pred
+206914	Subj
+206924	Pred
+206926	Subj
+206933	Subj
+206936	Cmpl
+206942	Objc
+206956	Objc
+206959	Objc
+206964	Objc
+Subj
+206967	Pred
+206969	Pred
+206975	Cmpl
+206980	Objc
+207010	Pred
+207012	Subj
+207015	Subj
+207023	Subj
+207025	Objc
+207030	Subj
+207034	Cmpl
+Subj
+207043	Subj
+207047	Objc
+207049	Subj
+207057	Pred
+207068	Subj
+207072	Objc
+207079	Subj
+Pred
+207087	Pred
+207096	Subj
+207101	Subj
+207103	Pred
+207122	Subj
+207127	Subj
+207160	Objc
+207167	Objc
+207174	Subj
+207178	Subj
+207193	Subj
+207204	Subj
+207210	Subj
+207220	Pred
+207222	Subj
+207225	Subj
+207241	Subj
+207261	Subj
+207272	Pred
+207277	Subj
+207280	Cmpl
+207286	Subj
+207288	Subj
+207293	Objc
+207298	Subj
+207334	Objc
+Subj
 207342	Cmpl
-207346	Subj
 Objc
-207356	Subj
-Cmpl
-207364	Cmpl
-207372	Objc
-207374	Objc
-207376	Subj
-207385	Subj
-207392	Subj
-207404	Objc
-207407	Subj
-207409	Cmpl
-207416	Objc
-207418	Objc
-207422	Objc
-207425	Objc
-207427	Objc
-207432	Subj
-207438	Objc
-207441	Subj
-Cmpl
-Cmpl
-207454	Objc
+Subj
+207348	Pred
+Subj
+207355	Subj
+207367	Objc
+207369	Objc
+207376	Objc
+207383	Objc
+207389	Objc
+207396	Objc
+207403	Objc
+207429	Subj
+207447	Cmpl
+207452	Subj
 207458	Subj
-207466	Objc
-207468	Objc
-207475	Objc
-207481	Objc
-207489	Subj
-Cmpl
-Cmpl
-207498	Objc
+207461	Objc
+207475	Subj
+Objc
 207500	Objc
-207504	Objc
-Objc
-207507	Objc
-207516	Objc
-207529	Objc
-207559	Subj
+207505	Objc
+207517	Objc
+207520	Subj
+207529	Pred
+207538	Pred
+207545	Subj
+207554	Cmpl
+207560	Pred
+207564	Subj
+207567	Objc
+207570	Pred
+207572	Subj
+207577	Subj
+207580	Subj
+207587	Subj
+207595	Objc
+207604	Subj
+207607	Objc
+207621	Subj
+207630	Subj
+207642	Pred
+207644	Subj
+207650	Subj
+207657	Pred
+207674	Pred
+207687	Objc
 Cmpl
-Cmpl
-207575	Objc
-207580	Objc
-Pred
-207583	Objc
-207585	Objc
-Subj
-207590	Objc
-207594	Objc
-207596	Objc
-207610	Subj
-Cmpl
-207615	Subj
-207626	Subj
-207629	Pred
-207631	Subj
-207635	Subj
-207639	Pred
-207642	Subj
-207645	Subj
-207649	Pred
-207653	Pred
-207655	Subj
-207663	Subj
-207665	Subj
-207668	Subj
-207670	Subj
-207672	Objc
-207675	Subj
-207678	Subj
-207683	Objc
-207686	Subj
-207693	Subj
-207703	Objc
-207713	Objc
-207722	Objc
-207725	Subj
-207728	Objc
-Objc
-207731	Subj
-207738	Objc
-Subj
-Objc
-Subj
-207765	Pred
+207695	Objc
+207698	Cmpl
+207724	Objc
+207739	Objc
+207741	Objc
+207757	Objc
+207769	Cmpl
 207778	Objc
-207788	Pred
-207791	Objc
-Objc
-Objc
-207795	Cmpl
-207799	Objc
-207801	Cmpl
-207805	Objc
-207811	Subj
-207817	Objc
-207841	Subj
-207843	Subj
+207794	Subj
+207799	Pred
+207809	Objc
+207814	Objc
+207817	Cmpl
+207842	Objc
 Subj
-Objc
-207849	Subj
-207855	Subj
-207857	Objc
-207860	Subj
-207862	Subj
-207865	Objc
-207868	Subj
-Objc
-207872	Subj
-207874	Subj
-207883	Subj
-Subj
-207888	Objc
-207891	Subj
-207894	Subj
-207896	Subj
-Subj
-207910	Objc
-207914	Objc
-207927	Objc
-207932	Cmpl
-Subj
-207935	Subj
-207940	Subj
-Objc
-207944	Subj
-Subj
-207948	Subj
-207951	Subj
-207956	Objc
-207960	Subj
-Subj
-207990	Subj
-207997	Subj
-208003	Objc
-208013	Subj
-208016	Objc
-208019	Cmpl
-208026	Objc
-208043	Subj
-208046	Subj
-208049	Subj
-208052	Subj
-208055	Subj
-208058	Subj
-208061	Subj
-208064	Subj
-208067	Subj
-208070	Subj
-208073	Subj
-208076	Subj
-208078	Subj
-208086	Objc
+207859	Objc
+207869	Subj
+207879	Pred
+207907	Subj
+207913	Subj
+207918	Subj
 Pred
-208091	Subj
-208097	Subj
-208109	Objc
-208117	Cmpl
-208123	Subj
-208126	Objc
-208134	Objc
-208141	Pred
-208162	Subj
-Objc
-208167	Objc
-208173	Objc
-208177	Subj
+207927	Subj
+207930	Subj
+207932	Subj
+207942	Subj
+207965	Subj
+207967	Pred
+207972	Subj
+Pred
+207986	Cmpl
+207988	Pred
+207995	Subj
+Pred
+207998	Subj
+208004	Subj
+208007	Objc
+208018	Objc
+208021	Objc
+208028	Pred
 Subj
-208181	Objc
+208036	Subj
+208038	Pred
+208049	Objc
+208062	Subj
+208066	Cmpl
+208068	Subj
+208072	Objc
+208075	Objc
+208080	Cmpl
 Subj
-208194	Subj
-208205	Subj
-Objc
-208215	Objc
-208217	Subj
-208221	Subj
-208224	Subj
-208227	Subj
-208229	Subj
-208231	Subj
-208236	Subj
-208239	Subj
-208245	Subj
-208248	Subj
-208252	Subj
+208089	Cmpl
+208093	Subj
+208095	Pred
+208102	Cmpl
+208105	Subj
+208115	Subj
+208117	Pred
+208119	Subj
+208134	Subj
+208140	Objc
+208145	Subj
+208149	Pred
+208154	Subj
+Pred
+208172	Subj
+208175	Subj
+208196	Objc
+Subj
+208201	Cmpl
+208216	Subj
+208235	Cmpl
+208244	Subj
 208261	Subj
-208264	Pred
-Subj
-208268	Pred
-Subj
-208273	Subj
-208284	Subj
-208286	Subj
-208289	Subj
-Subj
-208303	Subj
-208309	Subj
-208314	Objc
-208319	Subj
-208331	Subj
-208339	Objc
-Objc
-208346	Subj
-208348	Pred
-208353	Subj
-Objc
-208356	Subj
-208358	Subj
-208363	Pred
-208366	Subj
-Subj
-208369	Pred
-208371	Objc
+208265	Objc
+208271	Objc
+208282	Subj
+208288	Objc
+208295	Objc
+208307	Subj
+208312	Objc
+208315	Subj
+208320	Pred
+208332	Subj
+208341	Subj
+208358	Objc
+208363	Cmpl
 208374	Subj
-208376	Pred
-Objc
-208380	Subj
-208384	Pred
-208390	Pred
-208393	Subj
-208395	Objc
-208401	Subj
-208404	Subj
-208407	Subj
-208409	Subj
-208411	Objc
-208424	Objc
-208435	Objc
-208438	Subj
-208443	Pred
-Objc
-208446	Objc
-208450	Objc
-Subj
-208454	Pred
-208463	Subj
-208473	Subj
-208482	Subj
+208379	Objc
+Pred
+208388	Objc
+208411	Subj
+208413	Pred
+208417	Subj
+Pred
+208420	Subj
+208429	Objc
+208435	Subj
+208439	Pred
+208445	Cmpl
+208458	Objc
+208463	Objc
 208485	Subj
-208516	Subj
-208520	Subj
+208494	Subj
+208506	Subj
+208510	Objc
+208518	Objc
+208525	Objc
+208543	Subj
+208553	Objc
+208600	Objc
+Subj
+208613	Subj
+208645	Subj
+208654	Subj
+208657	Subj
+208668	Subj
+208690	Subj
 Pred
-208524	Subj
-208526	Pred
-208528	Subj
-208530	Pred
-208535	Objc
-Objc
-208542	Objc
-208546	Subj
-208548	Objc
-208550	Subj
-208554	Subj
-208556	Subj
-208561	Objc
-208588	Subj
-208594	Subj
-208609	Objc
-Objc
-208615	Objc
-208624	Subj
-208637	Cmpl
-Objc
-208642	Cmpl
-208657	Objc
-208659	Objc
-Objc
-208668	Objc
-208671	Objc
-208677	Subj
-208679	Pred
-208685	Subj
-208688	Subj
-208690	Objc
-208693	Subj
 208699	Subj
-208707	Subj
-208714	Subj
-208716	Subj
-208723	Subj
-208728	Subj
-Subj
-208736	Subj
-Cmpl
-208740	Subj
-208743	Subj
-208746	Subj
-208748	Subj
-208751	Subj
-208773	Objc
-208776	Objc
+208702	Objc
+208720	Objc
+208728	Cmpl
+208732	Objc
+208738	Objc
+208761	Subj
+208771	Subj
+208775	Pred
 208780	Subj
-Subj
-208783	Subj
-208786	Objc
-208791	Objc
-208795	Objc
-208802	Subj
-208810	Subj
-208813	Objc
-Subj
-Pred
-208818	Pred
-208821	Subj
+208801	Pred
+208805	Subj
+208817	Objc
 208824	Subj
-208827	Subj
-208831	Pred
-208834	Subj
-Subj
-208837	Objc
-208844	Subj
-208847	Objc
-208850	Objc
-208854	Subj
-208861	Subj
-208864	Objc
-208878	Subj
-208888	Objc
-208892	Subj
-208895	Subj
-208924	Objc
-208931	Subj
-208933	Objc
-Objc
-Subj
-208938	Objc
-Objc
-Cmpl
-Subj
-208956	Subj
-208962	Subj
-Objc
-Subj
-Objc
-208967	Objc
-Subj
-208972	Subj
-208980	Objc
-208983	Objc
-208993	Pred
-208996	Subj
-Pred
+208836	Subj
+208843	Subj
+208845	Pred
+208851	Objc
+208856	Objc
+208874	Objc
+208883	Subj
+208899	Objc
+208902	Objc
+208905	Subj
+208909	Objc
+208923	Objc
+208930	Subj
+208938	Cmpl
+208949	Objc
+208955	Pred
+208958	Objc
+208962	Pred
+208973	Subj
+208975	Subj
+208978	Objc
+208981	Objc
+208983	Cmpl
+208998	Cmpl
 209000	Subj
-Subj
-Subj
-209004	Pred
-Subj
-209007	Pred
-209009	Subj
-209015	Objc
-209020	Subj
-209024	Subj
-209028	Objc
-Objc
-Cmpl
-Objc
-209034	Subj
-209036	Objc
-209052	Subj
-209055	Subj
-209070	Subj
-209074	Subj
-209077	Objc
-Objc
-Objc
-209090	Subj
-209094	Objc
-209109	Cmpl
-Objc
-209113	Cmpl
-209116	Subj
+209006	Objc
+209019	Subj
+209060	Subj
+209077	Subj
+209089	Subj
 209119	Objc
-209144	Subj
-Objc
-209148	Pred
-Subj
-209151	Subj
-209155	Pred
-Subj
-209169	Objc
-209171	Objc
-209173	Subj
-Pred
-209178	Objc
-209185	Objc
-209191	Objc
-209200	Subj
-209202	Objc
-209210	Objc
-Subj
+209140	Subj
+209149	Objc
+209154	Objc
+209156	Objc
+209161	Subj
+209166	Subj
+209174	Subj
+209181	Subj
+209191	Subj
+209194	Objc
+209203	Cmpl
+209215	Subj
+209217	Cmpl
 209228	Objc
-209242	Subj
-209259	Subj
-209268	Objc
-209272	Subj
+209242	Objc
+209244	Objc
+209249	Cmpl
+209252	Subj
+209263	Objc
+Cmpl
+209269	Subj
 209284	Subj
-209288	Subj
-209291	Subj
-209294	Subj
-209299	Objc
-209303	Objc
+209291	Objc
+209302	Objc
 Subj
-209311	Objc
-209313	Subj
-Subj
-209319	Objc
-209323	Subj
-Subj
-209330	Subj
-Objc
-209338	Objc
+209307	Objc
+209313	Cmpl
+209316	Objc
+209326	Objc
+209331	Subj
 209341	Objc
-209345	Objc
-209350	Subj
-209352	Subj
-Objc
-209357	Objc
-209368	Subj
-209385	Subj
-Objc
-209390	Subj
-209393	Subj
-209409	Objc
-209419	Subj
-209423	Subj
-209429	Objc
-209431	Subj
-209434	Subj
-209437	Subj
-209447	Objc
-209451	Objc
-209455	Objc
+209343	Subj
+209349	Objc
+209356	Cmpl
+209360	Objc
 Subj
-209460	Cmpl
-209462	Objc
-209465	Objc
-209472	Subj
-209482	Subj
-209487	Subj
-209490	Cmpl
-209492	Objc
-209500	Subj
+209365	Objc
+209367	Subj
+209372	Cmpl
 Objc
-209505	Subj
-209508	Objc
-209511	Objc
-209513	Subj
-Objc
-209518	Pred
-209525	Subj
-Objc
-209533	Subj
-209537	Objc
+209386	Subj
+209391	Subj
+209406	Subj
+209408	Pred
+209413	Cmpl
 Subj
-209541	Subj
-209543	Subj
+209417	Subj
+209421	Objc
+209432	Pred
+209434	Objc
+209443	Subj
 Objc
-209548	Objc
-209550	Subj
-209552	Objc
-209555	Objc
+209453	Subj
+209458	Pred
+209466	Objc
+209473	Objc
+209483	Objc
+209498	Objc
+209531	Subj
+209535	Objc
+209542	Objc
+209554	Subj
 209559	Subj
-Objc
 209566	Subj
-209568	Objc
-209572	Objc
-209584	Subj
-Objc
-209591	Subj
+209571	Subj
+209588	Subj
 209593	Subj
-209611	Subj
-209631	Objc
-209633	Objc
-209637	Subj
-Objc
-209642	Subj
-209647	Subj
-209651	Subj
-Subj
-209657	Subj
-209660	Subj
-209664	Objc
-209672	Subj
-Subj
-209680	Subj
-Objc
-209686	Subj
-209688	Subj
-209692	Objc
-209695	Objc
-209703	Subj
-209718	Objc
-209721	Subj
-209723	Objc
-209743	Subj
-209753	Objc
-Subj
-209756	Objc
-209764	Subj
-209770	Subj
-209778	Objc
-209780	Subj
-209782	Pred
-Subj
-209785	Pred
-Subj
-Subj
-Subj
-209790	Subj
-Pred
-209794	Subj
-209801	Objc
-Objc
-209804	Cmpl
-209807	Subj
-209810	Subj
-209812	Subj
-Subj
-209817	Objc
-Objc
-209821	Subj
-209825	Objc
-209827	Objc
-Objc
-209830	Cmpl
-Subj
-209834	Subj
-209843	Subj
-209846	Objc
-Subj
+209608	Subj
+209620	Pred
 209853	Subj
-209869	Subj
-209871	Subj
-209875	Subj
-209883	Subj
-209894	Subj
-209898	Subj
-Objc
-209901	Subj
-Objc
-209908	Objc
-209925	Objc
-209942	Subj
-209944	Subj
-209961	Subj
-209968	Subj
-209988	Subj
-209995	Objc
-210009	Subj
-Objc
-210021	Subj
-Objc
-210025	Subj
-210027	Objc
-210035	Subj
-210038	Subj
-210043	Subj
-210046	Subj
-210049	Subj
-210052	Subj
-210054	Pred
-210060	Subj
-210063	Subj
-210068	Subj
-210077	Pred
-210079	Subj
-210081	Objc
-210084	Objc
-210088	Objc
-210094	Subj
-210111	Objc
-210130	Objc
+209890	Objc
+209900	Subj
+209904	Cmpl
 Subj
-210134	Subj
-210136	Objc
-210138	Subj
-Pred
-210148	Pred
-210155	Pred
-210158	Objc
-210160	Objc
+209909	Pred
+209916	Cmpl
+209923	Pred
+209929	Subj
+209941	Subj
+209946	Objc
+209948	Cmpl
+Objc
+209965	Cmpl
 Subj
-210163	Pred
-210166	Subj
+209969	Cmpl
+209985	Cmpl
+209988	Objc
+209992	Objc
 Subj
-210170	Subj
-210172	Pred
-Pred
-210176	Subj
-210178	Objc
+210001	Pred
 Subj
-210181	Pred
-210190	Objc
-210195	Subj
-210197	Objc
-210200	Objc
-210218	Subj
-210223	Cmpl
-210245	Objc
-210252	Subj
-210255	Objc
-210258	Objc
-210261	Objc
+210005	Subj
+210009	Cmpl
+210019	Objc
+210025	Objc
+210042	Cmpl
+210044	Pred
+210051	Objc
+210057	Cmpl
+210068	Objc
+210075	Objc
+210082	Objc
+210090	Cmpl
+Subj
+210106	Objc
+210109	Subj
+210121	Subj
+210139	Subj
+210152	Subj
+210200	Cmpl
+Subj
+210209	Objc
+210213	Objc
+210220	Subj
+210223	Pred
+210230	Objc
+210232	Cmpl
+210234	Objc
+210236	Cmpl
+Objc
+210239	Cmpl
+Objc
+210247	Objc
+210254	Objc
+210258	Cmpl
 210263	Subj
-210269	Subj
-210278	Subj
-210301	Objc
-Subj
-210307	Objc
-210319	Objc
-210328	Subj
-210331	Subj
-210333	Pred
-210341	Subj
-210343	Pred
-210349	Subj
-210351	Subj
-210365	Subj
-210368	Pred
-210406	Subj
-Pred
-Subj
-210415	Subj
-210453	Subj
-210464	Cmpl
-210466	Subj
-210469	Subj
-210472	Pred
-210475	Pred
-Subj
-210478	Pred
+210277	Objc
+210287	Subj
+210300	Subj
+210302	Cmpl
+210326	Pred
+210330	Subj
+210338	Cmpl
 Objc
-210483	Subj
+210346	Objc
 Subj
-210487	Subj
-210502	Subj
-210504	Pred
-210506	Pred
-210509	Subj
-210515	Objc
-210534	Objc
-210537	Subj
-210541	Objc
-Objc
-Pred
-210545	Subj
-Pred
-210550	Pred
+210370	Cmpl
+210372	Subj
+210375	Pred
+210389	Cmpl
 Subj
-Pred
+210394	Pred
+210408	Subj
+210422	Subj
+210425	Pred
+210439	Subj
+210454	Subj
+210463	Pred
+210470	Subj
+210482	Subj
+210491	Objc
+210495	Objc
+210503	Objc
+210514	Subj
+210522	Objc
 Subj
-Pred
-Subj
-Pred
-Subj
-Subj
-210561	Objc
-Pred
-Subj
-210576	Subj
-Subj
-210579	Subj
-Objc
-210584	Subj
-210588	Objc
+210546	Objc
+210562	Pred
+210566	Subj
+210572	Pred
+210578	Subj
+210581	Objc
 210592	Subj
-210596	Subj
+210600	Objc
+210602	Objc
 Pred
-210599	Subj
-210606	Subj
-210609	Subj
+210605	Pred
+210614	Objc
 Subj
+210627	Objc
 Subj
+210642	Objc
+210645	Subj
+210655	Pred
 Subj
-Subj
-Subj
-Subj
-Subj
-Subj
-Subj
-Subj
-Subj
-210622	Pred
-Subj
-210626	Pred
-210628	Subj
-210631	Pred
-210638	Pred
-210640	Subj
-Objc
-210644	Subj
-210647	Subj
-210649	Pred
-Subj
-210654	Subj
-210657	Objc
-210660	Subj
-210663	Objc
-210670	Subj
+210668	Cmpl
 210677	Subj
-210687	Pred
-210692	Subj
-210695	Objc
-210698	Objc
-210700	Subj
-210703	Pred
 210706	Subj
-Subj
-210711	Pred
-Subj
-210714	Objc
-210716	Subj
-210718	Pred
-210721	Objc
-210730	Subj
-210738	Objc
-210740	Cmpl
-210743	Objc
-210753	Pred
-210757	Objc
-210761	Objc
-Objc
-210768	Subj
-Subj
-Subj
-Subj
-Subj
-210774	Pred
-Subj
-210783	Objc
-210785	Subj
-210787	Pred
-210800	Objc
-210804	Pred
-210815	Objc
-Cmpl
-Objc
-210824	Subj
-210837	Subj
-Objc
+210720	Objc
+210730	Objc
+210735	Objc
+210740	Objc
+210743	Subj
+210746	Subj
+210748	Subj
+210755	Objc
+210759	Subj
+210761	Cmpl
+210766	Objc
+210771	Objc
+210774	Subj
+210784	Subj
+210786	Pred
+210797	Subj
+210801	Pred
+210804	Subj
+210808	Subj
+210817	Subj
+210821	Objc
+210829	Objc
+210836	Subj
+210843	Cmpl
 210851	Subj
-210854	Pred
-226812	Pred
-226822	Objc
-226825	Objc
-226843	Objc
-226846	Objc
-226849	Objc
-226852	Objc
-226855	Objc
+210853	Objc
+210883	Subj
+210887	Objc
+210890	Objc
+210898	Subj
+210911	Subj
+210920	Subj
+210929	Objc
+210941	Subj
+210943	Pred
+210945	Subj
+210961	Objc
+210982	Objc
+210992	Subj
+211001	Objc
+211012	Objc
+211016	Objc
+211019	Objc
+211026	Subj
+211033	Cmpl
+211047	Objc
+211052	Objc
+211059	Subj
+211076	Pred
+211081	Subj
+211102	Objc
+211106	Objc
+211114	Subj
+211116	Pred
+211127	Subj
+211137	Objc
+211143	Objc
+211152	Objc
+211154	Objc
+211161	Subj
+Pred
+211171	Subj
+211178	Objc
+211186	Objc
+211192	Objc
+211196	Objc
+211200	Objc
+211206	Subj
+211214	Subj
+211216	Cmpl
+Cmpl
+211222	Objc
+Cmpl
+211237	Subj
+211246	Subj
+211255	Subj
+211268	Subj
+211290	Subj
+211301	Subj
+211319	Subj
+211327	Subj
+211330	Subj
+211336	Subj
+211342	Objc
+211354	Objc
+211372	Objc
+211390	Objc
+211398	Cmpl
+Subj
+211415	Pred
+211418	Subj
+211420	Objc
+Subj
+211423	Objc
+211427	Subj
+211434	Subj
+211437	Objc
+211456	Subj
+211458	Pred
+211461	Cmpl
+Subj
+211476	Subj
+211483	Objc
+211491	Objc
+211495	Cmpl
+211500	Objc
+211533	Objc
+211537	Subj
+211539	Objc
+211542	Objc
+211551	Objc
+211560	Subj
+211563	Pred
+211572	Cmpl
+211574	Objc
+211577	Objc
+211580	Objc
+211583	Objc
+211586	Subj
+Cmpl
+211597	Subj
+211604	Subj
+211645	Subj
+211653	Objc
+211666	Objc
+211668	Objc
+211672	Subj
+211678	Subj
+211686	Objc
+211689	Subj
+211696	Subj
+211703	Subj
+211713	Subj
+211723	Subj
+211726	Pred
+211734	Subj
+211741	Subj
+211755	Objc
+211762	Subj
+Objc
+211780	Objc
+211801	Subj
+211803	Objc
+211815	Subj
+211822	Objc
+211826	Subj
+211829	Subj
+211834	Subj
+211842	Pred
+211844	Subj
+211846	Objc
+211848	Objc
+211851	Subj
+211854	Pred
+211862	Subj
+211868	Subj
+211875	Objc
+211882	Subj
+211891	Subj
+211903	Subj
+211909	Objc
+211911	Subj
+211917	Pred
+211933	Objc
+211944	Cmpl
+211949	Objc
+211955	Subj
+211962	Cmpl
+Pred
+211969	Subj
+211984	Subj
+211994	Subj
+Pred
+211997	Subj
+212007	Pred
+212010	Objc
+212028	Objc
+Subj
+212032	Objc
+212043	Objc
+212045	Objc
+212061	Subj
+212068	Objc
+212077	Objc
+212083	Objc
+212087	Cmpl
+212089	Objc
+212094	Subj
+212099	Subj
+212104	Subj
+212113	Objc
+212116	Cmpl
+212129	Subj
+212152	Subj
+212154	Objc
+212165	Objc
+Objc
+212171	Objc
+212174	Objc
+212202	Pred
+212210	Subj
+212212	Pred
+212258	Subj
+212261	Objc
+212281	Subj
+212288	Objc
+212290	Subj
+212297	Objc
+212299	Subj
+212301	Objc
+212314	Pred
+Subj
+212319	Pred
+212321	Subj
+212328	Pred
+212334	Pred
+212340	Pred
+212344	Objc
+Subj
+212351	Objc
+212356	Objc
+212362	Objc
+212384	Subj
+212389	Pred
+212402	Cmpl
+212405	Subj
+212411	Subj
+212418	Objc
+212423	Subj
+Cmpl
+212441	Objc
+212443	Subj
+212455	Cmpl
+212458	Subj
+212469	Objc
+212478	Objc
+212482	Objc
+212488	Objc
+212491	Objc
+212498	Objc
+212508	Objc
+212513	Objc
+212520	Cmpl
+212523	Objc
+212530	Objc
+212540	Cmpl
+Subj
+212545	Cmpl
+212552	Objc
+Subj
+212555	Pred
+212558	Subj
+212566	Objc
+212574	Objc
+Subj
+212577	Pred
+212580	Subj
+212585	Objc
+212597	Subj
+212599	Pred
+212602	Subj
+212605	Cmpl
+212609	Objc
+212614	Objc
+212623	Objc
+212627	Subj
+212632	Pred
+212635	Pred
+212639	Subj
+Pred
+212650	Pred
+212652	Subj
+212657	Pred
+212681	Cmpl
+Objc
+212703	Cmpl
+212706	Objc
+212709	Cmpl
+212712	Subj
+Objc
+212716	Subj
+212723	Subj
+Pred
+212729	Subj
+212734	Pred
+212778	Cmpl
+212798	Subj
+Objc
+212815	Objc
+212849	Subj
+212853	Objc
+212858	Subj
+212862	Objc
+212865	Subj
+212883	Objc
+212888	Objc
+212890	Subj
+212907	Objc
+212911	Subj
+212920	Objc
+212930	Subj
+212937	Objc
+212944	Objc
+212955	Objc
+212962	Objc
+212964	Cmpl
+212967	Pred
+Pred
+212973	Objc
+Subj
+212980	Objc
+212986	Subj
+212990	Subj
+212993	Objc
+213002	Objc
+213008	Subj
+213015	Pred
+213020	Objc
+213029	Objc
+213031	Subj
+213039	Subj
+213048	Pred
+213051	Objc
+213071	Subj
+213081	Subj
+213084	Pred
+213096	Objc
+213102	Objc
+213106	Objc
+213111	Subj
+213120	Objc
+213124	Pred
+213126	Cmpl
+213128	Objc
+213131	Objc
+213137	Objc
+213140	Subj
+213142	Cmpl
+Subj
+213153	Subj
+213164	Objc
+Subj
+213169	Cmpl
+213175	Pred
+213188	Objc
+213199	Subj
+213204	Subj
+213208	Pred
+213219	Objc
+213222	Cmpl
+213227	Cmpl
+213232	Cmpl
+213238	Objc
+213243	Objc
+Subj
+213248	Objc
+213251	Cmpl
+213255	Objc
+213259	Cmpl
+213266	Objc
+213280	Subj
+213297	Pred
+213323	Subj
+213335	Subj
+213337	Pred
+213339	Subj
+213347	Pred
+213352	Objc
+Subj
+213362	Cmpl
+213368	Objc
+213378	Cmpl
+213383	Subj
+213391	Objc
+Cmpl
+213399	Subj
+Objc
+213403	Objc
+213408	Subj
+213418	Subj
+213421	Objc
+213428	Subj
+213452	Cmpl
+Subj
+213465	Objc
+213474	Subj
+213484	Subj
+213489	Objc
+213496	Subj
+213505	Objc
+213510	Subj
+213515	Objc
+213525	Objc
+213536	Cmpl
+213544	Cmpl
+213547	Cmpl
+Objc
+213552	Subj
+213554	Subj
+213556	Subj
+213559	Subj
+213561	Subj
+213563	Subj
+213566	Pred
+213568	Subj
+213577	Subj
+213592	Objc
+213600	Objc
+213607	Objc
+213610	Objc
+213619	Subj
+213629	Pred
+213636	Objc
+213639	Objc
+213642	Cmpl
+213644	Objc
+213647	Subj
+213655	Objc
+213665	Subj
+213667	Objc
+213676	Cmpl
+Pred
+213684	Subj
+213686	Subj
+213700	Pred
+213715	Objc
+213732	Objc
+213751	Objc
+213763	Pred
+Pred
+213774	Cmpl
+Subj
+213778	Cmpl
+213794	Objc
+213797	Objc
+213800	Objc
+213803	Subj
+213827	Subj
+213841	Subj
+213843	Objc
+213867	Subj
+213874	Pred
+213889	Objc
+213908	Objc
+213926	Objc
+213943	Objc
+213949	Subj
+213952	Pred
+213958	Subj
+213961	Subj
+213963	Objc
+213965	Pred
+213969	Subj
+213978	Cmpl
+Objc
+213981	Subj
+213986	Subj
+213990	Pred
+213993	Subj
+213997	Objc
+214000	Subj
+214004	Objc
+214007	Subj
+214009	Cmpl
+214011	Subj
+214017	Objc
+214019	Subj
+214023	Cmpl
+Objc
+214028	Subj
+214031	Cmpl
+214041	Cmpl
+214046	Objc
+214059	Objc
+Cmpl
+214066	Subj
+214072	Objc
+214084	Objc
+Cmpl
+214088	Subj
+214097	Objc
+214103	Objc
+214110	Subj
+214114	Objc
+214123	Cmpl
+214125	Subj
+214137	Cmpl
+214139	Subj
+214145	Cmpl
+214147	Subj
+214160	Pred
+Subj
+214163	Subj
+Objc
+214175	Subj
+214181	Objc
+214194	Subj
+214204	Objc
+214215	Pred
+214222	Subj
+214236	Pred
+214240	Subj
+214258	Subj
+214260	Objc
+214268	Subj
+214272	Subj
+214290	Objc
+214300	Subj
+Subj
+214312	Subj
+214320	Objc
+214322	Subj
+214337	Objc
+214339	Subj
+214350	Subj
+214354	Objc
+214356	Subj
+214370	Objc
+214373	Objc
+214378	Objc
+214383	Objc
+Subj
+214389	Pred
+Subj
+214396	Subj
+214399	Cmpl
+214402	Objc
+214413	Cmpl
+214430	Pred
+Subj
+214434	Subj
+214438	Pred
+214445	Subj
+214458	Subj
+214463	Objc
+214477	Subj
+214485	Subj
+214492	Objc
+214496	Subj
+Objc
+214500	Subj
+214520	Subj
+214551	Subj
+214553	Subj
+214562	Objc
+214571	Subj
+214573	Objc
+214576	Objc
+214592	Objc
+214595	Pred
+214599	Subj
+214601	Pred
+214605	Subj
+214619	Subj
+214624	Cmpl
+214626	Subj
+214630	Subj
+214632	Objc
+214657	Objc
+214665	Cmpl
+214681	Objc
+Subj
+214696	Subj
+214699	Objc
+214719	Subj
+214725	Subj
+214749	Subj
+214753	Subj
+214768	Objc
+214773	Subj
+214792	Subj
+214795	Cmpl
+Pred
+Subj
+214809	Pred
+214811	Subj
+214825	Objc
+214837	Subj
+214839	Pred
+214846	Objc
+214853	Subj
+214864	Objc
+214871	Objc
+214886	Objc
+214897	Subj
+214911	Objc
+214913	Objc
+214917	Cmpl
+214935	Objc
+214944	Objc
+214960	Objc
+Subj
+214964	Pred
+214966	Subj
+214968	Subj
+214971	Pred
+214974	Subj
+214982	Objc
+214986	Cmpl
+214995	Pred
+Subj
+215010	Objc
+215013	Cmpl
+215020	Cmpl
+215023	Subj
+215039	Subj
+215095	Subj
+215115	Cmpl
+215124	Subj
+Subj
+215147	Subj
+215156	Objc
+Subj
+215164	Subj
+215168	Pred
+215173	Objc
+215185	Objc
+Cmpl
+215188	Subj
+215201	Objc
+215203	Cmpl
+Subj
+215212	Subj
+215216	Objc
+Subj
+215223	Subj
+215225	Objc
+215231	Subj
+Pred
+215234	Subj
+Pred
+215251	Subj
+215261	Subj
+215266	Pred
+215273	Subj
+215280	Subj
+Subj
+215285	Objc
+215290	Pred
+215300	Subj
+215310	Objc
+215322	Subj
+215333	Subj
+215336	Pred
+215339	Objc
+215342	Subj
+215344	Subj
+215348	Subj
+215352	Objc
+215355	Subj
+215361	Objc
+Subj
+Subj
+215366	Subj
+215373	Subj
+215390	Objc
+215403	Subj
+215406	Cmpl
+215408	Subj
+215414	Objc
+215420	Subj
+215423	Subj
+215432	Subj
+215439	Objc
+215442	Subj
+215448	Cmpl
+215465	Subj
+215490	Subj
+215493	Objc
+Subj
+215505	Objc
+215509	Subj
+215512	Objc
+215525	Subj
+215535	Cmpl
+215540	Subj
+215545	Subj
+215548	Cmpl
+Cmpl
+215555	Objc
+215559	Cmpl
+215571	Objc
+215575	Objc
+215577	Objc
+215591	Objc
+215599	Objc
+215601	Objc
+215603	Objc
+215605	Objc
+215627	Subj
+215631	Objc
+215640	Objc
+215676	Objc
+215690	Subj
+215700	Subj
+215714	Subj
+Objc
+Subj
+215718	Pred
+215726	Objc
+215730	Objc
+215733	Subj
+215737	Cmpl
+Objc
+215742	Objc
+215752	Pred
+Subj
+215759	Objc
+215762	Objc
+215764	Cmpl
+215776	Objc
+215781	Subj
+215789	Subj
+215793	Cmpl
+215795	Objc
+215812	Objc
+215815	Pred
+215827	Cmpl
+215829	Subj
+Subj
+215835	Pred
+Subj
+215848	Subj
+215859	Objc
+215862	Pred
+215864	Subj
+215876	Objc
+215889	Objc
+215910	Objc
+215915	Cmpl
+215919	Cmpl
+215926	Subj
+215944	Subj
+215951	Subj
+215956	Objc
+215958	Pred
+Subj
+Subj
+215965	Subj
+215973	Subj
+215975	Objc
+Subj
+215979	Subj
+215989	Cmpl
+Subj
+215992	Pred
+Subj
+215996	Subj
+216000	Pred
+216007	Subj
+216010	Objc
+216012	Cmpl
+216014	Objc
+216018	Subj
+216025	Objc
+216053	Subj
+216060	Objc
+216063	Objc
+216073	Objc
+Subj
+216078	Objc
+216085	Objc
+Subj
+216090	Objc
+216098	Subj
+216100	Objc
+Objc
+216104	Subj
+216106	Objc
+216111	Objc
+216116	Subj
+216127	Objc
+Subj
+216157	Cmpl
+216165	Subj
+216170	Objc
+216174	Objc
+216215	Subj
+Subj
+216225	Pred
+216227	Subj
+216232	Pred
+216236	Subj
+216241	Subj
+216246	Subj
+216257	Objc
+216300	Subj
+216305	Subj
+216314	Pred
+216316	Subj
+Pred
+216321	Objc
+216324	Objc
+Cmpl
+216327	Objc
+Cmpl
+216330	Objc
+Cmpl
+216334	Objc
+216336	Objc
+216338	Subj
+216341	Subj
+216344	Objc
+216351	Subj
+216358	Subj
+216366	Subj
+216375	Objc
+216382	Subj
+216386	Subj
+Objc
+216389	Subj
+216392	Cmpl
+216401	Objc
+216403	Objc
+216413	Subj
+216420	Objc
+Subj
+216426	Subj
+216437	Objc
+216447	Pred
+216452	Subj
+216454	Objc
+216460	Objc
+216471	Objc
+216474	Objc
+216481	Objc
+216487	Subj
+216502	Pred
+216507	Objc
+216510	Objc
+216518	Subj
+216520	Objc
+Subj
+216528	Subj
+216531	Objc
+216540	Objc
+216545	Objc
+Cmpl
+216553	Subj
+216563	Subj
+216570	Objc
+216581	Subj
+216589	Objc
+216594	Subj
+216609	Subj
+216612	Objc
+216627	Objc
+216631	Objc
+216646	Subj
+216650	Pred
+216652	Subj
+216657	Objc
+216667	Objc
+216669	Objc
+216675	Cmpl
+Subj
+216679	Objc
+216691	Objc
+216694	Subj
+216696	Objc
+216701	Objc
+216704	Pred
+216711	Subj
+216713	Pred
+216716	Subj
+216722	Subj
+216731	Objc
+216734	Objc
+216746	Subj
+216749	Subj
+216753	Pred
+216756	Pred
+216766	Subj
+216776	Subj
+Objc
+216788	Objc
+216804	Cmpl
+216808	Objc
+216810	Subj
+216833	Subj
+216842	Objc
+216846	Objc
+216856	Subj
+216863	Subj
+216868	Objc
+216874	Cmpl
+Subj
+216878	Subj
+216881	Objc
+216884	Subj
+216891	Objc
+Subj
+216903	Objc
+216913	Objc
+Subj
+216918	Cmpl
+216922	Objc
+216929	Cmpl
+216931	Subj
+216935	Objc
+216940	Subj
+216944	Objc
+216953	Subj
+216957	Objc
+216962	Cmpl
+216964	Objc
+216978	Subj
+216981	Subj
+216983	Objc
+216996	Pred
+217010	Subj
+217013	Objc
+217018	Objc
+217036	Subj
+217043	Subj
+217047	Pred
+Subj
+217052	Pred
+217055	Objc
+217063	Objc
+217075	Objc
+217077	Objc
+217085	Objc
+217087	Objc
+217089	Objc
+217091	Objc
+217108	Subj
+Cmpl
+217116	Pred
+217118	Subj
+217125	Subj
+217149	Objc
+217154	Pred
+217156	Subj
+217182	Objc
+217186	Cmpl
+217189	Objc
+217198	Cmpl
+217203	Subj
+217221	Objc
+217231	Objc
+217238	Cmpl
+217252	Cmpl
+217254	Objc
+217258	Subj
+217266	Cmpl
+217276	Pred
+217284	Subj
+Cmpl
+217287	Subj
+Cmpl
+217319	Pred
+217329	Subj
+217344	Objc
+Objc
+217350	Objc
+Objc
+217355	Objc
+217360	Objc
+217363	Subj
+217371	Subj
+217377	Cmpl
+217387	Cmpl
+217389	Subj
+217393	Subj
+217402	Cmpl
+Objc
+217426	Subj
+Objc
+217439	Subj
+217447	Subj
+217476	Objc
+217489	Objc
+217497	Objc
+Cmpl
+217505	Subj
+217510	Subj
+Cmpl
+217521	Subj
+217523	Pred
+217525	Subj
+217530	Subj
+217534	Pred
+217536	Subj
+217545	Cmpl
+217548	Subj
+217563	Pred
+217569	Objc
+217573	Cmpl
+217575	Subj
+217582	Objc
+Subj
+217590	Objc
+217597	Subj
+217602	Objc
+217605	Objc
+217607	Objc
+217611	Subj
+217622	Subj
+217626	Subj
+217677	Objc
+217683	Objc
+217686	Cmpl
+217689	Objc
+217693	Subj
+217697	Objc
+217705	Subj
+217707	Pred
+217711	Subj
+217715	Subj
+217728	Subj
+217731	Objc
+217733	Objc
+217737	Objc
+217742	Subj
+217755	Objc
+217759	Subj
+217771	Subj
+217786	Objc
+217797	Objc
+217806	Objc
+217812	Objc
+217820	Objc
+217824	Cmpl
+217830	Objc
+217832	Objc
+217836	Subj
+217841	Subj
+217843	Cmpl
+Subj
+217851	Pred
+217863	Subj
+217868	Objc
+217876	Cmpl
+Subj
+217882	Subj
+217890	Subj
+Subj
+217898	Subj
+217904	Pred
+217906	Objc
+217913	Pred
+217918	Pred
+Subj
+217932	Objc
+217937	Subj
+217955	Subj
+217960	Subj
+217967	Cmpl
+217969	Objc
+217974	Cmpl
+Subj
+217986	Subj
+217992	Subj
+Subj
+217995	Objc
+218001	Subj
+218012	Subj
+218022	Subj
+218034	Subj
+218037	Subj
+218041	Objc
+218048	Cmpl
+218054	Subj
+218060	Subj
+218065	Objc
+218075	Cmpl
+218083	Cmpl
+Objc
+218089	Subj
+218094	Cmpl
+218097	Cmpl
+218101	Objc
+218110	Subj
+218116	Objc
+218125	Cmpl
+218128	Cmpl
+Objc
+218133	Subj
+218146	Objc
+218148	Cmpl
+Subj
+218154	Cmpl
+Objc
+218158	Subj
+218163	Subj
+218171	Pred
+218181	Cmpl
+218183	Cmpl
+218188	Cmpl
+218194	Pred
+218207	Cmpl
+Objc
+218210	Subj
+Cmpl
+218216	Cmpl
+218223	Cmpl
+Subj
+218248	Subj
+218251	Objc
+218256	Objc
+Cmpl
+218262	Objc
+218264	Cmpl
+Objc
+218268	Subj
+Pred
+218272	Objc
+218276	Cmpl
+218293	Objc
+218298	Objc
+218303	Objc
+218305	Subj
+218307	Pred
+218310	Subj
+218315	Subj
+218320	Subj
+218323	Subj
+218341	Objc
+218344	Subj
+218347	Objc
+218356	Subj
+218359	Objc
+218365	Cmpl
+Subj
+218376	Subj
+218383	Subj
+218394	Subj
+218405	Subj
+Objc
+218411	Subj
+218416	Objc
+218419	Subj
+218431	Subj
+Pred
+218443	Subj
+218445	Objc
+218453	Subj
+218461	Subj
+218466	Objc
+218471	Pred
+218475	Subj
+218481	Subj
+218486	Objc
+Objc
+218498	Objc
+218507	Pred
+218510	Pred
+218523	Subj
+218541	Objc
+218566	Objc
+218581	Subj
+218590	Pred
+218600	Subj
+Objc
+218603	Subj
+218605	Objc
+218614	Cmpl
+Pred
+218621	Objc
+218624	Objc
+218626	Subj
+218630	Pred
+Subj
+218634	Objc
+218643	Subj
+218650	Subj
+218655	Pred
+218659	Objc
+218662	Subj
+218665	Cmpl
+218668	Subj
+218676	Subj
+218680	Pred
+Pred
+218683	Subj
+218697	Subj
+218719	Objc
+218732	Objc
+218739	Subj
+218742	Pred
+218760	Objc
+218772	Subj
+218775	Pred
+Subj
+Objc
+218798	Objc
+218802	Subj
+218810	Pred
+218816	Subj
+218821	Pred
+218823	Subj
+218832	Pred
+218836	Pred
+218838	Subj
+218845	Pred
+218857	Pred
+218861	Subj
+218868	Pred
+218871	Objc
+218877	Pred
+218882	Subj
+218889	Objc
+218896	Objc
+Subj
+218906	Subj
+218923	Subj
+218934	Objc
+218946	Subj
+218960	Objc
+218963	Objc
+218973	Objc
+218976	Subj
+Pred
+218981	Subj
+219012	Objc
+219016	Objc
+219019	Subj
+219045	Subj
+Cmpl
+219049	Pred
+219069	Subj
+219075	Cmpl
+219077	Objc
+219079	Objc
+219083	Subj
+219086	Cmpl
+219092	Subj
+219095	Objc
+219098	Objc
+219102	Subj
+219112	Objc
+219115	Subj
+Cmpl
+219119	Objc
+219126	Subj
+219133	Objc
+219135	Pred
+219149	Subj
+219152	Objc
+Subj
+219159	Subj
+219231	Cmpl
+219240	Subj
+219247	Objc
+219254	Subj
+219263	Subj
+219276	Objc
+219281	Objc
+219283	Objc
+219295	Subj
+219304	Objc
+219316	Objc
+219323	Subj
+219325	Pred
+219329	Pred
+219333	Subj
+219338	Subj
+219344	Objc
+219358	Objc
+219390	Objc
+219399	Objc
+219405	Cmpl
+Objc
+219415	Objc
+219424	Cmpl
+Objc
+219428	Subj
+219436	Subj
+219451	Subj
+219473	Cmpl
+219476	Subj
+219487	Subj
+219512	Objc
+219531	Subj
+219533	Objc
+219544	Cmpl
+219560	Objc
+219578	Objc
+219581	Objc
+219583	Subj
+219590	Objc
+219598	Objc
+219603	Subj
+219610	Cmpl
+219613	Cmpl
+219622	Objc
+219625	Subj
+219628	Cmpl
+219630	Subj
+Objc
+219633	Objc
+219660	Subj
+219666	Pred
+219673	Objc
+219678	Subj
+219694	Objc
+219701	Objc
+219708	Objc
+219711	Objc
+219717	Objc
+219722	Objc
+219735	Cmpl
+219742	Objc
+219758	Cmpl
+Subj
+219768	Objc
+219777	Objc
+219780	Pred
+219782	Pred
+219785	Cmpl
+219805	Cmpl
+219811	Objc
+219817	Objc
+219819	Subj
+219823	Pred
+219829	Subj
+219836	Objc
+219844	Pred
+219851	Subj
+219855	Objc
+219859	Subj
+219864	Subj
+219880	Objc
+219884	Objc
+219894	Objc
+219904	Cmpl
+219906	Subj
+219918	Subj
+219923	Objc
+219938	Subj
+219946	Objc
+219948	Subj
+219953	Objc
+219956	Objc
+219961	Objc
+219965	Subj
+219973	Subj
+219982	Objc
+219985	Objc
+219991	Subj
+219993	Cmpl
+220003	Subj
+220009	Cmpl
+Objc
+220014	Objc
+220020	Objc
+220022	Cmpl
+220037	Subj
+220041	Subj
+220043	Pred
+220046	Subj
+220051	Pred
+Subj
+220061	Subj
+220068	Subj
+220073	Subj
+Pred
+220078	Objc
+220096	Cmpl
+Pred
+220103	Subj
+220105	Subj
+220112	Cmpl
+220117	Objc
+220121	Objc
+220140	Pred
+220142	Subj
+Objc
+220149	Subj
+220155	Subj
+220163	Subj
+220168	Subj
+220172	Pred
+220179	Subj
+220189	Subj
+220196	Objc
+220209	Subj
+220212	Pred
+220215	Subj
+220224	Objc
+220226	Subj
+220241	Objc
+220244	Pred
+220250	Subj
+220252	Subj
+220262	Cmpl
+220273	Objc
+220277	Subj
+220290	Subj
+220313	Subj
+220337	Objc
+220339	Objc
+220358	Objc
+220387	Objc
+220395	Cmpl
+220397	Subj
+Subj
+220404	Cmpl
+220406	Objc
+Objc
+220409	Objc
+Objc
+220419	Objc
+220424	Objc
+220437	Objc
+220447	Cmpl
+220451	Objc
+220460	Subj
+220468	Subj
+220473	Subj
+220478	Subj
+220483	Subj
+220487	Subj
+220492	Subj
+220498	Subj
+220507	Subj
+220515	Cmpl
+220522	Subj
+220530	Subj
+220537	Subj
+220541	Pred
+220546	Objc
+220559	Objc
+220577	Objc
+220599	Objc
+220607	Objc
+220614	Subj
+220617	Objc
+220619	Cmpl
+220623	Subj
+220626	Objc
+220632	Cmpl
+220639	Objc
+220649	Subj
+220658	Cmpl
+220664	Objc
+220669	Subj
+220681	Cmpl
+220684	Subj
+220689	Pred
+220699	Objc
+220703	Cmpl
+220708	Subj
+220722	Subj
+220733	Objc
+220736	Subj
+Pred
+220751	Cmpl
+220756	Subj
+220761	Objc
+220766	Objc
+220768	Subj
+220780	Objc
+220803	Objc
+220815	Objc
+220819	Objc
+220825	Subj
+220829	Cmpl
+220832	Objc
+220849	Objc
+220853	Objc
+220862	Objc
+220883	Objc
+220905	Objc
+Subj
+220912	Cmpl
+220922	Cmpl
+Objc
+220931	Objc
+220936	Subj
+220945	Subj
+220949	Cmpl
+220953	Subj
+220979	Cmpl
+Subj
+220986	Subj
+221014	Pred
+221018	Objc
+221020	Subj
+221047	Objc
+221049	Subj
+221051	Subj
+221055	Objc
+221057	Subj
+221078	Pred
+221080	Subj
+221090	Objc
+Pred
+221096	Objc
+221098	Subj
+221113	Subj
+221133	Objc
+221140	Pred
+221143	Objc
+221145	Subj
+221158	Subj
+221168	Objc
+221175	Subj
+Cmpl
+221179	Pred
+221182	Subj
+221198	Subj
+221200	Cmpl
+221211	Subj
+221216	Objc
+221225	Objc
+221231	Cmpl
+221235	Cmpl
+221238	Objc
+Pred
+221262	Cmpl
+221265	Pred
+221276	Pred
+221311	Subj
+221343	Subj
+221345	Pred
+221349	Subj
+221351	Pred
+221360	Subj
+221364	Cmpl
+221370	Subj
+221372	Objc
+221376	Cmpl
+221379	Cmpl
+221386	Objc
+221388	Objc
+221400	Subj
+221411	Subj
+221420	Objc
+221433	Objc
+221441	Subj
+Objc
+221457	Cmpl
+Subj
+221465	Cmpl
+221470	Objc
+221489	Subj
+221505	Objc
+221507	Subj
+221511	Objc
+221514	Subj
+221520	Pred
+221525	Subj
+221544	Subj
+221550	Objc
+221558	Subj
+221573	Objc
+221594	Objc
+221597	Objc
+221622	Subj
+221639	Cmpl
+221641	Cmpl
+Objc
+221649	Objc
+221672	Objc
+221674	Cmpl
+221680	Pred
+Subj
+221690	Subj
+221694	Objc
+221699	Objc
+221703	Cmpl
+221707	Objc
+221738	Subj
+221742	Objc
+221745	Subj
+Pred
+221749	Objc
+221757	Pred
+221763	Cmpl
+221766	Cmpl
+221778	Subj
+221782	Objc
+221784	Cmpl
+Pred
+Subj
+221788	Objc
+221798	Subj
+221801	Cmpl
+Subj
+221806	Objc
+221811	Objc
+221814	Objc
+221832	Pred
+221839	Subj
+221841	Subj
+221845	Cmpl
+Objc
+221850	Objc
+221853	Objc
+221855	Objc
+221857	Subj
+221860	Subj
+221862	Objc
+221871	Objc
+221873	Objc
+221875	Subj
+221878	Subj
+221880	Objc
+221891	Subj
+221895	Cmpl
+221900	Objc
+221903	Subj
+221907	Cmpl
+221926	Objc
+221939	Subj
+221944	Objc
+221947	Pred
+Subj
+221952	Subj
+221973	Subj
+221980	Cmpl
+221982	Subj
+221992	Objc
+222000	Subj
+222010	Subj
+222056	Pred
+222059	Subj
+222062	Objc
+222075	Pred
+222078	Subj
+222085	Objc
+222091	Objc
+222103	Subj
+Objc
+222109	Subj
+222114	Objc
+222118	Subj
+222130	Subj
+222146	Pred
+222168	Subj
+Pred
+222171	Objc
+222174	Objc
+222186	Subj
+222189	Objc
+222199	Pred
+222202	Pred
+222204	Subj
+222209	Subj
+222227	Pred
+222231	Objc
+222234	Objc
+222242	Subj
+222252	Objc
+222265	Subj
+Objc
+222276	Objc
+222291	Objc
+222296	Objc
+222303	Objc
+222320	Objc
+222348	Cmpl
+222361	Cmpl
+222364	Subj
+Pred
+222385	Subj
+222387	Objc
+222396	Objc
+222402	Objc
+222407	Objc
+222410	Objc
+222423	Objc
+222433	Objc
+222436	Objc
+222440	Cmpl
+222442	Subj
+222461	Subj
+222465	Objc
+222470	Subj
+222475	Cmpl
+222480	Cmpl
+Objc
+222490	Subj
+222493	Cmpl
+Objc
+222506	Objc
+Subj
+222521	Objc
+222530	Subj
+Objc
+222533	Subj
+222544	Subj
+222550	Cmpl
+222563	Objc
+222572	Objc
+222576	Objc
+222586	Objc
+222588	Subj
+222592	Subj
+222594	Cmpl
+222601	Subj
+222612	Subj
+222628	Cmpl
+222642	Pred
+222644	Pred
+222648	Objc
+222650	Objc
+222669	Subj
+222673	Objc
+Subj
+222693	Objc
+222696	Subj
+222699	Cmpl
+222713	Pred
+222715	Pred
+222720	Subj
+222732	Objc
+222739	Objc
+222742	Objc
+222751	Objc
+222759	Objc
+222771	Subj
+222778	Pred
+222792	Subj
+222801	Pred
+222817	Objc
+222823	Pred
+222826	Subj
+Subj
+222830	Cmpl
+222832	Subj
+222840	Subj
+222845	Objc
+222854	Objc
+222862	Subj
+222870	Objc
+Subj
+222875	Cmpl
+222883	Objc
+222891	Cmpl
+222894	Objc
+222915	Objc
+222925	Cmpl
+Objc
+222931	Subj
+222934	Cmpl
+222936	Subj
+222938	Pred
+222943	Subj
+222948	Pred
+222956	Subj
+222963	Pred
+222980	Subj
+222984	Pred
+Subj
+222987	Objc
+222989	Subj
+222991	Cmpl
+222994	Objc
+223000	Objc
+223002	Cmpl
+223004	Objc
+223010	Objc
+223029	Subj
+223032	Objc
+223035	Subj
+223041	Objc
+223053	Objc
+223064	Objc
+223074	Objc
+223088	Cmpl
+223091	Objc
+223093	Cmpl
+223098	Subj
+223101	Objc
+223106	Subj
+223109	Cmpl
+223111	Objc
+223120	Objc
+223122	Cmpl
+223124	Subj
+223126	Objc
+223128	Subj
+223131	Objc
+223137	Cmpl
+223139	Objc
+223146	Objc
+223149	Subj
+223152	Objc
+223163	Subj
+223172	Pred
+223192	Subj
+Cmpl
+223195	Cmpl
+223197	Objc
+223211	Objc
+223219	Subj
+223231	Pred
+223234	Subj
+223246	Pred
+223257	Pred
+223260	Objc
+223263	Subj
+Cmpl
+223273	Pred
+223276	Objc
+223279	Subj
+223281	Cmpl
+Subj
+223286	Objc
+223292	Objc
+223297	Objc
+223302	Objc
+223305	Objc
+223311	Objc
+223314	Objc
+223317	Objc
+223320	Subj
+223323	Pred
+223327	Objc
+223330	Cmpl
+Subj
+223335	Objc
+223341	Subj
+223346	Objc
+223352	Subj
+223359	Pred
+223372	Pred
+223378	Subj
+223387	Subj
+223392	Pred
+223404	Subj
+223412	Subj
+223416	Objc
+223423	Objc
+223433	Subj
+223438	Pred
+223449	Subj
+223455	Pred
+223482	Subj
+223489	Objc
+223497	Subj
+223502	Subj
+223517	Subj
+223531	Objc
+223541	Objc
+223546	Objc
+223556	Subj
+223562	Objc
+223565	Objc
+223568	Objc
+223580	Objc
+223596	Subj
+223601	Objc
+223614	Subj
+223616	Objc
+223623	Subj
+223637	Subj
+223660	Objc
+223665	Objc
+223679	Objc
+223684	Cmpl
+223687	Subj
+223704	Subj
+223712	Objc
+Subj
+223721	Subj
+223732	Cmpl
+223743	Subj
+223758	Pred
+223761	Subj
+223766	Subj
+223775	Subj
+223796	Objc
+223804	Objc
+223807	Subj
+223813	Objc
+223818	Cmpl
+223838	Cmpl
+223841	Subj
+223844	Cmpl
+223848	Cmpl
+Objc
+223852	Subj
+223857	Objc
+223866	Cmpl
+223882	Objc
+223890	Objc
+223896	Subj
+223904	Cmpl
+223911	Cmpl
+223913	Objc
+223918	Objc
+223930	Subj
+223933	Objc
+Cmpl
+223942	Subj
+223947	Objc
+223951	Cmpl
+223954	Pred
+223958	Objc
+223972	Subj
+223983	Subj
+223990	Subj
+223995	Subj
+223999	Subj
+224001	Objc
+224006	Objc
+224010	Cmpl
+224013	Objc
+Cmpl
+224023	Subj
+224025	Subj
+224041	Objc
+224057	Objc
+224059	Subj
+224061	Pred
+224064	Subj
+224069	Subj
+224073	Subj
+224077	Pred
+224082	Objc
+Cmpl
+224088	Subj
+224095	Cmpl
+224098	Subj
+224104	Objc
+224114	Subj
+224122	Cmpl
+224127	Subj
+224145	Subj
+224152	Pred
+224164	Subj
+224167	Objc
+224186	Cmpl
+224197	Subj
+224218	Pred
+224220	Subj
+224237	Subj
+Objc
+224259	Pred
+224286	Subj
+224294	Subj
+224299	Objc
+Pred
+224321	Subj
+224334	Objc
+Pred
+224344	Subj
+224359	Subj
+224361	Pred
+224367	Subj
+224372	Pred
+224380	Objc
+224382	Subj
+224396	Objc
+224401	Subj
+224404	Objc
+224411	Objc
+224413	Subj
+224417	Objc
+224419	Cmpl
+224426	Subj
+Pred
+224432	Subj
+224437	Subj
+224443	Subj
+224450	Subj
+224454	Subj
+224462	Cmpl
+224465	Subj
+224468	Cmpl
+Pred
+Subj
+224474	Subj
+224482	Objc
+Cmpl
+224490	Subj
+224495	Subj
+224499	Pred
+224504	Objc
+224510	Objc
+224513	Subj
+224516	Pred
+224530	Objc
+224553	Objc
+224561	Objc
+224568	Cmpl
+Objc
+Subj
+224576	Objc
+224584	Objc
+224587	Subj
+224591	Objc
+Subj
+224600	Subj
+224607	Objc
+224618	Cmpl
+224628	Cmpl
+224631	Objc
+224640	Subj
+224650	Objc
+224673	Pred
+224676	Objc
+224679	Objc
+224684	Subj
+224694	Subj
+224697	Pred
+224699	Subj
+224702	Pred
+Subj
+224707	Objc
+224716	Cmpl
+224721	Subj
+224732	Subj
+224746	Objc
+224748	Objc
+224750	Subj
+224759	Objc
+224770	Objc
+224785	Cmpl
+224787	Subj
+224800	Subj
+224804	Objc
+224809	Objc
+224813	Cmpl
+Objc
+224820	Objc
+224824	Subj
+224828	Objc
+Subj
+224834	Objc
+224837	Subj
+224847	Objc
+Pred
+224853	Subj
+224862	Cmpl
+Subj
+224867	Objc
+224875	Subj
+224885	Subj
+224887	Objc
+224893	Objc
+224895	Objc
+224901	Cmpl
+Subj
+224906	Objc
+224908	Objc
+Subj
+Pred
+224917	Objc
+224939	Subj
+224942	Objc
+224951	Subj
+224955	Cmpl
+224957	Subj
+224960	Objc
+224962	Objc
+224967	Cmpl
+224970	Objc
+224979	Objc
+Subj
+224983	Objc
+Pred
+224988	Pred
+224992	Objc
+Subj
+225001	Objc
+225015	Pred
+225018	Subj
+225026	Subj
+225042	Subj
+225045	Subj
+225048	Subj
+225055	Pred
+225064	Subj
+225068	Subj
+225070	Objc
+225074	Objc
+Subj
+225078	Cmpl
+225081	Cmpl
+225083	Pred
+225085	Subj
+225105	Subj
+225109	Objc
+225125	Objc
+225130	Objc
+225144	Subj
+225162	Cmpl
+225174	Objc
+225185	Subj
+Objc
+225192	Subj
+225197	Pred
+225212	Subj
+225216	Subj
+225228	Subj
+225231	Pred
+225233	Subj
+225236	Cmpl
+225251	Objc
+225256	Cmpl
+225259	Subj
+225269	Objc
+225272	Subj
+225276	Subj
+225283	Subj
+225285	Objc
+Objc
+Cmpl
+225290	Subj
+225297	Subj
+225301	Cmpl
+225303	Subj
+225309	Objc
+225315	Objc
+225317	Objc
+225321	Subj
+225328	Objc
+Cmpl
+225340	Subj
+225344	Pred
+225346	Subj
+225348	Pred
+225350	Subj
+Pred
+225355	Objc
+225358	Pred
+225372	Pred
+225387	Objc
+225401	Subj
+225421	Subj
+225428	Objc
+225432	Subj
+225445	Subj
+225453	Objc
+225462	Cmpl
+225469	Objc
+225472	Objc
+225478	Subj
+225483	Subj
+Pred
+225491	Subj
+225494	Pred
+225500	Subj
+225514	Subj
+Objc
+225518	Objc
+225522	Pred
+225526	Subj
+225529	Subj
+225533	Subj
+225543	Subj
+225555	Cmpl
+Objc
+225561	Objc
+225567	Cmpl
+Objc
+225581	Subj
+225588	Objc
+225591	Objc
+225598	Subj
+225609	Subj
+225611	Objc
+225617	Cmpl
+225623	Cmpl
+225625	Objc
+225630	Subj
+Objc
+225635	Subj
+225640	Subj
+225645	Objc
+225651	Cmpl
+225660	Pred
+225663	Objc
+225672	Subj
+225676	Subj
+225683	Objc
+225688	Cmpl
+225691	Subj
+225694	Pred
+225701	Subj
+225713	Objc
+225721	Objc
+225723	Pred
+225728	Objc
+225733	Objc
+225737	Cmpl
+225746	Objc
+225752	Subj
+Pred
+225759	Objc
+225764	Objc
+225773	Objc
+225781	Subj
+225787	Objc
+225797	Objc
+225803	Objc
+225811	Cmpl
+225814	Objc
+225818	Cmpl
+225820	Cmpl
+225831	Subj
+225833	Objc
+225847	Subj
+225856	Objc
+225862	Objc
+225885	Pred
+225887	Objc
+225911	Subj
+225918	Objc
+225922	Subj
+Objc
+225932	Subj
+225935	Objc
+225946	Cmpl
+225949	Subj
+Objc
+225954	Subj
+225964	Objc
+225967	Subj
+225971	Subj
+225974	Objc
+225980	Objc
+225988	Objc
+225999	Objc
+226004	Subj
+226006	Objc
+226018	Subj
+226034	Subj
+226045	Objc
+226055	Objc
+226070	Pred
+226073	Subj
+226075	Subj
+Pred
+226080	Subj
+226097	Objc
+226106	Cmpl
+226108	Subj
+226110	Subj
+226118	Objc
+226136	Subj
+226139	Objc
+226154	Subj
+226160	Subj
+226165	Objc
+Cmpl
+226169	Objc
+226172	Objc
+226190	Objc
+226202	Objc
+226223	Cmpl
+226227	Subj
+226232	Pred
+226235	Subj
+226237	Objc
+226239	Objc
+226265	Objc
+226268	Subj
+226279	Objc
+226281	Subj
+226288	Objc
+226300	Subj
+Objc
+226331	Cmpl
+226337	Objc
+226340	Pred
+226344	Cmpl
+Objc
+226357	Objc
+Subj
+Objc
+226362	Cmpl
+Subj
+226368	Pred
+226373	Pred
+226376	Subj
+226386	Pred
+226395	Objc
+226399	Pred
+226402	Subj
+226408	Objc
+226413	Subj
+Pred
+226420	Pred
+226422	Subj
+226426	Cmpl
+226428	Subj
+226430	Cmpl
+226436	Objc
+226446	Objc
+226451	Subj
+226453	Objc
+226456	Objc
+Cmpl
+226471	Objc
+226483	Cmpl
+Subj
+226489	Objc
+226491	Objc
+226494	Objc
+226498	Subj
+226500	Objc
+226508	Objc
+226510	Subj
+226512	Objc
+226519	Subj
+226526	Objc
+226538	Objc
+226542	Objc
+Subj
+226551	Subj
+226553	Pred
+226557	Objc
+226559	Pred
+226561	Subj
+226566	Objc
+226573	Objc
+226576	Cmpl
+Subj
+226587	Objc
+226594	Objc
+226597	Cmpl
+226603	Subj
+226606	Objc
+226608	Pred
+226611	Subj
+226616	Objc
+226620	Subj
+226622	Pred
+226627	Subj
+226646	Objc
+226660	Objc
+226672	Objc
+226682	Objc
+226690	Objc
+226693	Subj
+Pred
+226698	Objc
+226703	Objc
+226717	Objc
+226729	Objc
+226734	Objc
+226743	Subj
+Cmpl
+Objc
+226751	Objc
+226761	Cmpl
+Objc
+Objc
+226769	Subj
+226772	Objc
+Subj
+226781	Objc
+226784	Cmpl
+226786	Objc
+226791	Cmpl
+226798	Objc
+226825	Subj
+Pred
+226829	Objc
+226832	Subj
+226834	Cmpl
+226836	Subj
+226841	Objc
+226843	Subj
+Pred
+226848	Subj
+226853	Objc
 226858	Objc
-226863	Objc
-226868	Objc
-226878	Objc
-226884	Objc
-226887	Objc
-226890	Objc
-226893	Objc
+Cmpl
+226864	Subj
+226870	Subj
+226874	Objc
+226886	Objc
+226889	Subj
 226896	Objc
-226899	Objc
-226902	Objc
-226905	Objc
-226908	Objc
-226911	Objc
-226914	Objc
-226917	Objc
-226935	Objc
-226938	Objc
-226941	Objc
-226944	Objc
-226947	Objc
-226950	Objc
-226953	Objc
-226956	Objc
-226959	Objc
-226962	Objc
-226965	Objc
-226982	Subj
-226988	Pred
-226996	Pred
-227005	Pred
-227009	Subj
-227019	Cmpl
-227044	Subj
-227054	Objc
-227061	Pred
-227068	Objc
-227072	Objc
-227081	Subj
-227092	Subj
-227098	Objc
-227104	Pred
+226900	Subj
+226906	Subj
+226915	Pred
+226921	Subj
+226926	Objc
+Objc
+226930	Cmpl
 Subj
-227113	Subj
-227118	Subj
-227123	Objc
-227131	Objc
-227137	Subj
-227151	Subj
+226934	Subj
+226949	Objc
+226973	Pred
+226977	Pred
+226981	Pred
+226990	Subj
+226993	Subj
+227004	Objc
+Objc
+227018	Subj
+227022	Pred
+227024	Pred
+Subj
+227031	Subj
+227044	Objc
+Objc
+227053	Subj
+227057	Pred
+227060	Subj
+227071	Subj
+Cmpl
+227086	Objc
+227091	Objc
+227098	Subj
+227100	Objc
+Objc
+227105	Pred
+227111	Subj
+227117	Cmpl
+227157	Subj
 227159	Objc
-227176	Subj
-227181	Objc
-227189	Subj
-227225	Objc
-227227	Objc
-227255	Objc
-227259	Subj
-227268	Subj
-227273	Objc
-227282	Objc
-227294	Objc
-227317	Subj
-227319	Cmpl
-227342	Objc
-227374	Objc
-227387	Objc
-227435	Subj
-227437	Subj
-227439	Cmpl
-227459	Objc
-227530	Subj
-227543	Subj
-227549	Objc
-227552	Objc
-227559	Subj
-227561	Objc
-227567	Objc
-227573	Subj
-227598	Objc
-227604	Objc
-227623	Objc
-227632	Objc
-227637	Subj
-227642	Cmpl
+227168	Objc
+227170	Subj
+227172	Objc
+227178	Objc
+227187	Objc
+227195	Subj
+227202	Objc
+227209	Cmpl
+227219	Objc
+227223	Subj
+227238	Subj
+227247	Objc
+227252	Objc
+227256	Subj
+227272	Objc
+227275	Subj
+227285	Subj
+227290	Objc
+227293	Pred
+227295	Subj
+227298	Pred
+Subj
+227304	Subj
+227306	Subj
+227312	Subj
+227323	Subj
+227326	Subj
+227345	Subj
+227351	Subj
+227356	Cmpl
+227358	Subj
+227363	Subj
+227401	Objc
+227446	Subj
+227449	Cmpl
+227459	Subj
+227463	Objc
+227497	Subj
+227517	Objc
+227529	Subj
+227534	Subj
+227540	Subj
+227554	Subj
+227563	Subj
+227576	Pred
+227579	Subj
+227583	Subj
+227587	Subj
+227605	Subj
+227608	Pred
+227614	Subj
+Pred
+227635	Subj
 227646	Subj
-227655	Subj
-227658	Objc
-227675	Objc
-227685	Subj
-227687	Pred
-227692	Objc
-227697	Objc
-227703	Objc
-227707	Subj
-227732	Subj
-227739	Objc
-227746	Subj
-227753	Subj
-227757	Subj
-227776	Subj
-227801	Pred
-227806	Subj
-227817	Subj
+227651	Subj
+Pred
+227660	Pred
+227665	Subj
+227678	Subj
+227690	Subj
+227702	Subj
+227722	Subj
+227727	Objc
+227734	Subj
+227741	Objc
+Cmpl
+227763	Pred
+Subj
+227769	Subj
+227774	Subj
+227778	Pred
+227780	Subj
+227789	Cmpl
+227795	Subj
+227802	Subj
+227812	Subj
+227824	Objc
 227828	Subj
-227844	Pred
-227853	Cmpl
-227862	Objc
-227866	Subj
-227875	Subj
-227894	Objc
-227900	Subj
-227913	Objc
-227917	Subj
-227936	Objc
-227974	Objc
-227987	Subj
-227996	Subj
-228031	Objc
-228036	Objc
-228059	Objc
-228086	Objc
-228100	Subj
-228127	Subj
-228143	Objc
-228151	Subj
-228157	Objc
-228162	Subj
-228167	Subj
-228178	Subj
-228181	Objc
+227848	Subj
+227854	Subj
+227925	Pred
+227927	Subj
+227942	Objc
+227954	Pred
+227967	Objc
+227970	Objc
+227975	Subj
+227982	Pred
+227984	Pred
+227996	Cmpl
+228003	Cmpl
+228005	Objc
+228010	Cmpl
+Objc
+228017	Objc
+228020	Objc
+228024	Cmpl
+228027	Subj
+228037	Subj
+228048	Cmpl
+Objc
+228054	Subj
+228057	Cmpl
+228061	Subj
+228064	Cmpl
+228067	Subj
+228074	Objc
+Subj
+228077	Objc
+228082	Objc
+228094	Cmpl
+228102	Cmpl
+Subj
+228106	Pred
+228108	Subj
+228112	Objc
+228123	Subj
+Cmpl
+228126	Objc
+228138	Cmpl
+228141	Objc
+228147	Subj
+228152	Subj
+228165	Objc
+228177	Subj
+228181	Cmpl
 228188	Objc
-228193	Subj
-228198	Subj
-228203	Objc
-228207	Subj
-228210	Pred
-228218	Subj
-228231	Objc
-228242	Subj
-228255	Pred
-228263	Subj
-228275	Pred
-228303	Subj
-228310	Objc
-228365	Objc
-228372	Objc
-228397	Subj
-228411	Cmpl
-228425	Subj
-228428	Objc
-228435	Cmpl
-228454	Objc
-228461	Subj
-228465	Objc
-228478	Objc
-228487	Pred
-228492	Subj
-Cmpl
-228496	Subj
-Cmpl
-228511	Objc
-228523	Subj
-228537	Subj
-228551	Subj
-228556	Subj
-228565	Subj
+228204	Objc
+228208	Objc
+228216	Cmpl
+228238	Subj
+228248	Objc
+228253	Cmpl
+228255	Subj
+228267	Objc
+228277	Objc
+228291	Pred
+228311	Subj
+228317	Objc
+228321	Pred
+228327	Subj
+228341	Subj
+228352	Subj
+228359	Pred
+228366	Objc
+228371	Subj
+228378	Subj
+228383	Pred
+Subj
+228387	Cmpl
+Subj
+228400	Objc
+Pred
+228403	Subj
+228406	Pred
+228408	Subj
+228416	Pred
+228424	Pred
+228428	Subj
+228430	Pred
+228439	Subj
+228447	Pred
+228451	Subj
+228466	Subj
+228468	Cmpl
+228471	Cmpl
+Subj
+228477	Objc
+228501	Objc
+228514	Subj
+228518	Objc
+228522	Objc
+228525	Subj
+228534	Subj
+228540	Subj
+228544	Objc
+228549	Subj
+228552	Cmpl
+228557	Pred
+228569	Subj
+228573	Cmpl
 228578	Subj
-228583	Subj
-228593	Objc
+228581	Objc
+228587	Cmpl
+228590	Objc
 228601	Subj
-228604	Objc
-228618	Cmpl
-228623	Cmpl
-Objc
-228639	Pred
-228648	Pred
-228657	Pred
-228668	Objc
-228674	Subj
-228682	Subj
-228684	Pred
-228700	Objc
-228709	Objc
-228721	Objc
-228724	Objc
-228749	Objc
-228753	Objc
-228762	Objc
-228771	Pred
-228780	Objc
-228797	Objc
-228801	Subj
-228803	Objc
-228809	Objc
-228811	Objc
-228815	Subj
-228817	Objc
-228823	Subj
-228831	Objc
-228861	Subj
-228877	Objc
-228885	Subj
-228888	Subj
-228892	Subj
-228894	Pred
-228913	Pred
-228935	Objc
-228950	Objc
-228975	Subj
-228989	Subj
-228992	Objc
-229008	Subj
-229011	Subj
-229014	Subj
-229022	Objc
-229029	Objc
-229033	Subj
-Cmpl
-229049	Cmpl
-Objc
-229052	Cmpl
+228607	Cmpl
+228612	Objc
+228615	Objc
+228623	Objc
+228630	Objc
+228633	Cmpl
+228650	Subj
+228658	Objc
+228660	Subj
+228665	Subj
+228667	Pred
 Subj
-229062	Cmpl
+228671	Cmpl
+Pred
+228693	Objc
 Subj
+228707	Cmpl
+228715	Subj
+228727	Objc
+228736	Objc
+228746	Subj
+228752	Subj
+228758	Cmpl
+Subj
+228764	Objc
+228767	Pred
+228774	Subj
+228779	Pred
+228805	Subj
+228813	Cmpl
+228825	Subj
+228828	Subj
+228832	Pred
+228846	Objc
+Subj
+228850	Cmpl
+228853	Objc
+228863	Subj
+228885	Objc
+228894	Objc
+228905	Subj
+228915	Objc
+228919	Objc
+228922	Subj
+228955	Subj
+Pred
+228966	Objc
+228973	Subj
+228990	Objc
+229003	Subj
+229011	Objc
+229022	Subj
+229030	Subj
+Subj
+229042	Objc
+229044	Subj
+229047	Pred
+229051	Subj
+229057	Objc
+229063	Subj
 229065	Objc
-229076	Subj
-229080	Objc
-229084	Cmpl
-229091	Objc
-229099	Objc
-229103	Objc
-229108	Cmpl
-229156	Subj
-229159	Subj
-229164	Subj
-229167	Pred
-229173	Subj
-229175	Subj
-229183	Subj
-229185	Subj
-229197	Subj
-229202	Objc
-229208	Objc
+229067	Subj
+229070	Pred
+229074	Subj
+229084	Subj
+229089	Subj
+229097	Subj
+229100	Pred
+229104	Pred
+229111	Subj
+229117	Objc
+229123	Subj
+229125	Subj
+229128	Subj
+229132	Objc
+229137	Subj
+229140	Objc
+229149	Cmpl
+229152	Subj
+229156	Objc
+229169	Objc
+229171	Objc
+229175	Objc
+229179	Pred
+229183	Objc
+229185	Objc
+229196	Subj
 229211	Objc
-229217	Objc
-229244	Subj
-229248	Subj
-229267	Subj
-229277	Subj
-229284	Objc
-229291	Objc
-229311	Subj
-229317	Objc
-229325	Subj
-229343	Objc
+229221	Subj
+229223	Pred
+229227	Cmpl
+229230	Cmpl
+229232	Cmpl
+229253	Subj
+229274	Subj
 Subj
-229348	Subj
-229354	Objc
-229366	Subj
-229375	Subj
-229379	Subj
-229412	Objc
-229421	Cmpl
-229426	Objc
-229432	Subj
-Pred
-229443	Objc
-229447	Objc
-229457	Objc
+229278	Pred
+229285	Subj
+229291	Subj
+229294	Subj
+229296	Subj
+229302	Objc
+229305	Subj
+229317	Subj
+229325	Objc
+229334	Objc
+229336	Subj
+229339	Objc
+229346	Objc
 Cmpl
-229461	Objc
-229491	Subj
-229505	Subj
-Pred
-229511	Subj
-229515	Objc
-229525	Objc
-Cmpl
-229547	Subj
+229351	Subj
+229355	Subj
+229360	Objc
+229362	Subj
+229364	Pred
+229371	Subj
+229374	Cmpl
+229376	Subj
+229378	Subj
+229394	Objc
+229402	Subj
+229408	Objc
+229429	Subj
+229434	Subj
+229437	Pred
+229442	Pred
+229451	Objc
+229457	Subj
+229460	Pred
+229470	Subj
+229475	Objc
+229490	Objc
+229500	Subj
+229510	Objc
+229516	Subj
+229518	Objc
+229520	Cmpl
+229532	Objc
+229535	Objc
 Subj
-229565	Subj
-229583	Subj
-229608	Pred
-229625	Subj
-229627	Objc
-229630	Subj
-229632	Objc
-229636	Subj
-229638	Objc
-229641	Subj
-229643	Objc
-229647	Subj
-229650	Objc
-229663	Subj
-229676	Objc
-229706	Objc
+229549	Objc
+229553	Objc
+Cmpl
+229559	Pred
+229580	Pred
+229587	Subj
+229606	Cmpl
+Objc
+229614	Objc
+229619	Subj
+229633	Objc
+229635	Objc
+229642	Subj
+229645	Objc
+229651	Subj
+229662	Objc
+229669	Objc
+229672	Cmpl
+Objc
+229676	Subj
+229701	Subj
+229705	Objc
+229708	Objc
+229711	Subj
 229717	Objc
-229721	Subj
-229724	Objc
-229732	Objc
-229741	Subj
+Subj
+229725	Objc
+229730	Subj
+Objc
+229742	Objc
 229744	Subj
-229747	Subj
-229750	Objc
+229751	Subj
+229755	Subj
 229761	Subj
-229765	Objc
-229773	Objc
-229781	Subj
-229784	Subj
-229787	Subj
-229790	Objc
-229796	Subj
-229805	Subj
+229764	Subj
+229781	Objc
+229783	Objc
+229796	Objc
+229798	Objc
+229808	Cmpl
 Objc
-229809	Subj
-229824	Subj
-229833	Subj
-229849	Objc
-229857	Subj
-229862	Subj
-229871	Cmpl
-229874	Objc
-229891	Subj
-229904	Subj
-229918	Subj
-229924	Subj
-Pred
-229948	Cmpl
-229958	Subj
-229968	Objc
-229993	Subj
-230011	Subj
-Cmpl
-230022	Subj
-230030	Subj
-230035	Subj
-230043	Objc
-230047	Subj
-230059	Objc
-230065	Objc
-230068	Objc
-230082	Objc
-230086	Objc
-230091	Subj
-230100	Subj
+229820	Objc
+Subj
+229830	Subj
+229834	Objc
+229840	Subj
+229871	Pred
+229879	Subj
+229884	Subj
+229890	Cmpl
+229898	Cmpl
+229902	Objc
+229910	Objc
+229917	Subj
+229921	Subj
+229942	Pred
+229950	Objc
+229955	Objc
+229960	Subj
+229967	Cmpl
+229971	Objc
+229975	Objc
+229981	Objc
+229984	Subj
+229990	Subj
+229996	Objc
+229999	Objc
+230001	Subj
+230015	Objc
+Subj
+230022	Objc
+230024	Cmpl
+230028	Subj
+230030	Pred
+230038	Objc
+230041	Subj
+230044	Pred
+230047	Pred
+230054	Subj
+Subj
+230064	Objc
+230066	Subj
+230068	Pred
+230077	Subj
+230081	Objc
+230085	Subj
+Objc
+230090	Pred
+230099	Subj
+230102	Objc
+230105	Objc
 230108	Subj
-230112	Subj
-230115	Subj
-230120	Subj
-230124	Objc
-230128	Subj
-230136	Objc
-230141	Subj
-230147	Subj
-Objc
-230157	Subj
-230162	Subj
+230110	Objc
+230118	Objc
+230130	Cmpl
+230132	Cmpl
+230139	Pred
+230147	Pred
+230153	Subj
 230167	Subj
-230197	Subj
-230201	Subj
-230223	Subj
-230256	Subj
-230263	Subj
-230287	Subj
-230317	Subj
-230344	Objc
-230351	Subj
-Objc
-230354	Cmpl
-230359	Subj
-230364	Subj
-230372	Subj
-Objc
-230387	Subj
-230400	Subj
-230408	Cmpl
-230413	Objc
-230432	Subj
-230439	Objc
-Cmpl
-230446	Subj
-Objc
-230470	Subj
-230483	Subj
-Cmpl
-230492	Subj
-230500	Objc
-230524	Subj
-230535	Subj
-230540	Subj
-230543	Subj
-230549	Pred
+230173	Subj
+230186	Subj
+230197	Objc
+230202	Objc
+230208	Subj
+230214	Objc
+230219	Subj
+230224	Pred
+230227	Subj
+230245	Objc
+230265	Objc
+230272	Objc
+230280	Pred
+230288	Subj
+230310	Subj
+230312	Objc
+230319	Subj
+230321	Cmpl
+230325	Objc
+230335	Objc
+230339	Objc
+230349	Subj
+230353	Pred
+230358	Subj
+230362	Subj
+230365	Subj
+230382	Subj
+230422	Objc
+230427	Subj
+230440	Objc
+230454	Subj
+230460	Subj
+230470	Pred
+230473	Subj
+230476	Objc
+230499	Pred
+230505	Cmpl
+230508	Pred
+230514	Subj
+230542	Objc
+230555	Objc
+230594	Objc
+230603	Subj
+230610	Objc
 Subj
-230558	Subj
-230564	Objc
-230572	Subj
-230578	Subj
-230582	Objc
-230591	Subj
-230594	Subj
-230597	Subj
-230602	Objc
-230610	Subj
-230616	Subj
-230622	Objc
-230632	Subj
-230635	Subj
-230640	Subj
-230644	Objc
-230655	Objc
-230661	Subj
-230670	Subj
-230675	Subj
-230684	Subj
-230693	Subj
-230696	Subj
-230702	Subj
-230712	Subj
-230715	Objc
-230719	Subj
-230723	Subj
-230733	Subj
-230735	Subj
-230751	Subj
-230754	Subj
-230766	Objc
-230776	Subj
-230781	Subj
-230798	Objc
-230804	Subj
-230806	Subj
-230810	Subj
-230818	Subj
-230824	Objc
-230828	Subj
-230841	Objc
-230854	Objc
-230864	Subj
-230868	Cmpl
-230873	Subj
-230876	Subj
-230880	Objc
-230892	Objc
-230895	Objc
-230909	Subj
-230957	Objc
-230959	Subj
-230987	Subj
-231021	Subj
-231055	Subj
+230625	Subj
+230628	Pred
+230639	Subj
+230666	Subj
+Pred
+230669	Subj
+230688	Subj
+230692	Subj
+230698	Subj
+230708	Objc
+230714	Pred
+230720	Objc
+230731	Subj
+230734	Pred
+230739	Subj
+230742	Objc
+230760	Cmpl
+Objc
 Subj
-231063	Subj
-231074	Objc
-231084	Objc
-231115	Subj
+230765	Cmpl
+230774	Subj
+230800	Objc
+230817	Objc
+Subj
+230822	Subj
+230827	Objc
+230839	Objc
+230848	Subj
+230851	Subj
+230861	Objc
+230872	Objc
+230879	Objc
+230885	Subj
+230887	Subj
+230891	Subj
+230907	Subj
+230913	Objc
+230918	Subj
+230941	Subj
+230945	Objc
+230948	Subj
+230974	Cmpl
+230982	Objc
+230997	Subj
+231003	Objc
+231010	Pred
+231017	Subj
+231033	Subj
+231038	Objc
+231045	Cmpl
+Subj
+231055	Objc
+231057	Subj
+Pred
+231069	Subj
+231082	Cmpl
+231090	Cmpl
+Objc
 231121	Subj
-231175	Subj
-231229	Objc
-231234	Subj
-231240	Pred
-231244	Pred
-231253	Pred
-231258	Subj
-Pred
-231266	Objc
-231269	Objc
-231306	Objc
-231310	Objc
-231324	Subj
-231328	Subj
-231338	Subj
+231126	Cmpl
+231128	Subj
+231150	Objc
+231152	Subj
+231154	Subj
+231163	Cmpl
+Subj
+Cmpl
+231169	Pred
+231172	Objc
+231176	Cmpl
+231185	Subj
+231207	Subj
+231209	Pred
+231211	Objc
+231215	Subj
+231222	Subj
+231226	Objc
+231229	Cmpl
+231240	Subj
+231249	Cmpl
+231251	Objc
+231255	Subj
+231258	Cmpl
+Objc
+231275	Pred
+Subj
+231281	Objc
+231288	Pred
+231294	Subj
+231316	Objc
+231323	Objc
+231328	Cmpl
+231333	Subj
 231355	Subj
-231415	Subj
-231417	Pred
-231439	Objc
-231449	Objc
-231455	Objc
-231476	Objc
-231483	Objc
-231489	Objc
-231492	Objc
-231500	Objc
-231509	Subj
-231511	Cmpl
-231525	Subj
-231529	Objc
-231546	Subj
-231575	Subj
-231577	Cmpl
-231585	Objc
-231593	Objc
-231600	Objc
+231373	Subj
 Pred
-231616	Objc
-231621	Objc
-231626	Objc
-231637	Subj
-231642	Subj
-231659	Subj
-231667	Subj
-231691	Objc
-231703	Objc
-231726	Subj
-231748	Subj
-231755	Objc
-231759	Subj
-231837	Subj
-231863	Pred
-231873	Objc
-231876	Subj
+231379	Subj
+231381	Objc
+231393	Subj
+231408	Objc
+231411	Objc
+231419	Objc
+231425	Objc
+231432	Subj
+Objc
+231446	Subj
+231448	Objc
+231470	Objc
+231473	Pred
+231477	Subj
+231481	Subj
+231485	Pred
+231491	Pred
+231493	Subj
+231496	Subj
+231501	Pred
+231506	Subj
+231518	Subj
+231520	Pred
+231523	Subj
+231526	Subj
+231530	Pred
+231538	Subj
+231548	Subj
+231551	Objc
+231555	Subj
+231561	Subj
+231563	Pred
+Subj
+231577	Subj
+231584	Subj
+Pred
+231605	Subj
+231607	Objc
+231616	Pred
+231623	Subj
+231631	Subj
+231634	Objc
+231644	Subj
+231647	Objc
+231650	Subj
+231653	Objc
+231656	Objc
+Pred
+231670	Subj
+231693	Subj
+231696	Pred
+231705	Objc
+231725	Subj
+231733	Subj
+231742	Pred
+231747	Pred
+231758	Subj
+231762	Objc
+231769	Subj
+231788	Objc
+Subj
+231798	Pred
+231807	Subj
+231810	Pred
+231812	Subj
+231824	Subj
+231835	Objc
+Subj
+Pred
+231847	Subj
+231850	Pred
+231855	Objc
+Pred
+231858	Subj
+Pred
+231865	Pred
+231869	Subj
+231875	Cmpl
+Pred
 231879	Objc
-231888	Subj
-231904	Objc
-231918	Cmpl
-231924	Subj
-231928	Subj
-231935	Subj
-231943	Subj
-231954	Subj
-231957	Subj
-231974	Subj
-231985	Objc
-232009	Subj
-232012	Objc
-232020	Subj
-232034	Objc
-232038	Pred
+231883	Objc
+Objc
+231890	Subj
+Pred
+231900	Objc
+231914	Pred
+231921	Objc
+231924	Cmpl
+231929	Subj
+231942	Cmpl
+Subj
+231947	Subj
+231956	Objc
+Subj
+231968	Subj
+Pred
+231972	Objc
+231981	Subj
+231994	Subj
+232002	Subj
+232021	Objc
+232028	Subj
+232033	Subj
 232040	Subj
-232054	Subj
-232074	Objc
-232095	Cmpl
-232097	Objc
-232107	Subj
-232112	Subj
-232119	Subj
-232128	Objc
-232153	Subj
-232158	Objc
-232163	Cmpl
-232173	Objc
-232178	Objc
-232182	Objc
-232188	Objc
-232192	Objc
-232196	Subj
-232205	Subj
-232212	Subj
-232218	Pred
-232223	Subj
-232227	Objc
-232239	Objc
-232243	Subj
-232249	Subj
-232260	Subj
-Objc
-232266	Subj
-232274	Objc
-Subj
-232281	Pred
-232289	Objc
-232292	Subj
-232307	Objc
-232311	Objc
-232315	Objc
-232322	Pred
 Pred
+232046	Pred
+232049	Subj
+232052	Objc
+232056	Cmpl
+232063	Subj
+232070	Subj
+232074	Subj
+232089	Subj
+232092	Objc
+232096	Objc
+232101	Subj
+Cmpl
+232109	Subj
+232118	Subj
+232127	Subj
+232132	Subj
+232134	Pred
+232161	Subj
+232167	Pred
+232176	Subj
+232181	Subj
+232185	Objc
+232190	Subj
+232195	Subj
+232198	Cmpl
+Objc
+232201	Subj
+232204	Cmpl
+232206	Subj
+232213	Cmpl
+232233	Subj
+232235	Pred
+232246	Pred
+232260	Objc
+232262	Subj
+232274	Cmpl
+232276	Objc
+232279	Subj
+232283	Pred
+232285	Objc
+232292	Objc
+Subj
+232297	Subj
+232305	Subj
+232308	Subj
+232310	Pred
+232323	Objc
+232326	Cmpl
+Subj
+232331	Objc
 232334	Subj
-232337	Cmpl
-232340	Subj
-232377	Objc
-232380	Objc
-232385	Objc
-232388	Objc
-232395	Subj
-232409	Subj
-232413	Subj
-232420	Subj
-232435	Subj
+232350	Subj
+Objc
+232356	Cmpl
+Objc
+232359	Subj
+232366	Subj
+232383	Cmpl
+Subj
+Pred
+232389	Subj
+232394	Cmpl
+Subj
+232402	Subj
+Subj
+232418	Pred
+232421	Subj
+232425	Cmpl
+Subj
+232428	Objc
+232431	Subj
+232434	Cmpl
+232438	Objc
+Subj
+232442	Pred
+232448	Subj
+232450	Cmpl
+Subj
 232453	Subj
-232475	Subj
-232484	Pred
-232492	Subj
-232495	Pred
-232523	Subj
-232529	Subj
-232544	Objc
-232548	Subj
-232554	Subj
-232589	Objc
-232598	Subj
-232613	Cmpl
-232641	Pred
-232645	Pred
-232651	Objc
-232670	Objc
-232677	Pred
-232687	Subj
-232696	Subj
-232703	Subj
-232732	Subj
-232740	Objc
-232747	Objc
-232766	Subj
-232794	Subj
-232806	Objc
-232825	Subj
-232867	Subj
-232876	Objc
-232897	Subj
-232904	Subj
-232916	Subj
-232932	Objc
-232940	Objc
-232947	Subj
-232972	Objc
-233002	Objc
-233013	Objc
-233029	Objc
-233045	Objc
-233048	Subj
-233053	Objc
-233064	Subj
+232455	Pred
+232462	Subj
+Pred
+232470	Subj
+232473	Cmpl
+232476	Cmpl
+232479	Objc
+232486	Objc
+232492	Cmpl
+232496	Cmpl
+232498	Subj
+232503	Subj
+232530	Subj
+232541	Subj
+232548	Pred
+232551	Subj
+232569	Subj
+232571	Subj
+232581	Objc
+232586	Cmpl
 Subj
-233080	Subj
-233083	Subj
+232590	Subj
+232597	Subj
+232603	Subj
+232608	Cmpl
+232611	Objc
+232615	Cmpl
+232621	Subj
+232647	Cmpl
+Subj
+232652	Objc
+232658	Objc
+232664	Cmpl
+232669	Cmpl
+232672	Subj
+232678	Subj
+232684	Pred
+232689	Pred
+232698	Objc
+232702	Objc
+232705	Subj
+232710	Cmpl
+Subj
+232715	Objc
+232724	Objc
+232727	Subj
+232729	Objc
+232737	Objc
+232745	Subj
+232757	Objc
+232767	Subj
+232805	Pred
+232807	Subj
+232819	Subj
+232843	Objc
+232847	Objc
+232863	Objc
+232872	Objc
+232878	Objc
+232884	Objc
+232888	Objc
+232897	Objc
+232901	Subj
+232910	Subj
+232920	Objc
+232923	Subj
+232928	Cmpl
+Objc
+232933	Cmpl
+232935	Objc
+232938	Subj
+232941	Cmpl
+232943	Objc
+232955	Objc
+232958	Subj
+232967	Subj
+232973	Subj
+232980	Objc
+Subj
+233002	Subj
+233008	Objc
+233019	Objc
+233021	Subj
+233027	Pred
+233042	Subj
+233052	Objc
+233057	Objc
+233059	Subj
+233065	Objc
+Cmpl
+233070	Subj
+233072	Objc
+233076	Objc
+233079	Subj
+233086	Subj
 233089	Subj
-233095	Objc
-233106	Subj
-233110	Subj
-233123	Objc
-233125	Objc
-233137	Cmpl
-233141	Objc
-233150	Objc
-233156	Objc
-233159	Subj
-233186	Subj
-233196	Objc
-233199	Subj
-233213	Objc
+233091	Pred
+233105	Pred
 Subj
-233216	Cmpl
-233229	Objc
-233237	Objc
-233243	Subj
-233247	Objc
-233259	Objc
-233261	Pred
-233267	Subj
-Pred
-233275	Pred
-233282	Subj
-Pred
-233292	Pred
-233297	Subj
-Pred
-233301	Subj
-233308	Subj
-233318	Subj
-233321	Objc
-233329	Objc
-233335	Objc
-233352	Subj
-233355	Subj
-233367	Subj
-233388	Objc
-233392	Subj
-233397	Objc
-233403	Objc
-233406	Objc
-233412	Subj
-233435	Objc
-233439	Objc
-233449	Subj
+233113	Subj
+233121	Cmpl
+233130	Subj
+233139	Objc
+Subj
+233145	Subj
+233148	Pred
+233152	Subj
+233155	Cmpl
+233159	Cmpl
+233162	Subj
+233168	Objc
+233179	Subj
+233184	Subj
+233186	Pred
+233206	Subj
+233210	Cmpl
+233213	Subj
+233239	Pred
+233249	Pred
+233255	Cmpl
+233257	Subj
+233260	Subj
+233267	Objc
+233281	Pred
+233283	Subj
+233293	Subj
+233296	Cmpl
+233299	Subj
+233302	Subj
+233305	Cmpl
+Subj
+233308	Pred
+233316	Objc
+233322	Cmpl
+233324	Objc
+233328	Objc
+233332	Objc
+233340	Objc
+233344	Cmpl
+233351	Cmpl
+Objc
+233357	Subj
+233382	Subj
+233384	Objc
+233395	Subj
+233403	Subj
+233411	Objc
+233417	Subj
+233420	Objc
+233424	Objc
+233433	Subj
+233444	Objc
+233450	Subj
 233453	Objc
-233473	Objc
-233482	Subj
-233503	Subj
-Objc
-233531	Pred
-233538	Subj
+233463	Objc
+233469	Subj
+233505	Pred
+233508	Subj
+233512	Subj
+233523	Subj
+233527	Objc
+233531	Objc
+233536	Subj
+233538	Pred
 233542	Subj
-233555	Pred
-233559	Subj
-233567	Subj
-233582	Objc
-233594	Objc
-233598	Cmpl
-233611	Subj
-233617	Subj
-233619	Objc
-233633	Subj
-233642	Objc
-233652	Subj
-233655	Subj
-233662	Objc
-233678	Objc
-233687	Subj
-233704	Subj
-233709	Cmpl
-233712	Cmpl
-233719	Subj
-233721	Objc
-233727	Cmpl
-233732	Subj
-233741	Subj
+233546	Objc
+233549	Objc
+233563	Subj
+233571	Objc
+233582	Subj
+233625	Subj
+233638	Subj
+Pred
+233656	Subj
+233659	Subj
+233682	Cmpl
+233684	Subj
+233686	Pred
+233694	Cmpl
+Subj
+233698	Subj
+233701	Subj
+233707	Subj
+233712	Subj
+233714	Objc
+233720	Cmpl
+233726	Subj
+233729	Cmpl
+233735	Subj
+Pred
 233749	Objc
-233756	Objc
-233763	Subj
-233768	Subj
-233771	Subj
-233774	Objc
-233783	Subj
-233810	Subj
-233827	Cmpl
-Objc
-233831	Subj
-Cmpl
-233854	Pred
+233752	Pred
+233766	Objc
+233778	Subj
+233789	Subj
+233792	Subj
+233798	Pred
+233804	Pred
+233809	Pred
+233829	Pred
+233833	Objc
+233837	Objc
+233840	Objc
+233845	Subj
+233849	Objc
+233856	Subj
+233859	Pred
+233861	Objc
 233864	Subj
-233873	Objc
-233878	Objc
-233892	Subj
-233901	Subj
-233916	Subj
-233931	Subj
-233942	Subj
-233974	Objc
-233986	Subj
-233988	Objc
-234001	Subj
-234005	Subj
-234010	Pred
-234024	Subj
-234034	Objc
-234041	Objc
-234058	Subj
-234060	Objc
-234066	Objc
-234075	Subj
+233867	Objc
+233881	Objc
+233884	Subj
+233888	Objc
+233892	Objc
+233909	Objc
+233915	Objc
+233920	Objc
+233922	Subj
+233936	Subj
+233941	Subj
+233945	Subj
 Objc
-234085	Subj
-234122	Objc
-234135	Subj
-234140	Subj
-234147	Objc
-234152	Objc
-234164	Objc
-234171	Objc
-234175	Subj
-234179	Subj
-234181	Objc
-234187	Subj
-234190	Subj
-234198	Pred
-234210	Subj
-234212	Objc
-234217	Subj
-234224	Subj
-234245	Objc
-234258	Objc
-234264	Objc
-234269	Subj
-234278	Subj
+233953	Subj
+233955	Subj
+233961	Subj
+233967	Objc
+233980	Subj
+233999	Pred
+234005	Objc
+234007	Subj
+234016	Pred
+Subj
+234022	Subj
+234039	Subj
+234041	Pred
+234045	Subj
+234053	Objc
+234055	Cmpl
+Subj
+234060	Cmpl
+234062	Subj
+234075	Objc
+234079	Cmpl
+234087	Subj
+234089	Pred
+234098	Pred
+234103	Subj
+234106	Subj
+234109	Cmpl
+234120	Pred
+234124	Cmpl
+234126	Cmpl
+234128	Subj
+234131	Objc
+234135	Cmpl
+Objc
+234140	Cmpl
+234143	Objc
+234146	Subj
+234150	Pred
+234160	Subj
+Pred
+234170	Subj
+234172	Cmpl
+Objc
+234177	Subj
+234195	Subj
+234198	Cmpl
+Subj
+234212	Subj
+234221	Objc
+Subj
+234224	Cmpl
+234235	Subj
+234238	Objc
+234240	Cmpl
+234245	Pred
+234259	Subj
+234264	Cmpl
+Objc
+234278	Cmpl
+234281	Objc
 234290	Subj
-234299	Subj
-234336	Objc
-234341	Cmpl
-234350	Subj
-234365	Subj
-234370	Subj
-234379	Subj
-234389	Subj
-234404	Subj
-234419	Subj
-234431	Objc
-234436	Subj
-234438	Objc
-234455	Objc
-234462	Subj
-234465	Subj
-234468	Objc
-234472	Subj
-234474	Objc
-234487	Cmpl
-234502	Cmpl
-234505	Subj
-Cmpl
-234528	Pred
-234537	Objc
-234549	Subj
-234554	Objc
-234568	Subj
-234577	Subj
-234583	Objc
-234588	Objc
-234601	Subj
-234611	Subj
-234618	Subj
-234639	Subj
-234651	Objc
-234657	Objc
-234661	Objc
-234667	Objc
+234297	Objc
+234299	Cmpl
+Subj
+234306	Objc
+234309	Objc
+234316	Objc
+234320	Pred
+234323	Objc
+Objc
+234327	Cmpl
+Subj
+234334	Pred
+234336	Subj
+Subj
+234351	Subj
+234354	Pred
+234358	Subj
+234365	Cmpl
+Subj
+234370	Objc
+234374	Subj
+234389	Objc
+234392	Subj
+234394	Objc
+234397	Subj
+234399	Objc
+234402	Subj
+234405	Pred
+234413	Subj
+234415	Pred
+234418	Subj
+234424	Objc
+234434	Subj
+234437	Objc
+234442	Pred
+Subj
+234457	Cmpl
+Subj
+234467	Pred
+234470	Subj
+234472	Cmpl
+Objc
+234475	Cmpl
+Subj
+234483	Cmpl
+234489	Subj
+234501	Subj
+234504	Objc
+234514	Objc
+234519	Subj
+234531	Cmpl
+234537	Subj
+234539	Cmpl
+Objc
+234542	Objc
+234545	Subj
+234547	Pred
+234567	Objc
+Subj
+234574	Subj
+234577	Cmpl
+Subj
+Objc
+234582	Objc
+Subj
+234588	Subj
+234595	Subj
+234597	Cmpl
+234600	Cmpl
+Subj
+234604	Subj
+234610	Objc
+234616	Objc
+234619	Objc
+234625	Subj
+234628	Pred
+Subj
+234632	Subj
+234638	Cmpl
+234640	Objc
+234647	Objc
+234651	Pred
+234659	Objc
+234663	Objc
+234681	Subj
+234685	Pred
+234687	Subj
+234692	Subj
+234695	Subj
+234697	Objc
+234699	Objc
+234701	Subj
 234703	Subj
-234709	Objc
-234714	Subj
+234706	Subj
+234723	Subj
+234744	Cmpl
+Objc
+234747	Objc
+234755	Subj
+234759	Subj
+234771	Subj
+234782	Cmpl
+234797	Subj
+234803	Subj
+234806	Pred
+234828	Subj
+234834	Subj
+234842	Objc
+234854	Objc
 Subj
-234757	Subj
-234786	Objc
-234790	Subj
-234794	Objc
-234821	Cmpl
-234826	Pred
-234832	Cmpl
-234856	Subj
-234868	Cmpl
-234875	Pred
-234879	Objc
-234882	Objc
-234886	Subj
-Cmpl
+234858	Objc
+234861	Objc
+234871	Subj
+234895	Objc
 234898	Objc
-234909	Objc
-234915	Objc
-234925	Objc
-234929	Objc
-234933	Objc
-234940	Subj
-234972	Subj
-234984	Subj
-235005	Subj
+234901	Subj
+234904	Subj
+234913	Subj
+234916	Subj
+234938	Objc
+234948	Subj
+234968	Subj
+234975	Subj
+234981	Cmpl
+Subj
+234986	Subj
+234993	Subj
+234996	Objc
+234999	Objc
+235001	Cmpl
+Subj
+235009	Subj
 235011	Subj
-235026	Subj
-Cmpl
-235036	Objc
-235047	Subj
-235067	Subj
-235076	Subj
-235088	Objc
-235092	Objc
-235101	Subj
-235104	Objc
-235107	Subj
-235114	Subj
-235118	Subj
-235145	Subj
-235152	Subj
-235172	Objc
-235193	Cmpl
+235015	Objc
+235018	Subj
+235026	Objc
+235035	Pred
+235039	Cmpl
+235046	Objc
+Subj
+235052	Subj
+235065	Cmpl
+Subj
+235069	Subj
+235086	Objc
+235094	Subj
+235112	Subj
+235119	Subj
+235125	Pred
+235135	Subj
+235140	Pred
+Objc
+235149	Subj
+235157	Objc
+235164	Subj
+235177	Objc
+235180	Subj
+235194	Pred
+235196	Subj
 235202	Subj
-235213	Pred
+235205	Pred
+235219	Subj
 235221	Subj
-235225	Subj
-235229	Subj
-235236	Subj
-235258	Objc
-235263	Cmpl
-235277	Subj
-235280	Subj
-235304	Objc
-235310	Subj
-235322	Subj
-235329	Subj
-235351	Subj
-235354	Subj
-235366	Objc
-235373	Objc
-235385	Subj
-235412	Pred
-235427	Pred
-235437	Objc
-235447	Objc
-235458	Subj
-235470	Cmpl
-235478	Subj
-235481	Cmpl
-235485	Subj
-235525	Subj
+235234	Cmpl
+235236	Pred
+235239	Cmpl
+235243	Objc
+235249	Subj
+235253	Objc
+235264	Subj
+Subj
+235271	Cmpl
+Subj
+235277	Objc
+235287	Pred
+Subj
+235293	Objc
+235302	Pred
+235312	Subj
+235317	Pred
+235324	Objc
+235327	Subj
+235330	Cmpl
+235333	Objc
+Objc
+Subj
+Cmpl
+235339	Objc
+235347	Objc
+Pred
+235355	Cmpl
+235364	Pred
+235366	Subj
+235371	Subj
+235373	Pred
+235382	Objc
+Subj
+235393	Cmpl
+235395	Pred
+235401	Subj
+235407	Subj
+235412	Cmpl
+235416	Pred
+235420	Objc
+Objc
+235427	Subj
+235430	Objc
+235434	Objc
+235439	Subj
+235442	Cmpl
+Subj
+235452	Subj
+235460	Objc
+Subj
+235469	Objc
+235473	Objc
+235479	Objc
+235482	Objc
+Objc
+235490	Subj
+235495	Cmpl
+235499	Cmpl
+235502	Subj
+235509	Objc
+235512	Objc
+235514	Subj
+235518	Objc
+235521	Subj
+235523	Objc
+Subj
+235531	Subj
+235536	Objc
 235540	Objc
-235549	Objc
-235557	Subj
-235561	Objc
-235575	Pred
+235543	Cmpl
+Objc
 Subj
-235579	Subj
-235583	Objc
-235622	Subj
-235630	Subj
-235644	Objc
-235654	Objc
-235663	Subj
-235670	Cmpl
-235676	Objc
-235678	Pred
-235709	Subj
-235735	Pred
-235740	Subj
-235745	Subj
-235753	Subj
-235764	Subj
-235792	Subj
-235806	Subj
-235818	Subj
-235824	Objc
-235830	Subj
-235837	Objc
-235850	Subj
+235548	Objc
+235553	Cmpl
+235556	Subj
+235560	Subj
+235564	Objc
+235570	Subj
+235575	Objc
+235580	Subj
+235584	Objc
+235586	Objc
+235592	Cmpl
+235596	Subj
+235598	Objc
+235603	Objc
+235609	Objc
+235619	Objc
+235623	Cmpl
+235626	Objc
+235636	Objc
+235638	Objc
+235662	Cmpl
+235665	Subj
+235667	Pred
+235670	Subj
+235674	Objc
+235691	Subj
+235695	Objc
+235700	Cmpl
+235706	Objc
+235712	Objc
+235714	Cmpl
+Objc
+235718	Pred
+235724	Objc
+235731	Subj
+235741	Objc
+235749	Objc
+235759	Objc
+235770	Subj
+235775	Objc
+235780	Subj
+235787	Pred
+235792	Objc
+235800	Objc
+235806	Objc
+235808	Subj
+235813	Subj
+235820	Pred
+Pred
+235831	Pred
+235833	Subj
+235836	Objc
+235841	Subj
+235848	Cmpl
+235851	Subj
+235857	Objc
+235862	Objc
+235865	Subj
+235867	Subj
 235876	Subj
-235883	Cmpl
-235885	Objc
-235891	Subj
-235897	Objc
-235906	Subj
-Objc
-235915	Subj
-235917	Cmpl
-235920	Objc
-235925	Subj
-235932	Cmpl
-235944	Subj
-Objc
-235964	Subj
-235977	Objc
-236007	Cmpl
-236011	Subj
-Pred
-236019	Pred
-236024	Subj
-236031	Objc
-236043	Objc
-236056	Objc
-236064	Subj
-236068	Subj
-236081	Objc
-236117	Objc
-236123	Subj
-236127	Subj
-236131	Objc
-236138	Pred
+235890	Subj
+235905	Objc
+235907	Cmpl
 Subj
-236146	Objc
+235913	Objc
+235919	Objc
+235926	Subj
+235929	Objc
+235936	Objc
+235938	Subj
+235944	Objc
+235950	Objc
+235955	Subj
+235967	Objc
+235969	Subj
+Objc
+Subj
+235975	Objc
+235979	Subj
+235984	Objc
+235989	Subj
+236004	Objc
+236006	Objc
+236014	Objc
+236016	Objc
+236028	Subj
+236044	Objc
+236046	Subj
+236057	Objc
+236061	Subj
+236063	Objc
+236086	Subj
+236088	Objc
+236097	Objc
+236102	Subj
+236107	Objc
+236110	Objc
+236115	Subj
+236119	Objc
+236127	Objc
+236137	Subj
 236154	Objc
-236157	Objc
-236166	Subj
-236175	Objc
-236183	Subj
-236199	Objc
+Subj
+236160	Objc
+236163	Objc
+236176	Subj
+236189	Pred
+236202	Objc
 236205	Subj
-236208	Objc
-236212	Subj
-236223	Objc
-236239	Subj
+236211	Subj
+236224	Objc
+236227	Subj
 Objc
-236245	Objc
-236249	Subj
-Cmpl
-236278	Subj
-236287	Subj
-236297	Subj
-236308	Subj
-236321	Subj
-236327	Subj
-236331	Objc
-236339	Subj
-236353	Objc
-236358	Subj
-236364	Subj
-236392	Objc
-236401	Subj
-236439	Subj
-236447	Subj
-236450	Cmpl
-236454	Objc
-236457	Objc
-236467	Subj
-236475	Subj
-236481	Objc
-236483	Subj
-236493	Subj
-236511	Cmpl
-236520	Objc
-236527	Cmpl
-236531	Cmpl
-236542	Subj
-236549	Subj
-236552	Subj
-236560	Objc
-236573	Subj
-236576	Cmpl
-236585	Cmpl
-236600	Subj
-236621	Subj
-236639	Subj
-236644	Objc
-236656	Objc
-236678	Subj
-236685	Subj
-236691	Subj
-236696	Subj
-236708	Pred
-236715	Pred
-236717	Subj
-236727	Objc
-236729	Objc
-236737	Subj
-236741	Subj
-236757	Subj
-236773	Subj
-236783	Subj
-236790	Subj
-Objc
-236813	Objc
-236840	Subj
-Objc
-236857	Cmpl
-236860	Subj
-236877	Subj
-236883	Subj
-236891	Objc
-236899	Subj
-236901	Objc
-236928	Pred
-236937	Pred
-236945	Subj
-236952	Subj
-236969	Objc
-236987	Objc
-236993	Subj
-236995	Pred
-236998	Objc
-237033	Pred
-237043	Subj
-237075	Objc
-237094	Subj
-237099	Subj
-237102	Subj
-237107	Subj
-237119	Objc
-237124	Cmpl
-237136	Objc
-237163	Objc
-237169	Subj
-237171	Objc
-237186	Pred
-237189	Pred
-237200	Pred
-237211	Pred
-237213	Objc
-237217	Objc
-237222	Cmpl
-237226	Subj
-237236	Objc
-237271	Subj
-237274	Objc
-237280	Subj
-237283	Subj
-237320	Objc
-237341	Subj
-237344	Objc
-237349	Objc
-237355	Subj
-Objc
-237368	Objc
-237378	Objc
-237382	Objc
-237387	Subj
-237389	Objc
-237393	Pred
-237400	Objc
-237416	Subj
-237419	Cmpl
-237428	Objc
-Cmpl
-237432	Objc
-237438	Subj
-237464	Subj
-237469	Cmpl
-237471	Objc
-237496	Objc
-237507	Objc
-237515	Subj
-237519	Subj
-237525	Cmpl
-237531	Objc
-237543	Objc
-237551	Objc
-237582	Subj
-237584	Objc
-237592	Subj
-237596	Objc
-237598	Objc
-237602	Objc
-237606	Cmpl
-237611	Subj
-237634	Subj
-237647	Subj
-237653	Subj
-237657	Objc
-237659	Objc
-237666	Objc
-237672	Subj
-Cmpl
-237676	Objc
-237700	Subj
-237707	Objc
-237720	Objc
-237743	Subj
-Objc
-237750	Objc
-237773	Objc
-237776	Objc
-237778	Cmpl
-237793	Subj
-237807	Subj
-237809	Objc
-237813	Cmpl
-237818	Pred
+236232	Objc
 Subj
-237824	Subj
-237829	Objc
-237831	Cmpl
-237846	Subj
-237853	Pred
-237862	Subj
-237866	Objc
-237869	Objc
-237883	Pred
-237915	Pred
-237922	Subj
-237929	Subj
-237933	Objc
-237945	Subj
-237973	Pred
-237980	Objc
-237991	Subj
-237995	Subj
-238000	Subj
-238002	Subj
-238008	Pred
-238012	Pred
-238020	Cmpl
-238029	Objc
-238040	Pred
-238054	Subj
-238073	Objc
-238094	Objc
-238109	Objc
-238121	Objc
-238125	Objc
-238153	Subj
-238157	Subj
-238161	Objc
-238166	Subj
-238174	Subj
-238180	Subj
-238182	Pred
-238201	Objc
-238232	Objc
-238264	Subj
-238271	Objc
-238295	Subj
-238302	Objc
-238388	Objc
-238391	Objc
-238401	Objc
-238417	Objc
-238422	Subj
-238448	Subj
-238468	Objc
-238473	Objc
-238481	Pred
-238488	Pred
-238498	Pred
-238501	Objc
-238505	Objc
-238546	Subj
-238575	Subj
-238588	Objc
-238597	Objc
-238601	Objc
-238609	Subj
-238632	Subj
-238637	Subj
-238640	Objc
-238650	Objc
-238668	Subj
-238676	Subj
-238688	Subj
-238702	Pred
-238723	Subj
-238741	Subj
+236236	Objc
+236240	Cmpl
+Subj
+236244	Subj
+236253	Subj
+Objc
+236259	Cmpl
+236277	Subj
 Pred
-238771	Subj
-238780	Subj
 Subj
-238795	Subj
-238803	Cmpl
-238807	Subj
-238831	Subj
-238837	Subj
-238841	Objc
-238847	Subj
-238851	Objc
-238871	Subj
+236291	Subj
+Pred
+236298	Subj
+236302	Subj
+236308	Subj
+236311	Pred
+236318	Subj
+236324	Pred
+236329	Objc
+236332	Subj
+236348	Objc
+236354	Cmpl
+236360	Objc
+236367	Subj
+236373	Objc
+236387	Subj
+236391	Subj
+236396	Objc
+236401	Subj
+236414	Subj
+236424	Objc
+236427	Objc
+236439	Subj
+236442	Subj
+236467	Subj
+236476	Subj
+236479	Subj
+236483	Subj
+236490	Objc
+236499	Subj
+236517	Subj
+236520	Cmpl
+Subj
+236528	Objc
+236537	Subj
+236540	Pred
+236564	Subj
+236569	Pred
+236572	Subj
+236582	Subj
+236592	Subj
+236600	Subj
+236611	Objc
+236615	Subj
+236621	Subj
+236625	Subj
+236628	Pred
+236630	Subj
+236636	Subj
+236648	Objc
+236653	Objc
+236660	Cmpl
+236666	Cmpl
+Subj
+236675	Cmpl
+236677	Objc
+236681	Objc
+236710	Objc
+Subj
+236718	Cmpl
+236720	Objc
+236734	Objc
+236738	Objc
+236746	Subj
+236749	Cmpl
+Pred
+236752	Subj
+236763	Objc
+236765	Subj
+236768	Cmpl
+Objc
+236773	Subj
+236779	Objc
+Objc
+236782	Subj
+236787	Objc
+236800	Objc
+236808	Cmpl
+236812	Cmpl
+Subj
+236819	Cmpl
+236821	Subj
+236823	Cmpl
+Objc
+236834	Subj
+236840	Cmpl
+Objc
+236854	Subj
+236871	Objc
+236873	Cmpl
+236884	Cmpl
+Objc
+236891	Cmpl
+Subj
+236895	Subj
+236897	Pred
+236926	Cmpl
+236930	Objc
+236934	Subj
+236936	Objc
+236938	Cmpl
+Subj
+236967	Objc
+236975	Objc
+236981	Objc
+Pred
+236985	Subj
+236991	Objc
+236995	Objc
+236997	Cmpl
+237005	Objc
+237013	Pred
+237016	Subj
+237026	Subj
+237030	Objc
+237039	Objc
+237044	Objc
+Subj
+237055	Subj
+237063	Subj
+237078	Subj
+237087	Subj
+237107	Subj
+237110	Cmpl
+237116	Subj
+237129	Objc
+237131	Objc
+Subj
+237134	Objc
+237152	Subj
+Pred
+237156	Subj
+237173	Objc
+237177	Subj
+237182	Pred
+237187	Subj
+237189	Objc
+237195	Cmpl
+237199	Objc
+237202	Subj
+237204	Pred
+237211	Subj
+237222	Objc
+237227	Subj
+237240	Subj
+237248	Subj
+237263	Subj
+237278	Subj
+237284	Objc
+Subj
+237287	Pred
+237307	Subj
+237313	Subj
+Cmpl
+237316	Objc
+237322	Cmpl
+Subj
+237329	Cmpl
+237333	Objc
+237346	Objc
+237353	Objc
+237359	Objc
+237366	Objc
+237372	Objc
+237375	Subj
+237377	Objc
+237383	Subj
+237389	Pred
+237394	Subj
+237399	Pred
+237405	Objc
+237412	Objc
+237421	Subj
+237427	Objc
+Subj
+237433	Subj
+237444	Objc
+Subj
+237450	Subj
+237463	Subj
+237470	Objc
+237481	Objc
+237490	Subj
+237502	Pred
+237504	Subj
+237509	Subj
+237511	Objc
+237515	Subj
+237526	Subj
+237532	Cmpl
+Subj
+Objc
+237539	Subj
+237547	Pred
+237552	Subj
+237558	Subj
+237563	Objc
+Subj
+237567	Objc
+Subj
+237570	Cmpl
+Pred
+237574	Pred
+237583	Subj
+237591	Subj
+237594	Pred
+237600	Pred
+237604	Objc
+237611	Cmpl
+237613	Subj
+237624	Cmpl
+237633	Subj
+237654	Subj
+237657	Cmpl
+237661	Subj
+237667	Cmpl
+237675	Objc
+237682	Subj
+237687	Subj
+237689	Pred
+237697	Cmpl
+Subj
+237702	Subj
+237709	Subj
+237714	Pred
+237718	Objc
+237724	Subj
+237728	Objc
+Pred
+237741	Subj
+237760	Objc
+Subj
+237767	Pred
+237783	Subj
+237798	Subj
+237806	Objc
+237811	Objc
+237813	Subj
+237815	Objc
+237822	Subj
+Pred
+237828	Objc
+237831	Objc
+Cmpl
+237837	Subj
+237848	Cmpl
+Subj
+237852	Subj
+237861	Subj
+237871	Pred
+237874	Subj
+237878	Objc
+Objc
+237883	Subj
+237889	Subj
+237894	Pred
+237896	Subj
+237903	Subj
+237914	Subj
+237921	Objc
+237924	Cmpl
+237934	Subj
+237945	Subj
+237957	Subj
+237962	Objc
+237970	Pred
+237972	Subj
+237974	Subj
+237980	Pred
+237986	Subj
+237990	Pred
+237992	Subj
+237998	Objc
+238001	Subj
+238019	Subj
+238024	Subj
+238034	Subj
+238039	Subj
+Objc
+238046	Cmpl
+Subj
+238050	Subj
+238057	Pred
+238061	Objc
+238063	Subj
+238065	Objc
+238078	Pred
+238085	Subj
+238095	Objc
+238106	Objc
+238112	Objc
+Subj
+Pred
+238117	Subj
+Pred
+238124	Subj
+238126	Cmpl
+Objc
+238131	Subj
+238137	Objc
+238141	Objc
+238145	Subj
+238148	Objc
+238150	Subj
+Objc
+238155	Subj
+238158	Cmpl
+Objc
+238164	Subj
+238169	Subj
+238171	Cmpl
+Objc
+238177	Pred
+238184	Pred
+238194	Objc
+238196	Objc
+238198	Subj
+238205	Subj
+238210	Objc
+238213	Objc
+238216	Objc
+238227	Objc
+238235	Subj
+238243	Subj
+238245	Objc
+238253	Objc
+Cmpl
+238260	Subj
+238264	Subj
+238266	Pred
+238270	Objc
+238272	Pred
+238280	Subj
+238282	Pred
+238292	Subj
+238297	Objc
+238301	Pred
+238311	Pred
+238314	Objc
+Objc
+Subj
+238319	Subj
+238321	Objc
+238323	Pred
+238327	Subj
+Objc
+238332	Objc
+238335	Subj
+238340	Objc
+238346	Subj
+238357	Subj
+238370	Objc
+238374	Objc
+Subj
+238378	Subj
+238381	Subj
+238388	Objc
+238398	Objc
+238401	Objc
+238404	Subj
+238411	Pred
+238421	Objc
+238423	Objc
+238428	Pred
+238430	Subj
+Subj
+238437	Subj
+238444	Subj
+238448	Subj
+238451	Objc
+238466	Objc
+238469	Pred
+238476	Objc
+238479	Objc
+238484	Pred
+238486	Subj
+Subj
+238507	Subj
+238514	Subj
+238529	Subj
+238532	Subj
+238545	Objc
+238553	Objc
+238564	Subj
+238566	Subj
+238569	Subj
+238576	Objc
+238582	Subj
+238585	Pred
+238588	Subj
+238590	Subj
+238592	Pred
+238595	Subj
+238605	Subj
+238610	Subj
+238629	Pred
+238631	Subj
+238633	Subj
+238636	Subj
+238647	Subj
+238655	Objc
+238657	Subj
+238662	Objc
+238667	Subj
+238679	Cmpl
+Subj
+238686	Objc
+238688	Subj
+238694	Subj
+238696	Subj
+238704	Cmpl
+Subj
+238709	Subj
+238714	Subj
+238726	Subj
+238740	Objc
+238743	Pred
+238756	Pred
+238763	Subj
+238769	Objc
+238781	Objc
+238786	Cmpl
+238788	Subj
+238791	Pred
+238806	Subj
+238811	Subj
+238819	Subj
+238841	Subj
+238853	Objc
+238866	Objc
+238874	Objc
+238879	Cmpl
+238881	Subj
 238895	Subj
-238898	Subj
-238904	Subj
-238912	Subj
-238931	Objc
-238943	Pred
-238950	Pred
-238958	Subj
+Cmpl
+238898	Objc
+238902	Subj
+238904	Objc
+238906	Objc
+238910	Objc
+238914	Objc
+Subj
+238934	Objc
+238940	Subj
+238946	Objc
 238963	Subj
-238971	Subj
-Subj
-238982	Subj
-238985	Subj
-Objc
-238990	Subj
+238991	Subj
 238995	Subj
-239002	Subj
-239010	Subj
-239017	Subj
-239032	Objc
-239038	Objc
-239053	Objc
-239059	Subj
-239063	Objc
-239067	Subj
-239072	Objc
-239082	Subj
-239087	Subj
-239097	Subj
-239118	Subj
-239124	Subj
-239127	Subj
-239161	Subj
-239165	Subj
-239173	Pred
-239195	Subj
-239204	Subj
-239207	Subj
-239215	Subj
-239221	Subj
-239226	Subj
-239238	Subj
-239244	Objc
-239254	Subj
-239272	Subj
-239279	Subj
-239285	Objc
-239296	Subj
-239313	Objc
-239327	Subj
-239334	Objc
-239343	Subj
-239350	Subj
-239352	Objc
-239357	Subj
-239367	Subj
-239379	Subj
-239385	Subj
-239390	Objc
-239395	Subj
-Cmpl
-239404	Subj
-239409	Subj
-239428	Subj
-239432	Subj
-239438	Subj
-239442	Subj
-239476	Objc
-239480	Objc
-239488	Objc
-239505	Objc
-239510	Objc
-239515	Objc
+239004	Subj
+239008	Objc
+239016	Cmpl
+239020	Pred
+239022	Subj
+239029	Subj
 Objc
-239523	Objc
-239527	Objc
-239537	Subj
-239550	Objc
-239552	Objc
-239558	Objc
-239560	Objc
-239564	Subj
-239586	Subj
-239589	Objc
-239594	Objc
-239596	Objc
-239600	Subj
-239623	Subj
-239626	Objc
-239634	Pred
-239646	Objc
-239651	Objc
-239656	Subj
-239675	Objc
-239677	Cmpl
-239682	Objc
-239689	Objc
-239694	Objc
-239701	Cmpl
-239711	Subj
-239717	Objc
-239737	Subj
-239745	Subj
-239756	Subj
-239764	Subj
-Objc
-239772	Objc
-239777	Objc
-239781	Subj
-Cmpl
-239794	Objc
-239825	Pred
-239831	Subj
-239876	Subj
-239882	Cmpl
-239890	Cmpl
-239936	Subj
-239962	Cmpl
-239973	Subj
-239983	Subj
-Objc
-239988	Cmpl
-239994	Pred
-239996	Subj
-239999	Subj
-240026	Objc
-240044	Subj
-240054	Objc
-240066	Subj
-240069	Pred
+239032	Subj
+239035	Subj
+239039	Cmpl
 Subj
-240083	Subj
-240086	Cmpl
+239044	Subj
+Objc
+239053	Cmpl
+239055	Subj
+239059	Subj
+239061	Pred
+239070	Objc
+239082	Objc
+239091	Cmpl
+Subj
+239095	Subj
+239100	Subj
+239107	Pred
+239109	Subj
+239112	Cmpl
+239114	Subj
+239119	Pred
+239121	Subj
+239133	Subj
+239142	Subj
+239149	Subj
+239152	Objc
+239157	Subj
+Subj
+239165	Pred
+239168	Pred
+239176	Objc
+239191	Subj
+239198	Pred
+239200	Subj
+239212	Subj
+239216	Objc
+239220	Cmpl
+Pred
+239223	Subj
+239229	Subj
+239231	Objc
+239234	Objc
+239240	Objc
+239242	Objc
+239251	Objc
+239269	Subj
+239271	Objc
+239275	Subj
+239283	Cmpl
+Subj
+239288	Objc
+239299	Subj
+239301	Subj
+239307	Subj
+239312	Objc
+239316	Subj
+239318	Subj
+239324	Cmpl
+Subj
+Pred
+239332	Subj
+Pred
+239339	Subj
+Pred
+239348	Subj
+239351	Pred
+239360	Cmpl
+239375	Subj
+239387	Cmpl
+Subj
+Pred
+239392	Cmpl
+Subj
+239399	Objc
+239403	Cmpl
+Objc
+239415	Objc
+Pred
+239418	Subj
+Objc
+239424	Objc
+239434	Objc
+239437	Cmpl
+239441	Subj
+239446	Objc
+239456	Subj
+239463	Objc
+239467	Objc
+Subj
+239471	Objc
+239476	Objc
+Pred
+239483	Objc
+Objc
+239486	Subj
+Objc
+239494	Objc
+Subj
+239497	Subj
+239504	Subj
+239513	Objc
+239516	Subj
+239528	Pred
+239534	Objc
+239538	Subj
+239542	Objc
+239547	Pred
+239552	Objc
+239556	Subj
+239559	Pred
+239562	Cmpl
+Subj
+239569	Cmpl
+239571	Subj
+239575	Objc
+239578	Pred
+239584	Subj
+239600	Subj
+239611	Subj
+239614	Objc
+239617	Pred
+239621	Pred
+239627	Objc
+239630	Subj
+239642	Objc
+Subj
+239651	Subj
+239655	Objc
+239666	Cmpl
+Subj
+239672	Pred
+239675	Cmpl
+Subj
+239680	Pred
+239686	Objc
+239700	Subj
+Objc
+239704	Cmpl
+239706	Objc
+239713	Objc
+Subj
+239717	Subj
+239719	Objc
+239729	Cmpl
+Subj
+239744	Cmpl
+Subj
+239749	Subj
+239752	Pred
+239758	Objc
+Subj
+239776	Subj
+Objc
+239782	Objc
+239795	Objc
+239802	Subj
+Pred
+239813	Objc
+239824	Subj
+Pred
+239841	Subj
+Pred
+239847	Objc
+239857	Pred
+239860	Pred
+239868	Objc
+239874	Objc
+Subj
+239881	Objc
+239886	Objc
+239891	Subj
+239894	Objc
+239897	Pred
+239902	Objc
+239913	Subj
+239917	Pred
+239925	Subj
+239930	Cmpl
+239934	Subj
+239936	Pred
+239938	Subj
+239940	Objc
+239943	Subj
+Subj
+Objc
+239950	Objc
+239956	Subj
+239958	Objc
+Subj
+239963	Objc
+239976	Cmpl
+239978	Subj
+Objc
+239985	Objc
+239996	Cmpl
+Subj
+240003	Objc
+240005	Subj
+240008	Subj
+240012	Subj
+240015	Subj
+Objc
+240026	Objc
+240033	Subj
+Pred
+240042	Subj
+240045	Subj
+240049	Objc
+Objc
+240053	Subj
+240055	Subj
+240057	Objc
+Subj
+240063	Pred
+240066	Pred
+240073	Objc
+240075	Subj
+240078	Pred
+240085	Objc
+Subj
 240089	Objc
 240095	Objc
-240103	Objc
-240118	Subj
-240123	Subj
-240144	Objc
-240157	Subj
-240164	Objc
-240177	Subj
-240180	Subj
-240184	Objc
-240193	Subj
-240196	Subj
-240199	Objc
-240217	Subj
+240097	Pred
+240104	Objc
+240106	Objc
+240121	Objc
+240134	Subj
+240140	Objc
+240146	Objc
+240149	Cmpl
+Subj
+240154	Cmpl
+240156	Subj
+240158	Subj
+240162	Objc
+240168	Subj
+240181	Objc
+240190	Objc
+Subj
+240198	Subj
+240211	Subj
+240213	Subj
+240216	Subj
 240224	Subj
+240234	Subj
 240237	Objc
+240243	Objc
 240245	Subj
-240258	Subj
-240265	Subj
-240288	Subj
-240294	Cmpl
-240300	Pred
-240358	Subj
-240361	Subj
-240370	Objc
-240373	Subj
-240387	Subj
-240395	Subj
-240407	Subj
-240417	Subj
-240424	Subj
-240430	Cmpl
+240248	Subj
+240250	Subj
+240254	Pred
+240260	Pred
+240266	Objc
+240272	Objc
+240280	Objc
+240292	Cmpl
+240304	Subj
+240321	Objc
+240326	Pred
+240330	Subj
+240336	Subj
+240339	Pred
+240341	Subj
+240345	Pred
+240348	Subj
+240351	Subj
+240355	Cmpl
+240359	Subj
+240365	Subj
+240371	Pred
+Objc
+240376	Objc
+240383	Cmpl
+240400	Cmpl
+Pred
+240403	Subj
+240408	Objc
+240422	Pred
+240428	Objc
+240432	Subj
+240437	Objc
+240445	Objc
+Subj
 240453	Subj
-240477	Subj
-240497	Cmpl
-240515	Subj
-240518	Subj
-240533	Subj
-240544	Subj
-240553	Objc
-240570	Subj
-240573	Subj
-240596	Subj
-240631	Subj
-240639	Objc
-240648	Subj
-240652	Objc
+240456	Cmpl
 Objc
-240658	Objc
-240661	Objc
-240665	Subj
-240668	Objc
-240675	Subj
+240472	Subj
+240481	Subj
+240483	Pred
+240490	Objc
+240495	Subj
+240499	Subj
+240502	Objc
+240507	Subj
+240509	Pred
+240514	Cmpl
+240518	Objc
+Subj
+240526	Objc
+240531	Subj
+240535	Pred
+240540	Subj
+240548	Pred
+240555	Objc
+240564	Objc
+240566	Subj
+240574	Subj
+240585	Subj
+240594	Subj
+240596	Pred
+240612	Subj
+240614	Objc
+240619	Subj
+240622	Objc
+240624	Objc
+240626	Subj
+240631	Objc
+240633	Subj
+240640	Objc
+240646	Subj
+240651	Subj
+Objc
+240654	Objc
+Pred
+240660	Subj
+240667	Pred
+240669	Objc
+240673	Objc
+240679	Subj
+240681	Pred
+240684	Cmpl
 240686	Objc
-240690	Objc
-240696	Subj
-240705	Subj
 Cmpl
-240729	Subj
-240732	Subj
-240737	Subj
-240746	Objc
+240690	Subj
+240693	Subj
+240698	Pred
+240702	Subj
+240704	Pred
+240708	Objc
+240711	Pred
+240717	Cmpl
+Objc
+240720	Cmpl
+240723	Objc
+240729	Cmpl
+240731	Cmpl
+240741	Subj
+240745	Pred
+240751	Objc
+240754	Subj
+Pred
 240759	Subj
-240771	Objc
-240789	Subj
-240798	Objc
-240809	Subj
-240815	Subj
+240761	Pred
+240767	Subj
+240770	Cmpl
+240772	Subj
+240775	Objc
+240779	Pred
+240782	Subj
+240787	Cmpl
+Pred
+240792	Subj
+240797	Subj
+240800	Pred
+240804	Objc
+240811	Subj
+240814	Objc
 240819	Subj
-240837	Subj
-240846	Subj
-240860	Subj
+Pred
+240823	Objc
+240829	Objc
+240840	Subj
 Objc
-240867	Objc
+240849	Subj
+Pred
+240856	Objc
+240860	Cmpl
+240864	Subj
+240868	Subj
 240870	Objc
+240873	Objc
+240876	Subj
+240879	Objc
+240883	Objc
+240885	Subj
 240897	Subj
-240903	Subj
-240906	Subj
+240901	Pred
+240910	Cmpl
+Subj
+240916	Objc
+240923	Subj
+240925	Subj
+240932	Objc
+240935	Subj
+240941	Subj
+240958	Pred
+240966	Objc
+240968	Pred
+240974	Cmpl
+240976	Subj
+240979	Pred
+240982	Cmpl
+Subj
+240987	Pred
+240992	Objc
+240998	Subj
+241007	Cmpl
+241028	Subj
 Pred
-240927	Cmpl
-240929	Pred
-240938	Objc
-240946	Cmpl
-240949	Subj
-Pred
-240953	Subj
-240964	Objc
-240971	Subj
-Objc
-240989	Subj
-241018	Objc
-241020	Cmpl
-241026	Objc
-241039	Objc
-241048	Subj
-241050	Objc
-241058	Pred
-241064	Objc
-241073	Subj
-241075	Pred
-241112	Subj
-241118	Subj
-241121	Pred
-241127	Subj
-241141	Subj
-241152	Subj
-241157	Subj
-241159	Objc
-Cmpl
-241166	Objc
-241175	Subj
-241198	Subj
-241218	Objc
-241222	Objc
-241225	Objc
-241230	Subj
+241032	Pred
+241041	Pred
+241047	Cmpl
+Subj
+241053	Subj
+241056	Objc
+241063	Objc
+241074	Objc
+241076	Objc
+241087	Subj
+241090	Objc
+241094	Objc
+241099	Objc
+241113	Objc
+241120	Objc
+241126	Cmpl
+Subj
+241130	Subj
+241134	Pred
+241136	Objc
+241138	Cmpl
+241142	Subj
+241148	Cmpl
+241150	Subj
+241152	Pred
+241159	Subj
+241161	Subj
+241166	Pred
+241169	Pred
+241173	Objc
+Subj
+241177	Subj
+241179	Pred
+241186	Subj
+241194	Objc
+241196	Subj
+241209	Subj
+241212	Objc
+241217	Subj
+241219	Pred
+241226	Subj
 241233	Objc
-241240	Objc
-241243	Subj
-241257	Objc
-241267	Subj
-241274	Objc
-241288	Subj
-241291	Subj
-241302	Objc
+241250	Pred
+241254	Subj
+241257	Pred
+241259	Subj
+241265	Objc
+241271	Subj
+241275	Objc
+241279	Pred
+241290	Subj
+241292	Pred
+241301	Objc
 241306	Objc
-241311	Subj
-241315	Objc
-241319	Objc
-241326	Objc
-241352	Objc
-241366	Objc
-241369	Objc
-241380	Objc
-241387	Objc
-241399	Pred
-241401	Objc
-241414	Objc
-241426	Objc
-241438	Subj
-241452	Objc
-241461	Objc
-241470	Pred
-241478	Subj
-241492	Pred
-241512	Pred
-241517	Subj
-241539	Subj
+Subj
+241312	Objc
+Subj
+241316	Subj
+241318	Objc
+241322	Objc
+241334	Objc
+241338	Subj
+241341	Pred
+241348	Objc
+241350	Subj
+241353	Objc
+241370	Objc
+Subj
+241376	Subj
+241378	Objc
+241386	Objc
+Subj
+241389	Objc
+241394	Subj
+241396	Objc
+241400	Objc
+241403	Objc
+241405	Objc
+241409	Objc
+Objc
+241423	Subj
+241440	Subj
+241445	Objc
+241450	Objc
+241452	Subj
+241454	Subj
+241463	Subj
+241465	Objc
+241471	Subj
+241479	Pred
+241483	Subj
+241502	Objc
+Subj
+241508	Cmpl
+241512	Objc
+241519	Subj
+241521	Pred
+241525	Cmpl
+241528	Cmpl
+Subj
+241533	Cmpl
+241540	Objc
+Subj
+241554	Subj
 241560	Subj
-241571	Subj
-241582	Subj
-241593	Subj
-241596	Objc
-241601	Subj
-241610	Subj
+241566	Pred
+241575	Subj
+241582	Objc
+241588	Subj
+241590	Objc
+241593	Objc
+Subj
+241596	Cmpl
+Objc
 241613	Subj
-241616	Subj
-241620	Subj
-241647	Objc
-241656	Pred
+Objc
+241627	Objc
+241629	Cmpl
+241631	Pred
+241634	Subj
+241651	Pred
+241655	Objc
+Subj
+241661	Objc
+241663	Cmpl
+Subj
 241667	Objc
-241672	Pred
-241702	Cmpl
-241706	Cmpl
-Objc
-241712	Subj
-241719	Objc
+241672	Cmpl
+241686	Objc
+241689	Cmpl
 Subj
-241736	Objc
-241758	Pred
-241770	Subj
-241780	Subj
-241788	Subj
-241791	Cmpl
-241797	Subj
-241802	Subj
-241815	Objc
-241817	Objc
-241835	Objc
-241839	Subj
-241844	Subj
-241850	Objc
-241858	Subj
-241860	Pred
-241863	Subj
-241877	Pred
-241882	Subj
-Cmpl
-241905	Objc
-241912	Cmpl
-241938	Cmpl
-241950	Objc
-241956	Subj
-241963	Cmpl
-241975	Subj
-241980	Cmpl
+241700	Objc
+241707	Subj
+Pred
+241711	Objc
 Objc
-241993	Objc
-Cmpl
+241714	Cmpl
+Subj
+241730	Subj
+241732	Pred
+241735	Objc
+241737	Objc
+241741	Subj
+241753	Subj
+241756	Objc
+Subj
+241768	Subj
+241774	Pred
+241783	Objc
+241794	Objc
+241799	Objc
+241802	Objc
+241811	Pred
+241814	Subj
+241817	Subj
+Pred
+241825	Objc
+241853	Subj
+241862	Subj
+241870	Subj
+241872	Objc
+241876	Subj
+241879	Objc
+241881	Subj
+241885	Pred
+241888	Subj
+241896	Subj
+241920	Subj
+241923	Objc
+241929	Objc
+241948	Subj
+241957	Objc
+241962	Subj
+241966	Subj
+241973	Pred
+241977	Pred
+241988	Subj
 242000	Subj
-242025	Subj
-242036	Subj
-242044	Subj
-242054	Subj
+242037	Cmpl
+242048	Cmpl
+Subj
+242055	Objc
 242057	Subj
-242068	Objc
-242088	Pred
-242097	Pred
-242113	Objc
-242118	Objc
-242121	Pred
-242127	Objc
-242130	Objc
-242139	Objc
-242162	Objc
-242167	Subj
-242171	Objc
-242174	Objc
-242188	Subj
-242194	Objc
-242229	Subj
-242232	Subj
-242251	Subj
-242258	Pred
-242267	Pred
-242271	Subj
-242278	Subj
+242065	Subj
+242067	Subj
+242071	Pred
+242075	Subj
+242085	Objc
+242097	Subj
+242106	Subj
+242111	Pred
+242114	Objc
+242121	Cmpl
+242133	Objc
+242136	Subj
+242139	Cmpl
+242146	Subj
+242156	Subj
+242173	Cmpl
 Subj
-242284	Objc
-242293	Subj
-242296	Subj
-242327	Subj
-242334	Pred
-242339	Objc
-242358	Objc
-242400	Subj
-242405	Pred
-242408	Subj
-242427	Pred
-242433	Subj
-242444	Subj
-242461	Pred
-242466	Cmpl
-242475	Subj
-242500	Subj
-242511	Objc
-242516	Subj
-242525	Subj
-242528	Objc
-242539	Subj
-242547	Objc
-242553	Objc
+242178	Subj
+242190	Pred
+242201	Pred
+Cmpl
+242206	Subj
+242216	Subj
+242220	Subj
+Objc
+242233	Subj
+Pred
+242246	Subj
+242264	Objc
+242270	Subj
+242277	Subj
+242280	Objc
+Subj
+242291	Subj
+242300	Pred
+242304	Subj
+242313	Objc
+242316	Objc
+242320	Cmpl
+Subj
+242325	Cmpl
+Subj
+242330	Subj
+242336	Cmpl
+Subj
+242356	Cmpl
+Subj
+242360	Subj
+242378	Subj
+242397	Objc
+242399	Cmpl
+242402	Subj
+242405	Subj
+242425	Objc
+242438	Subj
+242444	Objc
+Subj
+242459	Subj
+242470	Pred
+242477	Objc
+Subj
+242487	Pred
+242497	Objc
+242499	Objc
+242508	Objc
+242520	Subj
+242526	Pred
+242528	Subj
+242530	Objc
+242540	Cmpl
+242544	Pred
+242547	Subj
 242557	Subj
-242616	Objc
-242637	Objc
-242649	Subj
-242667	Cmpl
-242685	Objc
-242692	Pred
-242707	Pred
-242714	Subj
-242720	Objc
-242726	Objc
-242737	Objc
-242743	Objc
-242746	Subj
-242751	Subj
+242560	Subj
+242564	Objc
+242573	Objc
+242578	Objc
+242580	Cmpl
+242586	Subj
+242591	Subj
+242597	Objc
+Subj
+242607	Subj
+242611	Objc
+242620	Subj
+242625	Subj
+242640	Pred
+242642	Subj
+242648	Subj
+242652	Objc
+242656	Cmpl
+242667	Pred
+242671	Cmpl
+Subj
+242677	Cmpl
+242682	Objc
+242691	Objc
+242694	Subj
+242699	Objc
+242707	Objc
+242710	Objc
+Subj
+242716	Objc
+242730	Subj
 Objc
-242754	Cmpl
-242757	Subj
-242762	Subj
-242785	Subj
-242801	Cmpl
-242803	Subj
-242812	Objc
-242821	Subj
-242829	Cmpl
+242734	Objc
+242756	Subj
+242764	Cmpl
+Subj
+242769	Objc
+242772	Subj
+242791	Objc
+242797	Subj
+242811	Cmpl
+Objc
+242814	Subj
+242824	Objc
+242827	Objc
+242830	Subj
 242835	Objc
-242849	Objc
-242856	Objc
-242869	Subj
-242903	Subj
-242919	Subj
-242929	Cmpl
-242941	Subj
-242944	Objc
-242982	Subj
-242987	Subj
-242990	Subj
-242995	Subj
-Pred
-243002	Objc
-243012	Subj
-243020	Objc
-243030	Subj
-243038	Subj
-243044	Objc
-243052	Subj
-Objc
-243057	Subj
-243060	Subj
-243063	Objc
-243077	Subj
-243081	Objc
-243085	Subj
-243117	Objc
-243124	Subj
-243127	Cmpl
-243130	Pred
-243136	Subj
-243141	Subj
-243147	Pred
+242841	Objc
+242843	Subj
+242850	Subj
+242855	Objc
+242874	Pred
+242882	Cmpl
 Subj
-243160	Subj
-243163	Objc
-243181	Objc
-243214	Cmpl
-243216	Objc
-243223	Subj
-243229	Subj
-243238	Subj
-243247	Subj
-243269	Subj
-243277	Cmpl
-243297	Subj
-243307	Pred
-243335	Pred
-243344	Objc
-243349	Objc
-243353	Cmpl
-243370	Pred
-243398	Subj
-243406	Subj
-243431	Objc
-243446	Subj
-243454	Subj
-243463	Subj
-243480	Objc
+242886	Objc
+242893	Subj
+242904	Subj
+242910	Objc
+242918	Pred
+242928	Subj
+242945	Objc
+242971	Objc
+Subj
+243001	Pred
+243013	Pred
+Subj
+243023	Subj
+243039	Objc
+243042	Objc
+243056	Subj
+243078	Objc
+243081	Subj
+243083	Pred
+243088	Objc
+Subj
+243106	Pred
+243109	Objc
+243114	Subj
+243117	Cmpl
+Objc
+243121	Subj
+243125	Subj
+243129	Pred
+243139	Subj
+243144	Objc
+243154	Objc
+243168	Objc
+243173	Subj
+243202	Objc
+243207	Subj
+243219	Cmpl
+243222	Objc
+243234	Pred
+243237	Objc
+243246	Subj
+243250	Objc
+243264	Objc
+Objc
+243274	Objc
+243281	Subj
+243293	Pred
+243307	Objc
+243311	Objc
+243318	Subj
+243322	Objc
+243329	Subj
+243363	Subj
+243368	Objc
+243403	Subj
+243406	Objc
+243421	Subj
+243433	Objc
+243436	Subj
+243447	Subj
+243451	Subj
+243459	Objc
+243461	Cmpl
+243469	Pred
+243473	Objc
 243484	Objc
-243487	Objc
-243496	Cmpl
-243523	Objc
-243586	Objc
-243605	Subj
-243614	Subj
-243652	Subj
+243493	Objc
+Subj
+243500	Subj
+243502	Objc
+243505	Subj
+243517	Objc
+243519	Subj
+243528	Subj
+243531	Pred
+243542	Subj
+243557	Objc
+243561	Objc
+243566	Subj
+243571	Cmpl
+243580	Cmpl
+243583	Subj
+243588	Cmpl
+243591	Subj
+243596	Subj
+243606	Cmpl
+243609	Subj
+243623	Subj
+Pred
+243629	Objc
+243635	Objc
+243641	Objc
+243645	Objc
 243663	Objc
-243669	Objc
-243675	Subj
-243690	Subj
-243729	Subj
-243733	Objc
-243739	Subj
-243750	Subj
-243773	Objc
-243777	Objc
-243783	Objc
-243788	Subj
-243793	Subj
-243800	Subj
-243820	Objc
-243847	Objc
-243865	Objc
-243880	Objc
-243897	Subj
-243917	Subj
-243957	Subj
-243965	Subj
-243971	Objc
-243984	Subj
-243991	Subj
-244003	Subj
-Objc
-244007	Subj
-244013	Objc
-244021	Pred
-244047	Objc
-244054	Subj
-244062	Objc
-244074	Cmpl
-244092	Objc
-244095	Pred
-244099	Subj
+243665	Objc
+Subj
+243668	Objc
+243671	Pred
+243673	Subj
 Pred
-244105	Subj
-244109	Subj
-244114	Subj
-244118	Pred
-244139	Objc
-244142	Cmpl
-244150	Subj
-244153	Subj
-244164	Objc
-244202	Objc
-244221	Subj
-244224	Subj
-244250	Objc
-244285	Subj
+Subj
+243686	Subj
+Objc
+243690	Objc
+Subj
+243695	Subj
+243702	Objc
+243706	Objc
+243728	Objc
+243735	Subj
+243755	Subj
+243757	Subj
+243759	Subj
+Cmpl
+243763	Subj
+243770	Subj
+243780	Pred
+Subj
+243790	Subj
+243801	Subj
+243809	Objc
+243814	Objc
+243825	Cmpl
+Subj
+243829	Subj
+243837	Subj
+243849	Subj
+243853	Subj
+243860	Pred
+243862	Subj
+243873	Cmpl
+Subj
+243881	Subj
+243884	Pred
+243890	Objc
+243896	Subj
+Objc
+243912	Objc
+243923	Pred
+243927	Objc
+243929	Subj
+243936	Objc
+243939	Subj
+243951	Subj
+243960	Objc
+243963	Subj
+243965	Objc
+243971	Subj
+243976	Cmpl
+243987	Subj
+243989	Objc
+243996	Objc
+244016	Objc
+Objc
+244019	Subj
+244022	Objc
+244034	Subj
+244057	Pred
+244061	Objc
+244070	Objc
+244077	Subj
+244097	Objc
+244101	Objc
+244105	Objc
+Subj
+244115	Subj
+244131	Subj
+Objc
+244141	Subj
+244144	Objc
+244150	Objc
+244156	Objc
+244161	Objc
+244165	Objc
+244173	Objc
+244177	Objc
+244179	Subj
+244181	Objc
+244190	Subj
+244201	Objc
+244203	Subj
+Cmpl
+Objc
+244207	Objc
+244210	Objc
+244215	Subj
+244220	Pred
+244224	Objc
+244226	Subj
+244230	Cmpl
+Subj
+244247	Subj
+244252	Subj
+244286	Objc
+244288	Subj
 244290	Subj
-244303	Pred
-244305	Subj
-244328	Subj
-244336	Subj
-244387	Objc
-244422	Pred
-244439	Subj
-244453	Subj
-244461	Subj
-244467	Subj
-244471	Pred
-244477	Subj
-244493	Subj
-244498	Objc
-244512	Subj
-244518	Subj
-244521	Pred
-244530	Objc
-244541	Objc
-244547	Objc
-244556	Objc
-244563	Subj
-244577	Subj
-244581	Subj
-244588	Objc
-244593	Subj
-244598	Subj
+244302	Objc
+Subj
+244309	Objc
+244311	Cmpl
+Subj
+244341	Objc
+244346	Objc
+244348	Objc
+244351	Objc
+244360	Objc
+244383	Cmpl
+244385	Subj
+Objc
+244393	Subj
+244396	Cmpl
+Objc
+Subj
+244400	Subj
+244410	Cmpl
+Subj
+244416	Objc
+244427	Subj
+Cmpl
+244432	Objc
+244435	Objc
+244440	Cmpl
+244445	Objc
+244452	Objc
+244462	Cmpl
+Subj
+244468	Objc
+244471	Objc
+244477	Pred
+244480	Subj
+Pred
+244485	Subj
+244490	Objc
+244497	Subj
+Pred
+244503	Objc
+244510	Objc
+244519	Cmpl
+244521	Objc
+244523	Cmpl
+Subj
+244526	Objc
+244543	Objc
+244555	Subj
+244559	Objc
+244565	Objc
+244568	Cmpl
+244571	Subj
+244573	Cmpl
+Subj
+244581	Cmpl
+244584	Subj
+Pred
+244592	Subj
+Pred
+244596	Objc
+244598	Objc
+244600	Pred
+244604	Objc
 244612	Subj
-244622	Objc
-244629	Subj
-244649	Subj
-244652	Objc
-244656	Subj
-244659	Subj
-Cmpl
-244703	Subj
-244726	Subj
-244731	Objc
-244747	Subj
-244752	Pred
-244779	Subj
-244792	Subj
+244614	Objc
+244618	Subj
+244624	Objc
+244633	Objc
+244642	Cmpl
+244652	Subj
+244657	Cmpl
+244661	Objc
+244663	Objc
+244667	Objc
+244672	Objc
+Objc
+244675	Subj
+244687	Cmpl
+244689	Subj
+244695	Objc
+244700	Subj
+244711	Subj
+244729	Objc
+244731	Subj
+244736	Cmpl
+244741	Cmpl
+244743	Pred
+244750	Subj
+244762	Cmpl
+244764	Pred
+244768	Subj
+244773	Cmpl
+Subj
+244776	Objc
+244781	Cmpl
+244784	Objc
+244790	Cmpl
 244805	Subj
-244829	Subj
-244831	Pred
-244839	Subj
+244810	Cmpl
+Subj
+Objc
+244816	Objc
+244818	Subj
+244827	Cmpl
+Subj
+244832	Objc
+244836	Subj
+244839	Cmpl
+Subj
+244842	Objc
+244852	Cmpl
+244856	Objc
 244860	Objc
-244864	Cmpl
-Objc
-244875	Objc
-244881	Objc
-244888	Objc
-244913	Objc
-244931	Subj
-244953	Objc
+244863	Subj
+244868	Pred
+244873	Subj
+244876	Subj
+244884	Subj
+244892	Subj
+244899	Subj
+244905	Objc
+244912	Objc
+244916	Pred
+244921	Objc
+244925	Cmpl
+244930	Subj
+244932	Subj
+244936	Objc
+244941	Objc
+244945	Cmpl
+244948	Objc
+244951	Objc
+244953	Subj
 244957	Objc
-244968	Subj
+244962	Subj
+244964	Pred
+244969	Objc
+244975	Cmpl
 244982	Subj
-244996	Pred
-245002	Subj
-245011	Subj
-245014	Objc
-245030	Subj
-Cmpl
-245035	Objc
-245044	Subj
-245055	Subj
+244987	Objc
+244994	Cmpl
+Subj
+245002	Objc
+245005	Objc
+245015	Subj
 Objc
-245058	Objc
-245074	Subj
-245091	Subj
-245105	Subj
+245028	Cmpl
+245032	Subj
+245038	Objc
+245042	Subj
+245059	Pred
+245070	Subj
+245079	Cmpl
+245083	Objc
 Cmpl
-245129	Cmpl
-245136	Objc
-245153	Objc
-245161	Subj
-245173	Subj
-245175	Objc
-245188	Objc
-245193	Cmpl
-245196	Subj
+245090	Objc
 Cmpl
-245204	Subj
-245208	Objc
-245217	Subj
-245222	Objc
-245233	Subj
-245280	Objc
-245287	Pred
-245299	Subj
-245304	Subj
-245330	Objc
-245340	Objc
-245384	Objc
-245388	Cmpl
-245393	Objc
-245417	Objc
+245096	Objc
+245101	Pred
+245103	Subj
+Subj
+245110	Subj
+245113	Objc
+245117	Cmpl
+Subj
+245126	Objc
+245130	Cmpl
+Subj
+Subj
+245145	Subj
+245159	Objc
+Objc
+245173	Objc
+245177	Cmpl
+Subj
+245181	Cmpl
+Objc
+245189	Cmpl
+Subj
+245196	Pred
+245203	Objc
+245207	Objc
+245209	Objc
+245213	Subj
+245216	Cmpl
+Objc
+245223	Subj
 Pred
-245424	Subj
-245435	Objc
-245449	Subj
+245230	Subj
+245233	Pred
+245237	Objc
+245240	Objc
+Subj
+245243	Cmpl
+245249	Subj
+245258	Objc
+245264	Cmpl
+245266	Subj
 Pred
-245468	Subj
-245520	Subj
-245534	Subj
-245591	Objc
-245614	Objc
-245622	Objc
+245273	Subj
+245276	Pred
+245293	Cmpl
+245299	Objc
+245302	Objc
+Subj
+245305	Subj
+245308	Objc
+245313	Subj
+245321	Objc
+245332	Objc
+245336	Subj
+245345	Objc
+245347	Objc
+245355	Subj
+245359	Objc
+Objc
+245368	Subj
+245370	Objc
+245374	Objc
+245378	Cmpl
+245381	Pred
+245396	Objc
+Subj
+245406	Objc
+245409	Subj
+245411	Objc
+245418	Pred
+245424	Objc
+Objc
+245434	Subj
+245437	Objc
+245440	Subj
+245443	Objc
+245445	Subj
+245447	Subj
+245459	Subj
+245461	Subj
+Pred
+245470	Subj
+Pred
+245474	Subj
+Pred
+245480	Objc
+245487	Objc
+Subj
+245492	Objc
+245496	Objc
+245505	Subj
+245507	Objc
+245510	Cmpl
+Objc
+245513	Cmpl
+Subj
+245517	Pred
+245522	Subj
+245525	Cmpl
+245528	Objc
+245531	Cmpl
+245535	Subj
+245538	Cmpl
+245540	Subj
+245542	Objc
+Objc
+245550	Subj
+245556	Objc
+245563	Objc
+245571	Objc
+Objc
+245580	Subj
+245583	Objc
+245587	Pred
+245589	Pred
+245593	Objc
+245595	Objc
+245597	Cmpl
+245613	Objc
+245615	Subj
+245625	Subj
+Objc
+245628	Objc
+245631	Objc
+Objc
 245634	Objc
-245636	Objc
-245648	Objc
-245662	Subj
-245671	Objc
-245685	Subj
+245636	Cmpl
+Subj
+Objc
+245640	Cmpl
+Objc
+245647	Cmpl
+245650	Subj
+245654	Subj
+245656	Cmpl
+245659	Subj
+245668	Subj
+245670	Cmpl
+245679	Objc
 245690	Subj
-245696	Objc
-245700	Objc
-245703	Objc
-245710	Objc
-245715	Objc
-245757	Objc
-245767	Objc
-245773	Objc
-245796	Objc
-245806	Subj
-245808	Objc
-245815	Subj
-245820	Subj
-245841	Objc
-245853	Objc
+245693	Pred
+245699	Cmpl
+245707	Objc
+245714	Subj
+245727	Objc
+245731	Subj
+245736	Objc
+245742	Cmpl
+Subj
+245751	Subj
+245753	Pred
+245761	Subj
+245766	Pred
+245780	Objc
+245782	Objc
+245787	Objc
+245790	Objc
+245792	Objc
+245797	Subj
+Pred
+245805	Objc
+245807	Cmpl
+245812	Subj
+245817	Subj
+245822	Objc
+245837	Subj
+245844	Subj
+245846	Pred
+245849	Subj
+Pred
+245858	Subj
 245862	Subj
-245871	Subj
-245876	Objc
-245901	Subj
-245904	Objc
-245913	Subj
-245921	Objc
-245931	Subj
-245936	Objc
-245941	Cmpl
-245952	Subj
-245971	Subj
-245981	Subj
-245986	Subj
-246013	Objc
-246022	Objc
-246030	Objc
-246047	Subj
-246052	Subj
-246077	Subj
-246087	Subj
-246093	Objc
+245864	Objc
+245874	Objc
+245877	Subj
+245885	Subj
+245892	Objc
+245908	Subj
+245917	Objc
+245928	Subj
+245934	Objc
+245940	Pred
+245945	Objc
+Subj
+245949	Subj
+Objc
+245963	Objc
+245978	Subj
+Objc
+245998	Objc
+246000	Cmpl
+246002	Subj
+246009	Pred
+246014	Subj
+246020	Pred
+246022	Subj
+246031	Objc
+246034	Objc
+Objc
+246040	Subj
+246043	Subj
+Objc
+246057	Subj
+Pred
+246064	Objc
+Subj
+246067	Cmpl
+246070	Objc
+Objc
+246073	Subj
+246078	Objc
+246080	Subj
+246085	Objc
+246088	Objc
+246090	Objc
+246092	Objc
+246102	Cmpl
+246104	Subj
+Objc
+246108	Subj
 246110	Objc
-246118	Subj
+246113	Objc
+246115	Subj
+246118	Objc
+246121	Subj
+246128	Objc
+246132	Objc
+246143	Cmpl
+Objc
+246146	Cmpl
+246149	Objc
+246151	Subj
+246154	Objc
+246158	Objc
+246164	Pred
+246170	Subj
+246174	Objc
+246180	Pred
+246188	Subj
+246190	Objc
+246200	Objc
+Subj
+246205	Objc
+246208	Objc
+Subj
+246211	Cmpl
+246214	Subj
 Pred
-246123	Subj
-246133	Objc
-246141	Cmpl
-246151	Objc
-246157	Cmpl
-246163	Cmpl
-246167	Objc
-246173	Objc
-246189	Pred
-246209	Subj
-246225	Subj
-246233	Cmpl
-246251	Objc
-246289	Objc
-246304	Objc
+246222	Objc
+246224	Objc
+246229	Objc
+246235	Objc
+246242	Objc
+246261	Objc
+246267	Cmpl
+Objc
+246273	Objc
+246284	Objc
+246286	Objc
+246295	Objc
+246303	Objc
+Subj
 246308	Objc
-246318	Objc
-246321	Objc
+246342	Objc
 246349	Objc
-246361	Objc
-246370	Objc
-246374	Subj
-246378	Objc
-246416	Objc
-246421	Subj
-246438	Pred
-246449	Subj
-246451	Pred
-246466	Subj
-246488	Objc
-246493	Subj
-246503	Objc
-246514	Objc
-246517	Objc
-246523	Objc
-246536	Objc
-246546	Objc
-246553	Objc
+Subj
+246352	Cmpl
+246365	Subj
+246372	Subj
+246377	Subj
+246386	Pred
+246390	Objc
+246392	Cmpl
+246396	Objc
+246398	Objc
+246401	Subj
+246403	Subj
+246407	Objc
+246409	Objc
+246411	Cmpl
+246415	Objc
+246420	Objc
+246424	Objc
+246426	Objc
+246428	Cmpl
+246432	Subj
+246438	Objc
+246440	Subj
+246442	Cmpl
+Objc
+246445	Cmpl
+246452	Pred
+246463	Objc
+246465	Subj
+246471	Objc
+246476	Objc
+246478	Cmpl
+Subj
+246483	Objc
+246489	Subj
+Objc
+246494	Cmpl
+246498	Subj
+246504	Subj
+246518	Objc
+246524	Subj
+246526	Objc
 246564	Objc
-246568	Objc
-246573	Objc
-246594	Subj
-246626	Subj
-246636	Subj
-246654	Subj
-246656	Pred
-246660	Subj
-246677	Subj
-Cmpl
-246686	Objc
-246722	Objc
-246738	Subj
+246570	Subj
+246581	Objc
+246583	Cmpl
+246602	Objc
+246617	Objc
+246624	Cmpl
+Subj
+Objc
+246637	Cmpl
+Subj
+246640	Objc
+246642	Subj
+246645	Pred
+246660	Cmpl
+246665	Objc
+246671	Objc
+246674	Subj
+246684	Pred
+246687	Objc
+246689	Cmpl
+246694	Objc
+246700	Objc
+246712	Pred
+246714	Objc
+246721	Objc
+246724	Subj
+246727	Objc
+246731	Cmpl
 246745	Objc
-246757	Subj
-246785	Subj
-246801	Subj
-Pred
+246751	Objc
+246755	Cmpl
+246760	Subj
+Subj
+246766	Subj
+246769	Subj
+246774	Pred
+246778	Subj
+246783	Objc
+246787	Subj
+246795	Objc
+246800	Objc
 246810	Subj
-246824	Subj
-246829	Objc
-246833	Objc
-246844	Objc
-246851	Cmpl
-246868	Pred
-246882	Subj
-246892	Objc
-246896	Subj
-246925	Subj
-246936	Subj
-246942	Objc
-246948	Subj
-246951	Objc
-246977	Pred
-246980	Subj
-246987	Subj
-246989	Objc
-246999	Subj
-247009	Subj
-247030	Objc
-247037	Subj
-247053	Objc
-247065	Pred
-247084	Objc
-247110	Objc
-247127	Subj
-247144	Subj
-247161	Pred
-Pred
-247169	Objc
+246816	Subj
+246822	Objc
+246827	Objc
+246830	Subj
+246836	Objc
+246841	Subj
+246854	Objc
+246857	Objc
+246861	Cmpl
+246863	Objc
+246865	Objc
+246869	Cmpl
+246882	Objc
+246894	Subj
+246902	Objc
+246907	Cmpl
+246909	Subj
+246916	Cmpl
+246925	Cmpl
+246944	Cmpl
+246946	Subj
+246948	Objc
+246954	Subj
+246961	Objc
+246963	Subj
+Objc
+246969	Subj
+246991	Objc
+247002	Subj
+247014	Objc
+247021	Objc
+247024	Objc
+247027	Subj
+Objc
+247040	Cmpl
+Subj
+247046	Subj
+247051	Subj
+247057	Objc
+Objc
+247063	Pred
+247065	Subj
+247068	Pred
+247072	Objc
+247074	Cmpl
+247079	Objc
+247086	Objc
+247090	Subj
+247092	Objc
+247095	Objc
+247097	Subj
+247100	Objc
+247113	Subj
+247117	Objc
+247123	Subj
+247127	Objc
+247130	Cmpl
+Objc
+247138	Objc
+247140	Cmpl
+247142	Cmpl
+Objc
+247146	Pred
+247149	Subj
+247165	Objc
+247169	Subj
+Objc
 247177	Objc
-247184	Objc
-247195	Subj
-247208	Subj
+247181	Objc
+247183	Cmpl
+247189	Objc
+Subj
+247198	Objc
+247203	Subj
+247211	Objc
+247216	Cmpl
 247219	Objc
-247233	Subj
+247221	Cmpl
+247227	Pred
+247229	Cmpl
+Objc
+247233	Objc
+247242	Subj
 247244	Objc
-247253	Subj
-247266	Objc
-247272	Subj
-247276	Subj
-247282	Subj
-247288	Subj
-247339	Objc
-247345	Subj
-247350	Objc
-247370	Subj
+247246	Cmpl
 Pred
-247378	Pred
-247383	Subj
-247389	Subj
-247399	Objc
-247409	Objc
-247419	Subj
+247252	Objc
+247255	Objc
+247257	Cmpl
+247259	Cmpl
+247261	Subj
+247274	Subj
+Objc
+247277	Subj
+247292	Objc
+247294	Cmpl
+247296	Pred
+247299	Subj
+247304	Pred
+247307	Subj
+247310	Pred
+247319	Pred
+247325	Subj
+Pred
+247332	Subj
+247341	Objc
+247349	Objc
+247351	Cmpl
+247354	Pred
+247356	Subj
+247359	Pred
+247362	Subj
+247364	Objc
+247372	Objc
+247374	Cmpl
+247378	Subj
+247386	Subj
+247394	Subj
+247405	Objc
+247414	Subj
 247425	Subj
-247432	Subj
-247437	Pred
-Subj
-247448	Objc
-247459	Objc
-247477	Objc
-247481	Subj
-247491	Objc
-247509	Objc
-247516	Subj
-247530	Cmpl
-247548	Objc
-247553	Subj
-Cmpl
-247560	Objc
+247427	Cmpl
+Objc
+247434	Subj
+247438	Objc
+247442	Pred
+247448	Subj
+247451	Pred
+247460	Objc
+247469	Objc
+247475	Pred
+247483	Subj
+247486	Pred
+247492	Objc
+247498	Subj
+247505	Pred
+247508	Objc
+247515	Subj
+247517	Objc
+247527	Subj
+247529	Objc
+247533	Subj
+247564	Subj
+Pred
 247568	Subj
-247575	Subj
-247580	Pred
-247610	Subj
-247625	Subj
-247632	Subj
-247671	Objc
-247676	Subj
-247679	Subj
-247685	Pred
-247692	Subj
-247704	Objc
-247715	Subj
-247727	Cmpl
-247780	Subj
-247787	Objc
-247802	Subj
-247806	Objc
-247831	Subj
-247840	Subj
-247851	Subj
-247865	Pred
-247872	Pred
-247876	Subj
-247886	Objc
-247888	Objc
-247947	Subj
-247952	Objc
-247962	Objc
-247971	Subj
-247977	Subj
-247984	Subj
-247988	Subj
-248013	Objc
-248034	Subj
-248048	Subj
+247570	Pred
+247573	Subj
+Pred
+247578	Subj
+247581	Pred
+247586	Subj
+247591	Subj
 Objc
-248068	Subj
-248073	Objc
-248079	Subj
-248087	Objc
-248093	Objc
-248102	Objc
-248130	Subj
-248138	Pred
-248152	Subj
-248183	Subj
-248195	Subj
-248209	Objc
-248229	Objc
-248247	Subj
-248249	Pred
-248254	Objc
-248272	Subj
-248289	Subj
-248295	Subj
-248298	Subj
+247594	Subj
+Objc
+247598	Objc
+247600	Cmpl
+247602	Cmpl
+247605	Pred
+247607	Subj
+Pred
+Subj
+Pred
+247614	Subj
+Pred
+247627	Subj
+247631	Subj
+Objc
+247636	Objc
+247638	Objc
+247641	Objc
+247643	Cmpl
+247646	Pred
+247648	Subj
+Subj
+247656	Objc
+247663	Objc
+247665	Cmpl
+247668	Objc
+247677	Subj
+247682	Objc
+247685	Subj
+247687	Objc
+247690	Subj
+247693	Subj
+Objc
+247698	Cmpl
+Objc
+247707	Subj
+247712	Objc
+Pred
+247717	Subj
+Pred
+247721	Objc
+247723	Subj
+247741	Pred
+247757	Subj
+247762	Objc
+Objc
+247769	Subj
+247778	Subj
+247809	Subj
+247812	Objc
+247822	Cmpl
+Objc
+247826	Cmpl
+247832	Cmpl
+Subj
+247837	Subj
+247842	Objc
+247849	Cmpl
+Subj
+247864	Objc
+Objc
+247867	Subj
+247875	Subj
+247877	Cmpl
+247879	Subj
+247883	Objc
+247886	Subj
+247890	Subj
+247893	Objc
+247896	Objc
+247898	Cmpl
+247901	Objc
+247910	Objc
+247912	Objc
+247915	Objc
+247924	Objc
+247935	Pred
+247939	Subj
+247942	Subj
+247945	Cmpl
+247949	Objc
+247960	Objc
+247962	Cmpl
+Subj
+247969	Objc
+247987	Objc
+247992	Objc
+248001	Pred
+248006	Subj
+248008	Pred
+248017	Subj
+248020	Cmpl
+248025	Subj
+248036	Objc
+248045	Subj
+248052	Pred
+248070	Subj
+248099	Cmpl
+248104	Objc
+248109	Cmpl
+248119	Subj
+248122	Pred
+248135	Subj
+248147	Objc
+248150	Pred
+248157	Subj
+248168	Subj
+248173	Objc
+248192	Cmpl
+Subj
+Subj
+248197	Cmpl
+248200	Subj
+248213	Subj
+248224	Objc
+248226	Objc
+248231	Objc
+248233	Cmpl
+248235	Subj
+248237	Objc
+248239	Subj
+Objc
+248242	Subj
+248244	Subj
+248252	Objc
+Cmpl
+248259	Cmpl
+248263	Cmpl
+Subj
+248278	Objc
+248282	Objc
+Subj
+248303	Cmpl
 248305	Subj
-248307	Objc
-248316	Cmpl
+248308	Pred
+248317	Subj
+248323	Subj
+248335	Pred
+248340	Subj
+Objc
+248345	Subj
+Subj
+248353	Pred
+248359	Subj
 248362	Subj
-248369	Objc
-248398	Objc
-248405	Subj
-248409	Objc
-248424	Pred
-248427	Pred
-248439	Pred
-248448	Pred
-248451	Objc
+248366	Objc
+248381	Pred
+248383	Subj
+248396	Objc
+248401	Subj
+248410	Objc
+248423	Cmpl
+248428	Subj
+Objc
+248433	Cmpl
+248435	Objc
+248438	Cmpl
+Subj
+248443	Objc
+Subj
 248454	Objc
-248461	Cmpl
+248456	Cmpl
+Subj
+248464	Objc
 248466	Subj
-248513	Objc
-248536	Objc
-248544	Objc
-248549	Subj
-248554	Pred
-248561	Subj
-248573	Subj
-248582	Objc
-248585	Objc
-248588	Objc
-248613	Objc
-248619	Objc
-248629	Objc
-248656	Objc
+248474	Objc
+248490	Subj
+248495	Objc
+248500	Cmpl
+Subj
+248503	Pred
+248511	Subj
+248515	Subj
+Objc
+248519	Subj
+248521	Cmpl
+248526	Subj
+248530	Subj
+Pred
+248545	Objc
+Cmpl
+Objc
+248550	Subj
+Subj
+248560	Pred
+248568	Pred
+248576	Subj
+248583	Subj
+248595	Cmpl
+248600	Subj
+248609	Pred
+248612	Cmpl
+Subj
+248617	Pred
+248619	Subj
+248621	Subj
+248624	Subj
+248627	Pred
+248629	Subj
+248646	Cmpl
+248649	Subj
+248653	Pred
+248659	Objc
+248665	Cmpl
+Subj
+248669	Pred
+248671	Subj
 248673	Objc
-248699	Subj
-248702	Objc
-248705	Objc
-248707	Cmpl
-248730	Subj
-248737	Subj
-248739	Objc
-248742	Cmpl
-248746	Subj
-248751	Subj
-248759	Subj
-248766	Subj
-248770	Subj
-248774	Subj
-248783	Pred
+248684	Cmpl
+Subj
+248691	Objc
+248694	Pred
+248697	Objc
+248699	Cmpl
+248708	Cmpl
+Objc
+248721	Objc
+248723	Objc
+248728	Subj
+248731	Pred
+248735	Subj
+248738	Objc
+248744	Subj
+248748	Objc
+248763	Objc
+248781	Cmpl
+Objc
 248787	Subj
-248790	Subj
-248796	Objc
-248799	Objc
-248815	Pred
-248834	Subj
-248847	Pred
-248855	Subj
-248863	Subj
-248867	Subj
-248878	Pred
-248907	Objc
-248913	Subj
-248917	Subj
+248792	Cmpl
+248795	Cmpl
+Objc
+248801	Objc
+248810	Subj
+248828	Cmpl
+248830	Pred
+248836	Objc
+248849	Cmpl
+Subj
+248854	Objc
+Subj
+248858	Subj
+248865	Objc
+248867	Cmpl
+Subj
+248871	Subj
+Objc
+248883	Objc
+248886	Objc
+248891	Subj
+248894	Objc
+248911	Cmpl
+248914	Pred
+248916	Subj
+Subj
+248921	Objc
+248924	Cmpl
+248927	Cmpl
+Subj
+248931	Cmpl
+248937	Objc
+248940	Objc
+248942	Objc
+248945	Objc
+248947	Subj
 248950	Objc
-248960	Subj
+248961	Cmpl
+248968	Objc
+Cmpl
+Objc
 248977	Subj
-248982	Subj
-248985	Subj
-Pred
-248989	Subj
-248995	Cmpl
-249004	Objc
-249012	Subj
-249015	Pred
-249019	Subj
-249055	Objc
-249060	Objc
-249069	Subj
-249075	Subj
+248982	Objc
+Subj
+248990	Objc
+248994	Pred
+248999	Subj
+249002	Objc
+Objc
+249006	Cmpl
+249009	Subj
+249014	Objc
+249021	Objc
+249034	Pred
+249037	Pred
+249040	Pred
+249045	Subj
+249047	Pred
+249052	Cmpl
+249056	Pred
+249063	Subj
+249067	Objc
+249069	Cmpl
+Subj
+249073	Objc
 249080	Subj
-249089	Objc
-249129	Subj
-249143	Subj
-249145	Objc
-249176	Subj
-249179	Subj
-249184	Subj
-249216	Subj
-249232	Pred
-249258	Subj
-249282	Subj
-249321	Subj
-249330	Subj
-249338	Subj
-249349	Subj
-249355	Objc
-249378	Subj
-249388	Subj
-249399	Objc
-249401	Subj
-249409	Objc
-249417	Subj
-249437	Objc
-249453	Subj
-249456	Subj
+249085	Objc
+249088	Objc
+249092	Objc
+Cmpl
+249098	Objc
+249103	Cmpl
 Objc
-249461	Subj
+249115	Subj
+249118	Pred
+249120	Objc
+249126	Objc
+249134	Objc
+249139	Objc
+249142	Subj
+249167	Objc
+249173	Subj
+249180	Pred
+249183	Subj
+249191	Subj
+249203	Cmpl
+249206	Subj
+249224	Subj
+249226	Pred
+249233	Subj
+249236	Objc
+249239	Subj
+249245	Objc
+249249	Objc
+249256	Objc
+249259	Cmpl
+249262	Objc
+249264	Objc
+249269	Subj
+249272	Pred
+249278	Pred
+249289	Objc
+249295	Pred
+249298	Subj
+249303	Objc
+249308	Cmpl
+249318	Objc
+Subj
+249324	Objc
+249363	Subj
+249374	Objc
+249377	Cmpl
+249382	Pred
+249389	Cmpl
+249393	Pred
+249407	Subj
+249410	Objc
+249420	Subj
+249425	Subj
+249429	Subj
+249434	Subj
+249440	Objc
+249451	Cmpl
+249459	Objc
+249462	Subj
+249469	Objc
+249473	Objc
 249476	Subj
-249488	Objc
-249491	Objc
-249506	Objc
-249512	Subj
-249516	Objc
-249520	Subj
-249523	Subj
-249536	Subj
-249540	Subj
-249550	Subj
-249571	Subj
-249580	Subj
-249585	Subj
-249588	Objc
-249592	Cmpl
-249594	Objc
-Objc
-249599	Cmpl
-249610	Subj
-249634	Pred
-249655	Subj
-249661	Pred
-249671	Objc
-249678	Objc
-249689	Subj
-249696	Subj
-249704	Cmpl
-249711	Subj
-249717	Objc
-249724	Objc
-249739	Objc
-249751	Subj
-249755	Subj
-249792	Objc
+249481	Pred
+249491	Subj
+249501	Pred
 Subj
-249801	Objc
-249806	Objc
-249817	Subj
-249819	Objc
-249827	Cmpl
-249830	Subj
-249832	Subj
-249836	Objc
-249843	Objc
-249855	Subj
-249867	Objc
-249882	Subj
-249921	Subj
-249934	Subj
-249941	Subj
-249958	Pred
-250012	Subj
-250020	Objc
-250023	Subj
-250034	Subj
-250038	Subj
+249512	Objc
+249517	Subj
+249526	Subj
+249530	Objc
+249556	Subj
+249560	Objc
+249566	Subj
+249572	Objc
+249589	Pred
+Subj
+249597	Subj
+249603	Subj
+249609	Subj
+249611	Subj
+249615	Subj
+249622	Subj
+249629	Objc
+249636	Objc
+249639	Subj
+249645	Pred
+249663	Objc
+249672	Subj
+249679	Objc
+249686	Subj
+249699	Objc
+249711	Objc
+249720	Objc
+249728	Pred
+249736	Pred
+249743	Subj
+249745	Pred
+249757	Subj
+249773	Pred
+249775	Subj
+249779	Objc
+249796	Pred
+249806	Subj
+249831	Objc
+249833	Subj
+249838	Cmpl
+249840	Objc
+249853	Objc
+249874	Subj
+249879	Subj
+249901	Subj
+249909	Subj
+249914	Objc
+249924	Subj
+249932	Subj
+249934	Pred
+249959	Subj
+249981	Objc
+249986	Subj
+249997	Subj
+250000	Subj
+250021	Subj
+250029	Subj
+250036	Subj
 250044	Subj
-250066	Subj
-250074	Subj
-250078	Cmpl
-250105	Subj
-250127	Subj
-250136	Objc
-250154	Cmpl
-250174	Subj
-250177	Subj
-250183	Objc
-250195	Subj
-250217	Subj
-250219	Subj
-250246	Subj
-250283	Objc
-250295	Objc
+250053	Cmpl
+Subj
+250059	Cmpl
+250062	Objc
+250072	Objc
 Objc
-250301	Objc
-250307	Subj
-250321	Pred
+250083	Subj
+250091	Pred
+250094	Cmpl
+Subj
+250099	Objc
+250101	Subj
+250104	Pred
+250109	Cmpl
+250112	Subj
+250114	Objc
+250116	Cmpl
+250119	Objc
+Subj
+Objc
+250124	Cmpl
+Subj
+250128	Subj
+250130	Cmpl
+250133	Subj
+250137	Cmpl
+Subj
+250140	Objc
+250161	Cmpl
+250188	Cmpl
+250193	Objc
+250197	Objc
+250199	Cmpl
+250202	Subj
+250214	Subj
+250218	Pred
+250220	Subj
+250233	Subj
+250245	Cmpl
+Subj
+Cmpl
+250249	Objc
+250260	Cmpl
+250263	Subj
+250267	Objc
+250272	Cmpl
+Subj
+250277	Subj
+Cmpl
+250281	Objc
+Subj
+250285	Subj
+250287	Objc
+250289	Objc
+250294	Cmpl
+250296	Objc
+250300	Objc
+250307	Cmpl
+250309	Objc
+250323	Pred
+250326	Pred
 250331	Subj
-250340	Subj
-250349	Objc
-250354	Objc
-250359	Subj
-250370	Subj
-250411	Subj
-250432	Objc
-250436	Subj
-250442	Subj
-250444	Objc
-250457	Subj
-250469	Subj
-250476	Subj
-250491	Subj
-250493	Objc
-250497	Objc
-250499	Objc
-250504	Subj
-250514	Objc
-250523	Subj
-250528	Subj
+250334	Cmpl
+Subj
+250341	Objc
+250344	Subj
+250347	Cmpl
+250358	Objc
+250367	Objc
+250383	Objc
+250407	Pred
+Subj
+250414	Subj
 Pred
-250533	Subj
-250541	Subj
-250544	Subj
+250419	Subj
+250422	Subj
+250435	Subj
+Cmpl
+250439	Cmpl
+250443	Objc
+250451	Objc
+250458	Objc
+250475	Pred
+250477	Pred
+250479	Subj
+250482	Cmpl
+250495	Cmpl
+Subj
+250501	Objc
+250503	Pred
+250509	Objc
+250519	Subj
+250527	Subj
+250539	Subj
+250545	Subj
+250560	Objc
+250573	Objc
+250575	Subj
+Cmpl
+250592	Pred
+250599	Pred
+250630	Cmpl
+250636	Cmpl
+250638	Subj
+250661	Objc
+Subj
+250667	Subj
+250676	Subj
+250680	Pred
+250684	Cmpl
+Subj
+250688	Objc
+250693	Cmpl
+250695	Subj
+250698	Cmpl
+250711	Objc
+250720	Objc
+250739	Objc
+250741	Subj
+250744	Cmpl
+250747	Pred
+250756	Pred
+250760	Objc
+250766	Pred
+250769	Objc
+250775	Subj
+250788	Pred
+250795	Pred
+250803	Objc
+250819	Subj
+250822	Subj
+250825	Subj
+250827	Cmpl
+Subj
+250837	Objc
+250845	Objc
+250863	Pred
+250867	Subj
+250871	Cmpl
+Subj
+250877	Subj
+250884	Objc
+Subj
 Pred
-250568	Subj
-250575	Pred
-250585	Cmpl
-250588	Pred
-250591	Pred
-250612	Subj
-Objc
-250616	Subj
-250629	Subj
-250638	Objc
-250645	Subj
-250647	Pred
-250658	Subj
-250662	Subj
-250669	Subj
-250672	Subj
-250696	Subj
-250703	Subj
-250707	Objc
-250716	Subj
-250720	Subj
-Objc
-250724	Objc
-250728	Subj
-250733	Objc
-250743	Subj
-250746	Objc
-250755	Subj
-250758	Cmpl
-Objc
-Objc
-250763	Objc
-250771	Subj
-250778	Objc
-250787	Objc
-250800	Objc
-250807	Objc
-250816	Objc
-250819	Objc
-250843	Objc
-250854	Pred
-250859	Objc
-250870	Objc
-250879	Pred
-250886	Subj
+250890	Pred
+250895	Subj
 250898	Objc
-250913	Objc
-250923	Objc
-250933	Subj
-250967	Subj
-250979	Subj
-251002	Subj
-251026	Subj
-251028	Objc
-251032	Subj
-251052	Subj
-251054	Pred
-251058	Subj
-251064	Pred
-251084	Pred
-251116	Objc
-251124	Objc
+250903	Cmpl
+250905	Objc
+250909	Subj
+250913	Subj
+Cmpl
+250925	Cmpl
+250929	Subj
+250936	Objc
+250941	Cmpl
+250944	Subj
+250948	Objc
+250950	Cmpl
+250952	Objc
+250958	Cmpl
+250965	Objc
+250967	Cmpl
+250970	Subj
+250974	Objc
+250976	Cmpl
+250978	Objc
+250984	Cmpl
+250992	Objc
+250994	Subj
+250999	Cmpl
+251004	Objc
+251007	Cmpl
+251009	Objc
+Subj
+251012	Subj
+251016	Objc
+251018	Cmpl
+Subj
+251021	Objc
+251029	Cmpl
+251032	Pred
+251034	Objc
+251043	Objc
+251049	Subj
+251051	Objc
+251057	Objc
+251065	Objc
+251069	Objc
+251072	Cmpl
+251074	Objc
+251076	Subj
+251080	Subj
+251083	Objc
+251085	Subj
+251089	Subj
+251107	Pred
+251111	Objc
+Objc
+251115	Subj
+251119	Cmpl
+251123	Subj
+251125	Pred
+251127	Cmpl
+Subj
 251132	Subj
-251138	Objc
-251147	Objc
-Cmpl
-251184	Subj
-251207	Subj
-251213	Objc
-251225	Subj
-251228	Pred
+251137	Subj
+Pred
+251141	Subj
+Objc
+251146	Subj
+251157	Subj
+251167	Cmpl
+Subj
+251176	Subj
+251181	Subj
+Pred
+251185	Subj
+251198	Objc
+251202	Pred
+Subj
+251211	Subj
+251216	Objc
+251218	Subj
+251221	Subj
+251228	Subj
+251235	Objc
 251240	Objc
-251262	Pred
-251310	Objc
-251316	Pred
-251335	Subj
-251344	Cmpl
-251351	Cmpl
-251372	Objc
+251254	Objc
+251256	Subj
+251269	Cmpl
+251277	Objc
+251280	Cmpl
+251283	Objc
+251289	Subj
+251301	Cmpl
+251304	Objc
+251318	Cmpl
+251326	Objc
+251333	Objc
+251337	Subj
+251341	Subj
+251358	Subj
+251363	Objc
+251375	Objc
+251378	Cmpl
+251386	Pred
+251392	Objc
+Subj
+251406	Objc
+251408	Subj
+251418	Pred
+251444	Objc
+251447	Subj
+251450	Subj
+251452	Objc
+251471	Subj
+251474	Subj
+251484	Subj
+251518	Subj
+251535	Pred
+Subj
+251538	Pred
+251541	Objc
+251586	Subj
+251593	Objc
+251625	Subj
+251636	Subj
+251645	Pred
+251653	Subj
+251656	Objc
+251658	Subj
+251675	Pred
+251678	Objc
+251688	Objc
+251697	Subj
+251701	Objc
+251710	Pred
+251716	Subj
+251724	Pred
+251733	Subj
+251746	Subj
+251748	Pred
+251759	Subj
+251764	Pred
+251774	Objc
+251780	Subj
+251823	Pred
+251834	Subj
+251843	Pred
+Subj
+251846	Pred
+251852	Subj
+251858	Objc
+251869	Objc
+251884	Subj
+251897	Objc
 Cmpl
-251390	Subj
-251405	Objc
-251436	Subj
-251439	Objc
-251447	Objc
-251450	Cmpl
-251457	Subj
-251465	Objc
-251498	Objc
-251517	Pred
-251522	Pred
-251527	Subj
-251548	Subj
-251584	Subj
-251595	Subj
-251614	Subj
-251621	Subj
-251630	Objc
-251662	Objc
-251680	Objc
-251687	Objc
-251702	Subj
-251711	Subj
-251751	Subj
-Objc
-251786	Subj
-251814	Objc
-251836	Cmpl
-251843	Subj
-251855	Subj
-Pred
-251866	Subj
-251871	Subj
-251889	Objc
-251896	Pred
-251901	Objc
-251930	Subj
-251933	Subj
-251937	Subj
-251941	Subj
-251945	Pred
-251955	Subj
-251960	Pred
-251968	Subj
-251976	Pred
-251986	Subj
-252007	Objc
-252015	Objc
-252018	Subj
-252021	Subj
+251901	Subj
+251921	Subj
+251929	Subj
+251931	Pred
+251944	Subj
+251947	Subj
+251963	Cmpl
+251965	Subj
+251967	Subj
+251979	Subj
+251990	Subj
+251995	Cmpl
+252022	Subj
 252028	Subj
-252041	Subj
-252050	Subj
-252060	Subj
-252069	Subj
-252089	Subj
-252091	Objc
-252094	Subj
-252113	Subj
-252119	Subj
-252122	Subj
-252126	Subj
-252188	Cmpl
+252035	Subj
+252044	Subj
+252052	Subj
+252058	Pred
+252061	Subj
+252128	Subj
+252134	Objc
+252143	Subj
+252152	Pred
+252154	Subj
+252156	Subj
+252167	Subj
+252176	Objc
+252183	Cmpl
+252193	Subj
+252195	Pred
+252199	Objc
+252207	Subj
+252209	Subj
+252213	Pred
+252221	Subj
+252233	Pred
+252241	Subj
+252271	Subj
+252276	Objc
+252279	Subj
+252322	Objc
+252330	Objc
+252344	Subj
+252352	Subj
+252360	Subj
+252371	Subj
+252373	Subj
+252376	Objc
+252385	Objc
+252410	Objc
+252415	Subj
+252424	Subj
+252426	Objc
+252448	Objc
 Subj
-252206	Objc
-252222	Objc
-252234	Subj
-252247	Pred
-252256	Cmpl
-252268	Subj
-252277	Subj
-252281	Subj
-252286	Objc
-252302	Subj
-252307	Subj
-252316	Subj
-252320	Subj
-252322	Pred
-252346	Cmpl
-252350	Objc
-252406	Subj
-252408	Pred
-252413	Objc
-252416	Objc
-Cmpl
-252439	Objc
-252448	Subj
-252453	Pred
-252472	Subj
-252476	Pred
-252490	Subj
-252507	Pred
-252527	Subj
-252533	Objc
-252551	Pred
-252559	Objc
-252569	Subj
-252572	Subj
-252575	Objc
-252579	Subj
-252587	Pred
-252610	Subj
-252614	Objc
-252623	Pred
-252635	Subj
-252637	Subj
-252652	Subj
-252668	Subj
-252686	Subj
-252698	Subj
+252454	Objc
+252464	Pred
+252466	Subj
+252470	Subj
+252477	Objc
+252487	Pred
+252500	Subj
+252507	Subj
+252514	Subj
+252528	Objc
+252538	Subj
+252544	Objc
+252546	Cmpl
 Objc
-252708	Subj
-252712	Objc
-252726	Subj
-252731	Subj
-252748	Subj
-252760	Cmpl
-252767	Subj
-252792	Pred
-252796	Subj
-252801	Objc
-252805	Subj
-Pred
-252820	Objc
-252836	Subj
-252847	Subj
-252853	Objc
-252857	Objc
-252866	Subj
-252939	Subj
+252551	Objc
+252582	Subj
+252588	Pred
+252598	Pred
+252606	Cmpl
+Subj
+252645	Subj
+252651	Objc
+Objc
+252658	Subj
+252662	Subj
+252666	Pred
+252676	Objc
+252696	Objc
+Subj
+252704	Subj
+252713	Subj
+252715	Subj
+Cmpl
+252730	Objc
+252735	Objc
+252745	Subj
+252757	Subj
+252765	Objc
+Subj
+252787	Objc
+252791	Subj
+252799	Subj
+252821	Objc
+252830	Pred
+252833	Subj
+252850	Objc
+252868	Objc
+252886	Objc
+252901	Subj
+252937	Subj
+Subj
+252950	Subj
 252961	Objc
+Objc
 252974	Objc
-252978	Cmpl
-252981	Objc
-252987	Objc
-253003	Subj
-253009	Subj
-Pred
-253014	Subj
-253026	Pred
-253036	Objc
-253047	Subj
-253055	Pred
-253057	Objc
-253091	Subj
-253108	Subj
-253130	Pred
-253137	Objc
-253154	Subj
-253156	Objc
-253205	Subj
-253221	Objc
+Cmpl
+252978	Subj
+Objc
+252997	Objc
+252999	Objc
+253008	Objc
+253013	Objc
+253021	Subj
+253059	Subj
+253063	Pred
+253073	Objc
+253089	Pred
+253092	Objc
+253102	Subj
+253115	Objc
+253119	Subj
+253133	Subj
+253136	Objc
+253138	Objc
+253145	Subj
+253152	Objc
+253155	Objc
+Cmpl
+253172	Objc
+253179	Objc
+253212	Objc
+253217	Subj
+253222	Subj
+253226	Objc
+253231	Objc
 253233	Subj
-253239	Objc
-253242	Objc
-253248	Subj
-253251	Subj
-253257	Subj
-253261	Subj
-253267	Subj
-Objc
-253274	Cmpl
-253290	Objc
-253299	Objc
-253304	Subj
-253309	Cmpl
-253313	Subj
-253323	Subj
-253326	Objc
-253333	Subj
-253345	Objc
-253356	Subj
-253368	Objc
-253375	Subj
-253379	Subj
-253397	Subj
-253406	Pred
-253409	Subj
-253420	Objc
-253431	Subj
-253433	Pred
-253438	Objc
-253442	Objc
-253448	Objc
-253457	Objc
-253478	Subj
-Objc
-253482	Objc
-253491	Subj
-253495	Subj
-253500	Subj
-253503	Subj
-253523	Subj
-253529	Pred
-253716	Subj
-253720	Pred
-253723	Cmpl
-253731	Subj
-253737	Subj
-253742	Objc
-253751	Subj
-253778	Subj
-253787	Objc
-253805	Pred
-253814	Cmpl
-253826	Objc
-253832	Subj
-253843	Objc
+253265	Subj
+253274	Subj
+253289	Pred
+253293	Subj
+253310	Objc
+253322	Subj
+253348	Objc
 Subj
-253850	Subj
-253899	Subj
-253905	Objc
+253360	Subj
+253362	Subj
+253364	Objc
+253375	Cmpl
 Objc
-253912	Subj
-Pred
-253926	Objc
-253932	Objc
-253934	Cmpl
-253938	Subj
-253951	Subj
-253977	Pred
-253983	Objc
-254003	Subj
-254014	Subj
-Pred
-254022	Subj
-254029	Subj
-Pred
-254048	Subj
-254051	Pred
-254056	Subj
-254065	Subj
-254083	Subj
-254114	Pred
+253385	Objc
 Subj
-254121	Pred
-254123	Subj
-254125	Objc
-254144	Pred
-254150	Subj
-254161	Subj
-254176	Subj
-254184	Cmpl
-254191	Subj
-254210	Subj
-254223	Objc
-254234	Subj
-Subj
-254244	Cmpl
-254246	Objc
-254250	Subj
-254258	Pred
-254269	Pred
-254283	Subj
-254299	Cmpl
-254302	Objc
-254324	Subj
-254327	Objc
-254340	Subj
-254346	Subj
-254349	Objc
-254368	Objc
-254384	Objc
-254402	Objc
-254408	Objc
-254412	Subj
-254417	Cmpl
-254431	Objc
-254447	Pred
-254466	Objc
-254479	Subj
-254490	Objc
-254502	Pred
-254508	Subj
-254513	Objc
-254527	Objc
-254534	Subj
-254545	Cmpl
-254559	Subj
-254564	Subj
-254610	Subj
-254651	Objc
-254655	Subj
-254674	Subj
-254680	Subj
+253394	Subj
+Pred
+253410	Objc
+253415	Subj
+253430	Cmpl
 Objc
-254695	Subj
-254708	Subj
-254724	Objc
-254741	Objc
-254749	Objc
-254764	Subj
-254779	Objc
-254786	Subj
-254818	Subj
-254822	Objc
-254842	Subj
-254847	Subj
+253451	Subj
+253458	Subj
+253462	Objc
+253474	Subj
+253489	Subj
+253497	Subj
+253513	Cmpl
+253516	Objc
+253518	Subj
+253528	Objc
+253530	Subj
+253548	Subj
+253552	Objc
+Cmpl
+253567	Objc
+Objc
+253574	Objc
+253582	Subj
+253585	Subj
+253589	Objc
+253600	Subj
+253616	Subj
+253620	Objc
+253625	Subj
+253627	Pred
+253638	Objc
+Subj
+253663	Subj
+253672	Cmpl
+253675	Subj
+253678	Objc
+253684	Objc
+253686	Objc
+253691	Objc
+253701	Subj
+253708	Objc
+253729	Subj
+Objc
+253750	Cmpl
+Objc
+253766	Pred
+253768	Subj
+253773	Objc
+253779	Subj
+253784	Pred
+253797	Subj
+253825	Subj
+253827	Pred
+253834	Objc
+253853	Objc
+Subj
+253856	Subj
+253873	Subj
+253886	Subj
+253888	Pred
+253913	Objc
+Subj
+253916	Objc
+Subj
+253927	Subj
+253933	Subj
+253948	Pred
+253956	Pred
+253961	Subj
+253970	Pred
+253985	Subj
+253988	Objc
+254000	Pred
+254005	Pred
+254009	Objc
+254011	Pred
+254028	Objc
+254033	Subj
+254045	Objc
+254047	Cmpl
+254055	Subj
+254067	Pred
+254085	Cmpl
+254095	Cmpl
+254100	Objc
+254116	Subj
+254128	Pred
+254135	Objc
+254139	Objc
+254146	Subj
+Objc
+254153	Subj
+254157	Objc
+254163	Objc
+254170	Subj
+254172	Objc
+254179	Pred
+254193	Subj
+254212	Objc
+254224	Subj
+254229	Objc
+254238	Subj
+254282	Subj
+254284	Subj
+254286	Objc
+254288	Subj
+254296	Subj
+254340	Objc
+254355	Subj
+254382	Cmpl
+254393	Objc
+254401	Objc
+254405	Subj
+254430	Subj
+254443	Subj
+254451	Objc
+254461	Subj
+254473	Pred
+254476	Subj
+Subj
+254483	Pred
+254488	Subj
+Pred
+254495	Objc
+254499	Subj
+254510	Subj
+254515	Pred
+254522	Subj
+254526	Pred
+254529	Subj
+254531	Pred
+254539	Objc
+254558	Cmpl
+254561	Subj
+Objc
+254568	Pred
+254574	Subj
+254578	Pred
+254588	Pred
+Subj
+254592	Objc
+254606	Subj
+254611	Pred
+254622	Objc
+254631	Subj
+254638	Objc
+254653	Subj
+254661	Subj
+254664	Objc
+254670	Subj
+Objc
+254695	Pred
+254703	Pred
+254713	Objc
+254720	Cmpl
+254722	Cmpl
+254727	Subj
+254730	Objc
+254739	Subj
+254750	Subj
+254754	Objc
+254760	Subj
+254768	Subj
+254783	Subj
+254785	Cmpl
+254788	Objc
+254792	Subj
+254797	Subj
+254804	Pred
+254809	Objc
+254815	Subj
+254821	Objc
+254826	Pred
+254833	Objc
+254848	Subj
 254852	Subj
-254858	Subj
-254864	Subj
-254869	Subj
 Pred
-254880	Subj
-254887	Objc
-254903	Objc
-254915	Objc
-254924	Subj
+254866	Subj
+254883	Objc
+254895	Subj
+254908	Subj
+Pred
+254916	Subj
 254927	Objc
-254933	Subj
-254937	Subj
-254948	Subj
-254959	Subj
-254962	Objc
-254968	Subj
-254978	Subj
-254988	Pred
-254999	Objc
-255004	Cmpl
-255010	Subj
-255016	Pred
-255018	Subj
-255038	Subj
-255062	Objc
-255070	Objc
-255084	Subj
-255103	Objc
-255105	Objc
-255113	Subj
-255124	Cmpl
-255150	Objc
-255158	Objc
-255233	Subj
-255246	Objc
-255253	Subj
-255256	Subj
-255277	Subj
-255286	Objc
-255305	Subj
-255314	Cmpl
 Subj
+254935	Objc
+254938	Subj
+254953	Objc
+254965	Subj
+254967	Subj
+254971	Objc
+254976	Subj
+254998	Subj
+255017	Pred
+255026	Objc
+255036	Objc
+255042	Subj
+255050	Objc
+255059	Objc
+255070	Cmpl
+255073	Objc
+255134	Subj
+Subj
+255143	Objc
+255154	Subj
+255165	Subj
+255177	Objc
+255182	Objc
+255203	Pred
+255206	Subj
+255209	Subj
+255211	Cmpl
+255214	Subj
+255217	Objc
+255234	Objc
+255239	Subj
+255248	Objc
+255255	Objc
+255262	Objc
+255271	Objc
+Subj
+255278	Cmpl
+255291	Objc
+255305	Objc
 255324	Objc
-255349	Subj
-255355	Cmpl
+255327	Objc
 Subj
+255339	Objc
+Subj
+255346	Objc
+Subj
+255361	Objc
+Cmpl
 255366	Objc
-255385	Objc
-255392	Objc
+255370	Subj
+255372	Pred
+255387	Objc
+255389	Subj
 255394	Objc
-255399	Cmpl
-255406	Objc
-255414	Subj
-255423	Subj
-255426	Subj
-255438	Subj
-255440	Subj
-255442	Objc
-255453	Subj
-255456	Subj
-255459	Objc
-255465	Objc
-255476	Subj
-255480	Pred
-255491	Subj
-255519	Objc
+Subj
+255402	Objc
+255415	Pred
+255428	Objc
+255440	Objc
+255448	Objc
+255460	Subj
+255463	Pred
+Subj
+255467	Subj
+255474	Subj
+255477	Subj
+255479	Subj
+255481	Objc
+255507	Objc
+255511	Subj
+255514	Subj
+255516	Subj
+255518	Objc
+255525	Cmpl
 255536	Objc
-255548	Pred
-255552	Subj
-255554	Pred
-255580	Cmpl
-255592	Objc
-255601	Objc
-255621	Subj
+255540	Pred
+255557	Pred
+255564	Objc
+255567	Pred
+255576	Objc
+255594	Subj
+255632	Subj
+255635	Pred
+255645	Subj
+255649	Subj
+255670	Subj
+255677	Subj
+255680	Objc
+255689	Pred
+255691	Subj
+255693	Objc
+255701	Objc
+255720	Objc
+255729	Subj
+255745	Subj
+255781	Objc
+255791	Cmpl
 Objc
-255625	Subj
+255796	Subj
+255806	Subj
+255817	Subj
+255826	Objc
+255829	Subj
+255837	Objc
+255849	Subj
+255860	Pred
+255892	Objc
+255897	Subj
+255899	Objc
+255925	Objc
+255935	Objc
+255940	Subj
+255948	Objc
+255964	Subj
+255967	Subj
+255974	Objc
+255981	Objc
+255984	Objc
+255986	Cmpl
+Subj
+255993	Subj
+256003	Objc
+256009	Objc
+256014	Subj
+256018	Subj
+256021	Subj
+256029	Subj
+256044	Pred
+256052	Subj
+256082	Objc
+256084	Cmpl
+256102	Subj
+256108	Objc
+256119	Subj
+256125	Cmpl
 Objc
-255630	Subj
-255646	Subj
-255653	Objc
-255656	Subj
-255659	Objc
-255664	Subj
-255686	Objc
-255710	Subj
+256131	Objc
+256137	Cmpl
+256141	Objc
+256143	Cmpl
+256154	Pred
+Subj
+256159	Subj
+256164	Subj
+256169	Pred
+256177	Objc
+256184	Objc
+256187	Objc
+256191	Subj
+Subj
+256203	Objc
+256213	Cmpl
 Objc
-255734	Subj
-255739	Subj
-255747	Objc
-255759	Subj
-255771	Objc
-255777	Objc
-255793	Objc
-255797	Objc
-255801	Subj
-255811	Subj
-255834	Subj
-255840	Subj
+256220	Objc
+256225	Objc
+256234	Subj
+Objc
+256239	Subj
+Objc
+256246	Subj
+256250	Objc
+256259	Subj
+256262	Pred
+256267	Objc
+256279	Cmpl
+256291	Objc
+256306	Subj
+256317	Subj
+256323	Objc
+Subj
+256331	Subj
+256333	Subj
 Pred
-255865	Cmpl
-255875	Subj
-255879	Cmpl
-255886	Objc
-255896	Subj
-255927	Subj
-255937	Subj
-255940	Pred
-255946	Subj
-255957	Objc
-255972	Subj
-255978	Cmpl
-255986	Objc
-255991	Subj
-255996	Subj
-Objc
-256002	Subj
-256016	Subj
-256024	Objc
-256028	Subj
-256043	Subj
-256068	Cmpl
-256100	Subj
-256112	Objc
-256120	Objc
-256126	Subj
-256132	Pred
-256145	Objc
-256150	Objc
-256155	Objc
-256166	Subj
-256181	Objc
-256192	Objc
-256202	Objc
-256244	Subj
-256266	Subj
-256274	Subj
-256308	Objc
-256317	Objc
-256327	Objc
+256338	Objc
 256351	Subj
-256360	Subj
-256376	Subj
-Pred
-256380	Subj
-Objc
-256384	Subj
-256391	Subj
-256398	Objc
-256409	Cmpl
-256411	Objc
-256426	Objc
-256440	Objc
-256445	Objc
-256449	Objc
-256456	Subj
+Cmpl
+256358	Pred
+256363	Subj
+256370	Subj
+256392	Subj
+256417	Objc
+256419	Subj
+256436	Subj
+256443	Objc
+256445	Subj
+256448	Cmpl
+256452	Subj
 256470	Subj
-256481	Objc
-256488	Subj
-256507	Objc
-256514	Pred
-256532	Subj
-256551	Subj
-256554	Subj
-256564	Objc
-256579	Subj
-256604	Subj
-256616	Objc
-256627	Subj
-256630	Subj
-256638	Objc
-256645	Cmpl
+256473	Objc
+256476	Subj
+256478	Objc
+256484	Objc
+256489	Objc
+256493	Objc
+256506	Subj
+256509	Pred
+256513	Subj
+256529	Subj
+256531	Objc
+Subj
+256539	Objc
+Cmpl
+256546	Subj
+256554	Pred
+256566	Subj
+256590	Subj
+256595	Objc
+256599	Objc
+256605	Subj
+256609	Subj
+256618	Objc
+Cmpl
+Subj
+256631	Cmpl
+256635	Objc
+256641	Pred
+256647	Objc
+256651	Objc
+256655	Objc
 256657	Subj
-256660	Subj
-Pred
-256668	Subj
-256676	Subj
-256679	Objc
-256690	Subj
-256697	Objc
-256744	Objc
-256764	Objc
-256795	Subj
+Objc
+256660	Objc
+256669	Objc
+Subj
+256677	Objc
+256682	Subj
+256692	Pred
+256700	Objc
+256705	Subj
+256709	Cmpl
+256720	Subj
+256728	Subj
+256734	Objc
+256739	Subj
+256742	Subj
+256745	Subj
+256764	Pred
+256767	Subj
+256773	Cmpl
+Subj
+256778	Objc
+256787	Subj
+256795	Pred
+256801	Objc
+256816	Objc
+256825	Objc
+256830	Objc
 256839	Objc
-256858	Subj
-256880	Subj
-256918	Subj
-256948	Pred
-256956	Subj
-256980	Objc
-257000	Cmpl
-257019	Objc
-257027	Subj
-257036	Subj
-257049	Subj
-257070	Subj
-257078	Subj
-257121	Subj
-257144	Subj
-257162	Subj
-257166	Subj
-257168	Pred
-257181	Subj
-257190	Subj
-257198	Subj
+256842	Subj
+Objc
+256848	Objc
 Subj
-257211	Pred
-257226	Subj
-257238	Subj
-257246	Pred
-257254	Objc
-257260	Subj
-257267	Subj
-257275	Subj
-257279	Subj
-257285	Subj
+256864	Cmpl
+256870	Subj
+256872	Objc
+256896	Subj
+256903	Cmpl
+256908	Objc
+Cmpl
+256911	Subj
+256922	Objc
+Subj
+256937	Pred
+256944	Cmpl
+256957	Subj
+256959	Objc
+256963	Cmpl
+256967	Pred
+256969	Subj
+256989	Cmpl
+256993	Cmpl
+256995	Subj
+257004	Subj
+257006	Objc
+257014	Subj
+257028	Objc
+Cmpl
+257047	Subj
+257052	Objc
+257054	Objc
+257075	Cmpl
+257109	Objc
+257112	Objc
+257115	Objc
+257119	Subj
+257127	Pred
+257141	Cmpl
+257145	Objc
+257151	Objc
+257153	Objc
+257157	Subj
+257174	Objc
+257176	Subj
+257195	Subj
+257197	Objc
+257206	Objc
+Cmpl
+257212	Subj
+257215	Cmpl
+Objc
+257219	Subj
+257227	Subj
+257231	Subj
+257235	Pred
+Subj
+257240	Pred
+257247	Objc
+257251	Cmpl
+257253	Subj
+257255	Pred
+Subj
+257264	Subj
+257270	Objc
+257282	Subj
+257284	Objc
+257293	Subj
 257298	Subj
-257318	Subj
-257331	Subj
-257334	Objc
-257338	Subj
-257388	Objc
-257399	Subj
-257410	Subj
-257423	Objc
-257436	Objc
-257483	Objc
-257505	Objc
-257548	Subj
-257561	Subj
-257576	Objc
-257580	Subj
-257586	Subj
-257589	Objc
-257603	Pred
-257634	Pred
-257669	Cmpl
-257671	Cmpl
-257696	Subj
-257702	Subj
-257717	Subj
-257731	Pred
-257744	Subj
-257773	Objc
-257784	Objc
-257791	Objc
-257799	Objc
-257816	Subj
-257843	Objc
-257872	Subj
-257878	Subj
-257884	Subj
-257928	Subj
-257938	Objc
-257981	Subj
-257991	Objc
-258004	Subj
-258008	Subj
-258037	Objc
-258047	Subj
-258058	Pred
-258062	Objc
-258070	Subj
-258077	Subj
+257301	Objc
+257308	Subj
+257328	Subj
+257333	Subj
+257335	Objc
+257348	Objc
+257357	Objc
+257365	Pred
+257380	Subj
+257393	Subj
+257398	Subj
+257419	Objc
+257439	Subj
+257443	Objc
+257457	Pred
+257460	Objc
+257469	Objc
+257476	Objc
+257486	Cmpl
 Objc
-258083	Objc
-258086	Cmpl
-258110	Objc
-258114	Subj
-258125	Objc
-258147	Subj
-258152	Subj
-258154	Objc
-258167	Objc
-258188	Subj
-258211	Pred
+257493	Objc
+257496	Subj
+257515	Subj
+257528	Subj
+257549	Objc
+257552	Subj
+257557	Objc
+257563	Subj
+257566	Objc
+257590	Objc
+257593	Subj
+257606	Cmpl
+Objc
+257612	Subj
+257627	Subj
+257630	Objc
+257633	Objc
+257640	Objc
+257648	Subj
+257657	Subj
+257667	Subj
+257673	Pred
+257683	Objc
+257692	Pred
+257694	Subj
+257696	Objc
+257698	Subj
+257707	Subj
+257718	Pred
+257721	Objc
+257732	Objc
+257736	Objc
+257765	Subj
+257774	Objc
+257788	Subj
+257797	Subj
+257800	Objc
+257814	Subj
+257822	Objc
+257852	Objc
+257860	Objc
+257865	Subj
+257883	Subj
+257887	Cmpl
+Objc
+257891	Cmpl
+Objc
+257898	Cmpl
+257901	Objc
+257905	Objc
+257908	Subj
+257914	Subj
+257923	Pred
+257927	Objc
+257941	Pred
+257952	Subj
+257960	Pred
+257979	Objc
+257986	Subj
+257995	Pred
+258006	Subj
+258010	Subj
+258015	Subj
+258025	Subj
+258031	Objc
+258033	Subj
+258039	Objc
+258050	Objc
+258059	Subj
+258087	Subj
+258089	Pred
+258104	Subj
+258106	Pred
+258115	Subj
+258142	Subj
+258145	Cmpl
+258151	Cmpl
+258158	Subj
+258162	Subj
+258173	Objc
+258175	Subj
+258184	Subj
+258186	Objc
+258189	Subj
+258197	Subj
+258205	Objc
+258208	Pred
+258210	Subj
+258217	Subj
+258222	Objc
 Pred
-258220	Subj
 258227	Objc
+258237	Subj
+258243	Objc
 258248	Subj
-258293	Subj
-258297	Subj
-258300	Subj
-258305	Subj
-258309	Objc
-258321	Objc
-258329	Subj
+258257	Subj
+258264	Subj
+258267	Cmpl
+258272	Objc
+258276	Subj
+258280	Objc
+258292	Subj
+258295	Objc
+258310	Cmpl
 Objc
-258335	Objc
-258341	Subj
-258348	Objc
-258356	Subj
-258360	Objc
-258374	Subj
-Objc
+258330	Subj
+258334	Subj
+Subj
+258337	Subj
+258342	Subj
+258363	Objc
+258372	Subj
+258376	Objc
+258382	Objc
+258384	Subj
 258395	Subj
-258398	Subj
-258402	Objc
-258437	Cmpl
-258444	Subj
-258446	Subj
-258463	Objc
-258467	Subj
-258491	Objc
-258498	Subj
-258518	Objc
-258532	Subj
-258609	Subj
-258614	Subj
-258624	Subj
-258632	Objc
-258656	Subj
-258662	Subj
-258713	Subj
-258716	Subj
-258720	Subj
-258729	Subj
-258750	Subj
-258766	Subj
-258772	Objc
-258812	Objc
-258833	Pred
-258837	Subj
-258840	Subj
-258857	Subj
-258867	Subj
-258878	Subj
-258888	Objc
-258910	Objc
-Cmpl
-258927	Subj
-258930	Pred
-258941	Objc
-258946	Subj
-258962	Subj
-258979	Objc
+258404	Objc
+258413	Subj
+258417	Subj
+258443	Objc
+258459	Pred
+258478	Subj
+258485	Objc
+258487	Subj
+258501	Subj
+258503	Cmpl
+258507	Objc
+258511	Pred
+258514	Subj
+258516	Subj
+258519	Objc
+Subj
+258533	Cmpl
+258535	Objc
+Subj
+258550	Objc
+258553	Objc
+258558	Subj
+258566	Subj
+258571	Objc
+258575	Objc
+258595	Subj
+258599	Pred
+258603	Pred
+258612	Subj
+258616	Subj
+258620	Subj
+258622	Subj
+258638	Pred
+258646	Objc
+Pred
+258655	Subj
+258657	Pred
+258662	Cmpl
+Objc
+258668	Subj
+258681	Objc
+258684	Cmpl
+258696	Objc
+258704	Objc
+258708	Objc
+258718	Subj
+258723	Pred
+258728	Subj
+258731	Objc
+258746	Subj
+258749	Cmpl
+Objc
+258752	Subj
+258763	Subj
+258776	Objc
+258786	Objc
+258790	Cmpl
+258816	Subj
+258824	Objc
+258828	Pred
+258848	Objc
+258852	Subj
+258854	Pred
+258863	Subj
+258870	Subj
+258879	Objc
+258892	Objc
+258899	Subj
+258913	Subj
+258915	Pred
+258921	Subj
+258925	Subj
+258929	Objc
+258932	Cmpl
+258935	Subj
+258942	Objc
+258952	Objc
+258956	Subj
+258968	Objc
+258980	Cmpl
 258984	Subj
-258996	Subj
-258999	Subj
-259008	Subj
-259022	Subj
-259027	Objc
-259043	Subj
-259052	Subj
-Objc
-259065	Subj
-259068	Subj
-259072	Objc
-259082	Objc
-259086	Subj
-Cmpl
-259099	Subj
-259108	Objc
-259112	Subj
+258986	Objc
+258991	Pred
+Subj
+258995	Objc
+259004	Cmpl
+259012	Objc
+259018	Cmpl
+259063	Subj
+259067	Objc
+259070	Subj
+259074	Objc
+259080	Objc
+259084	Subj
+259101	Objc
 259125	Subj
-259128	Subj
-259131	Pred
-259145	Pred
-259172	Subj
-259191	Subj
-259205	Objc
-Cmpl
-259214	Objc
-259230	Subj
-259232	Subj
-259236	Subj
-259240	Subj
-259248	Objc
-259253	Objc
-259260	Objc
-259264	Subj
+259150	Pred
+259160	Subj
+259165	Cmpl
+Subj
+259171	Objc
+259177	Cmpl
+259183	Objc
+Subj
+259193	Subj
+259200	Pred
+259204	Subj
+259211	Subj
+259214	Pred
+Subj
+259217	Pred
+259223	Objc
+259235	Subj
+259243	Pred
+259247	Subj
+259251	Subj
+259256	Subj
+259258	Pred
+259262	Objc
 259277	Subj
-259281	Subj
-259287	Objc
-259294	Objc
+259280	Objc
+259291	Subj
+259302	Objc
+259304	Pred
+259308	Subj
+259314	Objc
 Subj
-259301	Pred
-259309	Objc
-259312	Subj
-259319	Subj
-259321	Objc
-259323	Pred
-Subj
-259332	Subj
+259320	Objc
+259334	Subj
 259337	Objc
-259342	Objc
-259349	Pred
-Pred
-259360	Subj
-259392	Objc
-259401	Subj
-259414	Subj
-259432	Subj
-259435	Objc
-259444	Subj
-259450	Subj
-259452	Pred
-259459	Subj
-259467	Subj
-259478	Subj
-259495	Objc
-259499	Subj
-259520	Subj
-259540	Objc
-259543	Subj
-259546	Pred
-259552	Subj
-259554	Subj
-259563	Subj
+259344	Objc
+259350	Cmpl
+Objc
+259353	Objc
+259364	Objc
+259366	Pred
+259378	Subj
+259399	Subj
+259411	Pred
+259419	Pred
+259423	Objc
+259436	Objc
+259439	Cmpl
+259444	Objc
+259466	Subj
+259477	Cmpl
+259479	Subj
+259482	Objc
+259484	Pred
+259487	Pred
+259492	Cmpl
+259516	Objc
+259525	Subj
+259527	Pred
+Subj
+259536	Pred
+259538	Subj
+259550	Cmpl
+259564	Objc
+259567	Objc
+Cmpl
+259570	Objc
 259581	Subj
-259585	Objc
-259587	Pred
-259591	Subj
-259609	Subj
-259618	Subj
-259624	Objc
-259632	Subj
-259642	Objc
-Objc
-259704	Pred
-259718	Subj
-259723	Objc
-259728	Cmpl
+259588	Subj
+259602	Pred
+259608	Subj
+259613	Subj
+259616	Subj
+259622	Subj
+259626	Subj
+259638	Pred
+259642	Subj
+259661	Subj
+259670	Subj
+259680	Objc
+259686	Subj
+259694	Objc
+Subj
+259699	Subj
+259702	Subj
+259711	Subj
+259725	Subj
+259728	Pred
+259731	Subj
 259734	Objc
-Objc
-259741	Objc
-259747	Objc
-259752	Subj
-259774	Subj
-259829	Objc
-259860	Subj
-259915	Objc
-259920	Objc
-259942	Subj
-259947	Subj
-259955	Subj
-259977	Subj
-260037	Subj
-260047	Subj
-260052	Cmpl
-260056	Objc
-260062	Objc
-260082	Subj
-260084	Pred
-260093	Subj
-260107	Objc
-260118	Objc
-260124	Objc
-260132	Cmpl
-260136	Objc
-260149	Subj
-260155	Objc
-260189	Subj
-260193	Subj
-260198	Objc
-260210	Subj
-260218	Subj
-260234	Objc
-260250	Subj
-260256	Objc
-260264	Subj
-260271	Subj
-260281	Objc
+259748	Objc
+259768	Pred
+259771	Subj
+259782	Subj
+259786	Subj
+259790	Objc
+259799	Objc
+259802	Subj
+259804	Objc
+259807	Subj
+259815	Subj
+259817	Objc
+259819	Pred
 Subj
-260288	Subj
-260296	Objc
-260307	Subj
-260310	Objc
-260314	Objc
-260337	Subj
-260340	Subj
-260348	Subj
-260353	Subj
-260359	Objc
-260378	Subj
-260412	Subj
-260415	Subj
-260419	Subj
+259827	Subj
+259837	Objc
+259860	Objc
+259870	Objc
+259876	Objc
+259888	Subj
+259910	Subj
+259917	Objc
+259935	Subj
+259939	Objc
+Subj
+259950	Subj
+259955	Objc
+259958	Subj
+259963	Pred
+259972	Subj
+259978	Subj
+259981	Pred
+259990	Cmpl
+Subj
+259995	Objc
+260013	Objc
+260015	Subj
+260046	Subj
+260060	Subj
+260066	Subj
+260085	Subj
+260087	Pred
+Subj
+260105	Subj
+260112	Subj
+260122	Objc
+260126	Cmpl
+260134	Subj
+Objc
+260146	Pred
+Subj
+260158	Objc
+260161	Objc
+Pred
+260165	Objc
+260168	Objc
+260170	Cmpl
+260176	Objc
+260181	Subj
+260183	Pred
+260186	Subj
+260210	Objc
+260212	Subj
+260221	Objc
+Subj
+260230	Subj
+260235	Objc
+260245	Subj
+260249	Pred
+260253	Subj
+Pred
+260257	Objc
+260271	Objc
+260278	Objc
+Subj
+260292	Subj
+Pred
+260311	Subj
+260320	Subj
+260326	Cmpl
+260328	Cmpl
+260334	Subj
+260336	Pred
+260350	Cmpl
+Subj
+260357	Objc
+260368	Subj
+260377	Subj
+260380	Objc
+260386	Subj
+260399	Objc
+260411	Subj
 260424	Subj
-260429	Subj
-260435	Subj
-260440	Objc
-260448	Subj
-260451	Subj
-260457	Subj
-260464	Objc
+260436	Subj
+260441	Objc
+260446	Subj
+260448	Objc
+260453	Subj
+260458	Subj
+Objc
+260468	Subj
 260473	Subj
-260490	Subj
-260496	Subj
-260514	Subj
-260531	Objc
-260544	Objc
-260563	Objc
-260615	Subj
-260650	Cmpl
-260679	Objc
-260687	Objc
-260694	Objc
-260715	Subj
-Cmpl
-260719	Subj
-260728	Objc
-260742	Objc
-260754	Subj
-260780	Subj
-260804	Objc
-260843	Objc
-260887	Objc
-260904	Subj
-260915	Objc
+260485	Subj
+260501	Pred
+260507	Subj
+260513	Objc
+260523	Subj
+260531	Subj
+260543	Objc
+260550	Subj
+260552	Cmpl
+260555	Subj
+260570	Subj
+260574	Subj
+260624	Subj
+260626	Cmpl
+260654	Subj
+260660	Objc
+Subj
+260665	Subj
+260668	Subj
+260677	Subj
+260686	Subj
+260695	Pred
+260708	Subj
+260711	Cmpl
+260714	Objc
+260721	Subj
+260743	Cmpl
+260746	Subj
+260768	Pred
+Subj
+260771	Objc
+260793	Subj
+260796	Subj
+260817	Objc
+260826	Subj
+260830	Subj
+260840	Objc
+260846	Cmpl
+Subj
+260851	Cmpl
+260862	Subj
+Pred
+260867	Objc
+260872	Objc
+260876	Objc
+260881	Cmpl
+260886	Subj
+260889	Objc
+260919	Cmpl
 260921	Objc
-260926	Subj
-260931	Subj
+260927	Cmpl
+260930	Subj
+260939	Subj
+260959	Subj
+260962	Pred
+260979	Subj
+260994	Pred
+261002	Objc
+261006	Subj
+261021	Subj
+261035	Pred
+261048	Subj
+261051	Cmpl
+261060	Objc
+261083	Objc
+261092	Subj
+261095	Pred
+261108	Subj
+261114	Subj
+261121	Pred
+261128	Subj
+261133	Pred
+261140	Subj
+261151	Subj
+261153	Subj
+261160	Cmpl
+261170	Objc
+261199	Objc
+261203	Objc
+261224	Pred
+261231	Objc
+261236	Pred
+261241	Objc
+261249	Cmpl
+261255	Objc
+261263	Objc
 Cmpl
-260936	Subj
-260954	Subj
-260961	Subj
-260980	Pred
-260982	Subj
-260998	Subj
-261003	Subj
-261017	Subj
-261038	Subj
-261048	Objc
-261105	Subj
-261108	Objc
-261115	Objc
-261207	Subj
-261221	Cmpl
-261256	Objc
-261265	Objc
-261269	Objc
-261277	Subj
-261316	Subj
-261318	Pred
-261323	Subj
-261351	Subj
-261375	Objc
-261390	Subj
-261405	Objc
-261437	Subj
-261447	Cmpl
-261470	Subj
-261497	Subj
-261512	Subj
+261267	Subj
+261278	Subj
+261289	Pred
+261301	Objc
+Subj
+261312	Subj
+261325	Subj
+261333	Objc
+261338	Subj
+261343	Subj
+261352	Objc
+261360	Objc
+261368	Subj
+261380	Subj
+261389	Objc
+261399	Cmpl
+261401	Objc
+261408	Objc
+261416	Pred
+261427	Objc
+261453	Subj
+261456	Cmpl
+261466	Subj
+261473	Subj
+261486	Subj
+261489	Objc
+261496	Objc
+261535	Pred
+261539	Subj
+261545	Subj
 Objc
-261518	Objc
-261537	Subj
-261554	Objc
-261575	Subj
-Cmpl
-261581	Subj
-Cmpl
-261594	Objc
+261554	Subj
+261558	Pred
+261561	Objc
+261575	Objc
+261582	Subj
+261590	Subj
+261597	Subj
+261600	Pred
 261602	Subj
-261612	Subj
-261626	Subj
-261633	Subj
-261639	Objc
-261645	Subj
-261678	Pred
-261683	Objc
-261689	Pred
-261695	Subj
-261700	Objc
-261712	Subj
-261720	Subj
-261730	Subj
-261755	Objc
-261764	Objc
-261768	Pred
-261772	Subj
-261778	Subj
-261799	Subj
-261823	Objc
-261834	Objc
-261837	Objc
-261841	Objc
-261885	Pred
+261605	Pred
+261610	Subj
+261619	Objc
+261624	Cmpl
+261630	Cmpl
+261632	Subj
+261635	Objc
+261650	Objc
+261661	Subj
+261663	Subj
+261668	Pred
+261673	Pred
+261675	Subj
+261679	Subj
+261682	Objc
+261687	Objc
+261731	Objc
+261736	Subj
+261750	Subj
+261754	Objc
+261767	Subj
+261772	Pred
+261777	Pred
+261781	Objc
+Subj
+261790	Objc
+261793	Cmpl
+261798	Pred
+261800	Subj
+261820	Objc
+261827	Pred
+261830	Pred
+261851	Pred
+261869	Subj
+Objc
+261876	Subj
+261885	Cmpl
+Objc
 261898	Objc
-261906	Objc
-261909	Objc
-261915	Objc
-261924	Objc
-261932	Objc
-261952	Subj
-Objc
-261957	Subj
-261959	Cmpl
-261962	Objc
-261970	Objc
-261979	Subj
-261985	Objc
-261994	Subj
-262006	Cmpl
-262022	Objc
-262028	Subj
-262038	Subj
-262064	Pred
-262069	Objc
-262085	Subj
-262100	Subj
-262111	Pred
-262115	Subj
-262123	Objc
-262141	Objc
-262152	Subj
-262169	Subj
-262173	Pred
-262188	Objc
-262198	Subj
-262202	Subj
-262204	Objc
-262220	Subj
-262227	Cmpl
-262254	Objc
-262257	Objc
-262265	Pred
-262268	Subj
-262281	Subj
-262299	Subj
-262305	Objc
-262316	Objc
-262327	Subj
-262332	Subj
+261905	Objc
+261908	Cmpl
+261910	Subj
+261933	Pred
+261937	Objc
+261955	Objc
+261958	Objc
+261978	Subj
+Pred
+Subj
+261982	Pred
+261992	Subj
+261999	Objc
+262008	Objc
+262016	Subj
+262023	Objc
+262081	Subj
+262084	Pred
+262089	Pred
+262092	Objc
+262110	Objc
+262113	Subj
+262136	Subj
+262149	Subj
+262159	Subj
+262205	Subj
+262215	Subj
+262218	Pred
+262233	Subj
+262245	Objc
+262249	Subj
+262260	Objc
+262266	Objc
+262288	Objc
+262299	Objc
+262307	Objc
+262317	Objc
 262334	Objc
-262358	Objc
-262364	Cmpl
-262366	Cmpl
-262372	Objc
-262379	Objc
-262392	Objc
+262342	Objc
+262345	Cmpl
+Subj
+262367	Objc
+262369	Objc
+262372	Cmpl
+262376	Cmpl
+262396	Subj
 262398	Objc
-262406	Subj
+262408	Subj
+262419	Cmpl
+262425	Subj
+262435	Objc
+262438	Cmpl
+262448	Subj
 Objc
-262414	Subj
-262445	Subj
-262452	Subj
-262466	Objc
-262475	Objc
-262479	Subj
-262481	Objc
-262487	Objc
-262490	Objc
-262496	Objc
-262507	Objc
+262453	Pred
 Subj
-262524	Subj
+262459	Subj
+262469	Pred
 Objc
-262529	Subj
-262540	Pred
-262545	Subj
-262562	Subj
-262568	Subj
-262572	Objc
-262586	Subj
+262493	Objc
+262496	Cmpl
+Subj
+262519	Objc
+262539	Objc
+262546	Objc
+262548	Subj
+262552	Objc
+262569	Subj
+262574	Objc
+262578	Subj
 262596	Subj
-262617	Subj
-262620	Objc
-262627	Subj
-262639	Subj
-262650	Objc
-262657	Objc
-262674	Objc
-262680	Objc
-262695	Objc
-262702	Objc
-262717	Subj
-262746	Objc
-262751	Subj
-262801	Subj
+262599	Pred
+262608	Subj
+Objc
+262611	Objc
+262622	Objc
+Subj
+262627	Cmpl
+262633	Objc
+262647	Pred
+262651	Subj
+Subj
+262655	Objc
+262659	Objc
+262673	Cmpl
+262691	Subj
+262697	Objc
+Subj
+262705	Objc
+262724	Objc
+Objc
+262727	Subj
+262733	Objc
+Pred
+262744	Cmpl
+Subj
+262765	Subj
+262790	Objc
+262792	Subj
+262801	Objc
+262807	Subj
+262809	Cmpl
 262812	Subj
-262823	Objc
-262833	Subj
-262858	Subj
-Cmpl
-262864	Subj
-262868	Objc
-262874	Cmpl
-262894	Objc
-262928	Cmpl
-262935	Subj
-262938	Objc
-262943	Pred
-262969	Subj
-262987	Cmpl
-263000	Subj
-263008	Objc
-263023	Subj
-263028	Subj
-263031	Subj
-263035	Cmpl
-263038	Subj
-263047	Subj
-263057	Subj
-263065	Subj
-263077	Subj
-263080	Pred
-263091	Objc
-263117	Subj
-263127	Subj
-263174	Subj
-263205	Pred
-263209	Subj
-263220	Pred
-263224	Subj
-263226	Pred
-263231	Subj
-263237	Objc
-263245	Objc
-263257	Pred
-263261	Subj
-263264	Subj
-263272	Subj
-263275	Subj
-263287	Subj
-263289	Subj
-263303	Subj
+262822	Cmpl
+Subj
+262830	Subj
+262834	Subj
+262852	Subj
+262854	Cmpl
+262856	Subj
+262871	Subj
+262880	Objc
+262889	Subj
+262892	Objc
+262915	Cmpl
+262917	Pred
+262920	Subj
+262929	Objc
+262932	Objc
+262935	Objc
+262951	Cmpl
+Subj
+262956	Objc
+262964	Subj
 Pred
-263308	Objc
-263315	Pred
+262977	Subj
+262983	Objc
+262992	Subj
+263003	Subj
+263017	Subj
+263041	Objc
+263051	Objc
+263059	Subj
+263062	Objc
+263076	Subj
+263097	Subj
+263112	Subj
+263120	Subj
+263129	Objc
+263180	Subj
+263188	Subj
+263191	Pred
+263196	Subj
+263198	Pred
+263206	Subj
+263225	Objc
+263249	Subj
+263252	Pred
+263260	Pred
+263268	Subj
+263271	Subj
+263273	Subj
+263277	Subj
+263279	Objc
+263284	Objc
+263304	Subj
+263309	Objc
+263311	Subj
+263313	Objc
+263320	Subj
+263331	Objc
+263334	Objc
+Objc
 263339	Objc
-263348	Subj
-263357	Subj
-263360	Subj
-263369	Subj
+263341	Subj
+263343	Pred
+263349	Subj
+263359	Pred
+263389	Objc
+263405	Objc
+263407	Subj
+263410	Pred
+263417	Objc
+263431	Subj
+263452	Subj
+263461	Subj
+263474	Objc
 Objc
-263386	Objc
-263393	Subj
-263398	Objc
-263415	Objc
+263479	Cmpl
 Objc
-263420	Subj
-263426	Subj
-263429	Subj
-263432	Subj
-263443	Subj
-263450	Subj
-263458	Objc
-263464	Subj
-263467	Objc
-263472	Objc
-263492	Subj
-263502	Objc
-263510	Subj
+263483	Objc
+263490	Objc
+263496	Objc
+263500	Objc
+263506	Cmpl
 263514	Subj
-263520	Subj
-263526	Pred
+263517	Objc
+263522	Objc
+263532	Subj
+263536	Subj
+263539	Objc
+263562	Objc
+263569	Objc
+263585	Objc
+263605	Subj
+263618	Cmpl
+263622	Objc
+263628	Objc
+Cmpl
+263652	Objc
+263668	Cmpl
+263680	Objc
+263686	Objc
+263690	Objc
+263692	Subj
+263701	Cmpl
+263704	Objc
+263720	Subj
+263728	Objc
+263746	Subj
+263793	Subj
+263810	Objc
+263819	Objc
+263822	Cmpl
+263848	Objc
 Subj
-263537	Objc
-263546	Subj
-263552	Objc
-263556	Subj
-263566	Objc
-263582	Objc
-263588	Subj
-263594	Objc
-263617	Subj
-263623	Objc
-263652	Subj
-263660	Subj
-263663	Objc
-263694	Objc
-263699	Objc
-263706	Subj
-263719	Cmpl
-263738	Objc
-263741	Subj
-263757	Subj
-263800	Subj
-263819	Subj
-263823	Subj
-263832	Objc
-263836	Subj
-263839	Cmpl
-263849	Subj
-263861	Objc
-263891	Subj
-263929	Objc
-263935	Cmpl
-263945	Subj
-263948	Pred
-263952	Subj
-Pred
-263957	Subj
-263975	Pred
-263980	Subj
-263988	Subj
-264001	Objc
-264003	Objc
-264014	Subj
-264031	Objc
-264039	Objc
-264046	Subj
+263876	Objc
+263880	Objc
+263902	Subj
+263908	Subj
+263915	Subj
+263927	Subj
+263938	Subj
+263941	Objc
+263956	Cmpl
+263958	Objc
+263966	Cmpl
+263970	Objc
+263982	Objc
+263991	Objc
+263995	Objc
+264005	Objc
+264034	Subj
+264037	Subj
+264048	Objc
 264050	Subj
-264052	Objc
+264069	Subj
 264071	Subj
-264074	Subj
-264077	Objc
-264081	Cmpl
-264083	Subj
-Pred
-264089	Subj
-264105	Pred
-264125	Pred
-264137	Objc
-264152	Objc
-264157	Objc
-264164	Objc
-264170	Cmpl
-264178	Subj
-264217	Objc
-264232	Subj
-264246	Subj
-Objc
-264261	Objc
-264263	Subj
-264267	Objc
-264273	Subj
-Objc
-264284	Objc
-264288	Objc
-264294	Objc
-264309	Subj
-264315	Objc
-264332	Pred
-264335	Pred
-264339	Subj
-264347	Objc
-264358	Subj
-264366	Objc
-264376	Subj
-Objc
-264391	Subj
-264411	Objc
-264429	Subj
-264431	Pred
-264434	Objc
-264454	Subj
-264465	Subj
-264478	Objc
-264504	Objc
-264517	Subj
-264519	Pred
-264522	Pred
-264534	Pred
-264544	Pred
-264546	Subj
-264560	Subj
-264571	Objc
-264595	Subj
-264601	Objc
-264616	Objc
-264620	Subj
-264636	Subj
-264641	Pred
-264645	Subj
-264655	Subj
-264664	Objc
-264668	Objc
-264680	Subj
-264690	Pred
-264693	Subj
-264715	Objc
-264721	Objc
-264727	Objc
-264734	Objc
-264739	Objc
-264765	Objc
-264777	Objc
-264782	Objc
-264796	Objc
-264799	Objc
-264801	Cmpl
-264807	Objc
-264833	Subj
-264839	Subj
+264076	Objc
+Subj
+264081	Subj
+264089	Objc
+264098	Subj
+264121	Objc
+264128	Objc
+264132	Subj
+264139	Objc
+264142	Subj
+264153	Subj
+264162	Subj
+264165	Objc
+264167	Pred
+264172	Subj
+264176	Objc
+264192	Cmpl
+264212	Subj
+264224	Objc
+264254	Objc
+264272	Pred
+264319	Subj
+264325	Objc
+264328	Objc
+264333	Cmpl
+264341	Objc
+264359	Objc
+264382	Objc
+264390	Objc
+264404	Objc
+264409	Cmpl
+264430	Objc
+264434	Subj
+264444	Objc
+264448	Objc
+264463	Subj
+264466	Pred
+264474	Objc
+264495	Objc
+264514	Objc
+264531	Subj
+264535	Objc
+264547	Objc
+264554	Pred
+264556	Subj
+264560	Objc
+264567	Pred
+Subj
+264590	Objc
+264593	Subj
+264596	Subj
+264600	Subj
+264605	Objc
+264612	Subj
+264615	Objc
+264618	Cmpl
+264638	Objc
+264658	Pred
+264660	Pred
+264671	Subj
+264684	Subj
+264686	Subj
+264696	Objc
+264704	Pred
+264713	Subj
+264715	Pred
+Subj
+264729	Cmpl
+264748	Subj
+264783	Objc
+264808	Objc
+Subj
+264824	Subj
+264828	Cmpl
 264841	Objc
-264844	Cmpl
-264849	Subj
-264853	Subj
-264866	Subj
-264872	Subj
-264878	Subj
-264881	Pred
-264885	Subj
-264889	Subj
+264849	Objc
+264852	Objc
+264865	Subj
+Subj
+264870	Objc
 264892	Subj
-264904	Objc
-264925	Pred
-264927	Pred
-264934	Subj
-Subj
-264940	Objc
-264960	Subj
-264974	Subj
+264935	Pred
+264937	Subj
+264942	Cmpl
+264953	Pred
+264960	Objc
+264964	Objc
+264966	Subj
+264983	Subj
+264992	Subj
 Pred
-264979	Subj
-264983	Cmpl
-264992	Objc
-264994	Objc
-265003	Pred
-265008	Subj
-265011	Cmpl
-265038	Objc
-265044	Objc
-265049	Objc
-265054	Objc
-265061	Subj
-265063	Objc
-265073	Objc
+265009	Objc
+265013	Subj
+265019	Subj
+265027	Objc
+Subj
+Objc
+265033	Cmpl
+265039	Subj
+265048	Subj
+265053	Pred
+265062	Subj
+265064	Cmpl
+Objc
+265068	Objc
 265078	Subj
-265089	Objc
-265124	Subj
-265145	Subj
-265164	Subj
-265197	Objc
-265234	Subj
-265269	Objc
-265281	Subj
-265287	Subj
-265294	Subj
-265299	Subj
-265305	Pred
-265308	Subj
-265327	Subj
-Pred
-265332	Pred
-265348	Subj
-265355	Pred
-265361	Pred
-265363	Subj
-265379	Subj
-265386	Subj
-265403	Objc
-265407	Subj
-265428	Subj
-265431	Subj
-265437	Subj
-265446	Subj
-265460	Subj
-265468	Subj
+265081	Cmpl
+265086	Cmpl
+265106	Subj
+265113	Subj
+265143	Objc
+Cmpl
+265148	Subj
+265154	Objc
+265159	Pred
+265164	Objc
+265171	Pred
+265175	Subj
+265182	Subj
+265186	Objc
+265193	Objc
+265197	Cmpl
+265204	Cmpl
+265209	Objc
+Subj
+Objc
+265216	Objc
+265225	Objc
+265247	Objc
+265252	Objc
+Subj
+265258	Subj
+265264	Subj
+265274	Subj
+265280	Subj
+265286	Pred
+265289	Subj
+265295	Subj
+265303	Objc
+265307	Objc
+265311	Subj
+265316	Subj
+265321	Objc
+265324	Cmpl
+265326	Subj
+265329	Pred
+265332	Objc
+265335	Pred
+265345	Objc
+265349	Objc
+Subj
+265355	Subj
+265376	Cmpl
+Objc
+265399	Objc
+265429	Objc
+265436	Objc
+265441	Objc
+265444	Subj
+265448	Subj
+265451	Objc
+265456	Objc
+265463	Subj
+265466	Objc
 265478	Subj
-265534	Subj
-265561	Objc
-265571	Pred
-265579	Cmpl
-265603	Subj
-265609	Subj
-265619	Objc
+265490	Subj
+265499	Objc
+265502	Pred
+265513	Objc
+265519	Subj
+Objc
+265524	Cmpl
+265527	Subj
+265530	Objc
+265539	Pred
+265544	Objc
+265570	Objc
+265588	Pred
+265590	Subj
+265624	Subj
 265636	Subj
-265638	Objc
-265649	Cmpl
-265653	Subj
-265656	Subj
-265658	Objc
-265664	Objc
-265679	Objc
-265685	Subj
-265689	Subj
-265697	Objc
-265738	Subj
-265765	Objc
-265776	Pred
-265787	Subj
-265792	Pred
-265798	Subj
-265826	Subj
-265831	Subj
-265838	Subj
-265852	Subj
-265855	Pred
-265861	Pred
-265883	Pred
-265901	Subj
-265917	Objc
-265927	Subj
-265933	Objc
-265940	Subj
-265946	Objc
-265996	Objc
-266002	Objc
-266024	Subj
-266049	Subj
-266070	Objc
-266078	Objc
-266084	Subj
-266087	Subj
-266097	Pred
-266102	Subj
-266104	Pred
-266152	Objc
-266159	Subj
-266174	Objc
-266179	Objc
-266187	Subj
-266194	Objc
-266220	Pred
-266224	Objc
-266250	Subj
-266261	Subj
-266269	Subj
-266275	Subj
+265644	Objc
+Subj
+265647	Cmpl
+265649	Subj
+265686	Subj
+265691	Objc
+265703	Objc
+265714	Objc
+265724	Objc
+265739	Objc
+265743	Subj
+265747	Objc
+265749	Subj
+265751	Subj
+265762	Pred
+265767	Subj
+265778	Objc
+265781	Objc
+265794	Objc
+Subj
+265815	Subj
+265827	Subj
+265830	Pred
+265836	Subj
+265838	Objc
+265852	Objc
+265857	Subj
 Pred
-266289	Subj
+Subj
+265868	Subj
+265886	Subj
+265909	Subj
+265921	Objc
+265927	Objc
+265931	Subj
+265956	Objc
+265965	Objc
+265992	Objc
+Subj
+265997	Subj
+266006	Pred
+266008	Subj
+266040	Subj
+266054	Subj
+266056	Objc
+266059	Subj
+266065	Subj
+266067	Pred
+266085	Objc
+266096	Pred
+266110	Objc
+266125	Pred
+266127	Subj
+266147	Objc
+266150	Objc
+266155	Subj
+266172	Pred
+266175	Subj
+266181	Objc
+266187	Objc
+266194	Cmpl
+266197	Objc
+266201	Objc
+Subj
+266204	Cmpl
+266221	Subj
 Pred
-266294	Subj
-266301	Subj
-266304	Subj
-266309	Subj
-Pred
-266313	Pred
-266317	Subj
-266330	Subj
+266243	Objc
+Subj
+266246	Cmpl
+266259	Objc
+266289	Objc
+266296	Objc
+266301	Pred
+266322	Subj
+266334	Pred
+266341	Pred
+266363	Subj
+266367	Pred
 Objc
-266335	Subj
+266378	Subj
+266385	Cmpl
+266388	Subj
+266400	Objc
+266409	Objc
+266411	Objc
+266413	Cmpl
+266415	Objc
+266421	Objc
+266424	Subj
+266427	Subj
+266431	Objc
+266439	Subj
+266448	Subj
+266453	Cmpl
+266455	Pred
+266467	Pred
+266489	Objc
+266496	Pred
+Pred
+266518	Subj
+266520	Subj
+266536	Pred
+266546	Pred
+266587	Subj
+266591	Cmpl
+266595	Subj
+266598	Pred
+266601	Subj
+266605	Objc
+266612	Subj
+266617	Pred
+266624	Pred
+Subj
+266652	Objc
+266655	Subj
+266672	Objc
+266685	Subj
+266696	Subj
+266705	Cmpl
+266716	Subj
+266718	Pred
+266722	Subj
+266724	Objc
+266727	Objc
+266729	Subj
+266732	Pred
+266752	Objc
+266759	Subj
+266761	Pred
+266769	Subj
+266772	Objc
+266777	Objc
+266791	Subj
 Objc
-266369	Objc
-266394	Pred
-266417	Subj
-266430	Pred
-266444	Objc
-266454	Subj
-266467	Objc
-266479	Subj
-266482	Pred
-266493	Subj
-266509	Objc
-266525	Subj
-266532	Pred
-266538	Subj
+266796	Objc
+266801	Subj
+266805	Objc
+266809	Subj
+266835	Objc
+266838	Pred
+266854	Subj
 Pred
-266547	Subj
-266549	Objc
-266565	Subj
-266588	Subj
-266595	Objc
-Cmpl
-266613	Pred
-266628	Objc
-266632	Objc
-266641	Objc
-266653	Subj
-266668	Objc
-266684	Subj
-266687	Objc
-266703	Objc
-266705	Objc
-266720	Subj
-266726	Subj
-266742	Objc
-266751	Objc
-266756	Objc
-266763	Subj
-266811	Cmpl
-266817	Cmpl
-266831	Subj
-266861	Subj
-266872	Objc
-266877	Subj
-266882	Subj
-266899	Subj
-266909	Pred
-266916	Subj
-Pred
-266919	Pred
-266925	Subj
-266932	Pred
-266940	Subj
-266944	Objc
-266947	Pred
-266957	Objc
-266961	Objc
-266980	Pred
-266986	Pred
-266998	Subj
-267001	Subj
-267009	Subj
-267014	Objc
-267024	Subj
-267027	Objc
-267030	Subj
-267035	Subj
-267046	Objc
+266857	Subj
+266864	Objc
+266872	Subj
+266884	Subj
+266891	Subj
+266900	Objc
+266911	Pred
+266921	Objc
+266926	Objc
+266932	Objc
+266935	Subj
+266949	Subj
+266967	Subj
+266985	Objc
+266994	Objc
+267008	Objc
+267019	Pred
+267021	Pred
+267032	Pred
+267039	Subj
+267043	Objc
+267059	Objc
+267068	Objc
+267073	Subj
+267084	Objc
 267089	Objc
-267094	Cmpl
-Objc
-267113	Pred
-267121	Subj
-267132	Subj
-267163	Subj
-267169	Objc
-267183	Subj
-267194	Objc
-267213	Pred
+267092	Cmpl
+267094	Objc
+267103	Subj
+267111	Subj
+267115	Cmpl
+267120	Subj
+267133	Objc
+267145	Subj
+267148	Pred
+267154	Subj
+267158	Pred
+267161	Subj
+267174	Objc
+267183	Objc
+267188	Subj
+267196	Subj
+267208	Subj
 267220	Subj
-267236	Objc
-267243	Objc
-267273	Subj
-267281	Subj
-267289	Subj
-267301	Subj
-267335	Subj
-267339	Subj
-267361	Subj
-267420	Objc
-267428	Objc
-267435	Subj
-267447	Objc
-267451	Objc
-267459	Subj
-267470	Subj
-267491	Subj
-267495	Subj
-267514	Objc
-267537	Pred
-267540	Subj
-267558	Objc
+Subj
+267223	Objc
+267226	Cmpl
+267239	Subj
+267261	Cmpl
+Subj
+267265	Objc
+267267	Subj
+267284	Subj
+267289	Pred
+267319	Subj
+267324	Objc
+267337	Objc
+267351	Subj
+267360	Subj
+267368	Objc
+267385	Subj
+267419	Subj
+267422	Subj
+267433	Subj
+267449	Objc
+267456	Objc
+267466	Objc
+267470	Objc
+Subj
+267476	Subj
+267486	Objc
+267490	Subj
+267498	Cmpl
+Objc
+267504	Objc
+267508	Subj
+267510	Pred
+267520	Pred
+267524	Subj
+267549	Subj
+267552	Pred
 267566	Subj
-267581	Subj
-267592	Objc
-267613	Subj
-267701	Objc
-267705	Objc
-267717	Subj
-267723	Pred
-267727	Subj
-267741	Objc
-267745	Objc
-267754	Subj
-267765	Subj
-267775	Pred
-267779	Objc
-267801	Objc
-267830	Objc
-267834	Pred
-Subj
-267838	Subj
+267574	Subj
+267582	Subj
+267591	Objc
+267596	Subj
+267600	Objc
+267605	Objc
+267614	Objc
+267621	Objc
+267630	Subj
+267643	Subj
+267645	Subj
+267669	Subj
 Pred
-267843	Subj
-267847	Pred
+267672	Subj
+Objc
+267688	Objc
+267692	Subj
+267709	Subj
+267721	Pred
+267727	Objc
+267733	Cmpl
+267736	Objc
+267757	Pred
+267764	Subj
+267787	Subj
+267794	Objc
+267801	Pred
+267810	Subj
+267813	Subj
+267821	Subj
+267846	Objc
 267861	Pred
-267864	Subj
-Pred
-267872	Subj
-267877	Subj
-267881	Subj
-267899	Pred
-267912	Objc
-267918	Pred
-267922	Subj
-267926	Subj
+267865	Pred
+Subj
+267873	Subj
+267895	Subj
+267906	Objc
+Subj
+267920	Pred
+267928	Objc
 267934	Subj
-267942	Pred
-267964	Subj
-267970	Objc
-267995	Pred
-268005	Subj
-Objc
-268010	Subj
-268028	Pred
-268035	Subj
-268042	Subj
-268059	Pred
-268073	Pred
-268093	Pred
-268098	Objc
-268108	Pred
-268127	Subj
-268143	Objc
+267937	Objc
+267944	Subj
+267949	Subj
+267958	Subj
+267965	Objc
+267967	Objc
+Subj
+267971	Subj
+267976	Objc
+267981	Cmpl
+267987	Pred
+267989	Subj
+268004	Pred
+Subj
+268012	Subj
+268015	Objc
+268022	Pred
+268027	Subj
+268030	Subj
+268035	Pred
+268047	Pred
+268050	Subj
+268054	Subj
+268058	Objc
+268073	Objc
+268094	Objc
+Subj
+268098	Subj
+268101	Objc
+268104	Objc
+268125	Subj
+268135	Objc
+268144	Objc
+268147	Objc
 268155	Subj
-268161	Subj
-268176	Objc
-268187	Pred
-268195	Cmpl
-268208	Subj
-268229	Subj
-268245	Pred
-268263	Subj
-268267	Pred
-268274	Subj
-268279	Objc
-268285	Subj
-268320	Pred
-268327	Pred
-268347	Objc
-268358	Subj
-268379	Subj
-268384	Subj
-268395	Objc
-268406	Subj
-268418	Pred
+268159	Subj
+268162	Objc
+268182	Objc
+268198	Subj
+268244	Subj
+268248	Objc
+268252	Subj
+268298	Subj
+268300	Objc
 Subj
-268422	Subj
-268431	Subj
-268439	Pred
-268453	Pred
-268460	Pred
-268464	Pred
-268481	Objc
-268491	Subj
-268494	Subj
-268515	Subj
-268521	Subj
-268534	Subj
-268542	Subj
-268549	Subj
-268553	Subj
-268555	Cmpl
-268564	Subj
-268578	Subj
+268313	Objc
+268321	Subj
+268324	Pred
+268335	Subj
+268340	Pred
+268351	Subj
+268375	Subj
+268385	Subj
+268391	Pred
+268399	Objc
+268416	Objc
+268425	Subj
+268442	Objc
+268451	Subj
+268463	Objc
+268493	Subj
+268513	Pred
+268524	Pred
+268538	Objc
+268552	Cmpl
+Subj
+268570	Pred
 268580	Objc
-268592	Cmpl
-268602	Subj
+268605	Objc
+268613	Cmpl
 268616	Objc
-268619	Objc
+268627	Objc
+268649	Subj
+268662	Objc
+268667	Subj
+268678	Cmpl
+268684	Objc
+268691	Objc
+268694	Objc
+268708	Objc
+268717	Objc
+268731	Subj
+268736	Objc
+268749	Objc
+268754	Cmpl
+268763	Pred
+268778	Objc
+268787	Cmpl
+268799	Objc
 Subj
-268626	Subj
-Objc
-268633	Objc
-268635	Objc
-268642	Objc
-268645	Subj
-268651	Objc
-268656	Subj
-268680	Subj
-268686	Subj
-268719	Objc
-268724	Objc
-268729	Objc
-268733	Objc
-268737	Objc
-268741	Subj
-268746	Subj
-268754	Subj
-268758	Objc
-268768	Objc
-268777	Subj
-268783	Subj
-268806	Subj
-268817	Subj
-268823	Pred
-268834	Objc
-268842	Subj
-268857	Pred
-268891	Subj
-Pred
-268906	Objc
-268912	Subj
-268968	Subj
-268973	Objc
-268983	Subj
-269002	Pred
+268808	Objc
+268810	Objc
+268817	Objc
+268828	Subj
+268839	Subj
+268847	Objc
+268857	Subj
+268862	Objc
+268882	Objc
+268890	Objc
+268909	Objc
+268918	Objc
+268926	Subj
+268937	Pred
+268941	Subj
+268946	Objc
+268948	Cmpl
+268958	Objc
+268967	Subj
+268969	Pred
+268976	Objc
+268979	Objc
+268990	Pred
+268992	Subj
+269008	Objc
 269021	Objc
-269028	Objc
-269034	Objc
-269055	Objc
-269061	Subj
-269066	Subj
-269070	Objc
-269075	Subj
+269029	Objc
+269039	Subj
+269066	Objc
+269076	Objc
+269081	Objc
+269094	Subj
+269100	Objc
+269105	Objc
+269113	Subj
+Cmpl
+269132	Subj
 Objc
-269080	Objc
-269086	Subj
-269092	Objc
-269097	Subj
-Objc
-269103	Objc
-269106	Subj
-269129	Subj
-269133	Subj
-269140	Subj
-Objc
-269144	Objc
-269147	Subj
-269154	Subj
-269157	Objc
-269164	Subj
-269172	Objc
-269177	Subj
-269206	Subj
-269243	Pred
-269266	Subj
-269271	Pred
-269281	Objc
-269301	Subj
-269315	Pred
-269321	Pred
-269323	Pred
-269335	Pred
-269344	Objc
+269139	Objc
+Subj
+269155	Objc
+269165	Objc
+269173	Subj
+269181	Subj
+269183	Objc
+269196	Objc
+269229	Pred
+269238	Pred
+269262	Pred
+269270	Objc
+269278	Objc
+269288	Objc
+269290	Subj
+269297	Objc
+269300	Pred
+269302	Subj
+269312	Subj
+269325	Objc
+269336	Subj
+269342	Subj
+269345	Objc
 269350	Objc
-269354	Subj
-269360	Subj
-Objc
-269366	Objc
-269370	Subj
-Objc
-269383	Objc
-269390	Objc
-269393	Subj
-269403	Subj
-269405	Subj
-269409	Objc
-269417	Subj
-269420	Subj
-269424	Objc
-269454	Subj
-269459	Subj
-269467	Pred
-269470	Subj
-269476	Subj
-269482	Subj
-269496	Subj
-269529	Objc
-269539	Subj
-269555	Objc
-269575	Subj
-269595	Subj
-269599	Pred
-269607	Subj
-269610	Objc
-269624	Objc
-269631	Subj
-269637	Subj
-269646	Objc
-269650	Pred
-269654	Subj
-269662	Subj
-269671	Pred
+269355	Subj
+269381	Subj
+269384	Subj
+269407	Subj
+269433	Subj
+269439	Objc
 Subj
-269678	Subj
-269692	Objc
-269701	Subj
+269447	Subj
+269456	Subj
+269465	Objc
+269470	Objc
+269472	Objc
+269474	Subj
+269489	Subj
+269493	Objc
+269498	Cmpl
+269501	Subj
+269506	Pred
+269514	Subj
 Pred
-269713	Subj
-269715	Objc
-269721	Subj
-269727	Subj
-269738	Subj
-269752	Subj
-269762	Subj
-269783	Objc
-269785	Subj
-269792	Cmpl
-269799	Objc
-269803	Pred
-269816	Subj
-269829	Subj
-269836	Subj
-269838	Subj
-269842	Objc
-269848	Objc
-269858	Subj
-269863	Objc
-269867	Objc
-269892	Subj
-269920	Subj
-269931	Objc
-269939	Subj
-269951	Subj
-269957	Cmpl
-269970	Pred
-269984	Subj
-269998	Subj
-270000	Objc
-270007	Subj
-270019	Objc
-270023	Subj
-270026	Subj
-270049	Objc
-270057	Subj
-270069	Subj
-270074	Subj
-270078	Subj
-270082	Subj
-270087	Subj
+269527	Objc
+269533	Objc
+269547	Subj
 Objc
-270091	Subj
-270099	Subj
-270103	Subj
-270108	Objc
-270118	Subj
-270123	Subj
-270132	Subj
+269556	Pred
+269563	Objc
+269566	Objc
+Cmpl
+269570	Pred
 Subj
-270145	Objc
-270147	Subj
-270158	Subj
-270166	Pred
-270170	Subj
-270175	Objc
-270181	Subj
-270187	Objc
-270199	Objc
-270203	Subj
-270213	Subj
-270226	Subj
-270245	Subj
-270255	Subj
-270260	Objc
-270268	Subj
-270272	Objc
-270285	Subj
-270293	Objc
+269575	Objc
+269580	Objc
+269593	Objc
+269598	Subj
+269600	Objc
+269605	Pred
+269609	Subj
+269613	Objc
+269624	Subj
+269628	Subj
+269640	Subj
+269644	Objc
+269663	Objc
+269685	Subj
+269691	Subj
+269697	Subj
+269707	Objc
+269714	Objc
+269724	Objc
+269731	Subj
+269752	Objc
+269757	Objc
+269768	Objc
+269788	Pred
+269791	Objc
+269800	Subj
+269805	Subj
+269812	Subj
+269819	Objc
+269823	Objc
+269832	Subj
+269837	Objc
+269840	Subj
+269849	Subj
+269853	Subj
+269863	Subj
+269875	Objc
+269880	Subj
+269884	Objc
+269893	Pred
+269896	Objc
+269900	Subj
+269902	Objc
+269914	Subj
+269916	Objc
+269926	Subj
+269942	Subj
+269959	Subj
+269968	Objc
+269977	Subj
+269981	Cmpl
+269988	Objc
+269992	Subj
+269999	Subj
+270020	Objc
+270031	Subj
+270034	Subj
+270044	Pred
+270053	Objc
+270055	Cmpl
+270064	Subj
+Subj
+270078	Cmpl
+270081	Subj
+270097	Objc
+270116	Objc
+270119	Objc
+270122	Subj
+270124	Pred
+270161	Pred
+270168	Subj
+270173	Subj
+Objc
+270194	Subj
+270200	Cmpl
+270202	Subj
+270210	Objc
+270224	Objc
+270227	Pred
+270254	Subj
+270269	Subj
+270271	Cmpl
+270275	Objc
+270277	Subj
+270280	Pred
+270288	Subj
+270294	Objc
+Subj
+270299	Pred
 270303	Objc
-270327	Subj
-270329	Pred
-270335	Subj
-270344	Subj
-270348	Subj
-270351	Cmpl
-270360	Subj
-Objc
-270370	Subj
-270380	Subj
-270384	Objc
-270386	Objc
-270388	Objc
-270395	Subj
-270403	Subj
-270409	Subj
-270415	Subj
-270422	Subj
-Objc
-270426	Objc
+270308	Objc
+270317	Cmpl
+270320	Objc
+270323	Subj
+270337	Cmpl
+270343	Objc
+270345	Cmpl
+270403	Cmpl
+270407	Subj
+270417	Subj
+270420	Subj
 270430	Objc
-270440	Subj
-Objc
-270445	Subj
-270452	Subj
-270454	Objc
-270456	Cmpl
-270459	Objc
-270462	Objc
-270467	Objc
-270482	Objc
-270488	Objc
-270512	Subj
-Objc
-270527	Subj
-270529	Cmpl
-270539	Pred
-270549	Subj
-270553	Objc
-270561	Objc
-270567	Objc
-270580	Subj
-270586	Objc
-270590	Objc
-270600	Subj
-270612	Subj
-270622	Cmpl
-270628	Objc
-270665	Subj
-270673	Subj
-270687	Objc
-270690	Objc
-270694	Subj
-270702	Objc
+270432	Objc
+270439	Objc
+270444	Objc
+270455	Pred
+270463	Objc
+270469	Objc
+270475	Objc
+270481	Objc
+270495	Subj
+270502	Subj
+Pred
+270508	Subj
+270510	Cmpl
+270523	Objc
+270530	Subj
+270533	Subj
+270536	Subj
+270555	Subj
+270565	Subj
+270575	Objc
+270581	Objc
+270589	Subj
+270595	Objc
+270598	Objc
+270608	Objc
+270620	Objc
+270626	Subj
+270630	Subj
+270633	Objc
+270637	Objc
+270645	Subj
+270649	Subj
+270658	Subj
+270668	Cmpl
+270672	Objc
+270684	Subj
+270688	Objc
+270698	Subj
 270707	Objc
-270729	Objc
-270795	Objc
-270798	Objc
-270803	Subj
-270814	Subj
-270817	Objc
-270847	Objc
+270710	Subj
+270716	Pred
+270720	Subj
+270724	Cmpl
+270726	Cmpl
 Subj
-270853	Subj
-270870	Subj
-270873	Subj
+Pred
+270730	Subj
+270736	Subj
+270739	Subj
+270743	Objc
+270749	Subj
+270754	Subj
+270766	Objc
+270768	Subj
+270777	Pred
+270781	Objc
+270803	Objc
+270818	Objc
+270827	Subj
+270830	Objc
+270836	Subj
+270863	Objc
+270869	Subj
 270877	Objc
-270902	Subj
-270905	Subj
-270909	Subj
-Pred
-270916	Subj
-270919	Pred
-270925	Objc
+270879	Subj
+270885	Subj
+270890	Objc
+270899	Subj
+270905	Objc
+270915	Subj
+270923	Pred
+270927	Objc
+270939	Subj
+270943	Subj
+270949	Pred
 Subj
-270943	Cmpl
-270947	Objc
-270958	Objc
-270970	Subj
-270985	Subj
+270954	Pred
+270963	Subj
+Pred
+270966	Pred
+270977	Objc
+270979	Subj
+270982	Subj
+270991	Subj
+270994	Subj
 271004	Subj
-271023	Subj
-271026	Subj
-271028	Subj
-271034	Objc
-271041	Subj
-271065	Subj
-Pred
-271084	Subj
-271093	Subj
-271097	Subj
-271108	Objc
-271110	Subj
-271116	Subj
-271122	Subj
-271131	Objc
-271143	Subj
+271007	Objc
+271012	Subj
+271017	Subj
+271032	Objc
+271045	Subj
+271047	Cmpl
+271049	Subj
+Subj
+271056	Subj
+271061	Subj
+271068	Subj
+271073	Objc
+271094	Subj
+271102	Objc
+271111	Subj
+271121	Subj
+271123	Objc
+Subj
+271128	Objc
+271138	Objc
+271143	Pred
+271147	Objc
+271153	Subj
+271165	Subj
+Objc
+271172	Objc
 271177	Subj
-271193	Objc
-271203	Subj
-271215	Objc
-271225	Subj
-271227	Objc
-271234	Objc
-271241	Subj
-271247	Objc
-271252	Subj
-271254	Objc
-271263	Subj
-271273	Cmpl
-271280	Objc
-271284	Subj
-271286	Pred
-271315	Subj
-271317	Subj
-271332	Objc
-271336	Objc
-271343	Subj
-271362	Subj
-271369	Subj
-271373	Objc
-271377	Objc
-271387	Subj
-271446	Pred
-271449	Subj
+271179	Cmpl
+271189	Objc
+271197	Objc
+271202	Subj
+271208	Subj
+Pred
+271213	Objc
+271216	Subj
+271225	Objc
+271237	Cmpl
+271242	Subj
+271245	Objc
+271251	Objc
+271265	Objc
+Cmpl
+Subj
+271271	Objc
+271285	Objc
+271287	Objc
+271297	Objc
+271299	Cmpl
+271302	Objc
+271307	Subj
+271316	Pred
+271318	Objc
+271321	Cmpl
+271325	Subj
+271331	Objc
+271334	Objc
+271345	Objc
+271351	Subj
+271358	Objc
+271368	Subj
+271370	Subj
+271379	Objc
+271383	Pred
+271385	Objc
+271392	Subj
+271398	Objc
+271402	Cmpl
+271405	Objc
+271412	Objc
+271446	Objc
+271451	Objc
 271462	Objc
-271469	Pred
-271471	Objc
+271465	Objc
 271479	Objc
-271482	Pred
-271488	Subj
-271492	Objc
-271532	Subj
-271536	Pred
-271546	Subj
-271550	Objc
-271555	Subj
-271564	Objc
-271571	Objc
-271581	Objc
-271585	Objc
-271587	Objc
-271595	Subj
-271597	Pred
-271600	Subj
-271602	Pred
-271609	Objc
-271613	Objc
-271623	Subj
-271645	Subj
-271652	Objc
-271664	Subj
-271670	Subj
-271678	Subj
-271683	Subj
-271691	Subj
-271699	Subj
-271703	Subj
-271707	Subj
-271722	Subj
-271749	Subj
-271760	Subj
+271505	Pred
+271510	Objc
+271517	Objc
+271526	Subj
+271538	Objc
+271551	Cmpl
+Subj
+271565	Cmpl
+271577	Subj
+271586	Cmpl
+271588	Objc
+271605	Subj
+271618	Subj
+271627	Objc
+271630	Cmpl
+271634	Objc
+271639	Cmpl
+271644	Pred
+271653	Pred
+271657	Objc
+271660	Subj
+271679	Subj
+271701	Subj
+271703	Cmpl
+271713	Subj
+271716	Subj
+271720	Objc
+271728	Subj
+271761	Objc
+271765	Subj
+Objc
+271775	Subj
+271783	Objc
 Cmpl
-271764	Subj
-271775	Objc
-271784	Pred
-271789	Subj
-271797	Subj
-271802	Objc
-271810	Pred
-271818	Subj
-271829	Subj
-271842	Subj
-271853	Subj
-271856	Objc
-271868	Pred
-271874	Cmpl
-271878	Subj
-271884	Subj
-271887	Subj
-271892	Subj
-271899	Subj
-271908	Subj
-271921	Subj
-271934	Subj
-271939	Subj
-271947	Subj
-271956	Subj
-271972	Objc
-271985	Subj
-271995	Subj
-272007	Subj
-272018	Objc
-272025	Pred
+271806	Subj
+271808	Objc
+271813	Objc
+271820	Subj
+271828	Objc
+Subj
+271831	Objc
+271834	Subj
+271840	Subj
+Pred
+271845	Subj
+271849	Cmpl
+Subj
+271860	Subj
+Pred
+271869	Objc
+271876	Subj
+271880	Pred
+271883	Subj
+271902	Subj
+271908	Objc
+271927	Cmpl
+271930	Objc
+271933	Objc
+271936	Objc
+Cmpl
+271944	Objc
+271946	Objc
+271949	Objc
+271955	Objc
+271980	Objc
+Subj
+271987	Subj
+271998	Subj
+272002	Objc
+272024	Objc
 272035	Objc
-272044	Objc
-272051	Pred
-272055	Objc
-272059	Subj
-272061	Objc
-272067	Subj
-272079	Objc
-272086	Objc
-272090	Pred
-272093	Pred
-272106	Subj
-272112	Objc
-272119	Objc
-272124	Subj
-272139	Subj
-272142	Pred
-272163	Subj
-272187	Pred
-272197	Objc
-272200	Subj
-272218	Objc
-272224	Subj
-272226	Subj
-272240	Subj
-272244	Pred
-272263	Subj
-272281	Objc
-272308	Subj
-272328	Subj
-272330	Subj
-272354	Subj
-272357	Objc
-272360	Pred
-272364	Pred
-272373	Subj
-272377	Subj
-272390	Subj
-272401	Subj
-272407	Objc
-272412	Subj
-272423	Subj
-272427	Subj
-272432	Subj
+272040	Subj
+272065	Subj
+272074	Objc
+272080	Subj
+272084	Objc
+272089	Subj
+272102	Objc
+272114	Subj
+272122	Objc
+Subj
+272128	Objc
+272143	Objc
+272149	Cmpl
+272153	Subj
+272156	Objc
+272158	Subj
+272167	Objc
+272175	Subj
+272188	Pred
+272190	Objc
+272195	Objc
+272208	Subj
+272220	Pred
+272222	Subj
+272230	Objc
+272234	Objc
+272239	Subj
+272241	Cmpl
+272250	Objc
+272254	Subj
+272259	Subj
+272266	Objc
+272268	Cmpl
+272271	Subj
+272275	Objc
+272279	Subj
+272299	Cmpl
+272318	Objc
+272320	Objc
+272326	Objc
+272330	Objc
+272333	Objc
+272339	Subj
+272346	Subj
+272352	Subj
+272359	Subj
+272372	Pred
+272379	Objc
+272408	Subj
+272414	Subj
+272417	Subj
+272425	Objc
+272431	Objc
 272435	Subj
-272440	Subj
-272446	Subj
-272456	Objc
-272465	Pred
-272469	Subj
-272471	Objc
-272486	Subj
-Pred
-272519	Subj
-272534	Objc
-272543	Subj
-272552	Objc
-272566	Subj
-272581	Subj
-272583	Objc
-272610	Subj
-272613	Subj
+272460	Objc
+272462	Subj
+272467	Cmpl
+272470	Objc
+272473	Cmpl
+272492	Subj
+272506	Subj
+272509	Objc
+272513	Subj
+272523	Objc
+272535	Pred
+272537	Objc
+Subj
+272540	Objc
+Subj
+Objc
+272544	Cmpl
+272546	Objc
+272549	Subj
+272559	Objc
+272565	Subj
+272581	Objc
+272591	Subj
+272594	Cmpl
+272598	Objc
+272606	Subj
+272610	Pred
 272620	Subj
-272629	Subj
-272641	Subj
-272651	Subj
-272655	Pred
-272667	Objc
-272673	Subj
-272677	Subj
-272690	Subj
-272717	Subj
-272739	Subj
-272751	Subj
-272758	Subj
-272767	Objc
-272775	Objc
-272780	Objc
-272792	Subj
-272813	Subj
-272828	Pred
-272831	Pred
-272835	Pred
-272839	Pred
-272867	Subj
-272892	Objc
-272896	Subj
-272900	Objc
-272915	Subj
-272922	Pred
-272926	Objc
-272935	Subj
-272949	Pred
+Pred
+272640	Objc
+272648	Pred
+272651	Objc
+272662	Objc
+272665	Objc
+272678	Objc
+272693	Subj
+272700	Subj
+272703	Objc
+272708	Objc
+Subj
+272712	Objc
+272735	Subj
+272737	Subj
+272743	Subj
+Objc
+272763	Subj
+272769	Subj
+272781	Subj
+272786	Objc
+272790	Subj
+272798	Subj
+272801	Objc
+272808	Objc
+272850	Subj
+272854	Subj
+272859	Subj
+272878	Subj
+272888	Objc
+272898	Subj
+272901	Subj
+272904	Objc
+272908	Subj
+272911	Subj
+272916	Objc
+272924	Objc
+272928	Cmpl
+272935	Objc
+272948	Subj
 272953	Objc
-272956	Subj
-272963	Pred
-272971	Subj
-272977	Subj
-272980	Objc
-Pred
+272955	Pred
+272960	Objc
+272962	Objc
+272972	Subj
+272981	Cmpl
 272987	Subj
-272993	Subj
-273001	Subj
-273006	Pred
-273014	Subj
-273026	Subj
-273036	Subj
-273040	Subj
-273044	Pred
-273047	Objc
-273058	Objc
-273064	Objc
-273079	Subj
-273084	Subj
-Pred
-273102	Objc
-273108	Objc
-273114	Pred
-273121	Objc
-273135	Pred
-273141	Objc
-273150	Pred
-273158	Objc
-273162	Subj
-273175	Pred
-273177	Objc
-273185	Pred
-273190	Subj
-273207	Objc
-273214	Objc
-273230	Objc
-273238	Subj
-273248	Subj
-273254	Objc
-273271	Subj
-273280	Subj
-273285	Pred
-273291	Pred
-273306	Pred
-273313	Objc
-273323	Objc
-273334	Subj
-273338	Objc
-273367	Objc
-273373	Subj
-273394	Subj
-273399	Subj
-273406	Objc
-273421	Pred
-273423	Pred
-273435	Objc
-273498	Subj
-273511	Objc
-273537	Objc
-273549	Objc
+272991	Objc
+272999	Objc
+273007	Objc
+Objc
+273016	Pred
+273019	Subj
+273036	Objc
+273065	Subj
+273069	Objc
+273118	Subj
+273143	Pred
+273149	Subj
+273152	Objc
+273154	Subj
+273170	Objc
+273174	Objc
+273181	Objc
+273187	Subj
+273192	Objc
+273204	Subj
+273206	Objc
+273217	Objc
+273277	Subj
+273284	Subj
+273295	Subj
+273307	Objc
+273309	Pred
+273315	Subj
+273318	Pred
+273321	Subj
+273326	Subj
+273329	Objc
 Subj
-273553	Objc
+273348	Cmpl
+273350	Objc
+273358	Objc
+273362	Cmpl
+273364	Objc
+273379	Subj
+273381	Objc
+273383	Objc
+273410	Subj
+273432	Pred
+273472	Objc
+273483	Objc
+Subj
+273493	Objc
+273517	Objc
+273521	Subj
+273532	Pred
+Subj
+273537	Pred
+273543	Objc
+273554	Objc
+273556	Subj
 273558	Subj
-273577	Subj
-273582	Subj
-Pred
-273587	Objc
-273591	Subj
-273593	Objc
-273597	Pred
-273601	Cmpl
-273606	Objc
-273616	Subj
-273626	Objc
-273647	Subj
-273655	Pred
-273669	Objc
-273681	Subj
-273685	Objc
-273688	Subj
-273697	Subj
-273707	Objc
-273713	Cmpl
-273717	Subj
-273737	Objc
-273751	Subj
-273753	Pred
-273762	Pred
-273765	Pred
-273772	Subj
-273779	Subj
-273785	Pred
+273569	Subj
+273573	Objc
+273579	Subj
+273590	Objc
+273601	Subj
+273612	Objc
+273625	Subj
+273629	Objc
+273635	Subj
+273647	Objc
+273649	Objc
+273651	Subj
+273657	Cmpl
+273679	Objc
+273683	Pred
 Subj
-273792	Objc
-273799	Subj
-273807	Objc
-273816	Objc
-273823	Pred
-273865	Subj
-273885	Subj
-273909	Pred
-273914	Subj
-273917	Subj
-273930	Subj
-273958	Pred
-273963	Subj
-273967	Subj
-Objc
-273973	Objc
-273983	Objc
-273990	Subj
-273993	Objc
-274006	Objc
-274011	Objc
-274013	Subj
+273720	Objc
+273728	Subj
+273733	Subj
+273735	Cmpl
+273741	Subj
+273749	Objc
+273755	Subj
+273772	Cmpl
+273776	Pred
+273801	Pred
+273818	Subj
+273821	Objc
+273832	Objc
+273843	Subj
+273847	Pred
+273872	Subj
+273875	Objc
+273886	Objc
+273907	Objc
+Subj
+273930	Pred
+273933	Pred
+273939	Subj
+273947	Pred
+Subj
+273954	Subj
+273962	Subj
+273966	Cmpl
+273970	Pred
+273998	Subj
+274001	Subj
+274020	Pred
 274022	Subj
-274028	Pred
-274035	Subj
-274042	Subj
-274045	Pred
-274062	Subj
-274081	Pred
-274086	Subj
-274089	Objc
-274104	Subj
-274106	Subj
-274109	Objc
-274115	Subj
-274127	Pred
-274133	Objc
-274136	Subj
-274140	Subj
-274142	Objc
-274146	Objc
-274153	Objc
-274155	Pred
-274165	Objc
-274175	Subj
-274178	Objc
-274198	Objc
-274213	Subj
-274224	Subj
-274230	Objc
-274233	Subj
-274241	Subj
-274252	Subj
-274257	Objc
-274262	Pred
-274266	Subj
-274288	Pred
-274295	Subj
-274298	Objc
-274305	Objc
-274337	Subj
-274342	Subj
-274344	Objc
-274354	Subj
-274369	Subj
-274386	Subj
-274392	Subj
-274397	Subj
-274405	Pred
-274411	Objc
-274426	Objc
-274435	Pred
+274029	Subj
+274033	Objc
+274060	Subj
+274062	Objc
+274087	Pred
+274090	Subj
+274097	Objc
+274109	Pred
+274112	Pred
+274117	Objc
+274119	Objc
+274122	Objc
+274135	Objc
+274143	Subj
+274147	Objc
+274154	Objc
+274173	Subj
+274182	Subj
+274188	Subj
 Subj
-274438	Pred
-274475	Objc
+274196	Subj
+274211	Objc
+274235	Subj
+274237	Subj
+274241	Pred
+274259	Subj
+274263	Pred
+274265	Objc
+274274	Subj
+274280	Cmpl
+Subj
+274284	Objc
+274296	Objc
+274300	Pred
+274308	Cmpl
+274316	Subj
+274320	Subj
+274325	Subj
+274339	Subj
+274343	Subj
+274350	Objc
+274360	Objc
+274377	Objc
+274381	Subj
+274383	Subj
+274396	Objc
+274409	Objc
+274413	Subj
+274425	Subj
+274432	Subj
+274438	Subj
+274441	Objc
+274450	Subj
+274456	Subj
+274460	Subj
+274463	Subj
+274465	Objc
+274467	Objc
+274474	Objc
 274478	Subj
-274488	Subj
+274480	Objc
+Subj
+274483	Pred
+274491	Subj
+274505	Objc
 274508	Objc
-274511	Objc
-274522	Subj
-274532	Subj
-274536	Subj
-274538	Pred
-274541	Pred
-274547	Subj
-274554	Subj
-274578	Cmpl
-274584	Subj
-274589	Subj
-274596	Subj
-Pred
-274606	Objc
-274619	Subj
-Pred
+274510	Objc
+274520	Pred
+274523	Subj
+Subj
+274528	Objc
+274531	Subj
+274547	Objc
+274549	Objc
+274553	Objc
+274563	Subj
+274565	Objc
+274570	Objc
+274577	Objc
+274585	Objc
+274589	Objc
+274601	Objc
+274610	Objc
+274629	Objc
+274633	Subj
 274640	Subj
-274648	Subj
-274664	Subj
-274685	Cmpl
-274688	Subj
-274696	Subj
-274698	Objc
-274704	Pred
-274712	Subj
-274727	Subj
-274740	Subj
-274749	Subj
-274756	Objc
+274650	Subj
+274658	Objc
+274663	Subj
+274666	Subj
+274672	Objc
+274676	Objc
+274694	Subj
+274697	Subj
+274702	Subj
+274718	Subj
+274730	Pred
 Subj
-274760	Subj
-274762	Subj
-274766	Subj
-274777	Subj
-274793	Subj
-274836	Subj
-274852	Subj
-274856	Pred
-274860	Subj
-274869	Pred
-274875	Objc
-274891	Subj
-274905	Subj
-274917	Subj
-274938	Subj
-274942	Subj
-274947	Subj
-274951	Subj
-274954	Objc
-274961	Subj
-274978	Subj
-274980	Objc
-274995	Subj
-275003	Objc
-275009	Objc
-275014	Subj
+274735	Subj
+274740	Objc
+274746	Cmpl
+274749	Objc
+274751	Objc
+274769	Subj
+274772	Objc
+274784	Subj
+274792	Objc
+274800	Subj
+274804	Subj
+274819	Pred
+274826	Subj
+274833	Subj
+274839	Subj
+274843	Objc
+274852	Objc
+274855	Subj
+274858	Subj
+274869	Subj
+274873	Subj
+274882	Subj
+274884	Pred
+274898	Subj
+274908	Pred
+Subj
+274911	Objc
+274919	Subj
+274934	Subj
+274941	Objc
+274944	Cmpl
+274946	Objc
+Subj
+274950	Subj
+274962	Objc
+274966	Subj
+274972	Objc
+274976	Objc
+275003	Pred
+Subj
+275027	Subj
+275035	Objc
+275053	Subj
+275057	Objc
+275077	Objc
+275079	Subj
+275083	Objc
+275087	Objc
+275095	Cmpl
+275108	Objc
+275118	Subj
+275121	Pred
+275128	Subj
+275133	Subj
+275136	Objc
+275165	Subj
+275167	Objc
+275173	Subj
+275179	Pred
+275184	Subj
+275189	Objc
+275192	Objc
+275198	Objc
+275209	Objc
+275223	Objc
+275229	Subj
+275235	Subj
+275237	Objc
+275250	Subj
+275258	Objc
+275271	Objc
+275282	Pred
+275290	Cmpl
 Objc
-275058	Subj
-275062	Subj
-275088	Subj
-275109	Subj
-275111	Objc
-275122	Subj
-275125	Objc
-275150	Subj
-275155	Subj
-275180	Objc
-275200	Subj
-275220	Subj
-275236	Objc
-275268	Subj
-275286	Subj
-275289	Subj
-Pred
-275299	Subj
-275301	Objc
+275301	Subj
+Cmpl
 275305	Objc
-275312	Objc
-275317	Subj
-275338	Subj
-275357	Objc
+275314	Objc
+275339	Subj
+275344	Subj
+275347	Pred
+275355	Subj
+275358	Objc
 275363	Subj
-275376	Objc
-275384	Subj
-275399	Objc
-275407	Subj
-275410	Objc
-275415	Subj
-275437	Objc
-275463	Subj
+275412	Subj
+275428	Objc
+275454	Objc
+Pred
+275460	Cmpl
+275464	Subj
 275473	Subj
-275481	Subj
-275503	Pred
-275507	Objc
-275517	Subj
-275522	Objc
-275526	Subj
-275533	Subj
-275538	Subj
-Pred
-275562	Objc
-275566	Subj
-275569	Cmpl
-275577	Cmpl
-275581	Subj
-275585	Subj
-275588	Subj
-275599	Subj
-275609	Objc
-275615	Objc
-275621	Objc
-275637	Subj
-275645	Subj
-275648	Subj
-275669	Objc
-275703	Subj
-275710	Subj
-275714	Subj
-275735	Subj
-275743	Subj
-275751	Subj
-275755	Subj
-275762	Subj
+275488	Objc
+275496	Objc
+275505	Objc
+275520	Subj
+275535	Objc
+275559	Pred
+275569	Objc
+275622	Subj
+275625	Pred
+275629	Cmpl
+275633	Pred
+275643	Cmpl
+275659	Objc
+275674	Subj
+275687	Pred
+275692	Subj
+275695	Objc
+275717	Objc
+275752	Objc
+275754	Objc
+275759	Cmpl
 275765	Subj
+Subj
+275790	Subj
+275808	Objc
+275835	Pred
+275838	Subj
+275845	Cmpl
+275857	Objc
+275860	Pred
+275878	Subj
+275894	Subj
+275904	Subj
+275920	Objc
+275928	Subj
+275935	Pred
+275940	Subj
+275944	Cmpl
+275976	Subj
 Pred
-275772	Objc
-275788	Objc
-275794	Pred
-275807	Objc
-275812	Subj
-275820	Objc
-275824	Subj
-275835	Objc
-275839	Objc
-275859	Objc
-275868	Subj
-275882	Objc
-275887	Objc
-275921	Subj
-275934	Objc
-275945	Objc
-275948	Objc
-275956	Objc
-275987	Subj
-275989	Pred
-275996	Subj
-276006	Subj
-276009	Subj
-276032	Subj
-276037	Subj
-276044	Subj
-276060	Objc
-276073	Objc
-276091	Objc
-276108	Objc
-276125	Objc
-276128	Objc
+275980	Objc
+276001	Subj
+276010	Pred
+276014	Objc
+276040	Objc
+Subj
+276060	Subj
+276068	Subj
+276070	Objc
+276086	Objc
+276093	Subj
+276095	Pred
+276106	Objc
+Subj
+276115	Subj
+276123	Objc
+276137	Subj
 276143	Objc
-276165	Objc
-276169	Objc
-276195	Objc
-276202	Subj
-276204	Objc
-276212	Subj
-276244	Subj
-276248	Objc
-276251	Objc
-276297	Subj
-276302	Subj
-276309	Subj
-276318	Subj
-276342	Subj
-276347	Objc
-276355	Objc
-276358	Cmpl
-276366	Subj
-276376	Subj
-276385	Objc
-276391	Objc
-276397	Cmpl
-276402	Objc
-276414	Subj
-276419	Subj
-276425	Subj
-276428	Subj
-276436	Pred
-276444	Cmpl
-276450	Objc
-276454	Objc
-276461	Subj
-276468	Pred
-276493	Objc
-276499	Objc
-276512	Subj
-276524	Pred
+276163	Subj
+276167	Objc
+276172	Objc
+276176	Subj
+276191	Objc
+276199	Objc
+Subj
+276219	Pred
+276241	Subj
+Objc
+276252	Objc
+276256	Pred
+276261	Objc
+276269	Pred
+276283	Objc
+276286	Objc
+276288	Objc
+276298	Subj
+276306	Pred
+276312	Objc
+276318	Objc
+276325	Objc
+276331	Objc
+276333	Subj
+276335	Objc
+276343	Objc
+276363	Subj
+276373	Objc
+276388	Cmpl
+Objc
+276403	Subj
+276405	Cmpl
+276428	Objc
+276438	Objc
+276443	Objc
+276461	Objc
+276476	Cmpl
+276480	Objc
+276492	Subj
+Pred
+276498	Subj
+276506	Subj
+276517	Subj
+276522	Pred
 276529	Subj
-276555	Subj
-276560	Objc
-276567	Objc
-276589	Objc
-276603	Objc
-276608	Subj
-276612	Pred
-276620	Objc
-276624	Objc
-276630	Pred
-276634	Subj
+276540	Objc
+276543	Objc
+276549	Subj
+276551	Objc
+276556	Pred
+Subj
+276559	Objc
+276566	Objc
+276576	Subj
+276585	Subj
+276597	Subj
+276600	Objc
+276620	Subj
 Pred
-276638	Objc
-276645	Subj
-276648	Objc
-276655	Pred
-276659	Subj
-Pred
-276681	Objc
+276633	Objc
+276648	Subj
+276667	Objc
 276686	Objc
-276703	Subj
-276719	Objc
-276725	Objc
-276730	Objc
-276733	Pred
+Objc
+276702	Objc
+276706	Subj
+276720	Objc
+276724	Subj
 276743	Subj
-276756	Pred
-276767	Subj
-276774	Subj
-276783	Pred
-276788	Pred
-276790	Pred
-276797	Objc
-276818	Subj
+276748	Objc
+276752	Pred
+276756	Subj
+276761	Pred
+276765	Subj
+276768	Objc
+276777	Subj
+276788	Subj
+276795	Objc
+276813	Subj
 276820	Pred
-276831	Cmpl
-276843	Objc
-276847	Subj
-276860	Objc
-276866	Subj
-276871	Pred
-276889	Subj
+276823	Subj
+276833	Pred
+276835	Subj
+276842	Pred
+276844	Subj
+Pred
+276852	Subj
+276867	Pred
+276869	Subj
+276877	Pred
+Subj
+276885	Pred
+276891	Pred
 276896	Objc
-276902	Objc
+276907	Subj
 276909	Subj
-276913	Subj
-276937	Subj
+276914	Objc
+276926	Subj
+276929	Pred
+Subj
+276934	Pred
 276953	Subj
-276964	Subj
-276968	Objc
-276973	Subj
-276982	Pred
-276987	Subj
-276989	Pred
-277008	Objc
-277025	Subj
-277038	Pred
-277040	Pred
+276956	Subj
+276961	Objc
+276965	Objc
+276968	Pred
+276974	Objc
+276986	Subj
+276989	Objc
+276994	Subj
+277018	Subj
+277030	Subj
+Subj
+277035	Objc
+277040	Subj
+277043	Subj
+277048	Pred
 277050	Objc
-277063	Subj
-277082	Subj
-277093	Subj
-277098	Objc
-277101	Pred
-277106	Subj
-277119	Objc
-277128	Objc
-277142	Subj
-277145	Pred
-277148	Subj
-277152	Subj
-277161	Objc
-277165	Objc
-277173	Pred
-277181	Subj
-277183	Subj
-277190	Objc
-277212	Subj
-277219	Objc
-277231	Subj
-277240	Pred
-277243	Subj
+277057	Subj
+277063	Pred
+277072	Subj
+277074	Subj
+277083	Objc
+277086	Subj
+277094	Objc
+277100	Pred
+277103	Subj
+277114	Subj
+277117	Pred
+277124	Subj
+277133	Pred
+Subj
+277140	Objc
+277144	Pred
+277152	Objc
+277159	Subj
+277162	Pred
+277172	Objc
+Subj
+277177	Cmpl
+277186	Subj
+277191	Pred
+277193	Subj
+277209	Subj
+277219	Pred
+277227	Subj
+277241	Subj
+277261	Subj
+Subj
+277267	Objc
+277292	Objc
+277294	Subj
+277297	Objc
+277359	Subj
+277363	Objc
+277370	Pred
+277372	Subj
+277395	Subj
+277402	Pred
+Subj
+277408	Pred
+277412	Pred
+277416	Pred
+277420	Subj
+277422	Objc
+277427	Objc
+277433	Objc
+277444	Objc
+277446	Objc
+277461	Subj
+277467	Objc
+277473	Objc
+277475	Subj
+277481	Subj
 Objc
-277251	Pred
-277259	Subj
-277262	Objc
-277272	Objc
-277277	Objc
-277280	Objc
-277285	Objc
-277312	Objc
-277319	Objc
-277322	Subj
-277369	Subj
-277373	Pred
-277385	Subj
-277389	Cmpl
-277397	Objc
-277407	Subj
-277418	Pred
-277428	Subj
-277437	Subj
+277487	Cmpl
+277494	Subj
+277516	Objc
+277520	Subj
+277529	Subj
+277533	Objc
+277540	Cmpl
+Subj
+277545	Objc
+277549	Pred
+Subj
+277557	Subj
+277563	Pred
+277570	Subj
 Objc
-277443	Objc
-277453	Subj
-277465	Objc
-277498	Subj
-277547	Subj
-277549	Subj
-277572	Subj
-277640	Subj
-277645	Subj
-277647	Pred
-277652	Subj
-277655	Subj
-277662	Objc
-Objc
-277675	Subj
-277682	Subj
-277686	Objc
-277702	Objc
-277720	Subj
-277749	Objc
-277755	Subj
-277778	Objc
-277785	Subj
-277826	Subj
+Subj
+277594	Cmpl
+277597	Subj
+277615	Pred
+277619	Pred
+277647	Subj
 Pred
-277842	Objc
-277849	Objc
-277855	Subj
-277858	Objc
-277862	Subj
+277661	Cmpl
+Subj
+277666	Pred
+277671	Pred
+277716	Pred
+277718	Subj
+277729	Subj
+277734	Pred
+277736	Subj
+277741	Subj
+277744	Subj
+277748	Objc
+277754	Subj
+277756	Subj
+277771	Pred
+Subj
+277800	Subj
+277802	Pred
+277810	Objc
+277816	Objc
+277819	Objc
+277824	Objc
+277835	Subj
+277847	Subj
+Pred
+277857	Pred
+277859	Subj
 277871	Objc
-277875	Subj
-277893	Objc
-277909	Subj
-277913	Objc
-277915	Cmpl
-277927	Objc
-277934	Subj
-277936	Pred
-277940	Objc
-277972	Subj
-277976	Subj
-277985	Pred
-277989	Pred
-278011	Pred
-278025	Subj
-278029	Subj
-278034	Subj
-278047	Subj
-278054	Objc
-278059	Subj
-278062	Pred
-278066	Pred
-278081	Pred
-278085	Pred
-278093	Subj
-278112	Subj
-278135	Pred
-278137	Pred
+277877	Pred
+277881	Objc
+277911	Objc
+Cmpl
+277918	Objc
+277927	Cmpl
+277940	Cmpl
+277947	Cmpl
+277965	Subj
+277988	Objc
+278007	Objc
+278053	Subj
+278056	Objc
+278058	Subj
+278062	Objc
+Subj
+278067	Objc
+Subj
+278075	Subj
+278097	Cmpl
+278100	Subj
+278102	Subj
+Pred
+278117	Subj
+278126	Subj
+278132	Objc
 278140	Subj
-Pred
-278144	Subj
-278152	Objc
-278161	Pred
-278164	Pred
-278171	Subj
-278190	Objc
-278204	Subj
-278217	Objc
-278224	Subj
-278227	Pred
-Pred
-278251	Subj
-278255	Objc
-278264	Subj
-278285	Objc
-278303	Subj
-278344	Subj
-278350	Objc
-278361	Objc
-278366	Objc
-278377	Subj
-Cmpl
-278380	Objc
-278388	Subj
-278403	Objc
-278412	Pred
-278416	Pred
-278424	Cmpl
-278428	Subj
-278434	Objc
-278444	Subj
-278456	Subj
-278473	Cmpl
-278476	Objc
-278480	Cmpl
-278486	Subj
-Pred
-278512	Subj
+278145	Pred
+278147	Subj
+Subj
+278177	Pred
+278180	Cmpl
+278230	Objc
+278243	Subj
+278258	Subj
+278269	Subj
+278276	Subj
+278282	Subj
+278284	Pred
+278287	Subj
+278293	Subj
+278296	Subj
+278323	Subj
+278325	Pred
+278332	Subj
+278336	Subj
+278350	Subj
+278389	Pred
+278396	Subj
+278399	Subj
+278404	Pred
+278410	Subj
+278414	Pred
+278431	Subj
+278518	Pred
 278520	Subj
-Objc
-278533	Cmpl
-278544	Subj
-278563	Subj
-278567	Cmpl
-278570	Cmpl
-278588	Subj
-278605	Subj
-Pred
-278617	Subj
-278624	Pred
-278626	Objc
-278632	Pred
-278642	Objc
-278660	Objc
+278535	Pred
+278537	Subj
+278540	Subj
+278545	Subj
+278551	Subj
+278555	Subj
+278561	Subj
+278570	Subj
+278593	Objc
+278601	Subj
+278607	Subj
+278621	Subj
+278651	Subj
 278665	Subj
-278670	Objc
-278688	Subj
-278698	Subj
-278704	Subj
-278718	Subj
-278722	Objc
-278726	Pred
-278739	Subj
-278756	Subj
-278759	Pred
-278766	Pred
-278769	Subj
-278773	Subj
-278778	Cmpl
-278781	Subj
-278787	Subj
-278792	Subj
-278809	Cmpl
-278811	Subj
-278814	Pred
+278676	Pred
+278694	Objc
+278697	Subj
+278707	Subj
+278717	Subj
+Objc
+278743	Subj
+278750	Subj
+278770	Subj
+278774	Subj
+278776	Pred
+278793	Subj
+278809	Objc
 278816	Objc
-278820	Subj
-278843	Objc
-278853	Objc
-278857	Subj
-278862	Subj
+278821	Objc
+278824	Cmpl
+278829	Objc
+Cmpl
+278840	Objc
+278845	Objc
+278848	Cmpl
+278851	Subj
+278859	Pred
+278863	Pred
+278866	Objc
+278872	Pred
+278876	Pred
+278884	Cmpl
+278886	Objc
 Objc
-278871	Subj
-278897	Subj
-278906	Objc
-278911	Subj
-278925	Pred
-278942	Subj
-278953	Subj
-278963	Objc
-278969	Subj
-Objc
-278981	Cmpl
-278986	Subj
-278990	Subj
-279007	Objc
-279016	Objc
-279020	Subj
-279025	Subj
-279032	Pred
-279035	Subj
-279038	Cmpl
-279043	Subj
-279045	Objc
-279047	Objc
-279061	Pred
-279064	Pred
-279068	Cmpl
-279072	Pred
-279084	Subj
-279086	Objc
-279090	Subj
-279103	Objc
-279108	Objc
-279122	Objc
-279127	Objc
-279132	Objc
+278891	Pred
+278893	Objc
+278896	Pred
+278901	Pred
+278905	Subj
+278907	Cmpl
+278912	Pred
+278937	Cmpl
+278940	Objc
+278956	Objc
+278961	Objc
+278977	Objc
+278982	Objc
+Cmpl
+278991	Pred
+278997	Pred
+279002	Objc
+279010	Objc
+279013	Subj
+279019	Pred
+279030	Cmpl
+279034	Objc
+279049	Subj
+279057	Pred
 Subj
-279152	Objc
-279154	Subj
-279160	Pred
+279066	Pred
+279083	Objc
+279086	Subj
+279098	Subj
+279104	Cmpl
+279114	Subj
+279130	Subj
+279133	Pred
+279137	Pred
+279143	Subj
+279146	Pred
+279156	Subj
+Pred
+279159	Pred
+279166	Subj
+279186	Subj
+279195	Cmpl
+279201	Pred
+279232	Cmpl
+279250	Subj
+279262	Objc
+279265	Subj
+279268	Pred
+279272	Objc
+279282	Objc
+279291	Subj
+279297	Objc
+279300	Subj
+279312	Objc
+279319	Subj
+Pred
 Subj
-279164	Subj
-279172	Cmpl
+279330	Subj
+279333	Subj
+279337	Subj
+279343	Subj
+279356	Subj
+279360	Objc
+279368	Objc
+279375	Subj
+279379	Pred
+279381	Subj
+279389	Subj
+279395	Pred
+279399	Subj
+279404	Pred
+279410	Cmpl
+279412	Objc
+279418	Pred
 Subj
-279185	Pred
-279189	Subj
-279197	Subj
-Objc
-279201	Objc
-279206	Objc
-279208	Cmpl
-279211	Objc
-279216	Subj
-279233	Subj
-279236	Objc
-279248	Subj
-279281	Cmpl
-279286	Pred
-279290	Cmpl
-279294	Pred
-279302	Subj
-279309	Subj
-279314	Subj
-279318	Subj
-279324	Objc
-279327	Cmpl
-279334	Objc
-279336	Subj
-279342	Objc
-Objc
-279347	Subj
-279355	Subj
-279360	Subj
-279364	Objc
-279368	Subj
-279376	Subj
-279381	Objc
-279399	Objc
-279403	Subj
-279405	Objc
-279420	Subj
-279428	Subj
+279430	Subj
+279433	Pred
 279435	Subj
-279437	Subj
-279441	Subj
-279449	Objc
-Subj
-279454	Pred
-279464	Objc
-279470	Subj
-279477	Objc
-279482	Subj
-279489	Objc
-279498	Objc
-279513	Pred
-279519	Pred
-279535	Subj
+279437	Pred
+279445	Objc
+279452	Objc
+279454	Objc
+279457	Objc
+279459	Objc
+279463	Objc
+279466	Objc
+279473	Pred
+279477	Subj
+279479	Objc
+279481	Subj
+279497	Subj
+279499	Pred
+279506	Subj
+279515	Objc
+279521	Objc
+279526	Objc
+279530	Objc
+279534	Objc
+279537	Subj
 Objc
-279553	Subj
-279572	Subj
-279577	Objc
-279599	Subj
-279605	Subj
-279617	Subj
-279624	Subj
-279636	Subj
-279643	Pred
-279656	Subj
-279672	Objc
+279541	Subj
+279543	Objc
+279545	Subj
+279555	Objc
+279562	Objc
+279567	Subj
+279589	Subj
+279611	Objc
+279623	Pred
+279630	Pred
+279632	Subj
+279634	Subj
+Objc
+279648	Subj
+Cmpl
+279663	Subj
+279671	Objc
+279678	Objc
 279681	Subj
-279699	Subj
-279711	Subj
-279724	Objc
-279739	Subj
-279755	Pred
-279809	Cmpl
-279813	Objc
-279828	Subj
-279830	Subj
-279837	Subj
-279858	Subj
-279860	Objc
-279864	Subj
-279870	Subj
-279880	Objc
-279886	Objc
-279901	Pred
-279908	Subj
-279911	Objc
-279921	Objc
-279926	Objc
-279934	Objc
-279947	Subj
-279951	Pred
-279956	Subj
-279958	Subj
-279969	Cmpl
-279974	Objc
-279978	Objc
-279983	Objc
+279686	Pred
+279692	Subj
+279709	Objc
+279740	Subj
+279743	Objc
+279761	Objc
+279770	Subj
+279793	Pred
+279797	Objc
+279805	Pred
+279808	Objc
+279813	Subj
+279821	Pred
+Subj
+279834	Subj
+279841	Pred
+279845	Cmpl
+279860	Pred
+279864	Objc
+279868	Subj
+279880	Subj
+279889	Subj
+Objc
+279895	Subj
+279898	Pred
+279901	Subj
+Pred
+279905	Subj
+279909	Pred
+279913	Subj
+279917	Pred
+279923	Subj
+279929	Objc
+279947	Objc
+279971	Pred
+279993	Objc
+280002	Subj
 280008	Subj
-280025	Objc
-280028	Subj
-280058	Cmpl
-280097	Subj
-280122	Subj
-280131	Objc
-280145	Objc
-280166	Subj
-Cmpl
-280169	Pred
-280178	Pred
+Pred
+280016	Objc
+280036	Subj
+280049	Pred
+280054	Pred
+Pred
+280058	Pred
+280062	Pred
+280075	Pred
+Subj
+280096	Subj
+280104	Objc
+280116	Cmpl
+280120	Subj
+280135	Subj
+280172	Subj
+280189	Subj
+280194	Objc
+280226	Subj
+280232	Pred
 Objc
-280190	Subj
-280199	Pred
-280203	Objc
-280221	Subj
-280233	Objc
-280245	Subj
-280248	Subj
-280254	Subj
-280261	Pred
-280269	Objc
-280274	Objc
-280279	Cmpl
-280288	Cmpl
-280290	Subj
-280305	Objc
-280322	Objc
-280333	Subj
+280236	Subj
+280241	Objc
+280251	Subj
+280264	Objc
+280271	Subj
+280283	Objc
+280287	Pred
+Subj
+280308	Objc
+280311	Subj
+280320	Pred
+280323	Objc
+280327	Objc
+280342	Subj
+Pred
 280349	Objc
-280368	Objc
-280381	Objc
-280390	Subj
-280393	Subj
-280396	Subj
-280414	Subj
-Cmpl
-280421	Subj
-280429	Pred
-280434	Subj
-280440	Subj
-280446	Subj
-280456	Pred
-280473	Subj
-280479	Subj
-280483	Subj
-280490	Subj
-280492	Objc
-280498	Objc
-280506	Subj
-280515	Cmpl
-280532	Objc
-280546	Objc
-280575	Objc
-Cmpl
-280586	Subj
-280596	Subj
-280601	Pred
-280640	Subj
-280675	Pred
-280677	Objc
-280708	Subj
-280710	Objc
-280737	Subj
-280741	Pred
-280749	Subj
-280752	Subj
-280770	Objc
+280352	Objc
+280356	Objc
+280358	Objc
+280361	Objc
+280364	Objc
+280367	Objc
+280374	Subj
+280377	Pred
+280380	Subj
+Pred
+280384	Subj
+280386	Objc
+280400	Objc
+280408	Objc
+280411	Cmpl
+280413	Subj
+280420	Subj
+280423	Subj
+280433	Subj
+280435	Pred
+280442	Subj
+280448	Subj
+Objc
+280502	Objc
+280531	Objc
+280553	Objc
+280562	Subj
+280573	Subj
+280576	Pred
+280578	Subj
+280581	Pred
+280588	Pred
+280590	Subj
+280614	Subj
+280617	Pred
+280641	Pred
+Subj
+280646	Pred
+280657	Subj
+280661	Pred
+280665	Pred
+280673	Subj
+280677	Subj
+280693	Subj
+Pred
+280698	Pred
+280701	Subj
+Pred
+280708	Cmpl
+Subj
+Subj
+280720	Subj
+Pred
+280727	Subj
+280738	Subj
+280744	Pred
+280755	Pred
+280758	Subj
+280763	Subj
+280769	Objc
+280782	Objc
 280788	Subj
-280799	Subj
-280806	Pred
-280815	Subj
-280824	Objc
-280852	Pred
-280856	Subj
-280882	Objc
-280903	Subj
-280916	Subj
-280919	Pred
-280929	Subj
-280960	Subj
-280981	Subj
-280985	Subj
+280810	Cmpl
+280812	Subj
+280816	Objc
+280821	Objc
+280825	Objc
+280830	Objc
+280834	Subj
+Pred
+280842	Cmpl
+280848	Objc
+280853	Objc
+280872	Subj
+280875	Cmpl
+280885	Objc
+280891	Objc
+280899	Subj
+280913	Objc
+280916	Objc
+280921	Cmpl
+280926	Objc
+280932	Subj
+280939	Pred
+280943	Cmpl
+280948	Subj
+280954	Objc
+280960	Objc
+280962	Subj
+280976	Objc
+280982	Objc
 280990	Subj
-281003	Subj
-281058	Objc
-281084	Subj
-281087	Objc
-281102	Objc
-281114	Pred
-281127	Pred
+280994	Objc
+280999	Objc
+281010	Objc
+281021	Objc
+281035	Objc
+281040	Objc
+281066	Objc
+281073	Objc
+281083	Pred
+281090	Cmpl
+281092	Pred
+281095	Subj
+281098	Pred
+281103	Subj
+281113	Subj
+281122	Pred
 281131	Subj
+281135	Objc
+281141	Subj
 281150	Subj
-281154	Subj
-281195	Subj
-281199	Subj
-281203	Subj
-281212	Subj
-281215	Objc
-281223	Objc
-281243	Subj
-281247	Objc
-281261	Subj
-281263	Objc
-281275	Objc
-281280	Pred
-281290	Subj
-281294	Subj
-281298	Subj
-281305	Objc
+281153	Subj
+281157	Cmpl
+Objc
+Pred
+281170	Objc
+281178	Objc
+281188	Subj
+281191	Objc
+281267	Pred
+281272	Cmpl
+281274	Objc
+281285	Objc
+281293	Objc
+281298	Cmpl
+281307	Pred
 281311	Subj
-281315	Objc
-281341	Subj
-281343	Pred
-281356	Subj
-281377	Subj
-281382	Objc
-281384	Subj
+281319	Subj
+281331	Subj
+281340	Subj
+281359	Subj
+281366	Subj
+281368	Objc
+281371	Subj
+281378	Subj
+281380	Objc
+281386	Objc
+281388	Pred
+281391	Subj
+281410	Subj
+281412	Pred
+281419	Objc
+281443	Subj
+281446	Objc
+281466	Subj
+281469	Subj
+281481	Subj
+281487	Subj
+281493	Pred
+281501	Objc
 Subj
-281396	Objc
-281417	Cmpl
-281426	Objc
-281428	Objc
-281434	Subj
-281442	Subj
-281476	Subj
-281487	Objc
-281495	Subj
-281533	Objc
-281540	Subj
-281566	Subj
-281575	Subj
-281609	Objc
-281618	Subj
-281641	Subj
-281737	Objc
-281743	Subj
-281749	Objc
-281779	Subj
-281791	Subj
-281840	Objc
-281850	Objc
-281854	Subj
+281505	Subj
+281508	Objc
+281519	Objc
+281525	Objc
+281543	Pred
+Subj
+281550	Objc
+281553	Subj
+281555	Objc
+281558	Subj
+281562	Subj
+281564	Objc
+281570	Subj
+281576	Subj
+281599	Subj
+281614	Subj
+281622	Subj
+281626	Subj
+281628	Subj
+281630	Objc
+281642	Objc
+Subj
+281650	Objc
+281653	Pred
+281656	Objc
+281672	Objc
+281688	Subj
+281691	Objc
+281698	Subj
+281702	Pred
+281715	Subj
+281723	Objc
+281731	Objc
+281733	Subj
+281738	Objc
+281747	Objc
+281753	Objc
+281759	Subj
+281764	Objc
+281770	Objc
+281772	Cmpl
+Subj
+281777	Cmpl
+281781	Subj
+281784	Objc
+Cmpl
+281799	Subj
+281814	Subj
+281819	Pred
+Objc
+281822	Objc
+281824	Subj
+Objc
+281828	Subj
+281833	Subj
+281841	Cmpl
+Subj
 281869	Subj
-281877	Objc
-281890	Subj
-281896	Subj
-281904	Subj
-281914	Subj
-281920	Subj
-281939	Subj
-281970	Subj
-281974	Objc
-281981	Subj
-281991	Objc
-281995	Pred
-282003	Subj
-282014	Subj
-282021	Subj
+281872	Subj
+281895	Subj
+281904	Objc
+281927	Subj
+281930	Pred
+281937	Objc
+281940	Subj
+281945	Pred
+281949	Subj
+281954	Pred
+281960	Subj
+281977	Subj
+Pred
+281981	Objc
+281990	Objc
+281997	Objc
+282004	Subj
+282009	Pred
+282012	Pred
+Subj
+282018	Subj
+Pred
+282024	Subj
+282027	Pred
+Subj
+282035	Subj
+282038	Pred
+Subj
+282046	Subj
+282052	Subj
+282054	Pred
+282061	Pred
+282084	Subj
 Objc
-282051	Objc
-282063	Objc
-282076	Subj
-282079	Objc
-282082	Subj
-282084	Pred
-282094	Subj
-282112	Pred
-282165	Subj
-282181	Pred
-282187	Pred
-282189	Subj
-282195	Pred
-282209	Objc
-282219	Pred
-282226	Pred
-282249	Cmpl
-282258	Subj
-282279	Cmpl
-282294	Subj
-282309	Objc
-282328	Objc
-282335	Pred
-282341	Subj
+282090	Subj
+282093	Objc
+282097	Subj
+282099	Subj
+282106	Subj
+282113	Objc
+282119	Subj
+282122	Objc
+282132	Objc
+282136	Objc
+282141	Pred
+282146	Subj
+Pred
+282151	Subj
+282160	Subj
+282164	Subj
+282173	Pred
+282176	Subj
+282181	Objc
+282184	Subj
+282206	Subj
+282222	Subj
+282225	Objc
+282236	Pred
+282238	Subj
+282249	Subj
+282259	Subj
+282272	Objc
+282277	Subj
+282279	Pred
+282288	Objc
+282299	Pred
+282309	Pred
+282315	Pred
+282330	Subj
+282333	Objc
+282345	Subj
+282356	Subj
+282363	Subj
+282366	Objc
+282373	Objc
+282388	Pred
+Subj
+282395	Pred
+Subj
 282401	Subj
-282406	Subj
-282457	Cmpl
-282462	Objc
-282468	Objc
-282498	Objc
-282506	Subj
-282517	Subj
-282526	Objc
-282528	Subj
-282535	Subj
+282404	Objc
+282408	Subj
 Pred
-282541	Subj
-Pred
-282548	Pred
-282552	Objc
-282581	Pred
-282588	Objc
-282600	Subj
-282613	Subj
-282618	Objc
-282626	Subj
-282630	Subj
-Objc
-282635	Objc
-282652	Pred
-282662	Objc
-282668	Cmpl
-282673	Subj
-Objc
-282680	Subj
-282690	Subj
-282698	Subj
-282703	Subj
-282715	Objc
-282725	Subj
-282732	Objc
-282736	Subj
-282740	Objc
-282742	Pred
-282760	Subj
-282771	Subj
-282788	Subj
-282796	Pred
-282803	Subj
-282808	Subj
-282813	Objc
+282414	Subj
+282416	Cmpl
+282419	Cmpl
+282432	Subj
+282435	Cmpl
 Subj
-282824	Objc
-282835	Subj
+282447	Subj
+282459	Objc
+282464	Objc
+282475	Objc
+282503	Subj
+Pred
+Subj
+282529	Cmpl
+Cmpl
+282534	Pred
+282541	Objc
+282550	Cmpl
+282552	Subj
+282556	Objc
+282566	Objc
+282570	Subj
+282577	Objc
+282584	Subj
+282587	Pred
+282594	Subj
+282600	Pred
+282605	Objc
+282614	Cmpl
+282617	Objc
+282628	Objc
+282665	Subj
+282668	Pred
+282670	Objc
+282674	Cmpl
+282683	Pred
+282687	Objc
+282693	Pred
+282698	Objc
+282710	Objc
+282722	Objc
+282741	Objc
+282749	Objc
+282760	Pred
+282764	Cmpl
 Objc
-282840	Subj
-282854	Subj
-282869	Pred
-282874	Objc
-282885	Subj
-282887	Objc
-282900	Cmpl
+282771	Objc
+282778	Pred
+282791	Objc
+282796	Objc
+Cmpl
+282802	Pred
+Subj
+Subj
+282807	Subj
+282811	Subj
+282817	Objc
+282821	Objc
 Objc
-282943	Subj
-282958	Subj
-282963	Subj
-282974	Objc
-282994	Subj
-283004	Objc
-283010	Subj
-283017	Objc
-283029	Subj
-283040	Objc
-283047	Objc
-283065	Subj
-283075	Subj
-283083	Cmpl
-283086	Objc
-283091	Pred
-283101	Subj
-283129	Objc
-283152	Subj
-283160	Subj
-283183	Subj
-283202	Pred
-283215	Pred
-283218	Pred
-283227	Objc
-283264	Subj
-283273	Subj
-283275	Subj
-283285	Subj
-283291	Subj
+282825	Objc
+282850	Objc
+282853	Subj
+282856	Cmpl
+282863	Subj
+282881	Objc
+282884	Objc
+282895	Cmpl
 Objc
-283298	Objc
-283332	Subj
-283360	Objc
-283365	Subj
-283371	Subj
-283377	Subj
-283380	Objc
-283387	Objc
-283396	Subj
-283424	Objc
-283429	Objc
-283455	Objc
-283459	Subj
-283475	Subj
-283478	Objc
-283482	Objc
-283490	Subj
-283495	Objc
-283499	Objc
+282898	Subj
+282904	Pred
+282918	Objc
+282921	Objc
+282927	Objc
+282931	Pred
+282944	Objc
+282953	Objc
+282957	Pred
+282962	Pred
+282967	Objc
+282972	Pred
+282994	Objc
+282998	Pred
+283010	Cmpl
+Objc
+283014	Cmpl
+283019	Objc
+283022	Cmpl
+283027	Objc
+283030	Cmpl
+283035	Objc
+283038	Cmpl
+283043	Objc
+283046	Cmpl
+Objc
+283052	Objc
+283057	Objc
+283060	Objc
+283074	Subj
+283091	Objc
+283097	Objc
+Subj
+283101	Cmpl
+283104	Objc
+283107	Pred
+283111	Subj
+283115	Objc
+283122	Pred
+283124	Subj
+283131	Pred
+Subj
+283140	Subj
+283144	Subj
+283151	Objc
+283160	Objc
+283193	Objc
+283216	Subj
+283220	Objc
+283224	Objc
+283241	Subj
+283245	Objc
+283247	Subj
+Pred
+283252	Objc
+283267	Subj
+283271	Objc
+Subj
+283276	Objc
+283280	Subj
+283283	Objc
+283286	Subj
+283297	Objc
+283309	Objc
+283321	Objc
+283324	Subj
+283331	Subj
+283356	Pred
+283364	Subj
+283374	Subj
+283378	Objc
+283384	Subj
+283389	Objc
+283394	Subj
+283407	Subj
+283409	Subj
+283413	Subj
+283417	Subj
+283421	Objc
+283426	Subj
+283432	Objc
+283434	Cmpl
+283439	Objc
+283442	Objc
+283449	Cmpl
+283462	Subj
+Pred
+283471	Subj
+Pred
+283475	Pred
+283481	Subj
+283498	Objc
 283503	Subj
-283519	Subj
-283526	Pred
-283563	Subj
-283578	Objc
-283586	Cmpl
-283594	Subj
-283598	Subj
-283612	Objc
-283616	Subj
-283629	Objc
-283636	Objc
-283644	Objc
-283647	Objc
-283652	Subj
-283654	Objc
-283661	Subj
-Pred
-283698	Subj
-283701	Subj
-283708	Pred
+283508	Subj
+283516	Subj
+283544	Objc
+283547	Pred
+283552	Pred
+283580	Objc
+283587	Subj
+283589	Pred
+283591	Pred
+283600	Pred
+283604	Objc
+283607	Objc
+283612	Subj
+283618	Subj
+283620	Objc
+283631	Pred
+283635	Objc
+283638	Objc
+283648	Pred
+283651	Subj
+283654	Subj
+283656	Pred
+283659	Pred
+283667	Objc
+283677	Objc
+283679	Subj
+283682	Objc
+283694	Subj
+283701	Objc
+283706	Subj
+283712	Objc
+283717	Subj
+283744	Objc
+283748	Subj
+283761	Cmpl
 Objc
-283717	Cmpl
-283722	Subj
-283770	Subj
-283775	Subj
-Cmpl
-283779	Subj
-283788	Objc
-283792	Objc
-283794	Objc
-283797	Objc
-283823	Subj
-283845	Subj
-283867	Objc
-283873	Subj
-283876	Subj
-283903	Objc
-283907	Objc
-283916	Objc
-283930	Objc
-283935	Subj
-283948	Subj
-283950	Objc
-283956	Subj
-283976	Subj
-283979	Objc
-283985	Subj
-283989	Pred
-283995	Objc
-284004	Objc
-284026	Subj
-284058	Cmpl
-284062	Subj
-284078	Pred
-284091	Objc
-284097	Subj
-284109	Cmpl
-284134	Cmpl
-284147	Subj
-284151	Objc
-284192	Subj
-284195	Pred
-284203	Cmpl
-284211	Subj
-284220	Subj
-284236	Cmpl
-284245	Subj
-284249	Subj
-284252	Subj
-284255	Subj
+283781	Objc
+283796	Objc
+283798	Subj
+283804	Objc
+283814	Subj
 Pred
-284263	Objc
-284267	Subj
-284273	Subj
-284275	Objc
-284285	Objc
-284291	Subj
-284293	Subj
-284296	Objc
-284298	Subj
-284316	Objc
-284330	Objc
-284353	Subj
-284356	Subj
-284369	Objc
-284382	Subj
-Objc
-284393	Objc
-284401	Objc
-284407	Objc
-284411	Objc
-284429	Subj
-284450	Objc
+283828	Objc
+283835	Subj
+283843	Objc
+283852	Objc
+283857	Cmpl
+283883	Objc
+283888	Objc
 Subj
-284454	Objc
-284460	Objc
-284478	Objc
-284486	Objc
-284490	Subj
-284501	Objc
-284512	Objc
-284517	Subj
-284524	Subj
-284531	Subj
-284540	Objc
-284545	Pred
+283896	Subj
+283915	Subj
+283917	Subj
+283926	Objc
+283940	Subj
+283958	Subj
+283967	Subj
+283970	Pred
+283980	Objc
+283987	Cmpl
+283993	Objc
+284001	Cmpl
+284011	Subj
+Pred
+284022	Objc
+284031	Subj
+284038	Pred
+284065	Objc
+284068	Objc
+284071	Subj
+284098	Subj
+284111	Objc
+284126	Subj
+284139	Cmpl
+284146	Subj
+284164	Objc
+284173	Objc
+284198	Objc
+284219	Objc
+284227	Objc
+284248	Pred
+284259	Subj
+284270	Objc
+Objc
+284276	Cmpl
+Objc
+284306	Subj
+284365	Pred
+284385	Subj
+284393	Pred
+284401	Cmpl
+284409	Pred
+284420	Objc
+284437	Objc
+284440	Subj
+284444	Pred
+284466	Subj
+284474	Objc
+284480	Objc
+284515	Subj
+284517	Pred
+284528	Subj
+Objc
 284547	Subj
-284572	Objc
-284594	Subj
-284599	Objc
-284611	Subj
-284616	Subj
+284549	Pred
+284555	Subj
+Pred
+284604	Objc
+284628	Pred
+284645	Subj
 Objc
-284629	Objc
-284648	Objc
-284652	Objc
-284657	Subj
-284666	Subj
-284670	Objc
-284676	Objc
-Objc
-284684	Subj
-284687	Pred
-284691	Objc
-284705	Subj
-284720	Objc
-284724	Subj
-284732	Pred
-284741	Subj
-284748	Subj
-284759	Objc
-284765	Objc
-284771	Subj
-284805	Pred
-284827	Subj
-Cmpl
-284833	Cmpl
-284840	Subj
-284862	Subj
-284869	Subj
-284888	Objc
-284894	Subj
+284706	Objc
+284713	Objc
+Subj
+284725	Subj
+284741	Objc
+Subj
+284750	Subj
+284763	Objc
+284777	Objc
+284784	Subj
+284801	Subj
+Pred
+284809	Pred
+284816	Subj
+284825	Objc
+284838	Subj
+284848	Pred
+284852	Objc
+284871	Objc
+284876	Objc
+284883	Objc
 284897	Objc
-284903	Subj
-284909	Subj
-Cmpl
-284914	Subj
-284926	Subj
-Objc
-284934	Objc
-284948	Subj
-284959	Subj
-284980	Subj
-Objc
-284985	Subj
-284999	Objc
-285008	Subj
-285019	Objc
-285031	Pred
-285097	Objc
-285109	Subj
-285131	Subj
-285133	Pred
-285139	Subj
-285151	Subj
-285165	Objc
-285175	Subj
-285193	Objc
-Cmpl
-285199	Objc
-285203	Objc
-285206	Objc
-285212	Subj
+284914	Objc
+284980	Cmpl
+Subj
+285021	Pred
+285039	Objc
+285059	Cmpl
+285073	Objc
+285091	Cmpl
+285114	Subj
+285126	Subj
+285135	Objc
+285147	Subj
+285150	Objc
+285154	Objc
+285168	Pred
+Subj
+285194	Objc
+285210	Objc
+285214	Subj
 285218	Pred
-285221	Objc
-285250	Objc
-285292	Pred
-285301	Objc
-285304	Pred
-285311	Subj
-285324	Objc
-285348	Pred
-285354	Subj
-285356	Subj
-285361	Cmpl
-Subj
-285367	Objc
-285378	Subj
-285390	Cmpl
-285411	Objc
-285449	Subj
-285459	Subj
-285508	Subj
-285524	Subj
-285535	Pred
-Subj
-285566	Pred
-285569	Subj
-285573	Pred
-Objc
-285591	Subj
-285602	Pred
-Subj
-285610	Subj
-285613	Objc
-285625	Objc
-285630	Objc
-285667	Subj
-285683	Objc
-285690	Objc
-Cmpl
-285694	Objc
-285704	Subj
-285806	Subj
-285809	Subj
-285812	Subj
-285818	Pred
-Subj
-285841	Subj
-285847	Objc
-285857	Subj
-285865	Subj
-285874	Subj
-285877	Subj
-285889	Objc
-285906	Subj
-285909	Subj
-285912	Subj
-285934	Subj
-285948	Objc
-285979	Subj
-285993	Subj
-286009	Subj
-286011	Subj
-286018	Subj
-286023	Subj
-286045	Subj
-286047	Objc
-286062	Subj
-286087	Subj
-286091	Subj
-286121	Subj
-286125	Objc
-286134	Objc
-286140	Subj
-286152	Objc
-286155	Cmpl
-286162	Pred
-286184	Subj
-286194	Objc
-286200	Subj
+285221	Subj
+285243	Cmpl
+285256	Subj
 Pred
-286205	Pred
-286221	Subj
-286250	Cmpl
-286255	Pred
-286266	Subj
-286269	Objc
-286273	Subj
-286280	Subj
+285263	Objc
+285265	Subj
+285269	Subj
+285272	Pred
+Subj
+285275	Pred
+Subj
+285278	Pred
+Subj
+285281	Pred
+285283	Subj
+285287	Subj
+285303	Objc
+285314	Subj
+285327	Objc
+285338	Objc
+285345	Objc
+Subj
+285359	Subj
+285378	Pred
+285384	Pred
+285391	Objc
+285399	Objc
+285407	Pred
+Subj
+Pred
+Subj
+Pred
+Subj
+285421	Subj
+285424	Objc
+285444	Subj
+285452	Objc
+285456	Subj
+285473	Subj
 Objc
-286283	Subj
+285477	Subj
+Objc
+285480	Subj
+285483	Objc
+285486	Cmpl
+285488	Objc
+Cmpl
+285491	Objc
+285510	Subj
+285517	Pred
+285523	Subj
+285530	Pred
+285536	Objc
+285544	Pred
+Subj
+285550	Pred
+Subj
+285553	Pred
+Subj
+285556	Objc
+285564	Subj
+285569	Objc
+285573	Objc
+285581	Subj
+285586	Objc
+285601	Subj
+285614	Subj
+285626	Subj
+285628	Pred
+285632	Subj
+285654	Subj
+285670	Cmpl
+Objc
+285681	Objc
+285694	Subj
+285741	Subj
+285759	Objc
+285767	Objc
+285799	Objc
+285801	Subj
+285814	Objc
+Subj
+285832	Objc
+285843	Objc
+Subj
+285848	Subj
+285859	Objc
+285861	Subj
+285866	Objc
+Cmpl
+285870	Subj
+285878	Subj
+285882	Objc
+285884	Objc
+285893	Subj
+285898	Objc
+285918	Objc
+285925	Subj
+285929	Subj
+285936	Subj
+285939	Objc
+285967	Cmpl
+Objc
+285988	Objc
+285990	Subj
+285996	Objc
+286005	Pred
+286016	Subj
+286022	Objc
+Subj
+286029	Subj
+286032	Objc
+286035	Subj
+286037	Objc
+Subj
+286040	Objc
+286044	Subj
+286049	Cmpl
+286064	Objc
+Objc
+286068	Objc
+286079	Pred
+286083	Pred
+286090	Pred
+286100	Subj
+Subj
+286104	Pred
+Subj
+286107	Subj
+Pred
+286110	Pred
+286112	Pred
+286115	Subj
+Pred
+286119	Subj
+286125	Cmpl
+286129	Subj
+286133	Subj
+286135	Subj
+286138	Subj
+286147	Pred
+286152	Subj
+286163	Pred
+286165	Subj
+286167	Objc
+286180	Pred
+286203	Cmpl
+286209	Objc
+286211	Subj
+286214	Subj
+286219	Objc
+286223	Subj
+286230	Subj
+286236	Subj
+286251	Subj
+286256	Pred
+286258	Subj
+286269	Subj
+286274	Pred
+286276	Subj
+286279	Objc
+286282	Subj
+286288	Objc
 286290	Objc
-286305	Subj
-286316	Objc
-286322	Objc
-286328	Objc
-286332	Subj
-286355	Pred
-286359	Subj
-286361	Objc
-286372	Subj
-286399	Subj
-286402	Subj
-286458	Subj
-286471	Subj
-286476	Pred
-286483	Subj
-286491	Subj
-286508	Subj
-286539	Subj
-286551	Objc
-286569	Objc
-286571	Subj
-286574	Cmpl
-286585	Objc
-286593	Objc
-286597	Cmpl
-286599	Subj
+286293	Subj
+286300	Subj
+286312	Pred
+286317	Subj
+286329	Subj
 Objc
-286620	Objc
-286627	Subj
-286644	Subj
+286339	Objc
+Subj
+286343	Subj
+286351	Pred
+286353	Pred
+286355	Subj
+Subj
+Objc
+286360	Subj
+286362	Pred
+286374	Pred
+286378	Pred
+Subj
+286389	Pred
+286400	Objc
+286412	Subj
+286414	Objc
+286423	Pred
+286425	Subj
+286430	Subj
+286432	Pred
+286451	Pred
+Subj
+286454	Pred
+Subj
+286457	Pred
+286459	Objc
+286461	Subj
+286481	Objc
+Subj
+286486	Pred
+286503	Objc
+286505	Objc
+286518	Objc
 Pred
-286658	Subj
-286667	Pred
-286691	Pred
-286701	Subj
-Cmpl
-286725	Objc
-286729	Subj
-286742	Subj
-286749	Subj
-286751	Pred
-286764	Subj
-286767	Cmpl
-286788	Objc
-286790	Objc
-286810	Objc
-286813	Pred
-286818	Cmpl
-286825	Cmpl
+286526	Objc
+286531	Subj
+286534	Subj
+286537	Objc
+286546	Objc
+286555	Subj
+286565	Objc
+286586	Subj
+286590	Subj
+286602	Subj
+286604	Objc
+286609	Objc
+286636	Subj
+286643	Subj
+286656	Pred
+286665	Subj
+Pred
+286670	Subj
+286672	Pred
+286676	Subj
+Pred
+Subj
+286680	Pred
+Subj
+Pred
+Subj
+286685	Pred
+286717	Pred
+286733	Objc
+286735	Objc
+286747	Objc
+286756	Objc
+286769	Subj
+Objc
+286774	Objc
+Pred
+286785	Cmpl
+286787	Subj
+286789	Pred
+286800	Subj
+Objc
+286803	Objc
+286826	Subj
 286831	Subj
-286839	Pred
-286848	Subj
-286854	Subj
-286863	Objc
-286868	Subj
-286877	Objc
-286886	Subj
-286893	Subj
-286899	Objc
-286909	Objc
-286955	Subj
-286960	Subj
-286967	Subj
-Objc
-287005	Objc
-287009	Subj
-287017	Objc
-287022	Objc
-287027	Subj
-287043	Pred
-287047	Subj
-287064	Subj
-287083	Subj
-287085	Pred
-287089	Subj
-287099	Objc
-287131	Subj
-287139	Subj
-287141	Objc
-287149	Subj
-287152	Pred
-287159	Subj
+286839	Subj
+286858	Pred
+286861	Subj
+286869	Pred
+286872	Objc
+286899	Subj
+286901	Pred
+286907	Objc
+286909	Subj
+286915	Subj
+286931	Objc
+286937	Subj
+286955	Objc
+286988	Objc
+286991	Cmpl
+287002	Subj
+287016	Pred
+Subj
+287025	Subj
+287028	Objc
+287035	Objc
+287042	Pred
+287047	Pred
+Subj
+287083	Cmpl
+287124	Cmpl
+287128	Subj
+287130	Pred
+287149	Pred
+287152	Objc
+287157	Objc
+287160	Subj
 287162	Objc
-Cmpl
-287170	Subj
-287182	Objc
-287190	Pred
-287221	Objc
-287225	Subj
-287230	Objc
-287245	Objc
-287263	Pred
+287166	Subj
+287171	Objc
+287180	Subj
+287183	Objc
+287207	Subj
+287210	Objc
+287220	Subj
+287223	Pred
+287231	Objc
+287234	Objc
 Objc
-287274	Objc
-287290	Pred
-287302	Objc
-287313	Subj
-287317	Objc
-287356	Subj
-Pred
-287361	Objc
-287376	Subj
+287249	Objc
+287254	Cmpl
+287259	Pred
+287262	Subj
+287265	Subj
+287278	Subj
+287292	Pred
+287296	Objc
+287314	Subj
+287320	Objc
+287325	Subj
+Objc
+287353	Objc
+287358	Pred
+Subj
 287390	Subj
+287395	Subj
+287397	Subj
+287402	Subj
+287407	Subj
+287410	Pred
+287414	Subj
+287417	Pred
+287420	Subj
 287429	Subj
-287439	Subj
-Pred
-287464	Objc
+287442	Subj
+287445	Pred
+287448	Subj
+287453	Objc
+287458	Objc
 287470	Subj
-287475	Objc
-287482	Objc
-287502	Objc
-287506	Objc
-287523	Subj
-287537	Objc
-287552	Objc
-287559	Subj
-287562	Cmpl
-287569	Objc
-Cmpl
-287578	Objc
-287588	Objc
-287605	Objc
-287607	Subj
+287475	Pred
+287481	Objc
+287489	Objc
+287500	Cmpl
+287503	Pred
+287510	Subj
+287513	Pred
+287521	Cmpl
+287524	Pred
+287529	Objc
+287532	Subj
+287535	Objc
+287538	Subj
+Pred
+287560	Subj
+287565	Pred
+287585	Pred
+287591	Objc
+287604	Objc
+287606	Pred
+287608	Objc
+287617	Subj
+Objc
+287625	Subj
+Objc
+287632	Cmpl
+287635	Subj
 287638	Objc
-287646	Objc
-287659	Subj
-287671	Pred
-287677	Objc
-287685	Subj
-Cmpl
-287698	Pred
-287722	Subj
-287732	Objc
+287644	Subj
+287649	Cmpl
+287652	Subj
+287663	Subj
+287668	Subj
+287681	Subj
+287686	Objc
+287703	Pred
+287712	Objc
+Subj
+287723	Objc
+287735	Subj
+287739	Pred
 287745	Subj
-287757	Subj
-287767	Subj
-287809	Subj
-287815	Subj
-287817	Subj
-287841	Subj
-287845	Objc
-287853	Subj
 Objc
-287871	Subj
-287881	Objc
-287890	Subj
-287896	Pred
-287906	Subj
-287909	Objc
-287921	Subj
-287931	Subj
-287959	Objc
+287753	Subj
+287756	Subj
+287768	Pred
+287780	Pred
+287796	Subj
+287807	Pred
+287814	Subj
+Objc
+287818	Cmpl
+287830	Subj
+287833	Objc
+287838	Subj
+287846	Objc
+287849	Subj
+287851	Objc
+287855	Subj
+287863	Objc
+287868	Subj
+287882	Subj
+287896	Subj
+287901	Pred
+287905	Pred
+287909	Subj
+287933	Objc
+Subj
+287937	Objc
+287942	Objc
+287947	Objc
+287951	Objc
+287957	Cmpl
+287960	Subj
+287963	Objc
 287966	Subj
-287986	Subj
-287994	Subj
-287999	Objc
-288031	Subj
-288038	Pred
-288042	Pred
+287982	Subj
+287990	Subj
+287993	Subj
+287996	Pred
+287999	Subj
+288002	Pred
+288005	Subj
+288010	Subj
+288022	Pred
+288031	Pred
+288035	Subj
+288044	Pred
 288049	Subj
-288079	Subj
-288092	Subj
-288116	Subj
-288119	Objc
-288123	Subj
-288131	Objc
-288135	Objc
-288138	Pred
-288144	Subj
-288150	Pred
-288169	Objc
-288181	Subj
+288054	Pred
+288062	Pred
+288065	Subj
+288084	Objc
+288089	Objc
+288098	Pred
+288102	Subj
 Pred
-288211	Subj
-288224	Objc
-288228	Objc
+288113	Pred
+288116	Pred
+288122	Objc
+288129	Objc
+288139	Subj
+288144	Objc
+288150	Subj
+288153	Subj
+288155	Objc
+288157	Objc
+288161	Subj
+288171	Subj
+288175	Objc
+288201	Objc
+288209	Subj
+288220	Subj
+Pred
+288223	Subj
+288227	Objc
 288234	Objc
+288241	Objc
 288248	Objc
-288251	Objc
-288260	Subj
-288277	Objc
-288290	Objc
-288314	Cmpl
-288330	Objc
-288338	Cmpl
-288352	Objc
-288355	Subj
-288360	Cmpl
-Objc
-288375	Objc
-288389	Subj
-288426	Objc
-288431	Objc
+288265	Objc
+288272	Pred
+288285	Objc
+288292	Objc
+288295	Objc
+288309	Objc
 Cmpl
-288450	Subj
-288471	Objc
+288326	Subj
+288338	Pred
+288343	Objc
+288349	Subj
+288362	Objc
+Objc
+288374	Objc
+288384	Objc
+288395	Objc
+288406	Objc
+288408	Subj
+288416	Subj
+288424	Subj
+288427	Pred
+288429	Objc
+288436	Pred
+288451	Subj
+Objc
+288464	Subj
+Objc
+288467	Subj
+288471	Subj
+288477	Subj
+288480	Objc
 288488	Subj
-288501	Subj
-288507	Subj
-Objc
-288520	Objc
-288525	Cmpl
-288534	Objc
-288539	Objc
-288568	Subj
-288577	Subj
-288599	Subj
-288607	Subj
-288628	Objc
-288637	Subj
-288640	Objc
+288490	Objc
+288493	Subj
+288510	Pred
 Subj
-288647	Subj
-288651	Subj
-288653	Objc
-288661	Objc
-288749	Subj
-288752	Objc
-288769	Objc
-288785	Objc
-288789	Objc
+288517	Pred
+Subj
+288521	Pred
+288526	Subj
+288539	Subj
+Pred
+288542	Subj
+Pred
+288546	Pred
+288551	Pred
+288554	Subj
+288558	Subj
+Pred
+288563	Pred
+288567	Pred
+288570	Subj
+288574	Subj
+Pred
+288580	Pred
+288583	Subj
+288586	Subj
+288588	Pred
+288598	Objc
+288601	Subj
+288606	Pred
+288609	Subj
+288611	Objc
+288614	Cmpl
+288630	Subj
+288637	Pred
+288644	Subj
+288649	Objc
+288655	Subj
+288660	Pred
+288666	Objc
+288687	Subj
+288699	Objc
+288712	Subj
+288714	Objc
+288723	Objc
+288731	Objc
+288739	Pred
+288742	Pred
+288752	Pred
+288757	Subj
+288766	Pred
+288771	Pred
+288781	Subj
+288786	Subj
+288792	Objc
+288795	Pred
 288799	Objc
-288825	Objc
+288806	Objc
+288811	Subj
+288835	Objc
+288838	Subj
+288844	Subj
+288846	Objc
+288848	Objc
+288856	Subj
+288858	Objc
+288875	Objc
+288878	Subj
+288883	Objc
+288897	Objc
+288936	Subj
+Cmpl
 Objc
-288840	Subj
-288843	Objc
-288868	Objc
-288880	Objc
-288886	Objc
-288894	Objc
-288922	Subj
-288924	Objc
-288932	Cmpl
-288943	Objc
-288977	Subj
-288987	Pred
-288994	Subj
-289020	Subj
-289038	Objc
-289053	Subj
-289065	Cmpl
-289083	Objc
+288942	Pred
+288944	Subj
+Objc
+288952	Subj
+Objc
+288961	Subj
+288965	Objc
+288971	Objc
+288975	Objc
+288979	Cmpl
+288990	Objc
+288994	Objc
+289012	Subj
+289019	Objc
+289029	Subj
+289033	Objc
+289039	Objc
+289046	Pred
+289052	Objc
+289057	Subj
+289064	Pred
+Subj
+Subj
+289070	Subj
+289072	Pred
+289080	Objc
+289082	Objc
+289087	Objc
+289089	Pred
 289091	Subj
-289139	Cmpl
-289153	Objc
-289155	Objc
+289101	Objc
+289109	Objc
+289119	Pred
+289125	Cmpl
+Objc
+289129	Objc
+289138	Pred
+289142	Objc
+289149	Pred
+289156	Subj
+Pred
+289161	Objc
+289170	Pred
+289175	Pred
+289179	Pred
+289184	Objc
+289191	Pred
+289193	Objc
+289201	Pred
+289204	Objc
+289206	Objc
+289215	Pred
+289227	Subj
+289230	Subj
+289233	Objc
+289240	Subj
+289247	Subj
+289251	Objc
+289255	Subj
+289257	Objc
 Subj
-289170	Subj
-289194	Subj
-289199	Objc
-Cmpl
-289212	Subj
-289214	Pred
-289218	Objc
-289231	Cmpl
-289248	Subj
-289252	Subj
-289268	Cmpl
-289271	Subj
+289269	Objc
 289273	Objc
-289288	Subj
-289293	Subj
-289295	Objc
-289301	Objc
-289304	Cmpl
-289309	Objc
-289315	Objc
-289328	Objc
-289331	Subj
-289336	Subj
-289339	Subj
+289282	Cmpl
+289284	Subj
+Pred
+289290	Subj
+289294	Subj
+289301	Pred
+289308	Subj
+289316	Subj
+289335	Subj
+Objc
 289345	Subj
-289349	Subj
-289356	Subj
-289360	Subj
-289364	Objc
-289368	Subj
-289376	Objc
-289416	Objc
-289451	Objc
-289457	Subj
 Objc
-289461	Objc
-289466	Subj
-Objc
+289363	Subj
+289368	Pred
+289381	Subj
+289391	Subj
+289393	Pred
+289402	Subj
+Pred
+289407	Subj
+289410	Pred
+289413	Subj
+289419	Subj
+289431	Subj
+289440	Subj
+289445	Objc
+289449	Subj
+289463	Subj
 289474	Subj
-289484	Subj
-289491	Pred
-289504	Cmpl
-Subj
+289489	Subj
+289504	Subj
 Objc
-289538	Objc
-289552	Subj
+289510	Subj
+Pred
+289513	Subj
+289516	Subj
+289519	Subj
+289523	Objc
+289532	Objc
+289551	Cmpl
+289554	Subj
+Objc
+289557	Subj
+289564	Objc
+289567	Pred
 289577	Subj
-289594	Subj
-289621	Subj
-289625	Objc
-289631	Objc
-289655	Objc
+289580	Objc
+289583	Pred
+289594	Pred
+Subj
+Pred
+289599	Subj
+289603	Subj
+289616	Objc
+289626	Objc
+289629	Pred
+289635	Objc
+289639	Subj
+Pred
+289644	Subj
+Pred
+289649	Objc
 289660	Subj
-289666	Pred
+Pred
+289669	Objc
+289674	Objc
 289679	Objc
-289688	Subj
-289708	Objc
+289684	Objc
+289689	Objc
+289693	Pred
+289696	Subj
+289700	Subj
+289702	Subj
+289706	Subj
+289708	Subj
+Objc
 289714	Objc
-289722	Subj
-289726	Subj
-289740	Subj
-289750	Subj
-289757	Objc
-289761	Objc
-Subj
-289781	Objc
-289786	Objc
-289802	Subj
-289805	Subj
-289810	Subj
-289836	Subj
-289849	Subj
-289856	Pred
-289884	Objc
-289911	Objc
-289925	Pred
-289933	Objc
-289935	Objc
-289940	Cmpl
-289961	Pred
-289980	Objc
-289997	Objc
-290007	Pred
-290021	Subj
-290028	Pred
-290034	Pred
-290046	Subj
+289719	Objc
+289727	Objc
+289734	Pred
+289748	Subj
+289751	Objc
+289758	Objc
+289762	Cmpl
+289764	Objc
+289773	Subj
+Cmpl
+289776	Subj
+Pred
+289808	Subj
+289820	Subj
+289828	Subj
+289836	Objc
+289838	Objc
+289845	Pred
+289860	Subj
+289862	Objc
+289879	Pred
+289884	Subj
+Pred
+289888	Objc
+289891	Objc
+289896	Cmpl
+Objc
+289903	Subj
+289906	Pred
+289913	Subj
+289917	Pred
+289921	Subj
+289924	Pred
+289930	Subj
+289933	Subj
+289944	Objc
+289949	Subj
+289962	Objc
+289980	Subj
+289985	Pred
+289992	Subj
+289998	Objc
+290001	Pred
+290007	Subj
+290011	Pred
+290018	Subj
+Pred
+290023	Subj
+Pred
+290032	Subj
+290039	Subj
+290049	Subj
 290052	Objc
-290055	Subj
-290057	Cmpl
-290059	Subj
-290066	Objc
-290078	Objc
-290088	Subj
-290094	Subj
-290097	Pred
-290121	Objc
-290138	Subj
-290178	Subj
-290180	Cmpl
-290182	Subj
-290192	Objc
-290196	Subj
-290198	Pred
-290219	Objc
-290221	Subj
-290231	Objc
-290239	Subj
+290066	Subj
+Pred
+290071	Subj
+Pred
+290080	Subj
+290083	Pred
+290089	Subj
+290094	Pred
+290099	Subj
+290103	Pred
+290116	Subj
+290119	Cmpl
+290124	Subj
+290130	Objc
+290132	Subj
+290136	Pred
+290139	Subj
+290143	Pred
+290147	Subj
+290154	Cmpl
+290157	Subj
+290159	Pred
+290161	Subj
+Objc
+290168	Subj
+290175	Objc
+290198	Subj
+290203	Subj
+290209	Objc
+290215	Subj
+290218	Pred
+290223	Subj
+290228	Pred
+290235	Subj
+290243	Objc
 290247	Subj
-290250	Cmpl
-290260	Pred
-290267	Subj
-290279	Objc
-290286	Pred
-290290	Subj
-Objc
-290301	Objc
-290303	Objc
-290308	Subj
-290310	Objc
-Subj
-290333	Pred
-290344	Pred
-290361	Subj
-290368	Subj
-290372	Objc
-290377	Pred
-290383	Objc
-290416	Subj
+290249	Objc
+290260	Subj
+290263	Subj
+290268	Objc
+290278	Objc
+290291	Objc
+290293	Cmpl
+290295	Objc
+290301	Subj
+290309	Objc
+290312	Cmpl
+290326	Objc
+290332	Subj
+290344	Objc
+290354	Objc
+290364	Subj
+290369	Pred
+290382	Objc
+290398	Objc
+290404	Objc
+290408	Objc
+290421	Subj
+290424	Objc
 290429	Objc
-290434	Objc
-290441	Objc
-290463	Objc
-290472	Objc
-290476	Objc
-290493	Objc
-290506	Subj
+290437	Pred
+290452	Subj
+Objc
+290474	Objc
 Cmpl
-290518	Objc
-290523	Subj
-290531	Subj
-Pred
-290541	Objc
-290547	Objc
-290558	Subj
-290576	Objc
-290578	Cmpl
-290602	Subj
-290605	Subj
-290617	Subj
-290619	Pred
-290643	Objc
-290649	Objc
-290662	Subj
-290666	Objc
-290680	Subj
-290700	Subj
-290703	Subj
-290709	Subj
-290719	Objc
-290722	Objc
-290735	Subj
-290744	Subj
-290750	Objc
-290753	Objc
-290764	Pred
+290481	Objc
+290490	Subj
+290496	Subj
+290499	Objc
+290529	Objc
+290532	Subj
+290544	Objc
+290561	Subj
+290566	Pred
+290583	Cmpl
+290585	Subj
+290594	Pred
 Subj
-290797	Subj
-290804	Subj
-290810	Objc
+290597	Subj
+290600	Pred
+Subj
+290609	Subj
+290614	Subj
+290621	Subj
+290626	Subj
+290632	Subj
+290644	Objc
+290650	Cmpl
+290653	Subj
+290664	Cmpl
+290673	Subj
+290676	Cmpl
+290678	Subj
+290688	Cmpl
+Subj
+290697	Cmpl
+290699	Subj
+290709	Cmpl
+290711	Subj
+290714	Cmpl
+290716	Subj
+Cmpl
+290719	Subj
+290722	Cmpl
+Subj
+290726	Cmpl
+290728	Subj
+290731	Objc
+290746	Cmpl
+290753	Subj
+290756	Pred
+290759	Objc
+290763	Subj
+290773	Pred
+290775	Pred
+290780	Subj
+290810	Subj
+Objc
 290815	Subj
-290818	Objc
-290820	Objc
-290826	Objc
-290830	Objc
-290835	Subj
-290846	Subj
-290862	Objc
-290883	Subj
-290895	Objc
-290897	Cmpl
-Objc
-290913	Pred
-290916	Subj
-290929	Subj
-290932	Objc
-290944	Subj
-290948	Subj
+290830	Subj
+290836	Pred
+290839	Pred
+290850	Pred
+290858	Subj
+290864	Pred
+290867	Pred
+290878	Pred
+290884	Subj
+290889	Pred
+Pred
+Subj
+290895	Subj
+Pred
+Pred
+Subj
+290903	Subj
+290925	Subj
+290928	Pred
+290931	Pred
+Subj
+290937	Pred
+290939	Subj
+Pred
+290942	Subj
+290946	Subj
+290950	Cmpl
+290953	Objc
+290960	Subj
+290963	Cmpl
+290966	Objc
 290975	Subj
-290981	Subj
-291000	Subj
-291018	Objc
-291023	Subj
-291026	Subj
-291033	Subj
-291036	Subj
-291040	Subj
-291042	Objc
-291044	Cmpl
-291051	Subj
-291059	Subj
-291065	Subj
+290984	Pred
+290986	Pred
+290989	Subj
+290991	Pred
+290997	Cmpl
 Objc
-291071	Pred
-291074	Subj
-291076	Pred
-291092	Objc
+291003	Subj
+291008	Objc
+291012	Subj
+291019	Objc
+291022	Subj
+291026	Objc
+291031	Objc
+291038	Subj
+Pred
+291045	Objc
+291052	Subj
+291058	Subj
+291062	Subj
+291069	Subj
+291071	Subj
+291076	Subj
+291089	Objc
+291092	Subj
+291101	Objc
 291103	Objc
-291139	Subj
-291150	Objc
-291157	Subj
-291160	Subj
-Objc
-291252	Subj
-291258	Objc
-291263	Subj
+291105	Objc
+291107	Objc
+291118	Subj
 Pred
-291274	Subj
-291283	Subj
-291297	Subj
+291121	Subj
+Pred
+291124	Subj
+Pred
+291127	Subj
+Pred
+291130	Subj
+Objc
+291136	Subj
+291140	Subj
+291144	Objc
+291157	Objc
+Cmpl
+291173	Objc
+291188	Objc
+291205	Objc
+291211	Objc
+291213	Objc
+291217	Pred
+291222	Objc
+291231	Objc
+291238	Objc
+291242	Objc
+291244	Subj
+291249	Subj
+291254	Subj
+291265	Objc
+291272	Objc
+291287	Objc
+291289	Objc
+291291	Objc
+291293	Objc
+291295	Subj
+291302	Subj
 291305	Subj
-291307	Pred
-291315	Objc
-291326	Objc
-291342	Objc
-291377	Subj
-291394	Pred
-291402	Objc
-291421	Pred
-291425	Objc
+291308	Subj
+291323	Subj
+291326	Subj
+291334	Pred
+291349	Pred
+291351	Objc
+291367	Objc
+291393	Pred
+291396	Subj
+291400	Objc
+291405	Objc
+291417	Cmpl
+291420	Cmpl
+Subj
+291424	Cmpl
+291427	Objc
+291431	Cmpl
 291441	Objc
-291457	Objc
-291482	Subj
-291495	Objc
+291446	Objc
+291450	Subj
+291459	Pred
+291472	Subj
+291475	Objc
+291487	Objc
 Objc
-291511	Objc
-291523	Objc
-291530	Objc
-291547	Objc
-291560	Subj
-291564	Objc
-291581	Subj
-291584	Objc
-291593	Objc
-291605	Objc
-291624	Objc
-291631	Objc
-291645	Pred
-Subj
-291659	Objc
-291675	Objc
-291683	Subj
-291699	Objc
-291730	Objc
-291740	Objc
-291750	Subj
-291752	Objc
-291758	Objc
-291760	Cmpl
-291771	Objc
-291786	Objc
-291804	Objc
-291810	Objc
-291830	Pred
-291861	Objc
-291864	Objc
-291870	Subj
-291875	Objc
-291878	Subj
-291881	Subj
-291901	Subj
-291908	Objc
-291927	Subj
-291941	Subj
-291960	Subj
-291967	Subj
-291972	Subj
-291979	Objc
-291981	Subj
-291992	Objc
-292000	Subj
-292002	Pred
-292008	Pred
-292016	Objc
-292018	Objc
-292026	Objc
-292043	Subj
-292058	Objc
-292068	Subj
-292070	Objc
-292088	Subj
-292090	Objc
-292099	Objc
-292109	Subj
-292115	Subj
-292120	Subj
-292127	Objc
-292132	Objc
-292157	Objc
-292162	Objc
-292175	Pred
-292181	Subj
-292187	Subj
-292192	Subj
-292197	Objc
-292202	Subj
-292214	Subj
-292229	Objc
-292234	Subj
-292249	Objc
-292257	Objc
-292281	Subj
-292293	Subj
-Cmpl
-292317	Objc
-292324	Subj
-292334	Pred
-292348	Subj
-292353	Cmpl
-292358	Subj
-292370	Objc
-292387	Pred
-292407	Pred
-292411	Subj
-292414	Objc
-292426	Subj
-292430	Subj
-292435	Objc
-292440	Objc
-292460	Subj
-292496	Pred
-Objc
-292500	Objc
-292512	Subj
-292573	Subj
-292579	Objc
-292583	Objc
-292586	Objc
-292592	Pred
-292607	Objc
-292610	Objc
-292624	Pred
-292637	Objc
-292659	Subj
-292665	Subj
-292673	Objc
-292695	Objc
-292702	Objc
-292714	Objc
-292720	Subj
-292742	Subj
-292746	Objc
-292753	Subj
-292762	Subj
-292768	Subj
-292778	Subj
-292781	Objc
-292786	Subj
-292799	Subj
-292835	Objc
-292841	Subj
-Objc
-292862	Objc
-292866	Subj
-292871	Subj
-292877	Subj
-292891	Objc
-292897	Subj
-292907	Objc
-292914	Subj
-292918	Subj
-292922	Subj
-292933	Pred
-292946	Subj
-292952	Subj
-292962	Objc
-292967	Subj
-292971	Subj
-292980	Objc
-292994	Subj
-292997	Subj
-293000	Subj
-293004	Subj
-293019	Subj
-293026	Objc
-293039	Subj
-293047	Objc
-293051	Pred
-293055	Objc
-293067	Objc
-293072	Cmpl
-293081	Objc
-293094	Subj
-293098	Objc
-293105	Cmpl
-293110	Subj
-Objc
-293115	Objc
-293137	Objc
-293147	Objc
-293149	Subj
-293161	Subj
-293166	Objc
-293194	Objc
-293201	Subj
-Objc
-293213	Objc
-293236	Objc
-293241	Objc
-293243	Objc
-293255	Objc
-293276	Objc
-293293	Objc
-293307	Cmpl
-293316	Subj
-293321	Objc
-293331	Subj
-293342	Objc
-Cmpl
-Objc
-293355	Pred
-293361	Pred
-293366	Subj
-293389	Cmpl
-293397	Subj
-293402	Objc
-293434	Subj
-293439	Cmpl
-293452	Objc
-293463	Subj
-293471	Subj
-293473	Subj
-293482	Objc
-293489	Subj
-293506	Objc
-293527	Objc
-293530	Objc
-293547	Subj
-293550	Subj
-293558	Subj
-293560	Objc
-293606	Subj
-293609	Objc
-293630	Subj
-293632	Objc
-293642	Objc
-293645	Cmpl
-293654	Subj
-293664	Subj
-293671	Objc
-293692	Subj
-293716	Subj
-293722	Cmpl
-Subj
-Objc
-293762	Subj
-293765	Subj
-293775	Subj
-293782	Pred
-293801	Subj
-293808	Subj
-293813	Objc
-293819	Subj
-293836	Subj
-293839	Cmpl
-293841	Cmpl
-293851	Subj
-293865	Subj
-293876	Objc
-293892	Subj
-293904	Subj
-293912	Objc
-293920	Subj
-Cmpl
-Objc
-293928	Subj
+291492	Cmpl
+291513	Objc
+291520	Objc
+291533	Subj
+291537	Objc
+291542	Subj
+291548	Subj
+291558	Objc
+291573	Subj
+291581	Pred
+291585	Subj
 Pred
-293935	Pred
-293949	Objc
-293957	Objc
-293960	Objc
-293969	Objc
-293975	Subj
-293980	Subj
+291591	Objc
+291601	Pred
+291608	Pred
+291614	Pred
+291641	Subj
+291647	Subj
+291653	Pred
+291655	Pred
+291686	Objc
+291695	Objc
+291706	Objc
+291710	Subj
+291716	Subj
+291722	Objc
+291736	Objc
+291746	Objc
+291751	Objc
+291759	Pred
+291773	Pred
+291792	Cmpl
+291801	Objc
+291803	Subj
+291805	Subj
+291808	Pred
+291819	Subj
+291833	Subj
+291844	Subj
+291858	Subj
+291862	Subj
+291875	Subj
+291884	Pred
+291893	Objc
+291899	Subj
+291902	Pred
+291906	Pred
+291912	Subj
 Objc
-293988	Objc
-294002	Subj
-294007	Objc
-294022	Subj
-294040	Subj
-294042	Objc
-294074	Subj
-294076	Subj
-294080	Subj
-294093	Subj
-294109	Objc
-294114	Subj
+291915	Objc
+291917	Objc
+291919	Objc
+291921	Objc
+291923	Subj
+Pred
+291930	Subj
+291945	Subj
+291951	Subj
+291963	Subj
+291971	Subj
+291977	Cmpl
+291981	Subj
+291990	Subj
+291993	Subj
+291996	Subj
+291999	Subj
+292002	Cmpl
+292007	Pred
+Subj
+292012	Pred
+292025	Subj
+292037	Cmpl
+292042	Subj
+292050	Objc
+292056	Objc
+292062	Pred
+292074	Subj
+292089	Subj
+292096	Objc
+292098	Cmpl
+292100	Pred
+292106	Subj
+292122	Subj
+292132	Cmpl
+292134	Objc
+292137	Objc
+292139	Cmpl
 Objc
-294121	Objc
+292157	Cmpl
+292167	Cmpl
+292171	Objc
+292175	Subj
+292210	Cmpl
+292212	Cmpl
+292226	Subj
+292233	Subj
+292238	Cmpl
+292240	Cmpl
+292250	Cmpl
+292254	Cmpl
+Subj
+292258	Pred
+292265	Subj
+292268	Pred
+292270	Pred
+292273	Objc
+292285	Pred
+292299	Pred
+292334	Subj
+292343	Subj
+292349	Subj
+292356	Subj
+292362	Subj
+292366	Subj
+292369	Pred
+292371	Subj
+292376	Pred
+Subj
+292386	Pred
+292405	Objc
+292410	Subj
+292415	Subj
+292419	Subj
+292423	Subj
+292426	Pred
+Subj
+292434	Pred
+292442	Subj
+292465	Pred
+292483	Pred
+292486	Subj
+Pred
+292492	Subj
+292502	Subj
+292512	Subj
+292514	Subj
+292523	Pred
+Subj
+292526	Subj
+292539	Subj
+292544	Objc
+292547	Cmpl
+292565	Subj
+292571	Objc
+292590	Objc
+292604	Subj
+292606	Pred
+292612	Cmpl
+Objc
+292619	Cmpl
+Subj
+292624	Subj
+292634	Cmpl
+Objc
+292640	Subj
+292643	Pred
+292648	Objc
+292659	Subj
+292669	Subj
+292688	Objc
+292707	Pred
+292709	Subj
+292713	Subj
+292725	Objc
+292728	Subj
+292736	Objc
+292740	Subj
+292745	Cmpl
+292749	Subj
+292752	Subj
+292761	Subj
+Objc
+292770	Objc
+292780	Objc
+292792	Subj
+292797	Cmpl
+Objc
+292802	Cmpl
+292807	Objc
+292811	Subj
+292814	Pred
+292820	Pred
+292822	Subj
+Pred
+292825	Subj
+292828	Pred
+292830	Subj
+292833	Pred
+292835	Subj
+292845	Pred
+292847	Subj
+292854	Pred
+292856	Subj
+292861	Pred
+Subj
+292866	Pred
+Subj
+292871	Pred
+Subj
+292875	Subj
+292883	Subj
+292917	Subj
+292921	Subj
+292926	Subj
+292930	Subj
+292948	Subj
+292961	Subj
+292965	Subj
+292969	Subj
+292972	Subj
+292980	Pred
+Subj
+292986	Pred
+292989	Pred
+Subj
+292993	Pred
+Subj
+293000	Pred
+Subj
+293004	Pred
+Subj
+293013	Objc
+293021	Objc
+293030	Objc
+293038	Objc
+293045	Subj
+293048	Objc
+293053	Objc
 Cmpl
-294137	Subj
-294145	Objc
-294159	Subj
-294161	Objc
-294174	Pred
-294203	Subj
-294233	Subj
-294250	Subj
-294262	Objc
-294271	Objc
-294275	Objc
-294329	Subj
-294354	Subj
+293056	Subj
+293059	Subj
+293080	Subj
+293086	Subj
+293090	Subj
+293096	Objc
+293098	Subj
+293104	Objc
+293107	Subj
+293113	Objc
+293115	Subj
+293121	Objc
+293130	Subj
+293136	Pred
+Subj
+293143	Pred
+Subj
+293150	Subj
+293158	Pred
+293161	Subj
+293169	Pred
+293176	Subj
+293179	Cmpl
+Objc
+293198	Pred
+293215	Subj
+293222	Pred
+293241	Cmpl
+293249	Subj
+293258	Subj
+293266	Objc
+293275	Subj
+293280	Objc
+293286	Objc
+293289	Objc
+293299	Pred
+293302	Subj
+293329	Subj
+Objc
+293338	Objc
+293346	Objc
+293354	Subj
+293368	Subj
+293378	Pred
+293382	Subj
+293385	Pred
+293390	Objc
+293401	Subj
+293403	Objc
+293407	Objc
+293418	Objc
+293433	Objc
+293448	Subj
+293465	Subj
+293468	Pred
+293474	Objc
+293484	Pred
+293493	Cmpl
+293497	Objc
+293499	Subj
+293527	Objc
+293532	Subj
+293547	Objc
+293551	Objc
+Subj
+293560	Objc
+293580	Objc
+Subj
+293587	Objc
+293593	Subj
+293604	Subj
+293607	Objc
+293611	Pred
+293614	Subj
+293622	Pred
+293625	Subj
+293630	Pred
+293664	Pred
+293676	Pred
+293684	Cmpl
+293697	Pred
+Subj
+293726	Objc
+293740	Subj
+293742	Objc
+293756	Subj
+293765	Subj
+293782	Subj
+293821	Objc
+Subj
+293827	Subj
+293832	Pred
+293839	Pred
+293854	Subj
+293866	Pred
+293881	Subj
+293887	Subj
+293891	Objc
+293915	Objc
+293918	Subj
+293925	Objc
+293938	Subj
+293953	Subj
+293967	Subj
+293976	Pred
+294022	Cmpl
+294025	Objc
+294040	Objc
+294045	Pred
+294050	Subj
+294053	Pred
+294079	Objc
+294110	Objc
+294120	Objc
+294128	Pred
+294140	Pred
+294142	Subj
+294192	Pred
+294197	Subj
+294206	Pred
+294215	Subj
+294218	Cmpl
+294230	Objc
+294239	Objc
+294244	Objc
+294247	Objc
+294261	Subj
+294263	Objc
+Objc
+294277	Objc
+294292	Pred
+294321	Subj
+294323	Objc
+Subj
+294329	Objc
+294339	Objc
+294345	Objc
+294351	Subj
+294360	Subj
+294365	Pred
+294380	Cmpl
 294390	Objc
-294447	Objc
-294461	Objc
+294395	Objc
+294403	Subj
+294406	Objc
+294415	Objc
+294418	Pred
+294438	Subj
+294450	Subj
+294455	Subj
+294460	Objc
+294469	Objc
+294478	Pred
+294480	Cmpl
+294482	Objc
 294484	Subj
-294501	Subj
-294508	Subj
-294514	Subj
-294521	Objc
-294527	Subj
+Subj
+294489	Objc
+294492	Objc
+294512	Objc
+294535	Subj
+Cmpl
 294543	Objc
 294552	Subj
-294561	Subj
-294564	Cmpl
-294579	Subj
-294605	Objc
-294609	Subj
-294614	Cmpl
-294618	Subj
-294638	Cmpl
-294657	Pred
-294669	Subj
-Objc
-294683	Subj
+294561	Objc
+294570	Subj
+294574	Objc
+294581	Objc
+294600	Pred
+294618	Pred
+294628	Pred
+294640	Subj
+Pred
+294647	Subj
+294651	Objc
+294677	Objc
+294685	Objc
+294695	Pred
 294700	Subj
+294721	Pred
+294750	Objc
+294770	Pred
+294773	Objc
+294780	Subj
+294785	Pred
+294790	Subj
+294793	Objc
 Objc
-294720	Subj
-294733	Pred
-294735	Pred
-294742	Subj
-294745	Subj
-294749	Subj
-294752	Subj
-294759	Pred
-294773	Subj
-294778	Subj
-294792	Subj
-294795	Subj
-294819	Objc
-294837	Subj
-294841	Objc
-294856	Objc
-294866	Objc
-294877	Objc
-294892	Subj
-294894	Subj
-294902	Subj
-294905	Subj
-294931	Subj
-294940	Subj
-294955	Subj
+294804	Subj
+294809	Subj
+294816	Subj
+294836	Subj
+294865	Subj
+294878	Subj
+294885	Pred
+294890	Subj
+294935	Objc
+294945	Subj
+294947	Objc
+294960	Subj
+294975	Subj
+294988	Subj
+295019	Subj
+Subj
+295037	Subj
+295040	Subj
+295044	Pred
+295050	Subj
+295055	Subj
+Subj
+295063	Objc
+295091	Objc
+295102	Objc
+295116	Objc
+295132	Objc
+295151	Subj
+295166	Subj
+295176	Objc
+295188	Subj
+295203	Subj
+295205	Pred
+295212	Objc
+295217	Objc
 Objc
-294967	Objc
-294984	Subj
-294993	Subj
-294995	Subj
-295001	Objc
-295008	Objc
-295020	Objc
-295027	Subj
-295033	Objc
-295041	Subj
-295056	Subj
-Objc
-295069	Subj
-295074	Objc
-295083	Pred
-295088	Subj
-295100	Objc
-295110	Subj
-295114	Subj
-295124	Objc
-295126	Objc
-295136	Objc
-295140	Objc
-295147	Objc
-295153	Objc
-295157	Objc
-295163	Objc
-295175	Objc
-295180	Subj
-295184	Subj
-295190	Subj
-295194	Objc
-295202	Subj
-295205	Objc
-295220	Subj
-295243	Subj
-295248	Subj
-Objc
-295255	Objc
-295270	Subj
-Objc
-295280	Objc
-295287	Subj
-295289	Subj
-295304	Subj
-295310	Objc
-295313	Objc
-295331	Subj
-295358	Subj
-295367	Subj
-295371	Objc
-295378	Subj
-295393	Objc
-295440	Subj
-295442	Objc
-295453	Subj
+295220	Objc
+295227	Pred
+295235	Subj
+295237	Subj
+295268	Objc
+295279	Subj
+295287	Pred
+295292	Pred
+295315	Objc
+295329	Subj
+295359	Subj
+295379	Subj
+295386	Subj
+295395	Objc
+295411	Subj
+295426	Objc
+295438	Subj
+295442	Pred
+295446	Subj
 295455	Objc
-295462	Cmpl
-295477	Pred
-295492	Objc
-295509	Subj
-295511	Pred
-295516	Subj
-295522	Objc
-295540	Objc
-295549	Objc
-295556	Subj
-295560	Objc
-295587	Objc
-295619	Subj
+295473	Subj
+295484	Subj
+295493	Subj
+295509	Objc
+295515	Cmpl
+295518	Subj
+295528	Pred
+295533	Pred
+295538	Subj
+295589	Pred
+295591	Subj
+295596	Pred
+295613	Subj
+295624	Objc
+295633	Cmpl
 Objc
-295623	Subj
-295659	Subj
-295668	Objc
-295690	Cmpl
+295694	Pred
+295715	Subj
+Objc
+295725	Objc
+295728	Objc
+295730	Objc
+295733	Objc
+295740	Objc
+295759	Objc
+295761	Cmpl
+295763	Objc
+295766	Cmpl
+295788	Cmpl
+295791	Cmpl
 Subj
-295705	Objc
-295711	Objc
-295716	Objc
-295725	Subj
-295750	Pred
-295755	Objc
-295779	Subj
+295801	Objc
+295803	Objc
+295805	Subj
+295811	Subj
+295835	Subj
+295841	Objc
+295852	Objc
+295859	Subj
 Pred
-295782	Cmpl
-295786	Pred
-295804	Objc
-295812	Subj
-295820	Pred
+295863	Pred
+295866	Subj
+295872	Subj
 Subj
-295834	Objc
-295855	Objc
-295890	Objc
-295910	Subj
-295914	Cmpl
-295921	Objc
-295924	Pred
-295937	Subj
-295946	Subj
-295951	Subj
-295961	Objc
-295965	Subj
-295972	Subj
-295998	Objc
-296009	Subj
-296019	Objc
-296034	Subj
-296043	Subj
-296049	Objc
-296058	Objc
-296070	Subj
-296078	Subj
-296080	Objc
-296087	Subj
-296090	Objc
-296101	Objc
-296104	Objc
-296117	Objc
-296120	Subj
-296140	Objc
-296147	Objc
-296167	Objc
-296169	Objc
-296177	Subj
-296180	Pred
-296184	Objc
-296196	Objc
-296202	Objc
-296207	Objc
+295877	Pred
+295884	Objc
+Cmpl
+295891	Cmpl
+Objc
+295901	Subj
+295907	Objc
+295909	Cmpl
+295912	Cmpl
+Objc
+295923	Objc
+295936	Subj
+295954	Objc
+295958	Objc
+295961	Subj
+295963	Pred
+295977	Objc
+295985	Subj
+295992	Objc
+296000	Objc
+296002	Pred
+Subj
+296007	Pred
+Subj
+296011	Objc
+296021	Subj
+296029	Objc
+296125	Pred
+296127	Pred
+296148	Pred
+Objc
+296153	Objc
+296156	Objc
+296158	Subj
+296168	Subj
+296188	Objc
+296195	Cmpl
+296198	Subj
+296206	Subj
+296208	Pred
+296213	Subj
+Pred
 296219	Subj
-296256	Objc
-296266	Objc
-296269	Objc
-296284	Objc
-296294	Cmpl
-296298	Objc
-296306	Pred
-296322	Subj
-296327	Subj
+296221	Pred
+296228	Subj
+Pred
+296234	Subj
+296236	Pred
+296243	Subj
+296245	Pred
+296253	Subj
+296265	Pred
+296269	Subj
+296271	Pred
+296284	Subj
+296286	Objc
+296289	Subj
+296291	Objc
+296295	Pred
+296299	Subj
+296302	Pred
+296310	Objc
+296319	Objc
+296330	Objc
 296337	Objc
-296340	Subj
-296344	Objc
-296347	Objc
-296353	Subj
-296359	Subj
-296365	Subj
 Objc
-296387	Objc
-296406	Objc
-296436	Objc
-296445	Objc
-296449	Subj
-296469	Pred
-296471	Subj
-296478	Subj
-Objc
-296484	Subj
-296490	Subj
-296494	Objc
-296507	Subj
-296512	Subj
-296519	Subj
-296528	Subj
-296538	Subj
-296543	Subj
-296556	Objc
-296568	Subj
-296570	Objc
-296580	Subj
-296583	Subj
-296603	Subj
-296605	Objc
-296614	Objc
-296623	Subj
-Objc
-296630	Subj
-296653	Objc
-296656	Subj
-296658	Subj
-296671	Subj
-296675	Pred
-296689	Objc
-296704	Pred
-296706	Subj
-296712	Subj
+296340	Objc
+296342	Objc
+296352	Pred
+296366	Pred
+296368	Subj
+296372	Pred
+296374	Subj
+296398	Subj
+296404	Objc
+Subj
+296415	Pred
+Subj
 Pred
-296717	Subj
-296725	Subj
-296731	Pred
-296736	Objc
-296739	Subj
+Subj
+296422	Objc
+296426	Objc
+296462	Cmpl
+296483	Subj
+296490	Objc
+296503	Subj
+296514	Objc
+296539	Subj
+296547	Objc
+296555	Subj
+296563	Objc
+296575	Objc
+296578	Cmpl
+296596	Objc
 Pred
-296750	Subj
+296606	Cmpl
+296665	Subj
+296677	Objc
 Cmpl
-296756	Subj
-296759	Subj
-296767	Subj
-296772	Pred
-296778	Subj
-296787	Subj
-296805	Objc
-296819	Subj
-296854	Objc
-296861	Subj
-296886	Subj
-296890	Pred
-296895	Pred
-296938	Subj
-296943	Objc
-296952	Subj
-296966	Objc
-Subj
-296972	Subj
+296687	Objc
+296692	Cmpl
+296694	Subj
+296705	Pred
+296708	Subj
+296713	Pred
+296719	Objc
+296733	Objc
+296745	Cmpl
+296820	Objc
+296844	Objc
+296862	Subj
 Objc
-296978	Subj
-296983	Subj
-296987	Subj
-296997	Subj
-297010	Cmpl
-Subj
-297025	Pred
-297027	Pred
-297045	Pred
-297053	Subj
-297056	Pred
-297060	Pred
-297088	Pred
+296873	Objc
+296930	Objc
+296944	Objc
+296960	Pred
+296963	Subj
+296971	Objc
+296976	Subj
+296980	Subj
+296997	Objc
+297004	Subj
+297011	Subj
+297021	Subj
+297028	Pred
+297037	Subj
+297039	Subj
+297041	Pred
+297051	Subj
+297064	Subj
+297081	Subj
+297085	Objc
+297092	Objc
 297097	Subj
-297101	Subj
-297104	Subj
-297108	Subj
-297123	Subj
-297139	Pred
-297144	Objc
-297153	Objc
-297167	Pred
-297173	Subj
-297182	Objc
-297188	Objc
-297205	Cmpl
-297267	Objc
-297294	Subj
-297297	Subj
-297300	Subj
-297304	Subj
-297307	Subj
-297338	Objc
-297341	Subj
-297364	Cmpl
-297390	Objc
-297402	Subj
-297409	Subj
-297414	Subj
-297421	Pred
-297428	Subj
-297443	Pred
-297452	Subj
-Subj
-297463	Subj
-297484	Pred
-297488	Subj
-297494	Subj
+297104	Objc
+297120	Objc
+297125	Pred
+297138	Objc
+297141	Subj
+297152	Pred
+297170	Pred
+297201	Objc
+297203	Subj
+Objc
+297220	Objc
+297236	Objc
+297241	Objc
+297247	Pred
+297252	Pred
+297284	Objc
+297327	Pred
+297332	Cmpl
+297335	Objc
+297340	Objc
+297345	Cmpl
+297347	Subj
+297353	Subj
+297359	Objc
+297364	Objc
+297400	Subj
+297403	Subj
 Pred
-297499	Subj
+297406	Subj
+297410	Subj
+297418	Objc
+297422	Objc
+297432	Objc
+297439	Subj
 Pred
-297511	Subj
-297558	Subj
-297564	Subj
-297570	Subj
-297575	Subj
-Subj
-297581	Subj
-297584	Subj
-297602	Subj
-297637	Subj
-297656	Subj
-297661	Subj
-297666	Objc
-297703	Subj
-297720	Subj
-297728	Objc
-297732	Objc
-297734	Objc
+297452	Objc
+297471	Subj
+297485	Objc
+297490	Subj
+297495	Subj
+297498	Objc
+297510	Objc
+297526	Cmpl
+297529	Subj
+297543	Objc
+297547	Objc
+297554	Objc
+297561	Objc
+297579	Subj
+297584	Objc
 Cmpl
-297739	Cmpl
-297745	Objc
-297747	Objc
+297589	Subj
+297603	Objc
+297633	Objc
+297672	Subj
+297679	Objc
+297695	Subj
 Cmpl
-297756	Pred
-297758	Pred
-297768	Pred
-297770	Pred
-297790	Cmpl
-297794	Pred
-297808	Cmpl
-297821	Objc
-297829	Objc
-297831	Cmpl
-297838	Pred
+297714	Objc
+297726	Subj
+297731	Pred
+297759	Objc
+297775	Subj
+297786	Pred
+297788	Pred
+297816	Objc
+297834	Objc
+297839	Subj
 297844	Objc
-297850	Subj
-297862	Cmpl
-Objc
-297875	Subj
-297880	Subj
-297883	Pred
-297898	Subj
-297906	Subj
-297908	Cmpl
-297916	Subj
-297927	Subj
+297851	Subj
+297854	Pred
+297856	Objc
+297864	Subj
+Pred
+297867	Subj
+297884	Objc
+297886	Subj
+297908	Objc
+297915	Subj
+297923	Subj
 297931	Pred
-297937	Subj
-297944	Pred
-297950	Subj
-297965	Cmpl
-297971	Pred
-297987	Cmpl
-298009	Subj
-298016	Objc
-298023	Objc
-298026	Subj
-298032	Subj
-298036	Objc
-298050	Subj
-298052	Subj
-298057	Subj
-298067	Subj
-298079	Subj
-298082	Subj
-298089	Subj
-298097	Subj
-298106	Subj
-298114	Subj
-298148	Subj
-298160	Pred
-298173	Objc
-298192	Subj
-298199	Objc
-298204	Objc
-298207	Subj
-298222	Subj
-298239	Pred
-298244	Pred
-298254	Cmpl
-298266	Subj
-298268	Objc
+297933	Subj
+297937	Objc
+297939	Subj
+297943	Pred
+297953	Pred
+297965	Objc
+297969	Objc
+297972	Subj
+297976	Objc
+297980	Objc
+297984	Subj
+298003	Objc
+298005	Cmpl
+Subj
+298009	Objc
+298025	Objc
+298054	Objc
+298058	Subj
+298107	Objc
+298109	Subj
+298111	Pred
+298113	Objc
+Subj
+298120	Objc
+Objc
+298129	Objc
+298132	Objc
+298138	Objc
+Cmpl
+298142	Objc
+298146	Cmpl
+298154	Subj
+298158	Objc
+298167	Subj
+298191	Objc
+298195	Objc
+298203	Objc
+298210	Objc
+298217	Objc
+298226	Pred
+298249	Objc
+298251	Objc
+298254	Subj
+298258	Objc
+298266	Cmpl
+Objc
 298272	Objc
-298276	Subj
-Pred
-298283	Subj
-298310	Subj
-298312	Objc
-298320	Objc
-298325	Subj
-298341	Pred
+298290	Objc
+298297	Subj
+298308	Objc
 Objc
-298348	Pred
-Objc
-298355	Subj
-298360	Subj
-298370	Subj
-298376	Cmpl
-298386	Pred
-298396	Subj
-298403	Objc
-298409	Pred
-298412	Subj
-298416	Subj
-298423	Subj
-298427	Objc
-298434	Objc
-298467	Objc
-298475	Pred
-298480	Objc
-298492	Subj
-298498	Pred
-298504	Pred
-298509	Pred
-298512	Pred
-298522	Subj
-298535	Subj
-298538	Objc
-298547	Cmpl
-Subj
-298556	Subj
-298576	Subj
-298587	Subj
-298591	Objc
-298610	Subj
-298626	Subj
-298640	Subj
-298648	Objc
-298650	Subj
-298666	Objc
-298676	Objc
-298703	Subj
-Pred
-Pred
-298711	Objc
-298719	Objc
-298744	Pred
-298826	Subj
-298835	Subj
-Pred
-298842	Subj
-298871	Subj
-298874	Pred
-298881	Subj
-298884	Pred
-298893	Subj
-298909	Pred
-298921	Pred
-298924	Subj
-298931	Subj
-298940	Pred
-298946	Subj
-298960	Objc
-298965	Subj
-298978	Subj
-Objc
-298985	Objc
-298988	Objc
-298995	Pred
-299002	Cmpl
-299028	Subj
 Cmpl
-299039	Objc
-299044	Subj
-299064	Objc
-299074	Cmpl
-299078	Subj
-299086	Objc
+298315	Subj
+298318	Pred
+298322	Subj
+298347	Objc
 Subj
-299107	Subj
-299110	Objc
-299113	Objc
-299117	Objc
-299124	Objc
+298352	Objc
+298359	Objc
+298365	Objc
+298369	Objc
+298373	Subj
+298376	Subj
+298392	Pred
+Subj
+298406	Pred
+298409	Subj
+298422	Subj
+298428	Pred
+298438	Subj
+Subj
+298441	Pred
+298448	Objc
+298450	Objc
+298452	Subj
+Objc
+298457	Objc
+298481	Subj
+298488	Subj
+298493	Objc
+298496	Pred
+298501	Subj
+Objc
+298505	Subj
+298508	Subj
+298511	Subj
+298514	Subj
+298518	Objc
+298526	Subj
+298533	Subj
+298540	Subj
+Pred
+298543	Subj
+Pred
+298546	Subj
+Pred
+298551	Subj
+Pred
+298559	Subj
+298580	Objc
+298599	Pred
+298601	Pred
+298604	Pred
+298607	Pred
+298611	Pred
+298615	Pred
+298619	Pred
+298623	Pred
+298627	Pred
+298634	Pred
+298638	Pred
+298643	Pred
+298647	Pred
+298657	Subj
+298675	Subj
+298680	Subj
+298684	Subj
+298689	Objc
+298710	Pred
+298722	Subj
+298731	Objc
+298737	Objc
+298753	Objc
+298797	Subj
+298802	Subj
+298829	Subj
+298845	Objc
+298875	Pred
+Objc
+298882	Subj
+298889	Objc
+298911	Cmpl
+Subj
+298916	Subj
+298920	Objc
+298929	Objc
+298940	Cmpl
+298943	Subj
+298948	Subj
+298970	Subj
+299000	Pred
+299003	Pred
+Subj
+Objc
+299007	Subj
+299014	Objc
+299023	Pred
+299027	Subj
+299050	Pred
+299065	Subj
+299072	Cmpl
+Objc
+299079	Objc
+299094	Objc
+299098	Objc
+299102	Subj
+299105	Cmpl
+299110	Subj
+299113	Cmpl
+299116	Subj
+299131	Objc
+299137	Subj
+299140	Objc
+299143	Pred
+299145	Objc
 299149	Objc
-299152	Objc
-299161	Pred
-299167	Pred
-299169	Pred
-299180	Subj
-299184	Pred
-299189	Subj
-299205	Subj
-299209	Pred
-299232	Objc
-299281	Pred
-299288	Objc
-299297	Objc
-299303	Objc
-Cmpl
-299310	Pred
-299325	Subj
-299332	Subj
-299360	Pred
+299158	Objc
+299160	Objc
+299163	Objc
+299168	Objc
 Subj
-299372	Pred
-299393	Subj
-299407	Subj
-299409	Subj
-299417	Subj
-299423	Subj
-299433	Subj
-299436	Objc
-299461	Subj
-299468	Objc
-299474	Objc
-299480	Subj
-299484	Subj
-299499	Subj
-299507	Subj
-299544	Objc
-299557	Subj
+299186	Cmpl
+299195	Subj
+299200	Pred
+299213	Objc
+299216	Objc
+Subj
+299220	Objc
+299236	Subj
+299238	Objc
+Subj
+299249	Objc
+299265	Objc
+299284	Subj
+299317	Objc
+299328	Subj
+299352	Subj
+299373	Objc
+299377	Pred
+299382	Objc
+299387	Objc
+299391	Pred
+299396	Pred
+299403	Subj
+299406	Pred
+299416	Subj
 Objc
-299565	Subj
-299572	Subj
-299582	Subj
-299585	Objc
-299591	Objc
-299594	Objc
-299600	Objc
-299605	Subj
-299611	Cmpl
-299629	Subj
-299638	Subj
-299643	Subj
-299647	Subj
-299666	Subj
-299678	Subj
-299684	Objc
+299422	Subj
+Pred
+299427	Subj
+Objc
+299432	Subj
+299434	Pred
+299441	Objc
+299456	Subj
+299458	Subj
+299460	Pred
+299473	Objc
+299486	Objc
+Subj
+299491	Cmpl
+299506	Objc
+299512	Subj
+299522	Pred
+299526	Objc
+299533	Objc
+Subj
+299566	Pred
+299592	Objc
+299606	Cmpl
+299614	Cmpl
+299629	Objc
+299639	Objc
+299662	Cmpl
+Subj
+299685	Objc
+299696	Subj
+299699	Pred
 299702	Subj
+299706	Objc
+299710	Objc
+299728	Cmpl
+299731	Objc
+299733	Cmpl
 Pred
-299713	Subj
-299715	Pred
-299718	Subj
-299720	Pred
-299722	Subj
-299736	Pred
+299743	Subj
 Objc
-299742	Objc
-299746	Objc
-299753	Subj
-299755	Pred
-Subj
-299759	Pred
-299765	Subj
-Subj
-299773	Subj
-Subj
-299782	Subj
-299791	Pred
-299806	Objc
-299808	Subj
-299834	Subj
-Objc
-299841	Objc
-299848	Pred
-299853	Pred
-Subj
-299860	Subj
-299870	Subj
-299887	Subj
-299897	Objc
-299909	Subj
-299914	Subj
-299928	Pred
-299933	Objc
-299963	Objc
-299968	Subj
-299973	Subj
-299977	Subj
-Objc
-299982	Objc
-299995	Subj
-299999	Subj
-300004	Objc
-300008	Pred
-300024	Subj
-300027	Subj
+299748	Objc
+299750	Pred
+299762	Objc
+299766	Objc
+299768	Pred
+299776	Cmpl
+299789	Pred
+299794	Subj
+299799	Objc
+299811	Objc
+299829	Objc
+299838	Objc
+299860	Pred
+299875	Objc
+299893	Objc
+299903	Objc
+299951	Objc
+299960	Objc
+299978	Objc
+299981	Cmpl
+300033	Objc
 300040	Objc
-300042	Objc
-300049	Objc
-300066	Subj
-300082	Cmpl
-300085	Pred
-300097	Subj
+300048	Objc
+300066	Objc
+300076	Cmpl
 Objc
-300107	Objc
-300110	Subj
-300112	Objc
-300115	Subj
+300080	Objc
+300109	Pred
+300121	Subj
+300124	Objc
+300129	Objc
+300136	Objc
+300148	Subj
+300165	Pred
 Pred
-300120	Subj
-300122	Pred
-300127	Objc
+300172	Objc
 300174	Subj
-300178	Objc
 300180	Cmpl
-300193	Objc
-300199	Objc
-300205	Objc
-300224	Objc
-300228	Objc
-300255	Cmpl
-300268	Subj
-300278	Objc
-300291	Objc
-300294	Subj
-Cmpl
-300316	Objc
+300184	Objc
+300191	Objc
+300199	Subj
 Objc
-300327	Subj
-300336	Objc
-300340	Objc
-300347	Pred
-300355	Objc
-300360	Objc
-300365	Pred
-300370	Objc
-300387	Objc
-300390	Pred
-300397	Objc
-300400	Cmpl
-300402	Objc
-300404	Cmpl
-300406	Objc
-300408	Cmpl
-300410	Objc
-300412	Cmpl
-300414	Objc
-300426	Objc
-300441	Subj
-300450	Objc
-300456	Subj
-Cmpl
-300461	Pred
-Subj
-300467	Objc
-300475	Subj
-300483	Subj
-300486	Subj
-300491	Objc
-300496	Objc
-300522	Objc
-300559	Subj
+300230	Cmpl
+300238	Pred
+300240	Objc
+300248	Subj
+300254	Subj
+300262	Objc
+300270	Objc
+300277	Subj
+300284	Objc
+300295	Subj
+300311	Objc
+300313	Objc
+300321	Subj
+300329	Subj
+300354	Cmpl
+300361	Subj
+Pred
+300371	Subj
+300376	Subj
+300378	Pred
+300384	Pred
+300390	Subj
+300404	Subj
+300434	Subj
+300445	Subj
+300448	Objc
+300450	Subj
+Pred
+300458	Objc
+300460	Objc
+300463	Objc
+Objc
+300466	Subj
+300481	Subj
+300487	Subj
+Objc
+300510	Objc
+300513	Objc
+300519	Objc
+300528	Pred
+300531	Subj
+300533	Subj
+300541	Subj
+Objc
+300544	Cmpl
+300552	Objc
 300565	Objc
-300578	Subj
-300588	Objc
-300598	Objc
-300607	Objc
-300616	Objc
-300621	Subj
-300649	Pred
-300665	Objc
+300576	Pred
+300583	Objc
+300589	Pred
+300593	Cmpl
+Objc
+300599	Objc
+300615	Subj
+300617	Objc
+300622	Cmpl
+300634	Subj
+Pred
+300641	Subj
+300649	Objc
+300652	Subj
+300656	Cmpl
+300664	Subj
 300670	Subj
+300683	Subj
+300685	Pred
+300691	Pred
+300698	Pred
+Subj
+300701	Subj
+300719	Objc
+300725	Subj
+300732	Pred
+300734	Subj
+300741	Subj
+300747	Pred
+300753	Objc
+300758	Subj
 Objc
-300688	Subj
-300691	Subj
+300774	Pred
+300777	Pred
+Subj
+300791	Subj
+300804	Objc
+300823	Objc
+300828	Subj
+300837	Subj
+300867	Subj
+300869	Pred
 Objc
-300697	Subj
-300699	Cmpl
-300710	Cmpl
-300735	Subj
-300747	Subj
-300753	Subj
-300772	Objc
-300793	Objc
-300817	Subj
-300843	Pred
-300847	Subj
-300849	Pred
-300857	Objc
-300864	Subj
-Objc
-300872	Subj
-300879	Subj
-300901	Objc
-300906	Subj
-300913	Objc
-300921	Objc
-300935	Subj
-300944	Pred
-300951	Objc
-300956	Subj
-300958	Objc
-300967	Cmpl
-300986	Objc
-300989	Subj
-301009	Subj
-301031	Subj
-301036	Subj
-301042	Objc
-301059	Pred
-301064	Objc
+300873	Objc
+300881	Subj
+300899	Objc
+300904	Pred
+300907	Subj
+300911	Pred
+300914	Cmpl
+300922	Subj
+300927	Subj
+300943	Cmpl
+300954	Subj
+300958	Pred
+300961	Subj
+300965	Pred
+300967	Subj
+300971	Pred
+300990	Pred
+300995	Subj
+301000	Subj
+301003	Objc
+301010	Subj
+301027	Subj
+301044	Subj
+301047	Pred
+301061	Subj
+301065	Pred
 301069	Subj
+301071	Pred
+301085	Subj
 301091	Objc
-301114	Objc
-301178	Objc
-301185	Objc
-301206	Subj
-301217	Objc
-301280	Subj
-301283	Pred
-301294	Pred
-301313	Subj
+301093	Pred
+301098	Pred
+301103	Pred
+301108	Subj
+301112	Pred
+301120	Subj
 Pred
-301335	Objc
-301357	Pred
-301382	Pred
+301123	Pred
+301132	Pred
+301140	Subj
+301143	Pred
+301145	Objc
+301148	Pred
+301153	Pred
+301169	Subj
+301174	Pred
+301190	Subj
+301198	Subj
+301201	Objc
+301215	Objc
+301222	Objc
+301229	Pred
+301231	Subj
+301234	Objc
+301263	Pred
+Pred
+301275	Objc
+301281	Pred
+301285	Objc
+301304	Objc
+301329	Subj
+301331	Subj
+301333	Subj
+301336	Objc
+301338	Objc
+301351	Cmpl
+301356	Objc
+301375	Objc
+301379	Objc
+301383	Pred
+301385	Subj
+301392	Cmpl
+301395	Pred
+Objc
+301403	Cmpl
+301405	Pred
+301410	Cmpl
 301412	Objc
-301428	Pred
-301487	Subj
-301515	Subj
-301521	Objc
-301529	Objc
+301417	Objc
+301420	Objc
+301422	Pred
+301436	Subj
+301443	Objc
+301450	Subj
+301463	Objc
+301474	Cmpl
+301476	Pred
+301481	Objc
+301489	Subj
+301510	Subj
+301522	Subj
 301535	Subj
-301556	Subj
-301559	Objc
-301566	Subj
-301571	Pred
-301590	Objc
-301653	Subj
-301680	Pred
-301690	Objc
-301715	Objc
-301736	Subj
-301745	Objc
-301763	Subj
-301790	Objc
-301794	Pred
-301816	Pred
-301822	Subj
-301834	Subj
-301851	Objc
-301866	Objc
+301538	Subj
+301541	Pred
+301544	Subj
+301546	Pred
+301555	Subj
+301557	Pred
+Subj
+301586	Subj
+301592	Pred
+301594	Subj
+301596	Pred
+301613	Pred
+Subj
+301625	Objc
+301628	Subj
+301634	Pred
+301647	Objc
+301656	Objc
+301658	Subj
+301676	Subj
+301706	Objc
+Subj
+301722	Cmpl
+301726	Subj
+Objc
+301733	Cmpl
+301739	Pred
+301741	Objc
+301751	Subj
+301760	Subj
+301766	Objc
+301777	Objc
+301782	Subj
+301790	Subj
+Subj
+301796	Subj
+301800	Pred
+301804	Objc
+Subj
+301808	Objc
+301814	Subj
+301823	Objc
+301830	Objc
+301832	Objc
+301835	Pred
+301838	Subj
+301842	Objc
+301850	Subj
+301862	Objc
+Subj
 301873	Objc
-301885	Subj
-301904	Pred
-301910	Objc
-301915	Objc
-301924	Subj
-301930	Subj
-Objc
-301944	Subj
-301947	Objc
-301949	Subj
-301967	Objc
-301990	Subj
-301996	Subj
-302003	Objc
+301890	Objc
+Subj
+301907	Objc
+301913	Objc
+301916	Objc
+301931	Objc
+301938	Subj
+301948	Subj
+301957	Subj
+301959	Objc
+301963	Objc
+301966	Objc
+301974	Pred
+301977	Pred
+301987	Subj
+302010	Objc
+302012	Cmpl
 302017	Objc
-302020	Subj
-302023	Objc
-302026	Objc
-302029	Subj
-302032	Objc
-302043	Subj
-302052	Subj
-302059	Pred
-302085	Objc
-302129	Subj
-302144	Objc
-302168	Subj
-302175	Subj
-302185	Objc
-302202	Subj
-302208	Subj
-302215	Subj
+302021	Objc
+302026	Subj
+302044	Pred
+302051	Subj
+Subj
+302059	Objc
+302080	Pred
+Objc
+302083	Objc
+302089	Subj
+302100	Objc
+302109	Objc
+302111	Subj
+302115	Objc
+302124	Objc
+302134	Subj
+302136	Pred
+Pred
+302140	Objc
+Objc
+302148	Subj
+302155	Objc
+302166	Subj
+302168	Objc
+302178	Objc
+302190	Subj
+302193	Objc
+302197	Subj
+Objc
 302217	Objc
-302224	Subj
-Objc
-302237	Objc
-302242	Subj
-302250	Objc
-302279	Subj
-Objc
-302295	Subj
-302302	Objc
-302307	Objc
-302338	Pred
-302374	Cmpl
+302232	Objc
+302235	Objc
+302252	Objc
+302255	Objc
+302275	Cmpl
+302283	Subj
+302289	Subj
+302291	Subj
+302306	Subj
+302310	Objc
+302314	Subj
+302348	Cmpl
 Subj
-302383	Subj
-302398	Subj
-302413	Objc
-302422	Pred
-302450	Objc
-302468	Subj
-302472	Subj
-302480	Subj
-302483	Subj
-302488	Subj
-302497	Subj
-302511	Pred
-302514	Subj
-302522	Objc
-302525	Subj
-302529	Subj
-302551	Subj
-302563	Objc
-302572	Objc
-302623	Pred
-302652	Subj
-302658	Objc
-302663	Objc
-302669	Subj
-302726	Subj
-302731	Subj
-302785	Pred
-302806	Objc
-302810	Objc
-302821	Pred
-302829	Pred
-302837	Objc
-302860	Subj
-302872	Pred
-Subj
-302877	Pred
-302900	Pred
-302904	Objc
-302919	Objc
-302952	Objc
+302351	Subj
 Cmpl
-302959	Subj
-302966	Subj
-302972	Subj
-Objc
-302977	Objc
-302981	Pred
-302987	Subj
-303038	Subj
-303052	Objc
-303056	Objc
-303060	Objc
+302356	Pred
+302365	Subj
+302391	Objc
+Cmpl
 Subj
-303064	Objc
-303069	Subj
-303086	Subj
+302395	Subj
+302397	Objc
+302412	Subj
+302423	Pred
+302443	Cmpl
+302448	Pred
+302459	Cmpl
+302472	Pred
+302488	Objc
+302506	Objc
+302516	Subj
+302527	Objc
+302560	Objc
+302562	Objc
+302600	Objc
+302613	Cmpl
 Objc
-303094	Subj
-303108	Objc
-303120	Pred
+302630	Objc
+302647	Objc
+302684	Objc
+302721	Subj
+302758	Subj
+302760	Pred
+302786	Subj
+302821	Objc
+302850	Cmpl
+Objc
+302862	Subj
+302875	Subj
+Pred
+302878	Subj
+302887	Pred
 Subj
-303163	Objc
-303179	Objc
-303218	Subj
+302908	Pred
+Subj
+302941	Objc
+302949	Objc
+303000	Objc
+303010	Objc
+303012	Objc
+303020	Subj
+303032	Objc
+303040	Subj
+303042	Pred
+303099	Subj
+303118	Objc
+303131	Pred
+303136	Subj
+303141	Subj
+303145	Pred
+303161	Objc
+303164	Subj
 Pred
-303222	Subj
-Pred
-303227	Subj
-303235	Subj
-303241	Subj
-Pred
-303246	Subj
-303250	Objc
-303260	Subj
-303262	Pred
+303199	Objc
+303234	Subj
+303236	Pred
+303239	Pred
+303245	Pred
+303250	Subj
+303252	Pred
 303267	Objc
-303270	Objc
-303280	Cmpl
-Pred
-303286	Subj
-Pred
-303294	Cmpl
-Pred
-303298	Objc
-303302	Subj
-303306	Pred
-303321	Subj
-303323	Pred
-303338	Objc
-303355	Objc
-303359	Objc
-303364	Cmpl
+303269	Subj
+303291	Pred
+303296	Pred
+303313	Pred
+303332	Objc
+303353	Pred
+303355	Pred
+303365	Subj
+303375	Objc
+303378	Objc
+303398	Objc
+303411	Objc
+303426	Objc
+303429	Objc
+303437	Cmpl
+303446	Objc
+303455	Objc
+303461	Objc
+Cmpl
+303470	Objc
+303473	Subj
+303519	Pred
+303527	Subj
+303543	Subj
+303562	Pred
+303580	Objc
+303593	Cmpl
+303602	Cmpl
 Subj
-Objc
-303369	Subj
-303371	Cmpl
-303375	Subj
-303380	Subj
-303386	Subj
-303392	Subj
-303409	Pred
-303413	Subj
-303427	Subj
-Pred
-303434	Objc
-303489	Cmpl
-303498	Subj
-Objc
-303512	Objc
-303517	Objc
-303522	Subj
-303529	Subj
-303539	Subj
-303548	Subj
-303561	Subj
-303568	Objc
-303575	Objc
-303583	Subj
-303586	Subj
-303608	Subj
-303611	Subj
-303614	Subj
-303638	Subj
-303642	Pred
-303645	Subj
-303648	Pred
-303653	Pred
-303667	Objc
-303705	Subj
-303711	Subj
-303719	Subj
-303727	Subj
-303754	Objc
-303760	Subj
-303771	Subj
-Objc
-303775	Objc
-303783	Objc
-303786	Objc
-303798	Objc
-303813	Objc
-303816	Objc
-303875	Objc
-303884	Objc
-303895	Subj
-303902	Subj
-303920	Objc
-303931	Subj
-303934	Subj
-303949	Objc
-303973	Subj
-303993	Pred
+303617	Objc
+303632	Subj
+303638	Cmpl
+303648	Cmpl
+303661	Subj
+303682	Pred
+303701	Cmpl
+303722	Subj
+303727	Cmpl
+303731	Objc
+303742	Pred
 Subj
-303997	Pred
-304005	Pred
+303763	Objc
+303770	Cmpl
+303788	Subj
+303804	Objc
+303821	Objc
+303851	Subj
+303853	Pred
+303860	Objc
+303873	Subj
+303887	Cmpl
+303916	Subj
+303947	Pred
 Subj
-304009	Pred
-304013	Pred
+303959	Objc
+303993	Objc
+304007	Cmpl
 Subj
-304019	Pred
-304026	Subj
-304032	Cmpl
-304050	Subj
-304066	Subj
+304039	Objc
+304066	Objc
 304072	Objc
-304095	Objc
-304105	Objc
-304112	Objc
-304129	Pred
-304141	Pred
-304148	Subj
-304165	Subj
-304188	Objc
-304207	Subj
-304216	Objc
-304249	Objc
-304252	Objc
-304258	Objc
-304267	Objc
-304273	Objc
+304138	Cmpl
+304145	Subj
+304168	Objc
+304170	Objc
 Cmpl
-304284	Objc
-Objc
-304295	Subj
-304299	Objc
-304306	Objc
-304320	Objc
-304350	Subj
-304356	Objc
-304360	Objc
-304371	Objc
-304378	Pred
-304384	Pred
-304387	Pred
-304390	Objc
-304395	Pred
-304398	Pred
-304400	Pred
-304403	Objc
-304409	Objc
-304422	Pred
-304435	Objc
-304444	Subj
-304453	Objc
-304471	Objc
-304487	Subj
-304490	Pred
-304509	Objc
-304514	Objc
-304527	Subj
+304177	Pred
+304195	Subj
+304200	Pred
+304213	Objc
+304217	Subj
+304266	Subj
+304311	Pred
+304358	Subj
+304360	Pred
+304367	Subj
+304395	Objc
+304412	Objc
+304421	Subj
+304425	Subj
+304459	Pred
+304473	Subj
+304475	Objc
+304491	Subj
+304496	Objc
+304501	Objc
+304510	Subj
 Pred
-304536	Subj
-304544	Pred
-304548	Pred
-304558	Subj
-304563	Subj
-304576	Subj
-304580	Subj
-304584	Objc
-304588	Subj
-304599	Subj
-304615	Subj
-304633	Subj
-304644	Objc
-304664	Subj
-304669	Pred
-304675	Subj
-304678	Pred
-304687	Pred
-Subj
-304691	Subj
-304697	Objc
-304705	Objc
+304517	Subj
+304575	Objc
+304579	Objc
+304590	Pred
+304597	Subj
+304609	Objc
+Cmpl
+304626	Objc
+304633	Objc
+304635	Subj
+304651	Subj
 Pred
+304662	Objc
+304687	Subj
+304712	Pred
+304716	Objc
+304718	Subj
+304727	Objc
 304730	Pred
-304736	Objc
-304739	Objc
-304744	Objc
-304747	Objc
+304736	Subj
+304745	Subj
 304751	Objc
-304768	Objc
-304771	Objc
-304776	Objc
-304785	Pred
-304796	Subj
-304802	Objc
-304833	Subj
-304879	Pred
-304893	Objc
-304901	Pred
-304904	Subj
-304907	Pred
+304754	Objc
+304758	Objc
+304793	Subj
+304798	Subj
+Objc
+304811	Subj
+304813	Pred
+304816	Objc
+304828	Subj
+Objc
+304839	Subj
+304858	Pred
+304864	Pred
+304867	Pred
+304872	Subj
+304876	Subj
+304884	Pred
+304894	Subj
+304896	Pred
+304924	Pred
+304928	Subj
+304939	Subj
+304944	Pred
+304961	Subj
+304971	Subj
+304974	Subj
+304976	Objc
+304980	Subj
+304983	Pred
+304990	Pred
+304993	Pred
 Subj
-304911	Pred
-304913	Subj
-304916	Subj
-304922	Objc
-304927	Subj
-304933	Objc
-304963	Objc
-304965	Pred
-304970	Subj
+305005	Pred
+305009	Subj
+305016	Cmpl
+305032	Cmpl
+305051	Objc
+305057	Cmpl
+305066	Cmpl
+305072	Cmpl
+305076	Subj
+305078	Pred
+305084	Subj
+305089	Pred
+305094	Subj
 Pred
-304976	Pred
-304978	Pred
-304992	Subj
-305003	Pred
-305006	Pred
-305014	Subj
-Pred
-305017	Subj
-305019	Pred
-305023	Subj
-Pred
-305034	Subj
+305102	Subj
+305106	Cmpl
+305110	Subj
+305115	Cmpl
+305125	Objc
+305129	Subj
+305135	Objc
+305139	Objc
+305145	Objc
+305160	Subj
 Cmpl
-305039	Subj
-305053	Subj
-305063	Objc
-305066	Subj
-305093	Objc
-305099	Subj
-Pred
-305103	Subj
-305115	Objc
-305119	Objc
-305143	Objc
-305191	Objc
-305199	Subj
-305201	Pred
-305220	Objc
-305224	Objc
-305226	Objc
-305238	Objc
-305241	Objc
-305273	Objc
-305320	Objc
-305351	Subj
-305368	Subj
-305371	Subj
-305377	Subj
-305380	Subj
-305386	Subj
+Objc
+305164	Objc
+305186	Subj
+305192	Objc
+305198	Objc
+305205	Objc
+305210	Objc
+305212	Subj
+305215	Objc
+305225	Objc
+305227	Subj
+305232	Objc
+305236	Pred
+305248	Subj
+305267	Subj
+305270	Pred
+305275	Subj
+305280	Pred
+305282	Subj
+305295	Subj
+305304	Objc
+305312	Objc
+Subj
+305319	Objc
+305326	Objc
+305334	Subj
+305337	Pred
+305348	Subj
+305350	Pred
+305358	Pred
+305363	Pred
+305375	Objc
+305382	Objc
 305394	Objc
-305399	Subj
-305412	Subj
-305415	Subj
-305425	Subj
-305431	Subj
-305436	Subj
-305438	Subj
-305441	Subj
+305416	Objc
+305424	Subj
+305427	Subj
+305431	Objc
 305446	Objc
-305453	Cmpl
-305463	Subj
-305466	Objc
-305469	Subj
-305474	Pred
-Subj
-305495	Objc
+305451	Objc
+305454	Subj
+305456	Objc
+305460	Objc
+305466	Pred
+305468	Pred
+305473	Objc
+305481	Objc
+305486	Subj
+305495	Pred
 305499	Subj
-305507	Subj
-305512	Pred
-305517	Pred
-305524	Subj
-305529	Pred
-305534	Pred
-305540	Subj
-305542	Subj
-305547	Subj
-305551	Subj
-305565	Subj
-Pred
-Subj
-305579	Subj
-305581	Cmpl
-305583	Objc
-305587	Subj
-Cmpl
-305590	Objc
-305597	Subj
-305607	Pred
-305609	Objc
-305612	Subj
-305614	Objc
-305617	Subj
-305622	Subj
-Objc
+305502	Pred
+305525	Objc
+305536	Subj
+305550	Subj
+305601	Objc
+305621	Objc
 305627	Objc
-305631	Pred
-305635	Objc
-305637	Subj
-305644	Subj
-305646	Subj
-305652	Subj
-305667	Subj
-305694	Objc
-305704	Objc
-305751	Objc
+305637	Objc
+305646	Objc
+305675	Objc
+305704	Subj
+305706	Pred
+305749	Cmpl
+305751	Subj
 305765	Objc
-305772	Objc
-305781	Subj
-305783	Subj
 305786	Subj
-305790	Objc
-305793	Objc
-305808	Subj
-305837	Subj
-Subj
-305855	Objc
-305884	Subj
-305889	Objc
-305892	Objc
-305932	Subj
-305951	Subj
-306000	Subj
-Objc
-306008	Subj
-306011	Objc
-306024	Subj
-306028	Pred
-306036	Objc
+305791	Subj
+305799	Objc
+305801	Objc
+305803	Cmpl
+305818	Objc
+305830	Objc
+305837	Objc
+305843	Cmpl
+305859	Subj
+305862	Pred
+305868	Objc
+305885	Cmpl
+305897	Pred
+305906	Cmpl
+305920	Objc
+305951	Objc
+305982	Objc
+305986	Subj
+305992	Objc
+306004	Pred
+306006	Objc
+306017	Subj
+306023	Objc
+306044	Pred
+306051	Subj
 306055	Pred
+306059	Subj
+306064	Objc
+306074	Objc
 306077	Subj
-306081	Subj
-306111	Objc
-306114	Objc
-306128	Subj
-306131	Objc
-306140	Objc
-306145	Objc
-306148	Objc
-306174	Cmpl
-306183	Subj
-Pred
-306191	Subj
-306203	Subj
-306225	Subj
+306098	Subj
+306130	Subj
+306134	Subj
+306149	Subj
+306154	Pred
+306173	Subj
+306192	Objc
+306200	Subj
+306209	Subj
+306216	Objc
+306220	Subj
 306235	Subj
-306243	Objc
-306247	Subj
-Pred
-306265	Pred
-306299	Subj
-306303	Subj
-306309	Cmpl
-306312	Subj
+306240	Objc
+306247	Objc
+306254	Subj
+306265	Subj
+306278	Subj
 306326	Subj
-306331	Subj
-306344	Subj
-306356	Subj
-306367	Objc
-306378	Subj
-306395	Pred
-306424	Objc
-306470	Cmpl
-306478	Subj
-306486	Cmpl
-306494	Cmpl
-306498	Pred
-306506	Objc
-306553	Subj
-306557	Subj
-306563	Subj
-306572	Subj
-306575	Subj
-306580	Pred
-306606	Subj
-306609	Pred
-306615	Subj
-306642	Pred
+306346	Pred
+306350	Pred
+306358	Subj
+306360	Pred
+306364	Objc
+306375	Objc
+306384	Pred
+306391	Pred
+306398	Pred
+306403	Objc
+306427	Subj
+306468	Objc
+306472	Objc
+306505	Subj
+306508	Pred
+306511	Pred
+306516	Subj
 Pred
-306645	Subj
-306666	Subj
-306673	Subj
-306676	Objc
-Cmpl
-306694	Objc
-306723	Objc
-306729	Subj
-Subj
-306735	Objc
-306738	Subj
-306754	Subj
-306776	Subj
-306791	Objc
-Subj
-306801	Objc
-306810	Subj
-306831	Objc
-306843	Subj
-306848	Cmpl
-306850	Objc
-306854	Subj
-Pred
-306862	Subj
-306865	Subj
-306880	Subj
-306885	Subj
+306521	Cmpl
+306550	Objc
+306562	Subj
+306566	Pred
+306570	Subj
+306576	Subj
+306582	Subj
+306588	Objc
+306594	Objc
+306598	Objc
+306605	Objc
+306609	Objc
+306621	Objc
+306626	Objc
+306632	Objc
+306638	Objc
+306643	Subj
+306645	Pred
+306649	Subj
+306657	Objc
+306661	Pred
+306664	Objc
+306666	Objc
+306670	Pred
+306680	Subj
+306682	Objc
+306684	Pred
+306693	Subj
+306698	Objc
+306702	Cmpl
+306721	Subj
+306732	Subj
+306737	Pred
+306755	Pred
+306768	Pred
+306780	Objc
+306786	Subj
+306805	Objc
+306834	Subj
+306838	Objc
 306890	Subj
-306893	Subj
-306896	Subj
-306903	Subj
-306928	Subj
-306930	Subj
-306935	Subj
-Subj
-306948	Subj
-306957	Subj
-306960	Subj
-306962	Subj
-306966	Subj
-306970	Subj
-306972	Pred
-306977	Subj
-Subj
-306983	Subj
-Subj
-306991	Objc
-306994	Objc
-307008	Objc
-307011	Subj
-Objc
-307035	Subj
-307043	Subj
-307047	Subj
-307055	Subj
-307059	Subj
-307068	Subj
-307072	Subj
-307076	Subj
-307083	Subj
-307086	Pred
-307089	Subj
-307092	Pred
-307100	Objc
-307112	Pred
-307121	Subj
-307137	Cmpl
-307141	Subj
-307146	Subj
-307167	Objc
-307208	Objc
-307212	Subj
-307223	Subj
-307240	Objc
-307291	Subj
+306903	Objc
+306906	Cmpl
+306908	Subj
+306911	Objc
+306916	Objc
+306921	Subj
+306923	Objc
+306929	Subj
+306933	Objc
+306938	Objc
+306942	Objc
+306952	Subj
+306962	Objc
+306970	Objc
+306982	Subj
+306987	Objc
+307020	Objc
+307036	Subj
+307052	Objc
+307060	Objc
+307063	Objc
+307066	Subj
 Pred
-307305	Pred
-307310	Cmpl
-307313	Subj
-307335	Objc
-307347	Objc
-307350	Subj
-307365	Subj
-307373	Subj
-307381	Objc
-307388	Subj
-307392	Pred
-307395	Subj
-307397	Pred
-307419	Pred
-307426	Pred
-307442	Subj
-307469	Objc
-307482	Subj
-307488	Subj
-307517	Subj
-307521	Subj
-307529	Pred
-307544	Pred
-307560	Objc
-307576	Objc
-307591	Subj
-307598	Subj
-307606	Subj
-307609	Pred
-307651	Pred
-307654	Subj
-307671	Objc
-307700	Pred
-307710	Subj
-307746	Subj
-307749	Pred
-307755	Subj
-Cmpl
-307776	Objc
-307785	Objc
-307820	Subj
-307831	Objc
-307843	Subj
-307845	Pred
-307861	Objc
-307875	Objc
-307895	Subj
-307907	Objc
-307921	Subj
-307933	Objc
-307974	Objc
-307984	Pred
-307997	Pred
-308003	Pred
-308018	Subj
-Objc
-308042	Objc
-308049	Pred
-308064	Pred
-308082	Objc
-308096	Subj
-308098	Pred
-308102	Objc
-308110	Subj
-308113	Subj
-308119	Subj
-308128	Subj
-308143	Subj
-308152	Subj
-308156	Subj
-308188	Objc
-308200	Subj
-308210	Subj
-308218	Subj
-308250	Subj
-308254	Subj
+307071	Objc
+307081	Objc
+307084	Objc
+307104	Objc
+307127	Objc
+307131	Cmpl
+307135	Pred
+307138	Pred
+307140	Objc
+307144	Objc
+307150	Objc
+307156	Pred
+307177	Subj
+307179	Objc
+307186	Subj
+307194	Subj
+307197	Pred
 Pred
-308260	Subj
-308265	Subj
-308269	Objc
-308285	Objc
-308293	Objc
-308302	Objc
-308320	Subj
-308329	Subj
-308333	Objc
-308339	Subj
-308348	Pred
-308360	Objc
-308364	Pred
-308386	Objc
-308393	Subj
-308396	Pred
-308399	Pred
-308422	Objc
-308429	Subj
+307203	Pred
+307206	Pred
+307214	Pred
+307219	Objc
+307231	Pred
+307233	Subj
+307236	Pred
+Objc
+307244	Objc
+307251	Subj
+Pred
+307273	Objc
+307279	Objc
+307281	Objc
+307379	Subj
+Subj
+307384	Objc
+307386	Objc
+307420	Subj
+307422	Pred
+Objc
+307427	Objc
+307430	Objc
+307433	Subj
+307436	Cmpl
+307441	Objc
+307447	Pred
+307459	Objc
+Objc
+Subj
+307464	Objc
+307467	Cmpl
+307473	Pred
+307484	Subj
+307489	Pred
+Subj
+307495	Pred
+307499	Subj
+307502	Pred
+307510	Objc
+307514	Subj
+307533	Subj
+307535	Objc
+307544	Objc
+307563	Subj
+307566	Cmpl
+Objc
+307589	Objc
+307592	Objc
+307594	Objc
+307603	Objc
+307611	Subj
+307631	Subj
+307636	Pred
+307649	Subj
+307655	Cmpl
+307658	Subj
+307661	Pred
+Objc
+307678	Subj
+307721	Subj
+307723	Pred
+Subj
+Pred
+Subj
+Pred
+Subj
+Pred
+Subj
+Pred
+Subj
+Pred
+307735	Subj
+Pred
+307739	Subj
+Pred
+Objc
+307743	Objc
+307755	Objc
+307758	Subj
+307766	Pred
+307791	Pred
+307797	Subj
+307800	Pred
+307804	Pred
+307828	Objc
+307834	Objc
+307846	Subj
+307863	Subj
+307877	Subj
+307901	Objc
+307918	Objc
+307942	Subj
+307949	Objc
+307970	Cmpl
+307978	Subj
+307992	Objc
+308000	Objc
+Subj
+308009	Objc
+Subj
+308017	Subj
+308026	Subj
+308035	Pred
+308058	Cmpl
+308074	Cmpl
+308116	Objc
+308138	Objc
+308186	Objc
+308208	Subj
+308224	Cmpl
+Objc
+308237	Subj
+308334	Objc
+308353	Subj
+308355	Objc
+308396	Subj
 308447	Subj
 308459	Subj
-308463	Subj
-308469	Objc
-308479	Subj
-308490	Objc
-308499	Subj
-Pred
-308503	Subj
-308507	Objc
-308520	Subj
-308526	Subj
-308534	Subj
-308541	Objc
-308567	Subj
-308597	Subj
-308600	Pred
-308609	Subj
-308622	Objc
-308678	Objc
-308692	Objc
-308711	Objc
-308735	Subj
-308745	Subj
-308777	Pred
-Pred
-308782	Subj
-308788	Subj
-Pred
+308461	Pred
+308465	Subj
+308473	Subj
+308475	Pred
+308485	Subj
+308500	Subj
+308507	Subj
+308518	Objc
+308556	Subj
+308594	Objc
+308611	Pred
+308624	Objc
+308640	Pred
+308658	Objc
+308683	Subj
+308688	Pred
+308691	Subj
+308704	Cmpl
+308742	Subj
+308746	Pred
+Subj
+308765	Subj
+308767	Subj
+308772	Pred
+308779	Objc
+Subj
+308783	Objc
+308788	Objc
 308798	Objc
-308808	Objc
-308813	Objc
-308823	Subj
-308837	Pred
-308845	Objc
-308859	Subj
-308862	Subj
-308867	Objc
-308871	Subj
-308955	Subj
-308960	Subj
-308975	Objc
-308981	Subj
-308998	Pred
-309012	Pred
-309017	Subj
-309028	Pred
-309031	Pred
-309051	Pred
-309054	Pred
-309063	Objc
-309088	Pred
-309119	Subj
-309132	Objc
-309178	Subj
-309202	Subj
-309205	Objc
-309211	Subj
-309222	Objc
-309278	Subj
-309293	Subj
-309301	Subj
-309305	Objc
-309398	Objc
-309431	Objc
-309439	Objc
-309472	Objc
-309479	Subj
-309483	Subj
-309494	Subj
-309511	Pred
-309516	Subj
-309523	Subj
-309538	Objc
-309543	Objc
-309551	Objc
-309561	Objc
-309570	Objc
-309574	Subj
-309579	Pred
-309589	Pred
-309627	Objc
-309663	Objc
-309691	Objc
-309701	Subj
-309703	Objc
-309710	Objc
-309748	Objc
-309755	Objc
+308801	Objc
+308828	Subj
+308830	Objc
+308844	Subj
+308847	Objc
+308857	Subj
+308896	Subj
+308907	Pred
+Objc
+308911	Subj
+Objc
+308929	Pred
+308962	Objc
+308988	Subj
+Objc
+309031	Subj
+309048	Subj
+309050	Pred
+309116	Objc
+309121	Subj
+Pred
+309138	Objc
+309143	Cmpl
+Objc
+309161	Subj
+309163	Pred
+309167	Objc
+309175	Objc
+Cmpl
+309192	Objc
+309198	Subj
+Objc
+309218	Subj
+309220	Pred
+309224	Subj
+309228	Pred
+309231	Subj
+Objc
+309244	Objc
+309269	Subj
+309319	Subj
+309321	Pred
+309341	Subj
+309343	Objc
+309358	Pred
+309376	Objc
+309381	Subj
+309394	Objc
+309399	Objc
+309409	Subj
+309436	Subj
+309468	Subj
+309470	Pred
+309475	Subj
+309485	Subj
+309498	Subj
+309522	Objc
+309550	Objc
+309552	Pred
+309565	Pred
+309567	Pred
+309570	Subj
+309592	Objc
+309595	Objc
+309597	Subj
+309602	Objc
+309604	Subj
+309610	Objc
+309612	Subj
+309621	Objc
+309624	Subj
+309626	Pred
+309632	Subj
+309658	Pred
+309660	Subj
+309680	Objc
+309699	Cmpl
+309705	Objc
+309716	Objc
+309735	Cmpl
+309747	Objc
+309760	Objc
+309766	Subj
+309768	Pred
+309778	Objc
 309793	Objc
-Subj
-309800	Subj
-309802	Objc
-309808	Objc
-309817	Cmpl
-309819	Subj
-309837	Objc
-309841	Objc
-309854	Cmpl
-309857	Subj
-309862	Objc
-309878	Objc
-309912	Cmpl
-309966	Subj
-309988	Objc
-309998	Objc
-310001	Subj
-310005	Objc
-310018	Subj
-310032	Subj
-310053	Subj
-310059	Subj
-310064	Subj
-310068	Subj
-310109	Subj
-310138	Subj
-310170	Subj
-310175	Objc
-310187	Cmpl
-310189	Objc
+309805	Subj
+309813	Objc
+309816	Objc
+309838	Objc
+309854	Objc
+309857	Pred
+309859	Subj
+309870	Cmpl
+309876	Subj
+309880	Objc
+309884	Objc
+309903	Subj
+309908	Objc
+309928	Objc
+309931	Subj
+309942	Objc
+309946	Subj
+309952	Pred
+309960	Subj
 Cmpl
-310200	Subj
-310205	Subj
-310224	Objc
-310250	Pred
-310269	Objc
-310275	Objc
-310290	Objc
-310292	Subj
-310304	Subj
+309965	Objc
+309973	Cmpl
+309990	Objc
+310002	Objc
+310009	Objc
+310024	Subj
+310026	Pred
+310029	Objc
+310031	Cmpl
+310037	Objc
+310055	Objc
+310062	Objc
+310067	Pred
+310070	Pred
+310073	Subj
 Pred
-310308	Subj
-310322	Subj
-310330	Objc
-310339	Subj
-310343	Subj
-310355	Subj
-310364	Subj
-310370	Subj
-310372	Pred
-310392	Objc
-310417	Objc
-310461	Pred
-310465	Pred
+310086	Subj
+310089	Pred
+310091	Objc
+310128	Cmpl
+310131	Objc
+310150	Objc
+310187	Subj
+310203	Objc
+310209	Subj
+310215	Cmpl
+310217	Objc
+310220	Objc
+310226	Objc
+310228	Subj
+310239	Objc
+310244	Subj
+310247	Pred
+310255	Cmpl
+310270	Cmpl
+310274	Objc
+310283	Objc
+310294	Objc
+310345	Objc
+310351	Subj
+310384	Pred
+310393	Subj
+Pred
+310403	Objc
+310420	Subj
+Pred
+310443	Subj
+310480	Objc
+310482	Subj
 310484	Objc
-310497	Pred
-310499	Pred
-310517	Pred
-310519	Pred
-310523	Pred
-310525	Pred
-310532	Subj
-310556	Objc
-310578	Subj
-310582	Objc
-310594	Objc
-310632	Subj
 Subj
-310655	Subj
-310712	Subj
-310720	Objc
-310729	Subj
-310733	Subj
-310743	Subj
-310778	Pred
-310782	Subj
-310803	Subj
-310806	Objc
-310811	Objc
-310821	Objc
+310491	Objc
+310512	Objc
+310529	Objc
+310539	Objc
+310547	Subj
+310563	Pred
+310586	Objc
+310598	Subj
+310625	Objc
+310638	Objc
+310646	Pred
+310655	Pred
+310660	Subj
+Pred
+310667	Objc
+310677	Pred
+310682	Subj
+310687	Pred
+310695	Subj
+310697	Objc
+310704	Objc
+310707	Cmpl
+310727	Pred
+310751	Objc
+310758	Objc
+310766	Pred
+310771	Pred
+310785	Objc
+310791	Subj
+Objc
+310796	Objc
+310805	Subj
+310812	Objc
 310826	Subj
-310828	Cmpl
-310830	Subj
+310830	Objc
+310836	Objc
+310854	Pred
+310859	Subj
+310867	Subj
+310869	Pred
+310882	Pred
+310892	Objc
+310896	Subj
+310907	Subj
+310927	Objc
+310930	Objc
+310937	Pred
+310939	Subj
 Cmpl
-310866	Objc
-310891	Subj
-310893	Pred
-310919	Subj
-310924	Objc
-310948	Subj
-310975	Objc
-311000	Subj
-311014	Pred
-311023	Pred
-311042	Objc
-311048	Objc
-311051	Pred
-311086	Subj
-311102	Objc
-311106	Subj
-311111	Pred
-311118	Subj
-311137	Pred
-311163	Cmpl
-311201	Subj
-311229	Objc
-311273	Pred
-311285	Pred
-311301	Objc
-311311	Objc
-311327	Pred
-311348	Objc
-311386	Objc
-311440	Objc
-311448	Objc
-311457	Objc
-311491	Objc
-311504	Subj
-311521	Objc
+310950	Objc
+310961	Subj
+310967	Subj
+310986	Objc
+311012	Objc
 Subj
-311535	Objc
-311540	Objc
-311564	Objc
-311581	Objc
-311584	Objc
-311615	Objc
-311621	Subj
-311626	Subj
-311641	Cmpl
-311652	Subj
-311673	Subj
-311689	Subj
-311698	Subj
-311700	Pred
-311745	Objc
-311753	Pred
-311768	Objc
-311774	Objc
-311793	Objc
-311806	Objc
-311818	Pred
-311823	Subj
-311827	Objc
+311016	Subj
+311018	Pred
+311029	Subj
+311032	Pred
+311047	Subj
+311096	Objc
+311107	Subj
+311116	Subj
+311127	Pred
+311132	Cmpl
+311144	Subj
+311152	Objc
+311160	Objc
+311168	Subj
+311176	Subj
+311185	Cmpl
+311198	Objc
+311205	Objc
+311208	Subj
+311211	Objc
+311242	Subj
+311247	Objc
+311252	Cmpl
+311287	Objc
+311294	Objc
+311321	Objc
+311329	Objc
+311331	Subj
+311349	Subj
+311359	Objc
+311364	Objc
+311403	Objc
+311419	Subj
+311423	Objc
+311432	Objc
+311436	Cmpl
+311443	Pred
+311446	Subj
+311457	Subj
+311464	Subj
+311467	Objc
+311479	Pred
+311485	Subj
+311493	Objc
+311506	Objc
+311512	Pred
 Subj
-Cmpl
-311833	Subj
+311522	Cmpl
+311528	Objc
+Subj
+311552	Objc
+311571	Objc
+311574	Cmpl
+Subj
+311579	Pred
+311585	Objc
+311589	Objc
+311607	Subj
+311616	Objc
+311627	Cmpl
+311638	Objc
+311645	Subj
+311656	Subj
+311664	Objc
+311669	Subj
+311675	Subj
+311689	Objc
+311691	Cmpl
+311720	Subj
+311744	Subj
+311781	Pred
+311787	Objc
+311807	Objc
+311809	Cmpl
+311811	Subj
+311816	Subj
+311820	Subj
+311832	Subj
 311838	Subj
-311847	Pred
-311849	Pred
-311855	Subj
-311876	Subj
-311882	Subj
-Pred
-311902	Subj
-311910	Subj
-311917	Objc
-311928	Objc
-311938	Subj
-311967	Objc
-311971	Subj
-311980	Objc
-311986	Pred
+311851	Subj
+311856	Pred
+311860	Subj
+311863	Objc
+311865	Subj
+311867	Subj
+311889	Subj
+311906	Subj
+311908	Pred
+311926	Objc
 Subj
-311989	Pred
-311993	Cmpl
-311995	Subj
-311999	Subj
-312018	Subj
-312021	Subj
-312025	Subj
-Pred
-312043	Pred
-Subj
-312048	Subj
+311965	Objc
+311969	Objc
+311977	Subj
+311987	Objc
+311993	Objc
+311996	Objc
+312014	Objc
+312017	Objc
+312021	Objc
+312025	Objc
+312034	Subj
 Objc
-312053	Subj
-312065	Subj
-312076	Subj
-Pred
-312086	Subj
-Pred
-312091	Pred
-312116	Subj
-312127	Pred
-312139	Subj
+312039	Cmpl
+312043	Objc
+312062	Subj
+312064	Pred
+312074	Objc
+312079	Objc
+312082	Objc
+312085	Objc
+312097	Subj
+312108	Objc
+312111	Subj
 312141	Pred
-312144	Pred
-312153	Subj
-312166	Subj
-312171	Subj
-Objc
-312180	Objc
-312184	Objc
-312191	Subj
-Objc
-312212	Pred
-312279	Objc
-312290	Objc
-312297	Subj
-312307	Objc
-312312	Pred
-312350	Objc
-312362	Pred
-312364	Objc
-312385	Subj
-312391	Subj
-312401	Pred
-312407	Pred
-312416	Subj
-312431	Subj
-312434	Pred
-312455	Subj
-312462	Objc
-312468	Pred
-312477	Objc
-312482	Subj
-312493	Subj
-312527	Cmpl
-312533	Objc
-312546	Objc
-312557	Subj
-312567	Subj
-Pred
-312573	Subj
-Objc
-312582	Objc
-312588	Objc
-312601	Subj
-312619	Objc
-312629	Subj
-312637	Objc
-312659	Objc
-312665	Subj
-312670	Subj
-312687	Pred
-312708	Objc
-Objc
-312714	Subj
-312719	Pred
-312724	Subj
-312727	Objc
-312751	Objc
-312757	Subj
-312761	Objc
-312765	Objc
-312780	Objc
-312786	Objc
-312794	Objc
-312801	Objc
-312832	Objc
-312837	Objc
-312851	Objc
-312881	Subj
-312936	Objc
-312944	Subj
-312950	Pred
-312963	Cmpl
-312968	Pred
-313059	Objc
-313076	Objc
-313097	Objc
-313117	Subj
-313136	Pred
-313183	Objc
-313189	Subj
-313198	Subj
-313203	Subj
-313214	Subj
-313274	Objc
-313286	Objc
-313322	Subj
-313330	Objc
-313338	Pred
-313341	Subj
-313348	Subj
-313379	Objc
-313402	Pred
-313404	Pred
-313409	Pred
-313415	Pred
-313424	Subj
-313444	Pred
-313451	Pred
-313489	Objc
-313501	Objc
-313509	Objc
-313517	Objc
-313520	Cmpl
-313524	Objc
-313536	Cmpl
-313540	Objc
+312144	Objc
 Subj
-313574	Subj
-313582	Subj
-313592	Pred
-313604	Objc
-313616	Subj
-313624	Objc
-313635	Cmpl
-313639	Cmpl
-313646	Subj
-313657	Pred
-313678	Subj
-313682	Cmpl
+312154	Objc
+312165	Objc
+312170	Subj
+312173	Cmpl
+312178	Subj
+312189	Pred
+312197	Cmpl
+312214	Cmpl
+312227	Objc
+312236	Pred
+312240	Subj
+312247	Subj
+312263	Subj
+312304	Pred
+312319	Subj
+312333	Pred
+312340	Objc
 Objc
-313690	Subj
-313703	Objc
-313706	Cmpl
-313715	Subj
-313733	Objc
-313751	Pred
-313755	Objc
-313762	Subj
-313783	Subj
-313801	Subj
-313808	Objc
-313839	Subj
-313874	Objc
-313916	Cmpl
-313918	Subj
-313933	Cmpl
-313950	Subj
-313953	Pred
-313961	Objc
+312346	Objc
+312379	Objc
+312383	Objc
+312388	Objc
+312398	Subj
+312443	Subj
+312468	Objc
+312473	Subj
+312480	Objc
+312494	Subj
+312508	Subj
+312529	Objc
+312558	Subj
+312587	Subj
+312595	Subj
+Objc
+312607	Subj
+312640	Subj
+312652	Objc
+312655	Pred
+312661	Pred
+312664	Objc
+312666	Cmpl
+312676	Subj
+312684	Subj
+312709	Objc
+312735	Subj
+312741	Pred
+312772	Objc
+312785	Subj
+312791	Cmpl
+Subj
+312795	Objc
+312802	Subj
+Objc
+312808	Subj
+312813	Objc
+312821	Subj
+312825	Objc
+312840	Objc
+Subj
+312864	Objc
+312891	Objc
+312894	Objc
+312927	Objc
+312941	Objc
+312966	Subj
+312996	Pred
+Subj
+313000	Pred
+313006	Subj
+313008	Objc
+313025	Objc
+313031	Subj
+313036	Objc
+313062	Cmpl
+313074	Subj
+313090	Objc
+313095	Subj
+313101	Objc
+313110	Objc
+313130	Objc
+313137	Objc
+313140	Objc
+Objc
+313143	Cmpl
+313148	Objc
+313153	Pred
+313156	Objc
+313158	Cmpl
+313161	Subj
+313169	Subj
+313179	Cmpl
+313196	Objc
+313202	Subj
+313210	Subj
+313213	Objc
+313224	Objc
+313234	Objc
+313239	Objc
+Subj
+313251	Cmpl
+Objc
+313263	Subj
+313266	Pred
+313271	Subj
+313281	Subj
+313283	Pred
+313291	Subj
+313302	Pred
+313354	Subj
+313365	Cmpl
+313375	Subj
+Objc
+313388	Subj
+313397	Pred
+313413	Subj
+313421	Pred
+313425	Objc
+313435	Pred
+Subj
+313440	Subj
+Objc
+313445	Objc
+313448	Subj
+313472	Subj
+313475	Objc
+313497	Objc
+313499	Subj
+Objc
+313504	Objc
+313513	Objc
+Objc
+313539	Subj
+313560	Subj
+313578	Objc
+313580	Pred
+313584	Subj
+313598	Objc
+313644	Objc
+313650	Cmpl
+313668	Objc
+313679	Objc
+Subj
+313688	Pred
+313693	Objc
+313695	Cmpl
+313724	Pred
+313729	Objc
+313742	Subj
+313754	Subj
+Subj
+313767	Pred
+313769	Subj
+Pred
+Subj
+313783	Objc
+Objc
+313788	Subj
+313798	Subj
+313802	Objc
+313818	Subj
+313827	Objc
+313836	Subj
+313848	Objc
+313863	Subj
+313868	Objc
+313873	Subj
+313885	Subj
+313890	Objc
+313893	Pred
+313896	Subj
+313901	Subj
+313903	Subj
+313906	Subj
+313934	Pred
+Subj
+313939	Subj
+Objc
+313942	Objc
+313948	Subj
+313972	Objc
+313979	Objc
 313991	Subj
-314015	Pred
-314043	Pred
-314046	Subj
-314061	Objc
+Objc
+314001	Objc
+314006	Pred
+314021	Objc
+314042	Subj
+314057	Objc
+314069	Subj
+314077	Pred
 314079	Subj
-314096	Pred
-314115	Objc
-314125	Pred
-314164	Objc
-314170	Pred
-314179	Subj
-314183	Cmpl
-314195	Objc
-314204	Subj
-314235	Subj
-314248	Pred
-314252	Subj
-314259	Pred
-314263	Subj
-314270	Subj
-314275	Objc
+314091	Subj
+314093	Pred
+314111	Objc
+314113	Cmpl
+314117	Objc
+314129	Objc
+Cmpl
+314151	Subj
+314167	Pred
+314169	Subj
+314176	Subj
+314186	Cmpl
+314199	Subj
+314212	Subj
+314240	Objc
+Subj
+314258	Objc
+314262	Subj
+314267	Pred
+314269	Subj
+Pred
+314284	Objc
+314286	Cmpl
+314289	Pred
+314312	Objc
+314323	Objc
 314327	Subj
 314337	Pred
-314350	Subj
-314353	Subj
-314356	Pred
-314385	Subj
-314391	Subj
-314408	Subj
-314420	Objc
-314423	Subj
-314431	Subj
-314440	Pred
-314454	Cmpl
+Subj
+314345	Pred
+314347	Objc
+314359	Subj
+314382	Subj
+314384	Pred
+314393	Objc
+314396	Subj
+Objc
+314404	Pred
+314446	Subj
+314448	Cmpl
 314463	Objc
-314473	Cmpl
-314477	Cmpl
-314480	Pred
-314485	Subj
-314487	Pred
-314490	Pred
-314497	Subj
-Cmpl
-Subj
-314501	Cmpl
+314465	Pred
+314470	Subj
+314475	Pred
+314486	Objc
+314495	Objc
+Objc
+314504	Objc
 314508	Objc
-314512	Subj
-314514	Objc
-314528	Objc
+314512	Objc
+314530	Subj
+314539	Objc
+314546	Objc
+314548	Cmpl
+314551	Subj
+314554	Pred
+314560	Subj
+314589	Objc
+314594	Pred
+314598	Subj
 Objc
-314544	Subj
-314547	Objc
-314551	Objc
-314558	Objc
-314563	Objc
-314571	Subj
-314573	Objc
-314576	Pred
-314595	Subj
-Pred
-314601	Subj
-314614	Subj
-314618	Objc
-314624	Subj
-314627	Objc
-314633	Objc
-314647	Pred
-314664	Objc
-314677	Objc
-314689	Objc
-314699	Subj
-314702	Objc
-314711	Objc
-314719	Objc
-314732	Objc
-314735	Objc
-314740	Subj
-314745	Pred
-314748	Pred
-314762	Objc
-314776	Subj
-314801	Objc
-314820	Objc
-314825	Objc
-314830	Objc
-314845	Objc
-314865	Pred
-314896	Objc
-314914	Subj
-314936	Objc
-314940	Objc
-314945	Cmpl
-314956	Subj
-Pred
-314961	Objc
-314973	Cmpl
-314981	Pred
-314998	Objc
-315012	Objc
-315027	Objc
-315030	Subj
-315033	Objc
-315060	Pred
-315063	Subj
-315067	Pred
+314608	Objc
+314615	Pred
 Subj
-315071	Objc
-315080	Subj
-315116	Subj
-315124	Subj
-315136	Subj
-315144	Objc
-315159	Objc
-315174	Objc
-315254	Pred
-315266	Objc
-315273	Pred
-315301	Subj
-315328	Objc
-315349	Pred
-315352	Pred
-315355	Pred
-315386	Subj
-Pred
-315390	Subj
-315394	Subj
-315398	Subj
-315403	Objc
-315407	Objc
-315409	Objc
-315412	Objc
-315425	Objc
-315427	Objc
-315434	Pred
+314626	Pred
+314642	Objc
+314656	Objc
+314670	Objc
+314672	Objc
+314691	Pred
+314693	Pred
+314704	Subj
+314708	Objc
+314719	Subj
+314727	Subj
+314731	Objc
+314733	Objc
+314737	Subj
+314741	Objc
+314747	Subj
+314767	Subj
+314770	Objc
+314776	Pred
+Subj
+314788	Objc
+314808	Subj
+314813	Objc
+314831	Objc
+314836	Objc
+314841	Objc
+314843	Cmpl
+314850	Objc
+Objc
+314856	Objc
+314873	Subj
+314880	Pred
+314891	Subj
+314900	Pred
+314908	Subj
+314913	Pred
+Objc
+314919	Objc
+314941	Objc
+314948	Pred
+314959	Objc
+314963	Objc
+314968	Subj
+314994	Objc
+315027	Pred
+315029	Subj
+315034	Pred
+315037	Subj
+315044	Objc
+315055	Objc
+315082	Subj
+315084	Objc
+315092	Pred
+315104	Objc
+Subj
+315114	Objc
+315119	Subj
+315126	Objc
+315137	Objc
+315158	Objc
+315176	Objc
+315188	Objc
+315194	Subj
+Objc
+315214	Objc
+315242	Objc
+315247	Objc
+315249	Subj
+315255	Cmpl
+315262	Cmpl
+315289	Cmpl
+Objc
+315302	Pred
+315304	Pred
+315306	Cmpl
+Objc
+315316	Objc
+315324	Objc
+315329	Objc
+315342	Objc
+Subj
+315351	Subj
+315354	Pred
+315399	Objc
+315404	Objc
+315417	Objc
+315435	Objc
+315438	Objc
 315446	Objc
-315448	Pred
-315466	Subj
-315481	Subj
-315488	Subj
-315505	Pred
-315510	Pred
-315516	Objc
-315558	Objc
-315590	Subj
-315602	Objc
-315608	Objc
-315610	Objc
-315615	Subj
-Objc
-315618	Objc
-315623	Objc
-315642	Objc
-315649	Subj
+315458	Subj
+315490	Subj
+315499	Subj
+315501	Pred
+315518	Cmpl
+Subj
+315522	Objc
+315562	Objc
+315586	Cmpl
+315615	Objc
+315632	Subj
+315643	Objc
+315652	Objc
+315659	Objc
 315672	Objc
-315687	Subj
+315678	Objc
+315694	Objc
+315711	Objc
 315714	Objc
-315725	Objc
-315740	Objc
-315749	Objc
-315751	Objc
-315754	Objc
-315759	Pred
-315779	Subj
-315787	Pred
-315790	Pred
-315792	Pred
-315799	Objc
-315833	Objc
-315906	Objc
-315931	Objc
+315724	Pred
+315730	Objc
 Subj
-315943	Pred
-315962	Pred
+315734	Cmpl
+315741	Objc
+315744	Objc
+315753	Pred
+315758	Objc
+315762	Cmpl
+Subj
+315767	Objc
+315779	Objc
+315785	Subj
+315787	Subj
+315805	Objc
+315815	Objc
+315820	Subj
+Pred
+315823	Objc
+315836	Subj
+315854	Subj
+315861	Subj
+315868	Objc
+315873	Objc
+315877	Cmpl
+Subj
+315881	Objc
+315915	Subj
+315917	Subj
+315929	Objc
+315937	Subj
+315953	Pred
+Subj
 315968	Subj
-315972	Subj
-315974	Pred
-315977	Subj
+315970	Objc
+315973	Subj
 Pred
-315984	Objc
-315988	Subj
-315998	Objc
-316002	Objc
-316013	Objc
-316035	Objc
-316041	Objc
-316058	Subj
-316060	Pred
+315978	Objc
+315981	Objc
+316003	Objc
+316015	Objc
+316022	Objc
+316037	Subj
+316045	Objc
+316047	Pred
+316052	Subj
+316060	Subj
+316065	Objc
 316070	Subj
-316072	Cmpl
-316075	Subj
-316087	Subj
-316141	Subj
-316144	Pred
-316168	Pred
-316206	Subj
-316217	Subj
-316224	Subj
-316239	Objc
-316268	Subj
-316270	Objc
-316283	Cmpl
-316287	Subj
-316295	Objc
-316300	Subj
-316306	Subj
-316310	Subj
-316316	Subj
-316321	Pred
-316336	Cmpl
-316416	Objc
-316437	Objc
-316444	Subj
-316564	Subj
-316571	Pred
-316574	Subj
-316580	Pred
-316598	Subj
-316604	Objc
-316676	Pred
-316686	Objc
-316702	Pred
-316733	Subj
-316736	Subj
-316746	Subj
-316748	Pred
-316756	Objc
-316759	Objc
-316763	Objc
-316781	Objc
-316789	Objc
-316794	Subj
-316815	Subj
-316836	Pred
+316082	Objc
+316088	Subj
+316091	Pred
+316097	Subj
+316101	Objc
+316106	Pred
+316128	Subj
+316130	Pred
+316133	Subj
+316135	Pred
+316140	Subj
+316142	Objc
+316147	Pred
+316169	Objc
+316186	Objc
+316194	Objc
+316206	Objc
+Subj
+316232	Cmpl
+Subj
+316236	Objc
+316264	Objc
+316274	Subj
+316279	Subj
+316301	Pred
+316304	Pred
+316306	Objc
+316309	Objc
+316316	Objc
+316320	Pred
+316334	Objc
+316362	Objc
+316365	Subj
+316367	Objc
+316370	Pred
+316390	Subj
+316396	Pred
+316400	Subj
+316406	Subj
+316438	Subj
+316450	Objc
+316458	Objc
+316460	Subj
+316463	Subj
+316492	Subj
+316497	Objc
+316517	Objc
+316531	Subj
+316556	Pred
+316558	Subj
+316601	Objc
+316620	Subj
+316622	Objc
+316637	Cmpl
+316639	Objc
+316641	Objc
+316651	Objc
+316662	Subj
+316669	Objc
+316673	Objc
+316679	Subj
+316684	Subj
+316694	Objc
+316700	Objc
+316704	Objc
+316718	Objc
+316720	Cmpl
+316748	Objc
+316759	Subj
+316761	Objc
+316764	Objc
+316774	Subj
+316778	Subj
+316782	Subj
+316785	Pred
+316788	Objc
+316797	Pred
+316801	Objc
+316807	Objc
+316810	Objc
+316833	Objc
+316835	Cmpl
+316839	Cmpl
+Subj
+316850	Objc
+Subj
 316858	Objc
-316902	Subj
-316913	Pred
-316962	Objc
-316972	Pred
-316978	Cmpl
-317005	Pred
-317010	Subj
-Pred
-317036	Subj
-317067	Pred
-317080	Objc
-317086	Pred
-317098	Objc
-317100	Subj
-317107	Objc
+316872	Subj
+316876	Subj
+Objc
+316880	Cmpl
+316882	Subj
+316890	Objc
+316895	Subj
+316901	Subj
+316914	Objc
+Subj
+316938	Cmpl
+Subj
+316962	Subj
+316967	Objc
+316980	Objc
+316994	Subj
+316997	Pred
+317004	Subj
+317007	Pred
+317042	Objc
+317044	Subj
+317059	Objc
+317067	Objc
+317069	Subj
 317109	Objc
-317118	Subj
-317132	Subj
-317153	Subj
-317159	Subj
-317165	Subj
-317177	Objc
-317208	Pred
-317232	Subj
-317234	Subj
-317240	Objc
-317243	Pred
-317249	Subj
-317263	Subj
-317280	Cmpl
-317304	Cmpl
-317313	Objc
-317322	Objc
-317331	Objc
-317340	Objc
-317352	Objc
-317367	Objc
-317391	Cmpl
-317395	Subj
-317399	Objc
-317409	Subj
+317122	Objc
+317124	Subj
+Cmpl
+317128	Subj
+317136	Objc
+317151	Subj
+317154	Pred
+317172	Pred
+317184	Objc
+317213	Pred
+317227	Objc
+317230	Subj
 Objc
-317430	Objc
-317433	Subj
-317435	Pred
-317440	Cmpl
-317443	Objc
-317463	Objc
-317467	Objc
-317477	Pred
-317480	Objc
-317507	Pred
-317510	Pred
-317542	Objc
-317577	Subj
-317590	Objc
-317592	Subj
+317236	Subj
+317255	Subj
+317264	Subj
+317270	Pred
+317277	Objc
+317297	Objc
+317300	Subj
+Pred
+317311	Subj
+Pred
+317315	Subj
+317325	Objc
+317347	Subj
+317350	Subj
+317357	Subj
+317372	Subj
+317382	Cmpl
+317389	Subj
+317400	Cmpl
+317407	Subj
+317415	Objc
+317424	Objc
+317426	Objc
+317444	Subj
+317450	Objc
+317458	Subj
+Cmpl
+317466	Pred
+317473	Objc
+317497	Subj
+317510	Objc
+317536	Objc
+317558	Subj
+317560	Objc
+317566	Objc
+317574	Cmpl
+317583	Objc
+317594	Subj
+Objc
 317598	Objc
-317606	Subj
+317610	Pred
 317612	Objc
-317616	Subj
-Pred
-317623	Cmpl
-317639	Objc
-317647	Objc
+317614	Pred
+317616	Pred
+Objc
+317629	Subj
+317636	Objc
+317649	Objc
+317652	Subj
 317676	Objc
-317680	Subj
-317703	Pred
-317708	Objc
-317731	Subj
-317757	Objc
-317767	Objc
-317814	Objc
-317823	Subj
-317838	Objc
-317846	Objc
-317853	Pred
-317860	Pred
-317873	Pred
-317876	Subj
-317886	Objc
-317918	Objc
-317920	Objc
-317930	Pred
-317941	Objc
-317945	Objc
-317967	Subj
-Objc
-317971	Objc
-317992	Pred
-318000	Pred
-318007	Objc
+317678	Subj
+317688	Objc
+317700	Objc
+317722	Pred
+317731	Pred
 Subj
-318014	Subj
-318037	Cmpl
-318043	Objc
-318049	Subj
-318062	Objc
-318080	Subj
-318085	Pred
-318093	Subj
-Pred
-318156	Pred
-318175	Objc
-318186	Subj
-318206	Objc
-318212	Subj
-318235	Objc
+317740	Subj
+317744	Objc
+317750	Objc
+Subj
+317777	Objc
+317791	Subj
+317797	Pred
+317827	Subj
+317832	Subj
+317837	Objc
+317851	Pred
+317853	Objc
+Subj
+317864	Objc
+317868	Subj
+317871	Pred
+317917	Cmpl
+317931	Objc
+317937	Objc
+317958	Objc
+317975	Subj
+317984	Pred
+318016	Subj
+318029	Objc
+318038	Cmpl
+318048	Pred
+318056	Pred
+318063	Objc
+318071	Objc
+318096	Objc
+318099	Cmpl
+318101	Subj
+318103	Pred
+318108	Objc
+Subj
+318119	Objc
+318138	Objc
+318143	Pred
+318148	Subj
+318155	Pred
+318169	Objc
+318179	Objc
+318183	Cmpl
+318188	Cmpl
+318199	Objc
+318201	Objc
+318203	Objc
+318205	Objc
+318210	Objc
+318213	Objc
 Cmpl
-318254	Objc
-318258	Objc
-318275	Objc
-318281	Subj
-318292	Subj
-318297	Objc
-318342	Objc
-318350	Subj
-318362	Subj
-318365	Objc
-318372	Pred
-318376	Subj
-318381	Objc
-318388	Objc
-318404	Subj
-318418	Objc
-318431	Subj
-318457	Objc
-318471	Objc
-318484	Subj
-318499	Subj
-318529	Subj
-318542	Subj
-318562	Pred
-318583	Subj
-318595	Subj
+318224	Subj
+318229	Cmpl
+318231	Objc
+318234	Cmpl
+318238	Subj
+318245	Objc
+318260	Cmpl
+318267	Objc
+318275	Cmpl
+Objc
+318288	Cmpl
+318290	Objc
+318311	Subj
+318320	Pred
+318331	Subj
+318335	Cmpl
+318353	Cmpl
+318357	Objc
+318359	Objc
+318367	Objc
+318370	Subj
+318387	Objc
+318399	Objc
+318417	Pred
+318423	Objc
+318430	Cmpl
+318438	Pred
+318442	Subj
+Subj
+318446	Objc
+318449	Subj
+318452	Pred
+318456	Subj
+318459	Pred
+318466	Objc
+318477	Objc
+Subj
+318493	Objc
+318498	Objc
+318500	Objc
+318505	Objc
+318514	Subj
+318522	Pred
+318532	Pred
+318539	Subj
+318547	Objc
+318550	Objc
+318555	Objc
+318575	Subj
+318580	Objc
+318585	Pred
+318593	Subj
+318596	Subj
 318598	Subj
-318610	Pred
-318613	Subj
-318618	Subj
-318635	Subj
-318665	Subj
-318694	Objc
-318727	Objc
-318729	Objc
-318731	Objc
-318740	Objc
-318754	Pred
-318762	Objc
-318768	Objc
-318777	Subj
-318783	Subj
-318810	Objc
-318818	Subj
+318602	Subj
+318604	Subj
+318608	Objc
+318610	Objc
+318612	Subj
+318615	Subj
+318617	Pred
+318622	Subj
+318648	Objc
+318653	Objc
+318661	Subj
+318663	Pred
+318676	Objc
+318683	Subj
+318691	Subj
+318700	Pred
+318702	Subj
+318708	Objc
+318712	Subj
+318718	Subj
+318736	Subj
+318762	Cmpl
+318776	Subj
+318778	Pred
+318780	Subj
+318783	Objc
+318785	Subj
+318790	Objc
+318792	Objc
+318803	Objc
+Objc
+318818	Cmpl
+Objc
+318822	Objc
+318824	Objc
+318831	Cmpl
+Subj
+318868	Objc
+318875	Subj
+318882	Subj
+318885	Objc
+318892	Objc
+318912	Pred
+318924	Objc
+Objc
+318929	Objc
+318934	Cmpl
+318945	Objc
+318948	Subj
+318963	Objc
 Cmpl
-318823	Subj
-318829	Pred
-318835	Cmpl
-318859	Objc
-318868	Subj
-318872	Subj
-318881	Subj
-318904	Pred
-318954	Objc
-318987	Subj
+318966	Subj
+318971	Subj
+318978	Subj
+318983	Objc
+318994	Objc
 319002	Subj
-319006	Objc
-319014	Subj
-319069	Subj
-319081	Subj
-319115	Pred
-319130	Subj
-319161	Subj
-319163	Pred
-319181	Objc
-319191	Subj
-Objc
-319196	Objc
-319199	Subj
-319203	Objc
-319211	Objc
-319219	Subj
-319247	Objc
-319282	Objc
-319301	Subj
-319321	Subj
-319347	Subj
-Objc
-319405	Objc
-319421	Pred
-319439	Cmpl
-319449	Objc
-319462	Objc
-319484	Subj
-319488	Objc
-319494	Subj
+319004	Pred
+319010	Subj
+319020	Pred
+319027	Objc
+319030	Objc
+319044	Pred
+319061	Objc
+319070	Objc
+319073	Subj
+319102	Pred
+319106	Objc
+319108	Subj
+319120	Objc
+319123	Subj
+319132	Objc
+319141	Objc
+Subj
+319152	Objc
+319154	Pred
+319156	Subj
+319158	Pred
+319177	Subj
+319189	Pred
+319193	Subj
+319214	Subj
+319223	Objc
+319231	Objc
+319258	Subj
+319268	Objc
+319278	Objc
+319290	Subj
+319294	Objc
+319322	Pred
+319327	Subj
+319343	Objc
+319352	Pred
+319359	Subj
+319369	Pred
+319377	Objc
+319395	Objc
+319403	Objc
+319414	Subj
+319420	Subj
+319430	Objc
+319439	Subj
+319450	Cmpl
+319480	Subj
+319490	Subj
+319502	Subj
+319506	Subj
+319513	Objc
+319551	Subj
+319571	Subj
+319609	Subj
+319642	Objc
+319650	Objc
+319657	Objc
+Subj
+319673	Subj
+Cmpl
+319708	Subj
+319729	Subj
+319738	Subj
+319781	Subj
 Pred
-319499	Subj
-319510	Subj
-319516	Pred
-319578	Subj
-319581	Pred
-319607	Subj
-319628	Subj
-Objc
-319671	Subj
-319685	Subj
-319696	Pred
-319706	Objc
-319734	Objc
-319746	Objc
-319763	Cmpl
-319781	Pred
-319784	Objc
-319802	Subj
-319814	Subj
-319827	Subj
-319845	Subj
-319849	Objc
-319887	Pred
-319899	Subj
-319917	Subj
-319922	Objc
-319927	Subj
-319937	Objc
-319949	Objc
-319952	Objc
-319965	Objc
-319984	Objc
-319993	Subj
-320005	Pred
-320018	Objc
+319786	Subj
+319796	Pred
+319800	Subj
+319822	Objc
+319825	Objc
+319863	Objc
+319865	Objc
+319872	Subj
+319908	Subj
+319912	Objc
+319937	Subj
+319939	Objc
+319950	Subj
+319954	Subj
+319960	Objc
+319963	Pred
+319970	Pred
+319974	Subj
+Subj
+319978	Objc
+319986	Subj
+Pred
+320000	Subj
 320021	Objc
-320056	Subj
-320075	Subj
-320099	Subj
-320108	Objc
-320112	Subj
-320127	Cmpl
+320042	Pred
+320046	Objc
+320048	Objc
+320058	Objc
 Pred
-320144	Objc
-320156	Subj
-320161	Subj
-320164	Objc
-320174	Subj
-320191	Pred
-320202	Objc
-320206	Pred
+320070	Objc
+320082	Pred
+320084	Subj
+320088	Pred
+320091	Pred
+320100	Pred
+320107	Objc
+320112	Objc
+Subj
+Objc
+320131	Objc
+320140	Subj
+320145	Objc
+Pred
+320151	Pred
+320157	Subj
+320168	Objc
+320183	Objc
+320233	Objc
+320237	Subj
 320240	Pred
-320243	Subj
-320286	Subj
-320291	Objc
-320295	Cmpl
-320305	Subj
-320327	Objc
-320335	Objc
-320341	Objc
-320350	Pred
-320362	Objc
+320247	Objc
+320255	Objc
+320283	Objc
+320296	Objc
+320307	Objc
+320317	Objc
+320328	Pred
+320330	Pred
+320333	Subj
+320338	Pred
+320347	Objc
+320359	Pred
+Subj
 320373	Objc
-320386	Objc
-320399	Pred
-320414	Objc
-320427	Subj
-320431	Subj
-320434	Objc
-320439	Subj
-320452	Subj
-320455	Objc
-320459	Subj
-320478	Subj
-320507	Objc
-320518	Subj
-320529	Subj
-320543	Objc
-320545	Objc
-320559	Objc
-320572	Objc
-320620	Subj
-320624	Pred
-Subj
-320658	Objc
-320665	Pred
-320690	Objc
+320383	Objc
+320390	Subj
+320393	Objc
+320413	Pred
+320415	Pred
+320425	Objc
+320428	Cmpl
+320433	Subj
+320453	Objc
+320457	Objc
+320462	Objc
+320465	Subj
+320474	Pred
+320483	Subj
+320491	Subj
+320495	Cmpl
+320502	Objc
+320524	Pred
+320526	Subj
+Objc
+320539	Objc
+320578	Pred
+320604	Objc
+320617	Objc
+Cmpl
+Objc
+320626	Subj
+320630	Pred
+320635	Pred
+320640	Subj
+320642	Pred
+320668	Pred
+320676	Pred
+320678	Cmpl
+Objc
+320700	Objc
 320704	Objc
-320716	Objc
-320724	Objc
-320727	Objc
-320764	Subj
-320775	Cmpl
-320801	Objc
-320807	Objc
-320813	Objc
-320815	Objc
-320829	Subj
-Pred
-320869	Objc
-320881	Objc
-320886	Objc
-320919	Pred
-320929	Subj
+320715	Subj
+320717	Pred
+320739	Objc
+320743	Objc
+320753	Subj
+320765	Objc
+Subj
+320777	Objc
+320782	Subj
+320786	Objc
+320791	Pred
+320803	Objc
+Subj
+320808	Subj
+320817	Subj
+320825	Pred
+320827	Subj
+320835	Subj
+320851	Subj
+320857	Subj
+320868	Subj
 Objc
-320988	Objc
-321007	Objc
-321019	Objc
-321026	Objc
-321041	Objc
-321064	Subj
-Cmpl
-321073	Objc
-321078	Pred
-321083	Subj
-321116	Objc
-321143	Subj
-321146	Objc
-321153	Subj
-321177	Subj
-321187	Subj
-321196	Subj
-321242	Objc
-321248	Objc
-321258	Subj
-321273	Objc
-321278	Subj
-321283	Objc
-321292	Subj
-321295	Objc
-321301	Pred
-321315	Pred
-321318	Pred
-321325	Pred
-321341	Objc
-321349	Objc
-321355	Objc
-321367	Subj
-321379	Subj
-321400	Subj
-321405	Subj
-321415	Objc
-321418	Objc
-321422	Objc
-321426	Pred
-321434	Objc
-321455	Objc
+320876	Subj
+320881	Pred
+320888	Subj
+320901	Objc
+Subj
+320906	Pred
+320922	Subj
+320943	Subj
 Pred
-321470	Subj
-321474	Subj
-321501	Objc
-321505	Subj
-321509	Subj
-321555	Subj
-321569	Subj
-321601	Objc
-321621	Objc
-321629	Objc
-321636	Objc
-321648	Objc
-321650	Objc
-321658	Subj
-321665	Objc
-321668	Objc
-321670	Objc
-321694	Objc
-321707	Objc
-321717	Pred
-321733	Objc
-321749	Objc
-321752	Subj
+320957	Subj
+320974	Objc
+320977	Subj
+320980	Subj
+321001	Subj
+321009	Pred
+321011	Subj
+321024	Subj
+321028	Subj
+Pred
+321038	Pred
+321046	Subj
+321048	Subj
+321055	Pred
+321062	Subj
+321068	Subj
+321076	Objc
+321123	Pred
+321128	Subj
+321134	Objc
+321148	Objc
+321156	Objc
+321160	Objc
+321162	Subj
+321166	Objc
+321168	Objc
+321170	Objc
+Subj
+321186	Objc
+321193	Subj
+321200	Objc
+321204	Subj
+321235	Objc
+321243	Subj
+321257	Pred
+321260	Subj
+321263	Objc
+321269	Pred
+321275	Pred
+321282	Objc
+321285	Subj
+Objc
+321296	Subj
+321299	Objc
+321306	Objc
+321314	Cmpl
+321322	Objc
+321328	Pred
+321334	Subj
+321343	Subj
+321349	Pred
+321352	Subj
+321358	Objc
+321361	Subj
+321364	Subj
+321382	Objc
+321391	Objc
+321402	Subj
+Objc
+321409	Objc
+321416	Subj
+321426	Subj
+321428	Objc
+321430	Subj
+321432	Pred
+Subj
+321436	Objc
+321451	Subj
+321453	Objc
+321470	Objc
+321474	Pred
+321478	Subj
+321481	Pred
+321490	Objc
+321497	Objc
+321504	Objc
+321508	Subj
+321510	Objc
+321520	Pred
+321528	Objc
+321542	Objc
+321544	Objc
+321547	Subj
+321553	Pred
+321559	Subj
+321580	Pred
+321599	Subj
+321601	Pred
+Pred
+321610	Subj
+321614	Pred
+321633	Pred
+321641	Objc
+321660	Pred
+321664	Subj
+321669	Objc
+321677	Pred
+321682	Subj
+321698	Subj
+321701	Objc
+321717	Subj
+321725	Objc
+321738	Objc
+321740	Subj
+321749	Subj
 321757	Subj
-321761	Objc
-321780	Subj
-321787	Subj
-321790	Subj
-321800	Subj
-321811	Subj
-321847	Subj
+321763	Objc
+Subj
 Pred
-321853	Subj
+321799	Pred
+321832	Subj
+321835	Pred
+321863	Objc
+321896	Subj
+321903	Subj
+321909	Objc
+321911	Objc
+Cmpl
+321916	Objc
+321930	Objc
+321937	Pred
+321944	Subj
+321961	Objc
+321973	Pred
+321975	Subj
+Subj
+321978	Pred
+321982	Subj
+321987	Pred
+321998	Subj
+322007	Subj
+322018	Cmpl
+322024	Objc
+322058	Subj
 Pred
-321878	Subj
-321885	Objc
-321935	Objc
-321946	Subj
-Pred
-321960	Objc
-321996	Objc
-322014	Subj
-322031	Objc
-322045	Subj
-322088	Cmpl
-322092	Subj
-322095	Cmpl
+322066	Objc
+322071	Subj
 322099	Subj
-322104	Objc
-322111	Objc
-322121	Subj
-322125	Objc
-322131	Cmpl
-322139	Objc
-322153	Subj
-322174	Objc
-322227	Objc
-322233	Subj
-322237	Objc
+322112	Subj
+Pred
+322115	Subj
+322129	Subj
+322150	Subj
+322180	Objc
+322182	Subj
+322201	Subj
+322248	Subj
 322250	Subj
-322292	Subj
-322301	Objc
-322324	Objc
-322333	Subj
-322362	Subj
-322365	Objc
-322373	Subj
-322383	Subj
-Pred
-322426	Objc
-322429	Objc
-322451	Subj
-322474	Subj
-322483	Objc
-322497	Pred
-322507	Objc
-322524	Objc
-322527	Pred
-322550	Pred
-322552	Subj
-322555	Pred
-322566	Objc
-322605	Objc
-322613	Objc
-322654	Subj
-322659	Pred
-322667	Subj
-Cmpl
-322680	Objc
-322683	Objc
-322697	Objc
-322703	Objc
-322711	Objc
-322716	Cmpl
-322720	Pred
-322727	Pred
-322730	Pred
-322736	Objc
-322742	Subj
-322755	Objc
-322759	Objc
+322260	Objc
+322272	Objc
+322281	Subj
+322308	Objc
+322331	Objc
+322339	Pred
+322342	Subj
+322348	Pred
+322350	Subj
+322356	Objc
+322370	Objc
+322373	Cmpl
+322399	Objc
+322420	Subj
+322431	Objc
+322437	Objc
+322441	Objc
+322467	Subj
+322477	Objc
+322484	Subj
+322488	Objc
+Subj
+322491	Objc
+322517	Subj
+322543	Cmpl
+Subj
+322558	Pred
+Subj
+322562	Objc
+322575	Subj
+322577	Objc
+322595	Objc
+322613	Pred
+322615	Subj
+322619	Subj
+322627	Objc
+322645	Objc
+322658	Subj
+322660	Pred
+322666	Objc
+322707	Objc
+322715	Pred
+322721	Objc
+322733	Objc
+322739	Pred
+322750	Subj
+322756	Subj
 322761	Objc
-322769	Subj
-322773	Pred
-322779	Pred
-322782	Subj
-322807	Objc
-322810	Pred
-322813	Subj
-322837	Pred
-322840	Subj
-322855	Objc
-322857	Objc
+322773	Subj
+322789	Objc
+322793	Subj
+Objc
+322815	Objc
+322831	Objc
+322838	Objc
+322851	Subj
+Subj
+322857	Subj
+Objc
 322863	Pred
-322884	Subj
-322890	Subj
-322893	Objc
-322908	Subj
-322940	Subj
-322961	Objc
+322884	Objc
+322899	Pred
+322913	Objc
+322928	Subj
 Objc
-322967	Subj
-322994	Subj
-322998	Subj
-323001	Objc
-323003	Objc
-323018	Pred
-323027	Objc
-323029	Cmpl
-323051	Subj
-323057	Subj
-323060	Subj
-Objc
-323070	Objc
+322942	Subj
+322944	Objc
+322947	Objc
+322953	Objc
+322962	Objc
+322977	Subj
+322992	Subj
+323000	Subj
+323019	Subj
+323034	Subj
+323040	Subj
+323057	Objc
+323061	Subj
+323066	Cmpl
 323074	Pred
-323084	Pred
-323091	Objc
-323101	Pred
-323110	Objc
-323143	Subj
-323151	Objc
-323155	Objc
-323163	Subj
-323192	Pred
-323205	Subj
-323211	Objc
-323215	Objc
-323230	Subj
-323235	Objc
-323242	Objc
-323252	Objc
-323270	Pred
-323272	Subj
-323286	Pred
-323289	Subj
-323297	Pred
-323301	Objc
-323311	Objc
-323315	Objc
-323329	Subj
-323345	Subj
-323377	Subj
-323389	Subj
-323418	Subj
-323428	Subj
-323471	Objc
-323474	Objc
-323489	Cmpl
-323509	Subj
-323530	Subj
-323568	Pred
+323083	Subj
+323094	Subj
+323099	Objc
+323105	Objc
 Subj
+323117	Objc
+323124	Pred
+323139	Objc
+Pred
+323144	Subj
+323152	Objc
+323166	Objc
+323170	Pred
+323182	Subj
+323188	Objc
+323237	Objc
+323242	Pred
+323247	Subj
+323256	Objc
+323271	Objc
+323282	Subj
+323287	Subj
+323313	Pred
+323320	Subj
+323325	Objc
+323330	Objc
+323348	Objc
+323352	Objc
+323365	Objc
+323371	Subj
+323373	Pred
+323377	Objc
+Subj
+323381	Pred
+323387	Cmpl
+Objc
+323391	Subj
+Objc
+323397	Objc
+323402	Objc
+323415	Cmpl
+Subj
+323425	Pred
+Subj
+323430	Objc
+323444	Subj
+323453	Subj
+323455	Objc
+323477	Subj
+323501	Subj
+323514	Pred
+Subj
+323521	Objc
+323529	Subj
+Pred
+323534	Pred
+323552	Objc
+323555	Objc
+323564	Objc
+323580	Objc
 323583	Objc
-323587	Objc
-323614	Subj
+323590	Objc
+323614	Objc
+323618	Objc
+323621	Objc
+323633	Objc
 323637	Subj
-323653	Objc
-323659	Subj
-323663	Subj
-323674	Pred
-323716	Objc
-323724	Pred
-323729	Objc
-323737	Subj
-323752	Objc
+323642	Subj
+323664	Objc
+323671	Objc
+323675	Subj
+323678	Subj
+323695	Subj
+323700	Objc
+323702	Objc
+323704	Objc
+323706	Objc
+323710	Objc
+323714	Objc
+323722	Pred
+323726	Objc
+323731	Subj
+323735	Objc
+323740	Subj
+323745	Objc
+323749	Objc
+323753	Subj
 323755	Objc
-323765	Objc
-323773	Subj
-323776	Pred
-323783	Subj
-323789	Objc
-323800	Objc
-323831	Subj
-323841	Objc
+323761	Objc
+323791	Pred
+Subj
+323812	Subj
+323823	Objc
+323826	Subj
+323832	Objc
+323843	Subj
 323846	Objc
-323862	Objc
-323875	Objc
-323881	Objc
-323895	Pred
-323897	Subj
-323899	Pred
-323905	Objc
-323914	Subj
-323928	Objc
-323934	Subj
+323869	Objc
+323888	Subj
+323898	Objc
 Objc
-323947	Pred
-323953	Objc
-323958	Cmpl
-Subj
-323979	Objc
-323988	Pred
-323991	Subj
-323997	Subj
-323999	Cmpl
-324002	Objc
-324014	Objc
-324072	Objc
-324077	Pred
-324080	Pred
-324084	Pred
-324121	Objc
-324128	Pred
-324145	Objc
-324151	Subj
-324159	Subj
-324173	Subj
-324179	Pred
-324197	Subj
-324205	Subj
-324215	Subj
-324218	Subj
-324226	Objc
-324235	Subj
-324244	Pred
-324275	Subj
-324285	Subj
-324288	Subj
-324322	Pred
-324330	Subj
-324343	Objc
-324393	Subj
-324397	Subj
-324411	Subj
-324416	Objc
-324442	Subj
-324454	Subj
-324463	Pred
-324471	Objc
-324474	Objc
-324481	Objc
-324496	Objc
-Pred
-324508	Subj
-324511	Subj
-324533	Objc
-324544	Objc
-324561	Subj
-324573	Objc
-324584	Pred
-324587	Pred
-324594	Objc
-324598	Objc
-324602	Objc
-324617	Objc
-324625	Objc
-324629	Subj
-324634	Pred
-324639	Subj
-324654	Pred
-324668	Pred
-324671	Subj
-324675	Pred
-324688	Pred
-324693	Objc
-324706	Pred
-Subj
-324710	Objc
-324728	Subj
-324730	Objc
-324737	Subj
-324749	Subj
-324753	Subj
-324758	Subj
-324782	Pred
-324807	Pred
-324821	Objc
-324842	Subj
-324849	Cmpl
-Objc
-324857	Objc
-324863	Pred
-324876	Objc
-324887	Subj
-324903	Subj
-324909	Subj
-324913	Cmpl
-324916	Objc
-324936	Pred
-324942	Subj
-324971	Subj
-324978	Subj
-325006	Subj
-325040	Subj
-325046	Objc
-325058	Subj
-325085	Objc
-325092	Pred
-Subj
-325099	Subj
-325130	Objc
-325148	Objc
-325152	Objc
-325155	Objc
-325171	Subj
-325177	Objc
-325186	Objc
-325197	Subj
-325213	Subj
-325226	Subj
-325235	Objc
-325254	Subj
-Subj
-325263	Objc
-325280	Pred
-325284	Objc
-325304	Objc
-325321	Objc
-325330	Subj
-325338	Objc
-325354	Objc
-325358	Objc
-325371	Objc
-325384	Objc
-325400	Objc
-325419	Objc
-325429	Pred
-325440	Objc
-325448	Objc
-325459	Objc
-325464	Objc
-325468	Objc
-325471	Objc
-325486	Subj
-325494	Subj
-325519	Subj
-325523	Subj
-325534	Objc
-325537	Cmpl
-325546	Subj
-325561	Subj
-325569	Objc
-325601	Objc
-325604	Pred
-325646	Objc
-325648	Pred
-325651	Subj
-325671	Subj
-325676	Subj
-325690	Pred
-325694	Subj
-325697	Objc
-325736	Subj
-325738	Pred
-325745	Objc
-325749	Objc
-325753	Objc
-325765	Subj
-325784	Objc
-325818	Subj
-325821	Objc
-325828	Pred
-325838	Objc
-325840	Objc
-325843	Objc
-325853	Objc
-325858	Objc
-325873	Objc
-325876	Objc
-325883	Objc
-Subj
-325887	Subj
-325899	Objc
-325908	Subj
-325924	Objc
-325926	Objc
-325928	Objc
-325934	Objc
-325938	Objc
-325944	Objc
-325947	Objc
-325952	Objc
-325957	Objc
-325978	Subj
-325992	Subj
-325996	Objc
-325998	Subj
-326000	Objc
-326007	Subj
-326009	Objc
-326020	Objc
-326051	Objc
-326080	Objc
-326092	Objc
-326102	Subj
-326113	Pred
-326116	Pred
-326126	Objc
-326135	Cmpl
-326158	Objc
-326163	Subj
-326175	Objc
-326194	Objc
+323917	Objc
+323956	Subj
 Cmpl
-326200	Subj
-326212	Objc
-326224	Subj
-326230	Subj
-326241	Objc
-326250	Objc
-326253	Objc
-326285	Objc
-326345	Subj
-326355	Objc
-326360	Subj
-326362	Objc
-326376	Subj
-326378	Objc
-326392	Objc
-326396	Objc
-326403	Subj
-326406	Pred
-326410	Subj
-326414	Objc
-326422	Objc
-326430	Subj
+323959	Cmpl
+323966	Objc
+323975	Objc
+323978	Subj
+323982	Objc
+323985	Objc
+323992	Cmpl
+Cmpl
+323995	Subj
+323998	Pred
+324001	Objc
+324004	Subj
+324007	Pred
+324011	Pred
+324015	Subj
+324024	Objc
+324035	Objc
+324043	Cmpl
+324052	Subj
+324066	Subj
+324076	Objc
+324081	Subj
+324092	Pred
+324095	Pred
+324098	Objc
+324123	Objc
+324127	Cmpl
+324134	Subj
+324153	Subj
+324155	Objc
+324160	Subj
+324172	Subj
+324185	Subj
+324189	Subj
+324197	Subj
+324204	Objc
+324216	Objc
+324220	Objc
+324231	Objc
+324260	Cmpl
+Subj
+324268	Subj
+324270	Objc
+324276	Pred
+324280	Subj
+324336	Objc
+324350	Subj
+324365	Objc
+324371	Subj
+324376	Objc
+324388	Subj
+324402	Subj
+324409	Objc
+324424	Objc
+324435	Objc
+324443	Subj
+324451	Pred
+324454	Subj
+324458	Objc
+324468	Subj
+324470	Objc
+324472	Objc
+324480	Subj
+324484	Pred
+324487	Pred
+Subj
+324495	Subj
+324498	Pred
+324504	Subj
+324507	Pred
+Subj
+324514	Subj
+324520	Objc
+324526	Objc
+324530	Subj
+324532	Subj
+324534	Pred
+324537	Objc
+324539	Cmpl
+Subj
+324547	Subj
+324549	Cmpl
+Objc
+324557	Objc
+324568	Objc
+324576	Pred
+324592	Pred
+324596	Subj
+324617	Objc
+324619	Objc
+324623	Subj
+324645	Subj
+324657	Subj
+324669	Objc
+324688	Objc
+324698	Objc
+324716	Cmpl
+324719	Subj
+324721	Pred
+324726	Cmpl
+324731	Objc
+324744	Subj
+324748	Objc
+324755	Subj
+324766	Objc
+324772	Objc
+324777	Pred
+324780	Subj
+324788	Objc
+324801	Objc
+324806	Cmpl
+324845	Objc
+324855	Objc
+324864	Objc
+324874	Cmpl
+Subj
+324890	Objc
+324893	Objc
+324907	Cmpl
+324923	Objc
+324939	Objc
+Subj
+324947	Subj
+324963	Cmpl
+324976	Objc
+324990	Subj
+325000	Objc
+Subj
+325005	Objc
+325020	Subj
+325024	Objc
+325033	Cmpl
+325040	Cmpl
+325046	Objc
+325062	Subj
+325069	Objc
+325075	Subj
+325078	Pred
+325090	Subj
+325104	Subj
+325117	Subj
+325123	Subj
+325133	Objc
+325137	Subj
+325144	Subj
+325155	Subj
+325168	Pred
+325170	Subj
+325172	Objc
+325174	Pred
+325184	Objc
+325188	Objc
+Subj
+325197	Subj
+325201	Pred
+325206	Subj
+Objc
+Subj
+325222	Subj
+325227	Objc
+Subj
+325234	Objc
+325253	Pred
+325265	Pred
+325277	Objc
+325285	Subj
 Pred
-326436	Subj
-326440	Subj
-326445	Subj
-326448	Subj
-326478	Objc
-326483	Objc
-326487	Objc
-326494	Pred
-326508	Subj
-326523	Objc
-326528	Subj
-326537	Subj
-326544	Subj
-326550	Objc
-326560	Objc
-326566	Objc
-326578	Cmpl
-326580	Pred
-326583	Cmpl
-326589	Objc
-326595	Subj
-326600	Objc
+325303	Subj
+325306	Pred
+325311	Pred
+325316	Pred
+325320	Subj
+325324	Objc
+325331	Objc
+325350	Objc
+325357	Pred
+325362	Pred
+325365	Objc
+325368	Subj
+Pred
+325375	Pred
+Subj
+325381	Objc
+325395	Objc
+325401	Pred
+325427	Subj
+Pred
+325438	Subj
+325440	Pred
+325444	Objc
+325449	Objc
+325452	Subj
+325454	Pred
+325458	Subj
+325484	Objc
+Objc
+325500	Objc
+325523	Subj
+325534	Subj
+325549	Objc
+325558	Subj
+325563	Cmpl
+325567	Subj
+325586	Pred
+325598	Subj
+325602	Objc
+325620	Objc
+325624	Objc
+Subj
+325628	Objc
+325632	Subj
+325636	Objc
+325638	Subj
+325640	Objc
+325645	Subj
+325659	Objc
+325669	Objc
+325675	Objc
+325681	Objc
+325690	Subj
+Subj
+325693	Objc
+325705	Pred
+325724	Pred
+325740	Subj
+325744	Pred
+325748	Objc
+325750	Subj
+Objc
+Pred
+Subj
+325760	Objc
+325762	Subj
+325764	Objc
+325770	Subj
+325774	Objc
+325779	Pred
+325783	Objc
+325790	Subj
+325792	Cmpl
+325806	Cmpl
+Objc
+325814	Pred
+Subj
+325819	Subj
+325827	Objc
+Pred
+325835	Subj
+Subj
+Objc
+325839	Subj
+Objc
+325843	Cmpl
+Objc
+325854	Subj
+Cmpl
+325864	Objc
+325867	Subj
+325870	Pred
+325872	Subj
+325877	Subj
+325894	Subj
+325902	Pred
+325929	Subj
+325944	Subj
+325957	Subj
+Objc
+325963	Cmpl
+325968	Pred
+325978	Subj
+325987	Subj
+326000	Objc
+326010	Subj
+326016	Pred
+326020	Subj
+326026	Pred
+326029	Subj
+Pred
+326037	Objc
+326044	Subj
+326046	Subj
+326052	Subj
+Pred
+326059	Objc
+326068	Objc
+326085	Subj
+Objc
+Objc
+326098	Subj
+326103	Pred
+326119	Subj
+326127	Subj
+326132	Pred
+326137	Objc
+326140	Subj
+326143	Objc
+326148	Subj
+326151	Pred
+Pred
+326159	Subj
+326172	Objc
+326179	Objc
+326193	Subj
+326216	Objc
+326220	Subj
+326236	Objc
+326272	Subj
+Pred
+326276	Subj
+326299	Subj
+Objc
+326303	Subj
+Objc
+326306	Subj
+Objc
+326311	Subj
+326326	Objc
+326362	Subj
+326373	Pred
+326378	Pred
+326386	Subj
+326394	Pred
+326409	Subj
+326419	Objc
+Pred
+Subj
+326423	Pred
+Subj
+326429	Pred
+326468	Subj
+326489	Subj
+326496	Pred
+326502	Subj
+326506	Pred
+326512	Objc
+326522	Subj
+326530	Objc
+326533	Objc
+326538	Objc
+326545	Subj
+326548	Objc
+326550	Cmpl
+326553	Objc
+326556	Objc
+326561	Objc
+326577	Objc
+326581	Objc
+326588	Subj
+326598	Subj
+326610	Objc
+326613	Objc
+326617	Objc
+326620	Objc
+326626	Objc
 326629	Objc
-326666	Objc
-326670	Objc
-326675	Subj
-326688	Objc
-326717	Subj
-326722	Subj
-326733	Cmpl
-326742	Objc
-326751	Subj
-326758	Subj
-Objc
-326771	Subj
-326803	Subj
-326810	Subj
-326819	Subj
-326828	Subj
-326836	Subj
-326842	Subj
-326847	Objc
-326851	Subj
-326855	Subj
-326861	Subj
-326891	Subj
-326906	Subj
-326910	Subj
-326932	Pred
-326943	Pred
-326956	Subj
-326969	Subj
-Objc
-326975	Objc
-326986	Objc
-326993	Pred
-327002	Pred
-327008	Objc
-327049	Objc
-327051	Objc
+326632	Objc
+326641	Pred
+326651	Subj
+326653	Pred
+326657	Objc
+326683	Subj
+326686	Objc
+326689	Pred
+Subj
+326711	Subj
+326713	Subj
+326734	Subj
+326739	Pred
+326743	Objc
+326748	Subj
+326767	Subj
+326774	Subj
+326779	Pred
+326792	Subj
+326797	Pred
+326804	Objc
+326828	Objc
+326840	Subj
+326865	Objc
+326877	Objc
+326882	Objc
+326896	Subj
+326900	Objc
+326919	Subj
+326923	Objc
+326929	Subj
+326947	Subj
+326956	Objc
+326970	Subj
+326983	Objc
+326990	Objc
+326999	Subj
+327025	Objc
+327028	Subj
+327033	Pred
+327035	Subj
+327038	Pred
+327046	Subj
 327053	Subj
-327057	Subj
-327081	Objc
-327098	Subj
-327104	Subj
-327115	Objc
-327123	Cmpl
-327137	Pred
-327147	Subj
-Objc
-327164	Objc
-327169	Subj
-327187	Objc
-327193	Objc
-327214	Objc
-327219	Pred
-327236	Pred
-327252	Subj
-327259	Subj
-327271	Subj
-327283	Objc
-327288	Subj
-327299	Objc
-327303	Subj
-327306	Subj
-327318	Objc
-327326	Objc
-327331	Subj
-327337	Subj
-327350	Subj
-327373	Subj
-327380	Subj
-327391	Objc
-327397	Pred
-327410	Subj
-327417	Objc
-327426	Subj
-327429	Subj
-327438	Objc
-327448	Pred
-327452	Objc
-327460	Objc
-327469	Objc
-327475	Subj
-327486	Subj
-327493	Subj
-327495	Pred
-327500	Subj
-Objc
-327507	Subj
-327509	Pred
-327514	Subj
-327522	Objc
-327526	Objc
-327537	Subj
-327553	Objc
+327056	Subj
+327062	Objc
+327086	Subj
+327098	Objc
 Subj
-327563	Objc
-327590	Subj
-327610	Objc
-327621	Objc
-327646	Subj
-327665	Subj
-327676	Subj
-327689	Pred
-327742	Subj
-327745	Pred
-327753	Pred
-327755	Objc
+327103	Objc
+327108	Cmpl
+327111	Cmpl
+Objc
+327124	Subj
+327128	Subj
+Pred
+327160	Subj
+327163	Objc
+327166	Subj
+327170	Objc
+327179	Subj
+327192	Subj
+Objc
+327198	Objc
+327207	Objc
+327215	Objc
+327223	Cmpl
+327258	Cmpl
+327262	Pred
+327287	Objc
+327356	Subj
+327390	Objc
+327448	Subj
+327473	Cmpl
+327482	Subj
+327485	Cmpl
+327490	Objc
+327505	Subj
+327509	Objc
+327527	Cmpl
+327536	Pred
+327561	Objc
+327563	Subj
+327566	Pred
+327575	Pred
+327578	Subj
+Pred
+327582	Objc
+327671	Objc
+327676	Objc
+Cmpl
+327680	Subj
+327688	Pred
+327691	Objc
+327714	Objc
+327736	Subj
+327739	Pred
+327743	Subj
+327748	Pred
+327754	Subj
+327758	Subj
 327762	Subj
-327765	Objc
-327772	Objc
-327778	Subj
-327785	Objc
-327789	Objc
-327816	Subj
-327821	Subj
-327840	Objc
+327774	Subj
+327807	Objc
+327826	Pred
+Subj
+327847	Pred
+327850	Subj
 327868	Objc
-327893	Objc
-Subj
-327911	Subj
-327927	Subj
-327955	Subj
-327959	Subj
-327972	Subj
-327974	Pred
-327977	Objc
-327994	Objc
-328001	Subj
-328018	Objc
-328025	Objc
-328038	Subj
+327873	Cmpl
+327888	Objc
+327907	Subj
+327915	Objc
+327919	Subj
+327934	Subj
+327936	Objc
+327945	Subj
+327962	Objc
+327971	Objc
+327982	Subj
+327985	Pred
+327988	Pred
+327991	Subj
+328005	Objc
+328010	Subj
+328017	Objc
+328028	Objc
+328034	Objc
+328036	Objc
+328046	Objc
+328090	Subj
+328099	Objc
+328109	Pred
+328113	Objc
+328119	Objc
+328124	Pred
+328127	Objc
+328129	Objc
+328133	Objc
+328137	Objc
+328167	Subj
+328169	Pred
+328177	Subj
 Objc
-328052	Subj
-328054	Objc
-328058	Subj
-328069	Subj
-328074	Objc
-328093	Objc
-328097	Objc
-328102	Subj
-328121	Subj
-328125	Subj
-328132	Subj
-328142	Subj
-328146	Objc
-328161	Subj
-328168	Subj
-328180	Objc
-328188	Subj
-328193	Pred
-328215	Subj
-328218	Subj
-Objc
-328228	Subj
-328243	Objc
-328247	Objc
-328253	Cmpl
-328330	Subj
-328389	Subj
-328426	Objc
-328443	Pred
-328457	Subj
-328530	Subj
-328534	Pred
-328538	Objc
-328563	Subj
+328181	Pred
+328183	Subj
+328195	Subj
 Pred
-328567	Subj
-328569	Pred
-328574	Subj
-328577	Subj
-328580	Subj
-328607	Objc
-328618	Subj
-328634	Pred
-Subj
-328643	Objc
+328206	Subj
+328213	Cmpl
+328215	Objc
+328223	Subj
+Objc
+328229	Subj
+328237	Subj
+328249	Subj
+328251	Objc
+328287	Pred
+328311	Cmpl
+328317	Subj
+328322	Objc
+328339	Objc
+328394	Subj
+328401	Pred
+328405	Subj
+328418	Objc
+328420	Cmpl
+328426	Subj
+328428	Objc
+328431	Objc
+Objc
+328434	Pred
+328442	Objc
+328454	Cmpl
+328457	Cmpl
+328461	Objc
+328463	Cmpl
+328475	Subj
+328484	Subj
+328492	Objc
+328497	Objc
+328510	Objc
+328515	Objc
+328519	Objc
+328523	Objc
+328530	Objc
+328534	Objc
+328542	Objc
+328544	Objc
+328547	Objc
+328549	Subj
+328552	Pred
+328556	Subj
+328559	Pred
+328564	Subj
+328568	Pred
+328571	Objc
+328573	Pred
+328576	Objc
+328578	Pred
+328591	Pred
+328615	Pred
+328624	Objc
+Objc
+328642	Objc
 328654	Objc
-328667	Subj
-328692	Objc
-328706	Objc
-328719	Pred
-328733	Objc
-328742	Objc
-328756	Objc
-328784	Subj
-328789	Objc
-328801	Objc
-328803	Objc
-328806	Pred
-328811	Objc
-328813	Objc
-328815	Objc
-328863	Subj
-328891	Subj
-Objc
-328911	Pred
-328927	Cmpl
-328933	Subj
-Objc
-328942	Objc
-328979	Subj
-328987	Cmpl
-328991	Objc
-328994	Pred
-328999	Objc
-329008	Cmpl
-329010	Cmpl
-329013	Cmpl
-329019	Subj
-329050	Objc
-Objc
-329073	Subj
-Pred
-329077	Subj
-Pred
-329082	Subj
-Pred
-329092	Pred
-329123	Objc
-329133	Objc
-329140	Objc
-329154	Subj
-329162	Subj
-329168	Cmpl
-329187	Subj
-329198	Pred
+328665	Pred
+328670	Subj
+328681	Subj
+328689	Subj
+328694	Objc
+328696	Cmpl
+328723	Subj
+328741	Subj
+328743	Pred
+328751	Objc
+328780	Subj
+328782	Pred
+328792	Cmpl
+328798	Subj
+328802	Subj
+328805	Objc
+328828	Objc
+328838	Pred
+328840	Subj
+328845	Objc
+328871	Subj
+328884	Subj
+328886	Objc
+328898	Cmpl
+328915	Subj
+328932	Objc
+328943	Subj
+328945	Objc
+328948	Pred
+328955	Subj
+328958	Objc
+328962	Objc
+328965	Subj
+328975	Subj
+328978	Objc
+328982	Subj
+328988	Objc
+328990	Subj
+328998	Subj
+329014	Pred
+329040	Subj
+329077	Pred
+329098	Subj
+329122	Objc
+329133	Subj
+329138	Subj
+329153	Pred
+329156	Pred
+Subj
+329163	Objc
+329172	Subj
+329177	Subj
+329185	Subj
+329198	Cmpl
 329202	Objc
-329218	Pred
-329231	Subj
+329210	Objc
+329242	Objc
+329271	Pred
+329279	Subj
+329283	Objc
+329295	Cmpl
+Subj
+329298	Cmpl
 Objc
-329244	Objc
-329251	Subj
-329255	Objc
-329284	Cmpl
-329296	Subj
+329304	Subj
 329307	Objc
-329313	Objc
-329328	Subj
-329338	Objc
-329347	Subj
-329351	Subj
-329360	Pred
-329418	Subj
-329434	Objc
-329440	Subj
-329443	Subj
-329453	Pred
-329455	Subj
-329459	Objc
-329467	Subj
+329309	Cmpl
+329312	Objc
+329327	Objc
+329332	Objc
+329358	Subj
+329363	Objc
+329365	Objc
+329373	Subj
+329402	Objc
+329417	Subj
+329422	Cmpl
 Subj
-329474	Subj
-329481	Cmpl
-Objc
-329488	Objc
-329507	Objc
-329520	Pred
-329526	Subj
-329528	Objc
-329538	Objc
-329542	Subj
-329558	Objc
-329576	Subj
-329584	Subj
-329614	Subj
-329635	Pred
-329670	Objc
-329696	Subj
-329715	Objc
-329721	Pred
-329724	Objc
-329737	Objc
-329741	Objc
-329746	Objc
-329751	Objc
-329756	Objc
-329761	Objc
-329766	Objc
-329771	Objc
-329792	Objc
-329803	Objc
-329815	Subj
-329846	Pred
-329855	Subj
-329861	Subj
-329875	Objc
-329882	Objc
-329884	Objc
-329893	Pred
-329906	Subj
-329920	Objc
-329926	Pred
-329932	Objc
-329938	Objc
-329953	Subj
-329970	Subj
+329439	Cmpl
+329454	Subj
+329456	Pred
+329468	Objc
+329484	Objc
+329490	Subj
+329508	Objc
+329526	Cmpl
+329548	Cmpl
+Subj
+329572	Objc
+329581	Objc
+329587	Cmpl
+329595	Pred
+329601	Objc
+329620	Objc
+329632	Objc
+329641	Objc
+329650	Objc
+329659	Objc
+329668	Objc
+329677	Objc
+329686	Objc
+329689	Subj
+329717	Subj
 Pred
-329975	Pred
-329979	Objc
-329981	Objc
-329986	Objc
-329991	Objc
-329994	Subj
-330005	Subj
-330008	Subj
-330018	Subj
+329721	Objc
+329739	Objc
 Objc
-330030	Objc
-330037	Cmpl
-330042	Objc
+329748	Objc
+329760	Cmpl
+Subj
+329785	Objc
+329801	Objc
+329808	Pred
+329816	Objc
+329822	Pred
+329824	Subj
+329834	Subj
+329844	Cmpl
+329851	Subj
+329859	Objc
+329867	Objc
+329872	Cmpl
+Objc
+329887	Pred
+329904	Subj
+329907	Cmpl
+329926	Subj
+329931	Subj
+329934	Objc
+329939	Subj
+329949	Pred
+329958	Objc
+Objc
+329964	Objc
+329969	Objc
+329980	Subj
+329983	Subj
+329992	Objc
+329996	Subj
+330012	Subj
+330025	Subj
+330028	Subj
+330031	Pred
+330037	Pred
+330044	Subj
 330046	Objc
-330052	Objc
-330065	Subj
-330070	Objc
-330094	Subj
-330102	Objc
-330106	Pred
-330126	Objc
-330138	Objc
-330144	Objc
-330146	Objc
-330149	Pred
-330151	Objc
+330049	Objc
+330055	Objc
+330059	Cmpl
+Objc
+330064	Subj
+330066	Objc
+330074	Subj
+330089	Objc
+330092	Subj
+330099	Subj
+330108	Subj
+330111	Objc
+330127	Objc
+330139	Objc
+Cmpl
+330145	Objc
 330153	Objc
-330161	Objc
-330164	Objc
-330168	Subj
-330172	Objc
-330184	Subj
-330191	Objc
-330202	Pred
-330215	Objc
-330228	Subj
-330235	Objc
-330248	Subj
-330263	Objc
-330268	Objc
-330306	Subj
-330314	Subj
-330335	Subj
-330360	Subj
-330365	Subj
-330367	Pred
-330371	Subj
+330159	Objc
+330181	Subj
+330193	Objc
+330201	Subj
+Objc
+330207	Objc
+330229	Objc
+330231	Subj
+330234	Objc
+330239	Subj
+330243	Pred
+330253	Objc
+330256	Subj
+330258	Pred
+330273	Objc
+330289	Objc
+330291	Objc
+330311	Objc
+330322	Objc
+330325	Objc
+330330	Pred
+330334	Objc
+330339	Objc
+330349	Subj
+Objc
+330354	Objc
+330361	Subj
+330371	Objc
+330378	Subj
+330390	Cmpl
+Subj
+330399	Objc
+330419	Objc
+Cmpl
+330422	Subj
 Pred
-330390	Subj
-330395	Subj
-330410	Subj
-330420	Objc
-330457	Objc
+330431	Subj
+330433	Cmpl
+330438	Objc
 330463	Subj
-330483	Subj
-330488	Objc
-330523	Subj
-330531	Pred
-330540	Subj
-330542	Pred
-330550	Subj
-330563	Pred
-330573	Cmpl
-330575	Subj
-330580	Subj
-330598	Subj
+330466	Pred
+330470	Pred
+330476	Objc
+330492	Cmpl
+330498	Subj
+330505	Subj
+330515	Subj
+330522	Objc
+330528	Cmpl
+330535	Objc
+330574	Objc
+330589	Subj
+330602	Pred
 330604	Subj
-330614	Subj
 330617	Subj
-Pred
-330635	Objc
-330645	Pred
-330651	Subj
-330668	Subj
-Pred
-330674	Objc
-330682	Objc
-330697	Subj
-330699	Pred
-330741	Objc
-330753	Objc
-330757	Pred
-Subj
-330764	Objc
-330768	Subj
-330776	Pred
-330787	Subj
-330800	Subj
-330803	Pred
-330808	Objc
+330621	Subj
+330631	Objc
+Objc
+330635	Subj
+330637	Pred
+330639	Subj
+330658	Subj
+330699	Subj
+330705	Objc
+330708	Subj
+330714	Pred
+330720	Subj
+330723	Pred
+330730	Subj
+330735	Subj
+Objc
+330745	Subj
+330748	Subj
+330755	Subj
+330764	Subj
+330769	Subj
+330784	Subj
+330789	Pred
+330792	Subj
+330803	Objc
 330817	Subj
-330820	Subj
-330829	Pred
-330833	Objc
-330835	Pred
-330843	Objc
-330849	Pred
-330857	Objc
-330859	Pred
-330870	Subj
-Objc
-330878	Subj
-330887	Objc
-330894	Objc
-330900	Objc
-330906	Objc
-330916	Subj
-330922	Objc
-330935	Objc
+330821	Subj
+330843	Subj
+330847	Objc
+330859	Objc
+330868	Objc
+330871	Subj
+330887	Cmpl
+330890	Cmpl
+330910	Pred
+330912	Objc
 Subj
-330939	Pred
-330944	Subj
-330961	Pred
-330964	Pred
-330979	Objc
+330920	Objc
+330936	Subj
+330974	Cmpl
+Subj
+330986	Subj
 330988	Pred
-330998	Subj
-331003	Pred
-331010	Pred
-331016	Pred
-331025	Pred
-331039	Objc
-331046	Subj
-Pred
-331051	Subj
-331058	Pred
-331071	Subj
-331074	Objc
+330991	Objc
+330993	Objc
+331000	Objc
+331003	Subj
+331009	Pred
+331019	Subj
+331029	Cmpl
+331037	Subj
+331039	Pred
+331046	Cmpl
 Objc
-331080	Objc
-Objc
-331096	Subj
-331106	Subj
-331110	Pred
+331052	Cmpl
+331056	Subj
+331059	Objc
+331064	Subj
+331090	Objc
+331092	Subj
+331094	Subj
+331104	Pred
+Subj
+331108	Objc
+331115	Cmpl
+331117	Subj
+331120	Pred
 331123	Subj
-331139	Subj
-331177	Subj
-331181	Objc
-331188	Objc
+331125	Pred
+331134	Objc
+331150	Objc
+331162	Subj
+331164	Pred
+331169	Objc
+331175	Subj
+331186	Objc
+331195	Objc
+331198	Objc
+331201	Subj
+331206	Pred
+331211	Objc
+331222	Cmpl
+Objc
+331228	Objc
+331239	Objc
+331241	Objc
+331243	Subj
+331250	Pred
+331256	Objc
+331258	Cmpl
+331264	Subj
+331277	Subj
+Pred
+331313	Objc
+331315	Objc
+331325	Objc
+331327	Objc
+331334	Pred
+331337	Pred
+331340	Subj
+331345	Subj
+331349	Objc
+331358	Subj
+331371	Pred
+331383	Subj
+331385	Subj
+331396	Cmpl
+331401	Objc
+331406	Subj
+331414	Pred
+331417	Objc
+331420	Objc
+331424	Cmpl
 Subj
-331191	Pred
-331198	Subj
-331205	Pred
-331223	Subj
-331226	Objc
-331234	Subj
-331237	Objc
-Objc
-331242	Subj
+331427	Pred
+331436	Subj
+331441	Subj
+331452	Pred
+331459	Objc
+331465	Pred
+331476	Objc
+331488	Subj
 Pred
-331252	Objc
-331255	Pred
-331258	Subj
-331265	Subj
-331277	Objc
-331284	Objc
-Pred
-331290	Subj
-331294	Subj
-331299	Objc
-331305	Subj
-331312	Subj
-331337	Subj
-331340	Pred
-331346	Objc
-331350	Subj
-331361	Pred
-331365	Objc
-331375	Subj
-331379	Subj
-331387	Subj
-331398	Objc
-331408	Subj
-331411	Objc
-331417	Subj
-Objc
-331425	Objc
-331429	Objc
-331437	Objc
-331444	Objc
-331450	Subj
-331454	Objc
-331458	Subj
-331478	Pred
-331484	Objc
-331490	Subj
-331494	Subj
-331505	Subj
-331517	Objc
-331521	Objc
-331526	Subj
-331531	Objc
-331548	Objc
-331571	Objc
-331574	Objc
-331577	Pred
-331581	Subj
-331587	Objc
-331593	Subj
-331599	Pred
-331603	Subj
-331606	Objc
-Pred
-331621	Pred
-331626	Pred
-331634	Subj
-331638	Subj
-331643	Pred
-331653	Subj
-331656	Pred
-331662	Objc
-331665	Pred
-331685	Subj
-Pred
-331691	Subj
-331698	Objc
-331703	Objc
-331706	Subj
-331710	Subj
-331716	Objc
-331720	Subj
-331728	Pred
+331497	Objc
+331502	Pred
+331521	Subj
+331525	Objc
+331531	Cmpl
+331535	Cmpl
 Subj
-331733	Objc
-331739	Objc
-331741	Objc
-331750	Subj
-Subj
-331760	Subj
-331764	Subj
-331780	Objc
-331790	Subj
+331547	Cmpl
+331551	Objc
+331557	Cmpl
+331561	Objc
+331565	Cmpl
+331569	Objc
+331573	Cmpl
+331577	Objc
+331583	Cmpl
+331586	Pred
+331589	Subj
+331602	Objc
+331619	Subj
+331621	Objc
+331626	Subj
+331633	Pred
+331637	Subj
+331671	Pred
+331677	Pred
+331697	Objc
+331711	Pred
+331719	Subj
+331724	Subj
+331731	Pred
+331742	Pred
+331747	Pred
+331762	Subj
+Pred
+331767	Subj
 Objc
-Objc
-331800	Pred
+331777	Subj
+331780	Cmpl
+331784	Objc
+331790	Objc
+331793	Subj
+331796	Pred
+331803	Pred
 331805	Subj
-331816	Objc
+331813	Subj
+331816	Pred
 331819	Subj
-331824	Subj
-331836	Subj
-331842	Subj
-331854	Subj
-Pred
-331861	Pred
-331865	Subj
-331867	Objc
-331871	Subj
-331889	Objc
-331892	Objc
-331900	Objc
-331905	Objc
-331911	Objc
-331918	Objc
-Objc
-331925	Subj
-331930	Pred
-331935	Subj
-331949	Objc
-331955	Objc
-331958	Objc
-331964	Subj
-331968	Objc
-331973	Subj
-331977	Subj
-331982	Objc
-331991	Objc
-331993	Pred
-332000	Objc
-332007	Pred
-332035	Pred
-332040	Subj
-Pred
-332057	Subj
-Pred
-332065	Objc
-332069	Subj
-332074	Subj
-332090	Objc
-332096	Objc
-332103	Subj
-332110	Subj
-332114	Objc
+331833	Subj
+331837	Objc
+331841	Objc
+331847	Objc
+331850	Objc
+331857	Objc
+331871	Objc
+331876	Subj
+331892	Pred
+331894	Subj
+331897	Objc
 Subj
-332118	Subj
-332120	Pred
-332127	Objc
-Objc
-332133	Objc
-332136	Objc
+331900	Cmpl
+Pred
+331908	Objc
+331910	Cmpl
+331915	Objc
+331918	Subj
+331921	Objc
+331932	Objc
+331935	Subj
+331937	Objc
+331940	Subj
+331946	Objc
+331951	Pred
+331956	Pred
+331960	Objc
+331976	Objc
+331993	Pred
+331997	Subj
+332003	Objc
+332011	Objc
+332015	Cmpl
+Subj
+332020	Pred
+332029	Subj
+332034	Objc
+332038	Objc
+332041	Pred
+332048	Pred
+332054	Pred
+332059	Objc
+332063	Subj
+332067	Objc
+332076	Objc
+332078	Subj
+Pred
+332081	Subj
+332085	Objc
+332088	Objc
+332095	Subj
+332099	Pred
+332105	Subj
+332108	Objc
+332113	Subj
+Pred
+332119	Subj
+332128	Subj
+332134	Objc
+332137	Objc
+332139	Subj
+332141	Objc
 332144	Objc
-332157	Subj
-332180	Objc
-332190	Subj
-332192	Objc
+332147	Pred
+332150	Subj
+Pred
+332155	Objc
+332158	Pred
+332168	Subj
+332176	Subj
+332185	Objc
+332192	Subj
 332201	Objc
 332205	Subj
-332215	Subj
-332218	Subj
-332226	Subj
-332240	Subj
-332246	Pred
-332250	Subj
-332260	Subj
-332267	Objc
-332294	Subj
-332311	Objc
-332320	Pred
-332325	Pred
+332226	Pred
+332243	Subj
+332248	Objc
+332251	Pred
+332260	Objc
+332266	Pred
+332268	Subj
+332271	Objc
+332278	Objc
+332281	Subj
+Pred
+332290	Objc
+332300	Objc
+332302	Subj
+332307	Pred
+332309	Subj
+332317	Pred
+332323	Objc
 Subj
-332364	Objc
-332373	Subj
-332380	Subj
-332412	Objc
-332415	Subj
-332445	Objc
-332475	Pred
-332482	Subj
-332487	Subj
-332495	Subj
-332510	Subj
-332529	Objc
-332532	Subj
-332567	Objc
-332573	Cmpl
-332599	Objc
-332612	Objc
-332614	Objc
-332619	Pred
-332625	Objc
-332638	Subj
-332643	Subj
+332327	Subj
+332343	Objc
+332355	Subj
+332359	Objc
+332364	Pred
+332369	Subj
+332374	Objc
+332386	Objc
+332390	Subj
+332394	Objc
+332401	Subj
+332408	Objc
+332412	Subj
+332416	Objc
+332425	Subj
+332430	Objc
+332434	Objc
+332443	Subj
+332473	Pred
+332484	Objc
+332492	Subj
+332498	Pred
+332500	Subj
+332510	Objc
+332513	Subj
+332518	Objc
+332526	Objc
+332534	Objc
+332541	Objc
+332549	Pred
+332551	Subj
+332558	Objc
+332571	Objc
+332574	Objc
+Cmpl
+332579	Objc
+332589	Subj
+332608	Objc
+Cmpl
+332613	Objc
+332619	Objc
+332623	Pred
+332630	Subj
+332643	Objc
+332650	Subj
+332653	Subj
+332661	Pred
 332668	Subj
-332671	Objc
-332681	Cmpl
-332699	Objc
-332711	Cmpl
-332725	Objc
-332732	Objc
-332760	Objc
-332764	Objc
-332781	Objc
-332788	Objc
-332793	Subj
-332819	Objc
-332833	Subj
-332858	Pred
-332882	Objc
-332887	Subj
-332894	Cmpl
-332908	Objc
-332925	Subj
-332929	Pred
-332937	Subj
-332960	Pred
-332963	Subj
-332990	Objc
-333004	Objc
-333012	Objc
+332671	Subj
+332674	Objc
+332677	Pred
+332685	Subj
+332698	Pred
+332705	Subj
+Pred
+332715	Objc
+332717	Pred
+332719	Subj
+332725	Subj
+332732	Subj
+Pred
+332749	Subj
+332752	Objc
+332754	Subj
+Pred
+332763	Objc
+332767	Objc
+Subj
+332771	Pred
+332778	Objc
+332800	Objc
+332802	Subj
+332805	Pred
+332812	Subj
+332824	Objc
+332832	Objc
+332836	Subj
+332839	Pred
+332845	Subj
+332856	Objc
+332866	Subj
+332879	Pred
+332883	Subj
+332888	Subj
+332890	Objc
+332895	Subj
+332897	Objc
+332900	Objc
+332905	Objc
+332917	Subj
+332921	Objc
+Subj
+332926	Objc
+332928	Objc
+Subj
+332934	Objc
+Subj
+332943	Subj
+332964	Subj
+332969	Objc
+332977	Cmpl
+332979	Subj
+332984	Subj
+332988	Objc
+332991	Objc
+332996	Subj
+333000	Subj
+333002	Pred
+333009	Subj
+333017	Subj
+333024	Subj
+333028	Objc
+333031	Objc
+333033	Subj
+333039	Subj
+333042	Pred
 333059	Subj
-333061	Cmpl
-333096	Objc
-333106	Subj
-333136	Pred
-333205	Subj
-333274	Objc
-333283	Cmpl
-333304	Objc
-333313	Objc
+333070	Subj
+333077	Objc
+333090	Subj
+333092	Subj
+333096	Pred
+333103	Subj
+333106	Pred
+333112	Subj
+333119	Objc
+333123	Subj
+333126	Objc
+333138	Subj
+333141	Subj
+333144	Objc
+333146	Subj
+333150	Objc
+333154	Objc
+333160	Pred
+333166	Objc
+333171	Objc
+333173	Objc
+333176	Objc
+333183	Objc
+333195	Objc
+333199	Objc
+333206	Subj
+333211	Subj
+333213	Pred
+333223	Subj
+333241	Objc
+333249	Objc
+333254	Objc
+333260	Pred
+333263	Subj
+333271	Objc
+333278	Subj
+333283	Pred
+333287	Subj
+333297	Objc
+333301	Pred
+333308	Objc
+333311	Pred
+333316	Pred
 333320	Objc
-333329	Objc
-333346	Subj
-333348	Pred
-333352	Subj
-333361	Subj
-333365	Subj
-333373	Objc
-333379	Subj
-333384	Subj
-333388	Subj
-333404	Objc
-333432	Objc
-333468	Subj
-333470	Pred
-333475	Subj
-333478	Pred
-333481	Cmpl
-333491	Objc
-333549	Objc
-333562	Objc
-333572	Objc
-333594	Subj
-Cmpl
-333608	Pred
-333615	Cmpl
-333635	Objc
-333645	Objc
-333655	Pred
-333665	Subj
+333328	Subj
+333330	Pred
+333337	Pred
+333368	Pred
+333375	Subj
+333379	Pred
+333383	Pred
+333399	Subj
+333402	Pred
+333409	Objc
+333417	Subj
+333424	Pred
+333427	Pred
+333429	Subj
+333457	Objc
+333466	Objc
+333469	Objc
+333471	Objc
+333480	Objc
+333482	Subj
+333493	Pred
+333495	Subj
+333499	Objc
+333503	Subj
+333506	Cmpl
+333508	Subj
+333513	Pred
+333523	Objc
+333527	Objc
+333533	Objc
+333540	Objc
+333545	Objc
+333551	Objc
+333571	Pred
+333573	Subj
+333576	Objc
+333583	Objc
+333593	Objc
+333599	Objc
 Objc
-333672	Objc
-333680	Objc
-333688	Subj
-Cmpl
-333702	Cmpl
-333711	Objc
+333606	Objc
+333609	Objc
+333615	Subj
+333617	Subj
+333623	Objc
+333634	Objc
+333637	Objc
+333643	Subj
+333655	Subj
+333658	Pred
+333662	Subj
+333671	Subj
+333691	Objc
+333693	Subj
+333698	Objc
+333701	Pred
+333708	Subj
 333722	Subj
-333727	Objc
-333731	Objc
-333747	Subj
-333756	Objc
-333760	Cmpl
-333771	Subj
-333773	Objc
-333798	Subj
-Cmpl
-333829	Cmpl
-333843	Objc
-333845	Objc
-333849	Subj
-333869	Subj
-333891	Subj
-333928	Objc
-333935	Subj
-333945	Cmpl
-333960	Objc
-333964	Objc
-333970	Objc
-333989	Objc
-333993	Objc
-334002	Subj
-334012	Objc
-334020	Subj
-Cmpl
-334025	Cmpl
-334044	Objc
-334067	Subj
-334101	Objc
-334104	Objc
-334122	Objc
-334130	Objc
-334145	Subj
-Cmpl
-334150	Cmpl
+333732	Cmpl
+Objc
+333736	Objc
+333755	Subj
+333768	Objc
+333774	Subj
+333786	Objc
+333804	Objc
+333818	Pred
+333828	Pred
+333831	Subj
+333872	Objc
+333882	Objc
+333886	Objc
+333889	Cmpl
+333892	Objc
+333899	Objc
+333901	Pred
+333903	Subj
+333915	Pred
+Subj
+333949	Subj
+333959	Objc
+333963	Objc
+333966	Objc
+333970	Subj
+333986	Objc
+333996	Subj
+334007	Subj
+334013	Objc
+334022	Objc
+334028	Cmpl
+334034	Cmpl
+334046	Objc
+334048	Cmpl
+334060	Pred
+334071	Subj
+334080	Objc
+Subj
+334094	Subj
+334102	Objc
+Subj
+334113	Subj
+334119	Subj
+334128	Subj
+334137	Subj
+334142	Objc
+334150	Subj
+334162	Objc
 334164	Objc
-334179	Objc
-334193	Objc
-334196	Objc
+334173	Objc
+334175	Subj
 334200	Objc
-334238	Objc
-334266	Objc
-334318	Subj
+334207	Subj
+334211	Objc
+334215	Pred
+334221	Objc
 Cmpl
-334323	Cmpl
-334345	Objc
-334385	Objc
-334390	Pred
-334400	Objc
-334407	Objc
-334413	Subj
-334420	Objc
-334448	Objc
-334452	Objc
-334489	Subj
+334232	Objc
+334244	Objc
+334250	Objc
+334258	Subj
+334260	Objc
+334277	Objc
+334281	Objc
+334286	Pred
+334296	Objc
+334312	Subj
+334320	Subj
+334325	Pred
+334327	Objc
+334330	Cmpl
+334339	Cmpl
+334344	Objc
+334353	Subj
 Cmpl
-334502	Subj
-334541	Subj
-334548	Pred
-334550	Subj
-334556	Subj
-334563	Pred
-334566	Subj
-334579	Subj
-334584	Pred
-334590	Pred
-334592	Subj
-334606	Subj
+334356	Objc
+Subj
+334361	Objc
+334376	Cmpl
+334390	Cmpl
+334397	Objc
+334402	Cmpl
+334412	Objc
+334415	Cmpl
+334423	Cmpl
+334443	Objc
+334457	Objc
+334471	Objc
+334475	Objc
+334477	Subj
+Objc
+334497	Objc
+334504	Objc
+334535	Objc
+334550	Objc
+Objc
+334559	Subj
+334564	Objc
+334567	Objc
+334570	Objc
+334595	Objc
+334602	Objc
+Subj
+Subj
+334606	Objc
+334611	Objc
 334615	Subj
-334620	Subj
-334624	Subj
-334626	Objc
-334631	Subj
-334638	Subj
-334644	Objc
-334674	Subj
-334691	Subj
-334710	Objc
-334733	Objc
-334751	Objc
-334762	Subj
-334768	Objc
-334771	Objc
-334776	Subj
-334788	Objc
-334796	Subj
-334799	Objc
-334805	Subj
-334852	Pred
-334879	Objc
-334898	Pred
-334904	Objc
-334910	Objc
-334913	Objc
-334920	Cmpl
-334924	Objc
-334932	Cmpl
-334948	Objc
-334959	Subj
-334973	Objc
-335028	Subj
-335035	Subj
-335045	Subj
-Objc
-335053	Subj
-335069	Subj
-335090	Objc
-335095	Subj
-335102	Subj
-335113	Objc
-335121	Subj
-335127	Objc
-335132	Subj
-335143	Subj
-335164	Subj
-335167	Subj
-335180	Objc
-335185	Subj
-335197	Subj
-335205	Subj
-335208	Subj
-335234	Objc
-335239	Objc
-335269	Objc
-335280	Cmpl
-Subj
-335289	Subj
-335303	Subj
-335311	Objc
-335317	Subj
-335320	Subj
-335325	Subj
-335330	Subj
-335337	Objc
-335344	Subj
-335349	Subj
-335410	Subj
-335423	Subj
-335430	Objc
-335450	Subj
-335454	Objc
-335460	Cmpl
-335481	Objc
-335509	Subj
-335513	Subj
-335517	Subj
-335521	Subj
-335525	Subj
-335529	Subj
-335533	Subj
-335537	Subj
-335541	Subj
-335545	Subj
-335549	Subj
-335553	Subj
-335561	Subj
-335580	Objc
-335583	Pred
-335592	Subj
-335607	Subj
-335627	Objc
-335645	Cmpl
-335655	Subj
-335664	Objc
-335689	Objc
-335702	Pred
-335749	Subj
-Objc
-335759	Objc
-335770	Objc
-335778	Subj
-335783	Subj
-335790	Objc
-335794	Subj
-335812	Subj
-335827	Subj
-Objc
-335854	Objc
-335861	Subj
-335878	Subj
-335883	Subj
-335888	Subj
-335893	Subj
-335898	Subj
-335908	Subj
-335913	Subj
-335925	Subj
-335931	Subj
-335939	Subj
-335959	Subj
-335962	Pred
-335967	Subj
-335970	Pred
-335974	Subj
-335983	Subj
-336003	Subj
-336008	Subj
-336013	Subj
-336021	Subj
-336046	Subj
-336059	Subj
-336069	Objc
-336078	Subj
-336102	Subj
-336121	Objc
-336124	Objc
-336141	Subj
-336143	Pred
-336155	Subj
-Objc
-336166	Subj
-336172	Subj
-336180	Pred
-336183	Subj
-336188	Subj
-336190	Pred
-336194	Objc
-336199	Subj
-336201	Pred
-336204	Objc
-336209	Subj
-336213	Pred
-336230	Pred
-336233	Subj
-336237	Objc
-336249	Subj
-336256	Subj
-336261	Subj
-336266	Subj
-336271	Objc
-336289	Objc
-336317	Objc
-336323	Subj
-336328	Pred
-336331	Objc
-336337	Objc
-336345	Objc
-336353	Subj
-336356	Pred
-336373	Subj
-336392	Subj
-336407	Subj
-336418	Subj
-336477	Subj
-336486	Subj
-Pred
-336492	Subj
-336494	Pred
-336498	Subj
-336500	Pred
-336507	Objc
-336514	Objc
-336522	Objc
-336536	Subj
-336538	Objc
-336545	Subj
-336558	Subj
-336566	Subj
-336576	Objc
-336626	Subj
-336639	Subj
-336674	Objc
-336686	Objc
-336700	Objc
-336718	Subj
-336765	Cmpl
-336768	Objc
-336777	Cmpl
-336813	Objc
-336827	Objc
-336829	Objc
-336845	Objc
-336856	Objc
-336875	Subj
-336877	Pred
-336889	Subj
-336896	Subj
-336902	Objc
-336910	Subj
-336929	Subj
-336946	Subj
-336957	Subj
-336965	Subj
-336979	Subj
-336988	Subj
-336992	Subj
-337006	Subj
-337009	Cmpl
-337014	Subj
-337019	Subj
-337025	Subj
-337030	Subj
-337036	Subj
-337071	Objc
-337090	Objc
-337100	Subj
-337104	Subj
-337108	Subj
-337116	Objc
-337127	Objc
-337137	Objc
-337151	Subj
-337170	Subj
-337177	Objc
-337180	Subj
-Pred
-337186	Pred
-337189	Subj
-337205	Subj
-337212	Subj
-337220	Pred
-337223	Subj
-337227	Subj
-337229	Objc
-337241	Subj
-337252	Objc
-337261	Objc
-337268	Subj
-337280	Subj
-337285	Objc
-337322	Subj
-337344	Objc
-337352	Subj
-337359	Subj
-337409	Objc
-337430	Subj
-337433	Objc
-337437	Objc
-337443	Subj
-337448	Objc
-337451	Objc
-337455	Cmpl
-Subj
-337481	Subj
-337495	Subj
-Objc
-337500	Subj
-Objc
-337505	Objc
-337508	Subj
-337516	Subj
-337531	Objc
-337536	Objc
-337560	Pred
-337563	Subj
-337566	Pred
-337569	Subj
-337574	Subj
-337580	Subj
-337582	Pred
-337585	Subj
-337587	Pred
-337592	Subj
-337605	Objc
-337614	Subj
-337623	Subj
-337629	Objc
-337632	Objc
+334625	Subj
 Cmpl
-337636	Objc
-337649	Subj
-337661	Objc
-337700	Subj
-337707	Subj
-337741	Subj
-337752	Subj
-337758	Objc
+334656	Subj
+334658	Pred
+334671	Objc
+334698	Objc
+334705	Cmpl
+Subj
+334719	Cmpl
+334731	Subj
+334740	Objc
+334746	Objc
+334772	Objc
+334777	Subj
+334780	Subj
+334782	Pred
+334795	Subj
+334801	Objc
+334803	Objc
+334807	Subj
+334831	Cmpl
+Pred
+334840	Subj
+334854	Subj
+334859	Objc
+334862	Subj
+334866	Objc
+334880	Objc
+334888	Objc
+334905	Objc
+334915	Objc
+334922	Objc
+334939	Objc
 Objc
-337767	Objc
-337789	Subj
-337796	Objc
-337826	Cmpl
-337830	Objc
-337840	Cmpl
-337846	Subj
+334950	Objc
+334996	Objc
+334998	Cmpl
+Subj
+335003	Cmpl
+335008	Subj
+335030	Subj
+335046	Objc
+335048	Pred
+335054	Objc
+335068	Subj
+335072	Pred
+Subj
+335087	Cmpl
+335108	Subj
+Pred
+335149	Objc
+335152	Objc
+335169	Objc
+335180	Cmpl
+335207	Objc
+335212	Subj
+Objc
+335220	Subj
+335231	Subj
+335287	Pred
+335319	Objc
+335326	Objc
+335334	Cmpl
+335370	Objc
+335373	Subj
+335381	Objc
+335394	Objc
+335401	Objc
+335409	Objc
+335422	Pred
+335424	Subj
+Pred
+335427	Subj
+335429	Subj
+335434	Pred
+335440	Subj
+335445	Pred
+335454	Subj
+335460	Subj
+335476	Objc
+335487	Subj
+335494	Subj
+335500	Subj
+335514	Objc
+335528	Objc
+335539	Subj
+335553	Pred
+335570	Objc
+335583	Objc
+335586	Subj
+335589	Subj
+335604	Objc
+335623	Subj
+335628	Pred
+335637	Subj
+335644	Pred
+335648	Cmpl
+335660	Objc
+335664	Objc
+335712	Objc
+335717	Objc
+Objc
+335724	Subj
+Pred
+335727	Objc
+335747	Objc
+335764	Objc
+335777	Objc
+335793	Objc
+335804	Objc
+Subj
+335809	Objc
+335811	Objc
+Subj
+335816	Cmpl
+335822	Cmpl
+335833	Subj
+335835	Pred
+335845	Cmpl
+335857	Objc
+335866	Subj
+335868	Pred
+335872	Objc
+335882	Pred
+335885	Objc
+335893	Pred
+335895	Subj
+335900	Pred
+335907	Objc
+335913	Subj
+335916	Objc
+335926	Objc
+335932	Pred
+335938	Cmpl
+Objc
+335948	Objc
+335950	Objc
+Subj
+335955	Cmpl
+335974	Cmpl
+335986	Objc
+335990	Objc
+336004	Pred
+Subj
+336014	Objc
+336022	Objc
+336046	Subj
+336052	Subj
+336061	Objc
+336066	Objc
+336071	Subj
+336073	Cmpl
+336077	Objc
+336086	Objc
+336091	Subj
+336095	Objc
+336129	Objc
+336131	Objc
+Subj
+336136	Cmpl
+336142	Cmpl
+336150	Cmpl
+336165	Objc
+Subj
+336173	Cmpl
+336185	Objc
+336196	Objc
+336201	Objc
+336207	Subj
+336212	Pred
+336239	Subj
+336248	Pred
+336265	Objc
+Objc
+336271	Subj
+336279	Objc
+336282	Cmpl
+Objc
+336299	Objc
+336325	Objc
+336336	Subj
+336342	Subj
+336351	Cmpl
+336372	Subj
+336375	Objc
+336380	Subj
+336383	Objc
+336397	Objc
+336401	Objc
+336418	Objc
+336424	Cmpl
+Objc
+336434	Objc
+336441	Subj
+336450	Subj
+336461	Cmpl
+Objc
+336471	Objc
+336473	Objc
+Subj
+336478	Cmpl
+336482	Cmpl
+336494	Objc
+336514	Objc
+336520	Objc
+336525	Pred
+336535	Subj
+336541	Subj
+336584	Objc
+336590	Subj
+336593	Objc
+336607	Pred
+336623	Objc
+336639	Objc
+336661	Objc
+336663	Objc
+Subj
+336668	Cmpl
+336672	Cmpl
+336684	Objc
+336694	Objc
+336702	Subj
+336707	Subj
+336710	Objc
+336724	Subj
+336729	Objc
+336735	Objc
+336743	Objc
+336761	Subj
+Pred
+336771	Objc
+336786	Subj
+336788	Objc
+336791	Objc
+336800	Subj
+Objc
+336833	Objc
+336836	Subj
+336838	Objc
+336846	Objc
+Objc
+336925	Objc
+336927	Objc
+Subj
+336932	Cmpl
+336936	Cmpl
+336948	Objc
+336974	Objc
+336992	Pred
+337000	Objc
+337012	Pred
+337017	Objc
+337025	Subj
+337027	Pred
+337039	Cmpl
+337044	Objc
+337053	Objc
+337061	Subj
+337071	Objc
+337073	Objc
+337080	Subj
+Objc
+337101	Subj
+337103	Objc
+337110	Objc
+337123	Subj
+337130	Cmpl
+337143	Subj
+337163	Objc
+337165	Objc
+Subj
+337170	Cmpl
+337179	Subj
+337187	Subj
+337194	Objc
+337208	Cmpl
+Subj
+337222	Subj
+337239	Pred
+337246	Subj
+337253	Pred
+337257	Pred
+337262	Subj
+337273	Subj
+337286	Pred
+337293	Subj
+337309	Subj
+337320	Subj
+337322	Pred
+337332	Pred
+337337	Subj
+337343	Pred
+337359	Subj
+337364	Objc
+337369	Subj
+337376	Pred
+337379	Subj
+337384	Pred
+337387	Subj
+337393	Objc
+337401	Subj
+337406	Pred
+337411	Subj
+337425	Objc
+337432	Objc
+337434	Objc
+337462	Subj
+337489	Subj
+337520	Objc
+337531	Pred
+337555	Subj
+337557	Objc
+337586	Objc
+337599	Subj
+337608	Subj
+Pred
+337611	Objc
+337616	Objc
+337622	Subj
+337643	Objc
+337648	Objc
+337653	Subj
+337658	Objc
+337663	Objc
+337665	Subj
+337673	Cmpl
+337730	Subj
+337742	Subj
+337744	Pred
+337782	Objc
+337814	Subj
+337816	Pred
+337825	Objc
+337829	Pred
+337832	Objc
+337837	Objc
+337846	Cmpl
 337856	Objc
-337917	Subj
-337922	Objc
-337927	Pred
-337931	Subj
-337941	Subj
-337947	Pred
+337869	Objc
+Cmpl
+337889	Objc
+337909	Subj
+337925	Pred
+337933	Objc
+337952	Subj
+338023	Subj
+338031	Subj
+338041	Subj
+338044	Objc
+338055	Subj
+338075	Subj
+338085	Objc
+338088	Cmpl
 Subj
-337973	Objc
-337978	Objc
-337982	Subj
-337985	Pred
-337993	Objc
-338008	Objc
-338030	Objc
-338054	Subj
-338057	Objc
-338079	Objc
-338084	Subj
-338119	Objc
-338150	Subj
-338180	Subj
-338201	Objc
+338099	Objc
+338107	Subj
+338116	Subj
+338128	Cmpl
+338130	Objc
+338140	Objc
+338144	Cmpl
+Subj
+338151	Objc
+338159	Subj
+338170	Subj
+338180	Objc
+338191	Subj
+338202	Subj
+338205	Pred
 338207	Subj
-338236	Subj
-338245	Subj
-338255	Subj
-338260	Subj
-338267	Objc
-338273	Objc
-338277	Subj
-338290	Objc
-338296	Subj
-338300	Subj
-338311	Objc
-338317	Subj
-338321	Subj
-338329	Subj
-Objc
-338348	Objc
-338355	Objc
-338361	Objc
-338368	Subj
-338374	Subj
-Objc
-338382	Objc
-338399	Subj
-338425	Subj
-Objc
-338432	Subj
-338441	Subj
-338465	Objc
-338485	Subj
-338496	Subj
-338510	Objc
-338517	Subj
-338524	Subj
-338534	Subj
-338549	Objc
-338555	Objc
-338561	Objc
-338565	Subj
-338569	Cmpl
-338571	Objc
-338575	Objc
+338212	Pred
+338226	Objc
+338234	Subj
+338247	Subj
+338256	Pred
+338258	Subj
+338262	Subj
+338271	Cmpl
+Subj
+338307	Objc
+338318	Objc
+338339	Objc
+338363	Objc
+338379	Cmpl
+338382	Subj
+338387	Cmpl
+338396	Subj
+338413	Subj
+338420	Objc
+338428	Subj
+338433	Subj
+338437	Pred
+338444	Subj
+338454	Subj
+338468	Subj
+338470	Objc
+338482	Subj
+338487	Subj
+338490	Subj
+338534	Objc
+338565	Objc
 338589	Subj
-338606	Subj
-338615	Subj
-338618	Cmpl
-338624	Objc
-338636	Subj
-338639	Objc
-338646	Subj
-338655	Objc
-338661	Objc
-338666	Subj
-Objc
-338675	Pred
-338688	Subj
-Objc
-338705	Subj
-338724	Objc
-338736	Subj
-338746	Subj
-338751	Subj
-Objc
-338760	Objc
-338766	Subj
-338771	Objc
-338777	Objc
-338787	Subj
-Objc
-338798	Subj
-338805	Objc
-338811	Objc
-338830	Subj
-Objc
-338841	Subj
-338845	Subj
-338871	Subj
-338911	Objc
-338918	Objc
-338931	Subj
-Objc
-338939	Subj
-338956	Subj
-338963	Subj
-338968	Subj
-338975	Subj
-338981	Subj
-338986	Objc
-338998	Subj
-339004	Subj
-339014	Subj
-Objc
-339022	Subj
-339028	Subj
-339035	Objc
-339044	Objc
-339057	Subj
-339084	Objc
-339094	Subj
-339107	Objc
-339141	Subj
-339157	Objc
-339161	Subj
-339166	Objc
-339188	Subj
-339211	Subj
-339220	Objc
-339237	Subj
-339239	Pred
-339241	Subj
-339246	Pred
-339250	Subj
-339252	Subj
-339255	Subj
-339273	Subj
-339276	Pred
-339284	Subj
-339301	Objc
-339304	Objc
-339308	Cmpl
-339317	Subj
-339327	Subj
-339336	Subj
-339341	Subj
-339358	Objc
-339368	Objc
+338603	Subj
+338610	Subj
+338626	Objc
+338638	Subj
+338658	Subj
+338668	Objc
+338678	Cmpl
+338710	Objc
+338755	Subj
+338764	Subj
+338772	Subj
+338780	Subj
+338788	Subj
+338796	Subj
+338804	Subj
+338812	Subj
+338820	Subj
+338828	Subj
+338836	Subj
+338844	Subj
+338854	Subj
+338861	Subj
+338887	Objc
+338891	Subj
+Pred
+338905	Subj
+338925	Subj
+338962	Objc
+338994	Cmpl
+339011	Subj
+339019	Cmpl
+339023	Objc
+339030	Pred
+339037	Cmpl
+339041	Subj
+339045	Cmpl
+Subj
+339061	Objc
+339068	Objc
+339082	Pred
+339093	Objc
+339149	Objc
+339152	Objc
+339162	Subj
+339165	Objc
+339178	Objc
+339186	Subj
+339197	Objc
+339202	Subj
+339211	Cmpl
+Subj
+339216	Subj
+339228	Objc
+339233	Cmpl
+Subj
+339266	Subj
+339294	Subj
+339297	Objc
+339302	Objc
+339336	Objc
+339342	Objc
+339346	Subj
+339367	Subj
 339376	Subj
-339382	Objc
-339386	Objc
-339389	Objc
-339391	Cmpl
-339394	Subj
-339400	Subj
-339418	Subj
-339422	Objc
+339385	Subj
+339392	Subj
+339399	Subj
+339415	Subj
+339422	Pred
 339425	Subj
-339439	Subj
-339466	Subj
+339441	Objc
+339443	Subj
+339452	Subj
+339465	Subj
 339470	Subj
-339476	Subj
-339488	Subj
-339510	Subj
-339516	Subj
-Objc
-339524	Subj
-339527	Objc
-339544	Objc
-339600	Objc
-339627	Subj
-339632	Subj
-339694	Subj
-339703	Subj
-339755	Subj
-339776	Objc
-339809	Subj
-339812	Objc
-339835	Subj
-Objc
-339843	Subj
-339845	Objc
-339866	Subj
-339875	Subj
+339493	Subj
+339501	Pred
+339506	Subj
+339513	Pred
+339517	Subj
+339531	Subj
+339564	Subj
+339570	Subj
+339581	Subj
+339589	Subj
+339631	Subj
+339639	Subj
+339653	Cmpl
+Subj
+339667	Objc
+339676	Subj
+339683	Subj
+339713	Subj
+339721	Cmpl
+Subj
+339725	Objc
+Subj
+339735	Cmpl
+339756	Objc
+339759	Subj
+339762	Objc
+339776	Cmpl
+339780	Objc
+339788	Subj
+339793	Pred
+339800	Objc
+339810	Subj
+339813	Objc
+339821	Objc
+339827	Subj
+339834	Subj
+339841	Pred
+339849	Pred
+339856	Subj
+339859	Pred
+339862	Subj
+339867	Pred
+339874	Objc
 339882	Subj
-339887	Subj
-339892	Subj
-339900	Subj
-339902	Pred
-339911	Subj
-339916	Subj
-339929	Subj
-339944	Pred
-339950	Subj
-339955	Objc
-339960	Objc
-339966	Objc
-339979	Subj
-340015	Objc
-340062	Objc
-340066	Subj
-340071	Subj
+339887	Pred
+339893	Objc
+339901	Subj
+339910	Pred
+339927	Pred
+339932	Pred
+339939	Subj
+339945	Objc
+339963	Subj
+339967	Pred
+339974	Objc
+339976	Objc
+Subj
+339988	Subj
+339995	Subj
+340003	Objc
+340036	Objc
 340079	Objc
-340083	Subj
-Pred
-340104	Pred
-340124	Pred
-340132	Objc
-340135	Objc
-340138	Subj
+340087	Subj
+340098	Pred
+340102	Objc
+340110	Objc
+340125	Objc
+340133	Subj
 340140	Pred
-340148	Subj
-340153	Subj
-340172	Subj
-340174	Pred
-340177	Pred
-340180	Subj
-340191	Objc
-340195	Subj
-340197	Pred
-340211	Objc
-340220	Subj
-340224	Objc
-340232	Objc
-340265	Subj
-340273	Cmpl
-340328	Objc
-340343	Subj
-340351	Objc
-340358	Objc
-340364	Objc
-340369	Subj
-340382	Subj
-340398	Subj
-340452	Objc
-340455	Subj
+340169	Subj
+340198	Subj
+340222	Subj
+340228	Pred
+340231	Objc
+340238	Subj
+340245	Subj
+340298	Subj
+340342	Subj
+340354	Objc
+340356	Subj
+340359	Pred
+340367	Subj
+340372	Pred
+340378	Subj
+340383	Pred
+340397	Objc
+340402	Objc
+340416	Objc
+340431	Subj
+340437	Subj
+340442	Objc
+340450	Subj
+340459	Subj
+340467	Objc
+340469	Subj
 340476	Objc
-340499	Objc
-340518	Subj
-340523	Subj
-340527	Pred
-340544	Subj
-340549	Pred
-340564	Subj
-340568	Subj
-340591	Subj
-340594	Pred
-340692	Subj
-340694	Pred
-340698	Subj
-340712	Subj
-340786	Subj
-340804	Cmpl
-340810	Subj
-340817	Subj
-340820	Pred
-340828	Pred
-340831	Subj
-340833	Pred
-340837	Objc
-340844	Subj
-340853	Subj
-340868	Subj
-340923	Subj
-340925	Pred
-340933	Pred
-340940	Subj
-340952	Objc
-340989	Objc
-340994	Subj
-341005	Objc
-341010	Objc
-341014	Pred
-341016	Subj
-341021	Pred
-341028	Pred
+340479	Subj
+340482	Subj
+340497	Objc
+340526	Subj
+340558	Subj
+340582	Subj
+340600	Subj
+340603	Objc
+340654	Cmpl
+340656	Cmpl
+Objc
+340662	Cmpl
+340666	Objc
+340669	Objc
+340683	Pred
+340685	Subj
+340688	Objc
+340702	Objc
+340715	Pred
+340719	Objc
+340721	Subj
+340728	Cmpl
+340730	Subj
+340746	Cmpl
+340748	Pred
+340786	Objc
+340790	Cmpl
+340794	Objc
+340808	Cmpl
+340823	Objc
 Subj
-341032	Pred
+340850	Subj
+Objc
+340854	Subj
+340865	Objc
+340872	Subj
+340874	Objc
+340878	Subj
+340880	Subj
+340882	Objc
+340886	Objc
+340891	Subj
+340903	Objc
+340911	Objc
+340917	Objc
+340931	Objc
+340950	Objc
+340953	Objc
+340956	Objc
+340958	Subj
+340963	Pred
+340976	Subj
+340983	Subj
+340993	Subj
+341004	Objc
+341015	Subj
+341041	Objc
+341043	Cmpl
+341045	Subj
+341070	Subj
+341092	Subj
+341100	Objc
+341103	Subj
+341112	Cmpl
+341129	Objc
 Subj
-341036	Pred
-Subj
-341040	Pred
-Subj
-341046	Subj
-341049	Objc
-341052	Pred
-Subj
-341081	Subj
-341084	Subj
-341087	Subj
-341091	Objc
-341098	Subj
-341108	Objc
-341119	Subj
-341126	Subj
-Pred
-341132	Subj
-341142	Subj
-341146	Subj
+341144	Subj
 341148	Subj
-341150	Subj
-341152	Subj
-341154	Subj
-341156	Subj
-341158	Subj
-341160	Subj
-341162	Subj
-341164	Subj
-341166	Subj
-341171	Subj
+341170	Subj
 341173	Pred
-341175	Subj
-341178	Pred
-341183	Subj
-341186	Pred
-341202	Pred
-341209	Subj
+341177	Objc
+Cmpl
+341185	Subj
+341194	Subj
+341204	Subj
+341212	Subj
+341222	Subj
+341283	Objc
+341288	Objc
+341303	Objc
+341315	Subj
+341321	Subj
+341327	Subj
+341337	Objc
+341355	Objc
+341371	Objc
+341392	Subj
+341422	Subj
+341431	Subj
+341433	Objc
+341437	Subj
+341440	Pred
+341448	Pred
+341455	Subj
+341473	Subj
+341483	Subj
+341497	Pred
+341504	Subj
+341508	Subj
+341514	Objc
+341527	Objc
+341534	Subj
+341549	Objc
+341560	Subj
+341563	Objc
+341575	Subj
+341594	Subj
+341606	Objc
+341617	Objc
+341625	Subj
+341662	Subj
+341697	Objc
+341709	Subj
+341720	Subj
+341771	Objc
+341783	Subj
+341785	Objc
+341810	Objc
+341829	Subj
+341839	Subj
+341846	Objc
+341851	Objc
+341858	Subj
+341869	Objc
+341872	Subj
+341874	Objc
+341879	Cmpl
+341882	Subj
+341928	Subj
+341943	Objc
+341945	Objc
+341947	Objc
 Objc
-341220	Subj
-341225	Subj
-341227	Pred
-341231	Subj
-341238	Subj
-341241	Objc
-341248	Subj
-341256	Objc
-341268	Subj
-341289	Subj
-341304	Pred
-341313	Subj
-341317	Objc
-341321	Objc
-341325	Subj
-341328	Pred
-341334	Subj
-341339	Subj
-341345	Pred
-341350	Subj
-341354	Objc
-341358	Subj
-341360	Pred
-341370	Objc
-341391	Subj
-341404	Objc
-341407	Cmpl
-341419	Objc
-341457	Pred
-341467	Objc
-341472	Objc
-341477	Objc
-341485	Subj
-341494	Subj
-341498	Subj
-341501	Subj
-341507	Subj
-341509	Pred
-341513	Subj
-341535	Objc
-341540	Subj
-341542	Pred
-341571	Objc
-341578	Pred
-341612	Objc
-341615	Cmpl
-341618	Objc
-341630	Subj
-341652	Subj
+341952	Subj
+341955	Objc
+341960	Subj
+341963	Objc
+341970	Objc
+341973	Objc
+341975	Subj
+341987	Subj
+341998	Objc
+342012	Objc
+342021	Objc
+342044	Subj
+342055	Pred
+342062	Subj
+342066	Pred
+342073	Subj
+342077	Subj
+342080	Objc
+342083	Pred
+342086	Subj
+342091	Pred
+342095	Subj
+342100	Pred
+342107	Cmpl
+Subj
+342127	Objc
+342142	Subj
+342154	Subj
+342166	Objc
+342171	Objc
+342174	Cmpl
+342179	Objc
+342183	Subj
+Pred
+342189	Subj
+342197	Cmpl
+Subj
+342206	Cmpl
+Subj
+342215	Objc
+342250	Cmpl
+342252	Objc
+342260	Objc
+342263	Cmpl
+Subj
+342278	Objc
+Subj
+342288	Subj
+342318	Subj
+342320	Objc
+342323	Subj
+342332	Subj
+342338	Subj
+342343	Pred
+342345	Subj
+342358	Subj
+342369	Objc
+342372	Objc
+342378	Subj
+342380	Objc
+342417	Subj
+342428	Objc
+342433	Subj
+342465	Subj
+342467	Cmpl
+342483	Objc
+Cmpl
+342487	Subj
+342489	Objc
+342500	Cmpl
+342502	Objc
+Cmpl
+342513	Subj
+342523	Subj
+342527	Objc
+342563	Cmpl
 Objc
-341684	Subj
-341688	Pred
+342587	Subj
+342616	Pred
+Subj
+342623	Objc
+342625	Objc
+342632	Pred
+342638	Subj
+342650	Subj
+342662	Pred
+342665	Subj
+342697	Objc
+342704	Objc
+342711	Objc
+342717	Subj
+342720	Objc
+342722	Pred
+342724	Subj
+342735	Objc
+342756	Subj
+342759	Objc
+342778	Subj
+342780	Subj
+342786	Pred
+342789	Subj
+342792	Objc
+342798	Subj
+342824	Subj
+Pred
+342829	Subj
+342837	Objc
+342869	Objc
+342874	Cmpl
+Objc
+342878	Subj
+342918	Subj
+342935	Objc
+342946	Objc
+342954	Subj
+342967	Objc
+342983	Subj
+343033	Subj
+343051	Objc
+343068	Subj
+343070	Objc
+343079	Pred
+Subj
+343105	Subj
+343113	Pred
+343125	Subj
+343137	Subj
+343151	Subj
+343161	Subj
+343174	Objc
+343185	Objc
+343189	Subj
+343212	Objc
+343221	Subj
+343227	Subj
+343243	Objc
+343255	Subj
+343259	Subj
+343276	Subj
+343279	Objc
+343294	Objc
+343307	Objc
+343316	Objc
+343327	Objc
+343340	Subj
+343347	Subj
+343350	Objc
+343362	Objc
+343390	Subj
+343400	Subj
+343437	Subj
+343441	Objc
+343453	Subj
+343462	Subj
+343508	Objc
+343539	Subj
+343554	Subj
+343566	Subj
+343574	Objc
+343581	Pred
+343583	Subj
+343595	Subj
+343608	Subj
+343634	Objc
+343645	Objc
+343657	Objc
+343661	Subj
+343671	Cmpl
+343676	Objc
+343683	Objc
+343703	Subj
+343725	Subj
+343735	Subj
+343748	Subj
+343757	Cmpl
+343765	Objc
+343785	Subj
+343790	Objc
+343802	Subj
+343814	Objc
+343824	Objc
+343830	Subj
+343834	Objc
+343846	Pred
+343866	Subj
+343870	Objc
+343890	Pred
+343893	Subj
+343901	Pred
+343912	Objc
+343915	Objc
+343922	Objc
+Cmpl
+343926	Pred
+343930	Subj
+343945	Subj
+343951	Subj
+343955	Objc
+343967	Cmpl
+343969	Objc
+343977	Subj
+343985	Objc
+343994	Objc
+344008	Cmpl
+Objc
+344011	Subj
+344015	Objc
+344031	Subj
+344039	Objc
+344051	Objc
+344084	Subj
+344088	Objc
+344105	Subj
+344112	Subj
+344157	Subj
+344173	Objc
+Subj
+344188	Objc
+344212	Subj
+Pred
+344218	Objc
+344229	Objc
+344236	Objc
+344245	Pred
+344247	Subj
+344251	Objc
+344263	Subj
+344286	Subj
+344290	Subj
+344296	Subj
+344303	Subj
+344307	Pred
+344310	Subj
+344323	Subj
+344332	Subj
+344344	Cmpl
+Objc
+344363	Subj
+344368	Subj
+344372	Subj
+344392	Subj
+344395	Objc
+344408	Pred
+344410	Subj
+344418	Subj
+344429	Objc
+344442	Cmpl
+Objc
+344465	Subj
+344492	Objc
+344501	Subj
+344511	Objc
+344523	Subj
+344541	Objc
+344597	Subj
+344625	Objc
+Objc
+344631	Cmpl
+Subj
+344639	Subj
+344641	Cmpl
+Objc
+344655	Objc
+344669	Subj
+344672	Objc
+344700	Subj
+344722	Objc
+344732	Pred
+344738	Objc
+Subj
+344744	Pred
+344749	Subj
+344757	Pred
+344761	Subj
+344765	Subj
+344769	Subj
+344778	Subj
+344785	Subj
+344790	Subj
+344793	Pred
+344796	Pred
+344808	Subj
+344813	Objc
+344819	Subj
+Objc
+344824	Objc
+344837	Subj
+Objc
+344843	Objc
+344850	Cmpl
+344854	Subj
+344862	Subj
+344866	Objc
+344877	Subj
+344889	Cmpl
+Subj
+344893	Objc
+344896	Subj
+344914	Objc
+344920	Subj
+344922	Objc
+344928	Objc
+344932	Objc
+344939	Objc
+344944	Subj
+344957	Objc
+344964	Objc
+344969	Objc
+344974	Cmpl
+344979	Subj
+344987	Subj
+344990	Objc
+345002	Objc
+345016	Subj
+345026	Objc
+345030	Subj
+345051	Subj
+345096	Subj
+345102	Subj
+345114	Subj
+345135	Subj
+345174	Subj
+345186	Subj
+345189	Objc
+345195	Cmpl
+345197	Subj
+345203	Objc
+345221	Cmpl
+Objc
+345225	Objc
+345228	Objc
+345231	Cmpl
+345248	Pred
+345252	Objc
+345282	Pred
+345289	Objc
+345313	Objc
+345360	Subj
+345366	Subj
+345385	Subj
+345468	Subj
+345486	Subj
+345504	Objc
+345567	Subj
+345587	Subj
+345599	Objc
+345609	Subj
+Pred
+345620	Objc
+345647	Subj
+345651	Objc
+345690	Subj
+345693	Objc
+345703	Subj
+345708	Objc
+345739	Subj
+345757	Subj
+345773	Subj
+345785	Subj
+345797	Subj
+345811	Subj
+345817	Pred
+345833	Subj
+345842	Subj
+345862	Subj
+345889	Pred
+345898	Subj
+345905	Objc
+345912	Subj
+345914	Objc
+345926	Objc
+345945	Subj
+345993	Subj
+346002	Objc
+346016	Objc
+346067	Objc
+346070	Cmpl
+346073	Subj
+346081	Subj
+346087	Objc
+346090	Cmpl
+346093	Objc
+346098	Subj
+346102	Pred
+346112	Cmpl
+346114	Pred
+346132	Cmpl
+Subj
+Pred
+346154	Objc
+346157	Cmpl
+346160	Pred
+346172	Objc
+346177	Objc
+346181	Subj
+346188	Pred
+346197	Subj
+346203	Subj
+346223	Subj
+346229	Pred
+346233	Pred
+346240	Subj
+346247	Objc
+Subj
+346252	Subj
+346255	Objc
+346261	Subj
+346266	Pred
+346285	Objc
+346292	Objc
+346306	Subj
+346314	Objc
+346318	Subj
+346320	Objc
+346327	Subj
+346329	Objc
+346378	Subj
+346395	Cmpl
+346477	Objc
+346499	Subj
+346511	Objc
+346523	Objc
+346533	Objc
+346540	Subj
+346558	Subj
+346585	Subj
+346600	Subj
+346638	Subj
+346647	Objc
+346653	Objc
+346670	Objc
+346675	Subj
+346685	Subj
+346691	Objc
+346698	Subj
+346700	Cmpl
+346702	Objc
+346726	Subj
+346741	Objc
+346769	Subj
+346780	Subj
+346785	Subj
+Pred
+346798	Objc
+346811	Subj
+346818	Objc
+346821	Pred
+346843	Subj
+346849	Subj
+346884	Objc
+346890	Subj
+346897	Pred
+346934	Subj
+346942	Objc
+346949	Objc
+346962	Pred
+347014	Subj
+347017	Cmpl
+347037	Subj
+347040	Subj
+347044	Subj
+347046	Pred
+347051	Subj
+347072	Subj
+347102	Subj
+347128	Subj
+347146	Subj
+347192	Subj
+347227	Cmpl
+347234	Subj
+347244	Subj
+347251	Pred
+347262	Subj
+Pred
+347268	Subj
+347273	Pred
+347279	Objc
+347290	Subj
+347306	Subj
+347320	Objc
+347322	Objc
+347327	Subj
+347338	Cmpl
+347340	Subj
+347355	Subj
+347376	Objc
+347380	Pred
+347382	Subj
+347385	Pred
+347408	Subj
+347413	Pred
+347423	Subj
+347425	Pred
+347434	Subj
+347452	Objc
+347469	Cmpl
+347482	Objc
+347495	Cmpl
+347516	Objc
+347523	Subj
+347528	Pred
+347538	Objc
+347544	Objc
+347548	Pred
+347553	Subj
+347559	Subj
+347561	Pred
+347570	Pred
+347573	Subj
+347577	Pred
+347580	Subj
+347584	Pred
+347587	Subj
+347591	Pred
+347594	Subj
+347598	Subj
+347606	Objc
+347610	Pred
+347613	Subj
+347655	Subj
+347658	Pred
+347661	Subj
+347666	Pred
+Subj
+347672	Objc
+347684	Subj
+347697	Pred
+347701	Objc
+347714	Subj
+347716	Pred
+347718	Subj
+347727	Pred
+347729	Subj
+347732	Pred
+347735	Pred
+347739	Subj
+347756	Subj
+347763	Pred
+Subj
+347767	Pred
+Subj
+347771	Pred
+Subj
+347775	Pred
+Subj
+347779	Pred
+Subj
+347783	Pred
+Subj
+347787	Pred
+Subj
+347791	Pred
+Subj
+347795	Pred
+Subj
+347799	Pred
+Subj
+347803	Pred
+Subj
+347807	Pred
+347809	Subj
+347814	Pred
+347818	Subj
+347826	Pred
+347832	Subj
+347839	Pred
+347848	Objc
+347864	Pred
+347873	Subj
+347877	Objc
+347890	Subj
+347899	Objc
+347901	Subj
+347906	Pred
+347911	Subj
+347922	Subj
+347930	Objc
+347939	Subj
+347949	Subj
+347953	Pred
+347956	Objc
+347978	Subj
+348006	Cmpl
+Subj
+348032	Pred
+348048	Subj
+348054	Objc
+348063	Objc
+348069	Subj
+348076	Pred
+348084	Subj
+348091	Subj
+348102	Pred
+348107	Subj
+348113	Objc
+348116	Objc
+348122	Subj
+348127	Pred
+348135	Subj
+348142	Objc
+348173	Cmpl
+Subj
+348198	Objc
+348204	Cmpl
+348209	Subj
+348219	Pred
+348222	Objc
+348241	Objc
+348260	Cmpl
+Objc
+348264	Cmpl
+348267	Pred
+348283	Objc
+348292	Objc
+348298	Cmpl
+348301	Objc
+348314	Subj
+348318	Pred
+348325	Subj
+348331	Subj
+348334	Objc
+348338	Subj
+348347	Subj
+348352	Pred
+348356	Cmpl
+348358	Subj
+348364	Subj
+348386	Pred
+348389	Objc
+348396	Subj
+348401	Pred
+348420	Pred
+348446	Objc
+348450	Objc
+348456	Cmpl
+Objc
+348463	Subj
+348465	Pred
+348508	Objc
+348513	Subj
+Cmpl
+348518	Objc
+348532	Subj
+348538	Subj
+348558	Subj
+348576	Subj
+348579	Objc
+348615	Objc
+348623	Subj
+348631	Pred
+364591	Pred
+364601	Objc
+364604	Objc
+364622	Objc
+364625	Objc
+364628	Objc
+364631	Objc
+364634	Objc
+364637	Objc
+364642	Objc
+364647	Objc
+364657	Objc
+364663	Objc
+364666	Objc
+364669	Objc
+364672	Objc
+364675	Objc
+364678	Objc
+364681	Objc
+364684	Objc
+364687	Objc
+364690	Objc
+364693	Objc
+364696	Objc
+364714	Objc
+364717	Objc
+364720	Objc
+364723	Objc
+364726	Objc
+364729	Objc
+364732	Objc
+364735	Objc
+364738	Objc
+364741	Objc
+364744	Objc
+364761	Subj
+364767	Pred
+364775	Pred
+364784	Pred
+364788	Subj
+364798	Cmpl
+364823	Subj
+364833	Objc
+364840	Pred
+364847	Objc
+364851	Objc
+364860	Subj
+364871	Subj
+364877	Objc
+364883	Pred
+Subj
+364892	Subj
+364897	Subj
+364902	Objc
+364910	Objc
+364916	Subj
+364930	Subj
+364938	Objc
+364955	Subj
+364960	Objc
+364968	Subj
+365004	Objc
+365006	Objc
+365034	Objc
+365038	Subj
+365047	Subj
+365052	Objc
+365061	Objc
+365073	Objc
+365096	Subj
+365098	Cmpl
+365121	Objc
+365153	Objc
+365166	Objc
+365214	Subj
+365216	Subj
+365218	Cmpl
+365238	Objc
+365309	Subj
+365322	Subj
+365328	Objc
+365331	Objc
+365338	Subj
+365340	Objc
+365346	Objc
+365352	Subj
+365377	Objc
+365383	Objc
+365402	Objc
+365411	Objc
+365416	Subj
+365421	Cmpl
+365425	Subj
+365434	Subj
+365437	Objc
+365454	Objc
+365464	Subj
+365466	Pred
+365471	Objc
+365476	Objc
+365482	Objc
+365486	Subj
+365511	Subj
+365518	Objc
+365525	Subj
+365532	Subj
+365536	Subj
+365555	Subj
+365580	Pred
+365585	Subj
+365596	Subj
+365607	Subj
+365623	Pred
+365632	Cmpl
+365641	Objc
+365645	Subj
+365654	Subj
+365673	Objc
+365679	Subj
+365692	Objc
+365696	Subj
+365715	Objc
+365753	Objc
+365766	Subj
+365775	Subj
+365810	Objc
+365815	Objc
+365838	Objc
+365865	Objc
+365879	Subj
+365906	Subj
+365922	Objc
+365930	Subj
+365936	Objc
+365941	Subj
+365946	Subj
+365957	Subj
+365960	Objc
+365967	Objc
+365972	Subj
+365977	Subj
+365982	Objc
+365986	Subj
+365989	Pred
+365997	Subj
+366010	Objc
+366021	Subj
+366034	Pred
+366042	Subj
+366054	Pred
+366082	Subj
+366089	Objc
+366144	Objc
+366151	Objc
+366176	Subj
+366190	Cmpl
+366204	Subj
+366207	Objc
+366214	Cmpl
+366233	Objc
+366240	Subj
+366244	Objc
+366257	Objc
+366266	Pred
+366271	Subj
+Cmpl
+366275	Subj
+Cmpl
+366290	Objc
+366302	Subj
+366316	Subj
+366330	Subj
+366335	Subj
+366344	Subj
+366357	Subj
+366362	Subj
+366372	Objc
+366380	Subj
+366383	Objc
+366397	Cmpl
+366402	Cmpl
+Objc
+366418	Pred
+366427	Pred
+366436	Pred
+366447	Objc
+366453	Subj
+366461	Subj
+366463	Pred
+366479	Objc
+366488	Objc
+366500	Objc
+366503	Objc
+366528	Objc
+366532	Objc
+366541	Objc
+366550	Pred
+366559	Objc
+366576	Objc
+366580	Subj
+366582	Objc
+366588	Objc
+366590	Objc
+366594	Subj
+366596	Objc
+366602	Subj
+366610	Objc
+366640	Subj
+366656	Objc
+366664	Subj
+366667	Subj
+366671	Subj
+366673	Pred
+366692	Pred
+366714	Objc
+366729	Objc
+366754	Subj
+366768	Subj
+366771	Objc
+366787	Subj
+366790	Subj
+366793	Subj
+366801	Objc
+366808	Objc
+366812	Subj
+Cmpl
+366828	Cmpl
+Objc
+366831	Cmpl
+Subj
+366841	Cmpl
+Subj
+366844	Objc
+366855	Subj
+366859	Objc
+366863	Cmpl
+366870	Objc
+366878	Objc
+366882	Objc
+366887	Cmpl
+366935	Subj
+366938	Subj
+366943	Subj
+366946	Pred
+366952	Subj
+366954	Subj
+366962	Subj
+366964	Subj
+366976	Subj
+366981	Objc
+366987	Objc
+366990	Objc
+366996	Objc
+367023	Subj
+367027	Subj
+367046	Subj
+367056	Subj
+367063	Objc
+367070	Objc
+367090	Subj
+367096	Objc
+367104	Subj
+367122	Objc
+Subj
+367127	Subj
+367133	Objc
+367145	Subj
+367154	Subj
+367158	Subj
+367191	Objc
+367200	Cmpl
+367205	Objc
+367211	Subj
+Pred
+367222	Objc
+367226	Objc
+367236	Objc
+Cmpl
+367240	Objc
+367270	Subj
+367284	Subj
+Pred
+367290	Subj
+367294	Objc
+367304	Objc
+Cmpl
+367326	Subj
+Subj
+367344	Subj
+367362	Subj
+367387	Pred
+367404	Subj
+367406	Objc
+367409	Subj
+367411	Objc
+367415	Subj
+367417	Objc
+367420	Subj
+367422	Objc
+367426	Subj
+367429	Objc
+367442	Subj
+367455	Objc
+367485	Objc
+367496	Objc
+367500	Subj
+367503	Objc
+367511	Objc
+367520	Subj
+367523	Subj
+367526	Subj
+367529	Objc
+367540	Subj
+367544	Objc
+367552	Objc
+367560	Subj
+367563	Subj
+367566	Subj
+367569	Objc
+367575	Subj
+367584	Subj
+Objc
+367588	Subj
+367603	Subj
+367612	Subj
+367628	Objc
+367636	Subj
+367641	Subj
+367650	Cmpl
+367653	Objc
+367670	Subj
+367683	Subj
+367697	Subj
+367703	Subj
+Pred
+367727	Cmpl
+367737	Subj
+367747	Objc
+367772	Subj
+367790	Subj
+Cmpl
+367801	Subj
+367809	Subj
+367814	Subj
+367822	Objc
+367826	Subj
+367838	Objc
+367844	Objc
+367847	Objc
+367861	Objc
+367865	Objc
+367870	Subj
+367879	Subj
+367887	Subj
+367891	Subj
+367894	Subj
+367899	Subj
+367903	Objc
+367907	Subj
+367915	Objc
+367920	Subj
+367926	Subj
+Objc
+367936	Subj
+367941	Subj
+367946	Subj
+367976	Subj
+367980	Subj
+368002	Subj
+368035	Subj
+368042	Subj
+368066	Subj
+368096	Subj
+368123	Objc
+368130	Subj
+Objc
+368133	Cmpl
+368138	Subj
+368143	Subj
+368151	Subj
+Objc
+368166	Subj
+368179	Subj
+368187	Cmpl
+368192	Objc
+368211	Subj
+368218	Objc
+Cmpl
+368225	Subj
+Objc
+368249	Subj
+368262	Subj
+Cmpl
+368271	Subj
+368279	Objc
+368303	Subj
+368314	Subj
+368319	Subj
+368322	Subj
+368328	Pred
+Subj
+368337	Subj
+368343	Objc
+368351	Subj
+368357	Subj
+368361	Objc
+368370	Subj
+368373	Subj
+368376	Subj
+368381	Objc
+368389	Subj
+368395	Subj
+368401	Objc
+368411	Subj
+368414	Subj
+368419	Subj
+368423	Objc
+368434	Objc
+368440	Subj
+368449	Subj
+368454	Subj
+368463	Subj
+368472	Subj
+368475	Subj
+368481	Subj
+368491	Subj
+368494	Objc
+368498	Subj
+368502	Subj
+368512	Subj
+368514	Subj
+368530	Subj
+368533	Subj
+368545	Objc
+368555	Subj
+368560	Subj
+368577	Objc
+368583	Subj
+368585	Subj
+368589	Subj
+368597	Subj
+368603	Objc
+368607	Subj
+368620	Objc
+368633	Objc
+368643	Subj
+368647	Cmpl
+368652	Subj
+368655	Subj
+368659	Objc
+368671	Objc
+368674	Objc
+368688	Subj
+368736	Objc
+368738	Subj
+368766	Subj
+368800	Subj
+368834	Subj
+Subj
+368842	Subj
+368853	Objc
+368863	Objc
+368894	Subj
+368900	Subj
+368954	Subj
+369008	Objc
+369013	Subj
+369019	Pred
+369023	Pred
+369032	Pred
+369037	Subj
+Pred
+369045	Objc
+369048	Objc
+369085	Objc
+369089	Objc
+369103	Subj
+369107	Subj
+369117	Subj
+369134	Subj
+369194	Subj
+369196	Pred
+369218	Objc
+369228	Objc
+369234	Objc
+369255	Objc
+369262	Objc
+369268	Objc
+369271	Objc
+369279	Objc
+369288	Subj
+369290	Cmpl
+369304	Subj
+369308	Objc
+369325	Subj
+369354	Subj
+369356	Cmpl
+369364	Objc
+369372	Objc
+369379	Objc
+Pred
+369395	Objc
+369400	Objc
+369405	Objc
+369416	Subj
+369421	Subj
+369438	Subj
+369446	Subj
+369470	Objc
+369482	Objc
+369505	Subj
+369527	Subj
+369534	Objc
+369538	Subj
+369616	Subj
+369642	Pred
+369652	Objc
+369655	Subj
+369658	Objc
+369667	Subj
+369683	Objc
+369697	Cmpl
+369703	Subj
+369707	Subj
+369714	Subj
+369722	Subj
+369733	Subj
+369736	Subj
+369753	Subj
+369764	Objc
+369788	Subj
+369791	Objc
+369799	Subj
+369813	Objc
+369817	Pred
+369819	Subj
+369833	Subj
+369853	Objc
+369874	Cmpl
+369876	Objc
+369886	Subj
+369891	Subj
+369898	Subj
+369907	Objc
+369932	Subj
+369937	Objc
+369942	Cmpl
+369952	Objc
+369957	Objc
+369961	Objc
+369967	Objc
+369971	Objc
+369975	Subj
+369984	Subj
+369991	Subj
+369997	Pred
+370002	Subj
+370006	Objc
+370018	Objc
+370022	Subj
+370028	Subj
+370039	Subj
+Objc
+370045	Subj
+370053	Objc
+Subj
+370060	Pred
+370068	Objc
+370071	Subj
+370086	Objc
+370090	Objc
+370094	Objc
+370101	Pred
+Pred
+370113	Subj
+370116	Cmpl
+370119	Subj
+370156	Objc
+370159	Objc
+370164	Objc
+370167	Objc
+370174	Subj
+370188	Subj
+370192	Subj
+370199	Subj
+370214	Subj
+370232	Subj
+370254	Subj
+370263	Pred
+370271	Subj
+370274	Pred
+370302	Subj
+370308	Subj
+370323	Objc
+370327	Subj
+370333	Subj
+370368	Objc
+370377	Subj
+370392	Cmpl
+370420	Pred
+370424	Pred
+370430	Objc
+370449	Objc
+370456	Pred
+370466	Subj
+370475	Subj
+370482	Subj
+370511	Subj
+370519	Objc
+370526	Objc
+370545	Subj
+370573	Subj
+370585	Objc
+370604	Subj
+370646	Subj
+370655	Objc
+370676	Subj
+370683	Subj
+370695	Subj
+370711	Objc
+370719	Objc
+370726	Subj
+370751	Objc
+370781	Objc
+370792	Objc
+370808	Objc
+370824	Objc
+370827	Subj
+370832	Objc
+370843	Subj
+Subj
+370859	Subj
+370862	Subj
+370868	Subj
+370874	Objc
+370885	Subj
+370889	Subj
+370902	Objc
+370904	Objc
+370916	Cmpl
+370920	Objc
+370929	Objc
+370935	Objc
+370938	Subj
+370965	Subj
+370975	Objc
+370978	Subj
+370992	Objc
+Subj
+370995	Cmpl
+371008	Objc
+371016	Objc
+371022	Subj
+371026	Objc
+371038	Objc
+371040	Pred
+371046	Subj
+Pred
+371054	Pred
+371061	Subj
+Pred
+371071	Pred
+371076	Subj
+Pred
+371080	Subj
+371087	Subj
+371097	Subj
+371100	Objc
+371108	Objc
+371114	Objc
+371131	Subj
+371134	Subj
+371146	Subj
+371167	Objc
+371171	Subj
+371176	Objc
+371182	Objc
+371185	Objc
+371191	Subj
+371214	Objc
+371218	Objc
+371228	Subj
+371232	Objc
+371252	Objc
+371261	Subj
+371282	Subj
+Objc
+371310	Pred
+371317	Subj
+371321	Subj
+371334	Pred
+371338	Subj
+371346	Subj
+371361	Objc
+371373	Objc
+371377	Cmpl
+371390	Subj
+371396	Subj
+371398	Objc
+371412	Subj
+371421	Objc
+371431	Subj
+371434	Subj
+371441	Objc
+371457	Objc
+371466	Subj
+371483	Subj
+371488	Cmpl
+371491	Cmpl
+371498	Subj
+371500	Objc
+371506	Cmpl
+371511	Subj
+371520	Subj
+371528	Objc
+371535	Objc
+371542	Subj
+371547	Subj
+371550	Subj
+371553	Objc
+371562	Subj
+371589	Subj
+371606	Cmpl
+Objc
+371610	Subj
+Cmpl
+371633	Pred
+371643	Subj
+371652	Objc
+371657	Objc
+371671	Subj
+371680	Subj
+371695	Subj
+371710	Subj
+371721	Subj
+371753	Objc
+371765	Subj
+371767	Objc
+371780	Subj
+371784	Subj
+371789	Pred
+371803	Subj
+371813	Objc
+371820	Objc
+371837	Subj
+371839	Objc
+371845	Objc
+371854	Subj
+Objc
+371864	Subj
+371901	Objc
+371914	Subj
+371919	Subj
+371926	Objc
+371931	Objc
+371943	Objc
+371950	Objc
+371954	Subj
+371958	Subj
+371960	Objc
+371966	Subj
+371969	Subj
+371977	Pred
+371989	Subj
+371991	Objc
+371996	Subj
+372003	Subj
+372024	Objc
+372037	Objc
+372043	Objc
+372048	Subj
+372057	Subj
+372069	Subj
+372078	Subj
+372115	Objc
+372120	Cmpl
+372129	Subj
+372144	Subj
+372149	Subj
+372158	Subj
+372168	Subj
+372183	Subj
+372198	Subj
+372210	Objc
+372215	Subj
+372217	Objc
+372234	Objc
+372241	Subj
+372244	Subj
+372247	Objc
+372251	Subj
+372253	Objc
+372266	Cmpl
+372281	Cmpl
+372284	Subj
+Cmpl
+372307	Pred
+372316	Objc
+372328	Subj
+372333	Objc
+372347	Subj
+372356	Subj
+372362	Objc
+372367	Objc
+372380	Subj
+372390	Subj
+372397	Subj
+372418	Subj
+372430	Objc
+372436	Objc
+372440	Objc
+372446	Objc
+372482	Subj
+372488	Objc
+372493	Subj
+Subj
+372536	Subj
+372565	Objc
+372569	Subj
+372573	Objc
+372600	Cmpl
+372605	Pred
+372611	Cmpl
+372635	Subj
+372647	Cmpl
+372654	Pred
+372658	Objc
+372661	Objc
+372665	Subj
+Cmpl
+372677	Objc
+372688	Objc
+372694	Objc
+372704	Objc
+372708	Objc
+372712	Objc
+372719	Subj
+372751	Subj
+372763	Subj
+372784	Subj
+372790	Subj
+372805	Subj
+Cmpl
+372815	Objc
+372826	Subj
+372846	Subj
+372855	Subj
+372867	Objc
+372871	Objc
+372880	Subj
+372883	Objc
+372886	Subj
+372893	Subj
+372897	Subj
+372924	Subj
+372931	Subj
+372951	Objc
+372972	Cmpl
+372981	Subj
+372992	Pred
+373000	Subj
+373004	Subj
+373008	Subj
+373015	Subj
+373037	Objc
+373042	Cmpl
+373056	Subj
+373059	Subj
+373083	Objc
+373089	Subj
+373101	Subj
+373108	Subj
+373130	Subj
+373133	Subj
+373145	Objc
+373152	Objc
+373164	Subj
+373191	Pred
+373206	Pred
+373216	Objc
+373226	Objc
+373237	Subj
+373249	Cmpl
+373257	Subj
+373260	Cmpl
+373264	Subj
+373304	Subj
+373319	Objc
+373328	Objc
+373336	Subj
+373340	Objc
+373354	Pred
+Subj
+373358	Subj
+373362	Objc
+373401	Subj
+373409	Subj
+373423	Objc
+373433	Objc
+373442	Subj
+373449	Cmpl
+373455	Objc
+373457	Pred
+373488	Subj
+373514	Pred
+373519	Subj
+373524	Subj
+373532	Subj
+373543	Subj
+373571	Subj
+373585	Subj
+373597	Subj
+373603	Objc
+373609	Subj
+373616	Objc
+373629	Subj
+373655	Subj
+373662	Cmpl
+373664	Objc
+373670	Subj
+373676	Objc
+373685	Subj
+Objc
+373694	Subj
+373696	Cmpl
+373699	Objc
+373704	Subj
+373711	Cmpl
+373723	Subj
+Objc
+373743	Subj
+373756	Objc
+373786	Cmpl
+373790	Subj
+Pred
+373798	Pred
+373803	Subj
+373810	Objc
+373822	Objc
+373835	Objc
+373843	Subj
+373847	Subj
+373860	Objc
+373896	Objc
+373902	Subj
+373906	Subj
+373910	Objc
+373917	Pred
+Subj
+373925	Objc
+373933	Objc
+373936	Objc
+373945	Subj
+373954	Objc
+373962	Subj
+373978	Objc
+373984	Subj
+373987	Objc
+373991	Subj
+374002	Objc
+374018	Subj
+Objc
+374024	Objc
+374028	Subj
+Cmpl
+374057	Subj
+374066	Subj
+374076	Subj
+374087	Subj
+374100	Subj
+374106	Subj
+374110	Objc
+374118	Subj
+374132	Objc
+374137	Subj
+374143	Subj
+374171	Objc
+374180	Subj
+374218	Subj
+374226	Subj
+374229	Cmpl
+374233	Objc
+374236	Objc
+374246	Subj
+374254	Subj
+374260	Objc
+374262	Subj
+374272	Subj
+374290	Cmpl
+374299	Objc
+374306	Cmpl
+374310	Cmpl
+374321	Subj
+374328	Subj
+374331	Subj
+374339	Objc
+374352	Subj
+374355	Cmpl
+374364	Cmpl
+374379	Subj
+374400	Subj
+374418	Subj
+374423	Objc
+374435	Objc
+374457	Subj
+374464	Subj
+374470	Subj
+374475	Subj
+374487	Pred
+374494	Pred
+374496	Subj
+374506	Objc
+374508	Objc
+374516	Subj
+374520	Subj
+374536	Subj
+374552	Subj
+374562	Subj
+374569	Subj
+Objc
+374592	Objc
+374619	Subj
+Objc
+374636	Cmpl
+374639	Subj
+374656	Subj
+374662	Subj
+374670	Objc
+374678	Subj
+374680	Objc
+374707	Pred
+374716	Pred
+374724	Subj
+374731	Subj
+374748	Objc
+374766	Objc
+374772	Subj
+374774	Pred
+374777	Objc
+374812	Pred
+374822	Subj
+374854	Objc
+374873	Subj
+374878	Subj
+374881	Subj
+374886	Subj
+374898	Objc
+374903	Cmpl
+374915	Objc
+374942	Objc
+374948	Subj
+374950	Objc
+374965	Pred
+374968	Pred
+374979	Pred
+374990	Pred
+374992	Objc
+374996	Objc
+375001	Cmpl
+375005	Subj
+375015	Objc
+375050	Subj
+375053	Objc
+375059	Subj
+375062	Subj
+375099	Objc
+375120	Subj
+375123	Objc
+375128	Objc
+375134	Subj
+Objc
+375147	Objc
+375157	Objc
+375161	Objc
+375166	Subj
+375168	Objc
+375172	Pred
+375179	Objc
+375195	Subj
+375198	Cmpl
+375207	Objc
+Cmpl
+375211	Objc
+375217	Subj
+375243	Subj
+375248	Cmpl
+375250	Objc
+375275	Objc
+375286	Objc
+375294	Subj
+375298	Subj
+375304	Cmpl
+375310	Objc
+375322	Objc
+375330	Objc
+375361	Subj
+375363	Objc
+375371	Subj
+375375	Objc
+375377	Objc
+375381	Objc
+375385	Cmpl
+375390	Subj
+375413	Subj
+375426	Subj
+375432	Subj
+375436	Objc
+375438	Objc
+375445	Objc
+375451	Subj
+Cmpl
+375455	Objc
+375479	Subj
+375486	Objc
+375499	Objc
+375522	Subj
+Objc
+375529	Objc
+375552	Objc
+375555	Objc
+375557	Cmpl
+375572	Subj
+375586	Subj
+375588	Objc
+375592	Cmpl
+375597	Pred
+Subj
+375603	Subj
+375608	Objc
+375610	Cmpl
+375625	Subj
+375632	Pred
+375641	Subj
+375645	Objc
+375648	Objc
+375662	Pred
+375694	Pred
+375701	Subj
+375708	Subj
+375712	Objc
+375724	Subj
+375752	Pred
+375759	Objc
+375770	Subj
+375774	Subj
+375779	Subj
+375781	Subj
+375787	Pred
+375791	Pred
+375799	Cmpl
+375808	Objc
+375819	Pred
+375833	Subj
+375852	Objc
+375873	Objc
+375888	Objc
+375900	Objc
+375904	Objc
+375932	Subj
+375936	Subj
+375940	Objc
+375945	Subj
+375953	Subj
+375959	Subj
+375961	Pred
+375980	Objc
+376011	Objc
+376043	Subj
+376050	Objc
+376074	Subj
+376081	Objc
+376167	Objc
+376170	Objc
+376180	Objc
+376196	Objc
+376201	Subj
+376227	Subj
+376247	Objc
+376252	Objc
+376260	Pred
+376267	Pred
+376277	Pred
+376280	Objc
+376284	Objc
+376325	Subj
+376354	Subj
+376367	Objc
+376376	Objc
+376380	Objc
+376388	Subj
+376411	Subj
+376416	Subj
+376419	Objc
+376429	Objc
+376447	Subj
+376455	Subj
+376467	Subj
+376481	Pred
+376502	Subj
+376520	Subj
+Pred
+376550	Subj
+376559	Subj
+Subj
+376574	Subj
+376582	Cmpl
+376586	Subj
+376610	Subj
+376616	Subj
+376620	Objc
+376626	Subj
+376630	Objc
+376650	Subj
+376674	Subj
+376677	Subj
+376683	Subj
+376691	Subj
+376710	Objc
+376722	Pred
+376729	Pred
+376737	Subj
+376742	Subj
+376750	Subj
+Subj
+376761	Subj
+376764	Subj
+Objc
+376769	Subj
+376774	Subj
+376781	Subj
+376789	Subj
+376796	Subj
+376811	Objc
+376817	Objc
+376832	Objc
+376838	Subj
+376842	Objc
+376846	Subj
+376851	Objc
+376861	Subj
+376866	Subj
+376876	Subj
+376897	Subj
+376903	Subj
+376906	Subj
+376940	Subj
+376944	Subj
+376952	Pred
+376974	Subj
+376983	Subj
+376986	Subj
+376994	Subj
+377000	Subj
+377005	Subj
+377017	Subj
+377023	Objc
+377033	Subj
+377051	Subj
+377058	Subj
+377064	Objc
+377075	Subj
+377092	Objc
+377106	Subj
+377113	Objc
+377122	Subj
+377129	Subj
+377131	Objc
+377136	Subj
+377146	Subj
+377158	Subj
+377164	Subj
+377169	Objc
+377174	Subj
+Cmpl
+377183	Subj
+377188	Subj
+377207	Subj
+377211	Subj
+377217	Subj
+377221	Subj
+377255	Objc
+377259	Objc
+377267	Objc
+377284	Objc
+377289	Objc
+377294	Objc
+Objc
+377302	Objc
+377306	Objc
+377316	Subj
+377329	Objc
+377331	Objc
+377337	Objc
+377339	Objc
+377343	Subj
+377365	Subj
+377368	Objc
+377373	Objc
+377375	Objc
+377379	Subj
+377402	Subj
+377405	Objc
+377413	Pred
+377425	Objc
+377430	Objc
+377435	Subj
+377454	Objc
+377456	Cmpl
+377461	Objc
+377468	Objc
+377473	Objc
+377480	Cmpl
+377490	Subj
+377496	Objc
+377516	Subj
+377524	Subj
+377535	Subj
+377543	Subj
+Objc
+377551	Objc
+377556	Objc
+377560	Subj
+Cmpl
+377573	Objc
+377604	Pred
+377610	Subj
+377655	Subj
+377661	Cmpl
+377669	Cmpl
+377715	Subj
+377741	Cmpl
+377752	Subj
+377762	Subj
+Objc
+377767	Cmpl
+377773	Pred
+377775	Subj
+377778	Subj
+377805	Objc
+377823	Subj
+377833	Objc
+377845	Subj
+377848	Pred
+Subj
+377862	Subj
+377865	Cmpl
+377868	Objc
+377874	Objc
+377882	Objc
+377897	Subj
+377902	Subj
+377923	Objc
+377936	Subj
+377943	Objc
+377956	Subj
+377959	Subj
+377963	Objc
+377972	Subj
+377975	Subj
+377978	Objc
+377996	Subj
+378003	Subj
+378016	Objc
+378024	Subj
+378037	Subj
+378044	Subj
+378067	Subj
+378073	Cmpl
+378079	Pred
+378137	Subj
+378140	Subj
+378149	Objc
+378152	Subj
+378166	Subj
+378174	Subj
+378186	Subj
+378196	Subj
+378203	Subj
+378209	Cmpl
+378232	Subj
+378256	Subj
+378276	Cmpl
+378294	Subj
+378297	Subj
+378312	Subj
+378323	Subj
+378332	Objc
+378349	Subj
+378352	Subj
+378375	Subj
+378410	Subj
+378418	Objc
+378427	Subj
+378431	Objc
+Objc
+378437	Objc
+378440	Objc
+378444	Subj
+378447	Objc
+378454	Subj
+378465	Objc
+378469	Objc
+378475	Subj
+378484	Subj
+Cmpl
+378508	Subj
+378511	Subj
+378516	Subj
+378525	Objc
+378538	Subj
+378550	Objc
+378568	Subj
+378577	Objc
+378588	Subj
+378594	Subj
+378598	Subj
+378616	Subj
+378625	Subj
+378639	Subj
+Objc
+378646	Objc
+378649	Objc
+378676	Subj
+378682	Subj
+378685	Subj
+Pred
+378706	Cmpl
+378708	Pred
+378717	Objc
+378725	Cmpl
+378728	Subj
+Pred
+378732	Subj
+378743	Objc
+378750	Subj
+Objc
+378768	Subj
+378797	Objc
+378799	Cmpl
+378805	Objc
+378818	Objc
+378827	Subj
+378829	Objc
+378837	Pred
+378843	Objc
+378852	Subj
+378854	Pred
+378891	Subj
+378897	Subj
+378900	Pred
+378906	Subj
+378920	Subj
+378931	Subj
+378936	Subj
+378938	Objc
+Cmpl
+378945	Objc
+378954	Subj
+378977	Subj
+378997	Objc
+379001	Objc
+379004	Objc
+379009	Subj
+379012	Objc
+379019	Objc
+379022	Subj
+379036	Objc
+379046	Subj
+379053	Objc
+379067	Subj
+379070	Subj
+379081	Objc
+379085	Objc
+379090	Subj
+379094	Objc
+379098	Objc
+379105	Objc
+379131	Objc
+379145	Objc
+379148	Objc
+379159	Objc
+379166	Objc
+379178	Pred
+379180	Objc
+379193	Objc
+379205	Objc
+379217	Subj
+379231	Objc
+379240	Objc
+379249	Pred
+379257	Subj
+379271	Pred
+379291	Pred
+379296	Subj
+379318	Subj
+379339	Subj
+379350	Subj
+379361	Subj
+379372	Subj
+379375	Objc
+379380	Subj
+379389	Subj
+379392	Subj
+379395	Subj
+379399	Subj
+379426	Objc
+379435	Pred
+379446	Objc
+379451	Pred
+379481	Cmpl
+379485	Cmpl
+Objc
+379491	Subj
+379498	Objc
+Subj
+379515	Objc
+379537	Pred
+379549	Subj
+379559	Subj
+379567	Subj
+379570	Cmpl
+379576	Subj
+379581	Subj
+379594	Objc
+379596	Objc
+379614	Objc
+379618	Subj
+379623	Subj
+379629	Objc
+379637	Subj
+379639	Pred
+379642	Subj
+379656	Pred
+379661	Subj
+Cmpl
+379684	Objc
+379691	Cmpl
+379717	Cmpl
+379729	Objc
+379735	Subj
+379742	Cmpl
+379754	Subj
+379759	Cmpl
+Objc
+379772	Objc
+Cmpl
+379779	Subj
+379804	Subj
+379815	Subj
+379823	Subj
+379833	Subj
+379836	Subj
+379847	Objc
+379867	Pred
+379876	Pred
+379892	Objc
+379897	Objc
+379900	Pred
+379906	Objc
+379909	Objc
+379918	Objc
+379941	Objc
+379946	Subj
+379950	Objc
+379953	Objc
+379967	Subj
+379973	Objc
+380008	Subj
+380011	Subj
+380030	Subj
+380037	Pred
+380046	Pred
+380050	Subj
+380057	Subj
+Subj
+380063	Objc
+380072	Subj
+380075	Subj
+380106	Subj
+380113	Pred
+380118	Objc
+380137	Objc
+380179	Subj
+380184	Pred
+380187	Subj
+380206	Pred
+380212	Subj
+380223	Subj
+380240	Pred
+380245	Cmpl
+380254	Subj
+380279	Subj
+380290	Objc
+380295	Subj
+380304	Subj
+380307	Objc
+380318	Subj
+380326	Objc
+380332	Objc
+380336	Subj
+380395	Objc
+380416	Objc
+380428	Subj
+380446	Cmpl
+380464	Objc
+380471	Pred
+380486	Pred
+380493	Subj
+380499	Objc
+380505	Objc
+380516	Objc
+380522	Objc
+380525	Subj
+380530	Subj
+Objc
+380533	Cmpl
+380536	Subj
+380541	Subj
+380564	Subj
+380580	Cmpl
+380582	Subj
+380591	Objc
+380600	Subj
+380608	Cmpl
+380614	Objc
+380628	Objc
+380635	Objc
+380648	Subj
+380682	Subj
+380698	Subj
+380708	Cmpl
+380720	Subj
+380723	Objc
+380761	Subj
+380766	Subj
+380769	Subj
+380774	Subj
+Pred
+380781	Objc
+380791	Subj
+380799	Objc
+380809	Subj
+380817	Subj
+380823	Objc
+380831	Subj
+Objc
+380836	Subj
+380839	Subj
+380842	Objc
+380856	Subj
+380860	Objc
+380864	Subj
+380896	Objc
+380903	Subj
+380906	Cmpl
+380909	Pred
+380915	Subj
+380920	Subj
+380926	Pred
+Subj
+380939	Subj
+380942	Objc
+380960	Objc
+380993	Cmpl
+380995	Objc
+381002	Subj
+381008	Subj
+381017	Subj
+381026	Subj
+381048	Subj
+381056	Cmpl
+381076	Subj
+381086	Pred
+381114	Pred
+381123	Objc
+381128	Objc
+381132	Cmpl
+381149	Pred
+381177	Subj
+381185	Subj
+381210	Objc
+381225	Subj
+381233	Subj
+381242	Subj
+381259	Objc
+381263	Objc
+381266	Objc
+381275	Cmpl
+381302	Objc
+381365	Objc
+381384	Subj
+381393	Subj
+381431	Subj
+381442	Objc
+381448	Objc
+381454	Subj
+381469	Subj
+381508	Subj
+381512	Objc
+381518	Subj
+381529	Subj
+381552	Objc
+381556	Objc
+381562	Objc
+381567	Subj
+381572	Subj
+381579	Subj
+381599	Objc
+381626	Objc
+381644	Objc
+381659	Objc
+381676	Subj
+381696	Subj
+381736	Subj
+381744	Subj
+381750	Objc
+381763	Subj
+381770	Subj
+381782	Subj
+Objc
+381786	Subj
+381792	Objc
+381800	Pred
+381826	Objc
+381833	Subj
+381841	Objc
+381853	Cmpl
+381871	Objc
+381874	Pred
+381878	Subj
+Pred
+381884	Subj
+381888	Subj
+381893	Subj
+381897	Pred
+381918	Objc
+381921	Cmpl
+381929	Subj
+381932	Subj
+381943	Objc
+381981	Objc
+382000	Subj
+382003	Subj
+382029	Objc
+382064	Subj
+382069	Subj
+382082	Pred
+382084	Subj
+382107	Subj
+382115	Subj
+382166	Objc
+382201	Pred
+382218	Subj
+382232	Subj
+382240	Subj
+382246	Subj
+382250	Pred
+382256	Subj
+382272	Subj
+382277	Objc
+382291	Subj
+382297	Subj
+382300	Pred
+382309	Objc
+382320	Objc
+382326	Objc
+382335	Objc
+382342	Subj
+382356	Subj
+382360	Subj
+382367	Objc
+382372	Subj
+382377	Subj
+382391	Subj
+382401	Objc
+382408	Subj
+382428	Subj
+382431	Objc
+382435	Subj
+382438	Subj
+Cmpl
+382482	Subj
+382505	Subj
+382510	Objc
+382526	Subj
+382531	Pred
+382558	Subj
+382571	Subj
+382584	Subj
+382608	Subj
+382610	Pred
+382618	Subj
+382639	Objc
+382643	Cmpl
+Objc
+382654	Objc
+382660	Objc
+382667	Objc
+382692	Objc
+382710	Subj
+382732	Objc
+382736	Objc
+382747	Subj
+382761	Subj
+382775	Pred
+382781	Subj
+382790	Subj
+382793	Objc
+382809	Subj
+Cmpl
+382814	Objc
+382823	Subj
+382834	Subj
+Objc
+382837	Objc
+382853	Subj
+382870	Subj
+382884	Subj
+Cmpl
+382908	Cmpl
+382915	Objc
+382932	Objc
+382940	Subj
+382952	Subj
+382954	Objc
+382967	Objc
+382972	Cmpl
+382975	Subj
+Cmpl
+382983	Subj
+382987	Objc
+382996	Subj
+383001	Objc
+383012	Subj
+383059	Objc
+383066	Pred
+383078	Subj
+383083	Subj
+383109	Objc
+383119	Objc
+383163	Objc
+383167	Cmpl
+383172	Objc
+383196	Objc
+Pred
+383203	Subj
+383214	Objc
+383228	Subj
+Pred
+383247	Subj
+383299	Subj
+383313	Subj
+383370	Objc
+383393	Objc
+383401	Objc
+383413	Objc
+383415	Objc
+383427	Objc
+383441	Subj
+383450	Objc
+383464	Subj
+383469	Subj
+383475	Objc
+383479	Objc
+383482	Objc
+383489	Objc
+383494	Objc
+383536	Objc
+383546	Objc
+383552	Objc
+383575	Objc
+383585	Subj
+383587	Objc
+383594	Subj
+383599	Subj
+383620	Objc
+383632	Objc
+383641	Subj
+383650	Subj
+383655	Objc
+383680	Subj
+383683	Objc
+383692	Subj
+383700	Objc
+383710	Subj
+383715	Objc
+383720	Cmpl
+383731	Subj
+383750	Subj
+383760	Subj
+383765	Subj
+383792	Objc
+383801	Objc
+383809	Objc
+383826	Subj
+383831	Subj
+383856	Subj
+383866	Subj
+383872	Objc
+383889	Objc
+383897	Subj
+Pred
+383902	Subj
+383912	Objc
+383920	Cmpl
+383930	Objc
+383936	Cmpl
+383942	Cmpl
+383946	Objc
+383952	Objc
+383968	Pred
+383988	Subj
+384004	Subj
+384012	Cmpl
+384030	Objc
+384068	Objc
+384083	Objc
+384087	Objc
+384097	Objc
+384100	Objc
+384128	Objc
+384140	Objc
+384149	Objc
+384153	Subj
+384157	Objc
+384195	Objc
+384200	Subj
+384217	Pred
+384228	Subj
+384230	Pred
+384245	Subj
+384267	Objc
+384272	Subj
+384282	Objc
+384293	Objc
+384296	Objc
+384302	Objc
+384315	Objc
+384325	Objc
+384332	Objc
+384343	Objc
+384347	Objc
+384352	Objc
+384373	Subj
+384405	Subj
+384415	Subj
+384433	Subj
+384435	Pred
+384439	Subj
+384456	Subj
+Cmpl
+384465	Objc
+384501	Objc
+384517	Subj
+384524	Objc
+384536	Subj
+384564	Subj
+384580	Subj
+Pred
+384589	Subj
+384603	Subj
+384608	Objc
+384612	Objc
+384623	Objc
+384630	Cmpl
+384647	Pred
+384661	Subj
+384671	Objc
+384675	Subj
+384704	Subj
+384715	Subj
+384721	Objc
+384727	Subj
+384730	Objc
+384756	Pred
+384759	Subj
+384766	Subj
+384768	Objc
+384778	Subj
+384788	Subj
+384809	Objc
+384816	Subj
+384832	Objc
+384844	Pred
+384863	Objc
+384889	Objc
+384906	Subj
+384923	Subj
+384940	Pred
+Pred
+384948	Objc
+384956	Objc
+384963	Objc
+384974	Subj
+384987	Subj
+384998	Objc
+385012	Subj
+385023	Objc
+385032	Subj
+385045	Objc
+385051	Subj
+385055	Subj
+385061	Subj
+385067	Subj
+385118	Objc
+385124	Subj
+385129	Objc
+385149	Subj
+Pred
+385157	Pred
+385162	Subj
+385168	Subj
+385178	Objc
+385188	Objc
+385198	Subj
+385204	Subj
+385211	Subj
+385216	Pred
+Subj
+385227	Objc
+385238	Objc
+385256	Objc
+385260	Subj
+385270	Objc
+385288	Objc
+385295	Subj
+385309	Cmpl
+385327	Objc
+385332	Subj
+Cmpl
+385339	Objc
+385347	Subj
+385354	Subj
+385359	Pred
+385389	Subj
+385404	Subj
+385411	Subj
+385450	Objc
+385455	Subj
+385458	Subj
+385464	Pred
+385471	Subj
+385483	Objc
+385494	Subj
+385506	Cmpl
+385559	Subj
+385566	Objc
+385581	Subj
+385585	Objc
+385610	Subj
+385619	Subj
+385630	Subj
+385644	Pred
+385651	Pred
+385655	Subj
+385665	Objc
+385667	Objc
+385726	Subj
+385731	Objc
+385741	Objc
+385750	Subj
+385756	Subj
+385763	Subj
+385767	Subj
+385792	Objc
+385813	Subj
+385827	Subj
+Objc
+385847	Subj
+385852	Objc
+385858	Subj
+385866	Objc
+385872	Objc
+385881	Objc
+385909	Subj
+385917	Pred
+385931	Subj
+385962	Subj
+385974	Subj
+385988	Objc
+386008	Objc
+386026	Subj
+386028	Pred
+386033	Objc
+386051	Subj
+386068	Subj
+386074	Subj
+386077	Subj
+386084	Subj
+386086	Objc
+386095	Cmpl
+386141	Subj
+386148	Objc
+386177	Objc
+386184	Subj
+386188	Objc
+386203	Pred
+386206	Pred
+386218	Pred
+386227	Pred
+386230	Objc
+386233	Objc
+386240	Cmpl
+386245	Subj
+386292	Objc
+386315	Objc
+386323	Objc
+386328	Subj
+386333	Pred
+386340	Subj
+386352	Subj
+386361	Objc
+386364	Objc
+386367	Objc
+386392	Objc
+386398	Objc
+386408	Objc
+386435	Objc
+386452	Objc
+386478	Subj
+386481	Objc
+386484	Objc
+386486	Cmpl
+386509	Subj
+386516	Subj
+386518	Objc
+386521	Cmpl
+386525	Subj
+386530	Subj
+386538	Subj
+386545	Subj
+386549	Subj
+386553	Subj
+386562	Pred
+386566	Subj
+386569	Subj
+386575	Objc
+386578	Objc
+386594	Pred
+386613	Subj
+386626	Pred
+386634	Subj
+386642	Subj
+386646	Subj
+386657	Pred
+386686	Objc
+386692	Subj
+386696	Subj
+386729	Objc
+386739	Subj
+386756	Subj
+386761	Subj
+386764	Subj
+Pred
+386768	Subj
+386774	Cmpl
+386783	Objc
+386791	Subj
+386794	Pred
+386798	Subj
+386834	Objc
+386839	Objc
+386848	Subj
+386854	Subj
+386859	Subj
+386868	Objc
+386908	Subj
+386922	Subj
+386924	Objc
+386955	Subj
+386958	Subj
+386963	Subj
+386995	Subj
+387011	Pred
+387037	Subj
+387061	Subj
+387100	Subj
+387109	Subj
+387117	Subj
+387128	Subj
+387134	Objc
+387157	Subj
+387167	Subj
+387178	Objc
+387180	Subj
+387188	Objc
+387196	Subj
+387216	Objc
+387232	Subj
+387235	Subj
+Objc
+387240	Subj
+387255	Subj
+387267	Objc
+387270	Objc
+387285	Objc
+387291	Subj
+387295	Objc
+387299	Subj
+387302	Subj
+387315	Subj
+387319	Subj
+387329	Subj
+387350	Subj
+387359	Subj
+387364	Subj
+387367	Objc
+387371	Cmpl
+387373	Objc
+Objc
+387378	Cmpl
+387389	Subj
+387413	Pred
+387434	Subj
+387440	Pred
+387450	Objc
+387457	Objc
+387468	Subj
+387475	Subj
+387483	Cmpl
+387490	Subj
+387496	Objc
+387503	Objc
+387518	Objc
+387530	Subj
+387534	Subj
+387571	Objc
+Subj
+387580	Objc
+387585	Objc
+387596	Subj
+387598	Objc
+387606	Cmpl
+387609	Subj
+387611	Subj
+387615	Objc
+387622	Objc
+387634	Subj
+387646	Objc
+387661	Subj
+387700	Subj
+387713	Subj
+387720	Subj
+387737	Pred
+387791	Subj
+387799	Objc
+387802	Subj
+387813	Subj
+387817	Subj
+387823	Subj
+387845	Subj
+387853	Subj
+387857	Cmpl
+387884	Subj
+387906	Subj
+387915	Objc
+387933	Cmpl
+387953	Subj
+387956	Subj
+387962	Objc
+387974	Subj
+387996	Subj
+387998	Subj
+388025	Subj
+388062	Objc
+388074	Objc
+Objc
+388080	Objc
+388086	Subj
+388100	Pred
+388110	Subj
+388119	Subj
+388128	Objc
+388133	Objc
+388138	Subj
+388149	Subj
+388190	Subj
+388211	Objc
+388215	Subj
+388221	Subj
+388223	Objc
+388236	Subj
+388248	Subj
+388255	Subj
+388270	Subj
+388272	Objc
+388276	Objc
+388278	Objc
+388283	Subj
+388293	Objc
+388302	Subj
+388307	Subj
+Pred
+388312	Subj
+388320	Subj
+388323	Subj
+Pred
+388347	Subj
+388354	Pred
+388364	Cmpl
+388367	Pred
+388370	Pred
+388391	Subj
+Objc
+388395	Subj
+388408	Subj
+388417	Objc
+388424	Subj
+388426	Pred
+388437	Subj
+388441	Subj
+388448	Subj
+388451	Subj
+388475	Subj
+388482	Subj
+388486	Objc
+388495	Subj
+388499	Subj
+Objc
+388503	Objc
+388507	Subj
+388512	Objc
+388522	Subj
+388525	Objc
+388534	Subj
+388537	Cmpl
+Objc
+Objc
+388542	Objc
+388550	Subj
+388557	Objc
+388566	Objc
+388579	Objc
+388586	Objc
+388595	Objc
+388598	Objc
+388622	Objc
+388633	Pred
+388638	Objc
+388649	Objc
+388658	Pred
+388665	Subj
+388677	Objc
+388692	Objc
+388702	Objc
+388712	Subj
+388746	Subj
+388758	Subj
+388781	Subj
+388805	Subj
+388807	Objc
+388811	Subj
+388831	Subj
+388833	Pred
+388837	Subj
+388843	Pred
+388863	Pred
+388895	Objc
+388903	Objc
+388911	Subj
+388917	Objc
+388926	Objc
+Cmpl
+388963	Subj
+388986	Subj
+388992	Objc
+389004	Subj
+389007	Pred
+389019	Objc
+389041	Pred
+389089	Objc
+389095	Pred
+389114	Subj
+389123	Cmpl
+389130	Cmpl
+389151	Objc
+Cmpl
+389169	Subj
+389184	Objc
+389215	Subj
+389218	Objc
+389226	Objc
+389229	Cmpl
+389236	Subj
+389244	Objc
+389277	Objc
+389296	Pred
+389301	Pred
+389306	Subj
+389327	Subj
+389363	Subj
+389374	Subj
+389393	Subj
+389400	Subj
+389409	Objc
+389441	Objc
+389459	Objc
+389466	Objc
+389481	Subj
+389490	Subj
+389530	Subj
+Objc
+389565	Subj
+389593	Objc
+389615	Cmpl
+389622	Subj
+389634	Subj
+Pred
+389645	Subj
+389650	Subj
+389668	Objc
+389675	Pred
+389680	Objc
+389709	Subj
+389712	Subj
+389716	Subj
+389720	Subj
+389724	Pred
+389734	Subj
+389739	Pred
+389747	Subj
+389755	Pred
+389765	Subj
+389786	Objc
+389794	Objc
+389797	Subj
+389800	Subj
+389807	Subj
+389820	Subj
+389829	Subj
+389839	Subj
+389848	Subj
+389868	Subj
+389870	Objc
+389873	Subj
+389892	Subj
+389898	Subj
+389901	Subj
+389905	Subj
+389967	Cmpl
+Subj
+389985	Objc
+390001	Objc
+390013	Subj
+390026	Pred
+390035	Cmpl
+390047	Subj
+390056	Subj
+390060	Subj
+390065	Objc
+390081	Subj
+390086	Subj
+390095	Subj
+390099	Subj
+390101	Pred
+390125	Cmpl
+390129	Objc
+390185	Subj
+390187	Pred
+390192	Objc
+390195	Objc
+Cmpl
+390218	Objc
+390227	Subj
+390232	Pred
+390251	Subj
+390255	Pred
+390269	Subj
+390286	Pred
+390306	Subj
+390312	Objc
+390330	Pred
+390338	Objc
+390348	Subj
+390351	Subj
+390354	Objc
+390358	Subj
+390366	Pred
+390389	Subj
+390393	Objc
+390402	Pred
+390414	Subj
+390416	Subj
+390431	Subj
+390447	Subj
+390465	Subj
+390477	Subj
+Objc
+390487	Subj
+390491	Objc
+390505	Subj
+390510	Subj
+390527	Subj
+390539	Cmpl
+390546	Subj
+390571	Pred
+390575	Subj
+390580	Objc
+390584	Subj
+Pred
+390599	Objc
+390615	Subj
+390626	Subj
+390632	Objc
+390636	Objc
+390645	Subj
+390718	Subj
+390740	Objc
+390753	Objc
+390757	Cmpl
+390760	Objc
+390766	Objc
+390782	Subj
+390788	Subj
+Pred
+390793	Subj
+390805	Pred
+390815	Objc
+390826	Subj
+390834	Pred
+390836	Objc
+390870	Subj
+390887	Subj
+390909	Pred
+390916	Objc
+390933	Subj
+390935	Objc
+390984	Subj
+391000	Objc
+391012	Subj
+391018	Objc
+391021	Objc
+391027	Subj
+391030	Subj
+391036	Subj
+391040	Subj
+391046	Subj
+Objc
+391053	Cmpl
+391069	Objc
+391078	Objc
+391083	Subj
+391088	Cmpl
+391092	Subj
+391102	Subj
+391105	Objc
+391112	Subj
+391124	Objc
+391135	Subj
+391147	Objc
+391154	Subj
+391158	Subj
+391176	Subj
+391185	Pred
+391188	Subj
+391199	Objc
+391210	Subj
+391212	Pred
+391217	Objc
+391221	Objc
+391227	Objc
+391236	Objc
+391257	Subj
+Objc
+391261	Objc
+391270	Subj
+391274	Subj
+391279	Subj
+391282	Subj
+391302	Subj
+391308	Pred
+391495	Subj
+391499	Pred
+391502	Cmpl
+391510	Subj
+391516	Subj
+391521	Objc
+391530	Subj
+391557	Subj
+391566	Objc
+391584	Pred
+391593	Cmpl
+391605	Objc
+391611	Subj
+391622	Objc
+Subj
+391629	Subj
+391678	Subj
+391684	Objc
+Objc
+391691	Subj
+Pred
+391705	Objc
+391711	Objc
+391713	Cmpl
+391717	Subj
+391730	Subj
+391756	Pred
+391762	Objc
+391782	Subj
+391793	Subj
+Pred
+391801	Subj
+391808	Subj
+Pred
+391827	Subj
+391830	Pred
+391835	Subj
+391844	Subj
+391862	Subj
+391893	Pred
+Subj
+391900	Pred
+391902	Subj
+391904	Objc
+391923	Pred
+391929	Subj
+391940	Subj
+391955	Subj
+391963	Cmpl
+391970	Subj
+391989	Subj
+392002	Objc
+392013	Subj
+Subj
+392023	Cmpl
+392025	Objc
+392029	Subj
+392037	Pred
+392048	Pred
+392062	Subj
+392078	Cmpl
+392081	Objc
+392103	Subj
+392106	Objc
+392119	Subj
+392125	Subj
+392128	Objc
+392147	Objc
+392163	Objc
+392181	Objc
+392187	Objc
+392191	Subj
+392196	Cmpl
+392210	Objc
+392226	Pred
+392245	Objc
+392258	Subj
+392269	Objc
+392281	Pred
+392287	Subj
+392292	Objc
+392306	Objc
+392313	Subj
+392324	Cmpl
+392338	Subj
+392343	Subj
+392389	Subj
+392430	Objc
+392434	Subj
+392453	Subj
+392459	Subj
+Objc
+392474	Subj
+392487	Subj
+392503	Objc
+392520	Objc
+392528	Objc
+392543	Subj
+392558	Objc
+392565	Subj
+392597	Subj
+392601	Objc
+392621	Subj
+392626	Subj
+392631	Subj
+392637	Subj
+392643	Subj
+392648	Subj
+Pred
+392659	Subj
+392666	Objc
+392682	Objc
+392694	Objc
+392703	Subj
+392706	Objc
+392712	Subj
+392716	Subj
+392727	Subj
+392738	Subj
+392741	Objc
+392747	Subj
+392757	Subj
+392767	Pred
+392778	Objc
+392783	Cmpl
+392789	Subj
+392795	Pred
+392797	Subj
+392817	Subj
+392841	Objc
+392849	Objc
+392863	Subj
+392882	Objc
+392884	Objc
+392892	Subj
+392903	Cmpl
+392929	Objc
+392937	Objc
+393012	Subj
+393025	Objc
+393032	Subj
+393035	Subj
+393056	Subj
+393065	Objc
+393084	Subj
+393093	Cmpl
+Subj
+393103	Objc
+393128	Subj
+393134	Cmpl
+Subj
+393145	Objc
+393164	Objc
+393171	Objc
+393173	Objc
+393178	Cmpl
+393185	Objc
+393193	Subj
+393202	Subj
+393205	Subj
+393217	Subj
+393219	Subj
+393221	Objc
+393232	Subj
+393235	Subj
+393238	Objc
+393244	Objc
+393255	Subj
+393259	Pred
+393270	Subj
+393298	Objc
+393315	Objc
+393327	Pred
+393331	Subj
+393333	Pred
+393359	Cmpl
+393371	Objc
+393380	Objc
+393400	Subj
+Objc
+393404	Subj
+Objc
+393409	Subj
+393425	Subj
+393432	Objc
+393435	Subj
+393438	Objc
+393443	Subj
+393465	Objc
+393489	Subj
+Objc
+393513	Subj
+393518	Subj
+393526	Objc
+393538	Subj
+393550	Objc
+393556	Objc
+393572	Objc
+393576	Objc
+393580	Subj
+393590	Subj
+393613	Subj
+393619	Subj
+Pred
+393644	Cmpl
+393654	Subj
+393658	Cmpl
+393665	Objc
+393675	Subj
+393706	Subj
+393716	Subj
+393719	Pred
+393725	Subj
+393736	Objc
+393751	Subj
+393757	Cmpl
+393765	Objc
+393770	Subj
+393775	Subj
+Objc
+393781	Subj
+393795	Subj
+393803	Objc
+393807	Subj
+393822	Subj
+393847	Cmpl
+393879	Subj
+393891	Objc
+393899	Objc
+393905	Subj
+393911	Pred
+393924	Objc
+393929	Objc
+393934	Objc
+393945	Subj
+393960	Objc
+393971	Objc
+393981	Objc
+394023	Subj
+394045	Subj
+394053	Subj
+394087	Objc
+394096	Objc
+394106	Objc
+394130	Subj
+394139	Subj
+394155	Subj
+Pred
+394159	Subj
+Objc
+394163	Subj
+394170	Subj
+394177	Objc
+394188	Cmpl
+394190	Objc
+394205	Objc
+394219	Objc
+394224	Objc
+394228	Objc
+394235	Subj
+394249	Subj
+394260	Objc
+394267	Subj
+394286	Objc
+394293	Pred
+394311	Subj
+394330	Subj
+394333	Subj
+394343	Objc
+394358	Subj
+394383	Subj
+394395	Objc
+394406	Subj
+394409	Subj
+394417	Objc
+394424	Cmpl
+394436	Subj
+394439	Subj
+Pred
+394447	Subj
+394455	Subj
+394458	Objc
+394469	Subj
+394476	Objc
+394523	Objc
+394543	Objc
+394574	Subj
+394618	Objc
+394637	Subj
+394659	Subj
+394697	Subj
+394727	Pred
+394735	Subj
+394759	Objc
+394779	Cmpl
+394798	Objc
+394806	Subj
+394815	Subj
+394828	Subj
+394849	Subj
+394857	Subj
+394900	Subj
+394923	Subj
+394941	Subj
+394945	Subj
+394947	Pred
+394960	Subj
+394969	Subj
+394977	Subj
+Subj
+394990	Pred
+395005	Subj
+395017	Subj
+395025	Pred
+395033	Objc
+395039	Subj
+395046	Subj
+395054	Subj
+395058	Subj
+395064	Subj
+395077	Subj
+395097	Subj
+395110	Subj
+395113	Objc
+395117	Subj
+395167	Objc
+395178	Subj
+395189	Subj
+395202	Objc
+395215	Objc
+395262	Objc
+395284	Objc
+395327	Subj
+395340	Subj
+395355	Objc
+395359	Subj
+395365	Subj
+395368	Objc
+395382	Pred
+395413	Pred
+395448	Cmpl
+395450	Cmpl
+395475	Subj
+395481	Subj
+395496	Subj
+395510	Pred
+395523	Subj
+395552	Objc
+395563	Objc
+395570	Objc
+395578	Objc
+395595	Subj
+395622	Objc
+395651	Subj
+395657	Subj
+395663	Subj
+395707	Subj
+395717	Objc
+395760	Subj
+395770	Objc
+395783	Subj
+395787	Subj
+395816	Objc
+395826	Subj
+395837	Pred
+395841	Objc
+395849	Subj
+395856	Subj
+Objc
+395862	Objc
+395865	Cmpl
+395889	Objc
+395893	Subj
+395904	Objc
+395926	Subj
+395931	Subj
+395933	Objc
+395946	Objc
+395967	Subj
+395990	Pred
+Pred
+395999	Subj
+396006	Objc
+396027	Subj
+396072	Subj
+396076	Subj
+396079	Subj
+396084	Subj
+396088	Objc
+396100	Objc
+396108	Subj
+Objc
+396114	Objc
+396120	Subj
+396127	Objc
+396135	Subj
+396139	Objc
+396153	Subj
+Objc
+396174	Subj
+396177	Subj
+396181	Objc
+396216	Cmpl
+396223	Subj
+396225	Subj
+396242	Objc
+396246	Subj
+396270	Objc
+396277	Subj
+396297	Objc
+396311	Subj
+396388	Subj
+396393	Subj
+396403	Subj
+396411	Objc
+396435	Subj
+396441	Subj
+396492	Subj
+396495	Subj
+396499	Subj
+396508	Subj
+396529	Subj
+396545	Subj
+396551	Objc
+396591	Objc
+396612	Pred
+396616	Subj
+396619	Subj
+396636	Subj
+396646	Subj
+396657	Subj
+396667	Objc
+396689	Objc
+Cmpl
+396706	Subj
+396709	Pred
+396720	Objc
+396725	Subj
+396741	Subj
+396758	Objc
+396763	Subj
+396775	Subj
+396778	Subj
+396787	Subj
+396801	Subj
+396806	Objc
+396822	Subj
+396831	Subj
+Objc
+396844	Subj
+396847	Subj
+396851	Objc
+396861	Objc
+396865	Subj
+Cmpl
+396878	Subj
+396887	Objc
+396891	Subj
+396904	Subj
+396907	Subj
+396910	Pred
+396924	Pred
+396951	Subj
+396970	Subj
+396984	Objc
+Cmpl
+396993	Objc
+397009	Subj
+397011	Subj
+397015	Subj
+397019	Subj
+397027	Objc
+397032	Objc
+397039	Objc
+397043	Subj
+397056	Subj
+397060	Subj
+397066	Objc
+397073	Objc
+Subj
+397080	Pred
+397088	Objc
+397091	Subj
+397098	Subj
+397100	Objc
+397102	Pred
+Subj
+397111	Subj
+397116	Objc
+397121	Objc
+397128	Pred
+Pred
+397139	Subj
+397171	Objc
+397180	Subj
+397193	Subj
+397211	Subj
+397214	Objc
+397223	Subj
+397229	Subj
+397231	Pred
+397238	Subj
+397246	Subj
+397257	Subj
+397274	Objc
+397278	Subj
+397299	Subj
+397319	Objc
+397322	Subj
+397325	Pred
+397331	Subj
+397333	Subj
+397342	Subj
+397360	Subj
+397364	Objc
+397366	Pred
+397370	Subj
+397388	Subj
+397397	Subj
+397403	Objc
+397411	Subj
+397421	Objc
+Objc
+397483	Pred
+397497	Subj
+397502	Objc
+397507	Cmpl
+397513	Objc
+Objc
+397520	Objc
+397526	Objc
+397531	Subj
+397553	Subj
+397608	Objc
+397639	Subj
+397694	Objc
+397699	Objc
+397721	Subj
+397726	Subj
+397734	Subj
+397756	Subj
+397816	Subj
+397826	Subj
+397831	Cmpl
+397835	Objc
+397841	Objc
+397861	Subj
+397863	Pred
+397872	Subj
+397886	Objc
+397897	Objc
+397903	Objc
+397911	Cmpl
+397915	Objc
+397928	Subj
+397934	Objc
+397968	Subj
+397972	Subj
+397977	Objc
+397989	Subj
+397997	Subj
+398013	Objc
+398029	Subj
+398035	Objc
+398043	Subj
+398050	Subj
+398060	Objc
+Subj
+398067	Subj
+398075	Objc
+398086	Subj
+398089	Objc
+398093	Objc
+398116	Subj
+398119	Subj
+398127	Subj
+398132	Subj
+398138	Objc
+398157	Subj
+398191	Subj
+398194	Subj
+398198	Subj
+398203	Subj
+398208	Subj
+398214	Subj
+398219	Objc
+398227	Subj
+398230	Subj
+398236	Subj
+398243	Objc
+398252	Subj
+398269	Subj
+398275	Subj
+398293	Subj
+398310	Objc
+398323	Objc
+398342	Objc
+398394	Subj
+398429	Cmpl
+398458	Objc
+398466	Objc
+398473	Objc
+398494	Subj
+Cmpl
+398498	Subj
+398507	Objc
+398521	Objc
+398533	Subj
+398559	Subj
+398583	Objc
+398622	Objc
+398666	Objc
+398683	Subj
+398694	Objc
+398700	Objc
+398705	Subj
+398710	Subj
+Cmpl
+398715	Subj
+398733	Subj
+398740	Subj
+398759	Pred
+398761	Subj
+398777	Subj
+398782	Subj
+398796	Subj
+398817	Subj
+398827	Objc
+398884	Subj
+398887	Objc
+398894	Objc
+398986	Subj
+399000	Cmpl
+399035	Objc
+399044	Objc
+399048	Objc
+399056	Subj
+399095	Subj
+399097	Pred
+399102	Subj
+399130	Subj
+399154	Objc
+399169	Subj
+399184	Objc
+399216	Subj
+399226	Cmpl
+399249	Subj
+399276	Subj
+399291	Subj
+Objc
+399297	Objc
+399316	Subj
+399333	Objc
+399354	Subj
+Cmpl
+399360	Subj
+Cmpl
+399373	Objc
+399381	Subj
+399391	Subj
+399405	Subj
+399412	Subj
+399418	Objc
+399424	Subj
+399457	Pred
+399462	Objc
+399468	Pred
+399474	Subj
+399479	Objc
+399491	Subj
+399499	Subj
+399509	Subj
+399534	Objc
+399543	Objc
+399547	Pred
+399551	Subj
+399557	Subj
+399578	Subj
+399602	Objc
+399613	Objc
+399616	Objc
+399620	Objc
+399664	Pred
+399677	Objc
+399685	Objc
+399688	Objc
+399694	Objc
+399703	Objc
+399711	Objc
+399731	Subj
+Objc
+399736	Subj
+399738	Cmpl
+399741	Objc
+399749	Objc
+399758	Subj
+399764	Objc
+399773	Subj
+399785	Cmpl
+399801	Objc
+399807	Subj
+399817	Subj
+399843	Pred
+399848	Objc
+399864	Subj
+399879	Subj
+399890	Pred
+399894	Subj
+399902	Objc
+399920	Objc
+399931	Subj
+399948	Subj
+399952	Pred
+399967	Objc
+399977	Subj
+399981	Subj
+399983	Objc
+399999	Subj
+400006	Cmpl
+400033	Objc
+400036	Objc
+400044	Pred
+400047	Subj
+400060	Subj
+400078	Subj
+400084	Objc
+400095	Objc
+400106	Subj
+400111	Subj
+400113	Objc
+400137	Objc
+400143	Cmpl
+400145	Cmpl
+400151	Objc
+400158	Objc
+400171	Objc
+400177	Objc
+400185	Subj
+Objc
+400193	Subj
+400224	Subj
+400231	Subj
+400245	Objc
+400254	Objc
+400258	Subj
+400260	Objc
+400266	Objc
+400269	Objc
+400275	Objc
+400286	Objc
+Subj
+400303	Subj
+Objc
+400308	Subj
+400319	Pred
+400324	Subj
+400341	Subj
+400347	Subj
+400351	Objc
+400365	Subj
+400375	Subj
+400396	Subj
+400399	Objc
+400406	Subj
+400418	Subj
+400429	Objc
+400436	Objc
+400453	Objc
+400459	Objc
+400474	Objc
+400481	Objc
+400496	Subj
+400525	Objc
+400530	Subj
+400580	Subj
+400591	Subj
+400602	Objc
+400612	Subj
+400637	Subj
+Cmpl
+400643	Subj
+400647	Objc
+400653	Cmpl
+400673	Objc
+400707	Cmpl
+400714	Subj
+400717	Objc
+400722	Pred
+400748	Subj
+400766	Cmpl
+400779	Subj
+400787	Objc
+400802	Subj
+400807	Subj
+400810	Subj
+400814	Cmpl
+400817	Subj
+400826	Subj
+400836	Subj
+400844	Subj
+400856	Subj
+400859	Pred
+400870	Objc
+400896	Subj
+400906	Subj
+400953	Subj
+400984	Pred
+400988	Subj
+400999	Pred
+401003	Subj
+401005	Pred
+401010	Subj
+401016	Objc
+401024	Objc
+401036	Pred
+401040	Subj
+401043	Subj
+401051	Subj
+401054	Subj
+401066	Subj
+401068	Subj
+401082	Subj
+Pred
+401087	Objc
+401094	Pred
+401118	Objc
+401127	Subj
+401136	Subj
+401139	Subj
+401148	Subj
+Objc
+401165	Objc
+401172	Subj
+401177	Objc
+401194	Objc
+Objc
+401199	Subj
+401205	Subj
+401208	Subj
+401211	Subj
+401222	Subj
+401229	Subj
+401237	Objc
+401243	Subj
+401246	Objc
+401251	Objc
+401271	Subj
+401281	Objc
+401289	Subj
+401293	Subj
+401299	Subj
+401305	Pred
+Subj
+401316	Objc
+401325	Subj
+401331	Objc
+401335	Subj
+401345	Objc
+401361	Objc
+401367	Subj
+401373	Objc
+401396	Subj
+401402	Objc
+401431	Subj
+401439	Subj
+401442	Objc
+401473	Objc
+401478	Objc
+401485	Subj
+401498	Cmpl
+401517	Objc
+401520	Subj
+401536	Subj
+401579	Subj
+401598	Subj
+401602	Subj
+401611	Objc
+401615	Subj
+401618	Cmpl
+401628	Subj
+401640	Objc
+401670	Subj
+401708	Objc
+401714	Cmpl
+401724	Subj
+401727	Pred
+401731	Subj
+Pred
+401736	Subj
+401754	Pred
+401759	Subj
+401767	Subj
+401780	Objc
+401782	Objc
+401793	Subj
+401810	Objc
+401818	Objc
+401825	Subj
+401829	Subj
+401831	Objc
+401850	Subj
+401853	Subj
+401856	Objc
+401860	Cmpl
+401862	Subj
+Pred
+401868	Subj
+401884	Pred
+401904	Pred
+401916	Objc
+401931	Objc
+401936	Objc
+401943	Objc
+401949	Cmpl
+401957	Subj
+401996	Objc
+402011	Subj
+402025	Subj
+Objc
+402040	Objc
+402042	Subj
+402046	Objc
+402052	Subj
+Objc
+402063	Objc
+402067	Objc
+402073	Objc
+402088	Subj
+402094	Objc
+402111	Pred
+402114	Pred
+402118	Subj
+402126	Objc
+402137	Subj
+402145	Objc
+402155	Subj
+Objc
+402170	Subj
+402190	Objc
+402208	Subj
+402210	Pred
+402213	Objc
+402233	Subj
+402244	Subj
+402257	Objc
+402283	Objc
+402296	Subj
+402298	Pred
+402301	Pred
+402313	Pred
+402323	Pred
+402325	Subj
+402339	Subj
+402350	Objc
+402374	Subj
+402380	Objc
+402395	Objc
+402399	Subj
+402415	Subj
+402420	Pred
+402424	Subj
+402434	Subj
+402443	Objc
+402447	Objc
+402459	Subj
+402469	Pred
+402472	Subj
+402494	Objc
+402500	Objc
+402506	Objc
+402513	Objc
+402518	Objc
+402544	Objc
+402556	Objc
+402561	Objc
+402575	Objc
+402578	Objc
+402580	Cmpl
+402586	Objc
+402612	Subj
+402618	Subj
+402620	Objc
+402623	Cmpl
+402628	Subj
+402632	Subj
+402645	Subj
+402651	Subj
+402657	Subj
+402660	Pred
+402664	Subj
+402668	Subj
+402671	Subj
+402683	Objc
+402704	Pred
+402706	Pred
+402713	Subj
+Subj
+402719	Objc
+402739	Subj
+402753	Subj
+Pred
+402758	Subj
+402762	Cmpl
+402771	Objc
+402773	Objc
+402782	Pred
+402787	Subj
+402790	Cmpl
+402817	Objc
+402823	Objc
+402828	Objc
+402833	Objc
+402840	Subj
+402842	Objc
+402852	Objc
+402857	Subj
+402868	Objc
+402903	Subj
+402924	Subj
+402943	Subj
+402976	Objc
+403013	Subj
+403048	Objc
+403060	Subj
+403066	Subj
+403073	Subj
+403078	Subj
+403084	Pred
+403087	Subj
+403106	Subj
+Pred
+403111	Pred
+403127	Subj
+403134	Pred
+403140	Pred
+403142	Subj
+403158	Subj
+403165	Subj
+403182	Objc
+403186	Subj
+403207	Subj
+403210	Subj
+403216	Subj
+403225	Subj
+403239	Subj
+403247	Subj
+403257	Subj
+403313	Subj
+403340	Objc
+403350	Pred
+403358	Cmpl
+403382	Subj
+403388	Subj
+403398	Objc
+403415	Subj
+403417	Objc
+403428	Cmpl
+403432	Subj
+403435	Subj
+403437	Objc
+403443	Objc
+403458	Objc
+403464	Subj
+403468	Subj
+403476	Objc
+403517	Subj
+403544	Objc
+403555	Pred
+403566	Subj
+403571	Pred
+403577	Subj
+403605	Subj
+403610	Subj
+403617	Subj
+403631	Subj
+403634	Pred
+403640	Pred
+403662	Pred
+403680	Subj
+403696	Objc
+403706	Subj
+403712	Objc
+403719	Subj
+403725	Objc
+403775	Objc
+403781	Objc
+403803	Subj
+403828	Subj
+403849	Objc
+403857	Objc
+403863	Subj
+403866	Subj
+403876	Pred
+403881	Subj
+403883	Pred
+403931	Objc
+403938	Subj
+403953	Objc
+403958	Objc
+403966	Subj
+403973	Objc
+403999	Pred
+404003	Objc
+404029	Subj
+404040	Subj
+404048	Subj
+404054	Subj
+Pred
+404068	Subj
+Pred
+404073	Subj
+404080	Subj
+404083	Subj
+404088	Subj
+Pred
+404092	Pred
+404096	Subj
+404109	Subj
+Objc
+404114	Subj
+Objc
+404148	Objc
+404173	Pred
+404196	Subj
+404209	Pred
+404223	Objc
+404233	Subj
+404246	Objc
+404258	Subj
+404261	Pred
+404272	Subj
+404288	Objc
+404304	Subj
+404311	Pred
+404317	Subj
+Pred
+404326	Subj
+404328	Objc
+404344	Subj
+404367	Subj
+404374	Objc
+Cmpl
+404392	Pred
+404407	Objc
+404411	Objc
+404420	Objc
+404432	Subj
+404447	Objc
+404463	Subj
+404466	Objc
+404482	Objc
+404484	Objc
+404499	Subj
+404505	Subj
+404521	Objc
+404530	Objc
+404535	Objc
+404542	Subj
+404590	Cmpl
+404596	Cmpl
+404610	Subj
+404640	Subj
+404651	Objc
+404656	Subj
+404661	Subj
+404678	Subj
+404688	Pred
+404695	Subj
+Pred
+404698	Pred
+404704	Subj
+404711	Pred
+404719	Subj
+404723	Objc
+404726	Pred
+404736	Objc
+404740	Objc
+404759	Pred
+404765	Pred
+404777	Subj
+404780	Subj
+404788	Subj
+404793	Objc
+404803	Subj
+404806	Objc
+404809	Subj
+404814	Subj
+404825	Objc
+404868	Objc
+404873	Cmpl
+Objc
+404892	Pred
+404900	Subj
+404911	Subj
+404942	Subj
+404948	Objc
+404962	Subj
+404973	Objc
+404992	Pred
+404999	Subj
+405015	Objc
+405022	Objc
+405052	Subj
+405060	Subj
+405068	Subj
+405080	Subj
+405114	Subj
+405118	Subj
+405140	Subj
+405199	Objc
+405207	Objc
+405214	Subj
+405226	Objc
+405230	Objc
+405238	Subj
+405249	Subj
+405270	Subj
+405274	Subj
+405293	Objc
+405316	Pred
+405319	Subj
+405337	Objc
+405345	Subj
+405360	Subj
+405371	Objc
+405392	Subj
+405480	Objc
+405484	Objc
+405496	Subj
+405502	Pred
+405506	Subj
+405520	Objc
+405524	Objc
+405533	Subj
+405544	Subj
+405554	Pred
+405558	Objc
+405580	Objc
+405609	Objc
+405613	Pred
+Subj
+405617	Subj
+Pred
+405622	Subj
+405626	Pred
+405640	Pred
+405643	Subj
+Pred
+405651	Subj
+405656	Subj
+405660	Subj
+405678	Pred
+405691	Objc
+405697	Pred
+405701	Subj
+405705	Subj
+405713	Subj
+405721	Pred
+405743	Subj
+405749	Objc
+405774	Pred
+405784	Subj
+Objc
+405789	Subj
+405807	Pred
+405814	Subj
+405821	Subj
+405838	Pred
+405852	Pred
+405872	Pred
+405877	Objc
+405887	Pred
+405906	Subj
+405922	Objc
+405934	Subj
+405940	Subj
+405955	Objc
+405966	Pred
+405974	Cmpl
+405987	Subj
+406008	Subj
+406024	Pred
+406042	Subj
+406046	Pred
+406053	Subj
+406058	Objc
+406064	Subj
+406099	Pred
+406106	Pred
+406126	Objc
+406137	Subj
+406158	Subj
+406163	Subj
+406174	Objc
+406185	Subj
+406197	Pred
+Subj
+406201	Subj
+406210	Subj
+406218	Pred
+406232	Pred
+406239	Pred
+406243	Pred
+406260	Objc
+406270	Subj
+406273	Subj
+406294	Subj
+406300	Subj
+406313	Subj
+406321	Subj
+406328	Subj
+406332	Subj
+406334	Cmpl
+406343	Subj
+406357	Subj
+406359	Objc
+406371	Cmpl
+406381	Subj
+406395	Objc
+406398	Objc
+Subj
+406405	Subj
+Objc
+406412	Objc
+406414	Objc
+406421	Objc
+406424	Subj
+406430	Objc
+406435	Subj
+406459	Subj
+406465	Subj
+406498	Objc
+406503	Objc
+406508	Objc
+406512	Objc
+406516	Objc
+406520	Subj
+406525	Subj
+406533	Subj
+406537	Objc
+406547	Objc
+406556	Subj
+406562	Subj
+406585	Subj
+406596	Subj
+406602	Pred
+406613	Objc
+406621	Subj
+406636	Pred
+406670	Subj
+Pred
+406685	Objc
+406691	Subj
+406747	Subj
+406752	Objc
+406762	Subj
+406781	Pred
+406800	Objc
+406807	Objc
+406813	Objc
+406834	Objc
+406840	Subj
+406845	Subj
+406849	Objc
+406854	Subj
+Objc
+406859	Objc
+406865	Subj
+406871	Objc
+406876	Subj
+Objc
+406882	Objc
+406885	Subj
+406908	Subj
+406912	Subj
+406919	Subj
+Objc
+406923	Objc
+406926	Subj
+406933	Subj
+406936	Objc
+406943	Subj
+406951	Objc
+406956	Subj
+406985	Subj
+407022	Pred
+407045	Subj
+407050	Pred
+407060	Objc
+407080	Subj
+407094	Pred
+407100	Pred
+407102	Pred
+407114	Pred
+407123	Objc
+407129	Objc
+407133	Subj
+407139	Subj
+Objc
+407145	Objc
+407149	Subj
+Objc
+407162	Objc
+407169	Objc
+407172	Subj
+407182	Subj
+407184	Subj
+407188	Objc
+407196	Subj
+407199	Subj
+407203	Objc
+407233	Subj
+407238	Subj
+407246	Pred
+407249	Subj
+407255	Subj
+407261	Subj
+407275	Subj
+407308	Objc
+407318	Subj
+407334	Objc
+407354	Subj
+407374	Subj
+407378	Pred
+407386	Subj
+407389	Objc
+407403	Objc
+407410	Subj
+407416	Subj
+407425	Objc
+407429	Pred
+407433	Subj
+407441	Subj
+407450	Pred
+Subj
+407457	Subj
+407471	Objc
+407480	Subj
+Pred
+407492	Subj
+407494	Objc
+407500	Subj
+407506	Subj
+407517	Subj
+407531	Subj
+407541	Subj
+407562	Objc
+407564	Subj
+407571	Cmpl
+407578	Objc
+407582	Pred
+407595	Subj
+407608	Subj
+407615	Subj
+407617	Subj
+407621	Objc
+407627	Objc
+407637	Subj
+407642	Objc
+407646	Objc
+407671	Subj
+407699	Subj
+407710	Objc
+407718	Subj
+407730	Subj
+407736	Cmpl
+407749	Pred
+407763	Subj
+407777	Subj
+407779	Objc
+407786	Subj
+407798	Objc
+407802	Subj
+407805	Subj
+407828	Objc
+407836	Subj
+407848	Subj
+407853	Subj
+407857	Subj
+407861	Subj
+407866	Subj
+Objc
+407870	Subj
+407878	Subj
+407882	Subj
+407887	Objc
+407897	Subj
+407902	Subj
+407911	Subj
+Subj
+407924	Objc
+407926	Subj
+407937	Subj
+407945	Pred
+407949	Subj
+407954	Objc
+407960	Subj
+407966	Objc
+407978	Objc
+407982	Subj
+407992	Subj
+408005	Subj
+408024	Subj
+408034	Subj
+408039	Objc
+408047	Subj
+408051	Objc
+408064	Subj
+408072	Objc
+408082	Objc
+408106	Subj
+408108	Pred
+408114	Subj
+408123	Subj
+408127	Subj
+408130	Cmpl
+408139	Subj
+Objc
+408149	Subj
+408159	Subj
+408163	Objc
+408165	Objc
+408167	Objc
+408174	Subj
+408182	Subj
+408188	Subj
+408194	Subj
+408201	Subj
+Objc
+408205	Objc
+408209	Objc
+408219	Subj
+Objc
+408224	Subj
+408231	Subj
+408233	Objc
+408235	Cmpl
+408238	Objc
+408241	Objc
+408246	Objc
+408261	Objc
+408267	Objc
+408291	Subj
+Objc
+408306	Subj
+408308	Cmpl
+408318	Pred
+408328	Subj
+408332	Objc
+408340	Objc
+408346	Objc
+408359	Subj
+408365	Objc
+408369	Objc
+408379	Subj
+408391	Subj
+408401	Cmpl
+408407	Objc
+408444	Subj
+408452	Subj
+408466	Objc
+408469	Objc
+408473	Subj
+408481	Objc
+408486	Objc
+408508	Objc
+408574	Objc
+408577	Objc
+408582	Subj
+408593	Subj
+408596	Objc
+408626	Objc
+Subj
+408632	Subj
+408649	Subj
+408652	Subj
+408656	Objc
+408681	Subj
+408684	Subj
+408688	Subj
+Pred
+408695	Subj
+408698	Pred
+408704	Objc
+Subj
+408722	Cmpl
+408726	Objc
+408737	Objc
+408749	Subj
+408764	Subj
+408783	Subj
+408802	Subj
+408805	Subj
+408807	Subj
+408813	Objc
+408820	Subj
+408844	Subj
+Pred
+408863	Subj
+408872	Subj
+408876	Subj
+408887	Objc
+408889	Subj
+408895	Subj
+408901	Subj
+408910	Objc
+408922	Subj
+408956	Subj
+408972	Objc
+408982	Subj
+408994	Objc
+409004	Subj
+409006	Objc
+409013	Objc
+409020	Subj
+409026	Objc
+409031	Subj
+409033	Objc
+409042	Subj
+409052	Cmpl
+409059	Objc
+409063	Subj
+409065	Pred
+409094	Subj
+409096	Subj
+409111	Objc
+409115	Objc
+409122	Subj
+409141	Subj
+409148	Subj
+409152	Objc
+409156	Objc
+409166	Subj
+409225	Pred
+409228	Subj
+409241	Objc
+409248	Pred
+409250	Objc
+409258	Objc
+409261	Pred
+409267	Subj
+409271	Objc
+409311	Subj
+409315	Pred
+409325	Subj
+409329	Objc
+409334	Subj
+409343	Objc
+409350	Objc
+409360	Objc
+409364	Objc
+409366	Objc
+409374	Subj
+409376	Pred
+409379	Subj
+409381	Pred
+409388	Objc
+409392	Objc
+409402	Subj
+409424	Subj
+409431	Objc
+409443	Subj
+409449	Subj
+409457	Subj
+409462	Subj
+409470	Subj
+409478	Subj
+409482	Subj
+409486	Subj
+409501	Subj
+409528	Subj
+409539	Subj
+Cmpl
+409543	Subj
+409554	Objc
+409563	Pred
+409568	Subj
+409576	Subj
+409581	Objc
+409589	Pred
+409597	Subj
+409608	Subj
+409621	Subj
+409632	Subj
+409635	Objc
+409647	Pred
+409653	Cmpl
+409657	Subj
+409663	Subj
+409666	Subj
+409671	Subj
+409678	Subj
+409687	Subj
+409700	Subj
+409713	Subj
+409718	Subj
+409726	Subj
+409735	Subj
+409751	Objc
+409764	Subj
+409774	Subj
+409786	Subj
+409797	Objc
+409804	Pred
+409814	Objc
+409823	Objc
+409830	Pred
+409834	Objc
+409838	Subj
+409840	Objc
+409846	Subj
+409858	Objc
+409865	Objc
+409869	Pred
+409872	Pred
+409885	Subj
+409891	Objc
+409898	Objc
+409903	Subj
+409918	Subj
+409921	Pred
+409942	Subj
+409966	Pred
+409976	Objc
+409979	Subj
+409997	Objc
+410003	Subj
+410005	Subj
+410019	Subj
+410023	Pred
+410042	Subj
+410060	Objc
+410087	Subj
+410107	Subj
+410109	Subj
+410133	Subj
+410136	Objc
+410139	Pred
+410143	Pred
+410152	Subj
+410156	Subj
+410169	Subj
+410180	Subj
+410186	Objc
+410191	Subj
+410202	Subj
+410206	Subj
+410211	Subj
+410214	Subj
+410219	Subj
+410225	Subj
+410235	Objc
+410244	Pred
+410248	Subj
+410250	Objc
+410265	Subj
+Pred
+410298	Subj
+410313	Objc
+410322	Subj
+410331	Objc
+410345	Subj
+410360	Subj
+410362	Objc
+410389	Subj
+410392	Subj
+410399	Subj
+410408	Subj
+410420	Subj
+410430	Subj
+410434	Pred
+410446	Objc
+410452	Subj
+410456	Subj
+410469	Subj
+410496	Subj
+410518	Subj
+410530	Subj
+410537	Subj
+410546	Objc
+410554	Objc
+410559	Objc
+410571	Subj
+410592	Subj
+410607	Pred
+410610	Pred
+410614	Pred
+410618	Pred
+410646	Subj
+410671	Objc
+410675	Subj
+410679	Objc
+410694	Subj
+410701	Pred
+410705	Objc
+410714	Subj
+410728	Pred
+410732	Objc
+410735	Subj
+410742	Pred
+410750	Subj
+410756	Subj
+410759	Objc
+Pred
+410766	Subj
+410772	Subj
+410780	Subj
+410785	Pred
+410793	Subj
+410805	Subj
+410815	Subj
+410819	Subj
+410823	Pred
+410826	Objc
+410837	Objc
+410843	Objc
+410858	Subj
+410863	Subj
+Pred
+410881	Objc
+410887	Objc
+410893	Pred
+410900	Objc
+410914	Pred
+410920	Objc
+410929	Pred
+410937	Objc
+410941	Subj
+410954	Pred
+410956	Objc
+410964	Pred
+410969	Subj
+410986	Objc
+410993	Objc
+411009	Objc
+411017	Subj
+411027	Subj
+411033	Objc
+411050	Subj
+411059	Subj
+411064	Pred
+411070	Pred
+411085	Pred
+411092	Objc
+411102	Objc
+411113	Subj
+411117	Objc
+411146	Objc
+411152	Subj
+411173	Subj
+411178	Subj
+411185	Objc
+411200	Pred
+411202	Pred
+411214	Objc
+411277	Subj
+411290	Objc
+411316	Objc
+411328	Objc
+Subj
+411332	Objc
+411337	Subj
+411356	Subj
+411361	Subj
+Pred
+411366	Objc
+411370	Subj
+411372	Objc
+411376	Pred
+411380	Cmpl
+411385	Objc
+411395	Subj
+411405	Objc
+411426	Subj
+411434	Pred
+411448	Objc
+411460	Subj
+411464	Objc
+411467	Subj
+411476	Subj
+411486	Objc
+411492	Cmpl
+411496	Subj
+411516	Objc
+411530	Subj
+411532	Pred
+411541	Pred
+411544	Pred
+411551	Subj
+411558	Subj
+411564	Pred
+Subj
+411571	Objc
+411578	Subj
+411586	Objc
+411595	Objc
+411602	Pred
+411644	Subj
+411664	Subj
+411688	Pred
+411693	Subj
+411696	Subj
+411709	Subj
+411737	Pred
+411742	Subj
+411746	Subj
+Objc
+411752	Objc
+411762	Objc
+411769	Subj
+411772	Objc
+411785	Objc
+411790	Objc
+411792	Subj
+411801	Subj
+411807	Pred
+411814	Subj
+411821	Subj
+411824	Pred
+411841	Subj
+411860	Pred
+411865	Subj
+411868	Objc
+411883	Subj
+411885	Subj
+411888	Objc
+411894	Subj
+411906	Pred
+411912	Objc
+411915	Subj
+411919	Subj
+411921	Objc
+411925	Objc
+411932	Objc
+411934	Pred
+411944	Objc
+411954	Subj
+411957	Objc
+411977	Objc
+411992	Subj
+412003	Subj
+412009	Objc
+412012	Subj
+412020	Subj
+412031	Subj
+412036	Objc
+412041	Pred
+412045	Subj
+412067	Pred
+412074	Subj
+412077	Objc
+412084	Objc
+412116	Subj
+412121	Subj
+412123	Objc
+412133	Subj
+412148	Subj
+412165	Subj
+412171	Subj
+412176	Subj
+412184	Pred
+412190	Objc
+412205	Objc
+412214	Pred
+Subj
+412217	Pred
+412254	Objc
+412257	Subj
+412267	Subj
+412287	Objc
+412290	Objc
+412301	Subj
+412311	Subj
+412315	Subj
+412317	Pred
+412320	Pred
+412326	Subj
+412333	Subj
+412357	Cmpl
+412363	Subj
+412368	Subj
+412375	Subj
+Pred
+412385	Objc
+412398	Subj
+Pred
+412419	Subj
+412427	Subj
+412443	Subj
+412464	Cmpl
+412467	Subj
+412475	Subj
+412477	Objc
+412483	Pred
+412491	Subj
+412506	Subj
+412519	Subj
+412528	Subj
+412535	Objc
+Subj
+412539	Subj
+412541	Subj
+412545	Subj
+412556	Subj
+412572	Subj
+412615	Subj
+412631	Subj
+412635	Pred
+412639	Subj
+412648	Pred
+412654	Objc
+412670	Subj
+412684	Subj
+412696	Subj
+412717	Subj
+412721	Subj
+412726	Subj
+412730	Subj
+412733	Objc
+412740	Subj
+412757	Subj
+412759	Objc
+412774	Subj
+412782	Objc
+412788	Objc
+412793	Subj
+Objc
+412837	Subj
+412841	Subj
+412867	Subj
+412888	Subj
+412890	Objc
+412901	Subj
+412904	Objc
+412929	Subj
+412934	Subj
+412959	Objc
+412979	Subj
+412999	Subj
+413015	Objc
+413047	Subj
+413065	Subj
+413068	Subj
+Pred
+413078	Subj
+413080	Objc
+413084	Objc
+413091	Objc
+413096	Subj
+413117	Subj
+413136	Objc
+413142	Subj
+413155	Objc
+413163	Subj
+413178	Objc
+413186	Subj
+413189	Objc
+413194	Subj
+413216	Objc
+413242	Subj
+413252	Subj
+413260	Subj
+413282	Pred
+413286	Objc
+413296	Subj
+413301	Objc
+413305	Subj
+413312	Subj
+413317	Subj
+Pred
+413341	Objc
+413345	Subj
+413348	Cmpl
+413356	Cmpl
+413360	Subj
+413364	Subj
+413367	Subj
+413378	Subj
+413388	Objc
+413394	Objc
+413400	Objc
+413416	Subj
+413424	Subj
+413427	Subj
+413448	Objc
+413482	Subj
+413489	Subj
+413493	Subj
+413514	Subj
+413522	Subj
+413530	Subj
+413534	Subj
+413541	Subj
+413544	Subj
+Pred
+413551	Objc
+413567	Objc
+413573	Pred
+413586	Objc
+413591	Subj
+413599	Objc
+413603	Subj
+413614	Objc
+413618	Objc
+413638	Objc
+413647	Subj
+413661	Objc
+413666	Objc
+413700	Subj
+413713	Objc
+413724	Objc
+413727	Objc
+413735	Objc
+413766	Subj
+413768	Pred
+413775	Subj
+413785	Subj
+413788	Subj
+413811	Subj
+413816	Subj
+413823	Subj
+413839	Objc
+413852	Objc
+413870	Objc
+413887	Objc
+413904	Objc
+413907	Objc
+413922	Objc
+413944	Objc
+413948	Objc
+413974	Objc
+413981	Subj
+413983	Objc
+413991	Subj
+414023	Subj
+414027	Objc
+414030	Objc
+414076	Subj
+414081	Subj
+414088	Subj
+414097	Subj
+414121	Subj
+414126	Objc
+414134	Objc
+414137	Cmpl
+414145	Subj
+414155	Subj
+414164	Objc
+414170	Objc
+414176	Cmpl
+414181	Objc
+414193	Subj
+414198	Subj
+414204	Subj
+414207	Subj
+414215	Pred
+414223	Cmpl
+414229	Objc
+414233	Objc
+414240	Subj
+414247	Pred
+414272	Objc
+414278	Objc
+414291	Subj
+414303	Pred
+414308	Subj
+414334	Subj
+414339	Objc
+414346	Objc
+414368	Objc
+414382	Objc
+414387	Subj
+414391	Pred
+414399	Objc
+414403	Objc
+414409	Pred
+414413	Subj
+Pred
+414417	Objc
+414424	Subj
+414427	Objc
+414434	Pred
+414438	Subj
+Pred
+414460	Objc
+414465	Objc
+414482	Subj
+414498	Objc
+414504	Objc
+414509	Objc
+414512	Pred
+414522	Subj
+414535	Pred
+414546	Subj
+414553	Subj
+414562	Pred
+414567	Pred
+414569	Pred
+414576	Objc
+414597	Subj
+414599	Pred
+414610	Cmpl
+414622	Objc
+414626	Subj
+414639	Objc
+414645	Subj
+414650	Pred
+414668	Subj
+414675	Objc
+414681	Objc
+414688	Subj
+414692	Subj
+414716	Subj
+414732	Subj
+414743	Subj
+414747	Objc
+414752	Subj
+414761	Pred
+414766	Subj
+414768	Pred
+414787	Objc
+414804	Subj
+414817	Pred
+414819	Pred
+414829	Objc
+414842	Subj
+414861	Subj
+414872	Subj
+414877	Objc
+414880	Pred
+414885	Subj
+414898	Objc
+414907	Objc
+414921	Subj
+414924	Pred
+414927	Subj
+414931	Subj
+414940	Objc
+414944	Objc
+414952	Pred
+414960	Subj
+414962	Subj
+414969	Objc
+414991	Subj
+414998	Objc
+415010	Subj
+415019	Pred
+415022	Subj
+Objc
+415030	Pred
+415038	Subj
+415041	Objc
+415051	Objc
+415056	Objc
+415059	Objc
+415064	Objc
+415091	Objc
+415098	Objc
+415101	Subj
+415148	Subj
+415152	Pred
+415164	Subj
+415168	Cmpl
+415176	Objc
+415186	Subj
+415197	Pred
+415207	Subj
+415216	Subj
+Objc
+415222	Objc
+415232	Subj
+415244	Objc
+415277	Subj
+415326	Subj
+415328	Subj
+415351	Subj
+415419	Subj
+415424	Subj
+415426	Pred
+415431	Subj
+415434	Subj
+415441	Objc
+Objc
+415454	Subj
+415461	Subj
+415465	Objc
+415481	Objc
+415499	Subj
+415528	Objc
+415534	Subj
+415557	Objc
+415564	Subj
+415605	Subj
+Pred
+415621	Objc
+415628	Objc
+415634	Subj
+415637	Objc
+415641	Subj
+415650	Objc
+415654	Subj
+415672	Objc
+415688	Subj
+415692	Objc
+415694	Cmpl
+415706	Objc
+415713	Subj
+415715	Pred
+415719	Objc
+415751	Subj
+415755	Subj
+415764	Pred
+415768	Pred
+415790	Pred
+415804	Subj
+415808	Subj
+415813	Subj
+415826	Subj
+415833	Objc
+415838	Subj
+415841	Pred
+415845	Pred
+415860	Pred
+415864	Pred
+415872	Subj
+415891	Subj
+415914	Pred
+415916	Pred
+415919	Subj
+Pred
+415923	Subj
+415931	Objc
+415940	Pred
+415943	Pred
+415950	Subj
+415969	Objc
+415983	Subj
+415996	Objc
+416003	Subj
+416006	Pred
+Pred
+416030	Subj
+416034	Objc
+416043	Subj
+416064	Objc
+416082	Subj
+416123	Subj
+416129	Objc
+416140	Objc
+416145	Objc
+416156	Subj
+Cmpl
+416159	Objc
+416167	Subj
+416182	Objc
+416191	Pred
+416195	Pred
+416203	Cmpl
+416207	Subj
+416213	Objc
+416223	Subj
+416235	Subj
+416252	Cmpl
+416255	Objc
+416259	Cmpl
+416265	Subj
+Pred
+416291	Subj
+416299	Subj
+Objc
+416312	Cmpl
+416323	Subj
+416342	Subj
+416346	Cmpl
+416349	Cmpl
+416367	Subj
+416384	Subj
+Pred
+416396	Subj
+416403	Pred
+416405	Objc
+416411	Pred
+416421	Objc
+416439	Objc
+416444	Subj
+416449	Objc
+416467	Subj
+416477	Subj
+416483	Subj
+416497	Subj
+416501	Objc
+416505	Pred
+416518	Subj
+416535	Subj
+416538	Pred
+416545	Pred
+416548	Subj
+416552	Subj
+416557	Cmpl
+416560	Subj
+416566	Subj
+416571	Subj
+416588	Cmpl
+416590	Subj
+416593	Pred
+416595	Objc
+416599	Subj
+416622	Objc
+416632	Objc
+416636	Subj
+416641	Subj
+Objc
+416650	Subj
+416676	Subj
+416685	Objc
+416690	Subj
+416704	Pred
+416721	Subj
+416732	Subj
+416742	Objc
+416748	Subj
+Objc
+416760	Cmpl
+416765	Subj
+416769	Subj
+416786	Objc
+416795	Objc
+416799	Subj
+416804	Subj
+416811	Pred
+416814	Subj
+416817	Cmpl
+416822	Subj
+416824	Objc
+416826	Objc
+416840	Pred
+416843	Pred
+416847	Cmpl
+416851	Pred
+416863	Subj
+416865	Objc
+416869	Subj
+416882	Objc
+416887	Objc
+416901	Objc
+416906	Objc
+416911	Objc
+Subj
+416931	Objc
+416933	Subj
+416939	Pred
+Subj
+416943	Subj
+416951	Cmpl
+Subj
+416964	Pred
+416968	Subj
+416976	Subj
+Objc
+416980	Objc
+416985	Objc
+416987	Cmpl
+416990	Objc
+416995	Subj
+417012	Subj
+417015	Objc
+417027	Subj
+417060	Cmpl
+417065	Pred
+417069	Cmpl
+417073	Pred
+417081	Subj
+417088	Subj
+417093	Subj
+417097	Subj
+417103	Objc
+417106	Cmpl
+417113	Objc
+417115	Subj
+417121	Objc
+Objc
+417126	Subj
+417134	Subj
+417139	Subj
+417143	Objc
+417147	Subj
+417155	Subj
+417160	Objc
+417178	Objc
+417182	Subj
+417184	Objc
+417199	Subj
+417207	Subj
+417214	Subj
+417216	Subj
+417220	Subj
+417228	Objc
+Subj
+417233	Pred
+417243	Objc
+417249	Subj
+417256	Objc
+417261	Subj
+417268	Objc
+417277	Objc
+417292	Pred
+417298	Pred
+417314	Subj
+Objc
+417332	Subj
+417351	Subj
+417356	Objc
+417378	Subj
+417384	Subj
+417396	Subj
+417403	Subj
+417415	Subj
+417422	Pred
+417435	Subj
+417451	Objc
+417460	Subj
+417478	Subj
+417490	Subj
+417503	Objc
+417518	Subj
+417534	Pred
+417588	Cmpl
+417592	Objc
+417607	Subj
+417609	Subj
+417616	Subj
+417637	Subj
+417639	Objc
+417643	Subj
+417649	Subj
+417659	Objc
+417665	Objc
+417680	Pred
+417687	Subj
+417690	Objc
+417700	Objc
+417705	Objc
+417713	Objc
+417726	Subj
+417730	Pred
+417735	Subj
+417737	Subj
+417748	Cmpl
+417753	Objc
+417757	Objc
+417762	Objc
+417787	Subj
+417804	Objc
+417807	Subj
+417837	Cmpl
+417876	Subj
+417901	Subj
+417910	Objc
+417924	Objc
+417945	Subj
+Cmpl
+417948	Pred
+417957	Pred
+Objc
+417969	Subj
+417978	Pred
+417982	Objc
+418000	Subj
+418012	Objc
+418024	Subj
+418027	Subj
+418033	Subj
+418040	Pred
+418048	Objc
+418053	Objc
+418058	Cmpl
+418067	Cmpl
+418069	Subj
+418084	Objc
+418101	Objc
+418112	Subj
+418128	Objc
+418147	Objc
+418160	Objc
+418169	Subj
+418172	Subj
+418175	Subj
+418193	Subj
+Cmpl
+418200	Subj
+418208	Pred
+418213	Subj
+418219	Subj
+418225	Subj
+418235	Pred
+418252	Subj
+418258	Subj
+418262	Subj
+418269	Subj
+418271	Objc
+418277	Objc
+418285	Subj
+418294	Cmpl
+418311	Objc
+418325	Objc
+418354	Objc
+Cmpl
+418365	Subj
+418375	Subj
+418380	Pred
+418419	Subj
+418454	Pred
+418456	Objc
+418487	Subj
+418489	Objc
+418516	Subj
+418520	Pred
+418528	Subj
+418531	Subj
+418549	Objc
+418567	Subj
+418578	Subj
+418585	Pred
+418594	Subj
+418603	Objc
+418631	Pred
+418635	Subj
+418661	Objc
+418682	Subj
+418695	Subj
+418698	Pred
+418708	Subj
+418739	Subj
+418760	Subj
+418764	Subj
+418769	Subj
+418782	Subj
+418837	Objc
+418863	Subj
+418866	Objc
+418881	Objc
+418893	Pred
+418906	Pred
+418910	Subj
+418929	Subj
+418933	Subj
+418974	Subj
+418978	Subj
+418982	Subj
+418991	Subj
+418994	Objc
+419002	Objc
+419022	Subj
+419026	Objc
+419040	Subj
+419042	Objc
+419054	Objc
+419059	Pred
+419069	Subj
+419073	Subj
+419077	Subj
+419084	Objc
+419090	Subj
+419094	Objc
+419120	Subj
+419122	Pred
+419135	Subj
+419156	Subj
+419161	Objc
+419163	Subj
+Subj
+419175	Objc
+419196	Cmpl
+419205	Objc
+419207	Objc
+419213	Subj
+419221	Subj
+419255	Subj
+419266	Objc
+419274	Subj
+419312	Objc
+419319	Subj
+419345	Subj
+419354	Subj
+419388	Objc
+419397	Subj
+419420	Subj
+419516	Objc
+419522	Subj
+419528	Objc
+419558	Subj
+419570	Subj
+419619	Objc
+419629	Objc
+419633	Subj
+419648	Subj
+419656	Objc
+419669	Subj
+419675	Subj
+419683	Subj
+419693	Subj
+419699	Subj
+419718	Subj
+419749	Subj
+419753	Objc
+419760	Subj
+419770	Objc
+419774	Pred
+419782	Subj
+419793	Subj
+419800	Subj
+Objc
+419830	Objc
+419842	Objc
+419855	Subj
+419858	Objc
+419861	Subj
+419863	Pred
+419873	Subj
+419891	Pred
+419944	Subj
+419960	Pred
+419966	Pred
+419968	Subj
+419974	Pred
+419988	Objc
+419998	Pred
+420005	Pred
+420028	Cmpl
+420037	Subj
+420058	Cmpl
+420073	Subj
+420088	Objc
+420107	Objc
+420114	Pred
+420120	Subj
+420180	Subj
+420185	Subj
+420236	Cmpl
+420241	Objc
+420247	Objc
+420277	Objc
+420285	Subj
+420296	Subj
+420305	Objc
+420307	Subj
+420314	Subj
+Pred
+420320	Subj
+Pred
+420327	Pred
+420331	Objc
+420360	Pred
+420367	Objc
+420379	Subj
+420392	Subj
+420397	Objc
+420405	Subj
+420409	Subj
+Objc
+420414	Objc
+420431	Pred
+420441	Objc
+420447	Cmpl
+420452	Subj
+Objc
+420459	Subj
+420469	Subj
+420477	Subj
+420482	Subj
+420494	Objc
+420504	Subj
+420511	Objc
+420515	Subj
+420519	Objc
+420521	Pred
+420539	Subj
+420550	Subj
+420567	Subj
+420575	Pred
+420582	Subj
+420587	Subj
+420592	Objc
+Subj
+420603	Objc
+420614	Subj
+Objc
+420619	Subj
+420633	Subj
+420648	Pred
+420653	Objc
+420664	Subj
+420666	Objc
+420679	Cmpl
+Objc
+420722	Subj
+420737	Subj
+420742	Subj
+420753	Objc
+420773	Subj
+420783	Objc
+420789	Subj
+420796	Objc
+420808	Subj
+420819	Objc
+420826	Objc
+420844	Subj
+420854	Subj
+420862	Cmpl
+420865	Objc
+420870	Pred
+420880	Subj
+420908	Objc
+420931	Subj
+420939	Subj
+420962	Subj
+420981	Pred
+420994	Pred
+420997	Pred
+421006	Objc
+421043	Subj
+421052	Subj
+421054	Subj
+421064	Subj
+421070	Subj
+Objc
+421077	Objc
+421111	Subj
+421139	Objc
+421144	Subj
+421150	Subj
+421156	Subj
+421159	Objc
+421166	Objc
+421175	Subj
+421203	Objc
+421208	Objc
+421234	Objc
+421238	Subj
+421254	Subj
+421257	Objc
+421261	Objc
+421269	Subj
+421274	Objc
+421278	Objc
+421282	Subj
+421298	Subj
+421305	Pred
+421342	Subj
+421357	Objc
+421365	Cmpl
+421373	Subj
+421377	Subj
+421391	Objc
+421395	Subj
+421408	Objc
+421415	Objc
+421423	Objc
+421426	Objc
+421431	Subj
+421433	Objc
+421440	Subj
+Pred
+421477	Subj
+421480	Subj
+421487	Pred
+Objc
+421496	Cmpl
+421501	Subj
+421549	Subj
+421554	Subj
+Cmpl
+421558	Subj
+421567	Objc
+421571	Objc
+421573	Objc
+421576	Objc
+421602	Subj
+421624	Subj
+421646	Objc
+421652	Subj
+421655	Subj
+421682	Objc
+421686	Objc
+421695	Objc
+421709	Objc
+421714	Subj
+421727	Subj
+421729	Objc
+421735	Subj
+421755	Subj
+421758	Objc
+421764	Subj
+421768	Pred
+421774	Objc
+421783	Objc
+421805	Subj
+421837	Cmpl
+421841	Subj
+421857	Pred
+421870	Objc
+421876	Subj
+421888	Cmpl
+421913	Cmpl
+421926	Subj
+421930	Objc
+421971	Subj
+421974	Pred
+421982	Cmpl
+421990	Subj
+421999	Subj
+422015	Cmpl
+422024	Subj
+422028	Subj
+422031	Subj
+422034	Subj
+Pred
+422042	Objc
+422046	Subj
+422052	Subj
+422054	Objc
+422064	Objc
+422070	Subj
+422072	Subj
+422075	Objc
+422077	Subj
+422095	Objc
+422109	Objc
+422132	Subj
+422135	Subj
+422148	Objc
+422161	Subj
+Objc
+422172	Objc
+422180	Objc
+422186	Objc
+422190	Objc
+422208	Subj
+422229	Objc
+Subj
+422233	Objc
+422239	Objc
+422257	Objc
+422265	Objc
+422269	Subj
+422280	Objc
+422291	Objc
+422296	Subj
+422303	Subj
+422310	Subj
+422319	Objc
+422324	Pred
+422326	Subj
+422351	Objc
+422373	Subj
+422378	Objc
+422390	Subj
+422395	Subj
+Objc
+422408	Objc
+422427	Objc
+422431	Objc
+422436	Subj
+422445	Subj
+422449	Objc
+422455	Objc
+Objc
+422463	Subj
+422466	Pred
+422470	Objc
+422484	Subj
+422499	Objc
+422503	Subj
+422511	Pred
+422520	Subj
+422527	Subj
+422538	Objc
+422544	Objc
+422550	Subj
+422584	Pred
+422606	Subj
+Cmpl
+422612	Cmpl
+422619	Subj
+422641	Subj
+422648	Subj
+422667	Objc
+422673	Subj
+422676	Objc
+422682	Subj
+422688	Subj
+Cmpl
+422693	Subj
+422705	Subj
+Objc
+422713	Objc
+422727	Subj
+422738	Subj
+422759	Subj
+Objc
+422764	Subj
+422778	Objc
+422787	Subj
+422798	Objc
+422810	Pred
+422876	Objc
+422888	Subj
+422910	Subj
+422912	Pred
+422918	Subj
+422930	Subj
+422944	Objc
+422954	Subj
+422972	Objc
+Cmpl
+422978	Objc
+422982	Objc
+422985	Objc
+422991	Subj
+422997	Pred
+423000	Objc
+423029	Objc
+423071	Pred
+423080	Objc
+423083	Pred
+423090	Subj
+423103	Objc
+423127	Pred
+423133	Subj
+423135	Subj
+423140	Cmpl
+Subj
+423146	Objc
+423157	Subj
+423169	Cmpl
+423190	Objc
+423228	Subj
+423238	Subj
+423287	Subj
+423303	Subj
+423314	Pred
+Subj
+423345	Pred
+423348	Subj
+423352	Pred
+Objc
+423370	Subj
+423381	Pred
+Subj
+423389	Subj
+423392	Objc
+423404	Objc
+423409	Objc
+423446	Subj
+423462	Objc
+423469	Objc
+Cmpl
+423473	Objc
+423483	Subj
+423585	Subj
+423588	Subj
+423591	Subj
+423597	Pred
+Subj
+423620	Subj
+423626	Objc
+423636	Subj
+423644	Subj
+423653	Subj
+423656	Subj
+423668	Objc
+423685	Subj
+423688	Subj
+423691	Subj
+423713	Subj
+423727	Objc
+423758	Subj
+423772	Subj
+423788	Subj
+423790	Subj
+423797	Subj
+423802	Subj
+423824	Subj
+423826	Objc
+423841	Subj
+423866	Subj
+423870	Subj
+423900	Subj
+423904	Objc
+423913	Objc
+423919	Subj
+423931	Objc
+423934	Cmpl
+423941	Pred
+423963	Subj
+423973	Objc
+423979	Subj
+Pred
+423984	Pred
+424000	Subj
+424029	Cmpl
+424034	Pred
+424045	Subj
+424048	Objc
+424052	Subj
+424059	Subj
+Objc
+424062	Subj
+424069	Objc
+424084	Subj
+424095	Objc
+424101	Objc
+424107	Objc
+424111	Subj
+424134	Pred
+424138	Subj
+424140	Objc
+424151	Subj
+424178	Subj
+424181	Subj
+424237	Subj
+424250	Subj
+424255	Pred
+424262	Subj
+424270	Subj
+424287	Subj
+424318	Subj
+424330	Objc
+424348	Objc
+424350	Subj
+424353	Cmpl
+424364	Objc
+424372	Objc
+424376	Cmpl
+424378	Subj
+Objc
+424399	Objc
+424406	Subj
+424423	Subj
+Pred
+424437	Subj
+424446	Pred
+424470	Pred
+424480	Subj
+Cmpl
+424504	Objc
+424508	Subj
+424521	Subj
+424528	Subj
+424530	Pred
+424543	Subj
+424546	Cmpl
+424567	Objc
+424569	Objc
+424589	Objc
+424592	Pred
+424597	Cmpl
+424604	Cmpl
+424610	Subj
+424618	Pred
+424627	Subj
+424633	Subj
+424642	Objc
+424647	Subj
+424656	Objc
+424665	Subj
+424672	Subj
+424678	Objc
+424688	Objc
+424734	Subj
+424739	Subj
+424746	Subj
+Objc
+424784	Objc
+424788	Subj
+424796	Objc
+424801	Objc
+424806	Subj
+424822	Pred
+424826	Subj
+424843	Subj
+424862	Subj
+424864	Pred
+424868	Subj
+424878	Objc
+424910	Subj
+424918	Subj
+424920	Objc
+424928	Subj
+424931	Pred
+424938	Subj
+424941	Objc
+Cmpl
+424949	Subj
+424961	Objc
+424969	Pred
+425000	Objc
+425004	Subj
+425009	Objc
+425024	Objc
+425042	Pred
+Objc
+425053	Objc
+425069	Pred
+425081	Objc
+425092	Subj
+425096	Objc
+425135	Subj
+Pred
+425140	Objc
+425155	Subj
+425169	Subj
+425208	Subj
+425218	Subj
+Pred
+425243	Objc
+425249	Subj
+425254	Objc
+425261	Objc
+425281	Objc
+425285	Objc
+425302	Subj
+425316	Objc
+425331	Objc
+425338	Subj
+425341	Cmpl
+425348	Objc
+Cmpl
+425357	Objc
+425367	Objc
+425384	Objc
+425386	Subj
+425417	Objc
+425425	Objc
+425438	Subj
+425450	Pred
+425456	Objc
+425464	Subj
+Cmpl
+425477	Pred
+425501	Subj
+425511	Objc
+425524	Subj
+425536	Subj
+425546	Subj
+425588	Subj
+425594	Subj
+425596	Subj
+425620	Subj
+425624	Objc
+425632	Subj
+Objc
+425650	Subj
+425660	Objc
+425669	Subj
+425675	Pred
+425685	Subj
+425688	Objc
+425700	Subj
+425710	Subj
+425738	Objc
+425745	Subj
+425765	Subj
+425773	Subj
+425778	Objc
+425810	Subj
+425817	Pred
+425821	Pred
+425828	Subj
+425858	Subj
+425871	Subj
+425895	Subj
+425898	Objc
+425902	Subj
+425910	Objc
+425914	Objc
+425917	Pred
+425923	Subj
+425929	Pred
+425948	Objc
+425960	Subj
+Pred
+425990	Subj
+426003	Objc
+426007	Objc
+426013	Objc
+426027	Objc
+426030	Objc
+426039	Subj
+426056	Objc
+426069	Objc
+426093	Cmpl
+426109	Objc
+426117	Cmpl
+426131	Objc
+426134	Subj
+426139	Cmpl
+Objc
+426154	Objc
+426168	Subj
+426205	Objc
+426210	Objc
+Cmpl
+426229	Subj
+426250	Objc
+426267	Subj
+426280	Subj
+426286	Subj
+Objc
+426299	Objc
+426304	Cmpl
+426313	Objc
+426318	Objc
+426347	Subj
+426356	Subj
+426378	Subj
+426386	Subj
+426407	Objc
+426416	Subj
+426419	Objc
+Subj
+426426	Subj
+426430	Subj
+426432	Objc
+426440	Objc
+426528	Subj
+426531	Objc
+426548	Objc
+426564	Objc
+426568	Objc
+426578	Objc
+426604	Objc
+Objc
+426619	Subj
+426622	Objc
+426647	Objc
+426659	Objc
+426665	Objc
+426673	Objc
+426701	Subj
+426703	Objc
+426711	Cmpl
+426722	Objc
+426756	Subj
+426766	Pred
+426773	Subj
+426799	Subj
+426817	Objc
+426832	Subj
+426844	Cmpl
+426862	Objc
+426870	Subj
+426918	Cmpl
+426932	Objc
+426934	Objc
+Subj
+426949	Subj
+426973	Subj
+426978	Objc
+Cmpl
+426991	Subj
+426993	Pred
+426997	Objc
+427010	Cmpl
+427027	Subj
+427031	Subj
+427047	Cmpl
+427050	Subj
+427052	Objc
+427067	Subj
+427072	Subj
+427074	Objc
+427080	Objc
+427083	Cmpl
+427088	Objc
+427094	Objc
+427107	Objc
+427110	Subj
+427115	Subj
+427118	Subj
+427124	Subj
+427128	Subj
+427135	Subj
+427139	Subj
+427143	Objc
+427147	Subj
+427155	Objc
+427195	Objc
+427230	Objc
+427236	Subj
+Objc
+427240	Objc
+427245	Subj
+Objc
+427253	Subj
+427263	Subj
+427270	Pred
+427283	Cmpl
+Subj
+Objc
+427317	Objc
+427331	Subj
+427356	Subj
+427373	Subj
+427400	Subj
+427404	Objc
+427410	Objc
+427434	Objc
+427439	Subj
+427445	Pred
+427458	Objc
+427467	Subj
+427487	Objc
+427493	Objc
+427501	Subj
+427505	Subj
+427519	Subj
+427529	Subj
+427536	Objc
+427540	Objc
+Subj
+427560	Objc
+427565	Objc
+427581	Subj
+427584	Subj
+427589	Subj
+427615	Subj
+427628	Subj
+427635	Pred
+427663	Objc
+427690	Objc
+427704	Pred
+427712	Objc
+427714	Objc
+427719	Cmpl
+427740	Pred
+427759	Objc
+427776	Objc
+427786	Pred
+427800	Subj
+427807	Pred
+427813	Pred
+427825	Subj
+427831	Objc
+427834	Subj
+427836	Cmpl
+427838	Subj
+427845	Objc
+427857	Objc
+427867	Subj
+427873	Subj
+427876	Pred
+427900	Objc
+427917	Subj
+427957	Subj
+427959	Cmpl
+427961	Subj
+427971	Objc
+427975	Subj
+427977	Pred
+427998	Objc
+428000	Subj
+428010	Objc
+428018	Subj
+428026	Subj
+428029	Cmpl
+428039	Pred
+428046	Subj
+428058	Objc
+428065	Pred
+428069	Subj
+Objc
+428080	Objc
+428082	Objc
+428087	Subj
+428089	Objc
+Subj
+428112	Pred
+428123	Pred
+428140	Subj
+428147	Subj
+428151	Objc
+428156	Pred
+428162	Objc
+428195	Subj
+428208	Objc
+428213	Objc
+428220	Objc
+428242	Objc
+428251	Objc
+428255	Objc
+428272	Objc
+428285	Subj
+Cmpl
+428297	Objc
+428302	Subj
+428310	Subj
+Pred
+428320	Objc
+428326	Objc
+428337	Subj
+428355	Objc
+428357	Cmpl
+428381	Subj
+428384	Subj
+428396	Subj
+428398	Pred
+428422	Objc
+428428	Objc
+428441	Subj
+428445	Objc
+428459	Subj
+428479	Subj
+428482	Subj
+428488	Subj
+428498	Objc
+428501	Objc
+428514	Subj
+428523	Subj
+428529	Objc
+428532	Objc
+428543	Pred
+Subj
+428576	Subj
+428583	Subj
+428589	Objc
+428594	Subj
+428597	Objc
+428599	Objc
+428605	Objc
+428609	Objc
+428614	Subj
+428625	Subj
+428641	Objc
+428662	Subj
+428674	Objc
+428676	Cmpl
+Objc
+428692	Pred
+428695	Subj
+428708	Subj
+428711	Objc
+428723	Subj
+428727	Subj
+428754	Subj
+428760	Subj
+428779	Subj
+428797	Objc
+428802	Subj
+428805	Subj
+428812	Subj
+428815	Subj
+428819	Subj
+428821	Objc
+428823	Cmpl
+428830	Subj
+428838	Subj
+428844	Subj
+Objc
+428850	Pred
+428853	Subj
+428855	Pred
+428871	Objc
+428882	Objc
+428918	Subj
+428929	Objc
+428936	Subj
+428939	Subj
+Objc
+429031	Subj
+429037	Objc
+429042	Subj
+Pred
+429053	Subj
+429062	Subj
+429076	Subj
+429084	Subj
+429086	Pred
+429094	Objc
+429105	Objc
+429121	Objc
+429156	Subj
+429173	Pred
+429181	Objc
+429200	Pred
+429204	Objc
+429220	Objc
+429236	Objc
+429261	Subj
+429274	Objc
+Objc
+429290	Objc
+429302	Objc
+429309	Objc
+429326	Objc
+429339	Subj
+429343	Objc
+429360	Subj
+429363	Objc
+429372	Objc
+429384	Objc
+429403	Objc
+429410	Objc
+429424	Pred
+Subj
+429438	Objc
+429454	Objc
+429462	Subj
+429478	Objc
+429509	Objc
+429519	Objc
+429529	Subj
+429531	Objc
+429537	Objc
+429539	Cmpl
+429550	Objc
+429565	Objc
+429583	Objc
+429589	Objc
+429609	Pred
+429640	Objc
+429643	Objc
+429649	Subj
+429654	Objc
+429657	Subj
+429660	Subj
+429680	Subj
+429687	Objc
+429706	Subj
+429720	Subj
+429739	Subj
+429746	Subj
+429751	Subj
+429758	Objc
+429760	Subj
+429771	Objc
+429779	Subj
+429781	Pred
+429787	Pred
+429795	Objc
+429797	Objc
+429805	Objc
+429822	Subj
+429837	Objc
+429847	Subj
+429849	Objc
+429867	Subj
+429869	Objc
+429878	Objc
+429888	Subj
+429894	Subj
+429899	Subj
+429906	Objc
+429911	Objc
+429936	Objc
+429941	Objc
+429954	Pred
+429960	Subj
+429966	Subj
+429971	Subj
+429976	Objc
+429981	Subj
+429993	Subj
+430008	Objc
+430013	Subj
+430028	Objc
+430036	Objc
+430060	Subj
+430072	Subj
+Cmpl
+430096	Objc
+430103	Subj
+430113	Pred
+430127	Subj
+430132	Cmpl
+430137	Subj
+430149	Objc
+430166	Pred
+430186	Pred
+430190	Subj
+430193	Objc
+430205	Subj
+430209	Subj
+430214	Objc
+430219	Objc
+430239	Subj
+430275	Pred
+Objc
+430279	Objc
+430291	Subj
+430352	Subj
+430358	Objc
+430362	Objc
+430365	Objc
+430371	Pred
+430386	Objc
+430389	Objc
+430403	Pred
+430416	Objc
+430438	Subj
+430444	Subj
+430452	Objc
+430474	Objc
+430481	Objc
+430493	Objc
+430499	Subj
+430521	Subj
+430525	Objc
+430532	Subj
+430541	Subj
+430547	Subj
+430557	Subj
+430560	Objc
+430565	Subj
+430578	Subj
+430614	Objc
+430620	Subj
+Objc
+430641	Objc
+430645	Subj
+430650	Subj
+430656	Subj
+430670	Objc
+430676	Subj
+430686	Objc
+430693	Subj
+430697	Subj
+430701	Subj
+430712	Pred
+430725	Subj
+430731	Subj
+430741	Objc
+430746	Subj
+430750	Subj
+430759	Objc
+430773	Subj
+430776	Subj
+430779	Subj
+430783	Subj
+430798	Subj
+430805	Objc
+430818	Subj
+430826	Objc
+430830	Pred
+430834	Objc
+430846	Objc
+430851	Cmpl
+430860	Objc
+430873	Subj
+430877	Objc
+430884	Cmpl
+430889	Subj
+Objc
+430894	Objc
+430916	Objc
+430926	Objc
+430928	Subj
+430940	Subj
+430945	Objc
+430973	Objc
+430980	Subj
+Objc
+430992	Objc
+431015	Objc
+431020	Objc
+431022	Objc
+431034	Objc
+431055	Objc
+431072	Objc
+431086	Cmpl
+431095	Subj
+431100	Objc
+431110	Subj
+431121	Objc
+Cmpl
+Objc
+431134	Pred
+431140	Pred
+431145	Subj
+431168	Cmpl
+431176	Subj
+431181	Objc
+431213	Subj
+431218	Cmpl
+431231	Objc
+431242	Subj
+431250	Subj
+431252	Subj
+431261	Objc
+431268	Subj
+431285	Objc
+431306	Objc
+431309	Objc
+431326	Subj
+431329	Subj
+431337	Subj
+431339	Objc
+431385	Subj
+431388	Objc
+431409	Subj
+431411	Objc
+431421	Objc
+431424	Cmpl
+431433	Subj
+431443	Subj
+431450	Objc
+431471	Subj
+431495	Subj
+431501	Cmpl
+Subj
+Objc
+431541	Subj
+431544	Subj
+431554	Subj
+431561	Pred
+431580	Subj
+431587	Subj
+431592	Objc
+431598	Subj
+431615	Subj
+431618	Cmpl
+431620	Cmpl
+431630	Subj
+431644	Subj
+431655	Objc
+431671	Subj
+431683	Subj
+431691	Objc
+431699	Subj
+Cmpl
+Objc
+431707	Subj
+Pred
+431714	Pred
+431728	Objc
+431736	Objc
+431739	Objc
+431748	Objc
+431754	Subj
+431759	Subj
+Objc
+431767	Objc
+431781	Subj
+431786	Objc
+431801	Subj
+431819	Subj
+431821	Objc
+431853	Subj
+431855	Subj
+431859	Subj
+431872	Subj
+431888	Objc
+431893	Subj
+Objc
+431900	Objc
+Cmpl
+431916	Subj
+431924	Objc
+431938	Subj
+431940	Objc
+431953	Pred
+431982	Subj
+432012	Subj
+432029	Subj
+432041	Objc
+432050	Objc
+432054	Objc
+432108	Subj
+432133	Subj
+432169	Objc
+432226	Objc
+432240	Objc
+432263	Subj
+432280	Subj
+432287	Subj
+432293	Subj
+432300	Objc
+432306	Subj
+432322	Objc
+432331	Subj
+432340	Subj
+432343	Cmpl
+432358	Subj
+432384	Objc
+432388	Subj
+432393	Cmpl
+432397	Subj
+432417	Cmpl
+432436	Pred
+432448	Subj
+Objc
+432462	Subj
+432479	Subj
+Objc
+432499	Subj
+432512	Pred
+432514	Pred
+432521	Subj
+432524	Subj
+432528	Subj
+432531	Subj
+432538	Pred
+432552	Subj
+432557	Subj
+432571	Subj
+432574	Subj
+432598	Objc
+432616	Subj
+432620	Objc
+432635	Objc
+432645	Objc
+432656	Objc
+432671	Subj
+432673	Subj
+432681	Subj
+432684	Subj
+432710	Subj
+432719	Subj
+432734	Subj
+Objc
+432746	Objc
+432763	Subj
+432772	Subj
+432774	Subj
+432780	Objc
+432787	Objc
+432799	Objc
+432806	Subj
+432812	Objc
+432820	Subj
+432835	Subj
+Objc
+432848	Subj
+432853	Objc
+432862	Pred
+432867	Subj
+432879	Objc
+432889	Subj
+432893	Subj
+432903	Objc
+432905	Objc
+432915	Objc
+432919	Objc
+432926	Objc
+432932	Objc
+432936	Objc
+432942	Objc
+432954	Objc
+432959	Subj
+432963	Subj
+432969	Subj
+432973	Objc
+432981	Subj
+432984	Objc
+432999	Subj
+433022	Subj
+433027	Subj
+Objc
+433034	Objc
+433049	Subj
+Objc
+433059	Objc
+433066	Subj
+433068	Subj
+433083	Subj
+433089	Objc
+433092	Objc
+433110	Subj
+433137	Subj
+433146	Subj
+433150	Objc
+433157	Subj
+433172	Objc
+433219	Subj
+433221	Objc
+433232	Subj
+433234	Objc
+433241	Cmpl
+433256	Pred
+433271	Objc
+433288	Subj
+433290	Pred
+433295	Subj
+433301	Objc
+433319	Objc
+433328	Objc
+433335	Subj
+433339	Objc
+433366	Objc
+433398	Subj
+Objc
+433402	Subj
+433438	Subj
+433447	Objc
+433469	Cmpl
+Subj
+433484	Objc
+433490	Objc
+433495	Objc
+433504	Subj
+433529	Pred
+433534	Objc
+433558	Subj
+Pred
+433561	Cmpl
+433565	Pred
+433583	Objc
+433591	Subj
+433599	Pred
+Subj
+433613	Objc
+433634	Objc
+433669	Objc
+433689	Subj
+433693	Cmpl
+433700	Objc
+433703	Pred
+433716	Subj
+433725	Subj
+433730	Subj
+433740	Objc
+433744	Subj
+433751	Subj
+433777	Objc
+433788	Subj
+433798	Objc
+433813	Subj
+433822	Subj
+433828	Objc
+433837	Objc
+433849	Subj
+433857	Subj
+433859	Objc
+433866	Subj
+433869	Objc
+433880	Objc
+433883	Objc
+433896	Objc
+433899	Subj
+433919	Objc
+433926	Objc
+433946	Objc
+433948	Objc
+433956	Subj
+433959	Pred
+433963	Objc
+433975	Objc
+433981	Objc
+433986	Objc
+433998	Subj
+434035	Objc
+434045	Objc
+434048	Objc
+434063	Objc
+434073	Cmpl
+434077	Objc
+434085	Pred
+434101	Subj
+434106	Subj
+434116	Objc
+434119	Subj
+434123	Objc
+434126	Objc
+434132	Subj
+434138	Subj
+434144	Subj
+Objc
+434166	Objc
+434185	Objc
+434215	Objc
+434224	Objc
+434228	Subj
+434248	Pred
+434250	Subj
+434257	Subj
+Objc
+434263	Subj
+434269	Subj
+434273	Objc
+434286	Subj
+434291	Subj
+434298	Subj
+434307	Subj
+434317	Subj
+434322	Subj
+434335	Objc
+434347	Subj
+434349	Objc
+434359	Subj
+434362	Subj
+434382	Subj
+434384	Objc
+434393	Objc
+434402	Subj
+Objc
+434409	Subj
+434432	Objc
+434435	Subj
+434437	Subj
+434450	Subj
+434454	Pred
+434468	Objc
+434483	Pred
+434485	Subj
+434491	Subj
+Pred
+434496	Subj
+434504	Subj
+434510	Pred
+434515	Objc
+434518	Subj
+Pred
+434529	Subj
+Cmpl
+434535	Subj
+434538	Subj
+434546	Subj
+434551	Pred
+434557	Subj
+434566	Subj
+434584	Objc
+434598	Subj
+434633	Objc
+434640	Subj
+434665	Subj
+434669	Pred
+434674	Pred
+434717	Subj
+434722	Objc
+434731	Subj
+434745	Objc
+Subj
+434751	Subj
+Objc
+434757	Subj
+434762	Subj
+434766	Subj
+434776	Subj
+434789	Cmpl
+Subj
+434804	Pred
+434806	Pred
+434824	Pred
+434832	Subj
+434835	Pred
+434839	Pred
+434867	Pred
+434876	Subj
+434880	Subj
+434883	Subj
+434887	Subj
+434902	Subj
+434918	Pred
+434923	Objc
+434932	Objc
+434946	Pred
+434952	Subj
+434961	Objc
+434967	Objc
+434984	Cmpl
+435046	Objc
+435073	Subj
+435076	Subj
+435079	Subj
+435083	Subj
+435086	Subj
+435117	Objc
+435120	Subj
+435143	Cmpl
+435169	Objc
+435181	Subj
+435188	Subj
+435193	Subj
+435200	Pred
+435207	Subj
+435222	Pred
+435231	Subj
+Subj
+435242	Subj
+435263	Pred
+435267	Subj
+435273	Subj
+Pred
+435278	Subj
+Pred
+435290	Subj
+435337	Subj
+435343	Subj
+435349	Subj
+435354	Subj
+Subj
+435360	Subj
+435363	Subj
+435381	Subj
+435416	Subj
+435435	Subj
+435440	Subj
+435445	Objc
+435482	Subj
+435499	Subj
+435507	Objc
+435511	Objc
+435513	Objc
+Cmpl
+435518	Cmpl
+435524	Objc
+435526	Objc
+Cmpl
+435535	Pred
+435537	Pred
+435547	Pred
+435549	Pred
+435569	Cmpl
+435573	Pred
+435587	Cmpl
+435600	Objc
+435608	Objc
+435610	Cmpl
+435617	Pred
+435623	Objc
+435629	Subj
+435641	Cmpl
+Objc
+435654	Subj
+435659	Subj
+435662	Pred
+435677	Subj
+435685	Subj
+435687	Cmpl
+435695	Subj
+435706	Subj
+435710	Pred
+435716	Subj
+435723	Pred
+435729	Subj
+435744	Cmpl
+435750	Pred
+435766	Cmpl
+435788	Subj
+435795	Objc
+435802	Objc
+435805	Subj
+435811	Subj
+435815	Objc
+435829	Subj
+435831	Subj
+435836	Subj
+435846	Subj
+435858	Subj
+435861	Subj
+435868	Subj
+435876	Subj
+435885	Subj
+435893	Subj
+435927	Subj
+435939	Pred
+435952	Objc
+435971	Subj
+435978	Objc
+435983	Objc
+435986	Subj
+436001	Subj
+436018	Pred
+436023	Pred
+436033	Cmpl
+436045	Subj
+436047	Objc
+436051	Objc
+436055	Subj
+Pred
+436062	Subj
+436089	Subj
+436091	Objc
+436099	Objc
+436104	Subj
+436120	Pred
+Objc
+436127	Pred
+Objc
+436134	Subj
+436139	Subj
+436149	Subj
+436155	Cmpl
+436165	Pred
+436175	Subj
+436182	Objc
+436188	Pred
+436191	Subj
+436195	Subj
+436202	Subj
+436206	Objc
+436213	Objc
+436246	Objc
+436254	Pred
+436259	Objc
+436271	Subj
+436277	Pred
+436283	Pred
+436288	Pred
+436291	Pred
+436301	Subj
+436314	Subj
+436317	Objc
+436326	Cmpl
+Subj
+436335	Subj
+436355	Subj
+436366	Subj
+436370	Objc
+436389	Subj
+436405	Subj
+436419	Subj
+436427	Objc
+436429	Subj
+436445	Objc
+436455	Objc
+436482	Subj
+Pred
+Pred
+436490	Objc
+436498	Objc
+436523	Pred
+436605	Subj
+436614	Subj
+Pred
+436621	Subj
+436650	Subj
+436653	Pred
+436660	Subj
+436663	Pred
+436672	Subj
+436688	Pred
+436700	Pred
+436703	Subj
+436710	Subj
+436719	Pred
+436725	Subj
+436739	Objc
+436744	Subj
+436757	Subj
+Objc
+436764	Objc
+436767	Objc
+436774	Pred
+436781	Cmpl
+436807	Subj
+Cmpl
+436818	Objc
+436823	Subj
+436843	Objc
+436853	Cmpl
+436857	Subj
+436865	Objc
+Subj
+436886	Subj
+436889	Objc
+436892	Objc
+436896	Objc
+436903	Objc
+436928	Objc
+436931	Objc
+436940	Pred
+436946	Pred
+436948	Pred
+436959	Subj
+436963	Pred
+436968	Subj
+436984	Subj
+436988	Pred
+437011	Objc
+437060	Pred
+437067	Objc
+437076	Objc
+437082	Objc
+Cmpl
+437089	Pred
+437104	Subj
+437111	Subj
+437139	Pred
+Subj
+437151	Pred
+437172	Subj
+437186	Subj
+437188	Subj
+437196	Subj
+437202	Subj
+437212	Subj
+437215	Objc
+437240	Subj
+437247	Objc
+437253	Objc
+437259	Subj
+437263	Subj
+437278	Subj
+437286	Subj
+437323	Objc
+437336	Subj
+Objc
+437344	Subj
+437351	Subj
+437361	Subj
+437364	Objc
+437370	Objc
+437373	Objc
+437379	Objc
+437384	Subj
+437390	Cmpl
+437408	Subj
+437417	Subj
+437422	Subj
+437426	Subj
+437445	Subj
+437457	Subj
+437463	Objc
+437481	Subj
+Pred
+437492	Subj
+437494	Pred
+437497	Subj
+437499	Pred
+437501	Subj
+437515	Pred
+Objc
+437521	Objc
+437525	Objc
+437532	Subj
+437534	Pred
+Subj
+437538	Pred
+437544	Subj
+Subj
+437552	Subj
+Subj
+437561	Subj
+437570	Pred
+437585	Objc
+437587	Subj
+437613	Subj
+Objc
+437620	Objc
+437627	Pred
+437632	Pred
+Subj
+437639	Subj
+437649	Subj
+437666	Subj
+437676	Objc
+437688	Subj
+437693	Subj
+437707	Pred
+437712	Objc
+437742	Objc
+437747	Subj
+437752	Subj
+437756	Subj
+Objc
+437761	Objc
+437774	Subj
+437778	Subj
+437783	Objc
+437787	Pred
+437803	Subj
+437806	Subj
+437819	Objc
+437821	Objc
+437828	Objc
+437845	Subj
+437861	Cmpl
+437864	Pred
+437876	Subj
+Objc
+437886	Objc
+437889	Subj
+437891	Objc
+437894	Subj
+Pred
+437899	Subj
+437901	Pred
+437906	Objc
+437953	Subj
+437957	Objc
+437959	Cmpl
+437972	Objc
+437978	Objc
+437984	Objc
+438003	Objc
+438007	Objc
+438034	Cmpl
+438047	Subj
+438057	Objc
+438070	Objc
+438073	Subj
+Cmpl
+438095	Objc
+Objc
+438106	Subj
+438115	Objc
+438119	Objc
+438126	Pred
+438134	Objc
+438139	Objc
+438144	Pred
+438149	Objc
+438166	Objc
+438169	Pred
+438176	Objc
+438179	Cmpl
+438181	Objc
+438183	Cmpl
+438185	Objc
+438187	Cmpl
+438189	Objc
+438191	Cmpl
+438193	Objc
+438205	Objc
+438220	Subj
+438229	Objc
+438235	Subj
+Cmpl
+438240	Pred
+Subj
+438246	Objc
+438254	Subj
+438262	Subj
+438265	Subj
+438270	Objc
+438275	Objc
+438301	Objc
+438338	Subj
+438344	Objc
+438357	Subj
+438367	Objc
+438377	Objc
+438386	Objc
+438395	Objc
+438400	Subj
+438428	Pred
+438444	Objc
+438449	Subj
+Objc
+438467	Subj
+438470	Subj
+Objc
+438476	Subj
+438478	Cmpl
+438489	Cmpl
+438514	Subj
+438526	Subj
+438532	Subj
+438551	Objc
+438572	Objc
+438596	Subj
+438622	Pred
+438626	Subj
+438628	Pred
+438636	Objc
+438643	Subj
+Objc
+438651	Subj
+438658	Subj
+438680	Objc
+438685	Subj
+438692	Objc
+438700	Objc
+438714	Subj
+438723	Pred
+438730	Objc
+438735	Subj
+438737	Objc
+438746	Cmpl
+438765	Objc
+438768	Subj
+438788	Subj
+438810	Subj
+438815	Subj
+438821	Objc
+438838	Pred
+438843	Objc
+438848	Subj
+438870	Objc
+438893	Objc
+438957	Objc
+438964	Objc
+438985	Subj
+438996	Objc
+439059	Subj
+439062	Pred
+439073	Pred
+439092	Subj
+Pred
+439114	Objc
+439136	Pred
+439161	Pred
+439191	Objc
+439207	Pred
+439266	Subj
+439294	Subj
+439300	Objc
+439308	Objc
+439314	Subj
+439335	Subj
+439338	Objc
+439345	Subj
+439350	Pred
+439369	Objc
+439432	Subj
+439459	Pred
+439469	Objc
+439494	Objc
+439515	Subj
+439524	Objc
+439542	Subj
+439569	Objc
+439573	Pred
+439595	Pred
+439601	Subj
+439613	Subj
+439630	Objc
+439645	Objc
+439652	Objc
+439664	Subj
+439683	Pred
+439689	Objc
+439694	Objc
+439703	Subj
+439709	Subj
+Objc
+439723	Subj
+439726	Objc
+439728	Subj
+439746	Objc
+439769	Subj
+439775	Subj
+439782	Objc
+439796	Objc
+439799	Subj
+439802	Objc
+439805	Objc
+439808	Subj
+439811	Objc
+439822	Subj
+439831	Subj
+439838	Pred
+439864	Objc
+439908	Subj
+439923	Objc
+439947	Subj
+439954	Subj
+439964	Objc
+439981	Subj
+439987	Subj
+439994	Subj
+439996	Objc
+440003	Subj
+Objc
+440016	Objc
+440021	Subj
+440029	Objc
+440058	Subj
+Objc
+440074	Subj
+440081	Objc
+440086	Objc
+440117	Pred
+440153	Cmpl
+Subj
+440162	Subj
+440177	Subj
+440192	Objc
+440201	Pred
+440229	Objc
+440247	Subj
+440251	Subj
+440259	Subj
+440262	Subj
+440267	Subj
+440276	Subj
+440290	Pred
+440293	Subj
+440301	Objc
+440304	Subj
+440308	Subj
+440330	Subj
+440342	Objc
+440351	Objc
+440402	Pred
+440431	Subj
+440437	Objc
+440442	Objc
+440448	Subj
+440505	Subj
+440510	Subj
+440564	Pred
+440585	Objc
+440589	Objc
+440600	Pred
+440608	Pred
+440616	Objc
+440639	Subj
+440651	Pred
+Subj
+440656	Pred
+440679	Pred
+440683	Objc
+440698	Objc
+440731	Objc
+Cmpl
+440738	Subj
+440745	Subj
+440751	Subj
+Objc
+440756	Objc
+440760	Pred
+440766	Subj
+440817	Subj
+440831	Objc
+440835	Objc
+440839	Objc
+Subj
+440843	Objc
+440848	Subj
+440865	Subj
+Objc
+440873	Subj
+440887	Objc
+440899	Pred
+Subj
+440942	Objc
+440958	Objc
+440997	Subj
+Pred
+441001	Subj
+Pred
+441006	Subj
+441014	Subj
+441020	Subj
+Pred
+441025	Subj
+441029	Objc
+441039	Subj
+441041	Pred
+441046	Objc
+441049	Objc
+441059	Cmpl
+Pred
+441065	Subj
+Pred
+441073	Cmpl
+Pred
+441077	Objc
+441081	Subj
+441085	Pred
+441100	Subj
+441102	Pred
+441117	Objc
+441134	Objc
+441138	Objc
+441143	Cmpl
+Subj
+Objc
+441148	Subj
+441150	Cmpl
+441154	Subj
+441159	Subj
+441165	Subj
+441171	Subj
+441188	Pred
+441192	Subj
+441206	Subj
+Pred
+441213	Objc
+441268	Cmpl
+441277	Subj
+Objc
+441291	Objc
+441296	Objc
+441301	Subj
+441308	Subj
+441318	Subj
+441327	Subj
+441340	Subj
+441347	Objc
+441354	Objc
+441362	Subj
+441365	Subj
+441387	Subj
+441390	Subj
+441393	Subj
+441417	Subj
+441421	Pred
+441424	Subj
+441427	Pred
+441432	Pred
+441446	Objc
+441484	Subj
+441490	Subj
+441498	Subj
+441506	Subj
+441533	Objc
+441539	Subj
+441550	Subj
+Objc
+441554	Objc
+441562	Objc
+441565	Objc
+441577	Objc
+441592	Objc
+441595	Objc
+441654	Objc
+441663	Objc
+441674	Subj
+441681	Subj
+441699	Objc
+441710	Subj
+441713	Subj
+441728	Objc
+441752	Subj
+441772	Pred
+Subj
+441776	Pred
+441784	Pred
+Subj
+441788	Pred
+441792	Pred
+Subj
+441798	Pred
+441805	Subj
+441811	Cmpl
+441829	Subj
+441845	Subj
+441851	Objc
+441874	Objc
+441884	Objc
+441891	Objc
+441908	Pred
+441920	Pred
+441927	Subj
+441944	Subj
+441967	Objc
+441986	Subj
+441995	Objc
+442028	Objc
+442031	Objc
+442037	Objc
+442046	Objc
+442052	Objc
+Cmpl
+442063	Objc
+Objc
+442074	Subj
+442078	Objc
+442085	Objc
+442099	Objc
+442129	Subj
+442135	Objc
+442139	Objc
+442150	Objc
+442157	Pred
+442163	Pred
+442166	Pred
+442169	Objc
+442174	Pred
+442177	Pred
+442179	Pred
+442182	Objc
+442188	Objc
+442201	Pred
+442214	Objc
+442223	Subj
+442232	Objc
+442250	Objc
+442266	Subj
+442269	Pred
+442288	Objc
+442293	Objc
+442306	Subj
+Pred
+442315	Subj
+442323	Pred
+442327	Pred
+442337	Subj
+442342	Subj
+442355	Subj
+442359	Subj
+442363	Objc
+442367	Subj
+442378	Subj
+442394	Subj
+442412	Subj
+442423	Objc
+442443	Subj
+442448	Pred
+442454	Subj
+442457	Pred
+442466	Pred
+Subj
+442470	Subj
+442476	Objc
+442484	Objc
+Pred
+442509	Pred
+442515	Objc
+442518	Objc
+442523	Objc
+442526	Objc
+442530	Objc
+442547	Objc
+442550	Objc
+442555	Objc
+442564	Pred
+442575	Subj
+442581	Objc
+442612	Subj
+442658	Pred
+442672	Objc
+442680	Pred
+442683	Subj
+442686	Pred
+Subj
+442690	Pred
+442692	Subj
+442695	Subj
+442701	Objc
+442706	Subj
+442712	Objc
+442742	Objc
+442744	Pred
+442749	Subj
+Pred
+442755	Pred
+442757	Pred
+442771	Subj
+442782	Pred
+442785	Pred
+442793	Subj
+Pred
+442796	Subj
+442798	Pred
+442802	Subj
+Pred
+442813	Subj
+Cmpl
+442818	Subj
+442832	Subj
+442842	Objc
+442845	Subj
+442872	Objc
+442878	Subj
+Pred
+442882	Subj
+442894	Objc
+442898	Objc
+442922	Objc
+442970	Objc
+442978	Subj
+442980	Pred
+442999	Objc
+443003	Objc
+443005	Objc
+443017	Objc
+443020	Objc
+443052	Objc
+443099	Objc
+443130	Subj
+443147	Subj
+443150	Subj
+443156	Subj
+443159	Subj
+443165	Subj
+443173	Objc
+443178	Subj
+443191	Subj
+443194	Subj
+443204	Subj
+443210	Subj
+443215	Subj
+443217	Subj
+443220	Subj
+443225	Objc
+443232	Cmpl
+443242	Subj
+443245	Objc
+443248	Subj
+443253	Pred
+Subj
+443274	Objc
+443278	Subj
+443286	Subj
+443291	Pred
+443296	Pred
+443303	Subj
+443308	Pred
+443313	Pred
+443319	Subj
+443321	Subj
+443326	Subj
+443330	Subj
+443344	Subj
+Pred
+Subj
+443358	Subj
+443360	Cmpl
+443362	Objc
+443366	Subj
+Cmpl
+443369	Objc
+443376	Subj
+443386	Pred
+443388	Objc
+443391	Subj
+443393	Objc
+443396	Subj
+443401	Subj
+Objc
+443406	Objc
+443410	Pred
+443414	Objc
+443416	Subj
+443423	Subj
+443425	Subj
+443431	Subj
+443446	Subj
+443473	Objc
+443483	Objc
+443530	Objc
+443544	Objc
+443551	Objc
+443560	Subj
+443562	Subj
+443565	Subj
+443569	Objc
+443572	Objc
+443587	Subj
+443616	Subj
+Subj
+443634	Objc
+443663	Subj
+443668	Objc
+443671	Objc
+443711	Subj
+443730	Subj
+443779	Subj
+Objc
+443787	Subj
+443790	Objc
+443803	Subj
+443807	Pred
+443815	Objc
+443834	Pred
+443856	Subj
+443860	Subj
+443890	Objc
+443893	Objc
+443907	Subj
+443910	Objc
+443919	Objc
+443924	Objc
+443927	Objc
+443953	Cmpl
+443962	Subj
+Pred
+443970	Subj
+443982	Subj
+444004	Subj
+444014	Subj
+444022	Objc
+444026	Subj
+Pred
+444044	Pred
+444078	Subj
+444082	Subj
+444088	Cmpl
+444091	Subj
+444105	Subj
+444110	Subj
+444123	Subj
+444135	Subj
+444146	Objc
+444157	Subj
+444174	Pred
+444203	Objc
+444249	Cmpl
+444257	Subj
+444265	Cmpl
+444273	Cmpl
+444277	Pred
+444285	Objc
+444332	Subj
+444336	Subj
+444342	Subj
+444351	Subj
+444354	Subj
+444359	Pred
+444385	Subj
+444388	Pred
+444394	Subj
+444421	Pred
+Pred
+444424	Subj
+444445	Subj
+444452	Subj
+444455	Objc
+Cmpl
+444473	Objc
+444502	Objc
+444508	Subj
+Subj
+444514	Objc
+444517	Subj
+444533	Subj
+444555	Subj
+444570	Objc
+Subj
+444580	Objc
+444589	Subj
+444610	Objc
+444622	Subj
+444627	Cmpl
+444629	Objc
+444633	Subj
+Pred
+444641	Subj
+444644	Subj
+444659	Subj
+444664	Subj
+444669	Subj
+444672	Subj
+444675	Subj
+444682	Subj
+444707	Subj
+444709	Subj
+444714	Subj
+Subj
+444727	Subj
+444736	Subj
+444739	Subj
+444741	Subj
+444745	Subj
+444749	Subj
+444751	Pred
+444756	Subj
+Subj
+444762	Subj
+Subj
+444770	Objc
+444773	Objc
+444787	Objc
+444790	Subj
+Objc
+444814	Subj
+444822	Subj
+444826	Subj
+444834	Subj
+444838	Subj
+444847	Subj
+444851	Subj
+444855	Subj
+444862	Subj
+444865	Pred
+444868	Subj
+444871	Pred
+444879	Objc
+444891	Pred
+444900	Subj
+444916	Cmpl
+444920	Subj
+444925	Subj
+444946	Objc
+444987	Objc
+444991	Subj
+445002	Subj
+445019	Objc
+445070	Subj
+Pred
+445084	Pred
+445089	Cmpl
+445092	Subj
+445114	Objc
+445126	Objc
+445129	Subj
+445144	Subj
+445152	Subj
+445160	Objc
+445167	Subj
+445171	Pred
+445174	Subj
+445176	Pred
+445198	Pred
+445205	Pred
+445221	Subj
+445248	Objc
+445261	Subj
+445267	Subj
+445296	Subj
+445300	Subj
+445308	Pred
+445323	Pred
+445339	Objc
+445355	Objc
+445370	Subj
+445377	Subj
+445385	Subj
+445388	Pred
+445430	Pred
+445433	Subj
+445450	Objc
+445479	Pred
+445489	Subj
+445525	Subj
+445528	Pred
+445534	Subj
+Cmpl
+445555	Objc
+445564	Objc
+445599	Subj
+445610	Objc
+445622	Subj
+445624	Pred
+445640	Objc
+445654	Objc
+445674	Subj
+445686	Objc
+445700	Subj
+445712	Objc
+445753	Objc
+445763	Pred
+445776	Pred
+445782	Pred
+445797	Subj
+Objc
+445821	Objc
+445828	Pred
+445843	Pred
+445861	Objc
+445875	Subj
+445877	Pred
+445881	Objc
+445889	Subj
+445892	Subj
+445898	Subj
+445907	Subj
+445922	Subj
+445931	Subj
+445935	Subj
+445967	Objc
+445979	Subj
+445989	Subj
+445997	Subj
+446029	Subj
+446033	Subj
+Pred
+446039	Subj
+446044	Subj
+446048	Objc
+446064	Objc
+446072	Objc
+446081	Objc
+446099	Subj
+446108	Subj
+446112	Objc
+446118	Subj
+446127	Pred
+446139	Objc
+446143	Pred
+446165	Objc
+446172	Subj
+446175	Pred
+446178	Pred
+446201	Objc
+446208	Subj
+446226	Subj
+446238	Subj
+446242	Subj
+446248	Objc
+446258	Subj
+446269	Objc
+446278	Subj
+Pred
+446282	Subj
+446286	Objc
+446299	Subj
+446305	Subj
+446313	Subj
+446320	Objc
+446346	Subj
+446376	Subj
+446379	Pred
+446388	Subj
+446401	Objc
+446457	Objc
+446471	Objc
+446490	Objc
+446514	Subj
+446524	Subj
+446556	Pred
+Pred
+446561	Subj
+446567	Subj
+Pred
+446577	Objc
+446587	Objc
+446592	Objc
+446602	Subj
+446616	Pred
+446624	Objc
+446638	Subj
+446641	Subj
+446646	Objc
+446650	Subj
+446734	Subj
+446739	Subj
+446754	Objc
+446760	Subj
+446777	Pred
+446791	Pred
+446796	Subj
+446807	Pred
+446810	Pred
+446830	Pred
+446833	Pred
+446842	Objc
+446867	Pred
+446898	Subj
+446911	Objc
+446957	Subj
+446981	Subj
+446984	Objc
+446990	Subj
+447001	Objc
+447057	Subj
+447072	Subj
+447080	Subj
+447084	Objc
+447177	Objc
+447210	Objc
+447218	Objc
+447251	Objc
+447258	Subj
+447262	Subj
+447273	Subj
+447290	Pred
+447295	Subj
+447302	Subj
+447317	Objc
+447322	Objc
+447330	Objc
+447340	Objc
+447349	Objc
+447353	Subj
+447358	Pred
+447368	Pred
+447406	Objc
+447442	Objc
+447470	Objc
+447480	Subj
+447482	Objc
+447489	Objc
+447527	Objc
+447534	Objc
+447572	Objc
+Subj
+447579	Subj
+447581	Objc
+447587	Objc
+447596	Cmpl
+447598	Subj
+447616	Objc
+447620	Objc
+447633	Cmpl
+447636	Subj
+447641	Objc
+447657	Objc
+447691	Cmpl
+447745	Subj
+447767	Objc
+447777	Objc
+447780	Subj
+447784	Objc
+447797	Subj
+447811	Subj
+447832	Subj
+447838	Subj
+447843	Subj
+447847	Subj
+447888	Subj
+447917	Subj
+447949	Subj
+447954	Objc
+447966	Cmpl
+447968	Objc
+Cmpl
+447979	Subj
+447984	Subj
+448003	Objc
+448029	Pred
+448048	Objc
+448054	Objc
+448069	Objc
+448071	Subj
+448083	Subj
+Pred
+448087	Subj
+448101	Subj
+448109	Objc
+448118	Subj
+448122	Subj
+448134	Subj
+448143	Subj
+448149	Subj
+448151	Pred
+448171	Objc
+448196	Objc
+448240	Pred
+448244	Pred
+448263	Objc
+448276	Pred
+448278	Pred
+448296	Pred
+448298	Pred
+448302	Pred
+448304	Pred
+448311	Subj
+448335	Objc
+448357	Subj
+448361	Objc
+448373	Objc
+448411	Subj
+Subj
+448434	Subj
+448491	Subj
+448499	Objc
+448508	Subj
+448512	Subj
+448522	Subj
+448557	Pred
+448561	Subj
+448582	Subj
+448585	Objc
+448590	Objc
+448600	Objc
+448605	Subj
+448607	Cmpl
+448609	Subj
+Cmpl
+448645	Objc
+448670	Subj
+448672	Pred
+448698	Subj
+448703	Objc
+448727	Subj
+448754	Objc
+448779	Subj
+448793	Pred
+448802	Pred
+448821	Objc
+448827	Objc
+448830	Pred
+448865	Subj
+448881	Objc
+448885	Subj
+448890	Pred
+448897	Subj
+448916	Pred
+448942	Cmpl
+448980	Subj
+449008	Objc
+449052	Pred
+449064	Pred
+449080	Objc
+449090	Objc
+449106	Pred
+449127	Objc
+449165	Objc
+449219	Objc
+449227	Objc
+449236	Objc
+449270	Objc
+449283	Subj
+449300	Objc
+Subj
+449314	Objc
+449319	Objc
+449343	Objc
+449360	Objc
+449363	Objc
+449394	Objc
+449400	Subj
+449405	Subj
+449420	Cmpl
+449431	Subj
+449452	Subj
+449468	Subj
+449477	Subj
+449479	Pred
+449524	Objc
+449532	Pred
+449547	Objc
+449553	Objc
+449572	Objc
+449585	Objc
+449597	Pred
+449602	Subj
+449606	Objc
+Subj
+Cmpl
+449612	Subj
+449617	Subj
+449626	Pred
+449628	Pred
+449634	Subj
+449655	Subj
+449661	Subj
+Pred
+449681	Subj
+449689	Subj
+449696	Objc
+449707	Objc
+449717	Subj
+449746	Objc
+449750	Subj
+449759	Objc
+449765	Pred
+Subj
+449768	Pred
+449772	Cmpl
+449774	Subj
+449778	Subj
+449797	Subj
+449800	Subj
+449804	Subj
+Pred
+449822	Pred
+Subj
+449827	Subj
+Objc
+449832	Subj
+449844	Subj
+449855	Subj
+Pred
+449865	Subj
+Pred
+449870	Pred
+449895	Subj
+449906	Pred
+449918	Subj
+449920	Pred
+449923	Pred
+449932	Subj
+449945	Subj
+449950	Subj
+Objc
+449959	Objc
+449963	Objc
+449970	Subj
+Objc
+449991	Pred
+450058	Objc
+450069	Objc
+450076	Subj
+450086	Objc
+450091	Pred
+450129	Objc
+450141	Pred
+450143	Objc
+450164	Subj
+450170	Subj
+450180	Pred
+450186	Pred
+450195	Subj
+450210	Subj
+450213	Pred
+450234	Subj
+450241	Objc
+450247	Pred
+450256	Objc
+450261	Subj
+450272	Subj
+450306	Cmpl
+450312	Objc
+450325	Objc
+450336	Subj
+450346	Subj
+Pred
+450352	Subj
+Objc
+450361	Objc
+450367	Objc
+450380	Subj
+450398	Objc
+450408	Subj
+450416	Objc
+450438	Objc
+450444	Subj
+450449	Subj
+450466	Pred
+450487	Objc
+Objc
+450493	Subj
+450498	Pred
+450503	Subj
+450506	Objc
+450530	Objc
+450536	Subj
+450540	Objc
+450544	Objc
+450559	Objc
+450565	Objc
+450573	Objc
+450580	Objc
+450611	Objc
+450616	Objc
+450630	Objc
+450660	Subj
+450715	Objc
+450723	Subj
+450729	Pred
+450742	Cmpl
+450747	Pred
+450838	Objc
+450855	Objc
+450876	Objc
+450896	Subj
+450915	Pred
+450962	Objc
+450968	Subj
+450977	Subj
+450982	Subj
+450993	Subj
+451053	Objc
+451065	Objc
+451101	Subj
+451109	Objc
+451117	Pred
+451120	Subj
+451127	Subj
+451158	Objc
+451181	Pred
+451183	Pred
+451188	Pred
+451194	Pred
+451203	Subj
+451223	Pred
+451230	Pred
+451268	Objc
+451280	Objc
+451288	Objc
+451296	Objc
+451299	Cmpl
+451303	Objc
+451315	Cmpl
+451319	Objc
+Subj
+451353	Subj
+451361	Subj
+451371	Pred
+451383	Objc
+451395	Subj
+451403	Objc
+451414	Cmpl
+451418	Cmpl
+451425	Subj
+451436	Pred
+451457	Subj
+451461	Cmpl
+Objc
+451469	Subj
+451482	Objc
+451485	Cmpl
+451494	Subj
+451512	Objc
+451530	Pred
+451534	Objc
+451541	Subj
+451562	Subj
+451580	Subj
+451587	Objc
+451618	Subj
+451653	Objc
+451695	Cmpl
+451697	Subj
+451712	Cmpl
+451729	Subj
+451732	Pred
+451740	Objc
+451770	Subj
+451794	Pred
+451822	Pred
+451825	Subj
+451840	Objc
+451858	Subj
+451875	Pred
+451894	Objc
+451904	Pred
+451943	Objc
+451949	Pred
+451958	Subj
+451962	Cmpl
+451974	Objc
+451983	Subj
+452014	Subj
+452027	Pred
+452031	Subj
+452038	Pred
+452042	Subj
+452049	Subj
+452054	Objc
+452106	Subj
+452116	Pred
+452129	Subj
+452132	Subj
+452135	Pred
+452164	Subj
+452170	Subj
+452187	Subj
+452199	Objc
+452202	Subj
+452210	Subj
+452219	Pred
+452233	Cmpl
+452242	Objc
+452252	Cmpl
+452256	Cmpl
+452259	Pred
+452264	Subj
+452266	Pred
+452269	Pred
+452276	Subj
+Cmpl
+Subj
+452280	Cmpl
+452287	Objc
+452291	Subj
+452293	Objc
+452307	Objc
+Objc
+452323	Subj
+452326	Objc
+452330	Objc
+452337	Objc
+452342	Objc
+452350	Subj
+452352	Objc
+452355	Pred
+452374	Subj
+Pred
+452380	Subj
+452393	Subj
+452397	Objc
+452403	Subj
+452406	Objc
+452412	Objc
+452426	Pred
+452443	Objc
+452456	Objc
+452468	Objc
+452478	Subj
+452481	Objc
+452490	Objc
+452498	Objc
+452511	Objc
+452514	Objc
+452519	Subj
+452524	Pred
+452527	Pred
+452541	Objc
+452555	Subj
+452580	Objc
+452599	Objc
+452604	Objc
+452609	Objc
+452624	Objc
+452644	Pred
+452675	Objc
+452693	Subj
+452715	Objc
+452719	Objc
+452724	Cmpl
+452735	Subj
+Pred
+452740	Objc
+452752	Cmpl
+452760	Pred
+452777	Objc
+452791	Objc
+452806	Objc
+452809	Subj
+452812	Objc
+452839	Pred
+452842	Subj
+452846	Pred
+Subj
+452850	Objc
+452859	Subj
+452895	Subj
+452903	Subj
+452915	Subj
+452923	Objc
+452938	Objc
+452953	Objc
+453033	Pred
+453045	Objc
+453052	Pred
+453080	Subj
+453107	Objc
+453128	Pred
+453131	Pred
+453134	Pred
+453165	Subj
+Pred
+453169	Subj
+453173	Subj
+453177	Subj
+453182	Objc
+453186	Objc
+453188	Objc
+453191	Objc
+453204	Objc
+453206	Objc
+453213	Pred
+453225	Objc
+453227	Pred
+453245	Subj
+453260	Subj
+453267	Subj
+453284	Pred
+453289	Pred
+453295	Objc
+453337	Objc
+453369	Subj
+453381	Objc
+453387	Objc
+453389	Objc
+453394	Subj
+Objc
+453397	Objc
+453402	Objc
+453421	Objc
+453428	Subj
+453451	Objc
+453466	Subj
+453493	Objc
+453504	Objc
+453519	Objc
+453528	Objc
+453530	Objc
+453533	Objc
+453538	Pred
+453558	Subj
+453566	Pred
+453569	Pred
+453571	Pred
+453578	Objc
+453612	Objc
+453685	Objc
+453710	Objc
+Subj
+453722	Pred
+453741	Pred
+453747	Subj
+453751	Subj
+453753	Pred
+453756	Subj
+Pred
+453763	Objc
+453767	Subj
+453777	Objc
+453781	Objc
+453792	Objc
+453814	Objc
+453820	Objc
+453837	Subj
+453839	Pred
+453849	Subj
+453851	Cmpl
+453854	Subj
+453866	Subj
+453920	Subj
+453923	Pred
+453947	Pred
+453985	Subj
+453996	Subj
+454003	Subj
+454018	Objc
+454047	Subj
+454049	Objc
+454062	Cmpl
+454066	Subj
+454074	Objc
+454079	Subj
+454085	Subj
+454089	Subj
+454095	Subj
+454100	Pred
+454115	Cmpl
+454195	Objc
+454216	Objc
+454223	Subj
+454343	Subj
+454350	Pred
+454353	Subj
+454359	Pred
+454377	Subj
+454383	Objc
+454455	Pred
+454465	Objc
+454481	Pred
+454512	Subj
+454515	Subj
+454525	Subj
+454527	Pred
+454535	Objc
+454538	Objc
+454542	Objc
+454560	Objc
+454568	Objc
+454573	Subj
+454594	Subj
+454615	Pred
+454637	Objc
+454681	Subj
+454692	Pred
+454741	Objc
+454751	Pred
+454757	Cmpl
+454784	Pred
+454789	Subj
+Pred
+454815	Subj
+454846	Pred
+454859	Objc
+454865	Pred
+454877	Objc
+454879	Subj
+454886	Objc
+454888	Objc
+454897	Subj
+454911	Subj
+454932	Subj
+454938	Subj
+454944	Subj
+454956	Objc
+454987	Pred
+455011	Subj
+455013	Subj
+455019	Objc
+455022	Pred
+455028	Subj
+455042	Subj
+455059	Cmpl
+455083	Cmpl
+455092	Objc
+455101	Objc
+455110	Objc
+455119	Objc
+455131	Objc
+455146	Objc
+455170	Cmpl
+455174	Subj
+455178	Objc
+455188	Subj
+Objc
+455209	Objc
+455212	Subj
+455214	Pred
+455219	Cmpl
+455222	Objc
+455242	Objc
+455246	Objc
+455256	Pred
+455259	Objc
+455286	Pred
+455289	Pred
+455321	Objc
+455356	Subj
+455369	Objc
+455371	Subj
+455377	Objc
+455385	Subj
+455391	Objc
+455395	Subj
+Pred
+455402	Cmpl
+455418	Objc
+455426	Objc
+455455	Objc
+455459	Subj
+455482	Pred
+455487	Objc
+455510	Subj
+455536	Objc
+455546	Objc
+455593	Objc
+455602	Subj
+455617	Objc
+455625	Objc
+455632	Pred
+455639	Pred
+455652	Pred
+455655	Subj
+455665	Objc
+455697	Objc
+455699	Objc
+455709	Pred
+455720	Objc
+455724	Objc
+455746	Subj
+Objc
+455750	Objc
+455771	Pred
+455779	Pred
+455786	Objc
+Subj
+455793	Subj
+455816	Cmpl
+455822	Objc
+455828	Subj
+455841	Objc
+455859	Subj
+455864	Pred
+455872	Subj
+Pred
+455935	Pred
+455954	Objc
+455965	Subj
+455985	Objc
+455991	Subj
+456014	Objc
+Cmpl
+456033	Objc
+456037	Objc
+456054	Objc
+456060	Subj
+456071	Subj
+456076	Objc
+456121	Objc
+456129	Subj
+456141	Subj
+456144	Objc
+456151	Pred
+456155	Subj
+456160	Objc
+456167	Objc
+456183	Subj
+456197	Objc
+456210	Subj
+456236	Objc
+456250	Objc
+456263	Subj
+456278	Subj
+456308	Subj
+456321	Subj
+456341	Pred
+456362	Subj
+456374	Subj
+456377	Subj
+456389	Pred
+456392	Subj
+456397	Subj
+456414	Subj
+456444	Subj
+456473	Objc
+456506	Objc
+456508	Objc
+456510	Objc
+456519	Objc
+456533	Pred
+456541	Objc
+456547	Objc
+456556	Subj
+456562	Subj
+456589	Objc
+456597	Subj
+Cmpl
+456602	Subj
+456608	Pred
+456614	Cmpl
+456638	Objc
+456647	Subj
+456651	Subj
+456660	Subj
+456683	Pred
+456733	Objc
+456766	Subj
+456781	Subj
+456785	Objc
+456793	Subj
+456848	Subj
+456860	Subj
+456894	Pred
+456909	Subj
+456940	Subj
+456942	Pred
+456960	Objc
+456970	Subj
+Objc
+456975	Objc
+456978	Subj
+456982	Objc
+456990	Objc
+456998	Subj
+457026	Objc
+457061	Objc
+457080	Subj
+457100	Subj
+457126	Subj
+Objc
+457184	Objc
+457200	Pred
+457218	Cmpl
+457228	Objc
+457241	Objc
+457263	Subj
+457267	Objc
+457273	Subj
+Pred
+457278	Subj
+457289	Subj
+457295	Pred
+457357	Subj
+457360	Pred
+457386	Subj
+457407	Subj
+Objc
+457450	Subj
+457464	Subj
+457475	Pred
+457485	Objc
+457513	Objc
+457525	Objc
+457542	Cmpl
+457560	Pred
+457563	Objc
+457581	Subj
+457593	Subj
+457606	Subj
+457624	Subj
+457628	Objc
+457666	Pred
+457678	Subj
+457696	Subj
+457701	Objc
+457706	Subj
+457716	Objc
+457728	Objc
+457731	Objc
+457744	Objc
+457763	Objc
+457772	Subj
+457784	Pred
+457797	Objc
+457800	Objc
+457835	Subj
+457854	Subj
+457878	Subj
+457887	Objc
+457891	Subj
+457906	Cmpl
+Pred
+457923	Objc
+457935	Subj
+457940	Subj
+457943	Objc
+457953	Subj
+457970	Pred
+457981	Objc
+457985	Pred
+458019	Pred
+458022	Subj
+458065	Subj
+458070	Objc
+458074	Cmpl
+458084	Subj
+458106	Objc
+458114	Objc
+458120	Objc
+458129	Pred
+458141	Objc
+458152	Objc
+458165	Objc
+458178	Pred
+458193	Objc
+458206	Subj
+458210	Subj
+458213	Objc
+458218	Subj
+458231	Subj
+458234	Objc
+458238	Subj
+458257	Subj
+458286	Objc
+458297	Subj
+458308	Subj
+458322	Objc
+458324	Objc
+458338	Objc
+458351	Objc
+458399	Subj
+458403	Pred
+Subj
+458437	Objc
+458444	Pred
+458469	Objc
+458483	Objc
+458495	Objc
+458503	Objc
+458506	Objc
+458543	Subj
+458554	Cmpl
+458580	Objc
+458586	Objc
+458592	Objc
+458594	Objc
+458608	Subj
+Pred
+458648	Objc
+458660	Objc
+458665	Objc
+458698	Pred
+458708	Subj
+Objc
+458767	Objc
+458786	Objc
+458798	Objc
+458805	Objc
+458820	Objc
+458843	Subj
+Cmpl
+458852	Objc
+458857	Pred
+458862	Subj
+458895	Objc
+458922	Subj
+458925	Objc
+458932	Subj
+458956	Subj
+458966	Subj
+458975	Subj
+459021	Objc
+459027	Objc
+459037	Subj
+459052	Objc
+459057	Subj
+459062	Objc
+459071	Subj
+459074	Objc
+459080	Pred
+459094	Pred
+459097	Pred
+459104	Pred
+459120	Objc
+459128	Objc
+459134	Objc
+459146	Subj
+459158	Subj
+459179	Subj
+459184	Subj
+459194	Objc
+459197	Objc
+459201	Objc
+459205	Pred
+459213	Objc
+459234	Objc
+Pred
+459249	Subj
+459253	Subj
+459280	Objc
+459284	Subj
+459288	Subj
+459334	Subj
+459348	Subj
+459380	Objc
+459400	Objc
+459408	Objc
+459415	Objc
+459427	Objc
+459429	Objc
+459437	Subj
+459444	Objc
+459447	Objc
+459449	Objc
+459473	Objc
+459486	Objc
+459496	Pred
+459512	Objc
+459528	Objc
+459531	Subj
+459536	Subj
+459540	Objc
+459559	Subj
+459566	Subj
+459569	Subj
+459579	Subj
+459590	Subj
+459626	Subj
+Pred
+459632	Subj
+Pred
+459657	Subj
+459664	Objc
+459714	Objc
+459725	Subj
+Pred
+459739	Objc
+459775	Objc
+459793	Subj
+459810	Objc
+459824	Subj
+459867	Cmpl
+459871	Subj
+459874	Cmpl
+459878	Subj
+459883	Objc
+459890	Objc
+459900	Subj
+459904	Objc
+459910	Cmpl
+459918	Objc
+459932	Subj
+459953	Objc
+460006	Objc
+460012	Subj
+460016	Objc
+460029	Subj
+460071	Subj
+460080	Objc
+460103	Objc
+460112	Subj
+460141	Subj
+460144	Objc
+460152	Subj
+460162	Subj
+Pred
+460205	Objc
+460208	Objc
+460230	Subj
+460253	Subj
+460262	Objc
+460276	Pred
+460286	Objc
+460303	Objc
+460306	Pred
+460329	Pred
+460331	Subj
+460334	Pred
+460345	Objc
+460384	Objc
+460392	Objc
+460433	Subj
+460438	Pred
+460446	Subj
+Cmpl
+460459	Objc
+460462	Objc
+460476	Objc
+460482	Objc
+460490	Objc
+460495	Cmpl
+460499	Pred
+460506	Pred
+460509	Pred
+460515	Objc
+460521	Subj
+460534	Objc
+460538	Objc
+460540	Objc
+460548	Subj
+460552	Pred
+460558	Pred
+460561	Subj
+460586	Objc
+460589	Pred
+460592	Subj
+460616	Pred
+460619	Subj
+460634	Objc
+460636	Objc
+460642	Pred
+460663	Subj
+460669	Subj
+460672	Objc
+460687	Subj
+460719	Subj
+460740	Objc
+Objc
+460746	Subj
+460773	Subj
+460777	Subj
+460780	Objc
+460782	Objc
+460797	Pred
+460806	Objc
+460808	Cmpl
+460830	Subj
+460836	Subj
+460839	Subj
+Objc
+460849	Objc
+460853	Pred
+460863	Pred
+460870	Objc
+460880	Pred
+460889	Objc
+460922	Subj
+460930	Objc
+460934	Objc
+460942	Subj
+460971	Pred
+460984	Subj
+460990	Objc
+460994	Objc
+461009	Subj
+461014	Objc
+461021	Objc
+461031	Objc
+461049	Pred
+461051	Subj
+461065	Pred
+461068	Subj
+461076	Pred
+461080	Objc
+461090	Objc
+461094	Objc
+461108	Subj
+461124	Subj
+461156	Subj
+461168	Subj
+461197	Subj
+461207	Subj
+461250	Objc
+461253	Objc
+461268	Cmpl
+461288	Subj
+461309	Subj
+461347	Pred
+Subj
+461362	Objc
+461366	Objc
+461393	Subj
+461416	Subj
+461432	Objc
+461438	Subj
+461442	Subj
+461453	Pred
+461495	Objc
+461503	Pred
+461508	Objc
+461516	Subj
+461531	Objc
+461534	Objc
+461544	Objc
+461552	Subj
+461555	Pred
+461562	Subj
+461568	Objc
+461579	Objc
+461610	Subj
+461620	Objc
+461625	Objc
+461641	Objc
+461654	Objc
+461660	Objc
+461674	Pred
+461676	Subj
+461678	Pred
+461684	Objc
+461693	Subj
+461707	Objc
+461713	Subj
+Objc
+461726	Pred
+461732	Objc
+461737	Cmpl
+Subj
+461758	Objc
+461767	Pred
+461770	Subj
+461776	Subj
+461778	Cmpl
+461781	Objc
+461793	Objc
+461851	Objc
+461856	Pred
+461859	Pred
+461863	Pred
+461900	Objc
+461907	Pred
+461924	Objc
+461930	Subj
+461938	Subj
+461952	Subj
+461958	Pred
+461976	Subj
+461984	Subj
+461994	Subj
+461997	Subj
+462005	Objc
+462014	Subj
+462023	Pred
+462054	Subj
+462064	Subj
+462067	Subj
+462101	Pred
+462109	Subj
+462122	Objc
+462172	Subj
+462176	Subj
+462190	Subj
+462195	Objc
+462221	Subj
+462233	Subj
+462242	Pred
+462250	Objc
+462253	Objc
+462260	Objc
+462275	Objc
+Pred
+462287	Subj
+462290	Subj
+462312	Objc
+462323	Objc
+462340	Subj
+462352	Objc
+462363	Pred
+462366	Pred
+462373	Objc
+462377	Objc
+462381	Objc
+462396	Objc
+462404	Objc
+462408	Subj
+462413	Pred
+462418	Subj
+462433	Pred
+462447	Pred
+462450	Subj
+462454	Pred
+462467	Pred
+462472	Objc
+462485	Pred
+Subj
+462489	Objc
+462507	Subj
+462509	Objc
+462516	Subj
+462528	Subj
+462532	Subj
+462537	Subj
+462561	Pred
+462586	Pred
+462600	Objc
+462621	Subj
+462628	Cmpl
+Objc
+462636	Objc
+462642	Pred
+462655	Objc
+462666	Subj
+462682	Subj
+462688	Subj
+462692	Cmpl
+462695	Objc
+462715	Pred
+462721	Subj
+462750	Subj
+462757	Subj
+462785	Subj
+462819	Subj
+462825	Objc
+462837	Subj
+462864	Objc
+462871	Pred
+Subj
+462878	Subj
+462909	Objc
+462927	Objc
+462931	Objc
+462934	Objc
+462950	Subj
+462956	Objc
+462965	Objc
+462976	Subj
+462992	Subj
+463005	Subj
+463014	Objc
+463033	Subj
+Subj
+463042	Objc
+463059	Pred
+463063	Objc
+463083	Objc
+463100	Objc
+463109	Subj
+463117	Objc
+463133	Objc
+463137	Objc
+463150	Objc
+463163	Objc
+463179	Objc
+463198	Objc
+463208	Pred
+463219	Objc
+463227	Objc
+463238	Objc
+463243	Objc
+463247	Objc
+463250	Objc
+463265	Subj
+463273	Subj
+463298	Subj
+463302	Subj
+463313	Objc
+463316	Cmpl
+463325	Subj
+463340	Subj
+463348	Objc
+463380	Objc
+463383	Pred
+463425	Objc
+463427	Pred
+463430	Subj
+463450	Subj
+463455	Subj
+463469	Pred
+463473	Subj
+463476	Objc
+463515	Subj
+463517	Pred
+463524	Objc
+463528	Objc
+463532	Objc
+463544	Subj
+463563	Objc
+463597	Subj
+463600	Objc
+463607	Pred
+463617	Objc
+463619	Objc
+463622	Objc
+463632	Objc
+463637	Objc
+463652	Objc
+463655	Objc
+463662	Objc
+Subj
+463666	Subj
+463678	Objc
+463687	Subj
+463703	Objc
+463705	Objc
+463707	Objc
+463713	Objc
+463717	Objc
+463723	Objc
+463726	Objc
+463731	Objc
+463736	Objc
+463757	Subj
+463771	Subj
+463775	Objc
+463777	Subj
+463779	Objc
+463786	Subj
+463788	Objc
+463799	Objc
+463830	Objc
+463859	Objc
+463871	Objc
+463881	Subj
+463892	Pred
+463895	Pred
+463905	Objc
+463914	Cmpl
+463937	Objc
+463942	Subj
+463954	Objc
+463973	Objc
+Cmpl
+463979	Subj
+463991	Objc
+464003	Subj
+464009	Subj
+464020	Objc
+464029	Objc
+464032	Objc
+464064	Objc
+464124	Subj
+464134	Objc
+464139	Subj
+464141	Objc
+464155	Subj
+464157	Objc
+464171	Objc
+464175	Objc
+464182	Subj
+464185	Pred
+464189	Subj
+464193	Objc
+464201	Objc
+464209	Subj
+Pred
+464215	Subj
+464219	Subj
+464224	Subj
+464227	Subj
+464257	Objc
+464262	Objc
+464266	Objc
+464273	Pred
+464287	Subj
+464302	Objc
+464307	Subj
+464316	Subj
+464323	Subj
+464329	Objc
+464339	Objc
+464345	Objc
+464357	Cmpl
+464359	Pred
+464362	Cmpl
+464368	Objc
+464374	Subj
+464379	Objc
+464408	Objc
+464445	Objc
+464449	Objc
+464454	Subj
+464467	Objc
+464496	Subj
+464501	Subj
+464512	Cmpl
+464521	Objc
+464530	Subj
+464537	Subj
+Objc
+464550	Subj
+464582	Subj
+464589	Subj
+464598	Subj
+464607	Subj
+464615	Subj
+464621	Subj
+464626	Objc
+464630	Subj
+464634	Subj
+464640	Subj
+464670	Subj
+464685	Subj
+464689	Subj
+464711	Pred
+464722	Pred
+464735	Subj
+464748	Subj
+Objc
+464754	Objc
+464765	Objc
+464772	Pred
+464781	Pred
+464787	Objc
+464828	Objc
+464830	Objc
+464832	Subj
+464836	Subj
+464860	Objc
+464877	Subj
+464883	Subj
+464894	Objc
+464902	Cmpl
+464916	Pred
+464926	Subj
+Objc
+464943	Objc
+464948	Subj
+464966	Objc
+464972	Objc
+464993	Objc
+464998	Pred
+465015	Pred
+465031	Subj
+465038	Subj
+465050	Subj
+465062	Objc
+465067	Subj
+465078	Objc
+465082	Subj
+465085	Subj
+465097	Objc
+465105	Objc
+465110	Subj
+465116	Subj
+465129	Subj
+465152	Subj
+465159	Subj
+465170	Objc
+465176	Pred
+465189	Subj
+465196	Objc
+465205	Subj
+465208	Subj
+465217	Objc
+465227	Pred
+465231	Objc
+465239	Objc
+465248	Objc
+465254	Subj
+465265	Subj
+465272	Subj
+465274	Pred
+465279	Subj
+Objc
+465286	Subj
+465288	Pred
+465293	Subj
+465301	Objc
+465305	Objc
+465316	Subj
+465332	Objc
+Subj
+465342	Objc
+465369	Subj
+465389	Objc
+465400	Objc
+465425	Subj
+465444	Subj
+465455	Subj
+465468	Pred
+465521	Subj
+465524	Pred
+465532	Pred
+465534	Objc
+465541	Subj
+465544	Objc
+465551	Objc
+465557	Subj
+465564	Objc
+465568	Objc
+465595	Subj
+465600	Subj
+465619	Objc
+465647	Objc
+465672	Objc
+Subj
+465690	Subj
+465706	Subj
+465734	Subj
+465738	Subj
+465751	Subj
+465753	Pred
+465756	Objc
+465773	Objc
+465780	Subj
+465797	Objc
+465804	Objc
+465817	Subj
+Objc
+465831	Subj
+465833	Objc
+465837	Subj
+465848	Subj
+465853	Objc
+465872	Objc
+465876	Objc
+465881	Subj
+465900	Subj
+465904	Subj
+465911	Subj
+465921	Subj
+465925	Objc
+465940	Subj
+465947	Subj
+465959	Objc
+465967	Subj
+465972	Pred
+465994	Subj
+465997	Subj
+Objc
+466007	Subj
+466022	Objc
+466026	Objc
+466032	Cmpl
+466109	Subj
+466168	Subj
+466205	Objc
+466222	Pred
+466236	Subj
+466309	Subj
+466313	Pred
+466317	Objc
+466342	Subj
+Pred
+466346	Subj
+466348	Pred
+466353	Subj
+466356	Subj
+466359	Subj
+466386	Objc
+466397	Subj
+466413	Pred
+Subj
+466422	Objc
+466433	Objc
+466446	Subj
+466471	Objc
+466485	Objc
+466498	Pred
+466512	Objc
+466521	Objc
+466535	Objc
+466563	Subj
+466568	Objc
+466580	Objc
+466582	Objc
+466585	Pred
+466590	Objc
+466592	Objc
+466594	Objc
+466642	Subj
+466670	Subj
+Objc
+466690	Pred
+466706	Cmpl
+466712	Subj
+Objc
+466721	Objc
+466758	Subj
+466766	Cmpl
+466770	Objc
+466773	Pred
+466778	Objc
+466787	Cmpl
+466789	Cmpl
+466792	Cmpl
+466798	Subj
+466829	Objc
+Objc
+466852	Subj
+Pred
+466856	Subj
+Pred
+466861	Subj
+Pred
+466871	Pred
+466902	Objc
+466912	Objc
+466919	Objc
+466933	Subj
+466941	Subj
+466947	Cmpl
+466966	Subj
+466977	Pred
+466981	Objc
+466997	Pred
+467010	Subj
+Objc
+467023	Objc
+467030	Subj
+467034	Objc
+467063	Cmpl
+467075	Subj
+467086	Objc
+467092	Objc
+467107	Subj
+467117	Objc
+467126	Subj
+467130	Subj
+467139	Pred
+467197	Subj
+467213	Objc
+467219	Subj
+467222	Subj
+467232	Pred
+467234	Subj
+467238	Objc
+467246	Subj
+Subj
+467253	Subj
+467260	Cmpl
+Objc
+467267	Objc
+467286	Objc
+467299	Pred
+467305	Subj
+467307	Objc
+467317	Objc
+467321	Subj
+467337	Objc
+467355	Subj
+467363	Subj
+467393	Subj
+467414	Pred
+467449	Objc
+467475	Subj
+467494	Objc
+467500	Pred
+467503	Objc
+467516	Objc
+467520	Objc
+467525	Objc
+467530	Objc
+467535	Objc
+467540	Objc
+467545	Objc
+467550	Objc
+467571	Objc
+467582	Objc
+467594	Subj
+467625	Pred
+467634	Subj
+467640	Subj
+467654	Objc
+467661	Objc
+467663	Objc
+467672	Pred
+467685	Subj
+467699	Objc
+467705	Pred
+467711	Objc
+467717	Objc
+467732	Subj
+467749	Subj
+Pred
+467754	Pred
+467758	Objc
+467760	Objc
+467765	Objc
+467770	Objc
+467773	Subj
+467784	Subj
+467787	Subj
+467797	Subj
+Objc
+467809	Objc
+467816	Cmpl
+467821	Objc
+467825	Objc
+467831	Objc
+467844	Subj
+467849	Objc
+467873	Subj
+467881	Objc
+467885	Pred
+467905	Objc
+467917	Objc
+467923	Objc
+467925	Objc
+467928	Pred
+467930	Objc
+467932	Objc
+467940	Objc
+467943	Objc
+467947	Subj
+467951	Objc
+467963	Subj
+467970	Objc
+467981	Pred
+467994	Objc
+468007	Subj
+468014	Objc
+468027	Subj
+468042	Objc
+468047	Objc
+468085	Subj
+468093	Subj
+468114	Subj
+468139	Subj
+468144	Subj
+468146	Pred
+468150	Subj
+Pred
+468169	Subj
+468174	Subj
+468189	Subj
+468199	Objc
+468236	Objc
+468242	Subj
+468262	Subj
+468267	Objc
+468302	Subj
+468310	Pred
+468319	Subj
+468321	Pred
+468329	Subj
+468342	Pred
+468352	Cmpl
+468354	Subj
+468359	Subj
+468377	Subj
+468383	Subj
+468393	Subj
+468396	Subj
+Pred
+468414	Objc
+468424	Pred
+468430	Subj
+468447	Subj
+Pred
+468453	Objc
+468461	Objc
+468476	Subj
+468478	Pred
+468520	Objc
+468532	Objc
+468536	Pred
+Subj
+468543	Objc
+468547	Subj
+468555	Pred
+468566	Subj
+468579	Subj
+468582	Pred
+468587	Objc
+468596	Subj
+468599	Subj
+468608	Pred
+468612	Objc
+468614	Pred
+468622	Objc
+468628	Pred
+468636	Objc
+468638	Pred
+468649	Subj
+Objc
+468657	Subj
+468666	Objc
+468673	Objc
+468679	Objc
+468685	Objc
+468695	Subj
+468701	Objc
+468714	Objc
+Subj
+468718	Pred
+468723	Subj
+468740	Pred
+468743	Pred
+468758	Objc
+468767	Pred
+468777	Subj
+468782	Pred
+468789	Pred
+468795	Pred
+468804	Pred
+468818	Objc
+468825	Subj
+Pred
+468830	Subj
+468837	Pred
+468850	Subj
+468853	Objc
+Objc
+468859	Objc
+Objc
+468875	Subj
+468885	Subj
+468889	Pred
+468902	Subj
+468918	Subj
+468956	Subj
+468960	Objc
+468967	Objc
+Subj
+468970	Pred
+468977	Subj
+468984	Pred
+469002	Subj
+469005	Objc
+469013	Subj
+469016	Objc
+Objc
+469021	Subj
+Pred
+469031	Objc
+469034	Pred
+469037	Subj
+469044	Subj
+469056	Objc
+469063	Objc
+Pred
+469069	Subj
+469073	Subj
+469078	Objc
+469084	Subj
+469091	Subj
+469116	Subj
+469119	Pred
+469125	Objc
+469129	Subj
+469140	Pred
+469144	Objc
+469154	Subj
+469158	Subj
+469166	Subj
+469177	Objc
+469187	Subj
+469190	Objc
+469196	Subj
+Objc
+469204	Objc
+469208	Objc
+469216	Objc
+469223	Objc
+469229	Subj
+469233	Objc
+469237	Subj
+469257	Pred
+469263	Objc
+469269	Subj
+469273	Subj
+469284	Subj
+469296	Objc
+469300	Objc
+469305	Subj
+469310	Objc
+469327	Objc
+469350	Objc
+469353	Objc
+469356	Pred
+469360	Subj
+469366	Objc
+469372	Subj
+469378	Pred
+469382	Subj
+469385	Objc
+Pred
+469400	Pred
+469405	Pred
+469413	Subj
+469417	Subj
+469422	Pred
+469432	Subj
+469435	Pred
+469441	Objc
+469444	Pred
+469464	Subj
+Pred
+469470	Subj
+469477	Objc
+469482	Objc
+469485	Subj
+469489	Subj
+469495	Objc
+469499	Subj
+469507	Pred
+Subj
+469512	Objc
+469518	Objc
+469520	Objc
+469529	Subj
+Subj
+469539	Subj
+469543	Subj
+469559	Objc
+469569	Subj
+Objc
+Objc
+469579	Pred
+469584	Subj
+469595	Objc
+469598	Subj
+469603	Subj
+469615	Subj
+469621	Subj
+469633	Subj
+Pred
+469640	Pred
+469644	Subj
+469646	Objc
+469650	Subj
+469668	Objc
+469671	Objc
+469679	Objc
+469684	Objc
+469690	Objc
+469697	Objc
+Objc
+469704	Subj
+469709	Pred
+469714	Subj
+469728	Objc
+469734	Objc
+469737	Objc
+469743	Subj
+469747	Objc
+469752	Subj
+469756	Subj
+469761	Objc
+469770	Objc
+469772	Pred
+469779	Objc
+469786	Pred
+469814	Pred
+469819	Subj
+Pred
+469836	Subj
+Pred
+469844	Objc
+469848	Subj
+469853	Subj
+469869	Objc
+469875	Objc
+469882	Subj
+469889	Subj
+469893	Objc
+Subj
+469897	Subj
+469899	Pred
+469906	Objc
+Objc
+469912	Objc
+469915	Objc
+469923	Objc
+469936	Subj
+469959	Objc
+469969	Subj
+469971	Objc
+469980	Objc
+469984	Subj
+469994	Subj
+469997	Subj
+470005	Subj
+470019	Subj
+470025	Pred
+470029	Subj
+470039	Subj
+470046	Objc
+470073	Subj
+470090	Objc
+470099	Pred
+470104	Pred
+Subj
+470143	Objc
+470152	Subj
+470159	Subj
+470191	Objc
+470194	Subj
+470224	Objc
+470254	Pred
+470261	Subj
+470266	Subj
+470274	Subj
+470289	Subj
+470308	Objc
+470311	Subj
+470346	Objc
+470352	Cmpl
+470378	Objc
+470391	Objc
+470393	Objc
+470398	Pred
+470404	Objc
+470417	Subj
+470422	Subj
+470447	Subj
+470450	Objc
+470460	Cmpl
+470478	Objc
+470490	Cmpl
+470504	Objc
+470511	Objc
+470539	Objc
+470543	Objc
+470560	Objc
+470567	Objc
+470572	Subj
+470598	Objc
+470612	Subj
+470637	Pred
+470661	Objc
+470666	Subj
+470673	Cmpl
+470687	Objc
+470704	Subj
+470708	Pred
+470716	Subj
+470739	Pred
+470742	Subj
+470769	Objc
+470783	Objc
+470791	Objc
+470838	Subj
+470840	Cmpl
+470875	Objc
+470885	Subj
+470915	Pred
+470984	Subj
+471053	Objc
+471062	Cmpl
+471083	Objc
+471092	Objc
+471099	Objc
+471108	Objc
+471125	Subj
+471127	Pred
+471131	Subj
+471140	Subj
+471144	Subj
+471152	Objc
+471158	Subj
+471163	Subj
+471167	Subj
+471183	Objc
+471211	Objc
+471247	Subj
+471249	Pred
+471254	Subj
+471257	Pred
+471260	Cmpl
+471270	Objc
+471328	Objc
+471341	Objc
+471351	Objc
+471373	Subj
+Cmpl
+471387	Pred
+471394	Cmpl
+471414	Objc
+471424	Objc
+471434	Pred
+471444	Subj
+Objc
+471451	Objc
+471459	Objc
+471467	Subj
+Cmpl
+471481	Cmpl
+471490	Objc
+471501	Subj
+471506	Objc
+471510	Objc
+471526	Subj
+471535	Objc
+471539	Cmpl
+471550	Subj
+471552	Objc
+471577	Subj
+Cmpl
+471608	Cmpl
+471622	Objc
+471624	Objc
+471628	Subj
+471648	Subj
+471670	Subj
+471707	Objc
+471714	Subj
+471724	Cmpl
+471739	Objc
+471743	Objc
+471749	Objc
+471768	Objc
+471772	Objc
+471781	Subj
+471791	Objc
+471799	Subj
+Cmpl
+471804	Cmpl
+471823	Objc
+471846	Subj
+471880	Objc
+471883	Objc
+471901	Objc
+471909	Objc
+471924	Subj
+Cmpl
+471929	Cmpl
+471943	Objc
+471958	Objc
+471972	Objc
+471975	Objc
+471979	Objc
+472017	Objc
+472045	Objc
+472097	Subj
+Cmpl
+472102	Cmpl
+472124	Objc
+472164	Objc
+472169	Pred
+472179	Objc
+472186	Objc
+472192	Subj
+472199	Objc
+472227	Objc
+472231	Objc
+472268	Subj
+Cmpl
+472281	Subj
+472320	Subj
+472327	Pred
+472329	Subj
+472335	Subj
+472342	Pred
+472345	Subj
+472358	Subj
+472363	Pred
+472369	Pred
+472371	Subj
+472385	Subj
+472394	Subj
+472399	Subj
+472403	Subj
+472405	Objc
+472410	Subj
+472417	Subj
+472423	Objc
+472453	Subj
+472470	Subj
+472489	Objc
+472512	Objc
+472530	Objc
+472541	Subj
+472547	Objc
+472550	Objc
+472555	Subj
+472567	Objc
+472575	Subj
+472578	Objc
+472584	Subj
+472631	Pred
+472658	Objc
+472677	Pred
+472683	Objc
+472689	Objc
+472692	Objc
+472699	Cmpl
+472703	Objc
+472711	Cmpl
+472727	Objc
+472738	Subj
+472752	Objc
+472807	Subj
+472814	Subj
+472824	Subj
+Objc
+472832	Subj
+472848	Subj
+472869	Objc
+472874	Subj
+472881	Subj
+472892	Objc
+472900	Subj
+472906	Objc
+472911	Subj
+472922	Subj
+472943	Subj
+472946	Subj
+472959	Objc
+472964	Subj
+472976	Subj
+472984	Subj
+472987	Subj
+473013	Objc
+473018	Objc
+473048	Objc
+473059	Cmpl
+Subj
+473068	Subj
+473082	Subj
+473090	Objc
+473096	Subj
+473099	Subj
+473104	Subj
+473109	Subj
+473116	Objc
+473123	Subj
+473128	Subj
+473189	Subj
+473202	Subj
+473209	Objc
+473229	Subj
+473233	Objc
+473239	Cmpl
+473260	Objc
+473288	Subj
+473292	Subj
+473296	Subj
+473300	Subj
+473304	Subj
+473308	Subj
+473312	Subj
+473316	Subj
+473320	Subj
+473324	Subj
+473328	Subj
+473332	Subj
+473340	Subj
+473359	Objc
+473362	Pred
+473371	Subj
+473386	Subj
+473406	Objc
+473424	Cmpl
+473434	Subj
+473443	Objc
+473468	Objc
+473481	Pred
+473528	Subj
+Objc
+473538	Objc
+473549	Objc
+473557	Subj
+473562	Subj
+473569	Objc
+473573	Subj
+473591	Subj
+473606	Subj
+Objc
+473633	Objc
+473640	Subj
+473657	Subj
+473662	Subj
+473667	Subj
+473672	Subj
+473677	Subj
+473687	Subj
+473692	Subj
+473704	Subj
+473710	Subj
+473718	Subj
+473738	Subj
+473741	Pred
+473746	Subj
+473749	Pred
+473753	Subj
+473762	Subj
+473782	Subj
+473787	Subj
+473792	Subj
+473800	Subj
+473825	Subj
+473838	Subj
+473848	Objc
+473857	Subj
+473881	Subj
+473900	Objc
+473903	Objc
+473920	Subj
+473922	Pred
+473934	Subj
+Objc
+473945	Subj
+473951	Subj
+473959	Pred
+473962	Subj
+473967	Subj
+473969	Pred
+473973	Objc
+473978	Subj
+473980	Pred
+473983	Objc
+473988	Subj
+473992	Pred
+474009	Pred
+474012	Subj
+474016	Objc
+474028	Subj
+474035	Subj
+474040	Subj
+474045	Subj
+474050	Objc
+474068	Objc
+474096	Objc
+474102	Subj
+474107	Pred
+474110	Objc
+474116	Objc
+474124	Objc
+474132	Subj
+474135	Pred
+474152	Subj
+474171	Subj
+474186	Subj
+474197	Subj
+474256	Subj
+474265	Subj
+Pred
+474271	Subj
+474273	Pred
+474277	Subj
+474279	Pred
+474286	Objc
+474293	Objc
+474301	Objc
+474315	Subj
+474317	Objc
+474324	Subj
+474337	Subj
+474345	Subj
+474355	Objc
+474405	Subj
+474418	Subj
+474453	Objc
+474465	Objc
+474479	Objc
+474497	Subj
+474544	Cmpl
+474547	Objc
+474556	Cmpl
+474592	Objc
+474606	Objc
+474608	Objc
+474624	Objc
+474635	Objc
+474654	Subj
+474656	Pred
+474668	Subj
+474675	Subj
+474681	Objc
+474689	Subj
+474708	Subj
+474725	Subj
+474736	Subj
+474744	Subj
+474758	Subj
+474767	Subj
+474771	Subj
+474785	Subj
+474788	Cmpl
+474793	Subj
+474798	Subj
+474804	Subj
+474809	Subj
+474815	Subj
+474850	Objc
+474869	Objc
+474879	Subj
+474883	Subj
+474887	Subj
+474895	Objc
+474906	Objc
+474916	Objc
+474930	Subj
+474949	Subj
+474956	Objc
+474959	Subj
+Pred
+474965	Pred
+474968	Subj
+474984	Subj
+474991	Subj
+474999	Pred
+475002	Subj
+475006	Subj
+475008	Objc
+475020	Subj
+475031	Objc
+475040	Objc
+475047	Subj
+475059	Subj
+475064	Objc
+475101	Subj
+475123	Objc
+475131	Subj
+475138	Subj
+475188	Objc
+475209	Subj
+475212	Objc
+475216	Objc
+475222	Subj
+475227	Objc
+475230	Objc
+475234	Cmpl
+Subj
+475260	Subj
+475274	Subj
+Objc
+475279	Subj
+Objc
+475284	Objc
+475287	Subj
+475295	Subj
+475310	Objc
+475315	Objc
+475339	Pred
+475342	Subj
+475345	Pred
+475348	Subj
+475353	Subj
+475359	Subj
+475361	Pred
+475364	Subj
+475366	Pred
+475371	Subj
+475384	Objc
+475393	Subj
+475402	Subj
+475408	Objc
+475411	Objc
+Cmpl
+475415	Objc
+475428	Subj
+475440	Objc
+475479	Subj
+475486	Subj
+475520	Subj
+475531	Subj
+475537	Objc
+Objc
+475546	Objc
+475568	Subj
+475575	Objc
+475605	Cmpl
+475609	Objc
+475619	Cmpl
+475625	Subj
+475635	Objc
+475696	Subj
+475701	Objc
+475706	Pred
+475710	Subj
+475720	Subj
+475726	Pred
+Subj
+475752	Objc
+475757	Objc
+475761	Subj
+475764	Pred
+475772	Objc
+475787	Objc
+475809	Objc
+475833	Subj
+475836	Objc
+475858	Objc
+475863	Subj
+475898	Objc
+475929	Subj
+475959	Subj
+475980	Objc
+475986	Subj
+476015	Subj
+476024	Subj
+476034	Subj
+476039	Subj
+476046	Objc
+476052	Objc
+476056	Subj
+476069	Objc
+476075	Subj
+476079	Subj
+476090	Objc
+476096	Subj
+476100	Subj
+476108	Subj
+Objc
+476127	Objc
+476134	Objc
+476140	Objc
+476147	Subj
+476153	Subj
+Objc
+476161	Objc
+476178	Subj
+476204	Subj
+Objc
+476211	Subj
+476220	Subj
+476244	Objc
+476264	Subj
+476275	Subj
+476289	Objc
+476296	Subj
+476303	Subj
+476313	Subj
+476328	Objc
+476334	Objc
+476340	Objc
+476344	Subj
+476348	Cmpl
+476350	Objc
+476354	Objc
+476368	Subj
+476385	Subj
+476394	Subj
+476397	Cmpl
+476403	Objc
+476415	Subj
+476418	Objc
+476425	Subj
+476434	Objc
+476440	Objc
+476445	Subj
+Objc
+476454	Pred
+476467	Subj
+Objc
+476484	Subj
+476503	Objc
+476515	Subj
+476525	Subj
+476530	Subj
+Objc
+476539	Objc
+476545	Subj
+476550	Objc
+476556	Objc
+476566	Subj
+Objc
+476577	Subj
+476584	Objc
+476590	Objc
+476609	Subj
+Objc
+476620	Subj
+476624	Subj
+476650	Subj
+476690	Objc
+476697	Objc
+476710	Subj
+Objc
+476718	Subj
+476735	Subj
+476742	Subj
+476747	Subj
+476754	Subj
+476760	Subj
+476765	Objc
+476777	Subj
+476783	Subj
+476793	Subj
+Objc
+476801	Subj
+476807	Subj
+476814	Objc
+476823	Objc
+476836	Subj
+476863	Objc
+476873	Subj
+476886	Objc
+476920	Subj
+476936	Objc
+476940	Subj
+476945	Objc
+476967	Subj
+476990	Subj
+476999	Objc
+477016	Subj
+477018	Pred
+477020	Subj
+477025	Pred
+477029	Subj
+477031	Subj
+477034	Subj
+477052	Subj
+477055	Pred
+477063	Subj
+477080	Objc
+477083	Objc
+477087	Cmpl
+477096	Subj
+477106	Subj
+477115	Subj
+477120	Subj
+477137	Objc
+477147	Objc
+477155	Subj
+477161	Objc
+477165	Objc
+477168	Objc
+477170	Cmpl
+477173	Subj
+477179	Subj
+477197	Subj
+477201	Objc
+477204	Subj
+477218	Subj
+477245	Subj
+477249	Subj
+477255	Subj
+477267	Subj
+477289	Subj
+477295	Subj
+Objc
+477303	Subj
+477306	Objc
+477323	Objc
+477379	Objc
+477406	Subj
+477411	Subj
+477473	Subj
+477482	Subj
+477534	Subj
+477555	Objc
+477588	Subj
+477591	Objc
+477614	Subj
+Objc
+477622	Subj
+477624	Objc
+477645	Subj
+477654	Subj
+477661	Subj
+477666	Subj
+477671	Subj
+477679	Subj
+477681	Pred
+477690	Subj
+477695	Subj
+477708	Subj
+477723	Pred
+477729	Subj
+477734	Objc
+477739	Objc
+477745	Objc
+477758	Subj
+477794	Objc
+477841	Objc
+477845	Subj
+477850	Subj
+477858	Objc
+477862	Subj
+Pred
+477883	Pred
+477903	Pred
+477911	Objc
+477914	Objc
+477917	Subj
+477919	Pred
+477927	Subj
+477932	Subj
+477951	Subj
+477953	Pred
+477956	Pred
+477959	Subj
+477970	Objc
+477974	Subj
+477976	Pred
+477990	Objc
+477999	Subj
+478003	Objc
+478011	Objc
+478044	Subj
+478052	Cmpl
+478107	Objc
+478122	Subj
+478130	Objc
+478137	Objc
+478143	Objc
+478148	Subj
+478161	Subj
+478177	Subj
+478231	Objc
+478234	Subj
+478255	Objc
+478278	Objc
+478297	Subj
+478302	Subj
+478306	Pred
+478323	Subj
+478328	Pred
+478343	Subj
+478347	Subj
+478370	Subj
+478373	Pred
+478471	Subj
+478473	Pred
+478477	Subj
+478491	Subj
+478565	Subj
+478583	Cmpl
+478589	Subj
+478596	Subj
+478599	Pred
+478607	Pred
+478610	Subj
+478612	Pred
+478616	Objc
+478623	Subj
+478632	Subj
+478647	Subj
+478702	Subj
+478704	Pred
+478712	Pred
+478719	Subj
+478731	Objc
+478768	Objc
+478773	Subj
+478784	Objc
+478789	Objc
+478793	Pred
+478795	Subj
+478800	Pred
+478807	Pred
+Subj
+478811	Pred
+Subj
+478815	Pred
+Subj
+478819	Pred
+Subj
+478825	Subj
+478828	Objc
+478831	Pred
+Subj
+478860	Subj
+478863	Subj
+478866	Subj
+478870	Objc
+478877	Subj
+478887	Objc
+478898	Subj
+478905	Subj
+Pred
+478911	Subj
+478921	Subj
+478925	Subj
+478927	Subj
+478929	Subj
+478931	Subj
+478933	Subj
+478935	Subj
+478937	Subj
+478939	Subj
+478941	Subj
+478943	Subj
+478945	Subj
+478950	Subj
+478952	Pred
+478954	Subj
+478957	Pred
+478962	Subj
+478965	Pred
+478981	Pred
+478988	Subj
+Objc
+478999	Subj
+479004	Subj
+479006	Pred
+479010	Subj
+479017	Subj
+479020	Objc
+479027	Subj
+479035	Objc
+479047	Subj
+479068	Subj
+479083	Pred
+479092	Subj
+479096	Objc
+479100	Objc
+479104	Subj
+479107	Pred
+479113	Subj
+479118	Subj
+479124	Pred
+479129	Subj
+479133	Objc
+479137	Subj
+479139	Pred
+479149	Objc
+479170	Subj
+479183	Objc
+479186	Cmpl
+479198	Objc
+479236	Pred
+479246	Objc
+479251	Objc
+479256	Objc
+479264	Subj
+479273	Subj
+479277	Subj
+479280	Subj
+479286	Subj
+479288	Pred
+479292	Subj
+479314	Objc
+479319	Subj
+479321	Pred
+479350	Objc
+479357	Pred
+479391	Objc
+479394	Cmpl
+479397	Objc
+479409	Subj
+479431	Subj
+Objc
+479463	Subj
+479467	Pred
