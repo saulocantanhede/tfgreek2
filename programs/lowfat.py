@@ -262,8 +262,31 @@ def getDirector(self):
 
         (curNode, extraNode) = (None, None)
 
+        extraType = None
+
         if tag == "word":
             atts["text"] = xnode.text
+
+            #generate phrase container for all the words as an extra node
+            extraType = "phrase"
+            
+            #obtaining class and role of word attributes for the phrase container
+            cls = atts.get("cls", None)
+            role = atts.get("role")
+            
+            if cls in type_features:
+                atts["typ"] = type_features[cls]
+            
+            if role in role_features:
+                atts["function"] = role_features[role]
+            
+            if role == "apposition":
+                atts["rela"] = "Appo"
+            
+            #save word attributes as features for the extra nodes
+            extraNode = cv.node(extraType)
+            if len(atts):
+                cv.feature(extraNode, **atts)     
 
             ref = atts["ref"]
             (bRef, chRef, vRef, wRef) = SPLIT_REF.split(ref)
@@ -325,7 +348,6 @@ def getDirector(self):
                     cur["frameEdges"].append((curNode, xIds, label))
 
         else:
-            extraType = None
 
             if tag == "book":
                 cur["bookNum"] += 1
@@ -347,14 +369,14 @@ def getDirector(self):
                 rule = atts.get("rule")
                 if cls is not None:
                     if cls == "cl":
-                        extraType = "clause"
+                        extraType = "clause" #generate clause container from the wg tag
                         
                         #atts["typ"] = cltype
                         #atts["typ"] = clauseType
                         #atts["typ"] = rule
                         
                     else:
-                        extraType = "phrase"
+                        extraType = "phrase" #generate phrase container for the words within the wg tag
                         
                         if cls in type_features:
                             atts["typ"] = type_features[cls]
