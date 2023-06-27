@@ -19,11 +19,15 @@ provenanceSpec:
   corpus: '{org} - {repo}{relative}'
   doi: 10.5281/zenodo.notyet
   moduleSpecs: []
-  version: 0.5.0
+  version: 0.4.0
   webBase: https://public.{org}.org/{repo}
   webHint: Show this on the website
   webLang: en
   webUrl: '{webBase}/<1>/<2>/<3>&version={version}'
   webUrlLex: '{webBase}/word?version={version}&id=<lid>'
-typeDisplay: {}
-writing: ''
+typeDisplay:
+  sentence:
+    condense: true
+  w:
+    featuresBare: num
+writing: grc
