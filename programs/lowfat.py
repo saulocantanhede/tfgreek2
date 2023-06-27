@@ -267,26 +267,45 @@ def getDirector(self):
         if tag == "word":
             atts["text"] = xnode.text
 
-            #generate phrase container for all the words as an extra node
-            extraType = "phrase"
-            
+            #atts_phrase={} #saving only specific features in the features of the phrase
+            atts_phrase=atts #saving all features of the words in the features of the phrase
+
             #obtaining class and role of word attributes for the phrase container
             cls = atts.get("cls", None)
-            role = atts.get("role")
+            role = atts.get("role", None)
+
+            #generate phrase and subphrase containers for the words as an extra node
+            if role is not None:
+                extraType = "phrase"
+
+                cur["phraseNum"] += 1 #counting the number of the phrases
+                atts_phrase["num"] = cur["phraseNum"]
+            
+            elif cls == "conj":
+                extraType = "phrase"
+            
+                cur["phraseNum"] += 1 #counting the number of the phrases
+                atts_phrase["num"] = cur["phraseNum"]
+            
+            else:
+                extraType = "subphrase"
+            
+                cur["subphraseNum"] += 1 #counting the number of the subphrases
+                atts_phrase["num"] = cur["subphraseNum"]
             
             if cls in type_features:
-                atts["typ"] = type_features[cls]
+                atts_phrase["typ"] = type_features[cls]
             
             if role in role_features:
-                atts["function"] = role_features[role]
+                atts_phrase["function"] = role_features[role]
             
             if role == "apposition":
-                atts["rela"] = "Appo"
+                atts_phrase["rela"] = "Appo"
             
             #save word attributes as features for the extra nodes
             extraNode = cv.node(extraType)
             if len(atts):
-                cv.feature(extraNode, **atts)     
+                cv.feature(extraNode, **atts_phrase)     
 
             ref = atts["ref"]
             (bRef, chRef, vRef, wRef) = SPLIT_REF.split(ref)
@@ -370,6 +389,9 @@ def getDirector(self):
                 if cls is not None:
                     if cls == "cl":
                         extraType = "clause" #generate clause container from the wg tag
+
+                        cur["clNum"] += 1 #counting the number of the clauses
+                        atts["num"] = cur["clNum"]
                         
                         #atts["typ"] = cltype
                         #atts["typ"] = clauseType
@@ -377,6 +399,9 @@ def getDirector(self):
                         
                     else:
                         extraType = "phrase" #generate phrase container for the words within the wg tag
+
+                        cur["phraseNum"] += 1 #counting the number of the phrases
+                        atts["num"] = cur["phraseNum"]
                         
                         if cls in type_features:
                             atts["typ"] = type_features[cls]
@@ -490,6 +515,9 @@ def getDirector(self):
                     cur["chapter"] = None
                     cur["verse"] = None
                     cur["sentNum"] = 0
+                    cur["clNum"] = 0 #define number of the clause
+                    cur["phraseNum"] = 0 #define number of the phrase
+                    cur["subphraseNum"] = 0 #define number of the subphrase
                     cur["xIdIndex"] = {}
                     cur["subjrefEdges"] = []
                     cur["frameEdges"] = []
