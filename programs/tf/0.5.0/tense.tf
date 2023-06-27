@@ -9,7 +9,7 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-22T03:04:21Z
+@dateWritten=2023-06-27T00:23:57Z
 
 10	aorist
 15	aorist
@@ -28368,28360 +28368,28360 @@ aorist
 137764	present
 137767	present
 137770	present
+168224	aorist
+168228	aorist
 168232	aorist
-168238	aorist
-168244	aorist
-168256	aorist
-168271	aorist
-168277	aorist
+168239	aorist
+168247	aorist
+168251	aorist
+168255	aorist
+168259	aorist
+168263	aorist
+168267	aorist
+168273	aorist
+168279	aorist
 168283	aorist
-168289	aorist
+168288	aorist
 168295	aorist
-168301	aorist
-168312	aorist
+168299	aorist
+168303	aorist
+168307	aorist
+168311	aorist
+168315	aorist
+168319	aorist
 168323	aorist
-168329	aorist
-168338	aorist
-168351	aorist
-168357	aorist
-168363	aorist
-168369	aorist
-168375	aorist
-168381	aorist
-168387	aorist
-168393	aorist
-168399	aorist
+168327	aorist
+168331	aorist
+168335	aorist
+168339	aorist
+168343	aorist
+168356	aorist
+168360	aorist
+168364	aorist
+168368	aorist
+168372	aorist
+168376	aorist
+168380	aorist
+168384	aorist
+168388	aorist
+168392	aorist
+168396	aorist
+168400	aorist
 168405	aorist
-168411	aorist
-168417	aorist
-168423	aorist
-168449	aorist
+present
+168433	imperfect
+aorist
+168439	aorist
+168441	aorist
+168443	present
+168450	present
+168453	present
 168455	aorist
-168461	aorist
+aorist
+168458	aorist
+168463	aorist
+aorist
 168467	aorist
-168473	aorist
+168469	present
+168472	aorist
+aorist
 168479	aorist
-168485	aorist
-168491	aorist
-168497	aorist
+168482	present
+future
+168487	future
+168493	future
+168501	perfect
 168503	aorist
-168509	aorist
-168515	aorist
-168527	aorist
-168530	present
-168588	imperfect
 aorist
-168601	aorist
-168603	aorist
-168607	present
-168621	present
-168624	present
-168626	aorist
+168508	present
 aorist
-168629	aorist
-168634	aorist
+168512	future
+168514	future
+168517	future
+168524	aorist
+168529	aorist
+168531	aorist
+168536	aorist
+168541	imperfect
+168545	aorist
+168548	aorist
+168554	aorist
+168561	aorist
+168564	aorist
+168566	present
+168568	present
+168571	aorist
+168574	aorist
+168581	aorist
 aorist
-168642	aorist
+168584	aorist
+168587	aorist
+168592	aorist
+168598	imperfect
+168602	present
+168605	aorist
+168612	perfect
+168620	present
+168626	future
+present
+168629	future
+168636	aorist
+168638	aorist
 168644	present
-168650	aorist
+168646	aorist
+168649	aorist
 aorist
-168663	aorist
-168668	present
-168670	future
-168674	future
-168683	future
-168700	perfect
-168702	aorist
-168704	aorist
-168713	present
 aorist
-168721	future
-168723	future
-168726	future
-168735	present
-present
-168743	aorist
-168753	aorist
+168657	aorist
+aorist
+168662	aorist
+aorist
+168667	aorist
+168669	aorist
+168671	aorist
+168674	aorist
+168677	imperfect
+168680	aorist
+aorist
+168684	imperfect
+168686	aorist
+168689	aorist
+168693	aorist
+168696	aorist
+168703	aorist
+aorist
+168707	aorist
+168710	aorist
+168715	aorist
+168718	aorist
+168722	aorist
+168726	aorist
+168729	aorist
+168731	present
+168734	present
+aorist
+aorist
+168742	present
+168745	present
+168748	aorist
+168750	present
+168753	present
 168755	aorist
-168763	aorist
-168771	imperfect
+168759	aorist
+aorist
+168767	aorist
+168770	imperfect
 168776	aorist
-168779	aorist
+aorist
+168781	present
+168783	aorist
+168788	aorist
 168790	aorist
-168806	aorist
-168811	aorist
-168815	present
-168817	present
-168821	aorist
-168827	aorist
-168840	aorist
+168793	aorist
+168796	aorist
 aorist
-168843	aorist
-168849	aorist
-168858	aorist
-168870	imperfect
+168812	aorist
+168816	aorist
+aorist
+168820	present
+168822	aorist
+168826	present
+168831	imperfect
+aorist
+168835	present
+aorist
+168839	aorist
+168841	present
+168845	present
+aorist
+aorist
+168853	present
+168856	perfect
+168858	present
+168864	aorist
+aorist
+168871	aorist
+168874	aorist
 168878	present
-168881	aorist
-168892	perfect
-168906	present
-168918	future
+168883	aorist
+168885	aorist
+aorist
+168889	aorist
+168895	aorist
+aorist
+168899	present
+168902	aorist
+aorist
+168907	future
+168912	present
+168914	present
+168919	present
 present
-168921	future
-168933	aorist
+perfect
+168928	present
+aorist
+168932	present
+168934	present
 168937	aorist
-168948	present
-168951	aorist
-168956	aorist
-aorist
-aorist
-168967	aorist
-aorist
-168972	aorist
-aorist
-168977	aorist
-168981	aorist
-168983	aorist
-168988	aorist
-168994	imperfect
+168941	present
+168947	imperfect
+168960	imperfect
+168964	imperfect
+168975	imperfect
+168979	present
+168982	aorist
+168988	present
+168991	aorist
+168995	aorist
 168997	aorist
+169001	present
 aorist
-169002	imperfect
-169006	aorist
-169011	aorist
-169017	aorist
-169023	aorist
-169037	aorist
+169009	aorist
+present
+169013	present
+169015	present
+169019	present
+169024	aorist
+169034	present
+169039	present
+169041	present
+169044	present
+169048	present
+169053	present
+169056	present
+169059	present
+169062	aorist
+169065	future
+169075	future
+169079	future
+169086	future
+169089	present
+169097	aorist
+169101	imperfect
+169103	present
+169106	present
+169108	aorist
+169111	present
+169113	aorist
+169116	aorist
+169118	aorist
+169122	present
+present
+169125	aorist
+169128	present
+169130	aorist
+169134	aorist
+169138	aorist
 aorist
-169041	aorist
-169047	aorist
-169056	aorist
-169061	aorist
-169070	aorist
-169078	aorist
-169081	aorist
-169085	present
-169092	present
+169142	aorist
+169144	present
+169147	present
+169150	aorist
+169154	present
+169156	present
+169161	aorist
+169164	aorist
+169169	aorist
+169173	aorist
+169178	aorist
+169180	aorist
+present
 aorist
+169186	present
+169188	aorist
+169193	aorist
+169196	aorist
 aorist
-169105	present
-169110	present
-169114	aorist
-169116	present
-169119	present
-169124	aorist
-169128	aorist
+perfect
+169201	future
+169207	present
+169211	present
+169218	aorist
+169225	present
+169229	present
+169231	aorist
+169234	perfect
+169239	future
+169243	future
+169247	aorist
+169251	imperfect
+169255	perfect
+169257	future
+169261	present
+169268	present
+169278	aorist
+169282	future
+169284	aorist
 aorist
-169141	aorist
-169146	imperfect
-169156	aorist
-169158	aorist
-169167	present
-169171	aorist
-169179	aorist
-169181	aorist
-169187	aorist
-169190	aorist
+169288	present
+169291	present
+169293	perfect
+169297	future
+169300	future
+169302	present
+169306	aorist
+169308	aorist
+169310	imperfect
+169312	aorist
+169316	aorist
 aorist
-169223	aorist
-169230	aorist
-169232	aorist
-169239	present
-169244	aorist
-169251	present
-169259	imperfect
+169321	aorist
+169323	aorist
 aorist
-169263	present
+169332	aorist
 aorist
-169269	aorist
-169273	present
-169283	present
-aorist
-aorist
-169296	present
-169302	perfect
-169305	present
-169315	aorist
-aorist
-169327	aorist
-169333	aorist
-169337	present
-169349	aorist
+169336	present
+169348	present
 169351	aorist
-aorist
-169357	aorist
-169368	aorist
-aorist
-169374	present
-169377	aorist
-169379	aorist
-169387	future
-169396	present
-169401	present
-169411	present
+169353	present
+169358	aorist
+169361	aorist
+169363	present
+169365	present
 present
 perfect
+169372	present
+169378	aorist
+169380	present
+169385	present
+169389	imperfect
+169393	present
+169395	present
+169398	future
+169404	aorist
+169406	aorist
+169409	aorist
+169411	aorist
 169424	present
-169426	aorist
-169433	present
-169436	present
-169442	aorist
-169449	present
-169461	imperfect
-169488	imperfect
-169496	imperfect
-169518	imperfect
+169428	aorist
+169433	aorist
+169438	aorist
+169441	imperfect
+169445	present
+169450	present
+169455	present
+169462	aorist
+169469	aorist
+169473	present
+169476	present
+present
+169479	present
+169482	aorist
+169485	aorist
+169497	aorist
+169500	aorist
+169504	aorist
+169506	aorist
+169511	aorist
+169514	imperfect
+169516	present
+169523	present
 169528	present
-169534	aorist
-169544	present
-169550	aorist
-169556	aorist
-169558	aorist
-169564	present
-169566	aorist
-169577	aorist
-present
+169531	future
+169536	future
+169543	future
+169548	future
+169556	future
+169562	future
+169564	perfect
+169568	present
+169573	present
+169575	aorist
+169578	aorist
+169580	aorist
 169583	present
+169585	present
 169587	present
-169591	present
-169602	aorist
-169621	present
-169628	present
-169632	present
-169637	present
-169641	present
-169653	present
-169656	present
-169659	present
-169664	aorist
-169667	future
-169688	future
-169695	future
+169596	aorist
+169601	present
+169608	aorist
+169610	future
+169612	present
+169616	aorist
+169618	present
+169622	present
+169627	present
+169629	aorist
+169631	present
+169633	present
+169636	present
+169644	present
+169650	aorist
+169656	aorist
+169661	aorist
+169668	aorist
+169670	aorist
+aorist
+169675	aorist
+aorist
+169678	aorist
+169680	present
+169683	aorist
+169691	aorist
+169696	aorist
+169699	aorist
+169706	aorist
 169710	future
-169715	present
-169735	aorist
-169741	imperfect
-169743	present
-169746	present
-169750	aorist
-169753	present
-169757	aorist
-169762	aorist
-169764	aorist
-169768	present
-present
+169717	aorist
+169719	aorist
+169722	future
+169727	present
+169733	aorist
+169740	aorist
+169745	aorist
+169747	aorist
+169750	future
+169753	aorist
+169755	future
+169759	present
+169763	present
+169767	future
 169771	aorist
-169776	present
-169778	aorist
-169784	aorist
-169791	aorist
-aorist
-169797	aorist
-169801	present
-169805	present
-169810	aorist
-169817	present
-169819	present
-169831	aorist
-169836	aorist
-169847	aorist
+169776	future
+169780	aorist
+169783	future
+169790	present
+169796	aorist
+169800	present
+169803	aorist
+169810	present
+169812	aorist
+169817	aorist
+present
+169827	present
+169834	aorist
+169842	future
+present
+169846	aorist
+169849	aorist
+169852	aorist
 169854	aorist
-169863	aorist
-169865	aorist
-169867	present
-aorist
-169873	present
-169877	aorist
+169856	future
+169859	present
+169863	present
+169866	aorist
+169869	aorist
+169880	present
+169882	aorist
 169885	aorist
-169888	aorist
-aorist
-perfect
-169897	future
-169908	present
-169915	present
+169887	present
+169891	aorist
+169900	aorist
+169907	present
+169909	aorist
+169912	aorist
+169914	present
+169918	aorist
 169928	aorist
-169940	present
-169945	present
-169949	aorist
-169952	perfect
-169960	future
-169968	future
-169972	aorist
-169981	imperfect
-169987	perfect
-169989	future
-169997	present
-170010	present
-170028	aorist
-170034	future
-170036	aorist
 aorist
-170040	present
-170045	present
-170047	perfect
-170055	future
-170060	future
-170062	present
-170068	aorist
-170070	aorist
-170072	imperfect
-170074	aorist
+169932	aorist
+169935	aorist
+169940	present
+169944	present
+169949	present
+169951	aorist
+169954	perfect
+aorist
+present
+169958	aorist
+169960	aorist
+169963	future
+future
+169971	present
+169974	aorist
+169981	present
+169988	present
+169995	present
+170002	aorist
+170005	present
+170007	aorist
+170009	present
+170022	present
+aorist
+170025	aorist
+170033	present
+170036	aorist
+170041	present
+170046	aorist
+170051	present
+170053	aorist
+170057	aorist
+aorist
+170065	future
+170067	present
+170070	present
+170072	aorist
+170074	present
+170076	aorist
 170078	aorist
 aorist
-170086	aorist
-170090	aorist
-aorist
-170107	aorist
-170109	aorist
-170116	present
-170143	present
-170149	aorist
-170153	present
-170162	aorist
-170167	aorist
-170171	present
-170173	present
+170081	aorist
+future
+170086	future
+170091	present
+170093	present
+170097	present
+170099	present
+170102	aorist
+170111	present
+170115	present
+170120	aorist
 present
-perfect
+170124	present
+170128	present
+170131	aorist
+170136	present
+170140	present
+future
+170151	present
+present
+170157	present
+170161	aorist
+170168	present
+170177	present
+170180	aorist
 170184	present
-170195	aorist
+170191	aorist
+170194	present
+170196	present
 170201	present
-170210	present
-170217	imperfect
-170221	present
-170223	present
-170228	future
-170236	aorist
-170240	aorist
-170243	aorist
+170204	aorist
+170208	present
+170212	present
+170220	present
+170223	future
+170227	present
+170229	future
+170234	present
+170242	perfect
+present
 170245	aorist
-170277	present
-170284	aorist
-170289	aorist
-170299	aorist
-170302	imperfect
-170310	present
-170319	present
-170328	present
-170342	aorist
-170356	aorist
-170362	present
-170368	present
+170247	present
+170249	present
+170255	present
+aorist
+170261	aorist
+170264	aorist
+170273	present
+170276	future
+170278	present
+170281	aorist
+170284	present
+170290	future
+170293	aorist
+170295	perfect
+170300	present
+170303	aorist
+170307	present
+170313	aorist
+170316	aorist
+170319	aorist
+170331	aorist
+170335	aorist
+170341	aorist
+170345	aorist
+170349	aorist
+170355	aorist
+170359	future
+170368	aorist
+170373	future
+170378	present
+170380	present
+170384	present
+170389	aorist
+170391	present
 present
-170371	present
-170375	aorist
-170378	aorist
-170401	aorist
+170394	present
+170399	present
+aorist
 170406	aorist
-170413	aorist
-170415	aorist
-170423	aorist
-170429	imperfect
-170431	present
-170442	present
-170452	present
-170455	future
-170462	future
-170468	present
-170470	present
-170476	future
-170483	future
-170497	future
-170507	future
-170510	perfect
+170408	aorist
+170410	present
+170420	present
+170423	future
+170426	present
+170433	present
+170438	present
+170446	present
+170454	present
+170458	future
+170465	present
+170469	present
+170477	future
+170483	present
+170488	future
+170495	present
+170499	present
+170501	present
+170505	future
+170508	future
+170511	future
+170514	future
 170516	present
+170518	present
+170522	present
 170525	present
-170527	aorist
-170530	aorist
+170529	aorist
 170532	aorist
-170539	present
-170543	present
-170545	present
-170560	aorist
-170570	present
-170583	aorist
-170587	future
-170591	present
-170595	aorist
-170597	present
-170604	present
-170613	present
-170615	aorist
+170537	aorist
+170540	present
+170545	aorist
+170552	present
+170554	present
+170556	present
+170563	present
+170567	present
+170572	present
+present
+aorist
+170582	present
+aorist
+170588	present
+170590	present
+170592	present
+present
+170603	aorist
+170612	present
+170616	present
 170619	present
-170621	present
-170624	present
+170625	aorist
+present
+170628	aorist
+170631	aorist
+170634	aorist
 170638	present
-170649	aorist
+perfect
+170646	present
+170648	present
+170657	future
 170661	aorist
-170670	aorist
-170684	aorist
-170686	aorist
+170666	future
+170673	present
+170675	aorist
+170679	present
+future
+170684	present
+future
+170689	present
+170704	present
+170707	future
+170710	aorist
 aorist
-170696	aorist
+170717	aorist
+170723	aorist
+170731	future
 aorist
-170699	aorist
-170702	present
-170706	aorist
-170724	aorist
-170733	aorist
-170737	aorist
-170750	aorist
-170756	future
-170769	aorist
-170771	aorist
-170774	future
-170784	present
-170790	aorist
-170805	aorist
-170815	aorist
-170817	aorist
-170822	future
-170826	aorist
-170828	future
-170834	present
-170840	present
-170847	future
-170854	aorist
-170862	future
-170869	aorist
-170872	future
-170884	present
-170896	aorist
+170740	aorist
+170744	aorist
+170751	future
+170757	aorist
+aorist
+170760	present
+170762	future
+170764	present
+170766	future
+present
+170769	future
+170773	present
+present
+170776	present
+present
+170779	present
+future
+170783	present
+170786	future
+170791	future
+170795	future
+170797	future
+170803	present
+perfect
+170806	present
+170815	future
+170817	present
+170822	present
+170824	present
+170829	present
+170833	present
+170837	aorist
+170847	present
+170852	present
+present
+170859	perfect
+170861	present
+170866	present
+present
+170869	present
+170873	present
+170879	present
+170884	future
+170886	present
+170896	present
+170901	present
 170903	present
-170908	aorist
-170921	present
-170923	aorist
-170931	aorist
-present
-170939	present
-present
-170950	present
-170962	aorist
-170980	future
-170982	present
-170987	aorist
-170991	aorist
-170997	aorist
+170906	aorist
+170910	aorist
+170914	present
+170916	present
+170919	present
+170923	future
+170926	present
+170930	future
+170936	present
+170945	future
+170954	aorist
+170959	aorist
+170964	aorist
+170967	future
+170971	aorist
+170973	present
+170975	present
+170980	present
+170985	present
+170987	future
+170990	aorist
+170996	aorist
 170999	aorist
-171001	future
-171004	present
-171010	present
-171015	aorist
-171018	aorist
-171038	present
+171002	aorist
+171005	aorist
+171010	aorist
+pluperfect
+171017	present
+171023	present
+171025	future
+171028	aorist
+171034	aorist
+171037	aorist
 171040	aorist
 171043	aorist
-171047	present
-171051	aorist
-171068	aorist
-171081	present
-171083	aorist
+171047	aorist
+171049	imperfect
+171054	aorist
+171056	aorist
+171060	imperfect
+171070	present
+171075	aorist
+171080	aorist
+171084	aorist
 171086	aorist
-171090	present
-171094	aorist
-171114	aorist
+imperfect
+171089	present
+171092	present
+present
+171095	aorist
+171097	aorist
+171099	aorist
+171101	present
+present
 aorist
+171106	aorist
+171110	present
+171113	present
+171115	aorist
+171117	present
 171119	aorist
+171122	aorist
 171125	aorist
-171130	present
+171129	aorist
+171133	aorist
 171136	present
-171147	present
-171149	aorist
-171153	perfect
-aorist
+171139	present
+171143	perfect
+171148	present
 present
-171157	aorist
-171159	aorist
-171164	future
+171152	aorist
 future
-171177	present
-171180	aorist
-171191	present
-171204	present
-171217	present
-171231	aorist
-171234	present
-171239	aorist
-171242	present
-171264	present
+171155	aorist
+171158	imperfect
+171161	present
+171167	aorist
+171170	aorist
+171173	future
+171180	present
+171182	present
+171186	present
+171188	aorist
+171190	present
+171193	present
+171195	present
+171199	aorist
+171202	present
 aorist
-171267	aorist
-171279	present
-171282	aorist
-171289	present
-171299	aorist
-171308	present
-171310	aorist
-171317	aorist
+171206	aorist
+171208	aorist
+present
+present
+171216	aorist
+present
+171224	future
+171226	future
+171238	future
+171244	future
+171251	aorist
+171254	present
+171256	aorist
 aorist
-171328	future
-171332	present
-171338	present
-171340	aorist
-171343	present
-171347	aorist
-171349	aorist
+171260	aorist
+171266	aorist
+171271	aorist
+171276	aorist
+171280	aorist
+171284	aorist
+171286	imperfect
+171290	aorist
 aorist
-171352	aorist
-future
-171360	future
-171368	present
-171370	present
-171377	present
-171381	present
+171294	present
+171296	aorist
+171302	present
+aorist
+171305	aorist
+aorist
+171309	present
+171313	aorist
+171316	aorist
+aorist
+171322	aorist
+aorist
+171327	aorist
+171329	aorist
+171332	future
+171335	present
+171337	present
+171342	present
+171353	present
+171356	present
+171360	aorist
+171363	aorist
+171366	aorist
+171368	aorist
+171373	present
+171375	present
+171378	aorist
+171380	aorist
 171384	aorist
-171403	present
+171388	aorist
+171393	aorist
+171395	aorist
+171400	present
+171405	imperfect
+171407	aorist
+aorist
 171410	present
-171418	aorist
-171420	present
-171425	present
+171412	aorist
+present
+171415	present
+171419	present
+171422	aorist
+aorist
+171428	aorist
+171432	aorist
+present
 171435	present
-171438	aorist
-171448	present
-171458	present
-future
-171474	present
+171442	present
+171444	aorist
+171452	aorist
+171457	present
+171460	present
+171464	present
+171466	aorist
+171471	aorist
+aorist
 present
-171483	present
-171492	aorist
-171499	present
-171516	present
-171519	aorist
-171527	present
+171478	aorist
+171481	aorist
+171483	imperfect
+171490	present
+171493	imperfect
+171495	present
+171497	present
+171499	aorist
+171506	aorist
+171508	present
+171511	aorist
+aorist
+171516	aorist
+aorist
+171525	aorist
+171529	present
+aorist
+171532	aorist
+171535	aorist
+171538	present
 171540	aorist
-171547	present
-171549	present
-171557	present
-171560	aorist
-171567	present
-171574	present
-171592	present
-171598	future
-171602	present
-171604	future
-171611	present
-171627	perfect
+171543	aorist
+171548	aorist
+171550	aorist
+171552	aorist
+171557	aorist
+171559	aorist
+171561	aorist
+171566	aorist
+imperfect
+171571	perfect
+171573	aorist
+171577	aorist
+171579	present
+171581	present
+171585	aorist
+171588	aorist
+171591	present
+171593	perfect
+171597	aorist
+171600	present
+171607	present
+171609	aorist
 present
-171630	aorist
-171635	present
-171637	present
-171646	present
+171614	aorist
+present
+171617	present
+171620	perfect
+171623	present
+171629	present
+171632	present
+171634	present
 aorist
+171639	present
+171644	aorist
+aorist
+171649	aorist
+171652	aorist
+171654	aorist
 171656	aorist
-171662	aorist
-171682	present
-171688	future
-171690	present
-171693	aorist
-171698	present
-171708	future
-171711	aorist
-171713	perfect
-171723	present
-171728	aorist
-171732	present
-171744	aorist
-171750	aorist
-171756	aorist
-171781	aorist
-171785	aorist
-171796	aorist
-171804	aorist
-171810	aorist
-171819	aorist
-171828	future
-171844	aorist
-171854	future
-171862	present
-171864	present
-171870	present
-171878	aorist
-171882	present
-171884	present
-171886	present
-171894	present
+171660	present
+171663	aorist
+171666	present
+171670	present
+171672	present
+171674	present
+171677	aorist
 aorist
-171907	aorist
-171910	aorist
-171914	present
-171935	present
-171941	future
-171944	present
-171956	present
-171960	present
-171962	present
+171681	aorist
+171683	present
+171687	aorist
+171690	aorist
+imperfect
+171697	aorist
+171699	imperfect
+171706	present
+171711	aorist
+aorist
+171714	present
 present
-171975	present
-171980	present
-171982	present
-171985	present
-171992	future
-172007	present
-172013	present
-172028	future
+171718	present
+aorist
+171721	aorist
+171723	present
+171725	present
+171730	aorist
+aorist
+171736	present
+171740	present
+171744	present
+171749	present
+171751	aorist
+171754	present
+171758	present
+171762	present
+171764	future
+171767	aorist
+171772	future
+171775	present
+171780	present
+171788	present
+171790	present
+171797	present
+171801	present
+171804	present
+171806	present
+171812	present
+171815	present
+171817	aorist
+171819	aorist
+imperfect
+171822	present
+171827	aorist
+171829	aorist
+aorist
+171835	future
+171837	aorist
+171839	imperfect
+171845	aorist
+171847	present
+171849	aorist
+171851	aorist
+171856	imperfect
+171861	aorist
+171864	future
+171867	aorist
+171869	aorist
+171871	aorist
+present
+171876	perfect
+171879	aorist
+171885	aorist
+171892	aorist
+171896	present
+imperfect
+present
+171900	aorist
+171903	present
+171905	imperfect
+171909	aorist
+171911	aorist
+aorist
+171916	aorist
+171919	aorist
+171927	present
+171930	aorist
+171932	present
+171934	present
+aorist
+171938	aorist
+171942	aorist
+171946	present
+171949	present
+171951	present
+171953	aorist
+present
+171959	aorist
+171962	present
+171966	aorist
+171969	aorist
+171973	aorist
+171976	present
+present
+171979	present
+171982	aorist
+aorist
+171991	present
+aorist
+aorist
+171996	present
+171998	aorist
+172000	aorist
+172003	aorist
+172005	present
+172007	aorist
+172013	imperfect
+172018	present
+172021	imperfect
+172027	present
+172032	present
 172037	present
-172046	future
-172058	present
-172064	present
-172068	present
-172074	future
-172079	future
-172082	future
-172087	future
-172089	present
-172091	present
+172041	aorist
+172044	aorist
+172052	present
+172055	present
+172064	aorist
+172070	aorist
+172076	aorist
+172080	aorist
+172085	present
+172088	present
 172097	present
 172100	present
-172107	aorist
-172110	aorist
-172118	aorist
-172124	present
-172135	aorist
+172121	aorist
+172125	aorist
+172127	aorist
+172129	present
+172133	aorist
+172138	aorist
+present
+172145	perfect
 172147	present
 172149	present
-172151	present
-172165	present
-172170	present
-172178	present
 present
+172152	perfect
+172156	present
+present
+172159	present
+172161	present
+172163	present
+172165	aorist
+172167	aorist
+172169	aorist
+172191	aorist
 aorist
 172196	present
-aorist
-172206	present
-172208	present
+172198	aorist
+172200	aorist
+present
+172205	aorist
 172210	present
-present
-172226	aorist
-172241	present
-172247	present
-172252	present
-172261	aorist
-present
-172264	aorist
-172267	aorist
-172270	aorist
-172278	present
-perfect
-172291	present
-172295	present
-172311	future
+172213	aorist
+172220	present
+172225	aorist
+172229	aorist
+172232	aorist
+172235	present
+172241	aorist
+172246	present
+172249	future
+172257	aorist
+172259	present
+172265	present
+172274	present
+172278	future
+172286	future
+172292	future
+172300	aorist
+172303	aorist
+172307	aorist
+future
 172315	aorist
-172325	future
-172337	present
-172340	aorist
-172347	present
-future
+172318	present
+present
+172325	present
+172327	future
+172336	future
+172340	future
+172349	aorist
+172352	future
 172355	present
-future
 172360	present
-172390	present
-172393	future
-172399	aorist
-aorist
-172412	aorist
-172424	aorist
-172438	future
-aorist
-172455	aorist
-172463	aorist
-172476	future
-172486	aorist
-aorist
-172489	present
-172491	future
-172493	present
-172495	future
-present
-172498	future
-172504	present
-present
-172508	present
-present
-172512	present
-future
-172517	present
-172523	future
-172532	future
-172538	future
-172541	future
-172547	present
+172364	present
+172367	aorist
+172372	aorist
+172377	present
+172389	aorist
+172403	aorist
+172409	aorist
+172413	present
 perfect
-172552	present
-172573	future
-172576	present
-172583	present
-172585	present
-172594	present
-172598	present
-172606	aorist
-172625	present
+172417	future
+172421	future
+172423	present
+172427	aorist
+172434	present
+aorist
+172440	present
+172442	present
+172447	present
+aorist
+present
+172452	present
+172455	aorist
+172459	present
+172464	future
+172480	present
+172482	present
+172486	future
+172490	future
+172501	aorist
+172505	future
+172515	aorist
+172517	aorist
+aorist
+172522	aorist
+aorist
+172527	aorist
+172529	aorist
+172549	present
+172553	present
+172557	present
+172561	present
+172567	present
+172571	present
+172574	present
+172577	aorist
+172580	future
+172583	aorist
+172587	future
+172589	present
+172592	present
+172595	present
+present
+aorist
+172599	present
+172604	future
+172606	present
+172611	future
+172614	aorist
+172622	present
+172625	aorist
+172629	aorist
+172631	aorist
 172633	present
-172635	present
-172645	perfect
-172650	present
+172637	aorist
+172645	aorist
+172651	aorist
+172655	aorist
 172658	present
-172660	present
+present
 172662	present
-172669	present
-172680	present
-172691	future
-172694	present
-172713	present
-172723	present
-172725	present
-172732	aorist
-172740	aorist
-172746	present
-172750	present
-172755	present
-172764	future
+172664	aorist
+172666	aorist
+172668	aorist
+aorist
+172674	present
+172677	present
+172679	present
+172682	present
+172685	present
+172688	present
+172691	present
+172694	aorist
+172698	present
+aorist
+172701	present
+172705	aorist
+172708	aorist
+172711	present
+172714	aorist
+aorist
+172718	perfect
+aorist
+172721	present
+172728	aorist
+172730	aorist
+172732	present
+172737	present
+172739	perfect
+aorist
+172742	present
+172748	future
+172752	present
+172755	perfect
 172770	present
-172774	future
-172786	present
-172804	future
-172821	aorist
-172829	aorist
-172839	aorist
-172842	future
-172846	aorist
-172848	present
-172853	present
-172861	present
-172870	present
-172872	future
+172780	present
+172783	present
+172791	aorist
+172794	present
+aorist
+172797	present
+present
+present
+present
+172802	present
+172805	future
+172809	present
+172811	present
+172815	present
+172817	present
+aorist
+172822	aorist
+aorist
+172826	aorist
+aorist
+172833	present
+172835	present
+aorist
+172840	present
+172842	present
+172844	present
+aorist
+172850	aorist
+172856	aorist
+present
+172860	aorist
+172866	aorist
 172877	aorist
-172889	aorist
-172894	aorist
-172899	aorist
+172879	aorist
+172884	aorist
+172886	present
+172890	future
+172898	future
+172900	future
 172904	aorist
-172912	aorist
-pluperfect
-172924	present
-172934	present
-172936	future
-172941	aorist
-172953	aorist
-172958	aorist
-172963	aorist
-172968	aorist
-172975	aorist
-172977	imperfect
-172985	aorist
-172987	aorist
-172996	imperfect
-173008	imperfect
-173010	present
-173014	present
-173023	aorist
-173031	aorist
-173037	aorist
-173039	aorist
-imperfect
-173042	present
-173045	present
+172906	aorist
+172908	aorist
+172912	present
+172917	future
+172925	aorist
+172927	aorist
 present
-173048	aorist
+172935	aorist
+172940	aorist
+172948	aorist
+172952	aorist
+172958	present
+172966	present
+172972	present
+172974	aorist
+present
+172978	present
+172980	perfect
+172982	future
+172984	aorist
+172989	aorist
+172992	present
+172996	future
+173008	present
+173012	aorist
+173020	aorist
+173022	aorist
+present
+173026	present
+173029	aorist
+aorist
+173032	aorist
+173035	present
+173038	present
+present
+173043	aorist
+173045	aorist
+173047	aorist
 173050	aorist
-173054	aorist
-173056	present
+173055	aorist
+173064	aorist
+173069	aorist
+173078	aorist
+173087	present
+173090	present
 present
-aorist
-173061	aorist
-173068	present
-173073	present
-173075	aorist
-173077	present
-173079	aorist
-173084	aorist
-173089	aorist
-173096	aorist
-173102	aorist
+173097	present
+173101	pluperfect
+173103	present
 173105	present
-173108	present
-173115	perfect
-173123	present
-present
+173110	aorist
+173114	present
+173120	aorist
+173122	aorist
 173127	aorist
-future
-173130	aorist
-173135	imperfect
-173138	present
-173148	aorist
-173151	aorist
-173154	future
-173167	present
-173171	present
-173177	present
-173179	aorist
-173181	present
-173184	present
-173186	present
-173193	aorist
-173196	present
-aorist
-173202	aorist
-173204	aorist
-173206	present
-173208	present
-173221	aorist
+173130	present
+173133	aorist
+173135	present
 present
-173232	future
-173234	future
-173259	future
-173270	future
-173283	aorist
-173290	present
+173138	aorist
+173140	aorist
+173144	aorist
+173147	future
+173150	future
+173154	aorist
+173158	future
+173161	future
+173164	present
+173168	present
+173171	present
+173173	present
+173175	aorist
+173179	aorist
+173181	aorist
+173185	aorist
+173189	aorist
+173193	aorist
+173196	aorist
+aorist
+173200	aorist
+173204	aorist
+173207	aorist
+173213	aorist
+173215	aorist
+aorist
+173219	present
+aorist
+173224	aorist
+173228	aorist
+173231	future
+173238	future
+173240	future
+173242	future
+173244	future
+173251	perfect
+173253	future
+173256	present
+173258	future
+173260	aorist
+173267	future
+173269	aorist
+173272	present
+173275	aorist
+173281	imperfect
+173285	imperfect
+173287	present
 173292	aorist
 aorist
-173296	aorist
+173296	present
+173304	perfect
 173308	aorist
+173312	aorist
+173314	present
 173319	aorist
-173325	perfect
+173322	future
 173327	present
 173329	aorist
-173336	aorist
-173342	aorist
-173344	imperfect
-173348	aorist
+173332	future
+173339	present
+173344	present
+173348	future
+173354	present
+173357	aorist
+173364	present
+173366	aorist
+173374	aorist
+173378	aorist
+173384	future
+173386	present
+173389	present
+173392	present
+173394	present
+173396	present
+173400	future
+173407	future
+173410	aorist
+173416	future
+173420	aorist
+173426	future
+173434	present
+173436	aorist
+173444	aorist
+173455	present
+173458	present
+173460	present
+173462	present
+173469	present
+173475	present
+173483	present
+173485	present
+173492	future
+173494	future
+173503	future
+173508	future
+173510	aorist
+173515	present
+173517	present
+173520	aorist
+173523	aorist
 aorist
-173352	present
-173355	aorist
-173365	present
-aorist
-173368	aorist
-173370	aorist
-173377	present
-173384	aorist
-173389	aorist
-aorist
-173399	aorist
-aorist
-173407	aorist
-173411	aorist
-173414	future
-173418	present
-173420	present
-173429	present
-173448	present
-173453	present
-173460	aorist
-173463	aorist
-173466	aorist
-173468	aorist
-173478	present
-173480	present
-173483	aorist
-173487	aorist
-173494	aorist
-173501	aorist
-173509	aorist
-173513	aorist
-173523	present
-173531	imperfect
-173533	aorist
-aorist
-173536	present
-173538	aorist
-present
-173541	present
-173545	present
-173548	aorist
-aorist
-173558	aorist
-173566	aorist
-present
-173569	present
-173581	present
-173583	aorist
-173599	aorist
-173605	present
+173529	present
+173533	future
+173542	imperfect
+173552	future
+173563	future
+173570	future
+173573	aorist
+173578	aorist
+173582	future
+173589	future
+173592	aorist
+173597	aorist
+173601	aorist
+173608	aorist
 173611	present
-173617	present
-173619	aorist
+173614	present
+173618	present
+173620	present
+173624	future
+173626	aorist
 173628	aorist
-aorist
 present
-173640	aorist
+present
+173632	perfect
+173634	perfect
+173636	present
+173638	present
 173645	aorist
-173647	imperfect
-173659	present
-173664	imperfect
-173666	present
-173668	present
-173670	aorist
-173682	aorist
-173684	present
-173687	aorist
+present
+173649	present
+173657	future
+173665	present
+173667	aorist
+173672	pluperfect
+173674	present
+173676	aorist
 aorist
-173695	aorist
+173681	aorist
+173688	perfect
+present
+173691	aorist
+173694	aorist
 aorist
-173713	aorist
-173721	present
+present
+173699	present
+173704	present
+173708	aorist
+173714	aorist
 aorist
-173724	aorist
-173730	aorist
-173736	present
+173723	aorist
+173734	present
 173738	aorist
-173744	aorist
-173753	aorist
-173755	aorist
-173757	aorist
-173766	aorist
-173770	aorist
-173772	aorist
+173741	imperfect
+173745	aorist
+173751	aorist
+present
+173758	pluperfect
+173760	aorist
+173764	present
+aorist
+aorist
+present
+present
+173771	present
+173775	aorist
+173779	aorist
 173781	aorist
-imperfect
-173789	perfect
-173791	aorist
-173800	aorist
-173804	present
+173785	aorist
+173790	imperfect
+173794	aorist
+173797	present
+173801	aorist
+aorist
 173806	present
-173813	aorist
-173819	aorist
-173824	present
-173826	perfect
-173835	aorist
+173808	aorist
+173811	aorist
+173815	aorist
+173818	aorist
+173822	aorist
+173828	imperfect
 173839	present
-173850	present
-173852	aorist
-present
-173860	aorist
-present
-173863	present
-173866	perfect
-173869	present
-173882	present
-173885	present
+173841	present
+173843	aorist
+173845	aorist
+173849	present
+173853	aorist
+aorist
+173857	perfect
+aorist
+173867	perfect
+173870	present
+future
+173874	future
+173878	present
+173881	present
+future
+173887	present
 173889	present
-aorist
+173891	present
+173893	present
 173897	present
+173901	present
+173903	future
 173906	aorist
+173908	present
+future
+173912	aorist
 aorist
-173915	aorist
-173920	aorist
 173922	aorist
-173927	aorist
-173935	present
-173940	aorist
-173944	present
-173951	present
-173953	present
-173955	present
-173958	aorist
+173926	aorist
+173929	aorist
+173933	aorist
+173936	aorist
+173938	aorist
+173940	future
+173947	present
+173952	present
+173954	present
+173959	aorist
 aorist
-173962	aorist
-173964	present
-173971	aorist
-173977	aorist
-imperfect
-173989	aorist
-173993	imperfect
-174009	present
-174017	aorist
+173962	present
+173965	aorist
+173967	aorist
+173969	present
+173972	aorist
+173975	aorist
+173978	aorist
+173980	present
+173986	present
+present
+173990	present
+perfect
+173996	present
+173999	aorist
+174003	aorist
+174005	present
+174007	present
+174011	present
+174014	present
+174020	present
 aorist
-174022	present
-174024	present
-174029	present
-aorist
-174032	aorist
-174034	present
-174036	present
-174042	aorist
-aorist
+174027	present
+174031	aorist
+174033	present
+174035	present
+174044	present
 174048	present
+174053	aorist
 174055	present
-174064	present
-174072	present
+174057	present
+174059	present
+174061	present
+174063	present
 174074	aorist
-174080	present
-174088	present
-174095	present
-174099	future
-174103	aorist
-174112	future
-174115	present
-174126	present
-174142	present
-174144	present
-174156	present
-174164	present
-174169	present
-174171	present
-174182	present
-174185	present
-174187	aorist
-174191	aorist
-imperfect
-174194	present
-174202	aorist
-174204	aorist
+174076	present
 aorist
-174215	future
+174082	aorist
+174089	present
+174091	aorist
+174095	aorist
+174101	aorist
+174104	aorist
+174108	aorist
+174110	aorist
+174113	aorist
+174118	aorist
+174122	aorist
+174128	present
+174132	imperfect
+174136	aorist
+174140	present
+present
+174143	aorist
+aorist
+174148	present
+174152	present
+174154	aorist
+174157	aorist
+present
+174166	future
+174168	aorist
+174172	aorist
+174176	aorist
+174180	aorist
+174185	aorist
+174187	present
+174189	present
+174195	aorist
+174197	aorist
+174204	present
+174209	aorist
+174212	present
+174214	present
 174217	aorist
-174221	imperfect
-174230	aorist
-174233	present
+174222	present
+174227	aorist
+174230	present
+174235	aorist
 174237	aorist
-174239	aorist
-174249	imperfect
+174243	aorist
+174246	aorist
+174253	imperfect
 174256	aorist
-174262	future
-174267	aorist
+aorist
+174260	present
+future
+174265	future
+perfect
 174269	aorist
 174271	aorist
+174275	aorist
+174279	present
+aorist
+174289	aorist
+aorist
 present
-174279	perfect
-174282	aorist
-174294	aorist
-174308	aorist
-174316	present
-imperfect
-present
-174321	aorist
-174326	present
-174328	imperfect
-174332	aorist
-174336	aorist
-aorist
-174344	aorist
-174349	aorist
-174365	present
-174370	aorist
-174374	present
-174376	present
-aorist
-174382	aorist
-174389	aorist
-174395	present
-174400	present
-174402	present
-174404	aorist
-present
-174410	aorist
-174416	present
-174424	aorist
-174427	aorist
-174434	aorist
-174439	present
-present
-174442	present
-174445	aorist
-aorist
-174459	present
-aorist
-aorist
-174465	present
-174467	aorist
-174471	aorist
-174476	aorist
-174480	present
-174482	aorist
-174493	imperfect
-174503	present
-174508	imperfect
-174521	present
-174530	present
-174539	present
-174547	aorist
-174552	aorist
-174558	imperfect
+174294	present
+174300	present
+174306	present
+174312	present
+174318	aorist
+174320	present
+174325	present
+174329	present
+174332	present
+174336	present
+174338	future
+174343	future
+174350	future
+174357	present
+174360	future
+174367	future
+174375	future
+174383	present
+174385	present
+174387	present
+174392	perfect
+174396	aorist
+174398	aorist
+174403	present
+174405	present
+174407	present
+174409	present
+174414	present
+174419	present
+174421	aorist
+174425	aorist
 perfect
-174561	perfect
-174566	present
-174569	present
-174585	aorist
-174595	aorist
-174605	aorist
-174613	aorist
-174621	present
-174624	present
+174429	imperfect
+174431	aorist
+174435	present
+174440	aorist
+174446	aorist
+174449	aorist
+aorist
+174454	aorist
+aorist
+174461	aorist
+174463	future
+174468	future
+174471	future
+174477	future
+174484	future
+174490	aorist
+174492	present
+174497	aorist
+174502	aorist
+174507	present
+174509	present
+174515	aorist
+174517	aorist
+174521	aorist
+174524	aorist
+174528	imperfect
+174534	present
+174537	present
+174545	present
+174551	present
+174564	present
+174570	imperfect
+174574	aorist
+174577	present
+174590	aorist
+174599	aorist
+174604	aorist
+174608	present
+174611	aorist
+174617	present
+174621	aorist
+174623	aorist
+174626	aorist
+174632	imperfect
+174637	present
+174639	present
 174642	present
-174647	present
-174698	aorist
-174705	aorist
-174709	aorist
-174711	present
-174718	aorist
+174644	aorist
+aorist
+174651	imperfect
+174654	aorist
+174656	aorist
+174663	aorist
+174667	aorist
+174669	aorist
+174671	aorist
+174674	aorist
+174678	aorist
+174680	present
+174687	aorist
+174692	present
+aorist
+aorist
+174696	aorist
+aorist
+174702	aorist
+174707	aorist
+174710	aorist
+174714	aorist
+174717	aorist
+174720	aorist
+174723	aorist
+aorist
 174726	aorist
-present
-174737	perfect
-174741	present
-174743	present
-present
-174746	perfect
-174754	present
-present
-174757	present
-174759	present
-174761	present
-174763	aorist
-174765	aorist
+174729	aorist
+174736	aorist
+174738	aorist
+174744	aorist
+aorist
+174748	aorist
+174751	aorist
+174756	aorist
+aorist
+174760	present
+174762	present
 174767	aorist
-174813	aorist
 aorist
-174820	present
-174822	aorist
-174825	aorist
+174772	aorist
+174775	aorist
+174780	aorist
+174784	present
+aorist
+aorist
+174789	aorist
+174792	present
+174795	present
+174804	aorist
 present
-174833	aorist
-174838	present
-174843	aorist
-174855	present
-174865	aorist
-174870	aorist
-174873	aorist
-174879	present
-174891	aorist
-174902	present
-174905	future
-174922	aorist
-174924	present
-174933	present
-174946	present
-174953	future
-174967	future
-174977	future
-174992	aorist
-174995	aorist
-174999	aorist
-future
-175011	aorist
-175015	present
-175017	present
-175029	present
-175033	future
-175044	future
-175050	future
-175054	future
-present
-175068	aorist
-175073	future
-175076	present
-175085	present
-175093	present
-175098	aorist
-175107	aorist
-175116	present
-175137	aorist
-175161	aorist
-175172	aorist
-175176	present
-perfect
-175180	future
-175185	future
-175187	present
-175194	aorist
-175207	present
+174810	aorist
+174812	aorist
+174815	aorist
+174821	aorist
+174824	aorist
+174826	aorist
 aorist
-175216	present
-175220	present
-175229	present
-aorist
-present
-175235	present
-175240	aorist
-175249	present
-175257	future
-175285	perfect
-present
-175289	present
-175293	present
-175299	future
-175308	future
-175330	aorist
-175337	future
-175355	aorist
-175357	aorist
-aorist
-175366	aorist
-aorist
-175371	aorist
-175373	aorist
-175412	present
-175420	present
-175425	present
-175433	present
-175439	present
-175446	present
-175451	present
-175455	aorist
-175461	future
-175465	aorist
-175474	future
-175477	present
-175480	present
-175484	present
-present
-175487	aorist
-175490	present
-175500	future
-175503	present
-175513	future
-175517	aorist
-175535	present
-175540	aorist
-175547	aorist
-175549	aorist
-175553	present
-175561	aorist
-175564	present
-175566	present
-175578	aorist
-175591	aorist
-175599	aorist
-175602	present
-175604	present
-175607	present
-175609	aorist
-175613	aorist
-175615	aorist
-aorist
-175619	present
-175621	present
-175623	present
-175626	present
-175628	present
-175631	present
-175634	present
-175637	present
-175640	present
-175644	aorist
-175650	present
-aorist
-175655	present
-175663	aorist
-175669	aorist
-175675	present
-175678	aorist
-aorist
-175685	perfect
-aorist
-175691	present
-175703	aorist
-175705	aorist
-175707	present
-175714	present
-175718	perfect
-aorist
-175721	present
-175733	future
-175743	present
-175746	perfect
-175775	present
-175797	present
-175800	present
-175815	aorist
-175818	present
-aorist
-175821	present
-175824	present
-present
-175827	present
-175829	present
-175832	future
-175839	present
-175842	present
-175849	present
-175853	present
-aorist
-175858	aorist
-aorist
-175862	aorist
-aorist
-175867	present
-175869	present
-175871	present
-175873	present
-aorist
-175882	present
-175884	present
-175886	present
-aorist
-175898	aorist
-175910	aorist
-present
-175918	aorist
-175928	aorist
-175942	aorist
-175947	aorist
-175958	aorist
-175960	present
-175966	future
-175981	future
-175985	future
-175991	aorist
-175996	aorist
-176000	aorist
-176008	present
-176015	future
-176030	aorist
-176034	aorist
-present
-176048	aorist
-176056	aorist
-176066	aorist
-176072	aorist
-176082	present
-176096	present
-176105	present
-176109	aorist
-present
-176117	present
-176119	perfect
-176121	future
-176123	aorist
-176133	aorist
-176139	present
-176146	future
-176167	present
-176175	aorist
-176193	aorist
-176195	aorist
-present
-176199	present
-176204	aorist
-aorist
-176207	aorist
-176213	present
-176216	present
-present
-176223	aorist
-176226	aorist
-176228	aorist
-176231	aorist
-176239	aorist
-176257	aorist
-176261	present
+174834	aorist
+174837	aorist
+174839	aorist
+174842	present
+174847	present
 imperfect
+174855	aorist
+174857	aorist
+174861	present
+174867	aorist
+174870	aorist
+174872	aorist
+174876	aorist
+174879	aorist
+174881	imperfect
+174889	imperfect
+present
+174893	imperfect
+174901	aorist
+174903	present
+174908	aorist
+174912	present
+aorist
+present
+174917	present
+174921	aorist
+174924	aorist
+174927	present
+present
+174930	present
+174932	present
+aorist
+174937	aorist
+174941	present
+aorist
+174944	aorist
+174950	aorist
+aorist
+174953	aorist
+174957	aorist
+174961	aorist
+174964	present
+174967	aorist
+174969	aorist
+present
+aorist
+present
+174974	aorist
+174979	aorist
+174981	aorist
+174984	present
+174988	aorist
+174990	aorist
+174994	aorist
+175000	aorist
+175002	present
+175005	present
+175007	aorist
+aorist
+175013	aorist
+175019	aorist
+175025	aorist
+175029	present
+175031	imperfect
+175035	aorist
+175042	aorist
+aorist
+175045	present
+175049	present
+175053	present
+175059	present
+175063	present
+175066	aorist
+aorist
+175071	present
+175080	aorist
+present
+175086	present
+175089	present
+175092	present
+175094	aorist
+175101	aorist
+175103	future
+175109	aorist
+175118	aorist
+175121	present
+175126	present
+175131	present
+175135	present
+175137	present
+175141	aorist
+175143	aorist
+175145	present
+175147	present
+present
+175151	present
+175154	present
+175158	present
+175161	aorist
+175163	present
+175165	perfect
+175168	aorist
+175170	aorist
+175173	aorist
+aorist
+175178	aorist
+175183	future
+aorist
+175187	present
+175193	present
+175196	future
+aorist
+175200	aorist
+175202	aorist
+175207	aorist
+175211	present
+present
+175215	present
+175220	present
+175223	present
+175225	present
+175230	present
+175232	present
+175237	present
+175240	present
+present
+175245	aorist
+175247	present
+175250	aorist
+175253	aorist
+175259	aorist
+175264	aorist
+imperfect
+present
+aorist
+175273	present
+175277	aorist
+175281	aorist
+175284	imperfect
+175286	present
+aorist
+175290	present
+175294	aorist
+aorist
+175297	aorist
+175303	perfect
+175307	aorist
+imperfect
+175310	present
+175312	present
+175316	aorist
+aorist
+175319	present
+175321	aorist
+175326	aorist
+175330	aorist
+175336	present
+175339	present
+175346	aorist
+175348	aorist
+175354	aorist
+175357	present
+175359	aorist
+175366	aorist
+175369	aorist
+175375	aorist
+175378	imperfect
+175381	aorist
+175384	present
+175389	aorist
+175395	aorist
+175399	aorist
+present
+175402	present
+175407	present
+175410	present
+175412	aorist
+175417	aorist
+175420	aorist
+present
+175427	present
+175431	present
+175433	aorist
+175435	aorist
+175438	present
+175441	aorist
+175445	present
+175453	aorist
+175456	present
+175460	present
+175463	aorist
+175467	aorist
+175469	aorist
+175472	aorist
+175478	aorist
+aorist
+175481	imperfect
+175487	aorist
+175490	aorist
+175494	present
+175496	aorist
+175500	present
+imperfect
+175506	aorist
+175508	aorist
+175512	aorist
+175517	aorist
+175520	present
+aorist
+175526	aorist
+175530	aorist
+aorist
+175534	aorist
+present
+175537	present
+175544	present
+175546	present
+175552	present
+present
+175559	present
+175563	present
+175567	future
+175574	aorist
+175576	aorist
+175578	aorist
+175582	aorist
+175584	aorist
+175587	aorist
+175597	imperfect
+175599	present
+175603	aorist
+aorist
+175607	aorist
+175609	present
+175615	present
+175617	present
+175619	present
+175626	aorist
+175634	aorist
+175637	present
+175641	aorist
+175643	present
+175651	aorist
+175653	aorist
+present
+175665	aorist
+175673	imperfect
+175676	present
+175678	present
+175680	present
+175686	aorist
+175698	present
+175704	present
+present
+aorist
+175708	aorist
+175710	present
+175715	present
+aorist
+175719	aorist
+175722	present
+175726	aorist
+175737	present
+175740	present
+175746	future
+175752	future
+175754	future
+175763	aorist
+175771	aorist
+175778	aorist
+175782	aorist
+175785	present
+175788	aorist
+present
+175793	present
+175796	aorist
+175799	aorist
+175805	aorist
+175809	aorist
+175811	aorist
+175814	aorist
+present
+175817	present
+175822	future
+175827	aorist
+aorist
+175830	present
+175834	present
+175836	present
+175844	aorist
+175849	present
+175851	aorist
+aorist
+175855	aorist
+175859	present
+175863	present
+175866	aorist
+future
+175871	aorist
+175875	future
+175879	future
+175884	aorist
+175888	aorist
+175891	future
+175896	present
+175901	present
+175912	future
+175917	present
+175920	present
+175923	perfect
+175926	aorist
+175929	aorist
+175933	present
+175940	present
+175948	present
+175954	aorist
+175957	aorist
+175966	aorist
+175972	aorist
+aorist
+175976	present
+175978	aorist
+175981	aorist
+175985	present
+175988	present
+175990	present
+future
+176004	present
+aorist
+176007	aorist
+176010	aorist
+176014	present
+176016	present
+176021	aorist
+present
+176025	aorist
+176027	aorist
+176031	aorist
+176034	aorist
+176037	aorist
+176039	aorist
+aorist
+176043	present
+aorist
+176049	aorist
+176055	present
+176059	aorist
+176062	present
+176064	aorist
+176072	aorist
+176074	aorist
+176077	present
+176081	present
+176084	present
+aorist
+176089	aorist
+aorist
+176093	present
+176095	future
+176097	present
+176103	aorist
+176105	aorist
+176108	aorist
+176111	aorist
+176117	present
+present
+176121	aorist
+176126	aorist
+176129	aorist
+176132	aorist
+176135	present
+176138	present
+176140	aorist
+176144	present
+176147	present
+176150	present
+176158	aorist
+176164	aorist
+176166	aorist
+aorist
+176170	aorist
+176174	perfect
+176177	future
+176179	future
+176181	present
+176186	aorist
+176190	aorist
+176194	aorist
+176200	aorist
+176204	aorist
+176208	aorist
+aorist
+176213	present
+176219	present
+176222	present
+176227	future
+176230	aorist
+176234	future
+176237	future
+176239	present
+176244	aorist
+176247	present
+176251	present
+176255	future
+176260	future
+176262	aorist
 176264	aorist
-176279	aorist
-176300	present
-176303	present
-present
-176313	present
-176317	pluperfect
-176319	present
-176321	present
-176327	aorist
-176334	present
-176346	aorist
-176348	aorist
+176268	aorist
+176270	present
+176273	aorist
+176276	present
+176278	present
+176281	aorist
+176284	aorist
+176287	present
+176290	present
+176296	present
+176304	aorist
+176308	imperfect
+176312	present
+176317	aorist
+176319	aorist
+176321	aorist
+176326	aorist
+176328	aorist
+176330	aorist
+176333	future
+176336	aorist
+aorist
+176344	aorist
+176347	present
+176351	present
 176357	aorist
-176361	present
+176359	aorist
 176364	aorist
-176366	present
-176368	present
-176372	aorist
-176374	aorist
-176378	aorist
-176381	future
-176387	future
-176393	aorist
-176402	future
-176405	future
-176408	present
+present
+176369	aorist
+176371	aorist
+176376	aorist
+176383	future
+176390	present
+176398	aorist
+176405	present
+176408	aorist
 176412	present
-176417	present
-176419	present
+176414	present
+176417	aorist
 176423	aorist
-176430	aorist
-176432	aorist
-176438	aorist
-176444	aorist
-176450	aorist
-176455	aorist
+176434	aorist
+176441	present
+176449	present
+176451	aorist
+176454	aorist
+176458	present
 aorist
-176459	aorist
-176463	aorist
-176468	aorist
-176474	aorist
-176476	aorist
-176478	aorist
-176485	present
+176467	present
 aorist
-176493	aorist
-176500	aorist
-176506	future
-176520	future
-176522	future
-176524	future
-176526	future
-176540	perfect
-176542	future
-176546	present
-176548	future
-176551	aorist
-176565	future
-176567	aorist
-176570	present
-176575	aorist
-176581	present
-176583	present
-176585	imperfect
-176592	imperfect
-176595	present
+176477	present
+176479	aorist
+176482	aorist
+176486	present
+176490	aorist
+176493	present
+aorist
+176499	present
+176501	aorist
+176505	present
+176513	present
+176522	present
+176524	aorist
+176528	aorist
+176531	future
+176536	aorist
+present
+present
+176541	aorist
+aorist
+176544	present
+176547	present
+176554	perfect
+176557	present
+176565	aorist
+176571	aorist
+176574	present
+aorist
+176582	aorist
+aorist
+176589	aorist
+aorist
+176599	aorist
+176603	aorist
 176605	aorist
+176611	aorist
+present
+176619	present
+176622	aorist
+176629	aorist
+176635	present
+176640	aorist
+176647	aorist
+future
+176663	present
+176667	aorist
+176669	aorist
+176673	future
+176678	future
+176681	present
+176684	present
+176691	aorist
+176696	aorist
 aorist
-176609	present
-176625	perfect
-176632	aorist
-176638	aorist
-176642	present
-176650	aorist
-176655	future
-176664	present
-176668	aorist
-176671	future
-176683	present
-176695	present
-176702	future
-176712	present
+176702	aorist
+176705	present
+aorist
+176711	present
+176714	aorist
+aorist
 176717	aorist
-176730	present
-176732	aorist
-176748	aorist
+176725	present
+176727	aorist
+aorist
+176731	imperfect
+176733	present
+aorist
+176738	future
+176740	aorist
+176746	aorist
+176750	aorist
 176752	aorist
-176763	future
-176766	present
-176773	present
-176777	present
-176781	present
-176785	present
-176792	future
-176805	future
-176809	aorist
-176820	future
+176756	aorist
+176761	imperfect
+176765	aorist
+176767	imperfect
+present
+aorist
+176772	present
+aorist
+176777	imperfect
+176779	present
+aorist
+176783	future
+176788	imperfect
+176790	aorist
+aorist
+176795	aorist
+present
+aorist
+176801	aorist
+aorist
+176805	aorist
+aorist
+176810	aorist
+176812	aorist
+176816	present
+176822	aorist
 176825	aorist
-176836	future
-176850	present
-176852	aorist
-176865	aorist
-176886	present
-176891	present
-176893	present
-176895	present
-176909	present
-176922	present
-176937	present
-176939	present
-176949	future
-176953	future
-176971	future
-176980	future
-176982	aorist
-176991	present
+176827	imperfect
+176829	aorist
+176835	aorist
+176837	aorist
+176840	aorist
+176845	aorist
+176847	present
+176855	future
+176859	aorist
+176867	aorist
+176869	aorist
+176873	aorist
+176877	aorist
+176886	aorist
+176890	aorist
+176894	aorist
+176897	present
+176900	present
+present
+aorist
+176909	aorist
+aorist
+aorist
+176913	aorist
+176916	aorist
+176919	aorist
+176921	future
+176927	future
+176931	future
+176936	present
+176943	aorist
+176946	present
+present
+176952	aorist
+aorist
+176956	aorist
+present
+176964	aorist
+176966	aorist
+176972	perfect
+176974	present
+176979	aorist
+176985	aorist
+176987	present
+present
 176993	present
-176998	aorist
-177001	aorist
+177001	present
 aorist
-177010	present
-177014	future
-177028	imperfect
-177047	future
-177073	future
-177087	future
+177005	aorist
+177008	present
+177013	perfect
+present
+177019	aorist
+177022	present
+177024	aorist
+177028	present
+177030	aorist
+177036	present
+present
+present
+177040	aorist
+177045	aorist
+177048	aorist
+177051	aorist
+177055	aorist
+aorist
+177060	present
+177062	aorist
+177066	present
+177071	aorist
+177074	aorist
+177077	aorist
+177079	aorist
+177081	aorist
+177084	aorist
+177086	aorist
 177090	aorist
-177099	aorist
-177107	future
+177094	present
+177098	present
+177102	present
+177105	aorist
+present
+177108	present
+177113	imperfect
+177115	future
+177117	future
+177119	future
 177121	future
-177124	aorist
-177134	aorist
-177141	aorist
-177153	aorist
+present
+177127	future
+177132	present
+177136	aorist
+177139	present
+imperfect
+177144	present
+177146	present
+present
+aorist
+177150	present
+177152	aorist
+177155	future
 177159	present
-177165	present
-177169	present
-177171	present
-177179	future
-177181	aorist
-177183	aorist
 present
+177162	aorist
+177166	aorist
 present
-177187	perfect
-177189	perfect
+177173	aorist
+177176	present
+177181	future
+177188	present
 177191	present
-177193	present
-177207	aorist
-present
-177211	present
-177226	future
-177240	present
-177244	aorist
-177254	pluperfect
-177256	present
-177258	aorist
+177195	aorist
+177202	aorist
+177205	imperfect
+177207	present
+177210	present
 aorist
-177263	aorist
-177276	perfect
-present
-177279	aorist
-177282	aorist
 aorist
-177285	present
-177288	present
+177215	aorist
+177220	present
+177226	aorist
+177228	aorist
+177230	aorist
+177232	aorist
+177235	aorist
+177239	future
+177243	aorist
+177245	present
+177248	aorist
+177253	aorist
+177260	future
+177264	present
+177272	aorist
+177283	future
+177286	future
+177289	future
 177296	present
+177301	aorist
 177303	aorist
-177316	aorist
-aorist
-177332	aorist
-177355	present
-177363	aorist
-177370	imperfect
-177377	aorist
-177389	aorist
+177308	aorist
+177314	aorist
+177320	aorist
+177323	aorist
+177325	perfect
+177331	aorist
 present
-177402	pluperfect
-177404	aorist
-177410	present
+177338	present
+177340	future
+177344	aorist
+177347	aorist
+177351	aorist
+177356	aorist
 aorist
+177359	perfect
+177361	present
+177365	perfect
+177369	present
+177374	aorist
+present
+177377	present
+177383	aorist
+present
+177390	aorist
+177393	aorist
+177395	aorist
+177400	aorist
+177406	aorist
+177410	aorist
+177412	aorist
+177415	future
+177417	aorist
+177421	aorist
+177423	imperfect
+177426	present
+177430	aorist
+177434	aorist
 aorist
-177414	present
-177416	present
-177421	present
-177425	aorist
-177432	aorist
-177436	aorist
-177440	aorist
-177448	imperfect
-177454	aorist
-177459	present
-177465	aorist
+177443	aorist
+177445	aorist
+177448	present
+177451	aorist
+177453	aorist
+177456	present
+present
+177461	aorist
+177464	present
+177467	present
 aorist
-177472	present
-177474	aorist
-177477	aorist
-177484	aorist
-177489	aorist
-177493	aorist
-177504	imperfect
-177516	present
-177518	present
-177520	aorist
-177524	aorist
-177532	present
-177536	aorist
+177475	present
+177479	present
+177481	future
+177487	present
+177489	present
+177492	aorist
+177498	aorist
+177500	aorist
+present
+177507	future
+177511	future
+177515	future
+177519	aorist
+177521	aorist
+177523	aorist
+177527	future
+177529	aorist
+177538	present
+177540	present
+177545	aorist
+177548	present
+present
+177551	aorist
+177553	aorist
+177567	aorist
+177570	aorist
+177572	perfect
+177574	present
+present
 aorist
-177540	perfect
-aorist
-177556	perfect
-177559	present
+177580	present
+present
+present
+177584	present
+present
+177590	future
+177592	aorist
+177598	present
+177601	aorist
+177604	perfect
+177609	aorist
+177611	aorist
+177617	aorist
+177619	aorist
+perfect
+177625	present
+177629	present
+177632	present
+177636	present
+177639	aorist
 future
-177563	future
-177567	present
-177571	present
-future
-177583	present
-177585	present
-177587	present
-177589	present
-177591	present
-177593	present
-177595	present
-177603	present
-177605	future
-177610	aorist
-177612	present
-future
-177618	aorist
+177644	present
+177646	present
+177648	future
+177655	aorist
 aorist
-177635	aorist
-177642	aorist
-177645	aorist
-177653	aorist
 177658	aorist
 177660	aorist
-177662	future
-177672	present
-177680	present
-177683	present
-177691	aorist
+177666	present
+177669	aorist
+177673	aorist
+177676	present
+177679	aorist
+177682	present
 aorist
-177694	present
+present
+aorist
+177690	aorist
+177693	aorist
 177697	aorist
-177699	aorist
-177701	present
-177704	aorist
-177707	aorist
-177713	aorist
-177715	present
-177725	present
 present
-177731	present
-177733	perfect
-177742	present
-177749	aorist
-177757	aorist
-177759	present
-177764	present
-177770	present
-177773	present
-177781	present
 aorist
-177793	present
-177801	aorist
-177803	present
-177808	present
-177825	present
-177831	present
-177841	aorist
+177703	aorist
+177705	aorist
+177708	aorist
+177710	present
+aorist
+177713	present
+177717	aorist
+177720	aorist
+177723	aorist
+177728	aorist
+177730	aorist
+177734	aorist
+177737	aorist
+177745	aorist
+177747	present
+177749	present
+177756	future
+177758	perfect
+177762	aorist
+aorist
+177769	aorist
+177771	future
+177775	present
+177778	future
+177782	perfect
+177784	aorist
+aorist
+177788	present
+aorist
+177792	aorist
+177795	present
+177798	perfect
+177803	aorist
+177807	aorist
+177809	aorist
+177812	aorist
+177817	aorist
+177821	aorist
+177826	aorist
+177833	imperfect
+177838	imperfect
 177843	present
-177848	present
-177850	present
-177853	present
-177855	present
-177868	aorist
-177870	present
-aorist
+177846	present
+imperfect
+present
+177852	perfect
+present
+177860	aorist
+177863	aorist
+177866	present
+177868	present
+177872	imperfect
+177874	present
 177881	aorist
-177896	present
-177900	aorist
-177907	aorist
-177917	aorist
-177920	aorist
-177926	aorist
-177928	aorist
-177934	aorist
+177886	aorist
+177895	aorist
+177899	present
+177902	present
+177904	perfect
+177908	future
+177912	present
+177915	aorist
+177921	aorist
+177923	aorist
+177930	aorist
+177933	present
+177937	present
+177941	aorist
 177943	aorist
-177950	aorist
+177945	present
+177948	present
+177951	present
+177955	aorist
 177960	present
-177964	imperfect
-177970	aorist
-177976	present
-present
-177979	aorist
 aorist
-177984	present
-177988	present
-177992	aorist
-177999	aorist
+177964	aorist
+177966	aorist
+177971	aorist
+177975	aorist
+177978	aorist
+177980	aorist
+177985	aorist
+177989	aorist
+177996	present
+178002	aorist
+178006	aorist
+178010	aorist
+178012	aorist
 present
-178015	future
-178019	aorist
-178025	aorist
-178033	aorist
-178039	aorist
-178050	aorist
-178052	present
-178054	present
-178066	aorist
-178068	aorist
-178079	present
-178087	aorist
-178092	present
-178094	present
-178097	aorist
-178106	present
-178117	aorist
-178120	present
-178130	aorist
-178132	aorist
-178143	aorist
-178148	aorist
-178163	imperfect
-178166	aorist
-178168	aorist
-178174	present
+178016	aorist
+178018	aorist
+178021	aorist
+178023	present
+178026	present
+178030	aorist
+178034	future
+178038	aorist
+aorist
+178041	aorist
+178044	future
+178048	aorist
+178051	present
 future
-178184	future
-perfect
+178054	aorist
+178058	aorist
+178060	present
+178066	present
+178070	present
+178074	aorist
+178077	aorist
+178080	aorist
+178082	future
+178088	aorist
+178092	future
+178096	present
+178100	imperfect
+178106	imperfect
+178108	present
+178110	aorist
+178112	future
+178117	aorist
+178121	aorist
+178123	present
+178129	present
+178132	aorist
+178134	aorist
+178136	perfect
+imperfect
+178142	present
+178147	present
+178151	present
+178153	imperfect
+178155	aorist
+178157	aorist
+178159	present
+178161	present
+178166	aorist
+aorist
+178172	aorist
+aorist
+178176	aorist
+178180	aorist
+aorist
+178183	present
+178185	aorist
+aorist
 178190	aorist
-178194	aorist
-178201	aorist
-178208	present
-aorist
-178224	aorist
-aorist
-178227	present
-178233	present
-178245	present
-178256	present
-178268	present
+178194	present
+178196	present
+178199	present
+178205	present
+178211	aorist
+178219	aorist
+178225	aorist
+178229	aorist
+178231	aorist
+178233	aorist
+178236	aorist
+178238	imperfect
+178241	aorist
+178246	aorist
+178248	aorist
+178252	aorist
+178255	aorist
+178259	aorist
+178262	aorist
+178266	aorist
+178271	aorist
+178275	aorist
 178281	aorist
-178283	present
-178294	present
-178300	present
-178303	present
-178309	present
-178311	future
-178321	future
-178335	future
-178350	present
-178355	future
-178367	future
-178383	future
-178400	present
-178402	present
-178404	present
-178414	perfect
-178421	aorist
-178423	aorist
-178432	present
-178434	present
+178284	aorist
+178287	aorist
+178289	aorist
+178295	aorist
+178300	aorist
+178304	present
+future
+178310	aorist
+178312	aorist
+178315	present
+178317	present
+present
+178321	aorist
+178325	aorist
+178327	aorist
+178331	aorist
+178334	aorist
+178339	future
+178342	present
+178346	future
+178350	future
+178353	future
+178359	present
+178363	aorist
+178367	aorist
+present
+178370	aorist
+178374	aorist
+178377	present
+178382	present
+178385	future
+178391	future
+178393	present
+178397	aorist
+178401	future
+178405	aorist
+future
+178409	aorist
+178415	aorist
+178418	present
+178420	present
+178422	aorist
+aorist
+178428	imperfect
+178430	aorist
+178433	aorist
 178436	present
-178438	present
-178446	present
-178456	present
-178460	aorist
-178467	aorist
+aorist
+178442	aorist
+178447	aorist
+178450	aorist
 perfect
-178472	imperfect
-178474	aorist
-178478	present
-178488	aorist
-178500	aorist
+178456	imperfect
+aorist
+178459	aorist
+178461	present
+aorist
+perfect
+aorist
+178467	perfect
+178472	perfect
+178476	present
+178481	aorist
+aorist
+178495	aorist
+178501	aorist
 178503	aorist
+178506	aorist
+178512	aorist
+178514	present
+178520	present
+178522	perfect
+178524	imperfect
+178526	present
+178534	aorist
 aorist
-178511	aorist
+178539	aorist
+178544	aorist
+178547	aorist
+178551	aorist
+178553	present
 aorist
-178524	aorist
-178526	future
-178536	future
-178541	future
-178553	future
-178565	future
+178557	aorist
+present
+aorist
+178563	perfect
+178566	present
+178570	aorist
+178573	present
 178577	aorist
-178581	present
-178586	aorist
-178595	aorist
-178604	present
-178608	present
-178620	aorist
-178622	aorist
-178631	aorist
-178634	aorist
-178642	imperfect
-178652	present
-178655	present
-178669	present
+178580	aorist
+178582	aorist
+178585	aorist
+178592	future
+178600	present
+178606	aorist
+178609	aorist
+178612	aorist
+178615	present
+178621	present
+178623	perfect
+178626	present
+178632	present
+178635	present
+178640	present
+178643	aorist
+178648	present
+present
+aorist
+178655	aorist
+178660	aorist
+178663	present
+178665	aorist
+178672	aorist
+178676	present
 178683	present
+178686	present
+178688	aorist
+178697	aorist
+aorist
+178700	aorist
+178702	aorist
+178706	aorist
 178709	present
-178717	imperfect
-178725	aorist
-178728	present
+178711	present
+178714	aorist
+178716	present
+178719	aorist
+178722	aorist
+178724	present
+178726	future
+178732	future
+178736	imperfect
+178742	aorist
+aorist
+178746	present
 178748	aorist
-178767	aorist
+178762	aorist
+178770	future
+178773	aorist
+178775	aorist
 178778	aorist
-178785	present
-178791	aorist
-178804	present
-178812	aorist
-178816	aorist
-178821	aorist
-178835	imperfect
-178842	present
-178844	present
-178847	present
-178849	aorist
+178780	present
+178782	perfect
+178799	present
+178805	aorist
 aorist
-178859	imperfect
-178863	aorist
-178867	aorist
-178881	aorist
-178889	aorist
-178891	aorist
-178894	aorist
-178897	aorist
-178905	aorist
-178907	present
-178921	aorist
-178932	present
+178810	present
+178812	present
+178821	present
+178825	present
+178827	aorist
+178829	imperfect
+178835	aorist
+178837	aorist
+178839	aorist
+178843	aorist
+178846	present
+178856	imperfect
+178858	future
+178876	present
+178883	future
+178894	present
+178897	perfect
+178900	aorist
+178903	present
+178906	present
+178910	present
+present
+178914	present
+178920	present
+178923	present
 aorist
+178928	present
+178932	aorist
+178941	present
+178946	present
+178949	imperfect
 aorist
-178936	aorist
-aorist
-178945	aorist
-178955	aorist
-178960	aorist
-178967	aorist
+178954	aorist
+178959	aorist
+178964	aorist
+178969	present
 178973	aorist
-178978	aorist
-178981	aorist
+178980	aorist
+178988	present
+present
+178993	present
+present
+178998	present
+179008	present
 aorist
-178986	aorist
-178991	aorist
-179005	aorist
-179009	aorist
-179018	aorist
-aorist
-179024	aorist
-179029	aorist
-179037	aorist
-aorist
+179015	present
+179017	aorist
+179019	present
+179024	present
+179026	present
 179043	present
-179045	present
-179054	aorist
-aorist
-179061	aorist
-179067	aorist
+179050	aorist
+179054	present
+179060	present
+179064	aorist
+179069	present
 179074	aorist
 179078	present
-aorist
-aorist
-179083	aorist
-179086	present
-179089	present
-179102	aorist
+179083	future
+179087	future
+179089	future
+179092	future
+179094	future
+179100	present
+179109	present
+179111	present
 present
-179108	aorist
-179112	aorist
-179118	aorist
-179130	aorist
-179136	aorist
+aorist
+179118	present
+179122	aorist
+179127	aorist
+present
+179136	present
 179138	aorist
-aorist
-179154	aorist
-179157	aorist
+179142	present
+179145	aorist
+179150	present
+179155	present
 179159	aorist
-179163	present
-179174	present
-imperfect
-179188	aorist
-179192	aorist
-179199	present
-179209	aorist
-179214	aorist
-179218	aorist
-179227	aorist
+179163	aorist
+179167	present
+179170	aorist
+179175	present
+179183	present
+179186	aorist
+179189	present
+179197	aorist
+179200	present
+179204	present
+179207	aorist
+179210	present
+179217	present
+179223	present
 179230	aorist
-179232	imperfect
-179247	imperfect
-present
-179254	imperfect
+179241	imperfect
+aorist
+179245	aorist
+179247	present
+179251	present
+179256	present
+179264	present
 179268	aorist
-179272	present
-179282	aorist
+179274	aorist
+179283	present
+179285	perfect
 179289	present
+179293	present
+179301	present
+179306	present
+179313	present
+179318	present
+179323	present
+179325	imperfect
+179332	imperfect
+179339	present
+179343	present
 aorist
-present
-179294	present
-179301	aorist
-179304	aorist
-179309	present
-present
-179312	present
-179314	present
-aorist
-179321	aorist
-179325	present
-aorist
-179328	aorist
-179339	aorist
-aorist
-179342	aorist
-179349	aorist
-179356	aorist
+179347	aorist
+179354	aorist
+179360	aorist
 179362	present
-179367	aorist
-179369	aorist
-present
+179370	future
+179375	future
+179379	aorist
+179383	present
+179395	aorist
+179400	present
+179402	future
+179409	present
+179412	present
+perfect
+179416	aorist
 aorist
-present
-179374	aorist
-179381	aorist
-179385	aorist
-179388	present
-179394	aorist
-179396	aorist
-179403	aorist
-179415	aorist
-179417	present
 179422	present
-179424	aorist
+179429	aorist
 aorist
-179435	aorist
-179446	aorist
-179457	aorist
-179463	present
-179465	imperfect
-179469	aorist
-179481	aorist
-aorist
-179484	present
-179494	present
-179503	present
-179513	present
-179519	present
-179522	aorist
-aorist
-179531	present
-179550	aorist
 present
-179561	present
-179566	present
-179569	present
-179572	aorist
-179586	aorist
-179590	future
-179603	aorist
-179620	aorist
-179625	present
-179635	present
-179643	present
-179649	present
-179651	present
-179657	aorist
-179661	aorist
-179663	present
-179665	present
-179668	present
-179674	present
-179680	present
-179687	present
-179692	aorist
-179696	present
-179698	perfect
-179703	aorist
+179435	present
+179440	aorist
+179443	aorist
+perfect
+present
+179449	aorist
+179453	imperfect
+179455	aorist
+179458	aorist
+179465	aorist
+aorist
+179468	present
+179470	present
+179473	aorist
+179478	future
+present
+179486	aorist
+179490	present
+aorist
+179495	future
+179506	aorist
+179508	aorist
+179510	present
+179514	aorist
+179517	future
+179521	present
+179523	present
+179527	future
+future
+179530	present
+179533	present
+present
+present
+179537	aorist
+179540	present
+179542	future
+179550	future
+179557	future
+179561	future
+179573	future
+179577	future
+179579	future
+179583	future
+179585	future
+179589	aorist
+179591	future
+179596	aorist
+179599	future
+179601	future
+179614	future
+179618	aorist
+179622	aorist
+179625	perfect
+179628	present
+present
+179634	present
+179641	aorist
+aorist
+179652	aorist
+179654	aorist
+179660	present
+179662	present
+179666	present
+179670	aorist
+179674	future
+179680	perfect
+179687	aorist
+179691	aorist
+179695	aorist
+179700	future
 179707	aorist
-179710	aorist
 aorist
-179717	aorist
-179727	future
+179714	aorist
+future
+179719	future
+179723	aorist
+179728	aorist
+perfect
+179733	aorist
+179735	aorist
+179738	present
+179740	aorist
 aorist
-179732	present
-179740	present
-179745	future
-aorist
-179751	aorist
-179753	aorist
-179760	aorist
-179766	present
-179768	present
-179773	present
-179784	present
-179789	present
-179792	present
-179803	present
-179805	present
-179815	present
-179826	present
-179828	present
-179837	aorist
-179839	present
-179844	aorist
-179849	aorist
+179745	aorist
+179749	present
+179752	present
+179755	future
+179762	present
+179765	future
+179775	future
+179779	future
+179784	future
+179791	future
+179794	future
+179803	future
+179809	future
+179813	present
+179822	future
+179828	future
+179841	aorist
+179847	aorist
+179851	present
+present
 179860	aorist
+179862	present
+179865	present
+179867	present
 179871	aorist
-imperfect
+179876	aorist
+179880	future
+179885	aorist
+179892	perfect
+179909	future
+179928	aorist
+179934	aorist
+179936	aorist
+179939	aorist
+179942	future
+179950	future
+179955	present
+179958	present
+179960	present
+179964	present
+179967	present
 present
-aorist
-179886	present
-179890	aorist
-179894	aorist
-179900	imperfect
-179902	present
-aorist
-179906	present
-179912	aorist
-aorist
-179915	aorist
-179925	perfect
-179931	aorist
-imperfect
-179934	present
-179936	present
-179940	aorist
-aorist
-179943	present
-179945	aorist
-179954	aorist
-179960	aorist
-179969	present
+179972	perfect
 179976	present
+179979	present
+179981	pluperfect
+179985	present
+aorist
 179989	aorist
-179993	aorist
-180004	aorist
-180007	present
-180009	aorist
-180023	aorist
-180028	aorist
-180039	aorist
-180045	imperfect
-180048	aorist
-180053	present
-180066	aorist
-180076	aorist
-180082	aorist
+aorist
+179995	present
+180000	present
+180005	present
+180008	present
+180013	aorist
+180018	aorist
+180026	aorist
+180029	future
+180031	present
 present
-180085	present
-180090	present
-180093	present
-180095	aorist
-180105	aorist
-180111	aorist
+180038	present
+future
+180043	aorist
+180050	present
+180054	aorist
 present
-180123	present
-180127	present
-180129	aorist
-180131	aorist
-180136	present
-180139	aorist
-180146	present
-180160	aorist
-180165	present
-180173	present
-180176	aorist
-180183	aorist
+180061	present
+future
+180070	present
+180075	present
+180077	future
+180084	future
+180086	future
+180093	future
+180099	aorist
+180102	aorist
+180109	imperfect
+180116	aorist
+180119	aorist
+180124	aorist
+180131	present
+180134	aorist
+180137	imperfect
+180141	perfect
+aorist
+180144	present
+180147	aorist
+180152	aorist
+180158	aorist
+aorist
+180167	present
+aorist
+180171	present
+180175	aorist
+180177	present
+180180	present
+180182	aorist
+180184	present
 180187	aorist
-180193	aorist
-180204	aorist
 aorist
-180207	imperfect
-180219	aorist
-180222	aorist
-180227	present
-180231	aorist
-180239	present
+180192	aorist
+180197	aorist
+180201	present
+180205	present
+180208	aorist
+180212	aorist
+aorist
+present
+180217	perfect
+180219	present
+180223	perfect
+180230	present
+aorist
+180235	aorist
+180238	present
+180242	aorist
+180255	aorist
+180257	aorist
+180260	aorist
+aorist
+180264	aorist
+180268	aorist
+180272	aorist
+aorist
+aorist
+180277	aorist
+180285	present
+180291	present
+180295	aorist
+180298	aorist
+aorist
+180302	present
+180306	aorist
+aorist
+180310	aorist
 imperfect
-180250	aorist
-180254	aorist
-180261	aorist
-180270	aorist
-180276	present
+180319	imperfect
+180323	future
 aorist
-180286	aorist
-180290	aorist
+180330	aorist
+180334	aorist
+180338	aorist
 aorist
-180294	aorist
-present
-180297	present
-180306	present
-180308	present
-180320	present
-present
-180331	present
-180338	present
-180342	future
-180352	aorist
-180354	aorist
-180356	aorist
-180365	aorist
-180367	aorist
-180372	aorist
+180342	aorist
+imperfect
+180351	imperfect
+180355	future
+aorist
+180362	aorist
+180367	perfect
+aorist
+180370	aorist
 180374	present
 180376	present
-180390	imperfect
-180394	present
-180398	aorist
+180379	aorist
+180381	present
+180384	aorist
+180386	aorist
 aorist
-180404	aorist
+aorist
+180393	aorist
+present
+180396	aorist
+180400	aorist
+180404	pluperfect
 180406	present
-180414	present
-180416	present
-180418	present
-180432	aorist
-180447	aorist
-180450	present
-180456	aorist
-180458	present
-180472	aorist
-180475	aorist
+180409	aorist
+180411	present
+180414	aorist
+imperfect
+180418	aorist
+180423	aorist
+180425	aorist
+180428	aorist
+180433	aorist
 present
-180498	aorist
-180514	imperfect
-180520	present
-180522	present
-180526	present
-180536	aorist
-180555	present
-180561	present
-present
-aorist
-180567	aorist
-180569	present
-180581	present
-aorist
-180587	aorist
-180590	present
-180598	aorist
-180616	present
-180619	present
-180629	future
-180640	future
-180642	future
-180658	aorist
-180665	future
-perfect
-180675	aorist
-180682	future
-perfect
-180690	aorist
-180696	aorist
-180699	present
-180706	aorist
-180709	present
-180716	present
-180721	aorist
-180724	aorist
-180735	aorist
-180742	aorist
-180744	aorist
-180749	aorist
-present
-180752	present
-180759	future
-180764	aorist
-aorist
-180769	present
-180776	present
-180780	present
-180796	aorist
-180804	present
-180808	aorist
-aorist
-180812	aorist
-180819	present
-180824	present
-180830	aorist
+180439	present
 future
-180836	aorist
-180845	future
-180849	future
-180857	aorist
-180864	aorist
-180867	future
-180876	present
-180885	present
-180906	future
-180916	present
-180919	present
-180924	perfect
-180929	aorist
-180933	aorist
-180941	present
-180955	present
-180972	present
-180983	aorist
-180988	aorist
-181005	aorist
+180442	future
+180445	present
+180448	present
+future
+180454	aorist
+180460	future
+180468	aorist
+180480	future
+180485	future
+180490	future
+180495	present
+180500	future
+180509	future
+180514	present
+180516	perfect
+180519	aorist
+180522	perfect
+180526	aorist
+180529	aorist
+180531	aorist
+aorist
+180534	aorist
+180537	imperfect
+180539	aorist
+180543	aorist
+180545	aorist
+180547	aorist
+180550	imperfect
+180552	aorist
+180555	future
+180558	present
+180561	aorist
+present
+180564	aorist
+180566	present
+180568	aorist
+180571	aorist
+180574	aorist
+180578	aorist
+180581	aorist
+present
+180586	aorist
+180589	aorist
+180591	future
+180593	present
+180597	aorist
+180605	aorist
+180607	future
+180611	present
+180613	perfect
+180618	perfect
+180623	aorist
+180627	aorist
+180629	aorist
+aorist
+180633	aorist
+180636	imperfect
+180639	aorist
+180644	aorist
+180650	aorist
+180653	future
+180655	present
+180658	aorist
+present
+180661	present
+180669	aorist
+180672	future
+180674	present
+present
+180680	aorist
+180686	aorist
+180688	future
+180697	aorist
+180699	aorist
+180704	aorist
+180707	perfect
+180712	present
+180717	present
+180719	aorist
+180721	aorist
+180731	present
+180734	aorist
+180738	aorist
+180740	aorist
+imperfect
+180749	aorist
+180754	aorist
+180759	aorist
+180762	present
+180766	aorist
+180770	present
+aorist
+180774	aorist
+present
+180779	imperfect
+180782	aorist
+180785	aorist
+180787	aorist
+180790	aorist
+180794	present
+180798	aorist
+180803	present
+180809	present
+aorist
+180819	aorist
+180821	aorist
+present
+180825	aorist
+180831	future
+180834	aorist
+180839	aorist
+180842	present
+180845	aorist
+180847	present
+180849	aorist
+180852	future
+180856	aorist
+180861	imperfect
+180865	aorist
+180870	aorist
+180873	present
+180875	present
+aorist
+180878	aorist
+180882	aorist
+present
+180889	aorist
+180892	present
+180896	present
+180898	present
+180904	aorist
+180907	aorist
+180911	aorist
+180915	aorist
+imperfect
+180921	present
+180923	aorist
+present
+180929	future
+180932	present
+180934	aorist
+present
+180939	present
+180943	aorist
+aorist
+aorist
+180952	future
+180957	present
+180959	perfect
+180969	present
+180971	imperfect
+180975	aorist
+180978	aorist
+180980	present
+180982	aorist
+180984	present
+180986	present
+180989	aorist
+present
+180993	aorist
+180997	aorist
+aorist
+181000	aorist
+181002	aorist
+aorist
+aorist
+181006	present
+181010	aorist
 181013	aorist
 aorist
-181019	present
-181023	aorist
-181028	aorist
-181034	present
-181037	present
-181039	present
-future
-181055	present
+181016	present
 aorist
-181060	aorist
-181063	aorist
-181070	present
-181072	present
-181084	aorist
-present
+181022	present
+181028	present
+181031	present
+181035	aorist
+181046	present
+181055	aorist
+aorist
+181062	present
+181066	future
+181071	perfect
+181073	future
+181076	future
+181082	aorist
+181084	future
 181088	aorist
-181092	aorist
-181099	aorist
-181102	aorist
-181107	aorist
-181109	aorist
-aorist
-181113	present
-aorist
-181122	aorist
-181131	present
-181138	aorist
-181143	present
-181145	aorist
-181162	aorist
-181164	aorist
-181169	present
-181175	present
-181178	present
-aorist
-181183	aorist
-aorist
-181187	present
-181189	future
-181191	present
-181197	aorist
-181200	aorist
-181203	aorist
-181208	aorist
-181218	present
+181091	aorist
+181095	future
+181099	future
+imperfect
+181103	present
+181110	aorist
+181112	future
+181114	present
+181117	present
+181120	aorist
+181123	future
+181128	aorist
+181130	present
+181135	present
+181138	present
+181140	aorist
+181144	aorist
+181146	aorist
+181148	aorist
+181154	aorist
 present
-181224	aorist
-181235	aorist
-181238	aorist
+181157	present
+181159	present
+181162	present
+181166	aorist
+181169	present
+181172	aorist
+181174	aorist
+181181	present
+aorist
+181189	present
+181194	present
+181198	present
+181200	present
+181202	present
+181206	aorist
+181208	aorist
+181210	present
+181212	present
+181215	aorist
+181225	aorist
+aorist
+present
+181231	present
+181233	aorist
+181237	aorist
+aorist
+181242	aorist
 181244	aorist
-181247	present
-181250	present
+181246	present
 181252	aorist
-181259	present
-181262	present
-181265	present
-181279	aorist
-181288	aorist
-181290	aorist
+181255	aorist
+aorist
+181260	aorist
+181263	present
+181267	present
+181269	present
+181272	present
+aorist
+perfect
+181280	present
+181283	present
+present
+aorist
+perfect
+present
+181292	present
 aorist
 181296	aorist
-181303	perfect
-181310	future
-181314	future
-181316	present
-181321	aorist
-181327	aorist
-181335	aorist
-181347	aorist
-181357	aorist
+181310	present
+181312	aorist
+181315	present
+181317	aorist
+181319	present
+aorist
+181324	aorist
+181326	aorist
+present
+181330	aorist
+181334	aorist
+181338	present
+181340	aorist
+aorist
+181346	aorist
+181349	aorist
+181353	aorist
+181355	aorist
+181359	aorist
 181363	aorist
+181367	present
+181370	aorist
+181378	aorist
+181381	future
+181383	present
+181386	present
 aorist
-181368	present
-181379	present
-181382	present
-181390	future
-181396	aorist
-181400	future
-181403	future
-181405	present
-181413	aorist
-181418	present
-181426	present
-181433	future
-181441	future
+181391	future
+181399	aorist
+181402	present
+aorist
+181407	aorist
+181412	aorist
+181415	aorist
+181420	imperfect
+present
+181424	aorist
+181428	perfect
+181430	aorist
+181437	aorist
+181439	aorist
+181441	aorist
 181443	aorist
-181445	aorist
-181451	aorist
-181456	present
+181450	aorist
+181453	imperfect
 181461	aorist
-181468	present
-181470	present
-181473	aorist
+181463	imperfect
+181466	aorist
+181473	imperfect
 181479	aorist
-181484	present
-181487	present
-181499	present
-181516	aorist
-181523	imperfect
-181530	present
-181537	aorist
-181539	aorist
-181543	aorist
-181549	aorist
-181553	aorist
-181555	aorist
-181561	future
-181564	aorist
+181482	aorist
+181484	aorist
+181487	aorist
+181489	aorist
+181491	imperfect
+present
 aorist
-181579	aorist
-181586	present
-181590	present
-181601	aorist
-181603	aorist
-181611	aorist
-181613	present
-181617	aorist
-181619	aorist
-181628	aorist
-181640	future
-181650	present
-181666	aorist
-181680	present
-181684	aorist
-181693	present
-181697	present
-181700	aorist
+181500	aorist
+181502	aorist
+181504	aorist
+181507	present
+181511	present
+181514	imperfect
+181517	aorist
+181519	present
+181523	present
+181526	aorist
+181529	present
+181534	present
+181538	aorist
+181540	present
+181543	future
+181547	present
+181552	present
+181559	aorist
+181562	present
+aorist
+181567	present
+aorist
+181570	aorist
+181574	present
+181577	aorist
+aorist
+181581	present
+181583	aorist
+181588	aorist
+181592	aorist
+present
+aorist
+181598	present
+aorist
+181603	imperfect
+181608	aorist
+181611	present
+181613	imperfect
+181618	aorist
+181620	present
+181622	perfect
+181624	present
+aorist
+181629	aorist
+181633	present
+181636	imperfect
+181641	aorist
+181645	perfect
+181649	aorist
+perfect
+aorist
+181656	present
+181663	present
+181665	aorist
+present
+181668	present
+181671	perfect
+181676	aorist
+181678	aorist
+181683	perfect
+181686	aorist
+181688	future
+181691	aorist
+181693	aorist
+181697	aorist
+181699	aorist
+181709	aorist
 181712	aorist
-181733	aorist
-181748	present
-181762	present
-181764	aorist
-181767	aorist
-181773	present
+181714	aorist
+181716	aorist
+181719	aorist
 aorist
-181791	present
+181723	aorist
 aorist
-181809	present
-181811	aorist
-181814	aorist
-181820	present
-181827	aorist
+aorist
+181730	present
+aorist
+aorist
+181736	aorist
+181740	future
+181742	aorist
+181746	aorist
+181748	aorist
+aorist
+181752	aorist
+181754	aorist
+181756	present
+aorist
+181763	present
+181766	aorist
+aorist
+181776	aorist
+181783	aorist
+aorist
+181787	present
+181789	aorist
+181794	perfect
+181796	aorist
+181800	aorist
+181807	aorist
+181812	aorist
+181816	aorist
+181819	present
+181821	present
+181827	imperfect
+181829	present
 181832	present
+181838	aorist
+181840	present
+181844	present
+181847	present
+181850	aorist
+181856	present
+181861	pluperfect
+181863	present
+181867	imperfect
+imperfect
+181873	present
+181875	perfect
+181878	aorist
+181882	present
 aorist
-181843	present
-181845	aorist
-181853	present
-181868	present
-181885	present
-181887	aorist
-181895	aorist
-181902	future
-181913	aorist
+181886	present
+181888	pluperfect
+181892	aorist
+181894	present
+181899	aorist
+181903	present
+181910	aorist
+181918	aorist
+181921	aorist
+181925	aorist
+aorist
+181929	aorist
+181932	present
+181935	aorist
+181939	aorist
+181941	present
+181946	aorist
 present
-181916	present
-181919	aorist
-aorist
-181923	present
-181926	present
-181940	perfect
-181943	present
-181958	aorist
-181968	aorist
-181974	present
-aorist
-181986	aorist
-aorist
-181996	aorist
-aorist
-182016	aorist
-182022	aorist
-182024	aorist
-182035	aorist
+181949	present
+181951	aorist
+181954	imperfect
+181957	aorist
+181961	imperfect
 present
-182048	present
-182052	aorist
-182059	future
-perfect
-182067	aorist
-182074	future
-perfect
-182081	present
-182087	aorist
-182103	aorist
-future
-182121	present
-182125	perfect
-182134	present
-182141	aorist
-182145	aorist
-182149	future
-182159	future
-182164	present
-182170	present
-182184	aorist
-182195	aorist
 aorist
-182205	aorist
-182208	present
 aorist
-182218	present
-182221	aorist
+181969	present
+181973	present
 aorist
-182227	aorist
-182240	present
-182242	aorist
+181976	aorist
+181980	present
+181982	present
+181987	future
+181989	aorist
+181992	aorist
+182001	aorist
+182006	aorist
 aorist
-182248	imperfect
+182009	aorist
+182014	aorist
+182018	aorist
+182023	aorist
+182026	aorist
+182029	aorist
+182032	aorist
+182042	aorist
+182044	aorist
+182046	present
+present
+182051	aorist
+182053	aorist
+182056	imperfect
+182062	aorist
+182064	aorist
+182068	aorist
+182073	aorist
+182076	aorist
+present
+182079	aorist
+182084	aorist
+182086	aorist
+182090	aorist
+182093	present
+182097	aorist
+182099	aorist
+182102	perfect
+182104	aorist
+182106	aorist
+aorist
+aorist
+182111	aorist
+182114	present
+182117	present
+imperfect
+182122	aorist
+182129	perfect
+182131	present
+182136	present
+182145	present
+imperfect
+182148	present
+182152	present
+present
+182158	present
+aorist
+182163	present
+182166	aorist
+182171	present
+182175	imperfect
+182177	aorist
+182180	present
+aorist
+182183	present
+aorist
+182189	future
+182191	perfect
+182194	aorist
+182197	present
+182199	aorist
+182203	present
+182208	aorist
+182210	imperfect
+182216	aorist
+182226	aorist
+182229	present
+182233	aorist
+182235	present
+182241	aorist
+182245	perfect
+aorist
+imperfect
 182250	present
-aorist
-182257	future
-182259	aorist
+182254	aorist
+182258	aorist
+182260	aorist
+182264	aorist
+182266	imperfect
 182270	aorist
-182276	aorist
-182278	aorist
+aorist
+aorist
+present
+182275	future
+182280	aorist
+182282	aorist
 182285	aorist
-182294	imperfect
-182300	aorist
-182302	imperfect
-present
+182289	aorist
+182295	aorist
+182298	aorist
+182301	aorist
+182307	perfect
 aorist
-182307	present
+182310	aorist
+182316	aorist
+182321	aorist
+182327	present
+182329	aorist
+182332	present
 aorist
-182315	imperfect
-182317	present
-aorist
-182323	future
-182328	imperfect
-182330	aorist
-aorist
-182337	aorist
-182339	present
-aorist
+182335	present
+182338	imperfect
+182340	imperfect
+182346	present
 182348	aorist
+182352	present
+182355	imperfect
+182369	aorist
 aorist
-182352	aorist
+182377	aorist
+182380	aorist
+182382	aorist
+182388	aorist
 aorist
-182362	aorist
-182364	aorist
-182371	present
-182383	aorist
-182386	aorist
-182389	imperfect
-182393	aorist
-182402	aorist
-182404	aorist
+182391	aorist
+182394	aorist
+182399	aorist
+182406	aorist
 182410	aorist
-182418	aorist
-182422	present
-182436	future
-182440	aorist
-182455	aorist
+182415	aorist
+182428	present
+182431	aorist
+182436	present
+182438	aorist
+182442	aorist
+182444	present
+182447	present
+aorist
+182450	aorist
 182457	aorist
-182466	aorist
-182473	aorist
-182490	aorist
+182459	aorist
+182462	aorist
+182464	aorist
+182468	future
+182473	imperfect
+182476	present
+182478	present
+aorist
+182481	perfect
+182484	aorist
+aorist
+182487	aorist
+182493	present
 182496	aorist
-182500	aorist
-182503	present
-182506	present
-182508	present
+182501	aorist
+182504	aorist
+182506	aorist
+182509	aorist
+182512	aorist
 aorist
-182522	aorist
-aorist
-182525	aorist
-182528	aorist
-182535	aorist
-182538	aorist
-182542	future
-182552	future
-182559	future
-182570	present
-182581	aorist
-182584	present
+182516	imperfect
+182518	imperfect
+182534	aorist
 present
-182590	aorist
+182537	aorist
+182540	aorist
+182543	aorist
+182546	present
+182548	perfect
+182551	perfect
+present
+182554	present
+182556	aorist
+182559	aorist
+present
 aorist
-182596	aorist
+182564	imperfect
+182567	aorist
+aorist
+182572	aorist
+182576	aorist
+present
+182583	future
+aorist
+aorist
+182588	aorist
+182595	aorist
+aorist
+182600	aorist
+182602	aorist
+182604	present
 present
 182608	aorist
-182610	aorist
-182621	perfect
-182623	present
-182629	aorist
+aorist
+182613	aorist
+182616	present
+182620	present
+present
+aorist
+182626	aorist
+182631	future
+present
+182635	aorist
+182638	aorist
 182641	aorist
-182643	present
-present
-182651	present
-182666	present
+182644	aorist
+182646	aorist
+182651	aorist
+182653	aorist
+182655	present
 aorist
-182670	aorist
-182674	present
-182682	perfect
-present
-182692	aorist
-182695	present
-182698	aorist
-182705	present
+182661	aorist
+aorist
+182665	present
+182668	aorist
+182673	future
+182677	future
+182680	aorist
+182682	aorist
+182684	aorist
+182686	aorist
+182696	aorist
+182702	aorist
+182706	aorist
 182708	aorist
-182720	present
-present
-present
-182724	aorist
-182731	aorist
-182734	aorist
-182739	aorist
-182745	aorist
+182711	aorist
+182713	aorist
+182715	aorist
+182717	present
 aorist
+182726	aorist
+182728	aorist
+182731	present
+182742	present
+182744	present
+182746	aorist
+182749	aorist
 182752	present
-182754	aorist
-182762	present
-182771	aorist
-182776	aorist
-182779	aorist
-182781	aorist
-182783	aorist
-182788	aorist
-182790	aorist
-182796	aorist
-182800	present
-182807	present
-182813	present
-182819	aorist
+182764	perfect
+182768	aorist
 present
-182824	present
-182831	imperfect
-182834	future
-182836	future
-182838	future
-182840	future
+182775	future
+182779	present
+182782	aorist
+182786	present
+182789	aorist
 present
-182850	future
-182858	present
+182793	present
+182799	imperfect
+182808	imperfect
+182812	present
+182816	imperfect
+182818	perfect
+182826	present
+182830	imperfect
+present
+present
+182838	present
+182840	aorist
+aorist
+182847	aorist
+182852	future
+182856	aorist
+182860	aorist
 182866	aorist
-182869	present
-imperfect
-182876	present
-182878	present
+182872	present
+182875	aorist
 present
-aorist
-182884	present
+182882	present
 182886	aorist
-182889	future
-182895	present
-present
-182898	aorist
-182906	aorist
-present
-182909	imperfect
-182911	present
-182919	aorist
-182926	present
-182931	future
+182890	present
+182895	aorist
+182900	present
+182904	imperfect
+182908	present
+182912	imperfect
+182917	imperfect
+182921	aorist
+182923	aorist
+182927	present
+182932	present
+182934	perfect
+182937	perfect
+182941	present
 182943	present
-182946	present
-182953	aorist
-182965	aorist
-182970	imperfect
-182972	present
-182975	present
-aorist
-aorist
+182947	present
+182952	aorist
+182956	present
+182959	imperfect
+182963	aorist
+182966	present
+182969	future
+182971	aorist
+182975	aorist
+182977	aorist
+182980	aorist
 182982	aorist
-182989	present
-182997	aorist
-183001	aorist
-183003	aorist
+182991	present
+182995	aorist
+182998	aorist
 183005	aorist
-183008	aorist
-183012	future
-183018	aorist
-183021	present
-183026	aorist
-183034	aorist
-183049	future
-183058	present
+183008	present
+183013	aorist
+183016	imperfect
+183018	imperfect
+183027	present
+183033	imperfect
+183041	aorist
+present
+183045	aorist
+aorist
+183048	perfect
+183051	present
+183056	aorist
+183059	aorist
+183061	aorist
+183064	aorist
+183070	aorist
 183072	aorist
-183094	future
-183099	future
-183103	future
-183111	present
-183122	aorist
-183126	aorist
+183075	aorist
+183078	present
+183080	present
+183082	present
+183091	present
+183093	present
+183096	aorist
+183110	aorist
+aorist
+183121	imperfect
+present
+183125	present
+183129	aorist
+aorist
+183132	aorist
 183135	aorist
-183148	aorist
-183158	aorist
-183164	aorist
-183167	perfect
-183176	aorist
+183139	imperfect
+183143	aorist
+183145	aorist
+183147	imperfect
+183151	present
+183153	present
+183161	aorist
+183164	present
+183168	aorist
+183171	imperfect
 present
-183189	present
-183191	future
+183175	pluperfect
+183180	aorist
+aorist
+183183	aorist
+183187	imperfect
+183189	aorist
 183195	aorist
-183198	aorist
-183206	aorist
-183214	aorist
-aorist
-183217	perfect
-183219	present
-183223	perfect
+183198	present
+183202	present
+183205	present
+183207	present
+183212	present
+183215	aorist
+183218	aorist
+183220	aorist
+present
 183230	present
-183235	aorist
-present
+183232	present
+183235	present
 183238	present
-183249	aorist
 present
-183263	aorist
-183268	aorist
-183272	aorist
-183283	aorist
-183294	aorist
-183298	aorist
-183302	aorist
-183305	future
-183307	aorist
-183316	aorist
-183318	imperfect
-183324	present
-183333	aorist
-183338	aorist
-183340	aorist
-183354	aorist
-183358	aorist
-183361	present
-183365	aorist
+183243	present
+present
+183246	aorist
+183248	aorist
+aorist
+183252	aorist
+183254	present
+183256	present
+aorist
+183260	aorist
+183264	aorist
+183266	aorist
+183269	aorist
+183272	present
+183274	present
+183277	aorist
+183279	present
+183281	aorist
+183284	aorist
+183289	aorist
+183295	aorist
+aorist
+present
+183300	present
+183305	present
+183308	aorist
+183313	imperfect
+183315	imperfect
+183319	aorist
+183323	aorist
+183326	present
+183328	aorist
+183332	present
+183338	imperfect
+183342	present
+present
+183346	present
+183350	present
+aorist
+183355	aorist
+183358	imperfect
+183360	aorist
+present
+183365	imperfect
 183367	aorist
-183372	present
+183371	present
+183374	present
+183377	imperfect
+183382	present
+183384	present
+183391	present
 present
-183380	aorist
-183386	present
-183389	present
-aorist
-183403	present
-183407	present
-183409	future
+183394	present
+present
+183402	aorist
+183408	present
+183410	present
+183414	present
 183419	present
-183421	present
-183426	aorist
-183439	aorist
-183441	aorist
+183421	aorist
+183423	present
+183427	aorist
 present
-183454	future
-183461	future
-183467	future
-183475	aorist
-183477	aorist
+183430	aorist
+183434	present
+183437	perfect
+183440	present
+183444	present
+183448	present
+183451	present
+present
+aorist
+183457	present
+183462	aorist
+183465	aorist
+183467	aorist
+183470	present
+183473	present
+183475	present
 183479	aorist
-183486	future
-183488	aorist
-183506	present
-183508	present
-183515	aorist
-183518	present
-present
-183521	aorist
-183523	aorist
-183551	aorist
-183556	aorist
-183558	perfect
-183560	present
-present
+183481	aorist
+183488	imperfect
+183491	imperfect
+183494	present
 aorist
-183568	present
+183498	present
+183502	present
+183504	present
+183507	aorist
+aorist
+183511	present
 present
+183520	imperfect
+183525	imperfect
+183529	imperfect
+183535	aorist
+183537	present
+183541	imperfect
+183547	present
+183549	aorist
+183551	present
+183554	present
 present
-183572	present
+183558	present
+aorist
+aorist
+183571	present
+183573	present
+183582	present
+183587	present
+183589	aorist
+183592	present
+183600	present
 present
-183581	future
-183584	aorist
-183595	present
-183598	aorist
-183601	perfect
-183610	aorist
-183614	aorist
-183626	aorist
-183628	aorist
-perfect
+183603	present
+183607	present
+present
+future
+183612	aorist
+183617	future
+183624	present
+183630	present
 183638	present
-183644	present
-183648	present
-183655	present
-183660	aorist
-future
-183668	present
-183672	present
-183674	future
-183687	aorist
-aorist
-183690	aorist
-183692	aorist
-183704	present
-183709	aorist
-183715	aorist
-183720	present
-183726	aorist
-183729	present
-aorist
+183641	present
+183648	future
+183653	present
+183661	aorist
+183665	present
+183671	aorist
+183673	present
 present
+183678	imperfect
+183680	aorist
+183682	present
+183686	present
+183688	present
+183691	aorist
+183693	aorist
+183697	aorist
+183699	aorist
+183704	aorist
+183714	aorist
+183717	present
+aorist
+183723	aorist
+183726	present
+183728	imperfect
 183733	aorist
-183742	aorist
-183745	aorist
-183749	aorist
+183741	present
+183748	aorist
+183752	imperfect
+183755	perfect
 present
-183752	aorist
-183758	aorist
-183762	aorist
+183759	imperfect
+183762	future
 183765	aorist
-183767	present
-aorist
-183770	present
-183774	aorist
-183780	aorist
-183785	aorist
+183768	present
+183772	present
+present
+183777	present
+183779	present
+183782	aorist
+183784	aorist
+183786	aorist
+183788	aorist
+183791	imperfect
 183793	aorist
-183795	aorist
-183799	aorist
+183796	present
+183802	present
 183804	aorist
-183819	aorist
-183823	present
-183825	present
-183838	future
-183840	perfect
-183846	aorist
+183807	aorist
+183809	aorist
+183813	aorist
+183819	imperfect
+183823	aorist
+183829	aorist
+183837	aorist
+183853	present
+183855	present
 aorist
-183853	aorist
-183855	future
-183863	present
-183866	future
-183870	perfect
-183872	aorist
+183859	aorist
+183864	present
+183870	present
 183874	aorist
-183880	present
-aorist
-183887	aorist
-183893	present
-183897	perfect
-183908	aorist
-183914	aorist
-183916	aorist
+183876	present
+183880	aorist
+183882	imperfect
+183890	imperfect
+imperfect
+183894	imperfect
+present
+183898	present
+183904	imperfect
+183910	aorist
+183912	present
+183916	present
+183918	imperfect
 183921	aorist
-183930	aorist
-183938	aorist
-183948	aorist
-183961	imperfect
-183969	imperfect
-183980	present
-183984	present
+183924	aorist
+183927	present
+183931	present
+183933	present
+183935	present
+183937	present
+183940	aorist
+183943	aorist
+183955	aorist
+183959	present
+183975	aorist
+183978	present
+183981	present
+183986	present
+183990	aorist
+183992	aorist
+183995	aorist
+aorist
+183998	imperfect
+184001	aorist
+184005	aorist
 imperfect
-present
-183993	perfect
-183995	present
-184008	aorist
-184013	aorist
-184019	present
-184021	present
-184027	imperfect
-184029	present
-184044	aorist
+184009	present
+184016	present
+184019	aorist
+184022	imperfect
+184025	present
+184028	present
+184033	aorist
+184035	present
+aorist
+184043	aorist
+184045	future
+184048	aorist
 184052	aorist
-184056	present
-184058	present
+184055	aorist
+present
+aorist
+184060	present
+184063	present
+184069	aorist
 184072	aorist
-184079	present
-184084	present
-184086	perfect
-184095	future
-184099	present
-184104	aorist
-184115	aorist
-184117	aorist
-184130	aorist
-184136	present
-184143	present
+184077	aorist
+184082	future
+present
+184087	future
+184095	aorist
+184098	aorist
+184104	present
+184110	present
+184113	imperfect
+184115	present
+184117	present
+184125	present
+aorist
+184128	present
+184131	imperfect
+184135	present
+184137	aorist
+184147	present
 184150	aorist
-184152	aorist
+184152	present
 184154	present
-184157	present
-184162	present
-184166	aorist
-184174	present
+184160	aorist
+184163	present
+present
 aorist
-184178	aorist
-184180	aorist
-184190	aorist
+184172	aorist
+184180	present
+184183	aorist
+present
+184188	present
 184194	aorist
-184200	aorist
-184202	aorist
-184212	aorist
-184218	aorist
-184227	present
+present
+184205	imperfect
+184207	imperfect
+184212	imperfect
+184217	present
+aorist
+aorist
+present
+aorist
+184223	aorist
+184225	present
+184228	aorist
+184232	aorist
 184235	aorist
-184242	aorist
+184239	aorist
+184244	imperfect
 184248	aorist
-184252	aorist
+184251	present
+184255	aorist
+184257	aorist
+184261	present
+184263	aorist
+184266	aorist
+184270	aorist
+184273	aorist
+184278	aorist
+184281	aorist
+184287	imperfect
+184291	imperfect
+184298	imperfect
+184300	present
+184302	present
 present
-184256	aorist
-184260	aorist
-184265	aorist
-184268	present
-184271	present
-184275	aorist
-184283	future
-184291	aorist
-aorist
-184294	aorist
-184300	future
 184306	aorist
-184312	present
-future
-184315	aorist
-184322	aorist
-184324	present
-184336	present
-184343	present
+184308	imperfect
+184316	imperfect
+184321	perfect
+184330	present
+184332	present
+present
+184336	aorist
+184338	present
+present
+184342	present
+184345	aorist
 184347	aorist
-184353	aorist
-184358	aorist
+184350	present
+184353	perfect
 184360	future
-184368	aorist
-184372	future
-184379	present
-184387	imperfect
-184397	imperfect
-184401	present
-184403	aorist
-184407	future
-184414	aorist
-184418	aorist
-184422	present
-184431	present
-184436	aorist
-184440	aorist
-184442	perfect
-imperfect
+present
+184363	present
+184366	present
+184371	present
+184375	aorist
+184377	present
+184380	present
+184382	perfect
+184385	present
+184389	present
+184392	aorist
+184396	present
+184400	present
+184405	present
+184407	aorist
+184412	present
+184415	present
+184418	present
+184420	present
+184422	aorist
+184436	present
+present
+184441	present
+184443	present
+184448	aorist
 184450	present
-184458	present
-184462	present
-184464	imperfect
-184468	aorist
-184472	aorist
-184474	present
-184476	present
-184484	aorist
-aorist
-184490	aorist
-aorist
-184496	aorist
-184500	aorist
-aorist
-184503	present
-184505	aorist
-aorist
-184514	aorist
-184522	present
-184526	present
-184532	present
-184542	present
-184553	aorist
-184566	aorist
-184576	aorist
-184580	aorist
-184582	aorist
-184585	aorist
-184590	aorist
-184592	imperfect
-184595	aorist
-184600	aorist
-184602	aorist
-184608	aorist
-184611	aorist
-184615	aorist
-184618	aorist
-184626	aorist
-184637	aorist
-184644	aorist
-184655	aorist
-184658	aorist
-184661	aorist
-184663	aorist
-184674	aorist
-184679	aorist
-184688	present
-future
-184699	aorist
-184703	aorist
-184708	present
-184712	present
+184453	present
+184455	present
+184462	imperfect
+184465	present
+184470	aorist
+184477	aorist
+184480	present
+184485	aorist
+184487	aorist
+184491	aorist
+184495	present
+184497	present
 present
-184716	aorist
+184500	imperfect
+184502	present
+184504	present
+184507	present
+future
+184511	future
+184515	present
+future
+184521	present
+184524	present
+future
+184528	imperfect
+184530	present
+184536	aorist
+184548	perfect
+184552	present
+184564	aorist
+184567	present
+184570	perfect
+184573	imperfect
+184575	aorist
+184583	aorist
+184589	aorist
+184593	present
+184601	aorist
+present
+184604	present
+184609	present
+184612	present
+184619	present
+184623	imperfect
+184627	imperfect
+present
+184632	imperfect
+184638	imperfect
+184641	present
+184647	aorist
+aorist
+184652	aorist
+184654	present
+184657	imperfect
+184662	imperfect
+184665	present
+184670	imperfect
+184675	present
+184679	imperfect
+184684	present
+184686	present
+184689	present
+184692	present
+184695	present
+184697	aorist
+aorist
+184701	aorist
+184703	present
+perfect
+184706	aorist
+184709	aorist
+184712	aorist
+184716	present
+184720	present
 184723	aorist
-184725	aorist
-184732	aorist
-184735	aorist
-184744	future
-184750	present
-184754	future
-184760	future
-184765	future
-184777	present
-184783	aorist
-184791	aorist
-184793	present
-184795	aorist
+184726	imperfect
+184731	present
+184736	present
+184739	aorist
+184749	aorist
+184754	aorist
+184763	imperfect
+184770	imperfect
+184772	aorist
+184777	perfect
+184779	perfect
+184784	perfect
+184787	imperfect
+184789	aorist
+184800	present
 184804	aorist
-184807	present
-184817	present
-184820	future
-184832	future
-184835	present
-184843	aorist
-184851	future
-184857	aorist
-future
-184861	aorist
-184874	aorist
-184879	present
-184881	present
-184883	aorist
+184807	aorist
+184809	aorist
+184812	aorist
+184814	present
+184820	present
+184825	aorist
+imperfect
+184829	aorist
+184836	imperfect
+184841	present
+184847	present
+184849	imperfect
+184855	aorist
+184858	imperfect
+184866	present
+184868	aorist
+184870	present
 aorist
-184893	imperfect
-184895	aorist
-184900	aorist
-184905	present
+184877	aorist
+184879	aorist
+184882	aorist
+184886	aorist
+184890	aorist
+184898	imperfect
+184902	present
+184904	aorist
+184906	aorist
+184913	aorist
 aorist
-184917	aorist
-184925	aorist
-184931	aorist
-184933	perfect
-184941	imperfect
-aorist
+184916	present
+perfect
+184919	present
+184923	present
+present
+present
+perfect
+184928	present
+perfect
+184932	aorist
+184934	aorist
+184936	aorist
+184938	aorist
+present
 184944	aorist
-184948	present
+present
+184947	aorist
+184952	present
+184956	imperfect
+184958	aorist
+184961	present
+184963	aorist
+184966	present
+184968	present
+184975	aorist
+184980	perfect
+184982	aorist
+184985	aorist
+184987	aorist
+present
+184992	aorist
+184997	imperfect
+184999	aorist
+185006	aorist
+185010	imperfect
+185014	present
+185021	aorist
+185023	present
+185028	present
+185031	present
+185036	present
+185038	aorist
 aorist
-184951	perfect
-aorist
-184958	perfect
-184968	perfect
-184972	present
-184980	aorist
-aorist
-185004	aorist
-185010	aorist
-185012	aorist
-185017	aorist
-185019	aorist
-185025	aorist
-185037	aorist
-185039	present
-185050	present
-185053	perfect
-185055	imperfect
-185057	present
-185071	aorist
-aorist
+185043	aorist
+185045	aorist
+185047	aorist
+185050	imperfect
+185054	imperfect
+185058	present
+185064	aorist
+185068	aorist
+185074	aorist
 185079	aorist
-185090	aorist
-185094	aorist
-185100	aorist
-185104	present
 aorist
-185110	aorist
-185112	present
+185084	aorist
+185088	aorist
+185091	imperfect
+185095	aorist
+185099	future
+185102	aorist
+185108	aorist
+185111	perfect
+185117	aorist
+185122	aorist
 aorist
-185118	perfect
-185123	present
-185127	aorist
-185130	present
-185136	aorist
-185141	aorist
-185145	aorist
-185151	aorist
-185163	future
-185177	present
-185183	aorist
-185188	aorist
-185191	aorist
+185126	imperfect
+185129	aorist
+185132	imperfect
+185136	present
+185138	present
+185141	present
+185144	aorist
+185146	imperfect
+aorist
+185149	aorist
+185153	perfect
+185155	perfect
+185157	aorist
+185159	aorist
+185162	aorist
+185168	aorist
+185173	perfect
+185175	present
+185178	present
+185185	present
+present
+185189	present
+185193	aorist
 185196	present
+185200	aorist
+185202	present
+present
+185206	present
 185208	present
-185210	perfect
-185213	present
-185225	present
-185228	present
-185235	present
+185211	aorist
+185214	aorist
+185223	present
+185229	present
+185234	aorist
+present
 185241	aorist
-185246	present
+185243	present
+185245	imperfect
+185249	aorist
+185251	present
+185261	present
+185263	imperfect
+185266	aorist
+185270	present
+185273	aorist
+185278	present
 present
+185282	aorist
+185285	imperfect
+imperfect
+185290	aorist
+185294	aorist
+185299	aorist
+185302	aorist
 aorist
-185253	aorist
-185263	aorist
-185266	present
-185268	aorist
-185279	aorist
-185283	present
-185295	present
-185298	present
-185300	aorist
-185316	aorist
-aorist
-185319	aorist
-185321	aorist
-185329	aorist
-185333	present
-185335	present
-185338	aorist
-185340	present
-185343	aorist
-185346	aorist
-185348	present
-185350	future
-185362	future
-185369	imperfect
-185381	aorist
-aorist
-185385	present
-185387	aorist
-185416	aorist
-185432	future
-185436	aorist
-185438	aorist
-185443	aorist
-185445	present
-185447	perfect
-185466	present
-185468	present
-185479	present
-185491	aorist
-185493	aorist
-185500	present
-185502	present
-185521	present
-185528	present
-185530	aorist
-185534	imperfect
-185546	aorist
-185548	aorist
-185552	aorist
-185559	aorist
-185566	present
-185581	imperfect
-185583	future
-185620	present
-185631	future
-185653	present
-185658	perfect
-185663	aorist
-185668	present
-185671	present
-185680	present
+185305	aorist
+185307	aorist
+185310	present
+185315	present
+185320	aorist
+185322	aorist
 present
-185686	present
-185694	present
-185697	present
+185328	present
+imperfect
+present
+185337	aorist
+185345	present
+185347	present
+185358	present
+185364	imperfect
+185367	imperfect
+185372	present
+185390	imperfect
+185392	aorist
+185397	aorist
+185399	aorist
+185401	aorist
+185406	imperfect
+185409	present
+185411	present
+185414	aorist
+185416	present
+185418	imperfect
+185425	aorist
+185429	present
+185444	perfect
+185448	aorist
+185451	imperfect
+185454	aorist
+185457	present
+185459	aorist
+185464	aorist
+185467	aorist
+185469	present
+185471	aorist
+185480	aorist
 aorist
-185705	present
+185483	present
+185486	imperfect
+185488	imperfect
+185492	imperfect
+185494	aorist
+185498	aorist
+185502	imperfect
+185504	present
+perfect
+185509	present
+185514	imperfect
+185517	present
+185520	imperfect
+185526	aorist
+185529	imperfect
+185532	aorist
+185535	aorist
+185539	aorist
+aorist
+185543	aorist
+185553	aorist
+imperfect
+185560	present
+185562	present
+185569	imperfect
+185572	imperfect
+185574	aorist
+185577	imperfect
+185580	imperfect
+185582	perfect
+185587	imperfect
+185590	aorist
+185593	imperfect
+185597	imperfect
+185599	aorist
+185605	aorist
+185615	aorist
+185621	aorist
+aorist
+185625	present
+185628	aorist
+185630	aorist
+185633	present
+185635	future
+185638	aorist
+185643	aorist
+future
+185651	aorist
+aorist
+185656	aorist
+185659	aorist
+185662	present
+185664	aorist
+185669	aorist
+present
+present
+185674	aorist
+185682	aorist
+185687	present
+185689	aorist
+aorist
+185694	aorist
+185697	aorist
+aorist
+185702	aorist
+aorist
+185708	aorist
 185713	aorist
-185729	present
+185718	aorist
+185723	aorist
+185726	aorist
+185728	aorist
+185732	aorist
 185736	present
-185739	imperfect
-aorist
-185744	aorist
-185753	aorist
-185760	aorist
-185770	present
+185741	aorist
+185745	aorist
+185748	aorist
+185750	present
+185752	present
+185758	aorist
+185760	imperfect
+185762	present
+185764	present
+185768	aorist
+imperfect
+185771	aorist
 185778	aorist
-185791	aorist
-185793	aorist
-185795	present
-185805	present
-present
-185810	present
-present
-185817	present
-185835	present
+185780	present
+185782	aorist
+185789	aorist
+185792	aorist
+185795	aorist
 aorist
-185846	present
-185850	aorist
+185799	aorist
+185802	imperfect
+185807	present
+185810	aorist
+present
+185818	aorist
+aorist
+185823	imperfect
+185826	present
+185832	aorist
+185835	aorist
+185840	aorist
+185843	aorist
+185846	aorist
+aorist
+185849	aorist
+185852	aorist
 185854	present
-185862	present
+185856	aorist
+aorist
+185861	future
+185863	aorist
 185866	present
-185898	present
-185908	aorist
-185912	present
-185923	present
-185928	aorist
-185937	present
-185947	aorist
-185953	present
-185964	future
-185970	future
-185972	future
-185975	future
-185977	future
+185869	present
+present
+aorist
+185873	aorist
+present
+185878	aorist
+185880	aorist
+185886	aorist
+185891	aorist
+185897	aorist
+185900	aorist
+185902	aorist
+185905	imperfect
+185908	present
+185913	aorist
+185916	aorist
+185919	aorist
+185921	aorist
+185928	imperfect
+aorist
+185934	aorist
+185937	aorist
+185941	present
+185947	present
+185950	aorist
+185952	aorist
+185955	aorist
+185958	aorist
+imperfect
+185970	aorist
+185972	present
+185974	present
+imperfect
+185984	present
 185986	present
-186002	present
-186005	present
-present
+185990	imperfect
 aorist
-186015	present
-186023	aorist
-186028	aorist
-present
-186044	present
+185995	aorist
+185999	present
+aorist
+186003	present
+186005	aorist
+186009	aorist
+186011	aorist
+186015	aorist
+186018	present
+186020	present
+186022	present
+186024	present
+186026	aorist
+186031	aorist
+186037	imperfect
+186039	aorist
 186047	aorist
-186054	present
-186058	aorist
-186068	present
-186075	present
-186084	aorist
-186091	aorist
-186098	present
-186102	aorist
-186113	present
-186126	present
-186132	aorist
-186138	present
-186154	aorist
-186160	present
-186168	present
-186172	aorist
-186178	present
-186192	present
-186203	present
-186216	aorist
-186237	imperfect
+186050	aorist
+186053	aorist
+186055	aorist
+186060	aorist
+186062	aorist
+186067	aorist
+186071	present
+present
+186074	imperfect
+186076	present
+186079	imperfect
+186087	imperfect
+present
+186090	imperfect
+186098	aorist
+186101	aorist
+186103	imperfect
+186105	present
+186111	aorist
+186114	aorist
+186121	present
+186123	present
+186133	aorist
+186136	present
+present
+186145	aorist
+186147	present
+186151	present
+186153	aorist
+present
+186159	present
+186166	present
+186175	present
+186179	aorist
+186182	aorist
+186187	perfect
+186193	present
+186198	present
+186202	present
+186204	present
+186207	aorist
+186211	present
+186216	imperfect
+186219	present
+186226	aorist
+186229	aorist
+present
+186237	present
+186240	present
+186243	present
+186245	aorist
+186251	present
+186255	aorist
+186257	present
+186260	aorist
+186264	present
+186271	aorist
+186275	present
+186277	aorist
+186280	imperfect
+186282	aorist
+186286	aorist
+186288	present
+186292	present
+186295	present
 aorist
-186241	aorist
-186246	present
-186254	present
-186262	present
-186276	present
-186285	aorist
-186295	aorist
-186311	present
-186314	perfect
-186318	present
+186301	present
+present
+present
+186307	aorist
+186311	imperfect
+186317	present
 186322	present
+186324	present
+186328	present
+186332	present
+186334	aorist
 186336	present
-186343	present
+186346	present
+present
+186350	imperfect
 186355	present
-186364	present
-186373	present
-186375	imperfect
+186357	present
+186368	present
+186374	present
+186376	present
+186380	aorist
+aorist
+186386	aorist
 186389	imperfect
-186403	present
-186408	present
-186410	aorist
-186416	aorist
-186431	aorist
+aorist
+186393	aorist
+aorist
+186397	aorist
+186400	imperfect
+186404	aorist
+aorist
+186411	imperfect
+186416	imperfect
+186420	aorist
+186425	imperfect
+186427	aorist
+186429	aorist
+186433	present
+186435	aorist
+186441	aorist
 186444	aorist
 186446	present
-186458	future
-186460	future
-186465	future
-186474	future
-186482	aorist
-186491	present
-186518	aorist
-186529	present
-186531	future
-186545	present
-186550	present
-186552	perfect
-186557	aorist
-aorist
-186568	present
-186581	aorist
-aorist
-present
-186590	present
-186597	aorist
-186603	aorist
+186454	present
+186460	aorist
+186465	present
 perfect
+186472	aorist
+186476	aorist
+186478	perfect
+186483	perfect
+186486	aorist
+186490	aorist
+186501	present
+186505	present
+186508	aorist
+186512	aorist
+186517	aorist
+186524	aorist
+aorist
+186529	aorist
+186532	aorist
+186534	present
+186536	aorist
+186538	present
+aorist
+186541	aorist
+186546	aorist
+186552	imperfect
+186555	aorist
+186559	present
+186563	imperfect
+186566	imperfect
+186569	imperfect
+present
+186573	perfect
+186576	present
+present
+186580	present
+186586	present
+186589	present
+186591	aorist
+aorist
+186594	present
+186596	present
+186602	present
 186606	present
-186613	aorist
-186622	imperfect
-186624	aorist
-186630	aorist
-186641	aorist
-aorist
-186645	present
-186650	present
+186608	aorist
+186611	aorist
+186615	future
+186621	present
+186623	aorist
+186630	future
+186633	aorist
+186637	imperfect
+186640	present
+186643	aorist
+186646	present
+186648	aorist
+186652	aorist
 186655	aorist
-186663	future
-present
+aorist
+186658	imperfect
+186662	present
+186664	aorist
+186667	imperfect
+186670	aorist
+186672	aorist
+186674	present
 186676	aorist
-186684	present
+186678	aorist
+186680	aorist
+186683	imperfect
+186687	aorist
+186691	aorist
+186697	aorist
+186702	aorist
+186705	aorist
+present
+186708	present
+186713	present
+186716	aorist
+186719	present
+186723	present
+186725	present
+186728	future
+186733	aorist
+186736	aorist
 aorist
-186689	future
-186708	aorist
-186712	aorist
-186714	present
-186718	aorist
-186721	future
-186729	present
-186731	present
-186737	future
-future
-186740	present
-186746	present
-186748	present
+186741	aorist
+aorist
+186749	imperfect
+186754	imperfect
+186756	present
 present
-186751	aorist
-186754	present
-186758	future
-186770	future
-186785	future
-186791	future
-186795	future
 present
-186813	future
-186817	future
-186819	future
-186825	future
-186827	future
-186833	aorist
-186837	future
-186847	aorist
-186852	future
-186854	future
-186881	future
-186887	aorist
-186896	aorist
-186903	perfect
-186910	present
+186767	imperfect
+186772	present
+186774	aorist
 present
+186778	present
+186782	present
+186785	perfect
+present
+186790	present
+186792	present
+186795	present
+186797	present
+186800	present
+186804	aorist
+186810	aorist
+present
+186821	aorist
+186823	present
+186826	imperfect
+186829	present
+186831	present
+186834	present
+186838	present
+186842	aorist
+186844	aorist
+186848	aorist
+186853	aorist
+186857	aorist
+186860	imperfect
+186863	present
+186865	aorist
+imperfect
+present
+186872	present
+present
+186876	aorist
+186882	aorist
+186884	aorist
+186886	imperfect
+186890	aorist
+186894	present
+186898	aorist
+186900	aorist
+186913	imperfect
+186916	present
 186920	present
-186934	aorist
+186922	present
+186925	aorist
+186927	present
+186940	imperfect
+186946	present
+present
 aorist
-186954	aorist
+186950	present
+186953	present
 186956	aorist
-186968	present
-186971	present
-186979	present
-186983	aorist
-186992	future
-187000	perfect
-187015	aorist
-187019	aorist
-187027	aorist
-187037	future
-187047	aorist
-aorist
-187056	aorist
-future
-187063	future
-187070	aorist
-187078	aorist
-perfect
-187083	aorist
-187085	aorist
-187091	present
-187093	aorist
-aorist
-187101	aorist
-187107	present
-187112	present
-187117	future
-187131	present
-187136	future
-187156	future
-187162	future
-187172	future
-187186	future
-187189	future
-187206	future
-187217	future
-187225	present
-187243	future
-187255	future
-187284	aorist
-187295	aorist
-187301	present
+186960	present
+186963	aorist
 present
-187312	aorist
-187316	present
+186967	present
+186972	aorist
+186974	aorist
+186982	aorist
+186986	aorist
+186990	imperfect
+186992	aorist
+186995	aorist
+present
+187000	aorist
+187002	aorist
+187005	aorist
+187008	present
+present
+187013	present
+187020	aorist
+187025	aorist
+187029	present
+187031	aorist
+aorist
+187035	aorist
+187039	present
+187043	present
+187046	aorist
+future
+187051	future
+187057	future
+187061	present
+187063	aorist
+187067	aorist
+187072	aorist
+187079	aorist
+187092	future
+187095	aorist
+187106	imperfect
+187108	present
+187111	present
+187114	perfect
+187117	aorist
+187120	aorist
+187124	perfect
+187129	present
+187136	present
+187143	aorist
+187148	aorist
+187150	present
+187157	present
+187159	aorist
+187161	aorist
+187169	aorist
+187171	present
+187175	present
+187178	present
+187180	aorist
+187192	pluperfect
+187194	aorist
+187197	aorist
+187199	aorist
+187201	present
+187204	aorist
+187209	present
+187213	present
+187217	aorist
+187220	aorist
+187226	present
+187230	aorist
+187235	aorist
+aorist
+187243	aorist
+187246	aorist
+187248	present
+187250	present
+187252	aorist
+187254	imperfect
+187256	present
+187258	present
+187262	present
+aorist
+187267	imperfect
+187270	aorist
+187272	present
+187276	perfect
+187283	aorist
+187285	aorist
+187287	present
+187291	perfect
+187293	aorist
+187296	imperfect
+187298	perfect
+187301	aorist
+187304	aorist
+187309	present
+187315	aorist
+187317	aorist
 187319	present
-187324	present
-187330	aorist
-187341	aorist
-187349	future
-187359	aorist
-187371	perfect
-187400	future
-187415	imperfect
-187430	present
-187432	present
+imperfect
+187323	aorist
+187326	present
+187329	aorist
+187335	aorist
+187339	present
+187344	aorist
 present
-187435	present
-187441	aorist
-187450	aorist
-187452	aorist
-187457	aorist
-187460	future
-187475	future
-187483	present
-187486	present
-187488	present
-187495	present
-187498	present
+187348	present
+187350	present
+187353	present
+187355	aorist
+187360	aorist
+187363	aorist
+187366	aorist
+187368	present
+187373	future
+187375	future
+187377	present
+187381	aorist
+187385	aorist
+187389	aorist
+187392	aorist
+187395	imperfect
 present
-187503	perfect
-187512	present
-187515	present
-187518	pluperfect
-187528	present
+187398	aorist
+187402	present
+187404	perfect
+187408	aorist
+187415	aorist
+187419	aorist
+187424	present
 aorist
-187534	aorist
-aorist
-187547	present
-187552	present
-187561	present
-187564	present
-187573	aorist
-187585	aorist
-187600	aorist
-187606	future
-187608	present
-187610	present
-187619	present
-187621	future
-187625	aorist
-187640	present
-187647	aorist
+187427	aorist
+187431	aorist
+187434	present
+187437	present
+187439	aorist
+187443	imperfect
 present
-187654	present
-187657	present
-187661	present
+present
+187448	aorist
+187452	present
+187454	aorist
+187458	present
+187464	present
+187466	aorist
+187470	aorist
+187473	aorist
+187476	aorist
+aorist
+187479	aorist
+187484	present
+187486	aorist
+187489	aorist
+187492	aorist
+187495	aorist
+187497	aorist
+187503	imperfect
+187508	aorist
+aorist
+187512	aorist
+187517	present
+aorist
+187523	aorist
+imperfect
+187529	imperfect
+187532	aorist
+imperfect
+187538	imperfect
+187544	present
+187548	future
+187551	aorist
+187554	future
+187557	imperfect
+187560	imperfect
+187562	aorist
+187564	aorist
+187569	aorist
+imperfect
+187575	imperfect
+187578	imperfect
+187581	aorist
+187587	aorist
+aorist
+187591	present
+187595	present
+187597	present
 future
-187677	present
-187684	present
-187686	future
-187699	future
-187701	future
-187714	future
+187603	aorist
+187605	aorist
+187610	aorist
+187612	aorist
+187618	aorist
+187623	present
+187627	present
+187630	present
+187632	aorist
+187634	imperfect
+187638	aorist
+187643	present
+187647	present
+187650	imperfect
+187654	imperfect
+187658	aorist
+187660	present
+187664	present
+187666	future
+187672	future
+187674	aorist
+187679	present
+187682	present
+187685	aorist
+187691	present
+present
+187696	aorist
+187701	aorist
+187705	present
+187707	present
+187711	present
+187717	perfect
+187722	aorist
 187726	aorist
+187729	present
 187732	aorist
-187746	imperfect
-187755	aorist
-187760	aorist
-187769	aorist
-187783	present
-187788	aorist
-187791	imperfect
-187797	perfect
+187738	present
 aorist
-187802	present
-187807	aorist
-187816	aorist
-187829	aorist
+187750	present
+187752	aorist
+187755	present
+187757	aorist
+187764	present
 aorist
-187845	present
+187772	present
+187774	aorist
+187778	present
+187780	aorist
+187787	present
 aorist
-187851	present
-187857	aorist
-187861	present
-187866	present
-187868	aorist
-187870	present
-187873	aorist
-aorist
-187882	aorist
-187892	aorist
-187898	present
-187906	present
-187909	aorist
-187913	aorist
-aorist
-187916	present
-187919	perfect
-187921	present
-187925	perfect
-187936	present
-aorist
-187944	aorist
-187948	present
-187953	aorist
-187972	aorist
-187974	aorist
-187981	aorist
-aorist
-187987	aorist
-187996	aorist
-188005	aorist
-aorist
-aorist
-188010	aorist
-188026	present
-188037	present
-188043	aorist
-188050	aorist
-aorist
-188057	present
-188063	aorist
-aorist
-188070	aorist
-imperfect
-188087	imperfect
-188093	future
-aorist
-188106	aorist
-188115	aorist
-188121	aorist
-aorist
-188128	aorist
-imperfect
-188145	imperfect
-188151	future
-aorist
-188164	aorist
-188174	perfect
-aorist
-188177	aorist
-188182	present
-188185	present
-188188	aorist
-188190	present
-188193	aorist
-188195	aorist
-aorist
-aorist
-188208	aorist
+187795	present
+187799	present
+187803	future
+187810	aorist
+187813	future
 present
-188213	aorist
-188220	aorist
-188227	pluperfect
-188229	present
-188232	aorist
-188234	present
-188237	aorist
-imperfect
-188241	aorist
-188251	aorist
-188253	aorist
-188261	aorist
-188270	aorist
-188272	present
-188281	present
-188283	future
-188285	future
-188289	present
-188293	present
-future
-188304	aorist
-188315	future
-188329	aorist
-188354	future
-188363	future
-188373	future
-188382	present
-188392	future
-188410	future
-188421	present
-188424	perfect
-188430	aorist
-188434	perfect
-188442	aorist
-188445	aorist
-188447	aorist
+187818	present
+187822	aorist
+present
+187832	present
+187838	pluperfect
+187840	imperfect
+187843	aorist
+187845	imperfect
+187847	present
+187850	aorist
+present
+187855	aorist
 aorist
-188450	aorist
-188453	imperfect
+187860	aorist
+187864	aorist
+aorist
+187868	aorist
+187870	aorist
+187873	aorist
+187878	aorist
+187886	aorist
+187889	future
+187896	future
+187901	present
+187908	aorist
+187911	present
+187918	imperfect
+187921	present
+187924	aorist
+187928	aorist
+187930	present
+187935	aorist
+187938	aorist
+187940	present
+187942	imperfect
+187947	aorist
+187950	aorist
+187952	aorist
+187955	aorist
+187957	aorist
+187959	aorist
+187961	present
+187964	present
+187968	present
+187972	present
+187976	aorist
+187983	aorist
+187986	aorist
+187988	imperfect
+present
+187993	present
+187996	aorist
+187999	aorist
+188001	imperfect
+188005	aorist
+188008	aorist
+188011	aorist
+188015	present
+188023	perfect
+188025	aorist
+188027	aorist
+188029	aorist
+188031	aorist
+188033	aorist
+present
+188041	imperfect
+188045	aorist
+188050	aorist
+188052	aorist
+188055	aorist
+188059	present
+present
+188062	present
+aorist
+188065	aorist
+188068	future
+188072	present
+present
+188077	aorist
+188080	aorist
+present
+188086	aorist
+188088	present
+188093	present
+188098	future
+188101	imperfect
+188108	aorist
+present
+188113	present
+188118	aorist
+188120	present
+188126	aorist
+188133	aorist
+188137	imperfect
+present
+188142	present
+aorist
+aorist
+188147	present
+188158	aorist
+present
+188162	aorist
+188164	aorist
+188167	perfect
+188169	imperfect
+188171	present
+188174	present
+188176	aorist
+188189	aorist
+188203	present
+188207	future
+188212	imperfect
+188216	present
+188223	imperfect
+188225	present
+imperfect
+188228	aorist
+188231	aorist
+188233	present
+present
+188236	present
+aorist
+present
+188244	future
+188249	future
+188253	future
+188257	future
+188260	future
+188263	future
+188266	future
+188270	future
+188272	present
+188277	present
+188280	present
+188283	aorist
+188285	aorist
+188289	aorist
+188292	present
+188294	aorist
+188298	aorist
+188300	aorist
+188309	aorist
+188315	aorist
+188318	perfect
+188320	present
+present
+aorist
+188326	present
+188331	present
+aorist
+188335	aorist
+188337	present
+188340	aorist
+188345	present
+future
+188351	present
+future
+188354	aorist
+188360	present
+188362	aorist
+188365	perfect
+188367	aorist
+188369	aorist
+present
+188374	aorist
+188377	present
+188379	perfect
+188381	present
+present
+188384	present
+188389	present
+188393	present
+188397	present
+188399	aorist
+188401	future
+188405	present
+188407	present
+188409	future
+188417	aorist
+aorist
+188420	aorist
+188422	aorist
+188428	present
+188431	present
+188442	imperfect
+188446	aorist
+188449	present
+aorist
+present
+188453	present
 188455	aorist
-188459	aorist
-188461	aorist
-188463	aorist
-188468	imperfect
-188470	aorist
-188475	future
-188480	present
-188484	aorist
+188458	imperfect
+188462	aorist
+188466	imperfect
+188468	aorist
+188471	aorist
+188473	aorist
+aorist
+188477	present
+188479	present
+188481	present
+present
 present
 188487	aorist
-188489	present
-188491	aorist
+188490	aorist
+aorist
 188495	aorist
 188498	aorist
-188502	aorist
-188506	aorist
-present
-188513	aorist
-188518	aorist
-188522	future
-188525	present
-188530	aorist
-188545	aorist
-188547	future
-188555	present
-188559	perfect
-188570	perfect
-188580	aorist
+188501	present
+aorist
+188505	aorist
+188509	aorist
+188512	aorist
+188514	present
+188517	perfect
+188521	aorist
+188523	imperfect
+188529	present
+188537	present
+188542	present
+188544	present
+188551	present
+188553	future
+perfect
+188558	aorist
+aorist
+188562	present
+188567	aorist
+188569	present
+188571	aorist
+188574	present
+188578	present
+188582	aorist
 188584	aorist
-188586	aorist
-aorist
-188590	aorist
-188593	imperfect
-188596	aorist
-188601	aorist
-188610	aorist
-188613	future
-188617	present
-188621	aorist
+188586	perfect
+188592	present
+188597	perfect
+imperfect
+188601	present
 present
-188624	present
+188606	aorist
+188609	aorist
+188612	aorist
+188615	present
+188620	present
+188625	aorist
+188631	aorist
 188637	aorist
-188640	future
-188642	present
-188644	present
-188650	aorist
-188660	aorist
-188662	future
-188679	aorist
+188641	present
+188643	present
+imperfect
+188646	perfect
+present
+188650	perfect
+188653	present
+188661	aorist
+188666	aorist
+188670	present
+188672	aorist
+188678	aorist
 188681	aorist
-188692	aorist
-188698	perfect
-188708	present
-188717	present
-188721	aorist
-188723	aorist
-188745	present
-188748	aorist
-188754	aorist
-188756	aorist
-imperfect
-188768	aorist
-188778	aorist
-188790	aorist
-188793	present
-188800	aorist
-188807	present
+188683	aorist
+188686	present
+188688	aorist
+188690	future
+188693	aorist
+188696	aorist
+188703	imperfect
+188706	aorist
 aorist
-188813	aorist
+188715	aorist
+188717	imperfect
+188721	present
+188724	aorist
+188727	aorist
 present
-188823	imperfect
-188826	aorist
-188829	aorist
+188730	present
+188732	present
+188742	present
+188744	aorist
+188747	imperfect
+188750	aorist
+188755	imperfect
+188757	imperfect
+188759	perfect
+188764	future
+188769	perfect
+188773	aorist
+188778	imperfect
+188781	aorist
+imperfect
+188788	imperfect
+188795	aorist
+imperfect
+188800	present
+188802	aorist
+188804	perfect
+188807	aorist
+188809	present
+188812	aorist
+188815	aorist
+perfect
+188818	aorist
+188820	present
+188822	present
+188824	present
+188828	aorist
 188831	aorist
-188836	aorist
-188840	present
-188848	aorist
-188857	present
-188865	present
-aorist
-188884	aorist
-188886	aorist
+188833	aorist
+188837	aorist
+188842	present
+188845	present
+present
+future
+188850	present
+188855	present
+188857	aorist
+188859	future
+188863	present
+present
+present
+188868	present
+188877	aorist
+188882	present
 188888	present
-188892	aorist
-188905	future
-188909	aorist
-188917	aorist
-188924	present
-188932	aorist
-188934	present
+188890	present
+188898	imperfect
+188903	present
+188907	aorist
+188912	present
+188915	aorist
+188917	future
+188921	aorist
+188924	future
+188929	present
+188933	imperfect
 188936	aorist
-188939	future
+188939	imperfect
+188941	present
 188943	aorist
-188952	imperfect
-188956	aorist
+188945	future
+188949	aorist
+188952	aorist
+188954	imperfect
+188958	imperfect
+188963	imperfect
 188965	aorist
+188967	present
+188969	perfect
 188972	present
-188974	present
-aorist
-188977	aorist
+188976	present
+188981	present
 188983	aorist
-present
-188996	aorist
-189001	present
-189008	present
-189012	present
+188986	present
+188989	aorist
+188991	aorist
+188994	aorist
+188997	aorist
+189000	aorist
+189004	aorist
+189006	aorist
+189014	aorist
+189020	aorist
+189022	aorist
 189024	aorist
-189029	aorist
-189035	aorist
-189041	aorist
-imperfect
-189051	present
-189053	aorist
-189055	present
-189063	future
-189066	present
-189068	aorist
+189028	aorist
+189032	aorist
+189034	aorist
+189037	aorist
+189039	aorist
+189044	present
+189047	present
+189050	imperfect
+189052	aorist
+189056	present
+189058	future
+189065	aorist
+189068	present
+189070	present
 present
-189076	present
-189080	aorist
+189075	future
+189078	aorist
 aorist
-189083	aorist
-189097	future
-189106	present
-189108	perfect
-189129	present
-189131	imperfect
-189135	aorist
-189141	aorist
-189145	present
+189082	aorist
+189087	future
+189091	future
+189093	future
+189096	future
+189102	aorist
+189104	aorist
+present
+189107	aorist
+189111	aorist
+189114	present
+189119	imperfect
+189121	aorist
+189123	aorist
+189125	aorist
+189130	aorist
+189132	aorist
+189134	aorist
+189136	present
+189144	aorist
 189147	aorist
-189150	present
-189152	present
-189155	aorist
 present
-189159	aorist
-189165	aorist
+189151	perfect
+189154	present
+189157	present
+189161	present
+189169	present
+present
 aorist
-189168	aorist
-189172	aorist
-aorist
-aorist
-189176	present
-189183	aorist
-189186	aorist
-aorist
+189176	aorist
+189179	aorist
+189182	perfect
+189185	aorist
 189189	present
-aorist
-189197	present
-189211	present
-189217	present
-189223	aorist
-189247	present
-189264	aorist
-aorist
-189276	present
-189284	future
-189295	perfect
-189297	future
-189302	future
-189314	aorist
-189316	future
-189323	aorist
-189328	aorist
-189332	future
-189338	future
-imperfect
-189345	present
-189357	aorist
-189359	future
-189361	present
-189367	present
-189372	aorist
-189377	future
-189386	aorist
-189388	present
-189399	present
-189402	present
-189406	aorist
-189411	aorist
-189413	aorist
-189415	aorist
-189427	aorist
 present
-189430	present
-189432	present
-189435	present
-189444	aorist
-189447	present
-189452	aorist
-189454	aorist
-189460	present
+189194	aorist
+189197	aorist
+189199	present
+189208	aorist
+189213	aorist
+189216	aorist
+189223	imperfect
+189226	present
+189229	present
+189232	present
+189234	imperfect
+189236	present
+189239	aorist
+189244	aorist
+189246	aorist
+189250	aorist
+189253	aorist
+189258	aorist
+189263	imperfect
+189266	aorist
+189269	present
+189271	aorist
+189275	aorist
+189278	aorist
+189280	aorist
+189288	aorist
+189293	aorist
+189296	aorist
+189299	future
+189302	aorist
+189305	imperfect
+189309	present
+189311	perfect
+189320	aorist
+189322	present
+189324	present
+189326	present
+189336	present
+189338	aorist
+189345	aorist
+189348	present
+189356	present
+189359	present
+189361	present
+189363	aorist
+189366	aorist
+189368	present
+perfect
+189372	aorist
+189374	aorist
+189377	present
+189380	aorist
+189384	present
+present
+189390	present
+189392	future
+189416	future
+189425	present
+189427	aorist
+189433	aorist
+189436	present
+189439	present
+189443	present
+189457	present
 189462	present
-189468	present
+189468	aorist
+189472	aorist
 aorist
-189482	present
-189487	present
-189494	present
+189477	present
+189485	imperfect
+189487	aorist
+189489	aorist
+189491	imperfect
+present
 189496	present
-189498	present
-189504	aorist
+189501	present
+189503	aorist
 189508	aorist
 189512	present
-189514	present
-189517	aorist
-189535	aorist
-aorist
+189516	aorist
+189523	present
+189529	present
+189533	imperfect
+189540	imperfect
 present
-189543	present
-189545	aorist
-189549	aorist
-aorist
-189557	aorist
-189559	aorist
-189561	present
-189563	imperfect
-189570	perfect
-189572	aorist
-189575	aorist
-aorist
-189585	aorist
-189588	present
-189595	present
-189597	present
+189544	present
+189546	present
+189559	present
+189566	present
+189568	future
+189571	aorist
+189574	imperfect
+189577	present
+189583	imperfect
+189586	aorist
+189589	aorist
+189592	present
+189595	aorist
+189598	aorist
 189600	present
-aorist
-perfect
-189614	present
-189620	present
+189608	aorist
 present
+189615	present
+189617	aorist
+189625	imperfect
 aorist
-perfect
-189625	present
-189630	present
-aorist
-189638	aorist
-189666	present
-189668	aorist
-189671	present
+189631	present
+189635	present
+189641	aorist
+189647	aorist
+189649	present
+189654	aorist
+189658	aorist
+189660	present
+189668	imperfect
 189674	aorist
-189676	present
-aorist
-189681	aorist
-189685	aorist
+189678	future
+189683	present
+189685	present
+189688	aorist
 present
-189689	aorist
+189691	present
 189695	aorist
+189697	future
 189701	present
-189703	aorist
+189704	present
+189707	future
+189710	aorist
+189714	present
+present
 aorist
-189714	aorist
-189717	aorist
-189725	aorist
-189729	aorist
-189736	aorist
-189744	aorist
-189751	present
-189756	aorist
-189773	aorist
-189778	future
-189780	present
-189783	present
+189720	future
+189727	future
+189730	future
+189734	present
+189738	future
+189743	future
+189747	future
+189756	present
 aorist
-189791	future
-189803	aorist
-189809	present
-aorist
-189818	aorist
-189829	aorist
+189761	present
+189763	present
+present
+189766	aorist
+189769	aorist
+189775	present
+189777	present
+189779	present
+189785	future
+189793	future
+189797	future
+189806	aorist
+189809	future
+189812	aorist
+189816	perfect
+189819	present
+present
+present
+189826	present
+189833	aorist
 189835	aorist
-189845	imperfect
-present
+189837	aorist
+189846	aorist
 189849	aorist
-189855	perfect
-189857	aorist
-189871	aorist
-189873	aorist
-189876	aorist
-189880	aorist
-189895	aorist
-189900	imperfect
-189915	aorist
-189917	imperfect
-189923	aorist
-189937	imperfect
-189946	aorist
-189949	aorist
-189952	aorist
-189956	aorist
-189958	aorist
-189960	imperfect
-present
+189855	present
+189857	present
+189861	present
+189865	aorist
+189867	future
+189873	perfect
+189878	aorist
+189884	aorist
+189888	aorist
+189892	aorist
+189898	aorist
 aorist
-189976	aorist
-189978	aorist
-189982	aorist
-189985	present
-189989	present
-189994	imperfect
-189999	aorist
-190001	present
-190009	present
-190012	aorist
-190015	present
-190026	present
-190032	aorist
-190034	present
-190039	future
-190047	present
-190056	present
-190070	aorist
-190076	present
+189906	aorist
 aorist
-190082	present
-190084	aorist
-190086	aorist
-190092	present
-190095	aorist
-aorist
-190099	present
-190101	aorist
-190110	aorist
-190114	aorist
-present
-aorist
-190120	present
-190122	aorist
-190128	imperfect
-190136	aorist
-190141	present
-190145	imperfect
-190154	aorist
-190158	present
-190160	perfect
-190162	present
-aorist
-190170	aorist
-190174	present
-190179	imperfect
-190188	aorist
-190194	perfect
-190202	aorist
-190204	perfect
-aorist
-190216	present
-190227	present
-190229	aorist
-present
-190232	present
-190235	perfect
-190242	aorist
-190244	aorist
-190254	perfect
-190258	aorist
-190260	future
-190263	aorist
-190265	aorist
-190269	aorist
-190271	aorist
-190291	aorist
-190294	aorist
-190296	aorist
-190298	aorist
-190304	aorist
-190307	aorist
-190310	aorist
-aorist
-aorist
-190323	present
-aorist
-aorist
-190331	aorist
-190337	future
-190339	aorist
-190348	aorist
-190350	aorist
-aorist
-190356	aorist
-190360	aorist
-190362	present
-aorist
-190374	present
-190377	aorist
-aorist
-190397	aorist
-190412	aorist
-190414	aorist
-190421	present
-190423	aorist
-190434	perfect
-190436	aorist
-190443	aorist
-190455	aorist
-190462	aorist
-190469	aorist
-190474	present
-190476	present
-190488	imperfect
-190490	present
-190495	present
-190505	aorist
-190507	present
-190513	present
-190516	present
-190519	aorist
-190529	present
-190538	pluperfect
-190542	present
-190550	imperfect
-imperfect
-190558	present
-190560	perfect
-190563	aorist
-190569	present
-aorist
-190576	present
-190578	pluperfect
-190584	aorist
-190586	present
-190594	aorist
-190603	present
-190614	aorist
-190630	aorist
-190635	aorist
-190643	aorist
-aorist
-190649	aorist
-190653	present
-190659	aorist
-190663	aorist
-190667	present
-190674	aorist
-190677	present
-190679	present
-190681	aorist
-190684	imperfect
-190689	aorist
-190693	imperfect
-present
-aorist
-aorist
-190703	present
-190707	present
-aorist
-190710	aorist
-190719	present
-190721	present
-190730	future
-190732	aorist
-190738	aorist
-190756	aorist
-190765	aorist
-aorist
-190768	aorist
-190777	aorist
-190786	aorist
-190796	aorist
-190801	aorist
-190804	aorist
-190809	aorist
-190827	aorist
-190831	aorist
-190833	present
-present
-190841	aorist
-190845	aorist
-190850	imperfect
-190860	aorist
-190862	aorist
-190868	aorist
-190876	aorist
-190881	aorist
-present
-190884	aorist
-190891	aorist
-190893	aorist
-190900	aorist
-190905	present
-190909	present
-190913	present
-aorist
-190916	aorist
-190922	perfect
-190924	aorist
-190926	aorist
-aorist
-aorist
-190931	aorist
-190937	present
-190940	present
-imperfect
-190945	aorist
-190959	perfect
-190961	present
-190971	present
-190989	present
-imperfect
-190992	present
-190999	present
-191001	present
-191011	present
-aorist
-191017	present
-191022	aorist
-191032	present
-191040	imperfect
-191042	aorist
-191045	present
-aorist
-191050	present
-aorist
-191059	future
-191063	perfect
-191069	aorist
-191072	present
-191074	aorist
-191079	present
-191091	aorist
-191095	imperfect
-191104	aorist
-191125	aorist
-191132	present
-191136	aorist
-191138	present
-191149	aorist
-191155	perfect
-aorist
-imperfect
-191160	present
-191164	aorist
-191171	aorist
-191173	aorist
-191177	aorist
-191179	imperfect
-191185	aorist
-aorist
-aorist
-191189	present
-191191	future
-191198	aorist
-191202	aorist
-191207	aorist
-191215	aorist
-191229	aorist
-191234	aorist
-191239	aorist
-191248	perfect
-191250	aorist
-191252	aorist
-191265	aorist
-191274	aorist
-191285	present
-191289	aorist
-191295	present
-aorist
-191298	present
-191303	imperfect
-191305	imperfect
-191315	present
-191317	aorist
-191326	present
-191331	imperfect
-191359	aorist
-aorist
-191374	aorist
-191379	aorist
-191383	aorist
-191395	aorist
-aorist
-191398	aorist
-191405	aorist
-191413	aorist
-191425	aorist
-191432	aorist
-191443	aorist
-191445	imperfect
-191458	present
-191469	present
-191475	aorist
-191486	present
-191488	aorist
-191495	aorist
-191497	present
-191503	present
-aorist
-191506	aorist
-191519	aorist
-191523	aorist
-191526	aorist
-191530	aorist
-191537	future
-191547	imperfect
-191552	present
-191554	present
-aorist
-191557	perfect
-191560	aorist
-aorist
-191565	aorist
-191579	present
-191585	aorist
-191596	aorist
-191601	aorist
-191604	aorist
-191610	aorist
-191615	aorist
-aorist
-191621	imperfect
-191625	imperfect
-191653	aorist
-191655	present
-191657	aorist
-191661	aorist
-191666	aorist
-191671	present
-191673	perfect
-191678	perfect
-present
-191681	present
-191683	aorist
-191686	aorist
-present
-aorist
-191693	imperfect
-191696	aorist
-aorist
-191704	aorist
-191711	aorist
-present
-191721	future
-aorist
-aorist
-191726	aorist
-191740	aorist
-aorist
-191748	aorist
-191750	aorist
-191752	present
-present
-191756	aorist
-aorist
-191764	aorist
-191767	present
-191773	present
-present
-aorist
-191782	aorist
-191790	future
-present
-191794	aorist
-191800	aorist
-191806	aorist
-191813	aorist
-191815	aorist
-191823	aorist
-191827	aorist
-191831	present
-aorist
-191840	aorist
-aorist
-191844	present
-191847	aorist
-191855	future
-191859	future
-191862	aorist
-191864	aorist
-191866	aorist
-191868	aorist
-191890	aorist
-191902	aorist
-191908	aorist
-191910	aorist
-191913	aorist
-191915	aorist
-191919	aorist
-191921	present
-aorist
-191937	aorist
-191939	aorist
-191945	present
-191966	present
-191968	present
-191971	aorist
-191974	aorist
-191979	present
-192006	perfect
-192015	aorist
-present
-192028	future
-192036	present
-192042	aorist
-192049	present
-192055	aorist
-192058	present
-192064	present
-192075	imperfect
-192093	imperfect
-192103	present
-192110	imperfect
-192114	perfect
-192130	present
-192137	imperfect
-present
-present
-192150	present
-192152	aorist
-aorist
-192164	aorist
-192169	future
-192175	aorist
-192183	aorist
-192193	aorist
-192204	present
-192210	aorist
-present
-192222	present
-192228	aorist
-192235	present
-192247	aorist
-192254	present
-192261	imperfect
-192270	present
-192277	imperfect
-192287	imperfect
-192293	aorist
-192297	aorist
-192306	present
-192315	present
-192317	perfect
-192322	perfect
-192330	present
-192332	present
-192339	present
-192349	aorist
-192358	present
-192364	imperfect
-192368	aorist
-192373	present
-192378	future
-192380	aorist
-192386	aorist
-192390	aorist
-192393	aorist
-192395	aorist
-192416	present
-192422	aorist
-192425	aorist
-192442	aorist
-192447	present
-192456	aorist
-192462	imperfect
-192464	imperfect
-192473	imperfect
-192475	present
-192479	present
-192488	imperfect
-192504	aorist
-present
-192512	aorist
-aorist
-192515	perfect
-192518	present
-192527	aorist
-192532	aorist
-192534	aorist
-192539	aorist
-192549	aorist
-192553	aorist
-192558	aorist
-192561	present
-192563	present
-192565	present
-192583	present
-192585	present
-192588	aorist
-192614	aorist
-aorist
-192636	imperfect
-present
-192640	present
-192646	aorist
-aorist
-192649	aorist
-192654	aorist
-192660	imperfect
-192664	aorist
-192666	aorist
-192670	imperfect
-192678	present
-192681	present
-192684	imperfect
-192690	perfect
-192697	aorist
-192701	present
-192709	aorist
-192712	imperfect
-present
-192718	pluperfect
-192725	aorist
-aorist
-192728	aorist
-192735	imperfect
-192737	aorist
-192747	aorist
-192750	present
-192754	present
-192757	present
-192759	present
-192766	present
-192772	aorist
-192777	aorist
-192779	aorist
-present
-192799	present
-192801	present
-192806	present
-192809	present
-present
-192814	present
-present
-192817	aorist
-192819	aorist
-aorist
-192826	aorist
-192828	present
-192830	present
-aorist
-192834	aorist
-192842	aorist
-192844	aorist
-192847	aorist
-192850	present
-192852	present
-192855	aorist
-192857	present
-192859	aorist
-192864	aorist
-192873	aorist
-192882	aorist
-aorist
-present
-192887	present
-192894	present
-192899	aorist
-192907	imperfect
-192909	imperfect
-192915	aorist
-192923	aorist
-192928	present
-192930	aorist
-192934	present
-192945	imperfect
-192951	present
-present
-192958	present
-192964	present
-aorist
-192972	aorist
-192977	imperfect
-192979	aorist
-present
-192988	imperfect
-192990	aorist
-192999	present
-193004	present
-193010	imperfect
-193018	present
-193020	present
-193031	present
-present
-193034	present
-present
-193045	aorist
-193056	present
-193060	present
-193064	present
-193073	present
-193075	aorist
-193079	present
-193086	aorist
-present
-193089	aorist
-193096	present
-193099	perfect
-193102	present
-193110	present
-193117	present
-193122	present
-present
-aorist
-193131	present
-193140	aorist
-193143	aorist
-193147	aorist
-193152	present
-193155	present
-193159	present
-193163	aorist
-193165	aorist
-193178	imperfect
-193183	imperfect
-193186	present
-aorist
-193194	present
-193201	present
-193203	present
-193206	aorist
-aorist
-193210	present
-present
-193226	imperfect
-193236	imperfect
-193240	imperfect
-193250	aorist
-193252	present
-193260	imperfect
-193274	present
-193276	aorist
-193280	present
-193285	present
-193287	present
-193292	present
-193294	aorist
-aorist
-193301	imperfect
-193311	present
-193313	present
-193315	present
-193333	present
-193341	present
-193343	aorist
-193349	present
-193366	present
-present
-193371	present
-193379	present
-present
+189910	aorist
+189913	present
 future
-193385	aorist
-193394	future
-193408	present
-193417	present
-193435	present
-193438	present
-193450	future
-193461	present
-193476	aorist
-193483	present
-193495	aorist
-193497	present
+189918	future
+189921	present
+189927	present
+perfect
+189939	future
+189943	future
+189956	future
+189959	future
+189963	present
+189970	future
+189973	future
+189986	aorist
+189993	aorist
+189995	present
+189997	present
+190001	present
+190005	aorist
+190007	present
 present
-193506	imperfect
-193508	aorist
-193510	present
-193516	present
+190011	present
+190013	present
+190017	aorist
+190023	aorist
+190027	future
+190032	future
+190040	perfect
+190050	present
+present
+190053	perfect
+190057	present
+190060	aorist
+190064	aorist
+190073	aorist
+190075	present
+present
+190079	perfect
+190085	present
+190091	aorist
+190093	aorist
+190095	present
+190099	present
+190101	present
+present
+imperfect
+190111	imperfect
+190118	aorist
+aorist
+imperfect
+190127	future
+190131	present
+190138	present
+190140	aorist
+190142	present
+190147	aorist
+190149	aorist
+190161	perfect
+imperfect
+190166	aorist
+190170	aorist
+190173	imperfect
+190177	aorist
+aorist
+190183	present
+190185	aorist
+190190	present
+190194	present
+present
+190198	aorist
+190203	present
+190205	aorist
+aorist
+aorist
+aorist
+190214	present
+190217	aorist
+190224	aorist
+190226	future
+190233	aorist
+190238	aorist
+190242	aorist
+aorist
+190245	aorist
+190248	aorist
+190250	imperfect
+190254	aorist
+190261	imperfect
+present
+190267	present
+aorist
+aorist
+190271	aorist
+190274	present
+190279	present
+190281	present
+190285	future
+190289	present
+aorist
+190294	aorist
+aorist
+190299	present
+190301	present
+190309	aorist
+190313	future
+190317	perfect
+190320	aorist
+190323	aorist
+190326	aorist
+190330	aorist
+190332	aorist
+190335	aorist
+190339	aorist
+present
+190347	aorist
+present
+190353	future
+190355	present
+190357	aorist
+present
+190360	present
+190367	aorist
+190371	present
+190380	present
+190382	perfect
+190392	present
+190397	aorist
+190401	present
+190403	aorist
+190405	aorist
+aorist
+190408	aorist
+190411	aorist
+aorist
+190414	present
+190418	aorist
+190420	aorist
+aorist
+190424	aorist
+190428	aorist
+190431	present
+190436	present
+190438	present
+190443	aorist
+190452	present
+190459	aorist
+aorist
+190466	present
+190471	future
+190473	perfect
+future
+190478	future
+190481	aorist
+190483	future
+190489	imperfect
+190493	future
+190498	present
+190501	present
+190512	aorist
+190515	future
+190519	imperfect
+190521	present
+190523	aorist
+190527	future
+190531	imperfect
+190533	present
+190539	present
+190542	aorist
+190545	aorist
+190547	present
+190555	aorist
+present
+190558	present
+190560	present
+190563	present
+190567	aorist
+190570	present
+190572	aorist
+190574	imperfect
+190578	imperfect
+190582	present
+aorist
+190587	imperfect
+190592	aorist
+190599	present
+190604	present
+190606	present
+190608	present
+190610	present
+190613	present
+190615	aorist
+190617	aorist
+present
+190620	present
+190623	aorist
+190633	aorist
+aorist
+190637	aorist
+190640	aorist
+aorist
+190643	present
+190650	pluperfect
+190652	aorist
+190655	present
+190658	present
+190660	present
+190663	present
+present
+aorist
+190667	aorist
+present
+190676	present
+present
+aorist
+present
+190681	perfect
+190686	present
+present
+190702	pluperfect
+190704	present
+190708	present
+190710	aorist
+190712	present
+aorist
+190716	present
+190719	aorist
+190721	aorist
+190723	present
+190726	aorist
+190730	aorist
+190734	aorist
+190738	perfect
+aorist
+190741	aorist
+190746	aorist
+190750	aorist
+190752	aorist
+190756	aorist
+190759	aorist
+190762	imperfect
+190766	present
+190769	aorist
+190773	aorist
+190776	aorist
+190778	aorist
+190782	imperfect
+190784	perfect
+190788	present
+190792	aorist
+190795	aorist
+190797	aorist
+190802	present
+190812	aorist
+190825	present
+190833	imperfect
+190838	aorist
+190842	imperfect
+190845	imperfect
+190851	imperfect
+190854	aorist
+imperfect
+190857	present
+190860	aorist
+190862	present
+190865	future
+190873	future
+190878	imperfect
+190882	aorist
+190885	aorist
+190887	present
+190889	present
+190894	present
+190897	imperfect
+190900	aorist
+190904	imperfect
+190907	present
+190910	present
+190917	aorist
+190919	present
+190921	future
+190927	present
+190930	present
+190937	aorist
+190940	present
+190944	present
+aorist
+190949	present
+190952	aorist
+190955	present
+190958	aorist
+190960	present
+190963	present
+190967	present
+190970	present
+190972	aorist
+190977	aorist
+190979	present
+190984	present
+190990	aorist
+190992	present
+aorist
+190995	present
+190999	imperfect
+191003	aorist
+present
+191006	perfect
+191008	present
+191011	present
+191013	aorist
+191019	aorist
+191021	aorist
+191023	present
+perfect
+191028	present
+191032	imperfect
+191036	perfect
+imperfect
+191041	present
+191044	present
+191047	aorist
+present
+191050	present
+191053	perfect
+191057	present
+191062	aorist
+191064	aorist
+191068	aorist
+191075	aorist
+191078	future
+191080	aorist
+imperfect
+191086	aorist
+191094	aorist
+191096	aorist
+191098	aorist
+191101	aorist
+191105	present
+191111	aorist
+191113	present
+191115	present
+191117	imperfect
+191124	imperfect
+191126	present
+191128	present
+191130	aorist
+191133	present
+191138	aorist
+191140	present
+191144	imperfect
+191148	imperfect
+191151	present
+191159	pluperfect
+191161	aorist
+191163	aorist
+present
+191166	imperfect
+191170	aorist
+191172	present
+present
+aorist
+191179	imperfect
+191183	pluperfect
+191188	aorist
+191193	aorist
+191198	aorist
+imperfect
+191203	aorist
+191205	present
+191212	aorist
+aorist
+191217	imperfect
+191221	aorist
+191225	aorist
+aorist
+191230	present
+191233	aorist
+aorist
+191238	aorist
+191240	aorist
+191242	aorist
+191245	aorist
+191250	present
+191253	present
+191257	present
+191261	present
+191263	aorist
+191266	aorist
+present
+191269	present
+191273	imperfect
+191278	imperfect
+191281	present
+191283	imperfect
+191287	aorist
+191289	aorist
+191293	aorist
+191298	present
+191301	aorist
+191304	present
+191307	present
+present
+191314	aorist
+191318	present
+191326	imperfect
+191329	perfect
+191333	aorist
+191335	present
+191338	present
+191341	present
+191346	aorist
+imperfect
+191351	aorist
+191364	present
+191373	present
+imperfect
+191376	present
+191380	present
+191382	present
+191385	present
+191388	aorist
+191390	aorist
+191396	present
+191400	imperfect
+191402	aorist
+191405	present
+aorist
+191410	aorist
+191415	aorist
+191417	aorist
+191419	perfect
+191421	imperfect
+191424	aorist
+191427	aorist
+191436	aorist
+191442	aorist
+191450	aorist
+191454	perfect
+aorist
+imperfect
+aorist
+191459	present
+aorist
+191464	aorist
+191467	aorist
+191469	imperfect
+191471	present
+aorist
+aorist
+present
+191476	aorist
+191480	aorist
+191482	aorist
+191487	aorist
+191491	aorist
+191494	perfect
+191499	aorist
+aorist
+191505	imperfect
+imperfect
+191511	present
+191524	imperfect
+191527	imperfect
+191530	imperfect
+191534	aorist
+191540	aorist
+191542	imperfect
+191544	present
+191546	aorist
+191555	aorist
+aorist
+191560	aorist
+191566	aorist
+191568	perfect
+191570	aorist
+191572	aorist
+191575	aorist
+191577	aorist
+191580	aorist
+191584	aorist
+191586	aorist
+191588	aorist
+191591	aorist
+191598	aorist
+191609	imperfect
+191611	perfect
+191613	aorist
+191620	aorist
+191623	aorist
+aorist
+191631	present
+191634	aorist
+191637	imperfect
+191640	future
+191648	aorist
+present
+191651	perfect
+191653	imperfect
+191657	aorist
+191660	aorist
+191662	present
+191665	perfect
+191668	aorist
+191671	present
+191674	present
+present
+191677	perfect
+aorist
+191680	present
+191682	aorist
+191685	aorist
+191688	present
+aorist
+191695	present
+191701	future
+191703	aorist
+191706	aorist
+aorist
+191710	imperfect
+191717	aorist
+imperfect
+191720	aorist
+191724	aorist
+191728	pluperfect
+191731	aorist
+aorist
+191734	aorist
+present
+191737	present
+191739	aorist
+191741	present
+191743	aorist
+191745	aorist
+191750	present
+aorist
+191754	present
+191757	aorist
+aorist
+191762	aorist
+191765	present
+191768	aorist
+191770	aorist
+191775	aorist
+191777	perfect
+191779	aorist
+191781	aorist
+191783	aorist
+191787	aorist
+191791	aorist
+191793	aorist
+future
+191796	aorist
+future
+191800	aorist
+future
+191806	future
+191808	future
+191810	future
+191813	aorist
+191816	aorist
+191819	future
+191822	future
+191827	aorist
+191829	aorist
+191833	aorist
+191839	aorist
+aorist
+191843	present
+191846	present
+191850	present
+191853	perfect
+191858	aorist
+191868	aorist
+191878	aorist
+aorist
+191884	perfect
+191887	aorist
+191891	aorist
+191893	aorist
+191895	perfect
+191901	aorist
+191904	aorist
+191907	aorist
+191910	aorist
+191932	imperfect
+191938	present
+191948	imperfect
+191952	imperfect
+191961	aorist
+191964	present
+191977	aorist
+aorist
+aorist
+191994	aorist
+191998	perfect
+192005	aorist
+192007	aorist
+192010	aorist
+192012	aorist
+192017	present
+192020	aorist
+192026	future
+192030	future
+192035	future
+192043	future
+future
+192051	aorist
+192054	future
+192063	future
+192069	future
+192074	aorist
+192081	aorist
+192084	perfect
+192086	aorist
+192091	future
+192095	present
+192100	perfect
+192105	aorist
+192107	aorist
+192110	present
+perfect
+192115	aorist
+aorist
+192119	aorist
+192123	aorist
+future
+present
+192128	present
+aorist
+192132	aorist
+192137	aorist
+192141	future
+192150	imperfect
+192152	present
+192156	aorist
+192159	imperfect
+aorist
+192163	aorist
+192166	perfect
+192174	imperfect
+192177	aorist
+192179	aorist
+192184	aorist
+192192	aorist
+192196	imperfect
+192199	present
+192203	perfect
+192207	aorist
+aorist
+192216	aorist
+192228	perfect
+192241	aorist
+192243	aorist
+present
+perfect
+192252	aorist
+192254	imperfect
+192256	present
+192260	aorist
+192264	present
+192266	aorist
+192272	aorist
+future
+192276	future
+192279	future
+192284	future
+192288	future
+192290	future
+192298	future
+192308	future
+192310	aorist
+192316	future
+192321	present
+192323	aorist
+192325	aorist
+192328	future
+192332	future
+192338	present
+future
+192342	aorist
+192346	perfect
+192353	present
+present
+192358	future
+192362	aorist
+192365	aorist
+192368	aorist
+192374	aorist
+192377	aorist
+192383	aorist
+192390	aorist
+192395	aorist
+192398	aorist
+192400	aorist
+192405	aorist
+192411	aorist
+192415	aorist
+192418	aorist
+perfect
+192423	perfect
+192432	aorist
+192438	aorist
+192441	aorist
+192449	aorist
+192457	aorist
+192459	future
+192461	perfect
+192465	aorist
+192467	present
+192472	aorist
+192480	aorist
+192486	aorist
+192490	future
+192495	aorist
+192508	present
+192510	aorist
+192514	aorist
+192518	aorist
+192522	aorist
+192524	present
+aorist
+192528	present
+aorist
+192531	aorist
+192533	aorist
+192536	aorist
+192546	aorist
+192553	aorist
+192559	aorist
+192562	aorist
+192565	aorist
+192568	aorist
+192574	imperfect
+192580	imperfect
+192583	aorist
+192588	aorist
+aorist
+192592	imperfect
+192601	aorist
+192604	aorist
+192607	future
+192610	aorist
+192613	present
+192618	present
+192621	imperfect
+192626	present
+present
+192630	aorist
+192632	aorist
+present
+192635	present
+192638	aorist
+192640	aorist
+192649	imperfect
+present
+192653	aorist
+192657	present
+192665	imperfect
+192670	aorist
+192672	aorist
+192676	present
+192681	future
+192685	imperfect
+192690	aorist
+192693	aorist
+present
+192700	aorist
+192702	aorist
+192707	aorist
+192714	aorist
+192729	present
+192731	aorist
+192737	aorist
+192741	aorist
+192745	aorist
+192750	aorist
+present
+192763	future
+future
+192767	aorist
+192769	aorist
+192781	future
+192785	aorist
+192789	present
+aorist
+192797	imperfect
+192799	imperfect
+192802	imperfect
+192811	aorist
+192816	aorist
+192819	present
+192824	aorist
+present
+192829	imperfect
+192831	present
+192836	aorist
+192848	present
+192851	present
+192856	aorist
+192858	perfect
+192860	present
+192862	aorist
+192865	present
+192868	aorist
+192871	aorist
+192874	aorist
+192880	aorist
+192883	aorist
+192888	imperfect
+192895	imperfect
+192899	present
+192901	present
+192909	aorist
+192913	aorist
+192916	aorist
+192919	aorist
+192923	present
+aorist
+192926	present
+192930	future
+192934	aorist
+192938	present
+192945	future
+192947	perfect
+192949	present
+192953	aorist
+192958	present
+192961	present
+192971	aorist
+192973	aorist
+192979	imperfect
+192981	aorist
+192984	aorist
+192987	perfect
+192990	aorist
+192993	aorist
+aorist
+192996	aorist
+193003	present
+193006	aorist
+193008	aorist
+193011	aorist
+193018	aorist
+aorist
+193021	aorist
+193028	imperfect
+193031	present
+193036	aorist
+193045	aorist
+193049	aorist
+193051	aorist
+193054	aorist
+193058	aorist
+193062	aorist
+193068	aorist
+193076	aorist
+193079	aorist
+193082	perfect
+193088	present
+193092	future
+193094	aorist
+193097	perfect
+193106	aorist
+193108	imperfect
+193117	present
+193122	imperfect
+193132	aorist
+193136	aorist
+193140	aorist
+193147	aorist
+193150	aorist
+193154	perfect
+193159	aorist
+193164	aorist
+193167	aorist
+193169	present
+193178	aorist
+193184	aorist
+193202	present
+193205	aorist
+193209	aorist
+193213	aorist
+193215	present
+193225	present
+193232	future
+193235	aorist
+193240	imperfect
+193246	perfect
+193249	aorist
+193263	imperfect
+193266	present
+193271	aorist
+imperfect
+193275	imperfect
+193278	present
+193282	aorist
+193288	aorist
+193295	imperfect
+193297	imperfect
+present
+193302	imperfect
+193305	imperfect
+193315	aorist
+193317	present
+193324	aorist
+193327	present
+193329	aorist
+193334	aorist
+193337	aorist
+193340	present
+193343	aorist
+193346	imperfect
+193354	aorist
+aorist
+193357	present
+193360	aorist
+193363	aorist
+193367	present
+193372	present
+193375	present
+193377	imperfect
+193380	present
+193388	aorist
+193390	aorist
+193392	aorist
+193398	aorist
+193401	aorist
+193404	present
+present
+193408	aorist
+193412	imperfect
+193415	pluperfect
+193421	present
+present
+193427	aorist
+193430	aorist
+193433	aorist
+193436	aorist
+193444	imperfect
+193452	imperfect
+193466	present
+193469	present
+193475	present
+193482	present
+193485	aorist
+193493	aorist
+193499	present
+193505	perfect
+193511	present
+193514	aorist
 193518	present
-193521	aorist
-193523	aorist
-193527	aorist
-193529	aorist
-193538	aorist
-193560	aorist
-193563	present
+193522	future
+193526	future
+193528	future
+193536	future
+193541	imperfect
+193545	present
 aorist
-193571	aorist
-193578	present
-193580	imperfect
-193590	aorist
-193604	present
-193618	aorist
-193624	imperfect
-193628	perfect
+193550	aorist
+193552	aorist
+193556	present
+aorist
+193564	aorist
 present
-193634	imperfect
-193640	future
-193643	aorist
+193568	present
+193570	present
+193574	present
+193579	aorist
+193590	present
+193595	present
+193597	present
+193600	present
+193602	imperfect
+193605	present
+193608	aorist
+aorist
+193611	imperfect
+193613	present
+193615	aorist
+193617	present
+193619	present
+193622	present
+aorist
+193626	aorist
+193628	aorist
+193632	aorist
+193635	aorist
+193639	perfect
+193641	present
+imperfect
 193646	present
-193655	present
-193657	present
-193664	present
+present
+193649	aorist
+193652	aorist
+193655	aorist
+193657	aorist
+193659	present
+193662	present
 193666	present
-193671	aorist
-193673	aorist
-193675	aorist
-193677	aorist
-193680	imperfect
-193682	aorist
+193676	present
+193678	aorist
+present
+193685	present
 193687	present
-193699	present
-193703	aorist
-193708	aorist
-193710	aorist
-193717	aorist
-193728	imperfect
-193734	aorist
-193746	aorist
-193762	aorist
-193794	present
-193796	present
-aorist
-193802	aorist
-193810	present
-193819	present
-193823	aorist
-193825	present
-193829	aorist
-193831	imperfect
-193843	imperfect
+193693	present
+193695	aorist
+193702	future
+193711	aorist
+193715	aorist
+193722	future
+193727	present
 imperfect
-193847	imperfect
-present
-193851	present
-193861	imperfect
-193867	aorist
-193869	present
-193876	present
-193878	imperfect
-193881	aorist
-193886	aorist
-193889	present
-193895	present
-193897	present
-193899	present
-193901	present
-193906	aorist
+193733	present
+193742	aorist
+193744	aorist
+193747	aorist
+193750	aorist
+193753	aorist
+193758	aorist
+193760	present
+aorist
+193764	aorist
+193775	aorist
+193777	present
+193782	aorist
+193788	present
+193791	imperfect
+193872	aorist
+193876	imperfect
+193882	present
+193887	aorist
+193893	aorist
+193895	aorist
+aorist
+193902	present
+193904	aorist
+193908	aorist
 193911	aorist
-193934	aorist
-193939	present
-193972	aorist
-193975	present
-193980	present
+193914	perfect
+193919	future
+193922	aorist
+193924	aorist
+193933	aorist
+193937	future
+193946	perfect
+193949	present
+present
+193955	aorist
+193957	future
+193961	aorist
+193963	aorist
+193965	perfect
+future
+193971	future
+aorist
+193977	aorist
+193983	aorist
 193987	present
-193991	aorist
-193993	aorist
-193999	aorist
-aorist
-194002	imperfect
-194005	aorist
+193989	aorist
+193993	perfect
+193998	future
+194000	aorist
+194005	future
+194009	aorist
 194014	aorist
-imperfect
-194018	present
-194030	present
-194035	aorist
-194040	imperfect
-194043	present
-194046	present
-194053	aorist
-194055	present
 aorist
-194068	aorist
-194070	future
-194076	aorist
+194019	perfect
+194021	future
+194025	aorist
+194028	aorist
+194032	aorist
+194042	aorist
+194049	imperfect
+194053	present
+194056	aorist
+194061	aorist
+194063	perfect
+194072	aorist
+aorist
+194075	aorist
+194080	aorist
 194082	aorist
-194087	aorist
-194089	present
+194089	aorist
+194091	aorist
+194093	perfect
+194095	aorist
+194101	aorist
+perfect
+194104	aorist
+194108	aorist
+194110	aorist
+194112	aorist
+194121	aorist
+194123	present
+194127	perfect
+194135	imperfect
+194138	imperfect
+194143	present
+194148	imperfect
+194150	present
+194153	aorist
+194156	future
+194161	aorist
+194164	aorist
 aorist
-194093	present
-194096	present
-194107	aorist
-194113	aorist
-194120	aorist
-194128	future
-194130	present
-194135	future
-194152	aorist
-194156	aorist
-194167	present
-194176	present
-194181	imperfect
-194185	present
-194187	present
-194201	present
+194168	aorist
+194173	aorist
+194175	present
+194180	present
+194186	present
+194189	imperfect
+194196	aorist
+194203	aorist
+194211	aorist
+194221	imperfect
+194228	aorist
+194233	aorist
+194238	present
+194241	aorist
 aorist
-194206	present
-194209	imperfect
-194215	present
-194217	aorist
-194236	present
-194239	aorist
-194241	present
-194243	present
-194254	aorist
-194260	present
-present
+194247	aorist
+194255	pluperfect
+194257	aorist
+194261	aorist
+194264	imperfect
+194266	aorist
+194276	imperfect
+194282	imperfect
+194288	imperfect
+194290	present
+194294	aorist
+194299	aorist
 aorist
-194276	aorist
-194292	present
-194295	aorist
-present
-194303	present
-194315	aorist
-present
-194338	imperfect
-194340	imperfect
-194347	imperfect
-194356	present
+194302	perfect
+194305	present
+194310	aorist
+194313	present
 aorist
-aorist
-194360	present
-aorist
-194363	aorist
-194367	present
+194316	aorist
+194319	aorist
+194324	aorist
+194327	aorist
+194330	aorist
+194334	imperfect
+194336	present
+194343	present
+194347	present
+194349	imperfect
+194356	aorist
+194360	aorist
 194370	aorist
-194377	aorist
-194382	aorist
-194386	aorist
-194394	imperfect
-194400	aorist
-194405	present
-194411	aorist
-194415	aorist
-194421	present
-194423	aorist
-194426	aorist
-194433	aorist
-194438	aorist
-194443	aorist
-194446	aorist
-194457	imperfect
+194374	aorist
+194376	aorist
+194379	aorist
+194383	aorist
+imperfect
+194386	present
+194391	imperfect
+present
+194394	aorist
+194402	present
+imperfect
+194405	imperfect
+194409	present
+194411	present
+194414	present
+194419	present
+194421	imperfect
+194423	present
+194425	pluperfect
+194428	present
+aorist
+194432	aorist
+aorist
+194438	imperfect
+194441	aorist
+194444	imperfect
+194447	present
+194451	aorist
+194457	aorist
 194459	present
-194461	present
-194463	imperfect
-194476	imperfect
-194478	present
-194480	present
+194465	aorist
+194472	aorist
+194476	present
+194479	present
+194490	aorist
+194492	perfect
+194498	aorist
+imperfect
+194501	aorist
+194507	imperfect
+194509	aorist
+194513	aorist
+194515	aorist
+194519	imperfect
+194523	aorist
 present
-194484	aorist
-194488	imperfect
-194504	imperfect
-194511	perfect
-194531	present
-194533	present
-present
+aorist
+194528	aorist
+194532	aorist
 194537	aorist
-194539	present
-present
-194543	present
-194546	aorist
-194548	aorist
-194551	present
-194554	perfect
-194567	future
-194569	present
-194573	present
-194576	present
-194585	present
-194591	aorist
-194593	present
-194598	present
-194603	perfect
-194609	present
-194617	present
-194620	aorist
-194628	present
-194632	present
-194639	present
-194641	aorist
-194651	present
+194539	aorist
+194543	aorist
+194545	aorist
+194550	future
+194554	aorist
+aorist
+194558	imperfect
+194563	aorist
+194569	aorist
+aorist
+194573	aorist
+194575	aorist
+194579	present
+194581	aorist
+194583	aorist
+194586	present
+aorist
+194591	present
+194595	aorist
+194605	aorist
+194612	imperfect
+194616	aorist
+194621	present
+194627	aorist
+194631	aorist
+194633	aorist
+194636	aorist
+194638	present
+194644	aorist
+194647	aorist
+194650	aorist
+194652	aorist
 194654	present
-194661	present
-194663	present
-194668	aorist
-194695	present
+194657	present
 present
-194702	present
-194705	present
-194716	aorist
-194718	present
-194723	present
-194725	present
+194660	aorist
+194662	aorist
+194664	aorist
+194666	present
+present
+aorist
+194672	aorist
+194676	aorist
+194679	aorist
+194681	aorist
+aorist
+194686	aorist
+194691	aorist
+194695	imperfect
+194702	imperfect
+194704	present
+194706	present
+194716	present
+194718	aorist
 194738	imperfect
-194742	present
+194740	present
+194743	aorist
+194745	present
+194750	imperfect
 194752	aorist
-194766	aorist
-194769	present
-194776	aorist
+194754	aorist
+194758	aorist
+194760	aorist
+194764	aorist
+194769	aorist
 194778	aorist
-194782	aorist
-194788	present
-194790	present
+194781	aorist
+194783	perfect
+194788	aorist
 present
-194793	imperfect
+194793	present
 194795	present
 194797	present
-194803	present
-future
-194807	future
-194811	present
-future
-194817	present
+194800	present
+194802	aorist
+194807	aorist
+194812	aorist
+aorist
+194816	present
 194821	present
-future
-194827	imperfect
-194829	present
-194839	aorist
+194823	aorist
+perfect
+194829	aorist
+present
+194832	present
+194835	perfect
+194841	present
+194844	present
+194846	aorist
+perfect
 194849	present
-194851	present
-194859	present
-194861	present
-194864	perfect
+present
+194852	aorist
+194855	present
+194861	aorist
+194863	aorist
+194865	imperfect
+aorist
 194870	present
-194885	aorist
-194890	present
-194895	perfect
-194900	imperfect
-194902	aorist
-194917	aorist
-194925	aorist
-194932	present
-194947	aorist
+194874	aorist
+194877	imperfect
+194880	aorist
+194882	present
+194884	aorist
+194889	aorist
+194891	aorist
+194895	present
+194899	aorist
+194901	present
+194904	aorist
+194906	aorist
+imperfect
+194910	aorist
+194918	imperfect
+194926	imperfect
+194934	present
+194941	aorist
+194943	aorist
+194946	present
 present
 194950	present
-194958	present
+perfect
+aorist
+194959	aorist
 194963	present
-194978	present
-194985	imperfect
-194991	imperfect
-present
-194998	imperfect
-195009	imperfect
-195012	present
-195022	aorist
+194967	present
+194977	aorist
+194979	present
+194987	present
 aorist
-195030	aorist
-195034	present
-195037	imperfect
-195047	imperfect
-195052	present
-195062	imperfect
-195070	present
-195076	imperfect
-195087	present
-195089	present
-195092	present
-195096	present
-195099	present
-195101	aorist
 aorist
-195107	aorist
-195111	present
-perfect
-195114	aorist
-195119	aorist
-195124	aorist
-195128	present
-195132	present
-195135	aorist
-195140	imperfect
-195147	present
-195157	present
-195160	aorist
-195180	aorist
-195188	aorist
-195206	imperfect
-195218	imperfect
-195220	aorist
-195229	perfect
-195231	perfect
-195242	perfect
-195245	imperfect
-195247	aorist
-195267	imperfect
-present
-195270	present
-195274	aorist
-195281	aorist
-195283	aorist
-195286	aorist
-195290	present
-195304	present
-195311	aorist
-imperfect
-195315	aorist
-195329	imperfect
-195336	present
-195344	present
-195346	imperfect
-195352	aorist
-195358	imperfect
-195372	present
-195374	aorist
-195376	present
-aorist
-195388	aorist
-195390	aorist
-195393	aorist
-195401	aorist
-195408	aorist
-195426	imperfect
-195434	present
-195436	aorist
-195438	aorist
-195451	aorist
-aorist
-195454	present
-195456	perfect
-195458	present
-195465	present
-195467	present
-present
-perfect
-195471	present
-195473	perfect
-195478	aorist
-195480	aorist
-195483	aorist
-195485	aorist
-195487	present
-195495	aorist
-present
-195498	aorist
-195507	present
-195514	imperfect
-195517	aorist
-195522	present
-195525	aorist
-195528	present
-195530	present
-195544	aorist
-195551	perfect
-195553	aorist
-195556	aorist
-195558	aorist
-present
-195566	aorist
-195573	imperfect
-195575	aorist
-195590	aorist
-195598	imperfect
-195605	present
-195615	aorist
-195617	present
-195626	present
-195629	present
-195637	present
-195639	aorist
-aorist
-195646	aorist
-195648	aorist
-195650	aorist
-195655	imperfect
-195661	imperfect
-195666	present
-195677	aorist
-195684	aorist
-195694	aorist
-195702	aorist
-aorist
-195711	aorist
-195718	aorist
-195724	imperfect
-195728	aorist
-195736	future
-195739	aorist
-195750	aorist
-195755	perfect
-195766	aorist
-195777	aorist
-aorist
-195784	imperfect
-195788	aorist
-195793	imperfect
-195800	present
-195804	present
-195807	present
-195810	aorist
-195812	imperfect
-aorist
-195816	aorist
-195821	aorist
-195823	present
-perfect
-195826	perfect
-195828	aorist
-195830	aorist
-195833	aorist
-195842	aorist
-195850	perfect
-195852	present
-195857	present
-195868	present
-present
-195875	present
-195882	aorist
-195885	present
-195893	aorist
-195897	present
-present
-195903	present
-195905	present
-195908	aorist
-195913	aorist
-195929	present
-195940	present
-195943	present
-195945	present
-195948	aorist
-present
-195952	present
-195954	present
-195959	aorist
-195961	present
-195963	imperfect
-195967	aorist
-195969	present
-195988	present
-195990	imperfect
-195995	aorist
-196003	present
-196006	aorist
-196009	present
-present
-196015	present
-present
-196019	aorist
-196024	imperfect
-imperfect
-196031	aorist
-196037	aorist
-196042	aorist
-196045	aorist
-aorist
-196048	aorist
-196050	aorist
-196053	present
-196062	present
-196070	aorist
-196072	aorist
-present
-196083	present
-imperfect
-present
-196095	aorist
-196110	present
-196113	present
-196136	present
-196147	imperfect
-196152	imperfect
-196159	present
-196189	imperfect
-196191	aorist
-196200	aorist
-196204	aorist
-196206	aorist
-196215	imperfect
-196220	present
-196222	present
-196227	aorist
-196229	present
-196233	imperfect
-196245	aorist
-196249	present
-196269	perfect
-196273	aorist
-196278	imperfect
-196282	aorist
-196287	present
-196290	aorist
-196298	aorist
-196301	aorist
-196303	present
-196305	aorist
-196324	aorist
-aorist
-196327	present
-196332	imperfect
-196334	imperfect
-196340	imperfect
-196342	aorist
-196349	aorist
-196356	imperfect
-196360	present
-perfect
-196369	present
-196378	imperfect
-196381	present
-196384	imperfect
-196393	aorist
-196398	imperfect
-196401	aorist
-196404	aorist
-196411	aorist
-aorist
-196417	aorist
-196437	aorist
-imperfect
-196448	present
-196450	present
-196464	imperfect
-196467	imperfect
-196469	aorist
-196472	imperfect
-196477	imperfect
-196481	perfect
-196489	imperfect
-196492	aorist
-196495	imperfect
-196499	imperfect
-196501	aorist
-196513	aorist
-196532	aorist
-196543	aorist
-aorist
-196550	present
-196555	aorist
-196559	aorist
-196563	present
-196565	future
-196568	aorist
-196573	aorist
 future
+194994	aorist
+194998	future
+195002	imperfect
+195010	aorist
+present
+195019	future
+195023	future
+195030	present
+195037	future
+195044	future
+195047	future
+195055	aorist
+195057	present
+195059	present
+195063	present
+aorist
+195067	present
+195075	present
+195080	aorist
+195082	present
+195085	present
+195088	aorist
+195090	aorist
+195093	aorist
+195095	aorist
+195098	aorist
+195101	present
+195103	aorist
+195112	aorist
+aorist
+195115	aorist
+195120	present
+aorist
+195127	imperfect
+195130	present
+195135	aorist
+195139	aorist
+195144	present
+195146	imperfect
+195154	imperfect
+195156	imperfect
+195164	present
+195166	aorist
+present
+195171	pluperfect
+195174	aorist
+195178	present
+195180	present
+195182	aorist
+195186	aorist
+aorist
+aorist
+195192	present
+195194	present
+195196	aorist
+195198	aorist
+195200	aorist
+195202	aorist
+195204	aorist
+195206	aorist
+195208	aorist
+195213	aorist
+195215	aorist
+195220	aorist
+195223	imperfect
+195226	aorist
+195228	aorist
+195233	aorist
+195237	aorist
+195246	aorist
+195248	aorist
+195252	aorist
+195256	aorist
+195259	aorist
+195273	present
+195279	aorist
+195282	aorist
+195284	aorist
+195305	aorist
+aorist
+195309	aorist
+195314	present
+195317	imperfect
+195321	imperfect
+present
+195327	imperfect
+195329	imperfect
+195333	aorist
+195339	imperfect
+195344	present
+195349	present
+195352	future
+195354	present
+195357	future
+195359	present
+195361	aorist
+195366	aorist
+195369	aorist
+195371	aorist
+195380	aorist
+195385	aorist
+aorist
+195396	imperfect
+195404	present
+195409	perfect
+195412	future
+195414	present
+195417	future
+195419	future
+195424	aorist
+195430	imperfect
+195435	present
+present
+present
+195441	present
+present
+195444	present
+present
+195447	present
+195449	present
+195451	present
+195455	present
+195460	present
+195466	aorist
+195468	present
+195470	present
+195473	present
+195476	present
+195479	present
+195481	present
+195484	present
+195489	present
+present
+195494	present
+195498	present
+195500	present
+195504	present
+present
+195509	present
+195513	present
+195516	aorist
+195519	present
+aorist
+195523	present
+195526	present
+195528	aorist
+195531	present
+195535	present
+195537	present
+195539	present
+195541	future
+195546	future
+195551	present
+195555	present
+195561	present
+195564	present
+195567	aorist
+195570	present
+195573	aorist
+present
+195576	future
+present
+195579	future
+195583	perfect
+perfect
+present
+future
+195592	present
+future
+195595	aorist
+195599	present
+195602	present
+195605	future
+195607	present
+195612	perfect
+195614	future
+195621	present
+195636	present
+195638	present
+present
+195643	aorist
+aorist
+195657	present
+195659	aorist
+195667	future
+195675	aorist
+195684	present
+195691	present
+195695	present
+195700	present
+195708	present
+195714	present
+195719	present
+195725	present
+195730	present
+195732	present
+195734	present
+195737	present
+195741	present
+195743	future
+195746	present
+195749	present
+195751	present
+195754	aorist
+195756	aorist
+195758	aorist
+195764	aorist
+aorist
+195771	aorist
+aorist
+195776	perfect
+195779	aorist
+195782	aorist
+195784	present
+195786	aorist
+195792	aorist
+195796	aorist
+195798	aorist
+195805	aorist
+195813	aorist
+195819	present
+imperfect
+present
+195823	imperfect
+195826	aorist
+195830	aorist
+195834	present
+195837	aorist
+aorist
+195843	aorist
+195846	imperfect
+195849	present
+195852	present
+195854	future
+195856	present
+195863	aorist
+195867	imperfect
+195873	present
+195876	aorist
+195879	present
+195883	present
+195887	present
+195892	aorist
+195896	aorist
+195898	aorist
+195900	aorist
+195903	aorist
+195909	present
+195911	present
+present
+195916	present
+195918	aorist
+195920	present
+195923	present
+195925	present
+195929	aorist
+195932	present
+aorist
+195937	aorist
+195940	aorist
+195943	present
+195945	aorist
+present
+195952	aorist
+195954	aorist
+195957	aorist
+aorist
+195960	present
+195962	aorist
+195965	aorist
+195968	present
+195971	imperfect
+195979	aorist
+195984	aorist
+imperfect
+195987	perfect
+195994	imperfect
+196000	imperfect
+196003	aorist
+196006	aorist
+196009	aorist
+196012	present
+196014	aorist
+aorist
+196018	present
+aorist
+196021	aorist
+196024	present
+aorist
+196027	aorist
+196030	aorist
+present
+196033	aorist
+196037	aorist
+196042	imperfect
+196044	present
+196047	aorist
+196051	aorist
+196056	aorist
+196068	aorist
+196075	aorist
+196081	aorist
+196084	present
+196086	present
+present
+196090	present
+aorist
+196095	aorist
+196097	aorist
+196100	present
+196102	present
+present
+196106	present
+196110	aorist
+196118	aorist
+present
+196121	aorist
+aorist
+196124	aorist
+aorist
+196130	present
+196132	present
+196134	present
+196137	present
+196139	present
+196141	present
+196144	present
+196147	aorist
+196149	aorist
+196153	aorist
+present
+196159	aorist
+196162	aorist
+196165	present
+196168	aorist
+aorist
+196173	perfect
+aorist
+196180	present
+196183	present
+196186	aorist
+aorist
+196190	present
+196195	present
+196197	perfect
+aorist
+present
+196205	future
+196209	present
+196216	present
+196226	present
+196230	aorist
+196233	aorist
+196235	aorist
+196245	aorist
+196248	aorist
+196252	future
+196259	present
+196262	present
+196264	present
+196266	present
+196269	present
+aorist
+196274	aorist
+aorist
+196278	aorist
+perfect
+196283	present
+196286	present
+196289	present
+196291	present
+perfect
+196296	present
+196298	present
+196300	present
+aorist
+196306	aorist
+196312	imperfect
+196318	aorist
+196321	aorist
+196326	aorist
+196328	aorist
+196330	imperfect
+196335	aorist
+196337	present
+196342	aorist
+196345	aorist
+196350	present
+196352	aorist
+present
+196361	imperfect
+196363	imperfect
+196367	imperfect
+196369	aorist
+196372	aorist
+196374	aorist
+196376	present
+196379	imperfect
+196381	imperfect
+196385	present
+196389	present
+196391	aorist
+196393	aorist
+196396	present
+196399	aorist
+196403	aorist
+present
+196406	imperfect
+196409	imperfect
+196415	present
+196417	aorist
+196419	aorist
+196423	future
+196425	aorist
+196427	aorist
+present
+196432	aorist
+196435	aorist
+196438	aorist
+196440	aorist
+196444	imperfect
+present
+196448	aorist
+196456	aorist
+196460	aorist
+196466	aorist
+196470	aorist
+196475	aorist
+196477	imperfect
+present
+196485	aorist
+196489	aorist
+196493	present
+196495	perfect
+196501	aorist
+196506	present
+196508	present
+aorist
+196512	perfect
+196516	aorist
+present
+present
+196522	present
+196525	present
+aorist
+196532	perfect
+196534	present
+196537	aorist
+196542	imperfect
+196559	present
+196563	pluperfect
+196571	imperfect
+196574	present
+196576	present
+196582	present
+196584	aorist
 196586	aorist
+present
 aorist
-196594	aorist
+196593	present
 196597	aorist
-196604	present
+196601	aorist
 196606	aorist
-196616	aorist
+196610	aorist
+196614	aorist
+aorist
+196618	present
+196622	aorist
+196627	aorist
+196629	aorist
+196633	aorist
+196639	aorist
+aorist
+196643	present
+imperfect
 present
-present
-196621	aorist
-196636	aorist
 196647	present
-196649	aorist
+present
+imperfect
+196656	present
+196660	aorist
+196662	perfect
 aorist
-196654	aorist
-196659	aorist
+196673	present
+196675	present
+196677	present
+196679	present
+present
+196685	present
+196693	present
 aorist
-196667	aorist
+196696	present
+196699	present
+196706	aorist
 aorist
-196676	aorist
-196686	aorist
-196695	aorist
-196703	aorist
-196709	aorist
-196711	aorist
-196718	aorist
-196724	present
-196734	aorist
-196739	aorist
-196742	aorist
-196744	present
-196746	present
+196714	aorist
+196716	present
+196722	present
+196725	present
+196729	present
+196733	aorist
+196735	present
+aorist
+196743	present
+present
+196747	present
+196754	present
 196759	aorist
-196761	imperfect
-196764	present
-196767	present
-196771	aorist
-imperfect
-196774	aorist
-196789	aorist
-196791	present
-196793	aorist
-196804	aorist
-196807	aorist
-196810	aorist
-aorist
-196816	aorist
-196821	imperfect
-196827	present
-196830	aorist
+196761	present
+196763	present
+196768	aorist
 present
-196838	aorist
-aorist
-196846	imperfect
-196849	present
-196857	aorist
-196860	aorist
-196870	aorist
-196873	aorist
-196876	aorist
-aorist
-196879	aorist
-196882	aorist
-196884	present
-196886	aorist
-aorist
-196894	future
-196896	aorist
-196899	present
-196903	present
-196905	present
-aorist
-196908	aorist
+196774	present
+196777	present
+196779	present
 present
-196916	aorist
-196918	aorist
-196930	aorist
-196941	aorist
-196953	aorist
-196959	aorist
-196961	aorist
-196966	imperfect
-196971	present
+196784	present
+196788	future
+196792	aorist
+196795	aorist
+present
+196799	present
+196802	present
+future
+196808	present
+196811	present
+present
+future
+196815	aorist
+196824	imperfect
+aorist
+196829	aorist
+196837	perfect
+196839	aorist
+present
+196844	aorist
+aorist
+196851	present
+196856	aorist
+196863	aorist
+196869	aorist
+196871	aorist
+196877	aorist
+present
+196881	aorist
+196883	aorist
+196888	imperfect
+196890	imperfect
+aorist
+196893	aorist
+196895	present
+196898	present
+196901	aorist
+aorist
+196909	aorist
+196911	aorist
+196913	aorist
+196919	aorist
+196921	aorist
+present
+196927	present
+196930	present
+196934	present
+196937	aorist
+196943	present
+196946	aorist
+196951	aorist
+196957	present
+196962	aorist
+196967	imperfect
+196971	aorist
+196974	aorist
+aorist
 196979	aorist
-196982	aorist
-196985	aorist
-196987	aorist
-197001	imperfect
-197003	aorist
-197012	aorist
-197018	aorist
-197025	present
-197036	present
-197041	aorist
-197043	aorist
-197049	aorist
-197052	aorist
+196985	present
+196989	aorist
 imperfect
-197073	aorist
-197075	present
+196995	aorist
+197000	pluperfect
+197003	imperfect
+197005	present
+197007	present
+197009	imperfect
+197014	aorist
+197021	present
+197024	aorist
+197027	aorist
+197031	imperfect
+197035	aorist
+197039	aorist
+imperfect
+197046	present
+197050	aorist
+197053	aorist
+197056	aorist
+197058	aorist
+197060	aorist
+197065	aorist
+197069	aorist
+197076	aorist
+aorist
 197079	present
-imperfect
-197096	present
-197100	present
-197107	imperfect
+perfect
 aorist
+197083	aorist
+197089	aorist
+197091	aorist
+perfect
+197094	aorist
+197098	aorist
+present
+197103	aorist
+perfect
+197106	present
 197112	aorist
-197119	present
 aorist
-197123	present
-197125	aorist
+197116	aorist
+197118	aorist
+aorist
+197121	aorist
 197129	aorist
-197131	aorist
-197135	aorist
-197140	present
-197142	present
-197144	present
+197133	imperfect
+197136	aorist
+197138	aorist
+imperfect
+197144	pluperfect
 197146	present
 197148	aorist
-197158	aorist
-197170	imperfect
-197173	aorist
-197181	imperfect
-197187	perfect
-197189	aorist
+197151	present
+present
+197157	present
+197160	aorist
+197163	aorist
+197167	present
+197169	aorist
+197174	present
+197176	aorist
+197184	aorist
+aorist
+197193	imperfect
 197195	aorist
-197200	aorist
-197202	aorist
-197210	aorist
-197212	aorist
-197221	aorist
-197229	present
+197199	imperfect
+197201	aorist
+197208	imperfect
+197214	imperfect
+197217	present
+197220	imperfect
+197224	present
+197231	aorist
+197233	aorist
+aorist
+197236	aorist
+197243	aorist
+197249	aorist
+197252	aorist
+197254	present
+197257	aorist
+197261	present
+197264	present
+197267	aorist
+aorist
+197273	aorist
+197275	perfect
+197277	aorist
+197282	aorist
 present
-197232	imperfect
-197234	present
-197238	imperfect
-197255	imperfect
-197257	present
-197259	imperfect
-197272	aorist
-197276	aorist
-197278	imperfect
-197280	present
-197293	aorist
+aorist
+197286	aorist
+197290	aorist
+197292	aorist
 197298	aorist
-197311	present
+197302	aorist
+197307	perfect
+197309	present
 197313	present
-197330	aorist
-197335	present
 present
-197350	aorist
-197352	present
-197356	present
-197358	aorist
+197318	present
+197320	perfect
+197324	present
+197328	aorist
+aorist
+197332	present
+197334	aorist
+197336	future
+aorist
+197342	aorist
+aorist
+197362	aorist
+197364	present
+aorist
+197367	present
+197369	imperfect
+197371	perfect
+197373	aorist
+197376	aorist
+197379	aorist
 present
-197368	present
-197381	present
-197400	present
-197406	aorist
+197382	present
+197384	aorist
+197388	aorist
+197391	aorist
+197393	aorist
+aorist
+197396	aorist
+197401	aorist
+197404	aorist
+perfect
+aorist
 197409	aorist
-197418	perfect
-197429	present
-197437	present
-197443	present
+197417	present
+197419	aorist
+197421	present
+197426	present
+197428	aorist
+197431	present
 197445	present
-197450	aorist
+197449	aorist
+197451	present
+197454	present
 197458	present
-197467	imperfect
-197470	present
-197484	aorist
-197487	aorist
-present
-197502	present
-197507	present
-197510	present
-197512	aorist
-197523	present
+197460	present
+197468	present
+197472	present
+197474	imperfect
+197479	aorist
+197483	present
+197485	imperfect
+197487	present
+197491	aorist
+197497	aorist
+197503	aorist
+aorist
+197509	aorist
+197512	present
+197514	present
+197517	imperfect
+aorist
+197521	aorist
+197523	aorist
+197526	aorist
+197528	aorist
 197530	aorist
-197532	present
-197535	aorist
-197543	present
-197557	aorist
-197564	present
+197534	present
+197538	aorist
+aorist
+197542	aorist
+197544	imperfect
+197552	present
+imperfect
+197556	aorist
+present
+aorist
+197561	aorist
+197563	aorist
 197566	aorist
-197571	imperfect
+197571	aorist
 197573	aorist
-197577	aorist
 197579	present
-197586	present
+aorist
+197583	aorist
+197585	aorist
+197589	aorist
 197591	present
+197599	aorist
+197601	aorist
+197607	imperfect
+197611	aorist
+197616	aorist
+197622	aorist
+197625	aorist
+197627	aorist
+197634	aorist
+197637	aorist
+197640	aorist
+197642	imperfect
+197644	aorist
+197647	aorist
+197649	aorist
+197652	aorist
 aorist
-197601	present
+197658	aorist
+197663	imperfect
+197667	aorist
+197669	present
+197673	present
 present
-197604	present
-197610	aorist
-197619	imperfect
-197630	present
-197637	present
-197639	present
-197645	present
-197652	present
-197654	aorist
-197657	present
-197677	present
+197677	aorist
+aorist
+197689	aorist
+aorist
+197697	present
 present
-197684	imperfect
-197693	present
-197695	present
-197718	present
+197701	aorist
+aorist
+197708	aorist
+197710	aorist
+197712	present
+197714	aorist
+197716	present
+197721	aorist
+197723	aorist
+197729	aorist
+197733	aorist
+imperfect
+197739	present
 197741	present
-197743	present
-197749	aorist
 aorist
-197759	aorist
-197764	imperfect
-aorist
-197768	aorist
-aorist
-197772	aorist
-197779	imperfect
-197788	aorist
-aorist
-197801	imperfect
-197808	imperfect
-197814	aorist
-197823	imperfect
+197745	aorist
+197750	present
+197754	present
+197757	aorist
+future
+197762	aorist
+197767	future
+197771	present
+197773	aorist
+197781	aorist
+197789	future
+197791	aorist
+197800	present
+197804	present
+197807	perfect
+197810	aorist
+197813	aorist
+197817	aorist
 197825	aorist
-197827	aorist
-197833	present
-197835	aorist
-197847	aorist
-197850	aorist
-197852	present
-197866	present
-197877	aorist
-197886	present
-perfect
+197828	aorist
+197831	aorist
+197833	aorist
+197835	present
+197846	present
+197848	aorist
+197850	imperfect
+197853	imperfect
+197856	aorist
+197858	imperfect
+197862	imperfect
+present
+197872	aorist
+197874	aorist
+197880	perfect
+197883	aorist
+197885	present
+197888	aorist
+197894	present
+197897	present
 197899	aorist
-197907	aorist
-197911	perfect
-197921	perfect
-197924	aorist
-197932	aorist
-197955	present
-197961	present
-197964	aorist
-197970	aorist
-197980	aorist
-197994	aorist
+197910	perfect
+197912	present
+197916	present
 aorist
-198002	aorist
-198008	aorist
-198010	present
-198012	aorist
-198014	present
+197920	imperfect
+197922	aorist
+197925	aorist
+197931	aorist
+197934	present
+197936	present
+197939	perfect
+197941	present
+197944	aorist
+197946	aorist
+197951	aorist
+197954	aorist
+197960	perfect
 aorist
+197965	aorist
+197969	aorist
+197973	aorist
+197977	aorist
+present
+197980	present
+197982	aorist
+197989	present
+197991	aorist
+197993	present
+197997	present
+197999	present
+198004	present
+198006	present
+198009	aorist
+198013	aorist
 198017	aorist
-198025	aorist
-198036	imperfect
-198039	aorist
-198043	present
-198047	imperfect
-198052	imperfect
-198055	imperfect
-present
-198059	perfect
-198064	present
-present
+aorist
+198021	aorist
+198025	perfect
+198027	future
+198030	future
+198032	aorist
+198038	present
+198040	aorist
+198044	aorist
+aorist
+198052	aorist
+198055	aorist
+198059	imperfect
 198068	present
-198080	present
-198083	present
-198085	aorist
+198072	imperfect
 aorist
-198090	present
-198092	present
-198103	present
-198107	present
-198109	aorist
-198112	aorist
-198121	future
-198134	present
-198136	aorist
-198146	future
-198149	aorist
-198155	imperfect
-198159	present
-198163	aorist
+198077	aorist
+198088	present
+present
+198094	imperfect
+198102	aorist
+198105	imperfect
+aorist
+198111	aorist
+198115	present
+198119	perfect
+198124	aorist
+198126	aorist
+198130	aorist
+198133	aorist
+198140	present
+198144	aorist
+present
+aorist
+198152	present
+198154	present
+198156	aorist
+198159	aorist
+198161	aorist
 198166	present
-198170	aorist
-198177	aorist
-198183	aorist
+198169	imperfect
+198173	present
+198175	aorist
+198180	present
+198184	present
+198187	present
 aorist
-198186	imperfect
-198193	present
-198195	aorist
-198200	imperfect
-198205	aorist
-198207	aorist
-198211	present
+198191	present
+198199	aorist
+present
+198203	aorist
+198208	aorist
+aorist
 198213	aorist
-198215	aorist
 198217	aorist
-198224	imperfect
-198230	aorist
-198234	aorist
-198247	aorist
-198256	aorist
-198261	aorist
-present
-198264	present
-198274	present
-198277	aorist
+198224	aorist
+198228	aorist
+198230	present
+aorist
+198233	aorist
+198237	aorist
+198239	aorist
+198241	aorist
+198244	aorist
+198248	present
+198252	aorist
+198255	future
+198258	present
+198260	aorist
+198265	present
+198276	present
+198279	present
+aorist
 198283	present
-198290	present
-198293	present
-198296	future
-198304	aorist
-198307	aorist
+198287	aorist
 aorist
-198315	aorist
+198291	aorist
 aorist
-198325	imperfect
-198335	imperfect
-198337	present
+198295	aorist
+198298	aorist
+198300	aorist
+198305	aorist
 present
+198310	aorist
+198313	future
+198318	aorist
+198320	aorist
+198325	aorist
+198330	aorist
+198334	present
+198338	present
+198344	aorist
+198348	aorist
+198357	imperfect
+198359	present
+imperfect
+198369	aorist
+198376	aorist
+198380	present
+aorist
 present
-198356	imperfect
-198363	present
-198365	aorist
-present
-198369	present
-198373	present
-198375	present
-198377	present
-perfect
-present
-198386	present
-198388	present
-198391	present
-198393	present
-198396	present
+198389	present
+198399	aorist
 198403	aorist
-198416	aorist
+198405	present
+198412	present
+198414	future
+198422	future
+198427	present
+198437	present
+198443	present
+198445	present
+198447	present
 present
-198436	aorist
-198438	present
-198441	imperfect
-198444	present
-198446	present
 198451	present
-198455	present
-198459	aorist
-198461	aorist
-198469	aorist
-198477	aorist
-198485	aorist
-198490	imperfect
+198456	present
+198458	perfect
+198466	aorist
+198469	present
+198471	aorist
+198475	aorist
+198478	aorist
+198485	present
+198489	present
+perfect
 198494	present
-198496	aorist
-imperfect
+198502	future
+198516	aorist
+198518	aorist
+198523	present
+aorist
+198528	future
+198537	future
+198540	future
 present
-198506	present
+198544	present
+198546	present
+198549	present
+198552	present
 present
-198510	aorist
-198522	aorist
-198524	aorist
-198526	imperfect
-198530	aorist
-198537	present
-198544	aorist
-198546	aorist
-198573	imperfect
-198579	present
+aorist
+198556	aorist
+198560	present
+198564	present
+198569	aorist
+198572	imperfect
+198578	aorist
+aorist
+perfect
 198583	present
-198587	present
-198590	aorist
-198592	present
-198611	imperfect
-198617	present
+198596	future
+198600	present
+198603	present
 present
+198609	perfect
+198615	aorist
+198620	aorist
+present
+198628	aorist
+198633	aorist
+198641	aorist
+198645	aorist
+198651	present
+198653	present
+198660	present
+198667	present
+198669	aorist
+198671	aorist
+198675	aorist
+198678	present
+198680	present
+present
+198687	aorist
 aorist
-198623	present
-198626	present
-198631	aorist
-198635	present
-198640	aorist
-present
-198644	present
-198653	aorist
-198655	aorist
-198670	aorist
-198677	aorist
-198683	imperfect
-198685	aorist
-198690	aorist
-present
-198695	aorist
-198697	aorist
+198691	present
+198694	aorist
+198696	aorist
+198698	present
+198701	aorist
 198703	aorist
-198706	present
+198705	aorist
 present
-198714	present
-198727	aorist
-198738	aorist
-198742	present
-198746	aorist
+198708	present
+198711	aorist
+198713	future
+198716	aorist
+198721	perfect
+198723	present
+198726	aorist
 aorist
-198750	aorist
-198757	present
-198762	present
-198768	aorist
 future
-198774	future
-198787	future
-198791	present
-198793	aorist
-198800	aorist
-198808	aorist
-198820	aorist
-198849	future
-198852	aorist
-198874	imperfect
-198877	present
-198880	present
-198885	perfect
-198890	aorist
-198894	aorist
-198902	perfect
-198912	present
-198926	present
-198938	aorist
-198948	aorist
-198950	present
-198963	present
-198965	aorist
-198967	aorist
-198975	imperfect
+198755	aorist
+198759	aorist
+198761	present
+198763	future
+198766	present
+aorist
+198769	aorist
+198774	present
+198776	aorist
+198778	aorist
+198780	imperfect
+198785	aorist
+198788	aorist
+198792	aorist
+aorist
+aorist
+198799	imperfect
+198804	aorist
+198806	aorist
+198812	aorist
+198814	aorist
+aorist
+198818	present
+aorist
+198822	aorist
+aorist
+198825	aorist
+aorist
+198829	present
+198831	aorist
+198837	aorist
+198841	aorist
+198846	aorist
+198848	aorist
+198851	aorist
+aorist
+198856	aorist
+198859	present
+198861	future
+198867	present
+198869	perfect
+aorist
+198875	aorist
+aorist
+198879	aorist
+198883	present
+198886	present
+198890	present
+198893	aorist
+198901	aorist
+198907	imperfect
+198909	present
+198913	aorist
+198918	imperfect
+198923	imperfect
+198926	aorist
+198928	aorist
+198931	present
+198937	imperfect
 present
-198981	aorist
-198985	present
-198991	present
+aorist
+198944	aorist
+aorist
+198947	aorist
+198956	present
+198962	aorist
+198965	future
+198968	aorist
+198975	aorist
+aorist
+198982	aorist
+198984	present
+198987	aorist
+198990	aorist
 198994	present
-198996	aorist
-199010	pluperfect
+present
+198997	aorist
+199000	aorist
+199007	present
 199012	aorist
-199015	aorist
-199017	aorist
-199019	present
-199022	aorist
-199030	present
-199039	present
-199043	aorist
-199046	aorist
-199056	present
-199063	aorist
-199068	aorist
+199018	present
+199020	present
+199024	aorist
+199028	aorist
+199032	future
+199035	future
+199039	aorist
+199042	aorist
+199047	aorist
+199052	present
+199054	future
+199058	aorist
 aorist
-199083	aorist
-199088	aorist
-199092	present
-199094	present
-199099	aorist
-199101	imperfect
-199103	present
-199105	present
-199111	present
+199063	present
+199066	perfect
+199073	present
+199075	present
 aorist
-199116	imperfect
-199120	aorist
-199122	present
-199126	perfect
-199138	aorist
-199140	aorist
-199142	present
-199148	perfect
-199150	aorist
-199153	imperfect
-199155	perfect
-199160	aorist
-199166	aorist
-199175	present
-199186	aorist
-199188	aorist
-199190	present
-imperfect
-199194	aorist
-199197	present
-199202	aorist
-199212	aorist
-199221	present
-199229	aorist
-present
-199233	present
-199235	present
-199240	present
-199242	aorist
-199250	aorist
-199253	aorist
-199256	aorist
-199258	present
-199270	future
-199274	future
-199276	present
-199282	aorist
-199288	aorist
-199294	aorist
-199297	aorist
-199303	imperfect
-present
-199306	aorist
-199315	present
-199318	perfect
-199322	aorist
-199334	aorist
-199340	aorist
-199345	present
 aorist
-199348	aorist
-199356	aorist
-199360	present
-199364	present
-199366	aorist
-199374	imperfect
-present
-present
-199382	aorist
-199388	present
-199390	aorist
-199398	present
-199408	present
-199410	aorist
-199416	aorist
-199421	aorist
-199424	aorist
-aorist
-199427	aorist
-199435	present
-199437	aorist
-199442	aorist
-199448	aorist
-199451	aorist
-199453	aorist
-199466	imperfect
-199471	aorist
-aorist
-199475	aorist
-199485	present
-aorist
-199493	aorist
-imperfect
-199502	imperfect
-199505	aorist
-imperfect
-199514	imperfect
-199524	present
-199531	future
-199534	aorist
-199540	future
-199543	imperfect
-199548	imperfect
-199550	aorist
-199552	aorist
-199562	aorist
-imperfect
-199571	imperfect
-199574	imperfect
-199579	aorist
-199588	aorist
-aorist
-199594	present
-199598	present
-199600	present
+199079	present
+199084	future
+199086	aorist
+199088	present
+199093	aorist
 future
-199610	aorist
-199612	aorist
-199620	aorist
-199622	aorist
-199633	aorist
-199642	present
-199647	present
-199650	present
+199097	present
+199100	present
+present
+199103	future
+199105	present
+199107	future
+present
+199110	future
+199114	present
+present
+199117	present
+present
+199120	present
+future
+199126	future
+199132	future
+199135	future
+199137	future
+199144	present
+perfect
+199147	present
+199154	future
+199156	present
+199163	imperfect
+199165	aorist
+199168	aorist
+aorist
+199172	aorist
+199177	aorist
+199182	present
+199186	present
+199189	imperfect
+199193	perfect
+199196	aorist
+199201	aorist
+present
+199206	present
+199212	aorist
+199214	future
+199218	present
+199220	present
+199227	present
+199232	present
+199236	future
+199242	present
+199245	aorist
+199252	perfect
+present
+199257	present
+199259	present
+199263	aorist
+aorist
+199268	present
+199270	pluperfect
+199274	present
+199276	present
+199279	present
+199282	present
+199284	present
+199288	aorist
+199291	present
+199294	present
+199298	present
+present
+future
+199305	aorist
+199307	aorist
+present
+perfect
+199311	perfect
+199313	present
+199315	present
+199321	aorist
+present
+199325	present
+199332	aorist
+199335	present
+199338	aorist
+199344	aorist
+199348	aorist
+199352	aorist
+199355	aorist
+199358	present
+199363	present
+199366	present
+aorist
+present
+199372	present
+199374	present
+199378	future
+199386	aorist
+199391	future
+199399	future
+199408	future
+199411	aorist
+199416	aorist
+199420	aorist
+199423	future
+199430	future
+199433	aorist
+199438	aorist
+199443	aorist
+199445	present
+199453	present
+199455	present
+199459	present
+199466	present
+199472	present
+199476	present
+199481	present
+199488	present
+199496	present
+199499	future
+199505	present
+199509	aorist
+present
+199514	aorist
+199516	aorist
+199518	aorist
+199521	aorist
+aorist
+199526	aorist
+199529	aorist
+199540	present
+199544	present
+199547	aorist
+199551	aorist
+199553	present
+aorist
+199557	aorist
+199561	present
+199566	present
+199573	present
+199581	imperfect
+aorist
+199585	aorist
+199589	present
+199602	present
+199610	present
+199613	perfect
+aorist
+199618	present
+199622	present
+199624	present
+199627	aorist
+199632	present
+199641	present
+199646	present
 199653	aorist
-199655	imperfect
-199661	aorist
-199670	present
-199674	present
-199677	imperfect
-199681	imperfect
-199687	aorist
-199689	present
-199693	present
-199695	future
-199705	future
-199707	aorist
-199712	present
-199719	present
-199723	aorist
+199657	present
+199659	present
+199667	aorist
+199671	present
+199677	aorist
+future
+199685	aorist
+199690	perfect
+199700	aorist
+199706	present
+199708	future
+199715	aorist
+199721	aorist
+199723	present
+aorist
+199726	aorist
+199728	aorist
 199733	present
 199735	present
-199741	aorist
-199750	aorist
+199738	present
+199740	aorist
+199746	aorist
+199751	present
+199753	aorist
+present
 199759	present
-199761	present
 199765	present
-199777	perfect
-199785	aorist
+199770	perfect
+present
+199774	future
+199778	future
+199784	aorist
+199787	future
 199792	aorist
-199795	present
-199798	aorist
+199795	future
+199798	present
+199803	aorist
+199805	present
 199810	present
+199812	aorist
+future
+199817	aorist
 aorist
-199833	present
-199835	aorist
-199838	present
-199840	aorist
-199853	present
-aorist
-199867	present
-199869	aorist
-199873	present
-199875	aorist
-199889	present
-aorist
-199903	present
-199909	present
-199913	future
-199924	aorist
-199929	future
+199820	aorist
 present
-199936	present
-199942	aorist
+199823	aorist
+199827	present
+199830	aorist
+199832	present
+199848	perfect
+199850	present
+199852	present
 present
-199960	present
-199968	pluperfect
-199970	imperfect
+199858	aorist
+199866	future
+199873	aorist
+199877	future
+199885	future
+199891	future
+199897	aorist
+199899	future
+199902	present
+199911	aorist
+199915	aorist
+199918	aorist
+199922	future
+199928	present
+aorist
+aorist
+199937	aorist
+199940	aorist
+199945	aorist
+199950	aorist
+199954	aorist
+199957	present
+199959	present
+199965	present
+199969	present
+199971	present
 199973	aorist
-199975	imperfect
-199978	present
+199977	present
 199981	aorist
+199984	imperfect
+199986	present
+199988	aorist
+199991	present
+199993	future
+199997	aorist
+199999	future
+future
+200005	future
+200007	future
+200015	future
+200019	present
+200022	present
+200025	present
+aorist
+aorist
 present
-199986	aorist
 aorist
-199991	aorist
-199995	aorist
+200038	present
+200042	aorist
+200044	future
+200046	present
+200051	present
 aorist
-200001	aorist
-200003	aorist
-200008	aorist
-200017	aorist
-200033	aorist
-200038	future
-200050	future
+200058	present
 200061	present
-200072	aorist
-200075	present
-200089	imperfect
-200092	present
-200096	aorist
-200103	aorist
-200105	present
-200112	aorist
-200118	aorist
+200064	aorist
+200068	aorist
+200072	present
+200077	aorist
+200081	present
+200083	present
+200086	present
+200090	present
+200094	present
+200099	present
+present
+200104	aorist
+200110	present
+200114	present
+aorist
 200120	present
-200122	imperfect
-200127	aorist
-200132	aorist
-200134	aorist
-200139	aorist
-200141	aorist
-200143	aorist
-200147	present
-200152	present
-200158	present
-200167	present
-200172	aorist
-200185	aorist
-200190	aorist
-200192	imperfect
+200129	aorist
+200137	present
+200142	present
+200145	present
+200151	present
+200153	aorist
+200156	aorist
+200159	present
+200165	present
+200169	perfect
+200171	present
+200174	present
+200179	future
+200182	present
+200186	aorist
+200189	aorist
+200192	aorist
+200194	present
+200196	aorist
+200198	aorist
+200202	present
+200210	present
+200213	present
+200216	present
+200223	future
 present
-200201	present
-200206	aorist
-200209	aorist
-200211	imperfect
-200217	aorist
-200222	aorist
-200227	aorist
-200231	present
-200244	perfect
-200246	aorist
-200248	aorist
-200250	aorist
-200252	aorist
-200254	aorist
+200227	perfect
+200230	present
+200235	present
+200239	aorist
+200243	aorist
+200245	aorist
+200247	aorist
+200253	aorist
+200255	future
 present
-200267	imperfect
-200273	aorist
-200283	aorist
-200285	aorist
-200288	aorist
-200292	present
 present
-200295	present
+200260	future
+200262	future
+200265	aorist
+future
+200275	aorist
+200277	aorist
+200280	present
+200284	present
+200286	pluperfect
+200290	present
+200292	aorist
 aorist
-200298	aorist
-200303	future
-200309	present
-present
-200314	aorist
-200320	aorist
-present
-200323	imperfect
-200325	present
-200330	aorist
+200297	present
+200302	present
+200306	present
+aorist
+200314	present
+200319	aorist
+200323	present
+200329	future
 200334	present
-200347	present
-200357	future
-200362	imperfect
-200375	aorist
+200341	aorist
+200344	future
 present
-200382	present
-200392	aorist
-200394	present
-200405	aorist
-200417	aorist
-200421	imperfect
+200348	present
+200354	present
+future
+200359	aorist
+200365	present
+200368	present
+200370	aorist
 present
-200428	present
+200378	future
+200386	present
+200391	present
+200393	future
+200400	future
+200404	aorist
+200415	future
+200419	aorist
 aorist
+200423	future
+200428	aorist
+200431	future
+200435	aorist
+200438	future
+200441	aorist
 aorist
-200435	present
-200453	aorist
+200447	present
+200450	aorist
+200453	present
+aorist
+200457	present
+200460	aorist
 present
-200459	aorist
-200461	aorist
-200464	perfect
-200466	imperfect
-200471	present
-200474	present
-200476	aorist
-200501	aorist
-200532	present
-200539	future
-200547	imperfect
-200554	present
-200560	imperfect
+200464	aorist
+aorist
+200469	present
+200487	future
+200507	imperfect
+200512	aorist
+200514	present
+200517	present
+200520	present
+200522	present
+200527	present
 present
-200567	imperfect
-200570	present
-imperfect
-200573	aorist
-200578	aorist
-200580	present
-200582	present
+200531	future
+200533	present
+200540	perfect
+present
+200547	present
+200553	present
+200557	present
+200564	aorist
+200566	perfect
+200570	aorist
+200577	future
+200582	future
 200584	present
-200586	aorist
-present
-200599	future
-200608	future
-200612	future
-200618	future
-200621	future
-200624	future
-200627	future
-200634	future
-200636	present
-200646	present
+200587	aorist
+200593	aorist
+imperfect
+200600	present
+200607	aorist
+200612	aorist
+aorist
+200615	present
+200623	aorist
+200626	perfect
+200628	present
+200633	present
+200636	future
+200641	aorist
+200647	aorist
 200649	present
 200653	aorist
-200655	aorist
-200659	aorist
-200662	present
-200664	aorist
-200668	aorist
-200670	aorist
-200684	aorist
-200696	aorist
-200699	perfect
-200701	present
+200657	present
+200660	present
+200665	aorist
+200668	future
+imperfect
+200674	imperfect
+200676	perfect
+200681	aorist
 present
+200687	aorist
 aorist
-200709	present
-200716	present
-aorist
-200720	aorist
-200722	present
-200727	aorist
-200734	present
-future
-200742	present
-future
-200746	aorist
-200757	present
-200759	aorist
-200762	perfect
-200764	aorist
-200768	aorist
+200692	aorist
+200696	present
 present
+200704	present
+aorist
+200711	present
+200714	aorist
+present
+200718	aorist
+200725	aorist
+200728	aorist
+200732	aorist
+200735	present
+200739	future
+200749	aorist
+200752	present
+200755	imperfect
+present
+200759	present
+aorist
+200763	aorist
+200767	aorist
+200769	aorist
+200772	perfect
 200776	aorist
-200781	present
-200783	perfect
-200786	present
-present
-200791	present
+200781	aorist
+200783	imperfect
+200785	aorist
+200788	present
+200791	aorist
+200793	imperfect
+200797	present
 200799	present
-200804	present
-200811	present
-200813	aorist
-200817	future
-200824	present
-200828	present
-200830	future
-200845	aorist
-aorist
-200848	aorist
-200850	aorist
-200862	present
-200867	present
-200891	imperfect
-200898	aorist
-200904	present
-aorist
 present
+200803	present
+present
+200810	aorist
+200815	aorist
+200819	present
+200827	aorist
+present
+200832	present
+200834	aorist
+200836	aorist
+200840	imperfect
+aorist
+200850	present
+200852	imperfect
+200854	present
+200859	imperfect
+200863	present
+200865	imperfect
+200869	present
+200875	future
+200878	present
+200881	aorist
+200883	aorist
+200887	aorist
+200889	aorist
+200895	aorist
+200901	aorist
+200903	future
 200908	present
-200913	aorist
-200916	imperfect
-200920	aorist
-200926	imperfect
-200930	aorist
-200933	aorist
-200937	aorist
+200910	aorist
+200912	aorist
+200918	aorist
+200921	imperfect
+200924	present
+200927	present
+200929	aorist
+200935	present
+200938	aorist
+200940	present
 aorist
-200941	present
-200945	present
 200947	present
-present
-present
-200953	aorist
+200949	future
+aorist
+200953	future
+200956	aorist
 200959	aorist
+200962	aorist
+200964	perfect
+200966	present
+200968	present
+200970	aorist
+200973	aorist
+future
+200977	perfect
+200980	present
+200982	future
+present
 aorist
-200967	aorist
-200972	aorist
-200975	present
-aorist
-200981	aorist
-200985	aorist
-200990	aorist
-200992	present
+200987	aorist
+200992	aorist
+200994	future
+present
 200998	perfect
-201002	aorist
-201004	imperfect
-201013	present
-201031	present
-201040	present
-201042	present
-201055	present
-201059	future
-201061	perfect
-201069	aorist
+201000	present
 aorist
-201073	present
-201078	aorist
-201080	present
-201082	aorist
-201089	present
-201093	present
-201097	aorist
-201099	aorist
-201101	perfect
-201112	present
-201119	perfect
-imperfect
-201123	present
+201006	future
+201013	aorist
+201025	present
+201028	future
+201035	future
+201041	aorist
 present
-201130	aorist
-201133	aorist
-201138	aorist
-201141	present
-201151	present
-201159	aorist
+201044	future
+201047	present
+201049	future
+201054	aorist
+201056	present
+201062	present
+201064	aorist
+201066	aorist
+201068	aorist
+aorist
+201072	aorist
+present
+201077	present
+201081	present
+201083	present
+201087	present
+present
+201091	present
+201093	aorist
+201097	present
+201100	present
+perfect
+201104	aorist
+aorist
+201116	aorist
+aorist
+present
+201122	present
+201126	aorist
+201129	future
+201131	aorist
+perfect
+present
+201137	aorist
+201139	aorist
+201148	aorist
+201155	aorist
+201158	imperfect
+201161	aorist
+201163	aorist
+201167	present
+present
 201170	aorist
-201179	aorist
-201187	present
-201190	present
-imperfect
-201193	perfect
-201195	present
-201201	perfect
-201205	present
-201221	aorist
-201231	aorist
-201235	present
-201239	aorist
+201175	aorist
+201177	aorist
+aorist
+201181	aorist
+201184	aorist
+201189	future
+201192	future
+201199	aorist
+aorist
+201202	imperfect
+201205	perfect
+201207	present
+201210	imperfect
+present
+201214	aorist
+201218	aorist
+201227	aorist
+201229	aorist
+future
+201232	aorist
+201237	aorist
+201241	present
+201244	aorist
+aorist
+aorist
 201252	aorist
-201257	aorist
-201259	aorist
-201264	present
-201266	aorist
-201270	future
-201275	aorist
-201280	aorist
-201289	imperfect
-201292	aorist
+perfect
+201255	future
+201258	aorist
+201261	future
+201266	present
+201270	present
+201272	future
+201274	present
+201276	future
+imperfect
+201280	perfect
+201283	present
+201286	present
+201300	aorist
+201303	aorist
+201309	present
+present
+201313	future
+201316	present
 aorist
-201306	aorist
-201308	imperfect
-201315	present
-201320	aorist
+201319	future
 201326	aorist
+201329	present
+201331	aorist
+201335	future
+201343	aorist
+201346	imperfect
+201349	aorist
+201352	aorist
+201358	aorist
+perfect
 present
-201330	present
-201333	present
-201353	present
-201357	aorist
-201360	imperfect
-201363	aorist
-201371	imperfect
-201373	imperfect
-201376	perfect
-201386	future
-201394	perfect
-201400	aorist
-201409	imperfect
+201364	present
+201366	aorist
+201369	present
+201371	aorist
+201374	aorist
+201376	present
+201378	aorist
+aorist
+201381	present
+201383	present
+201385	perfect
+201388	aorist
+201391	aorist
+201393	present
+aorist
+201396	present
+201398	present
+201400	perfect
+201403	aorist
+201405	aorist
+201409	present
+aorist
 201412	aorist
-imperfect
-201422	imperfect
-201433	aorist
-imperfect
-201441	present
-201443	aorist
-201447	perfect
-201452	aorist
-201456	present
+201414	aorist
+201419	aorist
+201421	aorist
+201424	aorist
+201436	aorist
+201439	aorist
+201442	perfect
+201444	aorist
+201448	present
+201450	aorist
+201454	aorist
 201459	aorist
-201464	aorist
-perfect
-201467	aorist
-201471	present
-201473	present
-201478	present
-201483	aorist
-201489	aorist
-201491	aorist
-201499	aorist
-201508	present
-201511	present
-present
+aorist
+201462	aorist
+201465	present
+201472	perfect
 future
+201476	imperfect
+201481	aorist
+aorist
+201486	present
+201490	present
+201509	present
+present
+201514	present
 201518	present
-201523	present
-201525	present
+201521	present
 present
-201528	aorist
-201530	future
+201527	present
+201529	aorist
+201531	aorist
+present
 201534	present
+201539	aorist
+201544	present
+aorist
+201547	present
+aorist
+201550	present
 present
+201555	aorist
 present
-201539	present
-201558	aorist
-201566	present
+201559	aorist
+aorist
+201563	present
+201565	aorist
+201567	aorist
+201569	future
+201571	present
+201574	aorist
 201577	present
-201579	present
-201595	imperfect
-201603	present
-201607	aorist
-201615	present
-201620	aorist
-201622	future
-201628	aorist
-201631	future
-201639	present
-201649	imperfect
-201654	aorist
-201657	imperfect
+201585	present
+201587	aorist
+present
+201597	present
+201602	present
+present
+201612	aorist
+201614	future
+201620	present
+201622	present
+201624	present
+201626	present
+present
+201635	present
+201638	imperfect
+201643	present
+201647	present
+201649	present
+201651	aorist
+201656	present
 201661	present
-201663	aorist
-201667	future
-201673	aorist
+201664	aorist
+201667	present
+201672	present
+201674	perfect
 201676	aorist
-201680	imperfect
-201686	imperfect
-201693	imperfect
+201679	aorist
+present
+201684	present
+201686	aorist
+201689	present
+201693	present
 201695	aorist
-201699	present
+201698	aorist
 201701	perfect
-201706	present
-201710	present
-201718	present
-201720	aorist
+present
+201709	future
+201713	present
+201720	present
 201725	present
-201728	aorist
-201730	aorist
-201733	aorist
-201736	aorist
+201727	aorist
+201729	present
+201732	present
+201735	present
 201739	aorist
-201743	aorist
-201745	aorist
-201761	aorist
+201741	aorist
+present
+201745	present
+aorist
+201749	aorist
+201752	aorist
+201754	present
+201756	present
+201765	present
+aorist
+201769	imperfect
 201772	aorist
-201774	aorist
-201776	aorist
-201780	aorist
-201788	aorist
-201790	aorist
+201777	aorist
+201781	present
+201786	aorist
 201793	aorist
-201795	aorist
-201802	present
+201797	aorist
+201802	aorist
 201805	present
-201809	imperfect
-201813	aorist
-201819	present
-201821	future
-201836	aorist
-201839	present
-201843	present
+201807	aorist
+201811	aorist
+201818	aorist
 present
-201848	future
-201853	aorist
+201821	aorist
 aorist
-201857	aorist
-201865	future
-201873	future
-201875	future
-201880	future
+201829	aorist
+201834	present
+201837	imperfect
+aorist
+201844	imperfect
+201848	imperfect
+201852	aorist
+imperfect
+201858	present
+201864	present
+aorist
+future
+201871	future
+201874	aorist
+201880	present
+201882	aorist
+201884	aorist
 201891	aorist
-201894	aorist
-201896	present
-201898	aorist
-201907	aorist
-201910	present
-201918	imperfect
-201920	aorist
-201922	aorist
-201926	aorist
-201935	aorist
-201937	aorist
-201939	aorist
-201941	present
-201956	aorist
+aorist
+201900	present
+aorist
+201906	aorist
+201908	aorist
+aorist
+201914	aorist
+201916	aorist
+201921	aorist
+201927	present
+201929	aorist
+201931	aorist
+201938	aorist
+201942	aorist
+201945	aorist
+201955	present
 201959	aorist
-present
-201963	perfect
-201966	present
-201969	present
-201976	present
-201993	present
-present
+201961	aorist
 aorist
-202000	aorist
-202003	aorist
-202006	perfect
-202012	aorist
-202016	present
+201968	imperfect
+201970	aorist
+201973	aorist
+201975	aorist
 present
-202021	aorist
-202024	aorist
-202026	present
-202040	aorist
-202047	aorist
+imperfect
+201986	present
+aorist
+201989	aorist
+201992	aorist
+201995	imperfect
+201997	present
+202001	aorist
+202006	present
+202008	aorist
+202015	present
+202017	aorist
+aorist
+202022	imperfect
+aorist
+202027	aorist
+imperfect
+202032	aorist
+aorist
+202035	aorist
+202037	present
+202042	aorist
+202046	aorist
 202052	aorist
-202064	imperfect
-202069	present
+202058	aorist
+202062	aorist
+aorist
+202069	aorist
 202075	present
-202078	present
-202080	imperfect
-202082	present
-202085	aorist
-202092	aorist
-202094	aorist
-202098	aorist
-202101	aorist
+202080	present
+aorist
+202084	aorist
+imperfect
+202091	imperfect
+202093	aorist
+202095	perfect
+202097	aorist
+imperfect
+202104	imperfect
+202107	imperfect
 202111	aorist
-202121	imperfect
+202114	present
+202116	present
+202118	aorist
+202120	aorist
+202124	present
 202126	aorist
-202129	present
-202131	aorist
-202137	aorist
-202140	aorist
-202142	aorist
-202154	aorist
-202164	aorist
-202171	aorist
-202176	future
+202133	present
+202135	present
+aorist
+202141	aorist
+202145	present
+202148	present
+202150	present
+present
+present
+aorist
+202155	aorist
+202158	aorist
+202161	aorist
+202167	aorist
+202174	imperfect
+202177	present
 202182	aorist
-202185	imperfect
-202194	present
-202196	perfect
-202213	aorist
-202215	present
-202217	present
-202219	present
-202236	present
-202238	aorist
-202252	aorist
-202257	present
+202187	aorist
+202189	aorist
+202193	aorist
+202195	aorist
+202199	aorist
+202203	present
+202206	aorist
+202209	present
+202211	aorist
+202215	aorist
+202218	aorist
+202225	aorist
+202239	present
+202243	present
+202245	aorist
+202253	aorist
+aorist
+202265	present
 202273	present
-202278	present
-202280	present
-202282	aorist
-202288	aorist
-202290	present
-perfect
-202294	aorist
-202296	aorist
-202299	present
-202305	aorist
-202311	present
+202281	aorist
+202285	future
+202292	aorist
+202295	future
+202298	present
+202300	present
+202304	future
+202307	future
+202310	future
+202313	future
+202315	present
+202317	present
+202320	imperfect
+202325	present
+202327	imperfect
+202330	aorist
+202333	present
 present
-202323	present
-202325	future
-202373	future
-202387	present
-202389	aorist
-202399	aorist
-202402	present
-202405	present
+202340	present
+202358	present
+202362	present
+202365	present
+202369	aorist
+202374	aorist
+202376	present
+202380	present
+202382	present
+202384	perfect
+202386	present
+present
+202390	imperfect
+202393	imperfect
+202395	present
+202403	pluperfect
+202407	perfect
+202409	present
+aorist
 202412	present
-202439	present
-202446	present
-202458	aorist
-202462	aorist
+202420	present
+imperfect
+202424	aorist
+202426	aorist
+202429	aorist
+202436	aorist
+202441	aorist
+202445	aorist
+202448	present
+202450	present
+202460	aorist
 aorist
-202467	present
-202480	imperfect
-202482	aorist
-202484	aorist
-202488	imperfect
-present
-202496	present
-202507	present
-202511	aorist
-202521	aorist
-202528	present
-202536	aorist
-202552	present
-202559	present
-202567	imperfect
-202578	imperfect
-present
-202586	present
-202590	present
-202616	present
-202627	present
-202629	future
-202634	aorist
-202640	imperfect
-202645	present
-202656	imperfect
-202659	aorist
-202665	aorist
-202670	present
-202673	aorist
-202679	aorist
-202682	present
-202696	aorist
-202698	present
-202709	present
-202711	aorist
-202724	imperfect
 aorist
-202734	present
+202465	aorist
+202468	aorist
+202475	aorist
+202479	present
+202483	aorist
+202487	aorist
+202489	aorist
+202502	present
+202505	present
+202512	perfect
+202514	present
+aorist
+202519	present
+202523	present
+aorist
+202526	present
+202531	aorist
+202538	present
+202542	present
+202547	aorist
+202553	present
+202556	present
+202559	aorist
+202563	aorist
+202569	aorist
+202571	future
+aorist
+202579	present
+202584	aorist
+future
+aorist
+202592	present
+202595	aorist
+202599	present
+present
+202604	present
+202609	perfect
+202614	aorist
+202618	present
+202621	aorist
+202624	aorist
+202628	aorist
+aorist
+202635	aorist
+202639	aorist
+202641	present
+present
+future
+202646	aorist
+202649	aorist
+202652	aorist
+202656	present
+202661	imperfect
+202664	aorist
+202666	aorist
+202670	aorist
+202677	present
+present
+202680	present
+202682	aorist
+202685	future
+202688	aorist
+aorist
+202691	future
+202693	aorist
+202695	aorist
+202697	aorist
+present
+202701	aorist
+202703	aorist
+202708	present
+202712	aorist
+aorist
+202717	aorist
+202719	aorist
+202721	present
+202724	present
+202726	imperfect
+aorist
+perfect
+202730	aorist
+202732	present
+202736	imperfect
 202741	present
-202751	aorist
-202763	aorist
-202765	present
-202776	aorist
-202785	aorist
-202787	present
-202803	imperfect
-202815	aorist
-202819	future
-202826	present
-202829	present
-202835	aorist
-present
-202838	present
-202842	aorist
-202844	future
-202852	present
-202855	present
-202858	future
-202861	aorist
-202868	present
-present
+202745	aorist
+202749	aorist
+202753	aorist
+202755	present
+202758	aorist
+202761	aorist
 aorist
+202764	aorist
+aorist
+202769	aorist
+202771	present
+202773	aorist
+202777	aorist
+202779	aorist
+aorist
+202783	present
+202786	aorist
+202791	present
+202795	imperfect
+202797	aorist
+202800	aorist
+202802	aorist
+202807	aorist
+aorist
+aorist
+202817	aorist
+202819	aorist
+present
+202823	perfect
+202825	aorist
+202830	present
+202834	aorist
+202837	aorist
+202839	present
+202845	future
+aorist
+202850	aorist
+202856	present
+aorist
+202861	future
+202864	future
+202871	aorist
+202874	future
 202876	future
-202887	future
-202892	future
-202898	present
-202902	future
-202911	future
-202918	future
-202936	present
+202878	aorist
+202880	aorist
+202883	aorist
+202885	aorist
+202889	present
+202897	present
+202899	future
+202908	present
+202911	aorist
+202913	aorist
+202919	aorist
+202924	future
+202932	imperfect
+imperfect
+imperfect
+imperfect
+202938	aorist
+202943	aorist
+202946	aorist
+202950	aorist
+202954	imperfect
+imperfect
+imperfect
+imperfect
+imperfect
+imperfect
+202962	aorist
+202965	aorist
+202969	aorist
+202973	future
+202978	present
+202983	future
+202992	aorist
 aorist
-202943	present
-202945	present
-202947	present
-202949	aorist
-202953	aorist
-202963	present
-202966	present
-202969	present
-202979	future
-202989	future
-202995	future
-202999	future
-present
-203013	aorist
-203018	future
-203021	aorist
-203029	perfect
-203032	present
-203034	present
-present
-203044	present
-203058	aorist
-203060	aorist
-203062	aorist
-203079	aorist
-203085	aorist
-203097	present
-203100	present
-203108	present
-203112	aorist
-203114	future
-203124	perfect
-203132	aorist
-203145	aorist
-203149	aorist
-203156	aorist
-203167	aorist
-aorist
-203177	aorist
-aorist
-203183	aorist
-203186	present
+203000	aorist
+203003	present
+203007	aorist
+203010	aorist
 future
-203193	future
-203200	present
+203015	future
+future
+203018	present
+203022	future
+203027	future
+203030	future
+203036	future
+203039	future
+203041	aorist
+present
+203048	aorist
+203055	future
+imperfect
+203061	present
+203063	present
+203067	present
+present
+203070	imperfect
+203075	present
+203079	present
+203082	imperfect
+203087	imperfect
+203089	present
+aorist
+203097	imperfect
+203101	aorist
+203107	present
+203110	present
+203112	present
+203117	future
+203122	present
+present
+203125	aorist
+203128	aorist
+203133	present
+203136	aorist
+203141	present
+203145	present
+203147	present
+203150	future
+203158	aorist
+future
+203163	aorist
+203168	perfect
+203171	present
+203174	present
+203179	aorist
+203182	aorist
+203189	aorist
+203192	imperfect
+203194	present
+203198	present
 203208	present
-perfect
-203230	future
-203236	future
+203211	present
+203214	present
+203218	perfect
+203220	imperfect
+203223	aorist
+203227	imperfect
+203230	present
+203232	aorist
+203234	present
+203236	aorist
+203238	perfect
+203245	present
 203247	future
-203253	present
-203265	future
-203268	future
+203249	present
+203251	future
+imperfect
+203259	present
+aorist
+203263	imperfect
+203267	aorist
+203269	present
+aorist
+203272	present
 203276	present
-203289	future
-203294	future
+203280	present
+203284	present
+203288	aorist
+203295	aorist
+203298	aorist
+203301	present
+203304	aorist
+203306	future
+aorist
+203313	present
+203321	perfect
 203323	aorist
-203335	aorist
-203337	present
-203341	present
-203347	present
-203353	aorist
-203355	present
+203325	aorist
+203327	aorist
+203329	aorist
 present
-203359	present
-203364	present
-203370	aorist
-203382	aorist
-203390	future
-203398	future
-203412	perfect
-203430	present
+203337	aorist
+203339	aorist
+203341	aorist
+203344	aorist
+203349	present
+203352	present
+aorist
+203355	aorist
+203358	future
+203363	present
 present
-203433	perfect
-203439	present
-203444	aorist
+203368	aorist
+203371	aorist
+imperfect
+203376	aorist
+203380	aorist
+203383	present
+203388	present
+203391	present
+203395	aorist
+203402	aorist
+aorist
+203405	aorist
+203408	present
+aorist
+203412	aorist
+203419	present
+aorist
+203423	aorist
+203425	aorist
+203427	aorist
+203431	aorist
+203433	present
+203437	present
+203439	aorist
 203451	aorist
-203470	aorist
-203472	present
+203459	present
+203461	aorist
+203464	aorist
+203466	aorist
 present
-203476	perfect
-203486	present
-203496	aorist
-203498	aorist
-203500	present
-203504	present
-203506	present
+203470	future
+203472	perfect
+203478	future
+203482	future
+203484	future
+203486	future
+203488	aorist
+future
+203495	future
+203499	aorist
+203501	imperfect
+203504	perfect
+203508	imperfect
 present
+aorist
+203513	present
+203517	imperfect
+203520	present
+aorist
+203524	present
 imperfect
-203523	imperfect
+203527	present
+203529	aorist
+203534	present
 203536	aorist
-aorist
+present
+203539	aorist
+203542	present
 imperfect
-203548	future
-203555	present
-203570	present
+203546	aorist
+203550	imperfect
+203552	aorist
+203554	aorist
+203557	aorist
+203559	aorist
+203561	aorist
+203564	aorist
+203568	present
+aorist
 203572	aorist
-203574	present
-203584	aorist
-203588	aorist
-203595	imperfect
-203598	present
-203614	perfect
-imperfect
-203622	aorist
-203629	aorist
-203634	imperfect
-203640	aorist
+203575	aorist
+203578	aorist
+203580	aorist
+203583	perfect
+203587	aorist
+203589	imperfect
+203591	present
+203596	aorist
 aorist
-203646	present
+203601	aorist
+imperfect
+203605	aorist
+203608	present
+203612	imperfect
+203618	imperfect
+aorist
+203622	present
+203625	imperfect
+203631	imperfect
+203633	aorist
+203636	aorist
+203639	aorist
+203643	imperfect
+present
+203647	aorist
 203650	aorist
-203659	present
-203665	present
-present
+203652	aorist
+203655	aorist
+aorist
+203662	present
+203664	aorist
+203666	aorist
+aorist
 203669	aorist
-203674	present
-203676	aorist
+203671	present
+203673	aorist
+203675	imperfect
+present
+203680	aorist
 aorist
 aorist
-aorist
+203685	aorist
+203688	aorist
 203692	present
-203696	aorist
-203710	aorist
-203712	future
+203695	present
+203700	aorist
+present
+203703	aorist
+203712	aorist
+203716	present
+aorist
+203723	perfect
+present
 203728	aorist
-203736	aorist
-203740	aorist
 aorist
-203743	aorist
-203746	aorist
-203748	imperfect
+203733	present
+203736	present
+203740	present
+203744	present
+aorist
+203749	aorist
 203752	aorist
-203767	imperfect
-present
-203776	present
+203756	aorist
 aorist
+203761	aorist
+203765	aorist
+203767	aorist
+203770	present
+203774	imperfect
+203777	aorist
+203780	present
+203782	present
+203784	aorist
+203787	aorist
+203789	aorist
+203791	aorist
+203794	aorist
 aorist
-203780	aorist
-203785	present
-203794	present
-203796	present
-203803	future
+203800	pluperfect
+203803	aorist
+203806	aorist
+aorist
 203810	present
-aorist
-203816	aorist
-aorist
-203825	present
+203815	aorist
+203817	aorist
+203824	aorist
+present
 203827	present
-203844	aorist
-203848	future
-203854	perfect
-203858	aorist
-203861	aorist
-203866	aorist
-203873	aorist
-203875	aorist
-203878	aorist
-203884	aorist
+203831	aorist
+203833	present
+203837	aorist
+203839	aorist
+203844	present
+203848	aorist
 present
+203851	aorist
+203855	imperfect
+present
+203858	imperfect
+203863	present
+present
+203867	aorist
+203869	present
+203872	aorist
+present
+203878	future
+203881	pluperfect
+203886	present
+present
+203890	aorist
 203892	present
-203895	present
+203895	aorist
 203899	aorist
-203901	present
-203909	future
-203912	present
-203916	aorist
-present
-203919	present
-203930	aorist
-203938	present
-203956	present
-203958	perfect
-203979	present
-203984	aorist
-203991	present
-203993	aorist
-203995	aorist
+203904	aorist
+203907	aorist
+203909	perfect
 aorist
-203998	aorist
-204001	aorist
 aorist
-204004	present
-204011	aorist
-204013	aorist
-aorist
-204017	aorist
-204023	aorist
-204026	present
-204037	present
-204042	present
-204049	aorist
-204068	present
-204080	aorist
-aorist
-204092	present
-204099	future
-204101	perfect
+203915	aorist
+203918	present
+203920	aorist
+203923	present
+203925	present
+203929	present
 future
-204110	future
-204115	aorist
-204117	future
-204128	imperfect
-204134	future
-204139	present
-204145	present
-204159	aorist
-204162	future
-204166	imperfect
-204168	present
-204170	aorist
-204176	future
-204182	imperfect
-204184	present
-204195	present
-204201	aorist
-204204	aorist
-204206	present
-204222	aorist
+203934	present
+203937	present
+future
+203944	aorist
+203946	aorist
+203948	aorist
+203951	aorist
+203955	aorist
+203957	imperfect
+203959	present
+203962	aorist
+203964	aorist
+203969	present
+203971	aorist
+203974	present
 present
-204225	present
-204227	present
-204230	present
-204239	aorist
-204242	present
-204244	aorist
-204246	imperfect
-204253	imperfect
-204257	present
-aorist
-204266	imperfect
-204274	aorist
-204287	present
-204292	present
-204294	present
-204296	present
-204298	present
-204303	present
-204305	aorist
-204309	aorist
-present
-204312	present
-204315	aorist
-204331	aorist
-aorist
-204338	aorist
-204341	aorist
-aorist
-204344	present
-204346	imperfect
-204353	present
-204356	pluperfect
-204358	aorist
-204361	present
-204366	present
-204368	present
-204373	present
-present
-aorist
-204379	aorist
-present
-204397	present
-present
-aorist
-204401	present
-204403	perfect
-204408	present
-present
-204442	pluperfect
-204445	present
-204449	present
-204452	aorist
-204454	present
-aorist
-204458	present
-204461	aorist
-204463	aorist
-204465	present
-204468	aorist
-204472	aorist
-204478	aorist
-204485	perfect
-aorist
-204490	aorist
-204499	aorist
-204506	aorist
-204510	aorist
-204516	aorist
-204522	aorist
-204527	imperfect
-204536	present
-204539	aorist
-204543	aorist
-204548	aorist
-204550	aorist
-204556	imperfect
-204558	perfect
-204564	present
-204568	aorist
-204573	aorist
-204575	aorist
-204585	present
-204606	aorist
-204623	imperfect
-present
-204631	present
-204647	imperfect
-204657	aorist
-204661	imperfect
-204664	imperfect
-204674	imperfect
-204677	aorist
-imperfect
-204682	present
-204685	aorist
-204687	present
-204690	future
-204708	future
-204713	imperfect
-204720	aorist
-204727	aorist
-204731	present
-204733	present
-204738	present
-204741	imperfect
-204744	aorist
-204750	imperfect
-204753	present
-204756	present
-204771	aorist
-204773	present
-204775	future
-204787	present
-204792	present
-204806	aorist
-204812	present
-204817	present
-204819	aorist
-204825	present
-204830	aorist
-204833	present
-204836	aorist
-204838	present
-204841	present
-204848	present
-204851	present
-204853	aorist
-204860	aorist
-204862	present
-204872	present
-204883	aorist
-204887	present
-aorist
-204890	present
-204899	imperfect
-204905	aorist
-present
-204908	perfect
-204910	present
-204913	present
-204915	aorist
-204926	aorist
-204928	aorist
-204930	present
-204932	perfect
-204938	present
-204942	imperfect
-204949	perfect
-imperfect
-204958	present
-204963	present
-204966	aorist
-present
-204969	present
-204972	perfect
-204979	present
-204986	aorist
-204988	aorist
-204996	aorist
-205005	aorist
-205008	future
-205010	aorist
-imperfect
-205016	aorist
-205033	aorist
-205037	aorist
-205039	aorist
-205042	aorist
-205048	present
-205058	aorist
-205060	present
-205062	present
-205064	imperfect
-205075	imperfect
-205077	present
-205079	present
-205081	aorist
-205084	present
-205091	aorist
-205093	present
-205101	imperfect
-205107	imperfect
-205109	imperfect
-205112	present
-205119	perfect
-205127	pluperfect
-205129	aorist
-205133	aorist
-present
-205136	imperfect
-205142	aorist
-205144	present
-present
-aorist
-205155	imperfect
-205161	pluperfect
-205170	aorist
-205179	aorist
-205186	aorist
-imperfect
-205191	aorist
-205193	present
-205204	aorist
-aorist
-205211	imperfect
-205216	aorist
-205221	aorist
-aorist
-205228	present
-205235	aorist
-aorist
-205242	aorist
-205246	aorist
-205248	aorist
-205253	aorist
-205261	present
-205264	present
-205271	present
-205275	present
-205277	aorist
-205282	aorist
-present
-205285	present
-205292	imperfect
-205300	imperfect
-205303	present
-205307	imperfect
-205311	aorist
-205313	aorist
-205319	aorist
-205327	present
-205330	aorist
-205333	present
-205336	present
-205340	present
-205352	aorist
-205359	present
-205369	present
-present
-205375	imperfect
-205378	perfect
-205383	aorist
-205385	present
-205388	present
-205394	present
-205401	aorist
-imperfect
-205408	aorist
-205412	imperfect
-205422	perfect
-205434	present
-205451	present
-imperfect
-205454	present
-205461	present
-205464	present
-205469	present
-205475	aorist
-205477	aorist
-205489	present
-205498	imperfect
-205500	aorist
-205503	present
-aorist
-205513	aorist
-205521	aorist
-205523	aorist
-205526	perfect
-205530	imperfect
-205533	aorist
-205538	aorist
-205557	aorist
-205567	aorist
-205570	present
-present
-205585	aorist
-205591	perfect
-aorist
-imperfect
-aorist
-205596	present
-aorist
-205601	aorist
-205604	aorist
-205606	imperfect
-205608	present
-aorist
-aorist
-205612	present
-205614	aorist
-205620	aorist
-205624	aorist
-205633	aorist
-205643	aorist
-205649	perfect
-205657	aorist
-aorist
-205668	imperfect
-imperfect
-205678	present
-205704	imperfect
-205710	imperfect
-205713	imperfect
-205720	aorist
-205728	aorist
-205730	imperfect
-205733	present
-205735	aorist
-205750	imperfect
-present
-205759	aorist
-aorist
-205767	aorist
-205779	aorist
-205782	perfect
-205784	aorist
-205788	aorist
-205792	aorist
-205794	aorist
-205800	aorist
-205808	aorist
-205810	aorist
-205812	aorist
-205817	aorist
-205824	imperfect
+203980	present
+future
 perfect
-205830	aorist
-205853	imperfect
-205855	perfect
-205857	aorist
-205874	aorist
-205877	aorist
+203986	aorist
+203988	aorist
+203990	aorist
+203995	present
+203997	present
+203999	future
+204003	present
 aorist
-205891	present
-205897	aorist
-205902	imperfect
-205907	future
-205922	aorist
+204006	perfect
+aorist
+204009	aorist
+204011	present
+204015	aorist
+204020	present
+204024	aorist
+204028	present
+204030	aorist
+204035	aorist
+204040	aorist
+204042	present
+204045	imperfect
+204050	present
+204060	aorist
+204065	present
 present
-205925	perfect
-205929	imperfect
-205935	aorist
-205941	aorist
-205943	present
-205949	perfect
-205954	aorist
-205957	present
-205960	present
-205962	present
-205967	perfect
+204072	aorist
+204074	present
+perfect
+present
+204091	aorist
+204094	aorist
+204098	aorist
 aorist
-205970	present
-205972	aorist
-205977	aorist
-205980	present
+present
+204104	future
+204106	future
+204109	aorist
 aorist
-205992	present
-206001	future
-206003	aorist
-206006	aorist
+204112	aorist
+204114	present
+204117	aorist
+204126	aorist
+204130	future
+204134	future
+204140	future
+204143	future
+204147	future
+204155	future
+204162	aorist
+204168	aorist
+204171	aorist
+present
+present
+present
+204176	perfect
+204178	future
+204185	aorist
+204197	imperfect
+204199	aorist
+204206	present
+204208	aorist
+204212	imperfect
+204214	present
+204216	aorist
+204220	present
+204226	present
 aorist
-206013	imperfect
-206022	aorist
+204234	aorist
+present
+204237	aorist
+204242	present
+204245	present
+aorist
+204250	aorist
+204252	aorist
+204254	future
+204259	aorist
+204264	imperfect
+204269	aorist
+204271	present
+204274	aorist
+204276	future
+204279	aorist
+204283	aorist
+204287	future
+204293	present
+204295	aorist
+204297	perfect
+204301	aorist
+204305	present
+204310	present
+aorist
+204315	present
+204319	aorist
+204322	aorist
+204326	aorist
+204330	aorist
+204339	future
+204343	aorist
+204345	aorist
+204348	aorist
+204350	aorist
+204355	aorist
+204358	aorist
+204360	aorist
+204364	aorist
+aorist
+aorist
+204372	aorist
+future
+204379	future
+aorist
+204384	imperfect
+204386	present
+204388	present
+204390	present
+204394	aorist
+204397	aorist
+204401	aorist
+204404	future
+204409	future
+204411	future
+204415	future
+204418	aorist
+204420	aorist
+204422	aorist
+204425	aorist
+204427	aorist
+204430	present
+204432	perfect
+204434	aorist
+present
+204437	aorist
+204441	aorist
+204445	future
+204448	aorist
+future
+204452	aorist
+204456	aorist
+204463	aorist
+204465	aorist
+204469	aorist
+204473	aorist
+aorist
+204476	present
+204479	present
+204481	aorist
+204484	aorist
+204492	aorist
+204494	present
+204496	perfect
+204501	present
+204508	present
+present
+204513	aorist
+204516	aorist
+204520	aorist
+204522	aorist
+204526	present
+204530	aorist
+204534	aorist
+204537	aorist
+204546	aorist
+aorist
+204552	aorist
+204556	aorist
+aorist
+204561	present
+204564	present
+aorist
+204567	present
+204570	aorist
+204574	aorist
+present
+204580	present
+204582	aorist
+204587	aorist
+204593	imperfect
+204596	aorist
+204598	aorist
+204604	aorist
+204611	aorist
+204614	aorist
+204618	aorist
+204625	present
+204628	aorist
+204632	aorist
+204641	aorist
+204644	aorist
+204653	aorist
+204655	present
+204658	present
+204661	present
+204664	present
+204667	present
+204670	aorist
+204674	present
+204685	present
+204688	present
+204692	present
+aorist
+204697	aorist
+204700	aorist
+204703	imperfect
+present
+204707	aorist
+204711	present
+204713	present
+204717	present
+204720	aorist
+204724	present
+204728	aorist
+204738	present
+204742	present
+present
+204747	aorist
+204749	present
+204752	present
+present
+204756	present
+204769	present
+204776	present
+204778	future
+204780	aorist
+204782	aorist
+204785	present
+204790	aorist
+204794	present
+204798	aorist
+204800	present
+204807	aorist
+204811	present
+204813	aorist
+204824	imperfect
+aorist
+204828	present
+204834	perfect
+aorist
+204837	present
+future
+204842	future
+204846	future
+aorist
+204850	present
+204855	future
+204860	present
+204862	present
+204865	aorist
+present
+204868	aorist
+204871	future
+204875	present
+204877	present
+204880	perfect
+204882	aorist
+204886	aorist
+204889	aorist
+present
+204893	aorist
+204900	imperfect
+204902	future
+204914	future
+204920	future
+204924	future
+204929	future
+present
+204934	present
+204940	future
+204943	aorist
+204949	present
+aorist
+204953	future
+204958	future
+aorist
+204961	aorist
+204963	present
+204965	future
+204973	future
+204987	aorist
+204991	future
+204996	aorist
+present
+205001	aorist
+205003	perfect
+205010	present
+205017	present
+205023	present
+205028	present
+aorist
+205031	perfect
+205034	present
+205036	present
+205040	future
+205050	future
+205053	future
+205063	aorist
+205066	future
+205079	present
+205084	present
+205090	future
+205093	future
+205097	present
+205102	present
+205105	present
+aorist
+205108	aorist
+205112	present
+205116	aorist
+205119	aorist
+205125	aorist
+205127	present
+205129	present
+205134	present
+205138	aorist
+205140	present
+present
+205144	present
+205148	present
+205152	aorist
+205157	aorist
+205161	future
+205166	future
+present
+205172	aorist
+205180	aorist
+205187	future
+205191	present
+205196	present
+205200	present
+205202	present
+aorist
+205205	present
+present
+205208	aorist
+205220	present
 imperfect
-206025	aorist
-206031	aorist
-206040	pluperfect
-206045	aorist
+205224	present
+205229	imperfect
+205233	present
+205235	imperfect
+205240	present
+205243	imperfect
+205248	aorist
+205250	imperfect
+205253	aorist
+205258	present
+205260	present
+205266	aorist
 aorist
-206051	aorist
+205272	aorist
+205275	aorist
+205277	aorist
+205280	aorist
+205282	aorist
+205284	imperfect
+205286	aorist
+205290	aorist
+205296	imperfect
 present
-206054	present
-206056	aorist
-206058	present
-206060	aorist
+205300	aorist
+205302	aorist
+aorist
+aorist
+205308	aorist
+205311	aorist
+205314	present
+aorist
+205318	aorist
+205320	aorist
+aorist
+205325	future
+205329	present
+aorist
+205335	present
+205337	future
+205341	present
+205345	present
+205352	aorist
+205355	future
+205358	perfect
+205360	aorist
+aorist
+205363	aorist
+205365	pluperfect
+205368	aorist
+205372	aorist
+205374	aorist
+205379	aorist
+205382	aorist
+205385	aorist
+205389	aorist
+present
+205396	aorist
+205400	aorist
+205406	aorist
+205408	aorist
+aorist
+aorist
+205413	aorist
+205415	present
+205419	aorist
+205431	aorist
+205433	aorist
+205435	aorist
+aorist
+205438	aorist
+205440	present
+205442	present
+205446	present
+205448	present
+205456	aorist
+present
+205467	present
+205469	aorist
+205472	present
+205483	perfect
+present
+205490	present
+205493	aorist
+present
+205498	present
+205501	present
+present
+aorist
+205508	present
+present
+205513	aorist
+205518	present
+205521	present
+205524	present
+205533	present
+205538	present
+205541	present
+205545	present
+205547	present
+present
+205553	present
+205556	present
+205559	present
+perfect
+205566	present
+205569	aorist
+205583	future
+205588	present
+205592	aorist
+205594	aorist
+205596	aorist
+205601	aorist
+205605	aorist
+205611	aorist
+aorist
+205617	aorist
+205622	present
+205627	present
+205630	aorist
+present
+205635	future
+205641	future
+205643	perfect
+205645	aorist
+205648	aorist
+205654	aorist
+205657	aorist
+205659	aorist
+205664	present
+205666	aorist
+205671	present
+aorist
+205676	aorist
+205678	present
+205683	perfect
+present
+aorist
+205689	aorist
+205695	present
+205698	aorist
+205700	aorist
+205706	aorist
+205709	present
+205711	aorist
+aorist
+205719	aorist
+205724	aorist
+205728	aorist
+205730	present
+205732	aorist
+205736	aorist
+205741	aorist
+205743	imperfect
+present
+205747	present
+aorist
+205757	present
+aorist
+205763	present
+205766	aorist
+205769	imperfect
+205771	aorist
+205777	present
+205781	aorist
+205784	aorist
+205787	aorist
+present
+205793	aorist
+205796	present
+aorist
+present
+205801	aorist
+205805	present
+aorist
+205809	present
+205813	imperfect
+205816	aorist
+205818	aorist
+205822	aorist
+205829	present
+aorist
+205834	future
+aorist
+205837	future
+205840	aorist
+205847	aorist
+205852	aorist
+205855	aorist
+present
+205859	aorist
+205861	aorist
+205863	aorist
+205869	aorist
+205877	aorist
+205881	present
+205887	aorist
+205892	present
+205899	aorist
+205902	aorist
+205904	aorist
+205911	imperfect
+205913	aorist
+205920	aorist
+imperfect
+205924	aorist
+205928	present
+205932	aorist
+205934	aorist
+205937	imperfect
+205940	aorist
+present
+205943	perfect
+205949	aorist
+205951	imperfect
+205954	present
+205957	imperfect
+205960	present
+205962	aorist
+205966	imperfect
+present
+205971	imperfect
+205974	present
+aorist
+205980	perfect
+205982	present
+205986	present
+205988	aorist
+205991	aorist
+205993	aorist
+205996	aorist
+206001	aorist
+206004	aorist
+206006	future
+206010	aorist
+206012	aorist
+206016	present
+206018	imperfect
+206020	present
+206022	aorist
+206024	imperfect
+present
+aorist
+206028	present
+aorist
+206033	present
+imperfect
+206038	aorist
+206040	aorist
+206047	aorist
+206052	present
+206055	present
+206057	aorist
+206059	aorist
 206064	aorist
-206074	present
-aorist
-206081	present
-206086	aorist
-aorist
-206093	aorist
-206096	present
-206102	aorist
+206066	aorist
+206069	aorist
+206071	aorist
+206084	aorist
+206089	present
+206096	imperfect
+206098	present
+206101	present
 206104	aorist
-206114	aorist
-206116	perfect
-206118	aorist
+206107	present
+206111	aorist
+206116	aorist
 206120	aorist
-206122	aorist
+206124	aorist
+206126	present
+206128	present
 206130	aorist
-206140	aorist
-206142	aorist
-future
-206146	aorist
-future
-206152	aorist
-206154	future
-206163	future
-206166	future
-206169	future
-206174	aorist
-206179	aorist
-206184	future
-206187	future
+present
+206135	present
+206138	present
+206140	present
+206142	present
+206145	aorist
+206147	present
+206149	present
+206155	aorist
+206157	imperfect
+206159	present
+206162	aorist
+206168	present
+206175	imperfect
+present
+206178	present
+206180	present
+206185	aorist
+206191	aorist
+aorist
+206195	present
 206197	aorist
-206199	aorist
-206206	aorist
-206216	aorist
+206202	present
 aorist
-206222	present
-206227	present
+206207	present
+206215	aorist
+206217	aorist
+206223	aorist
+206226	present
+206229	imperfect
+206231	aorist
 206233	present
-206239	perfect
-206248	aorist
-206267	aorist
-206286	aorist
+imperfect
+206242	aorist
+206244	pluperfect
+206250	present
+206252	aorist
+206260	aorist
 aorist
-206294	perfect
+206263	aorist
+206266	aorist
+206277	imperfect
+206280	present
+206284	aorist
+206290	aorist
+206292	aorist
+206297	present
 206300	aorist
-206309	aorist
-206313	aorist
-206315	perfect
+206303	aorist
+206305	aorist
+206311	present
+206316	aorist
 206321	aorist
 206326	aorist
-206331	aorist
-206336	aorist
-206377	imperfect
-206386	present
-206403	imperfect
-206407	imperfect
-206415	perfect
-206423	imperfect
+206329	future
 aorist
-206429	present
-206456	aorist
-206458	aorist
-aorist
-206477	imperfect
-206481	present
-206490	aorist
-206496	perfect
-206509	aorist
-206511	aorist
-206514	aorist
-206518	aorist
-206527	present
-206530	aorist
-206543	future
-206547	future
-206555	future
-206569	future
-future
-206583	aorist
-206588	future
-206606	future
-206617	future
-206628	aorist
-206642	aorist
-206646	perfect
-206648	aorist
-206658	future
-206662	present
-206670	perfect
-206679	aorist
-206683	aorist
-206686	present
-206689	perfect
-206696	aorist
-aorist
-206702	aorist
-206706	aorist
-future
+206333	present
 present
-206711	present
+206336	aorist
+206345	aorist
+206354	aorist
+206356	present
 aorist
-206718	aorist
-206724	aorist
-206731	future
-206741	imperfect
-206745	present
-206750	imperfect
-206754	present
-206761	aorist
+206361	imperfect
+present
+present
+present
+206369	aorist
+206373	aorist
+206377	aorist
+206379	aorist
+206382	future
+206385	imperfect
+206387	present
+206389	aorist
+206391	imperfect
+206396	aorist
+aorist
+206400	aorist
+206404	perfect
+206407	imperfect
+206410	aorist
+206415	aorist
+206417	aorist
+206420	present
+206422	aorist
+206425	present
+206428	imperfect
+206438	aorist
+206442	aorist
+206445	present
+206449	present
+206455	aorist
+present
+206458	future
+206465	aorist
+206469	aorist
+206471	future
+present
+206474	aorist
+206478	aorist
+206485	present
+206489	aorist
+imperfect
+206496	aorist
+206499	aorist
+206502	present
+206505	aorist
+206516	imperfect
+206518	aorist
+206522	perfect
+206524	present
+present
+206529	aorist
+206532	pluperfect
+206534	present
+imperfect
+206539	present
+206541	aorist
+aorist
+206546	present
+206551	aorist
+206556	present
+206558	present
+206561	present
+206564	present
+206568	aorist
+206570	imperfect
+206582	aorist
+imperfect
+206586	present
+206588	aorist
+206590	aorist
+206593	present
+206595	imperfect
+206597	present
+206604	present
+206612	aorist
+present
+206617	aorist
+206619	imperfect
+206621	aorist
+206624	aorist
+206629	aorist
+206632	present
+206635	future
+206639	imperfect
+206645	aorist
+206652	present
+aorist
+206660	aorist
+206663	aorist
+206667	present
+206672	aorist
+aorist
+aorist
+206677	aorist
+imperfect
+206680	present
+206685	imperfect
+206690	aorist
+206694	aorist
+aorist
+present
+206698	imperfect
+pluperfect
+206706	present
+206710	present
+206713	aorist
+206719	present
+206733	imperfect
+206738	aorist
+206740	aorist
+206745	aorist
+aorist
+206750	aorist
+206761	imperfect
 206764	imperfect
 aorist
-206768	aorist
-206771	perfect
-206780	imperfect
-present
-206784	imperfect
+206773	aorist
+206777	aorist
+206780	aorist
+206782	aorist
 206787	aorist
-206789	aorist
-206799	aorist
-206815	aorist
-206823	imperfect
-206828	present
-206832	perfect
-206838	aorist
-aorist
-206856	aorist
-206880	perfect
-206901	aorist
-206905	aorist
+206797	aorist
 present
-perfect
-206921	aorist
-206923	imperfect
+206800	aorist
+206802	aorist
+206805	perfect
+206808	aorist
+206811	aorist
+206816	aorist
+206818	present
+206822	aorist
+206824	aorist
+206828	present
+206831	aorist
+206834	present
+206838	aorist
+206841	present
+present
+206845	present
+206848	aorist
+aorist
+206851	aorist
+206854	present
+206857	present
+206862	present
+aorist
+206868	aorist
+206872	aorist
+206874	aorist
+206878	aorist
+206881	aorist
+206887	imperfect
+206897	imperfect
+206902	aorist
+206909	imperfect
+206913	aorist
+aorist
+206918	aorist
+present
+206923	aorist
 206925	present
-206932	aorist
-206938	present
-206940	aorist
-206949	aorist
-future
-206955	future
-206958	future
-206966	future
-206972	future
-206974	future
-206991	future
-207011	future
-207013	aorist
-207022	future
-207027	present
-207029	aorist
-207033	aorist
-207038	future
-207046	future
-207054	present
-207056	future
-207061	aorist
-207071	perfect
-207083	present
-207086	present
-207090	future
+perfect
+206928	aorist
+206937	present
+206945	imperfect
+206950	perfect
+206952	aorist
+206954	present
+206957	present
+206960	aorist
+imperfect
+206966	imperfect
+206968	aorist
+206970	aorist
+206977	present
+206979	present
+206981	aorist
+206983	aorist
+206988	aorist
+206992	present
+206996	aorist
+aorist
+207003	aorist
+207008	aorist
+207014	aorist
+207026	aorist
+207035	aorist
+207039	imperfect
+207042	present
+present
+present
+207052	present
+207056	aorist
+207062	aorist
+207064	aorist
+207070	aorist
+207073	aorist
+present
+207077	perfect
+207079	present
+207081	present
+207083	aorist
+207090	aorist
+207095	aorist
 207099	aorist
 207102	aorist
-207108	aorist
-207118	aorist
+207109	present
+207113	aorist
+207116	imperfect
+aorist
+207120	aorist
 207125	aorist
-207135	aorist
+207131	aorist
+207139	aorist
+207143	imperfect
+207146	aorist
+207148	present
 207150	aorist
-207159	aorist
-207164	aorist
-207166	aorist
-207177	aorist
+207152	present
+aorist
+207157	present
+207159	perfect
+207163	aorist
+aorist
+207167	aorist
+207169	aorist
+207172	aorist
+207174	aorist
+207176	aorist
+imperfect
+207181	aorist
+207184	aorist
 207189	aorist
-207197	aorist
-207202	aorist
+207192	aorist
+207199	imperfect
+207204	imperfect
+207208	aorist
+207211	aorist
+207214	aorist
 perfect
-207209	perfect
-207224	aorist
-207237	aorist
-207240	aorist
-207257	aorist
-207274	aorist
-207276	future
-207279	perfect
+207220	present
+207223	aorist
+207226	aorist
+207230	imperfect
+207236	aorist
+207245	present
+207247	aorist
+207251	present
+207255	aorist
+207259	aorist
+imperfect
+207262	present
+207264	aorist
+207271	present
+207275	aorist
+207283	present
 207285	aorist
-207287	present
-207297	aorist
-207314	aorist
+207288	aorist
+207293	present
+207296	present
+present
+207300	aorist
+aorist
+207308	present
+207313	present
+aorist
+207316	present
+207321	aorist
 207326	aorist
-207333	future
-207341	aorist
-207366	present
-207368	aorist
-207375	aorist
+207328	aorist
+aorist
+207336	aorist
+207339	present
+207341	present
+aorist
+207344	perfect
+207353	aorist
+207356	present
+207359	aorist
+207363	perfect
+aorist
+207367	aorist
+207372	aorist
 207382	aorist
-207388	aorist
-207390	present
-aorist
-207394	present
-aorist
+207387	aorist
+207389	present
 207397	aorist
 207402	aorist
 207405	aorist
-207427	aorist
-207439	aorist
-207451	aorist
-207457	aorist
-207460	aorist
-207463	aorist
-207474	imperfect
-207485	imperfect
-207488	aorist
+207411	aorist
+207414	aorist
+207417	aorist
+207419	present
+207422	aorist
+207425	imperfect
+207430	aorist
+207432	aorist
+207443	imperfect
+207447	imperfect
+207452	imperfect
+207455	imperfect
+207461	aorist
+207464	aorist
+207467	perfect
+207470	imperfect
+207473	imperfect
+207481	present
+207486	aorist
+aorist
+207489	perfect
+207495	aorist
 207498	aorist
-aorist
-207504	imperfect
-207519	aorist
-207525	aorist
-207528	future
-207531	aorist
-207537	present
-207546	present
-207552	imperfect
-207562	present
+207503	aorist
+207505	imperfect
+207510	aorist
+207518	present
+207524	imperfect
+207528	aorist
+207533	aorist
+207536	aorist
+207541	aorist
+207544	aorist
+207546	aorist
+207549	aorist
 present
-207566	aorist
+207564	aorist
 207568	aorist
+207570	aorist
+207573	aorist
+207585	present
+207588	perfect
 present
-207571	present
-207576	aorist
-207578	aorist
-207593	imperfect
+207591	imperfect
+207593	aorist
+207595	present
+207597	perfect
+207601	imperfect
+207607	aorist
+207613	aorist
+207618	aorist
+207621	perfect
+207625	present
+207631	aorist
+207634	present
+207639	aorist
+207645	aorist
+207649	present
+207651	aorist
+207654	aorist
+207656	aorist
+207660	present
+207663	aorist
+207669	present
+207671	present
+207673	present
+207675	present
+207678	aorist
+207680	aorist
+207684	present
+207687	aorist
+aorist
+207691	present
+207693	imperfect
+207696	present
+207699	aorist
+207703	aorist
+207706	perfect
+imperfect
+207711	aorist
+207714	aorist
+207718	present
+207722	present
+207727	aorist
+207730	present
+207732	present
+207735	present
+207739	perfect
+207741	present
+207744	present
+207748	aorist
+207755	aorist
+207762	present
+207764	present
+207767	present
+aorist
+207772	present
+207777	present
+207780	aorist
+207782	present
+207785	perfect
+207789	imperfect
+207792	pluperfect
+207796	aorist
+207799	aorist
+207802	present
+207804	aorist
+207806	present
+207808	perfect
+207810	present
+207815	aorist
+207819	pluperfect
+207822	aorist
+207824	present
+207828	aorist
+207830	aorist
+207835	present
 present
-207599	aorist
-207606	present
-207620	imperfect
-207629	aorist
-207633	aorist
-207641	present
-207649	future
-207656	imperfect
-207667	aorist
-207672	aorist
+207840	perfect
+207842	perfect
+207845	present
+207851	pluperfect
+207859	aorist
+207861	present
 present
-207684	aorist
-207686	aorist
-207694	aorist
-207708	aorist
-207738	present
-207740	aorist
-207750	aorist
-207758	aorist
-207768	aorist
-207776	aorist
+aorist
+207868	aorist
+207872	present
+207874	aorist
+207876	aorist
+207880	aorist
+207882	present
 present
-207802	future
-future
-207808	aorist
-207813	aorist
-207841	future
-207847	aorist
-207856	present
-207858	aorist
-207873	imperfect
-207875	imperfect
-207878	imperfect
-207897	aorist
-207906	aorist
-207912	present
+207886	present
+207889	aorist
+207892	present
+present
+207896	present
+present
+207899	present
+207901	future
+aorist
+207905	aorist
+207907	present
+207910	aorist
+207914	imperfect
+207916	imperfect
 207922	aorist
+207925	aorist
+207927	present
+207934	present
+207936	perfect
+207941	aorist
+207945	aorist
+207948	aorist
+207950	present
+207954	future
+207956	present
+207959	aorist
+aorist
+207964	present
+207967	present
+207970	present
+207972	imperfect
+207980	present
+207984	present
+207987	aorist
+207993	perfect
+207999	aorist
+208003	present
+208005	present
 present
-207929	imperfect
-207931	present
-207940	aorist
-207966	present
-207971	present
-207980	aorist
-207985	perfect
-207987	present
-207989	aorist
-207994	present
-207997	aorist
-208003	aorist
-208006	aorist
-208017	aorist
+208009	present
+208011	aorist
+aorist
+208015	present
+208018	present
 208020	aorist
-208027	imperfect
-208037	imperfect
-208046	present
-208048	present
+208025	present
+present
+208031	present
+aorist
+208035	aorist
+208040	aorist
+present
+208044	aorist
+208046	aorist
+208051	present
+208057	present
+208059	aorist
+208062	aorist
 208065	aorist
-208071	aorist
-208074	aorist
-208079	aorist
-208085	present
+208068	aorist
+208072	present
+208074	future
+208076	present
+208078	present
+208080	future
+208082	perfect
+208097	aorist
+208102	imperfect
+208107	aorist
+208117	aorist
+208119	present
+208126	present
+208128	present
+208135	present
+208138	present
+208143	present
+208145	aorist
+208157	present
+208161	present
+208164	aorist
+208168	aorist
+208172	present
+208174	aorist
+208177	present
+208181	aorist
+208184	aorist
+208188	perfect
+208191	pluperfect
+208193	present
+208196	pluperfect
+perfect
+208199	present
+208203	present
+208209	present
+208212	aorist
+208215	perfect
+208220	aorist
+208228	aorist
+208232	aorist
+208237	aorist
+208249	aorist
+208254	imperfect
+208259	aorist
+208263	aorist
+208266	present
+208271	present
+208273	aorist
+208277	aorist
+208287	aorist
+208291	aorist
+208294	present
 aorist
-208088	present
-208094	future
-208101	aorist
-208106	present
-208118	future
-208120	perfect
-208122	present
-208128	aorist
-208139	present
-208144	present
-208161	aorist
-208163	aorist
-208178	imperfect
-208182	aorist
-208188	aorist
-208195	perfect
-208200	aorist
-208203	aorist
 aorist
-208206	aorist
-208219	present
-208225	aorist
-208227	aorist
-208234	aorist
-208247	aorist
-aorist
-208252	aorist
-208267	imperfect
-208272	present
-208281	aorist
-208285	present
-208287	present
-208296	aorist
-208298	aorist
-208300	aorist
+208300	present
 208306	aorist
-208311	aorist
-208314	aorist
-208322	aorist
-208331	aorist
-208340	aorist
-208357	aorist
-208362	aorist
-208367	perfect
-208378	present
-208384	future
-208387	aorist
-208392	perfect
-208410	aorist
-208412	imperfect
-208428	present
-208437	imperfect
-208444	imperfect
+208315	future
+208317	aorist
+208321	aorist
+208324	present
+208328	present
+aorist
+208332	aorist
+208334	aorist
+208340	future
+208342	aorist
+208347	aorist
+208354	future
+208358	imperfect
+208366	aorist
+208368	aorist
+208373	imperfect
+208375	aorist
+208380	aorist
+208384	imperfect
+208392	aorist
+208396	present
+208400	imperfect
+208404	imperfect
+208409	present
+208415	imperfect
+208418	aorist
+208423	imperfect
+208425	imperfect
+208428	imperfect
+208439	aorist
+208443	aorist
 208446	perfect
-208457	aorist
-208462	aorist
-208469	aorist
-208484	aorist
-208493	aorist
-208499	perfect
+208449	perfect
+208453	present
+208456	present
+208459	present
+208462	present
+208465	aorist
+208468	aorist
+208470	present
+208475	aorist
+208478	present
+aorist
+208483	present
+208487	present
+208489	aorist
+208491	present
+present
+208499	aorist
+208501	aorist
+aorist
+208504	present
 208509	aorist
-208517	aorist
-208522	aorist
-208524	present
-208542	aorist
-208554	aorist
-208580	imperfect
-208590	present
-208594	present
-208599	aorist
-208603	aorist
-208612	aorist
-208614	present
-208633	present
-208644	future
-208648	aorist
-208656	imperfect
-208669	perfect
-208675	aorist
-208701	imperfect
-208708	present
-208718	aorist
-imperfect
-208724	imperfect
-208731	present
-208737	aorist
-208749	aorist
-208765	imperfect
-208767	imperfect
+208513	present
+aorist
+208519	perfect
+208523	present
+208525	perfect
+208529	present
+208531	aorist
+208533	aorist
+208535	present
+208537	aorist
+208541	present
 present
+208546	present
+208549	perfect
+208551	present
+208554	present
+208556	present
+208558	perfect
+208561	aorist
+208564	aorist
+208567	present
+208569	aorist
+aorist
+208573	aorist
+208576	present
+208583	present
+present
+208588	perfect
+present
+208592	perfect
+present
+208598	present
+208601	aorist
+208605	present
+208608	aorist
+208611	future
+208614	perfect
+208621	aorist
+208628	aorist
+208633	aorist
+present
+208640	present
+208642	present
+208646	aorist
+208653	aorist
+208656	present
+208659	aorist
+208661	present
+208664	aorist
+208670	present
+208674	aorist
+208677	present
+208680	present
+208682	present
+208684	perfect
+208687	perfect
+208697	present
+208701	perfect
+208705	aorist
+208711	imperfect
+208719	present
+present
+208724	present
+208729	aorist
+208733	present
+208735	present
+208739	aorist
+208746	aorist
+208756	imperfect
+208759	imperfect
+208769	imperfect
+208772	imperfect
 208774	imperfect
-208779	imperfect
-208800	aorist
-208804	present
-208816	aorist
-208823	present
-208825	aorist
-208835	aorist
-208841	aorist
-208844	present
-208850	aorist
-208855	imperfect
-208868	aorist
+208781	aorist
+208790	aorist
+208794	aorist
+208798	imperfect
+208804	perfect
 aorist
+208807	present
+208810	present
+208812	aorist
+208815	aorist
+208817	present
+208819	present
+208829	present
+208831	aorist
+208833	present
+208840	present
+208843	present
+208848	perfect
+208850	present
+208853	present
+208863	perfect
+208865	present
+present
+208869	present
+208871	present
 208873	present
-208876	aorist
-208882	aorist
-208889	present
-208898	present
-208901	present
-208903	imperfect
-208908	present
-208922	aorist
-208924	aorist
-208926	aorist
-208937	aorist
-208940	aorist
-208947	present
 present
-208951	aorist
-208957	imperfect
-208960	pluperfect
-208971	present
-present
-208977	aorist
-208982	aorist
-208985	aorist
+208879	present
+208883	present
+208886	present
+208888	present
+208892	present
+208897	present
+aorist
+208901	aorist
+208905	present
+208908	aorist
+208913	present
+208917	present
+208920	present
+208924	perfect
+208928	present
+208931	present
+208934	present
+208937	future
+208943	present
+208947	aorist
+208950	aorist
+208961	imperfect
+208965	aorist
+208968	aorist
+208972	imperfect
+208975	present
+208978	present
+208985	present
 208990	aorist
-208996	imperfect
+208994	imperfect
+209001	perfect
+209004	imperfect
+209009	imperfect
+209011	present
+209015	aorist
+209017	present
+209020	aorist
+209022	aorist
+209026	pluperfect
+209031	aorist
 present
-209005	imperfect
-209020	imperfect
+209040	present
+209042	aorist
+present
+209046	present
 209049	present
-209056	present
-209068	present
-209081	present
-209088	aorist
+209052	aorist
+209055	aorist
+209058	pluperfect
+209064	present
+present
+209067	aorist
+209069	aorist
+209071	aorist
+209074	aorist
+209077	present
+present
+209083	present
+209086	present
+209090	present
+209092	present
+209095	present
+209100	aorist
 209106	aorist
-209118	present
-209129	perfect
-209142	present
-209148	aorist
-209155	present
-209164	future
-209171	future
-209173	future
-209190	future
-209201	imperfect
-209206	present
-209208	aorist
-209216	aorist
-209218	aorist
-209224	present
-209226	aorist
-209237	aorist
+209113	aorist
+209116	aorist
+209119	present
+209123	future
+209127	aorist
+209132	future
+209135	future
+209141	future
+209143	future
+209147	present
+209150	present
+209154	aorist
+209160	present
+209162	present
+209164	present
 present
-209243	present
-209247	present
+209167	present
+aorist
+209172	aorist
+209174	aorist
+209177	aorist
+209179	present
+209181	present
+209185	aorist
+209189	present
+209192	aorist
+209196	present
+209198	present
+209202	perfect
+present
+209207	present
+209210	present
+209217	aorist
+209220	present
+209223	present
+209226	present
+present
+present
+209231	present
+209235	present
+209243	future
+209246	present
+209249	perfect
 209251	present
-209262	aorist
-209283	present
-209290	present
-209294	present
-209299	present
-209301	imperfect
-209306	present
-209309	aorist
-aorist
+209253	perfect
+209258	present
+209260	present
+209264	present
+209267	future
+209275	present
+present
+209281	present
+209284	present
+present
+present
+209289	perfect
+209291	present
+present
+209295	aorist
+209297	future
+209300	present
+209303	present
+present
+209308	aorist
 209312	imperfect
-209315	present
-209319	aorist
-209322	present
-209325	present
-209328	present
+209315	imperfect
+209318	aorist
+209320	present
+209323	present
+209325	aorist
+209331	aorist
+209335	present
+209337	present
 aorist
-209334	aorist
-209336	aorist
-209342	aorist
-209345	aorist
-209355	perfect
-209357	present
+209340	aorist
+209344	aorist
+209346	present
+209348	aorist
+209352	imperfect
+209356	imperfect
+209359	present
+209361	aorist
+209364	aorist
+209368	present
+aorist
+209373	perfect
 imperfect
-209363	present
+209379	aorist
+209381	aorist
 present
-209366	aorist
-209371	aorist
-209374	aorist
-209376	aorist
-209378	present
-209384	present
-209390	present
-209407	present
-209411	aorist
+209386	present
+209388	present
+209391	aorist
+209394	aorist
+209398	present
+209402	present
+209405	present
+aorist
 present
+209409	aorist
+209413	aorist
+209417	present
 209420	present
 209422	present
+209424	present
+209429	present
 209431	present
-209433	aorist
-209445	future
-209465	aorist
-209472	aorist
-209487	future
-209496	present
-imperfect
-209508	present
-209529	aorist
-209534	aorist
+209433	present
+209437	present
+209440	present
+present
+209444	present
+209446	aorist
+209448	present
+209452	perfect
+209454	perfect
+209460	perfect
+209466	aorist
+209473	present
+209475	aorist
+209479	aorist
+209482	aorist
+209485	imperfect
+209487	aorist
+209490	aorist
+209495	aorist
+209501	imperfect
+209507	present
+209510	perfect
+209512	perfect
+209515	present
+209524	aorist
+209530	aorist
+209538	present
 209541	aorist
-209548	aorist
-209553	aorist
-209562	aorist
-209564	present
+209544	aorist
+209548	perfect
+209550	aorist
+209556	aorist
+209559	aorist
+209567	aorist
+209571	imperfect
+209575	imperfect
+209578	aorist
+209581	present
+209586	aorist
+209589	imperfect
+209591	aorist
+209593	aorist
+209596	imperfect
+209598	present
 aorist
-209570	aorist
-209592	aorist
-209594	present
 209606	aorist
-209611	imperfect
-209613	present
-209619	present
-209623	imperfect
-209860	aorist
-209867	imperfect
-209881	present
-209889	aorist
-209899	aorist
-209901	aorist
-aorist
-209911	present
-209915	aorist
-209922	aorist
-209925	aorist
-209932	perfect
-209940	future
-209945	aorist
-209947	aorist
-209964	aorist
-209970	future
-209986	perfect
-209990	present
+209608	aorist
 present
-209996	aorist
-210000	future
-210004	aorist
-210008	aorist
-210010	perfect
+209613	aorist
+209615	aorist
+209618	present
+209621	present
+209624	present
+aorist
+209629	aorist
+209633	imperfect
+209637	present
+209639	aorist
+209641	present
+209645	present
+aorist
+209652	aorist
+aorist
+209659	aorist
+209662	aorist
+209669	aorist
+209674	present
+209676	aorist
+209685	aorist
+209687	aorist
+209693	imperfect
+209697	aorist
+209700	present
+209707	present
+209711	present
+209713	imperfect
+209715	present
+present
+209723	imperfect
+209727	aorist
+209731	aorist
+209737	imperfect
+209740	imperfect
+209742	imperfect
+209748	present
+209753	aorist
+209755	present
+209757	aorist
+209761	present
+present
+209764	present
+209766	aorist
+aorist
+209769	present
+209773	present
+209776	aorist
+209778	aorist
+209785	present
+209789	present
+present
+209793	present
+aorist
+209798	present
+209801	aorist
+209805	aorist
+209809	imperfect
+imperfect
+209816	imperfect
+209819	perfect
+209821	present
+209824	present
+209826	aorist
+209830	aorist
+209832	aorist
+209837	aorist
+aorist
+209842	present
+aorist
+209846	present
+209848	aorist
+209850	aorist
+209852	present
+209854	aorist
+209856	pluperfect
+209858	present
+209861	aorist
+209863	present
+209867	present
+209873	aorist
+209875	aorist
+209877	perfect
+209879	present
+209884	aorist
+aorist
+209888	aorist
+209892	present
+aorist
+209898	imperfect
+209903	imperfect
+209907	aorist
+209912	present
+209914	present
+209918	imperfect
+209921	aorist
+209924	imperfect
+209929	imperfect
+209933	present
+209935	aorist
+209939	imperfect
+209941	present
+209944	present
+209946	present
+209952	present
+209954	present
+209958	present
+209963	present
+209966	present
+209970	present
+209974	present
+209978	future
+209982	present
+209986	present
+209989	present
+209994	present
+present
+209998	present
+210003	perfect
+210007	present
+210010	present
+210013	present
+210016	present
+210018	aorist
+210020	present
+210025	present
+210027	present
+aorist
+210030	present
+210035	present
+210037	perfect
+210042	present
+210045	present
+210049	present
+210051	future
+210058	aorist
 future
-210022	future
+210063	present
+210069	aorist
+210071	present
+210075	aorist
+210078	present
+210081	present
+210083	present
+210086	present
+210092	future
+210096	future
+210098	aorist
+210102	aorist
+210106	present
+210108	present
+210112	present
+present
+210119	present
+210121	present
+210128	aorist
+210132	present
+210137	present
+210140	present
+present
+210144	perfect
+210147	present
+210150	present
+210153	perfect
+210156	perfect
+210163	present
+210166	present
+210169	aorist
+210171	imperfect
+210173	present
+210175	present
+210178	aorist
 aorist
-210030	aorist
-210041	aorist
-210046	present
-210050	aorist
-210054	perfect
-210062	future
-210067	aorist
-210074	future
-210078	aorist
-210088	aorist
-aorist
-210095	perfect
-210097	future
-210105	aorist
-210112	aorist
-210120	aorist
-210140	aorist
-210153	imperfect
-210161	present
-210166	aorist
-210172	imperfect
-perfect
-210175	aorist
-210179	perfect
-210196	aorist
-aorist
-210199	aorist
-210208	aorist
+210186	present
+210193	perfect
+210197	aorist
+210202	present
+present
+210208	perfect
 210212	aorist
-210218	imperfect
-perfect
-210229	aorist
-210231	aorist
-210233	perfect
-210235	aorist
-210241	aorist
-perfect
-210246	aorist
-210253	aorist
-210257	aorist
-210261	aorist
-210275	imperfect
+210215	perfect
+210220	perfect
+210223	perfect
+210228	present
+210230	present
+210233	aorist
+210238	present
 present
-210278	aorist
-210280	present
-210286	perfect
-210301	imperfect
-210304	imperfect
-210315	present
-210324	imperfect
-210328	present
+210243	present
+210246	present
+210249	present
+present
+210254	present
+aorist
+210259	present
+210263	present
+210265	perfect
+210272	present
+210275	perfect
+210283	present
+210287	aorist
+210293	future
+210295	present
+210297	aorist
+210300	present
+210308	present
+210310	present
+210313	future
+210317	present
+present
+210322	perfect
+210325	imperfect
+210327	imperfect
 210332	aorist
-210337	future
-210345	aorist
-210348	aorist
+210338	present
+210342	future
+210344	aorist
+210351	imperfect
+210356	imperfect
+210359	imperfect
+210361	present
 aorist
-210355	aorist
-210366	aorist
-210369	present
-210376	present
+210369	imperfect
+210373	imperfect
+210380	aorist
+210385	aorist
 210388	present
-210393	imperfect
-210407	aorist
-210421	aorist
-210438	aorist
-210457	imperfect
-210473	aorist
-210481	aorist
-210490	present
-210493	aorist
+210390	present
+210393	aorist
+210396	aorist
+210400	imperfect
+present
+210405	pluperfect
+210407	imperfect
+present
 aorist
+210415	present
+210420	aorist
+present
+210429	present
+210433	present
+210441	present
+210443	aorist
+210445	aorist
+210447	aorist
+imperfect
+210453	aorist
+210458	aorist
+210463	aorist
+aorist
+present
+210472	imperfect
+210475	aorist
+present
+210479	aorist
+210482	aorist
+210486	aorist
+aorist
+210490	aorist
+210498	aorist
+perfect
 210502	aorist
-210518	pluperfect
-210521	aorist
-210525	aorist
-210531	imperfect
-210533	aorist
+210504	aorist
+210506	imperfect
+210509	present
+210512	present
+210518	aorist
+210520	present
+present
+210523	present
+210526	aorist
+210528	aorist
+210535	aorist
+aorist
+210542	aorist
 210544	imperfect
-present
-210553	imperfect
-210565	imperfect
-210577	imperfect
+210551	pluperfect
+210554	pluperfect
+210560	present
+imperfect
+perfect
+210567	present
+210569	present
+210575	present
+210577	aorist
 210580	present
-210587	aorist
-210598	aorist
-aorist
-210601	perfect
-210604	present
-210613	aorist
-210618	present
-aorist
-210621	aorist
+210583	present
+210585	present
+imperfect
+210588	aorist
+210594	aorist
+210599	imperfect
+210602	perfect
+210605	aorist
+210609	imperfect
+210616	aorist
 210626	aorist
+210628	aorist
+210634	aorist
 210636	aorist
-210641	aorist
-210644	aorist
-210650	imperfect
-210654	present
-210667	present
-210674	present
-210676	imperfect
-210691	aorist
-210698	aorist
-210713	imperfect
-present
-210719	aorist
-210725	aorist
-210729	aorist
-210734	aorist
-210738	aorist
-imperfect
-210741	present
-210749	imperfect
-present
-210754	aorist
-210769	present
-imperfect
-210772	imperfect
-210780	present
-210782	present
-210785	present
-210794	present
-210796	imperfect
-210798	present
-210800	pluperfect
-210805	present
+210640	aorist
+210645	present
+210650	aorist
+210655	aorist
+210657	present
+210660	aorist
+210664	aorist
+210669	perfect
 aorist
-210809	aorist
+210674	aorist
+present
+210677	present
+210680	aorist
+210684	aorist
+210688	aorist
+present
+210691	present
+210694	present
+210702	future
+210706	aorist
+210708	aorist
+210712	present
+210714	present
+210718	aorist
+210721	aorist
+210724	present
+210728	present
+210731	aorist
+210733	aorist
+210738	present
+210741	aorist
+210743	aorist
+210746	present
+210750	aorist
+210758	aorist
+210760	aorist
 aorist
-210820	imperfect
-210823	aorist
-210828	imperfect
-210832	present
-210838	aorist
-210850	aorist
+210765	present
+210768	perfect
+210777	present
+210789	present
+present
+210795	present
+210797	aorist
+210802	aorist
+210806	aorist
+210810	present
+210814	present
+210817	aorist
+210819	present
+210822	future
+210825	aorist
+210829	perfect
+210833	present
+210836	present
+210840	future
+210842	present
+210845	aorist
+210848	perfect
 210852	present
-210864	aorist
-210867	imperfect
-present
-210878	aorist
-210886	present
+210859	aorist
+210863	present
+210866	aorist
+210870	perfect
+210873	aorist
+210876	aorist
+210883	present
 210889	present
-210900	imperfect
-perfect
-210910	aorist
-210914	perfect
-210927	aorist
-imperfect
-210932	aorist
-210942	imperfect
-210944	aorist
+210892	present
+210894	present
+210897	aorist
+210903	imperfect
+210908	aorist
+210910	present
+210912	aorist
+210916	imperfect
+210918	present
+210923	perfect
+210929	present
+210933	perfect
+aorist
+210937	aorist
+210940	present
+210943	present
+aorist
+210949	aorist
 210951	aorist
-210953	aorist
-210960	imperfect
-210966	aorist
+210954	future
+210963	future
+210967	aorist
+210971	aorist
 present
-aorist
-210974	aorist
-210981	aorist
-210991	aorist
-210993	aorist
-211000	aorist
+210976	perfect
+210979	present
+210983	perfect
+210985	present
+210987	present
+present
+210991	present
+210997	aorist
 211002	aorist
-211011	future
-211017	aorist
+211004	present
+211008	present
+211012	aorist
+211015	aorist
+211017	present
+211019	present
+211022	aorist
+211025	aorist
+211029	future
+211038	future
+211041	present
+211046	imperfect
+211050	present
+211052	present
+211055	aorist
+211057	aorist
 aorist
-211024	imperfect
-211032	aorist
-211045	aorist
-aorist
-211049	aorist
-211051	aorist
-211058	present
-211060	aorist
-211064	aorist
-211070	present
-aorist
+211062	present
+211065	aorist
+211072	aorist
+211076	present
 211079	present
-211083	aorist
-211103	aorist
-211115	imperfect
-211121	aorist
-211131	present
-211139	future
+211083	present
+211086	present
+211089	future
+211097	present
+211102	present
 present
-211142	aorist
-211151	aorist
-211153	aorist
-211156	aorist
+211107	present
+211111	present
+211115	aorist
+211119	present
+211121	present
+211126	present
+211129	future
+211132	present
+211135	aorist
+211137	aorist
+211140	aorist
+present
+211144	future
+211148	aorist
+211150	present
+211154	aorist
+211158	aorist
 211160	present
-211170	aorist
+211164	present
+211166	present
+perfect
+211172	present
 211176	aorist
-211181	aorist
-211185	aorist
+211180	present
+211183	present
 211187	present
-211190	present
+211189	imperfect
+211192	present
 present
-211193	aorist
-211195	aorist
-211199	aorist
-211201	present
-present
+211196	present
+211201	perfect
+211204	present
+211207	present
+211209	present
+211214	present
+pluperfect
+211220	present
+211222	present
+211225	present
+future
+211229	imperfect
+211231	perfect
+211235	present
 aorist
-211209	aorist
-211215	aorist
-211218	aorist
-211220	aorist
-aorist
-211227	aorist
-211236	aorist
-211243	imperfect
+211248	aorist
 211254	imperfect
-211258	present
+aorist
 211260	present
-211271	imperfect
 present
-211279	present
+aorist
+211266	future
+211269	present
+211272	perfect
+211274	perfect
+211277	present
 211281	aorist
-211292	imperfect
-present
-211296	imperfect
-present
-211303	imperfect
-perfect
-211322	imperfect
-211326	present
-211329	aorist
-211331	present
-211338	imperfect
-perfect
-211341	imperfect
-211343	aorist
-211345	aorist
-211351	aorist
-211353	aorist
-211360	aorist
-211371	aorist
-211389	aorist
-211395	aorist
-211397	perfect
-211405	aorist
-present
-211414	present
-211416	present
-211419	present
-211422	present
-211424	aorist
-211432	aorist
-211442	aorist
-aorist
-211448	present
-211457	present
-211459	aorist
-perfect
-211468	aorist
-present
-211471	present
-211474	perfect
-211484	present
-211490	present
-211492	aorist
-211494	perfect
-211496	present
-present
-211499	aorist
-211505	present
-211515	aorist
-211519	aorist
-211523	imperfect
-aorist
-211532	present
-211538	aorist
-211541	imperfect
-211546	aorist
-211548	present
-211550	aorist
-211557	aorist
-211559	aorist
-211564	present
-211571	aorist
-211573	present
-211576	aorist
-211578	aorist
+211286	aorist
+211291	present
 imperfect
-211582	aorist
-211596	imperfect
-211606	imperfect
-211610	present
-211612	imperfect
-211629	present
-211640	present
-211642	present
-211644	aorist
-211648	aorist
+211298	imperfect
+present
+211306	imperfect
+211312	imperfect
+211315	present
+211317	imperfect
+211320	aorist
+imperfect
+211328	aorist
+211333	aorist
+211336	present
+211343	future
+211347	present
+211352	present
+211354	present
+211357	present
+211360	present
+aorist
+211368	imperfect
+211370	present
+211378	present
+211384	present
+211387	present
+211389	present
+211393	present
+211396	present
+211402	present
+211404	aorist
+211409	present
+211417	perfect
+211420	aorist
+211422	aorist
+211427	aorist
+211434	aorist
+211441	imperfect
+211446	imperfect
+211448	present
+211453	imperfect
+211459	imperfect
+211462	present
+211465	imperfect
+211468	present
+211473	imperfect
+211482	present
+aorist
+211488	imperfect
+imperfect
+211492	present
+211496	perfect
+211498	perfect
+aorist
+211504	aorist
+211508	present
+211511	aorist
+211515	present
+211518	present
+future
+211525	present
+211529	present
+211531	present
+211535	present
+211537	present
+211540	aorist
+211544	present
+211549	present
+211551	aorist
+211557	present
+211561	present
+aorist
+aorist
+211566	present
+211569	present
+aorist
+aorist
+211574	aorist
+211577	aorist
+211580	present
+211583	perfect
+211589	present
+211595	present
+211599	present
+211604	aorist
+211608	present
+211612	aorist
+211614	present
+211619	aorist
+imperfect
+211626	present
+211628	present
+aorist
+211631	aorist
+211633	present
+211637	present
+211641	aorist
+211645	present
+211649	perfect
+211651	present
 211655	present
 211657	present
-211662	present
-211664	perfect
+211659	present
 aorist
-211674	aorist
-211683	present
-211687	present
-211700	present
-211702	present
-211707	aorist
-211712	present
+211664	present
+211667	present
+211669	perfect
+211671	perfect
+211673	present
+211677	perfect
+211679	present
+211681	aorist
+211686	perfect
+211688	perfect
+211692	present
+211695	aorist
+imperfect
+211699	aorist
+211702	aorist
+211707	pluperfect
+211714	aorist
+211717	imperfect
+211720	aorist
+211722	future
+211725	aorist
+aorist
 211729	present
+211733	aorist
+211739	aorist
+211741	aorist
+211747	present
+211749	present
+211751	aorist
+211753	future
+211757	future
+211760	present
+211764	present
 aorist
 aorist
-future
-211737	aorist
-211745	future
-211753	imperfect
-211769	aorist
+211772	present
 present
-211783	future
-211789	future
-211802	present
-211814	future
-211827	future
-211832	future
-211845	aorist
-211847	present
-211849	present
-211855	present
+211777	future
+211783	present
+present
+211786	present
+211789	present
+211793	aorist
+future
+211798	future
+211801	present
+211805	present
 aorist
-211861	present
-211867	imperfect
+211814	pluperfect
+211817	aorist
+present
+211821	present
+present
+211825	present
+present
+211829	aorist
+211835	future
+211837	present
+211840	aorist
+211844	imperfect
+present
+aorist
+211850	imperfect
+211855	aorist
+211859	aorist
+211862	imperfect
+211864	present
+211868	imperfect
+211870	present
 211874	imperfect
-211878	present
-211888	aorist
-211890	present
-211893	present
-211898	aorist
-211902	aorist
+211879	present
+211881	aorist
+211890	imperfect
+211892	present
+211896	aorist
+211902	imperfect
+211904	aorist
 211908	aorist
-211910	aorist
-211913	aorist
-211920	present
-211922	aorist
-211940	aorist
-aorist
+211911	aorist
+211918	aorist
+211923	aorist
+211925	aorist
+211928	aorist
+211932	present
+211934	aorist
+211939	perfect
 211943	aorist
-211951	present
-aorist
-211961	imperfect
-211965	present
-211976	aorist
-211983	aorist
-211991	present
-211993	imperfect
-212006	imperfect
-212008	imperfect
-212024	present
-212026	aorist
+211952	present
+211955	present
 present
-212031	pluperfect
-212037	aorist
-212044	present
-212048	present
-212050	aorist
-212057	aorist
+211958	aorist
+211962	present
+211966	present
+211970	aorist
+211974	aorist
+211976	present
 aorist
+211979	aorist
+211984	present
 aorist
-212067	present
-212070	present
-212074	aorist
-212076	aorist
-212078	aorist
-212080	aorist
-212082	aorist
-212086	aorist
-212088	aorist
-212096	aorist
-212098	aorist
-212106	aorist
-212109	imperfect
-212115	aorist
-212119	aorist
-212128	aorist
-212135	aorist
-212138	imperfect
+211987	aorist
+211993	present
+211995	aorist
+212002	aorist
+212010	aorist
+212016	imperfect
+212019	aorist
+imperfect
+212022	present
+212030	perfect
+212032	aorist
+212035	present
+212040	aorist
+212042	present
+212048	aorist
+212050	present
+212054	present
+212057	imperfect
 present
-212151	aorist
-212153	aorist
-212160	aorist
-212169	aorist
+212061	present
+present
+212067	aorist
+212069	imperfect
+212074	imperfect
+present
+212077	aorist
+aorist
+212085	aorist
+212089	aorist
+imperfect
+212095	aorist
+212099	present
+imperfect
+212102	aorist
+212108	aorist
+212114	perfect
+aorist
+212120	aorist
+212123	aorist
+212127	present
+212133	aorist
+212136	aorist
+212139	aorist
+212146	present
+present
+212150	present
+212154	aorist
+212156	present
+212158	present
+212162	present
+212165	aorist
+212169	future
 212173	aorist
-212201	present
-212211	aorist
-212214	aorist
-212218	aorist
-212259	aorist
-aorist
-212263	aorist
-212273	present
-212279	imperfect
-212286	imperfect
+212179	present
+212183	present
+212185	aorist
+212188	aorist
+212191	present
+212194	present
+212198	perfect
+212200	aorist
+212203	present
+212207	perfect
+212209	present
+212212	present
+212216	present
+212219	present
+212223	present
+212230	present
+212234	present
+212237	aorist
+212245	perfect
+212251	present
+212253	present
 present
-212294	imperfect
-212296	imperfect
-212300	aorist
-212313	imperfect
-212320	present
-212330	present
-212333	future
-212336	present
-212339	future
-212341	present
-212343	aorist
-212350	aorist
-212353	aorist
-212355	aorist
-212372	aorist
-212381	aorist
+212257	present
+212261	aorist
+212263	imperfect
+212267	present
+212270	aorist
+212274	perfect
+212280	pluperfect
+212284	pluperfect
+212287	aorist
+212290	present
+212295	aorist
+212299	pluperfect
+212302	aorist
+212307	present
+212309	future
+212315	future
+212318	present
+212321	present
 aorist
-212401	imperfect
-212417	present
-212426	perfect
-212429	future
-212432	present
-212435	future
-212437	future
-212442	aorist
-212454	imperfect
-212465	present
-212467	present
-present
-212475	present
+imperfect
+212326	future
+212329	present
+212332	present
+212335	present
+aorist
+212338	imperfect
+212343	present
+212347	present
+212352	present
+212355	present
+212359	aorist
+212363	future
+212370	aorist
+212373	present
+future
+212378	imperfect
+212383	present
+aorist
+212390	present
+212393	present
+212397	aorist
+212400	present
+212403	aorist
+212406	present
+212410	aorist
+212414	imperfect
+aorist
+212419	aorist
+212424	future
+212427	present
+212430	present
+212434	aorist
+212438	present
+212440	aorist
+212443	present
+212445	aorist
+212452	present
+212456	present
+212458	aorist
+212460	imperfect
+212466	perfect
+212470	aorist
 212477	present
-212479	present
-212481	present
-212483	present
-212487	present
-212490	present
-212497	present
-212507	present
-212519	aorist
-212522	present
-212524	present
-212529	present
+212479	future
+212483	future
+212485	aorist
+212488	present
+212491	perfect
+212495	present
+212498	future
+aorist
+212502	present
+212506	present
+212509	present
+212514	present
+212520	present
+212527	aorist
+212530	future
+perfect
 212534	present
-212537	present
-212539	present
+212536	present
+212538	aorist
 212544	present
-212549	present
+212548	perfect
 212551	present
-212557	present
-212565	present
-212567	present
-212571	present
+212555	aorist
+212558	present
+aorist
+212561	aorist
+212566	present
+present
 212573	present
-212579	present
-212588	present
-212591	aorist
+212577	present
+212580	present
+aorist
+212585	perfect
+212587	aorist
+212593	aorist
 212595	present
-aorist
-212601	present
-212606	present
-212608	aorist
-212613	present
-212620	present
-212622	present
+212600	aorist
+212605	aorist
+212607	present
+212609	aorist
+212615	imperfect
+imperfect
+212622	aorist
 212624	present
-212626	future
-212634	future
-212641	present
+212627	perfect
+212631	aorist
+212637	present
+212640	present
+present
 212649	present
-212658	present
-212661	present
-212666	aorist
-212669	present
-212674	aorist
+212655	present
 present
-212677	future
-present
-212680	future
-212686	perfect
-perfect
-present
-future
-212701	present
-future
-212704	aorist
-212711	present
+212659	imperfect
+212665	imperfect
+212668	present
+212672	present
+212676	present
+212679	present
+212687	present
+212689	present
+212693	present
+212698	present
+212702	present
+212704	present
+212710	present
 212714	present
-212720	future
-212722	present
-212730	perfect
-212733	future
-212743	present
-212774	present
-212776	present
-present
-212784	aorist
+212719	present
 aorist
-212811	present
+212723	aorist
+212726	present
+212730	present
+212734	present
+aorist
+212740	present
+212742	present
+212747	present
+212752	present
+212755	present
+present
+212758	present
+present
+212765	aorist
+212768	aorist
+212771	aorist
+212775	perfect
+212778	present
+212780	aorist
+212785	present
+212790	aorist
+212792	aorist
+212798	present
+212802	aorist
+212805	aorist
+212808	present
+aorist
 212813	aorist
-212827	future
-212844	aorist
-212848	present
-212852	present
-212861	present
-212876	present
-212882	present
-212889	present
-212906	present
-212919	present
-212929	present
-212938	present
-212943	present
-212945	present
-212949	present
-212954	present
-212961	present
-212963	future
-212966	present
-212969	present
-212972	present
-212975	aorist
-212977	aorist
-212979	aorist
-212988	aorist
+212818	present
+present
+212822	present
+212826	present
+212829	present
+212832	perfect
+212836	perfect
+212839	aorist
+212842	perfect
+212844	future
+212848	perfect
+212853	present
+212856	aorist
+212858	aorist
+212863	aorist
+212865	aorist
 aorist
-213000	aorist
+212872	present
+212875	perfect
 aorist
-213007	perfect
-213011	aorist
-213014	aorist
-213016	present
-213019	aorist
-213030	aorist
-213036	aorist
-213038	aorist
+212879	present
+212883	aorist
+212885	present
+aorist
+212890	aorist
+212894	aorist
+212896	aorist
+212900	present
+aorist
+212906	aorist
+212910	present
+212913	aorist
+212919	aorist
+aorist
+212924	aorist
+212930	aorist
+212936	present
+present
+212940	aorist
+212944	present
+present
+212948	present
+present
+212953	present
+212955	present
+212958	aorist
+aorist
+212962	aorist
+212967	aorist
+212973	aorist
+212975	present
+aorist
+212982	present
+perfect
+aorist
+212987	aorist
+212989	aorist
+present
+212994	present
+212999	imperfect
+imperfect
+213002	present
+present
+213005	present
+213007	imperfect
+213010	present
+213012	imperfect
+213017	present
+213019	imperfect
+213022	present
+imperfect
+213028	aorist
+213031	aorist
+213034	present
+213037	aorist
+213039	aorist
+213043	aorist
+213046	present
 213050	aorist
-213067	aorist
-213078	present
-imperfect
-present
-213082	imperfect
-213085	aorist
-213092	aorist
-213101	present
-213104	aorist
 aorist
-213113	aorist
+213054	aorist
+aorist
+213057	aorist
+213060	present
+213062	present
+213064	perfect
+present
+213071	imperfect
+213077	aorist
+213080	aorist
+213085	imperfect
+213090	aorist
+213093	aorist
+213096	aorist
+213101	aorist
+213103	present
+imperfect
+213110	present
+213117	present
 213119	imperfect
-213122	present
-213125	present
-213127	future
+213121	present
+213124	present
+213127	imperfect
 213129	present
-213141	aorist
-213147	imperfect
-213157	present
-213163	aorist
+213135	present
+213138	aorist
+213143	aorist
+213146	present
+213148	aorist
+213153	imperfect
+213156	aorist
+213159	aorist
+213162	aorist
+213164	aorist
+213166	present
 213168	present
-213172	present
-213176	present
-213185	aorist
-213189	aorist
-213193	aorist
-213195	aorist
-213198	aorist
-213210	present
+213173	present
+213176	aorist
+213179	present
+213181	aorist
+213186	aorist
+perfect
+213190	present
+213196	aorist
+213200	present
+213202	perfect
+213205	aorist
+213210	perfect
+213212	aorist
 213214	present
-present
-213221	present
-213223	aorist
-213225	present
-213228	present
-213230	present
-213237	aorist
-213240	present
+213217	future
+213219	aorist
+213223	imperfect
+213227	pluperfect
+213233	aorist
+213236	aorist
+213240	aorist
+213243	present
+213245	aorist
 aorist
-213247	aorist
-213250	aorist
-213254	present
-213257	aorist
-present
-213269	aorist
-213271	aorist
-213278	aorist
+213251	imperfect
+213254	aorist
+213256	aorist
+213260	perfect
+213265	present
 aorist
-213283	present
-213285	aorist
+213270	present
+213272	perfect
+213274	perfect
+213276	present
+213278	present
+aorist
+213283	aorist
+213286	aorist
+213289	aorist
 213291	aorist
-213296	present
-213299	imperfect
-213312	aorist
-213321	aorist
-imperfect
-213324	perfect
-213336	imperfect
-213346	imperfect
-213351	aorist
-213356	aorist
-213361	aorist
+213296	aorist
+213299	present
+present
+213302	present
+213304	aorist
+213306	aorist
+213309	aorist
+213312	present
+213317	present
+213319	perfect
+213322	perfect
+213327	perfect
+213329	present
+aorist
+213333	aorist
+213338	present
+213341	perfect
+213343	present
+213345	aorist
+213348	perfect
+213353	present
+213358	present
+213362	present
 213364	present
-213366	aorist
-aorist
-213373	present
-aorist
-213376	aorist
-213379	present
-aorist
-213382	aorist
-213387	aorist
+213368	aorist
+213370	aorist
+213374	perfect
+213377	imperfect
+213381	imperfect
 present
+213384	aorist
+213386	aorist
 213390	aorist
+213394	present
 213397	aorist
-213402	imperfect
-213406	present
-213411	aorist
-213417	aorist
+213400	aorist
+213403	aorist
+213407	aorist
+213409	aorist
+213411	present
+213416	aorist
+213419	aorist
+213422	present
+213425	aorist
 213427	aorist
-213451	aorist
-213464	aorist
-213477	aorist
-213483	present
-213485	present
-213487	present
-213490	present
-aorist
-213499	aorist
-213504	aorist
-213509	present
-213511	present
-213513	present
-213516	present
-213524	aorist
-213539	aorist
+213431	perfect
+213434	present
+213437	present
+213440	imperfect
 present
-213542	aorist
-aorist
-213545	aorist
-aorist
-213549	aorist
-213551	aorist
-213553	present
-213555	present
-213557	present
-213560	present
-213562	present
-213564	present
-213567	present
-213571	aorist
-213575	aorist
-213582	aorist
+213444	aorist
+213447	aorist
+213454	aorist
+213457	present
 present
-213593	aorist
-213599	aorist
-213605	present
-213608	aorist
+213460	present
+213462	aorist
 aorist
-213617	perfect
+213468	present
+213470	aorist
+213474	present
 aorist
-213628	present
-213634	present
-213637	aorist
-aorist
+213480	imperfect
+213482	imperfect
+213486	present
+213488	present
+213491	present
+present
+213494	present
+213502	present
+213506	present
+213510	present
+213514	present
+213518	present
+213523	present
+213527	present
+213530	present
+213535	aorist
+213537	present
+213541	present
+213543	perfect
+213549	future
+213551	future
+213555	perfect
+213561	aorist
+213567	aorist
+213569	imperfect
+213571	imperfect
+213573	aorist
+213577	present
+213581	present
+213587	aorist
+213590	present
+213595	aorist
+213599	present
+213604	aorist
+future
+213607	future
+213609	future
+213612	future
+213615	present
+213618	aorist
+213620	aorist
+213622	aorist
+213624	aorist
+213627	present
+213630	present
+213632	present
 213641	present
-213648	present
-213652	perfect
-aorist
-present
-213666	future
-213675	present
-213685	present
-213702	present
-213709	aorist
+213647	present
+213651	present
+213654	present
+213656	present
+213658	present
+213661	present
+213664	present
+213667	present
+213670	present
+213673	present
+213678	present
+213683	present
+213686	present
+213690	present
+213694	present
+213699	present
+213704	present
+213707	present
+213712	present
 213714	aorist
-213718	aorist
-213739	aorist
-213744	aorist
-213750	future
-213762	present
-213765	present
-213771	present
-213773	present
+213718	future
+213720	future
+213726	present
+213729	present
+213734	aorist
+213737	aorist
+213742	present
+213746	present
+aorist
+213751	present
+213753	aorist
+213757	aorist
+213763	aorist
+213769	imperfect
+213774	present
 213776	present
-aorist
-213781	aorist
-aorist
-213785	aorist
-perfect
-213793	present
-213796	present
-213799	present
-213801	present
-perfect
-213810	present
-213812	present
-213814	present
-aorist
-213826	aorist
-213839	imperfect
-213848	aorist
-213853	aorist
-213863	aorist
-213865	aorist
-213868	imperfect
-213876	aorist
-213878	present
-213888	aorist
-213893	aorist
-213902	present
-213906	aorist
+213779	present
+213781	imperfect
+213785	present
 present
-213923	imperfect
-213925	imperfect
-213932	imperfect
-213936	aorist
-213942	aorist
+213788	present
+213790	aorist
+aorist
+213797	imperfect
+213799	imperfect
+213807	aorist
+213812	imperfect
+213817	present
+213820	present
+213822	aorist
+213825	aorist
+213828	aorist
+213832	present
+213836	present
+213843	present
+213848	present
+213851	present
+213861	present
+213863	present
+213866	present
+213869	present
+213874	aorist
+213879	future
+213888	perfect
+213892	present
+213895	present
+present
+213904	present
+aorist
+213910	aorist
+213912	aorist
+213917	aorist
+213925	present
+aorist
+213932	present
+213940	present
+present
 213944	aorist
-213948	present
-213951	imperfect
-213953	imperfect
-213962	present
-213966	present
-213968	aorist
+213953	aorist
+213955	present
+213958	aorist
+213964	aorist
+213967	present
+aorist
 213972	aorist
-213977	present
-213980	aorist
-213984	aorist
-present
-213989	imperfect
-213996	imperfect
-214006	present
-214008	aorist
-214010	aorist
-214016	future
+213974	aorist
+213978	present
+213980	present
+213982	aorist
+213985	present
+213988	present
+213994	present
+213998	present
+214001	present
+214003	present
+214005	aorist
+214007	present
+214014	imperfect
 214018	aorist
 214020	aorist
+214025	aorist
+214036	imperfect
+214040	aorist
+214043	imperfect
+214048	aorist
+214052	aorist
+214056	imperfect
+214059	aorist
+214062	imperfect
+214066	present
+214074	imperfect
+214077	aorist
+214081	aorist
+214088	imperfect
+aorist
+214093	present
+214095	aorist
+214097	present
 present
-214027	aorist
-214030	aorist
-214033	aorist
-214035	aorist
-214044	imperfect
-present
-214051	aorist
-214065	aorist
-214071	aorist
-214083	aorist
-214087	aorist
-214093	aorist
-214095	imperfect
-present
-214109	aorist
-214113	aorist
-214122	present
-214124	perfect
-214135	aorist
-214140	present
+aorist
+214102	aorist
+214106	present
+214114	aorist
+214119	imperfect
+214130	aorist
+214132	present
+214134	aorist
+214137	imperfect
 214142	present
-aorist
-214146	perfect
-214153	aorist
-214155	present
-present
-214162	present
-214167	present
-aorist
-214180	perfect
+214144	present
+214148	present
+214153	imperfect
+214155	aorist
+214159	present
+214161	aorist
+214164	present
+214168	present
+214172	present
+214178	present
 214182	present
-214187	aorist
-214195	imperfect
+214185	present
+214189	present
+214192	aorist
+214195	present
+214199	perfect
 214201	present
-214203	present
-214224	imperfect
-perfect
-214235	present
-214243	pluperfect
-214259	imperfect
-214264	present
-214266	present
-214277	present
-214281	aorist
+214203	aorist
+214205	aorist
+214211	perfect
+future
+pluperfect
+214221	aorist
+214227	present
+214230	aorist
+214235	aorist
+214237	present
+214240	aorist
+214243	imperfect
+214246	present
+214248	aorist
+214250	present
+214253	present
+214256	aorist
+214258	aorist
+214261	aorist
+214265	present
+214268	imperfect
+214280	pluperfect
 214285	aorist
-214287	present
-214289	aorist
-214299	present
-214303	aorist
-214310	aorist
-214319	aorist
-214323	aorist
-214330	aorist
+214292	aorist
+214295	present
 aorist
-214336	present
-214340	aorist
-214349	aorist
-214353	aorist
-214357	aorist
-214368	aorist
+214302	imperfect
 aorist
+214309	imperfect
+214312	aorist
+214317	perfect
+214320	aorist
+214322	future
+214325	present
+214328	future
+214331	present
+214334	perfect
+214336	future
+214342	aorist
+214346	present
+214350	present
+214352	aorist
+future
+214356	present
+214358	present
+214361	aorist
+214364	present
+214366	present
+214371	perfect
 214374	present
-imperfect
-214377	present
-214379	present
-present
-imperfect
-214392	present
-214398	aorist
-214400	perfect
+214381	present
+214384	aorist
 aorist
-214421	present
-214423	present
-214425	present
+214387	aorist
+214391	aorist
+214393	present
+214395	present
+214400	aorist
+present
+214404	imperfect
+214407	pluperfect
+214412	imperfect
+214417	aorist
+214422	present
 214427	present
-present
-214437	present
-214453	present
+214429	aorist
+214433	aorist
+214435	aorist
+aorist
+214438	aorist
+214440	present
+214444	aorist
+214449	aorist
+214451	imperfect
+214453	aorist
 214455	aorist
-214457	present
-214462	present
-214475	aorist
+214459	present
+214463	imperfect
+214467	aorist
+214472	aorist
+214474	present
+214478	aorist
+214480	present
 aorist
+214484	aorist
 214487	aorist
+214489	perfect
 214491	present
-214499	present
-214504	present
-214511	present
-214519	aorist
-214521	present
-214523	aorist
+214494	present
+214496	aorist
+aorist
+214499	imperfect
+214502	aorist
+214504	imperfect
+214509	aorist
+imperfect
+214512	aorist
+214516	aorist
+214520	aorist
+214524	present
+214526	present
+214529	imperfect
+214534	imperfect
 214536	present
-present
+214538	aorist
 214540	present
-214552	present
-214561	aorist
-214565	present
-214567	present
-214574	aorist
+214544	perfect
+214547	present
+214550	present
 present
-214582	present
-214587	present
-214590	present
-present
-214597	present
-214602	future
-214609	aorist
-214614	aorist
-present
-214618	present
-214622	present
+214554	aorist
+214558	aorist
 future
-214629	present
-214633	present
+214563	aorist
+214568	aorist
+214572	aorist
+214574	present
+214577	aorist
+214581	pluperfect
+214585	present
+214589	perfect
+aorist
+214592	aorist
+214596	aorist
+214599	aorist
+214601	aorist
+214603	present
+214605	aorist
+perfect
+perfect
+214616	pluperfect
 present
-future
-214639	aorist
-214655	imperfect
+214620	aorist
+214623	aorist
+214625	present
+214630	aorist
+214634	aorist
+214636	aorist
 aorist
-214663	aorist
-214677	perfect
-214679	aorist
-present
-214684	aorist
+214642	aorist
+214646	aorist
+214649	aorist
+214651	aorist
+214658	imperfect
+214660	present
+214665	present
+214667	aorist
+214671	future
+214674	future
+214677	future
+214688	present
+214691	aorist
+214695	perfect
+214698	present
+214700	present
+214704	aorist
+214711	aorist
+214716	aorist
+214719	present
+214722	aorist
+214724	imperfect
+214726	present
+214739	perfect
 aorist
-214697	present
-214706	present
-214708	present
-aorist
-214720	aorist
-214731	aorist
-214735	aorist
 214746	aorist
-present
-214750	aorist
-214752	aorist
-214762	imperfect
-214764	imperfect
-aorist
-214767	aorist
-214769	present
-214772	present
-214775	aorist
-aorist
-214789	aorist
-214791	aorist
-214793	aorist
-214802	aorist
+214748	aorist
+214754	imperfect
+214758	aorist
+214768	present
+214770	aorist
+214773	imperfect
+214780	aorist
+214788	aorist
+214790	imperfect
+214794	imperfect
+214798	perfect
+214800	present
 214804	aorist
-present
-214812	present
-214818	present
-214824	present
-214827	aorist
-214838	present
-214844	aorist
-214852	aorist
-214863	present
+214807	pluperfect
+214815	aorist
+214817	present
+aorist
+214820	aorist
+214828	aorist
+214831	imperfect
+214833	aorist
+214836	aorist
+214843	imperfect
+214847	imperfect
+214849	present
+214853	aorist
+214858	aorist
+214863	aorist
 214870	aorist
-214877	imperfect
-214884	aorist
-214889	aorist
-aorist
-214896	aorist
-214910	present
-214914	aorist
+214875	present
+214881	present
+214883	present
+214888	aorist
+214891	aorist
+214893	aorist
+214899	imperfect
+214904	imperfect
+214907	present
+present
 imperfect
-214924	aorist
-214934	pluperfect
-214937	imperfect
-214941	present
-214943	present
-214947	imperfect
-214958	aorist
-214967	present
-214970	aorist
-214973	aorist
-214981	imperfect
-214985	aorist
-214992	aorist
-imperfect
-215002	present
-215009	aorist
-215012	aorist
-215017	aorist
-215019	aorist
-215021	aorist
-215031	aorist
-215038	aorist
-215053	aorist
 aorist
-215057	present
-215059	perfect
+214913	aorist
+214921	aorist
+214926	present
+214932	present
 aorist
-215062	aorist
+214942	present
+214944	aorist
+214953	aorist
+214955	aorist
+214957	aorist
+214963	aorist
+214967	imperfect
+214970	imperfect
+214976	aorist
+214979	aorist
+214981	present
+214984	aorist
+214989	aorist
+214993	imperfect
+214995	perfect
+present
+215003	aorist
+215007	aorist
+215012	present
+215014	aorist
+215017	present
+present
+215023	aorist
+215029	aorist
+215032	aorist
+215039	aorist
+215041	imperfect
+215044	present
+215048	aorist
+215052	aorist
+215057	aorist
+215061	aorist
+215063	perfect
+215067	aorist
+215069	present
+215072	present
 215074	aorist
-215076	aorist
-215078	perfect
-215080	aorist
-215087	aorist
-present
-215098	aorist
-perfect
-215101	present
-215112	aorist
-aorist
-215117	aorist
-215119	aorist
-215121	aorist
-215123	aorist
-215138	aorist
-215146	imperfect
-215149	aorist
-215153	aorist
+215077	aorist
 imperfect
-215163	pluperfect
+215082	present
+215084	aorist
+215089	aorist
+215095	imperfect
+215097	present
+215099	present
+215101	aorist
+present
+215105	present
+215107	present
+215110	present
+215114	present
+215116	present
+perfect
+215120	aorist
+215124	present
+215131	aorist
+215134	aorist
+215137	present
+215140	aorist
+215142	present
+present
+215146	present
+215149	present
+215157	future
+215162	present
+215164	present
 215167	present
-215171	aorist
-215174	present
-present
-215184	present
-215187	aorist
-215192	aorist
-215200	present
-215202	aorist
-215211	present
-215215	aorist
-215221	imperfect
-215224	present
-215227	aorist
-aorist
-215240	imperfect
-215242	aorist
-215250	imperfect
-215252	aorist
-215265	imperfect
-215274	imperfect
-215279	present
-215284	imperfect
-215289	present
-215302	aorist
-215306	aorist
-aorist
-215309	aorist
-215321	aorist
-215332	aorist
-215338	aorist
-215340	present
-215343	aorist
-215351	present
-215354	present
-215359	aorist
-aorist
-215365	aorist
-215367	perfect
-215371	aorist
-215378	aorist
-present
-aorist
-215382	aorist
-215389	aorist
-215391	aorist
-215401	aorist
-215405	aorist
-215413	perfect
-215415	present
-215421	present
-present
-215429	present
-215431	perfect
-215438	present
-215446	aorist
-aorist
-215450	present
-215452	aorist
-215454	future
-aorist
-215463	aorist
-aorist
-215488	imperfect
-215492	imperfect
-215496	aorist
-215498	present
-215500	aorist
-215502	present
-215504	imperfect
-215506	perfect
-215508	aorist
-215511	aorist
-215517	aorist
-present
-215522	present
-215524	aorist
-215531	aorist
-215534	aorist
-215536	aorist
-aorist
-215539	aorist
-215547	aorist
-215550	aorist
-215552	perfect
-aorist
-215558	aorist
-215572	present
-215574	aorist
-215576	present
-215585	present
-215587	aorist
-215592	present
-215612	present
-215620	aorist
-215622	present
-215625	present
-215630	present
-215632	present
-215650	present
-215658	present
-215660	imperfect
-215666	present
-215668	present
-215670	aorist
-215678	present
-215681	imperfect
-215685	present
-215691	aorist
-215701	aorist
-215711	aorist
-aorist
-215717	aorist
-215720	present
-215725	present
-215728	imperfect
-aorist
-215732	aorist
-215736	aorist
-215739	aorist
-215741	aorist
-215743	aorist
-215751	present
-215757	aorist
-aorist
-215761	aorist
-215763	imperfect
-215778	present
-215780	imperfect
-215785	aorist
-present
-aorist
-215792	aorist
-215794	aorist
-215799	aorist
-215809	aorist
-215811	aorist
-215820	present
-aorist
-215826	aorist
-215828	aorist
-215832	aorist
-215834	present
-215847	aorist
-215849	aorist
-215860	imperfect
-215866	aorist
-215875	aorist
-215885	aorist
-215888	aorist
-215890	aorist
-215903	aorist
-215909	aorist
-215912	aorist
-215914	imperfect
-215918	aorist
-215923	aorist
-215925	aorist
-215928	aorist
-215930	aorist
-215938	aorist
-215943	present
-215945	present
-215949	imperfect
-215955	aorist
-215957	present
-215963	present
-present
-215967	aorist
-aorist
-215986	aorist
-aorist
-215994	present
-present
-215998	aorist
-aorist
-216009	aorist
-216011	aorist
-216013	present
-216015	aorist
-216017	present
-216026	aorist
-216028	aorist
-216039	aorist
-216046	aorist
-imperfect
-216054	present
-216058	present
-aorist
-216062	aorist
-216072	present
-216077	present
-216083	aorist
+215174	future
+215178	present
 future
-216089	aorist
-216099	future
-216103	present
-216105	aorist
-216113	aorist
-216115	aorist
-216119	aorist
-216135	future
-216137	aorist
-216155	present
-216159	present
-216164	perfect
-216169	aorist
-216173	aorist
-216181	aorist
-216196	aorist
-216202	aorist
-216208	aorist
-216210	aorist
-216214	present
-216233	present
-216235	aorist
-216239	imperfect
-216242	imperfect
-216247	aorist
-216251	imperfect
-216258	imperfect
-present
-216274	imperfect
-perfect
-216277	aorist
-216279	aorist
-216292	perfect
-216295	aorist
-216299	present
-216304	aorist
-216315	present
-216318	present
-216320	aorist
-216333	perfect
-216335	present
-216339	present
+215185	perfect
+215188	aorist
+215190	aorist
+215197	aorist
+215202	aorist
+215205	aorist
+215211	aorist
+215214	future
+215217	perfect
+215219	aorist
+imperfect
+215222	perfect
+215224	imperfect
+215227	perfect
 aorist
-216343	imperfect
-216345	aorist
-216350	aorist
-216359	aorist
-216365	present
-216367	present
-216374	perfect
-216376	present
-216381	aorist
-216385	aorist
+215231	aorist
+215235	perfect
+215240	present
+215248	future
+215252	aorist
+215256	future
+215260	imperfect
+present
+215263	imperfect
+present
+aorist
+215270	aorist
+215275	present
+215280	present
+215283	present
+aorist
+215289	present
+215294	aorist
+215302	present
+present
+215306	present
+215311	aorist
+215313	present
+215317	perfect
+215319	present
+215322	present
+present
+215328	aorist
+215330	aorist
+215333	aorist
+aorist
+215339	perfect
+215342	imperfect
+215348	aorist
+215350	aorist
+215353	aorist
+215360	aorist
+215363	imperfect
+present
+215367	aorist
+215369	perfect
+215373	aorist
+215377	aorist
+215380	aorist
+215383	aorist
+215385	future
+215388	aorist
+215391	aorist
+215395	aorist
+215403	aorist
+215409	imperfect
+215413	aorist
+aorist
+215426	aorist
+215428	aorist
+present
+215432	present
+215436	aorist
+215439	present
+215441	present
+aorist
+215448	perfect
+215451	present
+215456	aorist
+215461	aorist
+215465	aorist
+215468	present
+215471	aorist
+215473	present
+215477	aorist
+215479	present
+215483	present
+215486	present
+present
+215491	aorist
+215493	future
+215502	aorist
+215506	aorist
+215511	perfect
+215513	aorist
+215516	aorist
+215518	perfect
+215523	present
+215527	present
+215529	perfect
+215533	present
+215539	perfect
+215542	aorist
+215546	aorist
+215552	aorist
+215558	aorist
+215562	present
+215565	perfect
+215569	aorist
+215572	perfect
+215575	aorist
+215583	aorist
+215587	present
+present
+215592	present
+215595	aorist
+215597	aorist
+215600	present
+215605	aorist
+present
+215611	present
+215615	present
+215618	present
+215623	present
+215625	aorist
+215628	aorist
+215632	present
+215635	perfect
+215637	future
+215640	present
+215644	aorist
+215649	aorist
+215654	aorist
+215657	present
+215660	present
+215671	present
+215674	perfect
+215676	present
+215681	aorist
+215683	present
+215689	present
+215693	pluperfect
+215695	present
+215698	aorist
+215703	present
+215706	aorist
+215710	aorist
+215714	aorist
+215716	aorist
+215718	present
+215720	perfect
+215723	present
+215730	present
+present
+215735	aorist
+215742	present
+215744	present
+215748	aorist
+215753	aorist
+215756	present
+present
+215760	present
+215768	aorist
+215772	perfect
+215774	present
+215776	present
+215781	present
+215783	perfect
+215785	aorist
+215789	aorist
+present
+215793	aorist
+215798	present
+215801	aorist
+215803	present
+215805	aorist
+215808	present
+present
+215811	present
+215813	aorist
+215815	present
+215818	present
+present
+aorist
+215823	aorist
+215825	aorist
+215828	aorist
+215830	aorist
+present
+215836	future
+215838	imperfect
+215841	present
+215843	present
+215854	imperfect
+215856	present
+215860	present
+215862	aorist
+215864	present
+215866	present
+aorist
+215874	present
+215878	present
+present
+215882	present
+215885	future
+215888	future
+215890	aorist
+215893	present
+215895	present
+215901	aorist
+215904	present
+215909	present
+aorist
+215915	aorist
+present
+215918	aorist
+215922	imperfect
+215925	imperfect
+215928	present
+215931	aorist
+215933	present
+215940	aorist
+aorist
+215945	aorist
+215947	imperfect
+215952	aorist
+present
+215956	aorist
+215962	aorist
+215966	aorist
+215970	future
+215975	future
+215981	present
+future
+215986	aorist
+215991	present
+215994	present
+aorist
+215997	present
+216000	present
+216002	present
+216005	aorist
+216008	present
+216011	future
+216015	present
+216018	present
+216020	present
+216024	present
+aorist
+216028	present
+216030	present
+216033	aorist
+future
+216037	present
+216043	present
+216045	aorist
+216050	future
+present
+216056	future
+present
+216061	aorist
+216064	aorist
+216068	present
+216071	present
+216076	present
+216083	present
+216087	aorist
+216090	present
+aorist
+216096	aorist
+216098	aorist
+216102	present
+216104	future
+216109	present
+216112	present
+216116	present
+perfect
+216119	present
+216124	perfect
+216126	present
+216128	perfect
+216130	present
+216134	present
+216141	present
+216148	pluperfect
+216153	pluperfect
+216155	present
+216158	perfect
+present
+216163	aorist
+216167	present
+216169	present
+216174	present
+216177	perfect
+216180	perfect
+216182	perfect
+216186	present
+aorist
+216191	present
+216199	present
+216203	present
+216207	present
+216211	present
+present
+216215	present
+216230	present
+present
+216233	present
+216238	present
+216240	future
+216243	future
+216248	present
+216251	aorist
+216256	future
+216258	aorist
+216264	aorist
+216270	future
+216272	present
+216277	future
+216279	future
+216283	future
+216286	present
+216296	present
+aorist
+216300	present
+216303	present
+216305	present
+216309	present
+216312	future
+216314	future
+216317	present
+216324	present
+216327	present
+216331	present
+216333	future
+216337	future
+216349	present
+216353	present
+216356	present
+present
+216360	present
+216362	future
+216367	future
+216370	future
+216373	present
+216381	perfect
+216384	present
+present
 216390	aorist
 216393	aorist
-216404	perfect
-aorist
-216412	aorist
-216419	aorist
-216425	aorist
-216433	aorist
-present
-216436	present
-216438	aorist
-216449	present
-216451	aorist
-216453	present
-216457	present
-216459	present
+216397	present
+216401	future
+216405	future
+216409	future
+216413	future
+216415	present
+216420	present
+216424	present
+216426	present
+216431	aorist
+216434	perfect
+216437	present
+216444	future
+216451	future
+216454	future
+216458	aorist
+216462	present
 216466	present
 216470	present
-216473	aorist
-216480	aorist
-216484	aorist
+216472	present
+216475	present
+216479	present
 aorist
-216490	aorist
-216497	perfect
-216501	future
-216506	future
-216508	aorist
-216517	present
-216519	aorist
-216525	aorist
+216483	aorist
+216485	present
+216487	present
+216490	imperfect
+216492	aorist
+216494	present
+216501	present
+216504	perfect
+216506	aorist
+216509	aorist
 aorist
-216539	aorist
-216544	aorist
-216551	imperfect
-216565	present
-216571	imperfect
-aorist
-216580	aorist
-216602	present
+216513	future
+216515	present
+216523	present
+216527	aorist
+216530	present
+216534	aorist
+216538	present
 present
-216611	imperfect
-216619	imperfect
-perfect
-216626	aorist
-216629	imperfect
-aorist
-216639	aorist
+present
+216543	present
+216551	present
+216557	present
+216559	present
+216564	present
+present
+216569	present
+216573	present
+216577	perfect
+216579	aorist
+216586	present
+216588	present
+216592	present
+216601	present
+216603	present
+216607	present
+216612	present
+216617	present
+present
+216623	present
+216625	aorist
+216630	aorist
+216632	present
+216637	present
+216639	present
+216641	aorist
+216647	aorist
 216649	present
-216656	perfect
-216666	aorist
-216668	aorist
-216674	aorist
+aorist
+216652	future
+216655	aorist
+216659	present
+216661	future
+216664	aorist
+216669	aorist
+aorist
 216678	aorist
-216692	present
-216697	aorist
-present
-216700	aorist
-216710	present
-216712	present
-216714	aorist
-216719	aorist
-216721	aorist
-216730	present
-216733	imperfect
+future
+216689	perfect
+216691	present
+216696	perfect
+216703	present
+216707	aorist
+216709	present
+216713	present
+216716	aorist
+216721	present
+216726	aorist
+216732	present
+216734	present
 216737	present
-216741	aorist
+216740	present
+216746	perfect
 216748	present
-216752	present
-216759	present
-aorist
-216765	present
-216780	aorist
-216782	present
-216787	aorist
-216795	aorist
-aorist
-216803	aorist
-216807	aorist
-216816	imperfect
+216753	perfect
+216758	aorist
+216762	aorist
+216766	aorist
+216769	aorist
+216772	aorist
+216776	present
+216779	present
+216783	present
+216786	aorist
+216791	aorist
+216794	present
+216796	present
+216801	present
 present
-216821	aorist
-216829	aorist
-216831	present
-aorist
+216806	perfect
+216810	imperfect
+216813	imperfect
+216819	present
+216822	aorist
+216827	present
+216830	present
 216834	aorist
-216841	aorist
-216843	aorist
-216845	aorist
-216848	aorist
-216855	present
-216862	aorist
-216867	future
-216871	present
-216873	aorist
-216882	present
-216901	present
-216906	present
+216837	present
+216844	aorist
+216846	future
+216850	aorist
+216853	future
+216856	future
+216863	perfect
 aorist
-216912	present
-216916	aorist
+216868	aorist
+216870	aorist
+216874	imperfect
+216879	present
+216884	present
+216888	present
+216892	aorist
+216896	aorist
+216899	imperfect
+216910	aorist
+216915	perfect
 aorist
 216920	aorist
-aorist
-216927	aorist
-216930	aorist
-216934	aorist
-216942	aorist
-present
-216951	aorist
-216956	future
+216924	future
+216934	present
+216936	future
+216940	present
+216944	present
+216946	perfect
+216950	aorist
+216952	future
+216955	present
+216959	aorist
 216961	aorist
-216963	aorist
-216973	aorist
-216982	aorist
-216990	present
-216997	present
-217009	aorist
-217017	aorist
-217035	imperfect
-217037	present
-imperfect
-217053	aorist
-217064	aorist
-217072	present
-aorist
+216963	present
+216967	future
+216970	aorist
+216976	perfect
+216980	aorist
+216983	present
+216987	aorist
+216994	aorist
+216997	imperfect
+217000	present
+217002	aorist
+217007	present
+217010	present
+217014	perfect
+217017	perfect
+217023	present
+217025	present
+217029	aorist
+217033	aorist
+217036	aorist
+217040	aorist
+future
+217045	aorist
+217047	future
+217058	present
+217065	present
+217068	present
+217077	perfect
+217080	present
+217082	present
+217085	present
 present
-217084	present
-217097	aorist
-217104	aorist
+217090	aorist
+217094	future
+217100	future
+217104	present
+future
 217107	present
-217117	present
-217121	future
-217136	future
-217145	present
-present
-217148	present
-217165	present
-217179	present
-217181	present
+future
+217112	future
+217116	future
+217118	future
+217122	present
+217125	present
+217127	aorist
+217131	present
+217133	future
+217138	present
+217144	future
+217146	aorist
+217153	present
+217155	present
+217160	present
+217166	future
+217170	present
+217173	imperfect
+217176	present
+217178	present
+217181	perfect
 217183	present
-217185	present
-217188	present
-217197	present
-217199	perfect
-217217	aorist
-217220	present
-217222	aorist
-217230	aorist
+aorist
+217187	imperfect
+217189	present
+217191	aorist
+217194	present
+217197	aorist
+217201	present
+217207	future
+217209	present
+217212	future
+217214	future
+217218	future
+217220	future
+217225	future
+217228	present
+217230	present
+217232	aorist
 217237	aorist
-217251	present
-217255	present
-217257	perfect
-217265	present
-217277	future
-217297	aorist
-217302	aorist
-217313	present
+217240	present
+217245	aorist
+217254	present
+217257	future
+217260	future
+217267	present
+217275	future
+217277	present
+217280	aorist
+217282	future
+217289	aorist
+217294	present
+217296	future
+217303	perfect
+217305	present
+217308	future
+217314	future
+217322	future
+217325	present
+217329	future
+217335	present
+217340	perfect
+217342	perfect
+217347	aorist
 aorist
-217320	future
-217335	future
-217341	future
-217343	present
-217346	present
-217349	present
-217352	present
+217352	perfect
 217356	present
-present
-217359	aorist
-217361	aorist
-217369	present
-217376	present
-217385	aorist
-217388	imperfect
-217399	aorist
+217359	present
+217362	present
+217365	aorist
+217368	present
+217372	present
+217374	perfect
+217376	perfect
+217381	present
+217385	present
+217387	present
+217390	aorist
 aorist
-perfect
-217407	present
-217431	future
-217437	present
-217443	present
+217395	present
+aorist
 present
-217452	perfect
-217465	aorist
-217474	aorist
-present
+217400	perfect
+217402	aorist
+217408	aorist
+217411	present
+217416	present
+217418	perfect
+217423	present
+217427	present
+217429	present
+217431	perfect
+217434	aorist
+217437	aorist
+217442	aorist
+217444	perfect
+217446	aorist
+217451	aorist
+217454	aorist
+217461	perfect
+217463	future
+217468	present
+217471	present
+217477	aorist
+217480	aorist
+217484	aorist
+217486	perfect
 217488	aorist
-217496	aorist
-217506	aorist
-217512	aorist
-217522	present
-217524	present
-217535	present
-217547	present
+217491	aorist
+217498	imperfect
+217501	present
+217503	aorist
+217508	aorist
+217513	imperfect
+217516	aorist
+217520	perfect
+217522	perfect
+217526	perfect
+217529	present
+217533	aorist
+217535	perfect
+217539	aorist
+217541	aorist
+217545	aorist
+217547	aorist
 217551	aorist
-217553	aorist
-217562	aorist
-217568	present
+217554	present
+217557	present
+217561	perfect
+217565	present
 217570	present
-present
-217580	aorist
-aorist
-217584	present
-217587	aorist
-217589	aorist
-217591	present
-217594	aorist
-217596	aorist
-217600	aorist
-present
-217603	present
-217606	aorist
-217610	future
-217613	aorist
-217623	perfect
-217625	present
-217628	aorist
-aorist
-future
-217684	aorist
+217575	perfect
+217579	present
+217586	present
+217589	present
+217591	aorist
+217597	perfect
+217600	present
+217605	imperfect
+217608	imperfect
+217614	perfect
+217617	aorist
+217621	aorist
+217629	aorist
+217633	present
+217636	present
+217640	present
+217644	perfect
+217647	perfect
+217653	aorist
+217657	present
+217663	present
+217666	present
+217668	aorist
+217674	aorist
+217681	present
+217685	present
 217688	aorist
-217690	present
-217692	future
-217695	present
-aorist
-217698	aorist
-217706	present
-217710	aorist
-217714	aorist
-217718	imperfect
-217727	aorist
-217730	aorist
-217734	aorist
-aorist
-aorist
-217745	imperfect
-217754	aorist
-217756	aorist
-217767	aorist
-217769	aorist
-aorist
-217775	present
-aorist
-217781	aorist
-aorist
-217784	aorist
-aorist
-217791	present
-217795	aorist
-217805	aorist
-217811	aorist
-217819	aorist
-217823	aorist
-217828	aorist
-aorist
+217696	present
+217699	aorist
+217703	aorist
+217710	present
+217718	present
+217723	present
+217731	present
+217741	present
+217744	present
+217748	aorist
+217752	perfect
+217754	perfect
+217757	present
+217771	present
+217776	aorist
+217778	aorist
+217782	aorist
+217785	perfect
+217787	present
+217790	present
+217793	present
+217796	present
+217801	perfect
+217804	aorist
+217813	aorist
+217817	aorist
+217820	aorist
+217824	aorist
+217826	aorist
+217831	future
 217835	aorist
-217840	present
-217842	future
-217853	present
-217855	perfect
-217857	aorist
-217865	aorist
+217838	present
+217842	aorist
+217844	aorist
+217853	imperfect
+217855	aorist
+217859	pluperfect
+217862	present
 217867	aorist
-217874	aorist
-217880	present
-217883	present
-217889	present
-217892	aorist
-217905	aorist
-217914	imperfect
-217917	present
-217921	aorist
-217931	imperfect
-217941	imperfect
-217947	aorist
-217949	aorist
-217952	present
-217963	imperfect
-present
+217875	aorist
+217884	present
+217891	perfect
+217893	present
+217895	aorist
+217897	present
+217900	present
 aorist
-217970	aorist
+217904	present
+217907	present
+pluperfect
+217911	present
+217916	aorist
+217919	present
 aorist
+217924	aorist
+217928	aorist
+217931	present
+217934	aorist
+217936	aorist
+217938	aorist
+217942	present
+217946	present
+aorist
+217949	present
+217951	aorist
+217954	aorist
+217956	perfect
+217959	aorist
+217963	present
+217965	aorist
+217968	aorist
 217973	aorist
-217980	present
-217982	present
-217989	present
-218000	aorist
-218003	future
+217978	imperfect
+217983	aorist
+217987	aorist
+217993	perfect
+217996	aorist
 218006	aorist
-218011	present
-218018	present
-218020	aorist
-aorist
-218033	aorist
-218035	present
-218040	aorist
-218046	aorist
-218050	present
-present
-218053	aorist
+218009	aorist
+218012	aorist
+218015	imperfect
+218020	imperfect
+218024	imperfect
+218027	aorist
+218030	present
+218032	aorist
+218035	imperfect
+218043	imperfect
+218047	aorist
+218055	pluperfect
 218059	aorist
-218074	present
-218082	aorist
-218093	present
-218096	present
-218100	aorist
-218106	aorist
-218115	future
-218118	future
-218124	aorist
+218068	aorist
+218071	aorist
+218073	present
+218082	present
+218085	present
+218088	present
+pluperfect
+218095	perfect
+218098	imperfect
+218100	imperfect
+218109	aorist
+218118	aorist
+218123	perfect
 218127	aorist
-218136	aorist
-218145	present
-218147	future
-218151	aorist
+218135	present
+218138	aorist
+218142	present
 aorist
-218156	present
-218161	perfect
-218176	present
-218178	present
+perfect
+218146	aorist
+218148	aorist
+218150	perfect
+218152	aorist
+218157	aorist
+218160	perfect
+218162	aorist
+218165	aorist
+218167	present
+218169	aorist
+218174	aorist
 aorist
+218183	present
 aorist
-218182	present
-218187	future
-218189	aorist
-218193	present
+218188	perfect
+218194	aorist
+218201	present
+aorist
 218205	aorist
-future
-218209	present
-218212	present
+218207	present
 present
-218215	future
-218217	present
-218219	future
+218216	present
+218218	aorist
+218223	aorist
+218229	aorist
+218234	aorist
 present
-218222	future
-218228	present
-present
-218232	present
-present
-218236	present
-future
-218247	future
-218258	future
-218261	future
-218263	future
-218270	present
-perfect
-218275	present
-218292	future
-218297	present
-218301	imperfect
-present
-218306	imperfect
-218308	aorist
-218313	aorist
+218242	imperfect
+218248	aorist
+218253	aorist
+218255	aorist
+218257	aorist
+218263	present
+218266	present
+218269	aorist
+218271	aorist
+218280	aorist
+218282	aorist
+218286	aorist
+218293	aorist
+218295	aorist
+218300	present
 aorist
-218319	aorist
-218329	aorist
-218340	present
+218307	aorist
+218309	aorist
+present
+218312	imperfect
+present
+aorist
+218321	aorist
+218324	aorist
+218327	present
+218331	aorist
+218336	present
+218339	aorist
+218342	aorist
 218346	present
-218352	imperfect
-218358	perfect
-218364	aorist
-218373	aorist
-present
-218380	present
+218352	aorist
+218356	aorist
+aorist
+218363	present
+218371	imperfect
+218378	imperfect
+218381	aorist
+218389	present
 218391	aorist
-218393	future
-218400	present
-218404	present
-218415	present
-218427	present
-218435	future
-218444	present
-218449	aorist
-218464	perfect
-present
-218474	present
-218477	present
+218397	present
+218399	aorist
+218402	present
+218405	present
+218408	perfect
+218411	perfect
+218415	aorist
+218418	present
+218421	present
+218424	present
+218428	present
+218432	aorist
+218434	aorist
+218438	present
+218442	present
+218445	present
+218450	aorist
+218454	present
+218456	aorist
+218461	aorist
+218464	present
+218468	imperfect
+218474	aorist
+218478	aorist
+218481	aorist
 218484	aorist
-aorist
-218492	present
-218496	pluperfect
-218503	present
-218506	present
-218513	present
-218517	present
+218489	aorist
+218492	imperfect
+218495	imperfect
+present
+218501	imperfect
+218505	aorist
+218510	present
+218512	aorist
+present
+218518	aorist
 218521	present
-218528	aorist
+218523	aorist
+218527	present
 218534	present
-218540	present
-218544	present
+218536	aorist
+218540	aorist
+218545	aorist
 present
-future
-218555	aorist
-218557	aorist
+aorist
+aorist
 present
+218552	aorist
+218556	aorist
+218560	present
+218563	aorist
+218568	present
+218572	present
+aorist
+218577	aorist
+218580	aorist
+218585	aorist
+218587	aorist
+218592	present
+218595	present
+218601	aorist
+218603	present
+218608	present
 perfect
-218561	perfect
-218563	present
-218565	present
-218576	aorist
-present
-218580	present
-218594	aorist
-218599	present
-218602	aorist
-218613	aorist
+218612	present
+aorist
+218617	present
+aorist
 218620	aorist
-218625	aorist
-218628	aorist
-218633	present
-218642	present
-218647	present
+218623	imperfect
+218632	aorist
+218636	present
+218639	imperfect
 aorist
+218644	aorist
 present
-218658	present
-218660	present
-218664	future
-218675	aorist
-218682	future
-218700	future
-218718	future
-218721	aorist
-218731	aorist
-218738	aorist
-218745	future
-218759	future
-218762	aorist
-218771	aorist
-218778	aorist
-218782	present
-218797	present
-218801	present
-218809	present
-218822	present
-218833	present
-218837	present
-218846	present
-218858	present
-218870	present
-218876	future
-218888	present
-218894	aorist
+218648	aorist
+218650	present
+218656	present
 present
-218899	aorist
-218903	aorist
-218905	aorist
-218910	aorist
+218661	aorist
+218664	aorist
+218668	aorist
+218672	present
+218677	imperfect
+218682	imperfect
+218685	present
+218687	aorist
+218690	aorist
+218693	aorist
 aorist
-218915	aorist
-218921	aorist
-218945	present
-218952	present
-218959	aorist
-218968	aorist
-218971	present
 aorist
-218975	aorist
-218979	present
-218987	present
-219000	present
-219014	imperfect
+218697	present
+218702	aorist
 aorist
-219018	aorist
-219025	present
-219048	present
-219063	present
-219066	perfect
+218706	present
+218713	aorist
+218717	aorist
 aorist
-219074	present
-219078	present
-219082	present
-219085	aorist
-219094	present
-219111	present
-219118	present
-219132	aorist
-219136	present
-219138	present
-219151	aorist
-219155	present
-219168	aorist
-future
-219180	future
-219182	future
-219184	aorist
-219195	perfect
-219219	aorist
-219230	present
-219232	future
-219246	aorist
-219256	aorist
-219259	present
-aorist
-219262	aorist
-219264	aorist
-219273	present
-219275	present
-219280	present
-219282	aorist
-219294	aorist
-219303	present
-219305	aorist
-present
-219315	present
-219324	present
-219331	perfect
-present
-219335	future
-219340	future
-219350	aorist
-219356	future
-219364	aorist
-219370	future
-219376	present
-219385	aorist
-219389	present
-219398	present
-219402	aorist
-future
-219407	aorist
-aorist
-219413	aorist
-present
-219416	aorist
-219423	present
-219426	aorist
-219431	present
-219443	present
+218722	present
+218725	aorist
+218727	present
+218730	present
+218735	aorist
+218743	aorist
+218748	aorist
+218761	aorist
+218765	imperfect
+218769	aorist
+218773	imperfect
+218779	present
+218786	aorist
+218788	present
+218790	aorist
+218793	perfect
 perfect
-219464	perfect
-219466	present
-219470	present
+218798	aorist
+218800	aorist
+218804	aorist
+218810	imperfect
+218818	aorist
+218821	aorist
+218824	aorist
+218827	future
+218830	aorist
+aorist
+218839	aorist
+218845	aorist
+pluperfect
+218865	aorist
+218869	perfect
+218871	imperfect
 present
-219478	aorist
-219496	future
-219511	aorist
-219518	future
-219532	future
-219543	future
-219554	aorist
-219556	future
-219559	present
-219575	aorist
-219579	aorist
-219582	aorist
-219589	future
-219599	present
+218875	aorist
+218879	present
+218881	aorist
+218888	aorist
+218894	perfect
+218899	perfect
+218901	aorist
+218903	present
+present
+218906	imperfect
+218913	aorist
 aorist
+218919	aorist
+218922	aorist
+perfect
+218925	aorist
+218927	aorist
+218933	imperfect
+218936	aorist
+218942	imperfect
+218949	aorist
+218952	aorist
+218956	aorist
 aorist
-219612	aorist
-219618	aorist
-219627	aorist
-219632	aorist
-219640	aorist
-219645	present
-219647	present
-219658	present
-219665	present
-219669	present
-219671	aorist
-219677	present
-219684	aorist
-219689	imperfect
-219693	present
-219695	aorist
-219698	present
-219700	future
-219707	aorist
-219709	future
+218965	aorist
+218968	aorist
+218973	aorist
+218975	aorist
+218978	perfect
+aorist
+218988	aorist
+218990	aorist
+218994	perfect
+perfect
+218999	present
+219003	perfect
+219006	present
+219009	present
+aorist
+219015	aorist
+219018	future
+219022	present
 future
-219718	future
-219720	future
-219734	future
-219741	present
-219746	present
-219752	present
-aorist
-aorist
+219026	aorist
+219029	aorist
+219033	present
+219036	perfect
+219043	aorist
+219048	aorist
+219050	aorist
+219053	aorist
+219056	aorist
+219059	aorist
+219063	present
+219068	aorist
+219074	aorist
+219081	present
+219083	present
+imperfect
+219089	aorist
+219107	imperfect
+219109	aorist
+219116	present
+219120	present
+219124	present
+219126	perfect
+219129	present
+219132	present
+219139	imperfect
+219142	present
+219144	aorist
+219150	perfect
+219152	aorist
+219154	aorist
+219161	imperfect
+219164	imperfect
+219171	aorist
+219175	aorist
+219180	aorist
 present
+present
+219186	aorist
+present
+219190	present
+219193	aorist
+219197	present
+219199	present
+219203	imperfect
+219209	present
+219212	perfect
+219217	aorist
+219221	aorist
+219226	aorist
+219228	aorist
+219231	pluperfect
+219233	present
+219236	aorist
 aorist
-219773	present
-219779	aorist
-219781	future
-219784	present
+219244	pluperfect
+219248	present
+219251	imperfect
+aorist
+219256	present
+219260	present
+219269	imperfect
+219274	present
+219279	present
+present
+219283	aorist
+219288	perfect
+219290	aorist
+219293	aorist
+aorist
+219298	present
+219300	perfect
+219303	pluperfect
+219306	present
+present
+219312	present
+219314	present
+219316	present
+219319	present
+present
+219325	aorist
+219327	aorist
+219330	aorist
+219334	future
+present
+219339	aorist
+219341	present
+219345	present
+219347	present
+219352	present
+219355	perfect
+219358	present
+219364	aorist
+219366	present
+219376	present
+219378	present
+219381	perfect
+219385	aorist
+219387	present
+219396	perfect
+219398	imperfect
+219404	aorist
+219407	aorist
+219411	present
+219417	aorist
+aorist
+219424	aorist
+219427	aorist
+219429	aorist
+219437	perfect
+219441	present
+219445	aorist
+aorist
+219448	present
+219450	aorist
+219453	aorist
+219455	perfect
+219458	present
+perfect
+219464	present
+219467	imperfect
+219470	aorist
+219472	imperfect
+219477	perfect
+219481	aorist
+219485	aorist
+219493	aorist
+219501	aorist
+219508	aorist
+219513	imperfect
+219520	present
+219523	perfect
+219525	aorist
+219529	aorist
+219533	present
+219535	present
+219540	aorist
+219544	present
+219548	aorist
+219553	present
+219557	aorist
+219560	aorist
+219567	present
+219571	perfect
+219573	perfect
+219576	aorist
+219578	aorist
+219584	aorist
+219596	perfect
+219598	present
+219601	present
+219608	present
+219610	present
+219615	aorist
+219624	aorist
+219627	imperfect
+219630	present
+219646	present
+219648	present
+present
+present
+219652	present
+219655	aorist
+219657	aorist
+219664	aorist
+219669	present
+aorist
+219676	pluperfect
+219680	present
+present
+219687	present
+aorist
+219693	aorist
+219695	aorist
+219703	future
+aorist
+219709	aorist
+imperfect
+219715	present
+219720	imperfect
+219724	present
+219726	aorist
+219729	present
+219731	aorist
+imperfect
+219736	aorist
+219744	aorist
+219746	imperfect
+219754	present
+219760	aorist
+219763	present
+219765	present
+219768	present
+219771	present
+219774	aorist
+219778	aorist
+219780	aorist
+219782	aorist
 219791	present
+219793	aorist
+219795	present
+219798	present
 aorist
-219804	present
+219801	imperfect
+219803	aorist
 219807	present
-219812	aorist
-219818	aorist
-219824	present
-219835	aorist
-219841	present
-219843	present
-219846	present
-219854	present
-219860	present
-219870	present
+perfect
+219811	present
 present
-219879	aorist
-219885	present
-219892	present
-aorist
+219815	present
+219818	present
+219825	aorist
+219828	aorist
+219832	aorist
+present
+219837	present
+219840	present
+219845	perfect
+219847	present
+219849	present
+219851	present
+219854	present
+219859	present
+219861	present
+219866	perfect
+219868	present
+219870	present
+219872	present
+219875	present
+219879	present
+219881	aorist
+219884	aorist
+219887	present
+219890	aorist
+219895	perfect
+219897	present
 219899	present
 219901	present
+219904	present
+219907	present
+219910	imperfect
+219912	imperfect
+219915	imperfect
+219917	imperfect
+219920	aorist
+future
+219926	future
+219929	future
+219932	present
+219935	aorist
 present
-219916	aorist
-219930	present
-219937	present
-219942	present
-219952	present
-219954	aorist
+219938	future
+219942	aorist
+present
+219945	present
+219947	aorist
+219949	present
+219952	imperfect
+219954	present
 219957	aorist
-219960	present
-219972	present
-219979	perfect
-219981	present
-219984	present
-219992	future
-219995	present
-220002	aorist
-220008	aorist
-220013	aorist
-220016	present
-220019	aorist
-220021	aorist
-220026	present
-220039	present
-220042	present
-220045	present
-220059	future
+219964	aorist
+219967	present
 present
-220066	perfect
-220071	present
-220077	present
-220084	aorist
-220091	aorist
-220093	aorist
-220095	aorist
-220104	aorist
-220108	future
+219972	aorist
+219974	present
+219980	present
+219985	present
 present
-220111	present
-220114	future
-220116	future
-220119	aorist
-future
-220136	aorist
+219988	present
+219993	present
+aorist
+220003	present
+aorist
+220010	present
+220014	present
+present
+220017	present
+220021	present
+220023	present
+220026	aorist
+220029	perfect
+220034	present
+present
+220040	aorist
+220044	present
+220048	present
+220050	future
+220053	present
+220056	aorist
+220061	aorist
+220067	aorist
+220072	aorist
+aorist
+220076	aorist
+220078	present
+220080	aorist
+220086	present
+220089	present
+220096	present
+aorist
+220101	present
+220103	present
+220108	aorist
+220113	aorist
+220119	future
+220127	aorist
+imperfect
+220130	present
+220135	present
 220138	aorist
-220141	present
-220145	present
-220148	pluperfect
-220158	present
-220161	aorist
+220142	present
 aorist
-220171	present
-220178	present
-220186	present
-aorist
-220201	present
-220208	aorist
-220214	present
-220225	future
-220237	present
-220251	aorist
-220257	future
+220147	aorist
+220152	future
+220154	aorist
+220159	future
+220174	aorist
 present
-220261	present
-220270	present
-220272	future
-220276	aorist
-220289	present
-220295	present
-220297	aorist
+220177	aorist
+220180	aorist
+220190	present
+220192	aorist
+220194	pluperfect
+220200	aorist
+220204	perfect
 present
-220306	present
-220309	present
-220311	present
-future
-220327	present
-220334	present
-220336	future
-220349	future
-220357	aorist
-220369	aorist
-220371	aorist
-220379	future
-220384	aorist
+220210	aorist
+220215	future
+220217	aorist
+220219	present
+220223	aorist
+220226	present
+220229	present
+220232	present
+220235	aorist
+220238	aorist
+220270	aorist
+220275	aorist
+imperfect
+220285	imperfect
 aorist
-220390	future
-220396	aorist
-220399	future
-220405	aorist
-220408	future
-220411	aorist
+220289	aorist
+220296	aorist
+220298	aorist
+220304	aorist
+220312	aorist
+220319	aorist
 aorist
-220420	present
+220323	aorist
+220329	aorist
+220331	present
+220334	aorist
+220341	present
+220343	perfect
+220347	aorist
+220353	present
+present
+220359	aorist
+220361	present
+220365	aorist
+220373	aorist
+220380	aorist
+220386	aorist
+220389	aorist
+present
+220393	aorist
+220397	aorist
+aorist
+220401	aorist
+220403	aorist
+220408	aorist
+220415	aorist
+220417	aorist
 220423	aorist
-220426	present
+220427	aorist
+220431	aorist
+220437	present
+220441	imperfect
+220447	aorist
+220453	present
+220456	aorist
+220462	aorist
+220464	present
+220469	aorist
+220474	aorist
+220478	aorist
+present
+220483	imperfect
+present
+220496	aorist
+220500	aorist
+220503	aorist
+220505	imperfect
+220509	present
+220511	imperfect
+220514	imperfect
+present
 aorist
-220430	present
-220434	aorist
+220518	present
 present
-220438	aorist
-aorist
-220446	present
-220453	future
-220467	perfect
-220477	future
-220513	imperfect
-220521	aorist
-220523	present
-220528	present
-220531	present
-220533	present
-220538	present
+220524	present
+220530	aorist
+220534	present
+220551	present
+220555	present
 present
-220542	future
-220544	present
-220557	perfect
-present
-220567	present
-220576	present
-220582	present
-220598	aorist
-220600	perfect
-220606	aorist
-220618	future
-220627	future
-220631	present
-220636	aorist
-220646	aorist
+220563	imperfect
+220567	imperfect
+220570	present
+220572	present
+220574	present
+220577	present
 imperfect
-220657	present
-220670	aorist
-220679	aorist
-aorist
-220682	present
-220697	aorist
-220700	perfect
-220702	present
-220707	present
-220710	future
-220721	aorist
-220732	aorist
-220734	present
-220738	aorist
-220747	present
-220750	present
-220755	aorist
-220758	future
-imperfect
-220767	imperfect
-220769	perfect
-220778	aorist
+220582	aorist
+220587	aorist
+220591	aorist
+220596	present
+220601	present
+220603	aorist
+220609	present
+220611	present
 present
-220786	aorist
+220619	present
+perfect
+220624	future
+220628	present
+220630	future
+220637	future
+220647	future
+220652	future
+220665	future
+220670	future
+220672	future
+220686	future
+220691	aorist
+220697	future
+220700	aorist
+220703	future
+220706	aorist
+220711	perfect
+220718	aorist
+220725	perfect
+220730	perfect
+220736	aorist
 aorist
+220740	aorist
+aorist
+220747	imperfect
+220749	present
+220754	present
+220756	imperfect
+220763	present
+220766	aorist
+220768	aorist
+220772	aorist
+220780	future
+220784	future
+220789	future
+220792	aorist
 220794	aorist
-220801	present
-present
-220813	present
+220797	future
+220805	present
 aorist
+220817	present
 220824	present
-220827	aorist
-present
-220831	aorist
-220843	aorist
+220826	perfect
+220829	aorist
+220836	aorist
+220840	aorist
+aorist
 220848	aorist
-220852	aorist
-220857	present
-220861	future
-220864	imperfect
-220866	present
-220880	aorist
-220885	present
-220892	imperfect
-present
-220896	present
+220853	aorist
+220857	aorist
+220861	present
+220867	aorist
+220874	aorist
+220877	aorist
+220885	aorist
+220888	present
+220891	aorist
+220895	present
+220899	aorist
+220907	present
+220913	aorist
+220919	aorist
 aorist
-220903	aorist
-220909	aorist
-220911	aorist
-220914	perfect
-220921	aorist
-220928	aorist
-220930	imperfect
-220934	aorist
-220939	present
-220944	aorist
-220948	imperfect
-220956	present
-220960	present
-present
-220966	present
-present
-220977	aorist
-220984	aorist
-220993	present
-221009	aorist
-present
-221017	present
-221019	aorist
-221023	aorist
-221030	imperfect
+220922	aorist
+220924	aorist
+220932	aorist
+220938	aorist
+220940	aorist
+220950	future
+220957	present
+220967	aorist
+220973	aorist
+220975	imperfect
+220977	present
 aorist
-221048	present
+220986	aorist
+220989	aorist
+220991	aorist
+221009	imperfect
+221018	imperfect
+221021	aorist
+221024	imperfect
+221031	imperfect
+221033	imperfect
+221039	imperfect
+221042	present
+221046	present
 221050	imperfect
-221054	present
-221062	imperfect
-221071	present
-221075	imperfect
-221079	present
-221089	future
-221092	present
-221097	aorist
-221099	aorist
-221106	aorist
-221108	aorist
-221120	aorist
-221130	aorist
-221132	future
-221141	present
-221144	aorist
-221146	aorist
-221157	aorist
-221160	imperfect
-221166	present
-221169	present
-221173	aorist
-221181	present
-221184	aorist
-221188	present
-aorist
-221199	present
-221201	future
-aorist
-221205	future
-221210	aorist
-221215	aorist
-221220	aorist
-221222	perfect
-221224	present
-221228	present
-221230	aorist
-221233	aorist
-future
-221237	perfect
-221240	present
-221242	future
+221055	present
+221058	present
+221065	imperfect
 present
-aorist
-221249	aorist
-221258	aorist
-221260	future
-present
-221264	perfect
-221266	present
-aorist
-221277	future
-221290	aorist
-221313	present
-221316	future
-221329	future
-221340	aorist
-present
-221344	future
-221347	present
-221350	future
-221359	aorist
-221363	present
-221365	aorist
-221367	present
-221371	present
-221373	aorist
-221375	aorist
-221377	aorist
-aorist
-221384	aorist
-present
-221389	present
-221397	present
-221399	present
-221406	present
-present
-221410	present
-221412	aorist
-221419	present
-221424	present
-221426	perfect
-221431	aorist
-aorist
-221454	aorist
-aorist
-present
-221463	present
-221469	aorist
-221472	future
-221474	aorist
-perfect
-221477	present
-221484	aorist
-221488	aorist
-221504	aorist
-221509	imperfect
-present
-221513	aorist
-221518	imperfect
-221524	aorist
-221528	aorist
-221536	present
-present
-221541	aorist
-221546	aorist
-221548	aorist
-aorist
-221552	aorist
-221557	aorist
-221568	future
-221572	future
-221583	aorist
-aorist
-221588	imperfect
-221593	perfect
-221595	present
-221600	imperfect
-present
-221606	aorist
-221614	aorist
-221626	present
-perfect
-221632	aorist
-221637	aorist
-future
-221640	aorist
-221645	aorist
-221654	present
-221657	aorist
-aorist
-aorist
-221669	aorist
-221671	perfect
-221673	future
-221676	aorist
-221679	future
-221687	present
-221693	present
-221695	future
-221698	present
-221700	future
+221072	imperfect
+221087	present
 imperfect
-221706	perfect
+221090	imperfect
+221096	present
+221098	present
+221101	present
+221105	aorist
+221107	present
+present
+221111	imperfect
+221113	aorist
+aorist
+221120	aorist
+aorist
+221125	imperfect
+221127	present
+221130	aorist
+aorist
+221136	present
+221140	present
+221143	present
+221148	present
+221150	aorist
+221154	aorist
+221158	aorist
+221164	present
+aorist
+221167	imperfect
+221169	aorist
+221173	present
+221175	present
+221177	present
+221180	aorist
+221184	present
+221186	present
+221188	imperfect
+221193	imperfect
+221196	present
+221203	aorist
+221206	perfect
+221208	present
+221214	aorist
+221220	present
+221223	aorist
+221226	aorist
+221232	present
+221237	present
+221241	perfect
+present
+221252	aorist
+221257	aorist
+221259	aorist
+221262	aorist
+221264	present
+221269	aorist
+221271	aorist
+aorist
+221278	aorist
+221281	aorist
+221286	present
+221295	aorist
+221302	aorist
+221311	perfect
+221314	aorist
+221322	aorist
+221327	aorist
+221330	aorist
+221335	aorist
+221339	aorist
+221345	aorist
+221348	perfect
+221351	present
+221353	aorist
+221358	aorist
+221369	aorist
+221373	future
+221381	future
+221385	aorist
+221387	future
+221392	aorist
+221395	future
+221407	aorist
+221409	aorist
+221413	present
+221421	aorist
+221425	present
+221431	future
+221438	aorist
+221442	aorist
+221444	present
+221447	present
+221452	present
+221457	aorist
+221466	present
+221468	present
+221472	present
+221479	aorist
+221483	aorist
+221487	imperfect
+221493	aorist
+221495	aorist
+221497	aorist
+221502	aorist
+221506	aorist
+221521	imperfect
+221525	aorist
+221529	imperfect
+221535	aorist
+221540	aorist
+221542	aorist
+221550	present
+221556	perfect
+221558	present
+221571	aorist
+221574	aorist
+221578	perfect
+221582	present
+221584	aorist
+221587	aorist
+221592	present
+221599	present
+221602	perfect
+221605	present
+aorist
+221608	present
+221615	aorist
+221618	present
+221621	imperfect
+imperfect
+221628	imperfect
+221631	present
+221633	perfect
+perfect
+221636	imperfect
+aorist
+aorist
+221643	aorist
+imperfect
+221646	present
+221648	aorist
+221655	perfect
+221658	present
+221663	present
+present
+221669	aorist
+221672	aorist
+221675	present
+221681	aorist
+221683	aorist
+221694	aorist
+aorist
+221699	present
+221703	present
+221707	aorist
 221709	present
-221714	present
-221741	aorist
-221744	aorist
-221750	present
-present
-221758	future
-221761	present
+221715	present
+221718	aorist
 aorist
-221764	future
-221776	aorist
-221781	present
-221783	aorist
-221787	future
-221800	aorist
-221805	imperfect
+221722	present
+221724	aorist
+221730	imperfect
+221733	perfect
+221736	imperfect
+221740	pluperfect
+221745	aorist
+221747	aorist
+221751	aorist
+221757	aorist
+221760	aorist
+221762	aorist
+221767	aorist
+221770	aorist
+221786	aorist
+221789	aorist
+221793	aorist
+221795	aorist
+221801	aorist
 221810	aorist
-221813	aorist
-221826	aorist
-221828	perfect
-present
-221833	present
-221835	aorist
-221840	present
-221844	aorist
-221847	aorist
-221849	present
-221851	aorist
+221821	aorist
+221827	aorist
+221833	aorist
 aorist
-221854	present
-221856	present
-221858	perfect
-221861	aorist
+221838	aorist
+221843	aorist
+221848	present
+221853	present
+221858	present
 221866	aorist
-221869	present
-aorist
-221872	present
-221874	present
-221876	perfect
-221879	aorist
-221881	aorist
-221887	present
-aorist
-221890	aorist
-221894	aorist
-221902	aorist
-221906	aorist
-221912	aorist
-221935	aorist
-221938	aorist
-221943	perfect
-221945	aorist
-221949	present
-221951	aorist
-221960	aorist
-221969	aorist
-aorist
-221972	aorist
-221978	present
-221990	perfect
-future
-221997	imperfect
-222004	aorist
-aorist
-222011	present
-222017	present
-222054	present
+221868	aorist
+221873	aorist
+221878	imperfect
+221887	aorist
+imperfect
+221894	present
+221896	imperfect
+221898	present
+221900	imperfect
+221906	imperfect
+221915	imperfect
+221921	imperfect
+221927	imperfect
 present
-222061	present
-222068	present
-222073	present
-present
-222084	present
+imperfect
+221932	present
+221934	imperfect
+221939	imperfect
+221945	imperfect
+221947	aorist
+221956	present
+221959	aorist
+aorist
+221963	aorist
+221976	aorist
+221979	aorist
+221982	perfect
+221986	aorist
+221992	aorist
+aorist
+221998	aorist
+222002	aorist
+222008	aorist
+222013	present
+222015	imperfect
+222017	aorist
+222021	imperfect
+222024	aorist
+222030	aorist
+222034	present
+222039	aorist
+aorist
+222042	aorist
+222046	present
+aorist
+222050	aorist
+222053	aorist
+aorist
+aorist
+222064	perfect
+perfect
+aorist
+aorist
+222071	aorist
+222075	aorist
+222078	aorist
 222086	aorist
-222089	aorist
-present
-222095	present
+222088	aorist
+222091	aorist
+222094	aorist
+222100	future
 222102	aorist
-222107	present
+222109	aorist
 aorist
-222112	present
+222113	aorist
+222117	aorist
 aorist
-222115	present
-present
 222123	aorist
+222131	present
+222138	imperfect
+222144	imperfect
+222153	imperfect
 present
-222127	aorist
-aorist
-222133	present
-222137	aorist
-222142	aorist
-222144	future
-222147	present
-222153	aorist
-222160	present
-222170	present
-222172	aorist
+222157	imperfect
+222162	imperfect
 present
-222188	present
+222172	present
+222175	present
+222179	present
+222183	aorist
+222185	imperfect
+222193	present
 222195	present
-222197	present
+222199	imperfect
+aorist
+222207	present
+222210	aorist
+222213	aorist
+222218	aorist
+222225	aorist
+222229	aorist
+222232	aorist
 present
-222214	aorist
-222218	future
-222228	present
-222230	present
-222233	present
-222235	present
+222235	aorist
 present
-222238	imperfect
-222241	present
-222251	present
-222254	imperfect
-222263	present
-222267	present
-222269	present
-222271	aorist
-222281	present
-222290	present
-222295	aorist
-222302	present
-222313	present
-222317	perfect
+222245	aorist
+222247	aorist
+222253	imperfect
+aorist
+222260	aorist
+222269	aorist
+222272	aorist
+222277	aorist
+222279	aorist
+222283	aorist
+222285	aorist
+present
+222289	aorist
+perfect
+222295	perfect
+222298	aorist
+222302	aorist
+222305	aorist
+222314	imperfect
+222317	aorist
 222319	aorist
 222322	aorist
-present
-222331	present
-222333	aorist
-222339	present
-222347	present
-222349	aorist
-222352	aorist
-222359	perfect
-present
-222370	future
-222377	present
-222389	present
-222398	present
-222401	aorist
-222406	present
-222409	present
-222414	present
-222419	aorist
-222421	aorist
-present
-222428	present
+222325	aorist
+222328	aorist
+222335	present
+222338	aorist
+222342	imperfect
+222346	imperfect
+222350	aorist
 aorist
-222432	aorist
-222437	aorist
-222439	present
-222441	present
-222458	present
-aorist
-222464	imperfect
-222469	aorist
-222479	aorist
-222484	present
-222492	aorist
-222505	aorist
-222512	aorist
-222520	aorist
-222526	present
-222528	aorist
-222532	aorist
-222545	aorist
-present
-222548	aorist
-aorist
-222562	aorist
-222571	present
-222574	imperfect
-aorist
-222587	imperfect
-222593	imperfect
-222599	aorist
-imperfect
-222610	present
-222616	present
-aorist
-future
-222627	future
-222630	aorist
-222641	present
-222643	aorist
-222647	aorist
-222658	aorist
-aorist
-222671	present
-aorist
-222680	aorist
-222682	aorist
-aorist
-222692	aorist
-222694	aorist
-222701	aorist
-222712	present
-222714	aorist
-222718	aorist
-222731	aorist
-222738	aorist
-222741	aorist
-222758	present
-222766	aorist
-222768	aorist
-aorist
-222779	imperfect
-222781	aorist
-222783	imperfect
+222354	aorist
+222358	aorist
+222361	present
+222363	aorist
+222366	present
+222371	aorist
 perfect
-222786	aorist
-222788	aorist
-present
-imperfect
-222806	present
+222377	present
 aorist
+222384	aorist
+222388	aorist
+present
+present
+222399	aorist
+222402	aorist
+aorist
+222408	aorist
+222411	aorist
+222418	present
+222427	aorist
+222429	present
+222433	aorist
+imperfect
+222436	imperfect
+aorist
+222439	aorist
+222451	aorist
+222455	aorist
+aorist
+222461	present
+222467	present
+present
+222473	aorist
+222475	present
+present
+222480	aorist
+222485	aorist
+222489	imperfect
+222491	aorist
+222493	aorist
+222496	aorist
+222503	aorist
+222507	aorist
+222511	imperfect
+222513	aorist
+222516	present
+222518	aorist
+222523	aorist
+222527	present
+222534	future
+222538	present
+222540	future
+aorist
+222546	aorist
+aorist
+222551	aorist
+222553	aorist
+aorist
+222556	present
+222562	aorist
+222565	imperfect
+present
+222571	aorist
+222574	aorist
+222582	imperfect
+present
+222585	present
+222592	present
+222594	aorist
+222600	imperfect
+222607	aorist
+222613	aorist
+222616	present
+222618	aorist
+222622	present
+222624	aorist
+222632	present
+222636	future
+222647	future
+222649	aorist
+222655	aorist
+222667	aorist
+222671	aorist
+aorist
+222679	imperfect
+222681	imperfect
+222691	imperfect
+222697	imperfect
+222702	aorist
+222708	present
+222716	present
+222720	imperfect
+aorist
+222726	imperfect
+222728	aorist
+222730	present
+222732	perfect
+222734	present
+222739	aorist
+222747	aorist
+aorist
+222751	aorist
+222754	aorist
+222758	present
+222762	present
+present
+222771	perfect
+222774	present
+222778	future
+222782	future
+222785	aorist
+222789	aorist
+222792	present
+222795	aorist
+222800	aorist
+222805	present
+222808	imperfect
 222811	aorist
-222816	aorist
-222822	imperfect
-222825	present
+222815	aorist
+222818	present
+222823	aorist
+222827	aorist
 222829	aorist
 222837	present
-222839	aorist
-222853	present
-222855	aorist
+222842	future
+222844	aorist
+222847	aorist
+222851	aorist
+222854	aorist
+222862	present
+222865	aorist
+222872	aorist
 aorist
-222860	imperfect
-aorist
-222868	aorist
-imperfect
-222873	aorist
-aorist
-222878	aorist
-222882	present
-222889	aorist
-222893	aorist
-222903	aorist
-222914	aorist
-222923	aorist
-aorist
-222933	aorist
-222941	present
-222949	present
-aorist
-222953	aorist
-imperfect
-222964	imperfect
-222966	aorist
-222968	perfect
-222970	aorist
-imperfect
-222983	imperfect
-222986	imperfect
-222990	aorist
-222993	present
-222996	present
+222883	present
+222886	aorist
+222891	future
+222904	future
+future
+222908	aorist
+222911	future
+222913	future
+222919	aorist
+222924	aorist
+222927	aorist
+222941	aorist
+222943	aorist
+222946	imperfect
+222950	aorist
+222957	aorist
+222963	aorist
+222965	present
+222971	aorist
+222982	imperfect
+222986	aorist
+222989	present
+222992	aorist
 222999	aorist
-223001	aorist
-223005	present
+223005	aorist
 223009	aorist
-223021	present
-223023	present
-aorist
+223012	aorist
+223021	aorist
+223025	aorist
+223030	aorist
 223033	aorist
-223040	present
-223047	present
-223049	present
-present
-present
+223037	aorist
+223046	imperfect
+223051	aorist
+223059	aorist
+223064	pluperfect
+223067	aorist
+223070	aorist
+223072	present
+223078	present
+223081	aorist
+223084	imperfect
+223088	aorist
+223094	aorist
+223097	aorist
+223102	aorist
+223107	aorist
+223111	imperfect
+223119	imperfect
+223122	aorist
+223126	aorist
+223132	aorist
+223134	present
 aorist
-223054	aorist
-223057	aorist
-223063	aorist
-223073	aorist
-223087	imperfect
-223092	present
-223100	aorist
-223108	aorist
-223110	aorist
-223117	aorist
-223119	aorist
-223123	aorist
-223127	present
-223130	aorist
-223136	present
-223138	aorist
-223145	aorist
-223148	aorist
-223161	aorist
-223190	present
-223194	present
+223137	aorist
+223139	present
+aorist
+223142	imperfect
+223144	present
+223150	present
+223156	aorist
+223160	present
+aorist
+223163	present
+223165	imperfect
+223168	aorist
+223171	present
+223174	present
+223177	present
+223179	aorist
+223181	aorist
+223184	aorist
+223188	aorist
+223191	present
+223193	aorist
 223196	aorist
-223209	aorist
-aorist
-223232	present
-223247	present
-223259	aorist
-223265	future
-223275	aorist
-223280	future
-223285	present
-223289	present
-223295	future
-223300	future
-223303	future
-223308	future
-223310	present
-223312	present
-223315	imperfect
-223324	present
-223326	imperfect
-223329	aorist
-223332	present
-223334	present
-223345	present
-223385	present
-223391	present
-223394	present
-223402	aorist
-223411	aorist
-223415	present
-223422	present
-223424	present
-223427	perfect
-223431	present
-present
-223437	imperfect
-223440	imperfect
-223444	present
-223456	pluperfect
-223464	perfect
-223466	present
-aorist
-223471	present
-223487	present
+223203	aorist
+223208	aorist
+223211	aorist
+223213	aorist
+223225	aorist
 imperfect
+223228	present
+223231	aorist
+aorist
+223245	aorist
+223248	imperfect
+aorist
+aorist
+223254	aorist
+223262	perfect
+223264	present
+aorist
+aorist
+223276	aorist
+223278	aorist
+aorist
+223283	present
+aorist
+223290	aorist
+aorist
+223294	aorist
+223300	perfect
+223303	aorist
+223308	aorist
+223310	aorist
+223321	present
+223323	aorist
+223328	future
+223336	present
+aorist
+223344	present
+223352	aorist
+223354	present
+aorist
+223359	aorist
+223361	aorist
+223365	aorist
+223367	aorist
+223372	aorist
+223374	aorist
+223377	future
+223383	aorist
+223388	perfect
+223390	aorist
+223393	aorist
+223398	aorist
+223402	imperfect
+223408	aorist
+223412	aorist
+223414	present
+223419	perfect
+223424	aorist
+223432	aorist
+223442	aorist
+present
+223446	future
+223452	imperfect
+223458	aorist
+present
+223461	aorist
+223466	pluperfect
+223469	aorist
+aorist
+223479	aorist
+223489	aorist
 223494	aorist
-223496	aorist
+aorist
 223501	aorist
-223515	aorist
-223523	aorist
-223530	aorist
-223536	present
-223540	present
-223557	aorist
+223508	present
+223511	present
+223521	future
+223523	present
+223532	aorist
+223543	present
+223551	aorist
+223555	aorist
 aorist
-223561	aorist
-223564	aorist
+223565	aorist
 223567	aorist
-223579	aorist
-223586	present
-223594	aorist
-223598	aorist
+223573	aorist
+present
+223577	imperfect
+223581	imperfect
+223584	present
+223588	aorist
+223591	aorist
+223595	perfect
 223600	aorist
-223622	present
-223625	present
-223640	perfect
-223643	present
 aorist
-223650	present
-223656	present
+present
+223604	perfect
+223611	perfect
+223613	aorist
+223616	aorist
+223620	aorist
+223624	aorist
+223627	imperfect
+223630	aorist
+223637	present
+223640	imperfect
+223642	present
+223644	present
 aorist
-223659	present
-223664	aorist
-223677	present
-223683	present
-223690	aorist
+223648	aorist
+223651	aorist
+223655	aorist
+223661	aorist
+aorist
+223668	aorist
+223680	aorist
+223688	aorist
+223693	aorist
+223698	imperfect
 223702	present
-223705	present
-223711	aorist
+present
+223706	imperfect
+223709	aorist
+aorist
+present
 223715	aorist
-223725	aorist
-223729	future
-aorist
+223720	imperfect
+223723	imperfect
+223726	present
+223731	present
+223734	present
+223737	imperfect
 223740	present
-223747	aorist
+223742	present
+223744	imperfect
+223747	perfect
+223749	aorist
+aorist
+223761	imperfect
+223764	present
+223766	present
+223770	present
+present
+223775	imperfect
+223779	present
+223781	present
+223785	present
+223787	imperfect
+223793	perfect
+223797	aorist
+223799	present
+223807	imperfect
+223813	aorist
+223815	aorist
+223818	present
+223822	present
+imperfect
+aorist
+223830	perfect
+223835	aorist
+223839	aorist
+aorist
+223843	aorist
+223858	imperfect
+223862	imperfect
+223864	aorist
+223874	present
+223876	aorist
+223879	present
+aorist
+223886	aorist
+223888	present
+223892	aorist
+223897	present
+223903	aorist
+223905	present
+223907	present
+223917	present
+223921	aorist
+223928	aorist
+223930	future
+223941	present
+223943	present
+aorist
+223947	aorist
+aorist
+223955	aorist
+223958	perfect
+223965	imperfect
+223971	imperfect
+223974	aorist
+223976	present
+aorist
+223979	present
+223983	present
+223987	present
+223990	aorist
+aorist
+223993	aorist
+223997	imperfect
+224003	pluperfect
 future
-aorist
-223759	present
-223765	aorist
-223771	present
-present
-223778	present
-223787	perfect
-223795	aorist
-223803	present
-223806	aorist
-223812	aorist
-223816	aorist
-aorist
-223825	aorist
-223831	aorist
-223835	present
-present
-future
-223840	aorist
-223847	aorist
-223850	aorist
-223856	present
-223864	imperfect
-223871	aorist
-223873	aorist
-223880	aorist
-223892	present
-present
-223895	present
-223897	aorist
-223903	future
-223906	aorist
-aorist
-223910	future
-223912	aorist
-223914	aorist
-223916	aorist
-present
-223920	aorist
-223922	aorist
-223927	future
-223929	future
-223932	present
-223938	aorist
-223940	aorist
-223946	aorist
-223950	aorist
-223952	present
-223957	present
-223959	imperfect
-aorist
-perfect
-223963	aorist
-223967	present
-223973	imperfect
-223982	present
-223989	aorist
-223996	aorist
-224000	aorist
-224002	present
-224005	aorist
-224008	aorist
-aorist
-224011	aorist
-aorist
-224018	aorist
-224022	present
-224024	aorist
-224031	aorist
+224009	present
+224014	imperfect
+224016	aorist
+224020	aorist
+224022	aorist
+224025	aorist
+224028	aorist
+224030	present
 224033	aorist
+224035	present
+224037	present
+224040	aorist
+224043	present
+224047	future
+224049	aorist
+224052	aorist
 aorist
-224040	present
-224045	aorist
-224056	present
 224060	imperfect
-224062	aorist
-224067	aorist
-224072	aorist
-224079	aorist
-aorist
-aorist
+imperfect
+224066	aorist
+224071	present
+224076	present
+224083	aorist
+224087	future
+224089	present
 224094	aorist
-224096	aorist
+224098	aorist
 present
-224103	perfect
-224105	aorist
-224113	present
-224121	aorist
-224124	aorist
-224126	present
-224138	future
+224103	present
+224109	aorist
+224115	aorist
+224119	aorist
+224124	imperfect
+224127	aorist
+224131	present
+224133	aorist
+224136	present
+224138	aorist
+224140	aorist
 aorist
-224143	aorist
-224155	present
+224144	aorist
+224153	aorist
+224157	aorist
+224161	aorist
+224165	aorist
+224169	imperfect
+224173	present
+224176	aorist
+224179	present
+imperfect
+224184	aorist
+224190	present
+224196	aorist
+224198	aorist
+224208	aorist
+224210	present
+224213	perfect
 aorist
-224163	future
-224166	future
-224180	aorist
-224183	future
-224185	future
-224187	aorist
-224189	aorist
-224192	aorist
-224194	aorist
-224200	present
-224217	present
-224219	future
+224218	present
+aorist
+224221	present
+224226	aorist
+224231	aorist
+224234	aorist
 224236	present
-224239	aorist
-224241	aorist
-224251	aorist
-224260	future
-224276	imperfect
-imperfect
-imperfect
-imperfect
-224285	aorist
-224293	aorist
-224298	aorist
-224302	aorist
-224310	imperfect
-imperfect
-imperfect
-imperfect
-imperfect
-imperfect
-224320	aorist
+224242	present
+aorist
+224246	present
+224251	present
+224254	present
+224256	aorist
+224258	aorist
+224262	future
+224266	present
+present
+224270	present
+224272	pluperfect
+224274	present
+224279	present
+aorist
+224285	perfect
+224290	imperfect
+present
+224294	aorist
+224303	imperfect
+224311	aorist
+224318	aorist
+aorist
 224325	aorist
-224333	aorist
-224340	future
-224351	present
-224360	future
+aorist
+224329	present
+224332	aorist
+224338	aorist
+224340	present
+224342	aorist
+224346	aorist
+224348	aorist
+224352	aorist
+aorist
+224357	aorist
+224365	aorist
+224369	present
+224373	aorist
+224375	present
 224378	aorist
+224382	present
+224385	present
+224388	aorist
+224398	future
+224401	present
+224406	aorist
 aorist
-224389	aorist
-224395	present
-224403	aorist
-224409	aorist
-future
-224415	future
-future
-224418	present
-224425	future
-224435	future
-224440	future
-224442	future
-224444	present
-224453	future
-224458	future
-224460	aorist
-present
-224467	aorist
-224479	future
-imperfect
-224487	present
-224489	present
-224493	present
-present
-224498	imperfect
-224508	present
-224512	present
-224515	imperfect
-224524	imperfect
-224528	present
+224411	aorist
+224415	aorist
+224418	aorist
+224420	perfect
+224422	aorist
+224427	imperfect
+224429	aorist
+224431	aorist
+224435	aorist
+224441	aorist
+224444	aorist
 aorist
-224540	imperfect
-224548	aorist
-224559	present
-224562	present
-224567	present
-224575	future
-224582	present
+224447	aorist
+224449	aorist
+aorist
+224461	imperfect
+224465	present
+224469	imperfect
+224472	present
+224474	imperfect
+224476	present
+aorist
+224479	present
+224485	pluperfect
+224487	perfect
+224489	aorist
+224495	imperfect
+224497	imperfect
 present
-224585	aorist
-224590	aorist
-224599	present
-224606	aorist
-224617	present
-224623	present
-224627	present
-224630	future
-224647	aorist
-224649	future
-224658	aorist
-224667	perfect
-224672	present
-224675	present
-224687	aorist
-224693	aorist
-224706	aorist
-224711	imperfect
-224715	present
+224500	present
+224503	present
+224507	imperfect
+224509	aorist
+224511	aorist
+224513	aorist
+224518	imperfect
+224526	aorist
+aorist
+224534	aorist
+224536	aorist
+224538	aorist
+224541	imperfect
+present
+224546	imperfect
+224549	present
+224551	present
+224555	aorist
+224557	aorist
+224561	aorist
+224566	aorist
+224570	aorist
+224575	aorist
+224584	present
+224595	imperfect
+aorist
+224598	aorist
+224601	aorist
+224605	aorist
+224616	imperfect
+224618	present
+224620	present
+224629	imperfect
+aorist
+224633	present
+224635	aorist
+224639	present
+224641	aorist
+224651	present
+224654	imperfect
+perfect
+224657	aorist
+224661	present
+224663	aorist
+224665	aorist
+224669	aorist
+224671	aorist
+224674	present
+224678	aorist
+224684	imperfect
+224688	present
+present
+224692	imperfect
+224697	imperfect
+aorist
+224703	aorist
+224705	aorist
+aorist
+224708	aorist
+224712	present
+224716	aorist
 224719	present
-224740	present
-224745	present
-224749	present
-224755	perfect
-224757	imperfect
-224762	aorist
-224769	imperfect
-224775	present
-224779	aorist
-224784	present
-224786	aorist
-224788	perfect
-224803	present
-224805	future
-224808	present
-224810	future
-imperfect
+224721	aorist
+224724	present
+224726	aorist
+aorist
+224729	aorist
+224732	aorist
+224735	aorist
+aorist
+224740	aorist
+224744	present
+224746	present
+224749	imperfect
+224751	present
+224753	aorist
+224759	aorist
+224761	aorist
+224763	aorist
+224766	aorist
+224768	aorist
+224771	aorist
+224775	aorist
+224777	aorist
+aorist
+224782	aorist
+224784	aorist
+224789	aorist
+224791	present
+224794	aorist
+224799	aorist
+224803	aorist
+224806	aorist
 224821	present
+224824	present
+224830	present
+224834	present
+224837	aorist
+224847	aorist
+224850	aorist
+224855	aorist
+224859	aorist
 aorist
-224827	imperfect
-224833	aorist
-224835	present
-aorist
-224840	present
-224846	present
-224852	present
-224861	present
-224866	aorist
-224879	aorist
-224884	aorist
-224889	present
-224894	aorist
-224898	future
-aorist
+224862	present
+224864	aorist
+224872	aorist
+224878	aorist
+224882	aorist
+224885	present
+224888	present
+224892	present
+224897	aorist
+224899	present
+224901	aorist
 224907	present
-224920	perfect
-224922	aorist
-224924	aorist
-224926	aorist
+224910	aorist
+224913	aorist
+224919	present
+224923	present
+aorist
 224928	aorist
-present
-224941	aorist
-224945	aorist
-224949	aorist
-224954	aorist
-224959	present
-224963	present
+224931	aorist
+224935	imperfect
 aorist
-224966	aorist
-224969	future
-224977	present
 present
-224982	aorist
-224985	aorist
-imperfect
+224940	aorist
+224944	present
+224946	perfect
+224948	present
+224953	present
+224957	imperfect
+224967	aorist
+224970	aorist
+224975	aorist
+224980	aorist
 224990	aorist
+224993	present
 224996	aorist
-225004	present
-225014	present
-225017	present
-225024	aorist
-225036	aorist
+225000	aorist
+225007	imperfect
+225010	present
+225013	aorist
 aorist
+225016	perfect
+225019	aorist
+225023	aorist
+225027	aorist
+imperfect
+present
+225032	present
+225035	present
+225038	aorist
 225040	aorist
-225043	present
+225042	present
+225045	aorist
 aorist
-225047	aorist
-225061	present
+225048	present
+225051	present
+225054	perfect
+225056	aorist
+225061	aorist
 aorist
-225067	aorist
-225069	aorist
+225064	present
+225066	present
+225070	present
 225073	aorist
-225077	aorist
-225080	present
-225084	present
-225086	aorist
-225108	aorist
-225124	present
-225128	aorist
+225076	present
+225078	present
+225085	aorist
+225088	aorist
+225094	aorist
+225097	aorist
+225100	aorist
+225103	aorist
+aorist
+225111	aorist
+225115	aorist
+225122	aorist
+225130	aorist
+aorist
 225133	aorist
-225137	aorist
-present
-225143	future
-225147	perfect
-225160	future
-225166	future
-225168	future
-225170	future
-225172	aorist
-future
-225183	future
-225189	aorist
-225191	imperfect
-225197	perfect
-225203	imperfect
-225205	present
+225136	aorist
+225139	aorist
+225142	aorist
+225144	present
 aorist
-225211	present
-225219	imperfect
-225225	present
+225149	present
+225151	present
+225153	aorist
+225155	present
+perfect
+225158	imperfect
+225162	present
+225165	present
+225171	aorist
+225174	present
+225178	aorist
 aorist
-225229	present
-imperfect
-225232	present
-225234	aorist
-225242	present
-225244	aorist
 present
-225250	aorist
-225254	present
-imperfect
-225258	aorist
-225264	imperfect
-225268	aorist
-225270	aorist
+225183	aorist
+225187	imperfect
+225199	aorist
+225201	aorist
+225206	present
+225208	aorist
+225214	aorist
+225217	aorist
+225221	aorist
+225223	present
+225226	present
+225232	aorist
+225237	aorist
+aorist
+225244	present
+aorist
+225247	perfect
+225251	aorist
+225255	aorist
+225257	present
+225259	present
+225265	present
+225268	present
+225272	present
 225275	aorist
-225277	aorist
-225281	aorist
-225284	aorist
-225288	present
-aorist
-225292	aorist
-225295	aorist
-225300	aorist
+225278	present
+225282	present
+225285	perfect
+225287	aorist
+225291	aorist
+225297	aorist
 225302	aorist
-225308	perfect
-225312	aorist
-225314	imperfect
-225316	present
-225326	aorist
-aorist
-225333	aorist
-imperfect
-225339	aorist
-225343	present
-225347	imperfect
-225353	imperfect
-aorist
-225359	present
-225362	imperfect
-225373	imperfect
-225375	aorist
-225381	aorist
-225386	aorist
-225390	imperfect
+225308	aorist
 present
-225394	aorist
-225400	aorist
+225311	present
+225313	present
+225318	imperfect
+225324	aorist
+225333	aorist
+aorist
+225338	aorist
+225343	aorist
+225346	aorist
+225350	perfect
+225357	aorist
+225361	aorist
+225363	aorist
+225366	aorist
+225369	present
+225372	perfect
+225376	present
+225381	present
+225383	aorist
+225388	present
+225391	present
+225395	aorist
+225401	present
 225404	aorist
 225409	aorist
+225419	perfect
+imperfect
+225423	present
+225426	present
+225429	aorist
+225432	present
 aorist
-225420	present
-225422	aorist
-225424	aorist
-aorist
-225427	aorist
-225429	present
-225431	aorist
-225433	imperfect
-present
+225436	aorist
 225441	aorist
-aorist
-aorist
-225446	aorist
+225444	aorist
+225450	aorist
 225452	aorist
-225460	present
-225465	present
-225470	aorist
-present
+225454	aorist
+225456	aorist
+225461	present
+225467	aorist
 225473	aorist
-225489	aorist
-225497	present
-aorist
-225507	aorist
-225509	aorist
-225511	perfect
-present
-225516	aorist
-aorist
-225524	present
-225528	present
-225532	present
-225540	present
-aorist
-225548	aorist
-225554	aorist
+225476	imperfect
+225480	present
+225482	aorist
+225486	present
+225488	aorist
+225490	aorist
+225493	imperfect
+225496	present
+225501	aorist
+225503	present
+225508	present
+225512	aorist
+225515	aorist
+imperfect
+225518	aorist
+225530	aorist
+225534	present
+225536	aorist
+225539	aorist
+225546	aorist
+225550	aorist
 225558	aorist
-aorist
-225566	aorist
-225572	aorist
+225561	present
+225564	aorist
+225567	aorist
+225573	aorist
 225576	aorist
-225580	present
-225587	imperfect
-225590	aorist
-225595	present
-225597	present
-225599	aorist
-225604	aorist
-225608	aorist
-225610	aorist
-225615	aorist
+225580	imperfect
+perfect
+225584	aorist
+225588	aorist
+225591	aorist
 aorist
-225624	pluperfect
-225629	aorist
-225632	aorist
+225600	aorist
+225605	aorist
+225609	aorist
+225614	aorist
+225616	aorist
 aorist
-225638	present
+225620	aorist
+present
+225624	future
+225628	future
+225635	aorist
+225637	present
+aorist
 225647	aorist
-225650	aorist
-225661	aorist
-present
-225664	present
+225653	imperfect
+225656	aorist
+225660	future
+225667	aorist
 225671	aorist
-225675	present
+225676	imperfect
+aorist
+225679	aorist
 225682	aorist
-225686	aorist
-225696	present
-225704	aorist
-present
-225707	aorist
-225714	imperfect
-present
-225719	imperfect
-225726	present
-present
-225730	aorist
-225732	present
-225735	aorist
-present
-225745	future
-225750	pluperfect
-225757	present
-present
-225761	aorist
-225763	present
-225766	aorist
-225772	aorist
-225782	aorist
-225788	aorist
-225791	perfect
+225684	aorist
+225686	present
+225694	aorist
+225696	aorist
+225699	aorist
+225701	aorist
+225706	present
+225712	imperfect
+225718	aorist
+225720	imperfect
+225724	present
+225727	imperfect
+225732	aorist
 aorist
+225736	aorist
+225744	present
+225748	aorist
+225752	aorist
+225754	aorist
+225758	aorist
+225760	imperfect
+225765	present
+225768	imperfect
+225775	aorist
+225778	aorist
+225781	aorist
+225784	aorist
 aorist
-225801	aorist
-225808	present
-225810	aorist
-225813	present
-225817	present
+225787	aorist
+225792	aorist
+225796	aorist
+225798	aorist
+225808	aorist
+225812	aorist
+225819	imperfect
 225823	present
 future
-225830	present
-225834	present
-future
-225846	aorist
-225848	aorist
-225852	aorist
-225855	aorist
+225829	aorist
+225834	imperfect
+225836	aorist
+225839	aorist
+225842	present
+225847	aorist
+aorist
+225858	aorist
 225861	aorist
-225863	imperfect
-225865	present
-225870	aorist
-225872	aorist
-225884	present
+225866	aorist
+225871	aorist
+225875	present
+225877	aorist
+aorist
+225880	imperfect
 225886	aorist
+aorist
+225889	aorist
 225892	present
-present
-225904	present
-future
-225907	perfect
-225915	aorist
-225917	aorist
-225919	aorist
-225924	present
-225928	present
-225930	future
-225938	present
+225894	present
+225897	aorist
+225903	imperfect
+225917	imperfect
 aorist
-225942	perfect
+225927	perfect
+225933	imperfect
+225936	aorist
+225938	aorist
+225941	aorist
+225944	aorist
+225949	aorist
+225951	present
 aorist
-225945	aorist
-225947	present
-225953	aorist
-225963	present
+225955	aorist
+225960	aorist
+225964	aorist
+225966	aorist
 225969	aorist
-225977	present
-225979	aorist
-225987	aorist
-225998	aorist
-226002	present
-226005	imperfect
-226016	present
-226033	aorist
-226043	present
+225973	present
+225975	aorist
+225979	present
+225982	aorist
+imperfect
+225985	pluperfect
+225988	present
 present
-226056	aorist
-226058	present
+225992	imperfect
+225995	present
+aorist
+226000	aorist
+226005	present
+226010	aorist
+226013	aorist
+aorist
+226018	aorist
+226024	aorist
+aorist
+226027	perfect
+226030	aorist
+226035	aorist
+226046	aorist
+226048	aorist
+226055	present
+226061	aorist
+226067	aorist
+226069	aorist
+226073	aorist
+226080	aorist
+226082	aorist
+226084	aorist
 perfect
-226061	present
-226091	aorist
-226096	aorist
-226103	aorist
-aorist
+226092	aorist
 present
-226109	future
-226113	future
-226116	aorist
+226096	imperfect
+226098	present
+226101	imperfect
+226103	present
+226107	imperfect
+present
 aorist
-226121	aorist
-226125	present
+226111	aorist
+226114	aorist
+aorist
+226119	present
+aorist
+226125	aorist
 226128	aorist
-226146	aorist
-226153	future
-226159	future
-226168	future
-226171	future
-226175	future
-226189	future
-226201	aorist
-226212	aorist
-226218	aorist
-present
-226221	present
-present
-226224	perfect
-226226	future
-226238	aorist
-226244	imperfect
-present
-226264	imperfect
-226266	aorist
-226277	present
-226280	aorist
-226287	imperfect
-226289	present
-226291	aorist
-226299	present
-226310	present
+226130	aorist
+226135	aorist
 aorist
-226325	aorist
-present
+226139	aorist
+226142	imperfect
+226150	aorist
+226153	aorist
+226157	aorist
+aorist
+226160	aorist
+aorist
+226163	aorist
+226167	imperfect
+226173	imperfect
+226176	aorist
+226182	imperfect
+226185	present
+226193	aorist
+226195	aorist
+226198	imperfect
+226202	imperfect
+226209	aorist
+226215	aorist
+226219	aorist
+226221	aorist
+226229	aorist
+226231	aorist
+226233	aorist
+aorist
+226236	imperfect
+226242	present
+226247	present
+226255	present
+226260	present
+aorist
+226265	aorist
+226272	perfect
+226275	aorist
+226277	aorist
+226279	aorist
+226282	aorist
+226286	aorist
+226290	aorist
+226294	aorist
+226297	aorist
+226299	imperfect
+226307	imperfect
+226311	aorist
+226316	aorist
+226323	imperfect
+226328	aorist
 226330	aorist
-226338	present
+aorist
+226335	imperfect
 226341	present
-226343	aorist
-226350	aorist
+226344	present
+aorist
 226352	aorist
-226356	future
-226361	aorist
-226371	imperfect
-226378	aorist
-226382	present
-226385	aorist
-226389	future
+226354	aorist
+226356	aorist
+226366	future
+present
+226374	aorist
+226378	future
+226381	present
+226386	aorist
+226390	present
+imperfect
 226394	aorist
-226398	aorist
-226407	future
-226410	perfect
-226412	present
-226415	present
+226396	perfect
+aorist
+present
+226403	aorist
+226409	aorist
+226415	aorist
 226417	aorist
-226419	perfect
-226425	aorist
-226429	present
-226437	present
+226421	aorist
+226424	aorist
+226429	aorist
+226435	aorist
+226443	aorist
+226446	present
+226451	present
+226457	present
 aorist
-226445	present
-226452	aorist
-226455	aorist
-226459	aorist
-226465	aorist
-226482	future
-226488	aorist
-226490	aorist
-226493	aorist
-226496	aorist
-226501	aorist
-226503	aorist
+226462	aorist
+226464	aorist
+226468	present
+226470	aorist
+226475	aorist
+226480	aorist
+226489	aorist
+226495	aorist
+226500	aorist
+226505	aorist
+226513	aorist
+226518	aorist
+226521	aorist
+226531	aorist
+226533	aorist
+226539	aorist
 aorist
-226507	aorist
-226509	aorist
-226515	aorist
 aorist
-aorist
-226527	aorist
-future
-226539	future
-aorist
-226546	imperfect
-226550	present
-226552	present
-226556	present
+226549	future
+226558	aorist
 226560	aorist
-226565	aorist
-226572	aorist
-226575	future
-226584	future
-226586	future
-226593	future
-226598	aorist
-226600	aorist
-226602	aorist
-226605	aorist
-226607	aorist
-226610	present
-226613	perfect
+226572	imperfect
+226575	imperfect
+226578	present
+present
+present
+226583	aorist
+present
+226588	present
+226593	aorist
+226602	present
+226609	aorist
+226611	present
 226617	aorist
-226619	present
-226621	aorist
+226624	present
+aorist
+aorist
 226630	aorist
-226638	future
+aorist
+226633	aorist
+226637	aorist
+226640	perfect
+aorist
 226644	aorist
-future
 226648	aorist
-226656	aorist
-226671	aorist
-226675	aorist
+226652	aorist
+226655	aorist
+226662	present
+226669	present
+226674	aorist
+226678	perfect
 226681	aorist
-226688	aorist
-aorist
-226692	present
-226695	present
-226697	aorist
-226702	aorist
-226716	aorist
-226718	present
-226720	perfect
-226723	present
-226725	present
-226728	present
-226741	present
+226688	perfect
+226691	present
+226695	perfect
+226699	aorist
+226703	present
 present
+226707	perfect
+226709	future
+226717	present
+226719	future
+226722	aorist
+226728	aorist
+226732	aorist
+226734	aorist
+226739	aorist
+226744	aorist
 226746	aorist
-226749	aorist
-226756	aorist
-226760	aorist
-226765	present
-226771	aorist
-226775	aorist
-226780	aorist
-226796	aorist
-aorist
-226807	aorist
-226815	aorist
-aorist
-226824	present
+226750	present
+226758	present
+226763	aorist
+226766	aorist
+226769	present
+present
+present
+226774	aorist
+perfect
+226778	aorist
+226781	aorist
+226783	aorist
+226786	present
+226793	aorist
+226796	present
+226798	present
+226801	imperfect
+226805	aorist
+226809	aorist
+226812	aorist
+226818	present
+226823	present
+226825	imperfect
 226827	present
+226834	present
+226838	aorist
 aorist
-226830	present
-226833	aorist
-226839	aorist
-present
-226845	present
+226843	aorist
 226847	aorist
-226857	aorist
-226868	imperfect
-226873	aorist
-226875	aorist
-226885	aorist
-226895	aorist
-226898	aorist
-226905	aorist
-226919	present
-226925	aorist
-226929	aorist
-226943	present
-226945	present
-226948	aorist
-226954	aorist
-226965	present
-226967	present
+226850	imperfect
+226852	present
+present
+aorist
+226859	aorist
+226861	imperfect
+226864	aorist
+226869	present
+226874	present
+226878	aorist
+present
+226884	perfect
+226887	perfect
+226891	present
+226897	present
+226900	imperfect
+226902	imperfect
+226907	aorist
+226912	imperfect
+226922	aorist
+226925	present
+226933	aorist
+226939	aorist
+226946	aorist
+226951	aorist
+226955	imperfect
+226958	aorist
+226963	aorist
 226970	aorist
-226972	present
-226975	present
-226979	present
-226986	present
-226989	present
-226996	aorist
+226973	aorist
+226981	aorist
+226991	aorist
+present
+226995	present
+227001	present
 227003	present
-227021	present
-227024	present
-227028	present
+227007	aorist
+227015	imperfect
+227024	aorist
+227035	aorist
 aorist
-227036	aorist
-227039	aorist
-227042	imperfect
-present
-227046	aorist
-227052	present
-227056	present
-227064	present
-227070	aorist
-227077	present
+227051	imperfect
+227058	aorist
+227060	imperfect
+227062	present
+227064	aorist
+227067	aorist
+227069	present
+227071	aorist
+aorist
+227074	aorist
+227080	aorist
+227082	imperfect
 227085	aorist
-227102	present
-227108	present
+227087	aorist
+227089	aorist
+227093	present
+227095	aorist
+227097	aorist
+227099	imperfect
+227108	imperfect
+227110	present
+227116	present
+227122	aorist
+227125	imperfect
 present
-227116	aorist
-227120	present
-227127	present
-present
-227133	present
-227158	present
-227169	present
-227171	future
-227175	aorist
-227177	aorist
-227181	present
-227193	aorist
-227200	present
-227206	aorist
-227208	present
-227222	aorist
-227230	present
-227232	aorist
-227253	imperfect
 aorist
-227257	present
-227269	perfect
-aorist
-227273	present
-future
-227280	future
-227287	future
-aorist
-227291	present
-227296	future
-227303	present
-227305	present
-227308	aorist
+227131	aorist
+227134	aorist
+227137	present
+227139	present
+227143	present
+227147	present
 present
-227311	aorist
-227314	future
-227322	present
-227324	present
-227329	perfect
-227331	aorist
-227337	aorist
-227342	aorist
-present
-227346	aorist
-227355	imperfect
-227357	future
-227379	future
-227390	future
-227397	future
-227407	future
-present
-227416	present
-227429	future
-227434	aorist
-227444	present
+227153	present
+227156	present
+227158	aorist
+227172	perfect
 aorist
-227448	future
-227455	future
-aorist
-227458	aorist
-227462	present
-227464	future
-227478	future
-227484	future
+227176	present
+227183	aorist
 present
-227508	aorist
-227516	future
+227188	present
+227191	present
+227197	present
+227199	aorist
+227202	present
+227204	aorist
+227210	aorist
+227213	aorist
+227215	imperfect
+227218	present
+227220	perfect
+aorist
+227225	aorist
+aorist
+227231	aorist
+227235	present
+227240	aorist
+227242	aorist
+227249	present
+227253	present
+present
+227260	present
+227262	aorist
+227267	aorist
+227272	aorist
+227274	aorist
+227278	pluperfect
+227280	aorist
+227282	aorist
+227286	aorist
+227289	aorist
+227292	aorist
+227302	aorist
+aorist
+227306	aorist
+227308	imperfect
+227310	aorist
+227315	aorist
+227318	imperfect
+227326	aorist
+227329	imperfect
+227334	aorist
+227338	present
+aorist
+aorist
+227349	aorist
+present
+227365	aorist
+227368	imperfect
+227372	present
+227377	imperfect
+227381	aorist
+227384	aorist
+227391	aorist
+227395	aorist
+227397	aorist
+227405	perfect
+present
+227408	present
+present
+227411	present
+227413	present
+227416	aorist
+227421	aorist
+227427	aorist
+aorist
+227430	aorist
+227435	present
+227440	aorist
+227445	aorist
+227451	aorist
+227454	aorist
+227456	aorist
+227464	aorist
+227469	aorist
+227475	present
+227477	aorist
+227488	aorist
+aorist
+227495	present
+aorist
+227500	aorist
+227505	imperfect
+227507	present
+227509	aorist
+227517	aorist
+227519	aorist
+227521	present
 227524	aorist
-present
+227527	aorist
 227531	aorist
-227533	perfect
-227547	present
-227561	present
-227571	present
-227580	present
-227582	aorist
-227586	perfect
-227592	present
-227595	present
-227603	future
-227621	future
-227626	future
-227637	future
+aorist
+227539	present
+227544	perfect
+227546	future
+227548	future
+227551	perfect
+227554	perfect
+future
+227557	future
+227560	aorist
+227569	perfect
+227573	present
+227575	present
+227581	present
 present
-227645	aorist
-227650	future
-227677	present
-227686	present
-227698	future
-227701	future
-227709	present
-227720	present
-227723	present
+227587	present
+227591	aorist
+227593	present
+227607	present
+227609	present
+227614	present
+227616	aorist
+227623	aorist
+227626	aorist
+227631	present
+227635	present
+227638	aorist
+227652	present
+227654	aorist
+227658	aorist
+227661	present
+227666	aorist
+aorist
+227669	aorist
+227671	aorist
+227673	aorist
+227680	perfect
+227688	perfect
+227695	present
+227697	aorist
+227705	present
+227710	present
+227715	present
+227718	future
+perfect
+227722	aorist
 aorist
 227726	aorist
-227733	present
-227740	aorist
-227743	aorist
+227728	aorist
+227730	aorist
+227732	aorist
+227739	present
+227742	aorist
+227745	aorist
+aorist
+227749	aorist
 227754	aorist
-227756	present
-227760	present
-227767	present
+227758	imperfect
+227770	aorist
 227773	aorist
-227775	present
-present
-227779	present
-227788	present
-227794	aorist
-227803	aorist
-227811	future
-227821	future
-present
-227827	aorist
-227843	aorist
-227855	future
-227862	present
-227872	present
-227879	present
-227881	present
 aorist
-227887	present
-present
-227890	aorist
-227901	imperfect
-227911	present
-227916	present
+227779	aorist
+227784	present
+227787	imperfect
+aorist
+227791	present
+227795	imperfect
+aorist
+227801	aorist
+227806	present
+227808	aorist
+227812	aorist
+227817	aorist
+227819	aorist
+227823	aorist
+227825	aorist
+aorist
+227832	imperfect
+227836	present
+227838	aorist
+227845	aorist
+227848	imperfect
+227857	imperfect
+227864	aorist
+227867	aorist
+227869	aorist
+aorist
+227874	present
+227878	pluperfect
+227885	imperfect
+227888	imperfect
+227890	imperfect
+227892	present
+227894	perfect
+227903	imperfect
+227906	imperfect
+227909	aorist
+227914	aorist
+227918	aorist
+227922	aorist
+227926	imperfect
+227929	aorist
+227932	aorist
+227936	aorist
+227939	aorist
+227945	aorist
+227949	present
+227952	present
+aorist
+227955	aorist
+227960	aorist
+227962	aorist
+aorist
+227965	present
+227967	perfect
+227970	aorist
+227972	aorist
+227975	aorist
+227978	present
+227984	present
+227999	aorist
+228004	imperfect
+228006	present
+228008	aorist
 imperfect
-227924	present
-227932	imperfect
-227941	present
-227943	imperfect
-227953	present
-227956	imperfect
-227966	aorist
-227968	imperfect
-227973	aorist
-227981	present
-227983	present
-227994	aorist
-aorist
-228004	aorist
-228007	aorist
-228009	aorist
 228012	aorist
-228014	aorist
-228016	imperfect
-228019	aorist
+228020	present
+228022	imperfect
 228025	aorist
-228035	imperfect
+228027	present
 present
-228041	aorist
-228045	aorist
+228032	aorist
+228036	aorist
+present
+228039	perfect
+228043	present
 aorist
+228048	present
+228050	aorist
+228052	aorist
+228054	present
+228060	present
 aorist
-228053	aorist
-228056	aorist
-228059	present
-aorist
-228063	aorist
-228065	aorist
-aorist
-228073	future
+228065	imperfect
+228068	present
+228070	present
+228073	imperfect
+present
 228080	present
-aorist
-228091	present
-228093	future
-228101	present
-228107	present
-228122	aorist
-228125	future
-228130	perfect
-228132	aorist
-aorist
-228135	aorist
-228137	pluperfect
-228140	aorist
-228146	aorist
-228150	aorist
-228159	aorist
+228082	present
+228087	imperfect
+228090	aorist
+228094	aorist
+228096	aorist
+present
+228101	aorist
+228104	aorist
+228107	aorist
+228112	aorist
+228117	aorist
+228121	aorist
+228127	aorist
+228130	aorist
+228133	present
+228137	present
+228139	present
+228142	present
+228146	present
+228148	aorist
+228153	aorist
+228156	imperfect
+present
+228160	aorist
+228162	aorist
 228164	aorist
-228170	aorist
-228178	aorist
-present
-228187	aorist
-228192	aorist
+228167	present
+228171	aorist
+aorist
+228180	aorist
+228187	present
+imperfect
+228190	imperfect
+228197	aorist
+228199	aorist
 228203	aorist
-228205	aorist
-aorist
-aorist
-228210	aorist
-228214	present
-228220	aorist
+228211	aorist
+228214	aorist
+228217	aorist
+perfect
+228222	aorist
+228224	imperfect
+228226	present
+present
+perfect
+228230	aorist
+228234	present
+228236	aorist
+228240	present
+228242	aorist
 228245	aorist
-228247	aorist
-228249	aorist
+228248	aorist
 aorist
-228252	aorist
-228254	present
-228256	present
-228266	present
-228268	present
-228284	aorist
+228253	aorist
+228256	imperfect
+228260	present
 present
-228308	present
-228310	aorist
-228316	present
-228338	perfect
-present
-228350	present
-228353	aorist
-present
-228361	present
-228367	present
-present
+228263	aorist
+228266	aorist
 aorist
-228381	present
+228271	future
+228276	aorist
+228288	aorist
+228295	aorist
+228299	aorist
+228304	aorist
+228309	aorist
+228312	aorist
+228314	perfect
+228318	aorist
+aorist
+228322	present
+aorist
+228326	aorist
+228333	perfect
+228336	aorist
+228339	aorist
 present
-228386	aorist
-228395	present
-228399	present
-228402	present
-228415	present
-228423	present
-228427	present
-228432	present
-228435	present
-228438	present
-228446	present
-228450	present
-228453	present
-228455	perfect
-228467	present
-228470	aorist
-228479	present
-228481	present
-228497	future
-228507	present
-228513	aorist
-228517	aorist
-228520	aorist
-228527	aorist
-228533	aorist
+228344	imperfect
+228346	aorist
+228351	present
+aorist
+228358	present
+228362	aorist
+228365	aorist
+aorist
+228372	aorist
+228374	aorist
+228377	present
+228379	aorist
+aorist
+228383	aorist
+imperfect
+aorist
+228388	aorist
+228392	aorist
+228396	aorist
+aorist
+228400	aorist
+aorist
+228406	aorist
+228409	imperfect
+228414	perfect
+228416	aorist
+228421	aorist
+228428	imperfect
+aorist
+228431	aorist
+228436	present
+228441	present
+228446	aorist
+228448	aorist
+228456	present
+228463	aorist
+228467	aorist
+228473	aorist
+imperfect
+228477	aorist
+228480	imperfect
+228482	aorist
+228486	aorist
+228489	imperfect
+228494	present
+228497	aorist
+228501	present
+228503	perfect
+228510	present
+228512	present
+present
+228515	aorist
+228520	present
+228523	aorist
+228529	aorist
+228535	aorist
 228542	aorist
-aorist
-228551	aorist
-228558	present
-228568	present
-228571	aorist
+228547	imperfect
+228550	imperfect
+228555	aorist
+228561	present
+228563	present
+228570	aorist
+228581	aorist
+228590	aorist
+228596	aorist
+228604	aorist
+228606	present
+228610	aorist
+228618	present
+228620	aorist
+228623	aorist
+228630	aorist
+228632	imperfect
+228636	present
+228639	imperfect
+228643	present
+228645	present
+228647	imperfect
+228654	present
+228661	present
+228668	imperfect
+228672	imperfect
+228674	present
+228677	present
+228682	present
 present
-228576	future
-228582	future
-228584	perfect
-228586	aorist
-228589	aorist
-228600	aorist
-228603	aorist
-228605	aorist
-228611	present
-228613	aorist
-228621	present
+228688	imperfect
 aorist
-228629	aorist
-228631	present
-228638	perfect
+228694	aorist
+present
 present
 aorist
-228649	aorist
-228659	present
-228662	aorist
-228664	aorist
-228670	aorist
-228673	present
-228675	aorist
-aorist
-228691	aorist
-228699	aorist
-228706	aorist
+228704	present
+228706	present
 228708	present
-228710	aorist
-228716	aorist
-228726	aorist
-228730	imperfect
+228712	present
+228714	aorist
+228716	present
+228718	present
+228724	present
+228727	imperfect
+228729	present
+228732	present
+228734	aorist
+228741	imperfect
+228746	present
 present
-228734	present
-aorist
-228755	present
-aorist
-228763	present
-228766	aorist
-228771	imperfect
-228773	aorist
+228750	present
+228753	aorist
+228756	pluperfect
+228760	present
+present
+228764	present
+228767	aorist
+228776	present
+228780	present
 228784	present
-228791	aorist
-228797	aorist
+present
+228788	present
+228793	aorist
+228798	present
 228803	aorist
+228805	perfect
+228811	present
+228813	aorist
+228816	aorist
+228822	present
+228832	perfect
+228836	present
+228839	present
+228842	present
 present
-228812	aorist
-228815	present
-aorist
+228850	present
+228856	aorist
+228859	present
+228862	present
+228864	aorist
+228866	present
 present
-228820	aorist
-228826	present
-aorist
-228831	present
-228838	imperfect
-228841	aorist
-228845	aorist
-228849	aorist
-228860	present
-aorist
-228869	future
-aorist
-228873	future
-228878	aorist
-228893	aorist
-228903	aorist
-228908	aorist
-present
-228914	aorist
-228918	aorist
-228920	aorist
-228928	aorist
-228945	aorist
-228954	present
-228965	aorist
-228974	present
-228988	aorist
-228991	aorist
-228993	aorist
-229007	imperfect
-229009	aorist
-229020	aorist
+228872	aorist
+228874	aorist
+228876	aorist
+228879	aorist
+228884	imperfect
+228887	aorist
+future
+228894	aorist
+228899	aorist
+228901	aorist
+228913	aorist
+228916	aorist
+228919	aorist
+228929	perfect
+228936	perfect
+228938	present
+228943	aorist
+228948	present
 imperfect
-229028	aorist
-229034	present
-229041	aorist
-229043	aorist
-229050	imperfect
-229053	aorist
-present
-229056	perfect
-229064	aorist
-229066	imperfect
-229073	present
-229078	imperfect
-229081	present
-229083	aorist
-229092	imperfect
-present
-229103	imperfect
-229108	present
+228952	imperfect
+imperfect
+228957	imperfect
+228963	imperfect
+228968	aorist
+228975	imperfect
+228978	present
+228980	present
+228983	present
+228987	present
 aorist
-229116	perfect
-229118	present
-229122	present
-229124	aorist
-229127	aorist
+228990	aorist
+229003	future
+229005	aorist
+229007	aorist
+229013	present
+229021	aorist
+229030	present
+imperfect
+229033	imperfect
+aorist
+229040	present
+229042	present
+229045	aorist
+229048	present
+229052	future
+229054	aorist
+229058	present
+229063	aorist
+229067	present
+229075	present
+229077	aorist
+229082	aorist
+229086	present
+229090	present
+229093	present
+229095	present
+229098	present
+229100	aorist
+229106	imperfect
+229112	aorist
+229117	present
+229123	future
+229128	present
+present
 229131	aorist
-229136	aorist
-229148	aorist
-229153	aorist
-229155	future
-229159	aorist
-229161	aorist
-229168	present
-229170	imperfect
-229172	present
-229174	aorist
-229176	imperfect
-present
-aorist
-229180	present
-229182	aorist
-229188	present
+229135	aorist
+229139	imperfect
+229145	imperfect
+229149	aorist
+229152	aorist
 imperfect
-229195	aorist
-229197	aorist
-229210	aorist
-229219	present
-229222	present
-229226	aorist
-229228	aorist
-229233	aorist
-229237	aorist
-229240	aorist
-229244	aorist
-229252	future
-229260	present
+229159	aorist
+229162	imperfect
+229165	aorist
+229169	aorist
+229173	aorist
+229176	aorist
+229178	present
+229183	aorist
+aorist
+229186	aorist
+229188	aorist
+229190	future
+229193	present
+aorist
+229198	aorist
+229200	aorist
+229202	aorist
+229204	aorist
+229207	aorist
+229209	aorist
+present
+229215	present
+229227	aorist
+229230	present
+229239	present
+229246	present
+229252	aorist
+present
+229256	aorist
+229260	aorist
+229265	aorist
+229269	present
 229272	aorist
-229277	present
+229275	aorist
+229277	aorist
+229279	aorist
+229281	aorist
+aorist
+229284	perfect
 229290	imperfect
 229292	present
 229295	present
 229298	aorist
-229301	present
-229307	aorist
-229316	aorist
-229324	aorist
+229302	present
+229305	aorist
+229308	aorist
+229311	aorist
+229313	aorist
+229317	aorist
+aorist
+229325	present
+aorist
+aorist
 229331	aorist
-229333	present
-229335	present
-229337	aorist
-present
+229334	aorist
+229338	aorist
+229342	aorist
 229345	present
-229348	present
-229350	present
-229354	present
-229359	aorist
-229361	present
-229363	present
-229373	aorist
-229375	imperfect
-229377	present
-229382	aorist
-229393	present
-229404	imperfect
-present
-229407	present
-229411	present
-229420	aorist
-229431	aorist
-aorist
-229438	present
-229440	aorist
-229449	present
-aorist
-229456	present
-229474	aorist
-229478	aorist
-229481	imperfect
-229488	present
-aorist
-229494	present
-229499	imperfect
-229503	aorist
-229507	present
+229347	present
+229350	aorist
+229352	present
+229355	aorist
+229357	aorist
+229363	aorist
+229367	aorist
+229372	imperfect
+229376	imperfect
 imperfect
-229519	aorist
-229521	pluperfect
-229531	present
-229533	aorist
-229547	aorist
+229382	aorist
+229386	imperfect
+229398	present
+229402	aorist
+229404	aorist
+229407	present
+229413	aorist
+229418	present
+229420	aorist
+229428	aorist
+229430	imperfect
+229437	present
+present
+229444	present
+229451	present
 aorist
-229552	aorist
-229557	aorist
-229578	imperfect
-229583	present
+229458	present
+229460	present
+229462	present
+229469	present
+present
+229475	present
+229483	aorist
+229488	aorist
+229491	present
+229494	present
+229498	present
+229500	aorist
+229504	imperfect
+229508	aorist
+229510	aorist
+229514	perfect
+aorist
+229521	aorist
+229526	present
+229529	aorist
+229534	imperfect
+229540	perfect
+imperfect
+229548	aorist
+aorist
+229551	imperfect
+229554	aorist
+229558	aorist
+229569	aorist
+229571	aorist
+229575	aorist
+229578	present
+229580	aorist
+229583	aorist
+229586	present
 229589	aorist
-229601	aorist
-229605	aorist
-229613	present
-229618	aorist
-229623	aorist
-229625	aorist
-229636	present
-229643	aorist
+aorist
+229595	present
+229599	aorist
+229603	aorist
+229617	present
+229620	imperfect
+229624	aorist
+229630	aorist
+229632	present
+229639	present
 229650	aorist
-229657	present
-perfect
-229660	aorist
-229663	future
 aorist
-229667	present
+229653	present
+229656	present
+229659	present
+229663	present
+229667	aorist
+229675	aorist
 present
-229670	aorist
-229678	imperfect
-229685	aorist
-229693	aorist
-229704	aorist
-229706	present
+229679	present
+229687	present
 aorist
-229713	imperfect
+229691	aorist
+229694	imperfect
 present
-present
-present
-229721	aorist
-229729	aorist
-229736	aorist
-229740	aorist
-229743	future
-229746	imperfect
-229750	present
-229752	aorist
-229754	imperfect
-229762	aorist
+229700	aorist
+229703	aorist
+229708	aorist
+229713	present
 aorist
-229769	aorist
-229777	perfect
-229782	imperfect
-229787	aorist
-229795	aorist
-229797	aorist
-229803	present
-229807	aorist
-229812	present
-229818	imperfect
-229831	imperfect
-229833	imperfect
-229835	aorist
-229841	aorist
-229846	present
+229718	imperfect
+229725	present
+229728	aorist
+229730	imperfect
+229732	aorist
+229740	imperfect
+229747	pluperfect
+229749	pluperfect
+229753	aorist
+229755	aorist
+229760	aorist
+229762	imperfect
+present
+229765	aorist
+229769	present
+229771	aorist
+229776	present
+229780	aorist
+229784	present
+229788	present
+229791	present
+229795	present
+229802	present
+229806	perfect
+present
+229810	present
+aorist
+229817	present
+229827	present
+229831	present
+229834	present
+present
+229841	present
+229845	future
+229848	present
+present
 229854	present
-229864	aorist
+229857	future
+aorist
+229865	aorist
+aorist
+229870	aorist
+229872	aorist
+229876	aorist
+aorist
+aorist
 present
-229870	future
 229881	aorist
 229886	aorist
-229888	future
+229889	aorist
+229892	aorist
+229895	aorist
+229900	present
 present
-229893	aorist
-229901	aorist
-229911	present
-229918	aorist
-imperfect
-229931	aorist
-229934	aorist
-229941	present
-229944	aorist
-229964	imperfect
-229966	aorist
-229970	perfect
-229972	present
+229904	aorist
 present
-229980	aorist
-229983	pluperfect
-229987	present
+229907	imperfect
+229922	aorist
 imperfect
-229995	present
-229997	aorist
+229928	aorist
+229935	aorist
+229942	aorist
+229949	perfect
+229951	aorist
+229954	imperfect
+229956	present
+present
+229959	imperfect
+229963	imperfect
+229970	present
+229978	present
+229980	present
+229983	aorist
+229986	aorist
+229991	aorist
+229993	aorist
+229996	aorist
+229999	aorist
 aorist
 230002	present
-230013	aorist
-230021	present
-230023	present
-230026	present
-230029	present
-230037	aorist
-230039	imperfect
-230061	aorist
-230063	imperfect
-230067	present
-230071	aorist
-230075	aorist
-230080	present
-230082	imperfect
-230084	present
-230097	present
-230106	aorist
+230007	present
+aorist
+230011	aorist
+230014	aorist
+230017	aorist
+230020	aorist
+aorist
+230024	present
+230026	aorist
+230030	aorist
+230033	aorist
+230037	present
 present
-230113	aorist
-230115	imperfect
-230117	aorist
-230120	aorist
-230129	aorist
-230133	present
-230138	future
-230145	imperfect
-230154	aorist
-230170	present
+230043	present
+230045	present
+230048	imperfect
+230052	aorist
+230054	aorist
+230057	aorist
+present
 aorist
-230182	aorist
-230189	aorist
-230196	present
-230204	aorist
+230063	aorist
+230066	present
 aorist
+230069	pluperfect
+230072	aorist
+230076	aorist
+230078	aorist
+230081	imperfect
+230085	present
+230090	aorist
+230095	aorist
+230097	aorist
+230103	aorist
+230105	aorist
+230108	present
+230112	aorist
+230119	aorist
+present
+230126	aorist
+230134	aorist
+present
 aorist
-230212	aorist
-imperfect
+230139	aorist
+230143	present
+230156	aorist
+perfect
+230160	present
+230163	future
+230166	perfect
+230173	present
+230175	present
+230179	present
+230182	present
+230186	aorist
+230192	aorist
+230195	aorist
+230203	aorist
+230205	perfect
+230208	future
+230213	aorist
+present
 230217	present
-230225	imperfect
+230224	present
+230230	aorist
 230232	aorist
-230241	aorist
-230243	aorist
+230238	present
+230247	aorist
+230249	present
+230254	aorist
+230260	perfect
+230262	future
+230269	present
+230274	future
+230276	present
+perfect
 present
-230248	imperfect
-pluperfect
-230264	present
-230271	present
-230274	aorist
 230282	present
-230291	imperfect
-perfect
-230311	imperfect
-230320	aorist
-230324	aorist
-230333	aorist
-aorist
-230338	aorist
-230348	imperfect
-230351	present
-230355	imperfect
-230359	imperfect
-aorist
-230367	imperfect
-perfect
-230375	aorist
-230381	aorist
-230387	aorist
-230389	aorist
-230398	aorist
-230420	aorist
 present
-230423	aorist
-230425	aorist
-230430	perfect
-230436	aorist
-230439	aorist
-230449	aorist
-230453	present
+230288	aorist
+230290	present
+230294	present
+230302	present
+aorist
+230305	aorist
+230309	perfect
+230313	aorist
+230315	present
+230320	present
+230322	aorist
+230326	aorist
+230329	present
+present
+present
+present
+present
+230339	aorist
+230341	present
+230343	present
+230345	present
+230348	aorist
+aorist
+230354	aorist
+230358	aorist
+230360	aorist
+230365	imperfect
+230367	present
+230372	pluperfect
+230374	present
+230377	present
+imperfect
+230385	aorist
+aorist
+230388	aorist
+230390	aorist
+aorist
+230401	aorist
+230403	present
+230405	aorist
+aorist
+aorist
+230411	aorist
+230414	imperfect
+230417	aorist
+230424	aorist
+230427	aorist
+230432	imperfect
+230436	present
+230440	aorist
+aorist
+230444	aorist
+imperfect
+present
+230455	aorist
 230459	aorist
+aorist
 230463	aorist
-230469	present
-230472	aorist
-230475	present
-230484	aorist
-230489	present
-230491	present
-230498	present
-230501	aorist
+230468	aorist
+230474	aorist
+230476	aorist
+230479	aorist
+230481	aorist
+230486	aorist
 aorist
-230504	aorist
-230507	present
-230513	present
-230522	present
-aorist
-230532	aorist
-230539	aorist
-230541	aorist
-230548	aorist
-230554	aorist
-230567	imperfect
-230588	imperfect
-230596	aorist
-230609	imperfect
-230615	aorist
-aorist
-230623	aorist
+230490	aorist
+230496	present
+230499	aorist
+230503	imperfect
+230505	present
 present
-230630	aorist
-230634	present
-230636	perfect
+230509	aorist
+230517	aorist
+230520	aorist
+230524	aorist
+230529	aorist
+230531	present
+230537	present
+230541	future
+230545	future
+230550	aorist
+230552	imperfect
+230557	present
+230561	aorist
+230564	present
+present
+230567	present
+230573	aorist
+230576	aorist
+230579	present
+230585	present
+230588	aorist
+aorist
+230593	present
+230598	aorist
+imperfect
+230601	aorist
+230608	present
+230610	aorist
+230613	aorist
+230618	aorist
+230622	present
+imperfect
+230629	aorist
+230632	aorist
+230634	imperfect
 230638	aorist
-230652	imperfect
-present
-230658	present
-230670	imperfect
-230680	perfect
-230683	aorist
-230687	present
-230690	present
+230647	aorist
+imperfect
+230650	aorist
+230653	present
+230657	present
+230660	perfect
+230665	present
+aorist
+230671	present
+230678	present
+230680	present
+230685	present
+230688	present
+230690	future
+230692	perfect
 230695	aorist
-imperfect
-230704	imperfect
+230698	present
+present
+230704	present
 230707	aorist
-230709	aorist
-230721	present
-230725	present
-230727	aorist
-230729	aorist
-230735	aorist
-230741	present
-230745	aorist
+aorist
+230711	aorist
+230714	future
+230717	future
+230721	perfect
+230724	present
+230726	present
+230728	present
+230734	perfect
+230736	aorist
+aorist
+present
 230747	aorist
-230759	aorist
+230751	present
+230753	aorist
+imperfect
+230757	present
 230764	aorist
-230775	aorist
-230799	aorist
-230816	aorist
-230820	imperfect
-230823	present
-230825	present
+230771	imperfect
+230774	present
+230779	aorist
+230783	imperfect
+230787	aorist
+230790	present
+230793	present
+230795	present
+230806	present
+230810	aorist
+230814	perfect
+230825	imperfect
+230829	aorist
+230831	aorist
+230836	aorist
+230840	aorist
+230842	imperfect
+230848	aorist
+230850	present
+230853	aorist
+aorist
+230860	present
+230863	aorist
+230865	aorist
+230869	aorist
+230873	aorist
 present
-230844	present
-230849	aorist
-230860	aorist
-230862	aorist
-230871	aorist
 230877	aorist
-present
-230884	perfect
-230886	present
+230879	aorist
+230882	aorist
+aorist
+230886	imperfect
 230888	present
-230890	aorist
-230904	aorist
-230912	aorist
+230895	imperfect
+230899	present
+230902	aorist
+230906	aorist
+present
+230913	aorist
 230916	aorist
-230919	aorist
-230934	present
-230940	aorist
-230946	imperfect
-aorist
-230952	aorist
+present
+230925	imperfect
+230930	present
+present
+230933	present
+230935	present
+230939	present
+230941	present
+230943	aorist
+230948	imperfect
+230950	present
+230954	present
+230959	aorist
 230961	aorist
-230973	aorist
-230988	aorist
-230995	imperfect
-230998	aorist
-231000	present
-231002	aorist
-231004	present
+230968	aorist
+230973	present
+230979	present
+230982	aorist
+230984	aorist
+230987	aorist
+230991	perfect
+230994	aorist
+230999	aorist
 aorist
-231013	present
-231015	perfect
-231021	aorist
-231023	aorist
-231028	aorist
-231032	aorist
-231037	aorist
-231041	aorist
-231043	aorist
-imperfect
-231049	aorist
-231054	aorist
-231059	aorist
-231064	aorist
-231075	present
-imperfect
-231081	imperfect
-231089	imperfect
-231095	aorist
-231101	aorist
-231106	aorist
-perfect
-231117	present
-231120	aorist
-231125	aorist
-231129	imperfect
-231139	aorist
-231153	present
-231155	aorist
-231162	present
-231166	aorist
-231170	aorist
-imperfect
-231173	present
-231175	aorist
-231179	perfect
-present
-231186	present
-231194	aorist
-231208	present
-231210	aorist
-231213	aorist
-231220	present
-231223	present
-present
-231227	aorist
-aorist
-231239	present
-231247	present
-aorist
-231250	present
-231257	aorist
-231265	aorist
-231269	aorist
-aorist
-231282	aorist
-231287	present
-231292	present
-aorist
-231297	perfect
-231315	aorist
-231322	present
-231327	aorist
-231331	perfect
-aorist
-231337	aorist
-231347	aorist
-231369	aorist
-231378	aorist
-231380	present
-231395	aorist
-231404	aorist
-231409	aorist
-231418	aorist
-231424	aorist
-231427	aorist
-231431	present
-231434	aorist
-231439	imperfect
-231447	aorist
-231449	aorist
-231460	imperfect
-231469	present
-231476	imperfect
-231484	imperfect
-231492	imperfect
-231497	imperfect
-231510	aorist
-231515	aorist
-231519	perfect
-231524	imperfect
-231529	imperfect
-231546	present
-231553	aorist
-aorist
-231557	perfect
-231565	aorist
-231570	aorist
-231578	aorist
-231583	imperfect
-231590	aorist
-231597	imperfect
-231606	present
-231610	present
-231621	imperfect
-231629	aorist
-231636	aorist
-231642	aorist
-231649	aorist
-231652	aorist
-231654	aorist
-231660	aorist
-231662	present
-231691	aorist
-231697	aorist
-231699	aorist
-231704	aorist
-231726	present
-231731	perfect
-present
-231734	imperfect
-231736	aorist
-231741	present
-231745	perfect
-231749	imperfect
-231761	aorist
-231775	aorist
-231787	aorist
-231790	perfect
-231797	present
-231808	aorist
-231811	present
-231820	aorist
-231834	aorist
-231838	present
-231840	aorist
-231843	aorist
-231845	aorist
-231849	present
-231854	aorist
-231860	present
-231862	present
-231864	present
-231868	present
-231871	aorist
-231873	aorist
-231877	present
-231880	aorist
-231882	aorist
-231885	present
-231889	imperfect
-231893	present
-231899	aorist
-231906	aorist
-231912	perfect
-imperfect
-231920	aorist
-231923	aorist
-231927	present
-231931	present
-231941	aorist
-231946	present
-231948	present
-231955	present
-231959	perfect
-231964	present
-231967	present
-231971	aorist
-231985	aorist
-231993	imperfect
-231997	present
-232001	present
-232005	present
-232010	present
-aorist
-232020	present
-232029	present
-232034	aorist
-232038	present
-232044	perfect
-232048	imperfect
-232051	pluperfect
-232055	aorist
-232062	aorist
-232067	present
-232069	aorist
-232071	present
-232073	perfect
-232077	present
-232085	aorist
-232091	pluperfect
-232095	aorist
-232097	present
-232103	aorist
-232108	aorist
-232112	present
-232114	present
-232119	present
-232121	present
-232128	perfect
-232130	perfect
-232133	present
-232145	pluperfect
-232160	aorist
-232164	present
-present
-aorist
-232175	aorist
-232182	present
-232184	aorist
-232188	aorist
-232194	aorist
-232196	present
-present
-232200	present
-232203	aorist
-232207	present
-present
-232211	present
-present
-232214	present
-232216	future
-aorist
-232220	aorist
-232222	present
-232227	aorist
-232234	imperfect
-232238	imperfect
-232254	aorist
-232259	aorist
-232261	present
-232273	present
-232275	perfect
-232281	present
-present
-232284	aorist
-232291	aorist
-232296	aorist
-232298	present
-232306	future
-232309	present
-232314	aorist
-aorist
-232322	present
-232325	present
-232330	present
-232332	imperfect
-232349	present
-232355	present
-232358	aorist
-232369	perfect
-232382	aorist
-232388	present
-232392	present
-present
-232398	present
-232400	aorist
-aorist
-232406	present
-232411	present
-232415	aorist
-232423	present
-present
-232429	present
-aorist
-232433	aorist
-232440	aorist
-present
-232447	aorist
-232449	aorist
-232454	present
-232465	present
-232469	aorist
-232472	aorist
-232475	aorist
-232478	aorist
-232485	present
-232489	future
-232491	present
-232495	present
-232497	future
-232501	perfect
-232510	present
-232512	present
-232531	aorist
-232540	imperfect
-232549	aorist
-232568	aorist
-232570	present
-232583	present
-232585	present
-232596	present
-232602	present
-232614	present
-232616	aorist
-232618	imperfect
-232637	present
-present
-232646	present
-232651	aorist
-232657	aorist
-232663	present
-232665	aorist
-232668	present
-232674	aorist
-232677	aorist
-232685	perfect
-232688	pluperfect
-232690	present
-232695	pluperfect
-232697	perfect
-232701	present
-232709	present
-232720	present
-232723	aorist
-232728	perfect
-232739	aorist
-232756	aorist
-232763	aorist
-232775	aorist
-232798	aorist
-232806	imperfect
-232815	aorist
-232823	aorist
-232830	present
-232840	present
-232842	aorist
-232848	aorist
-232867	aorist
-232875	aorist
-232881	present
-aorist
-aorist
-232887	present
-232900	aorist
-232908	perfect
-present
-232919	future
-232921	aorist
-232927	aorist
-232932	present
-232936	present
-aorist
-232940	aorist
-232942	aorist
-232954	future
-232956	aorist
-232966	aorist
-232979	future
-232983	imperfect
-232997	aorist
-233001	aorist
-233009	imperfect
-233011	aorist
-233020	aorist
-233026	imperfect
-233043	aorist
-233051	present
-233058	imperfect
-233064	imperfect
-233071	present
-233077	imperfect
-233080	aorist
-233088	imperfect
-233090	imperfect
-233096	imperfect
-233114	aorist
-233120	aorist
-233123	perfect
-233128	perfect
-233132	present
-233138	present
-233141	present
-233144	present
-233151	aorist
-233154	aorist
-233158	present
-233163	aorist
-233166	present
-aorist
-233175	present
-233183	present
-233185	aorist
-233187	present
-233189	present
-233202	aorist
-233204	aorist
-aorist
-233209	present
-233214	aorist
-233221	present
-aorist
-233233	perfect
-233240	present
-233243	perfect
-233250	present
-233252	aorist
-233254	aorist
-233256	present
-233258	aorist
-233264	present
-present
-233272	present
-233275	perfect
-233277	present
-233280	present
-233282	present
-233286	perfect
-233292	aorist
-233295	aorist
-233298	present
-233300	aorist
-aorist
-233304	aorist
-233307	present
-233318	present
-233321	present
-233325	perfect
-present
-233329	perfect
-present
-233338	present
-233343	aorist
-233347	present
-233350	aorist
-233355	future
-233358	perfect
-233372	aorist
-233383	aorist
-233393	aorist
-present
-233406	present
-233410	present
-233416	aorist
-233431	aorist
-233436	present
-233441	aorist
-233443	present
-233449	aorist
-233462	present
-233468	aorist
-233476	present
-233481	present
-233484	present
-233486	perfect
-233489	perfect
-233507	present
-233515	perfect
-233522	aorist
-233534	imperfect
-233547	present
-present
-233554	present
-233562	aorist
-233570	present
-233574	present
-233581	aorist
-233592	present
-perfect
-233597	aorist
-233616	imperfect
-233621	imperfect
-233623	imperfect
-233628	present
-233640	imperfect
-233643	imperfect
-233645	imperfect
-233649	imperfect
-perfect
-233657	aorist
-233674	aorist
-233681	aorist
-233685	imperfect
-233696	perfect
-aorist
-233699	present
-233702	present
-233706	aorist
-233709	aorist
-233711	present
-233713	present
-233718	present
-perfect
-233730	present
-233732	aorist
-233734	present
-233742	perfect
-present
-233748	present
-233753	present
-233763	perfect
-233765	present
-233768	present
-233788	perfect
-233790	present
-present
-233794	present
-233797	present
-233801	present
-233803	present
-233814	present
-233821	present
-233828	present
-233832	present
-233834	perfect
-233836	aorist
-233838	present
-233846	present
-233848	aorist
-233854	aorist
-233860	present
-233863	aorist
-233874	present
-233880	present
-233887	present
-233893	perfect
-233902	present
-233908	present
-233914	present
-233919	future
-233929	present
-233935	aorist
-233940	aorist
-233949	present
-233951	present
-233959	imperfect
-233966	aorist
-233971	aorist
-233978	imperfect
-233981	present
-233987	present
-233998	present
-234006	aorist
-234014	imperfect
-234026	perfect
-234032	imperfect
-234040	imperfect
-234044	present
-234052	aorist
-234054	present
-234059	aorist
-234061	aorist
-234068	pluperfect
-234076	aorist
-present
-234090	present
-234094	aorist
-present
-234099	present
-234102	present
-234105	aorist
-234108	aorist
-234111	pluperfect
-234121	present
-234123	present
-234125	aorist
-234127	aorist
-234130	aorist
-234133	aorist
-234138	present
-present
-234144	present
-234149	present
-234153	present
-234158	present
-234162	present
-234171	aorist
-234181	aorist
-234194	aorist
-234197	aorist
-234202	present
-234210	future
-234215	aorist
-234223	future
-234228	future
-234239	future
-234241	future
-234249	present
-234255	present
-234263	aorist
-234272	present
-234274	present
-234276	present
-present
-234279	present
-aorist
-234287	aorist
-234289	aorist
-234294	aorist
-234296	present
-234298	present
-234304	aorist
-234308	present
-234313	aorist
-234317	present
-234319	present
-234325	perfect
-present
-234332	present
-234335	present
-234349	aorist
-234352	present
-234357	present
-234362	present
-present
-present
-234369	present
-234373	present
-234388	future
-234393	present
-234396	perfect
-234398	present
-234400	perfect
-234410	present
-234412	present
-234416	present
-234423	future
-234438	present
-234440	present
-234448	present
-234454	present
-present
-present
-234461	perfect
-234464	present
-234466	present
-234469	aorist
-234471	future
-234474	present
-234480	present
-234482	present
-234488	aorist
-234495	imperfect
-234500	imperfect
-234503	aorist
-234505	present
-234508	present
-234512	aorist
-234523	aorist
-234530	present
-234534	present
-aorist
-234538	aorist
-234543	aorist
-234546	present
-234550	aorist
-234557	imperfect
-234566	imperfect
-234571	present
-234573	aorist
-234576	aorist
-234580	present
-aorist
-234585	perfect
-imperfect
-234596	aorist
-234598	aorist
-present
-234607	present
-234609	present
-234615	aorist
-234618	aorist
-234626	present
-234630	present
-234635	present
-aorist
-present
-234639	aorist
-234646	aorist
-234652	present
-234658	present
-234660	present
-234662	present
-234671	present
-234673	present
-234676	present
-234684	present
-234688	present
-234690	present
-234694	present
-234696	aorist
-234698	present
-234702	perfect
-234704	perfect
-234714	perfect
-234725	aorist
-234741	present
-234743	aorist
-234748	aorist
-234751	aorist
-234758	imperfect
-234760	aorist
-234765	aorist
-234774	aorist
-234786	imperfect
-234796	present
-234799	perfect
-234801	perfect
-234804	present
-234821	aorist
-234832	aorist
-234844	present
-234847	aorist
-234853	aorist
-234860	perfect
-234862	aorist
-234875	aorist
-234881	aorist
-234894	aorist
-234900	imperfect
-234909	imperfect
-234914	aorist
-234917	present
-234928	aorist
-234933	imperfect
-234935	aorist
-234937	aorist
-234943	imperfect
-234945	present
-aorist
-234959	aorist
-234963	aorist
-present
-234972	aorist
-234974	aorist
-234980	present
-234985	present
-234991	present
-aorist
-235000	aorist
-235006	imperfect
-235010	present
-235014	aorist
-235016	present
-235023	present
-aorist
-235036	aorist
-aorist
-235045	aorist
-235050	aorist
-235064	aorist
-235074	present
-235076	aorist
-235093	aorist
-235097	aorist
-235111	imperfect
-235118	aorist
-235123	present
-235138	present
-235144	present
-235148	imperfect
-235152	present
-235156	present
-235169	imperfect
-235176	aorist
-235184	aorist
-235195	imperfect
-235198	imperfect
-235200	imperfect
-235211	present
-235220	aorist
-235224	present
-235226	aorist
-235232	present
-present
-235235	present
-235237	aorist
-aorist
-235241	present
-235245	present
-235248	aorist
-235252	aorist
-235263	present
-235269	present
-present
-235275	present
-aorist
-235283	present
-235286	aorist
-235292	aorist
-235299	imperfect
-imperfect
-235310	imperfect
-235316	perfect
-235318	present
-235321	present
-235323	aorist
-235329	aorist
-235332	aorist
-235337	aorist
-aorist
-235345	present
-aorist
-235349	present
-235354	aorist
-235356	aorist
-235358	present
-235361	aorist
-235363	pluperfect
-235365	present
-235370	aorist
-235372	present
-235381	present
-235392	aorist
-235394	aorist
-235396	perfect
-235398	present
-235405	aorist
-aorist
-235411	aorist
-235417	present
-235419	aorist
-235426	imperfect
-235435	imperfect
-235441	aorist
-235451	present
-235453	present
-235459	imperfect
-235464	aorist
-235468	imperfect
-235478	imperfect
-235484	present
-235488	aorist
-235494	imperfect
-235498	present
-235501	present
-235505	present
-235513	present
-235517	present
-235522	present
-235530	present
-235535	present
-235542	present
-235546	present
-235552	future
-235557	present
-235563	present
-235568	present
-235576	present
-present
-235583	present
-235591	perfect
-235597	present
-235602	present
-235608	present
-235613	present
-235618	aorist
-235622	present
-235631	present
-235633	present
-235635	aorist
-235637	present
-235646	present
-235648	perfect
-235661	present
-235664	present
-235668	present
-235673	future
-235687	aorist
+231002	present
+231005	aorist
+231011	aorist
+231015	imperfect
+231018	aorist
+231021	present
+231023	present
+231025	perfect
+231029	perfect
+231037	perfect
+231043	present
+231047	present
+231052	aorist
+231061	present
+231068	aorist
+231072	imperfect
 future
-235694	present
+231076	present
+perfect
+231080	aorist
+aorist
+231084	present
+231086	present
+231092	aorist
+231095	aorist
+231100	aorist
+231102	present
+231108	present
+231111	aorist
+231113	present
+231115	aorist
+231119	present
+231123	present
+231126	present
+231129	aorist
+231134	aorist
+present
+231137	aorist
+231140	aorist
+231144	aorist
+231146	aorist
+present
+231151	future
+231155	perfect
+231157	aorist
+231161	imperfect
+231167	present
+231169	present
+231171	aorist
+231180	present
+231185	present
+aorist
+231189	aorist
+aorist
+231194	aorist
+231198	aorist
+231202	aorist
+231207	aorist
+231209	aorist
+231213	aorist
+231216	aorist
+231222	future
+231232	present
+aorist
+aorist
+231236	aorist
+231239	aorist
+231242	aorist
+231245	aorist
+231248	present
+231252	aorist
+231256	aorist
+231258	present
+231260	aorist
+231262	aorist
+231267	future
+231272	aorist
+231275	present
+231282	present
+231286	imperfect
+231293	perfect
+231295	present
+231297	present
+231300	present
+231303	aorist
+231305	present
+231310	future
+231312	imperfect
+231319	aorist
+231322	present
+present
+231329	imperfect
+231331	present
+present
+231336	present
+231340	present
+231343	aorist
+231345	present
+231349	aorist
+231351	present
+231354	aorist
+231358	imperfect
+231362	aorist
+231365	aorist
+231369	perfect
+231373	present
+231375	present
+aorist
+231379	aorist
+231381	aorist
+present
+231384	present
+present
+231390	present
+aorist
+231394	aorist
+231396	present
+231400	present
+231403	imperfect
+231405	aorist
+231412	aorist
+231415	imperfect
+231419	perfect
+231422	aorist
+231424	present
+231426	present
+231430	aorist
+aorist
+231434	present
+231441	present
+aorist
+231445	present
+231448	aorist
+231451	aorist
+aorist
+231458	aorist
+231460	aorist
+231462	aorist
+231466	aorist
+231472	perfect
+231479	aorist
+perfect
+231482	present
+231488	aorist
+present
+231491	present
+231494	perfect
+231496	present
+present
+231502	present
+present
+231505	present
+231507	perfect
+aorist
+231512	present
+imperfect
+231517	pluperfect
+231520	present
+231522	perfect
+231529	future
+231531	aorist
+231537	present
+231542	imperfect
+231549	present
+231554	present
+231558	present
+aorist
+231564	aorist
+231568	present
+231570	present
+231575	present
+231577	aorist
+231581	aorist
+231588	imperfect
+present
+231591	present
+231598	aorist
+231604	present
+aorist
+231608	aorist
+231611	aorist
+231613	aorist
+aorist
+231618	present
+231625	present
+aorist
+231629	aorist
+present
+231633	aorist
+231639	present
+231642	aorist
+aorist
+231646	aorist
+231649	aorist
+231651	present
+231656	aorist
+231658	imperfect
+231663	aorist
+231665	aorist
+231669	aorist
+231671	aorist
+231674	aorist
+231677	present
+231682	aorist
+231687	aorist
+231691	present
+present
+231699	aorist
+231702	present
+aorist
+231705	aorist
+231712	aorist
+231714	aorist
+231717	aorist
+231719	aorist
+231724	imperfect
+231727	present
+231730	present
+231732	aorist
+231737	aorist
+231739	aorist
+231743	present
+231745	aorist
+231747	aorist
+231750	aorist
+231752	present
+231754	aorist
+231756	aorist
+231762	aorist
+231764	imperfect
+231766	present
+231768	present
+aorist
+231771	aorist
+231775	aorist
+aorist
+231781	aorist
+231785	present
+231788	present
+231793	aorist
+231795	present
+231803	aorist
+231809	aorist
+231813	present
+231815	present
+231822	aorist
+231824	aorist
+231826	aorist
+231829	aorist
+231832	aorist
+231836	aorist
+aorist
+231840	aorist
+231852	aorist
+231854	aorist
+231856	aorist
+231859	aorist
+231861	present
+231866	present
+231869	aorist
+231873	present
+present
+231876	aorist
+231879	aorist
+aorist
+231883	present
+present
+231886	aorist
+231889	imperfect
+231891	aorist
+231896	aorist
+present
+231907	present
+aorist
+231914	future
+231916	aorist
+231918	aorist
+231921	present
+231928	perfect
+231930	aorist
+231932	aorist
+231938	aorist
+231940	present
+231942	aorist
+231946	aorist
+231950	aorist
+231953	aorist
+231957	aorist
+231960	aorist
+231963	present
+231965	aorist
+231968	future
+231970	imperfect
+231975	aorist
+aorist
+231981	present
+231986	aorist
+231993	aorist
+231997	aorist
+232000	aorist
+present
+232003	present
+232005	present
+232009	present
+232017	present
+232026	present
+present
+aorist
+232034	aorist
+232039	present
+232054	aorist
+aorist
+232058	aorist
+232060	future
+232062	aorist
+232065	aorist
+232068	present
+232070	aorist
+232074	present
+232077	present
+aorist
+232081	aorist
+232084	present
+232087	present
+232092	present
+232096	present
+present
+232099	aorist
+232103	present
+232108	aorist
+future
+232115	aorist
+232118	present
+232121	present
+232129	aorist
+present
+232135	present
+232137	present
+232144	present
+232147	present
+232150	present
+232158	perfect
+232160	present
+232166	present
+232168	present
+future
+232174	present
+232176	present
+232186	future
+232190	aorist
+232194	aorist
+232196	perfect
+232208	imperfect
+232213	present
+232217	aorist
+232219	aorist
+aorist
+232228	aorist
+232230	perfect
+232234	present
+232237	aorist
+232242	perfect
+232246	aorist
+232249	aorist
+future
+232253	aorist
+232255	present
+232257	present
+232262	present
+232265	present
+232270	aorist
+232276	present
+232278	aorist
+232281	aorist
+232287	present
+232294	present
+232296	aorist
+232298	aorist
+232300	present
+present
+232304	aorist
+future
+232309	present
+232312	future
+232320	present
+imperfect
+232325	aorist
+aorist
+232328	present
+232331	aorist
+232334	aorist
+232336	perfect
+232339	aorist
+232343	aorist
+232346	aorist
+232357	imperfect
+232359	present
+232362	aorist
+232366	present
+aorist
+232374	aorist
+present
+232380	present
+232382	present
+232387	present
+aorist
+232390	present
+232393	present
+232395	aorist
+232402	aorist
+232405	aorist
+232408	aorist
+232410	aorist
+aorist
+232414	aorist
+232419	perfect
+232422	present
+232425	imperfect
+aorist
+232428	present
+232441	aorist
+232444	present
+232447	aorist
+aorist
+232450	aorist
+present
+232453	aorist
+232456	aorist
+232458	aorist
+232467	present
+present
+232471	perfect
+232474	present
+232478	present
+232482	perfect
+232484	present
+aorist
+232489	present
+232492	present
+232496	present
+232498	aorist
+232500	present
+232503	aorist
+232506	aorist
+232508	perfect
+232510	future
+232513	aorist
+232516	aorist
+232518	aorist
+232523	imperfect
+232527	aorist
+232531	present
+232533	present
+232535	perfect
+232538	aorist
+232541	aorist
+232547	present
+232551	aorist
+232554	present
+232557	present
+232561	present
+232563	present
+232567	aorist
+232570	aorist
+232574	aorist
+232576	aorist
+232579	aorist
+aorist
+232583	aorist
+232587	imperfect
+232590	imperfect
+232597	imperfect
+232603	perfect
+232605	imperfect
+232607	present
+present
+232614	imperfect
+present
+present
+232619	present
+232623	aorist
+aorist
+232630	aorist
+present
+232635	aorist
+232642	imperfect
+232645	aorist
+232647	present
+future
+232652	aorist
+232659	aorist
+232670	aorist
+232672	aorist
+232675	present
+232681	present
+232683	present
+232689	aorist
+232694	present
+232696	present
+232698	present
+232702	aorist
+232706	perfect
+232709	aorist
+232711	aorist
+present
+232715	aorist
+232718	present
+232720	aorist
+232728	aorist
+aorist
+232731	aorist
+232735	present
+present
+232743	aorist
+232748	imperfect
+present
+232752	present
+232755	aorist
+232757	imperfect
+232761	present
+232763	perfect
+232767	present
+232769	present
+232772	present
+232781	present
+232783	aorist
+232792	aorist
+232798	perfect
+232800	present
+232804	present
+present
+232813	aorist
+232824	aorist
+232827	perfect
+present
+232834	present
+present
+aorist
+232839	present
+232844	present
+232849	present
+232853	aorist
+232859	present
+232861	aorist
+232864	aorist
+232872	aorist
+232877	aorist
+present
+232881	aorist
+232888	present
+232890	imperfect
+present
+232894	present
+232896	imperfect
+232903	present
+232913	aorist
+232920	aorist
+232924	present
+232927	aorist
+232930	aorist
+232932	present
+232939	present
+232943	present
+232946	aorist
+232948	present
+232952	aorist
+232954	present
+232957	present
+232959	aorist
+232961	aorist
+232967	aorist
+232969	aorist
+232975	aorist
+232979	future
+232981	present
+232990	present
+232992	aorist
+232994	aorist
+233004	aorist
+233010	perfect
+233014	aorist
+233031	imperfect
+present
+233034	present
+233040	present
+233044	aorist
+233047	imperfect
+aorist
+233051	aorist
+233058	perfect
+present
+233064	present
+233068	aorist
+present
+present
+233078	present
+present
+233087	present
+233091	present
+present
+233098	present
+233101	present
+present
+233107	present
+present
+233114	present
+present
+present
+233121	present
+233128	present
+233130	perfect
+233132	present
+233139	present
+233141	aorist
+233144	aorist
+233154	present
+233157	aorist
+233160	present
+233164	aorist
+233172	present
+233175	aorist
+imperfect
+233178	present
+233183	present
+233189	imperfect
+perfect
+imperfect
+233196	pluperfect
+233200	aorist
+present
+233205	imperfect
+233216	aorist
+233220	present
+present
+233227	aorist
+present
+233233	aorist
+233239	aorist
+aorist
+233243	aorist
+233245	aorist
+233247	aorist
+aorist
+233252	present
+233260	aorist
+aorist
+233266	aorist
+233270	present
+233273	aorist
+233279	present
+233282	aorist
+233286	present
+233289	aorist
+233294	present
+233296	aorist
+233300	present
+233303	imperfect
+233306	aorist
+233308	present
+233316	perfect
+imperfect
+233319	present
+233322	present
+233336	present
+future
+233345	imperfect
+233348	present
+233352	present
+233355	aorist
+233357	aorist
+233359	present
+aorist
+233362	aorist
+233366	present
+233370	aorist
+233373	aorist
+233375	perfect
+aorist
+233378	imperfect
+233383	aorist
+233386	present
+233388	aorist
+233393	present
+present
+233396	aorist
+imperfect
+233401	aorist
+present
+233404	aorist
+233407	aorist
+233410	aorist
+233412	imperfect
+present
+233415	present
+233420	aorist
+aorist
+233424	imperfect
+233427	present
+233431	imperfect
+233438	aorist
+233442	present
+233448	present
+233450	imperfect
+233453	present
+233457	present
+233459	aorist
+233463	aorist
+imperfect
+233467	aorist
+233470	present
+233473	aorist
+233481	present
+233483	present
+233487	future
+233491	aorist
+233499	present
+233502	present
+present
+233505	present
+233509	present
+aorist
+233512	aorist
+perfect
+233517	present
+233520	present
+233522	present
+233527	future
+233530	perfect
+233535	present
+233537	aorist
+233541	aorist
+present
+233549	imperfect
+233551	present
+233555	aorist
+aorist
+233560	aorist
+233563	aorist
+aorist
+233566	present
+233572	aorist
+233574	aorist
+233576	imperfect
+233578	aorist
+233581	present
+aorist
+233586	aorist
+233594	present
+present
+aorist
+233604	aorist
+233608	aorist
+233610	present
+233612	aorist
+233618	aorist
+233620	aorist
+233625	imperfect
+present
+imperfect
+233630	aorist
+233632	present
+233635	present
+233637	present
+233639	aorist
+233641	present
+233643	aorist
+233650	present
+233656	future
+aorist
+233661	aorist
+233663	aorist
+233667	aorist
+aorist
+present
+233672	aorist
+233675	aorist
+233677	imperfect
+233684	aorist
+233687	imperfect
+233689	present
+233696	aorist
+233699	imperfect
+233703	imperfect
+present
+233707	imperfect
+present
+aorist
+233713	aorist
+imperfect
+233718	aorist
+233723	aorist
+233725	present
+imperfect
+233729	aorist
+233733	aorist
+233738	aorist
+aorist
+233743	imperfect
+233749	aorist
+233752	aorist
+233755	aorist
+aorist
+233759	present
+aorist
+233762	aorist
+233765	aorist
+233767	present
+present
+aorist
+233773	present
+233788	aorist
+233790	aorist
+233794	aorist
+233796	aorist
+233800	present
+233803	imperfect
+233807	aorist
+233809	aorist
+233812	aorist
+233816	perfect
+233820	aorist
+233826	aorist
+233832	aorist
+aorist
+233838	aorist
+233840	present
+233846	imperfect
+233849	present
+233853	aorist
+233857	present
+233859	aorist
+233863	aorist
+233867	aorist
+233871	imperfect
+233873	present
+present
+233876	present
+233882	present
+233884	present
+233887	present
+aorist
+imperfect
+233891	present
+233899	imperfect
+233908	aorist
+233912	aorist
+aorist
+233919	present
+present
+233923	aorist
+233925	aorist
+aorist
+233929	aorist
+233933	aorist
+233938	present
+233940	imperfect
+233942	imperfect
+233946	aorist
+233949	present
+aorist
+233957	aorist
+233962	perfect
+233968	aorist
+233970	aorist
+233973	aorist
+aorist
+233979	aorist
+233982	aorist
+233985	aorist
+233987	aorist
+233989	aorist
+233995	aorist
+233998	aorist
+234001	aorist
+234009	aorist
+234011	aorist
+234013	aorist
+234017	aorist
+234019	aorist
+234021	present
+234026	present
+234028	aorist
+234032	aorist
+234034	present
+234037	aorist
+234040	imperfect
+234046	aorist
+234054	aorist
+234060	aorist
+234062	imperfect
+aorist
+234067	present
+234069	present
+234072	aorist
+aorist
+234078	present
+234080	present
+234085	aorist
+234087	aorist
+234089	aorist
+234097	present
+234101	aorist
+234106	aorist
+234110	aorist
+234117	present
+234120	aorist
+234122	present
+234129	present
+234132	present
+aorist
+234137	aorist
+234143	imperfect
+present
+234148	present
+234164	imperfect
+present
+234168	imperfect
+234171	present
+234173	imperfect
+aorist
+234181	aorist
+234187	present
+aorist
+234193	aorist
+234195	future
+234198	aorist
+234200	present
+future
+234204	aorist
+aorist
+234214	aorist
+234218	aorist
+234221	aorist
+234225	aorist
+234228	aorist
+234230	aorist
+234232	future
+234236	present
+234240	aorist
+234247	future
+aorist
+234254	imperfect
+234256	present
+234258	present
+234263	present
+234273	perfect
+234277	aorist
+234287	aorist
+234291	aorist
+234301	aorist
+234312	present
+234316	present
+234327	present
+234336	present
+234342	present
+234345	present
+234356	present
+234361	present
+234365	future
+234370	aorist
+234372	present
+234374	aorist
+234378	aorist
+234382	aorist
+234386	present
+aorist
+234397	present
+234400	present
+234404	aorist
+aorist
+234408	aorist
+234413	aorist
+234426	present
+234434	aorist
+234437	present
+234441	present
+234444	present
+234451	present
+234455	perfect
+234459	future
+present
+234470	present
+234476	present
+234481	aorist
+234488	present
+present
+234496	present
+234500	aorist
+234507	aorist
+234512	aorist
+234516	present
+present
+234519	aorist
+234521	aorist
+234534	aorist
+234543	present
+234548	aorist
+234558	aorist
+234560	present
+234566	aorist
+234575	aorist
+234585	aorist
+234590	aorist
+234598	present
+234603	imperfect
+234607	present
+234611	aorist
+234613	present
+234615	aorist
+234620	present
+234622	present
+perfect
+234632	aorist
+234634	present
+234637	present
+234641	present
+234644	present
+present
+234648	present
+234651	present
+234655	present
+234658	present
+234661	present
+present
+perfect
+234669	present
+234673	present
+present
+234678	present
+234680	present
+234682	present
+234685	future
+234698	present
+present
+234706	present
+234713	present
+234723	future
+234734	present
+234739	present
+234741	present
+234749	present
+234758	present
+234765	present
+234772	aorist
+234775	future
+234779	aorist
+234781	future
+234791	future
+234796	present
+234800	present
+234804	present
+234806	present
+234809	present
+234817	present
+234823	present
+234826	present
+234828	present
+234841	present
+234843	present
+234846	present
+234849	present
+234852	present
+present
+present
+234857	perfect
+234861	present
+234867	present
+234876	present
+234880	present
+present
+234883	present
+present
+present
+234887	present
+present
+present
+234891	present
+234894	present
+234900	present
+234906	present
+234910	perfect
+234914	present
+234917	present
+234921	present
+234925	perfect
+234932	present
+234936	future
+234938	future
+234943	present
+234954	present
+234993	aorist
+235000	aorist
+235007	future
+235009	aorist
+present
+235018	perfect
+235020	aorist
+235025	future
+235027	present
+235034	present
+235036	future
+235039	present
+235042	present
+235044	aorist
+235047	future
+235058	aorist
+235067	present
+235070	present
+235073	present
+235076	present
+235078	aorist
+235081	aorist
+235086	present
+235089	present
+235092	aorist
+235098	present
+235100	perfect
+235103	present
+235108	present
+present
+235111	present
+present
+235115	aorist
+235117	aorist
+235119	present
+present
+235123	present
+235126	perfect
+235131	imperfect
+235139	present
+235143	aorist
+235152	aorist
+235154	present
+235159	perfect
+235164	present
+235168	present
+235171	aorist
+235174	aorist
+235182	future
+235192	perfect
+present
+235205	present
+235208	present
+235212	aorist
+235214	present
+235218	present
+235227	aorist
+235243	perfect
+235257	present
+235260	present
+235267	aorist
+235275	present
+235277	present
+235292	future
+235301	present
+235305	aorist
+235308	present
+235311	future
+perfect
+235320	aorist
+present
+235329	present
+aorist
+235335	aorist
+235339	present
+235341	present
+235346	present
+present
+235350	present
+235352	present
+235358	present
+235364	present
+235369	aorist
+235373	aorist
+235378	aorist
+235390	present
+235392	aorist
+235398	aorist
+235400	present
+235408	aorist
+235417	present
+235421	present
+235424	aorist
+235434	present
+235452	present
+235461	perfect
+235464	perfect
+235469	present
+235473	present
+235482	present
+235497	present
+235501	perfect
+235505	perfect
+235509	aorist
+present
+235513	present
+235515	present
+235518	present
+235522	aorist
+235524	aorist
+235529	perfect
+235531	future
+235536	aorist
+235538	aorist
+235541	perfect
+235544	present
+235556	aorist
+235559	aorist
+235561	aorist
+235565	aorist
+235568	perfect
+present
+235571	aorist
+235574	aorist
+235577	aorist
+235582	aorist
+235588	present
+present
+present
+235592	aorist
+235597	aorist
+235602	aorist
+235606	aorist
+235610	present
+235619	perfect
+235625	perfect
+235627	present
+235637	present
+235640	perfect
+235644	present
+235654	present
+235659	perfect
+235665	aorist
+235669	present
+235675	aorist
+235680	future
+235687	present
+aorist
+present
+235698	present
+235702	aorist
 235705	aorist
-235707	present
-235713	aorist
-235716	present
-235721	present
-235723	present
-235726	present
-235740	future
-235747	future
+235710	future
+235717	present
+aorist
+235726	aorist
+future
+235735	present
+235744	aorist
 235752	aorist
-235762	aorist
-235769	present
-235771	present
-235777	present
-present
-235788	present
-235791	present
-235805	aorist
-235809	present
-235819	present
-235822	present
-235824	present
-235829	perfect
-235832	present
-235837	present
-235842	perfect
-235847	perfect
-235860	present
-235863	present
-235866	aorist
-235868	imperfect
-235873	present
-235875	present
-235878	aorist
-aorist
-235892	present
-235906	perfect
+235761	aorist
+235765	aorist
+235769	imperfect
+235774	present
+235776	present
+235779	aorist
+235786	aorist
+235793	present
+235795	present
+235808	aorist
+235822	aorist
+235829	aorist
+235847	aorist
+235858	present
+235860	future
+235887	aorist
+235896	future
+235900	aorist
+235902	aorist
+235906	aorist
+235908	aorist
 235912	aorist
-235920	present
+235919	aorist
+235928	future
 present
-235930	perfect
+235933	aorist
 235935	aorist
-235939	perfect
-235948	perfect
-235953	perfect
-235961	present
-235965	present
-235968	aorist
-235973	present
-present
-235980	present
+235937	aorist
+235941	future
+235944	present
+235947	aorist
+235952	aorist
+aorist
+235962	aorist
+235973	aorist
+235977	perfect
+235985	future
 235987	present
-235990	present
-235992	present
+235991	aorist
+235993	aorist
 235998	present
-aorist
-236005	present
-236011	present
-236013	perfect
-236024	present
-236029	perfect
-236043	present
-236047	aorist
-236058	future
-236060	present
-236062	aorist
-236067	present
-236082	present
-236084	present
-236087	future
+236002	aorist
+perfect
+236008	aorist
+236010	present
+236013	future
+236015	perfect
+236018	aorist
+236021	present
+236025	present
+236028	aorist
+236030	aorist
+236034	present
+present
+236039	present
+236041	present
+236045	present
+236051	present
+236058	present
+236062	present
+236068	aorist
+236074	present
+236084	future
+236086	present
+236092	aorist
 236094	present
-236096	present
-236103	perfect
-236106	imperfect
-236108	imperfect
-236116	aorist
-236125	present
-236132	future
-236136	aorist
-236152	imperfect
-236159	imperfect
-236164	imperfect
-236168	present
-aorist
-236179	imperfect
-236187	imperfect
-236200	aorist
-236209	aorist
+236099	aorist
+236101	perfect
+236104	present
+236109	present
+236111	present
+236122	imperfect
+236125	aorist
+236129	aorist
+236131	aorist
+236135	aorist
+236138	present
+236146	aorist
+236157	aorist
+236166	imperfect
+236169	imperfect
+236173	imperfect
+236178	present
+236185	aorist
+236188	aorist
+236191	present
+236212	present
 236214	present
-236218	present
-236223	aorist
-236226	aorist
-236230	imperfect
-present
-236235	pluperfect
-236237	imperfect
-present
-aorist
-236250	present
-236257	aorist
-present
-236276	present
-236280	present
-236293	present
+236217	present
+236220	present
+236223	present
+236229	present
+perfect
+236234	aorist
+236236	perfect
+236243	present
+236246	future
+236248	aorist
+236252	aorist
+236255	present
+236259	present
+236262	aorist
+236267	aorist
+236274	aorist
+236277	aorist
+236279	aorist
+236283	imperfect
+236292	imperfect
 236297	aorist
 236301	aorist
-236305	aorist
-imperfect
-236316	aorist
-236327	aorist
-236336	aorist
-aorist
-236339	present
-236349	imperfect
-236352	aorist
-present
+236304	aorist
+236307	imperfect
+236309	present
+236318	future
+236322	aorist
+236326	aorist
+236334	pluperfect
+236338	imperfect
+236340	future
+236343	aorist
+236347	aorist
+236356	imperfect
 236359	aorist
 236363	aorist
+236366	aorist
 236368	aorist
-aorist
-236372	aorist
-236388	aorist
-236390	perfect
-236395	aorist
+236378	aorist
+236381	aorist
+236385	aorist
 236397	aorist
-236399	imperfect
-236402	present
-236408	present
-236418	aorist
-236420	present
-present
+236400	aorist
+236404	aorist
+236409	present
+236412	aorist
+236418	perfect
 236423	present
-236426	aorist
-236428	aorist
-236440	aorist
-aorist
-236453	aorist
-236457	imperfect
-236469	pluperfect
-236472	pluperfect
-236486	present
-imperfect
+236427	present
 perfect
-236498	present
-236502	present
-236514	present
-236516	aorist
-236519	present
-236522	present
-236524	present
-imperfect
-236527	aorist
-236536	aorist
-236548	imperfect
-236556	perfect
-236562	aorist
-236568	imperfect
-236576	aorist
-236597	aorist
-236599	aorist
-236610	aorist
-236614	aorist
-236620	aorist
-236627	present
-236635	aorist
-236643	aorist
-236647	present
-236652	aorist
-236659	aorist
-236664	perfect
-aorist
-236671	aorist
-236674	present
-236676	present
-236680	aorist
-236684	aorist
-236691	aorist
+236433	present
+236435	present
+236438	present
+236440	present
+236443	present
+236445	present
+236450	present
+236452	present
 present
-236698	present
-236704	present
-236719	future
-236725	aorist
-236729	aorist
+236459	present
+236464	present
+236466	perfect
+236470	present
+236473	present
+236479	present
+present
+236483	present
+236488	present
+present
+236493	present
+236495	present
+236500	present
+236503	present
+236505	present
+236510	present
+236512	present
+236515	present
+present
+236520	present
+present
+236529	present
+236535	present
+236541	present
+236547	present
+236555	future
+236571	present
+236588	aorist
+236601	imperfect
+236607	aorist
+236613	aorist
+236621	aorist
+236624	present
+236629	present
+236632	present
+236658	present
+236661	present
+236664	present
+236666	aorist
+236668	present
+236671	present
+236677	present
+236684	present
+236687	present
+236705	aorist
+236708	present
+236710	aorist
+236712	future
+236720	present
+236727	present
+236731	present
 236735	present
-236737	present
-236745	aorist
-236748	aorist
-236751	present
-236760	present
-236764	aorist
-236766	aorist
-236772	present
-236776	aorist
-236778	aorist
+present
+present
+236744	present
+future
+236749	present
+236752	present
+236754	aorist
+236759	aorist
+236762	present
+236766	present
+236770	present
 236781	present
-236790	aorist
-236798	present
-perfect
-236807	aorist
-236809	aorist
+236784	aorist
+present
+236797	present
 aorist
-236818	present
-236822	perfect
-236839	present
-236862	present
-236864	present
+236809	present
+236813	aorist
+236816	aorist
+236822	future
+236835	perfect
+236852	present
+236855	present
+present
+236863	aorist
+236866	present
+236868	present
 236872	present
-236876	aorist
-236883	aorist
-236890	aorist
-236896	present
-236905	present
-236912	aorist
-236915	present
-236922	future
-236925	aorist
-236929	perfect
-236933	present
+236875	present
+236880	present
+present
+236883	present
+236888	present
+236893	aorist
+236895	present
+236897	perfect
+236901	present
+236904	present
+236906	perfect
+236913	present
+236915	perfect
+236918	present
+236921	present
+236925	present
+236928	aorist
+236930	aorist
 236937	present
-236945	future
-236948	present
-236955	aorist
-236958	perfect
-236966	present
-236980	aorist
-236984	present
-236990	aorist
-236996	perfect
-236999	aorist
-237004	aorist
-237015	present
-237029	present
+236944	aorist
+236947	aorist
+236950	aorist
+236953	aorist
+236956	aorist
+236959	aorist
+236962	future
+236973	aorist
+236977	aorist
+236985	future
+236987	future
+236991	present
+236993	future
+aorist
+236997	aorist
+236999	present
+237005	present
+237009	future
+237021	perfect
+237024	present
+237027	aorist
 237034	present
-237038	present
-237043	aorist
-237053	imperfect
-237062	aorist
-237064	present
-237069	aorist
-237076	imperfect
+237036	aorist
+237038	perfect
+237046	perfect
+237048	present
+237055	future
+237057	aorist
+237067	present
+237070	present
+present
 237079	present
-237088	perfect
-237098	present
-237105	perfect
-aorist
-237109	aorist
-237112	present
-237117	present
-aorist
-237128	aorist
-237130	aorist
-237133	future
+237085	imperfect
+237088	present
+237100	present
+237122	present
+237131	perfect
 237143	present
-perfect
-237151	future
-237159	aorist
-237166	aorist
-present
-237176	perfect
-237181	present
-237188	perfect
-237194	present
-237197	present
-present
-237203	present
-237216	aorist
-237226	aorist
+237149	future
+237153	present
+237164	present
+237173	future
+237175	future
+237184	present
+237189	aorist
+237191	aorist
+237200	present
+237204	present
+aorist
+237209	future
+237212	perfect
+237214	aorist
+237217	aorist
+237220	future
+237225	aorist
 237228	present
+future
+237231	present
+237233	future
+237235	present
 237238	present
-237244	aorist
-237247	aorist
-237249	present
-237254	present
+237240	present
+237244	present
+present
+237252	aorist
+237255	aorist
 237261	aorist
-237264	aorist
-237272	future
-237286	future
-237292	present
-237302	imperfect
-237310	present
-237312	present
-237315	aorist
-237319	aorist
-aorist
-237328	present
-237332	aorist
+237270	present
+present
+237274	present
+present
+future
+237281	present
+237286	perfect
+237289	present
+present
+237292	future
+237294	aorist
+237297	aorist
+237300	present
+237307	aorist
+237316	present
+237318	aorist
+237321	aorist
+237324	aorist
+237329	perfect
+237333	aorist
+237341	aorist
 237345	aorist
-237352	present
-237358	present
-237365	present
-237371	present
+237355	present
+future
+237363	perfect
+perfect
+237366	future
+237370	aorist
 237376	future
-237391	present
-237401	present
-237404	present
-237411	present
-237420	present
-237426	aorist
-237431	present
-237434	present
-237443	present
-237446	future
-237451	present
-237459	aorist
-237462	aorist
-237467	aorist
-237469	present
-237475	future
-237482	aorist
+237379	present
+237382	present
+237386	present
+237397	future
+237401	future
+237407	perfect
+237412	aorist
+237417	aorist
+237421	aorist
+237424	future
+237427	present
+237429	aorist
+237435	present
+237439	aorist
+237446	aorist
+237451	perfect
+aorist
+present
+237459	present
+237462	future
+237477	present
+237482	present
 237486	present
-237493	aorist
-237501	aorist
-237503	present
-237510	present
-237512	present
-perfect
-237522	present
-237531	aorist
-237535	present
-237538	present
-237546	present
-237548	imperfect
-237555	present
-237557	present
-237562	present
-237569	perfect
-237572	present
-237575	present
-237577	present
-237585	present
-pluperfect
-237595	present
-237598	present
-237601	present
-237603	future
-237606	imperfect
-237610	perfect
-237614	present
+237493	present
 aorist
-237622	present
-perfect
-237640	aorist
-237651	imperfect
+237499	aorist
+237505	present
+237508	present
+237515	aorist
+future
+237523	present
+237525	aorist
+237530	future
+237534	present
+237536	aorist
+237539	future
+237543	present
+237546	aorist
+237549	present
+237552	present
+237561	present
+237566	present
+237569	aorist
+237574	aorist
+237581	aorist
+237583	future
+237586	present
+237590	present
+237592	present
+237596	present
+237599	future
+237602	present
+237610	present
+237613	present
+237618	aorist
+237621	future
+237624	aorist
+237628	aorist
+237631	aorist
+237634	aorist
+237637	aorist
+237639	present
+237642	aorist
+237645	aorist
+237647	perfect
+237652	present
+237657	aorist
+237661	present
+237664	aorist
+237675	present
+237677	aorist
+237681	aorist
+237692	present
+237695	aorist
+237698	present
+237700	future
+237706	future
+237710	present
+237712	present
 aorist
-237664	present
+237716	present
+237718	aorist
+237721	present
+237725	present
+237728	aorist
+237733	present
+237735	present
 present
-aorist
-237674	future
-237680	present
-237683	perfect
-237685	perfect
-237688	present
-237696	aorist
-237707	aorist
-237715	present
-imperfect
-237726	imperfect
-present
-237740	imperfect
-237751	imperfect
-237757	present
-237759	imperfect
-237764	aorist
-imperfect
-237778	aorist
-237788	aorist
-237791	present
-237805	future
-237812	present
-237819	present
+237738	aorist
+237743	aorist
+237747	present
+237753	aorist
+237758	aorist
+237761	perfect
+237764	present
+237767	present
+237774	aorist
+237777	aorist
+237779	aorist
+237782	present
+237787	present
+237790	aorist
+237795	aorist
+237807	perfect
+237816	present
 237821	present
-237826	present
-237829	present
+237825	aorist
+237828	aorist
+237831	aorist
+237833	perfect
 aorist
-237842	imperfect
+237841	present
 237846	present
-237860	present
-237870	present
-237873	present
-237877	present
-237881	present
-237884	present
-237895	present
-237897	aorist
-237905	present
-237920	perfect
-237923	aorist
-237925	aorist
-237933	aorist
-237948	aorist
-237961	imperfect
-237969	imperfect
-237971	present
-237979	imperfect
-237988	imperfect
+237852	present
+aorist
+237864	aorist
+237868	present
+237873	aorist
+present
+237876	aorist
+237878	aorist
+237880	aorist
+237887	aorist
+237902	present
+237907	present
+237912	present
+aorist
+237917	aorist
+237947	aorist
+237951	present
+aorist
+237961	aorist
+237963	present
+237967	present
+237970	present
+237974	future
+237976	aorist
+237980	aorist
+237983	aorist
+237987	perfect
+237989	present
 237991	present
-237994	imperfect
-237997	present
-238004	imperfect
-238022	present
+237999	aorist
+238002	future
 aorist
-238031	imperfect
-imperfect
-238037	present
-238041	perfect
-238043	perfect
-aorist
-238049	aorist
-238056	present
-238060	aorist
-238064	present
-238070	present
+238009	aorist
+238015	present
+238019	future
+238024	present
+238026	future
+238029	present
+238032	aorist
+238041	aorist
+238044	aorist
+238050	future
+238055	present
+238057	present
+238063	present
+238069	perfect
+238075	aorist
+238079	future
+238081	perfect
 future
-238083	present
-238089	present
-238094	present
-238102	present
-238105	present
-238111	aorist
-238115	present
-238122	present
-238125	aorist
-238136	present
-238142	present
+238084	present
+future
+238095	aorist
+238120	aorist
+238124	aorist
+238130	aorist
+238136	aorist
 aorist
-aorist
-238149	present
-238152	present
-aorist
-aorist
-238157	aorist
-238162	aorist
-238165	present
-238170	perfect
-238182	present
-238193	present
+238144	aorist
+238158	aorist
+238163	aorist
+238166	aorist
+238169	future
+238183	present
+238191	aorist
 238197	present
-238204	aorist
-238211	present
-238217	aorist
-238222	present
-238232	aorist
-imperfect
-238244	present
-238246	present
-aorist
-238249	aorist
+238204	present
+238208	present
+238213	present
+238223	present
+238227	aorist
+238230	present
+238232	present
+238235	present
+present
+238238	present
+238240	present
+238244	aorist
 238251	present
-238255	present
-238259	aorist
-238265	present
-238271	perfect
-238273	present
-238279	present
-238281	present
-238283	present
-aorist
-238291	present
-238296	present
-238298	perfect
-238300	perfect
-238302	present
-238308	perfect
+238258	present
+238262	present
+238268	present
+238273	aorist
+238286	present
+238290	present
+238293	present
+238295	present
+238297	present
+238301	present
+238303	present
 238310	present
-238313	aorist
-238318	perfect
-238320	perfect
-238326	present
-238329	aorist
-imperfect
-238333	aorist
-238336	aorist
-238345	pluperfect
-238358	aorist
-238363	imperfect
-238368	aorist
-238373	future
-238376	aorist
-aorist
-238384	present
-238390	aorist
-238400	aorist
-238402	aorist
+238315	present
+238317	present
+238319	present
+238321	present
+238323	present
+238327	present
+238329	present
+present
+present
+present
+238335	present
+present
+238338	present
+present
+238341	present
+238344	present
+238346	present
+238349	present
+238351	present
+238357	present
+present
+238368	present
+238370	present
+238373	aorist
+238376	perfect
+238381	future
+present
+238386	present
+238389	present
+238392	present
+present
+238397	present
+238399	future
+238404	present
+238408	present
 238414	present
-238416	present
-238420	aorist
-238422	future
-238426	future
-238429	present
-238433	present
+present
+238418	present
+238424	present
+238428	present
+238433	perfect
+238435	perfect
+238438	future
+238441	present
+238447	present
+238450	present
+238453	present
+238455	future
+238460	present
+238467	present
+present
+238472	present
+238475	present
+238479	present
+238482	present
+238493	present
+238496	present
+238499	present
 aorist
-aorist
-238445	present
-present
-238450	future
-238462	present
-present
-238465	present
-238470	present
-238477	aorist
-future
-238482	future
-238485	present
-238489	present
-aorist
-238506	pluperfect
-238511	aorist
-present
-238515	present
-present
+238517	present
 238521	present
 238523	present
-238528	aorist
-238541	future
-238544	present
-238547	aorist
-238554	imperfect
+238526	perfect
+238529	future
+238531	future
+238533	future
+238535	future
+238543	present
+238545	future
+238554	present
+238560	perfect
+238566	aorist
+238574	aorist
+238576	aorist
+238579	perfect
+aorist
+238585	aorist
+238593	aorist
+238601	aorist
+238607	present
+238610	present
+238612	present
+238618	present
+aorist
+238622	present
+238624	present
 present
-238557	aorist
-238563	imperfect
-238568	aorist
-238575	aorist
-238581	imperfect
-238583	present
-238589	imperfect
-238591	present
-238597	imperfect
-238608	present
-238613	aorist
-238630	imperfect
+238627	present
+238629	present
 238632	present
-238638	aorist
-238650	imperfect
-238654	aorist
-238658	aorist
-238665	aorist
-238678	aorist
-238685	aorist
-238687	aorist
-238692	aorist
-238698	present
-238702	aorist
-238712	perfect
-238721	aorist
-238739	present
-238744	present
 present
-238751	aorist
-238758	present
-238768	present
-238774	aorist
-238780	aorist
-238782	present
+238635	present
+238639	aorist
+238642	present
+present
+238648	future
+238650	present
+238653	aorist
+238658	present
+238663	present
+238669	present
+present
+238673	present
+238675	present
+238677	present
+present
+238683	present
+238686	present
+238688	present
+238693	present
+238697	present
+238701	present
+238703	present
+238706	present
+238708	present
+238712	present
+238715	present
+238717	present
+238725	present
 aorist
-238785	aorist
+238730	present
+238736	present
+238741	future
+238745	perfect
+238747	present
+238749	present
+238753	future
+238757	future
+238764	future
+238769	present
+238772	aorist
+238775	present
+238785	present
+238788	present
 238796	present
-aorist
-238799	aorist
-238808	present
-238810	aorist
-238821	aorist
-238834	aorist
-238846	imperfect
-238851	aorist
-imperfect
-238854	present
-238871	perfect
-238873	aorist
-238878	present
-238886	aorist
-238888	present
-238897	aorist
-238901	present
+238799	present
+238804	present
+238807	aorist
+238809	present
+238814	present
+238827	present
+238838	present
+238846	present
+238857	present
+238860	aorist
+238863	aorist
+238869	present
+238872	present
+238874	present
+238879	present
+238883	present
+238885	present
+238887	aorist
+perfect
+238898	present
+present
 238905	present
-238908	imperfect
-present
+238909	present
 238912	present
-present
-238920	aorist
-238924	imperfect
-238932	imperfect
-present
-238935	aorist
-aorist
-238952	aorist
-238956	aorist
-imperfect
-238965	aorist
-238972	present
-imperfect
-238977	aorist
+238921	aorist
+238924	perfect
+238927	present
+238929	aorist
+238933	aorist
+238937	aorist
+238947	present
+238954	aorist
+238957	present
+238964	present
+238971	present
+238976	aorist
+238981	present
+238985	perfect
 238989	aorist
-239001	perfect
+238996	aorist
+238999	perfect
+239001	future
+239007	future
+239010	present
 aorist
-239009	aorist
-239015	aorist
-239021	present
-239031	aorist
-239034	aorist
-239037	aorist
-239046	present
-present
-239050	present
-239054	aorist
-239058	present
-239060	present
-239069	present
-239074	aorist
-239081	future
-239089	aorist
-239099	present
-239106	present
-239108	aorist
-239111	aorist
-239115	present
-239120	present
-239127	perfect
-239129	aorist
-239132	present
-239136	perfect
-239138	present
-239141	present
-239148	present
-239151	present
-239155	present
-239166	present
-239170	present
-239175	aorist
-239189	perfect
-239199	present
-239201	present
-239203	present
-239208	present
-239215	aorist
-239218	imperfect
-239222	present
-239228	aorist
-239232	perfect
-239241	pluperfect
-239250	pluperfect
-239256	aorist
-239262	present
-239270	aorist
-239274	pluperfect
-239280	aorist
-239285	present
-239287	future
-239297	future
-239300	present
-239303	present
-aorist
-imperfect
-239311	future
-239314	present
-239317	present
-239320	present
-aorist
-239323	imperfect
-239331	present
-239338	present
-239347	present
-239350	present
-239358	aorist
-239362	future
-239373	aorist
-239376	present
+239018	present
+239023	aorist
+239030	present
 future
-239385	imperfect
-239390	present
+239037	present
+present
+239042	future
+239047	aorist
+239052	present
+239054	present
+239061	perfect
+239070	present
+239072	perfect
+239075	present
+239077	present
+239080	aorist
+239084	present
+239088	aorist
+239093	present
+239098	present
+239103	aorist
+239108	perfect
+239111	present
+239120	future
+239122	present
+239125	aorist
+239144	perfect
+239150	present
+present
+239154	aorist
+239159	present
+239162	perfect
+future
+239166	aorist
+239171	perfect
+future
+239175	imperfect
+239177	aorist
+239183	present
+239189	present
 aorist
-239402	present
-239405	present
-239409	present
-239411	present
-239414	aorist
-239417	present
-239420	aorist
-239425	present
+239195	present
+239198	present
+239200	present
+aorist
+239205	aorist
+239211	aorist
+239214	present
+239216	present
+239218	aorist
+239222	aorist
+239229	aorist
+239233	present
+239239	aorist
+239241	present
+239245	aorist
+239249	aorist
+239251	aorist
+239255	future
+239258	perfect
+239261	present
+239266	future
+present
+239279	aorist
+239286	aorist
+239289	present
+239299	aorist
+239302	aorist
+239306	aorist
+239315	present
+239320	present
+239327	aorist
+239332	aorist
+239337	present
+239342	aorist
+239345	aorist
+239357	aorist
+239360	present
+239372	aorist
+239376	present
+239381	aorist
+239384	aorist
+239386	aorist
+239393	present
+239400	perfect
+239402	aorist
+239407	aorist
+239415	aorist
+239419	aorist
+239423	aorist
+239426	aorist
+239430	present
 239432	aorist
-239438	imperfect
-aorist
-239445	aorist
-239454	future
-239457	present
-239462	present
+239434	present
+239436	aorist
+239440	aorist
+239442	aorist
+239450	aorist
+239455	aorist
 239466	aorist
-239472	present
-239475	aorist
+239470	present
+239476	present
 239480	present
-239482	aorist
-239492	present
-239496	present
-239498	aorist
-239502	imperfect
-239512	perfect
-239517	aorist
-239531	present
+239488	aorist
+present
+239491	present
+239498	present
+239506	present
+239514	aorist
+239517	present
+present
+239522	present
 239533	future
-239541	future
-239543	aorist
-239550	present
-239553	perfect
-239557	present
-239560	future
+239544	present
+239553	present
+239555	aorist
+239558	present
+239565	present
+239573	present
+239575	aorist
+239586	perfect
 aorist
-239568	present
-239574	present
-239580	present
-239589	present
-239603	present
-239615	aorist
-239618	future
-perfect
-239624	present
-239626	present
-239628	aorist
-239638	present
-239644	perfect
-239650	present
-239656	aorist
-239662	present
-aorist
-239665	aorist
-239673	present
-present
-239685	present
-239693	present
-239696	present
-239698	aorist
-239705	perfect
-239707	aorist
-239716	aorist
-239718	present
-239728	aorist
-239735	aorist
+239602	aorist
+239623	present
+239625	perfect
+239631	present
+239644	present
+239652	aorist
+239657	aorist
+239667	aorist
+239672	present
+239675	present
+239683	future
+239695	aorist
+239702	present
+239713	present
+239717	present
+239729	aorist
 239739	present
-239743	aorist
-239755	imperfect
-imperfect
-239766	aorist
-239768	present
-239774	perfect
+present
+239744	present
+239747	present
+239758	perfect
+239761	aorist
+239767	aorist
+present
+239771	aorist
 239778	aorist
-239790	present
-239793	present
-present
-239811	present
-239822	present
-present
-239826	imperfect
-239837	imperfect
-239840	present
-239846	present
-239855	present
-239858	present
-239871	present
-239873	present
-239880	present
-239887	present
-239893	present
-239896	present
-239909	present
-239915	present
-239923	present
+239783	aorist
 aorist
-239929	aorist
-239933	present
-239937	present
-239941	present
-aorist
-239947	present
-239949	present
-239957	present
-239962	present
-239968	present
-239970	present
-239972	present
-239975	present
-239984	aorist
-239989	aorist
-239995	aorist
-240001	perfect
-240004	present
-240006	aorist
-240013	present
-240021	aorist
-240025	aorist
-240035	present
-240043	aorist
-240048	aorist
-240051	present
-aorist
-240056	aorist
-240064	present
-present
-240072	present
-240076	present
-240081	present
-240084	perfect
-240088	perfect
-240091	aorist
-240094	perfect
-240096	future
-240103	perfect
-240111	present
-240118	aorist
-240120	aorist
-240129	aorist
-240131	aorist
-aorist
-240144	present
-240147	perfect
-aorist
-240153	present
-240157	aorist
-240159	present
-aorist
-240164	aorist
-240170	aorist
-240172	aorist
-240179	present
-aorist
-240189	aorist
-240196	present
-240199	aorist
-240209	aorist
-aorist
-240214	aorist
-240223	aorist
-240235	present
-present
-240242	aorist
-240246	present
-present
-240251	present
-present
-240259	present
-240262	present
-240267	aorist
-aorist
-240271	aorist
-240279	aorist
-240291	aorist
-240293	present
-aorist
-240305	present
+239791	perfect
+239793	aorist
+239795	aorist
+239798	present
+239800	present
+239806	aorist
+239815	present
+239817	present
+239819	present
+239821	present
 perfect
-aorist
-240310	aorist
-240312	aorist
+239824	future
+239832	future
+239841	aorist
+239853	aorist
+239858	aorist
+239864	aorist
 present
-240320	present
-240327	imperfect
-imperfect
-240331	present
+239870	present
+239874	present
+239877	present
+239879	perfect
+239899	present
+239906	present
+239925	aorist
+239928	present
+239934	aorist
+239937	present
+239944	perfect
+aorist
+239948	present
+239950	present
+aorist
+239954	aorist
+239961	present
+239964	aorist
+239972	perfect
+present
+239975	present
+239977	aorist
+239980	aorist
+239985	present
+239992	aorist
+239994	perfect
+240000	perfect
+240008	aorist
+240026	present
+240034	present
+240047	present
+240049	present
+240053	perfect
+240055	aorist
+240067	perfect
+240070	aorist
+240075	aorist
+240078	perfect
+240082	aorist
+240086	aorist
+240091	aorist
+240093	aorist
+240095	present
+240099	aorist
+240106	present
+240113	perfect
+240128	perfect
+240139	aorist
+240146	perfect
+240149	aorist
+240153	present
+240163	present
+240167	present
+240175	present
+240178	present
+aorist
+240182	present
+240185	present
+240191	present
+240194	aorist
+240197	future
+240202	present
+240205	aorist
+aorist
+240218	aorist
+240223	imperfect
+240228	present
+240232	present
+240238	present
+240241	present
+240244	present
+240248	present
+240255	present
+240258	present
+240262	present
+240265	aorist
+240269	aorist
+240271	aorist
+240273	aorist
+240276	imperfect
+240279	present
+present
+240283	present
+240287	present
+present
+240291	present
+240293	present
+240298	future
+240304	present
+240307	present
+240312	aorist
+240318	aorist
+240321	present
+240324	present
+240326	present
+240330	present
+aorist
 240333	present
 240335	present
-240337	imperfect
-240340	present
-240342	imperfect
-240347	present
-240349	imperfect
+240339	present
+240346	future
+240349	future
 240352	present
-imperfect
-240358	aorist
-240364	aorist
-240370	present
-240373	aorist
-240375	aorist
-240382	aorist
+240357	present
+240360	future
+240364	future
+240366	aorist
+240368	future
+240372	future
+future
+240376	future
+240382	perfect
 240385	present
-240392	aorist
-aorist
-240396	aorist
-aorist
-240399	aorist
-240402	present
-240404	present
-240406	perfect
-present
-240420	imperfect
-240431	aorist
-240436	aorist
-240444	imperfect
-240452	aorist
-240455	aorist
-240458	aorist
-240467	aorist
-240469	present
-imperfect
+240391	present
+240397	present
+future
+240406	present
+240408	present
+240412	present
+240415	present
+240417	present
+240423	aorist
+240425	aorist
+240435	present
+perfect
+240438	present
+240446	present
+240451	present
+240455	present
+240460	present
+240468	perfect
+240470	present
 240480	present
-240494	present
-240496	imperfect
-240498	present
-240505	present
-240508	imperfect
-240512	present
-240520	present
-240525	aorist
-240533	aorist
-240536	present
-240538	aorist
-240547	imperfect
-240550	aorist
-240554	aorist
-240561	aorist
-240563	aorist
-240565	present
-240567	present
-240575	present
-240578	aorist
-240581	present
+240489	present
+240495	aorist
+240499	present
+240502	aorist
+240509	present
+240513	perfect
+240517	perfect
+240519	present
+240522	present
+240527	present
+240529	aorist
+240533	future
+240538	future
+240545	future
+240552	aorist
+240558	aorist
+240562	perfect
+240568	present
+240574	present
+240576	present
+240579	aorist
 240583	aorist
-240591	aorist
-perfect
-240595	present
-240604	aorist
-240608	present
-240610	perfect
-240613	aorist
-240621	perfect
-240623	aorist
-240625	present
-240630	future
-240632	aorist
-240639	imperfect
-240645	pluperfect
-240653	aorist
+240585	present
+240588	aorist
+240592	aorist
+240594	aorist
+240596	aorist
+aorist
+240601	aorist
+present
+240607	aorist
+240612	aorist
+240642	present
+present
+240646	present
+present
+present
+present
+present
+present
 240656	aorist
-240665	aorist
-240668	present
-240670	aorist
-aorist
-240680	imperfect
-240683	aorist
-240685	aorist
-240691	perfect
-240699	present
-aorist
-240705	present
-240707	perfect
-240709	perfect
+240660	present
+240662	present
+240669	present
+240673	present
+240684	aorist
+present
+240689	present
+240692	aorist
+240695	present
+240703	future
 240712	present
-240714	present
-aorist
+240715	present
 240719	aorist
-240722	aorist
-240728	aorist
-240730	aorist
-240735	aorist
-240738	present
-present
-240744	present
-240748	aorist
-240750	aorist
-240753	aorist
-240757	present
-240765	present
-240768	perfect
-240771	perfect
-240778	perfect
-240780	present
+240721	future
+240727	aorist
+240729	future
+240732	perfect
+240743	present
+240745	aorist
+240752	present
+240764	present
+240771	aorist
+240773	aorist
+240778	aorist
+240781	present
+240783	present
+240787	perfect
+240789	present
+240792	aorist
+240797	aorist
+240806	aorist
+240814	aorist
+240824	perfect
+240829	present
 aorist
-240786	aorist
-240795	present
-240799	perfect
-240801	present
-240803	aorist
-240809	perfect
-240816	present
-240821	present
-240828	present
-240830	present
-240837	aorist
-240839	aorist
-240845	perfect
-240848	imperfect
-240854	imperfect
+240834	present
+240837	present
+240843	aorist
+240845	present
+240856	aorist
+240861	present
+240873	imperfect
+240877	aorist
+240880	aorist
+240883	present
+240887	present
 present
-240857	aorist
-240859	aorist
-240865	aorist
-240869	present
-240872	aorist
-240875	aorist
-240878	aorist
-240882	aorist
-240884	aorist
-240886	present
-240896	aorist
-240899	aorist
-240902	present
-240905	aorist
-240909	aorist
-240915	perfect
+240896	present
+240901	present
+240904	present
+240908	future
+aorist
+240913	present
+240916	present
 240919	present
-240924	present
-240927	imperfect
-present
-240931	aorist
-240934	aorist
-240949	aorist
-240953	present
-present
-240957	present
-240959	aorist
+240928	perfect
+240932	future
+240936	present
+240939	present
+240942	perfect
+240945	future
+240950	present
+perfect
+240955	present
+240958	present
+240960	present
+240964	future
 aorist
-240971	present
-240973	aorist
-240980	present
-aorist
-240988	imperfect
-240991	imperfect
+240973	present
+240983	present
+240986	present
+240991	present
 240995	present
-240997	present
-241003	present
-241006	present
-241010	present
-241026	present
-241030	present
-241035	present
+241004	perfect
+241009	future
+241011	present
+241020	future
+241024	imperfect
+241026	aorist
+241028	aorist
+241030	aorist
 241043	present
-241051	present
-241061	present
-241068	present
-241073	present
-241081	aorist
-241085	present
+241047	present
+241050	present
+241054	future
+241065	future
+241078	aorist
+241081	future
+241086	perfect
 241091	present
-241093	perfect
-241104	future
-241106	future
-241112	perfect
-241125	aorist
-241133	aorist
-241135	imperfect
-241137	imperfect
-241139	aorist
-241147	present
-241151	present
-241162	aorist
-241167	present
-241172	aorist
-241178	present
-241187	aorist
-future
-241190	future
-241192	future
-241195	future
-241200	present
-241204	aorist
-241206	aorist
-241208	aorist
-241210	aorist
-241213	present
-241216	present
-241218	present
-241238	present
-241249	present
-241253	present
-241258	present
-241262	present
-241264	present
-241269	present
-241274	present
-241277	present
-241280	present
-241283	present
-241291	present
-241300	present
-241305	present
-241311	present
-241317	present
-241327	present
-241337	present
-241340	present
-241349	present
-241351	aorist
-241358	future
-241360	future
-241374	present
-241377	present
-241385	aorist
-241388	aorist
-241395	present
-241401	present
 aorist
-241406	present
-241408	aorist
-241415	aorist
-241425	aorist
-241438	imperfect
-241446	present
-241448	present
-241451	present
-241453	imperfect
+241097	aorist
+241100	aorist
+241103	perfect
+241105	present
+241108	present
+future
+241111	present
+241116	present
+241119	present
+present
+241124	aorist
+241128	present
+241130	present
+241134	present
+241137	perfect
+241146	present
+241148	present
+241152	present
+241154	aorist
+241157	aorist
+241165	aorist
+241170	present
+241177	present
+241182	present
+241186	present
+241196	present
+241205	present
+241209	present
+241215	aorist
+241221	present
+241224	present
+241232	present
+241236	present
+241239	present
+241246	present
+241254	present
+241262	aorist
+241268	present
+aorist
+241272	present
+present
+241275	present
+241277	perfect
+present
+241284	aorist
+241288	aorist
+present
+241293	aorist
+241298	present
+241301	present
+241307	present
+241310	present
+present
+241314	present
+241318	present
+241322	present
+present
+241326	present
+241328	perfect
+241336	perfect
+241347	present
+241351	present
+241355	present
+present
+241358	perfect
+241366	perfect
+241371	perfect
+241374	future
+241377	perfect
+241380	future
+241384	perfect
+241388	perfect
+241391	present
+241397	present
+perfect
+241400	aorist
+241402	present
+241404	perfect
+241407	present
+241410	present
+241414	present
+241422	aorist
+241424	present
+241426	aorist
+241429	present
+241433	present
+241435	aorist
+241437	aorist
+241442	aorist
+241444	present
+241447	aorist
+241449	present
+241451	aorist
+241453	present
+241457	aorist
 241460	present
+241467	present
+241470	present
+241473	perfect
+241476	present
 present
-241464	present
-241468	aorist
-aorist
-241480	imperfect
-241482	imperfect
-241500	aorist
-241507	imperfect
-241517	present
+241481	present
+241485	perfect
+241489	present
+perfect
+241493	present
+241495	perfect
+241498	present
+241503	aorist
+241505	aorist
+241508	aorist
+241511	aorist
+241515	future
 241520	present
-241524	aorist
-241527	aorist
-241532	aorist
-241536	present
+241523	present
+241530	present
+241534	present
+present
+241537	present
+241540	present
 241542	present
-241555	present
-241562	present
-241565	present
-241587	present
-241589	present
-241592	present
-241595	present
-241604	aorist
-241612	future
-241628	perfect
+241545	present
+241547	present
+241550	present
+241552	present
+241556	present
+present
+241563	present
+241567	present
+241569	present
+241573	aorist
+241576	aorist
+present
+241581	aorist
+241584	perfect
+241590	present
+241594	present
+241601	aorist
+present
+241606	aorist
+241614	present
+241618	aorist
+241628	present
 241632	present
-241635	present
+241634	present
+241638	present
 present
-241652	present
-aorist
-241660	aorist
-241662	aorist
-241671	aorist
-241687	present
-aorist
+241641	present
+present
+241644	present
+present
+241648	perfect
+241654	present
+241658	present
+241664	perfect
+241668	present
+241672	future
+241675	present
+241679	present
+241682	present
+241684	future
+241686	perfect
+241689	present
+241694	aorist
+241697	present
 241699	present
-241709	present
-present
-241713	aorist
-241720	present
+aorist
+241705	present
+241708	aorist
+241712	present
+241716	present
+241720	perfect
+241724	present
+241726	present
+241729	present
+241732	present
 perfect
-241731	aorist
-241733	present
 241736	aorist
-241748	aorist
-241751	present
+241738	present
 aorist
-241760	aorist
-241762	aorist
-241769	present
-241771	present
-241773	aorist
-241779	present
-241782	present
-241793	present
-241797	present
-241801	present
-241805	present
-241807	aorist
+241743	present
+241746	perfect
+241753	perfect
+241768	present
+241770	present
+241776	present
 241809	present
-241823	imperfect
-241827	aorist
+241814	present
+present
+241820	future
+241825	aorist
+present
 241829	aorist
+present
+present
 241838	aorist
-241852	imperfect
-241857	present
-241859	imperfect
-241863	aorist
-241868	imperfect
-241874	aorist
-241880	aorist
-241886	imperfect
-241889	aorist
-241894	imperfect
-241899	present
-241918	imperfect
-241922	aorist
-241928	aorist
-241945	imperfect
-aorist
-241954	present
-241956	aorist
-241958	present
+241843	aorist
 present
-aorist
-241965	aorist
-241972	present
-241987	aorist
-241998	imperfect
+241847	present
+241851	present
+future
+241855	present
+present
+241858	present
+241865	aorist
+241868	present
+241872	present
+241876	present
+241878	present
+241882	present
+241886	aorist
+241894	aorist
+present
+241897	present
+241901	perfect
+241905	present
+241910	present
+241914	present
+241921	present
+241926	present
+present
+241930	present
+241934	present
+241936	present
+241950	present
+241953	present
+241955	present
+241959	present
+241965	present
+241968	present
+241976	present
+241979	present
+241985	present
+241990	perfect
+241992	future
+241994	present
+241996	present
+242001	present
+242004	aorist
+242006	present
+242008	present
+present
+242011	present
+242013	present
 242018	aorist
-242020	present
-242023	aorist
-242027	imperfect
-242036	present
-242040	present
-242047	present
-242054	imperfect
-242056	aorist
-242062	present
-242064	aorist
-242070	present
-242076	present
-242083	present
+242024	future
+242029	present
+242034	aorist
+242039	present
+242043	aorist
+242048	perfect
+242051	present
+242055	present
+242057	present
+242059	present
+242063	aorist
+242065	present
+242068	present
+242072	perfect
+242075	aorist
+242080	aorist
+242086	aorist
+242091	future
 242094	present
-242098	present
-242104	present
-242110	present
-242115	aorist
-242120	present
-242128	perfect
-242130	present
-242132	aorist
+242096	present
+242102	present
+242106	present
+242109	aorist
+242114	present
+242116	present
+242121	perfect
+242125	present
+242128	present
+242130	aorist
 242134	aorist
-242142	perfect
-future
-pluperfect
-242158	aorist
-242169	present
-242172	aorist
-242179	aorist
-242181	present
-242186	aorist
-242189	imperfect
-242192	present
-242196	aorist
-242200	present
+242141	present
+242145	aorist
+242148	aorist
+242150	aorist
+242156	aorist
+242163	present
+242169	aorist
+242173	present
+242178	aorist
+242180	aorist
+242185	aorist
+242187	perfect
+242192	aorist
+242195	present
+242200	aorist
+242202	perfect
 242205	present
-242210	aorist
-242214	aorist
-242219	aorist
-242225	present
-242231	imperfect
-242254	pluperfect
-242263	aorist
-242275	aorist
-242278	present
+242208	present
+242211	present
+242214	present
+242216	aorist
+242219	present
+242221	present
+242227	aorist
+242234	present
+242239	present
+242243	present
+242245	present
+242249	present
+242252	aorist
+242255	aorist
+242257	present
+242260	present
+242268	imperfect
+242273	aorist
+242278	aorist
+242289	aorist
+242295	aorist
+imperfect
+242301	present
+242304	imperfect
+242311	aorist
+242313	aorist
+242320	aorist
+242323	present
+242328	aorist
+242331	present
+242335	perfect
 aorist
-242288	imperfect
-aorist
-242299	imperfect
-242303	aorist
-242311	perfect
-242315	aorist
-242319	future
-242324	present
-242329	future
-242335	present
-242340	perfect
-242342	future
-242355	aorist
-242361	present
-242370	present
+242340	aorist
+present
+242343	present
+242346	aorist
+242348	aorist
+242352	present
+242356	aorist
+242360	imperfect
+242362	present
+242365	aorist
+242367	aorist
+242373	imperfect
 242375	aorist
-future
-242381	present
-242383	present
-242390	aorist
-242396	present
-242398	present
-242403	perfect
+242383	perfect
+242385	present
+perfect
+present
+242389	aorist
+242393	perfect
+242401	future
+242403	aorist
 242406	present
-242423	present
-242426	aorist
+242408	future
+242413	present
 aorist
-242429	aorist
-242437	aorist
-242441	present
-242443	present
-242448	aorist
+242417	present
+242422	present
+aorist
+242426	present
+242431	present
+242434	present
+242440	present
+242446	present
+242452	present
+242458	present
 present
-242452	imperfect
-242458	pluperfect
-242468	imperfect
-242476	aorist
+242463	present
+242467	present
+242470	present
+242474	present
+242479	present
+242483	present
 242486	present
-242496	present
-242498	aorist
-242504	aorist
-242506	aorist
-aorist
-242509	aorist
+242488	present
+242493	present
+242495	present
+242497	present
+242501	present
+242503	present
+242507	present
 242511	present
-242518	aorist
-242525	aorist
-242527	imperfect
-242529	aorist
-242531	aorist
-242539	present
-242543	imperfect
-242549	aorist
-242556	aorist
-242558	present
-242563	aorist
-242566	present
-aorist
+242513	present
+242517	present
+242519	present
+242523	present
+242526	present
+242532	present
+present
+242535	present
+242546	present
+242550	present
+present
+242553	present
+242555	present
+242557	present
+242564	aorist
+242567	present
+242569	present
 242572	aorist
-242575	aorist
-242577	perfect
-242579	present
-242582	present
-242584	aorist
-aorist
-242589	imperfect
-242594	aorist
-242596	imperfect
-242604	aorist
-242606	imperfect
-242610	aorist
-242618	aorist
-242624	aorist
-242628	present
-242632	present
-242638	imperfect
-242643	imperfect
-242647	present
-242651	aorist
-242655	present
-242662	perfect
-242666	present
-242669	present
+242576	present
+242586	present
+242592	present
+242594	present
+242598	present
+242601	present
+242603	present
+242606	present
+242610	present
+242613	present
+242623	present
 present
-242676	aorist
-242680	aorist
-future
-242689	aorist
-242698	aorist
-242704	aorist
-242706	present
-242709	aorist
-242713	pluperfect
-242717	present
-242725	perfect
-aorist
-242728	aorist
-242732	aorist
-242735	aorist
-242739	aorist
-242741	present
-242743	aorist
-242745	perfect
-perfect
-242762	pluperfect
+242631	aorist
+242633	present
+242637	present
+242643	perfect
+242646	aorist
+242649	present
 present
-242768	aorist
-242771	aorist
+242653	perfect
+242659	present
+242670	present
+present
+242679	present
+242683	present
+242686	perfect
+242690	present
+242693	aorist
+242699	present
+242704	present
+present
+242709	present
+242713	present
+242715	present
+242723	aorist
+242732	present
+242735	present
+242764	aorist
+present
+present
+242769	present
 242773	present
-242783	aorist
-242790	aorist
-242792	aorist
-aorist
-242803	aorist
-242810	aorist
-242813	aorist
-242815	aorist
-242826	imperfect
-242828	present
+242779	present
+242782	present
+242786	present
+242789	present
+242793	perfect
+242798	present
+242800	present
+242804	present
+242811	present
+242813	present
+242820	present
+242823	present
+242826	present
+242829	present
+242832	present
+present
 242837	present
-242840	aorist
-242844	future
-242849	future
-242854	future
-242875	present
-242881	aorist
-242885	perfect
-242888	present
-242890	present
-242896	aorist
-242909	aorist
-242916	aorist
-242919	present
+242842	aorist
+242844	present
+242850	present
+242852	aorist
+242857	present
+242859	aorist
+242863	present
+242866	present
+242870	present
+242877	present
+242879	present
+242881	present
+242883	aorist
+242885	aorist
+242889	present
+242892	aorist
+242897	aorist
+242903	imperfect
+aorist
+242907	aorist
+aorist
+242910	aorist
+242913	present
+242918	present
 242925	aorist
-242927	imperfect
-242929	present
-242955	perfect
-aorist
-242968	aorist
-242970	aorist
-242978	imperfect
-242985	aorist
-243002	present
-243005	aorist
-243011	imperfect
+present
+242931	present
+242936	present
+242938	present
+242944	present
+242949	present
+242953	present
+242956	aorist
+242959	present
+242962	present
+242968	future
+242974	present
+242982	present
+242986	present
+242993	present
+243000	present
+243005	imperfect
+243007	imperfect
+present
+243012	present
+243017	aorist
+243020	present
 243022	aorist
-243038	aorist
-243040	imperfect
-243046	imperfect
-243055	perfect
-243057	present
-243063	aorist
-243069	pluperfect
-243082	aorist
-243084	present
+243024	present
+243027	present
+243029	present
+243033	present
+243037	aorist
+future
+243044	present
+243046	present
+perfect
+243051	imperfect
+243057	imperfect
+present
+243060	present
+243066	present
+present
+243072	present
 aorist
-243087	aorist
-243102	aorist
-243107	imperfect
-243110	aorist
-243115	aorist
-243124	imperfect
-243131	imperfect
-243135	present
-243143	aorist
-243153	aorist
-243162	aorist
-243177	aorist
-243187	present
-243201	present
-243203	present
-243213	aorist
-243218	aorist
-243220	aorist
-243230	imperfect
-243235	imperfect
-243240	present
-243242	present
-imperfect
-aorist
-243249	aorist
-243263	aorist
+243082	present
+243088	present
+243094	present
+243098	present
+243103	present
+243108	present
+243114	present
+243149	present
+243154	present
+243157	present
+243162	present
+243165	present
+243172	present
+243174	present
+243184	aorist
+243192	aorist
+243196	present
+243200	aorist
+243204	present
+243207	present
+243212	present
+243217	aorist
+243221	present
+243224	present
+243229	present
+243246	aorist
+243253	aorist
+243256	imperfect
 243270	present
-243278	present
-aorist
-243294	present
-243296	aorist
-243310	aorist
-243312	aorist
-243316	aorist
-243327	aorist
-243334	imperfect
-243339	imperfect
-243354	aorist
-243360	aorist
-243362	present
-243367	aorist
-243376	aorist
-243383	imperfect
-243385	perfect
-243387	present
-243401	aorist
-243407	aorist
-243413	present
-perfect
-243416	present
-243420	aorist
-243426	present
+243273	aorist
+243277	present
+243284	present
+243289	present
+243293	present
+243295	present
+243298	present
+243300	present
+243304	present
+243309	present
+243315	present
+243318	aorist
+243320	present
+243322	aorist
+243325	present
+243332	present
+243336	present
+243338	present
+243342	present
+243344	present
+243349	present
+243356	aorist
+243381	present
+243384	present
+243386	present
 present
-243435	aorist
-243446	aorist
-243449	aorist
-243453	imperfect
-243457	perfect
-243460	aorist
-243462	imperfect
-243468	present
-243476	aorist
-243483	aorist
-243492	aorist
-243498	aorist
-243501	perfect
-243509	aorist
-243513	present
-243516	present
-243518	aorist
-243525	aorist
-imperfect
-243534	present
-243536	aorist
-243544	aorist
-243556	imperfect
+243397	present
+243402	present
+243408	present
+perfect
+243411	present
+243414	present
+243417	present
+243420	perfect
+243428	present
+243433	present
+243437	present
+243439	present
+243442	aorist
+243445	present
+243448	aorist
+243452	future
+243456	present
+243458	present
+243460	present
+present
+243464	present
+243467	present
+243469	present
+243471	present
+243473	present
+243476	present
+243478	present
+243480	present
+243483	present
+243487	present
+243489	present
+243491	present
+243493	present
+243496	present
+243500	future
+243503	future
+243506	future
+243509	present
+243512	present
+243515	aorist
+243519	future
+243521	imperfect
+243523	imperfect
+243526	imperfect
+243529	imperfect
+243533	perfect
+243535	perfect
+243538	present
+243548	present
+243552	future
+243555	aorist
 243558	present
-243560	present
-243564	aorist
-present
-243570	present
-243574	present
+243565	present
+243567	present
+243573	present
+243575	present
 243579	present
+243584	present
 243587	present
-243589	present
-perfect
-243595	aorist
-243605	present
-243616	aorist
-243622	aorist
-243625	present
-243628	aorist
-243632	present
-243634	present
-243640	present
-243644	present
-243662	future
-243667	present
-243669	present
-243672	present
-243684	future
-243688	present
+243590	present
+243592	present
+243595	present
+243598	present
+243600	present
+243602	present
+present
+243606	present
+243611	present
+243614	present
+243616	present
+243621	present
+243625	aorist
+243630	aorist
+243633	present
+243636	future
+243640	aorist
+243651	present
+243658	aorist
+243660	future
+present
+243663	present
+243668	aorist
+243670	future
+243678	aorist
+243680	future
+present
+243687	aorist
+243689	present
+243697	perfect
+243701	future
+present
+243705	present
+243711	present
+243716	present
+243718	present
+243720	present
+243722	present
+243724	present
+243727	present
+243731	present
+243736	present
+243739	present
 future
-243700	perfect
-243703	aorist
-243705	aorist
-243718	aorist
-243727	aorist
-243733	aorist
-243742	aorist
-243745	future
-243751	perfect
-243753	aorist
-imperfect
-243756	perfect
-243758	imperfect
-243761	perfect
-aorist
-243765	aorist
-243775	perfect
-243783	present
-243799	future
-243803	aorist
-243810	future
-243816	imperfect
+243742	future
+243746	future
+243748	future
+243754	present
+243756	present
+243761	future
+243768	present
+243770	perfect
+243775	present
+243779	present
 present
-243821	imperfect
+243785	present
+243788	present
+243792	aorist
+243795	aorist
+243801	present
+243805	present
+243809	present
+243812	perfect
+243818	future
+243824	future
+243826	present
+243831	present
 present
+243839	present
+243842	aorist
+243849	present
+243851	aorist
+243854	future
+243856	present
+243860	present
 aorist
-243830	aorist
-243840	present
-243848	present
-243851	present
-aorist
-243861	present
-243871	aorist
-243887	present
-present
-243893	present
-243898	aorist
+243865	present
+243867	present
+243874	present
+243877	aorist
+243879	future
+243881	present
+243886	present
+243889	present
+243892	present
+243895	present
+243897	present
+243899	present
 243901	present
-243908	perfect
+243903	present
+243906	present
 243910	present
-243915	present
+243918	present
+243922	present
+243924	present
+243927	present
+243933	present
+243936	present
+243940	aorist
 present
-243926	aorist
-243928	aorist
-243931	aorist
-aorist
-243941	perfect
-243946	imperfect
-243959	aorist
-243961	aorist
-243964	aorist
-243977	aorist
-243982	imperfect
+243943	present
 present
-243986	aorist
-243988	perfect
-243995	aorist
-244003	aorist
-244008	aorist
-244013	aorist
-244015	future
-244018	aorist
-244021	aorist
-244028	aorist
-244043	aorist
-244054	imperfect
-244058	aorist
+243948	present
+243951	present
+243954	present
+243958	present
+243960	present
+243974	present
+243977	present
+243979	present
+243981	present
+243985	present
+243989	aorist
+present
+243994	present
+243997	present
+243999	present
+244006	aorist
+244010	aorist
+244013	present
+present
+244016	present
+244018	present
+244022	present
+244026	present
+present
+244030	present
+present
+244033	present
+244035	present
+244041	present
+present
+244048	aorist
+244052	aorist
+244055	perfect
+244058	present
+244060	aorist
+244063	present
+244067	aorist
 aorist
-244079	aorist
-244081	aorist
-244083	present
-244088	present
-244096	aorist
-244100	present
-244102	present
-244104	aorist
-244113	perfect
-244118	present
-244128	aorist
-244134	aorist
-244140	aorist
-244143	present
-244147	aorist
-244149	present
-244155	aorist
-244160	present
-244164	present
-244170	present
+244074	aorist
+244076	aorist
+244083	aorist
+244085	perfect
+244092	aorist
+244097	aorist
+244103	present
+244107	aorist
+244109	aorist
+244118	aorist
+244122	present
+244128	present
+244130	present
+244133	aorist
+244139	present
+244141	present
+244149	aorist
+244153	aorist
+244165	present
+244168	aorist
 244172	present
-244178	aorist
-244180	future
-244195	aorist
-244200	aorist
-244206	perfect
-244208	aorist
+244175	perfect
+244177	present
+244183	present
+244188	present
+244191	perfect
+244196	perfect
+244205	present
 244211	aorist
-244213	perfect
-244223	present
-244227	present
-244229	perfect
-244235	present
-244246	perfect
-244251	aorist
-244258	aorist
-244271	aorist
-244285	aorist
-244289	present
-244294	perfect
-244301	aorist
-244307	perfect
-244310	aorist
-244325	aorist
-244332	present
+244215	aorist
+244219	aorist
+244224	present
+244229	present
+244232	perfect
+244237	perfect
+244242	present
+244248	aorist
+244250	aorist
+244260	present
+244263	perfect
+244266	perfect
+244279	present
+244285	future
+244301	present
+244304	aorist
+244309	present
+244312	present
+244315	aorist
+244322	present
+244326	aorist
+244332	aorist
+244335	perfect
+244339	aorist
+244344	aorist
+244351	future
+aorist
+244356	present
+244362	future
 present
-244340	present
-244345	aorist
-244347	aorist
-244350	present
-244358	aorist
-present
-244368	present
-244374	imperfect
-perfect
-present
-244382	present
-244388	present
+244370	present
+244373	present
+244377	present
+244380	present
+244386	present
 244392	aorist
-244395	aorist
-244399	present
-244402	perfect
-244404	future
-244409	present
-244415	aorist
-244426	aorist
-244431	aorist
-244434	present
-244439	present
-244461	present
-244465	perfect
-244467	present
-244474	aorist
-244476	present
-244482	present
-244486	pluperfect
-244489	present
-244494	aorist
-244499	present
-244502	aorist
-244509	aorist
-244516	aorist
-244518	aorist
+244400	present
+aorist
+244403	aorist
+244406	present
+244408	present
+present
+244412	aorist
+244416	present
+244420	present
+244423	present
+244425	future
+244428	present
+244432	present
+244436	present
+244438	present
+244441	aorist
+244444	present
+244446	future
+present
+244451	aorist
+244457	present
+244461	aorist
+244507	present
+244514	present
+244516	present
+244518	present
 244520	present
-244522	perfect
-244525	present
-244536	present
-present
-244542	aorist
-244558	present
-244561	present
-244567	aorist
-244572	aorist
-244577	present
-244580	present
-244583	present
-244595	aorist
-244599	perfect
+244522	present
+244524	present
+244526	present
+244528	present
+244531	present
+244533	present
+244537	perfect
+aorist
+244543	present
+244548	present
+244576	aorist
+244580	aorist
+244587	present
+244591	aorist
+244593	present
+244597	present
+aorist
 244601	present
-244603	present
-244611	present
-244613	perfect
-244615	aorist
-244621	aorist
-244623	present
-244629	aorist
-244641	present
-244646	aorist
-244648	present
-244650	aorist
-244653	present
-244656	present
-244659	present
-244662	aorist
-244664	present
-244668	present
+244604	future
+244607	future
+244614	future
+244618	future
+244622	future
 present
-244671	aorist
-244674	aorist
-244676	aorist
-244681	aorist
-244683	aorist
-244686	present
-244694	future
-244696	imperfect
-244703	present
-244707	present
-244709	imperfect
+244627	aorist
+244632	aorist
+244638	aorist
+244643	aorist
+244646	future
+244648	perfect
+aorist
+244673	present
+244683	present
 present
-244730	imperfect
-244734	present
-244740	present
-244742	aorist
+244690	perfect
+244695	present
+244705	aorist
+244711	aorist
+244716	present
+present
+244719	present
+244723	aorist
+244726	present
+244729	aorist
+244731	aorist
+244734	future
+aorist
+244742	present
 244744	present
-244748	present
-aorist
-244761	present
-244765	present
+244746	future
+future
+244752	aorist
+244755	present
+244758	aorist
+future
+244762	future
+244766	aorist
+244768	present
+244770	present
+244775	aorist
 present
-244772	present
-244775	future
-244780	future
-244782	aorist
-244787	present
-244789	present
-244801	aorist
-244808	present
-244813	present
+244779	aorist
+244783	aorist
+future
+244792	perfect
+244795	present
+244799	aorist
+244801	present
+244804	aorist
+244809	present
+244816	aorist
 aorist
-244820	aorist
-244822	present
-244826	aorist
-244830	imperfect
-244835	imperfect
-244838	present
-244841	aorist
-244845	present
-244857	aorist
-aorist
-244864	aorist
-244866	imperfect
-244871	aorist
+244822	aorist
+244824	present
+244833	aorist
+244836	aorist
+244843	imperfect
+244847	aorist
+future
+244851	aorist
 present
+present
+244856	present
+present
+244860	present
+present
+244865	perfect
+244869	present
 244875	aorist
-244887	aorist
-244895	aorist
-244904	future
-244911	future
-244919	present
-future
-244924	aorist
-244931	present
-244934	present
+244879	present
+244883	present
+244885	present
+present
+244897	aorist
 aorist
+244904	present
+244907	present
+244912	present
+244922	present
+244926	aorist
+244937	present
 244939	present
-244944	present
-244947	present
-244950	aorist
-244956	present
-244961	future
-244967	present
-244970	present
-244974	present
-244980	present
-aorist
-244984	present
-244986	present
-244989	aorist
-future
-244993	present
-245001	present
-245003	aorist
-245013	future
+244942	aorist
+244961	present
+244966	present
+244987	present
+244994	present
+244996	present
+245003	present
+245009	present
+245017	present
+245023	present
+245029	present
+245033	present
+245040	present
+245046	perfect
+245050	present
+245057	present
+245059	present
+245064	aorist
+245070	aorist
+245072	aorist
+245075	present
+245082	perfect
+245089	present
+245094	aorist
+245097	future
+245099	perfect
+245102	future
 present
-245024	future
-245027	present
-245033	aorist
-245037	aorist
-245041	present
-245047	present
-245058	present
-245073	present
-245077	aorist
-245081	present
-aorist
-245087	aorist
-245089	aorist
-245093	present
-245095	future
-245102	present
-245107	present
-245111	present
-perfect
-245116	present
-245121	perfect
-245123	present
-245125	perfect
-245129	present
-245133	present
-245146	present
-245158	pluperfect
-245168	pluperfect
-245172	present
-245175	perfect
+245114	aorist
+245120	present
+245135	aorist
+245142	present
+245147	present
+245150	present
 present
-245180	aorist
-245186	present
-245188	present
-245199	present
-245202	perfect
-245206	perfect
-245208	perfect
-245214	present
-aorist
-245221	present
-245236	present
-245242	present
-245248	present
-245256	present
-present
-245263	present
-245289	present
+245155	future
+245158	aorist
+245163	present
+245175	imperfect
+245178	aorist
+245181	aorist
+245184	aorist
+245189	aorist
+245193	aorist
+245198	present
+245201	aorist
+245204	present
+245206	present
+245208	present
+245222	present
+245230	aorist
+245235	aorist
+245240	perfect
+245254	present
+245259	aorist
+245262	aorist
+245265	aorist
+245276	present
+245281	present
+245284	aorist
+245287	present
 245292	present
-245295	present
-245304	present
-245306	future
-245311	future
-245319	present
+245297	perfect
+aorist
+245304	aorist
+245308	present
+245311	present
+245315	present
+245318	aorist
+245322	aorist
 245324	aorist
-245333	future
-245335	aorist
-245346	aorist
-245356	future
-245358	present
-245367	future
-245369	future
-245377	future
-245380	present
-245401	present
+245327	imperfect
+245329	present
+perfect
+245337	present
+245343	aorist
+245348	aorist
+245352	aorist
+245354	present
+245360	perfect
+245362	perfect
+245367	present
+245383	aorist
+245386	present
+245388	aorist
+245394	aorist
+245396	aorist
+245402	present
+245406	present
+245411	perfect
+245414	perfect
+245420	aorist
+245427	present
 aorist
-245405	present
-245408	present
-245410	present
-245416	present
-245421	future
-245423	future
-245426	present
-245439	present
-245442	present
-245446	present
-245450	future
-245458	future
-245479	present
-245486	present
-245489	present
-245491	present
-245495	present
-245497	future
-245506	future
-245509	future
-245512	present
-245523	perfect
-245526	present
+245439	perfect
+245442	perfect
+245447	aorist
+245452	aorist
+245454	aorist
+245460	present
+245469	present
+245475	present
+245478	present
+245481	present
+245511	present
 present
-245534	aorist
-245537	aorist
-245541	present
-245548	future
-245555	future
-245561	future
-245567	future
-245570	present
-245578	present
-245584	present
-245586	present
-245592	aorist
-245596	perfect
-245601	present
-245614	future
-245627	future
-245630	future
-245635	aorist
-245639	present
-245646	present
+245515	present
+245517	present
+245527	present
+perfect
+245535	present
+245537	present
+245539	aorist
+245541	perfect
+245545	present
+245553	present
+245561	present
+aorist
+245574	aorist
+245582	present
+245585	present
+245592	perfect
+245594	aorist
+245598	present
+aorist
+245610	present
+245616	future
+245625	present
+245633	perfect
+perfect
+245641	present
+245644	present
+245647	present
+245649	present
 245653	present
-245655	present
-245658	present
-245665	present
-aorist
-245669	aorist
-245671	present
-245673	present
-245678	imperfect
-245680	aorist
-245683	present
+245657	imperfect
+245664	aorist
+245670	present
+245672	aorist
+245686	present
+245688	present
+245691	present
 245695	present
-245698	perfect
-245701	aorist
+245701	present
 245704	aorist
-aorist
-245708	future
-245712	present
+245706	present
+245711	present
+245720	perfect
+245723	present
 245726	present
-245730	aorist
-245735	present
-245741	aorist
+245733	present
+245737	aorist
+present
+245740	aorist
+245744	present
 245747	present
-present
-present
-245752	present
+245755	present
 245769	present
-245779	present
-245781	present
-245788	present
-present
-245795	present
-245799	present
-245806	perfect
-245808	aorist
-245821	present
+245776	aorist
+245782	aorist
+245791	present
+245796	present
+245805	aorist
+245808	future
+245810	aorist
 245823	present
-245829	present
-245843	present
-245845	present
-245854	present
-245863	present
-245872	present
+245833	present
+245839	present
+245842	present
 present
-245878	present
+245846	present
+present
+245850	present
+present
+245854	present
+245861	present
+245870	aorist
+245873	present
+245875	present
 245882	aorist
-245889	aorist
-245891	present
-245899	present
-245901	present
-245903	aorist
-245916	aorist
-245919	present
+245890	present
+245894	present
+245901	perfect
 aorist
-245922	future
-245927	aorist
-245937	present
-245939	future
-245944	aorist
-245951	aorist
-aorist
-245968	aorist
-future
-245988	perfect
-245990	present
-245999	perfect
-246012	present
-246019	aorist
-246021	present
-246030	present
-246033	aorist
-246041	present
-246049	aorist
-246061	present
-246063	present
-246066	present
-246069	present
-246077	perfect
-246079	present
-246087	perfect
-246093	aorist
-246101	aorist
-246106	aorist
-246109	aorist
-246112	aorist
+245904	aorist
+245906	present
+245909	present
+perfect
+245912	aorist
+245916	future
+245918	future
+245925	aorist
+245929	aorist
+245936	present
+245943	present
+245947	present
+245958	present
+245960	present
+245962	present
+245965	present
+245967	present
+245971	present
+245973	perfect
+245982	aorist
+245984	present
+245992	present
+245997	aorist
+present
+246001	aorist
+246004	future
+246007	present
+246010	present
+present
+246014	present
+246017	aorist
+246022	aorist
+246026	aorist
+246031	present
+246035	perfect
+246037	present
+246040	present
+246045	present
+246048	present
+246051	present
+246053	aorist
+246057	aorist
+246062	present
+246067	present
+246070	aorist
+present
+246077	aorist
+246084	aorist
+246089	perfect
+246095	present
+246098	perfect
+present
+246105	perfect
+246108	present
+246112	present
 246116	present
 246119	present
-246126	present
-246131	aorist
-246142	aorist
-246145	present
+246125	aorist
+246128	present
+246134	present
+246136	aorist
+246140	aorist
+246143	aorist
+246146	aorist
 246148	present
-246155	present
 present
+246158	perfect
 246162	perfect
-246169	imperfect
-246177	imperfect
-246186	present
-246189	aorist
-246199	present
-246204	present
-246210	aorist
-246213	present
-246223	aorist
-246227	future
-246234	aorist
-246240	future
-246245	future
-246258	perfect
-246260	aorist
+246168	present
+246175	aorist
+aorist
+perfect
+246183	aorist
+246188	aorist
+246200	present
+246205	aorist
+246212	present
+246215	present
+246217	present
+246219	aorist
+246222	aorist
+246226	aorist
+246229	aorist
+246232	present
+246235	present
+246241	aorist
+246243	present
+246246	aorist
+246251	aorist
+246253	aorist
+246256	aorist
+246261	present
 246264	aorist
-246266	aorist
-246270	imperfect
-246275	present
-246285	present
-246293	present
-246299	aorist
-246307	aorist
-246310	imperfect
-246314	perfect
-246316	perfect
-246327	aorist
-246339	perfect
-246341	aorist
-246345	aorist
-246351	future
-246371	present
-246373	future
-246381	present
-246389	present
-246391	perfect
-246395	aorist
-246397	future
-246400	present
-246406	aorist
-246408	aorist
-246410	present
-246416	future
-246419	aorist
-246427	perfect
-246431	aorist
+246268	present
+246312	present
+246314	present
+246316	present
+246318	aorist
+present
+246321	present
+246324	present
+246326	present
+246329	present
+246334	present
+246337	present
+246340	present
+246343	perfect
+246348	perfect
+246350	present
+246352	present
+246362	present
+aorist
+246395	present
+present
+246398	aorist
+246401	future
+246404	future
+246406	future
+246410	future
+246413	aorist
+246417	aorist
+present
+246423	present
+246425	future
+246428	future
+246433	future
 246437	present
-246441	aorist
-246450	aorist
-246455	imperfect
-246458	present
-246462	aorist
+246440	present
+246443	aorist
+246449	present
+246453	aorist
+246456	aorist
+246458	aorist
+246460	aorist
+246463	present
+perfect
 246470	present
-246473	present
-246477	perfect
-246482	perfect
-246493	present
-246495	present
-246499	aorist
-246503	aorist
-246510	aorist
-246516	aorist
-future
-246523	aorist
-246525	future
-246546	present
-246560	present
-246563	present
-246579	perfect
-246582	present
-246584	present
-246587	present
+246481	perfect
+246483	present
+246491	aorist
+246494	perfect
+246500	present
+246506	present
+246508	aorist
+246524	aorist
+246526	present
+246539	aorist
+246543	aorist
+246548	present
+246551	imperfect
 present
-246592	aorist
-246601	future
-246612	future
-246618	present
-future
-246622	present
-future
-246627	future
-246634	future
-246636	future
-246641	present
-246646	present
-246650	aorist
-246657	present
-246659	future
-246664	present
-246670	future
-246672	aorist
-246685	present
+246559	aorist
+246562	present
+246564	aorist
+246567	aorist
+246569	aorist
+246574	aorist
+246583	present
+246589	present
+aorist
+246594	aorist
+246596	aorist
+246605	aorist
+246608	present
+246613	aorist
+246616	aorist
+246619	aorist
+246622	aorist
+246631	perfect
+246637	aorist
+246642	perfect
+246652	perfect
+aorist
+246658	aorist
+246667	aorist
+246673	present
+present
+246681	aorist
+246683	present
+246686	present
 246688	present
-246693	present
-246699	future
-246703	present
-246709	imperfect
-246713	present
-246715	present
-246720	perfect
-246722	present
-aorist
-246726	imperfect
-246728	present
-246730	aorist
-246735	present
+246695	perfect
+246713	aorist
+246721	present
+246727	present
 246740	aorist
-246744	present
-246750	future
-246754	present
-246757	future
-246759	future
-246765	future
-246767	future
-246777	future
-246782	present
-246784	present
-246786	aorist
-246794	aorist
-246799	present
-246809	aorist
-246823	present
-246826	future
-246829	future
-246842	present
-246856	future
-246860	present
-246864	aorist
-246868	future
-246881	aorist
+246743	aorist
+246750	aorist
+246755	aorist
+246758	aorist
+246766	present
+246781	present
+246783	present
+246793	present
+present
+246801	aorist
+246803	present
+246808	aorist
+246812	present
+246816	present
+246819	aorist
+246822	present
+aorist
+246828	aorist
+aorist
+246834	present
+246837	aorist
+246839	present
+246843	present
+246845	present
+246850	present
+246871	aorist
+246876	aorist
+246879	perfect
+246882	aorist
+246886	aorist
 246890	present
-246892	future
-246900	present
-perfect
-246906	perfect
-246908	present
-246915	future
-246924	future
-246940	future
-246943	present
-246947	future
-246960	present
-246965	perfect
-246967	perfect
-246975	aorist
-aorist
-246983	perfect
-246990	present
-246995	present
-247001	present
-247007	aorist
-247012	present
-247016	present
-247018	perfect
-247020	perfect
-247025	present
-247029	present
-247033	present
-247038	aorist
-aorist
-247043	present
-aorist
+246900	aorist
+246903	present
+246905	aorist
+246907	aorist
+246923	aorist
+246930	present
+246939	present
+246944	aorist
+246948	present
+246950	present
+246958	aorist
+246964	aorist
+246968	present
+246996	present
+247009	present
 present
-247048	perfect
-247050	aorist
-247059	aorist
-247062	present
-247071	present
-247073	perfect
-247080	present
-247087	present
+247012	perfect
+247018	present
+247021	perfect
+247026	aorist
+247028	aorist
+247037	aorist
+247043	imperfect
+247047	aorist
+247051	aorist
+247054	aorist
+247058	present
+247065	aorist
+aorist
+247069	aorist
+247072	aorist
+247075	perfect
+247079	present
 247089	present
-247091	perfect
-247096	aorist
-247099	aorist
-247110	aorist
-247112	perfect
+247093	future
+247095	present
+247099	future
+247102	perfect
+247110	present
+247112	present
 247116	aorist
-247126	aorist
-247129	aorist
-247139	perfect
-247141	future
-247148	present
-247155	present
-247166	aorist
-247171	aorist
-247180	aorist
-247182	perfect
-247185	aorist
-247188	aorist
-247199	imperfect
-247206	present
-247210	aorist
-247220	aorist
-247228	imperfect
-247231	aorist
-247238	perfect
-247240	perfect
-247245	perfect
-247250	present
-247256	aorist
-247258	perfect
-247262	aorist
-247264	aorist
-247270	aorist
-247272	aorist
-247276	aorist
-247281	present
-247288	present
-247293	perfect
-247297	present
-247305	present
-247312	perfect
-247318	present
-247331	present
-247336	present
-247340	aorist
-247350	perfect
-247353	present
-247358	imperfect
-247363	imperfect
-247373	perfect
-247376	aorist
-247383	aorist
-247397	aorist
-247403	present
-247406	present
-247413	present
-247421	perfect
-247426	perfect
+247122	present
+present
+247128	perfect
+aorist
+aorist
+247134	present
+247138	present
+247140	present
+247148	future
+247154	present
+247158	present
+247175	present
+247184	present
+247207	present
+247212	present
+247225	present
+247237	present
+247239	present
+247241	present
+247244	present
+aorist
+247248	present
+aorist
+247252	present
+247256	present
+247259	present
+247262	present
+247275	present
+247279	present
+247285	present
+247293	present
+aorist
+247297	aorist
+247302	present
+247305	perfect
+247308	present
+247310	present
+247322	aorist
+247327	aorist
+247335	future
+247338	aorist
+247340	present
+247347	present
+247356	perfect
+247358	present
+247361	present
+247365	present
+247368	present
+247372	present
+247377	present
+247382	present
+247384	present
+247388	present
+247394	future
+247401	aorist
+247405	aorist
+247412	present
+247414	present
+247419	aorist
+247427	present
+247432	present
+present
 247437	aorist
-247441	present
-247450	present
-247457	present
-247459	aorist
-247468	aorist
-247481	present
-247485	present
+247445	aorist
+247451	aorist
+247453	present
+247455	present
+247458	present
+247460	present
+247465	present
+aorist
+imperfect
+247473	present
+247475	present
+247479	aorist
+247484	aorist
+247486	present
 247491	aorist
-247506	present
-247509	aorist
-247516	aorist
-247528	present
-247532	present
-247536	perfect
-247545	present
-247552	present
-247566	present
-247584	present
-247589	present
-247593	aorist
-247599	perfect
-247601	perfect
-247604	present
-247620	present
-perfect
-247626	present
-247633	aorist
-247635	aorist
-247639	aorist
-247642	perfect
-247644	present
+247496	aorist
+247508	present
+247510	present
+247513	aorist
+247516	present
+247519	aorist
+247524	aorist
+247526	present
+present
+247530	perfect
+247542	aorist
+247547	aorist
+247549	present
+247552	aorist
+247558	aorist
+247561	aorist
+aorist
+247568	present
+247571	aorist
+247573	aorist
+247578	aorist
+247580	aorist
+247588	present
+247594	future
+247603	present
+247606	perfect
+247609	present
+247611	future
+247613	aorist
+247616	present
+247621	present
+aorist
+247628	present
+247637	present
 247647	present
-247650	present
-247655	present
-247664	perfect
-247667	aorist
-247684	aorist
-247688	aorist
-247691	aorist
-247695	aorist
-247697	aorist
-247705	future
-247711	aorist
+247653	future
+247658	present
+247662	aorist
+247664	present
+247670	aorist
+247675	aorist
+247677	present
+247680	present
+247691	present
+247695	future
+247698	present
+247701	present
+present
+247707	present
+247710	present
+247713	present
 247716	present
-247722	aorist
-247724	aorist
-247742	imperfect
-247747	aorist
-247755	pluperfect
-247761	present
-247768	aorist
-247782	aorist
-247800	present
-247811	perfect
+247721	present
+247723	present
+247727	perfect
+247731	present
+247733	present
+present
+247737	present
+247740	present
+247743	present
+247746	present
+present
+present
+247763	aorist
+247765	aorist
+247767	aorist
+247769	aorist
+247773	perfect
+247810	present
+247813	present
 247815	present
-247819	aorist
+247819	present
 247821	present
-247824	present
+present
+247826	future
+247831	perfect
+present
+247838	present
+247843	imperfect
+247846	aorist
+247851	aorist
+247855	aorist
+247858	present
+present
+247861	present
+247863	future
+247868	perfect
+247876	perfect
+247881	perfect
+247883	perfect
 aorist
-247831	present
-247834	present
-pluperfect
-247841	present
-247848	aorist
-247851	present
+247889	perfect
+247898	perfect
+247900	perfect
+247902	aorist
+247906	aorist
+247910	present
+247912	aorist
+247915	future
+247919	future
+247926	aorist
 aorist
-247859	aorist
-247863	aorist
-247866	present
-247869	aorist
-247874	aorist
-247876	aorist
-247880	present
-247884	present
+247929	future
+247933	future
+present
+247939	aorist
+247942	present
+247945	present
+247955	present
 aorist
-247887	present
-247889	aorist
-247894	aorist
-247897	perfect
-247900	aorist
-247909	present
-247911	aorist
-247914	aorist
-247923	aorist
-247933	imperfect
-247940	aorist
-247948	aorist
-247961	perfect
-247968	aorist
-247986	aorist
-247991	aorist
-247994	aorist
-247999	imperfect
-248007	imperfect
-248015	imperfect
-248019	aorist
-248024	present
-248028	aorist
-248034	imperfect
-248051	imperfect
+247963	present
+247966	present
+247970	aorist
+247972	aorist
+247975	perfect
+247977	present
+247984	present
+247988	future
+247992	aorist
+247998	present
+248007	present
+248010	present
+perfect
+248015	aorist
+248018	imperfect
+248020	present
+248023	aorist
+248028	present
+248032	aorist
+248041	present
+248043	aorist
+248051	aorist
+248053	aorist
 248057	aorist
-248074	pluperfect
-248081	aorist
-248098	aorist
+248060	present
+aorist
+248065	future
+248067	present
+248072	present
+248075	present
+248089	present
+248091	present
+present
+248096	aorist
+248099	present
 248103	aorist
-248107	present
-248128	present
-248134	present
+248105	perfect
+248108	aorist
+248110	aorist
+248113	aorist
+248115	aorist
+248120	aorist
+248124	present
+248127	present
+248130	present
 248137	present
-pluperfect
-248148	perfect
-248151	imperfect
-248153	imperfect
-248155	imperfect
+248140	aorist
+248143	present
+aorist
+248147	aorist
+248151	present
+248155	aorist
+248157	aorist
+248163	aorist
 248165	perfect
-248167	present
-248172	aorist
-248191	aorist
-248196	perfect
-248202	aorist
-248218	present
-248223	aorist
-248227	present
-aorist
-248230	perfect
-248232	aorist
-248234	aorist
-248236	perfect
-248238	aorist
-248243	aorist
-248247	perfect
-248251	aorist
-248256	aorist
-248258	present
-248262	aorist
-248267	aorist
-aorist
-248279	present
-aorist
-248286	perfect
-248294	imperfect
-248298	perfect
-248300	present
-aorist
-248315	present
-aorist
-248319	aorist
-248321	present
+248168	aorist
+248174	aorist
+248176	present
+248182	future
+248186	present
+248189	present
+248191	perfect
+248197	aorist
+248201	future
+248204	present
+248208	present
+248212	present
+248214	present
+248218	aorist
+248221	present
+248226	present
+248229	future
+248235	present
 present
-248337	present
-248339	aorist
-248347	aorist
-248358	aorist
-248363	aorist
+248240	present
+248243	present
+248249	present
 present
-248379	imperfect
-248385	aorist
-248393	aorist
-248395	aorist
-248399	aorist
-248409	present
-248414	present
-248420	aorist
-248422	aorist
-248427	imperfect
-248430	present
-248434	aorist
-248436	aorist
-248442	aorist
-248453	aorist
-248455	aorist
-248462	present
+248253	future
+248257	present
+248259	present
+248264	aorist
+248270	aorist
+248275	present
+248280	present
+248282	present
+248289	present
+248293	present
+248297	present
+248299	present
+248304	present
+present
+248307	present
+248310	aorist
+248315	aorist
+248323	present
+present
+present
+248327	present
+present
+248334	future
+248336	aorist
+248340	present
+248365	aorist
+248381	aorist
+248387	aorist
+248392	perfect
+248406	present
+248410	present
+248412	aorist
+248420	present
+248425	present
+present
+248429	present
 aorist
-248473	aorist
-248475	aorist
+248439	aorist
+248443	aorist
+248446	present
+248448	perfect
+248451	present
+248455	present
+248458	aorist
+248460	present
+248463	present
+248467	present
+248469	present
+248473	imperfect
+248476	imperfect
 present
-248480	imperfect
-present
-aorist
+248482	aorist
+248486	present
+248491	aorist
 248494	aorist
-248499	aorist
-248502	present
-248510	aorist
-248517	present
-248520	aorist
-248525	aorist
-248532	present
-248544	aorist
-248548	aorist
+248498	aorist
+248507	imperfect
+248512	imperfect
+248515	imperfect
+248526	present
+248532	aorist
 aorist
-248559	present
-248575	imperfect
-248591	imperfect
+248539	aorist
+248543	aorist
+248548	present
+248553	aorist
+248556	aorist
+248563	aorist
+248567	aorist
+248572	aorist
+248574	aorist
+248577	aorist
+248584	aorist
+248592	present
 248594	aorist
-248608	present
-248610	aorist
-248618	present
-248620	aorist
-248625	present
-248628	present
-248633	perfect
-248638	perfect
-248645	aorist
-248652	present
-248658	present
+248599	present
+248601	aorist
+248620	present
+248624	present
+248628	imperfect
+248630	imperfect
+248637	aorist
+248640	aorist
+248642	aorist
+248646	aorist
+248650	present
+248655	present
 248664	present
-248670	present
-248674	aorist
-248676	aorist
-248683	present
-248687	present
-248692	present
-248698	aorist
-248705	present
-248707	aorist
-248716	aorist
-248719	present
-248726	imperfect
-248734	aorist
-248742	aorist
-248747	aorist
-248752	aorist
-248762	aorist
-248765	imperfect
-248770	imperfect
+aorist
+aorist
+248672	aorist
+aorist
+248677	present
+248681	future
+248685	aorist
+248691	aorist
+248695	present
 present
-248780	imperfect
+248700	imperfect
+248703	present
+248707	present
+248710	present
+248712	aorist
+248715	aorist
+248717	perfect
+248725	aorist
+248730	aorist
+248735	aorist
+248737	aorist
+248741	present
+248743	present
+248745	aorist
+248758	present
+248761	aorist
+248763	aorist
+248766	aorist
+248771	aorist
+248776	aorist
+248781	imperfect
 248784	aorist
-248791	present
-248793	aorist
-present
+248786	imperfect
+248788	present
+248792	aorist
 248799	aorist
-248804	present
-248808	aorist
-248814	present
-248827	present
-248829	aorist
-248835	aorist
-248844	aorist
+248804	aorist
+248807	present
+248812	aorist
+248818	present
+248821	present
+248824	present
 present
+248833	perfect
+248837	present
+248847	aorist
+248849	aorist
+248860	future
+248864	present
 aorist
-aorist
+248867	aorist
+248874	aorist
+248878	aorist
+248881	present
+248884	present
+248889	aorist
+248892	aorist
+248894	perfect
 present
-248853	aorist
-248857	aorist
-248861	present
-248866	aorist
-248873	present
-248880	present
-aorist
-248887	aorist
-248890	aorist
-248900	aorist
-248902	aorist
-248910	present
-248915	present
-248923	aorist
-248925	present
-248933	present
-248935	perfect
-248938	present
-aorist
+248899	present
+248906	present
+248909	present
+248914	aorist
+248917	aorist
+248921	present
+248932	aorist
+248937	aorist
+248940	aorist
+perfect
 248943	present
 aorist
-248946	aorist
-248949	imperfect
-248959	imperfect
-perfect
-248967	aorist
+248949	aorist
+248955	present
+aorist
+248960	present
+248962	aorist
+248969	present
 248973	present
-248980	imperfect
+248983	aorist
+248986	aorist
+248989	present
+248996	present
 aorist
-248987	aorist
-present
-248991	aorist
-248993	present
-249004	present
-present
-249013	aorist
-249019	aorist
-249025	aorist
+249002	present
+249005	aorist
+249008	future
+249015	present
+249023	present
+249025	present
+perfect
 249033	present
-249038	imperfect
-249046	imperfect
-249051	present
-249055	aorist
-249061	aorist
-249064	aorist
-aorist
-aorist
-249068	present
-249078	aorist
-aorist
-249084	present
-249091	aorist
-249095	aorist
-aorist
-249102	present
-249107	aorist
+249035	perfect
+249040	aorist
+249046	present
+249053	future
+249057	present
+249060	aorist
+249062	future
+249066	aorist
+249071	aorist
+249075	perfect
+249078	present
+249086	aorist
+249092	aorist
+249097	present
+249101	perfect
+249106	aorist
 249111	present
-249116	present
-249121	aorist
-249137	aorist
-249146	aorist
-249153	imperfect
-249155	perfect
-249175	aorist
-249182	imperfect
-249190	aorist
-249196	imperfect
-perfect
-249201	imperfect
-249214	present
+249123	present
+249127	present
+249129	perfect
+249137	perfect
+249139	present
+249141	aorist
+249152	perfect
+249159	aorist
+249161	aorist
+249164	perfect
+aorist
+249173	present
+249177	present
+249185	aorist
+249188	aorist
+present
+aorist
+249193	imperfect
+249196	aorist
+249204	aorist
+present
+249208	aorist
+249211	imperfect
+present
+249216	present
+aorist
+249221	perfect
 249225	aorist
-249228	present
-249232	aorist
-249237	perfect
-perfect
-249244	aorist
-249248	aorist
-249255	aorist
-249267	imperfect
-249282	aorist
-249288	aorist
-249291	aorist
-249296	future
-249301	aorist
 aorist
+249231	present
+249235	present
+249243	aorist
+249245	aorist
+249247	present
+249250	present
+249253	present
+249258	present
+249267	present
+249270	present
+249276	present
+249278	present
+249281	present
+249284	present
+249293	imperfect
+249302	aorist
+249306	aorist
+249310	aorist
+249312	aorist
 249317	aorist
+249320	aorist
+249323	present
 249325	aorist
-pluperfect
-249365	aorist
-249373	perfect
-249375	imperfect
+249334	present
+249337	present
+249348	perfect
+249350	aorist
+249353	present
+249357	aorist
+249361	aorist
+249364	present
+249372	aorist
 present
-249381	aorist
-249388	present
-249392	aorist
-249406	aorist
-249419	perfect
-249426	perfect
-249428	aorist
-249432	present
 present
-249436	imperfect
-249449	aorist
-aorist
-249458	aorist
-249465	aorist
+249378	present
+249382	perfect
+249384	present
+249392	present
+249396	aorist
 perfect
+249403	aorist
+249417	aorist
+249424	present
+249432	aorist
+aorist
+249437	perfect
+present
+249440	present
+249445	aorist
+249447	present
+249450	present
+249453	present
+249459	present
+249465	present
 249468	aorist
-249472	aorist
-249482	imperfect
-249485	aorist
-249499	imperfect
-249511	aorist
-249516	aorist
-249523	aorist
-aorist
-249536	aorist
-249544	aorist
-249552	aorist
-249554	aorist
-249557	perfect
-249559	aorist
-249577	aorist
-249579	aorist
-249586	perfect
+249471	imperfect
+249473	present
+249477	aorist
+249481	present
+249483	present
+249486	present
+present
+249490	present
 perfect
-249592	present
-249598	perfect
-249601	present
-249606	present
+249496	aorist
+249510	perfect
+249518	present
+present
+249522	present
+249529	present
+249531	present
+249535	present
+249538	present
+249542	present
+249551	present
+249553	present
+249555	perfect
+249557	aorist
+249559	present
 aorist
-249614	aorist
-249618	future
-249625	present
-future
-249630	aorist
-249635	aorist
-249644	present
-249650	perfect
-249662	aorist
-249671	aorist
-249675	aorist
-249678	aorist
-249684	aorist
-249690	aorist
-249698	present
-249709	aorist
-249719	aorist
-249729	present
-249733	present
+249562	aorist
+249564	present
+249572	present
+249579	present
+249584	aorist
 imperfect
-249742	aorist
-249759	imperfect
-perfect
-249774	imperfect
-249778	aorist
-249794	present
+249593	present
+249595	aorist
+249602	future
+249612	present
+249619	aorist
+present
+249626	present
+aorist
+present
+249632	present
+249636	future
+present
+249642	present
+249645	present
+249648	aorist
+aorist
+249653	present
+249655	aorist
+249661	present
+249666	present
+249671	present
+imperfect
+249676	aorist
+249679	present
+249683	present
+249688	present
+249690	perfect
+249695	future
+249697	present
+249699	future
+249702	present
+249709	present
+249712	present
+249714	perfect
+249718	aorist
+249720	future
+present
+249726	aorist
+249736	present
+249743	perfect
+249745	future
+249754	present
+249757	aorist
+present
+249761	present
+249765	aorist
+249768	present
+249778	present
+249781	present
+249783	present
+249787	present
+249789	present
+249793	present
 249798	present
-249805	present
-249809	perfect
-249815	present
-249818	present
-249832	imperfect
+249803	present
+249806	aorist
+249809	present
+249812	future
+249817	present
+249821	present
+249827	aorist
+249833	present
 249837	present
-249839	aorist
-249850	perfect
-249852	aorist
-249854	aorist
-249866	imperfect
-249872	imperfect
-249884	aorist
-249890	aorist
-249898	aorist
+249839	present
+249842	present
+249844	present
+249848	aorist
+249853	present
+249857	present
+249861	aorist
+249864	present
+249867	future
+249873	present
+249875	present
+249878	present
 present
+249884	present
+249891	future
+249900	future
 present
-249906	aorist
+249903	present
+249905	present
+249909	present
+249912	present
+249915	present
+249919	future
+249921	present
+249927	future
+249930	present
+249935	future
+249939	present
+249941	present
+249944	future
+249946	present
+249951	present
 present
-249913	present
-249916	aorist
-249923	present
-249927	present
-249933	imperfect
-249947	present
-249950	perfect
-249958	aorist
-249967	aorist
-249975	aorist
-249977	aorist
-249980	pluperfect
-249985	present
-249990	aorist
+249961	aorist
+249964	aorist
+249968	present
 aorist
-250002	pluperfect
-250009	present
-250012	imperfect
+249972	present
+249974	present
+249981	present
+249984	present
+249986	present
+249988	present
+249990	present
+249995	aorist
+249999	aorist
+present
+250011	perfect
+250017	present
+250025	future
+250037	present
+250046	present
+250061	present
+250077	aorist
+250086	aorist
+250091	present
+250096	aorist
+250112	aorist
+250115	perfect
+250117	present
+250132	aorist
+250137	aorist
+250147	aorist
+250154	aorist
+250168	aorist
 aorist
-250020	present
-250028	present
-250043	imperfect
-250052	present
-250057	present
-present
-250061	aorist
-250069	perfect
-250071	aorist
-250074	aorist
+250173	present
+250180	present
+250184	perfect
+250189	aorist
+250199	aorist
 aorist
-250082	present
-250086	perfect
-250089	pluperfect
-250092	present
+250207	present
+250220	aorist
+250234	present
 present
-250098	present
-250100	present
-250102	present
-250107	present
-present
-250113	aorist
-250115	aorist
-250118	aorist
-250122	future
-present
-250127	aorist
-250129	present
-250134	present
-250136	present
-250141	present
-250144	perfect
-250150	present
-250160	aorist
-250162	present
-250182	present
-250187	present
-250192	perfect
-250198	aorist
-250200	present
-250217	perfect
-250219	imperfect
-250232	aorist
-250237	aorist
-250244	present
+250238	present
 250250	aorist
-aorist
-250261	aorist
-250266	aorist
-250270	aorist
-250280	perfect
-250286	present
-250290	aorist
-aorist
-250293	present
-250295	aorist
+250256	perfect
+250262	perfect
+250265	present
+250285	present
+250290	present
+250299	perfect
 250302	aorist
-250306	perfect
-250310	present
-perfect
-250322	present
-250325	imperfect
+250306	aorist
+250319	present
+250327	present
 250330	aorist
-250332	imperfect
-250340	perfect
-250346	aorist
-250350	aorist
-250366	aorist
-250382	aorist
-250398	aorist
-250406	imperfect
-250418	present
-250425	perfect
-250427	aorist
-250434	aorist
-250438	present
-250442	present
-250450	aorist
-250457	present
-250464	aorist
-250474	present
-250478	aorist
-250481	aorist
-250494	present
-250500	perfect
-250502	perfect
-250506	aorist
-250508	aorist
-250518	aorist
-250530	present
-perfect
-250541	perfect
-250543	present
-250546	present
-250559	present
-250561	present
-250572	aorist
-250588	aorist
-250591	imperfect
-250598	present
-250629	present
-250633	present
+250336	aorist
+250341	present
+250348	present
+250351	present
+250359	aorist
+250373	present
+250381	aorist
+250388	present
+250395	imperfect
+250404	present
+250411	aorist
+250414	present
+250418	aorist
+250423	aorist
+250425	aorist
+250430	aorist
+250433	present
+250437	present
+250460	aorist
+250463	present
+aorist
+250469	aorist
+250473	aorist
+250475	present
+250481	present
+250484	present
+250489	imperfect
+250494	perfect
+250505	present
+250514	present
+250516	aorist
+250524	present
+250527	aorist
+250534	aorist
+250544	aorist
+250547	aorist
+250552	present
+250555	aorist
+250562	aorist
+250566	aorist
+aorist
+250575	present
+250584	present
+250587	present
+250593	aorist
+250599	present
+250604	present
 present
+250611	present
+250624	aorist
+250630	aorist
+250634	aorist
+250638	aorist
+250641	present
 present
-250637	present
-250644	aorist
-250646	aorist
+aorist
+250654	aorist
 250660	aorist
-250665	present
-aorist
-250675	pluperfect
-250681	present
-present
-250691	present
-aorist
+250666	present
+250676	aorist
+250683	aorist
+250693	aorist
 250697	aorist
-250699	aorist
-250715	future
-aorist
-250721	aorist
-imperfect
-250732	present
-250740	imperfect
+250703	aorist
+250708	perfect
+250714	aorist
+250716	aorist
+250734	aorist
+250740	present
+250748	present
 250750	present
-250754	aorist
-250759	present
-250763	aorist
-imperfect
-250768	aorist
-250784	aorist
-250787	imperfect
-250802	present
-250812	aorist
-250818	present
-250820	present
-250823	present
-250826	present
-250831	aorist
-250838	aorist
-250840	aorist
-250844	aorist
+250757	present
+250760	present
+250771	present
+250773	aorist
+250781	aorist
+250788	aorist
+250798	aorist
+aorist
+250808	aorist
+250812	present
+250817	aorist
+250824	present
+250827	aorist
+250833	present
+250849	present
+250856	aorist
+250859	aorist
 250864	present
-250866	aorist
-250870	present
-250875	present
+250867	present
+present
+250881	aorist
+250902	aorist
+250911	present
 aorist
-250879	imperfect
-250883	aorist
-250887	present
-perfect
-250893	present
+250914	aorist
+250916	aorist
+250920	aorist
+250922	present
+250926	aorist
+250933	aorist
 present
-250897	present
-250902	present
-250912	aorist
-250917	aorist
-250923	aorist
-present
-250935	present
-250940	present
-250945	perfect
-250947	present
-250949	present
-250951	present
-250957	present
-250964	present
-250966	present
-250971	perfect
-250973	present
-250975	present
-250977	present
-250983	present
+250936	aorist
+250941	aorist
+250945	aorist
+250969	aorist
 250991	present
-250993	aorist
-250998	aorist
-251003	present
-251006	aorist
-251011	perfect
-251013	present
+251008	present
+251011	aorist
 251015	present
-251017	present
-251020	present
-251028	present
-251031	imperfect
-251033	imperfect
-251036	imperfect
-251038	imperfect
-251041	aorist
-future
-251050	future
-251053	future
-251056	present
-251059	aorist
-present
-251064	future
-251070	aorist
-present
-251073	present
-251075	aorist
-251079	present
-251084	imperfect
-251088	present
-251091	aorist
-251105	aorist
+251032	present
+251039	present
+251041	present
+251045	present
+251049	present
+251056	perfect
+251062	present
+251070	perfect
+251072	aorist
+251083	aorist
+251087	aorist
+251090	aorist
+251092	present
+251096	aorist
+251103	present
 251108	present
-251110	present
-251114	aorist
-251118	present
-251126	present
-251133	present
-present
+251115	aorist
+251119	aorist
+251125	aorist
+251127	present
+251134	present
 251136	present
-251143	present
-aorist
+251139	present
+251142	present
+251146	present
+251149	present
+251151	present
+251154	present
+present
+251160	present
+present
 251163	present
-251165	aorist
-251173	present
-251177	present
+251170	present
+251179	aorist
+251181	present
+251184	present
+251190	aorist
+251198	aorist
+251202	present
+251206	present
+251212	aorist
+251214	present
+251221	present
+251226	aorist
+251229	aorist
+251243	present
+251246	present
+251253	imperfect
+251259	perfect
 present
-251180	present
-251186	present
-251191	present
-251197	aorist
-251200	perfect
-251208	present
-present
-251217	aorist
-251223	present
-251230	present
-251234	future
-251238	present
-251246	aorist
-251255	aorist
-251259	present
-251262	present
-251268	aorist
-251278	aorist
-aorist
-251282	aorist
-251284	present
-251288	aorist
-251300	present
+251265	present
+251268	present
+251277	present
+251281	present
+251291	present
+251293	imperfect
 251303	present
-251316	present
-aorist
-251323	present
-251325	present
-251334	aorist
-251339	aorist
-251347	future
-251361	aorist
-imperfect
-251364	present
+251312	present
+251314	present
+251319	present
+251327	present
+251330	present
+251333	present
+251335	present
+251338	present
+251341	present
+251344	present
+251346	present
+251348	present
+present
+present
+251352	aorist
+251356	future
+251359	present
+251363	present
+251369	present
 251374	present
-251381	aorist
-251387	present
-aorist
-251396	aorist
-251405	future
-251407	aorist
-251417	future
-251445	aorist
-present
+251377	present
+251380	present
+251386	present
+251388	present
+251391	present
+251393	present
+251402	present
+251410	present
+251421	present
+251435	present
+251443	present
 251448	aorist
-251451	aorist
-251463	present
-imperfect
-251470	present
-251473	aorist
-251477	pluperfect
-251486	aorist
-251490	perfect
-present
-251503	aorist
-251513	future
-251517	aorist
-251519	present
-251526	aorist
-251534	present
-251537	present
-251543	present
-251547	aorist
-251553	aorist
-251556	imperfect
-present
-251590	imperfect
-present
-251624	aorist
-251633	aorist
-imperfect
-251651	imperfect
+251452	aorist
+251456	aorist
 aorist
-251657	aorist
-251674	aorist
-251677	aorist
-251681	perfect
-imperfect
-251687	aorist
-251700	aorist
-251711	aorist
+251463	aorist
+251468	present
+251475	present
+251478	present
+251481	present
+251487	present
+251491	present
+251497	aorist
+251507	present
+251511	future
+251517	future
+251522	future
+251529	present
+251532	present
+251545	present
+251551	present
+251554	present
+251560	present
+251562	present
+251568	present
+251575	aorist
+251577	future
+251583	present
+251587	present
+251593	present
+251611	present
+251617	present
+251623	perfect
+251628	aorist
+251630	future
+251639	present
+251641	present
+251643	perfect
+251649	present
+251654	present
+251657	present
+251665	aorist
+251670	present
+251672	aorist
+251678	present
+251701	aorist
+251706	aorist
 aorist
-251715	aorist
-251725	aorist
-251729	present
-251732	aorist
-251747	present
-251751	perfect
-251758	aorist
-251767	present
+251714	aorist
+aorist
+aorist
+251718	aorist
+251723	aorist
+251728	aorist
+251736	aorist
+251741	future
+251746	perfect
+aorist
+251752	aorist
+251758	present
+251763	present
 251769	present
-251779	aorist
-251781	present
-251786	aorist
-251795	aorist
-251797	aorist
-251805	aorist
+251780	aorist
+251787	aorist
+251792	present
+251796	aorist
+251798	present
+251800	aorist
+251803	perfect
+251808	present
+251810	future
 251819	aorist
-251833	aorist
-251838	aorist
-251842	present
-251845	aorist
-251850	aorist
-aorist
-251857	aorist
-251859	aorist
-251868	aorist
-251883	aorist
-251885	aorist
-251896	aorist
-251900	aorist
-251908	aorist
-251920	present
-251928	imperfect
-251937	aorist
+251824	aorist
+251828	aorist
+251839	present
+251849	present
+251858	present
+251874	present
+251887	perfect
+251890	aorist
+251893	future
+251897	present
+251901	present
+251905	present
+251924	present
+251928	present
+251934	present
+251939	present
+251944	present
 251946	present
-251951	aorist
-251959	imperfect
+251948	present
+251952	perfect
+251959	present
+251962	present
+251971	perfect
+251977	aorist
+251989	perfect
+251993	present
+251998	present
+252009	present
+252013	perfect
+252018	present
+252023	present
+252026	present
+252028	present
+252039	present
+252042	present
+252045	future
+perfect
+252051	future
+252065	future
+252073	future
+252084	present
+252087	aorist
+252091	present
+252098	future
+252100	present
 present
-251962	aorist
-251964	present
-251969	aorist
-251978	aorist
-251984	aorist
-present
-251993	imperfect
-present
-251997	imperfect
-252002	present
-252020	aorist
-252027	aorist
-252032	aorist
-252034	imperfect
-252043	present
-252045	imperfect
-252048	imperfect
-present
-252051	aorist
-252055	present
-252057	present
-252062	present
-252074	aorist
-252082	present
+252106	present
+252108	aorist
+252111	present
 252117	present
-252126	present
-present
-252141	imperfect
-252145	imperfect
+252123	perfect
+perfect
+252137	present
 252151	present
-252153	present
-252155	present
-252158	present
-imperfect
-252163	perfect
+252154	aorist
+252156	aorist
+252159	present
 present
-aorist
-252175	aorist
-252182	aorist
-252190	present
-252196	present
-252198	aorist
-252208	present
-252210	present
-present
-252222	present
-252224	perfect
-252232	future
+252163	present
+252167	present
+252173	present
+252176	present
+252178	present
+252188	aorist
+252193	present
+252197	present
+252200	present
+252202	aorist
+252206	present
+252221	aorist
+252226	present
+252229	present
+252232	present
 252240	present
-252244	future
-252258	future
-252277	future
-252285	future
-252310	future
-252319	future
-252321	future
-252347	future
-252359	aorist
-252370	future
-252375	aorist
-252381	future
-252384	aorist
-252396	perfect
-252411	aorist
-252425	perfect
-252432	perfect
-252446	aorist
+present
+252245	present
+252251	present
+252259	present
+252262	aorist
+present
+252268	aorist
+252270	aorist
+252273	aorist
+252276	aorist
+252279	aorist
+252281	aorist
+252290	aorist
+252292	aorist
+252304	aorist
+252309	aorist
+252318	aorist
+252334	present
+252337	present
+present
+252341	present
+252343	present
+252347	present
+252351	aorist
+252358	perfect
+252360	present
+252365	present
+252371	aorist
+252374	aorist
+252378	present
+252385	present
+252387	present
+252392	present
+252394	present
+252396	present
+252401	aorist
+252405	present
 aorist
-252452	aorist
+252411	present
+252416	future
+252420	present
+252426	present
+252431	aorist
+252437	present
 aorist
-252463	imperfect
-252465	present
-252472	present
-252476	imperfect
-252492	present
-252495	aorist
+252440	aorist
+252444	perfect
+252450	future
+252453	aorist
+252464	aorist
+252470	present
+252472	aorist
+252474	aorist
+252477	aorist
+252481	aorist
+252490	aorist
+252493	aorist
+252496	aorist
 252499	aorist
-252506	aorist
-252521	future
-252527	future
-252537	future
-252543	aorist
-252545	aorist
-252550	future
-252562	present
+252502	present
+present
+252512	present
+252518	aorist
 aorist
-252578	aorist
-252580	aorist
-252587	present
-252600	present
-252602	perfect
-252605	aorist
-252619	aorist
-252627	aorist
-aorist
-252640	aorist
-252650	aorist
-252657	aorist
-252665	present
-252675	aorist
-252688	aorist
-252694	aorist
-252699	present
-252701	present
-252705	aorist
-252711	present
-252714	aorist
-252721	present
-252729	aorist
-252744	present
-252756	aorist
-252767	aorist
-aorist
-252770	aorist
-252774	aorist
-252788	aorist
-252796	aorist
-252798	aorist
-252820	future
-252832	present
-252852	aorist
-252865	aorist
-252867	imperfect
-252869	present
-aorist
-252885	aorist
-252891	aorist
-252893	aorist
-252907	imperfect
+252522	aorist
+252531	present
+252534	present
+252543	present
+252545	present
+252548	present
+252551	present
+252554	present
+252556	present
+252561	perfect
+252564	present
+252570	present
+perfect
+252585	present
+252590	aorist
+252594	imperfect
+252598	perfect
+252605	present
+252608	present
+252611	present
+252618	aorist
+252620	present
+252624	aorist
+252626	aorist
+252628	present
+252642	aorist
+252651	present
+252654	aorist
+252661	aorist
+252664	perfect
+present
+252668	aorist
+252671	aorist
+252677	present
+perfect
+252683	present
+252686	present
+252688	present
+252702	present
+252707	present
+252711	future
+252715	aorist
+252717	present
+252719	present
+252722	present
+252724	present
+252726	present
+252731	present
+252734	imperfect
+252739	present
+present
+252758	present
+252763	present
+252766	present
+252768	future
+252781	present
+252784	aorist
+252794	present
+252798	present
+252801	present
+252803	present
+252806	present
+252809	present
+252813	aorist
+252825	present
+252829	future
+present
+252833	aorist
+252838	present
+252847	present
+252853	present
+252855	future
+252865	present
+252885	present
+252893	present
+252898	future
+252900	aorist
+252907	aorist
 252909	present
-252932	imperfect
-252949	imperfect
-252954	aorist
-252960	imperfect
-252971	imperfect
-252973	imperfect
-252980	imperfect
-252985	present
+252912	imperfect
+imperfect
+252918	present
+252921	aorist
+252923	present
+252925	present
+perfect
+252928	present
+perfect
+252931	present
+252935	perfect
+252937	present
+252939	present
+252941	present
+252943	present
+252945	present
+252947	present
+252951	aorist
+aorist
+252955	perfect
+252963	aorist
+252967	aorist
+252982	aorist
+252984	present
+252987	present
+252989	present
 252992	present
-252998	imperfect
-253007	present
-253012	present
-253025	imperfect
-253027	present
-253040	imperfect
-253071	present
-imperfect
-253074	imperfect
-253088	present
-253091	present
-253096	present
-253103	aorist
-253107	present
-present
-253114	imperfect
-253116	aorist
+252996	present
+perfect
 aorist
-253128	aorist
+253009	future
+253029	aorist
+253032	present
+253037	present
+253070	present
+253077	present
 aorist
-253135	imperfect
-253137	present
-253142	aorist
-aorist
-253150	present
-253154	present
-253157	present
-253169	present
-253171	aorist
-253178	aorist
-253182	aorist
-253193	present
-aorist
-253196	imperfect
-253198	aorist
-253207	present
-253209	present
-253211	present
-253216	aorist
+253086	present
+253092	present
+253097	aorist
+253103	present
+253118	aorist
+253124	aorist
+253130	present
+253137	aorist
+253147	aorist
+253149	present
+253153	aorist
+253162	aorist
+253170	present
+253172	present
+253178	present
+253188	present
+253190	aorist
+253201	aorist
+253208	aorist
+253217	present
 253223	present
-253225	present
-253229	imperfect
-253234	imperfect
-253241	present
-253254	aorist
-253261	perfect
-253263	present
+253232	aorist
+253251	perfect
+253254	present
+253259	perfect
+253262	present
+253268	present
 253273	aorist
-253288	present
-253291	aorist
-253296	aorist
-253305	present
-253312	present
-253319	perfect
-253321	present
-253341	aorist
+253276	present
+253279	aorist
+253282	aorist
+253285	aorist
+253288	aorist
+253306	present
+perfect
+253316	aorist
+253324	aorist
+253330	present
+253332	perfect
+253337	present
+253343	aorist
+aorist
 253351	aorist
-253353	aorist
-253359	aorist
-253361	present
-253369	aorist
-253371	aorist
+253353	present
+253358	present
+253371	present
 253374	aorist
-253384	aorist
-253389	aorist
-253396	present
-253411	present
-253413	perfect
-aorist
-253429	aorist
-253444	perfect
-253449	aorist
-253463	aorist
-253473	aorist
-253479	aorist
-253481	aorist
-253484	aorist
-253488	aorist
-253496	aorist
-253508	aorist
-253512	perfect
-253517	present
-253520	aorist
-253529	aorist
-253550	aorist
-253554	future
-253569	future
-253576	aorist
-253580	future
-253588	aorist
-253594	future
-253617	aorist
-253619	aorist
-253626	present
-253642	aorist
-253650	present
-253662	future
-253674	aorist
-253683	aorist
-253685	present
-253690	present
-253699	present
-253707	aorist
+253380	aorist
+253383	aorist
+253388	perfect
+253396	aorist
+253400	aorist
+253402	aorist
+253413	present
+253421	present
+present
+253425	present
+253430	aorist
+253436	present
+present
+253441	present
+253444	present
+253447	perfect
+253449	present
+253457	perfect
+253462	aorist
+253465	aorist
+253480	present
+253488	present
+253492	present
+253498	present
+253502	present
+present
+253505	present
+253517	aorist
+253521	present
+253525	present
+253528	aorist
+present
+253531	present
+253535	future
+present
+253554	present
+253564	present
+253571	aorist
+253583	aorist
+253589	aorist
+253596	aorist
+253602	present
+253609	aorist
+253612	aorist
+253616	aorist
+253623	imperfect
+253627	perfect
+253630	aorist
+253633	aorist
+253637	aorist
+253639	aorist
+253646	present
+253656	present
+253658	present
+253664	present
+present
+253671	perfect
+present
+253674	present
+253682	present
+253691	present
+253696	aorist
+253704	present
+253706	present
+253711	present
+253722	present
 253724	present
-253728	present
-253734	present
-253749	aorist
-253755	aorist
-253764	imperfect
-253772	aorist
-253776	aorist
-253778	aorist
-253789	aorist
-253796	aorist
-253826	imperfect
+253737	aorist
+253740	present
+253748	present
+253753	aorist
+253758	perfect
+253765	aorist
+253771	future
+253773	aorist
+253783	present
+253786	present
+253793	aorist
+253795	imperfect
+253799	aorist
+253806	present
+253808	aorist
+253815	aorist
+253817	present
+253821	aorist
+253825	present
 253833	aorist
-253840	imperfect
-253852	aorist
-253857	aorist
-253861	aorist
-253875	present
-253887	perfect
-253889	present
-253915	aorist
-253920	aorist
-253928	perfect
-253934	present
-253939	aorist
-253947	aorist
-253955	present
-253968	present
-253976	perfect
-253983	present
-aorist
-253986	present
-253998	aorist
+253841	perfect
+253843	present
+253846	present
+253851	present
+253856	aorist
+253865	present
+253872	present
+253878	aorist
+253883	present
+253887	present
+253897	present
+253905	present
+253912	present
+253916	present
+253919	imperfect
+253922	present
+253926	present
+253929	present
+253935	present
+253939	present
+253944	present
+253946	present
+253957	present
+253960	present
+253962	present
+253968	perfect
+253971	future
+253976	present
+253978	present
+future
+253981	aorist
+253984	present
+253991	present
+perfect
+253995	present
+253999	present
+present
 254003	present
-254006	imperfect
-imperfect
-254016	imperfect
-254021	present
-254025	perfect
-254027	perfect
-254029	imperfect
-aorist
-aorist
-254039	aorist
-imperfect
+254009	aorist
+254013	aorist
+254019	perfect
+254021	aorist
+254024	present
+254026	aorist
+254028	present
+254032	present
+254038	perfect
+perfect
+254041	present
 254044	present
-254046	aorist
-254058	perfect
-254065	present
-254070	present
-present
-254078	aorist
-254084	aorist
-254087	present
-254099	aorist
-254101	aorist
-254104	present
-254106	present
-254122	aorist
-aorist
+254048	future
+254058	aorist
+254063	aorist
+254067	aorist
+254075	present
+254079	future
+254081	present
+254089	aorist
+254092	aorist
+254094	aorist
+254097	present
+254099	present
+254108	aorist
+254111	present
+254117	present
+254121	aorist
+254124	perfect
 254129	present
-254136	present
-254142	aorist
-254144	present
+254133	present
+254142	present
 254148	aorist
-254150	aorist
-254152	present
-254155	aorist
-aorist
-254159	present
-254162	aorist
-254171	imperfect
-254178	perfect
-254182	imperfect
-254192	pluperfect
-254202	aorist
-254204	aorist
-254211	aorist
-254223	aorist
-254226	aorist
-254228	aorist
-254236	aorist
-254240	aorist
-254277	aorist
-254281	aorist
-254285	aorist
-254287	aorist
-254299	aorist
-254318	aorist
+254160	aorist
+254163	aorist
+254169	aorist
+254175	aorist
+254177	aorist
+254179	present
+254182	aorist
+254186	present
+254191	present
+254205	present
+254211	present
+254216	present
+254236	perfect
+254238	perfect
+254246	aorist
+254259	perfect
+254261	aorist
+254267	aorist
+254270	aorist
+254278	aorist
+254283	present
+254291	perfect
+254308	perfect
+254312	present
+254314	present
+254319	present
+254321	aorist
+254325	aorist
+254330	present
+254332	present
+254335	present
 254341	aorist
-254354	aorist
+254344	present
+254348	present
+254351	perfect
+254359	perfect
+254363	perfect
 254365	aorist
+254369	aorist
+254387	perfect
+254390	aorist
+254393	present
+254395	present
+254397	present
+254405	aorist
+254407	perfect
+254414	present
+254421	present
+254423	present
+254427	aorist
+254434	present
+254438	present
+254440	present
 aorist
-254372	aorist
-254381	aorist
-254392	present
-254404	present
-254413	present
-254429	aorist
-254431	aorist
-254439	imperfect
-perfect
-254442	aorist
-254450	imperfect
+254454	aorist
+present
+254463	present
+254466	aorist
 254468	aorist
-imperfect
-254480	present
-254482	imperfect
-254484	present
-254486	imperfect
-254494	imperfect
-254514	imperfect
-254525	imperfect
-254536	imperfect
-present
-imperfect
-254544	present
-254546	imperfect
-254556	imperfect
-254563	imperfect
-254567	aorist
-254576	present
-present
-254587	present
-254590	aorist
+254479	present
 aorist
+254482	perfect
+254493	present
+254497	present
+254506	present
+254510	aorist
+254516	aorist
+254521	present
+254525	present
+254527	present
+254531	aorist
+254536	present
+254542	aorist
+254554	aorist
+254559	aorist
+254563	present
+254567	present
+254570	aorist
+254572	aorist
+254574	aorist
+254578	aorist
+254586	aorist
+254593	aorist
 254596	aorist
-254621	aorist
-254624	aorist
-254630	perfect
-254637	aorist
-254650	aorist
+254600	aorist
 aorist
-254660	aorist
-254669	aorist
-254679	aorist
-254690	present
-254692	imperfect
+254606	aorist
+254625	present
+254632	present
+aorist
+aorist
+254638	aorist
+254656	present
+254662	perfect
+254665	present
+254669	imperfect
+imperfect
+254673	present
+present
+254676	aorist
+254678	perfect
+254682	present
+aorist
+254685	aorist
+254689	aorist
+254691	present
 254694	aorist
-254702	imperfect
-254705	aorist
-254719	aorist
-254725	present
-254735	aorist
-aorist
-254738	aorist
-254747	present
-aorist
-254753	aorist
-254756	aorist
-aorist
-aorist
-254774	perfect
-254776	perfect
-aorist
-aorist
-254784	aorist
-254791	aorist
+254699	aorist
+254704	aorist
+254712	present
+254716	present
+254718	aorist
+254723	aorist
+254736	present
+254739	present
+254743	present
+254745	aorist
+254751	present
+254758	present
+254760	aorist
+254764	aorist
+254777	aorist
 254794	aorist
-254806	aorist
-254808	aorist
-254814	aorist
-254820	aorist
-254832	future
-254834	aorist
-254845	aorist
-aorist
-254851	aorist
-254855	aorist
-aorist
-254865	aorist
-254882	present
-254894	imperfect
-254906	imperfect
-254922	imperfect
+254821	aorist
+254824	present
+254826	present
+254828	present
+254832	present
+254834	present
+254836	perfect
+254839	aorist
+254845	present
+254850	present
+254854	perfect
+254858	present
+254868	perfect
+254883	aorist
+254886	aorist
+254888	aorist
+254895	present
 present
-254926	imperfect
-254933	imperfect
+254900	present
+254911	present
 present
+254917	present
+254919	present
+254923	present
+254932	present
+254936	present
+254939	present
+present
+254942	present
+254945	present
+254950	aorist
 254952	present
-254957	present
-254964	present
-254970	aorist
-254974	imperfect
-254989	present
-254992	present
-255000	imperfect
-255002	aorist
-255016	present
-255022	aorist
-255025	aorist
-255035	aorist
-255049	aorist
-255057	aorist
-255060	aorist
+254958	present
+254960	present
+254963	present
+254966	present
+254969	present
+254974	present
+254978	present
+254985	aorist
+254988	future
+254993	present
+254996	present
 present
-255063	aorist
-present
-255084	aorist
-255086	aorist
-255098	imperfect
+255003	aorist
 aorist
-255110	aorist
-255127	aorist
-255133	aorist
-255139	aorist
-255142	aorist
-255149	aorist
-255151	aorist
+255014	future
+255020	future
+255023	present
 present
-255157	aorist
-perfect
-255168	perfect
-255174	aorist
-255178	aorist
-255181	aorist
-255199	imperfect
-255205	aorist
-255207	aorist
-255210	aorist
-255213	aorist
-255218	aorist
-255225	present
-255231	perfect
-255233	present
-255238	aorist
-255247	imperfect
-255253	imperfect
+255027	future
+255038	future
+255040	present
+255053	present
+255055	present
+255059	perfect
+255066	present
+255068	present
+255073	present
+255077	present
+255080	aorist
+255085	present
+255092	aorist
+255096	present
+255100	present
+255104	present
+255108	present
+255110	present
+255112	present
+255114	present
+255116	present
+255118	present
+255122	present
+present
+aorist
+255131	aorist
+255141	aorist
+255145	present
+255147	present
+255150	aorist
+255152	present
+255155	present
+255160	present
+present
+255165	perfect
+present
+255169	present
+255173	present
+255176	present
+255183	present
+255185	present
+255189	present
+255191	present
+255193	present
+255195	present
+255197	present
+255203	aorist
+255207	present
+255212	present
+255214	present
+255216	present
+255224	present
+255227	present
+255230	present
+255232	present
+255236	present
+255242	aorist
 255259	aorist
-aorist
-255263	aorist
-255270	aorist
-255275	present
+255261	present
+255265	future
+255267	present
+255269	aorist
+255274	present
 255277	aorist
-255280	present
-255289	aorist
-perfect
-255300	present
-aorist
-255314	aorist
-255321	aorist
+255298	present
 present
+255306	present
+255308	present
+255312	present
+255323	present
+255340	present
+255347	aorist
+255354	present
+255358	aorist
 present
-255337	aorist
-255341	aorist
+255363	present
+255379	present
+255382	perfect
+255386	present
+255392	future
+255404	aorist
 aorist
-255353	aorist
-255360	aorist
-255371	present
-255388	aorist
-255393	present
-255397	aorist
-imperfect
-255400	imperfect
-aorist
-255403	aorist
-255425	aorist
-255431	aorist
-aorist
-255439	present
-255449	present
+255410	aorist
+255413	aorist
+255415	aorist
+255424	present
+255429	aorist
+255434	aorist
+255441	aorist
+255456	present
+255472	aorist
+255488	perfect
+255495	aorist
+255500	aorist
+255504	aorist
+255514	present
+255522	aorist
 present
-255459	aorist
-255461	present
-present
-255466	aorist
-255475	aorist
-255480	imperfect
-255482	aorist
-255484	aorist
-255491	aorist
-255506	aorist
-255512	aorist
-255517	imperfect
-255519	aorist
-255524	present
-255526	aorist
-255535	aorist
+255526	present
+255529	present
+255532	present
+255535	imperfect
 255539	present
-255554	future
-255560	present
-255562	future
-aorist
-255570	aorist
-aorist
-255575	aorist
-255579	aorist
-aorist
-255582	present
-255593	aorist
-255597	imperfect
-present
-255607	aorist
-255613	aorist
-255628	imperfect
-present
-255631	present
-255644	present
-255648	aorist
-255660	imperfect
-255675	aorist
-255687	aorist
-255690	present
-255692	aorist
-255700	present
-255702	aorist
-255713	present
-255721	future
-255742	future
-255744	aorist
-255756	aorist
-255782	aorist
-255789	aorist
-aorist
-255803	imperfect
-255805	imperfect
-255825	imperfect
-255836	imperfect
-255847	aorist
-255859	present
-255873	present
-255879	imperfect
-aorist
-255889	imperfect
-255891	aorist
-255894	present
-255896	perfect
-255898	present
-255909	aorist
-255923	aorist
-aorist
-255927	aorist
-255933	aorist
-255939	present
-255946	present
-present
-255962	perfect
-255965	present
-255973	future
-255980	future
-255985	aorist
-255989	aorist
-255996	present
-256002	aorist
-256012	aorist
-256020	present
-256023	imperfect
-256028	aorist
-256036	aorist
-256043	present
-256051	aorist
-256057	aorist
-256061	aorist
-256076	present
-256085	future
-256087	aorist
-256093	aorist
-256101	aorist
-256107	aorist
-256121	present
-256124	aorist
-256135	aorist
-aorist
-256153	present
-256156	aorist
-256163	future
-256176	future
-256179	future
-256189	future
-future
-256195	aorist
-256200	future
-256202	future
-256212	aorist
-256219	aorist
-256224	aorist
-256249	aorist
-256253	aorist
-256258	imperfect
-256266	aorist
-256278	aorist
-256290	aorist
-256292	present
-256304	aorist
-256322	imperfect
-256329	aorist
-256332	present
-256337	aorist
-256350	aorist
-256359	aorist
-256368	aorist
-256371	aorist
-256391	aorist
-256397	aorist
-256406	aorist
-256411	aorist
-256418	aorist
-256435	imperfect
-256444	aorist
-256451	aorist
-256456	aorist
-256463	aorist
-256472	pluperfect
-256477	aorist
-256483	aorist
-256488	present
-256499	present
-256505	aorist
-256508	imperfect
-256514	aorist
-256527	aorist
-256530	aorist
-256538	aorist
-256545	aorist
-256552	imperfect
-256564	imperfect
-256569	aorist
-256577	aorist
-256589	aorist
-256591	present
-aorist
-256594	aorist
-256597	present
-aorist
-256602	imperfect
-256604	present
-256617	present
-256623	aorist
-256628	present
-256630	aorist
-256632	present
-256634	imperfect
-256639	aorist
-256642	present
-256646	present
-256650	present
-256654	aorist
-256656	aorist
-256659	aorist
-256668	aorist
-256671	present
-256675	aorist
-256680	aorist
-256691	aorist
-256699	aorist
-256704	aorist
-256708	aorist
-256732	aorist
-imperfect
-256737	present
-256740	aorist
-aorist
-256766	aorist
-256769	imperfect
-aorist
-aorist
-256777	aorist
-256794	perfect
-256798	present
-aorist
-aorist
-256821	aorist
-256823	aorist
-aorist
-256828	present
-aorist
-256840	aorist
-aorist
-256844	aorist
-256856	perfect
-256863	aorist
-256871	aorist
-256873	aorist
-256897	present
-256902	aorist
-256910	future
-256924	present
-256926	aorist
-256943	present
-256958	aorist
-256961	present
-aorist
-256966	aorist
-256968	aorist
-256975	aorist
-256977	aorist
-256988	aorist
-256992	aorist
-256996	future
-257005	aorist
-257013	perfect
-257015	aorist
-257018	aorist
-257027	aorist
-257033	imperfect
-257045	aorist
-257051	aorist
-257053	present
-257062	perfect
-257074	aorist
-257089	aorist
-257110	aorist
-present
-257114	future
-257126	imperfect
-257138	aorist
-257140	present
-257144	aorist
-257152	pluperfect
-257155	aorist
-aorist
-257175	aorist
-257196	aorist
-257204	aorist
-aorist
-257214	aorist
-257225	present
-257230	present
-257250	future
-257252	present
-257269	aorist
-257291	present
-257307	aorist
-257314	aorist
-257316	aorist
-257332	aorist
-257334	aorist
-257345	aorist
-present
-257349	imperfect
-257356	imperfect
-257363	present
-257369	aorist
-257375	aorist
-257381	perfect
-257390	aorist
-aorist
-present
-257396	perfect
-257409	perfect
-257413	aorist
-257418	aorist
-257425	aorist
-257431	aorist
-257437	imperfect
-257442	aorist
-257456	present
-257459	imperfect
-257463	present
-257465	present
-257468	aorist
-257474	aorist
-257479	aorist
-257485	aorist
-257494	aorist
-aorist
-257499	imperfect
-present
-257506	aorist
-257530	aorist
-257547	aorist
-257556	aorist
-257565	imperfect
-257574	present
-present
-257580	imperfect
-257587	aorist
-aorist
-present
-257595	aorist
-257605	imperfect
-257610	imperfect
-257616	present
-257626	present
-257629	present
-257634	imperfect
-257639	present
-257643	present
-257647	imperfect
-257651	perfect
-257654	aorist
-aorist
-257674	imperfect
-257680	present
-257682	present
-257690	present
-present
-257697	imperfect
-257706	present
-257708	present
-257717	present
-257719	imperfect
-257731	perfect
-257735	aorist
-257739	present
-257756	imperfect
-257768	aorist
-257770	aorist
-257772	imperfect
-present
-257777	present
-257784	present
-imperfect
-aorist
-257796	perfect
-257807	aorist
-257815	aorist
-aorist
-257821	aorist
-257828	imperfect
-257834	perfect
-257838	perfect
-imperfect
-257851	imperfect
-257859	imperfect
-257863	aorist
-257882	present
-257886	aorist
-257889	present
-aorist
-257900	aorist
-257904	present
-257910	aorist
-257922	present
-257934	aorist
-257938	present
-257940	present
-257959	present
-257966	aorist
-257978	aorist
-257984	future
-258005	present
-258007	present
-aorist
-258013	aorist
-aorist
-258027	aorist
-258032	perfect
-258036	aorist
-258038	aorist
-258046	imperfect
-258058	imperfect
-258063	aorist
-258067	present
-aorist
-258070	present
-258080	present
-258088	present
-258091	aorist
-aorist
-258094	aorist
-258105	imperfect
-258116	pluperfect
-future
-258122	imperfect
-258124	present
-258126	present
-258135	imperfect
-258140	aorist
-258148	aorist
-258150	aorist
-258156	aorist
-258161	aorist
-258163	present
-258169	aorist
-258172	present
-258174	present
-258177	aorist
-258181	present
-258185	future
-258187	aorist
-258192	aorist
-aorist
-258206	imperfect
-imperfect
-258214	aorist
-258221	present
-258226	present
-258242	aorist
-258249	future
-258251	present
-258262	aorist
-258270	aorist
-present
-258279	present
-258290	aorist
-258301	aorist
-258309	aorist
-258316	imperfect
-258322	aorist
-258329	present
-258333	aorist
-258336	present
-258338	aorist
-258340	aorist
-aorist
-258346	aorist
-258362	aorist
-258366	aorist
-258375	aorist
-258381	aorist
-258387	imperfect
-258394	present
-258397	aorist
-258402	present
-imperfect
-258412	aorist
-258422	present
-258435	aorist
-258439	aorist
-258458	aorist
-258462	present
-258467	perfect
-aorist
-258476	present
-aorist
-258479	present
-258486	aorist
-258494	aorist
-258500	aorist
-258502	present
-258508	present
-aorist
-258512	present
-258517	present
-258521	present
-258523	aorist
-258525	aorist
-258532	future
-258537	present
-present
-258544	present
-258546	pluperfect
-258548	present
-258555	present
-aorist
-258564	perfect
-258572	imperfect
-present
-258576	aorist
-258582	imperfect
-258587	present
-258590	aorist
-258592	aorist
-imperfect
-258605	aorist
-258618	aorist
-aorist
-258629	aorist
-aorist
-258637	present
-258640	aorist
-258650	aorist
-258652	present
-258654	aorist
-258659	aorist
-258661	aorist
-258665	aorist
-aorist
-258670	aorist
-258689	aorist
-258695	present
-258703	aorist
-258707	present
-258713	aorist
-258721	present
-258726	present
-258730	aorist
-258748	future
-258751	present
-258760	aorist
-aorist
-258765	aorist
-258772	aorist
-258779	aorist
-258785	perfect
-258789	aorist
-258797	imperfect
-258799	aorist
-258801	aorist
-258807	aorist
-258817	aorist
-258820	aorist
-aorist
-258823	aorist
-258825	aorist
-aorist
-258847	imperfect
-258853	present
-258861	imperfect
-258866	present
-258868	imperfect
-258871	present
-258873	aorist
-258878	present
-258889	pluperfect
-258891	perfect
-258893	aorist
-258902	imperfect
-258904	imperfect
-258907	present
-258911	present
-258914	present
-258920	imperfect
-258924	aorist
-258928	aorist
-258930	aorist
-258940	imperfect
-258953	aorist
-aorist
-258967	aorist
-258969	aorist
-258973	aorist
-258978	imperfect
-present
-258985	imperfect
-258988	present
-258990	present
-258994	aorist
-258996	aorist
-259003	aorist
-259011	aorist
-259017	aorist
-259024	aorist
-259034	imperfect
-259038	present
-259040	present
-259044	present
-259054	imperfect
-259057	imperfect
-259065	imperfect
-aorist
-259068	aorist
-259073	aorist
-259079	aorist
-259100	imperfect
-259102	present
-259104	present
-259122	imperfect
-aorist
-259126	present
-259130	aorist
-259139	present
-259141	aorist
-259156	present
-259161	imperfect
 perfect
-259164	aorist
-259170	present
-259174	aorist
-259176	aorist
-259180	aorist
-259182	aorist
-259187	present
-259194	aorist
-259206	imperfect
-259212	present
+255542	aorist
+255551	present
+255554	present
+255558	aorist
+255561	future
+255565	future
+255571	future
+255577	present
+255591	present
+255598	aorist
+255600	aorist
+255604	present
+255609	aorist
+255613	aorist
+255615	aorist
+255618	aorist
+255622	present
 present
-259216	imperfect
-259224	imperfect
+255628	perfect
+255631	aorist
+255642	aorist
+255655	present
+255657	present
+255660	aorist
+255674	aorist
+255677	aorist
+255682	aorist
+255686	aorist
+255692	present
+255699	present
+255701	present
+255707	aorist
+255718	present
+255721	future
+255724	future
+255727	perfect
+255733	present
+255738	aorist
+255750	present
+255757	present
+255763	present
+255769	aorist
+255773	perfect
+255775	present
+present
+255779	aorist
+255784	aorist
+255790	present
+255793	aorist
+255797	present
+255803	aorist
+255806	present
+255810	imperfect
+255813	imperfect
+255818	present
+present
+255821	present
+present
+255825	present
+255828	present
+255830	present
+255837	present
+255840	present
+255845	aorist
+present
+255851	present
+255858	present
+255860	present
+255863	aorist
+255867	present
+255869	present
+255877	aorist
+255891	present
+255896	present
+255919	aorist
+255921	aorist
+255923	present
+255926	aorist
+255929	present
+255931	present
+255936	present
+255946	present
+255956	aorist
 aorist
-259234	aorist
-259236	aorist
+255959	present
+present
+255963	present
+255966	present
+255969	present
+perfect
+255979	present
+perfect
+255984	present
+255995	present
+255997	present
+256006	aorist
+256009	present
 aorist
-259239	aorist
-259246	present
-259254	aorist
-259257	present
-259261	aorist
-259268	present
-259270	aorist
+256017	aorist
 aorist
-259275	aorist
-259278	aorist
-259281	aorist
+256021	present
+256025	aorist
+256027	present
 aorist
-259289	aorist
-259296	present
-259298	present
-259303	imperfect
-259307	present
-259311	aorist
-259319	aorist
-259323	aorist
-259325	aorist
-259331	aorist
-259333	aorist
-259336	aorist
-259343	aorist
-259347	aorist
+256030	aorist
+256044	aorist
+256048	aorist
+256050	present
+256054	aorist
+256057	aorist
+256062	present
+present
+256080	present
+256085	present
+256087	present
+256091	present
+256096	aorist
+256099	aorist
+256101	present
+256104	aorist
+256107	aorist
+256109	present
+present
+256113	present
+256120	present
+256124	present
+256135	present
 aorist
-259352	aorist
-259354	aorist
+256140	aorist
+256148	aorist
+256155	aorist
+256159	present
+256161	present
+256166	present
+256168	present
+256172	present
+256181	present
+256191	present
+256193	present
+256198	present
+256201	present
+256204	present
+256206	present
+256209	present
+256214	aorist
+256220	aorist
+256223	aorist
+256225	perfect
+future
+256231	aorist
+256241	present
+256243	present
+present
+256247	present
+256255	present
+256257	present
+256266	aorist
+256268	perfect
+256271	future
+256276	aorist
+256279	aorist
+256281	present
+256285	present
+256291	aorist
+256300	present
+256302	present
+256310	present
+256313	present
+256315	present
+256322	present
+256326	present
+256332	aorist
+256335	present
+256343	present
+present
+aorist
+256350	present
+256352	perfect
+256354	present
+256357	present
+256359	present
+256362	present
+256369	present
+256374	aorist
+256376	aorist
+256378	aorist
+256380	aorist
+256382	aorist
+256384	aorist
+256389	present
+256393	future
+256396	present
+256403	perfect
+256406	present
+present
+present
+256411	aorist
+256418	perfect
+256428	present
+present
+256435	present
+256438	future
+256440	present
+256448	perfect
+256453	present
+present
+256462	present
+256468	present
+256470	present
+256474	present
+256483	perfect
+256486	present
+256488	present
+256497	present
+256500	present
+256508	present
+present
+256514	present
+256519	aorist
+256528	present
+256530	present
+256535	present
+256537	present
+256540	present
+256544	present
+256546	future
+256548	present
+256552	aorist
+256554	present
+256568	present
+256575	present
+present
+256580	present
+256583	present
+256587	present
+256595	perfect
+perfect
+256599	present
+256605	present
+present
+perfect
+256609	present
+256612	present
+256620	present
+256622	perfect
+256624	present
+256628	present
+256632	perfect
+256637	present
+256639	aorist
+256641	aorist
+256644	aorist
+256646	present
+aorist
+256651	aorist
+256654	present
+256657	aorist
+256659	present
+present
+present
+256666	aorist
+256670	present
+present
+256679	present
+256681	present
+present
+256685	present
+present
+present
+256689	present
+present
+256695	aorist
+256700	present
+256702	present
+256706	present
+256711	aorist
+256715	perfect
+256717	present
+256719	present
+256722	present
+256726	present
+256728	future
+256737	present
+256743	present
+256745	present
+256750	present
+present
+256760	aorist
+256763	present
+256768	present
+256770	present
+256774	present
+present
+256778	present
+256789	present
+present
+256795	present
+256803	present
+aorist
+256806	present
+256808	present
+256815	present
+256823	present
+256826	present
+256828	present
+256831	present
+256834	present
+256836	present
+256839	present
+256844	present
+256847	present
+256849	present
+256857	perfect
+256859	present
+256861	present
+256865	present
+256869	perfect
+256872	perfect
+256874	present
+256876	present
+256878	present
+256886	aorist
+256891	aorist
+256893	present
+present
+256898	future
+256900	present
+present
+present
+256910	present
+256918	present
+256922	present
+aorist
+256928	aorist
+256935	present
+present
+256938	present
+256943	aorist
+256947	aorist
+256949	aorist
+256954	present
+256957	present
+256960	aorist
+256964	aorist
+256975	future
+256981	present
+256984	present
+256987	present
+256990	present
+256992	aorist
+256995	aorist
+present
+257006	present
+present
+257009	perfect
+257014	present
+257019	present
+present
+257024	present
+257026	present
+257030	present
+257032	aorist
+257037	aorist
+present
+257047	present
+257050	aorist
+257068	present
+257071	present
+257076	present
+257084	present
+257086	aorist
+perfect
+257092	aorist
+257094	aorist
+257100	aorist
+257108	perfect
+257115	present
+257117	present
+257122	present
+257130	aorist
+257138	aorist
+257147	aorist
+257151	aorist
+257154	aorist
+257163	aorist
+257168	aorist
+257177	aorist
+257180	aorist
+257186	aorist
+257193	present
+257196	present
+perfect
+257200	perfect
+257202	perfect
+257204	present
+257207	aorist
+257212	present
+257214	present
+257217	aorist
+257224	aorist
+257227	present
+257229	perfect
+257231	aorist
+257238	present
+257240	aorist
+257248	aorist
+257252	aorist
+257254	aorist
+257257	aorist
+257260	aorist
+aorist
+257264	aorist
+257273	aorist
+257276	present
+257280	present
+257287	aorist
+257292	aorist
+257296	future
+257298	aorist
+aorist
+257305	present
+present
+257311	aorist
+aorist
+257316	present
+257319	present
+257323	aorist
+257326	present
+present
+257330	present
+present
+257333	present
+future
+257340	present
+257344	perfect
+257352	present
+257361	perfect
+257364	present
+257369	aorist
+257378	aorist
+257380	future
+257382	present
+257384	future
+257386	future
+257388	future
+257391	present
+257394	present
+aorist
+257399	present
+257401	present
+present
+257405	present
+257410	present
+aorist
+257414	aorist
+257418	present
+257425	present
+257429	future
+257436	future
+257438	present
+257443	aorist
+present
+257447	perfect
+257449	present
+257457	perfect
+present
+257461	aorist
+257463	present
+257466	aorist
+257469	present
+257475	present
+257492	aorist
+257495	future
+257501	perfect
+257507	perfect
+257511	present
+present
+257515	present
+257523	present
+perfect
+257526	present
+257531	present
+present
+257535	present
+257538	present
+present
+257542	aorist
+257549	aorist
+257554	perfect
+257561	present
+257564	future
+257566	future
+257570	perfect
+257575	present
+257580	perfect
+257583	present
+257586	present
+present
+257591	present
+257594	perfect
+257596	present
+257599	present
+257604	aorist
+present
+257609	aorist
+257614	present
+257618	perfect
+257625	future
+257631	future
+257636	aorist
+257639	aorist
+257652	aorist
+257657	aorist
+257661	aorist
+257666	present
+present
+257670	future
+257674	future
+257680	present
+257684	perfect
+257686	aorist
+257691	perfect
+present
+257694	aorist
+257710	present
+257717	perfect
+present
+257722	present
+present
+present
+257732	aorist
+257734	aorist
+257736	aorist
+aorist
+aorist
+257742	future
+257747	present
+future
+257754	future
+257756	present
+257763	future
+257767	future
+257770	present
+257772	aorist
+257774	aorist
+257777	aorist
+257781	present
+257787	perfect
+257790	perfect
+257792	perfect
+257794	perfect
+257796	present
+257802	future
+257815	perfect
+257818	aorist
+aorist
+257825	aorist
+aorist
+257830	aorist
+257837	present
+257841	aorist
+present
+257844	present
+257851	aorist
+257855	imperfect
+257858	present
+present
+257867	aorist
+future
+257876	present
+257879	aorist
+257888	aorist
+257892	aorist
+257895	aorist
+257899	aorist
+257901	aorist
+257906	aorist
+257908	aorist
+257912	aorist
+257915	future
+257922	future
+257935	aorist
+257941	aorist
+257945	imperfect
+257947	present
+aorist
+257950	aorist
+present
+257979	aorist
+257984	aorist
+257991	aorist
+258007	imperfect
+258011	present
+aorist
+258014	aorist
+258020	aorist
+258023	present
+258028	present
+258032	present
+258036	present
+258047	present
+258054	present
+258056	present
+258059	present
+258061	present
+present
+present
+258072	present
+present
+258076	present
+present
+258080	present
+258083	aorist
+258094	present
+258098	present
+258102	present
+258106	present
+258111	present
+258118	perfect
+258123	perfect
+258130	present
+perfect
+258134	present
+present
+258144	present
+258146	present
+258149	present
+258151	present
+present
+258162	perfect
+258164	present
+258166	present
+present
+258175	present
+258178	present
+present
+258182	present
+258192	aorist
+258194	present
+present
+258199	present
+258202	present
+258204	present
+258206	present
+258210	present
+258216	present
+258218	aorist
+258225	present
+258228	aorist
+258235	aorist
+258239	present
+258250	aorist
+258254	aorist
+258259	aorist
+258265	present
+258272	present
+present
+258275	present
+present
+258281	present
+258283	present
+258285	present
+258288	present
+258291	imperfect
+258295	present
+present
+258301	present
+present
+258310	aorist
+258317	aorist
+258323	aorist
+258331	aorist
+258338	aorist
+258342	aorist
+258350	present
+258352	present
+258354	present
+258356	present
+perfect
+258360	present
+258369	present
+present
+258377	present
+perfect
+258382	present
+258385	future
+258388	aorist
+aorist
+258394	perfect
+aorist
+258399	aorist
+258403	present
+present
+258409	present
+258415	present
+258417	present
+258422	aorist
+present
+258450	present
+258455	present
+258459	present
+258465	present
+258478	aorist
+258487	aorist
+258496	perfect
+258503	present
+present
+258506	present
+258510	present
+258512	present
+258519	present
+258525	aorist
+258537	aorist
+258540	present
+258545	imperfect
+258547	present
+258551	present
+258561	aorist
+aorist
+258569	present
+258575	aorist
+258580	present
+258598	present
+258600	aorist
+258607	aorist
+258610	present
+258613	present
+aorist
+258618	future
+258621	present
+258626	present
+258631	aorist
+258633	aorist
+258637	perfect
+258640	aorist
+258642	perfect
+258647	present
+future
+258651	present
+258654	present
+258660	future
+258662	present
+258679	aorist
+258687	aorist
+258691	aorist
+258695	aorist
+258698	present
+258705	present
+258714	aorist
+aorist
+258722	aorist
+258727	perfect
+258730	aorist
+258734	present
+258738	perfect
+258743	future
+258748	future
+258754	aorist
+258758	present
+258760	aorist
+258768	present
+present
+258794	aorist
+258797	aorist
+258800	aorist
+258814	aorist
+258819	present
+258822	future
+258825	present
+258830	future
+258834	future
+258839	future
+258843	present
+258848	future
+258853	perfect
+258855	present
+258859	aorist
+258866	present
+258870	present
+258872	present
+present
+258876	present
+258878	present
+258880	aorist
+258883	aorist
+258889	aorist
+aorist
+258895	aorist
+258899	future
+258901	aorist
+258904	aorist
+present
+258909	aorist
+258911	aorist
+present
+258927	aorist
+258929	present
+258931	present
+aorist
+258936	present
+258938	present
+258941	present
+258946	present
+258948	aorist
+258953	aorist
+258956	aorist
+258962	aorist
+258966	aorist
+258971	present
+258974	perfect
+258978	perfect
+present
+258985	perfect
+258989	aorist
+258991	imperfect
+259000	aorist
+259006	aorist
+259009	present
+259011	present
+259017	present
+259020	present
+present
+future
+259029	future
+259038	aorist
+259043	aorist
+259048	perfect
+259052	aorist
+259057	aorist
+259060	present
+259063	present
+259066	aorist
+259071	present
+259073	imperfect
+259076	present
+259079	present
+259081	imperfect
+259084	aorist
+259087	aorist
+259093	present
+259100	perfect
+259102	aorist
+present
+present
+aorist
+259110	aorist
+259118	present
+aorist
+259131	perfect
+259134	present
+259136	aorist
+259140	present
+259144	aorist
+259158	future
+259167	present
+259177	aorist
+259180	present
+259188	aorist
+259190	present
+259203	aorist
+259208	aorist
+259213	aorist
+259217	aorist
+259219	present
+259224	aorist
+259228	aorist
+259233	future
+259237	present
+259241	future
+259247	aorist
+259250	present
+259252	present
+259259	present
+259262	aorist
+259270	perfect
+259277	aorist
+259279	present
+259284	aorist
+259286	present
+259294	aorist
+aorist
+259298	aorist
+259303	aorist
+259305	aorist
+259308	aorist
+259313	aorist
+259315	future
+259321	aorist
+259323	present
+259326	aorist
+aorist
+259329	aorist
+259333	present
+259335	aorist
+259339	present
+259342	perfect
+259350	aorist
+259356	perfect
+259358	aorist
+present
 259363	aorist
-259365	present
-259368	aorist
-259377	aorist
-259384	aorist
-259389	aorist
-259418	present
+259365	perfect
+259367	aorist
+259372	future
+259380	aorist
+perfect
+259388	aorist
+259402	future
+259408	present
+259410	aorist
+259414	aorist
+259416	aorist
+259420	present
 259422	present
-259435	present
-259443	present
-259450	aorist
-259471	aorist
-259476	aorist
-259481	aorist
-259485	aorist
-aorist
-259488	present
-259490	aorist
-259504	aorist
-259515	aorist
-259521	aorist
+259426	perfect
+259431	aorist
+259433	present
+259440	aorist
+259444	imperfect
+259447	present
+259453	aorist
+259458	aorist
+259466	aorist
+259468	aorist
+259479	aorist
+259481	present
+259492	present
+259504	present
+259511	perfect
+259517	present
+259521	perfect
 259526	present
-259529	present
-259537	present
-259544	aorist
-259549	present
-259551	aorist
-259563	present
-259566	aorist
-259569	aorist
-259580	present
+259530	present
+259532	present
+aorist
+259536	perfect
+259541	present
+259548	aorist
+259552	aorist
+259559	present
+259561	present
+259566	present
+259570	present
+present
+259575	present
+259579	present
 259586	present
+259591	present
+259594	present
+259604	aorist
 aorist
-259594	aorist
-259600	aorist
-259604	imperfect
-aorist
+259608	aorist
+259611	present
+259615	perfect
+259620	present
+259637	present
 present
-259609	aorist
-259615	present
-259619	perfect
-259621	present
-259632	present
-259641	imperfect
-259660	aorist
+259644	aorist
+259646	aorist
+259650	present
+259652	aorist
+259655	aorist
+259658	aorist
+aorist
+259661	present
 259665	aorist
-259667	aorist
-259669	aorist
-259674	aorist
-259679	aorist
-259698	aorist
-259701	present
-259704	aorist
-259710	aorist
-259724	imperfect
-259730	present
-259735	aorist
-aorist
-259741	perfect
-259747	aorist
-259755	aorist
-259762	aorist
-imperfect
-259767	present
-259770	present
-259775	present
-259781	aorist
-259785	aorist
-259789	present
-259792	aorist
-aorist
-259795	present
-259800	present
-259803	perfect
-259805	aorist
-259813	aorist
-aorist
-259816	present
-259818	present
-259826	present
-259829	aorist
-259836	present
-259840	present
-259853	aorist
-259859	aorist
-259869	aorist
-259874	aorist
-259877	aorist
-259882	aorist
-aorist
-259898	aorist
-259904	aorist
-259915	imperfect
+259678	present
+259681	perfect
+259685	present
 present
-259918	aorist
-259932	aorist
-259934	aorist
-259938	aorist
-259943	aorist
-259949	aorist
-259954	aorist
-259956	present
+259692	present
+present
+259704	perfect
+259706	present
+259711	present
+259717	present
+259719	present
+259725	perfect
+present
+259732	aorist
+259740	present
+259744	present
+259759	future
+259761	present
+259766	aorist
 aorist
-259964	present
-259966	present
+259774	aorist
+259778	aorist
+259783	present
+259785	aorist
+259787	present
+259789	present
+259795	present
+259797	aorist
+259801	present
+259804	present
+259808	present
+present
+259813	present
+259822	perfect
+259828	present
+259833	present
+259838	aorist
+259844	aorist
+259850	present
+259855	present
+259864	aorist
+259869	present
+259873	aorist
+259878	imperfect
+aorist
+aorist
+259882	present
+259884	present
+future
+259888	present
+future
+259893	aorist
+aorist
+259900	present
+259909	present
+259911	aorist
+259919	aorist
+259927	aorist
+259930	present
+aorist
+aorist
+259935	present
+259941	present
+259946	present
+259953	aorist
+259958	aorist
 259968	aorist
 259970	present
+259976	aorist
+259981	aorist
+259985	present
+259992	present
+259999	present
 perfect
-259973	imperfect
-259979	present
-259982	present
-259986	present
-259988	present
-259994	aorist
-260000	present
-260005	aorist
-aorist
+260005	present
+260009	present
+260014	aorist
+260024	present
+260026	present
 present
-260012	aorist
-260018	imperfect
-260032	imperfect
-260036	present
-260045	aorist
-260047	aorist
-260057	present
-260059	aorist
-260071	aorist
-260077	aorist
-260083	aorist
-260086	present
-260089	present
-260101	aorist
-260108	aorist
-aorist
-260120	present
-aorist
-260125	perfect
-260132	aorist
-260138	aorist
-260142	present
-260145	present
-260157	present
-260160	present
+260032	present
+260036	perfect
+260042	present
+260044	perfect
+260047	present
+260049	perfect
+260056	present
+260062	present
+present
+260066	present
+260068	present
+260072	aorist
+260076	present
+perfect
+260084	imperfect
+260086	aorist
+260096	imperfect
+260100	perfect
+260108	present
+260114	present
+present
+260121	present
+260124	present
+260127	perfect
+260130	perfect
+260136	perfect
+260144	aorist
+260148	present
+260153	present
+260159	perfect
 260164	present
-260169	aorist
-260175	present
-260182	present
-260187	perfect
-260190	aorist
-260199	aorist
-260211	aorist
-260220	aorist
-260231	aorist
+260177	present
+260179	present
+260186	aorist
+260192	present
+260208	present
+260210	aorist
+260214	future
+260223	perfect
+260232	present
 present
-260234	present
-260238	present
-260248	imperfect
-260258	aorist
-260273	aorist
-aorist
-260282	aorist
-260291	aorist
-260294	aorist
-260304	perfect
-260312	aorist
-260314	aorist
+260237	present
+260242	present
+260246	present
+260249	present
+present
+260254	present
+260256	present
+260262	imperfect
+260264	perfect
+260270	aorist
+260273	present
+260284	present
+260290	aorist
+260293	aorist
+260297	present
+260299	present
+260311	perfect
+260315	present
+260317	present
 260319	aorist
-260325	aorist
-260327	aorist
-260332	aorist
-260335	present
-260339	perfect
-260347	present
-260356	present
-260360	aorist
-260371	present
-260376	present
-260385	aorist
-260398	present
-260403	aorist
-260412	aorist
-260433	perfect
-imperfect
-260437	present
-260440	present
-260445	aorist
-260451	present
-aorist
-260456	aorist
-260466	aorist
-260471	aorist
-260482	aorist
-260484	aorist
-260486	aorist
-260490	aorist
-260500	present
-260512	aorist
-260522	aorist
-260527	imperfect
-260536	present
-260538	aorist
-260544	present
-260546	aorist
-260548	aorist
-260551	imperfect
-260554	present
-260557	imperfect
-260562	present
-260564	aorist
-260569	present
-260580	present
-260587	aorist
-260594	aorist
-imperfect
-260597	aorist
-260621	aorist
-260625	present
-260627	aorist
-260629	aorist
-260631	aorist
-aorist
-260641	aorist
-260649	aorist
-260664	aorist
-260667	present
-260670	aorist
-260675	aorist
-260684	aorist
-260689	aorist
-260698	imperfect
-perfect
-260706	aorist
-260712	aorist
-260715	aorist
-aorist
-260731	aorist
-260741	aorist
-260745	aorist
-260756	aorist
-260758	aorist
-aorist
-260764	aorist
-260767	present
-260770	future
-260778	future
-260792	aorist
-260794	present
-aorist
-260815	aorist
-260825	imperfect
-260828	aorist
-260832	future
-260845	aorist
-260854	aorist
-260864	imperfect
-260866	aorist
-260870	aorist
-260873	aorist
-260875	aorist
-260879	present
-260896	aorist
-260900	aorist
-260907	aorist
-260911	aorist
-260920	present
-260928	imperfect
-260940	aorist
-260944	imperfect
-260952	present
-260958	imperfect
-260970	aorist
-aorist
-260977	aorist
-260993	present
-261001	aorist
-261007	aorist
-261009	aorist
-261018	aorist
-261020	imperfect
-261029	present
-261034	imperfect
-261047	aorist
-261054	aorist
-261059	aorist
-261062	aorist
-aorist
-261067	aorist
-261075	aorist
-261082	aorist
-261086	aorist
-261104	aorist
-261112	aorist
-261122	imperfect
-261131	present
+260334	aorist
+260340	present
+260343	present
+260346	present
+260349	aorist
+260353	imperfect
+260356	imperfect
+260358	present
+present
+260365	present
+260368	perfect
+260370	present
+present
+260373	present
+260375	present
 future
-261141	aorist
-261150	imperfect
-261152	aorist
-261159	aorist
-261163	present
-261172	aorist
+260380	aorist
+260387	perfect
+260392	present
+260396	perfect
+260401	imperfect
+260405	imperfect
+present
+260409	present
 aorist
-261194	aorist
-261202	aorist
-261212	aorist
-261221	aorist
-261225	present
-261229	aorist
+260412	present
+present
+260416	future
+260429	aorist
+260433	aorist
+260437	aorist
+260444	aorist
+260449	aorist
+260451	present
+260457	future
+260463	present
+260465	present
+260473	future
+260476	future
+260481	future
+260486	aorist
+260494	present
 aorist
-261234	imperfect
-261243	aorist
-aorist
-261248	aorist
-261254	present
-261256	present
-261262	aorist
-261272	imperfect
-261281	imperfect
-261283	present
-261299	imperfect
-aorist
-261311	imperfect
-261315	present
-261321	perfect
-261332	imperfect
-261337	aorist
-261341	aorist
-261344	aorist
-261350	aorist
-261359	aorist
-261361	present
-aorist
-261367	aorist
-261378	aorist
-261386	aorist
-261388	aorist
-261394	aorist
-261398	present
-261400	aorist
-261407	present
-261410	aorist
-imperfect
-261414	pluperfect
-261417	present
-261419	present
-261425	imperfect
-261428	present
-aorist
-261436	aorist
-261447	present
-261455	aorist
-261458	aorist
-aorist
-261465	aorist
-261479	aorist
-aorist
-261482	perfect
-261485	aorist
-261495	aorist
-261516	aorist
-261518	aorist
-261534	present
-261538	imperfect
-261540	perfect
-261542	present
-aorist
-261553	aorist
-261556	aorist
-261560	aorist
-261574	aorist
-261578	aorist
-261580	aorist
+260499	future
+260506	future
+260513	aorist
+260516	present
+260518	perfect
+260522	present
+260524	present
+260526	imperfect
+260537	aorist
+260549	present
+260556	present
+260559	present
+260565	perfect
+260571	present
+260576	aorist
+260585	present
+260589	present
+260591	present
+260596	perfect
+260602	present
+260605	present
+260616	present
+260623	present
+260628	perfect
+260635	present
+260641	perfect
+260645	present
+260647	present
+260649	aorist
+present
+260660	present
+260662	aorist
+260666	aorist
+260674	present
+260686	aorist
+260691	aorist
+260699	present
 perfect
-261595	aorist
 present
-261599	imperfect
+260714	aorist
+260717	future
+260723	present
+260725	present
+260730	present
+260733	aorist
+260743	aorist
+perfect
+260752	present
+aorist
+260761	present
+260763	present
+aorist
+260769	perfect
+aorist
+260778	aorist
+260794	aorist
+present
+260801	aorist
+260814	aorist
+260819	present
+260825	present
+260836	present
+260846	aorist
+260855	aorist
+260863	present
+260867	present
+260874	imperfect
+260877	aorist
+260892	perfect
+260895	present
+260898	aorist
+260906	aorist
+260909	aorist
+260912	future
+260914	present
+260918	present
+260922	present
+260932	present
+260936	present
+present
+aorist
+260940	aorist
+present
+260944	present
+260947	present
+260949	perfect
+260958	present
+260961	present
+260964	present
+260967	aorist
+260970	aorist
+260975	aorist
+260977	aorist
+aorist
+present
+260982	perfect
+260984	aorist
+260989	present
+260998	present
+261000	perfect
+aorist
+present
+aorist
+261006	present
+261010	aorist
+261023	perfect
+261025	present
+261030	present
+261033	present
+aorist
+261040	aorist
+261043	aorist
+261048	present
+261050	aorist
+261058	perfect
+261061	present
+present
+261071	perfect
+261075	future
+261080	present
+261082	present
+261090	future
+261099	future
+261107	present
+261119	aorist
+261123	present
+261127	present
+261136	present
+261141	perfect
+261146	perfect
+261149	present
+261156	aorist
+261158	present
+261164	present
+261171	present
+261175	present
+present
+261180	present
+261183	aorist
+261189	present
+261198	present
+present
+261201	aorist
+261208	present
+261210	present
+261212	future
+261216	aorist
+261222	aorist
+261224	aorist
+261229	aorist
+perfect
+261232	aorist
+261236	future
+261239	future
+261244	aorist
+261248	present
+present
+261254	aorist
+261257	aorist
+261262	present
+261267	present
+aorist
+261272	aorist
+261278	present
+261280	aorist
+present
+present
+261286	present
+261288	aorist
+261293	present
+261297	present
+261302	aorist
+aorist
+261308	present
+future
+261312	future
+261317	future
+261320	aorist
+261322	present
+261328	present
+261335	present
+261339	present
+261343	present
+261346	aorist
+261349	present
+perfect
+261356	present
+present
+perfect
+261364	aorist
+261367	aorist
+present
+261370	present
+261377	aorist
+261379	present
+261382	aorist
+261384	aorist
+261388	imperfect
+261390	aorist
+261396	perfect
+perfect
+261402	aorist
+aorist
+261405	present
+present
+261409	present
+261411	present
+261414	present
+261416	aorist
+261420	present
+aorist
+aorist
+261429	aorist
+261436	aorist
+261438	present
+261440	aorist
+aorist
+261444	imperfect
+present
+261448	aorist
+261450	present
+261452	present
+261454	aorist
+261461	aorist
+261469	imperfect
+261474	present
+261484	aorist
+261490	aorist
+aorist
+261495	aorist
+261498	perfect
+261514	aorist
+261516	aorist
+261523	aorist
+261526	present
+261531	present
+present
+261535	present
+261539	imperfect
+261541	aorist
+imperfect
+261544	aorist
+261547	present
+261549	present
+261553	present
+261557	present
+aorist
+261563	perfect
+261566	present
+261569	imperfect
+261571	aorist
+261573	aorist
+261576	future
+261579	aorist
+261583	present
+261589	aorist
+261593	present
+aorist
 261601	present
-261604	imperfect
-261608	present
-261614	imperfect
-present
-aorist
-261618	aorist
+261605	aorist
+261607	aorist
+261615	present
 261621	aorist
-aorist
-261628	present
+261626	aorist
+261629	aorist
 aorist
 261636	aorist
-261642	aorist
-261644	aorist
-261652	aorist
+261641	aorist
+261648	aorist
 aorist
-261659	aorist
-261662	imperfect
+present
+261654	aorist
+present
+261661	present
+261664	aorist
+261670	imperfect
+261675	aorist
 261678	aorist
-261681	aorist
-261685	aorist
+261685	present
 aorist
-261690	aorist
+261688	perfect
+261696	present
+261698	aorist
+261701	aorist
+261709	aorist
+261711	aorist
+261715	aorist
 aorist
-261693	aorist
-261702	imperfect
-261704	imperfect
-261706	present
-261712	imperfect
-261717	aorist
-261730	imperfect
-261735	present
+261722	aorist
+aorist
+aorist
+261730	present
+future
+261734	present
+261743	aorist
+261745	aorist
+261747	aorist
+261749	aorist
+261751	aorist
 261753	aorist
+261755	aorist
 261757	aorist
-261763	imperfect
-261771	imperfect
+261761	aorist
+aorist
+261769	aorist
+261771	aorist
+261775	aorist
 261780	aorist
+261784	aorist
+aorist
+aorist
 261789	aorist
-261797	aorist
-261799	aorist
-261808	imperfect
-261810	imperfect
-261815	aorist
-261819	aorist
-261823	aorist
-261826	aorist
-261828	imperfect
-261838	present
-261850	present
-261867	present
-261874	present
 aorist
-261883	aorist
-261897	perfect
-261900	aorist
-261902	aorist
-261904	aorist
-261909	aorist
-261913	aorist
-261921	aorist
-261927	aorist
-261932	aorist
-261936	imperfect
-261953	imperfect
-261959	aorist
-261969	aorist
-261981	imperfect
-261993	aorist
-261997	aorist
-aorist
-262006	imperfect
-262015	present
-262021	present
-aorist
-262038	aorist
-262042	aorist
-262046	aorist
-262066	future
+261794	present
 present
-262080	aorist
-262088	future
+present
+261799	imperfect
+261803	present
+261812	aorist
+261816	aorist
+261821	aorist
+261825	aorist
+261829	present
+261831	present
+261835	aorist
+261840	present
+261843	present
+261845	present
+261855	present
+261857	aorist
+261860	aorist
+261867	perfect
+aorist
+261871	perfect
+261879	aorist
+261882	present
+261885	aorist
+261888	present
+261890	perfect
+261896	present
+261899	present
+261902	present
+261904	present
+261907	present
+261909	present
+present
+261914	present
+261916	present
+261920	present
+261926	present
+261931	present
+261933	perfect
+261938	present
+261945	imperfect
+261948	imperfect
+261951	future
+261956	future
+261963	present
+261965	imperfect
+261969	present
+261971	aorist
+261978	present
+present
+261981	present
+261989	perfect
+present
+261994	perfect
+261998	perfect
+aorist
+262002	present
+262008	aorist
+aorist
+262012	present
+262018	future
+262020	present
+262023	present
+262032	present
+present
+262036	aorist
+262047	aorist
+262050	perfect
+262055	present
+aorist
+262058	aorist
+262062	aorist
+262065	aorist
+262069	perfect
+present
+262073	perfect
+262082	aorist
+aorist
+262085	aorist
+262089	imperfect
 262091	present
-262100	aorist
-262108	present
-imperfect
-262112	aorist
+262093	aorist
+262095	future
+262099	imperfect
+present
+262102	aorist
+present
+262106	perfect
+262110	present
 262117	perfect
-aorist
+262124	perfect
+262132	present
+262135	present
+262137	aorist
 present
-262129	aorist
-262141	aorist
-262151	aorist
-262155	aorist
-262161	aorist
-262167	aorist
-262176	aorist
-262189	aorist
-262204	aorist
-262211	present
-262217	present
+262143	aorist
+262145	aorist
+present
+262150	present
+262154	aorist
+262158	perfect
+present
+262162	future
+262171	present
+262174	present
+262177	perfect
+262179	aorist
+262181	present
+262184	present
+present
+262187	present
+262197	present
+262199	present
+262202	present
+262205	aorist
+262207	aorist
+262209	present
+262212	perfect
+present
+262216	present
+262226	future
 262230	present
-aorist
-262235	aorist
-262239	aorist
-262244	present
-262248	aorist
-262259	aorist
-262269	aorist
-262287	aorist
-262298	aorist
-262306	aorist
-262316	aorist
-262333	aorist
-262341	aorist
-262344	aorist
-262366	aorist
-262368	aorist
-262378	aorist
-aorist
-aorist
-262397	future
-262418	aorist
-262424	aorist
-262447	imperfect
-262452	imperfect
-262455	present
 present
+262234	perfect
+262237	aorist
+262241	aorist
+262243	present
+262245	present
+262250	future
+262252	future
+262255	present
+262258	present
+262260	aorist
+262266	present
+262270	present
+262280	present
+262284	present
+262289	aorist
+present
+present
+262293	aorist
+262295	present
+262298	present
+262302	present
+262311	present
+262317	aorist
+262324	aorist
+262326	present
+262332	present
+262334	present
+262337	present
+262339	present
+present
+262343	present
+262348	present
+262351	present
+262358	present
+262361	present
+262363	present
+262366	present
+262368	present
+262371	present
+262377	future
+262381	present
+262384	present
+262389	present
+262391	present
+262395	present
+262398	present
+present
+262402	present
+262404	aorist
+262407	aorist
+262413	aorist
+262425	aorist
+262430	aorist
+262433	present
+262445	present
+262449	present
+262456	aorist
 262458	present
-262461	aorist
+262461	perfect
+262465	present
+future
+262468	aorist
+262472	present
+262476	present
+262491	present
+262493	aorist
+262497	aorist
 present
-262468	present
-262477	aorist
-262492	present
-262506	aorist
+262504	present
 262509	present
-262520	aorist
-262535	present
-aorist
-aorist
-262544	aorist
-aorist
-262547	aorist
-262551	aorist
-262558	perfect
-aorist
-262565	aorist
-262573	aorist
-262579	aorist
-262586	aorist
-262598	present
-262610	present
-262620	aorist
-262626	perfect
-262632	aorist
-262643	perfect
-262650	present
-262654	perfect
-262658	aorist
-262664	present
-present
-262670	perfect
-262672	future
-262688	present
-262690	future
-262696	aorist
-262704	aorist
-262712	aorist
-262714	aorist
-262723	aorist
-262730	aorist
-262732	aorist
-262736	present
-262748	present
-262755	aorist
-262761	aorist
-262768	present
-present
-present
-262773	aorist
-262775	perfect
-262781	aorist
-262786	aorist
-262788	aorist
-262791	present
-262805	aorist
-262808	present
-262810	present
-262813	imperfect
-262821	aorist
-262828	aorist
-262833	aorist
-262843	present
-262853	present
-262855	imperfect
-262857	present
-262869	present
-262878	aorist
-aorist
-262887	aorist
-262895	aorist
-262898	imperfect
-262903	present
-present
-aorist
-262914	aorist
-262916	imperfect
-262919	aorist
-262928	present
-262934	present
-262941	aorist
-present
-262950	perfect
-262955	perfect
-262963	present
-262975	present
-262980	imperfect
-262982	imperfect
-262991	aorist
-262994	imperfect
+262511	present
+262514	present
+262518	present
+262520	present
+262524	present
+262529	present
+262531	future
+262533	present
+262537	present
+262539	present
 perfect
-263001	imperfect
-263021	aorist
-263025	present
-263040	aorist
-263050	aorist
-263061	aorist
-263072	aorist
-263080	imperfect
-263086	aorist
-263096	aorist
-263108	aorist
+262543	present
+262545	present
+262548	present
+262552	future
+262562	present
+262578	future
+aorist
+262585	aorist
+262590	aorist
+262596	aorist
+262603	future
+262606	present
+262610	aorist
+future
+262616	aorist
+present
+262620	present
+present
+262624	present
+262628	present
+262630	present
+262636	present
+262643	aorist
+present
+262648	aorist
+present
+262652	present
+262661	present
+present
+262669	present
+262672	aorist
+aorist
+262677	present
+262683	perfect
+262686	present
+262691	aorist
+262694	aorist
+262701	present
+262703	aorist
+262708	aorist
+262711	present
+aorist
+262715	present
+262722	present
+262728	present
+262733	perfect
+262735	present
+262741	aorist
+262745	perfect
+262748	aorist
+262750	imperfect
+262752	aorist
+262758	aorist
+262760	aorist
+262768	future
+262771	present
+262773	present
+present
+262777	present
+262788	present
+present
+262796	present
+262802	present
+262811	aorist
+262818	aorist
+262824	aorist
+262827	present
+262832	aorist
+262834	present
+262839	aorist
+262841	aorist
+262844	present
+262848	aorist
+262851	aorist
+262854	aorist
+262858	aorist
+262868	aorist
+present
+262873	aorist
+262876	present
+262880	present
+262884	present
+262887	aorist
+262892	present
+262895	future
+262901	present
+262904	present
+262906	present
+present
+262916	aorist
+aorist
+262920	perfect
+262923	aorist
+262925	aorist
+aorist
+262929	aorist
+262933	present
+present
+262936	perfect
+262939	present
+262942	present
+262946	present
+present
+262952	aorist
+262954	present
+262962	present
+262964	present
+262968	present
+present
+262971	aorist
+262976	present
+262978	present
+262981	aorist
+262986	present
+262988	present
+262990	present
+262992	aorist
+263005	present
+263008	present
+263011	future
+263015	present
+263018	present
+aorist
+263027	future
+263033	present
+263036	present
+263039	present
+263042	present
+263044	present
+present
+263047	aorist
+263055	present
+263059	aorist
+aorist
+263065	present
+263068	imperfect
+263075	aorist
+263077	aorist
+263079	present
+aorist
+263085	aorist
+263090	aorist
+present
+263094	present
+263106	aorist
+aorist
 263111	aorist
-263124	aorist
-263126	aorist
-263128	aorist
-263146	aorist
-present
-263154	present
-263166	present
+263117	present
+263123	present
+263127	present
+263129	perfect
+263132	future
+263135	present
+263141	present
+263145	aorist
+263156	present
+263158	present
+263165	present
+aorist
 263170	present
-263178	aorist
-263190	imperfect
-263205	aorist
-263222	aorist
-263224	aorist
-263226	aorist
-aorist
-263246	present
-imperfect
-263259	imperfect
-263270	aorist
-263272	imperfect
-263276	present
-263278	aorist
-263281	aorist
-263283	present
-263286	aorist
-aorist
-263291	aorist
-263301	aorist
-263303	imperfect
-263308	aorist
-263310	aorist
-263312	aorist
-263319	present
-263323	aorist
-263325	aorist
-263329	imperfect
-263342	imperfect
-263345	present
-263358	present
-263372	aorist
-263378	imperfect
+263174	present
 present
+263181	present
+present
+263187	present
+263190	present
 aorist
-263388	aorist
-263394	aorist
-263400	present
-263402	present
-263406	present
-263413	present
-263416	present
-263425	present
-263430	present
-263432	aorist
-263458	perfect
-263460	aorist
-263466	present
-263476	aorist
+263194	present
+263202	present
+263206	present
+263210	present
+263215	present
+263232	aorist
+present
+263237	present
+263242	present
+263246	perfect
+263250	present
+263253	present
+263257	present
+263262	present
+263266	present
+263270	aorist
+263277	aorist
+263281	aorist
+263292	present
+263297	present
+263299	present
+263302	present
+263306	present
+263321	present
+263329	present
+present
+263342	present
+263346	present
+263349	present
+present
+263352	present
+263355	present
+aorist
+present
+263359	present
+263361	present
+263364	present
+263366	present
+263369	present
+263372	present
+263377	aorist
+263379	perfect
+263386	present
+263389	aorist
+263391	present
+263395	present
+263397	present
+263401	present
+263403	present
+263406	aorist
+263410	present
+263412	present
+263415	present
+263418	present
+263420	aorist
+263423	aorist
+263427	future
+263429	aorist
+263432	future
+263434	aorist
+263438	aorist
+263441	aorist
+263443	aorist
+263445	aorist
+263449	aorist
+263453	aorist
+263456	future
+263459	present
+263462	present
+263465	present
+263468	present
+263471	present
+263476	present
 present
 263481	present
-263486	present
-263497	present
-263499	aorist
-263505	present
-263507	aorist
-263516	aorist
-263521	aorist
-263525	imperfect
-263531	present
-263533	perfect
-aorist
-263540	aorist
-aorist
-263551	aorist
-263560	present
-263568	aorist
-263570	aorist
-263584	present
-263592	present
+263483	present
+263488	present
 present
-263604	present
-263606	aorist
-263616	aorist
-263623	aorist
-263627	aorist
-263635	pluperfect
-263637	aorist
-263641	aorist
-263648	aorist
-263655	aorist
-263660	aorist
-263666	imperfect
+263491	present
+263493	present
+263495	future
+263500	future
+263504	future
+263506	future
+263509	present
+263515	present
+263517	present
+263519	present
+263521	present
+263525	aorist
+263527	future
+263529	future
+263533	present
+263540	present
 perfect
-263681	aorist
+263544	present
+263547	present
+263550	present
+present
+263554	aorist
+present
+263559	present
+263562	perfect
+263567	perfect
+263572	perfect
+263578	future
+263580	future
+263585	aorist
+263588	aorist
+263592	aorist
+263595	perfect
+263597	present
+263601	aorist
+263606	perfect
 aorist
-263685	aorist
-263689	imperfect
-263691	aorist
-263700	aorist
-263707	imperfect
+263611	aorist
+aorist
+263619	present
+263621	aorist
+263628	aorist
+263630	present
+263635	present
+263638	aorist
+263640	aorist
+263642	aorist
+263649	perfect
+263651	present
+263656	aorist
+aorist
+263661	perfect
+263663	aorist
+263670	aorist
+263674	aorist
+present
+aorist
+263679	aorist
+263683	aorist
+present
+263691	present
+263699	present
+263710	aorist
+present
+263714	present
+present
+263717	present
+present
 263721	aorist
-263727	imperfect
-263734	aorist
-263742	present
-aorist
-aorist
-263763	aorist
+263726	aorist
+263728	aorist
+263738	future
 present
-263796	aorist
-263802	imperfect
-263809	present
-263818	imperfect
-263827	aorist
-263832	aorist
-263846	aorist
-263852	aorist
-263856	aorist
-263871	perfect
-present
-263874	present
-present
-263877	present
-263879	present
-263885	aorist
-263894	aorist
-263906	aorist
+263741	future
+263747	future
+263749	present
+263754	present
+263757	aorist
+263759	present
+263761	present
+263764	imperfect
+263768	aorist
+263770	aorist
+263773	aorist
+263781	aorist
+263785	aorist
+263788	aorist
+263795	aorist
+263799	aorist
+263802	present
+263804	aorist
+263809	future
+263813	future
+263831	aorist
+263842	aorist
+263846	present
+263856	perfect
+263861	present
+263865	aorist
+263869	present
+263873	present
 aorist
-263909	aorist
-263916	present
-263926	aorist
-263937	aorist
-263949	aorist
-263955	aorist
-263957	aorist
-263971	aorist
-263981	aorist
-263990	present
+263884	present
+263887	present
+aorist
+263896	aorist
+present
+263901	present
+present
+263904	present
+263907	perfect
+present
+263920	aorist
+present
+263925	imperfect
+263930	present
+263939	aorist
+263942	imperfect
+263945	aorist
+263948	aorist
+263953	aorist
+263956	present
+263958	aorist
+263960	aorist
+263965	present
+263967	aorist
+263971	present
+263977	present
+263988	aorist
 263994	aorist
-264014	aorist
-aorist
-264027	present
-aorist
-264035	aorist
-264043	imperfect
-264047	present
-264049	aorist
-264068	aorist
-264070	aorist
-264072	present
-264075	aorist
-264078	aorist
-264084	aorist
-aorist
-264097	present
-264106	perfect
-264110	future
-264112	future
-264119	perfect
-264123	perfect
-264125	future
-264127	future
-264131	aorist
-264152	perfect
-264161	present
-264164	present
-264173	present
-264175	present
-264184	present
-264191	aorist
+263996	perfect
+263998	future
+264005	present
+264007	present
+264016	aorist
+perfect
+264021	aorist
+264033	perfect
+264037	aorist
+264048	aorist
+264054	aorist
+264059	present
+264063	perfect
+264072	aorist
+264074	perfect
+264081	present
+264083	present
+264094	aorist
+264098	aorist
+264102	present
+264107	present
+264109	aorist
+264111	aorist
+264126	aorist
+264129	aorist
+264132	aorist
+264137	present
+264140	present
+264143	perfect
+264151	present
+present
+264156	aorist
+264162	present
+264164	aorist
+present
+264171	present
+264174	aorist
+264177	present
+present
+264181	aorist
+present
+264184	aorist
+264192	present
 264194	present
-264223	present
-264225	present
-264236	present
-264238	aorist
-264253	aorist
-264258	aorist
+264197	aorist
+264208	aorist
+264211	aorist
+264225	perfect
+264228	aorist
+264230	present
+264234	present
+264238	present
+264245	present
+264250	present
+264257	present
+aorist
+264262	aorist
 264271	present
-264277	present
-264283	aorist
-264315	present
-264317	aorist
-264324	aorist
+264275	present
+264282	present
+264286	present
+present
+264297	present
+264304	aorist
+264306	present
+264308	present
+264310	present
+264312	present
 264327	present
-264335	aorist
+264330	present
+264336	future
+264340	future
+264346	aorist
+264349	aorist
+264352	present
+264355	aorist
+264361	aorist
+264363	aorist
+264369	present
+264371	imperfect
+present
+264374	imperfect
+imperfect
+264377	present
+264382	aorist
+264390	aorist
+264392	aorist
+264395	aorist
+imperfect
+264401	present
+264403	aorist
+264413	present
+264419	present
+264426	future
 aorist
-264338	aorist
-264340	aorist
-264342	aorist
-264358	perfect
-264377	perfect
-264389	present
-264393	aorist
-264408	present
-264418	present
-264429	present
-264432	future
-perfect
-264437	aorist
-aorist
-264443	aorist
-264447	aorist
-264451	aorist
-264453	aorist
-264467	present
-264473	aorist
-264478	aorist
-aorist
-264482	aorist
-264494	aorist
-264500	imperfect
-264504	present
-264506	present
-264527	aorist
-264532	aorist
-264534	aorist
-264546	aorist
-264555	present
-264558	imperfect
-aorist
-264566	present
-264570	imperfect
-264572	aorist
+264434	present
+264456	present
+264466	present
+264468	imperfect
+264470	present
+264475	aorist
+264479	present
+264481	aorist
+present
+264485	present
+264489	present
+264494	present
+264502	present
+264508	present
+264516	present
+264519	aorist
+264522	aorist
+264524	present
+264526	present
+264528	aorist
+264530	aorist
+264536	aorist
+264538	aorist
+264542	aorist
+264544	aorist
+264547	aorist
+264559	present
+264563	future
+264568	aorist
+264572	present
+264579	aorist
 264581	aorist
-264589	present
-264591	aorist
-264595	aorist
-264604	aorist
-264608	aorist
-264614	aorist
-264616	aorist
+264584	aorist
+264592	present
+264603	present
+264607	present
 aorist
-264630	imperfect
-264637	present
-264641	aorist
-264652	aorist
-264657	imperfect
-264672	imperfect
+present
+264617	present
+264619	present
+264623	present
+264625	present
+264630	aorist
+264635	aorist
+264637	perfect
+264640	aorist
+264648	aorist
+aorist
+aorist
+264653	imperfect
+264659	present
+264662	present
+264664	aorist
+264669	present
+264680	present
+264683	aorist
 264685	aorist
-264692	aorist
-264694	aorist
-aorist
-264703	present
-264711	pluperfect
-264721	imperfect
-264724	imperfect
-264728	imperfect
-264730	present
-264735	perfect
-264753	imperfect
-264758	imperfect
-264765	aorist
-264774	aorist
-264782	aorist
-264791	aorist
-264798	imperfect
-264804	aorist
-264807	aorist
-264814	aorist
-264819	aorist
-264831	aorist
-264837	imperfect
+264691	aorist
+264696	aorist
+264698	aorist
+264700	perfect
+264710	aorist
+264715	perfect
+264719	perfect
 perfect
-264840	present
-264843	present
+264725	present
+264727	present
+264734	present
+264736	future
+264739	present
 aorist
-264848	aorist
-264855	aorist
-264857	aorist
+present
+264746	aorist
+264748	aorist
+264752	present
+264759	perfect
+264768	present
+264771	present
+264778	aorist
+264782	present
+264790	present
+264795	present
+264799	present
+264803	present
+264807	present
+264817	present
+264823	present
+264827	present
+264830	present
+264834	present
+264842	aorist
+present
+264845	present
+264857	present
+264861	present
+264873	present
+present
+264882	aorist
+264895	present
+264903	present
+264907	future
+264910	present
+264916	present
+264923	present
+264934	present
+present
 aorist
-264862	present
-264864	perfect
-264869	aorist
-264871	aorist
-264876	aorist
-264882	present
-264893	present
-264905	imperfect
-264914	present
-264926	aorist
-264936	imperfect
-264938	present
-264940	aorist
-imperfect
-264945	aorist
-264959	present
-264963	imperfect
-264969	aorist
-264973	present
-264975	present
-264981	aorist
+264948	present
+264952	present
+264955	aorist
+264957	future
+264964	aorist
+264970	aorist
+264974	present
+264977	present
+264979	aorist
 264988	aorist
-present
-264991	perfect
+264993	aorist
 264997	present
+264999	aorist
 aorist
-265006	present
-265008	aorist
-265010	aorist
-265012	present
+265005	present
+present
+present
+265009	aorist
+265011	aorist
+265014	perfect
 265023	present
-265026	aorist
-265032	imperfect
-265038	present
-265040	present
-265046	imperfect
+265028	aorist
+265036	aorist
+265038	future
+future
+future
+future
+265054	present
+265056	aorist
 present
+265059	present
 265061	present
-265063	present
-265070	imperfect
-265076	aorist
-265080	aorist
-265084	aorist
+265066	aorist
 present
-265093	aorist
-265098	aorist
-265104	aorist
-265112	aorist
-265122	aorist
-265130	aorist
-265142	aorist
-265147	aorist
-265153	present
-265160	present
-265162	present
-265166	present
-265168	present
-265170	present
-265172	present
-265174	aorist
-265185	aorist
-265191	imperfect
+265075	aorist
+265087	aorist
+265094	aorist
+265110	perfect
+265114	aorist
+265123	perfect
+265126	aorist
+265129	aorist
+265140	aorist
+aorist
+265175	present
+265184	present
+265187	present
 present
-265196	aorist
+265190	aorist
 265199	aorist
-265203	aorist
-265208	present
-265214	aorist
+265204	present
+265207	present
+265209	aorist
+265214	future
+265226	future
+265229	present
+265236	present
+265239	present
+265242	present
+265246	present
+265249	perfect
+265252	present
+265261	aorist
+265263	future
+265266	present
+265273	present
+265276	perfect
 aorist
-265229	aorist
-265245	present
-imperfect
-265250	imperfect
-265260	aorist
-265263	aorist
-265271	aorist
-265285	aorist
-265288	aorist
-265293	aorist
-perfect
-265302	aorist
-265306	imperfect
-265308	present
-present
-perfect
-265314	aorist
-265320	present
-265323	aorist
+aorist
+265287	aorist
+265290	aorist
+265295	aorist
+265305	present
+265308	aorist
+265313	aorist
+265315	aorist
+265317	present
+265322	present
 265328	present
-265330	aorist
-265333	aorist
-265336	aorist
-aorist
-265344	aorist
-265347	imperfect
-265351	present
 present
-265354	aorist
-265357	aorist
+265332	present
+265338	aorist
+265341	aorist
+265347	present
+265352	present
+265355	aorist
+265361	present
 aorist
-265366	future
-265375	aorist
-265398	aorist
-265411	aorist
-265418	aorist
+265365	aorist
+265373	future
+265375	future
+265380	aorist
+265382	present
+present
+265388	future
+265395	future
+265400	future
+265405	present
+265410	present
+265415	aorist
+265417	aorist
+265420	aorist
+aorist
+265423	present
 265427	aorist
-265435	aorist
-265438	aorist
-265440	perfect
-265446	aorist
-aorist
-265454	present
-aorist
-265461	aorist
-265477	perfect
-265482	aorist
-265485	aorist
+265430	aorist
+265433	aorist
+265437	aorist
+265439	aorist
+265441	present
 present
-265494	imperfect
-265498	aorist
-265505	present
-aorist
-265514	present
-265518	aorist
-265521	aorist
-aorist
-265535	aorist
-265537	aorist
-265540	present
-265542	aorist
-aorist
+perfect
+265446	present
+265453	aorist
+265457	present
+265463	imperfect
+perfect
+265468	present
+265473	present
+present
+265480	present
+265483	present
+265487	present
+present
+265493	present
+265495	present
+265505	perfect
+265511	present
+present
+265517	future
+present
+265521	present
+265526	present
+265530	present
+265533	present
+265537	present
+265540	perfect
+265542	present
+265544	present
 265546	aorist
-imperfect
 aorist
 265554	aorist
-265561	aorist
-265568	aorist
+265557	aorist
+265562	aorist
 aorist
-265574	aorist
-aorist
-265584	aorist
-265589	imperfect
-265599	perfect
-265603	aorist
-265613	aorist
-265620	present
-265622	present
-265627	imperfect
-aorist
-265630	aorist
-265637	present
-265646	present
-265654	aorist
-265656	aorist
-265669	present
-265684	aorist
-265690	aorist
-265701	aorist
-imperfect
-265707	aorist
-265713	imperfect
-265715	aorist
-265722	aorist
-265725	imperfect
-265736	present
-265742	aorist
-265746	present
-265748	perfect
-265761	present
-265765	present
+265568	present
+265573	present
+265578	perfect
+265581	present
 present
-265768	aorist
-265777	present
-265780	aorist
-265793	aorist
-265803	aorist
-265816	aorist
-265826	imperfect
-265829	imperfect
-265837	aorist
-265851	present
-265856	present
-265866	aorist
-265885	aorist
-265903	aorist
-265916	aorist
-265918	present
-265920	present
-265930	aorist
-265934	present
-265942	aorist
-265955	present
-265959	aorist
-265964	aorist
-265980	aorist
-265984	imperfect
-265991	present
-265996	imperfect
-266005	present
-266007	present
-266011	imperfect
-266024	present
-266039	present
-266051	imperfect
-266055	imperfect
-266058	present
-266064	present
-266071	present
-266073	present
-266082	imperfect
+265586	present
+265588	present
+265591	present
+265594	present
+265599	perfect
+265601	perfect
+265604	aorist
+265615	aorist
+present
+perfect
+265624	imperfect
+265627	perfect
+265632	aorist
 aorist
+265637	aorist
+265640	perfect
+265646	aorist
+265652	aorist
+265660	present
+265662	present
+265667	aorist
+265670	perfect
+265684	present
+future
+265695	present
+265697	present
+265699	present
+265708	aorist
+265711	present
+265714	present
+265718	present
+265720	imperfect
+265727	perfect
+265735	aorist
+aorist
+265746	present
+265756	present
+265769	present
+265775	present
+265777	present
+265779	present
+265781	aorist
+265785	aorist
+future
+265794	future
+265797	present
+future
+265804	future
+265807	present
+265809	present
+present
+265823	present
+future
+265827	present
+present
+265836	present
+265839	present
+265843	present
+aorist
+265847	aorist
+265855	present
+265864	aorist
+265866	aorist
+265872	present
+265876	present
+265881	present
+265893	present
+present
+265900	aorist
+aorist
+265904	present
+265919	imperfect
+265922	perfect
+265924	perfect
+265928	aorist
+265932	aorist
+265939	aorist
+265941	perfect
+265943	present
+265945	present
+265951	imperfect
+265955	aorist
+265959	present
+265964	present
+265979	present
+265986	present
+265990	perfect
+265993	present
+265997	present
+266002	present
+266004	aorist
+266007	present
+266012	present
+present
+266016	present
+266022	present
+266025	present
+266029	present
+266036	present
+266041	aorist
+266045	present
+266047	present
+266051	present
+266054	present
+266057	present
+266060	aorist
+266064	aorist
+266069	aorist
+266072	perfect
+266074	present
+266080	present
+266084	present
+266088	aorist
 266092	aorist
 present
-present
-aorist
-266108	present
-266111	present
+266099	present
 266114	present
-266122	present
-266124	aorist
-266126	present
-266128	present
+266116	perfect
+266121	present
+present
+266124	perfect
+266130	present
+266132	present
 266137	present
-266144	imperfect
-266146	present
-266149	present
-266153	aorist
-266165	imperfect
+266140	present
+266148	perfect
+266150	present
+266153	present
+present
+266156	present
+present
+266160	aorist
+266163	present
+266166	present
+266171	imperfect
 266176	present
+266179	aorist
+266182	present
+266185	present
+266192	present
+266198	present
 present
-266180	present
-266186	aorist
-266193	pluperfect
-266199	present
-present
-266203	present
-266209	aorist
-266226	present
-266234	present
-266241	present
-present
-266245	present
-266254	aorist
-266264	present
-266274	aorist
+266202	present
+266206	present
+266209	present
+266211	present
+266216	present
+266221	present
+266223	present
+266228	present
+266232	present
+266235	perfect
+266237	present
+266240	aorist
+266243	present
+266247	perfect
+266253	present
+266257	perfect
+266260	present
+266264	perfect
+266266	aorist
+266270	perfect
+266272	aorist
 266276	perfect
-266288	present
-266295	aorist
-266298	aorist
-266311	present
-266316	present
-266318	present
-266320	present
-266333	perfect
-266340	present
-266344	present
-266349	present
+266279	aorist
+266284	present
+266290	present
+266292	perfect
+266295	present
+266303	present
+266306	present
+266327	present
+266333	present
+266336	present
+266341	present
+266345	present
+266350	present
+266353	aorist
+266356	present
+266359	perfect
+266361	present
+266364	present
+266366	aorist
+266369	imperfect
+266374	imperfect
+pluperfect
+266379	aorist
+266382	present
+266388	present
+266392	perfect
+266394	aorist
+266398	perfect
+266402	perfect
+266410	present
+266412	present
+266416	present
+266420	present
+266423	present
+266425	present
+266430	present
+266434	present
 present
-266366	present
-266377	aorist
-266384	present
-266391	present
-266393	aorist
-266398	present
-present
-266410	aorist
-266412	aorist
-266414	aorist
-266419	aorist
-266426	imperfect
-266429	aorist
-future
+266439	present
 266442	aorist
-266452	aorist
-266454	aorist
-266477	aorist
-266483	aorist
-266488	aorist
-266502	perfect
-266517	perfect
-266519	present
-266530	aorist
-266537	present
-imperfect
-266543	imperfect
-imperfect
-266550	imperfect
-266562	imperfect
-266569	aorist
-266583	imperfect
-266590	present
-266594	present
-266599	present
-266603	present
+266445	present
+266448	aorist
+266451	aorist
+266458	future
+266461	present
+266465	aorist
+266471	aorist
+266474	present
+266480	aorist
+266482	present
+266487	present
+266490	present
+266496	present
+266501	present
+266504	present
+266508	aorist
+266510	present
+266515	present
+266519	aorist
 aorist
-266608	aorist
-266636	future
-266638	aorist
-266640	aorist
-266651	present
-266661	imperfect
+266524	aorist
+266530	perfect
+266533	present
 present
-266671	aorist
-266690	present
-imperfect
-266693	imperfect
+266538	present
+266541	perfect
 aorist
-266709	present
-266711	present
-266714	aorist
-266717	present
-266723	future
-266726	aorist
-266731	present
-266741	aorist
-266748	present
-266763	present
-266767	aorist
-266776	aorist
-266783	present
-266790	present
-266795	present
-266799	present
-266804	present
-266808	aorist
-266819	imperfect
-266834	aorist
-266840	present
-266853	future
-266860	present
-present
-266863	aorist
-266870	aorist
-266877	imperfect
-266890	imperfect
-266896	aorist
-266903	aorist
-imperfect
-266917	aorist
-266924	imperfect
-266927	aorist
-266933	aorist
-266937	aorist
-266943	aorist
-266947	present
-266955	aorist
-266957	aorist
-266959	aorist
-266961	aorist
-266963	future
-266970	present
-aorist
-266978	aorist
-266982	aorist
-266984	aorist
-266988	aorist
-266993	aorist
-266997	aorist
-present
-267007	present
-267028	aorist
-267033	present
-267041	imperfect
+266544	perfect
+266549	aorist
+266551	present
+266555	present
+266559	aorist
+266564	present
+266567	aorist
+266569	future
 perfect
-267051	present
-267055	imperfect
-267057	imperfect
-267066	present
-267075	aorist
+266573	aorist
+266576	future
+266578	future
+266581	present
+266584	present
+266588	present
+266593	present
+266595	present
+266599	present
+266602	present
+266605	perfect
+266608	aorist
+266611	aorist
+266616	present
+266619	present
+266621	present
+266623	present
+266625	perfect
+266628	perfect
+266632	present
+266634	present
+266637	present
+266641	present
 present
-267082	aorist
-267088	aorist
-267093	aorist
+266646	present
+266650	present
+266652	aorist
+266657	aorist
+266662	perfect
+266667	present
+266671	present
+266674	present
+present
+266679	perfect
+266682	present
+266692	present
+266695	present
+266700	present
+266705	present
+266708	aorist
+266710	present
+266716	imperfect
+266718	aorist
+266723	aorist
+266729	imperfect
+266736	present
+266739	present
+266743	perfect
+266745	perfect
+266751	present
+266754	present
+present
+266759	present
+266763	present
+266765	perfect
+266769	present
+266773	present
+266775	perfect
+266782	aorist
+266785	present
+266789	aorist
+266792	present
+266797	present
+266801	present
+266803	aorist
+266811	present
+266814	present
+266821	future
+266825	present
+266828	future
+266833	present
+266838	present
+266843	present
+266849	present
+266851	present
+266856	present
+present
+266862	present
+266866	present
+266869	present
+266872	aorist
+266878	present
+266881	aorist
+266885	present
+266889	present
+266895	present
+266897	present
+266903	aorist
+266906	present
+266908	present
+266912	present
+266915	perfect
+266919	present
+266925	present
+266927	perfect
+266930	present
+266935	present
+266940	present
+266943	present
+266947	perfect
+266949	present
+266954	present
+266959	present
+266962	perfect
+266966	present
+266976	present
+266980	present
+266984	present
+266988	present
+present
+266991	present
+266995	present
+266999	present
+267002	present
+267011	present
+267017	present
+267020	present
+267023	perfect
+267025	present
+267028	present
+267030	aorist
+267035	present
+267037	aorist
+267047	perfect
+267052	aorist
+267055	present
+267058	perfect
+267062	aorist
+267065	aorist
+267076	aorist
+267079	present
+267081	present
+267085	perfect
+267087	present
+267091	present
+267098	present
 267101	present
-267104	aorist
-267110	aorist
-267114	aorist
-267118	aorist
+267109	perfect
+267116	perfect
 267121	aorist
-aorist
-267125	perfect
-267136	imperfect
-267138	present
-267144	present
-267149	aorist
-267157	present
-267162	aorist
-267168	aorist
-267173	aorist
-267177	aorist
-267186	aorist
-aorist
+267124	present
+267130	present
+267140	present
+267145	present
+267147	present
+267152	present
+267156	present
+267158	perfect
+267163	present
+267171	present
+267173	present
+267179	present
+267186	present
+267191	present
+267193	present
+267195	perfect
 267199	present
-aorist
-aorist
+267203	aorist
 267207	aorist
-267210	aorist
-267218	aorist
-267222	aorist
+267209	present
+267214	present
+267216	present
+267219	present
+267223	perfect
+267227	perfect
 267229	present
-267233	present
-267238	aorist
-267240	present
-267246	aorist
-267248	aorist
-267260	aorist
-267266	aorist
-267277	imperfect
-267281	imperfect
-imperfect
-267292	aorist
-267299	imperfect
-267305	present
-267307	present
-267320	imperfect
-267322	imperfect
 present
-267332	aorist
-267336	aorist
-267343	present
-267353	aorist
+267234	present
+267236	present
+267238	present
+267243	present
+267246	present
+267250	perfect
+267253	present
+aorist
+present
+perfect
+267259	present
+267261	present
+267267	present
+267271	present
+267274	present
+267280	present
+267286	present
+267289	perfect
+267292	present
+267296	present
+267298	aorist
+267303	present
+present
+267308	present
+267311	present
+267316	present
+aorist
+267331	present
+present
+267335	present
+267339	present
+present
+267350	present
+267355	present
+267360	present
 267363	present
-267367	aorist
-267384	aorist
-267388	imperfect
-267402	present
+267368	perfect
+267372	present
+267377	present
+267381	present
+267384	perfect
+267388	perfect
+267392	perfect
+267399	present
+267402	aorist
+267411	present
 present
-267415	present
+267414	present
+267417	present
+267423	present
+267425	aorist
+267427	perfect
 267430	present
-aorist
+present
 267440	present
-267444	present
-267448	present
-267464	present
-present
-267472	present
-267474	imperfect
-267487	present
-aorist
-267497	aorist
-267502	present
+267443	present
+267447	present
+267451	present
+267455	perfect
+267457	present
+267460	present
+perfect
+267463	present
+267466	perfect
+267470	aorist
+267473	present
+267477	future
+267479	future
+267481	present
+267484	present
+267489	present
+267491	aorist
+267494	present
+267496	present
+267500	perfect
+267503	perfect
 267507	present
-267511	present
-267513	aorist
-267523	imperfect
-267531	aorist
-267533	aorist
-267540	perfect
-aorist
-267551	aorist
-267560	present
-267565	aorist
-267573	imperfect
-267586	perfect
-imperfect
+267509	aorist
+267512	present
+267517	present
+267519	perfect
+267523	present
+267529	present
+perfect
+267536	present
+267538	perfect
+267542	present
+267545	present
+267552	present
+267558	aorist
+267568	present
+267575	perfect
+267579	present
+267583	future
+267586	future
+267597	aorist
+267600	perfect
+267604	present
+267608	aorist
+267613	present
+267618	present
+267622	imperfect
+267625	present
+267629	present
+267631	present
+267637	present
+267639	aorist
+267642	present
+267645	aorist
+267649	present
 present
-267590	present
-267603	aorist
+267653	present
+267657	present
+267660	aorist
+267662	aorist
+267665	aorist
+267667	present
+267670	present
+267677	present
+present
+267686	present
+267689	present
+267695	present
+267697	present
+267701	present
+267704	present
+present
+267708	present
+present
+267715	present
+267717	present
+267719	aorist
+267723	present
 aorist
-267608	imperfect
-267613	aorist
-267620	aorist
-267637	imperfect
-267639	imperfect
-267642	aorist
-267644	aorist
-267653	aorist
-267659	present
-267663	aorist
-267668	aorist
-267671	present
-267676	aorist
-aorist
-267687	present
-267693	aorist
-267700	aorist
-267726	present
-267732	imperfect
-267742	aorist
-267753	aorist
+267729	aorist
+267734	present
+267747	present
+267751	present
 267755	present
-267769	present
-267771	present
-267773	present
-267792	aorist
+267758	aorist
+267761	present
+267764	present
+267770	present
+267774	present
+present
+267780	present
+267783	present
+267785	aorist
+267791	aorist
+267797	future
 aorist
-267797	present
-267800	present
+267804	aorist
 267806	present
 267811	present
-267819	aorist
-267836	aorist
 present
+267816	present
+267818	aorist
+267822	present
+267825	present
+267829	aorist
+future
+267834	present
+267836	present
 267840	present
-267856	present
-aorist
-267860	aorist
-267863	imperfect
+267844	present
+267847	present
 present
-267872	aorist
-267879	aorist
-267887	aorist
-267897	present
-aorist
-267905	imperfect
-267918	present
-267921	aorist
-267925	imperfect
-267927	aorist
-267940	imperfect
-267942	imperfect
-267947	perfect
-267953	pluperfect
-267957	pluperfect
-267964	aorist
-267966	aorist
-267975	aorist
-267979	imperfect
+267852	present
+267854	present
+267858	present
+267861	present
 present
-267984	aorist
-267988	present
-267991	aorist
-268003	present
-268010	aorist
-268018	present
+267864	perfect
+267867	perfect
+267875	present
+267877	perfect
+267882	present
+267884	imperfect
+aorist
+267889	present
+267893	present
+present
+267898	aorist
+267902	future
+267905	present
+267908	present
+267917	perfect
+267919	perfect
+267923	aorist
+267926	present
+present
+267934	aorist
+aorist
+267937	present
+present
+267942	aorist
+267944	aorist
+267948	perfect
+267956	present
+267963	present
+aorist
+267967	present
+perfect
+267976	aorist
+267979	aorist
+aorist
+267983	aorist
+267987	aorist
+267995	perfect
+268005	aorist
+268007	aorist
+268010	present
+268014	present
+268019	present
+268022	present
 268025	present
-268029	present
-268037	present
-268049	present
-268052	present
-present
-268055	perfect
-present
-268061	present
+268028	present
+268034	present
+imperfect
+268039	aorist
+268041	aorist
+268043	aorist
 aorist
-268072	present
-268090	present
-268096	present
-268099	present
+268052	perfect
 present
+268060	present
+268062	present
+268069	aorist
+268075	aorist
+268080	aorist
+268082	present
+268088	present
+268091	present
+268095	present
+268101	aorist
+aorist
 268106	present
-268114	future
-268117	present
-present
-268128	present
-268133	future
+268114	perfect
 aorist
-268145	aorist
-aorist
-268154	aorist
-268158	aorist
-268166	aorist
+268120	present
 aorist
 aorist
+268127	aorist
+268131	aorist
+268140	aorist
+268146	aorist
+268150	present
+268156	present
+268160	present
+268162	present
+268168	aorist
+268170	perfect
+268177	imperfect
+268182	future
+268188	present
+268191	present
 present
-268173	aorist
-268181	aorist
-268186	aorist
-268192	aorist
-268197	aorist
-268205	present
+268195	present
+268199	present
+268206	present
+268210	aorist
 present
-268212	aorist
-268215	present
-268219	imperfect
-268246	aorist
-imperfect
-268254	aorist
-268268	aorist
-268283	aorist
-268297	perfect
-268299	aorist
-268304	imperfect
-268306	present
+268221	present
 present
-268311	imperfect
-268319	imperfect
-268331	imperfect
-perfect
 present
-268346	present
-268350	present
+268225	present
+268228	present
+268230	present
+268236	perfect
+268239	present
+aorist
+268244	aorist
+268267	aorist
+268270	aorist
+268274	present
+aorist
+268278	aorist
+aorist
+268286	aorist
+268294	aorist
+268296	present
+268298	present
+268303	present
+268305	perfect
+268318	present
+268320	imperfect
+268322	present
+268345	present
+268348	aorist
 268357	aorist
-268363	aorist
-268371	aorist
-268373	aorist
-268378	aorist
-268381	aorist
-aorist
-268384	present
+268372	aorist
+present
+268377	future
+268383	aorist
+268385	future
 268394	present
-aorist
-268398	aorist
-268403	aorist
-268408	aorist
-268413	aorist
-aorist
+268398	present
+268400	present
+268402	imperfect
+268404	present
+268416	aorist
 268419	present
-268421	aorist
-268427	aorist
-268433	aorist
-268440	present
-present
-268448	perfect
-imperfect
-present
-268452	present
-268455	imperfect
-268462	aorist
-268464	aorist
-268469	aorist
-268471	present
+268428	aorist
+268434	aorist
+268439	present
+268441	present
 aorist
-268480	aorist
-268486	present
-aorist
-268491	pluperfect
-268496	aorist
-268502	aorist
-268504	aorist
-268510	imperfect
-268514	present
-268523	aorist
-268533	aorist
-268537	aorist
-268547	aorist
-268551	aorist
-268554	present
-268563	aorist
-268578	aorist
+268445	aorist
+268463	aorist
 present
-268593	aorist
-268607	aorist
-268609	present
-268612	aorist
-268615	aorist
-268622	present
-268647	aorist
-perfect
-268653	present
-268661	future
-268664	perfect
-268677	present
-268679	present
-268685	present
-268690	present
+268467	imperfect
+268470	aorist
+aorist
+268481	perfect
+268484	perfect
+268512	perfect
+268520	present
+268532	present
+268538	present
+268544	aorist
+268546	aorist
+268553	aorist
+268557	present
+268559	present
+268561	present
+268566	present
+268568	aorist
+268571	aorist
+268578	present
+268584	aorist
+268587	aorist
+268590	present
+268593	present
+aorist
+268601	aorist
+268615	present
+268621	present
+268627	aorist
+268629	present
+present
+268636	present
+268643	perfect
+268654	present
+aorist
+268658	aorist
+present
+268664	present
+268666	aorist
+268671	present
+268673	aorist
+268679	perfect
+268681	present
+268688	aorist
+present
+268692	perfect
+268694	aorist
 268698	aorist
-268709	aorist
-268716	aorist
-268730	aorist
-268732	perfect
-268735	future
-268747	aorist
+268702	present
+268705	future
+268713	aorist
+268716	present
 present
+268723	present
+present
+268726	aorist
+268729	present
+268731	present
+future
+268734	aorist
+268740	present
+268751	aorist
 268753	present
-268764	present
-268774	aorist
-268777	aorist
-268788	present
-268807	aorist
+268758	aorist
+268761	aorist
+perfect
+268769	present
+268774	present
+268776	present
+268779	present
+268784	present
+268786	present
+present
+aorist
+present
+present
+268795	aorist
+268797	future
+268800	present
+268804	future
 268809	present
+268811	aorist
+268814	present
+268816	present
 268818	aorist
-268829	perfect
-268831	future
+268829	aorist
+268831	present
+present
+268838	perfect
+268840	present
 268846	present
-268856	future
-268858	present
-perfect
-268861	present
+268851	aorist
+268863	aorist
+268867	present
 268869	present
-present
-268877	aorist
-268881	present
-268889	present
-268905	present
-aorist
-268908	aorist
-268916	perfect
-268925	aorist
-268927	present
-268936	present
-268940	aorist
-268947	aorist
-268951	present
-present
-present
-268955	present
-present
-268968	aorist
-268970	present
-268972	present
-268974	present
-268977	aorist
-aorist
-268989	aorist
-268994	aorist
+268873	present
+268875	present
+268879	imperfect
+268881	aorist
+268886	aorist
+268889	aorist
+268891	present
+268893	present
+268898	aorist
+268903	present
+268907	future
+268914	present
+268916	aorist
+268919	present
+268921	present
+future
+268925	perfect
+268927	future
+268935	perfect
+268938	perfect
+268941	present
+268948	aorist
+268950	present
+268954	present
+268965	perfect
+268985	present
+268988	present
+268990	present
 268997	aorist
-269007	imperfect
+268999	aorist
+269002	aorist
+269006	aorist
 269009	present
-269017	pluperfect
-269020	present
-269026	present
-imperfect
-269037	aorist
 aorist
-269040	aorist
-269044	aorist
-aorist
-269065	aorist
+269014	aorist
+present
+269019	present
+269025	future
+269032	future
+269035	future
+269040	present
+present
+269044	future
+269050	present
+269056	present
+269061	aorist
+269066	present
 269068	present
-269072	aorist
+269073	present
 aorist
-aorist
-269080	aorist
-269083	imperfect
-269088	aorist
-269098	imperfect
+269077	aorist
+269079	present
+269081	present
+269085	future
+269091	future
+269099	present
+269101	perfect
+269106	future
+269111	present
+269113	aorist
+269116	present
+269124	aorist
+269126	present
 present
-269103	aorist
-269108	aorist
-269117	imperfect
-269124	present
-269130	aorist
-aorist
-269136	aorist
-imperfect
+269135	perfect
+269139	present
 present
-269154	aorist
-269163	aorist
+269143	present
+269146	aorist
+269149	imperfect
 aorist
-269167	aorist
-269175	aorist
+269153	perfect
+269155	perfect
+269159	present
+269164	present
+269166	aorist
+269170	aorist
+future
+269176	aorist
+269178	future
+269181	present
 269186	aorist
-269190	aorist
-269195	aorist
-269199	aorist
-269210	aorist
-aorist
-269216	aorist
-269228	present
+269190	future
+269195	present
+present
+269198	future
+269203	future
+269211	future
+269221	present
+269223	aorist
+269226	present
 269234	aorist
-269240	imperfect
-269245	present
-present
-269251	aorist
-269264	aorist
-269269	aorist
-269277	aorist
-269287	aorist
-269289	present
-269301	present
-269308	future
-269316	future
-269324	aorist
-269326	imperfect
-269335	present
-269341	aorist
-269346	present
-present
-269349	present
-269359	aorist
-269362	aorist
-269367	present
-269379	present
-269382	aorist
+269236	present
+269239	present
+269242	present
+269245	future
+269247	present
+269250	present
+perfect
+269254	aorist
+perfect
+269258	perfect
+269260	present
 aorist
-269391	present
-269400	aorist
+269264	present
+269266	aorist
+269271	aorist
+269274	aorist
+present
+269280	present
+269283	present
+269285	present
+269287	present
+aorist
+future
+269292	future
+269294	future
+269299	aorist
+269302	aorist
+269305	aorist
+269312	future
+269317	present
+present
+269322	aorist
+present
+269326	present
+269328	present
+269330	present
+269333	aorist
+269336	present
+future
+269348	aorist
+269351	future
+269366	present
+269377	present
+269379	aorist
+269382	present
+269390	aorist
+269392	present
+269403	perfect
+269407	present
+269409	aorist
 imperfect
-269405	aorist
+269415	present
 269419	present
-269423	aorist
-269431	aorist
-269438	aorist
-269445	present
-imperfect
-269459	aorist
-269464	aorist
-269466	imperfect
-269473	aorist
-269491	aorist
-imperfect
-269496	aorist
-269499	present
-269505	present
-269512	perfect
-269520	present
+269421	aorist
+269426	present
+269429	present
+269431	perfect
+269434	present
+269437	perfect
+269440	present
+269446	present
+269448	aorist
+269451	perfect
+269454	aorist
+269458	aorist
+269461	aorist
+269468	aorist
+269472	present
+269475	present
+269477	present
+269480	aorist
 aorist
-269529	present
-269544	present
-269546	present
-269555	present
-269558	present
-269560	future
-269562	perfect
-269565	aorist
-269568	present
-present
-269576	present
-269581	aorist
+perfect
+269486	present
+269489	aorist
+269493	aorist
+269495	future
+269498	future
+269503	present
+future
+269506	aorist
+269513	aorist
+269515	aorist
+269522	present
+269524	aorist
+269527	present
+269530	aorist
+269532	aorist
+269534	perfect
+269542	aorist
+269545	present
+269547	present
 aorist
-269587	aorist
-269592	future
-269597	future
-269601	perfect
-269606	present
-269608	present
-269612	present
-269622	perfect
-269625	aorist
+269551	future
+269554	present
 aorist
-present
-269643	aorist
-269650	present
-269655	aorist
-imperfect
-269662	present
-269677	aorist
-269690	imperfect
+269558	aorist
+269561	aorist
+269563	imperfect
+269569	present
+269571	present
+269592	present
+perfect
+269604	present
+269610	present
+269614	present
+269637	present
+269654	present
+269664	present
+269671	present
+269675	present
+269680	present
+269682	present
+269685	imperfect
+269687	present
+269689	present
+269692	future
 269696	present
-269706	aorist
-269713	imperfect
-269720	aorist
+269699	present
+269704	future
+269709	present
+269713	future
+present
+269720	future
+269725	present
 269727	present
-269730	present
-269732	present
-269754	present
-269760	aorist
-269767	perfect
-269776	imperfect
-269778	perfect
+269732	aorist
+269740	aorist
+269748	aorist
+269752	present
+269757	perfect
+269759	perfect
+269762	aorist
+269764	present
+269769	aorist
+269772	aorist
+269777	imperfect
+269786	aorist
+269789	present
 269792	imperfect
-269799	aorist
-269803	aorist
-269811	aorist
-269818	aorist
-269822	imperfect
-269831	aorist
-269835	present
-269838	aorist
+269796	aorist
 aorist
-269851	present
-269855	aorist
-269859	aorist
-269865	aorist
-269873	aorist
-present
-269879	aorist
-269883	aorist
-269886	aorist
+269800	present
+269806	present
+269809	present
 aorist
-269892	imperfect
-269894	present
-269898	present
-perfect
-269905	imperfect
-269912	present
-269915	aorist
-269924	aorist
+aorist
+269819	aorist
+269826	aorist
+269838	perfect
+269840	perfect
 present
-269934	aorist
-269940	aorist
+269846	present
+269852	perfect
+269857	aorist
+269859	perfect
+269863	present
+269868	aorist
+269876	aorist
+269879	present
+269884	present
+269886	present
+269891	present
+269893	present
+269895	present
+aorist
+269899	aorist
+269903	aorist
+269905	aorist
+269916	aorist
+269922	future
+269926	aorist
+269928	aorist
+269938	imperfect
+269944	present
+269947	present
+269949	perfect
+aorist
+269972	present
+269977	aorist
 present
-269957	imperfect
-269966	present
 present
-269969	present
-269971	present
-269980	present
-269985	present
-269987	aorist
-269994	imperfect
-269996	present
-270000	present
-270012	aorist
-270014	aorist
-270029	aorist
-270037	present
-270051	present
-270054	aorist
-270056	aorist
-270062	aorist
-270068	perfect
+269998	imperfect
+270002	aorist
+270004	aorist
+270006	aorist
+270008	aorist
+270015	aorist
+270020	present
+270024	present
+270026	aorist
+270028	aorist
+270031	present
+270033	present
+270036	aorist
+270040	aorist
+present
+270044	aorist
+270047	aorist
+270051	aorist
+270054	present
+present
+270057	aorist
+270061	present
+270063	aorist
+270065	aorist
+270072	future
 270074	aorist
-270085	aorist
-aorist
-270091	present
-270096	aorist
-270108	aorist
-270115	imperfect
-270118	aorist
-270121	present
-270123	present
-270127	perfect
-270135	perfect
-270151	perfect
-270163	present
-270171	present
-270179	aorist
-270183	present
-270185	present
-270199	present
-270213	aorist
-270222	imperfect
-future
-270228	present
-perfect
-270234	aorist
-aorist
-270238	present
-270240	present
-270253	aorist
-270260	aorist
-270268	aorist
-270270	present
-270276	present
-270279	aorist
-270281	present
-270283	aorist
-270289	present
-270296	present
-270302	present
-270307	aorist
-270314	aorist
-270316	present
-270318	aorist
-270321	aorist
-270327	aorist
-270331	aorist
+270079	aorist
+270083	aorist
+270086	present
 present
-270338	future
-270344	perfect
-270346	aorist
-270350	imperfect
-270362	present
+270089	aorist
+270091	aorist
+270094	present
+270096	present
+270102	aorist
+270109	present
+270121	aorist
+270124	aorist
+270128	aorist
+270132	present
+present
+270135	aorist
+270137	aorist
+270140	present
+270147	imperfect
+270150	aorist
+270157	aorist
+270170	aorist
+270173	aorist
+270178	perfect
+270187	imperfect
+270189	aorist
+270191	present
+270198	present
+270200	present
+270204	present
+270208	aorist
+270212	aorist
+270215	aorist
+270219	aorist
+270226	present
+present
+270231	aorist
+270233	aorist
+270239	aorist
+270242	aorist
+270250	aorist
+270257	aorist
+270262	present
+270267	present
+270270	aorist
+270273	present
+270280	aorist
+270296	aorist
+270306	present
+270310	aorist
+270313	aorist
+270317	present
+270326	aorist
+270335	present
+aorist
+270338	aorist
+270340	perfect
+270346	present
+270353	present
+270364	aorist
 270366	present
-270368	aorist
-270386	present
-270394	present
-270396	aorist
+270369	present
+270372	present
+270374	aorist
+270378	aorist
+aorist
+270383	present
+270385	aorist
+270392	aorist
 270401	aorist
-aorist
-270406	aorist
-270413	aorist
-270419	aorist
-270429	aorist
-270431	aorist
-270438	aorist
-270443	aorist
-270454	future
+270404	perfect
+270407	perfect
+270415	perfect
+270449	perfect
+270451	aorist
+270453	aorist
+270456	aorist
+270458	imperfect
 270464	perfect
-270466	aorist
-270470	present
-aorist
-aorist
-270474	aorist
-270480	aorist
-270486	aorist
-270489	aorist
-270494	present
+270470	perfect
+270478	present
+270480	present
+270484	present
+270492	pluperfect
 270501	aorist
-270507	aorist
-270509	present
-270511	aorist
-270513	aorist
-270522	future
-270531	aorist
-270534	present
-270538	imperfect
+270508	aorist
+270510	present
+270533	aorist
+270537	present
+270539	perfect
+270544	present
+270547	aorist
+270549	perfect
+270553	perfect
+270555	aorist
+270558	present
 present
-270541	present
-270548	present
-270554	imperfect
-270569	imperfect
-perfect
-270572	present
-270574	present
-270580	present
-270583	aorist
-270587	present
-270594	future
-270596	imperfect
-270607	aorist
-270613	present
-present
-270625	imperfect
-270627	present
-present
-270632	present
-270638	present
-270644	aorist
-270648	present
+270565	aorist
+270569	aorist
+270576	present
+270582	present
+270589	present
+270592	future
+270595	future
+270598	future
+270602	aorist
+270613	future
+270616	future
+270622	future
+270630	aorist
+270634	aorist
+270640	aorist
+270646	perfect
+270648	aorist
+270653	aorist
 270655	aorist
-270657	present
-270660	aorist
-270667	imperfect
-270671	aorist
-270676	aorist
-270682	perfect
-270693	present
-270695	present
+270658	present
+270661	aorist
+270665	future
+270678	aorist
+270691	perfect
+270695	aorist
+270702	aorist
+270706	aorist
+270713	present
+270716	aorist
+270719	aorist
+270722	aorist
+270724	aorist
+270726	perfect
+270729	aorist
+270736	aorist
+270741	aorist
+270745	aorist
+270749	aorist
+270756	present
 aorist
-270701	aorist
-270705	aorist
+270761	aorist
+270767	aorist
+270774	present
+270780	aorist
+270784	aorist
+270786	aorist
+270790	present
+270794	aorist
+270808	present
+270811	aorist
+270819	aorist
+270823	aorist
+270827	aorist
+270829	aorist
+270842	aorist
+270848	aorist
+270855	aorist
+270857	aorist
+270859	present
+270861	present
+270863	present
+270874	present
 present
-270708	present
-present
-270717	present
+270879	aorist
+270881	aorist
+270885	perfect
+270889	aorist
+270897	aorist
+270902	aorist
+270910	aorist
+270921	aorist
+270926	aorist
+270930	present
+270936	aorist
+270940	future
+270953	present
+270960	aorist
+270963	aorist
+270967	future
+270976	aorist
+270982	future
+270987	future
+270990	future
 aorist
-270723	aorist
-270725	present
-270729	present
-270732	imperfect
-270734	aorist
-270748	aorist
-270753	imperfect
-270757	perfect
-270760	aorist
-270765	present
-270767	present
-270774	aorist
-aorist
-270778	present
-270783	imperfect
-perfect
-270789	present
-aorist
-270796	present
-270802	aorist
-270805	aorist
-aorist
-270817	aorist
-270821	aorist
-270825	aorist
-270833	aorist
-270842	perfect
-270858	aorist
-270860	perfect
-270862	present
-270875	aorist
-present
-270878	present
-270884	perfect
-270888	present
-present
-270897	present
-present
-270900	present
-270903	perfect
-aorist
-270912	present
-imperfect
-270919	pluperfect
-270922	present
-270924	perfect
-270935	future
-270937	aorist
-270948	present
-270955	imperfect
-270965	present
-270976	present
-270980	present
-aorist
-270990	aorist
-270996	present
-270998	present
-271006	present
-271010	aorist
-271016	aorist
-271030	imperfect
-present
-271035	present
-271046	aorist
-271053	present
-271055	aorist
+270993	present
+271002	perfect
+271019	imperfect
+271029	imperfect
+271031	imperfect
+271047	present
+271050	present
 271060	aorist
-271067	aorist
-271071	aorist
+271063	present
+271075	present
+271080	aorist
 aorist
-271079	present
-271090	present
-271092	aorist
-271097	aorist
 present
-271101	aorist
-271112	present
-271118	aorist
-aorist
-271122	aorist
+271089	aorist
+271091	aorist
+271103	present
+271106	present
+271108	aorist
+271111	perfect
+271117	aorist
+271120	perfect
 271127	aorist
-271129	present
-271131	aorist
-271133	aorist
-271137	aorist
-271141	imperfect
-271152	aorist
-271154	aorist
-271162	aorist
-271164	aorist
-271167	aorist
-271171	present
-271178	aorist
-271188	aorist
-271194	present
-present
-271207	aorist
-271210	present
-271212	aorist
+271138	aorist
+271143	aorist
+271148	present
+271150	present
+271165	present
+271172	aorist
+271182	present
+271193	present
+271203	present
+271207	present
 271214	aorist
-271228	aorist
-271230	aorist
-271236	aorist
-271240	aorist
-271250	imperfect
-271256	present
-271262	present
-271264	aorist
-271270	aorist
-271272	aorist
-271279	present
-271284	aorist
-271286	aorist
-271292	aorist
-271296	present
+271219	aorist
+271227	future
+271243	present
+271248	aorist
+271265	aorist
+271268	present
+271271	perfect
+271291	present
+271296	perfect
 271298	aorist
-271300	aorist
-271311	aorist
-271315	imperfect
-271317	present
-271319	present
+271310	aorist
+271314	present
+271317	aorist
 aorist
-271322	aorist
-271328	aorist
-271330	aorist
-271337	aorist
-271344	present
-271347	present
-271354	aorist
-271356	present
-271369	aorist
-271372	aorist
-271374	aorist
-271378	aorist
-271382	present
-271384	present
-271397	aorist
+271325	aorist
+271328	imperfect
+present
+271331	aorist
+271335	present
+aorist
+271338	aorist
+271344	aorist
+271348	aorist
+perfect
+271355	aorist
+271363	aorist
+271365	present
+271371	aorist
+271389	future
+271398	present
+present
 271401	aorist
-271403	aorist
 271406	aorist
-271411	aorist
-271419	aorist
+271413	aorist
+271417	present
+271420	present
+present
 aorist
-271425	aorist
-271448	aorist
-271450	aorist
-271454	aorist
-271461	aorist
-271464	present
-271478	present
-271484	aorist
+271424	perfect
+271429	perfect
+271436	aorist
+271439	present
+271441	aorist
+271445	present
+271447	aorist
+271449	aorist
+271452	future
+271459	future
+271464	aorist
+271471	aorist
+271474	imperfect
+271483	aorist
+271485	aorist
+271489	present
 271491	present
+271494	aorist
+271501	aorist
+271505	present
 present
-271496	aorist
-271502	aorist
-aorist
-271506	present
-present
-271509	aorist
-271516	imperfect
-271518	aorist
+271508	aorist
+271515	present
+271522	aorist
 271527	aorist
-present
-271547	present
-271549	aorist
-271558	future
-271560	aorist
-271564	aorist
-271570	present
-271585	perfect
+271529	aorist
+271535	future
+271538	future
+271543	future
+271545	perfect
+271548	present
+271558	perfect
+271563	present
+aorist
+271566	present
+271571	present
+271577	aorist
+271579	aorist
+271581	present
+271583	aorist
+271585	present
 271587	aorist
-271591	aorist
-271604	aorist
-271608	present
-271612	aorist
-271619	aorist
-271626	aorist
-271633	aorist
-271640	aorist
-271643	aorist
+271592	present
+271599	present
+271602	present
+271606	aorist
+271611	aorist
+271614	aorist
+271618	present
+271621	future
+271625	future
+271628	future
+271640	present
+271647	aorist
 271649	present
-271651	aorist
-271656	future
-271658	imperfect
-271667	aorist
+271663	present
 aorist
-271678	present
-271686	aorist
-271702	aorist
-271711	aorist
+271667	present
+271670	present
+271673	present
+271676	future
+271682	aorist
+present
+271694	aorist
+271697	aorist
+271703	aorist
+271705	present
+271708	aorist
+271712	present
 271714	aorist
-present
-271719	present
-271723	present
-271729	present
-271746	present
+271717	aorist
+271723	aorist
+271731	aorist
+271737	aorist
+271739	aorist
+271747	aorist
+271749	aorist
+271757	aorist
+aorist
 271762	present
+271767	aorist
+271769	aorist
+271773	present
+aorist
+271784	future
+271795	present
+271799	aorist
+271804	aorist
+271806	present
 present
-aorist
-271773	aorist
-271782	present
-271811	aorist
-aorist
-271815	aorist
-271819	future
+271811	present
+271813	imperfect
+271815	perfect
 271821	aorist
-271827	aorist
-271830	present
-271832	aorist
-271839	present
-271842	present
+271824	aorist
+271826	aorist
+271833	aorist
+271835	aorist
+271843	present
+271850	aorist
+present
+271854	aorist
+271862	aorist
+271871	aorist
+271879	aorist
+271883	perfect
+271898	present
+271900	present
+present
+271903	present
 aorist
-271848	aorist
-271853	present
-271859	present
-271867	present
-271874	present
-present
-271877	aorist
-271881	present
-271889	aorist
-future
-271901	aorist
-271906	present
-271910	present
-271925	aorist
-present
-271932	present
-271934	present
-271945	present
-271948	present
+271906	aorist
+271911	aorist
+271914	present
+271926	present
+271933	aorist
+271939	perfect
+271942	present
+aorist
+271946	aorist
+271949	aorist
+271951	aorist
 271954	present
-271971	perfect
-271974	present
-271986	present
-271989	present
-future
-272001	present
-272005	present
-272025	future
-272033	aorist
-272039	aorist
-272041	perfect
-272066	imperfect
-272070	present
-272072	present
-272075	present
-272083	aorist
-272086	aorist
-272088	aorist
-272103	aorist
-272107	perfect
-272115	present
-272120	aorist
-272127	perfect
-272135	aorist
-272141	aorist
-future
-272148	aorist
-272152	present
-272154	present
-272160	present
-272166	present
+present
+271961	aorist
+271972	aorist
+271976	present
+271979	perfect
+271984	present
+271988	aorist
+271996	aorist
+272001	aorist
+272007	aorist
+272010	aorist
+272015	aorist
+272022	present
+272025	present
+272028	aorist
+272035	aorist
+272037	aorist
+272041	present
+272043	aorist
+272058	aorist
+272063	present
+272071	aorist
+272085	aorist
+272090	present
+272093	present
+272099	aorist
+272102	present
+272104	perfect
+272107	present
+272110	aorist
+272113	aorist
+272116	aorist
+272119	aorist
+272122	aorist
+272131	present
+272138	present
+272147	aorist
+272160	aorist
+272162	aorist
+272166	aorist
+272171	aorist
 272174	aorist
-272187	present
-272189	aorist
-272194	aorist
-272206	present
-272219	present
-272221	aorist
-272225	aorist
-272228	present
+272180	aorist
+272185	aorist
+aorist
+272193	present
+272198	present
+272202	aorist
+272208	aorist
+272212	present
 present
-272232	aorist
-future
-272237	present
-272240	future
-272251	present
+272230	aorist
 imperfect
-272256	aorist
+272246	aorist
+272262	perfect
+272269	aorist
+272271	aorist
+272277	aorist
+272280	aorist
+272284	aorist
+272286	present
+272292	present
 aorist
-272264	present
-272267	aorist
-272274	aorist
-272278	perfect
-272281	aorist
-272290	aorist
-272297	aorist
-272317	imperfect
-272319	present
+272296	aorist
+272299	present
+272302	aorist
+272305	aorist
+272308	aorist
+272315	aorist
+272323	present
 272325	aorist
-272331	present
-aorist
-272344	aorist
-present
-272354	present
-272358	present
+272327	aorist
+272332	aorist
+272335	aorist
+272344	future
+272347	present
+272352	perfect
+272361	perfect
 272366	present
 272368	aorist
-272371	present
-272378	present
-272380	aorist
-272394	aorist
-272401	aorist
-272407	aorist
-272411	aorist
-aorist
-272415	aorist
-272423	perfect
-272430	present
-272433	imperfect
-aorist
-272438	present
-272461	aorist
-272466	present
-272471	aorist
-aorist
-272476	aorist
+272373	present
+272377	future
 present
-272481	aorist
-272486	aorist
-272490	aorist
-272496	perfect
-272504	present
-272507	present
+272381	aorist
+272383	present
+272390	aorist
+272392	present
+272396	imperfect
+272400	imperfect
+272409	present
+272412	present
+272416	present
+272418	future
+272423	aorist
+272429	present
+272434	present
+272437	present
+272443	present
 present
-272511	perfect
-272517	present
-272521	present
-272527	perfect
-272530	present
-272532	aorist
-272536	present
-272539	present
-272543	present
-272545	aorist
-272547	present
-272552	aorist
-272558	aorist
-272560	perfect
-272564	future
-272568	aorist
-272576	aorist
+272450	aorist
+272452	aorist
+272455	present
+present
+272459	aorist
+272463	present
+272468	aorist
+272470	aorist
+272472	aorist
+272479	aorist
+272484	aorist
+272488	aorist
+272492	aorist
+272494	present
+272507	aorist
+272523	present
+aorist
+272526	aorist
+272529	present
+272541	present
+present
+272544	aorist
+272550	present
+272555	aorist
+272557	aorist
+272559	perfect
+272567	present
+272575	perfect
 272580	aorist
-272589	imperfect
-272597	aorist
-272605	present
-272609	present
-272611	perfect
-272619	aorist
-272624	aorist
-272636	present
-272644	aorist
-272647	present
-272650	present
-272657	present
+272594	aorist
+272598	present
+272603	present
+272615	imperfect
+aorist
+272622	perfect
+272626	present
+272630	aorist
+272633	present
+272635	present
+272638	present
+272640	aorist
+272652	aorist
+272655	present
+272657	aorist
+272659	present
 272661	present
-272669	aorist
-272675	aorist
-272681	aorist
-272685	aorist
-272691	aorist
+272663	aorist
+272665	present
+272674	present
+272677	aorist
+272680	aorist
+272684	aorist
+272690	aorist
 aorist
-272699	aorist
-272707	imperfect
-272710	imperfect
-272723	imperfect
-272734	perfect
-272736	imperfect
-272740	present
+272700	aorist
 present
-272751	imperfect
-272753	present
-present
-272759	present
-272767	aorist
 aorist
-272779	aorist
+aorist
+272714	perfect
+272719	aorist
+272721	present
+272726	present
+272732	present
+272742	future
+272749	perfect
+272757	future
+272772	present
+272775	present
+272778	present
+272786	present
+272795	present
 present
-272785	aorist
-272797	imperfect
 272804	aorist
-272806	present
-future
-272813	aorist
-272827	aorist
-272849	aorist
-272853	aorist
-272858	present
-272870	present
-272873	present
-272887	aorist
-272895	present
-272897	present
-272899	present
-272903	aorist
-272910	perfect
-272915	aorist
-272919	aorist
-present
-272927	aorist
-272932	present
-272934	aorist
-272951	aorist
+272808	present
 aorist
-272954	aorist
-272958	present
+272813	present
+272816	present
+272819	future
+272826	present
+272829	aorist
+272831	aorist
+272836	present
+272839	present
+272851	aorist
+272854	present
+272857	present
+272860	aorist
+272864	aorist
+272866	aorist
+272868	aorist
+272870	aorist
+272875	aorist
 present
-272971	aorist
-272979	imperfect
-present
-272985	present
-272990	aorist
-272994	imperfect
-273000	present
-273006	perfect
-273012	present
+272884	aorist
+272888	aorist
+272894	present
+272899	aorist
+272902	present
+272907	aorist
+272909	present
+272913	present
+aorist
+272920	aorist
+272927	aorist
+272931	aorist
+272938	aorist
+272943	aorist
+272953	aorist
+272958	aorist
+272970	aorist
+272978	present
+272984	aorist
+272989	aorist
+272993	perfect
+272996	present
+273009	perfect
 273014	present
 273018	present
-273033	present
-273035	aorist
-273052	aorist
-273064	perfect
-273068	present
-273072	present
-present
-273088	aorist
-273107	aorist
-273113	perfect
-present
-273129	present
-present
+273028	present
+273042	aorist
+273045	future
+273054	future
+273056	future
+273061	aorist
+273064	aorist
+273066	aorist
+273076	aorist
+273079	present
+273084	perfect
+273088	perfect
+273097	aorist
+273103	present
+273107	present
+273113	aorist
+273126	imperfect
 aorist
-273137	present
-273144	present
-273153	present
+273131	aorist
+273138	aorist
+273142	present
+273145	present
+273147	present
 273157	aorist
-273169	present
-273173	aorist
-273176	aorist
-273191	aorist
-273201	aorist
+273160	aorist
+273166	aorist
+273171	present
+273176	present
+273181	aorist
+273187	aorist
+273194	aorist
+273200	aorist
+273210	aorist
+273213	aorist
+273217	present
+273219	present
 present
-273205	aorist
-273216	present
-273218	imperfect
-present
-273222	present
-273224	imperfect
-273239	present
-273263	aorist
-273275	aorist
-273283	present
-273287	aorist
-273294	aorist
-273296	present
-273308	present
-273314	present
-273317	aorist
-273319	present
-273325	aorist
-273327	present
-273331	present
+273222	imperfect
+273226	aorist
+273230	aorist
+273234	perfect
+aorist
+273237	present
+273239	aorist
+273241	present
+273250	aorist
+273256	aorist
+273258	aorist
+273262	aorist
+273266	aorist
+273270	present
+273277	aorist
+aorist
+273283	aorist
+273291	aorist
+273294	perfect
+273296	imperfect
+273302	aorist
+273315	aorist
+273321	aorist
+273329	aorist
 273333	aorist
-273335	aorist
-273347	aorist
-273349	aorist
-273357	aorist
-273361	future
-273363	present
-273380	present
-273382	aorist
-273387	aorist
-273409	aorist
-273420	perfect
-273431	aorist
-273463	imperfect
+273341	aorist
+273361	present
+273365	present
+273368	present
+273374	aorist
+273385	aorist
 present
-273466	present
-273479	present
-273485	aorist
-273491	imperfect
-aorist
-273496	aorist
-273511	perfect
-present
-273520	present
-273526	aorist
-present
-present
-273544	present
-present
-273557	present
-273566	present
-present
-273578	present
-273584	present
-present
-273595	present
-present
-273608	present
-present
-present
-273615	present
-273620	present
-273624	perfect
-273626	present
-273632	perfect
-273634	present
-273648	present
-273650	aorist
-273655	aorist
-273678	present
-273681	aorist
-273687	present
-273695	aorist
-273710	present
-273713	aorist
-imperfect
-273718	present
-273727	present
-273738	imperfect
+273390	present
+273392	present
+273398	present
+273400	present
+273404	aorist
+273408	present
+273413	aorist
+273419	aorist
+273425	present
 perfect
-imperfect
-273748	pluperfect
-273752	aorist
-273754	present
-273761	imperfect
-273780	aorist
-273786	present
+273428	aorist
+273433	aorist
+273436	aorist
+273440	aorist
+273447	aorist
+273457	aorist
+273461	aorist
+273464	aorist
+273476	aorist
+273480	aorist
+273485	present
+273491	aorist
+273500	present
+273505	aorist
+273510	present
+273514	aorist
+273516	present
 present
-273799	aorist
-present
-273812	aorist
-273824	aorist
-aorist
-273831	aorist
-273833	aorist
-273835	aorist
-aorist
-273846	present
-273861	aorist
-aorist
-273871	aorist
-273879	present
-273885	aorist
-273896	present
-273899	aorist
-273906	present
-273911	aorist
-273920	present
-273922	aorist
-273929	present
-273936	imperfect
-273943	aorist
-273945	present
-273960	perfect
-imperfect
-273965	present
-273968	present
-273996	present
 future
-274013	imperfect
-274019	present
-274025	present
-274032	aorist
-274034	aorist
-274038	present
-aorist
-274043	aorist
-274050	present
-274058	aorist
-274061	aorist
-274065	perfect
-aorist
-274068	imperfect
-274078	aorist
-274086	present
-274088	aorist
-274095	present
+273525	present
+273529	aorist
+273534	aorist
 present
-274100	aorist
-imperfect
-274107	aorist
-present
-274110	aorist
-274113	aorist
-274118	aorist
-274120	imperfect
-present
-274125	present
-274133	aorist
-aorist
-274139	imperfect
-274142	present
-274148	imperfect
-274161	aorist
-274167	present
-274179	present
-274181	imperfect
-274187	present
-274193	present
-274195	aorist
-274204	aorist
-imperfect
-274210	aorist
-274213	present
-274219	aorist
-274234	present
-274236	present
-274242	future
-274251	aorist
-274264	present
-274267	present
-274269	present
-274271	present
-274275	present
-aorist
-274278	aorist
+273543	aorist
+273548	aorist
+273550	present
+273555	present
+273557	present
+273563	imperfect
 perfect
-274287	present
-274292	present
-274294	present
-274301	future
-274307	perfect
-274315	present
-274317	aorist
+273567	perfect
+273571	present
+273577	present
+273587	perfect
+273598	aorist
+273600	present
+273612	aorist
+aorist
+273617	aorist
+273621	aorist
+273623	future
+273630	present
+273632	present
+273640	aorist
+imperfect
+273644	present
+273646	present
+present
+273652	present
+273654	future
+present
+273660	perfect
+273668	present
+273671	imperfect
+273674	present
+273676	future
+273679	present
+273684	present
+273687	present
+273691	present
+273693	aorist
+273695	present
+273698	aorist
+273701	aorist
+273704	present
+aorist
+273709	imperfect
+273712	present
+273715	present
+273719	present
+273722	present
+273727	aorist
+273729	present
+273733	aorist
+273739	present
+273744	present
+273750	present
+273754	future
+273757	future
+273761	present
+273770	present
+273774	aorist
+273777	present
+273779	present
+273786	aorist
+273790	future
+273793	perfect
+future
+273800	future
+273803	future
+273807	aorist
+273811	aorist
+273815	aorist
+273818	aorist
+273823	future
+273830	aorist
+present
+273835	present
+273842	aorist
+273844	present
+273847	present
+273851	aorist
+273856	aorist
+273859	present
+aorist
+aorist
+273865	aorist
+273876	perfect
+273885	perfect
+273893	aorist
+273903	aorist
+273905	aorist
+273909	present
+aorist
+273916	aorist
+273925	aorist
+273927	aorist
+273933	aorist
+273937	aorist
+273941	aorist
+273943	aorist
+273951	aorist
+aorist
+273956	aorist
+273959	aorist
+273961	aorist
+273968	present
+273970	present
+273975	present
+273979	aorist
+273983	future
+273990	future
+273994	aorist
+274005	present
+274011	perfect
+274017	present
+274028	aorist
+274041	present
+274089	aorist
+274096	aorist
+274102	future
+274105	aorist
+274108	future
+274114	present
+274116	present
+present
+274123	perfect
+274127	perfect
+274134	aorist
+274142	present
+274147	present
+274149	aorist
+274151	imperfect
+present
+274157	present
+274164	aorist
+274170	imperfect
+present
+274173	present
+present
+274181	aorist
+274183	present
+274192	aorist
+present
+274202	aorist
+274208	aorist
+274216	aorist
+274219	present
+274222	future
+274227	aorist
+274235	aorist
+274243	aorist
+274249	aorist
+274255	aorist
+274262	aorist
+274268	imperfect
+274276	aorist
+274283	aorist
+274286	perfect
+274290	aorist
+274298	present
+274312	aorist
+274317	imperfect
 274323	aorist
+274332	perfect
+274337	present
+274343	aorist
+274352	aorist
+274354	present
+274357	present
+274364	aorist
 present
-274338	imperfect
-274342	present
-274348	aorist
-aorist
-274355	aorist
-274358	aorist
-aorist
-274363	present
-274372	aorist
-274376	aorist
-274380	imperfect
-274382	aorist
-274387	present
-aorist
-274395	aorist
-274410	present
 present
-aorist
-274426	aorist
+274372	present
+274378	aorist
+274393	present
+274396	aorist
+274400	present
+274402	present
+274404	future
+274408	aorist
+274415	aorist
+274418	aorist
+274421	aorist
+274429	present
+274431	present
 274433	aorist
-274435	present
-274437	aorist
-274449	aorist
-274451	aorist
-274457	imperfect
-present
-imperfect
-274464	aorist
-274466	present
-274471	present
-274473	present
-274475	aorist
-274477	present
-274479	aorist
+274441	perfect
+274443	present
+274450	present
+274452	aorist
+274456	aorist
+274459	present
+274461	present
+274464	present
+274468	present
+274472	aorist
+274476	present
+274481	aorist
+274483	perfect
+274485	aorist
+274488	present
 274490	present
-274502	future
-aorist
-274507	aorist
-274509	aorist
-274517	aorist
-aorist
-present
-274522	aorist
-274527	aorist
-274529	imperfect
+274504	present
+274506	perfect
+274509	perfect
+274514	perfect
+274516	perfect
+274519	perfect
+274530	imperfect
+274534	perfect
+274541	present
 274545	aorist
-274548	imperfect
-274552	present
-274564	aorist
-274569	imperfect
-274575	imperfect
-present
-274581	imperfect
-274583	present
+274549	future
+274555	present
+274567	present
+274575	perfect
+274580	aorist
+274582	perfect
+274586	aorist
+274589	present
+274592	present
+274594	present
 aorist
-274592	aorist
-imperfect
-274600	aorist
-274609	aorist
-274614	present
-imperfect
-274621	aorist
-274628	aorist
-274637	aorist
+274603	aorist
+274612	present
+274622	aorist
+274631	perfect
 aorist
-274644	imperfect
-274656	aorist
-274661	aorist
-274664	aorist
+274635	present
+274643	aorist
+274648	aorist
+274652	aorist
 aorist
-274670	present
+274658	present
+274661	present
 aorist
-274675	aorist
-274680	aorist
-274683	present
-present
+274668	present
+274672	aorist
+274676	present
+274679	aorist
+274686	aorist
+274691	aorist
+274693	present
+274696	present
+274706	aorist
+274712	present
+274716	aorist
+274720	aorist
+274725	aorist
+274727	aorist
+274731	aorist
+274735	aorist
+274739	present
 aorist
-274692	present
-274717	aorist
-274719	aorist
-274726	aorist
-274728	aorist
-274734	present
-274739	imperfect
 274744	aorist
 274747	aorist
-274750	aorist
-274760	perfect
-274767	aorist
-274778	aorist
-274790	aorist
+274751	aorist
+274756	perfect
+274768	aorist
+274775	aorist
+274784	aorist
+274786	aorist
+274794	aorist
+274796	aorist
+274804	present
+274814	present
+274817	future
+274823	future
+274829	aorist
+274832	future
+274838	future
 aorist
-274799	aorist
-274803	present
-274817	imperfect
-274820	present
-274827	aorist
-274836	present
-274838	aorist
-274842	aorist
-274851	aorist
-274857	imperfect
-274859	present
-present
-274862	present
-274870	present
-274872	present
-274879	present
-aorist
-imperfect
-274883	present
-274897	imperfect
-274910	aorist
-274916	aorist
-aorist
-274929	present
-present
+274849	aorist
+274862	aorist
+274868	aorist
+274874	perfect
+274876	aorist
+274881	aorist
+274885	present
+274887	aorist
+274898	future
+274905	aorist
+274909	present
+274914	aorist
+274921	aorist
+274924	aorist
+274929	perfect
+274934	aorist
 274937	aorist
-274939	aorist
+274939	present
+274942	aorist
+274945	perfect
+274952	aorist
+274961	aorist
+274966	aorist
+274975	aorist
+274984	present
+274992	aorist
+274997	perfect
 aorist
-274945	aorist
-274949	aorist
-274961	present
-274963	imperfect
-274965	imperfect
-274971	aorist
-274974	present
+275004	aorist
+275014	aorist
+275018	present
+275025	aorist
+present
+275031	perfect
+275035	perfect
+275039	aorist
+275043	present
 aorist
-274989	aorist
-274996	perfect
-275006	aorist
-275010	aorist
-275015	aorist
+275051	future
+275056	future
+275061	future
+275063	future
+275071	future
+275077	future
+275081	aorist
+275083	aorist
+present
+275087	aorist
+275089	present
+275092	present
 aorist
-275026	aorist
-275029	aorist
-275034	aorist
-275036	aorist
-275040	aorist
-275051	aorist
-275056	aorist
-275062	aorist
-275078	aorist
-275082	aorist
-275086	aorist
-275090	aorist
-275094	aorist
 275098	present
-275107	present
-275110	aorist
-275117	aorist
+275100	aorist
+275102	perfect
+275111	present
+future
 275120	present
-275126	aorist
-275129	imperfect
-275139	aorist
-275155	aorist
-275166	aorist
-275168	imperfect
-aorist
-275178	present
-275182	present
-275187	aorist
-aorist
-275197	present
-275199	present
-275208	aorist
-275210	aorist
-275212	aorist
-275228	present
-275234	aorist
-275242	aorist
-275249	aorist
-275255	aorist
+future
+275124	future
+275129	future
+275136	perfect
+275148	present
+275151	present
+275156	aorist
+275161	present
+275164	present
+275170	aorist
+275172	present
+present
+future
+275181	aorist
+275188	aorist
+275193	present
+275198	present
+275208	present
+present
+275212	present
+275219	perfect
+275221	present
+275241	present
+275252	present
+275254	imperfect
 275257	aorist
-275265	present
-275270	aorist
-275272	present
-275284	present
+275268	present
+275275	aorist
 275287	present
-aorist
-275292	aorist
-275303	imperfect
-present
-275312	present
-275341	imperfect
-275343	present
-275346	imperfect
-275349	present
-275353	imperfect
-aorist
-275370	aorist
-275384	present
-aorist
-275394	aorist
+275289	aorist
+275295	present
+275315	perfect
+275350	imperfect
+275364	aorist
+275371	present
+275378	present
+275383	present
+275389	aorist
 275396	future
-275401	aorist
-275403	present
-future
-275409	aorist
-aorist
-275426	aorist
-275433	aorist
-275436	aorist
-275444	aorist
-275449	aorist
-275451	aorist
-275453	future
-275457	present
-275463	aorist
-275475	future
-aorist
-275487	imperfect
-275491	present
-275495	present
-275504	present
-275529	perfect
+275405	present
+275413	aorist
+275418	future
+275421	future
+275430	aorist
+275434	present
+275438	perfect
+275446	aorist
+275454	present
+275471	present
+275475	present
+275488	future
+275497	future
+275501	future
+275504	future
+275516	future
+275520	present
+275527	future
+275530	future
 275536	aorist
-275558	aorist
-275568	aorist
-275595	aorist
-275621	present
-275632	present
-275658	present
-275679	present
-275691	present
-275696	present
-275720	present
-275729	present
-275735	future
-275745	aorist
-275749	present
-275751	aorist
-275756	aorist
-275764	aorist
-275768	present
+275548	aorist
+275551	aorist
+275555	present
 aorist
-275788	present
-275791	present
-275795	aorist
+275559	aorist
+present
+275563	present
+275574	aorist
+275576	aorist
 aorist
-275801	aorist
-275811	aorist
-275836	present
-275853	aorist
-275856	present
-275864	present
-275871	present
-275885	present
-275893	perfect
-275901	future
+aorist
+275583	present
+275587	present
+275589	present
+275592	present
+275598	present
+275604	aorist
+275606	present
+275609	aorist
+275619	present
 present
-275926	present
-275936	present
-275945	aorist
-275960	present
+aorist
+275625	aorist
+275630	aorist
+275634	aorist
+275636	aorist
 present
-275975	present
-275979	aorist
-275987	aorist
-275989	aorist
-275991	aorist
-276000	aorist
-276008	present
+275643	aorist
+275648	present
+275660	present
+275664	future
+275673	aorist
+275690	aorist
+275693	aorist
+275699	present
+275714	present
 present
-276011	aorist
-276013	aorist
-276039	aorist
-276059	present
-276069	aorist
-276083	aorist
-276085	aorist
-276092	aorist
-276094	present
-276105	aorist
-276122	aorist
-276142	aorist
-276152	aorist
-276170	present
-276177	imperfect
-276186	present
-276190	aorist
-276194	present
-276198	aorist
-276208	present
-276211	present
+275717	present
+aorist
+present
+275721	present
+present
+present
+aorist
+275727	present
+275730	present
+275739	aorist
+275741	future
+275745	perfect
+275752	aorist
+275760	future
+275773	perfect
+275777	present
+present
+275781	present
+275784	present
+284013	present
+present
+284729	present
+present
+284917	present
+present
+285323	present
+present
+285329	present
+present
+285742	imperfect
+present
+285851	perfect
+present
+286310	imperfect
 perfect
-276249	aorist
-276255	present
-276258	present
-276262	present
-276265	present
-276267	present
-276270	present
-276277	present
-276282	present
-276287	present
-276292	present
-276294	present
 perfect
-276305	present
-276315	present
+286510	future
 present
-276323	present
-276328	present
-276330	present
-276334	future
-276360	present
+286607	perfect
 present
-276374	present
-276387	present
-276404	future
-276427	present
-276437	present
-276441	present
-276460	present
-276479	present
-276491	present
-276501	aorist
-276504	future
-276510	aorist
-276514	future
-276534	future
-276541	present
-276548	present
-276553	present
-276555	present
-276558	present
-276575	present
-276588	present
-276591	present
-276596	present
-276622	present
-276624	present
-276627	present
-276632	present
-276637	present
-276639	present
+286725	present
 present
-276646	perfect
-276651	present
-276666	present
-276685	present
-276689	present
-276691	present
-276693	present
+286747	present
 present
-276696	present
-276698	present
+286836	present
 present
-276701	present
-276705	present
-276710	present
-276723	present
-276735	present
-276742	perfect
-276746	present
-276749	present
-276755	present
-276762	perfect
-276775	present
-276785	future
-276787	future
-276798	present
-276821	present
-276895	aorist
-276906	aorist
-276921	future
-276923	aorist
-present
-276936	perfect
-276939	aorist
-276948	future
-276952	present
-276964	present
-276966	future
-276973	present
-276980	present
-276982	aorist
-276985	future
-277008	aorist
-277022	present
-277026	present
-277029	present
-277032	present
-277034	aorist
-277039	aorist
-277049	present
-277052	present
-277055	aorist
-277066	present
-277068	perfect
-277071	present
-277076	present
-277078	present
-277080	present
-277082	present
-277087	aorist
-277089	aorist
-277091	present
-277093	present
-277096	present
-277102	perfect
-277113	imperfect
-277132	present
-277139	aorist
-277156	aorist
-277158	present
-277169	perfect
-277176	present
-277184	present
-277189	aorist
-277192	aorist
-277208	future
-277230	perfect
-present
-277257	present
-277260	present
-277264	aorist
-277266	present
-277274	present
-277293	aorist
-277326	perfect
-277358	present
-277362	present
-277375	aorist
-277391	present
-277393	present
-277421	future
-277435	present
-277442	aorist
-277445	present
-277448	future
-perfect
-277465	aorist
-present
-277478	present
-aorist
-277486	aorist
-277493	present
-277498	present
-277509	present
-present
-277515	present
-277519	present
-277532	present
-277544	present
-277552	aorist
-277559	aorist
-277569	aorist
-277591	present
-277593	aorist
-277605	aorist
-277609	present
-277625	aorist
-277646	present
-277653	present
-277660	aorist
-277679	present
-277719	present
-277735	perfect
-277740	perfect
-277749	present
-277753	present
-277770	present
-277801	present
-277808	perfect
-277815	perfect
-277820	aorist
-277823	present
-277828	present
-277831	present
-277834	present
-277842	aorist
-277846	aorist
-277856	perfect
-277858	future
-277866	aorist
-277870	aorist
-277876	perfect
-277879	present
-277901	aorist
-277906	aorist
-277910	aorist
-277916	aorist
-277919	perfect
-277921	present
-277923	aorist
-277926	aorist
-277932	aorist
-277939	aorist
-277948	present
-present
-277951	present
-277955	aorist
-277966	aorist
-277975	aorist
-277983	aorist
-277989	present
-278012	perfect
-278026	perfect
-278028	present
-278045	present
-278051	perfect
-278057	present
-278073	present
-278082	perfect
-278096	aorist
-278101	present
-278111	aorist
-278118	future
-278128	present
-aorist
-present
-278146	present
-278152	aorist
-278157	aorist
-278166	future
-278178	present
-aorist
-278197	aorist
-future
-278211	present
-278233	aorist
-278251	aorist
-278272	aorist
-278277	aorist
-278283	imperfect
-278290	present
-278292	present
-278295	aorist
-278311	aorist
-278324	present
-278328	present
-278353	aorist
-278386	aorist
-278395	aorist
-278434	aorist
-278459	present
-278463	future
-278519	aorist
-278536	future
-278542	aorist
-278544	aorist
-278550	aorist
-278554	aorist
-278560	aorist
-278575	aorist
-278595	future
-present
-278604	aorist
-278606	aorist
-278608	aorist
-278614	future
-278619	present
-278622	aorist
-278634	aorist
-aorist
-278650	aorist
-278673	aorist
-278677	perfect
-278693	future
-278695	present
-278704	aorist
-278706	aorist
-278716	present
-278723	aorist
-perfect
-278732	aorist
-278736	present
-278739	future
-278741	perfect
-278744	aorist
-278749	present
-278753	present
-278756	aorist
-278760	aorist
-278764	present
-present
-278773	present
-278775	present
-278781	present
-278792	present
-278808	present
-278815	present
-278828	aorist
-278838	present
-278855	future
-278858	present
-278868	aorist
-278871	present
-278880	aorist
-278882	perfect
-278885	present
-278892	present
-278894	present
-278911	imperfect
-278917	aorist
-278925	aorist
-278929	aorist
-278936	aorist
-278941	present
-278955	aorist
-278976	aorist
-278993	imperfect
-278998	imperfect
-279006	imperfect
-279012	present
-279022	aorist
-279028	aorist
-279033	present
-279079	present
-279081	present
-279084	present
-279089	present
-279097	present
-279107	present
-279109	perfect
-279113	aorist
-279117	perfect
-279129	present
-279134	future
-279136	aorist
-279142	aorist
-279147	present
-279155	present
-279158	aorist
-279169	aorist
-279185	aorist
-279192	aorist
-279194	aorist
-279200	imperfect
-279220	imperfect
-279231	aorist
-279237	aorist
-279243	aorist
-279247	imperfect
-279249	present
-279264	future
-279270	aorist
-279276	aorist
-279288	pluperfect
-279294	imperfect
-279296	future
-279299	aorist
-279308	aorist
-279323	imperfect
-279328	aorist
-279336	aorist
-279339	aorist
-279341	aorist
-279361	aorist
-279367	aorist
-279373	aorist
-279394	aorist
-279397	aorist
-279403	aorist
-279411	present
-279414	aorist
-279427	perfect
-279434	present
-279438	present
-perfect
-279447	present
-279449	present
-279453	present
-279455	present
-279458	present
-279460	present
-279465	present
-279467	present
-present
-279478	present
-279484	present
-279489	perfect
-279493	present
-279498	present
-279509	present
-present
-279514	present
-279522	present
-present
-279528	present
-279531	present
-279536	present
-279539	present
-279542	present
-279548	present
-279553	present
-279559	present
-279561	present
-279570	present
-present
-279587	present
-279599	present
-279610	present
-279622	present
-279636	future
-279670	present
-279708	aorist
-279734	imperfect
-279748	aorist
-279760	aorist
-279777	aorist
-279786	present
-279796	present
-279802	present
-279854	present
-279857	present
-279863	present
-279865	aorist
-279867	present
-279871	present
-279883	present
-279894	present
-279897	present
-279928	aorist
-279935	present
-279940	aorist
-279946	future
-279961	present
-279972	present
-279981	present
-279987	present
-present
-present
-280000	present
-future
-280007	present
-280011	present
-280015	aorist
-280024	aorist
-280031	present
-280041	present
-280048	present
-280067	present
-280070	aorist
-present
-280090	present
-280092	aorist
-280115	present
-280123	aorist
-280130	aorist
-280142	future
-280169	perfect
-280177	present
-280179	present
-280201	present
-280209	present
-280211	present
-280225	aorist
-280229	present
-280231	present
-280235	present
-280238	present
-280243	present
-present
-280248	present
-280256	present
-280265	aorist
-280267	present
-280269	perfect
-280276	present
-280282	present
-280286	perfect
-280299	present
-280303	perfect
-280307	present
-280312	present
-280321	present
-280324	aorist
-280326	aorist
-280341	present
-280351	aorist
-280354	aorist
-280357	aorist
-280360	aorist
-280363	aorist
-280366	aorist
-280369	future
-280392	aorist
-280399	aorist
-280412	future
-280414	future
-280422	present
-280425	future
-280429	aorist
-280432	aorist
-280434	present
-280444	present
-280450	future
-280474	perfect
-280479	present
-280485	aorist
-280497	present
-280501	aorist
-280503	perfect
-280515	perfect
-280517	present
-280530	future
-280532	aorist
-280554	present
-280559	present
-present
-280575	present
-280586	imperfect
-280589	present
-280615	present
-280660	present
-280676	perfect
-280697	present
-280707	future
-280711	present
-280734	present
-280752	future
-280754	future
-280770	present
-280779	aorist
-280781	aorist
-280799	present
-280808	present
-aorist
-280815	future
-280820	perfect
-280824	aorist
-280829	aorist
-280832	future
-280841	aorist
-280846	present
-future
-280850	present
-280852	future
-280855	present
-280860	present
-280863	present
-280868	present
-280870	present
-280884	aorist
-280887	aorist
-280898	aorist
-280914	present
-present
-280918	present
-present
-future
-280925	present
-280933	perfect
-280940	present
-280942	present
-280947	future
-280952	aorist
-280955	aorist
-280959	present
-280975	aorist
-280989	present
-280993	aorist
-280998	aorist
-281004	aorist
-281014	perfect
-281020	aorist
-281036	aorist
-281042	aorist
-281064	present
-future
-281079	perfect
-perfect
-281082	future
-281089	aorist
-281097	future
-281102	present
-281105	present
-281112	present
-281134	future
-281137	present
-281139	present
-future
-281149	perfect
-281156	aorist
-281163	aorist
-281169	aorist
-281172	future
-281177	present
-281179	aorist
-281190	present
-281198	aorist
-281212	aorist
-281221	perfect
-aorist
-present
-281236	present
-281241	future
-281270	present
-281277	present
-281283	present
-281296	present
-aorist
-281306	aorist
-281318	present
-281321	present
-281334	aorist
-281336	future
-281349	present
-281351	aorist
-281360	future
-281367	present
-281369	aorist
-281372	future
-281379	present
-281384	aorist
-281387	present
-281394	present
-281411	present
-281420	present
-281423	aorist
-281434	aorist
-281447	aorist
-281451	future
-281454	present
-281460	present
-281464	present
-281472	present
-281477	future
-281480	present
-281494	present
-281500	present
-281507	aorist
-281513	future
-281516	aorist
-281521	aorist
-281524	aorist
-281527	aorist
-281530	aorist
-281533	present
-281536	aorist
-281539	aorist
-281541	perfect
-281549	present
-281554	aorist
-281560	present
-281563	aorist
-281586	present
-281589	aorist
-281598	aorist
-281620	present
-281624	aorist
-281627	present
-281629	future
-281641	future
-281645	present
-281647	present
-aorist
-281652	present
-281654	aorist
-281658	present
-281665	present
-281671	aorist
-281681	present
-281683	present
-present
-281687	aorist
-281697	aorist
-281703	present
-281714	aorist
-281724	aorist
-281727	perfect
-281732	present
-281737	present
-281752	aorist
-281758	aorist
-281760	aorist
-281763	present
-281771	present
-281776	aorist
-281783	aorist
-281805	perfect
-281818	present
-281823	present
-281827	aorist
-281832	aorist
-281837	aorist
-281839	perfect
-aorist
-281853	present
-281860	present
-281870	present
-aorist
-281894	aorist
-281902	present
-281912	aorist
-present
-281916	aorist
-281918	aorist
-281920	aorist
-281936	aorist
-281967	present
-281976	present
-281986	present
-281989	aorist
-281996	aorist
-282051	aorist
-282055	present
-aorist
-282074	aorist
-282076	present
-282082	present
-282088	present
-282094	future
-282096	aorist
-282100	aorist
-282105	aorist
-282111	perfect
-282114	present
-282116	present
-282130	aorist
-282133	future
-aorist
-282145	aorist
-282155	present
-282163	future
-282168	present
-282172	future
-282175	present
-282180	aorist
-282193	aorist
-282199	aorist
-282213	future
-282221	present
-282223	present
-282232	present
-282245	perfect
-282256	aorist
-282262	future
-282264	perfect
-future
-282270	present
-future
-282287	aorist
-282332	aorist
-282338	aorist
-282349	aorist
-282360	aorist
-aorist
-282376	aorist
-282403	aorist
-282412	aorist
-282415	aorist
-282418	future
-282445	present
-282458	aorist
-282468	present
-282484	present
-282491	present
-282502	present
-282520	present
-282528	aorist
-282533	present
-282538	present
-282542	present
-present
-282545	present
-282549	present
-282555	aorist
-282569	present
-282581	present
-282590	present
-282603	present
-282613	aorist
-282636	present
-282644	present
-282651	present
-282656	present
-282661	present
-282669	present
-282673	present
-282688	present
-282697	present
-282701	present
-282705	present
-282709	present
-282713	present
-282721	present
-282725	present
-present
-282728	present
-present
-282732	present
-present
-282736	present
-present
-282740	present
-282747	present
-282752	present
-282757	present
-282759	present
-282769	present
-present
-282789	present
-282792	present
-282795	aorist
-282800	perfect
-282805	future
-present
-282810	present
-282816	present
-282819	present
-present
-282824	present
-282828	future
-282837	present
-282844	present
-282858	present
-present
-282862	present
-282871	present
-282876	perfect
-present
-282880	present
-282891	perfect
-282894	perfect
-282897	future
-282903	present
-282914	present
-282917	present
-282924	present
-282926	future
-282935	present
-282947	present
-present
-282956	present
-282961	present
-282970	present
-282973	present
-282997	present
-283002	present
-283008	present
-aorist
-283048	present
-283053	present
-283056	present
-283061	perfect
-283065	future
-283067	future
-283069	future
-283071	future
-283086	present
-283090	future
-283106	present
-283117	perfect
-283128	aorist
-283139	aorist
-283143	aorist
-283148	perfect
-aorist
-283158	aorist
-283172	aorist
-283186	aorist
-283199	present
-283205	present
-283209	present
-283218	present
-aorist
-283223	present
-283225	present
-283227	present
-283230	present
-283232	present
-283236	present
-283238	present
-283240	present
-283246	aorist
-283249	present
-283251	present
-283260	present
-283262	present
-future
-283265	present
-283270	aorist
-283275	present
-283282	present
-283294	present
-283296	present
-283301	present
-283304	present
-283306	present
-present
-283315	present
-283318	present
-283320	present
-283329	present
-283333	present
-283337	present
-283341	present
-283344	present
-283348	present
-283352	present
-283355	present
-283359	present
-283365	aorist
-283367	aorist
-283372	present
-aorist
-283377	present
-283388	present
-283396	future
-283404	perfect
-283406	present
-283408	present
-283412	future
-283420	future
-283433	future
-283440	present
-283443	aorist
-283447	present
-283454	perfect
-283456	perfect
-283470	present
-283473	present
-283486	present
-283491	present
-283499	present
-283504	aorist
-283506	present
-283515	present
-283543	present
-283563	present
-283579	present
-283599	present
-283603	aorist
-283606	aorist
-283617	present
-283621	present
-283625	present
-283634	present
-283639	present
-283642	present
-283644	aorist
-perfect
-283660	present
-present
-283674	present
-283678	present
-283685	present
-283702	aorist
-283705	perfect
-283711	present
-283713	aorist
-283719	aorist
-283727	aorist
-283747	present
-283760	aorist
-283765	present
-283780	present
-283795	present
-283803	aorist
-283812	present
-283817	perfect
-283827	aorist
-283842	aorist
-283847	perfect
-283851	future
-283862	future
-283865	present
-aorist
-283877	present
-283887	aorist
-283897	present
-future
-283909	present
-present
-283916	future
-283925	aorist
-283935	present
-283939	present
-283953	perfect
-283971	present
-283973	perfect
-283979	present
-283983	present
-283986	aorist
-283992	present
-284000	aorist
-284010	present
-284021	present
-284030	aorist
-284039	perfect
-284045	present
-284064	future
-284067	present
-284070	aorist
-284110	perfect
-284120	present
-present
-284125	aorist
-284134	present
-284137	perfect
-future
-284141	aorist
-284148	perfect
-future
-284152	imperfect
-284157	aorist
-284165	present
-284175	present
-284177	aorist
-284188	present
-284194	present
-284196	present
-aorist
-284203	aorist
-284211	aorist
-284214	present
-284218	present
-284222	aorist
-284230	aorist
-284245	aorist
-284249	present
-284258	aorist
-284262	present
-284269	aorist
-284273	aorist
-284275	aorist
-284282	future
-284289	perfect
-284292	present
-284303	future
-present
-284327	aorist
-284343	aorist
-284348	present
-284369	aorist
-284374	aorist
-284383	aorist
-284399	present
-284408	present
-284421	aorist
-284431	aorist
-284438	present
-284447	aorist
-284452	aorist
-284479	aorist
-284485	present
-284508	aorist
-284516	present
-284526	aorist
-284530	aorist
-284534	aorist
-284548	present
-284561	perfect
-284565	aorist
-284576	aorist
-284594	aorist
-284603	aorist
-284611	aorist
-284618	aorist
-284627	present
-284631	aorist
-284636	present
-284640	aorist
-284647	aorist
-284651	aorist
-284668	aorist
-284682	aorist
-284705	aorist
-284712	present
-284723	present
-284727	present
-284743	aorist
-present
-284746	present
-284761	present
-284776	present
-284793	aorist
-284798	present
-present
-284803	present
-284824	future
-284851	present
-284870	present
-284875	aorist
-284882	present
-284896	present
-284913	present
-284915	aorist
-284939	perfect
-aorist
-284970	aorist
-285020	present
-285024	perfect
-285038	present
-285072	present
-285090	aorist
-285100	aorist
-285121	aorist
-285128	present
-285134	present
-285149	future
-285175	aorist
-285192	present
-285213	present
-285217	present
-285223	present
-285225	perfect
-285241	aorist
-285260	present
-present
-285268	present
-285271	present
-285282	perfect
-285288	aorist
-285300	aorist
-present
-285306	aorist
-285315	aorist
-285324	aorist
-aorist
-285336	perfect
-285341	aorist
-285344	aorist
-285347	present
-285349	present
-285358	aorist
-285377	present
-285379	present
-285382	present
-285387	present
-perfect
-285390	future
-285406	future
-285420	aorist
-285443	aorist
-285455	aorist
-285468	aorist
-285470	present
-285475	present
-285479	present
-285482	present
-285485	perfect
-285521	present
-285534	present
-285563	aorist
-285568	present
-285580	aorist
-285585	present
-285599	perfect
-aorist
-285606	present
-285609	present
-aorist
-285613	aorist
-285627	present
-285633	aorist
-285647	perfect
-285649	present
-285653	present
-285655	aorist
-285660	aorist
-285669	present
-285680	aorist
-285682	perfect
-285693	perfect
-285708	aorist
-285747	present
-285761	present
-285787	present
-285789	present
-285798	perfect
-285800	aorist
-285826	perfect
-285829	aorist
-285839	aorist
-285842	perfect
-285846	aorist
-285850	aorist
-285858	aorist
-285860	aorist
-285865	present
-285869	aorist
-285883	present
-285896	perfect
-285926	perfect
-285946	aorist
-285959	perfect
-285966	aorist
-285970	present
-285989	present
-285995	present
-286008	present
-286011	present
-aorist
-286015	present
-286020	present
-286028	present
-286031	aorist
-286036	future
-286043	present
-286047	aorist
-aorist
-286066	aorist
-286071	imperfect
-286076	present
-286080	present
-286091	present
-286096	present
-286099	present
-286103	present
-286111	present
-286114	present
-286118	present
-286124	aorist
-286132	aorist
-286134	aorist
-286136	aorist
-286141	imperfect
-286145	present
-present
-286150	present
-286155	present
-286158	present
-286162	present
-286164	present
-286172	future
-286183	present
-286191	present
-286202	aorist
-286210	aorist
-286213	present
-286216	present
-286218	present
-286224	present
-aorist
-286229	present
-286231	present
-286237	present
-286257	future
-286262	future
-286267	present
-286275	present
-286280	future
-286287	future
-286289	aorist
-286291	future
-286298	future
-future
-286302	future
-286310	perfect
-286315	present
-286327	present
-286337	present
-future
-286352	present
-286354	present
-286358	present
-286361	present
-286363	present
-286375	aorist
-286377	aorist
-286395	present
-perfect
-286399	present
-286413	present
-286422	present
-286426	present
-286433	present
-286447	perfect
-286449	present
-286460	present
-286474	present
-286483	aorist
-286489	present
-286494	aorist
-286504	present
-286508	perfect
-286514	perfect
-286517	present
-286520	present
-286527	present
-286530	aorist
-286536	future
-286545	future
-286558	future
-286568	aorist
-286581	aorist
-286587	perfect
-286596	present
-286605	present
-286608	present
-286611	aorist
-286615	aorist
-286617	present
-286620	aorist
-286623	perfect
-present
-286626	aorist
-286630	aorist
-286632	aorist
-286634	aorist
-286640	aorist
-present
-286651	aorist
-286657	aorist
-286694	present
-286696	present
-286698	present
-286700	present
-286702	present
-286704	present
-present
-286711	present
-present
-present
-present
-present
-present
-286724	aorist
-286732	present
-286734	present
-286744	present
-286750	present
-286771	aorist
-present
-286778	present
-286784	aorist
-286788	present
-286802	future
-286821	present
-286824	present
-286830	aorist
-286832	future
-286842	aorist
-286844	future
-286851	perfect
-286873	present
-286877	aorist
-286890	present
-286913	present
-286917	perfect
-present
-286922	aorist
-286924	aorist
-286936	aorist
-286940	present
-286944	present
-286950	perfect
-286952	present
-286956	aorist
-286967	aorist
-286987	aorist
-287005	aorist
-287023	perfect
-287033	present
-aorist
-287041	present
-287046	present
-287056	aorist
-287059	present
-287082	aorist
-287090	present
-287113	imperfect
-287120	aorist
-287123	aorist
-287126	present
-287131	present
-present
-287148	present
-287155	present
-287161	present
-287169	future
-aorist
-287179	present
-287184	present
-287190	present
-287205	perfect
-287213	future
-287219	present
-287224	present
-287229	perfect
-287232	future
-287241	present
-287243	perfect
-287250	present
-287255	present
-287258	present
-287266	future
-aorist
-287282	present
-287294	present
-287297	present
-287306	present
-287312	present
-287315	present
-287317	present
-287323	perfect
-287330	future
-287332	present
-287356	future
-287360	imperfect
-287362	aorist
-287364	aorist
-287366	aorist
-287392	present
-287396	present
-287399	present
-287403	future
-287428	future
-287456	aorist
-287459	future
-287468	perfect
-287478	present
-aorist
-287488	aorist
-287493	aorist
-287496	perfect
-287499	present
-287506	present
-future
-287509	present
-287520	present
-287527	present
-present
-287537	aorist
-287544	present
-287547	present
-287555	present
-287558	perfect
-287576	present
-287578	present
-287584	present
-287586	aorist
-287589	aorist
-287605	aorist
-287610	present
-287623	present
-287631	present
-287641	present
-287661	present
-287679	present
-287685	present
-287697	aorist
-287708	present
-287711	present
-287725	present
-287733	present
-287738	present
-287748	present
-287759	present
-287771	aorist
-287778	present
-aorist
-287782	present
-present
-287785	present
-287788	perfect
-present
-287801	aorist
-287805	aorist
-present
-287812	aorist
-287817	present
-287822	present
-287835	present
-287839	present
-present
-287845	present
-287850	present
-287856	present
-present
-287862	present
-287866	perfect
-287881	perfect
-287902	present
-287906	present
-287912	present
-present
-287915	perfect
-287932	perfect
-287939	perfect
-287945	future
-287948	perfect
-287954	future
-287959	perfect
-287965	perfect
-287970	present
-287980	present
-perfect
-287983	aorist
-287985	present
-287989	perfect
-287992	present
-287997	present
-288003	present
-288017	aorist
-288021	present
-288023	aorist
-288026	present
-288030	present
-288032	aorist
-288034	aorist
-288042	aorist
-288047	present
-288053	aorist
-288056	present
-288059	aorist
-288061	present
-288069	aorist
-288074	present
-288088	present
-288091	present
-288094	perfect
-288099	present
-present
-288104	present
-288110	perfect
-288117	present
-perfect
-288121	present
-288123	perfect
-288128	present
-288133	aorist
-288135	aorist
-288138	aorist
-288143	aorist
-288149	future
-288156	present
-288159	present
-288165	perfect
-present
-288174	present
-288178	present
-present
-288182	present
-288185	present
-288188	present
-288191	present
-288194	present
-288197	present
-288200	present
-288206	present
-present
-288218	present
-288222	present
-288226	present
-288233	aorist
-288239	aorist
-present
-288247	aorist
-288252	perfect
-288264	present
-288271	present
-288283	aorist
-present
-288291	aorist
-288306	present
-288311	aorist
-288327	present
-288335	present
-288337	present
-288341	present
-present
-288344	present
-present
-288347	present
-present
-288351	perfect
-288361	present
-288365	present
-288375	perfect
-288383	present
-288390	future
-288394	present
-288401	present
-288405	present
-288407	future
-288409	perfect
-288415	present
-288423	aorist
-288428	present
-288430	present
-aorist
-288438	present
-288441	aorist
-288449	present
-288455	present
-288462	perfect
-288466	present
-288470	present
-288475	present
-288478	present
-perfect
-288482	aorist
-288484	present
-aorist
-288489	present
-288494	perfect
-288508	perfect
-288525	present
-288527	present
-288538	present
-288599	present
-288607	present
-present
-288613	future
-288620	aorist
-present
-288624	aorist
-present
-present
-288638	aorist
-288645	aorist
-288648	present
-288653	present
-288661	present
-future
-288669	present
-present
-288673	present
-288688	aorist
-288691	present
-288698	present
-288705	present
-288709	present
-288713	present
-288722	aorist
-288736	aorist
-288738	present
-288741	present
-288750	perfect
-288758	present
-288765	present
-288770	present
-288782	present
-288793	present
-present
-288798	present
-288800	aorist
-288802	aorist
-288805	present
-288809	present
-288834	present
-288837	present
-288839	present
-288845	present
-288854	present
-288857	present
-288870	present
-288876	present
-288885	present
-288894	perfect
-288896	future
-288899	present
-288904	present
-288913	present
-288918	aorist
-288920	present
-288925	present
-present
-288929	present
-288934	present
-288941	aorist
-288950	future
-288958	present
-288964	aorist
-288972	present
-288978	aorist
-288987	perfect
-288993	present
-289001	present
-289006	present
-289010	present
-289017	aorist
-289022	present
-289028	present
-289032	perfect
-289037	aorist
-289042	aorist
-289050	aorist
-289058	future
-289061	present
-289063	present
-289069	present
-289073	present
-289076	aorist
-289081	present
-289083	present
-289088	perfect
-289093	present
-289098	present
-289100	aorist
-289108	aorist
-289121	present
-289127	aorist
-289132	aorist
-289134	aorist
-289143	aorist
-289155	present
-289166	aorist
-289174	present
-289183	aorist
-289187	aorist
-289196	aorist
-289200	perfect
-289205	aorist
-289208	present
-289218	aorist
-289220	perfect
-289226	present
-289229	present
-289232	present
-289237	present
-289239	aorist
-289244	present
-289246	present
-289254	aorist
-289261	present
-289266	present
-289270	present
-289272	present
-289279	present
-289283	aorist
-289286	aorist
-289288	present
-289291	present
-289306	imperfect
-289314	aorist
-289322	aorist
-289343	aorist
-289352	aorist
-289354	imperfect
-289361	present
-289367	imperfect
-289380	aorist
-289384	aorist
-289396	aorist
-289401	present
-289408	aorist
-289411	present
-289417	perfect
-aorist
-289422	aorist
-289424	aorist
-289426	aorist
-present
-289429	present
-289434	aorist
-289436	aorist
-289444	present
-289452	aorist
-289459	imperfect
-289461	present
-289466	aorist
-289468	aorist
-289477	imperfect
-289479	aorist
-289496	perfect
-289499	present
-perfect
-present
-289503	aorist
-289507	perfect
-289518	future
-289520	aorist
-289524	present
-289526	future
-289538	present
-aorist
-289544	present
-289552	present
-aorist
-289556	present
-289565	present
-289569	present
-289581	present
-289592	present
-289602	present
-289614	present
-present
-289625	present
-289634	present
-289637	present
-289641	present
-289646	present
-289650	present
-289656	present
-289658	present
-289666	present
-289668	present
-289672	present
-289678	present
-289682	present
-289688	present
-289695	present
-289697	present
-289701	present
-289703	present
-289707	present
-289712	present
-289725	present
-present
-289728	present
-289750	present
-289756	present
-present
-289761	present
-289763	present
-289765	present
-289775	aorist
-289778	present
-289780	present
-289786	aorist
-289793	present
-289813	present
-289822	present
-289824	present
-289829	present
-289832	present
-289834	present
-289837	present
-289844	present
-289848	present
-289863	present
-289865	present
-289878	aorist
-289882	present
-289886	present
-289892	perfect
-289895	aorist
-289900	present
-present
-289904	perfect
-289916	present
-289936	present
-289938	present
-289942	present
-present
-289953	present
-289955	present
-289961	present
-289969	present
-289975	perfect
-289979	present
-289982	aorist
-289988	aorist
-289990	present
-present
-289996	present
-present
-290006	present
-290014	present
-290017	present
-290031	aorist
-290048	present
-290053	present
-290113	aorist
-present
-present
-290122	present
-290129	present
-290135	present
-290138	present
-290142	present
-290145	present
-290153	perfect
-290158	present
-290160	present
-290166	present
-290177	present
-290179	present
-290193	present
-290197	present
-290202	present
-290207	present
-290212	present
-present
-290221	present
-290229	aorist
-290233	present
-290242	present
-290246	aorist
-290254	present
-290258	aorist
-290262	present
-290265	present
-290270	present
-290274	present
-290276	present
-290285	present
-290287	present
-290290	present
-290292	aorist
-290294	aorist
-290300	present
-290303	aorist
-290311	aorist
-290324	imperfect
-aorist
-290328	aorist
-aorist
-290331	aorist
-290335	present
-290345	present
-290362	aorist
-present
-290374	present
-290383	present
-290386	present
-290397	present
-290407	present
-290415	present
-290419	aorist
-290423	present
-290428	present
-290438	future
-290450	present
-290461	present
-290468	present
-290471	present
-290473	present
-290476	present
-290478	present
-290480	present
-290495	present
-290500	imperfect
-290503	imperfect
-present
-290511	present
-290519	aorist
-290524	present
-290528	aorist
-290530	present
-290533	present
-290537	present
-290543	present
-290550	aorist
-future
-290560	present
-290562	present
-perfect
-290567	imperfect
-290579	imperfect
-present
-290582	present
-290592	present
-present
-290598	present
-aorist
-290613	present
-290624	present
-290635	present
-290643	present
-290652	present
-290663	present
-290672	present
-290735	present
-290745	present
-290750	present
-290757	present
-290762	present
-290774	present
-290777	present
-290800	aorist
-290814	aorist
-290822	present
-290829	aorist
-290835	present
-290838	present
-290849	present
-290857	aorist
-290863	present
-290866	present
-290877	present
-290906	aorist
-290921	aorist
-290924	imperfect
-290944	present
-290949	aorist
-290957	present
-290970	present
-290978	present
-290985	present
-290987	present
-290990	present
-290993	present
-291001	present
-291011	present
-291020	present
-291025	aorist
-291030	present
-291033	aorist
-291037	present
-291051	present
-291057	present
-291061	present
-291068	present
-291070	present
-291078	present
-291091	aorist
-291133	present
-291138	present
-291141	present
-present
-291159	present
-291168	present
-291176	present
-perfect
-291180	present
-291184	present
-291187	present
-291190	perfect
-291204	present
-291212	present
-291216	present
-291218	present
-291221	aorist
-291226	present
-291230	aorist
-291237	future
-291241	present
-291243	present
-291247	present
-present
-291253	present
-291258	present
-291260	present
-291262	present
-291264	present
-291269	present
-291271	present
-291276	present
-291282	present
-291288	present
-291290	present
-291292	present
-291294	present
-291299	present
-291303	future
-291306	future
-291309	future
-291314	present
-291319	present
-291322	aorist
-291331	future
-291333	imperfect
-291335	imperfect
-291339	imperfect
-291343	imperfect
-291348	perfect
-291350	perfect
-291356	present
-291372	present
-291378	future
-291381	aorist
-291384	present
-291399	present
-291403	present
-291411	present
-291414	present
-291418	present
-291423	present
-291426	present
-291430	present
-291432	present
-291439	present
-291442	present
-291445	present
-291447	present
-present
-291453	present
-291458	present
-291462	present
-291465	present
-291470	present
-291476	aorist
-291481	aorist
-291486	present
-291489	future
-291493	aorist
-291514	present
-291525	aorist
-291527	future
-291529	present
-291532	present
-291541	aorist
-291543	future
-291561	aorist
-291563	future
-291565	present
-291567	future
-291572	present
-291576	aorist
-291580	present
-291590	perfect
-291598	future
-291600	present
-291604	present
-291616	present
-291627	present
-291629	present
-291632	present
-291634	present
-291636	present
-291639	present
-291646	present
-291654	present
-291657	present
-future
-291662	future
-291669	future
-291673	future
-291682	present
-291685	present
-291694	future
-291707	present
-291709	perfect
-291714	present
-291720	present
-present
-291730	present
-291735	present
-291744	aorist
-291749	aorist
-291760	present
-291768	present
-291774	present
-291780	perfect
-291791	future
-291800	future
-291802	present
-291811	present
-291814	present
-291829	present
-291832	aorist
-291845	present
-291847	aorist
-291853	future
-291855	present
-291859	present
-aorist
-291867	present
-291871	present
-291885	present
-291888	aorist
-291892	future
-291896	present
-291905	present
-291908	present
-291911	present
-291914	present
-291916	present
-291918	present
-291920	present
-291922	present
-291927	present
-291931	present
-291946	present
-291950	present
-291952	present
-291958	present
-291969	present
-291974	present
-291979	aorist
-present
-291984	present
-present
-291991	present
-291994	present
-291997	present
-292003	present
-292006	present
-292033	present
-292036	present
-292038	present
-292040	present
-292047	present
-292051	aorist
-present
-292061	present
-292064	present
-292066	present
-292081	aorist
-292087	aorist
-292090	present
-292092	present
-292095	present
-292097	present
-292102	present
-292107	present
-present
-292113	present
-292115	present
-292118	present
-292120	present
-292129	present
-present
-292138	aorist
-292142	aorist
-292147	perfect
-292152	present
-292156	aorist
-292159	present
-292164	aorist
-aorist
-292173	aorist
-292176	aorist
-292191	aorist
-292194	perfect
-292209	aorist
-292216	aorist
-292229	present
-292235	aorist
-292237	aorist
-292253	aorist
-292257	present
-292267	present
-292269	present
-292272	aorist
-292284	present
-292286	present
-292300	aorist
-292306	aorist
-292328	present
-292331	aorist
-292335	present
-292340	perfect
-292342	present
-292353	present
-292360	present
-292363	perfect
-292368	perfect
-292384	present
-292394	aorist
-292401	aorist
-292407	aorist
-292412	present
-292417	present
-292420	perfect
-292425	perfect
-292433	present
-292445	aorist
-292449	aorist
-292462	perfect
-present
-292469	present
-292473	perfect
-292480	perfect
-292503	present
-292513	future
-292543	present
-292553	aorist
-292563	present
-292566	present
-292570	aorist
-292586	present
-292592	aorist
-292602	aorist
-292605	perfect
-292611	aorist
-292618	aorist
-292631	future
-292633	aorist
-292639	present
-292649	future
-292651	present
-292661	present
-292664	present
-292672	present
-292679	present
-292689	present
-292703	aorist
-292715	present
-aorist
-292718	aorist
-292721	present
-292723	present
-present
-292731	aorist
-292735	present
-292741	present
-292746	present
-292748	future
-292751	present
-292759	present
-292763	present
-292765	present
-292768	aorist
-292771	present
-292777	future
-present
-292784	aorist
-292796	present
-292800	aorist
-292878	present
-292892	present
-292896	present
-292900	present
-292904	present
-292908	present
-292912	present
-292916	present
-292920	present
-292925	present
-292929	present
-292935	perfect
-aorist
-292947	present
-292957	present
-293012	aorist
-293020	aorist
-293032	present
-293041	aorist
-293043	present
-293051	present
-aorist
-293055	present
-293058	future
-293061	future
-293077	future
-293083	future
-293087	future
-present
-293095	aorist
-293103	aorist
-293112	aorist
-293120	aorist
-293123	future
-293128	perfect
-aorist
-293178	present
-293200	present
-293202	present
-293213	perfect
-293221	present
-293240	aorist
-293252	aorist
-293264	present
-present
-293269	present
-293273	aorist
-293276	present
-293279	aorist
-293282	aorist
-293287	future
-aorist
-293300	present
-293303	present
-293307	future
-future
-293315	aorist
-293318	present
-293323	aorist
-future
-293327	future
-293331	aorist
-293334	present
-293336	present
-293343	aorist
-present
-293349	aorist
-293357	aorist
-future
-293372	perfect
-293377	present
-293381	aorist
-293383	present
-293386	aorist
-293396	present
-293404	aorist
-aorist
-293412	aorist
-293416	present
-293432	aorist
-293435	aorist
-293447	imperfect
-293451	aorist
-future
-293455	aorist
-present
-present
-293463	present
-present
-293471	present
-present
-293476	perfect
-293483	present
-293496	aorist
-293502	present
-293510	present
-293512	present
-present
-293533	aorist
-aorist
-293545	present
-293550	present
-293559	present
-293579	present
-293586	aorist
-293606	present
-293610	present
-293613	aorist
-293663	present
-293675	present
-293725	present
-293739	present
-293741	present
-293755	present
-293764	present
-293781	present
-293791	present
-293802	present
-293811	present
-293825	present
-293836	perfect
-293841	present
-293853	present
-293855	present
-293865	aorist
-293878	aorist
-293880	aorist
-293885	present
-293898	perfect
-293902	perfect
-present
-293914	present
-293924	aorist
-293927	future
-293931	perfect
-293936	future
-present
-293963	aorist
-293975	present
-294007	aorist
-294021	present
-294026	present
-294029	present
-present
-294036	future
-294039	aorist
-294048	present
-294072	imperfect
-294077	aorist
-294082	aorist
-294087	aorist
-294096	aorist
-294104	aorist
-294112	present
-294118	aorist
-294121	present
-294125	present
-294127	present
-294157	present
-294178	aorist
-294187	aorist
-294196	perfect
-294229	present
-294238	aorist
-294243	aorist
-294246	aorist
-294267	present
-294276	present
-294279	aorist
-294285	present
-294293	present
-294303	perfect
-aorist
-294318	aorist
-294322	present
-294328	present
-294333	present
-294338	aorist
-294344	aorist
-294346	aorist
-294350	imperfect
-294352	present
-perfect
-294368	present
-294379	aorist
-294388	aorist
-294394	aorist
-294396	present
-294404	perfect
-294407	perfect
-294414	present
-294439	aorist
-294441	aorist
-294449	aorist
-294454	present
-294456	aorist
-294466	aorist
-294468	aorist
-294479	present
-294483	present
-294490	perfect
-294493	perfect
-294504	aorist
-294517	present
-aorist
-294537	perfect
-294542	perfect
-294551	aorist
-294560	aorist
-294562	aorist
-294573	present
-294590	present
-294603	present
-294610	present
-294615	present
-294645	present
-294650	present
-294674	present
-present
-294678	present
-294681	present
-294701	present
-perfect
-294710	present
-294712	present
-294718	present
-294720	present
-294724	aorist
-294728	perfect
-294736	present
-294754	present
-294771	present
-aorist
-294792	aorist
-294808	present
-294813	present
-294826	perfect
-294828	aorist
-294834	present
-aorist
-294860	present
-294872	future
-294889	present
-294901	perfect
-294903	perfect
-294916	present
-294921	present
-294929	present
-294933	present
-294941	present
-294946	imperfect
-294959	aorist
-294972	present
-294974	aorist
-295004	present
-295006	present
-295011	present
-295018	present
-295028	present
-295032	aorist
-295036	present
-295047	present
-295061	perfect
-295068	present
-295074	present
-295090	present
-295097	aorist
-295099	present
-295101	aorist
-295110	present
-295115	present
-295131	present
-295149	present
-perfect
-295159	present
-295161	present
-perfect
-295175	aorist
-295187	aorist
-295204	present
-295213	present
-295231	aorist
-295236	future
-295238	aorist
-295266	present
-295286	present
-295298	present
-295301	present
-present
-295305	present
-present
-295309	present
-present
-295313	present
-295327	present
-295345	aorist
-295350	present
-295354	present
-295368	aorist
-295385	present
-295393	present
-295407	perfect
-aorist
-295410	aorist
-295414	present
-295417	present
-perfect
-295421	aorist
-295432	future
-295434	future
-295449	aorist
-295458	aorist
-295470	present
-295482	present
-295489	present
-295514	present
-295517	present
-295520	present
-295524	present
-295527	present
-295532	present
-295534	perfect
-295549	aorist
-295554	present
-295571	present
-295582	aorist
-present
-295587	aorist
-295590	future
-295595	present
-295601	present
-present
-295607	present
-aorist
-295610	aorist
-295612	aorist
-295623	aorist
-295632	aorist
-295641	present
-295645	perfect
-295647	present
-295653	present
-295663	present
-295669	present
-295672	present
-295674	aorist
-295681	aorist
-295689	present
-295691	present
-295693	present
-295696	present
-295702	aorist
-present
-295714	aorist
-295726	aorist
-295731	perfect
-295741	present
-295744	perfect
-present
-295756	perfect
-295760	present
-295765	present
-295772	present
-295779	present
-295787	aorist
-295790	present
-295800	present
-295802	aorist
-295809	aorist
-295814	aorist
-295819	aorist
-295822	present
-295825	present
-295831	aorist
-295833	aorist
-295842	perfect
-295848	perfect
-295856	present
-295869	aorist
-aorist
-perfect
-295883	aorist
-295890	aorist
-295903	imperfect
-295908	present
-295911	present
-295919	aorist
-295934	present
-295939	present
-295943	present
-295947	aorist
-295953	aorist
-295959	aorist
-295962	aorist
-295969	present
-295972	present
-295984	aorist
-295986	present
-295991	aorist
-295999	aorist
-296001	aorist
-296006	aorist
-296016	present
-296020	aorist
-296028	present
-296129	present
-296131	present
-296133	present
-296135	aorist
-present
-296138	present
-296141	present
-296143	present
-296146	present
-296151	present
-296154	present
-296157	present
-296163	perfect
-296173	perfect
-296175	present
-296179	present
-296196	present
-aorist
-296203	present
-present
-296249	present
-present
-296252	aorist
-296257	future
-296262	future
-296264	future
-296270	future
-296275	aorist
-296282	aorist
-present
-296288	present
-296290	future
-296293	future
-296300	future
-296307	present
-296313	present
-296318	aorist
-296329	present
-296336	aorist
-296339	aorist
-296341	aorist
-296343	aorist
-296348	present
-perfect
-296359	present
-296363	aorist
-296365	present
-296378	perfect
-296382	present
-296397	aorist
-296403	perfect
-296414	present
-296421	present
-296425	aorist
-296457	aorist
-296461	present
-296485	aorist
-296489	aorist
-296497	present
-296500	imperfect
-present
-296513	aorist
-296516	present
-296519	aorist
-296522	aorist
-296526	aorist
-296535	aorist
-296554	present
-296564	present
-aorist
-296574	aorist
-296577	aorist
-296595	aorist
-296598	present
-296605	aorist
-296611	aorist
-296616	aorist
-296621	aorist
-296643	perfect
-296655	aorist
-296664	perfect
-296682	perfect
-296684	aorist
-296691	aorist
-296706	aorist
-296717	present
-present
-296732	aorist
-296734	present
-296739	present
-296743	present
-296755	perfect
-296792	aorist
-296808	present
-296819	present
-296842	aorist
-296845	aorist
-296861	aorist
-296866	aorist
-296869	aorist
-296885	present
-296916	present
-296921	present
-296941	present
-present
-296959	aorist
-296961	present
-296969	aorist
-296975	present
-296979	present
-296985	aorist
-296990	present
-aorist
-297000	aorist
-aorist
-297009	present
-297014	aorist
-297018	present
-297024	present
-297027	present
-297032	present
-297071	aorist
-297080	aorist
-297083	perfect
-297089	aorist
-297096	aorist
-297103	present
-297124	aorist
-297127	present
-297129	aorist
-297133	aorist
-297164	aorist
-297181	present
-297200	present
-297205	aorist
-297214	present
-297218	present
-297233	aorist
-297242	aorist
-297248	present
-297305	present
-297329	present
-297331	present
-297333	perfect
-297344	present
-297348	perfect
-297358	aorist
-297362	aorist
-297379	aorist
-297389	imperfect
-297391	perfect
-present
-297396	aorist
-297402	aorist
-297405	aorist
-297409	present
-297420	aorist
-aorist
-297426	aorist
-297431	aorist
-297435	perfect
-297441	present
-297455	present
-297459	future
-297462	present
-297470	future
-297473	perfect
-297489	present
-297493	present
-297501	aorist
-297513	present
-present
-297523	perfect
-aorist
-aorist
-297534	present
-297542	present
-297545	present
-297551	future
-297553	future
-297560	future
-297573	present
-297580	present
-297601	present
-present
-297612	present
-297632	present
-297678	present
-297685	present
-297713	present
-297735	present
-297737	present
-297741	present
-297745	present
-aorist
-297751	present
-aorist
-297758	present
-297764	present
-297769	present
-297774	present
-297798	present
-297804	present
-297815	present
-297832	present
-aorist
-297838	aorist
-297849	present
-297852	perfect
-297855	present
-297857	present
-297876	aorist
-297885	aorist
-297901	future
-297904	aorist
-297907	present
-297919	present
-297936	perfect
-297938	present
-297944	present
-297952	present
-297955	present
-297961	present
-aorist
-297964	aorist
-297970	present
-297977	present
-297979	present
-297983	present
-297992	future
-298004	aorist
-298010	aorist
-298020	present
-298024	present
-298032	aorist
-298048	present
-298056	present
-present
-298066	aorist
-298084	aorist
-298096	aorist
-298099	present
-298103	present
-298108	present
-298110	present
-298117	present
-aorist
+286993	present
 imperfect
-298128	present
-298130	present
-298136	aorist
-298145	aorist
-298149	present
-298157	aorist
-298166	aorist
-298190	present
-298194	present
-298197	aorist
-298202	present
-298205	aorist
-298212	aorist
-298214	present
+287102	present
 present
-298218	perfect
-298241	aorist
-298250	aorist
-298252	present
-298255	aorist
-298265	aorist
-298270	aorist
-aorist
-298281	present
-298286	aorist
-298288	aorist
-298296	aorist
-298300	aorist
-298311	aorist
-298313	future
+287496	present
 present
-298328	future
-298346	present
-298351	perfect
-298354	present
-298356	future
-298358	aorist
-298364	present
-298370	present
-aorist
-298384	present
-298399	present
-298416	present
-298427	future
-298436	present
-298440	aorist
-298442	present
-298449	aorist
-298456	aorist
-298458	present
-298463	present
-298482	present
-298489	future
-298492	present
-298497	present
+288585	present
 present
-298503	present
-298506	present
-298509	present
-298512	present
-298519	present
-298523	present
-298527	perfect
-298534	present
-298538	present
-present
-298542	present
-298545	present
-298550	present
-298555	present
-present
-present
-298585	aorist
-298587	aorist
-298589	aorist
-298591	aorist
-298598	perfect
-298676	present
-298679	present
-298681	present
-298685	present
-298687	present
-present
-298696	future
-298707	perfect
-298709	present
-298718	present
-298730	imperfect
-298736	aorist
-298745	aorist
-298752	aorist
-298758	present
-present
-298761	present
-298763	future
-298772	perfect
-298788	perfect
-298796	perfect
-298800	perfect
-aorist
-298811	perfect
-298828	perfect
-298832	perfect
-298834	aorist
-298841	aorist
-298847	present
-298849	aorist
-298855	future
-298861	future
-298871	aorist
-aorist
-298874	future
-298878	future
-present
-298886	aorist
-298890	present
-298893	present
-298909	present
-aorist
-298921	present
-298924	present
-298932	aorist
-298934	aorist
-298939	perfect
-298941	present
-298955	present
-298959	future
-298966	aorist
-298978	present
-298998	present
-299001	present
+288698	future
 perfect
-299006	aorist
-299009	imperfect
-299013	present
-299016	aorist
-299026	present
-299035	aorist
-299052	present
-299054	aorist
-299069	aorist
-299071	aorist
-299078	aorist
-299083	present
+288707	future
+perfect
+289233	future
+perfect
+289241	future
+perfect
+289263	present
+289266	perfect
+289540	imperfect
+present
+289968	present
+present
+290312	aorist
 aorist
-299090	future
-299093	present
-299101	present
-299108	present
-299119	future
-299121	future
-299132	present
-299134	present
+290474	present
 present
-299139	aorist
-299142	present
-299146	aorist
-299150	perfect
-299157	aorist
-299159	aorist
-299162	aorist
-299167	aorist
-299176	aorist
-299184	present
-299187	present
-299194	present
-299207	present
-299211	aorist
-299214	present
+290611	aorist
+present
+290891	future
+future
+291030	future
+present
+291297	imperfect
+291306	present
+present
+present
+present
+291396	present
+present
+292083	present
+present
+292115	imperfect
+292119	perfect
+292613	present
+292616	present
+292828	imperfect
+292835	present
+293250	imperfect
+present
+293328	imperfect
+293332	perfect
+293535	imperfect
+293541	present
+293970	present
+present
+294108	present
+present
+294114	present
+present
+294268	imperfect
+present
+294469	aorist
+present
+294512	present
+present
+present
+present
+294533	present
+present
+294937	imperfect
+294941	perfect
+295391	present
+present
+295608	imperfect
+present
+296040	imperfect
+present
+296140	imperfect
+present
+296469	present
+present
+296998	future
+present
+297098	future
+297102	present
+297242	imperfect
+present
+297348	present
+present
+297501	imperfect
+297505	present
+297601	imperfect
+present
+297759	imperfect
+297764	perfect
+297845	present
+present
+297857	imperfect
+297863	perfect
+297925	present
+present
+297998	imperfect
+present
+298028	imperfect
+perfect
+298257	perfect
+298262	imperfect
+298288	imperfect
+298291	present
+298394	imperfect
+298397	present
+298408	imperfect
+present
+299047	present
+present
+299053	aorist
 aorist
-299218	aorist
-299222	present
-299235	aorist
-299237	aorist
-299248	aorist
-299252	perfect
-299255	aorist
-299266	aorist
-299270	present
-299283	future
-299287	perfect
-299289	present
-299291	present
-299296	present
-299299	perfect
-299308	aorist
-299315	future
-299319	present
-299326	present
-299333	present
-299335	present
-299341	aorist
-299346	present
-299356	present
-299361	future
-299374	present
-299376	present
-299383	present
-299386	present
-299397	present
+299118	imperfect
+perfect
+299183	imperfect
+299189	present
+299356	imperfect
 present
-299401	future
-299405	present
-299407	present
-299415	aorist
-299424	aorist
-299431	present
-299437	present
-299440	present
-299453	present
-299457	present
-299461	present
-299464	present
-299474	present
+299625	imperfect
+299627	present
+299912	imperfect
+perfect
+299932	imperfect
+perfect
+299955	imperfect
 present
-299477	present
-299480	aorist
-299490	aorist
-299503	present
+300072	imperfect
 present
+300145	imperfect
 present
-299509	present
+300199	imperfect
 present
-299521	future
-299525	aorist
-299532	present
-299591	aorist
-299628	aorist
-299638	aorist
-299647	perfect
-299676	present
-299680	present
-299684	aorist
-299698	present
-299703	present
-299705	present
-299708	present
-aorist
-299727	aorist
-299732	aorist
-299735	present
-299737	perfect
-299741	present
-299745	present
-299749	aorist
-299751	present
-299755	present
-299761	present
-299763	present
-299767	imperfect
-299773	imperfect
+300214	imperfect
+perfect
+300313	future
 present
-299782	aorist
-299788	present
-299798	aorist
-299801	aorist
-299809	aorist
-299828	imperfect
-299837	imperfect
-299840	imperfect
-299862	present
-299872	aorist
-299874	aorist
-299884	aorist
-299892	aorist
-299902	present
-299911	aorist
-299916	aorist
-299930	aorist
-299936	aorist
-299946	aorist
-299950	aorist
-299953	aorist
-299967	aorist
-299980	present
-299982	aorist
-299990	present
-299992	aorist
-300007	imperfect
-300009	present
-300028	present
+300358	imperfect
+present
+300367	imperfect
+present
 imperfect
-300032	present
-300036	present
-300042	imperfect
-300044	imperfect
-300058	aorist
-300065	aorist
-300069	aorist
-300075	aorist
-300081	present
-300092	present
-300098	present
-300100	aorist
-300110	present
-aorist
-aorist
-300122	aorist
-aorist
-300130	present
-300137	future
-300143	aorist
-300155	aorist
-300163	present
 present
-300168	imperfect
-300171	present
-300179	present
-300183	present
-300185	aorist
-300188	aorist
-300190	perfect
-300205	aorist
-300214	aorist
-300224	aorist
-300229	aorist
-300237	present
-300239	present
-300242	aorist
-300266	present
-300269	aorist
-300273	aorist
-300276	aorist
-300285	aorist
-300288	perfect
-imperfect
-300294	aorist
-300304	imperfect
-300307	aorist
-imperfect
-300310	imperfect
-300312	present
-300319	aorist
-300332	aorist
-300340	aorist
-300343	present
-300353	aorist
-300363	present
-300369	present
-300374	present
-present
-300385	perfect
-300389	present
-300411	aorist
-300413	aorist
-300433	future
-300439	present
-aorist
-300444	aorist
-300455	aorist
-300459	aorist
-300462	present
-300465	present
-300472	aorist
-300475	aorist
-300477	perfect
-present
-300482	present
-300491	present
-300498	present
-300509	aorist
-300512	aorist
-300518	present
-300535	aorist
-300543	aorist
-300550	aorist
+300373	imperfect
 perfect
-300555	present
-aorist
-300568	aorist
-300577	present
-aorist
-300582	present
-300584	aorist
-300592	present
-300598	present
-300616	aorist
-300621	aorist
-300626	present
-300637	present
-300639	aorist
-300648	present
-300655	aorist
-300660	future
-300675	present
-300690	present
-300694	present
+300389	imperfect
 perfect
-300703	present
-300707	perfect
-300718	aorist
-300726	present
-300740	future
-300746	present
-300752	aorist
-300754	future
-300760	aorist
-300770	aorist
-300776	perfect
-300781	present
-300798	aorist
-300811	aorist
-300821	present
-300826	perfect
-300829	present
-300831	present
-300836	aorist
-300847	present
-300868	present
-300872	present
-300875	perfect
-300891	perfect
-300894	present
-300898	aorist
-300921	perfect
-300935	aorist
-300939	aorist
-300944	perfect
-aorist
-300960	present
-300966	present
-300981	aorist
-300984	aorist
-300987	present
-aorist
-300994	imperfect
-300999	aorist
-301019	aorist
-301021	present
-301026	aorist
-301033	imperfect
+300482	imperfect
+300485	present
+300501	present
 present
-301040	present
-301042	aorist
-301050	perfect
-301058	aorist
-aorist
-301068	present
-301074	present
-301090	aorist
-301092	aorist
-301094	present
-301099	present
-301104	present
-301113	present
-301128	present
-301133	present
-301144	present
-301146	present
-301151	present
-301156	present
-301173	imperfect
-301185	imperfect
-perfect
-301189	aorist
-301197	aorist
-301206	aorist
-301210	aorist
-301220	aorist
-301225	aorist
-301228	present
-301230	aorist
-301250	present
-301257	present
-301274	perfect
-301276	aorist
-301280	present
-301284	aorist
-301288	aorist
-301293	present
-301308	aorist
+300526	present
 present
-301311	present
-301318	present
-301323	perfect
-301327	present
-301335	present
-301339	aorist
-perfect
-301350	aorist
-301370	aorist
-301372	aorist
-301378	aorist
-301390	present
-301401	aorist
-aorist
-301408	perfect
+300596	imperfect
+300600	imperfect
+300698	imperfect
 present
-301411	present
-301416	aorist
-301418	present
-301421	present
-301424	present
-301435	present
-301445	present
-301449	aorist
-301454	imperfect
+300969	present
+300972	present
+301221	aorist
+aorist
 301456	present
-301462	aorist
-301469	present
-301473	present
-301479	present
 present
-301485	present
+301468	imperfect
 perfect
-301493	aorist
-301521	perfect
-301536	present
+301651	present
 present
-301540	present
-301554	present
-301556	present
-301564	present
-301570	present
-301577	present
-301593	present
-301595	present
-301599	perfect
-301601	aorist
-301605	present
-aorist
-301608	aorist
-301611	present
-301624	present
-301637	present
-301645	aorist
+301841	imperfect
+present
+301932	imperfect
 imperfect
-301657	present
-301661	aorist
-301675	future
-301695	present
-301708	aorist
+301989	present
 present
-301717	present
-aorist
-301721	present
-301725	present
-301729	future
-present
-301737	present
-301740	present
-301746	aorist
-aorist
-301755	present
-301759	aorist
-301769	present
-301778	present
-301787	present
-imperfect
-301792	aorist
-301795	present
-301803	present
-301813	present
-301815	perfect
-301826	future
-301829	present
-301831	future
-301837	present
-301844	present
-301847	present
-301849	perfect
-301857	aorist
-301859	future
-301861	present
-301868	aorist
-301889	present
-301902	perfect
-301906	future
-301917	present
-301919	present
-present
-301925	aorist
-present
-301929	present
-301937	aorist
-301942	present
-301960	present
-301965	present
-301967	present
-301971	present
-301973	present
-301979	present
-301988	present
-302011	present
-302014	aorist
-302020	present
-302025	future
-302034	present
-302050	present
-302062	aorist
-302073	present
-302077	present
-302079	present
 302082	present
-302084	present
-302088	aorist
-302099	present
-302108	present
-302114	aorist
-302120	present
-302123	future
-302133	present
-302135	present
-302138	present
 present
-302147	present
-302158	future
-302173	future
-present
-302177	present
-302182	present
-302189	present
-302192	present
-302196	present
-302200	future
-302203	present
-302216	future
-302220	present
-302231	future
-302239	present
-302241	present
-302246	future
-302248	present
-302253	present
-present
-302272	aorist
-302277	aorist
-302284	present
+302135	aorist
 aorist
-302290	present
-302292	present
-302303	present
-302308	present
-302311	present
-302313	present
-302315	present
-302324	aorist
-302328	aorist
-present
-302350	perfect
-302357	present
-302371	future
-302394	present
-302411	present
-302447	present
-302487	aorist
-302505	aorist
-302515	present
-302526	aorist
-302561	aorist
-302566	perfect
-302570	present
-302601	aorist
-302612	aorist
-302631	aorist
-302646	aorist
-302677	aorist
-aorist
-302687	present
-302702	present
-302712	perfect
-302724	aorist
-302745	aorist
-aorist
-302759	present
-302787	aorist
-302816	present
-present
-302822	present
-302849	aorist
-302861	perfect
-302874	perfect
-302877	present
-302913	present
-302925	present
-302942	perfect
-302948	aorist
-302954	aorist
-302981	present
-302998	present
-303001	aorist
-303011	aorist
-303021	present
-303038	present
-303041	present
-303056	aorist
-303086	present
-303104	aorist
-303117	present
-303130	imperfect
-303146	present
-303160	aorist
-303163	present
-303169	aorist
-303175	present
+302203	imperfect
 perfect
-303178	aorist
-303180	aorist
-303191	aorist
-303198	present
-303203	present
-303228	present
+302320	imperfect
 perfect
-303251	aorist
-303255	present
-303257	aorist
-303268	aorist
-303276	aorist
-303278	present
-303290	present
-303295	present
-303304	imperfect
-303314	perfect
-303334	present
-303352	present
-303354	aorist
-303367	present
-303374	aorist
-303387	aorist
-303409	aorist
-303414	aorist
-303425	present
-303428	aorist
-303445	aorist
-303453	aorist
-aorist
-303469	present
-303489	present
-303494	present
-303506	aorist
-303518	present
-303530	present
+302393	imperfect
 present
-303546	present
-303579	aorist
-303592	aorist
-303601	aorist
-303607	aorist
-303614	present
+302518	present
 present
-aorist
-303637	aorist
-303647	aorist
-303660	present
-303684	aorist
-303700	aorist
-303721	aorist
-303730	aorist
-303741	aorist
-303751	perfect
-303766	aorist
-303768	aorist
-303805	aorist
-303820	present
-303837	present
-303839	present
-303852	present
-303859	present
-303884	present
-303886	aorist
-303900	aorist
-303915	aorist
-303934	perfect
-303936	perfect
-303938	aorist
-aorist
-303957	aorist
-303962	present
-303972	aorist
-303986	present
-303991	aorist
-303994	present
-303996	present
-304003	present
-304037	present
-304049	aorist
-304054	aorist
-304065	present
-304070	present
+302828	present
 present
-304097	aorist
-304144	aorist
-304162	present
-aorist
-304167	aorist
-304169	aorist
-304176	aorist
-304178	present
-304183	aorist
-304197	aorist
-304199	present
-304203	aorist
-304212	aorist
-304218	aorist
-304265	aorist
-304310	present
-304313	present
-304315	present
-304346	present
-304351	aorist
-304359	present
-304372	present
-304374	present
-304402	present
-304414	present
-304416	present
-304422	present
-304428	present
-304439	perfect
-304443	present
+302840	present
+302844	present
+302941	imperfect
+present
+303297	future
+future
+303404	present
 perfect
-304458	present
-304474	perfect
-304476	aorist
-304495	aorist
-304502	aorist
-304507	aorist
-304509	present
-304516	aorist
-304531	present
-304541	present
-304553	aorist
-304563	aorist
-304574	aorist
-304578	present
-304589	present
-304593	present
-304596	present
-304601	present
-304608	present
-304614	present
-304616	present
-304619	present
+303580	present
 present
-304630	present
+303731	present
 present
-304634	present
-304648	present
-304661	aorist
-304664	present
-304667	present
-304681	aorist
-304698	aorist
-304707	present
-304715	present
-304726	aorist
-304728	present
-304740	present
-304750	aorist
-304753	aorist
-304780	present
-304785	present
-304795	imperfect
-304801	perfect
 present
-304812	present
-304815	present
-304830	present
-304838	present
-304857	present
-304861	imperfect
-304875	present
-304893	present
-304895	present
-304902	present
-304916	present
-304920	present
-304925	present
-304927	present
-304932	present
-304938	present
-304943	present
-304945	present
-304947	present
+303758	aorist
+aorist
+303777	future
+303785	perfect
+303922	imperfect
 present
-304950	present
-304952	aorist
-304959	future
-304964	present
-304968	present
-304975	present
-304984	present
-304989	present
-304992	present
-305003	present
-305008	present
-305011	present
-305015	present
-305024	present
-305026	present
-305035	present
-305056	present
-305077	present
-305105	present
-305124	present
-305134	aorist
-305140	aorist
-305146	aorist
-aorist
-305159	aorist
-305168	present
-305180	present
-305185	present
-305191	present
-305204	present
-305211	present
-305220	aorist
-305222	present
-305224	present
-305238	present
-305247	future
-305257	future
-305266	future
-305281	present
-305284	present
-305310	present
-305318	present
-305325	present
-305336	present
-305338	present
-305349	present
-305360	aorist
-305362	future
-305374	present
-305381	present
-305393	present
-305430	present
-305444	present
-305452	perfect
-305458	aorist
-305461	future
-305476	present
-305480	present
-305484	perfect
-305494	present
-305501	present
-305508	present
-305524	aorist
-305535	present
-305537	aorist
-305549	present
-305600	aorist
-305609	aorist
-aorist
-305622	aorist
-aorist
-aorist
-305626	aorist
-305636	aorist
-305645	aorist
-305663	aorist
-305674	future
-305685	perfect
-aorist
-305695	aorist
-305705	present
-305716	present
-305729	present
-305750	aorist
-305764	aorist
-305775	present
-305783	aorist
-305785	present
-305787	aorist
-305790	perfect
-305800	present
-305802	future
-305819	aorist
-305829	aorist
-305836	aorist
-305867	present
-305896	present
-305919	present
-305954	present
-305981	perfect
-305988	aorist
-305995	future
-306003	present
-306007	present
-306016	present
-306054	present
-306063	present
-306075	present
-306086	present
-306097	present
-306100	present
-306102	present
-306111	perfect
-306128	present
-306131	present
-306147	perfect
-306158	aorist
-306183	perfect
-306190	present
-306199	present
-306219	present
-306225	perfect
-306234	present
-306243	present
-306246	present
-306248	present
-306266	present
-306271	present
-306274	future
+304107	aorist
+present
+304156	imperfect
+present
+304201	present
 perfect
-306280	future
-306313	future
-306325	future
-306345	present
-306349	aorist
-306354	present
-306365	future
-306367	present
+304394	present
+304409	imperfect
 present
-306378	present
-306382	aorist
-306387	present
-306394	present
-306404	perfect
+304611	imperfect
 perfect
-306407	future
-306409	future
-306432	present
-306462	present
-306465	aorist
-306467	aorist
-306470	present
+305021	future
+future
+305210	future
 present
-306478	present
-306487	present
-306497	present
-306504	present
-306506	present
-306522	aorist
-306535	present
-306543	present
-306549	present
-306551	aorist
-306557	present
-306587	aorist
-306597	present
-306603	present
-306608	present
-306622	present
+305585	aorist
+aorist
+305855	imperfect
 present
-306630	present
-306639	present
-306655	present
-306658	aorist
-306660	present
-306665	aorist
-306669	aorist
-306675	aorist
-306678	aorist
-306681	aorist
-306683	aorist
-306699	aorist
-306701	aorist
-306725	aorist
-306735	aorist
-306752	aorist
-306785	present
-306788	present
-306790	present
-306796	present
-306799	present
-306806	present
-306813	aorist
-306828	perfect
-306832	present
-306841	present
-306857	aorist
-306862	aorist
-306866	present
-306880	present
-306882	present
-306893	present
-306895	present
-306897	present
-306905	aorist
-306909	present
+305920	perfect
+present
+305947	aorist
 aorist
-306919	present
-306928	future
-306936	present
-306948	present
-306956	aorist
-306965	present
-aorist
-306969	aorist
-306976	perfect
-306986	future
-306989	aorist
-307012	aorist
-307018	present
+306024	present
+present
+306104	present
+present
+306115	present
+present
+306307	future
+present
+306377	future
+present
+306487	imperfect
+306493	present
+306704	present
+present
+306976	future
+306981	present
+307061	imperfect
+307065	present
+307132	present
+perfect
+307136	imperfect
+307144	aorist
+307195	imperfect
 imperfect
-307024	present
-307026	aorist
-307028	aorist
-307031	aorist
-307039	aorist
-307056	aorist
-307059	aorist
-307062	aorist
-307065	aorist
-307068	present
-present
-307085	present
-307097	aorist
-aorist
-307103	aorist
-307123	present
-307130	present
-307139	present
-307143	present
-307149	present
-307155	present
-307163	present
-307165	present
-307175	perfect
-307178	present
-307188	present
-307190	perfect
-307218	present
-307230	aorist
-307234	imperfect
-307238	perfect
-307250	present
-307253	present
-307258	present
-307276	aorist
-307278	present
-307282	aorist
-307284	aorist
-307289	present
-307320	aorist
-307338	present
-307346	aorist
-307360	aorist
-307363	perfect
-present
-307368	aorist
-307373	aorist
-307382	present
+307366	imperfect
 perfect
-307390	present
-307395	present
-307399	present
-307424	present
-307429	present
-307437	future
-307442	aorist
-307446	present
-307450	present
-307453	present
-307456	present
-307458	present
-307463	present
-307466	imperfect
-307471	present
+307391	imperfect
 present
-307513	present
-307523	present
-307529	present
-307534	future
-307562	present
-307565	aorist
-307584	present
-307590	present
-307593	present
-307597	present
-307602	present
-307609	present
-307617	aorist
-307641	present
-307647	future
+307397	imperfect
+perfect
+307517	imperfect
 present
-307654	aorist
-307663	present
-307683	present
-307697	present
-307701	future
-307722	present
-307742	present
-307745	aorist
-307747	aorist
-307749	aorist
-307751	aorist
-307756	present
-307765	future
-307769	aorist
-307778	aorist
-307783	present
-307788	imperfect
+307678	present
 imperfect
-307796	present
-307799	aorist
-307803	present
-307805	present
-perfect
-307808	present
-perfect
-307811	present
-307819	perfect
-307821	present
-307823	present
-307825	present
-307827	present
-307829	present
-307833	present
-307837	aorist
-aorist
-307844	perfect
-307859	aorist
-307867	aorist
-307897	aorist
-307900	present
-307905	present
-307910	present
-307916	present
-307920	present
-perfect
-aorist
-307948	future
-307991	aorist
-307999	present
-308008	present
-308083	present
-308100	present
-aorist
-308117	present
-308131	present
-308139	aorist
-308153	present
-308168	present
+307711	perfect
 present
-308171	present
-308183	aorist
-308185	aorist
-308197	aorist
-308209	present
-308223	aorist
-308245	aorist
-308247	present
-308251	present
-308253	present
-308255	aorist
-308274	aorist
-308291	present
-308293	present
-308306	present
-308328	present
-308333	aorist
-308354	aorist
-308366	aorist
-308385	present
-308397	present
-308416	aorist
-308457	perfect
-308460	present
-308471	perfect
-308474	present
-308486	present
-308496	aorist
-308501	present
-308506	aorist
-308512	aorist
-308517	aorist
-308524	aorist
-308558	present
-perfect
-308576	aorist
-308593	aorist
-308605	present
-308609	perfect
-308614	present
-308625	aorist
-308627	aorist
-308642	aorist
+307822	imperfect
+307828	present
+307883	imperfect
+307890	present
+308033	imperfect
+308036	present
+308080	present
+present
+308141	present
+present
+308223	present
+present
+308271	imperfect
+308280	present
+308397	perfect
+present
 308647	present
-308657	present
-308684	present
-308690	aorist
-308703	aorist
-308708	aorist
-308720	perfect
-308734	aorist
-308741	aorist
-308745	aorist
-308766	present
-308781	present
-present
-308787	present
-308797	aorist
-308809	present
-present
-308819	present
-308826	present
-308829	perfect
-308833	present
-308846	perfect
-308856	aorist
-308862	aorist
-308895	present
-308909	present
-308913	present
-308924	present
-308932	present
-present
-308935	present
-308957	aorist
-308968	present
 perfect
-308971	present
-308976	present
-308981	aorist
-present
-308986	present
-308990	future
-308992	present
-309030	present
-309043	present
-309047	perfect
-309049	present
-309063	aorist
-309089	aorist
-309100	aorist
-309115	aorist
-309123	present
-309137	aorist
-309142	aorist
-309149	aorist
-309162	imperfect
-309168	perfect
-309174	aorist
-309179	aorist
-309187	aorist
-309191	aorist
-309200	present
-309219	present
-309223	present
-309233	present
-present
-309245	perfect
-present
-309248	present
-309262	present
-309281	present
-309283	present
-present
-309293	aorist
-309308	present
-309312	present
-309314	aorist
-309316	aorist
-309318	aorist
-309320	present
-309342	present
-309346	present
-309372	aorist
-309379	present
-309385	present
-309393	present
-309397	present
-309406	aorist
-309414	perfect
-309429	aorist
-309442	future
-309446	aorist
-309469	present
-309474	present
-309488	aorist
-309491	imperfect
-309497	aorist
-309517	present
-309521	aorist
-309535	aorist
-309540	present
-309549	aorist
-309553	present
-309571	aorist
-309583	perfect
-309591	present
-309594	present
-309601	present
-309609	aorist
-309625	present
-309639	present
-309651	aorist
-309659	present
-309667	present
-309677	present
-309679	present
-309691	present
-309708	present
-309723	present
-309734	present
-309739	imperfect
-309746	present
-309752	present
-309759	present
-309769	present
-309777	present
-309785	present
-309789	present
-309812	present
-309818	present
-309822	present
-309832	perfect
-309837	future
-309849	present
-309852	present
-future
-309855	aorist
-309858	present
-309873	present
+308662	imperfect
+308665	present
+308671	imperfect
 perfect
-309879	present
-309887	present
-present
-309895	present
-309906	aorist
-309913	aorist
-309925	perfect
-309927	aorist
-309930	present
-309932	aorist
-309936	present
-309945	present
-309956	perfect
+308694	present
 perfect
-309959	present
-309964	present
-309972	future
-309991	aorist
-310001	aorist
-310008	aorist
-310025	present
-310032	future
-310036	present
-310054	aorist
-310057	aorist
-310061	aorist
-310066	present
-310069	present
-310087	aorist
-310090	present
-310103	present
-310113	aorist
-310116	perfect
-310126	present
-310130	present
-310149	present
-310161	aorist
-310183	aorist
-310190	aorist
-310201	aorist
-310212	aorist
-310214	aorist
-310216	present
-310221	aorist
-310227	present
-310238	present
-310273	present
-310284	present
-310293	present
-310336	perfect
-310339	perfect
-310357	aorist
-310383	perfect
-310385	aorist
-310397	aorist
-310402	aorist
-310419	aorist
-310426	present
-310442	perfect
-310477	perfect
-310481	present
-310483	present
-310490	present
-310494	aorist
-310500	aorist
-310511	present
-310514	present
-310518	present
-310530	aorist
-310538	present
-310546	present
-310549	perfect
-310564	perfect
-310566	aorist
-310568	aorist
-310570	perfect
-310574	aorist
-310582	aorist
-310618	perfect
-310624	aorist
-310629	present
-310633	present
-310637	present
-310651	aorist
-310653	perfect
-310663	present
-310676	present
-310680	present
-310686	aorist
-310696	present
-310703	present
-310705	present
-aorist
-310729	aorist
+308703	perfect
 present
-310745	present
-310750	aorist
-310754	aorist
-310780	present
+308744	perfect
 aorist
-310783	perfect
-310795	present
-310798	present
-310800	present
-310804	present
-310811	present
-310829	present
-310835	aorist
-310847	aorist
-310855	present
-310861	present
-310866	present
-310871	aorist
-310881	present
-310895	aorist
-310920	aorist
-310928	aorist
-310932	present
-310938	present
-310943	aorist
-310945	aorist
-310949	aorist
-310956	aorist
-310970	aorist
-310985	aorist
-310991	aorist
-310998	aorist
-aorist
-311011	aorist
-311049	present
-311061	present
-aorist
-aorist
-311069	aorist
-311095	aorist
-311098	aorist
-311108	present
-311118	perfect
-311123	present
-311130	imperfect
-imperfect
-311134	present
+308794	present
 present
-311138	aorist
-311140	perfect
-311146	present
-aorist
-311151	aorist
-311159	aorist
-311162	present
-311167	aorist
-311175	aorist
-311184	aorist
-311197	present
-311204	present
-311206	aorist
-311215	aorist
-311240	present
-311243	present
-311251	present
-311255	aorist
-311267	present
-311282	present
-311286	aorist
-311293	aorist
-311320	aorist
-311334	aorist
-311336	aorist
-311358	aorist
-311402	present
-311405	present
-311412	aorist
-311418	present
-311420	present
-311422	present
-311426	present
-311428	present
-311430	perfect
-311435	aorist
-311445	present
-311456	present
-311463	perfect
-311472	present
-311492	perfect
-311498	present
-311500	present
-311521	aorist
-311524	aorist
-311527	aorist
-311541	present
-311544	present
-311551	present
+309843	present
+perfect
+309983	present
+perfect
+310181	present
+perfect
+310814	present
+present
 311572	present
-present
-311580	present
-311584	present
-311588	present
-311605	present
-311609	present
-311612	present
-present
-311615	present
-311620	present
-311628	aorist
-311630	present
-311641	present
-311643	present
-311646	present
-311651	present
-311654	present
-311663	present
-311667	present
-311670	aorist
-311672	aorist
-311679	aorist
-311685	future
-311692	present
-311701	present
-311703	present
-311716	aorist
-311718	aorist
-311739	future
-311751	future
-311756	present
-311758	present
-311763	future
-311784	future
-311786	present
-311808	present
-311810	present
-311814	perfect
-311825	present
-311827	present
-311835	present
-311845	present
-311850	aorist
-311855	present
-311866	aorist
-311874	present
-311880	present
-311887	present
-311893	present
-311895	present
-311898	present
-311900	present
-311903	present
-311905	present
-311909	present
-present
-aorist
-311925	aorist
-311949	aorist
-311955	present
-311957	present
-311962	aorist
-311964	present
-311967	present
-311974	present
-present
-311979	perfect
-311981	present
-311986	present
-311992	present
-311995	present
-312008	present
-312012	present
-312016	present
-312020	present
-312024	present
-312028	present
-312032	present
-312040	aorist
-312046	present
-312055	present
-312057	present
-312061	present
-312078	present
-312081	present
-312084	present
-312088	present
-312096	present
-312107	aorist
-312140	aorist
-312143	present
-312147	future
-312149	present
-312153	aorist
-312164	present
-312169	aorist
-312225	present
-present
-312237	present
-312239	present
-312246	present
-312269	present
-312303	present
-312318	aorist
-312331	present
-312337	aorist
-312339	present
-312345	present
-312378	present
-312382	perfect
-312387	present
-312400	future
-312424	aorist
-aorist
-312434	aorist
-312440	aorist
-312442	aorist
-312462	present
-312469	aorist
-312479	aorist
-312493	aorist
-312527	present
-312557	aorist
-312565	present
-312586	perfect
-312597	aorist
-312606	aorist
-312612	aorist
-312628	present
-312630	present
-312635	present
-312650	aorist
-present
-312654	present
-312657	present
-312660	present
-312665	imperfect
-312670	present
 perfect
-312675	aorist
-312690	present
-312696	present
-312702	aorist
-312705	future
-312714	future
-312725	future
-312737	present
-312768	present
-312780	aorist
-312784	aorist
-312790	present
-312801	aorist
-312807	aorist
-312812	aorist
-312817	aorist
-312823	present
-present
-312834	perfect
-312839	aorist
-312863	aorist
-312888	present
-312890	present
-312895	aorist
-312926	aorist
-312929	aorist
-312940	aorist
-312947	aorist
-312960	present
-312973	present
-312975	present
-312984	aorist
-313002	present
-313007	future
-313010	future
-313016	perfect
-313026	present
-313028	present
-313030	future
-313035	aorist
-313060	present
-313073	present
-313082	present
-313091	aorist
-313097	perfect
-313099	present
-present
-313104	aorist
-313111	aorist
-313124	present
-313129	aorist
-313136	present
-313142	aorist
-313147	present
-313152	imperfect
-313157	imperfect
-313163	present
-present
-313166	present
-present
-313170	present
-313176	present
-313178	present
-313183	present
-313185	present
-313195	present
-313201	present
-313206	aorist
-present
-313212	present
-313225	present
-313227	present
-313230	aorist
-313235	present
-313237	present
-313250	aorist
-313282	present
-313290	present
-313353	aorist
-313355	aorist
-313359	present
-313364	aorist
-313367	present
-313369	present
-313377	present
-313396	present
-313414	aorist
-aorist
-313419	present
-present
-313423	present
-313426	present
-313431	present
+311619	imperfect
+311622	present
+312202	present
 perfect
-313443	present
+312217	imperfect
+312220	perfect
+312559	imperfect
 perfect
-313450	present
-313478	present
-313481	present
-313498	aorist
-313501	present
-313503	aorist
-313515	aorist
-aorist
-313523	present
-313530	aorist
-313532	present
-aorist
-313537	aorist
-313572	aorist
-313579	aorist
-313583	present
-313589	aorist
-313595	aorist
-313608	present
+312664	imperfect
 present
-313649	present
-313658	present
-313664	present
-313673	present
-313681	aorist
-313687	aorist
-313689	present
-313694	aorist
-313699	aorist
-313701	present
-present
-313707	present
-313727	present
-313734	present
-313758	present
-aorist
-313766	aorist
-313782	aorist
-313797	aorist
-313803	present
-313805	present
-313815	present
-313817	present
-313826	present
-313847	present
-313864	present
-313867	present
-313877	present
-313883	present
-313887	present
-313889	present
-313892	present
-313899	aorist
-313905	aorist
-313910	aorist
-313914	perfect
-future
-313923	aorist
-313941	present
-313945	present
-present
-313952	present
-313978	present
-313980	present
-313997	aorist
-313999	perfect
-314004	future
-314009	aorist
-314014	aorist
-314018	present
-314024	present
-314035	aorist
-314052	present
-314056	present
-314073	present
-314076	present
-314078	present
-314092	present
-314100	present
-314110	aorist
-314115	present
-314131	present
-present
-aorist
-314140	present
-314142	perfect
-314144	present
-314150	present
-314152	present
-314157	present
-314168	present
-314177	aorist
-314181	aorist
-314185	aorist
-314187	aorist
-314191	aorist
-314195	aorist
-314204	present
-314211	future
-314216	present
-314230	perfect
-314236	present
-present
-present
-314244	aorist
-314257	perfect
-314274	present
-present
-314285	present
-314291	future
-314296	present
-314311	perfect
-314320	present
-present
-314336	present
-314346	present
-314349	present
-314357	present
-314372	present
-314374	present
-314376	perfect
-314381	present
-314383	present
-314392	present
-314395	present
-314402	present
-314406	present
-314426	present
-present
-314438	present
-314447	aorist
-314464	present
-314468	present
-314476	present
-314478	present
-314484	present
-314488	present
-314491	future
-314494	present
-314498	aorist
-314500	present
-314522	present
-314536	present
-present
-314544	present
-314547	present
-314553	present
-314567	perfect
+313211	perfect
 perfect
-314573	present
-314586	present
-present
+313399	present
 perfect
-314592	present
-314595	present
-314607	present
-314611	perfect
-314613	present
-314617	present
-314625	perfect
-314636	present
-314638	aorist
-314640	aorist
-314645	aorist
-314647	present
+313618	present
+313621	perfect
+313651	present
+perfect
+313853	imperfect
+313859	perfect
+present
+313902	imperfect
+313905	perfect
+present
+313951	imperfect
+present
+314130	imperfect
+perfect
+314201	imperfect
+perfect
+314223	imperfect
+perfect
+314460	imperfect
+perfect
+314739	present
+perfect
+314996	present
+present
+315075	present
+imperfect
+315115	imperfect
+present
+315135	imperfect
+present
+315179	perfect
+imperfect
+315225	aorist
 aorist
-314655	aorist
-314660	present
-314663	aorist
-314667	present
+315298	imperfect
 present
-present
-314677	aorist
-314683	present
-present
-314698	present
-314701	present
-present
-314705	present
-present
-present
-314711	present
-314713	present
-314720	aorist
-314730	present
-314732	present
-314736	present
-314746	aorist
-314751	perfect
-314756	present
-314759	present
-314765	present
-314772	present
-314774	future
-314790	present
-314802	present
-314806	present
-314814	present
-present
-314832	aorist
-314837	present
-314844	present
-314846	present
-314852	present
-314854	present
-314859	present
-314881	present
-present
-314889	present
-314904	present
-aorist
-314907	present
-314909	present
-314924	present
-314938	present
-314943	present
-314946	present
-314949	present
-314952	present
-314955	present
-314962	present
-314964	present
-314966	present
-314969	present
-314972	present
-314974	present
-314993	perfect
-314995	present
-314997	present
-315006	present
-315016	perfect
-315022	perfect
-315026	present
-315028	present
-315032	present
-315046	aorist
-315054	aorist
-315056	present
-present
-315063	future
-315066	present
-present
-present
-315083	present
-315100	present
-315106	present
-aorist
-315115	aorist
-315127	present
-present
-315136	present
-315146	aorist
-315155	aorist
-315157	aorist
-315168	present
-315175	present
-315183	aorist
-315193	aorist
-315218	future
-315231	present
-315236	present
-315241	present
-315245	present
-315248	aorist
-315253	aorist
-present
-315273	present
-315275	present
-315277	perfect
-315288	present
-315295	present
-present
-315303	present
-315305	present
+315310	imperfect
 315313	present
-315315	aorist
-315327	aorist
+315381	perfect
 present
-315344	present
-315350	aorist
-315400	present
-315405	present
-315416	present
-315434	present
-315436	aorist
+315565	aorist
+aorist
+315618	present
+present
+315709	imperfect
+present
+315917	present
 perfect
-315445	aorist
-315448	aorist
-315459	aorist
-315476	perfect
-315489	present
-315491	present
-315500	present
-315517	aorist
-315533	aorist
-315551	aorist
-315561	aorist
-315564	aorist
-315585	aorist
-315596	aorist
-315613	aorist
-315618	aorist
-315631	aorist
-315646	present
-315649	present
+315949	aorist
+aorist
+316218	present
+present
+316235	aorist
+aorist
+316367	imperfect
 perfect
-315653	perfect
-315655	perfect
-315658	present
-315664	aorist
-315674	present
-315676	present
-315682	aorist
-315699	aorist
-315706	present
-315710	perfect
-315713	aorist
-315725	present
-315729	aorist
-315742	aorist
-315750	aorist
-315752	aorist
-315757	aorist
-315760	aorist
-aorist
-315766	aorist
-315783	aorist
-315786	present
-315792	present
-315806	aorist
-315816	aorist
-315822	future
-315826	aorist
-aorist
-315837	present
+316423	present
 present
-315848	aorist
-aorist
-315853	present
-315856	present
-315860	aorist
-315864	present
-315866	present
-315871	present
-present
-315874	present
+316693	present
+316697	perfect
+317078	future
 future
-315885	present
-315891	perfect
-315910	present
-315925	perfect
-315930	present
-315941	aorist
-315959	aorist
-315961	future
-315963	present
-315965	future
-315967	future
-315969	future
-315972	present
-315975	present
-aorist
-315980	present
-315982	present
+317197	aorist
+317200	aorist
+317633	imperfect
 present
-315990	present
-316001	present
-aorist
-316006	aorist
-316014	present
-316028	present
-316034	future
-316046	future
-316048	present
-316058	aorist
+317755	imperfect
 present
-316062	perfect
-316064	present
-316080	perfect
-present
-316087	aorist
-316090	present
-316093	aorist
-316100	present
-316113	present
-316141	aorist
-316146	future
-316155	perfect
-316168	perfect
-316175	present
-present
-316185	present
-316202	present
+317780	imperfect
+317784	perfect
 perfect
-316205	present
-316212	present
+imperfect
+317875	aorist
+aorist
+317915	imperfect
 present
-316217	present
-316226	present
-316228	present
-316231	aorist
-316243	aorist
-316253	perfect
-316266	present
-316273	future
-316277	future
-316300	perfect
-316305	present
-316315	perfect
-316319	present
-316324	present
-316326	present
-316333	present
-316337	perfect
-316339	present
-316344	present
-316352	aorist
-present
-316361	aorist
-316366	present
-316373	perfect
-316386	future
-316397	future
-316405	aorist
-316408	aorist
-316440	aorist
-316453	aorist
-316459	aorist
-316469	present
-present
-316476	future
-316483	future
-316489	present
-316491	present
-316494	present
-316498	aorist
-316500	aorist
-perfect
-316505	aorist
-316514	perfect
-316516	present
-316518	aorist
-316557	present
-316572	perfect
-present
-316583	present
-present
-present
-316600	aorist
-316604	aorist
-316608	aorist
+318084	imperfect
+318087	present
 aorist
 aorist
-316618	future
-316625	present
-316628	future
-316638	future
-316640	present
-316654	future
-316661	future
-316664	present
-316668	aorist
-316671	aorist
-316678	aorist
-316682	present
-316693	perfect
-316699	perfect
-316703	perfect
-316707	perfect
-316709	present
-316719	future
-316747	perfect
-316753	aorist
+318253	imperfect
+318256	present
+present
+318265	imperfect
+imperfect
+318495	aorist
 aorist
-316762	aorist
+318594	imperfect
+present
+318619	present
+present
+318638	imperfect
+318641	present
+318758	aorist
 aorist
-316770	aorist
-316783	present
-316789	aorist
-present
-316794	present
-316803	aorist
-316811	imperfect
-316818	present
-present
-316837	aorist
-future
-316854	present
-316857	aorist
-316874	aorist
-316878	aorist
-316881	aorist
-316887	aorist
-316889	aorist
-316898	aorist
-316900	aorist
-316907	aorist
-316913	future
-316926	future
-316952	aorist
-316963	aorist
-316969	imperfect
-316973	present
-aorist
-316978	aorist
-present
-317043	aorist
-317054	aorist
-317068	aorist
-317108	imperfect
-317115	present
-aorist
-317118	aorist
-317126	aorist
-317129	present
-317139	present
-317149	present
-317156	present
-317183	present
-317197	present
-317199	present
-317206	present
-317209	present
-present
-present
-317228	present
-present
-317234	present
-present
-317238	present
-317244	aorist
-317269	present
-317276	present
-317280	present
-317287	present
-317296	present
-317308	perfect
-317314	perfect
-317326	present
-perfect
-317332	present
-317334	present
-317349	present
-317351	present
-317355	present
-317359	present
-317362	present
-317385	perfect
-317388	present
-317393	present
-317399	present
-317414	present
-317419	present
-present
-317425	present
-317449	aorist
-317452	present
-present
-317462	present
-317467	present
-317469	present
-317471	present
-317477	present
-317491	present
-317495	aorist
-317509	present
-317512	aorist
-317527	aorist
-317535	present
-317559	aorist
-317565	aorist
-317573	aorist
-317584	present
-317586	present
-317588	present
-317596	present
-present
-317601	present
-present
-317611	present
-317613	present
-317615	present
-317619	present
-317626	imperfect
-317634	present
-present
-317646	present
-317648	present
-317660	aorist
-317677	aorist
-317687	aorist
-317701	aorist
-317716	aorist
-317723	aorist
-317739	present
-317741	present
-317743	present
-317747	present
-317749	perfect
-317752	present
-317771	present
-present
-317787	present
-perfect
-317790	perfect
-317795	present
-present
-317799	future
-317806	aorist
-aorist
-317816	perfect
-aorist
-317825	aorist
-317829	present
-present
-317840	present
-317850	present
-317852	present
-317861	aorist
-317863	present
-317930	present
-317940	present
-317948	present
-317959	present
-317985	aorist
-318005	aorist
-318023	perfect
-318036	present
-present
-318040	present
-318047	present
-318049	present
-318062	present
-318073	aorist
-318098	aorist
-318102	present
-318110	imperfect
-318114	present
-318120	present
-318139	aorist
-aorist
-318153	present
-318163	aorist
-318170	present
-318200	present
-318202	aorist
-318209	aorist
-318212	present
-318215	present
-318218	aorist
-318225	future
-318228	present
-318235	present
-318240	aorist
-318244	aorist
-318253	perfect
-318259	aorist
-318261	perfect
-318268	present
-future
-318274	present
-318277	present
-318287	future
-318289	present
-318334	aorist
-318352	aorist
-318358	aorist
-318366	aorist
-318371	present
-318385	present
-318404	aorist
-aorist
-318418	aorist
-318428	perfect
-318433	aorist
-318441	present
-318445	perfect
-318450	future
-318457	future
-318465	aorist
-318474	present
-318476	aorist
-318490	present
-318492	present
-318546	aorist
-318549	aorist
-318554	aorist
-318583	aorist
-318592	present
-318597	future
-318600	present
-318605	future
-318609	future
-318614	future
-318620	present
-318628	future
-318637	perfect
-318639	present
-318647	aorist
-318662	present
-318670	present
-318674	present
-present
-318680	present
-318682	present
-318685	aorist
-318688	aorist
-318697	aorist
-318699	aorist
-318707	aorist
-318713	future
-318716	aorist
-318720	aorist
-present
-318730	aorist
-318734	aorist
-present
-318763	aorist
-318768	present
-318772	present
-aorist
-318777	present
-318779	present
-318782	present
-318789	present
-318791	aorist
-318802	aorist
-318805	aorist
-318817	aorist
-318823	aorist
-318830	present
-318835	perfect
-318844	perfect
-present
-318859	perfect
-318867	aorist
-318869	imperfect
+318858	imperfect
+318862	present
 318891	aorist
-318904	aorist
-318908	present
-318911	present
-318923	present
-318926	present
+aorist
+319172	imperfect
 present
-future
-318944	future
-318950	future
+319187	imperfect
+319190	present
+319279	imperfect
 perfect
-318957	aorist
-318965	aorist
-318974	perfect
-318982	aorist
-318992	aorist
-318998	present
-319003	present
-319008	aorist
-319019	present
-319022	imperfect
-319028	present
-319033	present
-319035	imperfect
-319042	aorist
-319046	aorist
-319060	present
-319072	perfect
-319074	aorist
 present
-319077	present
-aorist
-319088	aorist
-319103	present
-319105	aorist
-319128	perfect
-319135	present
-319140	aorist
-319146	present
-319153	aorist
-319176	future
-319192	present
-319210	aorist
-319213	present
-319228	aorist
-319230	present
-319257	aorist
-319267	aorist
-319277	aorist
-319284	aorist
-319286	present
-319293	aorist
-319300	aorist
-319309	future
-319317	present
-319321	future
-319335	aorist
-319340	present
-319342	present
-319355	present
-319358	aorist
-319375	perfect
-319388	aorist
-319392	present
-319400	aorist
-319402	present
-319416	aorist
-aorist
-319423	aorist
-319432	aorist
-319438	aorist
-319444	aorist
-319452	aorist
-319454	future
-319465	aorist
-319467	present
-319470	aorist
-aorist
-319475	aorist
-319479	present
-319481	aorist
-319489	present
-319495	perfect
-319499	present
-perfect
-319505	aorist
-319515	perfect
-319520	aorist
+319335	imperfect
 present
-319529	aorist
-319531	perfect
-319533	aorist
-319542	future
-319559	aorist
-perfect
-319570	aorist
-319598	future
-319608	present
-319610	aorist
-319617	aorist
-319619	aorist
-319626	present
-319632	present
-319639	perfect
-319647	aorist
-319649	present
-319659	aorist
-319666	imperfect
-319672	present
-319683	aorist
-319694	aorist
-319711	aorist
-319713	aorist
-319732	aorist
-319736	present
-319758	present
-319780	present
-319790	perfect
-319803	present
-319809	perfect
-319821	present
-319828	present
-319831	present
-aorist
-319838	perfect
-319849	present
-319862	aorist
-319866	aorist
-319880	present
-319884	present
-319893	present
-319901	present
-present
-319904	present
-319906	present
-319911	present
-319917	present
-319930	present
-319938	present
-319943	present
-319961	aorist
-aorist
-319966	aorist
-319973	present
-319977	perfect
-319985	present
-320019	present
-present
-320032	aorist
-320034	aorist
-320041	present
-320043	aorist
-320047	aorist
-320052	aorist
-aorist
-320057	present
-320064	aorist
-320089	present
-320092	perfect
-320098	present
-present
-320109	present
-320111	present
-320130	perfect
-320133	present
-320144	present
-320153	present
-320156	present
-320171	perfect
-present
-320182	aorist
-320199	present
-320204	present
-320234	future
-320236	present
-320244	aorist
-aorist
-320257	aorist
-320264	aorist
-320272	present
-320275	aorist
-320277	present
-320281	present
-320291	present
-320295	aorist
-320302	present
-320306	present
-320315	present
-present
-320323	present
-320341	perfect
-320351	present
-320356	present
-320363	aorist
-320374	aorist
-320382	aorist
-320387	present
-present
-320397	present
-320414	aorist
-320424	present
-320432	aorist
-320441	imperfect
-320443	aorist
-aorist
-320448	present
-320451	present
-future
-320455	present
-future
-320460	aorist
-aorist
-320472	present
-320490	present
-320494	aorist
-320511	aorist
-320525	aorist
-320530	present
-320532	aorist
-aorist
-320537	present
-320545	present
-320554	present
-320569	aorist
-320579	aorist
-320603	aorist
-320605	present
-320616	aorist
-320625	aorist
-320629	present
-320641	present
-320657	present
-perfect
-320667	present
-320674	present
-320681	aorist
-320703	present
-320705	present
-present
-320716	present
-320723	perfect
-320734	present
-320738	perfect
-320742	present
-320746	perfect
-320761	present
-320767	present
-320769	present
-320772	present
-320774	present
-320778	aorist
-320787	present
-perfect
-320800	imperfect
-320802	aorist
-320816	imperfect
-320824	perfect
-320837	present
-320848	present
-present
-320862	present
-320867	present
-320872	perfect
-320877	perfect
-320887	perfect
-320903	aorist
-320909	present
-320918	present
-320931	perfect
-320940	present
-320961	present
-320963	present
-320976	aorist
-320989	present
-321008	present
-321010	perfect
-321019	present
-321023	aorist
-321027	future
-321044	perfect
-321053	present
-perfect
-321060	present
-present
-321067	present
-321075	present
-321081	present
-321087	present
-321089	present
-321097	present
-321101	present
-321110	imperfect
-321116	perfect
-321127	aorist
-321130	present
-321149	present
-321158	aorist
-321161	aorist
-321167	present
-321169	present
-321192	perfect
-321199	present
-321202	present
-321205	aorist
-321236	aorist
-321250	present
-321255	present
-321258	present
-321264	aorist
-321268	imperfect
-321274	imperfect
-321276	present
-321278	present
-321290	present
-321295	perfect
-321297	present
-present
-321302	present
-321304	present
-future
-321313	aorist
-321324	perfect
-321331	present
-321340	perfect
-321348	imperfect
-321354	imperfect
-321356	present
-321359	present
-aorist
-321362	present
-present
-321366	future
-321392	aorist
-321401	aorist
-321408	aorist
-321418	aorist
-321427	aorist
-321429	present
-321437	future
-321450	present
-321452	present
-321469	future
-321472	future
-321479	future
-321488	aorist
-321502	present
-aorist
-321509	future
-321521	future
-321536	aorist
-321541	present
-321543	perfect
-321550	present
-321552	present
-321556	imperfect
-321576	aorist
-321600	present
-321613	present
-321619	present
-321630	perfect
-321640	present
-321651	aorist
-321668	present
-321676	present
-321678	present
-321685	perfect
-321697	present
-321704	present
-321726	present
-321739	present
-321748	perfect
-321762	present
-321772	perfect
-321780	present
-321782	present
-321786	aorist
-321788	present
-321808	present
-321811	aorist
-321817	aorist
-321833	present
-321856	aorist
-321866	aorist
-321880	present
-321882	perfect
-present
-321910	aorist
-321915	future
-321929	present
-321932	present
-321942	present
-321945	aorist
-321965	aorist
-321967	perfect
-321979	present
-321981	aorist
-321991	present
-321993	present
-321995	aorist
-322004	perfect
-aorist
-322023	aorist
-322056	aorist
-present
-322067	aorist
-322093	aorist
-322100	present
-322111	present
-322128	present
-322148	aorist
-322165	aorist
-322179	present
-322185	present
-322200	imperfect
-322203	aorist
-322233	perfect
-322238	present
-322243	aorist
-322256	aorist
-322262	aorist
-322270	future
-322273	present
-322280	present
-322287	present
-322309	present
-322316	present
-322318	present
-aorist
-322323	aorist
-present
-322329	present
-322335	present
-322337	perfect
-322355	present
-322358	present
-322364	present
-322369	aorist
-322372	aorist
-322380	aorist
-322382	aorist
-aorist
-present
-322390	perfect
-322395	aorist
-322405	present
-322417	aorist
-322419	aorist
-322424	present
-322426	perfect
-aorist
-present
-322430	aorist
-322436	present
-322444	aorist
-322451	perfect
-present
-322471	perfect
-322475	present
-322482	present
-322486	present
-aorist
-322496	aorist
-322503	aorist
-322514	present
-322516	aorist
-322533	perfect
-322540	present
-present
-322557	perfect
-322563	future
-322574	present
-322576	present
-322594	future
-322611	future
-322624	present
-322646	aorist
-322652	present
-322659	present
-322678	present
-322689	perfect
-322699	perfect
-322706	present
-322718	aorist
-322720	present
-322732	present
-322742	present
-322748	present
-present
-322755	present
-322760	aorist
-322772	present
-322787	present
-present
-322792	aorist
-322807	present
-322809	present
-322812	future
-322822	aorist
-322832	aorist
-322836	aorist
-322845	aorist
-perfect
-322849	aorist
-322853	future
-322856	future
-322865	aorist
-322872	present
-present
-322883	aorist
-322888	aorist
-322896	present
-322903	present
-aorist
-322911	aorist
-322920	present
-322925	aorist
-present
-present
-322933	present
-322935	aorist
-322943	present
-322950	present
-322960	aorist
-aorist
-322972	present
-future
-322976	future
-322986	future
-322989	aorist
-322991	present
-323003	present
-323017	present
-323021	present
-323028	present
-323033	aorist
-323038	present
-perfect
-323052	present
-323054	present
-perfect
-323065	aorist
-323072	aorist
-present
-323075	present
-323090	aorist
-323092	present
-323095	aorist
-323098	aorist
-323102	imperfect
-323104	aorist
-323115	perfect
-perfect
-323125	aorist
-aorist
-323128	present
-323130	present
-323135	present
-323138	present
-323141	present
-323143	aorist
-323149	present
-aorist
-aorist
-323165	aorist
-323178	aorist
-323181	present
-323183	aorist
-aorist
-323189	imperfect
-present
-323195	aorist
-323197	present
-323199	present
-323201	aorist
-323215	aorist
-323232	imperfect
-323240	present
-323262	aorist
-323272	aorist
-323274	aorist
-323281	aorist
-323285	perfect
-323319	aorist
-323324	aorist
-323331	aorist
-323333	aorist
-323335	aorist
-323340	present
-323349	present
-present
-323353	present
-323358	imperfect
-323362	aorist
+319382	imperfect
 imperfect
+319884	imperfect
+perfect
+319944	aorist
+aorist
+319989	aorist
+aorist
+320000	present
+imperfect
+320170	imperfect
+perfect
+320544	present
+present
+320689	imperfect
+perfect
+320715	imperfect
+320720	present
+320824	present
+present
+320995	present
+present
+321120	present
+present
+321291	present
+present
+present
+321443	imperfect
+present
+321606	imperfect
+perfect
+321614	imperfect
+imperfect
+321716	present
+present
+321723	imperfect
+imperfect
+321797	imperfect
+321804	present
+321846	present
+present
+321871	imperfect
+imperfect
+321930	present
+present
+322000	imperfect
+322003	perfect
+322047	present
+present
+322161	imperfect
+perfect
+322205	perfect
+imperfect
+322475	imperfect
+present
+322757	imperfect
+perfect
+322806	present
+perfect
+322929	present
+present
+323036	perfect
+aorist
+323059	imperfect
+present
+present
+323076	imperfect
+323144	imperfect
+perfect
+323278	aorist
+aorist
 323366	aorist
-323370	present
-323372	present
-323376	present
-323383	present
-323385	aorist
-323390	perfect
-323395	present
-323400	imperfect
-323405	aorist
-323409	aorist
-323414	future
-323417	aorist
-323424	present
-323436	aorist
-323442	present
 aorist
-323454	present
-323462	aorist
-323464	aorist
-323478	present
-323490	aorist
-323499	aorist
-323502	aorist
+323660	present
+present
+323834	perfect
+323839	present
+324294	present
+324297	perfect
+324942	aorist
 aorist
-323513	aorist
-323520	aorist
-323531	aorist
+325282	aorist
 aorist
-present
-323540	aorist
-present
-323551	present
-323558	aorist
-323571	imperfect
-323579	aorist
-323582	aorist
-323595	present
+325328	aorist
 aorist
-323598	perfect
-323613	present
-323617	aorist
-323620	aorist
-323636	aorist
-323640	aorist
-323647	aorist
-aorist
-323660	aorist
-323662	aorist
-aorist
-323673	present
-future
-323677	present
-323699	aorist
-323701	aorist
-323703	aorist
-323705	aorist
-323709	aorist
-323713	aorist
-323717	aorist
-323721	aorist
-323728	aorist
-323730	aorist
-323742	aorist
-323744	aorist
-323752	aorist
-323760	aorist
-323767	aorist
-aorist
-aorist
-323775	aorist
-aorist
-323785	present
+327137	present
 present
+327537	present
 present
-323790	imperfect
-323798	present
-323815	aorist
-323822	aorist
-323835	aorist
-323841	aorist
-323848	present
-323850	present
-323857	aorist
-323868	present
-323872	present
-323875	present
-323894	present
-323897	aorist
-323900	aorist
-323913	perfect
-aorist
-323919	perfect
-323933	aorist
-323939	present
-323944	aorist
-323950	present
-323952	perfect
-323960	present
-323965	present
-323970	present
-323974	present
-323977	present
-323979	present
+328249	perfect
 present
-323986	present
-323990	present
-323994	present
-324003	present
-324009	present
-324014	perfect
-324022	present
-324034	imperfect
-324037	imperfect
-324042	future
-324051	future
-324063	present
-324065	imperfect
-324071	present
-324075	aorist
-324089	present
-324091	present
-324093	present
-324106	perfect
-present
-324113	perfect
-324119	perfect
-324121	aorist
-324126	present
-324137	aorist
-aorist
-324142	present
-324154	future
-324158	present
-324161	present
-324178	present
-present
-324184	aorist
-324203	aorist
-324209	perfect
-324214	present
-aorist
-324219	aorist
-324225	aorist
-324230	aorist
-324234	perfect
-present
-324238	perfect
-324256	aorist
-aorist
-324259	aorist
-324263	imperfect
-324266	present
-324269	aorist
-324273	future
-324277	imperfect
-324279	present
-324281	aorist
-324283	present
-324287	perfect
-324295	present
-324309	perfect
-324323	perfect
-324337	present
-324343	present
-324345	aorist
-324347	present
-324353	aorist
-324357	aorist
-324359	present
-324370	present
-324379	aorist
-324383	perfect
-present
-324389	future
-324408	present
-324413	present
-324417	perfect
-324419	aorist
-324422	present
-324427	present
-present
-324433	present
-324453	present
-324457	present
-324462	present
-324467	aorist
-324469	aorist
-324471	present
-324476	perfect
-324478	present
-324483	present
-324503	future
-324511	present
-324513	present
-324516	perfect
-324521	aorist
-324527	aorist
-324529	present
-324531	present
-324536	future
-324538	future
-324541	present
-324545	present
-324548	aorist
-324559	present
-324567	present
-324591	present
-324595	present
-324606	aorist
-324608	present
-present
-324614	aorist
-324616	present
-324622	present
-324627	present
-324650	present
-324661	aorist
-324677	aorist
-324679	present
-324693	present
-324696	present
-324699	present
-324703	present
-present
-324709	present
-324720	present
-324725	present
-324738	present
-324743	present
-324747	present
-324751	present
-324754	present
-324757	present
-324767	future
-324773	present
-324776	present
-324781	present
-324785	present
-324791	present
-324796	present
-present
-324800	present
-324802	aorist
-324805	aorist
-324816	aorist
-324844	aorist
-324854	aorist
-324860	present
-324888	present
-324892	present
-324906	aorist
-324908	present
-324915	perfect
-324921	present
-future
-324924	aorist
-324930	present
-324938	present
-324975	present
-324979	aorist
-324986	aorist
-324988	present
-324999	present
-325008	present
-325010	present
-325017	present
-325023	present
-325025	present
-325031	present
-325037	present
-325039	future
-325041	present
-325047	present
-325050	present
-perfect
-325056	present
-325058	present
-325061	present
-325068	future
-325088	present
-325120	future
-aorist
-325132	aorist
-325142	aorist
-325153	aorist
-325167	future
-325171	present
-325175	aorist
-future
-325185	aorist
-325187	present
-325190	present
-present
-325196	present
-325202	present
-325204	present
-325210	present
-325218	present
-325220	present
-325225	aorist
-present
-325232	aorist
-present
-325236	present
-325254	present
-present
-325269	present
-325275	aorist
-aorist
-325284	present
-325295	perfect
-325301	present
-325310	aorist
-325315	aorist
-325328	present
-325330	aorist
-325341	aorist
-325348	present
-aorist
-325355	present
-325364	present
-325372	present
-325377	perfect
-325380	present
-325393	aorist
-325397	perfect
-325400	aorist
-325402	imperfect
-325405	aorist
-325417	aorist
-325422	aorist
-325436	future
-325439	present
-325441	present
-325443	present
-325448	present
-325472	present
-present
-325486	present
-325499	present
-325517	aorist
-325532	aorist
-325543	aorist
-325548	present
-325557	aorist
-325559	present
-325566	aorist
-325568	aorist
-325571	present
-325580	aorist
-325585	aorist
-325591	aorist
-325601	aorist
-325621	aorist
-325623	present
-325627	aorist
-325635	present
-325639	present
-325646	present
-325653	aorist
-325661	present
-325668	future
-325677	present
-325680	present
-325682	present
-present
-325698	aorist
-aorist
-325704	perfect
-325710	aorist
-325712	aorist
-aorist
-325716	aorist
-325720	present
-present
-325723	perfect
-325728	present
-325731	present
-325738	present
-present
-325747	aorist
-325749	present
-325761	present
-325763	present
-325767	present
-325769	present
-325773	aorist
-325780	present
-325782	present
-325788	aorist
-325796	present
-325800	present
-325802	present
-325804	aorist
-325826	present
-325829	present
-325834	future
-325838	present
-325841	present
-aorist
-325856	future
-325868	present
-325871	present
-325876	present
-325882	present
-325884	present
-present
-325887	aorist
-325903	present
-325914	aorist
-aorist
-325927	present
-325932	imperfect
-325947	aorist
-325949	aorist
-325954	present
-aorist
-325962	aorist
-325971	aorist
-present
-325977	present
-325998	aorist
-aorist
-326007	aorist
-326017	present
-326027	present
-326031	present
-326035	perfect
-326040	future
-326043	present
-326051	present
-326058	aorist
-326080	present
-326084	present
-326096	present
-aorist
-326104	present
-326111	present
-present
-326124	present
-present
-326135	present
-326138	present
-aorist
-326146	present
-326162	present
-326171	present
-326178	present
-326187	present
-326206	present
-326208	perfect
-326222	aorist
-present
-326235	present
-326245	present
-326255	perfect
-326263	present
-326268	present
-326274	present
-326286	present
-326295	present
-326301	aorist
-326309	aorist
-326318	aorist
-326341	present
-326352	present
-326354	present
-326361	present
-326368	present
-326395	present
-326416	present
-326418	present
-326439	present
-326447	present
-326450	present
-present
-326453	present
-326456	present
-aorist
-present
-326460	present
-326462	present
-326467	present
-326469	present
-326472	present
-326475	present
-326484	aorist
-326487	perfect
-326501	present
-326505	aorist
-326508	present
-326517	present
-326519	present
-326525	present
-326529	present
-326534	aorist
-326541	present
-326544	present
-326549	present
-326552	present
-326554	aorist
-326559	aorist
-326565	future
-326569	aorist
-326574	future
-326576	aorist
-326580	aorist
-326583	aorist
-326585	aorist
-326587	aorist
-326596	aorist
-326604	aorist
-326609	future
-326612	present
-326616	present
-326619	present
-326625	present
-326628	present
-326633	present
-326635	present
-326642	present
-326647	present
-aorist
-326650	aorist
-326654	present
-326656	present
-326660	present
-326663	present
-326667	future
-326676	future
-326680	future
-326682	future
-326685	present
-326697	present
-326702	present
-326706	present
-326710	present
-326716	aorist
-326718	future
-326720	future
-326726	present
-326740	present
-perfect
-326744	present
-326747	present
-326750	present
-present
-326756	aorist
-present
-326766	present
-326772	perfect
-326780	perfect
-326790	perfect
-326801	future
-326803	future
-326812	aorist
-326818	aorist
-326827	aorist
-326834	perfect
-326838	present
-326845	aorist
-326855	perfect
-aorist
-326863	aorist
-aorist
-326875	aorist
-aorist
-326881	present
-326883	aorist
-326895	aorist
-326899	present
-326909	present
-326914	aorist
-326918	aorist
-326922	aorist
-326936	perfect
-326938	present
-326945	aorist
-aorist
-326955	perfect
-326958	aorist
-326971	aorist
-326979	aorist
-present
-326982	aorist
-326988	aorist
-326995	aorist
-326998	present
-327012	present
-327026	present
-327044	aorist
-present
-327051	present
-present
-327054	present
-present
-327061	aorist
-327070	aorist
-327074	aorist
-327093	future
-327095	present
-327097	future
-327105	present
-perfect
-future
-327109	present
-327116	present
-327121	aorist
-327123	present
-327127	present
-327131	imperfect
-327137	aorist
-327140	aorist
-327143	aorist
-327158	aorist
-327164	aorist
-327169	aorist
-327184	aorist
-327191	aorist
-327194	present
-327197	aorist
-327206	future
-327214	future
-327261	aorist
-327286	aorist
-327292	present
-327313	perfect
-327326	present
-327335	aorist
-327344	present
-327348	present
-aorist
-327370	present
-327375	present
-aorist
-327392	aorist
-present
-327399	present
-present
-327402	present
-327407	perfect
-present
-327424	aorist
-327426	aorist
-327438	aorist
-present
-327447	imperfect
-327457	present
-327474	aorist
-327480	imperfect
-327484	aorist
-327489	aorist
-327497	aorist
-327504	present
-327506	aorist
-327508	aorist
-327518	present
-327520	aorist
-327526	present
-327540	present
-327560	aorist
-327572	aorist
-327574	perfect
-327576	future
-327583	present
-327586	present
-327606	aorist
-perfect
-327615	aorist
-327639	perfect
-327646	aorist
-327670	aorist
-327678	aorist
-327687	present
-327696	perfect
-327715	aorist
-327717	perfect
-327731	present
-327734	present
-327753	aorist
-327761	aorist
-327768	present
-327776	present
-327781	aorist
-327785	aorist
-327814	aorist
-327819	aorist
-327824	aorist
-327833	present
-327837	present
-327842	perfect
-327857	present
-present
-327867	aorist
-327879	present
-327883	aorist
-present
-327897	present
-327904	aorist
-327911	present
-present
-327916	aorist
-327918	present
-327920	aorist
-327935	present
-327939	present
-327944	aorist
-327966	aorist
-327972	aorist
-327993	perfect
-327996	aorist
-327998	present
-328004	present
-328011	present
-328027	present
-328033	present
-328044	present
-aorist
-328054	aorist
-328070	present
-328077	present
-328089	present
-328097	present
-present
-328115	present
-328128	aorist
-328132	present
-328136	present
-328140	present
-328144	present
-328176	present
-328179	present
-328185	present
-328187	present
-future
-328191	present
-328193	present
-future
-328204	aorist
-328209	aorist
-328214	present
-328217	aorist
-328226	aorist
-328228	aorist
-328238	present
-328240	imperfect
-present
-328243	imperfect
-imperfect
-328247	present
-328257	aorist
-328274	aorist
-328278	aorist
-328284	aorist
-imperfect
-328291	present
-328293	aorist
-328310	present
-328321	present
-328337	future
-aorist
-328351	present
-328395	present
 328413	present
-328417	imperfect
-328419	present
-328427	aorist
-328433	present
-328436	aorist
-328438	present
-328441	present
-328449	present
-328460	present
-328474	present
-328491	present
-328503	present
-328508	aorist
-328511	aorist
-328514	present
-328516	present
-328518	aorist
-328522	aorist
-328533	aorist
-328535	aorist
-328541	aorist
-328543	aorist
-328546	aorist
-328570	present
-328575	future
-328583	aorist
-328587	present
-328599	aorist
-328601	aorist
-328607	aorist
-328623	present
-328644	present
-328650	present
+present
+328444	aorist
 aorist
-328653	present
-328667	present
-328669	present
-328677	present
-328679	present
-328688	aorist
-328695	aorist
-328699	perfect
-328702	aorist
-328717	aorist
-aorist
-aorist
-328722	imperfect
-328735	present
-328742	present
-328746	aorist
-328756	present
-328781	present
-328787	aorist
-328791	aorist
-328800	aorist
-328810	aorist
-328813	aorist
-328815	perfect
-328836	aorist
-328843	perfect
-328852	perfect
+328476	perfect
 perfect
-328868	present
-328870	present
-328883	present
-328885	future
-328889	present
-aorist
-present
-328901	aorist
-328903	aorist
-328909	present
-328921	perfect
-aorist
-328925	aorist
-328941	present
-328944	present
-328957	aorist
-328963	present
-328976	present
-328983	present
-328989	present
-328997	present
-329006	present
-329026	present
-329038	present
-329042	present
-329045	present
-329053	present
-329068	aorist
-present
-329071	present
-329095	present
-329101	present
-329119	present
-present
-329137	aorist
-329162	present
-329176	present
-329183	future
-329188	present
-329201	present
-329216	present
-329237	present
-present
-329241	aorist
-329266	present
-329273	present
-329278	aorist
-329282	future
-329294	aorist
-329302	aorist
-329308	present
-329311	present
-329313	aorist
-329328	aorist
-329339	aorist
-329345	present
-329349	aorist
-aorist
-329360	present
-present
-present
-329364	aorist
-329366	aorist
-329372	perfect
-329391	present
-329401	aorist
-329416	aorist
-329418	future
-future
-future
-future
-329446	present
-329450	aorist
-present
-329453	present
-329455	present
-329466	aorist
-present
-329483	aorist
-329511	aorist
-329529	aorist
-329563	perfect
-329571	aorist
-329589	perfect
-329594	aorist
-329600	aorist
-329623	aorist
-aorist
-329692	present
-329694	present
-329699	present
-329716	present
-329719	present
-present
-329723	aorist
-329738	aorist
-329747	present
-329750	present
-329754	aorist
-329759	future
-329783	future
-329786	present
-329791	perfect
-329793	perfect
-329799	present
-329803	present
-329807	present
-329815	present
-329820	perfect
-329823	present
-329843	aorist
-329845	future
-329850	present
-329864	present
-329868	perfect
-329870	aorist
-aorist
-329889	aorist
-329895	aorist
-329906	aorist
-329927	present
-329932	aorist
-329940	aorist
-329944	aorist
-329948	present
-329957	present
-329966	present
-present
-329971	present
-329981	aorist
-329984	aorist
-329994	present
-330005	present
-330011	aorist
-330020	present
-aorist
-330026	aorist
-330042	future
-330045	future
-330054	aorist
-330057	present
-present
-330065	future
-330081	future
-330090	future
-330097	present
-330105	present
-330113	aorist
-330115	aorist
-330120	aorist
-aorist
-330125	present
-330131	aorist
-330138	aorist
-330143	aorist
-330150	aorist
-330152	aorist
-330155	present
-present
+329302	present
 perfect
-330162	present
-330176	aorist
-330184	present
-330199	imperfect
-perfect
-330206	present
-330214	present
+329832	perfect
 present
-330227	present
-330230	present
-330236	present
+329857	present
 present
-330244	present
-330246	present
-330264	perfect
-330274	present
 present
-330284	future
 present
-330290	present
-330301	present
-330309	present
-330313	present
-330321	present
-330327	perfect
-330329	present
-330333	present
-330337	aorist
+present
+329949	perfect
+present
+330117	present
+present
+330438	perfect
+present
+330668	aorist
 aorist
-330353	aorist
-330357	aorist
-330369	aorist
+330884	aorist
 aorist
-330379	present
-330389	present
-330398	perfect
-330403	present
+331068	present
 present
-330413	present
-330418	present
-330421	present
-330425	present
-330432	perfect
-330434	perfect
-330437	aorist
-330459	aorist
+331077	present
 present
-perfect
-330472	imperfect
-330475	perfect
-330484	aorist
-aorist
-330491	aorist
-330496	perfect
-330506	aorist
-330516	aorist
-330529	present
-330534	present
-330545	aorist
-330549	perfect
-330576	present
-330578	future
-330599	present
-330601	present
-330603	present
-330620	aorist
-330623	present
-330629	present
-330633	present
-330636	imperfect
-330647	perfect
-330664	aorist
-aorist
-330682	perfect
+331090	aorist
 present
-330685	present
-330704	present
-330729	present
-330737	present
-330739	present
-330744	present
-330746	aorist
-330752	aorist
-future
-330768	future
-330771	present
-future
-330783	future
-330788	present
-330790	present
+331202	present
 present
-330800	present
-330802	present
-330818	present
-future
-330822	present
+331283	present
 present
-330839	present
-330844	present
-330848	present
-aorist
-330854	aorist
-330869	present
-330886	aorist
-330889	aorist
-330899	present
-330909	present
-330918	present
-330939	present
 present
-330950	aorist
-aorist
-330957	present
-330987	imperfect
-330992	perfect
-330994	perfect
-331001	aorist
-331008	aorist
-331022	aorist
-331024	perfect
-331026	present
-331028	present
-331038	imperfect
-331045	aorist
-331048	perfect
-331050	perfect
 present
-331060	present
-331091	present
-331100	present
-perfect
-331103	present
-331109	perfect
-331114	present
-331121	present
-331129	present
-331132	aorist
-331135	present
-331145	present
-present
-331149	present
-331160	present
-331163	present
-331170	present
-331185	present
-331193	aorist
-331197	present
-331199	present
-331205	present
-331210	present
-331217	present
-331221	aorist
-331227	aorist
-331235	aorist
-331238	perfect
-331240	present
-331249	present
-331257	present
-331261	aorist
-331265	aorist
-331267	present
-331279	present
-331310	present
-331312	perfect
-331320	present
-331322	present
-331324	perfect
-331333	present
-331335	present
-331344	present
-331348	present
-331365	perfect
-331369	present
-331374	present
-331376	present
-331380	present
-present
-331384	aorist
-331389	present
-331395	present
-331402	imperfect
-331413	present
-331418	aorist
-331423	present
-331426	present
-331439	present
-331449	present
-331451	present
-331457	present
-331464	present
-331470	present
-331475	present
-331486	present
-331493	present
-331496	present
-331507	present
-331514	present
-331517	perfect
-331519	present
-331524	aorist
-331530	present
-331534	perfect
-331546	present
-331550	perfect
-331556	present
-331560	perfect
-331564	aorist
-331568	perfect
-331572	aorist
-331576	perfect
-331582	aorist
-331587	present
-331599	present
-331601	perfect
-331606	present
-331620	present
-331625	present
-331670	present
-331682	present
+331684	future
 331687	present
-331696	present
-331704	present
-331714	present
-331717	aorist
-331720	present
-331727	perfect
-331729	present
-331734	present
-331738	aorist
-331741	imperfect
-331750	imperfect
-pluperfect
-331758	aorist
-331761	present
-331769	present
-331776	perfect
-331779	aorist
-331783	perfect
-331789	perfect
-331802	present
-331804	present
-331811	present
-331815	present
-331820	present
-331825	present
-331836	present
-331844	present
-331846	present
-331855	present
-331858	aorist
-331865	present
-331870	aorist
-331875	aorist
-331890	future
-331893	present
-331899	aorist
-331909	aorist
-331914	present
-331922	aorist
-331926	present
-331933	present
-331936	present
-331945	present
-331952	present
-331955	present
-331959	aorist
-331961	present
-331968	present
-331974	aorist
+332005	perfect
+present
+332617	perfect
+present
+332860	aorist
 aorist
-331979	aorist
-331991	perfect
-331994	present
+332947	present
+332950	present
+332978	present
 present
-332002	present
-332009	perfect
+333183	present
+perfect
+333190	present
+perfect
+333393	aorist
 aorist
-332014	perfect
-332023	aorist
-332025	present
-332033	present
-332037	aorist
-332044	present
-332047	aorist
-332049	future
-perfect
-332053	aorist
-332056	future
-332058	future
-332061	present
-332066	present
-332075	present
-332080	present
-332084	present
-332093	present
-332098	present
-332103	perfect
-332106	aorist
-332111	aorist
-332118	present
-332125	present
-332127	present
-332131	present
-332133	perfect
-332136	perfect
-332140	present
-332143	present
-332148	present
-332152	present
-332154	present
-332163	present
-332171	present
-332175	aorist
-332184	aorist
-332195	perfect
-332203	present
-332211	present
-332214	present
+333427	present
 present
-332222	perfect
-332227	present
-332247	present
-332250	present
-332259	present
-332267	present
-332272	aorist
-332277	present
-332287	imperfect
-332289	aorist
-332299	aorist
-332308	imperfect
-332319	present
-332322	present
-332328	perfect
-332330	perfect
-332342	present
-332348	present
-present
-332358	present
-332365	present
-332367	perfect
-332373	present
-332381	present
-332385	perfect
-332399	aorist
-332402	present
-332411	aorist
-332415	present
-332424	present
-332431	present
-332433	aorist
-332450	present
-332456	present
-332471	future
-332478	present
-332483	future
-332491	present
-332499	present
-332509	present
-332517	present
-332519	present
-332528	present
-present
-332539	present
-332547	present
-332550	present
-332557	aorist
-332570	present
-332573	aorist
-332578	present
-332587	present
-332597	present
-332599	present
-332610	aorist
-332616	present
-332618	present
-332628	present
-332633	perfect
-332642	present
-332654	present
-332660	perfect
-332666	present
-332673	present
-332683	present
-332686	present
-332693	perfect
-332695	present
-332703	present
-332711	present
-332714	perfect
-332718	present
-332738	present
-332747	present
-332753	present
-332760	present
-332762	present
-332766	present
-332770	present
-332777	present
-332782	present
-332799	present
-332810	present
-332815	present
-332821	perfect
-332823	present
-332829	present
-332831	aorist
-332840	present
-332844	aorist
-332865	perfect
-332875	aorist
-332882	present
-332889	perfect
-332896	aorist
-332899	aorist
-332920	aorist
-332925	present
-332927	present
-332931	perfect
-332933	present
-332941	present
-332949	perfect
-332953	present
-332957	present
-332962	present
-332976	perfect
-332980	perfect
-332982	present
-332987	perfect
-332998	aorist
-333001	present
-333015	present
-333025	perfect
-333027	perfect
-333032	present
-333043	present
-333046	present
-333057	present
-333065	present
-333069	perfect
-333078	present
-333091	present
-333095	present
-333105	present
-333118	present
-333127	present
-333130	present
-333132	perfect
-333139	present
-333143	aorist
-333147	aorist
-333149	present
-333159	present
-333161	present
-333165	present
-333172	perfect
-333178	perfect
-333180	present
-present
-333188	present
-333194	present
-333198	present
-333209	present
-333212	present
-333221	perfect
-333226	present
-333228	aorist
-present
-333231	perfect
-333238	present
-333240	present
-333252	present
-333259	present
-333262	present
-333276	present
-333285	present
-333290	perfect
-333296	present
-333302	present
-333307	aorist
-333317	present
-333319	present
-333326	present
-333329	present
-333338	present
-333340	aorist
-333371	present
-333373	present
-333378	present
-333384	present
-333386	present
-333407	present
-333416	present
-333425	present
-333428	present
-333437	perfect
-333446	present
-333456	present
-333465	present
-333470	perfect
-333474	perfect
-333481	perfect
-333494	present
-333502	aorist
-333520	present
-333522	present
-333526	present
-333532	present
-333544	present
-333546	aorist
-333549	perfect
-333553	present
-333556	present
-333572	present
-333577	present
-333584	present
-333592	present
-333596	perfect
-333598	present
-333602	present
-perfect
-333605	present
-333610	perfect
-333616	aorist
-333622	present
-333630	future
-333632	future
+333479	aorist
+aorist
+333507	imperfect
+333510	present
 333636	present
-333642	present
-333652	present
-333654	aorist
-333659	present
-333661	present
-333669	perfect
-333674	perfect
-333681	present
-333684	aorist
-333690	present
-333697	present
-333699	perfect
-333706	present
-333718	present
-perfect
-333729	present
-333731	perfect
-333735	present
-333740	present
-333756	present
-333767	aorist
-333788	present
-333803	perfect
-333813	present
-333821	future
-333827	future
-333856	aorist
-333859	perfect
-333867	present
-333873	aorist
-333881	present
-333888	present
-333893	imperfect
-333898	present
-333902	present
-333907	present
-333919	present
-333921	aorist
-333929	present
-333934	aorist
-333942	present
-333945	present
-333950	present
-333958	present
-333962	aorist
-333964	aorist
-333969	aorist
-333973	present
-333976	present
-333988	present
-333990	present
-334005	present
-334008	present
-334019	present
-334021	present
-334027	present
-334030	present
-334032	present
-334035	present
 present
-334047	present
-334049	present
-334051	aorist
-334058	present
-aorist
-334069	aorist
-334077	perfect
+333691	aorist
 present
+334146	perfect
 present
-334104	present
-334112	present
-334114	present
-334116	present
-334118	present
-334124	aorist
-334127	present
-334130	present
-334141	present
-334146	present
-334149	present
-334160	present
-334163	present
-334166	aorist
-334176	aorist
-334187	future
-aorist
-334199	aorist
-334201	present
-334209	present
-present
-334216	present
-334220	aorist
-334227	present
+334207	future
+future
 334231	present
-334237	aorist
+present
+334389	aorist
+aorist
+334524	aorist
 future
-334245	present
-334249	present
-334253	present
-334259	present
-334265	present
+334837	future
+future
+334903	perfect
 present
-334273	present
-334276	present
-334285	present
-334291	present
-334293	present
-334295	perfect
-334300	perfect
-334316	present
-334318	perfect
-334326	present
-334328	imperfect
-aorist
-334333	present
-334340	present
+335198	imperfect
 present
-334345	aorist
-334352	future
-334355	present
-334360	present
-334383	perfect
-334387	perfect
-334395	aorist
-334400	present
-present
-334413	aorist
-aorist
-334416	present
-present
-334422	aorist
-334427	aorist
-334434	perfect
-334452	present
-334468	present
-aorist
-334472	present
-perfect
-334484	aorist
-334490	aorist
-aorist
-334496	aorist
-334503	aorist
-334522	perfect
-334541	aorist
-334543	aorist
-334549	present
-334556	present
-334563	present
-334566	present
-334569	present
-334572	present
-334584	present
+335209	present
 imperfect
-334594	aorist
-334597	aorist
-334600	aorist
-aorist
-334609	perfect
-present
-334620	present
-334624	present
-334635	aorist
-334646	aorist
-334655	aorist
-334657	present
-334669	present
-334672	present
-334680	present
-334689	aorist
-aorist
-334697	present
-334716	perfect
-aorist
-334728	present
-aorist
-aorist
-334739	aorist
-334745	aorist
-334763	aorist
-334773	aorist
-334781	present
-334793	present
-334800	present
-334802	present
-334810	aorist
-334815	perfect
-334830	imperfect
-334839	future
-334850	present
-334855	present
-334857	present
-334861	present
-334865	present
-334879	present
-334886	aorist
-present
-334908	present
-present
-present
-334914	present
-334917	present
-334921	present
-334932	perfect
-334937	present
-aorist
-334942	aorist
-334997	aorist
-335002	aorist
-335009	present
-aorist
-335015	aorist
-aorist
-335031	aorist
-335047	aorist
-335050	present
-335053	present
-335062	present
-335067	perfect
-335093	present
-335096	imperfect
-335099	present
-335148	present
-335151	aorist
-335168	aorist
-335198	aorist
-present
-335206	future
-335214	aorist
-335216	future
-335232	present
 335240	present
-335246	present
-335249	imperfect
-335252	present
-335279	aorist
-335286	present
-335303	aorist
-335315	aorist
-335325	present
-335327	present
 aorist
-335333	aorist
-335368	aorist
+335314	perfect
+imperfect
+335323	imperfect
+335526	present
 present
-335374	imperfect
-335379	aorist
-aorist
-335400	perfect
-335403	perfect
-335452	perfect
-335466	present
-335492	present
-335503	present
-335513	aorist
-335515	aorist
-335527	aorist
-335536	present
-335538	present
-335540	present
-335550	present
-335552	aorist
-335555	aorist
-335557	present
-present
-335569	present
-335581	aorist
-335584	aorist
-335587	present
-335590	present
-aorist
-335605	aorist
-335635	present
-335647	present
-335659	aorist
-335661	present
-335663	present
-335677	present
-335691	perfect
-335710	present
-aorist
-335714	aorist
-335716	present
-335721	present
-335723	aorist
-335728	present
-335730	aorist
-335740	perfect
-335742	present
-335756	aorist
-present
-335760	perfect
-335762	aorist
-335769	aorist
-335773	present
-335776	future
-335791	aorist
-335794	present
-335796	present
-335806	present
-335808	present
-335810	aorist
-335815	present
-335820	present
-future
-335823	aorist
-335834	present
-335856	aorist
-335858	present
-335867	aorist
-335870	aorist
+335685	imperfect
 perfect
-335883	present
-335892	present
-335894	present
-335898	present
-335906	present
-335908	present
-present
+335757	aorist
 aorist
+335964	present
 present
-present
-335923	aorist
-335925	future
-335931	present
-335937	future
-335947	present
-335949	aorist
-335954	present
-335959	present
-335963	aorist
-335985	aorist
-335987	present
-335989	present
-336001	perfect
-336003	present
-336013	present
-336021	aorist
-336047	aorist
-336055	present
-336057	present
-336063	present
-336065	present
-336072	imperfect
-336076	aorist
-336085	aorist
-336088	aorist
-336090	present
-336094	present
-336103	aorist
-336108	present
-336112	future
-336128	present
-336130	aorist
-336135	present
-336140	present
-future
-336147	perfect
-336149	future
-336164	perfect
-336167	perfect
-336171	present
-336184	aorist
-336186	present
-336195	present
-336214	perfect
-336253	present
-336258	present
-336264	present
-336268	present
-336270	present
-336276	aorist
-336278	aorist
-336281	aorist
-336285	aorist
-336288	present
-aorist
-336297	aorist
-present
-336305	present
-336316	future
-336330	future
-336335	future
-336343	present
-336345	present
-336350	future
-336363	present
-336374	present
-336382	aorist
-336391	present
-336393	present
-336402	present
-aorist
-336408	aorist
-336411	present
-336414	present
-336423	future
-336433	future
-336448	present
-336451	perfect
-336460	future
-336470	present
-336472	aorist
-336477	present
-336493	aorist
-336495	present
-336497	present
-336513	perfect
-336521	present
-336523	present
-336526	present
-336528	present
-present
-336531	aorist
-336536	imperfect
-aorist
-336540	perfect
-336544	perfect
-336552	present
-336555	perfect
-336557	aorist
-336559	present
-336561	aorist
-336565	aorist
-future
-336574	aorist
-336578	future
-336583	present
-336592	aorist
-336599	future
-336608	present
-336610	present
-336612	future
-336622	future
-336638	future
-336660	present
-336662	aorist
-336667	present
-336683	aorist
-336685	present
-336693	present
-336700	present
-336703	future
-336705	present
-336708	present
+336553	present
 perfect
-336715	aorist
+336579	present
 perfect
-336722	perfect
-336725	present
-aorist
-336731	present
-336734	aorist
-336742	aorist
-336748	aorist
-present
-336760	present
-336763	present
-336766	present
-336768	present
-aorist
-future
-336773	future
-336775	future
-336784	aorist
-336787	aorist
-336790	aorist
-336802	future
-336813	present
-present
-336822	aorist
-336824	present
-336830	present
-336832	present
-336834	present
-336837	aorist
-336844	present
-future
-336864	aorist
-336867	future
-336900	present
-336924	present
-336926	aorist
-336931	present
-336947	aorist
-336949	present
-336973	perfect
-336982	present
-336985	aorist
-336987	imperfect
-336993	present
-336999	present
-337001	aorist
-337010	present
-337013	present
-337015	perfect
-337020	present
-337023	perfect
-337026	present
-337038	present
-337040	aorist
-337046	perfect
-337051	aorist
-337057	aorist
-337060	aorist
-337072	aorist
-337079	present
-337083	present
-present
-337086	present
-present
-337090	aorist
-aorist
+336938	perfect
 perfect
-337099	present
-337102	aorist
-337109	aorist
-337113	future
-337118	future
-337128	present
+336964	present
+present
+337120	present
+present
+337152	present
+present
+337184	perfect
+337187	present
+337426	present
+present
+337523	present
+present
+338081	future
 future
-337131	aorist
-337144	aorist
-337146	aorist
-337162	present
-337164	aorist
-337169	present
-337176	aorist
-337178	aorist
-337180	perfect
-337195	aorist
-337199	present
-337203	present
-aorist
-337207	future
-337210	present
-aorist
-337216	aorist
-337221	aorist
-337223	imperfect
-337235	present
-337238	present
-337278	present
-perfect
-337302	present
-337314	present
-337321	present
-337363	present
-337392	present
-337409	present
-337423	present
-337431	present
-337436	present
-337440	present
-337452	imperfect
-337455	present
-337458	present
-337461	future
-337471	present
-337478	present
-337488	future
-337499	present
-337506	future
-337508	present
-337519	future
-337530	present
-337532	present
-337542	aorist
-337556	aorist
-337568	imperfect
-337570	aorist
-337572	aorist
-337580	present
-337589	perfect
-337593	perfect
-337598	aorist
-337602	present
-337610	aorist
-337615	aorist
-337624	imperfect
-337642	aorist
-337647	present
-337650	imperfect
-337656	aorist
-aorist
-337662	present
-337672	present
-337675	present
-aorist
-aorist
-337695	aorist
-337708	aorist
-337731	perfect
-337733	perfect
-present
-337743	present
-337754	perfect
-337763	aorist
-337765	perfect
-337773	present
-337781	aorist
-337798	aorist
-337804	present
-337812	present
-337815	present
-337824	present
-337828	present
-337830	present
-aorist
-337836	aorist
-337843	aorist
-337845	aorist
-337868	aorist
-337879	future
-337886	aorist
-337888	aorist
-337908	imperfect
-337921	present
-337926	present
-337931	perfect
-aorist
-337976	present
-337985	aorist
-present
-337988	present
-338028	imperfect
-338034	aorist
-338036	aorist
-338038	aorist
-338040	aorist
-338054	aorist
-338064	present
-338070	present
-338072	aorist
-338074	aorist
-338080	present
-338084	present
-338087	aorist
-338091	aorist
-present
-338095	aorist
-338098	aorist
-338106	aorist
-338112	present
-present
-338115	aorist
-338123	present
-338127	aorist
-338129	aorist
-338141	future
-338143	aorist
-338150	aorist
-338158	aorist
-338164	present
-present
-338167	aorist
-338169	aorist
-338175	present
-338179	present
-338189	aorist
-338201	present
-338222	aorist
-338225	aorist
-338233	aorist
-338241	present
-present
-338244	aorist
-338246	aorist
-338252	present
-338265	imperfect
-338270	aorist
-338282	aorist
-338306	aorist
-338312	aorist
-338323	perfect
-338340	imperfect
-338342	aorist
-338346	present
-338360	present
-338362	present
-338371	present
-338378	aorist
-338386	aorist
-338389	aorist
-338395	aorist
-338410	present
-present
-338417	aorist
-338419	aorist
-338431	aorist
-338436	aorist
-338449	aorist
-338461	aorist
-338469	present
-338480	present
-338485	aorist
-338488	present
-338502	aorist
-338533	aorist
-338551	present
-338559	aorist
-338564	aorist
-338571	present
-338588	aorist
-338604	present
-aorist
-338609	aorist
-338613	perfect
-338625	present
-338637	present
+338350	present
+imperfect
 338657	aorist
-338661	present
-338667	present
-338672	present
-338674	aorist
-338684	aorist
-338686	aorist
-338694	present
-338696	aorist
-338709	aorist
-338727	aorist
-338733	perfect
-338740	perfect
-338758	perfect
-338847	perfect
-338851	aorist
-338853	aorist
-338859	aorist
-338862	imperfect
-338874	perfect
-338886	perfect
+aorist
+aorist
+aorist
+338857	present
+present
+present
+338866	aorist
 338900	present
-338904	present
-338914	present
-338930	pluperfect
-338947	aorist
-338961	aorist
-338965	present
-339010	aorist
-339018	present
-339022	perfect
-339031	present
-339034	aorist
-339036	perfect
-339042	perfect
-339044	aorist
-339047	present
-339049	present
-339060	aorist
-339067	aorist
-339081	present
-339092	present
-339106	present
-339112	future
-339117	future
-339120	future
-339124	aorist
-339148	future
-339151	future
-339161	future
-339177	aorist
-339185	aorist
-339196	aorist
-339208	perfect
-339210	aorist
-339219	aorist
-339221	aorist
-339227	present
-339232	aorist
-339238	future
-339265	aorist
-339293	perfect
-339301	aorist
-339313	aorist
-339320	aorist
-339335	present
-339341	aorist
-339344	aorist
-339349	aorist
-339351	aorist
-339355	perfect
-339360	aorist
-339374	aorist
-339383	aorist
-339390	aorist
-339397	aorist
-339406	present
-aorist
-339414	aorist
-339424	aorist
-339440	present
-339450	aorist
-339457	aorist
-339459	aorist
-339468	present
-339472	aorist
-339500	present
-339505	aorist
-339522	aorist
-339529	aorist
-339536	aorist
-339538	aorist
-339563	aorist
-339574	aorist
-339586	aorist
-339588	aorist
-339592	present
-339596	present
-339604	present
-339628	present
 present
-339636	aorist
-339638	aorist
-339645	perfect
-339652	aorist
-339666	aorist
-339675	aorist
-339689	aorist
-339712	aorist
-339720	aorist
-339724	present
-339734	aorist
-339738	future
-339761	present
-339775	aorist
-339779	aorist
-339783	future
-339799	aorist
-339809	future
-339820	future
-339823	future
-aorist
-339826	present
-339844	perfect
-339873	imperfect
-339890	imperfect
-339892	imperfect
-339920	present
-339925	present
-339944	aorist
-339951	present
-339975	present
-339984	aorist
-aorist
+339247	perfect
 present
-340000	aorist
-340002	aorist
-340028	present
-340035	present
-340039	aorist
-340046	perfect
-340058	aorist
-340065	perfect
-340078	aorist
-340101	aorist
-340109	aorist
-340120	present
-340124	present
-340153	present
-340168	aorist
-340190	present
-340213	present
-340230	present
-340236	present
-340247	aorist
-340256	aorist
-340270	future
-340300	present
+339281	present
+339284	perfect
+339391	present
 present
-340303	present
-340305	present
-340308	aorist
-340341	aorist
-340347	present
-340353	perfect
-340389	present
-340399	perfect
-340401	aorist
-340426	aorist
-340432	present
-340435	aorist
+339406	aorist
 aorist
-340449	aorist
-340455	imperfect
+aorist
+339441	present
+339446	present
+339585	present
 present
-340458	aorist
-340465	present
+340005	aorist
 aorist
-340468	aorist
-340477	aorist
-340483	aorist
-perfect
-340496	aorist
-340512	aorist
-340516	present
-340527	aorist
-340560	future
-340578	present
+340106	present
 present
-340581	aorist
-340590	aorist
-340604	aorist
-340611	present
-340616	present
 present
+340245	aorist
 aorist
-340623	perfect
-340634	perfect
-340647	aorist
-340653	present
-340655	aorist
-340661	present
-340663	aorist
-340665	aorist
-340668	future
-340682	future
-340687	aorist
-340701	aorist
-340704	imperfect
-340718	aorist
-340720	aorist
-340727	present
-340729	present
-340732	aorist
-340745	aorist
-340750	present
+340350	aorist
+aorist
+340386	present
 present
-340753	aorist
-340767	present
-340782	aorist
-340787	aorist
-340789	aorist
-340801	future
-340807	future
-340816	future
-340822	perfect
-340825	present
-340847	perfect
-340852	present
-aorist
-340855	present
-340864	present
-340873	aorist
-340875	aorist
-340877	present
-340879	aorist
-340881	present
-340885	aorist
-340892	present
-340904	present
-340910	present
-340916	aorist
-340927	aorist
-340930	aorist
-340940	present
-340946	future
-340952	future
-340955	future
-340977	present
-340990	aorist
-340992	present
-341021	present
-aorist
-341028	present
-341034	present
-341039	present
-341042	future
-341052	aorist
-341054	present
-341078	aorist
-341083	aorist
-341095	aorist
-341099	present
-341102	aorist
-341111	present
-341113	aorist
-341116	aorist
-341128	aorist
-341143	aorist
-341155	aorist
-341157	aorist
-341174	aorist
-341176	aorist
-341192	aorist
-aorist
-341201	present
-341209	aorist
-341211	aorist
-341220	present
-aorist
-341241	future
-341265	present
-341273	aorist
-341282	aorist
-341286	present
+340427	present
 present
-341297	present
-341300	imperfect
-341302	perfect
-341313	aorist
-341318	aorist
-341320	aorist
-341334	aorist
-341336	aorist
-341354	present
-341368	aorist
-341370	present
-341375	aorist
-341391	aorist
-341409	aorist
-341425	aorist
-341432	perfect
-341464	present
-341466	present
+340489	aorist
+aorist
+340888	present
+340917	present
 present
-341469	present
-aorist
-341472	aorist
-341482	aorist
-341488	present
-341513	present
-341526	aorist
-341537	perfect
-341544	present
-aorist
-341548	aorist
-341554	aorist
-341556	aorist
-341561	present
-present
-341574	aorist
-341597	aorist
-341604	present
-341608	perfect
-341616	present
-341624	aorist
-341641	aorist
-341651	aorist
-341660	aorist
-341664	aorist
-341673	aorist
-341689	present
-341696	present
-341702	aorist
-341717	aorist
-341719	aorist
-341728	present
-341730	aorist
-341759	aorist
-341770	present
-341784	aorist
-341809	aorist
-341821	present
-341828	present
-341838	aorist
-341845	present
-341849	perfect
-341854	present
-341857	aorist
-341862	aorist
-341868	aorist
-341873	aorist
-341878	aorist
-341896	present
-341910	present
-341927	aorist
-341949	aorist
-341951	aorist
-341959	aorist
-341969	aorist
-341974	aorist
-341986	aorist
-341996	aorist
-aorist
-342011	present
-342020	present
-342027	aorist
-342038	aorist
-342045	present
-present
-342081	aorist
-imperfect
-342106	aorist
-342137	perfect
-342151	aorist
-342153	aorist
-342165	aorist
-342170	aorist
-342178	aorist
-342182	present
-342190	present
-aorist
-342196	aorist
-342200	present
-342205	aorist
-342208	aorist
-342214	aorist
-342229	aorist
-342247	present
-342249	aorist
-342251	aorist
-342259	aorist
-342262	aorist
-342277	future
-342282	present
-342291	perfect
-342311	perfect
-342319	present
-342321	aorist
-342330	present
-342336	future
-present
-342342	aorist
-342344	present
-342357	aorist
-342361	present
-342368	imperfect
-342376	imperfect
-342391	present
-342396	present
-342405	present
-342407	future
-342416	aorist
-342427	present
-342434	present
-342440	present
-342452	present
-342454	present
-342466	aorist
-342468	aorist
-342474	present
-342476	present
-342482	aorist
-342488	present
-342497	aorist
-342499	aorist
-342501	aorist
-342512	aorist
-342521	aorist
-342526	aorist
-342534	aorist
-342536	present
-342562	aorist
-342588	present
-aorist
-342591	aorist
-342595	present
-342620	present
-342622	present
-342624	aorist
-342636	present
-342647	aorist
-342649	aorist
-342653	perfect
-342671	present
-342687	perfect
-342696	aorist
-342721	aorist
-342725	present
-342734	present
-342757	imperfect
-aorist
-342772	perfect
-342779	present
-342785	aorist
-342788	present
-342791	present
-342797	present
-342799	aorist
-342823	aorist
-342826	present
-342828	aorist
-342832	present
-342836	present
-342840	aorist
-342844	present
-342862	present
-342868	aorist
-342873	aorist
-342877	aorist
-342888	aorist
-342890	aorist
-342909	aorist
-present
-aorist
-aorist
-342934	perfect
-342945	aorist
-342947	present
-342955	present
-342966	present
-342986	future
-343001	perfect
-343015	future
-343047	present
-343050	present
-343056	present
-343069	present
-343087	present
-343089	present
-343104	aorist
-343111	present
-aorist
-343121	present
-343124	present
-343129	future
-343143	present
-343148	aorist
-343150	aorist
-343160	present
-343166	present
-343192	aorist
-343198	present
-343205	present
-343211	aorist
-343218	aorist
-343220	aorist
-343224	aorist
-343226	aorist
-343235	aorist
-343237	present
-343254	aorist
-343262	aorist
-343275	present
-343286	aorist
-343293	present
-343301	aorist
-343306	present
-343314	present
-aorist
-343326	aorist
-343339	aorist
-343346	aorist
-343361	aorist
-343370	aorist
-343389	aorist
-343399	aorist
-343423	aorist
-343440	present
-343452	aorist
-343461	aorist
-343467	perfect
-343471	present
-343497	perfect
-343507	present
-343514	present
-343535	present
-343570	aorist
-343573	future
-343588	future
-343590	future
-343600	aorist
-343605	aorist
-343607	aorist
-343626	aorist
-343633	present
-343644	perfect
-343651	perfect
-343670	aorist
-343682	present
-343691	present
-343702	aorist
-343726	imperfect
-aorist
-343734	aorist
-343747	aorist
-343756	present
-343762	present
-343764	present
-343784	aorist
-343789	aorist
-343801	aorist
-343813	present
-343823	present
-343833	aorist
-343845	aorist
-343857	aorist
-343869	aorist
-343889	aorist
-343892	aorist
-343900	present
-343902	present
-343904	present
-343907	imperfect
-343913	aorist
-343920	aorist
-343924	perfect
-aorist
-343927	present
-343929	aorist
-343933	present
-343954	aorist
-343966	aorist
-343968	aorist
-343976	aorist
-343984	aorist
-343993	present
-344006	aorist
-aorist
-344014	aorist
-344030	aorist
-344036	perfect
-344038	imperfect
-344050	aorist
-344075	aorist
-344087	aorist
-344104	aorist
-344111	aorist
-344127	aorist
-344166	present
-344172	present
-344175	present
-344187	aorist
-344209	aorist
-present
-344215	present
-344217	present
-344226	present
-344228	present
-344235	aorist
-344243	present
-344250	aorist
-344262	aorist
-344276	present
-perfect
-344279	aorist
-344288	aorist
-344292	aorist
-344297	aorist
-344309	aorist
-344330	aorist
-344337	aorist
-344343	aorist
-344366	aorist
-344370	aorist
-344379	present
-344391	aorist
-344409	present
-344417	aorist
-344428	present
-344435	aorist
-344439	present
-present
+341093	present
 future
-344455	present
-344464	aorist
-344473	aorist
-344475	present
-344491	aorist
-344500	aorist
-344502	present
-344510	present
-344514	present
-344526	imperfect
+341150	present
+present
+341691	present
+present
+341700	present
+present
+341923	present
+present
+342612	present
+present
+342615	aorist
+aorist
+343119	present
+present
+343210	perfect
+343213	present
+343715	future
 perfect
-344532	perfect
-344540	present
-344552	present
-344573	perfect
-344596	aorist
-344600	present
-344623	aorist
-aorist
-344630	aorist
-344638	aorist
-344640	future
-344654	present
-344657	present
-344673	aorist
-imperfect
-344677	present
-344679	present
+343953	present
+perfect
+344132	present
 present
-344690	present
-344692	future
-344694	present
-344703	perfect
-344721	present
-344726	imperfect
-344729	present
-344731	future
-344737	present
-344747	present
-344752	present
-344760	present
-344764	aorist
-344768	present
-344773	aorist
-344776	aorist
-344779	present
+344334	aorist
+344337	present
+344605	present
+perfect
+344624	present
+perfect
+345222	aorist
 aorist
-344786	imperfect
-344789	present
-344794	present
-344801	present
-344806	present
-344814	aorist
-344818	present
-344822	aorist
-344831	present
-344841	present
-344853	present
-344860	future
-344865	future
-344871	present
-344888	present
-344894	aorist
-344899	present
-344903	present
-344915	aorist
-344921	future
-344926	perfect
-future
-344937	future
-344940	future
-344948	aorist
-344956	aorist
-344963	aorist
-344968	aorist
-344978	future
-344991	aorist
+345237	perfect
 present
-345001	present
-345015	aorist
-345019	present
-345025	present
-345033	aorist
-345042	aorist
-345048	present
+345610	aorist
 aorist
-aorist
-345057	aorist
-345078	perfect
-345095	perfect
-345112	aorist
-345132	aorist
-345134	aorist
-345143	present
-aorist
-345155	aorist
-345171	aorist
-345173	aorist
-345185	aorist
-345194	aorist
-345200	aorist
-345202	aorist
-345219	aorist
-aorist
-345224	aorist
-345227	aorist
-345230	aorist
-345243	present
-345245	present
-345250	present
-345256	aorist
-345265	future
-345280	future
-345288	aorist
-345291	future
-345293	future
-345308	aorist
-345310	aorist
-345312	present
-345325	perfect
-345337	present
-345359	aorist
-345373	present
-345375	present
-345386	present
-345481	aorist
-345495	aorist
-345505	future
-345512	aorist
-345519	future
-345531	present
-345533	present
+346378	present
 present
-345545	perfect
-345552	perfect
-345566	aorist
-345583	present
-345591	present
-345595	aorist
-345597	imperfect
-present
-345608	present
-345619	aorist
-345629	imperfect
-present
-345632	present
-present
-345646	aorist
-345650	present
-345670	aorist
-present
-345689	aorist
-345702	aorist
-345716	aorist
-345722	present
-345725	future
-345736	aorist
-345751	aorist
-345767	aorist
-345779	aorist
-345791	aorist
-345805	aorist
-345816	imperfect
-345832	aorist
-345847	aorist
-345852	perfect
-345861	aorist
-345876	present
-345904	aorist
-345913	imperfect
-345925	aorist
-345942	perfect
-345950	present
-345961	aorist
-345978	aorist
-345983	present
-345989	present
-345999	aorist
-present
-present
-346015	present
-346025	aorist
-346049	present
-346052	aorist
-346062	present
-346064	present
-346066	future
-346072	aorist
-346086	aorist
-346089	aorist
-346092	aorist
-346109	present
-346111	present
-346113	aorist
-346129	perfect
-346131	present
-346143	present
-346145	aorist
-346153	aorist
-346156	present
-346158	present
-346163	present
-346171	present
-346180	aorist
-346187	present
-346196	aorist
-346200	perfect
-346202	aorist
-346208	present
-346212	present
-346220	present
-346222	present
-346243	present
-346246	perfect
-346249	perfect
-346254	perfect
-346257	perfect
-346260	perfect
-346284	imperfect
-346291	perfect
-346305	present
-346313	aorist
-346319	future
-346328	present
-346352	present
-346368	perfect
-346377	aorist
-346381	perfect
-346388	aorist
-346394	present
-346401	present
-346405	present
+346781	present
+perfect
+346964	aorist
 aorist
-346421	aorist
-346439	present
-346457	aorist
-346475	perfect
+347058	aorist
 aorist
-346483	present
-346498	aorist
-346510	aorist
-346520	aorist
-346522	aorist
-346532	present
-346538	present
-aorist
-346553	present
-346561	aorist
-346569	present
-346576	aorist
-346590	aorist
-346599	aorist
-346601	present
-346607	present
-346627	aorist
-346639	present
-346646	aorist
-346652	aorist
-346660	aorist
-346662	aorist
-346668	aorist
-346674	aorist
-346683	present
-aorist
-346690	aorist
-346693	aorist
-346699	aorist
-346707	perfect
-346728	aorist
-346740	aorist
-346758	aorist
-346760	aorist
-346777	aorist
-346779	aorist
-346797	present
-346817	present
-346820	future
-346831	future
-346842	aorist
-346848	future
-346860	future
-aorist
-346883	aorist
-346907	aorist
-346918	aorist
-346931	perfect
-346933	aorist
-346941	aorist
-346948	present
-346950	aorist
-346972	future
-346986	aorist
-346994	present
-347005	aorist
-347016	aorist
-347019	aorist
-347030	perfect
-347038	aorist
-347043	aorist
-347045	present
-347050	aorist
-347057	perfect
-347071	aorist
-347091	aorist
-347101	aorist
-347118	aorist
-347136	present
-347148	aorist
-347158	perfect
-aorist
-347170	aorist
-347190	aorist
-347196	present
-347209	aorist
-present
-347221	perfect
-347226	perfect
-347233	aorist
-347242	present
-aorist
-347257	future
-347266	future
-347276	future
-347278	future
-347294	future
-347303	future
+347158	present
+perfect
 347309	aorist
-347311	aorist
-347313	present
-347319	aorist
-347321	present
-347324	present
 aorist
-347335	present
-347337	aorist
-347339	perfect
-347357	present
-future
-347374	present
-future
-347378	future
-347383	future
-347393	perfect
-347419	present
-347424	present
-347433	aorist
-347444	present
-347451	present
-347462	aorist
-347466	present
+347650	present
 present
-future
-347481	aorist
-347494	aorist
-347504	present
-347515	present
-347536	present
 present
-347543	present
-347558	perfect
-347560	present
-347605	present
-347628	present
-347632	imperfect
-347638	aorist
-347659	present
-347671	aorist
-347698	present
-347700	aorist
-347715	present
-347755	perfect
-347825	imperfect
-347850	aorist
-347867	present
-347879	present
-347888	present
-347898	aorist
-347910	future
-347929	present
-347947	aorist
-347952	future
-347955	future
-347974	aorist
-347983	present
-347990	perfect
-348005	aorist
-348018	present
-348053	present
-348062	present
-348088	future
-348105	future
-348112	future
-348115	future
-348137	future
-348141	present
-348156	future
-348161	future
-348172	aorist
-348197	aorist
-348203	aorist
-348210	present
-aorist
-348216	aorist
 present
-348221	present
-348238	present
-348240	present
-348244	aorist
-348246	aorist
+347962	aorist
 aorist
-aorist
-348259	present
-348263	present
-348265	present
-348270	present
-348282	present
-348295	aorist
-348297	present
-348300	aorist
 348319	present
-348321	present
+present
+348359	perfect
+perfect
+348737	perfect
+present
+348785	present
+present
+348890	perfect
+perfect
+348915	present
+perfect
+349653	perfect
+349656	present
+349667	perfect
+present
+349688	perfect
+perfect
+350143	perfect
+present
+350161	present
+present
+350784	present
+present
+351074	present
+present
+351183	present
+present
+351193	perfect
 aorist
-348328	aorist
-348335	aorist
-348341	aorist
-348343	aorist
+351408	present
 present
-348355	aorist
-348362	present
-348388	present
-348395	future
-348414	aorist
-348443	present
-348445	present
-348449	aorist
-348455	aorist
-348464	present
-348494	present
-present
-348498	present
+351622	imperfect
 aorist
+352857	present
 present
-348503	present
 present
-348506	present
+355094	future
+future
+355105	aorist
 aorist
-348512	present
-348517	present
-348533	aorist
-348537	future
-348548	perfect
-348559	aorist
-348575	future
-348604	perfect
-348612	present
-348614	present
-348617	present
-348620	present
+355138	present
+present
+355526	present
+present
+356468	present
+present
+356555	present
+present

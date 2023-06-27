@@ -9,7 +9,7 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-22T03:04:24Z
+@dateWritten=2023-06-27T00:24:00Z
 
 10	active
 15	active
@@ -28368,28360 +28368,28360 @@ active
 137764	active
 137767	middlepassive
 137770	middlepassive
+168224	active
+168228	active
 168232	active
-168238	active
-168244	active
-168256	active
-168271	active
-168277	active
+168239	active
+168247	active
+168251	active
+168255	active
+168259	active
+168263	active
+168267	active
+168273	active
+168279	active
 168283	active
-168289	active
+168288	active
 168295	active
-168301	active
-168312	active
+168299	active
+168303	active
+168307	active
+168311	active
+168315	active
+168319	active
 168323	active
-168329	active
-168338	active
-168351	active
-168357	active
-168363	active
-168369	active
-168375	active
-168381	active
-168387	active
-168393	active
-168399	active
-168405	active
-168411	active
-168417	active
-168423	active
-168449	active
+168327	active
+168331	active
+168335	active
+168339	active
+168343	active
+168356	active
+168360	active
+168364	active
+168368	active
+168372	active
+168376	active
+168380	active
+168384	active
+168388	active
+168392	active
+168396	active
+168400	active
+168405	passive
+passive
+168433	active
+passive
+168439	active
+168441	passive
+168443	active
+168450	active
+168453	active
 168455	active
-168461	active
-168467	active
-168473	active
-168479	active
-168485	active
-168491	active
-168497	active
-168503	active
-168509	active
-168515	active
-168527	passive
-168530	passive
-168588	active
 passive
-168601	active
-168603	passive
-168607	active
-168621	active
-168624	active
-168626	active
-passive
-168629	active
-168634	passive
+168458	active
+168463	passive
 middle
-168642	passive
-168644	active
-168650	passive
+168467	passive
+168469	active
+168472	passive
 active
-168663	passive
-168668	active
-168670	middle
-168674	active
-168683	active
-168700	active
-168702	passive
-168704	passive
-168713	active
+168479	passive
+168482	active
 middle
-168721	active
-168723	middle
-168726	active
-168735	active
+168487	active
+168493	active
+168501	active
+168503	passive
 passive
-168743	passive
+168508	active
+middle
+168512	active
+168514	middle
+168517	active
+168524	passive
+168529	active
+168531	active
+168536	active
+168541	active
+168545	active
+168548	active
+168554	passive
+168561	middle
+168564	middle
+168566	active
+168568	active
+168571	passive
+168574	active
+168581	active
+active
+168584	active
+168587	passive
+168592	active
+168598	middlepassive
+168602	passive
+168605	active
+168612	passive
+168620	active
+168626	middle
+middlepassive
+168629	active
+168636	active
+168638	active
+168644	middlepassive
+168646	active
+168649	active
+passive
+active
+168657	active
+active
+168662	active
+active
+168667	active
+168669	passive
+168671	middle
+168674	active
+168677	active
+168680	active
+passive
+168684	active
+168686	active
+168689	passive
+168693	active
+168696	active
+168703	active
+active
+168707	active
+168710	active
+168715	passive
+168718	active
+168722	active
+168726	active
+168729	middle
+168731	middlepassive
+168734	active
+passive
+active
+168742	active
+168745	active
+168748	active
+168750	active
 168753	active
 168755	active
-168763	active
-168771	active
-168776	active
-168779	active
+168759	passive
+active
+168767	active
+168770	active
+168776	passive
+passive
+168781	active
+168783	active
+168788	active
 168790	passive
-168806	middle
-168811	middle
-168815	active
-168817	active
-168821	passive
-168827	active
-168840	active
+168793	passive
+168796	active
 active
-168843	active
-168849	passive
+168812	active
+168816	passive
+passive
+168820	active
+168822	passive
+168826	active
+168831	active
+passive
+168835	active
+active
+168839	middle
+168841	middlepassive
+168845	active
+passive
+active
+168853	middlepassive
+168856	active
 168858	active
-168870	middlepassive
-168878	passive
-168881	active
-168892	passive
-168906	active
-168918	middle
-middlepassive
-168921	active
-168933	active
+168864	passive
+active
+168871	active
+168874	active
+168878	active
+168883	passive
+168885	active
+passive
+168889	active
+168895	active
+active
+168899	passive
+168902	passive
+passive
+168907	passive
+168912	middlepassive
+168914	active
+168919	active
+active
+active
+168928	active
+passive
+168932	active
+168934	active
 168937	active
-168948	middlepassive
-168951	active
-168956	active
-passive
-active
-168967	active
-active
-168972	active
-active
-168977	active
-168981	passive
-168983	middle
-168988	active
-168994	active
+168941	active
+168947	active
+168960	active
+168964	middlepassive
+168975	passive
+168979	middle
+168982	active
+168988	middlepassive
+168991	active
+168995	active
 168997	active
-passive
-169002	active
-169006	active
-169011	passive
-169017	active
-169023	active
-169037	active
+169001	active
 active
-169041	active
-169047	active
-169056	passive
-169061	active
-169070	active
-169078	active
-169081	middle
-169085	middlepassive
-169092	active
-passive
+169009	active
 active
-169105	active
-169110	active
-169114	active
+169013	active
+169015	active
+169019	middlepassive
+169024	active
+169034	middlepassive
+169039	active
+169041	passive
+169044	passive
+169048	active
+169053	middlepassive
+169056	active
+169059	active
+169062	active
+169065	active
+169075	active
+169079	active
+169086	active
+169089	middlepassive
+169097	passive
+169101	active
+169103	active
+169106	active
+169108	passive
+169111	middlepassive
+169113	passive
 169116	active
-169119	active
-169124	active
-169128	passive
+169118	active
+169122	active
 active
-169141	active
-169146	active
-169156	passive
-169158	passive
-169167	active
-169171	active
-169179	active
-169181	passive
-169187	passive
-169190	active
+169125	active
+169128	active
+169130	passive
+169134	active
+169138	middle
+passive
+169142	active
+169144	active
+169147	middlepassive
+169150	middle
+169154	active
+169156	active
+169161	active
+169164	passive
+169169	passive
+169173	active
+169178	active
+169180	active
 active
-169223	active
-169230	passive
-169232	passive
-169239	active
-169244	passive
+active
+169186	active
+169188	active
+169193	middle
+169196	passive
+active
+passive
+169201	middle
+169207	middlepassive
+169211	active
+169218	active
+169225	active
+169229	active
+169231	active
+169234	passive
+169239	middlepassive
+169243	active
+169247	active
 169251	active
-169259	active
-passive
-169263	active
+169255	passive
+169257	active
+169261	active
+169268	active
+169278	active
+169282	active
+169284	active
 active
-169269	middle
-169273	middlepassive
-169283	active
-passive
-active
-169296	middlepassive
+169288	active
+169291	active
+169293	passive
+169297	active
+169300	active
 169302	active
-169305	active
-169315	passive
+169306	middle
+169308	active
+169310	active
+169312	active
+169316	passive
 active
-169327	active
-169333	active
-169337	active
-169349	passive
+169321	active
+169323	active
+active
+169332	passive
+passive
+169336	active
+169348	middlepassive
 169351	active
-passive
-169357	active
-169368	active
+169353	middlepassive
+169358	active
+169361	middle
+169363	active
+169365	active
 active
-169374	passive
-169377	passive
-169379	passive
-169387	passive
-169396	middlepassive
-169401	active
+active
+169372	active
+169378	active
+169380	passive
+169385	active
+169389	active
+169393	active
+169395	active
+169398	active
+169404	active
+169406	active
+169409	active
 169411	active
-active
-active
 169424	active
-169426	passive
+169428	active
 169433	active
-169436	active
-169442	active
-169449	active
-169461	active
-169488	active
-169496	middlepassive
-169518	passive
-169528	middle
-169534	active
-169544	middlepassive
-169550	active
-169556	active
-169558	active
-169564	active
-169566	active
-169577	active
-active
-169583	active
-169587	active
-169591	middlepassive
-169602	active
-169621	middlepassive
-169628	active
-169632	passive
-169637	passive
-169641	active
-169653	middlepassive
+169438	active
+169441	active
+169445	active
+169450	active
+169455	active
+169462	active
+169469	active
+169473	active
+169476	passive
+middlepassive
+169479	middlepassive
+169482	active
+169485	active
+169497	active
+169500	active
+169504	active
+169506	active
+169511	active
+169514	active
+169516	active
+169523	active
+169528	active
+169531	passive
+169536	active
+169543	passive
+169548	passive
+169556	middle
+169562	passive
+169564	passive
+169568	active
+169573	active
+169575	active
+169578	active
+169580	active
+169583	middlepassive
+169585	active
+169587	middlepassive
+169596	active
+169601	active
+169608	passive
+169610	passive
+169612	active
+169616	passive
+169618	passive
+169622	active
+169627	middlepassive
+169629	passive
+169631	middlepassive
+169633	active
+169636	active
+169644	active
+169650	active
 169656	active
-169659	active
-169664	active
-169667	active
-169688	active
-169695	active
-169710	active
-169715	middlepassive
-169735	passive
-169741	active
-169743	active
-169746	active
-169750	passive
-169753	middlepassive
-169757	passive
-169762	active
-169764	active
-169768	active
+169661	active
+169668	active
+169670	active
 active
+169675	active
+active
+169678	active
+169680	active
+169683	active
+169691	active
+169696	middle
+169699	active
+169706	active
+169710	passive
+169717	active
+169719	active
+169722	passive
+169727	active
+169733	active
+169740	active
+169745	active
+169747	passive
+169750	active
+169753	active
+169755	middle
+169759	active
+169763	passive
+169767	middle
 169771	active
-169776	active
-169778	passive
-169784	active
-169791	middle
-passive
-169797	active
-169801	active
-169805	middlepassive
-169810	middle
+169776	middle
+169780	active
+169783	middle
+169790	active
+169796	passive
+169800	active
+169803	active
+169810	active
+169812	passive
 169817	active
-169819	active
-169831	active
-169836	passive
-169847	passive
-169854	active
+active
+169827	active
+169834	active
+169842	passive
+active
+169846	active
+169849	active
+169852	active
+169854	passive
+169856	active
+169859	active
 169863	active
-169865	active
-169867	active
-active
-169873	active
-169877	active
-169885	middle
-169888	passive
-active
-passive
-169897	middle
-169908	middlepassive
-169915	active
+169866	active
+169869	active
+169880	active
+169882	active
+169885	active
+169887	active
+169891	middle
+169900	passive
+169907	active
+169909	active
+169912	active
+169914	active
+169918	middle
 169928	active
+passive
+169932	active
+169935	active
 169940	active
-169945	active
+169944	active
 169949	active
-169952	passive
-169960	middlepassive
-169968	active
-169972	active
-169981	active
-169987	passive
-169989	active
-169997	active
-170010	active
-170028	active
-170034	active
-170036	active
+169951	passive
+169954	passive
 active
-170040	active
-170045	active
-170047	passive
-170055	active
-170060	active
-170062	active
-170068	middle
+middlepassive
+169958	active
+169960	passive
+169963	active
+active
+169971	active
+169974	active
+169981	active
+169988	active
+169995	active
+170002	active
+170005	middlepassive
+170007	active
+170009	active
+170022	active
+active
+170025	passive
+170033	active
+170036	active
+170041	active
+170046	active
+170051	active
+170053	passive
+170057	active
+active
+170065	active
+170067	active
 170070	active
 170072	active
 170074	active
+170076	middle
 170078	passive
 active
+170081	passive
+active
 170086	active
-170090	active
+170091	active
+170093	active
+170097	middlepassive
+170099	active
+170102	middle
+170111	active
+170115	active
+170120	active
 active
-170107	passive
-170109	passive
-170116	active
-170143	middlepassive
-170149	active
-170153	middlepassive
-170162	active
-170167	middle
-170171	active
-170173	active
+170124	active
+170128	active
+170131	middle
+170136	active
+170140	active
+middle
+170151	active
 active
-active
+170157	active
+170161	passive
+170168	active
+170177	active
+170180	active
 170184	active
-170195	active
-170201	passive
-170210	active
-170217	active
-170221	active
+170191	passive
+170194	active
+170196	active
+170201	active
+170204	active
+170208	active
+170212	active
+170220	active
 170223	active
-170228	active
-170236	active
-170240	active
-170243	active
-170245	active
-170277	active
-170284	active
-170289	active
-170299	active
-170302	active
-170310	active
-170319	active
-170328	active
-170342	active
-170356	active
-170362	active
-170368	passive
+170227	middlepassive
+170229	middle
+170234	active
+170242	active
 middlepassive
-170371	middlepassive
-170375	active
+170245	passive
+170247	active
+170249	active
+170255	middlepassive
+active
+170261	active
+170264	middle
+170273	active
+170276	active
+170278	middlepassive
+170281	active
+170284	active
+170290	passive
+170293	passive
+170295	active
+170300	active
+170303	active
+170307	middlepassive
+170313	passive
+170316	active
+170319	passive
+170331	active
+170335	active
+170341	active
+170345	active
+170349	middle
+170355	active
+170359	active
+170368	active
+170373	active
 170378	active
-170401	active
-170406	active
-170413	active
-170415	active
+170380	middlepassive
+170384	active
+170389	passive
+170391	active
+active
+170394	active
+170399	active
+middle
+170406	middle
+170408	passive
+170410	active
+170420	active
 170423	active
-170429	active
-170431	active
-170442	active
-170452	active
-170455	passive
-170462	active
-170468	active
-170470	active
-170476	passive
-170483	passive
-170497	middle
-170507	passive
-170510	passive
-170516	active
+170426	active
+170433	active
+170438	active
+170446	active
+170454	active
+170458	middle
+170465	active
+170469	active
+170477	middle
+170483	active
+170488	middle
+170495	active
+170499	middlepassive
+170501	active
+170505	active
+170508	active
+170511	middle
+170514	active
+170516	middlepassive
+170518	active
+170522	active
 170525	active
-170527	active
-170530	active
+170529	active
 170532	active
-170539	middlepassive
-170543	active
-170545	middlepassive
-170560	active
-170570	active
-170583	passive
-170587	passive
-170591	active
-170595	passive
-170597	passive
-170604	active
-170613	middlepassive
-170615	passive
-170619	middlepassive
-170621	active
-170624	active
+170537	middle
+170540	active
+170545	active
+170552	active
+170554	active
+170556	active
+170563	active
+170567	active
+170572	active
+middlepassive
+active
+170582	active
+active
+170588	active
+170590	active
+170592	active
+active
+170603	middle
+170612	active
+170616	passive
+170619	active
+170625	active
+active
+170628	active
+170631	active
+170634	middle
 170638	active
-170649	active
+active
+170646	active
+170648	active
+170657	passive
 170661	active
-170670	active
+170666	active
+170673	active
+170675	passive
+170679	active
+passive
 170684	active
-170686	active
+passive
+170689	active
+170704	active
+170707	active
+170710	active
 active
-170696	active
+170717	middle
+170723	active
+170731	active
 active
-170699	active
-170702	active
-170706	active
-170724	active
-170733	middle
-170737	active
-170750	active
-170756	passive
-170769	active
-170771	active
-170774	passive
-170784	active
-170790	active
-170805	active
+170740	active
+170744	active
+170751	active
+170757	passive
+active
+170760	active
+170762	passive
+170764	active
+170766	active
+active
+170769	passive
+170773	active
+active
+170776	active
+active
+170779	active
+passive
+170783	active
+170786	active
+170791	active
+170795	active
+170797	active
+170803	active
+active
+170806	active
 170815	active
-170817	passive
+170817	active
 170822	active
-170826	active
-170828	middle
-170834	active
-170840	passive
-170847	middle
-170854	active
-170862	middle
+170824	active
+170829	active
+170833	active
+170837	active
+170847	active
+170852	active
+middlepassive
+170859	passive
+170861	active
+170866	active
+active
 170869	active
-170872	middle
-170884	active
-170896	passive
-170903	active
-170908	active
-170921	active
-170923	passive
-170931	active
-active
-170939	active
-active
-170950	active
-170962	active
-170980	passive
-170982	active
-170987	active
-170991	active
-170997	active
-170999	passive
-171001	active
-171004	active
+170873	middlepassive
+170879	active
+170884	middle
+170886	active
+170896	active
+170901	active
+170903	middlepassive
+170906	active
+170910	active
+170914	active
+170916	passive
+170919	passive
+170923	middle
+170926	active
+170930	middle
+170936	active
+170945	active
+170954	active
+170959	active
+170964	active
+170967	active
+170971	active
+170973	active
+170975	middlepassive
+170980	active
+170985	active
+170987	passive
+170990	active
+170996	active
+170999	active
+171002	active
+171005	active
 171010	active
-171015	active
-171018	active
-171038	active
+passive
+171017	active
+171023	active
+171025	passive
+171028	active
+171034	active
+171037	active
 171040	active
 171043	active
 171047	active
-171051	middle
-171068	passive
-171081	active
-171083	active
+171049	active
+171054	middle
+171056	active
+171060	passive
+171070	active
+171075	active
+171080	active
+171084	middle
 171086	active
-171090	active
-171094	middle
-171114	active
+active
+171089	active
+171092	active
+middlepassive
+171095	active
+171097	active
+171099	middle
+171101	active
+active
 passive
+171106	passive
+171110	active
+171113	active
+171115	active
+171117	active
 171119	active
+171122	active
 171125	active
-171130	active
+171129	active
+171133	active
 171136	active
-171147	active
-171149	passive
-171153	passive
+171139	active
+171143	passive
+171148	passive
 active
-middlepassive
-171157	active
-171159	passive
-171164	active
+171152	active
 active
-171177	active
+171155	passive
+171158	active
+171161	active
+171167	active
+171170	active
+171173	passive
 171180	active
-171191	active
-171204	active
-171217	active
-171231	active
-171234	middlepassive
-171239	active
-171242	active
-171264	active
+171182	active
+171186	active
+171188	passive
+171190	middlepassive
+171193	middlepassive
+171195	middlepassive
+171199	active
+171202	active
 active
-171267	passive
-171279	active
-171282	active
-171289	active
-171299	active
-171308	active
-171310	passive
-171317	active
+171206	active
+171208	active
 active
-171328	active
+active
+171216	active
+active
+171224	active
+171226	passive
+171238	passive
+171244	middle
+171251	active
+171254	active
+171256	active
+passive
+171260	passive
+171266	active
+171271	active
+171276	middle
+171280	active
+171284	passive
+171286	active
+171290	middle
+active
+171294	middlepassive
+171296	active
+171302	active
+active
+171305	passive
+passive
+171309	active
+171313	active
+171316	active
+active
+171322	active
+active
+171327	active
+171329	active
 171332	active
-171338	active
-171340	active
-171343	active
-171347	middle
-171349	passive
-active
-171352	passive
-active
+171335	middlepassive
+171337	active
+171342	active
+171353	active
+171356	active
 171360	active
+171363	active
+171366	active
 171368	active
-171370	active
-171377	middlepassive
-171381	active
-171384	middle
-171403	active
+171373	active
+171375	active
+171378	active
+171380	active
+171384	active
+171388	active
+171393	middle
+171395	middle
+171400	passive
+171405	active
+171407	active
+active
 171410	active
-171418	active
-171420	active
-171425	active
+171412	active
+middle
+171415	active
+171419	active
+171422	passive
+active
+171428	middle
+171432	active
+active
 171435	active
-171438	middle
-171448	active
-171458	active
-middle
-171474	active
+171442	active
+171444	active
+171452	active
+171457	middlepassive
+171460	middlepassive
+171464	active
+171466	active
+171471	middle
 active
+active
+171478	active
+171481	active
 171483	active
-171492	passive
+171490	passive
+171493	active
+171495	active
+171497	active
 171499	active
-171516	active
-171519	active
-171527	active
-171540	passive
-171547	active
-171549	active
+171506	active
+171508	active
+171511	active
+active
+171516	middle
+active
+171525	active
+171529	active
+active
+171532	active
+171535	active
+171538	middlepassive
+171540	middle
+171543	active
+171548	active
+171550	active
+171552	active
 171557	active
-171560	active
-171567	active
-171574	active
-171592	active
-171598	active
-171602	middlepassive
-171604	middle
-171611	active
-171627	active
-middlepassive
-171630	passive
-171635	active
-171637	active
-171646	middlepassive
+171559	active
+171561	active
+171566	middle
 active
+171571	passive
+171573	active
+171577	active
+171579	active
+171581	passive
+171585	middle
+171588	active
+171591	active
+171593	active
+171597	active
+171600	middlepassive
+171607	active
+171609	active
+passive
+171614	active
+active
+171617	active
+171620	active
+171623	active
+171629	active
+171632	active
+171634	active
+active
+171639	active
+171644	passive
+active
+171649	active
+171652	passive
+171654	active
 171656	active
-171662	middle
-171682	active
-171688	active
-171690	middlepassive
-171693	active
-171698	active
-171708	passive
-171711	passive
-171713	active
-171723	active
-171728	active
-171732	middlepassive
-171744	passive
-171750	active
-171756	passive
-171781	active
-171785	active
-171796	active
-171804	active
-171810	middle
-171819	active
-171828	active
-171844	active
-171854	active
-171862	active
-171864	middlepassive
-171870	active
-171878	passive
-171882	active
-171884	active
-171886	active
-171894	active
-middle
-171907	middle
-171910	passive
-171914	active
-171935	active
-171941	active
-171944	active
-171956	active
-171960	active
-171962	active
+171660	active
+171663	active
+171666	middlepassive
+171670	passive
+171672	active
+171674	active
+171677	active
 active
-171975	active
-171980	active
-171982	active
-171985	active
-171992	middle
-172007	active
-172013	active
-172028	middle
-172037	active
-172046	middle
-172058	active
-172064	middlepassive
-172068	active
-172074	active
-172079	active
-172082	middle
-172087	active
-172089	middlepassive
-172091	active
-172097	active
-172100	active
-172107	active
-172110	active
-172118	middle
-172124	active
-172135	active
-172147	active
-172149	active
-172151	active
-172165	active
-172170	active
-172178	active
+171681	middle
+171683	middlepassive
+171687	middle
+171690	active
 middlepassive
+171697	active
+171699	active
+171706	active
+171711	active
+active
+171714	active
+active
+171718	active
+passive
+171721	active
+171723	active
+171725	active
+171730	active
+active
+171736	middlepassive
+171740	active
+171744	active
+171749	active
+171751	active
+171754	middlepassive
+171758	active
+171762	active
+171764	middle
+171767	passive
+171772	active
+171775	active
+171780	active
+171788	middlepassive
+171790	active
+171797	passive
+171801	passive
+171804	passive
+171806	active
+171812	passive
+171815	active
+171817	middle
+171819	active
+active
+171822	active
+171827	active
+171829	active
+active
+171835	middle
+171837	passive
+171839	active
+171845	middle
+171847	active
+171849	active
+171851	middle
+171856	active
+171861	middle
+171864	passive
+171867	passive
+171869	active
+171871	active
+active
+171876	active
+171879	passive
+171885	active
+171892	active
+171896	passive
+active
+active
+171900	active
+171903	active
+171905	active
+171909	passive
+171911	active
+active
+171916	passive
+171919	active
+171927	active
+171930	active
+171932	active
+171934	active
+active
+171938	active
+171942	active
+171946	active
+171949	active
+171951	middlepassive
+171953	active
+active
+171959	middle
+171962	active
+171966	passive
+171969	passive
+171973	passive
+171976	active
+active
+171979	active
+171982	active
+active
+171991	middlepassive
+middle
+active
+171996	middlepassive
+171998	passive
+172000	active
+172003	active
+172005	active
+172007	passive
+172013	active
+172018	active
+172021	active
+172027	active
+172032	active
+172037	active
+172041	active
+172044	passive
+172052	active
+172055	active
+172064	passive
+172070	active
+172076	middle
+172080	active
+172085	active
+172088	active
+172097	active
+172100	passive
+172121	active
+172125	active
+172127	active
+172129	active
+172133	active
+172138	active
+middlepassive
+172145	active
+172147	middlepassive
+172149	active
+active
+172152	active
+172156	active
+active
+172159	active
+172161	active
+172163	active
+172165	active
+172167	active
+172169	middle
+172191	active
 active
 172196	active
-active
-172206	active
-172208	active
-172210	active
-active
-172226	middle
-172241	active
-172247	passive
-172252	active
-172261	active
-active
-172264	active
-172267	active
-172270	middle
-172278	active
-active
-172291	active
-172295	active
-172311	passive
-172315	active
-172325	active
-172337	active
-172340	passive
-172347	active
-passive
-172355	active
-passive
-172360	active
-172390	active
-172393	active
-172399	active
-active
-172412	middle
-172424	active
-172438	active
-active
-172455	active
-172463	active
-172476	active
-172486	passive
-active
-172489	active
-172491	passive
-172493	active
-172495	active
-active
-172498	passive
-172504	active
-active
-172508	active
-active
-172512	active
-passive
-172517	active
-172523	active
-172532	active
-172538	active
-172541	active
-172547	active
-active
-172552	active
-172573	active
-172576	active
-172583	active
-172585	active
-172594	active
-172598	active
-172606	active
-172625	active
-172633	active
-172635	middlepassive
-172645	passive
-172650	active
-172658	active
-172660	active
-172662	active
-172669	middlepassive
-172680	active
-172691	middle
-172694	active
-172713	active
-172723	active
-172725	middlepassive
-172732	active
-172740	active
-172746	active
-172750	passive
-172755	passive
-172764	middle
-172770	active
-172774	middle
-172786	active
-172804	active
-172821	active
-172829	active
-172839	active
-172842	active
-172846	active
-172848	active
-172853	middlepassive
-172861	active
-172870	active
-172872	passive
-172877	active
-172889	active
-172894	active
-172899	active
-172904	active
-172912	active
-passive
-172924	active
-172934	active
-172936	passive
-172941	active
-172953	active
-172958	active
-172963	active
-172968	active
-172975	active
-172977	active
-172985	middle
-172987	active
-172996	passive
-173008	active
-173010	active
-173014	active
-173023	active
-173031	active
-173037	middle
-173039	active
-active
-173042	active
-173045	active
+172198	active
+172200	active
 middlepassive
-173048	active
-173050	active
-173054	middle
-173056	active
-active
+172205	middle
+172210	active
+172213	active
+172220	active
+172225	passive
+172229	middle
+172232	active
+172235	middlepassive
+172241	active
+172246	active
+172249	middle
+172257	middle
+172259	active
+172265	middlepassive
+172274	active
+172278	active
+172286	active
+172292	passive
+172300	active
+172303	active
+172307	active
 passive
-173061	passive
-173068	active
-173073	active
-173075	active
-173077	active
-173079	active
-173084	active
-173089	active
-173096	active
-173102	active
+172315	active
+172318	active
+active
+172325	active
+172327	active
+172336	middle
+172340	active
+172349	active
+172352	passive
+172355	active
+172360	active
+172364	active
+172367	active
+172372	active
+172377	active
+172389	middle
+172403	active
+172409	passive
+172413	active
+passive
+172417	passive
+172421	passive
+172423	active
+172427	active
+172434	active
+active
+172440	middlepassive
+172442	active
+172447	middlepassive
+active
+middlepassive
+172452	middlepassive
+172455	active
+172459	passive
+172464	middle
+172480	middlepassive
+172482	active
+172486	active
+172490	active
+172501	middle
+172505	middle
+172515	active
+172517	active
+active
+172522	active
+active
+172527	active
+172529	active
+172549	active
+172553	active
+172557	active
+172561	active
+172567	active
+172571	active
+172574	active
+172577	active
+172580	active
+172583	active
+172587	active
+172589	middlepassive
+172592	middlepassive
+172595	middlepassive
+middlepassive
+active
+172599	middlepassive
+172604	middle
+172606	middlepassive
+172611	middle
+172614	active
+172622	active
+172625	active
+172629	middle
+172631	active
+172633	active
+172637	active
+172645	active
+172651	active
+172655	active
+172658	active
+middlepassive
+172662	active
+172664	passive
+172666	active
+172668	passive
+active
+172674	active
+172677	active
+172679	passive
+172682	active
+172685	passive
+172688	passive
+172691	active
+172694	passive
+172698	middlepassive
+middle
+172701	active
+172705	active
+172708	middle
+172711	passive
+172714	active
+active
+172718	passive
+middle
+172721	active
+172728	active
+172730	active
+172732	active
+172737	active
+172739	passive
+middle
+172742	active
+172748	active
+172752	active
+172755	passive
+172770	active
+172780	passive
+172783	active
+172791	active
+172794	active
+middle
+172797	active
+active
+middlepassive
+active
+172802	active
+172805	active
+172809	active
+172811	middlepassive
+172815	active
+172817	active
+active
+172822	middle
+active
+172826	middle
+active
+172833	active
+172835	active
+active
+172840	active
+172842	active
+172844	active
+middle
+172850	passive
+172856	middle
+active
+172860	middle
+172866	active
+172877	middle
+172879	middle
+172884	active
+172886	active
+172890	middle
+172898	passive
+172900	middle
+172904	passive
+172906	middle
+172908	active
+172912	active
+172917	middle
+172925	passive
+172927	active
+middle
+172935	active
+172940	active
+172948	middle
+172952	passive
+172958	active
+172966	active
+172972	middlepassive
+172974	active
+active
+172978	active
+172980	passive
+172982	active
+172984	active
+172989	active
+172992	active
+172996	active
+173008	active
+173012	passive
+173020	active
+173022	middle
+active
+173026	active
+173029	active
+active
+173032	middle
+173035	active
+173038	active
+active
+173043	active
+173045	active
+173047	active
+173050	active
+173055	active
+173064	active
+173069	active
+173078	active
+173087	active
+173090	active
+active
+173097	active
+173101	active
+173103	active
 173105	active
-173108	active
-173115	passive
-173123	passive
-active
-173127	active
-active
-173130	passive
+173110	active
+173114	active
+173120	active
+173122	active
+173127	middle
+173130	active
+173133	active
 173135	active
+active
 173138	active
-173148	active
-173151	active
-173154	passive
-173167	active
+173140	active
+173144	active
+173147	middle
+173150	active
+173154	active
+173158	active
+173161	active
+173164	active
+173168	active
 173171	active
-173177	active
-173179	passive
-173181	middlepassive
-173184	middlepassive
-173186	middlepassive
+173173	active
+173175	active
+173179	active
+173181	passive
+173185	active
+173189	active
 173193	active
 173196	active
 active
-173202	active
+173200	active
 173204	active
-173206	active
-173208	active
-173221	active
-active
-173232	active
-173234	passive
-173259	passive
-173270	middle
-173283	active
-173290	active
-173292	active
+173207	active
+173213	active
+173215	passive
 passive
-173296	passive
+173219	active
+middle
+173224	active
+173228	active
+173231	active
+173238	active
+173240	active
+173242	active
+173244	active
+173251	passive
+173253	active
+173256	passive
+173258	active
+173260	active
+173267	active
+173269	passive
+173272	middlepassive
+173275	active
+173281	middle
+173285	active
+173287	active
+173292	active
+active
+173296	active
+173304	active
 173308	active
-173319	active
-173325	passive
+173312	passive
+173314	passive
+173319	passive
+173322	passive
 173327	active
-173329	middle
-173336	active
-173342	passive
+173329	passive
+173332	passive
+173339	active
 173344	active
 173348	middle
-active
-173352	middlepassive
-173355	active
-173365	active
-active
-173368	passive
-173370	passive
-173377	active
+173354	active
+173357	active
+173364	middlepassive
+173366	active
+173374	active
+173378	active
 173384	active
+173386	active
 173389	active
-active
-173399	active
-active
-173407	active
-173411	active
-173414	active
-173418	middlepassive
+173392	active
+173394	active
+173396	active
+173400	passive
+173407	passive
+173410	active
+173416	passive
 173420	active
-173429	active
-173448	active
-173453	active
+173426	passive
+173434	active
+173436	active
+173444	active
+173455	passive
+173458	middlepassive
 173460	active
-173463	active
-173466	active
-173468	active
-173478	active
-173480	active
+173462	active
+173469	active
+173475	active
 173483	active
-173487	active
+173485	active
+173492	active
 173494	active
-173501	active
-173509	middle
-173513	middle
+173503	passive
+173508	passive
+173510	middle
+173515	active
+173517	active
+173520	active
 173523	passive
-173531	active
-173533	active
 active
-173536	active
-173538	active
-middle
-173541	active
-173545	active
-173548	passive
-active
-173558	middle
-173566	active
-active
-173569	active
-173581	active
-173583	active
-173599	active
-173605	middlepassive
+173529	active
+173533	passive
+173542	active
+173552	middle
+173563	middle
+173570	active
+173573	active
+173578	middle
+173582	passive
+173589	active
+173592	active
+173597	active
+173601	middle
+173608	active
 173611	middlepassive
-173617	active
-173619	active
-173628	middle
+173614	active
+173618	active
+173620	active
+173624	active
+173626	active
+173628	active
 active
 active
-173640	active
+173632	passive
+173634	passive
+173636	middlepassive
+173638	active
 173645	active
-173647	active
-173659	passive
-173664	active
-173666	active
-173668	active
-173670	active
-173682	active
-173684	active
-173687	active
 active
-173695	middle
+173649	middlepassive
+173657	middle
+173665	active
+173667	middle
+173672	active
+173674	active
+173676	active
 active
-173713	active
-173721	active
+173681	middle
+173688	active
 active
-173724	active
-173730	active
-173736	middlepassive
-173738	middle
-173744	active
-173753	active
-173755	active
-173757	active
-173766	active
-173770	active
-173772	active
-173781	middle
+173691	active
+173694	passive
 active
-173789	passive
-173791	active
-173800	active
-173804	active
-173806	passive
-173813	middle
-173819	active
-173824	active
-173826	active
-173835	active
-173839	middlepassive
-173850	active
-173852	active
-passive
-173860	active
 active
-173863	active
-173866	active
-173869	active
-173882	active
-173885	active
-173889	active
-active
-173897	active
-173906	passive
-active
-173915	active
-173920	passive
-173922	active
-173927	active
-173935	active
-173940	active
-173944	middlepassive
-173951	passive
-173953	active
-173955	active
-173958	active
-active
-173962	middle
-173964	middlepassive
-173971	middle
-173977	active
+173699	active
+173704	active
+173708	active
+173714	active
+middle
+173723	active
+173734	active
+173738	active
+173741	middlepassive
+173745	passive
+173751	active
 middlepassive
-173989	active
-173993	active
-174009	active
-174017	active
+173758	active
+173760	active
+173764	active
+middle
 active
-174022	active
-174024	active
-174029	active
+active
+active
+173771	active
+173775	active
+173779	active
+173781	active
+173785	active
+173790	active
+173794	active
+173797	active
+173801	active
 passive
-174032	active
-174034	active
-174036	active
-174042	active
+173806	active
+173808	passive
+173811	active
+173815	active
+173818	active
+173822	active
+173828	active
+173839	active
+173841	active
+173843	active
+173845	active
+173849	active
+173853	passive
 active
+173857	passive
+active
+173867	passive
+173870	active
+passive
+173874	passive
+173878	active
+173881	active
+passive
+173887	active
+173889	active
+173891	active
+173893	active
+173897	passive
+173901	active
+173903	active
+173906	active
+173908	active
+active
+173912	active
+passive
+173922	active
+173926	active
+173929	active
+173933	active
+173936	active
+173938	active
+173940	middle
+173947	active
+173952	active
+173954	active
+173959	active
+active
+173962	active
+173965	active
+173967	active
+173969	active
+173972	active
+173975	active
+173978	active
+173980	active
+173986	active
+middlepassive
+173990	active
+passive
+173996	active
+173999	passive
+174003	passive
+174005	active
+174007	active
+174011	active
+174014	active
+174020	active
+middle
+174027	passive
+174031	passive
+174033	active
+174035	active
+174044	active
 174048	middlepassive
+174053	passive
 174055	active
-174064	active
-174072	active
+174057	active
+174059	active
+174061	active
+174063	active
 174074	active
-174080	middlepassive
-174088	active
+174076	active
+passive
+174082	active
+174089	active
+174091	active
 174095	active
-174099	middle
-174103	passive
-174112	active
-174115	active
-174126	active
-174142	middlepassive
-174144	active
-174156	passive
-174164	passive
-174169	passive
-174171	active
-174182	passive
+174101	active
+174104	active
+174108	active
+174110	passive
+174113	active
+174118	active
+174122	active
+174128	active
+174132	active
+174136	active
+174140	active
+active
+174143	active
+active
+174148	active
+174152	active
+174154	active
+174157	active
+passive
+174166	active
+174168	active
+174172	active
+174176	active
+174180	active
 174185	active
-174187	middle
-174191	active
-active
-174194	active
-174202	active
+174187	active
+174189	active
+174195	active
+174197	active
 174204	active
-active
-174215	middle
-174217	passive
-174221	active
-174230	middle
-174233	active
+174209	passive
+174212	active
+174214	middlepassive
+174217	active
+174222	active
+174227	active
+174230	active
+174235	active
 174237	active
-174239	middle
-174249	active
-174256	middle
-174262	passive
-174267	passive
+174243	passive
+174246	active
+174253	active
+174256	passive
+passive
+174260	active
+active
+174265	middle
+passive
 174269	active
 174271	active
-active
+174275	active
 174279	active
-174282	passive
+active
+174289	passive
+active
+active
 174294	active
-174308	active
-174316	passive
-active
-active
-174321	active
-174326	active
-174328	active
+174300	active
+174306	active
+174312	active
+174318	active
+174320	active
+174325	active
+174329	active
 174332	passive
-174336	active
+174336	passive
+174338	middle
+174343	active
+174350	active
+174357	active
+174360	active
+174367	middle
+174375	active
+174383	active
+174385	active
+174387	active
+174392	passive
+174396	active
+174398	active
+174403	active
+174405	active
+174407	active
+174409	active
+174414	active
+174419	active
+174421	active
+174425	active
 active
-174344	passive
-174349	active
-174365	active
-174370	active
-174374	active
-174376	active
+174429	active
+174431	active
+174435	active
+174440	passive
+174446	active
+174449	passive
 active
-174382	active
-174389	active
-174395	active
-174400	active
-174402	middlepassive
-174404	active
+174454	active
 active
-174410	middle
-174416	active
-174424	passive
-174427	passive
-174434	passive
-174439	active
-active
-174442	active
-174445	active
-active
-174459	middlepassive
-middle
-active
-174465	middlepassive
-174467	passive
+174461	active
+174463	middle
+174468	middle
 174471	active
-174476	active
-174480	active
-174482	passive
-174493	active
-174503	active
-174508	active
+174477	active
+174484	middle
+174490	active
+174492	active
+174497	active
+174502	passive
+174507	active
+174509	active
+174515	middle
+174517	active
 174521	active
-174530	active
-174539	active
-174547	active
-174552	passive
-174558	active
-passive
-174561	passive
-174566	active
-174569	active
-174585	passive
-174595	active
-174605	middle
-174613	active
+174524	active
+174528	active
+174534	passive
+174537	active
+174545	active
+174551	passive
+174564	active
+174570	passive
+174574	active
+174577	active
+174590	active
+174599	active
+174604	active
+174608	active
+174611	passive
+174617	active
 174621	active
-174624	active
+174623	active
+174626	middle
+174632	active
+174637	active
+174639	active
 174642	active
-174647	passive
-174698	active
-174705	active
-174709	active
-174711	active
-174718	active
+174644	active
+passive
+174651	active
+174654	middle
+174656	middle
+174663	active
+174667	active
+174669	active
+174671	middle
+174674	passive
+174678	active
+174680	active
+174687	passive
+174692	middlepassive
+active
+passive
+174696	active
+active
+174702	passive
+174707	passive
+174710	active
+174714	active
+174717	active
+174720	active
+174723	active
+active
 174726	active
-middlepassive
-174737	active
-174741	middlepassive
-174743	active
+174729	active
+174736	active
+174738	active
+174744	active
 active
-174746	active
-174754	active
+174748	passive
+174751	active
+174756	middle
 active
-174757	active
-174759	active
-174761	active
-174763	active
-174765	active
-174767	middle
-174813	active
+174760	active
+174762	active
+174767	active
 active
-174820	active
-174822	active
-174825	active
-middlepassive
-174833	middle
-174838	active
-174843	active
+174772	active
+174775	active
+174780	active
+174784	active
+active
+active
+174789	active
+174792	active
+174795	active
+174804	active
+active
+174810	active
+174812	passive
+174815	active
+174821	active
+174824	active
+174826	active
+active
+174834	active
+174837	passive
+174839	active
+174842	active
+174847	active
+active
 174855	active
-174865	passive
-174870	middle
-174873	active
-174879	middlepassive
-174891	active
-174902	active
-174905	middle
-174922	middle
+174857	active
+174861	active
+174867	active
+174870	active
+174872	active
+174876	middle
+174879	middle
+174881	active
+174889	active
+passive
+174893	active
+174901	active
+174903	active
+174908	active
+174912	active
+passive
+active
+174917	active
+174921	active
 174924	active
-174933	middlepassive
-174946	active
+174927	active
+active
+174930	active
+174932	middlepassive
+passive
+174937	active
+174941	active
+active
+174944	active
+174950	active
+active
 174953	active
-174967	active
-174977	passive
-174992	active
-174995	active
-174999	active
+174957	active
+174961	active
+174964	active
+174967	passive
+174969	middle
 passive
-175011	active
-175015	active
-175017	active
+active
+active
+174974	active
+174979	active
+174981	middle
+174984	active
+174988	active
+174990	active
+174994	active
+175000	active
+175002	active
+175005	active
+175007	active
+active
+175013	active
+175019	active
+175025	active
 175029	active
-175033	active
-175044	middle
-175050	active
-175054	middle
+175031	active
+175035	middle
+175042	middle
 passive
-175068	active
-175073	passive
-175076	active
-175085	active
-175093	active
-175098	active
-175107	active
-175116	active
-175137	middle
+175045	middlepassive
+175049	active
+175053	active
+175059	middle
+175063	active
+175066	passive
+active
+175071	active
+175080	active
+active
+175086	active
+175089	active
+175092	active
+175094	active
+175101	passive
+175103	active
+175109	active
+175118	active
+175121	active
+175126	active
+175131	active
+175135	middlepassive
+175137	active
+175141	middle
+175143	active
+175145	active
+175147	active
+middlepassive
+175151	active
+175154	middlepassive
+175158	active
 175161	active
-175172	passive
-175176	active
-passive
-175180	passive
-175185	passive
+175163	active
+175165	active
+175168	active
+175170	passive
+175173	passive
+active
+175178	active
+175183	passive
+active
 175187	active
-175194	active
+175193	active
+175196	middlepassive
+passive
+175200	active
+175202	active
 175207	active
+175211	active
 active
-175216	middlepassive
+175215	middlepassive
 175220	active
-175229	middlepassive
-active
-middlepassive
-175235	middlepassive
+175223	passive
+175225	middlepassive
+175230	middlepassive
+175232	active
+175237	middlepassive
 175240	active
-175249	passive
-175257	middle
-175285	passive
 active
-175289	middlepassive
-175293	active
-175299	active
-175308	active
-175330	middle
-175337	middle
-175355	active
+175245	active
+175247	active
+175250	active
+175253	active
+175259	middle
+175264	active
+active
+active
+active
+175273	middlepassive
+175277	middle
+175281	active
+175284	active
+175286	active
+active
+175290	active
+175294	passive
+active
+175297	passive
+175303	active
+175307	active
+active
+175310	active
+175312	active
+175316	passive
+active
+175319	active
+175321	active
+175326	active
+175330	active
+175336	active
+175339	active
+175346	passive
+175348	active
+175354	passive
 175357	active
-active
+175359	passive
 175366	active
+175369	active
+175375	active
+175378	middlepassive
+175381	active
+175384	active
+175389	active
+175395	active
+175399	active
 active
-175371	active
-175373	active
+175402	active
+175407	active
+175410	active
 175412	active
+175417	middle
 175420	active
-175425	active
+middlepassive
+175427	active
+175431	active
 175433	active
-175439	active
-175446	active
-175451	active
-175455	active
-175461	active
-175465	active
-175474	active
-175477	middlepassive
-175480	middlepassive
-175484	middlepassive
-middlepassive
+175435	active
+175438	active
+175441	passive
+175445	active
+175453	active
+175456	active
+175460	active
+175463	active
+175467	active
+175469	active
+175472	active
+175478	active
+active
+175481	active
 175487	active
-175490	middlepassive
-175500	middle
-175503	middlepassive
-175513	middle
+175490	passive
+175494	active
+175496	active
+175500	active
+active
+175506	active
+175508	active
+175512	active
 175517	active
-175535	active
-175540	active
-175547	middle
-175549	active
-175553	active
-175561	active
-175564	active
-175566	active
+175520	active
+active
+175526	active
+175530	passive
+active
+175534	middle
+active
+175537	active
+175544	active
+175546	active
+175552	active
+active
+175559	middlepassive
+175563	active
+175567	passive
+175574	active
+175576	active
 175578	active
-175591	active
+175582	middle
+175584	active
+175587	active
+175597	middlepassive
 175599	active
-175602	active
-175604	middlepassive
+175603	active
+active
 175607	active
-175609	passive
-175613	active
-175615	passive
-active
+175609	middlepassive
+175615	active
+175617	active
 175619	active
-175621	active
-175623	active
 175626	active
-175628	passive
-175631	active
-175634	passive
-175637	passive
-175640	active
-175644	passive
-175650	middlepassive
-middle
-175655	active
-175663	active
-175669	middle
-175675	passive
+175634	active
+175637	active
+175641	active
+175643	active
+175651	active
+175653	active
+active
+175665	active
+175673	active
+175676	active
 175678	active
+175680	active
+175686	active
+175698	active
+175704	active
 active
-175685	passive
-middle
-175691	active
-175703	active
-175705	active
-175707	active
-175714	active
-175718	passive
-middle
-175721	active
-175733	active
-175743	active
-175746	passive
-175775	active
-175797	passive
-175800	active
-175815	active
-175818	active
-middle
-175821	active
-175824	active
-middlepassive
-175827	active
-175829	active
-175832	active
-175839	active
-175842	middlepassive
+passive
+175708	active
+175710	active
+175715	active
+passive
+175719	active
+175722	active
+175726	active
+175737	active
+175740	active
+175746	active
+175752	active
+175754	active
+175763	active
+175771	active
+175778	active
+175782	active
+175785	active
+175788	middle
+active
+175793	active
+175796	active
+175799	active
+175805	passive
+175809	passive
+175811	middle
+175814	middle
+active
+175817	active
+175822	middle
+175827	passive
+active
+175830	active
+175834	active
+175836	active
+175844	active
 175849	active
-175853	active
+175851	active
+middle
+175855	active
+175859	active
+175863	active
+175866	active
 active
-175858	middle
-active
-175862	middle
-active
-175867	active
-175869	active
 175871	active
-175873	active
-active
-175882	active
+175875	active
+175879	passive
 175884	active
-175886	active
-middle
-175898	passive
-175910	middle
-active
-175918	middle
-175928	active
-175942	middle
-175947	middle
-175958	active
-175960	active
+175888	passive
+175891	active
+175896	active
+175901	middlepassive
+175912	active
+175917	active
+175920	active
+175923	active
+175926	middle
+175929	active
+175933	middlepassive
+175940	active
+175948	active
+175954	passive
+175957	active
 175966	middle
-175981	passive
-175985	middle
-175991	passive
-175996	middle
-176000	active
-176008	active
-176015	middle
-176030	passive
-176034	active
+175972	middle
+passive
+175976	active
+175978	passive
+175981	active
+175985	active
+175988	active
+175990	active
+active
+176004	active
 middle
-176048	active
-176056	active
-176066	middle
+176007	active
+176010	middle
+176014	active
+176016	active
+176021	active
+active
+176025	active
+176027	active
+176031	passive
+176034	active
+176037	middle
+176039	active
+passive
+176043	middlepassive
+active
+176049	active
+176055	active
+176059	middle
+176062	active
+176064	active
 176072	passive
-176082	active
-176096	active
-176105	middlepassive
-176109	active
+176074	active
+176077	active
+176081	active
+176084	active
 active
+176089	passive
+active
+176093	middlepassive
+176095	active
+176097	active
+176103	active
+176105	active
+176108	active
+176111	active
 176117	active
-176119	passive
+active
 176121	active
-176123	active
-176133	active
-176139	active
-176146	active
-176167	active
-176175	passive
-176193	active
-176195	middle
-active
-176199	active
+176126	active
+176129	active
+176132	active
+176135	active
+176138	active
+176140	active
+176144	middlepassive
+176147	active
+176150	active
+176158	active
+176164	passive
+176166	active
+passive
+176170	active
+176174	passive
+176177	middle
+176179	middle
+176181	active
+176186	active
+176190	active
+176194	passive
+176200	active
 176204	active
+176208	passive
 active
-176207	middle
 176213	active
-176216	active
-active
-176223	active
-176226	active
-176228	active
-176231	active
-176239	active
-176257	active
-176261	active
-active
+176219	active
+176222	active
+176227	active
+176230	active
+176234	middle
+176237	active
+176239	passive
+176244	active
+176247	active
+176251	passive
+176255	active
+176260	passive
+176262	passive
 176264	active
-176279	active
-176300	active
-176303	active
-active
-176313	active
+176268	active
+176270	active
+176273	active
+176276	active
+176278	active
+176281	active
+176284	active
+176287	active
+176290	active
+176296	active
+176304	active
+176308	active
+176312	active
 176317	active
-176319	active
+176319	passive
 176321	active
-176327	active
-176334	active
-176346	active
-176348	active
+176326	active
+176328	active
+176330	active
+176333	active
+176336	active
+active
+176344	active
+176347	active
+176351	active
 176357	middle
-176361	active
+176359	active
 176364	active
-176366	active
-176368	active
-176372	active
-176374	active
-176378	active
-176381	middle
-176387	active
-176393	active
-176402	active
-176405	active
+active
+176369	passive
+176371	middle
+176376	active
+176383	active
+176390	active
+176398	middle
+176405	middlepassive
 176408	active
 176412	active
-176417	active
-176419	active
-176423	active
-176430	active
-176432	passive
-176438	active
-176444	active
-176450	active
-176455	active
+176414	active
+176417	passive
+176423	passive
+176434	active
+176441	middlepassive
+176449	active
+176451	active
+176454	active
+176458	active
 active
-176459	active
-176463	active
-176468	active
-176474	active
-176476	passive
-176478	passive
-176485	active
-middle
+176467	active
+passive
+176477	active
+176479	active
+176482	active
+176486	active
+176490	active
 176493	active
-176500	active
-176506	active
-176520	active
+passive
+176499	active
+176501	active
+176505	active
+176513	active
 176522	active
-176524	active
-176526	active
-176540	passive
-176542	active
-176546	passive
-176548	active
-176551	active
-176565	active
-176567	passive
-176570	middlepassive
-176575	active
-176581	active
-176583	active
-176585	middle
-176592	active
-176595	active
+176524	middle
+176528	passive
+176531	active
+176536	passive
+active
+passive
+176541	middle
+active
+176544	active
+176547	active
+176554	passive
+176557	active
+176565	middle
+176571	active
+176574	active
+active
+176582	active
+active
+176589	active
+active
+176599	passive
+176603	active
 176605	active
+176611	active
 active
-176609	active
-176625	active
-176632	active
-176638	passive
-176642	passive
-176650	passive
-176655	passive
-176664	active
-176668	passive
-176671	passive
-176683	active
-176695	active
+176619	active
+176622	active
+176629	active
+176635	active
+176640	active
+176647	middle
+middle
+176663	active
+176667	active
+176669	active
+176673	active
+176678	active
+176681	active
+176684	active
+176691	passive
+176696	active
+active
 176702	middle
-176712	active
-176717	active
-176730	middlepassive
-176732	active
-176748	active
+176705	active
+passive
+176711	active
+176714	active
+active
+176717	passive
+176725	active
+176727	passive
+active
+176731	active
+176733	active
+active
+176738	active
+176740	passive
+176746	active
+176750	active
 176752	active
-176763	active
-176766	active
-176773	active
+176756	active
+176761	active
+176765	active
+176767	active
+active
+active
+176772	active
+active
 176777	active
-176781	active
-176785	active
-176792	passive
-176805	passive
-176809	active
-176820	passive
+176779	active
+active
+176783	active
+176788	active
+176790	active
+active
+176795	active
+passive
+active
+176801	middle
+passive
+176805	active
+active
+176810	middle
+176812	middle
+176816	active
+176822	active
 176825	active
-176836	passive
-176850	active
-176852	active
-176865	active
-176886	passive
-176891	middlepassive
-176893	active
-176895	active
-176909	active
-176922	active
-176937	active
-176939	active
-176949	active
-176953	active
-176971	passive
-176980	passive
-176982	middle
-176991	active
+176827	active
+176829	active
+176835	active
+176837	passive
+176840	active
+176845	active
+176847	passive
+176855	active
+176859	active
+176867	middle
+176869	active
+176873	active
+176877	active
+176886	active
+176890	active
+176894	active
+176897	active
+176900	active
+active
+active
+176909	passive
+active
+active
+176913	active
+176916	active
+176919	active
+176921	active
+176927	passive
+176931	middle
+176936	active
+176943	active
+176946	active
+active
+176952	middle
+active
+176956	active
+active
+176964	active
+176966	active
+176972	active
+176974	active
+176979	active
+176985	active
+176987	middlepassive
+active
 176993	active
-176998	active
-177001	passive
+177001	active
 active
-177010	active
-177014	passive
+177005	active
+177008	active
+177013	passive
+active
+177019	passive
+177022	active
+177024	passive
 177028	active
-177047	middle
-177073	middle
-177087	active
+177030	active
+177036	middlepassive
+active
+active
+177040	passive
+177045	active
+177048	middle
+177051	active
+177055	active
+active
+177060	active
+177062	active
+177066	active
+177071	active
+177074	passive
+177077	middle
+177079	active
+177081	active
+177084	active
+177086	active
 177090	active
-177099	middle
-177107	passive
+177094	active
+177098	active
+177102	active
+177105	active
+active
+177108	active
+177113	active
+177115	active
+177117	active
+177119	active
 177121	active
-177124	active
-177134	active
-177141	middle
-177153	active
-177159	middlepassive
-177165	active
-177169	active
-177171	active
-177179	active
-177181	active
-177183	active
+active
+177127	active
+177132	active
+177136	active
+177139	active
+active
+177144	active
+177146	active
 active
 active
-177187	passive
-177189	passive
-177191	middlepassive
-177193	active
+177150	active
+177152	active
+177155	active
+177159	active
+active
+177162	active
+177166	active
+passive
+177173	active
+177176	active
+177181	middle
+177188	active
+177191	active
+177195	active
+177202	active
+177205	passive
 177207	active
+177210	middlepassive
+passive
 active
-177211	middlepassive
-177226	middle
-177240	active
-177244	middle
-177254	active
-177256	active
-177258	active
-active
-177263	middle
-177276	active
-active
-177279	active
-177282	passive
-active
-177285	active
-177288	active
+177215	active
+177220	active
+177226	passive
+177228	active
+177230	middle
+177232	active
+177235	active
+177239	middle
+177243	active
+177245	active
+177248	active
+177253	active
+177260	middle
+177264	active
+177272	active
+177283	middle
+177286	active
+177289	middle
 177296	active
-177303	active
-177316	active
-middle
-177332	active
-177355	active
-177363	active
-177370	middlepassive
-177377	passive
-177389	active
-middlepassive
-177402	active
-177404	active
+177301	active
+177303	middle
+177308	active
+177314	active
+177320	active
+177323	active
+177325	active
+177331	active
+active
+177338	active
+177340	active
+177344	active
+177347	active
+177351	active
+177356	active
+active
+177359	active
+177361	active
+177365	active
+177369	active
+177374	middle
+active
+177377	active
+177383	middle
+active
+177390	active
+177393	active
+177395	middle
+177400	active
+177406	active
 177410	active
-middle
-active
-177414	active
-177416	active
+177412	active
+177415	middle
+177417	active
 177421	active
-177425	active
-177432	active
-177436	active
-177440	active
+177423	active
+177426	active
+177430	active
+177434	active
+active
+177443	passive
+177445	active
 177448	active
-177454	active
-177459	active
-177465	active
-passive
-177472	active
-177474	passive
-177477	active
-177484	active
+177451	active
+177453	active
+177456	active
+active
+177461	active
+177464	active
+177467	active
+active
+177475	active
+177479	active
+177481	middle
+177487	active
 177489	active
-177493	active
-177504	active
-177516	active
-177518	active
-177520	active
-177524	active
-177532	active
-177536	passive
+177492	active
+177498	active
+177500	middle
 active
-177540	passive
+177507	passive
+177511	active
+177515	active
+177519	active
+177521	active
+177523	active
+177527	passive
+177529	active
+177538	active
+177540	active
+177545	active
+177548	active
 active
-177556	passive
-177559	active
-passive
-177563	passive
-177567	active
-177571	active
-passive
-177583	active
-177585	active
-177587	active
-177589	active
-177591	active
-177593	active
-177595	passive
-177603	active
-177605	active
-177610	active
-177612	active
+177551	active
+177553	active
+177567	passive
+177570	active
+177572	active
+177574	middle
+middlepassive
 active
-177618	active
+177580	active
+active
+active
+177584	middlepassive
+active
+177590	middle
+177592	active
+177598	active
+177601	active
+177604	passive
+177609	active
+177611	active
+177617	middle
+177619	active
+active
+177625	active
+177629	active
+177632	active
+177636	active
+177639	middle
+middle
+177644	active
+177646	active
+177648	middle
+177655	active
 passive
-177635	active
-177642	active
-177645	active
-177653	active
 177658	active
 177660	active
-177662	middle
-177672	active
-177680	active
-177683	active
-177691	active
+177666	middlepassive
+177669	active
+177673	middle
+177676	middlepassive
+177679	active
+177682	active
 active
-177694	active
+active
+active
+177690	active
+177693	active
 177697	active
-177699	active
-177701	active
-177704	active
-177707	active
+active
+active
+177703	active
+177705	active
+177708	active
+177710	active
+active
 177713	active
-177715	active
-177725	active
-middlepassive
-177731	active
-177733	passive
-177742	active
-177749	passive
-177757	passive
-177759	active
-177764	active
-177770	active
-177773	active
-177781	active
-middle
-177793	passive
-177801	passive
-177803	active
-177808	active
-177825	active
-177831	middlepassive
-177841	passive
+177717	passive
+177720	passive
+177723	middle
+177728	active
+177730	active
+177734	active
+177737	active
+177745	active
+177747	active
+177749	middlepassive
+177756	active
+177758	passive
+177762	active
+active
+177769	active
+177771	active
+177775	active
+177778	active
+177782	active
+177784	passive
+passive
+177788	active
+active
+177792	middle
+177795	middlepassive
+177798	active
+177803	passive
+177807	active
+177809	active
+177812	active
+177817	active
+177821	active
+177826	active
+177833	active
+177838	active
 177843	active
-177848	active
-177850	active
-177853	active
-177855	active
+177846	active
+active
+active
+177852	passive
+middlepassive
+177860	active
+177863	passive
+177866	active
 177868	active
-177870	active
-passive
+177872	active
+177874	active
 177881	active
-177896	active
-177900	active
-177907	active
-177917	active
-177920	active
-177926	active
-177928	passive
-177934	active
+177886	active
+177895	active
+177899	active
+177902	active
+177904	passive
+177908	passive
+177912	active
+177915	active
+177921	active
+177923	active
+177930	active
+177933	active
+177937	active
+177941	active
 177943	active
-177950	active
+177945	active
+177948	active
+177951	active
+177955	active
 177960	active
+middle
 177964	active
-177970	active
-177976	active
+177966	active
+177971	passive
+177975	active
+177978	active
+177980	active
+177985	active
+177989	active
+177996	active
+178002	middle
+178006	passive
+178010	active
+178012	active
 active
-177979	active
-active
-177984	active
-177988	active
-177992	active
-177999	active
+178016	passive
+178018	passive
+178021	active
+178023	active
+178026	active
+178030	passive
+178034	active
+178038	active
 passive
-178015	active
-178019	active
-178025	active
-178033	active
-178039	active
-178050	active
-178052	active
+178041	passive
+178044	middle
+178048	active
+178051	active
+middle
 178054	active
+178058	active
+178060	active
 178066	active
-178068	active
-178079	active
-178087	passive
+178070	active
+178074	active
+178077	passive
+178080	active
+178082	active
+178088	active
 178092	active
-178094	middlepassive
-178097	active
-178106	active
+178096	active
+178100	active
+178106	middlepassive
+178108	active
+178110	active
+178112	active
 178117	active
-178120	active
-178130	active
-178132	active
-178143	passive
-178148	active
-178163	active
-178166	passive
-178168	passive
-178174	active
+178121	active
+178123	middlepassive
+178129	active
+178132	passive
+178134	active
+178136	active
 active
-178184	middle
-passive
+178142	active
+178147	active
+178151	active
+178153	active
+178155	active
+178157	active
+178159	active
+178161	middlepassive
+178166	passive
+active
+178172	active
+active
+178176	active
+178180	passive
+active
+178183	active
+178185	passive
+active
 178190	active
 178194	active
-178201	active
-178208	active
-active
-178224	passive
-active
-178227	active
+178196	active
+178199	active
+178205	active
+178211	active
+178219	active
+178225	active
+178229	active
+178231	passive
 178233	active
-178245	active
-178256	active
-178268	active
+178236	active
+178238	active
+178241	active
+178246	active
+178248	active
+178252	active
+178255	middle
+178259	active
+178262	active
+178266	active
+178271	active
+178275	active
 178281	active
-178283	active
-178294	active
+178284	active
+178287	active
+178289	active
+178295	active
 178300	active
-178303	passive
-178309	passive
-178311	middle
+178304	active
+passive
+178310	active
+178312	active
+178315	active
+178317	active
+active
 178321	active
-178335	active
-178350	active
-178355	active
-178367	middle
-178383	active
-178400	active
-178402	active
-178404	active
-178414	passive
-178421	active
-178423	active
-178432	active
-178434	active
+178325	active
+178327	active
+178331	active
+178334	active
+178339	active
+178342	active
+178346	active
+178350	middle
+178353	active
+178359	active
+178363	active
+178367	active
+active
+178370	passive
+178374	middle
+178377	active
+178382	active
+178385	passive
+178391	passive
+178393	active
+178397	active
+178401	passive
+178405	active
+active
+178409	active
+178415	active
+178418	active
+178420	active
+178422	active
+passive
+178428	active
+178430	passive
+178433	active
 178436	active
-178438	active
-178446	active
+passive
+178442	active
+178447	active
+178450	active
+passive
 178456	active
-178460	active
+active
+178459	active
+178461	active
+active
+passive
+middle
 178467	active
+178472	passive
+178476	active
+178481	active
 active
-178472	active
-178474	active
-178478	active
-178488	passive
-178500	active
-178503	passive
-active
-178511	active
-active
+178495	active
+178501	passive
+178503	active
+178506	active
+178512	active
+178514	active
+178520	active
+178522	passive
 178524	active
-178526	middle
-178536	middle
-178541	active
-178553	active
-178565	middle
-178577	active
-178581	active
-178586	active
-178595	passive
-178604	active
-178608	active
-178620	middle
-178622	active
-178631	active
-178634	active
-178642	active
-178652	passive
+178526	middlepassive
+178534	active
+active
+178539	active
+178544	active
+178547	active
+178551	passive
+178553	middlepassive
+active
+178557	middle
+middlepassive
+active
+178563	middle
+178566	active
+178570	active
+178573	active
+178577	passive
+178580	active
+178582	active
+178585	active
+178592	middle
+178600	active
+178606	passive
+178609	active
+178612	active
+178615	active
+178621	active
+178623	active
+178626	active
+178632	active
+178635	active
+178640	active
+178643	active
+178648	active
+active
+active
 178655	active
-178669	active
-178683	passive
+178660	active
+178663	active
+178665	active
+178672	active
+178676	active
+178683	active
+178686	active
+178688	active
+178697	active
+active
+178700	active
+178702	active
+178706	active
 178709	active
-178717	passive
-178725	active
-178728	active
+178711	active
+178714	active
+178716	active
+178719	active
+178722	active
+178724	active
+178726	active
+178732	active
+178736	active
+178742	active
+active
+178746	active
 178748	active
-178767	active
+178762	active
+178770	middle
+178773	active
+178775	passive
 178778	active
-178785	active
-178791	passive
-178804	active
+178780	passive
+178782	active
+178799	active
+178805	active
+passive
+178810	active
 178812	active
-178816	active
-178821	middle
+178821	active
+178825	active
+178827	active
+178829	passive
 178835	active
-178842	active
-178844	active
-178847	active
-178849	active
-passive
-178859	active
-178863	middle
-178867	middle
-178881	active
-178889	active
-178891	active
-178894	middle
+178837	active
+178839	passive
+178843	active
+178846	active
+178856	active
+178858	active
+178876	active
+178883	active
+178894	passive
 178897	passive
-178905	active
-178907	active
-178921	passive
-178932	middlepassive
+178900	active
+178903	active
+178906	active
+178910	active
 active
+178914	active
+178920	active
+178923	active
+active
+178928	middlepassive
+178932	active
+178941	active
+178946	active
+178949	middlepassive
 passive
-178936	active
-active
-178945	passive
-178955	passive
-178960	active
-178967	active
+178954	active
+178959	active
+178964	active
+178969	active
 178973	active
-178978	active
-178981	active
+178980	active
+178988	active
 active
-178986	active
-178991	active
-179005	active
-179009	active
-179018	active
+178993	active
 active
-179024	passive
-179029	active
-179037	middle
+178998	active
+179008	active
 active
-179043	active
-179045	active
+179015	active
+179017	passive
+179019	active
+179024	active
+179026	active
+179043	passive
+179050	passive
 179054	active
-active
-179061	active
-179067	active
-179074	active
+179060	active
+179064	active
+179069	active
+179074	passive
 179078	active
+179083	middle
+179087	active
+179089	passive
+179092	active
+179094	passive
+179100	active
+179109	middlepassive
+179111	middlepassive
 active
 active
-179083	active
-179086	active
-179089	active
-179102	active
-active
-179108	active
-179112	passive
 179118	active
-179130	active
+179122	active
+179127	middle
+active
 179136	active
 179138	active
-active
-179154	active
-179157	passive
+179142	active
+179145	active
+179150	active
+179155	active
 179159	active
 179163	active
-179174	active
+179167	active
+179170	active
+179175	active
+179183	active
+179186	active
+179189	active
+179197	active
+179200	active
+179204	active
+179207	active
+179210	active
+179217	middlepassive
+179223	active
+179230	active
+179241	active
 active
-179188	active
-179192	active
-179199	active
-179209	active
-179214	active
-179218	active
-179227	middle
-179230	middle
-179232	active
+179245	active
 179247	active
-passive
-179254	active
+179251	active
+179256	active
+179264	active
 179268	active
-179272	active
-179282	active
-179289	active
-passive
-active
-179294	active
-179301	active
-179304	active
-179309	active
-active
-179312	active
-179314	middlepassive
-passive
-179321	active
-179325	active
-active
-179328	active
+179274	middle
+179283	active
+179285	passive
+179289	middlepassive
+179293	active
+179301	passive
+179306	active
+179313	active
+179318	active
+179323	active
+179325	middle
+179332	middle
 179339	active
+179343	active
 active
-179342	active
-179349	active
-179356	active
+179347	active
+179354	active
+179360	middle
 179362	active
-179367	passive
-179369	middle
+179370	active
+179375	active
+179379	active
+179383	passive
+179395	active
+179400	active
+179402	active
+179409	active
+179412	active
 passive
+179416	active
 active
-active
-179374	active
-179381	active
-179385	middle
-179388	active
-179394	active
-179396	active
-179403	active
-179415	active
-179417	active
 179422	active
-179424	active
-active
+179429	active
+middle
+passive
 179435	active
-179446	active
-179457	active
-179463	active
-179465	active
-179469	middle
-179481	middle
+179440	active
+179443	active
 passive
-179484	middlepassive
-179494	active
-179503	active
-179513	middle
-179519	active
-179522	passive
+middlepassive
+179449	active
+179453	middlepassive
+179455	active
+179458	active
+179465	passive
 active
-179531	active
-179550	active
+179468	active
+179470	active
+179473	passive
+179478	passive
+middlepassive
+179486	active
+179490	active
 active
+179495	middle
+179506	passive
+179508	active
+179510	active
+179514	active
+179517	middle
+179521	active
+179523	active
+179527	active
+active
+179530	active
+179533	active
+passive
+active
+179537	middle
+179540	active
+179542	passive
+179550	middle
+179557	active
 179561	active
-179566	active
-179569	active
-179572	active
-179586	passive
-179590	active
-179603	active
-179620	active
+179573	passive
+179577	active
+179579	active
+179583	passive
+179585	active
+179589	passive
+179591	passive
+179596	active
+179599	passive
+179601	passive
+179614	active
+179618	active
+179622	passive
 179625	active
-179635	active
-179643	active
-179649	middlepassive
-179651	active
-179657	middle
-179661	active
-179663	active
-179665	active
-179668	middlepassive
-179674	active
-179680	middlepassive
-179687	active
-179692	active
-179696	active
-179698	active
-179703	active
-179707	passive
-179710	passive
+179628	active
 active
-179717	active
-179727	passive
+179634	active
+179641	active
 active
-179732	active
-179740	active
-179745	middlepassive
+179652	active
+179654	active
+179660	active
+179662	active
+179666	middlepassive
+179670	middle
+179674	middle
+179680	active
+179687	middle
+179691	passive
+179695	passive
+179700	passive
+179707	active
+middle
+179714	active
 passive
-179751	active
-179753	active
-179760	active
-179766	active
-179768	active
-179773	middlepassive
-179784	active
-179789	passive
-179792	middlepassive
-179803	middlepassive
-179805	active
-179815	middlepassive
-179826	active
+179719	active
+179723	active
+179728	middle
+active
+179733	active
+179735	middle
+179738	active
+179740	active
+middle
+179745	active
+179749	middlepassive
+179752	middlepassive
+179755	middle
+179762	active
+179765	passive
+179775	passive
+179779	active
+179784	middlepassive
+179791	passive
+179794	passive
+179803	middle
+179809	middle
+179813	middlepassive
+179822	active
 179828	active
-179837	active
-179839	active
-179844	active
-179849	active
-179860	middle
+179841	active
+179847	middle
+179851	active
+active
+179860	active
+179862	active
+179865	active
+179867	active
 179871	active
-active
-active
-active
-179886	middlepassive
-179890	middle
-179894	active
-179900	active
-179902	active
-active
-179906	active
-179912	passive
-active
-179915	passive
-179925	active
-179931	active
-active
+179876	middle
+179880	middle
+179885	active
+179892	active
+179909	middle
+179928	active
 179934	active
 179936	active
-179940	passive
-active
-179943	active
-179945	active
-179954	active
+179939	active
+179942	middle
+179950	middle
+179955	passive
+179958	passive
 179960	active
-179969	active
-179976	active
-179989	passive
-179993	active
-180004	passive
-180007	active
-180009	passive
-180023	active
-180028	active
-180039	active
-180045	middlepassive
-180048	active
-180053	active
-180066	active
-180076	active
-180082	active
+179964	passive
+179967	passive
 active
-180085	active
-180090	active
-180093	active
-180095	active
-180105	middle
-180111	active
-middlepassive
-180123	active
-180127	active
-180129	active
+179972	active
+179976	middlepassive
+179979	active
+179981	active
+179985	middlepassive
+active
+179989	active
+passive
+179995	middlepassive
+180000	active
+180005	middlepassive
+180008	active
+180013	active
+180018	active
+180026	active
+180029	active
+180031	active
+active
+180038	active
+active
+180043	active
+180050	active
+180054	middle
+active
+180061	active
+active
+180070	active
+180075	active
+180077	active
+180084	active
+180086	middle
+180093	passive
+180099	active
+180102	active
+180109	active
+180116	active
+180119	active
+180124	active
 180131	active
-180136	active
-180139	passive
-180146	active
-180160	active
-180165	active
-180173	active
-180176	active
-180183	active
+180134	active
+180137	active
+180141	active
+middle
+180144	middlepassive
+180147	passive
+180152	active
+180158	active
+active
+180167	passive
+middle
+180171	active
+180175	active
+180177	middlepassive
+180180	active
+180182	active
+180184	middlepassive
 180187	active
-180193	active
-180204	active
 active
-180207	active
+180192	active
+180197	passive
+180201	middlepassive
+180205	active
+180208	active
+180212	passive
+active
+active
+180217	active
 180219	active
-180222	passive
-180227	active
-180231	active
-180239	active
+180223	active
+180230	active
 active
-180250	active
-180254	active
-180261	active
-180270	active
-180276	active
+180235	active
+180238	active
+180242	active
+180255	active
+180257	passive
+180260	active
+middle
+180264	active
+180268	active
+180272	active
 active
-180286	active
-180290	passive
 active
-180294	middle
+180277	active
+180285	middlepassive
+180291	active
+180295	active
+180298	active
 active
-180297	active
+180302	active
 180306	active
-180308	active
-180320	active
 active
-180331	middlepassive
+180310	active
+active
+180319	active
+180323	active
+active
+180330	active
+180334	active
 180338	active
-180342	passive
-180352	active
-180354	active
-180356	active
-180365	middle
+active
+180342	active
+active
+180351	active
+180355	active
+active
+180362	active
 180367	active
-180372	active
+active
+180370	active
 180374	active
 180376	active
-180390	middlepassive
-180394	active
-180398	active
+180379	active
+180381	active
+180384	active
+180386	passive
 active
+active
+180393	active
+active
+180396	passive
+180400	active
 180404	active
-180406	middlepassive
+180406	active
+180409	active
+180411	active
 180414	active
-180416	active
-180418	active
-180432	active
-180447	active
-180450	active
-180456	active
-180458	active
-180472	active
-180475	active
 active
-180498	active
+180418	active
+180423	active
+180425	middle
+180428	active
+180433	active
+active
+180439	active
+passive
+180442	passive
+180445	active
+180448	active
+passive
+180454	active
+180460	middle
+180468	active
+180480	active
+180485	passive
+180490	active
+180495	active
+180500	active
+180509	active
 180514	active
-180520	active
-180522	active
+180516	passive
+180519	active
+180522	passive
 180526	active
-180536	active
-180555	active
+180529	active
+180531	active
+active
+180534	active
+180537	middle
+180539	active
+180543	active
+180545	active
+180547	middle
+180550	middle
+180552	active
+180555	passive
+180558	active
 180561	active
 active
-passive
-180567	active
-180569	active
+180564	active
+180566	active
+180568	active
+180571	active
+180574	active
+180578	active
 180581	active
-passive
-180587	active
-180590	active
-180598	active
-180616	active
-180619	active
+active
+180586	active
+180589	passive
+180591	active
+180593	active
+180597	active
+180605	active
+180607	active
+180611	middlepassive
+180613	passive
+180618	passive
+180623	active
+180627	active
 180629	active
-180640	active
-180642	active
+active
+180633	active
+180636	middle
+180639	active
+180644	active
+180650	middle
+180653	passive
+180655	active
 180658	active
-180665	middle
-passive
-180675	active
-180682	middle
-passive
-180690	active
-180696	active
+active
+180661	active
+180669	active
+180672	passive
+180674	active
+active
+180680	active
+180686	active
+180688	middle
+180697	middle
 180699	active
-180706	middle
-180709	active
-180716	active
-180721	active
-180724	active
-180735	passive
-180742	passive
-180744	middle
+180704	active
+180707	active
+180712	middlepassive
+180717	passive
+180719	passive
+180721	passive
+180731	passive
+180734	middle
+180738	active
+180740	active
+active
 180749	middle
+180754	middle
+180759	active
+180762	active
+180766	active
+180770	middlepassive
 active
-180752	active
-180759	middle
-180764	passive
+180774	active
 active
-180769	active
-180776	active
-180780	active
-180796	active
-180804	active
-180808	active
-middle
-180812	active
+180779	middlepassive
+180782	passive
+180785	passive
+180787	active
+180790	active
+180794	active
+180798	middle
+180803	active
+180809	active
+active
 180819	active
-180824	active
-180830	active
+180821	active
 active
-180836	active
+180825	passive
+180831	passive
+180834	active
+180839	passive
+180842	passive
 180845	active
-180849	passive
-180857	active
-180864	passive
-180867	active
-180876	active
-180885	middlepassive
-180906	active
-180916	active
-180919	active
-180924	active
-180929	middle
-180933	active
-180941	middlepassive
-180955	active
-180972	active
-180983	passive
-180988	active
-181005	middle
-181013	middle
-passive
-181019	active
-181023	passive
-181028	active
-181034	active
-181037	active
-181039	active
+180847	active
+180849	active
+180852	active
+180856	active
+180861	active
+180865	active
+180870	active
+180873	active
+180875	active
 active
+180878	active
+180882	active
+active
+180889	active
+180892	active
+180896	active
+180898	active
+180904	active
+180907	active
+180911	active
+180915	middle
+middlepassive
+180921	active
+180923	active
+active
+180929	active
+180932	passive
+180934	middle
+active
+180939	active
+180943	passive
+active
+active
+180952	active
+180957	active
+180959	passive
+180969	passive
+180971	active
+180975	passive
+180978	passive
+180980	active
+180982	active
+180984	active
+180986	active
+180989	active
+active
+180993	active
+180997	active
+active
+181000	active
+181002	active
+active
+active
+181006	active
+181010	active
+181013	active
+active
+181016	active
+active
+181022	active
+181028	passive
+181031	active
+181035	active
+181046	active
 181055	active
-middle
-181060	active
-181063	middle
-181070	active
-181072	active
+active
+181062	active
+181066	passive
+181071	passive
+181073	active
+181076	passive
+181082	passive
 181084	active
-active
-181088	active
-181092	active
+181088	passive
+181091	active
+181095	passive
 181099	passive
-181102	active
-181107	middle
-181109	active
-passive
-181113	middlepassive
 active
-181122	active
-181131	active
-181138	middle
-181143	active
-181145	active
-181162	passive
-181164	active
+181103	active
+181110	active
+181112	middle
+181114	active
+181117	active
+181120	active
+181123	middle
+181128	active
+181130	middlepassive
+181135	passive
+181138	active
+181140	active
+181144	active
+181146	middle
+181148	active
+181154	middle
+passive
+181157	active
+181159	active
+181162	active
+181166	active
 181169	active
-181175	active
-181178	active
+181172	active
+181174	active
+181181	active
 active
-181183	passive
-active
-181187	middlepassive
 181189	active
-181191	active
-181197	active
+181194	middlepassive
+181198	active
 181200	active
-181203	active
+181202	active
+181206	active
 181208	active
-181218	active
+181210	active
+181212	middlepassive
+181215	active
+181225	active
+middle
 active
-181224	active
-181235	active
-181238	active
-181244	active
-181247	active
-181250	active
-181252	active
-181259	middlepassive
-181262	active
-181265	active
-181279	active
-181288	passive
-181290	active
+181231	middlepassive
+181233	active
+181237	active
 passive
-181296	active
-181303	passive
-181310	middle
-181314	middle
-181316	active
-181321	active
-181327	active
-181335	passive
-181347	active
-181357	active
-181363	passive
+181242	active
+181244	active
+181246	active
+181252	active
+181255	active
+middle
+181260	active
+181263	middlepassive
+181267	active
+181269	active
+181272	middle
+middle
 active
-181368	active
-181379	active
-181382	active
-181390	active
-181396	active
-181400	middle
-181403	active
-181405	passive
-181413	active
-181418	active
-181426	passive
-181433	active
-181441	passive
-181443	passive
-181445	active
-181451	active
-181456	active
+181280	passive
+181283	middlepassive
+active
+middle
+active
+active
+181292	active
+middle
+181296	active
+181310	active
+181312	active
+181315	active
+181317	active
+181319	active
+active
+181324	active
+181326	active
+active
+181330	active
+181334	active
+181338	active
+181340	active
+active
+181346	active
+181349	middle
+181353	active
+181355	active
+181359	active
+181363	active
+181367	active
+181370	active
+181378	active
+181381	middle
+181383	active
+181386	middlepassive
+active
+181391	active
+181399	passive
+181402	active
+middle
+181407	active
+181412	active
+181415	active
+181420	middlepassive
+active
+181424	active
+181428	active
+181430	passive
+181437	active
+181439	active
+181441	active
+181443	active
+181450	passive
+181453	active
 181461	active
-181468	active
-181470	active
+181463	middlepassive
+181466	active
 181473	active
 181479	active
+181482	active
 181484	active
 181487	active
-181499	active
-181516	active
-181523	active
-181530	active
-181537	active
-181539	passive
-181543	active
-181549	active
-181553	active
-181555	active
-181561	active
-181564	active
+181489	active
+181491	active
+middlepassive
 active
-181579	active
-181586	active
-181590	active
-181601	middle
-181603	active
+181500	active
+181502	active
+181504	active
+181507	middlepassive
+181511	active
+181514	active
+181517	active
+181519	active
+181523	active
+181526	active
+181529	active
+181534	active
+181538	active
+181540	active
+181543	middle
+181547	middlepassive
+181552	middlepassive
+181559	active
+181562	active
+active
+181567	active
+active
+181570	active
+181574	active
+181577	passive
+active
+181581	active
+181583	active
+181588	active
+181592	active
+active
+active
+181598	active
+active
+181603	middlepassive
+181608	active
 181611	active
 181613	active
-181617	passive
-181619	middle
-181628	active
-181640	active
-181650	active
-181666	middle
-181680	middlepassive
-181684	active
+181618	middle
+181620	active
+181622	active
+181624	active
+active
+181629	active
+181633	active
+181636	active
+181641	middle
+181645	active
+181649	active
+active
+active
+181656	active
+181663	active
+181665	middle
+active
+181668	active
+181671	active
+181676	active
+181678	passive
+181683	active
+181686	active
+181688	middle
+181691	active
 181693	active
-181697	active
-181700	passive
-181712	passive
-181733	active
-181748	middlepassive
-181762	active
-181764	active
-181767	active
-181773	active
+181697	middle
+181699	active
+181709	active
+181712	active
+181714	active
+181716	active
+181719	active
 active
-181791	active
+181723	passive
 passive
-181809	active
-181811	active
-181814	active
-181820	active
-181827	active
-181832	active
-passive
-181843	active
-181845	active
-181853	active
-181868	active
-181885	active
-181887	middle
-181895	passive
-181902	active
-181913	passive
 active
-181916	passive
-181919	middle
+181730	active
 active
-181923	active
-181926	active
-181940	passive
-181943	active
-181958	middle
-181968	active
-181974	active
 active
-181986	active
-active
-181996	active
-active
-182016	passive
-182022	active
-182024	active
-182035	active
-active
-182048	active
-182052	active
-182059	middle
-passive
-182067	active
-182074	middle
-passive
-182081	active
-182087	active
-182103	middle
+181736	active
+181740	middle
+181742	active
+181746	active
+181748	active
 middle
-182121	active
-182125	passive
-182134	active
-182141	active
-182145	active
-182149	active
-182159	active
-182164	active
-182170	active
-182184	passive
-182195	active
+181752	active
+181754	active
+181756	active
 active
-182205	middle
-182208	active
+181763	active
+181766	active
+active
+181776	passive
+181783	passive
 passive
-182218	active
-182221	active
+181787	active
+181789	active
+181794	passive
+181796	middle
+181800	active
+181807	active
+181812	passive
+181816	active
+181819	active
+181821	active
+181827	active
+181829	active
+181832	passive
+181838	middle
+181840	active
+181844	active
+181847	active
+181850	middle
+181856	active
+181861	active
+181863	active
+181867	active
 active
-182227	passive
-182240	active
-182242	passive
+181873	passive
+181875	passive
+181878	active
+181882	active
 active
-182248	active
+181886	passive
+181888	active
+181892	active
+181894	middlepassive
+181899	active
+181903	active
+181910	active
+181918	active
+181921	middle
+181925	active
+passive
+181929	active
+181932	active
+181935	active
+181939	active
+181941	active
+181946	active
+passive
+181949	active
+181951	passive
+181954	active
+181957	active
+181961	active
+active
+passive
+active
+181969	active
+181973	middlepassive
+active
+181976	middle
+181980	active
+181982	active
+181987	middle
+181989	passive
+181992	active
+182001	active
+182006	active
+active
+182009	passive
+182014	active
+182018	active
+182023	active
+182026	active
+182029	active
+182032	active
+182042	active
+182044	active
+182046	active
+active
+182051	active
+182053	active
+182056	active
+182062	active
+182064	active
+182068	active
+182073	active
+182076	active
+middlepassive
+182079	active
+182084	active
+182086	active
+182090	active
+182093	passive
+182097	active
+182099	active
+182102	passive
+182104	middle
+182106	active
+active
+active
+182111	middle
+182114	active
+182117	middlepassive
+active
+182122	active
+182129	passive
+182131	active
+182136	passive
+182145	middlepassive
+active
+182148	active
+182152	active
+active
+182158	active
+active
+182163	active
+182166	active
+182171	active
+182175	active
+182177	active
+182180	middlepassive
+active
+182183	active
+active
+182189	active
+182191	active
+182194	middle
+182197	active
+182199	active
+182203	active
+182208	passive
+182210	active
+182216	middle
+182226	active
+182229	active
+182233	active
+182235	active
+182241	active
+182245	active
+active
+active
 182250	active
-active
-182257	active
-182259	passive
+182254	active
+182258	active
+182260	active
+182264	active
+182266	active
 182270	active
-182276	active
-182278	active
-182285	active
-182294	active
-182300	active
-182302	active
 active
 active
-182307	active
-active
-182315	active
-182317	active
-active
-182323	active
-182328	active
-182330	active
-active
-182337	active
-182339	passive
-active
-182348	middle
+middlepassive
+182275	active
+182280	active
+182282	active
+182285	middle
+182289	passive
+182295	passive
+182298	passive
+182301	passive
+182307	passive
 passive
+182310	active
+182316	active
+182321	passive
+182327	active
+182329	active
+182332	middlepassive
+passive
+182335	active
+182338	active
+182340	active
+182346	active
+182348	active
 182352	active
+182355	active
+182369	middle
 active
-182362	middle
-182364	middle
-182371	active
-182383	active
-182386	active
-182389	active
-182393	active
-182402	active
-182404	passive
+182377	passive
+182380	active
+182382	middle
+182388	active
+passive
+182391	active
+182394	active
+182399	active
+182406	active
 182410	active
-182418	active
-182422	passive
+182415	active
+182428	active
+182431	passive
 182436	active
-182440	active
-182455	middle
+182438	passive
+182442	active
+182444	active
+182447	passive
+active
+182450	passive
 182457	active
-182466	active
+182459	active
+182462	active
+182464	passive
+182468	middle
 182473	active
-182490	active
+182476	active
+182478	active
+middle
+182481	active
+182484	passive
+middle
+182487	active
+182493	active
 182496	active
-182500	active
-182503	active
-182506	active
-182508	active
+182501	active
+182504	middle
+182506	middle
+182509	active
+182512	active
 active
-182522	passive
+182516	middlepassive
+182518	active
+182534	passive
 active
-182525	active
-182528	active
-182535	active
-182538	active
-182542	active
-182552	passive
-182559	middle
-182570	active
-182581	active
-182584	active
+182537	passive
+182540	passive
+182543	active
+182546	middlepassive
+182548	active
+182551	passive
 active
-182590	middle
+182554	active
+182556	passive
+182559	active
 active
-182596	active
+active
+182564	middlepassive
+182567	passive
+active
+182572	passive
+182576	middle
+active
+182583	middle
+middle
+active
+182588	active
+182595	active
+active
+182600	middle
+182602	active
+182604	active
 active
 182608	active
-182610	active
-182621	active
-182623	active
-182629	active
+active
+182613	active
+182616	active
+182620	middlepassive
+active
+active
+182626	active
+182631	middle
+middlepassive
+182635	middle
+182638	active
 182641	active
-182643	middlepassive
-active
+182644	middle
+182646	passive
 182651	active
-182666	active
+182653	active
+182655	active
 active
-182670	active
-182674	active
-182682	passive
+182661	active
 active
-182692	passive
-182695	active
-182698	passive
-182705	active
+182665	passive
+182668	passive
+182673	active
+182677	active
+182680	active
+182682	active
+182684	passive
+182686	passive
+182696	passive
+182702	middle
+182706	active
 182708	active
-182720	middlepassive
-active
-active
-182724	passive
+182711	active
+182713	active
+182715	active
+182717	active
+passive
+182726	passive
+182728	active
 182731	active
-182734	middle
-182739	active
-182745	active
-active
+182742	active
+182744	active
+182746	middle
+182749	middle
 182752	active
-182754	active
-182762	active
-182771	active
-182776	passive
-182779	middle
-182781	active
-182783	active
-182788	active
-182790	active
-182796	active
-182800	active
-182807	active
-182813	active
-182819	active
+182764	passive
+182768	middle
 active
-182824	active
-182831	active
-182834	active
-182836	active
+182775	active
+182779	active
+182782	active
+182786	active
+182789	middle
+active
+182793	active
+182799	middlepassive
+182808	passive
+182812	middle
+182816	active
+182818	middle
+182826	active
+182830	active
+active
+middlepassive
 182838	active
 182840	active
 active
-182850	active
-182858	active
-182866	active
-182869	active
-active
-182876	active
-182878	active
-active
-active
-182884	active
-182886	active
-182889	active
+182847	active
+182852	active
+182856	middle
+182860	active
+182866	passive
+182872	active
+182875	active
+passive
+182882	active
+182886	middle
+182890	active
 182895	active
-active
-182898	active
-182906	active
-passive
-182909	active
-182911	active
-182919	active
-182926	active
-182931	middle
+182900	active
+182904	active
+182908	passive
+182912	active
+182917	active
+182921	passive
+182923	active
+182927	active
+182932	active
+182934	passive
+182937	active
+182941	active
 182943	active
-182946	active
-182953	active
-182965	active
-182970	passive
-182972	active
-182975	middlepassive
-passive
-active
+182947	active
+182952	active
+182956	active
+182959	active
+182963	active
+182966	active
+182969	active
+182971	middle
+182975	active
+182977	active
+182980	active
 182982	active
-182989	active
-182997	passive
-183001	active
-183003	middle
+182991	active
+182995	active
+182998	active
 183005	active
-183008	active
-183012	middle
-183018	active
-183021	active
-183026	active
-183034	active
-183049	middle
-183058	active
-183072	active
-183094	middle
-183099	active
-183103	middle
-183111	active
-183122	active
-183126	middle
-183135	active
-183148	active
-183158	active
-183164	active
-183167	active
-183176	active
+183008	middlepassive
+183013	active
+183016	active
+183018	passive
+183027	active
+183033	active
+183041	active
 active
+183045	active
+active
+183048	active
+183051	active
+183056	active
+183059	passive
+183061	active
+183064	active
+183070	active
+183072	active
+183075	passive
+183078	active
+183080	active
+183082	active
+183091	active
+183093	active
+183096	active
+183110	active
+active
+183121	middlepassive
+active
+183125	active
+183129	active
+active
+183132	active
+183135	active
+183139	active
+183143	middle
+183145	active
+183147	active
+183151	active
+183153	middlepassive
+183161	active
+183164	active
+183168	active
+183171	active
+active
+183175	active
+183180	active
+active
+183183	active
+183187	middlepassive
 183189	active
-183191	active
 183195	active
 183198	active
-183206	active
-183214	active
+183202	active
+183205	active
+183207	active
+183212	passive
+183215	active
+183218	active
+183220	active
 active
-183217	active
-183219	active
-183223	active
 183230	active
-183235	middle
-active
+183232	middlepassive
+183235	active
 183238	active
-183249	middle
 active
-183263	active
-183268	active
-183272	middle
-183283	active
-183294	active
-183298	active
-183302	active
-183305	middle
-183307	active
-183316	active
-183318	active
-183324	active
-183333	active
+183243	active
+middlepassive
+183246	active
+183248	passive
+active
+183252	middle
+183254	active
+183256	active
+passive
+183260	active
+183264	passive
+183266	middle
+183269	active
+183272	active
+183274	active
+183277	active
+183279	active
+183281	active
+183284	active
+183289	active
+183295	active
+middle
+active
+183300	active
+183305	middlepassive
+183308	active
+183313	active
+183315	middlepassive
+183319	active
+183323	passive
+183326	active
+183328	passive
+183332	active
 183338	active
-183340	active
-183354	passive
+183342	middlepassive
+active
+183346	passive
+183350	middlepassive
+active
+183355	active
 183358	active
-183361	active
-183365	active
+183360	active
+active
+183365	middlepassive
 183367	active
-183372	active
+183371	active
+183374	passive
+183377	active
+183382	middlepassive
+183384	middlepassive
+183391	active
 active
-183380	active
-183386	active
-183389	active
+183394	middlepassive
 active
-183403	active
-183407	active
-183409	middle
+183402	active
+183408	middlepassive
+183410	active
+183414	middlepassive
 183419	active
 183421	active
-183426	active
-183439	active
-183441	middle
+183423	passive
+183427	active
 active
-183454	passive
-183461	active
+183430	active
+183434	active
+183437	active
+183440	active
+183444	active
+183448	active
+183451	active
+active
+active
+183457	active
+183462	passive
+183465	active
 183467	active
+183470	middle
+183473	active
 183475	active
-183477	active
 183479	active
-183486	passive
-183488	active
-183506	active
-183508	active
-183515	active
-183518	active
+183481	active
+183488	middlepassive
+183491	active
+183494	active
 active
-183521	active
-183523	active
-183551	passive
-183556	active
-183558	active
-183560	middle
+183498	middlepassive
+183502	active
+183504	active
+183507	active
+active
+183511	middlepassive
 middlepassive
+183520	middlepassive
+183525	active
+183529	active
+183535	active
+183537	active
+183541	active
+183547	active
+183549	active
+183551	active
+183554	active
 active
-183568	active
+183558	active
 active
 active
-183572	middlepassive
+183571	middlepassive
+183573	active
+183582	active
+183587	active
+183589	active
+183592	middlepassive
+183600	active
 active
-183581	middle
-183584	active
-183595	active
-183598	active
-183601	passive
-183610	active
-183614	active
-183626	middle
-183628	active
+183603	active
+183607	middlepassive
 active
-183638	active
-183644	active
-183648	active
-183655	active
-183660	middle
 middle
-183668	active
-183672	active
-183674	middle
-183687	active
-passive
-183690	active
-183692	active
-183704	middlepassive
-183709	active
-183715	middle
-183720	middlepassive
+183612	passive
+183617	active
+183624	active
+183630	active
+183638	middlepassive
+183641	active
+183648	active
+183653	passive
+183661	middle
+183665	middlepassive
+183671	middle
+183673	active
+active
+183678	active
+183680	active
+183682	active
+183686	active
+183688	active
+183691	active
+183693	active
+183697	active
+183699	active
+183704	active
+183714	active
+183717	active
+active
+183723	active
 183726	active
-183729	active
-active
-active
-183733	active
-183742	active
-183745	active
-183749	active
-active
+183728	active
+183733	middle
+183741	active
+183748	active
 183752	active
-183758	active
+183755	passive
+active
+183759	active
 183762	active
 183765	active
-183767	active
+183768	active
+183772	active
 active
-183770	active
-183774	passive
-183780	passive
-183785	middle
-183793	active
-183795	active
-183799	active
+183777	active
+183779	active
+183782	active
+183784	active
+183786	active
+183788	active
+183791	active
+183793	middle
+183796	middlepassive
+183802	active
 183804	active
+183807	active
+183809	passive
+183813	active
 183819	active
 183823	active
-183825	middlepassive
-183838	active
-183840	passive
-183846	active
-active
+183829	active
+183837	active
 183853	active
 183855	active
-183863	active
-183866	active
+active
+183859	active
+183864	active
 183870	active
-183872	passive
-183874	passive
-183880	active
+183874	active
+183876	active
+183880	middle
+183882	active
+183890	active
 active
-183887	middle
-183893	middlepassive
-183897	active
-183908	passive
-183914	active
-183916	active
+183894	active
+active
+183898	active
+183904	active
+183910	active
+183912	active
+183916	middlepassive
+183918	active
 183921	active
-183930	active
-183938	active
-183948	active
-183961	active
-183969	active
-183980	active
-183984	active
+183924	active
+183927	active
+183931	active
+183933	active
+183935	active
+183937	active
+183940	active
+183943	active
+183955	active
+183959	active
+183975	active
+183978	middlepassive
+183981	middlepassive
+183986	middlepassive
+183990	active
+183992	active
+183995	active
 active
+183998	active
+184001	active
+184005	active
 active
-183993	passive
-183995	middlepassive
-184008	active
-184013	passive
-184019	active
-184021	active
-184027	active
-184029	active
-184044	active
+184009	active
+184016	active
+184019	middle
+184022	active
+184025	middlepassive
+184028	active
+184033	passive
+184035	middlepassive
+passive
+184043	passive
+184045	middle
+184048	active
 184052	active
-184056	active
-184058	active
+184055	passive
+middlepassive
+active
+184060	active
+184063	middlepassive
+184069	active
 184072	active
-184079	active
-184084	active
-184086	passive
-184095	passive
-184099	active
+184077	active
+184082	active
+active
+184087	passive
+184095	active
+184098	active
 184104	active
+184110	active
+184113	active
 184115	active
-184117	active
-184130	active
-184136	active
-184143	active
-184150	active
+184117	middlepassive
+184125	active
+active
+184128	active
+184131	middlepassive
+184135	active
+184137	middle
+184147	active
+184150	passive
 184152	active
 184154	active
-184157	active
-184162	active
-184166	active
-184174	active
-middle
-184178	active
+184160	middle
+184163	middlepassive
+active
+active
+184172	active
 184180	active
-184190	passive
+184183	middle
+active
+184188	passive
 184194	active
-184200	active
-184202	active
+middlepassive
+184205	active
+184207	active
 184212	active
-184218	active
-184227	active
-184235	middle
-184242	passive
+184217	active
+middle
+active
+active
+active
+184223	middle
+184225	active
+184228	active
+184232	active
+184235	active
+184239	active
+184244	active
 184248	active
-184252	active
-active
-184256	passive
-184260	passive
-184265	active
-184268	active
-184271	active
-184275	passive
-184283	active
+184251	active
+184255	active
+184257	passive
+184261	active
+184263	passive
+184266	active
+184270	active
+184273	active
+184278	active
+184281	active
+184287	active
 184291	active
-passive
-184294	passive
-184300	middle
-184306	active
-184312	active
-middle
-184315	active
-184322	active
-184324	active
+184298	active
+184300	active
+184302	active
+active
+184306	middle
+184308	active
+184316	active
+184321	passive
+184330	middlepassive
+184332	active
+active
 184336	active
-184343	active
-184347	active
-184353	passive
-184358	active
-184360	active
-184368	active
-184372	active
-184379	active
-184387	active
-184397	middlepassive
-184401	active
-184403	active
-184407	active
-184414	active
-184418	active
-184422	middlepassive
-184431	active
-184436	passive
-184440	active
-184442	active
+184338	active
 active
+184342	active
+184345	active
+184347	passive
+184350	active
+184353	active
+184360	middle
+active
+184363	active
+184366	active
+184371	passive
+184375	active
+184377	middlepassive
+184380	active
+184382	passive
+184385	active
+184389	passive
+184392	active
+184396	active
+184400	active
+184405	active
+184407	middle
+184412	passive
+184415	active
+184418	passive
+184420	active
+184422	active
+184436	middlepassive
+active
+184441	middlepassive
+184443	active
+184448	passive
 184450	active
-184458	active
+184453	middlepassive
+184455	active
 184462	active
-184464	active
-184468	active
-184472	active
-184474	active
-184476	middlepassive
-184484	passive
+184465	middlepassive
+184470	passive
+184477	passive
+184480	active
+184485	passive
+184487	middle
+184491	active
+184495	active
+184497	active
 active
-184490	active
+184500	active
+184502	active
+184504	active
+184507	active
+passive
+184511	passive
+184515	active
+passive
+184521	active
+184524	active
+passive
+184528	active
+184530	active
+184536	active
+184548	active
+184552	active
+184564	active
+184567	active
+184570	active
+184573	active
+184575	active
+184583	active
+184589	passive
+184593	active
+184601	passive
 active
-184496	active
-184500	passive
+184604	middlepassive
+184609	active
+184612	middlepassive
+184619	active
+184623	active
+184627	middlepassive
 active
-184503	active
-184505	passive
+184632	active
+184638	active
+184641	active
+184647	middle
 active
-184514	active
-184522	active
-184526	active
-184532	active
-184542	active
-184553	active
-184566	active
-184576	active
-184580	active
-184582	passive
-184585	active
-184590	active
-184592	active
-184595	active
-184600	active
-184602	active
-184608	active
-184611	middle
-184615	active
-184618	active
-184626	active
-184637	active
-184644	active
-184655	active
-184658	active
-184661	active
-184663	active
-184674	active
+184652	active
+184654	active
+184657	active
+184662	active
+184665	middlepassive
+184670	active
+184675	passive
 184679	active
-184688	active
-passive
-184699	active
+184684	active
+184686	active
+184689	active
+184692	active
+184695	middle
+184697	passive
+active
+184701	active
 184703	active
-184708	active
+passive
+184706	active
+184709	middle
 184712	active
-active
 184716	active
-184723	active
-184725	active
-184732	active
-184735	active
-184744	active
-184750	active
+184720	active
+184723	passive
+184726	active
+184731	active
+184736	active
+184739	active
+184749	active
 184754	active
-184760	middle
-184765	active
-184777	active
-184783	active
-184791	active
-184793	active
-184795	passive
-184804	middle
+184763	active
+184770	middlepassive
+184772	active
+184777	passive
+184779	passive
+184784	passive
+184787	active
+184789	active
+184800	active
+184804	active
 184807	active
-184817	active
-184820	passive
-184832	passive
-184835	active
-184843	active
-184851	passive
-184857	active
+184809	active
+184812	active
+184814	active
+184820	active
+184825	active
 active
-184861	active
-184874	active
+184829	active
+184836	active
+184841	active
+184847	active
+184849	active
+184855	active
+184858	active
+184866	passive
+184868	active
+184870	active
+active
+184877	active
 184879	active
-184881	active
-184883	active
-passive
-184893	active
-184895	passive
-184900	active
-184905	active
-passive
-184917	active
-184925	active
-184931	active
-184933	passive
-184941	active
+184882	active
+184886	active
+184890	active
+184898	passive
+184902	active
+184904	active
+184906	active
+184913	active
 active
-184944	active
-184948	active
+184916	active
 active
-184951	passive
-middle
-184958	active
-184968	passive
-184972	active
+184919	middlepassive
+184923	active
+middlepassive
+middlepassive
+passive
+184928	active
+active
+184932	passive
+184934	middle
+184936	active
+184938	middle
+middlepassive
+184944	middle
+active
+184947	active
+184952	active
+184956	active
+184958	passive
+184961	active
+184963	active
+184966	active
+184968	active
+184975	active
 184980	active
+184982	active
+184985	active
+184987	middle
 active
-185004	active
+184992	active
+184997	active
+184999	active
+185006	passive
 185010	active
-185012	active
-185017	passive
-185019	active
-185025	active
-185037	active
-185039	active
+185014	middlepassive
+185021	active
+185023	active
+185028	active
+185031	active
+185036	active
+185038	active
+active
+185043	passive
+185045	active
+185047	active
 185050	active
-185053	passive
-185055	active
-185057	middlepassive
-185071	active
-active
+185054	active
+185058	active
+185064	active
+185068	active
+185074	passive
 185079	active
-185090	active
-185094	active
-185100	passive
-185104	middlepassive
 active
-185110	middle
-185112	middlepassive
-active
-185118	middle
-185123	active
-185127	active
-185130	active
-185136	passive
+185084	active
+185088	middle
+185091	active
+185095	middle
+185099	passive
+185102	passive
+185108	active
+185111	passive
+185117	active
+185122	active
+passive
+185126	active
+185129	middle
+185132	active
+185136	active
+185138	active
 185141	active
-185145	active
-185151	active
-185163	middle
-185177	active
-185183	passive
-185188	active
-185191	active
+185144	middle
+185146	middle
+active
+185149	active
+185153	active
+185155	active
+185157	active
+185159	active
+185162	active
+185168	active
+185173	active
+185175	active
+185178	active
+185185	active
+middlepassive
+185189	active
+185193	active
 185196	active
+185200	active
+185202	passive
+active
+185206	middlepassive
 185208	active
-185210	active
-185213	active
-185225	active
-185228	active
-185235	active
+185211	active
+185214	active
+185223	middlepassive
+185229	active
+185234	active
+active
 185241	active
-185246	active
-active
-active
-185253	active
+185243	active
+185245	active
+185249	active
+185251	active
+185261	middlepassive
 185263	active
 185266	active
-185268	active
-185279	active
-185283	active
-185295	active
-185298	active
-185300	active
-185316	active
+185270	active
+185273	active
+185278	active
 active
-185319	active
-185321	active
-185329	active
-185333	active
-185335	active
-185338	active
-185340	active
-185343	active
-185346	active
-185348	active
-185350	active
-185362	active
-185369	active
-185381	active
+185282	active
+185285	active
 active
-185385	active
-185387	active
+185290	active
+185294	middle
+185299	active
+185302	active
+passive
+185305	active
+185307	active
+185310	middlepassive
+185315	active
+185320	middle
+185322	middle
+active
+185328	active
+passive
+active
+185337	passive
+185345	middlepassive
+185347	active
+185358	active
+185364	passive
+185367	active
+185372	active
+185390	middlepassive
+185392	active
+185397	active
+185399	active
+185401	active
+185406	active
+185409	active
+185411	middlepassive
+185414	middle
 185416	active
-185432	middle
-185436	active
-185438	passive
-185443	active
-185445	passive
-185447	active
-185466	active
-185468	passive
-185479	active
-185491	active
-185493	passive
-185500	active
-185502	active
-185521	active
-185528	active
-185530	active
-185534	passive
-185546	active
-185548	active
-185552	passive
-185559	active
-185566	active
-185581	active
-185583	active
-185620	active
-185631	active
-185653	passive
-185658	passive
-185663	active
-185668	active
-185671	active
-185680	active
+185418	active
+185425	active
+185429	active
+185444	passive
+185448	middle
+185451	active
+185454	active
+185457	active
+185459	active
+185464	middle
+185467	active
+185469	middlepassive
+185471	active
+185480	active
 active
-185686	active
+185483	active
+185486	active
+185488	active
+185492	active
+185494	active
+185498	middle
+185502	active
+185504	active
+passive
+185509	active
+185514	active
+185517	active
+185520	active
+185526	active
+185529	active
+185532	active
+185535	passive
+185539	active
+active
+185543	active
+185553	active
+active
+185560	active
+185562	active
+185569	active
+185572	active
+185574	active
+185577	middlepassive
+185580	middlepassive
+185582	active
+185587	active
+185590	active
+185593	active
+185597	active
+185599	middle
+185605	active
+185615	active
+185621	middle
+active
+185625	middlepassive
+185628	active
+185630	active
+185633	active
+185635	active
+185638	active
+185643	active
+active
+185651	active
+active
+185656	middle
+185659	active
+185662	active
+185664	active
+185669	middle
+active
+active
+185674	active
+185682	middle
+185687	middlepassive
+185689	active
+active
 185694	active
 185697	active
 active
-185705	middlepassive
+185702	active
+active
+185708	active
 185713	active
-185729	active
-185736	active
-185739	middlepassive
-passive
-185744	active
-185753	active
+185718	active
+185723	active
+185726	active
+185728	active
+185732	active
+185736	passive
+185741	active
+185745	active
+185748	active
+185750	active
+185752	active
+185758	middle
 185760	active
-185770	active
+185762	middlepassive
+185764	active
+185768	active
+active
+185771	active
 185778	active
-185791	active
-185793	active
+185780	active
+185782	active
+185789	active
+185792	active
 185795	active
-185805	active
 active
-185810	active
+185799	passive
+185802	active
+185807	active
+185810	middle
 active
-185817	active
+185818	middle
+active
+185823	active
+185826	active
+185832	active
 185835	active
+185840	active
+185843	active
+185846	passive
 active
-185846	active
-185850	passive
+185849	active
+185852	active
 185854	active
-185862	active
+185856	active
+active
+185861	active
+185863	active
 185866	active
-185898	passive
-185908	passive
-185912	active
-185923	active
+185869	active
+active
+active
+185873	active
+active
+185878	active
+185880	passive
+185886	active
+185891	active
+185897	active
+185900	active
+185902	active
+185905	active
+185908	active
+185913	active
+185916	active
+185919	passive
+185921	active
 185928	active
+active
+185934	active
 185937	active
-185947	passive
-185953	active
-185964	middle
+185941	active
+185947	active
+185950	middle
+185952	active
+185955	middle
+185958	middle
+active
 185970	active
 185972	passive
-185975	active
-185977	passive
+185974	active
+active
+185984	middlepassive
 185986	active
-186002	middlepassive
-186005	middlepassive
+185990	active
 active
+185995	active
+185999	active
 active
+186003	active
+186005	active
+186009	active
+186011	passive
 186015	active
-186023	active
-186028	middle
-active
-186044	active
+186018	active
+186020	active
+186022	active
+186024	middlepassive
+186026	active
+186031	active
+186037	middle
+186039	active
 186047	active
-186054	active
-186058	active
-186068	active
-186075	active
-186084	active
-186091	active
-186098	active
-186102	active
-186113	active
-186126	active
-186132	active
-186138	active
-186154	active
-186160	active
-186168	active
-186172	active
-186178	active
-186192	middlepassive
-186203	active
-186216	active
-186237	active
+186050	active
+186053	passive
+186055	active
+186060	active
+186062	active
+186067	middle
+186071	active
 active
-186241	active
-186246	active
-186254	active
-186262	active
-186276	active
-186285	active
-186295	middle
+186074	active
+186076	active
+186079	middlepassive
+186087	active
+active
+186090	active
+186098	middle
+186101	middle
+186103	passive
+186105	passive
+186111	active
+186114	active
+186121	active
+186123	active
+186133	middle
+186136	active
+active
+186145	middle
+186147	active
+186151	active
+186153	active
+active
+186159	active
+186166	active
+186175	active
+186179	active
+186182	active
+186187	passive
+186193	active
+186198	active
+186202	middlepassive
+186204	active
+186207	active
+186211	active
+186216	active
+186219	active
+186226	active
+186229	active
+active
+186237	active
+186240	active
+186243	active
+186245	active
+186251	active
+186255	passive
+186257	active
+186260	active
+186264	active
+186271	active
+186275	active
+186277	middle
+186280	active
+186282	active
+186286	active
+186288	active
+186292	middlepassive
+186295	middlepassive
+active
+186301	middlepassive
+active
+active
+186307	active
 186311	active
-186314	passive
-186318	middlepassive
+186317	active
 186322	active
-186336	passive
-186343	active
-186355	active
-186364	active
-186373	active
-186375	middle
-186389	middle
-186403	active
-186408	active
-186410	active
+186324	active
+186328	middlepassive
+186332	middlepassive
+186334	active
+186336	middlepassive
+186346	middlepassive
+active
+186350	active
+186355	middlepassive
+186357	active
+186368	middlepassive
+186374	middlepassive
+186376	active
+186380	active
+active
+186386	active
+186389	active
+active
+186393	passive
+active
+186397	active
+186400	active
+186404	active
+active
+186411	active
 186416	active
-186431	active
+186420	active
+186425	active
+186427	active
+186429	passive
+186433	active
+186435	active
+186441	active
 186444	middle
 186446	active
-186458	active
+186454	active
 186460	active
 186465	active
-186474	active
-186482	active
-186491	passive
-186518	active
+active
+186472	active
+186476	active
+186478	passive
+186483	active
+186486	active
+186490	active
+186501	active
+186505	active
+186508	active
+186512	middle
+186517	active
+186524	active
+middle
 186529	active
-186531	active
-186545	active
-186550	active
-186552	passive
-186557	active
+186532	active
+186534	active
+186536	passive
+186538	active
+passive
+186541	passive
+186546	passive
+186552	active
+186555	middle
+186559	active
+186563	middle
+186566	active
+186569	passive
 active
-186568	active
-186581	active
+186573	active
+186576	active
+active
+186580	active
+186586	active
+186589	active
+186591	active
 middle
-passive
-186590	active
-186597	active
-186603	active
-passive
-186606	middlepassive
-186613	active
-186622	middlepassive
-186624	active
-186630	active
-186641	passive
+186594	active
+186596	middlepassive
+186602	active
+186606	active
+186608	active
+186611	active
+186615	passive
+186621	active
+186623	middle
+186630	middle
+186633	active
+186637	active
+186640	active
+186643	active
+186646	active
+186648	active
+186652	active
+186655	active
 active
-186645	active
-186650	active
-186655	passive
-186663	passive
-middlepassive
+186658	active
+186662	active
+186664	active
+186667	active
+186670	active
+186672	active
+186674	active
 186676	active
-186684	active
+186678	passive
+186680	active
+186683	active
+186687	active
+186691	active
+186697	active
+186702	active
+186705	middle
 active
-186689	middle
-186708	passive
-186712	active
-186714	active
-186718	active
-186721	middle
-186729	active
-186731	active
-186737	active
+186708	active
+186713	active
+186716	active
+186719	active
+186723	active
+186725	active
+186728	passive
+186733	active
+186736	active
 active
-186740	active
-186746	active
-186748	passive
+186741	middle
 active
-186751	middle
-186754	active
-186758	passive
-186770	middle
-186785	active
-186791	active
-186795	middle
-passive
-186813	passive
-186817	active
-186819	active
-186825	passive
-186827	active
-186833	passive
-186837	passive
-186847	active
-186852	passive
-186854	passive
-186881	active
-186887	active
-186896	passive
-186903	active
-186910	active
+186749	active
+186754	middle
+186756	active
 active
+active
+186767	middlepassive
+186772	active
+186774	active
+active
+186778	middlepassive
+186782	active
+186785	passive
+active
+186790	active
+186792	active
+186795	active
+186797	active
+186800	active
+186804	active
+186810	active
+active
+186821	active
+186823	active
+186826	active
+186829	active
+186831	middlepassive
+186834	active
+186838	active
+186842	middle
+186844	middle
+186848	active
+186853	active
+186857	active
+186860	active
+186863	active
+186865	active
+active
+active
+186872	active
+active
+186876	active
+186882	active
+186884	active
+186886	active
+186890	active
+186894	active
+186898	active
+186900	active
+186913	active
+186916	active
 186920	active
-186934	active
+186922	active
+186925	active
+186927	active
+186940	active
+186946	active
 active
-186954	active
+passive
+186950	active
+186953	active
 186956	active
-186968	active
-186971	active
-186979	middlepassive
-186983	middle
+186960	active
+186963	middle
+active
+186967	active
+186972	active
+186974	passive
+186982	passive
+186986	active
+186990	active
 186992	middle
-187000	active
-187015	middle
-187019	passive
-187027	passive
-187037	passive
-187047	active
+186995	middle
+active
+187000	passive
+187002	active
+187005	active
+187008	active
+active
+187013	active
+187020	middle
+187025	active
+187029	active
+187031	active
 middle
-187056	active
-passive
+187035	active
+187039	active
+187043	active
+187046	active
+active
+187051	active
+187057	active
+187061	active
 187063	active
-187070	active
-187078	middle
-active
-187083	active
-187085	middle
-187091	active
-187093	active
-middle
-187101	active
-187107	middlepassive
-187112	middlepassive
+187067	passive
+187072	active
+187079	passive
+187092	passive
+187095	active
+187106	active
+187108	active
+187111	active
+187114	active
 187117	middle
-187131	active
-187136	passive
-187156	passive
-187162	active
-187172	middlepassive
-187186	passive
-187189	passive
-187206	middle
+187120	active
+187124	active
+187129	active
+187136	active
+187143	passive
+187148	middle
+187150	active
+187157	middlepassive
+187159	active
+187161	passive
+187169	passive
+187171	active
+187175	active
+187178	active
+187180	active
+187192	active
+187194	passive
+187197	middle
+187199	middle
+187201	active
+187204	middle
+187209	active
+187213	active
 187217	middle
-187225	middlepassive
+187220	active
+187226	active
+187230	middle
+187235	active
+middle
 187243	active
-187255	active
-187284	active
-187295	middle
+187246	active
+187248	active
+187250	active
+187252	active
+187254	active
+187256	active
+187258	active
+187262	active
+active
+187267	active
+187270	active
+187272	active
+187276	passive
+187283	active
+187285	passive
+187287	active
+187291	active
+187293	active
+187296	active
+187298	passive
 187301	active
-active
-187312	active
-187316	active
+187304	active
+187309	active
+187315	active
+187317	passive
 187319	active
-187324	active
-187330	active
-187341	middle
-187349	middle
-187359	active
-187371	active
-187400	middle
+middlepassive
+187323	active
+187326	active
+187329	middle
+187335	active
+187339	active
+187344	active
+active
+187348	active
+187350	active
+187353	passive
+187355	active
+187360	active
+187363	active
+187366	passive
+187368	active
+187373	middle
+187375	middle
+187377	active
+187381	active
+187385	active
+187389	active
+187392	active
+187395	middlepassive
+active
+187398	active
+187402	active
+187404	active
+187408	active
 187415	active
-187430	active
-187432	active
+187419	active
+187424	middlepassive
 active
-187435	active
-187441	active
-187450	active
+187427	passive
+187431	active
+187434	middlepassive
+187437	active
+187439	active
+187443	active
+active
+active
+187448	active
 187452	active
-187457	active
-187460	middle
-187475	middle
-187483	passive
-187486	passive
-187488	active
-187495	passive
-187498	passive
+187454	active
+187458	active
+187464	active
+187466	active
+187470	active
+187473	active
+187476	active
 active
+187479	middle
+187484	active
+187486	active
+187489	active
+187492	active
+187495	active
+187497	active
 187503	active
-187512	middlepassive
-187515	active
-187518	active
-187528	middlepassive
+187508	passive
 active
-187534	active
-passive
-187547	middlepassive
-187552	active
-187561	middlepassive
+187512	active
+187517	middlepassive
+active
+187523	active
+middlepassive
+187529	active
+187532	active
+active
+187538	active
+187544	passive
+187548	active
+187551	passive
+187554	middle
+187557	active
+187560	middlepassive
+187562	active
 187564	active
-187573	active
-187585	active
-187600	active
-187606	active
-187608	active
-187610	active
-187619	active
-187621	active
-187625	active
-187640	active
-187647	middle
+187569	middle
 active
+187575	middlepassive
+187578	active
+187581	passive
+187587	active
+active
+187591	active
+187595	active
+187597	active
+middle
+187603	active
+187605	active
+187610	middle
+187612	active
+187618	middle
+187623	middlepassive
+187627	middlepassive
+187630	middlepassive
+187632	active
+187634	active
+187638	active
+187643	active
+187647	active
+187650	active
 187654	active
-187657	active
-187661	active
+187658	active
+187660	active
+187664	active
+187666	active
+187672	middle
+187674	active
+187679	active
+187682	active
+187685	active
+187691	active
 active
-187677	active
-187684	active
-187686	active
-187699	active
-187701	middle
-187714	passive
+187696	active
+187701	active
+187705	active
+187707	active
+187711	middlepassive
+187717	passive
+187722	active
 187726	active
+187729	active
 187732	active
-187746	active
+187738	active
+active
+187750	active
+187752	active
 187755	active
-187760	active
-187769	active
-187783	active
-187788	active
-187791	active
-187797	active
-middle
-187802	middlepassive
-187807	passive
-187816	active
-187829	active
-active
-187845	passive
-middle
-187851	active
-187857	active
-187861	middlepassive
-187866	active
-187868	active
-187870	middlepassive
-187873	active
-active
-187882	active
-187892	passive
-187898	middlepassive
-187906	active
-187909	active
-187913	passive
-active
-187916	active
-187919	active
-187921	active
-187925	active
-187936	active
-active
-187944	active
-187948	active
-187953	active
-187972	active
-187974	passive
-187981	active
-middle
-187987	active
-187996	active
-188005	active
-active
-active
-188010	active
-188026	middlepassive
-188037	active
-188043	active
-188050	active
-active
-188057	active
-188063	active
-active
-188070	active
-active
-188087	active
-188093	active
-active
-188106	active
-188115	active
-188121	active
-active
-188128	active
-active
-188145	active
-188151	active
-active
-188164	active
-188174	active
-active
-188177	active
-188182	active
-188185	active
-188188	active
-188190	active
-188193	active
-188195	passive
-active
-active
-188208	active
-active
-188213	passive
-188220	active
-188227	active
-188229	active
-188232	active
-188234	active
-188237	active
-active
-188241	active
-188251	active
-188253	middle
-188261	active
-188270	active
-188272	active
-188281	active
-188283	passive
-188285	passive
-188289	active
-188293	active
+187757	active
+187764	active
 passive
-188304	active
-188315	middle
-188329	active
-188354	active
-188363	passive
-188373	active
-188382	active
-188392	active
-188410	active
-188421	active
-188424	passive
-188430	active
-188434	passive
-188442	active
-188445	active
-188447	active
+187772	active
+187774	active
+187778	active
+187780	active
+187787	active
+passive
+187795	active
+187799	passive
+187803	passive
+187810	middle
+187813	active
 active
-188450	active
-188453	middle
+187818	active
+187822	active
+middlepassive
+187832	middlepassive
+187838	active
+187840	active
+187843	active
+187845	active
+187847	active
+187850	active
+active
+187855	passive
+active
+187860	middle
+187864	active
+active
+187868	active
+187870	active
+187873	active
+187878	active
+187886	active
+187889	active
+187896	middle
+187901	active
+187908	active
+187911	active
+187918	active
+187921	active
+187924	active
+187928	active
+187930	middlepassive
+187935	active
+187938	active
+187940	middlepassive
+187942	active
+187947	middle
+187950	active
+187952	active
+187955	active
+187957	active
+187959	active
+187961	middlepassive
+187964	active
+187968	active
+187972	active
+187976	middle
+187983	active
+187986	middle
+187988	active
+active
+187993	middlepassive
+187996	active
+187999	active
+188001	active
+188005	active
+188008	active
+188011	active
+188015	active
+188023	active
+188025	active
+188027	active
+188029	active
+188031	active
+188033	active
+active
+188041	active
+188045	middle
+188050	active
+188052	active
+188055	active
+188059	active
+active
+188062	active
+active
+188065	active
+188068	active
+188072	active
+active
+188077	active
+188080	active
+passive
+188086	middle
+188088	active
+188093	active
+188098	middle
+188101	passive
+188108	passive
+active
+188113	active
+188118	active
+188120	active
+188126	active
+188133	active
+188137	passive
+active
+188142	middlepassive
+passive
+active
+188147	active
+188158	middle
+active
+188162	middle
+188164	active
+188167	active
+188169	active
+188171	active
+188174	active
+188176	active
+188189	active
+188203	middlepassive
+188207	middle
+188212	active
+188216	active
+188223	passive
+188225	active
+middlepassive
+188228	active
+188231	middle
+188233	active
+active
+188236	active
+middle
+active
+188244	passive
+188249	active
+188253	active
+188257	active
+188260	active
+188263	active
+188266	active
+188270	middle
+188272	middlepassive
+188277	active
+188280	active
+188283	active
+188285	active
+188289	active
+188292	active
+188294	active
+188298	active
+188300	active
+188309	active
+188315	active
+188318	active
+188320	middle
+middlepassive
+active
+188326	active
+188331	passive
+passive
+188335	active
+188337	middlepassive
+188340	active
+188345	active
+middle
+188351	passive
+passive
+188354	active
+188360	active
+188362	active
+188365	passive
+188367	active
+188369	middle
+active
+188374	middle
+188377	active
+188379	active
+188381	active
+active
+188384	active
+188389	active
+188393	active
+188397	active
+188399	middle
+188401	middle
+188405	active
+188407	active
+188409	middle
+188417	active
+passive
+188420	active
+188422	active
+188428	middlepassive
+188431	middlepassive
+188442	middlepassive
+188446	active
+188449	active
+middle
+active
+188453	active
 188455	active
-188459	active
-188461	active
-188463	middle
-188468	middle
-188470	active
-188475	passive
-188480	active
-188484	active
+188458	active
+188462	active
+188466	active
+188468	active
+188471	active
+188473	active
+active
+188477	active
+188479	active
+188481	active
+active
 active
 188487	active
-188489	active
-188491	active
-188495	active
+188490	active
+active
+188495	passive
 188498	active
-188502	active
-188506	active
+188501	active
 active
-188513	active
-188518	passive
-188522	active
-188525	active
-188530	active
-188545	active
-188547	active
-188555	middlepassive
-188559	passive
-188570	passive
-188580	active
+188505	active
+188509	active
+188512	active
+188514	active
+188517	active
+188521	active
+188523	active
+188529	active
+188537	active
+188542	active
+188544	active
+188551	middlepassive
+188553	active
+passive
+188558	active
+active
+188562	active
+188567	active
+188569	active
+188571	active
+188574	active
+188578	active
+188582	active
 188584	active
-188586	active
+188586	passive
+188592	active
+188597	active
 active
-188590	active
-188593	middle
-188596	active
 188601	active
-188610	middle
-188613	passive
-188617	active
-188621	active
 active
-188624	active
+188606	active
+188609	active
+188612	active
+188615	active
+188620	active
+188625	active
+188631	active
 188637	active
-188640	passive
-188642	active
-188644	active
-188650	active
-188660	active
-188662	middle
-188679	middle
-188681	active
-188692	active
-188698	active
-188708	middlepassive
-188717	passive
-188721	passive
-188723	passive
-188745	passive
-188748	middle
-188754	active
-188756	active
+188641	active
+188643	active
 active
-188768	middle
-188778	middle
-188790	active
-188793	active
-188800	active
-188807	middlepassive
-active
-188813	active
-active
-188823	middlepassive
-188826	passive
-188829	passive
-188831	active
-188836	active
-188840	active
-188848	middle
-188857	active
-188865	active
-active
-188884	active
-188886	active
-188888	active
-188892	passive
-188905	passive
-188909	active
-188917	passive
-188924	passive
-188932	active
-188934	active
-188936	active
-188939	active
-188943	active
-188952	active
-188956	active
-188965	active
-188972	active
-188974	active
-active
-188977	active
-188983	active
-active
-188996	active
-189001	active
-189008	active
-189012	active
-189024	active
-189029	active
-189035	active
-189041	middle
+188646	passive
 middlepassive
-189051	active
-189053	active
-189055	active
-189063	active
-189066	passive
-189068	middle
+188650	passive
+188653	middlepassive
+188661	active
+188666	middle
+188670	active
+188672	active
+188678	active
+188681	active
+188683	active
+188686	active
+188688	active
+188690	active
+188693	active
+188696	active
+188703	active
+188706	passive
 active
-189076	active
-189080	passive
+188715	active
+188717	active
+188721	middlepassive
+188724	active
+188727	middle
 active
-189083	active
-189097	active
-189106	active
-189108	passive
-189129	passive
-189131	active
-189135	passive
-189141	passive
-189145	active
+188730	active
+188732	active
+188742	active
+188744	active
+188747	active
+188750	active
+188755	active
+188757	active
+188759	passive
+188764	passive
+188769	active
+188773	active
+188778	active
+188781	active
+middlepassive
+188788	passive
+188795	middle
+middlepassive
+188800	middlepassive
+188802	active
+188804	passive
+188807	passive
+188809	active
+188812	active
+188815	middle
+passive
+188818	passive
+188820	active
+188822	active
+188824	active
+188828	active
+188831	passive
+188833	passive
+188837	passive
+188842	active
+188845	active
+middlepassive
+middle
+188850	active
+188855	active
+188857	active
+188859	middle
+188863	active
+middlepassive
+active
+188868	active
+188877	active
+188882	middlepassive
+188888	active
+188890	middlepassive
+188898	active
+188903	active
+188907	active
+188912	active
+188915	active
+188917	active
+188921	passive
+188924	active
+188929	active
+188933	active
+188936	passive
+188939	middlepassive
+188941	active
+188943	active
+188945	active
+188949	active
+188952	active
+188954	middlepassive
+188958	active
+188963	active
+188965	passive
+188967	active
+188969	active
+188972	active
+188976	active
+188981	active
+188983	middle
+188986	active
+188989	active
+188991	active
+188994	active
+188997	active
+189000	middle
+189004	active
+189006	active
+189014	active
+189020	active
+189022	active
+189024	active
+189028	active
+189032	active
+189034	active
+189037	active
+189039	active
+189044	active
+189047	active
+189050	active
+189052	active
+189056	active
+189058	passive
+189065	active
+189068	active
+189070	active
+active
+189075	middle
+189078	active
+active
+189082	active
+189087	active
+189091	middle
+189093	active
+189096	active
+189102	active
+189104	active
+active
+189107	passive
+189111	middle
+189114	active
+189119	active
+189121	active
+189123	passive
+189125	active
+189130	active
+189132	active
+189134	active
+189136	active
+189144	active
 189147	active
-189150	active
-189152	active
-189155	active
 active
-189159	active
-189165	active
-active
-189168	active
-189172	active
+189151	active
+189154	active
+189157	active
+189161	active
+189169	active
 active
 active
 189176	active
-189183	active
-189186	active
-active
+189179	active
+189182	active
+189185	active
 189189	active
 active
+189194	active
 189197	active
-189211	passive
-189217	active
+189199	active
+189208	active
+189213	active
+189216	active
 189223	active
-189247	active
-189264	active
-active
-189276	active
-189284	passive
-189295	passive
-189297	active
-189302	passive
-189314	passive
-189316	active
-189323	passive
-189328	active
-189332	passive
-189338	passive
-active
+189226	middlepassive
+189229	active
+189232	active
+189234	active
+189236	active
+189239	active
+189244	active
+189246	active
+189250	active
+189253	active
+189258	active
+189263	active
+189266	active
+189269	active
+189271	active
+189275	active
+189278	active
+189280	active
+189288	active
+189293	active
+189296	active
+189299	middle
+189302	active
+189305	active
+189309	passive
+189311	active
+189320	active
+189322	active
+189324	passive
+189326	active
+189336	passive
+189338	active
 189345	active
-189357	active
-189359	middle
-189361	active
-189367	active
-189372	active
-189377	middle
-189386	active
-189388	middlepassive
-189399	passive
-189402	active
-189406	active
-189411	active
-189413	middle
-189415	active
-189427	middle
-passive
-189430	active
-189432	active
-189435	active
-189444	active
-189447	active
-189452	active
-189454	active
-189460	middlepassive
+189348	active
+189356	active
+189359	active
+189361	passive
+189363	active
+189366	active
+189368	active
+active
+189372	middle
+189374	active
+189377	active
+189380	middle
+189384	active
+active
+189390	active
+189392	active
+189416	active
+189425	active
+189427	active
+189433	active
+189436	active
+189439	active
+189443	active
+189457	active
 189462	active
 189468	active
+189472	middle
 active
-189482	active
-189487	middlepassive
-189494	active
+189477	active
+189485	active
+189487	active
+189489	passive
+189491	active
+active
 189496	active
-189498	active
-189504	active
+189501	active
+189503	active
 189508	active
-189512	active
-189514	middlepassive
-189517	active
-189535	active
-middle
+189512	middlepassive
+189516	active
+189523	active
+189529	active
+189533	active
+189540	active
 active
-189543	middlepassive
-189545	active
-189549	active
-passive
-189557	active
+189544	active
+189546	active
 189559	active
-189561	active
-189563	active
-189570	passive
-189572	active
-189575	active
-middle
-189585	active
-189588	middlepassive
-189595	active
-189597	active
-189600	middle
-middle
+189566	middlepassive
+189568	middle
+189571	active
+189574	active
+189577	active
+189583	active
+189586	active
+189589	active
+189592	active
+189595	middle
+189598	active
+189600	active
+189608	active
 active
-189614	passive
-189620	middlepassive
-active
-middle
-active
+189615	active
+189617	active
 189625	active
-189630	active
-middle
-189638	active
-189666	active
+active
+189631	middlepassive
+189635	active
+189641	active
+189647	active
+189649	active
+189654	passive
+189658	passive
+189660	middlepassive
 189668	active
-189671	active
 189674	active
-189676	active
+189678	middle
+189683	active
+189685	passive
+189688	middle
 active
-189681	active
-189685	active
-active
-189689	active
+189691	active
 189695	active
+189697	middle
 189701	active
-189703	active
+189704	active
+189707	active
+189710	active
+189714	passive
 active
-189714	active
-189717	middle
-189725	active
-189729	active
-189736	active
-189744	active
-189751	active
-189756	active
-189773	active
-189778	middle
-189780	active
-189783	middlepassive
-active
-189791	active
-189803	passive
-189809	active
 middle
-189818	active
-189829	active
-189835	active
-189845	middlepassive
+189720	passive
+189727	middle
+189730	middle
+189734	active
+189738	active
+189743	passive
+189747	passive
+189756	active
+passive
+189761	active
+189763	active
 active
+189766	active
+189769	passive
+189775	active
+189777	active
+189779	active
+189785	active
+189793	middle
+189797	active
+189806	active
+189809	passive
+189812	active
+189816	active
+189819	active
+active
+active
+189826	active
+189833	active
+189835	active
+189837	active
+189846	active
 189849	active
 189855	active
-189857	passive
-189871	active
+189857	active
+189861	middlepassive
+189865	middle
+189867	middle
 189873	active
-189876	active
-189880	active
-189895	passive
-189900	active
-189915	active
-189917	middlepassive
-189923	active
-189937	active
-189946	active
-189949	active
-189952	active
-189956	active
-189958	active
-189960	active
-middlepassive
+189878	active
+189884	middle
+189888	active
+189892	passive
+189898	middle
 active
-189976	active
-189978	active
-189982	active
-189985	middlepassive
-189989	active
-189994	active
-189999	active
+189906	active
+active
+189910	active
+189913	active
+passive
+189918	active
+189921	active
+189927	active
+active
+189939	passive
+189943	active
+189956	passive
+189959	middle
+189963	middlepassive
+189970	active
+189973	active
+189986	active
+189993	middle
+189995	active
+189997	active
 190001	active
-190009	active
-190012	active
-190015	active
-190026	active
-190032	active
-190034	active
-190039	middle
-190047	middlepassive
-190056	middlepassive
-190070	active
-190076	active
+190005	active
+190007	middlepassive
 active
-190082	active
-190084	active
-190086	active
-190092	active
-190095	passive
+190011	active
+190013	active
+190017	active
+190023	middle
+190027	middle
+190032	middle
+190040	active
+190050	active
 active
+190053	active
+190057	active
+190060	active
+190064	active
+190073	middle
+190075	active
+active
+190079	active
+190085	middlepassive
+190091	active
+190093	active
+190095	active
 190099	active
 190101	active
-190110	active
-190114	active
 active
 active
-190120	active
-190122	active
-190128	middlepassive
-190136	active
-190141	active
-190145	active
-190154	middle
-190158	active
-190160	active
-190162	active
+190111	active
+190118	active
 active
-190170	active
-190174	active
-190179	active
-190188	middle
+active
+190127	middle
+190131	active
+190138	middlepassive
+190140	active
+190142	active
+190147	active
+190149	active
+190161	active
+middlepassive
+190166	passive
+190170	passive
+190173	middlepassive
+190177	active
+active
+190183	active
+190185	middle
+190190	active
 190194	active
-190202	active
-190204	active
+middlepassive
+190198	active
+190203	active
+190205	active
 active
-190216	active
-190227	active
-190229	middle
 active
-190232	active
-190235	active
+active
+190214	active
+190217	passive
+190224	active
+190226	passive
+190233	active
+190238	active
 190242	active
-190244	passive
+passive
+190245	middlepassive
+190248	active
+190250	active
 190254	active
-190258	active
-190260	middle
-190263	active
-190265	active
-190269	middle
+190261	active
+active
+190267	active
+active
+active
 190271	active
-190291	active
+190274	active
+190279	active
+190281	active
+190285	active
+190289	active
+active
 190294	active
-190296	active
-190298	active
-190304	active
-190307	active
-190310	passive
-passive
 active
+190299	active
+190301	active
+190309	active
+190313	active
+190317	passive
+190320	active
 190323	active
+190326	active
+190330	active
+190332	active
+190335	active
+190339	middle
+middlepassive
+190347	active
 active
-active
-190331	active
-190337	middle
-190339	active
-190348	active
-190350	active
-middle
-190356	active
+190353	active
+190355	active
+190357	middle
+passive
 190360	active
-190362	active
-active
-190374	active
-190377	active
-active
+190367	active
+190371	middle
+190380	active
+190382	passive
+190392	passive
 190397	passive
-190412	passive
-190414	passive
-190421	active
-190423	active
-190434	passive
-190436	middle
+190401	active
+190403	active
+190405	active
+active
+190408	active
+190411	active
+active
+190414	active
+190418	active
+190420	active
+active
+190424	active
+190428	active
+190431	active
+190436	passive
+190438	active
 190443	active
-190455	active
-190462	passive
-190469	active
-190474	active
-190476	active
-190488	active
-190490	active
-190495	passive
-190505	middle
-190507	active
-190513	active
-190516	active
-190519	middle
-190529	active
-190538	active
+190452	active
+190459	active
+active
+190466	active
+190471	passive
+190473	passive
+active
+190478	passive
+190481	passive
+190483	active
+190489	active
+190493	passive
+190498	active
+190501	active
+190512	active
+190515	middle
+190519	active
+190521	active
+190523	active
+190527	middle
+190531	active
+190533	middlepassive
+190539	active
 190542	active
-190550	active
-active
-190558	passive
-190560	passive
+190545	middle
+190547	active
+190555	middle
+passive
+190558	active
+190560	active
 190563	active
-190569	active
+190567	active
+190570	active
+190572	active
+190574	active
+190578	middlepassive
+190582	active
 active
-190576	passive
-190578	active
-190584	active
-190586	middlepassive
-190594	active
-190603	active
-190614	active
-190630	active
-190635	middle
+190587	active
+190592	active
+190599	active
+190604	middlepassive
+190606	active
+190608	active
+190610	active
+190613	active
+190615	active
+190617	active
+active
+190620	middlepassive
+190623	active
+190633	active
+middle
+190637	active
+190640	active
+active
 190643	active
+190650	active
+190652	passive
+190655	middlepassive
+190658	active
+190660	active
+190663	middle
+active
+active
+190667	middle
 passive
-190649	active
-190653	active
-190659	active
-190663	active
-190667	active
-190674	active
-190677	passive
-190679	active
-190681	passive
-190684	active
-190689	active
-190693	active
+190676	middlepassive
 active
-passive
+middle
 active
-190703	active
-190707	middlepassive
+190681	active
+190686	active
+middlepassive
+190702	active
+190704	active
+190708	active
+190710	active
+190712	active
 active
-190710	middle
+190716	active
 190719	active
 190721	active
-190730	middle
-190732	passive
+190723	active
+190726	active
+190730	active
+190734	active
 190738	active
+middle
+190741	active
+190746	active
+190750	passive
+190752	active
 190756	active
-190765	active
-active
-190768	passive
-190777	active
-190786	active
-190796	active
-190801	active
-190804	active
-190809	active
-190827	active
-190831	active
+190759	active
+190762	middle
+190766	active
+190769	active
+190773	passive
+190776	active
+190778	active
+190782	active
+190784	passive
+190788	active
+190792	active
+190795	active
+190797	active
+190802	middlepassive
+190812	active
+190825	middle
 190833	active
-active
-190841	active
+190838	active
+190842	active
 190845	active
-190850	active
+190851	active
+190854	active
+active
+190857	active
 190860	active
 190862	active
-190868	active
-190876	active
-190881	active
-middlepassive
-190884	active
-190891	active
-190893	active
-190900	active
-190905	passive
-190909	active
-190913	passive
-active
-190916	active
-190922	passive
-190924	middle
-190926	active
-active
-active
-190931	middle
+190865	active
+190873	active
+190878	active
+190882	active
+190885	active
+190887	active
+190889	middlepassive
+190894	active
+190897	active
+190900	middle
+190904	active
+190907	active
+190910	active
+190917	active
+190919	active
+190921	middle
+190927	middlepassive
+190930	middlepassive
 190937	active
-190940	middlepassive
+190940	active
+190944	active
 active
-190945	active
-190959	passive
-190961	active
-190971	passive
-190989	middlepassive
+190949	middlepassive
+190952	active
+190955	active
+190958	middle
+190960	active
+190963	active
+190967	active
+190970	active
+190972	active
+190977	active
+190979	active
+190984	middlepassive
+190990	active
+190992	middle
 active
-190992	active
+190995	active
 190999	active
-191001	active
-191011	active
+191003	middle
 active
-191017	active
-191022	active
-191032	active
-191040	active
-191042	active
-191045	middlepassive
+191006	active
+191008	middlepassive
+191011	active
+191013	active
+191019	active
+191021	middle
+191023	active
+active
+191028	active
+191032	middlepassive
+191036	active
+active
+191041	active
+191044	active
+191047	middle
 active
 191050	active
+191053	active
+191057	active
+191062	active
+191064	passive
+191068	active
+191075	active
+191078	middle
+191080	active
 active
-191059	active
-191063	active
-191069	middle
-191072	active
-191074	active
-191079	active
-191091	passive
-191095	active
-191104	middle
-191125	active
-191132	active
-191136	active
-191138	active
-191149	active
-191155	active
+191086	active
+191094	active
+191096	active
+191098	active
+191101	active
+191105	active
+191111	passive
+191113	active
+191115	active
+191117	active
+191124	active
+191126	active
+191128	middlepassive
+191130	active
+191133	active
+191138	middle
+191140	active
+191144	active
+191148	middlepassive
+191151	passive
+191159	active
+191161	active
+191163	middle
+middle
+191166	active
+191170	middle
+191172	active
 active
 active
-191160	active
-191164	active
-191171	active
-191173	active
-191177	active
 191179	active
-191185	active
+191183	active
+191188	active
+191193	active
+191198	passive
 active
+191203	active
+191205	active
+191212	active
 active
-191189	middlepassive
-191191	active
-191198	active
-191202	active
-191207	middle
-191215	passive
-191229	passive
-191234	passive
-191239	passive
-191248	passive
-191250	passive
-191252	active
-191265	active
-191274	passive
-191285	active
+191217	active
+191221	active
+191225	active
+active
+191230	middlepassive
+191233	active
+active
+191238	active
+191240	active
+191242	passive
+191245	active
+191250	active
+191253	active
+191257	active
+191261	active
+191263	active
+191266	middle
+middlepassive
+191269	active
+191273	active
+191278	active
+191281	active
+191283	active
+191287	active
 191289	active
-191295	middlepassive
-passive
+191293	active
 191298	active
-191303	active
-191305	active
-191315	active
-191317	active
+191301	active
+191304	active
+191307	active
+middlepassive
+191314	active
+191318	active
 191326	active
-191331	active
-191359	middle
+191329	passive
+191333	active
+191335	active
+191338	middle
+191341	active
+191346	active
 active
-191374	passive
-191379	active
-191383	middle
-191395	active
-passive
-191398	active
-191405	active
-191413	active
-191425	active
-191432	active
-191443	active
-191445	active
-191458	middlepassive
+191351	active
+191364	active
+191373	middlepassive
+active
+191376	active
+191380	active
+191382	active
+191385	active
+191388	active
+191390	active
+191396	active
+191400	active
+191402	active
+191405	middlepassive
+active
+191410	active
+191415	active
+191417	active
+191419	passive
+191421	active
+191424	middle
+191427	middle
+191436	active
+191442	active
+191450	active
+191454	active
+active
+active
+active
+191459	active
+active
+191464	active
+191467	active
 191469	active
-191475	passive
-191486	active
-191488	passive
-191495	active
-191497	active
-191503	passive
-active
-191506	passive
-191519	active
-191523	active
-191526	active
-191530	passive
-191537	middle
-191547	active
-191552	active
-191554	active
-middle
-191557	active
-191560	passive
-middle
-191565	active
-191579	active
-191585	active
-191596	active
-191601	middle
-191604	middle
-191610	active
-191615	active
-active
-191621	middlepassive
-191625	active
-191653	passive
-191655	active
-191657	passive
-191661	passive
-191666	active
-191671	middlepassive
-191673	active
-191678	passive
-active
-191681	active
-191683	passive
-191686	active
+191471	active
 active
 active
-191693	middlepassive
-191696	passive
-active
-191704	passive
-191711	middle
-active
-191721	middle
-middle
-active
-191726	active
-191740	active
-active
-191748	middle
-191750	active
-191752	active
-active
-191756	active
-active
-191764	active
-191767	active
-191773	middlepassive
-active
-active
-191782	active
-191790	middle
 middlepassive
-191794	middle
-191800	active
-191806	active
-191813	middle
-191815	passive
-191823	active
-191827	active
-191831	active
+191476	active
+191480	active
+191482	active
+191487	passive
+191491	active
+191494	active
+191499	active
 active
-191840	active
+191505	active
 active
-191844	passive
-191847	passive
-191855	active
-191859	active
-191862	active
-191864	active
-191866	passive
-191868	passive
-191890	passive
-191902	middle
-191908	active
-191910	active
-191913	active
-191915	active
-191919	active
-191921	active
+191511	active
+191524	active
+191527	active
+191530	active
+191534	active
+191540	middle
+191542	active
+191544	active
+191546	active
+191555	active
+active
+191560	middle
+191566	active
+191568	active
+191570	middle
+191572	active
+191575	active
+191577	active
+191580	middle
+191584	active
+191586	active
+191588	active
+191591	active
+191598	active
+191609	active
+191611	passive
+191613	middle
+191620	active
+191623	active
+active
+191631	middlepassive
+191634	active
+191637	active
+191640	active
+191648	active
+active
+191651	passive
+191653	active
+191657	active
+191660	active
+191662	middlepassive
+191665	passive
+191668	passive
+191671	active
+191674	passive
+active
+191677	passive
 passive
-191937	passive
-191939	active
-191945	active
-191966	active
-191968	active
-191971	middle
-191974	middle
-191979	active
-192006	passive
-192015	middle
+191680	active
+191682	active
+191685	active
+191688	active
 active
-192028	active
-192036	active
-192042	active
-192049	active
-192055	middle
-192058	active
-192064	active
-192075	middlepassive
-192093	passive
-192103	middle
-192110	active
-192114	middle
-192130	active
-192137	active
+191695	active
+191701	middle
+191703	active
+191706	active
 active
+191710	active
+191717	active
 middlepassive
+191720	active
+191724	passive
+191728	active
+191731	passive
+active
+191734	middle
+active
+191737	active
+191739	active
+191741	active
+191743	passive
+191745	active
+191750	active
+passive
+191754	middlepassive
+191757	active
+active
+191762	active
+191765	middlepassive
+191768	passive
+191770	active
+191775	middle
+191777	passive
+191779	active
+191781	active
+191783	passive
+191787	active
+191791	active
+191793	passive
+passive
+191796	active
+passive
+191800	active
+active
+191806	active
+191808	active
+191810	active
+191813	active
+191816	active
+191819	active
+191822	active
+191827	active
+191829	passive
+191833	active
+191839	active
+active
+191843	active
+191846	active
+191850	active
+191853	passive
+191858	active
+191868	active
+191878	active
+middle
+191884	passive
+191887	active
+191891	middle
+191893	active
+191895	active
+191901	active
+191904	active
+191907	passive
+191910	middle
+191932	active
+191938	middlepassive
+191948	active
+191952	active
+191961	middle
+191964	active
+191977	active
+active
+active
+191994	passive
+191998	active
+192005	passive
+192007	active
+192010	active
+192012	active
+192017	middlepassive
+192020	passive
+192026	active
+192030	active
+192035	middle
+192043	passive
+middle
+192051	active
+192054	passive
+192063	active
+192069	middle
+192074	active
+192081	active
+192084	passive
+192086	active
+192091	middle
+192095	active
+192100	active
+192105	passive
+192107	active
+192110	active
+active
+192115	passive
+active
+192119	middle
+192123	middle
+middle
+active
+192128	middlepassive
+active
+192132	middle
+192137	active
+192141	passive
 192150	active
 192152	active
+192156	active
+192159	middlepassive
 active
-192164	active
-192169	active
-192175	middle
-192183	active
-192193	passive
-192204	active
-192210	active
+192163	active
+192166	active
+192174	active
+192177	middle
+192179	passive
+192184	active
+192192	active
+192196	active
+192199	active
+192203	active
+192207	active
+active
+192216	passive
+192228	passive
+192241	active
+192243	active
+active
 passive
-192222	active
-192228	middle
-192235	active
-192247	active
-192254	active
-192261	active
-192270	passive
-192277	active
-192287	active
-192293	passive
-192297	active
-192306	active
-192315	active
-192317	passive
-192322	active
-192330	active
+192252	passive
+192254	middlepassive
+192256	active
+192260	active
+192264	middlepassive
+192266	active
+192272	middle
+middle
+192276	middle
+192279	active
+192284	middle
+192288	passive
+192290	active
+192298	active
+192308	middle
+192310	active
+192316	middle
+192321	active
+192323	passive
+192325	active
+192328	middle
 192332	active
-192339	active
-192349	active
-192358	active
-192364	active
-192368	active
-192373	active
-192378	active
-192380	middle
-192386	active
-192390	active
-192393	active
-192395	active
-192416	active
-192422	active
-192425	active
-192442	active
-192447	middlepassive
-192456	active
-192462	active
-192464	passive
-192473	active
-192475	active
-192479	active
-192488	active
-192504	active
-active
-192512	active
-active
-192515	active
-192518	active
-192527	active
-192532	passive
-192534	active
-192539	active
-192549	active
-192553	active
-192558	passive
-192561	active
-192563	active
-192565	active
-192583	active
-192585	active
-192588	active
-192614	active
-active
-192636	middlepassive
-active
-192640	active
-192646	active
-active
-192649	active
-192654	active
-192660	active
-192664	middle
-192666	active
-192670	active
-192678	active
-192681	middlepassive
-192684	active
-192690	passive
-192697	active
-192701	active
-192709	active
-192712	active
-active
-192718	active
-192725	active
-active
-192728	active
-192735	middlepassive
-192737	active
-192747	active
-192750	active
-192754	active
-192757	active
-192759	active
-192766	passive
-192772	active
-192777	active
-192779	active
-active
-192799	active
-192801	middlepassive
-192806	active
-192809	active
-active
-192814	active
-middlepassive
-192817	active
-192819	passive
-active
-192826	middle
-192828	active
-192830	active
+192338	passive
 passive
-192834	active
-192842	passive
-192844	middle
-192847	active
-192850	active
-192852	active
-192855	active
-192857	active
-192859	active
-192864	active
-192873	active
-192882	active
-middle
+192342	middle
+192346	active
+192353	active
+passive
+192358	active
+192362	active
+192365	middle
+192368	middle
+192374	active
+192377	active
+192383	passive
+192390	active
+192395	middle
+192398	middle
+192400	active
+192405	active
+192411	passive
+192415	active
+192418	active
+passive
+192423	passive
+192432	active
+192438	middle
+192441	middle
+192449	active
+192457	active
+192459	middle
+192461	passive
+192465	active
+192467	active
+192472	active
+192480	active
+192486	middle
+192490	active
+192495	active
+192508	middlepassive
+192510	active
+192514	active
+192518	active
+192522	active
+192524	active
 active
-192887	active
-192894	middlepassive
+192528	active
+active
+192531	middle
+192533	passive
+192536	active
+192546	active
+192553	active
+192559	passive
+192562	active
+192565	active
+192568	active
+192574	active
+192580	active
+192583	middle
+192588	active
+active
+192592	active
+192601	passive
+192604	active
+192607	passive
+192610	active
+192613	active
+192618	passive
+192621	active
+192626	active
+passive
+192630	active
+192632	active
+active
+192635	active
+192638	active
+192640	passive
+192649	active
+active
+192653	middle
+192657	active
+192665	passive
+192670	middle
+192672	active
+192676	active
+192681	middle
+192685	active
+192690	passive
+192693	active
+active
+192700	middle
+192702	active
+192707	active
+192714	active
+192729	active
+192731	active
+192737	passive
+192741	active
+192745	active
+192750	passive
+active
+192763	passive
+middle
+192767	active
+192769	active
+192781	middle
+192785	active
+192789	middlepassive
+active
+192797	active
+192799	passive
+192802	active
+192811	middle
+192816	active
+192819	middlepassive
+192824	middle
+active
+192829	middlepassive
+192831	passive
+192836	active
+192848	passive
+192851	active
+192856	middle
+192858	passive
+192860	active
+192862	middle
+192865	active
+192868	passive
+192871	active
+192874	active
+192880	active
+192883	active
+192888	active
+192895	active
 192899	active
-192907	active
-192909	middlepassive
-192915	active
-192923	passive
-192928	active
-192930	passive
-192934	active
-192945	active
-192951	middlepassive
-active
-192958	passive
-192964	middlepassive
-active
-192972	active
-192977	active
-192979	active
-active
-192988	middlepassive
-192990	active
-192999	active
-193004	passive
-193010	active
-193018	middlepassive
-193020	middlepassive
-193031	active
-active
-193034	middlepassive
-active
-193045	active
-193056	middlepassive
-193060	active
-193064	middlepassive
-193073	active
-193075	active
-193079	passive
-193086	active
-active
-193089	active
-193096	active
-193099	active
-193102	active
-193110	active
-193117	active
-193122	active
-active
-active
-193131	active
-193140	passive
-193143	active
-193147	active
-193152	middle
-193155	active
-193159	active
-193163	active
-193165	active
-193178	middlepassive
-193183	active
-193186	active
-active
-193194	middlepassive
-193201	active
-193203	active
-193206	active
-active
-193210	middlepassive
-middlepassive
-193226	middlepassive
-193236	active
-193240	active
-193250	active
-193252	active
-193260	active
-193274	active
-193276	active
-193280	active
-193285	active
-193287	active
-193292	active
-193294	active
-active
-193301	active
-193311	active
-193313	middlepassive
-193315	active
-193333	active
-193341	active
-193343	active
-193349	middlepassive
-193366	active
-active
-193371	active
-193379	middlepassive
-active
+192901	active
+192909	active
+192913	active
+192916	passive
+192919	active
+192923	middlepassive
 middle
-193385	passive
-193394	active
+192926	middle
+192930	middle
+192934	passive
+192938	active
+192945	active
+192947	passive
+192949	middlepassive
+192953	middle
+192958	active
+192961	active
+192971	middle
+192973	active
+192979	active
+192981	active
+192984	active
+192987	active
+192990	active
+192993	active
+active
+192996	active
+193003	middlepassive
+193006	active
+193008	active
+193011	passive
+193018	active
+active
+193021	passive
+193028	active
+193031	active
+193036	active
+193045	passive
+193049	passive
+193051	active
+193054	passive
+193058	passive
+193062	passive
+193068	passive
+193076	active
+193079	active
+193082	passive
+193088	active
+193092	passive
+193094	active
+193097	passive
+193106	middle
+193108	active
+193117	middlepassive
+193122	active
+193132	active
+193136	active
+193140	active
+193147	active
+193150	active
+193154	passive
+193159	middle
+193164	active
+193167	active
+193169	active
+193178	active
+193184	active
+193202	passive
+193205	active
+193209	active
+193213	middle
+193215	middlepassive
+193225	passive
+193232	middle
+193235	passive
+193240	active
+193246	active
+193249	active
+193263	middlepassive
+193266	active
+193271	active
+middlepassive
+193275	active
+193278	middlepassive
+193282	active
+193288	active
+193295	active
+193297	passive
+passive
+193302	active
+193305	middlepassive
+193315	middle
+193317	active
+193324	active
+193327	active
+193329	active
+193334	active
+193337	active
+193340	active
+193343	active
+193346	active
+193354	active
+active
+193357	active
+193360	middle
+193363	active
+193367	middlepassive
+193372	active
+193375	active
+193377	middle
+193380	active
+193388	active
+193390	passive
+193392	active
+193398	active
+193401	middle
+193404	passive
+active
 193408	active
-193417	active
-193435	middlepassive
-193438	active
-193450	active
-193461	passive
-193476	middle
-193483	middlepassive
-193495	middle
-193497	active
+193412	active
+193415	active
+193421	active
 active
-193506	active
-193508	active
-193510	active
-193516	active
+193427	active
+193430	active
+193433	active
+193436	active
+193444	active
+193452	active
+193466	active
+193469	active
+193475	active
+193482	active
+193485	middle
+193493	active
+193499	active
+193505	passive
+193511	active
+193514	active
 193518	active
-193521	active
-193523	active
-193527	active
-193529	active
-193538	active
-193560	active
-193563	active
+193522	passive
+193526	passive
+193528	middle
+193536	middle
+193541	active
+193545	middlepassive
+passive
+193550	active
+193552	active
+193556	active
 active
-193571	active
-193578	active
-193580	active
-193590	middle
-193604	active
-193618	active
-193624	active
-193628	passive
+193564	middle
 active
-193634	active
-193640	active
-193643	active
-193646	active
+193568	active
+193570	active
+193574	middlepassive
+193579	active
+193590	middlepassive
+193595	active
+193597	passive
+193600	passive
+193602	active
+193605	active
+193608	active
+passive
+193611	active
+193613	active
+193615	active
+193617	active
+193619	active
+193622	active
+active
+193626	passive
+193628	active
+193632	active
+193635	active
+193639	passive
+193641	active
+active
+193646	middle
+active
+193649	active
+193652	active
 193655	active
 193657	active
-193664	active
-193666	active
-193671	active
-193673	active
-193675	active
-193677	active
-193680	active
-193682	middle
+193659	passive
+193662	active
+193666	middlepassive
+193676	active
+193678	middle
+active
+193685	active
 193687	middlepassive
-193699	active
-193703	active
-193708	active
-193710	passive
-193717	active
-193728	active
-193734	active
-193746	active
-193762	active
-193794	active
-193796	active
-active
-193802	active
-193810	active
-193819	active
-193823	active
-193825	active
-193829	middle
-193831	active
-193843	active
-active
-193847	active
-active
-193851	active
-193861	active
-193867	active
-193869	active
-193876	middlepassive
-193878	active
-193881	active
-193886	active
-193889	active
-193895	active
-193897	active
-193899	active
-193901	active
-193906	active
-193911	active
-193934	active
-193939	active
-193972	active
-193975	middlepassive
-193980	middlepassive
-193987	middlepassive
-193991	active
-193993	active
-193999	active
-active
-194002	active
-194005	active
-194014	active
-active
-194018	active
-194030	active
-194035	middle
-194040	active
-194043	middlepassive
-194046	active
-194053	passive
-194055	middlepassive
-passive
-194068	passive
-194070	middle
-194076	active
-194082	active
-194087	passive
-194089	middlepassive
-active
-194093	active
-194096	middlepassive
-194107	active
-194113	active
-194120	active
-194128	active
-194130	active
-194135	passive
-194152	active
-194156	active
-194167	active
-194176	active
-194181	active
-194185	active
-194187	middlepassive
-194201	active
-active
-194206	active
-194209	middlepassive
-194215	active
-194217	middle
-194236	active
-194239	passive
-194241	active
-194243	active
-194254	middle
-194260	middlepassive
-active
-active
-194276	active
-194292	active
-194295	middle
-active
-194303	passive
-194315	active
-middlepassive
-194338	active
-194340	active
-194347	active
-194356	active
+193693	active
+193695	active
+193702	active
+193711	active
+193715	active
+193722	active
+193727	active
 middle
+193733	passive
+193742	active
+193744	active
+193747	active
+193750	middle
+193753	passive
+193758	passive
+193760	middlepassive
+passive
+193764	active
+193775	middle
+193777	active
+193782	active
+193788	active
+193791	passive
+193872	active
+193876	passive
+193882	passive
+193887	active
+193893	passive
+193895	active
 active
+193902	active
+193904	active
+193908	middle
+193911	middle
+193914	passive
+193919	middle
+193922	active
+193924	active
+193933	active
+193937	active
+193946	passive
+193949	active
+active
+193955	active
+193957	middle
+193961	passive
+193963	active
+193965	passive
+active
+193971	active
+active
+193977	active
+193983	active
+193987	active
+193989	active
+193993	passive
+193998	middlepassive
+194000	active
+194005	active
+194009	active
+194014	passive
+active
+194019	passive
+194021	active
+194025	active
+194028	active
+194032	active
+194042	active
+194049	active
+194053	passive
+194056	active
+194061	active
+194063	active
+194072	active
+active
+194075	passive
+194080	active
+194082	active
+194089	active
+194091	middle
+194093	active
+194095	active
+194101	active
+passive
+194104	active
+194108	active
+194110	active
+194112	active
+194121	middle
+194123	active
+194127	passive
+194135	active
+194138	active
+194143	middlepassive
+194148	active
+194150	active
+194153	active
+194156	active
+194161	active
+194164	active
+middle
+194168	active
+194173	active
+194175	active
+194180	active
+194186	active
+194189	active
+194196	passive
+194203	middle
+194211	passive
+194221	active
+194228	passive
+194233	passive
+194238	active
+194241	active
+active
+194247	active
+194255	passive
+194257	active
+194261	active
+194264	middlepassive
+194266	active
+194276	passive
+194282	active
+194288	active
+194290	active
+194294	active
+194299	active
+active
+194302	active
+194305	active
+194310	active
+194313	active
+passive
+194316	active
+194319	active
+194324	active
+194327	active
+194330	middle
+194334	active
+194336	active
+194343	active
+194347	middlepassive
+194349	middlepassive
+194356	active
 194360	active
-active
-194363	middle
-194367	active
 194370	active
-194377	active
-194382	active
+194374	active
+194376	active
+194379	active
+194383	active
+active
 194386	active
+194391	active
+active
 194394	active
-194400	active
-194405	active
+194402	active
+active
+194405	middlepassive
+194409	active
 194411	active
-194415	passive
+194414	active
+194419	active
 194421	active
-194423	passive
-194426	active
-194433	active
+194423	active
+194425	active
+194428	active
+middle
+194432	active
+passive
 194438	active
-194443	active
-194446	active
-194457	active
+194441	active
+194444	active
+194447	middlepassive
+194451	active
+194457	middle
 194459	active
-194461	passive
-194463	active
-194476	active
-194478	active
-194480	active
+194465	passive
+194472	middle
+194476	middlepassive
+194479	active
+194490	active
+194492	active
+194498	active
 active
-194484	middle
-194488	active
-194504	active
-194511	passive
-194531	middlepassive
-194533	active
+194501	active
+194507	active
+194509	active
+194513	active
+194515	active
+194519	active
+194523	middle
 active
-194537	active
+active
+194528	active
+194532	active
+194537	passive
 194539	active
-active
 194543	active
-194546	active
-194548	passive
-194551	active
+194545	active
+194550	active
 194554	active
-194567	middle
+active
+194558	passive
+194563	active
 194569	active
+middle
 194573	active
-194576	active
-194585	passive
+194575	active
+194579	passive
+194581	active
+194583	active
+194586	active
+active
 194591	active
-194593	middlepassive
-194598	active
-194603	passive
-194609	active
-194617	passive
-194620	active
-194628	active
-194632	active
-194639	active
-194641	middle
-194651	passive
+194595	active
+194605	active
+194612	active
+194616	active
+194621	middlepassive
+194627	active
+194631	active
+194633	active
+194636	middle
+194638	active
+194644	middle
+194647	active
+194650	active
+194652	passive
 194654	active
-194661	passive
-194663	active
-194668	active
+194657	active
+middlepassive
+194660	active
+194662	active
+194664	middle
+194666	active
+active
+passive
+194672	active
+194676	active
+194679	active
+194681	active
+active
+194686	active
+194691	active
 194695	middlepassive
-active
 194702	middlepassive
-194705	active
-194716	passive
-194718	active
-194723	middlepassive
-194725	active
+194704	active
+194706	passive
+194716	middlepassive
+194718	middle
 194738	active
-194742	middlepassive
-194752	passive
-194766	passive
+194740	middlepassive
+194743	middle
+194745	active
+194750	active
+194752	active
+194754	active
+194758	active
+194760	active
+194764	active
 194769	active
-194776	passive
-194778	middle
-194782	active
-194788	active
-194790	active
-active
+194778	active
+194781	active
+194783	passive
+194788	middle
+middlepassive
 194793	active
 194795	active
 194797	active
-194803	active
-passive
-194807	passive
-194811	active
-passive
-194817	active
+194800	middlepassive
+194802	active
+194807	active
+194812	passive
+active
+194816	middlepassive
 194821	active
+194823	active
 passive
-194827	active
 194829	active
-194839	active
+active
+194832	active
+194835	active
+194841	active
+194844	active
+194846	active
+passive
 194849	active
-194851	passive
-194859	active
-194861	passive
-194864	active
+active
+194852	active
+194855	middlepassive
+194861	active
+194863	active
+194865	middlepassive
+active
 194870	active
-194885	active
-194890	active
-194895	active
-194900	active
-194902	active
-194917	active
-194925	passive
-194932	active
-194947	passive
+194874	active
+194877	active
+194880	passive
+194882	active
+194884	active
+194889	active
+194891	middle
+194895	middlepassive
+194899	active
+194901	active
+194904	active
+194906	active
 active
-194950	middlepassive
-194958	active
-194963	middlepassive
-194978	active
-194985	active
-194991	middlepassive
+194910	active
+194918	active
+194926	active
+194934	active
+194941	passive
+194943	active
+194946	active
 active
+194950	active
+active
+active
+194959	active
+194963	active
+194967	middle
+194977	active
+194979	middlepassive
+194987	active
+active
+active
+middle
+194994	passive
 194998	active
-195009	active
-195012	active
-195022	middle
+195002	active
+195010	active
 active
+195019	active
+195023	active
 195030	active
-195034	active
 195037	active
-195047	active
-195052	middlepassive
-195062	active
-195070	passive
-195076	active
-195087	active
-195089	active
-195092	active
-195096	active
-195099	middle
-195101	passive
+195044	passive
+195047	middle
+195055	active
+195057	active
+195059	active
+195063	active
+middle
+195067	middlepassive
+195075	active
+195080	active
+195082	active
+195085	active
+195088	passive
+195090	active
+195093	active
+195095	active
+195098	active
+195101	active
+195103	active
+195112	active
 active
-195107	active
-195111	active
-passive
-195114	active
-195119	middle
-195124	active
-195128	active
-195132	active
-195135	passive
-195140	active
-195147	active
-195157	active
-195160	active
+195115	active
+195120	active
+active
+195127	active
+195130	active
+195135	middle
+195139	active
+195144	active
+195146	active
+195154	active
+195156	middle
+195164	active
+195166	active
+active
+195171	active
+195174	active
+195178	active
 195180	active
-195188	active
+195182	active
+195186	active
+active
+active
+195192	active
+195194	active
+195196	active
+195198	active
+195200	active
+195202	active
+195204	middle
 195206	active
-195218	middlepassive
-195220	active
-195229	passive
-195231	passive
-195242	passive
-195245	active
-195247	active
-195267	active
+195208	active
+195213	active
+195215	passive
+195220	passive
+195223	active
+195226	active
+195228	middle
+195233	active
+195237	middle
+195246	middle
+195248	active
+195252	middle
+195256	active
+195259	active
+195273	passive
+195279	middle
+195282	active
+195284	active
+195305	active
 active
-195270	active
-195274	active
-195281	active
-195283	active
-195286	active
-195290	active
-195304	active
-195311	active
-active
-195315	active
-195329	active
-195336	active
+195309	passive
+195314	passive
+195317	passive
+195321	active
+middle
+195327	middlepassive
+195329	middlepassive
+195333	active
+195339	active
 195344	active
-195346	active
-195352	active
-195358	active
-195372	passive
-195374	active
-195376	active
+195349	active
+195352	passive
+195354	active
+195357	active
+195359	active
+195361	active
+195366	active
+195369	active
+195371	active
+195380	passive
+195385	active
+middle
+195396	active
+195404	active
+195409	passive
+195412	active
+195414	active
+195417	active
+195419	active
+195424	active
+195430	active
+195435	active
 active
-195388	active
-195390	active
-195393	active
-195401	active
-195408	active
-195426	passive
-195434	active
-195436	active
-195438	active
+active
+195441	active
+active
+195444	active
+middlepassive
+195447	middlepassive
+195449	active
 195451	active
-active
-195454	active
-195456	active
-195458	middlepassive
-195465	active
-195467	middlepassive
-middlepassive
-passive
-195471	active
+195455	active
+195460	active
+195466	active
+195468	active
+195470	active
 195473	active
-195478	passive
-195480	middle
-195483	active
-195485	middle
-195487	middlepassive
-195495	middle
+195476	active
+195479	active
+195481	active
+195484	active
+195489	active
 active
+195494	active
 195498	active
-195507	active
-195514	active
-195517	passive
-195522	active
-195525	active
+195500	active
+195504	active
+active
+195509	active
+195513	active
+195516	active
+195519	active
+active
+195523	active
+195526	active
 195528	active
-195530	active
-195544	active
+195531	active
+195535	active
+195537	active
+195539	active
+195541	middle
+195546	middle
 195551	active
-195553	active
-195556	active
-195558	middle
+195555	middlepassive
+195561	active
+195564	active
+195567	passive
+195570	active
+195573	passive
 active
-195566	active
-195573	active
-195575	active
-195590	passive
-195598	active
-195605	middlepassive
-195615	active
-195617	active
-195626	active
-195629	active
-195637	active
-195639	active
+195576	passive
 active
-195646	passive
-195648	active
-195650	active
-195655	active
-195661	active
-195666	active
-195677	active
-195684	active
-195694	passive
-195702	active
-active
-195711	active
-195718	middle
-195724	active
-195728	middle
-195736	passive
-195739	passive
-195750	active
-195755	passive
-195766	active
-195777	active
+195579	passive
+195583	passive
 passive
+passive
+active
+195592	active
+passive
+195595	active
+195599	middlepassive
+195602	active
+195605	middlepassive
+195607	active
+195612	passive
+195614	middle
+195621	active
+195636	active
+195638	middlepassive
+active
+195643	active
+active
+195657	active
+195659	active
+195667	active
+195675	active
+195684	active
+195691	passive
+195695	active
+195700	active
+195708	active
+195714	active
+195719	active
+195725	active
+195730	active
+195732	active
+195734	middlepassive
+195737	active
+195741	active
+195743	active
+195746	active
+195749	active
+195751	active
+195754	active
+195756	active
+195758	active
+195764	middle
+active
+195771	active
+active
+195776	passive
+195779	active
+195782	active
 195784	active
-195788	middle
-195793	active
-195800	active
-195804	active
-195807	active
-195810	middle
-195812	middle
+195786	active
+195792	active
+195796	active
+195798	middle
+195805	active
+195813	active
+195819	active
 active
-195816	active
-195821	passive
+active
 195823	active
-active
 195826	active
-195828	active
 195830	active
-195833	active
-195842	active
-195850	active
-195852	active
-195857	active
-195868	active
-middlepassive
-195875	active
-195882	active
-195885	active
-195893	active
-195897	passive
+195834	active
+195837	active
 active
-195903	middlepassive
-195905	active
-195908	active
-195913	active
-195929	middlepassive
-195940	active
+195843	middle
+195846	active
+195849	active
+195852	active
+195854	middle
+195856	active
+195863	active
+195867	middlepassive
+195873	active
+195876	active
+195879	active
+195883	passive
+195887	active
+195892	active
+195896	active
+195898	active
+195900	active
+195903	passive
+195909	active
+195911	passive
+active
+195916	active
+195918	passive
+195920	middlepassive
+195923	middlepassive
+195925	middlepassive
+195929	active
+195932	active
+active
+195937	active
+195940	passive
 195943	active
 195945	active
-195948	active
 active
-195952	passive
+195952	active
 195954	active
-195959	active
-195961	active
-195963	active
-195967	active
-195969	active
-195988	middlepassive
-195990	active
-195995	active
+195957	passive
+active
+195960	active
+195962	middle
+195965	passive
+195968	passive
+195971	middlepassive
+195979	active
+195984	middle
+passive
+195987	active
+195994	active
+196000	active
 196003	active
-196006	active
+196006	passive
 196009	active
-passive
-196015	active
+196012	active
+196014	active
+middle
+196018	active
 active
-196019	active
+196021	active
 196024	active
+passive
+196027	active
+196030	middle
 active
-196031	active
-196037	middle
+196033	active
+196037	active
 196042	active
-196045	active
-passive
-196048	active
-196050	active
-196053	middlepassive
-196062	active
-196070	middle
-196072	middle
+196044	active
+196047	passive
+196051	middle
+196056	active
+196068	active
+196075	middle
+196081	active
+196084	active
+196086	active
+middlepassive
+196090	active
+middle
+196095	active
+196097	active
+196100	active
+196102	active
+middlepassive
+196106	active
+196110	active
+196118	middle
 active
-196083	active
-passive
+196121	passive
 active
-196095	passive
-196110	middlepassive
-196113	active
-196136	active
+196124	passive
+active
+196130	active
+196132	active
+196134	passive
+196137	active
+196139	passive
+196141	passive
+196144	active
 196147	passive
-196152	active
+196149	active
+196153	middle
+active
 196159	active
-196189	middlepassive
-196191	active
-196200	active
-196204	active
-196206	active
-196215	active
-196220	active
-196222	middlepassive
-196227	middle
-196229	active
+196162	middle
+196165	passive
+196168	active
+active
+196173	passive
+middle
+196180	active
+196183	active
+196186	active
+active
+196190	active
+196195	active
+196197	passive
+middle
+active
+196205	active
+196209	active
+196216	active
+196226	active
+196230	active
 196233	active
+196235	passive
 196245	active
-196249	active
-196269	passive
-196273	middle
+196248	passive
+196252	active
+196259	active
+196262	active
+196264	middlepassive
+196266	active
+196269	active
+active
+196274	middle
+active
 196278	active
-196282	active
-196287	active
-196290	active
-196298	middle
-196301	active
-196303	middlepassive
-196305	active
-196324	active
 active
-196327	active
-196332	active
-196334	active
-196340	active
+196283	active
+196286	active
+196289	active
+196291	active
+active
+196296	active
+196298	active
+196300	active
+middle
+196306	passive
+196312	active
+196318	active
+196321	active
+196326	passive
+196328	middle
+196330	active
+196335	active
+196337	middlepassive
 196342	active
-196349	middle
-196356	active
-196360	active
-passive
-196369	active
-196378	active
-196381	active
-196384	active
-196393	active
-196398	active
-196401	active
-196404	passive
-196411	active
+196345	active
+196350	active
+196352	middle
 active
+196361	active
+196363	active
+196367	active
+196369	active
+196372	active
+196374	active
+196376	active
+196379	active
+196381	active
+196385	middle
+196389	active
+196391	passive
+196393	active
+196396	active
+196399	active
+196403	active
+active
+196406	active
+196409	active
+196415	active
 196417	active
-196437	active
+196419	middle
+196423	active
+196425	passive
+196427	active
+active
+196432	middle
+196435	active
+196438	active
+196440	passive
+196444	active
 active
 196448	active
-196450	active
-196464	active
-196467	active
-196469	active
-196472	middlepassive
-196477	middlepassive
-196481	active
+196456	active
+196460	active
+196466	active
+196470	active
+196475	active
+196477	active
+active
+196485	active
 196489	active
-196492	active
-196495	active
-196499	active
-196501	middle
-196513	active
+196493	active
+196495	passive
+196501	active
+196506	passive
+196508	active
+active
+196512	passive
+196516	middle
+middlepassive
+active
+196522	active
+196525	active
+active
 196532	active
-196543	middle
-active
-196550	middlepassive
-196555	active
-196559	active
+196534	middlepassive
+196537	middle
+196542	active
+196559	passive
 196563	active
-196565	active
-196568	active
-196573	active
-active
+196571	active
+196574	active
+196576	active
+196582	middlepassive
+196584	active
 196586	active
 active
-196594	middle
+active
+196593	active
 196597	active
-196604	active
+196601	passive
 196606	active
-196616	middle
+196610	active
+196614	passive
+passive
+196618	active
+196622	active
+196627	passive
+196629	active
+196633	active
+196639	passive
+active
+196643	active
 active
 active
-196621	active
-196636	middle
-196647	middlepassive
-196649	active
+196647	active
 active
-196654	active
-196659	active
 active
-196667	active
+196656	active
+196660	active
+196662	passive
 active
-196676	active
-196686	active
-196695	active
-196703	active
-196709	active
-196711	active
-196718	active
-196724	passive
-196734	active
-196739	active
-196742	active
-196744	active
-196746	active
-196759	middle
+196673	active
+196675	active
+196677	active
+196679	active
+active
+196685	active
+196693	active
+active
+196696	middlepassive
+196699	active
+196706	active
+passive
+196714	active
+196716	middlepassive
+196722	active
+196725	active
+196729	middlepassive
+196733	active
+196735	active
+active
+196743	middlepassive
+passive
+196747	active
+196754	active
+196759	active
 196761	active
-196764	middlepassive
-196767	active
-196771	active
+196763	active
+196768	active
 active
 196774	active
-196789	active
-196791	active
-196793	active
-196804	active
-196807	active
-196810	active
+196777	active
+196779	middlepassive
 active
-196816	passive
-196821	active
-196827	active
-196830	middle
+196784	active
+196788	middle
+196792	passive
+196795	active
 active
-196838	middle
+196799	active
+196802	active
+passive
+196808	active
+196811	active
 active
-196846	active
-196849	active
-196857	active
-196860	active
-196870	active
-196873	active
-196876	passive
+passive
+196815	middle
+196824	middlepassive
 active
-196879	active
-196882	active
-196884	active
-196886	active
+196829	passive
+196837	active
+196839	active
 active
-196894	active
-196896	active
-196899	active
-196903	active
-196905	active
+196844	passive
 active
-196908	active
+196851	active
+196856	middle
+196863	active
+196869	active
+196871	active
+196877	passive
 active
-196916	active
-196918	passive
+196881	active
+196883	active
+196888	passive
+196890	active
+active
+196893	active
+196895	active
+196898	middle
+196901	passive
+active
+196909	middle
+196911	middle
+196913	active
+196919	passive
+196921	active
+active
+196927	active
 196930	active
-196941	active
-196953	active
-196959	active
-196961	active
-196966	active
+196934	active
+196937	active
+196943	active
+196946	active
+196951	active
+196957	active
+196962	middle
+196967	active
 196971	active
-196979	active
-196982	active
-196985	passive
-196987	active
-197001	active
-197003	active
-197012	active
-197018	active
-197025	active
-197036	active
-197041	middle
-197043	active
-197049	middle
-197052	middle
+196974	active
 active
-197073	active
-197075	passive
+196979	active
+196985	middlepassive
+196989	active
+active
+196995	active
+197000	active
+197003	passive
+197005	passive
+197007	active
+197009	passive
+197014	active
+197021	active
+197024	active
+197027	active
+197031	active
+197035	active
+197039	active
+active
+197046	passive
+197050	active
+197053	active
+197056	active
+197058	active
+197060	active
+197065	active
+197069	active
+197076	passive
+active
 197079	active
 active
-197096	middlepassive
-197100	active
-197107	active
 active
-197112	active
-197119	active
+197083	active
+197089	active
+197091	active
 active
-197123	active
-197125	active
+197094	active
+197098	active
+middlepassive
+197103	active
+passive
+197106	active
+197112	passive
+active
+197116	active
+197118	passive
+passive
+197121	active
 197129	active
-197131	passive
-197135	active
-197140	active
-197142	active
+197133	passive
+197136	active
+197138	active
+middlepassive
 197144	active
-197146	middlepassive
+197146	active
 197148	active
-197158	active
-197170	middle
-197173	active
-197181	active
-197187	passive
-197189	active
+197151	active
+active
+197157	middlepassive
+197160	active
+197163	active
+197167	active
+197169	active
+197174	active
+197176	middle
+197184	middle
+active
+197193	active
 197195	active
-197200	passive
-197202	active
-197210	active
-197212	active
-197221	middle
-197229	active
+197199	active
+197201	active
+197208	active
+197214	active
+197217	active
+197220	active
+197224	active
+197231	active
+197233	passive
 active
-197232	active
-197234	active
-197238	middlepassive
-197255	active
+197236	middle
+197243	active
+197249	active
+197252	middle
+197254	middlepassive
 197257	active
-197259	active
-197272	middle
-197276	middle
-197278	passive
-197280	passive
-197293	active
-197298	active
-197311	active
+197261	active
+197264	active
+197267	active
+middle
+197273	active
+197275	active
+197277	active
+197282	active
+active
+active
+197286	active
+197290	middle
+197292	active
+197298	passive
+197302	active
+197307	active
+197309	middlepassive
 197313	active
-197330	middle
-197335	active
+middlepassive
+197318	active
+197320	active
+197324	active
+197328	active
+middle
+197332	middlepassive
+197334	active
+197336	passive
 active
-197350	middle
-197352	active
-197356	active
-197358	active
+197342	active
 active
-197368	active
-197381	active
-197400	active
-197406	active
+197362	active
+197364	active
+active
+197367	active
+197369	active
+197371	active
+197373	active
+197376	active
+197379	active
+active
+197382	active
+197384	active
+197388	active
+197391	active
+197393	passive
+active
+197396	active
+197401	active
+197404	active
+active
+middle
 197409	active
-197418	passive
-197429	active
-197437	active
-197443	middlepassive
+197417	active
+197419	active
+197421	active
+197426	middlepassive
+197428	active
+197431	active
 197445	active
-197450	active
-197458	active
-197467	active
-197470	active
-197484	active
-197487	active
+197449	active
+197451	active
+197454	middlepassive
+197458	middlepassive
+197460	middlepassive
+197468	active
+197472	middlepassive
+197474	middlepassive
+197479	active
+197483	middlepassive
+197485	active
+197487	passive
+197491	passive
+197497	passive
+197503	active
 active
-197502	active
-197507	active
-197510	active
+197509	active
 197512	active
-197523	active
-197530	passive
-197532	active
-197535	active
-197543	active
-197557	active
-197564	active
-197566	middle
+197514	active
+197517	active
+active
+197521	active
+197523	middle
+197526	active
+197528	active
+197530	active
+197534	passive
+197538	active
+active
+197542	middle
+197544	active
+197552	active
+middlepassive
+197556	middle
+active
+active
+197561	active
+197563	active
+197566	passive
 197571	active
 197573	active
-197577	active
 197579	active
-197586	middlepassive
-197591	middlepassive
 active
-197601	middlepassive
-active
-197604	active
-197610	active
-197619	active
-197630	active
+197583	active
+197585	active
+197589	active
+197591	active
+197599	passive
+197601	active
+197607	active
+197611	active
+197616	active
+197622	active
+197625	active
+197627	active
+197634	active
 197637	active
-197639	active
-197645	middlepassive
-197652	middlepassive
-197654	active
-197657	middlepassive
-197677	middlepassive
+197640	active
+197642	active
+197644	active
+197647	active
+197649	passive
+197652	passive
 active
-197684	active
-197693	middlepassive
-197695	active
-197718	middlepassive
+197658	middle
+197663	active
+197667	active
+197669	active
+197673	active
+active
+197677	passive
+active
+197689	active
+active
+197697	active
+active
+197701	passive
+active
+197708	active
+197710	active
+197712	active
+197714	active
+197716	active
+197721	active
+197723	passive
+197729	passive
+197733	passive
+active
+197739	active
 197741	middlepassive
-197743	active
-197749	active
+middle
+197745	active
+197750	active
+197754	active
+197757	active
 active
-197759	active
-197764	active
-active
-197768	passive
-active
-197772	active
-197779	active
-197788	active
-active
-197801	active
-197808	active
-197814	active
-197823	active
+197762	active
+197767	active
+197771	passive
+197773	active
+197781	passive
+197789	passive
+197791	active
+197800	active
+197804	active
+197807	active
+197810	middle
+197813	active
+197817	middle
 197825	active
-197827	passive
-197833	active
-197835	active
-197847	active
-197850	middle
-197852	active
-197866	active
-197877	active
-197886	active
+197828	active
+197831	middle
+197833	middle
+197835	middlepassive
+197846	active
+197848	middle
+197850	active
+197853	active
+197856	passive
+197858	active
+197862	active
 active
+197872	active
+197874	active
+197880	active
+197883	middle
+197885	middlepassive
+197888	active
+197894	active
+197897	active
 197899	active
-197907	active
-197911	passive
-197921	active
-197924	active
-197932	active
-197955	active
-197961	active
-197964	active
-197970	middle
-197980	active
-197994	active
+197910	active
+197912	active
+197916	active
 middle
-198002	active
-198008	active
-198010	active
-198012	passive
-198014	active
-passive
+197920	active
+197922	passive
+197925	active
+197931	middle
+197934	active
+197936	active
+197939	passive
+197941	active
+197944	middle
+197946	passive
+197951	active
+197954	active
+197960	active
+middle
+197965	active
+197969	active
+197973	middle
+197977	active
+active
+197980	middlepassive
+197982	active
+197989	active
+197991	middle
+197993	active
+197997	active
+197999	active
+198004	active
+198006	active
+198009	passive
+198013	active
 198017	passive
-198025	passive
-198036	active
-198039	middle
-198043	active
-198047	middle
-198052	active
-198055	passive
-active
-198059	active
-198064	active
-active
-198068	active
-198080	active
-198083	active
-198085	active
-middle
-198090	active
-198092	middlepassive
-198103	active
-198107	active
-198109	active
-198112	active
-198121	passive
-198134	active
-198136	middle
-198146	middle
-198149	active
-198155	active
-198159	active
-198163	active
-198166	active
-198170	active
-198177	active
-198183	active
-active
-198186	active
-198193	active
-198195	active
-198200	active
-198205	active
-198207	active
-198211	active
-198213	active
-198215	passive
-198217	active
-198224	active
-198230	active
-198234	active
-198247	active
-198256	active
-198261	middle
-active
-198264	active
-198274	active
-198277	active
-198283	active
-198290	active
-198293	active
-198296	passive
-198304	active
-198307	active
-active
-198315	middle
-active
-198325	active
-198335	middle
-198337	active
-active
-active
-198356	middlepassive
-198363	active
-198365	active
-active
-198369	middlepassive
-198373	active
-198375	active
-198377	active
 passive
+198021	active
+198025	passive
+198027	middle
+198030	middle
+198032	active
+198038	middlepassive
+198040	active
+198044	active
 active
-198386	active
-198388	active
-198391	active
-198393	active
-198396	active
+198052	middle
+198055	active
+198059	passive
+198068	active
+198072	active
+active
+198077	middle
+198088	active
+passive
+198094	active
+198102	middle
+198105	middlepassive
+active
+198111	active
+198115	active
+198119	active
+198124	middle
+198126	active
+198130	active
+198133	middle
+198140	middlepassive
+198144	middle
+middlepassive
+active
+198152	active
+198154	active
+198156	passive
+198159	active
+198161	active
+198166	active
+198169	active
+198173	active
+198175	active
+198180	active
+198184	active
+198187	active
+middle
+198191	passive
+198199	active
+middlepassive
+198203	active
+198208	passive
+active
+198213	active
+198217	middle
+198224	active
+198228	active
+198230	active
+active
+198233	active
+198237	active
+198239	passive
+198241	active
+198244	passive
+198248	middlepassive
+198252	active
+198255	active
+198258	middlepassive
+198260	active
+198265	active
+198276	active
+198279	active
+active
+198283	active
+198287	active
+active
+198291	active
+active
+198295	active
+198298	active
+198300	active
+198305	active
+active
+198310	active
+198313	active
+198318	active
+198320	middle
+198325	active
+198330	active
+198334	active
+198338	active
+198344	active
+198348	active
+198357	active
+198359	middlepassive
+active
+198369	passive
+198376	active
+198380	active
+middle
+active
+198389	active
+198399	middle
 198403	active
-198416	active
-active
-198436	active
-198438	active
-198441	active
-198444	active
-198446	middlepassive
+198405	active
+198412	active
+198414	passive
+198422	active
+198427	active
+198437	active
+198443	middlepassive
+198445	middlepassive
+198447	active
+passive
 198451	active
-198455	active
-198459	middle
-198461	middle
-198469	active
-198477	active
-198485	active
-198490	active
+198456	active
+198458	active
+198466	active
+198469	middlepassive
+198471	active
+198475	active
+198478	passive
+198485	middle
+198489	active
+active
 198494	active
-198496	active
+198502	middle
+198516	passive
+198518	middle
+198523	middlepassive
 active
+198528	middle
+198537	passive
+198540	middle
 active
-198506	active
-active
-198510	active
-198522	active
-198524	active
-198526	active
-198530	active
-198537	active
 198544	active
 198546	active
-198573	active
-198579	active
+198549	active
+198552	active
+active
+active
+198556	active
+198560	active
+198564	passive
+198569	active
+198572	active
+198578	active
+middle
+active
 198583	active
-198587	active
-198590	active
-198592	active
-198611	active
-198617	active
+198596	active
+198600	active
+198603	passive
+active
+198609	passive
+198615	middle
+198620	active
+middle
+198628	active
+198633	active
+198641	middle
+198645	passive
+198651	active
+198653	active
+198660	active
+198667	middlepassive
+198669	active
+198671	passive
+198675	active
+198678	active
+198680	active
+active
+198687	active
+active
+198691	active
+198694	active
+198696	active
+198698	active
+198701	active
+198703	middle
+198705	active
+active
+198708	active
+198711	active
+198713	active
+198716	active
+198721	passive
+198723	active
+198726	passive
+active
+active
+198755	active
+198759	middle
+198761	active
+198763	middle
+198766	active
+active
+198769	active
+198774	active
+198776	active
+198778	active
+198780	active
+198785	active
+198788	active
+198792	active
+active
+active
+198799	active
+198804	active
+198806	active
+198812	active
+198814	active
+active
+198818	active
+active
+198822	active
+passive
+198825	active
+active
+198829	active
+198831	active
+198837	active
+198841	passive
+198846	active
+198848	active
+198851	active
+passive
+198856	active
+198859	middlepassive
+198861	active
+198867	active
+198869	active
+active
+198875	active
+active
+198879	active
+198883	middlepassive
+198886	active
+198890	middlepassive
+198893	active
+198901	middle
+198907	active
+198909	passive
+198913	passive
+198918	active
+198923	passive
+198926	active
+198928	active
+198931	active
+198937	active
+active
+active
+198944	middle
+passive
+198947	active
+198956	active
+198962	middle
+198965	passive
+198968	middle
+198975	middle
+active
+198982	active
+198984	middlepassive
+198987	active
+198990	active
+198994	middlepassive
+active
+198997	passive
+199000	active
+199007	active
+199012	active
+199018	active
+199020	active
+199024	active
+199028	active
+199032	active
+199035	middle
+199039	active
+199042	active
+199047	middle
+199052	active
+199054	active
+199058	passive
+active
+199063	active
+199066	passive
+199073	active
+199075	middlepassive
+active
+active
+199079	active
+199084	active
+199086	active
+199088	active
+199093	passive
+active
+199097	active
+199100	active
+active
+199103	passive
+199105	active
+199107	active
+active
+199110	passive
+199114	active
+active
+199117	active
+active
+199120	active
+passive
+199126	active
+199132	active
+199135	active
+199137	active
+199144	active
+active
+199147	active
+199154	active
+199156	active
+199163	active
+199165	middle
+199168	active
+active
+199172	active
+199177	active
+199182	active
+199186	active
+199189	active
+199193	active
+199196	active
+199201	passive
+passive
+199206	active
+199212	passive
+199214	passive
+199218	active
+199220	active
+199227	active
+199232	active
+199236	middle
+199242	active
+199245	active
+199252	passive
+active
+199257	active
+199259	active
+199263	active
+active
+199268	active
+199270	active
+199274	active
+199276	active
+199279	active
+199282	active
+199284	active
+199288	active
+199291	middlepassive
+199294	active
+199298	active
+active
+active
+199305	active
+199307	active
 active
 passive
-198623	active
-198626	active
-198631	active
-198635	active
-198640	middle
-active
-198644	active
-198653	active
-198655	passive
-198670	passive
-198677	active
-198683	active
-198685	middle
-198690	middle
-active
-198695	passive
-198697	active
-198703	active
-198706	active
-active
-198714	active
-198727	middle
-198738	active
-198742	active
-198746	active
-middle
-198750	active
-198757	active
-198762	active
-198768	active
-active
-198774	active
-198787	active
-198791	active
-198793	active
-198800	passive
-198808	active
-198820	passive
-198849	passive
-198852	active
-198874	active
-198877	active
-198880	active
-198885	active
-198890	middle
-198894	active
-198902	active
-198912	active
-198926	active
-198938	passive
-198948	middle
-198950	active
-198963	middlepassive
-198965	active
-198967	passive
-198975	active
-active
-198981	passive
-198985	active
-198991	active
-198994	active
-198996	active
-199010	active
-199012	passive
-199015	middle
-199017	middle
-199019	active
-199022	middle
-199030	active
-199039	active
-199043	middle
-199046	active
-199056	active
-199063	middle
-199068	active
-middle
-199083	active
-199088	active
-199092	active
-199094	active
-199099	active
-199101	active
-199103	active
-199105	active
-199111	active
-active
-199116	active
-199120	active
-199122	active
-199126	passive
-199138	active
-199140	passive
-199142	active
-199148	active
-199150	active
-199153	active
-199155	passive
-199160	active
-199166	active
-199175	active
-199186	active
-199188	passive
-199190	active
-middlepassive
-199194	active
-199197	active
-199202	middle
-199212	active
-199221	active
-199229	active
-active
-199233	active
-199235	active
-199240	passive
-199242	active
-199250	active
-199253	active
-199256	passive
-199258	active
-199270	middle
-199274	middle
-199276	active
-199282	active
-199288	active
-199294	active
-199297	active
-199303	middlepassive
-active
-199306	active
+199311	passive
+199313	middlepassive
 199315	active
-199318	active
-199322	active
-199334	active
-199340	active
-199345	middlepassive
+199321	active
 active
-199348	passive
-199356	active
-199360	middlepassive
-199364	active
-199366	active
+199325	middlepassive
+199332	middle
+199335	active
+199338	active
+199344	active
+199348	active
+199352	active
+199355	active
+199358	active
+199363	active
+199366	passive
+middle
+active
+199372	active
 199374	active
-active
-active
-199382	active
-199388	active
-199390	active
-199398	active
+199378	passive
+199386	middle
+199391	middle
+199399	passive
 199408	active
-199410	active
+199411	active
 199416	active
-199421	active
-199424	active
-active
-199427	middle
-199435	active
-199437	active
-199442	active
-199448	active
-199451	active
-199453	active
+199420	middle
+199423	middle
+199430	active
+199433	active
+199438	middle
+199443	active
+199445	active
+199453	middlepassive
+199455	active
+199459	active
 199466	active
-199471	passive
-active
-199475	active
-199485	middlepassive
-active
-199493	active
-middlepassive
-199502	active
+199472	active
+199476	active
+199481	active
+199488	active
+199496	active
+199499	middle
 199505	active
+199509	active
 active
 199514	active
-199524	passive
-199531	active
-199534	passive
-199540	middle
-199543	active
-199548	middlepassive
-199550	active
-199552	active
-199562	middle
+199516	active
+199518	active
+199521	active
 active
-199571	middlepassive
-199574	active
-199579	passive
-199588	active
+199526	passive
+199529	active
+199540	active
+199544	active
+199547	active
+199551	active
+199553	active
 active
-199594	active
-199598	active
-199600	active
-middle
+199557	middle
+199561	active
+199566	active
+199573	middlepassive
+199581	active
+active
+199585	active
+199589	active
+199602	active
 199610	active
-199612	active
-199620	middle
+199613	active
+passive
+199618	active
 199622	active
-199633	middle
-199642	middlepassive
-199647	middlepassive
-199650	middlepassive
+199624	active
+199627	active
+199632	active
+199641	active
+199646	active
 199653	active
-199655	active
-199661	active
-199670	active
-199674	active
+199657	active
+199659	active
+199667	active
+199671	active
 199677	active
-199681	active
-199687	active
-199689	active
-199693	active
-199695	active
-199705	middle
-199707	active
-199712	active
-199719	active
-199723	active
+active
+199685	passive
+199690	passive
+199700	middle
+199706	active
+199708	passive
+199715	active
+199721	active
+199723	middlepassive
+active
+199726	active
+199728	middle
 199733	active
 199735	active
-199741	active
-199750	active
+199738	active
+199740	active
+199746	passive
+199751	active
+199753	middle
+active
 199759	active
-199761	active
-199765	middlepassive
-199777	passive
-199785	active
+199765	active
+199770	passive
+active
+199774	passive
+199778	passive
+199784	active
+199787	passive
 199792	active
-199795	active
+199795	passive
 199798	active
+199803	passive
+199805	active
 199810	active
+199812	active
 active
-199833	active
-199835	active
-199838	active
-199840	active
-199853	active
+199817	passive
 passive
-199867	active
-199869	active
-199873	active
-199875	active
-199889	active
-passive
-199903	active
-199909	passive
-199913	passive
-199924	middle
-199929	active
+199820	active
 active
-199936	active
-199942	active
-middlepassive
-199960	middlepassive
-199968	active
-199970	active
+199823	active
+199827	active
+199830	passive
+199832	passive
+199848	passive
+199850	middlepassive
+199852	active
+active
+199858	active
+199866	active
+199873	middle
+199877	passive
+199885	active
+199891	passive
+199897	active
+199899	passive
+199902	active
+199911	active
+199915	middle
+199918	active
+199922	active
+199928	active
+active
+active
+199937	active
+199940	middle
+199945	active
+199950	active
+199954	active
+199957	active
+199959	middle
+199965	active
+199969	active
+199971	active
 199973	active
-199975	active
-199978	active
+199977	active
 199981	active
+199984	middlepassive
+199986	active
+199988	active
+199991	active
+199993	active
+199997	active
+199999	active
 active
-199986	passive
+200005	active
+200007	active
+200015	active
+200019	active
+200022	middlepassive
+200025	middle
 active
-199991	middle
-199995	active
 active
-200001	active
-200003	active
-200008	active
-200017	active
-200033	active
+passive
+active
 200038	active
-200050	middle
+200042	active
+200044	middle
+200046	active
+200051	active
+active
+200058	active
 200061	active
+200064	active
+200068	middle
 200072	active
-200075	active
-200089	active
-200092	active
-200096	active
-200103	active
-200105	middlepassive
-200112	active
-200118	active
-200120	middlepassive
-200122	active
-200127	middle
-200132	active
-200134	active
-200139	active
-200141	active
-200143	active
-200147	middlepassive
-200152	active
-200158	active
-200167	active
-200172	middle
-200185	active
-200190	middle
+200077	active
+200081	active
+200083	active
+200086	active
+200090	active
+200094	active
+200099	active
+middlepassive
+200104	active
+200110	middlepassive
+200114	active
+active
+200120	active
+200129	middle
+200137	active
+200142	passive
+200145	active
+200151	active
+200153	active
+200156	active
+200159	passive
+200165	active
+200169	active
+200171	active
+200174	active
+200179	passive
+200182	middlepassive
+200186	active
+200189	active
 200192	active
+200194	active
+200196	active
+200198	active
+200202	passive
+200210	active
+200213	active
+200216	active
+200223	middle
 active
-200201	middlepassive
-200206	active
-200209	active
-200211	active
-200217	active
-200222	active
-200227	active
-200231	active
-200244	active
-200246	active
-200248	active
-200250	active
-200252	active
-200254	active
+200227	passive
+200230	passive
+200235	middlepassive
+200239	active
+200243	active
+200245	active
+200247	active
+200253	active
+200255	active
 active
-200267	active
-200273	middle
-200283	active
-200285	active
-200288	active
+active
+200260	middle
+200262	active
+200265	active
+active
+200275	active
+200277	active
+200280	active
+200284	active
+200286	active
+200290	middlepassive
 200292	active
-active
-200295	active
-active
-200298	active
-200303	active
-200309	active
+passive
+200297	middlepassive
+200302	active
+200306	middlepassive
 active
 200314	active
-200320	active
-passive
+200319	active
 200323	active
-200325	active
-200330	middle
+200329	active
 200334	active
-200347	active
-200357	middle
-200362	passive
-200375	passive
+200341	active
+200344	active
 active
-200382	active
-200392	active
-200394	active
-200405	active
-200417	active
-200421	passive
+200348	active
+200354	active
 active
-200428	middlepassive
+200359	active
+200365	active
+200368	middlepassive
+200370	middle
+active
+200378	active
+200386	active
+200391	active
+200393	active
+200400	active
+200404	active
+200415	passive
+200419	active
+active
+200423	passive
+200428	passive
+200431	passive
+200435	middle
+200438	active
+200441	active
+active
+200447	active
+200450	passive
+200453	active
 passive
+200457	passive
+200460	passive
 active
-200435	active
-200453	middle
+200464	middle
 active
-200459	middle
-200461	active
-200464	active
-200466	active
-200471	active
-200474	active
-200476	active
-200501	active
-200532	middlepassive
-200539	middle
+200469	active
+200487	passive
+200507	active
+200512	active
+200514	active
+200517	active
+200520	middlepassive
+200522	middlepassive
+200527	active
+active
+200531	middle
+200533	middlepassive
+200540	active
+active
 200547	active
-200554	active
-200560	active
-active
-200567	passive
+200553	active
+200557	active
+200564	active
+200566	passive
 200570	active
-middlepassive
-200573	active
-200578	middle
-200580	active
+200577	active
 200582	active
 200584	active
-200586	middle
+200587	active
+200593	active
 active
-200599	passive
-200608	active
-200612	active
-200618	active
-200621	active
-200624	active
-200627	active
-200634	middle
-200636	middlepassive
-200646	active
+200600	active
+200607	active
+200612	passive
+active
+200615	active
+200623	middle
+200626	active
+200628	active
+200633	active
+200636	middle
+200641	active
+200647	active
 200649	active
-200653	active
-200655	active
-200659	active
-200662	active
-200664	active
-200668	active
-200670	active
-200684	active
-200696	active
-200699	active
-200701	middle
-middlepassive
+200653	middle
+200657	active
+200660	active
+200665	active
+200668	middle
 active
-200709	active
-200716	passive
-passive
-200720	active
-200722	middlepassive
-200727	active
-200734	active
-middle
-200742	passive
-passive
-200746	active
-200757	active
-200759	active
-200762	passive
-200764	active
-200768	middle
+200674	active
+200676	passive
+200681	active
 active
-200776	middle
-200781	active
+200687	active
+active
+200692	middle
+200696	middlepassive
+active
+200704	active
+active
+200711	active
+200714	passive
+active
+200718	active
+200725	active
+200728	active
+200732	active
+200735	active
+200739	active
+200749	middle
+200752	active
+200755	active
+active
+200759	middlepassive
+active
+200763	active
+200767	active
+200769	active
+200772	passive
+200776	active
+200781	passive
 200783	active
-200786	active
-active
+200785	passive
+200788	active
 200791	active
+200793	active
+200797	active
 200799	active
-200804	active
-200811	active
-200813	middle
-200817	middle
-200824	active
-200828	active
-200830	middle
-200845	active
+middlepassive
+200803	middlepassive
 passive
-200848	active
+200810	middle
+200815	active
+200819	active
+200827	active
+active
+200832	active
+200834	active
+200836	middle
+200840	active
+passive
 200850	active
-200862	middlepassive
-200867	middlepassive
-200891	middlepassive
-200898	active
-200904	active
-middle
-active
+200852	passive
+200854	middlepassive
+200859	active
+200863	middlepassive
+200865	active
+200869	active
+200875	active
+200878	active
+200881	active
+200883	active
+200887	active
+200889	middle
+200895	active
+200901	active
+200903	active
 200908	active
-200913	active
-200916	active
-200920	active
-200926	active
-200930	active
-200933	active
-200937	active
+200910	active
+200912	active
+200918	passive
+200921	middlepassive
+200924	active
+200927	middle
+200929	active
+200935	passive
+200938	active
+200940	middlepassive
 active
-200941	active
-200945	active
 200947	active
-active
+200949	active
 active
 200953	active
+200956	passive
 200959	active
+200962	middle
+200964	active
+200966	active
+200968	active
+200970	active
+200973	passive
 active
-200967	passive
-200972	active
-200975	active
+200977	active
+200980	active
+200982	middle
 active
-200981	active
-200985	active
-200990	active
+active
+200987	active
 200992	active
+200994	active
+active
 200998	active
-201002	active
-201004	active
-201013	active
-201031	active
-201040	active
-201042	active
-201055	middlepassive
-201059	active
-201061	passive
-201069	active
+201000	active
 active
-201073	active
-201078	active
-201080	active
-201082	active
-201089	active
-201093	active
+201006	middle
+201013	middle
+201025	passive
+201028	active
+201035	passive
+201041	middle
+active
+201044	middle
+201047	active
+201049	middle
+201054	active
+201056	active
+201062	active
+201064	active
+201066	active
+201068	passive
+active
+201072	middle
+active
+201077	active
+201081	passive
+201083	active
+201087	passive
+middlepassive
+201091	middlepassive
+201093	middle
 201097	active
-201099	active
-201101	passive
-201112	active
-201119	active
-active
-201123	active
-active
-201130	active
-201133	active
-201138	active
-201141	active
-201151	active
-201159	active
-201170	active
-201179	active
-201187	active
-201190	active
-active
-201193	passive
-201195	middlepassive
-201201	passive
-201205	middlepassive
-201221	active
-201231	middle
-201235	active
-201239	active
-201252	active
-201257	active
-201259	active
-201264	active
-201266	active
-201270	active
-201275	active
-201280	active
-201289	active
-201292	passive
-active
-201306	active
-201308	active
-201315	middlepassive
-201320	active
-201326	middle
-active
-201330	active
-201333	active
-201353	active
-201357	active
-201360	active
-201363	active
-201371	active
-201373	active
-201376	passive
-201386	passive
-201394	active
-201400	active
-201409	active
-201412	active
-middlepassive
-201422	passive
-201433	middle
-middlepassive
-201441	middlepassive
-201443	active
-201447	passive
-201452	passive
-201456	active
-201459	active
-201464	middle
+201100	active
 passive
-201467	passive
-201471	active
-201473	active
-201478	active
-201483	active
-201489	passive
-201491	passive
-201499	passive
-201508	active
-201511	active
-middlepassive
+201104	active
+active
+201116	active
 middle
-201518	active
-201523	middlepassive
-201525	middle
-active
-201528	active
-201530	middle
-201534	active
+passive
+201122	active
+201126	active
+201129	active
+201131	active
+passive
 middlepassive
+201137	middle
+201139	active
+201148	active
+201155	middle
+201158	active
+201161	passive
+201163	active
+201167	active
 active
+201170	active
+201175	active
+201177	middle
+middle
+201181	active
+201184	active
+201189	middle
+201192	active
+201199	active
+passive
+201202	active
+201205	passive
+201207	active
+201210	middle
+active
+201214	passive
+201218	passive
+201227	active
+201229	active
+active
+201232	active
+201237	middle
+201241	active
+201244	passive
+passive
+active
+201252	active
+active
+201255	active
+201258	active
+201261	middle
+201266	middlepassive
+201270	active
+201272	passive
+201274	active
+201276	passive
+active
+201280	active
+201283	active
+201286	active
+201300	active
+201303	middle
+201309	active
+active
+201313	middle
+201316	active
+active
+201319	passive
+201326	active
+201329	middlepassive
+201331	active
+201335	middle
+201343	active
+201346	active
+201349	active
+201352	active
+201358	active
+passive
+middlepassive
+201364	active
+201366	middle
+201369	middlepassive
+201371	active
+201374	active
+201376	active
+201378	active
+active
+201381	active
+201383	active
+201385	passive
+201388	active
+201391	active
+201393	middlepassive
+active
+201396	active
+201398	active
+201400	passive
+201403	active
+201405	active
+201409	middlepassive
+active
+201412	middle
+201414	active
+201419	passive
+201421	active
+201424	active
+201436	active
+201439	active
+201442	active
+201444	active
+201448	active
+201450	active
+201454	active
+201459	active
+active
+201462	passive
+201465	active
+201472	passive
+middle
+201476	middlepassive
+201481	passive
+active
+201486	middlepassive
+201490	active
+201509	middlepassive
+active
+201514	active
+201518	middlepassive
+201521	middlepassive
+active
+201527	active
+201529	active
+201531	active
+active
+201534	active
 201539	active
-201558	active
-201566	middlepassive
-201577	active
-201579	middlepassive
-201595	active
-201603	active
-201607	active
-201615	active
+201544	active
+active
+201547	active
+middle
+201550	active
+active
+201555	middle
+active
+201559	active
+active
+201563	middlepassive
+201565	active
+201567	active
+201569	middle
+201571	active
+201574	active
+201577	middlepassive
+201585	active
+201587	active
+active
+201597	middle
+201602	middlepassive
+active
+201612	passive
+201614	passive
 201620	active
 201622	active
-201628	passive
-201631	active
-201639	active
+201624	active
+201626	active
+active
+201635	active
+201638	active
+201643	active
+201647	middlepassive
 201649	active
-201654	passive
-201657	middlepassive
+201651	active
+201656	active
 201661	active
-201663	active
+201664	active
 201667	active
-201673	active
+201672	middlepassive
+201674	active
 201676	active
-201680	middlepassive
+201679	active
+active
+201684	active
 201686	active
+201689	active
 201693	active
 201695	passive
-201699	active
+201698	active
 201701	active
-201706	active
-201710	active
-201718	active
-201720	middle
+active
+201709	middle
+201713	active
+201720	active
 201725	active
-201728	active
-201730	active
-201733	active
-201736	active
-201739	middle
-201743	active
+201727	active
+201729	active
+201732	active
+201735	active
+201739	active
+201741	active
+active
 201745	active
-201761	active
+passive
+201749	active
+201752	active
+201754	active
+201756	middlepassive
+201765	active
+active
+201769	active
 201772	active
-201774	active
-201776	active
-201780	active
-201788	active
-201790	active
+201777	active
+201781	active
+201786	active
 201793	active
-201795	active
+201797	active
 201802	active
 201805	active
-201809	active
-201813	active
-201819	active
+201807	active
+201811	middle
+201818	middle
+passive
 201821	passive
-201836	active
-201839	active
-201843	active
+passive
+201829	active
+201834	active
+201837	active
 active
-201848	middle
-201853	active
+201844	active
+201848	active
+201852	active
 active
-201857	active
-201865	active
-201873	middle
-201875	active
-201880	active
-201891	active
-201894	active
-201896	active
-201898	passive
-201907	middle
-201910	active
-201918	active
-201920	active
-201922	passive
-201926	active
-201935	active
-201937	active
-201939	active
-201941	active
-201956	active
-201959	active
-active
-201963	active
-201966	active
-201969	active
-201976	active
-201993	active
-active
-active
-202000	active
-202003	active
-202006	active
-202012	active
-202016	active
-active
-202021	active
-202024	active
-202026	active
-202040	active
-202047	active
-202052	active
-202064	active
-202069	middlepassive
-202075	active
-202078	active
-202080	active
-202082	active
-202085	active
-202092	active
-202094	active
-202098	active
-202101	active
-202111	active
-202121	active
-202126	active
-202129	active
-202131	active
-202137	active
-202140	active
-202142	active
-202154	active
-202164	active
-202171	active
-202176	middle
-202182	active
-202185	active
-202194	passive
-202196	active
-202213	active
-202215	active
-202217	passive
-202219	active
-202236	passive
-202238	active
-202252	active
-202257	active
-202273	active
-202278	active
-202280	passive
-202282	active
-202288	active
-202290	active
-active
-202294	middle
-202296	active
-202299	active
-202305	middle
-202311	active
-active
-202323	active
-202325	active
-202373	active
-202387	active
-202389	active
-202399	active
-202402	active
-202405	active
-202412	active
-202439	active
-202446	active
-202458	active
-202462	middle
-active
-202467	active
-202480	active
-202482	active
-202484	passive
-202488	active
-active
-202496	active
-202507	active
-202511	active
-202521	active
-202528	middlepassive
-202536	active
-202552	active
-202559	active
-202567	active
-202578	active
-active
-202586	active
-202590	active
-202616	active
-202627	middlepassive
-202629	middle
-202634	active
-202640	active
-202645	active
-202656	active
-202659	active
-202665	active
-202670	active
-202673	middle
-202679	active
-202682	active
-202696	active
-202698	active
-202709	active
-202711	active
-202724	active
-active
-202734	middlepassive
-202741	active
-202751	active
-202763	active
-202765	active
-202776	passive
-202785	passive
-202787	middlepassive
-202803	active
-202815	active
-202819	middle
-202826	active
-202829	passive
-202835	middle
-active
-202838	active
-202842	active
-202844	middle
-202852	active
-202855	active
-202858	active
-202861	active
-202868	passive
+201858	middle
+201864	middle
 active
 middle
-202876	passive
-202887	middle
-202892	middle
-202898	active
-202902	active
-202911	passive
-202918	passive
-202936	active
+201871	active
+201874	active
+201880	active
+201882	passive
+201884	active
+201891	active
+active
+201900	active
+active
+201906	passive
+201908	active
+active
+201914	active
+201916	active
+201921	active
+201927	active
+201929	passive
+201931	active
+201938	active
+201942	active
+201945	active
+201955	active
+201959	active
+201961	active
 passive
+201968	active
+201970	active
+201973	passive
+201975	middle
+passive
+active
+201986	middlepassive
+active
+201989	active
+201992	middle
+201995	middlepassive
+201997	active
+202001	active
+202006	active
+202008	active
+202015	active
+202017	active
+passive
+202022	active
+active
+202027	active
+active
+202032	passive
+active
+202035	middle
+202037	active
+202042	active
+202046	active
+202052	passive
+202058	active
+202062	active
+active
+202069	active
+202075	active
+202080	active
+passive
+202084	passive
+active
+202091	active
+202093	active
+202095	active
+202097	passive
+active
+202104	active
+202107	active
+202111	passive
+202114	active
+202116	active
+202118	active
+202120	active
+202124	active
+202126	active
+202133	middlepassive
+202135	active
+active
+202141	active
+202145	middle
+202148	active
+202150	active
+active
+middle
+active
+202155	active
+202158	passive
+202161	middle
+202167	middle
+202174	active
+202177	active
+202182	active
+202187	active
+202189	middle
+202193	active
+202195	active
+202199	active
+202203	active
+202206	active
+202209	active
+202211	middle
+202215	active
+202218	active
+202225	active
+202239	active
+202243	active
+202245	active
+202253	active
+middle
+202265	active
+202273	active
+202281	middle
+202285	active
+202292	middle
+202295	active
+202298	middlepassive
+202300	active
+202304	active
+202307	active
+202310	middle
+202313	active
+202315	middlepassive
+202317	active
+202320	active
+202325	active
+202327	active
+202330	active
+202333	active
+active
+202340	active
+202358	passive
+202362	middle
+202365	active
+202369	active
+202374	active
+202376	active
+202380	active
+202382	active
+202384	passive
+202386	active
+active
+202390	active
+202393	middle
+202395	passive
+202403	passive
+202407	passive
+202409	active
+passive
+202412	active
+202420	middlepassive
+active
+202424	middle
+202426	active
+202429	passive
+202436	active
+202441	passive
+202445	active
+202448	active
+202450	active
+202460	active
+active
+active
+202465	active
+202468	active
+202475	active
+202479	passive
+202483	active
+202487	passive
+202489	active
+202502	passive
+202505	passive
+202512	passive
+202514	active
+active
+202519	middlepassive
+202523	active
+active
+202526	active
+202531	active
+202538	active
+202542	middlepassive
+202547	active
+202553	active
+202556	active
+202559	active
+202563	active
+202569	passive
+202571	active
+active
+202579	active
+202584	active
+passive
+active
+202592	active
+202595	active
+202599	middlepassive
+active
+202604	middlepassive
+202609	passive
+202614	active
+202618	active
+202621	active
+202624	active
+202628	active
+active
+202635	active
+202639	active
+202641	active
+active
+active
+202646	active
+202649	active
+202652	active
+202656	active
+202661	active
+202664	passive
+202666	passive
+202670	active
+202677	active
+active
+202680	active
+202682	active
+202685	active
+202688	active
+active
+202691	active
+202693	active
+202695	active
+202697	middle
+active
+202701	active
+202703	active
+202708	active
+202712	active
+passive
+202717	active
+202719	passive
+202721	active
+202724	active
+202726	active
+active
+active
+202730	middle
+202732	middlepassive
+202736	middlepassive
+202741	middlepassive
+202745	active
+202749	active
+202753	active
+202755	active
+202758	active
+202761	active
+active
+202764	passive
+active
+202769	middle
+202771	active
+202773	passive
+202777	active
+202779	passive
+active
+202783	active
+202786	active
+202791	active
+202795	active
+202797	passive
+202800	active
+202802	passive
+202807	passive
+active
+active
+202817	active
+202819	active
+middlepassive
+202823	active
+202825	passive
+202830	middlepassive
+202834	middle
+202837	active
+202839	middlepassive
+202845	active
+middle
+202850	middle
+202856	active
+active
+202861	middle
+202864	active
+202871	active
+202874	middle
+202876	active
+202878	middle
+202880	middle
+202883	active
+202885	active
+202889	active
+202897	active
+202899	middle
+202908	active
+202911	active
+202913	passive
+202919	middle
+202924	middle
+202932	active
+active
+active
+passive
+202938	active
 202943	active
-202945	active
-202947	active
-202949	active
-202953	passive
-202963	active
-202966	active
+202946	active
+202950	middle
+202954	active
+active
+active
+active
+active
+active
+202962	active
+202965	active
 202969	active
-202979	active
-202989	middle
-202995	active
-202999	middle
-passive
-203013	active
-203018	passive
-203021	active
-203029	active
-203032	active
-203034	active
+202973	middle
+202978	passive
+202983	middle
+202992	active
 active
-203044	active
-203058	active
-203060	active
-203062	active
-203079	active
-203085	active
+203000	active
+203003	active
+203007	active
+203010	middle
+active
+203015	active
+active
+203018	active
+203022	middle
+203027	passive
+203030	passive
+203036	passive
+203039	passive
+203041	passive
+active
+203048	active
+203055	passive
+active
+203061	active
+203063	middlepassive
+203067	active
+active
+203070	active
+203075	middlepassive
+203079	passive
+203082	active
+203087	middlepassive
+203089	active
+active
 203097	active
-203100	active
-203108	middlepassive
-203112	middle
-203114	middle
-203124	active
-203132	active
-203145	middle
-203149	active
-203156	passive
-203167	middle
+203101	active
+203107	middlepassive
+203110	passive
+203112	active
+203117	active
+203122	middlepassive
 active
-203177	active
+203125	active
+203128	active
+203133	active
+203136	active
+203141	active
+203145	active
+203147	active
+203150	active
+203158	active
 active
-203183	active
-203186	active
-passive
-203193	active
-203200	active
+203163	active
+203168	active
+203171	active
+203174	active
+203179	active
+203182	middle
+203189	passive
+203192	middlepassive
+203194	active
+203198	active
 203208	active
-active
-203230	passive
+203211	active
+203214	middlepassive
+203218	active
+203220	active
+203223	active
+203227	active
+203230	active
+203232	passive
+203234	active
 203236	active
-203247	middle
-203253	active
-203265	passive
-203268	middle
-203276	middlepassive
-203289	active
-203294	active
+203238	passive
+203245	active
+203247	passive
+203249	active
+203251	passive
+active
+203259	middle
+active
+203263	active
+203267	middle
+203269	active
+active
+203272	middlepassive
+203276	active
+203280	active
+203284	active
+203288	middle
+203295	active
+203298	active
+203301	active
+203304	active
+203306	active
+active
+203313	active
+203321	active
 203323	active
-203335	middle
+203325	active
+203327	active
+203329	active
+active
 203337	active
+203339	active
 203341	active
-203347	active
-203353	active
-203355	middlepassive
+203344	active
+203349	active
+203352	active
 active
-203359	active
-203364	active
-203370	active
-203382	middle
-203390	middle
-203398	middle
+203355	active
+203358	active
+203363	active
+active
+203368	active
+203371	passive
+active
+203376	active
+203380	active
+203383	active
+203388	middlepassive
+203391	active
+203395	active
+203402	active
+active
+203405	active
+203408	middlepassive
+passive
 203412	active
-203430	active
+203419	active
 active
+203423	middle
+203425	active
+203427	active
+203431	active
 203433	active
+203437	active
 203439	active
-203444	active
 203451	active
-203470	middle
-203472	active
+203459	middlepassive
+203461	active
+203464	active
+203466	middle
 active
-203476	active
-203486	middlepassive
-203496	active
-203498	active
-203500	active
-203504	active
-203506	active
+203470	passive
+203472	passive
+203478	passive
+203482	passive
+203484	passive
+203486	passive
+203488	active
 active
+203495	middle
+203499	active
+203501	active
+203504	passive
+203508	active
+passive
+middle
+203513	active
+203517	middlepassive
+203520	active
 active
-203523	active
+203524	middlepassive
+middlepassive
+203527	active
+203529	active
+203534	middlepassive
 203536	active
 active
+203539	active
+203542	active
 active
-203548	middle
-203555	active
-203570	middlepassive
+203546	active
+203550	active
+203552	active
+203554	passive
+203557	active
+203559	passive
+203561	active
+203564	active
+203568	active
+active
 203572	active
-203574	active
-203584	active
-203588	active
-203595	active
-203598	active
-203614	active
+203575	active
+203578	active
+203580	active
+203583	active
+203587	active
+203589	active
+203591	active
+203596	active
+active
+203601	active
 middlepassive
-203622	passive
-203629	passive
-203634	middlepassive
-203640	active
+203605	middle
+203608	passive
+203612	active
+203618	active
 active
-203646	active
-203650	middle
-203659	active
-203665	active
+203622	active
+203625	middlepassive
+203631	active
+203633	active
+203636	active
+203639	active
+203643	active
 middlepassive
-203669	active
-203674	active
-203676	active
+203647	active
+203650	active
+203652	active
+203655	active
 active
+203662	active
+203664	active
+203666	active
 active
+203669	middle
+203671	active
+203673	active
+203675	active
 active
+203680	active
+active
+passive
+203685	active
+203688	middle
 203692	active
-203696	passive
-203710	active
-203712	passive
+203695	active
+203700	active
+active
+203703	active
+203712	middle
+203716	active
+active
+203723	active
+active
 203728	active
+active
+203733	active
 203736	active
 203740	active
-passive
-203743	middlepassive
-203746	active
-203748	active
+203744	passive
+active
+203749	passive
 203752	active
-203767	active
+203756	active
 active
-203776	active
-active
-active
+203761	active
+203765	active
+203767	middle
+203770	middlepassive
+203774	active
+203777	active
 203780	active
-203785	active
+203782	active
+203784	active
+203787	middle
+203789	active
+203791	active
 203794	active
-203796	active
+passive
+203800	active
 203803	active
+203806	middle
+middle
 203810	active
+203815	middle
+203817	active
+203824	middle
 active
-203816	active
-active
-203825	active
 203827	active
-203844	active
+203831	active
+203833	active
+203837	active
+203839	active
+203844	middlepassive
 203848	active
-203854	passive
-203858	active
-203861	active
-203866	active
-203873	active
-203875	active
-203878	active
-203884	middle
+active
+203851	middle
+203855	active
 middlepassive
-203892	middlepassive
+203858	middlepassive
+203863	active
+active
+203867	active
+203869	active
+203872	active
+active
+203878	active
+203881	active
+203886	active
+active
+203890	active
+203892	active
 203895	active
 203899	active
-203901	active
+203904	active
+203907	active
 203909	active
-203912	active
-203916	middle
+active
+active
+203915	active
+203918	active
+203920	active
+203923	active
+203925	active
+203929	active
 passive
-203919	active
-203930	active
-203938	middle
-203956	active
-203958	passive
-203979	passive
-203984	passive
-203991	active
-203993	active
+203934	active
+203937	active
+passive
+203944	active
+203946	active
+203948	active
+203951	active
+203955	active
+203957	middlepassive
+203959	active
+203962	middle
+203964	active
+203969	passive
+203971	active
+203974	active
+active
+203980	middlepassive
+active
+passive
+203986	active
+203988	active
+203990	active
 203995	active
+203997	active
+203999	active
+204003	active
 active
-203998	active
-204001	active
+204006	passive
 active
-204004	active
+204009	active
 204011	active
-204013	active
+204015	active
+204020	active
+204024	active
+204028	active
+204030	active
+204035	active
+204040	active
+204042	middlepassive
+204045	active
+204050	active
+204060	middle
+204065	active
 active
-204017	active
-204023	active
-204026	active
-204037	passive
-204042	active
-204049	active
-204068	active
-204080	active
+204072	active
+204074	active
+passive
+middlepassive
+204091	active
+204094	active
+204098	passive
 active
-204092	active
-204099	passive
-204101	passive
 active
-204110	passive
-204115	passive
+204104	active
+204106	active
+204109	active
+active
+204112	active
+204114	active
 204117	active
-204128	active
-204134	passive
-204139	active
-204145	active
-204159	active
-204162	middle
-204166	active
+204126	passive
+204130	active
+204134	active
+204140	active
+204143	active
+204147	active
+204155	active
+204162	active
 204168	active
-204170	active
-204176	middle
-204182	active
-204184	middlepassive
-204195	active
-204201	active
-204204	middle
+204171	middle
+active
+active
+active
+204176	passive
+204178	middle
+204185	active
+204197	active
+204199	active
 204206	active
-204222	middle
-passive
-204225	active
-204227	active
-204230	active
-204239	active
+204208	active
+204212	middle
+204214	active
+204216	middle
+204220	active
+204226	middle
+active
+204234	active
+active
+204237	active
 204242	active
-204244	active
-204246	active
-204253	middlepassive
-204257	active
+204245	active
 active
-204266	active
+204250	passive
+204252	active
+204254	active
+204259	active
+204264	active
+204269	middle
+204271	active
 204274	active
+204276	active
+204279	active
+204283	active
 204287	active
-204292	middlepassive
-204294	active
-204296	active
-204298	active
-204303	active
+204293	active
+204295	middle
+204297	active
+204301	active
 204305	active
-204309	active
-active
-204312	middlepassive
+204310	active
+middle
 204315	active
-204331	active
-middle
-204338	active
-204341	active
+204319	active
+204322	middle
+204326	active
+204330	active
+204339	active
+204343	active
+204345	active
+204348	middle
+204350	active
+204355	active
+204358	middle
+204360	active
+204364	active
 active
-204344	active
-204346	active
-204353	passive
-204356	active
-204358	passive
-204361	middlepassive
-204366	active
-204368	active
-204373	middle
 active
+204372	active
 active
-204379	middle
-passive
-204397	middlepassive
+204379	passive
 active
-middle
+204384	middlepassive
+204386	active
+204388	active
+204390	active
+204394	middle
+204397	active
 204401	active
-204403	active
-204408	active
-middlepassive
-204442	active
-204445	active
-204449	active
-204452	active
-204454	active
+204404	active
+204409	middle
+204411	active
+204415	active
+204418	active
+204420	active
+204422	middle
+204425	active
+204427	active
+204430	active
+204432	passive
+204434	active
 active
-204458	active
-204461	active
-204463	active
+204437	passive
+204441	active
+204445	passive
+204448	active
+active
+204452	active
+204456	active
+204463	passive
 204465	active
-204468	active
-204472	active
-204478	active
-204485	active
-middle
-204490	active
-204499	active
-204506	passive
-204510	active
+204469	active
+204473	active
+active
+204476	middlepassive
+204479	active
+204481	middle
+204484	active
+204492	active
+204494	active
+204496	active
+204501	active
+204508	active
+active
+204513	active
 204516	active
+204520	active
 204522	active
-204527	middle
-204536	active
-204539	active
-204543	passive
-204548	active
-204550	active
+204526	active
+204530	active
+204534	active
+204537	active
+204546	active
+middle
+204552	active
 204556	active
-204558	passive
+active
+204561	active
 204564	active
-204568	active
-204573	active
-204575	active
-204585	middlepassive
-204606	active
-204623	active
-middlepassive
-204631	middle
-204647	active
-204657	active
+active
+204567	active
+204570	active
+204574	active
+active
+204580	active
+204582	active
+204587	active
+204593	active
+204596	active
+204598	active
+204604	active
+204611	active
+204614	active
+204618	active
+204625	middlepassive
+204628	active
+204632	active
+204641	passive
+204644	active
+204653	active
+204655	middlepassive
+204658	active
 204661	active
 204664	active
+204667	passive
+204670	active
 204674	active
-204677	active
-active
-204682	active
 204685	active
-204687	active
-204690	active
-204708	active
+204688	active
+204692	active
+passive
+204697	active
+204700	active
+204703	active
+active
+204707	active
+204711	active
 204713	active
+204717	active
 204720	active
-204727	active
-204731	active
-204733	middlepassive
+204724	middlepassive
+204728	active
 204738	active
-204741	active
-204744	middle
-204750	active
-204753	active
+204742	active
+active
+204747	active
+204749	active
+204752	active
+active
 204756	active
-204771	active
-204773	active
-204775	middle
-204787	middlepassive
-204792	middlepassive
-204806	active
-204812	active
-204817	active
-204819	active
-204825	middlepassive
-204830	active
-204833	active
-204836	middle
-204838	active
-204841	active
-204848	active
-204851	active
-204853	active
+204769	active
+204776	middlepassive
+204778	middle
+204780	active
+204782	active
+204785	active
+204790	active
+204794	active
+204798	active
+204800	active
+204807	active
+204811	active
+204813	active
+204824	active
+active
+204828	active
+204834	passive
+active
+204837	active
+middle
+204842	passive
+204846	passive
+active
+204850	active
+204855	middle
 204860	active
-204862	active
-204872	middlepassive
-204883	active
-204887	middle
+204862	middlepassive
+204865	active
 active
-204890	active
-204899	active
-204905	middle
+204868	passive
+204871	middle
+204875	active
+204877	active
+204880	active
+204882	passive
+204886	active
+204889	passive
 active
-204908	active
-204910	middlepassive
-204913	active
-204915	active
-204926	active
-204928	middle
-204930	active
-204932	active
-204938	active
-204942	middlepassive
+204893	middle
+204900	active
+204902	passive
+204914	middle
+204920	middle
+204924	active
+204929	active
+active
+204934	passive
+204940	middle
+204943	active
 204949	active
+passive
+204953	active
+204958	middle
 active
-204958	active
-204963	active
-204966	middle
-active
-204969	active
-204972	active
-204979	active
-204986	active
-204988	passive
+204961	active
+204963	middlepassive
+204965	passive
+204973	active
+204987	middle
+204991	middle
 204996	active
-205005	active
-205008	middle
+passive
+205001	active
+205003	active
 205010	active
+205017	active
+205023	middlepassive
+205028	active
+passive
+205031	passive
+205034	active
+205036	active
+205040	middle
+205050	middlepassive
+205053	passive
+205063	passive
+205066	middle
+205079	active
+205084	middlepassive
+205090	passive
+205093	middle
+205097	middlepassive
+205102	middle
+205105	middlepassive
 active
-205016	active
-205033	active
-205037	active
-205039	active
-205042	active
-205048	active
-205058	passive
-205060	active
-205062	active
-205064	active
-205075	active
-205077	active
-205079	middlepassive
-205081	active
-205084	active
-205091	middle
-205093	active
-205101	active
-205107	middlepassive
-205109	active
-205112	passive
-205119	passive
+205108	active
+205112	active
+205116	active
+205119	active
+205125	active
 205127	active
 205129	active
-205133	middle
-middle
-205136	active
-205142	middle
+205134	active
+205138	active
+205140	middlepassive
+active
 205144	active
+205148	active
+205152	active
+205157	middle
+205161	middle
+205166	middle
 active
+205172	passive
+205180	active
+205187	middle
+205191	middlepassive
+205196	active
+205200	middlepassive
+205202	active
 active
-205155	active
-205161	active
-205170	active
-205179	active
-205186	passive
-active
-205191	active
-205193	active
-205204	active
-active
-205211	active
-205216	active
-205221	active
-active
-205228	middlepassive
-205235	active
-active
-205242	active
-205246	active
-205248	passive
-205253	active
-205261	active
-205264	active
-205271	active
-205275	active
-205277	active
-205282	middle
+205205	active
 middlepassive
-205285	active
-205292	active
-205300	active
-205303	active
-205307	active
-205311	active
-205313	active
-205319	active
-205327	active
-205330	active
-205333	active
-205336	active
-205340	middlepassive
-205352	active
-205359	active
-205369	active
+205208	passive
+205220	middlepassive
+middlepassive
+205224	passive
+205229	active
+205233	active
+205235	active
+205240	passive
+205243	active
+205248	active
+205250	middlepassive
+205253	active
+205258	passive
+205260	active
+205266	active
+active
+205272	active
+205275	passive
+205277	middle
+205280	active
+205282	active
+205284	active
+205286	active
+205290	active
+205296	active
 passive
-205375	active
-205378	passive
-205383	active
+205300	active
+205302	active
+passive
+active
+205308	active
+205311	active
+205314	active
+active
+205318	active
+205320	middle
+active
+205325	active
+205329	active
+active
+205335	middlepassive
+205337	active
+205341	active
+205345	active
+205352	active
+205355	active
+205358	passive
+205360	active
+active
+205363	active
+205365	active
+205368	active
+205372	middle
+205374	active
+205379	active
+205382	active
 205385	active
-205388	middle
-205394	active
-205401	active
+205389	active
 active
+205396	active
+205400	passive
+205406	middle
 205408	active
-205412	active
-205422	passive
-205434	active
-205451	middlepassive
 active
-205454	active
-205461	active
-205464	active
-205469	active
-205475	active
-205477	active
-205489	active
+active
+205413	active
+205415	active
+205419	active
+205431	active
+205433	active
+205435	active
+active
+205438	active
+205440	active
+205442	active
+205446	passive
+205448	active
+205456	active
+active
+205467	passive
+205469	middle
+205472	active
+205483	passive
+middlepassive
+205490	passive
+205493	middle
+active
 205498	active
-205500	active
-205503	middlepassive
+205501	active
+active
+middle
+205508	active
 active
 205513	active
+205518	active
 205521	active
-205523	active
-205526	passive
-205530	active
-205533	middle
-205538	middle
-205557	active
-205567	active
-205570	active
-passive
-205585	active
-205591	active
+205524	passive
+205533	middlepassive
+205538	middlepassive
+205541	active
+205545	middlepassive
+205547	active
+middlepassive
+205553	active
+205556	active
+205559	active
 active
-active
-active
+205566	middle
+205569	middle
+205583	middle
+205588	active
+205592	middle
+205594	middle
 205596	active
+205601	passive
+205605	active
+205611	active
 active
-205601	active
-205604	active
-205606	active
-205608	active
+205617	active
+205622	active
+205627	middlepassive
+205630	active
 active
-active
-205612	middlepassive
-205614	active
-205620	active
-205624	active
-205633	passive
+205635	active
+205641	middle
 205643	active
-205649	active
+205645	active
+205648	active
+205654	active
 205657	active
+205659	active
+205664	active
+205666	active
+205671	active
 active
-205668	active
-active
+205676	active
 205678	active
-205704	active
-205710	active
-205713	active
-205720	active
-205728	middle
-205730	active
-205733	active
-205735	active
-205750	active
-middlepassive
-205759	active
+205683	passive
 active
-205767	middle
-205779	active
-205782	active
-205784	middle
-205788	active
-205792	active
-205794	active
-205800	middle
-205808	active
-205810	active
-205812	active
-205817	active
-205824	active
 passive
-205830	active
-205853	active
-205855	passive
-205857	middle
-205874	active
+205689	passive
+205695	active
+205698	active
+205700	middle
+205706	active
+205709	active
+205711	active
+passive
+205719	active
+205724	middle
+205728	active
+205730	middlepassive
+205732	active
+205736	passive
+205741	active
+205743	middlepassive
+active
+205747	middlepassive
+active
+205757	middlepassive
+passive
+205763	active
+205766	middle
+205769	middlepassive
+205771	middle
+205777	active
+205781	active
+205784	active
+205787	active
+passive
+205793	active
+205796	active
+active
+middlepassive
+205801	active
+205805	active
+middle
+205809	passive
+205813	middlepassive
+205816	active
+205818	active
+205822	active
+205829	active
+active
+205834	middle
+active
+205837	active
+205840	active
+205847	active
+205852	passive
+205855	active
+active
+205859	middle
+205861	middle
+205863	active
+205869	middle
 205877	active
-active
-205891	middlepassive
-205897	active
+205881	active
+205887	active
+205892	active
+205899	active
 205902	active
-205907	active
-205922	active
+205904	active
+205911	active
+205913	active
+205920	active
+middlepassive
+205924	active
+205928	middlepassive
+205932	active
+205934	active
+205937	active
+205940	middle
 active
-205925	passive
-205929	active
-205935	active
-205941	active
-205943	middlepassive
-205949	passive
-205954	passive
+205943	active
+205949	active
+205951	active
+205954	active
 205957	active
-205960	passive
+205960	active
 205962	active
-205967	passive
-passive
-205970	active
-205972	active
-205977	active
+205966	middlepassive
+active
+205971	active
+205974	active
+active
 205980	active
-active
-205992	active
-206001	middle
-206003	active
-206006	active
-active
-206013	active
+205982	active
+205986	active
+205988	active
+205991	passive
+205993	active
+205996	passive
+206001	active
+206004	active
+206006	middle
+206010	active
+206012	active
+206016	active
+206018	active
+206020	active
 206022	active
-middlepassive
-206025	active
-206031	passive
-206040	active
-206045	passive
+206024	active
 active
-206051	middle
 active
-206054	active
-206056	active
-206058	active
-206060	passive
+206028	active
+active
+206033	active
+active
+206038	middle
+206040	passive
+206047	active
+206052	active
+206055	active
+206057	active
+206059	active
 206064	active
-206074	active
-passive
-206081	middlepassive
-206086	active
-active
-206093	active
-206096	middlepassive
-206102	passive
+206066	active
+206069	active
+206071	passive
+206084	active
+206089	active
+206096	active
+206098	active
+206101	active
 206104	active
-206114	middle
-206116	passive
-206118	active
+206107	active
+206111	active
+206116	active
 206120	active
-206122	passive
+206124	middle
+206126	active
+206128	active
 206130	active
+active
+206135	active
+206138	active
 206140	active
-206142	passive
-passive
-206146	active
-passive
-206152	active
-206154	active
-206163	active
-206166	active
-206169	active
-206174	active
-206179	active
-206184	active
-206187	active
+206142	active
+206145	active
+206147	active
+206149	active
+206155	passive
+206157	active
+206159	active
+206162	active
+206168	active
+206175	active
+active
+206178	active
+206180	active
+206185	middle
+206191	active
+active
+206195	active
 206197	active
-206199	passive
-206206	active
-206216	active
+206202	active
 active
-206222	active
-206227	active
-206233	active
-206239	passive
-206248	active
-206267	active
-206286	active
-middle
-206294	passive
-206300	active
-206309	middle
-206313	active
-206315	active
-206321	active
+206207	active
+206215	active
+206217	passive
+206223	active
+206226	active
+206229	active
+206231	active
+206233	middlepassive
+active
+206242	middle
+206244	active
+206250	active
+206252	active
+206260	active
+active
+206263	active
+206266	middle
+206277	active
+206280	active
+206284	middle
+206290	active
+206292	active
+206297	active
+206300	middle
+206303	active
+206305	active
+206311	active
+206316	active
+206321	middle
 206326	active
-206331	passive
-206336	middle
+206329	active
+active
+206333	active
+active
+206336	active
+206345	middle
+206354	active
+206356	active
+active
+206361	active
+active
+active
+active
+206369	active
+206373	active
 206377	active
-206386	middlepassive
-206403	active
-206407	active
+206379	active
+206382	active
+206385	middlepassive
+206387	middle
+206389	passive
+206391	active
+206396	active
+middle
+206400	active
+206404	passive
+206407	middle
+206410	active
 206415	active
-206423	active
-middle
-206429	active
-206456	active
-206458	active
-active
-206477	active
-206481	middlepassive
-206490	passive
-206496	active
-206509	passive
-206511	active
-206514	active
-206518	active
-206527	middlepassive
-206530	passive
-206543	active
-206547	active
-206555	middle
-206569	passive
-middle
-206583	active
-206588	passive
-206606	active
-206617	middle
-206628	active
-206642	active
-206646	passive
-206648	active
-206658	middle
-206662	active
-206670	active
-206679	passive
-206683	active
-206686	active
-206689	active
-206696	passive
-active
-206702	middle
-206706	middle
-middle
-active
-206711	middlepassive
-active
-206718	middle
-206724	active
-206731	passive
-206741	active
-206745	active
-206750	active
-206754	active
-206761	active
-206764	middlepassive
-active
-206768	active
-206771	active
-206780	active
-active
-206784	active
-206787	middle
-206789	passive
-206799	active
-206815	active
-206823	active
-206828	active
-206832	active
-206838	active
-active
-206856	passive
-206880	passive
-206901	active
-206905	active
-active
-passive
-206921	passive
-206923	middlepassive
-206925	active
-206932	active
-206938	middlepassive
-206940	active
-206949	middle
-middle
-206955	middle
-206958	active
-206966	middle
-206972	passive
-206974	active
-206991	active
-207011	middle
-207013	active
-207022	middle
-207027	active
-207029	passive
-207033	active
-207038	middle
-207046	active
-207054	passive
-207056	passive
-207061	middle
-207071	active
-207083	active
-207086	passive
-207090	active
-207099	active
-207102	middle
-207108	middle
-207118	active
-207125	active
-207135	passive
-207150	active
-207159	middle
-207164	middle
-207166	active
-207177	active
-207189	passive
-207197	active
-207202	active
-passive
-207209	passive
-207224	active
-207237	middle
-207240	middle
-207257	active
-207274	active
-207276	middle
-207279	passive
-207285	active
-207287	active
-207297	active
-207314	active
-207326	middle
-207333	active
-207341	active
-207366	middlepassive
-207368	active
-207375	active
-207382	active
-207388	active
-207390	active
-active
-207394	active
-active
-207397	middle
-207402	passive
-207405	active
-207427	active
-207439	active
-207451	passive
-207457	active
-207460	active
-207463	active
-207474	active
-207485	active
-207488	middle
-207498	active
-active
-207504	active
-207519	passive
-207525	active
-207528	passive
-207531	active
-207537	active
-207546	passive
-207552	active
-207562	active
-passive
-207566	active
-207568	active
-active
-207571	active
-207576	active
-207578	passive
-207593	active
-active
-207599	middle
-207606	active
-207620	passive
-207629	middle
-207633	active
-207641	active
-207649	middle
-207656	active
-207667	passive
-207672	active
-active
-207684	middle
-207686	active
-207694	active
-207708	active
-207738	active
-207740	active
-207750	passive
-207758	active
-207768	active
-207776	passive
-active
-207802	passive
-middle
-207808	active
-207813	active
-207841	middle
-207847	active
-207856	middlepassive
-207858	active
-207873	active
-207875	passive
-207878	active
-207897	middle
-207906	active
-207912	middlepassive
-207922	middle
-active
-207929	middlepassive
-207931	passive
-207940	active
-207966	passive
-207971	active
-207980	middle
-207985	passive
-207987	active
-207989	middle
-207994	active
-207997	passive
-208003	active
-208006	active
-208017	active
-208020	active
-208027	active
-208037	active
-208046	active
-208048	active
-208065	active
-208071	active
-208074	passive
-208079	active
-208085	middlepassive
-middle
-208088	middle
-208094	middle
-208101	passive
-208106	active
-208118	active
-208120	passive
-208122	middlepassive
-208128	middle
-208139	active
-208144	active
-208161	middle
-208163	active
-208178	active
-208182	active
-208188	active
-208195	active
-208200	active
-208203	active
-active
-208206	active
-208219	middlepassive
-208225	active
-208227	active
-208234	passive
-208247	active
-active
-208252	passive
-208267	active
-208272	active
-208281	active
-208285	active
-208287	active
-208296	active
-208298	active
-208300	passive
-208306	passive
-208311	active
-208314	passive
-208322	passive
-208331	passive
-208340	passive
-208357	active
-208362	active
-208367	passive
-208378	active
-208384	passive
-208387	active
-208392	passive
-208410	middle
-208412	active
-208428	middlepassive
-208437	active
-208444	active
-208446	passive
-208457	active
-208462	active
-208469	active
-208484	active
-208493	active
-208499	passive
-208509	middle
-208517	active
-208522	active
-208524	active
-208542	active
-208554	active
-208580	active
-208590	active
-208594	passive
-208599	active
-208603	active
-208612	middle
-208614	middlepassive
-208633	passive
-208644	middle
-208648	passive
-208656	active
-208669	active
-208675	active
-208701	middlepassive
-208708	active
-208718	active
+206417	middle
+206420	middlepassive
+206422	active
+206425	active
+206428	active
+206438	passive
+206442	active
+206445	active
+206449	active
+206455	middle
 middlepassive
-208724	active
-208731	middlepassive
-208737	active
-208749	active
-208765	active
-208767	passive
+206458	active
+206465	active
+206469	active
+206471	middle
+active
+206474	active
+206478	active
+206485	active
+206489	middle
 passive
-208774	active
-208779	middlepassive
-208800	middle
+206496	passive
+206499	active
+206502	passive
+206505	active
+206516	active
+206518	active
+206522	active
+206524	active
+middle
+206529	active
+206532	active
+206534	active
+active
+206539	active
+206541	active
+active
+206546	active
+206551	active
+206556	middlepassive
+206558	active
+206561	active
+206564	active
+206568	active
+206570	active
+206582	passive
+active
+206586	active
+206588	active
+206590	passive
+206593	active
+206595	active
+206597	middlepassive
+206604	active
+206612	active
+active
+206617	active
+206619	active
+206621	passive
+206624	active
+206629	active
+206632	active
+206635	middle
+206639	active
+206645	middle
+206652	active
+passive
+206660	active
+206663	active
+206667	middle
+206672	active
+active
+active
+206677	middle
+active
+206680	active
+206685	active
+206690	middle
+206694	active
+middle
+active
+206698	active
+active
+206706	active
+206710	active
+206713	middle
+206719	active
+206733	middlepassive
+206738	active
+206740	middle
+206745	active
+active
+206750	active
+206761	active
+206764	active
+active
+206773	middle
+206777	passive
+206780	active
+206782	active
+206787	active
+206797	active
+active
+206800	active
+206802	active
+206805	passive
+206808	active
+206811	active
+206816	middle
+206818	middle
+206822	middle
+206824	active
+206828	active
+206831	middle
+206834	active
+206838	active
+206841	active
+active
+206845	active
+206848	passive
+passive
+206851	active
+206854	active
+206857	active
+206862	active
+passive
+206868	passive
+206872	active
+206874	passive
+206878	active
+206881	active
+206887	active
+206897	active
+206902	passive
+206909	active
+206913	active
+active
+206918	active
+active
+206923	active
+206925	active
+active
+206928	middle
+206937	active
+206945	active
+206950	active
+206952	middle
+206954	active
+206957	active
+206960	active
+middlepassive
+206966	passive
+206968	active
+206970	active
+206977	active
+206979	active
+206981	passive
+206983	passive
+206988	active
+206992	active
+206996	active
+middle
+207003	active
+207008	active
+207014	middle
+207026	active
+207035	active
+207039	active
+207042	active
+active
+middle
+207052	active
+207056	middle
+207062	active
+207064	middle
+207070	active
+207073	active
+active
+207077	active
+207079	active
+207081	active
+207083	active
+207090	active
+207095	active
+207099	active
+207102	active
+207109	active
+207113	active
+207116	active
+active
+207120	active
+207125	middle
+207131	active
+207139	active
+207143	middlepassive
+207146	middle
+207148	middlepassive
+207150	middle
+207152	active
+active
+207157	active
+207159	active
+207163	active
+active
+207167	middle
+207169	passive
+207172	active
+207174	active
+207176	active
+active
+207181	passive
+207184	active
+207189	middle
+207192	active
+207199	active
+207204	active
+207208	active
+207211	active
+207214	active
+passive
+207220	active
+207223	passive
+207226	passive
+207230	middlepassive
+207236	passive
+207245	active
+207247	active
+207251	active
+207255	passive
+207259	middle
+active
+207262	active
+207264	active
+207271	active
+207275	active
+207283	active
+207285	active
+207288	active
+207293	active
+207296	active
+active
+207300	active
+active
+207308	active
+207313	active
+active
+207316	active
+207321	active
+207326	active
+207328	active
+active
+207336	active
+207339	active
+207341	active
+passive
+207344	passive
+207353	active
+207356	active
+207359	active
+207363	passive
+active
+207367	active
+207372	passive
+207382	middle
+207387	middle
+207389	active
+207397	active
+207402	middle
+207405	active
+207411	active
+207414	active
+207417	middle
+207419	active
+207422	active
+207425	passive
+207430	active
+207432	active
+207443	active
+207447	active
+207452	active
+207455	active
+207461	middle
+207464	middle
+207467	active
+207470	active
+207473	active
+207481	active
+207486	active
+middle
+207489	passive
+207495	active
+207498	active
+207503	active
+207505	active
+207510	active
+207518	active
+207524	active
+207528	middle
+207533	active
+207536	active
+207541	active
+207544	active
+207546	active
+207549	middle
+active
+207564	passive
+207568	middle
+207570	active
+207573	middle
+207585	active
+207588	active
+active
+207591	active
+207593	active
+207595	middlepassive
+207597	active
+207601	active
+207607	active
+207613	passive
+207618	middle
+207621	active
+207625	active
+207631	middle
+207634	active
+207639	active
+207645	active
+207649	active
+207651	active
+207654	middle
+207656	active
+207660	active
+207663	active
+207669	active
+207671	active
+207673	active
+207675	active
+207678	middle
+207680	active
+207684	active
+207687	active
+active
+207691	active
+207693	active
+207696	active
+207699	active
+207703	active
+207706	passive
+active
+207711	active
+207714	active
+207718	active
+207722	active
+207727	middle
+207730	active
+207732	active
+207735	active
+207739	active
+207741	middlepassive
+207744	active
+207748	active
+207755	middle
+207762	active
+207764	middlepassive
+207767	active
+active
+207772	active
+207777	active
+207780	active
+207782	middlepassive
+207785	active
+207789	active
+207792	active
+207796	passive
+207799	active
+207802	active
+207804	active
+207806	active
+207808	middlepassive
+207810	active
+207815	active
+207819	active
+207822	active
+207824	active
+207828	active
+207830	active
+207835	active
+active
+207840	active
+207842	active
+207845	active
+207851	active
+207859	active
+207861	active
+active
+active
+207868	active
+207872	active
+207874	active
+207876	passive
+207880	middle
+207882	active
+active
+207886	active
+207889	active
+207892	passive
+passive
+207896	active
+active
+207899	middlepassive
+207901	middle
+active
+207905	active
+207907	active
+207910	active
+207914	active
+207916	active
+207922	active
+207925	active
+207927	active
+207934	active
+207936	active
+207941	active
+207945	active
+207948	active
+207950	active
+207954	passive
+207956	passive
+207959	active
+active
+207964	active
+207967	active
+207970	active
+207972	active
+207980	active
+207984	active
+207987	active
+207993	active
+207999	active
+208003	middlepassive
+208005	active
+active
+208009	middlepassive
+208011	active
+active
+208015	middlepassive
+208018	active
+208020	active
+208025	active
+active
+208031	active
+middle
+208035	active
+208040	active
+active
+208044	active
+208046	middle
+208051	active
+208057	active
+208059	middle
+208062	active
+208065	active
+208068	active
+208072	active
+208074	middle
+208076	active
+208078	active
+208080	middle
+208082	active
+208097	middle
+208102	active
+208107	passive
+208117	active
+208119	active
+208126	active
+208128	active
+208135	active
+208138	active
+208143	active
+208145	active
+208157	active
+208161	active
+208164	active
+208168	active
+208172	active
+208174	active
+208177	active
+208181	active
+208184	middle
+208188	passive
+208191	active
+208193	active
+208196	active
+active
+208199	active
+208203	active
+208209	active
+208212	passive
+208215	active
+208220	active
+208228	active
+208232	active
+208237	active
+208249	active
+208254	active
+208259	active
+208263	active
+208266	active
+208271	middlepassive
+208273	active
+208277	active
+208287	active
+208291	active
+208294	active
+active
+active
+208300	active
+208306	passive
+208315	middle
+208317	middle
+208321	active
+208324	active
+208328	active
+middle
+208332	active
+208334	active
+208340	active
+208342	active
+208347	passive
+208354	active
+208358	active
+208366	passive
+208368	passive
+208373	active
+208375	active
+208380	active
+208384	active
+208392	active
+208396	active
+208400	active
+208404	active
+208409	active
+208415	active
+208418	active
+208423	active
+208425	active
+208428	active
+208439	active
+208443	active
+208446	active
+208449	active
+208453	middlepassive
+208456	active
+208459	active
+208462	active
+208465	middle
+208468	active
+208470	active
+208475	passive
+208478	middlepassive
+active
+208483	active
+208487	middlepassive
+208489	passive
+208491	active
+middlepassive
+208499	active
+208501	passive
+middle
+208504	active
+208509	passive
+208513	middlepassive
+active
+208519	passive
+208523	active
+208525	passive
+208529	active
+208531	active
+208533	active
+208535	active
+208537	passive
+208541	active
+active
+208546	active
+208549	active
+208551	middlepassive
+208554	active
+208556	active
+208558	passive
+208561	middle
+208564	active
+208567	middlepassive
+208569	middle
+middle
+208573	active
+208576	active
+208583	active
+active
+208588	active
+active
+208592	active
+active
+208598	active
+208601	active
+208605	active
+208608	active
+208611	active
+208614	active
+208621	active
+208628	active
+208633	passive
+active
+208640	active
+208642	active
+208646	active
+208653	active
+208656	active
+208659	middle
+208661	active
+208664	active
+208670	active
+208674	passive
+208677	active
+208680	passive
+208682	active
+208684	passive
+208687	active
+208697	active
+208701	active
+208705	active
+208711	active
+208719	active
+active
+208724	middlepassive
+208729	passive
+208733	active
+208735	middlepassive
+208739	passive
+208746	active
+208756	active
+208759	active
+208769	active
+208772	middle
+208774	passive
+208781	middle
+208790	active
+208794	active
+208798	active
 208804	active
-208816	active
-208823	active
-208825	active
-208835	active
-208841	active
-208844	active
+active
+208807	active
+208810	middlepassive
+208812	middle
+208815	active
+208817	middlepassive
+208819	active
+208829	active
+208831	active
+208833	active
+208840	active
+208843	active
+208848	active
 208850	active
-208855	active
-208868	active
+208853	active
+208863	passive
+208865	active
 active
+208869	passive
+208871	middlepassive
 208873	active
-208876	middle
-208882	active
-208889	middlepassive
-208898	active
+active
+208879	active
+208883	active
+208886	middlepassive
+208888	active
+208892	active
+208897	active
+active
 208901	active
-208903	middle
+208905	active
 208908	active
-208922	active
-208924	passive
-208926	active
-208937	active
-208940	middle
-208947	passive
-active
-208951	active
-208957	active
-208960	active
-208971	active
-active
-208977	active
-208982	active
-208985	active
+208913	active
+208917	active
+208920	active
+208924	active
+208928	active
+208931	active
+208934	active
+208937	middle
+208943	active
+208947	active
+208950	active
+208961	active
+208965	active
+208968	active
+208972	active
+208975	middlepassive
+208978	middlepassive
+208985	passive
 208990	active
-208996	active
-passive
-209005	active
+208994	active
+209001	active
+209004	middlepassive
+209009	active
+209011	middlepassive
+209015	active
+209017	active
 209020	active
-209049	active
-209056	active
-209068	active
-209081	active
-209088	middle
-209106	active
-209118	active
-209129	passive
-209142	active
-209148	active
-209155	active
-209164	passive
-209171	passive
-209173	middle
-209190	middle
-209201	active
-209206	middlepassive
-209208	passive
-209216	active
-209218	active
-209224	active
-209226	active
-209237	middle
+209022	active
+209026	active
+209031	active
 active
+209040	active
+209042	active
+active
+209046	active
+209049	middlepassive
+209052	middle
+209055	active
+209058	active
+209064	active
+active
+209067	active
+209069	active
+209071	active
+209074	active
+209077	active
+active
+209083	active
+209086	active
+209090	active
+209092	active
+209095	active
+209100	active
+209106	active
+209113	middle
+209116	active
+209119	active
+209123	active
+209127	active
+209132	active
+209135	active
+209141	active
+209143	middle
+209147	middlepassive
+209150	active
+209154	active
+209160	active
+209162	middlepassive
+209164	active
+active
+209167	active
+active
+209172	active
+209174	middle
+209177	active
+209179	active
+209181	active
+209185	active
+209189	active
+209192	active
+209196	active
+209198	active
+209202	active
+active
+209207	active
+209210	active
+209217	active
+209220	active
+209223	active
+209226	active
+active
+active
+209231	active
+209235	middlepassive
 209243	active
-209247	active
-209251	middlepassive
-209262	active
-209283	middlepassive
-209290	active
-209294	passive
-209299	passive
-209301	active
-209306	active
-209309	active
+209246	active
+209249	active
+209251	active
+209253	active
+209258	active
+209260	middlepassive
+209264	active
+209267	active
+209275	active
+active
+209281	active
+209284	active
+active
+active
+209289	active
+209291	middlepassive
 passive
+209295	active
+209297	active
+209300	active
+209303	active
+active
+209308	active
 209312	active
 209315	active
-209319	active
-209322	active
+209318	active
+209320	active
+209323	active
 209325	active
-209328	active
+209331	active
+209335	active
+209337	active
 active
-209334	passive
-209336	active
-209342	active
-209345	active
-209355	passive
-209357	active
+209340	active
+209344	active
+209346	active
+209348	active
+209352	middlepassive
+209356	active
+209359	active
+209361	active
+209364	active
+209368	active
 active
-209363	middle
+209373	active
 active
-209366	active
-209371	active
-209374	active
-209376	active
-209378	passive
-209384	active
-209390	middlepassive
-209407	active
-209411	middle
+209379	active
+209381	active
 active
+209386	active
+209388	active
+209391	active
+209394	active
+209398	active
+209402	active
+209405	middlepassive
+middle
+active
+209409	active
+209413	middle
+209417	active
 209420	active
-209422	middlepassive
+209422	active
+209424	active
+209429	active
 209431	active
 209433	active
-209445	active
-209465	active
-209472	active
+209437	active
+209440	active
+active
+209444	active
+209446	active
+209448	active
+209452	active
+209454	active
+209460	active
+209466	active
+209473	active
+209475	active
+209479	active
+209482	active
+209485	active
 209487	active
-209496	active
-middle
-209508	passive
-209529	active
-209534	active
+209490	active
+209495	active
+209501	active
+209507	active
+209510	active
+209512	active
+209515	active
+209524	active
+209530	active
+209538	active
 209541	active
-209548	middle
-209553	passive
-209562	passive
-209564	middlepassive
-passive
-209570	active
-209592	middle
-209594	active
+209544	middle
+209548	active
+209550	active
+209556	active
+209559	active
+209567	active
+209571	active
+209575	active
+209578	active
+209581	active
+209586	active
+209589	active
+209591	active
+209593	middle
+209596	active
+209598	active
+active
 209606	active
-209611	active
-209613	middle
-209619	active
-209623	passive
-209860	active
-209867	passive
-209881	passive
-209889	active
-209899	passive
-209901	active
+209608	active
 active
-209911	active
-209915	active
-209922	middle
-209925	middle
-209932	passive
-209940	middle
-209945	active
-209947	active
-209964	active
+209613	active
+209615	active
+209618	active
+209621	middlepassive
+209624	active
+active
+209629	active
+209633	middlepassive
+209637	active
+209639	active
+209641	active
+209645	active
+middle
+209652	active
+active
+209659	active
+209662	active
+209669	active
+209674	active
+209676	active
+209685	active
+209687	active
+209693	active
+209697	active
+209700	active
+209707	passive
+209711	active
+209713	middlepassive
+209715	active
+middlepassive
+209723	active
+209727	active
+209731	active
+209737	middlepassive
+209740	passive
+209742	active
+209748	active
+209753	active
+209755	middlepassive
+209757	active
+209761	active
+active
+209764	active
+209766	middle
+middle
+209769	active
+209773	active
+209776	passive
+209778	active
+209785	middlepassive
+209789	active
+active
+209793	active
+active
+209798	active
+209801	middle
+209805	active
+209809	active
+active
+209816	active
+209819	passive
+209821	active
+209824	active
+209826	active
+209830	middle
+209832	active
+209837	active
+active
+209842	active
+active
+209846	active
+209848	active
+209850	active
+209852	active
+209854	passive
+209856	active
+209858	active
+209861	active
+209863	active
+209867	active
+209873	active
+209875	active
+209877	active
+209879	active
+209884	middle
+active
+209888	active
+209892	active
+active
+209898	active
+209903	active
+209907	middle
+209912	middlepassive
+209914	middlepassive
+209918	active
+209921	active
+209924	active
+209929	active
+209933	active
+209935	middle
+209939	active
+209941	active
+209944	middlepassive
+209946	active
+209952	active
+209954	active
+209958	active
+209963	active
+209966	active
 209970	active
-209986	passive
-209990	active
+209974	active
+209978	active
+209982	active
+209986	active
+209989	active
+209994	active
 active
-209996	active
-210000	middle
-210004	passive
-210008	active
-210010	passive
-active
-210022	active
+209998	active
+210003	active
+210007	active
+210010	active
+210013	active
+210016	active
+210018	active
+210020	active
+210025	active
+210027	active
 active
 210030	active
-210041	active
-210046	active
-210050	active
-210054	passive
-210062	middlepassive
-210067	active
-210074	active
+210035	middlepassive
+210037	active
+210042	active
+210045	middlepassive
+210049	active
+210051	active
+210058	active
+active
+210063	active
+210069	active
+210071	active
+210075	active
 210078	active
-210088	passive
-active
-210095	passive
-210097	active
-210105	active
+210081	active
+210083	active
+210086	middlepassive
+210092	active
+210096	middle
+210098	active
+210102	active
+210106	middlepassive
+210108	active
 210112	active
-210120	active
-210140	active
-210153	active
-210161	passive
-210166	active
-210172	active
-passive
-210175	active
-210179	active
-210196	active
 active
-210199	passive
+210119	active
+210121	active
+210128	active
+210132	active
+210137	active
+210140	active
+active
+210144	active
+210147	active
+210150	active
+210153	active
+210156	active
+210163	active
+210166	active
+210169	passive
+210171	active
+210173	passive
+210175	active
+210178	active
+passive
+210186	active
+210193	active
+210197	active
+210202	active
+active
 210208	active
 210212	active
-210218	active
-passive
-210229	active
-210231	middle
+210215	active
+210220	active
+210223	active
+210228	active
+210230	active
 210233	active
-210235	active
-210241	active
-passive
-210246	active
-210253	active
-210257	active
-210261	active
-210275	active
+210238	active
 active
-210278	middle
-210280	active
-210286	passive
-210301	active
-210304	active
-210315	middlepassive
-210324	active
-210328	active
+210243	active
+210246	active
+210249	active
+active
+210254	active
+active
+210259	active
+210263	active
+210265	active
+210272	active
+210275	active
+210283	active
+210287	active
+210293	middle
+210295	middlepassive
+210297	active
+210300	active
+210308	active
+210310	active
+210313	active
+210317	active
+active
+210322	active
+210325	active
+210327	active
 210332	active
-210337	active
-210345	active
-210348	active
-middle
-210355	active
-210366	active
-210369	active
-210376	active
-210388	active
+210338	active
+210342	active
+210344	active
+210351	active
+210356	active
+210359	active
+210361	active
+active
+210369	middlepassive
+210373	active
+210380	active
+210385	middle
+210388	middlepassive
+210390	active
 210393	active
-210407	passive
-210421	middle
-210438	passive
-210457	active
-210473	passive
-210481	passive
+210396	active
+210400	active
+active
+210405	active
+210407	active
+active
+middle
+210415	active
+210420	active
+active
+210429	active
+210433	active
+210441	active
+210443	active
+210445	active
+210447	active
+active
+210453	active
+210458	active
+210463	active
+active
+middlepassive
+210472	active
+210475	passive
+active
+210479	active
+210482	active
+210486	middle
+active
 210490	active
-210493	active
+210498	active
 active
 210502	active
-210518	passive
-210521	active
-210525	active
-210531	middlepassive
-210533	active
-210544	active
+210504	active
+210506	active
+210509	active
+210512	middlepassive
+210518	active
+210520	active
+middlepassive
+210523	active
+210526	active
+210528	active
+210535	middle
 active
-210553	passive
-210565	active
-210577	active
+210542	active
+210544	middlepassive
+210551	active
+210554	active
+210560	active
+passive
+active
+210567	active
+210569	active
+210575	middlepassive
+210577	passive
 210580	active
-210587	active
-210598	active
+210583	active
+210585	middlepassive
 active
-210601	active
-210604	active
-210613	active
-210618	active
-passive
-210621	active
+210588	active
+210594	middle
+210599	active
+210602	active
+210605	active
+210609	active
+210616	active
 210626	active
+210628	active
+210634	active
 210636	active
-210641	active
-210644	middle
+210640	active
+210645	active
 210650	active
-210654	active
-210667	active
-210674	middlepassive
-210676	middlepassive
-210691	active
-210698	active
-210713	active
-passive
-210719	active
-210725	active
-210729	active
-210734	active
+210655	active
+210657	active
+210660	active
+210664	active
+210669	active
+middle
+210674	active
+active
+210677	active
+210680	active
+210684	active
+210688	passive
+middlepassive
+210691	middle
+210694	active
+210702	active
+210706	active
+210708	active
+210712	active
+210714	middlepassive
+210718	middle
+210721	active
+210724	active
+210728	active
+210731	active
+210733	active
 210738	active
-active
 210741	active
-210749	active
+210743	active
+210746	middlepassive
+210750	active
+210758	active
+210760	active
 active
-210754	active
-210769	active
+210765	active
+210768	active
+210777	active
+210789	active
 active
-210772	middlepassive
-210780	active
-210782	active
-210785	active
-210794	active
-210796	active
-210798	active
-210800	active
-210805	active
-middle
-210809	active
-passive
-210820	active
-210823	active
-210828	active
-210832	middlepassive
-210838	active
-210850	middle
+210795	active
+210797	active
+210802	active
+210806	active
+210810	active
+210814	middlepassive
+210817	active
+210819	active
+210822	active
+210825	active
+210829	active
+210833	active
+210836	active
+210840	active
+210842	middlepassive
+210845	active
+210848	active
 210852	active
-210864	passive
-210867	active
-active
-210878	middle
-210886	middlepassive
+210859	active
+210863	active
+210866	active
+210870	active
+210873	active
+210876	active
+210883	active
 210889	active
-210900	active
-active
+210892	active
+210894	active
+210897	active
+210903	active
+210908	active
 210910	active
-210914	active
-210927	active
-active
-210932	active
-210942	active
-210944	active
-210951	active
-210953	active
-210960	active
-210966	middle
-active
-active
-210974	active
-210981	active
-210991	passive
-210993	active
-211000	active
-211002	active
-211011	active
-211017	active
-active
-211024	passive
-211032	active
-211045	active
+210912	active
+210916	active
+210918	active
+210923	active
+210929	active
+210933	active
 middle
-211049	active
-211051	active
-211058	passive
-211060	active
-211064	active
-211070	active
+210937	active
+210940	active
+210943	middlepassive
 active
+210949	active
+210951	active
+210954	active
+210963	middle
+210967	active
+210971	active
+middlepassive
+210976	active
+210979	active
+210983	active
+210985	active
+210987	active
+active
+210991	active
+210997	active
+211002	active
+211004	active
+211008	active
+211012	active
+211015	active
+211017	active
+211019	active
+211022	active
+211025	active
+211029	active
+211038	active
+211041	active
+211046	middlepassive
+211050	active
+211052	middlepassive
+211055	active
+211057	active
+active
+211062	active
+211065	active
+211072	active
+211076	active
 211079	active
 211083	active
-211103	active
+211086	active
+211089	active
+211097	active
+211102	active
+active
+211107	active
+211111	active
 211115	active
+211119	active
 211121	active
-211131	middlepassive
-211139	middle
+211126	active
+211129	active
+211132	active
+211135	active
+211137	active
+211140	active
 active
-211142	active
-211151	active
-211153	active
-211156	middle
+211144	active
+211148	active
+211150	active
+211154	active
+211158	active
 211160	active
-211170	middle
+211164	middlepassive
+211166	active
+active
+211172	active
 211176	active
-211181	active
-211185	passive
+211180	active
+211183	active
 211187	active
-211190	active
-middlepassive
-211193	active
-211195	active
-211199	middle
+211189	active
+211192	active
+active
+211196	active
 211201	active
-active
-passive
+211204	active
+211207	active
 211209	active
-211215	active
-211218	active
+211214	active
+active
 211220	active
+211222	active
+211225	active
 active
-211227	active
-211236	active
-211243	middlepassive
-211254	middlepassive
-211258	active
-211260	passive
-211271	active
+211229	active
+211231	active
+211235	middlepassive
 active
-211279	middlepassive
+211248	active
+211254	active
+active
+211260	active
+active
+middle
+211266	middle
+211269	active
+211272	active
+211274	active
+211277	active
 211281	middle
-211292	active
+211286	middle
+211291	active
 active
-211296	active
-middlepassive
-211303	active
+211298	active
 active
-211322	active
-211326	middlepassive
-211329	middle
-211331	active
-211338	active
-passive
-211341	active
+211306	active
+211312	active
+211315	active
+211317	active
+211320	active
+active
+211328	active
+211333	active
+211336	active
 211343	active
-211345	active
-211351	active
-211353	active
+211347	active
+211352	active
+211354	active
+211357	active
 211360	active
-211371	active
+active
+211368	active
+211370	active
+211378	active
+211384	active
+211387	middlepassive
 211389	active
-211395	active
-211397	passive
-211405	middle
-middlepassive
-211414	active
-211416	active
-211419	active
-211422	middlepassive
-211424	active
-211432	active
-211442	passive
-active
-211448	middlepassive
-211457	active
+211393	active
+211396	active
+211402	active
+211404	active
+211409	active
+211417	passive
+211420	active
+211422	active
+211427	active
+211434	active
+211441	active
+211446	active
+211448	active
+211453	active
 211459	active
-passive
+211462	active
+211465	active
 211468	active
+211473	active
+211482	active
 active
-211471	active
-211474	active
-211484	active
-211490	active
+211488	active
+active
 211492	active
-211494	passive
 211496	active
-active
-211499	active
-211505	middlepassive
+211498	active
+middle
+211504	active
+211508	active
+211511	active
 211515	active
-211519	active
-211523	middlepassive
-active
-211532	active
-211538	active
-211541	active
-211546	passive
-211548	active
-211550	active
+211518	active
+middle
+211525	active
+211529	active
+211531	active
+211535	active
+211537	active
+211540	active
+211544	active
+211549	active
+211551	active
 211557	active
-211559	middle
-211564	middlepassive
-211571	active
-211573	active
-211576	active
-211578	active
+211561	active
 active
-211582	active
-211596	active
-211606	active
-211610	middlepassive
+middle
+211566	active
+211569	active
+active
+middle
+211574	active
+211577	active
+211580	active
+211583	active
+211589	active
+211595	active
+211599	active
+211604	passive
+211608	active
 211612	active
-211629	active
-211640	active
-211642	active
-211644	passive
-211648	active
-211655	active
-211657	active
-211662	active
-211664	active
+211614	active
+211619	active
 active
-211674	active
-211683	active
-211687	middle
-211700	active
+211626	active
+211628	active
+active
+211631	active
+211633	active
+211637	active
+211641	active
+211645	active
+211649	active
+211651	active
+211655	middlepassive
+211657	active
+211659	active
+active
+211664	active
+211667	active
+211669	active
+211671	active
+211673	active
+211677	active
+211679	active
+211681	active
+211686	active
+211688	active
+211692	active
+211695	active
+active
+211699	active
 211702	active
 211707	active
-211712	middlepassive
+211714	active
+211717	active
+211720	active
+211722	active
+211725	active
+active
 211729	active
-active
-active
-middle
-211737	passive
-211745	active
+211733	active
+211739	active
+211741	active
+211747	active
+211749	active
+211751	active
 211753	active
-211769	active
+211757	active
+211760	active
+211764	middlepassive
 active
+active
+211772	active
+middlepassive
+211777	active
 211783	active
+middlepassive
+211786	active
 211789	active
-211802	active
+211793	active
+active
+211798	active
+211801	active
+211805	middlepassive
+active
 211814	active
-211827	passive
-211832	middle
-211845	active
-211847	active
-211849	active
-211855	active
-middle
-211861	middlepassive
-211867	active
+211817	active
+active
+211821	active
+middlepassive
+211825	active
+active
+211829	active
+211835	active
+211837	active
+211840	active
+211844	active
+active
+active
+211850	active
+211855	passive
+211859	active
+211862	active
+211864	active
+211868	active
+211870	active
 211874	active
-211878	active
-211888	active
+211879	middlepassive
+211881	active
 211890	active
-211893	active
-211898	passive
+211892	middlepassive
+211896	middle
 211902	active
+211904	active
 211908	active
-211910	active
-211913	active
-211920	active
-211922	active
-211940	active
-active
+211911	active
+211918	active
+211923	active
+211925	middle
+211928	active
+211932	active
+211934	middle
+211939	passive
 211943	active
-211951	active
+211952	active
+211955	active
 active
-211961	active
-211965	active
-211976	middle
-211983	active
-211991	active
-211993	active
-212006	active
-212008	middle
-212024	active
-212026	active
+211958	active
+211962	active
+211966	active
+211970	active
+211974	active
+211976	active
+middle
+211979	active
+211984	active
 active
-212031	active
-212037	active
-212044	active
-212048	active
-212050	active
+211987	active
+211993	passive
+211995	passive
+212002	passive
+212010	middle
+212016	middlepassive
+212019	active
+active
+212022	active
+212030	passive
+212032	active
+212035	active
+212040	passive
+212042	passive
+212048	middle
+212050	passive
+212054	active
 212057	active
 active
+212061	active
 active
 212067	active
-212070	active
+212069	active
 212074	active
-212076	active
-212078	active
-212080	active
-212082	middle
-212086	active
-212088	active
-212096	active
-212098	passive
-212106	passive
-212109	active
-212115	active
-212119	middle
-212128	active
-212135	middle
-212138	active
 active
-212151	middle
-212153	active
-212160	middle
+212077	active
+active
+212085	active
+212089	active
+active
+212095	active
+212099	passive
+middlepassive
+212102	middle
+212108	passive
+212114	active
+active
+212120	middle
+212123	active
+212127	active
+212133	active
+212136	active
+212139	active
+212146	active
+middlepassive
+212150	active
+212154	active
+212156	active
+212158	active
+212162	active
+212165	active
 212169	active
 212173	active
-212201	passive
-212211	middle
-212214	active
-212218	active
-212259	active
+212179	active
+212183	active
+212185	middle
+212188	active
+212191	active
+212194	active
+212198	active
+212200	active
+212203	active
+212207	active
+212209	middlepassive
+212212	active
+212216	active
+212219	active
+212223	active
+212230	active
+212234	active
+212237	active
+212245	passive
+212251	active
+212253	active
 active
-212263	passive
-212273	passive
-212279	passive
-212286	active
-middle
-212294	middlepassive
-212296	middlepassive
-212300	active
-212313	active
-212320	active
-212330	active
-212333	passive
-212336	active
-212339	active
-212341	active
+212257	active
+212261	active
+212263	active
+212267	active
+212270	middle
+212274	active
+212280	active
+212284	active
+212287	active
+212290	active
+212295	active
+212299	active
+212302	active
+212307	active
+212309	active
+212315	middle
+212318	active
+212321	middlepassive
+active
+active
+212326	active
+212329	active
+212332	active
+212335	middlepassive
+active
+212338	active
 212343	active
-212350	active
-212353	active
+212347	active
+212352	active
 212355	active
-212372	passive
-212381	active
+212359	active
+212363	middle
+212370	active
+212373	active
 middle
-212401	active
-212417	active
-212426	passive
-212429	active
-212432	active
-212435	active
-212437	active
-212442	active
-212454	active
-212465	active
-212467	active
+212378	active
+212383	active
 active
-212475	active
+212390	active
+212393	active
+212397	active
+212400	active
+212403	active
+212406	active
+212410	active
+212414	active
+active
+212419	active
+212424	middle
+212427	active
+212430	active
+212434	active
+212438	active
+212440	active
+212443	active
+212445	active
+212452	active
+212456	active
+212458	active
+212460	active
+212466	active
+212470	active
 212477	active
-212479	active
-212481	middlepassive
-212483	middlepassive
-212487	active
-212490	active
-212497	active
-212507	active
-212519	active
-212522	active
-212524	active
-212529	active
-212534	active
-212537	active
-212539	active
-212544	active
-212549	active
-212551	active
-212557	active
-212565	active
-212567	active
-212571	active
-212573	active
-212579	active
-212588	active
-212591	active
-212595	active
+212479	middle
+212483	active
+212485	middle
+212488	active
+212491	active
+212495	active
+212498	middle
+middle
+212502	active
+212506	active
+212509	active
+212514	active
+212520	active
+212527	active
+212530	middle
 active
-212601	active
-212606	active
-212608	active
-212613	active
-212620	active
+212534	active
+212536	active
+212538	active
+212544	active
+212548	active
+212551	active
+212555	active
+212558	active
+middle
+212561	active
+212566	active
+active
+212573	active
+212577	active
+212580	active
+active
+212585	active
+212587	active
+212593	active
+212595	active
+212600	active
+212605	passive
+212607	active
+212609	active
+212615	active
+active
 212622	active
 212624	active
-212626	middle
-212634	middle
-212641	active
-212649	middlepassive
-212658	active
-212661	active
-212666	passive
-212669	active
-212674	passive
+212627	active
+212631	active
+212637	active
+212640	middlepassive
 active
-212677	passive
+212649	active
+212655	active
 active
-212680	passive
-212686	passive
-passive
-passive
-active
-212701	active
-passive
+212659	active
+212665	active
+212668	active
+212672	active
+212676	active
+212679	active
+212687	active
+212689	active
+212693	active
+212698	active
+212702	active
 212704	active
-212711	middlepassive
+212710	active
 212714	active
-212720	middlepassive
-212722	active
-212730	passive
-212733	middle
-212743	active
-212774	active
-212776	middlepassive
+212719	active
+middle
+212723	active
+212726	active
+212730	active
+212734	active
+middle
+212740	active
+212742	active
+212747	active
+212752	active
+212755	active
 active
-212784	active
+212758	active
 active
-212811	active
+212765	active
+212768	active
+212771	active
+212775	active
+212778	active
+212780	active
+212785	active
+212790	active
+212792	middle
+212798	active
+212802	active
+212805	active
+212808	active
+middle
 212813	active
-212827	active
-212844	active
+212818	active
+active
+212822	active
+212826	active
+212829	active
+212832	active
+212836	active
+212839	active
+212842	active
+212844	middle
 212848	active
-212852	active
-212861	active
-212876	passive
-212882	active
-212889	active
+212853	active
+212856	middle
+212858	active
+212863	active
+212865	passive
+active
+212872	active
+212875	active
+active
+212879	active
+212883	middle
+212885	active
+active
+212890	active
+212894	passive
+212896	active
+212900	active
+active
 212906	active
-212919	active
-212929	active
-212938	active
-212943	active
-212945	active
-212949	middlepassive
-212954	active
-212961	active
-212963	active
-212966	active
-212969	active
-212972	active
+212910	active
+212913	active
+212919	passive
+middle
+212924	active
+212930	passive
+212936	active
+middlepassive
+212940	active
+212944	active
+middlepassive
+212948	middlepassive
+middlepassive
+212953	active
+212955	active
+212958	active
+active
+212962	active
+212967	active
+212973	active
 212975	active
-212977	active
-212979	active
-212988	middle
+middle
+212982	passive
+passive
 active
-213000	active
+212987	middle
+212989	active
 active
-213007	passive
-213011	active
-213014	active
-213016	active
+212994	active
+212999	active
+active
+213002	active
+middlepassive
+213005	active
+213007	active
+213010	active
+213012	active
+213017	active
 213019	active
-213030	active
-213036	active
-213038	middle
-213050	active
-213067	active
-213078	active
+213022	active
 active
+213028	passive
+213031	middle
+213034	passive
+213037	active
+213039	active
+213043	active
+213046	active
+213050	middle
 active
-213082	active
+213054	middle
+active
+213057	active
+213060	active
+213062	active
+213064	active
+active
+213071	active
+213077	active
+213080	active
 213085	active
-213092	active
-213101	active
-213104	active
+213090	active
+213093	active
+213096	active
+213101	middle
+213103	active
 active
-213113	middle
+213110	active
+213117	active
 213119	active
-213122	active
-213125	active
-213127	middle
+213121	middlepassive
+213124	active
+213127	active
 213129	active
-213141	active
-213147	middlepassive
-213157	active
-213163	active
+213135	active
+213138	active
+213143	active
+213146	active
+213148	active
+213153	active
+213156	active
+213159	active
+213162	active
+213164	active
+213166	active
 213168	active
-213172	passive
-213176	active
-213185	active
-213189	active
-213193	active
-213195	active
-213198	passive
+213173	active
+213176	passive
+213179	active
+213181	middle
+213186	active
+active
+213190	active
+213196	passive
+213200	active
+213202	active
+213205	active
 213210	active
-213214	passive
-active
-213221	active
-213223	passive
-213225	middlepassive
-213228	middlepassive
-213230	middlepassive
-213237	active
+213212	active
+213214	active
+213217	active
+213219	active
+213223	middlepassive
+213227	middle
+213233	active
+213236	middle
 213240	active
+213243	active
+213245	active
 active
-213247	active
-213250	passive
+213251	active
 213254	active
-213257	active
-active
-213269	active
-213271	active
-213278	passive
+213256	active
+213260	active
+213265	active
+middle
+213270	active
+213272	active
+213274	active
+213276	active
+213278	active
 active
 213283	active
-213285	middle
-213291	passive
-213296	passive
-213299	middlepassive
+213286	active
+213289	middle
+213291	active
+213296	active
+213299	active
+active
+213302	active
+213304	middle
+213306	active
+213309	active
 213312	active
-213321	middle
-passive
-213324	active
-213336	active
-213346	active
-213351	active
-213356	passive
-213361	active
+213317	active
+213319	active
+213322	active
+213327	active
+213329	active
+middle
+213333	active
+213338	active
+213341	active
+213343	active
+213345	active
+213348	active
+213353	active
+213358	active
+213362	active
 213364	active
-213366	active
-middle
-213373	active
+213368	passive
+213370	active
+213374	passive
+213377	active
+213381	middlepassive
 active
-213376	active
-213379	active
-passive
-213382	active
-213387	middle
-active
-213390	active
+213384	middle
+213386	active
+213390	passive
+213394	active
 213397	active
-213402	active
-213406	active
-213411	passive
-213417	middle
+213400	active
+213403	active
+213407	active
+213409	active
+213411	active
+213416	middle
+213419	active
+213422	active
+213425	active
 213427	active
-213451	active
-213464	middle
-213477	active
-213483	active
-213485	active
-213487	middlepassive
-213490	active
-middle
-213499	active
-213504	active
-213509	active
-213511	active
-213513	middlepassive
-213516	active
-213524	active
-213539	middle
+213431	active
+213434	active
+213437	active
+213440	active
 active
-213542	passive
+213444	active
+213447	active
+213454	active
+213457	active
 active
-213545	passive
+213460	active
+213462	middle
 active
+213468	active
+213470	active
+213474	active
+active
+213480	active
+213482	active
+213486	active
+213488	active
+213491	active
+active
+213494	middlepassive
+213502	active
+213506	active
+213510	middlepassive
+213514	active
+213518	active
+213523	active
+213527	active
+213530	active
+213535	active
+213537	middlepassive
+213541	active
+213543	active
 213549	active
-213551	active
-213553	active
+213551	middle
 213555	active
-213557	passive
-213560	active
-213562	passive
-213564	passive
+213561	active
 213567	active
-213571	passive
-213575	active
-213582	middle
-active
-213593	active
-213599	middle
-213605	passive
-213608	active
-active
-213617	passive
-middle
-213628	active
-213634	active
-213637	active
-active
+213569	active
+213571	active
+213573	active
+213577	active
+213581	active
+213587	active
+213590	active
+213595	active
+213599	active
+213604	active
+passive
+213607	middle
+213609	middle
+213612	active
+213615	middlepassive
+213618	active
+213620	active
+213622	active
+213624	active
+213627	active
+213630	active
+213632	active
 213641	active
-213648	active
-213652	passive
-middle
-active
-213666	active
-213675	active
-213685	active
-213702	active
-213709	active
+213647	active
+213651	active
+213654	active
+213656	middlepassive
+213658	active
+213661	active
+213664	active
+213667	active
+213670	active
+213673	active
+213678	active
+213683	active
+213686	active
+213690	active
+213694	active
+213699	active
+213704	active
+213707	active
+213712	active
 213714	active
-213718	passive
-213739	active
-213744	passive
-213750	active
-213762	active
-213765	active
-213771	middlepassive
-213773	active
-213776	active
+213718	active
+213720	middle
+213726	active
+213729	active
+213734	active
+213737	active
+213742	active
+213746	active
 active
-213781	middle
-active
+213751	active
+213753	active
+213757	active
+213763	middle
+213769	active
+213774	active
+213776	middlepassive
+213779	active
+213781	active
 213785	active
-active
-213793	active
-213796	active
-213799	active
-213801	active
-active
-213810	active
-213812	active
-213814	active
+middlepassive
+213788	middlepassive
+213790	active
 middle
-213826	passive
-213839	active
+213797	active
+213799	active
+213807	active
+213812	active
+213817	active
+213820	active
+213822	active
+213825	middle
+213828	active
+213832	active
+213836	active
+213843	active
 213848	active
-213853	active
-213863	passive
-213865	middle
-213868	active
-213876	active
-213878	middlepassive
+213851	active
+213861	active
+213863	active
+213866	active
+213869	active
+213874	middle
+213879	active
 213888	active
-213893	active
-213902	active
-213906	middle
+213892	active
+213895	middlepassive
 active
-213923	active
+213904	active
+active
+213910	active
+213912	middle
+213917	active
 213925	active
+middle
 213932	active
-213936	active
-213942	active
-213944	active
-213948	active
-213951	active
+213940	active
+active
+213944	middle
 213953	active
-213962	middle
-213966	active
-213968	passive
+213955	active
+213958	active
+213964	middle
+213967	middlepassive
+passive
 213972	active
-213977	active
+213974	active
+213978	active
 213980	active
-213984	active
-active
-213989	active
-213996	active
-214006	active
-214008	active
-214010	middle
-214016	active
-214018	passive
+213982	active
+213985	active
+213988	active
+213994	active
+213998	active
+214001	active
+214003	active
+214005	active
+214007	active
+214014	active
+214018	active
 214020	active
+214025	active
+214036	active
+214040	active
+214043	active
+214048	active
+214052	active
+214056	active
+214059	active
+214062	active
+214066	active
+214074	active
+214077	active
+214081	active
+214088	active
 active
-214027	middle
-214030	active
-214033	active
-214035	passive
-214044	active
-active
-214051	active
-214065	active
-214071	active
-214083	active
-214087	active
 214093	active
 214095	active
+214097	active
 active
-214109	active
-214113	active
-214122	active
-214124	passive
-214135	active
-214140	passive
+active
+214102	active
+214106	active
+214114	passive
+214119	active
+214130	active
+214132	active
+214134	active
+214137	active
 214142	active
-active
-214146	passive
-214153	middle
-214155	middlepassive
-active
-214162	active
-214167	active
-active
-214180	active
-214182	middlepassive
-214187	middle
+214144	active
+214148	active
+214153	active
+214155	active
+214159	active
+214161	middle
+214164	active
+214168	active
+214172	active
+214178	active
+214182	active
+214185	active
+214189	active
+214192	active
 214195	active
-214201	active
-214203	middle
-214224	active
+214199	passive
+214201	middlepassive
+214203	active
+214205	active
+214211	passive
 passive
-214235	passive
-214243	active
-214259	active
-214264	active
-214266	active
-214277	middlepassive
-214281	active
-214285	active
-214287	active
-214289	active
-214299	active
-214303	active
-214310	passive
-214319	active
-214323	active
-214330	passive
-passive
-214336	active
-214340	active
-214349	passive
-214353	active
-214357	active
-214368	passive
 active
+214221	active
+214227	active
+214230	active
+214235	active
+214237	active
+214240	active
+214243	middle
+214246	active
+214248	active
+214250	passive
+214253	active
+214256	active
+214258	active
+214261	active
+214265	active
+214268	active
+214280	active
+214285	middle
+214292	active
+214295	middlepassive
+active
+214302	middlepassive
+active
+214309	active
+214312	active
+214317	active
+214320	middle
+214322	active
+214325	active
+214328	middle
+214331	active
+214334	active
+214336	middle
+214342	active
+214346	active
+214350	active
+214352	active
+middle
+214356	active
+214358	active
+214361	active
+214364	active
+214366	active
+214371	active
 214374	active
+214381	middlepassive
+214384	active
 active
-214377	active
-214379	active
+214387	active
+214391	active
+214393	active
+214395	active
+214400	active
+passive
+214404	middlepassive
+214407	active
+214412	active
+214417	active
+214422	active
+214427	middlepassive
+214429	active
+214433	active
+214435	active
 active
-active
-214392	active
-214398	active
-214400	passive
-active
-214421	active
-214423	active
-214425	active
-214427	active
-active
-214437	active
+214438	active
+214440	active
+214444	active
+214449	active
+214451	active
 214453	active
 214455	active
-214457	middlepassive
-214462	active
-214475	active
-passive
-214487	active
-214491	middlepassive
-214499	active
-214504	active
-214511	middlepassive
-214519	active
-214521	active
-214523	active
-214536	middlepassive
-passive
-214540	active
-214552	active
-214561	active
-214565	active
-214567	active
-214574	active
-active
-214582	active
-214587	active
-214590	middlepassive
-active
-214597	active
-214602	middle
-214609	passive
-214614	active
-active
-214618	active
-214622	active
-passive
-214629	active
-214633	active
-active
-passive
-214639	middle
-214655	middlepassive
-active
-214663	passive
-214677	active
-214679	active
-active
-214684	passive
-active
-214697	active
-214706	active
-214708	active
+214459	active
+214463	active
+214467	active
+214472	active
+214474	active
+214478	active
+214480	active
 middle
-214720	active
-214731	active
-214735	active
-214746	passive
+214484	active
+214487	active
+214489	active
+214491	active
+214494	middlepassive
+214496	active
 active
-214750	active
-214752	active
-214762	passive
-214764	active
+214499	active
+214502	active
+214504	active
+214509	active
+middlepassive
+214512	active
+214516	active
+214520	active
+214524	middlepassive
+214526	middlepassive
+214529	active
+214534	middlepassive
+214536	active
+214538	active
+214540	active
+214544	active
+214547	active
+214550	active
 active
-214767	active
-214769	active
-214772	middle
-214775	passive
+214554	active
+214558	active
+middle
+214563	active
+214568	active
+214572	active
+214574	active
+214577	active
+214581	active
+214585	active
+214589	active
 active
-214789	middle
-214791	middle
-214793	active
-214802	passive
+214592	active
+214596	active
+214599	active
+214601	active
+214603	active
+214605	active
+active
+passive
+214616	passive
+active
+214620	active
+214623	active
+214625	active
+214630	active
+214634	middle
+214636	active
+active
+214642	active
+214646	active
+214649	active
+214651	active
+214658	active
+214660	active
+214665	active
+214667	active
+214671	active
+214674	middle
+214677	active
+214688	active
+214691	active
+214695	active
+214698	middlepassive
+214700	active
+214704	active
+214711	middle
+214716	active
+214719	active
+214722	active
+214724	active
+214726	active
+214739	passive
+active
+214746	middle
+214748	active
+214754	active
+214758	active
+214768	passive
+214770	active
+214773	active
+214780	active
+214788	active
+214790	active
+214794	active
+214798	active
+214800	active
 214804	active
+214807	active
+214815	active
+214817	active
 active
-214812	active
-214818	active
-214824	active
-214827	active
-214838	active
-214844	active
-214852	active
+214820	active
+214828	active
+214831	active
+214833	active
+214836	active
+214843	active
+214847	active
+214849	middlepassive
+214853	active
+214858	active
 214863	active
-214870	middle
-214877	active
-214884	active
-214889	active
+214870	passive
+214875	active
+214881	active
+214883	active
+214888	passive
+214891	passive
+214893	active
+214899	active
+214904	active
+214907	active
+passive
 active
-214896	active
-214910	middlepassive
-214914	active
 active
-214924	active
-214934	active
-214937	passive
-214941	passive
-214943	active
-214947	passive
-214958	active
+214913	active
+214921	active
+214926	active
+214932	active
+active
+214942	active
+214944	active
+214953	active
+214955	active
+214957	middle
+214963	active
 214967	active
 214970	active
-214973	active
-214981	active
-214985	active
-214992	active
-active
-215002	passive
-215009	active
-215012	active
-215017	active
-215019	active
-215021	active
-215031	active
-215038	active
-215053	passive
-active
+214976	active
+214979	active
+214981	middlepassive
+214984	active
+214989	active
+214993	active
+214995	passive
+middlepassive
+215003	active
+215007	active
+215012	middlepassive
+215014	middle
+215017	middlepassive
+middlepassive
+215023	active
+215029	passive
+215032	passive
+215039	active
+215041	active
+215044	active
+215048	active
+215052	active
 215057	active
-215059	active
-active
-215062	active
+215061	active
+215063	active
+215067	active
+215069	active
+215072	active
 215074	active
-215076	active
-215078	active
-215080	active
-215087	active
-middlepassive
-215098	active
-passive
+215077	active
+active
+215082	active
+215084	active
+215089	active
+215095	active
+215097	active
+215099	active
 215101	active
-215112	passive
+middlepassive
+215105	active
+215107	middlepassive
+215110	active
+215114	middlepassive
+215116	active
 active
-215117	active
-215119	passive
-215121	passive
-215123	active
-215138	active
-215146	passive
+215120	passive
+215124	active
+215131	active
+215134	active
+215137	active
+215140	active
+215142	active
+active
+215146	active
 215149	active
-215153	active
-middlepassive
-215163	active
+215157	active
+215162	active
+215164	active
 215167	active
-215171	active
-215174	active
+215174	middle
+215178	active
 active
-215184	middlepassive
-215187	active
-215192	active
-215200	active
+215185	passive
+215188	active
+215190	active
+215197	active
 215202	active
+215205	active
 215211	active
-215215	middle
-215221	active
+215214	active
+215217	active
+215219	active
+active
+215222	active
 215224	active
-215227	middle
-active
+215227	active
+middle
+215231	active
+215235	active
 215240	active
-215242	active
-215250	active
-215252	active
-215265	active
-215274	active
-215279	active
-215284	active
+215248	passive
+215252	passive
+215256	active
+215260	active
+active
+215263	active
+active
+middle
+215270	active
+215275	active
+215280	active
+215283	active
+passive
 215289	active
+215294	active
 215302	active
-215306	passive
 active
-215309	middle
-215321	active
-215332	active
-215338	middle
-215340	middlepassive
-215343	active
-215351	active
-215354	active
-215359	active
-middle
-215365	active
+215306	active
+215311	active
+215313	active
+215317	active
+215319	active
+215322	active
+active
+215328	middle
+215330	active
+215333	active
+passive
+215339	active
+215342	active
+215348	passive
+215350	active
+215353	active
+215360	passive
+215363	middlepassive
+active
 215367	active
-215371	active
-215378	active
-active
-active
-215382	active
-215389	middle
+215369	active
+215373	active
+215377	active
+215380	active
+215383	passive
+215385	middle
+215388	active
 215391	active
-215401	passive
-215405	active
-215413	active
-215415	middlepassive
-215421	active
-middlepassive
-215429	active
-215431	active
-215438	active
-215446	active
-middle
-215450	middlepassive
-215452	active
-215454	passive
+215395	active
+215403	active
+215409	active
+215413	middle
 active
-215463	active
+215426	active
+215428	active
 active
-215488	active
-215492	middle
-215496	active
-215498	active
-215500	active
+215432	active
+215436	active
+215439	active
+215441	active
+active
+215448	active
+215451	active
+215456	active
+215461	active
+215465	active
+215468	active
+215471	active
+215473	active
+215477	active
+215479	active
+215483	active
+215486	active
+active
+215491	active
+215493	active
 215502	active
-215504	active
 215506	active
-215508	active
 215511	active
-215517	active
-active
-215522	active
-215524	active
-215531	active
-215534	active
-215536	passive
-active
+215513	active
+215516	active
+215518	active
+215523	active
+215527	active
+215529	active
+215533	active
 215539	active
-215547	active
-215550	active
+215542	active
+215546	active
 215552	active
-middle
 215558	active
+215562	middlepassive
+215565	active
+215569	active
 215572	active
-215574	active
-215576	active
-215585	middlepassive
+215575	active
+215583	active
 215587	active
+passive
 215592	active
-215612	active
-215620	active
-215622	active
-215625	middlepassive
-215630	middlepassive
-215632	middlepassive
-215650	active
-215658	middlepassive
-215660	middlepassive
-215666	middle
-215668	active
-215670	active
-215678	middlepassive
-215681	active
-215685	passive
-215691	passive
-215701	passive
-215711	active
+215595	active
+215597	active
+215600	active
+215605	middle
 active
-215717	active
+215611	active
+215615	middlepassive
+215618	active
+215623	active
+215625	middle
+215628	active
+215632	active
+215635	active
+215637	middle
+215640	active
+215644	active
+215649	middle
+215654	active
+215657	active
+215660	active
+215671	active
+215674	passive
+215676	active
+215681	middle
+215683	active
+215689	active
+215693	active
+215695	active
+215698	active
+215703	active
+215706	active
+215710	active
+215714	active
+215716	active
+215718	active
 215720	active
-215725	active
-215728	active
+215723	active
+215730	active
 active
-215732	active
-215736	middle
-215739	active
-215741	active
-215743	active
-215751	passive
-215757	active
+215735	active
+215742	active
+215744	active
+215748	active
+215753	active
+215756	active
 active
-215761	middle
-215763	active
-215778	active
-215780	middlepassive
+215760	active
+215768	active
+215772	active
+215774	active
+215776	active
+215781	active
+215783	active
 215785	middle
+215789	passive
 active
+215793	active
+215798	active
+215801	middle
+215803	active
+215805	middle
+215808	active
 active
-215792	active
-215794	active
-215799	passive
-215809	active
 215811	active
-215820	active
+215813	active
+215815	active
+215818	active
 active
-215826	active
+active
+215823	active
+215825	passive
 215828	active
-215832	active
-215834	active
-215847	passive
-215849	active
+215830	active
+active
+215836	active
+215838	active
+215841	middle
+215843	active
+215854	active
+215856	active
 215860	active
+215862	active
+215864	active
 215866	active
-215875	active
+active
+215874	active
+215878	active
+middlepassive
+215882	active
 215885	active
 215888	active
 215890	active
-215903	active
+215893	active
+215895	active
+215901	active
+215904	active
 215909	active
-215912	active
-215914	active
-215918	active
-215923	active
-215925	passive
-215928	passive
-215930	active
-215938	middle
-215943	active
-215945	middlepassive
-215949	active
-215955	active
-215957	active
-215963	active
 active
-215967	passive
+215915	active
+middlepassive
+215918	active
+215922	active
+215925	active
+215928	active
+215931	active
+215933	active
+215940	active
+active
+215945	active
+215947	active
+215952	active
+active
+215956	passive
+215962	passive
+215966	passive
+215970	active
+215975	active
+215981	active
 active
 215986	active
+215991	active
+215994	middlepassive
 active
-215994	active
-active
-215998	passive
-active
-216009	active
-216011	active
-216013	active
+215997	active
+216000	active
+216002	active
+216005	active
+216008	active
+216011	middle
 216015	active
-216017	active
-216026	active
-216028	passive
-216039	passive
-216046	passive
-active
-216054	active
-216058	middlepassive
+216018	active
+216020	active
+216024	active
 middle
-216062	active
-216072	active
-216077	active
+216028	active
+216030	middlepassive
+216033	active
+active
+216037	active
+216043	middlepassive
+216045	active
+216050	active
+middlepassive
+216056	active
+active
+216061	active
+216064	middle
+216068	passive
+216071	active
+216076	active
 216083	active
+216087	active
+216090	middlepassive
 active
-216089	active
-216099	active
-216103	passive
-216105	active
-216113	active
-216115	passive
-216119	passive
-216135	passive
-216137	active
+216096	passive
+216098	active
+216102	middlepassive
+216104	middle
+216109	active
+216112	active
+216116	active
+active
+216119	active
+216124	active
+216126	active
+216128	active
+216130	active
+216134	active
+216141	middlepassive
+216148	active
+216153	active
 216155	active
-216159	active
-216164	active
-216169	middle
-216173	active
-216181	middle
-216196	active
-216202	active
-216208	middle
-216210	middle
-216214	middlepassive
-216233	active
-216235	middle
-216239	active
-216242	active
-216247	passive
-216251	active
-216258	active
+216158	active
 active
-216274	active
-passive
+216163	active
+216167	active
+216169	active
+216174	active
+216177	active
+216180	active
+216182	active
+216186	active
+active
+216191	active
+216199	active
+216203	active
+216207	active
+216211	active
+active
+216215	active
+216230	active
+active
+216233	active
+216238	active
+216240	active
+216243	active
+216248	middlepassive
+216251	active
+216256	active
+216258	passive
+216264	active
+216270	active
+216272	active
 216277	active
 216279	active
-216292	active
-216295	middle
-216299	middlepassive
-216304	active
-216315	active
-216318	active
-216320	active
-216333	active
-216335	active
-216339	active
-middle
-216343	active
-216345	passive
-216350	active
-216359	middle
-216365	active
-216367	active
-216374	passive
-216376	active
-216381	middle
-216385	passive
-216390	active
-216393	active
-216404	active
-middle
-216412	active
-216419	active
-216425	middle
-216433	active
+216283	active
+216286	active
+216296	middlepassive
 active
-216436	middlepassive
-216438	active
-216449	active
-216451	middle
-216453	active
-216457	active
-216459	active
+216300	active
+216303	active
+216305	active
+216309	active
+216312	middle
+216314	active
+216317	middlepassive
+216324	active
+216327	active
+216331	active
+216333	active
+216337	middle
+216349	active
+216353	active
+216356	active
+active
+216360	active
+216362	passive
+216367	active
+216370	active
+216373	active
+216381	active
+216384	active
+active
+216390	middle
+216393	active
+216397	active
+216401	active
+216405	active
+216409	middle
+216413	middle
+216415	active
+216420	active
+216424	active
+216426	active
+216431	active
+216434	active
+216437	active
+216444	active
+216451	active
+216454	active
+216458	active
+216462	active
 216466	active
 216470	active
-216473	passive
-216480	active
-216484	passive
-passive
+216472	active
+216475	passive
+216479	active
+active
+216483	active
+216485	active
+216487	middlepassive
 216490	active
-216497	passive
-216501	middle
+216492	passive
+216494	middlepassive
+216501	active
+216504	active
 216506	middle
-216508	active
-216517	middlepassive
-216519	active
-216525	active
+216509	middle
 active
-216539	middle
-216544	active
-216551	passive
-216565	active
-216571	active
+216513	active
+216515	middlepassive
+216523	active
+216527	active
+216530	active
+216534	middle
+216538	active
+middlepassive
 active
-216580	middle
-216602	active
-passive
-216611	active
-216619	active
-passive
-216626	middle
-216629	middlepassive
+216543	active
+216551	active
+216557	active
+216559	active
+216564	active
 active
-216639	active
+216569	active
+216573	active
+216577	active
+216579	active
+216586	middlepassive
+216588	active
+216592	active
+216601	active
+216603	active
+216607	active
+216612	active
+216617	middlepassive
+active
+216623	active
+216625	passive
+216630	passive
+216632	active
+216637	active
+216639	passive
+216641	active
+216647	active
 216649	active
-216656	active
-216666	middle
-216668	active
-216674	active
-216678	middle
-216692	middlepassive
-216697	middle
-middlepassive
-216700	active
-216710	active
-216712	active
-216714	passive
-216719	active
-216721	active
-216730	active
-216733	active
-216737	active
-216741	active
-216748	active
-216752	active
-216759	active
 middle
-216765	passive
-216780	active
-216782	middlepassive
-216787	active
-216795	passive
+216652	middle
+216655	passive
+216659	active
+216661	middle
+216664	active
+216669	active
 active
-216803	active
-216807	middle
-216816	active
-middlepassive
-216821	active
-216829	active
-216831	active
+216678	active
 active
+216689	active
+216691	active
+216696	active
+216703	active
+216707	passive
+216709	active
+216713	active
+216716	active
+216721	active
+216726	active
+216732	active
+216734	active
+216737	middlepassive
+216740	active
+216746	active
+216748	active
+216753	active
+216758	active
+216762	active
+216766	middle
+216769	middle
+216772	active
+216776	active
+216779	active
+216783	active
+216786	active
+216791	active
+216794	middlepassive
+216796	active
+216801	active
+active
+216806	active
+216810	active
+216813	active
+216819	active
+216822	middle
+216827	active
+216830	active
 216834	active
-216841	active
-216843	passive
-216845	active
-216848	passive
-216855	middlepassive
-216862	active
-216867	active
-216871	middlepassive
-216873	active
-216882	active
-216901	active
-216906	active
+216837	active
+216844	active
+216846	active
+216850	active
+216853	active
+216856	active
+216863	active
 active
-216912	active
-216916	active
+216868	active
+216870	active
+216874	active
+216879	active
+216884	active
+216888	active
+216892	active
+216896	active
+216899	active
+216910	passive
+216915	passive
 active
 216920	active
-active
-216927	active
-216930	active
-216934	active
-216942	active
-active
-216951	active
-216956	active
+216924	active
+216934	middlepassive
+216936	active
+216940	active
+216944	active
+216946	active
+216950	passive
+216952	active
+216955	middlepassive
+216959	active
 216961	active
-216963	middle
-216973	active
-216982	active
-216990	active
-216997	active
-217009	active
+216963	active
+216967	active
+216970	active
+216976	active
+216980	active
+216983	active
+216987	active
+216994	active
+216997	middle
+217000	active
+217002	active
+217007	active
+217010	active
+217014	active
 217017	active
-217035	active
-217037	middlepassive
+217023	active
+217025	active
+217029	active
+217033	active
+217036	active
+217040	passive
 active
-217053	passive
-217064	active
-217072	active
-middle
+217045	active
+217047	active
+217058	active
+217065	active
+217068	active
+217077	passive
+217080	active
+217082	active
+217085	middlepassive
 active
-217084	active
-217097	middle
+217090	active
+217094	active
+217100	active
 217104	active
-217107	active
-217117	active
-217121	passive
-217136	active
-217145	active
 active
-217148	active
-217165	active
-217179	middlepassive
-217181	middlepassive
+217107	middlepassive
+active
+217112	active
+217116	middle
+217118	active
+217122	active
+217125	active
+217127	active
+217131	active
+217133	active
+217138	active
+217144	middle
+217146	active
+217153	active
+217155	active
+217160	active
+217166	middle
+217170	active
+217173	active
+217176	active
+217178	active
+217181	active
 217183	active
-217185	passive
-217188	active
-217197	active
-217199	active
-217217	active
-217220	middlepassive
-217222	active
-217230	active
-217237	passive
-217251	middle
-217255	active
-217257	active
-217265	active
-217277	middle
-217297	passive
-217302	middle
-217313	middlepassive
 active
-217320	middle
-217335	passive
-217341	middle
-217343	active
-217346	active
-217349	active
+217187	active
+217189	active
+217191	active
+217194	active
+217197	active
+217201	active
+217207	middle
+217209	active
+217212	active
+217214	active
+217218	passive
+217220	passive
+217225	middle
+217228	active
+217230	active
+217232	active
+217237	active
+217240	active
+217245	passive
+217254	active
+217257	middle
+217260	passive
+217267	active
+217275	active
+217277	active
+217280	active
+217282	active
+217289	active
+217294	active
+217296	middle
+217303	active
+217305	middlepassive
+217308	active
+217314	active
+217322	middle
+217325	active
+217329	active
+217335	active
+217340	active
+217342	active
+217347	active
+active
 217352	active
 217356	active
-active
-217359	active
-217361	active
-217369	active
-217376	passive
+217359	middlepassive
+217362	active
+217365	active
+217368	active
+217372	active
+217374	active
+217376	active
+217381	active
 217385	active
-217388	active
-217399	active
+217387	active
+217390	active
 middle
-active
-217407	active
+217395	active
+middle
+middlepassive
+217400	active
+217402	passive
+217408	active
+217411	active
+217416	active
+217418	active
+217423	active
+217427	active
+217429	active
 217431	active
+217434	active
 217437	active
-217443	passive
-active
-217452	passive
-217465	middle
-217474	active
-middle
+217442	active
+217444	active
+217446	active
+217451	active
+217454	active
+217461	active
+217463	active
+217468	active
+217471	active
+217477	active
+217480	active
+217484	active
+217486	active
 217488	active
-217496	active
-217506	middle
-217512	passive
+217491	active
+217498	active
+217501	active
+217503	active
+217508	active
+217513	active
+217516	active
+217520	active
 217522	active
-217524	active
+217526	active
+217529	active
+217533	active
 217535	active
-217547	middlepassive
+217539	active
+217541	active
+217545	active
+217547	active
 217551	active
-217553	passive
-217562	active
-217568	active
+217554	active
+217557	active
+217561	active
+217565	active
 217570	active
-active
-217580	active
-active
-217584	active
-217587	active
-217589	active
+217575	passive
+217579	active
+217586	active
+217589	middlepassive
 217591	active
-217594	active
-217596	middle
+217597	active
 217600	active
-active
-217603	active
-217606	active
-217610	active
-217613	active
-217623	passive
-217625	active
-217628	passive
-active
-active
-217684	active
-217688	middle
-217690	active
-217692	middle
-217695	active
-active
-217698	active
-217706	active
+217605	middle
+217608	active
+217614	active
+217617	active
+217621	middle
+217629	passive
+217633	middlepassive
+217636	active
+217640	active
+217644	passive
+217647	active
+217653	active
+217657	active
+217663	active
+217666	active
+217668	active
+217674	active
+217681	active
+217685	active
+217688	active
+217696	active
+217699	active
+217703	active
 217710	active
-217714	active
 217718	active
-217727	active
-217730	active
-217734	active
-active
-active
-217745	active
+217723	active
+217731	active
+217741	active
+217744	active
+217748	active
+217752	active
 217754	active
-217756	active
-217767	active
-217769	active
-active
-217775	active
-active
-217781	active
-passive
-217784	active
-active
-217791	active
-217795	active
-217805	active
-217811	passive
-217819	active
-217823	active
-217828	active
-passive
+217757	active
+217771	active
+217776	active
+217778	active
+217782	active
+217785	active
+217787	active
+217790	active
+217793	active
+217796	active
+217801	active
+217804	active
+217813	active
+217817	active
+217820	active
+217824	active
+217826	active
+217831	active
 217835	active
-217840	middlepassive
+217838	active
 217842	active
+217844	active
 217853	active
 217855	active
-217857	active
-217865	active
-217867	active
-217874	active
-217880	middlepassive
-217883	active
-217889	middlepassive
-217892	active
-217905	middle
-217914	active
-217917	passive
-217921	passive
+217859	active
+217862	active
+217867	passive
+217875	active
+217884	middlepassive
+217891	active
+217893	middlepassive
+217895	active
+217897	active
+217900	active
+middle
+217904	active
+217907	active
+active
+217911	active
+217916	active
+217919	active
+active
+217924	active
+217928	active
 217931	active
-217941	passive
-217947	active
+217934	active
+217936	middle
+217938	active
+217942	active
+217946	active
+active
 217949	active
-217952	active
+217951	passive
+217954	active
+217956	active
+217959	active
 217963	active
-active
-active
-217970	middle
-passive
+217965	active
+217968	active
 217973	active
-217980	active
-217982	passive
-217989	active
-218000	middle
-218003	passive
-218006	middle
-218011	active
-218018	middlepassive
-218020	middle
-active
-218033	active
-218035	middlepassive
-218040	active
-218046	active
-218050	middlepassive
-active
-218053	passive
+217978	active
+217983	active
+217987	active
+217993	active
+217996	active
+218006	active
+218009	active
+218012	active
+218015	active
+218020	active
+218024	active
+218027	active
+218030	active
+218032	active
+218035	active
+218043	active
+218047	active
+218055	active
 218059	active
-218074	active
+218068	active
+218071	active
+218073	active
 218082	active
-218093	active
-218096	active
-218100	active
-218106	active
-218115	active
+218085	active
+218088	active
+active
+218095	active
+218098	active
+218100	middlepassive
+218109	active
 218118	middle
-218124	active
+218123	active
 218127	active
-218136	middle
-218145	active
-218147	active
-218151	passive
-active
-218156	active
-218161	passive
-218176	active
-218178	middlepassive
+218135	middlepassive
+218138	active
+218142	active
 active
 active
-218182	active
-218187	active
-218189	active
-218193	active
-218205	passive
+218146	active
+218148	active
+218150	active
+218152	active
+218157	active
+218160	active
+218162	active
+218165	active
+218167	middlepassive
+218169	middle
+218174	active
 active
-218209	active
-218212	active
+218183	active
 active
-218215	passive
-218217	active
-218219	active
+218188	passive
+218194	active
+218201	active
+middle
+218205	active
+218207	active
 active
-218222	passive
-218228	active
+218216	active
+218218	active
+218223	active
+218229	middle
+218234	active
 active
-218232	active
-active
-218236	active
-passive
-218247	active
-218258	active
-218261	active
+218242	active
+218248	active
+218253	passive
+218255	active
+218257	active
 218263	active
-218270	active
+218266	active
+218269	middle
+218271	active
+218280	active
+218282	active
+218286	active
+218293	active
+218295	active
+218300	active
 active
-218275	active
-218292	active
-218297	active
-218301	active
+218307	passive
+218309	active
 active
-218306	active
-218308	middle
-218313	active
+218312	active
 active
-218319	active
-218329	active
-218340	active
+active
+218321	active
+218324	active
+218327	active
+218331	middle
+218336	active
+218339	active
+218342	middle
 218346	active
 218352	active
-218358	active
-218364	active
-218373	passive
-passive
-218380	active
-218391	passive
-218393	passive
-218400	active
-218404	active
-218415	active
-218427	active
-218435	middle
-218444	active
-218449	active
-218464	passive
-active
-218474	active
-218477	active
-218484	active
-active
-218492	active
-218496	active
-218503	active
-218506	active
-218513	active
-218517	active
-218521	active
-218528	active
-218534	middlepassive
-218540	active
-218544	active
-active
-active
-218555	active
-218557	active
-active
-passive
-218561	passive
-218563	middlepassive
-218565	active
-218576	active
-active
-218580	middlepassive
-218594	middle
-218599	active
-218602	active
-218613	active
-218620	active
-218625	active
-218628	active
-218633	active
-218642	active
-218647	passive
+218356	active
 middle
+218363	active
+218371	active
+218378	middlepassive
+218381	passive
+218389	active
+218391	active
+218397	active
+218399	middle
+218402	active
+218405	active
+218408	passive
+218411	active
+218415	active
+218418	active
+218421	active
+218424	active
+218428	active
+218432	active
+218434	active
+218438	active
+218442	active
+218445	active
+218450	active
+218454	middlepassive
+218456	active
+218461	active
+218464	active
+218468	active
+218474	active
+218478	active
+218481	active
+218484	active
+218489	active
+218492	middlepassive
+218495	active
 active
-218658	active
-218660	active
-218664	passive
-218675	middle
-218682	middle
-218700	passive
-218718	active
-218721	active
-218731	active
-218738	middle
-218745	middle
-218759	active
-218762	active
-218771	middle
-218778	active
-218782	active
-218797	middlepassive
-218801	active
-218809	active
-218822	active
-218833	active
-218837	active
-218846	active
-218858	active
-218870	active
-218876	middle
+218501	active
+218505	active
+218510	active
+218512	active
+active
+218518	active
+218521	active
+218523	active
+218527	active
+218534	active
+218536	middle
+218540	active
+218545	active
+active
+active
+active
+active
+218552	active
+218556	active
+218560	active
+218563	middle
+218568	active
+218572	active
+active
+218577	active
+218580	active
+218585	passive
+218587	active
+218592	active
+218595	active
+218601	active
+218603	active
+218608	active
+active
+218612	active
+active
+218617	active
+active
+218620	middle
+218623	active
+218632	active
+218636	active
+218639	active
+active
+218644	active
+active
+218648	active
+218650	active
+218656	active
+active
+218661	active
+218664	active
+218668	active
+218672	passive
+218677	active
+218682	active
+218685	active
+218687	active
+218690	active
+218693	active
+active
+active
+218697	active
+218702	active
+middle
+218706	active
+218713	active
+218717	passive
+active
+218722	active
+218725	active
+218727	passive
+218730	passive
+218735	active
+218743	active
+218748	active
+218761	active
+218765	active
+218769	passive
+218773	active
+218779	active
+218786	active
+218788	active
+218790	middle
+218793	active
+active
+218798	active
+218800	active
+218804	active
+218810	active
+218818	active
+218821	active
+218824	active
+218827	middle
+218830	passive
+middle
+218839	active
+218845	active
+active
+218865	active
+218869	active
+218871	active
+active
+218875	active
+218879	active
+218881	active
 218888	active
 218894	active
-active
-218899	active
+218899	passive
+218901	passive
 218903	active
-218905	active
-218910	active
 active
-218915	passive
-218921	active
-218945	active
-218952	active
-218959	active
-218968	active
-218971	active
+218906	middlepassive
+218913	active
 active
-218975	middle
-218979	active
-218987	active
-219000	middlepassive
-219014	active
+218919	active
+218922	active
+passive
+218925	active
+218927	active
+218933	active
+218936	active
+218942	active
+218949	active
+218952	passive
+218956	passive
 active
-219018	active
-219025	active
+218965	active
+218968	passive
+218973	active
+218975	active
+218978	active
+active
+218988	active
+218990	active
+218994	active
+active
+218999	active
+219003	active
+219006	active
+219009	active
+middle
+219015	passive
+219018	passive
+219022	active
+middle
+219026	active
+219029	active
+219033	active
+219036	passive
+219043	active
 219048	active
+219050	active
+219053	active
+219056	active
+219059	active
 219063	active
-219066	active
-passive
+219068	active
 219074	active
-219078	active
-219082	active
-219085	active
-219094	active
-219111	active
-219118	active
-219132	active
-219136	active
-219138	active
-219151	active
-219155	active
-219168	active
+219081	active
+219083	active
 active
+219089	passive
+219107	active
+219109	active
+219116	middlepassive
+219120	active
+219124	active
+219126	passive
+219129	active
+219132	middlepassive
+219139	active
+219142	active
+219144	active
+219150	active
+219152	active
+219154	active
+219161	middlepassive
+219164	active
+219171	active
+219175	active
 219180	active
-219182	active
-219184	passive
-219195	passive
-219219	middle
-219230	active
-219232	passive
-219246	active
+active
+middlepassive
+219186	active
+middlepassive
+219190	active
+219193	active
+219197	active
+219199	middlepassive
+219203	active
+219209	middlepassive
+219212	passive
+219217	active
+219221	active
+219226	active
+219228	active
+219231	active
+219233	active
+219236	active
+active
+219244	active
+219248	active
+219251	active
+active
 219256	active
-219259	middlepassive
+219260	middlepassive
+219269	middlepassive
+219274	active
+219279	active
 active
-219262	active
-219264	middle
-219273	active
-219275	active
-219280	active
-219282	active
-219294	passive
-219303	active
-219305	middle
-active
-219315	active
-219324	active
-219331	passive
-active
-219335	passive
-219340	passive
-219350	active
-219356	passive
-219364	active
-219370	passive
-219376	active
-219385	passive
-219389	active
-219398	active
-219402	active
-active
-219407	passive
+219283	active
+219288	active
+219290	active
+219293	active
 passive
-219413	active
+219298	active
+219300	active
+219303	active
+219306	active
 active
-219416	active
-219423	active
-219426	passive
-219431	passive
-219443	active
+219312	active
+219314	active
+219316	active
+219319	active
+active
+219325	active
+219327	active
+219330	active
+219334	active
+active
+219339	passive
+219341	active
+219345	passive
+219347	active
+219352	middle
+219355	active
+219358	middlepassive
+219364	active
+219366	active
+219376	middlepassive
+219378	active
+219381	active
+219385	active
+219387	active
+219396	passive
+219398	active
+219404	active
+219407	active
+219411	active
+219417	active
+active
+219424	passive
+219427	active
+219429	active
+219437	active
+219441	active
+219445	active
+active
+219448	active
+219450	active
+219453	active
+219455	passive
+219458	active
 passive
 219464	passive
-219466	middlepassive
+219467	active
 219470	active
-active
-219478	active
-219496	active
-219511	middle
-219518	passive
-219532	active
-219543	passive
-219554	active
-219556	passive
-219559	active
-219575	active
-219579	middle
-219582	active
-219589	active
-219599	active
-active
-active
-219612	active
-219618	middle
+219472	active
+219477	active
+219481	active
+219485	active
+219493	active
+219501	active
+219508	active
+219513	active
+219520	middlepassive
+219523	passive
+219525	active
+219529	active
+219533	active
+219535	active
+219540	active
+219544	active
+219548	active
+219553	middlepassive
+219557	middle
+219560	active
+219567	active
+219571	active
+219573	active
+219576	active
+219578	active
+219584	active
+219596	passive
+219598	active
+219601	active
+219608	active
+219610	active
+219615	active
+219624	active
 219627	active
-219632	active
-219640	active
-219645	active
-219647	middle
-219658	active
-219665	active
-219669	active
-219671	active
-219677	active
-219684	active
-219689	middlepassive
+219630	passive
+219646	active
+219648	active
+active
+active
+219652	middlepassive
+219655	active
+219657	active
+219664	active
+219669	middlepassive
+active
+219676	active
+219680	active
+active
+219687	active
+middle
 219693	active
 219695	active
-219698	active
-219700	active
-219707	active
+219703	active
+active
 219709	active
 active
-219718	active
+219715	active
 219720	active
-219734	active
-219741	active
-219746	middlepassive
-219752	middle
+219724	active
+219726	active
+219729	active
+219731	middle
 active
-active
-passive
-active
-219773	active
-219779	active
-219781	middle
-219784	active
+219736	active
+219744	active
+219746	active
+219754	active
+219760	active
+219763	active
+219765	middlepassive
+219768	middlepassive
+219771	active
+219774	active
+219778	active
+219780	active
+219782	active
 219791	active
+219793	passive
+219795	active
+219798	active
 active
-219804	active
+219801	active
+219803	active
 219807	active
-219812	active
-219818	middle
-219824	active
-219835	active
-219841	active
-219843	active
-219846	active
-219854	active
-219860	active
-219870	active
-middlepassive
-219879	active
-219885	middlepassive
-219892	active
 active
+219811	active
+middlepassive
+219815	active
+219818	active
+219825	passive
+219828	passive
+219832	active
+active
+219837	active
+219840	active
+219845	active
+219847	active
+219849	active
+219851	active
+219854	active
+219859	active
+219861	active
+219866	active
+219868	active
+219870	active
+219872	active
+219875	active
+219879	active
+219881	passive
+219884	active
+219887	active
+219890	active
+219895	active
+219897	active
 219899	active
 219901	active
+219904	active
+219907	active
+219910	active
+219912	active
+219915	active
+219917	active
+219920	active
 active
-219916	middle
-219930	active
-219937	passive
+219926	active
+219929	active
+219932	active
+219935	active
+active
+219938	active
 219942	active
+active
+219945	active
+219947	passive
+219949	active
 219952	active
 219954	active
 219957	active
-219960	passive
+219964	active
+219967	active
+active
 219972	active
-219979	active
-219981	active
-219984	active
-219992	passive
-219995	middlepassive
-220002	active
-220008	active
-220013	active
-220016	active
-220019	active
+219974	active
+219980	active
+219985	active
+active
+219988	middlepassive
+219993	active
+active
+220003	active
+active
+220010	active
+220014	active
+active
+220017	middlepassive
 220021	active
-220026	passive
-220039	active
-220042	active
-220045	active
-220059	middle
+220023	active
+220026	active
+220029	active
+220034	active
 active
-220066	passive
-220071	passive
-220077	middlepassive
-220084	active
-220091	active
-220093	active
-220095	active
-220104	active
+220040	active
+220044	passive
+220048	middlepassive
+220050	active
+220053	passive
+220056	middle
+220061	middle
+220067	middlepassive
+220072	middle
+passive
+220076	active
+220078	active
+220080	active
+220086	middlepassive
+220089	active
+220096	middlepassive
+active
+220101	passive
+220103	active
 220108	active
+220113	active
+220119	passive
+220127	active
 active
-220111	active
-220114	middle
-220116	active
-220119	active
-active
-220136	active
+220130	active
+220135	active
 220138	active
-220141	active
-220145	active
-220148	active
-220158	middlepassive
-220161	active
-passive
-220171	middlepassive
-220178	active
-220186	middlepassive
+220142	active
 active
-220201	active
-220208	active
-220214	active
-220225	active
-220237	active
-220251	active
-220257	active
+220147	middle
+220152	middle
+220154	active
+220159	middle
+220174	active
 active
-220261	active
+220177	passive
+220180	active
+220190	middlepassive
+220192	middle
+220194	active
+220200	active
+220204	active
+active
+220210	passive
+220215	middle
+220217	middle
+220219	middlepassive
+220223	active
+220226	passive
+220229	active
+220232	active
+220235	active
+220238	active
 220270	active
-220272	active
-220276	active
-220289	active
-220295	middlepassive
-220297	middle
+220275	active
 active
-220306	active
-220309	active
-220311	passive
-active
-220327	active
-220334	active
-220336	active
-220349	active
-220357	active
-220369	active
-220371	active
-220379	passive
-220384	active
-active
-220390	passive
-220396	passive
-220399	passive
-220405	middle
-220408	active
-220411	active
-active
-220420	active
-220423	passive
-220426	active
+220285	active
 passive
-220430	passive
-220434	passive
+220289	active
+220296	middle
+220298	active
+220304	active
+220312	middle
+220319	middle
 active
-220438	middle
+220323	passive
+220329	middle
+220331	active
+220334	passive
+220341	active
+220343	passive
+220347	passive
+220353	active
 active
-220446	active
-220453	middle
-220467	passive
-220477	passive
-220513	active
-220521	active
-220523	active
-220528	active
-220531	middlepassive
-220533	middlepassive
-220538	active
+220359	active
+220361	active
+220365	active
+220373	middle
+220380	passive
+220386	middle
+220389	active
+passive
+220393	passive
+220397	middle
 active
-220542	middle
-220544	middlepassive
-220557	active
+220401	active
+220403	middle
+220408	active
+220415	active
+220417	passive
+220423	active
+220427	active
+220431	passive
+220437	passive
+220441	active
+220447	middle
+220453	passive
+220456	active
+220462	passive
+220464	middlepassive
+220469	active
+220474	passive
+220478	middle
 active
-220567	active
-220576	active
-220582	active
-220598	active
-220600	passive
-220606	active
-220618	active
-220627	active
-220631	active
-220636	active
-220646	active
+220483	active
+middlepassive
+220496	middle
+220500	active
+220503	passive
+220505	active
+220509	active
+220511	middle
+220514	active
 active
-220657	active
+middle
+220518	active
+active
+220524	active
+220530	passive
+220534	active
+220551	active
+220555	active
+active
+220563	middle
+220567	middle
+220570	active
+220572	active
+220574	active
+220577	active
+active
+220582	passive
+220587	active
+220591	middle
+220596	active
+220601	active
+220603	middle
+220609	active
+220611	active
+active
+220619	active
+passive
+220624	middle
+220628	active
+220630	active
+220637	active
+220647	middle
+220652	passive
+220665	active
 220670	active
-220679	passive
-active
-220682	active
+220672	active
+220686	passive
+220691	active
 220697	middle
-220700	active
-220702	active
-220707	active
-220710	middle
-220721	active
-220732	active
-220734	active
-220738	middle
+220700	middle
+220703	passive
+220706	active
+220711	passive
+220718	active
+220725	active
+220730	passive
+220736	active
+active
+220740	active
+active
 220747	active
-220750	active
-220755	active
-220758	middle
+220749	passive
+220754	active
+220756	middle
+220763	active
+220766	passive
+220768	passive
+220772	middle
+220780	active
+220784	active
+220789	active
+220792	active
+220794	active
+220797	active
+220805	active
 active
-220767	active
-220769	passive
-220778	active
-active
-220786	active
-active
-220794	middle
-220801	middlepassive
-active
-220813	active
-active
+220817	active
 220824	active
-220827	passive
+220826	active
+220829	active
+220836	active
+220840	active
 active
-220831	active
-220843	active
-220848	active
-220852	active
+220848	passive
+220853	active
 220857	active
 220861	active
-220864	active
-220866	active
-220880	middle
+220867	passive
+220874	active
+220877	active
 220885	active
-220892	active
+220888	active
+220891	active
+220895	middlepassive
+220899	active
+220907	active
+220913	active
+220919	active
 active
-220896	middlepassive
-active
-220903	active
-220909	active
-220911	active
-220914	passive
-220921	active
-220928	passive
-220930	active
-220934	passive
-220939	active
-220944	active
-220948	active
-220956	active
-220960	active
-middlepassive
-220966	middlepassive
+220922	passive
+220924	active
+220932	active
+220938	active
+220940	passive
+220950	middle
+220957	active
+220967	middle
+220973	middle
+220975	active
+220977	active
 passive
-220977	middle
-220984	active
-220993	active
-221009	active
-active
-221017	active
-221019	active
-221023	middle
-221030	active
+220986	middle
+220989	passive
+220991	passive
+221009	middlepassive
+221018	middlepassive
+221021	active
+221024	active
+221031	active
+221033	active
+221039	active
+221042	active
+221046	active
+221050	active
+221055	active
+221058	active
+221065	active
 passive
-221048	active
-221050	passive
-221054	middlepassive
-221062	active
-221071	middlepassive
-221075	active
-221079	active
-221089	active
-221092	active
-221097	active
-221099	active
-221106	active
-221108	middle
+221072	active
+221087	active
+passive
+221090	active
+221096	passive
+221098	active
+221101	middlepassive
+221105	active
+221107	active
+active
+221111	active
+221113	active
+active
 221120	active
+active
+221125	active
+221127	active
 221130	active
-221132	active
-221141	active
-221144	active
-221146	active
-221157	passive
-221160	middlepassive
-221166	active
-221169	middle
+active
+221136	active
+221140	active
+221143	active
+221148	active
+221150	active
+221154	active
+221158	passive
+221164	middlepassive
+active
+221167	active
+221169	active
 221173	active
-221181	passive
+221175	middlepassive
+221177	active
+221180	active
 221184	active
-221188	middlepassive
-active
-221199	active
-221201	active
-active
-221205	active
-221210	passive
-221215	active
-221220	middle
-221222	active
-221224	active
-221228	active
-221230	active
-221233	passive
-active
+221186	active
+221188	active
+221193	active
+221196	middlepassive
+221203	passive
+221206	active
+221208	active
+221214	active
+221220	passive
+221223	active
+221226	middle
+221232	active
 221237	active
-221240	active
-221242	middle
+221241	active
 active
-active
-221249	active
-221258	active
-221260	active
-active
+221252	active
+221257	active
+221259	middle
+221262	active
 221264	active
-221266	active
-active
-221277	middle
-221290	middle
-221313	passive
-221316	active
-221329	passive
-221340	middle
-active
-221344	middle
-221347	active
-221350	middle
-221359	active
-221363	active
-221365	active
-221367	middlepassive
-221371	active
+221269	middle
+221271	middle
+passive
+221278	active
+221281	active
+221286	active
+221295	active
+221302	active
+221311	active
+221314	active
+221322	active
+221327	active
+221330	active
+221335	passive
+221339	active
+221345	active
+221348	passive
+221351	active
+221353	middle
+221358	active
+221369	active
 221373	active
-221375	active
-221377	passive
-active
-221384	middle
-active
-221389	active
-221397	passive
-221399	active
-221406	passive
-middlepassive
-221410	middlepassive
-221412	middle
-221419	active
-221424	active
-221426	passive
-221431	active
-active
-221454	active
-middle
-passive
-221463	active
-221469	active
+221381	middle
+221385	active
+221387	middle
+221392	active
+221395	passive
+221407	active
+221409	active
+221413	active
+221421	middle
+221425	active
+221431	passive
+221438	active
+221442	active
+221444	active
+221447	active
+221452	active
+221457	active
+221466	middlepassive
+221468	active
 221472	active
-221474	active
+221479	active
+221483	middle
+221487	active
+221493	active
+221495	active
+221497	passive
+221502	middle
+221506	passive
+221521	active
+221525	active
+221529	middlepassive
+221535	active
+221540	passive
+221542	active
+221550	passive
+221556	passive
+221558	active
+221571	active
+221574	active
+221578	active
+221582	active
+221584	passive
+221587	middle
+221592	active
+221599	active
+221602	passive
+221605	active
 passive
-221477	middlepassive
-221484	middle
-221488	active
-221504	active
-221509	active
-middle
-221513	middle
-221518	active
-221524	passive
-221528	active
-221536	active
+221608	active
+221615	middle
+221618	active
+221621	active
 active
-221541	active
-221546	active
-221548	middle
-middle
-221552	active
-221557	active
-221568	middle
-221572	active
-221583	active
+221628	active
+221631	active
+221633	active
 passive
-221588	active
-221593	passive
-221595	active
-221600	middle
+221636	active
 active
-221606	passive
-221614	passive
-221626	active
-passive
-221632	active
-221637	active
 active
-221640	active
-221645	middle
-221654	active
-221657	passive
-passive
+221643	active
 active
-221669	active
-221671	active
-221673	active
-221676	active
-221679	middle
-221687	middlepassive
-221693	active
-221695	passive
-221698	active
-221700	passive
-active
-221706	active
-221709	active
-221714	active
-221741	active
-221744	middle
-221750	active
-active
-221758	middle
-221761	active
-active
-221764	passive
-221776	active
-221781	middlepassive
-221783	active
-221787	middle
-221800	active
-221805	active
-221810	active
-221813	active
-221826	active
-221828	passive
+221646	active
+221648	active
+221655	active
+221658	active
+221663	middlepassive
 middlepassive
+221669	passive
+221672	middle
+221675	active
+221681	active
+221683	active
+221694	passive
+active
+221699	active
+221703	active
+221707	active
+221709	middlepassive
+221715	active
+221718	middle
+active
+221722	active
+221724	middle
+221730	active
+221733	active
+221736	active
+221740	active
+221745	passive
+221747	active
+221751	active
+221757	active
+221760	active
+221762	active
+221767	active
+221770	active
+221786	active
+221789	active
+221793	active
+221795	active
+221801	passive
+221810	passive
+221821	active
+221827	active
 221833	active
-221835	middle
-221840	middlepassive
-221844	active
-221847	active
-221849	active
-221851	active
+middle
+221838	active
+221843	active
+221848	active
+221853	active
+221858	middlepassive
+221866	passive
+221868	passive
+221873	passive
+221878	active
+221887	active
 active
-221854	active
-221856	active
-221858	passive
-221861	active
-221866	active
-221869	middlepassive
-active
-221872	active
-221874	active
-221876	passive
-221879	active
-221881	active
-221887	middlepassive
-active
-221890	middle
 221894	active
-221902	passive
+221896	active
+221898	active
+221900	active
 221906	active
-221912	active
-221935	active
-221938	active
-221943	active
+221915	active
+221921	active
+221927	active
+active
+active
+221932	passive
+221934	active
+221939	passive
 221945	active
-221949	active
-221951	active
-221960	active
-221969	active
+221947	passive
+221956	active
+221959	active
 active
-221972	passive
-221978	active
-221990	passive
+221963	active
+221976	active
+221979	middle
+221982	active
+221986	active
+221992	active
+active
+221998	active
+222002	middle
+222008	middle
+222013	active
+222015	active
+222017	passive
+222021	active
+222024	middle
+222030	middle
+222034	active
+222039	active
+active
+222042	middle
+222046	active
+active
+222050	active
+222053	active
+active
 middle
-221997	middlepassive
-222004	passive
+222064	active
 active
-222011	middlepassive
-222017	active
-222054	middlepassive
 active
-222061	active
-222068	middlepassive
-222073	middlepassive
-active
-222084	active
-222086	active
-222089	active
-active
-222095	active
+middle
+222071	active
+222075	middle
+222078	active
+222086	passive
+222088	active
+222091	middle
+222094	active
+222100	active
 222102	active
-222107	active
+222109	active
 active
-222112	active
-middle
-222115	active
+222113	active
+222117	active
 active
 222123	middle
-active
-222127	active
-active
-222133	middlepassive
-222137	active
-222142	active
-222144	middle
-222147	active
+222131	active
+222138	middlepassive
+222144	active
 222153	active
-222160	middlepassive
-222170	active
+passive
+222157	active
+222162	passive
+active
 222172	active
+222175	active
+222179	middlepassive
+222183	active
+222185	middlepassive
+222193	active
+222195	passive
+222199	passive
 active
-222188	middle
-222195	active
-222197	middlepassive
+222207	active
+222210	passive
+222213	active
+222218	middle
+222225	active
+222229	active
+222232	active
+middlepassive
+222235	passive
 active
-222214	passive
-222218	passive
-222228	active
-222230	active
-222233	active
-222235	active
-active
-222238	active
-222241	active
-222251	active
-222254	active
-222263	active
-222267	middlepassive
-222269	active
-222271	active
-222281	active
-222290	active
-222295	active
-222302	active
-222313	middlepassive
-222317	active
-222319	active
-222322	active
-active
-222331	active
-222333	active
-222339	active
-222347	active
-222349	passive
-222352	active
-222359	active
-active
-222370	middle
-222377	active
-222389	active
-222398	active
-222401	active
-222406	active
-222409	active
-222414	active
-222419	active
-222421	active
-active
-222428	active
-passive
-222432	active
-222437	active
-222439	active
-222441	middlepassive
-222458	active
-active
-222464	active
-222469	active
-222479	active
-222484	active
-222492	active
-222505	active
-222512	active
-222520	active
-222526	active
-222528	active
-222532	middle
-222545	middle
-passive
-222548	passive
-passive
-222562	active
-222571	active
-222574	active
-active
-222587	active
-222593	active
-222599	active
-active
-222610	middle
-222616	middle
-active
+222245	active
+222247	active
+222253	active
 middle
-222627	active
-222630	active
-222641	active
-222643	passive
+222260	active
+222269	active
+222272	passive
+222277	middle
+222279	active
+222283	active
+222285	active
+active
+222289	active
+passive
+222295	active
+222298	active
+222302	active
+222305	active
+222314	active
+222317	middle
+222319	middle
+222322	active
+222325	middle
+222328	middle
+222335	active
+222338	active
+222342	active
+222346	middlepassive
+222350	passive
+active
+222354	active
+222358	active
+222361	active
+222363	active
+222366	active
+222371	middle
+active
+222377	middlepassive
+active
+222384	passive
+222388	active
+active
+active
+222399	active
+222402	middle
+active
+222408	active
+222411	active
+222418	active
+222427	active
+222429	active
+222433	active
+passive
+222436	middlepassive
+active
+222439	active
+222451	active
+222455	active
+active
+222461	active
+222467	active
+active
+222473	active
+222475	active
+active
+222480	passive
+222485	passive
+222489	passive
+222491	passive
+222493	middle
+222496	active
+222503	active
+222507	middle
+222511	passive
+222513	passive
+222516	active
+222518	active
+222523	active
+222527	active
+222534	passive
+222538	active
+222540	middle
+active
+222546	passive
+passive
+222551	middle
+222553	active
+active
+222556	active
+222562	active
+222565	middlepassive
+active
+222571	passive
+222574	passive
+222582	middle
+active
+222585	middle
+222592	active
+222594	middle
+222600	passive
+222607	middle
+222613	active
+222616	active
+222618	active
+222622	active
+222624	middle
+222632	passive
+222636	active
 222647	active
-222658	active
+222649	active
+222655	middle
+222667	active
+222671	middle
 active
-222671	active
+222679	active
+222681	passive
+222691	active
+222697	active
+222702	active
+222708	passive
+222716	active
+222720	active
 active
-222680	passive
-222682	active
+222726	active
+222728	active
+222730	active
+222732	active
+222734	active
+222739	active
+222747	active
 active
-222692	active
-222694	active
-222701	active
-222712	active
-222714	passive
-222718	active
-222731	active
-222738	active
-222741	active
+222751	active
+222754	active
 222758	active
-222766	active
-222768	active
-passive
-222779	active
-222781	active
-222783	active
+222762	middle
 active
-222786	passive
-222788	middle
-passive
-active
-222806	middlepassive
-active
+222771	active
+222774	active
+222778	active
+222782	active
+222785	active
+222789	active
+222792	middlepassive
+222795	active
+222800	active
+222805	active
+222808	active
 222811	active
-222816	middle
-222822	middlepassive
-222825	active
+222815	passive
+222818	active
+222823	active
+222827	active
 222829	active
 222837	active
-222839	active
-222853	active
-222855	active
-passive
-222860	active
+222842	active
+222844	active
+222847	active
+222851	active
+222854	active
+222862	active
+222865	active
+222872	middle
 active
-222868	active
+222883	active
+222886	active
+222891	middle
+222904	active
 active
-222873	passive
-active
-222878	middle
-222882	active
-222889	active
-222893	active
-222903	passive
-222914	active
-222923	active
-active
-222933	active
+222908	active
+222911	middle
+222913	active
+222919	active
+222924	active
+222927	active
 222941	active
-222949	active
-passive
-222953	passive
-active
-222964	active
-222966	active
-222968	active
-222970	passive
-active
-222983	active
+222943	middle
+222946	active
+222950	middle
+222957	active
+222963	active
+222965	middlepassive
+222971	active
+222982	active
 222986	active
-222990	passive
-222993	active
-222996	active
-222999	active
-223001	active
-223005	active
+222989	active
+222992	active
+222999	passive
+223005	middle
 223009	active
-223021	middlepassive
-223023	active
-active
-223033	active
-223040	middle
-223047	active
-223049	active
-active
+223012	middle
+223021	active
+223025	active
+223030	passive
+223033	passive
+223037	middle
+223046	active
+223051	active
+223059	active
+223064	active
+223067	middle
+223070	active
+223072	active
+223078	passive
+223081	passive
+223084	active
+223088	passive
+223094	passive
+223097	middle
+223102	middle
+223107	passive
+223111	active
+223119	passive
+223122	active
+223126	middle
+223132	active
+223134	passive
 middle
+223137	active
+223139	passive
 active
-223054	active
-223057	passive
-223063	middle
-223073	middle
-223087	active
-223092	active
-223100	active
-223108	active
-223110	middle
-223117	active
-223119	active
-223123	active
-223127	active
-223130	active
-223136	active
-223138	middle
-223145	active
-223148	active
-223161	active
-223190	active
-223194	active
+223142	active
+223144	active
+223150	active
+223156	active
+223160	active
+passive
+223163	middlepassive
+223165	active
+223168	active
+223171	active
+223174	active
+223177	active
+223179	middle
+223181	active
+223184	active
+223188	active
+223191	active
+223193	active
 223196	active
-223209	active
+223203	middle
+223208	active
+223211	passive
+223213	passive
+223225	active
+active
+223228	middlepassive
+223231	active
 middle
-223232	active
-223247	active
-223259	middle
-223265	active
-223275	middle
-223280	active
-223285	middlepassive
-223289	active
-223295	active
+223245	middle
+223248	active
+active
+active
+223254	active
+223262	active
+223264	active
+active
+active
+223276	active
+223278	active
+middle
+223283	active
+active
+223290	middle
+active
+223294	active
 223300	active
-223303	middle
+223303	passive
 223308	active
-223310	middlepassive
-223312	active
-223315	active
-223324	active
-223326	active
-223329	active
-223332	active
-223334	active
-223345	active
-223385	passive
-223391	middle
-223394	active
-223402	active
-223411	active
-223415	active
-223422	active
+223310	active
+223321	active
+223323	active
+223328	active
+223336	active
+middle
+223344	active
+223352	middle
+223354	active
+active
+223359	active
+223361	middle
+223365	middle
+223367	passive
+223372	active
+223374	active
+223377	middle
+223383	active
+223388	active
+223390	middle
+223393	active
+223398	active
+223402	passive
+223408	active
+223412	active
+223414	active
+223419	passive
 223424	active
-223427	passive
-223431	active
+223432	active
+223442	active
 active
-223437	active
-223440	middle
-223444	passive
-223456	passive
-223464	passive
+223446	active
+223452	active
+223458	middle
+active
+223461	active
 223466	active
-passive
-223471	active
-223487	middlepassive
-active
+223469	active
+middle
+223479	active
+223489	active
 223494	middle
-223496	active
-223501	passive
-223515	active
-223523	passive
-223530	active
-223536	active
-223540	active
-223557	active
 active
-223561	active
-223564	active
+223501	active
+223508	active
+223511	active
+223521	active
+223523	active
+223532	active
+223543	active
+223551	active
+223555	active
+active
+223565	middle
 223567	active
-223579	active
-223586	passive
-223594	active
-223598	passive
+223573	active
+active
+223577	passive
+223581	active
+223584	active
+223588	active
+223591	active
+223595	active
 223600	active
-223622	passive
-223625	passive
-223640	passive
-223643	active
+middle
 active
-223650	middlepassive
-223656	active
-active
-223659	active
-223664	active
-223677	active
-223683	middlepassive
-223690	active
-223702	active
-223705	active
-223711	active
-223715	active
-223725	passive
-223729	active
-active
-223740	active
-223747	active
+223604	passive
+223611	active
+223613	active
+223616	active
+223620	active
+223624	active
+223627	active
+223630	middle
+223637	passive
+223640	active
+223642	middle
+223644	active
+middle
+223648	active
+223651	active
+223655	active
+223661	active
 passive
+223668	middle
+223680	passive
+223688	active
+223693	active
+223698	middlepassive
+223702	middlepassive
 active
-223759	active
-223765	active
-223771	middlepassive
+223706	active
+223709	passive
 active
-223778	middlepassive
-223787	passive
-223795	active
-223803	active
-223806	active
-223812	active
-223816	active
+middle
+223715	active
+223720	active
+223723	active
+223726	passive
+223731	active
+223734	active
+223737	active
+223740	active
+223742	active
+223744	middlepassive
+223747	passive
+223749	passive
+middle
+223761	active
+223764	active
+223766	active
+223770	active
 active
-223825	active
-223831	active
+223775	active
+223779	active
+223781	active
+223785	passive
+223787	active
+223793	active
+223797	active
+223799	middle
+223807	passive
+223813	active
+223815	passive
+223818	active
+223822	middlepassive
+middle
+active
+223830	middlepassive
 223835	active
-active
-active
-223840	active
-223847	active
-223850	active
-223856	active
+223839	active
+middle
+223843	active
+223858	active
+223862	active
 223864	active
-223871	passive
-223873	passive
-223880	active
-223892	active
+223874	passive
+223876	active
+223879	active
 active
-223895	active
+223886	active
+223888	active
+223892	active
 223897	active
 223903	active
-223906	active
+223905	middlepassive
+223907	active
+223917	active
+223921	active
+223928	passive
+223930	passive
+223941	active
+223943	active
+passive
+223947	active
+passive
+223955	active
+223958	active
+223965	active
+223971	middle
+223974	active
+223976	active
 active
-223910	active
-223912	active
-223914	active
-223916	middle
+223979	middlepassive
+223983	active
+223987	active
+223990	active
+passive
+223993	middle
+223997	active
+224003	active
 active
-223920	active
-223922	active
-223927	middle
-223929	middle
-223932	active
-223938	active
-223940	passive
-223946	active
-223950	passive
-223952	active
-223957	active
-223959	active
-active
-active
-223963	middle
-223967	middlepassive
-223973	middlepassive
-223982	middlepassive
-223989	active
-223996	active
-224000	active
-224002	active
-224005	active
-224008	active
-active
-224011	passive
-active
-224018	middle
-224022	active
-224024	passive
-224031	active
-224033	passive
-active
+224009	middlepassive
+224014	active
+224016	active
+224020	active
+224022	passive
+224025	active
+224028	active
+224030	active
+224033	active
+224035	active
+224037	active
 224040	active
-224045	active
-224056	active
+224043	middlepassive
+224047	active
+224049	active
+224052	active
+active
 224060	active
-224062	passive
-224067	active
-224072	passive
-224079	passive
 active
-active
-224094	active
-224096	active
+224066	passive
+224071	active
+224076	active
+224083	passive
+224087	middle
+224089	passive
+224094	passive
+224098	active
 middlepassive
 224103	active
-224105	passive
-224113	middlepassive
-224121	middle
-224124	active
-224126	middlepassive
-224138	active
-middle
-224143	middle
-224155	active
+224109	active
+224115	middle
+224119	middle
+224124	middlepassive
+224127	active
+224131	active
+224133	middle
+224136	active
+224138	passive
+224140	active
 active
-224163	middle
-224166	active
-224180	active
-224183	middle
-224185	active
-224187	middle
-224189	middle
-224192	active
-224194	active
-224200	active
-224217	active
-224219	middle
+224144	active
+224153	active
+224157	active
+224161	active
+224165	active
+224169	middlepassive
+224173	active
+224176	passive
+224179	middlepassive
+middle
+224184	active
+224190	active
+224196	active
+224198	middle
+224208	active
+224210	active
+224213	passive
+active
+224218	middlepassive
+middle
+224221	active
+224226	active
+224231	active
+224234	active
 224236	active
-224239	active
-224241	passive
-224251	middle
-224260	middle
-224276	active
+224242	active
 active
+224246	active
+224251	active
+224254	active
+224256	active
+224258	active
+224262	passive
+224266	active
 active
+224270	active
+224272	active
+224274	active
+224279	active
 passive
-224285	active
-224293	active
-224298	active
-224302	middle
-224310	active
+224285	passive
+224290	active
 active
-active
-active
-active
-active
-224320	active
-224325	active
-224333	active
-224340	middle
-224351	passive
-224360	middle
-224378	active
-active
-224389	active
-224395	active
-224403	active
-224409	middle
-active
-224415	active
-active
-224418	active
-224425	middle
-224435	passive
-224440	passive
-224442	middle
-224444	active
-224453	passive
-224458	passive
-224460	passive
-active
-224467	active
-224479	passive
-active
-224487	active
-224489	middlepassive
-224493	active
-active
-224498	active
-224508	middlepassive
-224512	passive
-224515	active
-224524	middlepassive
-224528	active
-active
-224540	active
-224548	active
-224559	middlepassive
-224562	passive
-224567	active
-224575	active
-224582	middlepassive
-active
-224585	active
-224590	active
-224599	active
-224606	active
-224617	active
-224623	active
-224627	active
-224630	active
-224647	active
-224649	active
-224658	active
-224667	active
-224672	active
-224675	active
-224687	active
-224693	middle
-224706	passive
-224711	middlepassive
-224715	active
-224719	active
-224740	active
-224745	active
-224749	middlepassive
-224755	active
-224757	active
-224762	active
-224769	active
-224775	active
-224779	passive
-224784	active
-224786	active
-224788	passive
-224803	active
-224805	passive
-224808	active
-224810	passive
-active
-224821	middle
-active
-224827	active
-224833	middle
-224835	active
-active
-224840	middlepassive
-224846	active
-224852	active
-224861	active
-224866	middle
-224879	active
-224884	active
-224889	active
-224894	active
-224898	active
-active
-224907	active
-224920	active
-224922	active
-224924	active
-224926	active
-224928	active
-active
-224941	active
-224945	active
-224949	active
-224954	active
-224959	active
-224963	active
-active
-224966	active
-224969	active
-224977	active
-active
-224982	active
-224985	passive
-active
-224990	active
-224996	active
-225004	active
-225014	middlepassive
-225017	active
-225024	active
-225036	active
-active
-225040	active
-225043	middlepassive
-passive
-225047	active
-225061	active
-active
-225067	middle
-225069	active
-225073	active
-225077	active
-225080	active
-225084	active
-225086	active
-225108	active
-225124	middlepassive
-225128	active
-225133	active
-225137	middle
-active
-225143	passive
-225147	passive
-225160	passive
-225166	passive
-225168	passive
-225170	passive
-225172	active
-active
-225183	middle
-225189	active
-225191	active
-225197	passive
-225203	active
-225205	passive
+224294	active
+224303	active
+224311	active
+224318	active
 middle
-225211	active
-225219	middlepassive
-225225	active
+224325	active
+passive
+224329	passive
+224332	active
+224338	middle
+224340	middlepassive
+224342	active
+224346	active
+224348	active
+224352	active
+middle
+224357	active
+224365	active
+224369	active
+224373	active
+224375	middle
+224378	active
+224382	middlepassive
+224385	active
+224388	active
+224398	active
+224401	active
+224406	active
 active
-225229	middlepassive
+224411	active
+224415	active
+224418	active
+224420	active
+224422	passive
+224427	middlepassive
+224429	active
+224431	passive
+224435	active
+224441	active
+224444	active
+passive
+224447	active
+224449	active
+middle
+224461	active
+224465	active
+224469	middle
+224472	active
+224474	active
+224476	active
+active
+224479	middle
+224485	active
+224487	passive
+224489	active
+224495	passive
+224497	active
+active
+224500	active
+224503	active
+224507	passive
+224509	middle
+224511	active
+224513	passive
+224518	middle
+224526	active
+active
+224534	active
+224536	active
+224538	middle
+224541	active
+passive
+224546	middlepassive
+224549	active
+224551	active
+224555	middle
+224557	active
+224561	middle
+224566	active
+224570	active
+224575	middle
+224584	middlepassive
+224595	active
+active
+224598	active
+224601	active
+224605	active
+224616	active
+224618	passive
+224620	middlepassive
+224629	passive
+middle
+224633	middlepassive
+224635	active
+224639	active
+224641	active
+224651	middlepassive
+224654	active
+passive
+224657	active
+224661	middlepassive
+224663	active
+224665	active
+224669	active
+224671	active
+224674	active
+224678	active
+224684	active
+224688	passive
+passive
+224692	active
+224697	active
+middle
+224703	active
+224705	active
+active
+224708	active
+224712	active
+224716	active
+224719	active
+224721	active
+224724	active
+224726	active
+active
+224729	active
+224732	active
+224735	middle
+active
+224740	active
+224744	active
+224746	middle
+224749	active
+224751	active
+224753	active
+224759	active
+224761	middle
+224763	active
+224766	active
+224768	active
+224771	active
+224775	active
+224777	active
+active
+224782	active
+224784	active
+224789	active
+224791	active
+224794	middle
+224799	active
+224803	middle
+224806	active
+224821	passive
+224824	middlepassive
+224830	active
+224834	middlepassive
+224837	active
+224847	active
+224850	active
+224855	active
+224859	middle
+active
+224862	active
+224864	active
+224872	active
+224878	active
+224882	middle
+224885	passive
+224888	passive
+224892	active
+224897	active
+224899	active
+224901	active
+224907	active
+224910	middle
+224913	active
+224919	active
+224923	active
+active
+224928	middle
+224931	middle
+224935	active
+middle
+active
+224940	middle
+224944	active
+224946	passive
+224948	active
+224953	passive
+224957	active
+224967	middle
+224970	active
+224975	active
+224980	active
+224990	active
+224993	active
+224996	middle
+225000	passive
+225007	active
+225010	active
+225013	active
+middle
+225016	passive
+225019	active
+225023	active
+225027	active
 middlepassive
+passive
+225032	passive
+225035	middlepassive
+225038	active
+225040	middle
+225042	active
+225045	active
+active
+225048	middlepassive
+225051	middle
+225054	active
+225056	active
+225061	active
+middle
+225064	active
+225066	active
+225070	active
+225073	active
+225076	middlepassive
+225078	passive
+225085	passive
+225088	middle
+225094	active
+225097	middle
+225100	active
+225103	active
+active
+225111	active
+225115	active
+225122	middle
+225130	middle
+active
+225133	active
+225136	active
+225139	active
+225142	active
+225144	active
+active
+225149	active
+225151	active
+225153	active
+225155	active
+active
+225158	active
+225162	middlepassive
+225165	active
+225171	active
+225174	active
+225178	active
+passive
+middlepassive
+225183	middle
+225187	active
+225199	middle
+225201	active
+225206	active
+225208	passive
+225214	passive
+225217	active
+225221	middle
+225223	passive
+225226	passive
 225232	active
-225234	active
-225242	middlepassive
+225237	active
+middle
 225244	active
 active
-225250	active
-225254	active
-active
-225258	active
-225264	active
-225268	active
-225270	passive
+225247	passive
+225251	active
+225255	active
+225257	middle
+225259	active
+225265	middlepassive
+225268	middlepassive
+225272	active
 225275	active
-225277	passive
-225281	active
-225284	active
-225288	active
-active
-225292	active
-225295	active
-225300	active
+225278	middle
+225282	active
+225285	active
+225287	middle
+225291	middle
+225297	active
 225302	active
 225308	active
-225312	active
-225314	active
-225316	active
-225326	active
 active
+225311	middlepassive
+225313	passive
+225318	active
+225324	active
 225333	active
-middlepassive
-225339	middle
-225343	passive
-225347	active
-225353	active
 active
-225359	active
-225362	middlepassive
-225373	active
-225375	active
+225338	active
+225343	active
+225346	middle
+225350	passive
+225357	active
+225361	active
+225363	active
+225366	middle
+225369	active
+225372	passive
+225376	active
 225381	active
-225386	active
-225390	active
-middlepassive
-225394	active
-225400	active
+225383	active
+225388	active
+225391	active
+225395	active
+225401	active
 225404	active
 225409	active
+225419	passive
 active
-225420	active
-225422	active
-225424	active
+225423	active
+225426	active
+225429	middle
+225432	middlepassive
 active
-225427	middle
-225429	active
-225431	active
-225433	active
-active
+225436	passive
 225441	active
-active
-passive
-225446	active
-225452	middle
-225460	active
-225465	active
-225470	active
-active
+225444	active
+225450	passive
+225452	active
+225454	active
+225456	active
+225461	active
+225467	middle
 225473	active
-225489	middle
-225497	active
+225476	middle
+225480	active
+225482	active
+225486	active
+225488	active
+225490	middle
+225493	middle
+225496	active
+225501	active
+225503	active
+225508	passive
+225512	active
+225515	active
 active
-225507	active
-225509	active
-225511	active
-active
-225516	active
-active
-225524	active
-225528	active
-225532	active
-225540	passive
-active
-225548	passive
-225554	active
+225518	active
+225530	active
+225534	active
+225536	active
+225539	active
+225546	active
+225550	middle
 225558	active
+225561	active
+225564	middle
+225567	passive
+225573	middle
+225576	active
+225580	active
+passive
+225584	active
+225588	active
+225591	active
 active
-225566	active
-225572	active
-225576	middle
-225580	middlepassive
-225587	active
-225590	active
-225595	active
-225597	active
-225599	active
-225604	middle
-225608	active
-225610	active
-225615	active
+225600	active
+225605	active
+225609	active
+225614	passive
+225616	active
+active
+225620	middle
 passive
 225624	active
-225629	active
-225632	middle
-middle
-225638	active
-225647	middle
-225650	active
-225661	middle
+225628	passive
+225635	middle
+225637	active
 active
-225664	active
+225647	passive
+225653	active
+225656	active
+225660	passive
+225667	active
 225671	active
-225675	active
+225676	middle
+active
+225679	active
 225682	active
+225684	active
 225686	active
-225696	middlepassive
-225704	active
-active
-225707	middle
-225714	active
-middlepassive
-225719	middlepassive
-225726	active
-active
-225730	active
+225694	active
+225696	passive
+225699	middle
+225701	active
+225706	active
+225712	active
+225718	active
+225720	active
+225724	middle
+225727	active
 225732	active
-225735	active
 active
-225745	active
-225750	active
-225757	active
+225736	passive
+225744	active
+225748	active
+225752	middle
+225754	active
+225758	passive
+225760	active
+225765	active
+225768	active
+225775	passive
+225778	active
+225781	active
+225784	active
 active
-225761	active
-225763	active
-225766	active
-225772	active
-225782	active
-225788	active
-225791	active
-active
-active
-225801	active
+225787	middle
+225792	passive
+225796	active
+225798	active
 225808	active
-225810	active
-225813	active
-225817	active
+225812	active
+225819	active
 225823	active
-passive
-225830	active
-225834	active
-passive
-225846	active
-225848	active
-225852	active
-225855	active
+middle
+225829	middle
+225834	middle
+225836	active
+225839	active
+225842	active
+225847	active
+active
+225858	active
 225861	active
-225863	middlepassive
-225865	active
-225870	middle
-225872	active
-225884	passive
+225866	active
+225871	active
+225875	active
+225877	middle
+active
+225880	active
 225886	active
+middle
+225889	active
 225892	active
-active
-225904	middlepassive
-active
-225907	passive
-225915	active
+225894	middlepassive
+225897	active
+225903	passive
 225917	active
-225919	active
-225924	active
-225928	active
-225930	active
+active
+225927	passive
+225933	active
+225936	middle
 225938	active
+225941	active
+225944	active
+225949	active
+225951	active
 active
-225942	passive
-active
-225945	active
-225947	active
-225953	active
-225963	active
+225955	active
+225960	active
+225964	middle
+225966	middle
 225969	active
-225977	active
+225973	active
+225975	middle
 225979	active
-225987	active
-225998	active
-226002	middlepassive
+225982	active
+active
+225985	active
+225988	active
+middlepassive
+225992	active
+225995	active
+active
+226000	active
 226005	active
-226016	active
-226033	middle
-226043	active
+226010	passive
+226013	active
 active
-226056	active
-226058	active
-passive
-226061	middlepassive
-226091	active
-226096	active
-226103	passive
+226018	active
+226024	middle
+active
+226027	active
+226030	active
+226035	middle
+226046	active
+226048	active
+226055	passive
+226061	active
+226067	active
+226069	active
+226073	active
+226080	active
+226082	active
+226084	active
+active
+226092	active
+middlepassive
+226096	middlepassive
+226098	active
+226101	active
+226103	active
+226107	active
 active
 active
-226109	active
-226113	active
-226116	active
+226111	active
+226114	active
 active
-226121	active
+226119	active
+middle
 226125	active
 226128	active
-226146	passive
+226130	active
+226135	active
+passive
+226139	middle
+226142	active
+226150	middle
 226153	active
-226159	active
-226168	active
-226171	active
-226175	active
-226189	active
-226201	active
-226212	active
-226218	middle
+226157	active
 active
+226160	active
+passive
+226163	active
+226167	active
+226173	active
+226176	active
+226182	middle
+226185	passive
+226193	middle
+226195	active
+226198	active
+226202	active
+226209	active
+226215	active
+226219	middle
 226221	active
+226229	active
+226231	active
+226233	active
+passive
+226236	active
+226242	active
+226247	passive
+226255	active
+226260	active
 active
-226224	passive
-226226	middle
-226238	active
-226244	active
-active
-226264	active
-226266	active
-226277	active
-226280	active
-226287	middle
-226289	active
-226291	middle
+226265	active
+226272	middlepassive
+226275	active
+226277	middle
+226279	active
+226282	active
+226286	passive
+226290	active
+226294	active
+226297	middle
 226299	active
-226310	middle
-active
-226325	active
-active
+226307	active
+226311	active
+226316	active
+226323	active
+226328	middle
 226330	active
-226338	active
-226341	active
-226343	active
-226350	passive
-226352	active
+active
+226335	middle
+226341	passive
+226344	active
+active
+226352	passive
+226354	active
 226356	active
-226361	active
-226371	active
+226366	middle
+active
+226374	middle
 226378	middle
-226382	active
-226385	active
-226389	active
+226381	active
+226386	active
+226390	active
+active
 226394	active
-226398	active
-226407	active
-226410	passive
-226412	active
+226396	active
+active
+passive
+226403	passive
+226409	active
 226415	active
-226417	middle
-226419	active
-226425	active
+226417	active
+226421	active
+226424	middle
 226429	active
-226437	active
-middle
-226445	active
-226452	active
-226455	middle
-226459	active
-226465	active
-226482	active
-226488	active
-226490	active
-226493	middle
-226496	active
-226501	active
-226503	active
+226435	active
+226443	active
+226446	active
+226451	active
+226457	active
 active
-226507	middle
-226509	active
-226515	active
+226462	active
+226464	active
+226468	middlepassive
+226470	active
+226475	middle
+226480	active
+226489	active
+226495	active
+226500	active
+226505	active
+226513	active
+226518	middle
+226521	active
+226531	active
+226533	active
+226539	active
 active
 active
-226527	active
-active
-226539	passive
-active
-226546	middlepassive
-226550	active
-226552	active
-226556	active
-226560	middle
-226565	active
+226549	active
+226558	active
+226560	active
 226572	active
 226575	active
-226584	middle
-226586	active
+226578	active
+active
+active
+226583	middle
+middlepassive
+226588	active
 226593	active
-226598	active
-226600	active
-226602	middle
-226605	active
-226607	active
-226610	active
-226613	passive
+226602	middlepassive
+226609	passive
+226611	active
 226617	active
-226619	active
-226621	passive
+226624	passive
+active
+active
 226630	active
-226638	passive
-226644	active
-active
-226648	active
-226656	active
-226671	passive
-226675	active
-226681	active
-226688	active
-active
-226692	middlepassive
-226695	active
-226697	middle
-226702	active
-226716	active
-226718	active
-226720	active
-226723	active
-226725	active
-226728	active
-226741	active
-active
-226746	active
-226749	active
-226756	active
-226760	active
-226765	active
-226771	active
-226775	active
-226780	active
-226796	active
 middle
-226807	active
-226815	active
+226633	passive
+226637	active
+226640	passive
 active
-226824	active
-226827	active
+226644	active
+226648	active
+226652	passive
+226655	active
+226662	active
+226669	middle
+226674	middle
+226678	active
+226681	active
+226688	passive
+226691	active
+226695	active
+226699	active
+226703	active
 active
-226830	active
-226833	active
-226839	active
-active
-226845	active
-226847	active
-226857	active
-226868	active
-226873	active
-226875	active
-226885	active
-226895	active
-226898	active
-226905	active
-226919	middlepassive
-226925	active
-226929	active
-226943	active
-226945	passive
-226948	passive
-226954	active
-226965	active
-226967	passive
-226970	active
-226972	middlepassive
-226975	active
-226979	active
-226986	active
-226989	passive
-226996	active
-227003	active
-227021	active
-227024	active
-227028	active
+226707	active
+226709	active
+226717	active
+226719	active
+226722	active
+226728	active
+226732	passive
+226734	passive
+226739	active
+226744	active
+226746	active
+226750	active
+226758	passive
+226763	passive
+226766	passive
+226769	active
 passive
-227036	active
-227039	active
-227042	active
 active
-227046	active
-227052	active
-227056	active
+226774	active
+passive
+226778	active
+226781	active
+226783	passive
+226786	middlepassive
+226793	active
+226796	middlepassive
+226798	active
+226801	active
+226805	passive
+226809	passive
+226812	active
+226818	middlepassive
+226823	active
+226825	active
+226827	active
+226834	middlepassive
+226838	passive
+active
+226843	active
+226847	passive
+226850	active
+226852	passive
+active
+middle
+226859	active
+226861	active
+226864	passive
+226869	middlepassive
+226874	active
+226878	middle
+passive
+226884	middlepassive
+226887	active
+226891	active
+226897	active
+226900	active
+226902	active
+226907	active
+226912	passive
+226922	active
+226925	middlepassive
+226933	active
+226939	active
+226946	middle
+226951	active
+226955	passive
+226958	middle
+226963	active
+226970	active
+226973	active
+226981	active
+226991	active
+middlepassive
+226995	active
+227001	active
+227003	middlepassive
+227007	passive
+227015	active
+227024	middle
+227035	active
+active
+227051	middlepassive
+227058	active
+227060	active
+227062	active
 227064	active
-227070	active
-227077	middlepassive
+227067	active
+227069	active
+227071	passive
+active
+227074	active
+227080	middle
+227082	active
 227085	active
-227102	active
+227087	active
+227089	active
+227093	active
+227095	passive
+227097	active
+227099	active
 227108	active
-active
+227110	middlepassive
 227116	active
-227120	active
-227127	active
+227122	active
+227125	active
 active
-227133	active
+active
+227131	active
+227134	active
+227137	active
+227139	active
+227143	active
+227147	active
+middle
+227153	active
+227156	active
 227158	active
-227169	middlepassive
-227171	middle
-227175	active
-227177	active
-227181	active
-227193	active
-227200	active
-227206	active
-227208	active
-227222	active
-227230	active
-227232	active
+227172	middlepassive
+active
+227176	middlepassive
+227183	active
+active
+227188	active
+227191	active
+227197	active
+227199	active
+227202	active
+227204	active
+227210	active
+227213	active
+227215	active
+227218	active
+227220	active
+active
+227225	active
+active
+227231	active
+227235	middle
+227240	active
+227242	active
+227249	active
 227253	active
 active
-227257	active
-227269	passive
-active
-227273	active
+227260	active
+227262	active
+227267	active
+227272	middle
+227274	middle
+227278	active
+227280	active
+227282	active
+227286	active
+227289	active
+227292	active
+227302	active
 middle
-227280	passive
-227287	passive
-active
-227291	active
-227296	middle
-227303	active
-227305	middlepassive
+227306	active
 227308	active
-active
-227311	passive
-227314	middle
-227322	active
-227324	active
+227310	active
+227315	active
+227318	active
+227326	active
 227329	active
-227331	passive
-227337	active
-227342	passive
+227334	passive
+227338	middlepassive
+passive
+middle
+227349	active
 active
-227346	middle
-227355	active
-227357	passive
-227379	middle
-227390	middle
+227365	passive
+227368	middlepassive
+227372	middlepassive
+227377	active
+227381	middle
+227384	passive
+227391	active
+227395	active
 227397	active
-227407	active
+227405	active
 active
+227408	active
+active
+227411	active
+227413	active
 227416	passive
-227429	middle
-227434	active
-227444	active
-passive
-227448	active
-227455	middle
+227421	active
+227427	middle
 active
-227458	active
-227462	middlepassive
-227464	passive
-227478	active
-227484	middle
+227430	active
+227435	middlepassive
+227440	middle
+227445	active
+227451	active
+227454	active
+227456	active
+227464	active
+227469	active
+227475	active
+227477	active
+227488	active
+active
+227495	active
 passive
-227508	middle
-227516	middle
+227500	active
+227505	active
+227507	middlepassive
+227509	active
+227517	active
+227519	middle
+227521	active
 227524	active
+227527	middle
+227531	middle
+active
+227539	active
+227544	passive
+227546	active
+227548	active
+227551	active
+227554	passive
+active
+227557	active
+227560	active
+227569	passive
+227573	active
+227575	active
+227581	active
+active
+227587	active
+227591	active
+227593	middle
+227607	active
+227609	active
+227614	passive
+227616	active
+227623	middle
+227626	active
+227631	passive
+227635	middlepassive
+227638	active
+227652	active
+227654	active
+227658	active
+227661	active
+227666	middle
+active
+227669	middle
+227671	middle
+227673	active
+227680	active
+227688	active
+227695	active
+227697	active
+227705	middle
+227710	middle
+227715	active
+227718	active
 passive
-227531	active
-227533	active
-227547	active
-227561	active
-227571	middlepassive
-227580	active
-227582	passive
-227586	passive
-227592	active
-227595	active
-227603	middle
-227621	middlepassive
-227626	passive
-227637	middle
-passive
-227645	passive
-227650	middle
-227677	active
-227686	middlepassive
-227698	passive
-227701	middle
-227709	middlepassive
-227720	middle
-227723	middlepassive
+227722	passive
 active
 227726	active
-227733	active
-227740	active
-227743	active
+227728	active
+227730	active
+227732	passive
+227739	active
+227742	active
+227745	active
+active
+227749	passive
 227754	active
-227756	active
-227760	active
-227767	active
+227758	active
+227770	active
 227773	active
-227775	middlepassive
-active
+middle
 227779	active
-227788	active
-227794	active
-227803	middle
-227811	middle
-227821	middle
+227784	active
+227787	middlepassive
 active
-227827	passive
-227843	active
-227855	middle
-227862	middlepassive
-227872	active
-227879	middlepassive
-227881	active
+227791	passive
+227795	active
 active
-227887	active
-middlepassive
-227890	passive
-227901	active
-227911	active
-227916	middlepassive
-middlepassive
-227924	passive
+227801	active
+227806	active
+227808	middle
+227812	passive
+227817	active
+227819	active
+227823	middle
+227825	active
+passive
+227832	middlepassive
+227836	active
+227838	active
+227845	middle
+227848	active
+227857	passive
+227864	active
+227867	active
+227869	active
+active
+227874	active
+227878	active
+227885	active
+227888	middlepassive
+227890	active
+227892	active
+227894	passive
+227903	passive
+227906	active
+227909	active
+227914	passive
+227918	active
+227922	active
+227926	active
+227929	passive
 227932	active
-227941	active
-227943	active
-227953	passive
-227956	active
-227966	active
-227968	middlepassive
-227973	active
-227981	passive
-227983	active
-227994	active
+227936	active
+227939	active
+227945	passive
+227949	active
+227952	active
 active
+227955	active
+227960	active
+227962	active
+active
+227965	active
+227967	middlepassive
+227970	middle
+227972	passive
+227975	active
+227978	active
+227984	active
+227999	active
 228004	active
-228007	passive
-228009	middle
+228006	active
+228008	active
+active
 228012	active
-228014	active
-228016	active
-228019	active
+228020	middlepassive
+228022	active
 228025	active
-228035	active
+228027	active
 passive
-228041	active
-228045	active
-passive
+228032	passive
+228036	active
 active
-228053	active
-228056	active
-228059	active
+228039	active
+228043	active
 active
-228063	active
-228065	middle
+228048	active
+228050	middle
+228052	middle
+228054	middlepassive
+228060	active
 active
+228065	active
+228068	middlepassive
+228070	active
 228073	active
+active
 228080	active
+228082	active
+228087	active
+228090	passive
+228094	active
+228096	active
 active
-228091	middlepassive
-228093	active
 228101	active
+228104	active
 228107	active
-228122	active
-228125	active
-228130	passive
-228132	active
-active
-228135	active
+228112	active
+228117	middle
+228121	active
+228127	active
+228130	active
+228133	active
 228137	active
-228140	active
-228146	middle
-228150	active
-228159	active
+228139	active
+228142	active
+228146	active
+228148	active
+228153	active
+228156	active
+active
+228160	active
+228162	active
 228164	active
-228170	active
-228178	active
+228167	active
+228171	active
 active
-228187	active
-228192	passive
-228203	middle
-228205	active
+228180	middle
+228187	middlepassive
+active
+228190	middlepassive
+228197	middle
+228199	passive
+228203	passive
+228211	passive
+228214	middle
+228217	active
+passive
+228222	middle
+228224	active
+228226	active
 active
 active
-228210	active
-228214	active
-228220	active
+228230	active
+228234	active
+228236	active
+228240	active
+228242	active
 228245	active
-228247	active
-228249	active
+228248	middle
 active
-228252	active
-228254	active
+228253	active
 228256	active
-228266	passive
-228268	active
-228284	active
+228260	active
 active
-228308	passive
-228310	middle
-228316	active
-228338	passive
+228263	passive
+228266	active
+active
+228271	passive
+228276	active
+228288	active
+228295	active
+228299	passive
+228304	active
+228309	active
+228312	middle
+228314	active
+228318	middle
+active
+228322	active
+active
+228326	active
+228333	active
+228336	passive
+228339	active
 middlepassive
-228350	passive
-228353	middle
+228344	active
+228346	active
+228351	active
 active
-228361	active
-228367	active
+228358	active
+228362	active
+228365	active
 active
-middle
-228381	active
+228372	passive
+228374	active
+228377	active
+228379	active
 active
-228386	active
-228395	active
-228399	active
-228402	passive
-228415	middlepassive
-228423	middlepassive
-228427	active
-228432	middlepassive
-228435	active
-228438	middlepassive
-228446	active
-228450	active
-228453	active
-228455	active
+228383	active
+active
+active
+228388	active
+228392	active
+228396	active
+active
+228400	active
+active
+228406	active
+228409	active
+228414	active
+228416	active
+228421	middle
+228428	active
+active
+228431	active
+228436	active
+228441	active
+228446	passive
+228448	passive
+228456	middlepassive
+228463	active
 228467	middle
-228470	middle
-228479	active
-228481	active
-228497	middle
-228507	active
-228513	middle
-228517	middle
+228473	active
+active
+228477	active
+228480	active
+228482	active
+228486	active
+228489	active
+228494	active
+228497	active
+228501	active
+228503	middlepassive
+228510	active
+228512	active
+active
+228515	active
 228520	active
-228527	passive
-228533	active
-228542	active
+228523	active
+228529	active
+228535	active
+228542	middle
+228547	active
+228550	active
+228555	middle
+228561	active
+228563	active
+228570	active
+228581	active
+228590	passive
+228596	active
+228604	active
+228606	middlepassive
+228610	active
+228618	active
+228620	active
+228623	active
+228630	active
+228632	active
+228636	middlepassive
+228639	passive
+228643	active
+228645	active
+228647	middlepassive
+228654	middlepassive
+228661	active
+228668	active
+228672	active
+228674	active
+228677	active
+228682	active
 active
-228551	active
-228558	active
-228568	middlepassive
-228571	active
-active
-228576	active
-228582	middle
-228584	active
-228586	active
-228589	active
-228600	active
-228603	active
-228605	active
-228611	active
-228613	active
-228621	active
-active
-228629	active
-228631	active
-228638	passive
-active
-passive
-228649	passive
-228659	active
-228662	active
-228664	middle
-228670	active
-228673	active
-228675	active
-passive
-228691	active
-228699	middle
-228706	active
-228708	middlepassive
-228710	active
-228716	passive
-228726	active
-228730	middlepassive
-active
-228734	middlepassive
-active
-228755	middlepassive
-passive
-228763	active
-228766	middle
-228771	middlepassive
-228773	middle
-228784	active
-228791	active
-228797	active
-228803	active
-passive
-228812	active
-228815	active
-active
-middlepassive
-228820	active
-228826	active
+228688	middle
 middle
-228831	passive
-228838	middlepassive
-228841	active
-228845	active
-228849	active
-228860	active
+228694	active
 active
-228869	middle
-active
-228873	active
-228878	active
-228893	active
-228903	passive
-228908	active
-active
-228914	middle
-228918	middle
-228920	active
-228928	middle
-228945	active
-228954	active
-228965	active
-228974	active
-228988	active
-228991	active
-228993	active
-229007	active
-229009	active
-229020	active
 middlepassive
-229028	active
-229034	middlepassive
-229041	active
-229043	active
-229050	active
-229053	middle
 active
-229056	active
-229064	active
-229066	active
-229073	active
-229078	active
-229081	active
-229083	active
-229092	middlepassive
+228704	passive
+228706	active
+228708	active
+228712	middlepassive
+228714	active
+228716	active
+228718	active
+228724	active
+228727	active
+228729	active
+228732	active
+228734	passive
+228741	active
+228746	active
+middlepassive
+228750	active
+228753	active
+228756	passive
+228760	active
 active
-229103	active
-229108	active
+228764	active
+228767	active
+228776	active
+228780	active
+228784	passive
+middlepassive
+228788	active
+228793	active
+228798	active
+228803	active
+228805	passive
+228811	active
+228813	active
+228816	active
+228822	active
+228832	active
+228836	active
+228839	active
+228842	active
 active
-229116	active
-229118	active
-229122	active
-229124	active
-229127	passive
+228850	active
+228856	active
+228859	active
+228862	active
+228864	active
+228866	active
+active
+228872	active
+228874	active
+228876	active
+228879	active
+228884	active
+228887	active
+middle
+228894	active
+228899	passive
+228901	active
+228913	passive
+228916	active
+228919	active
+228929	active
+228936	active
+228938	passive
+228943	active
+228948	active
+active
+228952	middlepassive
+active
+228957	middlepassive
+228963	active
+228968	active
+228975	passive
+228978	middlepassive
+228980	active
+228983	middle
+228987	active
+middle
+228990	active
+229003	middle
+229005	active
+229007	active
+229013	middlepassive
+229021	active
+229030	active
+active
+229033	passive
+active
+229040	middlepassive
+229042	active
+229045	active
+229048	active
+229052	middle
+229054	active
+229058	active
+229063	active
+229067	active
+229075	active
+229077	active
+229082	active
+229086	active
+229090	active
+229093	middlepassive
+229095	active
+229098	active
+229100	active
+229106	active
+229112	middle
+229117	active
+229123	middle
+229128	middlepassive
+active
 229131	active
-229136	passive
-229148	active
-229153	active
-229155	middle
-229159	active
-229161	active
-229168	active
-229170	active
-229172	active
-229174	active
-229176	active
+229135	middle
+229139	active
+229145	active
+229149	active
+229152	middle
 active
+229159	middle
+229162	active
+229165	active
+229169	active
+229173	active
+229176	middle
+229178	active
+229183	active
 active
-229180	active
-229182	active
+229186	middle
 229188	active
-active
-229195	middle
-229197	passive
-229210	active
-229219	active
-229222	active
-229226	active
-229228	active
-229233	active
-229237	active
-229240	active
-229244	passive
+229190	active
+229193	active
+passive
+229198	active
+229200	active
+229202	middle
+229204	active
+229207	active
+229209	active
+middlepassive
+229215	active
+229227	active
+229230	active
+229239	active
+229246	middlepassive
 229252	middle
-229260	middlepassive
+middlepassive
+229256	active
+229260	middle
+229265	middle
+229269	middlepassive
 229272	active
+229275	middle
 229277	active
-229290	active
+229279	middle
+229281	middle
+middle
+229284	active
+229290	middlepassive
 229292	active
 229295	active
-229298	active
-229301	active
-229307	active
-229316	active
-229324	active
-229331	middle
-229333	active
-229335	active
-229337	active
+229298	middle
+229302	active
+229305	active
+229308	active
+229311	active
+229313	active
+229317	active
 active
+229325	active
+active
+active
+229331	passive
+229334	active
+229338	active
+229342	active
 229345	active
-229348	active
+229347	middlepassive
 229350	active
-229354	active
-229359	active
-229361	active
+229352	active
+229355	active
+229357	passive
 229363	active
-229373	passive
-229375	active
-229377	active
+229367	active
+229372	active
+229376	active
+active
 229382	active
-229393	active
+229386	middlepassive
+229398	active
+229402	active
 229404	active
-active
-229407	active
-229411	active
-229420	middle
-229431	active
-active
-229438	active
-229440	active
-229449	active
-active
-229456	active
-229474	active
-229478	passive
-229481	active
-229488	active
-active
-229494	active
-229499	active
-229503	active
-229507	middlepassive
-active
-229519	middle
-229521	active
-229531	active
-229533	active
-229547	active
-active
-229552	active
-229557	middle
-229578	active
-229583	active
-229589	middle
-229601	active
-229605	active
-229613	active
-229618	middle
-229623	active
-229625	active
-229636	active
-229643	active
-229650	middle
-229657	active
+229407	middlepassive
+229413	middle
+229418	active
+229420	active
+229428	active
+229430	active
+229437	active
 passive
-229660	active
-229663	active
+229444	passive
+229451	middlepassive
 active
-229667	active
+229458	middlepassive
+229460	active
+229462	active
+229469	active
 active
-229670	active
-229678	active
-229685	middle
-229693	passive
-229704	active
-229706	active
+229475	active
+229483	passive
+229488	active
+229491	active
+229494	middlepassive
+229498	active
+229500	middle
+229504	active
+229508	active
+229510	active
+229514	passive
 active
-229713	active
-active
-active
-active
-229721	active
-229729	active
-229736	active
-229740	active
-229743	active
-229746	middlepassive
-229750	middle
-229752	passive
-229754	active
-229762	active
-middle
-229769	active
-229777	passive
-229782	middle
-229787	active
-229795	active
-229797	middle
-229803	middlepassive
-229807	active
-229812	active
-229818	active
-229831	middle
-229833	active
-229835	passive
-229841	active
-229846	active
-229854	active
-229864	middle
+229521	middle
+229526	active
+229529	active
+229534	passive
+229540	active
 middlepassive
-229870	active
+229548	active
+active
+229551	active
+229554	active
+229558	active
+229569	passive
+229571	middle
+229575	active
+229578	middlepassive
+229580	active
+229583	middle
+229586	active
+229589	active
+active
+229595	active
+229599	active
+229603	middle
+229617	active
+229620	middle
+229624	active
+229630	active
+229632	middlepassive
+229639	active
+229650	active
+active
+229653	active
+229656	active
+229659	middlepassive
+229663	active
+229667	active
+229675	passive
+active
+229679	passive
+229687	middlepassive
+active
+229691	middle
+229694	active
+active
+229700	passive
+229703	active
+229708	active
+229713	middlepassive
+active
+229718	active
+229725	active
+229728	active
+229730	active
+229732	active
+229740	active
+229747	active
+229749	active
+229753	active
+229755	active
+229760	active
+229762	active
+middlepassive
+229765	active
+229769	active
+229771	middle
+229776	active
+229780	active
+229784	active
+229788	active
+229791	active
+229795	active
+229802	active
+229806	passive
+active
+229810	active
+active
+229817	active
+229827	active
+229831	passive
+229834	active
+active
+229841	active
+229845	passive
+229848	active
+passive
+229854	active
+229857	middle
+active
+229865	active
+active
+229870	middle
+229872	middle
+229876	active
+middle
+active
+middlepassive
 229881	active
 229886	active
-229888	middle
-active
-229893	active
-229901	active
-229911	active
-229918	middle
+229889	active
+229892	active
+229895	middle
+229900	active
 passive
-229931	passive
-229934	active
-229941	passive
-229944	active
-229964	active
-229966	active
-229970	active
-229972	active
-middle
-229980	active
-229983	active
-229987	active
+229904	middle
 active
-229995	active
-229997	active
+229907	middlepassive
+229922	active
 active
-230002	active
-230013	active
-230021	middlepassive
-230023	active
-230026	active
-230029	active
+229928	active
+229935	active
+229942	active
+229949	passive
+229951	active
+229954	middlepassive
+229956	active
+active
+229959	active
+229963	active
+229970	middlepassive
+229978	passive
+229980	middlepassive
+229983	passive
+229986	active
+229991	passive
+229993	active
+229996	active
+229999	active
+active
+230002	passive
+230007	active
+active
+230011	active
+230014	middle
+230017	active
+230020	active
+active
+230024	active
+230026	passive
+230030	active
+230033	passive
 230037	active
-230039	active
-230061	passive
+active
+230043	active
+230045	active
+230048	active
+230052	active
+230054	active
+230057	active
+active
+active
 230063	active
-230067	active
-230071	active
-230075	passive
-230080	active
-230082	active
-230084	middlepassive
-230097	active
-230106	active
+230066	passive
 active
-230113	active
-230115	active
-230117	passive
-230120	active
-230129	active
-230133	active
-230138	middle
-230145	active
-230154	middle
-230170	active
+230069	active
+230072	active
+230076	middle
+230078	active
+230081	active
+230085	active
+230090	middle
+230095	active
+230097	middle
+230103	middle
+230105	active
+230108	middlepassive
+230112	active
+230119	middle
+active
+230126	active
+230134	middle
+active
+active
+230139	active
+230143	middlepassive
+230156	middle
 passive
-230182	active
-230189	active
-230196	middle
-230204	active
+230160	middlepassive
+230163	active
+230166	active
+230173	middlepassive
+230175	active
+230179	active
+230182	middle
+230186	active
+230192	active
+230195	middle
+230203	middle
+230205	active
+230208	middle
+230213	active
 active
-active
-230212	middle
-active
-230217	active
-230225	active
-230232	middle
-230241	active
-230243	middle
-active
-230248	active
-active
-230264	active
-230271	active
+230217	middlepassive
+230224	active
+230230	middle
+230232	active
+230238	active
+230247	middle
+230249	active
+230254	middle
+230260	active
+230262	middle
+230269	middlepassive
 230274	middle
+230276	active
+passive
+active
 230282	active
-230291	active
-middlepassive
-230311	middlepassive
+active
+230288	middle
+230290	active
+230294	middle
+230302	middlepassive
+active
+230305	active
+230309	passive
+230313	active
+230315	active
 230320	active
-230324	middle
-230333	active
+230322	active
+230326	active
+230329	active
 active
-230338	active
+middlepassive
+active
+active
+230339	active
+230341	active
+230343	active
+230345	active
 230348	active
-230351	middlepassive
-230355	active
-230359	active
 active
-230367	active
+230354	middle
+230358	middle
+230360	active
+230365	active
+230367	passive
+230372	active
+230374	active
+230377	active
 active
-230375	middle
-230381	passive
-230387	active
-230389	active
-230398	active
-230420	active
+230385	middle
+passive
+230388	passive
+230390	active
 active
-230423	active
-230425	active
-230430	passive
+230401	active
+230403	active
+230405	active
+passive
+active
+230411	active
+230414	active
+230417	active
+230424	active
+230427	active
+230432	active
 230436	active
-230439	active
-230449	middle
-230453	middle
+230440	middle
+active
+230444	active
+middlepassive
+active
+230455	active
 230459	middle
-230463	active
-230469	active
-230472	middle
-230475	active
-230484	active
-230489	active
-230491	active
-230498	active
-230501	passive
-passive
-230504	active
-230507	active
-230513	active
-230522	active
-passive
-230532	passive
-230539	active
-230541	passive
-230548	active
-230554	active
-230567	active
-230588	active
-230596	passive
-230609	active
-230615	active
-active
-230623	active
-active
-230630	active
-230634	active
-230636	active
-230638	middle
-230652	active
-middlepassive
-230658	active
-230670	active
-230680	active
-230683	middle
-230687	active
-230690	active
-230695	active
-middlepassive
-230704	passive
-230707	active
-230709	active
-230721	active
-230725	active
-230727	passive
-230729	passive
-230735	active
-230741	active
-230745	active
-230747	middle
-230759	active
-230764	active
-230775	middle
-230799	active
-230816	active
-230820	active
-230823	active
-230825	active
 middle
-230844	active
-230849	middle
-230860	active
-230862	middle
-230871	active
+230463	active
+230468	active
+230474	active
+230476	active
+230479	middle
+230481	active
+230486	active
+active
+230490	active
+230496	active
+230499	active
+230503	active
+230505	active
+active
+230509	active
+230517	active
+230520	active
+230524	active
+230529	active
+230531	active
+230537	active
+230541	active
+230545	active
+230550	active
+230552	active
+230557	active
+230561	middle
+230564	active
+active
+230567	active
+230573	passive
+230576	active
+230579	active
+230585	passive
+230588	active
+active
+230593	middlepassive
+230598	middle
+active
+230601	active
+230608	active
+230610	passive
+230613	middle
+230618	middle
+230622	active
+active
+230629	middle
+230632	middle
+230634	middlepassive
+230638	active
+230647	active
+active
+230650	active
+230653	active
+230657	active
+230660	active
+230665	active
+passive
+230671	active
+230678	active
+230680	active
+230685	active
+230688	active
+230690	middle
+230692	active
+230695	active
+230698	active
+active
+230704	active
+230707	active
+passive
+230711	active
+230714	middle
+230717	middle
+230721	passive
+230724	active
+230726	active
+230728	active
+230734	active
+230736	active
+active
+middle
+230747	active
+230751	passive
+230753	passive
+active
+230757	active
+230764	passive
+230771	active
+230774	passive
+230779	middle
+230783	active
+230787	active
+230790	active
+230793	active
+230795	active
+230806	active
+230810	active
+230814	active
+230825	active
+230829	active
+230831	passive
+230836	middle
+230840	middle
+230842	active
+230848	passive
+230850	active
+230853	active
+active
+230860	passive
+230863	active
+230865	active
+230869	active
+230873	middle
+active
 230877	active
-active
-230884	active
-230886	active
+230879	middle
+230882	active
+passive
+230886	middlepassive
 230888	active
-230890	active
-230904	active
-230912	active
+230895	active
+230899	middlepassive
+230902	active
+230906	active
+passive
+230913	middle
 230916	active
-230919	active
-230934	active
-230940	active
-230946	active
+passive
+230925	active
+230930	active
 active
-230952	active
-230961	middle
+230933	active
+230935	passive
+230939	active
+230941	active
+230943	active
+230948	active
+230950	active
+230954	active
+230959	active
+230961	active
+230968	active
 230973	active
-230988	active
-230995	middlepassive
-230998	middle
-231000	middlepassive
-231002	middle
-231004	active
+230979	middlepassive
+230982	active
+230984	active
+230987	active
+230991	active
+230994	active
+230999	middle
 active
-231013	active
+231002	active
+231005	active
+231011	active
 231015	active
+231018	active
 231021	active
 231023	active
-231028	middle
-231032	passive
-231037	active
-231041	active
+231025	passive
+231029	passive
+231037	passive
 231043	active
+231047	active
+231052	active
+231061	active
+231068	middle
+231072	middlepassive
 active
-231049	passive
-231054	active
-231059	middle
-231064	active
-231075	passive
-active
-231081	active
-231089	active
-231095	active
-231101	active
-231106	active
+231076	active
 passive
-231117	active
-231120	passive
-231125	passive
-231129	middlepassive
-231139	passive
-231153	active
-231155	active
-231162	active
-231166	passive
-231170	middle
-active
-231173	active
-231175	active
-231179	passive
-active
-231186	active
-231194	active
-231208	active
-231210	active
-231213	active
-231220	active
-231223	active
-active
-231227	active
-active
-231239	active
-231247	active
-active
-231250	active
-231257	active
-231265	active
-231269	active
-active
-231282	active
-231287	active
-231292	active
-passive
-231297	passive
-231315	active
-231322	active
-231327	active
-231331	passive
-active
-231337	active
-231347	passive
-231369	middle
-231378	middle
-231380	active
-231395	active
-231404	middle
-231409	active
-231418	active
-231424	active
-231427	middle
-231431	active
-231434	active
-231439	passive
-231447	active
-231449	active
-231460	active
-231469	active
-231476	active
-231484	active
-231492	active
-231497	active
-231510	middle
-231515	middle
-231519	active
-231524	active
-231529	active
-231546	active
-231553	active
+231080	passive
 middle
-231557	passive
-231565	active
+231084	middlepassive
+231086	active
+231092	active
+231095	active
+231100	active
+231102	active
+231108	active
+231111	middle
+231113	active
+231115	active
+231119	active
+231123	active
+231126	active
+231129	middle
+231134	active
+active
+231137	active
+231140	active
+231144	active
+231146	active
+middlepassive
+231151	passive
+231155	passive
+231157	active
+231161	active
+231167	passive
+231169	active
+231171	active
+231180	passive
+231185	active
+active
+231189	active
+active
+231194	active
+231198	active
+231202	active
+231207	middle
+231209	active
+231213	active
+231216	active
+231222	middle
+231232	active
+active
+middle
+231236	middle
+231239	middle
+231242	middle
+231245	active
+231248	middlepassive
+231252	middle
+231256	active
+231258	active
+231260	active
+231262	active
+231267	middlepassive
+231272	active
+231275	middlepassive
+231282	active
+231286	passive
+231293	active
+231295	active
+231297	active
+231300	active
+231303	active
+231305	middlepassive
+231310	active
+231312	active
+231319	active
+231322	active
+active
+231329	active
+231331	active
+active
+231336	active
+231340	active
+231343	active
+231345	passive
+231349	active
+231351	passive
+231354	active
+231358	active
+231362	active
+231365	active
+231369	active
+231373	active
+231375	active
+active
+231379	active
+231381	active
+active
+231384	active
+active
+231390	active
+active
+231394	active
+231396	active
+231400	active
+231403	active
+231405	middle
+231412	middle
+231415	active
+231419	passive
+231422	active
+231424	active
+231426	active
+231430	passive
+active
+231434	active
+231441	middlepassive
+active
+231445	passive
+231448	active
+231451	active
+active
+231458	active
+231460	active
+231462	active
+231466	active
+231472	passive
+231479	active
+active
+231482	active
+231488	active
+active
+231491	active
+231494	passive
+231496	middlepassive
+active
+231502	active
+active
+231505	passive
+231507	active
+active
+231512	active
+active
+231517	active
+231520	active
+231522	passive
+231529	active
+231531	active
+231537	active
+231542	active
+231549	active
+231554	passive
+231558	active
+middle
+231564	passive
+231568	active
 231570	active
-231578	active
-231583	active
-231590	active
-231597	active
-231606	active
-231610	middlepassive
-231621	active
-231629	middle
-231636	active
+231575	active
+231577	middle
+231581	active
+231588	middlepassive
+active
+231591	active
+231598	active
+231604	middlepassive
+passive
+231608	passive
+231611	active
+231613	active
+active
+231618	active
+231625	active
+active
+231629	active
+active
+231633	middle
+231639	active
 231642	active
+middle
+231646	active
 231649	active
-231652	active
-231654	active
-231660	middle
-231662	active
-231691	passive
-231697	middle
+231651	active
+231656	active
+231658	active
+231663	middle
+231665	active
+231669	active
+231671	active
+231674	middle
+231677	active
+231682	active
+231687	active
+231691	active
+active
 231699	active
-231704	middle
-231726	active
-231731	active
+231702	active
 active
-231734	active
-231736	active
-231741	middlepassive
-231745	active
-231749	active
-231761	active
-231775	passive
-231787	middle
-231790	active
-231797	active
-231808	middle
-231811	active
-231820	active
-231834	active
-231838	active
-231840	active
-231843	middle
-231845	active
-231849	active
+231705	active
+231712	middle
+231714	active
+231717	active
+231719	middle
+231724	active
+231727	active
+231730	active
+231732	active
+231737	active
+231739	active
+231743	active
+231745	middle
+231747	active
+231750	active
+231752	active
+231754	active
+231756	middle
+231762	active
+231764	middlepassive
+231766	active
+231768	active
+active
+231771	active
+231775	middle
+active
+231781	active
+231785	active
+231788	middlepassive
+231793	passive
+231795	active
+231803	active
+231809	active
+231813	active
+231815	middlepassive
+231822	active
+231824	active
+231826	active
+231829	active
+231832	middle
+231836	active
+active
+231840	passive
+231852	active
 231854	active
-231860	active
-231862	active
-231864	active
-231868	active
-231871	middle
+231856	active
+231859	active
+231861	active
+231866	active
+231869	passive
 231873	active
-231877	active
-231880	active
-231882	active
-231885	active
+passive
+231876	active
+231879	middle
+active
+231883	active
+middlepassive
+231886	active
 231889	active
-231893	active
-231899	active
-231906	active
-231912	passive
-active
-231920	active
-231923	active
-231927	active
-231931	active
-231941	middle
+231891	active
+231896	active
+passive
+231907	active
+passive
+231914	middle
+231916	active
+231918	active
+231921	active
+231928	passive
+231930	active
+231932	active
+231938	active
+231940	middlepassive
+231942	active
 231946	active
-231948	active
-231955	active
-231959	active
-231964	middlepassive
-231967	active
-231971	active
-231985	middle
-231993	active
-231997	active
-232001	active
-232005	middlepassive
-232010	active
+231950	active
+231953	active
+231957	active
+231960	active
+231963	active
+231965	middle
+231968	middle
+231970	active
+231975	middle
 active
-232020	active
-232029	active
+231981	middle
+231986	active
+231993	active
+231997	passive
+232000	middle
+active
+232003	active
+232005	active
+232009	middlepassive
+232017	middlepassive
+232026	active
+active
+active
 232034	active
-232038	middlepassive
-232044	active
-232048	active
-232051	active
-232055	passive
+232039	active
+232054	active
+active
+232058	active
+232060	middle
 232062	active
-232067	active
-232069	active
-232071	active
-232073	middlepassive
+232065	active
+232068	active
+232070	middle
+232074	active
 232077	active
-232085	active
-232091	active
-232095	active
-232097	active
+middle
+232081	active
+232084	active
+232087	active
+232092	middlepassive
+232096	middlepassive
+middlepassive
+232099	active
 232103	active
 232108	active
-232112	active
-232114	active
-232119	active
+active
+232115	active
+232118	middlepassive
 232121	active
-232128	active
-232130	active
-232133	active
-232145	active
+232129	active
+middlepassive
+232135	active
+232137	active
+232144	active
+232147	active
+232150	active
+232158	passive
 232160	active
-232164	active
+232166	middlepassive
+232168	active
+middle
+232174	active
+232176	active
+232186	active
+232190	middle
+232194	active
+232196	passive
+232208	active
+232213	active
+232217	active
+232219	active
 active
-active
-232175	active
-232182	active
-232184	active
-232188	passive
-232194	middle
-232196	active
-active
-232200	active
-232203	active
-232207	passive
-passive
-232211	active
-active
-232214	middlepassive
-232216	middle
-active
-232220	active
-232222	active
-232227	active
-232234	active
-232238	active
-232254	active
-232259	active
-232261	active
-232273	active
-232275	active
+232228	active
+232230	active
+232234	passive
+232237	middle
+232242	active
+232246	active
+232249	active
+middle
+232253	middle
+232255	passive
+232257	active
+232262	active
+232265	active
+232270	middle
+232276	active
+232278	middle
 232281	active
+232287	middlepassive
+232294	active
+232296	middle
+232298	middle
+232300	active
+middlepassive
+232304	active
+middle
+232309	active
+232312	passive
+232320	middle
+active
+232325	passive
+active
+232328	active
+232331	middle
+232334	active
+232336	passive
+232339	active
+232343	active
+232346	active
+232357	active
+232359	middle
+232362	middle
+232366	active
+active
+232374	middle
 passive
-232284	active
-232291	active
-232296	active
-232298	active
-232306	passive
-232309	passive
-232314	active
+232380	active
+232382	middlepassive
+232387	active
 active
-232322	active
-232325	active
-232330	active
-232332	active
-232349	active
-232355	active
-232358	active
-232369	active
-232382	active
-232388	middlepassive
-232392	active
-active
-232398	middlepassive
-232400	active
-active
-232406	middlepassive
-232411	active
-232415	active
-232423	active
-active
-232429	active
+232390	active
+232393	active
+232395	active
+232402	active
+232405	active
+232408	active
+232410	passive
 middle
-232433	active
-232440	active
+232414	active
+232419	active
+232422	active
+232425	active
 active
-232447	active
-232449	middle
-232454	active
-232465	active
-232469	middle
-232472	active
-232475	active
+232428	middlepassive
+232441	active
+232444	active
+232447	middle
+passive
+232450	active
+active
+232453	active
+232456	passive
+232458	active
+232467	active
+passive
+232471	active
+232474	active
 232478	active
-232485	active
-232489	middle
-232491	active
-232495	active
-232497	middle
-232501	active
-232510	active
-232512	active
-232531	middle
-232540	active
-232549	passive
-232568	active
+232482	active
+232484	middlepassive
+active
+232489	active
+232492	active
+232496	middlepassive
+232498	middle
+232500	middle
+232503	active
+232506	middle
+232508	middle
+232510	middle
+232513	middle
+232516	active
+232518	middle
+232523	active
+232527	middle
+232531	active
+232533	active
+232535	passive
+232538	middle
+232541	active
+232547	middle
+232551	middle
+232554	active
+232557	middlepassive
+232561	passive
+232563	active
+232567	active
 232570	active
-232583	active
-232585	active
-232596	active
-232602	active
-232614	active
-232616	active
-232618	active
-232637	middlepassive
-active
-232646	active
-232651	active
-232657	active
-232663	active
-232665	active
-232668	active
-232674	active
-232677	middle
-232685	passive
-232688	active
-232690	active
-232695	active
-232697	active
-232701	active
-232709	active
-232720	active
-232723	passive
-232728	active
-232739	active
-232756	active
-232763	active
-232775	active
-232798	active
-232806	active
-232815	active
-232823	active
-232830	active
-232840	middlepassive
-232842	active
-232848	active
-232867	active
-232875	active
-232881	active
-active
-active
-232887	active
-232900	passive
-232908	passive
-active
-232919	middle
-232921	middle
-232927	active
-232932	active
-232936	active
+232574	middle
+232576	active
+232579	active
+passive
+232583	passive
+232587	active
+232590	active
+232597	active
+232603	active
+232605	active
+232607	active
 middle
-232940	active
-232942	active
+232614	active
+middlepassive
+middlepassive
+232619	passive
+232623	middle
+passive
+232630	active
+passive
+232635	active
+232642	middlepassive
+232645	active
+232647	active
+middle
+232652	active
+232659	active
+232670	active
+232672	passive
+232675	active
+232681	active
+232683	active
+232689	active
+232694	active
+232696	active
+232698	active
+232702	middle
+232706	active
+232709	middle
+232711	active
+active
+232715	active
+232718	active
+232720	active
+232728	middle
+active
+232731	active
+232735	active
+active
+232743	active
+232748	active
+passive
+232752	active
+232755	active
+232757	middlepassive
+232761	passive
+232763	middlepassive
+232767	active
+232769	middlepassive
+232772	active
+232781	middlepassive
+232783	active
+232792	middle
+232798	active
+232800	active
+232804	active
+active
+232813	active
+232824	middle
+232827	active
+passive
+232834	active
+active
+active
+232839	passive
+232844	passive
+232849	active
+232853	active
+232859	active
+232861	active
+232864	active
+232872	active
+232877	active
+passive
+232881	active
+232888	active
+232890	active
+active
+232894	middlepassive
+232896	active
+232903	middlepassive
+232913	active
+232920	active
+232924	middlepassive
+232927	active
+232930	active
+232932	active
+232939	active
+232943	active
+232946	active
+232948	active
+232952	active
 232954	active
-232956	active
-232966	passive
-232979	active
-232983	active
-232997	passive
-233001	passive
-233009	active
-233011	active
-233020	active
-233026	active
-233043	active
+232957	active
+232959	active
+232961	active
+232967	passive
+232969	middle
+232975	active
+232979	passive
+232981	middle
+232990	active
+232992	active
+232994	active
+233004	active
+233010	passive
+233014	middle
+233031	active
+active
+233034	active
+233040	active
+233044	middle
+233047	middlepassive
+middle
 233051	active
 233058	active
+middlepassive
 233064	active
-233071	active
-233077	active
-233080	active
-233088	active
-233090	active
-233096	active
-233114	active
-233120	active
-233123	active
-233128	active
-233132	middlepassive
-233138	active
-233141	active
-233144	active
-233151	middle
-233154	active
-233158	active
-233163	passive
-233166	middlepassive
+233068	active
 active
+middlepassive
+233078	active
+active
+233087	middlepassive
+233091	active
+middlepassive
+233098	active
+233101	middlepassive
+active
+233107	middlepassive
+middlepassive
+233114	middlepassive
+active
+active
+233121	passive
+233128	active
+233130	active
+233132	active
+233139	active
+233141	active
+233144	middle
+233154	active
+233157	middle
+233160	active
+233164	active
+233172	middlepassive
 233175	active
-233183	middlepassive
-233185	passive
-233187	active
-233189	middlepassive
-233202	active
-233204	passive
-middle
-233209	active
-233214	passive
-233221	middlepassive
+active
+233178	active
+233183	active
+233189	active
+passive
+middlepassive
+233196	middle
+233200	passive
+active
+233205	active
+233216	active
+233220	active
+active
+233227	passive
 active
 233233	passive
-233240	active
+233239	middle
+active
 233243	passive
-233250	active
+233245	active
+233247	passive
+active
 233252	active
-233254	active
-233256	active
-233258	passive
-233264	active
+233260	active
 active
-233272	active
-233275	active
-233277	middlepassive
-233280	active
-233282	active
-233286	passive
-233292	middle
-233295	active
-233298	middlepassive
-233300	middle
+233266	active
+233270	active
+233273	active
+233279	active
+233282	middle
+233286	active
+233289	active
+233294	middlepassive
+233296	active
+233300	passive
+233303	active
+233306	middle
+233308	active
+233316	active
+active
+233319	active
+233322	active
+233336	active
 middle
-233304	active
-233307	active
-233318	active
-233321	active
-233325	active
+233345	passive
+233348	passive
+233352	active
+233355	middle
+233357	passive
+233359	middlepassive
 active
-233329	active
+233362	active
+233366	active
+233370	active
+233373	active
+233375	active
 active
-233338	active
-233343	active
-233347	active
-233350	active
-233355	active
-233358	active
-233372	active
+233378	middlepassive
 233383	active
-233393	passive
+233386	passive
+233388	passive
+233393	middlepassive
 active
-233406	active
+233396	active
+passive
+233401	active
+passive
+233404	active
+233407	middle
 233410	active
-233416	active
-233431	active
-233436	active
-233441	middle
-233443	active
-233449	active
-233462	active
-233468	passive
-233476	active
-233481	passive
-233484	active
-233486	passive
-233489	active
-233507	active
-233515	active
+233412	middlepassive
+active
+233415	middlepassive
+233420	active
+active
+233424	passive
+233427	passive
+233431	middle
+233438	active
+233442	active
+233448	middlepassive
+233450	passive
+233453	passive
+233457	active
+233459	passive
+233463	active
+active
+233467	active
+233470	passive
+233473	active
+233481	active
+233483	active
+233487	middle
+233491	active
+233499	active
+233502	active
+active
+233505	middlepassive
+233509	active
+active
+233512	middle
+middlepassive
+233517	active
+233520	active
 233522	active
-233534	active
-233547	active
-active
-233554	middlepassive
-233562	passive
-233570	active
-233574	middlepassive
-233581	passive
-233592	active
+233527	middle
+233530	passive
+233535	active
+233537	active
+233541	middle
 passive
-233597	active
-233616	active
-233621	active
-233623	active
-233628	active
-233640	active
-233643	middle
-233645	passive
-233649	active
-passive
-233657	middle
-233674	active
-233681	active
-233685	active
-233696	active
+233549	active
+233551	active
+233555	active
 active
-233699	active
-233702	middlepassive
-233706	middle
-233709	active
-233711	middlepassive
-233713	active
-233718	active
-passive
-233730	active
-233732	active
-233734	active
-233742	passive
+233560	active
+233563	active
 active
-233748	active
-233753	active
-233763	active
-233765	active
-233768	active
-233788	passive
-233790	active
+233566	middlepassive
+233572	active
+233574	active
+233576	middlepassive
+233578	middle
+233581	active
 active
-233794	passive
-233797	middlepassive
-233801	active
-233803	active
-233814	active
-233821	active
-233828	middlepassive
-233832	active
-233834	active
-233836	active
-233838	active
-233846	active
-233848	active
-233854	active
-233860	active
-233863	active
-233874	active
-233880	active
-233887	active
-233893	active
-233902	active
-233908	active
-233914	active
-233919	middle
-233929	active
-233935	active
-233940	active
-233949	active
-233951	active
-233959	active
-233966	active
-233971	active
-233978	active
-233981	middlepassive
-233987	middlepassive
-233998	passive
-234006	active
-234014	active
-234026	active
-234032	middlepassive
-234040	active
-234044	middlepassive
-234052	active
-234054	active
-234059	active
-234061	active
-234068	active
-234076	active
-active
-234090	active
-234094	active
-active
-234099	active
-234102	middlepassive
-234105	middle
-234108	active
-234111	active
-234121	active
-234123	active
-234125	active
-234127	active
-234130	active
-234133	active
-234138	active
-active
-234144	active
-234149	active
-234153	active
-234158	active
-234162	active
-234171	active
-234181	active
-234194	middle
-234197	active
-234202	active
-234210	active
-234215	active
-234223	active
-234228	active
-234239	active
-234241	middle
-234249	middlepassive
-234255	active
-234263	active
-234272	active
-234274	middlepassive
-234276	active
-active
-234279	active
-active
-234287	active
-234289	middle
-234294	active
-234296	active
-234298	active
-234304	active
-234308	active
-234313	active
-234317	active
-234319	active
-234325	active
-active
-234332	active
-234335	active
-234349	active
-234352	active
-234357	active
-234362	active
+233586	active
+233594	active
 active
 active
-234369	active
-234373	middlepassive
-234388	active
-234393	active
-234396	active
-234398	active
-234400	active
-234410	active
-234412	middlepassive
-234416	active
-234423	active
-234438	active
-234440	active
-234448	active
-234454	active
+233604	active
+233608	passive
+233610	middlepassive
+233612	active
+233618	active
+233620	active
+233625	active
+middlepassive
 active
+233630	active
+233632	active
+233635	active
+233637	active
+233639	middle
+233641	active
+233643	active
+233650	active
+233656	middle
 active
-234461	active
-234464	middlepassive
-234466	passive
-234469	active
-234471	active
-234474	active
-234480	active
-234482	active
-234488	active
-234495	active
-234500	active
-234503	active
-234505	active
-234508	active
-234512	active
-234523	active
-234530	active
-234534	active
-active
-234538	active
-234543	active
-234546	active
-234550	active
-234557	middlepassive
-234566	active
-234571	active
-234573	active
-234576	active
-234580	active
-active
-234585	active
-active
-234596	active
-234598	active
-active
-234607	active
-234609	active
-234615	active
-234618	active
-234626	active
-234630	active
-234635	middlepassive
+233661	active
+233663	active
+233667	active
 middle
 active
-234639	active
-234646	middle
-234652	active
+233672	middle
+233675	middle
+233677	middle
+233684	passive
+233687	active
+233689	middle
+233696	middle
+233699	active
+233703	active
+active
+233707	middlepassive
+middlepassive
+active
+233713	active
+active
+233718	active
+233723	active
+233725	active
+active
+233729	active
+233733	active
+233738	active
+active
+233743	passive
+233749	middle
+233752	active
+233755	active
+active
+233759	middlepassive
+active
+233762	active
+233765	active
+233767	middlepassive
+active
+active
+233773	active
+233788	middle
+233790	passive
+233794	passive
+233796	active
+233800	passive
+233803	active
+233807	active
+233809	active
+233812	middle
+233816	active
+233820	active
+233826	active
+233832	active
+active
+233838	active
+233840	middle
+233846	active
+233849	active
+233853	passive
+233857	active
+233859	active
+233863	active
+233867	active
+233871	active
+233873	active
+passive
+233876	active
+233882	active
+233884	active
+233887	middlepassive
+middle
+active
+233891	active
+233899	active
+233908	middle
+233912	active
+middle
+233919	passive
+middlepassive
+233923	active
+233925	middle
+active
+233929	middle
+233933	middle
+233938	active
+233940	middlepassive
+233942	passive
+233946	active
+233949	passive
+middle
+233957	passive
+233962	active
+233968	passive
+233970	active
+233973	active
+active
+233979	middle
+233982	active
+233985	active
+233987	passive
+233989	active
+233995	active
+233998	active
+234001	active
+234009	active
+234011	active
+234013	active
+234017	active
+234019	passive
+234021	active
+234026	active
+234028	middle
+234032	middle
+234034	active
+234037	active
+234040	active
+234046	active
+234054	passive
+234060	active
+234062	middlepassive
+active
+234067	active
+234069	active
+234072	passive
+middle
+234078	active
+234080	active
+234085	active
+234087	active
+234089	active
+234097	middlepassive
+234101	active
+234106	middle
+234110	middle
+234117	active
+234120	active
+234122	active
+234129	active
+234132	passive
+middle
+234137	active
+234143	middle
+middlepassive
+234148	active
+234164	passive
+passive
+234168	active
+234171	active
+234173	middle
+active
+234181	active
+234187	active
+passive
+234193	active
+234195	active
+234198	active
+234200	active
+active
+234204	active
+passive
+234214	active
+234218	active
+234221	active
+234225	active
+234228	active
+234230	active
+234232	middle
+234236	active
+234240	passive
+234247	middle
+active
+234254	middlepassive
+234256	middlepassive
+234258	active
+234263	active
+234273	passive
+234277	middle
+234287	middle
+234291	passive
+234301	active
+234312	active
+234316	active
+234327	active
+234336	passive
+234342	active
+234345	active
+234356	middle
+234361	middlepassive
+234365	passive
+234370	active
+234372	active
+234374	active
+234378	active
+234382	passive
+234386	active
+passive
+234397	active
+234400	active
+234404	middle
+active
+234408	passive
+234413	active
+234426	active
+234434	middle
+234437	middlepassive
+234441	active
+234444	active
+234451	passive
+234455	passive
+234459	middle
+passive
+234470	active
+234476	active
+234481	active
+234488	passive
+passive
+234496	active
+234500	active
+234507	passive
+234512	passive
+234516	active
+active
+234519	passive
+234521	active
+234534	active
+234543	middlepassive
+234548	active
+234558	active
+234560	active
+234566	active
+234575	active
+234585	active
+234590	passive
+234598	middlepassive
+234603	active
+234607	active
+234611	active
+234613	active
+234615	active
+234620	active
+234622	active
+passive
+234632	active
+234634	active
+234637	active
+234641	active
+234644	active
+active
+234648	active
+234651	active
+234655	active
 234658	active
-234660	active
-234662	active
-234671	active
+234661	active
+active
+active
+234669	active
 234673	active
-234676	active
-234684	active
-234688	active
-234690	active
-234694	active
-234696	active
+middlepassive
+234678	active
+234680	active
+234682	active
+234685	middle
 234698	active
-234702	active
-234704	active
-234714	active
-234725	active
-234741	active
-234743	active
-234748	active
-234751	active
-234758	active
-234760	active
+active
+234706	active
+234713	active
+234723	active
+234734	active
+234739	active
+234741	middle
+234749	middlepassive
+234758	middlepassive
 234765	active
-234774	active
-234786	active
+234772	active
+234775	middle
+234779	active
+234781	passive
+234791	passive
 234796	active
-234799	active
-234801	active
+234800	active
 234804	active
-234821	active
-234832	active
-234844	active
-234847	active
-234853	middle
-234860	active
-234862	active
-234875	active
-234881	active
-234894	active
+234806	active
+234809	middle
+234817	active
+234823	active
+234826	middlepassive
+234828	active
+234841	passive
+234843	middlepassive
+234846	middlepassive
+234849	active
+234852	active
+active
+passive
+234857	active
+234861	active
+234867	active
+234876	active
+234880	active
+active
+234883	active
+active
+active
+234887	active
+active
+middlepassive
+234891	active
+234894	middlepassive
 234900	active
-234909	active
+234906	passive
+234910	passive
 234914	active
 234917	active
-234928	active
-234933	active
-234935	active
-234937	middle
+234921	active
+234925	active
+234932	active
+234936	passive
+234938	active
 234943	active
-234945	active
-active
-234959	active
-234963	active
-active
-234972	active
-234974	active
-234980	active
-234985	middlepassive
-234991	active
-active
+234954	active
+234993	passive
 235000	active
-235006	middlepassive
-235010	active
-235014	active
-235016	active
-235023	active
-middle
+235007	active
+235009	middle
+middlepassive
+235018	passive
+235020	passive
+235025	active
+235027	passive
+235034	active
 235036	active
-active
-235045	active
-235050	active
-235064	active
-235074	active
+235039	active
+235042	active
+235044	middle
+235047	active
+235058	active
+235067	passive
+235070	passive
+235073	active
 235076	active
-235093	active
-235097	active
+235078	active
+235081	active
+235086	active
+235089	middlepassive
+235092	middle
+235098	active
+235100	passive
+235103	active
+235108	active
+active
 235111	active
-235118	active
+active
+235115	active
+235117	passive
+235119	active
+active
 235123	active
-235138	passive
-235144	active
-235148	middlepassive
+235126	passive
+235131	active
+235139	active
+235143	active
 235152	active
-235156	middlepassive
-235169	active
-235176	active
-235184	active
-235195	middlepassive
-235198	passive
-235200	active
-235211	active
-235220	active
-235224	middlepassive
-235226	active
-235232	active
-active
-235235	active
-235237	middle
-middle
-235241	active
-235245	active
-235248	passive
-235252	active
-235263	middlepassive
-235269	active
-active
-235275	active
-active
-235283	active
-235286	middle
+235154	active
+235159	active
+235164	active
+235168	active
+235171	passive
+235174	middle
+235182	passive
+235192	passive
+passive
+235205	active
+235208	active
+235212	active
+235214	passive
+235218	passive
+235227	middle
+235243	active
+235257	active
+235260	active
+235267	passive
+235275	middlepassive
+235277	passive
 235292	active
-235299	active
+235301	active
+235305	middle
+235308	active
+235311	active
 active
-235310	active
-235316	passive
-235318	active
-235321	active
-235323	active
-235329	middle
-235332	active
-235337	active
+235320	passive
 active
-235345	active
+235329	active
 active
-235349	active
-235354	active
-235356	active
+235335	passive
+235339	middlepassive
+235341	middlepassive
+235346	middlepassive
+active
+235350	active
+235352	middlepassive
 235358	active
-235361	passive
-235363	active
-235365	active
-235370	active
-235372	active
-235381	active
-235392	active
-235394	active
-235396	active
-235398	active
-235405	middle
-active
-235411	active
+235364	middlepassive
+235369	passive
+235373	passive
+235378	middle
+235390	active
+235392	passive
+235398	passive
+235400	active
+235408	active
 235417	active
-235419	active
-235426	active
-235435	active
-235441	middle
-235451	middlepassive
-235453	middlepassive
-235459	active
-235464	active
-235468	active
-235478	active
-235484	active
-235488	middle
-235494	active
-235498	active
-235501	middlepassive
+235421	active
+235424	passive
+235434	active
+235452	active
+235461	passive
+235464	passive
+235469	middlepassive
+235473	active
+235482	active
+235497	active
+235501	passive
 235505	active
-235513	active
-235517	active
-235522	active
-235530	active
-235535	active
-235542	active
-235546	active
-235552	active
-235557	active
-235563	active
-235568	active
-235576	active
+235509	active
 active
-235583	active
-235591	active
-235597	active
-235602	active
-235608	active
-235613	active
-235618	active
-235622	active
-235631	active
-235633	active
-235635	active
-235637	active
-235646	middlepassive
-235648	active
-235661	active
-235664	middlepassive
-235668	active
-235673	active
+235513	active
+235515	active
+235518	active
+235522	active
+235524	middle
+235529	passive
+235531	middle
+235536	active
+235538	active
+235541	passive
+235544	active
+235556	passive
+235559	passive
+235561	active
+235565	passive
+235568	middlepassive
+active
+235571	active
+235574	passive
+235577	passive
+235582	passive
+235588	active
+passive
+active
+235592	active
+235597	passive
+235602	passive
+235606	passive
+235610	active
+235619	active
+235625	active
+235627	middlepassive
+235637	middlepassive
+235640	active
+235644	middlepassive
+235654	active
+235659	passive
+235665	passive
+235669	active
+235675	active
+235680	middle
 235687	active
 active
-235694	active
-235705	active
-235707	active
-235713	active
-235716	active
-235721	active
-235723	active
-235726	middlepassive
-235740	active
-235747	middle
-235752	active
-235762	active
-235769	middlepassive
-235771	active
-235777	active
 active
-235788	active
-235791	active
-235805	active
-235809	active
-235819	active
-235822	active
-235824	active
-235829	active
-235832	active
-235837	active
-235842	active
-235847	active
-235860	active
-235863	active
-235866	passive
-235868	active
-235873	passive
-235875	active
-235878	active
+235698	active
+235702	active
+235705	passive
+235710	passive
+235717	active
 passive
-235892	active
+235726	passive
+passive
+235735	middlepassive
+235744	active
+235752	active
+235761	active
+235765	active
+235769	active
+235774	passive
+235776	active
+235779	active
+235786	active
+235793	active
+235795	active
+235808	active
+235822	active
+235829	active
+235847	active
+235858	active
+235860	active
+235887	passive
+235896	passive
+235900	active
+235902	active
 235906	active
+235908	active
 235912	active
-235920	active
+235919	active
+235928	active
 active
-235930	active
-235935	active
-235939	active
-235948	active
-235953	active
-235961	active
-235965	active
-235968	active
+235933	active
+235935	middle
+235937	active
+235941	active
+235944	active
+235947	passive
+235952	passive
+passive
+235962	passive
 235973	active
-active
-235980	active
+235977	active
+235985	middle
 235987	active
-235990	active
-235992	active
+235991	passive
+235993	passive
 235998	active
-active
-236005	active
-236011	active
+236002	active
+passive
+236008	active
+236010	active
 236013	active
-236024	active
-236029	active
-236043	active
-236047	active
-236058	middle
-236060	middlepassive
+236015	active
+236018	passive
+236021	active
+236025	active
+236028	active
+236030	active
+236034	active
+active
+236039	middlepassive
+236041	active
+236045	active
+236051	active
+236058	active
 236062	active
-236067	active
-236082	active
+236068	active
+236074	active
 236084	active
-236087	active
+236086	active
+236092	active
 236094	active
-236096	active
-236103	active
-236106	active
-236108	active
-236116	active
+236099	middle
+236101	active
+236104	active
+236109	active
+236111	active
+236122	active
 236125	active
-236132	active
-236136	active
-236152	active
-236159	active
-236164	active
-236168	active
-active
-236179	middlepassive
-236187	active
-236200	active
-236209	middle
-236214	middlepassive
-236218	active
+236129	passive
+236131	passive
+236135	passive
+236138	active
+236146	active
+236157	active
+236166	active
+236169	active
+236173	active
+236178	middlepassive
+236185	passive
+236188	passive
+236191	active
+236212	active
+236214	active
+236217	active
+236220	active
 236223	active
-236226	active
-236230	active
-active
-236235	active
-236237	active
-active
-middle
-236250	active
-236257	active
-active
-236276	active
-236280	active
-236293	active
+236229	active
+passive
+236234	active
+236236	passive
+236243	active
+236246	active
+236248	middle
+236252	active
+236255	active
+236259	active
+236262	middle
+236267	passive
+236274	middle
+236277	passive
+236279	active
+236283	active
+236292	middle
 236297	active
-236301	active
-236305	active
-active
-236316	active
-236327	active
-236336	active
-active
-236339	middlepassive
-236349	active
-236352	passive
-active
+236301	passive
+236304	active
+236307	passive
+236309	active
+236318	active
+236322	middle
+236326	active
+236334	active
+236338	active
+236340	active
+236343	active
+236347	middle
+236356	active
 236359	active
 236363	active
-236368	middle
-active
-236372	active
-236388	active
-236390	active
-236395	active
-236397	active
-236399	active
-236402	active
-236408	middlepassive
+236366	active
+236368	passive
+236378	active
+236381	active
+236385	active
+236397	middle
+236400	middle
+236404	passive
+236409	middlepassive
+236412	middle
 236418	active
-236420	active
-middlepassive
 236423	active
-236426	active
-236428	active
-236440	middle
-active
-236453	active
-236457	middlepassive
-236469	active
-236472	active
-236486	active
+236427	active
 passive
+236433	middlepassive
+236435	active
+236438	active
+236440	active
+236443	active
+236445	active
+236450	active
+236452	active
 active
-236498	active
-236502	active
-236514	middlepassive
-236516	passive
-236519	active
-236522	active
-236524	middlepassive
+236459	middlepassive
+236464	active
+236466	active
+236470	active
+236473	active
+236479	active
+middlepassive
+236483	middlepassive
+236488	active
 active
-236527	active
-236536	middle
-236548	active
-236556	active
-236562	active
-236568	active
-236576	active
-236597	active
-236599	active
-236610	active
-236614	active
-236620	active
-236627	active
-236635	active
-236643	active
-236647	active
-236652	active
-236659	active
+236493	active
+236495	active
+236500	active
+236503	active
+236505	middlepassive
+236510	active
+236512	active
+236515	active
+active
+236520	middlepassive
+middlepassive
+236529	active
+236535	middlepassive
+236541	active
+236547	active
+236555	middle
+236571	active
+236588	active
+236601	active
+236607	active
+236613	active
+236621	passive
+236624	active
+236629	active
+236632	active
+236658	passive
+236661	middlepassive
 236664	active
-middle
+236666	active
+236668	middlepassive
 236671	active
-236674	active
-236676	active
-236680	active
+236677	active
 236684	active
-236691	passive
-middlepassive
-236698	middle
-236704	active
-236719	active
-236725	active
-236729	active
+236687	active
+236705	active
+236708	active
+236710	active
+236712	active
+236720	active
+236727	active
+236731	active
 236735	active
-236737	middlepassive
-236745	middle
-236748	active
-236751	active
-236760	active
-236764	active
-236766	active
-236772	active
-236776	active
-236778	active
-236781	middlepassive
-236790	active
-236798	active
-passive
-236807	active
-236809	active
 active
-236818	active
-236822	active
-236839	active
-236862	active
-236864	active
-236872	active
-236876	active
-236883	active
-236890	active
-236896	active
-236905	middlepassive
-236912	active
-236915	active
-236922	active
-236925	active
-236929	active
-236933	active
-236937	active
-236945	active
-236948	middlepassive
-236955	active
-236958	active
-236966	active
-236980	active
-236984	active
-236990	active
-236996	active
-236999	active
-237004	active
-237015	active
-237029	active
-237034	active
-237038	active
-237043	active
-237053	active
-237062	active
-237064	active
-237069	active
-237076	active
-237079	active
-237088	active
-237098	active
-237105	active
+active
+236744	active
 middle
-237109	active
-237112	active
-237117	middlepassive
-active
-237128	active
-237130	active
-237133	active
-237143	active
-passive
-237151	middle
-237159	active
-237166	active
+236749	passive
+236752	active
+236754	active
+236759	active
+236762	active
+236766	active
+236770	active
+236781	active
+236784	passive
 middlepassive
-237176	active
-237181	active
-237188	active
-237194	active
-237197	active
+236797	active
+passive
+236809	middlepassive
+236813	passive
+236816	active
+236822	passive
+236835	active
+236852	active
+236855	active
+middlepassive
+236863	passive
+236866	passive
+236868	active
+236872	active
+236875	active
+236880	active
 active
-237203	active
-237216	active
-237226	active
+236883	middlepassive
+236888	middlepassive
+236893	middle
+236895	active
+236897	active
+236901	active
+236904	active
+236906	active
+236913	active
+236915	active
+236918	active
+236921	active
+236925	active
+236928	active
+236930	active
+236937	active
+236944	active
+236947	active
+236950	active
+236953	active
+236956	active
+236959	active
+236962	active
+236973	middle
+236977	active
+236985	middle
+236987	active
+236991	active
+236993	active
+active
+236997	passive
+236999	active
+237005	active
+237009	active
+237021	passive
+237024	passive
+237027	passive
+237034	active
+237036	active
+237038	passive
+237046	active
+237048	active
+237055	middle
+237057	active
+237067	active
+237070	middlepassive
+active
+237079	active
+237085	middlepassive
+237088	active
+237100	active
+237122	active
+237131	active
+237143	active
+237149	passive
+237153	active
+237164	middlepassive
+237173	middle
+237175	middle
+237184	active
+237189	passive
+237191	active
+237200	active
+237204	active
+passive
+237209	active
+237212	passive
+237214	active
+237217	active
+237220	active
+237225	middle
 237228	active
-237238	active
-237244	active
-237247	active
-237249	active
-237254	active
-237261	active
-237264	active
-237272	active
-237286	active
-237292	active
-237302	middlepassive
-237310	active
-237312	middlepassive
-237315	active
-237319	active
 active
-237328	active
-237332	active
+237231	active
+237233	active
+237235	active
+237238	active
+237240	active
+237244	active
+active
+237252	active
+237255	middle
+237261	passive
+237270	active
+active
+237274	active
+active
+active
+237281	middlepassive
+237286	active
+237289	active
+middlepassive
+237292	active
+237294	active
+237297	active
+237300	active
+237307	active
+237316	active
+237318	middle
+237321	active
+237324	active
+237329	passive
+237333	active
+237341	active
 237345	active
-237352	active
-237358	active
-237365	active
-237371	active
-237376	active
-237391	active
+237355	active
+active
+237363	passive
+passive
+237366	middle
+237370	passive
+237376	passive
+237379	active
+237382	active
+237386	active
+237397	passive
 237401	active
-237404	active
-237411	active
-237420	active
-237426	active
-237431	active
-237434	active
-237443	active
+237407	active
+237412	active
+237417	passive
+237421	passive
+237424	active
+237427	active
+237429	active
+237435	active
+237439	active
 237446	active
-237451	active
+237451	passive
+middle
+active
 237459	active
-237462	active
-237467	active
-237469	active
-237475	active
+237462	passive
+237477	active
 237482	active
 237486	active
 237493	active
-237501	active
-237503	active
-237510	middlepassive
-237512	active
 active
-237522	active
-237531	active
-237535	active
-237538	active
+237499	passive
+237505	active
+237508	active
+237515	active
+middle
+237523	active
+237525	active
+237530	middle
+237534	active
+237536	active
+237539	middle
+237543	active
 237546	active
-237548	active
-237555	active
-237557	active
-237562	active
+237549	active
+237552	active
+237561	active
+237566	active
 237569	active
-237572	active
-237575	active
-237577	active
-237585	active
-active
-237595	active
-237598	active
-237601	active
-237603	active
-237606	active
+237574	active
+237581	active
+237583	passive
+237586	passive
+237590	passive
+237592	active
+237596	active
+237599	passive
+237602	active
 237610	active
-237614	middlepassive
-active
-237622	active
-passive
-237640	active
-237651	active
-active
+237613	middle
+237618	middle
+237621	passive
+237624	middle
+237628	active
+237631	active
+237634	active
+237637	active
+237639	active
+237642	active
+237645	passive
+237647	passive
+237652	middle
+237657	active
+237661	active
 237664	active
+237675	active
+237677	active
+237681	active
+237692	active
+237695	active
+237698	active
+237700	active
+237706	active
+237710	active
+237712	active
+passive
+237716	active
+237718	middle
+237721	active
+237725	active
+237728	active
+237733	active
+237735	active
 active
-middle
-237674	middle
-237680	active
-237683	active
-237685	active
-237688	active
-237696	middle
-237707	middle
-237715	active
-active
-237726	active
-active
-237740	active
-237751	active
-237757	active
-237759	active
+237738	middle
+237743	middle
+237747	active
+237753	middle
+237758	active
+237761	active
 237764	active
-active
-237778	active
-237788	active
-237791	active
-237805	active
-237812	active
-237819	active
+237767	active
+237774	active
+237777	active
+237779	passive
+237782	active
+237787	active
+237790	active
+237795	active
+237807	active
+237816	middlepassive
 237821	active
-237826	active
-237829	active
+237825	active
+237828	active
+237831	passive
+237833	passive
 active
-237842	active
+237841	active
 237846	active
-237860	active
-237870	active
-237873	middlepassive
-237877	active
-237881	active
-237884	active
-237895	active
-237897	active
-237905	active
-237920	passive
-237923	active
-237925	active
-237933	active
-237948	active
-237961	active
-237969	active
-237971	active
-237979	active
-237988	active
-237991	active
-237994	active
-237997	active
-238004	active
-238022	active
+237852	active
+passive
+237864	passive
+237868	active
+237873	active
 active
-238031	active
+237876	active
+237878	active
+237880	middle
+237887	active
+237902	active
+237907	active
+237912	active
 active
-238037	active
-238041	active
-238043	active
-middle
-238049	active
-238056	active
-238060	active
-238064	active
-238070	active
-middle
-238083	active
-238089	active
-238094	active
-238102	active
-238105	active
-238111	active
-238115	active
-238122	active
-238125	active
-238136	active
-238142	active
+237917	active
+237947	passive
+237951	active
+passive
+237961	middle
+237963	middlepassive
+237967	middlepassive
+237970	active
+237974	active
+237976	passive
+237980	passive
+237983	passive
+237987	active
+237989	active
+237991	middlepassive
+237999	middle
+238002	middle
 active
-middle
-238149	active
-238152	active
+238009	active
+238015	active
+238019	passive
+238024	active
+238026	passive
+238029	active
+238032	active
+238041	passive
+238044	passive
+238050	passive
+238055	active
+238057	active
+238063	active
+238069	active
+238075	active
+238079	passive
+238081	passive
 active
-middle
-238157	active
-238162	active
-238165	active
-238170	active
-238182	active
-238193	active
+238084	middlepassive
+active
+238095	middle
+238120	active
+238124	passive
+238130	active
+238136	passive
+active
+238144	active
+238158	active
+238163	middle
+238166	active
+238169	passive
+238183	active
+238191	active
 238197	active
-238204	passive
-238211	active
-238217	active
-238222	active
+238204	middlepassive
+238208	passive
+238213	active
+238223	active
+238227	passive
+238230	active
 238232	active
+238235	active
 active
+238238	active
+238240	active
 238244	active
-238246	active
-active
-238249	active
 238251	active
-238255	active
-238259	active
-238265	active
-238271	active
-238273	active
-238279	middlepassive
-238281	active
-238283	active
-active
-238291	active
-238296	active
-238298	active
-238300	active
-238302	active
-238308	active
-238310	active
-238313	active
-238318	active
-238320	active
-238326	active
+238258	active
+238262	active
+238268	active
+238273	passive
+238286	active
+238290	active
+238293	active
+238295	middle
+238297	active
+238301	active
+238303	passive
+238310	middlepassive
+238315	active
+238317	active
+238319	active
+238321	active
+238323	active
+238327	active
 238329	active
 active
-238333	active
-238336	active
-238345	active
-238358	active
-238363	active
+active
+active
+238335	middlepassive
+active
+238338	active
+active
+238341	active
+238344	active
+238346	active
+238349	middle
+238351	middlepassive
+238357	active
+middle
 238368	active
+238370	active
 238373	active
-238376	active
+238376	passive
+238381	active
 active
-238384	active
-238390	active
-238400	active
-238402	active
+238386	active
+238389	active
+238392	active
+active
+238397	active
+238399	active
+238404	passive
+238408	active
 238414	active
-238416	active
-238420	active
-238422	active
-238426	active
-238429	active
-238433	middlepassive
-active
-active
-238445	active
+middle
+238418	active
+238424	active
+238428	middle
+238433	active
+238435	active
+238438	middle
+238441	active
+238447	active
+238450	middlepassive
+238453	active
+238455	active
+238460	active
+238467	active
 middlepassive
-238450	active
-238462	active
-middlepassive
-238465	active
-238470	active
-238477	active
+238472	active
+238475	active
+238479	active
+238482	middle
+238493	active
+238496	active
+238499	active
 active
-238482	active
-238485	active
-238489	middlepassive
-active
-238506	active
-238511	active
-active
-238515	active
-middlepassive
+238517	active
 238521	active
 238523	active
-238528	active
-238541	active
-238544	active
-238547	active
-238554	active
+238526	active
+238529	active
+238531	active
+238533	active
+238535	active
+238543	passive
+238545	active
+238554	middlepassive
+238560	active
+238566	passive
+238574	active
+238576	active
+238579	active
+middle
+238585	middle
+238593	active
+238601	middle
+238607	middle
+238610	active
+238612	middle
+238618	active
 active
-238557	active
-238563	active
-238568	passive
-238575	active
-238581	active
-238583	active
-238589	active
-238591	active
-238597	active
-238608	middlepassive
-238613	active
-238630	active
-238632	middlepassive
-238638	middle
+238622	active
+238624	active
+active
+238627	active
+238629	active
+238632	active
+active
+238635	active
+238639	middle
+238642	active
+active
+238648	passive
 238650	active
-238654	active
+238653	active
 238658	active
-238665	active
-238678	active
-238685	active
-238687	middle
-238692	active
-238698	active
-238702	middle
-238712	passive
-238721	active
-238739	active
-238744	active
+238663	active
+238669	passive
 active
-238751	active
-238758	active
-238768	active
-238774	active
-238780	active
-238782	active
-middle
-238785	active
-238796	active
+238673	active
+238675	active
+238677	active
 active
+238683	active
+238686	active
+238688	active
+238693	active
+238697	active
+238701	active
+238703	active
+238706	active
+238708	active
+238712	active
+238715	active
+238717	active
+238725	active
+active
+238730	active
+238736	active
+238741	middle
+238745	passive
+238747	active
+238749	active
+238753	active
+238757	middle
+238764	active
+238769	active
+238772	active
+238775	active
+238785	middlepassive
+238788	active
+238796	passive
 238799	active
-238808	passive
-238810	passive
-238821	passive
-238834	middle
-238846	middlepassive
-238851	active
+238804	active
+238807	active
+238809	passive
+238814	active
+238827	active
+238838	active
+238846	active
+238857	active
+238860	active
+238863	active
+238869	active
+238872	active
+238874	active
+238879	active
+238883	active
+238885	middle
+238887	active
+passive
+238898	active
 active
-238854	active
-238871	passive
-238873	active
-238878	active
-238886	passive
-238888	passive
-238897	middle
-238901	passive
 238905	active
-238908	active
-active
+238909	active
 238912	active
+238921	active
+238924	passive
+238927	active
+238929	active
+238933	passive
+238937	passive
+238947	active
+238954	active
+238957	active
+238964	active
+238971	middle
+238976	middle
+238981	active
+238985	passive
+238989	active
+238996	active
+238999	passive
+239001	middle
+239007	active
+239010	active
+passive
+239018	active
+239023	active
+239030	active
+middle
+239037	middle
 active
-238920	active
-238924	active
-238932	active
-active
-238935	active
-active
-238952	active
-238956	active
-active
-238965	active
-238972	passive
-middlepassive
-238977	middle
-238989	passive
-239001	active
-active
-239009	middle
-239015	active
-239021	active
-239031	active
-239034	active
-239037	active
-239046	active
-middlepassive
-239050	active
+239042	active
+239047	active
+239052	active
 239054	active
-239058	active
-239060	active
-239069	active
-239074	active
-239081	active
-239089	active
-239099	active
-239106	active
-239108	middle
+239061	passive
+239070	active
+239072	passive
+239075	middlepassive
+239077	active
+239080	active
+239084	active
+239088	passive
+239093	active
+239098	active
+239103	middle
+239108	passive
 239111	active
-239115	active
 239120	active
-239127	active
-239129	active
-239132	active
-239136	active
-239138	middlepassive
-239141	active
-239148	active
-239151	active
-239155	active
-239166	active
-239170	active
-239175	active
-239189	passive
-239199	active
-239201	active
-239203	active
-239208	active
-239215	active
+239122	active
+239125	middle
+239144	active
+239150	middlepassive
+middle
+239154	passive
+239159	active
+239162	passive
+middle
+239166	passive
+239171	active
+active
+239175	passive
+239177	active
+239183	active
+239189	active
+active
+239195	middlepassive
+239198	active
+239200	middlepassive
+middle
+239205	passive
+239211	passive
+239214	middlepassive
+239216	active
 239218	active
-239222	active
-239228	middle
-239232	active
+239222	middle
+239229	active
+239233	active
+239239	active
 239241	active
-239250	active
-239256	active
-239262	active
-239270	active
-239274	active
-239280	active
-239285	active
-239287	active
-239297	middle
-239300	active
-239303	middlepassive
+239245	active
+239249	active
+239251	middle
+239255	middle
+239258	active
+239261	middlepassive
+239266	middle
 active
-active
-239311	active
-239314	active
-239317	active
-239320	middlepassive
-active
-239323	active
-239331	active
-239338	active
-239347	active
-239350	active
-239358	active
-239362	middle
-239373	active
+239279	middle
+239286	passive
+239289	active
+239299	middle
+239302	active
+239306	middle
+239315	active
+239320	active
+239327	middle
+239332	active
+239337	active
+239342	passive
+239345	middle
+239357	active
+239360	active
+239372	middle
 239376	active
-middle
-239385	active
-239390	active
-active
-239402	active
-239405	active
-239409	active
-239411	active
-239414	active
-239417	active
-239420	active
-239425	active
-239432	active
-239438	active
-active
-239445	active
-239454	middle
-239457	active
-239462	active
-239466	active
-239472	active
-239475	active
+239381	middle
+239384	active
+239386	middle
+239393	active
+239400	active
+239402	middle
+239407	middle
+239415	middle
+239419	middle
+239423	middle
+239426	middle
+239430	active
+239432	middle
+239434	active
+239436	middle
+239440	active
+239442	middle
+239450	middle
+239455	middle
+239466	middle
+239470	middlepassive
+239476	active
 239480	active
-239482	active
-239492	active
-239496	active
+239488	active
+active
+239491	active
 239498	active
-239502	active
-239512	active
+239506	active
+239514	middle
 239517	active
-239531	active
-239533	middle
-239541	active
-239543	middle
-239550	active
-239553	active
-239557	active
-239560	middle
-middle
-239568	active
-239574	active
-239580	active
-239589	active
-239603	active
-239615	active
-239618	middle
 active
-239624	active
-239626	active
-239628	active
-239638	active
+239522	active
+239533	active
+239544	middlepassive
+239553	middlepassive
+239555	active
+239558	middlepassive
+239565	middlepassive
+239573	middlepassive
+239575	active
+239586	passive
+passive
+239602	passive
+239623	active
+239625	passive
+239631	middle
 239644	active
-239650	active
-239656	active
-239662	active
-middle
-239665	active
-239673	active
-active
-239685	active
-239693	active
-239696	active
-239698	active
-239705	active
-239707	active
-239716	active
-239718	active
-239728	active
-239735	passive
+239652	passive
+239657	passive
+239667	passive
+239672	passive
+239675	middlepassive
+239683	active
+239695	passive
+239702	active
+239713	active
+239717	active
+239729	passive
 239739	active
-239743	active
-239755	active
 active
-239766	active
-239768	active
-239774	active
+239744	active
+239747	active
+239758	passive
+239761	passive
+239767	passive
+active
+239771	active
 239778	active
-239790	active
-239793	middlepassive
+239783	passive
 active
-239811	active
-239822	active
-active
-239826	active
-239837	active
-239840	active
-239846	active
-239855	active
+239791	active
+239793	active
+239795	active
+239798	active
+239800	middle
+239806	passive
+239815	middlepassive
+239817	active
+239819	passive
+239821	active
+passive
+239824	active
+239832	active
+239841	active
+239853	active
 239858	active
-239871	active
-239873	active
-239880	active
-239887	active
-239893	active
-239896	active
-239909	active
-239915	active
-239923	active
-middle
-239929	active
-239933	active
+239864	active
+active
+239870	active
+239874	active
+239877	active
+239879	passive
+239899	active
+239906	active
+239925	middle
+239928	active
+239934	middle
 239937	active
-239941	active
+239944	passive
 middle
-239947	active
-239949	active
-239957	active
-239962	active
-239968	active
-239970	active
-239972	active
-239975	active
-239984	active
-239989	active
-239995	active
-240001	active
-240004	active
-240006	active
-240013	active
-240021	active
-240025	middle
-240035	active
-240043	active
-240048	active
-240051	active
-middle
-240056	active
-240064	active
+239948	active
+239950	active
 active
-240072	active
-240076	active
-240081	active
-240084	active
-240088	active
+239954	middle
+239961	active
+239964	passive
+239972	passive
+middlepassive
+239975	middlepassive
+239977	active
+239980	active
+239985	active
+239992	active
+239994	active
+240000	passive
+240008	middle
+240026	active
+240034	active
+240047	passive
+240049	active
+240053	passive
+240055	active
+240067	active
+240070	active
+240075	active
+240078	passive
+240082	active
+240086	active
 240091	active
-240094	active
-240096	middle
-240103	active
-240111	active
-240118	middle
-240120	active
-240129	active
-240131	passive
-active
-240144	active
-240147	active
-active
+240093	active
+240095	active
+240099	active
+240106	active
+240113	active
+240128	active
+240139	active
+240146	active
+240149	passive
 240153	active
-240157	middle
-240159	active
+240163	active
+240167	middlepassive
+240175	active
+240178	middlepassive
 active
-240164	active
-240170	passive
-240172	active
-240179	active
+240182	passive
+240185	active
+240191	passive
+240194	active
+240197	active
+240202	active
+240205	passive
 active
-240189	active
-240196	active
-240199	active
-240209	passive
-middle
-240214	active
-240223	passive
-240235	active
-middlepassive
-240242	active
-240246	active
-middlepassive
-240251	middlepassive
-middlepassive
-240259	active
+240218	active
+240223	middlepassive
+240228	middlepassive
+240232	active
+240238	active
+240241	active
+240244	active
+240248	active
+240255	active
+240258	active
 240262	active
-240267	active
-active
+240265	active
+240269	active
 240271	active
+240273	active
+240276	active
 240279	active
+active
+240283	active
+240287	active
+active
 240291	active
 240293	active
-middle
-240305	passive
-passive
+240298	middle
+240304	active
+240307	active
+240312	passive
+240318	active
+240321	active
+240324	active
+240326	active
+240330	middlepassive
 active
-240310	middle
-240312	active
-active
-240320	active
-240327	active
-active
-240331	active
 240333	middlepassive
 240335	active
-240337	active
-240340	active
-240342	active
-240347	active
+240339	active
+240346	middle
 240349	active
-240352	active
-active
-240358	passive
-240364	middle
-240370	passive
-240373	active
-240375	active
+240352	passive
+240357	active
+240360	active
+240364	active
+240366	active
+240368	middle
+240372	passive
+passive
+240376	passive
 240382	active
 240385	active
-240392	middle
+240391	active
+240397	active
 active
-240396	middle
-active
-240399	active
-240402	active
-240404	active
 240406	active
-active
-240420	active
-240431	active
-240436	active
-240444	active
-240452	active
-240455	active
-240458	active
-240467	middle
-240469	active
-active
-240480	active
-240494	active
-240496	active
-240498	middlepassive
-240505	active
-240508	active
-240512	active
-240520	active
-240525	active
-240533	active
-240536	active
-240538	active
-240547	active
-240550	active
-240554	active
-240561	active
-240563	active
-240565	active
-240567	active
-240575	active
-240578	passive
-240581	active
-240583	middle
-240591	active
-active
-240595	active
-240604	passive
-240608	active
-240610	active
-240613	active
-240621	active
-240623	active
-240625	active
-240630	active
-240632	active
-240639	middlepassive
-240645	middle
-240653	active
-240656	middle
-240665	active
-240668	active
-240670	active
-active
-240680	active
-240683	active
-240685	active
-240691	active
-240699	active
-middle
-240705	active
-240707	active
-240709	active
-240712	active
-240714	active
-active
-240719	active
-240722	active
-240728	middle
-240730	active
-240735	active
-240738	active
-active
-240744	active
-240748	middle
-240750	active
-240753	active
-240757	active
-240765	active
-240768	active
-240771	active
-240778	active
-240780	active
-middle
-240786	active
-240795	active
-240799	active
-240801	active
-240803	active
-240809	active
-240816	active
-240821	active
-240828	active
-240830	active
-240837	passive
-240839	active
-240845	passive
-240848	active
-240854	middlepassive
-active
-240857	middle
-240859	active
-240865	passive
-240869	active
-240872	active
-240875	active
-240878	active
-240882	active
-240884	active
-240886	active
-240896	middle
-240899	active
-240902	active
-240905	active
-240909	active
-240915	active
-240919	active
-240924	active
-240927	active
-active
-240931	active
-240934	active
-240949	active
-240953	active
-active
-240957	active
-240959	middle
-active
-240971	active
-240973	active
-240980	active
-active
-240988	active
-240991	active
-240995	active
-240997	active
-241003	active
-241006	active
-241010	middlepassive
-241026	active
-241030	active
-241035	middlepassive
-241043	active
-241051	active
-241061	active
-241068	active
-241073	active
-241081	active
-241085	middlepassive
-241091	active
-241093	active
-241104	active
-241106	middle
-241112	active
-241125	active
-241133	active
-241135	active
-241137	active
-241139	active
-241147	active
-241151	active
-241162	active
-241167	active
-241172	active
-241178	active
-241187	active
+240408	active
+240412	active
+240415	active
+240417	active
+240423	middle
+240425	middle
+240435	active
 passive
-241190	middle
-241192	middle
-241195	active
-241200	middlepassive
-241204	active
-241206	active
-241208	active
-241210	active
-241213	active
-241216	active
-241218	active
-241238	active
-241249	active
-241253	active
-241258	active
-241262	middlepassive
-241264	active
-241269	active
-241274	active
+240438	middlepassive
+240446	active
+240451	active
+240455	middlepassive
+240460	active
+240468	active
+240470	active
+240480	middlepassive
+240489	passive
+240495	passive
+240499	active
+240502	passive
+240509	active
+240513	active
+240517	passive
+240519	active
+240522	active
+240527	active
+240529	active
+240533	active
+240538	active
+240545	middle
+240552	active
+240558	active
+240562	passive
+240568	passive
+240574	active
+240576	active
+240579	active
+240583	active
+240585	middlepassive
+240588	active
+240592	active
+240594	active
+240596	active
+active
+240601	active
+active
+240607	active
+240612	passive
+240642	active
+middlepassive
+240646	passive
+active
+passive
+middlepassive
+passive
+active
+240656	passive
+240660	active
+240662	active
+240669	active
+240673	active
+240684	active
+active
+240689	middlepassive
+240692	active
+240695	active
+240703	active
+240712	active
+240715	middlepassive
+240719	passive
+240721	middle
+240727	active
+240729	middle
+240732	passive
+240743	active
+240745	active
+240752	passive
+240764	active
+240771	active
+240773	passive
+240778	active
+240781	active
+240783	active
+240787	active
+240789	active
+240792	middle
+240797	passive
+240806	active
+240814	passive
+240824	active
+240829	active
+active
+240834	active
+240837	active
+240843	passive
+240845	active
+240856	active
+240861	middle
+240873	active
+240877	active
+240880	active
+240883	middle
+240887	passive
+active
+240896	active
+240901	active
+240904	active
+240908	active
+active
+240913	active
+240916	active
+240919	passive
+240928	active
+240932	active
+240936	passive
+240939	active
+240942	active
+240945	active
+240950	active
+passive
+240955	active
+240958	active
+240960	active
+240964	middle
+active
+240973	passive
+240983	active
+240986	active
+240991	passive
+240995	passive
+241004	active
+241009	active
+241011	passive
+241020	active
+241024	active
+241026	middle
+241028	passive
+241030	passive
+241043	active
+241047	active
+241050	active
+241054	passive
+241065	active
+241078	active
+241081	active
+241086	active
+241091	active
+active
+241097	active
+241100	middle
+241103	active
+241105	passive
+241108	active
+middle
+241111	active
+241116	passive
+241119	active
+active
+241124	active
+241128	active
+241130	active
+241134	active
+241137	active
+241146	active
+241148	active
+241152	active
+241154	passive
+241157	active
+241165	active
+241170	middle
+241177	active
+241182	active
+241186	active
+241196	active
+241205	active
+241209	active
+241215	active
+241221	active
+241224	active
+241232	active
+241236	active
+241239	active
+241246	active
+241254	active
+241262	active
+241268	middlepassive
+active
+241272	active
+active
+241275	passive
 241277	active
-241280	active
-241283	active
-241291	active
-241300	active
-241305	active
-241311	active
-241317	active
-241327	active
-241337	active
-241340	active
-241349	active
+active
+241284	passive
+241288	passive
+active
+241293	passive
+241298	active
+241301	active
+241307	active
+241310	active
+active
+241314	active
+241318	active
+241322	active
+active
+241326	active
+241328	passive
+241336	passive
+241347	active
 241351	active
-241358	active
-241360	middle
+241355	middle
+passive
+241358	passive
+241366	active
+241371	active
 241374	active
 241377	active
-241385	active
+241380	active
+241384	active
 241388	active
-241395	active
-241401	active
-active
-241406	active
-241408	active
-241415	active
-241425	middle
-241438	active
-241446	active
-241448	middlepassive
-241451	active
-241453	active
+241391	active
+241397	middle
+passive
+241400	passive
+241402	middlepassive
+241404	passive
+241407	passive
+241410	active
+241414	active
+241422	passive
+241424	active
+241426	passive
+241429	active
+241433	middlepassive
+241435	middle
+241437	middle
+241442	passive
+241444	active
+241447	passive
+241449	active
+241451	passive
+241453	middlepassive
+241457	passive
 241460	active
-middlepassive
-241464	middlepassive
-241468	active
-middle
-241480	active
-241482	active
-241500	active
-241507	active
-241517	active
-241520	active
-241524	active
-241527	middle
-241532	active
-241536	active
+241467	active
+241470	active
+241473	passive
+241476	active
+active
+241481	active
+241485	active
+241489	active
+passive
+241493	active
+241495	passive
+241498	active
+241503	active
+241505	active
+241508	active
+241511	active
+241515	active
+241520	middlepassive
+241523	active
+241530	active
+241534	active
+active
+241537	active
+241540	active
 241542	active
-241555	active
-241562	active
-241565	active
-241587	active
-241589	active
-241592	active
-241595	active
-241604	middle
-241612	active
+241545	active
+241547	active
+241550	active
+241552	middlepassive
+241556	middlepassive
+active
+241563	active
+241567	active
+241569	active
+241573	active
+241576	active
+active
+241581	active
+241584	passive
+241590	active
+241594	active
+241601	active
+active
+241606	active
+241614	active
+241618	active
 241628	active
 241632	active
-241635	middlepassive
+241634	active
+241638	active
+middlepassive
+241641	active
 active
-241652	active
+241644	active
 active
-241660	active
-241662	middle
-241671	active
-241687	active
-middle
+241648	active
+241654	active
+241658	active
+241664	active
+241668	active
+241672	active
+241675	active
+241679	active
+241682	active
+241684	active
+241686	passive
+241689	active
+241694	passive
+241697	active
 241699	active
-241709	active
-active
-241713	middle
+passive
+241705	active
+241708	active
+241712	active
+241716	active
 241720	active
-passive
-241731	active
-241733	active
+241724	active
+241726	active
+241729	active
+241732	active
+active
 241736	active
-241748	middle
-241751	middlepassive
-passive
-241760	active
-241762	active
-241769	active
-241771	active
-241773	active
-241779	active
-241782	active
-241793	active
-241797	active
-241801	active
-241805	active
-241807	active
+241738	active
+active
+241743	active
+241746	passive
+241753	active
+241768	active
+241770	passive
+241776	active
 241809	active
-241823	active
-241827	active
+241814	active
+passive
+241820	active
+241825	active
+passive
 241829	active
-241838	active
-241852	active
-241857	active
-241859	active
-241863	active
+active
+active
+241838	middle
+241843	active
+active
+241847	middlepassive
+241851	active
+passive
+241855	active
+passive
+241858	active
+241865	active
 241868	active
-241874	active
-241880	active
+241872	active
+241876	active
+241878	active
+241882	active
 241886	active
-241889	active
 241894	active
-241899	active
-241918	active
-241922	active
-241928	active
-241945	active
 active
-241954	active
-241956	active
-241958	active
+241897	active
+241901	active
+241905	active
+241910	active
+241914	active
+241921	active
+241926	active
 active
-active
+241930	active
+241934	active
+241936	active
+241950	active
+241953	middlepassive
+241955	middle
+241959	active
 241965	active
-241972	active
-241987	passive
-241998	active
+241968	active
+241976	active
+241979	active
+241985	active
+241990	passive
+241992	active
+241994	active
+241996	active
+242001	active
+242004	passive
+242006	active
+242008	active
+active
+242011	active
+242013	active
 242018	active
-242020	active
-242023	active
-242027	active
-242036	active
-242040	active
-242047	active
-242054	active
-242056	active
-242062	active
-242064	middle
-242070	active
-242076	active
-242083	active
-242094	active
-242098	active
-242104	active
-242110	active
-242115	active
-242120	active
-242128	passive
-242130	middlepassive
-242132	active
-242134	active
-242142	passive
-passive
-active
-242158	active
+242024	active
+242029	active
+242034	middle
+242039	active
+242043	active
+242048	active
+242051	middlepassive
+242055	active
+242057	active
+242059	middlepassive
+242063	active
+242065	active
+242068	active
+242072	middlepassive
+242075	active
+242080	middle
+242086	active
+242091	active
+242094	middle
+242096	active
+242102	middlepassive
+242106	active
+242109	middle
+242114	active
+242116	active
+242121	passive
+242125	active
+242128	middle
+242130	active
+242134	middle
+242141	active
+242145	active
+242148	active
+242150	middle
+242156	active
+242163	active
 242169	active
-242172	active
-242179	active
-242181	active
-242186	active
-242189	middle
+242173	active
+242178	active
+242180	middle
+242185	active
+242187	active
 242192	active
-242196	active
-242200	passive
+242195	active
+242200	middle
+242202	active
 242205	active
-242210	active
+242208	active
+242211	active
 242214	active
-242219	active
-242225	active
-242231	active
-242254	active
-242263	middle
-242275	active
-242278	middlepassive
+242216	active
+242219	middlepassive
+242221	middlepassive
+242227	active
+242234	active
+242239	active
+242243	active
+242245	active
+242249	active
+242252	active
+242255	middle
+242257	active
+242260	active
+242268	active
+242273	active
+242278	middle
+242289	active
+242295	active
 active
-242288	middlepassive
-active
-242299	active
-242303	active
+242301	active
+242304	active
 242311	active
-242315	middle
-242319	active
-242324	active
-242329	middle
-242335	active
+242313	passive
+242320	passive
+242323	active
+242328	active
+242331	middlepassive
+242335	passive
+active
 242340	active
-242342	middle
-242355	active
-242361	active
-242370	active
-242375	active
-middle
-242381	active
+active
+242343	active
+242346	active
+242348	active
+242352	active
+242356	active
+242360	middle
+242362	active
+242365	active
+242367	middle
+242373	active
+242375	passive
 242383	active
-242390	active
-242396	active
-242398	active
-242403	active
-242406	active
-242423	middlepassive
+242385	active
+active
+active
+242389	active
+242393	active
+242401	active
+242403	passive
+242406	middlepassive
+242408	active
+242413	middlepassive
+active
+242417	active
+242422	active
+active
 242426	active
-active
-242429	active
-242437	active
-242441	active
-242443	active
-242448	active
-passive
-242452	middlepassive
+242431	active
+242434	active
+242440	active
+242446	active
+242452	active
 242458	active
-242468	active
-242476	active
+active
+242463	active
+242467	active
+242470	active
+242474	active
+242479	active
+242483	active
 242486	active
-242496	middlepassive
-242498	active
-242504	active
-242506	active
-active
-242509	active
+242488	active
+242493	middlepassive
+242495	middlepassive
+242497	active
+242501	middlepassive
+242503	active
+242507	active
 242511	active
-242518	active
-242525	active
-242527	active
-242529	active
-242531	active
-242539	active
-242543	active
-242549	active
-242556	active
-242558	active
-242563	active
-242566	active
-middle
+242513	active
+242517	active
+242519	active
+242523	active
+242526	active
+242532	passive
+active
+242535	active
+242546	active
+242550	active
+middlepassive
+242553	passive
+242555	active
+242557	active
+242564	active
+242567	active
+242569	active
 242572	active
-242575	active
-242577	active
-242579	active
-242582	middlepassive
-242584	active
-active
-242589	active
-242594	active
-242596	active
-242604	active
-242606	middlepassive
+242576	active
+242586	passive
+242592	active
+242594	passive
+242598	active
+242601	active
+242603	active
+242606	active
 242610	active
-242618	active
-242624	active
-242628	middlepassive
-242632	middlepassive
-242638	active
-242643	middlepassive
-242647	active
-242651	active
-242655	active
-242662	active
-242666	active
-242669	active
+242613	middlepassive
+242623	active
 active
-242676	active
-242680	active
-middle
-242689	active
-242698	active
+242631	passive
+242633	middlepassive
+242637	active
+242643	passive
+242646	active
+242649	active
+active
+242653	active
+242659	active
+242670	active
+active
+242679	active
+242683	active
+242686	passive
+242690	middle
+242693	middle
+242699	middle
 242704	active
-242706	active
+middle
 242709	active
 242713	active
-242717	active
-242725	active
-active
-242728	active
+242715	active
+242723	passive
 242732	active
 242735	active
-242739	active
-242741	active
-242743	active
-242745	active
-passive
-242762	passive
+242764	active
 active
-242768	active
-242771	active
+active
+242769	middlepassive
 242773	active
-242783	active
-242790	middle
-242792	active
-active
-242803	active
-242810	active
+242779	active
+242782	active
+242786	active
+242789	active
+242793	passive
+242798	active
+242800	active
+242804	active
+242811	active
 242813	active
-242815	active
+242820	middlepassive
+242823	middlepassive
 242826	active
-242828	active
+242829	active
+242832	active
+active
 242837	active
-242840	active
-242844	active
-242849	middle
-242854	active
-242875	active
+242842	middle
+242844	middlepassive
+242850	active
+242852	active
+242857	active
+242859	active
+242863	active
+242866	active
+242870	active
+242877	active
+242879	active
 242881	active
+242883	active
 242885	active
-242888	middlepassive
-242890	active
-242896	active
-242909	middle
-242916	active
-242919	active
+242889	active
+242892	active
+242897	active
+242903	passive
+active
+242907	active
+active
+242910	active
+242913	active
+242918	active
 242925	active
-242927	active
-242929	active
-242955	passive
 active
+242931	active
+242936	active
+242938	active
+242944	active
+242949	active
+242953	active
+242956	active
+242959	active
+242962	active
 242968	middle
-242970	active
-242978	active
-242985	active
-243002	passive
+242974	active
+242982	active
+242986	active
+242993	active
+243000	passive
 243005	active
-243011	active
+243007	passive
+passive
+243012	passive
+243017	passive
+243020	middlepassive
 243022	active
-243038	active
-243040	active
+243024	middlepassive
+243027	active
+243029	active
+243033	middlepassive
+243037	active
+middle
+243044	active
 243046	active
-243055	active
-243057	active
-243063	active
-243069	active
+active
+243051	active
+243057	passive
+passive
+243060	active
+243066	active
+active
+243072	middlepassive
+active
 243082	active
-243084	active
-active
-243087	active
-243102	active
-243107	active
-243110	active
-243115	active
-243124	active
-243131	active
-243135	middlepassive
-243143	active
-243153	active
+243088	active
+243094	active
+243098	active
+243103	passive
+243108	active
+243114	passive
+243149	active
+243154	active
+243157	middlepassive
 243162	active
-243177	passive
-243187	active
-243201	active
-243203	active
-243213	passive
-243218	passive
-243220	active
-243230	active
-243235	active
-243240	active
-243242	passive
+243165	active
+243172	active
+243174	active
+243184	passive
+243192	passive
+243196	active
+243200	active
+243204	active
+243207	active
+243212	active
+243217	active
+243221	active
+243224	active
+243229	active
+243246	middle
+243253	active
+243256	active
+243270	middlepassive
+243273	active
+243277	active
+243284	active
+243289	active
+243293	active
+243295	active
+243298	active
+243300	active
+243304	active
+243309	active
+243315	active
+243318	active
+243320	passive
+243322	active
+243325	active
+243332	active
+243336	active
+243338	active
+243342	passive
+243344	active
+243349	active
+243356	middle
+243381	active
+243384	active
+243386	active
 active
+243397	active
+243402	active
+243408	active
 active
-243249	active
-243263	active
-243270	active
-243278	active
-active
-243294	active
-243296	active
-243310	active
-243312	active
-243316	middle
-243327	active
-243334	active
-243339	active
-243354	active
-243360	active
-243362	middlepassive
-243367	active
-243376	active
-243383	active
-243385	passive
-243387	middlepassive
-243401	active
-243407	active
-243413	active
-passive
-243416	middlepassive
-243420	middle
-243426	middlepassive
-middlepassive
-243435	active
-243446	passive
-243449	passive
-243453	active
-243457	passive
+243411	active
+243414	active
+243417	active
+243420	active
+243428	active
+243433	active
+243437	active
+243439	active
+243442	active
+243445	active
+243448	active
+243452	passive
+243456	active
+243458	passive
 243460	active
-243462	active
-243468	active
-243476	active
+middlepassive
+243464	active
+243467	middlepassive
+243469	passive
+243471	active
+243473	active
+243476	passive
+243478	middlepassive
+243480	active
 243483	active
-243492	active
-243498	active
-243501	active
+243487	active
+243489	active
+243491	active
+243493	active
+243496	active
+243500	passive
+243503	middle
+243506	passive
 243509	active
-243513	active
-243516	active
-243518	active
-243525	active
-active
-243534	active
-243536	active
-243544	active
-243556	active
+243512	active
+243515	active
+243519	passive
+243521	middle
+243523	active
+243526	active
+243529	middlepassive
+243533	active
+243535	active
+243538	active
+243548	active
+243552	middle
+243555	passive
 243558	active
-243560	active
-243564	active
-middlepassive
-243570	active
-243574	middlepassive
+243565	active
+243567	active
+243573	active
+243575	active
 243579	active
-243587	middlepassive
-243589	active
+243584	active
+243587	active
+243590	active
+243592	active
+243595	active
+243598	active
+243600	active
+243602	active
 active
-243595	passive
-243605	active
+243606	active
+243611	active
+243614	active
 243616	active
-243622	active
+243621	active
 243625	active
-243628	active
-243632	active
-243634	active
+243630	active
+243633	active
+243636	active
 243640	active
-243644	active
-243662	active
-243667	active
-243669	active
-243672	active
-243684	middle
-243688	active
+243651	active
+243658	active
+243660	passive
+passive
+243663	passive
+243668	active
+243670	middle
+243678	active
+243680	passive
+passive
+243687	active
+243689	active
+243697	active
+243701	middle
 active
-243700	passive
-243703	active
 243705	active
+243711	active
+243716	active
 243718	active
-243727	active
-243733	active
-243742	active
-243745	active
-243751	active
-243753	active
-active
+243720	active
+243722	middlepassive
+243724	active
+243727	middlepassive
+243731	middlepassive
+243736	active
+243739	active
+middle
+243742	middle
+243746	active
+243748	active
+243754	active
 243756	active
-243758	active
 243761	active
-middle
-243765	active
+243768	active
+243770	active
 243775	active
-243783	active
-243799	passive
-243803	passive
-243810	active
-243816	active
+243779	passive
 active
-243821	active
+243785	active
+243788	active
+243792	active
+243795	active
+243801	middlepassive
+243805	active
+243809	middlepassive
+243812	passive
+243818	active
+243824	middle
+243826	active
+243831	active
 active
-middle
-243830	active
-243840	active
-243848	active
+243839	active
+243842	active
+243849	active
 243851	active
-passive
-243861	active
-243871	active
-243887	active
+243854	active
+243856	middlepassive
+243860	active
 active
-243893	active
-243898	active
+243865	passive
+243867	passive
+243874	middlepassive
+243877	active
+243879	active
+243881	active
+243886	active
+243889	active
+243892	middlepassive
+243895	active
+243897	active
+243899	active
 243901	active
-243908	active
+243903	active
+243906	middlepassive
 243910	active
-243915	active
-active
-243926	middle
-243928	active
-243931	active
-passive
-243941	active
-243946	active
-243959	passive
-243961	active
-243964	active
+243918	active
+243922	active
+243924	active
+243927	active
+243933	active
+243936	active
+243940	passive
+middlepassive
+243943	active
+middlepassive
+243948	active
+243951	active
+243954	passive
+243958	passive
+243960	active
+243974	active
 243977	passive
-243982	middlepassive
+243979	active
+243981	passive
+243985	active
+243989	active
 active
-243986	active
-243988	active
-243995	active
-244003	active
-244008	active
-244013	passive
-244015	middle
+243994	active
+243997	active
+243999	active
+244006	active
+244010	active
+244013	active
+active
+244016	active
 244018	active
-244021	active
-244028	active
-244043	active
-244054	active
-244058	middle
+244022	active
+244026	active
+passive
+244030	active
 active
-244079	active
-244081	active
-244083	active
-244088	active
-244096	active
-244100	active
-244102	active
-244104	active
-244113	active
-244118	active
+244033	active
+244035	active
+244041	middlepassive
+active
+244048	middle
+244052	active
+244055	active
+244058	passive
+244060	middle
+244063	active
+244067	active
+active
+244074	active
+244076	active
+244083	passive
+244085	passive
+244092	passive
+244097	passive
+244103	active
+244107	passive
+244109	passive
+244118	passive
+244122	active
 244128	active
-244134	active
-244140	active
-244143	active
-244147	active
-244149	active
-244155	active
-244160	active
-244164	active
-244170	active
-244172	active
-244178	active
-244180	active
-244195	active
-244200	active
-244206	active
-244208	active
+244130	passive
+244133	active
+244139	active
+244141	active
+244149	passive
+244153	active
+244165	active
+244168	active
+244172	passive
+244175	passive
+244177	active
+244183	active
+244188	active
+244191	passive
+244196	passive
+244205	passive
 244211	active
-244213	active
-244223	active
-244227	active
-244229	active
-244235	active
-244246	active
-244251	active
-244258	active
-244271	active
-244285	active
-244289	middlepassive
-244294	active
+244215	active
+244219	active
+244224	passive
+244229	passive
+244232	passive
+244237	passive
+244242	active
+244248	passive
+244250	middle
+244260	active
+244263	passive
+244266	passive
+244279	active
+244285	passive
 244301	active
-244307	active
-244310	active
-244325	active
+244304	active
+244309	active
+244312	active
+244315	active
+244322	passive
+244326	active
 244332	active
-passive
-244340	active
-244345	active
-244347	active
-244350	active
-244358	middle
+244335	passive
+244339	active
+244344	passive
+244351	passive
 active
-244368	active
-244374	active
+244356	active
+244362	active
 passive
-middlepassive
-244382	active
-244388	active
-244392	middle
-244395	active
-244399	active
-244402	active
-244404	middle
-244409	active
-244415	active
-244426	middle
-244431	active
-244434	active
-244439	active
+244370	passive
+244373	passive
+244377	active
+244380	active
+244386	active
+244392	active
+244400	passive
+active
+244403	active
+244406	active
+244408	passive
+active
+244412	active
+244416	active
+244420	active
+244423	active
+244425	active
+244428	passive
+244432	middlepassive
+244436	active
+244438	passive
+244441	active
+244444	active
+244446	middle
+active
+244451	active
+244457	active
 244461	active
-244465	passive
-244467	active
-244474	middle
-244476	active
-244482	active
-244486	active
-244489	active
-244494	active
-244499	active
-244502	active
-244509	active
-244516	active
-244518	active
-244520	active
-244522	active
-244525	active
-244536	active
-active
-244542	active
-244558	active
-244561	active
-244567	active
-244572	active
-244577	active
+244507	active
+244514	passive
+244516	passive
+244518	passive
+244520	passive
+244522	passive
+244524	passive
+244526	passive
+244528	passive
+244531	active
+244533	active
+244537	passive
+middle
+244543	active
+244548	active
+244576	active
 244580	active
-244583	active
-244595	active
-244599	active
+244587	active
+244591	active
+244593	middlepassive
+244597	active
+middle
 244601	active
-244603	active
-244611	active
-244613	active
-244615	middle
-244621	passive
-244623	active
-244629	active
-244641	active
+244604	passive
+244607	passive
+244614	active
+244618	passive
+244622	passive
+active
+244627	middle
+244632	middle
+244638	middle
+244643	middle
 244646	middle
-244648	active
-244650	middle
-244653	active
-244656	active
-244659	active
-244662	active
-244664	active
-244668	active
+244648	passive
+passive
+244673	active
+244683	middlepassive
 active
-244671	active
-244674	active
-244676	passive
-244681	active
-244683	active
-244686	active
-244694	active
-244696	active
-244703	middle
-244707	active
-244709	active
-middlepassive
-244730	active
+244690	active
+244695	active
+244705	active
+244711	active
+244716	active
+active
+244719	passive
+244723	active
+244726	middlepassive
+244729	middle
+244731	active
 244734	active
-244740	active
+active
 244742	active
-244744	active
-244748	active
+244744	middlepassive
+244746	middle
+middle
+244752	active
+244755	middlepassive
+244758	active
 active
-244761	active
-244765	active
-middlepassive
-244772	active
+244762	active
+244766	active
+244768	middlepassive
+244770	active
 244775	active
-244780	active
-244782	active
-244787	active
-244789	active
+active
+244779	active
+244783	active
+active
+244792	active
+244795	middlepassive
+244799	active
 244801	active
-244808	active
-244813	active
+244804	middle
+244809	middlepassive
+244816	active
 active
-244820	active
-244822	middlepassive
-244826	active
-244830	active
-244835	active
-244838	active
-244841	active
-244845	active
-244857	active
+244822	active
+244824	middlepassive
+244833	active
+244836	active
+244843	active
+244847	active
+middle
+244851	active
 active
-244864	active
-244866	active
-244871	active
 active
-244875	passive
-244887	passive
-244895	passive
+244856	middlepassive
+passive
+244860	middlepassive
+active
+244865	active
+244869	active
+244875	active
+244879	passive
+244883	active
+244885	active
+active
+244897	active
+active
 244904	active
-244911	active
-244919	active
-active
-244924	active
-244931	active
-244934	middlepassive
-active
+244907	middlepassive
+244912	middlepassive
+244922	middlepassive
+244926	middle
+244937	active
 244939	active
-244944	active
-244947	active
-244950	active
-244956	active
-244961	middle
-244967	active
-244970	active
-244974	active
-244980	active
-middle
-244984	active
-244986	middlepassive
-244989	active
-active
-244993	active
-245001	middlepassive
-245003	active
-245013	active
-middlepassive
-245024	active
-245027	active
-245033	active
-245037	middle
-245041	passive
-245047	active
-245058	active
-245073	active
-245077	active
-245081	middlepassive
-active
-245087	passive
+244942	active
+244961	active
+244966	active
+244987	active
+244994	middlepassive
+244996	active
+245003	passive
+245009	active
+245017	active
+245023	passive
+245029	passive
+245033	middle
+245040	active
+245046	active
+245050	active
+245057	active
+245059	active
+245064	middle
+245070	passive
+245072	passive
+245075	active
+245082	active
 245089	active
-245093	middlepassive
-245095	middle
-245102	active
-245107	active
-245111	active
+245094	middlepassive
+245097	middle
+245099	active
+245102	middle
 active
-245116	active
-245121	active
-245123	active
-245125	active
-245129	active
-245133	active
-245146	middlepassive
+245114	passive
+245120	active
+245135	passive
+245142	active
+245147	active
+245150	active
+active
+245155	middle
 245158	active
-245168	active
-245172	active
-245175	active
-active
-245180	active
-245186	active
-245188	active
-245199	active
-245202	active
-245206	active
+245163	active
+245175	middlepassive
+245178	active
+245181	active
+245184	active
+245189	active
+245193	passive
+245198	middlepassive
+245201	middle
+245204	middlepassive
+245206	middlepassive
 245208	active
-245214	active
-active
-245221	active
-245236	active
-245242	active
-245248	active
-245256	active
-active
-245263	active
-245289	active
+245222	active
+245230	passive
+245235	middle
+245240	active
+245254	active
+245259	active
+245262	middle
+245265	active
+245276	middle
+245281	middlepassive
+245284	active
+245287	active
 245292	active
-245295	active
+245297	active
+active
 245304	active
-245306	active
+245308	active
 245311	active
-245319	middlepassive
+245315	passive
+245318	active
+245322	active
 245324	active
-245333	active
-245335	passive
-245346	active
-245356	active
-245358	active
+245327	active
+245329	active
+active
+245337	active
+245343	active
+245348	passive
+245352	active
+245354	active
+245360	active
+245362	active
 245367	active
-245369	active
-245377	active
-245380	active
-245401	middlepassive
+245383	passive
+245386	active
+245388	active
+245394	active
+245396	active
+245402	active
+245406	middlepassive
+245411	middlepassive
+245414	middlepassive
+245420	passive
+245427	active
 active
-245405	active
-245408	active
-245410	active
-245416	active
-245421	middle
-245423	active
-245426	middlepassive
-245439	active
+245439	passive
 245442	active
-245446	active
-245450	active
-245458	middle
-245479	active
-245486	active
-245489	active
-245491	active
-245495	active
-245497	passive
-245506	active
-245509	active
-245512	active
-245523	active
-245526	active
-active
-245534	middle
-245537	active
-245541	active
-245548	active
-245555	active
-245561	middle
-245567	middle
-245570	active
-245578	active
-245584	active
-245586	active
-245592	active
-245596	active
-245601	active
-245614	active
-245627	active
-245630	active
-245635	active
-245639	active
-245646	active
-245653	active
-245655	active
-245658	passive
-245665	active
-active
-245669	active
-245671	active
-245673	middlepassive
-245678	active
-245680	passive
-245683	middlepassive
-245695	active
-245698	active
-245701	middle
-245704	middle
-active
-245708	active
-245712	middlepassive
-245726	active
-245730	active
-245735	active
-245741	middle
-245747	active
-middlepassive
-active
-245752	active
-245769	active
-245779	active
-245781	active
-245788	active
-active
-245795	active
-245799	active
-245806	active
-245808	active
-245821	middlepassive
-245823	active
-245829	active
-245843	active
-245845	active
-245854	active
-245863	active
-245872	middlepassive
-active
-245878	active
-245882	passive
-245889	passive
-245891	active
-245899	active
-245901	passive
-245903	active
-245916	active
-245919	active
+245447	active
+245452	middle
+245454	active
+245460	active
+245469	active
+245475	active
+245478	passive
+245481	middlepassive
+245511	active
 middle
-245922	middle
-245927	passive
-245937	active
-245939	middle
-245944	active
-245951	active
+245515	active
+245517	active
+245527	active
+passive
+245535	passive
+245537	active
+245539	passive
+245541	passive
+245545	active
+245553	active
+245561	active
+middle
+245574	active
+245582	active
+245585	active
+245592	passive
+245594	passive
+245598	middlepassive
 active
-245968	active
+245610	passive
+245616	middle
+245625	active
+245633	passive
+passive
+245641	active
+245644	passive
+245647	active
+245649	active
+245653	middlepassive
+245657	active
+245664	active
+245670	passive
+245672	passive
+245686	active
+245688	passive
+245691	passive
+245695	passive
+245701	middlepassive
+245704	active
+245706	passive
+245711	active
+245720	passive
+245723	middle
+245726	passive
+245733	active
+245737	passive
 active
-245988	active
-245990	active
-245999	active
-246012	active
-246019	passive
-246021	active
-246030	active
-246033	active
-246041	active
-246049	active
-246061	active
-246063	active
-246066	middlepassive
-246069	active
-246077	active
-246079	active
-246087	active
-246093	active
-246101	active
-246106	middle
-246109	middle
+245740	middle
+245744	active
+245747	active
+245755	active
+245769	middlepassive
+245776	active
+245782	active
+245791	active
+245796	active
+245805	active
+245808	active
+245810	active
+245823	active
+245833	active
+245839	passive
+245842	passive
+middle
+245846	middlepassive
+passive
+245850	passive
+passive
+245854	middlepassive
+245861	active
+245870	passive
+245873	active
+245875	passive
+245882	passive
+245890	middle
+245894	active
+245901	passive
+active
+245904	active
+245906	active
+245909	active
+active
+245912	active
+245916	active
+245918	active
+245925	active
+245929	active
+245936	active
+245943	passive
+245947	passive
+245958	middlepassive
+245960	active
+245962	passive
+245965	passive
+245967	passive
+245971	passive
+245973	active
+245982	passive
+245984	active
+245992	active
+245997	middle
+active
+246001	middle
+246004	passive
+246007	active
+246010	active
+passive
+246014	active
+246017	passive
+246022	middle
+246026	active
+246031	active
+246035	active
+246037	active
+246040	active
+246045	active
+246048	active
+246051	active
+246053	active
+246057	active
+246062	middlepassive
+246067	active
+246070	passive
+active
+246077	middle
+246084	active
+246089	active
+246095	active
+246098	passive
+active
+246105	passive
+246108	active
 246112	active
 246116	active
-246119	active
-246126	active
-246131	active
-246142	active
-246145	middlepassive
+246119	middlepassive
+246125	active
+246128	active
+246134	active
+246136	active
+246140	active
+246143	active
+246146	active
 246148	active
-246155	active
 active
+246158	active
 246162	active
-246169	active
-246177	active
-246186	active
-246189	middle
-246199	active
-246204	active
-246210	active
-246213	active
-246223	active
-246227	active
-246234	active
-246240	active
-246245	active
-246258	active
-246260	active
-246264	active
-246266	active
-246270	active
-246275	active
-246285	active
-246293	active
-246299	active
-246307	active
-246310	active
-246314	active
+246168	active
+246175	active
+middle
+active
+246183	active
+246188	active
+246200	middlepassive
+246205	middle
+246212	active
+246215	active
+246217	middlepassive
+246219	passive
+246222	active
+246226	active
+246229	middle
+246232	active
+246235	active
+246241	middle
+246243	active
+246246	active
+246251	active
+246253	middle
+246256	middle
+246261	active
+246264	passive
+246268	active
+246312	passive
+246314	passive
 246316	active
-246327	passive
-246339	passive
-246341	active
-246345	active
-246351	active
-246371	middlepassive
-246373	active
-246381	active
-246389	active
-246391	active
-246395	passive
-246397	active
-246400	middlepassive
-246406	active
-246408	active
-246410	active
-246416	active
-246419	active
-246427	active
-246431	active
-246437	active
-246441	active
-246450	active
-246455	middle
-246458	active
-246462	active
-246470	active
-246473	active
-246477	active
-246482	active
-246493	active
-246495	active
-246499	active
-246503	active
-246510	active
-246516	passive
+246318	middle
 active
-246523	active
-246525	active
-246546	active
-246560	active
-246563	active
-246579	passive
-246582	active
-246584	active
-246587	middlepassive
-active
-246592	active
-246601	active
-246612	active
-246618	active
-active
-246622	middlepassive
-active
-246627	active
-246634	middle
-246636	active
-246641	active
-246646	active
-246650	active
-246657	active
-246659	active
-246664	active
-246670	middle
-246672	active
-246685	active
-246688	active
-246693	active
-246699	middle
-246703	active
-246709	active
-246713	active
-246715	active
-246720	active
-246722	active
-active
-246726	active
-246728	active
-246730	active
-246735	active
-246740	active
-246744	active
-246750	middle
-246754	active
-246757	active
-246759	active
-246765	passive
-246767	passive
-246777	middle
-246782	active
-246784	active
-246786	active
-246794	active
-246799	active
-246809	passive
-246823	active
-246826	middle
-246829	passive
-246842	active
-246856	active
-246860	active
-246864	active
-246868	active
-246881	active
-246890	active
-246892	middle
-246900	active
+246321	passive
+246324	passive
+246326	passive
+246329	active
+246334	active
+246337	active
+246340	active
+246343	active
+246348	passive
+246350	passive
+246352	passive
+246362	active
 passive
-246906	active
-246908	middlepassive
-246915	active
-246924	active
-246940	middle
-246943	active
-246947	active
-246960	active
-246965	active
-246967	active
-246975	active
+246395	active
 active
-246983	active
-246990	active
-246995	middlepassive
-247001	active
-247007	active
+246398	active
+246401	active
+246404	active
+246406	middle
+246410	middle
+246413	active
+246417	passive
+active
+246423	middle
+246425	middle
+246428	middle
+246433	middle
+246437	active
+246440	active
+246443	active
+246449	active
+246453	active
+246456	active
+246458	active
+246460	active
+246463	active
+active
+246470	active
+246481	passive
+246483	middle
+246491	active
+246494	active
+246500	passive
+246506	active
+246508	active
+246524	passive
+246526	active
+246539	passive
+246543	active
+246548	middlepassive
+246551	middlepassive
+active
+246559	active
+246562	active
+246564	passive
+246567	passive
+246569	passive
+246574	passive
+246583	middlepassive
+246589	middlepassive
+middle
+246594	passive
+246596	middle
+246605	active
+246608	active
+246613	active
+246616	active
+246619	passive
+246622	passive
+246631	passive
+246637	passive
+246642	passive
+246652	middlepassive
+passive
+246658	active
+246667	passive
+246673	active
+middle
+246681	middle
+246683	active
+246686	active
+246688	active
+246695	passive
+246713	active
+246721	active
+246727	middlepassive
+246740	active
+246743	active
+246750	active
+246755	middle
+246758	active
+246766	active
+246781	active
+246783	active
+246793	active
+active
+246801	active
+246803	active
+246808	active
+246812	active
+246816	active
+246819	active
+246822	active
+middle
+246828	active
+active
+246834	active
+246837	active
+246839	active
+246843	middlepassive
+246845	active
+246850	active
+246871	middle
+246876	middle
+246879	passive
+246882	active
+246886	active
+246890	active
+246900	middle
+246903	active
+246905	active
+246907	active
+246923	passive
+246930	passive
+246939	middle
+246944	middle
+246948	passive
+246950	active
+246958	active
+246964	active
+246968	active
+246996	middle
+247009	active
+active
 247012	active
-247016	active
-247018	active
-247020	active
-247025	active
-247029	active
-247033	active
-247038	active
-middle
+247018	middlepassive
+247021	passive
+247026	active
+247028	active
+247037	passive
 247043	active
-middle
-middlepassive
-247048	active
-247050	passive
-247059	active
-247062	active
-247071	active
-247073	active
-247080	active
-247087	active
+247047	active
+247051	active
+247054	passive
+247058	active
+247065	middle
+active
+247069	active
+247072	active
+247075	middlepassive
+247079	active
 247089	active
-247091	active
-247096	active
+247093	active
+247095	active
 247099	active
+247102	middle
 247110	active
 247112	active
 247116	active
-247126	active
-247129	active
-247139	active
-247141	active
+247122	active
+active
+247128	passive
+active
+active
+247134	active
+247138	active
+247140	active
 247148	active
-247155	active
-247166	active
-247171	active
-247180	active
-247182	active
-247185	active
-247188	active
-247199	active
-247206	active
-247210	active
-247220	active
-247228	active
-247231	active
-247238	active
-247240	active
-247245	active
-247250	active
+247154	passive
+247158	middlepassive
+247175	active
+247184	active
+247207	active
+247212	active
+247225	active
+247237	active
+247239	active
+247241	middlepassive
+247244	active
+active
+247248	middlepassive
+active
+247252	middlepassive
 247256	active
-247258	active
-247262	active
-247264	active
-247270	active
-247272	active
-247276	active
-247281	active
-247288	active
+247259	active
+247262	middle
+247275	active
+247279	middle
+247285	active
 247293	active
-247297	active
+active
+247297	passive
+247302	active
 247305	active
-247312	passive
-247318	active
-247331	active
-247336	middlepassive
+247308	active
+247310	middlepassive
+247322	middle
+247327	active
+247335	passive
+247338	active
 247340	active
-247350	active
-247353	active
-247358	middle
-247363	active
-247373	active
-247376	active
-247383	middle
-247397	passive
-247403	middlepassive
-247406	active
-247413	active
-247421	passive
-247426	active
-247437	active
-247441	active
-247450	active
-247457	active
-247459	active
-247468	active
-247481	active
-247485	active
-247491	active
-247506	active
-247509	active
-247516	active
-247528	active
-247532	active
-247536	passive
-247545	active
-247552	active
-247566	active
-247584	active
-247589	active
-247593	active
-247599	active
-247601	active
-247604	active
-247620	active
+247347	active
+247356	passive
+247358	middlepassive
+247361	active
+247365	active
+247368	active
+247372	active
+247377	active
+247382	active
+247384	active
+247388	active
+247394	middle
+247401	active
+247405	middle
+247412	middlepassive
+247414	active
+247419	active
+247427	middlepassive
+247432	active
 passive
-247626	active
-247633	active
-247635	active
-247639	active
-247642	active
-247644	active
-247647	active
-247650	active
-247655	active
+247437	passive
+247445	middle
+247451	middle
+247453	middlepassive
+247455	middlepassive
+247458	active
+247460	active
+247465	active
+active
+middlepassive
+247473	middlepassive
+247475	active
+247479	middle
+247484	active
+247486	middlepassive
+247491	active
+247496	passive
+247508	middlepassive
+247510	active
+247513	active
+247516	active
+247519	active
+247524	middle
+247526	middlepassive
+middlepassive
+247530	active
+247542	active
+247547	active
+247549	active
+247552	passive
+247558	middle
+247561	active
+active
+247568	active
+247571	passive
+247573	active
+247578	active
+247580	active
+247588	active
+247594	passive
+247603	active
+247606	active
+247609	active
+247611	active
+247613	active
+247616	active
+247621	middlepassive
+passive
+247628	middle
+247637	middle
+247647	passive
+247653	middle
+247658	active
+247662	active
 247664	active
-247667	active
-247684	active
-247688	active
-247691	active
-247695	active
-247697	active
-247705	active
-247711	active
-247716	active
-247722	active
-247724	active
-247742	active
-247747	active
-247755	active
-247761	active
-247768	passive
-247782	active
-247800	middlepassive
-247811	active
-247815	middlepassive
-247819	active
-247821	active
-247824	active
-middle
+247670	middle
+247675	middle
+247677	active
+247680	active
+247691	middlepassive
+247695	middle
+247698	middlepassive
+247701	active
+middlepassive
+247707	active
+247710	active
+247713	active
+247716	middle
+247721	active
+247723	active
+247727	active
+247731	active
+247733	active
+active
+247737	active
+247740	active
+247743	active
+247746	active
+active
+active
+247763	active
+247765	passive
+247767	passive
+247769	active
+247773	active
+247810	active
+247813	active
+247815	passive
+247819	passive
+247821	middlepassive
+active
+247826	middle
 247831	active
-247834	active
 active
-247841	active
-247848	active
-247851	active
+247838	middlepassive
+247843	active
+247846	active
+247851	passive
+247855	active
+247858	middlepassive
 active
-247859	active
-247863	active
-247866	active
-247869	active
-247874	middle
+247861	active
+247863	middle
+247868	active
 247876	active
-247880	active
-247884	active
-active
-247887	active
-247889	passive
-247894	active
-247897	active
+247881	active
+247883	active
+passive
+247889	active
+247898	active
 247900	active
-247909	active
-247911	active
-247914	active
-247923	active
+247902	passive
+247906	active
+247910	active
+247912	active
+247915	middle
+247919	middle
+247926	active
+middle
+247929	middle
 247933	active
-247940	active
-247948	active
-247961	active
-247968	active
-247986	active
-247991	active
-247994	active
-247999	active
+middlepassive
+247939	middle
+247942	active
+247945	active
+247955	passive
+passive
+247963	active
+247966	passive
+247970	active
+247972	active
+247975	active
+247977	active
+247984	passive
+247988	middle
+247992	active
+247998	active
 248007	active
+248010	active
+active
 248015	active
-248019	active
-248024	active
+248018	active
+248020	passive
+248023	active
 248028	active
-248034	active
+248032	passive
+248041	active
+248043	passive
 248051	active
-248057	active
-248074	active
-248081	active
-248098	active
+248053	middle
+248057	middle
+248060	active
+active
+248065	active
+248067	active
+248072	active
+248075	active
+248089	active
+248091	passive
+active
+248096	active
+248099	active
 248103	active
-248107	active
-248128	active
-248134	active
-248137	active
+248105	active
+248108	active
+248110	active
+248113	active
+248115	active
+248120	active
+248124	active
+248127	middlepassive
+248130	active
+248137	middlepassive
+248140	active
+248143	active
 active
-248148	active
+248147	passive
 248151	active
-248153	middlepassive
 248155	active
+248157	active
+248163	active
 248165	active
-248167	middle
-248172	active
-248191	middle
-248196	active
-248202	active
-248218	middlepassive
-248223	active
-248227	active
+248168	active
+248174	active
+248176	middlepassive
+248182	passive
+248186	active
+248189	active
+248191	active
+248197	active
+248201	middle
+248204	active
+248208	active
+248212	active
+248214	active
+248218	passive
+248221	active
+248226	active
+248229	active
+248235	active
 active
-248230	active
-248232	active
-248234	active
-248236	active
-248238	active
+248240	active
 248243	active
-248247	active
-248251	active
-248256	active
-248258	middlepassive
-248262	middle
-248267	active
+248249	active
 active
-248279	active
+248253	middle
+248257	active
+248259	middlepassive
+248264	active
+248270	passive
+248275	active
+248280	active
+248282	middlepassive
+248289	active
+248293	active
+248297	active
+248299	middlepassive
+248304	active
 active
-248286	passive
-248294	active
-248298	active
-248300	middle
-active
+248307	active
+248310	middle
 248315	active
-middle
-248319	active
-248321	active
+248323	active
+passive
+passive
+248327	active
 active
-248337	active
-248339	active
-248347	active
-248358	middle
-248363	active
+248334	middle
+248336	middle
+248340	middlepassive
+248365	active
+248381	active
+248387	middle
+248392	active
+248406	active
+248410	middlepassive
+248412	active
+248420	active
+248425	active
 active
-248379	active
-248385	active
-248393	passive
-248395	active
-248399	active
-248409	active
-248414	active
-248420	middle
-248422	active
-248427	active
-248430	active
-248434	active
-248436	active
-248442	active
-248453	active
-248455	active
-248462	active
+248429	active
 active
-248473	passive
-248475	active
+248439	middle
+248443	middle
+248446	active
+248448	active
+248451	active
+248455	middle
+248458	active
+248460	active
+248463	active
+248467	active
+248469	active
+248473	active
+248476	middle
 active
-248480	active
-active
-active
-248494	active
-248499	active
-248502	active
-248510	middle
-248517	active
-248520	active
-248525	middle
+248482	passive
+248486	active
+248491	active
+248494	passive
+248498	active
+248507	active
+248512	active
+248515	active
+248526	active
 248532	active
-248544	active
-248548	active
-middle
-248559	active
-248575	active
-248591	middlepassive
-248594	passive
-248608	active
-248610	active
-248618	active
-248620	middle
-248625	active
+active
+248539	active
+248543	active
+248548	middle
+248553	middle
+248556	active
+248563	active
+248567	active
+248572	active
+248574	active
+248577	active
+248584	active
+248592	active
+248594	middle
+248599	middlepassive
+248601	active
+248620	active
+248624	middle
 248628	active
-248633	passive
-248638	active
-248645	active
-248652	active
-248658	active
+248630	active
+248637	active
+248640	active
+248642	active
+248646	middle
+248650	active
+248655	active
 248664	active
-248670	active
-248674	active
-248676	active
-248683	active
-248687	active
-248692	active
-248698	active
-248705	middlepassive
+passive
+passive
+248672	active
+active
+248677	active
+248681	active
+248685	active
+248691	active
+248695	active
+active
+248700	active
+248703	active
 248707	active
-248716	active
-248719	active
-248726	active
-248734	active
-248742	active
-248747	active
-248752	active
-248762	active
-248765	middlepassive
-248770	active
-active
-248780	active
+248710	active
+248712	middle
+248715	active
+248717	passive
+248725	active
+248730	active
+248735	active
+248737	passive
+248741	active
+248743	active
+248745	active
+248758	active
+248761	active
+248763	active
+248766	active
+248771	active
+248776	active
+248781	active
 248784	active
-248791	active
-248793	active
-active
-248799	active
+248786	active
+248788	middlepassive
+248792	passive
+248799	passive
 248804	active
-248808	active
-248814	active
-248827	active
-248829	middle
-248835	active
-248844	active
+248807	active
+248812	active
+248818	active
+248821	active
+248824	active
 active
+248833	active
+248837	passive
+248847	active
+248849	passive
+248860	passive
+248864	active
+passive
+248867	passive
+248874	middle
+248878	active
+248881	active
+248884	active
+248889	active
+248892	active
+248894	passive
 active
-active
-active
-248853	active
-248857	active
-248861	active
-248866	middle
-248873	active
-248880	active
-active
-248887	active
-248890	active
-248900	passive
-248902	active
-248910	active
-248915	active
-248923	active
-248925	active
-248933	active
-248935	active
-248938	active
-active
+248899	active
+248906	active
+248909	active
+248914	active
+248917	active
+248921	active
+248932	active
+248937	active
+248940	passive
+passive
 248943	active
 active
-248946	middle
 248949	active
-248959	active
-passive
-248967	active
+248955	active
+middle
+248960	middlepassive
+248962	active
+248969	active
 248973	active
-248980	active
+248983	active
+248986	passive
+248989	active
+248996	active
 active
-248987	active
-active
-248991	active
-248993	active
-249004	active
-active
-249013	active
-249019	active
+249002	active
+249005	middle
+249008	passive
+249015	passive
+249023	active
 249025	active
-249033	passive
-249038	active
-249046	active
-249051	active
-249055	active
-249061	active
-249064	active
-active
-active
-249068	active
-249078	active
-middle
-249084	active
-249091	active
-249095	passive
-active
-249102	active
-249107	active
-249111	passive
-249116	passive
-249121	active
-249137	active
-249146	active
-249153	active
-249155	passive
-249175	active
-249182	active
-249190	passive
-249196	active
 passive
-249201	active
-249214	active
-249225	active
-249228	active
-249232	middle
-249237	active
+249033	active
+249035	passive
+249040	active
+249046	passive
+249053	middle
+249057	active
+249060	active
+249062	middle
+249066	active
+249071	middle
+249075	passive
+249078	middle
+249086	middle
+249092	active
+249097	active
+249101	passive
+249106	passive
+249111	active
+249123	active
+249127	active
+249129	passive
+249137	active
+249139	active
+249141	active
+249152	middlepassive
+249159	passive
+249161	active
+249164	passive
+passive
+249173	active
+249177	active
+249185	middle
+249188	passive
+middlepassive
 active
-249244	active
-249248	active
-249255	active
+249193	active
+249196	active
+249204	passive
+active
+249208	active
+249211	passive
+passive
+249216	active
+passive
+249221	active
+249225	passive
+active
+249231	active
+249235	active
+249243	passive
+249245	middle
+249247	active
+249250	active
+249253	active
+249258	active
 249267	active
-249282	active
-249288	active
-249291	active
-249296	middle
-249301	passive
-middle
+249270	active
+249276	active
+249278	active
+249281	active
+249284	active
+249293	active
+249302	active
+249306	active
+249310	middle
+249312	middle
 249317	active
+249320	active
+249323	active
 249325	active
+249334	active
+249337	active
+249348	active
+249350	active
+249353	active
+249357	active
+249361	passive
+249364	active
+249372	active
 active
-249365	active
-249373	active
-249375	active
+middle
+249378	middlepassive
+249382	active
+249384	middlepassive
+249392	middlepassive
+249396	active
 active
-249381	active
-249388	active
-249392	active
-249406	active
-249419	active
-249426	passive
-249428	passive
+249403	middle
+249417	middle
+249424	active
 249432	active
 active
-249436	middlepassive
-249449	active
+249437	active
 active
-249458	active
+249440	active
+249445	active
+249447	active
+249450	active
+249453	passive
+249459	active
 249465	active
-passive
-249468	active
-249472	active
-249482	active
-249485	active
-249499	active
-249511	active
-249516	passive
-249523	passive
+249468	passive
+249471	active
+249473	active
+249477	active
+249481	middle
+249483	active
+249486	active
 active
-249536	active
-249544	passive
-249552	active
-249554	active
-249557	active
+249490	active
+passive
+249496	active
+249510	passive
+249518	active
+passive
+249522	active
+249529	active
+249531	active
+249535	active
+249538	active
+249542	active
+249551	active
+249553	active
+249555	passive
+249557	passive
 249559	active
-249577	active
+active
+249562	active
+249564	active
+249572	active
 249579	active
-249586	active
+249584	passive
 active
-249592	active
-249598	active
-249601	active
-249606	active
-middle
-249614	passive
-249618	passive
-249625	active
-middle
-249630	active
-249635	active
-249644	active
-249650	passive
-249662	active
-249671	active
-249675	active
-249678	active
-249684	active
+249593	active
+249595	active
+249602	active
+249612	active
+249619	active
+active
+249626	passive
+active
+active
+249632	passive
+249636	active
+middlepassive
+249642	passive
+249645	active
+249648	active
+passive
+249653	passive
+249655	active
+249661	middlepassive
+249666	active
+249671	middle
+active
+249676	active
+249679	passive
+249683	active
+249688	active
 249690	active
-249698	active
+249695	active
+249697	active
+249699	active
+249702	active
 249709	active
-249719	active
-249729	active
-249733	active
+249712	passive
+249714	passive
+249718	active
+249720	middle
 active
-249742	passive
-249759	active
-passive
-249774	active
-249778	active
-249794	middlepassive
+249726	passive
+249736	active
+249743	passive
+249745	active
+249754	active
+249757	passive
+active
+249761	active
+249765	active
+249768	active
+249778	middlepassive
+249781	active
+249783	active
+249787	passive
+249789	active
+249793	active
 249798	active
-249805	active
-249809	passive
-249815	active
-249818	middlepassive
-249832	active
+249803	active
+249806	active
+249809	active
+249812	active
+249817	active
+249821	active
+249827	active
+249833	active
 249837	active
-249839	active
-249850	active
-249852	active
-249854	active
-249866	middlepassive
-249872	active
+249839	middlepassive
+249842	middle
+249844	active
+249848	passive
+249853	active
+249857	active
+249861	passive
+249864	active
+249867	active
+249873	active
+249875	active
+249878	active
+active
 249884	active
-249890	active
-249898	active
+249891	active
+249900	active
 active
+249903	passive
+249905	active
+249909	passive
+249912	passive
+249915	active
+249919	active
+249921	active
+249927	active
+249930	active
+249935	active
+249939	active
+249941	active
+249944	active
+249946	passive
+249951	active
 middlepassive
-249906	active
+249961	active
+249964	active
+249968	active
+active
+249972	active
+249974	passive
+249981	passive
+249984	passive
+249986	active
+249988	active
+249990	passive
+249995	middle
+249999	middle
 middlepassive
-249913	active
-249916	active
-249923	active
-249927	middlepassive
-249933	active
-249947	middlepassive
-249950	passive
-249958	active
-249967	active
-249975	active
-249977	active
-249980	active
-249985	active
-249990	active
-active
-250002	active
-250009	active
-250012	active
-active
-250020	active
-250028	middlepassive
-250043	middlepassive
-250052	active
-250057	active
-active
+250011	passive
+250017	active
+250025	active
+250037	active
+250046	active
 250061	active
-250069	active
-250071	active
-250074	active
+250077	active
+250086	middle
+250091	active
+250096	active
+250112	active
+250115	passive
+250117	active
+250132	active
+250137	active
+250147	middle
+250154	middle
+250168	passive
 passive
-250082	active
-250086	active
-250089	active
-250092	active
+250173	active
+250180	active
+250184	active
+250189	active
+250199	active
+passive
+250207	active
+250220	active
+250234	middle
 active
-250098	active
-250100	active
-250102	active
-250107	active
-active
-250113	active
-250115	active
-250118	active
-250122	active
-active
-250127	passive
-250129	active
-250134	passive
-250136	active
-250141	middle
-250144	active
-250150	middlepassive
-250160	active
-250162	active
-250182	middlepassive
-250187	active
-250192	active
-250198	active
-250200	active
-250217	passive
-250219	active
-250232	active
-250237	active
-250244	active
+250238	middle
 250250	active
-active
-250261	passive
-250266	active
-250270	active
-250280	active
-250286	active
+250256	passive
+250262	active
+250265	active
+250285	active
 250290	active
-active
-250293	active
-250295	active
+250299	active
 250302	active
-250306	passive
-250310	active
-passive
-250322	passive
-250325	active
+250306	active
+250319	passive
+250327	active
 250330	active
-250332	active
-250340	active
-250346	active
-250350	active
-250366	active
-250382	active
-250398	active
-250406	active
-250418	middlepassive
-250425	passive
-250427	active
-250434	active
-250438	active
-250442	active
-250450	active
-250457	active
-250464	active
-250474	middlepassive
-250478	middle
-250481	active
-250494	active
-250500	active
-250502	active
-250506	active
-250508	active
-250518	active
-250530	active
+250336	active
+250341	active
+250348	middle
+250351	active
+250359	active
+250373	active
+250381	passive
+250388	active
+250395	middle
+250404	active
+250411	active
+250414	active
+250418	active
+250423	active
+250425	active
+250430	middle
+250433	middlepassive
+250437	active
+250460	middle
+250463	active
 passive
-250541	passive
-250543	active
-250546	active
-250559	active
-250561	active
-250572	active
-250588	active
-250591	active
-250598	passive
-250629	active
-250633	active
-active
-active
-250637	middlepassive
-250644	active
-250646	active
-250660	active
-250665	middlepassive
-active
-250675	active
-250681	active
-active
-250691	active
+250469	active
+250473	active
+250475	active
+250481	passive
+250484	passive
+250489	active
+250494	passive
+250505	active
+250514	active
+250516	passive
+250524	active
+250527	active
+250534	active
+250544	active
+250547	active
+250552	active
+250555	active
+250562	active
+250566	active
 middle
-250697	active
-250699	active
-250715	active
+250575	active
+250584	active
+250587	active
+250593	passive
+250599	active
+250604	passive
 active
-250721	active
+250611	passive
+250624	active
+250630	passive
+250634	passive
+250638	active
+250641	middlepassive
 active
-250732	active
+active
+250654	passive
+250660	passive
+250666	active
+250676	passive
+250683	passive
+250693	passive
+250697	middle
+250703	active
+250708	passive
+250714	active
+250716	passive
+250734	active
 250740	active
+250748	middle
 250750	active
-250754	active
-250759	active
-250763	middle
-active
-250768	active
-250784	active
-250787	active
-250802	active
+250757	active
+250760	active
+250771	passive
+250773	active
+250781	passive
+250788	active
+250798	active
+middle
+250808	active
 250812	active
-250818	active
-250820	middlepassive
-250823	middlepassive
-250826	active
-250831	active
-250838	active
-250840	active
-250844	active
-250864	active
-250866	passive
-250870	active
-250875	active
+250817	passive
+250824	middlepassive
+250827	active
+250833	middle
+250849	active
+250856	active
+250859	passive
+250864	middlepassive
+250867	active
 active
-250879	active
-250883	active
-250887	active
+250881	passive
+250902	passive
+250911	active
 active
-250893	active
-middlepassive
-250897	active
-250902	active
-250912	passive
-250917	passive
-250923	active
+250914	active
+250916	active
+250920	active
+250922	active
+250926	active
+250933	active
 active
-250935	active
-250940	active
+250936	active
+250941	active
 250945	active
-250947	active
-250949	active
-250951	active
-250957	active
-250964	active
-250966	active
-250971	active
-250973	active
-250975	active
-250977	active
-250983	active
+250969	active
 250991	active
-250993	passive
-250998	active
-251003	active
-251006	active
+251008	active
 251011	active
-251013	active
 251015	active
-251017	active
-251020	active
-251028	active
-251031	active
-251033	active
-251036	active
-251038	active
-251041	active
-active
-251050	active
-251053	active
-251056	active
-251059	active
-active
-251064	active
+251032	middle
+251039	active
+251041	middlepassive
+251045	active
+251049	active
+251056	passive
+251062	active
 251070	active
-active
-251073	active
-251075	passive
-251079	active
-251084	active
-251088	active
-251091	active
-251105	active
-251108	active
-251110	active
-251114	active
-251118	active
-251126	active
-251133	active
-active
-251136	middlepassive
-251143	active
+251072	active
+251083	active
+251087	active
+251090	passive
+251092	active
+251096	middle
+251103	passive
+251108	passive
+251115	middle
+251119	passive
+251125	middle
+251127	active
+251134	active
+251136	passive
+251139	active
+251142	active
+251146	active
+251149	active
+251151	active
+251154	active
+middlepassive
+251160	active
 active
 251163	active
-251165	active
-251173	active
-251177	active
-active
-251180	middlepassive
-251186	active
-251191	active
-251197	active
-251200	active
-251208	active
-active
-251217	active
-251223	passive
-251230	middlepassive
-251234	active
-251238	passive
-251246	middle
-251255	middle
+251170	middlepassive
+251179	active
+251181	active
+251184	active
+251190	passive
+251198	passive
+251202	middlepassive
+251206	middlepassive
+251212	middle
+251214	middlepassive
+251221	active
+251226	active
+251229	active
+251243	passive
+251246	active
+251253	active
 251259	active
-251262	active
-251268	middlepassive
-251278	middle
-passive
-251282	active
-251284	active
-251288	active
-251300	middlepassive
+active
+251265	active
+251268	active
+251277	active
+251281	middlepassive
+251291	middlepassive
+251293	active
 251303	active
-251316	middlepassive
+251312	active
+251314	active
+251319	active
+251327	active
+251330	middlepassive
+251333	active
+251335	active
+251338	passive
+251341	passive
+251344	passive
+251346	active
+251348	active
 active
-251323	passive
-251325	active
-251334	active
-251339	active
-251347	passive
-251361	active
 active
-251364	active
+251352	active
+251356	active
+251359	active
+251363	active
+251369	middle
 251374	active
-251381	active
-251387	active
+251377	middlepassive
+251380	active
+251386	passive
+251388	active
+251391	passive
+251393	active
+251402	active
+251410	passive
+251421	active
+251435	passive
+251443	active
+251448	active
+251452	active
+251456	active
 active
-251396	middle
-251405	middle
-251407	active
-251417	middle
-251445	active
-active
-251448	passive
-251451	active
 251463	active
+251468	active
+251475	active
+251478	active
+251481	active
+251487	active
+251491	active
+251497	active
+251507	active
+251511	active
+251517	passive
+251522	middle
+251529	active
+251532	active
+251545	active
+251551	middlepassive
+251554	active
+251560	active
+251562	active
+251568	active
+251575	middle
+251577	middle
+251583	active
+251587	active
+251593	active
+251611	active
+251617	active
+251623	active
+251628	active
+251630	middle
+251639	active
+251641	active
+251643	active
+251649	active
+251654	active
+251657	passive
+251665	middle
+251670	middlepassive
+251672	active
+251678	active
+251701	active
+251706	passive
 active
-251470	middlepassive
-251473	middle
-251477	active
-251486	active
-251490	active
+251714	middle
 active
-251503	passive
-251513	middle
-251517	middle
-251519	middlepassive
-251526	active
-251534	passive
-251537	active
-251543	active
-251547	active
-251553	active
-251556	active
 active
-251590	active
+251718	middle
+251723	middle
+251728	middle
+251736	active
+251741	middle
+251746	passive
 active
-251624	active
-251633	active
-active
-251651	active
-passive
-251657	active
-251674	middle
-251677	active
-251681	passive
-active
-251687	active
-251700	middle
-251711	middle
-active
-251715	passive
-251725	middle
-251729	active
-251732	passive
-251747	active
-251751	passive
-251758	passive
-251767	active
+251752	middle
+251758	active
+251763	middlepassive
 251769	active
-251779	active
-251781	active
-251786	active
-251795	active
-251797	active
-251805	middle
-251819	passive
-251833	middle
-251838	active
-251842	passive
-251845	passive
-251850	middle
-active
-251857	active
-251859	middle
-251868	active
-251883	active
-251885	passive
-251896	active
-251900	active
-251908	passive
-251920	passive
+251780	passive
+251787	active
+251792	active
+251796	middle
+251798	active
+251800	active
+251803	active
+251808	active
+251810	active
+251819	active
+251824	active
+251828	active
+251839	active
+251849	active
+251858	active
+251874	middle
+251887	active
+251890	middle
+251893	active
+251897	active
+251901	active
+251905	active
+251924	active
 251928	active
-251937	middle
-251946	passive
-251951	active
+251934	middlepassive
+251939	active
+251944	active
+251946	active
+251948	active
+251952	passive
 251959	active
-middlepassive
-251962	passive
-251964	middlepassive
-251969	active
-251978	passive
-251984	middle
-active
+251962	middlepassive
+251971	active
+251977	middle
+251989	active
 251993	active
-middlepassive
-251997	active
-252002	active
-252020	middle
-252027	active
-252032	passive
-252034	active
-252043	active
-252045	middle
-252048	active
+251998	active
+252009	active
+252013	active
+252018	middlepassive
+252023	active
+252026	middlepassive
+252028	active
+252039	passive
+252042	active
+252045	passive
 active
 252051	middle
-252055	active
-252057	active
-252062	active
-252074	passive
-252082	active
-252117	active
-252126	active
-active
-252141	middle
-252145	middle
-252151	active
-252153	active
-252155	active
-252158	active
-active
-252163	passive
-active
+252065	passive
+252073	passive
+252084	active
+252087	active
+252091	active
+252098	middle
+252100	active
 passive
-252175	active
-252182	middle
-252190	active
-252196	active
-252198	middle
-252208	active
-252210	active
+252106	active
+252108	active
+252111	active
+252117	active
+252123	active
 active
-252222	active
-252224	passive
-252232	middle
-252240	active
-252244	active
-252258	active
-252277	middle
-252285	passive
-252310	active
-252319	active
-252321	active
-252347	passive
-252359	active
-252370	middle
-252375	middle
-252381	passive
-252384	active
-252396	passive
+252137	active
+252151	middlepassive
+252154	active
+252156	active
+252159	active
+active
+252163	active
+252167	active
+252173	passive
+252176	middlepassive
+252178	active
+252188	passive
+252193	active
+252197	active
+252200	active
+252202	active
+252206	active
+252221	active
+252226	active
+252229	active
+252232	active
+252240	middlepassive
+active
+252245	active
+252251	active
+252259	active
+252262	middle
+active
+252268	active
+252270	active
+252273	middle
+252276	passive
+252279	active
+252281	middle
+252290	active
+252292	middle
+252304	active
+252309	middle
+252318	active
+252334	middlepassive
+252337	active
+active
+252341	active
+252343	active
+252347	active
+252351	middle
+252358	passive
+252360	passive
+252365	active
+252371	active
+252374	active
+252378	passive
+252385	active
+252387	active
+252392	active
+252394	active
+252396	active
+252401	active
+252405	active
+active
 252411	active
-252425	active
-252432	passive
-252446	active
+252416	active
+252420	active
+252426	active
+252431	active
+252437	active
 active
-252452	active
-active
-252463	active
-252465	passive
+252440	active
+252444	active
+252450	middle
+252453	middle
+252464	active
+252470	active
 252472	active
-252476	middle
-252492	active
-252495	passive
+252474	active
+252477	active
+252481	active
+252490	active
+252493	active
+252496	active
 252499	passive
-252506	middle
-252521	active
-252527	active
-252537	active
+252502	active
+middlepassive
+252512	active
+252518	active
+middle
+252522	active
+252531	active
+252534	active
 252543	active
 252545	active
-252550	active
-252562	active
+252548	active
+252551	active
+252554	active
+252556	middlepassive
+252561	active
+252564	active
+252570	active
 active
-252578	active
-252580	passive
-252587	active
-252600	active
-252602	active
-252605	active
-252619	active
-252627	active
+252585	active
+252590	middle
+252594	active
+252598	middlepassive
+252605	middlepassive
+252608	active
+252611	active
+252618	passive
+252620	middlepassive
+252624	active
+252626	passive
+252628	active
+252642	active
+252651	passive
+252654	active
+252661	active
+252664	passive
 active
-252640	passive
-252650	active
-252657	active
-252665	active
-252675	passive
+252668	active
+252671	passive
+252677	middlepassive
+active
+252683	middlepassive
+252686	middlepassive
 252688	active
-252694	active
-252699	active
-252701	active
-252705	active
+252702	active
+252707	active
 252711	active
-252714	active
-252721	middlepassive
-252729	active
-252744	active
-252756	active
-252767	active
+252715	active
+252717	active
+252719	middlepassive
+252722	active
+252724	active
+252726	active
+252731	active
+252734	active
+252739	active
 active
-252770	passive
-252774	active
-252788	active
-252796	active
-252798	passive
-252820	middle
-252832	active
-252852	middle
-252865	middle
-252867	active
-252869	active
-passive
-252885	middle
-252891	passive
-252893	passive
+252758	active
+252763	active
+252766	middlepassive
+252768	active
+252781	middlepassive
+252784	active
+252794	active
+252798	active
+252801	active
+252803	active
+252806	active
+252809	middle
+252813	active
+252825	active
+252829	active
+active
+252833	passive
+252838	active
+252847	passive
+252853	active
+252855	active
+252865	active
+252885	middlepassive
+252893	active
+252898	middle
+252900	passive
 252907	active
 252909	active
-252932	middlepassive
-252949	middlepassive
-252954	active
-252960	active
-252971	active
-252973	active
-252980	active
-252985	active
-252992	active
-252998	active
-253007	active
-253012	active
-253025	active
-253027	passive
-253040	active
-253071	active
-passive
-253074	active
-253088	passive
-253091	active
-253096	middlepassive
-253103	active
-253107	active
-active
-253114	active
-253116	active
-active
-253128	active
-active
-253135	active
-253137	active
-253142	active
-active
-253150	active
-253154	active
-253157	active
-253169	active
-253171	active
-253178	active
-253182	passive
-253193	middlepassive
-active
-253196	active
-253198	active
-253207	active
-253209	middlepassive
-253211	active
-253216	active
-253223	active
-253225	active
-253229	active
-253234	active
-253241	middlepassive
-253254	passive
-253261	active
-253263	active
-253273	active
-253288	passive
-253291	active
-253296	middle
-253305	active
-253312	active
-253319	active
-253321	active
-253341	active
-253351	active
-253353	middle
-253359	active
-253361	active
-253369	middle
-253371	middle
-253374	passive
-253384	active
-253389	active
-253396	active
-253411	active
-253413	active
-active
-253429	active
-253444	active
-253449	active
-253463	active
-253473	active
-253479	active
-253481	active
-253484	active
-253488	passive
-253496	active
-253508	active
-253512	passive
-253517	active
-253520	middle
-253529	active
-253550	active
-253554	active
-253569	middle
-253576	active
-253580	middle
-253588	active
-253594	passive
-253617	active
-253619	active
-253626	active
-253642	middle
-253650	active
-253662	passive
-253674	active
-253683	active
-253685	active
-253690	active
-253699	active
-253707	active
-253724	middlepassive
-253728	active
-253734	active
-253749	active
-253755	middle
-253764	active
-253772	active
-253776	active
-253778	passive
-253789	middle
-253796	passive
-253826	active
-253833	active
-253840	middlepassive
-253852	active
-253857	passive
-253861	active
-253875	passive
-253887	passive
-253889	active
-253915	active
-253920	active
-253928	active
-253934	active
-253939	passive
-253947	middle
-253955	active
-253968	active
-253976	passive
-253983	active
-passive
-253986	active
-253998	middle
-254003	active
-254006	active
-active
-254016	active
-254021	active
-254025	active
-254027	passive
-254029	active
-active
-active
-254039	active
-active
-254044	active
-254046	active
-254058	active
-254065	active
-254070	middlepassive
+252912	active
 middlepassive
-254078	passive
-254084	middle
-254087	active
+252918	active
+252921	active
+252923	active
+252925	active
+active
+252928	passive
+active
+252931	active
+252935	passive
+252937	passive
+252939	active
+252941	active
+252943	passive
+252945	active
+252947	active
+252951	active
+active
+252955	active
+252963	active
+252967	active
+252982	active
+252984	active
+252987	active
+252989	active
+252992	active
+252996	active
+passive
+middle
+253009	active
+253029	middle
+253032	middlepassive
+253037	middlepassive
+253070	active
+253077	middlepassive
+active
+253086	active
+253092	middlepassive
+253097	active
+253103	active
+253118	active
+253124	active
+253130	active
+253137	active
+253147	active
+253149	middle
+253153	passive
+253162	active
+253170	active
+253172	passive
+253178	passive
+253188	active
+253190	active
+253201	middlepassive
+253208	active
+253217	active
+253223	active
+253232	passive
+253251	passive
+253254	active
+253259	active
+253262	active
+253268	active
+253273	middle
+253276	active
+253279	active
+253282	active
+253285	active
+253288	active
+253306	active
+passive
+253316	active
+253324	active
+253330	active
+253332	passive
+253337	passive
+253343	active
+passive
+253351	middle
+253353	active
+253358	active
+253371	active
+253374	middle
+253380	passive
+253383	active
+253388	passive
+253396	passive
+253400	active
+253402	active
+253413	active
+253421	active
+active
+253425	active
+253430	active
+253436	active
+middlepassive
+253441	middle
+253444	active
+253447	active
+253449	active
+253457	active
+253462	passive
+253465	passive
+253480	active
+253488	active
+253492	middlepassive
+253498	active
+253502	active
+active
+253505	active
+253517	active
+253521	active
+253525	passive
+253528	passive
+active
+253531	active
+253535	middle
+active
+253554	active
+253564	active
+253571	passive
+253583	passive
+253589	passive
+253596	active
+253602	active
+253609	active
+253612	middle
+253616	active
+253623	active
+253627	active
+253630	active
+253633	middle
+253637	active
+253639	active
+253646	active
+253656	active
+253658	active
+253664	active
+active
+253671	active
+active
+253674	passive
+253682	active
+253691	active
+253696	active
+253704	active
+253706	passive
+253711	active
+253722	active
+253724	active
+253737	passive
+253740	active
+253748	active
+253753	active
+253758	passive
+253765	passive
+253771	passive
+253773	active
+253783	active
+253786	middlepassive
+253793	active
+253795	active
+253799	middle
+253806	middlepassive
+253808	middle
+253815	middle
+253817	passive
+253821	active
+253825	active
+253833	middle
+253841	passive
+253843	middlepassive
+253846	middlepassive
+253851	active
+253856	middle
+253865	active
+253872	active
+253878	passive
+253883	middlepassive
+253887	active
+253897	active
+253905	active
+253912	active
+253916	middle
+253919	active
+253922	active
+253926	passive
+253929	active
+253935	active
+253939	active
+253944	active
+253946	active
+253957	middlepassive
+253960	active
+253962	middlepassive
+253968	active
+253971	middle
+253976	active
+253978	active
+middle
+253981	active
+253984	active
+253991	middle
+active
+253995	active
+253999	active
+active
+254003	middlepassive
+254009	active
+254013	active
+254019	passive
+254021	active
+254024	active
+254026	active
+254028	active
+254032	middle
+254038	passive
+active
+254041	active
+254044	middlepassive
+254048	active
+254058	active
+254063	active
+254067	active
+254075	active
+254079	active
+254081	middlepassive
+254089	active
+254092	active
+254094	middle
+254097	passive
 254099	active
-254101	active
-254104	middlepassive
-254106	active
-254122	passive
-active
+254108	passive
+254111	middlepassive
+254117	middlepassive
+254121	passive
+254124	passive
 254129	active
-254136	active
-254142	active
-254144	middlepassive
-254148	active
-254150	active
-254152	active
-254155	middle
-active
-254159	active
-254162	middle
-254171	active
-254178	active
+254133	active
+254142	middlepassive
+254148	middle
+254160	passive
+254163	active
+254169	passive
+254175	active
+254177	active
+254179	active
 254182	active
-254192	active
-254202	passive
-254204	active
-254211	active
-254223	active
-254226	active
-254228	active
+254186	active
+254191	active
+254205	active
+254211	middle
+254216	active
 254236	active
-254240	active
-254277	active
-254281	active
-254285	active
-254287	active
-254299	passive
-254318	passive
+254238	passive
+254246	passive
+254259	active
+254261	passive
+254267	passive
+254270	middle
+254278	middle
+254283	active
+254291	passive
+254308	active
+254312	active
+254314	active
+254319	active
+254321	active
+254325	active
+254330	active
+254332	active
+254335	active
 254341	active
-254354	active
-254365	active
-middle
-254372	active
-254381	active
-254392	active
-254404	active
-254413	middlepassive
-254429	passive
-254431	passive
-254439	active
-passive
-254442	passive
-254450	active
+254344	middlepassive
+254348	middlepassive
+254351	active
+254359	active
+254363	active
+254365	middle
+254369	active
+254387	passive
+254390	passive
+254393	active
+254395	active
+254397	active
+254405	passive
+254407	active
+254414	active
+254421	middlepassive
+254423	active
+254427	passive
+254434	active
+254438	middlepassive
+254440	active
+active
+254454	passive
+active
+254463	middlepassive
+254466	active
 254468	active
-active
-254480	active
-254482	active
-254484	active
-254486	active
-254494	active
-254514	active
-254525	active
-254536	active
-active
-active
-254544	passive
-254546	active
-254556	passive
-254563	active
-254567	passive
-254576	active
+254479	active
 passive
-254587	active
-254590	active
-active
+254482	active
+254493	active
+254497	active
+254506	active
+254510	active
+254516	middle
+254521	active
+254525	middle
+254527	active
+254531	passive
+254536	active
+254542	active
+254554	active
+254559	active
+254563	active
+254567	active
+254570	active
+254572	passive
+254574	active
+254578	active
+254586	passive
+254593	active
 254596	active
-254621	active
-254624	middle
-254630	active
-254637	active
-254650	active
+254600	active
 active
-254660	active
-254669	middle
-254679	middle
-254690	active
-254692	active
-254694	passive
-254702	active
-254705	middle
-254719	middle
-254725	active
-254735	active
+254606	active
+254625	active
+254632	active
 active
-254738	middle
-254747	active
+passive
+254638	active
+254656	passive
+254662	active
+254665	middlepassive
+254669	active
 active
-254753	active
-254756	active
+254673	active
+passive
+254676	middle
+254678	active
+254682	active
 active
-middle
-254774	active
-254776	active
-active
-middle
-254784	active
-254791	middle
+254685	active
+254689	active
+254691	active
+254694	middle
+254699	active
+254704	middle
+254712	active
+254716	active
+254718	active
+254723	passive
+254736	active
+254739	active
+254743	middlepassive
+254745	active
+254751	active
+254758	middlepassive
+254760	active
+254764	active
+254777	active
 254794	active
-254806	passive
-254808	active
-254814	middle
-254820	active
+254821	active
+254824	active
+254826	active
+254828	active
 254832	active
 254834	active
+254836	active
+254839	active
 254845	active
+254850	middle
+254854	active
+254858	middlepassive
+254868	active
+254883	active
+254886	middle
+254888	active
+254895	active
 active
-254851	active
-254855	active
+254900	active
+254911	active
 active
-254865	middle
-254882	active
-254894	middlepassive
-254906	active
-254922	active
-passive
-254926	active
-254933	passive
+254917	active
+254919	active
+254923	active
+254932	active
+254936	active
+254939	middlepassive
 active
+254942	active
+254945	middlepassive
+254950	active
 254952	active
-254957	active
-254964	middlepassive
-254970	active
-254974	middlepassive
-254989	active
-254992	passive
-255000	passive
-255002	active
-255016	active
-255022	passive
-255025	active
-255035	middle
-255049	active
-255057	active
-255060	active
-middlepassive
-255063	passive
-active
-255084	active
-255086	active
-255098	active
-middle
+254958	active
+254960	active
+254963	active
+254966	passive
+254969	passive
+254974	active
+254978	active
+254985	passive
+254988	active
+254993	active
+254996	active
+passive
+255003	active
+passive
+255014	middle
+255020	middle
+255023	active
+passive
+255027	passive
+255038	middle
+255040	active
+255053	active
+255055	passive
+255059	active
+255066	middlepassive
+255068	active
+255073	middlepassive
+255077	active
+255080	active
+255085	active
+255092	active
+255096	active
+255100	active
+255104	active
+255108	active
 255110	active
-255127	active
-255133	passive
-255139	middle
-255142	active
-255149	active
-255151	active
+255112	active
+255114	active
+255116	passive
+255118	active
+255122	active
 active
-255157	active
-passive
-255168	active
-255174	active
-255178	active
-255181	active
-255199	active
-255205	middle
-255207	middle
-255210	active
-255213	middle
-255218	middle
-255225	active
-255231	active
-255233	active
-255238	active
-255247	active
-255253	middlepassive
+middle
+255131	middle
+255141	active
+255145	active
+255147	active
+255150	active
+255152	active
+255155	active
+255160	active
+active
+255165	active
+active
+255169	middle
+255173	active
+255176	middlepassive
+255183	active
+255185	active
+255189	active
+255191	middlepassive
+255193	middlepassive
+255195	active
+255197	active
+255203	active
+255207	active
+255212	active
+255214	middlepassive
+255216	active
+255224	active
+255227	active
+255230	active
+255232	active
+255236	middle
+255242	active
 255259	passive
+255261	active
+255265	active
+255267	middlepassive
+255269	middle
+255274	active
+255277	passive
+255298	active
 active
-255263	active
-255270	active
-255275	active
-255277	active
-255280	active
-255289	middle
+255306	active
+255308	active
+255312	active
+255323	middlepassive
+255340	middlepassive
+255347	passive
+255354	active
+255358	active
 active
-255300	middlepassive
-active
-255314	passive
-255321	active
-active
-active
-255337	active
-255341	middle
-active
-255353	active
-255360	active
-255371	active
-255388	active
-255393	active
-255397	active
+255363	passive
+255379	active
+255382	active
+255386	active
+255392	active
+255404	active
 passive
-255400	middlepassive
+255410	passive
+255413	active
+255415	passive
+255424	middlepassive
+255429	active
+255434	active
+255441	passive
+255456	active
+255472	passive
+255488	active
+255495	active
+255500	active
+255504	passive
+255514	passive
+255522	active
 active
-255403	active
-255425	active
-255431	active
-active
-255439	active
-255449	active
-active
-255459	active
-255461	active
-active
-255466	passive
-255475	passive
-255480	passive
-255482	passive
-255484	middle
-255491	active
-255506	active
-255512	middle
-255517	passive
-255519	passive
-255524	active
 255526	active
+255529	active
+255532	active
 255535	active
 255539	active
-255554	passive
-255560	active
-255562	middle
 active
-255570	passive
-passive
-255575	middle
-255579	active
-active
-255582	active
-255593	active
-255597	middlepassive
-active
-255607	passive
+255542	passive
+255551	middle
+255554	active
+255558	middle
+255561	passive
+255565	active
+255571	active
+255577	active
+255591	middlepassive
+255598	middle
+255600	passive
+255604	active
+255609	active
 255613	passive
-255628	middle
+255615	active
+255618	active
+255622	active
 active
+255628	passive
 255631	middle
-255644	active
-255648	middle
+255642	active
+255655	active
+255657	active
 255660	passive
-255675	middle
-255687	active
-255690	active
-255692	active
-255700	active
-255702	middle
-255713	passive
+255674	active
+255677	active
+255682	active
+255686	active
+255692	middlepassive
+255699	active
+255701	passive
+255707	passive
+255718	active
 255721	active
-255742	active
-255744	active
-255756	middle
-255782	active
-255789	middle
-active
+255724	active
+255727	active
+255733	active
+255738	active
+255750	active
+255757	middle
+255763	active
+255769	active
+255773	active
+255775	active
+middlepassive
+255779	active
+255784	active
+255790	middlepassive
+255793	active
+255797	active
 255803	active
-255805	passive
+255806	middlepassive
+255810	active
+255813	active
+255818	active
+middlepassive
+255821	active
+active
 255825	active
-255836	active
-255847	active
-255859	passive
-255873	active
-255879	active
+255828	middlepassive
+255830	middlepassive
+255837	middlepassive
+255840	active
+255845	active
 active
-255889	active
+255851	active
+255858	middle
+255860	middle
+255863	passive
+255867	middlepassive
+255869	active
+255877	active
 255891	active
-255894	active
 255896	active
-255898	active
-255909	active
-255923	active
-active
-255927	active
-255933	active
-255939	active
-255946	middle
-active
-255962	active
-255965	active
-255973	active
-255980	active
-255985	active
-255989	active
-255996	middlepassive
-256002	active
-256012	active
-256020	active
-256023	active
-256028	active
-256036	passive
-256043	active
-256051	active
-256057	active
-256061	active
-256076	active
-256085	active
-256087	active
-256093	active
-256101	active
-256107	active
-256121	active
-256124	active
-256135	middle
-active
-256153	active
-256156	active
-256163	middle
-256176	active
-256179	active
-256189	active
-active
-256195	active
-256200	middle
-256202	active
-256212	active
-256219	active
-256224	active
-256249	active
-256253	middle
-256258	active
-256266	middle
-256278	active
-256290	active
-256292	middlepassive
-256304	active
-256322	active
-256329	active
-256332	active
-256337	active
-256350	passive
-256359	middle
-256368	active
-256371	middle
-256391	active
-256397	active
-256406	passive
-256411	passive
-256418	middle
-256435	active
-256444	active
-256451	active
-256456	passive
-256463	active
-256472	active
-256477	middle
-256483	active
-256488	active
-256499	passive
-256505	passive
-256508	active
-256514	passive
-256527	passive
-256530	middle
-256538	middle
-256545	passive
-256552	active
-256564	passive
-256569	active
-256577	middle
-256589	active
-256591	passive
-middle
-256594	active
-256597	passive
-active
-256602	active
-256604	active
-256617	active
-256623	active
-256628	active
-256630	passive
-256632	middlepassive
-256634	active
-256639	active
-256642	active
-256646	active
-256650	active
-256654	middle
-256656	active
-256659	active
-256668	active
-256671	active
-256675	active
-256680	active
-256691	middle
-256699	active
-256704	passive
-256708	passive
-256732	active
-active
-256737	middlepassive
-256740	active
-middle
-256766	middle
-256769	active
-active
-active
-256777	active
-256794	active
-256798	active
-active
-active
-256821	active
-256823	active
-middle
-256828	active
-active
-256840	middle
-active
-256844	active
-256856	active
-256863	passive
-256871	active
-256873	active
-256897	active
-256902	active
-256910	active
-256924	active
-256926	middle
-256943	active
-256958	middle
-256961	active
-active
-256966	active
-256968	middle
-256975	middle
-256977	passive
-256988	active
-256992	active
-256996	middle
-257005	active
-257013	active
-257015	middle
-257018	active
-257027	active
-257033	passive
-257045	active
-257051	active
-257053	active
-257062	passive
-257074	active
-257089	active
-257110	active
-active
-257114	active
-257126	active
-257138	middle
-257140	active
-257144	active
-257152	active
-257155	active
-middle
-257175	active
-257196	active
-257204	middle
-active
-257214	active
-257225	active
-257230	active
-257250	active
-257252	active
-257269	active
-257291	active
-257307	active
-257314	active
-257316	active
-257332	middle
-257334	active
-257345	active
-active
-257349	passive
-257356	active
-257363	active
-257369	active
-257375	active
-257381	active
-257390	active
-middle
-active
-257396	passive
-257409	active
-257413	active
-257418	active
-257425	active
-257431	active
-257437	active
-257442	middle
-257456	passive
-257459	active
-257463	middle
-257465	active
-257468	middle
-257474	active
-257479	active
-257485	active
-257494	active
+255919	active
+255921	active
+255923	middlepassive
+255926	active
+255929	active
+255931	active
+255936	active
+255946	active
+255956	active
 passive
-257499	active
+255959	active
 active
-257506	middle
-257530	passive
-257547	active
-257556	active
-257565	middlepassive
-257574	middlepassive
+255963	active
+255966	active
+255969	middlepassive
 active
-257580	active
-257587	passive
+255979	middlepassive
+active
+255984	middlepassive
+255995	active
+255997	middlepassive
+256006	passive
+256009	active
+active
+256017	middle
+middle
+256021	active
+256025	passive
+256027	active
+active
+256030	active
+256044	active
+256048	active
+256050	active
+256054	passive
+256057	middle
+256062	active
+active
+256080	middle
+256085	active
+256087	middle
+256091	active
+256096	middle
+256099	active
+256101	active
+256104	active
+256107	passive
+256109	active
+active
+256113	passive
+256120	active
+256124	active
+256135	active
+passive
+256140	active
+256148	active
+256155	passive
+256159	active
+256161	middlepassive
+256166	middlepassive
+256168	middlepassive
+256172	active
+256181	active
+256191	active
+256193	middlepassive
+256198	active
+256201	active
+256204	active
+256206	active
+256209	active
+256214	passive
+256220	passive
+256223	passive
+256225	active
+passive
+256231	active
+256241	middle
+256243	active
+active
+256247	active
+256255	middle
+256257	active
+256266	active
+256268	active
+256271	middle
+256276	passive
+256279	active
+256281	active
+256285	active
+256291	active
+256300	active
+256302	active
+256310	passive
+256313	active
+256315	active
+256322	active
+256326	middle
+256332	active
+256335	middle
+256343	active
+active
+active
+256350	active
+256352	active
+256354	active
+256357	passive
+256359	active
+256362	active
+256369	active
+256374	passive
+256376	passive
+256378	passive
+256380	passive
+256382	passive
+256384	passive
+256389	active
+256393	middle
+256396	active
+256403	passive
+256406	active
 active
 middle
-257595	active
-257605	active
-257610	active
-257616	passive
-257626	active
-257629	active
-257634	active
+256411	active
+256418	active
+256428	passive
+passive
+256435	middle
+256438	middle
+256440	passive
+256448	active
+256453	middlepassive
+active
+256462	active
+256468	active
+256470	active
+256474	active
+256483	active
+256486	active
+256488	active
+256497	active
+256500	middlepassive
+256508	middlepassive
+active
+256514	active
+256519	passive
+256528	active
+256530	active
+256535	active
+256537	active
+256540	active
+256544	active
+256546	active
+256548	active
+256552	active
+256554	active
+256568	active
+256575	active
+active
+256580	active
+256583	active
+256587	active
+256595	passive
+active
+256599	active
+256605	active
+active
+active
+256609	active
+256612	active
+256620	active
+256622	middle
+256624	active
+256628	passive
+256632	active
+256637	passive
+256639	active
+256641	active
+256644	active
+256646	passive
+active
+256651	active
+256654	middlepassive
+256657	active
+256659	active
+active
+active
+256666	active
+256670	active
+middlepassive
+256679	active
+256681	active
+middlepassive
+256685	active
+active
+active
+256689	active
+middlepassive
+256695	passive
+256700	active
+256702	active
+256706	passive
+256711	active
+256715	active
+256717	passive
+256719	active
+256722	active
+256726	active
+256728	active
+256737	middlepassive
+256743	active
+256745	active
+256750	active
+middlepassive
+256760	active
+256763	active
+256768	active
+256770	active
+256774	active
+active
+256778	middlepassive
+256789	active
+active
+256795	active
+256803	active
+passive
+256806	middlepassive
+256808	active
+256815	middlepassive
+256823	passive
+256826	active
+256828	active
+256831	active
+256834	active
+256836	active
+256839	middlepassive
+256844	active
+256847	middlepassive
+256849	active
+256857	passive
+256859	middlepassive
+256861	active
+256865	middlepassive
+256869	passive
+256872	passive
+256874	active
+256876	active
+256878	active
+256886	active
+256891	active
+256893	middlepassive
+active
+256898	passive
+256900	middlepassive
+active
+active
+256910	active
+256918	active
+256922	middle
+passive
+256928	active
+256935	active
+active
+256938	middlepassive
+256943	middle
+256947	passive
+256949	active
+256954	active
+256957	active
+256960	active
+256964	active
+256975	active
+256981	active
+256984	active
+256987	active
+256990	active
+256992	active
+256995	active
+middlepassive
+257006	active
+active
+257009	active
+257014	active
+257019	active
+active
+257024	active
+257026	active
+257030	active
+257032	middle
+257037	active
+middle
+257047	middlepassive
+257050	active
+257068	active
+257071	active
+257076	active
+257084	active
+257086	active
+passive
+257092	passive
+257094	active
+257100	active
+257108	passive
+257115	active
+257117	active
+257122	active
+257130	active
+257138	passive
+257147	active
+257151	active
+257154	active
+257163	passive
+257168	passive
+257177	active
+257180	active
+257186	passive
+257193	active
+257196	middlepassive
+active
+257200	active
+257202	passive
+257204	active
+257207	active
+257212	active
+257214	active
+257217	active
+257224	active
+257227	active
+257229	active
+257231	passive
+257238	active
+257240	active
+257248	active
+257252	passive
+257254	middle
+257257	active
+257260	active
+active
+257264	active
+257273	active
+257276	active
+257280	passive
+257287	active
+257292	middle
+257296	middle
+257298	active
+active
+257305	middle
+passive
+257311	active
+active
+257316	active
+257319	passive
+257323	active
+257326	active
+active
+257330	active
+active
+257333	active
+active
+257340	active
+257344	passive
+257352	active
+257361	passive
+257364	active
+257369	active
+257378	active
+257380	active
+257382	active
+257384	active
+257386	middle
+257388	middle
+257391	active
+257394	active
+middle
+257399	middlepassive
+257401	active
+middlepassive
+257405	active
+257410	active
+active
+257414	active
+257418	active
+257425	middle
+257429	active
+257436	active
+257438	active
+257443	active
+active
+257447	active
+257449	active
+257457	active
+active
+257461	active
+257463	active
+257466	active
+257469	active
+257475	active
+257492	active
+257495	middle
+257501	passive
+257507	passive
+257511	active
+active
+257515	middle
+257523	middlepassive
+active
+257526	active
+257531	active
+middlepassive
+257535	active
+257538	active
+middle
+257542	active
+257549	active
+257554	passive
+257561	active
+257564	middle
+257566	middle
+257570	passive
+257575	active
+257580	middlepassive
+257583	middle
+257586	active
+active
+257591	active
+257594	passive
+257596	passive
+257599	active
+257604	active
+middlepassive
+257609	active
+257614	middle
+257618	passive
+257625	active
+257631	middle
+257636	middle
 257639	active
-257643	active
-257647	middlepassive
-257651	passive
-257654	passive
-middle
+257652	middle
+257657	active
+257661	middlepassive
+257666	active
+active
+257670	passive
 257674	active
 257680	active
-257682	active
-257690	active
-active
-257697	active
-257706	active
-257708	active
-257717	passive
-257719	active
-257731	active
-257735	active
-257739	middle
-257756	passive
-257768	active
-257770	passive
-257772	active
-active
-257777	active
-257784	middlepassive
-middle
-active
-257796	middlepassive
-257807	active
-257815	active
-middle
-257821	active
-257828	active
-257834	active
-257838	passive
-active
-257851	active
-257859	active
-257863	active
-257882	passive
-257886	active
-257889	active
-active
-257900	active
-257904	active
-257910	active
-257922	active
-257934	active
-257938	middlepassive
-257940	active
-257959	active
-257966	active
-257978	passive
-257984	passive
-258005	active
-258007	active
-passive
-258013	active
-passive
-258027	active
-258032	active
-258036	middle
-258038	active
-258046	active
-258058	middle
-258063	active
-258067	active
-active
-258070	middlepassive
-258080	active
-258088	active
-258091	active
-passive
-258094	middle
-258105	active
-258116	active
-active
-258122	active
-258124	active
-258126	middlepassive
-258135	active
-258140	active
-258148	active
-258150	passive
-258156	active
-258161	active
-258163	active
-258169	active
-258172	active
-258174	active
-258177	active
-258181	middlepassive
-258185	active
-258187	active
-258192	active
-active
-258206	active
-active
-258214	passive
-258221	active
-258226	active
-258242	passive
-258249	middle
-258251	passive
-258262	passive
-258270	active
+257684	active
+257686	active
+257691	active
 middlepassive
-258279	active
-258290	active
-258301	middle
-258309	middle
-258316	middlepassive
-258322	active
-258329	active
-258333	middle
-258336	active
+257694	active
+257710	active
+257717	passive
+middlepassive
+257722	active
+active
+active
+257732	active
+257734	active
+257736	active
+active
+active
+257742	middle
+257747	active
+middle
+257754	active
+257756	passive
+257763	active
+257767	passive
+257770	active
+257772	active
+257774	active
+257777	active
+257781	passive
+257787	active
+257790	middlepassive
+257792	active
+257794	active
+257796	middlepassive
+257802	active
+257815	active
+257818	active
+active
+257825	active
+active
+257830	passive
+257837	active
+257841	active
+active
+257844	active
+257851	active
+257855	active
+257858	middlepassive
+active
+257867	middle
+active
+257876	middle
+257879	active
+257888	middle
+257892	active
+257895	passive
+257899	active
+257901	active
+257906	passive
+257908	active
+257912	passive
+257915	middle
+257922	active
+257935	middle
+257941	active
+257945	active
+257947	active
+active
+257950	active
+middlepassive
+257979	middle
+257984	active
+257991	passive
+258007	active
+258011	active
+middle
+258014	active
+258020	middle
+258023	active
+258028	active
+258032	active
+258036	active
+258047	middlepassive
+258054	active
+258056	active
+258059	active
+258061	active
+active
+active
+258072	active
+active
+258076	active
+active
+258080	active
+258083	active
+258094	active
+258098	active
+258102	active
+258106	active
+258111	middle
+258118	passive
+258123	passive
+258130	active
+active
+258134	middlepassive
+active
+258144	active
+258146	active
+258149	active
+258151	active
+active
+258162	passive
+258164	active
+258166	active
+passive
+258175	passive
+258178	active
+active
+258182	middle
+258192	passive
+258194	active
+active
+258199	middle
+258202	active
+258204	active
+258206	middle
+258210	middle
+258216	active
+258218	passive
+258225	active
+258228	middle
+258235	active
+258239	middlepassive
+258250	active
+258254	middle
+258259	active
+258265	active
+258272	active
+active
+258275	middle
+active
+258281	active
+258283	active
+258285	active
+258288	middle
+258291	active
+258295	passive
+active
+258301	active
+active
+258310	passive
+258317	active
+258323	active
+258331	active
 258338	passive
-258340	active
+258342	passive
+258350	middlepassive
+258352	middlepassive
+258354	active
+258356	middle
 active
-258346	active
-258362	active
-258366	active
-258375	active
-258381	active
-258387	middlepassive
+258360	active
+258369	middle
+active
+258377	middlepassive
+active
+258382	active
+258385	active
+258388	active
+active
 258394	active
-258397	passive
-258402	middlepassive
-middle
-258412	active
-258422	active
-258435	active
-258439	middle
-258458	active
-258462	active
-258467	passive
 active
-258476	middlepassive
-middle
-258479	active
-258486	active
-258494	active
-258500	active
-258502	active
-258508	active
+258399	active
+258403	active
 active
+258409	middle
+258415	active
+258417	middlepassive
+258422	middle
+active
+258450	active
+258455	middle
+258459	active
+258465	active
+258478	middle
+258487	active
+258496	passive
+258503	active
+active
+258506	active
+258510	active
 258512	active
-258517	active
-258521	active
-258523	active
+258519	active
 258525	active
-258532	passive
 258537	active
+258540	active
+258545	middlepassive
+258547	active
+258551	active
+258561	active
 active
-258544	active
-258546	active
-258548	active
-258555	active
-passive
-258564	passive
-258572	active
+258569	active
+258575	passive
+258580	active
+258598	active
+258600	middle
+258607	active
+258610	active
+258613	active
 active
-258576	active
-258582	active
-258587	active
-258590	active
-258592	active
-active
-258605	active
 258618	active
-middle
-258629	active
-passive
-258637	passive
+258621	active
+258626	active
+258631	middle
+258633	active
+258637	active
 258640	active
-258650	middle
-258652	middlepassive
+258642	active
+258647	active
+active
+258651	active
 258654	active
-258659	active
-258661	active
-258665	active
-middle
-258670	active
-258689	active
+258660	passive
+258662	middlepassive
+258679	active
+258687	active
+258691	active
 258695	active
-258703	active
-258707	middle
-258713	active
-258721	middlepassive
-258726	active
+258698	active
+258705	active
+258714	middle
+active
+258722	middle
+258727	active
 258730	active
-258748	active
-258751	active
+258734	active
+258738	active
+258743	middle
+258748	middle
+258754	active
+258758	active
 258760	active
+258768	active
 active
-258765	active
-258772	active
-258779	active
-258785	active
-258789	passive
-258797	middlepassive
-258799	active
-258801	passive
-258807	active
-258817	active
-258820	active
-passive
-258823	active
+258794	active
+258797	active
+258800	active
+258814	active
+258819	active
+258822	middle
 258825	active
-middle
-258847	active
+258830	passive
+258834	active
+258839	passive
+258843	active
+258848	active
 258853	active
-258861	middle
+258855	middlepassive
+258859	active
 258866	active
-258868	active
-258871	active
-258873	active
-258878	middle
-258889	active
-258891	passive
-258893	active
-258902	passive
+258870	passive
+258872	active
+active
+258876	active
+258878	active
+258880	passive
+258883	passive
+258889	passive
+middle
+258895	active
+258899	middle
+258901	active
 258904	active
-258907	active
-258911	active
-258914	active
-258920	passive
-258924	middle
-258928	active
-258930	passive
-258940	middle
-258953	active
-active
-258967	active
-258969	active
-258973	middle
-258978	active
 passive
-258985	middlepassive
-258988	active
-258990	active
-258994	middle
-258996	active
-259003	middle
-259011	active
-259017	active
-259024	middle
-259034	active
-259038	middlepassive
-259040	middlepassive
-259044	middlepassive
-259054	active
-259057	active
-259065	active
+258909	active
+258911	passive
 active
-259068	active
+258927	active
+258929	active
+258931	active
+middle
+258936	active
+258938	active
+258941	middlepassive
+258946	middlepassive
+258948	active
+258953	active
+258956	active
+258962	active
+258966	active
+258971	active
+258974	passive
+258978	passive
+active
+258985	passive
+258989	middle
+258991	active
+259000	active
+259006	active
+259009	active
+259011	passive
+259017	middlepassive
+259020	active
+active
+active
+259029	active
+259038	middle
+259043	active
+259048	active
+259052	active
+259057	active
+259060	active
+259063	active
+259066	active
+259071	active
 259073	active
-259079	active
+259076	middlepassive
+259079	middlepassive
+259081	active
+259084	passive
+259087	middle
+259093	passive
 259100	active
 259102	passive
-259104	middlepassive
-259122	passive
-middle
-259126	middlepassive
-259130	active
-259139	active
-259141	active
-259156	middlepassive
-259161	active
+middlepassive
 passive
-259164	active
-259170	middlepassive
-259174	active
-259176	active
+active
+259110	active
+259118	active
+active
+259131	passive
+259134	active
+259136	active
+259140	passive
+259144	active
+259158	passive
+259167	active
+259177	active
 259180	active
-259182	active
-259187	active
-259194	active
-259206	active
-259212	passive
-passive
-259216	active
+259188	active
+259190	active
+259203	active
+259208	active
+259213	active
+259217	active
+259219	passive
 259224	active
-middle
-259234	active
-259236	active
-active
-259239	active
-259246	active
-259254	active
-259257	active
-259261	active
-259268	active
+259228	active
+259233	middle
+259237	active
+259241	middle
+259247	active
+259250	active
+259252	active
+259259	passive
+259262	passive
 259270	active
+259277	active
+259279	passive
+259284	active
+259286	active
+259294	active
 active
-259275	active
-259278	active
-259281	middle
-active
-259289	active
-259296	active
-259298	middle
+259298	active
 259303	active
-259307	active
-259311	active
-259319	active
-259323	middle
-259325	active
-259331	active
-259333	active
-259336	active
-259343	active
-259347	active
+259305	active
+259308	active
+259313	active
+259315	middle
+259321	active
+259323	active
+259326	passive
 active
-259352	active
-259354	active
+259329	passive
+259333	passive
+259335	active
+259339	active
+259342	active
+259350	active
+259356	passive
+259358	active
+middlepassive
 259363	active
 259365	active
-259368	middle
-259377	active
-259384	middle
-259389	active
-259418	passive
-259422	middlepassive
-259435	active
-259443	middlepassive
-259450	active
-259471	active
-259476	active
+259367	active
+259372	middle
+259380	passive
+active
+259388	active
+259402	middle
+259408	passive
+259410	active
+259414	passive
+259416	active
+259420	active
+259422	active
+259426	passive
+259431	active
+259433	active
+259440	active
+259444	active
+259447	passive
+259453	active
+259458	active
+259466	active
+259468	active
+259479	active
 259481	active
-259485	middle
-active
-259488	active
-259490	active
+259492	middlepassive
 259504	active
-259515	active
-259521	middle
-259526	passive
-259529	passive
-259537	active
-259544	active
-259549	active
-259551	active
-259563	active
-259566	middle
-259569	active
-259580	active
-259586	active
+259511	passive
+259517	active
+259521	active
+259526	active
+259530	active
+259532	middlepassive
 active
-259594	middle
-259600	middle
-259604	active
-middle
-active
-259609	middle
-259615	active
-259619	passive
-259621	active
-259632	passive
-259641	active
-259660	middle
-259665	active
-259667	active
-259669	active
-259674	active
-259679	active
-259698	active
-259701	active
-259704	middle
-259710	passive
-259724	active
-259730	active
-259735	active
-middle
-259741	passive
-259747	active
-259755	active
-259762	active
+259536	passive
+259541	middlepassive
+259548	active
+259552	active
+259559	passive
+259561	passive
+259566	active
+259570	active
 middlepassive
-259767	passive
-259770	passive
-259775	middlepassive
-259781	active
-259785	middle
-259789	active
-259792	active
+259575	middlepassive
+259579	active
+259586	active
+259591	active
+259594	passive
+259604	active
+passive
+259608	active
+259611	active
+259615	active
+259620	active
+259637	middlepassive
 active
-259795	middlepassive
-259800	middle
-259803	active
-259805	active
-259813	active
+259644	active
+259646	passive
+259650	active
+259652	active
+259655	active
+259658	passive
 middle
-259816	active
-259818	active
-259826	active
-259829	active
-259836	middlepassive
-259840	passive
-259853	passive
-259859	middle
+259661	active
+259665	passive
+259678	active
+259681	active
+259685	active
+active
+259692	active
+active
+259704	active
+259706	active
+259711	active
+259717	active
+259719	active
+259725	passive
+active
+259732	active
+259740	passive
+259744	middle
+259759	active
+259761	active
+259766	passive
+middle
+259774	passive
+259778	middle
+259783	active
+259785	active
+259787	active
+259789	active
+259795	active
+259797	active
+259801	middlepassive
+259804	active
+259808	passive
+active
+259813	active
+259822	passive
+259828	passive
+259833	active
+259838	middle
+259844	middle
+259850	active
+259855	middle
+259864	middle
 259869	active
-259874	middle
-259877	active
+259873	middle
+259878	active
+active
+active
 259882	active
+259884	active
 active
-259898	active
-259904	active
-259915	active
+259888	active
 active
-259918	middle
-259932	middle
-259934	active
-259938	active
-259943	active
-259949	active
-259954	active
-259956	active
+259893	active
 active
-259964	active
-259966	active
+259900	active
+259909	middlepassive
+259911	active
+259919	active
+259927	middle
+259930	active
+active
+active
+259935	middlepassive
+259941	active
+259946	middlepassive
+259953	active
+259958	middle
 259968	active
 259970	active
-active
-259973	active
-259979	middlepassive
-259982	active
-259986	passive
-259988	middlepassive
-259994	active
-260000	active
+259976	active
+259981	active
+259985	passive
+259992	active
+259999	active
+passive
 260005	active
-passive
-middlepassive
-260012	middle
-260018	active
-260032	middle
-260036	middlepassive
-260045	middle
+260009	active
+260014	active
+260024	active
+260026	active
+active
+260032	active
+260036	active
+260042	passive
+260044	active
 260047	active
-260057	active
-260059	passive
-260071	passive
-260077	active
-260083	middle
-260086	passive
-260089	passive
-260101	active
-260108	active
-middle
-260120	active
+260049	active
+260056	passive
+260062	active
 active
-260125	passive
-260132	active
-260138	active
-260142	middle
-260145	active
-260157	middlepassive
-260160	middlepassive
-260164	active
-260169	active
-260175	middle
-260182	active
-260187	active
-260190	middle
-260199	middle
-260211	active
-260220	active
-260231	active
-active
-260234	middlepassive
-260238	passive
-260248	active
-260258	active
-260273	active
-active
-260282	active
-260291	active
-260294	middle
-260304	passive
-260312	active
-260314	active
-260319	active
-260325	active
-260327	active
-260332	middle
-260335	active
-260339	passive
-260347	active
-260356	active
-260360	active
-260371	active
-260376	active
-260385	active
-260398	active
-260403	active
-260412	active
-260433	passive
-active
-260437	active
-260440	active
-260445	middle
-260451	middlepassive
-active
-260456	passive
-260466	active
-260471	active
-260482	passive
-260484	active
-260486	active
-260490	active
-260500	active
-260512	middle
-260522	active
-260527	middle
-260536	active
-260538	active
-260544	active
-260546	active
-260548	middle
-260551	middle
-260554	active
-260557	middle
-260562	middlepassive
-260564	active
-260569	active
-260580	passive
-260587	active
-260594	active
-active
-260597	active
-260621	active
-260625	active
-260627	active
-260629	active
-260631	active
-active
-260641	active
-260649	middle
-260664	active
-260667	active
-260670	middle
-260675	passive
-260684	middle
-260689	active
-260698	active
+260066	passive
+260068	active
+260072	active
+260076	active
 passive
-260706	active
-260712	active
-260715	active
+260084	active
+260086	active
+260096	active
+260100	passive
+260108	middle
+260114	passive
+passive
+260121	middlepassive
+260124	passive
+260127	active
+260130	active
+260136	active
+260144	active
+260148	active
+260153	middle
+260159	active
+260164	passive
+260177	middlepassive
+260179	active
+260186	active
+260192	active
+260208	active
+260210	active
+260214	passive
+260223	active
+260232	passive
 active
-260731	active
-260741	active
-260745	active
-260756	passive
-260758	active
+260237	active
+260242	active
+260246	active
+260249	middlepassive
+middlepassive
+260254	active
+260256	active
+260262	active
+260264	passive
+260270	middle
+260273	active
+260284	active
+260290	active
+260293	active
+260297	active
+260299	active
+260311	passive
+260315	passive
+260317	active
+260319	active
+260334	active
+260340	active
+260343	passive
+260346	active
+260349	active
+260353	active
+260356	active
+260358	active
 active
-260764	middle
-260767	passive
-260770	active
-260778	passive
-260792	middle
+260365	active
+260368	passive
+260370	active
+active
+260373	active
+260375	active
+active
+260380	passive
+260387	active
+260392	active
+260396	passive
+260401	active
+260405	passive
+middlepassive
+260409	active
+middle
+260412	middlepassive
+active
+260416	active
+260429	active
+260433	middle
+260437	active
+260444	active
+260449	active
+260451	active
+260457	middle
+260463	active
+260465	active
+260473	active
+260476	middle
+260481	middle
+260486	active
+260494	active
+active
+260499	active
+260506	middle
+260513	passive
+260516	active
+260518	active
+260522	passive
+260524	active
+260526	active
+260537	passive
+260549	passive
+260556	passive
+260559	active
+260565	passive
+260571	active
+260576	active
+260585	active
+260589	active
+260591	active
+260596	passive
+260602	active
+260605	active
+260616	active
+260623	active
+260628	passive
+260635	active
+260641	active
+260645	passive
+260647	middlepassive
+260649	active
+active
+260660	middlepassive
+260662	middle
+260666	middle
+260674	active
+260686	active
+260691	middle
+260699	active
+passive
+active
+260714	active
+260717	active
+260723	active
+260725	active
+260730	active
+260733	middle
+260743	active
+passive
+260752	passive
+middle
+260761	active
+260763	active
+middle
+260769	passive
+passive
+260778	active
 260794	active
 active
-260815	passive
-260825	active
-260828	active
-260832	passive
-260845	active
-260854	active
-260864	middle
-260866	active
-260870	active
-260873	active
-260875	active
-260879	active
-260896	active
-260900	passive
-260907	middle
-260911	active
-260920	active
-260928	active
-260940	active
-260944	active
-260952	middle
-260958	active
-260970	active
-active
-260977	passive
-260993	active
-261001	active
-261007	middle
-261009	active
-261018	passive
-261020	active
-261029	active
-261034	active
-261047	passive
-261054	active
-261059	active
-261062	active
-active
-261067	middle
-261075	passive
-261082	active
-261086	active
-261104	active
-261112	active
-261122	active
-261131	active
-middle
-261141	middle
-261150	middle
-261152	active
-261159	active
-261163	active
-261172	active
-active
-261194	active
-261202	active
-261212	active
-261221	active
-261225	active
-261229	middle
-active
-261234	active
-261243	active
-middle
-261248	active
-261254	active
-261256	middlepassive
-261262	active
-261272	passive
-261281	active
-261283	middlepassive
-261299	active
-active
-261311	active
-261315	passive
-261321	passive
-261332	active
-261337	middle
-261341	active
-261344	active
-261350	active
-261359	active
-261361	active
-active
-261367	active
-261378	active
-261386	middle
-261388	middle
-261394	active
-261398	active
-261400	middle
-261407	active
-261410	active
-active
-261414	active
-261417	active
-261419	middlepassive
-261425	active
-261428	active
-active
-261436	active
-261447	active
-261455	passive
-261458	active
-active
-261465	active
-261479	middle
-active
-261482	active
-261485	active
-261495	middle
-261516	active
-261518	active
-261534	passive
-261538	active
-261540	passive
-261542	middlepassive
-active
-261553	active
-261556	active
-261560	active
-261574	active
-261578	active
-261580	active
-active
-261595	active
+260801	middle
+260814	active
+260819	passive
+260825	middlepassive
+260836	passive
+260846	active
+260855	passive
+260863	active
+260867	middlepassive
+260874	active
+260877	active
+260892	passive
+260895	middlepassive
+260898	active
+260906	passive
+260909	active
+260912	passive
+260914	middlepassive
+260918	active
+260922	active
+260932	active
+260936	middlepassive
 middlepassive
-261599	middlepassive
-261601	active
-261604	active
-261608	active
-261614	active
 active
-active
-261618	active
-261621	active
-active
-261628	active
-middle
-261636	active
-261642	active
-261644	active
-261652	active
+260940	middle
 passive
-261659	middle
-261662	active
-261678	middle
-261681	active
+260944	active
+260947	active
+260949	passive
+260958	active
+260961	middlepassive
+260964	active
+260967	active
+260970	middle
+260975	active
+260977	active
+middle
+active
+260982	passive
+260984	active
+260989	active
+260998	passive
+261000	active
+middle
+active
+active
+261006	active
+261010	active
+261023	active
+261025	active
+261030	active
+261033	middlepassive
+active
+261040	active
+261043	active
+261048	middlepassive
+261050	passive
+261058	active
+261061	passive
+active
+261071	active
+261075	middle
+261080	active
+261082	active
+261090	active
+261099	passive
+261107	active
+261119	active
+261123	active
+261127	active
+261136	middlepassive
+261141	passive
+261146	passive
+261149	active
+261156	middle
+261158	active
+261164	active
+261171	active
+261175	active
+active
+261180	active
+261183	active
+261189	passive
+261198	active
+active
+261201	active
+261208	active
+261210	active
+261212	passive
+261216	active
+261222	middle
+261224	passive
+261229	active
+active
+261232	active
+261236	active
+261239	active
+261244	active
+261248	active
+middle
+261254	passive
+261257	active
+261262	passive
+261267	passive
+passive
+261272	active
+261278	active
+261280	middle
+active
+active
+261286	active
+261288	active
+261293	active
+261297	active
+261302	active
+middle
+261308	middlepassive
+active
+261312	active
+261317	middle
+261320	middle
+261322	active
+261328	active
+261335	active
+261339	passive
+261343	passive
+261346	passive
+261349	active
+passive
+261356	middlepassive
+passive
+active
+261364	active
+261367	passive
+active
+261370	active
+261377	active
+261379	active
+261382	passive
+261384	active
+261388	passive
+261390	active
+261396	passive
+active
+261402	active
+active
+261405	active
+middlepassive
+261409	active
+261411	active
+261414	middlepassive
+261416	passive
+261420	passive
+passive
+active
+261429	active
+261436	middle
+261438	passive
+261440	active
+active
+261444	active
+active
+261448	active
+261450	middlepassive
+261452	middlepassive
+261454	active
+261461	active
+261469	middlepassive
+261474	active
+261484	active
+261490	middle
+middle
+261495	passive
+261498	passive
+261514	active
+261516	middle
+261523	active
+261526	active
+261531	active
+active
+261535	active
+261539	active
+261541	active
+active
+261544	active
+261547	middle
+261549	active
+261553	middlepassive
+261557	passive
+active
+261563	active
+261566	passive
+261569	active
+261571	middle
+261573	passive
+261576	passive
+261579	middle
+261583	active
+261589	middle
+261593	active
+active
+261601	active
+261605	active
+261607	active
+261615	active
+261621	active
+261626	middle
+261629	passive
+passive
+261636	active
+261641	passive
+261648	middle
+middle
+passive
+261654	middle
+middlepassive
+261661	active
+261664	middle
+261670	active
+261675	active
+261678	passive
 261685	active
 active
-261690	active
+261688	active
+261696	active
+261698	active
+261701	active
+261709	active
+261711	passive
+261715	active
 passive
-261693	active
-261702	active
-261704	active
-261706	active
-261712	active
-261717	active
-261730	middle
-261735	passive
-261753	middle
-261757	active
-261763	active
-261771	active
+261722	middle
+active
+middle
+261730	active
+active
+261734	middlepassive
+261743	middle
+261745	middle
+261747	active
+261749	active
+261751	active
+261753	active
+261755	passive
+261757	passive
+261761	active
+active
+261769	passive
+261771	middle
+261775	active
 261780	active
+261784	passive
+passive
+passive
 261789	active
-261797	middle
+active
+261794	passive
+passive
+passive
 261799	active
-261808	active
-261810	passive
-261815	active
-261819	active
-261823	active
-261826	passive
-261828	active
-261838	active
-261850	passive
+261803	passive
+261812	passive
+261816	middle
+261821	middle
+261825	passive
+261829	active
+261831	middlepassive
+261835	middle
+261840	active
+261843	middlepassive
+261845	active
+261855	middlepassive
+261857	active
+261860	active
 261867	active
-261874	active
-active
-261883	active
-261897	middlepassive
-261900	active
-261902	middle
-261904	active
+middle
+261871	active
+261879	active
+261882	passive
+261885	active
+261888	middlepassive
+261890	passive
+261896	middlepassive
+261899	active
+261902	passive
+261904	passive
+261907	active
 261909	active
-261913	passive
-261921	active
-261927	active
-261932	middle
-261936	active
-261953	active
-261959	active
+active
+261914	middlepassive
+261916	active
+261920	passive
+261926	active
+261931	active
+261933	active
+261938	active
+261945	active
+261948	passive
+261951	passive
+261956	active
+261963	active
+261965	active
 261969	active
+261971	active
+261978	active
+active
 261981	active
-261993	middle
-261997	active
+261989	passive
 active
-262006	middle
-262015	passive
-262021	active
+261994	passive
+261998	passive
 active
-262038	passive
-262042	active
-262046	active
-262066	middle
-active
-262080	middle
-262088	middle
-262091	active
-262100	active
-262108	active
-active
-262112	active
-262117	active
-active
+262002	active
+262008	passive
 passive
-262129	passive
-262141	active
-262151	active
-262155	active
-262161	active
-262167	middle
-262176	active
-262189	active
-262204	active
-262211	active
-262217	active
-262230	active
+262012	active
+262018	middle
+262020	active
+262023	active
+262032	active
 active
-262235	active
-262239	active
-262244	middlepassive
-262248	active
-262259	middle
-262269	active
-262287	active
+262036	passive
+262047	middle
+262050	active
+262055	active
+active
+262058	passive
+262062	active
+262065	active
+262069	active
+passive
+262073	passive
+262082	active
+middle
+262085	passive
+262089	active
+262091	passive
+262093	active
+262095	passive
+262099	active
+passive
+262102	active
+active
+262106	active
+262110	active
+262117	passive
+262124	passive
+262132	active
+262135	active
+262137	middle
+active
+262143	active
+262145	middle
+active
+262150	middle
+262154	active
+262158	middlepassive
+active
+262162	active
+262171	active
+262174	passive
+262177	passive
+262179	active
+262181	passive
+262184	active
+active
+262187	active
+262197	active
+262199	active
+262202	middlepassive
+262205	active
+262207	active
+262209	middlepassive
+262212	passive
+passive
+262216	active
+262226	active
+262230	passive
+active
+262234	active
+262237	active
+262241	active
+262243	active
+262245	active
+262250	passive
+262252	active
+262255	active
+262258	middlepassive
+262260	active
+262266	active
+262270	middlepassive
+262280	passive
+262284	passive
+262289	passive
+active
+active
+262293	active
+262295	active
 262298	active
-262306	active
-262316	active
-262333	active
-262341	middle
-262344	active
-262366	active
+262302	passive
+262311	passive
+262317	active
+262324	active
+262326	middlepassive
+262332	active
+262334	active
+262337	active
+262339	active
+active
+262343	active
+262348	active
+262351	active
+262358	middlepassive
+262361	passive
+262363	middle
+262366	middlepassive
 262368	active
-262378	active
-active
-active
-262397	active
-262418	active
-262424	active
-262447	active
-262452	active
-262455	active
-active
+262371	active
+262377	active
+262381	active
+262384	active
+262389	middlepassive
+262391	passive
+262395	active
+262398	active
+passive
+262402	active
+262404	active
+262407	passive
+262413	active
+262425	active
+262430	active
+262433	active
+262445	active
+262449	middlepassive
+262456	active
 262458	active
-262461	middle
-middlepassive
-262468	active
-262477	active
-262492	middlepassive
-262506	passive
+262461	passive
+262465	middlepassive
+middle
+262468	middle
+262472	middlepassive
+262476	middlepassive
+262491	active
+262493	middle
+262497	active
+active
+262504	middlepassive
 262509	active
+262511	active
+262514	passive
+262518	passive
 262520	active
-262535	passive
+262524	active
+262529	active
+262531	passive
+262533	active
+262537	middle
+262539	middle
 active
+262543	passive
+262545	passive
+262548	middlepassive
+262552	middle
+262562	middlepassive
+262578	middle
 active
-262544	active
-middle
-262547	passive
-262551	active
-262558	passive
-active
-262565	active
-262573	active
-262579	passive
-262586	active
-262598	active
+262585	active
+262590	active
+262596	middle
+262603	passive
+262606	active
 262610	middle
-262620	middle
-262626	active
-262632	active
-262643	passive
-262650	active
-262654	active
-262658	active
-262664	active
-active
-262670	active
-262672	active
-262688	active
-262690	active
-262696	active
-262704	active
-262712	passive
-262714	passive
-262723	active
-262730	active
-262732	active
-262736	active
-262748	passive
-262755	passive
-262761	passive
-262768	active
-passive
-active
-262773	active
-262775	passive
-262781	active
-262786	active
-262788	passive
-262791	middlepassive
-262805	active
-262808	middlepassive
-262810	active
-262813	active
-262821	passive
-262828	passive
-262833	active
-262843	middlepassive
-262853	active
-262855	active
-262857	active
-262869	middlepassive
-262878	passive
-active
-262887	active
-262895	passive
-262898	active
-262903	passive
-active
 middle
-262914	active
-262916	active
-262919	passive
-262928	middlepassive
-262934	active
-262941	middle
-passive
-262950	middlepassive
-262955	active
-262963	active
-262975	active
-262980	active
-262982	active
-262991	active
-262994	active
-passive
-263001	passive
-263021	active
-263025	middlepassive
-263040	active
-263050	active
-263061	middle
-263072	active
-263080	passive
-263086	middle
-263096	active
-263108	active
-263111	active
-263124	active
-263126	active
-263128	active
-263146	active
+262616	middle
+active
+262620	passive
+active
+262624	passive
+262628	active
+262630	active
+262636	passive
+262643	active
+active
+262648	passive
+active
+262652	passive
+262661	active
+active
+262669	active
+262672	passive
+active
+262677	active
+262683	active
+262686	active
+262691	active
+262694	active
+262701	middlepassive
+262703	middle
+262708	middle
+262711	middlepassive
+active
+262715	middlepassive
+262722	middlepassive
+262728	active
+262733	active
+262735	active
+262741	active
+262745	active
+262748	middle
+262750	active
+262752	active
+262758	active
+262760	middle
+262768	middle
+262771	active
+262773	active
+active
+262777	active
+262788	active
 middlepassive
-263154	active
-263166	active
-263170	middlepassive
-263178	passive
+262796	active
+262802	active
+262811	active
+262818	active
+262824	active
+262827	active
+262832	active
+262834	middlepassive
+262839	active
+262841	active
+262844	middlepassive
+262848	passive
+262851	middle
+262854	active
+262858	middle
+262868	middle
+active
+262873	active
+262876	active
+262880	active
+262884	active
+262887	passive
+262892	active
+262895	active
+262901	active
+262904	active
+262906	middlepassive
+passive
+262916	active
+active
+262920	active
+262923	active
+262925	active
+active
+262929	active
+262933	active
+active
+262936	active
+262939	active
+262942	active
+262946	active
+passive
+262952	active
+262954	middlepassive
+262962	active
+262964	active
+262968	active
+middlepassive
+262971	active
+262976	active
+262978	passive
+262981	active
+262986	active
+262988	middlepassive
+262990	passive
+262992	active
+263005	active
+263008	active
+263011	active
+263015	active
+263018	active
+active
+263027	active
+263033	active
+263036	active
+263039	active
+263042	active
+263044	active
+active
+263047	active
+263055	active
+263059	passive
+active
+263065	active
+263068	active
+263075	passive
+263077	passive
+263079	active
+active
+263085	passive
+263090	passive
+active
+263094	passive
+263106	passive
+middle
+263111	active
+263117	active
+263123	active
+263127	middlepassive
+263129	active
+263132	middle
+263135	active
+263141	active
+263145	active
+263156	active
+263158	passive
+263165	active
+middle
+263170	active
+263174	passive
+passive
+263181	active
+middlepassive
+263187	active
 263190	active
-263205	middle
-263222	active
-263224	active
-263226	active
-active
-263246	middle
-active
-263259	middlepassive
+middle
+263194	active
+263202	passive
+263206	active
+263210	active
+263215	passive
+263232	active
+middlepassive
+263237	active
+263242	middlepassive
+263246	active
+263250	middlepassive
+263253	active
+263257	middlepassive
+263262	active
+263266	middlepassive
 263270	active
-263272	active
-263276	active
-263278	active
+263277	active
 263281	active
-263283	active
-263286	passive
+263292	active
+263297	middlepassive
+263299	middlepassive
+263302	active
+263306	middlepassive
+263321	active
+263329	passive
 active
-263291	active
-263301	middle
-263303	active
-263308	active
-263310	active
-263312	active
-263319	active
-263323	passive
-263325	active
-263329	active
-263342	active
-263345	middlepassive
-263358	active
-263372	active
-263378	active
+263342	middle
+263346	active
+263349	active
 active
+263352	active
+263355	middlepassive
 active
-263388	active
-263394	active
-263400	active
-263402	active
+middlepassive
+263359	active
+263361	active
+263364	middle
+263366	active
+263369	active
+263372	middle
+263377	active
+263379	active
+263386	active
+263389	passive
+263391	active
+263395	passive
+263397	active
+263401	active
+263403	active
 263406	active
-263413	active
-263416	middle
-263425	active
-263430	active
+263410	active
+263412	active
+263415	middle
+263418	active
+263420	passive
+263423	active
+263427	middle
+263429	active
 263432	active
-263458	middlepassive
-263460	active
-263466	middlepassive
+263434	active
+263438	active
+263441	active
+263443	active
+263445	active
+263449	passive
+263453	passive
+263456	active
+263459	active
+263462	active
+263465	active
+263468	active
+263471	active
 263476	active
 active
 263481	active
-263486	active
-263497	active
-263499	active
-263505	active
-263507	active
-263516	active
+263483	middlepassive
+263488	active
+active
+263491	active
+263493	active
+263495	middle
+263500	active
+263504	middle
+263506	active
+263509	middlepassive
+263515	active
+263517	middlepassive
+263519	passive
 263521	active
 263525	active
-263531	active
-263533	active
-active
+263527	active
+263529	active
+263533	middlepassive
 263540	active
 active
-263551	active
-263560	middle
-263568	active
-263570	active
-263584	active
+263544	active
+263547	active
+263550	active
+active
+263554	active
+active
+263559	middlepassive
+263562	active
+263567	active
+263572	passive
+263578	middle
+263580	middle
+263585	active
+263588	middle
 263592	active
-active
-263604	active
+263595	passive
+263597	active
+263601	active
 263606	active
-263616	active
-263623	middle
-263627	middle
+active
+263611	active
+active
+263619	middle
+263621	active
+263628	middle
+263630	middlepassive
 263635	active
-263637	active
-263641	active
-263648	active
-263655	active
-263660	active
-263666	active
-passive
-263681	active
+263638	active
+263640	active
+263642	active
+263649	active
+263651	active
+263656	passive
 middle
-263685	active
-263689	active
+263661	active
+263663	active
+263670	active
+263674	middle
+active
+active
+263679	active
+263683	active
+active
 263691	active
-263700	active
-263707	active
-263721	active
-263727	active
-263734	passive
-263742	middlepassive
-passive
-middle
-263763	active
+263699	active
+263710	active
 active
-263796	passive
-263802	middlepassive
-263809	middlepassive
-263818	active
-263827	middle
-263832	passive
+263714	middlepassive
+active
+263717	active
+active
+263721	middle
+263726	middle
+263728	active
+263738	active
+active
+263741	active
+263747	passive
+263749	middle
+263754	middlepassive
+263757	passive
+263759	active
+263761	middle
+263764	active
+263768	middle
+263770	active
+263773	active
+263781	middle
+263785	active
+263788	active
+263795	passive
+263799	active
+263802	active
+263804	active
+263809	active
+263813	active
+263831	passive
+263842	active
 263846	active
-263852	active
-263856	active
-263871	active
-active
-263874	active
-active
-263877	active
-263879	active
-263885	passive
-263894	active
-263906	middle
-active
-263909	active
-263916	middlepassive
-263926	middle
-263937	active
-263949	active
-263955	active
-263957	active
-263971	active
-263981	active
-263990	active
-263994	active
-264014	active
-active
-264027	active
+263856	passive
+263861	passive
+263865	passive
+263869	middlepassive
+263873	active
 passive
-264035	active
-264043	active
-264047	middlepassive
-264049	active
-264068	active
-264070	middle
+263884	middle
+263887	passive
+passive
+263896	active
+active
+263901	active
+active
+263904	middlepassive
+263907	passive
+middle
+263920	active
+active
+263925	active
+263930	middlepassive
+263939	passive
+263942	active
+263945	passive
+263948	middle
+263953	passive
+263956	active
+263958	active
+263960	middle
+263965	active
+263967	active
+263971	passive
+263977	middlepassive
+263988	active
+263994	passive
+263996	passive
+263998	middle
+264005	middle
+264007	active
+264016	passive
+active
+264021	passive
+264033	passive
+264037	passive
+264048	active
+264054	active
+264059	active
+264063	active
 264072	active
-264075	active
-264078	middle
-264084	middle
+264074	passive
+264081	active
+264083	active
+264094	passive
+264098	active
+264102	active
+264107	active
+264109	passive
+264111	middle
+264126	active
+264129	passive
+264132	middle
+264137	middlepassive
+264140	active
+264143	passive
+264151	active
+passive
+264156	active
+264162	active
+264164	middle
 active
-264097	active
-264106	passive
-264110	active
-264112	active
-264119	active
-264123	passive
-264125	active
-264127	active
-264131	active
-264152	passive
-264161	active
-264164	active
-264173	active
-264175	active
-264184	active
-264191	active
-264194	middle
-264223	active
-264225	active
-264236	passive
-264238	active
-264253	middle
-264258	active
-264271	passive
-264277	middlepassive
-264283	active
-264315	active
-264317	active
-264324	active
+264171	active
+264174	passive
+264177	active
+active
+264181	active
+active
+264184	passive
+264192	active
+264194	active
+264197	passive
+264208	active
+264211	active
+264225	passive
+264228	passive
+264230	active
+264234	middle
+264238	middle
+264245	active
+264250	active
+264257	active
+active
+264262	passive
+264271	active
+264275	passive
+264282	active
+264286	active
+active
+264297	active
+264304	active
+264306	active
+264308	middlepassive
+264310	active
+264312	passive
 264327	active
-264335	middle
+264330	active
+264336	active
+264340	active
+264346	passive
+264349	active
+264352	active
+264355	active
+264361	active
+264363	passive
+264369	passive
+264371	active
 active
-264338	middle
-264340	middle
-264342	active
-264358	active
+264374	active
+active
 264377	active
-264389	active
-264393	active
-264408	middle
-264418	middle
-264429	active
-264432	active
-passive
-264437	passive
+264382	active
+264390	middle
+264392	active
+264395	passive
 active
-264443	active
-264447	active
-264451	active
-264453	passive
-264467	active
-264473	active
-264478	active
+264401	passive
+264403	passive
+264413	passive
+264419	active
+264426	passive
 active
-264482	passive
+264434	active
+264456	active
+264466	active
+264468	active
+264470	passive
+264475	active
+264479	active
+264481	passive
+active
+264485	middlepassive
+264489	active
 264494	active
-264500	active
-264504	active
-264506	middle
-264527	active
-264532	active
-264534	middle
-264546	active
-264555	active
-264558	middlepassive
-active
-264566	passive
-264570	active
+264502	passive
+264508	active
+264516	active
+264519	passive
+264522	active
+264524	active
+264526	active
+264528	active
+264530	active
+264536	active
+264538	active
+264542	active
+264544	active
+264547	active
+264559	active
+264563	active
+264568	middle
 264572	active
-264581	active
-264589	active
-264591	middle
-264595	passive
-264604	active
-264608	active
-264614	middle
-264616	active
+264579	passive
+264581	passive
+264584	active
+264592	active
+264603	active
+264607	passive
 passive
-264630	middlepassive
-264637	active
-264641	active
-264652	middle
-264657	active
-264672	passive
-264685	active
-264692	active
-264694	active
 active
-264703	active
-264711	active
-264721	active
-264724	middlepassive
-264728	active
-264730	active
-264735	passive
-264753	passive
-264758	active
-264765	active
-264774	passive
-264782	active
-264791	active
-264798	active
-264804	passive
-264807	active
-264814	active
-264819	active
-264831	passive
-264837	active
-active
-264840	active
-264843	active
-active
-264848	active
-264855	active
-264857	active
-active
-264862	active
-264864	middlepassive
-264869	middle
-264871	passive
-264876	active
-264882	active
-264893	active
-264905	active
-264914	active
-264926	active
-264936	active
-264938	active
-264940	active
-active
-264945	active
-264959	middlepassive
-264963	active
-264969	active
-264973	active
-264975	passive
-264981	passive
-264988	active
-active
-264991	active
-264997	active
-active
-265006	active
-265008	middle
-265010	middle
-265012	middlepassive
-265023	active
-265026	active
-265032	active
-265038	middlepassive
-265040	active
-265046	active
-active
-265061	active
-265063	active
-265070	active
-265076	passive
-265080	active
-265084	active
-active
-265093	active
-265098	active
-265104	active
-265112	active
-265122	middle
-265130	active
-265142	active
-265147	active
-265153	active
-265160	active
-265162	active
-265166	active
-265168	middlepassive
-265170	active
-265172	active
-265174	active
-265185	active
-265191	active
-active
-265196	active
-265199	active
-265203	active
-265208	active
-265214	active
-active
-265229	middle
-265245	middlepassive
-active
-265250	middlepassive
-265260	middle
-265263	passive
-265271	passive
-265285	passive
-265288	middle
-265293	active
-passive
-265302	middle
-265306	active
-265308	active
+264617	active
+264619	active
+264623	active
+264625	active
+264630	active
+264635	active
+264637	passive
+264640	passive
+264648	passive
 active
 active
-265314	active
-265320	active
-265323	active
-265328	active
-265330	active
-265333	active
-265336	middle
-active
-265344	active
-265347	active
-265351	active
-active
-265354	passive
-265357	active
-active
-265366	passive
-265375	active
-265398	active
-265411	active
-265418	passive
-265427	active
-265435	active
-265438	middle
-265440	active
-265446	middle
-active
-265454	active
-active
-265461	active
-265477	active
-265482	passive
-265485	active
+264653	middlepassive
+264659	passive
+264662	active
+264664	passive
+264669	active
+264680	active
+264683	passive
+264685	passive
+264691	active
+264696	middle
+264698	active
+264700	passive
+264710	active
+264715	active
+264719	middlepassive
 middlepassive
-265494	active
-265498	active
-265505	active
+264725	passive
+264727	active
+264734	active
+264736	active
+264739	active
 active
-265514	active
-265518	active
-265521	active
 active
-265535	passive
+264746	passive
+264748	passive
+264752	active
+264759	active
+264768	active
+264771	active
+264778	active
+264782	active
+264790	active
+264795	active
+264799	active
+264803	passive
+264807	active
+264817	passive
+264823	middlepassive
+264827	active
+264830	active
+264834	active
+264842	passive
+middlepassive
+264845	passive
+264857	middle
+264861	active
+264873	passive
+active
+264882	middle
+264895	active
+264903	passive
+264907	middle
+264910	active
+264916	passive
+264923	active
+264934	active
+passive
+active
+264948	active
+264952	middlepassive
+264955	passive
+264957	middle
+264964	passive
+264970	middle
+264974	middle
+264977	active
+264979	passive
+264988	active
+264993	active
+264997	active
+264999	active
+active
+265005	middlepassive
+active
+active
+265009	active
+265011	active
+265014	active
+265023	passive
+265028	active
+265036	active
+265038	active
+active
+active
+active
+265054	middlepassive
+265056	active
+active
+265059	active
+265061	active
+265066	active
+middlepassive
+265075	middle
+265087	active
+265094	passive
+265110	passive
+265114	active
+265123	passive
+265126	middle
+265129	active
+265140	active
+active
+265175	active
+265184	active
+265187	active
+active
+265190	active
+265199	active
+265204	middle
+265207	active
+265209	active
+265214	passive
+265226	active
+265229	active
+265236	active
+265239	middlepassive
+265242	active
+265246	active
+265249	active
+265252	active
+265261	active
+265263	active
+265266	active
+265273	middle
+265276	passive
+active
+active
+265287	passive
+265290	active
+265295	passive
+265305	active
+265308	active
+265313	active
+265315	passive
+265317	active
+265322	active
+265328	active
+active
+265332	middlepassive
+265338	active
+265341	active
+265347	active
+265352	middlepassive
+265355	passive
+265361	passive
+active
+265365	middle
+265373	middle
+265375	active
+265380	active
+265382	middlepassive
+active
+265388	active
+265395	passive
+265400	middle
+265405	active
+265410	active
+265415	active
+265417	middle
+265420	active
+active
+265423	passive
+265427	middle
+265430	active
+265433	active
+265437	active
+265439	active
+265441	active
+active
+active
+265446	passive
+265453	middlepassive
+265457	active
+265463	active
+active
+265468	middlepassive
+265473	passive
+active
+265480	middlepassive
+265483	active
+265487	active
+active
+265493	active
+265495	active
+265505	passive
+265511	active
+active
+265517	passive
+passive
+265521	middlepassive
+265526	active
+265530	middlepassive
+265533	active
 265537	active
-265540	active
+265540	passive
 265542	active
-active
-265546	active
-active
+265544	active
+265546	passive
 active
 265554	active
-265561	active
+265557	active
+265562	middlepassive
+active
 265568	active
+265573	passive
+265578	passive
+265581	middle
 active
-265574	active
+265586	active
+265588	passive
+265591	middlepassive
+265594	active
+265599	middlepassive
+265601	passive
+265604	active
+265615	passive
+middlepassive
 active
-265584	active
-265589	active
-265599	active
-265603	active
-265613	middle
-265620	active
-265622	middle
+265624	active
 265627	active
+265632	active
 active
-265630	active
-265637	active
+265637	passive
+265640	active
 265646	active
-265654	passive
-265656	passive
-265669	middlepassive
+265652	middle
+265660	active
+265662	active
+265667	passive
+265670	passive
 265684	active
-265690	middle
-265701	active
-active
-265707	active
-265713	active
-265715	active
-265722	active
-265725	active
-265736	active
-265742	active
-265746	active
-265748	middlepassive
-265761	active
-265765	active
-active
-265768	active
+middle
+265695	middlepassive
+265697	active
+265699	active
+265708	passive
+265711	active
+265714	active
+265718	active
+265720	active
+265727	active
+265735	passive
+middle
+265746	passive
+265756	active
+265769	active
+265775	middlepassive
 265777	active
-265780	active
-265793	active
-265803	active
-265816	middle
-265826	active
-265829	active
-265837	middle
-265851	active
-265856	active
+265779	middlepassive
+265781	middle
+265785	active
+active
+265794	middle
+265797	passive
+passive
+265804	passive
+265807	passive
+265809	active
+active
+265823	passive
+passive
+265827	passive
+passive
+265836	active
+265839	active
+265843	active
+active
+265847	passive
+265855	middlepassive
+265864	passive
 265866	active
-265885	active
-265903	passive
-265916	active
-265918	active
-265920	active
-265930	active
-265934	middlepassive
-265942	active
-265955	active
+265872	active
+265876	active
+265881	active
+265893	active
+middle
+265900	passive
+active
+265904	active
+265919	active
+265922	active
+265924	active
+265928	middle
+265932	active
+265939	passive
+265941	active
+265943	active
+265945	active
+265951	active
+265955	passive
 265959	active
 265964	active
-265980	active
-265984	active
-265991	middlepassive
-265996	passive
-266005	active
+265979	active
+265986	active
+265990	active
+265993	active
+265997	active
+266002	active
+266004	active
 266007	active
-266011	middlepassive
-266024	middlepassive
-266039	active
+266012	active
+middlepassive
+266016	active
+266022	active
+266025	active
+266029	active
+266036	active
+266041	active
+266045	active
+266047	active
 266051	active
-266055	active
-266058	active
+266054	active
+266057	active
+266060	active
 266064	active
-266071	active
-266073	active
-266082	middle
-middle
+266069	active
+266072	active
+266074	active
+266080	active
+266084	active
+266088	active
 266092	active
 active
-middlepassive
-active
-266108	passive
-266111	active
+266099	active
 266114	active
-266122	middlepassive
+266116	active
+266121	active
+active
 266124	active
-266126	active
-266128	active
+266130	active
+266132	active
 266137	active
-266144	active
-266146	active
-266149	active
-266153	passive
-266165	active
+266140	active
+266148	passive
+266150	active
+266153	active
+active
+266156	active
+active
+266160	active
+266163	active
+266166	active
+266171	active
 266176	active
-middlepassive
-266180	active
-266186	active
-266193	passive
-266199	active
+266179	active
+266182	active
+266185	active
+266192	middle
+266198	active
 active
-266203	active
+266202	active
+266206	active
 266209	active
-266226	active
-266234	active
-266241	passive
-middlepassive
-266245	active
-266254	active
+266211	active
+266216	active
+266221	active
+266223	active
+266228	active
+266232	active
+266235	active
+266237	active
+266240	active
+266243	active
+266247	passive
+266253	active
+266257	active
+266260	active
 266264	active
-266274	active
-266276	passive
-266288	active
+266266	active
+266270	active
+266272	active
+266276	active
+266279	active
+266284	active
+266290	active
+266292	active
 266295	active
-266298	active
-266311	active
-266316	active
-266318	passive
-266320	active
+266303	active
+266306	active
+266327	active
 266333	active
-266340	active
-266344	active
-266349	active
-active
+266336	middle
+266341	active
+266345	active
+266350	active
+266353	active
+266356	middlepassive
+266359	active
+266361	active
+266364	active
 266366	active
-266377	active
-266384	active
-266391	active
-266393	active
-266398	active
+266369	active
+266374	active
 active
+266379	passive
+266382	active
+266388	active
+266392	active
+266394	active
+266398	active
+266402	active
 266410	active
 266412	active
-266414	active
-266419	active
-266426	active
-266429	active
-middle
+266416	middlepassive
+266420	active
+266423	active
+266425	middlepassive
+266430	middlepassive
+266434	active
+active
+266439	active
 266442	active
-266452	passive
-266454	active
-266477	passive
-266483	active
-266488	active
-266502	active
-266517	active
+266445	active
+266448	active
+266451	active
+266458	active
+266461	active
+266465	middle
+266471	active
+266474	active
+266480	active
+266482	active
+266487	active
+266490	active
+266496	active
+266501	active
+266504	active
+266508	active
+266510	active
+266515	active
 266519	passive
+active
+266524	passive
 266530	active
-266537	active
+266533	active
 active
-266543	middlepassive
+266538	active
+266541	passive
 active
-266550	middlepassive
-266562	active
-266569	active
-266583	passive
-266590	middlepassive
-266594	active
-266599	middle
-266603	active
-middle
-266608	active
-266636	middle
-266638	active
-266640	active
-266651	middlepassive
-266661	active
+266544	active
+266549	passive
+266551	active
+266555	active
+266559	active
+266564	active
+266567	passive
+266569	middle
 active
+266573	passive
+266576	middle
+266578	middle
+266581	active
+266584	active
+266588	active
+266593	active
+266595	active
+266599	active
+266602	active
+266605	active
+266608	passive
+266611	active
+266616	active
+266619	active
+266621	active
+266623	active
+266625	active
+266628	active
+266632	active
+266634	active
+266637	active
+266641	active
+active
+266646	active
+266650	active
+266652	passive
+266657	active
+266662	passive
+266667	active
 266671	active
-266690	active
+266674	middlepassive
 active
-266693	passive
+266679	passive
+266682	active
+266692	active
+266695	active
+266700	active
+266705	active
+266708	active
+266710	active
+266716	active
+266718	active
+266723	active
+266729	active
+266736	active
+266739	active
+266743	active
+266745	active
+266751	active
+266754	active
 active
-266709	middlepassive
-266711	active
-266714	active
-266717	active
-266723	middle
-266726	active
-266731	active
-266741	active
-266748	active
+266759	active
 266763	active
-266767	active
-266776	active
-266783	active
-266790	active
-266795	middlepassive
-266799	active
-266804	active
-266808	active
-266819	active
-266834	middle
-266840	active
-266853	middle
-266860	middlepassive
+266765	active
+266769	active
+266773	active
+266775	active
+266782	active
+266785	active
+266789	active
+266792	active
+266797	active
+266801	active
+266803	active
+266811	active
+266814	active
+266821	middle
+266825	active
+266828	active
+266833	active
+266838	active
+266843	active
+266849	active
+266851	active
+266856	active
 active
-266863	active
-266870	middle
-266877	active
-266890	active
-266896	active
-266903	middle
-active
-266917	middle
-266924	active
+266862	active
+266866	active
+266869	active
+266872	active
+266878	active
+266881	active
+266885	active
+266889	active
+266895	active
+266897	active
+266903	active
+266906	active
+266908	active
+266912	active
+266915	active
+266919	active
+266925	active
 266927	active
-266933	active
-266937	active
-266943	middle
+266930	active
+266935	active
+266940	active
+266943	active
 266947	active
-266955	active
-266957	active
-266959	middle
-266961	active
-266963	active
-266970	active
-passive
-266978	active
-266982	active
-266984	middle
+266949	middlepassive
+266954	active
+266959	active
+266962	active
+266966	active
+266976	active
+266980	active
+266984	active
 266988	active
-266993	active
-266997	active
-middlepassive
-267007	active
+active
+266991	active
+266995	active
+266999	active
+267002	active
+267011	active
+267017	active
+267020	active
+267023	passive
+267025	active
 267028	active
-267033	active
-267041	active
-passive
-267051	active
+267030	active
+267035	active
+267037	passive
+267047	active
+267052	active
 267055	active
-267057	active
-267066	middlepassive
-267075	middle
-middlepassive
-267082	active
-267088	middle
-267093	middle
-267101	middlepassive
-267104	active
-267110	middle
-267114	active
-267118	middle
-267121	middle
-middle
-267125	active
-267136	middlepassive
-267138	active
-267144	active
-267149	middle
-267157	active
-267162	active
-267168	active
+267058	active
+267062	active
+267065	active
+267076	active
+267079	active
+267081	active
+267085	middlepassive
+267087	active
+267091	active
+267098	active
+267101	active
+267109	active
+267116	active
+267121	active
+267124	active
+267130	active
+267140	active
+267145	active
+267147	active
+267152	active
+267156	active
+267158	passive
+267163	active
+267171	active
 267173	active
-267177	active
+267179	active
 267186	active
-active
+267191	active
+267193	middlepassive
+267195	passive
 267199	active
+267203	active
+267207	active
+267209	active
+267214	active
+267216	active
+267219	active
+267223	active
+267227	active
+267229	middlepassive
 active
-active
-267207	passive
-267210	active
-267218	active
-267222	active
-267229	active
-267233	middlepassive
+267234	active
+267236	active
 267238	active
-267240	active
+267243	active
 267246	active
-267248	passive
-267260	active
-267266	active
-267277	active
-267281	active
+267250	passive
+267253	active
 active
+active
+passive
+267259	active
+267261	active
+267267	active
+267271	active
+267274	active
+267280	active
+267286	active
+267289	passive
 267292	active
-267299	middlepassive
-267305	middlepassive
-267307	active
-267320	passive
-267322	active
+267296	active
+267298	active
+267303	active
 active
-267332	active
-267336	active
-267343	middlepassive
-267353	middle
+267308	active
+267311	active
+267316	active
+active
+267331	active
+active
+267335	active
+267339	active
+active
+267350	active
+267355	active
+267360	active
 267363	active
-267367	active
+267368	active
+267372	active
+267377	active
+267381	active
 267384	active
 267388	active
+267392	active
+267399	active
 267402	active
-passive
-267415	passive
-267430	middlepassive
+267411	active
 active
-267440	middlepassive
-267444	active
-267448	active
-267464	active
+267414	active
+267417	active
+267423	active
+267425	active
+267427	active
+267430	active
 active
-267472	active
-267474	active
-267487	active
-passive
-267497	active
-267502	active
-267507	middlepassive
-267511	active
-267513	middle
+267440	active
+267443	active
+267447	middle
+267451	active
+267455	active
+267457	active
+267460	middle
+active
+267463	active
+267466	active
+267470	active
+267473	active
+267477	active
+267479	active
+267481	active
+267484	active
+267489	active
+267491	active
+267494	active
+267496	active
+267500	active
+267503	passive
+267507	active
+267509	passive
+267512	active
+267517	middle
+267519	active
 267523	active
-267531	active
-267533	active
-267540	passive
+267529	middlepassive
 active
-267551	middle
-267560	active
-267565	active
-267573	passive
-267586	active
-middlepassive
-middle
-267590	active
-267603	active
-active
+267536	active
+267538	active
+267542	active
+267545	active
+267552	active
+267558	active
+267568	active
+267575	active
+267579	active
+267583	middle
+267586	middle
+267597	passive
+267600	active
+267604	active
 267608	active
 267613	active
-267620	active
+267618	active
+267622	active
+267625	active
+267629	active
+267631	active
 267637	active
 267639	active
-267642	passive
-267644	middle
-267653	active
-267659	middlepassive
-267663	active
-267668	middle
-267671	active
-267676	active
-active
-267687	active
-267693	active
-267700	middle
-267726	active
-267732	middle
-267742	active
-267753	active
-267755	middlepassive
-267769	active
-267771	active
-267773	active
-267792	active
-active
-267797	active
-267800	active
-267806	middlepassive
-267811	active
-267819	active
-267836	passive
-active
-267840	passive
-267856	middlepassive
-active
-267860	middle
-267863	active
-active
-267872	passive
-267879	active
-267887	active
-267897	middlepassive
-active
-267905	active
-267918	active
-267921	active
-267925	active
-267927	active
-267940	active
-267942	active
-267947	passive
-267953	active
-267957	active
-267964	active
-267966	active
-267975	active
-267979	active
+267642	active
+267645	active
+267649	active
 middlepassive
-267984	active
-267988	active
-267991	middle
-268003	active
-268010	active
-268018	active
+267653	active
+267657	active
+267660	active
+267662	middle
+267665	active
+267667	active
+267670	active
+267677	active
+active
+267686	active
+267689	middlepassive
+267695	active
+267697	active
+267701	active
+267704	active
+active
+267708	active
+active
+267715	active
+267717	active
+267719	passive
+267723	active
+middle
+267729	active
+267734	middlepassive
+267747	active
+267751	middlepassive
+267755	passive
+267758	passive
+267761	middlepassive
+267764	active
+267770	active
+267774	active
+active
+267780	active
+267783	active
+267785	middle
+267791	active
+267797	active
+active
+267804	active
+267806	active
+267811	active
+active
+267816	middlepassive
+267818	active
+267822	active
+267825	middlepassive
+267829	active
+active
+267834	active
+267836	active
+267840	passive
+267844	middlepassive
+267847	middlepassive
+active
+267852	active
+267854	middlepassive
+267858	active
+267861	active
+active
+267864	active
+267867	passive
+267875	active
+267877	active
+267882	active
+267884	active
+active
+267889	active
+267893	active
+active
+267898	active
+267902	active
+267905	middlepassive
+267908	middlepassive
+267917	passive
+267919	passive
+267923	passive
+267926	middle
+active
+267934	active
+active
+267937	active
+middlepassive
+267942	passive
+267944	passive
+267948	passive
+267956	active
+267963	middlepassive
+active
+267967	middlepassive
+active
+267976	active
+267979	active
+active
+267983	active
+267987	active
+267995	active
+268005	active
+268007	active
+268010	middlepassive
+268014	active
+268019	middlepassive
+268022	active
 268025	active
-268029	active
-268037	active
-268049	active
+268028	active
+268034	middle
+middlepassive
+268039	active
+268041	active
+268043	active
+active
 268052	active
 active
-268055	passive
-active
-268061	active
-active
-268072	active
-268090	active
-268096	passive
-268099	active
-active
+268060	middlepassive
+268062	passive
+268069	passive
+268075	passive
+268080	middle
+268082	active
+268088	middlepassive
+268091	active
+268095	passive
+268101	active
+passive
 268106	active
 268114	passive
-268117	active
-passive
-268128	active
-268133	middle
 active
-268145	active
-active
-268154	middle
-268158	middle
-268166	active
+268120	active
 middle
 active
+268127	active
+268131	active
+268140	active
+268146	active
+268150	active
+268156	middlepassive
+268160	active
+268162	active
+268168	passive
+268170	passive
+268177	active
+268182	middle
+268188	middlepassive
+268191	active
+active
+268195	active
+268199	active
+268206	middlepassive
+268210	active
 middlepassive
-268173	active
-268181	active
-268186	active
-268192	active
-268197	middle
-268205	active
-passive
-268212	middle
-268215	active
-268219	middlepassive
-268246	active
+268221	active
+middle
 active
-268254	active
-268268	active
-268283	active
-268297	passive
-268299	active
-268304	middlepassive
-268306	active
+268225	active
+268228	active
+268230	active
+268236	passive
+268239	middlepassive
 active
-268311	active
-268319	active
-268331	active
-passive
+268244	active
+268267	active
+268270	active
+268274	active
+middle
+268278	active
+active
+268286	active
+268294	active
+268296	active
+268298	active
+268303	active
+268305	passive
+268318	active
+268320	active
+268322	middlepassive
+268345	active
+268348	active
+268357	active
+268372	middle
 middlepassive
-268346	passive
-268350	middlepassive
-268357	passive
-268363	active
-268371	passive
-268373	active
-268378	active
-268381	active
-active
-268384	passive
+268377	middle
+268383	active
+268385	middle
 268394	active
-active
 268398	active
-268403	middle
-268408	active
-268413	active
+268400	active
+268402	active
+268404	middlepassive
+268416	middle
+268419	passive
+268428	middle
+268434	active
+268439	active
+268441	active
 active
-268419	active
-268421	passive
-268427	active
-268433	passive
-268440	active
+268445	active
+268463	active
 active
-268448	passive
+268467	active
+268470	active
 active
-active
-268452	active
-268455	active
-268462	active
-268464	active
-268469	active
-268471	active
-active
-268480	active
-268486	passive
-active
-268491	active
-268496	active
-268502	middle
-268504	active
-268510	active
-268514	active
-268523	middle
-268533	active
-268537	middle
-268547	middle
-268551	active
-268554	middlepassive
-268563	active
-268578	middle
-active
+268481	middle
+268484	passive
+268512	passive
+268520	active
+268532	middlepassive
+268538	active
+268544	active
+268546	active
+268553	active
+268557	active
+268559	middlepassive
+268561	active
+268566	active
+268568	middle
+268571	middle
+268578	active
+268584	active
+268587	active
+268590	active
 268593	active
-268607	middle
-268609	active
-268612	active
-268615	active
-268622	middlepassive
-268647	middle
-passive
-268653	middlepassive
-268661	active
-268664	active
-268677	middlepassive
-268679	active
-268685	active
-268690	middle
-268698	active
-268709	active
-268716	middle
-268730	middle
-268732	active
-268735	middle
-268747	active
-active
-268753	middlepassive
-268764	active
-268774	middle
-268777	active
-268788	active
-268807	middle
-268809	active
-268818	middle
-268829	active
-268831	middle
-268846	middlepassive
-268856	middle
-268858	active
-passive
-268861	active
-268869	active
-active
-268877	middle
-268881	active
-268889	middle
-268905	middlepassive
-active
-268908	active
-268916	passive
-268925	active
-268927	active
-268936	active
-268940	active
-268947	active
-268951	active
-active
-middlepassive
-268955	active
-active
-268968	active
-268970	active
-268972	active
-268974	active
-268977	active
-active
-268989	middle
-268994	middle
-268997	active
-269007	active
-269009	passive
-269017	active
-269020	active
-269026	active
-active
-269037	middle
-passive
-269040	passive
-269044	active
-active
-269065	active
-269068	active
-269072	active
-passive
-active
-269080	active
-269083	active
-269088	active
-269098	active
-middlepassive
-269103	active
-269108	active
-269117	active
-269124	active
-269130	middle
-active
-269136	active
-middlepassive
-active
-269154	active
-269163	middle
 middle
-269167	active
-269175	active
+268601	active
+268615	active
+268621	active
+268627	active
+268629	active
+active
+268636	active
+268643	active
+268654	middlepassive
+active
+268658	active
+active
+268664	active
+268666	active
+268671	active
+268673	active
+268679	active
+268681	active
+268688	active
+active
+268692	active
+268694	active
+268698	active
+268702	middlepassive
+268705	active
+268713	active
+268716	active
+active
+268723	active
+active
+268726	active
+268729	active
+268731	active
+active
+268734	active
+268740	active
+268751	active
+268753	active
+268758	middle
+268761	active
+active
+268769	active
+268774	active
+268776	active
+268779	active
+268784	middlepassive
+268786	active
+active
+middle
+active
+active
+268795	passive
+268797	active
+268800	middlepassive
+268804	active
+268809	active
+268811	active
+268814	active
+268816	active
+268818	passive
+268829	active
+268831	active
+active
+268838	active
+268840	active
+268846	active
+268851	middle
+268863	passive
+268867	active
+268869	active
+268873	active
+268875	active
+268879	active
+268881	active
+268886	active
+268889	active
+268891	active
+268893	active
+268898	active
+268903	middlepassive
+268907	active
+268914	active
+268916	active
+268919	active
+268921	active
+active
+268925	passive
+268927	active
+268935	passive
+268938	active
+268941	active
+268948	active
+268950	active
+268954	active
+268965	active
+268985	active
+268988	active
+268990	active
+268997	active
+268999	active
+269002	active
+269006	active
+269009	active
+active
+269014	middle
+active
+269019	active
+269025	active
+269032	active
+269035	middle
+269040	active
+active
+269044	active
+269050	active
+269056	active
+269061	active
+269066	active
+269068	active
+269073	active
+active
+269077	active
+269079	active
+269081	active
+269085	active
+269091	active
+269099	passive
+269101	active
+269106	active
+269111	active
+269113	active
+269116	active
+269124	active
+269126	active
+active
+269135	active
+269139	active
+active
+269143	active
+269146	active
+269149	active
+active
+269153	active
+269155	passive
+269159	active
+269164	active
+269166	active
+269170	active
+active
+269176	active
+269178	active
+269181	active
 269186	active
 269190	active
-269195	middle
-269199	active
-269210	active
+269195	active
 active
-269216	active
-269228	active
+269198	middle
+269203	active
+269211	active
+269221	active
+269223	active
+269226	active
 269234	active
-269240	active
+269236	active
+269239	active
+269242	active
 269245	active
+269247	active
+269250	active
 active
-269251	active
+269254	middle
+active
+269258	passive
+269260	middlepassive
+active
 269264	active
-269269	active
-269277	active
-269287	active
-269289	active
-269301	active
-269308	active
-269316	active
-269324	active
-269326	active
-269335	active
-269341	middle
-269346	active
+269266	active
+269271	middle
+269274	middle
 active
-269349	active
-269359	passive
-269362	active
-269367	active
-269379	passive
+269280	active
+269283	active
+269285	active
+269287	middlepassive
+middle
+active
+269292	active
+269294	active
+269299	active
+269302	active
+269305	active
+269312	active
+269317	active
+middlepassive
+269322	active
+active
+269326	middlepassive
+269328	active
+269330	active
+269333	active
+269336	active
+active
+269348	active
+269351	active
+269366	active
+269377	active
+269379	active
 269382	active
+269390	active
+269392	active
+269403	active
+269407	active
+269409	active
 active
-269391	middlepassive
-269400	middle
-active
-269405	active
+269415	active
 269419	active
-269423	passive
-269431	middle
-269438	middle
-269445	active
-active
-269459	middle
-269464	middle
-269466	middlepassive
-269473	active
-269491	active
-active
-269496	active
-269499	active
-269505	active
-269512	active
-269520	active
-passive
-269529	active
-269544	active
-269546	active
-269555	active
-269558	active
-269560	middle
-269562	active
-269565	active
-269568	active
-active
-269576	active
-269581	active
-passive
-269587	active
-269592	middle
-269597	middle
-269601	passive
-269606	active
-269608	active
-269612	active
-269622	active
-269625	active
-active
+269421	active
+269426	active
+269429	active
+269431	active
+269434	active
+269437	active
+269440	active
+269446	active
+269448	active
+269451	passive
+269454	active
+269458	middle
+269461	passive
+269468	active
+269472	active
+269475	active
+269477	active
+269480	active
 middle
-269643	active
-269650	passive
-269655	passive
 active
-269662	active
-269677	passive
-269690	active
-269696	passive
-269706	middle
+269486	active
+269489	active
+269493	active
+269495	middle
+269498	active
+269503	active
+active
+269506	active
+269513	active
+269515	active
+269522	active
+269524	active
+269527	active
+269530	active
+269532	middle
+269534	passive
+269542	active
+269545	active
+269547	active
+active
+269551	active
+269554	active
+middle
+269558	middle
+269561	middle
+269563	middlepassive
+269569	middlepassive
+269571	middlepassive
+269592	middlepassive
+passive
+269604	middlepassive
+269610	passive
+269614	active
+269637	active
+269654	active
+269664	middlepassive
+269671	active
+269675	active
+269680	active
+269682	active
+269685	active
+269687	active
+269689	middlepassive
+269692	active
+269696	middlepassive
+269699	active
+269704	middlepassive
+269709	middlepassive
 269713	active
+active
 269720	active
+269725	active
 269727	active
-269730	active
 269732	active
-269754	active
-269760	active
-269767	active
-269776	active
-269778	active
+269740	active
+269748	active
+269752	middlepassive
+269757	passive
+269759	passive
+269762	active
+269764	active
+269769	active
+269772	active
+269777	middlepassive
+269786	active
+269789	active
 269792	active
-269799	active
-269803	passive
-269811	middle
-269818	middle
-269822	active
-269831	passive
-269835	active
+269796	passive
+active
+269800	active
+269806	active
+269809	active
+middle
+active
+269819	active
+269826	active
 269838	active
+269840	passive
 active
-269851	passive
-269855	active
+269846	active
+269852	passive
+269857	active
 269859	active
-269865	active
-269873	middle
-active
+269863	middlepassive
+269868	active
+269876	active
 269879	active
-269883	middle
+269884	active
 269886	active
-passive
-269892	middlepassive
-269894	active
-269898	active
+269891	active
+269893	active
+269895	active
 active
+269899	active
+269903	passive
 269905	active
-269912	middlepassive
-269915	active
-269924	active
-passive
-269934	middle
-269940	active
-passive
-269957	active
-269966	active
+269916	active
+269922	active
+269926	active
+269928	active
+269938	active
+269944	active
+269947	active
+269949	passive
 active
-269969	active
-269971	passive
-269980	active
-269985	active
-269987	active
-269994	active
-269996	active
-270000	active
-270012	active
-270014	active
-270029	active
-270037	active
-270051	middlepassive
+269972	active
+269977	active
+active
+middlepassive
+269998	active
+270002	active
+270004	active
+270006	active
+270008	active
+270015	active
+270020	active
+270024	middlepassive
+270026	active
+270028	middle
+270031	middlepassive
+270033	active
+270036	passive
+270040	active
+active
+270044	active
+270047	active
+270051	active
 270054	active
-270056	active
-270062	active
-270068	active
-270074	active
-270085	middle
-active
-270091	active
+middlepassive
+270057	active
+270061	middlepassive
+270063	passive
+270065	active
+270072	active
+270074	passive
+270079	active
+270083	active
+270086	active
+middlepassive
+270089	active
+270091	middle
+270094	middlepassive
 270096	active
-270108	active
-270115	active
-270118	active
+270102	active
+270109	active
 270121	active
-270123	active
-270127	passive
-270135	passive
-270151	passive
-270163	active
-270171	active
-270179	active
-270183	active
-270185	active
-270199	active
-270213	middle
-270222	middlepassive
-active
-270228	active
+270124	active
+270128	active
+270132	active
+middlepassive
+270135	active
+270137	middle
+270140	middlepassive
+270147	active
+270150	passive
+270157	active
+270170	active
+270173	active
+270178	passive
+270187	active
+270189	active
+270191	active
+270198	active
+270200	active
+270204	active
+270208	passive
+270212	passive
+270215	middle
+270219	passive
+270226	active
 passive
-270234	passive
-middle
-270238	middlepassive
-270240	active
-270253	active
-270260	active
-270268	active
-270270	active
-270276	active
-270279	middle
-270281	active
-270283	active
-270289	active
+270231	active
+270233	active
+270239	middle
+270242	middle
+270250	middle
+270257	active
+270262	active
+270267	passive
+270270	passive
+270273	passive
+270280	passive
 270296	active
-270302	active
-270307	middle
-270314	active
-270316	active
-270318	active
-270321	active
-270327	active
-270331	active
-middlepassive
-270338	passive
-270344	passive
+270306	active
+270310	active
+270313	active
+270317	middlepassive
+270326	active
+270335	middlepassive
+passive
+270338	active
+270340	active
 270346	active
-270350	active
-270362	passive
+270353	active
+270364	active
 270366	active
-270368	active
-270386	passive
-270394	active
-270396	active
+270369	active
+270372	active
+270374	active
+270378	passive
+active
+270383	active
+270385	active
+270392	active
 270401	active
-active
-270406	active
-270413	active
-270419	active
-270429	middle
-270431	active
-270438	active
-270443	active
-270454	middle
+270404	passive
+270407	passive
+270415	passive
+270449	passive
+270451	active
+270453	middle
+270456	active
+270458	middlepassive
 270464	active
-270466	active
-270470	active
-active
-middle
-270474	middle
-270480	middle
-270486	middle
-270489	active
-270494	middlepassive
-270501	middle
-270507	active
-270509	active
-270511	active
-270513	active
-270522	middlepassive
-270531	active
-270534	middlepassive
-270538	middle
-active
-270541	active
-270548	active
-270554	passive
-270569	middle
-active
-270572	active
-270574	active
-270580	active
-270583	active
-270587	middlepassive
-270594	active
-270596	active
-270607	active
+270470	passive
+270478	active
+270480	active
+270484	middlepassive
+270492	active
+270501	active
+270508	active
+270510	active
+270533	middle
+270537	active
+270539	passive
+270544	active
+270547	active
+270549	active
+270553	active
+270555	active
+270558	active
+middlepassive
+270565	active
+270569	active
+270576	active
+270582	active
+270589	middlepassive
+270592	active
+270595	active
+270598	active
+270602	active
 270613	active
-active
-270625	active
-270627	active
-active
-270632	active
-270638	active
-270644	active
+270616	active
+270622	active
+270630	active
+270634	middle
+270640	active
+270646	active
 270648	passive
-270655	active
-270657	passive
-270660	active
-270667	active
-270671	active
-270676	active
-270682	active
-270693	active
+270653	active
+270655	passive
+270658	active
+270661	passive
+270665	active
+270678	active
+270691	active
 270695	active
-active
-270701	active
-270705	active
-active
-270708	active
-active
-270717	active
-active
-270723	active
-270725	active
-270729	active
-270732	active
-270734	middle
-270748	middle
-270753	active
-270757	passive
-270760	active
-270765	active
+270702	active
+270706	middle
+270713	active
+270716	active
+270719	active
+270722	active
+270724	middle
+270726	passive
+270729	passive
+270736	passive
+270741	passive
+270745	passive
+270749	active
+270756	passive
+passive
+270761	middle
 270767	active
-270774	passive
-active
-270778	active
-270783	active
-active
-270789	middlepassive
-active
-270796	passive
-270802	active
-270805	active
-active
-270817	active
-270821	active
-270825	active
-270833	active
+270774	active
+270780	passive
+270784	active
+270786	active
+270790	passive
+270794	active
+270808	passive
+270811	middle
+270819	active
+270823	passive
+270827	active
+270829	passive
 270842	passive
-270858	active
-270860	active
-270862	active
-270875	active
+270848	active
+270855	active
+270857	active
+270859	middlepassive
+270861	active
+270863	active
+270874	active
 active
-270878	active
-270884	passive
-270888	middlepassive
-active
+270879	active
+270881	active
+270885	active
+270889	passive
 270897	active
+270902	active
+270910	passive
+270921	active
+270926	passive
+270930	active
+270936	passive
+270940	active
+270953	active
+270960	passive
+270963	active
+270967	passive
+270976	active
+270982	active
+270987	active
+270990	active
 active
-270900	passive
-270903	active
-active
-270912	active
-active
-270919	active
-270922	active
-270924	passive
-270935	active
-270937	active
-270948	active
-270955	active
-270965	active
-270976	passive
-270980	active
+270993	active
+271002	passive
+271019	active
+271029	active
+271031	active
+271047	active
+271050	active
+271060	active
+271063	active
+271075	active
+271080	active
 middle
-270990	passive
-270996	active
-270998	active
-271006	active
-271010	middle
-271016	active
-271030	middlepassive
-active
-271035	active
-271046	active
-271053	middlepassive
-271055	passive
-271060	passive
-271067	active
-271071	active
-active
-271079	active
-271090	active
-271092	active
-271097	active
-active
-271101	middle
-271112	active
-271118	active
-middle
-271122	active
+middlepassive
+271089	active
+271091	active
+271103	active
+271106	active
+271108	active
+271111	passive
+271117	passive
+271120	passive
 271127	active
-271129	active
-271131	active
-271133	active
-271137	active
-271141	active
-271152	middle
-271154	active
-271162	active
-271164	active
-271167	middle
-271171	active
-271178	active
-271188	active
-271194	active
-active
+271138	active
+271143	active
+271148	middlepassive
+271150	active
+271165	middlepassive
+271172	passive
+271182	middlepassive
+271193	active
+271203	active
 271207	active
-271210	active
-271212	active
-271214	active
-271228	middle
-271230	active
-271236	active
-271240	middle
-271250	active
-271256	active
-271262	active
-271264	active
-271270	active
-271272	active
-271279	active
-271284	middle
-271286	active
-271292	active
-271296	active
+271214	passive
+271219	active
+271227	active
+271243	middlepassive
+271248	active
+271265	active
+271268	active
+271271	passive
+271291	active
+271296	passive
 271298	active
-271300	middle
-271311	active
-271315	middlepassive
+271310	active
+271314	middlepassive
 271317	active
-271319	active
 active
-271322	active
-271328	middle
-271330	active
-271337	active
+271325	active
+271328	active
+active
+271331	active
+271335	active
+active
+271338	active
 271344	active
-271347	middlepassive
-271354	passive
-271356	active
-271369	active
-271372	active
-271374	active
-271378	active
-271382	active
-271384	middlepassive
-271397	active
-271401	active
-271403	active
+271348	active
+active
+271355	active
+271363	active
+271365	active
+271371	active
+271389	middle
+271398	active
+active
+271401	passive
 271406	active
-271411	middle
-271419	active
+271413	active
+271417	active
+271420	active
 active
-271425	passive
-271448	active
-271450	active
-271454	active
-271461	active
+active
+271424	passive
+271429	active
+271436	active
+271439	active
+271441	active
+271445	active
+271447	active
+271449	active
+271452	active
+271459	middle
 271464	active
-271478	active
-271484	passive
+271471	active
+271474	active
+271483	active
+271485	passive
+271489	active
 271491	active
-passive
-271496	active
-271502	middle
+271494	active
+271501	passive
+271505	active
 active
-271506	active
-middlepassive
-271509	active
-271516	active
-271518	active
+271508	active
+271515	active
+271522	active
 271527	active
-passive
-271547	active
-271549	passive
-271558	middle
-271560	active
-271564	active
-271570	active
-271585	passive
+271529	passive
+271535	active
+271538	active
+271543	active
+271545	passive
+271548	active
+271558	active
+271563	active
+active
+271566	middlepassive
+271571	active
+271577	active
+271579	active
+271581	active
+271583	passive
+271585	active
 271587	active
-271591	active
-271604	active
-271608	middlepassive
-271612	active
-271619	active
-271626	active
-271633	active
-271640	active
-271643	active
+271592	active
+271599	active
+271602	active
+271606	active
+271611	active
+271614	active
+271618	active
+271621	active
+271625	active
+271628	active
+271640	passive
+271647	passive
 271649	active
-271651	middle
-271656	middle
-271658	active
-271667	middle
-active
-271678	middle
-271686	active
-271702	active
-271711	passive
-271714	middle
-active
-271719	active
-271723	active
-271729	middlepassive
-271746	middlepassive
-271762	active
-active
-active
-271773	active
-271782	active
-271811	active
-active
-271815	active
-271819	middle
-271821	active
-271827	active
-271830	active
-271832	middle
-271839	active
-271842	active
-middle
-271848	active
-271853	active
-271859	active
-271867	middlepassive
-271874	middlepassive
-middlepassive
-271877	active
-271881	active
-271889	active
-active
-271901	active
-271906	middlepassive
-271910	active
-271925	active
-middlepassive
-271932	active
-271934	active
-271945	active
-271948	active
-271954	active
-271971	passive
-271974	active
-271986	middlepassive
-271989	active
-middle
-272001	active
-272005	active
-272025	active
-272033	middle
-272039	active
-272041	passive
-272066	active
-272070	active
-272072	active
-272075	active
-272083	active
-272086	active
-272088	active
-272103	active
-272107	active
-272115	passive
-272120	middle
-272127	active
-272135	active
-272141	active
-middle
-272148	middle
-272152	passive
-272154	active
-272160	active
-272166	active
-272174	middle
-272187	active
-272189	middle
-272194	active
-272206	middlepassive
-272219	active
-272221	middle
-272225	middle
-272228	active
-middlepassive
-272232	active
-middle
-272237	active
-272240	passive
-272251	middle
-active
-272256	passive
-active
-272264	active
-272267	middle
-272274	active
-272278	passive
-272281	active
-272290	active
-272297	active
-272317	active
-272319	middle
-272325	middle
-272331	active
-active
-272344	middle
+271663	active
 passive
-272354	active
-272358	middlepassive
+271667	active
+271670	active
+271673	passive
+271676	active
+271682	active
+active
+271694	active
+271697	active
+271703	active
+271705	active
+271708	active
+271712	active
+271714	active
+271717	active
+271723	active
+271731	middle
+271737	active
+271739	passive
+271747	middle
+271749	active
+271757	active
+middle
+271762	middlepassive
+271767	active
+271769	middle
+271773	active
+middle
+271784	active
+271795	middlepassive
+271799	active
+271804	active
+271806	active
+active
+271811	active
+271813	active
+271815	active
+271821	active
+271824	passive
+271826	active
+271833	passive
+271835	active
+271843	middlepassive
+271850	active
+active
+271854	passive
+271862	passive
+271871	middle
+271879	passive
+271883	passive
+271898	active
+271900	active
+active
+271903	passive
+active
+271906	passive
+271911	middle
+271914	active
+271926	active
+271933	active
+271939	active
+271942	active
+active
+271946	active
+271949	active
+271951	active
+271954	active
+active
+271961	passive
+271972	active
+271976	active
+271979	passive
+271984	active
+271988	middle
+271996	active
+272001	active
+272007	active
+272010	passive
+272015	passive
+272022	passive
+272025	active
+272028	passive
+272035	passive
+272037	active
+272041	active
+272043	middle
+272058	passive
+272063	active
+272071	active
+272085	active
+272090	passive
+272093	active
+272099	active
+272102	active
+272104	active
+272107	active
+272110	active
+272113	passive
+272116	active
+272119	active
+272122	passive
+272131	middlepassive
+272138	passive
+272147	active
+272160	active
+272162	active
+272166	active
+272171	active
+272174	active
+272180	passive
+272185	active
+active
+272193	active
+272198	active
+272202	passive
+272208	active
+272212	active
+active
+272230	active
+active
+272246	active
+272262	passive
+272269	passive
+272271	passive
+272277	active
+272280	active
+272284	active
+272286	active
+272292	middlepassive
+active
+272296	passive
+272299	active
+272302	passive
+272305	active
+272308	active
+272315	active
+272323	active
+272325	passive
+272327	active
+272332	active
+272335	passive
+272344	active
+272347	active
+272352	passive
+272361	passive
 272366	active
 272368	active
-272371	active
-272378	active
-272380	active
-272394	active
-272401	active
-272407	active
-272411	passive
-middle
-272415	active
-272423	active
-272430	active
-272433	active
+272373	active
+272377	active
 active
-272438	middlepassive
-272461	active
-272466	active
-272471	middle
-passive
-272476	active
+272381	passive
+272383	active
+272390	active
+272392	active
+272396	active
+272400	active
+272409	active
+272412	active
+272416	active
+272418	active
+272423	passive
+272429	active
+272434	active
+272437	active
+272443	active
 active
-272481	active
-272486	passive
-272490	active
-272496	active
-272504	active
+272450	passive
+272452	active
+272455	active
+active
+272459	active
+272463	active
+272468	active
+272470	passive
+272472	active
+272479	active
+272484	active
+272488	active
+272492	passive
+272494	active
 272507	active
-passive
-272511	active
-272517	active
-272521	active
-272527	active
-272530	middlepassive
-272532	active
-272536	active
-272539	active
-272543	middlepassive
-272545	middle
-272547	middle
-272552	active
-272558	middle
-272560	middle
-272564	middle
-272568	middle
-272576	active
-272580	middle
-272589	active
-272597	middle
-272605	active
-272609	active
-272611	passive
-272619	middle
-272624	active
-272636	middle
-272644	middle
-272647	active
-272650	middlepassive
-272657	passive
+272523	middlepassive
+active
+272526	active
+272529	active
+272541	active
+active
+272544	active
+272550	active
+272555	active
+272557	middle
+272559	active
+272567	active
+272575	passive
+272580	active
+272594	active
+272598	active
+272603	active
+272615	middlepassive
+active
+272622	passive
+272626	active
+272630	passive
+272633	active
+272635	active
+272638	active
+272640	passive
+272652	passive
+272655	active
+272657	active
+272659	middlepassive
 272661	active
-272669	active
-272675	active
-272681	middle
-272685	active
-272691	active
-passive
-272699	passive
-272707	active
-272710	active
-272723	active
-272734	active
-272736	active
-272740	active
-middle
-272751	active
-272753	middlepassive
-middlepassive
-272759	passive
-272767	middle
-passive
-272779	active
-passive
-272785	active
-272797	middlepassive
+272663	active
+272665	middlepassive
+272674	active
+272677	passive
+272680	active
+272684	active
+272690	active
+active
+272700	active
+active
+active
+active
+272714	active
+272719	active
+272721	active
+272726	active
+272732	active
+272742	middle
+272749	passive
+272757	passive
+272772	active
+272775	active
+272778	active
+272786	active
+272795	active
+active
 272804	active
-272806	active
-middle
+272808	active
+active
 272813	active
-272827	active
-272849	active
-272853	passive
-272858	active
-272870	active
-272873	active
-272887	active
-272895	active
-272897	active
+272816	active
+272819	passive
+272826	active
+272829	active
+272831	middle
+272836	middlepassive
+272839	active
+272851	active
+272854	active
+272857	middlepassive
+272860	active
+272864	active
+272866	active
+272868	active
+272870	passive
+272875	active
+middlepassive
+272884	passive
+272888	active
+272894	active
 272899	active
-272903	middle
-272910	active
-272915	middle
-272919	active
+272902	active
+272907	active
+272909	active
+272913	active
 active
+272920	active
 272927	active
-272932	active
-272934	active
-272951	middle
-active
-272954	active
+272931	active
+272938	active
+272943	active
+272953	passive
 272958	active
-active
-272971	active
-272979	active
-passive
-272985	active
-272990	active
-272994	middlepassive
-273000	passive
-273006	middlepassive
-273012	active
-273014	middlepassive
+272970	active
+272978	active
+272984	passive
+272989	active
+272993	passive
+272996	active
+273009	active
+273014	active
 273018	active
-273033	middlepassive
-273035	active
-273052	middle
+273028	active
+273042	passive
+273045	active
+273054	active
+273056	active
+273061	passive
 273064	active
-273068	active
-273072	active
+273066	passive
+273076	active
+273079	active
+273084	middle
+273088	passive
+273097	active
+273103	active
+273107	active
+273113	passive
+273126	middlepassive
 active
-273088	active
-273107	middle
-273113	active
-passive
-273129	active
-active
-active
-273137	passive
-273144	passive
-273153	active
+273131	passive
+273138	active
+273142	active
+273145	active
+273147	active
 273157	active
-273169	active
-273173	active
+273160	active
+273166	middle
+273171	active
 273176	active
-273191	active
-273201	active
+273181	active
+273187	middle
+273194	active
+273200	active
+273210	middle
+273213	active
+273217	active
+273219	active
+active
+273222	active
+273226	active
+273230	active
+273234	active
+active
+273237	active
+273239	active
+273241	active
+273250	active
+273256	passive
+273258	active
+273262	passive
+273266	active
+273270	active
+273277	active
+active
+273283	active
+273291	middle
+273294	passive
+273296	middlepassive
+273302	active
+273315	active
+273321	active
+273329	passive
+273333	passive
+273341	active
+273361	active
+273365	active
+273368	middlepassive
+273374	active
+273385	middle
+middlepassive
+273390	active
+273392	active
+273398	active
+273400	active
+273404	active
+273408	passive
+273413	active
+273419	active
+273425	active
+active
+273428	middle
+273433	middle
+273436	middle
+273440	middle
+273447	middle
+273457	active
+273461	passive
+273464	active
+273476	active
+273480	passive
+273485	active
+273491	active
+273500	active
+273505	active
+273510	active
+273514	active
+273516	active
+active
+active
+273525	middlepassive
+273529	active
+273534	passive
+active
+273543	active
+273548	active
+273550	middlepassive
+273555	active
+273557	active
+273563	active
 passive
-273205	active
-273216	active
-273218	active
+273567	passive
+273571	active
+273577	active
+273587	passive
+273598	active
+273600	active
+273612	active
 active
-273222	middlepassive
-273224	active
-273239	middlepassive
-273263	active
-273275	active
-273283	middlepassive
-273287	active
-273294	active
-273296	active
-273308	active
-273314	active
-273317	active
-273319	active
-273325	active
-273327	active
-273331	active
-273333	active
-273335	active
-273347	passive
-273349	middle
-273357	active
-273361	passive
-273363	middle
-273380	active
-273382	active
-273387	active
-273409	active
-273420	passive
-273431	middle
-273463	active
-active
-273466	active
-273479	active
-273485	middle
-273491	middlepassive
-middle
-273496	active
-273511	active
-middlepassive
-273520	active
-273526	active
-active
-middlepassive
-273544	active
-active
-273557	middlepassive
-273566	active
-middlepassive
-273578	active
-273584	middlepassive
-active
-273595	middlepassive
-middlepassive
-273608	middlepassive
-active
-active
-273615	passive
-273620	active
-273624	passive
-273626	active
+273617	active
+273621	active
+273623	active
+273630	active
 273632	active
-273634	active
-273648	active
-273650	active
-273655	middle
-273678	active
-273681	middle
-273687	active
+273640	active
+active
+273644	active
+273646	active
+active
+273652	active
+273654	passive
+active
+273660	passive
+273668	active
+273671	active
+273674	active
+273676	middle
+273679	active
+273684	active
+273687	middlepassive
+273691	active
+273693	active
 273695	active
-273710	middlepassive
-273713	active
+273698	active
+273701	active
+273704	active
 active
-273718	active
+273709	active
+273712	active
+273715	active
+273719	active
+273722	active
 273727	active
-273738	active
-passive
-middlepassive
-273748	middle
-273752	passive
+273729	active
+273733	active
+273739	active
+273744	active
+273750	active
 273754	active
+273757	active
 273761	active
-273780	active
+273770	active
+273774	active
+273777	middlepassive
+273779	active
 273786	active
+273790	active
+273793	passive
 active
-273799	passive
+273800	middle
+273803	active
+273807	active
+273811	active
+273815	active
+273818	active
+273823	passive
+273830	active
 active
-273812	passive
-273824	middle
+273835	active
+273842	active
+273844	active
+273847	active
+273851	passive
+273856	active
+273859	active
 active
-273831	passive
-273833	active
-273835	passive
 active
-273846	active
-273861	active
-active
-273871	active
-273879	active
+273865	middle
+273876	passive
 273885	active
-273896	active
-273899	middle
-273906	active
-273911	active
-273920	middlepassive
-273922	active
-273929	passive
-273936	active
-273943	middle
-273945	active
-273960	active
+273893	active
+273903	active
+273905	active
+273909	active
 active
-273965	active
+273916	active
+273925	active
+273927	passive
+273933	active
+273937	active
+273941	active
+273943	active
+273951	active
+active
+273956	active
+273959	active
+273961	active
 273968	active
-273996	active
-middle
-274013	passive
-274019	passive
-274025	active
-274032	middle
-274034	passive
-274038	middlepassive
+273970	middlepassive
+273975	active
+273979	active
+273983	active
+273990	passive
+273994	active
+274005	active
+274011	active
+274017	active
+274028	active
+274041	active
+274089	active
+274096	middle
+274102	active
+274105	active
+274108	middle
+274114	active
+274116	active
 active
-274043	active
-274050	active
-274058	active
-274061	active
-274065	active
+274123	passive
+274127	passive
+274134	passive
+274142	active
+274147	middlepassive
+274149	active
+274151	active
 active
-274068	middlepassive
-274078	active
-274086	passive
-274088	passive
-274095	middlepassive
+274157	active
+274164	active
+274170	active
 active
-274100	active
+274173	active
+active
+274181	active
+274183	active
+274192	passive
 passive
-274107	active
-passive
-274110	active
-274113	middle
-274118	active
-274120	middlepassive
-active
-274125	middlepassive
-274133	active
-active
-274139	passive
-274142	passive
-274148	middle
-274161	active
-274167	active
-274179	middlepassive
-274181	passive
-274187	passive
-274193	active
-274195	passive
-274204	active
-active
-274210	active
-274213	passive
+274202	active
+274208	active
+274216	active
 274219	active
-274234	active
-274236	active
-274242	middle
-274251	active
-274264	active
-274267	active
-274269	active
-274271	middlepassive
-274275	active
-active
-274278	middle
-middlepassive
-274287	active
-274292	active
-274294	active
-274301	middle
-274307	passive
-274315	active
+274222	passive
+274227	passive
+274235	passive
+274243	passive
+274249	passive
+274255	active
+274262	passive
+274268	active
+274276	passive
+274283	passive
+274286	passive
+274290	active
+274298	active
+274312	active
 274317	active
-274323	middle
-passive
-274338	active
-274342	active
-274348	active
-active
-274355	active
-274358	active
-active
-274363	middlepassive
-274372	active
-274376	active
-274380	middlepassive
-274382	middle
-274387	active
-active
-274395	active
-274410	active
+274323	active
+274332	active
+274337	active
+274343	active
+274352	active
+274354	middlepassive
+274357	active
+274364	active
 active
 active
-274426	active
-274433	passive
-274435	middlepassive
-274437	active
-274449	active
-274451	active
-274457	active
-middlepassive
-active
+274372	middlepassive
+274378	active
+274393	active
+274396	active
+274400	active
+274402	active
+274404	active
+274408	active
+274415	active
+274418	passive
+274421	middle
+274429	active
+274431	active
+274433	active
+274441	passive
+274443	active
+274450	active
+274452	active
+274456	active
+274459	active
+274461	active
 274464	active
-274466	active
-274471	active
-274473	active
-274475	middle
-274477	active
-274479	active
-274490	active
-274502	middle
-active
-274507	active
+274468	active
+274472	active
+274476	active
+274481	active
+274483	passive
+274485	middle
+274488	middlepassive
+274490	passive
+274504	active
+274506	passive
 274509	active
-274517	active
-middle
+274514	passive
+274516	passive
+274519	passive
+274530	active
+274534	middle
+274541	middlepassive
+274545	active
+274549	active
+274555	active
+274567	active
+274575	passive
+274580	active
+274582	active
+274586	active
+274589	active
+274592	middlepassive
+274594	active
+passive
+274603	active
+274612	middlepassive
+274622	active
+274631	passive
 active
-274522	middle
-274527	middle
-274529	middle
-274545	passive
-274548	active
-274552	middle
-274564	middle
-274569	active
-274575	active
+274635	middlepassive
+274643	passive
+274648	active
+274652	active
 active
-274581	middlepassive
-274583	middlepassive
-active
-274592	active
-active
-274600	active
-274609	active
-274614	active
-active
-274621	active
-274628	active
-274637	active
-active
-274644	passive
-274656	middle
+274658	active
 274661	active
-274664	active
-active
-274670	middlepassive
-active
-274675	active
-274680	active
-274683	middlepassive
-active
-active
-274692	active
-274717	middle
-274719	passive
-274726	passive
-274728	active
-274734	passive
+passive
+274668	passive
+274672	passive
+274676	middlepassive
+274679	active
+274686	passive
+274691	active
+274693	active
+274696	active
+274706	active
+274712	active
+274716	active
+274720	active
+274725	active
+274727	active
+274731	active
+274735	passive
 274739	active
+passive
 274744	active
 274747	active
-274750	middle
-274760	active
-274767	active
-274778	active
-274790	active
+274751	passive
+274756	passive
+274768	active
+274775	active
+274784	active
+274786	active
+274794	active
+274796	passive
+274804	active
+274814	active
+274817	middle
+274823	active
+274829	passive
+274832	passive
+274838	middle
 active
-274799	active
-274803	middle
-274817	active
-274820	active
-274827	passive
-274836	active
-274838	active
-274842	active
-274851	active
-274857	active
-274859	active
-passive
+274849	active
 274862	active
-274870	active
-274872	active
-274879	middlepassive
-middle
-active
-274883	active
-274897	active
-274910	middle
-274916	active
-middle
-274929	passive
-middlepassive
-274937	active
-274939	middle
-active
-274945	middle
-274949	middle
+274868	active
+274874	passive
+274876	active
+274881	active
+274885	active
+274887	passive
+274898	passive
+274905	active
+274909	middlepassive
+274914	active
+274921	passive
+274924	active
+274929	active
+274934	passive
+274937	passive
+274939	active
+274942	passive
+274945	passive
+274952	active
 274961	active
-274963	middlepassive
-274965	passive
-274971	active
-274974	passive
-middle
-274989	passive
-274996	active
-275006	passive
-275010	active
-275015	active
+274966	passive
+274975	passive
+274984	active
+274992	passive
+274997	passive
+passive
+275004	active
+275014	active
+275018	active
+275025	active
 active
-275026	middle
-275029	active
-275034	active
-275036	passive
-275040	active
+275031	passive
+275035	passive
+275039	active
+275043	active
+middle
 275051	active
-275056	active
-275062	active
-275078	active
-275082	active
-275086	active
-275090	active
-275094	passive
+275056	middle
+275061	middle
+275063	active
+275071	middle
+275077	middle
+275081	active
+275083	active
+middlepassive
+275087	middle
+275089	active
+275092	active
+active
 275098	active
-275107	active
-275110	middle
-275117	middle
+275100	active
+275102	active
+275111	active
+active
 275120	active
-275126	active
-275129	active
-275139	active
-275155	passive
-275166	active
-275168	middlepassive
 active
-275178	active
-275182	active
-275187	passive
-middle
-275197	active
-275199	active
+275124	middle
+275129	middle
+275136	passive
+275148	passive
+275151	active
+275156	active
+275161	active
+275164	active
+275170	active
+275172	active
+active
+active
+275181	active
+275188	active
+275193	active
+275198	active
 275208	active
-275210	active
+active
 275212	active
-275228	middlepassive
-275234	active
-275242	middle
-275249	middle
-275255	active
+275219	passive
+275221	active
+275241	active
+275252	active
+275254	active
 275257	active
-275265	active
-275270	active
-275272	active
-275284	active
-275287	passive
-middle
-275292	active
-275303	middle
-middlepassive
-275312	active
-275341	passive
-275343	passive
-275346	active
-275349	active
-275353	middle
-active
-275370	active
-275384	active
-passive
-275394	active
+275268	middlepassive
+275275	active
+275287	active
+275289	active
+275295	active
+275315	passive
+275350	active
+275364	active
+275371	active
+275378	active
+275383	active
+275389	active
 275396	active
-275401	active
-275403	active
-active
-275409	active
-passive
-275426	active
-275433	active
-275436	active
-275444	active
-275449	active
-275451	active
-275453	middle
-275457	active
-275463	passive
-275475	middle
-active
-275487	middlepassive
-275491	middlepassive
-275495	active
-275504	active
-275529	passive
-275536	middle
-275558	middle
-275568	passive
-275595	active
-275621	active
-275632	active
-275658	active
-275679	passive
-275691	active
-275696	active
-275720	middle
-275729	middlepassive
-275735	passive
-275745	active
-275749	active
-275751	active
-275756	active
-275764	passive
-275768	active
-passive
-275788	active
-275791	active
-275795	middle
-active
-275801	passive
-275811	active
-275836	active
-275853	middle
-275856	middlepassive
-275864	active
-275871	active
-275885	passive
-275893	passive
-275901	middle
-passive
-275926	active
-275936	active
-275945	active
-275960	passive
-passive
-275975	active
-275979	active
-275987	active
-275989	active
-275991	passive
-276000	passive
-276008	active
-active
-276011	passive
-276013	active
-276039	active
-276059	middlepassive
-276069	active
-276083	middle
-276085	active
-276092	active
-276094	active
-276105	active
-276122	active
-276142	active
-276152	passive
-276170	middlepassive
-276177	active
-276186	active
-276190	active
-276194	active
-276198	active
-276208	active
-276211	active
-passive
-276249	active
-276255	active
-276258	active
-276262	active
-276265	active
-276267	active
-276270	active
-276277	active
-276282	active
-276287	active
-276292	active
-276294	active
-active
-276305	active
-276315	active
+275405	active
+275413	passive
+275418	middle
+275421	active
+275430	active
+275434	active
+275438	passive
+275446	active
+275454	middlepassive
+275471	active
+275475	active
+275488	middle
+275497	middle
+275501	active
+275504	middle
+275516	middle
+275520	active
+275527	active
+275530	active
+275536	active
+275548	active
+275551	active
+275555	active
+middle
+275559	middle
 middlepassive
-276323	active
-276328	active
-276330	active
-276334	middle
-276360	active
+275563	active
+275574	active
+275576	active
 active
-276374	active
-276387	active
-276404	active
-276427	active
-276437	active
-276441	middle
-276460	middlepassive
-276479	middlepassive
-276491	active
-276501	active
-276504	middle
-276510	active
-276514	passive
-276534	passive
-276541	active
-276548	active
-276553	active
-276555	active
-276558	middle
-276575	active
-276588	active
-276591	middlepassive
-276596	active
-276622	passive
-276624	middlepassive
-276627	middlepassive
-276632	active
-276637	active
-276639	active
-passive
-276646	active
-276651	active
-276666	active
-276685	active
-276689	active
-276691	active
-276693	active
 active
-276696	active
-276698	active
+275583	active
+275587	active
+275589	active
+275592	active
+275598	active
+275604	active
+275606	active
+275609	active
+275619	active
 active
-276701	middlepassive
-276705	active
-276710	middlepassive
-276723	active
-276735	passive
-276742	passive
-276746	active
-276749	active
-276755	active
-276762	active
-276775	active
-276785	passive
-276787	active
-276798	active
-276821	active
-276895	passive
-276906	active
-276921	active
-276923	middle
+active
+275625	passive
+275630	active
+275634	passive
+275636	middle
 middlepassive
-276936	passive
-276939	passive
-276948	active
-276952	passive
-276964	active
-276966	active
-276973	active
-276980	active
-276982	middle
-276985	active
-277008	active
-277022	passive
-277026	passive
-277029	active
-277032	active
-277034	active
-277039	active
-277049	active
-277052	middlepassive
-277055	middle
-277066	active
-277068	passive
-277071	active
-277076	active
-277078	active
-277080	active
-277082	active
-277087	active
-277089	passive
-277091	active
-277093	active
-277096	active
-277102	passive
-277113	active
-277132	active
-277139	active
-277156	active
-277158	active
-277169	active
-277176	active
-277184	active
-277189	passive
-277192	middle
-277208	passive
-277230	passive
-passive
-277257	active
-277260	active
-277264	active
-277266	passive
-277274	passive
-277293	middle
-277326	active
-277358	active
-277362	active
-277375	passive
-277391	middlepassive
-277393	passive
-277421	active
-277435	active
-277442	middle
-277445	active
-277448	active
-active
-277465	passive
-active
-277478	active
-active
-277486	passive
-277493	middlepassive
-277498	middlepassive
-277509	middlepassive
-active
-277515	active
-277519	middlepassive
-277532	active
-277544	middlepassive
-277552	passive
-277559	passive
-277569	middle
-277591	active
-277593	passive
-277605	passive
-277609	active
-277625	active
-277646	active
-277653	active
-277660	passive
-277679	active
-277719	active
-277735	passive
-277740	passive
-277749	middlepassive
-277753	active
-277770	active
-277801	active
-277808	passive
-277815	active
-277820	active
-277823	active
-277828	active
-277831	active
-277834	active
-277842	active
-277846	middle
-277856	passive
-277858	middle
-277866	active
-277870	active
-277876	passive
-277879	active
-277901	passive
-277906	passive
-277910	active
-277916	passive
-277919	middlepassive
-277921	active
-277923	active
-277926	passive
-277932	passive
-277939	passive
-277948	active
-passive
-277951	active
-277955	active
-277966	passive
-277975	passive
-277983	passive
-277989	active
-278012	active
-278026	active
-278028	middlepassive
-278045	middlepassive
-278051	active
-278057	middlepassive
-278073	active
-278082	passive
-278096	passive
-278101	active
-278111	active
-278118	middle
-278128	active
-active
-active
-278146	active
-278152	active
-278157	passive
-278166	passive
-278178	active
-passive
-278197	passive
-passive
-278211	middlepassive
-278233	active
-278251	active
-278272	active
-278277	active
-278283	active
-278290	passive
-278292	active
-278295	active
-278311	active
-278324	active
-278328	active
-278353	active
-278386	active
-278395	active
-278434	active
-278459	active
-278463	active
-278519	passive
-278536	passive
-278542	active
-278544	active
-278550	active
-278554	active
-278560	active
-278575	active
-278595	active
-active
-278604	active
-278606	middle
-278608	active
-278614	active
-278619	active
-278622	passive
-278634	passive
-passive
-278650	passive
-278673	active
-278677	active
-278693	middle
-278695	active
-278704	passive
-278706	passive
-278716	active
-278723	active
-passive
-278732	active
-278736	active
-278739	active
-278741	active
-278744	passive
-278749	active
-278753	active
-278756	active
-278760	active
-278764	active
-active
-278773	middlepassive
-278775	active
-278781	active
-278792	active
-278808	active
-278815	active
-278828	active
-278838	active
-278855	active
-278858	active
-278868	active
-278871	active
-278880	middle
-278882	active
-278885	active
-278892	active
-278894	active
-278911	active
-278917	active
-278925	passive
-278929	passive
-278936	passive
-278941	active
-278955	active
-278976	active
-278993	active
-278998	active
-279006	active
-279012	middlepassive
-279022	passive
-279028	passive
-279033	active
-279079	active
-279081	active
-279084	active
-279089	active
-279097	active
-279107	active
-279109	passive
-279113	active
-279117	passive
-279129	active
-279134	active
-279136	middle
-279142	active
-279147	active
-279155	active
-279158	middle
-279169	passive
-279185	middle
-279192	passive
-279194	active
-279200	active
-279220	middle
-279231	active
-279237	passive
-279243	active
-279247	passive
-279249	active
-279264	active
-279270	middle
-279276	active
-279288	active
-279294	active
-279296	active
-279299	active
-279308	middle
-279323	active
-279328	active
-279336	active
-279339	active
-279341	passive
-279361	active
-279367	active
-279373	active
-279394	middle
-279397	middle
-279403	passive
-279411	middlepassive
-279414	middle
-279427	active
-279434	active
-279438	active
-passive
-279447	middlepassive
-279449	active
-279453	active
-279455	active
-279458	active
-279460	active
-279465	active
-279467	active
-active
-279478	middlepassive
-279484	active
-279489	active
-279493	active
-279498	active
-279509	active
+275643	active
+275648	active
+275660	active
+275664	middle
+275673	active
+275690	active
+275693	active
+275699	active
+275714	active
 middlepassive
-279514	middlepassive
-279522	active
+275717	active
 active
-279528	active
-279531	active
-279536	active
-279539	active
-279542	middlepassive
-279548	active
-279553	active
-279559	active
-279561	active
-279570	middlepassive
 middlepassive
-279587	active
-279599	middlepassive
-279610	active
-279622	active
-279636	middle
-279670	active
-279708	active
-279734	active
-279748	active
-279760	active
-279777	passive
-279786	active
-279796	active
-279802	active
-279854	passive
-279857	middlepassive
-279863	active
-279865	active
-279867	middlepassive
-279871	active
-279883	active
-279894	active
-279897	active
-279928	active
-279935	active
-279940	active
-279946	active
-279961	active
-279972	active
-279981	active
-279987	active
-active
-active
-280000	active
-middle
-280007	passive
-280011	active
-280015	active
-280024	active
-280031	active
-280041	active
-280048	active
-280067	active
-280070	passive
+275721	active
 middlepassive
-280090	active
-280092	passive
-280115	middlepassive
-280123	passive
-280130	active
-280142	passive
-280169	active
-280177	active
-280179	active
-280201	active
-280209	active
-280211	middlepassive
-280225	passive
-280229	passive
-280231	active
-280235	active
-280238	active
-280243	active
 active
-280248	middlepassive
-280256	middlepassive
-280265	middle
-280267	active
-280269	active
-280276	active
-280282	active
-280286	active
-280299	active
-280303	active
-280307	active
-280312	active
-280321	active
-280324	active
-280326	active
-280341	active
-280351	active
-280354	active
-280357	active
-280360	active
-280363	active
-280366	active
-280369	active
-280392	middle
-280399	active
-280412	middle
-280414	active
-280422	active
-280425	active
-280429	active
-280432	passive
-280434	active
-280444	active
-280450	active
-280474	passive
-280479	passive
-280485	passive
-280497	active
-280501	active
-280503	passive
-280515	active
-280517	active
-280530	middle
-280532	active
-280554	active
-280559	middlepassive
 active
-280575	active
-280586	middlepassive
-280589	active
-280615	active
-280660	active
-280676	active
-280697	active
-280707	passive
-280711	active
-280734	middlepassive
-280752	middle
-280754	middle
-280770	active
-280779	passive
-280781	active
-280799	active
-280808	active
+275727	active
+275730	active
+275739	active
+275741	active
+275745	passive
+275752	active
+275760	active
+275773	passive
+275777	active
+active
+275781	middlepassive
+275784	middlepassive
+284013	active
 passive
-280815	active
-280820	passive
-280824	active
-280829	active
-280832	active
-280841	middle
-280846	active
+284729	active
 active
-280850	active
-280852	active
-280855	active
-280860	active
-280863	active
-280868	active
-280870	active
-280884	active
-280887	middle
-280898	passive
-280914	active
+284917	active
 active
-280918	active
+285323	active
 active
+285329	active
 active
-280925	middlepassive
-280933	active
-280940	active
-280942	middlepassive
-280947	active
-280952	active
-280955	active
-280959	active
-280975	active
-280989	active
-280993	middle
-280998	active
-281004	active
-281014	passive
-281020	active
-281036	active
-281042	active
-281064	active
+285742	active
 active
-281079	passive
-passive
-281082	middle
-281089	passive
-281097	passive
-281102	active
-281105	active
-281112	active
-281134	passive
-281137	active
-281139	active
+285851	passive
 active
-281149	active
-281156	active
-281163	passive
-281169	passive
-281172	active
-281177	active
-281179	active
-281190	active
-281198	active
-281212	active
-281221	passive
-middle
-active
-281236	active
-281241	passive
-281270	active
-281277	active
-281283	active
-281296	active
-active
-281306	passive
-281318	active
-281321	active
-281334	active
-281336	middle
-281349	active
-281351	active
-281360	middle
-281367	active
-281369	active
-281372	middle
-281379	active
-281384	active
-281387	active
-281394	active
-281411	active
-281420	active
-281423	active
-281434	active
-281447	active
-281451	passive
-281454	passive
-281460	passive
-281464	active
-281472	active
-281477	passive
-281480	active
-281494	active
-281500	middle
-281507	middle
-281513	passive
-281516	middle
-281521	active
-281524	active
-281527	active
-281530	active
-281533	active
-281536	active
-281539	passive
-281541	passive
-281549	middle
-281554	active
-281560	active
-281563	active
-281586	active
-281589	active
-281598	active
-281620	active
-281624	active
-281627	active
-281629	active
-281641	active
-281645	active
-281647	active
-passive
-281652	active
-281654	middle
-281658	active
-281665	active
-281671	active
-281681	active
-281683	active
-active
-281687	middle
-281697	middle
-281703	active
-281714	middle
-281724	active
-281727	active
-281732	active
-281737	active
-281752	active
-281758	active
-281760	passive
-281763	active
-281771	active
-281776	active
-281783	active
-281805	active
-281818	middlepassive
-281823	active
-281827	active
-281832	active
-281837	passive
-281839	passive
-active
-281853	active
-281860	active
-281870	active
-passive
-281894	passive
-281902	active
-281912	active
-active
-281916	active
-281918	active
-281920	middle
-281936	active
-281967	active
-281976	active
-281986	active
-281989	active
-281996	active
-282051	passive
-282055	active
-passive
-282074	middle
-282076	middlepassive
-282082	middlepassive
-282088	active
-282094	active
-282096	passive
-282100	passive
-282105	passive
-282111	active
-282114	active
-282116	middlepassive
-282130	middle
-282133	middle
-active
-282145	active
-282155	active
-282163	passive
-282168	active
-282172	passive
-282175	active
-282180	active
-282193	passive
-282199	passive
-282213	passive
-282221	active
-282223	active
-282232	active
-282245	active
-282256	active
-282262	passive
-282264	passive
-active
-282270	middlepassive
-active
-282287	middle
-282332	active
-282338	passive
-282349	active
-282360	passive
-active
-282376	active
-282403	active
-282412	middle
-282415	active
-282418	passive
-282445	active
-282458	active
-282468	active
-282484	middlepassive
-282491	passive
-282502	active
-282520	active
-282528	passive
-282533	active
-282538	active
-282542	active
-active
-282545	active
-282549	active
-282555	active
-282569	active
-282581	active
-282590	active
-282603	active
-282613	passive
-282636	active
-282644	active
-282651	active
-282656	middle
-282661	active
-282669	active
-282673	passive
-282688	middlepassive
-282697	active
-282701	active
-282705	active
-282709	active
-282713	active
-282721	active
-282725	active
-active
-282728	active
-active
-282732	middlepassive
-active
-282736	active
-active
-282740	active
-282747	active
-282752	active
-282757	middle
-282759	middlepassive
-282769	active
-middle
-282789	active
-282792	active
-282795	active
-282800	passive
-282805	active
-active
-282810	active
-282816	active
-282819	active
-active
-282824	active
-282828	active
-282837	passive
-282844	active
-282858	active
-middle
-282862	active
-282871	active
-282876	passive
-active
-282880	middle
-282891	active
-282894	active
-282897	middle
-282903	active
-282914	active
-282917	middlepassive
-282924	active
-282926	active
-282935	active
-282947	active
-middlepassive
-282956	active
-282961	active
-282970	active
-282973	middle
-282997	active
-283002	active
-283008	active
-active
-283048	active
-283053	active
-283056	active
-283061	active
-283065	active
-283067	active
-283069	active
-283071	active
-283086	passive
-283090	active
-283106	middlepassive
-283117	active
-283128	passive
-283139	active
-283143	active
-283148	active
-middle
-283158	middle
-283172	active
-283186	middle
-283199	middle
-283205	active
-283209	middle
-283218	active
-active
-283223	active
-283225	active
-283227	active
-283230	active
-283232	active
-283236	active
-283238	active
-283240	active
-283246	middle
-283249	active
-283251	active
-283260	active
-283262	active
-passive
-283265	active
-283270	active
-283275	active
-283282	active
-283294	passive
-283296	active
-283301	active
-283304	active
-283306	active
-active
-283315	active
-283318	active
-283320	active
-283329	active
-283333	active
-283337	active
-283341	active
-283344	active
-283348	active
-283352	active
-283355	active
-283359	active
-283365	active
-283367	active
-283372	active
-active
-283377	active
-283388	active
-283396	middle
-283404	passive
-283406	active
-283408	active
-283412	active
-283420	middle
-283433	active
-283440	active
-283443	active
-283447	active
-283454	active
-283456	passive
-283470	middlepassive
-283473	active
-283486	passive
-283491	active
-283499	active
-283504	active
-283506	passive
-283515	active
-283543	active
-283563	active
-283579	active
-283599	active
-283603	active
-283606	active
-283617	active
-283621	active
-283625	active
-283634	active
-283639	active
-283642	middle
-283644	active
-passive
-283660	active
-active
-283674	active
-283678	active
-283685	active
-283702	active
-283705	passive
-283711	active
-283713	active
-283719	passive
-283727	passive
-283747	active
-283760	active
-283765	active
-283780	active
-283795	middle
-283803	middle
-283812	active
-283817	passive
-283827	active
-283842	active
-283847	passive
-283851	middle
-283862	active
-283865	active
-passive
-283877	active
-283887	active
-283897	active
-middle
-283909	middle
-active
-283916	active
-283925	active
-283935	active
-283939	active
-283953	passive
-283971	active
-283973	passive
-283979	middlepassive
-283983	active
-283986	active
-283992	active
-284000	passive
-284010	active
-284021	active
-284030	middle
-284039	passive
-284045	active
-284064	active
-284067	active
-284070	middle
-284110	active
-284120	middlepassive
-middle
-284125	passive
-284134	active
-284137	passive
-middle
-284141	passive
-284148	active
-active
-284152	passive
-284157	active
-284165	active
-284175	active
-284177	active
-284188	middlepassive
-284194	active
-284196	middlepassive
-middle
-284203	passive
-284211	passive
-284214	middlepassive
-284218	active
-284222	active
-284230	middle
-284245	active
-284249	active
-284258	active
-284262	active
-284269	active
-284273	active
-284275	middle
-284282	middle
-284289	active
-284292	middlepassive
-284303	middle
-active
-284327	middle
-284343	passive
-284348	active
-284369	middle
-284374	active
-284383	middle
-284399	active
-284408	active
-284421	middle
-284431	active
-284438	active
-284447	passive
-284452	middle
-284479	active
-284485	active
-284508	middle
-284516	active
-284526	middle
-284530	active
-284534	middle
-284548	active
-284561	active
-284565	middle
-284576	middle
-284594	middle
-284603	middle
-284611	middle
-284618	middle
-284627	active
-284631	middle
-284636	active
-284640	middle
-284647	active
-284651	middle
-284668	middle
-284682	middle
-284705	middle
-284712	middlepassive
-284723	active
-284727	active
-284743	active
-active
-284746	active
-284761	active
-284776	active
-284793	middle
-284798	active
-active
-284803	active
-284824	active
-284851	middlepassive
-284870	middlepassive
-284875	active
-284882	middlepassive
-284896	middlepassive
-284913	middlepassive
-284915	active
-284939	passive
-passive
-284970	passive
-285020	active
-285024	passive
-285038	middle
-285072	active
-285090	passive
-285100	passive
-285121	passive
-285128	passive
-285134	middlepassive
-285149	active
-285175	passive
-285192	active
-285213	active
-285217	active
-285223	active
-285225	passive
-285241	passive
-285260	active
-active
-285268	active
-285271	active
-285282	passive
-285288	passive
-285300	passive
-active
-285306	active
-285315	active
-285324	passive
-active
-285336	active
-285341	active
-285344	active
-285347	active
-285349	middle
-285358	passive
-285377	middlepassive
-285379	active
-285382	passive
-285387	active
-passive
-285390	active
-285406	active
-285420	active
-285443	active
-285455	active
-285468	active
-285470	active
-285475	active
-285479	active
-285482	active
-285485	passive
-285521	active
-285534	active
-285563	middle
-285568	active
-285580	middle
-285585	active
-285599	passive
-middle
-285606	active
-285609	active
-active
-285613	middle
-285627	active
-285633	passive
-285647	passive
-285649	middlepassive
-285653	middlepassive
-285655	active
-285660	active
-285669	active
-285680	active
-285682	active
-285693	passive
-285708	middle
-285747	active
-285761	active
-285787	passive
-285789	active
-285798	passive
-285800	active
-285826	active
-285829	active
-285839	active
-285842	passive
-285846	active
-285850	active
-285858	active
-285860	active
-285865	active
-285869	active
-285883	active
-285896	active
-285926	active
-285946	active
-285959	active
-285966	passive
-285970	active
-285989	active
-285995	middlepassive
-286008	active
-286011	middlepassive
-active
-286015	passive
-286020	active
-286028	passive
-286031	active
-286036	active
-286043	active
-286047	passive
-active
-286066	active
-286071	middlepassive
-286076	middlepassive
-286080	active
-286091	active
-286096	active
-286099	active
-286103	active
-286111	active
-286114	active
-286118	active
-286124	active
-286132	active
-286134	active
-286136	active
-286141	active
-286145	active
-active
-286150	active
-286155	active
-286158	active
-286162	active
-286164	active
-286172	middle
-286183	active
-286191	active
-286202	passive
-286210	active
-286213	active
-286216	active
-286218	active
-286224	middlepassive
-active
-286229	middlepassive
-286231	active
-286237	active
-286257	middle
-286262	active
-286267	passive
-286275	active
-286280	active
-286287	active
-286289	active
-286291	middle
-286298	passive
-passive
-286302	passive
 286310	active
-286315	active
-286327	active
-286337	active
-active
-286352	active
-286354	active
-286358	active
-286361	active
-286363	active
-286375	middle
-286377	middle
-286395	active
 passive
-286399	middlepassive
-286413	active
-286422	active
-286426	middlepassive
-286433	active
-286447	active
-286449	active
-286460	middlepassive
-286474	passive
-286483	passive
-286489	active
-286494	passive
-286504	active
-286508	active
-286514	passive
-286517	active
-286520	active
-286527	active
-286530	active
-286536	active
-286545	active
-286558	middle
-286568	active
-286581	active
-286587	passive
-286596	passive
-286605	active
-286608	active
-286611	active
-286615	active
-286617	middlepassive
-286620	active
-286623	passive
-active
-286626	active
-286630	active
-286632	active
-286634	active
-286640	active
-active
-286651	active
-286657	passive
-286694	active
-286696	active
-286698	active
-286700	passive
-286702	active
-286704	active
-middlepassive
-286711	passive
-active
 passive
-middlepassive
+286510	middle
 passive
+286607	passive
 active
-286724	passive
-286732	active
-286734	active
-286744	active
-286750	active
-286771	active
+286725	active
 active
-286778	middlepassive
-286784	active
-286788	active
-286802	active
-286821	active
-286824	middlepassive
-286830	passive
-286832	middle
-286842	active
-286844	middle
-286851	passive
-286873	active
-286877	active
-286890	passive
-286913	active
-286917	passive
+286747	active
 active
-286922	active
-286924	passive
-286936	active
-286940	active
-286944	active
-286950	active
-286952	active
-286956	middle
-286967	passive
-286987	active
-287005	passive
-287023	active
-287033	active
+286836	active
 active
-287041	active
-287046	active
-287056	passive
-287059	active
-287082	active
-287090	middle
-287113	active
-287120	active
-287123	active
-287126	middle
-287131	passive
+286993	active
 active
-287148	active
-287155	active
-287161	active
-287169	active
+287102	active
 active
-287179	active
-287184	active
-287190	passive
-287205	active
-287213	active
-287219	passive
-287224	active
-287229	active
-287232	active
-287241	active
-287243	passive
-287250	active
-287255	active
-287258	active
-287266	middle
-active
-287282	passive
-287294	active
-287297	active
-287306	passive
-287312	passive
-287315	active
-287317	active
-287323	active
-287330	active
-287332	passive
-287356	active
-287360	active
-287362	middle
-287364	passive
-287366	passive
-287392	active
-287396	active
-287399	active
-287403	passive
-287428	active
-287456	active
-287459	active
-287468	active
-287478	active
-active
-287488	active
-287493	middle
 287496	active
-287499	passive
-287506	active
-middle
-287509	active
-287520	passive
-287527	active
 active
-287537	active
-287544	active
-287547	active
-287555	active
-287558	active
-287576	active
-287578	active
-287584	active
-287586	passive
-287589	active
-287605	active
-287610	middle
-287623	active
-287631	active
-287641	active
-287661	active
-287679	active
-287685	active
-287697	active
-287708	active
-287711	active
-287725	active
-287733	active
-287738	active
-287748	active
-287759	active
-287771	active
-287778	middlepassive
+288585	active
 active
-287782	active
-active
-287785	passive
-287788	active
-active
-287801	passive
-287805	passive
-active
-287812	passive
-287817	active
-287822	active
-287835	active
-287839	active
-active
-287845	active
-287850	active
-287856	active
-active
-287862	active
-287866	passive
-287881	passive
-287902	active
-287906	active
-287912	middle
+288698	middle
 passive
-287915	passive
-287932	active
-287939	active
-287945	active
-287948	active
-287954	active
-287959	active
-287965	active
-287970	active
-287980	middle
+288707	middle
 passive
-287983	passive
-287985	middlepassive
-287989	passive
-287992	passive
-287997	active
-288003	active
-288017	passive
-288021	active
-288023	passive
-288026	active
-288030	middlepassive
-288032	middle
-288034	middle
-288042	passive
-288047	active
-288053	passive
-288056	active
-288059	passive
-288061	middlepassive
-288069	passive
-288074	active
-288088	active
-288091	active
-288094	passive
-288099	active
-active
-288104	active
-288110	active
-288117	active
+289233	middle
 passive
-288121	active
-288123	passive
-288128	active
-288133	active
-288135	active
-288138	active
-288143	active
-288149	active
-288156	middlepassive
-288159	active
-288165	passive
-active
-288174	active
-288178	active
-active
-288182	active
-288185	active
-288188	active
-288191	active
-288194	active
-288197	active
-288200	middlepassive
-288206	middlepassive
-active
-288218	active
-288222	active
-288226	active
-288233	active
-288239	active
-active
-288247	active
-288252	passive
-288264	active
-288271	active
-288283	active
-active
-288291	active
-288306	active
-288311	active
-288327	active
-288335	active
-288337	active
-288341	active
-middlepassive
-288344	active
-active
-288347	active
-active
-288351	active
-288361	active
-288365	active
-288375	active
-288383	active
-288390	active
-288394	active
-288401	active
-288405	active
-288407	active
-288409	passive
-288415	active
-288423	passive
-288428	active
-288430	active
+289241	middle
 passive
-288438	active
-288441	active
-288449	active
-288455	active
-288462	active
-288466	active
-288470	active
-288475	active
-288478	active
+289263	active
+289266	passive
+289540	active
 active
-288482	active
-288484	active
+289968	active
 active
-288489	active
-288494	passive
-288508	active
-288525	active
-288527	passive
-288538	active
-288599	active
-288607	active
+290312	active
+active
+290474	active
 passive
-288613	active
-288620	active
+290611	active
+active
+290891	active
+active
+291030	middle
 passive
-288624	active
+291297	active
+291306	active
 active
 active
-288638	middle
-288645	active
-288648	active
-288653	middlepassive
-288661	active
-passive
-288669	active
-passive
-288673	active
-288688	active
-288691	active
-288698	active
-288705	active
-288709	active
-288713	active
-288722	active
-288736	active
-288738	active
-288741	active
-288750	active
-288758	active
-288765	active
-288770	active
-288782	active
-288793	active
 active
-288798	active
-288800	active
-288802	active
-288805	active
-288809	active
-288834	active
-288837	middlepassive
-288839	middle
-288845	active
-288854	active
-288857	active
-288870	active
-288876	active
-288885	active
-288894	passive
-288896	active
-288899	active
-288904	active
-288913	active
-288918	passive
-288920	active
-288925	active
+291396	active
 active
-288929	active
-288934	active
-288941	active
-288950	active
-288958	active
-288964	middle
-288972	active
-288978	active
-288987	active
-288993	middlepassive
-289001	active
-289006	active
-289010	middlepassive
-289017	active
-289022	active
-289028	active
-289032	middlepassive
-289037	active
-289042	middle
-289050	active
-289058	active
-289061	middle
-289063	active
-289069	middlepassive
-289073	active
-289076	middle
-289081	active
-289083	active
-289088	passive
-289093	active
-289098	middle
-289100	active
-289108	middle
-289121	active
-289127	active
-289132	active
-289134	middle
-289143	active
-289155	active
-289166	active
-289174	active
-289183	active
-289187	middle
-289196	active
-289200	active
-289205	active
-289208	active
-289218	middle
-289220	active
-289226	active
-289229	active
-289232	active
-289237	active
-289239	active
-289244	middlepassive
-289246	middlepassive
-289254	active
-289261	active
-289266	active
-289270	active
-289272	active
-289279	active
-289283	active
-289286	middle
-289288	active
-289291	active
-289306	active
-289314	active
-289322	middle
-289343	active
-289352	active
-289354	active
-289361	active
-289367	active
-289380	active
-289384	passive
-289396	passive
-289401	active
-289408	active
-289411	middlepassive
-289417	passive
+292083	middlepassive
 active
-289422	active
-289424	active
-289426	active
-active
-289429	active
-289434	active
-289436	active
-289444	active
-289452	active
-289459	middle
-289461	active
-289466	active
-289468	middle
-289477	active
-289479	passive
-289496	active
-289499	active
-active
-active
-289503	active
-289507	active
-289518	active
-289520	passive
-289524	middlepassive
-289526	active
-289538	middlepassive
-active
-289544	active
-289552	active
-active
-289556	active
-289565	active
-289569	active
-289581	active
-289592	active
-289602	active
-289614	active
-active
-289625	active
-289634	active
-289637	active
-289641	active
-289646	active
-289650	active
-289656	active
-289658	active
-289666	middlepassive
-289668	middlepassive
-289672	active
-289678	middlepassive
-289682	active
-289688	active
-289695	active
-289697	active
-289701	active
-289703	active
-289707	active
-289712	active
-289725	passive
-active
-289728	active
-289750	active
-289756	active
-middlepassive
-289761	passive
-289763	active
-289765	active
-289775	active
-289778	active
-289780	active
-289786	active
-289793	active
-289813	passive
-289822	active
-289824	passive
-289829	active
-289832	active
-289834	active
-289837	active
-289844	active
-289848	middlepassive
-289863	active
-289865	active
-289878	passive
-289882	middlepassive
-289886	active
-289892	passive
-289895	active
-289900	active
-active
-289904	active
-289916	active
-289936	middlepassive
-289938	active
-289942	active
-active
-289953	middlepassive
-289955	active
-289961	active
-289969	active
-289975	passive
-289979	middle
-289982	middle
-289988	middle
-289990	passive
-middle
-289996	active
-middle
-290006	active
-290014	active
-290017	active
-290031	passive
-290048	active
-290053	active
-290113	active
-active
-active
-290122	middlepassive
-290129	active
-290135	active
-290138	active
-290142	active
-290145	active
-290153	passive
-290158	active
-290160	active
-290166	active
-290177	active
-290179	active
-290193	middlepassive
-290197	middlepassive
-290202	active
-290207	active
-290212	active
-active
-290221	active
-290229	middle
-290233	middlepassive
-290242	active
-290246	active
-290254	active
-290258	active
-290262	active
-290265	active
-290270	active
-290274	active
-290276	active
-290285	active
-290287	active
-290290	active
-290292	active
-290294	active
-290300	active
-290303	active
-290311	active
-290324	passive
-active
-290328	active
-active
-290331	active
-290335	active
-290345	active
-290362	active
-active
-290374	active
-290383	active
-290386	active
-290397	active
-290407	active
-290415	active
-290419	active
-290423	active
-290428	active
-290438	middle
-290450	active
-290461	active
-290468	active
-290471	active
-290473	active
-290476	active
-290478	active
-290480	active
-290495	passive
-290500	active
-290503	passive
-passive
-290511	passive
-290519	passive
-290524	middlepassive
-290528	active
-290530	middlepassive
-290533	active
-290537	active
-290543	middlepassive
-290550	active
-middle
-290560	active
-290562	active
-active
-290567	active
-290579	passive
-passive
-290582	active
-290592	active
-active
-290598	middlepassive
-active
-290613	active
-290624	active
-290635	active
-290643	active
-290652	passive
-290663	active
-290672	passive
-290735	active
-290745	active
-290750	middlepassive
-290757	active
-290762	active
-290774	active
-290777	active
-290800	passive
-290814	passive
-290822	active
-290829	active
-290835	active
-290838	active
-290849	active
-290857	active
-290863	active
-290866	active
-290877	active
-290906	middle
-290921	active
-290924	active
-290944	middlepassive
-290949	active
-290957	active
-290970	active
-290978	active
-290985	active
-290987	active
-290990	active
-290993	active
-291001	active
-291011	active
-291020	active
-291025	active
-291030	passive
-291033	active
-291037	active
-291051	active
-291057	active
-291061	active
-291068	passive
-291070	active
-291078	active
-291091	middle
-291133	active
-291138	active
-291141	active
-active
-291159	active
-291168	active
-291176	active
-active
-291180	active
-291184	active
-291187	active
-291190	active
-291204	active
-291212	active
-291216	active
-291218	active
-291221	active
-291226	active
-291230	active
-291237	passive
-291241	active
-291243	passive
-291247	active
-middlepassive
-291253	active
-291258	middlepassive
-291260	passive
-291262	active
-291264	active
-291269	passive
-291271	middlepassive
-291276	active
-291282	active
-291288	active
-291290	active
-291292	active
-291294	active
-291299	active
-291303	passive
-291306	middle
-291309	passive
-291314	active
-291319	active
-291322	active
-291331	passive
-291333	middle
-291335	active
-291339	active
-291343	middlepassive
-291348	active
-291350	active
-291356	active
-291372	active
-291378	middle
-291381	passive
-291384	active
-291399	active
-291403	active
-291411	active
-291414	active
-291418	active
-291423	active
-291426	active
-291430	active
-291432	active
-291439	active
-291442	active
-291445	active
-291447	active
-active
-291453	active
-291458	active
-291462	active
-291465	active
-291470	active
-291476	active
-291481	active
-291486	active
-291489	active
-291493	active
-291514	active
-291525	active
-291527	passive
-291529	passive
-291532	passive
-291541	active
-291543	middle
-291561	active
-291563	passive
-291565	passive
-291567	middle
-291572	active
-291576	active
-291580	active
-291590	active
-291598	middle
-291600	active
-291604	active
-291616	active
-291627	active
-291629	active
-291632	active
-291634	middlepassive
-291636	active
-291639	middlepassive
-291646	middlepassive
-291654	active
-291657	active
-middle
-291662	middle
-291669	active
-291673	active
-291682	active
-291685	active
-291694	active
-291707	active
-291709	active
-291714	active
-291720	passive
-active
-291730	active
-291735	active
-291744	active
-291749	active
-291760	middlepassive
-291768	active
-291774	middlepassive
-291780	passive
-291791	active
-291800	middle
-291802	active
-291811	active
-291814	active
-291829	active
-291832	active
-291845	active
-291847	active
-291853	active
-291855	middlepassive
-291859	active
-active
-291867	passive
-291871	passive
-291885	middlepassive
-291888	active
-291892	active
-291896	active
-291905	active
-291908	active
-291911	middlepassive
-291914	active
-291916	active
-291918	active
-291920	active
-291922	active
-291927	middlepassive
-291931	active
-291946	active
-291950	active
-291952	active
-291958	active
-291969	active
-291974	active
-291979	passive
-middlepassive
-291984	active
-middlepassive
-291991	active
-291994	active
-291997	passive
-292003	passive
-292006	active
-292033	active
-292036	passive
-292038	active
-292040	passive
-292047	active
-292051	active
-active
-292061	active
-292064	active
-292066	active
-292081	active
-292087	active
-292090	active
-292092	active
-292095	active
-292097	active
-292102	active
-292107	active
-passive
-292113	active
 292115	active
-292118	active
-292120	active
-292129	middlepassive
+292119	passive
+292613	active
+292616	passive
+292828	active
+292835	middlepassive
+293250	active
 active
-292138	middle
-292142	active
-292147	active
-292152	passive
-292156	middle
-292159	active
-292164	active
-active
-292173	active
-292176	active
-292191	passive
-292194	passive
-292209	passive
-292216	passive
-292229	active
-292235	passive
-292237	passive
-292253	passive
-292257	active
-292267	active
-292269	passive
-292272	active
-292284	active
-292286	active
-292300	passive
-292306	active
-292328	active
-292331	active
-292335	passive
-292340	passive
-292342	active
-292353	active
-292360	active
-292363	passive
-292368	passive
-292384	passive
-292394	active
-292401	active
-292407	active
-292412	passive
-292417	passive
-292420	passive
-292425	passive
-292433	active
-292445	passive
-292449	middle
-292462	active
-active
-292469	active
-292473	passive
-292480	passive
-292503	active
-292513	passive
-292543	active
-292553	active
-292563	active
-292566	active
-292570	active
-292586	passive
-292592	active
-292602	active
-292605	passive
-292611	active
-292618	passive
-292631	passive
-292633	active
-292639	active
-292649	active
-292651	passive
-292661	passive
-292664	passive
-292672	active
-292679	active
-292689	active
-292703	active
-292715	passive
-active
-292718	active
-292721	active
-292723	passive
-active
-292731	active
-292735	active
-292741	active
-292746	active
-292748	active
-292751	passive
-292759	middlepassive
-292763	active
-292765	passive
-292768	active
-292771	active
-292777	middle
-active
-292784	active
-292796	active
-292800	active
-292878	active
-292892	passive
-292896	passive
-292900	passive
-292904	passive
-292908	passive
-292912	passive
-292916	passive
-292920	passive
-292925	active
-292929	active
-292935	passive
-middle
-292947	active
-292957	active
-293012	active
-293020	active
-293032	active
-293041	active
-293043	middlepassive
-293051	active
-middle
-293055	active
-293058	passive
-293061	passive
-293077	active
-293083	passive
-293087	passive
-active
-293095	middle
-293103	middle
-293112	middle
-293120	middle
-293123	middle
-293128	passive
+293328	active
+293332	passive
+293535	active
+293541	active
+293970	active
 passive
-293178	active
-293200	middlepassive
-293202	active
-293213	active
-293221	active
-293240	active
-293252	active
-293264	active
-active
-293269	passive
-293273	active
-293276	middlepassive
-293279	middle
-293282	active
-293287	active
-active
-293300	active
-293303	middlepassive
-293307	middle
-middle
-293315	active
-293318	middlepassive
-293323	active
-active
-293327	active
-293331	active
-293334	middlepassive
-293336	active
-293343	active
-active
-293349	active
-293357	active
-active
-293372	active
-293377	middlepassive
-293381	active
-293383	active
-293386	middle
-293396	middlepassive
-293404	active
-active
-293412	active
-293416	middlepassive
-293432	active
-293435	active
-293447	active
-293451	active
-middle
-293455	active
-active
-active
-293463	middlepassive
+294108	active
 passive
-293471	middlepassive
-active
-293476	active
-293483	active
-293496	active
-293502	passive
-293510	active
-293512	active
-active
-293533	active
-active
-293545	active
-293550	middlepassive
-293559	middlepassive
-293579	middlepassive
-293586	middle
-293606	active
-293610	active
-293613	active
-293663	active
-293675	active
-293725	active
-293739	middlepassive
-293741	active
-293755	passive
-293764	active
-293781	active
-293791	passive
-293802	passive
-293811	middle
-293825	active
-293836	active
-293841	active
-293853	active
-293855	active
-293865	middle
-293878	passive
-293880	passive
-293885	active
-293898	active
-293902	active
-active
-293914	active
-293924	middlepassive
-293927	middle
-293931	active
-293936	middle
-active
-293963	passive
-293975	active
-294007	passive
-294021	active
-294026	active
-294029	active
-active
-294036	middle
-294039	active
-294048	active
-294072	middlepassive
-294077	active
-294082	active
-294087	active
-294096	active
-294104	passive
-294112	middlepassive
-294118	middle
-294121	middlepassive
-294125	middlepassive
-294127	active
-294157	active
-294178	passive
-294187	middle
-294196	active
-294229	active
-294238	active
-294243	middle
-294246	active
-294267	middle
-294276	middlepassive
-294279	active
-294285	active
-294293	active
-294303	active
-active
-294318	active
-294322	active
-294328	active
-294333	passive
-294338	active
-294344	active
-294346	active
-294350	active
-294352	active
-active
-294368	active
-294379	active
-294388	passive
-294394	active
-294396	active
-294404	active
-294407	active
-294414	active
-294439	middle
-294441	active
-294449	passive
-294454	active
-294456	active
-294466	active
-294468	active
-294479	active
-294483	middlepassive
-294490	middlepassive
-294493	middlepassive
-294504	passive
-294517	active
-active
-294537	passive
-294542	active
-294551	active
-294560	middle
-294562	active
-294573	active
-294590	active
-294603	active
-294610	passive
-294615	middlepassive
-294645	active
-294650	active
-294674	active
-middle
-294678	active
-294681	active
-294701	active
+294114	active
 passive
-294710	passive
-294712	passive
-294718	passive
-294720	active
-294724	passive
-294728	passive
-294736	active
-294754	active
-294771	active
-middle
-294792	active
-294808	active
-294813	active
-294826	passive
-294828	passive
-294834	middlepassive
+294268	active
 active
-294860	passive
-294872	middle
-294889	active
-294901	passive
-294903	passive
-294916	active
-294921	passive
-294929	active
-294933	active
-294941	middlepassive
-294946	active
-294959	active
-294972	passive
-294974	passive
-295004	active
-295006	passive
-295011	passive
-295018	passive
-295028	middlepassive
-295032	active
-295036	passive
-295047	active
-295061	passive
-295068	middle
-295074	passive
-295090	active
-295097	passive
-295099	active
-295101	middle
-295110	active
-295115	active
-295131	active
-295149	active
+294469	passive
+active
+294512	active
+active
 passive
-295159	middlepassive
-295161	active
+active
+294533	active
 passive
-295175	active
-295187	active
-295204	active
-295213	active
-295231	active
-295236	active
-295238	active
-295266	active
-295286	active
-295298	passive
-295301	passive
+294937	active
+294941	passive
+295391	active
+active
+295608	active
+active
+296040	active
+active
+296140	active
+active
+296469	middlepassive
 middle
-295305	middlepassive
+296998	middle
 passive
-295309	passive
-passive
-295313	middlepassive
-295327	active
-295345	passive
-295350	active
-295354	passive
-295368	passive
-295385	middle
-295393	active
-295407	passive
-active
-295410	active
-295414	active
-295417	active
-active
-295421	active
-295432	active
-295434	active
-295449	active
-295458	active
-295470	active
-295482	passive
-295489	passive
-295514	middlepassive
-295517	active
-295520	passive
-295524	passive
-295527	passive
-295532	passive
-295534	active
-295549	passive
-295554	active
-295571	active
-295582	middle
-active
-295587	middle
-295590	passive
-295595	active
-295601	active
-passive
-295607	active
-middle
-295610	middle
-295612	passive
-295623	middle
-295632	active
-295641	active
-295645	active
-295647	active
-295653	active
-295663	active
-295669	active
-295672	active
-295674	active
-295681	active
-295689	middlepassive
-295691	active
-295693	active
-295696	active
-295702	passive
-active
-295714	middle
-295726	active
-295731	active
-295741	active
-295744	passive
-active
-295756	passive
-295760	active
-295765	active
-295772	active
-295779	middlepassive
-295787	active
-295790	active
-295800	active
-295802	active
-295809	active
-295814	active
-295819	active
-295822	active
-295825	active
-295831	active
-295833	passive
-295842	active
-295848	active
-295856	active
-295869	active
-middle
-active
-295883	active
-295890	active
-295903	active
-295908	active
-295911	middlepassive
-295919	middle
-295934	active
-295939	active
-295943	middlepassive
-295947	passive
-295953	active
-295959	active
-295962	middle
-295969	active
-295972	active
-295984	middle
-295986	active
-295991	active
-295999	active
-296001	middle
-296006	middle
-296016	active
-296020	passive
-296028	active
-296129	passive
-296131	passive
-296133	active
-296135	middle
-active
-296138	passive
-296141	passive
-296143	passive
-296146	active
-296151	active
-296154	active
-296157	active
-296163	active
-296173	passive
-296175	passive
-296179	passive
-296196	active
-passive
-296203	middlepassive
-active
-296249	active
-active
-296252	active
-296257	active
-296262	active
-296264	middle
-296270	middle
-296275	active
-296282	passive
-active
-296288	middle
-296290	middle
-296293	middle
-296300	middle
-296307	active
-296313	active
-296318	active
-296329	active
-296336	active
-296339	active
-296341	active
-296343	active
-296348	active
-active
-296359	active
-296363	active
-296365	active
-296378	passive
-296382	middle
-296397	active
-296403	active
-296414	passive
-296421	active
-296425	active
-296457	passive
-296461	active
-296485	passive
-296489	active
-296497	middlepassive
-296500	middlepassive
-active
-296513	active
-296516	active
-296519	passive
-296522	passive
-296526	passive
-296535	passive
-296554	middlepassive
-296564	middlepassive
-middle
-296574	passive
-296577	middle
-296595	active
-296598	active
-296605	active
-296611	active
-296616	passive
-296621	passive
-296643	passive
-296655	passive
-296664	passive
-296682	middlepassive
-296684	passive
-296691	active
-296706	passive
-296717	active
-middle
-296732	middle
-296734	active
-296739	active
-296743	active
-296755	passive
-296792	active
-296808	active
-296819	middlepassive
-296842	active
-296845	active
-296861	active
-296866	middle
-296869	active
-296885	active
-296916	active
-296921	active
-296941	active
-active
-296959	active
-296961	active
-296969	active
-296975	active
-296979	active
-296985	active
-296990	active
-middle
-297000	active
-active
-297009	active
-297014	active
-297018	active
-297024	middlepassive
-297027	active
-297032	active
-297071	middle
-297080	middle
-297083	passive
-297089	active
-297096	active
-297103	active
-297124	middle
-297127	active
-297129	active
-297133	active
-297164	passive
-297181	passive
-297200	middle
-297205	middle
-297214	passive
-297218	active
-297233	active
+297098	middle
+297102	active
 297242	active
-297248	active
-297305	middle
-297329	active
-297331	active
-297333	active
-297344	middlepassive
-297348	passive
-297358	active
-297362	active
-297379	passive
-297389	active
-297391	passive
 active
-297396	active
-297402	active
-297405	passive
-297409	active
-297420	middle
+297348	middlepassive
 active
-297426	active
-297431	active
-297435	middlepassive
-297441	active
-297455	active
-297459	active
-297462	active
-297470	active
-297473	middle
-297489	active
-297493	active
 297501	active
-297513	active
-active
-297523	passive
-active
-active
-297534	active
-297542	active
-297545	active
-297551	active
-297553	active
-297560	active
-297573	passive
-297580	middlepassive
+297505	passive
 297601	active
-active
-297612	active
-297632	active
-297678	active
-297685	active
-297713	active
-297735	active
-297737	active
-297741	middlepassive
-297745	active
-active
-297751	middlepassive
-active
-297758	middlepassive
-297764	active
-297769	active
-297774	middle
-297798	active
-297804	middle
-297815	active
-297832	active
-active
-297838	passive
-297849	active
-297852	active
-297855	active
-297857	middlepassive
-297876	middle
-297885	active
-297901	passive
-297904	active
-297907	active
-297919	active
-297936	passive
-297938	middlepassive
-297944	active
-297952	active
-297955	active
-297961	active
-active
-297964	active
-297970	active
-297977	active
-297979	active
-297983	active
-297992	middle
-298004	active
-298010	middle
-298020	middlepassive
-298024	active
-298032	active
-298048	middlepassive
-298056	active
+middlepassive
+297759	active
+297764	passive
+297845	active
 passive
-298066	passive
-298084	middle
-298096	middle
-298099	middlepassive
-298103	middlepassive
-298108	active
-298110	active
-298117	active
-active
+297857	active
+297863	passive
+297925	active
+passive
+297998	active
 middlepassive
-298128	middlepassive
-298130	active
-298136	middle
-298145	active
-298149	middlepassive
-298157	active
-298166	passive
-298190	middlepassive
-298194	active
-298197	active
-298202	active
-298205	active
-298212	middle
-298214	middlepassive
-middlepassive
-298218	active
-298241	active
-298250	active
-298252	active
-298255	passive
-298265	middle
-298270	active
-active
-298281	active
-298286	passive
+298028	active
+passive
+298257	active
+298262	active
 298288	active
-298296	active
-298300	active
-298311	active
-298313	active
+298291	middlepassive
+298394	active
+298397	active
+298408	active
 active
-298328	passive
-298346	active
-298351	active
-298354	active
-298356	active
-298358	active
-298364	active
-298370	middlepassive
+299047	active
+active
+299053	active
+active
+299118	active
 passive
-298384	middle
-298399	middle
-298416	passive
-298427	middle
-298436	active
-298440	active
-298442	active
-298449	middle
-298456	middle
-298458	active
-298463	active
-298482	middlepassive
-298489	middle
-298492	middlepassive
-298497	active
-middlepassive
-298503	active
-298506	active
-298509	active
-298512	middle
-298519	active
-298523	active
-298527	active
-298534	active
-298538	active
-active
-298542	active
-298545	active
-298550	active
-298555	active
-active
-active
-298585	active
-298587	passive
-298589	passive
-298591	active
-298598	active
-298676	active
-298679	active
-298681	passive
-298685	passive
-298687	middlepassive
-active
-298696	middle
-298707	active
-298709	active
-298718	middlepassive
-298730	active
-298736	active
-298745	passive
-298752	active
-298758	middlepassive
-active
-298761	active
-298763	middle
-298772	active
-298788	active
-298796	active
-298800	active
-passive
-298811	active
-298828	active
-298832	active
-298834	passive
-298841	active
-298847	active
-298849	active
-298855	middle
-298861	middle
-298871	active
-middle
-298874	middle
-298878	active
-middlepassive
-298886	middle
-298890	active
-298893	active
-298909	passive
-passive
-298921	active
-298924	passive
-298932	active
-298934	active
-298939	active
-298941	active
-298955	passive
-298959	middle
-298966	active
-298978	active
-298998	active
-299001	active
-active
-299006	active
-299009	active
-299013	passive
-299016	active
-299026	active
-299035	passive
-299052	active
-299054	passive
-299069	active
-299071	middle
-299078	middle
-299083	active
-active
-299090	active
-299093	active
-299101	active
-299108	active
-299119	active
-299121	passive
-299132	active
-299134	passive
-active
-299139	active
-299142	active
-299146	active
-299150	active
-299157	active
-299159	active
-299162	active
-299167	active
-299176	active
-299184	active
-299187	middlepassive
-299194	active
-299207	middlepassive
-299211	active
-299214	active
-active
-299218	passive
-299222	active
-299235	active
-299237	active
-299248	active
-299252	active
-299255	active
-299266	active
-299270	middlepassive
-299283	passive
-299287	active
-299289	active
-299291	active
-299296	active
-299299	active
-299308	active
-299315	middle
-299319	active
-299326	active
-299333	active
-299335	active
-299341	passive
-299346	active
+299183	active
+299189	active
 299356	active
-299361	active
-299374	active
-299376	active
-299383	active
-299386	active
-299397	active
-active
-299401	middle
-299405	active
-299407	middlepassive
-299415	active
-299424	passive
-299431	active
-299437	active
-299440	middlepassive
-299453	active
-299457	active
-299461	active
-299464	middlepassive
-299474	active
-active
-299477	active
-299480	middle
-299490	active
-299503	active
 passive
+299625	active
+299627	middle
+299912	active
 passive
-299509	active
-active
-299521	middle
-299525	middle
-299532	middlepassive
-299591	active
-299628	active
-299638	middle
-299647	active
-299676	active
-299680	middlepassive
-299684	active
-299698	active
-299703	active
-299705	active
-299708	active
-active
-299727	middle
-299732	middle
-299735	active
-299737	active
-299741	active
-299745	middle
-299749	active
-299751	active
-299755	active
-299761	active
-299763	active
-299767	active
-299773	middle
-active
-299782	passive
-299788	active
-299798	active
-299801	passive
-299809	active
-299828	active
-299837	active
-299840	active
-299862	active
-299872	active
-299874	active
-299884	active
-299892	active
-299902	middle
-299911	middle
-299916	active
-299930	active
-299936	active
-299946	active
-299950	active
-299953	active
-299967	active
-299980	active
-299982	middle
-299990	middlepassive
-299992	active
-300007	middle
-300009	passive
-300028	active
-active
-300032	active
-300036	middle
-300042	active
-300044	active
-300058	active
-300065	active
-300069	active
-300075	middle
-300081	active
-300092	active
-300098	active
-300100	active
-300110	active
+299932	active
 passive
+299955	active
+active
+300072	active
+active
+300145	active
 passive
-300122	active
+300199	active
 active
-300130	active
-300137	active
-300143	active
-300155	active
-300163	active
-active
-300168	active
-300171	active
-300179	active
-300183	active
-300185	middle
-300188	active
-300190	passive
-300205	active
 300214	active
-300224	active
-300229	passive
-300237	active
-300239	active
-300242	active
-300266	active
-300269	active
-300273	active
-300276	active
-300285	active
-300288	passive
 active
-300294	active
-300304	active
-300307	active
+300313	middle
 active
-300310	active
-300312	middlepassive
-300319	passive
-300332	passive
-300340	active
-300343	active
-300353	active
-300363	active
-300369	active
-300374	active
+300358	active
 active
-300385	active
-300389	passive
-300411	active
-300413	passive
-300433	passive
-300439	active
+300367	active
+active
+active
+middlepassive
+300373	active
+active
+300389	active
 passive
-300444	passive
-300455	middle
-300459	active
-300462	active
-300465	active
-300472	active
-300475	active
-300477	passive
-active
 300482	active
-300491	active
-300498	active
-300509	active
-300512	active
-300518	active
-300535	active
-300543	active
-300550	passive
-passive
-300555	active
+300485	middlepassive
+300501	active
 active
-300568	active
-300577	active
-middle
-300582	middlepassive
-300584	active
-300592	active
-300598	active
-300616	active
-300621	passive
-300626	active
-300637	active
-300639	active
-300648	active
-300655	middle
-300660	passive
-300675	passive
-300690	active
-300694	active
-passive
-300703	active
-300707	passive
-300718	active
-300726	passive
-300740	middle
-300746	active
-300752	active
-300754	middle
-300760	active
-300770	middle
-300776	passive
-300781	middle
-300798	middle
-300811	active
-300821	active
-300826	passive
-300829	active
-300831	middlepassive
-300836	passive
-300847	active
-300868	active
-300872	active
-300875	passive
-300891	active
-300894	active
-300898	active
-300921	middlepassive
-300935	passive
-300939	active
-300944	passive
-passive
-300960	active
-300966	active
-300981	middle
-300984	passive
-300987	middlepassive
+300526	active
 active
-300994	active
-300999	active
-301019	passive
-301021	active
-301026	active
-301033	passive
-passive
-301040	active
-301042	passive
-301050	active
-301058	passive
+300596	active
+300600	active
+300698	active
 active
-301068	active
-301074	active
-301090	passive
-301092	middle
-301094	active
-301099	active
-301104	active
-301113	active
-301128	active
-301133	active
-301144	active
-301146	active
-301151	active
-301156	active
-301173	active
-301185	middle
-passive
-301189	active
-301197	active
-301206	middle
-301210	middle
-301220	active
-301225	active
-301228	active
-301230	active
-301250	active
-301257	active
-301274	active
-301276	active
-301280	active
-301284	active
-301288	passive
-301293	active
-301308	active
+300969	active
+300972	active
+301221	active
 active
-301311	middle
-301318	middlepassive
-301323	active
-301327	middlepassive
-301335	middlepassive
-301339	active
-active
-301350	middle
-301370	active
-301372	active
-301378	middle
-301390	active
-301401	active
-active
-301408	active
-active
-301411	active
-301416	active
-301418	active
-301421	active
-301424	passive
-301435	active
-301445	active
-301449	passive
-301454	active
 301456	active
-301462	active
-301469	middle
-301473	active
-301479	active
-active
-301485	active
+middle
+301468	active
 passive
-301493	active
-301521	passive
-301536	active
-passive
-301540	active
-301554	active
-301556	active
-301564	active
-301570	active
-301577	active
-301593	active
-301595	active
-301599	passive
-301601	passive
-301605	active
+301651	active
 active
-301608	active
-301611	active
-301624	active
-301637	active
-301645	passive
+301841	active
 active
-301657	active
-301661	active
-301675	active
-301695	active
-301708	active
+301932	active
+middle
+301989	middle
 active
-301717	passive
-active
-301721	active
-301725	passive
-301729	active
+302082	active
 middlepassive
-301737	passive
-301740	active
-301746	active
-passive
-301755	passive
-301759	active
-301769	middlepassive
-301778	active
-301787	middle
-active
-301792	active
-301795	passive
-301803	active
-301813	active
-301815	active
-301826	active
-301829	active
-301831	active
-301837	active
-301844	active
-301847	passive
-301849	passive
-301857	active
-301859	middle
-301861	active
-301868	passive
-301889	active
-301902	passive
-301906	active
-301917	active
-301919	active
-active
-301925	passive
-active
-301929	active
-301937	active
-301942	active
-301960	middlepassive
-301965	active
-301967	active
-301971	passive
-301973	active
-301979	active
-301988	active
-302011	active
-302014	active
-302020	active
-302025	active
-302034	active
-302050	active
-302062	active
-302073	active
-302077	active
-302079	middlepassive
-302082	middle
-302084	active
-302088	passive
-302099	active
-302108	active
-302114	passive
-302120	active
-302123	active
-302133	active
 302135	active
-302138	active
-active
-302147	active
-302158	active
-302173	active
-active
-302177	passive
-302182	active
-302189	passive
-302192	passive
-302196	active
-302200	active
+passive
 302203	active
-302216	active
-302220	active
-302231	active
-302239	active
-302241	active
-302246	active
-302248	passive
-302253	active
+passive
+302320	active
+passive
+302393	active
 middlepassive
-302272	active
-302277	active
-302284	active
+302518	active
 active
-302290	active
-302292	passive
-302303	passive
-302308	passive
-302311	active
-302313	active
-302315	passive
-302324	middle
-302328	middle
+302828	active
+passive
+302840	active
+302844	middlepassive
+302941	active
+active
+303297	active
+active
+303404	active
+passive
+303580	active
+active
+303731	active
+active
+passive
+303758	active
+active
+303777	middle
+303785	passive
+303922	active
+active
+304107	active
 middlepassive
-302350	passive
-302357	active
-302371	active
-302394	active
-302411	active
-302447	active
-302487	active
-302505	middle
-302515	active
-302526	active
-302561	active
-302566	passive
-302570	active
-302601	active
-302612	active
-302631	middle
-302646	middle
-302677	passive
-passive
-302687	active
-302702	active
-302712	active
-302724	active
-302745	active
-passive
-302759	active
-302787	active
-302816	middle
-active
-302822	middle
-302849	active
-302861	passive
-302874	active
-302877	active
-302913	active
-302925	active
-302942	active
-302948	active
-302954	active
-302981	passive
-302998	active
-303001	active
-303011	active
-303021	active
-303038	middle
-303041	active
-303056	active
-303086	active
-303104	passive
-303117	active
-303130	middle
-303146	active
-303160	active
-303163	active
-303169	active
-303175	active
-passive
-303178	active
-303180	active
-303191	middle
-303198	middlepassive
-303203	active
-303228	active
-passive
-303251	middle
-303255	active
-303257	passive
-303268	active
-303276	active
-303278	active
-303290	passive
-303295	passive
-303304	active
-303314	passive
-303334	active
-303352	active
-303354	passive
-303367	active
-303374	active
-303387	active
-303409	active
-303414	active
-303425	active
-303428	active
-303445	active
-303453	active
+304156	active
 middle
-303469	active
-303489	active
-303494	active
-303506	passive
-303518	active
-303530	passive
+304201	active
+passive
+304394	active
+304409	active
 active
-303546	passive
-303579	active
-303592	passive
-303601	passive
-303607	active
-303614	middlepassive
+304611	active
 active
-active
-303637	passive
-303647	passive
-303660	active
-303684	passive
-303700	passive
-303721	passive
-303730	middle
-303741	active
-303751	passive
-303766	active
-303768	passive
-303805	active
-303820	active
-303837	middle
-303839	active
-303852	active
-303859	active
-303884	passive
-303886	active
-303900	passive
-303915	active
-303934	passive
-303936	passive
-303938	active
+305021	middle
 middle
-303957	active
-303962	active
-303972	passive
-303986	middlepassive
-303991	active
-303994	middle
-303996	active
-304003	middle
-304037	active
-304049	active
-304054	passive
-304065	middlepassive
-304070	active
+305210	middle
 active
-304097	passive
-304144	passive
-304162	active
+305585	active
 active
-304167	active
-304169	active
-304176	active
-304178	active
-304183	active
-304197	active
-304199	active
-304203	active
-304212	active
-304218	active
-304265	active
-304310	active
-304313	middlepassive
-304315	passive
-304346	active
-304351	active
-304359	active
-304372	passive
-304374	passive
-304402	middle
-304414	active
-304416	middlepassive
-304422	active
-304428	active
-304439	passive
-304443	active
+305855	active
+active
+305920	passive
+active
+305947	active
+active
+306024	active
+active
+306104	active
 passive
-304458	active
-304474	active
-304476	active
-304495	active
-304502	active
-304507	passive
-304509	active
-304516	middle
-304531	passive
-304541	passive
-304553	middle
-304563	passive
-304574	middle
-304578	active
-304589	active
-304593	passive
-304596	active
-304601	active
-304608	active
-304614	active
-304616	active
-304619	active
-middlepassive
-304630	active
-active
-304634	active
-304648	middlepassive
-304661	active
-304664	active
-304667	active
-304681	passive
-304698	passive
-304707	middlepassive
-304715	middlepassive
-304726	middle
-304728	middlepassive
-304740	active
-304750	active
-304753	active
-304780	passive
-304785	active
-304795	active
-304801	active
-active
-304812	active
-304815	active
-304830	active
-304838	middlepassive
-304857	middlepassive
-304861	active
-304875	active
-304893	active
-304895	active
-304902	active
-304916	active
-304920	middlepassive
-304925	active
-304927	active
-304932	passive
-304938	passive
-304943	passive
-304945	active
-304947	active
-active
-304950	active
-304952	active
-304959	active
-304964	active
-304968	active
-304975	middle
-304984	active
-304989	middlepassive
-304992	active
-305003	passive
-305008	active
-305011	passive
-305015	active
-305024	active
-305026	active
-305035	active
-305056	passive
-305077	active
-305105	passive
-305124	active
-305134	active
-305140	active
-305146	active
-active
-305159	active
-305168	active
-305180	active
-305185	active
-305191	active
-305204	active
-305211	active
-305220	active
-305222	active
-305224	active
-305238	active
-305247	active
-305257	passive
-305266	middle
-305281	active
-305284	active
-305310	active
-305318	middlepassive
-305325	active
-305336	active
-305338	active
-305349	active
-305360	middle
-305362	middle
-305374	active
-305381	active
-305393	active
-305430	active
-305444	active
-305452	active
-305458	active
-305461	middle
-305476	active
-305480	active
-305484	active
-305494	active
-305501	active
-305508	passive
-305524	middle
-305535	middlepassive
-305537	active
-305549	active
-305600	active
-305609	passive
-active
-305622	middle
-active
-active
-305626	middle
-305636	middle
-305645	middle
-305663	active
-305674	middle
-305685	passive
-active
-305695	middle
-305705	active
-305716	middlepassive
-305729	active
-305750	passive
-305764	active
-305775	active
-305783	middle
-305785	active
-305787	active
-305790	active
-305800	active
-305802	active
-305819	active
-305829	active
-305836	active
-305867	active
-305896	active
-305919	active
-305954	middle
-305981	active
-305988	middle
-305995	active
-306003	active
-306007	active
-306016	active
-306054	active
-306063	active
-306075	middlepassive
-306086	active
-306097	active
-306100	active
-306102	active
-306111	passive
-306128	active
-306131	middlepassive
-306147	active
-306158	middle
-306183	active
-306190	active
-306199	active
-306219	active
-306225	active
-306234	middlepassive
-306243	active
-306246	middlepassive
-306248	active
-306266	passive
-306271	active
-306274	passive
-active
-306280	middle
-306313	passive
-306325	passive
-306345	active
-306349	active
-306354	active
-306365	middle
-306367	active
+306115	active
 passive
-306378	active
-306382	active
-306387	active
-306394	active
-306404	active
-active
-306407	active
-306409	active
-306432	active
-306462	middlepassive
-306465	active
-306467	active
-306470	active
-active
-306478	active
+306307	middle
+passive
+306377	middle
+passive
 306487	active
-306497	passive
-306504	middlepassive
-306506	active
-306522	passive
-306535	active
-306543	active
-306549	active
-306551	active
-306557	active
-306587	active
-306597	active
-306603	active
-306608	active
-306622	middlepassive
+306493	active
+306704	active
 active
-306630	active
-306639	active
-306655	active
-306658	middle
-306660	active
-306665	active
-306669	active
-306675	middle
-306678	passive
-306681	active
-306683	middle
-306699	active
-306701	middle
-306725	active
-306735	middle
-306752	active
-306785	middlepassive
-306788	active
-306790	active
-306796	active
-306799	active
-306806	active
-306813	middle
-306828	passive
-306832	passive
-306841	active
-306857	active
-306862	active
-306866	passive
-306880	active
-306882	active
-306893	active
-306895	active
-306897	active
-306905	active
-306909	active
-active
-306919	active
-306928	active
-306936	active
-306948	active
-306956	active
-306965	active
-active
-306969	active
-306976	active
-306986	middle
-306989	middle
-307012	active
-307018	active
-active
-307024	active
-307026	active
-307028	active
-307031	active
-307039	active
-307056	active
-307059	active
-307062	active
-307065	passive
-307068	active
-middlepassive
-307085	active
-307097	active
-middle
-307103	active
-307123	active
-307130	active
-307139	active
-307143	active
-307149	active
-307155	active
-307163	active
-307165	middlepassive
-307175	active
-307178	active
-307188	active
-307190	active
-307218	active
-307230	middle
-307234	active
-307238	middlepassive
-307250	middlepassive
-307253	active
-307258	active
-307276	passive
-307278	middlepassive
-307282	active
-307284	passive
-307289	active
-307320	active
-307338	passive
-307346	active
-307360	active
-307363	passive
-active
-307368	active
-307373	passive
-307382	middlepassive
-active
-307390	middlepassive
-307395	middlepassive
-307399	active
-307424	active
-307429	active
-307437	active
-307442	active
-307446	active
-307450	middlepassive
-307453	active
-307456	active
-307458	active
-307463	active
-307466	active
-307471	active
-active
-307513	active
-307523	active
-307529	middlepassive
-307534	active
-307562	middlepassive
-307565	active
-307584	active
-307590	active
-307593	active
-307597	active
-307602	active
-307609	middle
-307617	active
-307641	active
-307647	active
-active
-307654	passive
-307663	active
-307683	passive
-307697	active
-307701	active
-307722	active
-307742	middlepassive
-307745	active
-307747	active
-307749	active
-307751	active
-307756	active
-307765	middle
-307769	passive
-307778	active
-307783	active
-307788	active
-middlepassive
-307796	active
-307799	active
-307803	active
-307805	active
-active
-307808	passive
-active
-307811	active
-307819	passive
-307821	passive
-307823	active
-307825	active
-307827	passive
-307829	active
-307833	active
-307837	active
-active
-307844	active
-307859	active
-307867	active
-307897	active
-307900	active
-307905	active
-307910	active
-307916	active
-307920	active
+306976	middle
+306981	middlepassive
+307061	active
+307065	active
+307132	active
 passive
-middle
-307948	active
-307991	middle
-307999	middlepassive
-308008	middlepassive
-308083	active
-308100	middlepassive
+307136	active
+307144	passive
+307195	middle
 active
-308117	active
-308131	middlepassive
-308139	active
-308153	active
-308168	active
-middle
-308171	passive
-308183	active
-308185	active
-308197	active
-308209	active
+307366	active
+middlepassive
+307391	active
+middlepassive
+307397	active
+active
+307517	active
+middlepassive
+307678	passive
+active
+307711	passive
+active
+307822	active
+307828	active
+307883	active
+307890	middlepassive
+308033	active
+308036	active
+308080	active
+active
+308141	active
+passive
 308223	active
-308245	active
-308247	middle
-308251	middlepassive
-308253	middle
-308255	passive
-308274	active
-308291	active
-308293	passive
-308306	passive
-308328	active
-308333	active
-308354	middlepassive
-308366	active
-308385	active
-308397	active
-308416	passive
-308457	passive
-308460	active
-308471	active
-308474	active
-308486	active
-308496	middle
-308501	active
-308506	active
-308512	active
-308517	active
-308524	active
-308558	active
-passive
-308576	active
-308593	active
-308605	active
-308609	passive
-308614	passive
-308625	active
-308627	passive
-308642	middle
+active
+308271	active
+308280	middlepassive
+308397	passive
+active
 308647	active
-308657	active
-308684	active
-308690	middle
+passive
+308662	active
+308665	active
+308671	active
+passive
+308694	active
+passive
 308703	passive
-308708	active
-308720	passive
-308734	passive
-308741	active
-308745	active
-308766	active
-308781	active
 active
-308787	active
-308797	active
-308809	active
-middlepassive
-308819	middle
-308826	active
-308829	active
-308833	active
-308846	active
-308856	passive
-308862	passive
-308895	active
-308909	active
-308913	middlepassive
-308924	active
-308932	active
+308744	active
 active
-308935	active
-308957	active
-308968	active
+308794	active
+active
+309843	active
 passive
-308971	passive
-308976	passive
-308981	passive
-active
-308986	active
-308990	middle
-308992	active
-309030	active
-309043	active
-309047	passive
-309049	active
-309063	passive
-309089	passive
-309100	passive
-309115	active
-309123	active
-309137	active
-309142	middle
-309149	active
-309162	active
-309168	active
-309174	active
-309179	middle
-309187	active
-309191	active
-309200	active
-309219	active
-309223	active
-309233	active
-active
-309245	active
-active
-309248	passive
-309262	active
-309281	passive
-309283	passive
-active
-309293	active
-309308	active
-309312	passive
-309314	middle
-309316	middle
-309318	active
-309320	active
-309342	active
-309346	active
-309372	passive
-309379	active
-309385	active
-309393	middlepassive
-309397	active
-309406	active
-309414	passive
-309429	passive
-309442	passive
-309446	active
-309469	active
-309474	middlepassive
-309488	active
-309491	active
-309497	middle
-309517	middlepassive
-309521	middle
-309535	middle
-309540	passive
-309549	active
-309553	active
-309571	middle
-309583	passive
-309591	middlepassive
-309594	middlepassive
-309601	active
-309609	middle
-309625	active
-309639	active
-309651	passive
-309659	middlepassive
-309667	active
-309677	active
-309679	active
-309691	active
-309708	active
-309723	active
-309734	middle
-309739	active
-309746	active
-309752	passive
-309759	active
-309769	active
-309777	active
-309785	active
-309789	active
-309812	middlepassive
-309818	active
-309822	middlepassive
-309832	active
-309837	middle
-309849	active
-309852	active
-middle
-309855	active
-309858	active
-309873	middle
-active
-309879	active
-309887	active
-active
-309895	middlepassive
-309906	active
-309913	active
-309925	passive
-309927	active
-309930	active
-309932	active
-309936	active
-309945	middle
-309956	passive
-active
-309959	active
-309964	middlepassive
-309972	active
-309991	active
-310001	active
-310008	active
-310025	active
-310032	active
-310036	middlepassive
-310054	active
-310057	active
-310061	middle
-310066	passive
-310069	active
-310087	passive
-310090	middlepassive
-310103	middlepassive
-310113	passive
-310116	passive
-310126	active
-310130	active
-310149	middlepassive
-310161	middle
-310183	passive
-310190	active
-310201	passive
-310212	active
-310214	active
-310216	active
-310221	active
-310227	active
-310238	active
-310273	active
-310284	middle
-310293	active
-310336	active
-310339	passive
-310357	passive
-310383	active
-310385	passive
-310397	passive
-310402	middle
-310419	middle
-310426	active
-310442	passive
-310477	active
-310481	active
-310483	active
-310490	active
-310494	active
-310500	active
-310511	active
-310514	active
-310518	active
-310530	active
-310538	middlepassive
-310546	middlepassive
-310549	active
-310564	active
-310566	active
-310568	passive
-310570	active
-310574	middle
-310582	active
-310618	passive
-310624	passive
-310629	active
-310633	active
-310637	active
-310651	passive
-310653	active
-310663	active
-310676	middlepassive
-310680	active
-310686	passive
-310696	active
-310703	middlepassive
-310705	active
-active
-310729	passive
-active
-310745	middlepassive
-310750	active
-310754	active
-310780	active
+309983	active
 passive
-310783	active
-310795	active
-310798	middlepassive
-310800	middlepassive
-310804	active
-310811	active
-310829	active
-310835	active
-310847	middle
-310855	active
-310861	middle
-310866	active
-310871	passive
-310881	active
-310895	active
-310920	active
-310928	active
-310932	active
-310938	active
-310943	active
-310945	passive
-310949	active
-310956	active
-310970	passive
-310985	active
-310991	active
-310998	active
-active
-311011	active
-311049	active
-311061	active
-active
+310181	active
 passive
-311069	active
-311095	active
-311098	active
-311108	passive
-311118	active
-311123	middlepassive
-311130	active
+310814	active
 active
-311134	active
-passive
-311138	middle
-311140	active
-311146	active
-active
-311151	active
-311159	active
-311162	active
-311167	middle
-311175	active
-311184	middle
-311197	active
-311204	active
-311206	active
-311215	passive
-311240	active
-311243	active
-311251	middlepassive
-311255	active
-311267	active
-311282	middlepassive
-311286	active
-311293	active
-311320	active
-311334	active
-311336	active
-311358	active
-311402	active
-311405	active
-311412	active
-311418	active
-311420	active
-311422	active
-311426	active
-311428	active
-311430	active
-311435	active
-311445	active
-311456	middle
-311463	active
-311472	middlepassive
-311492	active
-311498	active
-311500	active
-311521	active
-311524	middle
-311527	active
-311541	active
-311544	active
-311551	active
 311572	active
+passive
+311619	active
+311622	active
+312202	active
+passive
+312217	active
+312220	passive
+312559	active
+passive
+312664	active
+middlepassive
+313211	active
 active
-311580	active
-311584	active
-311588	active
-311605	active
-311609	active
-311612	middlepassive
-active
-311615	active
-311620	middlepassive
-311628	active
-311630	active
-311641	active
-311643	active
-311646	active
-311651	passive
-311654	passive
-311663	active
-311667	active
-311670	active
-311672	active
-311679	passive
-311685	active
-311692	active
-311701	active
-311703	passive
-311716	active
-311718	passive
-311739	middle
-311751	middle
-311756	active
-311758	passive
-311763	passive
-311784	middle
-311786	active
-311808	active
-311810	passive
-311814	active
-311825	middlepassive
-311827	active
-311835	middlepassive
-311845	active
-311850	active
-311855	active
-311866	active
-311874	active
-311880	active
-311887	active
-311893	active
-311895	active
-311898	active
-311900	active
-311903	passive
-311905	active
-311909	active
-active
+313399	active
+passive
+313618	active
+313621	passive
+313651	active
+passive
+313853	active
+313859	active
 middle
-311925	middle
-311949	active
-311955	active
-311957	active
-311962	active
-311964	active
-311967	active
-311974	active
-active
-311979	active
-311981	active
-311986	middle
-311992	active
-311995	middlepassive
-312008	active
-312012	active
-312016	active
-312020	middlepassive
-312024	middlepassive
-312028	active
-312032	active
-312040	active
-312046	active
-312055	active
-312057	middlepassive
-312061	active
-312078	active
-312081	active
-312084	active
-312088	active
-312096	middle
-312107	active
-312140	passive
-312143	active
-312147	active
-312149	middlepassive
-312153	middle
-312164	active
-312169	passive
-312225	active
-active
-312237	active
-312239	active
-312246	active
-312269	middlepassive
-312303	middlepassive
-312318	passive
-312331	active
-312337	active
-312339	active
-312345	passive
-312378	active
-312382	active
-312387	active
-312400	active
-312424	active
-passive
-312434	passive
-312440	active
-312442	passive
-312462	middlepassive
-312469	active
-312479	active
-312493	passive
-312527	active
-312557	passive
-312565	passive
-312586	active
-312597	active
-312606	active
-312612	passive
-312628	middlepassive
-312630	passive
-312635	passive
-312650	active
-active
-312654	active
-312657	active
-312660	active
-312665	active
-312670	active
-active
-312675	passive
-312690	middle
-312696	active
-312702	middle
-312705	passive
-312714	active
-312725	active
-312737	active
-312768	middlepassive
-312780	middle
-312784	passive
-312790	active
-312801	active
-312807	passive
-312812	active
-312817	active
-312823	active
-active
-312834	passive
-312839	middle
-312863	active
-312888	active
-312890	active
-312895	passive
-312926	active
-312929	active
-312940	active
-312947	active
-312960	middlepassive
-312973	active
-312975	passive
-312984	passive
-313002	active
-313007	active
-313010	active
-313016	active
-313026	active
-313028	active
-313030	active
-313035	active
-313060	active
-313073	middle
-313082	active
-313091	active
-313097	active
-313099	active
-middlepassive
-313104	active
-313111	active
-313124	middlepassive
-313129	active
-313136	active
-313142	active
-313147	middlepassive
-313152	active
-313157	active
-313163	active
-middlepassive
-313166	active
-active
-313170	active
-313176	middlepassive
-313178	middlepassive
-313183	active
-313185	active
-313195	middlepassive
-313201	active
-313206	active
-active
-313212	active
-313225	middle
-313227	middle
-313230	passive
-313235	middlepassive
-313237	active
-313250	active
-313282	active
-313290	active
-313353	active
-313355	active
-313359	middlepassive
-313364	active
-313367	active
-313369	active
-313377	active
-313396	active
-313414	active
-passive
-313419	active
-active
-313423	active
-313426	active
-313431	middlepassive
-active
-313443	middlepassive
-active
-313450	middlepassive
-313478	active
-313481	middlepassive
-313498	passive
-313501	active
-313503	active
-313515	middle
+313902	active
+313905	active
 middle
-313523	active
-313530	passive
-313532	active
+313951	active
 active
-313537	active
-313572	active
-313579	active
-313583	active
-313589	passive
-313595	middle
-313608	active
-active
-313649	middle
-313658	active
-313664	middle
-313673	active
-313681	middle
-313687	active
-313689	active
-313694	active
-313699	passive
-313701	active
-active
-313707	passive
-313727	active
-313734	active
-313758	active
+314130	active
 passive
-313766	active
-313782	active
-313797	passive
-313803	active
-313805	middlepassive
-313815	middlepassive
-313817	middlepassive
-313826	active
-313847	active
-313864	active
-313867	middlepassive
-313877	active
-313883	active
-313887	active
-313889	active
-313892	active
-313899	passive
-313905	passive
-313910	passive
-313914	active
+314201	active
 passive
-313923	active
-313941	middle
-313945	active
-active
-313952	active
-313978	middle
-313980	active
-313997	active
-313999	active
-314004	middle
-314009	passive
-314014	active
-314018	active
-314024	active
-314035	active
-314052	active
-314056	active
-314073	passive
-314076	active
-314078	active
-314092	active
-314100	middle
-314110	active
-314115	middle
-314131	active
-active
-active
-314140	active
-314142	active
-314144	active
-314150	passive
-314152	active
-314157	active
-314168	active
-314177	passive
-314181	passive
-314185	passive
-314187	passive
-314191	passive
-314195	passive
-314204	active
-314211	middle
-314216	active
-314230	passive
-314236	active
-active
-middle
-314244	active
-314257	active
-314274	passive
+314223	active
 passive
-314285	middle
-314291	middle
-314296	passive
-314311	active
-314320	middlepassive
-active
-314336	active
-314346	active
-314349	active
-314357	active
-314372	active
-314374	middlepassive
-314376	active
-314381	active
-314383	active
-314392	active
-314395	active
-314402	active
-314406	middlepassive
-314426	middlepassive
-active
-314438	active
-314447	passive
-314464	active
-314468	active
-314476	active
-314478	active
-314484	active
-314488	active
-314491	active
-314494	active
-314498	active
-314500	active
-314522	active
-314536	active
-active
-314544	active
-314547	active
-314553	active
-314567	passive
-active
-314573	active
-314586	active
-active
-active
-314592	active
-314595	active
-314607	active
-314611	middle
-314613	active
-314617	passive
-314625	active
-314636	passive
-314638	active
-314640	active
-314645	active
-314647	passive
-active
-314655	active
-314660	middlepassive
-314663	active
-314667	active
-active
-active
-314677	active
-314683	active
-middlepassive
-314698	active
-314701	active
-middlepassive
-314705	active
-active
-active
-314711	active
-314713	middlepassive
-314720	passive
-314730	active
-314732	active
-314736	passive
-314746	active
-314751	active
-314756	passive
-314759	active
-314765	active
-314772	active
-314774	active
-314790	middlepassive
-314802	active
-314806	active
-314814	active
-middlepassive
-314832	active
-314837	active
-314844	active
-314846	active
-314852	active
-314854	active
-314859	middlepassive
-314881	active
-active
-314889	active
-314904	active
+314460	active
 passive
-314907	middlepassive
-314909	active
-314924	middlepassive
-314938	passive
-314943	active
-314946	active
-314949	active
-314952	active
-314955	active
-314962	middlepassive
-314964	active
-314966	active
-314969	active
-314972	middlepassive
-314974	active
-314993	passive
-314995	middlepassive
-314997	active
-315006	middlepassive
-315016	passive
-315022	passive
-315026	active
-315028	active
-315032	active
-315046	active
-315054	active
-315056	middlepassive
-active
-315063	passive
-315066	middlepassive
-active
-active
-315083	active
-315100	active
-315106	middle
+314739	active
 passive
+314996	active
+active
+315075	active
+active
 315115	active
-315127	active
 active
-315136	middlepassive
-315146	middle
-315155	passive
-315157	active
-315168	active
-315175	active
-315183	active
-315193	active
-315218	active
-315231	active
-315236	active
-315241	active
-315245	active
-315248	active
-315253	active
+315135	active
+active
+315179	passive
+active
+315225	active
+active
+315298	active
 middlepassive
-315273	active
-315275	active
-315277	active
-315288	active
-315295	active
-active
-315303	active
-315305	active
+315310	active
 315313	active
-315315	middle
-315327	active
-middle
-315344	middlepassive
-315350	active
-315400	active
-315405	active
-315416	active
-315434	active
-315436	active
+315381	passive
+active
+315565	active
 passive
-315445	passive
-315448	active
-315459	active
-315476	passive
-315489	active
-315491	active
-315500	active
-315517	active
-315533	passive
-315551	active
-315561	active
-315564	active
-315585	passive
-315596	passive
-315613	active
 315618	active
-315631	passive
-315646	active
-315649	middlepassive
 active
-315653	active
-315655	passive
-315658	active
-315664	active
-315674	active
-315676	active
-315682	active
-315699	active
-315706	active
-315710	active
-315713	passive
-315725	active
-315729	active
-315742	active
-315750	passive
-315752	middle
-315757	active
-315760	active
+315709	active
 active
-315766	active
-315783	active
-315786	active
-315792	passive
-315806	active
-315816	middle
-315822	middle
-315826	active
+315917	active
 active
-315837	middle
+315949	active
+active
+316218	middlepassive
+active
+316235	active
+active
+316367	active
 passive
-315848	active
-active
-315853	active
-315856	passive
-315860	active
-315864	active
-315866	active
-315871	active
-active
-315874	active
-active
-315885	active
-315891	passive
-315910	active
-315925	passive
-315930	active
-315941	active
-315959	active
-315961	active
-315963	active
-315965	active
-315967	middle
-315969	middle
-315972	active
-315975	active
-middle
-315980	middlepassive
-315982	active
-middlepassive
-315990	active
-316001	active
-active
-316006	active
-316014	active
-316028	middle
-316034	active
-316046	active
-316048	active
-316058	active
-active
-316062	active
-316064	active
-316080	active
-active
-316087	active
-316090	active
-316093	active
-316100	active
-316113	active
-316141	active
-316146	middle
-316155	passive
-316168	passive
-316175	active
-active
-316185	middle
-316202	middlepassive
-active
-316205	active
-316212	active
-middlepassive
-316217	active
-316226	active
-316228	middle
-316231	active
-316243	active
-316253	passive
-316266	active
-316273	middle
-316277	middle
-316300	passive
-316305	active
-316315	middlepassive
-316319	middle
-316324	active
-316326	active
-316333	active
-316337	passive
-316339	passive
-316344	active
-316352	active
-middlepassive
-316361	active
-316366	middle
-316373	passive
-316386	active
-316397	middle
-316405	middle
-316408	active
-316440	middle
-316453	active
-316459	middlepassive
-316469	active
-active
-316476	passive
-316483	active
-316489	active
-316491	passive
-316494	active
-316498	active
-316500	passive
-active
-316505	active
-316514	active
-316516	middlepassive
-316518	active
-316557	active
-316572	passive
-middlepassive
-316583	active
-active
-active
-316600	active
-316604	active
-316608	active
-active
-active
-316618	middle
-316625	active
-316628	middle
-316638	active
-316640	passive
-316654	active
-316661	passive
-316664	active
-316668	active
-316671	active
-316678	active
-316682	passive
+316423	active
+passive
 316693	active
-316699	middlepassive
-316703	active
-316707	active
-316709	middlepassive
-316719	active
-316747	active
-316753	active
+316697	active
+317078	active
 active
-316762	active
-active
-316770	passive
-316783	active
-316789	active
-active
-316794	active
-316803	active
-316811	active
-316818	middlepassive
-active
-316837	middle
-active
-316854	middle
-316857	active
-316874	middle
-316878	active
-316881	passive
-316887	active
-316889	active
-316898	passive
-316900	active
-316907	passive
-316913	middle
-316926	active
-316952	middle
-316963	active
-316969	active
-316973	active
-active
-316978	active
-middlepassive
-317043	middle
-317054	active
-317068	passive
-317108	active
-317115	active
-middle
-317118	active
-317126	middle
-317129	active
-317139	active
-317149	active
-317156	active
-317183	middlepassive
 317197	active
-317199	active
-317206	active
-317209	active
+317200	passive
+317633	active
+active
+317755	active
+active
+317780	active
+317784	active
+passive
+active
+317875	middle
+active
+317915	active
+active
+318084	active
+318087	active
 active
 active
-317228	active
-active
-317234	active
-active
-317238	active
-317244	active
-317269	active
-317276	active
-317280	active
-317287	active
-317296	middle
-317308	passive
-317314	passive
-317326	active
-active
-317332	middlepassive
-317334	active
-317349	active
-317351	active
-317355	active
-317359	active
-317362	active
-317385	passive
-317388	active
-317393	active
-317399	passive
-317414	passive
-317419	active
-active
-317425	middle
-317449	passive
-317452	active
-active
-317462	middle
-317467	active
-317469	active
-317471	middle
-317477	middle
-317491	active
-317495	passive
-317509	active
-317512	middle
-317527	active
-317535	middlepassive
-317559	active
-317565	middle
-317573	active
-317584	active
-317586	active
-317588	active
-317596	active
-active
-317601	middle
-active
-317611	active
-317613	active
-317615	active
-317619	middle
-317626	active
-317634	passive
-active
-317646	active
-317648	active
-317660	passive
-317677	active
-317687	active
-317701	active
-317716	passive
-317723	passive
-317739	middlepassive
-317741	middlepassive
-317743	active
-317747	middle
-317749	active
-317752	active
-317771	middle
-active
-317787	middlepassive
-active
-317790	passive
-317795	active
-active
-317799	active
-317806	active
-active
-317816	active
-active
-317825	active
-317829	active
-active
-317840	middle
-317850	active
-317852	middlepassive
-317861	middle
-317863	active
-317930	active
-317940	middle
-317948	active
-317959	active
-317985	middle
-318005	active
-318023	passive
-318036	active
-active
-318040	active
-318047	active
-318049	active
-318062	active
-318073	active
-318098	active
-318102	active
-318110	middlepassive
-318114	active
-318120	active
-318139	active
-active
-318153	active
-318163	passive
-318170	active
-318200	active
-318202	middle
-318209	active
-318212	active
-318215	active
-318218	active
-318225	active
-318228	active
-318235	active
-318240	middle
-318244	active
 318253	active
-318259	active
-318261	active
-318268	active
+318256	middlepassive
+middlepassive
+318265	active
 active
-318274	active
-318277	active
-318287	passive
-318289	middlepassive
-318334	active
-318352	active
-318358	active
-318366	active
-318371	active
-318385	active
-318404	middle
+318495	active
 active
-318418	middle
-318428	active
-318433	active
-318441	active
-318445	active
-318450	middle
-318457	middle
-318465	active
-318474	active
-318476	active
-318490	active
-318492	active
-318546	active
-318549	active
-318554	active
-318583	active
-318592	active
-318597	middle
-318600	active
-318605	passive
-318609	active
-318614	passive
-318620	active
-318628	active
-318637	active
-318639	middlepassive
-318647	active
-318662	active
-318670	passive
-318674	active
+318594	active
 active
-318680	active
-318682	active
-318685	passive
-318688	passive
-318697	passive
-318699	middle
-318707	active
-318713	middle
-318716	active
-318720	active
-passive
-318730	active
-318734	passive
+318619	passive
+middlepassive
+318638	middle
+318641	middlepassive
+318758	active
 active
-318763	active
-318768	active
-318772	active
-middle
-318777	active
-318779	active
-318782	middlepassive
-318789	middlepassive
-318791	active
-318802	active
-318805	active
-318817	active
-318823	active
-318830	active
-318835	passive
-318844	passive
-active
-318859	passive
-318867	middle
-318869	active
+318858	middle
+318862	middlepassive
 318891	active
-318904	active
-318908	active
-318911	passive
-318923	middlepassive
-318926	active
 active
-active
-318944	active
-318950	middle
-active
-318957	middle
-318965	active
-318974	active
-318982	active
-318992	active
-318998	active
-319003	active
-319008	active
-319019	active
-319022	active
-319028	middlepassive
-319033	middlepassive
-319035	active
-319042	passive
-319046	middle
-319060	passive
-319072	active
-319074	passive
+319172	active
 middlepassive
-319077	passive
-active
-319088	active
-319103	active
-319105	active
-319128	passive
-319135	active
-319140	active
-319146	passive
-319153	active
-319176	passive
-319192	active
-319210	active
-319213	active
-319228	active
-319230	active
-319257	active
-319267	active
-319277	active
-319284	active
-319286	passive
-319293	active
-319300	active
-319309	middle
-319317	active
-319321	middle
+319187	active
+319190	passive
+319279	active
+passive
+middlepassive
 319335	active
-319340	active
-319342	active
-319355	passive
-319358	passive
-319375	active
-319388	active
-319392	passive
-319400	active
-319402	active
-319416	active
 active
-319423	active
-319432	active
-319438	active
-319444	active
-319452	active
-319454	middle
-319465	active
-319467	active
-319470	passive
-active
-319475	passive
-319479	passive
-319481	active
-319489	active
-319495	active
-319499	active
+319382	active
 passive
-319505	active
-319515	passive
-319520	active
-middlepassive
-319529	active
-319531	active
-319533	active
-319542	middle
-319559	passive
-active
-319570	active
-319598	middle
-319608	passive
-319610	active
-319617	passive
-319619	active
-319626	active
-319632	active
-319639	passive
-319647	active
-319649	active
-319659	active
-319666	active
-319672	passive
-319683	active
-319694	active
-319711	active
-319713	active
-319732	active
-319736	active
-319758	middlepassive
-319780	active
-319790	passive
-319803	active
-319809	active
-319821	active
-319828	active
-319831	middlepassive
-active
-319838	passive
-319849	middlepassive
-319862	active
-319866	active
-319880	passive
-319884	passive
-319893	active
-319901	active
-middlepassive
-319904	active
-319906	passive
-319911	middlepassive
-319917	active
-319930	active
-319938	active
-319943	passive
-319961	active
+319884	active
 passive
-319966	active
-319973	active
-319977	active
-319985	active
-320019	middlepassive
+319944	active
 active
-320032	active
-320034	passive
-320041	active
-320043	active
-320047	active
-320052	passive
+319989	active
+active
+320000	middle
+active
+320170	active
+passive
+320544	active
 middle
-320057	active
-320064	passive
-320089	active
-320092	active
-320098	active
+320689	active
 active
-320109	active
-320111	active
-320130	active
-320133	active
-320144	active
-320153	active
-320156	active
-320171	passive
+320715	active
+320720	active
+320824	middlepassive
 active
-320182	active
-320199	passive
-320204	middle
-320234	active
-320236	active
-320244	passive
+320995	active
 middle
-320257	passive
-320264	middle
-320272	active
-320275	active
-320277	active
-320281	active
-320291	active
-320295	active
-320302	middlepassive
-320306	active
-320315	passive
+321120	active
 active
-320323	active
-320341	passive
-320351	passive
-320356	active
-320363	middle
-320374	middle
-320382	active
-320387	active
-active
-320397	middle
-320414	middle
-320424	active
-320432	middle
-320441	active
-320443	active
-active
-320448	active
-320451	active
-active
-320455	active
-active
-320460	active
-active
-320472	active
-320490	middlepassive
-320494	active
-320511	active
-320525	middle
-320530	active
-320532	active
-active
-320537	middlepassive
-320545	active
-320554	middlepassive
-320569	active
-320579	middle
-320603	active
-320605	active
-320616	active
-320625	active
-320629	passive
-320641	active
-320657	active
+321291	active
 passive
-320667	active
-320674	active
-320681	active
-320703	active
-320705	active
 active
-320716	active
-320723	active
-320734	passive
-320738	active
-320742	active
-320746	active
-320761	passive
-320767	active
-320769	active
-320772	passive
-320774	active
-320778	active
-320787	active
+321443	active
+active
+321606	active
 passive
-320800	active
-320802	active
-320816	active
-320824	passive
-320837	middle
-320848	passive
+321614	active
+active
+321716	middlepassive
+active
+321723	passive
+active
+321797	active
+321804	active
+321846	middle
+active
+321871	active
+active
+321930	active
+active
+322000	active
+322003	passive
+322047	active
+active
+322161	active
 passive
-320862	middlepassive
-320867	passive
-320872	active
-320877	active
-320887	active
-320903	active
-320909	active
-320918	middle
-320931	active
-320940	passive
-320961	middlepassive
-320963	active
-320976	active
-320989	active
-321008	active
-321010	active
-321019	active
-321023	active
-321027	passive
-321044	active
-321053	active
+322205	passive
 active
-321060	passive
-active
-321067	active
-321075	active
-321081	active
-321087	middlepassive
-321089	middlepassive
-321097	active
-321101	active
-321110	active
-321116	passive
-321127	middle
-321130	active
-321149	active
-321158	active
-321161	active
-321167	active
-321169	active
-321192	passive
-321199	passive
-321202	active
-321205	active
-321236	active
-321250	active
-321255	passive
-321258	active
-321264	active
-321268	active
-321274	active
-321276	active
-321278	active
-321290	active
-321295	passive
-321297	active
-active
-321302	active
-321304	active
-active
-321313	passive
-321324	active
-321331	active
-321340	passive
-321348	active
-321354	passive
-321356	middlepassive
-321359	active
-middle
-321362	middlepassive
-active
-321366	active
-321392	active
-321401	middle
-321408	active
-321418	active
-321427	active
-321429	active
-321437	middle
-321450	active
-321452	active
-321469	active
-321472	middle
-321479	middle
-321488	active
-321502	active
-active
-321509	active
-321521	middle
-321536	passive
-321541	active
-321543	active
-321550	passive
-321552	active
-321556	active
-321576	passive
-321600	passive
-321613	passive
-321619	active
-321630	passive
-321640	active
-321651	active
-321668	active
-321676	active
-321678	active
-321685	passive
-321697	active
-321704	active
-321726	active
-321739	active
-321748	passive
-321762	active
-321772	active
-321780	passive
-321782	middlepassive
-321786	active
-321788	active
-321808	middlepassive
-321811	middle
-321817	middle
-321833	active
-321856	active
-321866	middle
-321880	active
-321882	passive
-active
-321910	active
-321915	active
-321929	active
-321932	active
-321942	active
-321945	middle
-321965	active
-321967	passive
-321979	passive
-321981	middle
-321991	active
-321993	active
-321995	middle
-322004	passive
-passive
-322023	active
-322056	active
-active
-322067	middle
-322093	active
-322100	passive
-322111	middlepassive
-322128	passive
-322148	active
-322165	passive
-322179	active
-322185	middlepassive
-322200	active
-322203	active
-322233	passive
-322238	middlepassive
-322243	active
-322256	passive
-322262	active
-322270	passive
-322273	middlepassive
-322280	active
-322287	active
-322309	active
-322316	middlepassive
-322318	middlepassive
-active
-322323	middle
-passive
-322329	active
-322335	active
-322337	passive
-322355	active
-322358	middlepassive
-322364	active
-322369	active
-322372	middle
-322380	active
-322382	active
-middle
-active
-322390	passive
-322395	active
-322405	active
-322417	active
-322419	active
-322424	passive
-322426	active
-middle
-active
-322430	active
-322436	active
-322444	active
-322451	passive
-active
-322471	active
 322475	active
-322482	active
-322486	middlepassive
+middlepassive
+322757	active
 active
-322496	active
-322503	active
-322514	middlepassive
-322516	passive
-322533	active
-322540	passive
+322806	active
 active
-322557	active
-322563	middle
-322574	active
-322576	active
-322594	active
-322611	passive
-322624	active
-322646	active
-322652	active
-322659	active
-322678	middlepassive
-322689	passive
-322699	passive
-322706	active
-322718	middle
-322720	active
-322732	active
-322742	active
-322748	active
+322929	active
 active
-322755	active
-322760	active
-322772	passive
-322787	active
+323036	active
 active
-322792	active
-322807	active
-322809	active
-322812	passive
-322822	active
-322832	middle
-322836	passive
-322845	active
-active
-322849	active
-322853	active
-322856	active
-322865	active
-322872	active
-middle
-322883	passive
-322888	active
-322896	passive
-322903	passive
-passive
-322911	active
-322920	active
-322925	middle
+323059	middle
 active
 active
-322933	active
-322935	active
-322943	active
-322950	active
-322960	active
-middle
-322972	middlepassive
+323076	middle
+323144	active
 active
-322976	active
-322986	middle
-322989	middle
-322991	active
-323003	active
-323017	active
-323021	passive
-323028	passive
-323033	passive
-323038	active
-passive
-323052	middlepassive
-323054	passive
-active
-323065	active
-323072	passive
-active
-323075	active
-323090	active
-323092	active
-323095	passive
-323098	active
-323102	passive
-323104	active
-323115	passive
-active
-323125	active
-active
-323128	active
-323130	middlepassive
-323135	active
-323138	active
-323141	middlepassive
-323143	passive
-323149	passive
-passive
-active
-323165	active
-323178	middle
-323181	passive
-323183	active
-active
-323189	active
-active
-323195	active
-323197	middlepassive
-323199	middlepassive
-323201	active
-323215	active
-323232	middlepassive
-323240	active
-323262	active
-323272	middle
-323274	middle
-323281	passive
-323285	passive
-323319	active
-323324	middle
-323331	active
-323333	middle
-323335	active
-323340	active
-323349	active
-active
-323353	active
-323358	active
-323362	active
+323278	active
 active
 323366	active
-323370	middle
-323372	active
-323376	middlepassive
-323383	passive
-323385	active
-323390	active
-323395	passive
-323400	active
-323405	middle
-323409	passive
-323414	passive
-323417	middle
-323424	active
-323436	middle
-323442	active
 active
-323454	active
-323462	active
-323464	active
-323478	active
-323490	active
-323499	middle
-323502	passive
-passive
-323513	active
-323520	passive
-323531	middle
-middle
-passive
-323540	middle
-middlepassive
-323551	active
-323558	middle
-323571	active
-323579	active
-323582	passive
-323595	active
+323660	active
 active
-323598	active
-323613	active
-323617	active
-323620	active
-323636	active
-323640	passive
-323647	active
-passive
-323660	middle
-323662	active
-middle
-323673	active
+323834	active
+323839	active
+324294	active
+324297	passive
+324942	active
 active
-323677	middlepassive
-323699	middle
-323701	middle
-323703	active
-323705	active
-323709	active
-323713	active
-323717	passive
-323721	passive
-323728	active
-323730	active
-323742	passive
-323744	middle
-323752	active
-323760	active
-323767	passive
-passive
-passive
-323775	active
+325282	active
 active
-323785	passive
-passive
-passive
-323790	active
-323798	passive
-323815	passive
-323822	middle
-323835	middle
-323841	passive
-323848	active
-323850	middlepassive
-323857	middle
-323868	active
-323872	middlepassive
-323875	active
-323894	middlepassive
-323897	active
-323900	active
-323913	active
-middle
-323919	active
-323933	active
-323939	passive
-323944	active
-323950	middlepassive
-323952	passive
-323960	middlepassive
-323965	active
-323970	passive
-323974	passive
-323977	active
-323979	active
+325328	middle
 active
-323986	middlepassive
-323990	active
-323994	passive
-324003	active
-324009	active
-324014	active
-324022	active
-324034	active
-324037	passive
-324042	passive
-324051	active
-324063	active
-324065	active
-324071	active
-324075	active
-324089	active
-324091	active
-324093	active
-324106	passive
+327137	active
 active
-324113	passive
-324119	passive
-324121	active
-324126	active
-324137	passive
-passive
-324142	active
-324154	middle
-324158	active
-324161	active
-324178	active
+327537	active
 active
-324184	passive
-324203	middle
-324209	active
-324214	active
+328249	passive
 active
-324219	passive
-324225	active
-324230	active
-324234	active
-passive
-324238	passive
-324256	active
-middle
-324259	passive
-324263	active
-324266	passive
-324269	active
-324273	passive
-324277	active
-324279	passive
-324281	active
-324283	active
-324287	active
-324295	active
-324309	passive
-324323	passive
-324337	active
-324343	active
-324345	middle
-324347	active
-324353	active
-324357	middle
-324359	active
-324370	middle
-324379	active
-324383	middlepassive
-active
-324389	active
-324408	active
-324413	passive
-324417	passive
-324419	active
-324422	passive
-324427	active
-active
-324433	active
-324453	active
-324457	active
-324462	middlepassive
-324467	active
-324469	active
-324471	middlepassive
-324476	passive
-324478	passive
-324483	active
-324503	active
-324511	passive
-324513	active
-324516	active
-324521	active
-324527	active
-324529	active
-324531	active
-324536	passive
-324538	active
-324541	active
-324545	middlepassive
-324548	active
-324559	active
-324567	middlepassive
-324591	passive
-324595	passive
-324606	passive
-324608	active
-active
-324614	active
-324616	active
-324622	active
-324627	passive
-324650	passive
-324661	active
-324677	active
-324679	middlepassive
-324693	active
-324696	active
-324699	active
-324703	active
-active
-324709	active
-324720	active
-324725	active
-324738	middlepassive
-324743	passive
-324747	middle
-324751	middlepassive
-324754	active
-324757	active
-324767	active
-324773	active
-324776	active
-324781	middlepassive
-324785	passive
-324791	active
-324796	active
-passive
-324800	active
-324802	active
-324805	passive
-324816	active
-324844	active
-324854	active
-324860	active
-324888	active
-324892	middlepassive
-324906	active
-324908	active
-324915	passive
-324921	middlepassive
-middle
-324924	middle
-324930	middlepassive
-324938	middlepassive
-324975	active
-324979	middle
-324986	active
-324988	active
-324999	middlepassive
-325008	active
-325010	active
-325017	passive
-325023	passive
-325025	active
-325031	active
-325037	active
-325039	passive
-325041	active
-325047	middle
-325050	middle
-active
-325056	passive
-325058	passive
-325061	middlepassive
-325068	middle
-325088	middlepassive
-325120	middle
-active
-325132	active
-325142	active
-325153	middle
-325167	passive
-325171	active
-325175	middle
-middle
-325185	middle
-325187	active
-325190	passive
-active
-325196	passive
-325202	active
-325204	active
-325210	passive
-325218	passive
-325220	passive
-325225	active
-active
-325232	passive
-active
-325236	passive
-325254	active
-active
-325269	active
-325275	passive
-active
-325284	active
-325295	active
-325301	active
-325310	active
-325315	active
-325328	middlepassive
-325330	middle
-325341	middle
-325348	middlepassive
-active
-325355	middlepassive
-325364	middlepassive
-325372	active
-325377	active
-325380	active
-325393	active
-325397	active
-325400	middle
-325402	active
-325405	active
-325417	active
-325422	middle
-325436	middle
-325439	active
-325441	active
-325443	active
-325448	active
-325472	active
-middlepassive
-325486	active
-325499	active
-325517	active
-325532	active
-325543	active
-325548	active
-325557	active
-325559	middlepassive
-325566	active
-325568	active
-325571	middlepassive
-325580	passive
-325585	middle
-325591	active
-325601	middle
-325621	middle
-325623	active
-325627	active
-325635	active
-325639	active
-325646	active
-325653	passive
-325661	active
-325668	active
-325677	active
-325680	active
-325682	middlepassive
-passive
-325698	active
-active
-325704	active
-325710	active
-325712	active
-active
-325716	active
-325720	active
-active
-325723	active
-325728	active
-325731	active
-325738	active
-passive
-325747	active
-325749	middlepassive
-325761	active
-325763	active
-325767	active
-325769	middlepassive
-325773	active
-325780	active
-325782	passive
-325788	active
-325796	active
-325800	middlepassive
-325802	passive
-325804	active
-325826	active
-325829	active
-325834	active
-325838	active
-325841	active
-active
-325856	active
-325868	active
-325871	active
-325876	active
-325882	active
-325884	active
-active
-325887	active
-325903	active
-325914	passive
-active
-325927	active
-325932	active
-325947	passive
-325949	passive
-325954	active
-active
-325962	passive
-325971	passive
-active
-325977	passive
-325998	passive
-middle
-326007	active
-326017	active
-326027	active
-326031	middlepassive
-326035	active
-326040	middle
-326043	active
-326051	active
-326058	active
-326080	active
-326084	passive
-326096	active
-middle
-326104	active
-326111	passive
-passive
-326124	active
-middlepassive
-326135	active
-326138	active
-middle
-326146	active
-326162	passive
-326171	active
-326178	active
-326187	passive
-326206	passive
-326208	passive
-326222	active
-middlepassive
-326235	active
-326245	middlepassive
-326255	active
-326263	middlepassive
-326268	active
-326274	middlepassive
-326286	active
-326295	middlepassive
-326301	active
-326309	active
-326318	active
-326341	active
-326352	middlepassive
-326354	middlepassive
-326361	active
-326368	middlepassive
-326395	active
-326416	passive
-326418	active
-326439	middle
-326447	active
-326450	active
-active
-326453	active
-326456	middlepassive
-active
-middlepassive
-326460	active
-326462	active
-326467	middle
-326469	active
-326472	active
-326475	middle
-326484	active
-326487	active
-326501	active
-326505	passive
-326508	active
-326517	passive
-326519	active
-326525	active
-326529	active
-326534	active
-326541	active
-326544	active
-326549	middle
-326552	active
-326554	passive
-326559	active
-326565	middle
-326569	active
-326574	active
-326576	active
-326580	active
-326583	active
-326585	active
-326587	active
-326596	passive
-326604	passive
-326609	active
-326612	active
-326616	active
-326619	active
-326625	active
-326628	active
-326633	active
-326635	active
-326642	active
-326647	middlepassive
-active
-326650	active
-326654	active
-326656	active
-326660	active
-326663	active
-326667	middle
-326676	active
-326680	middle
-326682	active
-326685	middlepassive
-326697	active
-326702	middlepassive
-326706	passive
-326710	active
-326716	active
-326718	active
-326720	active
-326726	middlepassive
-326740	active
-active
-326744	active
-326747	active
-326750	active
-active
-326756	active
-active
-326766	middlepassive
-326772	active
-326780	active
-326790	passive
-326801	middle
-326803	middle
-326812	active
-326818	middle
-326827	active
-326834	passive
-326838	active
-326845	active
-326855	active
-active
-326863	active
-active
-326875	active
-active
-326881	middle
-326883	active
-326895	middle
-326899	middlepassive
-326909	active
-326914	active
-326918	active
-326922	active
-326936	active
-326938	active
-326945	passive
-middle
-326955	active
-326958	active
-326971	active
-326979	middle
-active
-326982	active
-326988	active
-326995	active
-326998	active
-327012	active
-327026	active
-327044	active
-active
-327051	middlepassive
-active
-327054	active
-active
-327061	middle
-327070	middle
-327074	active
-327093	active
-327095	active
-327097	active
-327105	active
-active
-passive
-327109	middle
-327116	middlepassive
-327121	passive
-327123	active
-327127	middle
-327131	active
-327137	middle
-327140	active
-327143	active
-327158	middle
-327164	active
-327169	active
-327184	passive
-327191	active
-327194	active
-327197	active
-327206	active
-327214	active
-327261	passive
-327286	active
-327292	active
-327313	passive
-327326	passive
-327335	passive
-327344	middlepassive
-327348	active
-passive
-327370	middle
-327375	passive
-passive
-327392	active
-active
-327399	active
-active
-327402	middlepassive
-327407	passive
-middle
-327424	active
-327426	active
-327438	active
-active
-327447	active
-327457	middlepassive
-327474	passive
-327480	active
-327484	passive
-327489	middle
-327497	passive
-327504	active
-327506	active
-327508	middle
-327518	active
-327520	active
-327526	passive
-327540	middlepassive
-327560	active
-327572	passive
-327574	passive
-327576	middle
-327583	middle
-327586	active
-327606	passive
-active
-327615	passive
-327639	passive
-327646	passive
-327670	active
-327678	active
-327687	active
-327696	active
-327715	active
-327717	passive
-327731	active
-327734	active
-327753	passive
-327761	active
-327768	active
-327776	active
-327781	passive
-327785	middle
-327814	active
-327819	passive
-327824	middle
-327833	middlepassive
-327837	active
-327842	passive
-327857	active
-passive
-327867	active
-327879	active
-327883	middle
-active
-327897	active
-327904	passive
-327911	active
-active
-327916	active
-327918	active
-327920	passive
-327935	active
-327939	active
-327944	passive
-327966	active
-327972	active
-327993	passive
-327996	passive
-327998	active
-328004	middle
-328011	middle
-328027	active
-328033	active
-328044	active
-active
-328054	passive
-328070	active
-328077	passive
-328089	active
-328097	active
-active
-328115	active
-328128	active
-328132	active
-328136	middlepassive
-328140	active
-328144	passive
-328176	active
-328179	active
-328185	active
-328187	passive
-active
-328191	active
-328193	active
-active
-328204	passive
-328209	active
-328214	active
-328217	active
-328226	active
-328228	passive
-328238	passive
-328240	active
-active
-328243	active
-active
-328247	active
-328257	active
-328274	middle
-328278	active
-328284	passive
-active
-328291	passive
-328293	passive
-328310	passive
-328321	active
-328337	passive
-active
-328351	active
-328395	active
 328413	active
-328417	active
-328419	passive
-328427	active
-328433	active
-328436	passive
-328438	active
-328441	middlepassive
-328449	active
-328460	active
-328474	passive
-328491	active
-328503	active
-328508	passive
-328511	active
-328514	active
-328516	active
-328518	active
-328522	active
-328533	active
-328535	active
-328541	active
-328543	active
-328546	active
-328570	active
-328575	active
-328583	middle
-328587	active
-328599	passive
-328601	passive
-328607	active
-328623	active
-328644	active
-328650	passive
+active
+328444	active
+active
+328476	active
 passive
-328653	active
-328667	active
-328669	active
-328677	active
-328679	active
-328688	active
-328695	active
-328699	passive
-328702	passive
-328717	passive
-active
-active
-328722	middlepassive
-328735	passive
-328742	active
-328746	passive
-328756	active
-328781	active
-328787	passive
-328791	passive
-328800	active
-328810	middle
-328813	active
-328815	passive
-328836	active
-328843	active
-328852	middlepassive
-middlepassive
-328868	passive
-328870	active
-328883	active
-328885	active
-328889	active
-active
-active
-328901	passive
-328903	passive
-328909	active
-328921	active
-active
-328925	active
-328941	active
-328944	active
-328957	active
-328963	active
-328976	active
-328983	active
-328989	active
-328997	passive
-329006	active
-329026	passive
-329038	middlepassive
-329042	active
-329045	active
-329053	active
-329068	passive
-middlepassive
-329071	passive
-329095	middle
-329101	active
-329119	passive
-active
-329137	middle
-329162	active
-329176	passive
-329183	middle
-329188	active
-329201	passive
-329216	active
-329237	active
+329302	active
 passive
-329241	active
-329266	active
-329273	middlepassive
-329278	passive
-329282	middle
-329294	passive
-329302	middle
-329308	middle
-329311	active
-329313	passive
-329328	active
-329339	active
-329345	active
-329349	active
+329832	passive
 active
-329360	middlepassive
+329857	active
 active
 active
-329364	active
-329366	active
-329372	active
-329391	passive
-329401	active
-329416	active
-329418	active
-active
-active
-active
-329446	middlepassive
-329450	active
-active
-329453	active
-329455	active
-329466	active
-middlepassive
-329483	middle
-329511	active
-329529	passive
-329563	passive
-329571	active
-329589	passive
-329594	middle
-329600	active
-329623	active
-active
-329692	active
-329694	active
-329699	active
-329716	active
-329719	active
-active
-329723	active
-329738	active
-329747	middle
-329750	active
-329754	active
-329759	passive
-329783	active
-329786	active
-329791	active
-329793	passive
-329799	active
-329803	middlepassive
-329807	active
-329815	active
-329820	active
-329823	active
-329843	active
-329845	active
-329850	active
-329864	middle
-329868	passive
-329870	active
-active
-329889	passive
-329895	active
-329906	passive
-329927	active
-329932	active
-329940	active
-329944	passive
-329948	active
-329957	active
-329966	active
-active
-329971	middlepassive
-329981	active
-329984	active
-329994	active
-330005	middlepassive
-330011	passive
-330020	passive
-active
-330026	middle
-330042	middle
-330045	active
-330054	active
-330057	middlepassive
-active
-330065	active
-330081	passive
-330090	middle
-330097	active
-330105	active
-330113	active
-330115	middle
-330120	active
-active
-330125	passive
-330131	middle
-330138	active
-330143	active
-330150	active
-330152	active
-330155	active
-active
-active
-330162	passive
-330176	middlepassive
-330184	active
-330199	active
-active
-330206	middlepassive
-330214	passive
-active
-330227	middlepassive
-330230	active
-330236	active
-active
-330244	active
-330246	active
-330264	passive
-330274	active
-active
-330284	passive
 passive
-330290	middlepassive
-330301	active
-330309	middlepassive
-330313	active
-330321	active
-330327	passive
-330329	active
-330333	active
-330337	passive
 active
-330353	active
-330357	active
-330369	middlepassive
+329949	passive
 active
-330379	active
-330389	passive
-330398	passive
-330403	middle
+330117	active
 active
-330413	active
-330418	passive
-330421	middlepassive
-330425	active
-330432	middlepassive
-330434	passive
-330437	active
-330459	passive
-middlepassive
+330438	passive
 active
-330472	active
-330475	active
-330484	active
+330668	active
 active
-330491	passive
-330496	active
-330506	active
-330516	middle
-330529	active
-330534	active
-330545	passive
-330549	passive
-330576	active
-330578	middle
-330599	middlepassive
-330601	active
-330603	active
-330620	passive
-330623	active
-330629	active
-330633	active
-330636	active
-330647	active
-330664	passive
+330884	active
+active
+331068	middlepassive
+active
+331077	middlepassive
+active
+331090	middle
+passive
+331202	active
+active
+331283	active
+active
+active
+active
+331684	middle
+331687	active
+332005	active
+active
+332617	active
+active
+332860	middle
+active
+332947	active
+332950	active
+332978	passive
+passive
+333183	active
+passive
+333190	active
+passive
+333393	middle
 middle
-330682	passive
+333427	active
 active
-330685	passive
-330704	active
-330729	active
-330737	middlepassive
-330739	active
-330744	middlepassive
-330746	middle
-330752	active
-active
-330768	middle
-330771	passive
+333479	active
 passive
-330783	passive
-330788	passive
-330790	active
+333507	active
+333510	active
+333636	middlepassive
 active
-330800	active
-330802	active
-330818	passive
+333691	active
+active
+334146	passive
+active
+334207	active
+active
+334231	active
+active
+334389	active
+active
+334524	active
+active
+334837	active
 passive
-330822	passive
-passive
-330839	active
-330844	active
-330848	active
+334903	active
 active
-330854	passive
-330869	middlepassive
-330886	passive
-330889	active
-330899	active
-330909	active
-330918	active
-330939	active
-middle
-330950	passive
-active
-330957	active
-330987	active
-330992	active
-330994	active
-331001	middle
-331008	active
-331022	passive
-331024	active
-331026	active
-331028	active
-331038	active
-331045	passive
-331048	active
-331050	active
-active
-331060	active
-331091	active
-331100	active
-passive
-331103	active
-331109	active
-331114	active
-331121	active
-331129	active
-331132	active
-331135	active
-331145	active
-middlepassive
-331149	active
-331160	active
-331163	active
-331170	active
-331185	active
-331193	active
-331197	active
-331199	active
-331205	active
-331210	active
-331217	active
-331221	active
-331227	active
-331235	active
-331238	active
-331240	active
-331249	active
-331257	active
-331261	active
-331265	active
-331267	active
-331279	active
-331310	active
-331312	active
-331320	active
-331322	active
-331324	active
-331333	active
-331335	active
-331344	active
-331348	active
-331365	passive
-331369	active
-331374	active
-331376	active
-331380	active
-active
-331384	active
-331389	active
-331395	active
-331402	active
-331413	active
-331418	active
-331423	active
-331426	active
-331439	middle
-331449	active
-331451	active
-331457	active
-331464	active
-331470	active
-331475	active
-331486	active
-331493	active
-331496	active
-331507	active
-331514	active
-331517	active
-331519	active
-331524	active
-331530	active
-331534	passive
-331546	active
-331550	active
-331556	active
-331560	active
-331564	active
-331568	active
-331572	active
-331576	active
-331582	active
-331587	active
-331599	active
-331601	active
-331606	active
-331620	active
-331625	active
-331670	active
-331682	active
-331687	middle
-331696	active
-331704	active
-331714	active
-331717	active
-331720	middlepassive
-331727	active
-331729	active
-331734	active
-331738	active
-331741	active
-331750	active
-active
-331758	passive
-331761	active
-331769	active
-331776	active
-331779	active
-331783	active
-331789	active
-331802	active
-331804	active
-331811	middlepassive
-331815	active
-331820	active
-331825	middlepassive
-331836	middlepassive
-331844	active
-331846	active
-331855	active
-331858	active
-331865	active
-331870	active
-331875	active
-331890	active
-331893	active
-331899	middle
-331909	active
-331914	active
-331922	active
-331926	active
-331933	active
-331936	active
-331945	active
-331952	active
-331955	active
-331959	active
-331961	active
-331968	active
-331974	passive
-active
-331979	passive
-331991	active
-331994	active
-active
-332002	active
-332009	passive
-active
-332014	active
-332023	passive
-332025	active
-332033	active
-332037	active
-332044	active
-332047	passive
-332049	middle
-active
-332053	passive
-332056	middle
-332058	middle
-332061	active
-332066	active
-332075	active
-332080	active
-332084	active
-332093	active
-332098	active
-332103	active
-332106	passive
-332111	active
-332118	active
-332125	active
-332127	active
-332131	active
-332133	active
-332136	active
-332140	active
-332143	active
-332148	active
-332152	active
-332154	active
-332163	active
-332171	active
-332175	passive
-332184	active
-332195	passive
-332203	active
-332211	active
-332214	middlepassive
-active
-332222	passive
-332227	active
-332247	active
-332250	active
-332259	active
-332267	active
-332272	active
-332277	active
-332287	active
-332289	active
-332299	active
-332308	active
-332319	active
-332322	active
-332328	active
-332330	active
-332342	active
-332348	active
-active
-332358	active
-332365	active
-332367	active
-332373	active
-332381	active
-332385	active
-332399	active
-332402	active
-332411	active
-332415	active
-332424	active
-332431	active
-332433	active
-332450	active
-332456	active
-332471	middle
-332478	active
-332483	active
-332491	active
-332499	active
-332509	active
-332517	active
-332519	active
-332528	active
-active
-332539	active
-332547	active
-332550	active
-332557	active
-332570	active
-332573	active
-332578	active
-332587	active
-332597	active
-332599	active
-332610	active
-332616	active
-332618	active
-332628	active
-332633	active
-332642	active
-332654	active
-332660	active
-332666	active
-332673	active
-332683	active
-332686	active
-332693	active
-332695	middlepassive
-332703	active
-332711	active
-332714	active
-332718	active
-332738	active
-332747	active
-332753	active
-332760	active
-332762	active
-332766	active
-332770	active
-332777	active
-332782	active
-332799	active
-332810	active
-332815	active
-332821	passive
-332823	active
-332829	active
-332831	active
-332840	active
-332844	passive
-332865	active
-332875	active
-332882	active
-332889	active
-332896	active
-332899	active
-332920	active
-332925	active
-332927	active
-332931	middlepassive
-332933	active
-332941	active
-332949	passive
-332953	active
-332957	active
-332962	active
-332976	active
-332980	middlepassive
-332982	active
-332987	active
-332998	active
-333001	active
-333015	active
-333025	active
-333027	active
-333032	active
-333043	active
-333046	active
-333057	active
-333065	active
-333069	passive
-333078	active
-333091	active
-333095	active
-333105	active
-333118	active
-333127	active
-333130	middlepassive
-333132	passive
-333139	active
-333143	active
-333147	active
-333149	active
-333159	active
-333161	active
-333165	active
-333172	active
-333178	active
-333180	middlepassive
-active
-333188	active
-333194	active
-333198	active
-333209	active
-333212	active
-333221	passive
-333226	active
-333228	active
-active
-333231	passive
-333238	active
-333240	active
-333252	active
-333259	active
-333262	active
-333276	active
-333285	active
-333290	passive
-333296	active
-333302	active
-333307	active
-333317	active
-333319	active
-333326	active
-333329	active
-333338	active
-333340	active
-333371	active
-333373	active
-333378	active
-333384	active
-333386	active
-333407	active
-333416	active
-333425	active
-333428	active
-333437	active
-333446	active
-333456	active
-333465	active
-333470	active
-333474	active
-333481	active
-333494	active
-333502	active
-333520	active
-333522	active
-333526	active
-333532	active
-333544	active
-333546	active
-333549	active
-333553	active
-333556	active
-333572	active
-333577	active
-333584	middle
-333592	active
-333596	active
-333598	active
-333602	middle
-active
-333605	active
-333610	active
-333616	active
-333622	active
-333630	active
-333632	active
-333636	active
-333642	active
-333652	active
-333654	active
-333659	active
-333661	active
-333669	active
-333674	passive
-333681	active
-333684	passive
-333690	active
-333697	middle
-333699	active
-333706	active
-333718	middlepassive
-active
-333729	active
-333731	active
-333735	active
-333740	active
-333756	active
-333767	active
-333788	active
-333803	active
-333813	active
-333821	middle
-333827	middle
-333856	passive
-333859	active
-333867	active
-333873	active
-333881	active
-333888	active
-333893	active
-333898	active
-333902	active
-333907	active
-333919	active
-333921	active
-333929	active
-333934	active
-333942	active
-333945	middlepassive
-333950	active
-333958	active
-333962	active
-333964	middle
-333969	active
-333973	active
-333976	active
-333988	active
-333990	active
-334005	active
-334008	middlepassive
-334019	active
-334021	active
-334027	active
-334030	active
-334032	active
-334035	active
-active
-334047	active
-334049	active
-334051	passive
-334058	active
-middle
-334069	active
-334077	passive
-active
-middlepassive
-334104	active
-334112	middlepassive
-334114	passive
-334116	active
-334118	passive
-334124	passive
-334127	middlepassive
-334130	active
-334141	active
-334146	active
-334149	active
-334160	active
-334163	active
-334166	middle
-334176	active
-334187	active
-active
-334199	active
-334201	active
-334209	active
-active
-334216	middlepassive
-334220	active
-334227	active
-334231	middlepassive
-334237	active
-active
-334245	active
-334249	active
-334253	passive
-334259	middlepassive
-334265	middlepassive
-active
-334273	active
-334276	middlepassive
-334285	active
-334291	active
-334293	active
-334295	active
-334300	passive
-334316	active
-334318	active
-334326	active
-334328	active
-active
-334333	active
-334340	active
-active
-334345	active
-334352	active
-334355	middlepassive
-334360	middlepassive
-334383	passive
-334387	passive
-334395	passive
-334400	middle
-active
-334413	active
-active
-334416	active
-middlepassive
-334422	passive
-334427	passive
-334434	passive
-334452	active
-334468	middlepassive
-active
-334472	middlepassive
-active
-334484	active
-334490	active
-active
-334496	active
-334503	active
-334522	active
-334541	active
-334543	active
-334549	middlepassive
-334556	active
-334563	middlepassive
-334566	active
-334569	active
-334572	active
-334584	middle
-middlepassive
-334594	active
-334597	active
-334600	active
-active
-334609	active
-active
-334620	middlepassive
-334624	passive
-334635	passive
-334646	passive
-334655	middle
-334657	active
-334669	middlepassive
-334672	active
-334680	passive
-334689	active
-passive
-334697	active
-334716	passive
-active
-334728	active
-middle
-active
-334739	active
-334745	active
-334763	active
-334773	active
-334781	active
-334793	middlepassive
-334800	active
-334802	active
-334810	passive
-334815	passive
-334830	active
-334839	middle
-334850	middlepassive
-334855	active
-334857	active
-334861	active
-334865	active
-334879	middlepassive
-334886	active
-middlepassive
-334908	active
-middle
-active
-334914	active
-334917	active
-334921	active
-334932	passive
-334937	middlepassive
-active
-334942	active
-334997	active
-335002	active
-335009	active
-middle
-335015	active
-active
-335031	active
-335047	active
-335050	active
-335053	active
-335062	active
-335067	passive
-335093	active
-335096	active
-335099	middlepassive
-335148	active
-335151	active
-335168	active
 335198	middle
-middlepassive
-335206	middle
-335214	active
-335216	middle
-335232	active
+passive
+335209	active
+active
 335240	active
-335246	active
-335249	active
-335252	middlepassive
-335279	middle
-335286	passive
-335303	middle
-335315	active
-335325	active
-335327	active
 active
-335333	active
-335368	active
+335314	passive
 active
-335374	active
-335379	active
-active
-335400	middle
-335403	passive
-335452	passive
-335466	active
-335492	middlepassive
-335503	active
-335513	active
-335515	active
-335527	active
-335536	active
-335538	middlepassive
-335540	active
-335550	active
-335552	middle
-335555	middle
-335557	active
-active
-335569	active
-335581	active
-335584	active
-335587	active
-335590	active
-middle
-335605	active
-335635	active
-335647	active
-335659	active
-335661	active
-335663	active
-335677	active
-335691	active
-335710	middlepassive
-active
-335714	active
-335716	active
-335721	active
-335723	active
-335728	active
-335730	active
-335740	active
-335742	active
-335756	active
-active
-335760	active
-335762	active
-335769	active
-335773	middlepassive
-335776	active
-335791	active
-335794	active
-335796	active
-335806	active
-335808	active
-335810	active
-335815	active
-335820	active
-active
-335823	active
-335834	active
-335856	active
-335858	active
-335867	middle
-335870	active
-active
-335883	active
-335892	active
-335894	active
-335898	active
-335906	middlepassive
-335908	active
-active
-middle
-active
-active
-335923	passive
-335925	active
-335931	middlepassive
-335937	active
-335947	active
-335949	active
-335954	active
-335959	active
-335963	passive
-335985	active
-335987	active
-335989	active
-336001	active
-336003	active
-336013	active
-336021	middle
-336047	passive
-336055	active
-336057	active
-336063	active
-336065	active
-336072	active
-336076	active
-336085	active
-336088	active
-336090	active
-336094	active
-336103	active
-336108	middlepassive
-336112	active
-336128	active
-336130	active
-336135	active
-336140	active
-active
-336147	passive
-336149	active
-336164	passive
-336167	active
-336171	active
-336184	active
-336186	active
-336195	active
-336214	active
-336253	active
-336258	active
-336264	active
-336268	active
-336270	active
-336276	active
-336278	active
-336281	active
-336285	active
-336288	active
-active
-336297	middle
-active
-336305	active
-336316	active
-336330	active
-336335	middle
-336343	active
-336345	active
-336350	active
-336363	active
-336374	active
-336382	active
-336391	active
-336393	active
-336402	active
-active
-336408	active
-336411	active
-336414	active
-336423	active
-336433	active
-336448	passive
-336451	active
-336460	active
-336470	active
-336472	active
-336477	active
-336493	active
-336495	active
-336497	active
-336513	active
-336521	active
-336523	active
-336526	active
-336528	middlepassive
-active
-336531	active
-336536	active
-active
-336540	active
-336544	passive
-336552	active
-336555	active
-336557	active
-336559	active
-336561	active
-336565	active
-active
-336574	active
-336578	active
-336583	active
-336592	active
-336599	active
-336608	active
-336610	active
-336612	middle
-336622	active
-336638	active
-336660	active
-336662	active
-336667	active
-336683	active
-336685	active
-336693	active
-336700	active
-336703	active
-336705	active
-336708	active
-active
-336715	middle
-active
-336722	passive
-336725	middlepassive
-active
-336731	active
-336734	active
-336742	middle
-336748	middle
-active
-336760	active
-336763	active
-336766	active
-336768	middlepassive
-middle
-active
-336773	active
-336775	active
-336784	active
-336787	active
-336790	active
-336802	active
-336813	active
+335323	active
+335526	active
 middlepassive
-336822	active
-336824	active
-336830	middlepassive
-336832	active
-336834	active
-336837	active
-336844	active
-active
-336864	active
-336867	active
-336900	active
-336924	active
-336926	active
-336931	active
-336947	active
-336949	active
-336973	active
-336982	active
-336985	active
-336987	active
-336993	active
-336999	active
-337001	active
-337010	active
-337013	active
-337015	active
-337020	active
-337023	active
-337026	active
-337038	active
-337040	active
-337046	passive
-337051	active
-337057	middle
-337060	passive
-337072	active
-337079	active
-337083	active
-active
-337086	active
-active
-337090	active
-middle
-active
-337099	active
-337102	active
-337109	active
-337113	middle
-337118	active
-337128	active
-active
-337131	active
-337144	active
-337146	active
-337162	active
-337164	active
-337169	active
-337176	active
-337178	middle
-337180	passive
-337195	active
-337199	active
-337203	active
-active
-337207	active
-337210	active
-middle
-337216	middle
-337221	middle
-337223	middlepassive
-337235	middlepassive
-337238	middlepassive
-337278	middlepassive
+335685	middle
 passive
-337302	middlepassive
-337314	passive
-337321	active
-337363	active
-337392	active
-337409	middlepassive
-337423	active
-337431	active
-337436	active
-337440	active
-337452	active
-337455	active
-337458	middlepassive
-337461	active
-337471	middlepassive
-337478	active
-337488	middlepassive
-337499	middlepassive
-337506	active
-337508	active
-337519	active
-337530	active
-337532	active
-337542	active
-337556	active
-337568	active
-337570	passive
-337572	active
-337580	middlepassive
-337589	passive
-337593	passive
-337598	active
-337602	active
-337610	active
-337615	active
-337624	middlepassive
-337642	active
-337647	active
-337650	active
-337656	passive
+335757	active
 active
-337662	active
-337672	active
-337675	active
-middle
+335964	active
 active
-337695	active
-337708	active
-337731	active
-337733	passive
-active
-337743	active
-337754	passive
-337763	active
-337765	active
-337773	middlepassive
-337781	active
-337798	active
-337804	active
-337812	active
-337815	active
-337824	active
-337828	active
-337830	active
-active
-337836	active
-337843	passive
-337845	active
-337868	active
-337879	active
-337886	active
-337888	active
-337908	active
-337921	active
-337926	active
-337931	passive
-active
-337976	active
-337985	active
-active
-337988	middlepassive
-338028	active
-338034	active
-338036	active
-338038	active
-338040	active
-338054	active
-338064	active
-338070	middlepassive
-338072	active
-338074	middle
-338080	middlepassive
-338084	active
-338087	passive
-338091	active
-active
-338095	active
-338098	active
-338106	active
-338112	active
-middlepassive
-338115	active
-338123	middlepassive
-338127	passive
-338129	active
-338141	active
-338143	passive
-338150	active
-338158	active
-338164	active
-middlepassive
-338167	active
-338169	middle
-338175	middlepassive
-338179	active
-338189	active
-338201	active
-338222	active
-338225	active
-338233	active
-338241	active
-middlepassive
-338244	active
-338246	middle
-338252	middlepassive
-338265	active
-338270	passive
-338282	active
-338306	active
-338312	active
-338323	passive
-338340	active
-338342	active
-338346	active
-338360	active
-338362	active
-338371	active
-338378	passive
-338386	passive
-338389	middle
-338395	passive
-338410	active
+336553	active
 passive
-338417	active
-338419	active
-338431	middle
-338436	middle
-338449	middle
-338461	active
-338469	active
-338480	passive
-338485	passive
-338488	passive
-338502	passive
-338533	active
-338551	active
-338559	active
-338564	active
-338571	middlepassive
-338588	active
-338604	middlepassive
+336579	active
 passive
-338609	active
-338613	active
-338625	active
-338637	active
+336938	passive
+passive
+336964	middle
+active
+337120	middlepassive
+passive
+337152	passive
+passive
+337184	passive
+337187	active
+337426	active
+active
+337523	active
+active
+338081	active
+active
+338350	active
+active
 338657	active
-338661	active
-338667	active
-338672	active
-338674	active
-338684	passive
-338686	active
-338694	active
-338696	active
-338709	active
-338727	active
-338733	passive
-338740	passive
-338758	passive
-338847	passive
-338851	active
-338853	middle
-338859	active
-338862	middlepassive
-338874	active
-338886	passive
-338900	active
-338904	active
-338914	middlepassive
-338930	active
-338947	active
-338961	active
-338965	active
-339010	middle
-339018	active
-339022	passive
-339031	active
-339034	active
-339036	active
-339042	active
-339044	active
-339047	active
-339049	middlepassive
-339060	active
-339067	active
-339081	active
-339092	active
-339106	middlepassive
-339112	active
-339117	active
-339120	active
-339124	active
-339148	active
-339151	active
-339161	active
-339177	active
-339185	middle
-339196	active
-339208	active
-339210	passive
-339219	active
-339221	passive
-339227	active
-339232	passive
-339238	active
-339265	active
-339293	active
-339301	active
-339313	active
-339320	middle
-339335	active
-339341	active
-339344	active
-339349	active
-339351	middle
-339355	passive
-339360	passive
-339374	passive
-339383	passive
-339390	passive
-339397	active
-339406	passive
-passive
-339414	middle
-339424	active
-339440	active
-339450	passive
-339457	active
-339459	active
-339468	passive
-339472	active
-339500	passive
-339505	middle
-339522	active
-339529	passive
-339536	active
-339538	passive
-339563	passive
-339574	active
-339586	active
-339588	active
-339592	middlepassive
-339596	active
-339604	active
-339628	active
 active
-339636	active
-339638	active
-339645	active
-339652	passive
-339666	active
-339675	active
-339689	passive
-339712	active
-339720	passive
-339724	active
-339734	passive
-339738	active
-339761	active
-339775	passive
-339779	active
-339783	passive
-339799	active
-339809	active
-339820	active
-339823	active
 active
-339826	active
-339844	passive
-339873	active
-339890	active
-339892	active
-339920	active
-339925	active
-339944	active
-339951	active
-339975	active
-339984	active
+active
+338857	active
 middle
+passive
+338866	active
+338900	middlepassive
+middle
+339247	passive
+passive
+339281	active
+339284	passive
+339391	passive
+passive
+339406	middle
+middle
+active
+339441	active
+339446	middlepassive
+339585	active
+active
+340005	active
+passive
+340106	active
 middlepassive
-340000	active
-340002	active
-340028	active
-340035	active
-340039	active
-340046	passive
-340058	passive
-340065	passive
-340078	active
-340101	active
-340109	active
-340120	middlepassive
-340124	active
-340153	middlepassive
-340168	passive
-340190	middlepassive
-340213	active
-340230	active
-340236	active
-340247	passive
-340256	active
-340270	active
-340300	active
 middlepassive
-340303	active
-340305	active
-340308	active
-340341	active
-340347	active
-340353	passive
-340389	active
-340399	passive
-340401	active
-340426	active
-340432	middlepassive
-340435	active
+340245	active
 active
-340449	active
-340455	active
+340350	active
 active
-340458	active
-340465	active
+340386	active
 active
-340468	active
-340477	active
-340483	active
+340427	active
 active
-340496	active
-340512	active
-340516	active
-340527	active
-340560	middle
-340578	active
+340489	active
 active
-340581	passive
-340590	active
-340604	active
-340611	active
-340616	active
-active
-active
-340623	passive
-340634	active
-340647	active
-340653	active
-340655	active
-340661	active
-340663	active
-340665	active
-340668	active
-340682	middle
-340687	active
-340701	active
-340704	active
-340718	active
-340720	passive
-340727	active
-340729	active
-340732	active
-340745	passive
-340750	active
-active
-340753	active
-340767	active
-340782	active
-340787	active
-340789	passive
-340801	active
-340807	active
-340816	active
-340822	passive
-340825	active
-340847	active
-340852	active
-active
-340855	middlepassive
-340864	active
-340873	active
-340875	active
-340877	active
-340879	passive
-340881	active
-340885	active
-340892	active
-340904	active
-340910	active
-340916	active
-340927	active
-340930	active
-340940	active
-340946	active
-340952	active
-340955	active
-340977	passive
-340990	passive
-340992	active
-341021	active
+340888	passive
+340917	middlepassive
 passive
-341028	active
-341034	active
-341039	passive
-341042	active
-341052	active
-341054	active
-341078	active
-341083	active
-341095	active
-341099	active
-341102	active
-341111	active
-341113	active
-341116	active
-341128	active
-341143	middle
-341155	active
-341157	passive
-341174	middle
-341176	active
-341192	active
-middle
-341201	middlepassive
-341209	active
-341211	middle
-341220	active
-middle
-341241	active
-341265	middlepassive
-341273	active
-341282	active
-341286	active
+341093	active
 active
-341297	active
-341300	active
-341302	active
-341313	active
-341318	passive
-341320	active
-341334	passive
-341336	active
-341354	middlepassive
-341368	active
-341370	active
-341375	passive
-341391	passive
-341409	middle
-341425	passive
-341432	passive
-341464	active
-341466	active
+341150	active
 active
-341469	passive
-active
-341472	passive
-341482	middle
-341488	active
-341513	active
-341526	active
-341537	active
-341544	active
-active
-341548	active
-341554	active
-341556	active
-341561	active
-active
-341574	passive
-341597	active
-341604	active
-341608	passive
-341616	active
-341624	middle
-341641	active
-341651	active
-341660	active
-341664	passive
-341673	passive
-341689	passive
-341696	active
-341702	passive
-341717	passive
-341719	active
-341728	active
-341730	middle
-341759	passive
-341770	active
-341784	active
-341809	active
-341821	passive
-341828	active
-341838	active
-341845	active
-341849	active
-341854	active
-341857	active
-341862	passive
-341868	active
-341873	active
-341878	passive
-341896	middlepassive
-341910	passive
-341927	active
-341949	active
-341951	active
-341959	active
-341969	active
-341974	active
-341986	passive
-341996	active
-active
-342011	active
-342020	active
-342027	passive
-342038	active
-342045	active
-active
-342081	active
-active
-342106	active
-342137	passive
-342151	passive
-342153	passive
-342165	active
-342170	active
-342178	active
-342182	active
-342190	middlepassive
-active
-342196	passive
-342200	active
-342205	passive
-342208	active
-342214	active
-342229	active
-342247	active
-342249	passive
-342251	active
-342259	active
-342262	passive
-342277	active
-342282	active
-342291	passive
-342311	passive
-342319	active
-342321	active
-342330	active
-342336	active
-active
-342342	passive
-342344	active
-342357	active
-342361	active
-342368	active
-342376	active
-342391	active
-342396	active
-342405	active
-342407	active
-342416	passive
-342427	active
-342434	active
-342440	active
-342452	active
-342454	active
-342466	passive
-342468	active
-342474	active
-342476	active
-342482	active
-342488	active
-342497	active
-342499	passive
-342501	active
-342512	active
-342521	active
-342526	active
-342534	passive
-342536	active
-342562	active
-342588	middlepassive
-active
-342591	active
-342595	active
-342620	active
-342622	active
-342624	active
-342636	active
-342647	active
-342649	middle
-342653	active
-342671	active
-342687	passive
-342696	active
-342721	active
-342725	active
-342734	active
-342757	middlepassive
-active
-342772	passive
-342779	active
-342785	passive
-342788	active
-342791	active
-342797	active
-342799	passive
-342823	passive
-342826	active
-342828	active
-342832	middlepassive
-342836	active
-342840	active
-342844	middlepassive
-342862	active
-342868	passive
-342873	active
-342877	active
-342888	active
-342890	active
-342909	active
-active
-active
-active
-342934	active
-342945	active
-342947	active
-342955	active
-342966	active
-342986	middle
-343001	passive
-343015	passive
-343047	active
-343050	active
-343056	active
-343069	active
-343087	active
-343089	active
-343104	active
-343111	active
-active
-343121	active
-343124	active
-343129	passive
-343143	active
-343148	active
-343150	middle
-343160	middlepassive
-343166	active
-343192	active
-343198	active
-343205	middlepassive
-343211	active
-343218	active
-343220	active
-343224	active
-343226	passive
-343235	active
-343237	middlepassive
-343254	passive
-343262	active
-343275	active
-343286	active
-343293	active
-343301	active
-343306	active
-343314	active
-active
-343326	active
-343339	active
-343346	active
-343361	active
-343370	active
-343389	passive
-343399	active
-343423	active
-343440	active
-343452	passive
-343461	active
-343467	passive
-343471	active
-343497	active
-343507	active
-343514	active
-343535	active
-343570	passive
-343573	active
-343588	active
-343590	active
-343600	passive
-343605	active
-343607	passive
-343626	active
-343633	active
-343644	middle
-343651	passive
-343670	active
-343682	active
-343691	active
-343702	passive
-343726	middlepassive
-active
-343734	passive
-343747	active
-343756	active
-343762	active
-343764	active
-343784	active
-343789	active
-343801	middle
-343813	active
-343823	active
-343833	active
-343845	middle
-343857	active
-343869	active
-343889	middle
-343892	active
-343900	active
-343902	active
-343904	active
-343907	active
-343913	active
-343920	active
-343924	active
-active
-343927	active
-343929	active
-343933	active
-343954	active
-343966	passive
-343968	active
-343976	passive
-343984	active
-343993	active
-344006	active
-active
-344014	active
-344030	middle
-344036	passive
-344038	middlepassive
-344050	active
-344075	active
-344087	active
-344104	passive
-344111	passive
-344127	active
-344166	active
-344172	active
-344175	middlepassive
-344187	active
-344209	middle
+341691	active
 middlepassive
-344215	active
-344217	active
-344226	active
-344228	active
-344235	active
-344243	passive
-344250	active
-344262	active
-344276	active
+341700	active
 active
-344279	middle
-344288	middle
-344292	middle
-344297	middle
-344309	middle
-344330	active
-344337	passive
-344343	active
-344366	active
-344370	passive
-344379	active
-344391	active
-344409	active
-344417	active
-344428	active
-344435	active
-344439	active
+341923	active
 active
-active
-344455	middlepassive
-344464	active
-344473	passive
-344475	active
-344491	active
-344500	active
-344502	middlepassive
-344510	active
-344514	active
-344526	active
+342612	active
 passive
-344532	passive
-344540	active
-344552	active
-344573	passive
-344596	active
-344600	active
-344623	active
-active
-344630	active
-344638	active
-344640	active
-344654	active
-344657	active
-344673	active
-active
-344677	active
-344679	active
-active
-344690	active
-344692	passive
-344694	active
-344703	passive
-344721	active
-344726	active
-344729	active
-344731	middle
-344737	active
-344747	active
-344752	middlepassive
-344760	active
-344764	active
-344768	active
-344773	active
-344776	active
-344779	active
-active
-344786	active
-344789	active
-344794	active
-344801	active
-344806	active
-344814	active
-344818	active
-344822	active
-344831	active
-344841	active
-344853	active
-344860	active
-344865	active
-344871	active
-344888	active
-344894	active
-344899	middlepassive
-344903	active
-344915	active
-344921	active
-344926	passive
-active
-344937	middle
-344940	active
-344948	active
-344956	active
-344963	active
-344968	active
-344978	passive
-344991	active
-active
-345001	active
-345015	active
-345019	active
-345025	active
-345033	passive
-345042	active
-345048	active
-active
-active
-345057	middle
-345078	passive
-345095	active
-345112	active
-345132	active
-345134	active
-345143	active
-active
-345155	active
-345171	active
-345173	passive
-345185	active
-345194	active
-345200	active
-345202	active
-345219	active
-active
-345224	active
-345227	active
-345230	active
-345243	active
-345245	middlepassive
-345250	active
-345256	active
-345265	active
-345280	passive
-345288	active
-345291	active
-345293	middle
-345308	active
-345310	active
-345312	active
-345325	active
-345337	active
-345359	active
-345373	active
-345375	active
-345386	active
-345481	active
-345495	middle
-345505	active
-345512	active
-345519	middle
-345531	active
-345533	active
-active
-345545	passive
-345552	passive
-345566	passive
-345583	active
-345591	middlepassive
-345595	active
-345597	active
-active
-345608	active
-345619	active
-345629	active
-active
-345632	active
-active
-345646	active
-345650	active
-345670	passive
+342615	active
 passive
-345689	active
-345702	active
-345716	active
-345722	active
-345725	passive
-345736	passive
-345751	passive
-345767	passive
-345779	passive
-345791	active
-345805	passive
-345816	active
-345832	passive
-345847	passive
-345852	passive
-345861	active
-345876	active
-345904	active
-345913	active
-345925	active
-345942	active
-345950	active
-345961	active
-345978	active
-345983	middlepassive
-345989	active
-345999	active
+343119	active
 active
+343210	passive
+343213	active
+343715	middle
 active
-346015	middlepassive
-346025	active
-346049	active
-346052	active
-346062	active
-346064	active
-346066	active
-346072	active
-346086	active
-346089	passive
-346092	middle
-346109	active
-346111	active
-346113	active
-346129	passive
-346131	active
-346143	active
-346145	active
-346153	active
-346156	active
-346158	active
-346163	active
-346171	active
-346180	active
-346187	active
-346196	active
-346200	passive
-346202	middle
-346208	middlepassive
-346212	passive
-346220	active
-346222	active
-346243	active
-346246	passive
-346249	active
-346254	passive
-346257	passive
-346260	passive
-346284	active
-346291	middle
-346305	middlepassive
-346313	active
-346319	active
-346328	active
-346352	active
-346368	passive
-346377	active
-346381	active
-346388	active
-346394	active
-346401	middlepassive
-346405	active
+343953	active
 passive
-346421	active
-346439	middlepassive
-346457	active
-346475	passive
-active
-346483	middlepassive
-346498	passive
-346510	active
-346520	active
-346522	active
-346532	active
-346538	active
+344132	active
 passive
-346553	passive
-346561	passive
-346569	middlepassive
-346576	active
-346590	passive
-346599	active
-346601	active
-346607	active
-346627	active
-346639	active
-346646	active
-346652	active
-346660	active
-346662	active
-346668	active
-346674	passive
-346683	active
-passive
-346690	active
-346693	active
-346699	passive
-346707	passive
-346728	active
-346740	active
-346758	active
-346760	active
-346777	active
-346779	passive
-346797	active
-346817	active
-346820	middle
-346831	active
-346842	passive
-346848	passive
-346860	middle
+344334	active
+344337	active
+344605	active
 active
-346883	active
-346907	active
-346918	active
-346931	passive
-346933	active
-346941	active
-346948	active
-346950	passive
-346972	passive
-346986	active
-346994	middlepassive
-347005	active
-347016	passive
-347019	active
-347030	active
-347038	passive
-347043	passive
-347045	active
-347050	passive
-347057	passive
-347071	active
-347091	active
-347101	passive
-347118	passive
-347136	active
-347148	passive
-347158	passive
-passive
-347170	active
-347190	active
-347196	active
-347209	active
+344624	active
 active
-347221	passive
-347226	passive
-347233	active
-347242	active
+345222	active
+active
+345237	passive
+active
+345610	active
 middle
-347257	active
-347266	middle
-347276	middle
-347278	active
-347294	middle
-347303	middle
+346378	passive
+passive
+346781	passive
+passive
+346964	active
+active
+347058	active
+active
+347158	active
+active
 347309	active
-347311	active
-347313	middlepassive
-347319	middle
-347321	active
-347324	active
 active
-347335	active
-347337	active
-347339	active
-347357	active
-active
-347374	active
-active
-347378	middle
-347383	middle
-347393	passive
-347419	passive
-347424	active
-347433	active
-347444	active
-347451	active
-347462	active
-347466	active
+347650	active
+passive
 active
 active
-347481	active
-347494	active
-347504	active
-347515	active
-347536	active
+347962	active
 active
-347543	active
-347558	passive
-347560	active
-347605	active
-347628	active
-347632	active
-347638	active
-347659	middlepassive
-347671	active
-347698	active
-347700	active
-347715	active
-347755	passive
-347825	active
-347850	active
-347867	active
-347879	active
-347888	active
-347898	active
-347910	active
-347929	active
-347947	passive
-347952	middle
-347955	active
-347974	active
-347983	active
-347990	passive
-348005	active
-348018	middlepassive
-348053	active
-348062	active
-348088	middle
-348105	middle
-348112	active
-348115	middle
-348137	middle
-348141	active
-348156	active
-348161	active
-348172	active
-348197	active
-348203	active
-348210	active
-middle
-348216	middle
-middlepassive
-348221	active
-348238	active
-348240	active
-348244	active
-348246	active
-active
-active
-348259	active
-348263	active
-348265	active
-348270	active
-348282	active
-348295	active
-348297	active
-348300	active
 348319	active
-348321	active
 active
-348328	passive
-348335	active
-348341	passive
-348343	middle
-middlepassive
-348355	active
-348362	active
-348388	active
-348395	middle
-348414	active
-348443	active
-348445	active
-348449	active
-348455	active
-348464	active
-348494	active
-middlepassive
-348498	active
+348359	active
+passive
+348737	passive
 active
-middlepassive
-348503	active
-middlepassive
-348506	active
+348785	active
 active
-348512	active
-348517	active
-348533	active
-348537	active
-348548	passive
-348559	active
-348575	active
-348604	passive
-348612	active
-348614	active
-348617	middlepassive
-348620	middlepassive
+348890	active
+active
+348915	active
+passive
+349653	passive
+349656	active
+349667	middlepassive
+active
+349688	active
+active
+350143	passive
+active
+350161	passive
+active
+350784	active
+active
+351074	active
+active
+351183	middlepassive
+active
+351193	active
+active
+351408	active
+active
+351622	active
+passive
+352857	active
+active
+active
+355094	active
+middle
+355105	active
+active
+355138	active
+active
+355526	active
+active
+356468	active
+active
+356555	active
+active

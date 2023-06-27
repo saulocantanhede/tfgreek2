@@ -8,13 +8,14 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-22T03:04:16Z
+@dateWritten=2023-06-27T00:23:53Z
 
 1-137779	word
 137780-137806	book
 137807-138066	chapter
 138067-168218	clause
-168219-348633	phrase
-348634-356644	sentence
+168219-275788	phrase
+275789-283799	sentence
+283800-356644	subphrase
 356645-364588	verse
 364589-479467	wg

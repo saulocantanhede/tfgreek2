@@ -9,7 +9,7 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-22T03:04:14Z
+@dateWritten=2023-06-27T00:23:50Z
 
 68383	discontinuous discourse
-256195	discontinuous discourse
+222908	discontinuous discourse
