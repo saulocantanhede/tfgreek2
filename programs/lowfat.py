@@ -84,22 +84,87 @@ def convertTaskCustom(self):
     }
     monoAtts = {"appositioncontainer", "articular", "discontinuous"}
 
-    self.monoAtts = monoAtts
+    intFeatures = {
+        "appositioncontainer",
+        "articular",
+        "chapter",
+        "discontinuous",
+        "nodeId",
+        "num",
+        "strong",
+        "verse",
+        "sibling",
+    }
+    featureMeta = (
+        ("after", "material after the end of the word"),
+        ("appositioncontainer", "1 if it is an apposition container"),
+        ("articular", "1 if the wg has an article"),
+        ("book", "book name (abbreviated), from ref attribute in xml"),
+        ("case", "grammatical case"),
+        ("chapter", "chapter number, from ref attribute in xml"),
+        ("class", "morphological class (on w); syntactical class (on wg)"),
+        ("clauseType", "clause type"),
+        ("cltype", "clause type"),
+        ("crule", "clause rule (from xml attribute Rule)"),
+        ("degree", "grammatical degree"),
+        ("discontinuous", "1 if the word is out of sequence in the xml"),
+        ("domain", "domain"),
+        ("frame", "frame"),
+        ("gender", "grammatical gender"),
+        ("gloss", "short translation"),
+        ("id", "xml id"),
+        ("junction", "type of junction"),
+        ("lang", "language the text is in"),
+        ("lemma", "lexical lemma"),
+        ("ln", "ln"),
+        ("mood", "verbal mood"),
+        ("morph", "morphological code"),
+        ("nodeId", "node id (as in the XML source data"),
+        ("normalized", "lemma normalized"),
+        (
+            "num",
+            (
+                "generated number (not in xml): "
+                "book: (Matthew=1, Mark=2, ..., Revelation=27); "
+                "sentence: numbered per chapter; "
+                "word: numbered per verse."
+            ),
+        ),
+        ("number", "grammatical number"),
+        ("note", "annotation of linguistic nature"),
+        ("parent", "parent relationship between words"),
+        ("person", "grammatical person"),
+        ("ref", "biblical reference with word counting"),
+        ("referent", "number of referent"),
+        ("sibling", "simbling relationship between words"),
+        ("strong", "strong number"),
+        ("subjref", "number of subject referent"),
+        ("role", "role"),
+        ("rule", "syntactical rule"),
+        ("text", "the text of a word"),
+        ("tense", "verbal tense"),
+        ("type", "morphological type (on w), syntactical type (on wg)"),
+        ("unicode", "word in unicode characters plus material after it"),
+        ("verse", "verse number, from ref attribute in xml"),
+        ("voice", "verbal voice"),
+    )
+    featureMeta = {k: dict(description=v) for (k, v) in featureMeta}
 
-    #information about the authors and the version of the datasource
+    self.monoAtts = monoAtts
+    self.intFeatures = intFeatures
+    self.featureMeta = featureMeta
+
     tfVersion = self.tfVersion
     xmlVersion = self.xmlVersion
     generic = self.generic
-    generic["author"] = "Evangelists and apostles"
+    generic["author"] = "Evangelists and apostles" #information about the authors and the version of the datasource
     generic["title"] = "Greek New Testament"
     generic["institute"] = "ETCBC (Eep Talstra Centre for Bible and Computer)"
     generic["converters"] = "Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda"
     generic["sourceFormat"] = "XML lowfat"
     generic["version"] = tfVersion
     generic["xmlVersion"] = xmlVersion
-    intFeatures = self.intFeatures
-    featureMeta = self.featureMeta
-
+    
     initTree(tfPath, fresh=True, gentle=True)
 
     cv = self.getConverter()
@@ -576,6 +641,12 @@ def getDirector(self):
                     description=f"this is XML attribute {fName}",
                     valueType="str",
                 )
+            '''if fName == "sibling":
+               cv.meta(
+                    fName,
+                    description=f"this is XML attribute {fName}",
+                    valueType="int",
+                )''' 
 
         if verbose == 1:
             console("source reading done")
