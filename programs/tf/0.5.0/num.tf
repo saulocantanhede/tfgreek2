@@ -1,15 +1,15 @@
 @node
 @author=Evangelists and apostles
 @converters=Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda
-@description=this is XML attribute num
+@description=generated number (not in xml): book: (Matthew=1, Mark=2, ..., Revelation=27); sentence: numbered per chapter; word: numbered per verse.
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer)
 @sourceFormat=XML lowfat
 @title=Greek New Testament
-@valueType=str
+@valueType=int
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-27T00:23:50Z
+@dateWritten=2023-06-28T15:41:51Z
 
 1
 2

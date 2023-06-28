@@ -1,7 +1,7 @@
 @node
 @author=Evangelists and apostles
 @converters=Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda
-@description=this is XML attribute tense
+@description=verbal tense
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer)
 @sourceFormat=XML lowfat
 @title=Greek New Testament
@@ -9,7 +9,7 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-27T00:23:57Z
+@dateWritten=2023-06-28T15:41:57Z
 
 10	aorist
 15	aorist

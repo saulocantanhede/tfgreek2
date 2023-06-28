@@ -1,7 +1,7 @@
 @node
 @author=Evangelists and apostles
 @converters=Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda
-@description=this is XML attribute mood
+@description=verbal mood
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer)
 @sourceFormat=XML lowfat
 @title=Greek New Testament
@@ -9,7 +9,7 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-06-27T00:23:48Z
+@dateWritten=2023-06-28T15:41:49Z
 
 10	indicative
 15	indicative
