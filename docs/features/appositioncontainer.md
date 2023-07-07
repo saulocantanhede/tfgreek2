@@ -10,7 +10,7 @@ This feature indicates if a wordgroup is the containing wordgroup of an appositi
 
 ## Feature values 
 
-value | description | Frequency
+Value | Description | Frequency
 ---  | --- | --- 
 ` ` | no appositioncontainer | 
 `1` |  appositioncontainer | 
