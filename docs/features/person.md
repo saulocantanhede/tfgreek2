@@ -10,7 +10,7 @@ Gramatical person of a verb.
 
 ## Feature values
 
-person (this feature) | Explanation | Frequency
+Value | Description | Frequency
 --- | --- | ---
 first | First person (either singular or plural) | 2943
 second | Second person (either singular or plural) | 3729
