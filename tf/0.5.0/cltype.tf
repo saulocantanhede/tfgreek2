@@ -9,2851 +9,2851 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-09T16:47:16Z
+@dateWritten=2023-07-16T20:43:11Z
 
 138067	Verbless
-138109	Verbless
-Verbless
-Verbless
-138141	Verbless
-138159	VerbElided
-138164	VerbElided
-138265	VerbElided
+138166	Verbless
+138169	Verbless
+138172	Verbless
+138201	Minor
+138231	Verbless
 138270	VerbElided
-138299	Verbless
-138341	VerbElided
-138437	Verbless
-138449	Verbless
-138463	VerbElided
-138516	VerbElided
-138558	VerbElided
-138560	VerbElided
-138562	VerbElided
-138568	Verbless
+138280	VerbElided
+138286	Minor
+138481	VerbElided
+138491	VerbElided
+138512	Minor
+138547	Verbless
+138616	VerbElided
+138658	Minor
+138692	Minor
+138702	Minor
+138827	Verbless
+138849	Verbless
+138872	VerbElided
+138951	Minor
+138956	Minor
+138977	VerbElided
+139057	VerbElided
+139062	VerbElided
+139067	VerbElided
+139080	Verbless
 Verbless
-138573	VerbElided
+139088	VerbElided
+139090	VerbElided
+139099	VerbElided
+139174	VerbElided
+139244	VerbElided
+139259	Minor
+139288	VerbElided
+139310	VerbElided
+139374	VerbElided
+139383	VerbElided
+139389	VerbElided
+139420	VerbElided
+139429	VerbElided
+Minor
+139458	Verbless
+139484	Minor
+139547	Minor
+139559	Verbless
+139561	Verbless
+139572	Verbless
+139574	Verbless
+139593	VerbElided
+139602	VerbElided
+139616	Minor
+Minor
 VerbElided
-138579	VerbElided
-138615	VerbElided
-138644	VerbElided
-138666	VerbElided
-138677	VerbElided
-138703	VerbElided
-138708	VerbElided
-138711	VerbElided
-138728	VerbElided
-138732	VerbElided
-138745	Verbless
-138791	Minor
-138797	Verbless
-Verbless
-138802	Verbless
-Verbless
-138813	VerbElided
-138818	VerbElided
-138826	VerbElided
-138863	VerbElided
-138904	VerbElided
-138907	VerbElided
-138954	VerbElided
-139070	VerbElided
-139076	VerbElided
-139079	VerbElided
-139095	VerbElided
-139111	VerbElided
-139127	VerbElided
-139177	VerbElided
-139180	Verbless
-Verbless
-139189	Verbless
-139191	VerbElided
-139212	VerbElided
-Verbless
-139232	VerbElided
-139234	VerbElided
-139236	VerbElided
-Verbless
+139625	Minor
+Minor
+139639	Minor
+139701	VerbElided
+139710	Minor
+139747	Minor
+139756	Minor
+139778	VerbElided
+139785	VerbElided
+139874	Minor
+139883	VerbElided
+139890	Minor
+139916	Minor
+139922	Minor
+139957	Minor
+140015	Minor
+140099	VerbElided
+140110	VerbElided
+140115	VerbElided
+140148	VerbElided
+140177	VerbElided
+140196	Minor
+140207	VerbElided
+140236	Minor
+140250	Minor
+Minor
+140302	VerbElided
+140307	Verbless
+140309	Verbless
+140327	Verbless
+140332	VerbElided
+140388	VerbElided
+140394	Verbless
+140439	VerbElided
+140442	VerbElided
+140447	VerbElided
+140450	Verbless
+140452	VerbElided
+140473	VerbElided
+140484	Verbless
+140492	VerbElided
+140502	Minor
+140520	Verbless
+140522	Verbless
+140526	Verbless
+140530	VerbElided
+140589	VerbElided
+140596	VerbElided
+140598	VerbElided
+140600	Verbless
+140705	VerbElided
+140710	VerbElided
+140720	Minor
+140722	VerbElided
+140794	Verbless
+140810	Minor
+140812	Minor
+140831	VerbElided
+140834	Minor
+140849	VerbElided
+140854	Minor
+140867	Minor
+Minor
+140877	VerbElided
+140881	VerbElided
+140889	Minor
+140908	Verbless
+140936	VerbElided
+140946	VerbElided
 VerbElided
-139245	VerbElided
-139251	Verbless
-139254	VerbElided
-139266	Verbless
-Verbless
-139269	Verbless
-139271	VerbElided
-139303	VerbElided
-139306	VerbElided
+140968	VerbElided
+141014	VerbElided
+141089	VerbElided
+141163	VerbElided
+141168	VerbElided
+141172	Minor
+141185	Minor
+141198	Minor
+141210	VerbElided
+141301	Verbless
+141331	VerbElided
+141375	VerbElided
+141377	VerbElided
+141379	VerbElided
+141456	Verbless
+141461	VerbElided
+141503	Minor
+141523	Minor
+141537	Minor
+141554	VerbElided
+141556	VerbElided
+141580	Minor
+141597	VerbElided
+141667	Minor
+141704	VerbElided
+141760	Minor
+141785	VerbElided
+141794	Verbless
+141800	Minor
+141803	VerbElided
+141811	VerbElided
+141935	VerbElided
+141955	VerbElided
+142017	Minor
+142041	Minor
+142049	Minor
+142117	Minor
+142139	Minor
+142204	Minor
+142223	VerbElided
+142232	Minor
+142245	Minor
+142255	Minor
+142285	Verbless
+142310	VerbElided
+142318	VerbElided
+142335	VerbElided
+142372	Verbless
+142377	Verbless
+142394	VerbElided
+142417	Minor
+142429	VerbElided
+142445	VerbElided
+142458	VerbElided
+142461	VerbElided
+142463	VerbElided
+142484	Minor
+142492	VerbElided
+142543	Minor
+142551	Minor
+142556	VerbElided
+142633	Minor
+142639	VerbElided
+142641	VerbElided
+142643	VerbElided
+142675	VerbElided
+142727	Minor
+142738	VerbElided
+142748	Minor
+142770	VerbElided
+142811	Minor
+142819	Minor
+142824	VerbElided
+142830	VerbElided
+142890	VerbElided
+142893	Verbless
+142896	VerbElided
+142962	VerbElided
+143033	Minor
+143037	VerbElided
+143041	VerbElided
 VerbElided
-Verbless
-139363	VerbElided
-139367	VerbElided
-139373	VerbElided
-139410	Verbless
-139423	VerbElided
-139431	VerbElided
-139440	VerbElided
-139442	VerbElided
-139455	Verbless
-139470	VerbElided
-139476	VerbElided
-VerbElided
-139486	VerbElided
-139513	VerbElided
-139551	VerbElided
-139584	VerbElided
-139586	VerbElided
-139596	Minor
-139608	VerbElided
-139654	Verbless
-139668	VerbElided
-139687	VerbElided
-VerbElided
-VerbElided
-139729	Verbless
-139731	VerbElided
-139774	VerbElided
-VerbElided
-139798	VerbElided
-139857	VerbElided
-139905	VerbElided
-139908	Verbless
-139910	VerbElided
-139914	VerbElided
-139978	VerbElided
-139988	VerbElided
-140136	VerbElided
-140169	Verbless
-140183	VerbElided
-140188	VerbElided
-140195	VerbElided
-140213	Verbless
-140215	Verbless
-140223	VerbElided
-140240	VerbElided
-140248	VerbElided
-140255	VerbElided
-VerbElided
-VerbElided
-140269	VerbElided
-140304	VerbElided
-140347	VerbElided
-VerbElided
-VerbElided
-140368	VerbElided
-140400	VerbElided
-140418	VerbElided
-140443	VerbElided
-140445	VerbElided
-140477	VerbElided
-Verbless
-140480	VerbElided
-140512	VerbElided
-140548	VerbElided
-140551	VerbElided
-VerbElided
-140631	Verbless
-140686	VerbElided
-140688	VerbElided
-140696	VerbElided
-140721	VerbElided
-140730	Verbless
-140749	Verbless
-140800	VerbElided
-140807	Verbless
-140829	VerbElided
-VerbElided
-140899	VerbElided
-140927	Verbless
-140930	Verbless
-140954	Verbless
-140969	VerbElided
-141004	Verbless
-Verbless
-141009	Verbless
-141013	Verbless
-141041	VerbElided
-141091	Minor
-141103	Minor
-141130	Verbless
-141134	VerbElided
-VerbElided
-141169	Verbless
-141184	VerbElided
-141191	Verbless
-141193	Verbless
-141196	VerbElided
-141215	VerbElided
-141223	VerbElided
-141226	VerbElided
-141232	Verbless
-141247	VerbElided
-141249	VerbElided
-141256	Verbless
-141312	Minor
-141322	VerbElided
-VerbElided
-141333	VerbElided
-VerbElided
-141364	Verbless
-141400	Verbless
-141418	Verbless
-141435	VerbElided
-141437	Verbless
-141462	VerbElided
-141476	Verbless
-Verbless
-141482	Verbless
-141489	Verbless
-141509	Verbless
-141520	VerbElided
-VerbElided
-141523	VerbElided
-141551	Verbless
-141575	Verbless
-141616	VerbElided
-VerbElided
-VerbElided
-141625	VerbElided
-141645	VerbElided
-141690	VerbElided
-141695	VerbElided
-141708	Verbless
-141722	Verbless
-141724	Verbless
-141727	Verbless
-141747	Verbless
-141753	Verbless
-141764	VerbElided
-141778	VerbElided
-141788	Verbless
-141846	VerbElided
-141919	VerbElided
-141929	Verbless
-Verbless
-141960	VerbElided
-141994	VerbElided
-142098	Verbless
-142142	VerbElided
-142149	Verbless
-142159	VerbElided
-142180	Verbless
-142191	VerbElided
-142206	Verbless
-142227	VerbElided
-VerbElided
-142299	Verbless
-142343	Verbless
-142416	Verbless
-142421	Verbless
-142433	VerbElided
-142488	VerbElided
-142497	Verbless
-142508	Verbless
-142608	VerbElided
-142658	VerbElided
-142662	VerbElided
-142679	VerbElided
-142683	VerbElided
-142686	VerbElided
-VerbElided
-142706	VerbElided
-142711	VerbElided
-142773	VerbElided
-142833	Verbless
-142923	VerbElided
-142926	VerbElided
-142954	VerbElided
-VerbElided
-Verbless
-142963	Verbless
-143033	Verbless
-143069	VerbElided
-143093	Verbless
-143156	VerbElided
-143193	VerbElided
-Verbless
-143202	VerbElided
-143216	VerbElided
-VerbElided
-VerbElided
-VerbElided
-143247	Verbless
-143251	Minor
-143288	VerbElided
-143341	Verbless
-143361	VerbElided
-143375	VerbElided
-143387	Verbless
-143468	Verbless
+143128	Minor
+143195	Verbless
+143275	Minor
+143291	VerbElided
+143295	VerbElided
+143309	VerbElided
+143353	VerbElided
+143367	Verbless
+143383	Minor
+143407	Verbless
+143486	Minor
 143497	VerbElided
-143518	Verbless
-143585	VerbElided
-143621	VerbElided
-143643	VerbElided
-143645	VerbElided
-143647	VerbElided
-143679	VerbElided
-VerbElided
-Verbless
-143708	VerbElided
-143754	VerbElided
-VerbElided
-VerbElided
-143767	VerbElided
-143795	Verbless
-143830	VerbElided
-143832	VerbElided
-143868	VerbElided
-143888	Verbless
-143907	VerbElided
-143957	Verbless
-143985	Verbless
-144015	VerbElided
-144027	Verbless
-VerbElided
-144072	Verbless
-VerbElided
-Verbless
-144085	VerbElided
-144088	Verbless
-144121	VerbElided
-VerbElided
-144170	VerbElided
-144234	VerbElided
-144239	Verbless
-144242	Verbless
-144245	Verbless
-144258	VerbElided
-144308	Minor
-144331	Verbless
-144336	Verbless
-144340	Verbless
-144368	VerbElided
-144390	Minor
-144413	VerbElided
-144423	Verbless
-144425	Verbless
-144428	VerbElided
-144447	Verbless
-144456	VerbElided
-144466	Verbless
-144468	Verbless
-144485	VerbElided
+143509	Verbless
+143552	VerbElided
+143554	VerbElided
+143625	Minor
+143635	Minor
+143646	Minor
+143675	VerbElided
+143739	Verbless
+143743	Verbless
+143800	Verbless
+143808	Minor
+143831	VerbElided
+143893	Verbless
+143895	Verbless
+143903	Verbless
+143912	Verbless
+143928	Minor
+143936	Minor
+143951	VerbElided
+144037	Minor
+144045	Minor
+144067	Minor
+144113	Verbless
+144120	VerbElided
+144122	VerbElided
+144172	Minor
+144188	Verbless
+144196	Minor
+144214	VerbElided
+144219	Minor
+144225	Verbless
+144229	Verbless
+144235	VerbElided
+144250	Minor
+144268	VerbElided
+144286	VerbElided
+144297	VerbElided
+144309	Verbless
+144323	Minor
+144337	VerbElided
+144341	VerbElided
+144350	Verbless
+144447	Minor
+144461	Minor
+144476	Minor
+144488	Minor
+144493	VerbElided
 144495	VerbElided
-144520	VerbElided
-144545	Verbless
-144569	VerbElided
-144571	VerbElided
-144574	Verbless
-144589	VerbElided
-144591	VerbElided
-144608	VerbElided
-144625	Verbless
-144630	Verbless
-144657	VerbElided
-VerbElided
-144663	VerbElided
-144682	VerbElided
-144759	VerbElided
-144761	Verbless
+144509	Minor
+144512	VerbElided
+144514	VerbElided
+144542	Minor
+144563	Minor
+144570	Minor
+144583	Minor
+144589	Minor
+144604	Verbless
+144614	Minor
+144640	Minor
+144673	Minor
+Minor
+Minor
+144697	Verbless
+144729	Verbless
 144765	VerbElided
-144800	VerbElided
-144812	Verbless
-144833	VerbElided
-144844	Verbless
-Verbless
-144868	VerbElided
-144890	VerbElided
-145070	VerbElided
+144771	Verbless
+144797	Minor
+144826	VerbElided
+144857	Verbless
+144859	Verbless
+144873	Verbless
+144886	Verbless
+144933	Verbless
+144957	VerbElided
+144961	VerbElided
+144965	VerbElided
+145030	Verbless
+145081	Verbless
+145136	Minor
+Minor
+145170	VerbElided
+145172	VerbElided
 VerbElided
-145119	Verbless
-145172	Verbless
-145248	Verbless
-Verbless
-Verbless
-Verbless
-145281	VerbElided
-145322	Verbless
-145324	Verbless
-Verbless
-145330	Verbless
-145362	Verbless
-145375	Verbless
-145377	Verbless
-145384	Verbless
-145394	Verbless
-Verbless
-145422	VerbElided
-145437	VerbElided
-145456	VerbElided
-145481	VerbElided
+145185	VerbElided
+145205	Minor
+145211	Minor
+145221	VerbElided
+Minor
+145228	Minor
+145240	Minor
+145260	Minor
+145295	Minor
+145310	VerbElided
+145324	VerbElided
+145328	Minor
+145349	Verbless
+145362	Minor
+145380	Verbless
+145385	Verbless
+145392	Verbless
+145429	Verbless
+145439	Minor
+145442	Verbless
+145463	VerbElided
+145496	VerbElided
 145515	Verbless
+145603	Minor
+145608	Minor
+145618	VerbElided
+145631	Minor
+145738	Minor
+145747	VerbElided
+145768	Verbless
+145770	Verbless
+145774	Minor
+145820	VerbElided
+145839	Minor
+145845	Minor
+145883	VerbElided
+145985	Minor
+146073	Verbless
+146151	VerbElided
+146167	Verbless
+146188	VerbElided
+146221	Verbless
+146241	VerbElided
+146247	Minor
+146270	Verbless
+146301	VerbElided
+146303	VerbElided
+146312	Minor
+146360	Minor
+Minor
+146366	Minor
+Minor
+146451	Verbless
+146481	Minor
+146534	Verbless
+146670	Verbless
+146680	Verbless
+146705	VerbElided
+146821	VerbElided
+146833	Minor
+146840	Verbless
+146861	Verbless
+147044	Minor
+147058	VerbElided
+147163	VerbElided
+147169	VerbElided
+147204	VerbElided
+147215	VerbElided
+147221	VerbElided
+147223	VerbElided
+147258	VerbElided
+147268	VerbElided
+147394	Minor
+147404	VerbElided
+147527	Verbless
+147733	VerbElided
+147742	VerbElided
+147796	VerbElided
+VerbElided
 Verbless
-145544	Verbless
-145555	VerbElided
-145559	Verbless
-145585	Verbless
-145588	Verbless
-145628	Verbless
-145648	VerbElided
-145655	VerbElided
-145710	Verbless
-145793	Verbless
-145797	VerbElided
-145828	VerbElided
-145831	VerbElided
-145852	Verbless
-145944	VerbElided
-146006	VerbElided
-146040	Verbless
-146056	VerbElided
-146060	VerbElided
-146064	VerbElided
-146077	VerbElided
-146081	VerbElided
-146085	Verbless
-146111	VerbElided
-146160	VerbElided
-146172	Verbless
-146185	VerbElided
-146349	VerbElided
-146352	VerbElided
-146432	VerbElided
-146436	VerbElided
-146442	VerbElided
-VerbElided
-146478	Verbless
-146503	Verbless
-146510	VerbElided
-146515	VerbElided
-146530	VerbElided
-146558	Verbless
-146607	Verbless
-146633	VerbElided
-146658	VerbElided
-146676	Verbless
-146690	VerbElided
-146708	Verbless
-146763	Verbless
-146780	Verbless
-146814	VerbElided
-146844	VerbElided
+147810	Verbless
+147866	Minor
+147950	Minor
+147958	Minor
+147961	Verbless
+148035	VerbElided
+148080	Verbless
+148167	Minor
+148190	VerbElided
+148234	Minor
+Minor
+148274	VerbElided
+148276	Verbless
+148301	VerbElided
+148331	VerbElided
+148334	VerbElided
 VerbElided
 VerbElided
-VerbElided
-146898	VerbElided
-146925	VerbElided
-VerbElided
-146933	Verbless
-146974	Verbless
-Verbless
-146993	VerbElided
-VerbElided
-VerbElided
-147108	VerbElided
-147135	Verbless
-Verbless
-147141	VerbElided
-147143	VerbElided
-VerbElided
-147148	VerbElided
-147154	Verbless
-147175	VerbElided
-147183	VerbElided
-147199	VerbElided
-147218	VerbElided
-147220	VerbElided
-147226	Verbless
-147248	VerbElided
-147293	VerbElided
-147301	Verbless
-147317	VerbElided
-147437	Verbless
-147441	Verbless
-147451	VerbElided
-147465	VerbElided
-VerbElided
-147476	Verbless
-147502	VerbElided
-147504	VerbElided
-147551	VerbElided
-147577	Minor
-147583	Minor
-147589	VerbElided
-147629	Verbless
-147637	VerbElided
-147640	VerbElided
-147656	VerbElided
-147660	VerbElided
-147684	Verbless
-147686	Verbless
-147692	Verbless
-147715	VerbElided
-147720	Verbless
-147748	Minor
-147764	VerbElided
-VerbElided
-147767	VerbElided
-VerbElided
-147770	VerbElided
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-147806	VerbElided
-147810	Minor
-147826	VerbElided
-147841	VerbElided
-147865	VerbElided
-147901	Verbless
-147911	VerbElided
-147938	VerbElided
-147971	VerbElided
-147978	Verbless
-147991	VerbElided
-148043	Verbless
-148127	VerbElided
-148134	Verbless
-148169	VerbElided
-148183	VerbElided
-148220	VerbElided
-148237	VerbElided
-148314	VerbElided
-148322	VerbElided
-148347	VerbElided
-148355	Verbless
-Verbless
-148373	Verbless
-148389	VerbElided
-148399	VerbElided
-148426	VerbElided
-148451	VerbElided
-148503	Verbless
-148507	VerbElided
-148519	VerbElided
-VerbElided
-148567	Verbless
-148590	Verbless
-148630	Verbless
-Verbless
-148635	Verbless
-VerbElided
-148669	VerbElided
-148676	Verbless
-VerbElided
-148724	VerbElided
-148780	VerbElided
-148783	Verbless
-148855	VerbElided
-148947	Verbless
-Verbless
-148980	VerbElided
-149000	Verbless
-149004	Verbless
-149008	Verbless
-149014	Verbless
-149059	Minor
-149085	VerbElided
-149091	VerbElided
-149094	VerbElided
-149123	VerbElided
-149132	Verbless
-149174	Minor
-149196	VerbElided
-149199	VerbElided
-149230	VerbElided
-149234	Verbless
-149240	Verbless
-149270	VerbElided
-149334	VerbElided
-149358	VerbElided
-149361	Verbless
-149367	VerbElided
-149382	Verbless
-149384	Verbless
-149387	VerbElided
+148400	Verbless
+148405	Minor
+148486	VerbElided
+148594	Verbless
+148624	VerbElided
+148663	VerbElided
+148686	Verbless
+148858	Verbless
+148912	VerbElided
+148920	Minor
+148925	Minor
+148950	Verbless
+148973	Minor
+149071	VerbElided
+149138	VerbElided
+149173	VerbElided
+149176	VerbElided
+149179	VerbElided
+149237	VerbElided
+149241	VerbElided
+149244	Verbless
+149291	Minor
+149295	VerbElided
+149379	Minor
+149386	VerbElided
+149388	VerbElided
 149390	VerbElided
-149404	VerbElided
-149421	VerbElided
-149425	VerbElided
-149452	VerbElided
-149492	VerbElided
-149625	VerbElided
-149669	VerbElided
-149678	VerbElided
-149688	VerbElided
-VerbElided
-149710	Verbless
-149720	VerbElided
-149752	Minor
-Verbless
+149411	VerbElided
+149464	Verbless
+149480	Minor
+149503	Minor
+149527	VerbElided
+149532	VerbElided
+149543	Minor
+149560	Minor
+149597	VerbElided
+149634	Verbless
+149665	VerbElided
+149669	Minor
+149754	Verbless
 149812	Verbless
-149819	Verbless
-149831	Verbless
-149837	Verbless
-149842	VerbElided
-149867	Minor
-149914	VerbElided
-149953	Verbless
-149981	Verbless
-150026	Verbless
-150032	VerbElided
-150064	Verbless
-150096	Verbless
-150107	Minor
-150144	VerbElided
-150222	VerbElided
-150263	Verbless
-150327	VerbElided
-150350	VerbElided
-150425	VerbElided
-150427	VerbElided
-150471	VerbElided
-150523	Verbless
-150583	Verbless
-150645	VerbElided
-150777	VerbElided
-150779	VerbElided
-150787	VerbElided
+149857	VerbElided
+149870	Minor
+149879	Verbless
+149881	VerbElided
+149896	Minor
+149936	Minor
+149954	Verbless
+149956	VerbElided
+149958	Verbless
+149991	VerbElided
+149999	Verbless
+150050	Minor
+150065	VerbElided
+150067	VerbElided
+150153	VerbElided
+150170	Minor
+150179	Minor
+150202	Minor
+150281	VerbElided
+150291	Minor
+Verbless
+150296	Verbless
+150300	Verbless
+150325	VerbElided
+150394	Minor
+150421	Minor
+150476	Verbless
+150485	Verbless
+150492	Verbless
+150544	VerbElided
+150582	Minor
+150614	Minor
+150630	VerbElided
+150647	Verbless
+150652	Verbless
+150658	VerbElided
+150670	Minor
+150697	Verbless
+150713	VerbElided
+150732	Verbless
+150738	Verbless
+150754	Minor
+150768	VerbElided
+150774	Minor
+150794	VerbElided
+150835	VerbElided
+150840	Minor
+150881	Minor
 150883	Verbless
-150934	VerbElided
-150943	VerbElided
-151006	VerbElided
-151010	Minor
-151084	VerbElided
-151145	Verbless
-151185	VerbElided
-151198	Verbless
-151225	Verbless
-151336	VerbElided
-151421	VerbElided
-151433	VerbElided
-151466	Verbless
-151551	Verbless
-151582	VerbElided
-151625	VerbElided
-151629	VerbElided
-151664	VerbElided
-151830	Verbless
-151855	Verbless
-151929	Minor
-151951	VerbElided
-151977	Verbless
+150933	VerbElided
+150939	VerbElided
+150943	Verbless
+150975	VerbElided
+150981	VerbElided
+150991	Minor
+151016	VerbElided
+151053	Verbless
+151067	Verbless
+151125	VerbElided
+151129	VerbElided
+151139	VerbElided
+151182	VerbElided
+151322	VerbElided
+151326	Verbless
+151338	VerbElided
+151402	VerbElided
+151425	Verbless
+151466	Minor
+151472	VerbElided
+151483	Minor
+151495	Verbless
+151497	Verbless
+151539	VerbElided
+151562	Minor
+151584	VerbElided
+151871	Minor
+151931	Minor
+151935	VerbElided
+151937	VerbElided
+151946	Minor
+Minor
+151981	Minor
+Minor
+151987	Minor
+Minor
+152030	Verbless
+152149	Verbless
+152291	Minor
+152300	Verbless
 Verbless
-152004	Verbless
-152192	VerbElided
-152333	VerbElided
-152386	VerbElided
-152391	VerbElided
-152411	Minor
-152459	VerbElided
-VerbElided
-152467	VerbElided
-152489	Verbless
-152596	VerbElided
-152614	VerbElided
-152630	Verbless
-152637	Verbless
-Verbless
-VerbElided
-152648	Minor
-152674	Verbless
-Verbless
-Verbless
-152687	Verbless
+152304	Verbless
+152306	Verbless
+152343	Minor
+152378	VerbElided
+152458	Verbless
+152461	Verbless
+152463	Verbless
+152470	Verbless
+152481	Minor
+152524	Minor
+152538	Verbless
+152565	Verbless
+152568	Verbless
+152580	Verbless
+152603	Verbless
+152605	Verbless
+152665	VerbElided
 152692	VerbElided
-152705	Verbless
-152709	Minor
-152752	VerbElided
-152758	Verbless
-152761	VerbElided
-152765	VerbElided
-152861	VerbElided
-152884	VerbElided
-152886	VerbElided
-152889	VerbElided
-152910	VerbElided
-152912	VerbElided
-152917	VerbElided
-152919	VerbElided
-152934	VerbElided
-152936	VerbElided
-153008	Minor
-153039	VerbElided
-153043	Verbless
-153050	VerbElided
-153056	VerbElided
-153078	VerbElided
-153081	Verbless
-Verbless
-153090	Verbless
-Verbless
-153128	VerbElided
-153140	VerbElided
-153159	Minor
-153207	VerbElided
-153221	Verbless
-153286	VerbElided
-VerbElided
-153308	Verbless
-153354	Verbless
-153359	Verbless
-153368	VerbElided
-153378	VerbElided
-VerbElided
-153397	VerbElided
-VerbElided
-153400	Verbless
-153415	Verbless
-153418	Verbless
-153477	Verbless
-153506	Minor
-153524	VerbElided
-VerbElided
-153552	Minor
-153570	VerbElided
-153576	VerbElided
-153598	Verbless
-153603	VerbElided
-153610	Verbless
-153616	Verbless
-153646	VerbElided
-153664	Verbless
-153670	VerbElided
-153689	VerbElided
-Verbless
-153744	Verbless
-153758	Verbless
-153847	Minor
-153873	VerbElided
-153926	VerbElided
-VerbElided
-153929	VerbElided
-153936	Minor
-153960	Verbless
-153991	VerbElided
-153996	Verbless
-154088	VerbElided
-154103	VerbElided
-154135	VerbElided
-154146	VerbElided
-154161	Verbless
-154174	Verbless
-154190	VerbElided
-154251	Minor
-154259	Verbless
-154272	Verbless
-154275	VerbElided
-154294	VerbElided
-Verbless
-154299	Verbless
-154306	Verbless
-154365	VerbElided
-154382	VerbElided
-154389	VerbElided
-154391	VerbElided
-154400	Verbless
-154442	Verbless
-154490	VerbElided
-154509	VerbElided
-154512	VerbElided
-154527	VerbElided
-VerbElided
-154537	VerbElided
-154607	Verbless
-154623	Minor
-154633	VerbElided
-154649	Minor
-154679	Verbless
-Verbless
-154683	Verbless
-154685	VerbElided
-154748	Verbless
-154839	VerbElided
-154841	Verbless
-154851	VerbElided
-154912	Verbless
-154916	VerbElided
-154921	Verbless
-154926	Verbless
-154952	VerbElided
-155013	Verbless
-155026	Verbless
-155072	Verbless
-155108	VerbElided
-155146	Verbless
-155260	VerbElided
-155318	VerbElided
-155324	VerbElided
-155327	Verbless
-155338	VerbElided
-155370	Verbless
-155442	Verbless
-155486	Verbless
-Verbless
-155517	Verbless
-155532	VerbElided
-155566	VerbElided
+152733	VerbElided
+152753	Minor
+152787	VerbElided
+152864	Verbless
+152866	Verbless
+152929	Verbless
+152948	Minor
+152953	VerbElided
+152962	Verbless
+152992	Minor
+153033	Verbless
+153037	Verbless
+153121	Minor
+153128	Verbless
+153180	VerbElided
+153196	VerbElided
+153204	Minor
+153251	Minor
+153292	Verbless
+153536	Verbless
+153543	VerbElided
+153576	Minor
+153598	VerbElided
+153607	VerbElided
+153643	Minor
+153646	Minor
+153653	Verbless
+153785	Minor
+153815	Minor
+153824	VerbElided
+153853	Minor
+153931	Minor
+153945	VerbElided
+154002	Verbless
+154035	VerbElided
+154041	VerbElided
+154050	VerbElided
+154076	VerbElided
+154086	VerbElided
+154094	Verbless
+154137	VerbElided
+154253	VerbElided
+154284	Verbless
+154311	VerbElided
+154326	Minor
+154333	Minor
+154342	Minor
+154482	Minor
+154486	Minor
+154515	Minor
+Minor
+154520	Minor
+154598	Minor
+154628	VerbElided
+154635	VerbElided
+154696	Minor
+154784	VerbElided
+154789	VerbElided
+154798	VerbElided
+Minor
+154802	VerbElided
+154866	Verbless
+154919	Verbless
+154930	Minor
+154934	VerbElided
+154936	Minor
+154944	VerbElided
+154966	VerbElided
+155016	Verbless
+155121	Verbless
+155134	Minor
+155149	Minor
+155176	VerbElided
+155216	Minor
+155231	VerbElided
+155255	Minor
+Minor
+155270	Verbless
+155301	VerbElided
+155313	Minor
+155338	Verbless
+155440	Verbless
+155468	Verbless
+155474	Minor
+155501	Minor
+155524	VerbElided
+155551	Minor
 155591	VerbElided
-155696	Verbless
-155703	Verbless
-Verbless
-155724	VerbElided
-155748	VerbElided
-155824	VerbElided
-155833	VerbElided
-155858	Verbless
-155871	VerbElided
-155875	VerbElided
-155887	VerbElided
-155933	Verbless
-155971	VerbElided
-155973	VerbElided
-155983	Verbless
-155989	VerbElided
-156091	VerbElided
-156123	VerbElided
-156153	VerbElided
-156173	VerbElided
-156179	VerbElided
-156188	Verbless
-156203	Verbless
-156208	VerbElided
-156250	Verbless
-Verbless
-156256	Verbless
-Verbless
-156275	Verbless
-Verbless
-156280	Verbless
-156319	Verbless
-156344	Verbless
-Verbless
-156376	VerbElided
-156382	VerbElided
-156389	VerbElided
-156408	VerbElided
-156460	Verbless
-156483	Verbless
-156507	Verbless
-156565	Verbless
-156622	VerbElided
-156634	VerbElided
-156696	VerbElided
+155593	VerbElided
+155595	VerbElided
+155597	VerbElided
+155699	VerbElided
+155753	VerbElided
+155756	VerbElided
+155768	Verbless
+155853	Verbless
+155855	Verbless
+155885	Minor
+155892	VerbElided
+155894	VerbElided
+155896	VerbElided
+155936	Minor
+155962	Minor
+156030	Minor
+156036	Minor
+156078	Minor
+156103	VerbElided
+156127	Minor
+156152	Verbless
+156154	Verbless
+156163	VerbElided
+156167	VerbElided
 VerbElided
-156734	Verbless
-156822	Verbless
-156870	Verbless
-156896	VerbElided
-157049	Verbless
-157051	Verbless
-157065	VerbElided
-157149	VerbElided
-157185	Verbless
-157247	VerbElided
-157256	VerbElided
-157377	VerbElided
-157391	VerbElided
-157471	Verbless
-157505	Verbless
+156176	VerbElided
+156191	Verbless
+156233	VerbElided
+156235	Minor
+156237	Minor
+156256	VerbElided
+156259	Minor
+156279	Minor
+156285	VerbElided
+156315	Minor
+156328	Minor
+156339	VerbElided
+156344	VerbElided
+156354	Verbless
+156382	Minor
+156400	VerbElided
+156480	VerbElided
+156495	Verbless
+156508	Minor
+156522	Minor
+Minor
+156532	VerbElided
+156543	Minor
+156555	Minor
+156574	Minor
+156755	Verbless
+156766	Verbless
+156784	VerbElided
+156817	VerbElided
+156820	VerbElided
+156841	Verbless
+156871	Minor
+156901	VerbElided
+156908	VerbElided
+156921	Minor
+156971	Minor
+157011	VerbElided
+157037	Minor
+157050	Minor
+157059	Minor
+157074	VerbElided
+157086	Minor
+157091	Minor
+157135	Minor
+157144	Minor
+157149	Verbless
+157162	VerbElided
+157168	VerbElided
+157201	VerbElided
+157209	VerbElided
+Minor
+157230	Minor
+157258	Verbless
+157261	Verbless
+157270	Verbless
+157311	Minor
+157314	VerbElided
+157323	Verbless
+157384	Minor
+157409	VerbElided
+157411	VerbElided
+157416	VerbElided
+157418	VerbElided
+157423	VerbElided
+157425	VerbElided
+157427	VerbElided
+157429	VerbElided
+157431	VerbElided
+157454	Minor
+157494	VerbElided
+157501	Minor
+157513	Minor
+157534	VerbElided
+157545	Minor
+157559	VerbElided
+157564	Minor
+157581	Minor
+157606	VerbElided
+157612	Minor
+157675	Minor
 Verbless
-157525	VerbElided
-157545	Verbless
-157580	VerbElided
-157726	VerbElided
-VerbElided
-VerbElided
-157764	Verbless
-157784	Verbless
-157869	VerbElided
-157877	VerbElided
-157899	VerbElided
-157901	Verbless
-157944	Verbless
-Verbless
-157973	VerbElided
-157975	VerbElided
-157977	VerbElided
-157980	VerbElided
-157982	VerbElided
-157990	Verbless
-158034	Verbless
-158036	Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-158044	VerbElided
-158049	Verbless
-158056	Verbless
-158069	VerbElided
-158071	VerbElided
-158076	VerbElided
-158086	Verbless
-158091	Verbless
-158093	Verbless
-158103	Verbless
-158106	VerbElided
-158116	Verbless
-158118	VerbElided
-VerbElided
-VerbElided
-VerbElided
-158124	Verbless
-Verbless
-Verbless
-Verbless
-158130	VerbElided
-158138	VerbElided
-158151	Verbless
-158154	Verbless
-158156	Verbless
-158161	Verbless
-Verbless
-158168	Verbless
-Verbless
-158171	VerbElided
-158173	VerbElided
-Verbless
-158178	VerbElided
-158181	VerbElided
-158201	VerbElided
-158212	VerbElided
-158226	VerbElided
-158230	VerbElided
-VerbElided
-158249	VerbElided
-158252	VerbElided
-158254	VerbElided
-158265	VerbElided
-158268	Verbless
-158270	Verbless
-Verbless
-158276	VerbElided
-158319	Verbless
-Verbless
-158327	VerbElided
-158330	Verbless
-VerbElided
-158334	Verbless
-158340	Verbless
-Verbless
-158355	Verbless
-158359	VerbElided
-Verbless
-Verbless
-158388	Verbless
-158391	VerbElided
-158397	Verbless
-158407	Verbless
-Verbless
-158411	VerbElided
-158428	Verbless
-158430	VerbElided
-158437	VerbElided
-158442	Minor
-158447	VerbElided
-158458	Verbless
-158460	VerbElided
-158462	VerbElided
-Verbless
-158465	Minor
-158473	VerbElided
-Verbless
-Verbless
-Verbless
-Verbless
-158487	Verbless
-Verbless
-Verbless
-158496	VerbElided
-158511	Verbless
-Verbless
-Verbless
-158517	Verbless
-158526	VerbElided
-158545	Verbless
-158550	VerbElided
+157692	VerbElided
+157707	Minor
+157729	Minor
+157736	VerbElided
+157798	Minor
+Minor
+Minor
+157811	VerbElided
+157824	Verbless
+157848	VerbElided
+157911	Minor
+157962	Verbless
+158029	Minor
+158122	VerbElided
+158133	Verbless
+158166	Minor
+158204	VerbElided
+158209	Minor
+158234	VerbElided
+158244	Minor
+158290	Minor
+158300	VerbElided
+158318	Minor
+158336	VerbElided
+158415	Minor
+158479	VerbElided
+158492	VerbElided
+158547	VerbElided
 158564	Verbless
-158570	Verbless
-158572	Verbless
-158574	Verbless
-158581	VerbElided
-158596	Verbless
-158601	Verbless
 Verbless
-Verbless
-158607	VerbElided
-158619	VerbElided
-158631	Verbless
-158640	Verbless
-158664	VerbElided
-VerbElided
-158676	VerbElided
-158682	Verbless
-158699	VerbElided
-VerbElided
-VerbElided
-158708	Verbless
-158711	VerbElided
-158716	Verbless
-158731	Verbless
-158744	Verbless
-158759	Verbless
-158764	VerbElided
-VerbElided
-158769	VerbElided
-158802	VerbElided
-158804	VerbElided
-158822	Verbless
-158825	Verbless
-Verbless
-158833	Verbless
-Verbless
-Verbless
-Verbless
-158844	VerbElided
-158848	VerbElided
-158856	Verbless
-158879	Verbless
-Verbless
-Verbless
-158887	Verbless
-Verbless
-158893	Verbless
+158602	Verbless
+158630	VerbElided
+158634	Minor
+158648	Minor
+158653	VerbElided
+158678	Minor
+158696	Minor
+Minor
+158719	VerbElided
+158772	VerbElided
+158839	Minor
+Minor
+158873	Verbless
+158878	VerbElided
 158898	VerbElided
-158902	Verbless
-158915	Verbless
-158918	VerbElided
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-158924	VerbElided
-158926	VerbElided
-158928	VerbElided
-158930	VerbElided
-158932	Verbless
-158935	Verbless
-158937	Verbless
-158960	Verbless
-158964	Verbless
-158978	VerbElided
-158995	Verbless
-158997	Verbless
-159003	VerbElided
-VerbElided
-VerbElided
-VerbElided
-159008	VerbElided
-159017	VerbElided
-159020	VerbElided
-159022	Verbless
-159024	Verbless
-159026	Verbless
-159033	VerbElided
-VerbElided
-VerbElided
-159040	VerbElided
-159094	Verbless
-159104	Verbless
-Verbless
-159107	Verbless
-159110	Verbless
-Verbless
-159113	Verbless
-159120	Verbless
-159126	Verbless
-159128	Verbless
-159156	VerbElided
-159225	Verbless
-159264	VerbElided
-159270	Verbless
-159272	Verbless
-159288	Verbless
-VerbElided
-159298	Verbless
-159307	Verbless
-Verbless
-Verbless
-159316	VerbElided
-159334	Verbless
-Verbless
-Verbless
-159346	VerbElided
-VerbElided
-VerbElided
-159350	Verbless
-Verbless
-Verbless
-Verbless
-159374	VerbElided
-159380	VerbElided
-159390	Verbless
-159399	VerbElided
-159401	VerbElided
-159403	VerbElided
-159405	VerbElided
-159422	VerbElided
-159424	VerbElided
-159428	Verbless
-159433	VerbElided
-Verbless
-159438	Verbless
-159447	VerbElided
-159449	VerbElided
-159478	VerbElided
-159493	Verbless
-159495	VerbElided
-159500	Verbless
-159503	Verbless
-Verbless
-159506	VerbElided
-159525	VerbElided
-159542	Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-159562	VerbElided
-159577	Verbless
-Verbless
-159581	VerbElided
-159583	Verbless
-159598	Verbless
-159608	VerbElided
-159616	Verbless
-159624	VerbElided
-159631	VerbElided
-159639	VerbElided
-159645	VerbElided
-159658	Verbless
-Verbless
-159661	Verbless
-Verbless
-159692	VerbElided
-159698	VerbElided
-159700	VerbElided
-159702	VerbElided
-159709	VerbElided
-159713	VerbElided
-VerbElided
-159716	Verbless
-159761	VerbElided
+158900	VerbElided
+158977	Verbless
+159007	Minor
+159011	Verbless
+159087	Verbless
+159089	Verbless
+159092	Minor
+159097	Verbless
+159101	VerbElided
+159115	Minor
+159154	VerbElided
+159159	Minor
+159166	Verbless
+159168	VerbElided
+159248	VerbElided
+159307	Minor
+159318	Minor
+159331	Minor
+159352	VerbElided
+159357	Verbless
+159381	Minor
+159407	Minor
+159480	Minor
+159484	VerbElided
+Minor
+159494	Minor
+159502	Minor
+159520	Minor
+159550	Minor
+159648	Verbless
+159650	Verbless
+159654	Minor
+159715	VerbElided
+159756	Verbless
 159765	Verbless
-159784	Verbless
-159800	Verbless
-159803	Verbless
-159806	Verbless
-159809	Verbless
-159828	VerbElided
-159855	VerbElided
-159872	Verbless
-159874	Verbless
-159878	Verbless
-Verbless
-159881	Verbless
-Verbless
-Verbless
-159885	Verbless
-Verbless
-Verbless
-159927	VerbElided
-159946	VerbElided
-159952	VerbElided
-159967	Verbless
-159978	VerbElided
-159993	Verbless
-160010	VerbElided
-VerbElided
-160013	VerbElided
-160036	VerbElided
-160059	VerbElided
-Verbless
-160077	Verbless
-160092	VerbElided
-160095	VerbElided
-160103	VerbElided
-160107	Verbless
-160132	Verbless
-160140	Verbless
-Verbless
-160152	Verbless
-160159	Verbless
-160161	VerbElided
-160164	Verbless
-Verbless
-160167	Verbless
-Verbless
-160182	VerbElided
-160217	VerbElided
-160238	Verbless
-160261	Verbless
-160264	Verbless
-VerbElided
-160267	VerbElided
-160269	VerbElided
-160271	VerbElided
-160277	VerbElided
-VerbElided
-VerbElided
-VerbElided
-160282	VerbElided
-VerbElided
-160293	VerbElided
-160305	Verbless
-160307	Verbless
-160312	Verbless
-Verbless
-160317	VerbElided
-160337	Verbless
-160339	VerbElided
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-Verbless
-Verbless
-Verbless
-Verbless
-160386	VerbElided
-160388	VerbElided
-160390	VerbElided
-160403	VerbElided
-160408	Verbless
-160414	VerbElided
-160426	Verbless
-160428	VerbElided
-160438	VerbElided
-160451	Verbless
-160455	Verbless
-160483	VerbElided
-160493	VerbElided
-160518	VerbElided
-160534	Verbless
-VerbElided
+159773	Verbless
+159781	Verbless
+159857	Minor
+159897	Minor
+159912	VerbElided
+159922	VerbElided
+159929	VerbElided
+159945	Minor
+159990	VerbElided
+160018	Verbless
+160025	Minor
+160098	Minor
+160107	Minor
+160140	VerbElided
+160146	VerbElided
+160220	VerbElided
+160231	Verbless
+160248	Verbless
+160313	VerbElided
+160435	VerbElided
+160474	VerbElided
+160480	Verbless
+160495	VerbElided
+160523	Verbless
+160528	Verbless
+160534	VerbElided
+160542	VerbElided
+160567	Minor
+Minor
 160574	VerbElided
-160580	VerbElided
-160582	VerbElided
-160592	VerbElided
-160603	Verbless
-160622	Verbless
-160625	VerbElided
-Verbless
-VerbElided
-160637	Verbless
-VerbElided
-160672	VerbElided
-160676	VerbElided
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-VerbElided
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-160689	VerbElided
-160703	VerbElided
-160705	VerbElided
-VerbElided
-VerbElided
-Verbless
-Verbless
-160712	Verbless
-160714	Verbless
-160738	Verbless
-Verbless
-VerbElided
-160746	VerbElided
-160778	Verbless
-160815	VerbElided
-160819	Verbless
-Verbless
-VerbElided
-160824	VerbElided
-160836	Verbless
-160847	VerbElided
-160859	VerbElided
-160868	Verbless
-160887	Verbless
-VerbElided
-Verbless
-160906	Verbless
-160949	Verbless
-Verbless
-Verbless
-160953	VerbElided
-VerbElided
-VerbElided
-160971	Verbless
-160982	Verbless
-160987	VerbElided
-160999	VerbElided
-161005	VerbElided
-VerbElided
-161010	VerbElided
-VerbElided
-161026	VerbElided
-VerbElided
-Verbless
-161034	Verbless
-161049	VerbElided
-161060	Verbless
-161069	VerbElided
-161071	Verbless
-161073	Verbless
-161089	Verbless
-161108	VerbElided
-VerbElided
-161120	VerbElided
-161137	Verbless
-161140	Verbless
-161165	Verbless
-Verbless
-161176	Verbless
-161183	VerbElided
-161187	Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-161218	Verbless
-Verbless
-161225	Verbless
-Verbless
-161230	VerbElided
-161239	VerbElided
-161252	VerbElided
-161271	VerbElided
-161273	VerbElided
-161295	VerbElided
-161303	VerbElided
-VerbElided
-Verbless
-161310	VerbElided
-161312	VerbElided
-161320	Verbless
-Verbless
-VerbElided
-161332	Verbless
-VerbElided
-Verbless
-Verbless
-161350	Verbless
-161353	VerbElided
-161364	VerbElided
-161366	VerbElided
-161380	VerbElided
-161390	VerbElided
-161392	Verbless
-Verbless
-161405	Verbless
-Verbless
-161418	Verbless
-161425	Verbless
-Verbless
-Verbless
-161441	VerbElided
-161476	Verbless
-VerbElided
-161503	VerbElided
-Verbless
-161506	Verbless
-161514	VerbElided
-VerbElided
-161521	VerbElided
-161538	VerbElided
-161540	VerbElided
-161542	VerbElided
-161546	VerbElided
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-161557	Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-161591	VerbElided
-161593	VerbElided
-161597	VerbElided
-VerbElided
-161607	VerbElided
-161646	VerbElided
-161649	VerbElided
-161658	Minor
-161664	VerbElided
-161675	VerbElided
-161704	Verbless
-161716	VerbElided
-161726	VerbElided
-161735	Verbless
-VerbElided
-161738	VerbElided
-161771	VerbElided
-161792	VerbElided
-161796	VerbElided
-161816	VerbElided
-161824	VerbElided
-161836	VerbElided
-161843	VerbElided
-VerbElided
-161867	Verbless
-Verbless
-161872	VerbElided
-161874	VerbElided
-161879	Verbless
-161895	Verbless
-161906	Verbless
-161923	Verbless
-161936	Verbless
-161945	VerbElided
-161947	VerbElided
-161954	Verbless
-Verbless
-161957	VerbElided
-161965	Verbless
-161990	Verbless
-161992	Verbless
-162012	Verbless
-162025	VerbElided
-VerbElided
-VerbElided
-162033	VerbElided
-VerbElided
-Verbless
-162038	Verbless
-162048	VerbElided
-162050	Minor
-162065	VerbElided
-162083	Verbless
-VerbElided
-162110	VerbElided
-162115	Verbless
-162130	VerbElided
-162134	VerbElided
-162142	VerbElided
-162175	VerbElided
-162193	VerbElided
-162207	VerbElided
-162215	VerbElided
-162217	VerbElided
-Verbless
-162231	VerbElided
-162249	Verbless
-Verbless
-162269	VerbElided
-162281	Verbless
-Verbless
-Verbless
-162291	VerbElided
-162310	VerbElided
-162321	Verbless
-162338	Verbless
-162355	Verbless
-162359	Minor
-162370	Verbless
-162372	Verbless
-162427	Verbless
-162437	VerbElided
-162443	VerbElided
-162445	VerbElided
-162454	Verbless
-162457	VerbElided
-Verbless
-162477	VerbElided
-VerbElided
-162483	Verbless
-162491	VerbElided
-162493	Verbless
-Verbless
-162508	VerbElided
-162521	VerbElided
-162533	VerbElided
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-162540	VerbElided
-VerbElided
-162545	Verbless
-Verbless
-162587	VerbElided
-Verbless
-162590	VerbElided
-162592	VerbElided
-162617	VerbElided
-162619	VerbElided
-162623	VerbElided
-162626	VerbElided
-162635	Verbless
-162637	Verbless
-162640	VerbElided
-162649	Verbless
-Verbless
-162668	Verbless
-Verbless
-162677	Verbless
-VerbElided
-VerbElided
-VerbElided
-162686	VerbElided
-162690	VerbElided
-162693	Verbless
-162703	VerbElided
-162709	Verbless
-162711	Verbless
-Verbless
-162722	VerbElided
-162738	VerbElided
-162740	VerbElided
-162766	Verbless
-162768	Verbless
-Verbless
-162781	VerbElided
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-162811	VerbElided
-162816	Verbless
-162820	VerbElided
-162831	Verbless
-Verbless
-162834	Verbless
-Verbless
-Verbless
-162849	Verbless
-162854	Verbless
-162859	Minor
-162861	Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-162899	VerbElided
-162913	VerbElided
-Verbless
-VerbElided
-VerbElided
-162961	VerbElided
-162968	Verbless
-162985	Verbless
-163038	Verbless
-163058	VerbElided
-163076	Verbless
-Verbless
-163085	VerbElided
-163094	Minor
-163104	VerbElided
-VerbElided
-163167	VerbElided
-163169	Verbless
-VerbElided
-VerbElided
-163202	Verbless
-163210	Verbless
-Verbless
-163215	VerbElided
-163230	VerbElided
-VerbElided
-163245	VerbElided
-163250	Verbless
-163261	VerbElided
-163263	Verbless
-Verbless
-163292	VerbElided
-163305	VerbElided
-163317	Verbless
-163322	Verbless
-VerbElided
-163326	Verbless
-163330	VerbElided
-163351	VerbElided
-163372	VerbElided
-163375	VerbElided
-163380	VerbElided
-163384	VerbElided
-163395	VerbElided
-163421	Verbless
-163429	Verbless
-163436	Verbless
-VerbElided
-VerbElided
-163453	VerbElided
-163469	VerbElided
-163490	VerbElided
-163522	VerbElided
-163524	Verbless
-163537	VerbElided
+160585	Minor
+160593	Minor
+160611	VerbElided
+160619	VerbElided
+160642	Minor
+160663	Minor
+160670	VerbElided
+160712	Minor
+160718	Minor
+160741	VerbElided
+160778	Minor
+160786	Minor
+160799	Minor
+160986	VerbElided
+161066	Minor
+161072	VerbElided
+161091	VerbElided
+161113	VerbElided
+161115	VerbElided
+161118	Minor
+161152	Verbless
+161174	VerbElided
+161182	Minor
+161205	Minor
+161233	Minor
+161236	Verbless
+161355	Verbless
+161366	Verbless
+161389	Verbless
+161398	Verbless
+161407	VerbElided
+161461	Minor
+161554	VerbElided
+161630	Verbless
+161681	Verbless
+161753	Minor
+161779	Verbless
+161787	VerbElided
+161845	Verbless
+161876	Minor
+161905	Verbless
+161923	Minor
+161927	Minor
+161991	VerbElided
+162022	Minor
+162068	Minor
+162154	VerbElided
+162240	Verbless
+162245	Minor
+162358	VerbElided
+162411	VerbElided
+162461	Minor
+162557	VerbElided
+162562	VerbElided
+162624	Minor
+162643	VerbElided
+162667	Minor
+162700	Minor
+162714	Minor
+162742	Verbless
+162805	Minor
+162860	Verbless
+162949	Minor
+162980	VerbElided
+163039	Minor
+163077	Minor
+163241	VerbElided
+163244	VerbElided
+163258	VerbElided
+163313	Minor
+163445	Verbless
+163548	VerbElided
 163567	VerbElided
-163570	VerbElided
-163572	Verbless
-163576	Verbless
-VerbElided
-VerbElided
-163587	VerbElided
-163602	VerbElided
-163639	Verbless
-163644	Verbless
+163576	Minor
+163657	Minor
+163688	VerbElided
+163696	Minor
+163764	Minor
+163840	VerbElided
+163846	Minor
+163925	Minor
+163950	Verbless
+164030	VerbElided
+164055	Verbless
+164071	Minor
+164103	Verbless
+164138	Minor
+164181	Minor
+164254	Minor
+164320	VerbElided
+164373	Minor
+164419	Minor
+164425	Minor
+164482	VerbElided
+164506	VerbElided
+164565	Verbless
+164722	Verbless
+164724	Minor
+164781	VerbElided
+164862	Minor
+164864	VerbElided
+164875	VerbElided
+164936	VerbElided
+165186	Minor
+165200	Minor
+165240	Minor
+165247	Verbless
+165297	Verbless
+165430	Minor
+165450	Minor
+165469	VerbElided
+165515	Verbless
 Verbless
-163663	VerbElided
-163669	Verbless
-163685	VerbElided
-Verbless
-163692	VerbElided
-Verbless
-163698	VerbElided
-163727	Verbless
-Verbless
-163741	Verbless
-163764	VerbElided
-VerbElided
-VerbElided
-163801	Verbless
-Verbless
-163819	VerbElided
-163824	Verbless
-163826	VerbElided
-163841	Verbless
-163908	VerbElided
-163913	Verbless
-163921	Verbless
-VerbElided
-VerbElided
-163935	VerbElided
-163940	VerbElided
-164002	VerbElided
-164006	Verbless
-164041	Verbless
-Verbless
-164065	Verbless
-164067	Verbless
-164137	VerbElided
-164144	VerbElided
-VerbElided
-164155	VerbElided
-164177	Verbless
-Verbless
-VerbElided
-164184	VerbElided
-164195	Verbless
-164209	Verbless
-164216	Verbless
-Verbless
-164238	VerbElided
-164266	Verbless
-164279	Verbless
-164305	Verbless
-VerbElided
-VerbElided
-164319	Verbless
-164331	Verbless
-164334	VerbElided
-VerbElided
-164338	VerbElided
-164357	Verbless
-164377	Verbless
-164380	VerbElided
-VerbElided
-Verbless
-Verbless
-164392	VerbElided
-164394	VerbElided
-164396	VerbElided
-164441	VerbElided
-VerbElided
-164445	Verbless
-164453	VerbElided
-164479	VerbElided
-164484	Verbless
-164488	VerbElided
-164495	VerbElided
-164517	VerbElided
-164520	VerbElided
-164523	VerbElided
-164528	VerbElided
-164540	VerbElided
-164568	VerbElided
-164572	Verbless
-164576	Verbless
-164578	Verbless
-164599	VerbElided
-164602	VerbElided
-164606	VerbElided
-164611	Verbless
-VerbElided
-164625	Verbless
-164646	Verbless
-164665	Verbless
-164667	Verbless
-Verbless
-164671	Verbless
-164678	Verbless
-164692	Verbless
-164698	Verbless
-164714	Verbless
-164719	Verbless
-164742	Verbless
-164757	Verbless
-164761	VerbElided
-164765	VerbElided
-164767	VerbElided
-164771	Verbless
-164788	VerbElided
-164793	VerbElided
-164795	VerbElided
-164802	Verbless
-164829	VerbElided
-164836	Verbless
-164844	VerbElided
-164852	Verbless
-164857	Verbless
-164859	Verbless
-164864	Verbless
-164867	Verbless
-164874	VerbElided
-164903	Verbless
-Verbless
-164916	Verbless
-164921	Verbless
-164924	VerbElided
-164935	VerbElided
-164950	Verbless
-Verbless
-164987	Verbless
-164992	VerbElided
-Verbless
-164999	VerbElided
-165003	Verbless
-165007	Verbless
-165015	VerbElided
-165030	VerbElided
-165032	VerbElided
-165034	Verbless
-165110	Verbless
-165116	VerbElided
-Verbless
-165143	Verbless
-165157	Verbless
-165200	VerbElided
-165236	VerbElided
-165247	VerbElided
-Verbless
-165259	VerbElided
-165262	Verbless
-165266	Verbless
-165282	Verbless
-165315	VerbElided
-165330	Verbless
-165338	VerbElided
-165341	Verbless
-Verbless
-165344	Verbless
-165352	Verbless
-165360	Verbless
-VerbElided
-165363	Verbless
-165392	VerbElided
-165394	Verbless
-165406	VerbElided
-165417	VerbElided
-VerbElided
-165441	Verbless
-165443	VerbElided
-165445	VerbElided
-165451	Verbless
-165478	Verbless
-165480	Verbless
-165487	Verbless
-165490	Verbless
-165506	Verbless
-165535	VerbElided
-165540	VerbElided
-165556	Verbless
-165559	Verbless
+165563	Minor
 165572	Verbless
-165601	VerbElided
-165612	Verbless
-165625	Verbless
-Verbless
-165628	Verbless
-165636	Verbless
-165646	VerbElided
-165648	Verbless
-165655	Verbless
-Verbless
-Verbless
-165659	Verbless
-165662	Verbless
-Verbless
-Verbless
-165704	VerbElided
-165721	Minor
-165733	VerbElided
-165783	Verbless
-165817	VerbElided
-165819	Verbless
-165858	Verbless
-165864	Verbless
-165870	VerbElided
-VerbElided
-165884	Verbless
-Verbless
-165895	Verbless
-165901	Verbless
-165909	VerbElided
-165915	Minor
-165918	Verbless
-165925	Verbless
-Verbless
-Verbless
-165929	Verbless
-165938	VerbElided
-165947	Verbless
-165949	Verbless
-165955	Verbless
-166000	VerbElided
-166002	VerbElided
-166004	Verbless
-166007	VerbElided
-166015	VerbElided
-166021	Verbless
-Verbless
-Verbless
-166033	Verbless
-166039	Verbless
-166045	VerbElided
-166065	Verbless
-166083	Verbless
-166086	VerbElided
-166088	VerbElided
-166090	VerbElided
-166102	Verbless
-166105	VerbElided
-166108	VerbElided
-166110	Verbless
-Verbless
-166137	VerbElided
-166159	VerbElided
-VerbElided
-166171	VerbElided
+165593	Minor
+165624	Minor
+165678	Minor
+165716	Minor
+165775	Minor
+165780	Minor
+165797	Minor
+165829	Minor
+165848	Minor
+165870	Minor
+165952	VerbElided
+166094	Minor
+166108	Minor
+166161	Minor
+166215	Minor
+166219	Minor
+166244	VerbElided
+166303	Minor
+166344	VerbElided
+166356	VerbElided
+166397	Minor
+166403	Minor
+166468	Minor
+166487	Minor
 VerbElided
 VerbElided
+166507	VerbElided
+166529	Minor
+166558	Verbless
+166631	Minor
+166689	Minor
+166717	Minor
+166727	Minor
+166745	VerbElided
+166767	Minor
+166777	VerbElided
+166786	Minor
+166794	Minor
+166803	Verbless
+166815	Verbless
+166817	Verbless
+166821	VerbElided
+166827	Minor
+166839	Minor
+166887	Verbless
+166889	Verbless
+Verbless
+166892	Minor
+166910	Verbless
+166912	Minor
+166920	VerbElided
+166947	Verbless
+166952	Minor
+167020	Minor
+167025	Minor
+167035	VerbElided
+167045	Verbless
+Minor
+167050	VerbElided
+167057	VerbElided
+167246	VerbElided
+167297	VerbElided
+167302	VerbElided
+167310	VerbElided
+167353	VerbElided
+167358	VerbElided
+167368	VerbElided
+167373	VerbElided
+167399	VerbElided
+167404	VerbElided
+167537	Minor
+167544	Minor
+167564	Minor
+167603	VerbElided
+167611	Verbless
+167621	Minor
+167627	VerbElided
+167643	VerbElided
+167687	VerbElided
+167693	Verbless
+Minor
+Verbless
+167713	Verbless
+167715	Verbless
+167727	Minor
+167737	Minor
+167793	VerbElided
+167816	VerbElided
+167851	Minor
+167957	VerbElided
+167982	Verbless
+168102	VerbElided
+VerbElided
+168124	Minor
+168147	Verbless
+168233	Verbless
+168242	Verbless
+168256	VerbElided
+168275	VerbElided
+168279	VerbElided
+168287	Minor
+168304	Minor
+168319	VerbElided
+168321	VerbElided
+168325	Verbless
+168359	Minor
+168361	Verbless
+168365	Verbless
+168488	Verbless
+168556	Minor
+168590	VerbElided
+168592	VerbElided
+168597	Minor
+168617	Minor
+168625	Minor
+168632	Minor
+168635	Minor
+168638	Minor
+168680	VerbElided
+168693	VerbElided
+168739	Verbless
+168749	VerbElided
+168765	Verbless
+168770	Minor
+168779	Verbless
+168839	Minor
+168842	VerbElided
+168877	Verbless
+168888	VerbElided
+168922	VerbElided
+Verbless
+168934	Minor
+168936	Minor
+Minor
+168944	Minor
+168946	Minor
+Minor
+168954	Minor
+168962	Minor
+169006	Minor
+169012	Minor
+Verbless
+169038	Verbless
+169064	Minor
+169102	Minor
+169144	Minor
+Minor
+169196	Minor
+Minor
+169244	Minor
+169268	Minor
+169305	VerbElided
+169396	Minor
+169444	VerbElided
+VerbElided
+169451	VerbElided
+169463	Minor
+Minor
+169466	Minor
+169512	Minor
+Minor
+Verbless
+169587	Minor
+Minor
+169591	VerbElided
+169604	Verbless
+169772	Minor
+Minor
+169823	Minor
+169827	VerbElided
+169859	VerbElided
+169926	VerbElided
+169942	Minor
+169954	VerbElided
+169993	Verbless
+170015	Verbless
+170047	VerbElided
+170085	Minor
+170125	Minor
+170187	Minor
+170204	Verbless
+170216	Minor
+170228	Verbless
+170233	VerbElided
+170265	Minor
+170268	VerbElided
+170270	Verbless
+170275	Verbless
+170289	Verbless
+170419	VerbElided
+170448	VerbElided
+170460	VerbElided
+170465	VerbElided
+170483	Verbless
+170489	Minor
+Minor
+170566	Verbless
+170582	Minor
+170692	VerbElided
+170701	Minor
+Minor
+170737	VerbElided
+170743	VerbElided
+170776	VerbElided
+170778	VerbElided
+170806	VerbElided
+170911	Minor
+170946	Verbless
+170978	Minor
+171006	VerbElided
+171036	Minor
+171060	Minor
+171098	Verbless
+171100	Verbless
+171106	Verbless
+171109	Minor
+171115	VerbElided
+171171	Minor
+171177	Minor
+171228	Minor
+171241	Verbless
+171275	Minor
+171432	VerbElided
+171437	Verbless
+171451	VerbElided
+171535	Minor
+Minor
+171541	Minor
+171588	Verbless
+171591	Minor
+171595	Minor
+171598	VerbElided
+171607	Verbless
+171615	Verbless
+171623	Minor
+171658	Minor
+171677	VerbElided
+171807	Verbless
+171813	Minor
+171831	Verbless
+171885	Minor
+171914	Verbless
+171929	Minor
+171937	Minor
+171995	VerbElided
+172006	Minor
+172013	Minor
+172070	Verbless
+172153	Minor
+172286	VerbElided
+172344	Minor
+172351	Minor
+172405	VerbElided
+172421	VerbElided
+172427	Verbless
+172452	VerbElided
+172517	Verbless
+172522	Minor
+172653	Verbless
+172732	Verbless
+172734	Verbless
+172815	Verbless
+172839	Minor
+Minor
+172843	Minor
+Minor
+172849	VerbElided
+172887	Minor
+Minor
+172902	Minor
+Minor
+172905	Minor
+172925	VerbElided
+172963	Minor
+Minor
+Minor
+172980	VerbElided
+173045	Minor
+Minor
+173067	Minor
+173198	Verbless
+173221	Verbless
+Verbless
+173254	VerbElided
+173280	Minor
+173302	VerbElided
+173447	Minor
+Minor
+173462	VerbElided
+173481	VerbElided
+173501	Minor
+Minor
+173537	Verbless
+173563	VerbElided
+173573	VerbElided
+173605	VerbElided
+173669	Minor
+173702	Verbless
+173783	VerbElided
+173786	VerbElided
+173806	Verbless
+173818	VerbElided
+173948	Minor
+174004	VerbElided
+174072	VerbElided
+174099	Minor
+174136	VerbElided
+174186	VerbElided
+174204	VerbElided
+174219	Verbless
+174245	Minor
+Verbless
+174255	VerbElided
+174260	Minor
+174341	Verbless
+174346	Verbless
+174355	Verbless
+Verbless
+174395	Verbless
+Verbless
+174402	Verbless
+174460	Minor
+174489	Verbless
+174536	Verbless
+Verbless
+174593	VerbElided
+174604	VerbElided
+174614	VerbElided
+174653	VerbElided
+174772	Verbless
+174779	Minor
+174816	Verbless
+174861	Verbless
+174865	Minor
+174985	Verbless
+175098	VerbElided
+175125	VerbElided
+175237	VerbElided
+VerbElided
+175309	Verbless
+175388	Minor
+175459	Minor
+Minor
+175479	Verbless
+175569	Verbless
+175586	Minor
+Minor
+175619	VerbElided
+175644	Minor
+Minor
+175650	Minor
+175670	Minor
+175697	Minor
+Minor
+175742	Minor
+175824	Minor
+175869	Minor
+Minor
+175882	Minor
+175899	Minor
+175913	Verbless
+175916	Minor
+Minor
+175921	Verbless
+175958	VerbElided
+176110	VerbElided
+176169	Verbless
+176196	Minor
+176281	VerbElided
+176286	Minor
+176299	VerbElided
+176517	VerbElided
+176540	VerbElided
+176564	Minor
+176593	Minor
+176613	Minor
+176647	Minor
+176682	Minor
+176696	Minor
+Minor
+176700	Verbless
+176705	Minor
+176744	Minor
+176779	Verbless
+176782	Verbless
+176793	Minor
+176799	Minor
+176814	Minor
+176821	VerbElided
+176872	Verbless
+176930	Minor
+176945	VerbElided
+177022	Minor
+177044	Minor
+177055	Minor
+177206	VerbElided
+177208	VerbElided
+177210	VerbElided
+177273	Verbless
+177304	Verbless
+177347	Minor
+Minor
+177473	VerbElided
+177498	VerbElided
+177539	Minor
+177550	VerbElided
+177559	Verbless
+177635	Minor
+177662	Verbless
+177664	Verbless
+177679	Minor
+177697	Minor
+177727	VerbElided
+177734	VerbElided
+177737	VerbElided
+177746	VerbElided
+177757	VerbElided
+177778	Verbless
+177825	Minor
+177829	Minor
+177834	Minor
+177839	Minor
+177877	Verbless
+177880	Verbless
+177882	Verbless
+177884	Verbless
+177888	Verbless
+177890	Verbless
+Verbless
+177894	Verbless
+177899	VerbElided
+177910	Verbless
+177927	Verbless
+177956	VerbElided
+177959	VerbElided
+177972	VerbElided
+177988	Verbless
+177997	Verbless
+177999	Verbless
+178018	Verbless
+178026	VerbElided
+178051	Verbless
+178054	VerbElided
+VerbElided
+178057	VerbElided
+178059	VerbElided
+178064	Verbless
+178066	Verbless
+178069	Verbless
+178071	Verbless
+178076	VerbElided
+178092	VerbElided
+178117	Verbless
+178122	Verbless
+178126	Verbless
+178138	Verbless
+Verbless
+178152	Verbless
+178155	Verbless
+178162	VerbElided
+178168	VerbElided
+178172	Verbless
+178180	VerbElided
+178184	VerbElided
+178220	VerbElided
+178242	VerbElided
+178271	VerbElided
+178278	VerbElided
+178280	VerbElided
+178314	VerbElided
+178321	VerbElided
+178328	VerbElided
+178350	VerbElided
+178361	Verbless
+178366	Verbless
+178368	Verbless
+178383	VerbElided
+178460	Verbless
+178462	Verbless
+178478	VerbElided
+178485	Verbless
+178487	VerbElided
+178493	Verbless
+178501	Verbless
+178503	Verbless
+178531	Verbless
+178540	VerbElided
+178544	Verbless
+178546	Verbless
+178550	Minor
+178582	Minor
+178608	Verbless
+178614	VerbElided
+178625	Verbless
+178647	Verbless
+178649	Verbless
+178659	VerbElided
+178688	Verbless
+178693	VerbElided
+178707	VerbElided
+178716	Minor
+178724	VerbElided
+178746	Verbless
+178748	VerbElided
+178757	VerbElided
+178759	Verbless
+178767	Minor
+178786	VerbElided
+178788	Verbless
+178791	Verbless
+178793	Verbless
+178799	Verbless
+178820	Verbless
+178822	Verbless
+178824	Verbless
+178837	Minor
+178839	VerbElided
+178861	Minor
+178869	Verbless
+178871	Verbless
+178873	Verbless
+178881	Verbless
+178902	VerbElided
+178936	Verbless
+178947	VerbElided
+178969	Verbless
+178977	Verbless
+178980	Verbless
+178983	Verbless
+178998	VerbElided
+179049	Verbless
+179058	Verbless
+179065	Verbless
+179067	Verbless
+179071	Minor
+179074	VerbElided
+179080	Minor
+179090	Minor
+179100	VerbElided
+179130	Verbless
+179144	Verbless
+179177	Minor
+179194	VerbElided
+179196	VerbElided
+179221	VerbElided
+179230	Verbless
+179270	VerbElided
+179273	VerbElided
+179275	VerbElided
+179288	Minor
+Verbless
+179298	VerbElided
+179307	Verbless
+179314	Minor
+179334	Verbless
+179368	Verbless
+179391	Verbless
+179399	Minor
+179402	VerbElided
+179404	VerbElided
+179413	VerbElided
+179456	Minor
+179472	VerbElided
+179476	VerbElided
+179514	Verbless
+179521	Verbless
+179523	Verbless
+179539	Verbless
+179541	Verbless
+179544	Verbless
+179547	Verbless
+179566	VerbElided
+179574	VerbElided
+179591	Verbless
+179616	Minor
+179638	Verbless
+179640	Verbless
+179642	Verbless
+179659	Minor
+179665	Verbless
+179667	Verbless
+179678	Verbless
+179683	Minor
+179687	Minor
+179689	VerbElided
+179696	Verbless
+179724	Verbless
+179734	VerbElided
+VerbElided
+179738	VerbElided
+VerbElided
+179741	VerbElided
+179745	VerbElided
+179748	VerbElided
+179751	VerbElided
+179754	VerbElided
+179757	Verbless
+179762	Verbless
+179764	Verbless
+179793	Verbless
+179796	Minor
+179802	Verbless
+179825	VerbElided
+179860	Verbless
+179864	Verbless
+179876	VerbElided
 VerbElided
 VerbElided
 VerbElided
-166215	VerbElided
-166258	VerbElided
-166274	Verbless
-166281	Verbless
-166311	VerbElided
-166332	Verbless
-Verbless
-166366	VerbElided
-166371	VerbElided
-Verbless
-166390	Verbless
-166424	VerbElided
-166501	Verbless
-166517	Verbless
-166585	VerbElided
-166594	Verbless
-166637	VerbElided
-166639	VerbElided
-166661	VerbElided
-166693	VerbElided
-166701	VerbElided
-166750	Verbless
-166753	Verbless
-166758	Verbless
-VerbElided
-VerbElided
-166766	Verbless
-166827	VerbElided
-166838	VerbElided
-166876	VerbElided
-166891	VerbElided
-166913	VerbElided
-166929	VerbElided
-166932	VerbElided
-166977	VerbElided
-VerbElided
-166985	Verbless
-167025	Verbless
-167041	Verbless
-VerbElided
-VerbElided
-167047	Verbless
-167060	Verbless
-167078	VerbElided
-167083	Verbless
-VerbElided
-Verbless
-Verbless
-167089	VerbElided
-VerbElided
-167093	VerbElided
-167111	Minor
-167126	Verbless
-167137	VerbElided
-167157	VerbElided
-167161	Verbless
-167182	Verbless
-167197	VerbElided
-167210	VerbElided
-167216	Verbless
-167218	Verbless
-167346	VerbElided
-167348	Verbless
-167377	VerbElided
-167399	Verbless
-167401	Verbless
-Verbless
-167405	Verbless
-167409	Verbless
-Verbless
-Verbless
-167413	Verbless
-Verbless
-167416	Verbless
-167422	Verbless
-167445	Verbless
-167532	Verbless
-Verbless
-167562	VerbElided
-167600	VerbElided
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-167617	Verbless
-167620	VerbElided
-167683	VerbElided
-167693	VerbElided
-167698	VerbElided
-167708	VerbElided
-167715	VerbElided
-167727	Verbless
-167729	Verbless
-Verbless
-Verbless
-167735	Verbless
-167738	Verbless
-Verbless
-167742	Verbless
-167755	Verbless
-167760	Verbless
-167765	Verbless
-167779	Verbless
-Verbless
-Verbless
-167785	VerbElided
-167826	VerbElided
-167836	Verbless
-167870	Verbless
-167914	VerbElided
-167926	Verbless
-Verbless
-167936	Verbless
-167953	VerbElided
-167972	VerbElided
-167984	VerbElided
-168000	Verbless
-Verbless
-168005	Verbless
-Verbless
-168008	VerbElided
-168017	Verbless
-168039	VerbElided
-168048	VerbElided
-168079	VerbElided
-168085	Verbless
-168089	Verbless
-168093	VerbElided
-VerbElided
-Verbless
-168101	VerbElided
-168106	Verbless
-168146	Verbless
-168152	VerbElided
-168155	VerbElided
-168257	VerbElided
-168264	VerbElided
-168281	Verbless
-168338	Verbless
-168349	Minor
-168366	Verbless
-168371	Minor
-168420	Verbless
-168449	Verbless
-168455	Minor
-168476	Verbless
-168505	Verbless
-168513	VerbElided
-168525	Verbless
-Verbless
-168531	VerbElided
-168585	VerbElided
-168594	Verbless
-Verbless
-168605	Verbless
-168613	Verbless
-168645	Verbless
-168661	Verbless
-168683	VerbElided
-168687	Verbless
-168690	Verbless
-Verbless
-Verbless
-Verbless
-168695	Verbless
-168701	Verbless
-168706	Verbless
-Verbless
-Verbless
-168710	Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-168724	Verbless
-168730	Verbless
-168738	VerbElided
-168742	Verbless
-168745	Verbless
-168750	Verbless
-168756	Verbless
-168762	Verbless
-168764	Verbless
-168773	VerbElided
-168786	Verbless
-168789	Verbless
-Verbless
-168795	Verbless
-168820	Verbless
-169147	Minor
-169338	Minor
-169828	Minor
-170189	Minor
-170253	Minor
-170276	Minor
-170827	Minor
-170836	Minor
-171524	Minor
-171928	Minor
-172057	Minor
-172330	Minor
-172332	Minor
-172358	Minor
-172360	Minor
-172391	Minor
-172544	Minor
-172610	Minor
-172633	Minor
-172869	Minor
-172907	Minor
-172969	Minor
-172980	Minor
-173055	Minor
-173184	Minor
-173563	Minor
-173647	Minor
-173673	Minor
-173675	Minor
-174209	Minor
-174697	Minor
-174882	Minor
-174886	Minor
-174927	Minor
-174972	Minor
-174996	Minor
-174998	Minor
-175042	Minor
-175668	Minor
-175740	Minor
-176382	Minor
-176423	Minor
-176452	Minor
-176544	Minor
-176760	Minor
-176994	Minor
-177086	Minor
-177569	Minor
-177613	Minor
-177630	Minor
-177792	Minor
-177840	Minor
-177983	Minor
-178037	Minor
-178063	Minor
-178086	Minor
-178430	Minor
-178577	Minor
-178703	Minor
-178719	Minor
-178910	Minor
-179108	Minor
-179153	Minor
-179292	Minor
-179308	Minor
-179804	Minor
-179994	Minor
-180328	Minor
+179882	VerbElided
+179892	Minor
+179901	VerbElided
+179906	VerbElided
+179909	Verbless
+179914	Verbless
+179917	Verbless
+179932	VerbElided
+179935	VerbElided
+179938	VerbElided
+179952	VerbElided
+179977	Minor
+180071	Minor
+180082	Verbless
+180086	Minor
+180103	Verbless
+180109	Verbless
+180113	Verbless
+180123	Verbless
+180125	Verbless
+180129	Verbless
+180140	Verbless
+180153	Verbless
+180156	Verbless
+180215	Minor
+180218	VerbElided
+180220	Minor
+180240	Minor
+180349	Minor
+180365	Verbless
+Minor
+180465	Minor
+180480	VerbElided
+180495	Verbless
+180498	Verbless
+180522	Minor
 180538	Minor
-180785	Minor
-181083	Minor
-181102	Minor
-181124	Minor
-181453	Minor
-181712	Minor
-181726	Minor
-181947	Minor
-182231	Minor
-182297	Minor
-182349	Minor
-182416	Minor
-182584	Minor
-182899	Minor
-182927	Minor
-182976	Minor
-183012	Minor
-183077	Minor
-183117	Minor
-183130	Minor
-183155	Minor
-183172	Minor
-183218	Minor
-183275	Minor
-183354	Minor
-183356	Minor
-183358	Minor
-183605	Minor
-184401	Minor
-184403	Minor
-184536	Minor
-184551	Minor
-184576	Minor
-184591	Minor
-184619	Minor
-184660	Minor
-184721	Minor
-184812	Minor
-184873	Minor
-185012	Minor
-185373	Minor
-185380	Minor
-185433	Minor
-185672	Minor
-185741	Minor
-185869	Minor
-185880	Minor
-186203	Minor
-186772	Minor
-186906	Minor
-187007	Minor
-187009	Minor
-187017	Minor
-187019	Minor
-187278	Minor
-188060	Minor
-188491	Minor
-189248	Minor
-190247	Minor
-190421	Minor
-190438	Minor
-190877	Minor
-191014	Minor
-191020	Minor
-192454	Minor
-192474	Minor
-192575	Minor
-193280	Minor
-193487	Minor
-193695	Minor
-193742	Minor
-193825	Minor
-193859	Minor
-194086	Minor
-194541	Minor
-194592	Minor
-194678	Minor
-194911	Minor
-195139	Minor
-195157	Minor
-195205	Minor
-195392	Minor
-195610	Minor
-196057	Minor
-196172	Minor
-196361	Minor
-196418	Minor
-196579	Minor
-196680	Minor
-196903	Minor
-197927	Minor
-197960	Minor
-198109	Minor
-198801	Minor
-198925	Minor
-198956	Minor
-198958	Minor
-199032	Minor
-199034	Minor
-199042	Minor
-199045	Minor
-199654	Minor
-199797	Minor
-200116	Minor
-200216	Minor
-200757	Minor
-201197	Minor
-201301	Minor
-201601	Minor
-201800	Minor
-201902	Minor
-202628	Minor
-202801	Minor
-202807	Minor
-203110	Minor
-203177	Minor
-203261	Minor
-203427	Minor
-204260	Minor
-204269	Minor
-204282	Minor
-204572	Minor
-204591	Minor
-204675	Minor
-204677	Minor
-204686	Minor
-204866	Minor
-205056	Minor
-205269	Minor
-205540	Minor
-205550	Minor
-205973	Minor
-206000	Minor
-206132	Minor
-206205	Minor
-206207	Minor
-206323	Minor
-206674	Minor
-206731	Minor
-206831	Minor
-207519	Minor
-207629	Minor
-207685	Minor
-207842	Minor
-207858	Minor
-207950	Minor
-208055	Minor
-208304	Minor
-208308	Minor
-208349	Minor
-208384	Minor
-208467	Minor
-208491	Minor
-208590	Minor
-208870	Minor
-208899	Minor
-208901	Minor
-208944	Minor
-208965	Minor
-209020	Minor
-209675	Minor
-209778	Minor
-209896	Minor
-210044	Minor
-210175	Minor
-210188	Minor
-210284	Minor
-210303	Minor
-210450	Minor
-210497	Minor
-210662	Minor
-210959	Minor
-211114	Minor
-211185	Minor
-211228	Minor
-211257	Minor
-211319	Minor
-211467	Minor
-211514	Minor
-211556	Minor
-211689	Minor
-211691	Minor
-211693	Minor
-211907	Minor
-212151	Minor
-212436	Minor
-212524	Minor
-212593	Minor
-212712	Minor
-212774	Minor
-212977	Minor
-213472	Minor
-213505	Minor
-213567	Minor
-213613	Minor
-213615	Minor
-213880	Minor
-213882	Minor
-214233	Minor
-214423	Minor
-214472	Minor
-214560	Minor
-214862	Minor
-214881	Minor
-214909	Minor
-215014	Minor
-215063	Minor
-215213	Minor
-215226	Minor
-215245	Minor
-215264	Minor
-215301	Minor
-215356	Minor
-215574	Minor
-216094	Minor
-216191	Minor
-216370	Minor
-216564	Minor
-217545	Minor
-217547	Minor
-217582	Minor
-217601	Minor
-217694	Minor
-217749	Minor
-217848	Minor
-217864	Minor
-218003	Minor
-218019	Minor
-218045	Minor
-218633	Minor
-218737	Minor
-218871	Minor
-218927	Minor
-220157	Minor
-220414	Minor
-220509	Minor
-220706	Minor
-220815	Minor
-221225	Minor
-221688	Minor
-222045	Minor
-222140	Minor
-222209	Minor
-222243	Minor
-222418	Minor
-222741	Minor
-222944	Minor
-223024	Minor
-223518	Minor
-224105	Minor
-224280	Minor
-224513	Minor
-224698	Minor
-224872	Minor
-225219	Minor
-225366	Minor
-225454	Minor
-225599	Minor
-225869	Minor
-225978	Minor
-225993	Minor
-226681	Minor
-226976	Minor
-227635	Minor
-227661	Minor
-227736	Minor
-228225	Minor
-228490	Minor
-228564	Minor
-228641	Minor
-228770	Minor
-228847	Minor
-228969	Minor
-228981	Minor
-229014	Minor
-229081	Minor
-229120	Minor
-229160	Minor
-229675	Minor
-229702	Minor
-229813	Minor
-229930	Minor
-229944	Minor
-230131	Minor
-230340	Minor
-230488	Minor
-230538	Minor
-230623	Minor
-230824	Minor
-230954	Minor
-231013	Minor
-231034	Minor
-231134	Minor
-231184	Minor
-231205	Minor
-231276	Minor
-231424	Minor
-231463	Minor
-231690	Minor
-231703	Minor
-231759	Minor
-232846	Minor
-232911	Minor
-233036	Minor
-233220	Minor
-233288	Minor
-233318	Minor
-234203	Minor
-234536	Minor
-234574	Minor
-234700	Minor
-235228	Minor
-235271	Minor
-235287	Minor
-235305	Minor
-235315	Minor
-235604	Minor
-235766	Minor
-235960	Minor
-235968	Minor
-235970	Minor
-235987	Minor
-235994	Minor
-235996	Minor
-236012	Minor
-236031	Minor
-236121	Minor
-236136	Minor
-236245	Minor
-236336	Minor
-236431	Minor
-236433	Minor
-236549	Minor
-236551	Minor
-236705	Minor
-236976	Minor
-237129	Minor
-237131	Minor
-237253	Minor
-237255	Minor
-237427	Minor
-237429	Minor
-237832	Minor
-237834	Minor
-237945	Minor
-238244	Minor
-238542	Minor
-238640	Minor
-238848	Minor
-238952	Minor
-239448	Minor
-239450	Minor
-239660	Minor
-239920	Minor
-239922	Minor
-240397	Minor
-240736	Minor
-240865	Minor
-241008	Minor
-241019	Minor
-241132	Minor
-241230	Minor
-241793	Minor
-241795	Minor
-241805	Minor
-241901	Minor
-241910	Minor
-241960	Minor
-242043	Minor
-242368	Minor
-242506	Minor
-242615	Minor
-242630	Minor
-242776	Minor
-242787	Minor
-243084	Minor
-243505	Minor
-243515	Minor
-243894	Minor
-244582	Minor
-244584	Minor
-244591	Minor
-244593	Minor
-244698	Minor
-244700	Minor
-244726	Minor
-244728	Minor
-244732	Minor
-244888	Minor
-244890	Minor
-244892	Minor
-245090	Minor
-245092	Minor
-245130	Minor
-245602	Minor
-245980	Minor
-245982	Minor
-246101	Minor
-246103	Minor
-246465	Minor
-247061	Minor
-247379	Minor
-247704	Minor
-247735	Minor
-248185	Minor
-248867	Minor
-249063	Minor
-250192	Minor
-250359	Minor
-250361	Minor
-250634	Minor
-250636	Minor
-250763	Minor
-250765	Minor
-250776	Minor
-250814	Minor
-250877	Minor
-250879	Minor
-250979	Minor
-251149	Minor
-251236	Minor
-251238	Minor
-251268	Minor
-251301	Minor
-251338	Minor
-251340	Minor
-251943	Minor
-252167	Minor
-252769	Minor
-252833	Minor
-252878	Minor
-252973	Minor
-253063	Minor
-253093	Minor
-253095	Minor
-253111	Minor
-253201	Minor
-253307	Minor
-253321	Minor
-253354	Minor
-253610	Minor
-253802	Minor
-253852	Minor
-253873	Minor
-254519	Minor
-254521	Minor
-254985	Minor
-255208	Minor
-255314	Minor
-255352	Minor
-255629	Minor
-255637	Minor
-255643	Minor
-255649	Minor
-257345	Minor
-257415	Minor
-258016	Minor
-258065	Minor
-258542	Minor
-258556	Minor
-258579	Minor
-258759	Minor
-258995	Minor
-259056	Minor
-259249	Minor
-259386	Minor
-259765	Minor
-259878	Minor
-259931	Minor
-259937	Minor
-260168	Minor
-260370	Minor
-260531	Minor
-260718	Minor
-260740	Minor
-261036	Minor
-261047	Minor
-261103	Minor
-261367	Minor
-261423	Minor
-261654	Minor
-261787	Minor
-261837	Minor
-261970	Minor
-262010	Minor
-262251	Minor
-262348	Minor
-262638	Minor
-263119	Minor
-263655	Minor
-264149	Minor
-264221	Minor
-264231	Minor
-264331	Minor
-264413	Minor
-265319	Minor
-265401	Minor
-265608	Minor
-266416	Minor
-266448	Minor
-267246	Minor
-267365	Minor
-267489	Minor
-267619	Minor
-267818	Minor
-267843	Minor
-268280	Minor
-268346	Minor
-268547	Minor
-268638	Minor
-268643	Minor
-268675	Minor
-268920	Minor
-269020	Minor
-269186	Minor
-270881	Minor
-271019	Minor
-271344	Minor
-271739	Minor
-272355	Minor
-272892	Minor
-272922	Minor
-273239	Minor
-273500	Minor
-273621	Minor
-273725	Minor
-274323	Minor
-274398	Minor
-274525	Minor
-274550	Minor
-274562	Minor
-274840	Minor
-274925	Minor
-275050	Minor
-275147	Minor
-275157	Minor
-275177	Minor
-275222	Minor
-275340	Minor
-275367	Minor
-275526	Minor
-275795	Minor
-275797	Minor
-276796	Minor
-277453	Minor
-277543	Minor
-277579	Minor
-277732	Minor
-277770	Minor
-277785	Minor
-277850	Minor
-278282	Minor
-278755	Minor
-279052	Minor
-279241	Minor
-279301	Minor
-279387	Minor
-279401	Minor
-279415	Minor
-279419	Minor
-279492	Minor
-279619	Minor
-279714	Minor
-280870	Minor
-280879	Minor
-280889	Minor
-280901	Minor
-280912	Minor
-280965	Minor
-281295	Minor
-281447	Minor
-281589	Minor
-281698	Minor
-281772	Minor
-281969	Minor
-282089	Minor
-282254	Minor
-282293	Minor
-282416	Minor
-282463	Minor
-282586	Minor
-282617	Minor
-282717	Minor
-282773	Minor
-282977	Minor
-283198	Minor
-283234	Minor
-283295	Minor
-283379	Minor
-283504	Minor
-283831	Minor
-283838	Minor
-284980	Minor
-285079	Minor
-285123	Minor
-285453	Minor
-286292	Minor
-287064	Minor
-287236	Minor
-287238	Minor
-287431	Minor
-287468	Minor
-287860	Minor
-288030	Minor
-288789	Minor
-290284	Minor
-290437	Minor
-291417	Minor
-292145	Minor
-292153	Minor
-292211	Minor
-292418	Minor
-292456	Minor
-292548	Minor
-292611	Minor
-292687	Minor
-292830	Minor
-292943	Minor
-292954	Minor
-293050	Minor
-293218	Minor
-293237	Minor
-293395	Minor
-293472	Minor
-293478	Minor
-293507	Minor
-293551	Minor
-293645	Minor
-293736	Minor
-293772	Minor
-293786	Minor
-293822	Minor
-293962	Minor
-294536	Minor
-294639	Minor
-294769	Minor
-294863	Minor
-295306	Minor
-295309	Minor
-295505	Minor
-295580	Minor
-295607	Minor
-295808	Minor
-296378	Minor
-296500	Minor
-296608	Minor
-296672	Minor
-296927	Minor
-297023	Minor
-297036	Minor
-297138	Minor
-297151	Minor
-297161	Minor
-297170	Minor
-297179	Minor
-297189	Minor
-297277	Minor
-297403	Minor
-297449	Minor
-297501	Minor
-297562	Minor
-297654	Minor
-297791	Minor
-297883	Minor
-297931	Minor
-298013	Minor
-298082	Minor
-298143	Minor
-298222	Minor
-298859	Minor
-298943	Minor
-299024	Minor
-299117	Minor
-299160	Minor
-299252	Minor
-299349	Minor
-299653	Minor
-299693	Minor
-299778	Minor
-299896	Minor
-299931	Minor
-299959	Minor
-300414	Minor
-300650	Minor
-300862	Minor
-301201	Minor
-301436	Minor
-301736	Minor
-302112	Minor
-302203	Minor
-302314	Minor
-302384	Minor
-302802	Minor
-302830	Minor
-302857	Minor
-304517	Minor
-304907	Minor
-305873	Minor
-306150	Minor
-306160	Minor
-306169	Minor
-306396	Minor
-306432	Minor
-306434	Minor
-307301	Minor
-307451	Minor
-307453	Minor
-307609	Minor
-307611	Minor
-307692	Minor
-307716	Minor
-307903	Minor
-307938	Minor
-307950	Minor
-307986	Minor
-308993	Minor
-309854	Minor
-309859	Minor
-309862	Minor
+180556	Verbless
+180559	VerbElided
+180586	Verbless
+180593	Minor
+180607	Minor
+180618	Verbless
+180620	Verbless
+180622	Verbless
+180635	VerbElided
+180673	Verbless
+Verbless
+Verbless
+180699	VerbElided
+180701	VerbElided
+180703	VerbElided
+180716	Verbless
+180718	Minor
+180721	Verbless
+Verbless
+Verbless
+180766	Minor
+180774	VerbElided
+180798	VerbElided
+180822	Verbless
+180837	VerbElided
+180841	VerbElided
+180845	VerbElided
+180850	VerbElided
+180881	Minor
+180884	VerbElided
+180889	VerbElided
+180900	Verbless
+180917	VerbElided
+Verbless
+180925	Verbless
+180944	VerbElided
+180948	VerbElided
+181015	VerbElided
+181041	Verbless
+181046	VerbElided
+181056	Verbless
+181071	Verbless
+181073	Verbless
+181076	VerbElided
+181117	Minor
+181123	VerbElided
+181158	Verbless
+181160	Verbless
+181162	Verbless
+181164	Verbless
+181166	Verbless
+181168	Verbless
+181201	VerbElided
+181236	Verbless
+Verbless
+181242	VerbElided
+181250	Verbless
+181281	Verbless
+181305	VerbElided
+181330	Verbless
+181342	VerbElided
+181355	VerbElided
+181360	Minor
+181373	VerbElided
+181387	VerbElided
+181427	Verbless
+181429	Verbless
+181437	Verbless
+181440	Verbless
+181492	VerbElided
+181503	VerbElided
+181507	VerbElided
+181513	VerbElided
+181530	VerbElided
+181539	VerbElided
+181541	VerbElided
+181547	Verbless
+181590	Minor
+181618	Minor
+181622	Minor
+181647	VerbElided
+181652	Verbless
+181668	Minor
+181682	Verbless
+181703	Minor
+181713	Verbless
+181719	Verbless
+181725	Verbless
+181731	Verbless
+181774	VerbElided
+181822	VerbElided
+181857	Verbless
+181862	Verbless
+181875	Verbless
+181878	Verbless
+181882	Verbless
+181884	Verbless
+181886	Verbless
+181891	Verbless
+181893	Verbless
+181895	Verbless
+181981	VerbElided
+182022	VerbElided
+182035	VerbElided
+182066	Verbless
+182089	VerbElided
+182115	Verbless
+182130	Minor
+182152	VerbElided
+VerbElided
+182157	VerbElided
+182174	Minor
+182210	VerbElided
+182258	VerbElided
+182260	Verbless
+182273	Minor
+182287	Verbless
+182317	VerbElided
+182322	VerbElided
+182338	VerbElided
+182345	Verbless
+182405	Verbless
+182423	Verbless
+182425	Verbless
+182449	Verbless
+182467	Verbless
+182471	VerbElided
+182477	Verbless
+182479	Verbless
+182484	Verbless
+182486	Verbless
+182513	VerbElided
+182589	VerbElided
+182637	Verbless
+182655	Minor
+182670	Minor
+182687	Verbless
+182691	Verbless
+182693	VerbElided
+182698	VerbElided
+182703	VerbElided
+182708	VerbElided
+182722	VerbElided
+182724	VerbElided
+182726	VerbElided
+182728	VerbElided
+182731	VerbElided
+182733	VerbElided
+182757	VerbElided
+182789	Verbless
+182792	Verbless
+182805	Verbless
+182807	Verbless
+182815	VerbElided
+182857	Verbless
+182860	VerbElided
+VerbElided
+VerbElided
+VerbElided
+VerbElided
+182867	Verbless
+182869	Verbless
+182871	Verbless
+182873	Verbless
+182954	VerbElided
+182958	VerbElided
+182962	VerbElided
+182987	VerbElided
+183000	Verbless
+183016	VerbElided
+183046	Verbless
+183050	VerbElided
+183061	Minor
+183076	VerbElided
+183109	Verbless
+183119	Verbless
+183123	Minor
+183181	VerbElided
+Minor
+183205	VerbElided
+183247	Minor
+183262	VerbElided
+183306	Verbless
+183310	VerbElided
+183351	Minor
+183364	Minor
+183394	VerbElided
+183402	VerbElided
+183406	VerbElided
+183426	VerbElided
+183456	Verbless
+183493	Verbless
+183499	VerbElided
+183501	Verbless
+VerbElided
+183527	Verbless
+183529	VerbElided
+183549	Minor
+183580	Minor
+183592	VerbElided
+183603	VerbElided
+183605	Verbless
+183608	Verbless
+183610	Verbless
+183612	Verbless
+183614	Verbless
+183616	VerbElided
+183622	Verbless
+183624	Verbless
+183626	Verbless
+183628	Verbless
+183630	Verbless
+183633	VerbElided
+183654	VerbElided
+183658	VerbElided
+183660	VerbElided
+VerbElided
+183663	Verbless
+Verbless
+183667	Verbless
+183670	Verbless
+183676	Minor
+183721	Minor
+183723	Minor
+183726	Verbless
+183728	Verbless
+183730	VerbElided
+183738	Minor
+183745	VerbElided
+183808	Verbless
+183852	Minor
+183889	VerbElided
+183895	Minor
+Verbless
+183898	Verbless
+183900	VerbElided
+183912	VerbElided
+183953	Verbless
+183961	Minor
+183977	VerbElided
+184004	VerbElided
+184022	Verbless
+184074	Verbless
+184076	VerbElided
+184078	Verbless
+184114	Verbless
+184208	Verbless
+184211	Verbless
+184214	Verbless
+184219	VerbElided
+184223	VerbElided
+184226	VerbElided
+184256	Verbless
+184280	Verbless
+184289	VerbElided
+184315	VerbElided
+184330	VerbElided
+VerbElided
+184337	VerbElided
+184339	VerbElided
+184371	VerbElided
+184374	VerbElided
+184376	Verbless
+184388	Verbless
+184423	VerbElided
+184445	Verbless
+184468	VerbElided
+184473	Verbless
+184477	Verbless
+184507	Verbless
+184550	VerbElided
+184552	VerbElided
+184572	VerbElided
+184610	Verbless
+184616	Verbless
+184671	Verbless
+184673	Verbless
+184697	Verbless
+184705	Minor
+184713	VerbElided
+184721	Verbless
+184725	Verbless
+184728	Verbless
+184730	Verbless
+184732	Verbless
+184775	Minor
+184794	Verbless
+Verbless
+184806	Verbless
+Verbless
+184815	VerbElided
+184836	VerbElided
+184870	VerbElided
+184908	Minor
+184919	VerbElided
+184929	VerbElided
+184981	VerbElided
+185002	VerbElided
+VerbElided
+Verbless
+185014	VerbElided
+185018	VerbElided
+185035	Verbless
+185037	Verbless
+185039	VerbElided
+185063	Verbless
+185068	VerbElided
+Verbless
+185074	Minor
+Verbless
+185117	Verbless
+185121	VerbElided
+185146	VerbElided
+185149	VerbElided
+185177	VerbElided
+185199	VerbElided
+185205	Verbless
+185208	Verbless
+185231	Verbless
+185233	Verbless
+185256	Verbless
+185277	Verbless
+185282	Verbless
+185284	Verbless
+185309	VerbElided
+185336	Minor
+185389	Verbless
+185391	VerbElided
+185435	VerbElided
+185437	Verbless
+185442	Verbless
+185457	VerbElided
+185461	VerbElided
+185470	VerbElided
+185504	VerbElided
+185507	VerbElided
+185510	VerbElided
+185514	VerbElided
+185516	VerbElided
+VerbElided
+VerbElided
+VerbElided
+185529	Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+185538	Verbless
+185541	Verbless
+Verbless
+185545	Verbless
+Verbless
+185549	Verbless
+185592	Minor
+185598	VerbElided
+185602	VerbElided
+185607	Minor
+185612	VerbElided
+185614	VerbElided
+185629	VerbElided
+185709	VerbElided
+185714	VerbElided
+185731	Minor
+185744	VerbElided
+185751	Minor
+185766	VerbElided
+185834	Verbless
+185859	VerbElided
+185879	VerbElided
+Minor
+185894	Verbless
+185900	VerbElided
+185914	VerbElided
+185935	Minor
+185985	Minor
+185997	VerbElided
+186039	VerbElided
+186046	VerbElided
+186089	VerbElided
+186104	VerbElided
+186125	VerbElided
+186146	VerbElided
+186148	VerbElided
+186197	Verbless
+186199	Verbless
+186207	VerbElided
+186214	VerbElided
+186222	Verbless
+186254	Verbless
+186256	Minor
+186271	Verbless
+186290	Minor
+186306	Verbless
+186331	Verbless
+186340	Minor
+186352	Minor
+186356	VerbElided
+186359	VerbElided
+Minor
+186375	Verbless
+Verbless
+186380	VerbElided
+186393	Verbless
+186448	Verbless
+186452	Verbless
+186484	Minor
+186492	Verbless
+186525	VerbElided
+186528	VerbElided
+186530	VerbElided
+186532	Minor
+186545	VerbElided
+186547	VerbElided
+186550	Verbless
+186556	Verbless
+186573	VerbElided
+186576	Minor
+186591	Minor
+186608	VerbElided
+186636	Minor
+186643	Minor
+186648	Verbless
+186650	VerbElided
+186655	Minor
+186672	Minor
+186704	VerbElided
+186709	Verbless
+186725	Minor
+186736	Minor
+186738	VerbElided
+186746	VerbElided
+186765	VerbElided
+186808	Minor
+186834	VerbElided
+186871	VerbElided
+186893	VerbElided
+186916	Minor
+Minor
+VerbElided
+186927	VerbElided
+186935	Verbless
+186966	VerbElided
+187004	Verbless
+187006	Verbless
+187053	VerbElided
+187081	Verbless
+Verbless
+187084	Verbless
+187099	VerbElided
+187143	VerbElided
+187167	Verbless
+187206	Verbless
+187246	Verbless
+187257	Minor
+187270	Minor
+187283	Verbless
+187288	Verbless
+187424	Verbless
+187449	VerbElided
+187469	VerbElided
+187476	VerbElided
+187498	Verbless
+187502	VerbElided
+187504	Verbless
+187533	Minor
+187546	VerbElided
+187548	VerbElided
+187556	Verbless
+187577	Minor
+187579	VerbElided
+187584	Verbless
+Verbless
+187590	Minor
+187616	VerbElided
+187652	VerbElided
+187658	Minor
+187673	Minor
+187679	Minor
+187685	VerbElided
+187688	VerbElided
+187690	VerbElided
+187693	VerbElided
+VerbElided
+187699	VerbElided
+187701	VerbElided
+187709	Verbless
+187711	Verbless
+187714	Minor
+187804	VerbElided
+187812	Verbless
+187817	VerbElided
+187828	VerbElided
+187884	Minor
+187898	VerbElided
+187905	VerbElided
+187911	VerbElided
+187915	VerbElided
+187948	Verbless
+187952	Verbless
+187958	VerbElided
+187974	Verbless
+187976	Verbless
+188015	Verbless
+188017	Verbless
+188036	Verbless
+188038	VerbElided
+188040	VerbElided
+188042	VerbElided
+188052	VerbElided
+188060	VerbElided
+188063	Verbless
+188078	VerbElided
+188098	Verbless
+188102	Minor
+188107	Verbless
+Verbless
+188137	VerbElided
+188171	VerbElided
+188178	VerbElided
+188240	Minor
+Verbless
+188245	Verbless
+188247	Verbless
+188269	VerbElided
+188271	Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+188330	Minor
+188334	VerbElided
+188344	Verbless
+188352	VerbElided
+188355	Minor
+188370	Verbless
+Verbless
+188373	Verbless
+188375	Verbless
+Verbless
+188391	Minor
+188397	Minor
+188404	Minor
+188406	Minor
+188414	Verbless
+188419	Verbless
+188435	Minor
+Minor
+188439	Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+188446	Verbless
+188449	Verbless
+188503	Minor
+188512	VerbElided
+188541	Minor
+188548	VerbElided
+Verbless
+188552	VerbElided
+188560	VerbElided
+188676	VerbElided
+188698	Verbless
+188735	Verbless
+188858	Verbless
+188903	VerbElided
+188952	Verbless
+188954	Verbless
+188971	VerbElided
+188987	Minor
+188996	Minor
+188999	Minor
+189005	Minor
+189008	Minor
+189011	Minor
+189014	VerbElided
+VerbElided
+189036	Minor
+189146	VerbElided
+189148	Verbless
+VerbElided
+189158	VerbElided
+189173	Minor
+189230	Minor
+189244	Verbless
+189268	Verbless
+Verbless
+189278	VerbElided
+189293	Minor
+189316	VerbElided
+189318	VerbElided
+189346	Minor
+189355	VerbElided
+189370	Verbless
+189381	Minor
+189389	VerbElided
+189398	Verbless
+189404	Verbless
+189474	VerbElided
+189476	Minor
+189510	VerbElided
+189517	Minor
+189540	Verbless
+189551	Verbless
+189553	VerbElided
+189563	Verbless
+189572	VerbElided
+189594	Minor
+189611	Minor
+189617	VerbElided
+189667	Minor
+189674	VerbElided
+189683	VerbElided
+189690	Minor
+189694	VerbElided
+189708	VerbElided
+189732	VerbElided
+189756	Minor
+189768	Minor
+189785	Verbless
+189806	Verbless
+189812	Minor
+189816	Verbless
+189819	VerbElided
+189828	VerbElided
+189838	Minor
+189868	VerbElided
+189908	VerbElided
+189915	Minor
+189967	VerbElided
+190006	Minor
+190017	Minor
+190046	Minor
+190055	VerbElided
+190062	Verbless
+190084	Minor
+190091	VerbElided
+190147	Minor
+190162	VerbElided
+190166	VerbElided
+190169	Verbless
+190173	Verbless
+190176	VerbElided
+190185	VerbElided
+190209	VerbElided
+190238	VerbElided
+190303	Minor
+Minor
+190338	Verbless
+190351	Verbless
+Verbless
+190401	VerbElided
+190416	Verbless
+190447	VerbElided
+Verbless
+190457	VerbElided
+Verbless
+190470	VerbElided
+190519	Verbless
+190521	Verbless
+190551	Verbless
+190604	VerbElided
+VerbElided
+VerbElided
+190684	Verbless
+Verbless
+190713	VerbElided
+190724	Verbless
+190728	VerbElided
+190760	Verbless
+190854	Minor
+190906	Minor
+190914	VerbElided
+190921	Verbless
+190928	Minor
+190935	Verbless
+VerbElided
+190942	VerbElided
+190973	VerbElided
+190981	VerbElided
+191074	Minor
+191110	VerbElided
+191118	Verbless
+191187	Verbless
+191189	Verbless
+191235	Verbless
+191238	Verbless
+191385	VerbElided
+191399	VerbElided
+VerbElided
+191415	VerbElided
+191446	Minor
+191464	Verbless
+Verbless
+VerbElided
+191483	VerbElided
+191516	Verbless
+191548	Verbless
+191558	Verbless
+191561	Verbless
+191603	VerbElided
+191664	Verbless
+191696	Verbless
+191753	Verbless
+VerbElided
+191769	VerbElided
+191796	Minor
+191807	Verbless
+191834	Verbless
+191841	VerbElided
+191843	VerbElided
+191854	VerbElided
+191870	Minor
+Minor
+191892	Verbless
+191935	Verbless
+191940	VerbElided
+191943	VerbElided
+Verbless
+Minor
+191947	Verbless
+191956	Minor
+191967	VerbElided
+191972	VerbElided
+191975	VerbElided
+192067	VerbElided
+192069	VerbElided
+192073	Verbless
+192088	VerbElided
+192139	Minor
+192148	VerbElided
+192158	Verbless
+192168	VerbElided
+192184	VerbElided
+192207	Minor
+192230	VerbElided
+192236	VerbElided
+192242	VerbElided
+192251	VerbElided
+192270	VerbElided
+192330	VerbElided
+192338	Verbless
+192358	Verbless
+192363	Verbless
+192404	VerbElided
+192410	VerbElided
+192416	VerbElided
+192424	Verbless
+VerbElided
+192449	Verbless
+192499	Verbless
+192533	Verbless
+192538	Verbless
+Verbless
+192541	Minor
+192548	Verbless
+192564	Verbless
+192591	Verbless
+192598	Verbless
+192634	Verbless
+192647	Verbless
+192703	Verbless
+192731	Verbless
+192742	VerbElided
+192748	VerbElided
+192753	VerbElided
+192761	Verbless
+192793	VerbElided
+192802	VerbElided
+192807	VerbElided
+192827	Verbless
+192881	VerbElided
+192893	Verbless
+192912	VerbElided
+192927	Verbless
+192941	Verbless
+192948	Verbless
+192958	Verbless
+192967	Verbless
+192980	VerbElided
+193046	Verbless
+Verbless
+193074	Verbless
+193088	Verbless
+193093	VerbElided
+193113	VerbElided
+193140	Verbless
+193142	Verbless
+193164	Minor
+193211	Verbless
+193221	VerbElided
+Verbless
+193227	Minor
+193235	VerbElided
+193242	Verbless
+193252	Verbless
+193264	VerbElided
+193290	VerbElided
+193294	VerbElided
+193296	Verbless
+193434	Verbless
+193448	VerbElided
+193451	Verbless
+193503	Verbless
+193526	Verbless
+193597	VerbElided
+193658	VerbElided
+Minor
+193675	VerbElided
+193677	Verbless
+193705	VerbElided
+193711	Verbless
+193719	Verbless
+193753	Verbless
+193833	VerbElided
+193861	Verbless
+193873	VerbElided
+193880	Verbless
+193882	Verbless
+193887	Verbless
+193902	Verbless
+193913	Verbless
+193918	VerbElided
+193923	Verbless
+193979	VerbElided
+193982	Verbless
+194005	VerbElided
+Minor
+194011	Minor
+194026	VerbElided
+VerbElided
+194036	Minor
+194077	Verbless
+194083	VerbElided
+194087	VerbElided
+194101	Verbless
+194132	Minor
+194146	Minor
+194152	Verbless
+194155	Verbless
+194172	Verbless
+194180	Verbless
+194193	Minor
+194209	Verbless
+194222	Minor
+194254	Minor
+194283	VerbElided
+194292	VerbElided
+194323	Verbless
+194327	Verbless
+Minor
+194358	Verbless
+194379	Minor
+194382	Minor
+194412	VerbElided
+194426	Minor
+194435	Verbless
+194461	Verbless
+Verbless
+194465	Verbless
+194487	Verbless
+194502	Minor
+194510	Minor
+194513	VerbElided
+194516	Verbless
+194534	Verbless
+194538	Verbless
+194541	Verbless
+194546	Verbless
+194555	Verbless
+194557	Verbless
+194559	Verbless
+194591	Minor
+194629	Minor
+194632	Minor
+194642	VerbElided
+194648	Minor
+194675	Minor
+194680	Minor
+194703	VerbElided
+194730	Minor
+194772	Minor
+194783	Minor
+194788	Minor
+194805	Minor
+194813	Verbless
+194869	Minor
+194883	VerbElided
+194896	Verbless
+194977	Verbless
+194987	Verbless
+195002	VerbElided
+195004	VerbElided
+195035	Verbless
+195037	Verbless
+195064	Verbless
+195073	Verbless
+195086	VerbElided
+195095	Minor
+195101	Verbless
+195115	Verbless
+195117	Verbless
+195119	Verbless
+195122	Verbless
+195125	Minor
+195137	VerbElided
+195156	Verbless
+195162	Verbless
+195169	Minor
+195176	Verbless
+195229	Minor
+195260	Minor
+195263	VerbElided
+195266	VerbElided
+195270	Verbless
+195276	VerbElided
+195293	VerbElided
+195309	Verbless
+195311	Verbless
+195313	Verbless
+195336	Verbless
+195351	Verbless
+195360	VerbElided
+195405	Verbless
+195439	Verbless
+195447	VerbElided
+195453	VerbElided
+195458	VerbElided
+195468	Minor
+Minor
+195488	Verbless
+195505	VerbElided
+195510	VerbElided
+195516	Verbless
+Verbless
+195550	Minor
+195572	VerbElided
+195580	Minor
+195590	Minor
+195607	VerbElided
+195609	VerbElided
+195649	VerbElided
+195651	VerbElided
+195653	VerbElided
+195655	VerbElided
+195657	VerbElided
+195659	VerbElided
+195675	Minor
+195743	VerbElided
+195823	VerbElided
+195847	Verbless
+195858	Verbless
+195912	VerbElided
+195914	Minor
+195953	Minor
+195956	Verbless
+195958	Verbless
+196002	Minor
+196022	VerbElided
+196024	Minor
+196037	VerbElided
+196039	Verbless
+196069	Verbless
+196140	Minor
+196154	VerbElided
+196181	Minor
+196190	Minor
+196232	Minor
+196235	Minor
+196238	Minor
+196241	Minor
+196244	Minor
+196247	Minor
+196278	Minor
+196322	Verbless
+196340	Minor
+196352	Verbless
+196357	Minor
+196381	Minor
+196409	Minor
+196454	Minor
+196488	VerbElided
+196509	Verbless
+Minor
+196548	Minor
+196568	Minor
+196600	VerbElided
+196604	VerbElided
+196607	Minor
+196637	Minor
+196644	VerbElided
+196659	Minor
+196690	Minor
+196704	VerbElided
+196721	VerbElided
+196820	Verbless
+196826	Verbless
+196837	Verbless
+196840	VerbElided
+VerbElided
+196855	Verbless
+196979	Minor
+196981	VerbElided
+197014	Minor
+197018	VerbElided
+197053	Minor
+197090	VerbElided
+197093	Minor
+197113	Minor
+197118	VerbElided
+197156	Minor
+197158	VerbElided
+197189	VerbElided
+197192	VerbElided
+197208	Minor
+197287	VerbElided
+197289	VerbElided
+197301	Verbless
+197333	Minor
+197350	Minor
+197383	Minor
+Verbless
+197416	Verbless
+VerbElided
+197419	VerbElided
+197434	Verbless
+197443	Minor
+197457	Minor
+197469	Minor
+197477	Verbless
+197528	VerbElided
+197540	Verbless
+197542	VerbElided
+197544	Verbless
+197546	Verbless
+197551	VerbElided
+197553	VerbElided
+197560	VerbElided
+197597	Minor
+197632	Verbless
+197657	VerbElided
+197673	Minor
+197698	VerbElided
+197705	Verbless
+197736	Verbless
+197765	VerbElided
+197773	Minor
+197788	VerbElided
+197799	Verbless
+197809	Verbless
+197874	Minor
+198035	Minor
+198072	VerbElided
+198077	Verbless
+198145	VerbElided
+Minor
+198184	Verbless
+198191	Verbless
+198194	Verbless
+198199	Verbless
+198210	Verbless
+Verbless
+198213	Verbless
+198221	Verbless
+198223	Verbless
+198227	Verbless
+198239	Verbless
+198278	Minor
+198303	Verbless
+198442	Minor
+198491	Minor
+198526	Verbless
+198528	Verbless
+198550	Minor
+198577	Minor
+198601	VerbElided
+198698	VerbElided
+VerbElided
+VerbElided
+VerbElided
+VerbElided
+VerbElided
+VerbElided
+VerbElided
+VerbElided
+VerbElided
+198726	Verbless
+198730	VerbElided
+198748	Minor
+198756	Minor
+198770	Minor
+198897	VerbElided
+198926	VerbElided
+198934	VerbElided
+198957	VerbElided
+198978	VerbElided
+199006	Verbless
+199009	Verbless
+199011	Verbless
+199013	Verbless
+199021	Verbless
+199028	Verbless
+199031	Verbless
+199037	Verbless
+199068	Verbless
+199082	Verbless
+199102	Verbless
+199141	Verbless
+199143	Verbless
+199145	Verbless
+199154	VerbElided
+199247	VerbElided
+199271	Verbless
+199352	Verbless
+199444	Minor
+199466	VerbElided
+199504	Verbless
+199506	Verbless
+199526	Verbless
+199562	VerbElided
+199615	Minor
+199621	VerbElided
+199649	VerbElided
+199685	Verbless
+199687	Verbless
+199695	Verbless
+199697	Verbless
+199705	VerbElided
+199722	Verbless
+199772	VerbElided
+199790	VerbElided
+199865	VerbElided
+199878	Verbless
+199887	Verbless
+199898	VerbElided
+199901	VerbElided
+199903	Verbless
+199917	VerbElided
+199927	Verbless
+200028	Verbless
+200032	Minor
+200043	VerbElided
+200049	VerbElided
+200137	Minor
+200143	Minor
+200147	Minor
+200231	Minor
+200253	Minor
+Minor
+200302	VerbElided
+200316	VerbElided
+200350	Verbless
+200473	Verbless
+200493	Minor
+200531	Verbless
+200547	Minor
+200612	Minor
+200657	Verbless
+200677	Minor
+Minor
+200745	Minor
+Minor
+200775	Verbless
+200787	Minor
+Minor
+200795	Minor
+200848	Verbless
+200866	Minor
+200881	Minor
+200886	Minor
+200899	Minor
+200926	Verbless
+200941	VerbElided
+200973	Verbless
+200975	Verbless
+200982	VerbElided
+201127	VerbElided
+201149	Verbless
+Verbless
+201178	Verbless
+201203	Verbless
+201286	Verbless
+201322	Verbless
+201341	Minor
+201385	VerbElided
+201396	Verbless
+201402	Verbless
+201404	Verbless
+201406	Verbless
+201408	Verbless
+201413	Verbless
+201429	Verbless
+201444	Verbless
+201447	Verbless
+Verbless
+201451	Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+Verbless
+201465	Verbless
+201468	Verbless
+201489	Verbless
+201512	VerbElided
+201521	Verbless
+201529	Verbless
+201544	Verbless
+201561	Verbless
+201572	Verbless
+201575	Verbless
+201598	VerbElided
+201627	Verbless
+201631	Verbless
+201639	Verbless
+201648	Verbless
+201706	Minor
+Minor
+Minor
+201710	Verbless
 398669	Verbless
 398835	Verbless
 398844	Verbless
