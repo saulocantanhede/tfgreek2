@@ -32,7 +32,7 @@ Value | Phrase Category | frequency
 --- | --- | ---
 adjp | adjectival phrase | 168
 advp | adverbial phrase | 166
-np | nominal phrase | 30911
+np | noun phrase | 30911
 nump | numeral phrase | 7
 pp | prepositional phrase | 11169
 vp | verbal phrase | 207
