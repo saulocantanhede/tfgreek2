@@ -9,5304 +9,5304 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-16T20:43:10Z
+@dateWritten=2023-07-23T21:44:54Z
 
-138160	nominalized
-138163	nominalized
-138207	nominalized
+138148	nominalized
+138150	nominalized
+138182	nominalized
+138194	nominalized
+138202	nominalized
+138213	nominalized
 138221	nominalized
-138230	nominalized
-138245	nominalized
-138256	nominalized
-138276	nominalized
-138291	nominalized
+138236	nominalized
+138247	nominalized
 nominalized
-138297	nominalized
-138319	nominalized
-138321	nominalized
-138324	nominalized
-138370	nominalized
-138385	nominalized
-138403	nominalized
-138406	nominalized
-138436	nominalized
-138459	nominalized
-138463	nominalized
-138478	nominalized
-138510	nominalized
+138251	nominalized
+138269	nominalized
+nominalized
+138273	nominalized
+138310	nominalized
+138322	nominalized
+138334	nominalized
+138337	nominalized
+138359	nominalized
+138378	nominalized
+138382	nominalized
+138395	nominalized
+138418	nominalized
+138422	nominalized
+138438	nominalized
+138446	nominalized
+nominalized
+138451	nominalized
+nominalized
+138461	nominalized
+138476	nominalized
+138491	nominalized
+138502	nominalized
 138514	nominalized
-138531	nominalized
-138540	nominalized
+138570	nominalized
+138577	nominalized
+138582	nominalized
+138596	nominalized
+138632	nominalized
 nominalized
-138546	nominalized
+138635	nominalized
+138637	nominalized
+138662	nominalized
+138670	nominalized
+138685	nominalized
+138749	nominalized
 nominalized
-138557	nominalized
-138574	nominalized
-138591	nominalized
-138603	nominalized
-138617	nominalized
-138689	nominalized
-138699	nominalized
-138704	nominalized
-138724	nominalized
-138772	nominalized
+nominalized
+nominalized
+138757	nominalized
+nominalized
 138774	nominalized
-138777	nominalized
-138779	nominalized
-138807	nominalized
-138815	nominalized
-138832	nominalized
-138909	nominalized
 nominalized
 nominalized
+138782	nominalized
+138784	nominalized
 nominalized
-138918	nominalized
+138789	nominalized
 nominalized
+138808	nominalized
+138829	nominalized
+138831	nominalized
+138860	nominalized
+nominalized
+nominalized
+138868	nominalized
+138871	nominalized
+nominalized
+nominalized
+138919	nominalized
+138923	nominalized
+138930	nominalized
+138933	nominalized
 138937	nominalized
+138951	nominalized
+138965	nominalized
+138982	nominalized
+139008	nominalized
+139033	nominalized
+139047	nominalized
+139049	nominalized
+139099	nominalized
+139224	nominalized
 nominalized
 nominalized
-138946	nominalized
-138948	nominalized
+139228	nominalized
 nominalized
-138953	nominalized
+139265	nominalized
+139269	nominalized
+139273	nominalized
+139278	nominalized
+139290	nominalized
+139293	nominalized
 nominalized
-138973	nominalized
-138997	nominalized
-138999	nominalized
-139028	nominalized
+139296	nominalized
+139307	nominalized
+139311	nominalized
+139317	nominalized
+139321	nominalized
+139323	nominalized
 nominalized
-nominalized
-139037	nominalized
-139040	nominalized
-nominalized
-nominalized
-139096	nominalized
-139101	nominalized
-139109	nominalized
-139113	nominalized
-139117	nominalized
-139135	nominalized
-139153	nominalized
-139170	nominalized
-139205	nominalized
-139238	nominalized
-139254	nominalized
-139256	nominalized
-139316	nominalized
-139464	nominalized
+139341	nominalized
+139353	nominalized
+139370	nominalized
+139372	nominalized
 nominalized
 nominalized
-139468	nominalized
+139377	nominalized
+139393	nominalized
+139397	nominalized
+139453	nominalized
+139479	nominalized
+139501	nominalized
+139542	nominalized
+139548	nominalized
+139552	nominalized
+139566	nominalized
+139575	nominalized
+139626	nominalized
 nominalized
-139517	nominalized
-139521	nominalized
-139525	nominalized
-139530	nominalized
-139544	nominalized
-139547	nominalized
+139642	nominalized
+139663	nominalized
+139669	nominalized
+139685	nominalized
+139728	nominalized
+139732	nominalized
 nominalized
-139550	nominalized
-139564	nominalized
-139568	nominalized
-139577	nominalized
-139581	nominalized
-139584	nominalized
+139759	nominalized
+139762	nominalized
+139785	nominalized
+139831	nominalized
+139908	nominalized
+139936	nominalized
+139958	nominalized
+139968	nominalized
+139978	nominalized
+139986	nominalized
+140004	nominalized
+140026	nominalized
 nominalized
-139606	nominalized
-139620	nominalized
-139641	nominalized
-139643	nominalized
+140069	nominalized
+140073	nominalized
+140076	nominalized
+140091	nominalized
+140117	nominalized
+nominalized
+140120	nominalized
 nominalized
 nominalized
-139649	nominalized
-139667	nominalized
-139672	nominalized
-139737	nominalized
-139767	nominalized
-139796	nominalized
-139848	nominalized
-139855	nominalized
-139859	nominalized
-139875	nominalized
-139886	nominalized
-139944	nominalized
+140124	nominalized
 nominalized
-139962	nominalized
-139985	nominalized
-139992	nominalized
-140009	nominalized
-140061	nominalized
-140066	nominalized
-nominalized
-140098	nominalized
-140101	nominalized
 140129	nominalized
+140137	nominalized
+140152	nominalized
+140155	nominalized
+140175	nominalized
 140180	nominalized
+140183	nominalized
+nominalized
+nominalized
+140190	nominalized
+140194	nominalized
+140197	nominalized
+140201	nominalized
+140203	nominalized
+140206	nominalized
+140210	nominalized
+140213	nominalized
+140225	nominalized
+140233	nominalized
+140241	nominalized
+140255	nominalized
+nominalized
+140264	nominalized
 140269	nominalized
-140303	nominalized
-140330	nominalized
-140355	nominalized
-140367	nominalized
-140376	nominalized
-140397	nominalized
-140423	nominalized
+140272	nominalized
+140282	nominalized
 nominalized
-140478	nominalized
-140483	nominalized
-140486	nominalized
-140504	nominalized
-140537	nominalized
-nominalized
-140541	nominalized
+140302	nominalized
+140306	nominalized
+140310	nominalized
+140312	nominalized
+140342	nominalized
+140356	nominalized
+140375	nominalized
+140407	nominalized
 nominalized
 nominalized
-140545	nominalized
+140413	nominalized
+140443	nominalized
 nominalized
+140459	nominalized
+nominalized
+nominalized
+140493	nominalized
+140499	nominalized
+140505	nominalized
+nominalized
+140518	nominalized
+140546	nominalized
 140550	nominalized
-140558	nominalized
-140574	nominalized
-140579	nominalized
-140603	nominalized
-140609	nominalized
-140613	nominalized
 nominalized
-nominalized
-140621	nominalized
-140625	nominalized
-140629	nominalized
-140633	nominalized
-140635	nominalized
+140562	nominalized
+140565	nominalized
+140572	nominalized
+140595	nominalized
+140599	nominalized
+140627	nominalized
+140631	nominalized
 140639	nominalized
 140643	nominalized
-140647	nominalized
-140661	nominalized
-140671	nominalized
-140679	nominalized
-140695	nominalized
+140648	nominalized
+140672	nominalized
 nominalized
-140706	nominalized
-140711	nominalized
-140714	nominalized
-140725	nominalized
-nominalized
-140753	nominalized
 140757	nominalized
-140762	nominalized
-140764	nominalized
-140806	nominalized
-140820	nominalized
-140841	nominalized
-140884	nominalized
+140770	nominalized
+140787	nominalized
+140789	nominalized
+140794	nominalized
+140796	nominalized
+nominalized
+140807	nominalized
+140814	nominalized
+140826	nominalized
+140828	nominalized
+140830	nominalized
+140833	nominalized
+140843	nominalized
+140847	nominalized
+140849	nominalized
+140854	nominalized
 nominalized
 nominalized
-140891	nominalized
-140925	nominalized
 nominalized
-140942	nominalized
+140908	nominalized
+140913	nominalized
+140919	nominalized
+140927	nominalized
+140930	nominalized
+140935	nominalized
+140937	nominalized
+140953	nominalized
+140956	nominalized
+140966	nominalized
+140968	nominalized
+140972	nominalized
 nominalized
 nominalized
 140979	nominalized
+140981	nominalized
 140985	nominalized
-140992	nominalized
-nominalized
-141005	nominalized
+140989	nominalized
+141030	nominalized
 141036	nominalized
-141043	nominalized
-141045	nominalized
-141057	nominalized
-141060	nominalized
-141067	nominalized
-141096	nominalized
-141101	nominalized
-141131	nominalized
-141135	nominalized
-141146	nominalized
-141151	nominalized
-141157	nominalized
-141185	nominalized
-141187	nominalized
-141291	nominalized
-141307	nominalized
+nominalized
+141039	nominalized
+141053	nominalized
+nominalized
+nominalized
+141062	nominalized
+141066	nominalized
+141078	nominalized
+141089	nominalized
+141105	nominalized
+141115	nominalized
+141117	nominalized
+nominalized
+nominalized
+nominalized
+141125	nominalized
+141129	nominalized
+141134	nominalized
+141138	nominalized
+141142	nominalized
+nominalized
+nominalized
+nominalized
+141166	nominalized
+nominalized
+141224	nominalized
+141239	nominalized
+nominalized
+141250	nominalized
+141299	nominalized
 141327	nominalized
-141329	nominalized
-141333	nominalized
-141335	nominalized
+141331	nominalized
+141338	nominalized
+141419	nominalized
+141425	nominalized
 nominalized
-141349	nominalized
-141358	nominalized
-141375	nominalized
-141377	nominalized
-141379	nominalized
-141382	nominalized
-141393	nominalized
-141397	nominalized
-141399	nominalized
-141404	nominalized
+141446	nominalized
+141450	nominalized
 nominalized
+141453	nominalized
+141455	nominalized
 nominalized
+141477	nominalized
+141481	nominalized
+141491	nominalized
 nominalized
-141474	nominalized
-141480	nominalized
-141486	nominalized
-141497	nominalized
-141500	nominalized
-141505	nominalized
-141507	nominalized
-141525	nominalized
-141528	nominalized
-141539	nominalized
-141542	nominalized
-141546	nominalized
-nominalized
-nominalized
-141554	nominalized
-141556	nominalized
-141560	nominalized
-141565	nominalized
-141610	nominalized
-141617	nominalized
-nominalized
-141621	nominalized
-141636	nominalized
-nominalized
-nominalized
-141646	nominalized
-141650	nominalized
-141662	nominalized
-141675	nominalized
-141696	nominalized
-141707	nominalized
-141710	nominalized
+141511	nominalized
+141517	nominalized
+141523	nominalized
+141527	nominalized
+141555	nominalized
+141566	nominalized
+141577	nominalized
+141620	nominalized
+141655	nominalized
+141659	nominalized
+141766	nominalized
+141787	nominalized
 nominalized
 nominalized
 nominalized
-141718	nominalized
-141722	nominalized
-141728	nominalized
-141733	nominalized
-141737	nominalized
+141792	nominalized
+nominalized
+nominalized
+141804	nominalized
+141841	nominalized
 nominalized
 nominalized
 nominalized
-141764	nominalized
-141767	nominalized
-141839	nominalized
-141858	nominalized
+141847	nominalized
 nominalized
-141872	nominalized
-141929	nominalized
-141965	nominalized
-141969	nominalized
-141978	nominalized
-142069	nominalized
-142075	nominalized
+nominalized
+141868	nominalized
+141870	nominalized
+141895	nominalized
+141912	nominalized
+141937	nominalized
+141945	nominalized
+141960	nominalized
+141993	nominalized
+142036	nominalized
+142067	nominalized
+142092	nominalized
+142094	nominalized
+nominalized
 nominalized
 142099	nominalized
-142104	nominalized
-nominalized
-142107	nominalized
+142101	nominalized
 142110	nominalized
-nominalized
+142113	nominalized
+142123	nominalized
 142137	nominalized
-142141	nominalized
-142151	nominalized
-142153	nominalized
-142173	nominalized
-142180	nominalized
-142188	nominalized
-142192	nominalized
-142226	nominalized
-142237	nominalized
-142250	nominalized
-142303	nominalized
-142345	nominalized
-142349	nominalized
-142478	nominalized
-142506	nominalized
+142159	nominalized
+142163	nominalized
+142171	nominalized
+142202	nominalized
 nominalized
 nominalized
 nominalized
-142511	nominalized
+142207	nominalized
 nominalized
 nominalized
-142525	nominalized
-142569	nominalized
+142215	nominalized
+nominalized
+142235	nominalized
+142249	nominalized
+142267	nominalized
+142290	nominalized
+142295	nominalized
+142300	nominalized
+142310	nominalized
+142316	nominalized
+142318	nominalized
+142341	nominalized
+142350	nominalized
+142364	nominalized
+nominalized
+142381	nominalized
 nominalized
 nominalized
 nominalized
-142575	nominalized
+142391	nominalized
+142395	nominalized
+142398	nominalized
+142401	nominalized
+142404	nominalized
+142407	nominalized
+142449	nominalized
+142471	nominalized
+142494	nominalized
+142526	nominalized
+142531	nominalized
 nominalized
 nominalized
-142600	nominalized
-142602	nominalized
-142634	nominalized
-142653	nominalized
-142682	nominalized
-142690	nominalized
-142710	nominalized
-142751	nominalized
-142805	nominalized
+142548	nominalized
+142556	nominalized
+142561	nominalized
+nominalized
+nominalized
+142607	nominalized
+142626	nominalized
+nominalized
+142650	nominalized
+142679	nominalized
+nominalized
+142689	nominalized
+142693	nominalized
+142707	nominalized
+nominalized
+nominalized
+nominalized
+142713	nominalized
+nominalized
+nominalized
+142728	nominalized
+142790	nominalized
+142795	nominalized
+142818	nominalized
+142821	nominalized
+142827	nominalized
 142842	nominalized
-142872	nominalized
-142874	nominalized
-nominalized
-nominalized
-142880	nominalized
+142848	nominalized
+142864	nominalized
+142867	nominalized
 142883	nominalized
-142894	nominalized
-142898	nominalized
-142909	nominalized
-142925	nominalized
-142950	nominalized
-142955	nominalized
-142966	nominalized
-143007	nominalized
+142926	nominalized
 nominalized
 nominalized
-nominalized
-143012	nominalized
-nominalized
-nominalized
+142944	nominalized
+143019	nominalized
 143022	nominalized
 nominalized
+143042	nominalized
+143044	nominalized
 143046	nominalized
-143065	nominalized
-143087	nominalized
-143114	nominalized
-143120	nominalized
-143125	nominalized
+143077	nominalized
+143082	nominalized
+nominalized
+143085	nominalized
+143094	nominalized
+143098	nominalized
+143101	nominalized
+nominalized
+nominalized
+143121	nominalized
+143126	nominalized
 143134	nominalized
-143140	nominalized
-143142	nominalized
-143169	nominalized
-143178	nominalized
-143197	nominalized
-nominalized
-143216	nominalized
+143146	nominalized
+143148	nominalized
+143166	nominalized
+143170	nominalized
 nominalized
 nominalized
+143176	nominalized
+143187	nominalized
 nominalized
-143227	nominalized
-143232	nominalized
-143237	nominalized
-143241	nominalized
-143245	nominalized
-143248	nominalized
-143297	nominalized
-143326	nominalized
-143351	nominalized
-143386	nominalized
-143391	nominalized
+143228	nominalized
+143257	nominalized
+143305	nominalized
+143372	nominalized
 nominalized
 nominalized
-143412	nominalized
+nominalized
+143393	nominalized
+143403	nominalized
 143420	nominalized
-143426	nominalized
 nominalized
 nominalized
-143478	nominalized
-143500	nominalized
+143424	nominalized
 nominalized
-143531	nominalized
-143563	nominalized
-nominalized
-143575	nominalized
-143580	nominalized
-143595	nominalized
+143438	nominalized
+143451	nominalized
+143454	nominalized
 nominalized
 nominalized
 nominalized
-143601	nominalized
+143459	nominalized
 nominalized
 nominalized
-143619	nominalized
-143693	nominalized
-143699	nominalized
+143470	nominalized
+143472	nominalized
+nominalized
+nominalized
+nominalized
+143477	nominalized
+nominalized
+nominalized
+143487	nominalized
+143491	nominalized
+143496	nominalized
+143499	nominalized
+143503	nominalized
+143506	nominalized
+143520	nominalized
+143525	nominalized
+143548	nominalized
+nominalized
+143551	nominalized
+143579	nominalized
+143596	nominalized
+nominalized
+143607	nominalized
+143612	nominalized
+143615	nominalized
+143628	nominalized
+143643	nominalized
+143674	nominalized
+143704	nominalized
+143709	nominalized
+143719	nominalized
+143722	nominalized
 143732	nominalized
 143735	nominalized
-143742	nominalized
-143761	nominalized
-143769	nominalized
-143792	nominalized
-143796	nominalized
-143813	nominalized
-143865	nominalized
+143743	nominalized
 nominalized
+143850	nominalized
+143885	nominalized
 nominalized
-143887	nominalized
-143975	nominalized
-143978	nominalized
+143890	nominalized
+143892	nominalized
+143894	nominalized
 nominalized
-144000	nominalized
-144002	nominalized
-144004	nominalized
-144041	nominalized
-144045	nominalized
+143902	nominalized
+143914	nominalized
+143916	nominalized
+143918	nominalized
+143926	nominalized
+143962	nominalized
+143996	nominalized
+143999	nominalized
+144001	nominalized
+144003	nominalized
+144010	nominalized
+144015	nominalized
+144019	nominalized
+144031	nominalized
 144047	nominalized
-144049	nominalized
-144059	nominalized
-144064	nominalized
-144067	nominalized
-nominalized
-nominalized
+144063	nominalized
+144069	nominalized
+144071	nominalized
+144074	nominalized
+144088	nominalized
 144091	nominalized
-144097	nominalized
-144105	nominalized
-144120	nominalized
-144122	nominalized
-144143	nominalized
-144148	nominalized
+144094	nominalized
+144104	nominalized
+144108	nominalized
+144115	nominalized
 nominalized
+144142	nominalized
+144144	nominalized
+144149	nominalized
+144201	nominalized
 nominalized
-144155	nominalized
-144167	nominalized
-nominalized
-144212	nominalized
+144207	nominalized
+144213	nominalized
 144245	nominalized
-144301	nominalized
-144381	nominalized
 nominalized
-nominalized
-nominalized
-144406	nominalized
-144419	nominalized
-144439	nominalized
-nominalized
-nominalized
-144443	nominalized
-nominalized
+144263	nominalized
+144267	nominalized
+144310	nominalized
+144314	nominalized
+144316	nominalized
+144320	nominalized
+144373	nominalized
+144380	nominalized
+144388	nominalized
+144416	nominalized
+144420	nominalized
+144435	nominalized
+144452	nominalized
+144456	nominalized
 144460	nominalized
-144476	nominalized
-144480	nominalized
+144543	nominalized
+144555	nominalized
+144558	nominalized
 nominalized
 nominalized
+144588	nominalized
+144600	nominalized
+144620	nominalized
+144656	nominalized
+144689	nominalized
+144715	nominalized
+144751	nominalized
+144773	nominalized
+144783	nominalized
+144788	nominalized
 nominalized
-144485	nominalized
+144806	nominalized
+144810	nominalized
+144818	nominalized
+144821	nominalized
+144830	nominalized
+144862	nominalized
+144925	nominalized
+144929	nominalized
+144934	nominalized
+144936	nominalized
 nominalized
+144939	nominalized
+144962	nominalized
+144969	nominalized
+144999	nominalized
+145015	nominalized
+145049	nominalized
+145059	nominalized
+145063	nominalized
+145068	nominalized
 nominalized
-144498	nominalized
-144500	nominalized
+145071	nominalized
+145078	nominalized
 nominalized
+145089	nominalized
+145097	nominalized
 nominalized
-nominalized
-144505	nominalized
-nominalized
-nominalized
-144517	nominalized
-144521	nominalized
-144527	nominalized
-144531	nominalized
-144535	nominalized
-144539	nominalized
-144560	nominalized
-144566	nominalized
-144596	nominalized
-nominalized
-144599	nominalized
-144636	nominalized
-144660	nominalized
-144665	nominalized
-144677	nominalized
-144682	nominalized
-144686	nominalized
-144700	nominalized
-144719	nominalized
-144757	nominalized
-144794	nominalized
-144799	nominalized
-144813	nominalized
-144817	nominalized
-144829	nominalized
-144832	nominalized
-144842	nominalized
-nominalized
-144977	nominalized
-145019	nominalized
-145021	nominalized
-145027	nominalized
-145029	nominalized
-145032	nominalized
-nominalized
-145040	nominalized
-145056	nominalized
-145061	nominalized
-145064	nominalized
-145075	nominalized
-145119	nominalized
-145163	nominalized
-145168	nominalized
+145131	nominalized
+145150	nominalized
+145162	nominalized
 145170	nominalized
-145172	nominalized
-145180	nominalized
-145185	nominalized
-145190	nominalized
-145203	nominalized
-145221	nominalized
-145239	nominalized
-145245	nominalized
-145247	nominalized
-145250	nominalized
-145266	nominalized
-145269	nominalized
-145273	nominalized
-145284	nominalized
+145208	nominalized
+145235	nominalized
+145255	nominalized
+145263	nominalized
+145270	nominalized
 145290	nominalized
-145297	nominalized
-nominalized
-145330	nominalized
-145332	nominalized
-145339	nominalized
-145403	nominalized
-nominalized
-145410	nominalized
-145419	nominalized
-145457	nominalized
-nominalized
-145478	nominalized
-145485	nominalized
-145538	nominalized
-145543	nominalized
-145545	nominalized
+145323	nominalized
+145355	nominalized
+145434	nominalized
+145437	nominalized
+145442	nominalized
+145468	nominalized
+145513	nominalized
+145541	nominalized
+145546	nominalized
 145550	nominalized
-145610	nominalized
-145620	nominalized
-145629	nominalized
-145664	nominalized
-145669	nominalized
-145686	nominalized
-145705	nominalized
-145710	nominalized
-145714	nominalized
-145813	nominalized
-145828	nominalized
-145831	nominalized
+145625	nominalized
+145648	nominalized
+145651	nominalized
+145670	nominalized
+145673	nominalized
+145704	nominalized
+145712	nominalized
+145727	nominalized
+nominalized
+145733	nominalized
+145745	nominalized
+145756	nominalized
+145761	nominalized
+145796	nominalized
+145809	nominalized
+145827	nominalized
+145850	nominalized
+145852	nominalized
+145861	nominalized
+145880	nominalized
+145923	nominalized
+nominalized
+145927	nominalized
 nominalized
 nominalized
-145864	nominalized
-145877	nominalized
-145904	nominalized
-145948	nominalized
-145988	nominalized
-146018	nominalized
-146061	nominalized
-146087	nominalized
+nominalized
+145958	nominalized
+145963	nominalized
+145984	nominalized
+145989	nominalized
+145991	nominalized
+nominalized
+146003	nominalized
+146011	nominalized
+146032	nominalized
+nominalized
+146064	nominalized
+146067	nominalized
+146075	nominalized
+146079	nominalized
+nominalized
+nominalized
+146094	nominalized
 146097	nominalized
-146106	nominalized
+146108	nominalized
 nominalized
-146125	nominalized
-146130	nominalized
-146139	nominalized
-146142	nominalized
+nominalized
+146146	nominalized
+nominalized
+nominalized
+146152	nominalized
+146154	nominalized
 146156	nominalized
-146194	nominalized
-146265	nominalized
-146270	nominalized
+nominalized
+nominalized
+nominalized
+146190	nominalized
+nominalized
+nominalized
 146275	nominalized
-146277	nominalized
-146279	nominalized
-146281	nominalized
-146307	nominalized
-146314	nominalized
-146351	nominalized
-146372	nominalized
-146411	nominalized
-146422	nominalized
-146427	nominalized
-146434	nominalized
+146280	nominalized
+146327	nominalized
+146346	nominalized
+146355	nominalized
+146362	nominalized
+146367	nominalized
+146373	nominalized
+146376	nominalized
+146387	nominalized
+146396	nominalized
 nominalized
-146437	nominalized
-146451	nominalized
+146405	nominalized
+146415	nominalized
+146439	nominalized
+146480	nominalized
+146486	nominalized
+146522	nominalized
+146541	nominalized
+146566	nominalized
+146585	nominalized
+146648	nominalized
 nominalized
-146465	nominalized
-146475	nominalized
-146477	nominalized
-146514	nominalized
-146539	nominalized
-146553	nominalized
-146565	nominalized
-146609	nominalized
-146644	nominalized
-146667	nominalized
-146679	nominalized
-146688	nominalized
-146714	nominalized
-146755	nominalized
-146799	nominalized
-146898	nominalized
-146901	nominalized
-146907	nominalized
-146941	nominalized
-146995	nominalized
-147027	nominalized
-147034	nominalized
-147039	nominalized
-147132	nominalized
-147162	nominalized
-147165	nominalized
-147189	nominalized
-147192	nominalized
-147227	nominalized
-147235	nominalized
-147256	nominalized
+146674	nominalized
+146691	nominalized
 nominalized
-147262	nominalized
-147275	nominalized
-147289	nominalized
-147294	nominalized
-147334	nominalized
-147348	nominalized
-147369	nominalized
-147402	nominalized
-147404	nominalized
-147418	nominalized
-147438	nominalized
+146704	nominalized
+146736	nominalized
+146740	nominalized
+nominalized
+146758	nominalized
+146771	nominalized
+146797	nominalized
+nominalized
+146800	nominalized
+146809	nominalized
+146812	nominalized
+146834	nominalized
+146856	nominalized
+146863	nominalized
+146904	nominalized
+146926	nominalized
+146974	nominalized
+nominalized
+146981	nominalized
+146987	nominalized
+146993	nominalized
+nominalized
+nominalized
+147004	nominalized
+147017	nominalized
+147053	nominalized
+147060	nominalized
+nominalized
+nominalized
+nominalized
+147068	nominalized
+147078	nominalized
+nominalized
+147084	nominalized
+147086	nominalized
+147098	nominalized
+147112	nominalized
+147133	nominalized
+147148	nominalized
+147191	nominalized
+147205	nominalized
+147217	nominalized
+147225	nominalized
+147413	nominalized
+147453	nominalized
+nominalized
+nominalized
+147458	nominalized
+nominalized
+nominalized
+147464	nominalized
+147472	nominalized
 147485	nominalized
+147487	nominalized
+147501	nominalized
 nominalized
-147488	nominalized
-nominalized
-nominalized
-nominalized
-147524	nominalized
-147532	nominalized
-147557	nominalized
-147562	nominalized
-147565	nominalized
-nominalized
-147581	nominalized
-147590	nominalized
-147618	nominalized
-nominalized
-147658	nominalized
+147514	nominalized
+147544	nominalized
+147554	nominalized
+147561	nominalized
+147579	nominalized
+147604	nominalized
+147660	nominalized
 147663	nominalized
-147674	nominalized
-147679	nominalized
-nominalized
-nominalized
-147696	nominalized
-147700	nominalized
-147714	nominalized
-nominalized
-nominalized
-147759	nominalized
-nominalized
-nominalized
-147765	nominalized
-147767	nominalized
-147769	nominalized
+147756	nominalized
 nominalized
 nominalized
 nominalized
-147810	nominalized
-147812	nominalized
-nominalized
-147908	nominalized
-147914	nominalized
-147973	nominalized
-147996	nominalized
-148007	nominalized
-148017	nominalized
-148023	nominalized
-148030	nominalized
-148033	nominalized
-148045	nominalized
-148056	nominalized
-nominalized
-148067	nominalized
-148080	nominalized
-148107	nominalized
-148151	nominalized
-148159	nominalized
-148203	nominalized
-148228	nominalized
-148255	nominalized
-148279	nominalized
-148355	nominalized
-nominalized
-148388	nominalized
-148405	nominalized
-148407	nominalized
-148422	nominalized
-148464	nominalized
-148469	nominalized
-nominalized
-148489	nominalized
-148504	nominalized
-148535	nominalized
-nominalized
-148538	nominalized
-148551	nominalized
-148554	nominalized
-148581	nominalized
-148606	nominalized
-148614	nominalized
-148667	nominalized
-148693	nominalized
-148753	nominalized
-nominalized
-148762	nominalized
-148769	nominalized
-148775	nominalized
-nominalized
-nominalized
-148789	nominalized
-148804	nominalized
-148848	nominalized
-148858	nominalized
-148860	nominalized
-nominalized
-nominalized
-148869	nominalized
-148882	nominalized
-nominalized
-148888	nominalized
-148890	nominalized
-148906	nominalized
-148922	nominalized
-148945	nominalized
-148962	nominalized
-149012	nominalized
-149028	nominalized
-149044	nominalized
-149054	nominalized
-149262	nominalized
-149310	nominalized
-nominalized
-nominalized
-149315	nominalized
-nominalized
-nominalized
-149322	nominalized
-149331	nominalized
-149349	nominalized
-149351	nominalized
-149368	nominalized
-nominalized
-149381	nominalized
-149418	nominalized
-149428	nominalized
-149435	nominalized
-149457	nominalized
-149485	nominalized
-149545	nominalized
-149548	nominalized
-149655	nominalized
+147761	nominalized
 nominalized
 nominalized
 nominalized
-149660	nominalized
+147768	nominalized
+147774	nominalized
+147784	nominalized
 nominalized
+147790	nominalized
 nominalized
+147795	nominalized
+147803	nominalized
+147805	nominalized
+147816	nominalized
+147825	nominalized
+147834	nominalized
+147838	nominalized
+147867	nominalized
+147893	nominalized
 nominalized
-149667	nominalized
-149672	nominalized
-149684	nominalized
-nominalized
-149690	nominalized
-nominalized
-149696	nominalized
-149705	nominalized
-149708	nominalized
-149722	nominalized
-149733	nominalized
-149743	nominalized
-149748	nominalized
-149783	nominalized
-149814	nominalized
-nominalized
-149820	nominalized
+147899	nominalized
 nominalized
 nominalized
 nominalized
 nominalized
-149853	nominalized
+147929	nominalized
 nominalized
-149856	nominalized
+147932	nominalized
+147974	nominalized
+nominalized
+nominalized
+147995	nominalized
+148004	nominalized
+148006	nominalized
+148032	nominalized
+148050	nominalized
+148065	nominalized
+148071	nominalized
+148099	nominalized
+nominalized
+nominalized
+148120	nominalized
+148122	nominalized
+nominalized
+148129	nominalized
+nominalized
+nominalized
+nominalized
+148134	nominalized
+nominalized
+148139	nominalized
+148143	nominalized
+148156	nominalized
+148162	nominalized
+nominalized
+nominalized
+nominalized
+148168	nominalized
+nominalized
+nominalized
+148249	nominalized
+148271	nominalized
+148294	nominalized
+148297	nominalized
+148303	nominalized
+148306	nominalized
+148344	nominalized
+148347	nominalized
+148352	nominalized
+148390	nominalized
+148399	nominalized
+148401	nominalized
+148409	nominalized
+nominalized
+148414	nominalized
+nominalized
+148514	nominalized
+nominalized
+148517	nominalized
+148519	nominalized
+148547	nominalized
+nominalized
+148550	nominalized
+148585	nominalized
+148616	nominalized
+148673	nominalized
+148721	nominalized
+148761	nominalized
+148771	nominalized
+148784	nominalized
+148793	nominalized
+148797	nominalized
+148800	nominalized
+148813	nominalized
+148845	nominalized
+148865	nominalized
+148873	nominalized
+148878	nominalized
+148894	nominalized
+148899	nominalized
+148902	nominalized
+148914	nominalized
+148917	nominalized
+148924	nominalized
+nominalized
+nominalized
+148935	nominalized
+nominalized
+148951	nominalized
+148992	nominalized
+149033	nominalized
+nominalized
+149078	nominalized
+nominalized
+149086	nominalized
+149088	nominalized
+149118	nominalized
+149122	nominalized
+149127	nominalized
+149130	nominalized
+149155	nominalized
+149166	nominalized
+149174	nominalized
+149199	nominalized
+149204	nominalized
+149221	nominalized
+149241	nominalized
+149247	nominalized
+149332	nominalized
+149344	nominalized
+149347	nominalized
+nominalized
+nominalized
+149367	nominalized
+149413	nominalized
+149500	nominalized
+149508	nominalized
+149519	nominalized
+149560	nominalized
+149564	nominalized
+nominalized
+149590	nominalized
+149612	nominalized
+149644	nominalized
+nominalized
+149651	nominalized
+149654	nominalized
+149656	nominalized
+149678	nominalized
+149686	nominalized
+149704	nominalized
+149713	nominalized
+149720	nominalized
+149744	nominalized
+149750	nominalized
+nominalized
+149756	nominalized
+nominalized
+149764	nominalized
+149769	nominalized
+149772	nominalized
+149794	nominalized
+149800	nominalized
+149834	nominalized
+149839	nominalized
+149863	nominalized
+149867	nominalized
+149893	nominalized
+149901	nominalized
 149908	nominalized
+149912	nominalized
+149926	nominalized
+149935	nominalized
+149939	nominalized
+149948	nominalized
+149952	nominalized
+149956	nominalized
+149960	nominalized
+149962	nominalized
 nominalized
-nominalized
-149930	nominalized
-149938	nominalized
-149941	nominalized
-149970	nominalized
-149994	nominalized
-150013	nominalized
-150019	nominalized
+149981	nominalized
+149984	nominalized
+150027	nominalized
+150040	nominalized
 150052	nominalized
 nominalized
 nominalized
-150076	nominalized
-150078	nominalized
-150080	nominalized
-150086	nominalized
+150060	nominalized
+150085	nominalized
+150089	nominalized
 nominalized
 nominalized
-150090	nominalized
-150092	nominalized
-150094	nominalized
-150099	nominalized
-150104	nominalized
-150119	nominalized
-150127	nominalized
+150140	nominalized
+150148	nominalized
+150197	nominalized
+150215	nominalized
+150222	nominalized
+150225	nominalized
+150238	nominalized
+150264	nominalized
+150268	nominalized
+150288	nominalized
+150294	nominalized
+150317	nominalized
+150321	nominalized
+150323	nominalized
+150334	nominalized
 nominalized
+150338	nominalized
+150341	nominalized
+150360	nominalized
+150362	nominalized
+150366	nominalized
 nominalized
+150371	nominalized
+150374	nominalized
+150400	nominalized
+150403	nominalized
+150428	nominalized
 nominalized
-150133	nominalized
-nominalized
-nominalized
-150233	nominalized
-150260	nominalized
-150287	nominalized
-150290	nominalized
-150295	nominalized
-150298	nominalized
-150343	nominalized
-150346	nominalized
-150352	nominalized
-150396	nominalized
-150406	nominalized
-150408	nominalized
-150417	nominalized
-nominalized
-150421	nominalized
-nominalized
-150544	nominalized
-150546	nominalized
-150548	nominalized
-150550	nominalized
-150582	nominalized
-150584	nominalized
+150438	nominalized
+150443	nominalized
+150447	nominalized
+150449	nominalized
+150458	nominalized
+150465	nominalized
+150470	nominalized
+150472	nominalized
+150482	nominalized
+150486	nominalized
+150513	nominalized
+150515	nominalized
+150517	nominalized
+150526	nominalized
+150532	nominalized
+150541	nominalized
+150564	nominalized
 150586	nominalized
-150628	nominalized
-150665	nominalized
-150727	nominalized
-150786	nominalized
-150831	nominalized
-150842	nominalized
-150857	nominalized
-150867	nominalized
-150872	nominalized
-150876	nominalized
-150891	nominalized
-150931	nominalized
-150956	nominalized
-150968	nominalized
-150974	nominalized
-150993	nominalized
-151000	nominalized
-151003	nominalized
-151019	nominalized
-151022	nominalized
-151030	nominalized
+150611	nominalized
+150630	nominalized
+150633	nominalized
+150679	nominalized
+150684	nominalized
+150700	nominalized
+150713	nominalized
+150715	nominalized
+150719	nominalized
+150731	nominalized
+150734	nominalized
+150755	nominalized
+150759	nominalized
 nominalized
-151034	nominalized
-151042	nominalized
-151044	nominalized
-151065	nominalized
-151113	nominalized
-151166	nominalized
-nominalized
-151222	nominalized
-nominalized
-151231	nominalized
-151233	nominalized
-151269	nominalized
-151274	nominalized
-151280	nominalized
-151283	nominalized
-151315	nominalized
-151329	nominalized
-151340	nominalized
-151370	nominalized
-151376	nominalized
-151395	nominalized
-151417	nominalized
-151425	nominalized
-151532	nominalized
-151548	nominalized
-151551	nominalized
+150775	nominalized
+150780	nominalized
+150785	nominalized
+150830	nominalized
 nominalized
 nominalized
-151575	nominalized
-151632	nominalized
-151735	nominalized
-151743	nominalized
-151757	nominalized
-151802	nominalized
-151806	nominalized
-151808	nominalized
-151833	nominalized
-151858	nominalized
-151898	nominalized
-151900	nominalized
-151909	nominalized
-151913	nominalized
-151915	nominalized
-151941	nominalized
+150858	nominalized
+150881	nominalized
+150885	nominalized
+150897	nominalized
+150903	nominalized
+150921	nominalized
+150932	nominalized
+nominalized
+150964	nominalized
+150980	nominalized
+151033	nominalized
+nominalized
+151063	nominalized
+151068	nominalized
+151076	nominalized
+151089	nominalized
+nominalized
+151092	nominalized
+151122	nominalized
+151141	nominalized
+151145	nominalized
+151157	nominalized
+151208	nominalized
+151214	nominalized
+151217	nominalized
+151226	nominalized
+151239	nominalized
+151265	nominalized
+151275	nominalized
+151291	nominalized
+151304	nominalized
+151317	nominalized
+151320	nominalized
+151337	nominalized
+151339	nominalized
+151380	nominalized
+151388	nominalized
+151394	nominalized
+151398	nominalized
+151408	nominalized
+nominalized
+151416	nominalized
+151437	nominalized
+151449	nominalized
+151472	nominalized
+151482	nominalized
+nominalized
+151494	nominalized
+151497	nominalized
+151502	nominalized
+151507	nominalized
+151514	nominalized
+151530	nominalized
+151535	nominalized
+151564	nominalized
+151570	nominalized
+151583	nominalized
+151587	nominalized
+151590	nominalized
+151593	nominalized
+151596	nominalized
+151600	nominalized
+151602	nominalized
+151606	nominalized
+151618	nominalized
+151622	nominalized
+151628	nominalized
+151633	nominalized
+151672	nominalized
+151677	nominalized
+nominalized
+151689	nominalized
+151723	nominalized
+151728	nominalized
+151732	nominalized
+151740	nominalized
+nominalized
+nominalized
+151754	nominalized
+151758	nominalized
+151762	nominalized
+nominalized
+nominalized
+151776	nominalized
+151790	nominalized
+151817	nominalized
+151841	nominalized
+151848	nominalized
+151853	nominalized
+151863	nominalized
+151880	nominalized
+151914	nominalized
+151924	nominalized
+151938	nominalized
 151949	nominalized
-151971	nominalized
-151984	nominalized
-151993	nominalized
-152022	nominalized
-152029	nominalized
 nominalized
-152041	nominalized
+151958	nominalized
+151963	nominalized
+151966	nominalized
+151977	nominalized
 nominalized
-152050	nominalized
-152058	nominalized
-152065	nominalized
-152092	nominalized
-152101	nominalized
-152143	nominalized
-152151	nominalized
-152182	nominalized
-152186	nominalized
-152216	nominalized
-152225	nominalized
+151998	nominalized
+152003	nominalized
+152040	nominalized
+152061	nominalized
+152069	nominalized
+152077	nominalized
+152096	nominalized
+152113	nominalized
+152119	nominalized
+152124	nominalized
+nominalized
+152132	nominalized
+152135	nominalized
+152150	nominalized
+152153	nominalized
+nominalized
+152158	nominalized
+152160	nominalized
+152168	nominalized
+152170	nominalized
+152174	nominalized
+152185	nominalized
+152200	nominalized
+152208	nominalized
+152223	nominalized
 152232	nominalized
-152236	nominalized
-152256	nominalized
-152266	nominalized
-152270	nominalized
-152281	nominalized
-152285	nominalized
-152290	nominalized
-152295	nominalized
-152300	nominalized
+152238	nominalized
+152245	nominalized
+152247	nominalized
+152258	nominalized
 nominalized
-152323	nominalized
-152326	nominalized
-152380	nominalized
-152396	nominalized
-152410	nominalized
+152274	nominalized
+152277	nominalized
+152279	nominalized
 nominalized
-152413	nominalized
-152420	nominalized
-152451	nominalized
-152458	nominalized
 nominalized
-152461	nominalized
-152519	nominalized
-152530	nominalized
-152586	nominalized
-152609	nominalized
-152620	nominalized
-152623	nominalized
-152641	nominalized
-152673	nominalized
-152677	nominalized
-152700	nominalized
-152706	nominalized
-152737	nominalized
-152744	nominalized
-152747	nominalized
-152758	nominalized
-152760	nominalized
-152763	nominalized
-152767	nominalized
-152794	nominalized
-152796	nominalized
-152803	nominalized
+152289	nominalized
+152294	nominalized
 nominalized
-152809	nominalized
-152813	nominalized
-152844	nominalized
-152848	nominalized
-152882	nominalized
 nominalized
-152895	nominalized
-152901	nominalized
-152905	nominalized
-152907	nominalized
-152917	nominalized
-152926	nominalized
-152931	nominalized
-152933	nominalized
-152946	nominalized
-152950	nominalized
+152316	nominalized
+152370	nominalized
+152374	nominalized
+152419	nominalized
+152438	nominalized
+152440	nominalized
+152448	nominalized
+152454	nominalized
+152463	nominalized
+152466	nominalized
+152477	nominalized
+152485	nominalized
+152489	nominalized
+152493	nominalized
+152499	nominalized
+152513	nominalized
+152515	nominalized
+nominalized
+nominalized
+nominalized
+152527	nominalized
+152551	nominalized
+152608	nominalized
+152615	nominalized
+152642	nominalized
+152648	nominalized
+152659	nominalized
+152663	nominalized
+152680	nominalized
+152687	nominalized
+152691	nominalized
+152701	nominalized
+152757	nominalized
+152762	nominalized
+152795	nominalized
+152816	nominalized
+nominalized
+nominalized
+152823	nominalized
+152832	nominalized
+152843	nominalized
+152845	nominalized
+152860	nominalized
+152867	nominalized
+152869	nominalized
+152871	nominalized
+nominalized
+152881	nominalized
+152885	nominalized
+152890	nominalized
+152899	nominalized
+152909	nominalized
+152915	nominalized
+152920	nominalized
+152925	nominalized
+152961	nominalized
 152981	nominalized
-152984	nominalized
-152986	nominalized
-152997	nominalized
-153006	nominalized
-153020	nominalized
-153050	nominalized
-153080	nominalized
-153110	nominalized
-153134	nominalized
-153138	nominalized
-153201	nominalized
-153206	nominalized
+152999	nominalized
+153008	nominalized
+nominalized
+nominalized
+nominalized
+153013	nominalized
+nominalized
+nominalized
+153017	nominalized
+153021	nominalized
+153037	nominalized
+nominalized
+153042	nominalized
+153046	nominalized
+153078	nominalized
+153087	nominalized
+153121	nominalized
+153145	nominalized
+153164	nominalized
+nominalized
+153170	nominalized
+153178	nominalized
+nominalized
+153186	nominalized
+153207	nominalized
 153223	nominalized
-153237	nominalized
-153239	nominalized
-153243	nominalized
-153256	nominalized
-153259	nominalized
-153286	nominalized
-153291	nominalized
-nominalized
-153313	nominalized
-153319	nominalized
-153325	nominalized
-153456	nominalized
+153227	nominalized
+153231	nominalized
+153233	nominalized
+153248	nominalized
+153287	nominalized
 nominalized
 nominalized
-153490	nominalized
-153517	nominalized
+153295	nominalized
+nominalized
+153303	nominalized
+153308	nominalized
+153350	nominalized
+153388	nominalized
+nominalized
+nominalized
+153392	nominalized
+153394	nominalized
+153396	nominalized
+153401	nominalized
+153410	nominalized
+153413	nominalized
+153416	nominalized
+nominalized
+153446	nominalized
+153451	nominalized
+153473	nominalized
+153489	nominalized
+153504	nominalized
+153508	nominalized
 153522	nominalized
-153537	nominalized
+153526	nominalized
+153530	nominalized
 153545	nominalized
-153566	nominalized
-153577	nominalized
+153567	nominalized
+153592	nominalized
+153603	nominalized
+153607	nominalized
+153616	nominalized
+153635	nominalized
+153639	nominalized
+153641	nominalized
+153646	nominalized
+153688	nominalized
+153712	nominalized
+153734	nominalized
+153738	nominalized
+153752	nominalized
+153765	nominalized
+153802	nominalized
+153804	nominalized
+153816	nominalized
+153826	nominalized
+153831	nominalized
+153834	nominalized
 nominalized
-153620	nominalized
-153638	nominalized
-153701	nominalized
+153837	nominalized
 nominalized
-153735	nominalized
-153740	nominalized
-153749	nominalized
-153763	nominalized
 nominalized
-153767	nominalized
-153799	nominalized
-153822	nominalized
-153829	nominalized
-153844	nominalized
-153903	nominalized
-153910	nominalized
-153915	nominalized
+nominalized
+nominalized
+153843	nominalized
+nominalized
+153849	nominalized
+153859	nominalized
+153861	nominalized
+153877	nominalized
+nominalized
+nominalized
+153883	nominalized
+153886	nominalized
+nominalized
+153891	nominalized
+153905	nominalized
+nominalized
 153925	nominalized
-153940	nominalized
-153971	nominalized
-153982	nominalized
-154002	nominalized
-154017	nominalized
-154034	nominalized
-154037	nominalized
-154059	nominalized
-154061	nominalized
-154105	nominalized
+153927	nominalized
+153938	nominalized
+153952	nominalized
+153963	nominalized
+nominalized
+153967	nominalized
+153989	nominalized
+154043	nominalized
+154047	nominalized
+nominalized
+154062	nominalized
+154070	nominalized
+nominalized
+154099	nominalized
+nominalized
+154112	nominalized
 154114	nominalized
-154121	nominalized
-154126	nominalized
-154135	nominalized
+154116	nominalized
 nominalized
-154144	nominalized
-154171	nominalized
-154184	nominalized
-154212	nominalized
-154226	nominalized
-154229	nominalized
-154242	nominalized
-154247	nominalized
-154253	nominalized
-154262	nominalized
-154270	nominalized
-154289	nominalized
-154294	nominalized
-154328	nominalized
-154335	nominalized
-154350	nominalized
-154355	nominalized
-154358	nominalized
-154361	nominalized
-154365	nominalized
-154369	nominalized
-154372	nominalized
-154376	nominalized
-154389	nominalized
-154393	nominalized
-154400	nominalized
-154407	nominalized
-154453	nominalized
-154458	nominalized
+154123	nominalized
+154138	nominalized
+154140	nominalized
+154148	nominalized
+154156	nominalized
+154161	nominalized
+154163	nominalized
 nominalized
-154471	nominalized
+154167	nominalized
+154179	nominalized
+154246	nominalized
+154263	nominalized
+nominalized
+nominalized
+154271	nominalized
+154291	nominalized
+154302	nominalized
+nominalized
+154310	nominalized
+154320	nominalized
+154348	nominalized
+nominalized
+154368	nominalized
+nominalized
+nominalized
+154377	nominalized
+154381	nominalized
+154388	nominalized
+nominalized
+nominalized
+154401	nominalized
+nominalized
+nominalized
+154416	nominalized
+154427	nominalized
+nominalized
+nominalized
+nominalized
+nominalized
+nominalized
+154482	nominalized
+154485	nominalized
+154507	nominalized
+154511	nominalized
 154514	nominalized
-154519	nominalized
-154522	nominalized
-154531	nominalized
+154520	nominalized
+154525	nominalized
+154528	nominalized
+154542	nominalized
+154546	nominalized
+154558	nominalized
+154581	nominalized
+154593	nominalized
+154608	nominalized
+154614	nominalized
+154618	nominalized
+154622	nominalized
+154626	nominalized
+154652	nominalized
+154654	nominalized
+154664	nominalized
+154712	nominalized
+154729	nominalized
+154747	nominalized
 nominalized
 nominalized
-154547	nominalized
-154551	nominalized
-154555	nominalized
+154768	nominalized
+154787	nominalized
+154796	nominalized
+154810	nominalized
+154830	nominalized
+154838	nominalized
+154854	nominalized
+154858	nominalized
+154860	nominalized
 nominalized
-nominalized
-154570	nominalized
-154585	nominalized
-154615	nominalized
-154646	nominalized
-154653	nominalized
-154660	nominalized
-154673	nominalized
-154693	nominalized
-154732	nominalized
-154744	nominalized
-154760	nominalized
-154775	nominalized
-nominalized
-154785	nominalized
-154790	nominalized
-154794	nominalized
-154805	nominalized
-nominalized
-154831	nominalized
-154836	nominalized
+154865	nominalized
+154874	nominalized
+154883	nominalized
 154887	nominalized
-154911	nominalized
-154923	nominalized
-154931	nominalized
-154955	nominalized
-154976	nominalized
-154983	nominalized
-154988	nominalized
-nominalized
-154996	nominalized
-154999	nominalized
-155021	nominalized
-155028	nominalized
-nominalized
-155036	nominalized
-155038	nominalized
-155048	nominalized
-155050	nominalized
-155055	nominalized
-155067	nominalized
-155084	nominalized
-155093	nominalized
-155110	nominalized
-155122	nominalized
-155128	nominalized
-155136	nominalized
-155138	nominalized
-155150	nominalized
-nominalized
-155169	nominalized
-155174	nominalized
-155176	nominalized
+154895	nominalized
+154919	nominalized
+155008	nominalized
+155033	nominalized
+155043	nominalized
+155059	nominalized
+155065	nominalized
+155160	nominalized
+155172	nominalized
 155178	nominalized
+155185	nominalized
 nominalized
-155189	nominalized
-155194	nominalized
+155195	nominalized
+155201	nominalized
+155207	nominalized
+155253	nominalized
+155295	nominalized
+155298	nominalized
+155339	nominalized
 nominalized
 nominalized
-155220	nominalized
-155289	nominalized
-155293	nominalized
-155348	nominalized
-155370	nominalized
-155372	nominalized
+nominalized
+155344	nominalized
+155346	nominalized
+155369	nominalized
+155374	nominalized
+155377	nominalized
+nominalized
+nominalized
 155383	nominalized
 155390	nominalized
-155400	nominalized
-155403	nominalized
-155415	nominalized
-155424	nominalized
-155428	nominalized
-155433	nominalized
-155440	nominalized
-155455	nominalized
-155457	nominalized
+155405	nominalized
+155426	nominalized
+155473	nominalized
+155486	nominalized
+155501	nominalized
+155507	nominalized
+155509	nominalized
 nominalized
-155460	nominalized
-nominalized
-155470	nominalized
-155496	nominalized
-155561	nominalized
-155568	nominalized
-155604	nominalized
-155612	nominalized
-155626	nominalized
-155630	nominalized
-155648	nominalized
-155655	nominalized
-155659	nominalized
-155670	nominalized
-155738	nominalized
-155742	nominalized
-155776	nominalized
-155800	nominalized
+155517	nominalized
 nominalized
 nominalized
-155807	nominalized
-155819	nominalized
-155834	nominalized
-155836	nominalized
-155852	nominalized
-155859	nominalized
-155862	nominalized
-155865	nominalized
 nominalized
-155878	nominalized
-155883	nominalized
-155887	nominalized
-155898	nominalized
-155908	nominalized
-155915	nominalized
+155523	nominalized
+nominalized
+nominalized
+155547	nominalized
+nominalized
+155574	nominalized
+155587	nominalized
+155601	nominalized
+155625	nominalized
+155641	nominalized
+155645	nominalized
+155664	nominalized
+nominalized
+155667	nominalized
+155695	nominalized
+nominalized
+nominalized
+nominalized
+nominalized
+155717	nominalized
+155720	nominalized
+155726	nominalized
+155743	nominalized
+155748	nominalized
+nominalized
+155753	nominalized
+155761	nominalized
+155782	nominalized
+155786	nominalized
+155806	nominalized
+155845	nominalized
+155877	nominalized
+155897	nominalized
+155914	nominalized
 155920	nominalized
-155926	nominalized
-155965	nominalized
-155989	nominalized
-156010	nominalized
-156019	nominalized
-nominalized
-nominalized
-nominalized
-156024	nominalized
-nominalized
-nominalized
-156028	nominalized
+155939	nominalized
+155950	nominalized
+155955	nominalized
+155987	nominalized
+155994	nominalized
+155997	nominalized
+156004	nominalized
+156006	nominalized
+156009	nominalized
+156018	nominalized
+156023	nominalized
 156032	nominalized
-156049	nominalized
+156036	nominalized
 nominalized
+156041	nominalized
 156055	nominalized
-156060	nominalized
-156095	nominalized
-156106	nominalized
-156146	nominalized
-156174	nominalized
-156197	nominalized
+156059	nominalized
 nominalized
-156204	nominalized
-156213	nominalized
 nominalized
-156223	nominalized
-156245	nominalized
-156264	nominalized
-156268	nominalized
-156272	nominalized
-156274	nominalized
+156063	nominalized
+156078	nominalized
+156102	nominalized
+156107	nominalized
+156147	nominalized
+156153	nominalized
+156171	nominalized
+156190	nominalized
+156286	nominalized
 156289	nominalized
-156347	nominalized
 nominalized
+156292	nominalized
+156295	nominalized
+156299	nominalized
+156313	nominalized
+156333	nominalized
+156361	nominalized
+156399	nominalized
+156455	nominalized
+156462	nominalized
 nominalized
-156357	nominalized
-nominalized
-156368	nominalized
-156374	nominalized
-156421	nominalized
-156468	nominalized
 156470	nominalized
-nominalized
-156473	nominalized
-156475	nominalized
-156477	nominalized
 156482	nominalized
-156492	nominalized
-156495	nominalized
-156499	nominalized
+156485	nominalized
+156493	nominalized
 nominalized
-156535	nominalized
-156539	nominalized
-156563	nominalized
-156580	nominalized
-156598	nominalized
-156602	nominalized
-156622	nominalized
-156626	nominalized
-156630	nominalized
-156649	nominalized
-156675	nominalized
-156701	nominalized
-156715	nominalized
-156719	nominalized
+nominalized
+nominalized
+156526	nominalized
+156556	nominalized
+156561	nominalized
+156589	nominalized
+156591	nominalized
+156594	nominalized
+156597	nominalized
+156608	nominalized
+156619	nominalized
+156674	nominalized
+156682	nominalized
+156692	nominalized
+156699	nominalized
+156704	nominalized
+156710	nominalized
+nominalized
+156717	nominalized
+156728	nominalized
 156731	nominalized
-156753	nominalized
+nominalized
+156750	nominalized
+156752	nominalized
 156759	nominalized
-156762	nominalized
-156767	nominalized
+156780	nominalized
+156785	nominalized
+156796	nominalized
+156806	nominalized
+156811	nominalized
+156815	nominalized
+156819	nominalized
 156824	nominalized
-156849	nominalized
+156827	nominalized
+156832	nominalized
+156835	nominalized
+156840	nominalized
+156848	nominalized
+156856	nominalized
+156858	nominalized
+156863	nominalized
+156866	nominalized
+156870	nominalized
 156874	nominalized
-156879	nominalized
-156897	nominalized
-156916	nominalized
-156964	nominalized
-156968	nominalized
-156982	nominalized
-156995	nominalized
-157001	nominalized
-157006	nominalized
+156878	nominalized
+156892	nominalized
+156933	nominalized
+156938	nominalized
+156945	nominalized
+156947	nominalized
 nominalized
-157010	nominalized
-nominalized
-nominalized
-nominalized
-nominalized
-157016	nominalized
-nominalized
+157011	nominalized
 157023	nominalized
-157033	nominalized
-157035	nominalized
-157050	nominalized
-nominalized
-nominalized
-157056	nominalized
-157059	nominalized
-nominalized
-157064	nominalized
-157081	nominalized
-nominalized
-157104	nominalized
-157106	nominalized
-157118	nominalized
-157136	nominalized
-157147	nominalized
-nominalized
-157151	nominalized
-157177	nominalized
-157237	nominalized
-157242	nominalized
-157244	nominalized
-157262	nominalized
+157040	nominalized
+157095	nominalized
+157116	nominalized
+157125	nominalized
+157210	nominalized
+157218	nominalized
+157250	nominalized
+157256	nominalized
 157272	nominalized
 nominalized
-157307	nominalized
-nominalized
-157320	nominalized
-157322	nominalized
-157325	nominalized
-nominalized
-157332	nominalized
+157304	nominalized
+157306	nominalized
+157314	nominalized
+157319	nominalized
+157333	nominalized
+157335	nominalized
+157337	nominalized
 157355	nominalized
 157358	nominalized
-157368	nominalized
-157377	nominalized
-157382	nominalized
-157384	nominalized
+157360	nominalized
+157362	nominalized
+157398	nominalized
+157414	nominalized
 nominalized
-157388	nominalized
-157402	nominalized
-157484	nominalized
-157501	nominalized
-157504	nominalized
+157448	nominalized
+157453	nominalized
+157456	nominalized
+157462	nominalized
+157466	nominalized
 nominalized
+nominalized
+157470	nominalized
+157472	nominalized
+157480	nominalized
+157488	nominalized
+157490	nominalized
+157502	nominalized
 157512	nominalized
-157535	nominalized
-157546	nominalized
+157515	nominalized
+157523	nominalized
+157533	nominalized
+157566	nominalized
+157570	nominalized
 nominalized
-157555	nominalized
-157565	nominalized
-157599	nominalized
-nominalized
-157622	nominalized
-157624	nominalized
-nominalized
-157634	nominalized
+157575	nominalized
+157579	nominalized
+157589	nominalized
+157593	nominalized
+157600	nominalized
+157605	nominalized
+157611	nominalized
+157615	nominalized
+157625	nominalized
+157630	nominalized
 157639	nominalized
-157648	nominalized
+157652	nominalized
+157655	nominalized
 nominalized
-nominalized
-157662	nominalized
-nominalized
-nominalized
-157678	nominalized
-157691	nominalized
-nominalized
-nominalized
-nominalized
-nominalized
-nominalized
-157758	nominalized
-157762	nominalized
-157788	nominalized
-157793	nominalized
-157796	nominalized
+157658	nominalized
+157668	nominalized
+157683	nominalized
+157687	nominalized
+157722	nominalized
+157774	nominalized
+157778	nominalized
+157780	nominalized
+157785	nominalized
+157790	nominalized
 157802	nominalized
-157807	nominalized
-157811	nominalized
-157827	nominalized
-157832	nominalized
-157846	nominalized
-157872	nominalized
-157888	nominalized
-157908	nominalized
-157914	nominalized
-157919	nominalized
-157923	nominalized
-157927	nominalized
+157812	nominalized
+157830	nominalized
+157839	nominalized
+157849	nominalized
+nominalized
+157861	nominalized
+157864	nominalized
+nominalized
+157881	nominalized
+157884	nominalized
+157897	nominalized
+157932	nominalized
+157942	nominalized
+157957	nominalized
+157959	nominalized
 157961	nominalized
-157963	nominalized
+157964	nominalized
+157972	nominalized
 157975	nominalized
-158031	nominalized
-158051	nominalized
-158074	nominalized
+157977	nominalized
+157998	nominalized
+158001	nominalized
+158006	nominalized
+158035	nominalized
+nominalized
+158047	nominalized
+158053	nominalized
+158061	nominalized
+158067	nominalized
+158082	nominalized
 nominalized
 nominalized
-158098	nominalized
-158118	nominalized
-158130	nominalized
-158145	nominalized
-158167	nominalized
-158177	nominalized
-158197	nominalized
-158202	nominalized
-158204	nominalized
-158207	nominalized
-158210	nominalized
-158220	nominalized
-158232	nominalized
-158237	nominalized
-158245	nominalized
-158275	nominalized
-158383	nominalized
-158412	nominalized
-158421	nominalized
-158440	nominalized
-158446	nominalized
-158560	nominalized
-158575	nominalized
-158583	nominalized
-158590	nominalized
+158100	nominalized
+158108	nominalized
+158152	nominalized
 nominalized
-158602	nominalized
-158609	nominalized
-158615	nominalized
-158667	nominalized
-158717	nominalized
-158720	nominalized
-158771	nominalized
 nominalized
-158774	nominalized
-158776	nominalized
+158157	nominalized
+158172	nominalized
+158179	nominalized
+158208	nominalized
+158225	nominalized
+158262	nominalized
+158268	nominalized
+158272	nominalized
+158294	nominalized
+nominalized
+158328	nominalized
+158332	nominalized
+158337	nominalized
+158339	nominalized
+158349	nominalized
+158354	nominalized
+158365	nominalized
+nominalized
+nominalized
+nominalized
+158370	nominalized
+nominalized
+158386	nominalized
+158391	nominalized
+158395	nominalized
+158403	nominalized
+158414	nominalized
+158417	nominalized
+158433	nominalized
+158441	nominalized
+158470	nominalized
+nominalized
+nominalized
+158492	nominalized
+158496	nominalized
+158503	nominalized
+158509	nominalized
+158512	nominalized
+158517	nominalized
+nominalized
+158520	nominalized
+158526	nominalized
+158531	nominalized
+nominalized
+158539	nominalized
+158543	nominalized
+158566	nominalized
+158569	nominalized
+nominalized
+158581	nominalized
+158589	nominalized
+158591	nominalized
+158600	nominalized
+158604	nominalized
+158610	nominalized
+158620	nominalized
+158623	nominalized
+nominalized
+158635	nominalized
+158637	nominalized
+nominalized
+nominalized
+nominalized
+nominalized
+158643	nominalized
+nominalized
+nominalized
+158670	nominalized
+nominalized
+158684	nominalized
+nominalized
+158696	nominalized
+158698	nominalized
+158712	nominalized
+158716	nominalized
+158718	nominalized
+158725	nominalized
+158732	nominalized
+158752	nominalized
+nominalized
 158778	nominalized
-158780	nominalized
-158807	nominalized
-158812	nominalized
+158796	nominalized
+158802	nominalized
+158805	nominalized
+158811	nominalized
 158815	nominalized
+158818	nominalized
+158827	nominalized
+158858	nominalized
+158863	nominalized
+158866	nominalized
+158895	nominalized
+158906	nominalized
+158914	nominalized
+158916	nominalized
+158929	nominalized
 nominalized
+158933	nominalized
+158958	nominalized
+158967	nominalized
 nominalized
-158822	nominalized
-158833	nominalized
-158851	nominalized
-158875	nominalized
-158932	nominalized
-158947	nominalized
-158964	nominalized
-158971	nominalized
-158974	nominalized
+158985	nominalized
+158989	nominalized
+158995	nominalized
+159009	nominalized
+159027	nominalized
+159058	nominalized
+159063	nominalized
+159074	nominalized
+159085	nominalized
+159087	nominalized
+159094	nominalized
+159099	nominalized
+159116	nominalized
+159130	nominalized
 nominalized
-158982	nominalized
-nominalized
-nominalized
-nominalized
-158988	nominalized
-nominalized
-nominalized
-159016	nominalized
-nominalized
-159047	nominalized
-159062	nominalized
-159078	nominalized
-159105	nominalized
-159125	nominalized
-159129	nominalized
-159150	nominalized
-nominalized
-159153	nominalized
-159186	nominalized
-nominalized
-nominalized
-nominalized
-nominalized
-159211	nominalized
-159215	nominalized
-159221	nominalized
+159136	nominalized
+159139	nominalized
+159151	nominalized
+159157	nominalized
+159162	nominalized
+159174	nominalized
+159185	nominalized
+159187	nominalized
+159189	nominalized
+159194	nominalized
+159204	nominalized
+159212	nominalized
 159239	nominalized
-159245	nominalized
 nominalized
-159251	nominalized
-159260	nominalized
-159285	nominalized
-159290	nominalized
-159312	nominalized
-159353	nominalized
-159386	nominalized
-159406	nominalized
-159425	nominalized
-159432	nominalized
-159453	nominalized
-159466	nominalized
-159472	nominalized
+159257	nominalized
+159259	nominalized
+159289	nominalized
+159307	nominalized
+159309	nominalized
+159315	nominalized
+159323	nominalized
+159325	nominalized
+159329	nominalized
+159333	nominalized
+159377	nominalized
+159380	nominalized
+159391	nominalized
+159426	nominalized
+159428	nominalized
+nominalized
+159443	nominalized
+159468	nominalized
+159480	nominalized
+159484	nominalized
+159493	nominalized
+nominalized
+nominalized
+159499	nominalized
 159505	nominalized
-159513	nominalized
-159516	nominalized
-159525	nominalized
-159527	nominalized
-159530	nominalized
-159540	nominalized
-159546	nominalized
-159556	nominalized
+159509	nominalized
+159512	nominalized
+nominalized
+159522	nominalized
+159534	nominalized
+159539	nominalized
+159553	nominalized
 159560	nominalized
-nominalized
-159567	nominalized
+159572	nominalized
+159578	nominalized
 159585	nominalized
-159589	nominalized
-nominalized
-nominalized
+159592	nominalized
 159594	nominalized
-159611	nominalized
-159640	nominalized
+159599	nominalized
+nominalized
+159620	nominalized
+159631	nominalized
+159639	nominalized
+159643	nominalized
 159646	nominalized
-159692	nominalized
-159698	nominalized
-159720	nominalized
-159745	nominalized
-159855	nominalized
-159857	nominalized
-159859	nominalized
-159861	nominalized
-159864	nominalized
-159868	nominalized
-159886	nominalized
-159910	nominalized
-159942	nominalized
-159986	nominalized
+159654	nominalized
+159673	nominalized
+159676	nominalized
+159678	nominalized
+nominalized
+nominalized
+159685	nominalized
+159690	nominalized
+159694	nominalized
+159751	nominalized
+159822	nominalized
+159832	nominalized
+159837	nominalized
+159839	nominalized
+159878	nominalized
+nominalized
+159912	nominalized
+nominalized
+159935	nominalized
+159949	nominalized
+159956	nominalized
+159970	nominalized
+159977	nominalized
+159991	nominalized
+159995	nominalized
+159998	nominalized
+nominalized
+160001	nominalized
+160022	nominalized
+160051	nominalized
 160054	nominalized
-160062	nominalized
-nominalized
-160070	nominalized
-160085	nominalized
-160089	nominalized
-160098	nominalized
-160100	nominalized
-nominalized
-160103	nominalized
-160138	nominalized
-160178	nominalized
-160184	nominalized
-160217	nominalized
-160219	nominalized
-160223	nominalized
+160087	nominalized
+160153	nominalized
+160188	nominalized
+160195	nominalized
+160198	nominalized
 160226	nominalized
-160238	nominalized
-160255	nominalized
-160317	nominalized
-160327	nominalized
-160339	nominalized
-160347	nominalized
-160354	nominalized
-160361	nominalized
+160235	nominalized
+160256	nominalized
 nominalized
-160369	nominalized
-160382	nominalized
-160386	nominalized
+160265	nominalized
 nominalized
-160408	nominalized
-160411	nominalized
-160419	nominalized
-160441	nominalized
+160286	nominalized
+160294	nominalized
+160316	nominalized
+160332	nominalized
+nominalized
+160336	nominalized
+160349	nominalized
+160399	nominalized
+160422	nominalized
 160446	nominalized
-160458	nominalized
-160471	nominalized
-160476	nominalized
-160483	nominalized
-160487	nominalized
-160493	nominalized
-160497	nominalized
-160502	nominalized
-160505	nominalized
-160511	nominalized
-160520	nominalized
-160530	nominalized
-160532	nominalized
-160537	nominalized
-160540	nominalized
+160457	nominalized
+nominalized
+160522	nominalized
+160524	nominalized
 160544	nominalized
-160548	nominalized
-160552	nominalized
-160571	nominalized
-160618	nominalized
-160624	nominalized
-160631	nominalized
-160634	nominalized
-160636	nominalized
-160705	nominalized
-160717	nominalized
-160735	nominalized
-160800	nominalized
-160825	nominalized
-160834	nominalized
-160929	nominalized
+160563	nominalized
+160584	nominalized
+160606	nominalized
+nominalized
+160645	nominalized
+nominalized
+160648	nominalized
+160654	nominalized
+160692	nominalized
+160756	nominalized
+160790	nominalized
+160803	nominalized
+160807	nominalized
+160810	nominalized
+160831	nominalized
+160840	nominalized
+160865	nominalized
+160873	nominalized
+nominalized
+nominalized
+nominalized
+160908	nominalized
+nominalized
+nominalized
+160912	nominalized
+nominalized
 160939	nominalized
-160977	nominalized
-160983	nominalized
-161001	nominalized
-161003	nominalized
-161040	nominalized
-161043	nominalized
-161052	nominalized
-161059	nominalized
-161077	nominalized
-161081	nominalized
-161084	nominalized
+160941	nominalized
+160969	nominalized
+160989	nominalized
+160991	nominalized
+nominalized
+161008	nominalized
+161037	nominalized
+161042	nominalized
+nominalized
+nominalized
+161074	nominalized
+161085	nominalized
+nominalized
+161091	nominalized
+161096	nominalized
+161100	nominalized
 161106	nominalized
-161111	nominalized
-161113	nominalized
-161115	nominalized
-161155	nominalized
-161176	nominalized
-nominalized
-161213	nominalized
+161126	nominalized
+161185	nominalized
 161218	nominalized
-161221	nominalized
-161229	nominalized
-161233	nominalized
-161236	nominalized
 nominalized
-161241	nominalized
-161245	nominalized
-161255	nominalized
-161266	nominalized
+nominalized
+161232	nominalized
+161238	nominalized
+161250	nominalized
 161269	nominalized
-161283	nominalized
-161296	nominalized
-161299	nominalized
-161309	nominalized
-161320	nominalized
-161360	nominalized
-161365	nominalized
-nominalized
-161370	nominalized
+161273	nominalized
+161291	nominalized
+161307	nominalized
+161329	nominalized
+161344	nominalized
 161375	nominalized
-161386	nominalized
-161391	nominalized
+161387	nominalized
 161398	nominalized
+161400	nominalized
 161404	nominalized
-161413	nominalized
-161420	nominalized
-161431	nominalized
-161436	nominalized
-161446	nominalized
+161409	nominalized
+161452	nominalized
 161461	nominalized
-161465	nominalized
+161483	nominalized
+161489	nominalized
 nominalized
-161468	nominalized
-161481	nominalized
 161498	nominalized
-161503	nominalized
-161546	nominalized
-161605	nominalized
-161609	nominalized
-161611	nominalized
-161618	nominalized
-161623	nominalized
-161636	nominalized
-161646	nominalized
-161668	nominalized
-161680	nominalized
-161692	nominalized
-161694	nominalized
-161707	nominalized
-161712	nominalized
-nominalized
-161736	nominalized
+161509	nominalized
+161524	nominalized
+161543	nominalized
+161554	nominalized
+161566	nominalized
+161589	nominalized
+161597	nominalized
+161607	nominalized
+161645	nominalized
+161649	nominalized
+161677	nominalized
+161708	nominalized
+161722	nominalized
 161739	nominalized
-161755	nominalized
+161781	nominalized
+161785	nominalized
+161789	nominalized
+161791	nominalized
 161796	nominalized
-161807	nominalized
-161826	nominalized
-161829	nominalized
-161831	nominalized
+161811	nominalized
+161816	nominalized
+161819	nominalized
+nominalized
+161825	nominalized
 161835	nominalized
-161848	nominalized
-161851	nominalized
-161854	nominalized
-161878	nominalized
-161882	nominalized
-161888	nominalized
-161923	nominalized
-161925	nominalized
-161939	nominalized
-161948	nominalized
-161959	nominalized
+161872	nominalized
+161881	nominalized
+nominalized
+nominalized
+161901	nominalized
+161913	nominalized
+161953	nominalized
 161967	nominalized
-161987	nominalized
+161970	nominalized
+161983	nominalized
+nominalized
+161989	nominalized
+161991	nominalized
+162007	nominalized
+162014	nominalized
+162022	nominalized
+nominalized
+162035	nominalized
+nominalized
+162041	nominalized
+162049	nominalized
+162080	nominalized
+162100	nominalized
+162114	nominalized
+162138	nominalized
+162141	nominalized
+162175	nominalized
+162183	nominalized
+nominalized
+162203	nominalized
 nominalized
 nominalized
-162010	nominalized
-162019	nominalized
-162071	nominalized
-162073	nominalized
-nominalized
-162077	nominalized
-162097	nominalized
-162106	nominalized
-162144	nominalized
-162166	nominalized
 162213	nominalized
-162221	nominalized
-162226	nominalized
-162251	nominalized
-162253	nominalized
-162293	nominalized
-162297	nominalized
+nominalized
+nominalized
+162230	nominalized
+nominalized
+162259	nominalized
+162264	nominalized
+162268	nominalized
+162273	nominalized
+162296	nominalized
+162298	nominalized
+nominalized
+nominalized
 162303	nominalized
-162306	nominalized
-162318	nominalized
-162324	nominalized
-162337	nominalized
+162308	nominalized
+nominalized
+162313	nominalized
+162366	nominalized
+162371	nominalized
+162375	nominalized
+162391	nominalized
+162416	nominalized
 nominalized
 nominalized
+162453	nominalized
+162461	nominalized
 nominalized
-162342	nominalized
-nominalized
-162361	nominalized
-162368	nominalized
-162372	nominalized
-162383	nominalized
-162395	nominalized
-162398	nominalized
-162419	nominalized
-162428	nominalized
-162462	nominalized
+162474	nominalized
 nominalized
 nominalized
-162487	nominalized
-162492	nominalized
-162499	nominalized
-162505	nominalized
+162496	nominalized
 162509	nominalized
-162514	nominalized
+162519	nominalized
+162523	nominalized
+162534	nominalized
+162539	nominalized
 nominalized
-162517	nominalized
-162524	nominalized
-162529	nominalized
+162555	nominalized
+162578	nominalized
+162629	nominalized
 nominalized
-162538	nominalized
-162543	nominalized
-162569	nominalized
-162572	nominalized
-162574	nominalized
-162586	nominalized
-162596	nominalized
-162599	nominalized
-162611	nominalized
-162615	nominalized
-162622	nominalized
-162633	nominalized
-162637	nominalized
+162634	nominalized
+162641	nominalized
 nominalized
-162653	nominalized
-162655	nominalized
+162657	nominalized
+162671	nominalized
+162728	nominalized
+162808	nominalized
+nominalized
+162815	nominalized
+162819	nominalized
+162824	nominalized
+162826	nominalized
+162828	nominalized
+162835	nominalized
+nominalized
+162838	nominalized
 nominalized
 nominalized
+162853	nominalized
 nominalized
-162660	nominalized
-162662	nominalized
-162664	nominalized
-nominalized
-162696	nominalized
-nominalized
-162711	nominalized
-nominalized
-162723	nominalized
-162725	nominalized
-162740	nominalized
-162745	nominalized
-162747	nominalized
-162757	nominalized
-162766	nominalized
-162794	nominalized
-nominalized
-162822	nominalized
-162841	nominalized
-162848	nominalized
-162851	nominalized
-162858	nominalized
-162862	nominalized
-162865	nominalized
-162876	nominalized
-162911	nominalized
-162917	nominalized
-162921	nominalized
+162870	nominalized
+162878	nominalized
+162922	nominalized
+162937	nominalized
 162959	nominalized
-162971	nominalized
-162980	nominalized
-162983	nominalized
-163000	nominalized
+162962	nominalized
+162964	nominalized
+162981	nominalized
 nominalized
-163007	nominalized
-163038	nominalized
-163046	nominalized
+162985	nominalized
 nominalized
-163068	nominalized
-163073	nominalized
+162991	nominalized
+163005	nominalized
+163016	nominalized
+163042	nominalized
+163044	nominalized
+163058	nominalized
+nominalized
+163072	nominalized
 163079	nominalized
-163096	nominalized
-163117	nominalized
-163153	nominalized
-163160	nominalized
-163173	nominalized
-163183	nominalized
-163186	nominalized
-163194	nominalized
+163119	nominalized
+163125	nominalized
+163128	nominalized
+163132	nominalized
+163145	nominalized
+163158	nominalized
+nominalized
+163196	nominalized
 163199	nominalized
-163220	nominalized
-163236	nominalized
-nominalized
-163243	nominalized
-163246	nominalized
-163260	nominalized
-163268	nominalized
-163274	nominalized
-163290	nominalized
-163302	nominalized
-163306	nominalized
-163309	nominalized
-163314	nominalized
-163326	nominalized
-163334	nominalized
-163366	nominalized
-163368	nominalized
-163391	nominalized
-163393	nominalized
-163432	nominalized
-163454	nominalized
-163456	nominalized
-163464	nominalized
-163473	nominalized
-163475	nominalized
-163480	nominalized
-163485	nominalized
-163538	nominalized
-163543	nominalized
-163557	nominalized
-163599	nominalized
-163603	nominalized
-nominalized
-163621	nominalized
-163650	nominalized
-163663	nominalized
-163667	nominalized
-163676	nominalized
+163245	nominalized
+163353	nominalized
+163364	nominalized
+163370	nominalized
+163402	nominalized
 nominalized
 nominalized
-163682	nominalized
-163690	nominalized
-163694	nominalized
-163696	nominalized
+163433	nominalized
 nominalized
-163707	nominalized
-163721	nominalized
-163729	nominalized
-163747	nominalized
-163754	nominalized
+163470	nominalized
+163518	nominalized
+163533	nominalized
+163550	nominalized
+163567	nominalized
+163576	nominalized
+163579	nominalized
+163582	nominalized
+163598	nominalized
+163604	nominalized
+163632	nominalized
+nominalized
+163639	nominalized
+163648	nominalized
+163665	nominalized
+163675	nominalized
+163699	nominalized
+163705	nominalized
+nominalized
+163730	nominalized
 163766	nominalized
-163772	nominalized
-163781	nominalized
-163791	nominalized
-163793	nominalized
-163798	nominalized
-163800	nominalized
-163823	nominalized
-163836	nominalized
-163844	nominalized
-163848	nominalized
-163852	nominalized
-163861	nominalized
-163880	nominalized
-163884	nominalized
-163886	nominalized
+163814	nominalized
+163821	nominalized
+163838	nominalized
+163878	nominalized
+163907	nominalized
+163931	nominalized
+163983	nominalized
+163993	nominalized
+164004	nominalized
 nominalized
-163889	nominalized
-163895	nominalized
-163901	nominalized
-163905	nominalized
-163972	nominalized
+nominalized
+nominalized
+nominalized
+164014	nominalized
+164045	nominalized
+164048	nominalized
+164055	nominalized
 164057	nominalized
+164060	nominalized
+164064	nominalized
+nominalized
 164069	nominalized
-164073	nominalized
-164075	nominalized
-164123	nominalized
+164071	nominalized
 nominalized
-164161	nominalized
+164074	nominalized
+164084	nominalized
+164100	nominalized
+164102	nominalized
+164125	nominalized
+164132	nominalized
 nominalized
+164137	nominalized
+nominalized
+164165	nominalized
+nominalized
+164168	nominalized
+164170	nominalized
 164186	nominalized
-164205	nominalized
-164214	nominalized
-164231	nominalized
-164239	nominalized
-164256	nominalized
-164260	nominalized
-164264	nominalized
+164189	nominalized
+164196	nominalized
+164202	nominalized
 nominalized
-164267	nominalized
+nominalized
+164207	nominalized
+164211	nominalized
+nominalized
+164219	nominalized
+164222	nominalized
+164233	nominalized
+164240	nominalized
+164274	nominalized
+164277	nominalized
+164283	nominalized
 164291	nominalized
-164325	nominalized
-164329	nominalized
+164317	nominalized
+164362	nominalized
+nominalized
 164368	nominalized
-164442	nominalized
+nominalized
+164373	nominalized
+164375	nominalized
+164379	nominalized
+164382	nominalized
+164434	nominalized
+164452	nominalized
+164472	nominalized
+164474	nominalized
+nominalized
 164486	nominalized
-164494	nominalized
-164497	nominalized
+164501	nominalized
+164522	nominalized
 164529	nominalized
-164539	nominalized
-164565	nominalized
-164567	nominalized
-164577	nominalized
+164531	nominalized
+164533	nominalized
+164535	nominalized
 nominalized
-164602	nominalized
+164556	nominalized
+164586	nominalized
+164591	nominalized
+164597	nominalized
 164610	nominalized
-164637	nominalized
-164655	nominalized
+164614	nominalized
 nominalized
-164659	nominalized
-164676	nominalized
-164735	nominalized
-164762	nominalized
-164792	nominalized
-164804	nominalized
 nominalized
-164880	nominalized
+164630	nominalized
+164633	nominalized
+164646	nominalized
+nominalized
+164652	nominalized
+164658	nominalized
+nominalized
+nominalized
+nominalized
+nominalized
+164670	nominalized
+nominalized
+164674	nominalized
+nominalized
+nominalized
+164678	nominalized
+164680	nominalized
+164683	nominalized
+164691	nominalized
+164699	nominalized
+164712	nominalized
+164717	nominalized
+164721	nominalized
+164726	nominalized
+164744	nominalized
+nominalized
+nominalized
+164749	nominalized
+164751	nominalized
+164757	nominalized
+nominalized
+nominalized
+164779	nominalized
+164793	nominalized
+164813	nominalized
+164820	nominalized
+nominalized
+164828	nominalized
+164832	nominalized
+164835	nominalized
+164841	nominalized
+164851	nominalized
+164866	nominalized
+164871	nominalized
+nominalized
 164882	nominalized
+164891	nominalized
+164899	nominalized
 164905	nominalized
-164927	nominalized
-164952	nominalized
-164976	nominalized
+164914	nominalized
 nominalized
-165019	nominalized
 nominalized
+164920	nominalized
+164930	nominalized
+164933	nominalized
+164941	nominalized
+164973	nominalized
+164986	nominalized
+165001	nominalized
+165005	nominalized
 165023	nominalized
-165030	nominalized
-165078	nominalized
-165156	nominalized
-165196	nominalized
-165211	nominalized
-165215	nominalized
-165220	nominalized
-165242	nominalized
+165053	nominalized
+nominalized
+165060	nominalized
+165089	nominalized
+165115	nominalized
+nominalized
+165145	nominalized
+165149	nominalized
+165154	nominalized
+165161	nominalized
+nominalized
+165164	nominalized
+165174	nominalized
+165187	nominalized
+nominalized
+nominalized
+165191	nominalized
+nominalized
+nominalized
+165201	nominalized
+nominalized
 165251	nominalized
-165284	nominalized
-165292	nominalized
+165256	nominalized
+165258	nominalized
+165273	nominalized
+165290	nominalized
+165300	nominalized
+165329	nominalized
+165334	nominalized
+165358	nominalized
+nominalized
+165364	nominalized
+nominalized
+165384	nominalized
+165386	nominalized
+nominalized
+nominalized
+165415	nominalized
+165445	nominalized
+165449	nominalized
+165452	nominalized
+nominalized
+165457	nominalized
+165459	nominalized
 nominalized
 nominalized
 nominalized
-165331	nominalized
-nominalized
-nominalized
-165337	nominalized
-nominalized
-165367	nominalized
-165370	nominalized
-165404	nominalized
-165428	nominalized
-165430	nominalized
-165432	nominalized
-165451	nominalized
-165483	nominalized
+165465	nominalized
+165480	nominalized
 165488	nominalized
+165499	nominalized
+165511	nominalized
+165518	nominalized
+165523	nominalized
+165545	nominalized
 nominalized
-nominalized
-165526	nominalized
-165539	nominalized
-nominalized
-165546	nominalized
-165554	nominalized
 165558	nominalized
-165564	nominalized
-165589	nominalized
-165650	nominalized
-165686	nominalized
+nominalized
+165566	nominalized
+165580	nominalized
+165582	nominalized
+165584	nominalized
+nominalized
+165587	nominalized
+nominalized
+165596	nominalized
+165599	nominalized
+nominalized
+165622	nominalized
+165630	nominalized
+165632	nominalized
+nominalized
+165635	nominalized
 nominalized
 nominalized
+165667	nominalized
+nominalized
+nominalized
+165671	nominalized
+nominalized
+165685	nominalized
 165702	nominalized
-165708	nominalized
-165723	nominalized
+165740	nominalized
 165748	nominalized
-165753	nominalized
-165772	nominalized
-165787	nominalized
+165750	nominalized
+165754	nominalized
+165759	nominalized
+165763	nominalized
+165769	nominalized
+165775	nominalized
+165779	nominalized
+165783	nominalized
 165810	nominalized
 165828	nominalized
-165861	nominalized
-165874	nominalized
-165887	nominalized
-165890	nominalized
-165894	nominalized
-165900	nominalized
-165957	nominalized
-165967	nominalized
-165994	nominalized
-166001	nominalized
-166003	nominalized
+nominalized
+nominalized
+165858	nominalized
+165873	nominalized
+165880	nominalized
+nominalized
+nominalized
+165903	nominalized
+165917	nominalized
+nominalized
+165926	nominalized
+165978	nominalized
+165988	nominalized
+165995	nominalized
+nominalized
 166013	nominalized
-166028	nominalized
-166046	nominalized
-166070	nominalized
-166085	nominalized
-166098	nominalized
-166127	nominalized
-166138	nominalized
-166149	nominalized
-166195	nominalized
-166199	nominalized
-166231	nominalized
-166267	nominalized
-166280	nominalized
-166302	nominalized
-166354	nominalized
+166020	nominalized
+nominalized
+166025	nominalized
+166045	nominalized
+166059	nominalized
+166062	nominalized
+166069	nominalized
+166078	nominalized
+nominalized
+166084	nominalized
+166091	nominalized
+166097	nominalized
+nominalized
+166108	nominalized
+166110	nominalized
+nominalized
+166136	nominalized
+166142	nominalized
+166144	nominalized
+166155	nominalized
+166223	nominalized
+166226	nominalized
+166229	nominalized
+nominalized
+nominalized
+166247	nominalized
+166251	nominalized
+nominalized
+166256	nominalized
+166259	nominalized
+166276	nominalized
+nominalized
+166285	nominalized
+166309	nominalized
+166316	nominalized
+166319	nominalized
+166321	nominalized
+166323	nominalized
+nominalized
+166326	nominalized
+166346	nominalized
+166348	nominalized
+166353	nominalized
 166358	nominalized
-166362	nominalized
-166364	nominalized
-166370	nominalized
-166390	nominalized
-166395	nominalized
-166397	nominalized
-166399	nominalized
-166404	nominalized
-166415	nominalized
-166462	nominalized
-166473	nominalized
+166383	nominalized
+166401	nominalized
 nominalized
+166412	nominalized
+166416	nominalized
+166424	nominalized
+166442	nominalized
+166444	nominalized
+166449	nominalized
+166451	nominalized
+166474	nominalized
+166492	nominalized
+166520	nominalized
+166531	nominalized
+166540	nominalized
+166545	nominalized
 nominalized
-166498	nominalized
-166511	nominalized
-166560	nominalized
-166576	nominalized
+166548	nominalized
+nominalized
+166551	nominalized
+nominalized
+166556	nominalized
+166561	nominalized
+166565	nominalized
+166568	nominalized
+166575	nominalized
+nominalized
 166579	nominalized
-166592	nominalized
+166587	nominalized
 nominalized
-166598	nominalized
+166593	nominalized
+166597	nominalized
 166600	nominalized
-166618	nominalized
-166627	nominalized
+166613	nominalized
+166615	nominalized
+166626	nominalized
 166636	nominalized
-nominalized
 166651	nominalized
 nominalized
-166657	nominalized
-166665	nominalized
-166699	nominalized
-166722	nominalized
-166736	nominalized
-166762	nominalized
-166765	nominalized
-166797	nominalized
-166806	nominalized
-166808	nominalized
-166829	nominalized
 nominalized
-166832	nominalized
-166839	nominalized
-166841	nominalized
+166675	nominalized
 nominalized
-166861	nominalized
+166683	nominalized
+166704	nominalized
+166706	nominalized
+166711	nominalized
+166745	nominalized
+166747	nominalized
+166764	nominalized
+166768	nominalized
+166772	nominalized
 nominalized
-166894	nominalized
-166899	nominalized
-166904	nominalized
-166910	nominalized
-166940	nominalized
-166942	nominalized
+166793	nominalized
+166804	nominalized
+166807	nominalized
+166815	nominalized
 nominalized
-166945	nominalized
-166948	nominalized
-166952	nominalized
-166955	nominalized
-166959	nominalized
-167021	nominalized
-167027	nominalized
-167032	nominalized
-167048	nominalized
-167071	nominalized
+166833	nominalized
+166883	nominalized
+166891	nominalized
 nominalized
+166911	nominalized
 nominalized
-167115	nominalized
-167123	nominalized
+166918	nominalized
+166979	nominalized
+166991	nominalized
+167004	nominalized
+167007	nominalized
+167012	nominalized
+167024	nominalized
+167045	nominalized
 nominalized
-167142	nominalized
-167144	nominalized
+167053	nominalized
+167085	nominalized
+167119	nominalized
+167141	nominalized
+167143	nominalized
+167154	nominalized
+167160	nominalized
+167165	nominalized
+167171	nominalized
+167181	nominalized
+167188	nominalized
 nominalized
-167168	nominalized
-167182	nominalized
-167194	nominalized
-167198	nominalized
-167212	nominalized
-167220	nominalized
-167222	nominalized
-167237	nominalized
+167192	nominalized
+167221	nominalized
+nominalized
+167231	nominalized
+nominalized
+167235	nominalized
+167252	nominalized
+167262	nominalized
 167264	nominalized
-167330	nominalized
+167269	nominalized
+167277	nominalized
+167284	nominalized
+167294	nominalized
+167302	nominalized
+167307	nominalized
+167322	nominalized
+167332	nominalized
+167339	nominalized
+167364	nominalized
+167366	nominalized
+167370	nominalized
+167377	nominalized
+167385	nominalized
+167396	nominalized
+167400	nominalized
+167417	nominalized
 nominalized
-167335	nominalized
-167344	nominalized
+167422	nominalized
 nominalized
-167365	nominalized
-167384	nominalized
-167450	nominalized
-167544	nominalized
+167437	nominalized
+167467	nominalized
+167472	nominalized
+167480	nominalized
 nominalized
-167554	nominalized
-167560	nominalized
-167566	nominalized
+167487	nominalized
+nominalized
+167527	nominalized
+167530	nominalized
+167534	nominalized
 167568	nominalized
-167571	nominalized
-167581	nominalized
 nominalized
-167584	nominalized
-nominalized
+167575	nominalized
+167582	nominalized
 167587	nominalized
-167603	nominalized
+167604	nominalized
+167608	nominalized
+167615	nominalized
+167617	nominalized
 nominalized
-167623	nominalized
-167635	nominalized
-167689	nominalized
-167707	nominalized
-167729	nominalized
-167732	nominalized
-167735	nominalized
-167755	nominalized
+167622	nominalized
+167625	nominalized
+167632	nominalized
+167636	nominalized
+167642	nominalized
+167644	nominalized
+167656	nominalized
+167660	nominalized
+167662	nominalized
+167667	nominalized
+167671	nominalized
+nominalized
+167676	nominalized
+nominalized
+167699	nominalized
+167710	nominalized
+167716	nominalized
+167722	nominalized
+167747	nominalized
+167749	nominalized
 167757	nominalized
-167761	nominalized
-167763	nominalized
-167770	nominalized
-167788	nominalized
-167801	nominalized
+167768	nominalized
+167813	nominalized
+167815	nominalized
+167820	nominalized
+167825	nominalized
+167828	nominalized
+nominalized
+nominalized
 167833	nominalized
-167835	nominalized
-167851	nominalized
-167853	nominalized
-167870	nominalized
-167877	nominalized
-167932	nominalized
-167938	nominalized
-167941	nominalized
-167945	nominalized
-167961	nominalized
-167978	nominalized
+167852	nominalized
 nominalized
-168021	nominalized
-168024	nominalized
-168081	nominalized
-168210	nominalized
-168223	nominalized
-168230	nominalized
-168267	nominalized
-168270	nominalized
+167886	nominalized
 nominalized
-168309	nominalized
+167901	nominalized
 nominalized
-168358	nominalized
-168413	nominalized
-168432	nominalized
-168450	nominalized
-168470	nominalized
-168481	nominalized
-168486	nominalized
-168490	nominalized
-168514	nominalized
+167948	nominalized
+168023	nominalized
+168027	nominalized
+168034	nominalized
+168041	nominalized
+168049	nominalized
+168071	nominalized
+nominalized
+168089	nominalized
+168121	nominalized
+168138	nominalized
+168142	nominalized
+168166	nominalized
+168169	nominalized
+168178	nominalized
+168194	nominalized
+168198	nominalized
+168203	nominalized
+168218	nominalized
+168252	nominalized
+168254	nominalized
+168269	nominalized
+168272	nominalized
+168279	nominalized
+nominalized
+nominalized
+168283	nominalized
+168288	nominalized
+168318	nominalized
+nominalized
+nominalized
+168339	nominalized
+168422	nominalized
+nominalized
+nominalized
+168446	nominalized
+168449	nominalized
+168457	nominalized
+nominalized
+168488	nominalized
 168521	nominalized
-168556	nominalized
-168558	nominalized
-168566	nominalized
-168576	nominalized
-168593	nominalized
+168528	nominalized
+168532	nominalized
+168540	nominalized
+168543	nominalized
+168546	nominalized
+168560	nominalized
+168565	nominalized
+168571	nominalized
+168579	nominalized
+168585	nominalized
 168604	nominalized
-168629	nominalized
-168635	nominalized
-168637	nominalized
-168672	nominalized
-168717	nominalized
-168781	nominalized
-168789	nominalized
-168811	nominalized
-168858	nominalized
-168892	nominalized
-168925	nominalized
-168977	nominalized
-168986	nominalized
-168997	nominalized
 nominalized
-169000	nominalized
+168610	nominalized
+168616	nominalized
+168619	nominalized
 nominalized
+168636	nominalized
+168644	nominalized
+168665	nominalized
+168696	nominalized
+168702	nominalized
+168704	nominalized
+168711	nominalized
+168729	nominalized
+168737	nominalized
+168755	nominalized
+168782	nominalized
+168786	nominalized
+168812	nominalized
+168833	nominalized
+168839	nominalized
+168845	nominalized
+168850	nominalized
+168859	nominalized
 nominalized
-169008	nominalized
-169044	nominalized
+168865	nominalized
+168869	nominalized
+168871	nominalized
+168886	nominalized
+168899	nominalized
+168906	nominalized
+168915	nominalized
+168918	nominalized
+168920	nominalized
+168928	nominalized
+168930	nominalized
+168942	nominalized
+168947	nominalized
+168956	nominalized
+168961	nominalized
+168964	nominalized
+168970	nominalized
+168984	nominalized
+168993	nominalized
+169003	nominalized
+169022	nominalized
 169047	nominalized
-169056	nominalized
-169059	nominalized
-169062	nominalized
-169065	nominalized
+169050	nominalized
+169054	nominalized
+169063	nominalized
 nominalized
-169071	nominalized
-169074	nominalized
 nominalized
-169077	nominalized
-169090	nominalized
-169106	nominalized
-169110	nominalized
-169141	nominalized
-169151	nominalized
+169075	nominalized
+169096	nominalized
+169103	nominalized
+169109	nominalized
+169119	nominalized
+169139	nominalized
+169149	nominalized
 nominalized
-169158	nominalized
 nominalized
-169199	nominalized
-169201	nominalized
-169204	nominalized
-169206	nominalized
-169225	nominalized
-169229	nominalized
-169238	nominalized
-169244	nominalized
-nominalized
-169247	nominalized
+169157	nominalized
+169166	nominalized
+169169	nominalized
+169185	nominalized
+169197	nominalized
+169213	nominalized
+169242	nominalized
 169253	nominalized
-169261	nominalized
+169260	nominalized
+169301	nominalized
+169310	nominalized
 nominalized
-169271	nominalized
-169276	nominalized
-169289	nominalized
-169298	nominalized
-169342	nominalized
-169346	nominalized
-169354	nominalized
-169370	nominalized
-169400	nominalized
-169459	nominalized
+169314	nominalized
 nominalized
-169466	nominalized
-169469	nominalized
-169475	nominalized
-169478	nominalized
-169482	nominalized
-169485	nominalized
-169551	nominalized
-169575	nominalized
-169604	nominalized
-169608	nominalized
+169323	nominalized
+169339	nominalized
+169344	nominalized
+169348	nominalized
+169358	nominalized
 nominalized
-169623	nominalized
+169366	nominalized
+169369	nominalized
+nominalized
+169388	nominalized
+169402	nominalized
+169419	nominalized
+169430	nominalized
+169444	nominalized
+169457	nominalized
+169462	nominalized
+169465	nominalized
+169494	nominalized
+169510	nominalized
+169527	nominalized
+169533	nominalized
+169543	nominalized
+169605	nominalized
+169612	nominalized
+169621	nominalized
+169625	nominalized
+169627	nominalized
+169631	nominalized
+169642	nominalized
 169644	nominalized
-169670	nominalized
-169679	nominalized
-169682	nominalized
-169684	nominalized
-169686	nominalized
+169657	nominalized
+169668	nominalized
+169675	nominalized
 nominalized
-169711	nominalized
-169751	nominalized
-169757	nominalized
-169766	nominalized
-169783	nominalized
-169791	nominalized
+169692	nominalized
+169696	nominalized
+169721	nominalized
+169734	nominalized
+169737	nominalized
+169739	nominalized
 nominalized
+169747	nominalized
+169754	nominalized
+169760	nominalized
+169782	nominalized
+169806	nominalized
+169808	nominalized
+169810	nominalized
+169813	nominalized
+169829	nominalized
+169842	nominalized
+169846	nominalized
 nominalized
-169811	nominalized
-169816	nominalized
-169831	nominalized
+169851	nominalized
+169853	nominalized
 nominalized
-169838	nominalized
-169847	nominalized
-nominalized
-nominalized
-nominalized
-169852	nominalized
-169861	nominalized
-nominalized
-169865	nominalized
 169867	nominalized
+169872	nominalized
 nominalized
-169870	nominalized
-169874	nominalized
-169879	nominalized
-169887	nominalized
-169897	nominalized
-169914	nominalized
-169921	nominalized
-169926	nominalized
+169881	nominalized
+169883	nominalized
+169903	nominalized
+169912	nominalized
+169916	nominalized
 169933	nominalized
-169954	nominalized
-169959	nominalized
+169970	nominalized
+169973	nominalized
 nominalized
-169965	nominalized
-169968	nominalized
-169977	nominalized
+169993	nominalized
+170005	nominalized
+170009	nominalized
+170029	nominalized
+nominalized
+170034	nominalized
+170036	nominalized
+170042	nominalized
+170052	nominalized
+nominalized
+170055	nominalized
+170059	nominalized
 nominalized
 nominalized
-170004	nominalized
-170019	nominalized
-170044	nominalized
-170051	nominalized
 nominalized
-170060	nominalized
-170064	nominalized
-170068	nominalized
-170075	nominalized
-170088	nominalized
-170111	nominalized
-170119	nominalized
+170076	nominalized
+170098	nominalized
 nominalized
+170104	nominalized
+170113	nominalized
+170125	nominalized
 170130	nominalized
-170142	nominalized
-170152	nominalized
+170134	nominalized
+nominalized
+170148	nominalized
+170158	nominalized
 170160	nominalized
-170171	nominalized
+nominalized
+170173	nominalized
 nominalized
 nominalized
-170178	nominalized
-170187	nominalized
-170193	nominalized
-170204	nominalized
-170241	nominalized
-170256	nominalized
-170273	nominalized
-170277	nominalized
-170298	nominalized
-170334	nominalized
 nominalized
-170344	nominalized
-170380	nominalized
-170410	nominalized
+170191	nominalized
+nominalized
+170198	nominalized
+170207	nominalized
+170215	nominalized
+170225	nominalized
+170227	nominalized
+170230	nominalized
+170233	nominalized
+170236	nominalized
+170239	nominalized
+170263	nominalized
+nominalized
+170291	nominalized
+170315	nominalized
+nominalized
+170323	nominalized
+170341	nominalized
+170345	nominalized
+170349	nominalized
+170362	nominalized
+170369	nominalized
+170379	nominalized
+nominalized
+170386	nominalized
+170402	nominalized
 170412	nominalized
-170446	nominalized
-170451	nominalized
-170457	nominalized
-170465	nominalized
-170467	nominalized
-170469	nominalized
-170483	nominalized
+170423	nominalized
+170434	nominalized
+170436	nominalized
+nominalized
+170458	nominalized
+170466	nominalized
+170479	nominalized
+nominalized
+170485	nominalized
+170489	nominalized
 170497	nominalized
+170500	nominalized
+170541	nominalized
+nominalized
+170581	nominalized
 nominalized
 nominalized
-170501	nominalized
+170593	nominalized
+170618	nominalized
+170625	nominalized
+170627	nominalized
+170630	nominalized
+170638	nominalized
+170643	nominalized
+170657	nominalized
 nominalized
+170680	nominalized
 nominalized
-170515	nominalized
+170686	nominalized
+170689	nominalized
 nominalized
-170578	nominalized
-170584	nominalized
-170587	nominalized
-170610	nominalized
-170634	nominalized
-170647	nominalized
-170685	nominalized
-170690	nominalized
-170722	nominalized
+170699	nominalized
+170702	nominalized
 nominalized
-170729	nominalized
-170731	nominalized
-170755	nominalized
-170757	nominalized
-170759	nominalized
+170709	nominalized
 nominalized
-170796	nominalized
-170839	nominalized
+170727	nominalized
+nominalized
+170734	nominalized
+nominalized
+170738	nominalized
+170740	nominalized
+170753	nominalized
+170761	nominalized
+170780	nominalized
+170789	nominalized
+170799	nominalized
 170845	nominalized
 170849	nominalized
-170851	nominalized
+nominalized
+nominalized
+170853	nominalized
 170855	nominalized
 170857	nominalized
-nominalized
-nominalized
-nominalized
-170863	nominalized
+170860	nominalized
+170870	nominalized
 170883	nominalized
-170893	nominalized
-170906	nominalized
-170917	nominalized
-170926	nominalized
-170933	nominalized
-170960	nominalized
-170962	nominalized
+170915	nominalized
+170928	nominalized
+170939	nominalized
+170959	nominalized
+nominalized
+nominalized
+170966	nominalized
 170978	nominalized
-170980	nominalized
-170990	nominalized
-171011	nominalized
-171015	nominalized
-171018	nominalized
 nominalized
-171021	nominalized
+170987	nominalized
+170991	nominalized
 nominalized
-171033	nominalized
-171036	nominalized
-171038	nominalized
-171068	nominalized
-171076	nominalized
-171079	nominalized
+170997	nominalized
+171001	nominalized
+171006	nominalized
+171009	nominalized
 nominalized
-171083	nominalized
-171085	nominalized
+171013	nominalized
+171019	nominalized
+171024	nominalized
+171027	nominalized
+171043	nominalized
+171047	nominalized
+171053	nominalized
+171063	nominalized
+171071	nominalized
+171077	nominalized
 nominalized
-171120	nominalized
-171122	nominalized
 nominalized
-171126	nominalized
+171081	nominalized
 nominalized
-171143	nominalized
-171163	nominalized
-171209	nominalized
-171217	nominalized
-171219	nominalized
-171224	nominalized
-171230	nominalized
-171235	nominalized
-171241	nominalized
-171248	nominalized
+171090	nominalized
+171092	nominalized
+nominalized
+171099	nominalized
+171112	nominalized
+171123	nominalized
+171127	nominalized
+171132	nominalized
+171137	nominalized
+nominalized
+nominalized
+171170	nominalized
+171200	nominalized
+171208	nominalized
+171229	nominalized
+171246	nominalized
+171249	nominalized
 171254	nominalized
-171258	nominalized
-171294	nominalized
-171316	nominalized
+171257	nominalized
+171260	nominalized
+171273	nominalized
+nominalized
+171289	nominalized
+171297	nominalized
+nominalized
+171300	nominalized
+171302	nominalized
+171322	nominalized
+nominalized
+171349	nominalized
+171353	nominalized
+171357	nominalized
+171360	nominalized
+171362	nominalized
+171364	nominalized
+171366	nominalized
+171382	nominalized
+171385	nominalized
+171387	nominalized
+171391	nominalized
+171394	nominalized
+171399	nominalized
+171411	nominalized
+171416	nominalized
+171418	nominalized
+171422	nominalized
+171424	nominalized
+171429	nominalized
 nominalized
 nominalized
-171352	nominalized
-171371	nominalized
-171379	nominalized
-171386	nominalized
+171433	nominalized
+171454	nominalized
 nominalized
-171413	nominalized
-171426	nominalized
-171428	nominalized
-171439	nominalized
-171503	nominalized
-171515	nominalized
-171524	nominalized
+171462	nominalized
 nominalized
-171546	nominalized
+nominalized
+171466	nominalized
+171468	nominalized
+nominalized
+nominalized
+171476	nominalized
+nominalized
+nominalized
+171496	nominalized
+171523	nominalized
+171530	nominalized
+171539	nominalized
+nominalized
+171542	nominalized
 171555	nominalized
-171557	nominalized
-171562	nominalized
-171588	nominalized
-171604	nominalized
-171607	nominalized
-171615	nominalized
-171624	nominalized
+171566	nominalized
+171583	nominalized
+171594	nominalized
 nominalized
-171630	nominalized
+171599	nominalized
+nominalized
+171618	nominalized
+171622	nominalized
+171635	nominalized
+nominalized
+nominalized
 171639	nominalized
-171647	nominalized
 nominalized
-171660	nominalized
-171664	nominalized
-171666	nominalized
-171697	nominalized
-171704	nominalized
-171706	nominalized
-171720	nominalized
-171799	nominalized
-171803	nominalized
-171807	nominalized
+171651	nominalized
+171656	nominalized
+171675	nominalized
 nominalized
+171687	nominalized
+171703	nominalized
+171722	nominalized
+171725	nominalized
+171728	nominalized
+171744	nominalized
+171750	nominalized
+171752	nominalized
+171760	nominalized
+171764	nominalized
+171827	nominalized
 nominalized
-171826	nominalized
 171831	nominalized
 171833	nominalized
-171839	nominalized
-171842	nominalized
+171837	nominalized
+171845	nominalized
+171850	nominalized
+171854	nominalized
+171858	nominalized
 171860	nominalized
 nominalized
+171863	nominalized
+nominalized
+171869	nominalized
 171872	nominalized
-171901	nominalized
-171909	nominalized
-171914	nominalized
+171876	nominalized
+171888	nominalized
+171905	nominalized
+nominalized
+171913	nominalized
 171917	nominalized
-171920	nominalized
-171922	nominalized
-171924	nominalized
-171949	nominalized
-171953	nominalized
-171960	nominalized
-171967	nominalized
-171997	nominalized
-172020	nominalized
+171921	nominalized
+171936	nominalized
+171959	nominalized
+171961	nominalized
 nominalized
+171970	nominalized
+171982	nominalized
+172008	nominalized
+172015	nominalized
+172026	nominalized
+172032	nominalized
 172034	nominalized
+nominalized
 172039	nominalized
-172048	nominalized
-172069	nominalized
+nominalized
+172054	nominalized
+172063	nominalized
+172066	nominalized
+172068	nominalized
+nominalized
+nominalized
 172072	nominalized
-172080	nominalized
-172082	nominalized
-172109	nominalized
-172130	nominalized
-172163	nominalized
-172176	nominalized
-172186	nominalized
-172191	nominalized
-172193	nominalized
-172197	nominalized
-172200	nominalized
-172203	nominalized
-172207	nominalized
-172212	nominalized
-172218	nominalized
-172223	nominalized
-172227	nominalized
-172239	nominalized
+172075	nominalized
+172078	nominalized
+172081	nominalized
+172088	nominalized
 nominalized
-172244	nominalized
-172253	nominalized
-172255	nominalized
+nominalized
+172096	nominalized
+172099	nominalized
+nominalized
+172102	nominalized
+172106	nominalized
+nominalized
+172124	nominalized
+172134	nominalized
+172136	nominalized
+172152	nominalized
+nominalized
+nominalized
+172160	nominalized
+172162	nominalized
+172164	nominalized
+172198	nominalized
+172215	nominalized
+nominalized
+172219	nominalized
+nominalized
+172225	nominalized
+172228	nominalized
+nominalized
+172241	nominalized
+nominalized
+nominalized
+172245	nominalized
+nominalized
+172256	nominalized
 172260	nominalized
-172264	nominalized
+172266	nominalized
 172268	nominalized
+172270	nominalized
+172278	nominalized
 172282	nominalized
-172285	nominalized
-172299	nominalized
-172311	nominalized
-172330	nominalized
 nominalized
+172290	nominalized
 nominalized
-172358	nominalized
-nominalized
+172294	nominalized
+172298	nominalized
+172323	nominalized
+172342	nominalized
+172362	nominalized
 172368	nominalized
-172394	nominalized
-172396	nominalized
+172385	nominalized
 172402	nominalized
-172443	nominalized
-172446	nominalized
-172469	nominalized
-172475	nominalized
-172479	nominalized
+172411	nominalized
+172413	nominalized
 nominalized
-172505	nominalized
-172517	nominalized
+nominalized
+172418	nominalized
+172421	nominalized
+172424	nominalized
+172433	nominalized
+172465	nominalized
+172468	nominalized
+172472	nominalized
+172474	nominalized
+172483	nominalized
+172499	nominalized
+172512	nominalized
 172520	nominalized
-172527	nominalized
+172522	nominalized
+172531	nominalized
+172544	nominalized
+172556	nominalized
 nominalized
-172549	nominalized
-172606	nominalized
-172619	nominalized
+172612	nominalized
+172640	nominalized
+172647	nominalized
+172698	nominalized
+172711	nominalized
+172713	nominalized
+172715	nominalized
 nominalized
-172644	nominalized
-nominalized
-172653	nominalized
-172724	nominalized
-172738	nominalized
+172719	nominalized
+172734	nominalized
+172744	nominalized
+172748	nominalized
+172751	nominalized
 172754	nominalized
 172757	nominalized
-172767	nominalized
-172787	nominalized
-172815	nominalized
-nominalized
+172773	nominalized
+172778	nominalized
+172780	nominalized
+172813	nominalized
+172821	nominalized
+172825	nominalized
 172829	nominalized
-172865	nominalized
-172907	nominalized
-172940	nominalized
-172945	nominalized
-172959	nominalized
-172968	nominalized
-172975	nominalized
-172983	nominalized
-172994	nominalized
-173002	nominalized
-173004	nominalized
+172850	nominalized
+172853	nominalized
+172868	nominalized
+172872	nominalized
+172876	nominalized
+172896	nominalized
+172925	nominalized
+172928	nominalized
+172933	nominalized
+172936	nominalized
+172938	nominalized
+172942	nominalized
+172944	nominalized
+172950	nominalized
+172960	nominalized
+172962	nominalized
+172966	nominalized
+172970	nominalized
+172976	nominalized
 173007	nominalized
-173040	nominalized
+173032	nominalized
+173043	nominalized
+173050	nominalized
+173062	nominalized
+173075	nominalized
+173078	nominalized
+173083	nominalized
+173085	nominalized
+173088	nominalized
 nominalized
-173051	nominalized
-173053	nominalized
-173056	nominalized
-173077	nominalized
-173090	nominalized
 173094	nominalized
 173099	nominalized
-173108	nominalized
-173116	nominalized
-173128	nominalized
-173138	nominalized
-173145	nominalized
-173164	nominalized
-173175	nominalized
-173185	nominalized
-173221	nominalized
-173223	nominalized
-173227	nominalized
-173235	nominalized
-173244	nominalized
-173258	nominalized
-173263	nominalized
-173286	nominalized
 nominalized
+173114	nominalized
+173117	nominalized
+nominalized
+173136	nominalized
+173160	nominalized
+173167	nominalized
+173169	nominalized
+173183	nominalized
+173185	nominalized
+173195	nominalized
+173203	nominalized
+173209	nominalized
+173211	nominalized
+nominalized
+173216	nominalized
+173269	nominalized
+173286	nominalized
 173292	nominalized
 nominalized
-173310	nominalized
-173348	nominalized
-173354	nominalized
-173364	nominalized
-173366	nominalized
-173373	nominalized
+173296	nominalized
+173298	nominalized
+173302	nominalized
 nominalized
-173423	nominalized
-173427	nominalized
-173431	nominalized
-173472	nominalized
+173312	nominalized
+173316	nominalized
+173318	nominalized
+173337	nominalized
+173339	nominalized
+173367	nominalized
+173376	nominalized
+173379	nominalized
+173389	nominalized
 nominalized
-173481	nominalized
+173392	nominalized
+173401	nominalized
+173409	nominalized
+173411	nominalized
+173470	nominalized
+173474	nominalized
 173491	nominalized
-173497	nominalized
-173522	nominalized
-173526	nominalized
+173499	nominalized
+173532	nominalized
 173534	nominalized
-173536	nominalized
+173538	nominalized
+173543	nominalized
+173552	nominalized
+173564	nominalized
+173580	nominalized
+173584	nominalized
 nominalized
-173542	nominalized
-173545	nominalized
-173553	nominalized
-173558	nominalized
-173568	nominalized
-173570	nominalized
-173588	nominalized
-173592	nominalized
-173597	nominalized
-173606	nominalized
-173611	nominalized
-173613	nominalized
-173618	nominalized
-nominalized
-173644	nominalized
-173658	nominalized
-173665	nominalized
-173671	nominalized
-173702	nominalized
-173706	nominalized
-173717	nominalized
-173730	nominalized
-173785	nominalized
-173788	nominalized
-173796	nominalized
-173801	nominalized
-173806	nominalized
+173587	nominalized
+173595	nominalized
 nominalized
 nominalized
-173811	nominalized
-173833	nominalized
-173835	nominalized
-173876	nominalized
+173602	nominalized
+173604	nominalized
+173623	nominalized
 nominalized
-173894	nominalized
+173641	nominalized
+173678	nominalized
+173680	nominalized
+173690	nominalized
+173694	nominalized
+173697	nominalized
+173701	nominalized
+173704	nominalized
+173712	nominalized
+173722	nominalized
 nominalized
-173949	nominalized
-174040	nominalized
-174045	nominalized
-174054	nominalized
-174063	nominalized
-174075	nominalized
-174101	nominalized
+173738	nominalized
+173757	nominalized
+173771	nominalized
+173789	nominalized
+173791	nominalized
+173817	nominalized
+173823	nominalized
+173838	nominalized
 nominalized
-174123	nominalized
-174161	nominalized
-174184	nominalized
-174188	nominalized
-174221	nominalized
-174224	nominalized
-174235	nominalized
-174254	nominalized
-174258	nominalized
-174263	nominalized
-174282	nominalized
-174323	nominalized
-174326	nominalized
-174341	nominalized
-174346	nominalized
-174355	nominalized
+173846	nominalized
+173909	nominalized
+173912	nominalized
+173925	nominalized
+173936	nominalized
+nominalized
+173946	nominalized
+173956	nominalized
+173993	nominalized
+174002	nominalized
+174033	nominalized
+174037	nominalized
+174115	nominalized
+174122	nominalized
+174124	nominalized
 nominalized
 nominalized
+nominalized
+174131	nominalized
+174136	nominalized
+174145	nominalized
+nominalized
+nominalized
+174198	nominalized
+174204	nominalized
+174226	nominalized
+174278	nominalized
+174289	nominalized
+174292	nominalized
+174302	nominalized
+174307	nominalized
+174311	nominalized
+174336	nominalized
+174342	nominalized
+174348	nominalized
+174354	nominalized
 174360	nominalized
-174365	nominalized
-174402	nominalized
-174404	nominalized
-nominalized
-174430	nominalized
-174536	nominalized
+174373	nominalized
+174387	nominalized
+174405	nominalized
+174409	nominalized
 nominalized
 nominalized
-174568	nominalized
-174571	nominalized
-174580	nominalized
+174422	nominalized
+174426	nominalized
+174428	nominalized
+174433	nominalized
 nominalized
-174612	nominalized
-174652	nominalized
-174661	nominalized
-174666	nominalized
-174676	nominalized
-174679	nominalized
-174684	nominalized
-174702	nominalized
-174708	nominalized
+174456	nominalized
+174473	nominalized
+174482	nominalized
+nominalized
+174488	nominalized
+nominalized
+174521	nominalized
+174526	nominalized
+174530	nominalized
+nominalized
+174537	nominalized
+174561	nominalized
+174592	nominalized
+174603	nominalized
+174607	nominalized
+174609	nominalized
+174629	nominalized
+174632	nominalized
+174635	nominalized
+174645	nominalized
+174672	nominalized
+174706	nominalized
 174717	nominalized
-174727	nominalized
-174734	nominalized
-174757	nominalized
+174758	nominalized
+174768	nominalized
+174805	nominalized
+174809	nominalized
+174818	nominalized
+174821	nominalized
+174824	nominalized
+174832	nominalized
 nominalized
-174764	nominalized
-174772	nominalized
-174775	nominalized
 nominalized
-174795	nominalized
-174806	nominalized
-174834	nominalized
-174867	nominalized
-174874	nominalized
-174876	nominalized
-174885	nominalized
-174909	nominalized
-174917	nominalized
-174941	nominalized
-174980	nominalized
-174985	nominalized
-175016	nominalized
-175038	nominalized
-175044	nominalized
-175051	nominalized
+nominalized
+nominalized
+174846	nominalized
+174856	nominalized
+nominalized
+nominalized
+174886	nominalized
+174898	nominalized
+174906	nominalized
+174915	nominalized
+174965	nominalized
+174975	nominalized
+175007	nominalized
+175042	nominalized
+175048	nominalized
+175052	nominalized
+175055	nominalized
 175057	nominalized
-175067	nominalized
+175062	nominalized
 175069	nominalized
-175076	nominalized
-175080	nominalized
-175082	nominalized
+175075	nominalized
+175078	nominalized
+175089	nominalized
 175103	nominalized
-175120	nominalized
-175130	nominalized
-175140	nominalized
-175145	nominalized
-175148	nominalized
-175157	nominalized
-175159	nominalized
-175174	nominalized
-175180	nominalized
-175191	nominalized
+175105	nominalized
+nominalized
+nominalized
+175121	nominalized
+175144	nominalized
+175171	nominalized
+175192	nominalized
 175196	nominalized
 175199	nominalized
-175207	nominalized
-175223	nominalized
-175231	nominalized
-175242	nominalized
-175265	nominalized
+175283	nominalized
+175287	nominalized
+nominalized
 175297	nominalized
-175302	nominalized
-175309	nominalized
-175320	nominalized
+175314	nominalized
 nominalized
-175323	nominalized
-175335	nominalized
-175361	nominalized
-175372	nominalized
-175378	nominalized
-175391	nominalized
-175412	nominalized
-175424	nominalized
-nominalized
-nominalized
-175432	nominalized
-175442	nominalized
-175445	nominalized
-175467	nominalized
-175483	nominalized
+175345	nominalized
+175347	nominalized
+175367	nominalized
+175439	nominalized
+175449	nominalized
+175454	nominalized
+175458	nominalized
+175468	nominalized
+175472	nominalized
+175492	nominalized
+175500	nominalized
 175503	nominalized
-175538	nominalized
-175549	nominalized
-175557	nominalized
-175609	nominalized
-175620	nominalized
-nominalized
-175624	nominalized
-nominalized
-175635	nominalized
-175656	nominalized
+175513	nominalized
+175526	nominalized
+175530	nominalized
+175542	nominalized
+175564	nominalized
+175598	nominalized
+175602	nominalized
 175662	nominalized
-175666	nominalized
-175677	nominalized
+175681	nominalized
+175693	nominalized
+175703	nominalized
+175715	nominalized
+175719	nominalized
+175726	nominalized
 nominalized
-175685	nominalized
-175689	nominalized
 nominalized
-175712	nominalized
-175729	nominalized
-175748	nominalized
-175762	nominalized
-175779	nominalized
-175795	nominalized
-175801	nominalized
-175804	nominalized
-175835	nominalized
+nominalized
+nominalized
+175739	nominalized
+175753	nominalized
+nominalized
+175766	nominalized
+175771	nominalized
+175809	nominalized
+175824	nominalized
+175831	nominalized
 175854	nominalized
-175876	nominalized
-175883	nominalized
-175894	nominalized
-175973	nominalized
-175982	nominalized
-175993	nominalized
-175998	nominalized
-176000	nominalized
-176005	nominalized
-176017	nominalized
-176019	nominalized
-176034	nominalized
-176047	nominalized
-176055	nominalized
 nominalized
-176074	nominalized
-176079	nominalized
-176108	nominalized
-176125	nominalized
-176129	nominalized
-176131	nominalized
+175868	nominalized
+175874	nominalized
+175880	nominalized
+175887	nominalized
+175914	nominalized
 nominalized
-176140	nominalized
-176147	nominalized
-176153	nominalized
+175919	nominalized
+175922	nominalized
+175972	nominalized
+175974	nominalized
+175981	nominalized
+175983	nominalized
+175986	nominalized
+176013	nominalized
+176024	nominalized
+176037	nominalized
+176052	nominalized
+nominalized
+176062	nominalized
+176070	nominalized
+176085	nominalized
+176102	nominalized
+176141	nominalized
+176149	nominalized
+176180	nominalized
 176182	nominalized
-176209	nominalized
-176212	nominalized
-176214	nominalized
-176217	nominalized
+176190	nominalized
+176192	nominalized
+176194	nominalized
+176208	nominalized
+nominalized
+176222	nominalized
+176228	nominalized
+176233	nominalized
 176235	nominalized
-176251	nominalized
+nominalized
+nominalized
+176241	nominalized
 176255	nominalized
 176257	nominalized
-176262	nominalized
-176266	nominalized
+176288	nominalized
 nominalized
-176282	nominalized
-176287	nominalized
-nominalized
-176299	nominalized
-176303	nominalized
-176329	nominalized
-176341	nominalized
+176300	nominalized
+176307	nominalized
+176313	nominalized
+176318	nominalized
+176336	nominalized
+176342	nominalized
 176346	nominalized
-176367	nominalized
-176412	nominalized
-176416	nominalized
+176352	nominalized
 nominalized
-176438	nominalized
-176454	nominalized
-176459	nominalized
+176364	nominalized
+176391	nominalized
+176406	nominalized
+176413	nominalized
+176420	nominalized
+176423	nominalized
+176425	nominalized
+176427	nominalized
+176455	nominalized
+176462	nominalized
+176475	nominalized
 176484	nominalized
 nominalized
-176490	nominalized
-176492	nominalized
-176499	nominalized
-176508	nominalized
+176491	nominalized
+176493	nominalized
+176502	nominalized
+176504	nominalized
+176527	nominalized
+176530	nominalized
+176549	nominalized
 nominalized
-176512	nominalized
-176517	nominalized
-176519	nominalized
+176552	nominalized
 nominalized
-nominalized
-176537	nominalized
-176568	nominalized
-176570	nominalized
-176576	nominalized
-176586	nominalized
-176602	nominalized
-176607	nominalized
-176611	nominalized
-nominalized
-176628	nominalized
-176639	nominalized
+176564	nominalized
+176589	nominalized
+176610	nominalized
+176630	nominalized
+176633	nominalized
+176637	nominalized
 176641	nominalized
-nominalized
-176655	nominalized
-176657	nominalized
-nominalized
-nominalized
-176677	nominalized
-nominalized
-176687	nominalized
-176701	nominalized
-176710	nominalized
-176723	nominalized
-176725	nominalized
-176729	nominalized
-176732	nominalized
-176737	nominalized
+176659	nominalized
+176661	nominalized
+176668	nominalized
+176670	nominalized
+176695	nominalized
+176698	nominalized
+176716	nominalized
+176739	nominalized
 176741	nominalized
-176771	nominalized
-nominalized
-176806	nominalized
-176833	nominalized
-176835	nominalized
-176846	nominalized
-176867	nominalized
-176872	nominalized
-176877	nominalized
+176758	nominalized
+176776	nominalized
+176852	nominalized
 176893	nominalized
-176902	nominalized
-176917	nominalized
+176908	nominalized
+176911	nominalized
 nominalized
-176927	nominalized
-176947	nominalized
+176942	nominalized
+176956	nominalized
 176959	nominalized
-176973	nominalized
-176986	nominalized
-176988	nominalized
+176961	nominalized
+176987	nominalized
+177032	nominalized
+177034	nominalized
+177036	nominalized
+177040	nominalized
+177046	nominalized
+177048	nominalized
+177050	nominalized
+177076	nominalized
+177080	nominalized
+177084	nominalized
+177093	nominalized
 nominalized
-177015	nominalized
-177023	nominalized
-177039	nominalized
-nominalized
-177047	nominalized
-177051	nominalized
-177060	nominalized
-177063	nominalized
-177114	nominalized
-nominalized
-177160	nominalized
-nominalized
-nominalized
-177173	nominalized
-177202	nominalized
-177208	nominalized
-177210	nominalized
-177213	nominalized
-177222	nominalized
-177229	nominalized
-177246	nominalized
-nominalized
-177273	nominalized
-nominalized
-177278	nominalized
-177282	nominalized
-nominalized
-177293	nominalized
-177296	nominalized
-nominalized
-177303	nominalized
+177100	nominalized
+177106	nominalized
+177111	nominalized
+177129	nominalized
+177133	nominalized
+177163	nominalized
+177170	nominalized
+177174	nominalized
+177196	nominalized
+177199	nominalized
+177207	nominalized
+177216	nominalized
+177221	nominalized
+177230	nominalized
+177232	nominalized
+177235	nominalized
+177247	nominalized
+177268	nominalized
+177289	nominalized
+177297	nominalized
+177306	nominalized
 nominalized
 177325	nominalized
+177330	nominalized
 nominalized
-177332	nominalized
+177354	nominalized
 nominalized
-177336	nominalized
-177338	nominalized
-177355	nominalized
-177363	nominalized
-177385	nominalized
-177394	nominalized
+177358	nominalized
+177360	nominalized
+177402	nominalized
+nominalized
+177406	nominalized
 177408	nominalized
+nominalized
+177422	nominalized
+177435	nominalized
+nominalized
+nominalized
 177466	nominalized
-177473	nominalized
-177477	nominalized
-177479	nominalized
-177484	nominalized
-177486	nominalized
-177490	nominalized
-177496	nominalized
 177514	nominalized
-177528	nominalized
-177568	nominalized
-177585	nominalized
-177598	nominalized
-177623	nominalized
+177519	nominalized
+177529	nominalized
+177559	nominalized
+nominalized
+177577	nominalized
+nominalized
 177625	nominalized
+177657	nominalized
 nominalized
-177633	nominalized
-177647	nominalized
-177649	nominalized
-177658	nominalized
-177666	nominalized
-nominalized
-177672	nominalized
-177676	nominalized
-177682	nominalized
-177685	nominalized
-nominalized
-177689	nominalized
-177695	nominalized
-177700	nominalized
-177703	nominalized
-177724	nominalized
-177729	nominalized
-177736	nominalized
-177752	nominalized
-177763	nominalized
-177770	nominalized
+177681	nominalized
+177683	nominalized
+177693	nominalized
+177699	nominalized
+177710	nominalized
+177718	nominalized
 nominalized
 nominalized
-177774	nominalized
-nominalized
-177786	nominalized
-177788	nominalized
-nominalized
-177798	nominalized
-177814	nominalized
-177827	nominalized
-177831	nominalized
+177772	nominalized
+177794	nominalized
+177800	nominalized
+177805	nominalized
+177813	nominalized
+177815	nominalized
+177818	nominalized
+177828	nominalized
 177836	nominalized
-177841	nominalized
+177852	nominalized
+177873	nominalized
+177896	nominalized
 nominalized
+177912	nominalized
 nominalized
-177884	nominalized
-177920	nominalized
-177930	nominalized
-177953	nominalized
+177922	nominalized
+177926	nominalized
+177936	nominalized
+177939	nominalized
+177943	nominalized
+177948	nominalized
+177956	nominalized
+177967	nominalized
+177971	nominalized
 177975	nominalized
-177978	nominalized
-177984	nominalized
-177989	nominalized
-177992	nominalized
-178009	nominalized
+177985	nominalized
+177996	nominalized
+178047	nominalized
+178059	nominalized
 nominalized
-178029	nominalized
-178040	nominalized
-178043	nominalized
-178045	nominalized
-178048	nominalized
-178073	nominalized
-nominalized
-178103	nominalized
-178108	nominalized
+178062	nominalized
+178088	nominalized
 178112	nominalized
-178116	nominalized
-178119	nominalized
-178121	nominalized
-178124	nominalized
-178145	nominalized
-178148	nominalized
-178150	nominalized
-178155	nominalized
-178158	nominalized
-178167	nominalized
+nominalized
+178118	nominalized
+178120	nominalized
+178122	nominalized
+178134	nominalized
+178141	nominalized
+178149	nominalized
+178164	nominalized
+178168	nominalized
+nominalized
+178171	nominalized
 178181	nominalized
-178186	nominalized
-178191	nominalized
+178183	nominalized
 178196	nominalized
-178199	nominalized
-178204	nominalized
+178205	nominalized
+178209	nominalized
+178211	nominalized
+178223	nominalized
+nominalized
+178241	nominalized
 nominalized
 nominalized
-178208	nominalized
-178233	nominalized
+178278	nominalized
+178285	nominalized
 nominalized
-178242	nominalized
-178245	nominalized
-nominalized
-178248	nominalized
-178250	nominalized
-178253	nominalized
-nominalized
-178263	nominalized
-nominalized
-178266	nominalized
-178287	nominalized
-178319	nominalized
-178330	nominalized
+178337	nominalized
 178341	nominalized
-178343	nominalized
-178345	nominalized
-178362	nominalized
-178374	nominalized
-178394	nominalized
-178407	nominalized
 nominalized
-178412	nominalized
 nominalized
-178431	nominalized
+nominalized
+178355	nominalized
+178369	nominalized
+nominalized
+178376	nominalized
+178385	nominalized
+178391	nominalized
+178398	nominalized
+178404	nominalized
+178413	nominalized
 178435	nominalized
-178450	nominalized
-nominalized
-nominalized
-178454	nominalized
-nominalized
-178470	nominalized
-178476	nominalized
-178498	nominalized
-nominalized
-178512	nominalized
-178529	nominalized
-178553	nominalized
-178556	nominalized
-178560	nominalized
+178440	nominalized
+178449	nominalized
+178455	nominalized
+178463	nominalized
+178465	nominalized
+178477	nominalized
+178511	nominalized
+178518	nominalized
+178521	nominalized
+178526	nominalized
+178567	nominalized
+178569	nominalized
+178575	nominalized
 178579	nominalized
-178584	nominalized
-178587	nominalized
-178597	nominalized
+178583	nominalized
 178601	nominalized
-178673	nominalized
+178608	nominalized
+178615	nominalized
+178619	nominalized
+178625	nominalized
+178636	nominalized
+178644	nominalized
+178651	nominalized
+178653	nominalized
 nominalized
-178678	nominalized
-178680	nominalized
-178685	nominalized
-178694	nominalized
+nominalized
+178658	nominalized
+178662	nominalized
+178665	nominalized
+178667	nominalized
+178669	nominalized
+nominalized
+178672	nominalized
+nominalized
+178684	nominalized
+178689	nominalized
+178691	nominalized
+nominalized
 178700	nominalized
-178705	nominalized
+178702	nominalized
+178707	nominalized
 178709	nominalized
-178712	nominalized
-178714	nominalized
-178716	nominalized
-178718	nominalized
-178722	nominalized
-178725	nominalized
-178730	nominalized
-178745	nominalized
-178767	nominalized
-178769	nominalized
-178778	nominalized
-178784	nominalized
-178788	nominalized
-178807	nominalized
-178830	nominalized
-178832	nominalized
-178834	nominalized
+178715	nominalized
+nominalized
+nominalized
+178727	nominalized
+178737	nominalized
+nominalized
+178751	nominalized
+178759	nominalized
+178761	nominalized
+178763	nominalized
+178765	nominalized
+178770	nominalized
+178774	nominalized
+178802	nominalized
+178804	nominalized
+178811	nominalized
+178816	nominalized
+178820	nominalized
+178823	nominalized
+178826	nominalized
+178828	nominalized
+178835	nominalized
+178837	nominalized
 178841	nominalized
-178854	nominalized
-178882	nominalized
-178891	nominalized
-178904	nominalized
-178912	nominalized
+nominalized
+178847	nominalized
+178849	nominalized
+178866	nominalized
+178871	nominalized
+178873	nominalized
+178875	nominalized
+178878	nominalized
+178884	nominalized
+178907	nominalized
 178914	nominalized
+178931	nominalized
+178936	nominalized
 nominalized
-178919	nominalized
+178950	nominalized
 nominalized
-178935	nominalized
-178946	nominalized
-178949	nominalized
-178951	nominalized
-nominalized
-nominalized
-178955	nominalized
-178958	nominalized
-178961	nominalized
 178964	nominalized
-178971	nominalized
+178970	nominalized
+178984	nominalized
+178992	nominalized
+179000	nominalized
+179003	nominalized
+179032	nominalized
+179035	nominalized
+179042	nominalized
+179045	nominalized
+179073	nominalized
+179081	nominalized
+179087	nominalized
+179108	nominalized
+179143	nominalized
+179156	nominalized
+179244	nominalized
+179264	nominalized
+179267	nominalized
+179271	nominalized
+179281	nominalized
+179286	nominalized
+179290	nominalized
+179294	nominalized
+179303	nominalized
+179307	nominalized
+179317	nominalized
+179320	nominalized
+179322	nominalized
+179338	nominalized
+179340	nominalized
+179391	nominalized
+179400	nominalized
+179404	nominalized
+179410	nominalized
+179418	nominalized
+179427	nominalized
+179452	nominalized
 nominalized
 nominalized
-178979	nominalized
-178982	nominalized
 nominalized
-178989	nominalized
-178993	nominalized
-nominalized
-179015	nominalized
-179029	nominalized
-179031	nominalized
-179055	nominalized
-179057	nominalized
-nominalized
-179065	nominalized
-179067	nominalized
-179070	nominalized
-179117	nominalized
-179136	nominalized
-nominalized
-179140	nominalized
-nominalized
-179148	nominalized
-179151	nominalized
-nominalized
-179166	nominalized
-nominalized
-nominalized
-179170	nominalized
-nominalized
-179181	nominalized
-179185	nominalized
-179192	nominalized
-179194	nominalized
-179196	nominalized
-179206	nominalized
-179213	nominalized
-nominalized
-179223	nominalized
-nominalized
-179228	nominalized
-179232	nominalized
-179262	nominalized
-179287	nominalized
-179309	nominalized
-179316	nominalized
-179339	nominalized
-179360	nominalized
-179371	nominalized
-179373	nominalized
-nominalized
-nominalized
-179378	nominalized
-179381	nominalized
-179384	nominalized
-179393	nominalized
-179430	nominalized
-179433	nominalized
-179438	nominalized
-179440	nominalized
-179450	nominalized
+179463	nominalized
+179465	nominalized
 179467	nominalized
-179478	nominalized
-179489	nominalized
-179491	nominalized
-179502	nominalized
-179516	nominalized
-179530	nominalized
 nominalized
-179593	nominalized
-179622	nominalized
-179630	nominalized
-179688	nominalized
-179704	nominalized
-179706	nominalized
-179709	nominalized
+179495	nominalized
 nominalized
-179713	nominalized
-179730	nominalized
+nominalized
+179500	nominalized
+179536	nominalized
+179539	nominalized
+179542	nominalized
+179549	nominalized
+179551	nominalized
+179576	nominalized
+179637	nominalized
+179648	nominalized
+179666	nominalized
+179670	nominalized
+179678	nominalized
+nominalized
+nominalized
+179689	nominalized
+179703	nominalized
+179716	nominalized
+179723	nominalized
+nominalized
+179731	nominalized
+179738	nominalized
 179743	nominalized
-179747	nominalized
+nominalized
+nominalized
 179750	nominalized
 179753	nominalized
+nominalized
 179756	nominalized
-179774	nominalized
-179781	nominalized
-179783	nominalized
+179773	nominalized
+179776	nominalized
+179789	nominalized
+179794	nominalized
+nominalized
+nominalized
+nominalized
+nominalized
+nominalized
+nominalized
+179808	nominalized
 179820	nominalized
-179829	nominalized
-179834	nominalized
-179838	nominalized
-179862	nominalized
-179865	nominalized
-179884	nominalized
-179888	nominalized
-179894	nominalized
+nominalized
+nominalized
+179830	nominalized
+nominalized
+179848	nominalized
+179871	nominalized
+179899	nominalized
+179901	nominalized
+nominalized
+179904	nominalized
+179910	nominalized
 179915	nominalized
-179951	nominalized
-179955	nominalized
-179960	nominalized
-179965	nominalized
-179967	nominalized
-179971	nominalized
-179973	nominalized
-179979	nominalized
-179992	nominalized
-179994	nominalized
-179998	nominalized
+179917	nominalized
+179919	nominalized
+179933	nominalized
+nominalized
+nominalized
+179938	nominalized
+179940	nominalized
+179958	nominalized
+179986	nominalized
+179988	nominalized
+nominalized
+179993	nominalized
+nominalized
+179996	nominalized
+179999	nominalized
 180003	nominalized
-180010	nominalized
-180048	nominalized
-180073	nominalized
-180088	nominalized
-180095	nominalized
-180111	nominalized
-180128	nominalized
-180131	nominalized
-180136	nominalized
-180139	nominalized
-180142	nominalized
+180006	nominalized
 nominalized
-180150	nominalized
-180155	nominalized
+180009	nominalized
+180015	nominalized
+180018	nominalized
+180025	nominalized
+180030	nominalized
+180059	nominalized
+180066	nominalized
+180068	nominalized
+180070	nominalized
+180072	nominalized
+180079	nominalized
+180093	nominalized
 nominalized
-180172	nominalized
-180175	nominalized
+180096	nominalized
+180102	nominalized
 nominalized
-180202	nominalized
-180228	nominalized
-180236	nominalized
-180238	nominalized
-180252	nominalized
+180107	nominalized
+180121	nominalized
+180144	nominalized
+nominalized
+180147	nominalized
+180156	nominalized
+180158	nominalized
+180170	nominalized
+180181	nominalized
+180193	nominalized
+nominalized
+nominalized
+180222	nominalized
+nominalized
+nominalized
+180233	nominalized
+nominalized
+180249	nominalized
 180254	nominalized
-180268	nominalized
-180280	nominalized
-180288	nominalized
-180290	nominalized
-nominalized
-180295	nominalized
-180358	nominalized
-180380	nominalized
-180393	nominalized
-nominalized
-180400	nominalized
-180403	nominalized
-180412	nominalized
-nominalized
-180429	nominalized
-180435	nominalized
+180261	nominalized
+180265	nominalized
+180271	nominalized
+180276	nominalized
+180282	nominalized
+180284	nominalized
+180286	nominalized
+180316	nominalized
+180336	nominalized
+180343	nominalized
+180351	nominalized
+180367	nominalized
+180371	nominalized
+180373	nominalized
+180375	nominalized
+180399	nominalized
+180432	nominalized
 180439	nominalized
-180467	nominalized
-180471	nominalized
-180511	nominalized
+180450	nominalized
+180452	nominalized
+180461	nominalized
+180463	nominalized
+180469	nominalized
+180475	nominalized
+180490	nominalized
 180525	nominalized
-180530	nominalized
+180528	nominalized
 180549	nominalized
-nominalized
-180553	nominalized
-180571	nominalized
+180554	nominalized
+180563	nominalized
+180579	nominalized
 180583	nominalized
-180588	nominalized
-180661	nominalized
-180666	nominalized
-180686	nominalized
-180696	nominalized
-180740	nominalized
-180742	nominalized
-180746	nominalized
-180753	nominalized
-180763	nominalized
-180778	nominalized
+180598	nominalized
+180609	nominalized
+nominalized
+180623	nominalized
+180632	nominalized
+180634	nominalized
+180648	nominalized
+180650	nominalized
+180657	nominalized
+180683	nominalized
+180689	nominalized
+180698	nominalized
+180704	nominalized
+180706	nominalized
+180708	nominalized
+180716	nominalized
+180718	nominalized
+180741	nominalized
+180768	nominalized
+180772	nominalized
+180784	nominalized
 180803	nominalized
-180810	nominalized
+180842	nominalized
 nominalized
-180813	nominalized
-180822	nominalized
+180871	nominalized
+180874	nominalized
 nominalized
+180878	nominalized
+180881	nominalized
+180885	nominalized
+180888	nominalized
+180891	nominalized
 nominalized
-180829	nominalized
-180831	nominalized
-180856	nominalized
+180900	nominalized
+180905	nominalized
+180936	nominalized
+180938	nominalized
+180952	nominalized
+180954	nominalized
+180959	nominalized
+180964	nominalized
 nominalized
-180877	nominalized
-180925	nominalized
-180928	nominalized
-180942	nominalized
-180946	nominalized
-180949	nominalized
-180955	nominalized
-180958	nominalized
-180970	nominalized
-180982	nominalized
+180968	nominalized
+180973	nominalized
 nominalized
-181005	nominalized
-181027	nominalized
-181043	nominalized
-181066	nominalized
-181068	nominalized
-181099	nominalized
-181106	nominalized
-181123	nominalized
+180976	nominalized
+180980	nominalized
+180984	nominalized
+180991	nominalized
+180995	nominalized
+181003	nominalized
+181010	nominalized
+181034	nominalized
 nominalized
-181132	nominalized
-181211	nominalized
-181215	nominalized
+181041	nominalized
+nominalized
+181052	nominalized
+181056	nominalized
+181060	nominalized
+181069	nominalized
+181075	nominalized
+181119	nominalized
+181136	nominalized
+nominalized
+181144	nominalized
+nominalized
+181150	nominalized
+181152	nominalized
+181170	nominalized
+nominalized
+181174	nominalized
+181194	nominalized
+181200	nominalized
+181208	nominalized
+181214	nominalized
+nominalized
+181218	nominalized
+181226	nominalized
 181233	nominalized
-181250	nominalized
-nominalized
+181243	nominalized
+181246	nominalized
 181261	nominalized
-181272	nominalized
-181321	nominalized
-181331	nominalized
-181362	nominalized
-181367	nominalized
-181460	nominalized
-181467	nominalized
-181469	nominalized
 nominalized
-181472	nominalized
+181290	nominalized
+181304	nominalized
+181310	nominalized
 nominalized
-181477	nominalized
-181483	nominalized
-181492	nominalized
+181324	nominalized
+181336	nominalized
 nominalized
 nominalized
+181342	nominalized
+nominalized
+181355	nominalized
+181361	nominalized
+181363	nominalized
+181375	nominalized
+181388	nominalized
+181396	nominalized
+nominalized
+181407	nominalized
+181421	nominalized
+181442	nominalized
+181450	nominalized
+181473	nominalized
+181495	nominalized
+181504	nominalized
+181516	nominalized
+181519	nominalized
+181524	nominalized
+181533	nominalized
 181558	nominalized
-181564	nominalized
-181592	nominalized
+181561	nominalized
+nominalized
+181568	nominalized
+181577	nominalized
+181584	nominalized
+181591	nominalized
+nominalized
+181612	nominalized
+181617	nominalized
+181621	nominalized
+nominalized
+nominalized
+181633	nominalized
+181639	nominalized
+181642	nominalized
+181644	nominalized
+181647	nominalized
 181650	nominalized
-181662	nominalized
-181665	nominalized
+nominalized
+181654	nominalized
+nominalized
+181668	nominalized
 181675	nominalized
-181680	nominalized
-181684	nominalized
-181709	nominalized
-181715	nominalized
-181721	nominalized
-181727	nominalized
-181733	nominalized
-181749	nominalized
-181767	nominalized
-181789	nominalized
-181794	nominalized
+181682	nominalized
 nominalized
+181689	nominalized
+181699	nominalized
 nominalized
-181809	nominalized
-181813	nominalized
-181815	nominalized
-181820	nominalized
+181706	nominalized
+181708	nominalized
+181719	nominalized
+181725	nominalized
+181729	nominalized
+181735	nominalized
+181739	nominalized
 nominalized
-181847	nominalized
+181744	nominalized
+181752	nominalized
+nominalized
+181757	nominalized
+181761	nominalized
+181775	nominalized
+nominalized
+181783	nominalized
+nominalized
+181792	nominalized
+181800	nominalized
+nominalized
+181803	nominalized
+181807	nominalized
+nominalized
+181810	nominalized
+181839	nominalized
+181842	nominalized
+181850	nominalized
+181852	nominalized
+nominalized
+181863	nominalized
 181867	nominalized
+181874	nominalized
+181876	nominalized
 181881	nominalized
 nominalized
-181890	nominalized
-nominalized
-181928	nominalized
-181933	nominalized
-181938	nominalized
+181888	nominalized
+181897	nominalized
+181903	nominalized
+181925	nominalized
+181929	nominalized
+181932	nominalized
 181940	nominalized
-181947	nominalized
-181970	nominalized
-182008	nominalized
-182020	nominalized
-182024	nominalized
-182026	nominalized
-182049	nominalized
-182052	nominalized
-182055	nominalized
-182067	nominalized
-182096	nominalized
+181942	nominalized
+181951	nominalized
+nominalized
+181958	nominalized
+181967	nominalized
+181975	nominalized
+181985	nominalized
+181987	nominalized
+182002	nominalized
+182023	nominalized
+nominalized
+182028	nominalized
+182045	nominalized
+nominalized
+nominalized
+182053	nominalized
+182094	nominalized
+nominalized
+182098	nominalized
+182106	nominalized
+182113	nominalized
+nominalized
+182118	nominalized
+nominalized
+182128	nominalized
 182132	nominalized
-182144	nominalized
-182191	nominalized
-182202	nominalized
-182248	nominalized
-182252	nominalized
-182262	nominalized
-182266	nominalized
-182269	nominalized
-182277	nominalized
-nominalized
-182280	nominalized
-nominalized
-182283	nominalized
-182294	nominalized
-182305	nominalized
+182136	nominalized
 nominalized
 nominalized
-182342	nominalized
-182357	nominalized
-182368	nominalized
-182380	nominalized
-182441	nominalized
-182451	nominalized
-182490	nominalized
-182533	nominalized
-182541	nominalized
-182546	nominalized
-182550	nominalized
-182552	nominalized
-182557	nominalized
-182566	nominalized
+182140	nominalized
+182145	nominalized
+182149	nominalized
+182153	nominalized
+182168	nominalized
+nominalized
+182171	nominalized
+182173	nominalized
+182177	nominalized
+182209	nominalized
+182228	nominalized
+nominalized
+182231	nominalized
+182233	nominalized
+182239	nominalized
+nominalized
+182242	nominalized
+182253	nominalized
+182291	nominalized
+182306	nominalized
+182321	nominalized
+182326	nominalized
+182330	nominalized
+nominalized
+nominalized
+182334	nominalized
+182378	nominalized
+nominalized
+182391	nominalized
+nominalized
+182394	nominalized
+182421	nominalized
+182468	nominalized
+182470	nominalized
+182473	nominalized
+182475	nominalized
+182480	nominalized
+182487	nominalized
+182491	nominalized
+182499	nominalized
+nominalized
+182518	nominalized
+182526	nominalized
+182532	nominalized
+nominalized
+182535	nominalized
+nominalized
+182542	nominalized
+182545	nominalized
+nominalized
+182559	nominalized
+182568	nominalized
+nominalized
 182572	nominalized
-182578	nominalized
-182591	nominalized
-182608	nominalized
-182610	nominalized
+182574	nominalized
+182586	nominalized
+182588	nominalized
 nominalized
+182593	nominalized
+182600	nominalized
+182605	nominalized
+182607	nominalized
+182613	nominalized
+182618	nominalized
+182622	nominalized
+182633	nominalized
+182652	nominalized
 nominalized
-182630	nominalized
-182658	nominalized
-182686	nominalized
-182711	nominalized
-182715	nominalized
-182719	nominalized
-182821	nominalized
-182825	nominalized
+182656	nominalized
+182677	nominalized
+182681	nominalized
+182683	nominalized
 nominalized
-182835	nominalized
+182691	nominalized
+182712	nominalized
+182716	nominalized
+182736	nominalized
+182740	nominalized
+182758	nominalized
+182768	nominalized
+182772	nominalized
+182783	nominalized
+nominalized
+182788	nominalized
+182791	nominalized
+182803	nominalized
+182811	nominalized
+182837	nominalized
+182842	nominalized
+182850	nominalized
+182855	nominalized
 182857	nominalized
 nominalized
-182894	nominalized
-182896	nominalized
-182923	nominalized
-183014	nominalized
-183025	nominalized
-183031	nominalized
-183035	nominalized
-183048	nominalized
+182861	nominalized
+182869	nominalized
+182872	nominalized
+182876	nominalized
+182882	nominalized
+182899	nominalized
+182901	nominalized
+182910	nominalized
+182917	nominalized
+nominalized
+182920	nominalized
+182922	nominalized
+182925	nominalized
+182929	nominalized
+182933	nominalized
+182938	nominalized
+182945	nominalized
+182956	nominalized
+182980	nominalized
+nominalized
+182983	nominalized
+nominalized
+nominalized
+182987	nominalized
+182989	nominalized
+nominalized
+182994	nominalized
+nominalized
+182998	nominalized
+183000	nominalized
+183005	nominalized
+183010	nominalized
+183019	nominalized
+183024	nominalized
+183026	nominalized
+183032	nominalized
+183036	nominalized
+183042	nominalized
 183052	nominalized
-183075	nominalized
-183086	nominalized
-183089	nominalized
-183100	nominalized
-183117	nominalized
+183072	nominalized
+nominalized
+183078	nominalized
+183083	nominalized
+183091	nominalized
+183096	nominalized
+nominalized
+183101	nominalized
+183116	nominalized
+nominalized
 183121	nominalized
+183126	nominalized
+183129	nominalized
 183132	nominalized
-183162	nominalized
-183203	nominalized
-183208	nominalized
-183290	nominalized
-183314	nominalized
-183329	nominalized
-183342	nominalized
-183354	nominalized
+183136	nominalized
+183151	nominalized
+183153	nominalized
+183155	nominalized
+183159	nominalized
+183164	nominalized
+nominalized
+183174	nominalized
+183176	nominalized
+183186	nominalized
+183190	nominalized
+183207	nominalized
+183215	nominalized
+183238	nominalized
+183241	nominalized
+183243	nominalized
+183250	nominalized
+183254	nominalized
+183258	nominalized
+nominalized
+183261	nominalized
+nominalized
+nominalized
+nominalized
+183267	nominalized
+183271	nominalized
+nominalized
+nominalized
+183281	nominalized
+183288	nominalized
+183291	nominalized
+183297	nominalized
+183300	nominalized
+183304	nominalized
+183306	nominalized
+183319	nominalized
+nominalized
+183322	nominalized
+nominalized
+183330	nominalized
+183333	nominalized
+nominalized
+183336	nominalized
+183344	nominalized
 183358	nominalized
-183366	nominalized
+183369	nominalized
+183384	nominalized
+183389	nominalized
 nominalized
 nominalized
-nominalized
-nominalized
-183380	nominalized
 183396	nominalized
+183398	nominalized
+183402	nominalized
 nominalized
-183411	nominalized
-183418	nominalized
-183465	nominalized
+183406	nominalized
+183413	nominalized
+183415	nominalized
+183421	nominalized
+183437	nominalized
+183440	nominalized
+183449	nominalized
+183453	nominalized
+183460	nominalized
+183471	nominalized
+183475	nominalized
+183477	nominalized
 183481	nominalized
 183489	nominalized
+183494	nominalized
+183496	nominalized
+nominalized
+183507	nominalized
 183515	nominalized
+183521	nominalized
+183526	nominalized
+183534	nominalized
+183538	nominalized
+183544	nominalized
+183553	nominalized
 nominalized
-183531	nominalized
-183536	nominalized
-183542	nominalized
-183550	nominalized
-183581	nominalized
+183557	nominalized
+183566	nominalized
+183571	nominalized
+183575	nominalized
+183578	nominalized
+183587	nominalized
+183600	nominalized
 nominalized
-183586	nominalized
-183591	nominalized
-183653	nominalized
+183607	nominalized
+nominalized
+183610	nominalized
+183612	nominalized
+183614	nominalized
+nominalized
+183621	nominalized
+183631	nominalized
+183636	nominalized
+183642	nominalized
+183646	nominalized
+183648	nominalized
+nominalized
 183655	nominalized
-183665	nominalized
-183667	nominalized
-183670	nominalized
+nominalized
+183666	nominalized
+nominalized
+183673	nominalized
+183676	nominalized
+183694	nominalized
 183702	nominalized
-183716	nominalized
-183733	nominalized
-183754	nominalized
+183707	nominalized
+183718	nominalized
+183720	nominalized
+183729	nominalized
+183767	nominalized
+183769	nominalized
 nominalized
-183766	nominalized
-183774	nominalized
-183789	nominalized
-183809	nominalized
-183855	nominalized
-183865	nominalized
-183908	nominalized
-183911	nominalized
-183930	nominalized
-183932	nominalized
-183935	nominalized
-183949	nominalized
-183951	nominalized
-183964	nominalized
-183970	nominalized
-183977	nominalized
-183982	nominalized
+183775	nominalized
+183785	nominalized
+nominalized
+183816	nominalized
+183830	nominalized
+183833	nominalized
+183836	nominalized
 nominalized
 nominalized
-183988	nominalized
-184009	nominalized
-184011	nominalized
-184044	nominalized
+183845	nominalized
+183854	nominalized
+183863	nominalized
 nominalized
-184065	nominalized
-184074	nominalized
+nominalized
+183868	nominalized
+183875	nominalized
+183880	nominalized
+183894	nominalized
+183898	nominalized
+183900	nominalized
+183906	nominalized
+183912	nominalized
+183916	nominalized
+183918	nominalized
+183927	nominalized
+183939	nominalized
+183952	nominalized
+183954	nominalized
+183960	nominalized
+183962	nominalized
+183974	nominalized
+183981	nominalized
+183984	nominalized
+183987	nominalized
+183990	nominalized
+183995	nominalized
+183999	nominalized
+184001	nominalized
+184004	nominalized
+nominalized
+nominalized
+184014	nominalized
+nominalized
+184019	nominalized
+184023	nominalized
+184027	nominalized
+184038	nominalized
+184050	nominalized
+184063	nominalized
+nominalized
+nominalized
+nominalized
+184075	nominalized
+nominalized
+184078	nominalized
 184080	nominalized
-184086	nominalized
-184107	nominalized
-184112	nominalized
-184116	nominalized
-184122	nominalized
 nominalized
-184137	nominalized
-184164	nominalized
-184184	nominalized
-184193	nominalized
-184202	nominalized
-184205	nominalized
-184208	nominalized
-184211	nominalized
-184247	nominalized
-184258	nominalized
-184275	nominalized
-184284	nominalized
+184083	nominalized
+184096	nominalized
+184099	nominalized
+184102	nominalized
 nominalized
-184291	nominalized
-184293	nominalized
-184303	nominalized
-184305	nominalized
-184331	nominalized
-184334	nominalized
+184111	nominalized
+184140	nominalized
+184142	nominalized
+184144	nominalized
+184154	nominalized
+184158	nominalized
+184182	nominalized
+184194	nominalized
+nominalized
+184197	nominalized
+184221	nominalized
+184225	nominalized
+184227	nominalized
+184250	nominalized
+184255	nominalized
+184261	nominalized
+184264	nominalized
+184273	nominalized
+184286	nominalized
+184298	nominalized
+184312	nominalized
+184326	nominalized
+184344	nominalized
+184346	nominalized
+184356	nominalized
 184360	nominalized
+184373	nominalized
 nominalized
-184363	nominalized
-184365	nominalized
-184381	nominalized
-184416	nominalized
-184439	nominalized
-184467	nominalized
-184470	nominalized
-184475	nominalized
-184479	nominalized
-184499	nominalized
-184501	nominalized
-184509	nominalized
-184512	nominalized
+nominalized
+184399	nominalized
+184460	nominalized
+184497	nominalized
+184503	nominalized
+184505	nominalized
+184516	nominalized
+184538	nominalized
 184543	nominalized
-184547	nominalized
-184569	nominalized
-184594	nominalized
-184597	nominalized
+184581	nominalized
+184588	nominalized
+184603	nominalized
+184617	nominalized
 184619	nominalized
-184639	nominalized
-184736	nominalized
-184790	nominalized
+184626	nominalized
+184663	nominalized
+184676	nominalized
+184683	nominalized
+184685	nominalized
+184698	nominalized
+184701	nominalized
+184728	nominalized
+184742	nominalized
+184744	nominalized
+184748	nominalized
+184776	nominalized
+184779	nominalized
 184812	nominalized
-184815	nominalized
-184818	nominalized
-184856	nominalized
-184874	nominalized
-184877	nominalized
-184879	nominalized
-184911	nominalized
-184968	nominalized
-184971	nominalized
-184973	nominalized
-184977	nominalized
-184983	nominalized
-184985	nominalized
-184987	nominalized
+184830	nominalized
+184850	nominalized
+184861	nominalized
+nominalized
+184865	nominalized
+184867	nominalized
+184871	nominalized
+184876	nominalized
+184882	nominalized
+nominalized
+184886	nominalized
+nominalized
+184890	nominalized
+184892	nominalized
+184895	nominalized
+184898	nominalized
+184902	nominalized
+184904	nominalized
+184906	nominalized
+nominalized
+nominalized
+nominalized
+184914	nominalized
+184919	nominalized
+184929	nominalized
+184939	nominalized
+184945	nominalized
+184955	nominalized
+184957	nominalized
+184970	nominalized
+184984	nominalized
+184986	nominalized
+nominalized
+184992	nominalized
+185001	nominalized
+185005	nominalized
+185008	nominalized
+nominalized
+185011	nominalized
+nominalized
 185014	nominalized
-185018	nominalized
-185023	nominalized
-185034	nominalized
+185019	nominalized
+185026	nominalized
 nominalized
+nominalized
+185032	nominalized
+185035	nominalized
+185040	nominalized
 185043	nominalized
+185045	nominalized
+185050	nominalized
 185052	nominalized
-185059	nominalized
-185086	nominalized
-185092	nominalized
-185130	nominalized
-185138	nominalized
+185097	nominalized
+nominalized
+185101	nominalized
+185103	nominalized
+185109	nominalized
+185111	nominalized
+185114	nominalized
+185117	nominalized
+185129	nominalized
+185133	nominalized
+185137	nominalized
 185142	nominalized
-185172	nominalized
-185175	nominalized
-185185	nominalized
-185198	nominalized
-185205	nominalized
-185215	nominalized
-185218	nominalized
-185221	nominalized
-185238	nominalized
-185264	nominalized
-185289	nominalized
-185298	nominalized
-185309	nominalized
-185311	nominalized
-185332	nominalized
-185338	nominalized
+185154	nominalized
+185157	nominalized
+185169	nominalized
+185176	nominalized
+185190	nominalized
+185194	nominalized
+185209	nominalized
+185214	nominalized
 nominalized
-185370	nominalized
-185372	nominalized
-185377	nominalized
-185380	nominalized
-185427	nominalized
+185217	nominalized
+185220	nominalized
+185236	nominalized
+185242	nominalized
 nominalized
+nominalized
+185246	nominalized
+185256	nominalized
+185258	nominalized
+185261	nominalized
+185268	nominalized
+185270	nominalized
+185272	nominalized
+185302	nominalized
+nominalized
+185340	nominalized
+185346	nominalized
+185355	nominalized
+185360	nominalized
+185390	nominalized
+185399	nominalized
+185408	nominalized
+185414	nominalized
+185422	nominalized
 185431	nominalized
-185433	nominalized
+185434	nominalized
+185458	nominalized
 nominalized
-185449	nominalized
-185465	nominalized
+185479	nominalized
+185482	nominalized
+185496	nominalized
+185504	nominalized
+185512	nominalized
+185515	nominalized
 nominalized
 nominalized
-185499	nominalized
+185531	nominalized
+185533	nominalized
+185540	nominalized
+nominalized
+185547	nominalized
 185562	nominalized
-185570	nominalized
-185583	nominalized
-185622	nominalized
+185566	nominalized
+185579	nominalized
+185585	nominalized
+185590	nominalized
+185592	nominalized
 nominalized
-185644	nominalized
+185606	nominalized
+185610	nominalized
 nominalized
-185694	nominalized
-185731	nominalized
-185733	nominalized
-185761	nominalized
-185763	nominalized
-185776	nominalized
-185784	nominalized
-185799	nominalized
-185810	nominalized
+185618	nominalized
+nominalized
+185624	nominalized
+185626	nominalized
+185631	nominalized
+185642	nominalized
+185646	nominalized
+185654	nominalized
+185656	nominalized
+185667	nominalized
+nominalized
+185678	nominalized
+185701	nominalized
+nominalized
+185711	nominalized
+185715	nominalized
+nominalized
+185724	nominalized
+185736	nominalized
+185739	nominalized
+nominalized
+185756	nominalized
 nominalized
 nominalized
+nominalized
+nominalized
+nominalized
+185772	nominalized
+nominalized
+185777	nominalized
+nominalized
+185790	nominalized
+nominalized
+185858	nominalized
+185868	nominalized
 185876	nominalized
-185912	nominalized
-185924	nominalized
-185930	nominalized
-185941	nominalized
-185944	nominalized
-185947	nominalized
-185960	nominalized
-185971	nominalized
-185988	nominalized
-186014	nominalized
-186042	nominalized
+185884	nominalized
+185886	nominalized
+185889	nominalized
+185896	nominalized
+185903	nominalized
+185909	nominalized
+185961	nominalized
+186009	nominalized
+186013	nominalized
+186016	nominalized
+186019	nominalized
+186023	nominalized
+186027	nominalized
+186031	nominalized
+186035	nominalized
 nominalized
-186060	nominalized
-186062	nominalized
-186073	nominalized
-186077	nominalized
-186089	nominalized
-186095	nominalized
-186100	nominalized
-186106	nominalized
-186116	nominalized
-186129	nominalized
-186134	nominalized
-186140	nominalized
-186152	nominalized
-186166	nominalized
-186228	nominalized
-186241	nominalized
+186069	nominalized
+186084	nominalized
+186097	nominalized
+186102	nominalized
+186115	nominalized
+186118	nominalized
+186125	nominalized
+186130	nominalized
+186138	nominalized
+186150	nominalized
+186154	nominalized
+186157	nominalized
+186182	nominalized
+186185	nominalized
+186190	nominalized
+186199	nominalized
 nominalized
-186246	nominalized
-186275	nominalized
-186301	nominalized
+186230	nominalized
 nominalized
-186307	nominalized
+nominalized
+186247	nominalized
+186254	nominalized
+nominalized
+186265	nominalized
+nominalized
+nominalized
+186270	nominalized
+nominalized
+186274	nominalized
+186276	nominalized
+186296	nominalized
+nominalized
+nominalized
 186309	nominalized
-186311	nominalized
-186324	nominalized
-186333	nominalized
-186342	nominalized
+186314	nominalized
+186355	nominalized
 186363	nominalized
-186367	nominalized
+186368	nominalized
+186388	nominalized
+186400	nominalized
+186402	nominalized
 nominalized
-186371	nominalized
-186382	nominalized
-186385	nominalized
-186401	nominalized
+nominalized
+nominalized
 186411	nominalized
-186415	nominalized
-186417	nominalized
-186430	nominalized
+186420	nominalized
+186422	nominalized
+186424	nominalized
+186441	nominalized
+186445	nominalized
+186449	nominalized
+186458	nominalized
+186467	nominalized
+186473	nominalized
+186488	nominalized
+186491	nominalized
+186494	nominalized
+186503	nominalized
+186506	nominalized
+186513	nominalized
+186517	nominalized
+186526	nominalized
 nominalized
-186455	nominalized
+186531	nominalized
+186539	nominalized
+186551	nominalized
+186555	nominalized
+186579	nominalized
+186582	nominalized
+186584	nominalized
+186602	nominalized
+186617	nominalized
+186624	nominalized
+186628	nominalized
+186635	nominalized
+186649	nominalized
+186664	nominalized
+186685	nominalized
 nominalized
+186689	nominalized
 nominalized
-186499	nominalized
-186509	nominalized
-nominalized
-186570	nominalized
-186575	nominalized
-nominalized
-186578	nominalized
-nominalized
-186593	nominalized
-186609	nominalized
-nominalized
-186618	nominalized
-186630	nominalized
-186639	nominalized
-186645	nominalized
-186652	nominalized
-186661	nominalized
-186688	nominalized
-186693	nominalized
-186705	nominalized
-186711	nominalized
-186719	nominalized
-186721	nominalized
-186733	nominalized
+186704	nominalized
+186708	nominalized
+186717	nominalized
+186726	nominalized
+186729	nominalized
+186754	nominalized
+186768	nominalized
 186772	nominalized
-186781	nominalized
-186786	nominalized
-186791	nominalized
-186840	nominalized
-186842	nominalized
-186847	nominalized
+186785	nominalized
+186789	nominalized
+186803	nominalized
+186821	nominalized
+186824	nominalized
+186837	nominalized
+nominalized
+nominalized
+nominalized
+nominalized
+nominalized
+186850	nominalized
 186852	nominalized
-186856	nominalized
-186876	nominalized
+186854	nominalized
+186862	nominalized
+186866	nominalized
+186869	nominalized
+nominalized
+186880	nominalized
+nominalized
 186884	nominalized
-186891	nominalized
+186886	nominalized
+186889	nominalized
 186897	nominalized
-186905	nominalized
-186924	nominalized
-186942	nominalized
-186952	nominalized
-186954	nominalized
 nominalized
-186958	nominalized
+nominalized
+186901	nominalized
+nominalized
+186906	nominalized
+186908	nominalized
+186911	nominalized
+186914	nominalized
+186919	nominalized
+186926	nominalized
+186929	nominalized
+186932	nominalized
+186934	nominalized
+186939	nominalized
+186953	nominalized
 186963	nominalized
+186966	nominalized
 186969	nominalized
-186972	nominalized
-186974	nominalized
-186977	nominalized
-nominalized
+186975	nominalized
 186981	nominalized
-186983	nominalized
+nominalized
+nominalized
+186995	nominalized
 187001	nominalized
-187007	nominalized
-187010	nominalized
-nominalized
-187022	nominalized
-187025	nominalized
-187032	nominalized
-187035	nominalized
-187044	nominalized
-nominalized
-nominalized
+187016	nominalized
+187042	nominalized
+187053	nominalized
+187055	nominalized
+187057	nominalized
 187060	nominalized
-187074	nominalized
 nominalized
-187093	nominalized
-187103	nominalized
-187105	nominalized
-187108	nominalized
-187111	nominalized
-187118	nominalized
-187123	nominalized
-187162	nominalized
-187165	nominalized
-187177	nominalized
-187182	nominalized
-187187	nominalized
-187191	nominalized
-187196	nominalized
-187199	nominalized
-187209	nominalized
-187212	nominalized
-187218	nominalized
+187069	nominalized
+187071	nominalized
+187082	nominalized
+187117	nominalized
+187120	nominalized
+187125	nominalized
+187127	nominalized
+187132	nominalized
+nominalized
+187143	nominalized
+187149	nominalized
+nominalized
+187163	nominalized
+187167	nominalized
+187172	nominalized
+187174	nominalized
+nominalized
+187181	nominalized
+187186	nominalized
+nominalized
+187193	nominalized
+187205	nominalized
+187210	nominalized
+187213	nominalized
+187217	nominalized
+187219	nominalized
 187222	nominalized
-187229	nominalized
-187232	nominalized
-187253	nominalized
-187257	nominalized
-187259	nominalized
-187261	nominalized
-187266	nominalized
-187276	nominalized
-187307	nominalized
-187314	nominalized
-187336	nominalized
-187345	nominalized
+187227	nominalized
+187237	nominalized
+187243	nominalized
+187263	nominalized
+187273	nominalized
+187279	nominalized
+187281	nominalized
+187285	nominalized
 nominalized
-187365	nominalized
-187367	nominalized
-187384	nominalized
-187391	nominalized
-187409	nominalized
-187418	nominalized
+nominalized
+nominalized
+187293	nominalized
+187296	nominalized
+187309	nominalized
+187315	nominalized
+187327	nominalized
+187349	nominalized
+187356	nominalized
+187364	nominalized
+187370	nominalized
+187372	nominalized
+187383	nominalized
+nominalized
+nominalized
+187395	nominalized
+187415	nominalized
+187419	nominalized
+187422	nominalized
 187428	nominalized
-187433	nominalized
-187469	nominalized
-187474	nominalized
+187436	nominalized
+187440	nominalized
 187481	nominalized
-187486	nominalized
-187520	nominalized
-187528	nominalized
-187535	nominalized
-187561	nominalized
-187603	nominalized
-187620	nominalized
-187730	nominalized
-187756	nominalized
-187760	nominalized
-187766	nominalized
-187781	nominalized
-187786	nominalized
+187496	nominalized
+nominalized
+187519	nominalized
+187527	nominalized
+187534	nominalized
+nominalized
+187540	nominalized
+nominalized
+187551	nominalized
+187568	nominalized
+187571	nominalized
+187575	nominalized
+187585	nominalized
+187596	nominalized
+187599	nominalized
+187602	nominalized
+187609	nominalized
+187611	nominalized
+187614	nominalized
+187618	nominalized
+187637	nominalized
+nominalized
+187640	nominalized
+187677	nominalized
+nominalized
+187684	nominalized
+187692	nominalized
+nominalized
+187725	nominalized
+187735	nominalized
+nominalized
+nominalized
+187743	nominalized
+187771	nominalized
 187792	nominalized
-187799	nominalized
+187794	nominalized
 187814	nominalized
-187825	nominalized
-187842	nominalized
-187846	nominalized
-187848	nominalized
-187869	nominalized
-187871	nominalized
+187840	nominalized
+187854	nominalized
+187856	nominalized
+187867	nominalized
+187878	nominalized
+187920	nominalized
 187938	nominalized
-187950	nominalized
-187954	nominalized
-187960	nominalized
-187969	nominalized
-187978	nominalized
+187941	nominalized
+nominalized
+187953	nominalized
+nominalized
+187970	nominalized
+nominalized
+nominalized
+187985	nominalized
 188010	nominalized
-nominalized
-nominalized
-nominalized
-188023	nominalized
-188025	nominalized
-188028	nominalized
-nominalized
-188063	nominalized
-188065	nominalized
-nominalized
-188069	nominalized
-188114	nominalized
-188118	nominalized
-188121	nominalized
-188133	nominalized
-188135	nominalized
-188167	nominalized
+188021	nominalized
+188033	nominalized
+188053	nominalized
+188081	nominalized
+188102	nominalized
+188108	nominalized
+188149	nominalized
+188151	nominalized
+188183	nominalized
+188205	nominalized
+188208	nominalized
+188219	nominalized
+188222	nominalized
+188226	nominalized
+188239	nominalized
 188242	nominalized
-188256	nominalized
-188277	nominalized
-188282	nominalized
-188291	nominalized
-188295	nominalized
+188246	nominalized
+188260	nominalized
+188273	nominalized
+188283	nominalized
+188285	nominalized
 nominalized
-188309	nominalized
-188327	nominalized
-188344	nominalized
-188352	nominalized
+188293	nominalized
+188315	nominalized
+188337	nominalized
+188341	nominalized
 nominalized
-188359	nominalized
+nominalized
+nominalized
+188349	nominalized
+nominalized
 188366	nominalized
-188371	nominalized
 nominalized
 nominalized
-188378	nominalized
-188381	nominalized
-188386	nominalized
-188388	nominalized
-188409	nominalized
-188414	nominalized
-188431	nominalized
-188436	nominalized
+188374	nominalized
+188376	nominalized
+188406	nominalized
+188412	nominalized
+188420	nominalized
 188438	nominalized
+188451	nominalized
+188469	nominalized
+188476	nominalized
+188478	nominalized
+188492	nominalized
+188500	nominalized
+188509	nominalized
+188542	nominalized
+188549	nominalized
+188552	nominalized
+188563	nominalized
+188570	nominalized
+188575	nominalized
+188616	nominalized
+188624	nominalized
+188631	nominalized
 nominalized
-nominalized
-nominalized
-nominalized
-nominalized
-188452	nominalized
-188465	nominalized
-nominalized
-nominalized
-188475	nominalized
-nominalized
-188497	nominalized
-188524	nominalized
-188574	nominalized
-188578	nominalized
-nominalized
-188583	nominalized
-188592	nominalized
-188600	nominalized
-188603	nominalized
-188605	nominalized
-188626	nominalized
-nominalized
-nominalized
-188633	nominalized
-188636	nominalized
-188665	nominalized
-188704	nominalized
-188706	nominalized
-188708	nominalized
-188715	nominalized
-188717	nominalized
+188640	nominalized
+188650	nominalized
+188653	nominalized
+188667	nominalized
+188678	nominalized
+188693	nominalized
+188698	nominalized
+188713	nominalized
 188720	nominalized
-188725	nominalized
-188731	nominalized
-188734	nominalized
+188736	nominalized
 nominalized
-188737	nominalized
-188744	nominalized
-188748	nominalized
-188756	nominalized
-188764	nominalized
-188803	nominalized
-188815	nominalized
-188818	nominalized
-188822	nominalized
-188825	nominalized
-188835	nominalized
-188853	nominalized
 nominalized
-188856	nominalized
-188864	nominalized
+188749	nominalized
+188768	nominalized
+188778	nominalized
+188781	nominalized
+188793	nominalized
 nominalized
-188871	nominalized
-188891	nominalized
-188921	nominalized
+188796	nominalized
+188806	nominalized
+188824	nominalized
+188827	nominalized
+188836	nominalized
 nominalized
-188924	nominalized
-188937	nominalized
+188841	nominalized
+188843	nominalized
+nominalized
+188849	nominalized
+188855	nominalized
+nominalized
+nominalized
+188877	nominalized
+188882	nominalized
+188894	nominalized
+188905	nominalized
+nominalized
+nominalized
+188918	nominalized
+188920	nominalized
+188925	nominalized
+nominalized
 188939	nominalized
-188959	nominalized
-188973	nominalized
-188987	nominalized
-188989	nominalized
+188953	nominalized
+188962	nominalized
+188974	nominalized
+188985	nominalized
+188988	nominalized
+188992	nominalized
+189000	nominalized
+189021	nominalized
+189033	nominalized
+189042	nominalized
+189046	nominalized
+189076	nominalized
+189110	nominalized
+189116	nominalized
+189118	nominalized
+189141	nominalized
+189144	nominalized
+189162	nominalized
+189165	nominalized
+189186	nominalized
+189192	nominalized
+189200	nominalized
+189221	nominalized
 nominalized
-189017	nominalized
+189230	nominalized
+189241	nominalized
+189254	nominalized
+nominalized
+189277	nominalized
+189284	nominalized
 nominalized
 nominalized
-189031	nominalized
+189290	nominalized
+189296	nominalized
 nominalized
-189050	nominalized
-189055	nominalized
-189062	nominalized
-189069	nominalized
-189079	nominalized
-189089	nominalized
-189096	nominalized
-189098	nominalized
-189100	nominalized
-189143	nominalized
-189174	nominalized
-189184	nominalized
-189193	nominalized
-189216	nominalized
-189222	nominalized
-189225	nominalized
-189228	nominalized
-189259	nominalized
 189301	nominalized
-189312	nominalized
-189324	nominalized
+189309	nominalized
 189327	nominalized
-189340	nominalized
-189343	nominalized
-189349	nominalized
-189358	nominalized
-189376	nominalized
-189422	nominalized
-189426	nominalized
-189450	nominalized
-189456	nominalized
-189469	nominalized
-189487	nominalized
-189492	nominalized
-189512	nominalized
-189525	nominalized
+189329	nominalized
+189331	nominalized
 nominalized
-189542	nominalized
-189556	nominalized
-189558	nominalized
-189576	nominalized
-189580	nominalized
-189587	nominalized
-189613	nominalized
-189620	nominalized
-189631	nominalized
-189640	nominalized
-189642	nominalized
-189644	nominalized
-189657	nominalized
-189659	nominalized
+nominalized
+nominalized
+189345	nominalized
+nominalized
+189356	nominalized
+189368	nominalized
+189371	nominalized
+nominalized
+nominalized
+189382	nominalized
+nominalized
+nominalized
+nominalized
+189404	nominalized
+nominalized
+nominalized
+189412	nominalized
+nominalized
+189418	nominalized
+189434	nominalized
+nominalized
+189437	nominalized
+189453	nominalized
+189479	nominalized
+nominalized
+189483	nominalized
+nominalized
+189504	nominalized
+189509	nominalized
+189562	nominalized
+189571	nominalized
+189582	nominalized
+nominalized
+189586	nominalized
+189589	nominalized
+189605	nominalized
+nominalized
+189608	nominalized
+189649	nominalized
+189661	nominalized
+189675	nominalized
 189685	nominalized
-189717	nominalized
-189721	nominalized
-189737	nominalized
+189715	nominalized
+189729	nominalized
+189742	nominalized
+189752	nominalized
+189754	nominalized
 189758	nominalized
-189809	nominalized
+189775	nominalized
+189784	nominalized
+189794	nominalized
+189807	nominalized
+189814	nominalized
 nominalized
-189854	nominalized
-189857	nominalized
-189859	nominalized
-189863	nominalized
-189866	nominalized
-189871	nominalized
-189877	nominalized
-189880	nominalized
-189882	nominalized
-189893	nominalized
-189897	nominalized
-189943	nominalized
-189946	nominalized
-189961	nominalized
-189963	nominalized
-189969	nominalized
-189976	nominalized
+189817	nominalized
+189820	nominalized
+189824	nominalized
+189828	nominalized
+189830	nominalized
+189840	nominalized
+189855	nominalized
+189865	nominalized
+189868	nominalized
 nominalized
-189981	nominalized
-189988	nominalized
+189885	nominalized
+189901	nominalized
+189908	nominalized
+189916	nominalized
+189918	nominalized
+189926	nominalized
 nominalized
-189991	nominalized
-189995	nominalized
-189999	nominalized
-190007	nominalized
-190012	nominalized
-190022	nominalized
+nominalized
+189940	nominalized
+189944	nominalized
+189973	nominalized
+189998	nominalized
+190014	nominalized
+190017	nominalized
+190027	nominalized
+190034	nominalized
 190036	nominalized
+190040	nominalized
+190042	nominalized
+190058	nominalized
 190066	nominalized
-nominalized
-190073	nominalized
-nominalized
-190088	nominalized
-190093	nominalized
+190081	nominalized
+190090	nominalized
 190098	nominalized
-190111	nominalized
-190118	nominalized
-190171	nominalized
-190206	nominalized
+190151	nominalized
+190156	nominalized
+190164	nominalized
 nominalized
-190217	nominalized
+190195	nominalized
 nominalized
-190224	nominalized
-190226	nominalized
+190201	nominalized
+190204	nominalized
+190214	nominalized
+190223	nominalized
+190232	nominalized
 190251	nominalized
-190253	nominalized
-190257	nominalized
+190263	nominalized
+190276	nominalized
+190281	nominalized
+190284	nominalized
 190287	nominalized
-190295	nominalized
-190306	nominalized
-190314	nominalized
-nominalized
-190320	nominalized
-190331	nominalized
-190343	nominalized
-190360	nominalized
-190363	nominalized
-190386	nominalized
-nominalized
-190422	nominalized
-190442	nominalized
-190450	nominalized
-nominalized
-190468	nominalized
-190483	nominalized
-190485	nominalized
-190487	nominalized
-190492	nominalized
-nominalized
-190506	nominalized
-190513	nominalized
-190516	nominalized
-190534	nominalized
-190550	nominalized
-190561	nominalized
-nominalized
-190579	nominalized
-190597	nominalized
-190626	nominalized
-190636	nominalized
-190663	nominalized
-190690	nominalized
-190700	nominalized
-190712	nominalized
-190715	nominalized
-190722	nominalized
-190732	nominalized
-190764	nominalized
-190767	nominalized
-nominalized
-190775	nominalized
-190786	nominalized
-190798	nominalized
-190810	nominalized
-190812	nominalized
-190833	nominalized
-190841	nominalized
-190847	nominalized
-nominalized
-nominalized
-190862	nominalized
-190871	nominalized
-190876	nominalized
-190882	nominalized
-190891	nominalized
-190894	nominalized
-nominalized
-190898	nominalized
-nominalized
-190917	nominalized
-190924	nominalized
-190933	nominalized
-nominalized
-190951	nominalized
-190964	nominalized
-nominalized
-190974	nominalized
-190977	nominalized
-190994	nominalized
-191003	nominalized
-191010	nominalized
-191018	nominalized
-191022	nominalized
-nominalized
-191028	nominalized
-191037	nominalized
-nominalized
-191046	nominalized
-191051	nominalized
-191070	nominalized
-nominalized
-191079	nominalized
-191081	nominalized
-191090	nominalized
-191097	nominalized
-nominalized
-191100	nominalized
-191105	nominalized
-191107	nominalized
-191109	nominalized
-191143	nominalized
-191147	nominalized
-191155	nominalized
-191159	nominalized
-nominalized
-191171	nominalized
-191175	nominalized
-191187	nominalized
-191189	nominalized
-191194	nominalized
-nominalized
-191203	nominalized
-191213	nominalized
-191220	nominalized
-191247	nominalized
-191251	nominalized
-191254	nominalized
-191262	nominalized
-191265	nominalized
-191280	nominalized
-191282	nominalized
-191288	nominalized
-191300	nominalized
-191311	nominalized
-191330	nominalized
-191333	nominalized
-191355	nominalized
-191381	nominalized
-nominalized
-191388	nominalized
-191409	nominalized
-nominalized
-191412	nominalized
-191420	nominalized
-191475	nominalized
-nominalized
-191480	nominalized
-191497	nominalized
-191507	nominalized
-nominalized
-191513	nominalized
-191516	nominalized
-191528	nominalized
-191532	nominalized
-191541	nominalized
-nominalized
-nominalized
-191545	nominalized
-191552	nominalized
-191557	nominalized
-191563	nominalized
-191581	nominalized
-nominalized
-191585	nominalized
-191590	nominalized
-191595	nominalized
-191643	nominalized
-191669	nominalized
-nominalized
-191673	nominalized
-191676	nominalized
-191683	nominalized
-191687	nominalized
-191691	nominalized
-191704	nominalized
-191752	nominalized
-191783	nominalized
-191802	nominalized
-191811	nominalized
-191820	nominalized
-191822	nominalized
-nominalized
-191825	nominalized
-191877	nominalized
-nominalized
-191902	nominalized
-nominalized
-191905	nominalized
-191937	nominalized
-191990	nominalized
-191992	nominalized
-191995	nominalized
-191997	nominalized
-192004	nominalized
-192013	nominalized
-192017	nominalized
-192028	nominalized
-nominalized
-192049	nominalized
-192058	nominalized
-192066	nominalized
-nominalized
-192069	nominalized
-nominalized
-192077	nominalized
-192080	nominalized
-nominalized
-192096	nominalized
-192107	nominalized
-nominalized
-192112	nominalized
-192114	nominalized
-192129	nominalized
-192131	nominalized
-nominalized
-192136	nominalized
-192146	nominalized
-192151	nominalized
-192153	nominalized
-192160	nominalized
-192166	nominalized
-192171	nominalized
-192186	nominalized
-192210	nominalized
-nominalized
-192214	nominalized
-192238	nominalized
-192242	nominalized
-192245	nominalized
-nominalized
-192253	nominalized
-192275	nominalized
-192280	nominalized
-192302	nominalized
-192306	nominalized
-192328	nominalized
-192340	nominalized
-192344	nominalized
-192361	nominalized
-192363	nominalized
-192368	nominalized
-192372	nominalized
-192385	nominalized
-192394	nominalized
-192425	nominalized
-192432	nominalized
-192441	nominalized
-192446	nominalized
-192448	nominalized
-nominalized
-192452	nominalized
-192461	nominalized
-192464	nominalized
-192470	nominalized
-192477	nominalized
-192500	nominalized
-192502	nominalized
-192512	nominalized
-192520	nominalized
-nominalized
-192524	nominalized
-192526	nominalized
-192530	nominalized
-192534	nominalized
-192539	nominalized
-192544	nominalized
-192553	nominalized
-192566	nominalized
-192593	nominalized
-nominalized
-192596	nominalized
-192598	nominalized
-nominalized
-192601	nominalized
-192604	nominalized
-nominalized
-192611	nominalized
-192613	nominalized
-192617	nominalized
-192624	nominalized
-192629	nominalized
-192636	nominalized
-192649	nominalized
-192656	nominalized
-192659	nominalized
-192666	nominalized
-192670	nominalized
-192677	nominalized
-192690	nominalized
-192714	nominalized
-nominalized
-192720	nominalized
-192726	nominalized
-192736	nominalized
-192742	nominalized
-192744	nominalized
-192748	nominalized
-192767	nominalized
-nominalized
-192772	nominalized
-192777	nominalized
-192780	nominalized
-192786	nominalized
-192790	nominalized
-192809	nominalized
-192813	nominalized
-192817	nominalized
-192822	nominalized
-192828	nominalized
-192830	nominalized
-192842	nominalized
-192844	nominalized
-192856	nominalized
-192861	nominalized
-192884	nominalized
-192895	nominalized
-192925	nominalized
-192929	nominalized
-192931	nominalized
-192941	nominalized
-192946	nominalized
-192951	nominalized
-nominalized
-192956	nominalized
-nominalized
-nominalized
-192960	nominalized
-192964	nominalized
-192968	nominalized
-nominalized
-nominalized
-192982	nominalized
-192990	nominalized
-192993	nominalized
-193000	nominalized
-193004	nominalized
-193009	nominalized
-193015	nominalized
-193031	nominalized
-193033	nominalized
-193035	nominalized
-nominalized
-193044	nominalized
-193047	nominalized
-nominalized
-193050	nominalized
-193058	nominalized
-193076	nominalized
-193089	nominalized
-193104	nominalized
-193109	nominalized
-nominalized
-nominalized
-193116	nominalized
-193118	nominalized
-193123	nominalized
-193125	nominalized
-193128	nominalized
-193135	nominalized
-193137	nominalized
-193143	nominalized
-193163	nominalized
-193166	nominalized
-193177	nominalized
-193181	nominalized
-193191	nominalized
-193202	nominalized
-193206	nominalized
-193208	nominalized
-193213	nominalized
-193222	nominalized
-193228	nominalized
-193231	nominalized
-193233	nominalized
-193244	nominalized
-193255	nominalized
-193261	nominalized
-193267	nominalized
-193276	nominalized
-193281	nominalized
-193287	nominalized
-193298	nominalized
-nominalized
-193303	nominalized
-193314	nominalized
-193320	nominalized
-193325	nominalized
-193329	nominalized
-193341	nominalized
-193358	nominalized
-nominalized
-193365	nominalized
-nominalized
-193368	nominalized
-193370	nominalized
-193372	nominalized
-nominalized
-193380	nominalized
-193392	nominalized
-193397	nominalized
-193404	nominalized
-193408	nominalized
-193410	nominalized
-nominalized
-193419	nominalized
-nominalized
-193433	nominalized
-nominalized
-193441	nominalized
-193445	nominalized
-193469	nominalized
-193478	nominalized
-193484	nominalized
-193497	nominalized
-193499	nominalized
-193508	nominalized
-193552	nominalized
-193554	nominalized
-nominalized
-193561	nominalized
-193575	nominalized
-nominalized
-193611	nominalized
-193627	nominalized
-193631	nominalized
-193637	nominalized
-nominalized
-nominalized
-193646	nominalized
-193656	nominalized
-193665	nominalized
-nominalized
-nominalized
-193671	nominalized
-193679	nominalized
-193684	nominalized
-193703	nominalized
-193707	nominalized
-193709	nominalized
-193716	nominalized
-193723	nominalized
-193727	nominalized
-193729	nominalized
-193741	nominalized
-193757	nominalized
-193771	nominalized
-193773	nominalized
-193780	nominalized
-193782	nominalized
-193796	nominalized
-193807	nominalized
-193811	nominalized
-193815	nominalized
-193819	nominalized
-193825	nominalized
-193830	nominalized
-193832	nominalized
-193836	nominalized
-nominalized
-nominalized
-193847	nominalized
-nominalized
-193852	nominalized
-193857	nominalized
-193862	nominalized
-193875	nominalized
-193890	nominalized
-193908	nominalized
-nominalized
-nominalized
-nominalized
-193924	nominalized
-193926	nominalized
-193928	nominalized
-193931	nominalized
-nominalized
-193934	nominalized
-193949	nominalized
-193952	nominalized
-193956	nominalized
-nominalized
-193967	nominalized
-193998	nominalized
-194002	nominalized
-194005	nominalized
-194018	nominalized
-194023	nominalized
-194055	nominalized
-194067	nominalized
-194069	nominalized
-194071	nominalized
-194103	nominalized
-194108	nominalized
-194110	nominalized
-194138	nominalized
-194144	nominalized
-194151	nominalized
-194154	nominalized
-194165	nominalized
-194182	nominalized
-194195	nominalized
-194216	nominalized
-194238	nominalized
-194260	nominalized
-194262	nominalized
-194274	nominalized
-194280	nominalized
-194294	nominalized
-nominalized
-nominalized
-194325	nominalized
-194399	nominalized
-194443	nominalized
-194450	nominalized
-194452	nominalized
-194467	nominalized
-194497	nominalized
-194503	nominalized
-194553	nominalized
-194562	nominalized
-194581	nominalized
-194596	nominalized
-194598	nominalized
-194606	nominalized
-194652	nominalized
-194669	nominalized
-194677	nominalized
-194680	nominalized
-194696	nominalized
-194700	nominalized
-194735	nominalized
-194755	nominalized
-194757	nominalized
-194761	nominalized
-194792	nominalized
-194795	nominalized
-194833	nominalized
-194856	nominalized
-194880	nominalized
-194903	nominalized
-nominalized
-194909	nominalized
-194912	nominalized
-194915	nominalized
-194921	nominalized
-194929	nominalized
-nominalized
-194933	nominalized
-nominalized
-194938	nominalized
-194941	nominalized
-194946	nominalized
-194951	nominalized
-194956	nominalized
-194961	nominalized
-194963	nominalized
-nominalized
-nominalized
-nominalized
-194972	nominalized
-194981	nominalized
-194993	nominalized
-195008	nominalized
-195016	nominalized
-195029	nominalized
-195031	nominalized
-195049	nominalized
-195065	nominalized
-195068	nominalized
-nominalized
-195074	nominalized
-195084	nominalized
-195089	nominalized
-195092	nominalized
-nominalized
-195095	nominalized
-195097	nominalized
-195099	nominalized
-195105	nominalized
-195113	nominalized
-nominalized
-nominalized
-195120	nominalized
-195123	nominalized
-195130	nominalized
-195134	nominalized
-195136	nominalized
-195143	nominalized
-195146	nominalized
-195202	nominalized
-nominalized
-195206	nominalized
-195208	nominalized
-195214	nominalized
-195216	nominalized
-195219	nominalized
-195223	nominalized
-195236	nominalized
-195244	nominalized
-195250	nominalized
-195255	nominalized
-195268	nominalized
-195272	nominalized
-195287	nominalized
-195295	nominalized
-195314	nominalized
-195318	nominalized
-195338	nominalized
-195344	nominalized
-nominalized
-195347	nominalized
-195352	nominalized
-195368	nominalized
-195377	nominalized
-195379	nominalized
-nominalized
-195387	nominalized
-195400	nominalized
-195402	nominalized
-195406	nominalized
-195415	nominalized
-195417	nominalized
-195420	nominalized
-195458	nominalized
-195460	nominalized
-195512	nominalized
-195519	nominalized
-195529	nominalized
-195536	nominalized
-195573	nominalized
-195583	nominalized
-195594	nominalized
-195601	nominalized
-195616	nominalized
-195634	nominalized
-195639	nominalized
-195669	nominalized
-nominalized
-195696	nominalized
-195699	nominalized
-195717	nominalized
-195733	nominalized
-195741	nominalized
-195744	nominalized
-nominalized
-nominalized
-195763	nominalized
-195765	nominalized
-195772	nominalized
-nominalized
-195783	nominalized
-195803	nominalized
-195809	nominalized
-195825	nominalized
-195831	nominalized
-195837	nominalized
-195840	nominalized
-nominalized
-195857	nominalized
-195863	nominalized
-nominalized
-195872	nominalized
-nominalized
-195879	nominalized
-195881	nominalized
-195886	nominalized
-195903	nominalized
-195907	nominalized
-195915	nominalized
-195918	nominalized
-195931	nominalized
-nominalized
-195943	nominalized
-195970	nominalized
-nominalized
-195983	nominalized
-195990	nominalized
-nominalized
-196000	nominalized
-196013	nominalized
-196016	nominalized
-196018	nominalized
-196039	nominalized
-196041	nominalized
-nominalized
-nominalized
-nominalized
-nominalized
-196058	nominalized
-nominalized
-196063	nominalized
-nominalized
-196081	nominalized
-nominalized
-196165	nominalized
-196176	nominalized
-196183	nominalized
-196193	nominalized
-196196	nominalized
-196199	nominalized
-196208	nominalized
-196216	nominalized
-196224	nominalized
-196277	nominalized
-196330	nominalized
-196335	nominalized
-196338	nominalized
-196341	nominalized
-196345	nominalized
-196351	nominalized
-196355	nominalized
-196358	nominalized
-196360	nominalized
-196398	nominalized
-196413	nominalized
-196426	nominalized
-196432	nominalized
-196446	nominalized
-196450	nominalized
-196457	nominalized
-196462	nominalized
-196471	nominalized
-196486	nominalized
-196490	nominalized
-196494	nominalized
-196520	nominalized
-196524	nominalized
-196529	nominalized
-196539	nominalized
-nominalized
-196575	nominalized
-nominalized
-nominalized
-196598	nominalized
-196604	nominalized
-196606	nominalized
-196617	nominalized
-nominalized
-196620	nominalized
-196624	nominalized
-196626	nominalized
-196630	nominalized
-196632	nominalized
-196653	nominalized
-nominalized
-nominalized
-196668	nominalized
-196673	nominalized
-196716	nominalized
-196727	nominalized
-196734	nominalized
-196753	nominalized
-196767	nominalized
-196769	nominalized
-196771	nominalized
-nominalized
-196774	nominalized
-196780	nominalized
-196790	nominalized
-196792	nominalized
-196794	nominalized
-196813	nominalized
-196819	nominalized
-196824	nominalized
-196834	nominalized
-196847	nominalized
-196854	nominalized
-196872	nominalized
-196875	nominalized
-196879	nominalized
-196889	nominalized
-196892	nominalized
-196900	nominalized
-196905	nominalized
-196916	nominalized
-nominalized
-196922	nominalized
-196933	nominalized
-196947	nominalized
-196952	nominalized
-196985	nominalized
-196990	nominalized
-196993	nominalized
-197019	nominalized
-197034	nominalized
-197044	nominalized
-197048	nominalized
-197055	nominalized
-197073	nominalized
-197092	nominalized
-197115	nominalized
-nominalized
-197121	nominalized
-nominalized
-197137	nominalized
-197142	nominalized
-197153	nominalized
-197161	nominalized
-197164	nominalized
-197197	nominalized
-197214	nominalized
-197220	nominalized
-197238	nominalized
-197243	nominalized
-197259	nominalized
-197282	nominalized
-197285	nominalized
-197301	nominalized
-197303	nominalized
-nominalized
-nominalized
-nominalized
-197309	nominalized
-197321	nominalized
-197324	nominalized
-197327	nominalized
-197336	nominalized
-197342	nominalized
-197346	nominalized
-nominalized
-197360	nominalized
-nominalized
-197364	nominalized
-197366	nominalized
-197370	nominalized
-197384	nominalized
-197387	nominalized
-nominalized
-197390	nominalized
-nominalized
-197397	nominalized
-197402	nominalized
-197406	nominalized
-197409	nominalized
-197414	nominalized
-197425	nominalized
-197428	nominalized
-197431	nominalized
-197434	nominalized
-197445	nominalized
-197465	nominalized
-197481	nominalized
-197484	nominalized
-197487	nominalized
-197498	nominalized
-197506	nominalized
-nominalized
-nominalized
-197522	nominalized
-197529	nominalized
-197547	nominalized
-197577	nominalized
-197591	nominalized
-197593	nominalized
-197595	nominalized
-197597	nominalized
-197600	nominalized
-197609	nominalized
-197611	nominalized
-197626	nominalized
-197667	nominalized
-197670	nominalized
-197675	nominalized
-197678	nominalized
-197685	nominalized
-nominalized
-197700	nominalized
-197707	nominalized
-nominalized
-197722	nominalized
-197726	nominalized
-197731	nominalized
-197735	nominalized
-nominalized
-197745	nominalized
-197751	nominalized
-197753	nominalized
-197760	nominalized
-197771	nominalized
-197775	nominalized
-197779	nominalized
-197785	nominalized
-197787	nominalized
-197790	nominalized
-197796	nominalized
-197809	nominalized
-197818	nominalized
-197841	nominalized
-197852	nominalized
-197863	nominalized
-197865	nominalized
-197869	nominalized
-nominalized
-nominalized
-nominalized
-197877	nominalized
-197880	nominalized
-197892	nominalized
-197898	nominalized
-197915	nominalized
-197943	nominalized
-197951	nominalized
-197960	nominalized
-197969	nominalized
-197971	nominalized
-197985	nominalized
-nominalized
-nominalized
-198000	nominalized
-198025	nominalized
-198029	nominalized
-198032	nominalized
-198037	nominalized
-198048	nominalized
-198052	nominalized
-198105	nominalized
-198120	nominalized
-nominalized
-198148	nominalized
-198157	nominalized
-198165	nominalized
-198167	nominalized
-198173	nominalized
-nominalized
-198186	nominalized
-198208	nominalized
-198211	nominalized
-198216	nominalized
-198228	nominalized
-198246	nominalized
-198249	nominalized
-198252	nominalized
-198262	nominalized
-198264	nominalized
-198268	nominalized
-198273	nominalized
-198295	nominalized
-nominalized
-198299	nominalized
-198347	nominalized
-nominalized
-198355	nominalized
-198366	nominalized
-198368	nominalized
-198411	nominalized
-198422	nominalized
-nominalized
-198426	nominalized
-198434	nominalized
-198469	nominalized
-198493	nominalized
-198496	nominalized
-198519	nominalized
-198552	nominalized
-198568	nominalized
-198572	nominalized
-198583	nominalized
-198597	nominalized
-198651	nominalized
-198672	nominalized
-198676	nominalized
-198678	nominalized
-198693	nominalized
-198695	nominalized
-198713	nominalized
-198715	nominalized
-nominalized
-198734	nominalized
-198764	nominalized
-198776	nominalized
-198792	nominalized
-198818	nominalized
-198853	nominalized
-198877	nominalized
-198886	nominalized
-198937	nominalized
-198940	nominalized
-198980	nominalized
-199007	nominalized
-199011	nominalized
-199022	nominalized
-199028	nominalized
-199033	nominalized
-199050	nominalized
-199054	nominalized
-199060	nominalized
-199076	nominalized
-199095	nominalized
-199107	nominalized
-199109	nominalized
-199111	nominalized
-199121	nominalized
-199148	nominalized
-199175	nominalized
-199179	nominalized
-nominalized
-199182	nominalized
-nominalized
-199190	nominalized
-nominalized
-199213	nominalized
-nominalized
-199216	nominalized
-199224	nominalized
-199227	nominalized
-199263	nominalized
-199271	nominalized
-199281	nominalized
-199305	nominalized
-199321	nominalized
-199345	nominalized
-199355	nominalized
-199358	nominalized
-199375	nominalized
-199383	nominalized
-199395	nominalized
-199438	nominalized
-199450	nominalized
-199453	nominalized
-199468	nominalized
-199477	nominalized
-199483	nominalized
-199536	nominalized
-199545	nominalized
-199554	nominalized
-nominalized
-199566	nominalized
-199582	nominalized
-199586	nominalized
-199604	nominalized
-199619	nominalized
-199637	nominalized
-199643	nominalized
-199661	nominalized
-199670	nominalized
-199689	nominalized
-nominalized
-199692	nominalized
-199706	nominalized
-199729	nominalized
-199743	nominalized
-199747	nominalized
-199761	nominalized
-nominalized
-199765	nominalized
-199776	nominalized
-199798	nominalized
-199802	nominalized
-199811	nominalized
-199813	nominalized
-199817	nominalized
-199820	nominalized
-nominalized
-199827	nominalized
-199835	nominalized
-nominalized
-nominalized
-199867	nominalized
-199874	nominalized
-199889	nominalized
-199903	nominalized
-199905	nominalized
-nominalized
-199921	nominalized
-199924	nominalized
-199929	nominalized
-nominalized
-199946	nominalized
-199964	nominalized
-199977	nominalized
-199996	nominalized
-200012	nominalized
-200016	nominalized
-200021	nominalized
-200031	nominalized
-200054	nominalized
-200069	nominalized
-200081	nominalized
-200085	nominalized
-200123	nominalized
-200168	nominalized
-200175	nominalized
-200178	nominalized
-200208	nominalized
-200211	nominalized
-200235	nominalized
-200238	nominalized
-200263	nominalized
-200272	nominalized
-200281	nominalized
-200309	nominalized
-nominalized
-200319	nominalized
-200332	nominalized
-200348	nominalized
-nominalized
-200375	nominalized
-200384	nominalized
-nominalized
-nominalized
-200390	nominalized
-200396	nominalized
-nominalized
-200403	nominalized
-200414	nominalized
-200441	nominalized
-200443	nominalized
-200446	nominalized
-nominalized
-nominalized
-200450	nominalized
-200463	nominalized
-nominalized
-200476	nominalized
-200491	nominalized
-200493	nominalized
-200495	nominalized
-nominalized
-200506	nominalized
-200508	nominalized
-200510	nominalized
-nominalized
-200537	nominalized
-200540	nominalized
-nominalized
-200547	nominalized
-200550	nominalized
-200557	nominalized
-200575	nominalized
-200577	nominalized
-200580	nominalized
-200601	nominalized
-200630	nominalized
-200632	nominalized
-200634	nominalized
-nominalized
-200661	nominalized
-200669	nominalized
-200738	nominalized
-200749	nominalized
-200762	nominalized
-nominalized
-200767	nominalized
-200770	nominalized
-200788	nominalized
-200790	nominalized
-200792	nominalized
-200844	nominalized
-200860	nominalized
-200878	nominalized
-200890	nominalized
-200928	nominalized
-200947	nominalized
-200963	nominalized
-200979	nominalized
-200981	nominalized
-200985	nominalized
-201007	nominalized
-201019	nominalized
-201033	nominalized
-201051	nominalized
-201060	nominalized
-nominalized
-201064	nominalized
-201067	nominalized
-201072	nominalized
-201078	nominalized
-201080	nominalized
-201097	nominalized
-201115	nominalized
-201129	nominalized
-201133	nominalized
-nominalized
-201154	nominalized
-201178	nominalized
-201188	nominalized
-201199	nominalized
-201203	nominalized
-201215	nominalized
-nominalized
-nominalized
-201233	nominalized
-201237	nominalized
-201279	nominalized
-201310	nominalized
-201330	nominalized
-201334	nominalized
-201345	nominalized
-201353	nominalized
-201356	nominalized
-201362	nominalized
-201365	nominalized
-201387	nominalized
-201400	nominalized
-201417	nominalized
-201429	nominalized
-201441	nominalized
-201508	nominalized
-201514	nominalized
-201526	nominalized
-nominalized
-201568	nominalized
-nominalized
-201574	nominalized
-201578	nominalized
-201592	nominalized
-201605	nominalized
-201616	nominalized
-201641	nominalized
-201655	nominalized
-201672	nominalized
-201678	nominalized
-201681	nominalized
-201684	nominalized
-201691	nominalized
-201701	nominalized
-201704	nominalized
+190292	nominalized
+190299	nominalized
+190302	nominalized
 398828	nominalized
 398832	nominalized
 398909	nominalized

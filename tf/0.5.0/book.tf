@@ -9,7 +9,7 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-16T20:43:10Z
+@dateWritten=2023-07-23T21:44:52Z
 
 Matthew
 Matthew
@@ -138078,10 +138078,13 @@ Revelation
 Revelation
 Revelation
 Matthew
+Matthew
+138070	Matthew
 138072	Matthew
-138074	Matthew
-138076	Matthew
+138075	Matthew
+138078	Matthew
 138080	Matthew
+138082	Matthew
 138084	Matthew
 138086	Matthew
 138088	Matthew
@@ -138091,6 +138094,7 @@ Matthew
 138096	Matthew
 138098	Matthew
 138100	Matthew
+138102	Matthew
 138104	Matthew
 138106	Matthew
 138108	Matthew
@@ -138101,10 +138105,11 @@ Matthew
 138118	Matthew
 138120	Matthew
 138122	Matthew
-138124	Matthew
-138126	Matthew
-138128	Matthew
-138130	Matthew
+138125	Matthew
+138127	Matthew
+138129	Matthew
+138131	Matthew
+138133	Matthew
 138135	Matthew
 138137	Matthew
 138139	Matthew
@@ -138112,94 +138117,121 @@ Matthew
 138143	Matthew
 138145	Matthew
 138147	Matthew
-138149	Matthew
-138151	Matthew
-138153	Matthew
-138155	Matthew
-138157	Matthew
-138160	Matthew
+Matthew
+138150	Matthew
+138152	Matthew
+138154	Matthew
+138156	Matthew
+138158	Matthew
+Matthew
+Matthew
 138163	Matthew
+Matthew
 138166	Matthew
+Matthew
 138169	Matthew
-138172	Matthew
-138175	Matthew
+Matthew
+Matthew
+138173	Matthew
+Matthew
+Matthew
+Matthew
 138178	Matthew
 138180	Matthew
-138183	Matthew
-Matthew
+138182	Matthew
+138184	Matthew
 138186	Matthew
-138189	Matthew
-138191	Matthew
+138188	Matthew
+138190	Matthew
+138192	Matthew
+138194	Matthew
 Matthew
 Matthew
-138195	Matthew
+Matthew
+138199	Matthew
+138201	Matthew
 Matthew
 Matthew
-138200	Matthew
-138203	Matthew
 138205	Matthew
-138207	Matthew
+Matthew
+138208	Matthew
 138210	Matthew
 138212	Matthew
-138214	Matthew
+Matthew
+138215	Matthew
 138217	Matthew
-138219	Matthew
-138221	Matthew
 Matthew
 Matthew
 Matthew
-138226	Matthew
+Matthew
+138223	Matthew
+138225	Matthew
+Matthew
 138228	Matthew
-138230	Matthew
+Matthew
+138231	Matthew
+138233	Matthew
 Matthew
 138236	Matthew
+138238	Matthew
 Matthew
-138239	Matthew
-138242	Matthew
-138244	Matthew
+138241	Matthew
+138243	Matthew
+138246	Matthew
 Matthew
-138247	Matthew
-138250	Matthew
-138252	Matthew
 Matthew
-138255	Matthew
+Matthew
+Matthew
+Matthew
+138253	Matthew
+Matthew
+Matthew
 Matthew
 138259	Matthew
-138261	Matthew
 Matthew
-138266	Matthew
+138262	Matthew
 Matthew
-138270	Matthew
-138272	Matthew
+138265	Matthew
 Matthew
-138276	Matthew
+138268	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+138275	Matthew
+Matthew
 138278	Matthew
-138280	Matthew
-138282	Matthew
-138285	Matthew
+Matthew
+138281	Matthew
+Matthew
+138284	Matthew
+Matthew
 138289	Matthew
-138291	Matthew
-Matthew
-138295	Matthew
 Matthew
 Matthew
-138299	Matthew
+138293	Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+138300	Matthew
 138302	Matthew
+138305	Matthew
+138307	Matthew
 Matthew
-138308	Matthew
+138310	Matthew
+138312	Matthew
 Matthew
-138311	Matthew
-Matthew
-138315	Matthew
-Matthew
+138316	Matthew
 138318	Matthew
+138320	Matthew
+138322	Matthew
 Matthew
-138321	Matthew
 Matthew
 Matthew
 Matthew
-138326	Matthew
+Matthew
 Matthew
 138330	Matthew
 Matthew
@@ -138207,240 +138239,290 @@ Matthew
 Matthew
 138337	Matthew
 Matthew
-138344	Matthew
+Matthew
+138341	Matthew
+138343	Matthew
+Matthew
+138346	Matthew
+138348	Matthew
 Matthew
 Matthew
-138349	Matthew
 Matthew
 Matthew
-138354	Matthew
-Matthew
+138355	Matthew
+138357	Matthew
 138359	Matthew
-138362	Matthew
+138361	Matthew
+Matthew
 138365	Matthew
 138367	Matthew
 Matthew
 138370	Matthew
-138374	Matthew
 Matthew
-138379	Matthew
-138381	Matthew
-138383	Matthew
-138385	Matthew
+138373	Matthew
+Matthew
+138376	Matthew
 Matthew
 Matthew
-138389	Matthew
+138380	Matthew
+138382	Matthew
+138384	Matthew
+138386	Matthew
 Matthew
 Matthew
 Matthew
-138394	Matthew
+138391	Matthew
+138393	Matthew
+138395	Matthew
 Matthew
-138403	Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+138402	Matthew
+138404	Matthew
 138406	Matthew
 138408	Matthew
+138412	Matthew
 Matthew
-138414	Matthew
-138416	Matthew
+138415	Matthew
 Matthew
-138419	Matthew
-138422	Matthew
+138418	Matthew
+Matthew
+138421	Matthew
+Matthew
+138424	Matthew
+138426	Matthew
 Matthew
 Matthew
-138427	Matthew
-Matthew
+138430	Matthew
 138432	Matthew
-138434	Matthew
-138436	Matthew
-138439	Matthew
 Matthew
+138435	Matthew
+138437	Matthew
+Matthew
+138440	Matthew
+138442	Matthew
 138444	Matthew
 138446	Matthew
 Matthew
-138449	Matthew
-138451	Matthew
+Matthew
+Matthew
+138452	Matthew
 138454	Matthew
-Matthew
-138457	Matthew
-Matthew
+138456	Matthew
+138458	Matthew
 Matthew
 138461	Matthew
 138463	Matthew
-138465	Matthew
-138467	Matthew
-138469	Matthew
 Matthew
-138472	Matthew
+Matthew
+Matthew
+138468	Matthew
+138470	Matthew
+Matthew
+Matthew
 138474	Matthew
-138476	Matthew
-138478	Matthew
-138480	Matthew
 Matthew
 Matthew
+Matthew
+138479	Matthew
+Matthew
+138482	Matthew
 138484	Matthew
 Matthew
-138489	Matthew
-138491	Matthew
-138493	Matthew
-138497	Matthew
+Matthew
+138488	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+138495	Matthew
+Matthew
+138499	Matthew
+Matthew
 138502	Matthew
 138504	Matthew
-138506	Matthew
 Matthew
-138510	Matthew
-Matthew
-138513	Matthew
-Matthew
-138516	Matthew
-138518	Matthew
+138507	Matthew
+138509	Matthew
 Matthew
 Matthew
-138522	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+138517	Matthew
+138519	Matthew
+138521	Matthew
+Matthew
 138524	Matthew
+138526	Matthew
+138528	Matthew
 Matthew
-138527	Matthew
-138530	Matthew
 Matthew
-138533	Matthew
-138536	Matthew
+Matthew
+Matthew
+Matthew
+138535	Matthew
 138538	Matthew
-138540	Matthew
+Matthew
+138541	Matthew
 Matthew
 Matthew
 Matthew
 138547	Matthew
-138549	Matthew
-138552	Matthew
-138554	Matthew
 Matthew
-138557	Matthew
-138559	Matthew
+138550	Matthew
 Matthew
-138562	Matthew
+138553	Matthew
 Matthew
-138565	Matthew
-138567	Matthew
+138556	Matthew
+138558	Matthew
 Matthew
+138561	Matthew
+138563	Matthew
+Matthew
+Matthew
+138568	Matthew
 138570	Matthew
-138572	Matthew
 Matthew
-Matthew
-Matthew
+138575	Matthew
 138577	Matthew
-Matthew
-138581	Matthew
-138583	Matthew
-Matthew
+138579	Matthew
+138582	Matthew
+138584	Matthew
 Matthew
 138587	Matthew
 Matthew
+138590	Matthew
+138592	Matthew
 Matthew
-138591	Matthew
 Matthew
+138596	Matthew
+138599	Matthew
+138601	Matthew
 Matthew
-138595	Matthew
-Matthew
-138600	Matthew
-Matthew
-138603	Matthew
+138604	Matthew
 138606	Matthew
 Matthew
 138609	Matthew
-138611	Matthew
 Matthew
 Matthew
-138615	Matthew
+138614	Matthew
+138616	Matthew
 Matthew
+138620	Matthew
 Matthew
-138619	Matthew
-138622	Matthew
-138624	Matthew
-138627	Matthew
-Matthew
+138623	Matthew
+138625	Matthew
+138628	Matthew
 138630	Matthew
-138633	Matthew
-138636	Matthew
+138632	Matthew
 Matthew
+138635	Matthew
+138637	Matthew
+138640	Matthew
+138642	Matthew
+138648	Matthew
 Matthew
+138651	Matthew
 Matthew
-Matthew
-138643	Matthew
-138646	Matthew
-138650	Matthew
-138652	Matthew
 138654	Matthew
 Matthew
 Matthew
 Matthew
-138660	Matthew
+138659	Matthew
+Matthew
 138662	Matthew
-138665	Matthew
+138664	Matthew
+Matthew
 138667	Matthew
-138669	Matthew
 Matthew
-138672	Matthew
-138674	Matthew
+138670	Matthew
+138673	Matthew
 Matthew
-138677	Matthew
-138680	Matthew
+138676	Matthew
 Matthew
+138679	Matthew
 Matthew
+138682	Matthew
+Matthew
+138685	Matthew
 138687	Matthew
-138689	Matthew
-138691	Matthew
-138696	Matthew
+Matthew
+138690	Matthew
+138692	Matthew
+138694	Matthew
+Matthew
+138697	Matthew
 138699	Matthew
 138701	Matthew
-138704	Matthew
-138707	Matthew
-138709	Matthew
+138703	Matthew
+Matthew
+138706	Matthew
+138708	Matthew
+Matthew
 138711	Matthew
-138713	Matthew
-138715	Matthew
-138717	Matthew
 Matthew
 Matthew
-138724	Matthew
-138728	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+138719	Matthew
+Matthew
+138722	Matthew
+Matthew
+138725	Matthew
+138727	Matthew
+Matthew
 138730	Matthew
-138732	Matthew
-138734	Matthew
-138736	Matthew
 Matthew
-138739	Matthew
+138733	Matthew
 Matthew
 Matthew
+138738	Matthew
+138741	Matthew
+138743	Matthew
+138747	Matthew
 138749	Matthew
-138751	Matthew
-Matthew
-138756	Matthew
+138752	Matthew
+138754	Matthew
 138758	Matthew
 138760	Matthew
-138762	Matthew
-138766	Matthew
+Matthew
+138763	Matthew
+138765	Matthew
+138767	Matthew
 138769	Matthew
-138772	Matthew
+138771	Matthew
+Matthew
 138774	Matthew
-138777	Matthew
-138779	Matthew
+138776	Matthew
+138778	Matthew
+138780	Matthew
 138782	Matthew
 138784	Matthew
-138792	Matthew
-Matthew
+138786	Matthew
+138789	Matthew
+138791	Matthew
 138796	Matthew
 Matthew
 138799	Matthew
 Matthew
+138802	Matthew
+Matthew
+138805	Matthew
 Matthew
 Matthew
-138804	Matthew
 Matthew
-138807	Matthew
-138809	Matthew
 Matthew
-138812	Matthew
-Matthew
+138811	Matthew
+138813	Matthew
 138815	Matthew
+Matthew
 138819	Matthew
 Matthew
 138822	Matthew
@@ -138448,11709 +138530,14011 @@ Matthew
 138825	Matthew
 138827	Matthew
 138829	Matthew
+138831	Matthew
+138835	Matthew
 Matthew
-138832	Matthew
-138834	Matthew
-138836	Matthew
-138839	Matthew
-138841	Matthew
-138843	Matthew
+138838	Matthew
+138840	Matthew
+138842	Matthew
+138844	Matthew
+138848	Matthew
 Matthew
-Matthew
-138847	Matthew
-138849	Matthew
 138851	Matthew
 138853	Matthew
 138855	Matthew
 138857	Matthew
+138859	Matthew
 Matthew
-138860	Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-Matthew
+138862	Matthew
+138864	Matthew
+138866	Matthew
 138868	Matthew
-138870	Matthew
-138872	Matthew
-138874	Matthew
 Matthew
-138878	Matthew
+138871	Matthew
+138873	Matthew
+Matthew
+Matthew
+138877	Matthew
+Matthew
 138880	Matthew
 138882	Matthew
-138884	Matthew
 Matthew
+138885	Matthew
+138887	Matthew
 138889	Matthew
-Matthew
-Matthew
+138891	Matthew
+138893	Matthew
 138895	Matthew
+138897	Matthew
 138899	Matthew
-138902	Matthew
-138907	Matthew
-138909	Matthew
-138912	Matthew
-138914	Matthew
-138919	Matthew
-138921	Matthew
 Matthew
-138924	Matthew
+138903	Matthew
+Matthew
+Matthew
+138907	Matthew
+Matthew
+138910	Matthew
+Matthew
+138913	Matthew
+138915	Matthew
+Matthew
+138918	Matthew
+Matthew
+138921	Matthew
+138923	Matthew
+Matthew
 138926	Matthew
-138928	Matthew
-138931	Matthew
+Matthew
+138929	Matthew
+Matthew
+Matthew
 138933	Matthew
 138935	Matthew
 138937	Matthew
-138939	Matthew
+Matthew
+Matthew
 138941	Matthew
+Matthew
 138944	Matthew
 138946	Matthew
-138948	Matthew
-138950	Matthew
+Matthew
+138949	Matthew
+138951	Matthew
 138953	Matthew
 138955	Matthew
-138960	Matthew
-Matthew
+138958	Matthew
+138961	Matthew
 138963	Matthew
-Matthew
+138965	Matthew
 138967	Matthew
-Matthew
-138970	Matthew
-Matthew
-Matthew
-Matthew
+138969	Matthew
+138971	Matthew
+138973	Matthew
 138975	Matthew
 138977	Matthew
 138979	Matthew
+Matthew
 138982	Matthew
 138984	Matthew
-138987	Matthew
+138986	Matthew
+138989	Matthew
 Matthew
-138990	Matthew
-Matthew
-138993	Matthew
+138992	Matthew
 138995	Matthew
 138997	Matthew
-138999	Matthew
-139002	Matthew
 Matthew
-139005	Matthew
-139007	Matthew
-139010	Matthew
-139012	Matthew
-139015	Matthew
+139000	Matthew
 Matthew
-139018	Matthew
-139020	Matthew
-139023	Matthew
+Matthew
+139004	Matthew
+139006	Matthew
+139008	Matthew
+139011	Matthew
+Matthew
+139014	Matthew
+Matthew
+Matthew
+139019	Matthew
+139021	Matthew
+Matthew
 139025	Matthew
-139027	Matthew
 Matthew
-139030	Matthew
-139032	Matthew
+139028	Matthew
+Matthew
+139031	Matthew
+139033	Matthew
 139035	Matthew
-139037	Matthew
 Matthew
+139038	Matthew
 139040	Matthew
 139042	Matthew
-Matthew
-Matthew
+139044	Matthew
 139046	Matthew
-139048	Matthew
-139050	Matthew
-139052	Matthew
 Matthew
-139057	Matthew
+139049	Matthew
+139051	Matthew
+139054	Matthew
+Matthew
+Matthew
+Matthew
 139059	Matthew
-139062	Matthew
-139064	Matthew
-139067	Matthew
-139069	Matthew
-139071	Matthew
-139073	Matthew
+139061	Matthew
+139063	Matthew
+Matthew
+139066	Matthew
+139068	Matthew
+139070	Matthew
+139072	Matthew
+139075	Matthew
 Matthew
 139078	Matthew
 139080	Matthew
+139082	Matthew
 Matthew
-139083	Matthew
+139085	Matthew
 Matthew
-139086	Matthew
 139088	Matthew
-139090	Matthew
-139092	Matthew
 Matthew
-139095	Matthew
+139091	Matthew
+139093	Matthew
 Matthew
+Matthew
+139097	Matthew
 139099	Matthew
-139101	Matthew
-139103	Matthew
-139105	Matthew
 Matthew
-139108	Matthew
 Matthew
-139111	Matthew
-139113	Matthew
+139104	Matthew
+139107	Matthew
+Matthew
+139112	Matthew
 139115	Matthew
-139117	Matthew
 Matthew
 Matthew
+139119	Matthew
 139121	Matthew
 139123	Matthew
 139125	Matthew
 139127	Matthew
-139131	Matthew
-139133	Matthew
-139135	Matthew
-139137	Matthew
-139141	Matthew
-139145	Matthew
+139129	Matthew
+Matthew
+Matthew
+139134	Matthew
+139136	Matthew
+139138	Matthew
+139140	Matthew
+Matthew
+Matthew
+139144	Matthew
+Matthew
+Matthew
+Matthew
 139149	Matthew
 139151	Matthew
-139153	Matthew
-139155	Matthew
-139157	Matthew
+Matthew
+139154	Matthew
+139156	Matthew
+Matthew
 139159	Matthew
 139161	Matthew
 139163	Matthew
 139165	Matthew
 139167	Matthew
+139169	Matthew
 Matthew
-139170	Matthew
-139172	Matthew
-139174	Matthew
-139179	Matthew
-139181	Matthew
+Matthew
+139173	Matthew
+Matthew
+Matthew
+Matthew
+139178	Matthew
+139180	Matthew
+139182	Matthew
 139184	Matthew
 139188	Matthew
-139191	Matthew
 Matthew
+139191	Matthew
+139193	Matthew
 139196	Matthew
 Matthew
 Matthew
 139200	Matthew
 139202	Matthew
-139205	Matthew
+139204	Matthew
+139206	Matthew
+139208	Matthew
 139210	Matthew
-Matthew
 139213	Matthew
+139215	Matthew
+139217	Matthew
 Matthew
 Matthew
-139219	Matthew
 139222	Matthew
+139225	Matthew
 Matthew
-139227	Matthew
-139229	Matthew
+139228	Matthew
+Matthew
 139231	Matthew
-Matthew
+139233	Matthew
 139235	Matthew
-139238	Matthew
-139241	Matthew
 Matthew
+Matthew
+139239	Matthew
+139242	Matthew
 139244	Matthew
-139246	Matthew
+Matthew
+Matthew
 139248	Matthew
+Matthew
 139251	Matthew
-139253	Matthew
 Matthew
-139256	Matthew
+Matthew
+139255	Matthew
+Matthew
 139258	Matthew
+Matthew
 139261	Matthew
-Matthew
-Matthew
-Matthew
-139266	Matthew
-139268	Matthew
+139263	Matthew
+139265	Matthew
+139267	Matthew
+139269	Matthew
 139271	Matthew
+139273	Matthew
+139275	Matthew
+139277	Matthew
 Matthew
-139274	Matthew
-139276	Matthew
-139278	Matthew
-139280	Matthew
+Matthew
+Matthew
+139282	Matthew
 139285	Matthew
 Matthew
-139288	Matthew
-139291	Matthew
-139293	Matthew
 Matthew
-139297	Matthew
 Matthew
-139302	Matthew
+139290	Matthew
+139292	Matthew
+139295	Matthew
 Matthew
+Matthew
+139299	Matthew
+139303	Matthew
 139305	Matthew
-139308	Matthew
-Matthew
-Matthew
+139307	Matthew
+139309	Matthew
+139311	Matthew
 139313	Matthew
-139316	Matthew
-Matthew
+139315	Matthew
+139317	Matthew
 139319	Matthew
-139323	Matthew
-139327	Matthew
+139321	Matthew
+Matthew
+139324	Matthew
+139326	Matthew
+Matthew
 139329	Matthew
+139331	Matthew
+Matthew
 139334	Matthew
-139339	Matthew
+Matthew
+Matthew
+139338	Matthew
+Matthew
 Matthew
 Matthew
 139343	Matthew
 139345	Matthew
-139347	Matthew
-139349	Matthew
+Matthew
+139348	Matthew
 139351	Matthew
 139353	Matthew
-139356	Matthew
 Matthew
+139358	Matthew
+139360	Matthew
 139362	Matthew
 139364	Matthew
-139367	Matthew
-139369	Matthew
+139366	Matthew
 Matthew
+139370	Matthew
 139372	Matthew
 139374	Matthew
+139376	Matthew
 Matthew
-139377	Matthew
 139379	Matthew
 139381	Matthew
 139383	Matthew
-Matthew
+139385	Matthew
 139387	Matthew
 139389	Matthew
-Matthew
+139391	Matthew
 139394	Matthew
 139396	Matthew
-139398	Matthew
-139400	Matthew
-139402	Matthew
-139404	Matthew
 Matthew
+139399	Matthew
+139401	Matthew
+139403	Matthew
+139405	Matthew
+139407	Matthew
+139409	Matthew
+139411	Matthew
+139413	Matthew
 Matthew
-139408	Matthew
-Matthew
-Matthew
-139412	Matthew
-139414	Matthew
 139416	Matthew
 139418	Matthew
-139420	Matthew
-139423	Matthew
-139425	Matthew
-139427	Matthew
-139429	Matthew
-139432	Matthew
+139422	Matthew
+139424	Matthew
 Matthew
-139435	Matthew
+139427	Matthew
+Matthew
+Matthew
+139433	Matthew
+Matthew
+Matthew
 139437	Matthew
-139439	Matthew
-139441	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 139443	Matthew
 139445	Matthew
-139448	Matthew
-139452	Matthew
-139455	Matthew
-139457	Matthew
 Matthew
+Matthew
+139449	Matthew
+Matthew
+139452	Matthew
+Matthew
+139455	Matthew
+Matthew
+Matthew
+139459	Matthew
 Matthew
 139462	Matthew
-139465	Matthew
 Matthew
-139468	Matthew
+Matthew
+Matthew
+139467	Matthew
 Matthew
 139472	Matthew
-139475	Matthew
+139474	Matthew
+139476	Matthew
 139478	Matthew
-139480	Matthew
 Matthew
-139483	Matthew
-139485	Matthew
-139487	Matthew
+139481	Matthew
 Matthew
+139484	Matthew
+139486	Matthew
+Matthew
+139489	Matthew
 139491	Matthew
-139493	Matthew
-139495	Matthew
-139497	Matthew
 Matthew
-139502	Matthew
-139504	Matthew
+139494	Matthew
+139496	Matthew
+Matthew
+139499	Matthew
+139501	Matthew
+139503	Matthew
+Matthew
 139506	Matthew
 139508	Matthew
-139510	Matthew
-139512	Matthew
+139511	Matthew
 139515	Matthew
-139517	Matthew
+Matthew
 139519	Matthew
-139521	Matthew
-139523	Matthew
+Matthew
+139522	Matthew
+Matthew
 139525	Matthew
 139527	Matthew
-139529	Matthew
 Matthew
 Matthew
-Matthew
+139532	Matthew
 139534	Matthew
+139536	Matthew
 139538	Matthew
-Matthew
+139540	Matthew
 Matthew
 Matthew
 139544	Matthew
 139546	Matthew
-139549	Matthew
+139548	Matthew
+139550	Matthew
+139552	Matthew
 Matthew
 Matthew
-139553	Matthew
-139559	Matthew
-139561	Matthew
-139564	Matthew
-139566	Matthew
-139568	Matthew
+139556	Matthew
+139558	Matthew
+Matthew
+Matthew
+139562	Matthew
+Matthew
+Matthew
+139567	Matthew
+139569	Matthew
+Matthew
 139572	Matthew
 139574	Matthew
-139577	Matthew
-139579	Matthew
-139581	Matthew
 Matthew
-139585	Matthew
+139577	Matthew
+Matthew
+139580	Matthew
+139582	Matthew
+139584	Matthew
+Matthew
 139587	Matthew
 Matthew
-139591	Matthew
+139590	Matthew
+Matthew
 139593	Matthew
 139595	Matthew
 139597	Matthew
 139599	Matthew
 Matthew
-139602	Matthew
 Matthew
-139605	Matthew
+139604	Matthew
 Matthew
-139608	Matthew
+139607	Matthew
+Matthew
 139610	Matthew
-139612	Matthew
+Matthew
 139614	Matthew
-139618	Matthew
+139616	Matthew
+Matthew
+Matthew
 139620	Matthew
-139622	Matthew
-139629	Matthew
-139631	Matthew
+139624	Matthew
+Matthew
+Matthew
+Matthew
+139630	Matthew
+Matthew
 139633	Matthew
-139635	Matthew
-139637	Matthew
+Matthew
+Matthew
+139638	Matthew
 Matthew
 139641	Matthew
-139643	Matthew
-139645	Matthew
+Matthew
+139644	Matthew
+Matthew
 139647	Matthew
-139649	Matthew
+Matthew
+139650	Matthew
+Matthew
 139653	Matthew
-139655	Matthew
-139657	Matthew
+Matthew
+139656	Matthew
+Matthew
 139659	Matthew
 139661	Matthew
 139663	Matthew
 139665	Matthew
-139668	Matthew
-139670	Matthew
-139672	Matthew
-139675	Matthew
+Matthew
+139669	Matthew
+139671	Matthew
+Matthew
+139674	Matthew
+Matthew
 139677	Matthew
 139679	Matthew
-139681	Matthew
-139683	Matthew
-139685	Matthew
-139689	Matthew
-139691	Matthew
 Matthew
-139694	Matthew
-139697	Matthew
-139701	Matthew
+139682	Matthew
+139684	Matthew
+Matthew
+139687	Matthew
+Matthew
+Matthew
+139691	Matthew
+139693	Matthew
+Matthew
+139696	Matthew
+Matthew
+Matthew
+139700	Matthew
+Matthew
+Matthew
 139704	Matthew
 Matthew
 139707	Matthew
-Matthew
-Matthew
+139710	Matthew
 139712	Matthew
 Matthew
 Matthew
-139716	Matthew
 Matthew
 Matthew
+139718	Matthew
 139720	Matthew
 Matthew
 139723	Matthew
-139725	Matthew
-139727	Matthew
 Matthew
-139731	Matthew
-139733	Matthew
+139726	Matthew
+139728	Matthew
+139730	Matthew
+Matthew
+Matthew
+Matthew
 139735	Matthew
-139737	Matthew
-139740	Matthew
 Matthew
-139743	Matthew
+139738	Matthew
+Matthew
+139742	Matthew
+Matthew
 139745	Matthew
+139747	Matthew
+139750	Matthew
 Matthew
-139748	Matthew
+Matthew
+139755	Matthew
+Matthew
+Matthew
+139759	Matthew
+Matthew
+139762	Matthew
+139764	Matthew
 Matthew
 Matthew
 Matthew
-139753	Matthew
-Matthew
-139758	Matthew
-139761	Matthew
-139763	Matthew
-139766	Matthew
-Matthew
+139769	Matthew
 139771	Matthew
 Matthew
-139774	Matthew
-139778	Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+139779	Matthew
 139781	Matthew
-139785	Matthew
+139783	Matthew
 Matthew
-139788	Matthew
+Matthew
+139787	Matthew
+139789	Matthew
 139791	Matthew
-Matthew
-139794	Matthew
-139796	Matthew
+139793	Matthew
+139795	Matthew
+139797	Matthew
 139799	Matthew
+139803	Matthew
 Matthew
-139802	Matthew
-139805	Matthew
-139809	Matthew
-139814	Matthew
-Matthew
-139819	Matthew
-139821	Matthew
-139824	Matthew
-Matthew
-139827	Matthew
-139829	Matthew
+139806	Matthew
+139808	Matthew
+139810	Matthew
+139812	Matthew
 Matthew
 Matthew
+Matthew
+Matthew
+139818	Matthew
+139820	Matthew
+Matthew
+139823	Matthew
+139825	Matthew
+Matthew
+139828	Matthew
+139830	Matthew
+Matthew
+Matthew
+139834	Matthew
 139836	Matthew
-139838	Matthew
-139841	Matthew
-139843	Matthew
-139846	Matthew
 Matthew
+139839	Matthew
 Matthew
-139851	Matthew
-139853	Matthew
+139842	Matthew
+Matthew
+139845	Matthew
+139847	Matthew
+139849	Matthew
+Matthew
+139852	Matthew
+Matthew
 139855	Matthew
-139857	Matthew
-139859	Matthew
+Matthew
+139858	Matthew
+Matthew
 139861	Matthew
-139863	Matthew
 139865	Matthew
-139867	Matthew
 Matthew
 Matthew
+139869	Matthew
 139871	Matthew
+139873	Matthew
 Matthew
 Matthew
-139876	Matthew
-139878	Matthew
+139877	Matthew
+Matthew
 139881	Matthew
-139883	Matthew
-139885	Matthew
 Matthew
-139888	Matthew
+139884	Matthew
+Matthew
+139887	Matthew
+Matthew
 Matthew
 139892	Matthew
-139894	Matthew
+Matthew
+Matthew
 139896	Matthew
 139898	Matthew
-139900	Matthew
 Matthew
-139904	Matthew
 Matthew
-139907	Matthew
-139909	Matthew
-139911	Matthew
+Matthew
+139903	Matthew
+Matthew
+139906	Matthew
+Matthew
+Matthew
+139910	Matthew
+Matthew
 139913	Matthew
 Matthew
 Matthew
 139917	Matthew
 Matthew
 139920	Matthew
-Matthew
+139922	Matthew
 139924	Matthew
-Matthew
+139926	Matthew
 139929	Matthew
-139931	Matthew
 Matthew
-139934	Matthew
-139936	Matthew
-139942	Matthew
+139932	Matthew
+139935	Matthew
 Matthew
 Matthew
+139939	Matthew
+139941	Matthew
+139943	Matthew
+139945	Matthew
+139947	Matthew
 Matthew
-139948	Matthew
+139950	Matthew
+139952	Matthew
+139955	Matthew
 Matthew
-139951	Matthew
-Matthew
-139954	Matthew
 139958	Matthew
-Matthew
-139961	Matthew
-Matthew
-139964	Matthew
-Matthew
+139960	Matthew
 139968	Matthew
 Matthew
-139971	Matthew
+Matthew
+Matthew
 Matthew
 139974	Matthew
-Matthew
-139977	Matthew
-Matthew
+139976	Matthew
+139978	Matthew
 139980	Matthew
-139983	Matthew
-139985	Matthew
-139987	Matthew
 Matthew
-139992	Matthew
-139994	Matthew
 Matthew
-139997	Matthew
+139984	Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+139995	Matthew
 140000	Matthew
-140003	Matthew
-Matthew
+140004	Matthew
 140006	Matthew
-140008	Matthew
+Matthew
 Matthew
 140011	Matthew
+140013	Matthew
 Matthew
-140014	Matthew
-140016	Matthew
-140018	Matthew
-Matthew
+140017	Matthew
+140019	Matthew
 140021	Matthew
-Matthew
-140024	Matthew
+140023	Matthew
 140027	Matthew
 140029	Matthew
 Matthew
-140032	Matthew
+Matthew
 140034	Matthew
-140036	Matthew
-140039	Matthew
+Matthew
+140038	Matthew
+Matthew
 140041	Matthew
-Matthew
-Matthew
+140043	Matthew
 140045	Matthew
 140047	Matthew
 140049	Matthew
 140051	Matthew
-Matthew
+140053	Matthew
 140055	Matthew
-Matthew
-140058	Matthew
-140061	Matthew
-140064	Matthew
+140057	Matthew
+140062	Matthew
 Matthew
 Matthew
+140066	Matthew
+140068	Matthew
 Matthew
-140069	Matthew
-Matthew
-140072	Matthew
+140071	Matthew
+140073	Matthew
 Matthew
 140076	Matthew
 140078	Matthew
 140080	Matthew
-140083	Matthew
-140087	Matthew
-Matthew
-Matthew
+140082	Matthew
+140084	Matthew
+140086	Matthew
+140088	Matthew
+140091	Matthew
 140093	Matthew
-Matthew
-140096	Matthew
+140095	Matthew
 140098	Matthew
 Matthew
 140101	Matthew
+Matthew
 140104	Matthew
 Matthew
+140107	Matthew
+140109	Matthew
+140111	Matthew
 Matthew
-140108	Matthew
-140110	Matthew
-140113	Matthew
+140114	Matthew
+140116	Matthew
 Matthew
 Matthew
+140120	Matthew
 Matthew
 Matthew
-140119	Matthew
-140123	Matthew
-140125	Matthew
+140124	Matthew
+Matthew
 140127	Matthew
-Matthew
-Matthew
+140130	Matthew
 140132	Matthew
-140134	Matthew
-140136	Matthew
-140138	Matthew
-140141	Matthew
-140143	Matthew
-140145	Matthew
+Matthew
+140135	Matthew
+140137	Matthew
+Matthew
+140142	Matthew
+140144	Matthew
+140146	Matthew
 140148	Matthew
 Matthew
 140151	Matthew
-140153	Matthew
-140156	Matthew
-140158	Matthew
+Matthew
+140155	Matthew
+Matthew
+Matthew
+140159	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 140165	Matthew
+Matthew
 140168	Matthew
+140170	Matthew
+140172	Matthew
 Matthew
-140171	Matthew
-140174	Matthew
-Matthew
-140177	Matthew
-140179	Matthew
-Matthew
-Matthew
+140175	Matthew
+140178	Matthew
+140180	Matthew
 140183	Matthew
-140186	Matthew
+140185	Matthew
+140187	Matthew
 Matthew
-140189	Matthew
-140191	Matthew
-140193	Matthew
-140195	Matthew
+140190	Matthew
+140192	Matthew
+140194	Matthew
+Matthew
 140197	Matthew
 140199	Matthew
 140201	Matthew
 140203	Matthew
-140205	Matthew
-140207	Matthew
-140209	Matthew
-140211	Matthew
-140214	Matthew
 Matthew
-140217	Matthew
-140220	Matthew
+140206	Matthew
+140208	Matthew
+140210	Matthew
+140213	Matthew
+140215	Matthew
+Matthew
+140219	Matthew
+140221	Matthew
 Matthew
 Matthew
-140224	Matthew
-140226	Matthew
-140229	Matthew
+140225	Matthew
+140228	Matthew
 Matthew
-140232	Matthew
-140234	Matthew
 Matthew
-140239	Matthew
-140241	Matthew
+Matthew
+140233	Matthew
+140235	Matthew
+140237	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 140243	Matthew
+140245	Matthew
 Matthew
-140246	Matthew
-Matthew
-Matthew
+140248	Matthew
+140250	Matthew
 140252	Matthew
-Matthew
-Matthew
+140254	Matthew
 140256	Matthew
 140258	Matthew
 Matthew
 Matthew
 Matthew
-140263	Matthew
 Matthew
-140267	Matthew
+Matthew
+Matthew
+140266	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 140272	Matthew
-Matthew
-140275	Matthew
-Matthew
+140274	Matthew
 Matthew
 140279	Matthew
 Matthew
-140282	Matthew
-140286	Matthew
+Matthew
+Matthew
+Matthew
+140285	Matthew
+Matthew
 140288	Matthew
 140290	Matthew
+140292	Matthew
 140294	Matthew
-Matthew
 140298	Matthew
+Matthew
+Matthew
 140302	Matthew
 Matthew
 Matthew
-140307	Matthew
-140309	Matthew
-140311	Matthew
-140313	Matthew
-140315	Matthew
+140306	Matthew
+140308	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+140316	Matthew
 Matthew
 140319	Matthew
 140321	Matthew
-140325	Matthew
-140327	Matthew
-140330	Matthew
-140332	Matthew
-140355	Matthew
+Matthew
+140326	Matthew
 Matthew
 Matthew
+Matthew
+140331	Matthew
+140333	Matthew
+Matthew
+Matthew
+140339	Matthew
+Matthew
+Matthew
+Matthew
+140344	Matthew
+140346	Matthew
+140348	Matthew
+140353	Matthew
+140356	Matthew
 Matthew
 140360	Matthew
-140362	Matthew
+Matthew
 140364	Matthew
 140367	Matthew
 140369	Matthew
-Matthew
-Matthew
 140373	Matthew
 140375	Matthew
 Matthew
+140378	Matthew
+140380	Matthew
+140382	Matthew
 Matthew
 Matthew
 Matthew
-140381	Matthew
+140389	Matthew
+140392	Matthew
+140396	Matthew
 Matthew
-140384	Matthew
-140388	Matthew
-140394	Matthew
-140397	Matthew
-140400	Matthew
-Matthew
+140399	Matthew
+140401	Matthew
 140403	Matthew
-140406	Matthew
+140405	Matthew
 140408	Matthew
 Matthew
-140413	Matthew
-140415	Matthew
-140417	Matthew
-140419	Matthew
-140424	Matthew
-140426	Matthew
 Matthew
+140414	Matthew
+140416	Matthew
+Matthew
+140419	Matthew
+140421	Matthew
+140423	Matthew
+140426	Matthew
+140428	Matthew
+140430	Matthew
 Matthew
 140433	Matthew
 140435	Matthew
-140439	Matthew
 Matthew
-140442	Matthew
-140445	Matthew
-140447	Matthew
-140450	Matthew
-140452	Matthew
-140454	Matthew
+140438	Matthew
+140440	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+140446	Matthew
+140449	Matthew
+140451	Matthew
+140453	Matthew
+140455	Matthew
 140457	Matthew
-140459	Matthew
-140461	Matthew
+140460	Matthew
+Matthew
+140463	Matthew
+Matthew
+140467	Matthew
 140469	Matthew
 140471	Matthew
 140473	Matthew
 140475	Matthew
-140477	Matthew
+140478	Matthew
 Matthew
-140481	Matthew
-140483	Matthew
 Matthew
+140482	Matthew
+140484	Matthew
 140486	Matthew
-140490	Matthew
-140492	Matthew
+140488	Matthew
+Matthew
+140491	Matthew
+Matthew
+Matthew
 140495	Matthew
-140497	Matthew
-140499	Matthew
+Matthew
+140498	Matthew
+Matthew
 140501	Matthew
-140504	Matthew
+140503	Matthew
+Matthew
 140506	Matthew
-140508	Matthew
-140512	Matthew
-140514	Matthew
-140516	Matthew
-140518	Matthew
-140520	Matthew
+140510	Matthew
+Matthew
+140513	Matthew
+140515	Matthew
+140517	Matthew
+Matthew
+Matthew
+Matthew
 140522	Matthew
 140524	Matthew
 140526	Matthew
-140529	Matthew
+140528	Matthew
 Matthew
-140532	Matthew
-140534	Matthew
-140537	Matthew
+140531	Matthew
+140533	Matthew
 Matthew
-140541	Matthew
+140536	Matthew
+140538	Matthew
+140540	Matthew
+140542	Matthew
+140544	Matthew
+140546	Matthew
 Matthew
 Matthew
-140545	Matthew
 Matthew
-140548	Matthew
-140551	Matthew
-140553	Matthew
 Matthew
-140556	Matthew
-140558	Matthew
+Matthew
+Matthew
+140554	Matthew
+Matthew
+140557	Matthew
+140559	Matthew
+140561	Matthew
 Matthew
 140564	Matthew
-140566	Matthew
+Matthew
 140568	Matthew
 140570	Matthew
 Matthew
-140573	Matthew
 Matthew
-140579	Matthew
-Matthew
+140575	Matthew
+140577	Matthew
+140580	Matthew
 140582	Matthew
 140584	Matthew
+140586	Matthew
 Matthew
-140587	Matthew
 Matthew
-Matthew
+140590	Matthew
 140592	Matthew
-140594	Matthew
-140596	Matthew
-140598	Matthew
-140600	Matthew
 Matthew
+Matthew
+Matthew
+140597	Matthew
+140599	Matthew
+140601	Matthew
 140603	Matthew
+140605	Matthew
 140607	Matthew
 140609	Matthew
-140613	Matthew
-140615	Matthew
+Matthew
+140614	Matthew
+Matthew
 140617	Matthew
-140619	Matthew
-140621	Matthew
-140623	Matthew
-140625	Matthew
+Matthew
+140620	Matthew
+140622	Matthew
+140624	Matthew
+Matthew
 140627	Matthew
 140629	Matthew
 140631	Matthew
-140633	Matthew
-140635	Matthew
-140637	Matthew
+Matthew
+Matthew
+140636	Matthew
 140639	Matthew
-140641	Matthew
+Matthew
 140643	Matthew
-140647	Matthew
+Matthew
+140648	Matthew
 140650	Matthew
-Matthew
+140652	Matthew
 140654	Matthew
-140657	Matthew
-Matthew
+140656	Matthew
+140658	Matthew
 Matthew
 140661	Matthew
-140665	Matthew
 Matthew
+140664	Matthew
 Matthew
+140667	Matthew
 140669	Matthew
 140671	Matthew
 140673	Matthew
 140675	Matthew
+140677	Matthew
 Matthew
-Matthew
-Matthew
+140680	Matthew
 Matthew
 140683	Matthew
 140685	Matthew
 Matthew
-140688	Matthew
+Matthew
 140690	Matthew
 140692	Matthew
 140694	Matthew
 140696	Matthew
 140699	Matthew
-Matthew
-Matthew
+140701	Matthew
 140703	Matthew
-Matthew
-Matthew
+140705	Matthew
 Matthew
 140708	Matthew
+140710	Matthew
 Matthew
-Matthew
-Matthew
-Matthew
-140714	Matthew
+140713	Matthew
 140717	Matthew
 Matthew
-140722	Matthew
+Matthew
+140721	Matthew
 Matthew
 Matthew
 Matthew
+140726	Matthew
 Matthew
-140729	Matthew
-140731	Matthew
-140733	Matthew
-140736	Matthew
+Matthew
+140730	Matthew
+140732	Matthew
+Matthew
+140735	Matthew
+140737	Matthew
+Matthew
 140740	Matthew
-140742	Matthew
+Matthew
+Matthew
+Matthew
+140745	Matthew
+Matthew
 140748	Matthew
 Matthew
+140751	Matthew
 Matthew
-140753	Matthew
-Matthew
+140754	Matthew
 Matthew
 140757	Matthew
-140759	Matthew
 Matthew
+140760	Matthew
 140762	Matthew
 Matthew
 Matthew
 Matthew
-140767	Matthew
-140769	Matthew
-140771	Matthew
+140768	Matthew
+140770	Matthew
 140773	Matthew
+Matthew
 140776	Matthew
+140778	Matthew
 Matthew
-140782	Matthew
+140781	Matthew
+140783	Matthew
 Matthew
-140785	Matthew
+Matthew
 140787	Matthew
 140789	Matthew
-140791	Matthew
-140793	Matthew
+140792	Matthew
+140794	Matthew
+140797	Matthew
+140799	Matthew
 Matthew
 140802	Matthew
 Matthew
+140805	Matthew
+140807	Matthew
+140809	Matthew
 Matthew
-140806	Matthew
-140808	Matthew
-Matthew
-140811	Matthew
-140815	Matthew
+140812	Matthew
+140814	Matthew
+140816	Matthew
+140818	Matthew
 140820	Matthew
+140822	Matthew
+140824	Matthew
+140826	Matthew
+140828	Matthew
+140830	Matthew
 Matthew
-140825	Matthew
-140827	Matthew
-140831	Matthew
 140833	Matthew
 140835	Matthew
-140838	Matthew
-140841	Matthew
-Matthew
-140844	Matthew
-140847	Matthew
-140849	Matthew
 Matthew
 Matthew
-140853	Matthew
+140839	Matthew
+Matthew
+140842	Matthew
+Matthew
+140845	Matthew
+140848	Matthew
+Matthew
+Matthew
+140852	Matthew
+140855	Matthew
+Matthew
+Matthew
+Matthew
 140860	Matthew
-140864	Matthew
-140870	Matthew
+Matthew
+140863	Matthew
+Matthew
+140867	Matthew
+140869	Matthew
+Matthew
 140872	Matthew
-140875	Matthew
+140874	Matthew
+Matthew
 140877	Matthew
 140879	Matthew
 140881	Matthew
-140885	Matthew
+140883	Matthew
 Matthew
+140886	Matthew
 140888	Matthew
+140890	Matthew
 140892	Matthew
 140894	Matthew
-Matthew
-Matthew
+140896	Matthew
 140898	Matthew
-140901	Matthew
-140905	Matthew
-140908	Matthew
-140910	Matthew
+140900	Matthew
+140902	Matthew
 Matthew
-140914	Matthew
-140916	Matthew
-140918	Matthew
-140920	Matthew
+140905	Matthew
+140907	Matthew
+Matthew
+140910	Matthew
+140912	Matthew
+Matthew
+140915	Matthew
+140917	Matthew
+140919	Matthew
+Matthew
 140922	Matthew
 Matthew
+140925	Matthew
+140927	Matthew
 Matthew
-Matthew
-Matthew
-140928	Matthew
-140931	Matthew
-140934	Matthew
-140936	Matthew
-140939	Matthew
-140941	Matthew
-140943	Matthew
-Matthew
+140930	Matthew
+140932	Matthew
+140935	Matthew
+140938	Matthew
+140940	Matthew
+140942	Matthew
+140944	Matthew
 140946	Matthew
 Matthew
-140950	Matthew
 140953	Matthew
-140955	Matthew
-140957	Matthew
-140959	Matthew
+Matthew
+140956	Matthew
+140958	Matthew
+140961	Matthew
 140963	Matthew
-Matthew
 140966	Matthew
-140968	Matthew
-140970	Matthew
-140972	Matthew
+140969	Matthew
+140971	Matthew
 140974	Matthew
-Matthew
 140977	Matthew
-Matthew
-Matthew
+140979	Matthew
 140981	Matthew
 Matthew
-140984	Matthew
+Matthew
+Matthew
 Matthew
 140987	Matthew
 140989	Matthew
-Matthew
+140991	Matthew
 140993	Matthew
-140996	Matthew
-140998	Matthew
-141000	Matthew
-141002	Matthew
-141004	Matthew
+140995	Matthew
+140997	Matthew
+140999	Matthew
+141001	Matthew
 Matthew
+141005	Matthew
+141007	Matthew
+141009	Matthew
 Matthew
-Matthew
-141010	Matthew
 141012	Matthew
 141014	Matthew
-141016	Matthew
 Matthew
-141019	Matthew
-141021	Matthew
+Matthew
+141018	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 141025	Matthew
+Matthew
 141028	Matthew
 141030	Matthew
 141032	Matthew
-141034	Matthew
-141036	Matthew
-141038	Matthew
 Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+141039	Matthew
 141043	Matthew
-141045	Matthew
-141047	Matthew
-141049	Matthew
-141051	Matthew
-141053	Matthew
-141055	Matthew
+Matthew
+141046	Matthew
+141048	Matthew
+141050	Matthew
 Matthew
 Matthew
-141059	Matthew
-Matthew
-141063	Matthew
-141065	Matthew
 Matthew
 Matthew
-141071	Matthew
-141073	Matthew
+Matthew
+Matthew
+141058	Matthew
+141060	Matthew
+141062	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+141070	Matthew
+Matthew
+Matthew
+141074	Matthew
+Matthew
+Matthew
 141078	Matthew
 141080	Matthew
 141082	Matthew
-141084	Matthew
-Matthew
+141085	Matthew
 141087	Matthew
 141089	Matthew
-141092	Matthew
-Matthew
+141091	Matthew
+141093	Matthew
 141095	Matthew
+141097	Matthew
+141099	Matthew
 Matthew
-141098	Matthew
-141101	Matthew
-141103	Matthew
+141102	Matthew
 141105	Matthew
 141107	Matthew
-141109	Matthew
-141111	Matthew
+Matthew
+141110	Matthew
+141112	Matthew
 Matthew
 141115	Matthew
 Matthew
+Matthew
 141119	Matthew
-141121	Matthew
-141123	Matthew
-141125	Matthew
+Matthew
+141122	Matthew
+141124	Matthew
+Matthew
 141127	Matthew
-141129	Matthew
+Matthew
+Matthew
 141131	Matthew
-141133	Matthew
-141135	Matthew
 Matthew
-141138	Matthew
-141142	Matthew
-141146	Matthew
 Matthew
+Matthew
+141136	Matthew
+Matthew
+141139	Matthew
+141141	Matthew
+141143	Matthew
+141145	Matthew
+141147	Matthew
+141149	Matthew
 141151	Matthew
 Matthew
-141157	Matthew
-141161	Matthew
-141163	Matthew
-141166	Matthew
-141168	Matthew
-141170	Matthew
 Matthew
+141155	Matthew
+141157	Matthew
+Matthew
+141160	Matthew
+Matthew
+141164	Matthew
+Matthew
+Matthew
+Matthew
+141171	Matthew
 141173	Matthew
 Matthew
 141176	Matthew
-141178	Matthew
-141180	Matthew
-141182	Matthew
-141184	Matthew
+Matthew
+141179	Matthew
+141181	Matthew
+Matthew
+141185	Matthew
 141187	Matthew
-141190	Matthew
-141192	Matthew
-Matthew
+141189	Matthew
 141196	Matthew
+141198	Matthew
+141200	Matthew
+141202	Matthew
 Matthew
-141199	Matthew
-141201	Matthew
-Matthew
-141204	Matthew
+141205	Matthew
 141208	Matthew
-141210	Matthew
-141213	Matthew
+Matthew
+141211	Matthew
+Matthew
+Matthew
 141215	Matthew
-141223	Matthew
+141217	Matthew
+Matthew
+141220	Matthew
+141222	Matthew
+Matthew
+Matthew
 141226	Matthew
-141228	Matthew
+Matthew
+Matthew
 141230	Matthew
-141234	Matthew
-141236	Matthew
-141238	Matthew
+141232	Matthew
 Matthew
-141241	Matthew
-141244	Matthew
+141235	Matthew
+141237	Matthew
 Matthew
-Matthew
-141248	Matthew
-Matthew
-141251	Matthew
-Matthew
-141254	Matthew
-Matthew
-141257	Matthew
-141259	Matthew
-141261	Matthew
-141264	Matthew
-141266	Matthew
-141268	Matthew
-Matthew
-141271	Matthew
+141240	Matthew
+141242	Matthew
 Matthew
 Matthew
+141246	Matthew
 Matthew
-141277	Matthew
+141250	Matthew
 Matthew
+141253	Matthew
+Matthew
+141256	Matthew
+141258	Matthew
+141260	Matthew
+141262	Matthew
+Matthew
+141265	Matthew
+141267	Matthew
+Matthew
+141270	Matthew
+Matthew
+141273	Matthew
+Matthew
+141276	Matthew
+Matthew
+141279	Matthew
 141281	Matthew
+141283	Matthew
 Matthew
-141285	Matthew
+Matthew
 Matthew
 141288	Matthew
+141290	Matthew
+141292	Matthew
 Matthew
-141291	Matthew
-141293	Matthew
 141295	Matthew
-141297	Matthew
 Matthew
-141300	Matthew
 Matthew
-141305	Matthew
+Matthew
+Matthew
+141301	Matthew
+Matthew
+141304	Matthew
 141307	Matthew
-141312	Matthew
 Matthew
-141316	Matthew
-141318	Matthew
-Matthew
-141321	Matthew
-141323	Matthew
+141310	Matthew
 Matthew
 Matthew
-141327	Matthew
+Matthew
+141315	Matthew
+141317	Matthew
+Matthew
+141320	Matthew
+141322	Matthew
+141324	Matthew
+141326	Matthew
+Matthew
 141329	Matthew
 141331	Matthew
-141333	Matthew
-141336	Matthew
-141338	Matthew
+141334	Matthew
 Matthew
-141343	Matthew
+141337	Matthew
+Matthew
+141340	Matthew
+Matthew
+Matthew
+141344	Matthew
 Matthew
 141347	Matthew
-141349	Matthew
-141353	Matthew
 Matthew
-141356	Matthew
-141358	Matthew
-141361	Matthew
+141350	Matthew
+141352	Matthew
+Matthew
+141355	Matthew
+Matthew
+Matthew
+Matthew
+141360	Matthew
+141362	Matthew
 141364	Matthew
-141366	Matthew
-141369	Matthew
-141372	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+141370	Matthew
+Matthew
 141375	Matthew
-141377	Matthew
+Matthew
+Matthew
 141379	Matthew
 Matthew
 141382	Matthew
-141384	Matthew
+Matthew
+141385	Matthew
+141387	Matthew
+Matthew
+141390	Matthew
 Matthew
 Matthew
-141388	Matthew
-Matthew
-141392	Matthew
-Matthew
-141395	Matthew
-141398	Matthew
 Matthew
 Matthew
-141402	Matthew
-141405	Matthew
+141397	Matthew
 Matthew
+141400	Matthew
+Matthew
+141404	Matthew
+Matthew
+141407	Matthew
 Matthew
 Matthew
 141411	Matthew
 Matthew
 141414	Matthew
 Matthew
+141417	Matthew
 141419	Matthew
-141422	Matthew
+141421	Matthew
+141423	Matthew
 141425	Matthew
-141427	Matthew
-141430	Matthew
 Matthew
-141433	Matthew
-141437	Matthew
-141439	Matthew
-141441	Matthew
+Matthew
+141429	Matthew
+Matthew
+141432	Matthew
+141434	Matthew
+141436	Matthew
+Matthew
+Matthew
+141440	Matthew
+Matthew
 141444	Matthew
 141446	Matthew
-141448	Matthew
-141450	Matthew
+141449	Matthew
+Matthew
 141452	Matthew
+Matthew
 141456	Matthew
-141458	Matthew
-141461	Matthew
-141463	Matthew
+141459	Matthew
+Matthew
+141462	Matthew
+Matthew
 141465	Matthew
+141467	Matthew
 Matthew
 141470	Matthew
-141473	Matthew
 Matthew
-141476	Matthew
-141479	Matthew
 Matthew
-141482	Matthew
-141484	Matthew
+141474	Matthew
+Matthew
+141477	Matthew
+Matthew
+141481	Matthew
+Matthew
+Matthew
+Matthew
 141486	Matthew
+Matthew
 141489	Matthew
-141491	Matthew
-141493	Matthew
-141495	Matthew
-141497	Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+141496	Matthew
+141498	Matthew
 141500	Matthew
-141502	Matthew
-141505	Matthew
-141508	Matthew
-141510	Matthew
-141514	Matthew
-141516	Matthew
-141518	Matthew
 Matthew
+Matthew
+141504	Matthew
+Matthew
+141507	Matthew
+141509	Matthew
+141511	Matthew
+141513	Matthew
+141515	Matthew
+141517	Matthew
+Matthew
+141520	Matthew
+Matthew
+141523	Matthew
 141525	Matthew
+141527	Matthew
+141529	Matthew
 Matthew
-141528	Matthew
-141530	Matthew
-141534	Matthew
-141536	Matthew
-141539	Matthew
-141543	Matthew
-141545	Matthew
-141548	Matthew
-141552	Matthew
-141554	Matthew
-141556	Matthew
+141533	Matthew
 Matthew
+Matthew
+Matthew
+141538	Matthew
+141540	Matthew
+141542	Matthew
+Matthew
+Matthew
+Matthew
+141547	Matthew
+141549	Matthew
+Matthew
+Matthew
+141553	Matthew
+141555	Matthew
+141557	Matthew
 Matthew
 Matthew
 Matthew
 141563	Matthew
-141565	Matthew
+Matthew
+Matthew
 141567	Matthew
 141569	Matthew
 141571	Matthew
-141574	Matthew
-141576	Matthew
-141578	Matthew
 Matthew
-141581	Matthew
-141583	Matthew
-141585	Matthew
+141575	Matthew
+141577	Matthew
 Matthew
+Matthew
+Matthew
+141582	Matthew
+141584	Matthew
+141586	Matthew
 141588	Matthew
+Matthew
 141591	Matthew
 Matthew
+141594	Matthew
 Matthew
-141595	Matthew
-141597	Matthew
+141598	Matthew
+141600	Matthew
+141602	Matthew
 Matthew
 Matthew
 Matthew
-Matthew
-141603	Matthew
-141606	Matthew
-141608	Matthew
-141610	Matthew
-141612	Matthew
-Matthew
+141607	Matthew
+141609	Matthew
+141611	Matthew
+141613	Matthew
 Matthew
 Matthew
 141617	Matthew
+141619	Matthew
 Matthew
-141621	Matthew
-141624	Matthew
-Matthew
-141627	Matthew
-141630	Matthew
-141632	Matthew
+141622	Matthew
 Matthew
 Matthew
-141636	Matthew
+141626	Matthew
+Matthew
+141629	Matthew
+141631	Matthew
+Matthew
+141634	Matthew
+Matthew
+141638	Matthew
 Matthew
 Matthew
-141640	Matthew
-141642	Matthew
-141644	Matthew
+141643	Matthew
+Matthew
 141646	Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-Matthew
+141648	Matthew
+141650	Matthew
+141652	Matthew
 141654	Matthew
 Matthew
-Matthew
-141658	Matthew
-Matthew
-Matthew
+141657	Matthew
+141659	Matthew
 141662	Matthew
-141664	Matthew
-141666	Matthew
+Matthew
+141665	Matthew
+141667	Matthew
+Matthew
 141670	Matthew
-141672	Matthew
-141675	Matthew
-141678	Matthew
-141680	Matthew
+Matthew
+141673	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+141679	Matthew
 141682	Matthew
-141685	Matthew
+141684	Matthew
+Matthew
 141687	Matthew
-141689	Matthew
-141692	Matthew
+Matthew
+141690	Matthew
+Matthew
+141694	Matthew
 141696	Matthew
 141698	Matthew
 Matthew
-141702	Matthew
-141704	Matthew
+141701	Matthew
 Matthew
-141707	Matthew
+Matthew
+141705	Matthew
 Matthew
 141710	Matthew
-141712	Matthew
 Matthew
+141713	Matthew
 141715	Matthew
-141717	Matthew
 Matthew
 141720	Matthew
 Matthew
-Matthew
+141723	Matthew
 141725	Matthew
+141727	Matthew
+141729	Matthew
 Matthew
-Matthew
-Matthew
-141730	Matthew
-Matthew
+141732	Matthew
 141734	Matthew
 141736	Matthew
 141738	Matthew
-141740	Matthew
-141742	Matthew
-141744	Matthew
-141746	Matthew
+Matthew
+Matthew
+141743	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 141749	Matthew
-141752	Matthew
-141754	Matthew
-Matthew
-141758	Matthew
+141751	Matthew
+141753	Matthew
+141755	Matthew
+141757	Matthew
+141759	Matthew
 Matthew
 141762	Matthew
 Matthew
 Matthew
-141767	Matthew
-141772	Matthew
-141775	Matthew
+141766	Matthew
+141768	Matthew
 Matthew
+Matthew
+141773	Matthew
+141776	Matthew
 141778	Matthew
-Matthew
+141780	Matthew
 141782	Matthew
 141784	Matthew
 Matthew
-141789	Matthew
+141788	Matthew
+141790	Matthew
 141792	Matthew
 141794	Matthew
-141801	Matthew
+Matthew
+141797	Matthew
+141799	Matthew
+Matthew
+Matthew
 141803	Matthew
 141805	Matthew
 141807	Matthew
-141809	Matthew
 141811	Matthew
+141813	Matthew
 141815	Matthew
-141817	Matthew
-141820	Matthew
-141822	Matthew
-141825	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+141821	Matthew
+141823	Matthew
+Matthew
+Matthew
 141827	Matthew
-141830	Matthew
+141829	Matthew
+Matthew
 Matthew
 141833	Matthew
+Matthew
+Matthew
 141837	Matthew
-Matthew
-Matthew
+141839	Matthew
 141842	Matthew
+141844	Matthew
 Matthew
-Matthew
-141846	Matthew
+141847	Matthew
+141849	Matthew
 141851	Matthew
-Matthew
-141854	Matthew
-141856	Matthew
-Matthew
+141853	Matthew
+141855	Matthew
+141857	Matthew
 141859	Matthew
-141861	Matthew
+Matthew
+141862	Matthew
 Matthew
 Matthew
-141867	Matthew
+141866	Matthew
+141868	Matthew
+Matthew
 Matthew
 141872	Matthew
 Matthew
 141875	Matthew
-Matthew
 141879	Matthew
 141881	Matthew
 141883	Matthew
-141886	Matthew
-Matthew
+141885	Matthew
+141887	Matthew
 141889	Matthew
 141891	Matthew
 Matthew
-141894	Matthew
 Matthew
-141897	Matthew
+141895	Matthew
+141898	Matthew
 Matthew
-141901	Matthew
 Matthew
-141905	Matthew
-141907	Matthew
-141910	Matthew
+141902	Matthew
+141904	Matthew
+Matthew
+Matthew
+Matthew
+141909	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 141915	Matthew
-141917	Matthew
-141919	Matthew
-141921	Matthew
 Matthew
-141924	Matthew
+141918	Matthew
+141920	Matthew
+141922	Matthew
+Matthew
+Matthew
 141926	Matthew
-Matthew
-Matthew
+141928	Matthew
 Matthew
 141931	Matthew
 141933	Matthew
-141935	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 141939	Matthew
 Matthew
-141943	Matthew
+141942	Matthew
+141944	Matthew
 Matthew
+141947	Matthew
 Matthew
-Matthew
-141949	Matthew
+141950	Matthew
 141952	Matthew
+141954	Matthew
+141956	Matthew
+141958	Matthew
 Matthew
-141955	Matthew
-141959	Matthew
-141961	Matthew
-141963	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 141965	Matthew
 141967	Matthew
-141969	Matthew
-141973	Matthew
+Matthew
+Matthew
+141971	Matthew
+Matthew
 141975	Matthew
 141977	Matthew
-Matthew
-141980	Matthew
-Matthew
-Matthew
+141979	Matthew
+141981	Matthew
+141983	Matthew
 141985	Matthew
 Matthew
-141989	Matthew
+141988	Matthew
 Matthew
-141992	Matthew
-141994	Matthew
+141993	Matthew
+Matthew
+Matthew
 Matthew
 141998	Matthew
+142000	Matthew
+142002	Matthew
 Matthew
 Matthew
 Matthew
-142003	Matthew
-142005	Matthew
-142007	Matthew
 Matthew
-142011	Matthew
+142008	Matthew
 Matthew
-Matthew
-142015	Matthew
-Matthew
-142019	Matthew
+142012	Matthew
+142014	Matthew
 Matthew
 Matthew
-142023	Matthew
+142018	Matthew
+142020	Matthew
+142022	Matthew
+Matthew
+Matthew
 Matthew
 142027	Matthew
-Matthew
-142030	Matthew
+142029	Matthew
+142031	Matthew
 142033	Matthew
 Matthew
 142036	Matthew
-Matthew
-Matthew
-Matthew
+142038	Matthew
+142040	Matthew
 Matthew
 142044	Matthew
 Matthew
-142047	Matthew
-Matthew
-142052	Matthew
-Matthew
-142055	Matthew
 Matthew
 Matthew
-142059	Matthew
+142049	Matthew
+142051	Matthew
+142054	Matthew
 Matthew
-142064	Matthew
 Matthew
-142067	Matthew
+142058	Matthew
+142062	Matthew
+Matthew
+Matthew
+142066	Matthew
+Matthew
 142069	Matthew
-142071	Matthew
-142073	Matthew
-142075	Matthew
 Matthew
 Matthew
-142080	Matthew
 Matthew
-142083	Matthew
-142085	Matthew
-142087	Matthew
+142074	Matthew
 Matthew
+142077	Matthew
+142079	Matthew
+Matthew
+142082	Matthew
+142084	Matthew
+142086	Matthew
+142088	Matthew
 Matthew
 142091	Matthew
-142093	Matthew
-142097	Matthew
-142099	Matthew
-142103	Matthew
 Matthew
+142094	Matthew
+142096	Matthew
+142099	Matthew
+142101	Matthew
+Matthew
+142104	Matthew
 142106	Matthew
 Matthew
-142111	Matthew
-142115	Matthew
+142109	Matthew
 Matthew
-142118	Matthew
-142120	Matthew
-142122	Matthew
-142124	Matthew
+142112	Matthew
 Matthew
-142127	Matthew
+142117	Matthew
+142119	Matthew
+142121	Matthew
 Matthew
-142131	Matthew
-142133	Matthew
+Matthew
+142126	Matthew
+Matthew
+142132	Matthew
+Matthew
 142135	Matthew
-142137	Matthew
-Matthew
-142141	Matthew
 Matthew
 Matthew
-Matthew
-142146	Matthew
-Matthew
-142149	Matthew
+142139	Matthew
 Matthew
 Matthew
+142143	Matthew
+142145	Matthew
+142147	Matthew
+Matthew
+142151	Matthew
 142153	Matthew
 Matthew
+142156	Matthew
 Matthew
-142157	Matthew
 142159	Matthew
-142161	Matthew
+142162	Matthew
 Matthew
 Matthew
-142165	Matthew
 Matthew
-142168	Matthew
+142167	Matthew
+142169	Matthew
 142171	Matthew
-142173	Matthew
-142175	Matthew
-142178	Matthew
-142180	Matthew
 Matthew
-142183	Matthew
+142174	Matthew
+142177	Matthew
+Matthew
+Matthew
+142182	Matthew
+Matthew
 142186	Matthew
-142188	Matthew
+Matthew
 142190	Matthew
-142192	Matthew
-142194	Matthew
+142193	Matthew
 Matthew
-142199	Matthew
-Matthew
-Matthew
+142196	Matthew
+142198	Matthew
+142201	Matthew
 142203	Matthew
-142206	Matthew
-142208	Matthew
-142210	Matthew
+142205	Matthew
+142207	Matthew
+142209	Matthew
 Matthew
 Matthew
 142214	Matthew
 142216	Matthew
-142218	Matthew
 Matthew
-142221	Matthew
-142223	Matthew
+142219	Matthew
+Matthew
+142222	Matthew
+Matthew
 142226	Matthew
 142228	Matthew
 Matthew
 Matthew
 Matthew
-142234	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 142238	Matthew
-142240	Matthew
+Matthew
+Matthew
 142242	Matthew
-142244	Matthew
-142247	Matthew
-142250	Matthew
 Matthew
 Matthew
-142254	Matthew
-142257	Matthew
-142259	Matthew
-142261	Matthew
-142264	Matthew
 Matthew
-142267	Matthew
+142249	Matthew
+142251	Matthew
+142253	Matthew
 Matthew
-142272	Matthew
 Matthew
-142277	Matthew
-142279	Matthew
+Matthew
+142258	Matthew
+142260	Matthew
+Matthew
+142263	Matthew
+142265	Matthew
+Matthew
+Matthew
+142269	Matthew
+Matthew
+Matthew
+Matthew
+142274	Matthew
+142276	Matthew
+Matthew
+Matthew
+Matthew
 142281	Matthew
+142283	Matthew
+142285	Matthew
 Matthew
-142284	Matthew
+142288	Matthew
+142290	Matthew
+142292	Matthew
 Matthew
-142287	Matthew
-142289	Matthew
-142291	Matthew
-142293	Matthew
-Matthew
+142295	Matthew
 142297	Matthew
+Matthew
 142300	Matthew
-142302	Matthew
+Matthew
 Matthew
 142305	Matthew
-Matthew
-Matthew
+142307	Matthew
 142309	Matthew
 Matthew
 142312	Matthew
 142314	Matthew
 Matthew
-142317	Matthew
 Matthew
-142323	Matthew
+142318	Matthew
 Matthew
+142321	Matthew
+142324	Matthew
+142326	Matthew
 Matthew
 142329	Matthew
-Matthew
+142331	Matthew
 142333	Matthew
 142335	Matthew
-142339	Matthew
-142341	Matthew
+Matthew
+142338	Matthew
+142340	Matthew
+Matthew
 142343	Matthew
-142345	Matthew
-142347	Matthew
-142349	Matthew
-142354	Matthew
+Matthew
+142346	Matthew
+142348	Matthew
+142350	Matthew
+142353	Matthew
 Matthew
 142357	Matthew
 142359	Matthew
+142361	Matthew
 Matthew
-142363	Matthew
+142364	Matthew
 Matthew
-142366	Matthew
 Matthew
-142369	Matthew
+142368	Matthew
 Matthew
-142372	Matthew
+142371	Matthew
+Matthew
 142374	Matthew
+Matthew
 142377	Matthew
 142379	Matthew
-Matthew
-142383	Matthew
-Matthew
+142381	Matthew
+142384	Matthew
 142386	Matthew
-142388	Matthew
-142392	Matthew
-142394	Matthew
-142396	Matthew
 Matthew
-142399	Matthew
+142389	Matthew
 Matthew
+Matthew
+142393	Matthew
+Matthew
+Matthew
+142397	Matthew
+Matthew
+142400	Matthew
 Matthew
 142403	Matthew
 Matthew
-142410	Matthew
 Matthew
+142407	Matthew
+Matthew
+Matthew
+142411	Matthew
 142413	Matthew
 142415	Matthew
+142417	Matthew
 Matthew
-142419	Matthew
+142420	Matthew
 Matthew
-142424	Matthew
-142426	Matthew
-142429	Matthew
-142431	Matthew
+142423	Matthew
+142425	Matthew
 Matthew
-142435	Matthew
-142437	Matthew
-142440	Matthew
-142443	Matthew
+142428	Matthew
 Matthew
-Matthew
-142449	Matthew
+142432	Matthew
+142434	Matthew
+142436	Matthew
 Matthew
 Matthew
+142441	Matthew
 Matthew
 Matthew
-142455	Matthew
-142458	Matthew
-142461	Matthew
-142463	Matthew
-142466	Matthew
+Matthew
+Matthew
+142447	Matthew
+Matthew
+142450	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+142457	Matthew
+142459	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+142465	Matthew
+Matthew
 142468	Matthew
 Matthew
 142471	Matthew
+142473	Matthew
+142475	Matthew
+142477	Matthew
 Matthew
-142474	Matthew
-142478	Matthew
 142480	Matthew
 Matthew
-142483	Matthew
-142488	Matthew
+Matthew
+142484	Matthew
+142486	Matthew
+Matthew
+Matthew
+142490	Matthew
 142492	Matthew
-142495	Matthew
+Matthew
+Matthew
+142496	Matthew
 142498	Matthew
-142500	Matthew
+Matthew
+Matthew
 142502	Matthew
-142504	Matthew
-142507	Matthew
+Matthew
+142505	Matthew
+Matthew
+Matthew
 142509	Matthew
-142511	Matthew
-142513	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 142515	Matthew
 142517	Matthew
 142519	Matthew
 Matthew
-142522	Matthew
-142524	Matthew
+Matthew
+142523	Matthew
 142526	Matthew
 142528	Matthew
-142533	Matthew
-142535	Matthew
-142537	Matthew
+Matthew
+142532	Matthew
+Matthew
+142541	Matthew
+142543	Matthew
+142545	Matthew
+142547	Matthew
 Matthew
 Matthew
+142551	Matthew
 Matthew
-142542	Matthew
-142544	Matthew
-142546	Matthew
-Matthew
-142550	Matthew
-142552	Matthew
-142555	Matthew
+142554	Matthew
 Matthew
 Matthew
-142560	Matthew
+142558	Matthew
 Matthew
+142561	Matthew
 142563	Matthew
 142565	Matthew
 142567	Matthew
-142570	Matthew
-142572	Matthew
+Matthew
+142571	Matthew
+Matthew
 Matthew
 142575	Matthew
-142577	Matthew
-142580	Matthew
+Matthew
+Matthew
+142579	Matthew
+Matthew
+Matthew
 142583	Matthew
-142585	Matthew
+Matthew
+Matthew
 142587	Matthew
+Matthew
 142590	Matthew
 Matthew
 142593	Matthew
 Matthew
-Matthew
-142597	Matthew
+142596	Matthew
+142598	Matthew
 142600	Matthew
 Matthew
 Matthew
-142604	Matthew
 Matthew
-142608	Matthew
-142614	Matthew
-142617	Matthew
+142605	Matthew
+142607	Matthew
+142610	Matthew
+Matthew
+Matthew
+142615	Matthew
+Matthew
+142618	Matthew
 142620	Matthew
-142622	Matthew
-142624	Matthew
-142627	Matthew
-142629	Matthew
 Matthew
-142632	Matthew
+142623	Matthew
+142625	Matthew
+Matthew
+Matthew
+142629	Matthew
+142631	Matthew
+Matthew
 142634	Matthew
 142636	Matthew
 Matthew
-142639	Matthew
-142641	Matthew
+Matthew
+142640	Matthew
+Matthew
 142643	Matthew
-Matthew
-Matthew
-Matthew
+142646	Matthew
 142648	Matthew
-Matthew
 142651	Matthew
 142653	Matthew
-Matthew
+142655	Matthew
 142657	Matthew
 Matthew
-142660	Matthew
+Matthew
+142661	Matthew
 142663	Matthew
-142665	Matthew
+Matthew
+Matthew
 Matthew
 142668	Matthew
-142670	Matthew
-142672	Matthew
 Matthew
-142675	Matthew
-142678	Matthew
+142671	Matthew
+142673	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-142684	Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+142685	Matthew
 142687	Matthew
 142689	Matthew
+142691	Matthew
+142693	Matthew
+142695	Matthew
 Matthew
-142692	Matthew
+142698	Matthew
 Matthew
-142697	Matthew
-142699	Matthew
-142701	Matthew
-142705	Matthew
+Matthew
+142702	Matthew
+142704	Matthew
+Matthew
 142708	Matthew
+142710	Matthew
 Matthew
-Matthew
-Matthew
-Matthew
-Matthew
+142713	Matthew
 142715	Matthew
-142719	Matthew
 Matthew
+Matthew
+Matthew
+142720	Matthew
 142722	Matthew
 142724	Matthew
-142726	Matthew
+Matthew
+142727	Matthew
+Matthew
+Matthew
 142731	Matthew
-142733	Matthew
+Matthew
+Matthew
 142736	Matthew
 142738	Matthew
-142741	Matthew
-142743	Matthew
-Matthew
-142746	Matthew
-Matthew
-142751	Matthew
-142753	Matthew
+142740	Matthew
 Matthew
 Matthew
-142758	Matthew
-142760	Matthew
-142762	Matthew
+142745	Matthew
+Matthew
+142748	Matthew
 Matthew
 Matthew
 Matthew
+142754	Matthew
+142756	Matthew
 Matthew
-142768	Matthew
-142770	Matthew
+142759	Matthew
+142761	Matthew
+142764	Matthew
+142766	Matthew
+Matthew
+Matthew
+Matthew
+142771	Matthew
+Matthew
 142774	Matthew
-142778	Matthew
-142780	Matthew
 Matthew
-142783	Matthew
-142785	Matthew
+Matthew
+142779	Matthew
+Matthew
+142782	Matthew
+142784	Matthew
+142786	Matthew
 142788	Matthew
+142790	Matthew
 Matthew
-142791	Matthew
 Matthew
-142794	Matthew
-142796	Matthew
+Matthew
+142795	Matthew
 142798	Matthew
+Matthew
 142801	Matthew
 142803	Matthew
-142805	Matthew
-142807	Matthew
-142809	Matthew
-Matthew
+142806	Matthew
+142808	Matthew
+142810	Matthew
+142812	Matthew
 142814	Matthew
-Matthew
-Matthew
+142816	Matthew
 142818	Matthew
 142821	Matthew
-142824	Matthew
-142829	Matthew
 Matthew
 Matthew
-142833	Matthew
-142836	Matthew
+Matthew
+Matthew
+142827	Matthew
+Matthew
+142830	Matthew
+Matthew
+Matthew
+Matthew
+142835	Matthew
+Matthew
 142838	Matthew
-Matthew
-142841	Matthew
-Matthew
-142844	Matthew
-Matthew
-Matthew
-Matthew
+142840	Matthew
+142842	Matthew
+142845	Matthew
+142848	Matthew
 142850	Matthew
 Matthew
-142853	Matthew
+Matthew
+142854	Matthew
 142856	Matthew
-Matthew
 142859	Matthew
-142862	Matthew
-142866	Matthew
+142861	Matthew
+Matthew
+142864	Matthew
 142868	Matthew
+142870	Matthew
 Matthew
-142871	Matthew
+142873	Matthew
 Matthew
-142874	Matthew
-142876	Matthew
-142880	Matthew
+Matthew
+142877	Matthew
+142881	Matthew
 142883	Matthew
+142885	Matthew
 Matthew
-142887	Matthew
-142889	Matthew
+142888	Matthew
+142890	Matthew
 Matthew
 142893	Matthew
 Matthew
 142896	Matthew
 142898	Matthew
-142901	Matthew
-142904	Matthew
-142906	Matthew
-142908	Matthew
+142900	Matthew
+Matthew
+142903	Matthew
+142905	Matthew
+Matthew
+Matthew
+Matthew
+142910	Matthew
 Matthew
 142913	Matthew
+142915	Matthew
+142917	Matthew
 Matthew
-142919	Matthew
+142920	Matthew
 Matthew
-142922	Matthew
-142924	Matthew
+142923	Matthew
 Matthew
-142927	Matthew
-Matthew
+142926	Matthew
+142928	Matthew
 Matthew
 142931	Matthew
-142933	Matthew
+Matthew
+Matthew
 142935	Matthew
-142937	Matthew
+Matthew
+142938	Matthew
 142940	Matthew
-142942	Matthew
+Matthew
+Matthew
 142944	Matthew
-142947	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 142950	Matthew
-142954	Matthew
+142952	Matthew
+Matthew
+142955	Matthew
 Matthew
 Matthew
-Matthew
-142960	Matthew
+142959	Matthew
 142962	Matthew
+Matthew
+Matthew
 142966	Matthew
+142968	Matthew
 Matthew
-142970	Matthew
-142974	Matthew
-142976	Matthew
 Matthew
-142982	Matthew
 Matthew
-142988	Matthew
 Matthew
-142993	Matthew
-142998	Matthew
 Matthew
-143001	Matthew
-143003	Matthew
+142975	Matthew
+Matthew
+Matthew
+Matthew
+142981	Matthew
+Matthew
+142984	Matthew
+Matthew
+Matthew
+142989	Matthew
+142991	Matthew
+Matthew
+142994	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 143006	Matthew
-143008	Matthew
-143010	Matthew
-143012	Matthew
-143014	Matthew
+143009	Matthew
+143011	Matthew
+143013	Matthew
+143016	Matthew
+Matthew
+143019	Matthew
 Matthew
 Matthew
-143020	Matthew
 143023	Matthew
-Matthew
+143025	Matthew
 143027	Matthew
-Matthew
+143029	Matthew
 143031	Matthew
-Matthew
-143034	Matthew
-143036	Matthew
-Matthew
+143033	Matthew
+143035	Matthew
+143037	Matthew
 Matthew
 143040	Matthew
-Matthew
-Matthew
-Matthew
+143042	Matthew
+143044	Matthew
 143046	Matthew
 Matthew
-143050	Matthew
+143049	Matthew
+143051	Matthew
 Matthew
 Matthew
-143056	Matthew
+143055	Matthew
 Matthew
 Matthew
-143060	Matthew
-143065	Matthew
+143059	Matthew
+Matthew
+143062	Matthew
+143064	Matthew
+Matthew
 143067	Matthew
 143069	Matthew
+143071	Matthew
 Matthew
 Matthew
-143073	Matthew
-143075	Matthew
-143078	Matthew
+143076	Matthew
+Matthew
+Matthew
 Matthew
 143081	Matthew
-143084	Matthew
+143083	Matthew
+143085	Matthew
 Matthew
-143087	Matthew
-143089	Matthew
+143088	Matthew
 Matthew
-Matthew
+143091	Matthew
 143093	Matthew
-143095	Matthew
-143097	Matthew
 Matthew
-Matthew
-143101	Matthew
+143096	Matthew
+143098	Matthew
+143100	Matthew
 143103	Matthew
-143106	Matthew
-143109	Matthew
+143105	Matthew
 Matthew
-143112	Matthew
-143114	Matthew
+143109	Matthew
+143111	Matthew
+Matthew
+Matthew
+143115	Matthew
 143117	Matthew
 Matthew
-143120	Matthew
-143122	Matthew
-Matthew
-143125	Matthew
 Matthew
 Matthew
-143129	Matthew
-143131	Matthew
-143133	Matthew
 Matthew
-143136	Matthew
-143138	Matthew
+143123	Matthew
+Matthew
+143126	Matthew
+143128	Matthew
 Matthew
 Matthew
-143142	Matthew
 Matthew
-143145	Matthew
+Matthew
+143134	Matthew
+Matthew
+Matthew
+Matthew
+143140	Matthew
+Matthew
+143143	Matthew
+Matthew
+143146	Matthew
 143148	Matthew
-143151	Matthew
-143153	Matthew
-143155	Matthew
-143158	Matthew
-143160	Matthew
+143150	Matthew
+Matthew
+143154	Matthew
+143156	Matthew
+Matthew
+143159	Matthew
+Matthew
 143162	Matthew
 143164	Matthew
 143166	Matthew
 143168	Matthew
-Matthew
-143171	Matthew
-Matthew
+143170	Matthew
+143172	Matthew
 143174	Matthew
-143176	Matthew
-143178	Matthew
-143182	Matthew
-143185	Matthew
-143189	Matthew
-143191	Matthew
-143194	Matthew
-Matthew
-143197	Matthew
 Matthew
 Matthew
-143201	Matthew
+143180	Matthew
+Matthew
+143183	Matthew
+Matthew
+Matthew
+143187	Matthew
+Matthew
+143190	Matthew
+Matthew
+143193	Matthew
+143195	Matthew
+Matthew
+Matthew
+Matthew
+143200	Matthew
 143203	Matthew
 143205	Matthew
 Matthew
-143209	Matthew
 Matthew
-143212	Matthew
-143214	Matthew
-143216	Matthew
+143209	Matthew
+143211	Matthew
+Matthew
+143215	Matthew
+143217	Matthew
 143219	Matthew
 143221	Matthew
-Matthew
+143223	Matthew
 143225	Matthew
 Matthew
 Matthew
-143229	Matthew
-143231	Matthew
 Matthew
-143235	Matthew
-143237	Matthew
-143239	Matthew
-143241	Matthew
+143230	Matthew
+143232	Matthew
+Matthew
+Matthew
+143236	Matthew
+143238	Matthew
+143240	Matthew
+Matthew
 143243	Matthew
-143245	Matthew
 Matthew
-143248	Matthew
 Matthew
+143247	Matthew
+143249	Matthew
 143251	Matthew
+Matthew
 143254	Matthew
-143256	Matthew
-143258	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 143260	Matthew
-143263	Matthew
+Matthew
 143265	Matthew
 Matthew
-143268	Matthew
-143270	Matthew
 Matthew
+143269	Matthew
+143271	Matthew
 143273	Matthew
 Matthew
 143276	Matthew
-143278	Matthew
-143280	Matthew
+Matthew
+Matthew
 143282	Matthew
-Matthew
-143287	Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-143294	Matthew
-Matthew
-143298	Matthew
+143284	Matthew
+143286	Matthew
+143288	Matthew
 Matthew
 Matthew
 Matthew
+143293	Matthew
+143295	Matthew
+143299	Matthew
+143301	Matthew
 143303	Matthew
-143307	Matthew
-143309	Matthew
-Matthew
-143312	Matthew
+143305	Matthew
 Matthew
 Matthew
-143317	Matthew
+143310	Matthew
 Matthew
-143322	Matthew
-143324	Matthew
+143313	Matthew
+Matthew
+143316	Matthew
+Matthew
+Matthew
+Matthew
+143321	Matthew
+Matthew
+Matthew
 143326	Matthew
-143328	Matthew
+Matthew
 143330	Matthew
-143333	Matthew
+143332	Matthew
 Matthew
-143336	Matthew
+143335	Matthew
 Matthew
-Matthew
+143338	Matthew
 143340	Matthew
-143342	Matthew
 Matthew
 Matthew
-143346	Matthew
-143348	Matthew
-143350	Matthew
 Matthew
-143353	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+143349	Matthew
+Matthew
+Matthew
+Matthew
 143355	Matthew
+143358	Matthew
+Matthew
+143361	Matthew
+Matthew
+143364	Matthew
 Matthew
 Matthew
-143359	Matthew
+143368	Matthew
 Matthew
-143362	Matthew
-Matthew
-143365	Matthew
-143367	Matthew
-Matthew
-Matthew
-143371	Matthew
-Matthew
-143374	Matthew
-143376	Matthew
+143373	Matthew
+143375	Matthew
 143378	Matthew
-Matthew
-Matthew
+143380	Matthew
 143382	Matthew
+143384	Matthew
 143386	Matthew
 143388	Matthew
 Matthew
-143392	Matthew
-Matthew
-143402	Matthew
+143391	Matthew
+143393	Matthew
+143395	Matthew
+143397	Matthew
+143399	Matthew
+143403	Matthew
 143405	Matthew
 143407	Matthew
 143409	Matthew
-143412	Matthew
+143411	Matthew
+143413	Matthew
 Matthew
-143415	Matthew
-Matthew
+143416	Matthew
 143418	Matthew
+143421	Matthew
 Matthew
-Matthew
-143422	Matthew
 143424	Matthew
-143426	Matthew
-143428	Matthew
-143430	Matthew
-143432	Matthew
+Matthew
+143431	Matthew
+143433	Matthew
+143435	Matthew
 Matthew
 143438	Matthew
+143443	Matthew
+143445	Matthew
+143447	Matthew
+143449	Matthew
 Matthew
-Matthew
-143442	Matthew
-Matthew
-Matthew
-143446	Matthew
-Matthew
-Matthew
-143451	Matthew
-Matthew
-143454	Matthew
-143456	Matthew
-Matthew
+143453	Matthew
+143455	Matthew
+143457	Matthew
 143459	Matthew
-Matthew
-143462	Matthew
-Matthew
+143461	Matthew
 143465	Matthew
-143467	Matthew
-143469	Matthew
 Matthew
-Matthew
+143468	Matthew
+143470	Matthew
 143473	Matthew
 143475	Matthew
-143478	Matthew
+143477	Matthew
+143479	Matthew
 143482	Matthew
 Matthew
 143485	Matthew
-143488	Matthew
-143490	Matthew
-143492	Matthew
+143487	Matthew
+143489	Matthew
+143491	Matthew
 143494	Matthew
-Matthew
-143497	Matthew
+143496	Matthew
 143499	Matthew
-Matthew
-Matthew
+143501	Matthew
 143503	Matthew
-143505	Matthew
-143507	Matthew
-143509	Matthew
-143512	Matthew
+143506	Matthew
 Matthew
+143511	Matthew
+143515	Matthew
+143519	Matthew
+143521	Matthew
 Matthew
-143516	Matthew
-143518	Matthew
-143522	Matthew
-143527	Matthew
-143529	Matthew
-143532	Matthew
-143534	Matthew
+143526	Matthew
+143528	Matthew
+143533	Matthew
 143536	Matthew
-143538	Matthew
+143540	Matthew
+143542	Matthew
 Matthew
-143541	Matthew
-143543	Matthew
-143545	Matthew
+143547	Matthew
 Matthew
-Matthew
-Matthew
-143550	Matthew
-143552	Matthew
-143554	Matthew
-143556	Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-143563	Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-143570	Matthew
+143551	Matthew
+143553	Matthew
+143555	Matthew
+143557	Matthew
+143559	Matthew
+143561	Matthew
+143565	Matthew
+143567	Matthew
+143569	Matthew
+143571	Matthew
 143573	Matthew
 143575	Matthew
-143578	Matthew
-143580	Matthew
-143582	Matthew
+143577	Matthew
+143579	Matthew
+143581	Matthew
 Matthew
-143585	Matthew
+143584	Matthew
 Matthew
-Matthew
-143590	Matthew
-143592	Matthew
-143594	Matthew
-143596	Matthew
-143598	Matthew
-Matthew
-143601	Matthew
-143603	Matthew
+143588	Matthew
+143591	Matthew
+143593	Matthew
+143595	Matthew
 Matthew
 Matthew
-143607	Matthew
+143600	Matthew
+Matthew
+143608	Matthew
 143610	Matthew
 143612	Matthew
-143615	Matthew
-Matthew
-143618	Matthew
 Matthew
 Matthew
-143622	Matthew
+Matthew
+143617	Matthew
+Matthew
+143620	Matthew
+Matthew
+143624	Matthew
 Matthew
 Matthew
 143628	Matthew
 143630	Matthew
-143632	Matthew
 Matthew
+143633	Matthew
+Matthew
+143636	Matthew
 Matthew
 143639	Matthew
-Matthew
-143642	Matthew
-Matthew
+143641	Matthew
 Matthew
 Matthew
-143647	Matthew
-143650	Matthew
+143645	Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+143651	Matthew
 143654	Matthew
-143656	Matthew
-143661	Matthew
-143663	Matthew
 Matthew
 Matthew
-143668	Matthew
+143658	Matthew
+143660	Matthew
+Matthew
+Matthew
+143664	Matthew
+143666	Matthew
+Matthew
+143669	Matthew
 143671	Matthew
 143673	Matthew
-143675	Matthew
 Matthew
+143676	Matthew
+143678	Matthew
+143680	Matthew
+143682	Matthew
+143685	Matthew
 Matthew
-143681	Matthew
-Matthew
-143684	Matthew
-143686	Matthew
-143689	Matthew
-143691	Matthew
-143693	Matthew
-Matthew
-Matthew
-Matthew
-143699	Matthew
-143705	Matthew
-143707	Matthew
-143710	Matthew
-143712	Matthew
+143688	Matthew
+143690	Matthew
+143692	Matthew
+143694	Matthew
+143696	Matthew
+143698	Matthew
+143700	Matthew
+143702	Matthew
+143704	Matthew
+143706	Matthew
+143709	Matthew
+143711	Matthew
+143713	Matthew
 143716	Matthew
-143718	Matthew
-143721	Matthew
-143724	Matthew
-143726	Matthew
-143728	Matthew
+Matthew
+143719	Matthew
+Matthew
+143722	Matthew
+Matthew
+Matthew
+Matthew
+143727	Matthew
+Matthew
+143730	Matthew
 143732	Matthew
 143735	Matthew
-Matthew
-143738	Matthew
-Matthew
-Matthew
+143737	Matthew
+143739	Matthew
 143742	Matthew
-Matthew
+143744	Matthew
 143746	Matthew
+143750	Matthew
+Matthew
+143753	Matthew
+143755	Matthew
 Matthew
 Matthew
-Matthew
-143751	Matthew
-Matthew
-143757	Matthew
 143759	Matthew
-143761	Matthew
+Matthew
+143762	Matthew
 143765	Matthew
-143769	Matthew
-143771	Matthew
-143773	Matthew
+143768	Matthew
+143770	Matthew
 Matthew
-143776	Matthew
-143779	Matthew
+143774	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+143781	Matthew
 143783	Matthew
-143786	Matthew
+143785	Matthew
 Matthew
+143788	Matthew
+143790	Matthew
 143792	Matthew
-143797	Matthew
-143799	Matthew
-Matthew
+143794	Matthew
+143796	Matthew
+143798	Matthew
+143800	Matthew
 143802	Matthew
-143804	Matthew
 Matthew
-143807	Matthew
+143806	Matthew
+143808	Matthew
 143810	Matthew
-143813	Matthew
-143816	Matthew
+143812	Matthew
+143814	Matthew
 Matthew
-143819	Matthew
-143821	Matthew
+143817	Matthew
+Matthew
+143820	Matthew
+143822	Matthew
+Matthew
 Matthew
 143826	Matthew
-Matthew
 143829	Matthew
-143831	Matthew
+Matthew
 143833	Matthew
-Matthew
-143836	Matthew
-143838	Matthew
-Matthew
-Matthew
-Matthew
-143843	Matthew
-Matthew
+143835	Matthew
+143837	Matthew
+143840	Matthew
+143842	Matthew
+143844	Matthew
 143847	Matthew
-143851	Matthew
-143853	Matthew
-143855	Matthew
-143858	Matthew
-143860	Matthew
-143862	Matthew
+143850	Matthew
+143852	Matthew
+143854	Matthew
+143856	Matthew
+Matthew
+Matthew
+Matthew
+143861	Matthew
+Matthew
 Matthew
 143865	Matthew
 143867	Matthew
+143869	Matthew
 Matthew
-143871	Matthew
+143872	Matthew
+143875	Matthew
 Matthew
-Matthew
-143876	Matthew
 143878	Matthew
-143880	Matthew
-143882	Matthew
+143881	Matthew
 Matthew
 Matthew
-143887	Matthew
+143885	Matthew
+Matthew
+143888	Matthew
+143890	Matthew
+143892	Matthew
 Matthew
 Matthew
 Matthew
-143893	Matthew
-143895	Matthew
-143897	Matthew
 Matthew
+Matthew
+Matthew
+143900	Matthew
 143902	Matthew
+143905	Matthew
 Matthew
+143908	Matthew
 Matthew
-143906	Matthew
 143911	Matthew
+143914	Matthew
 Matthew
 Matthew
-143915	Matthew
-143917	Matthew
+143918	Matthew
+143920	Matthew
+143922	Matthew
 Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-143924	Matthew
-Matthew
+143925	Matthew
 Matthew
 Matthew
 143929	Matthew
-Matthew
+143931	Matthew
 143933	Matthew
 Matthew
-Matthew
+143936	Matthew
 143938	Matthew
-143940	Matthew
 Matthew
-143944	Matthew
-Matthew
-Matthew
+143941	Matthew
+143943	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-Matthew
+143949	Matthew
+143951	Matthew
 Matthew
 143954	Matthew
-Matthew
-143957	Matthew
-143964	Matthew
-143966	Matthew
-143968	Matthew
-143972	Matthew
-Matthew
-143975	Matthew
+143956	Matthew
 Matthew
 Matthew
+143960	Matthew
+143962	Matthew
+Matthew
+143965	Matthew
+Matthew
+Matthew
+143969	Matthew
+143971	Matthew
+143973	Matthew
+Matthew
+143977	Matthew
 143979	Matthew
-143981	Matthew
-143983	Matthew
+Matthew
+143982	Matthew
+Matthew
 143985	Matthew
 143987	Matthew
-143989	Matthew
 143991	Matthew
-143993	Matthew
 Matthew
-143997	Matthew
-144000	Matthew
-144002	Matthew
-144004	Matthew
+143994	Matthew
+143996	Matthew
+143999	Matthew
+144001	Matthew
+144003	Matthew
+Matthew
 144006	Matthew
-144008	Matthew
+Matthew
+Matthew
 144010	Matthew
+144012	Matthew
 Matthew
-Matthew
-144014	Matthew
-Matthew
+144015	Matthew
 144017	Matthew
 144019	Matthew
-144021	Matthew
-144023	Matthew
+Matthew
+144022	Matthew
+144024	Matthew
 144026	Matthew
+144028	Matthew
 Matthew
-144029	Matthew
 144031	Matthew
-144033	Matthew
 Matthew
-144036	Matthew
-144039	Matthew
+144035	Matthew
+Matthew
+Matthew
+Matthew
 144041	Matthew
 Matthew
 Matthew
 Matthew
-144047	Matthew
-144049	Matthew
 Matthew
-144052	Matthew
+144047	Matthew
+144050	Matthew
+Matthew
+Matthew
 Matthew
 144056	Matthew
-144058	Matthew
 Matthew
-144062	Matthew
-144064	Matthew
+Matthew
+144060	Matthew
+Matthew
+144063	Matthew
 144066	Matthew
-144069	Matthew
-144071	Matthew
+144068	Matthew
+144070	Matthew
+Matthew
+144073	Matthew
 Matthew
 144076	Matthew
-144079	Matthew
-Matthew
-Matthew
-144083	Matthew
-144085	Matthew
 Matthew
 Matthew
 Matthew
-144091	Matthew
-144094	Matthew
+144081	Matthew
+Matthew
+144087	Matthew
+Matthew
+144090	Matthew
+Matthew
+144093	Matthew
 Matthew
 144097	Matthew
-144099	Matthew
 Matthew
+144100	Matthew
+144102	Matthew
+144104	Matthew
+144106	Matthew
+144108	Matthew
+144110	Matthew
+144112	Matthew
+144115	Matthew
 Matthew
+144118	Matthew
 Matthew
-Matthew
-144105	Matthew
-144107	Matthew
-Matthew
-Matthew
-144113	Matthew
-Matthew
-144116	Matthew
-Matthew
-144120	Matthew
 144122	Matthew
 144124	Matthew
-Matthew
+144126	Matthew
+144128	Matthew
 144130	Matthew
 144132	Matthew
-Matthew
 144135	Matthew
+144137	Matthew
 Matthew
-144139	Matthew
-144141	Matthew
-144143	Matthew
+Matthew
+144142	Matthew
+Matthew
+Matthew
 144146	Matthew
 144148	Matthew
-144150	Matthew
+Matthew
+Matthew
 144152	Matthew
 Matthew
 144155	Matthew
-144160	Matthew
 Matthew
-144163	Matthew
+144158	Matthew
 Matthew
+144161	Matthew
 Matthew
-144167	Matthew
+144164	Matthew
+Matthew
 Matthew
 144170	Matthew
 Matthew
 144173	Matthew
 144175	Matthew
+144177	Matthew
+144180	Matthew
+Matthew
+144183	Matthew
+144185	Matthew
+144187	Matthew
+144190	Matthew
 Matthew
 Matthew
-Matthew
-144181	Matthew
-144186	Matthew
-144188	Matthew
-Matthew
-Matthew
-144192	Matthew
-144194	Matthew
-Matthew
+144195	Matthew
 144197	Matthew
-144200	Matthew
-144202	Matthew
-144204	Matthew
-144206	Matthew
-144208	Matthew
 Matthew
-144211	Matthew
 Matthew
-144214	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+144207	Matthew
+144210	Matthew
+144212	Matthew
+Matthew
+Matthew
 144216	Matthew
 Matthew
+144219	Matthew
 Matthew
-144220	Matthew
 144222	Matthew
-144224	Matthew
-Matthew
-144228	Matthew
+144225	Matthew
 Matthew
 Matthew
-144233	Matthew
-144235	Matthew
-144238	Matthew
+144230	Matthew
 Matthew
-144241	Matthew
 Matthew
-144244	Matthew
+144234	Matthew
+144240	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 144248	Matthew
-Matthew
+144250	Matthew
 144253	Matthew
+144255	Matthew
 Matthew
-144256	Matthew
-144258	Matthew
-144260	Matthew
+Matthew
+144259	Matthew
+144261	Matthew
 144263	Matthew
 Matthew
-144266	Matthew
-Matthew
-Matthew
+144267	Matthew
+144269	Matthew
+144271	Matthew
 144273	Matthew
-144276	Matthew
+144275	Matthew
+Matthew
 144278	Matthew
 144280	Matthew
 Matthew
 Matthew
 144284	Matthew
-144286	Matthew
-144289	Matthew
-144294	Matthew
+Matthew
+144287	Matthew
+Matthew
+Matthew
+Matthew
+144292	Matthew
+Matthew
+144295	Matthew
 144297	Matthew
-144299	Matthew
+Matthew
+Matthew
 144301	Matthew
+144303	Matthew
+144305	Matthew
+144307	Matthew
+Matthew
+144310	Matthew
+144312	Matthew
+Matthew
+144315	Matthew
 Matthew
 Matthew
-144308	Matthew
 Matthew
-144311	Matthew
-Matthew
-144314	Matthew
+144320	Matthew
 Matthew
 Matthew
-Matthew
-144319	Matthew
-144321	Matthew
 Matthew
 144325	Matthew
-Matthew
+144327	Matthew
+144329	Matthew
 144331	Matthew
-144334	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 144337	Matthew
-144339	Matthew
-144341	Matthew
-144344	Matthew
+Matthew
+144340	Matthew
 Matthew
 Matthew
 Matthew
+144345	Matthew
+144347	Matthew
+144349	Matthew
+144351	Matthew
+Matthew
+144354	Matthew
 Matthew
 Matthew
 Matthew
+144359	Matthew
+144361	Matthew
 Matthew
-144353	Matthew
 Matthew
-Matthew
-144357	Matthew
-144360	Matthew
-144364	Matthew
-Matthew
+144365	Matthew
 144368	Matthew
 Matthew
-144371	Matthew
+Matthew
+144373	Matthew
+144375	Matthew
+144377	Matthew
+144379	Matthew
 Matthew
 Matthew
-144376	Matthew
+144383	Matthew
+144385	Matthew
 Matthew
-144382	Matthew
-144384	Matthew
 144388	Matthew
-144391	Matthew
-144393	Matthew
-144397	Matthew
+144390	Matthew
+144392	Matthew
+Matthew
+144395	Matthew
+Matthew
+Matthew
 144399	Matthew
 144401	Matthew
 Matthew
-144404	Matthew
-144406	Matthew
+Matthew
+Matthew
+Matthew
+144407	Matthew
+Matthew
 144410	Matthew
-144412	Matthew
+Matthew
+Matthew
 144414	Matthew
-144419	Matthew
+144416	Matthew
+144418	Matthew
+Matthew
 144421	Matthew
-144424	Matthew
-144426	Matthew
+144423	Matthew
+Matthew
+Matthew
+Matthew
 144428	Matthew
-144430	Matthew
-144432	Matthew
-144434	Matthew
+Matthew
+144431	Matthew
+144433	Matthew
+144435	Matthew
 144437	Matthew
+Matthew
 144440	Matthew
 Matthew
-144443	Matthew
 Matthew
-144452	Matthew
-144455	Matthew
-144457	Matthew
 Matthew
-144460	Matthew
-144467	Matthew
-144470	Matthew
-144472	Matthew
-144474	Matthew
 Matthew
-144479	Matthew
+144446	Matthew
+144448	Matthew
+Matthew
+144451	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+144458	Matthew
+Matthew
+Matthew
+Matthew
+144463	Matthew
+Matthew
+144466	Matthew
+144468	Matthew
+Matthew
+Matthew
+Matthew
+144473	Matthew
+144475	Matthew
+Matthew
+Matthew
 144481	Matthew
 144483	Matthew
-144485	Matthew
-144487	Matthew
-144491	Matthew
-144493	Matthew
+144486	Matthew
+144488	Matthew
+144490	Matthew
+144492	Matthew
+Matthew
 144495	Matthew
-144498	Matthew
-144501	Matthew
-144503	Matthew
-144505	Matthew
-144507	Matthew
-144510	Matthew
-144512	Matthew
-144514	Matthew
-144517	Matthew
+Matthew
+Matthew
+Matthew
+144500	Matthew
+144502	Matthew
+144504	Matthew
+144506	Matthew
+Matthew
+Matthew
+Matthew
+144513	Matthew
+Matthew
+144516	Matthew
+Matthew
 144519	Matthew
-144521	Matthew
+Matthew
+Matthew
+144523	Matthew
 144525	Matthew
-144527	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 144531	Matthew
-144533	Matthew
-144535	Matthew
-144539	Matthew
-144541	Matthew
-144548	Matthew
+Matthew
+144534	Matthew
+Matthew
+Matthew
+144538	Matthew
+Matthew
+Matthew
+Matthew
+144543	Matthew
+144545	Matthew
+Matthew
+Matthew
+144549	Matthew
 144553	Matthew
-144559	Matthew
-144561	Matthew
+144555	Matthew
+Matthew
+Matthew
+Matthew
+144560	Matthew
+144562	Matthew
+Matthew
 Matthew
 144567	Matthew
 144569	Matthew
-144576	Matthew
-144580	Matthew
-144584	Matthew
+Matthew
+144572	Matthew
+Matthew
+144575	Matthew
+144577	Matthew
+Matthew
+Matthew
+144581	Matthew
+Matthew
+Matthew
+Matthew
 144586	Matthew
 144588	Matthew
-144594	Matthew
-144596	Matthew
+144590	Matthew
+144592	Matthew
+Matthew
+144595	Matthew
+144597	Matthew
 144599	Matthew
-144601	Matthew
-144604	Matthew
-144607	Matthew
-144609	Matthew
-144613	Matthew
-144621	Matthew
-144623	Matthew
-144625	Matthew
-144628	Matthew
+Matthew
+Matthew
+144603	Matthew
+Matthew
+144606	Matthew
+Matthew
+Matthew
+144610	Matthew
+144612	Matthew
+144614	Matthew
+Matthew
+Matthew
+144618	Matthew
+144620	Matthew
+Matthew
+144624	Matthew
+144626	Matthew
+Matthew
+Matthew
 144630	Matthew
-144632	Matthew
-144634	Matthew
-144636	Matthew
+144633	Matthew
+144635	Matthew
+Matthew
 144638	Matthew
 Matthew
-144642	Matthew
 Matthew
-144648	Matthew
+Matthew
+Matthew
+144644	Matthew
+144646	Matthew
+Matthew
+Matthew
+Matthew
+144651	Matthew
 144653	Matthew
-144655	Matthew
+Matthew
+144656	Matthew
 144658	Matthew
 144660	Matthew
-144665	Matthew
-144670	Matthew
-Matthew
-144678	Matthew
-144680	Matthew
-144682	Matthew
-144684	Matthew
 Matthew
 Matthew
-144688	Matthew
+144664	Matthew
 Matthew
+Matthew
+144668	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+144676	Matthew
+Matthew
+Matthew
+Matthew
+144681	Matthew
+144683	Matthew
+Matthew
+Matthew
+144687	Matthew
+144689	Matthew
 144691	Matthew
 144693	Matthew
-144696	Matthew
 Matthew
 Matthew
-144700	Matthew
-144703	Matthew
+144697	Matthew
 Matthew
-144706	Matthew
 Matthew
-144709	Matthew
 Matthew
-144713	Matthew
-144716	Matthew
+144702	Matthew
 Matthew
-144719	Matthew
+144705	Matthew
+Matthew
+144708	Matthew
+144710	Matthew
+144712	Matthew
+Matthew
+144715	Matthew
+Matthew
+144718	Matthew
+Matthew
+Matthew
 144722	Matthew
+144724	Matthew
+144726	Matthew
+144728	Matthew
 Matthew
-Matthew
-Matthew
-144727	Matthew
-144729	Matthew
+144731	Matthew
 144733	Matthew
+144735	Matthew
 Matthew
-144736	Matthew
 144738	Matthew
-144741	Matthew
 Matthew
+144742	Matthew
+144744	Matthew
 Matthew
-144745	Matthew
 144747	Matthew
+Matthew
 Matthew
 144751	Matthew
 144753	Matthew
+Matthew
 144756	Matthew
 Matthew
-144759	Matthew
-144763	Matthew
-144765	Matthew
+Matthew
+144760	Matthew
+Matthew
+Matthew
+144764	Matthew
+Matthew
 144767	Matthew
-144771	Matthew
-144774	Matthew
-144776	Matthew
-144778	Matthew
-144781	Matthew
+Matthew
+144770	Matthew
+Matthew
+Matthew
+Matthew
+144775	Matthew
+144777	Matthew
+Matthew
+144780	Matthew
+Matthew
 144783	Matthew
-144785	Matthew
+Matthew
+144786	Matthew
 144788	Matthew
-144790	Matthew
-144792	Matthew
-144794	Matthew
-144796	Matthew
-144799	Matthew
-144802	Matthew
+Matthew
+144791	Matthew
+144793	Matthew
+144795	Matthew
+144797	Matthew
+Matthew
+Matthew
+144801	Matthew
+Matthew
 144804	Matthew
-144809	Matthew
+144806	Matthew
+144808	Matthew
 Matthew
-144813	Matthew
-144815	Matthew
-144817	Matthew
-144819	Matthew
 Matthew
+144812	Matthew
+144814	Matthew
+144816	Matthew
+Matthew
+Matthew
+144820	Matthew
 Matthew
 144823	Matthew
 Matthew
-144826	Matthew
-144829	Matthew
+Matthew
+Matthew
+Matthew
+144830	Matthew
 144832	Matthew
 144834	Matthew
 144836	Matthew
-144840	Matthew
-144843	Matthew
-144846	Matthew
+Matthew
+Matthew
+Matthew
+144842	Matthew
+144844	Matthew
+144847	Matthew
 144849	Matthew
-Matthew
-144852	Matthew
-144855	Matthew
+144851	Matthew
 Matthew
 Matthew
-144859	Matthew
 Matthew
-144863	Matthew
-144867	Matthew
-144871	Matthew
-144873	Matthew
+144856	Matthew
 Matthew
-144880	Matthew
+Matthew
+144860	Matthew
+144862	Matthew
+Matthew
+Matthew
+144866	Matthew
+144868	Matthew
+144870	Matthew
+Matthew
+Matthew
+144874	Matthew
+Matthew
+144877	Matthew
+144879	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
 144885	Matthew
 Matthew
+Matthew
 144889	Matthew
-144892	Matthew
+144891	Matthew
+Matthew
 144894	Matthew
 Matthew
-144897	Matthew
-144900	Matthew
-144902	Matthew
+Matthew
+144898	Matthew
+Matthew
+144901	Matthew
+Matthew
 144904	Matthew
 144906	Matthew
-144909	Matthew
-144911	Matthew
-144913	Matthew
 Matthew
-144919	Matthew
+Matthew
+Matthew
+144912	Matthew
+Matthew
+144915	Matthew
+144918	Matthew
+Matthew
 144921	Matthew
-144924	Matthew
-144928	Matthew
-144930	Matthew
-Matthew
-144933	Matthew
-Matthew
-144936	Matthew
-144938	Matthew
+144923	Matthew
+144925	Matthew
+144927	Matthew
 Matthew
 Matthew
-144942	Matthew
+Matthew
+144932	Matthew
+144934	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+144941	Matthew
+Matthew
+Matthew
 144945	Matthew
-144947	Matthew
-144951	Matthew
-144954	Matthew
-144957	Matthew
-144961	Matthew
-144963	Matthew
+Matthew
+Matthew
+144949	Matthew
+Matthew
+144952	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+144958	Matthew
+144960	Matthew
+144962	Matthew
+Matthew
 144965	Matthew
 144970	Matthew
+144972	Matthew
+Matthew
+144975	Matthew
 144977	Matthew
-144979	Matthew
-144982	Matthew
-144984	Matthew
 Matthew
 Matthew
-144988	Matthew
-144990	Matthew
+144981	Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+144987	Matthew
+Matthew
+Matthew
+144991	Matthew
 144993	Matthew
 144995	Matthew
-144998	Matthew
-145000	Matthew
-Matthew
+144997	Matthew
+144999	Matthew
+145001	Matthew
 145003	Matthew
+Matthew
 145007	Matthew
 Matthew
 145011	Matthew
-145014	Matthew
+145013	Matthew
+145015	Matthew
 Matthew
-145017	Matthew
-145019	Matthew
-145021	Matthew
+145018	Matthew
+145020	Matthew
+Matthew
 145023	Matthew
+145025	Matthew
 145027	Matthew
 145029	Matthew
 Matthew
-145032	Matthew
 Matthew
+145033	Matthew
 Matthew
+145036	Matthew
 Matthew
+145039	Matthew
 Matthew
-145038	Matthew
-145040	Matthew
-145045	Matthew
+145042	Matthew
+145044	Matthew
+145046	Matthew
+145048	Matthew
 Matthew
-145049	Matthew
+145051	Matthew
 Matthew
-145052	Matthew
+145054	Matthew
 145056	Matthew
-145058	Matthew
-145061	Matthew
-145064	Matthew
+145059	Matthew
+Matthew
+145063	Matthew
+Matthew
+Matthew
 145067	Matthew
-145069	Matthew
 Matthew
-145073	Matthew
-145075	Matthew
 Matthew
-145079	Matthew
-145081	Matthew
-145083	Matthew
 Matthew
-145086	Matthew
-145089	Matthew
+Matthew
+145076	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+145085	Matthew
+Matthew
+145088	Matthew
+Matthew
 145091	Matthew
-145093	Matthew
-145095	Matthew
+Matthew
+145094	Matthew
 145097	Matthew
 Matthew
-Matthew
-145101	Matthew
+145100	Matthew
 145103	Matthew
-145105	Matthew
-145107	Matthew
-145109	Matthew
-145111	Matthew
 Matthew
-145114	Matthew
-145117	Matthew
-145119	Matthew
 Matthew
-145124	Matthew
+Matthew
+145108	Matthew
+Matthew
+Matthew
+Matthew
+145113	Matthew
+Matthew
+145116	Matthew
+Matthew
+Matthew
+145120	Matthew
+Matthew
+145123	Matthew
+145125	Matthew
 Matthew
 Matthew
 145129	Matthew
 145131	Matthew
 145133	Matthew
+145135	Matthew
+145137	Matthew
 Matthew
-145138	Matthew
 145140	Matthew
-Matthew
+145142	Matthew
 145144	Matthew
-Matthew
+145146	Matthew
 145148	Matthew
 145150	Matthew
-145158	Matthew
+145152	Matthew
+145154	Matthew
 Matthew
-145161	Matthew
-145163	Matthew
-145168	Matthew
-145170	Matthew
+Matthew
+145158	Matthew
+145160	Matthew
+145162	Matthew
+Matthew
+145165	Matthew
+145167	Matthew
+Matthew
+Matthew
+Matthew
 145172	Matthew
 Matthew
 145175	Matthew
 145177	Matthew
 Matthew
-145180	Matthew
+Matthew
+Matthew
 145182	Matthew
 Matthew
 145185	Matthew
-145188	Matthew
-145190	Matthew
+145187	Matthew
 Matthew
-145193	Matthew
-145196	Matthew
+Matthew
+145191	Matthew
+Matthew
+145194	Matthew
+Matthew
+Matthew
 145198	Matthew
-145200	Matthew
 Matthew
-145203	Matthew
+145201	Matthew
 Matthew
-145206	Matthew
+145204	Matthew
 Matthew
 Matthew
+145208	Matthew
 145210	Matthew
-145215	Matthew
+Matthew
+145213	Matthew
 Matthew
 Matthew
+145217	Matthew
 Matthew
 Matthew
-145221	Matthew
-145223	Matthew
+145222	Matthew
 Matthew
-Matthew
+145225	Matthew
 145227	Matthew
+Matthew
+145230	Matthew
 145232	Matthew
+145234	Matthew
 Matthew
+145237	Matthew
 Matthew
-145236	Matthew
-Matthew
-145239	Matthew
+145240	Matthew
 145242	Matthew
-145244	Matthew
-145246	Matthew
 Matthew
-145249	Matthew
 Matthew
-145252	Matthew
 Matthew
+145248	Matthew
+Matthew
+Matthew
+145253	Matthew
 Matthew
 Matthew
 145257	Matthew
-Matthew
-145265	Matthew
-Matthew
-145268	Matthew
-Matthew
-145272	Matthew
-Matthew
-145276	Matthew
-Matthew
-145280	Matthew
-145282	Matthew
-145284	Matthew
-145288	Matthew
-145290	Matthew
-145292	Matthew
-145294	Matthew
-145297	Matthew
-Matthew
-145300	Matthew
-Matthew
-145305	Matthew
-145308	Matthew
-145310	Matthew
-145313	Matthew
-145315	Matthew
-145318	Matthew
-145322	Matthew
-145324	Matthew
-Matthew
-145327	Matthew
-145330	Matthew
-Matthew
-Matthew
-145336	Matthew
-145338	Matthew
-Matthew
-145341	Matthew
-145343	Matthew
-145345	Matthew
-145347	Matthew
-145349	Matthew
-145351	Matthew
-145353	Matthew
-145355	Matthew
-145357	Matthew
-145359	Matthew
-Matthew
-Matthew
-145366	Matthew
-Matthew
-145369	Matthew
-145372	Matthew
-145374	Matthew
-145379	Matthew
-Matthew
-145382	Matthew
-145385	Matthew
-145387	Matthew
-145391	Matthew
-Matthew
-145394	Matthew
-145397	Matthew
-145399	Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-145410	Matthew
-145416	Matthew
-145418	Matthew
-Matthew
-145421	Matthew
-145423	Matthew
-145425	Matthew
-145427	Matthew
-145429	Matthew
-145431	Matthew
-145436	Matthew
-Matthew
-Matthew
-145441	Matthew
-Matthew
-145444	Matthew
-145446	Matthew
-145452	Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-145461	Matthew
-145463	Matthew
-145466	Matthew
-145469	Matthew
-Matthew
-Matthew
-145474	Matthew
-145476	Matthew
-145478	Matthew
-145480	Matthew
-145485	Matthew
-145487	Matthew
-145490	Matthew
-145492	Matthew
-145494	Matthew
-145496	Matthew
-145498	Matthew
-145501	Matthew
-145505	Matthew
-Matthew
-145509	Matthew
-Matthew
-145512	Matthew
-Matthew
-Matthew
-Matthew
-145517	Matthew
-145519	Matthew
-145521	Matthew
-145523	Matthew
-Matthew
-145526	Matthew
-145528	Matthew
-145531	Matthew
-145533	Matthew
-145535	Matthew
-Matthew
-145538	Matthew
-145541	Matthew
-Matthew
-145544	Matthew
-Matthew
-Matthew
-Matthew
-145550	Matthew
-145552	Matthew
-Matthew
-Matthew
-145556	Matthew
-145558	Matthew
-145560	Matthew
-145562	Matthew
-Matthew
-145565	Matthew
-Matthew
-Matthew
-145569	Matthew
-145571	Matthew
-145573	Matthew
-Matthew
-145576	Matthew
-Matthew
-145581	Matthew
-145583	Matthew
-145585	Matthew
-145588	Matthew
-Matthew
-145592	Matthew
-Matthew
-Matthew
-Matthew
-145597	Matthew
-145599	Matthew
-Matthew
-Matthew
-Matthew
-145605	Matthew
-Matthew
-Matthew
-145610	Matthew
-145614	Matthew
-145616	Matthew
-145618	Matthew
-145620	Matthew
-Matthew
-145623	Matthew
-145625	Matthew
-Matthew
-145629	Matthew
-Matthew
-145632	Matthew
-Matthew
-145636	Matthew
-145638	Matthew
-145640	Matthew
-145642	Matthew
-145644	Matthew
-Matthew
-145648	Matthew
-Matthew
-Matthew
-145652	Matthew
-145654	Matthew
-145656	Matthew
-Matthew
-145659	Matthew
-145661	Matthew
-145664	Matthew
-145666	Matthew
-Matthew
-145670	Matthew
-145672	Matthew
-Matthew
-Matthew
-145676	Matthew
-145678	Matthew
-145680	Matthew
-145682	Matthew
-145684	Matthew
-145686	Matthew
-145688	Matthew
-Matthew
-145692	Matthew
-Matthew
-Matthew
-Matthew
-Matthew
-145698	Matthew
-145700	Matthew
-Matthew
-145704	Matthew
-Matthew
-Matthew
-Matthew
-145709	Matthew
-Matthew
-145712	Matthew
-Matthew
-Matthew
-Matthew
-145717	Matthew
-Matthew
-145722	Matthew
-145724	Matthew
-Matthew
-145727	Matthew
-145729	Matthew
-145731	Matthew
-145733	Matthew
-Matthew
-Matthew
-145739	Matthew
-145741	Matthew
-145745	Matthew
-145747	Matthew
-145751	Matthew
-145753	Matthew
-Matthew
-145756	Matthew
-Matthew
-Matthew
-145761	Matthew
-145763	Matthew
-145765	Matthew
-145768	Matthew
-145770	Matthew
-Matthew
-Matthew
-Matthew
-145776	Matthew
-Matthew
-145779	Matthew
-Matthew
-145783	Matthew
-Matthew
-Matthew
-145787	Matthew
-145789	Matthew
-Matthew
-Matthew
-Matthew
-145794	Matthew
-145796	Matthew
-145800	Matthew
-145802	Matthew
-Matthew
-Matthew
-145806	Matthew
-145809	Matthew
-Matthew
-Matthew
-145813	Matthew
-145815	Matthew
-Matthew
-Matthew
-145820	Matthew
-145826	Matthew
-145828	Matthew
-Matthew
-Matthew
-Matthew
-145833	Matthew
-145836	Matthew
-Matthew
-Matthew
-145841	Matthew
-145843	Matthew
-Matthew
-145847	Matthew
-Matthew
-145850	Matthew
-145852	Matthew
-Matthew
-Matthew
-145856	Matthew
-Matthew
-Matthew
-145860	Matthew
-145862	Matthew
-145864	Matthew
-145866	Matthew
-145869	Matthew
-Matthew
-145872	Matthew
-145874	Matthew
-145876	Matthew
-Matthew
-Matthew
-145883	Matthew
-Matthew
-145887	Matthew
-145889	Matthew
-Matthew
-145892	Matthew
-145895	Matthew
-145897	Matthew
-Matthew
-Matthew
-145902	Matthew
-145904	Matthew
-145906	Matthew
-145911	Matthew
-145913	Matthew
-Matthew
-Matthew
-145918	Matthew
-145922	Matthew
-145925	Matthew
-Matthew
-145928	Matthew
-Matthew
-Matthew
-Matthew
-145933	Matthew
-145935	Matthew
-145937	Matthew
-Matthew
-Matthew
-Matthew
-145942	Matthew
-145944	Matthew
-Matthew
-145948	Matthew
-145950	Matthew
-145952	Matthew
-145954	Matthew
-145956	Matthew
-145958	Matthew
-Matthew
-145961	Matthew
-145963	Matthew
-Matthew
-Matthew
-145967	Matthew
-Matthew
-Matthew
-Matthew
-145972	Matthew
-Matthew
-Matthew
-145977	Matthew
-145979	Matthew
-145981	Matthew
-Matthew
-145984	Matthew
-145986	Matthew
-145988	Matthew
-145990	Matthew
-145992	Matthew
-Matthew
-Matthew
-145997	Matthew
-Matthew
-Matthew
-Matthew
-146003	Matthew
-146005	Matthew
-146007	Matthew
-Matthew
-146011	Matthew
-146013	Matthew
-146015	Matthew
-Matthew
-146018	Matthew
-146020	Matthew
-146022	Matthew
-Matthew
-146025	Matthew
-146027	Matthew
-146029	Matthew
-146031	Matthew
-146033	Matthew
-Matthew
-146036	Matthew
-146038	Matthew
-146040	Matthew
-Matthew
-146044	Matthew
-Matthew
-146049	Matthew
-146052	Matthew
-Matthew
-146055	Matthew
-146057	Matthew
-Matthew
-146061	Matthew
-146063	Matthew
-Matthew
-146067	Matthew
-Matthew
-Matthew
-146071	Matthew
-146073	Matthew
-Matthew
-146077	Matthew
-Matthew
-146080	Matthew
-Matthew
-146083	Matthew
-Matthew
-146086	Matthew
-Matthew
-146089	Matthew
-146091	Matthew
-Matthew
-146094	Matthew
-Matthew
-146097	Matthew
-146099	Matthew
-146102	Matthew
-146106	Matthew
-Matthew
-146110	Matthew
-146112	Matthew
-146114	Matthew
-146116	Matthew
-Matthew
-Matthew
-146120	Matthew
-Matthew
-146123	Matthew
-146125	Matthew
-146128	Matthew
-Matthew
-Matthew
-146132	Matthew
-146134	Matthew
-146136	Matthew
-Matthew
-146139	Matthew
-146141	Matthew
-Matthew
-146146	Matthew
-Matthew
-Matthew
-146150	Matthew
-Matthew
-146156	Matthew
-146158	Matthew
-146160	Matthew
-146163	Matthew
-Matthew
-Matthew
-146167	Matthew
-146171	Matthew
-146173	Matthew
-146178	Matthew
-146180	Matthew
-146182	Matthew
-Matthew
-Matthew
-Matthew
-146187	Matthew
-Matthew
-Matthew
-146191	Matthew
-146194	Matthew
-Matthew
-Matthew
-146198	Matthew
-146200	Matthew
-146202	Matthew
-Matthew
-Matthew
-146206	Matthew
-Matthew
-146210	Matthew
-146212	Matthew
-Matthew
-Matthew
-146216	Matthew
-Matthew
-146219	Matthew
-Matthew
-Matthew
-146225	Matthew
-146227	Matthew
-Matthew
-146230	Matthew
-Matthew
-Matthew
-146235	Matthew
-Matthew
-146238	Matthew
-Matthew
-146241	Matthew
-146243	Matthew
-Matthew
-Matthew
-Matthew
-146249	Matthew
-Matthew
-146252	Matthew
-146257	Matthew
-146259	Matthew
-146261	Matthew
-146263	Matthew
-146265	Matthew
-146267	Matthew
-Matthew
-146270	Matthew
-Matthew
-146273	Matthew
-146275	Matthew
-Matthew
-Matthew
-146279	Matthew
-Matthew
-Matthew
-146283	Matthew
-Matthew
-Matthew
-146288	Matthew
-Matthew
-Matthew
-146292	Matthew
-Matthew
-146295	Matthew
-Matthew
-Matthew
-146299	Matthew
-146301	Matthew
-146303	Matthew
-146305	Matthew
-146307	Matthew
-146309	Matthew
-146311	Matthew
-146315	Matthew
-146317	Matthew
-146319	Matthew
-146321	Matthew
-146323	Matthew
-Matthew
-Matthew
-146329	Matthew
-Matthew
-Matthew
-146334	Matthew
-Matthew
-146337	Matthew
-Matthew
-146340	Matthew
-146342	Matthew
-146344	Matthew
-146346	Matthew
-146348	Matthew
-146351	Matthew
-146353	Matthew
-146355	Matthew
-Matthew
-146362	Matthew
-Matthew
-146368	Matthew
-146370	Matthew
-146372	Matthew
-Matthew
-146375	Matthew
-146377	Matthew
-146379	Matthew
-146381	Matthew
-146383	Matthew
-146385	Matthew
-146387	Matthew
-146389	Matthew
-146391	Matthew
-146393	Matthew
-Matthew
-146396	Matthew
-Matthew
-146399	Matthew
-Matthew
-146403	Matthew
-146405	Matthew
-146407	Matthew
-146410	Matthew
-Matthew
-146413	Matthew
-Matthew
-146416	Matthew
-146418	Matthew
-146422	Matthew
-Matthew
-146427	Matthew
-Matthew
-Matthew
-146431	Matthew
-146434	Matthew
-Matthew
-Matthew
-Matthew
-146447	Matthew
-Matthew
-146451	Matthew
-Matthew
-146454	Matthew
-Matthew
-Matthew
-Matthew
-146460	Matthew
-Matthew
-146463	Matthew
-146465	Matthew
-146467	Matthew
-Matthew
-146470	Matthew
-146475	Matthew
-146477	Matthew
-146480	Matthew
-146482	Matthew
-Matthew
-Matthew
-Matthew
-146487	Matthew
-Matthew
-146491	Matthew
-Matthew
-146494	Matthew
-Matthew
-146497	Matthew
-Matthew
-146500	Matthew
-146502	Matthew
-146504	Matthew
-146506	Matthew
-146508	Matthew
-Matthew
-Matthew
-146512	Matthew
-146514	Matthew
-146518	Matthew
-146520	Matthew
-146523	Matthew
-146525	Matthew
-146527	Matthew
-146529	Matthew
-146532	Matthew
-146534	Matthew
-146537	Matthew
-146539	Matthew
-146541	Matthew
-146543	Matthew
-Matthew
-146546	Matthew
-146548	Matthew
-146550	Matthew
-146553	Matthew
-146555	Matthew
-146558	Matthew
-146560	Matthew
-146562	Matthew
-Matthew
-146565	Matthew
-146567	Matthew
-Matthew
-146571	Matthew
-146573	Matthew
-Matthew
-Matthew
-Matthew
-146578	Matthew
-Matthew
-146582	Matthew
-146584	Matthew
-Matthew
-Matthew
-146589	Matthew
-Matthew
-146592	Matthew
-Matthew
-146595	Matthew
-146597	Matthew
-146599	Matthew
-146601	Matthew
-Matthew
-146605	Matthew
-Matthew
-Matthew
-146609	Matthew
-146611	Matthew
-146613	Matthew
-146615	Matthew
-Matthew
-Matthew
-146620	Matthew
-Matthew
-Matthew
-146626	Matthew
-146628	Matthew
-146630	Matthew
-146633	Matthew
-Matthew
-146636	Matthew
-146638	Matthew
-146642	Matthew
-146644	Matthew
-146646	Matthew
-Matthew
-146649	Matthew
-146651	Matthew
-Matthew
-Matthew
-Matthew
-146658	Matthew
-Matthew
-Matthew
-146664	Matthew
-Matthew
-146667	Matthew
-146669	Matthew
 Mark
-146675	Mark
-146677	Mark
+145260	Mark
 Mark
 Mark
 Mark
 Mark
-146683	Mark
 Mark
 Mark
+Mark
+Mark
+145270	Mark
+Mark
+145273	Mark
+145276	Mark
+Mark
+145279	Mark
+Mark
+145282	Mark
+145284	Mark
+145287	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+145295	Mark
+145297	Mark
+Mark
+145300	Mark
+145302	Mark
+Mark
+Mark
+145306	Mark
+145308	Mark
+Mark
+Mark
+145312	Mark
+145314	Mark
+Mark
+145317	Mark
+145319	Mark
+145321	Mark
+145323	Mark
+Mark
+145326	Mark
+145328	Mark
+145330	Mark
+Mark
+145333	Mark
+145335	Mark
+Mark
+Mark
+145340	Mark
+145342	Mark
+Mark
+145345	Mark
+Mark
+145348	Mark
+Mark
+145351	Mark
+Mark
+145355	Mark
+145357	Mark
+145359	Mark
+Mark
+145362	Mark
+145364	Mark
+Mark
+145367	Mark
+145369	Mark
+145371	Mark
+145375	Mark
+145377	Mark
+145379	Mark
+Mark
+Mark
+145384	Mark
+Mark
+Mark
+Mark
+Mark
+145390	Mark
+Mark
+145393	Mark
+145395	Mark
+Mark
+145398	Mark
+145400	Mark
+145402	Mark
+Mark
+Mark
+Mark
+Mark
+145408	Mark
+145410	Mark
+145412	Mark
+Mark
+145417	Mark
+Mark
+145420	Mark
+145422	Mark
+Mark
+Mark
+145426	Mark
+145428	Mark
+145430	Mark
+Mark
+Mark
+145434	Mark
+145437	Mark
+145439	Mark
+145441	Mark
+Mark
+145444	Mark
+145446	Mark
+Mark
+145449	Mark
+145451	Mark
+Mark
+145454	Mark
+Mark
+145457	Mark
+145460	Mark
+145462	Mark
+145464	Mark
+145466	Mark
+Mark
+Mark
+145470	Mark
+145472	Mark
+145474	Mark
+Mark
+145477	Mark
+145479	Mark
+Mark
+145482	Mark
+Mark
+145485	Mark
+145487	Mark
+Mark
+145490	Mark
+Mark
+Mark
+145494	Mark
+Mark
+Mark
+145498	Mark
+145500	Mark
+145502	Mark
+Mark
+145505	Mark
+Mark
+Mark
+145509	Mark
+Mark
+145512	Mark
+Mark
+145515	Mark
+Mark
+Mark
+145519	Mark
+145521	Mark
+Mark
+145524	Mark
+145526	Mark
+145528	Mark
+Mark
+145531	Mark
+145533	Mark
+145535	Mark
+145537	Mark
+145539	Mark
+Mark
+Mark
+145543	Mark
+Mark
+Mark
+Mark
+145548	Mark
+Mark
+Mark
+145552	Mark
+Mark
+Mark
+145557	Mark
+Mark
+145560	Mark
+Mark
+Mark
+Mark
+Mark
+145566	Mark
+145568	Mark
+Mark
+145571	Mark
+Mark
+Mark
+Mark
+Mark
+145577	Mark
+Mark
+145580	Mark
+145582	Mark
+145585	Mark
+145587	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+145594	Mark
+145596	Mark
+145598	Mark
+Mark
+145601	Mark
+145603	Mark
+Mark
+145606	Mark
+145608	Mark
+145610	Mark
+145612	Mark
+145614	Mark
+Mark
+Mark
+145618	Mark
+Mark
+145621	Mark
+Mark
+145624	Mark
+Mark
+145627	Mark
+145631	Mark
+145633	Mark
+145635	Mark
+Mark
+145638	Mark
+145641	Mark
+145644	Mark
+Mark
+Mark
+145648	Mark
+Mark
+145651	Mark
+Mark
+Mark
+Mark
+145656	Mark
+145659	Mark
+145661	Mark
+Mark
+145665	Mark
+145667	Mark
+145669	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+145676	Mark
+145678	Mark
+145680	Mark
+Mark
+145685	Mark
+Mark
+145688	Mark
+145690	Mark
+145694	Mark
+Mark
+145697	Mark
+145699	Mark
+145701	Mark
+145703	Mark
+Mark
+145706	Mark
+Mark
+Mark
+145710	Mark
+Mark
+Mark
+145714	Mark
+Mark
+Mark
+145718	Mark
+145720	Mark
+145723	Mark
+145725	Mark
+Mark
+Mark
+Mark
+Mark
+145731	Mark
+145733	Mark
+145735	Mark
+Mark
+145738	Mark
+145740	Mark
+145742	Mark
+145744	Mark
+Mark
+Mark
+145748	Mark
+145750	Mark
+145752	Mark
+145754	Mark
+145756	Mark
+Mark
+145759	Mark
+Mark
+145762	Mark
+145764	Mark
+Mark
+145767	Mark
+145769	Mark
+145771	Mark
+Mark
+Mark
+Mark
+145776	Mark
+145778	Mark
+145780	Mark
+Mark
+145783	Mark
+145785	Mark
+145787	Mark
+145789	Mark
+145795	Mark
+Mark
+145798	Mark
+145800	Mark
+145802	Mark
+145804	Mark
+145806	Mark
+145808	Mark
+Mark
+145811	Mark
+145813	Mark
+145815	Mark
+Mark
+145818	Mark
+145820	Mark
+145822	Mark
+145824	Mark
+145826	Mark
+Mark
+145829	Mark
+145831	Mark
+145833	Mark
+145836	Mark
+Mark
+145839	Mark
+Mark
+145842	Mark
+145844	Mark
+145849	Mark
+Mark
+145852	Mark
+145861	Mark
+145863	Mark
+145865	Mark
+145867	Mark
+Mark
+145870	Mark
+Mark
+Mark
+145874	Mark
+145876	Mark
+145878	Mark
+145880	Mark
+145882	Mark
+145885	Mark
+145887	Mark
+Mark
+Mark
+Mark
+145892	Mark
+145894	Mark
+Mark
+145897	Mark
+145899	Mark
+Mark
+145904	Mark
+145906	Mark
+Mark
+Mark
+Mark
+145911	Mark
+Mark
+Mark
+145915	Mark
+145917	Mark
+145919	Mark
+145921	Mark
+145924	Mark
+145928	Mark
+145930	Mark
+145932	Mark
+Mark
+Mark
+145936	Mark
+145939	Mark
+Mark
+Mark
+145943	Mark
+145945	Mark
+Mark
+145950	Mark
+Mark
+Mark
+145955	Mark
+Mark
+145958	Mark
+Mark
+Mark
+145963	Mark
+Mark
+145968	Mark
+Mark
+145971	Mark
+145973	Mark
+Mark
+145976	Mark
+145978	Mark
+145980	Mark
+Mark
+Mark
+145984	Mark
+Mark
+145987	Mark
+145989	Mark
+145992	Mark
+145994	Mark
+145996	Mark
+145998	Mark
+Mark
+146001	Mark
+146003	Mark
+146005	Mark
+146007	Mark
+146009	Mark
+146011	Mark
+146013	Mark
+146015	Mark
+146017	Mark
+146019	Mark
+146021	Mark
+146023	Mark
+Mark
+146027	Mark
+146031	Mark
+Mark
+Mark
+Mark
+146037	Mark
+Mark
+146040	Mark
+Mark
+146043	Mark
+146045	Mark
+Mark
+146048	Mark
+146050	Mark
+Mark
+146053	Mark
+Mark
+146056	Mark
+146058	Mark
+Mark
+146061	Mark
+Mark
+146064	Mark
+146066	Mark
+Mark
+146070	Mark
+Mark
+146073	Mark
+146075	Mark
+146077	Mark
+146079	Mark
+146081	Mark
+146083	Mark
+146085	Mark
+146087	Mark
+Mark
+Mark
+146092	Mark
+146094	Mark
+Mark
+146097	Mark
+146099	Mark
+146102	Mark
+146104	Mark
+146106	Mark
+146108	Mark
+146110	Mark
+146112	Mark
+146114	Mark
+146118	Mark
+146121	Mark
+146123	Mark
+146125	Mark
+146128	Mark
+146130	Mark
+146132	Mark
+146134	Mark
+Mark
+146137	Mark
+146139	Mark
+Mark
+Mark
+146143	Mark
+Mark
+Mark
+146147	Mark
+Mark
+146150	Mark
+146153	Mark
+Mark
+146157	Mark
+Mark
+Mark
+146161	Mark
+Mark
+146164	Mark
+146166	Mark
+146170	Mark
+146173	Mark
+Mark
+Mark
+Mark
+Mark
+146181	Mark
+146183	Mark
+146185	Mark
+Mark
+Mark
+146189	Mark
+Mark
+146192	Mark
+146194	Mark
+146198	Mark
+Mark
+146201	Mark
+146203	Mark
+146205	Mark
+Mark
+146208	Mark
+146210	Mark
+Mark
+146213	Mark
+146215	Mark
+146217	Mark
+Mark
+Mark
+146221	Mark
+Mark
+146224	Mark
+146226	Mark
+146228	Mark
+146230	Mark
+146232	Mark
+146234	Mark
+Mark
+146237	Mark
+146239	Mark
+146242	Mark
+146244	Mark
+146246	Mark
+Mark
+146249	Mark
+Mark
+Mark
+146253	Mark
+146255	Mark
+146257	Mark
+Mark
+Mark
+146261	Mark
+146263	Mark
+146265	Mark
+146267	Mark
+146271	Mark
+146273	Mark
+Mark
+Mark
+146277	Mark
+Mark
+146281	Mark
+146284	Mark
+146286	Mark
+146288	Mark
+Mark
+146291	Mark
+146295	Mark
+146297	Mark
+Mark
+146300	Mark
+146302	Mark
+Mark
+Mark
+146307	Mark
+Mark
+146310	Mark
+Mark
+146314	Mark
+Mark
+146317	Mark
+Mark
+146320	Mark
+146322	Mark
+146324	Mark
+146326	Mark
+Mark
+146329	Mark
+Mark
+Mark
+146333	Mark
+146335	Mark
+146337	Mark
+Mark
+146340	Mark
+146342	Mark
+146344	Mark
+146346	Mark
+146348	Mark
+146351	Mark
+Mark
+Mark
+146355	Mark
+146357	Mark
+146359	Mark
+Mark
+146362	Mark
+Mark
+146365	Mark
+146367	Mark
+146369	Mark
+146371	Mark
+146373	Mark
+Mark
+146376	Mark
+146378	Mark
+146380	Mark
+Mark
+Mark
+146384	Mark
+Mark
+146387	Mark
+146389	Mark
+146391	Mark
+Mark
+Mark
+146395	Mark
+146397	Mark
+146399	Mark
+146401	Mark
+146403	Mark
+Mark
+Mark
+146407	Mark
+146409	Mark
+Mark
+146412	Mark
+146414	Mark
+Mark
+146417	Mark
+Mark
+146420	Mark
+Mark
+146423	Mark
+146425	Mark
+Mark
+146428	Mark
+146430	Mark
+146432	Mark
+146434	Mark
+146436	Mark
+146438	Mark
+146440	Mark
+146442	Mark
+146444	Mark
+146446	Mark
+146448	Mark
+Mark
+Mark
+146452	Mark
+146454	Mark
+146456	Mark
+146458	Mark
+146460	Mark
+146462	Mark
+146464	Mark
+Mark
+Mark
+Mark
+Mark
+146470	Mark
+Mark
+Mark
+146474	Mark
+Mark
+146477	Mark
+Mark
+146480	Mark
+146482	Mark
+Mark
+146485	Mark
+Mark
+146488	Mark
+146490	Mark
+146492	Mark
+Mark
+146495	Mark
+146497	Mark
+Mark
+Mark
+Mark
+146502	Mark
+Mark
+146505	Mark
+Mark
+Mark
+Mark
+Mark
+146511	Mark
+Mark
+146514	Mark
+146518	Mark
+146520	Mark
+146522	Mark
+146525	Mark
+Mark
+Mark
+146529	Mark
+146531	Mark
+146533	Mark
+146535	Mark
+Mark
+146540	Mark
+Mark
+146543	Mark
+Mark
+Mark
+Mark
+146550	Mark
+146552	Mark
+146554	Mark
+146556	Mark
+146558	Mark
+146560	Mark
+146562	Mark
+146564	Mark
+Mark
+Mark
+146568	Mark
+146570	Mark
+146572	Mark
+146574	Mark
+Mark
+Mark
+146578	Mark
+Mark
+Mark
+Mark
+146583	Mark
+146585	Mark
+146587	Mark
+146589	Mark
+146596	Mark
+146598	Mark
+146600	Mark
+146602	Mark
+146604	Mark
+146608	Mark
+Mark
+146611	Mark
+Mark
+146614	Mark
+146616	Mark
+Mark
+146619	Mark
+146621	Mark
+Mark
+146624	Mark
+146626	Mark
+146628	Mark
+146630	Mark
+Mark
+Mark
+Mark
+146635	Mark
+146637	Mark
+146639	Mark
+146641	Mark
+Mark
+146645	Mark
+146649	Mark
+146651	Mark
+Mark
+Mark
+146655	Mark
+Mark
+146658	Mark
+146660	Mark
+146662	Mark
+146664	Mark
+146666	Mark
+146668	Mark
+146670	Mark
+146672	Mark
+146674	Mark
+146676	Mark
+146678	Mark
+146680	Mark
+146682	Mark
+146684	Mark
+146686	Mark
 146688	Mark
 Mark
+Mark
 146692	Mark
-146696	Mark
-146698	Mark
-146700	Mark
+146694	Mark
+Mark
+146697	Mark
+146699	Mark
+146701	Mark
 146703	Mark
-146705	Mark
-146707	Mark
+Mark
+146706	Mark
+146708	Mark
+Mark
 146711	Mark
+146713	Mark
 Mark
+146717	Mark
+146719	Mark
 Mark
+146722	Mark
+146724	Mark
 Mark
-Mark
-Mark
-146718	Mark
-146720	Mark
-146723	Mark
-146725	Mark
 146727	Mark
-146729	Mark
-Mark
-146732	Mark
-146734	Mark
+146731	Mark
+146733	Mark
 146736	Mark
 146738	Mark
-146740	Mark
-146742	Mark
-146745	Mark
 Mark
-146749	Mark
+146741	Mark
+146743	Mark
+146745	Mark
+146748	Mark
+Mark
 146751	Mark
-146753	Mark
+Mark
+Mark
 146755	Mark
-146757	Mark
-146759	Mark
-146763	Mark
+Mark
+146758	Mark
+146760	Mark
+Mark
+Mark
+Mark
 146765	Mark
 146767	Mark
-146769	Mark
+Mark
 146771	Mark
+Mark
+146774	Mark
 Mark
 Mark
 146778	Mark
-146780	Mark
-146782	Mark
-146784	Mark
 Mark
+146781	Mark
+146783	Mark
+146785	Mark
 146787	Mark
 Mark
-146791	Mark
+146790	Mark
+146792	Mark
+146794	Mark
+146796	Mark
+146798	Mark
+146800	Mark
+146802	Mark
 Mark
-146799	Mark
-146801	Mark
-146803	Mark
-Mark
+146805	Mark
 146807	Mark
 146809	Mark
-Mark
 146812	Mark
 146814	Mark
+Mark
 146817	Mark
-146821	Mark
+146819	Mark
+Mark
+146822	Mark
 146824	Mark
 146826	Mark
+146828	Mark
 Mark
-146830	Mark
-146835	Mark
+146831	Mark
+146833	Mark
 Mark
+146836	Mark
 Mark
 146839	Mark
 Mark
-146842	Mark
-146844	Mark
-146846	Mark
+Mark
+146843	Mark
+146845	Mark
+Mark
 146848	Mark
-146850	Mark
-146852	Mark
-146854	Mark
-146856	Mark
 Mark
-146860	Mark
+146851	Mark
+146853	Mark
 Mark
-146863	Mark
+Mark
+Mark
+146858	Mark
+Mark
+Mark
+146862	Mark
+Mark
 146865	Mark
-146867	Mark
-146869	Mark
-Mark
-146877	Mark
-Mark
-146880	Mark
-146882	Mark
 Mark
 Mark
-146887	Mark
-146889	Mark
+Mark
+146870	Mark
+Mark
+Mark
+146875	Mark
+Mark
+146878	Mark
+146881	Mark
+Mark
+146884	Mark
+146886	Mark
+146888	Mark
+146890	Mark
 146892	Mark
 146894	Mark
-Mark
+146896	Mark
 146898	Mark
-146901	Mark
-146903	Mark
+146900	Mark
+146902	Mark
+146904	Mark
 146906	Mark
 Mark
-146910	Mark
-146912	Mark
+146909	Mark
+146911	Mark
+146913	Mark
 Mark
-146915	Mark
-146918	Mark
 Mark
+146917	Mark
+Mark
+146920	Mark
 146922	Mark
 Mark
-146926	Mark
-146931	Mark
-146933	Mark
-146935	Mark
-146937	Mark
-146940	Mark
 Mark
-146943	Mark
-146945	Mark
-146947	Mark
-146949	Mark
-146951	Mark
+146926	Mark
+146928	Mark
+Mark
+146931	Mark
+Mark
+146934	Mark
+Mark
+Mark
+146938	Mark
+146940	Mark
+146942	Mark
+146944	Mark
+146946	Mark
+146948	Mark
+Mark
+Mark
+Mark
 146953	Mark
 146955	Mark
 146957	Mark
+146959	Mark
 Mark
-146960	Mark
 146962	Mark
 Mark
-146966	Mark
+146965	Mark
+146967	Mark
 Mark
 Mark
-146970	Mark
-146972	Mark
+146971	Mark
 Mark
+146974	Mark
 146976	Mark
 146978	Mark
-146981	Mark
-Mark
-146984	Mark
-146986	Mark
-Mark
-146990	Mark
-146992	Mark
-146994	Mark
-Mark
-146998	Mark
-Mark
+146980	Mark
+146983	Mark
+146987	Mark
+146989	Mark
+146991	Mark
+146993	Mark
+146995	Mark
+146997	Mark
+146999	Mark
 147001	Mark
 147003	Mark
-147005	Mark
 Mark
-147008	Mark
-147010	Mark
-147013	Mark
+147006	Mark
+147009	Mark
 Mark
+147012	Mark
+147014	Mark
 147016	Mark
-147019	Mark
-147021	Mark
-147023	Mark
-147025	Mark
 Mark
 Mark
-147030	Mark
+147022	Mark
+147024	Mark
+147026	Mark
+147028	Mark
+Mark
+147031	Mark
+147033	Mark
+147035	Mark
+147037	Mark
 Mark
 Mark
-147034	Mark
-147036	Mark
 Mark
-147039	Mark
-147041	Mark
+147042	Mark
 Mark
+147045	Mark
+147047	Mark
 Mark
-147046	Mark
-147048	Mark
-147050	Mark
-147052	Mark
-Mark
-147055	Mark
-Mark
+147051	Mark
+147053	Mark
+147056	Mark
 147058	Mark
-147061	Mark
+147060	Mark
 Mark
-147064	Mark
-147066	Mark
-147068	Mark
-147071	Mark
+147063	Mark
 Mark
-147074	Mark
+Mark
+147067	Mark
+Mark
+147070	Mark
+147072	Mark
+Mark
+Mark
 147076	Mark
-147079	Mark
-147081	Mark
+Mark
+Mark
+Mark
+Mark
+147082	Mark
 147084	Mark
 147086	Mark
+147089	Mark
+Mark
+147092	Mark
 Mark
 Mark
-Mark
-147091	Mark
-147093	Mark
-147095	Mark
+147096	Mark
 147098	Mark
-147100	Mark
+Mark
+147101	Mark
 Mark
 147104	Mark
-147106	Mark
 Mark
+147107	Mark
 147109	Mark
-147111	Mark
+147112	Mark
 147114	Mark
-147116	Mark
+147117	Mark
 147119	Mark
-Mark
+147121	Mark
 Mark
 147124	Mark
 Mark
-147127	Mark
+Mark
+147128	Mark
 Mark
 147131	Mark
 Mark
-147135	Mark
-147142	Mark
-147144	Mark
-147146	Mark
 Mark
+Mark
+147136	Mark
+Mark
+147139	Mark
+147141	Mark
+147143	Mark
+Mark
+Mark
+147147	Mark
 147149	Mark
+147151	Mark
 147153	Mark
-147157	Mark
+147155	Mark
 Mark
+147158	Mark
 147160	Mark
-147162	Mark
-Mark
-147165	Mark
-147167	Mark
 Mark
 Mark
-147171	Mark
+147164	Mark
+Mark
+Mark
+147168	Mark
+147170	Mark
+Mark
+147173	Mark
 147176	Mark
 147178	Mark
 147180	Mark
-147184	Mark
+Mark
+147183	Mark
+Mark
 147186	Mark
-147188	Mark
+Mark
+147189	Mark
 Mark
 Mark
 Mark
-Mark
-Mark
+147194	Mark
 147196	Mark
 147198	Mark
 147200	Mark
-Mark
+147202	Mark
 147204	Mark
 Mark
-147208	Mark
-147212	Mark
-147215	Mark
+147207	Mark
 Mark
-147219	Mark
-147221	Mark
-147223	Mark
-147226	Mark
 Mark
+Mark
+Mark
+147213	Mark
+Mark
+147216	Mark
+Mark
+Mark
+Mark
+Mark
+147222	Mark
+147224	Mark
+Mark
+147227	Mark
 147229	Mark
-Mark
-Mark
+147231	Mark
 147233	Mark
+147235	Mark
+Mark
+147238	Mark
+Mark
+147241	Mark
+Mark
+147244	Mark
+Mark
+147247	Mark
 Mark
 Mark
-147237	Mark
-Mark
-147240	Mark
-147243	Mark
-147245	Mark
-147250	Mark
-147254	Mark
+147251	Mark
+147253	Mark
+147255	Mark
+147257	Mark
+147259	Mark
 Mark
 Mark
+147263	Mark
+147265	Mark
+147267	Mark
+147269	Mark
+147271	Mark
+147273	Mark
+Mark
+147276	Mark
+147278	Mark
 Mark
 Mark
-147260	Mark
-147262	Mark
-147264	Mark
-147266	Mark
-147268	Mark
-147270	Mark
-147272	Mark
-147274	Mark
+Mark
+147283	Mark
 Mark
 Mark
-147280	Mark
-147282	Mark
-147284	Mark
-147286	Mark
+147287	Mark
 147289	Mark
+147291	Mark
 Mark
-147292	Mark
 Mark
-147296	Mark
+147295	Mark
+Mark
 147298	Mark
 147300	Mark
 147302	Mark
-147304	Mark
-147306	Mark
 Mark
 Mark
 Mark
+147308	Mark
+147310	Mark
 147312	Mark
-147314	Mark
+Mark
+Mark
 147316	Mark
 Mark
 147319	Mark
-147321	Mark
-147323	Mark
-147325	Mark
-147333	Mark
 Mark
+Mark
+Mark
+147324	Mark
+Mark
+147327	Mark
+Mark
+147330	Mark
+Mark
+Mark
+Mark
+147335	Mark
 147337	Mark
-147339	Mark
-147341	Mark
+Mark
+147340	Mark
+Mark
 147343	Mark
 147345	Mark
 147347	Mark
-Mark
+147349	Mark
 147351	Mark
-147353	Mark
-147355	Mark
+Mark
+147354	Mark
+Mark
 Mark
 147358	Mark
 147360	Mark
-147362	Mark
-147366	Mark
+Mark
+Mark
+147364	Mark
+Mark
+Mark
 147368	Mark
-Mark
-147371	Mark
+147370	Mark
+147372	Mark
 147374	Mark
-147377	Mark
-147380	Mark
-147382	Mark
-147384	Mark
 Mark
-147388	Mark
+Mark
+147378	Mark
+147381	Mark
+Mark
+Mark
+Mark
+147386	Mark
+Mark
+147389	Mark
 147391	Mark
-147400	Mark
-147402	Mark
-147404	Mark
-147418	Mark
+147395	Mark
+147397	Mark
+147399	Mark
+Mark
+Mark
+Mark
+Mark
+147405	Mark
+147407	Mark
+147409	Mark
+Mark
+147412	Mark
+147414	Mark
+147416	Mark
 147420	Mark
 147422	Mark
 147424	Mark
+147426	Mark
 Mark
-147427	Mark
 Mark
+147430	Mark
 Mark
-147431	Mark
 147433	Mark
 147435	Mark
-147438	Mark
-147441	Mark
-147444	Mark
-147446	Mark
+Mark
+147439	Mark
+Mark
+147442	Mark
+Mark
+147445	Mark
 Mark
 Mark
-Mark
+147449	Mark
 147451	Mark
 147453	Mark
+147455	Mark
 Mark
-147456	Mark
 147458	Mark
-Mark
+147460	Mark
 147463	Mark
 147465	Mark
-Mark
-Mark
-Mark
-147471	Mark
-Mark
-Mark
+147467	Mark
+147469	Mark
+147472	Mark
 147475	Mark
 147477	Mark
 147479	Mark
-147481	Mark
-147486	Mark
+Mark
+Mark
+147483	Mark
+147485	Mark
+Mark
+Mark
 147489	Mark
-147491	Mark
-147493	Mark
 Mark
-Mark
+147492	Mark
+147496	Mark
 147498	Mark
-147502	Mark
+147500	Mark
 Mark
 Mark
+Mark
+147505	Mark
 147507	Mark
 147509	Mark
 Mark
-147515	Mark
+147513	Mark
 Mark
+147516	Mark
 Mark
+147519	Mark
 147521	Mark
+147523	Mark
 Mark
-147524	Mark
 147526	Mark
+147528	Mark
 Mark
-147532	Mark
+147531	Mark
+Mark
+Mark
+147535	Mark
 Mark
 147538	Mark
+147540	Mark
 Mark
-147542	Mark
-147544	Mark
+147543	Mark
 Mark
-147547	Mark
-147551	Mark
-147553	Mark
+147548	Mark
+147550	Mark
 Mark
 Mark
-147557	Mark
+147554	Mark
+147556	Mark
+Mark
 Mark
 147560	Mark
-147562	Mark
-147566	Mark
-147569	Mark
-147571	Mark
+Mark
+147563	Mark
+147565	Mark
+Mark
+147568	Mark
+147570	Mark
+147572	Mark
+147574	Mark
 147576	Mark
+147578	Mark
 Mark
-147579	Mark
 147581	Mark
-147584	Mark
-147586	Mark
-147588	Mark
-147590	Mark
-147593	Mark
-147597	Mark
-147599	Mark
+147583	Mark
+Mark
+Mark
+147587	Mark
+147589	Mark
+Mark
+147592	Mark
+Mark
+147595	Mark
+Mark
+147598	Mark
+Mark
 147601	Mark
-147604	Mark
+147603	Mark
+147605	Mark
 147607	Mark
-Mark
-147612	Mark
+147609	Mark
+147611	Mark
+147613	Mark
+147615	Mark
 147617	Mark
+147619	Mark
 Mark
+147623	Mark
 Mark
-Mark
-147624	Mark
 Mark
 147627	Mark
 147629	Mark
+Mark
 147632	Mark
+Mark
+Mark
 147636	Mark
 Mark
 147639	Mark
-147642	Mark
+147641	Mark
 Mark
 147645	Mark
 147647	Mark
 147649	Mark
 147651	Mark
 147653	Mark
-147655	Mark
 Mark
-147658	Mark
+147656	Mark
+Mark
 147661	Mark
 147663	Mark
-147667	Mark
+Mark
+Mark
+Mark
+Mark
 147669	Mark
-147671	Mark
-147674	Mark
-147676	Mark
+Mark
+147672	Mark
+Mark
+147677	Mark
 147679	Mark
 147681	Mark
-147683	Mark
+Mark
+147684	Mark
 147686	Mark
 147688	Mark
+147690	Mark
+147692	Mark
+Mark
+147695	Mark
+147697	Mark
 Mark
 Mark
-147694	Mark
-147696	Mark
-147698	Mark
-147700	Mark
-147703	Mark
-147707	Mark
-147709	Mark
-147711	Mark
+Mark
+147702	Mark
+Mark
+Mark
+147706	Mark
+Mark
+Mark
+147710	Mark
+147712	Mark
 147714	Mark
 147716	Mark
 147718	Mark
 147720	Mark
+147722	Mark
+Mark
 147725	Mark
-147728	Mark
-147731	Mark
-147733	Mark
+147727	Mark
+Mark
+147730	Mark
+147732	Mark
+Mark
+Mark
 147736	Mark
-147739	Mark
-147742	Mark
+147738	Mark
+Mark
+147741	Mark
+Mark
 147744	Mark
 147746	Mark
-147748	Mark
+Mark
+Mark
 147751	Mark
 Mark
+147754	Mark
 Mark
-147755	Mark
 147757	Mark
-Mark
-147760	Mark
-Mark
-147763	Mark
+147759	Mark
+147762	Mark
+147764	Mark
 147766	Mark
+147768	Mark
 Mark
-147770	Mark
+147772	Mark
 Mark
 Mark
-147774	Mark
 147776	Mark
-147779	Mark
-147782	Mark
-147789	Mark
-147793	Mark
+147778	Mark
+147780	Mark
 Mark
-147796	Mark
+147783	Mark
+147785	Mark
+147787	Mark
+Mark
+147790	Mark
+Mark
+147794	Mark
 Mark
 Mark
-147801	Mark
+Mark
+Mark
+147800	Mark
 147803	Mark
 147805	Mark
 Mark
-Mark
-147809	Mark
-Mark
-147813	Mark
-147815	Mark
-147819	Mark
-Mark
-147822	Mark
-147824	Mark
-147826	Mark
-Mark
-147829	Mark
-147831	Mark
-Mark
-147835	Mark
-147837	Mark
-147840	Mark
+147808	Mark
+147810	Mark
+147812	Mark
+147814	Mark
 Mark
 Mark
-147845	Mark
+147818	Mark
 Mark
+147821	Mark
+147823	Mark
+Mark
+Mark
+147827	Mark
+Mark
+147830	Mark
+147832	Mark
+Mark
+Mark
+147836	Mark
+Mark
+147839	Mark
+147841	Mark
+147843	Mark
+Mark
+147846	Mark
 147848	Mark
-147850	Mark
+Mark
+147851	Mark
 147853	Mark
-147855	Mark
+Mark
 147857	Mark
-147859	Mark
+147860	Mark
 Mark
 147863	Mark
-147865	Mark
-147867	Mark
-147869	Mark
-147872	Mark
 Mark
-147875	Mark
-147877	Mark
+147866	Mark
 Mark
-147881	Mark
+Mark
+147870	Mark
+Mark
+Mark
+147874	Mark
+Mark
+Mark
+147878	Mark
+147880	Mark
+Mark
 147883	Mark
 147885	Mark
-147887	Mark
+147888	Mark
+147890	Mark
 Mark
-147891	Mark
 147893	Mark
-147895	Mark
-147897	Mark
-147902	Mark
+Mark
+147896	Mark
+147898	Mark
+147900	Mark
+147903	Mark
 147905	Mark
+147907	Mark
+147909	Mark
 Mark
-147908	Mark
-147911	Mark
+147912	Mark
+147914	Mark
+147916	Mark
+147918	Mark
 Mark
-147915	Mark
-147920	Mark
-147922	Mark
-147924	Mark
+147921	Mark
 Mark
-147928	Mark
-147934	Mark
-147938	Mark
 Mark
-147941	Mark
-147944	Mark
 Mark
-147947	Mark
-147953	Mark
+147926	Mark
 Mark
-147956	Mark
 Mark
-147960	Mark
 Mark
-147963	Mark
+147931	Mark
 Mark
-147966	Mark
+Mark
+147935	Mark
+Mark
+Mark
+147939	Mark
+Mark
+Mark
+147943	Mark
+147946	Mark
+147948	Mark
+147950	Mark
+Mark
+Mark
+147954	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+147964	Mark
+Mark
 147968	Mark
-147970	Mark
-147972	Mark
+Mark
+147971	Mark
+Mark
 Mark
 147975	Mark
 Mark
 147978	Mark
 147980	Mark
 147982	Mark
+Mark
 147985	Mark
+Mark
 Mark
 147989	Mark
 147991	Mark
-147994	Mark
-147996	Mark
-147998	Mark
-148002	Mark
-148004	Mark
 Mark
-148007	Mark
+Mark
+147995	Mark
+147997	Mark
+147999	Mark
+Mark
+148003	Mark
+Mark
+Mark
+Mark
+148008	Mark
 148010	Mark
+Mark
 148013	Mark
 Mark
-148017	Mark
+Mark
+Mark
+Mark
 148019	Mark
 148021	Mark
-148023	Mark
-148025	Mark
-148028	Mark
+Mark
+Mark
+Mark
+Mark
+148027	Mark
+Mark
 148030	Mark
 Mark
-148033	Mark
-148035	Mark
-148037	Mark
 Mark
-Mark
-148042	Mark
-Mark
-148045	Mark
-148047	Mark
+148041	Mark
+148048	Mark
 148050	Mark
+148052	Mark
+148054	Mark
+148056	Mark
 Mark
-148053	Mark
-148055	Mark
-148057	Mark
 148059	Mark
+148061	Mark
 148063	Mark
 148065	Mark
+148067	Mark
 Mark
 Mark
-148069	Mark
-148073	Mark
+148071	Mark
 Mark
+148074	Mark
 148076	Mark
 148079	Mark
-Mark
+148081	Mark
 148083	Mark
-Mark
-148086	Mark
-Mark
+148085	Mark
+148087	Mark
 148089	Mark
 148091	Mark
-Mark
+148093	Mark
 148095	Mark
-148097	Mark
-148099	Mark
-148102	Mark
-148104	Mark
-148106	Mark
-148108	Mark
+148098	Mark
+Mark
+148101	Mark
+148103	Mark
+Mark
+Mark
+148107	Mark
+Mark
 148110	Mark
-148112	Mark
+Mark
+148113	Mark
 148115	Mark
-148117	Mark
 Mark
 Mark
-148121	Mark
-148123	Mark
+Mark
+Mark
+Mark
+148122	Mark
+Mark
 148125	Mark
+Mark
 148128	Mark
-148130	Mark
-148132	Mark
+148131	Mark
+Mark
 148134	Mark
 Mark
-Mark
-Mark
-Mark
-148140	Mark
-148142	Mark
-Mark
+148137	Mark
+148139	Mark
+148141	Mark
+148143	Mark
 148145	Mark
 Mark
-148148	Mark
 Mark
-148151	Mark
+148150	Mark
+Mark
+Mark
 148154	Mark
+148156	Mark
 Mark
-148158	Mark
-Mark
+148159	Mark
 148161	Mark
 148163	Mark
 148165	Mark
 Mark
-148169	Mark
-148171	Mark
+148168	Mark
+148170	Mark
 Mark
+148173	Mark
 Mark
-Mark
-148177	Mark
-Mark
+148176	Mark
+148178	Mark
 148180	Mark
-Mark
-Mark
+148182	Mark
 148184	Mark
+148186	Mark
+148188	Mark
 Mark
-148187	Mark
+148191	Mark
 Mark
-148190	Mark
-148197	Mark
+148194	Mark
+Mark
+148198	Mark
 148200	Mark
-148203	Mark
-148207	Mark
+148202	Mark
+Mark
+148206	Mark
+Mark
 Mark
 148210	Mark
-148214	Mark
+Mark
+Mark
+Mark
+Mark
 148216	Mark
-148218	Mark
-148221	Mark
 Mark
-148227	Mark
 Mark
+148220	Mark
+Mark
+Mark
+Mark
+148225	Mark
+148228	Mark
 148230	Mark
 Mark
 Mark
-Mark
+148234	Mark
 148236	Mark
-148240	Mark
-148242	Mark
-148244	Mark
+148239	Mark
+148241	Mark
+148243	Mark
+Mark
 148246	Mark
-148249	Mark
-148251	Mark
-148253	Mark
 Mark
 Mark
-148259	Mark
-148261	Mark
-148263	Mark
-148266	Mark
 Mark
 Mark
-148270	Mark
+148252	Mark
+148255	Mark
 Mark
 Mark
-148274	Mark
-148276	Mark
+Mark
+148260	Mark
+148262	Mark
+148264	Mark
+Mark
+148267	Mark
+148269	Mark
+148271	Mark
+Mark
+Mark
+148275	Mark
+148277	Mark
 148279	Mark
 148281	Mark
 148283	Mark
-148293	Mark
-148295	Mark
+148285	Mark
+148287	Mark
+148289	Mark
+Mark
+148292	Mark
+148294	Mark
 148297	Mark
-148299	Mark
-148301	Mark
-148306	Mark
+148300	Mark
+Mark
+148303	Mark
+Mark
+Mark
+Mark
 Mark
 148309	Mark
+148311	Mark
 Mark
-148312	Mark
-148314	Mark
+Mark
+148315	Mark
 Mark
 148318	Mark
-148320	Mark
-Mark
-148324	Mark
-148326	Mark
-148329	Mark
-148331	Mark
-148334	Mark
 Mark
 Mark
-148339	Mark
-148341	Mark
-148343	Mark
+148323	Mark
+148325	Mark
+Mark
+148328	Mark
+148330	Mark
+148332	Mark
+Mark
+Mark
+148336	Mark
+148338	Mark
+148340	Mark
+Mark
+Mark
+148344	Mark
 148347	Mark
-Mark
-148351	Mark
+148349	Mark
+148352	Mark
+148354	Mark
 148356	Mark
 148358	Mark
-Mark
-Mark
+148360	Mark
+148362	Mark
 148364	Mark
+148366	Mark
+148368	Mark
+148371	Mark
 Mark
-148367	Mark
-148369	Mark
-148372	Mark
 148374	Mark
-148377	Mark
+148376	Mark
+148378	Mark
 148380	Mark
 148382	Mark
-148385	Mark
-148388	Mark
+Mark
+Mark
+148386	Mark
+Mark
 148390	Mark
 148392	Mark
-148394	Mark
-148396	Mark
-148398	Mark
+Mark
+Mark
+Mark
+Mark
 148400	Mark
-148402	Mark
 Mark
 Mark
-148407	Mark
-148410	Mark
+148404	Mark
+148406	Mark
 Mark
-148413	Mark
+148409	Mark
+Mark
+Mark
+Mark
+148415	Mark
 148417	Mark
 148419	Mark
 148421	Mark
+148424	Mark
 Mark
-148426	Mark
+Mark
 148428	Mark
+148430	Mark
+148432	Mark
+148434	Mark
 Mark
-148431	Mark
-148435	Mark
+148439	Mark
 Mark
-148440	Mark
-148443	Mark
-Mark
+148442	Mark
+148444	Mark
 148446	Mark
-148448	Mark
-148450	Mark
-148452	Mark
+Mark
+148449	Mark
+148451	Mark
+Mark
+Mark
+148455	Mark
+Mark
 148458	Mark
-148460	Mark
-148464	Mark
-148466	Mark
-148468	Mark
-148470	Mark
-148472	Mark
-148474	Mark
-148478	Mark
 Mark
-148481	Mark
+148461	Mark
 Mark
 Mark
-148485	Mark
+148465	Mark
+148467	Mark
 Mark
+Mark
+148471	Mark
+148473	Mark
+148475	Mark
+Mark
+Mark
+148479	Mark
+Mark
+Mark
+148483	Mark
+Mark
+Mark
+148487	Mark
 148489	Mark
 148491	Mark
-Mark
-Mark
-Mark
-148496	Mark
+148493	Mark
+148495	Mark
+148497	Mark
 148499	Mark
+148501	Mark
 Mark
 148504	Mark
+148506	Mark
 Mark
-148507	Mark
+148509	Mark
+148511	Mark
 Mark
-Mark
-148512	Mark
-Mark
+148514	Mark
 148517	Mark
 148519	Mark
-148521	Mark
-148524	Mark
 Mark
-148527	Mark
-148529	Mark
+Mark
+Mark
+148524	Mark
+148526	Mark
+148528	Mark
+Mark
+Mark
 148532	Mark
 148534	Mark
-148536	Mark
-148538	Mark
+Mark
+148537	Mark
+Mark
+Mark
 148541	Mark
 148543	Mark
-148545	Mark
+Mark
+148546	Mark
 148548	Mark
-148551	Mark
-148554	Mark
-148556	Mark
+148550	Mark
 Mark
-148559	Mark
-148563	Mark
+148553	Mark
+148555	Mark
 Mark
-148566	Mark
-148569	Mark
-148571	Mark
-148574	Mark
+148558	Mark
+148560	Mark
+148562	Mark
+148564	Mark
 Mark
+148567	Mark
+148570	Mark
+148572	Mark
+Mark
+148576	Mark
 148578	Mark
 148580	Mark
+148582	Mark
 Mark
-148583	Mark
+Mark
 Mark
 148587	Mark
 Mark
-Mark
+148590	Mark
 148592	Mark
-148594	Mark
+Mark
+Mark
 Mark
 148597	Mark
-Mark
+148599	Mark
 148601	Mark
-148603	Mark
 Mark
-Mark
+148605	Mark
 Mark
 148608	Mark
-148610	Mark
 Mark
+148611	Mark
 148613	Mark
-Mark
-148616	Mark
-148618	Mark
+148615	Mark
 Mark
 Mark
-148622	Mark
+148619	Mark
 Mark
-Mark
+148626	Mark
 148628	Mark
+148630	Mark
 Mark
-148632	Mark
-148639	Mark
+148633	Mark
 Mark
+148636	Mark
+148638	Mark
+Mark
+148641	Mark
 148643	Mark
-148645	Mark
+Mark
+148646	Mark
 148648	Mark
-148650	Mark
+Mark
+Mark
 148652	Mark
-148655	Mark
+148654	Mark
+Mark
 148657	Mark
+Mark
 148660	Mark
-148663	Mark
-148665	Mark
-148667	Mark
-148669	Mark
-148671	Mark
-148673	Mark
-148675	Mark
-148677	Mark
+148664	Mark
+148666	Mark
+148668	Mark
+148670	Mark
+148672	Mark
+148674	Mark
+148676	Mark
 Mark
 Mark
-148682	Mark
-148684	Mark
-148686	Mark
-148688	Mark
-148690	Mark
+148681	Mark
 Mark
-148693	Mark
+Mark
+148685	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 148695	Mark
 Mark
 148698	Mark
-Mark
-148703	Mark
-Mark
+148700	Mark
+148704	Mark
 Mark
 148707	Mark
-148709	Mark
-148712	Mark
-148714	Mark
+Mark
+148710	Mark
+Mark
+148713	Mark
+148715	Mark
 148717	Mark
 148719	Mark
-148722	Mark
+148721	Mark
+148726	Mark
+148728	Mark
+148731	Mark
 Mark
 Mark
-148727	Mark
-148729	Mark
-148732	Mark
-148735	Mark
 Mark
-148739	Mark
 Mark
-148742	Mark
+148737	Mark
+Mark
+148740	Mark
+Mark
+Mark
+Mark
 148745	Mark
-148747	Mark
 Mark
-148750	Mark
 Mark
-148753	Mark
+Mark
+148751	Mark
+Mark
+148754	Mark
 148756	Mark
 148758	Mark
-148761	Mark
-148764	Mark
-148769	Mark
-148771	Mark
-148773	Mark
-148775	Mark
-148777	Mark
-148779	Mark
-148783	Mark
-148785	Mark
-148787	Mark
-148789	Mark
-148792	Mark
-148796	Mark
 Mark
+148762	Mark
+Mark
+148765	Mark
+148768	Mark
+148772	Mark
+148774	Mark
+148776	Mark
+Mark
+Mark
+148780	Mark
+148782	Mark
+Mark
+Mark
+148786	Mark
+Mark
+Mark
+Mark
+148791	Mark
+148793	Mark
+148795	Mark
+148797	Mark
 148799	Mark
-148801	Mark
-148803	Mark
 Mark
+148802	Mark
+Mark
+148806	Mark
 Mark
 148810	Mark
-148814	Mark
-148816	Mark
-148818	Mark
 Mark
-148822	Mark
-148826	Mark
+Mark
+Mark
+148815	Mark
+Mark
+148820	Mark
+Mark
+148823	Mark
+148825	Mark
+Mark
 148828	Mark
-148830	Mark
 Mark
 Mark
+148832	Mark
 Mark
-148835	Mark
 Mark
+148836	Mark
 148838	Mark
-148840	Mark
-148842	Mark
-148846	Mark
-148848	Mark
-148852	Mark
-148855	Mark
-148858	Mark
-148860	Mark
-148862	Mark
+148841	Mark
+148843	Mark
 Mark
 Mark
-148867	Mark
-148869	Mark
-148871	Mark
+148847	Mark
+148849	Mark
+148851	Mark
+Mark
+Mark
+Mark
+148856	Mark
+Mark
+148859	Mark
+148861	Mark
+148864	Mark
+Mark
+148868	Mark
+Mark
+Mark
+Mark
 148873	Mark
 Mark
 148876	Mark
 148878	Mark
-148880	Mark
-148882	Mark
 Mark
-Mark
-148886	Mark
-148888	Mark
-148890	Mark
+148881	Mark
+148883	Mark
+148885	Mark
+148887	Mark
+148889	Mark
+148891	Mark
 148894	Mark
+148897	Mark
 Mark
-148898	Mark
-148900	Mark
 Mark
-148904	Mark
+Mark
+148902	Mark
+Mark
+Mark
 148906	Mark
 Mark
-148910	Mark
+148909	Mark
+Mark
 148912	Mark
 148914	Mark
-Mark
 148917	Mark
 148919	Mark
-148922	Mark
-148924	Mark
-148927	Mark
-148929	Mark
-148931	Mark
+148921	Mark
+148923	Mark
+148925	Mark
+Mark
+148928	Mark
+148932	Mark
 Mark
 148935	Mark
 Mark
-Mark
 148939	Mark
 Mark
-148942	Mark
+Mark
+Mark
 Mark
 148945	Mark
+148948	Mark
+148951	Mark
+148953	Mark
+148955	Mark
 Mark
-148949	Mark
-Mark
-148952	Mark
-148954	Mark
-148956	Mark
 148958	Mark
+148960	Mark
+148962	Mark
+148964	Mark
+148966	Mark
 Mark
-148961	Mark
-148963	Mark
-148965	Mark
-148968	Mark
 148970	Mark
 148972	Mark
 148974	Mark
 148976	Mark
+148978	Mark
 Mark
+148981	Mark
 Mark
-148980	Mark
+148984	Mark
 Mark
-148983	Mark
-148985	Mark
 148987	Mark
 Mark
-148991	Mark
-148995	Mark
-148997	Mark
-149000	Mark
 Mark
+148991	Mark
+Mark
+Mark
+148996	Mark
+148998	Mark
+149000	Mark
 149003	Mark
+Mark
 Mark
 149007	Mark
 Mark
 149010	Mark
 Mark
-Mark
-Mark
-149016	Mark
+149013	Mark
+149015	Mark
+149017	Mark
 149019	Mark
 149021	Mark
-149023	Mark
-149025	Mark
-149027	Mark
 Mark
-149030	Mark
+149028	Mark
 Mark
-149033	Mark
+Mark
+149032	Mark
+Mark
 Mark
 149036	Mark
-149038	Mark
+149039	Mark
 149041	Mark
-149043	Mark
 Mark
+149044	Mark
 Mark
 Mark
 149048	Mark
-149051	Mark
-149053	Mark
 Mark
-149056	Mark
+Mark
+Mark
+Mark
+Mark
+149055	Mark
+Mark
 149058	Mark
-149060	Mark
-149062	Mark
-149064	Mark
 Mark
-149067	Mark
+149061	Mark
+149063	Mark
+149065	Mark
+Mark
+Mark
 Mark
 149070	Mark
+149072	Mark
+149074	Mark
 Mark
-149073	Mark
-Mark
-149078	Mark
+149077	Mark
 Mark
 Mark
-149083	Mark
-149085	Mark
+Mark
+Mark
+149084	Mark
+Mark
 149087	Mark
-149089	Mark
-149091	Mark
 Mark
+149090	Mark
+149092	Mark
+149094	Mark
 Mark
 149097	Mark
-149099	Mark
-149101	Mark
-149104	Mark
-149106	Mark
-149108	Mark
 Mark
+149100	Mark
+Mark
+149103	Mark
+149105	Mark
+Mark
+Mark
+Mark
+149110	Mark
 149112	Mark
 149114	Mark
 Mark
+149117	Mark
 Mark
 Mark
-149119	Mark
+149121	Mark
+149123	Mark
+149125	Mark
 Mark
 Mark
-149124	Mark
-149126	Mark
-149128	Mark
+149129	Mark
 Mark
-Mark
-149133	Mark
-Mark
+149132	Mark
+149134	Mark
 149136	Mark
 149138	Mark
 149140	Mark
-Mark
-Mark
+149142	Mark
+149144	Mark
 Mark
 149147	Mark
 149149	Mark
-149151	Mark
 Mark
 Mark
+149153	Mark
 149155	Mark
 Mark
+Mark
 149159	Mark
+149161	Mark
+149163	Mark
 Mark
-149162	Mark
-Mark
-149165	Mark
-Mark
-149168	Mark
-Mark
+149166	Mark
+149169	Mark
 149171	Mark
+149173	Mark
 Mark
 Mark
+149177	Mark
+149179	Mark
 Mark
-149176	Mark
-149178	Mark
 Mark
-149181	Mark
 Mark
 149184	Mark
-149187	Mark
-149189	Mark
-149191	Mark
+149186	Mark
+Mark
+Mark
+149190	Mark
+Mark
+Mark
 149194	Mark
+149196	Mark
 Mark
-149197	Mark
+149199	Mark
 Mark
 Mark
-149201	Mark
 149203	Mark
+149205	Mark
+149207	Mark
 Mark
-149206	Mark
-149208	Mark
-Mark
-149211	Mark
+149210	Mark
+149212	Mark
 149214	Mark
-149216	Mark
-149218	Mark
-149220	Mark
 Mark
-Mark
-149224	Mark
-149228	Mark
-Mark
+149217	Mark
+149219	Mark
+149221	Mark
+149223	Mark
+149225	Mark
+149227	Mark
+149229	Mark
 Mark
 Mark
 149233	Mark
+149236	Mark
+149238	Mark
+149240	Mark
 Mark
-149237	Mark
-149241	Mark
+Mark
 149244	Mark
 149246	Mark
-149248	Mark
 Mark
+149249	Mark
 Mark
-Mark
-Mark
+149252	Mark
 149254	Mark
-149256	Mark
 149258	Mark
 Mark
 149261	Mark
 149263	Mark
-149266	Mark
-149271	Mark
-149273	Mark
-149275	Mark
-149277	Mark
 Mark
 Mark
-149282	Mark
-149284	Mark
+149267	Mark
+149269	Mark
+Mark
+149272	Mark
+149274	Mark
+149276	Mark
+149278	Mark
+Mark
+149281	Mark
+149283	Mark
+Mark
 149286	Mark
 149288	Mark
-149290	Mark
+Mark
+149291	Mark
+Mark
 149294	Mark
 Mark
-149297	Mark
 Mark
-149301	Mark
-Mark
+149298	Mark
+149300	Mark
+149302	Mark
 149304	Mark
 149306	Mark
-149308	Mark
+Mark
+Mark
 149310	Mark
-149312	Mark
 Mark
-149315	Mark
-149317	Mark
+Mark
+149314	Mark
+149316	Mark
+Mark
+149319	Mark
 149321	Mark
-149323	Mark
-149325	Mark
-149327	Mark
-149331	Mark
-149338	Mark
-149340	Mark
+Mark
+149324	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+149332	Mark
+149334	Mark
+Mark
+149337	Mark
 149342	Mark
+149344	Mark
 Mark
 Mark
-149346	Mark
+Mark
 149349	Mark
 Mark
+149352	Mark
+149354	Mark
 Mark
-149353	Mark
 Mark
-149357	Mark
-149362	Mark
+149359	Mark
+149361	Mark
+149363	Mark
 149365	Mark
 149367	Mark
 Mark
+149370	Mark
+149372	Mark
 Mark
-Mark
-149373	Mark
 149375	Mark
-149377	Mark
 Mark
-149380	Mark
+149378	Mark
 Mark
-149384	Mark
-149386	Mark
-149388	Mark
+Mark
+149382	Mark
+149385	Mark
+149387	Mark
+Mark
 149390	Mark
-149392	Mark
 Mark
+149393	Mark
 149395	Mark
+Mark
 149398	Mark
-Mark
-149401	Mark
-149403	Mark
-149405	Mark
+149400	Mark
+149404	Mark
+149406	Mark
 149408	Mark
-Mark
-149411	Mark
-149414	Mark
-Mark
+149410	Mark
+149413	Mark
+149415	Mark
 149417	Mark
+149419	Mark
+149421	Mark
 Mark
-149422	Mark
-149424	Mark
 Mark
+149425	Mark
 Mark
 149428	Mark
 149430	Mark
-Mark
-Mark
+149432	Mark
 149434	Mark
 Mark
-149437	Mark
-149440	Mark
 Mark
-149443	Mark
-149446	Mark
+Mark
+Mark
+149440	Mark
+149442	Mark
+Mark
+149445	Mark
+Mark
 149448	Mark
-149450	Mark
-149453	Mark
+Mark
+149451	Mark
+Mark
+149454	Mark
 149456	Mark
 Mark
-149459	Mark
-149461	Mark
 Mark
-149464	Mark
-149466	Mark
-149469	Mark
 Mark
+Mark
+149462	Mark
+Mark
+149465	Mark
+Mark
+149468	Mark
+149470	Mark
 149472	Mark
 Mark
 149475	Mark
+149477	Mark
 Mark
-149478	Mark
+149480	Mark
 Mark
-149481	Mark
-149484	Mark
+Mark
+Mark
+Mark
 149486	Mark
-149488	Mark
-149490	Mark
-149492	Mark
-149495	Mark
-149497	Mark
-149499	Mark
-149501	Mark
 Mark
-149505	Mark
+149489	Mark
+149491	Mark
+Mark
+149494	Mark
+149496	Mark
 Mark
 Mark
-149509	Mark
-149512	Mark
+149500	Mark
+149502	Mark
+149504	Mark
+149506	Mark
+149508	Mark
 Mark
-149515	Mark
+149511	Mark
+149513	Mark
 Mark
+149516	Mark
+149518	Mark
 Mark
-149519	Mark
 149521	Mark
 149523	Mark
 149525	Mark
 149527	Mark
-149530	Mark
-149532	Mark
-149534	Mark
-149536	Mark
-149538	Mark
 Mark
+149530	Mark
+Mark
+149533	Mark
+Mark
+149537	Mark
+149539	Mark
 149541	Mark
 Mark
-149546	Mark
+149544	Mark
+Mark
+Mark
 149548	Mark
+149550	Mark
 Mark
 Mark
-149552	Mark
 Mark
 149555	Mark
+149557	Mark
+149559	Mark
 Mark
-149558	Mark
-Mark
+149562	Mark
 149564	Mark
-149566	Mark
-149568	Mark
-149570	Mark
-149572	Mark
-149574	Mark
-149576	Mark
+Mark
+149567	Mark
+Mark
+Mark
+149571	Mark
+149573	Mark
+Mark
+Mark
+Mark
 149578	Mark
-149581	Mark
-Mark
+149580	Mark
+149582	Mark
 149584	Mark
-149587	Mark
+149586	Mark
 Mark
-Mark
+149589	Mark
 Mark
 149592	Mark
-149594	Mark
 Mark
+149595	Mark
 149597	Mark
 149599	Mark
 Mark
 149602	Mark
-149604	Mark
-149607	Mark
+Mark
+Mark
+149606	Mark
+Mark
 149609	Mark
-149612	Mark
+149611	Mark
+Mark
 149614	Mark
 149616	Mark
+149618	Mark
 Mark
-149620	Mark
-149622	Mark
-Mark
-149625	Mark
-149627	Mark
+149621	Mark
 Mark
 Mark
-149631	Mark
-149633	Mark
+149626	Mark
+149628	Mark
+149630	Mark
+Mark
+149634	Mark
 Mark
 149637	Mark
-Mark
-149640	Mark
+149639	Mark
+149641	Mark
 149643	Mark
 Mark
 Mark
+149648	Mark
 149650	Mark
 Mark
 149653	Mark
 Mark
 149656	Mark
 149658	Mark
-149661	Mark
-149663	Mark
-149665	Mark
-149667	Mark
-Mark
-149670	Mark
+149660	Mark
 Mark
 Mark
-149675	Mark
-149677	Mark
-149679	Mark
+149664	Mark
+149666	Mark
+149668	Mark
+149671	Mark
+Mark
+149674	Mark
+149676	Mark
+149678	Mark
+Mark
 149681	Mark
-149683	Mark
-149685	Mark
 149687	Mark
-Mark
-149690	Mark
-Mark
-149695	Mark
+149689	Mark
 Mark
 Mark
 Mark
 Mark
-149701	Mark
-149705	Mark
-149708	Mark
-149710	Mark
-149713	Mark
-149715	Mark
-149717	Mark
-149719	Mark
-149721	Mark
+Mark
+Mark
+Mark
+149698	Mark
+149700	Mark
+149702	Mark
+149704	Mark
+149706	Mark
+Mark
+149709	Mark
+149712	Mark
+Mark
+149716	Mark
+149718	Mark
+149720	Mark
+Mark
 Mark
 149724	Mark
 Mark
-149728	Mark
-149730	Mark
-149732	Mark
+149727	Mark
 Mark
-149735	Mark
 Mark
-149738	Mark
-149740	Mark
-149742	Mark
 Mark
-149745	Mark
+Mark
+149733	Mark
+Mark
+149736	Mark
+Mark
+149739	Mark
+149741	Mark
+Mark
+149744	Mark
+149746	Mark
 Mark
 149749	Mark
-149751	Mark
-149753	Mark
 Mark
-149756	Mark
-149758	Mark
-149760	Mark
-149762	Mark
-149765	Mark
 Mark
-149771	Mark
+149757	Mark
+149759	Mark
+149761	Mark
+149764	Mark
+149766	Mark
+149768	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 149775	Mark
-Mark
+149777	Mark
 149779	Mark
+149781	Mark
 Mark
-149782	Mark
-Mark
-Mark
+149784	Mark
 149786	Mark
 Mark
+149789	Mark
 Mark
-149790	Mark
 Mark
 149793	Mark
-149795	Mark
-149797	Mark
 Mark
+149796	Mark
+149798	Mark
 149800	Mark
-149804	Mark
-149808	Mark
-149811	Mark
+149802	Mark
 Mark
-149814	Mark
+149807	Mark
 Mark
-149817	Mark
+149810	Mark
+Mark
+149813	Mark
+Mark
+149816	Mark
+Mark
 149819	Mark
 149821	Mark
-149824	Mark
-149826	Mark
+149823	Mark
+Mark
+Mark
+Mark
 149828	Mark
 149830	Mark
 Mark
-149833	Mark
-149835	Mark
-149837	Mark
-149840	Mark
 Mark
-149843	Mark
+149834	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+149842	Mark
+Mark
 149846	Mark
 Mark
+149849	Mark
+149851	Mark
 Mark
-149850	Mark
-Mark
-Mark
-Mark
-149855	Mark
-Mark
-Mark
+149854	Mark
+149857	Mark
 149859	Mark
+149861	Mark
 Mark
 Mark
-149864	Mark
+Mark
 Mark
 149867	Mark
-149869	Mark
-149871	Mark
-149873	Mark
-149875	Mark
-149877	Mark
-149879	Mark
-149881	Mark
-149883	Mark
+Mark
+149870	Mark
+Mark
+Mark
+149874	Mark
+149876	Mark
+149878	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 149885	Mark
 Mark
+149888	Mark
+149891	Mark
+149893	Mark
+Mark
+149896	Mark
 Mark
 Mark
-Mark
-Mark
-149894	Mark
-Mark
-149899	Mark
 Mark
 149902	Mark
 149904	Mark
-149907	Mark
-149909	Mark
-Mark
+149906	Mark
+149908	Mark
+149910	Mark
 149912	Mark
-149914	Mark
+Mark
+Mark
+Mark
 149917	Mark
 Mark
-149920	Mark
 Mark
-Mark
+149921	Mark
 149924	Mark
 149926	Mark
-Mark
-Mark
+149928	Mark
 149930	Mark
-149932	Mark
+Mark
+Mark
 149934	Mark
 Mark
 149937	Mark
-Mark
-149940	Mark
-Mark
-149943	Mark
-149945	Mark
-Mark
-149948	Mark
-Mark
-Mark
-Mark
-149954	Mark
-149956	Mark
-149958	Mark
-Mark
-Mark
-Mark
-Mark
-149964	Mark
-Mark
-149968	Mark
-Mark
-Mark
-149982	Mark
-149991	Mark
-149994	Mark
-149997	Mark
-149999	Mark
-150003	Mark
-Mark
-150006	Mark
-150009	Mark
-150011	Mark
-150013	Mark
-150015	Mark
-Mark
-Mark
-150019	Mark
-Mark
-150023	Mark
-150025	Mark
-150030	Mark
-150032	Mark
-150035	Mark
-150037	Mark
-150039	Mark
-150041	Mark
-150043	Mark
-150045	Mark
-150049	Mark
-150051	Mark
-Mark
-150054	Mark
-150056	Mark
-Mark
-Mark
-150060	Mark
-Mark
-150063	Mark
-150065	Mark
-150067	Mark
-150069	Mark
-Mark
-Mark
-Mark
-150074	Mark
-150076	Mark
-150078	Mark
-150080	Mark
-150082	Mark
-Mark
-150085	Mark
-150088	Mark
-150090	Mark
-150092	Mark
-150094	Mark
-150097	Mark
-150099	Mark
-150102	Mark
-150104	Mark
-150106	Mark
-Mark
-Mark
-150112	Mark
-Mark
-Mark
-150117	Mark
-150119	Mark
-Mark
-150122	Mark
-150126	Mark
-150128	Mark
-150130	Mark
-Mark
-150133	Mark
-150135	Mark
-Mark
-150139	Mark
-Mark
-150143	Mark
-150145	Mark
-150147	Mark
-150151	Mark
-150153	Mark
-150156	Mark
-150160	Mark
-Mark
-150163	Mark
-150166	Mark
-150168	Mark
-Mark
-150173	Mark
-150175	Mark
-150177	Mark
-Mark
-150181	Mark
-Mark
-Mark
-150185	Mark
-Mark
-150188	Mark
-Mark
-Mark
-150192	Mark
-Mark
-Mark
-150196	Mark
-Mark
-Mark
-Mark
-150201	Mark
-150203	Mark
-150205	Mark
-150207	Mark
-Mark
-150211	Mark
-150213	Mark
-150217	Mark
-150221	Mark
-150223	Mark
-150226	Mark
-150229	Mark
-Mark
-Mark
-150233	Mark
-150235	Mark
-150237	Mark
-150241	Mark
-Mark
-Mark
-150245	Mark
-150247	Mark
-150250	Mark
-150253	Mark
-Mark
-150256	Mark
-150258	Mark
-150260	Mark
-Mark
-Mark
-150264	Mark
-150266	Mark
-150268	Mark
-150271	Mark
-150274	Mark
-150276	Mark
-150279	Mark
-150281	Mark
-Mark
-150284	Mark
-150287	Mark
-150290	Mark
-150292	Mark
-Mark
-150295	Mark
-Mark
-Mark
-Mark
-150300	Mark
-150302	Mark
-150305	Mark
-Mark
-Mark
-150310	Mark
-Mark
-150314	Mark
-Mark
-Mark
-150319	Mark
-150322	Mark
-Mark
-150325	Mark
-150327	Mark
-150329	Mark
-Mark
-Mark
-150333	Mark
-150335	Mark
-150338	Mark
-Mark
-Mark
-150343	Mark
-150346	Mark
-150348	Mark
-150352	Mark
-150354	Mark
-150356	Mark
-150359	Mark
-150361	Mark
-150364	Mark
-150366	Mark
-150368	Mark
-150371	Mark
-150376	Mark
-Mark
-150380	Mark
-150382	Mark
-150384	Mark
-150386	Mark
-150388	Mark
-Mark
-Mark
-150392	Mark
-Mark
-150396	Mark
-150398	Mark
-Mark
-Mark
-Mark
-Mark
-150407	Mark
-Mark
-Mark
-150411	Mark
-150414	Mark
-Mark
-150417	Mark
-Mark
-Mark
-Mark
-150422	Mark
-150425	Mark
-150427	Mark
-150429	Mark
-150434	Mark
-Mark
-150437	Mark
-150439	Mark
-150441	Mark
-150444	Mark
-150447	Mark
-150449	Mark
-150454	Mark
-150456	Mark
-150458	Mark
-150460	Mark
-150462	Mark
-150465	Mark
-150467	Mark
-150469	Mark
-Mark
-150473	Mark
-150476	Mark
-Mark
-150479	Mark
-Mark
-150484	Mark
-Mark
-Mark
-150488	Mark
-150491	Mark
-Mark
-150494	Mark
-150496	Mark
-150498	Mark
-150500	Mark
-Mark
-Mark
-150504	Mark
-Mark
-Mark
-150508	Mark
-Mark
-150511	Mark
-150513	Mark
-150515	Mark
-150517	Mark
-150519	Mark
-150521	Mark
-150523	Mark
-150525	Mark
-150528	Mark
-Mark
-150531	Mark
-150533	Mark
-150535	Mark
-150537	Mark
-150541	Mark
-Mark
-150544	Mark
-150548	Mark
-150550	Mark
-Mark
-Mark
-Mark
-150555	Mark
-150557	Mark
-150559	Mark
-150562	Mark
-Mark
-150565	Mark
-150568	Mark
-Mark
-150571	Mark
-Mark
-150575	Mark
-150577	Mark
-150579	Mark
-Mark
-Mark
-150584	Mark
-150586	Mark
-Mark
-150589	Mark
-150593	Mark
-Mark
-150596	Mark
-150598	Mark
-150600	Mark
-150602	Mark
-Mark
-150606	Mark
-150610	Mark
-150612	Mark
-Mark
-150615	Mark
-150618	Mark
-150620	Mark
-150623	Mark
-Mark
-150627	Mark
-Mark
-150630	Mark
-150632	Mark
-150634	Mark
-150636	Mark
-Mark
-150639	Mark
-Mark
-150642	Mark
-150644	Mark
-150646	Mark
-Mark
-150651	Mark
-Mark
-150654	Mark
-150656	Mark
-150658	Mark
-150660	Mark
-150663	Mark
-150665	Mark
-Mark
-150668	Mark
-Mark
-150674	Mark
-150676	Mark
-150678	Mark
-150680	Mark
-150682	Mark
-Mark
-150686	Mark
-150688	Mark
-Mark
-150692	Mark
-150694	Mark
-Mark
-150697	Mark
-150699	Mark
-Mark
-150702	Mark
-150704	Mark
-150706	Mark
-Mark
-150709	Mark
-150711	Mark
-150713	Mark
-150716	Mark
-150719	Mark
-150721	Mark
-150723	Mark
-150725	Mark
-150728	Mark
-150730	Mark
-Mark
-Mark
-150737	Mark
-Mark
-Mark
-150741	Mark
-Mark
-Mark
-Mark
-Mark
-Mark
-Mark
-Mark
-Mark
-150751	Mark
-150753	Mark
-150756	Mark
-150759	Mark
-150765	Mark
-Mark
-150768	Mark
-Mark
-150771	Mark
-150773	Mark
-150775	Mark
-150779	Mark
-150781	Mark
-150783	Mark
-150786	Mark
-150792	Mark
-150794	Mark
-150798	Mark
-Mark
-Mark
-Mark
-Mark
-150804	Mark
-Mark
-150807	Mark
-Mark
-Mark
-Mark
-150812	Mark
-Mark
-Mark
-150816	Mark
-150819	Mark
-150821	Mark
-150823	Mark
-150825	Mark
-150827	Mark
-Mark
-150832	Mark
-Mark
-150835	Mark
-150839	Mark
-150843	Mark
-150845	Mark
-150848	Mark
-Mark
-Mark
-150852	Mark
-150854	Mark
-Mark
-150857	Mark
-150859	Mark
-Mark
-Mark
-Mark
-150864	Mark
-150867	Mark
-150870	Mark
-150872	Mark
-150874	Mark
-150876	Mark
-150879	Mark
-Mark
-150882	Mark
-Mark
-150887	Mark
-Mark
-Mark
-150891	Mark
-150894	Mark
-Mark
-150900	Mark
-150902	Mark
-150904	Mark
-150906	Mark
-Mark
-150909	Mark
-Mark
-150912	Mark
-150914	Mark
-150916	Mark
-Mark
-150919	Mark
-150921	Mark
-150925	Mark
-150928	Mark
-150930	Mark
-Mark
-150933	Mark
-150937	Mark
-150939	Mark
-150941	Mark
-Mark
-Mark
-150945	Mark
-150947	Mark
-150949	Mark
-150951	Mark
-150955	Mark
-Mark
-150960	Mark
-Mark
-150964	Mark
-Mark
-150968	Mark
-Mark
-150972	Mark
-150974	Mark
-Mark
-150979	Mark
-150981	Mark
-150984	Mark
-150986	Mark
-150988	Mark
-150990	Mark
-150993	Mark
-150998	Mark
-Mark
-Mark
-Mark
-151003	Mark
-151005	Mark
-151008	Mark
-151010	Mark
-Mark
-151013	Mark
-Mark
-151016	Mark
-151019	Mark
-151022	Mark
-151024	Mark
-151026	Mark
-151028	Mark
-151031	Mark
-151034	Mark
-151036	Mark
-151039	Mark
-Mark
-151042	Mark
-151044	Mark
-151048	Mark
-151050	Mark
-151052	Mark
-Mark
-Mark
-151057	Mark
-151061	Mark
-151065	Mark
-151067	Mark
-151069	Mark
-Mark
-151073	Mark
-151075	Mark
-151077	Mark
-151079	Mark
-151082	Mark
-Mark
-151088	Mark
-151090	Mark
-151093	Mark
-151097	Mark
-151099	Mark
-Mark
-151102	Mark
-Mark
-151105	Mark
-Mark
-151108	Mark
-Mark
-Mark
-151112	Mark
-Mark
-151115	Mark
-151119	Mark
-151122	Mark
-151125	Mark
-151129	Mark
-151132	Mark
-Mark
-151135	Mark
-Mark
-151139	Mark
-151141	Mark
-151143	Mark
-151145	Mark
-151147	Mark
-151151	Mark
-151153	Mark
-Mark
-151161	Mark
-Mark
-Mark
-151165	Mark
-Mark
-Mark
-151169	Mark
-151174	Mark
-151177	Mark
-Mark
-151180	Mark
-151182	Mark
-Mark
-151186	Mark
-151188	Mark
-151190	Mark
-Mark
-Mark
-Mark
-151196	Mark
-Mark
-151199	Mark
-151201	Mark
-151203	Mark
-151205	Mark
-151207	Mark
-Mark
-Mark
-Mark
-151214	Mark
-151216	Mark
-151218	Mark
-Mark
-151221	Mark
-Mark
-Mark
-Mark
-Mark
-151229	Mark
-Mark
-151232	Mark
-Mark
-151235	Mark
-151239	Mark
-151242	Mark
-Mark
-151245	Mark
-Mark
-151248	Mark
-Mark
-151251	Mark
-151253	Mark
-151255	Mark
-Mark
-Mark
-151259	Mark
-151262	Mark
-151264	Mark
-151266	Mark
-151268	Mark
-Mark
-151271	Mark
-151273	Mark
-151275	Mark
-151277	Mark
-Mark
-151280	Mark
-151282	Mark
-Mark
-151285	Mark
-151289	Mark
-151291	Mark
-151294	Mark
-151296	Mark
-151298	Mark
-151301	Mark
-Mark
-151305	Mark
-151308	Mark
-Mark
-Mark
-151312	Mark
-151315	Mark
-Mark
-151318	Mark
-151320	Mark
-151322	Mark
-151324	Mark
-151326	Mark
-151329	Mark
-151334	Mark
-151336	Mark
-151338	Mark
-151340	Mark
-Mark
-151343	Mark
-151346	Mark
-151348	Mark
-Mark
-Mark
-151352	Mark
-151354	Mark
-151356	Mark
-Mark
-151360	Mark
-Mark
-Mark
-151364	Mark
-151366	Mark
-Mark
-151370	Mark
-Mark
-Mark
-151374	Mark
-151377	Mark
-151379	Mark
-Mark
-151382	Mark
-151385	Mark
-151387	Mark
-151389	Mark
-151391	Mark
-151393	Mark
-151395	Mark
-151397	Mark
-151400	Mark
-151402	Mark
-151404	Mark
-Mark
-Mark
-151408	Mark
-151411	Mark
-151413	Mark
-151416	Mark
-Mark
-Mark
-151420	Mark
-151423	Mark
-151425	Mark
-151427	Mark
-151429	Mark
-151431	Mark
-151434	Mark
-151439	Mark
-151441	Mark
-151443	Mark
-151445	Mark
-151447	Mark
-151449	Mark
-151451	Mark
-151454	Mark
-Mark
-151458	Mark
-151460	Mark
-151462	Mark
-151464	Mark
-Mark
-151468	Mark
-151471	Mark
-Mark
-151476	Mark
-151478	Mark
-Mark
-151481	Mark
-Mark
-151484	Mark
-Mark
-151488	Mark
-151490	Mark
-151492	Mark
-151495	Mark
-151497	Mark
-151499	Mark
-Mark
-Mark
-151505	Mark
-Mark
-Mark
-151509	Mark
-151511	Mark
-Mark
-151515	Mark
-151517	Mark
-151520	Mark
-151522	Mark
-Mark
-151525	Mark
-Mark
-151528	Mark
-Mark
-Mark
-151532	Mark
-151535	Mark
-Mark
-151539	Mark
-151546	Mark
-151548	Mark
-Mark
-Mark
-Mark
-151553	Mark
-Mark
-151556	Mark
-151559	Mark
-Mark
-Mark
-151564	Mark
-151567	Mark
-151569	Mark
-151572	Mark
-151575	Mark
-Mark
-151578	Mark
-151580	Mark
-Mark
-151584	Mark
-Mark
-151588	Mark
-151590	Mark
-Mark
-151593	Mark
-151596	Mark
-151598	Mark
-Mark
-151602	Mark
-Mark
-151606	Mark
-151608	Mark
-Mark
-151612	Mark
-151614	Mark
-151620	Mark
-151623	Mark
-151625	Mark
-151628	Mark
-151632	Mark
-151634	Mark
-151637	Mark
-151639	Mark
-151641	Mark
-Mark
-Mark
-151645	Mark
-Mark
-151649	Mark
-151652	Mark
-151654	Mark
-151656	Mark
-Mark
-Mark
-Mark
-Mark
-151663	Mark
-151665	Mark
-151667	Mark
-151669	Mark
-Mark
-151673	Mark
-151675	Mark
-151677	Mark
-151679	Mark
-151681	Mark
-151683	Mark
-Mark
-151686	Mark
-Mark
-Mark
-151690	Mark
-Mark
-151694	Mark
-151696	Mark
-151698	Mark
-151700	Mark
-151702	Mark
-Mark
-151705	Mark
-151708	Mark
-151710	Mark
-151712	Mark
-Mark
-Mark
-Mark
-Mark
-151719	Mark
-Mark
-151724	Mark
-151726	Mark
-Mark
-151729	Mark
-151731	Mark
-Mark
-Mark
-151735	Mark
-151737	Mark
-151739	Mark
-151741	Mark
-151743	Mark
-151745	Mark
-151747	Mark
-151749	Mark
-151751	Mark
-151753	Mark
-151755	Mark
-151757	Mark
-151759	Mark
-151761	Mark
-151763	Mark
-151765	Mark
-Mark
-151768	Mark
-Mark
-151772	Mark
-Mark
-151777	Mark
-151779	Mark
-151782	Mark
-Mark
-151785	Mark
-Mark
-Mark
-151789	Mark
-151791	Mark
-Mark
-Mark
-Mark
-151796	Mark
-151798	Mark
-151800	Mark
-151802	Mark
-151804	Mark
-151806	Mark
-151808	Mark
-151810	Mark
-Mark
-Mark
-151814	Mark
-151816	Mark
-Mark
-Mark
-Mark
-151821	Mark
-151823	Mark
-151825	Mark
-151827	Mark
-151829	Mark
-Mark
-151832	Mark
-Mark
-151835	Mark
-Mark
-151838	Mark
-151840	Mark
-151842	Mark
-Mark
-151846	Mark
-Mark
-Mark
-151850	Mark
-Mark
-151853	Mark
-151856	Mark
-151858	Mark
-151860	Mark
-151863	Mark
-151865	Mark
-Mark
-151868	Mark
-Mark
-Mark
-151874	Mark
-151876	Mark
-151878	Mark
-Mark
-151884	Mark
-151886	Mark
-151888	Mark
-151891	Mark
-151893	Mark
-151895	Mark
-151898	Mark
-151900	Mark
-151904	Mark
-151906	Mark
-151909	Mark
-151912	Mark
-Mark
-151915	Mark
-151918	Mark
-151921	Mark
-Mark
-Mark
-151926	Mark
-151928	Mark
-151930	Mark
-151933	Mark
-151935	Mark
-151937	Mark
-151939	Mark
-151941	Mark
-151943	Mark
-151945	Mark
-151950	Mark
-151952	Mark
-Mark
-Mark
-Mark
-151957	Mark
-Mark
-Mark
-151961	Mark
-151965	Mark
-151967	Mark
-151969	Mark
-151971	Mark
-151974	Mark
-Mark
-151977	Mark
-151983	Mark
-Mark
-151989	Mark
-151991	Mark
-151993	Mark
-Mark
-Mark
-151997	Mark
-151999	Mark
-152001	Mark
-Mark
-Mark
-152005	Mark
-152007	Mark
-152009	Mark
-Mark
-152012	Mark
-Mark
-152015	Mark
-152018	Mark
-Mark
-152022	Mark
-152024	Mark
-Mark
-152027	Mark
-152029	Mark
-Mark
-152042	Mark
-152044	Mark
-152046	Mark
-152050	Mark
-152053	Mark
-152056	Mark
-152058	Mark
-152060	Mark
-Mark
-152065	Mark
-152067	Mark
-152069	Mark
-152073	Mark
-152075	Mark
-152077	Mark
-Mark
-152080	Mark
-152082	Mark
-Mark
-152086	Mark
-Mark
-Mark
-152090	Mark
-152092	Mark
-152094	Mark
-152096	Mark
-152101	Mark
-152103	Mark
-Mark
-152111	Mark
-Mark
-152115	Mark
-Mark
-152118	Mark
-Mark
-152122	Mark
-Mark
-152125	Mark
-152127	Mark
-152130	Mark
-Mark
-Mark
-Mark
-152135	Mark
-152137	Mark
-Mark
-Mark
-152143	Mark
-152145	Mark
-Mark
-152148	Mark
-Mark
-152151	Mark
-152154	Mark
-Mark
-152161	Mark
-Mark
-152164	Mark
-152167	Mark
-Mark
-152170	Mark
-152174	Mark
-152176	Mark
-152178	Mark
-Mark
-152182	Mark
-Mark
-Mark
-152186	Mark
-152188	Mark
-152190	Mark
-Mark
-Mark
-152195	Mark
-152197	Mark
-152199	Mark
-Mark
-Mark
-Mark
-Mark
-Mark
-152207	Mark
-Mark
-152210	Mark
-152214	Mark
-152216	Mark
-Mark
-152219	Mark
-Mark
-Mark
-152223	Mark
-152226	Mark
-152228	Mark
-152230	Mark
-152232	Mark
-152234	Mark
-152236	Mark
-152238	Mark
-Mark
-Mark
-152243	Mark
-Mark
-152246	Mark
-152248	Mark
-152253	Mark
-152256	Mark
-152258	Mark
-152260	Mark
-Mark
-152263	Mark
-152265	Mark
-Mark
-152268	Mark
-152270	Mark
-152272	Mark
+149939	Mark
+149941	Mark
+149946	Luke
+Luke
+Luke
+149950	Luke
+149952	Luke
+149954	Luke
+Luke
+Luke
+149959	Luke
+Luke
+Luke
+Luke
+Luke
+149965	Luke
+149967	Luke
+149969	Luke
+Luke
+149973	Luke
+149975	Luke
+149977	Luke
+149979	Luke
+149981	Luke
+Luke
+149984	Luke
+Luke
+149987	Luke
+149989	Luke
+Luke
+149992	Luke
+Luke
+149995	Luke
+149997	Luke
+Luke
+150001	Luke
+150003	Luke
+150005	Luke
+150007	Luke
+150010	Luke
+150012	Luke
+150014	Luke
+150017	Luke
+150019	Luke
+150021	Luke
+150023	Luke
+150025	Luke
+Luke
+Luke
+150029	Luke
+Luke
+150032	Luke
+150034	Luke
+150036	Luke
+Luke
+Luke
+150040	Luke
+150042	Luke
+Luke
+150045	Luke
+150047	Luke
+Luke
+150050	Luke
+Luke
+Luke
+Luke
+Luke
+150056	Luke
+150058	Luke
+150060	Luke
+150062	Luke
+Luke
+Luke
+150066	Luke
+150068	Luke
+150070	Luke
+150072	Luke
+150074	Luke
+150076	Luke
+Luke
+150079	Luke
+150081	Luke
+Luke
+150084	Luke
+Luke
+Luke
+150088	Luke
+Luke
+Luke
+Luke
+150093	Luke
+150095	Luke
+Luke
+Luke
+Luke
+Luke
+150101	Luke
+150103	Luke
+Luke
+150106	Luke
+Luke
+150110	Luke
+150112	Luke
+Luke
+150115	Luke
+150117	Luke
+Luke
+150120	Luke
+150122	Luke
+150124	Luke
+150126	Luke
+150128	Luke
+Luke
+150131	Luke
+150133	Luke
+Luke
+Luke
+150137	Luke
+150139	Luke
+Luke
+150142	Luke
+Luke
+150146	Luke
+150148	Luke
+150150	Luke
+150152	Luke
+Luke
+Luke
+Luke
+150157	Luke
+150159	Luke
+Luke
+150162	Luke
+150164	Luke
+150166	Luke
+150168	Luke
+Luke
+150171	Luke
+150173	Luke
+150175	Luke
+Luke
+Luke
+150179	Luke
+Luke
+150182	Luke
+150184	Luke
+150186	Luke
+150188	Luke
+Luke
+150191	Luke
+150193	Luke
+150195	Luke
+150197	Luke
+150199	Luke
+Luke
+150202	Luke
+150204	Luke
+150206	Luke
+150208	Luke
+150210	Luke
+150212	Luke
+150215	Luke
+Luke
+Luke
+Luke
+150220	Luke
+Luke
+Luke
+150224	Luke
+Luke
+Luke
+Luke
+150229	Luke
+150232	Luke
+150234	Luke
+150236	Luke
+150238	Luke
+150240	Luke
+150242	Luke
+150245	Luke
+150247	Luke
+150249	Luke
+Luke
+Luke
+150253	Luke
+150255	Luke
+Luke
+Luke
+150259	Luke
+150261	Luke
+150263	Luke
+Luke
+150266	Luke
+150269	Luke
+Luke
+150272	Luke
+Luke
+Luke
+Luke
+150277	Luke
+150279	Luke
+150281	Luke
+150283	Luke
+Luke
+150286	Luke
+150288	Luke
+150290	Luke
+150292	Luke
+150294	Luke
+Luke
+150297	Luke
+150299	Luke
+150301	Luke
+150303	Luke
+Luke
+Luke
+150307	Luke
+150309	Luke
+150311	Luke
+150313	Luke
+Luke
+150317	Luke
+Luke
+150320	Luke
+Luke
+150323	Luke
+Luke
+Luke
+150331	Luke
+Luke
+150334	Luke
+Luke
+Luke
+150338	Luke
+150341	Luke
+150343	Luke
+150345	Luke
+150347	Luke
+150349	Luke
+Luke
+Luke
+Luke
+Luke
+150355	Luke
+Luke
+Luke
+150359	Luke
+Luke
+150362	Luke
+150364	Luke
+150366	Luke
+Luke
+150369	Luke
+150371	Luke
+Luke
+150374	Luke
+150376	Luke
+150379	Luke
+150381	Luke
+150383	Luke
+150385	Luke
+Luke
+150388	Luke
+150390	Luke
+150392	Luke
+150394	Luke
+150396	Luke
+Luke
+150399	Luke
+Luke
+150402	Luke
+Luke
+150405	Luke
+Luke
+Luke
+150409	Luke
+150411	Luke
+Luke
+150414	Luke
+Luke
+150417	Luke
+150419	Luke
+150421	Luke
+Luke
+150424	Luke
+150426	Luke
+150428	Luke
+Luke
+150431	Luke
+Luke
+150434	Luke
+150438	Luke
+150440	Luke
+Luke
+150443	Luke
+150445	Luke
+150447	Luke
+150449	Luke
+150451	Luke
+Luke
+150454	Luke
+Luke
+150457	Luke
+Luke
+150460	Luke
+150463	Luke
+150465	Luke
+150467	Luke
+Luke
+150470	Luke
+150472	Luke
+150475	Luke
+Luke
+Luke
+150479	Luke
+150481	Luke
+Luke
+150486	Luke
+150488	Luke
+Luke
+150492	Luke
+Luke
+Luke
+150496	Luke
+150498	Luke
+150500	Luke
+150502	Luke
+Luke
+150507	Luke
+150509	Luke
+150511	Luke
+150513	Luke
+150515	Luke
+150517	Luke
+150519	Luke
+150521	Luke
+150525	Luke
+Luke
+150529	Luke
+150532	Luke
+150534	Luke
+150536	Luke
+Luke
+Luke
+150541	Luke
+150543	Luke
+150546	Luke
+150548	Luke
+Luke
+Luke
+Luke
+Luke
+150554	Luke
+Luke
+150559	Luke
+Luke
+150562	Luke
+150564	Luke
+150567	Luke
+Luke
+150570	Luke
+150572	Luke
+Luke
+150575	Luke
+150577	Luke
+150580	Luke
+Luke
+150583	Luke
+Luke
+150586	Luke
+150588	Luke
+150590	Luke
+Luke
+Luke
+150594	Luke
+150597	Luke
+Luke
+Luke
+150601	Luke
+Luke
+Luke
+150605	Luke
+150607	Luke
+150609	Luke
+150611	Luke
+150614	Luke
+Luke
+150617	Luke
+Luke
+150620	Luke
+Luke
+150623	Luke
+Luke
+150626	Luke
+Luke
+150629	Luke
+Luke
+150632	Luke
+Luke
+150635	Luke
+150637	Luke
+150639	Luke
+150641	Luke
+150643	Luke
+150648	Luke
+Luke
+150651	Luke
+150653	Luke
+150656	Luke
+150659	Luke
+Luke
+150662	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+150669	Luke
+150672	Luke
+150674	Luke
+150676	Luke
+150678	Luke
+Luke
+Luke
+Luke
+150683	Luke
+Luke
+150686	Luke
+150688	Luke
+Luke
+Luke
+150692	Luke
+150694	Luke
+Luke
+150697	Luke
+150699	Luke
+Luke
+150702	Luke
+150704	Luke
+Luke
+150707	Luke
+150709	Luke
+Luke
+Luke
+150713	Luke
+150715	Luke
+150717	Luke
+150719	Luke
+150721	Luke
+Luke
+150724	Luke
+Luke
+150728	Luke
+Luke
+150731	Luke
+150733	Luke
+Luke
+Luke
+Luke
+150738	Luke
+Luke
+150741	Luke
+150743	Luke
+150745	Luke
+150747	Luke
+Luke
+Luke
+Luke
+150752	Luke
+150754	Luke
+Luke
+Luke
+Luke
+150760	Luke
+Luke
+150763	Luke
+150765	Luke
+150768	Luke
+Luke
+150772	Luke
+Luke
+150775	Luke
+Luke
+150778	Luke
+150781	Luke
+Luke
+150784	Luke
+150786	Luke
+150788	Luke
+150790	Luke
+Luke
+Luke
+150794	Luke
+Luke
+150797	Luke
+150799	Luke
+150801	Luke
+Luke
+150804	Luke
+150806	Luke
+Luke
+150809	Luke
+150811	Luke
+Luke
+150814	Luke
+150816	Luke
+Luke
+150819	Luke
+150821	Luke
+Luke
+150824	Luke
+Luke
+150828	Luke
+150830	Luke
+150832	Luke
+150834	Luke
+150836	Luke
+150838	Luke
+Luke
+Luke
+Luke
+150843	Luke
+150845	Luke
+150847	Luke
+150849	Luke
+150851	Luke
+Luke
+150854	Luke
+150856	Luke
+150858	Luke
+150861	Luke
+Luke
+150864	Luke
+Luke
+150867	Luke
+Luke
+150870	Luke
+Luke
+150873	Luke
+150875	Luke
+150877	Luke
+Luke
+150880	Luke
+Luke
+150883	Luke
+150885	Luke
+150887	Luke
+Luke
+150890	Luke
+150892	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+150901	Luke
+Luke
+Luke
+Luke
+150906	Luke
+Luke
+Luke
+150910	Luke
+150912	Luke
+Luke
+150915	Luke
+150917	Luke
+150919	Luke
+150921	Luke
+150923	Luke
+150925	Luke
+150927	Luke
+Luke
+Luke
+Luke
+150932	Luke
+Luke
+150935	Luke
+Luke
+Luke
+150939	Luke
+150941	Luke
+Luke
+Luke
+150945	Luke
+150947	Luke
+150949	Luke
+150951	Luke
+150953	Luke
+150955	Luke
+150957	Luke
+Luke
+150960	Luke
+Luke
+150963	Luke
+Luke
+150966	Luke
+150968	Luke
+Luke
+150971	Luke
+150973	Luke
+150975	Luke
+150977	Luke
+150979	Luke
+Luke
+150982	Luke
+150987	Luke
+Luke
+Luke
+Luke
+Luke
+150993	Luke
+Luke
+Luke
+150997	Luke
+150999	Luke
+Luke
+Luke
+151003	Luke
+151005	Luke
+Luke
+Luke
+151009	Luke
+151012	Luke
+151014	Luke
+151016	Luke
+Luke
+151019	Luke
+151021	Luke
+151023	Luke
+Luke
+151026	Luke
+151028	Luke
+Luke
+151031	Luke
+Luke
+Luke
+Luke
+151036	Luke
+Luke
+151039	Luke
+Luke
+151042	Luke
+151044	Luke
+151046	Luke
+Luke
+Luke
+151050	Luke
+Luke
+151053	Luke
+Luke
+Luke
+151057	Luke
+151059	Luke
+151061	Luke
+151063	Luke
+151065	Luke
+151067	Luke
+Luke
+151070	Luke
+151072	Luke
+151074	Luke
+151077	Luke
+151079	Luke
+151081	Luke
+151083	Luke
+Luke
+151086	Luke
+Luke
+151090	Luke
+Luke
+Luke
+Luke
+151095	Luke
+Luke
+151099	Luke
+Luke
+Luke
+Luke
+151104	Luke
+151106	Luke
+Luke
+151110	Luke
+Luke
+151113	Luke
+151115	Luke
+Luke
+151118	Luke
+151120	Luke
+151122	Luke
+Luke
+151125	Luke
+151127	Luke
+151129	Luke
+151131	Luke
+Luke
+Luke
+151136	Luke
+151139	Luke
+151141	Luke
+151143	Luke
+151145	Luke
+151147	Luke
+Luke
+Luke
+151151	Luke
+Luke
+Luke
+151155	Luke
+151157	Luke
+151159	Luke
+Luke
+151162	Luke
+Luke
+Luke
+Luke
+151169	Luke
+Luke
+Luke
+151173	Luke
+Luke
+Luke
+Luke
+Luke
+151179	Luke
+151181	Luke
+Luke
+151184	Luke
+Luke
+151187	Luke
+151189	Luke
+151191	Luke
+151193	Luke
+Luke
+151196	Luke
+151198	Luke
+151200	Luke
+151202	Luke
+151204	Luke
+151206	Luke
+151208	Luke
+151212	Luke
+151214	Luke
+151216	Luke
+Luke
+151219	Luke
+Luke
+151222	Luke
+151224	Luke
+Luke
+Luke
+Luke
+151229	Luke
+Luke
+Luke
+151234	Luke
+Luke
+151237	Luke
+Luke
+Luke
+Luke
+Luke
+151243	Luke
+151245	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+151253	Luke
+Luke
+151256	Luke
+151259	Luke
+Luke
+Luke
+Luke
+Luke
+151265	Luke
+Luke
+Luke
+151269	Luke
+Luke
+151272	Luke
+Luke
+Luke
+Luke
+Luke
+151278	Luke
+151280	Luke
+151282	Luke
+Luke
+151285	Luke
+151287	Luke
+151289	Luke
+Luke
+Luke
+151293	Luke
+Luke
+151296	Luke
+Luke
+Luke
+151300	Luke
+151302	Luke
+151304	Luke
+151306	Luke
+151308	Luke
+Luke
+151313	Luke
+Luke
+Luke
+151317	Luke
+Luke
+151320	Luke
+Luke
+Luke
+Luke
+151325	Luke
+Luke
+151328	Luke
+Luke
+151331	Luke
+151334	Luke
+151336	Luke
+Luke
+Luke
+Luke
+151341	Luke
+151343	Luke
+151345	Luke
+151347	Luke
+151349	Luke
+Luke
+151354	Luke
+151356	Luke
+151358	Luke
+151360	Luke
+151364	Luke
+Luke
+151367	Luke
+151369	Luke
+151371	Luke
+151373	Luke
+Luke
+151376	Luke
+Luke
+151379	Luke
+Luke
+151382	Luke
+151384	Luke
+151386	Luke
+Luke
+Luke
+151390	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+151398	Luke
+151401	Luke
+151403	Luke
+Luke
+151406	Luke
+Luke
+Luke
+Luke
+Luke
+151412	Luke
+Luke
+151415	Luke
+151417	Luke
+151419	Luke
+151421	Luke
+151423	Luke
+151425	Luke
+151428	Luke
+151430	Luke
+Luke
+151433	Luke
+151435	Luke
+151437	Luke
+Luke
+151440	Luke
+151442	Luke
+Luke
+151445	Luke
+Luke
+151448	Luke
+151450	Luke
+151452	Luke
+Luke
+151455	Luke
+151457	Luke
+Luke
+Luke
+151461	Luke
+151463	Luke
+151465	Luke
+151467	Luke
+151469	Luke
+151471	Luke
+Luke
+Luke
+151475	Luke
+151478	Luke
+Luke
+151481	Luke
+Luke
+Luke
+151494	Luke
+151497	Luke
+151499	Luke
+Luke
+151502	Luke
+151507	Luke
+Luke
+151510	Luke
+151512	Luke
+151514	Luke
+151516	Luke
+Luke
+151519	Luke
+151521	Luke
+151523	Luke
+Luke
+Luke
+151527	Luke
+Luke
+151530	Luke
+151532	Luke
+Luke
+151535	Luke
+151537	Luke
+Luke
+151540	Luke
+151543	Luke
+151545	Luke
+151547	Luke
+151549	Luke
+Luke
+151552	Luke
+151554	Luke
+151556	Luke
+151558	Luke
+151560	Luke
+151564	Luke
+151566	Luke
+Luke
+151570	Luke
+151572	Luke
+151574	Luke
+151577	Luke
+151579	Luke
+151581	Luke
+151583	Luke
+Luke
+Luke
+151587	Luke
+Luke
+151590	Luke
+Luke
+151593	Luke
+Luke
+151596	Luke
+151598	Luke
+151600	Luke
+Luke
+Luke
+151604	Luke
+151606	Luke
+151608	Luke
+151610	Luke
+151612	Luke
+151614	Luke
+151616	Luke
+151618	Luke
+151620	Luke
+151622	Luke
+151624	Luke
+151626	Luke
+151628	Luke
+Luke
+151632	Luke
+Luke
+Luke
+Luke
+Luke
+151638	Luke
+151640	Luke
+151642	Luke
+151644	Luke
+Luke
+151648	Luke
+151650	Luke
+151652	Luke
+151654	Luke
+151656	Luke
+151658	Luke
+151660	Luke
+151662	Luke
+151664	Luke
+Luke
+151667	Luke
+Luke
+151670	Luke
+Luke
+151673	Luke
+Luke
+Luke
+151677	Luke
+Luke
+151680	Luke
+151682	Luke
+Luke
+151685	Luke
+Luke
+151688	Luke
+Luke
+151691	Luke
+151693	Luke
+Luke
+Luke
+Luke
+151698	Luke
+Luke
+151702	Luke
+151704	Luke
+Luke
+151707	Luke
+151709	Luke
+151711	Luke
+151713	Luke
+151715	Luke
+Luke
+151718	Luke
+151720	Luke
+151722	Luke
+151727	Luke
+Luke
+151733	Luke
+151735	Luke
+151737	Luke
+Luke
+Luke
+Luke
+151742	Luke
+151744	Luke
+151746	Luke
+151748	Luke
+Luke
+151751	Luke
+Luke
+151754	Luke
+151756	Luke
+151759	Luke
+151761	Luke
+Luke
+151764	Luke
+151766	Luke
+151768	Luke
+151770	Luke
+Luke
+151773	Luke
+Luke
+Luke
+Luke
+151778	Luke
+Luke
+Luke
+151782	Luke
+Luke
+151785	Luke
+Luke
+Luke
+151789	Luke
+Luke
+151792	Luke
+151794	Luke
+151796	Luke
+151798	Luke
+Luke
+Luke
+151803	Luke
+151805	Luke
+151807	Luke
+151809	Luke
+Luke
+151812	Luke
+151814	Luke
+151816	Luke
+151818	Luke
+Luke
+151821	Luke
+Luke
+151824	Luke
+151826	Luke
+Luke
+151829	Luke
+151831	Luke
+Luke
+151834	Luke
+151836	Luke
+Luke
+151839	Luke
+Luke
+Luke
+Luke
+Luke
+151845	Luke
+Luke
+151848	Luke
+Luke
+151851	Luke
+Luke
+Luke
+151855	Luke
+151859	Luke
+151861	Luke
+Luke
+Luke
+151865	Luke
+151867	Luke
+151869	Luke
+Luke
+151872	Luke
+Luke
+151875	Luke
+Luke
+151878	Luke
+151880	Luke
+151882	Luke
+151885	Luke
+151887	Luke
+151889	Luke
+Luke
+151892	Luke
+151894	Luke
+151896	Luke
+Luke
+151899	Luke
+151902	Luke
+151904	Luke
+151907	Luke
+151909	Luke
+Luke
+Luke
+Luke
+151914	Luke
+151916	Luke
+151918	Luke
+Luke
+Luke
+Luke
+Luke
+151924	Luke
+151926	Luke
+Luke
+151931	Luke
+Luke
+151934	Luke
+Luke
+Luke
+Luke
+Luke
+151940	Luke
+Luke
+Luke
+151944	Luke
+Luke
+Luke
+151948	Luke
+151950	Luke
+151952	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+151960	Luke
+Luke
+Luke
+Luke
+Luke
+151966	Luke
+151968	Luke
+Luke
+Luke
+151974	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+151982	Luke
+151984	Luke
+Luke
+151987	Luke
+151989	Luke
+151991	Luke
+151993	Luke
+151995	Luke
+Luke
+151999	Luke
+152001	Luke
+Luke
+Luke
+Luke
+152006	Luke
+Luke
+152009	Luke
+152011	Luke
+Luke
+152014	Luke
+152016	Luke
+Luke
+Luke
+Luke
+152021	Luke
+152023	Luke
+Luke
+Luke
+152029	Luke
+152031	Luke
+152033	Luke
+152035	Luke
+Luke
+152038	Luke
+Luke
+Luke
+152042	Luke
+Luke
+152045	Luke
+Luke
+152048	Luke
+Luke
+Luke
+152052	Luke
+152054	Luke
+152056	Luke
+152058	Luke
+Luke
+152061	Luke
+Luke
+152064	Luke
+152066	Luke
+Luke
+152069	Luke
+152071	Luke
+152073	Luke
+Luke
+Luke
+152077	Luke
+152079	Luke
+Luke
+152082	Luke
+Luke
+Luke
+152086	Luke
+Luke
+Luke
+Luke
+152091	Luke
+Luke
+Luke
+Luke
+152096	Luke
+152098	Luke
+Luke
+152101	Luke
+Luke
+Luke
+Luke
+Luke
+152107	Luke
+152109	Luke
+Luke
+152112	Luke
+Luke
+Luke
+Luke
+152117	Luke
+Luke
+Luke
+Luke
+152122	Luke
+152124	Luke
+Luke
+152127	Luke
+Luke
+152130	Luke
+152132	Luke
+Luke
+Luke
+Luke
+152137	Luke
+Luke
+Luke
+152141	Luke
+152143	Luke
+152145	Luke
+152148	Luke
+152150	Luke
+152153	Luke
+Luke
+152158	Luke
+152160	Luke
+152162	Luke
+152164	Luke
+Luke
+Luke
+152168	Luke
+152170	Luke
+152172	Luke
+152174	Luke
+152176	Luke
+152178	Luke
+152180	Luke
+152182	Luke
+Luke
+152185	Luke
+152187	Luke
+152189	Luke
+Luke
+152192	Luke
+152194	Luke
+Luke
+Luke
+Luke
+Luke
+152200	Luke
+Luke
+152203	Luke
+Luke
+152206	Luke
+Luke
+Luke
+152210	Luke
+152212	Luke
+Luke
+152215	Luke
+Luke
+152218	Luke
+Luke
+152221	Luke
+152223	Luke
+Luke
+152226	Luke
+152228	Luke
+Luke
+152231	Luke
+Luke
+152234	Luke
+152236	Luke
+Luke
+Luke
+152240	Luke
+152242	Luke
+152245	Luke
+152247	Luke
+152249	Luke
+152252	Luke
+152254	Luke
+152256	Luke
+152259	Luke
+Luke
+152263	Luke
+152265	Luke
+Luke
+152268	Luke
+152270	Luke
+152272	Luke
+152274	Luke
+152276	Luke
+Luke
 152279	Luke
-Luke
-Luke
+152281	Luke
 152283	Luke
 152285	Luke
-152288	Luke
+Luke
+152289	Luke
+Luke
+152292	Luke
+152294	Luke
 Luke
 Luke
-152293	Luke
-152295	Luke
-152297	Luke
-152300	Luke
+152298	Luke
+152301	Luke
 Luke
 152304	Luke
-152306	Luke
-152308	Luke
 Luke
-152313	Luke
+152307	Luke
+Luke
+152310	Luke
+Luke
+Luke
 152316	Luke
-152318	Luke
+152319	Luke
 152321	Luke
 152323	Luke
+152325	Luke
 Luke
-152326	Luke
+152328	Luke
+152330	Luke
 Luke
-152329	Luke
-152331	Luke
-Luke
+152333	Luke
 152335	Luke
+152337	Luke
+152339	Luke
 Luke
-152338	Luke
-152340	Luke
-152342	Luke
+Luke
+152344	Luke
 152346	Luke
-152348	Luke
-152351	Luke
-152353	Luke
+Luke
+152350	Luke
+152352	Luke
+152354	Luke
+Luke
 152357	Luke
-152360	Luke
-152362	Luke
-152366	Luke
-152368	Luke
-152371	Luke
+Luke
+Luke
+152361	Luke
+152363	Luke
+152367	Luke
+152369	Luke
+Luke
+152372	Luke
+Luke
+Luke
 152376	Luke
 152378	Luke
-Luke
-Luke
+152380	Luke
 152382	Luke
 Luke
+Luke
 152386	Luke
-152388	Luke
+Luke
 152390	Luke
 Luke
 152393	Luke
+Luke
 152396	Luke
 152398	Luke
 152400	Luke
 152402	Luke
-152404	Luke
-152406	Luke
+Luke
+152405	Luke
+Luke
 152408	Luke
 Luke
-Luke
-Luke
+152411	Luke
 152413	Luke
-152416	Luke
+152415	Luke
+Luke
 152418	Luke
-152420	Luke
+Luke
+152421	Luke
 152423	Luke
 Luke
+152426	Luke
+152428	Luke
 Luke
-152427	Luke
-152429	Luke
-152432	Luke
-152434	Luke
+152431	Luke
+152433	Luke
+152435	Luke
+Luke
 152438	Luke
 152440	Luke
+152442	Luke
+152445	Luke
 Luke
-152443	Luke
-152446	Luke
+152448	Luke
+152450	Luke
+152452	Luke
 Luke
-152449	Luke
-152451	Luke
 Luke
-152455	Luke
-152458	Luke
 Luke
+152457	Luke
+152459	Luke
 152461	Luke
 152463	Luke
-152465	Luke
 Luke
+152466	Luke
 152468	Luke
 Luke
-Luke
+152471	Luke
 152473	Luke
-152475	Luke
 Luke
-152478	Luke
+152476	Luke
+Luke
+Luke
 152480	Luke
-152483	Luke
-152485	Luke
+Luke
+Luke
+152484	Luke
+Luke
 152487	Luke
-152489	Luke
+Luke
+Luke
 152491	Luke
 152493	Luke
 152495	Luke
 152497	Luke
+Luke
+Luke
 152501	Luke
 152503	Luke
-152505	Luke
+Luke
+Luke
 152507	Luke
 152509	Luke
 152511	Luke
-Luke
-152514	Luke
+152513	Luke
 152516	Luke
-152518	Luke
 Luke
-152521	Luke
-152523	Luke
+Luke
+Luke
+Luke
+152522	Luke
+152524	Luke
+Luke
 152527	Luke
-152530	Luke
-152532	Luke
-152534	Luke
+152529	Luke
+Luke
+152533	Luke
+152535	Luke
 152537	Luke
 Luke
+152540	Luke
 Luke
-152541	Luke
-152544	Luke
+152543	Luke
 Luke
-152547	Luke
+Luke
+Luke
+Luke
 152549	Luke
+Luke
+Luke
 152553	Luke
 152555	Luke
-152557	Luke
-152559	Luke
-152561	Luke
-152563	Luke
-152565	Luke
+152558	Luke
 Luke
-152568	Luke
+Luke
+Luke
+152563	Luke
+Luke
+152566	Luke
+Luke
+Luke
 Luke
 152571	Luke
 152573	Luke
-152575	Luke
-152577	Luke
 Luke
-152580	Luke
-152582	Luke
-152584	Luke
+Luke
+152577	Luke
+152583	Luke
 152586	Luke
-152588	Luke
+Luke
+Luke
+Luke
 152591	Luke
-152593	Luke
+Luke
+152594	Luke
 152596	Luke
-152598	Luke
-152601	Luke
-152603	Luke
-152605	Luke
-152609	Luke
-152611	Luke
+Luke
+Luke
+Luke
+152602	Luke
+152604	Luke
+152606	Luke
+Luke
+Luke
+152610	Luke
+152612	Luke
 Luke
 152615	Luke
 152617	Luke
-152619	Luke
 Luke
-152622	Luke
+152621	Luke
+152623	Luke
 Luke
-152625	Luke
-152627	Luke
-152629	Luke
-152634	Luke
-152636	Luke
+152626	Luke
+152628	Luke
+Luke
+152631	Luke
+152633	Luke
+152635	Luke
+152637	Luke
 152639	Luke
-152641	Luke
-152643	Luke
-152646	Luke
-152650	Luke
+152642	Luke
+Luke
+152645	Luke
+152648	Luke
+Luke
+Luke
 152652	Luke
-152655	Luke
+Luke
+Luke
 152657	Luke
+152659	Luke
+152661	Luke
+152664	Luke
+152666	Luke
+152670	Luke
+152674	Luke
+152676	Luke
 Luke
-152660	Luke
-152662	Luke
+152679	Luke
 Luke
-152665	Luke
-152667	Luke
-152669	Luke
-152671	Luke
-152673	Luke
-152675	Luke
-152678	Luke
+152682	Luke
 Luke
-152681	Luke
+152685	Luke
 Luke
 Luke
+152689	Luke
 Luke
-152686	Luke
-152690	Luke
-152692	Luke
-152694	Luke
 Luke
-152698	Luke
-152700	Luke
-152702	Luke
-152704	Luke
+152693	Luke
+Luke
+152696	Luke
+Luke
+152699	Luke
+152701	Luke
+152703	Luke
+Luke
 152706	Luke
 Luke
-152709	Luke
-152711	Luke
-152714	Luke
-152717	Luke
 Luke
+152710	Luke
+Luke
+152714	Luke
+152716	Luke
+152718	Luke
+Luke
+Luke
+152722	Luke
 Luke
 152725	Luke
-152727	Luke
 152729	Luke
+Luke
 152732	Luke
+152734	Luke
 Luke
 152737	Luke
 152739	Luke
 152741	Luke
+Luke
 152744	Luke
-152747	Luke
+152746	Luke
+152748	Luke
 Luke
-Luke
+152751	Luke
+152753	Luke
 152755	Luke
-Luke
-152758	Luke
+152757	Luke
 152760	Luke
+152762	Luke
 Luke
-152763	Luke
-152767	Luke
-152771	Luke
-152773	Luke
-152775	Luke
+152765	Luke
+Luke
+Luke
+Luke
+152770	Luke
+Luke
+Luke
+152774	Luke
 152778	Luke
-Luke
-152781	Luke
-Luke
+152780	Luke
+152782	Luke
 Luke
 152785	Luke
 Luke
 Luke
 152789	Luke
+Luke
+Luke
+Luke
 152794	Luke
 152796	Luke
-152799	Luke
-152803	Luke
+152798	Luke
+152802	Luke
+152804	Luke
+152806	Luke
+152808	Luke
 Luke
-152807	Luke
-152809	Luke
-152811	Luke
-152813	Luke
-152815	Luke
-152817	Luke
-152819	Luke
+Luke
+152812	Luke
+152814	Luke
+152816	Luke
+152818	Luke
+Luke
 152821	Luke
 152823	Luke
-152826	Luke
+152825	Luke
+Luke
 152828	Luke
 152832	Luke
 152834	Luke
 152836	Luke
-152838	Luke
 152840	Luke
-152842	Luke
-152844	Luke
-152846	Luke
-152848	Luke
+Luke
+152843	Luke
+Luke
+Luke
+152847	Luke
+152849	Luke
 152851	Luke
 Luke
-152854	Luke
-152856	Luke
+152855	Luke
 152858	Luke
 152860	Luke
-152862	Luke
-152864	Luke
+Luke
+152863	Luke
+Luke
 152866	Luke
-152870	Luke
-152872	Luke
 Luke
-152876	Luke
-152878	Luke
-152882	Luke
+152869	Luke
 Luke
-152886	Luke
+Luke
+Luke
+152874	Luke
+152877	Luke
+Luke
+152881	Luke
+152883	Luke
+152885	Luke
 Luke
 152889	Luke
+Luke
+152892	Luke
+Luke
 152895	Luke
 152897	Luke
 Luke
+Luke
 152901	Luke
-152903	Luke
+Luke
+Luke
 152905	Luke
 152907	Luke
 152909	Luke
+152911	Luke
 Luke
-152912	Luke
 Luke
-152916	Luke
+152915	Luke
 Luke
+152918	Luke
 152920	Luke
+152922	Luke
 152924	Luke
-152926	Luke
-152928	Luke
+Luke
+152927	Luke
+Luke
 Luke
 152931	Luke
-152933	Luke
-152937	Luke
 Luke
-152941	Luke
+152935	Luke
+Luke
+152938	Luke
+152940	Luke
+Luke
 152943	Luke
 152945	Luke
+152947	Luke
 Luke
 152950	Luke
 152952	Luke
+152954	Luke
+152956	Luke
 Luke
-152957	Luke
+152961	Luke
 Luke
+152964	Luke
 Luke
-152962	Luke
-152965	Luke
 152967	Luke
-152969	Luke
 Luke
+152970	Luke
+152972	Luke
 152974	Luke
 152976	Luke
-152979	Luke
-152981	Luke
-152984	Luke
-152986	Luke
-152989	Luke
-152991	Luke
+152978	Luke
+152980	Luke
+Luke
+Luke
+Luke
+152985	Luke
+Luke
+152988	Luke
+152990	Luke
+152992	Luke
 152994	Luke
+Luke
 152997	Luke
+153000	Luke
 153002	Luke
+Luke
+Luke
 153006	Luke
 153009	Luke
 153011	Luke
 153013	Luke
 153015	Luke
-153020	Luke
-153022	Luke
-153025	Luke
-153027	Luke
-153029	Luke
-153033	Luke
+153017	Luke
 Luke
+153021	Luke
+153023	Luke
+Luke
+153027	Luke
+Luke
+153030	Luke
+153032	Luke
+153034	Luke
 Luke
 153037	Luke
 Luke
-153045	Luke
-Luke
+153040	Luke
+153042	Luke
+153044	Luke
+153046	Luke
 153048	Luke
 153050	Luke
-153054	Luke
 Luke
-153060	Luke
-153062	Luke
+153053	Luke
+153055	Luke
+153057	Luke
+153059	Luke
 Luke
-153065	Luke
-153067	Luke
-153071	Luke
-153074	Luke
-153076	Luke
-153078	Luke
-153080	Luke
-153083	Luke
+153064	Luke
+Luke
+Luke
+153068	Luke
+153070	Luke
+Luke
+153073	Luke
+153075	Luke
+Luke
+Luke
+153079	Luke
+153081	Luke
+Luke
+153084	Luke
 153086	Luke
 Luke
+153089	Luke
 Luke
-153090	Luke
-153094	Luke
+153092	Luke
 Luke
 Luke
-153099	Luke
 Luke
-153102	Luke
+153097	Luke
+Luke
+Luke
+153101	Luke
+Luke
 153104	Luke
-153106	Luke
-153108	Luke
-153110	Luke
-153115	Luke
 Luke
-153118	Luke
-153120	Luke
-153122	Luke
+153108	Luke
+Luke
+153111	Luke
+Luke
+Luke
+153115	Luke
+153117	Luke
+153119	Luke
+153121	Luke
+Luke
 153124	Luke
 153126	Luke
 153128	Luke
 153130	Luke
+153132	Luke
+153134	Luke
 Luke
-153133	Luke
+153137	Luke
 Luke
-153136	Luke
-153138	Luke
-153141	Luke
-153143	Luke
+Luke
+Luke
+153142	Luke
 153145	Luke
-153147	Luke
+Luke
+Luke
 153149	Luke
+153151	Luke
+153154	Luke
 153156	Luke
-153159	Luke
-153162	Luke
-153164	Luke
-153169	Luke
-153175	Luke
 Luke
-153178	Luke
-153180	Luke
+153160	Luke
 Luke
-153183	Luke
+153165	Luke
+153167	Luke
 Luke
-153187	Luke
-153189	Luke
-153194	Luke
-153196	Luke
-153198	Luke
-153200	Luke
+153170	Luke
+153172	Luke
+153174	Luke
+Luke
+153179	Luke
+153181	Luke
 Luke
 Luke
 Luke
-153205	Luke
+153186	Luke
+153188	Luke
+153190	Luke
 Luke
-153208	Luke
-153210	Luke
+153193	Luke
+153195	Luke
+153197	Luke
+153199	Luke
+153204	Luke
+153207	Luke
 Luke
 Luke
-153214	Luke
-153216	Luke
+153212	Luke
+153215	Luke
+153218	Luke
+153220	Luke
 Luke
-153219	Luke
-153222	Luke
-Luke
+153223	Luke
 153225	Luke
 153227	Luke
-Luke
-153230	Luke
-153232	Luke
-Luke
+153229	Luke
+153231	Luke
+153233	Luke
 153235	Luke
-153237	Luke
-153239	Luke
-153241	Luke
-153243	Luke
-153246	Luke
 Luke
-153249	Luke
 Luke
-153253	Luke
+153240	Luke
 Luke
+Luke
+153244	Luke
+Luke
+Luke
+153248	Luke
+153252	Luke
+153254	Luke
 153256	Luke
 153258	Luke
-Luke
-Luke
+153260	Luke
 Luke
 153263	Luke
-153266	Luke
+Luke
 153268	Luke
-153270	Luke
-153274	Luke
-153276	Luke
+153271	Luke
+Luke
+153275	Luke
+Luke
+153278	Luke
+Luke
+153281	Luke
+153283	Luke
+153285	Luke
+153288	Luke
+Luke
+153291	Luke
 Luke
 Luke
+153295	Luke
 Luke
-153282	Luke
-153284	Luke
-153286	Luke
-Luke
-Luke
-153292	Luke
-153294	Luke
-153296	Luke
 153298	Luke
-153301	Luke
+153300	Luke
+153302	Luke
 Luke
-153306	Luke
-153308	Luke
-153313	Luke
-153315	Luke
+153305	Luke
+153307	Luke
+Luke
+153310	Luke
+153312	Luke
+Luke
+Luke
+Luke
 153317	Luke
-153320	Luke
-153322	Luke
-153324	Luke
-153326	Luke
-153328	Luke
-153330	Luke
+153319	Luke
+Luke
+Luke
+153323	Luke
+Luke
+Luke
 153332	Luke
 153334	Luke
-153336	Luke
+Luke
+Luke
 153338	Luke
 153340	Luke
-153419	Luke
-153421	Luke
 Luke
-153425	Luke
-153428	Luke
 Luke
-153431	Luke
+153344	Luke
+Luke
+Luke
+Luke
+153349	Luke
+Luke
+Luke
+153353	Luke
+Luke
+153356	Luke
+153358	Luke
+Luke
+153361	Luke
+Luke
+153364	Luke
+153366	Luke
+Luke
+153369	Luke
+Luke
+153372	Luke
+Luke
+Luke
+153377	Luke
+Luke
+153380	Luke
+153382	Luke
+Luke
+153385	Luke
+Luke
+153388	Luke
+153390	Luke
+153392	Luke
+Luke
+Luke
+153396	Luke
+153398	Luke
+Luke
+153401	Luke
+153403	Luke
+Luke
+153406	Luke
+153408	Luke
+153410	Luke
+153412	Luke
+Luke
+153415	Luke
+Luke
+Luke
+Luke
+153420	Luke
+153422	Luke
+Luke
+153427	Luke
+Luke
+153430	Luke
+153432	Luke
 153434	Luke
 Luke
-153437	Luke
-153439	Luke
+153438	Luke
+153441	Luke
+153443	Luke
+153445	Luke
 Luke
-153442	Luke
-153444	Luke
-Luke
-153447	Luke
 153449	Luke
-153454	Luke
-153456	Luke
-153458	Luke
-153460	Luke
-153462	Luke
-153464	Luke
+153451	Luke
+153453	Luke
+Luke
+153457	Luke
+153459	Luke
+153461	Luke
+153463	Luke
 Luke
 Luke
-153468	Luke
-153471	Luke
+153467	Luke
+Luke
+153470	Luke
+153472	Luke
+Luke
 153475	Luke
 153477	Luke
-153479	Luke
+Luke
+153480	Luke
 153482	Luke
-Luke
-153485	Luke
+153486	Luke
 153488	Luke
-153490	Luke
-153494	Luke
 Luke
-153497	Luke
 Luke
-153500	Luke
+Luke
+Luke
+Luke
+153495	Luke
+Luke
+Luke
+Luke
+Luke
+153501	Luke
 Luke
 153504	Luke
+153506	Luke
 Luke
-153507	Luke
-153509	Luke
-153511	Luke
+Luke
+Luke
+Luke
+153512	Luke
 Luke
 153515	Luke
-153517	Luke
+Luke
+153518	Luke
 153520	Luke
 153522	Luke
 153524	Luke
-Luke
+153526	Luke
 153528	Luke
-153531	Luke
-Luke
+153530	Luke
+153532	Luke
 153534	Luke
+153536	Luke
+Luke
+153540	Luke
 Luke
 Luke
 Luke
-Luke
-153541	Luke
-153543	Luke
-Luke
-Luke
-Luke
-153548	Luke
-Luke
-Luke
+153545	Luke
+153547	Luke
+153549	Luke
 153552	Luke
-153554	Luke
 Luke
-153557	Luke
+Luke
+153556	Luke
+153558	Luke
+Luke
 153561	Luke
-153563	Luke
-153566	Luke
-153568	Luke
-153570	Luke
+Luke
+153564	Luke
+Luke
+Luke
+Luke
+153569	Luke
 153572	Luke
 Luke
+153575	Luke
 Luke
-Luke
-153577	Luke
-Luke
+153578	Luke
 153580	Luke
 Luke
+153585	Luke
 Luke
-153584	Luke
-153586	Luke
+Luke
 153589	Luke
-153591	Luke
-153594	Luke
-153596	Luke
-153598	Luke
-153602	Luke
+Luke
+153592	Luke
+153595	Luke
+Luke
+Luke
+Luke
+153600	Luke
+Luke
+153603	Luke
 153605	Luke
 153607	Luke
-153611	Luke
+153609	Luke
 Luke
-153615	Luke
+Luke
+153613	Luke
+Luke
+Luke
 Luke
 153618	Luke
-153620	Luke
-153622	Luke
-153624	Luke
 Luke
+Luke
+153622	Luke
+Luke
+153625	Luke
 153627	Luke
+Luke
 153630	Luke
 153632	Luke
-153634	Luke
-153637	Luke
 Luke
-153640	Luke
-153648	Luke
+153635	Luke
 Luke
 Luke
-153652	Luke
+153639	Luke
+153641	Luke
+153643	Luke
+153645	Luke
+153647	Luke
+153649	Luke
+153651	Luke
 Luke
-153655	Luke
 Luke
-153658	Luke
-153660	Luke
+Luke
+Luke
+153657	Luke
+153659	Luke
 153662	Luke
 Luke
 Luke
-153667	Luke
-153669	Luke
+153666	Luke
+153668	Luke
 Luke
+153671	Luke
 Luke
 153674	Luke
+153676	Luke
 153678	Luke
-153680	Luke
-153682	Luke
 Luke
+Luke
+153682	Luke
+153684	Luke
 153686	Luke
 153688	Luke
-153691	Luke
 Luke
+Luke
+153692	Luke
 153694	Luke
 153696	Luke
-Luke
-153699	Luke
-Luke
-Luke
-Luke
+153698	Luke
+153700	Luke
 153704	Luke
 Luke
-153707	Luke
-153709	Luke
-153711	Luke
-153713	Luke
-153715	Luke
-Luke
+153708	Luke
+153710	Luke
+153712	Luke
+153714	Luke
+153716	Luke
 Luke
 153719	Luke
 Luke
-153723	Luke
+153722	Luke
+153724	Luke
 Luke
-Luke
-153729	Luke
-153731	Luke
-153733	Luke
-153735	Luke
-153737	Luke
-153739	Luke
-Luke
+153728	Luke
+153732	Luke
+153734	Luke
+153736	Luke
+153738	Luke
+153740	Luke
 153742	Luke
 153744	Luke
-153747	Luke
-153750	Luke
-153752	Luke
-153755	Luke
+153748	Luke
+153751	Luke
+153753	Luke
+Luke
+Luke
 153757	Luke
-Luke
-153760	Luke
-Luke
-153764	Luke
-Luke
+153759	Luke
+153761	Luke
+153763	Luke
+153765	Luke
 153767	Luke
 Luke
-153770	Luke
 Luke
-153775	Luke
+153771	Luke
+153773	Luke
 Luke
+153776	Luke
+153778	Luke
 Luke
-153779	Luke
 153781	Luke
 153783	Luke
-Luke
-153786	Luke
-Luke
-153789	Luke
+153785	Luke
+153787	Luke
+153790	Luke
 153792	Luke
 Luke
-153795	Luke
+Luke
 153797	Luke
-153799	Luke
+153800	Luke
+153802	Luke
+153804	Luke
+153808	Luke
 Luke
-153803	Luke
-153805	Luke
-153807	Luke
-153809	Luke
+153811	Luke
 Luke
-153812	Luke
 153814	Luke
-153818	Luke
+153816	Luke
+Luke
+Luke
+153820	Luke
 153822	Luke
-153824	Luke
-153829	Luke
-153831	Luke
+Luke
+Luke
+Luke
+Luke
+153828	Luke
+Luke
+Luke
+Luke
 153833	Luke
 Luke
-153836	Luke
 Luke
+153837	Luke
 Luke
-153842	Luke
-153844	Luke
+153840	Luke
+Luke
+153843	Luke
+Luke
 153846	Luke
 Luke
-153849	Luke
-Luke
-Luke
+153850	Luke
+153852	Luke
 Luke
 153855	Luke
 Luke
 Luke
 153859	Luke
-Luke
-Luke
-Luke
+153861	Luke
 Luke
 153865	Luke
-153868	Luke
+153867	Luke
+153869	Luke
+153871	Luke
 Luke
-153872	Luke
 Luke
 153875	Luke
-153877	Luke
-153880	Luke
-153882	Luke
-153884	Luke
-153886	Luke
+Luke
+153879	Luke
+153881	Luke
+153883	Luke
+153885	Luke
+153887	Luke
 153889	Luke
 153891	Luke
 153894	Luke
 153897	Luke
-153899	Luke
-153903	Luke
+Luke
+153900	Luke
+153902	Luke
+153904	Luke
+Luke
+Luke
 153908	Luke
-153910	Luke
+Luke
+153911	Luke
 153913	Luke
-153915	Luke
-153917	Luke
-153919	Luke
+Luke
+153918	Luke
+Luke
 153921	Luke
 153923	Luke
-Luke
-Luke
-Luke
-153928	Luke
+153925	Luke
+153927	Luke
+153929	Luke
 Luke
 Luke
 153933	Luke
 Luke
+Luke
 153937	Luke
 Luke
 153940	Luke
-153942	Luke
-Luke
-153945	Luke
-153947	Luke
 Luke
 Luke
-153951	Luke
-153953	Luke
-153955	Luke
+153944	Luke
+153946	Luke
+153949	Luke
+153952	Luke
+Luke
+Luke
+Luke
 Luke
 153958	Luke
-153960	Luke
-153962	Luke
-153965	Luke
+153961	Luke
+153963	Luke
+Luke
+Luke
+153968	Luke
+153970	Luke
+153972	Luke
 Luke
 Luke
 Luke
+153977	Luke
 Luke
-153971	Luke
-Luke
-153974	Luke
-153976	Luke
-Luke
-153979	Luke
-Luke
-Luke
-Luke
+153980	Luke
+153982	Luke
 Luke
 153986	Luke
-153989	Luke
-153991	Luke
+153988	Luke
 Luke
-153994	Luke
-153997	Luke
-154000	Luke
+153992	Luke
+Luke
+153995	Luke
 Luke
 Luke
-154004	Luke
+153999	Luke
+154001	Luke
+Luke
 Luke
 154007	Luke
 Luke
+154010	Luke
+154014	Luke
 Luke
-154011	Luke
-154013	Luke
 154017	Luke
-154019	Luke
-154022	Luke
 Luke
+154020	Luke
+Luke
+154023	Luke
+154025	Luke
+154027	Luke
 154029	Luke
-Luke
-154032	Luke
-154034	Luke
-Luke
-154037	Luke
+154031	Luke
+154033	Luke
+154035	Luke
 154039	Luke
 Luke
 Luke
 154043	Luke
-154047	Luke
-154049	Luke
+154045	Luke
 Luke
-154052	Luke
-154056	Luke
+Luke
+154049	Luke
+154051	Luke
+154053	Luke
+Luke
+Luke
+Luke
 154058	Luke
 Luke
+154061	Luke
 Luke
 Luke
-154064	Luke
-154066	Luke
+154065	Luke
+Luke
 154068	Luke
-154070	Luke
-154072	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
 Luke
 154076	Luke
 154078	Luke
 154080	Luke
+Luke
 154083	Luke
 154086	Luke
 Luke
-154090	Luke
+154089	Luke
 154092	Luke
-154094	Luke
-154097	Luke
 Luke
-154100	Luke
+154095	Luke
 Luke
-154104	Luke
 Luke
+154099	Luke
+Luke
+154102	Luke
+154105	Luke
 154107	Luke
-154110	Luke
-154112	Luke
+154109	Luke
+154111	Luke
+Luke
+154114	Luke
 Luke
 Luke
-154116	Luke
 Luke
 Luke
-154120	Luke
 Luke
-Luke
+154121	Luke
+154123	Luke
 154126	Luke
-154128	Luke
+Luke
+Luke
 154130	Luke
 Luke
 154133	Luke
+154137	Luke
 Luke
-Luke
-Luke
-Luke
-154139	Luke
-Luke
-154143	Luke
-154145	Luke
-154147	Luke
-154150	Luke
-154152	Luke
-154156	Luke
-154160	Luke
+154140	Luke
+154142	Luke
+154144	Luke
+154146	Luke
+154149	Luke
+154151	Luke
+154154	Luke
+154157	Luke
+154159	Luke
 154162	Luke
-Luke
+154164	Luke
 154166	Luke
-154168	Luke
+Luke
+Luke
+Luke
 154171	Luke
 154173	Luke
 154175	Luke
-154177	Luke
 Luke
-154180	Luke
+154178	Luke
 Luke
-154183	Luke
-154186	Luke
-154188	Luke
-154190	Luke
+Luke
+154182	Luke
+Luke
+Luke
+Luke
+154187	Luke
+154189	Luke
+Luke
 154192	Luke
-154194	Luke
 Luke
+154195	Luke
 Luke
-154199	Luke
+154198	Luke
+Luke
 154201	Luke
-154204	Luke
-154206	Luke
-154208	Luke
+154203	Luke
+154205	Luke
+Luke
+Luke
+154209	Luke
 154211	Luke
+154214	Luke
 Luke
-Luke
-154215	Luke
+154217	Luke
 154219	Luke
-154221	Luke
-154223	Luke
+154222	Luke
+Luke
 154226	Luke
-154229	Luke
+154228	Luke
+154230	Luke
+154232	Luke
+Luke
+Luke
+154236	Luke
+154238	Luke
+Luke
+Luke
 154242	Luke
-154247	Luke
-154250	Luke
+154244	Luke
 Luke
-154253	Luke
-154262	Luke
-154264	Luke
-154266	Luke
-154268	Luke
-154270	Luke
-154273	Luke
 Luke
+154248	Luke
+Luke
+Luke
+154252	Luke
+154254	Luke
+Luke
+Luke
+154258	Luke
+154260	Luke
+154265	Luke
+154267	Luke
+154269	Luke
+154271	Luke
+154275	Luke
 154277	Luke
 154279	Luke
-154281	Luke
 Luke
-154284	Luke
+Luke
+154283	Luke
+Luke
 154286	Luke
+154288	Luke
 Luke
-154289	Luke
-154291	Luke
+Luke
+Luke
 Luke
 154294	Luke
-154296	Luke
+Luke
+Luke
 154298	Luke
-154301	Luke
+Luke
+Luke
+154303	Luke
 154305	Luke
-154307	Luke
-154309	Luke
-154311	Luke
+154308	Luke
+154310	Luke
+154312	Luke
 154314	Luke
 154316	Luke
 154318	Luke
 154320	Luke
 154322	Luke
+Luke
 154325	Luke
+Luke
 154328	Luke
-154330	Luke
-154332	Luke
+Luke
+154331	Luke
+Luke
 154335	Luke
-154338	Luke
-154340	Luke
-154343	Luke
+154337	Luke
+154339	Luke
+154341	Luke
+Luke
+Luke
 154345	Luke
 154347	Luke
-154350	Luke
-154352	Luke
 Luke
-154355	Luke
 Luke
+154351	Luke
+Luke
+154354	Luke
+154356	Luke
 154358	Luke
-Luke
 154361	Luke
-154363	Luke
-154365	Luke
+154364	Luke
+Luke
 154367	Luke
-154369	Luke
-154371	Luke
+Luke
+Luke
+Luke
 Luke
 154374	Luke
-154376	Luke
-154378	Luke
-154380	Luke
-154382	Luke
-154385	Luke
-154387	Luke
+Luke
+154377	Luke
+154379	Luke
+154381	Luke
+154383	Luke
+Luke
+154386	Luke
+Luke
 154389	Luke
-154391	Luke
-154393	Luke
+Luke
+154392	Luke
+154394	Luke
 154396	Luke
 154398	Luke
-154400	Luke
-Luke
-154406	Luke
 Luke
 Luke
 Luke
+Luke
+Luke
+154405	Luke
+154407	Luke
+154409	Luke
 154411	Luke
-154413	Luke
-154417	Luke
-154419	Luke
-154421	Luke
+154414	Luke
+154416	Luke
+154418	Luke
 Luke
-154424	Luke
+Luke
+154422	Luke
+Luke
+Luke
 154426	Luke
 154428	Luke
-154431	Luke
-154433	Luke
+154432	Luke
+154434	Luke
 154436	Luke
-154438	Luke
-154441	Luke
-154443	Luke
-154445	Luke
-154447	Luke
-154449	Luke
-154451	Luke
 Luke
+154439	Luke
+Luke
+Luke
+154444	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+154452	Luke
 154454	Luke
+154456	Luke
 Luke
 Luke
-154458	Luke
-Luke
-154461	Luke
-154463	Luke
-Luke
-154466	Luke
-154468	Luke
-154470	Luke
-Luke
-154474	Luke
-154477	Luke
-154479	Luke
 Luke
 Luke
-154483	Luke
-154485	Luke
-154487	Luke
-154489	Luke
+154462	Luke
+154465	Luke
+Luke
+154471	Luke
+154473	Luke
+154478	Luke
+154480	Luke
+Luke
+Luke
+154484	Luke
+Luke
+Luke
+Luke
+Luke
+154491	Luke
 Luke
 154494	Luke
-154496	Luke
-154498	Luke
-154501	Luke
-154503	Luke
-154506	Luke
-154508	Luke
-154510	Luke
-154513	Luke
-154518	Luke
 Luke
+Luke
+Luke
+Luke
+Luke
+154501	Luke
+154504	Luke
+154506	Luke
+Luke
+154511	Luke
+154513	Luke
+Luke
+154521	Luke
 154523	Luke
 154525	Luke
-154527	Luke
 Luke
 Luke
-154531	Luke
+Luke
+154530	Luke
+Luke
 154533	Luke
-154535	Luke
-154537	Luke
-154541	Luke
 Luke
+154536	Luke
+154538	Luke
+Luke
+Luke
+154542	Luke
 154544	Luke
+154546	Luke
 Luke
-154547	Luke
 154549	Luke
-154552	Luke
-154554	Luke
+154551	Luke
+154553	Luke
 Luke
-154557	Luke
-154559	Luke
-154561	Luke
+154556	Luke
+Luke
+Luke
+154560	Luke
+154562	Luke
 154564	Luke
 Luke
 154567	Luke
+154569	Luke
 Luke
-Luke
-Luke
-154572	Luke
-Luke
-Luke
+154574	Luke
 154576	Luke
 Luke
 154579	Luke
+154581	Luke
 Luke
 Luke
-154584	Luke
 Luke
-154588	Luke
+154586	Luke
+Luke
+Luke
 154590	Luke
-154592	Luke
+Luke
+154593	Luke
 154595	Luke
+154597	Luke
 Luke
-Luke
-154599	Luke
 154601	Luke
-154603	Luke
-154605	Luke
 Luke
-154609	Luke
-154611	Luke
+Luke
+154606	Luke
+154608	Luke
+Luke
+Luke
+154612	Luke
 154614	Luke
 154616	Luke
-Luke
-154621	Luke
-Luke
+154618	Luke
+154620	Luke
+154622	Luke
 154624	Luke
+154626	Luke
 154628	Luke
+154630	Luke
+154634	Luke
+154636	Luke
+154639	Luke
 Luke
-154631	Luke
-154635	Luke
-Luke
-154638	Luke
-154641	Luke
-Luke
+154642	Luke
 154644	Luke
 Luke
+154647	Luke
+154649	Luke
+Luke
+154652	Luke
 Luke
 Luke
+154656	Luke
 Luke
-154650	Luke
-Luke
-154653	Luke
-Luke
-154657	Luke
 154659	Luke
+154661	Luke
 Luke
-154662	Luke
-154668	Luke
-154670	Luke
-154672	Luke
+154664	Luke
 Luke
-154675	Luke
-154677	Luke
-154680	Luke
+154667	Luke
+154669	Luke
 Luke
-154683	Luke
 Luke
-154688	Luke
 Luke
-154691	Luke
+154674	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+154681	Luke
+Luke
+154684	Luke
+Luke
+Luke
+Luke
+Luke
+154690	Luke
+Luke
 154693	Luke
-154695	Luke
-154697	Luke
-154701	Luke
-154703	Luke
 Luke
-154706	Luke
-154709	Luke
+154696	Luke
+Luke
+Luke
+Luke
+Luke
+154703	Luke
+154708	Luke
 154711	Luke
 Luke
-154715	Luke
-154718	Luke
+154714	Luke
+154716	Luke
+Luke
 154720	Luke
-154724	Luke
-154726	Luke
 Luke
+154723	Luke
+154725	Luke
+154727	Luke
+154729	Luke
+154731	Luke
+154733	Luke
 Luke
-154730	Luke
-154732	Luke
-154734	Luke
 154736	Luke
+154738	Luke
+154745	Luke
 Luke
 Luke
-154740	Luke
-154742	Luke
-154744	Luke
-154746	Luke
-154748	Luke
-154753	Luke
+154749	Luke
+154751	Luke
 Luke
-154756	Luke
-Luke
+154755	Luke
 Luke
 Luke
 Luke
-154765	Luke
+154760	Luke
+154762	Luke
+154764	Luke
 Luke
 Luke
-154770	Luke
+154768	Luke
 Luke
 Luke
-154774	Luke
-154776	Luke
-154778	Luke
+154772	Luke
+Luke
+154775	Luke
+Luke
+154779	Luke
 Luke
 Luke
-154782	Luke
 Luke
-Luke
+154784	Luke
 Luke
 154787	Luke
+154790	Luke
 Luke
 Luke
 Luke
-Luke
-154794	Luke
-154796	Luke
+154795	Luke
 Luke
 Luke
-154802	Luke
+154799	Luke
+154801	Luke
+154803	Luke
 Luke
-Luke
-Luke
-Luke
-Luke
+154807	Luke
 Luke
 154810	Luke
-154812	Luke
-154814	Luke
-154816	Luke
-154818	Luke
-154821	Luke
+Luke
+154813	Luke
+154815	Luke
+154817	Luke
+154820	Luke
+154822	Luke
 154824	Luke
 154826	Luke
 Luke
-154832	Luke
-154834	Luke
+154831	Luke
+154833	Luke
 Luke
-Luke
+154836	Luke
 154838	Luke
 154840	Luke
 154842	Luke
-154844	Luke
-154847	Luke
-154850	Luke
+Luke
+Luke
+154846	Luke
+Luke
+154849	Luke
+Luke
 154852	Luke
 154854	Luke
 Luke
 154857	Luke
-154859	Luke
-154861	Luke
-154863	Luke
+Luke
+154860	Luke
+Luke
 154865	Luke
+154867	Luke
+154869	Luke
+154871	Luke
+154873	Luke
 Luke
-154874	Luke
 154876	Luke
-154878	Luke
-154880	Luke
 Luke
-154884	Luke
+154879	Luke
 Luke
-154887	Luke
-154890	Luke
+154882	Luke
 Luke
-154893	Luke
+Luke
+Luke
+Luke
+Luke
+154889	Luke
+Luke
+154892	Luke
+Luke
 154895	Luke
 154897	Luke
+154899	Luke
 Luke
+154902	Luke
 Luke
-154901	Luke
-154903	Luke
 154905	Luke
-154907	Luke
+Luke
+154908	Luke
 Luke
 154911	Luke
 Luke
-154916	Luke
-154918	Luke
+154914	Luke
 Luke
+154917	Luke
+Luke
+Luke
+154921	Luke
 154923	Luke
-154925	Luke
+Luke
+Luke
 154927	Luke
 Luke
 Luke
 154931	Luke
 154934	Luke
+154936	Luke
 Luke
-154937	Luke
+Luke
 154940	Luke
 154942	Luke
-154944	Luke
-154946	Luke
 Luke
+154945	Luke
 Luke
+154948	Luke
 154950	Luke
 Luke
-Luke
-Luke
+154953	Luke
 154955	Luke
-154957	Luke
-Luke
+154958	Luke
 154960	Luke
 Luke
+154963	Luke
 Luke
-154964	Luke
 154966	Luke
-154969	Luke
-154971	Luke
-154973	Luke
+154968	Luke
+154970	Luke
+154972	Luke
+Luke
 154975	Luke
 Luke
+154978	Luke
+154980	Luke
 Luke
-154979	Luke
-154981	Luke
+154983	Luke
+154985	Luke
 Luke
-Luke
-Luke
-154986	Luke
 154988	Luke
-Luke
 154991	Luke
 Luke
-154994	Luke
+Luke
 154996	Luke
 Luke
-Luke
-Luke
+154999	Luke
 155001	Luke
+155003	Luke
+155005	Luke
+155007	Luke
 Luke
-Luke
-155006	Luke
-155009	Luke
+155010	Luke
 155012	Luke
-155016	Luke
-155021	Luke
-155028	Luke
 Luke
-155036	Luke
+155015	Luke
+Luke
+155018	Luke
+Luke
+Luke
+Luke
+155023	Luke
+155025	Luke
+155027	Luke
+155029	Luke
+155031	Luke
+155033	Luke
+155035	Luke
 155038	Luke
+155040	Luke
 155042	Luke
 155044	Luke
-Luke
-Luke
+155046	Luke
 155048	Luke
 155050	Luke
-155053	Luke
-155055	Luke
-155057	Luke
-155059	Luke
-155062	Luke
-155064	Luke
+155052	Luke
+155054	Luke
+155056	Luke
 Luke
+Luke
+Luke
+155061	Luke
+155063	Luke
+155065	Luke
 155067	Luke
-155070	Luke
+Luke
+Luke
+Luke
 155072	Luke
 Luke
-155076	Luke
+155075	Luke
+Luke
 155078	Luke
 Luke
 Luke
 Luke
 Luke
-155084	Luke
 Luke
-155087	Luke
 Luke
+155086	Luke
+155088	Luke
 155090	Luke
-155092	Luke
 Luke
-155095	Luke
-155098	Luke
 Luke
-155101	Luke
+155094	Luke
+Luke
+155097	Luke
+Luke
+155100	Luke
+Luke
 Luke
 155104	Luke
+155106	Luke
 Luke
-155108	Luke
-155110	Luke
+Luke
+Luke
+155111	Luke
 155113	Luke
 155115	Luke
 155117	Luke
+155119	Luke
 Luke
-155121	Luke
-Luke
+155122	Luke
 155124	Luke
-155126	Luke
 Luke
-Luke
+155127	Luke
 155130	Luke
-155133	Luke
-155136	Luke
-155138	Luke
+Luke
+155134	Luke
+Luke
+Luke
+Luke
 155140	Luke
+155142	Luke
 155144	Luke
 155146	Luke
-155148	Luke
-155151	Luke
 Luke
-155156	Luke
+Luke
+155150	Luke
+155152	Luke
+Luke
+155155	Luke
+155157	Luke
+Luke
 155160	Luke
+155162	Luke
+155164	Luke
 Luke
-155163	Luke
-155165	Luke
 155167	Luke
 155169	Luke
-155172	Luke
-155174	Luke
-155176	Luke
+155171	Luke
+Luke
+155175	Luke
+Luke
 155179	Luke
 155181	Luke
 155183	Luke
+155185	Luke
 Luke
-155189	Luke
-Luke
+155188	Luke
+155190	Luke
 155192	Luke
 155194	Luke
 Luke
 Luke
-155199	Luke
+155198	Luke
+Luke
+155201	Luke
 155203	Luke
 Luke
 155206	Luke
-Luke
+155208	Luke
 155210	Luke
-Luke
-155213	Luke
+155212	Luke
+155214	Luke
+155216	Luke
 Luke
 Luke
 155220	Luke
-155225	Luke
-155229	Luke
-155231	Luke
-155233	Luke
+155222	Luke
 Luke
+155226	Luke
+155228	Luke
+155230	Luke
+155232	Luke
+155234	Luke
 155236	Luke
-155239	Luke
-Luke
-155243	Luke
+155240	Luke
+155242	Luke
+155244	Luke
 155246	Luke
 155248	Luke
-155250	Luke
+155251	Luke
+155253	Luke
 Luke
-Luke
-155257	Luke
-155259	Luke
-Luke
+155256	Luke
+155258	Luke
+155260	Luke
+155263	Luke
 155265	Luke
 155267	Luke
 155269	Luke
+155271	Luke
 Luke
-155272	Luke
-Luke
-Luke
-155277	Luke
+155274	Luke
+155276	Luke
 155280	Luke
-155285	Luke
-155287	Luke
-155289	Luke
-155291	Luke
+155282	Luke
+155284	Luke
+155286	Luke
+155288	Luke
+155290	Luke
+155292	Luke
+Luke
+155295	Luke
+155297	Luke
 Luke
 Luke
-155296	Luke
-155299	Luke
 155301	Luke
-155304	Luke
+155303	Luke
+155306	Luke
 Luke
+155309	Luke
 Luke
-155308	Luke
-155310	Luke
-155316	Luke
+155313	Luke
 Luke
+155317	Luke
 155319	Luke
 Luke
-155323	Luke
-155325	Luke
-155328	Luke
-155330	Luke
 Luke
-155333	Luke
 Luke
+155324	Luke
+Luke
+155327	Luke
+155329	Luke
+155331	Luke
+Luke
+155334	Luke
 155337	Luke
-Luke
 155340	Luke
-155342	Luke
+Luke
+Luke
 155344	Luke
 Luke
-155347	Luke
 Luke
-155350	Luke
-155352	Luke
+Luke
+Luke
+155351	Luke
+Luke
 Luke
 155355	Luke
+Luke
 155358	Luke
-Luke
+155360	Luke
 155362	Luke
-155364	Luke
+155365	Luke
 155367	Luke
+155369	Luke
 Luke
-155370	Luke
 155372	Luke
 155374	Luke
-155380	Luke
+155376	Luke
 Luke
+Luke
+Luke
+155381	Luke
 155383	Luke
 155385	Luke
-155387	Luke
+155388	Luke
 Luke
-155390	Luke
+Luke
 155392	Luke
-155394	Luke
+Luke
 155396	Luke
 155398	Luke
-155400	Luke
+Luke
+Luke
 Luke
 155403	Luke
 155405	Luke
 Luke
 155408	Luke
-155410	Luke
 Luke
-155413	Luke
-155415	Luke
+155411	Luke
 Luke
-155418	Luke
+155414	Luke
 Luke
-155421	Luke
-155423	Luke
+155417	Luke
+155419	Luke
 Luke
-155426	Luke
+155422	Luke
+155424	Luke
 Luke
 Luke
+Luke
+155429	Luke
 155431	Luke
-155433	Luke
-155435	Luke
-155437	Luke
+Luke
+Luke
+Luke
+155436	Luke
+Luke
 Luke
 155440	Luke
-155442	Luke
-155444	Luke
+Luke
+155443	Luke
 Luke
 Luke
+155447	Luke
 155449	Luke
 155451	Luke
-155453	Luke
-155455	Luke
+Luke
+Luke
+Luke
+155456	Luke
 155458	Luke
-155460	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
 155465	Luke
 155467	Luke
+155469	Luke
 Luke
-155470	Luke
 155472	Luke
-Luke
-155475	Luke
-155477	Luke
-155479	Luke
-155481	Luke
-155483	Luke
-Luke
-155487	Luke
+155474	Luke
+155476	Luke
+155478	Luke
+155480	Luke
 Luke
 Luke
 Luke
 Luke
-155494	Luke
 Luke
 Luke
-155498	Luke
+155488	Luke
+155490	Luke
+155492	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
 155500	Luke
-155502	Luke
+Luke
+Luke
+155505	Luke
 Luke
 Luke
 Luke
-155508	Luke
+155510	Luke
+155512	Luke
 Luke
-155511	Luke
+155515	Luke
 Luke
-155514	Luke
-155516	Luke
 155518	Luke
 155520	Luke
 Luke
+155523	Luke
+155525	Luke
 Luke
-155524	Luke
-155531	Luke
-155535	Luke
-155537	Luke
-155539	Luke
 Luke
-155542	Luke
+Luke
+155530	Luke
+Luke
+Luke
+155534	Luke
+155536	Luke
+Luke
+Luke
+155541	Luke
+Luke
 Luke
 155545	Luke
 155547	Luke
+155549	Luke
+155551	Luke
 Luke
 Luke
 Luke
-155555	Luke
-155557	Luke
-155559	Luke
+155556	Luke
+155558	Luke
+155560	Luke
 Luke
 Luke
-155563	Luke
-155565	Luke
-Luke
+155564	Luke
+155566	Luke
 155568	Luke
-155571	Luke
+155570	Luke
+155572	Luke
+155574	Luke
+155576	Luke
 Luke
-155577	Luke
 155579	Luke
-155581	Luke
-155583	Luke
+Luke
+Luke
 155585	Luke
-155588	Luke
-155591	Luke
+155587	Luke
+155590	Luke
+Luke
 155593	Luke
 155595	Luke
 155597	Luke
 155599	Luke
+155602	Luke
 155604	Luke
 155606	Luke
-155608	Luke
-155612	Luke
 Luke
 Luke
-155616	Luke
+Luke
+155611	Luke
 Luke
 Luke
-155623	Luke
-155626	Luke
-155628	Luke
+155617	Luke
+155619	Luke
+155622	Luke
+Luke
+Luke
+Luke
+155627	Luke
+Luke
+Luke
 155631	Luke
-155633	Luke
-155636	Luke
+Luke
+Luke
+155635	Luke
+Luke
+Luke
 155639	Luke
-155642	Luke
-155644	Luke
-155646	Luke
-155648	Luke
-155650	Luke
+155641	Luke
+155643	Luke
+155645	Luke
+155647	Luke
+155649	Luke
+155651	Luke
 Luke
-155653	Luke
-Luke
-Luke
-155657	Luke
+155654	Luke
 Luke
 Luke
+Luke
+155659	Luke
 155661	Luke
 Luke
-155665	Luke
 Luke
-155668	Luke
+Luke
+155666	Luke
+Luke
+Luke
 155670	Luke
-155672	Luke
-Luke
-155675	Luke
-Luke
-155678	Luke
-155681	Luke
-Luke
-155686	Luke
-155688	Luke
-155690	Luke
 Luke
 Luke
-155694	Luke
-155697	Luke
-155699	Luke
-155704	Luke
+155674	Luke
+155676	Luke
 Luke
-155707	Luke
-155709	Luke
 Luke
+155680	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+155689	Luke
+Luke
+155692	Luke
+Luke
+Luke
+155698	Luke
+Luke
+155701	Luke
+155703	Luke
+155705	Luke
+Luke
+155708	Luke
+Luke
+155711	Luke
 155713	Luke
-155715	Luke
-155718	Luke
+Luke
+Luke
+155717	Luke
+155719	Luke
 Luke
 155722	Luke
 155724	Luke
 155726	Luke
+155728	Luke
 Luke
 155731	Luke
-155733	Luke
-155735	Luke
+Luke
+155734	Luke
+Luke
+Luke
 155738	Luke
-155740	Luke
+Luke
+Luke
 155742	Luke
 Luke
-155745	Luke
-Luke
-Luke
-Luke
-155750	Luke
-Luke
+155749	Luke
+155751	Luke
 155753	Luke
-155756	Luke
+155755	Luke
+Luke
+Luke
 155759	Luke
 155761	Luke
 155763	Luke
+155765	Luke
+155767	Luke
+155769	Luke
+155771	Luke
 Luke
-155766	Luke
-Luke
-Luke
-155770	Luke
-Luke
-Luke
-Luke
-155775	Luke
-155777	Luke
-155779	Luke
+155774	Luke
+155776	Luke
+155778	Luke
+155780	Luke
+155782	Luke
 155784	Luke
 155786	Luke
-155788	Luke
-155791	Luke
 Luke
-155794	Luke
-155796	Luke
-155798	Luke
-155800	Luke
-155802	Luke
 Luke
-155805	Luke
-155807	Luke
-155809	Luke
-155811	Luke
-155813	Luke
-155819	Luke
+155790	Luke
+Luke
+Luke
+Luke
+155795	Luke
+155797	Luke
+155799	Luke
+Luke
+Luke
+155804	Luke
+155806	Luke
+155808	Luke
+155810	Luke
+Luke
+155814	Luke
+Luke
+Luke
+155818	Luke
+Luke
+Luke
+Luke
 155823	Luke
-155825	Luke
-155830	Luke
+155826	Luke
+155828	Luke
 Luke
+Luke
+155832	Luke
 155834	Luke
 Luke
+155837	Luke
 Luke
-155838	Luke
-155841	Luke
+155840	Luke
+Luke
 155843	Luke
 Luke
-155848	Luke
-155850	Luke
-155852	Luke
+Luke
+155847	Luke
+155849	Luke
+155851	Luke
+Luke
 Luke
 155855	Luke
-Luke
-155858	Luke
-Luke
+155857	Luke
+155860	Luke
 155862	Luke
-Luke
-155865	Luke
+155864	Luke
 Luke
 155868	Luke
-155872	Luke
 Luke
-155878	Luke
-155881	Luke
-155883	Luke
 Luke
-155886	Luke
+155873	Luke
 Luke
-155890	Luke
+155876	Luke
+Luke
+155879	Luke
+Luke
+155882	Luke
+Luke
+155885	Luke
+Luke
+Luke
+155889	Luke
+Luke
 155892	Luke
-155894	Luke
-155896	Luke
 Luke
-Luke
-155900	Luke
-Luke
+155895	Luke
+155897	Luke
+155901	Luke
 Luke
 155904	Luke
 155906	Luke
 155908	Luke
 155910	Luke
 Luke
+155914	Luke
+155916	Luke
 Luke
-155915	Luke
 Luke
-155918	Luke
-155920	Luke
+155921	Luke
 155923	Luke
 155925	Luke
 Luke
-155929	Luke
-155931	Luke
+155928	Luke
 Luke
+Luke
+155932	Luke
 155934	Luke
 Luke
 155937	Luke
 Luke
-155940	Luke
-155942	Luke
 Luke
-155945	Luke
-155947	Luke
-155949	Luke
+155941	Luke
+155943	Luke
+Luke
+Luke
+Luke
+155948	Luke
+155950	Luke
 Luke
 155953	Luke
-155955	Luke
+Luke
+Luke
 155957	Luke
-155959	Luke
+Luke
+155960	Luke
+Luke
 Luke
 155965	Luke
 Luke
-155968	Luke
+155970	Luke
 Luke
-155972	Luke
+Luke
 155974	Luke
-155976	Luke
+Luke
+Luke
 155979	Luke
-155981	Luke
-155983	Luke
-155985	Luke
-155988	Luke
+Luke
+155982	Luke
+Luke
+155986	Luke
+Luke
+Luke
+155990	Luke
+155992	Luke
+Luke
+Luke
+155996	Luke
 Luke
 Luke
 Luke
-155993	Luke
+156001	Luke
+156003	Luke
+156005	Luke
 Luke
-155998	Luke
-156000	Luke
-156002	Luke
-156004	Luke
+156008	Luke
 Luke
-156007	Luke
 156011	Luke
-156014	Luke
+156013	Luke
 Luke
-Luke
+156016	Luke
 156018	Luke
-156020	Luke
-156022	Luke
-156024	Luke
-156026	Luke
-156028	Luke
 Luke
+156021	Luke
+156023	Luke
+156025	Luke
+Luke
+156028	Luke
+156030	Luke
 156032	Luke
 156034	Luke
+156036	Luke
 Luke
-156038	Luke
-Luke
+156039	Luke
 156041	Luke
-156043	Luke
-156045	Luke
-156047	Luke
-156049	Luke
 Luke
-156053	Luke
+156044	Luke
+156046	Luke
+Luke
+Luke
+156050	Luke
+156052	Luke
 156055	Luke
-156058	Luke
+Luke
+Luke
+Luke
 156060	Luke
-156062	Luke
-156064	Luke
 Luke
-156067	Luke
+Luke
+Luke
+156065	Luke
+Luke
 156069	Luke
-156071	Luke
+Luke
+Luke
 156073	Luke
+156075	Luke
 Luke
-156079	Luke
-Luke
+156078	Luke
+156080	Luke
 156082	Luke
-156084	Luke
-156086	Luke
 Luke
-156089	Luke
+Luke
+156086	Luke
+156088	Luke
+156090	Luke
 156092	Luke
 Luke
+156095	Luke
 Luke
-156096	Luke
 156098	Luke
-156101	Luke
-156103	Luke
-156105	Luke
-Luke
-156108	Luke
-Luke
-156111	Luke
 Luke
 Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+156107	Luke
+Luke
+156110	Luke
+156112	Luke
 Luke
 156116	Luke
-156118	Luke
 Luke
-156121	Luke
+Luke
+156120	Luke
 Luke
 156124	Luke
-156126	Luke
-156129	Luke
 Luke
+Luke
+Luke
+156130	Luke
 156132	Luke
-Luke
 156135	Luke
 156137	Luke
-156140	Luke
-156142	Luke
+156139	Luke
+156141	Luke
+156143	Luke
 156146	Luke
 Luke
 156149	Luke
-156152	Luke
-156154	Luke
-156156	Luke
-156158	Luke
-156160	Luke
 Luke
+Luke
+156153	Luke
+Luke
+Luke
+156157	Luke
+156159	Luke
+156161	Luke
 156163	Luke
-156166	Luke
+156165	Luke
+156167	Luke
+156169	Luke
+156171	Luke
+156173	Luke
 Luke
+156176	Luke
 Luke
-156170	Luke
-156174	Luke
+156179	Luke
 Luke
-Luke
-156178	Luke
-156180	Luke
 156183	Luke
-156186	Luke
-Luke
-156191	Luke
-Luke
-156198	Luke
-156200	Luke
-156202	Luke
-156204	Luke
-156206	Luke
-156208	Luke
-Luke
-156214	Luke
-156216	Luke
 Luke
 Luke
-156220	Luke
-156223	Luke
-156225	Luke
-156227	Luke
 Luke
-156231	Luke
-156233	Luke
+156188	Luke
+156190	Luke
+156192	Luke
 Luke
+Luke
+156196	Luke
+Luke
+156199	Luke
+156201	Luke
+Luke
+156205	Luke
+Luke
+Luke
+Luke
+156211	Luke
+Luke
+Luke
+156215	Luke
+Luke
+156218	Luke
+Luke
+Luke
+156222	Luke
+Luke
+Luke
+156226	Luke
+Luke
+Luke
+156230	Luke
+156232	Luke
+156234	Luke
 156236	Luke
-156240	Luke
-156245	Luke
+156238	Luke
+Luke
+156241	Luke
+Luke
+156244	Luke
+Luke
+156248	Luke
+Luke
+156251	Luke
+Luke
+156254	Luke
 Luke
 Luke
-156252	Luke
-156256	Luke
-156258	Luke
-156260	Luke
-156262	Luke
-156264	Luke
-156266	Luke
-156268	Luke
+Luke
+156259	Luke
+Luke
+Luke
+Luke
+Luke
+156265	Luke
+156267	Luke
+Luke
 156270	Luke
-156272	Luke
-156274	Luke
-156276	Luke
+Luke
+156273	Luke
+156275	Luke
+156277	Luke
 Luke
 Luke
 156281	Luke
 Luke
+156284	Luke
+156286	Luke
+156288	Luke
+156290	Luke
+156292	Luke
 Luke
-156285	Luke
-Luke
-Luke
-156289	Luke
 156295	Luke
+156297	Luke
 156299	Luke
 156301	Luke
-156304	Luke
-156306	Luke
-156308	Luke
-156310	Luke
-156314	Luke
+156303	Luke
+156305	Luke
+156307	Luke
+156309	Luke
+156311	Luke
+Luke
+Luke
+Luke
+156316	Luke
+156318	Luke
 156321	Luke
+Luke
 156325	Luke
 156327	Luke
 156330	Luke
-156332	Luke
-156334	Luke
+Luke
+Luke
+Luke
+156335	Luke
 156337	Luke
-156339	Luke
-156342	Luke
-156344	Luke
+Luke
+Luke
+Luke
+156343	Luke
+Luke
+156346	Luke
 156348	Luke
+156350	Luke
+156352	Luke
 Luke
-156351	Luke
+156355	Luke
 Luke
-156354	Luke
-156357	Luke
+156358	Luke
 Luke
-156360	Luke
-156364	Luke
-156367	Luke
+156361	Luke
 Luke
-156370	Luke
-156373	Luke
 Luke
+156368	Luke
+Luke
+156371	Luke
+Luke
+156374	Luke
 156376	Luke
 156378	Luke
 Luke
-Luke
-Luke
-156383	Luke
-156385	Luke
-Luke
+156381	Luke
+156384	Luke
+156386	Luke
 Luke
 156389	Luke
+156391	Luke
+156393	Luke
 Luke
-156392	Luke
-156400	Luke
+156397	Luke
+156399	Luke
+Luke
 156402	Luke
+156406	Luke
 Luke
-156405	Luke
-156407	Luke
 156409	Luke
+156411	Luke
+Luke
+156416	Luke
+156418	Luke
+156422	Luke
+156424	Luke
+156426	Luke
+156428	Luke
 Luke
 Luke
-156413	Luke
+156433	Luke
 Luke
-Luke
-156417	Luke
-156420	Luke
-Luke
-156423	Luke
-156425	Luke
-Luke
-156429	Luke
-156431	Luke
-Luke
-156434	Luke
 156436	Luke
-156438	Luke
-156441	Luke
-Luke
-156444	Luke
-Luke
-156448	Luke
 Luke
 Luke
-156455	Luke
+156440	Luke
 Luke
-156458	Luke
-156461	Luke
 Luke
-156464	Luke
-156466	Luke
+156445	Luke
+156447	Luke
+156449	Luke
+156451	Luke
+Luke
+Luke
+156456	Luke
+Luke
+156459	Luke
+156463	Luke
+156465	Luke
+Luke
 156468	Luke
-156471	Luke
-156473	Luke
 Luke
 Luke
-156477	Luke
-156479	Luke
+156472	Luke
 Luke
+156475	Luke
+Luke
+156478	Luke
+156480	Luke
 156482	Luke
 156484	Luke
-156486	Luke
-156488	Luke
-156490	Luke
-156492	Luke
+Luke
+156487	Luke
+156489	Luke
+156491	Luke
 156494	Luke
 Luke
-156497	Luke
-156499	Luke
 Luke
+156498	Luke
 Luke
-156503	Luke
-156505	Luke
+156502	Luke
+156504	Luke
+156506	Luke
 Luke
-156510	Luke
+156509	Luke
+Luke
 Luke
 156513	Luke
-156515	Luke
+Luke
+Luke
 156517	Luke
 Luke
+156521	Luke
+156523	Luke
 156525	Luke
-156530	Luke
+Luke
+156528	Luke
+Luke
+Luke
 156532	Luke
-156534	Luke
 Luke
 156537	Luke
-156539	Luke
 156541	Luke
+156543	Luke
 Luke
-156544	Luke
 156546	Luke
 156548	Luke
-156551	Luke
+156550	Luke
+Luke
 Luke
 156554	Luke
 156556	Luke
 Luke
-156560	Luke
-156562	Luke
+156559	Luke
+156561	Luke
+156563	Luke
+156568	Luke
+156570	Luke
+156572	Luke
 Luke
-156565	Luke
-156567	Luke
-156569	Luke
-156571	Luke
-156573	Luke
-156577	Luke
-156579	Luke
+156576	Luke
 Luke
 Luke
+156580	Luke
 Luke
-156584	Luke
-156586	Luke
-156588	Luke
+156583	Luke
+156585	Luke
+156587	Luke
+156589	Luke
+156591	Luke
 Luke
-Luke
-Luke
-Luke
-156595	Luke
-Luke
-156598	Luke
-156600	Luke
-Luke
-Luke
-Luke
+156594	Luke
+156597	Luke
+156599	Luke
+156601	Luke
+156603	Luke
+156605	Luke
 156607	Luke
-156609	Luke
-156611	Luke
-156613	Luke
-156615	Luke
-156617	Luke
-156620	Luke
-156622	Luke
-156624	Luke
-156626	Luke
+Luke
+156610	Luke
+156614	Luke
+156616	Luke
+156619	Luke
+156621	Luke
+156623	Luke
+Luke
 156628	Luke
-156630	Luke
-156633	Luke
+Luke
+Luke
+156632	Luke
+156634	Luke
 156636	Luke
-156638	Luke
 Luke
-156643	Luke
-Luke
+156640	Luke
 Luke
 Luke
-156649	Luke
-156652	Luke
+156644	Luke
+Luke
+156647	Luke
+Luke
+156650	Luke
+Luke
+Luke
 156654	Luke
 156657	Luke
-156659	Luke
 Luke
-156662	Luke
-156664	Luke
+156661	Luke
+156663	Luke
 Luke
 156668	Luke
-Luke
-156671	Luke
-Luke
+156670	Luke
+156672	Luke
 156674	Luke
+156676	Luke
 Luke
-156677	Luke
+156679	Luke
+Luke
 156682	Luke
 Luke
 156685	Luke
+156687	Luke
+156689	Luke
 Luke
-156688	Luke
-156690	Luke
-Luke
+156692	Luke
 156694	Luke
 Luke
-Luke
-156698	Luke
-Luke
+156697	Luke
+156699	Luke
 156701	Luke
-156705	Luke
-Luke
+156704	Luke
+156706	Luke
 156708	Luke
+156710	Luke
 Luke
-156711	Luke
 156713	Luke
-156715	Luke
+Luke
 156717	Luke
 156719	Luke
-156722	Luke
+156721	Luke
+Luke
 156724	Luke
+156726	Luke
+156728	Luke
+156730	Luke
 Luke
-156727	Luke
 Luke
-Luke
-156731	Luke
-156733	Luke
-Luke
+156734	Luke
 156736	Luke
-156738	Luke
-156741	Luke
-156743	Luke
-156745	Luke
-Luke
-156748	Luke
-156750	Luke
-Luke
-156753	Luke
 Luke
 Luke
-156759	Luke
+156740	Luke
+156742	Luke
+Luke
+Luke
+156746	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+156754	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
 156762	Luke
-156764	Luke
-156766	Luke
-156768	Luke
-156770	Luke
-156773	Luke
+Luke
+156765	Luke
+156767	Luke
+156771	Luke
+Luke
+156774	Luke
+156776	Luke
 Luke
 Luke
-156778	Luke
 156780	Luke
 156782	Luke
 156784	Luke
-156788	Luke
 Luke
-156793	Luke
-156795	Luke
-156797	Luke
+156787	Luke
 Luke
-156800	Luke
-156804	Luke
-156807	Luke
+Luke
+Luke
+156792	Luke
+156794	Luke
+Luke
+Luke
+156798	Luke
+Luke
+Luke
+156802	Luke
+Luke
+Luke
+156806	Luke
+Luke
 156809	Luke
 156811	Luke
-156814	Luke
 Luke
+Luke
+156815	Luke
 156817	Luke
-156820	Luke
+156819	Luke
 156822	Luke
 156824	Luke
+156826	Luke
 Luke
+156829	Luke
 Luke
-156828	Luke
-156830	Luke
-156832	Luke
+156833	Luke
 156835	Luke
-156837	Luke
-156841	Luke
 Luke
-156845	Luke
-156847	Luke
-156849	Luke
-156851	Luke
-156853	Luke
+156838	Luke
+156840	Luke
 Luke
+156843	Luke
+Luke
+156846	Luke
+156848	Luke
+156850	Luke
+156852	Luke
+156854	Luke
 156856	Luke
-Luke
-156859	Luke
+156858	Luke
 156861	Luke
 156863	Luke
+156866	Luke
 156868	Luke
+156870	Luke
 156872	Luke
 156874	Luke
-156877	Luke
-156879	Luke
+156876	Luke
+156878	Luke
+Luke
 156881	Luke
 156883	Luke
-156887	Luke
-156892	Luke
-156896	Luke
-156898	Luke
+156886	Luke
 Luke
+156890	Luke
+156893	Luke
+156895	Luke
+156897	Luke
+156899	Luke
 156901	Luke
+Luke
 156904	Luke
-156908	Luke
-156911	Luke
+Luke
+156907	Luke
+156910	Luke
+Luke
 156913	Luke
-156916	Luke
+156915	Luke
+Luke
 156918	Luke
-Luke
-Luke
-156922	Luke
+156920	Luke
 156924	Luke
+156926	Luke
 Luke
 156929	Luke
 156931	Luke
+156933	Luke
 Luke
-156935	Luke
-156937	Luke
-156941	Luke
-156943	Luke
+156936	Luke
+156938	Luke
+156940	Luke
+156942	Luke
+156944	Luke
+Luke
 156947	Luke
 156949	Luke
-Luke
-156952	Luke
+156951	Luke
+156953	Luke
 156957	Luke
-156961	Luke
-156964	Luke
-156968	Luke
+Luke
+156960	Luke
+Luke
+156963	Luke
+156965	Luke
+Luke
+Luke
+Luke
+156970	Luke
 156972	Luke
 Luke
-156976	Luke
+Luke
 156978	Luke
-156980	Luke
-156982	Luke
+Luke
+156981	Luke
+Luke
 156984	Luke
 Luke
-156989	Luke
-156991	Luke
+156987	Luke
+Luke
+156990	Luke
+Luke
+156993	Luke
 Luke
 Luke
 Luke
+156998	Luke
 Luke
-156997	Luke
 Luke
 Luke
-157001	Luke
 157003	Luke
-157006	Luke
 Luke
-157010	Luke
 Luke
+Luke
+Luke
+157009	Luke
+157011	Luke
 157013	Luke
 Luke
 157016	Luke
 Luke
-157019	Luke
-157021	Luke
-157024	Luke
+157020	Luke
+Luke
+157023	Luke
 157026	Luke
+157028	Luke
+157030	Luke
+157032	Luke
 Luke
-157029	Luke
 Luke
+157036	Luke
 Luke
-157033	Luke
-157035	Luke
+157039	Luke
 Luke
-157038	Luke
-157040	Luke
-157042	Luke
 157044	Luke
 Luke
+157047	Luke
 Luke
-157048	Luke
+157050	Luke
+157053	Luke
 Luke
-157052	Luke
-157054	Luke
 157056	Luke
 157058	Luke
 157060	Luke
-157062	Luke
-157064	Luke
-157068	Luke
+Luke
+157063	Luke
+157065	Luke
+Luke
+Luke
+157069	Luke
+Luke
 157072	Luke
-157074	Luke
-157076	Luke
-157078	Luke
-157080	Luke
 Luke
 Luke
-157084	Luke
+157077	Luke
 Luke
-157087	Luke
-157089	Luke
+Luke
+157081	Luke
+Luke
+157085	Luke
+Luke
+Luke
+Luke
+157090	Luke
+157092	Luke
 Luke
 157095	Luke
-157098	Luke
+157097	Luke
+Luke
 157100	Luke
-157102	Luke
-157104	Luke
-157106	Luke
-157108	Luke
+Luke
+157103	Luke
+157105	Luke
+157107	Luke
+157109	Luke
+157111	Luke
+Luke
+157114	Luke
+157116	Luke
+Luke
+157119	Luke
 Luke
 Luke
-157112	Luke
 Luke
-157115	Luke
-157117	Luke
 Luke
-157120	Luke
-157122	Luke
-157126	Luke
-157128	Luke
-157130	Luke
-157134	Luke
+157125	Luke
+157127	Luke
+Luke
+157131	Luke
+Luke
 157136	Luke
-157138	Luke
 Luke
+157139	Luke
 Luke
+157142	Luke
+157144	Luke
 Luke
-157143	Luke
-157145	Luke
-157147	Luke
+157148	Luke
 Luke
+157151	Luke
+157153	Luke
+157155	Luke
+157157	Luke
 Luke
-157152	Luke
-157154	Luke
-157156	Luke
-Luke
-157159	Luke
-Luke
+157160	Luke
 157162	Luke
 Luke
-157166	Luke
-157168	Luke
+157165	Luke
+157167	Luke
+Luke
 157170	Luke
-157174	Luke
+Luke
+Luke
+Luke
+Luke
 157176	Luke
 Luke
-157181	Luke
+157179	Luke
 Luke
-157184	Luke
+157182	Luke
 Luke
 Luke
-157188	Luke
+157186	Luke
+Luke
+Luke
 157190	Luke
-Luke
+157192	Luke
+157194	Luke
 Luke
 157197	Luke
-157199	Luke
+Luke
+Luke
 157201	Luke
+Luke
 157204	Luke
 157206	Luke
-157208	Luke
+Luke
+157209	Luke
 Luke
 157212	Luke
-157214	Luke
-157216	Luke
+Luke
+157215	Luke
+Luke
 157218	Luke
 157220	Luke
-157222	Luke
+Luke
+Luke
 157224	Luke
-157227	Luke
-157229	Luke
+157226	Luke
+157228	Luke
+157230	Luke
 157232	Luke
 Luke
 157235	Luke
-157237	Luke
-157239	Luke
 Luke
+157238	Luke
 157242	Luke
-157245	Luke
-157247	Luke
-157250	Luke
 Luke
-157255	Luke
+157245	Luke
+Luke
+157249	Luke
+157251	Luke
+157253	Luke
+Luke
+Luke
 Luke
 157258	Luke
+157260	Luke
+157262	Luke
+157264	Luke
 Luke
-157261	Luke
-Luke
-Luke
-157265	Luke
 157267	Luke
-157269	Luke
-Luke
-157272	Luke
 Luke
 Luke
+157271	Luke
 Luke
 Luke
-157279	Luke
-157281	Luke
-157283	Luke
+157276	Luke
 Luke
-157288	Luke
-157292	Luke
 Luke
-157295	Luke
+157280	Luke
+Luke
+Luke
+Luke
+157285	Luke
+157287	Luke
+Luke
+157290	Luke
+Luke
+157293	Luke
+Luke
+Luke
+157297	Luke
 157299	Luke
 Luke
 157302	Luke
-Luke
-157305	Luke
-157307	Luke
-Luke
+157304	Luke
+157306	Luke
+157308	Luke
 157310	Luke
 157312	Luke
-157314	Luke
-157316	Luke
-157318	Luke
-157320	Luke
+Luke
+Luke
+Luke
+157317	Luke
+157319	Luke
 157322	Luke
 Luke
-157325	Luke
+Luke
+157327	Luke
+157329	Luke
+157331	Luke
 Luke
 Luke
-Luke
-157330	Luke
-157332	Luke
+157335	Luke
 157337	Luke
 Luke
 Luke
-157341	Luke
-157343	Luke
-157346	Luke
-157352	Luke
+Luke
+157342	Luke
+Luke
+157345	Luke
+157347	Luke
+157349	Luke
+Luke
+157353	Luke
 157355	Luke
-157358	Luke
-157361	Luke
-157363	Luke
-157365	Luke
+Luke
+157360	Luke
+157362	Luke
+157364	Luke
+157367	Luke
 157369	Luke
-157371	Luke
+Luke
+157372	Luke
+Luke
 157375	Luke
+Luke
 157378	Luke
-157380	Luke
+Luke
+Luke
+Luke
 157383	Luke
 157385	Luke
-157387	Luke
-Luke
-157390	Luke
-Luke
-157393	Luke
-157395	Luke
-157398	Luke
-Luke
-157401	Luke
 Luke
 Luke
-157405	Luke
+157389	Luke
+157391	Luke
+Luke
+157394	Luke
+Luke
+157397	Luke
+Luke
+157400	Luke
+Luke
+157404	Luke
+Luke
 Luke
 Luke
 157409	Luke
-157411	Luke
+157412	Luke
 157414	Luke
-157416	Luke
-157418	Luke
-157421	Luke
+Luke
+157417	Luke
+157419	Luke
 157423	Luke
 157425	Luke
 157427	Luke
-157429	Luke
-157431	Luke
-157433	Luke
+Luke
+157430	Luke
+157432	Luke
+Luke
+157435	Luke
 157437	Luke
 Luke
 Luke
-157441	Luke
-157443	Luke
+157442	Luke
+Luke
+157445	Luke
+Luke
 157448	Luke
 Luke
-157451	Luke
-157453	Luke
-157455	Luke
 Luke
-157460	Luke
+157452	Luke
+Luke
+Luke
+157456	Luke
+Luke
+157459	Luke
 157462	Luke
+Luke
 157465	Luke
 157467	Luke
 Luke
 157470	Luke
 157472	Luke
-157474	Luke
 Luke
-157477	Luke
+Luke
+157476	Luke
+Luke
 157479	Luke
-157481	Luke
 Luke
+157482	Luke
 157484	Luke
 157486	Luke
 Luke
 Luke
-157490	Luke
-157492	Luke
-157494	Luke
+157491	Luke
+157493	Luke
 Luke
-157497	Luke
-157499	Luke
-157505	Luke
+157498	Luke
+157500	Luke
+Luke
+Luke
+157504	Luke
+Luke
 157507	Luke
-157509	Luke
+Luke
+157510	Luke
 157512	Luke
-157515	Luke
+157514	Luke
+Luke
 157517	Luke
 157519	Luke
-157521	Luke
 Luke
-157525	Luke
 Luke
-157528	Luke
-157530	Luke
+157523	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
 157532	Luke
 157534	Luke
-Luke
-Luke
+157536	Luke
 157538	Luke
-Luke
-Luke
+157540	Luke
 157542	Luke
 Luke
+157546	Luke
+157550	Luke
+157552	Luke
+157554	Luke
+157556	Luke
 Luke
-157547	Luke
-157549	Luke
-157553	Luke
-157555	Luke
-157557	Luke
 157559	Luke
-157561	Luke
+Luke
+Luke
 157563	Luke
-157565	Luke
-157569	Luke
 Luke
-157572	Luke
+157566	Luke
+157568	Luke
 Luke
-157576	Luke
 Luke
-157579	Luke
 Luke
+157573	Luke
+157575	Luke
+157577	Luke
+157580	Luke
+157582	Luke
 157584	Luke
+Luke
 157587	Luke
 157589	Luke
 157591	Luke
 Luke
 Luke
-157595	Luke
+Luke
+157596	Luke
 157598	Luke
 Luke
 Luke
+Luke
 157603	Luke
+157605	Luke
+157607	Luke
 Luke
-157606	Luke
-157609	Luke
-157611	Luke
-157614	Luke
-157618	Luke
+157610	Luke
 Luke
+157616	Luke
+157619	Luke
 157621	Luke
+157623	Luke
+157625	Luke
 Luke
-157624	Luke
+157629	Luke
+Luke
+157632	Luke
 Luke
 Luke
-157631	Luke
-Luke
-157634	Luke
 157636	Luke
-157639	Luke
-157641	Luke
-157643	Luke
-157645	Luke
-Luke
-157649	Luke
-Luke
-157652	Luke
-157654	Luke
-157656	Luke
-157658	Luke
 Luke
 Luke
-157662	Luke
 Luke
 Luke
-157666	Luke
+157642	Luke
+157644	Luke
+157646	Luke
+157648	Luke
+157650	Luke
+157655	Luke
+Luke
+Luke
+157659	Luke
+157661	Luke
+157663	Luke
+Luke
+157667	Luke
+Luke
 157670	Luke
-157672	Luke
-157674	Luke
-157676	Luke
-157678	Luke
-157680	Luke
-157682	Luke
 Luke
+157673	Luke
+Luke
+Luke
+157677	Luke
+157679	Luke
+157681	Luke
+157683	Luke
 157685	Luke
 157687	Luke
 Luke
-157690	Luke
-157692	Luke
+Luke
+157691	Luke
+Luke
+157694	Luke
 157696	Luke
 157698	Luke
 157700	Luke
 157702	Luke
 157704	Luke
+157706	Luke
+157708	Luke
 Luke
+157711	Luke
 Luke
-157709	Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-157717	Luke
-157719	Luke
-157721	Luke
+157714	Luke
+157716	Luke
+157718	Luke
+157720	Luke
 157723	Luke
+157725	Luke
 Luke
-157726	Luke
 Luke
+157729	Luke
 Luke
-157730	Luke
-157734	Luke
-157736	Luke
-157742	Luke
+157732	Luke
+Luke
+157735	Luke
+Luke
+157738	Luke
+Luke
+157741	Luke
+Luke
 157745	Luke
-157753	Luke
-157755	Luke
+157747	Luke
+157749	Luke
+157751	Luke
+157754	Luke
 Luke
-157758	Luke
-157760	Luke
-157762	Luke
+157757	Luke
 Luke
-Luke
-157766	Luke
-157770	Luke
-Luke
-157773	Luke
+157761	Luke
+157763	Luke
 Luke
 Luke
+157767	Luke
+157769	Luke
+Luke
+157772	Luke
 Luke
 Luke
-157779	Luke
-157781	Luke
+Luke
+157777	Luke
+Luke
+157780	Luke
+157783	Luke
 157785	Luke
 157787	Luke
-Luke
+157789	Luke
+157791	Luke
 157793	Luke
 157795	Luke
 Luke
-157803	Luke
-157805	Luke
-157807	Luke
-157809	Luke
 Luke
-Luke
-157813	Luke
-Luke
-157816	Luke
-157818	Luke
-157821	Luke
-157823	Luke
-Luke
-Luke
-157827	Luke
-157830	Luke
-157832	Luke
-Luke
-157835	Luke
-157837	Luke
-157839	Luke
-Luke
-157843	Luke
-157845	Luke
-Luke
-157848	Luke
-157850	Luke
-157853	Luke
-Luke
-157856	Luke
-157858	Luke
-157860	Luke
-157865	Luke
-157867	Luke
-Luke
-157870	Luke
-157872	Luke
-Luke
-Luke
-Luke
-157879	Luke
-Luke
-157883	Luke
-157885	Luke
-Luke
-157888	Luke
-157891	Luke
-157893	Luke
-Luke
-157899	Luke
-Luke
-Luke
-157906	Luke
-157908	Luke
-Luke
-Luke
-157912	Luke
-157914	Luke
-157917	Luke
-157919	Luke
-157921	Luke
-157923	Luke
-157925	Luke
-157927	Luke
-157931	Luke
-157934	Luke
-157940	Luke
-157942	Luke
-157946	Luke
-Luke
-157951	Luke
-157953	Luke
-Luke
-157956	Luke
-157958	Luke
-Luke
-157961	Luke
-Luke
-Luke
-157965	Luke
-157968	Luke
-157970	Luke
-157972	Luke
-Luke
-157975	Luke
-157977	Luke
-157979	Luke
-157981	Luke
-Luke
-Luke
-157986	Luke
-157988	Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-157995	Luke
-157998	Luke
-158000	Luke
-Luke
-Luke
-Luke
-Luke
-158006	Luke
-158008	Luke
-158010	Luke
-Luke
-158013	Luke
-Luke
-Luke
-Luke
-158018	Luke
-158022	Luke
-158028	Luke
-158030	Luke
-Luke
-158033	Luke
-158035	Luke
-158037	Luke
-158041	Luke
-Luke
-158044	Luke
-158046	Luke
-158048	Luke
-158051	Luke
-158054	Luke
-158056	Luke
-Luke
-158061	Luke
-158063	Luke
-158072	Luke
-Luke
-Luke
-158076	Luke
-158078	Luke
-Luke
-158083	Luke
-Luke
-Luke
-Luke
-158088	Luke
-158092	Luke
-158094	Luke
-Luke
-Luke
-158098	Luke
-Luke
-Luke
-158103	Luke
-Luke
-158106	Luke
-Luke
-158110	Luke
-Luke
-Luke
-Luke
-158115	Luke
-Luke
-158118	Luke
-158122	Luke
-158124	Luke
-Luke
-Luke
-158128	Luke
-158130	Luke
-Luke
-158133	Luke
-158135	Luke
-158137	Luke
-Luke
-158142	Luke
-Luke
-158145	Luke
-Luke
-158148	Luke
-158151	Luke
-158153	Luke
-158157	Luke
-158160	Luke
-158162	Luke
-158164	Luke
-Luke
-158168	Luke
-158170	Luke
-158172	Luke
-158175	Luke
-158177	Luke
-158179	Luke
-158182	Luke
-Luke
-Luke
-158186	Luke
-Luke
-158190	Luke
-158192	Luke
-158194	Luke
-158197	Luke
-Luke
-158201	Luke
-Luke
-158204	Luke
-158207	Luke
-158210	Luke
-158212	Luke
-158215	Luke
-158217	Luke
-158219	Luke
-Luke
-158222	Luke
-Luke
-158226	Luke
-158228	Luke
-158230	Luke
-158232	Luke
-158234	Luke
-Luke
-Luke
-Luke
-158239	Luke
-Luke
-158242	Luke
-Luke
-158245	Luke
-158247	Luke
-158250	Luke
-Luke
-158253	Luke
-Luke
-158258	Luke
-Luke
-158261	Luke
-Luke
-158265	Luke
-Luke
-158268	Luke
-Luke
-158272	Luke
-Luke
-158275	Luke
-158277	Luke
-158279	Luke
-Luke
-158282	Luke
-158284	Luke
-158286	Luke
-Luke
-158289	Luke
-158292	Luke
-158295	Luke
-Luke
-158298	Luke
-158300	Luke
-158302	Luke
-Luke
-158307	Luke
-Luke
-158310	Luke
-158312	Luke
-Luke
-158315	Luke
-158317	Luke
-158319	Luke
-158322	Luke
-Luke
-158325	Luke
-158329	Luke
-158331	Luke
-158334	Luke
-158336	Luke
-158340	Luke
-Luke
-158343	Luke
-Luke
-158348	Luke
-158350	Luke
-158352	Luke
-158354	Luke
-158356	Luke
-Luke
-158359	Luke
-158364	Luke
-Luke
-Luke
-158370	Luke
-Luke
-158373	Luke
-158375	Luke
-158378	Luke
-158380	Luke
-158382	Luke
-Luke
-158386	Luke
-158388	Luke
-Luke
-158391	Luke
-Luke
-158394	Luke
-Luke
-Luke
-158398	Luke
-158400	Luke
-158403	Luke
-158405	Luke
-158407	Luke
-158409	Luke
-158412	Luke
-158414	Luke
-158416	Luke
-158418	Luke
-158420	Luke
-158422	Luke
-158424	Luke
-158428	Luke
-158430	Luke
-158433	Luke
-158435	Luke
-158437	Luke
-Luke
-Luke
-Luke
-158442	Luke
-158444	Luke
-158446	Luke
-158448	Luke
-Luke
-Luke
-158452	Luke
-158454	Luke
-Luke
-158457	Luke
-158459	Luke
-158461	Luke
-158463	Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-158470	Luke
-158472	Luke
-158474	Luke
-Luke
-Luke
-158478	Luke
-Luke
-158481	Luke
-158483	Luke
-158485	Luke
-Luke
-Luke
-158489	Luke
-158491	Luke
-Luke
-Luke
-158495	Luke
-158497	Luke
-158500	Luke
-158502	Luke
-158504	Luke
-158507	Luke
-158509	Luke
-158511	Luke
-158513	Luke
-158515	Luke
-158517	Luke
-158521	Luke
-Luke
-158526	Luke
-Luke
-158529	Luke
-Luke
-158535	Luke
-158537	Luke
-158540	Luke
-158542	Luke
-Luke
-158545	Luke
-158547	Luke
-158550	Luke
-Luke
-158553	Luke
-158555	Luke
-158558	Luke
-158560	Luke
-158562	Luke
-158564	Luke
-Luke
-158569	Luke
-158571	Luke
-158574	Luke
-Luke
-158579	Luke
-158581	Luke
-158584	Luke
-158586	Luke
-158588	Luke
-158590	Luke
-Luke
-158594	Luke
-158596	Luke
-158599	Luke
-158601	Luke
-Luke
-158604	Luke
-158606	Luke
-Luke
-158609	Luke
-158611	Luke
-Luke
-158614	Luke
-158616	Luke
-158618	Luke
-158621	Luke
-158623	Luke
-158626	Luke
-Luke
-Luke
-158630	Luke
-158632	Luke
-Luke
-158636	Luke
-158638	Luke
-158641	Luke
-158643	Luke
-158645	Luke
-158647	Luke
-158651	Luke
-158653	Luke
-158656	Luke
-158658	Luke
-158660	Luke
-158665	Luke
-158667	Luke
-Luke
-158670	Luke
-158672	Luke
-158677	Luke
-158680	Luke
-158682	Luke
-158684	Luke
-158686	Luke
-158688	Luke
-158690	Luke
-158693	Luke
-158695	Luke
-158699	Luke
-158701	Luke
-158703	Luke
-158706	Luke
-158709	Luke
-158711	Luke
-158713	Luke
-158715	Luke
-158717	Luke
-158719	Luke
-Luke
-158722	Luke
-158725	Luke
-158727	Luke
-158730	Luke
-Luke
-158735	Luke
-Luke
-158740	Luke
-Luke
-158746	Luke
-158748	Luke
-Luke
-Luke
-Luke
-158753	Luke
-Luke
-158756	Luke
-158759	Luke
-158762	Luke
-158764	Luke
-158766	Luke
-158769	Luke
-158772	Luke
-158774	Luke
-158776	Luke
-158778	Luke
-Luke
-Luke
-Luke
-Luke
-158785	Luke
-158788	Luke
-Luke
-158791	Luke
-Luke
-158795	Luke
-158797	Luke
-158799	Luke
-158803	Luke
-158805	Luke
-158807	Luke
-Luke
-158810	Luke
-158812	Luke
-158814	Luke
-Luke
-Luke
-Luke
-158820	Luke
-158822	Luke
-158824	Luke
-158830	Luke
-Luke
-158833	Luke
-158835	Luke
-Luke
-158841	Luke
-158843	Luke
-Luke
-Luke
-Luke
-158849	Luke
-158851	Luke
-Luke
-158855	Luke
-Luke
-158858	Luke
-Luke
-158861	Luke
-Luke
-158864	Luke
-158866	Luke
-Luke
-158871	Luke
-158873	Luke
-Luke
-Luke
-Luke
-158878	Luke
-158880	Luke
-158882	Luke
-Luke
-Luke
-158887	Luke
-Luke
-Luke
-158891	Luke
-158894	Luke
-158896	Luke
-Luke
-Luke
-158900	Luke
-158902	Luke
-158904	Luke
-158906	Luke
-158908	Luke
-Luke
-158911	Luke
-158914	Luke
-158916	Luke
-Luke
-Luke
-Luke
-158921	Luke
-158923	Luke
-158925	Luke
-158927	Luke
-Luke
-158931	Luke
-158933	Luke
-158935	Luke
-158937	Luke
-158939	Luke
-158941	Luke
-158943	Luke
-Luke
-Luke
-Luke
-Luke
-158950	Luke
-158952	Luke
-158954	Luke
-158956	Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-158963	Luke
-Luke
-Luke
-158969	Luke
-Luke
-Luke
-158973	Luke
-158975	Luke
-158977	Luke
-Luke
-158980	Luke
-Luke
-158983	Luke
-158985	Luke
-Luke
-158988	Luke
-158990	Luke
-Luke
-158993	Luke
-158995	Luke
-158997	Luke
-Luke
-159000	Luke
-159002	Luke
-159004	Luke
-Luke
-Luke
-159009	Luke
-159011	Luke
-Luke
-159014	Luke
-159016	Luke
-159018	Luke
-159020	Luke
-Luke
-Luke
-159024	Luke
-159026	Luke
-159029	Luke
-159031	Luke
-Luke
-Luke
-159036	Luke
-159038	Luke
-159042	Luke
-159044	Luke
-Luke
-159047	Luke
-159049	Luke
-Luke
-159052	Luke
-Luke
-Luke
-159059	Luke
-159062	Luke
-159066	Luke
-Luke
-159069	Luke
-159072	Luke
-159074	Luke
-159076	Luke
-159079	Luke
-159081	Luke
-159083	Luke
-Luke
-Luke
-159087	Luke
-159089	Luke
-Luke
-Luke
-159094	Luke
-159097	Luke
-159101	Luke
-159103	Luke
-Luke
-Luke
-159108	Luke
-Luke
-Luke
-159112	Luke
-Luke
-Luke
-159117	Luke
-159119	Luke
-Luke
-159123	Luke
-159125	Luke
-159127	Luke
-159129	Luke
-159131	Luke
-159133	Luke
-159135	Luke
-Luke
-159138	Luke
-Luke
-159142	Luke
-Luke
-159145	Luke
-159147	Luke
-Luke
-Luke
-Luke
-159152	Luke
-Luke
-Luke
-159156	Luke
-Luke
-Luke
-159160	Luke
-159162	Luke
-159164	Luke
-159166	Luke
-159168	Luke
-159170	Luke
-159172	Luke
-Luke
-Luke
-Luke
-Luke
-159180	Luke
-Luke
-159183	Luke
-Luke
-Luke
-159189	Luke
-Luke
-159192	Luke
-159194	Luke
-159197	Luke
-Luke
-159201	Luke
-Luke
-159204	Luke
-159206	Luke
-Luke
-159209	Luke
-159211	Luke
-159214	Luke
-Luke
-159217	Luke
-159219	Luke
-159221	Luke
-159223	Luke
-Luke
-159226	Luke
-Luke
-159229	Luke
-Luke
-Luke
-159233	Luke
-Luke
-Luke
-159237	Luke
-159239	Luke
-159246	Luke
-159248	Luke
-159251	Luke
-159253	Luke
-Luke
-159256	Luke
-159258	Luke
-159260	Luke
-159265	Luke
-159267	Luke
-159269	Luke
-159271	Luke
-159273	Luke
-Luke
-159276	Luke
-159279	Luke
-159281	Luke
-159283	Luke
-159285	Luke
-159288	Luke
-159290	Luke
-Luke
-Luke
-159294	Luke
-Luke
-Luke
-Luke
-159299	Luke
-159301	Luke
-159304	Luke
-Luke
-Luke
-159310	Luke
-159312	Luke
-159314	Luke
-159316	Luke
-Luke
-159320	Luke
-Luke
-Luke
-159325	Luke
-Luke
-Luke
-Luke
-159330	Luke
-159332	Luke
-159334	Luke
-159336	Luke
-Luke
-159340	Luke
-159342	Luke
-Luke
-159345	Luke
-Luke
-159348	Luke
-Luke
-159351	Luke
-Luke
-Luke
-159355	Luke
-159357	Luke
-159361	Luke
-Luke
-Luke
-159365	Luke
-159367	Luke
-159369	Luke
-159371	Luke
-159373	Luke
-Luke
-159378	Luke
-Luke
-Luke
-159382	Luke
-Luke
-159385	Luke
-Luke
-159389	Luke
-Luke
-159392	Luke
-Luke
-159395	Luke
-Luke
-Luke
-159399	Luke
-Luke
-159402	Luke
-Luke
-Luke
-159406	Luke
-159411	Luke
-Luke
-159414	Luke
-159416	Luke
-159418	Luke
-159420	Luke
-Luke
-159425	Luke
-159428	Luke
-Luke
-Luke
-159433	Luke
-159435	Luke
-159437	Luke
-Luke
-159440	Luke
-Luke
-159443	Luke
-159445	Luke
-159448	Luke
-Luke
-159451	Luke
-Luke
-Luke
-159456	Luke
-159458	Luke
-Luke
-Luke
-Luke
-159464	Luke
-159466	Luke
-Luke
-159469	Luke
-Luke
-159472	Luke
-159474	Luke
-Luke
-159477	Luke
-Luke
-Luke
-159482	Luke
-159484	Luke
-159487	Luke
-Luke
-Luke
-159491	Luke
-Luke
-Luke
-159496	Luke
-Luke
-159499	Luke
-Luke
-159503	Luke
-159505	Luke
-Luke
-159508	Luke
-159510	Luke
-159512	Luke
-Luke
-159515	Luke
-Luke
-Luke
-159519	Luke
-159522	Luke
-159524	Luke
-159526	Luke
-Luke
-159529	Luke
-Luke
-159533	Luke
-159535	Luke
-Luke
-159538	Luke
-159540	Luke
-159542	Luke
-159544	Luke
-159546	Luke
-159548	Luke
-Luke
-159551	Luke
-159554	Luke
-159556	Luke
-159558	Luke
-159560	Luke
-Luke
-159564	Luke
-159567	Luke
-Luke
-159570	Luke
-159572	Luke
-Luke
-Luke
-159578	Luke
-159580	Luke
-159585	Luke
-Luke
-Luke
-Luke
-159590	Luke
-Luke
-Luke
-159594	Luke
-159596	Luke
-Luke
-159601	Luke
-Luke
-Luke
-159605	Luke
-159608	Luke
-Luke
-159611	Luke
-159613	Luke
-159616	Luke
-Luke
-Luke
-159620	Luke
-159622	Luke
-159625	Luke
-159627	Luke
-Luke
-159631	Luke
-Luke
-159635	Luke
-Luke
-Luke
-Luke
-159640	Luke
-Luke
-Luke
-Luke
-159646	Luke
-159648	Luke
-159650	Luke
-159652	Luke
-Luke
-159656	Luke
-Luke
-Luke
-159661	Luke
-Luke
-159666	Luke
-Luke
-Luke
-Luke
-159673	Luke
-159675	Luke
-159678	Luke
-159681	Luke
-159683	Luke
-159685	Luke
-159687	Luke
-159691	Luke
-Luke
-159694	Luke
-Luke
-Luke
-159698	Luke
-Luke
-159701	Luke
-159703	Luke
-159705	Luke
-159707	Luke
-159710	Luke
-159713	Luke
-159715	Luke
-159718	Luke
-159720	Luke
-159722	Luke
-Luke
-159726	Luke
-159729	Luke
-159731	Luke
-159733	Luke
-159737	Luke
-Luke
-Luke
-159741	Luke
-159743	Luke
-159745	Luke
-159747	Luke
-Luke
-159750	Luke
-159752	Luke
-159754	Luke
-159756	Luke
-159758	Luke
-Luke
-159764	Luke
-Luke
-Luke
-Luke
-159772	Luke
-Luke
-Luke
-159776	Luke
-Luke
-159779	Luke
-Luke
-Luke
-159783	Luke
-Luke
-Luke
-159787	Luke
-Luke
-159790	Luke
-159792	Luke
-159794	Luke
-159796	Luke
-159798	Luke
-159800	Luke
-Luke
-159803	Luke
-Luke
-159806	Luke
-Luke
-159811	Luke
-Luke
-159814	Luke
-Luke
-159817	Luke
-159819	Luke
-159821	Luke
-159823	Luke
-159825	Luke
-Luke
-Luke
-159829	Luke
-Luke
-159832	Luke
-159834	Luke
-Luke
-159837	Luke
-159840	Luke
-159842	Luke
-159844	Luke
-159846	Luke
-Luke
-Luke
-159850	Luke
-Luke
-159853	Luke
-159855	Luke
-Luke
-159859	Luke
-159861	Luke
-Luke
-159864	Luke
-159866	Luke
-159868	Luke
-159872	Luke
-159875	Luke
-159877	Luke
-159879	Luke
-159881	Luke
-159884	Luke
-Luke
-Luke
-Luke
-159889	Luke
-159891	Luke
-159895	Luke
-Luke
-159898	Luke
-159901	Luke
-159906	Luke
-Luke
-159909	Luke
-Luke
-159912	Luke
-159914	Luke
-Luke
-Luke
-Luke
-159921	Luke
-Luke
-159924	Luke
-159927	Luke
-159929	Luke
-159932	Luke
-Luke
-159935	Luke
-Luke
-159938	Luke
-Luke
-159942	Luke
-Luke
-Luke
-159948	Luke
-Luke
-159951	Luke
-159953	Luke
-159955	Luke
-159957	Luke
-159959	Luke
-Luke
-159963	Luke
-159968	Luke
-159970	Luke
-Luke
-159974	Luke
-159976	Luke
-159978	Luke
-159980	Luke
-159984	Luke
-159986	Luke
-159988	Luke
-159990	Luke
-159997	Luke
-Luke
-160001	Luke
-160003	Luke
-Luke
-160007	Luke
-160009	Luke
-160016	Luke
-160018	Luke
-160020	Luke
-160022	Luke
-Luke
-Luke
-160027	Luke
-Luke
-160030	Luke
-Luke
-Luke
-160034	Luke
-Luke
-160037	Luke
-160040	Luke
-160043	Luke
-160045	Luke
-160048	Luke
-Luke
-Luke
-160055	Luke
-Luke
-160058	Luke
-160063	Luke
-160065	Luke
-Luke
-160068	Luke
-Luke
-Luke
-160073	Luke
-Luke
-160076	Luke
-Luke
-160079	Luke
-160083	Luke
-160085	Luke
-160087	Luke
-160089	Luke
-160092	Luke
-160094	Luke
-160097	Luke
-160100	Luke
-Luke
-160103	Luke
-160105	Luke
-Luke
-160109	Luke
-160111	Luke
-160113	Luke
-Luke
-160116	Luke
-160118	Luke
-Luke
-160121	Luke
-Luke
-160124	Luke
-160126	Luke
-Luke
-160131	Luke
-160134	Luke
-160137	Luke
-Luke
-160140	Luke
-Luke
-160144	Luke
-160146	Luke
-Luke
-160153	Luke
-160159	Luke
-160161	Luke
-Luke
-160165	Luke
-160168	Luke
-160170	Luke
-Luke
-Luke
-160174	Luke
-160178	Luke
-160180	Luke
-160182	Luke
-160184	Luke
-160187	Luke
-160193	Luke
-160195	Luke
-160197	Luke
-Luke
-160202	Luke
-Luke
-Luke
-160206	Luke
-160209	Luke
-160211	Luke
-160213	Luke
-160215	Luke
-160217	Luke
-160219	Luke
-Luke
-160223	Luke
-160226	Luke
-160229	Luke
-160231	Luke
-160233	Luke
-160235	Luke
-160237	Luke
-Luke
-160243	Luke
-160248	Luke
-160251	Luke
-160255	Luke
-160257	Luke
-160259	Luke
-Luke
-160264	Luke
-Luke
-160267	Luke
-160269	Luke
-160271	Luke
-160273	Luke
-Luke
-160279	Luke
-Luke
-Luke
-160283	Luke
-Luke
-160286	Luke
-Luke
-160289	Luke
-Luke
-Luke
-160293	Luke
-160296	Luke
-160298	Luke
-160302	Luke
-160304	Luke
-160306	Luke
-160311	Luke
-160313	Luke
-160315	Luke
-160317	Luke
-160319	Luke
-Luke
-160322	Luke
-160324	Luke
-160327	Luke
-Luke
-160330	Luke
-160333	Luke
-160335	Luke
-Luke
-160339	Luke
-160341	Luke
-Luke
-160344	Luke
-160347	Luke
-160350	Luke
-160354	Luke
-160356	Luke
-160358	Luke
-160361	Luke
-Luke
-160364	Luke
-Luke
-160369	Luke
-160372	Luke
-160374	Luke
-Luke
-160378	Luke
-160380	Luke
-160382	Luke
-160384	Luke
-160386	Luke
-Luke
-160389	Luke
-160392	Luke
-160394	Luke
-Luke
-160397	Luke
-160399	Luke
-160401	Luke
-Luke
-160404	Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-160411	Luke
-160413	Luke
-Luke
-160416	Luke
-Luke
-Luke
-Luke
-Luke
-160424	Luke
-Luke
-160427	Luke
-160429	Luke
-160432	Luke
-Luke
-160435	Luke
-160437	Luke
-Luke
-Luke
-160441	Luke
-160443	Luke
-160445	Luke
-Luke
-160448	Luke
-Luke
-Luke
-160452	Luke
-160454	Luke
-160456	Luke
-Luke
-Luke
-160461	Luke
-Luke
-Luke
-160465	Luke
-Luke
-160468	Luke
-160471	Luke
-Luke
-160474	Luke
-160476	Luke
-Luke
-160480	Luke
-160483	Luke
-160485	Luke
-160487	Luke
-160491	Luke
-160493	Luke
-160495	Luke
-160497	Luke
-160499	Luke
-Luke
-160503	Luke
-160505	Luke
-Luke
-160508	Luke
-160511	Luke
-Luke
-160514	Luke
-160516	Luke
-160518	Luke
-160520	Luke
-160523	Luke
-160526	Luke
-160528	Luke
-160530	Luke
-160532	Luke
-160534	Luke
-160537	Luke
-160540	Luke
-160542	Luke
-160544	Luke
-160546	Luke
-160548	Luke
-160550	Luke
-160552	Luke
-160555	Luke
-160557	Luke
-160559	Luke
-160563	Luke
-Luke
-160569	Luke
-160572	Luke
-160574	Luke
-160576	Luke
-160578	Luke
-160580	Luke
-Luke
-160583	Luke
-Luke
-160586	Luke
-160590	Luke
-160592	Luke
-160595	Luke
-160597	Luke
-Luke
-160600	Luke
-160603	Luke
-160608	Luke
-160610	Luke
-Luke
-160613	Luke
-160616	Luke
-160618	Luke
-Luke
-160622	Luke
-160624	Luke
-160626	Luke
-160628	Luke
-160630	Luke
-Luke
-160634	Luke
-160637	Luke
-160639	Luke
-160641	Luke
-160644	Luke
-Luke
-160647	Luke
-Luke
-160650	Luke
-160652	Luke
-Luke
-Luke
-Luke
-160658	Luke
-160660	Luke
-Luke
-Luke
-160666	Luke
-Luke
-160670	Luke
-Luke
-160673	Luke
-Luke
-160676	Luke
-Luke
-160680	Luke
-Luke
-160684	Luke
-Luke
-Luke
-Luke
-160689	Luke
-160691	Luke
-Luke
-Luke
-160695	Luke
-Luke
-Luke
-Luke
-Luke
-160702	Luke
-160705	Luke
-160707	Luke
-Luke
-160710	Luke
-Luke
-160714	Luke
-Luke
-160717	Luke
-160719	Luke
-160722	Luke
-160725	Luke
-160727	Luke
-Luke
-Luke
-160731	Luke
-Luke
-160734	Luke
-Luke
-160741	Luke
-Luke
-160746	Luke
-Luke
-160749	Luke
-160754	Luke
-Luke
-160757	Luke
-160759	Luke
-160761	Luke
-160763	Luke
-160765	Luke
-160767	Luke
-160769	Luke
-Luke
-160772	Luke
-Luke
-160775	Luke
-Luke
-Luke
-160780	Luke
-Luke
-Luke
-160784	Luke
-Luke
-160789	Luke
-Luke
-Luke
-160793	Luke
-160795	Luke
-160797	Luke
-Luke
-160800	Luke
-160802	Luke
-Luke
-160806	Luke
-Luke
-160810	Luke
-160812	Luke
-160814	Luke
-160816	Luke
-160818	Luke
-Luke
-160822	Luke
-160825	Luke
-Luke
-160828	Luke
-Luke
-Luke
-Luke
-Luke
-160834	Luke
-160836	Luke
-Luke
-160841	Luke
-160843	Luke
-160848	Luke
-Luke
-160852	Luke
-Luke
-160855	Luke
-160858	Luke
-Luke
-160863	Luke
-Luke
-160866	Luke
-160868	Luke
-160870	Luke
-160872	Luke
-Luke
-160875	Luke
-160877	Luke
-Luke
-160880	Luke
-160882	Luke
-Luke
-160885	Luke
-Luke
-Luke
-Luke
-160890	Luke
-160892	Luke
-Luke
-160895	Luke
-Luke
-160899	Luke
-Luke
-Luke
-160903	Luke
-Luke
-Luke
-160907	Luke
-160910	Luke
-160912	Luke
-Luke
-160915	Luke
-Luke
-Luke
-160920	Luke
-Luke
-160923	Luke
-160925	Luke
-Luke
-160928	Luke
-Luke
-160932	Luke
-Luke
-160936	Luke
-Luke
-160939	Luke
-160941	Luke
-Luke
-Luke
-160945	Luke
-160947	Luke
-160949	Luke
-160952	Luke
-160954	Luke
-160956	Luke
-160958	Luke
-Luke
-160962	Luke
-160967	Luke
-Luke
-160970	Luke
-Luke
-160976	Luke
-160978	Luke
-160980	Luke
-Luke
-Luke
-Luke
-160986	Luke
-160988	Luke
-160990	Luke
-160992	Luke
-Luke
-160995	Luke
-Luke
-160998	Luke
-161000	Luke
-Luke
-161003	Luke
-161006	Luke
-Luke
-Luke
-161010	Luke
-Luke
-161013	Luke
-Luke
-161016	Luke
-161020	Luke
-Luke
-161023	Luke
-Luke
-161027	Luke
-Luke
-Luke
-161031	Luke
-161033	Luke
-Luke
-161037	Luke
-161040	Luke
-161043	Luke
-161045	Luke
-161047	Luke
-161049	Luke
-Luke
-161052	Luke
-Luke
-161055	Luke
-161059	Luke
-161063	Luke
-Luke
-Luke
-161070	Luke
-161072	Luke
-161074	Luke
-161076	Luke
-Luke
-161081	Luke
-161084	Luke
-Luke
-161087	Luke
-Luke
-161091	Luke
-Luke
-161094	Luke
-161096	Luke
-161098	Luke
-Luke
-161103	Luke
-161106	Luke
-Luke
-161113	Luke
-161115	Luke
-161117	Luke
-161119	Luke
-161121	Luke
-Luke
-161124	Luke
-Luke
-161127	Luke
-Luke
-161130	Luke
-Luke
-161133	Luke
-161135	Luke
-161137	Luke
-161140	Luke
-Luke
-161143	Luke
-161145	Luke
-161148	Luke
-Luke
-161151	Luke
-Luke
-161154	Luke
-Luke
-161158	Luke
-Luke
-161163	Luke
-Luke
-Luke
-161167	Luke
-161169	Luke
-161174	Luke
-161176	Luke
-Luke
-161179	Luke
-161181	Luke
-161184	Luke
-161186	Luke
-161189	Luke
-Luke
-161193	Luke
-161197	Luke
-Luke
-161200	Luke
-161202	Luke
-Luke
-Luke
-161207	Luke
-Luke
-161210	Luke
-Luke
-161213	Luke
-Luke
-Luke
-161217	Luke
-Luke
-Luke
-161221	Luke
-Luke
-161224	Luke
-161229	Luke
-Luke
-161232	Luke
-161236	Luke
-Luke
-161241	Luke
-161245	Luke
-Luke
-Luke
-161250	Luke
-Luke
-161253	Luke
-161255	Luke
-161258	Luke
-161260	Luke
-161263	Luke
-Luke
-161266	Luke
-161270	Luke
-161272	Luke
-Luke
-161278	Luke
-161280	Luke
-Luke
-161283	Luke
-161286	Luke
-Luke
-161289	Luke
-Luke
-161294	Luke
-161296	Luke
-161298	Luke
-Luke
-161303	Luke
-161305	Luke
-Luke
-Luke
-161309	Luke
-161311	Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-161319	Luke
-161321	Luke
-161323	Luke
-161325	Luke
-161328	Luke
-161330	Luke
-Luke
-161335	Luke
-161342	Luke
-161345	Luke
-161347	Luke
-161350	Luke
-Luke
-161353	Luke
-Luke
-Luke
-161357	Luke
-Luke
-161360	Luke
-161362	Luke
-Luke
-161365	Luke
-Luke
-161368	Luke
-161370	Luke
-161373	Luke
-161376	Luke
-161378	Luke
-161381	Luke
-Luke
-161384	Luke
-161386	Luke
-161388	Luke
-Luke
-161391	Luke
-Luke
-161394	Luke
-161396	Luke
-Luke
-Luke
-161400	Luke
-161402	Luke
-161404	Luke
-161406	Luke
-Luke
-161409	Luke
-161413	Luke
-161421	Luke
-161425	Luke
-161427	Luke
-161429	Luke
-161431	Luke
-Luke
-161435	Luke
-Luke
-161438	Luke
-Luke
-161441	Luke
-161443	Luke
-Luke
-Luke
-Luke
-Luke
-161450	Luke
-161454	Luke
-161456	Luke
-161458	Luke
-161460	Luke
-161465	Luke
-Luke
-Luke
-161469	Luke
-161471	Luke
-161473	Luke
-Luke
-161479	Luke
-161481	Luke
-161483	Luke
-Luke
-161486	Luke
-Luke
-161489	Luke
-161492	Luke
-161494	Luke
-161496	Luke
-161498	Luke
-161501	Luke
-161503	Luke
-161505	Luke
-Luke
-161508	Luke
-Luke
-161512	Luke
-161514	Luke
-161516	Luke
-161518	Luke
-161521	Luke
-161524	Luke
-161526	Luke
-161529	Luke
-Luke
-161532	Luke
-Luke
-161536	Luke
-161539	Luke
-161541	Luke
-161543	Luke
-161547	Luke
-161549	Luke
-Luke
-Luke
-161553	Luke
-Luke
-161556	Luke
-161558	Luke
-161560	Luke
-Luke
-161563	Luke
-161565	Luke
-161567	Luke
-Luke
-161572	Luke
-Luke
-161575	Luke
-161577	Luke
-161581	Luke
-Luke
-161584	Luke
-Luke
-161591	Luke
-161593	Luke
-Luke
-Luke
-161597	Luke
-161599	Luke
-Luke
-161602	Luke
-Luke
-161605	Luke
-Luke
-161608	Luke
-Luke
-161611	Luke
-161616	Luke
-161618	Luke
-161620	Luke
-161622	Luke
-161625	Luke
-161627	Luke
-161629	Luke
-Luke
-Luke
-161633	Luke
-161635	Luke
-Luke
-161639	Luke
-161641	Luke
-Luke
-161644	Luke
-161646	Luke
-Luke
-161649	Luke
-161652	Luke
-Luke
-161655	Luke
-161657	John
-161659	John
+157799	Luke
+157801	Luke
+Luke
+157804	Luke
+157806	Luke
+Luke
+157810	Luke
+157812	Luke
+Luke
+157815	Luke
+157817	Luke
+Luke
+157820	Luke
+John
+157823	John
+157825	John
+John
+John
+157829	John
+John
+John
+157833	John
+157835	John
+157837	John
+John
+John
+John
+John
+157843	John
+157845	John
+John
+157848	John
+John
+John
+John
+157853	John
+157855	John
+John
+157858	John
+157860	John
+John
+John
+157864	John
+John
+157869	John
+157871	John
+157873	John
+157875	John
+157877	John
+John
+John
+John
+John
+John
+157884	John
+157886	John
+157888	John
+157890	John
+John
+157893	John
+John
+157897	John
+157899	John
+157901	John
+157904	John
+John
+157907	John
+157909	John
+157911	John
+157913	John
+157915	John
+157917	John
+John
+157920	John
+John
+John
+157924	John
+John
+157927	John
+John
+157930	John
+157932	John
+John
+John
+John
+John
+John
+157939	John
+157941	John
+John
+157944	John
+157946	John
+157948	John
+157950	John
+157953	John
+John
+John
+John
+John
+157959	John
+John
+John
+John
+John
+John
+John
+John
+157968	John
+John
+John
+157972	John
+John
+John
+John
+John
+John
+John
+John
+157982	John
+John
+John
+157986	John
+John
+157989	John
+John
+157992	John
+John
+157998	John
+John
+158001	John
+John
+158004	John
+158006	John
+John
+158009	John
+158011	John
+John
+158015	John
+John
+John
+John
+John
+158021	John
+John
+158024	John
+158026	John
+John
+158029	John
+John
+John
+158033	John
+John
+158036	John
+John
+158039	John
+John
+158042	John
+158044	John
+158046	John
+John
+158049	John
+John
+John
+158054	John
+158056	John
+John
+158059	John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+158071	John
+158073	John
+John
+158076	John
+158078	John
+158080	John
+John
+John
+158084	John
+158086	John
+158088	John
+John
+John
+John
+John
+158094	John
+John
+John
+158098	John
+John
+John
+John
+John
+John
+158105	John
+John
+158108	John
+John
+John
+158113	John
+John
+John
+158117	John
+158119	John
+158121	John
+John
+John
+158125	John
+158128	John
+John
+John
+158132	John
+158135	John
+158137	John
+158139	John
+158142	John
+John
+John
+158146	John
+John
+158150	John
+John
+John
+158154	John
+158156	John
+John
+John
+John
+158161	John
+158163	John
+John
+158166	John
+158168	John
+158171	John
+John
+158174	John
+John
+158177	John
+158179	John
+John
+158182	John
+John
+158187	John
+John
+John
+158191	John
+158193	John
+John
+158199	John
+158201	John
+158203	John
+158205	John
+John
+158208	John
+158213	John
+John
+John
+158219	John
+158221	John
+158223	John
+158225	John
+John
+John
+John
+John
+John
+John
+158233	John
+158235	John
+John
+158238	John
+John
+158241	John
+John
+158244	John
+158246	John
+John
+158250	John
+158252	John
+158255	John
+John
+John
+John
+158260	John
+158262	John
+158265	John
+John
+John
+John
+158270	John
+158272	John
+158275	John
+John
+John
+158279	John
+John
+158282	John
+John
+John
+158286	John
+158289	John
+158291	John
+158293	John
+John
+John
+158297	John
+John
+158300	John
+158303	John
+158305	John
+John
+John
+John
+John
+John
+John
+158313	John
+John
+158316	John
+John
+158320	John
+158322	John
+158324	John
+John
+John
+158328	John
+158330	John
+158332	John
+John
+158335	John
+John
+John
+John
+John
+158341	John
+158343	John
+John
+158346	John
+John
+158349	John
+John
+158352	John
+John
+John
+John
+158357	John
+John
+158360	John
+158363	John
+158367	John
+John
+158370	John
+John
+158373	John
+158375	John
+158377	John
+John
+158380	John
+158382	John
+158384	John
+158386	John
+158389	John
+John
+John
+158393	John
+158395	John
+158397	John
+158399	John
+158401	John
+158403	John
+158405	John
+158407	John
+158409	John
+158411	John
+John
+158414	John
+John
+158417	John
+158419	John
+158421	John
+158423	John
+158425	John
+158427	John
+158429	John
+158431	John
+158433	John
+158435	John
+158437	John
+158439	John
+158441	John
+158443	John
+158445	John
+John
+158449	John
+158451	John
+158453	John
+158455	John
+158457	John
+158459	John
+158461	John
+158463	John
+158465	John
+158467	John
+158471	John
+John
+John
+158475	John
+John
+158478	John
+John
+John
+158482	John
+John
+158485	John
+John
+158489	John
+John
+158492	John
+158494	John
+158497	John
+158499	John
+158501	John
+John
+158504	John
+158506	John
+John
+158509	John
+John
+158512	John
+158514	John
+John
+158517	John
+158519	John
+John
+158523	John
+John
+158526	John
+158528	John
+158530	John
+John
+John
+John
+John
+158536	John
+John
+158539	John
+158541	John
+158543	John
+158545	John
+158548	John
+John
+John
+158553	John
+158556	John
+158558	John
+158560	John
+John
+158563	John
+158565	John
+John
+158568	John
+John
+John
+158572	John
+158574	John
+John
+John
+John
+John
+John
+John
+John
+158583	John
+158585	John
+158587	John
+John
+John
+John
+John
+158593	John
+John
+158596	John
+158598	John
+158600	John
+158602	John
+John
+John
+158606	John
+158609	John
+John
+John
+158614	John
+158616	John
+158618	John
+158620	John
+158622	John
+158624	John
+158626	John
+158628	John
+158630	John
+158632	John
+John
+158635	John
+158638	John
+158640	John
+John
+158643	John
+John
+John
+John
+158650	John
+158652	John
+John
+John
+John
+John
+158658	John
+John
+158661	John
+John
+John
+John
+158666	John
+158668	John
+158670	John
+John
+John
+John
+158676	John
+158678	John
+John
+158681	John
+158683	John
+John
+John
+John
+158690	John
+158692	John
+158695	John
+John
+John
+John
+158700	John
+158703	John
+158705	John
+158707	John
+158710	John
+158712	John
+John
+158715	John
+John
+158718	John
+158720	John
+John
+158723	John
+158725	John
+158727	John
+John
+John
+John
+158732	John
+158734	John
+158736	John
+158738	John
+158740	John
+John
+158743	John
+158745	John
+158747	John
+158749	John
+John
+John
+John
+John
+158755	John
+John
+158758	John
+John
+John
+John
+158764	John
+John
+John
+John
+158769	John
+158771	John
+John
+John
+John
+158776	John
+158778	John
+158780	John
+158782	John
+158784	John
+158786	John
+John
+John
+158790	John
+158792	John
+158794	John
+158796	John
+158798	John
+158800	John
+158802	John
+158805	John
+158807	John
+158809	John
+158811	John
+158813	John
+158815	John
+John
+John
+John
+John
+158821	John
+158823	John
+John
+158826	John
+John
+158830	John
+John
+John
+158834	John
+158836	John
+158838	John
+158840	John
+158842	John
+158844	John
+158846	John
+158848	John
+158850	John
+158852	John
+158854	John
+158856	John
+John
+John
+158860	John
+158862	John
+John
+158865	John
+John
+John
+John
+158870	John
+158872	John
+158874	John
+158876	John
+158878	John
+John
+158881	John
+158883	John
+158885	John
+John
+John
+158890	John
+John
+John
+John
+John
+John
+158897	John
+158899	John
+John
+John
+158903	John
+158905	John
+John
+158908	John
+158910	John
+158912	John
+158914	John
+John
+John
+158918	John
+158921	John
+John
+John
+158925	John
+158927	John
+158929	John
+John
+John
+158933	John
+John
+158936	John
+158938	John
+158940	John
+John
+John
+158944	John
+John
+158947	John
+John
+John
+158951	John
+158953	John
+John
+John
+John
+158958	John
+158961	John
+158963	John
+158965	John
+158967	John
+John
+John
+John
+John
+158973	John
+158975	John
+158977	John
+158979	John
+158981	John
+158983	John
+158985	John
+John
+158988	John
+John
+158991	John
+John
+158995	John
+John
+158998	John
+John
+John
+159002	John
+John
+159005	John
+159007	John
+159009	John
+John
+159012	John
+John
+John
+159016	John
+John
+John
+159020	John
+John
+159023	John
+159025	John
+159027	John
+159029	John
+159031	John
+159033	John
+John
+John
+159037	John
+John
+159040	John
+John
+John
+159044	John
+159046	John
+159049	John
+John
+John
+159053	John
+John
+159056	John
+159058	John
+159060	John
+159062	John
+John
+159065	John
+159067	John
+159070	John
+159072	John
+John
+John
+159077	John
+John
+159080	John
+159082	John
+John
+159085	John
+159087	John
+159090	John
+159092	John
+159095	John
+159097	John
+159099	John
+159101	John
+159103	John
+159106	John
+159108	John
+159110	John
+159112	John
+159114	John
+159116	John
+159118	John
+159120	John
+John
+159123	John
+John
+159126	John
+John
+159129	John
+159131	John
+159133	John
+John
+159136	John
+John
+159139	John
+John
+John
+John
+159144	John
+159146	John
+159148	John
+John
+159151	John
+159153	John
+John
+John
+159157	John
+159159	John
+159161	John
+John
+John
+159165	John
+159167	John
+159169	John
+159171	John
+John
+159175	John
+159177	John
+159179	John
+John
+159182	John
+159184	John
+John
+John
+John
+John
+John
+John
+159192	John
+159194	John
+159196	John
+159198	John
+159200	John
+John
+159203	John
+John
+John
+159207	John
+John
+159210	John
+159212	John
+159214	John
+John
+159217	John
+John
+159220	John
+159222	John
+John
+159225	John
+159227	John
+John
+John
+John
+John
+159233	John
+John
+159236	John
+John
+159239	John
+John
+159243	John
+159245	John
+159247	John
+159250	John
+John
+John
+159254	John
+159256	John
+John
+159259	John
+159261	John
+159263	John
+159265	John
+159267	John
+John
+159270	John
+159272	John
+John
+159275	John
+159277	John
+John
+159280	John
+John
+John
+John
+John
+159286	John
+John
+John
+John
+159292	John
+John
+John
+John
+159297	John
+159299	John
+John
+159302	John
+159304	John
+John
+159307	John
+John
+John
+159312	John
+John
+John
+John
+159317	John
+159319	John
+John
+159322	John
+John
+159325	John
+159327	John
+John
+John
+159331	John
+159333	John
+159335	John
+John
+159338	John
+John
+159341	John
+159343	John
+159347	John
+John
+159350	John
+John
+159353	John
+159355	John
+159357	John
+John
+159360	John
+John
+159363	John
+159365	John
+159367	John
+159369	John
+John
+John
+159373	John
+John
+159376	John
+John
+John
+159380	John
+159382	John
+159384	John
+159387	John
+John
+159390	John
+159392	John
+John
+159397	John
+159399	John
+159401	John
+John
+159404	John
+John
+159407	John
+John
+John
+159411	John
+159413	John
+159416	John
+John
+159419	John
+159421	John
+159423	John
+John
+159426	John
+159428	John
+John
+159431	John
+159433	John
+John
+159436	John
+John
+159439	John
+John
+John
+John
+John
+159445	John
+159447	John
+159449	John
+159451	John
+John
+John
+159455	John
+John
+John
+159459	John
+159462	John
+John
+John
+159466	John
+159469	John
+159471	John
+159473	John
+John
+159476	John
+John
+John
+159480	John
+159482	John
+159484	John
+159486	John
+159489	John
+159491	John
+159494	John
+John
+159497	John
+159499	John
+John
+159502	John
+John
+159505	John
+159507	John
+159509	John
+159513	John
+John
+159516	John
+159518	John
+159520	John
+159523	John
+159525	John
+159527	John
+159529	John
+159531	John
+John
+159534	John
+159536	John
+159538	John
+John
+159541	John
+159543	John
+John
+159546	John
+John
+John
+John
+159551	John
+159553	John
+John
+John
+159557	John
+John
+159561	John
+159563	John
+159566	John
+159569	John
+159572	John
+159575	John
+John
+159578	John
+John
+John
+159582	John
+John
+159585	John
+159587	John
+159589	John
+John
+159592	John
+159594	John
+John
+159597	John
+159599	John
+John
+159602	John
+John
+John
+John
+John
+159608	John
+159611	John
+159614	John
+159616	John
+John
+John
+159621	John
+159623	John
+John
+159626	John
+159628	John
+John
+159632	John
+159634	John
+John
+159638	John
+John
+John
+159643	John
+John
+159646	John
+159649	John
+159651	John
+John
+159654	John
+John
+John
+159658	John
+John
+John
+John
+John
+159664	John
+John
+159667	John
+John
+159671	John
+John
+John
+John
+159676	John
+John
+159679	John
+John
+159682	John
+159684	John
+John
+159687	John
+John
+159690	John
+159692	John
+159694	John
+159696	John
+John
+159699	John
+John
+159702	John
+John
+159705	John
+159707	John
+159709	John
+John
+John
+159714	John
+John
+159717	John
+159719	John
+159721	John
+John
+159724	John
+159726	John
+159728	John
+159730	John
+John
+John
+159735	John
+159737	John
+John
+159740	John
+John
+159743	John
+159745	John
+John
+159748	John
+159750	John
+John
+159753	John
+159755	John
+John
+159758	John
+John
+159761	John
+159763	John
+John
+159766	John
+John
+John
+159770	John
+159772	John
+159774	John
+John
+John
+159778	John
+159780	John
+John
+159784	John
+John
+159787	John
+159789	John
+John
+159792	John
+159794	John
+159796	John
+159798	John
+John
+159801	John
+159803	John
+159805	John
+John
+159808	John
+159810	John
+John
+John
+John
+159815	John
+159817	John
+John
+159820	John
+159822	John
+159824	John
+John
+John
+John
+159829	John
+John
+159832	John
+159837	John
+159839	John
+John
+159842	John
+159844	John
+159846	John
+John
+John
+John
+John
+John
+John
+John
+159855	John
+John
+159858	John
+John
+159861	John
+John
+159864	John
+159866	John
+159868	John
+John
+159871	John
+John
+John
+159875	John
+159877	John
+John
+John
+159881	John
+John
+159884	John
+John
+159887	John
+159889	John
+John
+159895	John
+John
+John
+159899	John
+John
+159902	John
+John
+159905	John
+John
+159908	John
+159910	John
+159912	John
+John
+John
+159916	John
+John
+159919	John
+John
+159922	John
+159924	John
+159926	John
+159928	John
+159932	John
+159934	John
+John
+John
+John
+159939	John
+159942	John
+159944	John
+John
+159947	John
+159949	John
+John
+159952	John
+159954	John
+John
+John
+159958	John
+John
+John
+159962	John
+159964	John
+John
+159967	John
+John
+John
+John
+John
+159973	John
+159975	John
+John
+John
+159979	John
+159981	John
+John
+159984	John
+John
+159987	John
+159991	John
+159993	John
+John
+John
+159997	John
+John
+John
+160001	John
+160003	John
+160005	John
+160007	John
+John
+John
+John
+John
+160013	John
+160016	John
+160018	John
+160020	John
+160022	John
+160024	John
+160026	John
+John
+160029	John
+160031	John
+160034	John
+John
+John
+John
+160039	John
+160041	John
+160043	John
+160045	John
+160047	John
+160049	John
+160051	John
+John
+160054	John
+John
+160057	John
+160059	John
+160061	John
+John
+John
+160065	John
+160067	John
+John
+160070	John
+160072	John
+160074	John
+160076	John
+160078	John
+160080	John
+160082	John
+John
+160085	John
+160087	John
+160089	John
+John
+John
+160093	John
+160095	John
+John
+160098	John
+160100	John
+John
+160103	John
+John
+160106	John
+John
+160110	John
+John
+John
+John
+John
+160116	John
+John
+160119	John
+John
+160122	John
+John
+160125	John
+160127	John
+160129	John
+John
+160132	John
+160135	John
+John
+160138	John
+John
+160142	John
+John
+John
+160146	John
+160148	John
+John
+John
+John
+160153	John
+160155	John
+160157	John
+John
+John
+John
+160162	John
+160164	John
+John
+160167	John
+John
+160170	John
+160172	John
+John
+160175	John
+John
+John
+160180	John
+John
+160183	John
+160185	John
+160188	John
+160190	John
+160192	John
+John
+160195	John
+160197	John
+John
+160200	John
+John
+John
+160204	John
+160206	John
+160208	John
+160210	John
+John
+John
+160214	John
+160216	John
+160218	John
+John
+160221	John
+160223	John
+John
+John
+John
+160228	John
+160230	John
+160232	John
+John
+John
+John
+160237	John
+John
+John
+John
+John
+160243	John
+160245	John
+160248	John
+160250	John
+John
+160253	John
+John
+John
+John
+John
+John
+John
+160262	John
+John
+160265	John
+John
+John
+160269	John
+160271	John
+160273	John
+John
+160276	John
+160278	John
+160281	John
+John
+160284	John
+160286	John
+John
+160289	John
+John
+John
+160293	John
+John
+160296	John
+John
+160299	John
+160301	John
+John
+John
+160305	John
+John
+160308	John
+John
+160312	John
+160314	John
+160316	John
+160318	John
+John
+160321	John
+160323	John
+John
+160326	John
+160328	John
+John
+160331	John
+John
+John
+160335	John
+John
+John
+160339	John
+John
+John
+160343	John
+John
+160346	John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+160358	John
+John
+160362	John
+160364	John
+John
+John
+John
+160369	John
+John
+John
+160373	John
+John
+John
+160377	John
+160379	John
+160381	John
+John
+160384	John
+160386	John
+160391	John
+John
+John
+160395	John
+John
+John
+160399	John
+John
+160402	John
+John
+160405	John
+160407	John
+160409	John
+160411	John
+John
+John
+160415	John
+160417	John
+160419	John
+John
+160423	John
+160425	John
+160428	John
+160430	John
+John
+John
+John
+160435	John
+John
+160438	John
+160440	John
+160442	John
+John
+160445	John
+John
+160448	John
+John
+John
+160452	John
+John
+John
+John
+160457	John
+John
+John
+160461	John
+160463	John
+160465	John
+160467	John
+John
+160470	John
+160472	John
+John
+160475	John
+160477	John
+160479	John
+160481	John
+John
+160484	John
+John
+160488	John
+John
+160491	John
+160493	John
+160495	John
+160497	John
+160499	John
+160501	John
+John
+160504	John
+John
+160508	John
+John
+160512	John
+John
+160515	John
+160517	John
+160520	John
+John
+John
+160524	John
+160526	John
+John
+160529	John
+John
+John
+160533	John
+John
+John
+160537	John
+160539	John
+160541	John
+John
+John
+John
+John
+160547	John
+160549	John
+160551	John
+John
+160554	John
+160557	John
+John
+John
+160561	John
+160564	John
+160566	John
+John
+160569	John
+John
+John
+160573	John
+John
+160576	John
+160578	John
+160580	John
+John
+John
+160584	John
+160586	John
+160588	John
+160590	John
+160592	John
+160594	John
+John
+160597	John
+160599	John
+John
+John
+John
+John
+160605	John
+160607	John
+160609	John
+160611	John
+John
+160614	John
+John
+160617	John
+160619	John
+160621	John
+John
+160624	John
+John
+John
+John
+160629	John
+160631	John
+John
+160634	John
+160636	John
+160638	John
+160640	John
+160642	John
+160644	John
+160646	John
+160648	John
+160650	John
+John
+John
+John
+John
+John
+160657	John
+160659	John
+160661	John
+John
+160664	John
+160667	John
+160669	John
+John
+160672	John
+John
+John
+John
+John
+John
+160679	John
+160681	John
+160684	John
+John
+John
+160688	John
+John
+160691	John
+John
+160694	John
+John
+John
+160698	John
+160700	John
+160702	John
+John
+John
+160706	John
+John
+160709	John
+John
+John
+John
+John
+160715	John
+John
+John
+160719	John
+John
+160722	John
+160724	John
+John
+160727	John
+John
+160730	John
+160732	John
+John
+John
+160736	John
+160738	John
+John
+John
+John
+160743	John
+John
+160746	John
+160749	John
+160751	John
+John
+John
+160755	John
+John
+John
+160759	John
+John
+John
+160763	John
+John
+160766	John
+160768	John
+John
+160771	John
+160773	John
+John
+John
+John
+160778	John
+160780	John
+160783	John
+John
+160786	John
+160788	John
+160790	John
+160792	John
+John
+160796	John
+160798	John
+John
+160801	John
+160803	John
+160805	John
+160807	John
+John
+160810	John
+160812	John
+160814	John
+John
+160817	John
+160819	John
+160821	John
+160823	John
+John
+160827	John
+160832	John
+John
+John
+160836	John
+160838	John
+160840	John
+John
+160843	John
+160845	John
+160847	John
+160849	John
+John
+160852	John
+160854	John
+160856	John
+160858	John
+160860	John
+John
+160863	John
+John
+John
+160867	John
+160870	John
+160872	John
+160875	John
+John
+160878	John
+160880	John
+John
+John
+160884	John
+160886	John
+160888	John
+160890	John
+John
+160895	John
+160897	John
+160899	John
+John
+160902	John
+160904	John
+John
+John
+160910	John
+160912	John
+John
+John
+160916	John
+160918	John
+160920	John
+160922	John
+John
+160925	John
+John
+160929	John
+160931	John
+160933	John
+John
+160936	John
+160938	John
+John
+John
+John
+160943	John
+160945	John
+John
+160948	John
+160950	John
+John
+160953	John
+John
+John
+160957	John
+John
+John
+John
+160962	John
+John
+160965	John
+John
+John
+John
+John
+160971	John
+John
+John
+John
+160976	John
+160978	John
+160980	John
+John
+160983	John
+John
+John
+John
+160988	John
+160990	John
+160992	John
+160994	John
+160996	John
+John
+John
+161000	John
+John
+161003	John
+161005	John
+John
+161008	John
+161010	John
+John
+John
+161014	John
+161016	John
+John
+John
+John
+John
+John
+161023	John
+161026	John
+John
+John
+161030	John
+161032	John
+John
+161036	John
+John
+161039	John
+John
+John
+John
+161044	John
+161046	John
+John
+John
+John
+161051	John
+John
+161055	John
+161057	John
+John
+161061	John
+161063	John
+161065	John
+John
+161068	John
+John
+161071	John
+161073	John
+John
+161076	John
+161078	John
+161080	John
+161083	John
+161085	John
+John
+161088	John
+161090	John
+John
+161094	John
+161097	John
+161099	John
+John
+161102	John
+John
+161106	John
+161108	John
+John
+John
+161112	John
+161114	John
+161116	John
+161121	John
+161123	John
+161125	John
+John
+John
+John
+John
+161132	John
+John
+161135	John
+John
+161138	John
+161141	John
+161143	John
+161147	John
+161149	John
+John
+161152	John
+John
+161155	John
+161157	John
+161159	John
+161163	John
+161165	John
+161167	John
+161169	John
+161171	John
+John
+161175	John
+161177	John
+161179	John
+161181	John
+161183	John
+161185	John
+John
+161188	John
+161190	John
+John
+John
+161194	John
+161196	John
+161199	John
+161201	John
+161203	John
+161205	John
+161207	John
+161209	John
+161213	John
+161215	John
+John
+161218	John
+161220	John
+John
+John
+John
+John
+161226	John
+John
+John
+161230	John
+161232	John
+161234	John
+161236	John
+161239	John
+161241	John
+John
+John
+John
+161246	John
+161248	John
+161250	John
+161252	John
+John
+161255	John
+John
+John
+161259	John
+161261	John
+161263	John
+161265	John
+161267	John
+John
+John
+161271	John
+161274	John
+161276	John
+John
+161279	John
+161281	John
+John
+161284	John
+161286	John
+161288	John
+161290	John
+John
+John
+John
+161297	John
+John
+161303	John
+John
+161306	John
+John
+John
+161310	John
+161312	John
+John
+John
+161317	John
+161319	John
+John
+161322	John
+John
+161325	John
+161327	John
+161329	John
+John
+161332	John
+161334	John
+John
+161337	John
+161339	John
+John
+John
+John
+161344	John
+161347	John
+161349	John
+John
+161352	John
+161355	John
+John
+161358	John
+161360	John
+161362	John
+161365	John
+161367	John
+161369	John
+161371	John
+161373	John
+161375	John
+161377	John
+161379	John
+161381	John
+John
+John
+161385	John
+161387	John
+John
+161391	John
+John
+John
+161395	John
+John
+161398	John
+161401	John
+161403	John
+John
+161406	John
+161408	John
+John
+161411	John
+161414	John
+John
+161417	John
+161419	John
+John
+161422	John
+161424	John
+161428	John
+John
+John
+161432	John
+161434	John
+161436	John
+161438	John
+161440	John
+161442	John
+John
+161445	John
+John
+161448	John
+161450	John
+161452	John
+161454	John
+161456	John
+161458	John
+161460	John
+John
+John
+161464	John
+161466	John
+161468	John
+161470	John
+161472	John
+John
+John
+161476	John
+161478	John
+161482	John
+John
+John
+161486	John
+161488	John
+John
+John
+161492	John
+161494	John
+161496	John
+161498	John
+161500	John
+John
+161503	John
+161505	John
+161507	John
+161509	John
+John
+John
+161513	John
+161515	John
+161517	John
+161519	John
+161521	John
+John
+161524	John
+161526	John
+John
+161529	John
+161531	John
+161533	John
+161535	John
+161537	John
+161539	John
+161542	John
+John
+161545	John
+161547	John
+161549	John
+161551	John
+John
+161554	John
+John
+161557	John
+161559	John
+161561	John
+John
+161564	John
+161566	John
+161569	John
+John
+161572	John
+John
+161575	John
+John
+John
+161580	John
+John
+John
+John
+161585	John
+161587	John
+161589	John
+161591	John
+161593	John
+John
+161596	John
+John
+161599	John
+John
+161602	John
+John
+161605	John
+161608	John
+161610	John
+161612	John
+161614	John
+John
+John
+161618	John
+John
+161621	John
+John
+161625	John
+161627	John
+John
+John
+161631	John
+161634	John
+John
+161637	John
+John
+161640	John
+161642	John
+John
+161645	John
+161647	John
+161649	John
+John
+161652	John
+161654	John
+John
+John
+161658	John
+John
 161661	John
 John
-161664	John
-161666	John
-161668	John
-161670	John
-161672	John
+161665	John
+John
+161669	John
+161671	John
+161673	John
 161675	John
-161677	John
-161679	John
+161678	John
+161680	John
 John
 John
-161683	John
-161685	John
-161687	John
-161689	John
-161691	John
 John
-161694	John
-161696	John
-161698	John
+John
+161686	John
+John
+John
+John
+John
+John
+161693	John
+161695	John
+John
+John
+John
 161700	John
-161702	John
-161704	John
-161706	John
 John
-161710	John
-161712	John
+161703	John
+161705	John
+161707	John
 John
-161721	John
-161723	John
+John
+161711	John
+John
+161714	John
+161716	John
+161718	John
+161720	John
+161722	John
+John
 161725	John
-161730	John
-161732	John
+John
+161728	John
+John
+161731	John
+John
+161734	John
+John
+161737	John
 John
 John
-John
-John
-John
-161739	John
 161741	John
-161744	John
-161746	John
+161743	John
 John
-161751	John
 John
+161747	John
+John
+161750	John
+161753	John
 161755	John
 161757	John
-161760	John
-161764	John
+161759	John
 John
+161762	John
+161764	John
+161766	John
 161768	John
 161770	John
 161772	John
 161774	John
 161776	John
-161779	John
+161778	John
 John
-161782	John
-John
-John
-161786	John
-John
+161781	John
+161783	John
+161785	John
+161787	John
 161789	John
-161792	John
+161791	John
+John
 161794	John
 161796	John
+161799	John
+161801	John
 John
-John
-John
-John
-John
-161803	John
+161804	John
 161806	John
+161808	John
 John
-161810	John
 161812	John
 161814	John
 161816	John
+161818	John
 161820	John
 John
-161823	John
+161825	John
 John
-161826	John
-161829	John
+161828	John
+161830	John
+161832	John
+161834	John
 John
-John
-John
-John
-161835	John
 161837	John
 John
 161840	John
-161844	John
+John
+161843	John
+161845	John
 John
 161848	John
 John
+161851	John
 John
 John
-161853	John
+161855	John
+161858	John
+161860	John
+161862	John
+161864	John
 John
 John
-161857	John
-161861	John
+161868	John
 John
+161871	John
 John
-161865	John
-John
-161869	John
-John
-161872	John
 161874	John
-161878	John
 John
+John
+161878	John
+161880	John
 161882	John
 John
-161886	John
-161888	John
+161885	John
+John
+John
+John
 161890	John
-161892	John
-161894	John
-161896	John
-161900	John
 John
 John
-161904	John
+161895	John
 John
-161908	John
+161898	John
 John
+161901	John
+161903	John
+161905	John
+161907	John
+161909	John
 161911	John
 161913	John
-161915	John
-161917	John
 John
-John
+161916	John
+161919	John
 161921	John
+161923	John
 John
-161925	John
 John
-161928	John
-161930	John
-161932	John
+John
+John
+161931	John
+161933	John
 161936	John
 161938	John
 John
 161941	John
+161943	John
+161945	John
+161948	John
 John
-John
-161949	John
 161951	John
 161953	John
-161956	John
+161955	John
 John
-161959	John
-John
-John
+161958	John
 John
 John
-161965	John
+John
+161964	John
+John
 161967	John
-161969	John
 John
+161970	John
 161973	John
 161975	John
+161977	John
+161980	John
 John
-161978	John
 161983	John
 161985	John
-John
-John
+161987	John
 161989	John
 161991	John
+John
+John
 161995	John
-John
-John
-John
+161997	John
 162000	John
 162002	John
-162004	John
-John
-162007	John
-John
-162010	John
 John
 John
-162014	John
-162016	John
 John
-162019	John
 John
+John
+162009	John
+162011	John
+John
+John
+John
+John
+John
+John
+162020	John
 John
 162023	John
+162025	John
+162027	John
 John
-162026	John
-162028	John
-162031	John
-162033	John
+162030	John
+162032	John
+162034	John
 John
 John
-162037	John
-162040	John
+162038	John
 John
-162043	John
+162041	John
 162045	John
-162050	John
+162047	John
+John
+John
 162052	John
 162054	John
-162059	John
+John
+162057	John
+162060	John
 John
 John
-162063	John
-162065	John
-162069	John
+162064	John
+162067	John
 John
+162070	John
 John
-162074	John
+162073	John
 162076	John
+162078	John
 John
-162079	John
 John
-162082	John
+John
+John
 162084	John
-162086	John
-162088	John
-162090	John
-162095	John
+162087	John
+John
+John
+162091	John
+162093	John
+John
+John
 162097	John
-162100	John
 John
-162103	John
+John
+John
+162102	John
+John
+John
 162106	John
-162108	John
-162110	John
-162113	John
-162116	John
 John
-162120	John
-162122	John
-162124	John
-162126	John
+John
+John
+162112	John
+John
+John
+John
+John
+John
+John
+162121	John
+162123	John
+162125	John
+John
+162130	John
 162132	John
+John
 162135	John
 162137	John
+John
 162140	John
 John
-162144	John
-162152	John
+John
+162145	John
+John
+John
+John
+162151	John
+162153	John
+162156	John
 John
 John
 162160	John
-162162	John
+John
 162164	John
 162166	John
-162168	John
+John
+162169	John
+162171	John
+162173	John
+162175	John
 John
 John
 John
+162180	John
+162182	John
 John
 John
-162176	John
-162178	John
+162186	John
 John
-162181	John
-162183	John
-162185	John
-162187	John
-162189	John
-162191	John
-162193	John
-162197	John
+John
+162190	John
+162192	John
+162195	John
+John
 162199	John
 162203	John
-162205	John
 John
 John
+162207	John
 162209	John
-162213	John
-162217	John
+162212	John
+162215	John
 John
+162218	John
 John
 162221	John
-162224	John
+John
+John
 162226	John
-162230	John
+162228	John
+John
+John
 John
 John
 162234	John
 John
-162238	John
-162240	John
-162242	John
+162237	John
+162239	John
+John
+John
 162244	John
 162246	John
 162248	John
-162250	John
 John
-162253	John
-162255	John
-162257	John
-162259	John
+John
+162252	John
+162254	John
+John
+John
+162260	John
 162262	John
-162265	John
+162264	John
+162266	John
+162268	John
+John
+162271	John
 John
 John
-John
-162270	John
-John
-John
-162274	John
 162276	John
-162278	John
 John
-162282	John
-162285	John
-162288	John
 John
+John
+162281	John
+John
+162284	John
+162286	John
+John
+162289	John
 162291	John
 162293	John
-162295	John
-162297	John
+John
+162296	John
 162299	John
-162301	John
+John
+162302	John
 John
 John
-162305	John
 John
 162309	John
-162311	John
-162313	John
-162315	John
 John
-162318	John
-162320	John
+162312	John
+John
+John
+John
+John
+162319	John
+John
 162322	John
 John
 John
-162326	John
+John
+John
 162328	John
-162330	John
-162332	John
-162335	John
-162339	John
+162331	John
 John
-162342	John
+162334	John
+162336	John
+162338	John
+162340	John
+162343	John
 John
-162345	John
+John
+162347	John
 162349	John
-162351	John
-John
+162352	John
 162354	John
-162356	John
-162358	John
-162361	John
-162365	John
-162367	John
+162357	John
 John
-162370	John
-162372	John
-162375	John
-162378	John
-162381	John
+John
+John
+John
+162363	John
+John
+162366	John
+162368	John
+162371	John
+162373	John
+John
+John
+John
+John
+162380	John
+John
 162383	John
 162385	John
-162388	John
-162390	John
+John
+John
 162392	John
 John
 162395	John
 John
-162398	John
-162400	John
+162399	John
 162402	John
-162405	John
-162409	John
-162411	John
+162404	John
+162406	John
+162408	John
+162410	John
 162413	John
-162417	John
-162419	John
-162421	John
+162415	John
+John
+162418	John
+162420	John
+John
 162423	John
-162426	John
-162428	John
-162430	John
-162432	John
+162425	John
+162427	John
+John
+John
+162431	John
+John
 162434	John
+162436	John
+John
 162439	John
 162441	John
+John
 162444	John
 162446	John
+John
 162449	John
-162451	John
-162453	John
-162455	John
-162458	John
-162460	John
-162463	John
+John
+162452	John
 John
 John
-162467	John
-162469	John
-162471	John
-162473	John
+162456	John
 John
+162459	John
+162461	John
+John
+John
+John
+162466	John
+162468	John
+162470	John
+162472	John
+162474	John
 162476	John
 John
 162479	John
 162481	John
-162484	John
 John
+162484	John
 162487	John
-162489	John
+John
+162491	John
 162493	John
-162495	John
-162497	John
+John
+John
+John
+John
 John
 162500	John
 162502	John
@@ -150159,556 +152543,657 @@ John
 162507	John
 162509	John
 162511	John
+162513	John
 John
-162514	John
 162516	John
 John
-162521	John
+162519	John
 John
-162524	John
-162526	John
-162528	John
+162522	John
 John
-John
-John
-162533	John
-162535	John
-John
+162525	John
+162532	John
+162534	John
+162536	John
 162538	John
-162541	John
+John
+John
+John
 162543	John
 162545	John
-162549	John
+John
+162548	John
+John
+162551	John
 John
 John
-162553	John
-162557	John
+162555	John
+John
+162558	John
 162560	John
 162562	John
 162564	John
-162566	John
-162568	John
+162567	John
 John
-162571	John
 John
+John
+162572	John
 162574	John
-162577	John
-162579	John
+162576	John
+162578	John
+162580	John
 John
+162584	John
 John
+162587	John
 John
-John
-John
-John
-John
-162588	John
 162590	John
-162593	John
-162595	John
-John
+162592	John
+162594	John
+162596	John
 162598	John
+162600	John
 John
-162601	John
-162603	John
 162605	John
-162608	John
+162607	John
+162609	John
 162611	John
 162613	John
+162615	John
+162617	John
 John
 John
-162618	John
 162621	John
 John
+162625	John
 John
-162626	John
 162628	John
-162630	John
-162633	John
-162635	John
-162638	John
-162641	John
-162643	John
-162647	John
+John
+John
+162632	John
+162634	John
+John
+162637	John
+162639	John
+John
+John
+John
+162644	John
+162646	John
+John
 162649	John
 162651	John
 162653	John
-162656	John
-162658	John
+162655	John
+John
+John
+John
 162660	John
 162662	John
 162664	John
+162667	John
+162669	John
 John
 John
-162670	John
-162672	John
+John
 John
 John
 162676	John
-162678	John
-162680	John
-162682	John
-162684	John
+John
+162679	John
 John
 John
+John
+John
+162685	John
+162687	John
 162689	John
-162691	John
+162692	John
 162694	John
 162696	John
-John
-John
+162698	John
 John
 162701	John
-162703	John
-162705	John
-162707	John
-162709	John
-162711	John
+162704	John
+162706	John
+162710	John
+162712	John
+162715	John
+162717	John
+162719	John
+162721	John
+162723	John
+162726	John
+John
+162729	John
 John
 John
-162716	John
-162718	John
-162722	John
+162733	John
+162735	John
 John
 John
+162739	John
 John
-162727	John
-162730	John
-162732	John
-162734	John
-162738	John
-162740	John
-162742	John
-162744	John
 John
+162743	John
+162745	John
 162747	John
-162750	John
-162752	John
-162754	John
-162757	John
-162760	John
+162749	John
+162751	John
+162753	John
+John
+162756	John
+John
+162759	John
 John
 John
 John
-162766	John
+162764	John
+John
+162767	John
 162769	John
-162772	John
-162774	John
-162776	John
-162778	John
-162780	John
-162784	John
-162786	John
-162788	John
-162791	John
 John
-162794	John
+John
+John
+162774	John
+John
+John
+John
+John
+162780	John
+162782	John
+John
+162785	John
+162787	John
+John
+162790	John
+John
+162793	John
+John
 John
 162797	John
-162799	John
-162801	John
 John
 John
-John
+162803	John
+162805	John
 162807	John
+162809	John
+162811	John
+162813	John
+162815	John
 John
 John
 John
-162812	John
-162814	John
 John
 John
-John
-162820	John
 162822	John
 162824	John
 162826	John
-162829	John
-162831	John
 John
-162834	John
-162836	John
-162838	John
 John
-162841	John
-162843	John
-162845	John
+John
+John
+162832	John
+John
+162835	John
+John
+162839	John
+John
+162842	John
+162844	John
+162846	John
 162848	John
-162851	John
-162853	John
+162850	John
+John
+John
+John
+John
 162856	John
 162858	John
 162860	John
 162862	John
+162864	John
+162866	John
 John
+162870	John
+162872	John
+162874	John
+162876	John
 John
-John
-162867	John
-162869	John
-162871	John
-162873	John
-162875	John
 John
 162880	John
-John
-John
+162882	John
 162884	John
-162887	John
-162889	John
-162891	John
-162894	John
+162886	John
+162888	John
+162890	John
+162892	John
+John
+John
 162896	John
 162898	John
 162900	John
-162902	John
-162904	John
-162907	John
-162909	John
+John
+162903	John
+162905	John
+John
+162908	John
 John
 John
-162913	John
+162912	John
+John
 162915	John
 162917	John
 162919	John
-162921	John
-162923	John
 John
-162926	John
-162930	John
+162922	John
+162924	John
+162927	John
+162929	John
+162931	John
 162933	John
 162935	John
-162937	John
 John
-162940	John
-162943	John
+John
+162939	John
+162941	John
+John
+162944	John
 162946	John
-John
-John
-162951	John
-John
+162948	John
+162950	John
+162952	John
 162954	John
+162958	John
 John
-162957	John
-162959	John
 162961	John
-162964	John
+John
+John
 John
 John
 162968	John
 162970	John
-John
-162973	John
-162975	John
+162972	John
+162974	John
+162976	John
 162978	John
 162980	John
-162982	John
 John
-162985	John
+John
+John
+John
+John
+John
 162989	John
-John
+162991	John
 162993	John
 162995	John
-162997	John
-163000	John
 John
-163004	John
+163002	John
+John
+163005	John
 163007	John
-163009	John
-163013	John
-163015	John
-163018	John
 John
 John
-163022	John
 John
-163026	John
+John
+John
+163014	John
+163016	John
+163019	John
+John
+John
+163023	John
+163025	John
+John
 163028	John
 John
-163031	John
+John
+John
 163033	John
+163035	John
+163037	John
 John
-John
-John
-163038	John
 163040	John
-163042	John
-163044	John
+John
+John
+John
+John
 163046	John
 John
+163049	John
+163051	John
+163053	John
+163055	John
 John
-163050	John
-163052	John
-163054	John
-163057	John
-163060	John
-163062	John
-163064	John
-163066	John
-163068	John
-163070	John
-163072	John
+163059	John
+163061	John
+163063	John
+163067	John
+163069	John
+163071	John
 John
-163075	John
+163074	John
+163076	John
+163078	John
 John
-163079	John
 163081	John
-163083	John
-John
-John
+163084	John
+163086	John
 163088	John
 163090	John
 163092	John
 163094	John
 163096	John
-John
-163100	John
-John
-163103	John
-163105	John
+163098	John
 John
 John
-163109	John
-163111	John
+163102	John
+163104	John
+163106	John
+163108	John
+163110	John
 163113	John
 163115	John
-163117	John
+John
+John
 163119	John
 163121	John
-163123	John
+John
+John
 163125	John
 John
-163129	John
-John
-163133	John
 John
 John
-163138	John
-163140	John
-163143	John
-163145	John
+163130	John
 John
-163148	John
 John
-163151	John
-163153	John
-163157	John
-163159	John
 John
-163162	John
+John
+John
+163137	John
+John
+163141	John
+John
+163144	John
+John
+163147	John
+163150	John
+163152	John
+John
+163155	John
+John
+John
+John
+John
+163161	John
+John
 163164	John
-163169	John
-163171	John
-John
-John
-163175	John
-John
+163166	John
+163168	John
+163170	John
+163172	John
+163174	John
+163176	John
 163178	John
 163180	John
 John
-163183	John
+John
+163184	John
 163186	John
-163189	John
-163192	John
-163195	John
-163197	John
-163199	John
-163202	John
+163188	John
+163190	John
+John
+163193	John
+John
+John
+John
+163198	John
+John
+John
+John
+John
 163204	John
-163207	John
-163211	John
+163206	John
+163208	John
+John
+John
+John
 163213	John
+John
 163216	John
-163218	John
-163220	John
-163222	John
+John
+163219	John
+John
+John
 163224	John
 John
 163227	John
+163229	John
+163231	John
+163233	John
 John
-163230	John
-163232	John
-163234	John
+John
 163237	John
-163239	John
-163241	John
-163243	John
 John
-163246	John
+163240	John
+163242	John
+John
+163245	John
 John
 John
-163250	John
+163249	John
+John
 163252	John
-163254	John
+John
+163255	John
 163257	John
+163259	John
 John
-163260	John
-163263	John
+163262	John
 John
-163266	John
-163268	John
-163270	John
-163272	John
-163274	John
+John
+John
+163267	John
+163269	John
+163271	John
+163273	John
+John
 163276	John
 163278	John
-163281	John
-163283	John
-163285	John
-163287	John
-163291	John
-163293	John
-163295	John
+163280	John
 John
-163298	John
-163301	John
+163284	John
+163286	John
+163288	John
+John
+John
+163292	John
+163294	John
+163296	John
+John
+163300	John
+John
 John
 163305	John
+163307	John
 John
 John
-163309	John
 John
-163312	John
+John
+John
 163314	John
-163318	John
+163316	John
+John
+John
 163320	John
-163322	John
 John
-163325	John
-John
+163323	John
+163326	John
 John
 163329	John
+163331	John
 John
-163332	John
 163334	John
 163336	John
+163338	John
+163340	John
+163342	John
 John
-163339	John
-163341	John
-163343	John
 163345	John
-163347	John
-163349	John
-163352	John
-John
-163355	John
 John
 John
-163359	John
-163361	John
-163363	John
 John
+163350	John
+John
+163353	John
+John
+John
+163357	John
+John
+163360	John
+John
+John
+163364	John
 163366	John
-163368	John
+John
+163369	John
+163371	John
 163373	John
 163375	John
-163377	John
-163381	John
+John
+163378	John
 John
 John
-163387	John
-163389	John
+163382	John
+John
+John
+John
+John
+John
+John
+John
 163391	John
 163393	John
-163396	John
-163398	John
-163400	John
-163403	John
+163395	John
+163397	John
+163399	John
+John
+163402	John
+John
 163405	John
 163407	John
-163409	John
-163411	John
-163413	John
-163415	John
+163410	John
+163412	John
+163414	John
+163416	John
+163419	John
+163421	John
 John
-163418	John
+163424	John
+163426	John
 John
-John
-John
-163423	John
-163425	John
-John
-163431	John
-John
-163436	John
+163430	John
 John
 John
+John
+John
+163438	John
 John
 163441	John
+John
 163444	John
+163446	John
 John
 163449	John
-163451	John
+John
+John
 John
 163454	John
 John
-John
+163457	John
 163460	John
-John
-163463	John
-John
+163462	John
 163466	John
-163468	John
 John
-163471	John
+John
+163470	John
 163473	John
-163475	John
-163477	John
 John
-163480	John
-163482	John
+John
+John
+John
+163479	John
+John
+John
+163483	John
 163485	John
-163487	John
 John
-163490	John
-163492	John
-163494	John
-163496	John
-163499	John
 John
+163489	John
+John
+163493	John
+John
+John
+163497	John
+John
+163500	John
 163502	John
-John
-163507	John
-163509	John
-163511	John
-John
+163504	John
+163506	John
+163508	John
+163510	John
+163512	John
 163515	John
+163518	John
+163520	John
 John
-163521	John
 163523	John
-163525	John
-163527	John
-163529	John
 John
+John
+John
+163528	John
+163531	John
 163533	John
-John
-163536	John
-163538	John
-163540	John
+163535	John
+163537	John
+163539	John
+163541	John
 163543	John
-163546	John
+163545	John
+John
 163548	John
+John
+John
 163552	John
 John
 163555	John
-163558	John
-John
-163562	John
+163557	John
+163559	John
+163561	John
+163563	John
 163565	John
 163567	John
 John
-163570	John
-John
+163571	John
 163573	John
-John
+163575	John
 John
 163578	John
-163580	John
-163583	John
-163585	John
+John
+163581	John
+John
+163584	John
+163586	John
 163588	John
+John
 163591	John
-163593	John
-163595	John
-163599	John
+John
+163594	John
+163596	John
+163598	John
+163600	John
+John
 163603	John
 John
 163606	John
@@ -150719,2935 +153204,3460 @@ John
 163617	John
 John
 John
-John
-John
+163621	John
 163623	John
+John
 163626	John
-163629	John
-163631	John
+163628	John
 John
-163634	John
-163636	John
+163633	John
 John
 John
-163640	John
+163637	John
+163639	John
+163641	John
 163643	John
 163645	John
+163647	John
 John
-163648	John
-163651	John
-163653	John
-163655	John
+163650	John
+163652	John
 John
-163658	John
+163657	John
 John
-163661	John
-163663	John
-163665	John
+163660	John
+John
+John
+163664	John
+John
 163667	John
-163669	John
-163673	John
-163675	John
-163677	John
 John
-163680	John
+163670	John
+163672	John
+163674	John
+John
+John
+John
+163679	John
+John
 163682	John
 163684	John
-163687	John
 John
-163690	John
-163692	John
-163694	John
+163688	John
+John
+John
+John
+163693	John
 163697	John
 John
-163700	John
-163702	John
-163705	John
-163708	John
-163710	John
-163712	John
-163715	John
-163717	John
 John
-163721	John
+John
+John
+163703	John
+John
+163706	John
+163708	John
+John
+163711	John
+163713	John
+163715	John
+John
+163720	John
+John
 163723	John
-163726	John
+163725	John
+163727	John
 163729	John
-163732	John
-163734	John
-163736	John
+John
+John
+163733	John
+163735	John
+John
 163738	John
 John
-163741	John
+163743	John
 John
-163744	John
-163747	John
+163746	John
 John
+163749	John
 John
-163751	John
+163752	John
 John
 163755	John
-163757	John
-163760	John
-163763	John
+John
+John
+163759	John
+John
+163762	John
+163764	John
 163766	John
-163769	John
+163768	John
+163770	John
 John
-163772	John
-John
+163773	John
 163775	John
 163777	John
+163779	John
 John
-163781	John
+163782	John
 163784	John
-163786	John
 John
-163791	John
-163793	John
 John
-163796	John
-163798	John
-163800	John
-163802	John
+163788	John
+163790	John
 John
 John
 John
+163795	John
+163797	John
+163799	John
+163801	John
 John
+John
+163805	John
 163808	John
-163811	John
-163816	John
-163818	John
+163810	John
 John
-163821	John
-163824	John
-163826	John
 John
+163815	John
+163817	John
+163820	John
+John
+163823	John
+163825	John
+163827	John
 163830	John
-163832	John
+John
+John
 163834	John
-163837	John
-163839	John
 John
-163843	John
+163838	John
+163842	John
 John
 John
-163848	John
 John
-163852	John
+John
+John
+163849	John
+163851	John
+163853	John
+John
 163856	John
 163858	John
-John
-163861	John
-John
-John
-163865	John
+163860	John
+163863	John
 John
 John
+163867	John
 John
-John
-163871	John
-John
+163870	John
+163872	John
 163874	John
 John
-163878	John
+163877	John
 John
 John
-163882	John
+163881	John
+John
 163884	John
+163886	John
+163888	John
+163890	John
 John
-163887	John
-163889	John
-163891	John
 163893	John
-163895	John
+John
+John
 163897	John
 163899	John
-163901	John
-163903	John
-163905	John
-163907	John
+John
+163902	John
+163904	John
+John
+John
+John
 John
 163910	John
-John
-163913	John
-163915	John
-163917	John
-163919	John
-163921	John
+163912	John
 John
 John
-163926	John
-163928	John
-163931	John
-163933	John
+John
+John
+John
+John
+John
+John
+163922	John
+John
+163925	John
+163927	John
+163929	John
+John
+John
+John
 163935	John
 John
+John
 163939	John
-163942	John
 163944	John
-163948	John
 John
 John
-163952	John
-163954	John
 John
-163957	John
 John
-163960	John
+163950	John
+163955	John
+John
+John
+John
+John
+163961	John
 163963	John
+John
 163966	John
-163968	John
-163970	John
-163972	John
-163975	John
-163977	John
+163969	John
+163971	John
 John
-163981	John
 John
-163984	John
-163986	John
-163988	John
+163976	John
+163979	John
+John
+163982	John
+John
+163987	John
+John
 163990	John
-163993	John
+163992	John
 John
-163996	John
-163998	John
-164000	John
+163995	John
 John
 John
-164004	John
-164006	John
+163999	John
 John
-164011	John
 John
+John
+John
+164005	John
+John
+164008	John
+164010	John
+John
+164014	John
 164016	John
-164018	John
 John
-164021	John
+164020	John
+John
+John
 164024	John
-164026	John
-164028	John
+John
+164027	John
+John
 164030	John
 164032	John
 164034	John
-164037	John
-164039	John
+164036	John
+164038	John
+John
 164041	John
-164043	John
 John
 John
+164045	John
+164048	John
+164050	John
+164052	John
+164054	John
 John
-164049	John
-164051	John
-164053	John
-164055	John
 164057	John
-164060	John
 John
 John
-164064	John
-164066	John
 John
-164069	John
-164073	John
-164075	John
-John
-164078	John
-164080	John
-164082	John
-John
-John
-John
-164087	John
-John
-John
-164091	John
-164093	John
-164095	John
-164097	John
-164099	John
-164102	John
-John
-164105	John
-164109	John
-164111	John
-164113	John
-164115	John
-164117	John
-John
-164120	John
-164122	John
-John
-John
-164126	John
-John
-164129	John
-John
-164132	John
-164135	John
-John
-164140	John
-John
-John
-164145	John
-John
-164148	John
-164150	John
-164152	John
-John
-164156	John
-164158	John
-164161	John
-John
-164164	John
-164166	John
-John
-164170	John
-John
-164173	John
-164175	John
-164178	John
-164180	John
-164183	John
-164185	John
-John
-164189	John
-John
-164193	John
-164197	John
-164199	John
-164201	John
-164203	John
-164205	John
-164208	John
-164210	John
-164212	John
-John
-John
-164216	John
-164218	John
-John
-164221	John
-164223	John
-164225	John
-164227	John
-John
-164230	John
-John
-164233	John
-164235	John
-164237	John
-John
-John
-164242	John
-164245	John
-John
-164249	John
-164251	John
-164253	John
-164256	John
-164258	John
-John
-John
-164262	John
-164264	John
-John
-164267	John
-164269	John
-164271	John
-164273	John
-John
-John
-John
-John
-164279	John
-164282	John
-164284	John
-164286	John
-164291	John
-164293	John
-164296	John
-John
-164299	John
-164302	John
-164306	John
-John
-John
-John
-164311	John
-164313	John
-164315	John
-164318	John
-164320	John
-164322	John
-164325	John
-John
-164329	John
-John
-164332	John
-164335	John
-164337	John
-John
-164340	John
-164342	John
-164344	John
-164346	John
-164348	John
-164350	John
-164352	John
-164354	John
-164357	John
-164359	John
-164361	John
-John
-164365	John
-164368	John
-164370	John
-John
-John
-164374	John
-164376	John
-John
-164379	John
-164381	John
-John
-164384	John
-John
-164387	John
-John
-164392	John
-John
-John
-John
-John
-164398	John
-John
-164402	John
-164404	John
-164406	John
-John
-164410	John
-164412	John
-164414	John
-164416	John
-164418	John
-164420	John
-John
-164423	John
-John
-164427	John
-164429	John
-164431	John
-164433	John
-164435	John
-John
-164438	John
-164440	John
-164442	John
-164444	John
-164446	John
-John
-John
-164450	John
-164452	John
-164456	John
-John
-164459	John
-164461	John
-164463	John
-164465	John
-164467	John
-164469	John
-John
-John
-164476	John
-John
-164480	John
-164482	John
-164486	John
-164488	John
-164490	John
-164492	John
-164494	John
-164496	John
-John
-164499	John
-John
-John
-164504	John
-164506	John
-164509	John
-164511	John
-John
-John
-164515	John
-164517	John
-164519	John
-164522	John
-164524	John
-164526	John
-John
-John
-John
-164531	John
-164534	John
-164536	John
-John
-John
-John
-164541	John
-164544	John
-John
-164547	John
-John
-164551	John
-164553	John
-164557	John
-164559	John
-John
-164562	John
-John
-John
-John
-164567	John
-164569	John
-John
-164574	John
-John
-164577	John
-John
-John
-164581	John
-164583	John
-164586	John
-John
-164590	John
-164593	John
-164597	John
-John
-164600	John
-164602	John
-John
-164605	John
-John
-John
-164609	John
-John
-164613	John
-164615	John
-164618	John
-164620	John
-John
-164624	John
-164626	John
-John
-164629	John
-John
-164633	John
-164635	John
-164637	John
-164640	John
-John
-164643	John
-164645	John
-John
-164648	John
-164651	John
-John
-164654	John
-John
-John
-164658	John
-John
-164661	John
-164663	John
-John
-John
-164668	John
-John
-164671	John
-John
-164675	John
-John
-John
-John
-John
-164681	John
-John
-164684	John
-164687	John
-John
-164691	John
-164693	John
-164695	John
-John
-John
-164699	John
-John
-164702	John
-164705	John
-John
-164708	John
-164710	John
-164712	John
-164716	John
-John
-164720	John
-164722	John
-164726	John
-John
-John
-164731	John
-John
-John
-164735	John
-John
-164738	John
-164740	John
-164742	John
-164744	John
-164747	John
-164749	John
-John
-164753	John
-164755	John
-164757	John
-164759	John
-John
-164763	John
-164765	John
-164768	John
-164771	John
-John
-John
-John
-164776	John
-164779	John
-164781	John
-164783	John
-164786	John
-John
-164789	John
-164792	John
-164794	John
-John
-John
-164799	John
-John
-John
-John
-164804	John
-John
-John
-164809	John
-164811	John
-164815	John
-164817	John
-John
-164821	John
-164823	John
-164825	John
-164828	John
-164831	John
-164833	John
-164835	John
-164837	John
-164839	John
-John
-164843	John
-John
-164846	John
-164848	John
-164850	John
-164853	John
-164855	John
-164857	John
-John
-164860	John
-John
-164863	John
-John
-164868	John
-John
-164873	John
-164875	John
-164878	John
-John
-John
-164882	John
-164884	John
-John
-164887	John
-John
-John
-164891	John
-164893	John
-John
-164896	John
-164898	John
-164900	John
-164902	John
-John
-164905	John
-John
-164910	John
-164912	John
-164914	John
-John
-164917	John
-164921	John
-John
-John
-164925	John
-164928	John
-164930	John
-John
-164933	John
-John
-164936	John
-164938	John
-John
-164941	John
-164943	John
-164945	John
-John
-164949	John
-164952	John
-164954	John
-164956	John
-164959	John
-164961	John
-164963	John
-164965	John
-164967	John
-164969	John
-John
-John
-John
-John
-164975	John
-164977	John
-164979	John
-164981	John
-John
-164984	John
-164986	John
-164989	John
-164991	John
-164993	John
-164995	John
-164997	John
-John
-John
-John
-165002	John
-165004	John
-John
-165007	John
-165009	John
-165011	John
-165013	John
-165016	John
-165018	John
-165020	John
-165023	John
-165025	John
-John
-John
-165029	John
-John
-John
-165033	John
-165036	John
-165038	John
-John
-165042	John
-165045	John
-165049	John
-John
-165053	John
-John
-John
-165057	John
-John
-165060	John
-165062	John
-165064	John
-165068	John
-John
-John
-165073	John
-John
-165077	John
-John
-165080	John
-John
-John
-165084	John
-165086	John
-165090	John
-John
-John
-165094	John
-John
-165097	John
-165099	John
-John
-John
-165105	John
-165107	John
-John
-John
-165111	John
-John
-165115	John
-165117	John
-165119	John
-165121	John
-165123	John
-165125	John
-165127	John
-John
-165130	John
-165132	John
-165134	John
-John
-165137	John
-John
-165140	John
-165142	John
-165144	John
-165149	John
-165151	John
-John
-John
-165155	John
-John
-John
-165159	John
-John
-165162	John
-165164	John
-165166	John
-165168	John
-165170	John
-165172	John
-165174	John
-165176	John
-John
-John
-165180	John
-165182	John
-165185	John
-165188	John
-John
-165192	John
-165194	John
-165196	John
-165198	John
-John
-165202	John
-165204	John
-165206	John
-165209	John
-165211	John
-165213	John
-165215	John
-165217	John
-165220	John
-165222	John
-165224	John
-John
-165228	John
-165230	John
-165233	John
-165235	John
-John
-165239	John
-165243	John
-John
-John
-165247	John
-165249	John
-165251	John
-165253	John
-165256	John
-165259	John
-165261	John
-165265	John
-John
-165269	John
-165271	John
-165275	John
-165277	John
-165279	John
-John
-165282	John
-John
-John
-165286	John
-165289	John
-165291	John
-165294	John
-John
-165297	John
-165299	John
-John
-165302	John
-165304	John
-165308	John
-165310	John
-165312	John
-John
-165318	John
-165320	John
-165322	John
-John
-165326	John
-165328	John
-John
-John
-165333	John
-165337	John
-John
-John
-165341	John
-165343	John
-165346	John
-165348	John
-165350	John
-165352	John
-165354	John
-165356	John
-165358	John
-165361	John
-John
-165364	John
-165366	John
-John
-165369	John
-John
-165373	John
-165375	John
-165377	John
-165379	John
-165381	John
-165383	John
-165385	John
-165387	John
-John
-165390	John
-John
-John
-John
-165395	John
-165398	John
-165400	John
-John
-John
-John
-John
-165406	John
-John
-John
-165410	John
-165412	John
-165415	John
-165417	John
-John
-165421	John
-John
-John
-165425	John
-165427	John
-165429	John
-165432	John
-165434	John
-165436	John
-165438	John
-John
-165442	John
-John
-165445	John
-165447	John
-165449	John
-165451	John
-165453	John
-John
-John
-165458	John
-165460	John
-John
-John
-John
-John
-165467	John
-165469	John
-165472	John
-John
-John
-165476	John
-165478	John
-John
-165482	John
-John
-165485	John
-John
-John
-John
-165490	John
-165492	John
-John
-John
-John
-165498	John
-John
-165504	John
-165507	John
-John
-165510	John
-165512	John
-165515	John
-John
-165518	John
-John
-165521	John
-165524	John
-165526	John
-165528	John
-165531	John
-165533	John
-165537	John
-165539	John
-John
-165542	John
-165544	John
-165546	John
-165552	John
-165555	John
-165557	John
-John
-165561	John
-John
-165564	John
-165566	John
-John
-165570	John
-165572	John
-165574	John
-165576	John
-165583	John
-165585	John
-165587	John
-165589	John
-John
-John
-John
-165594	John
-John
-165597	John
-John
-165600	John
-165602	John
-165604	John
-165607	John
-165609	John
-165611	John
-165613	John
-165615	John
-165619	John
-165621	John
-165623	John
-165626	John
-165628	John
-165630	John
-165632	John
-165634	John
-165637	John
-165639	John
-165641	John
-165643	John
-165645	John
-165647	John
-165650	John
-165652	John
-165654	John
-165656	John
-John
-John
-165660	John
-165662	John
-165666	John
-165669	John
-165671	John
-165673	John
-165675	John
-165677	John
-165681	John
-165683	John
-John
-165686	John
-165688	John
-John
-John
-John
-John
-165694	John
-John
-John
-165700	John
-165702	John
-165704	John
-165706	John
-165709	John
-165711	John
-John
-John
-165715	John
-165717	John
-165719	John
-165723	John
-165726	John
-John
-165729	John
-165731	John
-165733	John
-165735	John
-165738	John
-165740	John
-165742	John
-165745	John
-John
-165748	John
-165750	John
-165754	John
-165756	John
-John
-165760	John
-165762	John
-John
-165765	John
-165767	John
-165769	John
-165771	John
-John
-John
-John
-165777	John
-John
-165782	John
-165784	John
-165786	John
-John
-165790	John
-165792	John
-165794	John
-John
-John
-165798	John
-165800	John
-John
-165803	John
-John
-165806	John
-165808	John
-165810	John
-165812	John
-165814	John
-165816	John
-John
-165820	John
-165822	John
-John
-John
-John
-165828	John
-165830	John
-165832	John
-John
-165835	John
-165839	John
-John
-165842	John
-165845	John
-165847	John
-165850	John
-165852	John
-165854	John
-165856	John
-165858	John
-165861	John
-165863	John
-165865	John
-165867	John
-John
-John
-165872	John
-165874	John
-John
-165879	John
-John
-165882	John
-165884	John
-John
-165887	John
-165891	John
-165893	John
-John
-165897	John
-165899	John
-John
-165903	John
-165907	John
-165909	John
-165911	John
-165914	John
-165916	John
-165919	John
-165921	John
-165926	John
-165928	John
-165930	John
-165932	John
-165934	John
-165937	John
-165939	John
-165942	John
-165944	John
-John
-165947	John
-165949	John
-165952	John
-165954	John
-165957	John
-165959	John
-165961	John
-165964	John
-165966	John
-John
-John
-165971	John
-165973	John
-165975	John
-165978	John
-165980	John
-John
-John
-165984	John
-165986	John
-165993	John
-John
-John
-165997	John
-165999	John
-166001	John
-166003	John
-166007	John
-166009	John
-166011	John
-166013	John
-166016	John
-John
-166019	John
-166021	John
-166023	John
-166028	John
-John
-166031	John
-166033	John
-166036	John
-166039	John
-166041	John
-166043	John
-John
-166046	John
-166048	John
-166050	John
-166052	John
-166055	John
-166057	John
-166060	John
-166062	John
-166065	John
-166068	John
-166070	John
-166073	John
-166075	John
-166078	John
-166080	John
-166082	John
-166085	John
-John
-166088	John
-166090	John
-166092	John
-John
-166095	John
-166098	John
-166102	John
-John
-166105	John
-166107	John
-166109	John
-John
-166112	John
-166116	John
-John
-John
-166120	John
-166122	John
-166124	John
-166127	John
-166130	John
-166132	John
-166134	John
-166136	John
-166138	John
-166140	John
-166142	John
-166144	John
-John
-166147	John
-166150	John
-166152	John
-166155	John
-166158	John
-John
-John
-166162	John
-166164	John
-166166	John
-166168	John
-166172	John
-166174	John
-John
-166177	John
-166179	John
-166182	John
-166184	John
-166186	John
-John
-166189	John
-166191	John
-166193	John
-166195	John
-166197	John
-166199	John
-166201	John
-166203	John
-166206	John
-John
-John
-166210	John
-John
-166213	John
-John
-166217	John
-John
-166221	John
-166224	John
-166226	John
-166228	John
-166232	John
-166234	John
-John
-John
-John
-166239	John
-166241	John
-166243	John
-John
-166246	John
-John
-John
-166250	John
-166252	John
-John
-John
-John
-166257	John
-166260	John
-166262	John
-166264	John
-166266	John
-John
-John
-166270	John
-John
-John
-166274	John
-166276	John
-166278	John
-166280	John
-John
-166285	John
-John
-166288	John
-166290	John
-166292	John
-John
-166296	John
-John
-166299	John
-166301	John
-John
-166304	John
-166306	John
-John
-John
-166310	John
-166313	John
-166315	John
-166320	John
-166322	John
-166324	John
-166326	John
-John
-166330	John
-166332	John
-166335	John
-166338	John
-166340	John
-166342	John
-166344	John
-166347	John
-166349	John
-166352	John
-166354	John
-166356	John
-166358	John
-166360	John
-166362	John
-166364	John
-166366	John
-166368	John
-166370	John
-166376	John
-166378	John
-John
-166383	John
-166385	John
-166387	John
-John
-166391	John
-166393	John
-166395	John
-John
-166399	John
-166401	John
-166404	John
-166406	John
-166408	John
-166410	John
-166412	John
-166414	John
-John
-166417	John
-John
-166420	John
-John
-166423	John
-166425	John
-John
-166431	John
-166433	John
-166435	John
-166437	John
-John
-166441	John
-166445	John
-166447	John
-166449	John
-166451	John
-John
-166454	John
-166456	John
-166458	John
-166460	John
-166462	John
-166464	John
-166466	John
-John
-166470	John
-166472	John
-166474	John
-John
-166477	John
-John
-John
-John
-166483	John
-John
-John
-166488	John
-John
-166493	John
-166496	John
-166498	John
-166500	John
-166502	John
-166505	John
-166507	John
-166509	John
-166511	John
-John
-166514	John
-166519	John
-166521	John
-166523	John
-John
-John
-John
-166528	John
-166533	John
-166535	John
-166540	John
-166544	John
-John
-166547	John
-166549	John
-166551	John
-166554	John
-166556	John
-166558	John
-166560	John
-166563	John
-166565	John
-166567	John
-John
-John
-John
-166573	John
-John
-166576	John
-John
-166579	John
-166581	John
-166583	John
-166585	John
-166588	John
-166590	John
-166592	John
-166594	John
-166596	John
-166598	John
-166600	John
-166602	John
-John
-166606	John
-166608	John
-166611	John
-166613	John
-John
-John
-John
-John
-John
-166621	John
-166624	John
-John
-John
-John
-John
-John
-John
-166633	John
-John
-166637	John
-166639	John
-166642	John
-John
-166645	John
-166648	John
-166650	John
-John
-John
-166654	John
-John
-166657	John
-166660	John
-166662	John
-166664	John
-John
-166668	John
-166670	John
-John
-166673	John
-166677	John
-John
-166680	John
-166682	John
-166684	John
-John
-166687	John
-John
-166691	John
-166695	John
-166697	John
-John
-John
-John
-166702	John
-166704	John
-166706	John
-John
-166709	John
-166711	John
-166713	John
-John
-166716	John
-166718	John
-166720	John
-John
-John
-166724	John
-John
-John
-166728	John
-John
-John
-John
-166734	John
-John
-John
-John
-166739	John
-John
-John
-166745	John
-166747	John
-166749	John
-John
-166754	John
-166756	John
-John
-166759	John
-166761	John
-John
-166764	John
-John
-John
-166768	John
-John
-John
-John
-166775	John
-166777	John
-166779	John
-John
-166782	John
-166784	John
-John
-166787	John
-166789	John
-John
-John
-166793	John
-166795	John
-166797	John
-John
-John
-John
-166803	John
-166805	John
-John
-166808	John
-166810	John
-John
-John
-166815	John
-166817	John
-166821	John
-John
-166825	John
-166829	John
-John
-166832	John
-166834	John
-166836	John
-166838	John
-166842	John
-John
-166846	John
-John
-166850	John
-John
-166853	John
-166856	John
-166858	John
-166860	John
-John
-John
-166864	John
-166866	John
-John
-166870	John
-166872	John
-166874	John
-John
-166877	John
-166879	John
-166882	John
-John
-John
-166887	John
-166889	John
-John
-John
-166895	John
-166897	John
-166899	John
-166902	John
-166904	John
-166906	John
-166908	John
-John
-John
-166914	John
-John
-John
-166918	John
-166920	John
-166922	John
-166924	John
-166929	John
-John
-166932	John
-166935	John
-166937	John
-John
-166940	John
-166943	John
-166945	John
-166947	John
-John
-John
-John
-166955	John
-John
-166958	John
-John
-166961	John
-John
-John
-166966	John
-166968	John
-166970	John
-John
-John
-John
-166975	John
-166977	John
-166979	John
-John
-166982	John
-166984	John
-166986	John
-166988	John
-166992	John
-John
-John
-166996	John
-166999	John
-167002	John
-167005	John
-167009	John
-John
-167012	John
-John
-167015	John
-167017	John
-167019	John
-167021	John
-167024	John
-167027	John
-167029	John
-John
-167032	John
-167034	John
-John
-167037	John
-John
-167040	John
-167042	John
-167044	John
-John
-167049	John
-John
-167052	John
-John
-167055	John
-167057	John
-167059	John
-167061	John
-167063	John
-167065	John
-167068	John
-167070	John
-John
-167073	John
-167075	John
-John
-167079	John
-167081	John
-167084	John
-John
-John
-167090	John
-John
-167094	John
-167096	John
-John
-167100	John
-167102	John
-John
-167105	John
-167107	John
-John
-167110	John
-167112	John
-167114	John
-John
-John
-167118	John
-John
-167121	John
-167123	John
-John
-167126	John
-167128	John
-167131	John
-167136	John
-167138	John
-167140	John
-167142	John
-167145	John
-John
-167148	John
-167151	John
-John
-167154	John
-167156	John
-John
-167162	John
-167164	John
-John
-John
-167168	John
-John
-John
-167172	John
-167175	John
-John
-167178	John
-167180	John
-167182	John
-167186	John
-167188	John
-John
-167191	John
-John
-167194	John
-John
-167197	John
-John
-167200	John
-167209	John
-167212	John
-167214	John
-167217	John
-167220	John
-167222	John
-John
-167225	John
-167227	John
-John
-167230	John
-John
-167233	John
-John
-John
-167237	John
-John
-167241	John
-167244	John
-167246	John
-167248	John
-167252	John
-John
-John
-John
-167257	John
-167259	John
-167262	John
-167264	John
-167266	John
-John
-167271	John
-John
-167274	John
-167276	John
-167278	John
-167281	John
-167283	John
-167285	John
-167287	John
-167289	John
-John
-167297	John
-167299	John
-167302	John
-167305	John
-167307	John
-167310	John
-167312	John
-167314	John
-John
-167317	John
-John
-167323	John
-167325	John
-167329	John
-John
-John
-167333	John
-167335	John
-167337	John
-167340	John
-167342	John
-John
-John
-John
-167348	John
-167350	John
-167353	John
-167355	John
-167358	John
-167360	John
-167362	John
-John
-167365	John
-167368	John
-167370	John
-167373	John
-167375	John
-167378	John
-167380	John
-John
-167384	John
-John
-John
-167388	John
-167390	John
-John
-167393	John
-John
-John
-John
-167399	John
-167401	John
-167404	John
-167406	John
-167409	John
-167414	John
-167416	John
-167418	John
-167420	John
-167422	John
-167424	John
-167426	John
-167429	John
-167431	John
-167435	John
-167439	John
-167441	John
-167443	John
-167445	John
-167448	John
-John
-167451	John
-John
-167455	John
-167457	John
-167459	John
-John
-167462	John
-167465	John
-John
-167468	John
-167470	John
-167472	John
-167475	John
-167478	John
-167480	John
-167482	John
-167485	John
-167487	John
-167489	John
-167491	John
-John
-John
-John
-167496	John
-John
-167500	John
-167502	John
-John
-John
-John
-167507	John
-John
-John
-John
-John
-167513	John
-167516	John
-John
-167519	John
-167521	John
-John
-167524	John
-167527	John
-167529	John
-John
-167532	John
-167534	John
-John
-John
-167539	John
-167541	John
-167543	John
-167545	John
-167547	John
-167549	John
-167554	John
-167556	John
-John
-167559	John
-John
-John
-167563	John
-167566	John
-167568	John
-John
-167571	John
-167573	John
-167575	John
-167577	John
-167579	John
-167581	John
-John
-167585	John
-167587	John
-167590	John
-167592	John
-167594	John
-167596	John
-167598	John
-John
-167602	John
-John
-John
-167607	John
-167609	John
-167611	John
-167613	John
-167617	John
-167619	John
-John
-167623	John
-167625	John
-167627	John
-167631	John
-167633	John
-167635	John
-167637	John
-167641	John
-167643	John
-167645	John
-167648	John
-167650	John
-167652	John
-John
-167655	John
-167658	John
-167660	John
-167662	John
-167664	John
-167666	John
-167668	John
-John
-167671	John
-John
-John
-167676	John
-John
-167679	John
-167681	John
-167686	John
-John
-167689	John
-167691	John
-167693	John
-167695	John
-167697	John
-167699	John
-167701	John
-167705	John
-167707	John
-167709	John
-167711	John
-167713	John
-167715	John
-167717	John
-167719	John
-167722	John
-167724	John
-167726	John
-167728	John
-John
-167731	John
-John
-John
-167735	John
-John
-167739	John
-167741	John
-167744	John
-167746	John
-167750	John
-167752	John
-167754	John
-John
-167757	John
-John
-John
-167761	John
-167763	John
-167767	John
-167770	John
-167772	John
-167774	John
-John
-167785	John
-John
-167788	John
-167790	John
-John
-John
-John
-167795	John
-John
-167798	John
-167801	John
-167805	John
-John
-167808	John
-167810	John
-167812	John
-John
-167815	John
-John
-167819	John
-167821	John
-167823	John
-167825	John
-167827	John
-John
-167830	John
-167832	John
-John
-John
-John
-167838	John
-167840	John
-167843	John
-167845	John
-167847	John
-167849	John
-John
-167853	John
-167855	John
-167858	John
-167863	John
-167866	John
-167868	John
-167870	John
-167872	John
-167874	John
-167876	John
-John
-167879	John
-167886	John
-167888	John
-167890	John
-167894	John
-167897	John
-167899	John
-167901	John
-167904	John
-John
-John
-167909	John
-167912	John
-167914	John
-167916	John
-167918	John
-167922	John
-167925	John
-John
-167928	John
-167932	John
-167934	John
-John
-John
-167938	John
-John
-John
-John
-167943	John
-John
-John
-John
-John
-John
-167952	John
-John
-167957	John
-John
-167960	John
-John
-167964	John
-167969	John
-167971	John
-167973	John
-167975	John
-John
-John
-John
-John
-167981	John
-John
-167984	John
-167986	John
-167988	John
-167990	John
-167992	John
-167995	John
-167997	John
-168000	John
-168002	John
-John
-168005	John
-168007	John
-168010	John
-168012	John
-168014	John
-168016	John
-168018	John
-John
-John
-John
-168023	John
-John
-John
-John
-John
-168030	John
-168033	John
-168035	John
-John
-John
-168039	John
-168041	John
-John
-168045	John
-168047	John
-168050	John
-John
-168053	John
-168056	John
-John
-168059	John
-168061	John
-168063	John
-168065	John
-John
-168068	John
-168070	John
-168074	John
-168076	John
-168078	John
-John
-168081	John
-John
-John
-168086	John
-John
-168089	John
-John
-168092	John
-168094	John
-168096	John
-John
-168099	John
-John
-168102	John
-John
-168105	John
-168108	John
-168110	John
-168114	John
-John
-168117	John
-168120	John
-168122	John
-John
-168126	John
-168129	John
-168131	John
-John
-John
-168135	John
-168137	John
-168139	John
-John
-168144	John
-168146	John
-John
-168151	John
-168154	John
-John
-168157	John
-John
-John
-168162	John
-168164	John
-168166	John
-John
-168169	John
-168171	John
-John
-168174	John
-168178	John
-168180	John
-168183	John
-168185	John
-John
-168188	John
-168190	John
-168193	John
-168195	John
-168198	John
-John
-168201	John
-John
-John
-168205	John
-168207	John
-John
-168210	John
-John
-John
-168214	John
-John
-168219	John
-John
-John
-168223	John
-168226	John
-John
-168229	John
-168231	John
-168233	John
-168236	John
-John
-168239	John
-168241	John
-John
-168244	John
-168247	John
-John
-John
-John
-John
-John
-168254	John
-168256	John
-168258	John
-168260	John
-168262	John
-168264	John
-John
-168267	John
-168270	John
-168272	John
-168275	John
-168279	John
-168282	John
-168284	John
-168286	John
-168291	John
-168295	John
-John
-168298	John
-168301	John
-168303	John
-168306	John
-John
-John
-John
-John
-168313	John
-168315	John
-168318	John
-John
-168321	John
-168324	John
-John
-168328	John
-168330	John
-John
-John
-168334	John
-168336	John
-168338	John
-168342	John
-168344	John
-168353	John
-John
-John
-168358	John
-168360	John
-John
-John
-168364	John
-John
-168367	John
-John
-John
-168371	John
-168373	John
-John
-John
-168377	John
-John
-168382	John
-John
-John
-168386	John
-John
-168389	John
-168391	John
-168394	John
-168396	John
-168399	John
-168401	John
-168404	John
-168408	John
-168413	John
-168415	John
-John
-168418	John
-John
-John
-168422	John
-168424	John
-168430	John
-168432	John
-168434	John
-168436	John
-168438	John
-168440	John
-168443	John
-168445	John
-John
-168448	John
-John
-John
-168452	John
-168454	John
-168456	John
-168458	John
-168460	John
-168463	John
-168465	John
-168467	John
-168470	John
-John
-168476	John
-168478	John
-168480	John
-John
-168484	John
-168486	John
-168488	John
-168490	John
-168492	John
-168494	John
-168498	John
-168500	John
-168502	John
-John
-168507	John
-168509	John
-168514	John
-168516	John
-168518	John
-168520	John
-John
-168524	John
-168528	John
-168530	John
-168534	John
-168536	John
-168539	John
-John
-John
-168543	John
-168546	John
-168548	John
-168550	John
-168552	John
-168554	John
-168558	John
-John
-John
-168563	John
-168566	John
-168569	John
-168571	John
-168573	John
-168575	John
-John
-168578	John
-168580	John
-John
-168584	John
-John
-168587	John
-John
-168590	John
-168592	John
-John
-168595	John
-John
-168598	John
-168601	John
-168603	John
-John
-168606	John
-John
-168610	John
-John
-168613	John
-168615	John
-John
-168618	John
-John
-John
-John
-168623	John
-168627	John
-John
-John
-John
-John
-168633	John
-John
-168637	John
-168639	John
-168642	John
-168644	John
-168647	John
-168649	John
-John
-168657	John
-168659	John
-168662	John
-168664	John
-168668	John
-168671	John
-John
-168674	John
-168677	John
-168679	John
-John
-168682	John
-John
-168688	John
-John
-168691	John
-168693	John
-168696	John
-John
-168700	John
-John
-168703	John
-John
-168706	John
-168708	John
-John
-168711	John
-168713	John
-168717	John
-168719	John
-168722	John
-John
-168725	John
-168729	John
-168731	John
-168733	John
-John
-168737	John
-168739	John
-168742	John
-John
-168746	John
-168748	John
-John
-John
-168754	John
-168756	John
-168759	John
-168761	John
-168764	John
-John
-168767	John
-168769	John
-168773	John
-168777	John
-John
-John
-168782	John
-168784	John
-168788	John
-John
-168791	John
-168794	John
-168796	John
-168800	John
-John
-John
-168804	John
-John
-168811	John
-168816	John
-168818	John
-John
-John
-John
-168824	John
-168826	John
-168828	John
-168831	John
-John
-168834	John
-168836	John
-168838	John
-168840	John
-John
-John
-168844	John
-168846	John
-168848	John
-168851	John
-168853	John
-John
-168856	John
-168858	John
-John
-168862	John
-168864	John
-168866	John
-168868	John
-168870	John
-168872	John
-John
-168876	John
-John
-John
-168880	John
-168882	John
-168884	John
-168886	John
-168888	John
-John
-John
-168892	John
-168894	John
-168897	John
-168901	John
-John
-John
-168905	John
-John
-John
-John
-John
-John
-168912	John
-168914	John
-168918	John
-168920	John
-168922	John
-John
-168925	John
-John
-168930	John
-John
-168933	John
-168935	John
-168939	John
-John
-John
-John
-John
-168945	John
-168949	John
-John
-John
-John
-John
-168956	John
-168958	John
-John
-168961	John
-168963	John
-168965	John
-John
-John
-168970	John
-168973	John
-John
-168976	John
-John
-168980	John
-John
-168983	John
-168985	John
-John
-168988	John
-John
-John
-168992	John
-John
-John
-John
-John
-168998	John
-169000	John
-169002	John
-169004	John
-John
-169008	John
-169010	John
-John
-169013	John
-John
-169016	John
-169018	John
-John
-169021	John
-John
-169024	John
-169026	John
-169029	John
-169031	John
-169034	John
-John
-169037	John
-John
-169040	John
-169044	John
-169047	John
-169049	John
-169051	John
-169054	John
-169056	John
-169059	John
-John
-John
-John
+164062	Acts
+164064	Acts
 Acts
-169065	Acts
+164068	Acts
 Acts
+Acts
+Acts
+Acts
+164074	Acts
+Acts
+164077	Acts
+164079	Acts
+Acts
+Acts
+164083	Acts
+Acts
+164087	Acts
+164089	Acts
+164092	Acts
+Acts
+Acts
+164097	Acts
+Acts
+Acts
+Acts
+164102	Acts
+164104	Acts
+Acts
+164107	Acts
+164113	Acts
+Acts
+Acts
+164117	Acts
+164120	Acts
+Acts
+164123	Acts
+Acts
+Acts
+164128	Acts
+Acts
+Acts
+164132	Acts
+Acts
+Acts
+Acts
+164137	Acts
+Acts
+Acts
+164143	Acts
+Acts
+Acts
+164154	Acts
+164158	Acts
+Acts
+164161	Acts
+164164	Acts
+Acts
+Acts
+164168	Acts
+164170	Acts
+164172	Acts
+164174	Acts
+164177	Acts
+164179	Acts
+Acts
+164182	Acts
+164184	Acts
+164186	Acts
+164188	Acts
+Acts
+164191	Acts
+Acts
+164194	Acts
+164196	Acts
+164198	Acts
+164200	Acts
+Acts
+164203	Acts
+Acts
+164206	Acts
+Acts
+164209	Acts
+164211	Acts
+Acts
+164215	Acts
+Acts
+Acts
+164219	Acts
+Acts
+164222	Acts
+Acts
+164225	Acts
+164227	Acts
+164229	Acts
+164231	Acts
+164233	Acts
+164235	Acts
+164237	Acts
+164239	Acts
+Acts
+164242	Acts
+Acts
+164245	Acts
+164247	Acts
+164249	Acts
+164251	Acts
+Acts
+164254	Acts
+Acts
+164257	Acts
+164259	Acts
+Acts
+164262	Acts
+164264	Acts
+Acts
+164267	Acts
+164269	Acts
+Acts
+Acts
+Acts
+164274	Acts
+164276	Acts
+Acts
+Acts
+164283	Acts
+164291	Acts
+164295	Acts
+164297	Acts
+164299	Acts
+Acts
+Acts
+Acts
+164304	Acts
+Acts
+164307	Acts
+164309	Acts
+Acts
+164312	Acts
+164317	Acts
+Acts
+164320	Acts
+164323	Acts
+Acts
+164326	Acts
+Acts
+164329	Acts
+164331	Acts
+Acts
+Acts
+164335	Acts
+164338	Acts
+164340	Acts
+Acts
+164344	Acts
+164346	Acts
+164348	Acts
+Acts
+164353	Acts
+164355	Acts
+164357	Acts
+164360	Acts
+Acts
+164363	Acts
+164366	Acts
+164369	Acts
+164372	Acts
+Acts
+Acts
+Acts
+164377	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+164384	Acts
+Acts
+164387	Acts
+164389	Acts
+Acts
+164392	Acts
+164394	Acts
+164396	Acts
+164398	Acts
+Acts
+Acts
+Acts
+164404	Acts
+Acts
+Acts
+164408	Acts
+164412	Acts
+164414	Acts
+Acts
+164417	Acts
+164419	Acts
+Acts
+Acts
+164424	Acts
+164426	Acts
+Acts
+Acts
+164430	Acts
+Acts
+164433	Acts
+Acts
+164438	Acts
+164440	Acts
+Acts
+Acts
+164445	Acts
+164447	Acts
+164449	Acts
+164452	Acts
+164454	Acts
+Acts
+164457	Acts
+164459	Acts
+164463	Acts
+Acts
+164466	Acts
+164468	Acts
+164470	Acts
+164472	Acts
+164475	Acts
+164477	Acts
+164479	Acts
+Acts
+Acts
+164484	Acts
+164486	Acts
+164488	Acts
+164490	Acts
+164494	Acts
+164496	Acts
+164499	Acts
+164501	Acts
+164503	Acts
+164506	Acts
+164509	Acts
+164511	Acts
+Acts
+164514	Acts
+164516	Acts
+164518	Acts
+164520	Acts
+164522	Acts
+164524	Acts
+164527	Acts
+Acts
+Acts
+164531	Acts
+164533	Acts
+164535	Acts
+Acts
+Acts
+Acts
+164540	Acts
+Acts
+164543	Acts
+Acts
+Acts
+164547	Acts
+Acts
+Acts
+164551	Acts
+Acts
+164555	Acts
+Acts
+Acts
+164559	Acts
+Acts
+164562	Acts
+164565	Acts
+Acts
+164568	Acts
+164570	Acts
+Acts
+164573	Acts
+164575	Acts
+164577	Acts
+Acts
+164580	Acts
+164582	Acts
+164584	Acts
+164586	Acts
+164588	Acts
+164591	Acts
+164593	Acts
+164595	Acts
+164597	Acts
+164599	Acts
+Acts
+164603	Acts
+164605	Acts
+164607	Acts
+164610	Acts
+Acts
+164616	Acts
+164618	Acts
+Acts
+Acts
+164622	Acts
+164625	Acts
+Acts
+164628	Acts
+Acts
+Acts
+164632	Acts
+Acts
+164636	Acts
+164641	Acts
+164643	Acts
+164645	Acts
+Acts
+Acts
+164649	Acts
+164652	Acts
+164655	Acts
+164657	Acts
+Acts
+Acts
+164661	Acts
+Acts
+164664	Acts
+164666	Acts
+164668	Acts
+Acts
+164671	Acts
+164673	Acts
+Acts
+164676	Acts
+164678	Acts
+164680	Acts
+Acts
+164683	Acts
+Acts
+164686	Acts
+Acts
+Acts
+Acts
+164691	Acts
+164693	Acts
+Acts
+164697	Acts
+164700	Acts
+164702	Acts
+164704	Acts
+164706	Acts
+164708	Acts
+164710	Acts
+164712	Acts
+164714	Acts
+164716	Acts
+Acts
+164721	Acts
+164726	Acts
+164728	Acts
+Acts
+Acts
+164732	Acts
+Acts
+164738	Acts
+Acts
+Acts
+164743	Acts
+Acts
+Acts
+Acts
+Acts
+164749	Acts
+164751	Acts
+164753	Acts
+164755	Acts
+164757	Acts
+Acts
+Acts
+164761	Acts
+Acts
+164765	Acts
+164767	Acts
+164769	Acts
+164771	Acts
+164773	Acts
+164775	Acts
+Acts
+Acts
+164779	Acts
+Acts
+164782	Acts
+Acts
+Acts
+Acts
+Acts
+164789	Acts
+164791	Acts
+164793	Acts
+164795	Acts
+Acts
+164799	Acts
+Acts
+Acts
+164803	Acts
+Acts
+Acts
+164808	Acts
+164810	Acts
+164812	Acts
+164814	Acts
+164816	Acts
+Acts
+164819	Acts
+Acts
+Acts
+164824	Acts
+Acts
+Acts
+164828	Acts
+164830	Acts
+164832	Acts
+164834	Acts
+Acts
+164837	Acts
+Acts
+164840	Acts
+Acts
+164844	Acts
+Acts
+164847	Acts
+Acts
+164851	Acts
+164856	Acts
+Acts
+164859	Acts
+Acts
+164862	Acts
+164865	Acts
+Acts
+164870	Acts
+Acts
+Acts
+164876	Acts
+164879	Acts
+Acts
+164883	Acts
+164885	Acts
+164888	Acts
+Acts
+Acts
+Acts
+164893	Acts
+164895	Acts
+164897	Acts
+164899	Acts
+164902	Acts
+Acts
+164905	Acts
+Acts
+164908	Acts
+164910	Acts
+164912	Acts
+164915	Acts
+Acts
+164918	Acts
+164920	Acts
+164922	Acts
+164924	Acts
+164927	Acts
+164932	Acts
+Acts
+Acts
+Acts
+Acts
+164938	Acts
+164940	Acts
+Acts
+164943	Acts
+Acts
+164946	Acts
+Acts
+164949	Acts
+Acts
+164952	Acts
+164954	Acts
+164956	Acts
+Acts
+164959	Acts
+Acts
+Acts
+164963	Acts
+Acts
+Acts
+164967	Acts
+Acts
+Acts
+164971	Acts
+164973	Acts
+164975	Acts
+Acts
+164978	Acts
+Acts
+164981	Acts
+164983	Acts
+Acts
+164986	Acts
+164988	Acts
+Acts
+164991	Acts
+164993	Acts
+Acts
+164997	Acts
+Acts
+165000	Acts
+Acts
+Acts
+Acts
+165005	Acts
+165007	Acts
+165009	Acts
+165011	Acts
+165013	Acts
+Acts
+Acts
+165017	Acts
+Acts
+165020	Acts
+165023	Acts
+165025	Acts
+165028	Acts
+165030	Acts
+Acts
+165033	Acts
+165035	Acts
+Acts
+165041	Acts
+165043	Acts
+165046	Acts
+165048	Acts
+165050	Acts
+Acts
+165053	Acts
+Acts
+165056	Acts
+Acts
+165060	Acts
+165062	Acts
+165064	Acts
+165066	Acts
+165068	Acts
+Acts
+Acts
+165072	Acts
+Acts
+165075	Acts
+Acts
+165078	Acts
+165080	Acts
+Acts
+165085	Acts
+Acts
+165088	Acts
+Acts
+165091	Acts
+Acts
+Acts
+165095	Acts
+Acts
+165098	Acts
+165100	Acts
+Acts
+165104	Acts
+165107	Acts
+165109	Acts
+165111	Acts
+Acts
+165114	Acts
+Acts
+Acts
+165118	Acts
+Acts
+Acts
+Acts
+165123	Acts
+165125	Acts
+165127	Acts
+Acts
+165130	Acts
+Acts
+Acts
+Acts
+165135	Acts
+Acts
+165138	Acts
+Acts
+165141	Acts
+Acts
+165144	Acts
+Acts
+165147	Acts
+Acts
+Acts
+Acts
+Acts
+165155	Acts
+165157	Acts
+165159	Acts
+165161	Acts
+Acts
+165164	Acts
+165166	Acts
+Acts
+165169	Acts
+Acts
+165172	Acts
+Acts
+Acts
+Acts
+165177	Acts
+165180	Acts
+Acts
+Acts
+165185	Acts
+Acts
+Acts
+165189	Acts
+165192	Acts
+Acts
+165195	Acts
+Acts
+165198	Acts
+Acts
+165201	Acts
+Acts
+165204	Acts
+Acts
+165207	Acts
+165210	Acts
+165212	Acts
+165214	Acts
+165216	Acts
+Acts
+Acts
+165220	Acts
+165222	Acts
+Acts
+Acts
+Acts
+165227	Acts
+165230	Acts
+Acts
+165233	Acts
+Acts
+165236	Acts
+165238	Acts
+165240	Acts
+Acts
+165243	Acts
+Acts
+165246	Acts
+165248	Acts
+Acts
+Acts
+Acts
+Acts
+165254	Acts
+165256	Acts
+165258	Acts
+165260	Acts
+165263	Acts
+165265	Acts
+165273	Acts
+165275	Acts
+Acts
+165278	Acts
+165280	Acts
+165282	Acts
+165284	Acts
+165288	Acts
+165290	Acts
+165295	Acts
+165297	Acts
+Acts
+165300	Acts
+Acts
+Acts
+165304	Acts
+Acts
+165308	Acts
+165312	Acts
+Acts
+165315	Acts
+165317	Acts
+Acts
+Acts
+Acts
+165323	Acts
+Acts
+165326	Acts
+165328	Acts
+Acts
+165331	Acts
+Acts
+165334	Acts
+165336	Acts
+165338	Acts
+165340	Acts
+165342	Acts
+165346	Acts
+Acts
+Acts
+165351	Acts
+165353	Acts
+Acts
+165357	Acts
+165359	Acts
+Acts
+Acts
+Acts
+165364	Acts
+Acts
+165367	Acts
+165369	Acts
+165371	Acts
+Acts
+165374	Acts
+Acts
+165377	Acts
+165379	Acts
+165381	Acts
+165385	Acts
+Acts
+165388	Acts
+165390	Acts
+165392	Acts
+165394	Acts
+165396	Acts
+165398	Acts
+165400	Acts
+165402	Acts
+165404	Acts
+Acts
+165407	Acts
+165409	Acts
+165411	Acts
+165414	Acts
+Acts
+165418	Acts
+165421	Acts
+165423	Acts
+165425	Acts
+Acts
+Acts
+165429	Acts
+165431	Acts
+165433	Acts
+Acts
+165437	Acts
+165439	Acts
+165442	Acts
+165444	Acts
+Acts
+165448	Acts
+Acts
+Acts
+165452	Acts
+Acts
+Acts
+Acts
+165457	Acts
+165459	Acts
+165462	Acts
+165464	Acts
+Acts
+165467	Acts
+Acts
+165470	Acts
+165472	Acts
+165474	Acts
+165478	Acts
+Acts
+Acts
+165482	Acts
+Acts
+Acts
+165486	Acts
+165488	Acts
+Acts
+165491	Acts
+Acts
+165494	Acts
+165496	Acts
+165498	Acts
+Acts
+Acts
+165502	Acts
+Acts
+165506	Acts
+Acts
+165509	Acts
+165511	Acts
+Acts
+Acts
+165516	Acts
+Acts
+Acts
+165520	Acts
+165522	Acts
+Acts
+165525	Acts
+Acts
+165528	Acts
+Acts
+165531	Acts
+Acts
+Acts
+Acts
+165538	Acts
+Acts
+Acts
+165542	Acts
+Acts
+165545	Acts
+Acts
+Acts
+Acts
+165550	Acts
+165552	Acts
+Acts
+165555	Acts
+Acts
+Acts
+165559	Acts
+Acts
+Acts
+165566	Acts
+Acts
+Acts
+165572	Acts
+165574	Acts
+Acts
+165577	Acts
+Acts
+165580	Acts
+165582	Acts
+165584	Acts
+Acts
+Acts
+165588	Acts
+Acts
+165591	Acts
+165593	Acts
+Acts
+Acts
+Acts
+165598	Acts
+165600	Acts
+Acts
+165603	Acts
+165605	Acts
+165607	Acts
+165609	Acts
+165611	Acts
+Acts
+165614	Acts
+165616	Acts
+165620	Acts
+165622	Acts
+Acts
+165625	Acts
+Acts
+165628	Acts
+165630	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+165637	Acts
+165639	Acts
+Acts
+165642	Acts
+165644	Acts
+165646	Acts
+Acts
+165649	Acts
+Acts
+Acts
+165653	Acts
+165655	Acts
+165662	Acts
+Acts
+165665	Acts
+165667	Acts
+165669	Acts
+165672	Acts
+165674	Acts
+165676	Acts
+Acts
+165679	Acts
+165681	Acts
+Acts
+Acts
+165685	Acts
+165687	Acts
+Acts
+Acts
+165691	Acts
+165693	Acts
+Acts
+165696	Acts
+165698	Acts
+Acts
+165701	Acts
+Acts
+165704	Acts
+Acts
+165707	Acts
+Acts
+165711	Acts
+Acts
+Acts
+165716	Acts
+Acts
+165719	Acts
+165721	Acts
+165723	Acts
+165726	Acts
+165728	Acts
+165730	Acts
+Acts
+Acts
+Acts
+165738	Acts
+165740	Acts
+Acts
+165743	Acts
+Acts
+165746	Acts
+165748	Acts
+165751	Acts
+165753	Acts
+Acts
+165756	Acts
+165759	Acts
+Acts
+165762	Acts
+Acts
+165766	Acts
+165768	Acts
+Acts
+Acts
+165772	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+165779	Acts
+165781	Acts
+165783	Acts
+165786	Acts
+Acts
+165789	Acts
+165793	Acts
+165796	Acts
+Acts
+Acts
+Acts
+Acts
+165804	Acts
+Acts
+165807	Acts
+165809	Acts
+Acts
+Acts
+Acts
+165814	Acts
+165816	Acts
+Acts
+165819	Acts
+165821	Acts
+Acts
+165824	Acts
+Acts
+Acts
+165828	Acts
+165830	Acts
+165832	Acts
+Acts
+165835	Acts
+Acts
+Acts
+165840	Acts
+165842	Acts
+165844	Acts
+165847	Acts
+165849	Acts
+Acts
+165853	Acts
+Acts
+Acts
+165857	Acts
+Acts
+165861	Acts
+Acts
+165865	Acts
+165867	Acts
+Acts
+Acts
+165871	Acts
+165873	Acts
+Acts
+165876	Acts
+Acts
+165879	Acts
+Acts
+Acts
+Acts
+Acts
+165886	Acts
+165888	Acts
+165890	Acts
+Acts
+165893	Acts
+165895	Acts
+Acts
+Acts
+165899	Acts
+165902	Acts
+Acts
+165905	Acts
+165908	Acts
+165910	Acts
+165912	Acts
+Acts
+Acts
+165916	Acts
+Acts
+Acts
+165920	Acts
+Acts
+165924	Acts
+165926	Acts
+Acts
+Acts
+Acts
+165931	Acts
+165933	Acts
+Acts
+Acts
+Acts
+Acts
+165940	Acts
+Acts
+165943	Acts
+165946	Acts
+Acts
+165949	Acts
+Acts
+Acts
+Acts
+Acts
+165955	Acts
+Acts
+165958	Acts
+165962	Acts
+165964	Acts
+165966	Acts
+165968	Acts
+165970	Acts
+Acts
+165973	Acts
+165975	Acts
+Acts
+165978	Acts
+165980	Acts
+Acts
+165983	Acts
+165985	Acts
+165987	Acts
+Acts
+165991	Acts
+165993	Acts
+165995	Acts
+Acts
+165998	Acts
+166000	Acts
+Acts
+Acts
+166005	Acts
+166007	Acts
+Acts
+166011	Acts
+Acts
+Acts
+166015	Acts
+166017	Acts
+166019	Acts
+Acts
+Acts
+166023	Acts
+166025	Acts
+166027	Acts
+166029	Acts
+166031	Acts
+166033	Acts
+Acts
+166036	Acts
+Acts
+166039	Acts
+166041	Acts
+166044	Acts
+Acts
+166047	Acts
+166050	Acts
+166052	Acts
+166055	Acts
+Acts
+Acts
+166059	Acts
+166061	Acts
+Acts
+166064	Acts
+Acts
+166067	Acts
+Acts
+Acts
+166071	Acts
+166073	Acts
+166075	Acts
+166079	Acts
+166081	Acts
+Acts
+166084	Acts
+166086	Acts
+Acts
+166089	Acts
+166091	Acts
+166096	Acts
+Acts
+Acts
+166100	Acts
+166102	Acts
+166104	Acts
+Acts
+166108	Acts
+166110	Acts
+Acts
+Acts
+166114	Acts
+166116	Acts
+166118	Acts
+166120	Acts
+166122	Acts
+Acts
+166125	Acts
+Acts
+166128	Acts
+166130	Acts
+166132	Acts
+166134	Acts
+166136	Acts
+166138	Acts
+166140	Acts
+166142	Acts
+166144	Acts
+166146	Acts
+166148	Acts
+Acts
+166151	Acts
+166153	Acts
+166155	Acts
+Acts
+166158	Acts
+166161	Acts
+Acts
+Acts
+166165	Acts
+166167	Acts
+166171	Acts
+166173	Acts
+Acts
+Acts
+166177	Acts
+Acts
+Acts
+166181	Acts
+Acts
+166184	Acts
+166186	Acts
+Acts
+166189	Acts
+Acts
+166193	Acts
+166195	Acts
+166197	Acts
+166199	Acts
+Acts
+166204	Acts
+Acts
+166207	Acts
+Acts
+166210	Acts
+166213	Acts
+166216	Acts
+166218	Acts
+Acts
+166222	Acts
+Acts
+Acts
+166226	Acts
+166228	Acts
+Acts
+Acts
+Acts
+Acts
+166234	Acts
+166237	Acts
+Acts
+166240	Acts
+166242	Acts
+166244	Acts
+Acts
+166247	Acts
+166250	Acts
+Acts
+Acts
+Acts
+Acts
+166256	Acts
+166258	Acts
+Acts
+Acts
+166262	Acts
+Acts
+166265	Acts
+Acts
+Acts
+166269	Acts
+Acts
+Acts
+Acts
+166274	Acts
+Acts
+166277	Acts
+Acts
+166280	Acts
+Acts
+166283	Acts
+166285	Acts
+Acts
+166288	Acts
+Acts
+166291	Acts
+166293	Acts
+Acts
+Acts
+166298	Acts
+166300	Acts
+Acts
+166303	Acts
+Acts
+166306	Acts
+Acts
+166309	Acts
+166311	Acts
+166313	Acts
+166315	Acts
+Acts
+166318	Acts
+Acts
+166321	Acts
+166323	Acts
+Acts
+166326	Acts
+Acts
+166329	Acts
+166332	Acts
+Acts
+166335	Acts
+Acts
+166339	Acts
+Acts
+166343	Acts
+166345	Acts
+Acts
+Acts
+Acts
+166351	Acts
+166353	Acts
+Acts
+Acts
+166358	Acts
+166360	Acts
+166362	Acts
+Acts
+166365	Acts
+Acts
+166368	Acts
+166370	Acts
+Acts
+166373	Acts
+Acts
+166376	Acts
+Acts
+166379	Acts
+166381	Acts
+Acts
+Acts
+166387	Acts
+Acts
+Acts
+166393	Acts
+Acts
+166397	Acts
+166400	Acts
+Acts
+Acts
+166404	Acts
+166406	Acts
+166409	Acts
+166411	Acts
+Acts
+Acts
+Acts
+166416	Acts
+Acts
+166419	Acts
+Acts
+166422	Acts
+166424	Acts
+166426	Acts
+Acts
+Acts
+166430	Acts
+Acts
+166433	Acts
+Acts
+166436	Acts
+166438	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+166446	Acts
+Acts
+166449	Acts
+166451	Acts
+Acts
+166454	Acts
+166456	Acts
+Acts
+166459	Acts
+Acts
+166462	Acts
+166464	Acts
+166466	Acts
+Acts
+166470	Acts
+166472	Acts
+166474	Acts
+Acts
+Acts
+166478	Acts
+Acts
+Acts
+Acts
+166483	Acts
+Acts
+166486	Acts
+Acts
+166489	Acts
+Acts
+Acts
+Acts
+166494	Acts
+Acts
+166498	Acts
+Acts
+166501	Acts
+Acts
+166504	Acts
+Acts
+166507	Acts
+Acts
+166510	Acts
+166513	Acts
+166515	Acts
+166517	Acts
+166519	Acts
+Acts
+Acts
+166523	Acts
+166525	Acts
+Acts
+166528	Acts
+Acts
+166531	Acts
+166533	Acts
+Acts
+Acts
+166537	Acts
+Acts
+166541	Acts
+166543	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+166553	Acts
+166555	Acts
+Acts
+Acts
+166559	Acts
+166561	Acts
+Acts
+166564	Acts
+Acts
+166568	Acts
+Acts
+Acts
+166572	Acts
+Acts
+166575	Acts
+Acts
+166579	Acts
+166581	Acts
+Acts
+166584	Acts
+166586	Acts
+Acts
+Acts
+166590	Acts
+Acts
+166593	Acts
+Acts
+Acts
+166597	Acts
+166599	Acts
+Acts
+166602	Acts
+166604	Acts
+Acts
+166607	Acts
+Acts
+166610	Acts
+Acts
+166613	Acts
+Acts
+Acts
+Acts
+166618	Acts
+Acts
+Acts
+Acts
+166623	Acts
+166626	Acts
+166628	Acts
+166631	Acts
+Acts
+Acts
+166635	Acts
+Acts
+166638	Acts
+166640	Acts
+Acts
+Acts
+Acts
+166645	Acts
+Acts
+166648	Acts
+166650	Acts
+166652	Acts
+Acts
+166655	Acts
+166660	Acts
+Acts
+Acts
+Acts
+166667	Acts
+Acts
+166671	Acts
+166674	Acts
+Acts
+Acts
+166678	Acts
+166680	Acts
+166682	Acts
+Acts
+Acts
+166686	Acts
+Acts
+Acts
+166690	Acts
+166692	Acts
+166694	Acts
+166696	Acts
+Acts
+166699	Acts
+Acts
+166702	Acts
+166704	Acts
+Acts
+Acts
+166709	Acts
+166711	Acts
+Acts
+166714	Acts
+166716	Acts
+166718	Acts
+166720	Acts
+166722	Acts
+166725	Acts
+166727	Acts
+Acts
+Acts
+Acts
+166732	Acts
+166734	Acts
+Acts
+166737	Acts
+Acts
+166740	Acts
+166743	Acts
+166745	Acts
+166747	Acts
+166750	Acts
+166752	Acts
+166754	Acts
+Acts
+166757	Acts
+Acts
+166760	Acts
+166762	Acts
+166764	Acts
+166766	Acts
+166768	Acts
+166770	Acts
+Acts
+166773	Acts
+Acts
+166776	Acts
+166778	Acts
+Acts
+Acts
+166784	Acts
+166786	Acts
+Acts
+166789	Acts
+Acts
+166792	Acts
+166794	Acts
+166796	Acts
+166798	Acts
+166800	Acts
+166802	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+166812	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+166820	Acts
+Acts
+166823	Acts
+166825	Acts
+Acts
+Acts
+166829	Acts
+Acts
+166832	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+166840	Acts
+166842	Acts
+166845	Acts
+Acts
+Acts
+Acts
+166850	Acts
+166852	Acts
+Acts
+166855	Acts
+166857	Acts
+Acts
+Acts
+Acts
+166862	Acts
+166864	Acts
+Acts
+166867	Acts
+166869	Acts
+166871	Acts
+Acts
+166874	Acts
+166876	Acts
+Acts
+166879	Acts
+166881	Acts
+166883	Acts
+Acts
+Acts
+166887	Acts
+Acts
+166891	Acts
+Acts
+166894	Acts
+Acts
+166897	Acts
+166899	Acts
+Acts
+Acts
+166903	Acts
+166905	Acts
+166908	Acts
+Acts
+166911	Acts
+Acts
+166915	Acts
+Acts
+Acts
+Acts
+166920	Acts
+Acts
+166923	Acts
+Acts
+Acts
+166927	Acts
+Acts
+166930	Acts
+Acts
+166933	Acts
+Acts
+166936	Acts
+Acts
+166939	Acts
+Acts
+166942	Acts
+166944	Acts
+Acts
+Acts
+Acts
+166949	Acts
+Acts
+166953	Acts
+Acts
+166956	Acts
+Acts
+166959	Acts
+166961	Acts
+Acts
+166964	Acts
+Acts
+Acts
+166968	Acts
+Acts
+166971	Acts
+166974	Acts
+166976	Acts
+Acts
+166979	Acts
+166981	Acts
+Acts
+Acts
+166985	Acts
+Acts
+166988	Acts
+166990	Acts
+Acts
+166993	Acts
+Acts
+166996	Acts
+166999	Acts
+167001	Acts
+Acts
+167004	Acts
+167006	Acts
+Acts
+167012	Acts
+167017	Acts
+167019	Acts
+Acts
+167022	Acts
+167024	Acts
+Acts
+Acts
+167028	Acts
+167030	Acts
+167033	Acts
+Acts
+167036	Acts
+167038	Acts
+Acts
+167041	Acts
+167043	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+167050	Acts
+167052	Acts
+167054	Acts
+Acts
+Acts
+167058	Acts
+Acts
+Acts
+167067	Acts
+Acts
+167071	Acts
+Acts
+167074	Acts
+Acts
+167077	Acts
+167080	Acts
+Acts
+Acts
+Acts
+167085	Acts
+Acts
+167088	Acts
+Acts
+167091	Acts
+Acts
+167094	Acts
+Acts
+167097	Acts
+Acts
+167100	Acts
+167102	Acts
+167106	Acts
+Acts
+167109	Acts
+Acts
+167112	Acts
+167119	Acts
+Acts
+Acts
+167123	Acts
+167125	Acts
+167127	Acts
+167129	Acts
+Acts
+Acts
+167133	Acts
+Acts
+167136	Acts
+167138	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+167148	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+167160	Acts
+Acts
+167163	Acts
+167165	Acts
+167167	Acts
+167169	Acts
+167171	Acts
+Acts
+167174	Acts
+Acts
+Acts
+167179	Acts
+167181	Acts
+Acts
+Acts
+167185	Acts
+Acts
+167188	Acts
+Acts
+167191	Acts
+Acts
+167194	Acts
+Acts
+167197	Acts
+Acts
+Acts
+167203	Acts
+Acts
+Acts
+167207	Acts
+167209	Acts
+Acts
+Acts
+167214	Acts
+Acts
+167217	Acts
+167219	Acts
+167221	Acts
+Acts
+167225	Acts
+167229	Acts
+167231	Acts
+Acts
+Acts
+167235	Acts
+167237	Acts
+167239	Acts
+167241	Acts
+Acts
+167245	Acts
+167247	Acts
+167249	Acts
+Acts
+Acts
+Acts
+Acts
+167255	Acts
+Acts
+Acts
+167259	Acts
+Acts
+167262	Acts
+167264	Acts
+Acts
+Acts
+167268	Acts
+Acts
+Acts
+167272	Acts
+Acts
+167275	Acts
+167277	Acts
+Acts
+167280	Acts
+Acts
+167283	Acts
+Acts
+167286	Acts
+167288	Acts
+Acts
+167291	Acts
+Acts
+167294	Acts
+167296	Acts
+Acts
+167299	Acts
+167301	Acts
+Acts
+167304	Acts
+167306	Acts
+Acts
+167310	Acts
+167313	Acts
+167315	Acts
+Acts
+167318	Acts
+167321	Acts
+167323	Acts
+167325	Acts
+167327	Acts
+167331	Acts
+Acts
+167336	Acts
+Acts
+167339	Acts
+Acts
+Acts
+167344	Acts
+167347	Acts
+167349	Acts
+167352	Acts
+167355	Acts
+167357	Acts
+Acts
+167361	Acts
+167363	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+167373	Acts
+Acts
+Acts
+167377	Acts
+167379	Acts
+167381	Acts
+167383	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+167390	Acts
+167392	Acts
+167394	Acts
+167396	Acts
+167398	Acts
+167400	Acts
+Acts
+167403	Acts
+167405	Acts
+Acts
+167408	Acts
+Acts
+167411	Acts
+Acts
+167414	Acts
+Acts
+Acts
+Acts
+Acts
+167422	Acts
+Acts
+Acts
+167426	Acts
+Acts
+Acts
+167430	Acts
+Acts
+167434	Acts
+Acts
+167437	Acts
+167439	Acts
+167442	Acts
+Acts
+167445	Acts
+Acts
+Acts
+167449	Acts
+Acts
+Acts
+167453	Acts
+167455	Acts
+Acts
+167458	Acts
+167461	Acts
+Acts
+Acts
+167466	Acts
+Acts
+167469	Acts
+Acts
+Acts
+Acts
+167474	Acts
+Acts
+167477	Acts
+Acts
+Acts
+Acts
+Acts
+167483	Acts
+Acts
+167486	Acts
+167488	Acts
+167491	Acts
+167493	Acts
+167495	Acts
+Acts
+167499	Acts
+Acts
+Acts
+167503	Acts
+Acts
+167507	Acts
+167513	Acts
+Acts
+167517	Acts
+167519	Acts
+167521	Acts
+Acts
+167526	Acts
+Acts
+167529	Acts
+Acts
+Acts
+167533	Acts
+167535	Acts
+167537	Acts
+Acts
+167540	Acts
+167542	Acts
+167544	Acts
+Acts
+Acts
+167549	Acts
+167551	Acts
+Acts
+167554	Acts
+167556	Acts
+Acts
+167559	Acts
+167561	Acts
+167564	Acts
+167566	Acts
+Acts
+Acts
+Acts
+167573	Acts
+Acts
+Acts
+167577	Acts
+167579	Acts
+Acts
+167582	Acts
+167585	Acts
+167587	Acts
+Acts
+167591	Acts
+Acts
+167594	Acts
+Acts
+167597	Acts
+167599	Acts
+Acts
+167602	Acts
+167604	Acts
+167606	Acts
+167608	Acts
+167610	Acts
+167613	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+167620	Acts
+Acts
+Acts
+Acts
+167625	Acts
+167630	Acts
+167632	Acts
+Acts
+Acts
+167637	Acts
+Acts
+167640	Acts
+167642	Acts
+167644	Acts
+Acts
+Acts
+167650	Acts
+167652	Acts
+167654	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+167662	Acts
+167664	Acts
+167666	Acts
+Acts
+167669	Acts
+167671	Acts
+Acts
+167676	Acts
+Acts
+Acts
+167681	Acts
+Acts
+167684	Acts
+Acts
+167687	Acts
+Acts
+Acts
+167692	Acts
+167694	Acts
+167696	Acts
+Acts
+167699	Acts
+167701	Acts
+167703	Acts
+167706	Acts
+167708	Acts
+Acts
+Acts
+Acts
+167713	Acts
+Acts
+167716	Acts
+167718	Acts
+Acts
+167723	Acts
+167725	Acts
+167727	Acts
+167729	Acts
+167731	Acts
+Acts
+167734	Acts
+Acts
+Acts
+167738	Acts
+167740	Acts
+167742	Acts
+167746	Acts
+Acts
+167749	Acts
+167751	Acts
+Acts
+167754	Acts
+Acts
+167757	Acts
+167759	Acts
+167761	Acts
+167764	Acts
+Acts
+Acts
+167768	Acts
+167772	Acts
+167774	Acts
+167776	Acts
+167778	Acts
+Acts
+167781	Acts
+Acts
+Acts
+167785	Acts
+167787	Acts
+Acts
+167790	Acts
+Acts
+167793	Acts
+167795	Acts
+Acts
+Acts
+167800	Acts
+Acts
+Acts
+Acts
+167805	Acts
+Acts
+167808	Acts
+Acts
+167811	Acts
+167813	Acts
+Acts
+Acts
+167817	Acts
+167819	Acts
+Acts
+Acts
+167823	Acts
+Acts
+Acts
+167827	Acts
+Acts
+Acts
+Acts
+Acts
+167833	Acts
+167836	Acts
+167838	Acts
+Acts
+Acts
+167842	Acts
+Acts
+Acts
+Acts
+167847	Acts
+167849	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+167858	Acts
+Acts
+Acts
+167862	Acts
+167864	Acts
+Acts
+167867	Acts
+Acts
+Acts
+167871	Acts
+167873	Acts
+Acts
+167876	Acts
+Acts
+167880	Acts
+Acts
+Acts
+Acts
+167885	Acts
+Acts
+Acts
+167889	Acts
+167891	Acts
+167893	Acts
+Acts
+Acts
+167897	Acts
+Acts
+Acts
+Acts
+167902	Acts
+Acts
+167905	Acts
+167907	Acts
+167909	Acts
+167911	Acts
+167913	Acts
+167915	Acts
+167917	Acts
+167919	Acts
+167921	Acts
+Acts
+167924	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+167931	Acts
+Acts
+Acts
+167935	Acts
+167937	Acts
+Acts
+167940	Acts
+Acts
+167944	Acts
+Acts
+167948	Acts
+167950	Acts
+167952	Acts
+Acts
+167955	Acts
+167958	Acts
+167960	Acts
+Acts
+167963	Acts
+167966	Acts
+Acts
+167969	Acts
+Acts
+167972	Acts
+Acts
+Acts
+Acts
+167977	Acts
+167979	Acts
+167981	Acts
+167983	Acts
+Acts
+167986	Acts
+Acts
+Acts
+Acts
+167991	Acts
+167993	Acts
+167995	Acts
+Acts
+167998	Acts
+168000	Acts
+Acts
+168003	Acts
+168005	Acts
+Acts
+168008	Acts
+Acts
+Acts
+168012	Acts
+Acts
+168015	Acts
+Acts
+168018	Acts
+168020	Acts
+Acts
+168023	Acts
+168025	Acts
+168027	Acts
+168029	Acts
+Acts
+168033	Acts
+168035	Acts
+168037	Acts
+168040	Acts
+Acts
+168043	Acts
+168045	Acts
+168047	Acts
+168049	Acts
+168052	Acts
+Acts
+168055	Acts
+168057	Acts
+168059	Acts
+Acts
+Acts
+168063	Acts
+Acts
+168066	Acts
+168068	Acts
+168071	Acts
+Acts
+168074	Acts
+Acts
+Acts
+168078	Acts
+168080	Acts
+168082	Acts
+Acts
+168086	Acts
+168089	Acts
+Acts
+168092	Acts
+Acts
+Acts
+168096	Acts
+168099	Acts
+168101	Acts
+168105	Acts
+Acts
+Acts
+Acts
+Acts
+168112	Acts
+Acts
+168115	Acts
+168119	Acts
+168121	Acts
+168123	Acts
+Acts
+168127	Acts
+168129	Acts
+Acts
+Acts
+Acts
+168135	Acts
+168138	Acts
+168140	Acts
+168142	Acts
+168144	Acts
+168148	Acts
+168150	Acts
+Acts
+168153	Acts
+Acts
+Acts
+168157	Acts
+168160	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+168168	Acts
+Acts
+168171	Acts
+Acts
+Acts
+Acts
+168176	Acts
+168178	Acts
+168180	Acts
+168182	Acts
+168184	Acts
+Acts
+Acts
+168188	Acts
+168190	Acts
+Acts
+168193	Acts
+Acts
+Acts
+168197	Acts
+Acts
+Acts
+168203	Acts
+168205	Acts
+Acts
+168209	Acts
+Acts
+Acts
+168215	Acts
+Acts
+Acts
+Acts
+168220	Acts
+168224	Acts
+168226	Acts
+168228	Acts
+168230	Acts
+168234	Acts
+168236	Acts
+168238	Acts
+Acts
+Acts
+Acts
+168247	Acts
+Acts
+Acts
+168251	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+168258	Acts
+Acts
+168261	Acts
+168263	Acts
+Acts
+Acts
+168267	Acts
+Acts
+Acts
+168272	Acts
+168274	Acts
+Acts
+168277	Acts
+Acts
+Acts
+Acts
+Acts
+168283	Acts
+Acts
+168286	Acts
+168288	Acts
+168290	Acts
+168292	Acts
+168294	Acts
+Acts
+168300	Acts
+168303	Acts
+Acts
+Acts
+168307	Acts
+168309	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+168316	Acts
+Acts
+Acts
+Acts
+Acts
+168322	Acts
+168324	Acts
+Acts
+168327	Acts
+168329	Acts
+Acts
+Acts
+168333	Acts
+168335	Acts
+168337	Acts
+168339	Acts
+168341	Acts
+168343	Acts
+168345	Acts
+168347	Acts
+Acts
+168350	Acts
+Acts
+168353	Acts
+Acts
+168356	Acts
+Acts
+Acts
+168361	Acts
+168365	Acts
+168368	Acts
+168371	Acts
+Acts
+Acts
+168375	Acts
+168377	Acts
+Acts
+168380	Acts
+168382	Acts
+Acts
+Acts
+168386	Acts
+168388	Acts
+168390	Acts
+168392	Acts
+Acts
+168395	Acts
+Acts
+168398	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+168405	Acts
+Acts
+Acts
+168409	Acts
+Acts
+Acts
+168413	Acts
+168415	Acts
+Acts
+Acts
+168419	Acts
+168421	Acts
+Acts
+Acts
+Acts
+Acts
+168427	Acts
+Acts
+168430	Acts
+168432	Acts
+Acts
+168435	Acts
+Acts
+168439	Acts
+168441	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+168449	Acts
+168451	Acts
+Acts
+Acts
+168455	Acts
+168457	Acts
+168459	Acts
+Acts
+168462	Acts
+168464	Acts
+168466	Acts
+Acts
+168469	Acts
+168471	Acts
+168473	Acts
+168475	Acts
+168477	Acts
+168479	Acts
+Acts
+168482	Acts
+Acts
+Acts
+168486	Acts
+168488	Acts
+Acts
+Acts
+168492	Acts
+Acts
+168495	Acts
+Acts
+168498	Acts
+168500	Acts
+168502	Acts
+168504	Acts
+Acts
+Acts
+168510	Acts
+168512	Acts
+Acts
+Acts
+Acts
+168517	Acts
+168519	Acts
+168521	Acts
+Acts
+168526	Acts
+168528	Acts
+168530	Acts
+168532	Acts
+168535	Acts
+168537	Acts
+168539	Acts
+Acts
+Acts
+168543	Acts
+Acts
+Acts
+Acts
+168548	Acts
+168550	Acts
+Acts
+Acts
+168554	Acts
+168556	Acts
+168558	Acts
+Acts
+Acts
+Acts
+168563	Acts
+168565	Acts
+168567	Acts
+168571	Acts
+168573	Acts
+168575	Acts
+168577	Acts
+168579	Acts
+Acts
+168583	Acts
+168585	Acts
+Acts
+168588	Acts
+168590	Acts
+Acts
+168595	Acts
+Acts
+Acts
+Acts
+168600	Acts
+168602	Acts
+168604	Acts
+Acts
+168607	Acts
+Acts
+168610	Acts
+168613	Acts
+168615	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+168623	Acts
+168625	Acts
+168627	Acts
+168630	Acts
+Acts
+Acts
+168634	Acts
+168636	Acts
+168638	Acts
+Acts
+Acts
+168642	Acts
+Acts
+Acts
+168647	Acts
+Acts
+168650	Acts
+Acts
+Acts
+168654	Acts
+168656	Acts
+Acts
+168660	Acts
+Acts
+Acts
+168664	Acts
+Acts
+Acts
+Acts
+168670	Acts
+168672	Acts
+168674	Acts
+Acts
+168677	Acts
+Acts
+168680	Acts
+Acts
+Acts
+168684	Acts
+Acts
+168687	Acts
+Acts
+Acts
+168691	Acts
+Acts
+168695	Acts
+Acts
+Acts
+168700	Acts
+Acts
+168703	Acts
+Acts
+168706	Acts
+168708	Acts
+168711	Acts
+168715	Acts
+168717	Acts
+168719	Acts
+Acts
+168723	Acts
+Acts
+168726	Acts
+Acts
+Acts
+Acts
+Acts
+168732	Acts
+Acts
+168735	Acts
+168737	Acts
+Acts
+168740	Acts
+Acts
+Acts
+168744	Acts
+Acts
+168747	Acts
+168749	Acts
+Acts
+Acts
+Acts
+Acts
+168755	Acts
+168757	Acts
+168765	Acts
+Acts
+168768	Acts
+168770	Acts
+Acts
+168773	Acts
+Acts
+Acts
+Acts
+Acts
+168779	Acts
+168781	Acts
+Acts
+168784	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+168791	Acts
+168793	Acts
+Acts
+168796	Acts
+Acts
+Acts
+168800	Acts
+168802	Acts
+Acts
+168805	Acts
+168807	Acts
+168809	Acts
+168811	Acts
+Acts
+168814	Acts
+168816	Acts
+Acts
+Acts
+Acts
+168821	Acts
+Acts
+Acts
+168827	Acts
+Acts
+Acts
+Acts
+Acts
+168833	Acts
+168835	Acts
+168837	Acts
+168839	Acts
+168841	Acts
+Acts
+168844	Acts
+Acts
+168847	Acts
+168849	Acts
+Acts
+168852	Acts
+Acts
+168856	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+168865	Acts
+168867	Acts
+168869	Acts
+168872	Acts
+168874	Acts
+168876	Acts
+168881	Acts
+Acts
+Acts
+Acts
+168886	Acts
+168889	Acts
+Acts
+168892	Acts
+168895	Acts
+168897	Acts
+168899	Acts
+Acts
+168902	Acts
+Acts
+168905	Acts
+Acts
+Acts
+168909	Acts
+168911	Acts
+168913	Acts
+168915	Acts
+Acts
+168918	Acts
+Acts
+Acts
+Acts
+168923	Acts
+Acts
+168926	Acts
+Acts
+Acts
+168930	Acts
+168932	Acts
+Acts
+Acts
+Acts
+168937	Acts
+168939	Acts
+168942	Acts
+Acts
+168945	Acts
+168947	Acts
+Acts
+168951	Acts
+168953	Acts
+168956	Acts
+Acts
+168959	Acts
+Acts
+168962	Acts
+168964	Acts
+168966	Acts
+168968	Acts
+Acts
+Acts
+168972	Acts
+168974	Acts
+Acts
+Acts
+168978	Acts
+168980	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+168988	Acts
+168992	Acts
+Acts
+Acts
+Acts
+Acts
+168998	Acts
+Acts
+169001	Acts
+Acts
+Acts
+Acts
+169006	Acts
+Acts
+169009	Acts
+169011	Acts
+169013	Acts
+169015	Acts
+Acts
+Acts
+Acts
+169021	Acts
+Acts
+Acts
+Acts
+Acts
+169028	Acts
+Acts
+Acts
+169032	Acts
+169034	Acts
+169036	Acts
+Acts
+169039	Acts
+Acts
+169042	Acts
+Acts
+169045	Acts
+Acts
+Acts
+169049	Acts
+Acts
+169052	Acts
+Acts
+Acts
+169056	Acts
+Acts
+169059	Acts
+Acts
+169062	Acts
+169064	Acts
+Acts
+169067	Acts
 169070	Acts
 Acts
+169075	Acts
 Acts
-169074	Acts
 Acts
-169077	Acts
-169079	Acts
-169081	Acts
-169083	Acts
+Acts
+169080	Acts
+169082	Acts
+Acts
 Acts
 169086	Acts
-169088	Acts
-169090	Acts
+Acts
+Acts
+Acts
+169091	Acts
+Acts
 169094	Acts
-169096	Acts
-169099	Acts
 Acts
 Acts
+169098	Acts
+Acts
+169101	Acts
 169103	Acts
+169105	Acts
+169107	Acts
 Acts
 Acts
+169111	Acts
 Acts
-169110	Acts
 169114	Acts
 Acts
 169117	Acts
-169127	Acts
+169119	Acts
+169121	Acts
+169123	Acts
+169125	Acts
 Acts
 Acts
+169129	Acts
 169131	Acts
+Acts
+169134	Acts
 169136	Acts
 Acts
-169139	Acts
-Acts
-Acts
-169146	Acts
-Acts
-Acts
-169151	Acts
 Acts
 Acts
 Acts
-169158	Acts
+Acts
+169143	Acts
+169145	Acts
+169147	Acts
+169150	Acts
+Acts
+169153	Acts
+Acts
+169156	Acts
 Acts
 Acts
-169163	Acts
+Acts
+169164	Acts
 Acts
 Acts
-169180	Acts
+Acts
+Acts
+Acts
+169172	Acts
+Acts
+Acts
+Acts
+169177	Acts
+Acts
+169182	Acts
+Acts
+169185	Acts
 169189	Acts
+169191	Acts
+169193	Acts
 Acts
-169192	Acts
-169198	Acts
 Acts
+169197	Acts
+169199	Acts
 169201	Acts
-169204	Acts
+169203	Acts
+Acts
 169206	Acts
-169209	Acts
-169211	Acts
-169215	Acts
-169218	Acts
+169208	Acts
 Acts
-169221	Acts
-169223	Acts
-169225	Acts
+Acts
+169212	Acts
+Acts
+Acts
+169217	Acts
+Acts
+169220	Acts
+Acts
+Acts
+169224	Acts
+Acts
 169227	Acts
-169229	Acts
-169231	Acts
+Acts
+169230	Acts
+169232	Acts
 169234	Acts
-169236	Acts
-169238	Acts
+Acts
+Acts
+Acts
 169240	Acts
-169242	Acts
 Acts
-169245	Acts
-169247	Acts
-169251	Acts
-169253	Acts
+Acts
+169244	Acts
+Acts
+Acts
+169248	Acts
+Acts
+Acts
+169252	Acts
+Acts
 169255	Acts
+Acts
+169258	Acts
 169261	Acts
-Acts
+169263	Acts
 169265	Acts
+169267	Acts
+Acts
+169270	Acts
 Acts
 Acts
-169271	Acts
+169274	Acts
 Acts
-169276	Acts
 Acts
-169281	Acts
-169283	Acts
-169285	Acts
-169287	Acts
+169278	Acts
+Acts
+Acts
+169284	Acts
+169286	Acts
+Acts
 169289	Acts
-169292	Acts
-169294	Acts
-169296	Acts
-169298	Acts
-169302	Acts
+169291	Acts
 Acts
-169305	Acts
-169307	Acts
-169310	Acts
-169312	Acts
 Acts
-169315	Acts
+169295	Acts
 Acts
-169318	Acts
-169324	Acts
-169326	Acts
-169328	Acts
-169330	Acts
 Acts
-169334	Acts
-169336	Acts
+169299	Acts
 Acts
+Acts
+Acts
+169306	Acts
+Acts
+169309	Acts
+Acts
+Acts
+Acts
+169314	Acts
+Acts
+169317	Acts
+169319	Acts
+Acts
+169322	Acts
+Acts
+169325	Acts
+169327	Acts
+Acts
+169331	Acts
+169333	Acts
+Acts
+169337	Acts
 Acts
 Acts
 169342	Acts
 169344	Acts
 169346	Acts
+169348	Acts
+169350	Acts
 Acts
 169354	Acts
-169370	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+169361	Acts
+169363	Acts
+Acts
+169366	Acts
+169368	Acts
+Acts
+Acts
+Acts
+169373	Acts
 169376	Acts
+Acts
 169379	Acts
-169381	Acts
 Acts
 Acts
+169383	Acts
+169385	Acts
+169387	Acts
 Acts
-169386	Acts
+169391	Acts
 Acts
-169389	Acts
-169392	Acts
 Acts
 169395	Acts
-169400	Acts
 Acts
+169398	Acts
+Acts
+169401	Acts
 169403	Acts
+169405	Acts
+Acts
+Acts
 169409	Acts
+169411	Acts
 Acts
-169412	Acts
+169416	Acts
+169419	Acts
+169422	Acts
 Acts
-169415	Acts
-169420	Acts
 Acts
-169423	Acts
 169426	Acts
+169428	Acts
 169430	Acts
 169432	Acts
-169434	Acts
-169438	Acts
-169442	Acts
-169444	Acts
 Acts
-169449	Acts
-169451	Acts
-169453	Acts
-169457	Acts
+169435	Acts
+169437	Acts
+169439	Acts
+Acts
+Acts
+169443	Acts
+Acts
+169446	Acts
+169448	Acts
+169450	Acts
+Acts
+Acts
+Acts
+Acts
+169456	Acts
 Acts
 169460	Acts
-169465	Acts
-169469	Acts
-169474	Acts
 Acts
 Acts
-169478	Acts
-169480	Acts
+169464	Acts
+Acts
+169468	Acts
 Acts
 Acts
 Acts
 Acts
 Acts
-169487	Acts
-169489	Acts
-169491	Acts
-169493	Acts
+169475	Acts
+169477	Acts
+Acts
+Acts
+Acts
+169482	Acts
+169485	Acts
+Acts
+169488	Acts
+169490	Acts
+169492	Acts
+169494	Acts
+Acts
 169497	Acts
 169499	Acts
 169501	Acts
@@ -153655,400 +156665,574 @@ Acts
 169506	Acts
 Acts
 Acts
+169510	Acts
+169512	Acts
 Acts
-169514	Acts
+169516	Acts
 Acts
+169519	Acts
 Acts
-169520	Acts
+169523	Acts
 169525	Acts
 169527	Acts
-169529	Acts
-169531	Acts
+Acts
+Acts
+Acts
+Acts
 169533	Acts
 Acts
 Acts
-169539	Acts
+169537	Acts
+Acts
+Acts
 169541	Acts
+169543	Acts
 Acts
+169546	Acts
+169550	Acts
+169552	Acts
+169554	Acts
+169556	Acts
 Acts
-169545	Acts
-169547	Acts
-169549	Acts
-169551	Acts
-169557	Acts
 169559	Acts
+169561	Acts
+169564	Acts
 Acts
-169562	Acts
-169565	Acts
-169567	Acts
+Acts
 169569	Acts
-169575	Acts
-169578	Acts
 Acts
-169581	Acts
-169585	Acts
-169591	Acts
+169573	Acts
+169575	Acts
+Acts
+169580	Acts
+169582	Acts
+169584	Acts
+Acts
+Acts
+Acts
+169590	Acts
+169592	Acts
 169594	Acts
-169596	Acts
-169599	Acts
+Acts
+Acts
+169598	Acts
+Acts
+Acts
 169602	Acts
 169604	Acts
-169609	Acts
-169613	Acts
-169615	Acts
+Acts
+Acts
+Acts
+169610	Acts
+Acts
+Acts
+169614	Acts
+Acts
+Acts
 Acts
 Acts
 169621	Acts
 169623	Acts
 169625	Acts
-169627	Acts
+Acts
+Acts
+Acts
+169630	Acts
+Acts
+169633	Acts
 169635	Acts
 169637	Acts
+Acts
+169640	Acts
 169642	Acts
 169644	Acts
-169647	Acts
-169651	Acts
-169654	Acts
+169646	Acts
+Acts
+Acts
+169650	Acts
+169652	Acts
+Acts
+Acts
 169656	Acts
-169658	Acts
+Acts
 169660	Acts
-169664	Acts
-169666	Acts
-169668	Acts
+Acts
+169663	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
 169670	Acts
-169672	Acts
-169677	Acts
+Acts
+169673	Acts
 Acts
 Acts
+Acts
+169678	Acts
+169680	Acts
 169682	Acts
 169684	Acts
 169686	Acts
 Acts
+169689	Acts
+169691	Acts
 Acts
 Acts
-169692	Acts
+169696	Acts
+169698	Acts
 Acts
-169695	Acts
-Acts
-Acts
-169699	Acts
+169702	Acts
 Acts
 Acts
-169703	Acts
 169706	Acts
-169710	Acts
+169708	Acts
 Acts
 Acts
+169712	Acts
 169716	Acts
+169718	Acts
 Acts
-169720	Acts
-169726	Acts
 Acts
-169729	Acts
-169731	Acts
-169733	Acts
-169735	Acts
-169737	Acts
-169741	Acts
-169743	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+169727	Acts
+Acts
+Acts
+Acts
+169732	Acts
+169734	Acts
+Acts
+Acts
+Acts
+Acts
+169740	Acts
+169742	Acts
 169745	Acts
-169747	Acts
-169749	Acts
-169751	Acts
-169753	Acts
+Acts
+Acts
+Acts
+Acts
+169752	Acts
+169754	Acts
+Acts
 169757	Acts
-169760	Acts
+Acts
+Acts
+Acts
+Acts
 169763	Acts
-169766	Acts
+169765	Acts
+Acts
 169768	Acts
 Acts
-169775	Acts
-169777	Acts
-169779	Acts
-169783	Acts
+169771	Acts
+169773	Acts
 Acts
-169793	Acts
-169795	Acts
+169776	Acts
 Acts
 Acts
-169801	Acts
-169805	Acts
+169780	Acts
+169782	Acts
+169784	Acts
 Acts
-169809	Acts
 Acts
 Acts
-169814	Acts
-169816	Acts
-169820	Acts
-169825	Acts
-169827	Acts
-169829	Acts
-169831	Acts
+169789	Acts
+169791	Acts
 Acts
+169798	Acts
+Acts
+Acts
+169802	Acts
+Acts
+Acts
+169806	Acts
+169808	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+169815	Acts
+Acts
+Acts
+169819	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+169832	Acts
 169834	Acts
-169838	Acts
-169842	Acts
-169844	Acts
-169847	Acts
+169836	Acts
+169840	Acts
 Acts
-169850	Acts
-169852	Acts
-169854	Acts
-169856	Acts
-169859	Acts
+Acts
+169844	Acts
+169846	Acts
+Acts
+Acts
+169851	Acts
+Acts
+Acts
+Acts
+Acts
+169858	Acts
 Acts
 169862	Acts
-169864	Acts
 Acts
-169868	Acts
-169870	Acts
-169874	Acts
 Acts
-169879	Acts
+169866	Acts
 Acts
-169882	Acts
+Acts
+169872	Acts
+Acts
+169875	Acts
+169877	Acts
+Acts
+Acts
+169881	Acts
+Acts
 Acts
 Acts
 Acts
 169887	Acts
-169890	Acts
 Acts
-169895	Acts
+Acts
+169891	Acts
+Acts
+Acts
+Acts
+169896	Acts
 169898	Acts
-169900	Acts
-169904	Acts
-169907	Acts
-169909	Acts
-169912	Acts
-169914	Acts
-169916	Acts
-169920	Acts
 Acts
-169926	Acts
-169933	Acts
+169901	Acts
+Acts
+Acts
+169905	Acts
+169907	Acts
+Acts
+169912	Acts
+Acts
+Acts
+169916	Acts
+169918	Acts
+Acts
+Acts
+169922	Acts
+169924	Acts
+Acts
+169927	Acts
+Acts
+169930	Acts
+Acts
+Acts
+Acts
 169935	Acts
 Acts
+169938	Acts
+169941	Acts
 Acts
-169940	Acts
-Acts
-169947	Acts
+169944	Acts
 Acts
 Acts
-169953	Acts
+169949	Acts
+Acts
+169952	Acts
+Acts
+169955	Acts
+Acts
 Acts
 169959	Acts
+169961	Acts
+Acts
+169964	Acts
 Acts
 Acts
-169965	Acts
 169968	Acts
-169971	Acts
+Acts
+Acts
+Acts
 169973	Acts
+Acts
+Acts
 169977	Acts
-Acts
-Acts
 169982	Acts
-169984	Acts
-169988	Acts
-169991	Acts
-169993	Acts
-169995	Acts
-169997	Acts
-169999	Acts
-Acts
-Acts
-170004	Acts
-Acts
-170007	Acts
 Acts
 Acts
 Acts
 Acts
-170015	Acts
-170017	Acts
-170019	Acts
+Acts
+Acts
+169990	Acts
+Acts
+Acts
+Acts
+Acts
+169996	Acts
+170000	Acts
+170002	Acts
+Acts
+170005	Acts
+170008	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+170018	Acts
+Acts
 170021	Acts
-Acts
-170026	Acts
-Acts
-Acts
-170030	Acts
+170024	Acts
 Acts
 Acts
-170036	Acts
-170039	Acts
-170043	Acts
-170045	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+170033	Acts
+Acts
+Acts
+170037	Acts
+170040	Acts
+170042	Acts
+170044	Acts
 170047	Acts
 Acts
-170050	Acts
 Acts
 Acts
-170056	Acts
+Acts
+170053	Acts
 Acts
 Acts
-170060	Acts
-170062	Acts
+170057	Acts
+170059	Acts
+Acts
+Acts
+Acts
 170064	Acts
-170066	Acts
-170068	Acts
-170071	Acts
 Acts
-170074	Acts
+170067	Acts
 Acts
-170080	Acts
+170070	Acts
+170072	Acts
 Acts
-170083	Acts
 Acts
-170088	Acts
+Acts
+Acts
+170078	Acts
+Acts
+Acts
+Acts
+Acts
+170084	Acts
+170087	Acts
+170091	Acts
+Acts
 170094	Acts
+Acts
 170098	Acts
-170100	Acts
+Acts
 170102	Acts
-170104	Acts
-170108	Acts
-170111	Acts
-170118	Acts
+Acts
+Acts
+170106	Acts
+Acts
+170109	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+170116	Acts
+170120	Acts
 Acts
 Acts
 170124	Acts
-170127	Acts
 Acts
-170131	Acts
-170133	Acts
-170138	Acts
 Acts
+170128	Acts
+Acts
+Acts
+Acts
+Acts
+170134	Acts
+Acts
+170137	Acts
 Acts
 170142	Acts
-170145	Acts
-170147	Acts
+Acts
+170146	Acts
+170148	Acts
 170150	Acts
 170152	Acts
+Acts
+170155	Acts
 170157	Acts
 Acts
-170160	Acts
+Acts
+Acts
+Acts
 Acts
 170164	Acts
-170167	Acts
-170169	Acts
-170172	Acts
+170166	Acts
+170168	Acts
+170171	Acts
+Acts
 Acts
 170176	Acts
-170178	Acts
-170180	Acts
+170179	Acts
+Acts
 170182	Acts
+Acts
 170185	Acts
-170192	Acts
+Acts
+Acts
+170189	Acts
+Acts
+Acts
 Acts
 170195	Acts
+170198	Acts
+170200	Acts
 Acts
 Acts
-170199	Acts
-170203	Acts
+170205	Acts
 Acts
-170208	Acts
 Acts
-170211	Acts
+170209	Acts
 Acts
-170214	Acts
+170213	Acts
 Acts
-170218	Acts
-170220	Acts
-170223	Acts
 Acts
-170226	Acts
+170217	Acts
+170219	Acts
+170221	Acts
 Acts
+170225	Acts
+170227	Acts
 Acts
 170230	Acts
-170232	Acts
 Acts
-170235	Acts
-Acts
-Acts
+170233	Acts
+170236	Acts
 170239	Acts
-170241	Acts
-170244	Acts
+170243	Acts
 Acts
-170247	Acts
-Acts
+170249	Acts
 170251	Acts
-170253	Acts
 Acts
-170256	Acts
-170258	Acts
 Acts
-170261	Acts
-170263	Acts
 Acts
-170268	Acts
-170270	Acts
-170272	Acts
 Acts
+170257	Acts
+Acts
+Acts
+170262	Acts
+Acts
+Acts
+170266	Acts
+170269	Acts
+170271	Acts
 Acts
 Acts
 170277	Acts
-170279	Acts
-170282	Acts
-170284	Acts
+Acts
+Acts
+170281	Acts
+170283	Acts
+170285	Acts
 170287	Acts
+170290	Acts
 Acts
-Acts
-170291	Acts
 Acts
 170294	Acts
-170298	Acts
+Acts
+170297	Acts
+Acts
 170300	Acts
+170302	Acts
 170304	Acts
-170307	Acts
+Acts
 Acts
 170310	Acts
-170312	Acts
+170313	Acts
+170315	Acts
 Acts
-170318	Acts
-170320	Acts
+Acts
+170323	Acts
 170325	Acts
-170327	Acts
+Acts
+Acts
 170329	Acts
+170332	Acts
 Acts
-170334	Acts
 Acts
-170338	Acts
+170336	Acts
+170339	Acts
+170341	Acts
 Acts
-170344	Acts
+170345	Acts
 170347	Acts
-170349	Acts
-170352	Acts
-170354	Acts
 Acts
-170357	Acts
-170359	Acts
 Acts
-170363	Acts
 Acts
-170366	Acts
-170369	Acts
 Acts
-170376	Acts
+170353	Acts
+170355	Acts
 Acts
-170379	Acts
+Acts
+Acts
+Acts
+Acts
+170362	Acts
+170364	Acts
+Acts
+170367	Acts
+Acts
+Acts
+170371	Acts
+170373	Acts
+Acts
+Acts
+170377	Acts
+Acts
+Acts
 Acts
 170382	Acts
+170384	Acts
+170386	Acts
 Acts
 Acts
-170387	Acts
-170389	Acts
-170391	Acts
-170393	Acts
+170392	Acts
 Acts
-170398	Acts
+170397	Acts
+170400	Acts
 170402	Acts
 170404	Acts
-170406	Acts
+Acts
 Acts
 170409	Acts
 Acts
-170412	Acts
-170414	Acts
-170417	Acts
+Acts
+Acts
+170415	Acts
+Acts
+Acts
 Acts
 Acts
 170421	Acts
@@ -154057,14178 +157241,10994 @@ Acts
 Acts
 170428	Acts
 Acts
-170431	Acts
 Acts
-170434	Acts
+170432	Acts
 Acts
-170437	Acts
+Acts
+Acts
+Acts
+Acts
 Acts
 170440	Acts
 Acts
-170445	Acts
+170443	Acts
 Acts
-170448	Acts
+170446	Acts
 Acts
+170449	Acts
 170451	Acts
 Acts
-Acts
+170456	Acts
 170458	Acts
 170460	Acts
-170463	Acts
-170465	Acts
+Acts
+Acts
+170464	Acts
 170467	Acts
-170469	Acts
-170472	Acts
 Acts
-170475	Acts
+170470	Acts
+170473	Acts
 Acts
-170479	Acts
+170476	Acts
+170478	Acts
 Acts
-170483	Acts
 Acts
-170486	Acts
+Acts
+Acts
+170484	Acts
+Acts
+170487	Acts
+170489	Acts
 170491	Acts
-Acts
-Acts
-170495	Acts
-Acts
+170494	Acts
+170496	Acts
 Acts
 170499	Acts
-170502	Acts
 Acts
-170505	Acts
+170503	Acts
+Acts
+Acts
+Acts
 170508	Acts
+Acts
 170511	Acts
-170513	Acts
-170515	Acts
+Acts
+170514	Acts
+170516	Acts
 Acts
 170519	Acts
-170521	Acts
-170523	Acts
-170528	Acts
-170531	Acts
-170534	Acts
-170536	Acts
 Acts
+Acts
+170523	Acts
+Acts
+170526	Acts
+170528	Acts
+Acts
+Acts
+170533	Acts
+Acts
+Acts
+Acts
+170538	Acts
 Acts
 170541	Acts
-170544	Acts
 Acts
 Acts
 Acts
-170549	Acts
+Acts
+Acts
+Acts
+Acts
+170550	Acts
+Acts
 170553	Acts
+170555	Acts
+170557	Acts
 Acts
-170556	Acts
-Acts
-170559	Acts
-170563	Acts
-170565	Acts
-Acts
-170570	Acts
-Acts
-170573	Acts
-170575	Acts
+170560	Acts
+170562	Acts
 Acts
 Acts
+170566	Acts
+Acts
+170569	Acts
+170571	Acts
 Acts
 Acts
-170581	Acts
-170584	Acts
-170587	Acts
-170589	Acts
-170594	Acts
-170596	Acts
-170610	Acts
-170612	Acts
+170576	Acts
 Acts
-170616	Acts
-170619	Acts
-170621	Acts
+170579	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+170586	Acts
+Acts
+Acts
+170590	Acts
+Acts
+170593	Acts
+170595	Acts
+Acts
+170599	Acts
+Acts
+170602	Acts
+170604	Acts
+170606	Acts
+170608	Acts
+Acts
+170611	Acts
+Acts
+Acts
+170615	Acts
+Acts
+170618	Acts
+Acts
+Acts
 170623	Acts
-170630	Acts
-170634	Acts
+170625	Acts
+170627	Acts
+170629	Acts
+Acts
+170632	Acts
+Acts
+Acts
+Acts
+170637	Acts
+Acts
 170640	Acts
-170642	Acts
 Acts
-170647	Acts
+170643	Acts
+170646	Acts
+Acts
+170649	Acts
+Acts
+170653	Acts
 Acts
 Acts
-170651	Acts
 Acts
-170657	Acts
-170663	Acts
 Acts
-170667	Acts
+Acts
+Acts
+170662	Acts
+Acts
+170665	Acts
+Acts
+Acts
 170669	Acts
+170671	Acts
+170673	Acts
 Acts
 Acts
 Acts
-170676	Acts
 Acts
-170680	Acts
-170683	Acts
+170679	Acts
+Acts
+Acts
+Acts
 170685	Acts
-170687	Acts
+Acts
 Acts
 170690	Acts
 170692	Acts
-170694	Acts
+Acts
 170696	Acts
-170698	Acts
+Acts
+170699	Acts
+170701	Acts
+170703	Acts
 170705	Acts
-170707	Acts
-170709	Acts
+Acts
+170708	Acts
+Acts
+Acts
 170712	Acts
-170714	Acts
-170716	Acts
-170720	Acts
+Acts
+Acts
+Acts
+170717	Acts
+Acts
+Acts
+Acts
+Acts
 170723	Acts
 Acts
 Acts
 170727	Acts
-170729	Acts
-170731	Acts
-170735	Acts
-170737	Acts
-170739	Acts
-170741	Acts
-170743	Acts
 Acts
-170746	Acts
-170749	Acts
-170751	Acts
-170756	Acts
+Acts
+170731	Acts
+170733	Acts
+Acts
+Acts
+170737	Acts
+Acts
+170740	Acts
+170742	Acts
+Acts
+Acts
+Acts
+170748	Acts
+170750	Acts
+Acts
+170753	Acts
+170755	Acts
+Acts
 Acts
 170760	Acts
+Acts
 170763	Acts
-170765	Acts
-170767	Acts
+Acts
+170766	Acts
+170768	Acts
+170770	Acts
 170772	Acts
 170774	Acts
-170776	Acts
-170778	Acts
-170780	Acts
 Acts
+170778	Acts
+Acts
+Acts
+170783	Acts
 170785	Acts
 170787	Acts
-170790	Acts
-170795	Acts
-Acts
-170802	Acts
-170806	Acts
-170808	Acts
-170810	Acts
 Acts
 Acts
-170815	Acts
-170817	Acts
-170820	Acts
 Acts
-170827	Acts
-170831	Acts
-170835	Acts
-170837	Acts
-170839	Acts
+170792	Acts
+170797	Acts
+170799	Acts
+170801	Acts
+170803	Acts
+Acts
+Acts
+170807	Acts
+Acts
+Acts
+170811	Acts
+Acts
+170814	Acts
+170816	Acts
+Acts
+170819	Acts
+170821	Acts
+170823	Acts
+170825	Acts
+Acts
+170828	Acts
+170830	Acts
+170832	Acts
+170834	Acts
+170836	Acts
+170838	Acts
+Acts
+170841	Acts
 170843	Acts
 170845	Acts
 Acts
-170849	Acts
-170851	Acts
-Acts
-Acts
-170855	Acts
-170857	Acts
-170860	Acts
-170862	Acts
-Acts
-170866	Acts
-170868	Acts
-170870	Acts
-170873	Acts
-170875	Acts
-170881	Acts
-Acts
-Acts
-170887	Acts
-Acts
-Acts
-170891	Acts
-170893	Acts
-Acts
-170897	Acts
-Acts
-170900	Acts
-170902	Acts
-170905	Acts
-Acts
-Acts
-170909	Acts
-Acts
-170912	Acts
-Acts
-170915	Acts
-170917	Acts
-Acts
-170920	Acts
-170924	Acts
-Acts
-Acts
-170929	Acts
-170931	Acts
-170933	Acts
-170936	Acts
-Acts
-170940	Acts
-Acts
-170943	Acts
-Acts
-Acts
-Acts
-170952	Acts
-Acts
-Acts
-170956	Acts
-170958	Acts
-170960	Acts
-170962	Acts
-170965	Acts
-Acts
-170969	Acts
-170971	Acts
-Acts
-170975	Acts
-Acts
-Acts
-170980	Acts
-Acts
-Acts
-170990	Acts
-Acts
-Acts
-170999	Acts
-171002	Acts
-171004	Acts
-171006	Acts
-Acts
-171011	Acts
-171015	Acts
-171018	Acts
-Acts
-Acts
-171022	Acts
-Acts
-171026	Acts
-171028	Acts
-Acts
-171031	Acts
-171033	Acts
-171035	Acts
-171038	Acts
-Acts
-171043	Acts
-171045	Acts
-171047	Acts
-171051	Acts
-171053	Acts
-Acts
-171056	Acts
-Acts
-171062	Acts
-171068	Acts
-Acts
-171071	Acts
-Acts
-171074	Acts
-171076	Acts
-Acts
-171079	Acts
-Acts
-Acts
-171083	Acts
-171086	Acts
-171088	Acts
-Acts
-171091	Acts
-171094	Acts
-171096	Acts
-171098	Acts
-171100	Acts
-171103	Acts
-Acts
-171106	Acts
-171108	Acts
-171115	Acts
-Acts
-171118	Acts
-171120	Acts
-171123	Acts
-171127	Acts
-171129	Acts
-171132	Acts
-Acts
-171135	Acts
-171138	Acts
-Acts
-Acts
-171143	Acts
-171145	Acts
-Acts
-171148	Acts
-171150	Acts
-171154	Acts
-Acts
-171157	Acts
-171159	Acts
-Acts
-171162	Acts
-Acts
-171165	Acts
-171167	Acts
-171169	Acts
-Acts
-171174	Acts
-Acts
-Acts
-171179	Acts
-Acts
-171182	Acts
-171184	Acts
-171187	Acts
-171192	Acts
-171194	Acts
-171197	Acts
-Acts
-Acts
-Acts
-171207	Acts
-171209	Acts
-Acts
-171212	Acts
-Acts
-171215	Acts
-171217	Acts
-171220	Acts
-171222	Acts
-171224	Acts
-171227	Acts
-171230	Acts
-Acts
-171233	Acts
-171235	Acts
-171238	Acts
-171240	Acts
-Acts
-171243	Acts
-171245	Acts
-Acts
-Acts
-Acts
-171250	Acts
-Acts
-171254	Acts
-171256	Acts
-171258	Acts
-171262	Acts
-Acts
-171267	Acts
-171274	Acts
-171277	Acts
-Acts
-Acts
-Acts
-Acts
-171286	Acts
-Acts
-171289	Acts
-171293	Acts
-Acts
-Acts
-Acts
-171299	Acts
-171301	Acts
-171304	Acts
-171306	Acts
-171308	Acts
-Acts
-171311	Acts
-Acts
-171314	Acts
-171316	Acts
-171318	Acts
-171320	Acts
-171322	Acts
-171324	Acts
-Acts
-171327	Acts
-171331	Acts
-171335	Acts
-171337	Acts
-171340	Acts
-171342	Acts
-Acts
-171347	Acts
-Acts
-Acts
-171351	Acts
-Acts
-171356	Acts
-Acts
-171361	Acts
-171363	Acts
-Acts
-171366	Acts
-171368	Acts
-171371	Acts
-171373	Acts
-171375	Acts
-Acts
-171378	Acts
-Acts
-171386	Acts
-Acts
-Acts
-171392	Acts
-171394	Acts
-171397	Acts
-171399	Acts
-171401	Acts
-171404	Acts
-Acts
-Acts
-171409	Acts
-171412	Acts
-Acts
-171415	Acts
-171417	Acts
-171419	Acts
-171421	Acts
-Acts
-Acts
-171425	Acts
-Acts
-171428	Acts
-171432	Acts
-Acts
-171437	Acts
-171439	Acts
-Acts
-171442	Acts
-Acts
-171445	Acts
-171447	Acts
-Acts
-Acts
-Acts
-Acts
-171455	Acts
-171457	Acts
-171459	Acts
-171463	Acts
-171465	Acts
-171467	Acts
-171469	Acts
-Acts
-Acts
-Acts
-171475	Acts
-Acts
-171479	Acts
-171484	Acts
-171487	Acts
-171489	Acts
-171492	Acts
-171494	Acts
-Acts
-171498	Acts
-171500	Acts
-Acts
-171503	Acts
-171505	Acts
-Acts
-171509	Acts
-171511	Acts
-171513	Acts
-171515	Acts
-171519	Acts
-171522	Acts
-171524	Acts
-Acts
-171528	Acts
-171530	Acts
-Acts
-Acts
-171537	Acts
-171539	Acts
-Acts
-171543	Acts
-Acts
-171546	Acts
-171550	Acts
-171552	Acts
-171554	Acts
-Acts
-171557	Acts
-171559	Acts
-171562	Acts
-171565	Acts
-171567	Acts
-171570	Acts
-171573	Acts
-Acts
-171576	Acts
-Acts
-171580	Acts
-171582	Acts
-171587	Acts
-Acts
-171590	Acts
-171593	Acts
-Acts
-171598	Acts
-171600	Acts
-Acts
-171604	Acts
-171606	Acts
-Acts
-171609	Acts
-Acts
-171612	Acts
-171614	Acts
-Acts
-171618	Acts
-171620	Acts
-171622	Acts
-171625	Acts
-171627	Acts
-Acts
-171630	Acts
-171632	Acts
-171635	Acts
-171637	Acts
-171639	Acts
-171646	Acts
-Acts
-Acts
-171651	Acts
-171654	Acts
-171656	Acts
-Acts
-171660	Acts
-171664	Acts
-171666	Acts
-171668	Acts
-171670	Acts
-171675	Acts
-171677	Acts
-171679	Acts
-171681	Acts
-Acts
-171684	Acts
-Acts
-171688	Acts
-171690	Acts
-171692	Acts
-171695	Acts
-171697	Acts
-171699	Acts
-171702	Acts
-171704	Acts
-171706	Acts
-171709	Acts
-171711	Acts
-Acts
-171715	Acts
-171717	Acts
-171720	Acts
-Acts
-171723	Acts
-171727	Acts
-Acts
-Acts
-171731	Acts
-171733	Acts
-171738	Acts
-171740	Acts
-Acts
-Acts
-171744	Acts
-Acts
-Acts
-171748	Acts
-Acts
-171751	Acts
-171754	Acts
-Acts
-171757	Acts
-171760	Acts
-171763	Acts
-171765	Acts
-171767	Acts
-171770	Acts
-Acts
-171776	Acts
-Acts
-171780	Acts
-Acts
-171783	Acts
-171787	Acts
-171791	Acts
-171793	Acts
-Acts
-171798	Acts
-Acts
-Acts
-171803	Acts
-171805	Acts
-171807	Acts
-Acts
-Acts
-Acts
-171812	Acts
-171814	Acts
-171817	Acts
-171819	Acts
-171821	Acts
-171823	Acts
-Acts
-171826	Acts
-171830	Acts
-Acts
-171833	Acts
-Acts
-Acts
-171839	Acts
-171841	Acts
-Acts
-Acts
-171845	Acts
-Acts
-171849	Acts
-Acts
-Acts
-171853	Acts
-Acts
-Acts
-Acts
-171858	Acts
-Acts
-171861	Acts
-Acts
-171864	Acts
-171866	Acts
-171868	Acts
-171872	Acts
-Acts
-171876	Acts
-171878	Acts
-171880	Acts
-171882	Acts
-Acts
-Acts
-171888	Acts
-171890	Acts
-Acts
-171894	Acts
-Acts
-171897	Acts
-Acts
-171901	Acts
-171904	Acts
-171906	Acts
-171908	Acts
-Acts
-171912	Acts
-171914	Acts
-171917	Acts
-171920	Acts
-171922	Acts
-171924	Acts
-171926	Acts
-171928	Acts
-171931	Acts
-171933	Acts
-171935	Acts
-Acts
-171939	Acts
-Acts
-171945	Acts
-171947	Acts
-171949	Acts
-Acts
-171953	Acts
-171957	Acts
-171960	Acts
-Acts
-171963	Acts
-171967	Acts
-171969	Acts
-171971	Acts
-171973	Acts
-171975	Acts
-Acts
-171979	Acts
-171981	Acts
-Acts
-171985	Acts
-171987	Acts
-171989	Acts
-171991	Acts
-171993	Acts
-171995	Acts
-Acts
-Acts
-172003	Acts
-Acts
-Acts
-172010	Acts
-172012	Acts
-172015	Acts
-172019	Acts
-Acts
-Acts
-172024	Acts
-172026	Acts
-172030	Acts
-172032	Acts
-172034	Acts
-Acts
-Acts
-172039	Acts
-Acts
-172042	Acts
-Acts
-172045	Acts
-172048	Acts
-172050	Acts
-Acts
-172053	Acts
-172057	Acts
-Acts
-172060	Acts
-Acts
-172063	Acts
-172065	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-172072	Acts
-172074	Acts
-Acts
-172080	Acts
-172082	Acts
-172084	Acts
-172086	Acts
-172088	Acts
-Acts
-172092	Acts
-Acts
-172095	Acts
-172098	Acts
-172100	Acts
-Acts
-172105	Acts
-172107	Acts
-172109	Acts
-Acts
-Acts
-172113	Acts
-Acts
-172116	Acts
-Acts
-172121	Acts
-Acts
-172124	Acts
-Acts
-172127	Acts
-Acts
-Acts
-Acts
-172133	Acts
-Acts
-172138	Acts
-Acts
-172141	Acts
-Acts
-172144	Acts
-172146	Acts
-172149	Acts
-Acts
-172152	Acts
-172154	Acts
-172156	Acts
-172159	Acts
-172161	Acts
-172163	Acts
-Acts
-172168	Acts
-172170	Acts
-Acts
-172173	Acts
-Acts
-172176	Acts
-172178	Acts
-Acts
-Acts
-172183	Acts
-Acts
-172187	Acts
-172189	Acts
-Acts
-Acts
-172193	Acts
-Acts
-172197	Acts
-172200	Acts
-Acts
-172203	Acts
-172208	Acts
-172211	Acts
-Acts
-172214	Acts
-172216	Acts
-172218	Acts
-Acts
-172221	Acts
-172223	Acts
-172227	Acts
-Acts
-172230	Acts
-172232	Acts
-Acts
-172239	Acts
-Acts
-172244	Acts
-172246	Acts
-172248	Acts
-172250	Acts
-172252	Acts
-Acts
-172255	Acts
-172257	Acts
-Acts
-172260	Acts
-Acts
-Acts
-172264	Acts
-172266	Acts
-172268	Acts
-172270	Acts
-172272	Acts
-172274	Acts
-172276	Acts
-Acts
-172279	Acts
-Acts
-172282	Acts
-172284	Acts
-Acts
-Acts
-172288	Acts
-Acts
-172291	Acts
-Acts
-172294	Acts
-172299	Acts
-172301	Acts
-172305	Acts
-Acts
-Acts
-172310	Acts
-Acts
-172313	Acts
-172315	Acts
-Acts
-Acts
-172319	Acts
-172323	Acts
-172325	Acts
-172327	Acts
-172329	Acts
-172331	Acts
-Acts
-172334	Acts
-172340	Acts
-Acts
-Acts
-Acts
-172348	Acts
-172350	Acts
-172353	Acts
-172357	Acts
-Acts
-Acts
-172362	Acts
-172364	Acts
-172366	Acts
-172368	Acts
-Acts
-172371	Acts
-Acts
-Acts
-172376	Acts
-172378	Acts
-172380	Acts
-172382	Acts
-172384	Acts
-172386	Acts
-172388	Acts
-172390	Acts
-172394	Acts
-Acts
-Acts
-172400	Acts
-172402	Acts
-Acts
-172405	Acts
-172407	Acts
-172409	Acts
-172412	Acts
-172414	Acts
-172419	Acts
-172421	Acts
-Acts
-172426	Acts
-Acts
-172429	Acts
-172432	Acts
-Acts
-172435	Acts
-Acts
-172438	Acts
-172441	Acts
-172443	Acts
-172446	Acts
-172450	Acts
-172452	Acts
-172454	Acts
-Acts
-172459	Acts
-Acts
-172464	Acts
-172466	Acts
-172469	Acts
-172472	Acts
-172475	Acts
-172477	Acts
-Acts
-172480	Acts
-172482	Acts
-172484	Acts
-172487	Acts
-Acts
-Acts
-172495	Acts
-172498	Acts
-Acts
-172501	Acts
-Acts
-172504	Acts
-172507	Acts
-172509	Acts
-172511	Acts
-172513	Acts
-172515	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-172524	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-172533	Acts
-172535	Acts
-172537	Acts
-172540	Acts
-172542	Acts
-Acts
-172545	Acts
-Acts
-172548	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-172557	Acts
-172559	Acts
-172563	Acts
-Acts
-172566	Acts
-Acts
-172569	Acts
-172571	Acts
-Acts
-172574	Acts
-172576	Acts
-Acts
-Acts
-Acts
-172581	Acts
-172583	Acts
-172585	Acts
-172587	Acts
-172589	Acts
-172591	Acts
-172593	Acts
-172595	Acts
-172598	Acts
-Acts
-172602	Acts
-172604	Acts
-172606	Acts
-Acts
-Acts
-172612	Acts
-Acts
-172619	Acts
-Acts
-172622	Acts
-Acts
-172625	Acts
-172627	Acts
-Acts
-Acts
-172632	Acts
-172634	Acts
-172638	Acts
-Acts
-172644	Acts
-Acts
-172650	Acts
-Acts
-Acts
-Acts
-172656	Acts
-Acts
-172659	Acts
-Acts
-Acts
-172663	Acts
-Acts
-172666	Acts
-Acts
-172669	Acts
-Acts
-172672	Acts
-Acts
-172676	Acts
-Acts
-172679	Acts
-172682	Acts
-Acts
-Acts
-Acts
-172687	Acts
-Acts
-172692	Acts
-Acts
-172695	Acts
-Acts
-172698	Acts
-172701	Acts
-172703	Acts
-172705	Acts
-Acts
-Acts
-172709	Acts
-Acts
-172713	Acts
-172718	Acts
-172720	Acts
-Acts
-172724	Acts
-172726	Acts
-Acts
-Acts
-172730	Acts
-172732	Acts
-172734	Acts
-172737	Acts
-Acts
-172740	Acts
-Acts
-172743	Acts
-172747	Acts
-172750	Acts
-Acts
-172754	Acts
-172756	Acts
-Acts
-172767	Acts
-172778	Acts
-172780	Acts
-Acts
-172783	Acts
-172787	Acts
-Acts
-172790	Acts
-172792	Acts
-172794	Acts
-172799	Acts
-Acts
-172802	Acts
-172804	Acts
-Acts
-172807	Acts
-172809	Acts
-Acts
-172815	Acts
-Acts
-172820	Acts
-Acts
-172824	Acts
-172826	Acts
-172830	Acts
-Acts
-Acts
-172834	Acts
-172836	Acts
-Acts
-172845	Acts
-Acts
-172849	Acts
-Acts
-172852	Acts
-Acts
-172856	Acts
-172860	Acts
-Acts
-Acts
-Acts
-172865	Acts
-Acts
-172868	Acts
-Acts
-172871	Acts
-Acts
-172875	Acts
-Acts
-172878	Acts
-Acts
-172881	Acts
-172884	Acts
-172891	Acts
-Acts
-172894	Acts
-172896	Acts
-172898	Acts
-172907	Acts
-Acts
-172911	Acts
-172917	Acts
-172919	Acts
-172921	Acts
-172923	Acts
-Acts
-Acts
-172928	Acts
-172930	Acts
-172932	Acts
-172937	Acts
-Acts
-Acts
-Acts
-Acts
-172945	Acts
-Acts
-172948	Acts
-172952	Acts
-Acts
-Acts
-Acts
-172957	Acts
-Acts
-Acts
-Acts
-172968	Acts
-Acts
-172972	Acts
-172975	Acts
-172978	Acts
-172980	Acts
-172983	Acts
-Acts
-172986	Acts
-Acts
-Acts
-172992	Acts
-172994	Acts
-Acts
-Acts
-172998	Acts
-Acts
-173002	Acts
-173004	Acts
-173006	Acts
-Acts
-173010	Acts
-Acts
-173013	Acts
-173015	Acts
-Acts
-173019	Acts
-Acts
-Acts
-173023	Acts
-173026	Acts
-Acts
-Acts
-173033	Acts
-Acts
-173036	Acts
-173038	Acts
-173040	Acts
-Acts
-173043	Acts
-173049	Acts
-173051	Acts
-173053	Acts
-Acts
-173056	Acts
-173059	Acts
-173061	Acts
-173063	Acts
-173066	Acts
-173069	Acts
-173071	Acts
-173073	Acts
-Acts
-173076	Acts
-Acts
-Acts
-173081	Acts
-Acts
-Acts
-173086	Acts
-Acts
-173090	Acts
-173094	Acts
-Acts
-Acts
-173098	Acts
-Acts
-Acts
-173103	Acts
-Acts
-173106	Acts
-173108	Acts
-Acts
-173111	Acts
-Acts
-173115	Acts
-Acts
-173120	Acts
-173122	Acts
-Acts
-173125	Acts
-Acts
-173128	Acts
-173132	Acts
-Acts
-173135	Acts
-173137	Acts
-Acts
-173140	Acts
-173143	Acts
-173145	Acts
-173149	Acts
-173153	Acts
-173156	Acts
-Acts
-173159	Acts
-173163	Acts
-173165	Acts
-173167	Acts
-173169	Acts
-173174	Acts
-Acts
-173181	Acts
-Acts
-173185	Acts
-Acts
-Acts
-173192	Acts
-173196	Acts
-173198	Acts
-173202	Acts
-173206	Acts
-173210	Acts
-Acts
-173217	Acts
-173219	Acts
-173221	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-173229	Acts
-173231	Acts
-Acts
-Acts
-173235	Acts
-173238	Acts
-173240	Acts
-173242	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-173251	Acts
-173254	Acts
-173256	Acts
-173258	Acts
-173260	Acts
-173263	Acts
-Acts
-173267	Acts
-173269	Acts
-Acts
-173274	Acts
-173276	Acts
-173278	Acts
-Acts
-173281	Acts
-Acts
-Acts
-173286	Acts
-Acts
-173292	Acts
-Acts
-Acts
-173296	Acts
-173298	Acts
-173300	Acts
-173302	Acts
-Acts
-173307	Acts
-Acts
-173310	Acts
-173313	Acts
-173317	Acts
-173319	Acts
-173321	Acts
-Acts
-Acts
-173326	Acts
-Acts
-Acts
-173330	Acts
-173332	Acts
-173334	Acts
-173336	Acts
-173341	Acts
-Acts
-173344	Acts
-173347	Acts
-Acts
-173350	Acts
-Acts
-Acts
-173354	Acts
-173357	Acts
-Acts
-173360	Acts
-Acts
-Acts
-173364	Acts
-173366	Acts
-173368	Acts
-173370	Acts
-173372	Acts
-173374	Acts
-173377	Acts
-173379	Acts
-173381	Acts
-Acts
-173386	Acts
-173388	Acts
-Acts
-173391	Acts
-Acts
-173397	Acts
-173406	Acts
-Acts
-173411	Acts
-173413	Acts
-173416	Acts
-Acts
-173422	Acts
-Acts
-173425	Acts
-173427	Acts
-Acts
-173430	Acts
-173432	Acts
-173434	Acts
-Acts
-173437	Acts
-173440	Acts
-173442	Acts
-Acts
-Acts
-173449	Acts
-173451	Acts
-173453	Acts
-173455	Acts
-173458	Acts
-173460	Acts
-173462	Acts
-173464	Acts
-173468	Acts
-173470	Acts
-Acts
-Acts
-Acts
-173478	Acts
-Acts
-173481	Acts
-173484	Acts
-173486	Acts
-Acts
-173491	Acts
-173495	Acts
-173497	Acts
-Acts
-173503	Acts
-Acts
-173506	Acts
-Acts
-173509	Acts
-173511	Acts
-173515	Acts
-173519	Acts
-173522	Acts
-173524	Acts
-173526	Acts
-173528	Acts
-173531	Acts
-Acts
-173534	Acts
-Acts
-Acts
-Acts
-173539	Acts
-173541	Acts
-Acts
-Acts
-173545	Acts
-173551	Acts
-173553	Acts
-Acts
-Acts
-173559	Acts
-Acts
-173563	Acts
-173568	Acts
-173570	Acts
-Acts
-173573	Acts
-173581	Acts
-173584	Acts
-173586	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-173597	Acts
-173602	Acts
-173605	Acts
-Acts
-173608	Acts
-173611	Acts
-173613	Acts
-173618	Acts
-Acts
-Acts
-173624	Acts
-Acts
-173627	Acts
-Acts
-173630	Acts
-Acts
-173633	Acts
-173637	Acts
-173639	Acts
-173641	Acts
-Acts
-173644	Acts
-173646	Acts
-173649	Acts
-173653	Acts
-173655	Acts
-Acts
-173658	Acts
-Acts
-173661	Acts
-Acts
-173665	Acts
-173667	Acts
-Acts
-173672	Acts
-173674	Acts
-173676	Acts
-173679	Acts
-173681	Acts
-Acts
-173685	Acts
-Acts
-Acts
-173689	Acts
-173692	Acts
-173694	Acts
-173699	Acts
-173702	Acts
-173706	Acts
-173710	Acts
-Acts
-173713	Acts
-Acts
-173717	Acts
-173719	Acts
-173721	Acts
-173725	Acts
-Acts
-Acts
-173730	Acts
-173737	Acts
-173739	Acts
-173741	Acts
-173744	Acts
-Acts
-173748	Acts
-Acts
-Acts
-173752	Acts
-173754	Acts
-Acts
-173757	Acts
-Acts
-173762	Acts
-173764	Acts
-Acts
-Acts
-173770	Acts
-Acts
-Acts
-Acts
-173775	Acts
-Acts
-173779	Acts
-Acts
-173783	Acts
-173785	Acts
-Acts
-173788	Acts
-173791	Acts
-173794	Acts
-173796	Acts
-Acts
-173799	Acts
-Acts
-Acts
-173803	Acts
-173806	Acts
-Acts
-Acts
-Acts
-173811	Acts
-173816	Acts
-173818	Acts
-Acts
-Acts
-173823	Acts
-Acts
-Acts
-Acts
-173828	Acts
-173830	Acts
-Acts
-Acts
-Acts
-173835	Acts
-Acts
-Acts
-Acts
-173841	Acts
-Acts
-Acts
-173846	Acts
-173848	Acts
-173850	Acts
-173852	Acts
-Acts
-Acts
-173857	Acts
-173860	Acts
-Acts
-173863	Acts
-Acts
-173868	Acts
-Acts
-173871	Acts
-Acts
-173874	Acts
-173876	Acts
-Acts
-173880	Acts
-173883	Acts
-173886	Acts
-Acts
-Acts
-173890	Acts
-Acts
-Acts
-Acts
-173895	Acts
-Acts
-173898	Acts
-173901	Acts
-173904	Acts
-173906	Acts
-173909	Acts
-173911	Acts
-173914	Acts
-173916	Acts
-173918	Acts
-173920	Acts
-173922	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-173929	Acts
-Acts
-173932	Acts
-173934	Acts
-173938	Acts
-Acts
-173941	Acts
-Acts
-173946	Acts
-Acts
-173949	Acts
-173951	Acts
-173953	Acts
-173955	Acts
-173958	Acts
-173962	Acts
-173965	Acts
-Acts
-173968	Acts
-173972	Acts
-Acts
-173975	Acts
-Acts
-173979	Acts
-Acts
-Acts
-Acts
-173984	Acts
-173987	Acts
-173989	Acts
-173991	Acts
-Acts
-173994	Acts
-173997	Acts
-Acts
-Acts
-174001	Acts
-174004	Acts
-174006	Acts
-Acts
-174009	Acts
-174013	Acts
-Acts
-174016	Acts
-174018	Acts
-Acts
-174021	Acts
-Acts
-Acts
-174026	Acts
-Acts
-174030	Acts
-Acts
-174033	Acts
-174035	Acts
-Acts
-174040	Acts
-174043	Acts
-174045	Acts
-174047	Acts
-Acts
-174053	Acts
-174055	Acts
-174057	Acts
-174060	Acts
-174063	Acts
-174067	Acts
-174069	Acts
-174072	Acts
-174075	Acts
-174079	Acts
-174081	Acts
-174084	Acts
-174086	Acts
-174088	Acts
-Acts
-Acts
-174092	Acts
-Acts
-174096	Acts
-174098	Acts
-174101	Acts
-Acts
-174104	Acts
-Acts
-Acts
-174109	Acts
-174112	Acts
-174114	Acts
-Acts
-174119	Acts
-174123	Acts
-Acts
-174126	Acts
-Acts
-Acts
-174130	Acts
-174134	Acts
-174136	Acts
-174142	Acts
-Acts
-Acts
-Acts
-Acts
-174150	Acts
-Acts
-174153	Acts
-174159	Acts
-174161	Acts
-174163	Acts
-Acts
-174168	Acts
-174171	Acts
-174173	Acts
-Acts
-Acts
-174180	Acts
-174184	Acts
-174186	Acts
-174188	Acts
-174191	Acts
-174198	Acts
-174200	Acts
-Acts
-174204	Acts
-Acts
-Acts
-174208	Acts
-174212	Acts
-Acts
-174215	Acts
-174217	Acts
-Acts
-Acts
-174221	Acts
-174223	Acts
-Acts
-174226	Acts
-Acts
-Acts
-Acts
-174232	Acts
-174235	Acts
-174238	Acts
-174240	Acts
-174242	Acts
-Acts
-Acts
-174246	Acts
-174248	Acts
-174250	Acts
-174252	Acts
-174254	Acts
-Acts
-174257	Acts
-Acts
-Acts
-174263	Acts
-174266	Acts
-Acts
-174271	Acts
-Acts
-Acts
-174278	Acts
-Acts
-Acts
-174282	Acts
-174284	Acts
-174289	Acts
-174291	Acts
-174293	Acts
-174296	Acts
-174301	Acts
-174303	Acts
-174305	Acts
-Acts
-Acts
-Acts
-174317	Acts
-Acts
-Acts
-174321	Acts
-174323	Acts
-Acts
-174326	Acts
-Acts
-Acts
-174330	Acts
-Acts
-174333	Acts
-174335	Acts
-Acts
-Acts
-174339	Acts
-Acts
-Acts
-174346	Acts
-174348	Acts
-Acts
-174353	Acts
-Acts
-Acts
-Acts
-Acts
-174360	Acts
-Acts
-174363	Acts
-174365	Acts
-174367	Acts
-174369	Acts
-174371	Acts
-Acts
-174379	Acts
-174383	Acts
-Acts
-Acts
-174389	Acts
-174391	Acts
-Acts
-Acts
-174395	Acts
-Acts
-Acts
-174399	Acts
-Acts
-174402	Acts
-174404	Acts
-Acts
-174408	Acts
-174412	Acts
-Acts
-174415	Acts
-174417	Acts
-174420	Acts
-Acts
-174423	Acts
-174426	Acts
-174428	Acts
-174430	Acts
-174432	Acts
-174434	Acts
-174437	Acts
-174440	Acts
-174442	Acts
-174444	Acts
-Acts
-174447	Acts
-Acts
-174450	Acts
-Acts
-Acts
-174457	Acts
-174461	Acts
-174466	Acts
-174471	Acts
-Acts
-Acts
-174475	Acts
-174477	Acts
-Acts
-174481	Acts
-174485	Acts
-Acts
-Acts
-174489	Acts
-174493	Acts
-174495	Acts
-174498	Acts
-174500	Acts
-174502	Acts
-Acts
-174505	Acts
-Acts
-Acts
-Acts
-Acts
-174511	Acts
-174513	Acts
-174515	Acts
-Acts
-174519	Acts
-Acts
-174522	Acts
-174524	Acts
-174526	Acts
-Acts
-Acts
-174531	Acts
-174533	Acts
-174536	Acts
-Acts
-Acts
-174540	Acts
-174542	Acts
-Acts
-174546	Acts
-174549	Acts
-Acts
-174553	Acts
-Acts
-174558	Acts
-174562	Acts
-Acts
-Acts
-Acts
-Acts
-174568	Acts
-Acts
-174571	Acts
-174573	Acts
-Acts
-Acts
-174578	Acts
-174580	Acts
-174582	Acts
-Acts
-174585	Acts
-174587	Acts
-174589	Acts
-Acts
-174593	Acts
-174595	Acts
-174597	Acts
-174599	Acts
-174601	Acts
-174603	Acts
-Acts
-174606	Acts
-Acts
-Acts
-174610	Acts
-174612	Acts
-Acts
-Acts
-174616	Acts
-Acts
-174621	Acts
-174623	Acts
-174626	Acts
-174628	Acts
-174630	Acts
-174632	Acts
-Acts
-Acts
-174640	Acts
-174643	Acts
-Acts
-Acts
-Acts
-174648	Acts
-174650	Acts
-174652	Acts
-Acts
-174658	Acts
-174661	Acts
-174664	Acts
-174666	Acts
-174671	Acts
-174673	Acts
-174675	Acts
-Acts
-Acts
-174679	Acts
-174681	Acts
-Acts
-174684	Acts
-174686	Acts
-174689	Acts
-Acts
-174693	Acts
-174695	Acts
-174697	Acts
-174699	Acts
-Acts
-174702	Acts
-Acts
-174705	Acts
-174708	Acts
-174711	Acts
-174717	Acts
-174720	Acts
-174722	Acts
-174725	Acts
-174727	Acts
-Acts
-174732	Acts
-174734	Acts
-Acts
-174738	Acts
-174740	Acts
-Acts
-174747	Acts
-Acts
-Acts
-Acts
-174753	Acts
-174755	Acts
-174757	Acts
-Acts
-174760	Acts
-Acts
-174764	Acts
-174768	Acts
-174770	Acts
-174772	Acts
-Acts
-Acts
-Acts
-Acts
-174780	Acts
-174782	Acts
-174784	Acts
-174788	Acts
-174790	Acts
-Acts
-174793	Acts
-174795	Acts
-174798	Acts
-Acts
-174801	Acts
-174804	Acts
-Acts
-Acts
-174810	Acts
-174812	Acts
-174814	Acts
-Acts
-Acts
-174819	Acts
-174821	Acts
-Acts
-174828	Acts
-Acts
-Acts
-174832	Acts
-174834	Acts
-Acts
-Acts
-174839	Acts
-174842	Acts
-174844	Acts
-Acts
-174848	Acts
-Acts
-174851	Acts
-Acts
-Acts
-174855	Acts
-Acts
-174858	Acts
-174860	Acts
-Acts
-174863	Acts
-Acts
-174866	Acts
-Acts
-Acts
-174872	Acts
-Acts
-174875	Acts
-Acts
-174878	Acts
-174880	Acts
-174885	Acts
-174891	Acts
-174896	Acts
-174898	Acts
-Acts
-174903	Acts
-Acts
-174906	Acts
-Acts
-Acts
-Acts
-Acts
-174912	Acts
-Acts
-174915	Acts
-174917	Acts
-174919	Acts
-174921	Acts
-Acts
-Acts
-174926	Acts
-174928	Acts
-174930	Acts
-174933	Acts
-174935	Acts
-Acts
-Acts
-Acts
-174941	Acts
-174943	Acts
-174958	Acts
-Acts
-174962	Acts
-174965	Acts
-Acts
-174969	Acts
-Acts
-174972	Acts
-Acts
-Acts
-174976	Acts
-174978	Acts
-174980	Acts
-174983	Acts
-Acts
-Acts
-174987	Acts
-Acts
-Acts
-174991	Acts
-174994	Acts
-Acts
-174997	Acts
-Acts
-175000	Acts
-175002	Acts
-175004	Acts
-175006	Acts
-175008	Acts
-175010	Acts
-175012	Acts
-175015	Acts
-Acts
-175018	Acts
-175021	Acts
-Acts
-Acts
-Acts
-175026	Acts
-Acts
-Acts
-175031	Acts
-175033	Acts
-Acts
-Acts
-Acts
-175038	Acts
-175040	Acts
-175042	Acts
-175044	Acts
-175047	Acts
-Acts
-175050	Acts
-Acts
-175054	Acts
-175056	Acts
-Acts
-175059	Acts
-Acts
-175064	Acts
-Acts
-Acts
-Acts
-175069	Acts
-Acts
-175076	Acts
-175078	Acts
-175080	Acts
-175084	Acts
-175086	Acts
-175089	Acts
-175098	Acts
-Acts
-Acts
-Acts
-175103	Acts
-175106	Acts
-Acts
-175109	Acts
-175113	Acts
-175116	Acts
-175120	Acts
-175122	Acts
-175125	Acts
-Acts
-175128	Acts
-175130	Acts
-Acts
-175134	Acts
-175136	Acts
-175138	Acts
-175140	Acts
-Acts
-175145	Acts
-Acts
-175148	Acts
-Acts
-175152	Acts
-Acts
-175155	Acts
-Acts
-Acts
-175159	Acts
-175161	Acts
-Acts
-Acts
-Acts
-175167	Acts
-175169	Acts
-175174	Acts
-175176	Acts
-175178	Acts
-175180	Acts
-Acts
-175185	Acts
-175187	Acts
-175191	Acts
-Acts
-175194	Acts
-Acts
-175197	Acts
-175199	Acts
-175201	Acts
-175204	Acts
-175206	Acts
-Acts
-175209	Acts
-175211	Acts
-Acts
-Acts
-175216	Acts
-175218	Acts
-Acts
-Acts
-175222	Acts
-Acts
-Acts
-Acts
-175227	Acts
-175230	Acts
-Acts
-Acts
-Acts
-Acts
-175237	Acts
-Acts
-175240	Acts
-Acts
-Acts
-Acts
-175246	Acts
-175248	Acts
-175250	Acts
-175253	Acts
-175255	Acts
-175257	Acts
-Acts
-Acts
-Acts
-175264	Acts
-Acts
-175268	Acts
-Acts
-Acts
-175274	Acts
-Acts
-Acts
-175279	Acts
-175281	Acts
-175284	Acts
-Acts
-175287	Acts
-Acts
-175291	Acts
-Acts
-175294	Acts
-Acts
-175297	Acts
-175299	Acts
-175302	Acts
-175305	Acts
-175307	Acts
-175309	Acts
-175311	Acts
-175313	Acts
-175315	Acts
-Acts
-175319	Acts
-175321	Acts
-175323	Acts
-175325	Acts
-175329	Acts
-Acts
-175335	Acts
-Acts
-175338	Acts
-175340	Acts
-175342	Acts
-175344	Acts
-175346	Acts
-Acts
-175350	Acts
-Acts
-Acts
-Acts
-175355	Acts
-Acts
-175358	Acts
-Acts
-175361	Acts
-175366	Acts
-Acts
-175370	Acts
-175372	Acts
-175374	Acts
-175376	Acts
-Acts
-Acts
-175381	Acts
-Acts
-175384	Acts
-175387	Acts
-175389	Acts
-175391	Acts
-175393	Acts
-175395	Acts
-175397	Acts
-Acts
-175400	Acts
-175402	Acts
-175404	Acts
-Acts
-175407	Acts
-175409	Acts
-Acts
-Acts
-Acts
-175415	Acts
-Acts
-175418	Acts
-175420	Acts
-175422	Acts
-175425	Acts
-Acts
-175428	Acts
-Acts
-175431	Acts
-Acts
-Acts
-Acts
-175440	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-175449	Acts
-Acts
-175452	Acts
-Acts
-175455	Acts
-Acts
-175462	Acts
-175464	Acts
-175467	Acts
-175473	Acts
-175475	Acts
-175478	Acts
-Acts
-175481	Acts
-175483	Acts
-175487	Acts
-175490	Acts
-175492	Acts
-Acts
-175495	Acts
-175498	Acts
-Acts
-Acts
-175502	Acts
-Acts
-Acts
-175508	Acts
-Acts
-175512	Acts
-175514	Acts
-Acts
-175517	Acts
-Acts
-175520	Acts
-175522	Acts
-175524	Acts
-175526	Acts
-175528	Acts
-Acts
-Acts
-Acts
-175535	Acts
-175537	Acts
-Acts
-175540	Acts
-Acts
-Acts
-175544	Acts
-Acts
-Acts
-175548	Acts
-Acts
-175551	Acts
-Acts
-175554	Acts
-175558	Acts
-175560	Acts
-175562	Acts
-175566	Acts
-175569	Acts
-175571	Acts
-Acts
-Acts
-175576	Acts
-Acts
-Acts
-175580	Acts
-Acts
-175583	Acts
-175590	Acts
-175592	Acts
-Acts
-175595	Acts
-175598	Acts
-Acts
-175601	Acts
-175603	Acts
-Acts
-Acts
-175607	Acts
-Acts
-Acts
-Acts
-175616	Acts
-Acts
-175619	Acts
-Acts
-Acts
-Acts
-175624	Acts
-Acts
-175627	Acts
-175630	Acts
-175632	Acts
-175634	Acts
-Acts
-175638	Acts
-175640	Acts
-Acts
-175646	Acts
-175648	Acts
-Acts
-175652	Acts
-Acts
-175656	Acts
-175660	Acts
-175662	Acts
-175664	Acts
-175666	Acts
-175668	Acts
-Acts
-175672	Acts
-175674	Acts
-Acts
-Acts
-Acts
-Acts
-175680	Acts
-175682	Acts
-Acts
-175685	Acts
-175687	Acts
-175689	Acts
-Acts
-175692	Acts
-175694	Acts
-175699	Acts
-Acts
-175702	Acts
-Acts
-175705	Acts
-175707	Acts
-175709	Acts
-175711	Acts
-Acts
-175716	Acts
-175718	Acts
-Acts
-175721	Acts
-Acts
-175724	Acts
-175726	Acts
-175728	Acts
-175730	Acts
-175732	Acts
-Acts
-175736	Acts
-175738	Acts
-175740	Acts
-Acts
-175744	Acts
-175748	Acts
-175752	Acts
-175754	Acts
-175756	Acts
-175758	Acts
-175760	Acts
-175762	Acts
-175764	Acts
-175766	Acts
-175768	Acts
-175771	Acts
-175773	Acts
-Acts
-175776	Acts
-175778	Acts
-Acts
-175783	Acts
-175786	Acts
-175788	Acts
-Acts
-Acts
-Acts
-Acts
-175794	Acts
-Acts
-175799	Acts
-Acts
-Acts
-175803	Acts
-Acts
-175808	Acts
-Acts
-Acts
-Acts
-175813	Acts
-Acts
-175816	Acts
-175818	Acts
-Acts
-Acts
-Acts
-175823	Acts
-175826	Acts
-Acts
-175829	Acts
-175831	Acts
-175833	Acts
-175835	Acts
-Acts
-175838	Acts
-175840	Acts
-175843	Acts
-175846	Acts
-175849	Acts
-Acts
-Acts
-175854	Acts
-175857	Acts
-Acts
-175862	Acts
-Acts
-175865	Acts
-Acts
-175871	Acts
-175873	Acts
-175876	Acts
-Acts
-Acts
-175880	Acts
-Acts
-175883	Acts
-175885	Acts
-Acts
-175888	Acts
-Acts
-Acts
-175892	Acts
-175894	Acts
-Acts
-175897	Acts
-175901	Acts
-175903	Acts
-175905	Acts
-175907	Acts
-Acts
-175911	Acts
-175913	Acts
-175920	Acts
-Acts
-Acts
-175928	Acts
-175930	Acts
-175934	Acts
-175937	Acts
-Acts
-175943	Acts
-175946	Acts
-175948	Acts
-Acts
-Acts
-175952	Acts
-175956	Acts
-175958	Acts
-175960	Acts
-Acts
-175963	Acts
-175965	Acts
-175967	Acts
-Acts
-175970	Acts
-175972	Acts
-Acts
-Acts
-175976	Acts
-175980	Acts
-Acts
-Acts
-175985	Acts
-Acts
-Acts
-Acts
-Acts
-175993	Acts
-175995	Acts
-175998	Acts
-Acts
-Acts
-Acts
-176004	Acts
-Acts
-176008	Acts
-176010	Acts
-176012	Acts
-Acts
-176015	Acts
-176017	Acts
-176019	Acts
-176021	Acts
-Acts
-176024	Acts
-176026	Acts
-176028	Acts
-Acts
-176031	Acts
-176033	Acts
-Acts
-176038	Acts
-Acts
-176041	Acts
-Acts
-176044	Acts
-Acts
-Acts
-Acts
-176049	Acts
-176051	Acts
-176053	Acts
-Acts
-Acts
-Acts
-176058	Acts
-176060	Acts
-176062	Acts
-176064	Acts
-176066	Acts
-Acts
-176069	Acts
-176072	Acts
-176074	Acts
-Acts
-176079	Acts
-176081	Acts
-Acts
-176085	Acts
-Acts
-Acts
-176089	Acts
-176092	Acts
-Acts
-176095	Acts
-176098	Acts
-176102	Acts
-176104	Acts
-Acts
-176107	Acts
-Acts
-176110	Acts
-176113	Acts
-Acts
-176116	Acts
-176118	Acts
-Acts
-Acts
-Acts
-176123	Acts
-176125	Acts
-Acts
-Acts
-176129	Acts
-Acts
-176132	Acts
-176134	Acts
-176138	Acts
-Acts
-Acts
-Acts
-Acts
-176145	Acts
-176147	Acts
-Acts
-176150	Acts
-Acts
-Acts
-Acts
-176155	Acts
-176157	Acts
-176160	Acts
-176162	Acts
-176164	Acts
-Acts
-176167	Acts
-176169	Acts
-176171	Acts
-176173	Acts
-Acts
-Acts
-176177	Acts
-176182	Acts
-176184	Acts
-Acts
-Acts
-Acts
-176189	Acts
-176191	Acts
-Acts
-176200	Acts
-Acts
-Acts
-176204	Acts
-Acts
-Acts
-176209	Acts
-176212	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-176219	Acts
-Acts
-Acts
-176224	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-176234	Acts
-Acts
-Acts
-176239	Acts
-176243	Acts
-176245	Acts
-176249	Acts
-Acts
-Acts
-176253	Acts
-176255	Acts
-176257	Acts
-Acts
-176262	Acts
-Acts
-176266	Acts
-Acts
-Acts
-176272	Acts
-Acts
-176277	Acts
-Acts
-Acts
-176281	Acts
-Acts
-Acts
-176287	Acts
-Acts
-176291	Acts
-176294	Acts
-176296	Acts
-Acts
-176299	Acts
-176302	Acts
-Acts
-Acts
-Acts
-176307	Acts
-Acts
-Acts
-176312	Acts
-176314	Acts
-Acts
-176317	Acts
-176320	Acts
-176322	Acts
-Acts
-176326	Acts
-Acts
-176329	Acts
-176331	Acts
-176334	Acts
-Acts
-176341	Acts
-Acts
-176344	Acts
-176346	Acts
-176348	Acts
-Acts
-Acts
-176352	Acts
-176354	Acts
-Acts
-176359	Acts
-Acts
-176364	Acts
-Acts
-Acts
-Acts
-176370	Acts
-Acts
-176374	Acts
-176378	Acts
-Acts
-176381	Acts
-Acts
-Acts
-176386	Acts
-176388	Acts
-176390	Acts
-Acts
-176393	Acts
-Acts
-Acts
-176397	Acts
-176400	Acts
-Acts
-176404	Acts
-Acts
-Acts
-176410	Acts
-Acts
-Acts
-Acts
-176416	Acts
-Acts
-Acts
-176420	Acts
-176426	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-176434	Acts
-176436	Acts
-Acts
-Acts
-176440	Acts
-176442	Acts
-176449	Acts
-176451	Acts
-Acts
-176454	Acts
-176458	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-176466	Acts
-Acts
-176470	Acts
-Acts
-176475	Acts
-176479	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-176489	Acts
-Acts
-Acts
-176493	Acts
-176497	Acts
-176499	Acts
-176501	Acts
-176503	Acts
-Acts
-Acts
-Acts
-Acts
-176509	Acts
-Acts
-176512	Acts
-176515	Acts
-176517	Acts
-176519	Acts
-Acts
-Acts
-176523	Acts
-Acts
-176526	Acts
-176528	Acts
-176530	Acts
-176533	Acts
-Acts
-Acts
-Acts
-Acts
-176540	Acts
-Acts
-Acts
-Acts
-Acts
-176549	Acts
-176553	Acts
-176559	Acts
-Acts
-176562	Acts
-Acts
-176568	Acts
-176570	Acts
-176574	Acts
-Acts
-Acts
-176579	Acts
-Acts
-176582	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-176590	Acts
-176597	Acts
-Acts
-Acts
-176601	Acts
-Acts
-Acts
-176605	Acts
-Acts
-Acts
-Acts
-Acts
-176611	Acts
-Acts
-176615	Acts
-Acts
-176621	Acts
-Acts
-176625	Acts
-176628	Acts
-176631	Acts
-176633	Acts
-Acts
-176636	Acts
-176638	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-176646	Acts
-176648	Acts
-176650	Acts
-176653	Acts
-Acts
-Acts
-176659	Acts
-176663	Acts
-Acts
-176668	Acts
-Acts
-176671	Acts
-Acts
-Acts
-176675	Acts
-Acts
-Acts
-Acts
-176683	Acts
-176687	Acts
-176690	Acts
-Acts
-Acts
-176699	Acts
-Acts
-Acts
-176703	Acts
-Acts
-176707	Acts
-Acts
-176710	Acts
-176713	Acts
-176715	Acts
-176717	Acts
-Acts
-176723	Acts
-176725	Acts
-Acts
-176729	Acts
-Acts
-176732	Acts
-176737	Acts
-176741	Acts
-176746	Acts
-Acts
-176756	Acts
-176758	Acts
-Acts
-Acts
-Acts
-Acts
-176764	Acts
-Acts
-Acts
-176770	Acts
-Acts
-Acts
-176775	Acts
-176779	Acts
-176782	Acts
-Acts
-Acts
-176789	Acts
-Acts
-176792	Acts
-176794	Acts
-176796	Acts
-176798	Acts
-176800	Acts
-176804	Acts
-176806	Acts
-Acts
-176809	Acts
-Acts
-176812	Acts
-Acts
-176816	Acts
-176818	Acts
-176821	Acts
-Acts
-Acts
-176826	Acts
-176830	Acts
-176833	Acts
-176835	Acts
-176837	Acts
-176846	Acts
-176848	Acts
-Acts
-Acts
-176852	Acts
-176856	Acts
-176858	Acts
-Acts
-176861	Acts
-176865	Acts
-176867	Acts
-Acts
-176872	Acts
-176875	Acts
-Acts
-Acts
-Acts
-Acts
-176883	Acts
-176885	Acts
-Acts
-Acts
-Acts
-176890	Acts
-Acts
-176893	Acts
-176895	Acts
-Acts
-176900	Acts
-Acts
-Acts
-176906	Acts
-176908	Acts
-176910	Acts
-176912	Acts
-176914	Acts
-Acts
-176917	Acts
-Acts
-176923	Acts
-176925	Acts
-176927	Acts
-Acts
-Acts
-176932	Acts
-Acts
-176941	Acts
-176945	Acts
-176947	Acts
-176950	Acts
-Acts
-Acts
-176955	Acts
-Acts
-Acts
-176959	Acts
-176964	Acts
-Acts
-Acts
-Acts
-Acts
-176970	Acts
-176973	Acts
-176975	Acts
-176977	Acts
-176979	Acts
-Acts
-Acts
-176984	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-176992	Acts
-176994	Acts
-176996	Acts
-Acts
-177000	Acts
-177002	Acts
-177004	Acts
-177006	Acts
-177008	Acts
-177013	Acts
-177015	Acts
-177018	Acts
-Acts
-Acts
-Acts
-177024	Acts
-Acts
-177027	Acts
-177031	Acts
-Acts
-177034	Acts
-177036	Acts
-177039	Acts
-Acts
-Acts
-177043	Acts
-177046	Acts
-Acts
-177049	Acts
-177051	Acts
-177054	Acts
-177057	Acts
-177059	Acts
-Acts
-177062	Acts
-Acts
-177067	Acts
-177069	Acts
-Acts
-Acts
-177074	Acts
-Acts
-177077	Acts
-177079	Acts
-177081	Acts
-177083	Acts
-177085	Acts
-177087	Acts
-Acts
-Acts
-177093	Acts
-Acts
-177096	Acts
-177098	Acts
-Acts
-Acts
-177105	Acts
-Acts
-Acts
-177109	Acts
-177111	Acts
-Acts
-177114	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-177124	Acts
-Acts
-177127	Acts
-177129	Acts
-177132	Acts
-177134	Acts
-177136	Acts
-177138	Acts
-Acts
-Acts
-177142	Acts
-Acts
-177145	Acts
-177148	Acts
-Acts
-Acts
-177154	Acts
-177156	Acts
-177158	Acts
-Acts
-Acts
-Acts
-Acts
-Acts
-177166	Acts
-Acts
-Acts
-177170	Acts
-Acts
-177173	Acts
-177176	Acts
-Acts
-177181	Acts
-Acts
-177184	Acts
-177186	Acts
-177188	Acts
-177190	Acts
-Acts
-177194	Acts
-Acts
-Acts
-177198	Acts
-177200	Acts
-177202	Acts
-Acts
-Acts
-177206	Acts
-177208	Acts
-177210	Acts
-177212	Acts
-Acts
-177215	Acts
-Acts
-Acts
-Acts
-177221	Acts
-Acts
-177224	Acts
-Acts
-177229	Acts
-177232	Acts
-177234	Acts
-177236	Acts
-Acts
-177241	Acts
-Acts
-Acts
-Acts
-177246	Acts
-Acts
-Acts
-177251	Acts
-Acts
-177254	Acts
-177256	Acts
-Acts
-177259	Acts
-177263	Acts
-177265	Acts
-Acts
-Acts
-Acts
-Acts
-177271	Acts
-177273	Acts
-Acts
-Acts
-177277	Acts
-Acts
-Acts
-177283	Acts
-177285	Acts
-Acts
-177288	Acts
-177290	Acts
-177293	Acts
-177295	Acts
-177297	Acts
-177299	Acts
-Acts
-177302	Acts
-Acts
-Acts
-177307	Acts
-Acts
-Acts
-Acts
-177314	Acts
-Acts
-Acts
-Acts
-Acts
-177320	Acts
-Acts
-Acts
-177325	Acts
-Acts
-Acts
-177329	Acts
-177331	Acts
-Acts
-Acts
-177335	Acts
-Acts
-177338	Acts
-177341	Acts
-Acts
-177344	Acts
-Acts
-177349	Acts
-177352	Acts
-Acts
-177355	Acts
-177357	Acts
-Acts
-Acts
-177362	Acts
-Acts
-177365	Acts
-177367	Acts
-177369	Acts
-177371	Acts
-177373	Acts
-177376	Acts
-177378	Acts
-Acts
-177383	Acts
-Acts
-Acts
-177388	Acts
-177390	Acts
-177392	Acts
-Acts
-Acts
-177396	Acts
-177398	Acts
-177406	Acts
-177408	Acts
-177410	Acts
-177412	Acts
-Acts
-Acts
-177416	Acts
-177418	Acts
-177421	Acts
-177423	Acts
-177426	Acts
-177428	Acts
-177431	Acts
-Acts
-177434	Acts
-177438	Acts
-177440	Acts
-177442	Acts
-177445	Acts
-177447	Acts
-177449	Acts
-177451	Acts
-177453	Acts
-177455	Acts
-177458	Acts
-Acts
-177462	Acts
-177464	Acts
-177466	Acts
-177468	Acts
-177470	Acts
-177473	Romans
-177477	Romans
-177479	Romans
-177484	Romans
-177486	Romans
-177489	Romans
-Romans
-177496	Romans
-177498	Romans
-177507	Romans
-177510	Romans
-177512	Romans
-177514	Romans
-177516	Romans
-Romans
-177519	Romans
-Romans
-177523	Romans
-Romans
-177526	Romans
-177529	Romans
-177531	Romans
-Romans
-177537	Romans
-Romans
-177543	Romans
-Romans
-177546	Romans
-177548	Romans
-177550	Romans
-Romans
-177559	Romans
-Romans
-177563	Romans
-177565	Romans
-177568	Romans
-177573	Romans
-177576	Romans
-177578	Romans
-177580	Romans
-177585	Romans
-177587	Romans
-177589	Romans
-177591	Romans
-177593	Romans
-177598	Romans
-177602	Romans
-Romans
-177607	Romans
-177609	Romans
-177611	Romans
-Romans
-Romans
-177615	Romans
-177621	Romans
-177623	Romans
-177626	Romans
-177628	Romans
-177633	Romans
-Romans
-177636	Romans
-177640	Romans
-177642	Romans
-Romans
-177645	Romans
-177647	Romans
-177649	Romans
-177653	Romans
-Romans
-Romans
-Romans
-177658	Romans
-177660	Romans
-177662	Romans
-177664	Romans
-177667	Romans
-Romans
-177670	Romans
-177672	Romans
-177674	Romans
-177676	Romans
-177678	Romans
-177682	Romans
-177684	Romans
-Romans
-Romans
-Romans
-177689	Romans
-177691	Romans
-177693	Romans
-177695	Romans
-177701	Romans
-177703	Romans
-177705	Romans
-177708	Romans
-177710	Romans
-177714	Romans
-177716	Romans
-177718	Romans
-177724	Romans
-177727	Romans
-177729	Romans
-177734	Romans
-177737	Romans
-177740	Romans
-177742	Romans
-177746	Romans
-177752	Romans
-177757	Romans
-177763	Romans
-177768	Romans
-177771	Romans
-Romans
-177774	Romans
-Romans
-177778	Romans
-Romans
-177783	Romans
-177786	Romans
-Romans
-Romans
-Romans
-177791	Romans
-177794	Romans
-177796	Romans
-177798	Romans
-177804	Romans
-177806	Romans
-177808	Romans
-177810	Romans
-177812	Romans
-177814	Romans
-Romans
-177817	Romans
-Romans
-177820	Romans
-177824	Romans
-177827	Romans
-Romans
-177831	Romans
-Romans
-Romans
-177836	Romans
-Romans
-Romans
-177841	Romans
-Romans
-Romans
-177845	Romans
-177847	Romans
-177852	Romans
-177854	Romans
-177858	Romans
-Romans
-177863	Romans
-177865	Romans
-177867	Romans
-Romans
-177875	Romans
-177877	Romans
-177879	Romans
-Romans
-177882	Romans
-177884	Romans
-177888	Romans
-177890	Romans
-Romans
-177894	Romans
-177896	Romans
-177899	Romans
-177901	Romans
-177903	Romans
-Romans
-177908	Romans
-177910	Romans
-177912	Romans
-177916	Romans
-177918	Romans
-177920	Romans
-177924	Romans
-Romans
-177927	Romans
-177930	Romans
-Romans
-Romans
-177934	Romans
-177938	Romans
-Romans
-177944	Romans
-177947	Romans
-Romans
-177950	Romans
-177952	Romans
-Romans
-177956	Romans
-Romans
-177959	Romans
-177961	Romans
-Romans
-177967	Romans
-177971	Romans
-Romans
-Romans
-177975	Romans
-Romans
-177978	Romans
-Romans
-Romans
-177982	Romans
-177984	Romans
-Romans
-177988	Romans
-Romans
-Romans
-Romans
-Romans
-177997	Romans
-Romans
-Romans
-178003	Romans
-Romans
-178006	Romans
-178008	Romans
-Romans
-Romans
-178012	Romans
-178014	Romans
-178016	Romans
-178018	Romans
-178021	Romans
-Romans
-178026	Romans
-178029	Romans
-178031	Romans
-178034	Romans
-178036	Romans
-Romans
-178040	Romans
-178043	Romans
-178045	Romans
-178048	Romans
-178051	Romans
-Romans
-178054	Romans
-Romans
-178057	Romans
-178059	Romans
-178061	Romans
-Romans
-178064	Romans
-178066	Romans
-178069	Romans
-178071	Romans
-178074	Romans
-178076	Romans
-178078	Romans
-178080	Romans
-178082	Romans
-178084	Romans
-Romans
-178088	Romans
-178090	Romans
-178092	Romans
-178094	Romans
-178097	Romans
-178099	Romans
-178101	Romans
-178103	Romans
-178106	Romans
-178109	Romans
-Romans
-178112	Romans
-178114	Romans
-178116	Romans
-Romans
-178119	Romans
-178121	Romans
-Romans
-178124	Romans
-178126	Romans
-178130	Romans
-Romans
-178133	Romans
-Romans
-178138	Romans
-Romans
-178141	Romans
-178146	Romans
-178148	Romans
-178150	Romans
-178152	Romans
-178155	Romans
-178158	Romans
-178162	Romans
-178167	Romans
-Romans
-178172	Romans
-178174	Romans
-178176	Romans
-178178	Romans
-178180	Romans
-Romans
-Romans
-178184	Romans
-178186	Romans
-178190	Romans
-Romans
-Romans
-178194	Romans
-178196	Romans
-178200	Romans
-178202	Romans
-178204	Romans
-Romans
-Romans
-178208	Romans
-178210	Romans
-Romans
-178215	Romans
-Romans
-Romans
-Romans
-178220	Romans
-178223	Romans
-178225	Romans
-178227	Romans
-178229	Romans
-178231	Romans
-178233	Romans
-Romans
-178236	Romans
-178239	Romans
-178241	Romans
-Romans
-178245	Romans
-Romans
-178248	Romans
-178250	Romans
-178254	Romans
-178256	Romans
-178258	Romans
-Romans
-178264	Romans
-178266	Romans
-178268	Romans
-178271	Romans
-Romans
-Romans
-178276	Romans
-178278	Romans
-178280	Romans
-178282	Romans
-178284	Romans
-178287	Romans
-178290	Romans
-Romans
-178293	Romans
-178295	Romans
-Romans
-178298	Romans
-178301	Romans
-Romans
-178304	Romans
-Romans
-178307	Romans
-178309	Romans
-Romans
-Romans
-178314	Romans
-Romans
-178319	Romans
-178321	Romans
-178326	Romans
-178328	Romans
-Romans
-Romans
-178333	Romans
-178335	Romans
-Romans
-178338	Romans
-178341	Romans
-178343	Romans
-178345	Romans
-178347	Romans
-178350	Romans
-178352	Romans
-178354	Romans
-178361	Romans
-Romans
-178366	Romans
-178368	Romans
-178370	Romans
-178372	Romans
-178374	Romans
-178381	Romans
-178383	Romans
-178385	Romans
-178387	Romans
-178389	Romans
-178391	Romans
-178393	Romans
-Romans
-178396	Romans
-178398	Romans
-178402	Romans
-Romans
-178405	Romans
-Romans
-Romans
-Romans
-178410	Romans
-178412	Romans
-Romans
-178416	Romans
-178418	Romans
-178420	Romans
-178423	Romans
-Romans
-Romans
-178427	Romans
-178429	Romans
-178431	Romans
-178433	Romans
-178435	Romans
-178439	Romans
-Romans
-178442	Romans
-Romans
-178446	Romans
-Romans
-Romans
-178451	Romans
-Romans
-178454	Romans
-Romans
-Romans
-Romans
-178460	Romans
-178462	Romans
-Romans
-178468	Romans
-178470	Romans
-178472	Romans
-178475	Romans
-Romans
-178478	Romans
-178481	Romans
-178484	Romans
-Romans
-178487	Romans
-178489	Romans
-178492	Romans
-Romans
-Romans
-Romans
-178497	Romans
-Romans
-Romans
-178501	Romans
-178503	Romans
-178505	Romans
-178508	Romans
-178510	Romans
-178512	Romans
-178514	Romans
-Romans
-Romans
-178518	Romans
-178520	Romans
-178524	Romans
-178526	Romans
-178528	Romans
-Romans
-178531	Romans
-178534	Romans
-178536	Romans
-178538	Romans
-178540	Romans
-178544	Romans
-178546	Romans
-178552	Romans
-Romans
-178555	Romans
-Romans
-178559	Romans
-Romans
-178564	Romans
-Romans
-178569	Romans
-Romans
-178572	Romans
-178576	Romans
-Romans
-178579	Romans
-Romans
-178584	Romans
-178587	Romans
-178589	Romans
-178593	Romans
-Romans
-178597	Romans
-178599	Romans
-Romans
-Romans
-178603	Romans
-178607	Romans
-Romans
-Romans
-178612	Romans
-178614	Romans
-178617	Romans
-178619	Romans
-Romans
-178622	Romans
-Romans
-178625	Romans
-178627	Romans
-178630	Romans
-Romans
-Romans
-178634	Romans
-178636	Romans
-178640	Romans
-Romans
-178643	Romans
-178647	Romans
-178649	Romans
-178654	Romans
-Romans
-178659	Romans
-178661	Romans
-Romans
-178664	Romans
-178666	Romans
-178668	Romans
-178670	Romans
-Romans
-178673	Romans
-Romans
-178677	Romans
-Romans
-Romans
-Romans
-178684	Romans
-Romans
-Romans
-178688	Romans
-178692	Romans
-Romans
-Romans
-178696	Romans
-178698	Romans
-178700	Romans
-178703	Romans
-178705	Romans
-178707	Romans
-178709	Romans
-178712	Romans
-178714	Romans
-Romans
-178718	Romans
-178721	Romans
-Romans
-Romans
-Romans
-Romans
-178727	Romans
-178730	Romans
-Romans
-178733	Romans
-178736	Romans
-178738	Romans
-178740	Romans
-178742	Romans
-178745	Romans
-Romans
-Romans
-Romans
-178755	Romans
-178757	Romans
-178759	Romans
-178762	Romans
-178769	Romans
-Romans
-Romans
-178775	Romans
-178778	Romans
-178782	Romans
-178784	Romans
-178786	Romans
-178788	Romans
-178791	Romans
-178793	Romans
-178799	Romans
-178801	Romans
-178803	Romans
-178805	Romans
-178807	Romans
-Romans
-178810	Romans
-178813	Romans
-178815	Romans
-178817	Romans
-178820	Romans
-178822	Romans
-178824	Romans
-178826	Romans
-178828	Romans
-178830	Romans
-178832	Romans
-178834	Romans
-178838	Romans
-Romans
-178841	Romans
-178844	Romans
-178846	Romans
-Romans
-178849	Romans
-178851	Romans
-178853	Romans
-Romans
-178857	Romans
-Romans
-178860	Romans
-178863	Romans
-178865	Romans
-178867	Romans
-178869	Romans
-178871	Romans
-178873	Romans
-178875	Romans
-178877	Romans
-178879	Romans
-178881	Romans
-Romans
-Romans
-178885	Romans
-178888	Romans
-178891	Romans
-178893	Romans
-178895	Romans
-178897	Romans
-178902	Romans
-Romans
-Romans
-178906	Romans
-178909	Romans
-178911	Romans
-Romans
-178914	Romans
-Romans
-178917	Romans
-178919	Romans
-Romans
-178922	Romans
-178925	Romans
-178927	Romans
-178929	Romans
-178931	Romans
-178933	Romans
-178935	Romans
-Romans
-178938	Romans
-178941	Romans
-178944	Romans
-178946	Romans
-Romans
-178949	Romans
-178952	Romans
-Romans
-178955	Romans
-178957	Romans
-Romans
-178960	Romans
-Romans
-178963	Romans
-Romans
-178966	Romans
-Romans
-178969	Romans
-178971	Romans
-178973	Romans
-178975	Romans
-Romans
-Romans
-178979	Romans
-Romans
-178982	Romans
-Romans
-178990	Romans
-178992	Romans
-Romans
-Romans
-178996	Romans
-178998	Romans
-179007	Romans
-179010	Romans
-Romans
-179013	Romans
-179015	Romans
-179017	Romans
-179019	Romans
-179029	Romans
-179031	Romans
-179037	Romans
-179042	Romans
-Romans
-Romans
-179047	Romans
-179049	Romans
-179051	Romans
-Romans
-179055	Romans
-179058	Romans
-179065	Romans
-179067	Romans
-179069	Romans
-Romans
-179073	Romans
-Romans
-Romans
-179079	Romans
-179082	Romans
-179084	Romans
-Romans
-179087	Romans
-179089	Romans
-179091	Romans
-179093	Romans
-179095	Romans
-179097	Romans
-179100	Romans
-Romans
-179108	Romans
-179110	Romans
-179114	Romans
-179117	Romans
-Romans
-179120	Romans
-179122	Romans
-179124	Romans
-179126	Romans
-179128	Romans
-179130	Romans
-Romans
-179133	Romans
-179135	Romans
-179137	Romans
-179139	Romans
-179141	Romans
-179144	Romans
-179148	Romans
-179151	Romans
-Romans
-179154	Romans
-179157	Romans
-179160	Romans
-179163	Romans
-179167	Romans
-Romans
-179170	Romans
-Romans
-179173	Romans
-Romans
-179176	Romans
-179178	Romans
-179181	Romans
-179183	Romans
-179185	Romans
-Romans
-179189	Romans
-Romans
-179194	Romans
-179196	Romans
-179200	Romans
-Romans
-179203	Romans
-179205	Romans
-Romans
-179209	Romans
-179213	Romans
-Romans
-179217	Romans
-179219	Romans
-179221	Romans
-179223	Romans
-Romans
-179226	Romans
-179229	Romans
-Romans
-Romans
-Romans
-179234	Romans
-179237	Romans
-Romans
-179240	Romans
-Romans
-179246	Romans
-179249	Romans
-179252	Romans
-179255	Romans
-179257	Romans
-179259	Romans
-179262	Romans
-179267	Romans
-Romans
-179270	Romans
-179273	Romans
-179275	Romans
-179277	Romans
-179279	Romans
-Romans
-Romans
-179285	Romans
-179287	Romans
-179289	Romans
-179293	Romans
-179296	Romans
-179298	Romans
-179300	Romans
-179302	Romans
-179304	Romans
-Romans
-179307	Romans
-179309	Romans
-179311	Romans
-179313	Romans
-179316	Romans
-179318	Romans
-Romans
-179321	Romans
-Romans
-Romans
-179326	Romans
-Romans
-Romans
-179330	Romans
-179333	Romans
-Romans
-179337	Romans
-179339	Romans
-179344	Romans
-179347	Romans
-179349	Romans
-Romans
-179353	Romans
-179355	Romans
-179357	Romans
-Romans
-179360	Romans
-179363	Romans
-179368	Romans
-Romans
-179371	Romans
-179373	Romans
-179375	Romans
-179377	Romans
-Romans
-179380	Romans
-Romans
-179383	Romans
-Romans
-179386	Romans
-179388	Romans
-179390	Romans
-Romans
-179393	Romans
-179395	Romans
-179397	Romans
-Romans
-179402	Romans
-179404	Romans
-179406	Romans
-179408	Romans
-179411	Romans
-179413	Romans
-179415	Romans
-179417	Romans
-Romans
-179420	Romans
-Romans
-179424	Romans
-179426	Romans
-179428	Romans
-179430	Romans
-Romans
-179433	Romans
-179435	Romans
-Romans
-179438	Romans
-179440	Romans
-179442	Romans
-179444	Romans
-Romans
-179447	Romans
-Romans
-179450	Romans
-179452	Romans
-Romans
-179455	Romans
-179457	Romans
-Romans
-179460	Romans
-179462	Romans
-179464	Romans
-Romans
-179467	Romans
-179469	Romans
-179472	Romans
-179474	Romans
-179476	Romans
-Romans
-Romans
-179480	Romans
-179483	Romans
-179485	Romans
-Romans
-179489	Romans
-179491	Romans
-179493	Romans
-179495	Romans
-179500	Romans
-179502	Romans
-179504	Romans
-179506	Romans
-179509	Romans
-179511	Romans
-Romans
-179514	Romans
-179516	Romans
-179518	Romans
-179521	Romans
-179523	Romans
-179525	Romans
-179529	Romans
-Romans
-Romans
-179534	Romans
-179536	Romans
-179539	Romans
-179541	Romans
-179544	Romans
-179547	Romans
-179552	Romans
-179555	Romans
-Romans
-179558	Romans
-Romans
-179563	Romans
-179565	Romans
-Romans
-179568	Romans
-179570	Romans
-179572	Romans
-179574	Romans
-179576	Romans
-179578	Romans
-179580	Romans
-Romans
-179583	Romans
-179585	Romans
-179587	Romans
-179591	Romans
-179593	Romans
-179595	Romans
-179597	Romans
-179599	Romans
-179601	Romans
-179603	Romans
-179605	Romans
-Romans
-179608	Romans
-179611	Romans
-179613	Romans
-179615	Romans
-179618	Romans
-179621	Romans
-Romans
-179624	Romans
-179626	Romans
-179628	Romans
-179630	Romans
-Romans
-179633	Romans
-179635	Romans
-179638	Romans
-179640	Romans
-179642	Romans
-179648	Romans
-179650	Romans
-179652	Romans
-179654	Romans
-179656	Romans
-179665	Romans
-179667	Romans
-179669	Romans
-179671	Romans
-179674	Romans
-179676	Romans
-179678	Romans
-179682	Romans
-179685	Romans
-Romans
-179688	Romans
-Romans
-179692	Romans
-Romans
-179695	Romans
-Romans
-179701	Romans
-179704	Romans
-179706	Romans
-179708	Romans
-Romans
-Romans
-Romans
-179713	Romans
-179715	Romans
-179719	Romans
-179721	Romans
-Romans
-179724	Romans
-179727	Romans
-179730	Romans
-179734	Romans
-Romans
-179738	Romans
-Romans
-179741	Romans
-179743	Romans
-179745	Romans
-179747	Romans
-Romans
-179750	Romans
-Romans
-179753	Romans
-Romans
-179756	Romans
-Romans
-179759	Romans
-Romans
-179762	Romans
-Romans
-Romans
-Romans
-Romans
-Romans
-Romans
-Romans
-Romans
-Romans
-Romans
-179774	Romans
-179776	Romans
-179778	Romans
-179780	Romans
-Romans
-Romans
-Romans
-Romans
-179786	Romans
-Romans
-Romans
-Romans
-Romans
-Romans
-179793	Romans
-179795	Romans
-179797	Romans
-179799	Romans
-179802	Romans
-Romans
-Romans
-179806	Romans
-179808	Romans
-Romans
-179811	Romans
-179813	Romans
-Romans
-179816	Romans
-179818	Romans
-Romans
-Romans
-179823	Romans
-179825	Romans
-179827	Romans
-179829	Romans
-179832	Romans
-179834	Romans
-179836	Romans
-179838	Romans
-179840	Romans
-179843	Romans
-Romans
-179846	Romans
-179848	Romans
-179850	Romans
-179852	Romans
-179854	Romans
-179856	Romans
-179859	Romans
-Romans
-179862	Romans
-179864	Romans
-Romans
-179869	Romans
-179871	Romans
-Romans
-179874	Romans
-179876	Romans
-Romans
-Romans
-Romans
-Romans
-179882	Romans
-179884	Romans
-179886	Romans
-179888	Romans
-179895	Romans
-Romans
-Romans
-Romans
-179901	Romans
-Romans
-179904	Romans
-179906	Romans
-Romans
-179909	Romans
-179912	Romans
-179914	Romans
-Romans
-179917	Romans
-179920	Romans
-179922	Romans
-179924	Romans
-179927	Romans
-179929	Romans
-179931	Romans
-Romans
-179935	Romans
-179938	Romans
-179943	Romans
-179947	Romans
-179949	Romans
-179951	Romans
-Romans
-179955	Romans
-Romans
-179958	Romans
-179960	Romans
-179963	Romans
-179965	Romans
-179967	Romans
-179969	Romans
-179971	Romans
-179973	Romans
-179975	Romans
-Romans
-179979	Romans
-Romans
-179985	Romans
-179987	Romans
-Romans
-179992	Romans
-179994	Romans
-Romans
-Romans
-179998	Romans
-180001	Romans
-180003	Romans
-180005	Romans
-180008	Romans
-180010	Romans
-180012	Romans
-180015	Romans
-180017	Romans
-180023	Romans
-Romans
-180028	Romans
-Romans
-180031	Romans
-180035	Romans
-180038	Romans
-180040	Romans
-180044	Romans
-180048	Romans
-180050	Romans
-180052	Romans
-180054	Romans
-180056	Romans
-Romans
-Romans
-180061	Romans
-180063	Romans
-180066	Romans
-180068	Romans
-180070	Romans
-180073	Romans
-180076	Romans
-180082	Romans
-180085	Romans
-180088	Romans
-Romans
-180091	Romans
-180093	Romans
-Romans
-Romans
-180097	Romans
-180100	Romans
-180103	Romans
-180109	Romans
-180111	Romans
-180113	Romans
-180116	Romans
-180120	Romans
-180123	Romans
-180125	Romans
-180128	Romans
-Romans
-180132	Romans
-180134	Romans
-180136	Romans
-Romans
-180139	Romans
-Romans
-180142	Romans
-Romans
-180148	Romans
-180150	Romans
-Romans
-180153	Romans
-180155	Romans
-Romans
-180158	Romans
-180161	Romans
-180163	Romans
-Romans
-180166	Romans
-180169	Romans
-Romans
-180172	Romans
-180174	Romans
-Romans
-Romans
-Romans
-180182	Romans
-180185	Romans
-180188	Romans
-180195	Romans
-180197	Romans
-180199	Romans
-Romans
-180203	Romans
-180205	Romans
-180207	Romans
-180209	Romans
-180211	Romans
-180213	Romans
-Romans
-180218	Romans
-Romans
-180222	Romans
-180224	Romans
-Romans
-180228	Romans
-Romans
-Romans
-180232	Romans
-180236	Romans
-180238	Romans
-180242	Romans
-Romans
-Romans
-Romans
-180247	Romans
-180249	Romans
-180252	Romans
-180254	Romans
-180256	Romans
-180258	Romans
-Romans
-180261	Romans
-180266	Romans
-Romans
-Romans
-180275	Romans
-180278	Romans
-Romans
-Romans
-180283	Romans
-180285	Romans
-180287	Romans
-Romans
-180290	Romans
-Romans
-180293	Romans
-180295	Romans
-180299	Romans
-180301	Romans
-180303	Romans
-180306	Romans
-180308	Romans
-Romans
-180311	Romans
-180313	Romans
-180315	Romans
-180317	Romans
-Romans
-180320	Romans
-180323	Romans
-180327	Romans
-180329	Romans
-180331	Romans
-180333	Romans
-Romans
-180336	Romans
-180338	Romans
-180340	Romans
-180342	Romans
-180344	Romans
-Romans
-180347	Romans
-Romans
-180356	Romans
-180358	Romans
-180360	Romans
-180363	Romans
-Romans
-Romans
-180369	Romans
-180371	Romans
-180375	Romans
-180377	Romans
-180380	Romans
-180382	Romans
-180385	Romans
-180393	Romans
-Romans
-180397	Romans
-180400	Romans
-Romans
-180403	Romans
-Romans
-180412	Romans
-Romans
-Romans
-180416	Romans
-180421	Romans
-180423	Romans
-Romans
-180426	Romans
-180429	Romans
-Romans
-180435	Romans
-Romans
-180439	Romans
-Romans
-180446	Romans
-180450	Romans
-180460	Romans
-Romans
-180463	Romans
-Romans
-180467	Romans
-180471	Romans
-180473	Romans
-180477	Romans
-180480	Romans
-180482	Romans
-180486	Romans
-180489	Romans
-180491	Romans
-180493	Romans
-180495	Romans
-180497	Romans
-Romans
-180500	Romans
-180507	Romans
-180511	Romans
-Romans
-180516	Romans
-180525	Romans
-Romans
-180532	Romans
-180534	Romans
-180536	Romans
-180539	1Corinthians
-180549	1Corinthians
-1Corinthians
-180553	1Corinthians
-180556	1Corinthians
-180559	1Corinthians
-180567	1Corinthians
-1Corinthians
-180571	1Corinthians
-180573	1Corinthians
-180577	1Corinthians
-180579	1Corinthians
-1Corinthians
-180583	1Corinthians
-180586	1Corinthians
-180588	1Corinthians
-180598	1Corinthians
-180601	1Corinthians
-180603	1Corinthians
-180609	1Corinthians
-180611	1Corinthians
-180613	1Corinthians
-180616	1Corinthians
-180618	1Corinthians
-180620	1Corinthians
-180622	1Corinthians
-1Corinthians
-180626	1Corinthians
-180628	1Corinthians
-1Corinthians
-1Corinthians
-180633	1Corinthians
-180635	1Corinthians
-180639	1Corinthians
-180641	1Corinthians
-180643	1Corinthians
-1Corinthians
-180646	1Corinthians
-180648	1Corinthians
-180650	1Corinthians
-1Corinthians
-1Corinthians
-180654	1Corinthians
-180658	1Corinthians
-180661	1Corinthians
-180663	1Corinthians
-180666	1Corinthians
-180668	1Corinthians
-180670	1Corinthians
-180672	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-180677	1Corinthians
-180682	1Corinthians
-1Corinthians
-1Corinthians
-180686	1Corinthians
-180690	1Corinthians
-180692	1Corinthians
-180695	1Corinthians
-1Corinthians
-180699	1Corinthians
-180701	1Corinthians
-180703	1Corinthians
-180714	1Corinthians
-180716	1Corinthians
-180721	1Corinthians
-1Corinthians
-1Corinthians
-180727	1Corinthians
-180729	1Corinthians
-180731	1Corinthians
-180733	1Corinthians
-180735	1Corinthians
-180740	1Corinthians
-180742	1Corinthians
-180744	1Corinthians
-180746	1Corinthians
-180748	1Corinthians
-180750	1Corinthians
-180753	1Corinthians
-180760	1Corinthians
-1Corinthians
-180763	1Corinthians
-1Corinthians
-1Corinthians
-180767	1Corinthians
-180771	1Corinthians
-1Corinthians
-180774	1Corinthians
-180778	1Corinthians
-180780	1Corinthians
-180785	1Corinthians
-180792	1Corinthians
-180796	1Corinthians
-180798	1Corinthians
-180803	1Corinthians
-180805	1Corinthians
-180810	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-180816	1Corinthians
-180818	1Corinthians
-180821	1Corinthians
-1Corinthians
-180824	1Corinthians
-180826	1Corinthians
-180828	1Corinthians
-1Corinthians
-180831	1Corinthians
-180833	1Corinthians
-180836	1Corinthians
-1Corinthians
-180839	1Corinthians
-180841	1Corinthians
-180843	1Corinthians
-180845	1Corinthians
-180849	1Corinthians
-1Corinthians
-180853	1Corinthians
-180856	1Corinthians
-1Corinthians
-180859	1Corinthians
-180862	1Corinthians
-180864	1Corinthians
-180866	1Corinthians
-1Corinthians
-180869	1Corinthians
-180872	1Corinthians
-180874	1Corinthians
-180876	1Corinthians
-1Corinthians
-180879	1Corinthians
-1Corinthians
-180883	1Corinthians
-1Corinthians
-180888	1Corinthians
-1Corinthians
-180891	1Corinthians
-180894	1Corinthians
-180896	1Corinthians
-180900	1Corinthians
-180905	1Corinthians
-180907	1Corinthians
-180913	1Corinthians
-1Corinthians
-180917	1Corinthians
-1Corinthians
-180920	1Corinthians
-180922	1Corinthians
-180924	1Corinthians
-1Corinthians
-180927	1Corinthians
-1Corinthians
-1Corinthians
-180932	1Corinthians
-1Corinthians
-180935	1Corinthians
-180940	1Corinthians
-180942	1Corinthians
-180944	1Corinthians
-180946	1Corinthians
-180948	1Corinthians
-1Corinthians
-180952	1Corinthians
-180955	1Corinthians
-180958	1Corinthians
-180960	1Corinthians
-180963	1Corinthians
-1Corinthians
-180967	1Corinthians
-180970	1Corinthians
-180972	1Corinthians
-180975	1Corinthians
-1Corinthians
-180978	1Corinthians
-1Corinthians
-180982	1Corinthians
-1Corinthians
-180989	1Corinthians
-180991	1Corinthians
-180993	1Corinthians
-180996	1Corinthians
-180999	1Corinthians
-1Corinthians
-1Corinthians
-181003	1Corinthians
-181005	1Corinthians
-181007	1Corinthians
-181009	1Corinthians
-181012	1Corinthians
-181015	1Corinthians
-1Corinthians
-181019	1Corinthians
-181021	1Corinthians
-1Corinthians
-181024	1Corinthians
-181026	1Corinthians
-1Corinthians
-1Corinthians
-181032	1Corinthians
-1Corinthians
-1Corinthians
-181036	1Corinthians
-181038	1Corinthians
-181040	1Corinthians
-1Corinthians
-181043	1Corinthians
-181046	1Corinthians
-1Corinthians
-181049	1Corinthians
-181051	1Corinthians
-181055	1Corinthians
-1Corinthians
-181066	1Corinthians
-181068	1Corinthians
-181071	1Corinthians
-181073	1Corinthians
-1Corinthians
-181076	1Corinthians
-181079	1Corinthians
-181081	1Corinthians
-181083	1Corinthians
-1Corinthians
-1Corinthians
-181089	1Corinthians
-181093	1Corinthians
-181095	1Corinthians
-181097	1Corinthians
-181099	1Corinthians
-181101	1Corinthians
-181104	1Corinthians
-181106	1Corinthians
-181109	1Corinthians
-181111	1Corinthians
-181113	1Corinthians
-181116	1Corinthians
-181121	1Corinthians
-181123	1Corinthians
-1Corinthians
-181126	1Corinthians
-181128	1Corinthians
-181130	1Corinthians
-181132	1Corinthians
-181136	1Corinthians
-1Corinthians
-181139	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-181145	1Corinthians
-181147	1Corinthians
-181149	1Corinthians
-1Corinthians
-181153	1Corinthians
-181158	1Corinthians
-181160	1Corinthians
-181162	1Corinthians
-181164	1Corinthians
-181166	1Corinthians
-181168	1Corinthians
-181170	1Corinthians
-181178	1Corinthians
-1Corinthians
-181181	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-181191	1Corinthians
-1Corinthians
-181194	1Corinthians
-181199	1Corinthians
-181201	1Corinthians
-181203	1Corinthians
-181206	1Corinthians
-1Corinthians
-1Corinthians
-181211	1Corinthians
-181214	1Corinthians
-1Corinthians
-181218	1Corinthians
-181220	1Corinthians
-181222	1Corinthians
-181226	1Corinthians
-181228	1Corinthians
-181230	1Corinthians
-181233	1Corinthians
-181236	1Corinthians
-1Corinthians
-1Corinthians
-181240	1Corinthians
-181242	1Corinthians
-181245	1Corinthians
-181250	1Corinthians
-181252	1Corinthians
-181255	1Corinthians
-181257	1Corinthians
-181259	1Corinthians
-181261	1Corinthians
-181263	1Corinthians
-181266	1Corinthians
-181268	1Corinthians
-181270	1Corinthians
-181272	1Corinthians
-1Corinthians
-1Corinthians
-181280	1Corinthians
-1Corinthians
-1Corinthians
-181284	1Corinthians
-1Corinthians
-181287	1Corinthians
-181289	1Corinthians
-181291	1Corinthians
-181294	1Corinthians
-181302	1Corinthians
-181304	1Corinthians
-1Corinthians
-181312	1Corinthians
-1Corinthians
-181315	1Corinthians
-181318	1Corinthians
-181320	1Corinthians
-1Corinthians
-181328	1Corinthians
-181330	1Corinthians
-1Corinthians
-181333	1Corinthians
-181335	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-181340	1Corinthians
-181342	1Corinthians
-181344	1Corinthians
-181346	1Corinthians
-181348	1Corinthians
-181350	1Corinthians
-1Corinthians
-181353	1Corinthians
-181355	1Corinthians
-181359	1Corinthians
-181362	1Corinthians
-1Corinthians
-181365	1Corinthians
-181367	1Corinthians
-1Corinthians
-181371	1Corinthians
-181373	1Corinthians
-181376	1Corinthians
-181378	1Corinthians
-1Corinthians
-1Corinthians
-181383	1Corinthians
-181387	1Corinthians
-181389	1Corinthians
-181391	1Corinthians
-1Corinthians
-1Corinthians
-181406	1Corinthians
-181409	1Corinthians
-181411	1Corinthians
-181413	1Corinthians
-181419	1Corinthians
-181421	1Corinthians
-181423	1Corinthians
-181425	1Corinthians
-181427	1Corinthians
-181429	1Corinthians
-181431	1Corinthians
-181437	1Corinthians
-181440	1Corinthians
-181442	1Corinthians
-181445	1Corinthians
-181447	1Corinthians
-1Corinthians
-181450	1Corinthians
-181452	1Corinthians
-1Corinthians
-1Corinthians
-181456	1Corinthians
-181458	1Corinthians
-181460	1Corinthians
-181462	1Corinthians
-1Corinthians
-181465	1Corinthians
-181467	1Corinthians
-1Corinthians
-181470	1Corinthians
-181473	1Corinthians
-181475	1Corinthians
-181477	1Corinthians
-181479	1Corinthians
-181482	1Corinthians
-1Corinthians
-181485	1Corinthians
-181487	1Corinthians
-181489	1Corinthians
-181491	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-181497	1Corinthians
-181499	1Corinthians
-181501	1Corinthians
-181503	1Corinthians
-181505	1Corinthians
-181507	1Corinthians
-181511	1Corinthians
-181513	1Corinthians
-181516	1Corinthians
-181520	1Corinthians
-181523	1Corinthians
-181525	1Corinthians
-181527	1Corinthians
-181529	1Corinthians
-1Corinthians
-181532	1Corinthians
-1Corinthians
-181536	1Corinthians
-181539	1Corinthians
-181541	1Corinthians
-181543	1Corinthians
-181547	1Corinthians
-181549	1Corinthians
-181552	1Corinthians
-181554	1Corinthians
-181557	1Corinthians
-1Corinthians
-181560	1Corinthians
-181562	1Corinthians
-181564	1Corinthians
-181568	1Corinthians
-181571	1Corinthians
-1Corinthians
-181574	1Corinthians
-181576	1Corinthians
-181578	1Corinthians
-181583	1Corinthians
-181585	1Corinthians
-1Corinthians
-1Corinthians
-181589	1Corinthians
-181593	1Corinthians
-181595	1Corinthians
-1Corinthians
-181599	1Corinthians
-181601	1Corinthians
-181605	1Corinthians
-181607	1Corinthians
-181609	1Corinthians
-181611	1Corinthians
-1Corinthians
-181616	1Corinthians
-181620	1Corinthians
-181624	1Corinthians
-181630	1Corinthians
-181632	1Corinthians
-1Corinthians
-181635	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-181643	1Corinthians
-181645	1Corinthians
-181647	1Corinthians
-1Corinthians
-181650	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-181657	1Corinthians
-1Corinthians
-1Corinthians
-181661	1Corinthians
-1Corinthians
-181664	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-181669	1Corinthians
-181672	1Corinthians
-181674	1Corinthians
-1Corinthians
-1Corinthians
-181678	1Corinthians
-1Corinthians
-1Corinthians
-181682	1Corinthians
-181684	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-181690	1Corinthians
-181692	1Corinthians
-181694	1Corinthians
-181696	1Corinthians
-181699	1Corinthians
-181701	1Corinthians
-181704	1Corinthians
-181707	1Corinthians
-181709	1Corinthians
-181711	1Corinthians
-181713	1Corinthians
-181715	1Corinthians
-181717	1Corinthians
-181719	1Corinthians
-181721	1Corinthians
-181723	1Corinthians
-181725	1Corinthians
-181727	1Corinthians
-181729	1Corinthians
-181731	1Corinthians
-181733	1Corinthians
-181735	1Corinthians
-181737	1Corinthians
-181739	1Corinthians
-1Corinthians
-181742	1Corinthians
-1Corinthians
-181747	1Corinthians
-181749	1Corinthians
-1Corinthians
-181752	1Corinthians
-1Corinthians
-181759	1Corinthians
-181765	1Corinthians
-181767	1Corinthians
-1Corinthians
-181770	1Corinthians
-181773	1Corinthians
-1Corinthians
-181778	1Corinthians
-181782	1Corinthians
-1Corinthians
-181785	1Corinthians
-181787	1Corinthians
-1Corinthians
-1Corinthians
-181791	1Corinthians
-1Corinthians
-181794	1Corinthians
-181796	1Corinthians
-1Corinthians
-181800	1Corinthians
-181802	1Corinthians
-1Corinthians
-181807	1Corinthians
-181809	1Corinthians
-181811	1Corinthians
-181813	1Corinthians
-1Corinthians
-1Corinthians
-181817	1Corinthians
-181819	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-181826	1Corinthians
-181828	1Corinthians
-181830	1Corinthians
-1Corinthians
-181833	1Corinthians
-181835	1Corinthians
-181837	1Corinthians
-181839	1Corinthians
-181842	1Corinthians
-1Corinthians
-1Corinthians
-181846	1Corinthians
-1Corinthians
-181851	1Corinthians
-1Corinthians
-181854	1Corinthians
-181857	1Corinthians
-181860	1Corinthians
-181862	1Corinthians
-181866	1Corinthians
-1Corinthians
-181873	1Corinthians
-181875	1Corinthians
-181878	1Corinthians
-181882	1Corinthians
-181884	1Corinthians
-181886	1Corinthians
-181891	1Corinthians
-181893	1Corinthians
-181895	1Corinthians
-181898	1Corinthians
-181900	1Corinthians
-181902	1Corinthians
-1Corinthians
-181905	1Corinthians
-181908	1Corinthians
-181910	1Corinthians
-181912	1Corinthians
-181914	1Corinthians
-181917	1Corinthians
-181920	1Corinthians
-181924	1Corinthians
-1Corinthians
-181928	1Corinthians
-181930	1Corinthians
-1Corinthians
-181933	1Corinthians
-181935	1Corinthians
-181938	1Corinthians
-181940	1Corinthians
-181942	1Corinthians
-181944	1Corinthians
-181946	1Corinthians
-1Corinthians
-181950	1Corinthians
-181952	1Corinthians
-181954	1Corinthians
-181956	1Corinthians
-181958	1Corinthians
-181961	1Corinthians
-181963	1Corinthians
-181965	1Corinthians
-181967	1Corinthians
-1Corinthians
-181970	1Corinthians
-181972	1Corinthians
-1Corinthians
-181977	1Corinthians
-1Corinthians
-181981	1Corinthians
-181986	1Corinthians
-181989	1Corinthians
-1Corinthians
-181992	1Corinthians
-181994	1Corinthians
-181997	1Corinthians
-181999	1Corinthians
-182002	1Corinthians
-182004	1Corinthians
-182006	1Corinthians
-1Corinthians
-1Corinthians
-182010	1Corinthians
-182012	1Corinthians
-182014	1Corinthians
-182017	1Corinthians
-1Corinthians
-182020	1Corinthians
-182022	1Corinthians
-182024	1Corinthians
-182026	1Corinthians
-182028	1Corinthians
-182030	1Corinthians
-182033	1Corinthians
-182035	1Corinthians
-182039	1Corinthians
-182041	1Corinthians
-182043	1Corinthians
-1Corinthians
-182047	1Corinthians
-182049	1Corinthians
-1Corinthians
-182052	1Corinthians
-1Corinthians
-182055	1Corinthians
-1Corinthians
-182058	1Corinthians
-182061	1Corinthians
-182063	1Corinthians
-182066	1Corinthians
-1Corinthians
-182069	1Corinthians
-182073	1Corinthians
-1Corinthians
-182076	1Corinthians
-182079	1Corinthians
-182081	1Corinthians
-182083	1Corinthians
-182085	1Corinthians
-182087	1Corinthians
-182089	1Corinthians
-182091	1Corinthians
-182093	1Corinthians
-1Corinthians
-182096	1Corinthians
-182098	1Corinthians
-1Corinthians
-182101	1Corinthians
-182105	1Corinthians
-182107	1Corinthians
-1Corinthians
-1Corinthians
-182111	1Corinthians
-1Corinthians
-182114	1Corinthians
-1Corinthians
-182117	1Corinthians
-1Corinthians
-182120	1Corinthians
-1Corinthians
-182123	1Corinthians
-182125	1Corinthians
-182127	1Corinthians
-1Corinthians
-182132	1Corinthians
-182134	1Corinthians
-182136	1Corinthians
-1Corinthians
-182139	1Corinthians
-182142	1Corinthians
-182144	1Corinthians
-182149	1Corinthians
-182152	1Corinthians
-1Corinthians
-182155	1Corinthians
-182157	1Corinthians
-1Corinthians
-182160	1Corinthians
-182164	1Corinthians
-182166	1Corinthians
-182169	1Corinthians
-1Corinthians
-182172	1Corinthians
-1Corinthians
-182177	1Corinthians
-182179	1Corinthians
-182181	1Corinthians
-182186	1Corinthians
-182188	1Corinthians
-182190	1Corinthians
-1Corinthians
-182193	1Corinthians
-182196	1Corinthians
-182198	1Corinthians
-182200	1Corinthians
-182202	1Corinthians
-182204	1Corinthians
-182208	1Corinthians
-182210	1Corinthians
-182212	1Corinthians
-182214	1Corinthians
-1Corinthians
-182219	1Corinthians
-1Corinthians
-182222	1Corinthians
-182225	1Corinthians
-182227	1Corinthians
-182229	1Corinthians
-182232	1Corinthians
-182234	1Corinthians
-182236	1Corinthians
-182239	1Corinthians
-182241	1Corinthians
-182244	1Corinthians
-182246	1Corinthians
-182248	1Corinthians
-182250	1Corinthians
-182252	1Corinthians
-1Corinthians
-182255	1Corinthians
-1Corinthians
-182258	1Corinthians
-182260	1Corinthians
-182262	1Corinthians
-182264	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-182269	1Corinthians
-1Corinthians
-182272	1Corinthians
-182275	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-182280	1Corinthians
-1Corinthians
-182283	1Corinthians
-182285	1Corinthians
-182287	1Corinthians
-182289	1Corinthians
-1Corinthians
-182292	1Corinthians
-182294	1Corinthians
-182296	1Corinthians
-182299	1Corinthians
-182302	1Corinthians
-182306	1Corinthians
-1Corinthians
-182311	1Corinthians
-1Corinthians
-1Corinthians
-182315	1Corinthians
-182317	1Corinthians
-1Corinthians
-182320	1Corinthians
-182322	1Corinthians
-182324	1Corinthians
-182326	1Corinthians
-182328	1Corinthians
-182330	1Corinthians
-182332	1Corinthians
-182334	1Corinthians
-182336	1Corinthians
-182338	1Corinthians
-182340	1Corinthians
-182342	1Corinthians
-1Corinthians
-182345	1Corinthians
-182351	1Corinthians
-182353	1Corinthians
-1Corinthians
-1Corinthians
-182357	1Corinthians
-1Corinthians
-182362	1Corinthians
-1Corinthians
-182365	1Corinthians
-182368	1Corinthians
-182371	1Corinthians
-182375	1Corinthians
-182378	1Corinthians
-1Corinthians
-1Corinthians
-182385	1Corinthians
-182387	1Corinthians
-182389	1Corinthians
-1Corinthians
-1Corinthians
-182398	1Corinthians
-1Corinthians
-182402	1Corinthians
-1Corinthians
-182405	1Corinthians
-182407	1Corinthians
-182410	1Corinthians
-182414	1Corinthians
-1Corinthians
-182417	1Corinthians
-1Corinthians
-182421	1Corinthians
-182423	1Corinthians
-182425	1Corinthians
-1Corinthians
-1Corinthians
-182430	1Corinthians
-182432	1Corinthians
-1Corinthians
-182437	1Corinthians
-182441	1Corinthians
-182443	1Corinthians
-182445	1Corinthians
-182447	1Corinthians
-182449	1Corinthians
-182451	1Corinthians
-182457	1Corinthians
-1Corinthians
-1Corinthians
-182463	1Corinthians
-182466	1Corinthians
-1Corinthians
-182470	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-182477	1Corinthians
-182479	1Corinthians
-182482	1Corinthians
-182484	1Corinthians
-182486	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-182492	1Corinthians
-182496	1Corinthians
-182498	1Corinthians
-182500	1Corinthians
-182502	1Corinthians
-182504	1Corinthians
-182508	1Corinthians
-1Corinthians
-182511	1Corinthians
-182513	1Corinthians
-182515	1Corinthians
-1Corinthians
-182518	1Corinthians
-182524	1Corinthians
-182526	1Corinthians
-1Corinthians
-182529	1Corinthians
-182532	1Corinthians
-1Corinthians
-182535	1Corinthians
-182539	1Corinthians
-1Corinthians
-1Corinthians
-182544	1Corinthians
-182546	1Corinthians
-182550	1Corinthians
-182552	1Corinthians
-182555	1Corinthians
-182557	1Corinthians
-182562	1Corinthians
-182564	1Corinthians
-182566	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-182571	1Corinthians
-1Corinthians
-182575	1Corinthians
-182578	1Corinthians
-182580	1Corinthians
-1Corinthians
-182583	1Corinthians
-182585	1Corinthians
-182587	1Corinthians
-182589	1Corinthians
-182591	1Corinthians
-1Corinthians
-182594	1Corinthians
-1Corinthians
-182598	1Corinthians
-182604	1Corinthians
-182606	1Corinthians
-1Corinthians
-1Corinthians
-182610	1Corinthians
-182612	1Corinthians
-182614	1Corinthians
-182616	1Corinthians
-182621	1Corinthians
-182624	1Corinthians
-182626	1Corinthians
-182628	1Corinthians
-182630	1Corinthians
-182635	1Corinthians
-182637	1Corinthians
-182641	1Corinthians
-182645	1Corinthians
-182647	1Corinthians
-182649	1Corinthians
-1Corinthians
-182652	1Corinthians
-182654	1Corinthians
-182656	1Corinthians
-182658	1Corinthians
-182660	1Corinthians
-182662	1Corinthians
-182664	1Corinthians
-182667	1Corinthians
-182669	1Corinthians
-182671	1Corinthians
-1Corinthians
-182676	1Corinthians
-1Corinthians
-182680	1Corinthians
-182682	1Corinthians
-182685	1Corinthians
-1Corinthians
-1Corinthians
-182689	1Corinthians
-1Corinthians
-1Corinthians
-182693	1Corinthians
-182696	1Corinthians
-182698	1Corinthians
-182701	1Corinthians
-182703	1Corinthians
-182706	1Corinthians
-182708	1Corinthians
-182711	1Corinthians
-182713	1Corinthians
-182715	1Corinthians
-182719	1Corinthians
-182721	1Corinthians
-1Corinthians
-182724	1Corinthians
-182726	1Corinthians
-182728	1Corinthians
-182730	1Corinthians
-1Corinthians
-182733	1Corinthians
-182736	1Corinthians
-182739	1Corinthians
-182741	1Corinthians
-182743	1Corinthians
-182747	1Corinthians
-182749	1Corinthians
-182751	1Corinthians
-1Corinthians
-182755	1Corinthians
-182757	1Corinthians
-182764	1Corinthians
-182766	1Corinthians
-182770	1Corinthians
-182773	1Corinthians
-1Corinthians
-182776	1Corinthians
-182780	1Corinthians
-182783	1Corinthians
-1Corinthians
-182786	1Corinthians
-1Corinthians
-182789	1Corinthians
-1Corinthians
-182792	1Corinthians
-182794	1Corinthians
-182797	1Corinthians
-182799	1Corinthians
-182801	1Corinthians
-182805	1Corinthians
-182807	1Corinthians
-182810	1Corinthians
-1Corinthians
-1Corinthians
-182815	1Corinthians
-1Corinthians
-182820	1Corinthians
-1Corinthians
-1Corinthians
-182824	1Corinthians
-1Corinthians
-1Corinthians
-182828	1Corinthians
-182830	1Corinthians
-182832	1Corinthians
-1Corinthians
-182835	1Corinthians
-182838	1Corinthians
-182840	1Corinthians
-182845	1Corinthians
-1Corinthians
-182849	1Corinthians
-1Corinthians
-182852	1Corinthians
-182857	1Corinthians
-1Corinthians
-182860	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-182867	1Corinthians
-182869	1Corinthians
-182871	1Corinthians
-182873	1Corinthians
-182875	1Corinthians
-182877	1Corinthians
-182879	1Corinthians
-182881	1Corinthians
-182883	1Corinthians
-182887	1Corinthians
-182891	1Corinthians
-1Corinthians
-182894	1Corinthians
-182896	1Corinthians
-182903	1Corinthians
-182905	1Corinthians
-182910	1Corinthians
-182912	1Corinthians
-182914	1Corinthians
-1Corinthians
-182917	1Corinthians
-182921	1Corinthians
-182923	1Corinthians
-182926	1Corinthians
-182928	1Corinthians
-182930	1Corinthians
-182932	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-182942	1Corinthians
-1Corinthians
-182945	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-182954	1Corinthians
-1Corinthians
-182958	1Corinthians
-1Corinthians
-182962	1Corinthians
-1Corinthians
-182966	1Corinthians
-182968	1Corinthians
-182970	1Corinthians
-182972	1Corinthians
-182975	1Corinthians
-182977	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-182982	1Corinthians
-182985	1Corinthians
-182987	1Corinthians
-182989	1Corinthians
-182991	1Corinthians
-182993	1Corinthians
-182996	1Corinthians
-183000	1Corinthians
-183003	1Corinthians
-183005	1Corinthians
-183008	1Corinthians
-183012	1Corinthians
-183014	1Corinthians
-183016	1Corinthians
-183019	1Corinthians
-183021	1Corinthians
-183023	1Corinthians
-183025	1Corinthians
-183029	1Corinthians
-183031	1Corinthians
-183033	1Corinthians
-183035	1Corinthians
-183038	1Corinthians
-1Corinthians
-183042	1Corinthians
-183046	1Corinthians
-183048	1Corinthians
-183050	1Corinthians
-183052	1Corinthians
-183054	1Corinthians
-183056	1Corinthians
-183060	1Corinthians
-183062	1Corinthians
-1Corinthians
-183065	1Corinthians
-183074	1Corinthians
-1Corinthians
-1Corinthians
-183082	1Corinthians
-1Corinthians
-183086	1Corinthians
-183089	1Corinthians
-183091	1Corinthians
-183093	1Corinthians
-183097	1Corinthians
-1Corinthians
-183100	1Corinthians
-183102	1Corinthians
-183105	1Corinthians
-183107	1Corinthians
-183109	1Corinthians
-183113	1Corinthians
-183115	1Corinthians
-183117	1Corinthians
-183119	1Corinthians
-183121	1Corinthians
-183125	1Corinthians
-1Corinthians
-183128	1Corinthians
-183130	1Corinthians
-183132	1Corinthians
-183134	1Corinthians
-183139	1Corinthians
-1Corinthians
-183142	1Corinthians
-183144	1Corinthians
-183148	1Corinthians
-183150	1Corinthians
-183152	1Corinthians
-183154	1Corinthians
-183159	1Corinthians
-1Corinthians
-183162	1Corinthians
-183164	1Corinthians
-1Corinthians
-183169	1Corinthians
-183171	1Corinthians
-1Corinthians
-1Corinthians
-183176	1Corinthians
-1Corinthians
-183179	1Corinthians
-183181	1Corinthians
-183184	1Corinthians
-1Corinthians
-183187	1Corinthians
-1Corinthians
-183192	1Corinthians
-183196	1Corinthians
-1Corinthians
-183200	1Corinthians
-183203	1Corinthians
-183205	1Corinthians
-183208	1Corinthians
-183214	1Corinthians
-183216	1Corinthians
-183218	1Corinthians
-183222	1Corinthians
-183224	1Corinthians
-183229	1Corinthians
-183231	1Corinthians
-183236	1Corinthians
-1Corinthians
-1Corinthians
-183240	1Corinthians
-1Corinthians
-1Corinthians
-183244	1Corinthians
-183246	1Corinthians
-183250	1Corinthians
-183252	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-183260	1Corinthians
-183262	1Corinthians
-183269	1Corinthians
-183274	1Corinthians
-1Corinthians
-183277	1Corinthians
-183282	1Corinthians
-183285	1Corinthians
-183289	1Corinthians
-1Corinthians
-1Corinthians
-183294	1Corinthians
-1Corinthians
-183298	1Corinthians
-183300	1Corinthians
-183302	1Corinthians
-183305	1Corinthians
-1Corinthians
-183310	1Corinthians
-1Corinthians
-183313	1Corinthians
-1Corinthians
-183317	1Corinthians
-183319	1Corinthians
-183324	1Corinthians
-1Corinthians
-1Corinthians
-183328	1Corinthians
-1Corinthians
-183332	1Corinthians
-183334	1Corinthians
-183337	1Corinthians
-1Corinthians
-183341	1Corinthians
-1Corinthians
-183344	1Corinthians
-183348	1Corinthians
-1Corinthians
-183352	1Corinthians
-183354	1Corinthians
-183356	1Corinthians
-183358	1Corinthians
-183360	1Corinthians
-183367	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-183372	1Corinthians
-183374	1Corinthians
-183377	1Corinthians
-183379	1Corinthians
-1Corinthians
-183383	1Corinthians
-183386	1Corinthians
-183389	1Corinthians
-183393	1Corinthians
-1Corinthians
-1Corinthians
-183397	1Corinthians
-183399	1Corinthians
-183401	1Corinthians
-1Corinthians
-183404	1Corinthians
-183406	1Corinthians
-183408	1Corinthians
-183410	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-183417	1Corinthians
-1Corinthians
-183420	1Corinthians
-183424	1Corinthians
-183426	1Corinthians
-183430	1Corinthians
-183435	1Corinthians
-183439	1Corinthians
-183441	1Corinthians
-1Corinthians
-183444	1Corinthians
-183446	1Corinthians
-183448	1Corinthians
-183452	1Corinthians
-183455	1Corinthians
-1Corinthians
-183458	1Corinthians
-183460	1Corinthians
-183462	1Corinthians
-183464	1Corinthians
-1Corinthians
-183467	1Corinthians
-183469	1Corinthians
-183471	1Corinthians
-183475	1Corinthians
-1Corinthians
-1Corinthians
-183479	1Corinthians
-183481	1Corinthians
-1Corinthians
-183484	1Corinthians
-183486	1Corinthians
-183489	1Corinthians
-183491	1Corinthians
-183493	1Corinthians
-183495	1Corinthians
-183497	1Corinthians
-183499	1Corinthians
-183501	1Corinthians
-1Corinthians
-183504	1Corinthians
-183508	1Corinthians
-183514	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-183520	1Corinthians
-183524	1Corinthians
-183526	1Corinthians
-1Corinthians
-183529	1Corinthians
-183531	1Corinthians
-183534	1Corinthians
-183536	1Corinthians
-183538	1Corinthians
-183540	1Corinthians
-183542	1Corinthians
-1Corinthians
-183545	1Corinthians
-1Corinthians
-1Corinthians
-183550	1Corinthians
-183553	1Corinthians
-183555	1Corinthians
-183558	1Corinthians
-1Corinthians
-183561	1Corinthians
-183563	1Corinthians
-1Corinthians
-1Corinthians
-183568	1Corinthians
-183570	1Corinthians
-183572	1Corinthians
-1Corinthians
-183575	1Corinthians
-183577	1Corinthians
-183579	1Corinthians
-183581	1Corinthians
-1Corinthians
-1Corinthians
-183585	1Corinthians
-1Corinthians
-183588	1Corinthians
-183591	1Corinthians
-1Corinthians
-183594	1Corinthians
-183599	1Corinthians
-183601	1Corinthians
-183603	1Corinthians
-183605	1Corinthians
-183608	1Corinthians
-183610	1Corinthians
-183612	1Corinthians
-183614	1Corinthians
-183616	1Corinthians
-183622	1Corinthians
-183624	1Corinthians
-183626	1Corinthians
-183628	1Corinthians
-183630	1Corinthians
-183632	1Corinthians
-1Corinthians
-183635	1Corinthians
-1Corinthians
-183638	1Corinthians
-1Corinthians
-183641	1Corinthians
-1Corinthians
-183644	1Corinthians
-1Corinthians
-1Corinthians
-183648	1Corinthians
-1Corinthians
-183651	1Corinthians
-183653	1Corinthians
-1Corinthians
-1Corinthians
-183658	1Corinthians
-183660	1Corinthians
-1Corinthians
-183663	1Corinthians
-1Corinthians
-183666	1Corinthians
-1Corinthians
-183669	1Corinthians
-1Corinthians
-183672	1Corinthians
-183674	1Corinthians
-183679	1Corinthians
-183682	1Corinthians
-183684	1Corinthians
-183686	1Corinthians
-1Corinthians
-183689	1Corinthians
-183691	1Corinthians
-183695	1Corinthians
-183697	1Corinthians
-183699	1Corinthians
-183701	1Corinthians
-183703	1Corinthians
-183705	1Corinthians
-183710	1Corinthians
-183712	1Corinthians
-1Corinthians
-183716	1Corinthians
-183718	1Corinthians
-183720	1Corinthians
-183722	1Corinthians
-183726	1Corinthians
-183728	1Corinthians
-183730	1Corinthians
-183733	1Corinthians
-183737	1Corinthians
-183739	1Corinthians
-1Corinthians
-183742	1Corinthians
-183745	1Corinthians
-183749	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-183755	1Corinthians
-183757	1Corinthians
-183759	1Corinthians
-183763	1Corinthians
-183766	1Corinthians
-1Corinthians
-1Corinthians
-183770	1Corinthians
-183772	1Corinthians
-183774	1Corinthians
-183777	1Corinthians
-183779	1Corinthians
-183781	1Corinthians
-183783	1Corinthians
-1Corinthians
-183786	1Corinthians
-183788	1Corinthians
-183790	1Corinthians
-183793	1Corinthians
-1Corinthians
-183796	1Corinthians
-1Corinthians
-183799	1Corinthians
-183801	1Corinthians
-183804	1Corinthians
-183808	1Corinthians
-1Corinthians
-183813	1Corinthians
-183815	1Corinthians
-183817	1Corinthians
-183819	1Corinthians
-183823	1Corinthians
-183825	1Corinthians
-183827	1Corinthians
-183831	1Corinthians
-183834	1Corinthians
-183836	1Corinthians
-183838	1Corinthians
-183841	1Corinthians
-183843	1Corinthians
-183845	1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-183851	1Corinthians
-183853	1Corinthians
-183857	1Corinthians
-183859	1Corinthians
-183861	1Corinthians
-183866	1Corinthians
-183868	1Corinthians
-183871	1Corinthians
-183876	1Corinthians
-183878	1Corinthians
-183882	1Corinthians
-1Corinthians
-1Corinthians
-183887	1Corinthians
-1Corinthians
-1Corinthians
-183892	1Corinthians
-1Corinthians
-1Corinthians
-183896	1Corinthians
-183898	1Corinthians
-183900	2Corinthians
-183908	2Corinthians
-183911	2Corinthians
-2Corinthians
-183920	2Corinthians
-183930	2Corinthians
-183932	2Corinthians
-2Corinthians
-183935	2Corinthians
-183937	2Corinthians
-183939	2Corinthians
-183942	2Corinthians
-183946	2Corinthians
-183949	2Corinthians
-183951	2Corinthians
-183953	2Corinthians
-2Corinthians
-183956	2Corinthians
-183958	2Corinthians
-183960	2Corinthians
-183964	2Corinthians
-183966	2Corinthians
-183968	2Corinthians
-183970	2Corinthians
-183973	2Corinthians
-183976	2Corinthians
-2Corinthians
-183982	2Corinthians
-183984	2Corinthians
-183986	2Corinthians
-2Corinthians
-2Corinthians
-183991	2Corinthians
-2Corinthians
-183994	2Corinthians
-183996	2Corinthians
-183999	2Corinthians
-184004	2Corinthians
-184007	2Corinthians
-184011	2Corinthians
-184013	2Corinthians
-184015	2Corinthians
-2Corinthians
-184018	2Corinthians
-184020	2Corinthians
-184022	2Corinthians
-184025	2Corinthians
-184027	2Corinthians
-184029	2Corinthians
-184032	2Corinthians
-184034	2Corinthians
-184036	2Corinthians
-184038	2Corinthians
-2Corinthians
-184041	2Corinthians
-184043	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-184052	2Corinthians
-184054	2Corinthians
-184060	2Corinthians
-184065	2Corinthians
-184072	2Corinthians
-184074	2Corinthians
-184076	2Corinthians
-184078	2Corinthians
-184081	2Corinthians
-184083	2Corinthians
-184088	2Corinthians
-184090	2Corinthians
-184092	2Corinthians
-184094	2Corinthians
-2Corinthians
-184099	2Corinthians
-2Corinthians
-184102	2Corinthians
-184104	2Corinthians
-184107	2Corinthians
-184110	2Corinthians
-184112	2Corinthians
-184114	2Corinthians
-184116	2Corinthians
-184118	2Corinthians
-184120	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-184126	2Corinthians
-184128	2Corinthians
-184133	2Corinthians
-184135	2Corinthians
-184137	2Corinthians
-184140	2Corinthians
-2Corinthians
-2Corinthians
-184144	2Corinthians
-184147	2Corinthians
-184152	2Corinthians
-184154	2Corinthians
-2Corinthians
-184157	2Corinthians
-184159	2Corinthians
-184161	2Corinthians
-184163	2Corinthians
-2Corinthians
-184168	2Corinthians
-184170	2Corinthians
-184172	2Corinthians
-184174	2Corinthians
-184178	2Corinthians
-184180	2Corinthians
-184182	2Corinthians
-184184	2Corinthians
-184187	2Corinthians
-2Corinthians
-184190	2Corinthians
-184194	2Corinthians
-184196	2Corinthians
-184199	2Corinthians
-184202	2Corinthians
-184205	2Corinthians
-184208	2Corinthians
-184211	2Corinthians
-184214	2Corinthians
-184217	2Corinthians
-184219	2Corinthians
-184223	2Corinthians
-184226	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-184232	2Corinthians
-184235	2Corinthians
-2Corinthians
-2Corinthians
-184240	2Corinthians
-184242	2Corinthians
-184244	2Corinthians
-2Corinthians
-184247	2Corinthians
-184251	2Corinthians
-184254	2Corinthians
-2Corinthians
-2Corinthians
-184258	2Corinthians
-184262	2Corinthians
-184264	2Corinthians
-184268	2Corinthians
-2Corinthians
-184271	2Corinthians
-2Corinthians
-184275	2Corinthians
-2Corinthians
-184278	2Corinthians
-184280	2Corinthians
-184282	2Corinthians
-184284	2Corinthians
-2Corinthians
-184287	2Corinthians
-184289	2Corinthians
-184291	2Corinthians
-184293	2Corinthians
-184296	2Corinthians
-2Corinthians
-184301	2Corinthians
-184303	2Corinthians
-184305	2Corinthians
-184307	2Corinthians
-184309	2Corinthians
-2Corinthians
-184312	2Corinthians
-184315	2Corinthians
-184319	2Corinthians
-2Corinthians
-184325	2Corinthians
-2Corinthians
-184328	2Corinthians
-184330	2Corinthians
-2Corinthians
-184333	2Corinthians
-2Corinthians
-2Corinthians
-184337	2Corinthians
-184339	2Corinthians
-184341	2Corinthians
-184344	2Corinthians
-184346	2Corinthians
-2Corinthians
-184350	2Corinthians
-184352	2Corinthians
-2Corinthians
-184357	2Corinthians
-2Corinthians
-184360	2Corinthians
-2Corinthians
-184363	2Corinthians
-184365	2Corinthians
-184369	2Corinthians
-184371	2Corinthians
-184374	2Corinthians
-184376	2Corinthians
-184379	2Corinthians
-2Corinthians
-2Corinthians
-184383	2Corinthians
-184386	2Corinthians
-184388	2Corinthians
-184392	2Corinthians
-184394	2Corinthians
-184396	2Corinthians
-184398	2Corinthians
-184400	2Corinthians
-184402	2Corinthians
-184404	2Corinthians
-184406	2Corinthians
-184408	2Corinthians
-184410	2Corinthians
-184413	2Corinthians
-184416	2Corinthians
-184418	2Corinthians
-184421	2Corinthians
-184423	2Corinthians
-184425	2Corinthians
-2Corinthians
-184428	2Corinthians
-2Corinthians
-184431	2Corinthians
-184433	2Corinthians
-2Corinthians
-184437	2Corinthians
-184439	2Corinthians
-184442	2Corinthians
-184445	2Corinthians
-184447	2Corinthians
-2Corinthians
-184451	2Corinthians
-184455	2Corinthians
-184457	2Corinthians
-184462	2Corinthians
-184465	2Corinthians
-184467	2Corinthians
-2Corinthians
-184470	2Corinthians
-184473	2Corinthians
-184475	2Corinthians
-184477	2Corinthians
-184479	2Corinthians
-184481	2Corinthians
-184483	2Corinthians
-184485	2Corinthians
-184488	2Corinthians
-2Corinthians
-2Corinthians
-184494	2Corinthians
-2Corinthians
-184497	2Corinthians
-184499	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-184505	2Corinthians
-184507	2Corinthians
-184509	2Corinthians
-184512	2Corinthians
-184516	2Corinthians
-184519	2Corinthians
-184521	2Corinthians
-2Corinthians
-184524	2Corinthians
-184527	2Corinthians
-184529	2Corinthians
-184531	2Corinthians
-184533	2Corinthians
-184535	2Corinthians
-2Corinthians
-184540	2Corinthians
-184542	2Corinthians
-2Corinthians
-184546	2Corinthians
-2Corinthians
-184550	2Corinthians
-184552	2Corinthians
-184554	2Corinthians
-2Corinthians
-184558	2Corinthians
-184560	2Corinthians
-2Corinthians
-184564	2Corinthians
-2Corinthians
-184567	2Corinthians
-184570	2Corinthians
-184572	2Corinthians
-184576	2Corinthians
-2Corinthians
-184579	2Corinthians
-2Corinthians
-184582	2Corinthians
-2Corinthians
-184586	2Corinthians
-184588	2Corinthians
-184590	2Corinthians
-184592	2Corinthians
-184594	2Corinthians
-184597	2Corinthians
-184601	2Corinthians
-184604	2Corinthians
-184606	2Corinthians
-184608	2Corinthians
-184610	2Corinthians
-184612	2Corinthians
-2Corinthians
-184616	2Corinthians
-184620	2Corinthians
-184622	2Corinthians
-184625	2Corinthians
-184627	2Corinthians
-184629	2Corinthians
-184632	2Corinthians
-184634	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-184639	2Corinthians
-184641	2Corinthians
-184643	2Corinthians
-2Corinthians
-2Corinthians
-184647	2Corinthians
-184649	2Corinthians
-184651	2Corinthians
-2Corinthians
-2Corinthians
-184656	2Corinthians
-184658	2Corinthians
-184660	2Corinthians
-184671	2Corinthians
-184673	2Corinthians
-184676	2Corinthians
-184678	2Corinthians
-184681	2Corinthians
-184683	2Corinthians
-2Corinthians
-184687	2Corinthians
-184689	2Corinthians
-184692	2Corinthians
-184694	2Corinthians
-184697	2Corinthians
-184699	2Corinthians
-184702	2Corinthians
-184704	2Corinthians
-184706	2Corinthians
-184708	2Corinthians
-184710	2Corinthians
-184713	2Corinthians
-184716	2Corinthians
-2Corinthians
-2Corinthians
-184721	2Corinthians
-184725	2Corinthians
-184728	2Corinthians
-184730	2Corinthians
-184732	2Corinthians
-184735	2Corinthians
-2Corinthians
-184738	2Corinthians
-184742	2Corinthians
-184744	2Corinthians
-184747	2Corinthians
-184749	2Corinthians
-184755	2Corinthians
-184757	2Corinthians
-2Corinthians
-184760	2Corinthians
-184763	2Corinthians
-184765	2Corinthians
-184767	2Corinthians
-184770	2Corinthians
-184773	2Corinthians
-2Corinthians
-184778	2Corinthians
-2Corinthians
-184781	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-184786	2Corinthians
-184788	2Corinthians
-184790	2Corinthians
-184794	2Corinthians
-2Corinthians
-184797	2Corinthians
-2Corinthians
-184801	2Corinthians
-184803	2Corinthians
-184805	2Corinthians
-2Corinthians
-2Corinthians
-184809	2Corinthians
-184812	2Corinthians
-184814	2Corinthians
-2Corinthians
-184818	2Corinthians
-2Corinthians
-184822	2Corinthians
-184826	2Corinthians
-2Corinthians
-184831	2Corinthians
-2Corinthians
-184834	2Corinthians
-184836	2Corinthians
-184838	2Corinthians
-184841	2Corinthians
-184843	2Corinthians
-184845	2Corinthians
-184847	2Corinthians
-184849	2Corinthians
-184851	2Corinthians
-184853	2Corinthians
-184856	2Corinthians
-184864	2Corinthians
-2Corinthians
-184869	2Corinthians
-2Corinthians
-184874	2Corinthians
-184877	2Corinthians
-184879	2Corinthians
-184881	2Corinthians
-184884	2Corinthians
-184886	2Corinthians
-184889	2Corinthians
-184891	2Corinthians
-184894	2Corinthians
-2Corinthians
-184897	2Corinthians
-2Corinthians
-184900	2Corinthians
-184904	2Corinthians
-184906	2Corinthians
-184911	2Corinthians
-184913	2Corinthians
-184917	2Corinthians
-184919	2Corinthians
-184922	2Corinthians
-184929	2Corinthians
-184931	2Corinthians
-184933	2Corinthians
-184937	2Corinthians
-184939	2Corinthians
-184941	2Corinthians
-184944	2Corinthians
-184951	2Corinthians
-184953	2Corinthians
-2Corinthians
-184956	2Corinthians
-184960	2Corinthians
-2Corinthians
-184963	2Corinthians
-184965	2Corinthians
-184967	2Corinthians
-2Corinthians
-184971	2Corinthians
-184973	2Corinthians
-184975	2Corinthians
-184977	2Corinthians
-184979	2Corinthians
-184981	2Corinthians
-184983	2Corinthians
-184985	2Corinthians
-184987	2Corinthians
-184990	2Corinthians
-2Corinthians
-184994	2Corinthians
-184996	2Corinthians
-185002	2Corinthians
-2Corinthians
-2Corinthians
-185006	2Corinthians
-185008	2Corinthians
-185010	2Corinthians
-185012	2Corinthians
-185014	2Corinthians
-185016	2Corinthians
-185018	2Corinthians
-185020	2Corinthians
-185023	2Corinthians
-185027	2Corinthians
-185029	2Corinthians
-2Corinthians
-185032	2Corinthians
-185035	2Corinthians
-185037	2Corinthians
-185039	2Corinthians
-2Corinthians
-185043	2Corinthians
-185047	2Corinthians
-185049	2Corinthians
-185052	2Corinthians
-185054	2Corinthians
-185057	2Corinthians
-185059	2Corinthians
-185061	2Corinthians
-185063	2Corinthians
-185068	2Corinthians
-2Corinthians
-185075	2Corinthians
-185078	2Corinthians
-185083	2Corinthians
-185086	2Corinthians
-185089	2Corinthians
-185091	2Corinthians
-2Corinthians
-2Corinthians
-185095	2Corinthians
-185100	2Corinthians
-185102	2Corinthians
-185107	2Corinthians
-2Corinthians
-185114	2Corinthians
-185116	2Corinthians
-2Corinthians
-2Corinthians
-185120	2Corinthians
-2Corinthians
-185123	2Corinthians
-2Corinthians
-185127	2Corinthians
-185129	2Corinthians
-2Corinthians
-2Corinthians
-185136	2Corinthians
-185138	2Corinthians
-185140	2Corinthians
-185142	2Corinthians
-185146	2Corinthians
-185148	2Corinthians
-2Corinthians
-185153	2Corinthians
-185157	2Corinthians
-2Corinthians
-185160	2Corinthians
-2Corinthians
-185163	2Corinthians
-185165	2Corinthians
-2Corinthians
-2Corinthians
-185170	2Corinthians
-185173	2Corinthians
-185175	2Corinthians
-185177	2Corinthians
-185181	2Corinthians
-2Corinthians
-185184	2Corinthians
-2Corinthians
-185187	2Corinthians
-185189	2Corinthians
-185191	2Corinthians
-185197	2Corinthians
-2Corinthians
-2Corinthians
-185201	2Corinthians
-185205	2Corinthians
-185208	2Corinthians
-185210	2Corinthians
-2Corinthians
-185213	2Corinthians
-185215	2Corinthians
-2Corinthians
-185218	2Corinthians
-2Corinthians
-185221	2Corinthians
-185223	2Corinthians
-185227	2Corinthians
-2Corinthians
-185231	2Corinthians
-185233	2Corinthians
-185235	2Corinthians
-185238	2Corinthians
-185240	2Corinthians
-185243	2Corinthians
-2Corinthians
-185246	2Corinthians
-2Corinthians
-185250	2Corinthians
-2Corinthians
-2Corinthians
-185254	2Corinthians
-185256	2Corinthians
-185262	2Corinthians
-185264	2Corinthians
-185267	2Corinthians
-185269	2Corinthians
-185272	2Corinthians
-185274	2Corinthians
-185277	2Corinthians
-185282	2Corinthians
-185284	2Corinthians
-2Corinthians
-2Corinthians
-185288	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-185293	2Corinthians
-2Corinthians
-185298	2Corinthians
-185300	2Corinthians
-185302	2Corinthians
-185304	2Corinthians
-185307	2Corinthians
-185309	2Corinthians
-185311	2Corinthians
-2Corinthians
-185315	2Corinthians
-185317	2Corinthians
-185319	2Corinthians
-185321	2Corinthians
-185323	2Corinthians
-2Corinthians
-185326	2Corinthians
-2Corinthians
-2Corinthians
-185330	2Corinthians
-185332	2Corinthians
-185335	2Corinthians
-185338	2Corinthians
-2Corinthians
-185341	2Corinthians
-2Corinthians
-185344	2Corinthians
-185347	2Corinthians
-185349	2Corinthians
-2Corinthians
-185353	2Corinthians
-185358	2Corinthians
-2Corinthians
-185368	2Corinthians
-185370	2Corinthians
-185372	2Corinthians
-185374	2Corinthians
-185377	2Corinthians
-185380	2Corinthians
-2Corinthians
-185383	2Corinthians
-2Corinthians
-185389	2Corinthians
-185391	2Corinthians
-185393	2Corinthians
-185396	2Corinthians
-2Corinthians
-185399	2Corinthians
-185401	2Corinthians
-185403	2Corinthians
-2Corinthians
-185406	2Corinthians
-185408	2Corinthians
-185410	2Corinthians
-185412	2Corinthians
-2Corinthians
-185415	2Corinthians
-185419	2Corinthians
-185421	2Corinthians
-185423	2Corinthians
-2Corinthians
-185426	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-185431	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-185437	2Corinthians
-185439	2Corinthians
-185442	2Corinthians
-185444	2Corinthians
-185446	2Corinthians
-185448	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-185457	2Corinthians
-185461	2Corinthians
-2Corinthians
-185464	2Corinthians
-185466	2Corinthians
-2Corinthians
-185470	2Corinthians
-185473	2Corinthians
-2Corinthians
-185476	2Corinthians
-2Corinthians
-185480	2Corinthians
-185483	2Corinthians
-185485	2Corinthians
-185487	2Corinthians
-185489	2Corinthians
-185491	2Corinthians
-2Corinthians
-185495	2Corinthians
-185499	2Corinthians
-2Corinthians
-2Corinthians
-185503	2Corinthians
-2Corinthians
-185506	2Corinthians
-2Corinthians
-185509	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-185516	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-185521	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-185527	2Corinthians
-185529	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-185538	2Corinthians
-185541	2Corinthians
-2Corinthians
-185545	2Corinthians
-2Corinthians
-185549	2Corinthians
-185552	2Corinthians
-185554	2Corinthians
-185556	2Corinthians
-185558	2Corinthians
-185561	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-185570	2Corinthians
-185572	2Corinthians
-185574	2Corinthians
-185576	2Corinthians
-185579	2Corinthians
-185581	2Corinthians
-2Corinthians
-2Corinthians
-185586	2Corinthians
-185588	2Corinthians
-185591	2Corinthians
-185593	2Corinthians
-185598	2Corinthians
-2Corinthians
-185602	2Corinthians
-2Corinthians
-2Corinthians
-185606	2Corinthians
-185612	2Corinthians
-185614	2Corinthians
-2Corinthians
-2Corinthians
-185618	2Corinthians
-185620	2Corinthians
-185622	2Corinthians
-2Corinthians
-185625	2Corinthians
-185627	2Corinthians
-185629	2Corinthians
-185634	2Corinthians
-2Corinthians
-2Corinthians
-185638	2Corinthians
-185641	2Corinthians
-185643	2Corinthians
-185645	2Corinthians
-185647	2Corinthians
-185650	2Corinthians
-185652	2Corinthians
-185654	2Corinthians
-2Corinthians
-185657	2Corinthians
-185659	2Corinthians
-185661	2Corinthians
-185663	2Corinthians
-185665	2Corinthians
-185667	2Corinthians
-185669	2Corinthians
-185674	2Corinthians
-185676	2Corinthians
-2Corinthians
-2Corinthians
-185680	2Corinthians
-2Corinthians
-185683	2Corinthians
-185685	2Corinthians
-185687	2Corinthians
-185693	2Corinthians
-2Corinthians
-185698	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-185704	2Corinthians
-185708	2Corinthians
-2Corinthians
-185712	2Corinthians
-2Corinthians
-2Corinthians
-185716	2Corinthians
-185719	2Corinthians
-185721	2Corinthians
-185724	2Corinthians
-2Corinthians
-185727	2Corinthians
-2Corinthians
-185730	2Corinthians
-185733	2Corinthians
-185735	2Corinthians
-185737	2Corinthians
-185739	2Corinthians
-185742	2Corinthians
-185744	2Corinthians
-2Corinthians
-185747	2Corinthians
-2Corinthians
-185750	2Corinthians
-185755	2Corinthians
-185759	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-185766	2Corinthians
-185770	2Corinthians
-185772	2Corinthians
-185774	2Corinthians
-185777	2Corinthians
-185779	2Corinthians
-185784	2Corinthians
-2Corinthians
-2Corinthians
-185789	2Corinthians
-185794	2Corinthians
-185796	2Corinthians
-185799	2Corinthians
-185805	2Corinthians
-2Corinthians
-185808	2Corinthians
-185810	2Corinthians
-185812	2Corinthians
-185814	2Corinthians
-185817	2Corinthians
-185819	2Corinthians
-185822	2Corinthians
-185824	2Corinthians
-185827	2Corinthians
-185829	2Corinthians
-2Corinthians
-185832	2Corinthians
-185834	2Corinthians
-185838	2Corinthians
-185840	2Corinthians
-2Corinthians
-2Corinthians
-185844	2Corinthians
-185847	2Corinthians
-2Corinthians
-185851	2Corinthians
-185853	2Corinthians
-185855	2Corinthians
-185858	2Corinthians
-2Corinthians
-185862	2Corinthians
-185865	2Corinthians
-185867	2Corinthians
-2Corinthians
-185870	2Corinthians
-2Corinthians
-185873	2Corinthians
-2Corinthians
-185876	2Corinthians
-185879	2Corinthians
-185883	2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-2Corinthians
-185889	2Corinthians
-185892	2Corinthians
-2Corinthians
-2Corinthians
-185900	Galatians
-185912	Galatians
-185914	Galatians
-185925	Galatians
-185927	Galatians
-185930	Galatians
-185934	Galatians
-185937	Galatians
-185939	Galatians
-185941	Galatians
-185943	Galatians
-Galatians
-Galatians
-185948	Galatians
-185950	Galatians
-Galatians
-185957	Galatians
-185960	Galatians
-Galatians
-185965	Galatians
-185967	Galatians
-185970	Galatians
-Galatians
-Galatians
-185975	Galatians
-185979	Galatians
-Galatians
-185982	Galatians
-Galatians
-185988	Galatians
-185990	Galatians
-185994	Galatians
-185996	Galatians
-Galatians
-186000	Galatians
-186003	Galatians
-186005	Galatians
-186007	Galatians
-Galatians
-186012	Galatians
-186015	Galatians
-186017	Galatians
-Galatians
-186020	Galatians
-Galatians
-186023	Galatians
-186026	Galatians
-186028	Galatians
-186030	Galatians
-186032	Galatians
-Galatians
-186035	Galatians
-186037	Galatians
-186039	Galatians
-186043	Galatians
-186045	Galatians
-Galatians
-Galatians
-Galatians
-186052	Galatians
-186056	Galatians
-186058	Galatians
-186060	Galatians
-186062	Galatians
-186064	Galatians
-Galatians
-Galatians
-186068	Galatians
-186071	Galatians
-186073	Galatians
-186075	Galatians
-186077	Galatians
-186080	Galatians
-186084	Galatians
-186086	Galatians
-Galatians
-186089	Galatians
-186092	Galatians
-Galatians
-186095	Galatians
-186098	Galatians
-Galatians
-Galatians
-Galatians
-186104	Galatians
-186106	Galatians
-Galatians
-186110	Galatians
-Galatians
-Galatians
-186114	Galatians
-186116	Galatians
-186118	Galatians
-186121	Galatians
-Galatians
-Galatians
-186125	Galatians
-186127	Galatians
-186129	Galatians
-186131	Galatians
-186134	Galatians
-186140	Galatians
-Galatians
-186146	Galatians
-186148	Galatians
-186151	Galatians
-Galatians
-Galatians
-186158	Galatians
-Galatians
-186161	Galatians
-186164	Galatians
-186166	Galatians
-186168	Galatians
-186170	Galatians
-186173	Galatians
-Galatians
-186177	Galatians
-186179	Galatians
-186183	Galatians
-Galatians
-Galatians
-Galatians
-186189	Galatians
-Galatians
-186193	Galatians
-Galatians
-186197	Galatians
-186199	Galatians
-186202	Galatians
-Galatians
-186205	Galatians
-186207	Galatians
-186212	Galatians
-186214	Galatians
-186216	Galatians
-186219	Galatians
-Galatians
-Galatians
-Galatians
-Galatians
-186227	Galatians
-Galatians
-Galatians
-186231	Galatians
-186233	Galatians
-Galatians
-186237	Galatians
-186239	Galatians
-186241	Galatians
-Galatians
-186247	Galatians
-186249	Galatians
-Galatians
-186254	Galatians
-Galatians
-186257	Galatians
-186259	Galatians
-186261	Galatians
-Galatians
-Galatians
-186266	Galatians
-Galatians
-Galatians
-Galatians
-186271	Galatians
-186273	Galatians
-186276	Galatians
-186278	Galatians
-186283	Galatians
-186285	Galatians
-186287	Galatians
-186289	Galatians
-186292	Galatians
-Galatians
-186295	Galatians
-186297	Galatians
-186299	Galatians
-186301	Galatians
-Galatians
-186304	Galatians
-186306	Galatians
-Galatians
-186309	Galatians
-186311	Galatians
-186313	Galatians
-186315	Galatians
-186317	Galatians
-186320	Galatians
-186322	Galatians
-186324	Galatians
-186327	Galatians
-Galatians
-186330	Galatians
-Galatians
-186333	Galatians
-186335	Galatians
-186338	Galatians
-Galatians
-186341	Galatians
-Galatians
-186346	Galatians
-186351	Galatians
-186356	Galatians
-Galatians
-186359	Galatians
-186363	Galatians
-186365	Galatians
-Galatians
-Galatians
-Galatians
-186371	Galatians
-186375	Galatians
-Galatians
-186378	Galatians
-186380	Galatians
-Galatians
-186383	Galatians
-186385	Galatians
-Galatians
-186389	Galatians
-186391	Galatians
-186393	Galatians
-Galatians
-186398	Galatians
-186401	Galatians
-Galatians
-186404	Galatians
-186406	Galatians
-186408	Galatians
-186411	Galatians
-186413	Galatians
-186415	Galatians
-Galatians
-Galatians
-Galatians
-186420	Galatians
-186422	Galatians
-186424	Galatians
-Galatians
-186427	Galatians
-186430	Galatians
-Galatians
-186433	Galatians
-186436	Galatians
-186439	Galatians
-186443	Galatians
-186448	Galatians
-186451	Galatians
-Galatians
-186454	Galatians
-186456	Galatians
-Galatians
-Galatians
-186460	Galatians
-186463	Galatians
-186465	Galatians
-186469	Galatians
-186471	Galatians
-Galatians
-Galatians
-186475	Galatians
-186477	Galatians
-186481	Galatians
-Galatians
-Galatians
-186487	Galatians
-186490	Galatians
-186492	Galatians
-186496	Galatians
-Galatians
-186499	Galatians
-186501	Galatians
-186503	Galatians
-186505	Galatians
-186509	Galatians
-Galatians
-Galatians
-186516	Galatians
-186519	Galatians
-186523	Galatians
-186525	Galatians
-186528	Galatians
-186530	Galatians
-Galatians
-186533	Galatians
-186535	Galatians
-186538	Galatians
-186541	Galatians
-186545	Galatians
-186547	Galatians
-186550	Galatians
-186552	Galatians
-186554	Galatians
-186556	Galatians
-Galatians
-186559	Galatians
-Galatians
-186562	Galatians
-186564	Galatians
-Galatians
-186567	Galatians
-186569	Galatians
-Galatians
-186573	Galatians
-186575	Galatians
-186578	Galatians
-Galatians
-186582	Galatians
-186584	Galatians
-186586	Galatians
-186588	Galatians
-186590	Galatians
-186593	Galatians
-Galatians
-Galatians
-186597	Galatians
-186599	Galatians
-186604	Galatians
-186606	Galatians
-186608	Galatians
-Galatians
-Galatians
-186612	Galatians
-186616	Galatians
-Galatians
-Galatians
-186622	Galatians
-186625	Galatians
-186627	Galatians
-186629	Galatians
-Galatians
-186632	Galatians
-186635	Galatians
-186639	Galatians
-Galatians
-186642	Galatians
-186645	Galatians
-186648	Galatians
-186650	Galatians
-186652	Galatians
-186654	Galatians
-186657	Galatians
-186659	Galatians
-186661	Galatians
-186663	Galatians
-186665	Galatians
-186669	Galatians
-186671	Galatians
-186674	Galatians
-186677	Galatians
-186679	Galatians
-Galatians
-186683	Galatians
-186685	Galatians
-186687	Galatians
-Galatians
-186690	Galatians
-Galatians
-Galatians
-Galatians
-Galatians
-186696	Galatians
-186698	Galatians
-186701	Galatians
-186704	Galatians
-Galatians
-Galatians
-Galatians
-Galatians
-Galatians
-186711	Galatians
-Galatians
-Galatians
-186715	Galatians
-186717	Galatians
-186719	Galatians
-186721	Galatians
-186724	Galatians
-186726	Galatians
-186728	Galatians
-186730	Galatians
-Galatians
-186733	Galatians
-186735	Galatians
-186738	Galatians
-Galatians
-186741	Galatians
-186744	Galatians
-186746	Galatians
-186749	Galatians
-186752	Galatians
-186754	Galatians
-186756	Galatians
-186758	Galatians
-186760	Galatians
-186763	Galatians
-186765	Galatians
-186767	Galatians
-186770	Galatians
-186772	Galatians
-186776	Galatians
-Galatians
-186779	Galatians
-186781	Galatians
-186785	Galatians
-Galatians
-Galatians
-186789	Galatians
-186791	Galatians
-186794	Galatians
-186796	Galatians
-186798	Galatians
-186802	Galatians
-186804	Galatians
-Galatians
-Galatians
-Galatians
-186810	Galatians
-Galatians
-186813	Galatians
-186815	Galatians
-186817	Galatians
-186819	Galatians
-186823	Galatians
-Galatians
-Galatians
-Galatians
-186829	Galatians
-186832	Galatians
-186834	Galatians
-186836	Galatians
-186838	Galatians
-186840	Galatians
-186842	Galatians
-Galatians
-Galatians
-186847	Galatians
-186850	Galatians
-186852	Galatians
-186854	Galatians
-186856	Galatians
-186858	Galatians
-Galatians
-186861	Galatians
-Galatians
-186867	Galatians
-186869	Galatians
-186871	Galatians
-186873	Galatians
-Galatians
-Galatians
-Galatians
-Galatians
-Galatians
-Galatians
-186882	Galatians
-186884	Galatians
-186886	Galatians
-Galatians
-186889	Galatians
-186891	Galatians
-186893	Galatians
-186896	Galatians
-Galatians
-186899	Galatians
-186904	Galatians
-Galatians
-186911	Galatians
-186913	Galatians
-186918	Ephesians
-186924	Ephesians
-186927	Ephesians
-186935	Ephesians
-186943	Ephesians
-186945	Ephesians
-Ephesians
-186949	Ephesians
-186952	Ephesians
-186954	Ephesians
-Ephesians
-186958	Ephesians
-186961	Ephesians
-186963	Ephesians
-186965	Ephesians
-Ephesians
-186969	Ephesians
-Ephesians
-186972	Ephesians
-186974	Ephesians
-186977	Ephesians
-Ephesians
-Ephesians
-186981	Ephesians
-186983	Ephesians
-Ephesians
-Ephesians
-186990	Ephesians
-Ephesians
-186993	Ephesians
-186999	Ephesians
-187001	Ephesians
-187003	Ephesians
-Ephesians
-187006	Ephesians
-Ephesians
-187010	Ephesians
-Ephesians
-187013	Ephesians
-187015	Ephesians
-187022	Ephesians
-187025	Ephesians
-187028	Ephesians
-187030	Ephesians
-187032	Ephesians
-187035	Ephesians
-187037	Ephesians
-Ephesians
-187044	Ephesians
-187046	Ephesians
-Ephesians
-187051	Ephesians
-187053	Ephesians
-187057	Ephesians
-Ephesians
-187060	Ephesians
-Ephesians
-Ephesians
-187066	Ephesians
-187068	Ephesians
-187071	Ephesians
-187074	Ephesians
-Ephesians
-187078	Ephesians
-187081	Ephesians
-Ephesians
-187084	Ephesians
-187086	Ephesians
-187088	Ephesians
-Ephesians
-187092	Ephesians
-Ephesians
-Ephesians
-187097	Ephesians
-187099	Ephesians
-187103	Ephesians
-187105	Ephesians
-Ephesians
-187108	Ephesians
-187111	Ephesians
-187114	Ephesians
-187118	Ephesians
-187120	Ephesians
-187124	Ephesians
-187126	Ephesians
-187128	Ephesians
-187131	Ephesians
-Ephesians
-187134	Ephesians
-Ephesians
-187139	Ephesians
-Ephesians
-187143	Ephesians
-187145	Ephesians
-187148	Ephesians
-187150	Ephesians
-187153	Ephesians
-187156	Ephesians
-187159	Ephesians
-187162	Ephesians
-Ephesians
-187165	Ephesians
-Ephesians
-Ephesians
-187174	Ephesians
-187177	Ephesians
-187179	Ephesians
-187181	Ephesians
-Ephesians
-Ephesians
-Ephesians
-187186	Ephesians
-Ephesians
-Ephesians
-187191	Ephesians
-187196	Ephesians
-187199	Ephesians
-Ephesians
-187203	Ephesians
-187205	Ephesians
-Ephesians
-187209	Ephesians
-187212	Ephesians
-187214	Ephesians
-187218	Ephesians
-187222	Ephesians
-187226	Ephesians
-Ephesians
-187229	Ephesians
-Ephesians
-187232	Ephesians
-187236	Ephesians
-Ephesians
-Ephesians
-Ephesians
-187243	Ephesians
-187245	Ephesians
-Ephesians
-187252	Ephesians
-Ephesians
-187255	Ephesians
-187259	Ephesians
-Ephesians
-Ephesians
-187266	Ephesians
-187272	Ephesians
-187274	Ephesians
-187276	Ephesians
-Ephesians
-187280	Ephesians
-Ephesians
-187283	Ephesians
-187287	Ephesians
-Ephesians
-187297	Ephesians
-187299	Ephesians
-187301	Ephesians
-Ephesians
-Ephesians
-187305	Ephesians
-187307	Ephesians
-187311	Ephesians
-Ephesians
-187314	Ephesians
-187316	Ephesians
-187318	Ephesians
-187320	Ephesians
-187329	Ephesians
-187335	Ephesians
-Ephesians
-187340	Ephesians
-Ephesians
-187345	Ephesians
-Ephesians
-Ephesians
-187354	Ephesians
-187356	Ephesians
-187358	Ephesians
-187360	Ephesians
-Ephesians
-Ephesians
-187365	Ephesians
-187367	Ephesians
-Ephesians
-187371	Ephesians
-187375	Ephesians
-187377	Ephesians
-187379	Ephesians
-187381	Ephesians
-187384	Ephesians
-187386	Ephesians
-187388	Ephesians
-187391	Ephesians
-187395	Ephesians
-Ephesians
-187398	Ephesians
-187400	Ephesians
-187402	Ephesians
-187404	Ephesians
-Ephesians
-187407	Ephesians
-187409	Ephesians
-187412	Ephesians
-Ephesians
-187415	Ephesians
-Ephesians
-187418	Ephesians
-187420	Ephesians
-187424	Ephesians
-187426	Ephesians
-187428	Ephesians
-187430	Ephesians
-187433	Ephesians
-Ephesians
-187441	Ephesians
-Ephesians
-187444	Ephesians
-187447	Ephesians
-187449	Ephesians
-187451	Ephesians
-187454	Ephesians
-187456	Ephesians
-187462	Ephesians
-187467	Ephesians
-187469	Ephesians
-187474	Ephesians
-187476	Ephesians
-187478	Ephesians
-Ephesians
-187481	Ephesians
-187486	Ephesians
-187489	Ephesians
-187491	Ephesians
-187493	Ephesians
-187496	Ephesians
-187498	Ephesians
-Ephesians
-Ephesians
-187502	Ephesians
-187504	Ephesians
-187508	Ephesians
-Ephesians
-187513	Ephesians
-187516	Ephesians
-187518	Ephesians
-187520	Ephesians
-Ephesians
-187523	Ephesians
-Ephesians
-187526	Ephesians
-187528	Ephesians
-187530	Ephesians
-187532	Ephesians
-187535	Ephesians
-187537	Ephesians
-187539	Ephesians
-187541	Ephesians
-187543	Ephesians
-187546	Ephesians
-187548	Ephesians
-Ephesians
-187551	Ephesians
-187553	Ephesians
-187555	Ephesians
-Ephesians
-187559	Ephesians
-187561	Ephesians
-Ephesians
-187564	Ephesians
-187568	Ephesians
-187571	Ephesians
-187576	Ephesians
-187579	Ephesians
-187581	Ephesians
-187584	Ephesians
-Ephesians
-187587	Ephesians
-187589	Ephesians
-187591	Ephesians
-187594	Ephesians
-187597	Ephesians
-187599	Ephesians
-Ephesians
-187602	Ephesians
-Ephesians
-187605	Ephesians
-187610	Ephesians
-187613	Ephesians
-Ephesians
-187616	Ephesians
-187618	Ephesians
-187620	Ephesians
-187623	Ephesians
-187625	Ephesians
-187629	Ephesians
-187631	Ephesians
-187634	Ephesians
-187638	Ephesians
-187640	Ephesians
-187642	Ephesians
-187644	Ephesians
-187649	Ephesians
-187652	Ephesians
-187655	Ephesians
-187657	Ephesians
-187660	Ephesians
-187662	Ephesians
-Ephesians
-187668	Ephesians
-187670	Ephesians
-187672	Ephesians
-187675	Ephesians
-Ephesians
-187681	Ephesians
-187685	Ephesians
-187688	Ephesians
-187690	Ephesians
-187693	Ephesians
-Ephesians
-Ephesians
-Ephesians
-187699	Ephesians
-187701	Ephesians
-Ephesians
-187705	Ephesians
-Ephesians
-187709	Ephesians
-187711	Ephesians
-187713	Ephesians
-187715	Ephesians
-Ephesians
-187719	Ephesians
-187724	Ephesians
-Ephesians
-187728	Ephesians
-187730	Ephesians
-Ephesians
-187733	Ephesians
-187738	Ephesians
-187740	Ephesians
-187742	Ephesians
-187744	Ephesians
-Ephesians
-187747	Ephesians
-187749	Ephesians
-187751	Ephesians
-187753	Ephesians
-Ephesians
-187756	Ephesians
-Ephesians
-187760	Ephesians
-187762	Ephesians
-187766	Ephesians
-187768	Ephesians
-187772	Ephesians
-187778	Ephesians
-Ephesians
-187781	Ephesians
-187783	Ephesians
-187785	Ephesians
-Ephesians
-187790	Ephesians
-187792	Ephesians
-Ephesians
-187798	Ephesians
-Ephesians
-187801	Ephesians
-187803	Ephesians
-Ephesians
-187812	Ephesians
-187814	Ephesians
-187817	Philippians
-187825	Philippians
-187828	Philippians
-187836	Philippians
+170848	Acts
+Romans
+Romans
+Romans
+170853	Romans
+170855	Romans
+Romans
+Romans
+170860	Romans
+Romans
+170865	Romans
+170867	Romans
+170869	Romans
+Romans
+170872	Romans
+Romans
+170875	Romans
+Romans
+170878	Romans
+Romans
+170881	Romans
+170884	Romans
+170886	Romans
+Romans
+170891	Romans
+Romans
+170895	Romans
+Romans
+170898	Romans
+170900	Romans
+170902	Romans
+Romans
+170908	Romans
+Romans
+170911	Romans
+170913	Romans
+170915	Romans
+170919	Romans
+170921	Romans
+170923	Romans
+170925	Romans
+170928	Romans
+170930	Romans
+170932	Romans
+170934	Romans
+Romans
+170939	Romans
+170941	Romans
+Romans
+170945	Romans
+170947	Romans
+Romans
+Romans
+Romans
+170952	Romans
+170957	Romans
+170959	Romans
+170961	Romans
+170963	Romans
+170966	Romans
+Romans
+170969	Romans
+170972	Romans
+170974	Romans
+Romans
+Romans
+170978	Romans
+Romans
+170982	Romans
+Romans
+Romans
+Romans
+170987	Romans
+Romans
+Romans
+Romans
+170992	Romans
+Romans
+170995	Romans
+170997	Romans
+170999	Romans
+171001	Romans
+171003	Romans
+171006	Romans
+171008	Romans
+Romans
+Romans
+Romans
+171013	Romans
+171015	Romans
+171017	Romans
+171019	Romans
+171025	Romans
+171027	Romans
+171029	Romans
+171031	Romans
+171033	Romans
+171036	Romans
+171038	Romans
+171040	Romans
+171043	Romans
+171045	Romans
+171047	Romans
+171051	Romans
+171054	Romans
+171056	Romans
+171058	Romans
+171060	Romans
+171063	Romans
+171067	Romans
+171071	Romans
+171075	Romans
+171078	Romans
+Romans
+171081	Romans
+Romans
+171084	Romans
+Romans
+171088	Romans
+171090	Romans
+Romans
+Romans
+Romans
+Romans
+171096	Romans
+171098	Romans
+Romans
+171102	Romans
+171104	Romans
+171106	Romans
+171108	Romans
+171110	Romans
+171112	Romans
+Romans
+171115	Romans
+Romans
+Romans
+171120	Romans
+171123	Romans
+Romans
+171127	Romans
+Romans
+Romans
+171132	Romans
+Romans
+Romans
+171137	Romans
+Romans
+Romans
+171141	Romans
+171143	Romans
+171146	Romans
+171148	Romans
+171151	Romans
+Romans
+171155	Romans
+171157	Romans
+171159	Romans
+Romans
+171163	Romans
+171165	Romans
+Romans
+Romans
+171169	Romans
+Romans
+171172	Romans
+171174	Romans
+Romans
+171178	Romans
+171180	Romans
+171182	Romans
+171184	Romans
+171186	Romans
+Romans
+171189	Romans
+171191	Romans
+171193	Romans
+171196	Romans
+171198	Romans
+171200	Romans
+171203	Romans
+Romans
+171206	Romans
+171208	Romans
+Romans
+Romans
+171212	Romans
+171215	Romans
+Romans
+171220	Romans
+171223	Romans
+Romans
+171226	Romans
+171228	Romans
+Romans
+171231	Romans
+Romans
+Romans
+171235	Romans
+Romans
+171240	Romans
+171242	Romans
+Romans
+Romans
+171246	Romans
+Romans
+171249	Romans
+Romans
+Romans
+Romans
+171254	Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+171262	Romans
+Romans
+Romans
+171267	Romans
+Romans
+171270	Romans
+171272	Romans
+Romans
+Romans
+Romans
+171277	Romans
+171279	Romans
+171281	Romans
+171283	Romans
+Romans
+171287	Romans
+171289	Romans
+171291	Romans
+171293	Romans
+171295	Romans
+Romans
+Romans
+Romans
+171300	Romans
+171302	Romans
+171304	Romans
+Romans
+Romans
+Romans
+Romans
+171310	Romans
+171312	Romans
+Romans
+171315	Romans
+171317	Romans
+171319	Romans
+171321	Romans
+171323	Romans
+171325	Romans
+171327	Romans
+Romans
+171330	Romans
+171332	Romans
+Romans
+171335	Romans
+171337	Romans
+171339	Romans
+171341	Romans
+171343	Romans
+171345	Romans
+171347	Romans
+171349	Romans
+171351	Romans
+171354	Romans
+Romans
+171357	Romans
+171359	Romans
+Romans
+Romans
+Romans
+171364	Romans
+Romans
+Romans
+171368	Romans
+171371	Romans
+Romans
+171374	Romans
+Romans
+171377	Romans
+Romans
+171380	Romans
+171383	Romans
+171385	Romans
+171387	Romans
+171389	Romans
+171391	Romans
+171394	Romans
+171396	Romans
+171399	Romans
+Romans
+171403	Romans
+Romans
+171406	Romans
+171408	Romans
+171410	Romans
+Romans
+Romans
+171414	Romans
+171416	Romans
+Romans
+Romans
+Romans
+171421	Romans
+Romans
+171425	Romans
+171427	Romans
+171429	Romans
+Romans
+Romans
+171433	Romans
+171435	Romans
+Romans
+171438	Romans
+Romans
+Romans
+Romans
+171443	Romans
+171445	Romans
+171447	Romans
+Romans
+171450	Romans
+171452	Romans
+171454	Romans
+Romans
+171457	Romans
+171459	Romans
+171461	Romans
+Romans
+Romans
+Romans
+171466	Romans
+171468	Romans
+171470	Romans
+171472	Romans
+171474	Romans
+Romans
+171477	Romans
+Romans
+171480	Romans
+171482	Romans
+Romans
+Romans
+171486	Romans
+171488	Romans
+171490	Romans
+171492	Romans
+171494	Romans
+171496	Romans
+171499	Romans
+Romans
+171502	Romans
+171504	Romans
+Romans
+171507	Romans
+171509	Romans
+Romans
+171512	Romans
+Romans
+171515	Romans
+171517	Romans
+Romans
+Romans
+171521	Romans
+Romans
+Romans
+Romans
+171526	Romans
+171528	Romans
+Romans
+Romans
+171532	Romans
+171534	Romans
+Romans
+171537	Romans
+171539	Romans
+Romans
+171542	Romans
+171544	Romans
+171547	Romans
+171549	Romans
+171551	Romans
+171554	Romans
+Romans
+171558	Romans
+171560	Romans
+171562	Romans
+171564	Romans
+171566	Romans
+171570	Romans
+171572	Romans
+171574	Romans
+171576	Romans
+171578	Romans
+171580	Romans
+171582	Romans
+Romans
+171585	Romans
+171587	Romans
+171589	Romans
+Romans
+171592	Romans
+Romans
+Romans
+Romans
+171597	Romans
+171599	Romans
+Romans
+171602	Romans
+171604	Romans
+171606	Romans
+171610	Romans
+Romans
+Romans
+171614	Romans
+171616	Romans
+171618	Romans
+171620	Romans
+171622	Romans
+171625	Romans
+Romans
+171628	Romans
+Romans
+171631	Romans
+Romans
+Romans
+171636	Romans
+Romans
+171639	Romans
+Romans
+Romans
+Romans
+171644	Romans
+171646	Romans
+Romans
+171649	Romans
+171651	Romans
+171653	Romans
+171655	Romans
+Romans
+171658	Romans
+171660	Romans
+171662	Romans
+Romans
+171665	Romans
+Romans
+171668	Romans
+Romans
+Romans
+Romans
+171674	Romans
+Romans
+Romans
+171678	Romans
+171680	Romans
+171682	Romans
+171684	Romans
+171686	Romans
+Romans
+171689	Romans
+Romans
+Romans
+171693	Romans
+171695	Romans
+171698	Romans
+171700	Romans
+171702	Romans
+Romans
+171705	Romans
+171707	Romans
+Romans
+171710	Romans
+171712	Romans
+171714	Romans
+171716	Romans
+171721	Romans
+Romans
+171724	Romans
+Romans
+171727	Romans
+Romans
+171731	Romans
+Romans
+171735	Romans
+Romans
+171738	Romans
+171741	Romans
+Romans
+171744	Romans
+Romans
+171750	Romans
+171752	Romans
+171754	Romans
+171757	Romans
+Romans
+171760	Romans
+171762	Romans
+Romans
+Romans
+171766	Romans
+171769	Romans
+Romans
+Romans
+171773	Romans
+171775	Romans
+171778	Romans
+171780	Romans
+Romans
+171783	Romans
+Romans
+171786	Romans
+171788	Romans
+171790	Romans
+Romans
+Romans
+171794	Romans
+171796	Romans
+171798	Romans
+Romans
+171801	Romans
+171804	Romans
+171806	Romans
+171810	Romans
+Romans
+171813	Romans
+171815	Romans
+Romans
+171818	Romans
+171820	Romans
+171822	Romans
+171824	Romans
+Romans
+171827	Romans
+Romans
+171830	Romans
+Romans
+Romans
+Romans
+171836	Romans
+Romans
+Romans
+171840	Romans
+171843	Romans
+Romans
+Romans
+171847	Romans
+171849	Romans
+Romans
+171852	Romans
+171854	Romans
+171856	Romans
+171858	Romans
+171860	Romans
+Romans
+Romans
+171864	Romans
+171868	Romans
+Romans
+Romans
+Romans
+Romans
+171874	Romans
+171876	Romans
+Romans
+171879	Romans
+171881	Romans
+171883	Romans
+Romans
+171886	Romans
+171888	Romans
+Romans
+Romans
+Romans
+171895	Romans
+171897	Romans
+171899	Romans
+171901	Romans
+171906	Romans
+Romans
+Romans
+171911	Romans
+171913	Romans
+171915	Romans
+171917	Romans
+171919	Romans
+171921	Romans
+171923	Romans
+171925	Romans
+171928	Romans
+171930	Romans
+171932	Romans
+171934	Romans
+171936	Romans
+Romans
+171939	Romans
+171941	Romans
+171943	Romans
+171945	Romans
+171949	Romans
+171951	Romans
+171953	Romans
+171955	Romans
+171957	Romans
+171959	Romans
+171961	Romans
+Romans
+171967	Romans
+Romans
+171970	Romans
+171972	Romans
+171974	Romans
+Romans
+171977	Romans
+171979	Romans
+171981	Romans
+Romans
+171984	Romans
+Romans
+Romans
+171988	Romans
+171990	Romans
+171992	Romans
+171994	Romans
+171997	Romans
+171999	Romans
+172001	Romans
+172003	Romans
+172005	Romans
+172007	Romans
+Romans
+Romans
+172011	Romans
+172013	Romans
+172015	Romans
+172017	Romans
+172019	Romans
+172021	Romans
+172024	Romans
+Romans
+Romans
+Romans
+172029	Romans
+172031	Romans
+Romans
+172034	Romans
+Romans
+172037	Romans
+172039	Romans
+Romans
+172042	Romans
+172044	Romans
+172046	Romans
+172048	Romans
+172050	Romans
+172052	Romans
+172054	Romans
+Romans
+172057	Romans
+172059	Romans
+172061	Romans
+172063	Romans
+Romans
+172066	Romans
+172069	Romans
+Romans
+172072	Romans
+172074	Romans
+Romans
+172077	Romans
+Romans
+172080	Romans
+Romans
+172083	Romans
+Romans
+172086	Romans
+172088	Romans
+172090	Romans
+172092	Romans
+Romans
+Romans
+172096	Romans
+Romans
+172099	Romans
+Romans
+172103	Romans
+172105	Romans
+Romans
+Romans
+Romans
+Romans
+172117	Romans
+172119	Romans
+Romans
+172122	Romans
+172124	Romans
+172126	Romans
+172128	Romans
+172134	Romans
+172136	Romans
+172141	Romans
+Romans
+Romans
+Romans
+172146	Romans
+172148	Romans
+172150	Romans
+Romans
+Romans
+172154	Romans
+172160	Romans
+172162	Romans
+Romans
+Romans
+172167	Romans
+Romans
+Romans
+172171	Romans
+172174	Romans
+172176	Romans
+Romans
+Romans
+Romans
+172181	Romans
+172183	Romans
+Romans
+172186	Romans
+172188	Romans
+Romans
+172191	Romans
+172193	Romans
+172196	Romans
+172198	Romans
+Romans
+172201	Romans
+172203	Romans
+Romans
+172206	Romans
+172208	Romans
+172210	Romans
+Romans
+172213	Romans
+Romans
+172216	Romans
+172218	Romans
+172220	Romans
+172223	Romans
+172225	Romans
+172228	Romans
+Romans
+172231	Romans
+172233	Romans
+172235	Romans
+172238	Romans
+172242	Romans
+Romans
+172245	Romans
+Romans
+172248	Romans
+Romans
+172251	Romans
+172254	Romans
+172256	Romans
+172258	Romans
+172260	Romans
+Romans
+172264	Romans
+Romans
+172268	Romans
+172270	Romans
+172273	Romans
+Romans
+Romans
+172277	Romans
+Romans
+172281	Romans
+Romans
+Romans
+172285	Romans
+Romans
+172288	Romans
+172290	Romans
+Romans
+172293	Romans
+172295	Romans
+Romans
+Romans
+Romans
+172300	Romans
+172302	Romans
+Romans
+172305	Romans
+Romans
+172310	Romans
+172312	Romans
+172314	Romans
+172317	Romans
+172319	Romans
+172321	Romans
+172323	Romans
+172326	Romans
+Romans
+Romans
+172330	Romans
+172332	Romans
+Romans
+172335	Romans
+Romans
+Romans
+172340	Romans
+172342	Romans
+172345	Romans
+172348	Romans
+172350	Romans
+172352	Romans
+172354	Romans
+Romans
+172357	Romans
+Romans
+172360	Romans
+172362	Romans
+172364	Romans
+172366	Romans
+172368	Romans
+172370	Romans
+Romans
+Romans
+Romans
+Romans
+172376	Romans
+Romans
+Romans
+172380	Romans
+Romans
+Romans
+172384	Romans
+Romans
+172388	Romans
+172390	Romans
+172392	Romans
+Romans
+172395	Romans
+172397	Romans
+172399	Romans
+Romans
+172402	Romans
+172404	Romans
+172408	Romans
+Romans
+172411	Romans
+172413	Romans
+172415	Romans
+172417	Romans
+Romans
+172420	Romans
+Romans
+172423	Romans
+Romans
+172426	Romans
+172428	Romans
+172430	Romans
+Romans
+172433	Romans
+172435	Romans
+172437	Romans
+Romans
+172441	Romans
+172443	Romans
+172445	Romans
+172447	Romans
+172449	Romans
+172451	Romans
+172453	Romans
+172455	Romans
+Romans
+Romans
+Romans
+172460	Romans
+172462	Romans
+Romans
+172465	Romans
+Romans
+172468	Romans
+172470	Romans
+Romans
+Romans
+172474	Romans
+172476	Romans
+172478	Romans
+Romans
+172481	Romans
+Romans
+Romans
+172485	Romans
+Romans
+172488	Romans
+172491	Romans
+Romans
+Romans
+172495	Romans
+172497	Romans
+Romans
+Romans
+172501	Romans
+172505	Romans
+172507	Romans
+172510	Romans
+Romans
+Romans
+172514	Romans
+172516	Romans
+172518	Romans
+Romans
+Romans
+172522	Romans
+172524	Romans
+Romans
+172529	Romans
+172531	Romans
+172533	Romans
+172535	Romans
+172537	Romans
+172539	Romans
+Romans
+172542	Romans
+172544	Romans
+172546	Romans
+172548	Romans
+172550	Romans
+172552	Romans
+172555	Romans
+Romans
+Romans
+172559	Romans
+172561	Romans
+172565	Romans
+172567	Romans
+172571	Romans
+172575	Romans
+172578	Romans
+172580	Romans
+Romans
+172583	Romans
+Romans
+172587	Romans
+Romans
+Romans
+172591	Romans
+Romans
+172594	Romans
+Romans
+Romans
+172598	Romans
+Romans
+Romans
+172602	Romans
+172604	Romans
+172606	Romans
+172610	Romans
+172612	Romans
+172614	Romans
+172616	Romans
+172618	Romans
+172620	Romans
+172622	Romans
+172624	Romans
+Romans
+172627	Romans
+172629	Romans
+172631	Romans
+172634	Romans
+172637	Romans
+172639	Romans
+Romans
+172642	Romans
+172644	Romans
+Romans
+172647	Romans
+Romans
+172650	Romans
+172652	Romans
+172654	Romans
+172656	Romans
+172658	Romans
+172663	Romans
+172665	Romans
+172667	Romans
+172669	Romans
+172671	Romans
+172677	Romans
+172679	Romans
+172681	Romans
+172683	Romans
+172685	Romans
+172687	Romans
+172689	Romans
+172692	Romans
+172695	Romans
+Romans
+172698	Romans
+Romans
+172701	Romans
+Romans
+172704	Romans
+Romans
+172709	Romans
+172711	Romans
+172713	Romans
+Romans
+Romans
+Romans
+Romans
+172719	Romans
+172721	Romans
+172725	Romans
+172727	Romans
+Romans
+172730	Romans
+172732	Romans
+172734	Romans
+172736	Romans
+Romans
+172739	Romans
+Romans
+172742	Romans
+172744	Romans
+172746	Romans
+172748	Romans
+Romans
+172751	Romans
+Romans
+172754	Romans
+Romans
+172757	Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+172773	Romans
+Romans
+172776	Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+172789	Romans
+172791	Romans
+172793	Romans
+172795	Romans
+Romans
+Romans
+Romans
+172800	Romans
+172802	Romans
+Romans
+172805	Romans
+172807	Romans
+Romans
+Romans
+172811	Romans
+Romans
+Romans
+172815	Romans
+172817	Romans
+172819	Romans
+172821	Romans
+172823	Romans
+172825	Romans
+172827	Romans
+172829	Romans
+172831	Romans
+172833	Romans
+Romans
+Romans
+172837	Romans
+172839	Romans
+172841	Romans
+172843	Romans
+172845	Romans
+172847	Romans
+Romans
+172850	Romans
+172852	Romans
+Romans
+172855	Romans
+172857	Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+172866	Romans
+172868	Romans
+172870	Romans
+172872	Romans
+172877	Romans
+Romans
+Romans
+Romans
+172883	Romans
+Romans
+172886	Romans
+172888	Romans
+Romans
+172891	Romans
+172893	Romans
+172895	Romans
+Romans
+172898	Romans
+172901	Romans
+Romans
+172904	Romans
+172906	Romans
+172908	Romans
+172911	Romans
+Romans
+172914	Romans
+172916	Romans
+172919	Romans
+172921	Romans
+172923	Romans
+172925	Romans
+Romans
+172928	Romans
+Romans
+172931	Romans
+172933	Romans
+Romans
+172936	Romans
+172938	Romans
+172940	Romans
+172942	Romans
+172944	Romans
+172946	Romans
+Romans
+172950	Romans
+Romans
+172954	Romans
+172956	Romans
+Romans
+172960	Romans
+172962	Romans
+Romans
+Romans
+172966	Romans
+172968	Romans
+172970	Romans
+172972	Romans
+172974	Romans
+172976	Romans
+172978	Romans
+172980	Romans
+172982	Romans
+172986	Romans
+Romans
+172990	Romans
+Romans
+172993	Romans
+172996	Romans
+172999	Romans
+173001	Romans
+173004	Romans
+173007	Romans
+173009	Romans
+173011	Romans
+173013	Romans
+173015	Romans
+173017	Romans
+Romans
+173020	Romans
+173022	Romans
+173025	Romans
+173027	Romans
+173029	Romans
+173032	Romans
+173034	Romans
+173037	Romans
+173040	Romans
+173043	Romans
+Romans
+173046	Romans
+173048	Romans
+Romans
+Romans
+173052	Romans
+173054	Romans
+173056	Romans
+173060	Romans
+173062	Romans
+173064	Romans
+173067	Romans
+173069	Romans
+173071	Romans
+173073	Romans
+173075	Romans
+Romans
+173079	Romans
+173081	Romans
+173083	Romans
+Romans
+Romans
+Romans
+173088	Romans
+Romans
+173092	Romans
+173094	Romans
+Romans
+173097	Romans
+173099	Romans
+Romans
+173102	Romans
+Romans
+173105	Romans
+Romans
+173108	Romans
+173111	Romans
+Romans
+173114	Romans
+173116	Romans
+Romans
+Romans
+Romans
+173122	Romans
+173124	Romans
+173126	Romans
+173129	Romans
+173131	Romans
+173133	Romans
+Romans
+173137	Romans
+173139	Romans
+173141	Romans
+Romans
+173144	Romans
+173146	Romans
+Romans
+173150	Romans
+173152	Romans
+173155	Romans
+173157	Romans
+Romans
+173160	Romans
+Romans
+Romans
+173164	Romans
+173167	Romans
+173169	Romans
+173174	Romans
+Romans
+Romans
+Romans
+173179	Romans
+173181	Romans
+173183	Romans
+173185	Romans
+Romans
+173188	Romans
+Romans
+173191	Romans
+173193	Romans
+Romans
+Romans
+173199	Romans
+173201	Romans
+Romans
+Romans
+173205	Romans
+173207	Romans
+Romans
+Romans
+173211	Romans
+Romans
+173214	Romans
+173216	Romans
+173218	Romans
+173220	Romans
+173222	Romans
+173225	Romans
+173227	Romans
+Romans
+Romans
+173231	Romans
+173233	Romans
+173235	Romans
+Romans
+173238	Romans
+173240	Romans
+173242	Romans
+173244	Romans
+173246	Romans
+173248	Romans
+Romans
+173251	Romans
+Romans
+173254	Romans
+173256	Romans
+173258	Romans
+Romans
+173262	Romans
+Romans
+173267	Romans
+173269	Romans
+173271	Romans
+173273	Romans
+Romans
+173276	Romans
+173279	Romans
+Romans
+173282	Romans
+173284	Romans
+173286	Romans
+173288	Romans
+173290	Romans
+173292	Romans
+Romans
+173295	Romans
+Romans
+Romans
+Romans
+Romans
+173302	Romans
+Romans
+Romans
+Romans
+173307	Romans
+Romans
+Romans
+Romans
+173312	Romans
+Romans
+173316	Romans
+Romans
+Romans
+Romans
+173322	Romans
+173324	Romans
+173329	Romans
+Romans
+173333	Romans
+Romans
+173337	Romans
+173339	Romans
+173341	Romans
+173343	Romans
+173345	Romans
+173347	Romans
+173350	Romans
+173352	Romans
+173354	Romans
+Romans
+173357	Romans
+173359	Romans
+Romans
+Romans
+173365	Romans
+173367	Romans
+Romans
+173370	Romans
+173376	Romans
+Romans
+173380	Romans
+173382	Romans
+173384	Romans
+173386	1Corinthians
+173389	1Corinthians
+1Corinthians
+173392	1Corinthians
+1Corinthians
+173395	1Corinthians
+173398	1Corinthians
+1Corinthians
+173401	1Corinthians
+1Corinthians
+173405	1Corinthians
+173407	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+173416	1Corinthians
+173418	1Corinthians
+173420	1Corinthians
+173426	1Corinthians
+173428	1Corinthians
+173430	1Corinthians
+173432	1Corinthians
+173434	1Corinthians
+173436	1Corinthians
+173438	1Corinthians
+1Corinthians
+173441	1Corinthians
+173443	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+173448	1Corinthians
+173451	1Corinthians
+173453	1Corinthians
+173455	1Corinthians
+1Corinthians
+173458	1Corinthians
+173460	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+173465	1Corinthians
+173468	1Corinthians
+173470	1Corinthians
+173472	1Corinthians
+173474	1Corinthians
+173476	1Corinthians
+1Corinthians
+173479	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+173484	1Corinthians
+173487	1Corinthians
+1Corinthians
+1Corinthians
+173491	1Corinthians
+173494	1Corinthians
+173496	1Corinthians
+173498	1Corinthians
+1Corinthians
+173501	1Corinthians
+173503	1Corinthians
+173505	1Corinthians
+173510	1Corinthians
+173512	1Corinthians
+173517	1Corinthians
+1Corinthians
+1Corinthians
+173521	1Corinthians
+173523	1Corinthians
+173525	1Corinthians
+173527	1Corinthians
+173529	1Corinthians
+173532	1Corinthians
+173534	1Corinthians
+173536	1Corinthians
+173538	1Corinthians
+173540	1Corinthians
+173542	1Corinthians
+1Corinthians
+173549	1Corinthians
+1Corinthians
+173552	1Corinthians
+1Corinthians
+1Corinthians
+173556	1Corinthians
+173559	1Corinthians
+1Corinthians
+173562	1Corinthians
+173564	1Corinthians
+1Corinthians
+173569	1Corinthians
+173573	1Corinthians
+173575	1Corinthians
+173577	1Corinthians
+173580	1Corinthians
+173582	1Corinthians
+173584	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+173589	1Corinthians
+173591	1Corinthians
+173594	1Corinthians
+1Corinthians
+173597	1Corinthians
+173599	1Corinthians
+173601	1Corinthians
+1Corinthians
+173604	1Corinthians
+173606	1Corinthians
+173608	1Corinthians
+1Corinthians
+173611	1Corinthians
+173613	1Corinthians
+1Corinthians
+173616	1Corinthians
+173618	1Corinthians
+1Corinthians
+173621	1Corinthians
+173623	1Corinthians
+1Corinthians
+1Corinthians
+173627	1Corinthians
+173629	1Corinthians
+173631	1Corinthians
+1Corinthians
+173634	1Corinthians
+173636	1Corinthians
+173638	1Corinthians
+173640	1Corinthians
+1Corinthians
+173643	1Corinthians
+1Corinthians
+173646	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+173651	1Corinthians
+173653	1Corinthians
+173655	1Corinthians
+173658	1Corinthians
+173661	1Corinthians
+173663	1Corinthians
+173667	1Corinthians
+1Corinthians
+173670	1Corinthians
+1Corinthians
+173673	1Corinthians
+173675	1Corinthians
+173677	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+173685	1Corinthians
+173688	1Corinthians
+173690	1Corinthians
+173692	1Corinthians
+173694	1Corinthians
+173696	1Corinthians
+1Corinthians
+173699	1Corinthians
+173701	1Corinthians
+173704	1Corinthians
+173706	1Corinthians
+173708	1Corinthians
+1Corinthians
+1Corinthians
+173712	1Corinthians
+173714	1Corinthians
+173716	1Corinthians
+1Corinthians
+173719	1Corinthians
+1Corinthians
+173722	1Corinthians
+1Corinthians
+173726	1Corinthians
+1Corinthians
+173729	1Corinthians
+173731	1Corinthians
+173733	1Corinthians
+1Corinthians
+1Corinthians
+173737	1Corinthians
+1Corinthians
+1Corinthians
+173741	1Corinthians
+173743	1Corinthians
+173746	1Corinthians
+1Corinthians
+173749	1Corinthians
+173751	1Corinthians
+1Corinthians
+173754	1Corinthians
+173756	1Corinthians
+1Corinthians
+1Corinthians
+173760	1Corinthians
+1Corinthians
+1Corinthians
+173764	1Corinthians
+173766	1Corinthians
+173768	1Corinthians
+1Corinthians
+173771	1Corinthians
+173773	1Corinthians
+1Corinthians
+173776	1Corinthians
+173778	1Corinthians
+173780	1Corinthians
+1Corinthians
+173789	1Corinthians
+173791	1Corinthians
+173793	1Corinthians
+173795	1Corinthians
+1Corinthians
+173798	1Corinthians
+173800	1Corinthians
+173802	1Corinthians
+173804	1Corinthians
+1Corinthians
+1Corinthians
+173809	1Corinthians
+173811	1Corinthians
+173813	1Corinthians
+173815	1Corinthians
+173817	1Corinthians
+173819	1Corinthians
+173822	1Corinthians
+1Corinthians
+173825	1Corinthians
+173827	1Corinthians
+173829	1Corinthians
+173832	1Corinthians
+173836	1Corinthians
+173838	1Corinthians
+1Corinthians
+173841	1Corinthians
+173843	1Corinthians
+173845	1Corinthians
+1Corinthians
+173849	1Corinthians
+1Corinthians
+173852	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+173859	1Corinthians
+173861	1Corinthians
+173863	1Corinthians
+1Corinthians
+173866	1Corinthians
+173869	1Corinthians
+173871	1Corinthians
+1Corinthians
+173874	1Corinthians
+1Corinthians
+173877	1Corinthians
+1Corinthians
+173885	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+173897	1Corinthians
+173900	1Corinthians
+173902	1Corinthians
+173904	1Corinthians
+173906	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+173911	1Corinthians
+1Corinthians
+1Corinthians
+173915	1Corinthians
+173917	1Corinthians
+173919	1Corinthians
+173921	1Corinthians
+173923	1Corinthians
+173925	1Corinthians
+173927	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+173932	1Corinthians
+173934	1Corinthians
+173936	1Corinthians
+173938	1Corinthians
+173940	1Corinthians
+173942	1Corinthians
+173944	1Corinthians
+173946	1Corinthians
+173948	1Corinthians
+173950	1Corinthians
+173952	1Corinthians
+173954	1Corinthians
+173956	1Corinthians
+1Corinthians
+1Corinthians
+173961	1Corinthians
+1Corinthians
+1Corinthians
+173965	1Corinthians
+1Corinthians
+173968	1Corinthians
+173970	1Corinthians
+173972	1Corinthians
+173974	1Corinthians
+173978	1Corinthians
+1Corinthians
+1Corinthians
+173986	1Corinthians
+1Corinthians
+173989	1Corinthians
+1Corinthians
+173992	1Corinthians
+1Corinthians
+173999	1Corinthians
+174001	1Corinthians
+1Corinthians
+174004	1Corinthians
+174006	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174012	1Corinthians
+174014	1Corinthians
+174016	1Corinthians
+174018	1Corinthians
+174020	1Corinthians
+1Corinthians
+174023	1Corinthians
+174025	1Corinthians
+174030	1Corinthians
+174033	1Corinthians
+1Corinthians
+174036	1Corinthians
+1Corinthians
+1Corinthians
+174040	1Corinthians
+174042	1Corinthians
+174045	1Corinthians
+174047	1Corinthians
+1Corinthians
+1Corinthians
+174051	1Corinthians
+174054	1Corinthians
+174056	1Corinthians
+174058	1Corinthians
+1Corinthians
+1Corinthians
+174072	1Corinthians
+174074	1Corinthians
+174076	1Corinthians
+174078	1Corinthians
+174080	1Corinthians
+174082	1Corinthians
+1Corinthians
+174085	1Corinthians
+1Corinthians
+174088	1Corinthians
+174090	1Corinthians
+174094	1Corinthians
+174096	1Corinthians
+174098	1Corinthians
+174100	1Corinthians
+174102	1Corinthians
+1Corinthians
+174105	1Corinthians
+174107	1Corinthians
+1Corinthians
+1Corinthians
+174111	1Corinthians
+174113	1Corinthians
+174115	1Corinthians
+174117	1Corinthians
+1Corinthians
+174120	1Corinthians
+174122	1Corinthians
+1Corinthians
+174125	1Corinthians
+174127	1Corinthians
+174129	1Corinthians
+174131	1Corinthians
+174133	1Corinthians
+174135	1Corinthians
+1Corinthians
+174138	1Corinthians
+174140	1Corinthians
+174142	1Corinthians
+174144	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174149	1Corinthians
+174151	1Corinthians
+1Corinthians
+174154	1Corinthians
+1Corinthians
+174157	1Corinthians
+174160	1Corinthians
+174162	1Corinthians
+1Corinthians
+174167	1Corinthians
+174169	1Corinthians
+174171	1Corinthians
+174173	1Corinthians
+174175	1Corinthians
+1Corinthians
+174178	1Corinthians
+1Corinthians
+174181	1Corinthians
+174183	1Corinthians
+174185	1Corinthians
+174187	1Corinthians
+174189	1Corinthians
+174191	1Corinthians
+174193	1Corinthians
+174195	1Corinthians
+174197	1Corinthians
+1Corinthians
+174200	1Corinthians
+174202	1Corinthians
+174204	1Corinthians
+1Corinthians
+174209	1Corinthians
+1Corinthians
+174212	1Corinthians
+174214	1Corinthians
+174216	1Corinthians
+174218	1Corinthians
+174220	1Corinthians
+1Corinthians
+1Corinthians
+174224	1Corinthians
+174227	1Corinthians
+174229	1Corinthians
+1Corinthians
+174232	1Corinthians
+174234	1Corinthians
+174237	1Corinthians
+174239	1Corinthians
+174241	1Corinthians
+174243	1Corinthians
+1Corinthians
+174247	1Corinthians
+174252	1Corinthians
+174257	1Corinthians
+174261	1Corinthians
+174263	1Corinthians
+1Corinthians
+174266	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174274	1Corinthians
+174276	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174284	1Corinthians
+1Corinthians
+1Corinthians
+174288	1Corinthians
+1Corinthians
+174291	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174297	1Corinthians
+174299	1Corinthians
+174301	1Corinthians
+1Corinthians
+1Corinthians
+174305	1Corinthians
+1Corinthians
+1Corinthians
+174309	1Corinthians
+174311	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174317	1Corinthians
+174319	1Corinthians
+174321	1Corinthians
+174323	1Corinthians
+174325	1Corinthians
+174327	1Corinthians
+174331	1Corinthians
+174334	1Corinthians
+174336	1Corinthians
+174338	1Corinthians
+174340	1Corinthians
+174342	1Corinthians
+174344	1Corinthians
+174346	1Corinthians
+174348	1Corinthians
+174350	1Corinthians
+174352	1Corinthians
+174354	1Corinthians
+174356	1Corinthians
+174358	1Corinthians
+174360	1Corinthians
+174362	1Corinthians
+174364	1Corinthians
+174366	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174371	1Corinthians
+174373	1Corinthians
+1Corinthians
+174376	1Corinthians
+1Corinthians
+174381	1Corinthians
+174385	1Corinthians
+174387	1Corinthians
+1Corinthians
+174390	1Corinthians
+174392	1Corinthians
+1Corinthians
+174396	1Corinthians
+174398	1Corinthians
+1Corinthians
+174401	1Corinthians
+174403	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174409	1Corinthians
+174411	1Corinthians
+1Corinthians
+174414	1Corinthians
+174416	1Corinthians
+1Corinthians
+174420	1Corinthians
+174422	1Corinthians
+174424	1Corinthians
+174426	1Corinthians
+1Corinthians
+1Corinthians
+174430	1Corinthians
+174432	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174437	1Corinthians
+174439	1Corinthians
+174441	1Corinthians
+1Corinthians
+174444	1Corinthians
+174446	1Corinthians
+1Corinthians
+174449	1Corinthians
+174451	1Corinthians
+1Corinthians
+1Corinthians
+174455	1Corinthians
+1Corinthians
+174459	1Corinthians
+1Corinthians
+174462	1Corinthians
+174464	1Corinthians
+174467	1Corinthians
+174469	1Corinthians
+174472	1Corinthians
+1Corinthians
+174477	1Corinthians
+174479	1Corinthians
+174481	1Corinthians
+174483	1Corinthians
+174485	1Corinthians
+174487	1Corinthians
+174489	1Corinthians
+174491	1Corinthians
+174493	1Corinthians
+174495	1Corinthians
+174497	1Corinthians
+174499	1Corinthians
+1Corinthians
+174502	1Corinthians
+174504	1Corinthians
+174506	1Corinthians
+174508	1Corinthians
+174510	1Corinthians
+174512	1Corinthians
+174515	1Corinthians
+174518	1Corinthians
+1Corinthians
+174521	1Corinthians
+174523	1Corinthians
+1Corinthians
+174526	1Corinthians
+174528	1Corinthians
+174530	1Corinthians
+1Corinthians
+174533	1Corinthians
+1Corinthians
+174536	1Corinthians
+1Corinthians
+174541	1Corinthians
+174543	1Corinthians
+174545	1Corinthians
+174547	1Corinthians
+174549	1Corinthians
+174551	1Corinthians
+174554	1Corinthians
+174556	1Corinthians
+174558	1Corinthians
+1Corinthians
+174561	1Corinthians
+174563	1Corinthians
+1Corinthians
+174567	1Corinthians
+1Corinthians
+174570	1Corinthians
+174574	1Corinthians
+174576	1Corinthians
+1Corinthians
+1Corinthians
+174580	1Corinthians
+174582	1Corinthians
+174584	1Corinthians
+174586	1Corinthians
+174588	1Corinthians
+174590	1Corinthians
+1Corinthians
+1Corinthians
+174594	1Corinthians
+174596	1Corinthians
+174598	1Corinthians
+174600	1Corinthians
+1Corinthians
+174603	1Corinthians
+174605	1Corinthians
+174607	1Corinthians
+174609	1Corinthians
+174612	1Corinthians
+174614	1Corinthians
+174616	1Corinthians
+174618	1Corinthians
+174620	1Corinthians
+174622	1Corinthians
+174624	1Corinthians
+1Corinthians
+174627	1Corinthians
+174629	1Corinthians
+1Corinthians
+174632	1Corinthians
+1Corinthians
+174635	1Corinthians
+1Corinthians
+174638	1Corinthians
+174640	1Corinthians
+174642	1Corinthians
+174644	1Corinthians
+1Corinthians
+174647	1Corinthians
+174650	1Corinthians
+1Corinthians
+174653	1Corinthians
+174655	1Corinthians
+174657	1Corinthians
+174659	1Corinthians
+174661	1Corinthians
+174663	1Corinthians
+174665	1Corinthians
+174667	1Corinthians
+174669	1Corinthians
+1Corinthians
+174672	1Corinthians
+174674	1Corinthians
+1Corinthians
+174677	1Corinthians
+174679	1Corinthians
+174681	1Corinthians
+1Corinthians
+1Corinthians
+174685	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174690	1Corinthians
+1Corinthians
+174693	1Corinthians
+1Corinthians
+174696	1Corinthians
+174698	1Corinthians
+174700	1Corinthians
+1Corinthians
+174706	1Corinthians
+174708	1Corinthians
+174710	1Corinthians
+1Corinthians
+174713	1Corinthians
+174715	1Corinthians
+174717	1Corinthians
+174722	1Corinthians
+174724	1Corinthians
+1Corinthians
+174727	1Corinthians
+174729	1Corinthians
+1Corinthians
+174732	1Corinthians
+174734	1Corinthians
+174736	1Corinthians
+174739	1Corinthians
+1Corinthians
+174742	1Corinthians
+1Corinthians
+174746	1Corinthians
+174748	1Corinthians
+174750	1Corinthians
+174753	1Corinthians
+174755	1Corinthians
+174757	1Corinthians
+1Corinthians
+174760	1Corinthians
+174762	1Corinthians
+174764	1Corinthians
+174766	1Corinthians
+174768	1Corinthians
+174770	1Corinthians
+174772	1Corinthians
+174774	1Corinthians
+174776	1Corinthians
+1Corinthians
+1Corinthians
+174781	1Corinthians
+1Corinthians
+174784	1Corinthians
+174786	1Corinthians
+174788	1Corinthians
+174790	1Corinthians
+174792	1Corinthians
+174794	1Corinthians
+174796	1Corinthians
+174798	1Corinthians
+174800	1Corinthians
+174802	1Corinthians
+174804	1Corinthians
+1Corinthians
+174807	1Corinthians
+174809	1Corinthians
+1Corinthians
+174812	1Corinthians
+1Corinthians
+174815	1Corinthians
+174817	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174824	1Corinthians
+1Corinthians
+174827	1Corinthians
+174830	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174839	1Corinthians
+174841	1Corinthians
+1Corinthians
+174844	1Corinthians
+174846	1Corinthians
+174848	1Corinthians
+174850	1Corinthians
+174853	1Corinthians
+174857	1Corinthians
+1Corinthians
+174861	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174866	1Corinthians
+1Corinthians
+1Corinthians
+174870	1Corinthians
+174872	1Corinthians
+174874	1Corinthians
+1Corinthians
+174877	1Corinthians
+1Corinthians
+174880	1Corinthians
+1Corinthians
+174883	1Corinthians
+1Corinthians
+174886	1Corinthians
+1Corinthians
+174889	1Corinthians
+174892	1Corinthians
+174894	1Corinthians
+1Corinthians
+1Corinthians
+174898	1Corinthians
+1Corinthians
+174902	1Corinthians
+1Corinthians
+1Corinthians
+174906	1Corinthians
+174909	1Corinthians
+174911	1Corinthians
+174913	1Corinthians
+1Corinthians
+1Corinthians
+174918	1Corinthians
+174920	1Corinthians
+174922	1Corinthians
+1Corinthians
+1Corinthians
+174929	1Corinthians
+1Corinthians
+174932	1Corinthians
+1Corinthians
+174935	1Corinthians
+174937	1Corinthians
+174939	1Corinthians
+174942	1Corinthians
+1Corinthians
+174945	1Corinthians
+1Corinthians
+174948	1Corinthians
+174950	1Corinthians
+174952	1Corinthians
+1Corinthians
+1Corinthians
+174956	1Corinthians
+174958	1Corinthians
+1Corinthians
+174962	1Corinthians
+174965	1Corinthians
+174967	1Corinthians
+174969	1Corinthians
+174971	1Corinthians
+174973	1Corinthians
+174975	1Corinthians
+174979	1Corinthians
+1Corinthians
+1Corinthians
+174984	1Corinthians
+174986	1Corinthians
+1Corinthians
+174989	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+174995	1Corinthians
+174997	1Corinthians
+174999	1Corinthians
+175001	1Corinthians
+175003	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175011	1Corinthians
+175013	1Corinthians
+175015	1Corinthians
+175017	1Corinthians
+175019	1Corinthians
+175022	1Corinthians
+1Corinthians
+1Corinthians
+175026	1Corinthians
+175028	1Corinthians
+1Corinthians
+175031	1Corinthians
+175035	1Corinthians
+1Corinthians
+1Corinthians
+175039	1Corinthians
+175041	1Corinthians
+1Corinthians
+175044	1Corinthians
+175046	1Corinthians
+1Corinthians
+1Corinthians
+175050	1Corinthians
+175052	1Corinthians
+175055	1Corinthians
+175057	1Corinthians
+175060	1Corinthians
+175062	1Corinthians
+175065	1Corinthians
+175067	1Corinthians
+175069	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175074	1Corinthians
+1Corinthians
+175077	1Corinthians
+1Corinthians
+175080	1Corinthians
+1Corinthians
+175083	1Corinthians
+1Corinthians
+1Corinthians
+175087	1Corinthians
+175089	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175095	1Corinthians
+175099	1Corinthians
+175101	1Corinthians
+1Corinthians
+1Corinthians
+175105	1Corinthians
+175107	1Corinthians
+1Corinthians
+175110	1Corinthians
+175113	1Corinthians
+175115	1Corinthians
+175117	1Corinthians
+175119	1Corinthians
+175121	1Corinthians
+175124	1Corinthians
+1Corinthians
+175128	1Corinthians
+175131	1Corinthians
+175133	1Corinthians
+175135	1Corinthians
+1Corinthians
+175138	1Corinthians
+175140	1Corinthians
+175142	1Corinthians
+175144	1Corinthians
+175147	1Corinthians
+175149	1Corinthians
+175151	1Corinthians
+175154	1Corinthians
+175156	1Corinthians
+175158	1Corinthians
+1Corinthians
+175162	1Corinthians
+1Corinthians
+175166	1Corinthians
+175168	1Corinthians
+175170	1Corinthians
+1Corinthians
+1Corinthians
+175174	1Corinthians
+1Corinthians
+1Corinthians
+175178	1Corinthians
+175180	1Corinthians
+175182	1Corinthians
+175184	1Corinthians
+175186	1Corinthians
+175188	1Corinthians
+175190	1Corinthians
+175192	1Corinthians
+175194	1Corinthians
+175196	1Corinthians
+175199	1Corinthians
+175201	1Corinthians
+1Corinthians
+175204	1Corinthians
+175206	1Corinthians
+175208	1Corinthians
+175210	1Corinthians
+1Corinthians
+175213	1Corinthians
+175215	1Corinthians
+175217	1Corinthians
+175219	1Corinthians
+175221	1Corinthians
+175223	1Corinthians
+175225	1Corinthians
+175227	1Corinthians
+1Corinthians
+175230	1Corinthians
+1Corinthians
+175237	1Corinthians
+175239	1Corinthians
+175241	1Corinthians
+175243	1Corinthians
+1Corinthians
+175246	1Corinthians
+175249	1Corinthians
+175251	1Corinthians
+1Corinthians
+175254	1Corinthians
+1Corinthians
+175257	1Corinthians
+1Corinthians
+175260	1Corinthians
+175262	1Corinthians
+175264	1Corinthians
+175266	1Corinthians
+175268	1Corinthians
+175271	1Corinthians
+175273	1Corinthians
+175275	1Corinthians
+1Corinthians
+1Corinthians
+175279	1Corinthians
+1Corinthians
+175282	1Corinthians
+1Corinthians
+1Corinthians
+175286	1Corinthians
+1Corinthians
+1Corinthians
+175290	1Corinthians
+175292	1Corinthians
+175294	1Corinthians
+1Corinthians
+175297	1Corinthians
+175299	1Corinthians
+175301	1Corinthians
+175304	1Corinthians
+1Corinthians
+175307	1Corinthians
+1Corinthians
+175310	1Corinthians
+175314	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175322	1Corinthians
+175324	1Corinthians
+175326	1Corinthians
+175328	1Corinthians
+175330	1Corinthians
+175332	1Corinthians
+175334	1Corinthians
+175336	1Corinthians
+175338	1Corinthians
+175340	1Corinthians
+175343	1Corinthians
+1Corinthians
+1Corinthians
+175347	1Corinthians
+175350	1Corinthians
+175352	1Corinthians
+175356	1Corinthians
+175358	1Corinthians
+175360	1Corinthians
+1Corinthians
+175363	1Corinthians
+175365	1Corinthians
+175367	1Corinthians
+175370	1Corinthians
+175372	1Corinthians
+175374	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175393	1Corinthians
+1Corinthians
+175396	1Corinthians
+1Corinthians
+175399	1Corinthians
+1Corinthians
+175402	1Corinthians
+175404	1Corinthians
+175406	1Corinthians
+175408	1Corinthians
+175410	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175416	1Corinthians
+175418	1Corinthians
+175420	1Corinthians
+1Corinthians
+175423	1Corinthians
+175425	1Corinthians
+175427	1Corinthians
+175429	1Corinthians
+1Corinthians
+175432	1Corinthians
+175435	1Corinthians
+175437	1Corinthians
+175439	1Corinthians
+175441	1Corinthians
+175443	1Corinthians
+175445	1Corinthians
+175447	1Corinthians
+175449	1Corinthians
+175452	1Corinthians
+175454	1Corinthians
+175456	1Corinthians
+175458	1Corinthians
+175460	1Corinthians
+1Corinthians
+175464	1Corinthians
+175466	1Corinthians
+175468	1Corinthians
+175470	1Corinthians
+175472	1Corinthians
+175474	1Corinthians
+175476	1Corinthians
+175480	1Corinthians
+175482	1Corinthians
+1Corinthians
+175485	1Corinthians
+175491	1Corinthians
+1Corinthians
+1Corinthians
+175497	1Corinthians
+1Corinthians
+175500	1Corinthians
+175503	1Corinthians
+175505	1Corinthians
+175507	1Corinthians
+175510	1Corinthians
+1Corinthians
+175513	1Corinthians
+175515	1Corinthians
+1Corinthians
+175518	1Corinthians
+175520	1Corinthians
+175523	1Corinthians
+1Corinthians
+175526	1Corinthians
+175528	1Corinthians
+175530	1Corinthians
+175535	1Corinthians
+1Corinthians
+175538	1Corinthians
+175540	1Corinthians
+175542	1Corinthians
+175544	1Corinthians
+175547	1Corinthians
+1Corinthians
+175550	1Corinthians
+175552	1Corinthians
+1Corinthians
+175555	1Corinthians
+1Corinthians
+175558	1Corinthians
+175561	1Corinthians
+1Corinthians
+175564	1Corinthians
+175566	1Corinthians
+1Corinthians
+175570	1Corinthians
+175572	1Corinthians
+1Corinthians
+1Corinthians
+175576	1Corinthians
+1Corinthians
+175579	1Corinthians
+175581	1Corinthians
+175584	1Corinthians
+1Corinthians
+175587	1Corinthians
+1Corinthians
+175590	1Corinthians
+175593	1Corinthians
+1Corinthians
+175596	1Corinthians
+175598	1Corinthians
+175600	1Corinthians
+175602	1Corinthians
+175605	1Corinthians
+175607	1Corinthians
+175609	1Corinthians
+175612	1Corinthians
+175614	1Corinthians
+175617	1Corinthians
+175619	1Corinthians
+175621	1Corinthians
+1Corinthians
+1Corinthians
+175625	1Corinthians
+1Corinthians
+1Corinthians
+175629	1Corinthians
+175631	1Corinthians
+175634	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175642	1Corinthians
+1Corinthians
+175647	1Corinthians
+175650	1Corinthians
+1Corinthians
+175653	1Corinthians
+175656	1Corinthians
+175658	1Corinthians
+175661	1Corinthians
+1Corinthians
+1Corinthians
+175665	1Corinthians
+1Corinthians
+175668	1Corinthians
+175670	1Corinthians
+175672	1Corinthians
+175674	1Corinthians
+1Corinthians
+175677	1Corinthians
+1Corinthians
+175680	1Corinthians
+1Corinthians
+175683	1Corinthians
+175685	1Corinthians
+175688	1Corinthians
+1Corinthians
+1Corinthians
+175692	1Corinthians
+1Corinthians
+175695	1Corinthians
+175697	1Corinthians
+175699	1Corinthians
+1Corinthians
+175702	1Corinthians
+1Corinthians
+175705	1Corinthians
+175708	1Corinthians
+1Corinthians
+175713	1Corinthians
+175715	1Corinthians
+175717	1Corinthians
+175719	1Corinthians
+175721	1Corinthians
+175727	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175733	1Corinthians
+175736	1Corinthians
+175738	1Corinthians
+1Corinthians
+175741	1Corinthians
+175744	1Corinthians
+175747	1Corinthians
+175750	1Corinthians
+1Corinthians
+1Corinthians
+175754	1Corinthians
+175756	1Corinthians
+1Corinthians
+1Corinthians
+175760	1Corinthians
+175762	1Corinthians
+175764	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175770	1Corinthians
+1Corinthians
+175773	1Corinthians
+175775	1Corinthians
+175777	1Corinthians
+175779	1Corinthians
+175783	1Corinthians
+175786	1Corinthians
+175788	1Corinthians
+1Corinthians
+175791	1Corinthians
+175793	1Corinthians
+175795	1Corinthians
+175798	1Corinthians
+175800	1Corinthians
+1Corinthians
+175803	1Corinthians
+175805	1Corinthians
+175807	1Corinthians
+1Corinthians
+1Corinthians
+175811	1Corinthians
+175813	1Corinthians
+175815	1Corinthians
+175818	1Corinthians
+1Corinthians
+1Corinthians
+175822	1Corinthians
+175824	1Corinthians
+1Corinthians
+175827	1Corinthians
+175829	1Corinthians
+175831	1Corinthians
+175833	1Corinthians
+175835	1Corinthians
+175837	1Corinthians
+175839	1Corinthians
+175841	1Corinthians
+1Corinthians
+1Corinthians
+175846	1Corinthians
+175849	1Corinthians
+175853	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175858	1Corinthians
+175861	1Corinthians
+175863	1Corinthians
+1Corinthians
+175866	1Corinthians
+175868	1Corinthians
+175872	1Corinthians
+175874	1Corinthians
+175876	1Corinthians
+175878	1Corinthians
+175880	1Corinthians
+1Corinthians
+175883	1Corinthians
+1Corinthians
+1Corinthians
+175887	1Corinthians
+1Corinthians
+175890	1Corinthians
+175893	1Corinthians
+1Corinthians
+175896	1Corinthians
+175898	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175903	1Corinthians
+175905	1Corinthians
+1Corinthians
+175908	1Corinthians
+1Corinthians
+175911	1Corinthians
+175914	1Corinthians
+1Corinthians
+1Corinthians
+175918	1Corinthians
+1Corinthians
+1Corinthians
+175922	1Corinthians
+1Corinthians
+175926	1Corinthians
+175929	1Corinthians
+175931	1Corinthians
+175933	1Corinthians
+1Corinthians
+175936	1Corinthians
+175938	1Corinthians
+175940	1Corinthians
+175942	1Corinthians
+175944	1Corinthians
+175948	1Corinthians
+175950	1Corinthians
+1Corinthians
+175953	1Corinthians
+175955	1Corinthians
+175957	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175969	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175976	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+175982	1Corinthians
+1Corinthians
+175985	1Corinthians
+1Corinthians
+175988	1Corinthians
+175990	1Corinthians
+175995	1Corinthians
+175997	1Corinthians
+175999	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+176004	1Corinthians
+176006	1Corinthians
+176008	1Corinthians
+176010	1Corinthians
+176012	1Corinthians
+176014	1Corinthians
+176016	1Corinthians
+176019	1Corinthians
+176021	1Corinthians
+1Corinthians
+176024	1Corinthians
+1Corinthians
+1Corinthians
+176028	1Corinthians
+176031	1Corinthians
+176033	1Corinthians
+176035	1Corinthians
+176037	1Corinthians
+176039	1Corinthians
+176041	1Corinthians
+1Corinthians
+176044	1Corinthians
+176046	1Corinthians
+176048	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+176053	1Corinthians
+176055	1Corinthians
+176057	1Corinthians
+176060	1Corinthians
+176062	1Corinthians
+1Corinthians
+1Corinthians
+176066	1Corinthians
+176068	1Corinthians
+176070	1Corinthians
+176072	1Corinthians
+176074	1Corinthians
+176076	1Corinthians
+176079	1Corinthians
+1Corinthians
+176082	1Corinthians
+176084	1Corinthians
+176086	1Corinthians
+176088	1Corinthians
+1Corinthians
+176091	1Corinthians
+1Corinthians
+176094	1Corinthians
+176096	1Corinthians
+176098	1Corinthians
+176101	1Corinthians
+1Corinthians
+176106	1Corinthians
+176108	1Corinthians
+176110	1Corinthians
+176112	1Corinthians
+176114	1Corinthians
+176116	1Corinthians
+176118	1Corinthians
+176120	1Corinthians
+176122	1Corinthians
+176124	1Corinthians
+176126	1Corinthians
+176128	1Corinthians
+176130	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+176138	1Corinthians
+176140	1Corinthians
+176142	1Corinthians
+176144	1Corinthians
+176146	1Corinthians
+176150	1Corinthians
+176152	1Corinthians
+176154	1Corinthians
+176158	1Corinthians
+176160	1Corinthians
+176163	1Corinthians
+1Corinthians
+1Corinthians
+176167	1Corinthians
+1Corinthians
+1Corinthians
+176171	1Corinthians
+1Corinthians
+1Corinthians
+176175	1Corinthians
+1Corinthians
+2Corinthians
+176180	2Corinthians
+176182	2Corinthians
+2Corinthians
+176186	2Corinthians
+176190	2Corinthians
+176192	2Corinthians
+2Corinthians
+2Corinthians
+176196	2Corinthians
+176198	2Corinthians
+176202	2Corinthians
+176206	2Corinthians
+176208	2Corinthians
+2Corinthians
+176211	2Corinthians
+2Corinthians
+176214	2Corinthians
+176216	2Corinthians
+176219	2Corinthians
+176222	2Corinthians
+176224	2Corinthians
+176226	2Corinthians
+176228	2Corinthians
+176230	2Corinthians
+176232	2Corinthians
+2Corinthians
+176235	2Corinthians
+176237	2Corinthians
+176239	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176245	2Corinthians
+176247	2Corinthians
+176249	2Corinthians
+176252	2Corinthians
+176254	2Corinthians
+176257	2Corinthians
+176259	2Corinthians
+176261	2Corinthians
+2Corinthians
+176265	2Corinthians
+176267	2Corinthians
+176269	2Corinthians
+176271	2Corinthians
+2Corinthians
+176274	2Corinthians
+176276	2Corinthians
+176278	2Corinthians
+176280	2Corinthians
+176282	2Corinthians
+2Corinthians
+176285	2Corinthians
+176287	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176293	2Corinthians
+176295	2Corinthians
+176298	2Corinthians
+176300	2Corinthians
+176305	2Corinthians
+176307	2Corinthians
+176309	2Corinthians
+176311	2Corinthians
+176314	2Corinthians
+176316	2Corinthians
+176320	2Corinthians
+176322	2Corinthians
+176324	2Corinthians
+176326	2Corinthians
+2Corinthians
+176329	2Corinthians
+2Corinthians
+176332	2Corinthians
+176334	2Corinthians
+176336	2Corinthians
+176340	2Corinthians
+176342	2Corinthians
+176344	2Corinthians
+176346	2Corinthians
+176348	2Corinthians
+176350	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176356	2Corinthians
+176358	2Corinthians
+176361	2Corinthians
+176363	2Corinthians
+2Corinthians
+176368	2Corinthians
+2Corinthians
+2Corinthians
+176372	2Corinthians
+176375	2Corinthians
+176379	2Corinthians
+176381	2Corinthians
+2Corinthians
+176384	2Corinthians
+176386	2Corinthians
+176388	2Corinthians
+176390	2Corinthians
+2Corinthians
+176393	2Corinthians
+176395	2Corinthians
+176397	2Corinthians
+176399	2Corinthians
+176401	2Corinthians
+176403	2Corinthians
+2Corinthians
+176406	2Corinthians
+176408	2Corinthians
+2Corinthians
+176411	2Corinthians
+176414	2Corinthians
+176416	2Corinthians
+176418	2Corinthians
+176420	2Corinthians
+176423	2Corinthians
+176425	2Corinthians
+176427	2Corinthians
+176429	2Corinthians
+176431	2Corinthians
+176433	2Corinthians
+176435	2Corinthians
+176438	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176444	2Corinthians
+176446	2Corinthians
+2Corinthians
+2Corinthians
+176450	2Corinthians
+176452	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176457	2Corinthians
+176459	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176464	2Corinthians
+176466	2Corinthians
+176469	2Corinthians
+2Corinthians
+176472	2Corinthians
+2Corinthians
+176475	2Corinthians
+2Corinthians
+176478	2Corinthians
+176480	2Corinthians
+176482	2Corinthians
+176484	2Corinthians
+2Corinthians
+176487	2Corinthians
+176489	2Corinthians
+176491	2Corinthians
+176493	2Corinthians
+176495	2Corinthians
+2Corinthians
+176500	2Corinthians
+176502	2Corinthians
+176504	2Corinthians
+176506	2Corinthians
+176508	2Corinthians
+2Corinthians
+176511	2Corinthians
+176513	2Corinthians
+176516	2Corinthians
+2Corinthians
+176521	2Corinthians
+2Corinthians
+176524	2Corinthians
+176526	2Corinthians
+2Corinthians
+176529	2Corinthians
+2Corinthians
+2Corinthians
+176533	2Corinthians
+2Corinthians
+2Corinthians
+176537	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176542	2Corinthians
+2Corinthians
+176546	2Corinthians
+2Corinthians
+176549	2Corinthians
+2Corinthians
+176552	2Corinthians
+2Corinthians
+176555	2Corinthians
+2Corinthians
+176558	2Corinthians
+176560	2Corinthians
+176562	2Corinthians
+2Corinthians
+2Corinthians
+176566	2Corinthians
+176568	2Corinthians
+176570	2Corinthians
+2Corinthians
+176573	2Corinthians
+2Corinthians
+176576	2Corinthians
+2Corinthians
+176579	2Corinthians
+2Corinthians
+176582	2Corinthians
+2Corinthians
+176585	2Corinthians
+176587	2Corinthians
+176589	2Corinthians
+176591	2Corinthians
+176593	2Corinthians
+176595	2Corinthians
+176597	2Corinthians
+2Corinthians
+176600	2Corinthians
+2Corinthians
+176603	2Corinthians
+176605	2Corinthians
+2Corinthians
+176608	2Corinthians
+176610	2Corinthians
+176612	2Corinthians
+176614	2Corinthians
+176616	2Corinthians
+2Corinthians
+176619	2Corinthians
+176622	2Corinthians
+176624	2Corinthians
+176627	2Corinthians
+2Corinthians
+176630	2Corinthians
+2Corinthians
+176633	2Corinthians
+176635	2Corinthians
+176637	2Corinthians
+176639	2Corinthians
+176641	2Corinthians
+176643	2Corinthians
+176645	2Corinthians
+176647	2Corinthians
+176649	2Corinthians
+2Corinthians
+2Corinthians
+176654	2Corinthians
+2Corinthians
+176657	2Corinthians
+176659	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176664	2Corinthians
+176666	2Corinthians
+176668	2Corinthians
+176670	2Corinthians
+176672	2Corinthians
+176674	2Corinthians
+176676	2Corinthians
+2Corinthians
+176679	2Corinthians
+176681	2Corinthians
+176683	2Corinthians
+2Corinthians
+176686	2Corinthians
+176688	2Corinthians
+2Corinthians
+176692	2Corinthians
+176694	2Corinthians
+2Corinthians
+176697	2Corinthians
+2Corinthians
+176700	2Corinthians
+176702	2Corinthians
+176704	2Corinthians
+2Corinthians
+176707	2Corinthians
+176709	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176714	2Corinthians
+176717	2Corinthians
+176719	2Corinthians
+176722	2Corinthians
+2Corinthians
+176725	2Corinthians
+2Corinthians
+176728	2Corinthians
+2Corinthians
+176731	2Corinthians
+176733	2Corinthians
+176735	2Corinthians
+176737	2Corinthians
+176739	2Corinthians
+176741	2Corinthians
+176744	2Corinthians
+176746	2Corinthians
+176748	2Corinthians
+176750	2Corinthians
+176752	2Corinthians
+2Corinthians
+2Corinthians
+176756	2Corinthians
+176759	2Corinthians
+176761	2Corinthians
+176764	2Corinthians
+2Corinthians
+176767	2Corinthians
+176769	2Corinthians
+176771	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176776	2Corinthians
+176778	2Corinthians
+176780	2Corinthians
+2Corinthians
+2Corinthians
+176784	2Corinthians
+2Corinthians
+176787	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176792	2Corinthians
+176794	2Corinthians
+176799	2Corinthians
+176801	2Corinthians
+176803	2Corinthians
+176805	2Corinthians
+176807	2Corinthians
+176809	2Corinthians
+2Corinthians
+176812	2Corinthians
+176814	2Corinthians
+176816	2Corinthians
+176818	2Corinthians
+176820	2Corinthians
+176822	2Corinthians
+176824	2Corinthians
+176826	2Corinthians
+176829	2Corinthians
+2Corinthians
+176832	2Corinthians
+176834	2Corinthians
+176836	2Corinthians
+2Corinthians
+2Corinthians
+176840	2Corinthians
+176843	2Corinthians
+176845	2Corinthians
+176847	2Corinthians
+176849	2Corinthians
+176851	2Corinthians
+2Corinthians
+176854	2Corinthians
+176856	2Corinthians
+176858	2Corinthians
+176860	2Corinthians
+176862	2Corinthians
+176864	2Corinthians
+176866	2Corinthians
+2Corinthians
+176869	2Corinthians
+2Corinthians
+176872	2Corinthians
+176874	2Corinthians
+176876	2Corinthians
+176878	2Corinthians
+2Corinthians
+176882	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176889	2Corinthians
+176891	2Corinthians
+176893	2Corinthians
+176895	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176900	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176906	2Corinthians
+176908	2Corinthians
+176910	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+176915	2Corinthians
+176917	2Corinthians
+2Corinthians
+176920	2Corinthians
+2Corinthians
+176923	2Corinthians
+176925	2Corinthians
+2Corinthians
+176928	2Corinthians
+176930	2Corinthians
+176932	2Corinthians
+176934	2Corinthians
+176936	2Corinthians
+176938	2Corinthians
+176940	2Corinthians
+176942	2Corinthians
+176949	2Corinthians
+2Corinthians
+176953	2Corinthians
+2Corinthians
+176956	2Corinthians
+176959	2Corinthians
+176961	2Corinthians
+2Corinthians
+176965	2Corinthians
+176967	2Corinthians
+176969	2Corinthians
+2Corinthians
+176972	2Corinthians
+2Corinthians
+176975	2Corinthians
+2Corinthians
+176978	2Corinthians
+176980	2Corinthians
+176982	2Corinthians
+176987	2Corinthians
+176989	2Corinthians
+176991	2Corinthians
+176993	2Corinthians
+176995	2Corinthians
+176998	2Corinthians
+177000	2Corinthians
+177002	2Corinthians
+177005	2Corinthians
+177007	2Corinthians
+177009	2Corinthians
+177013	2Corinthians
+177018	2Corinthians
+2Corinthians
+2Corinthians
+177022	2Corinthians
+177024	2Corinthians
+2Corinthians
+177027	2Corinthians
+177029	2Corinthians
+177031	2Corinthians
+2Corinthians
+177034	2Corinthians
+177036	2Corinthians
+177038	2Corinthians
+177040	2Corinthians
+177042	2Corinthians
+177044	2Corinthians
+177046	2Corinthians
+177048	2Corinthians
+177050	2Corinthians
+177054	2Corinthians
+2Corinthians
+177058	2Corinthians
+177061	2Corinthians
+177064	2Corinthians
+2Corinthians
+2Corinthians
+177069	2Corinthians
+177071	2Corinthians
+177073	2Corinthians
+2Corinthians
+177076	2Corinthians
+177078	2Corinthians
+177080	2Corinthians
+177082	2Corinthians
+177084	2Corinthians
+177087	2Corinthians
+177089	2Corinthians
+2Corinthians
+177092	2Corinthians
+177094	2Corinthians
+177096	2Corinthians
+2Corinthians
+2Corinthians
+177100	2Corinthians
+177102	2Corinthians
+177104	2Corinthians
+177106	2Corinthians
+177108	2Corinthians
+177110	2Corinthians
+2Corinthians
+2Corinthians
+177114	2Corinthians
+177116	2Corinthians
+2Corinthians
+177121	2Corinthians
+177123	2Corinthians
+177127	2Corinthians
+177129	2Corinthians
+177131	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177136	2Corinthians
+177138	2Corinthians
+177140	2Corinthians
+177143	2Corinthians
+2Corinthians
+177148	2Corinthians
+177150	2Corinthians
+2Corinthians
+2Corinthians
+177154	2Corinthians
+2Corinthians
+177157	2Corinthians
+2Corinthians
+177160	2Corinthians
+177162	2Corinthians
+2Corinthians
+2Corinthians
+177168	2Corinthians
+177170	2Corinthians
+177172	2Corinthians
+177174	2Corinthians
+2Corinthians
+177177	2Corinthians
+2Corinthians
+177181	2Corinthians
+177183	2Corinthians
+2Corinthians
+177186	2Corinthians
+2Corinthians
+177189	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177194	2Corinthians
+177197	2Corinthians
+177199	2Corinthians
+177201	2Corinthians
+177204	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177210	2Corinthians
+2Corinthians
+177215	2Corinthians
+2Corinthians
+2Corinthians
+177219	2Corinthians
+177221	2Corinthians
+177223	2Corinthians
+177225	2Corinthians
+2Corinthians
+177228	2Corinthians
+177230	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177235	2Corinthians
+177237	2Corinthians
+177239	2Corinthians
+2Corinthians
+177242	2Corinthians
+177244	2Corinthians
+2Corinthians
+177247	2Corinthians
+177249	2Corinthians
+177251	2Corinthians
+2Corinthians
+177254	2Corinthians
+2Corinthians
+177257	2Corinthians
+2Corinthians
+2Corinthians
+177261	2Corinthians
+177263	2Corinthians
+177267	2Corinthians
+2Corinthians
+177270	2Corinthians
+177272	2Corinthians
+177275	2Corinthians
+177277	2Corinthians
+177279	2Corinthians
+177282	2Corinthians
+177284	2Corinthians
+2Corinthians
+2Corinthians
+177288	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177293	2Corinthians
+2Corinthians
+177297	2Corinthians
+177299	2Corinthians
+2Corinthians
+177302	2Corinthians
+177304	2Corinthians
+177306	2Corinthians
+2Corinthians
+2Corinthians
+177310	2Corinthians
+177312	2Corinthians
+177314	2Corinthians
+2Corinthians
+177317	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177323	2Corinthians
+177325	2Corinthians
+177327	2Corinthians
+177330	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177335	2Corinthians
+177337	2Corinthians
+177339	2Corinthians
+2Corinthians
+177342	2Corinthians
+177346	2Corinthians
+2Corinthians
+177352	2Corinthians
+177354	2Corinthians
+2Corinthians
+177357	2Corinthians
+2Corinthians
+177360	2Corinthians
+2Corinthians
+177363	2Corinthians
+2Corinthians
+177367	2Corinthians
+177369	2Corinthians
+177371	2Corinthians
+177373	2Corinthians
+2Corinthians
+177376	2Corinthians
+177378	2Corinthians
+2Corinthians
+2Corinthians
+177382	2Corinthians
+2Corinthians
+177385	2Corinthians
+177387	2Corinthians
+2Corinthians
+177390	2Corinthians
+177392	2Corinthians
+177394	2Corinthians
+177397	2Corinthians
+2Corinthians
+177401	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177406	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177412	2Corinthians
+2Corinthians
+177415	2Corinthians
+177417	2Corinthians
+177419	2Corinthians
+177421	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177428	2Corinthians
+177431	2Corinthians
+2Corinthians
+177434	2Corinthians
+177436	2Corinthians
+2Corinthians
+177440	2Corinthians
+177442	2Corinthians
+2Corinthians
+177445	2Corinthians
+2Corinthians
+177449	2Corinthians
+177451	2Corinthians
+177453	2Corinthians
+177455	2Corinthians
+177457	2Corinthians
+177459	2Corinthians
+2Corinthians
+177463	2Corinthians
+177466	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177499	2Corinthians
+2Corinthians
+177502	2Corinthians
+2Corinthians
+177505	2Corinthians
+2Corinthians
+177508	2Corinthians
+2Corinthians
+177511	2Corinthians
+177513	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177519	2Corinthians
+177521	2Corinthians
+2Corinthians
+2Corinthians
+177525	2Corinthians
+177527	2Corinthians
+2Corinthians
+2Corinthians
+177531	2Corinthians
+177533	2Corinthians
+177535	2Corinthians
+177538	2Corinthians
+177540	2Corinthians
+2Corinthians
+177543	2Corinthians
+2Corinthians
+2Corinthians
+177547	2Corinthians
+177551	2Corinthians
+177553	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177558	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177563	2Corinthians
+177565	2Corinthians
+177568	2Corinthians
+2Corinthians
+2Corinthians
+177572	2Corinthians
+177574	2Corinthians
+177576	2Corinthians
+177578	2Corinthians
+177580	2Corinthians
+177584	2Corinthians
+177587	2Corinthians
+177589	2Corinthians
+2Corinthians
+177592	2Corinthians
+177594	2Corinthians
+2Corinthians
+177597	2Corinthians
+177599	2Corinthians
+177601	2Corinthians
+177603	2Corinthians
+177606	2Corinthians
+177608	2Corinthians
+2Corinthians
+2Corinthians
+177612	2Corinthians
+2Corinthians
+177615	2Corinthians
+177617	2Corinthians
+177619	2Corinthians
+177624	2Corinthians
+2Corinthians
+177629	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177635	2Corinthians
+177637	2Corinthians
+2Corinthians
+177640	2Corinthians
+2Corinthians
+2Corinthians
+177644	2Corinthians
+177646	2Corinthians
+177648	2Corinthians
+177650	2Corinthians
+2Corinthians
+177653	2Corinthians
+2Corinthians
+177656	2Corinthians
+177658	2Corinthians
+2Corinthians
+177661	2Corinthians
+177663	2Corinthians
+177665	2Corinthians
+177667	2Corinthians
+2Corinthians
+177670	2Corinthians
+2Corinthians
+177673	2Corinthians
+177676	2Corinthians
+177679	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177686	2Corinthians
+177688	2Corinthians
+2Corinthians
+177691	2Corinthians
+177694	2Corinthians
+177696	2Corinthians
+177699	2Corinthians
+2Corinthians
+2Corinthians
+177703	2Corinthians
+177706	2Corinthians
+177708	2Corinthians
+177710	2Corinthians
+177714	2Corinthians
+2Corinthians
+177717	2Corinthians
+2Corinthians
+177720	2Corinthians
+177722	2Corinthians
+177724	2Corinthians
+177726	2Corinthians
+177728	2Corinthians
+177730	2Corinthians
+2Corinthians
+177733	2Corinthians
+2Corinthians
+177736	2Corinthians
+177738	2Corinthians
+177741	2Corinthians
+177743	2Corinthians
+2Corinthians
+2Corinthians
+177747	2Corinthians
+177749	2Corinthians
+2Corinthians
+177752	2Corinthians
+177754	2Corinthians
+177756	2Corinthians
+177758	2Corinthians
+2Corinthians
+177761	2Corinthians
+177763	2Corinthians
+177765	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177770	2Corinthians
+2Corinthians
+2Corinthians
+177775	2Corinthians
+177777	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+177783	2Corinthians
+177785	2Corinthians
+2Corinthians
+2Corinthians
+177790	Galatians
+177794	Galatians
+177796	Galatians
+177801	Galatians
+177803	Galatians
+177805	Galatians
+177807	Galatians
+177809	Galatians
+177811	Galatians
+177813	Galatians
+Galatians
+Galatians
+Galatians
+177819	Galatians
+177821	Galatians
+Galatians
+177826	Galatians
+177828	Galatians
+Galatians
+177831	Galatians
+177833	Galatians
+177835	Galatians
+Galatians
+Galatians
+177839	Galatians
+177842	Galatians
+Galatians
+177846	Galatians
+Galatians
+177852	Galatians
+177854	Galatians
+177856	Galatians
+177858	Galatians
+Galatians
+177861	Galatians
+177863	Galatians
+177865	Galatians
+177867	Galatians
+Galatians
+177871	Galatians
+177874	Galatians
+177876	Galatians
+Galatians
+177879	Galatians
+Galatians
+Galatians
+177883	Galatians
+Galatians
+177886	Galatians
+Galatians
+Galatians
+177890	Galatians
+177892	Galatians
+177894	Galatians
+177897	Galatians
+177899	Galatians
+177901	Galatians
+Galatians
+Galatians
+177906	Galatians
+177908	Galatians
+177910	Galatians
+177912	Galatians
+Galatians
+177915	Galatians
+Galatians
+Galatians
+177919	Galatians
+177921	Galatians
+Galatians
+177924	Galatians
+177926	Galatians
+177929	Galatians
+177932	Galatians
+Galatians
+Galatians
+177936	Galatians
+Galatians
+Galatians
+Galatians
+177941	Galatians
+Galatians
+Galatians
+Galatians
+177946	Galatians
+177948	Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+177954	Galatians
+177956	Galatians
+177958	Galatians
+Galatians
+Galatians
+Galatians
+177963	Galatians
+177965	Galatians
+177967	Galatians
+177969	Galatians
+177971	Galatians
+177975	Galatians
+Galatians
+177979	Galatians
+177981	Galatians
+177984	Galatians
+Galatians
+Galatians
+177989	Galatians
+Galatians
+177992	Galatians
+177994	Galatians
+177996	Galatians
+177998	Galatians
+178000	Galatians
+178002	Galatians
+Galatians
+178005	Galatians
+178007	Galatians
+178010	Galatians
+Galatians
+Galatians
+Galatians
+178015	Galatians
+Galatians
+178018	Galatians
+Galatians
+Galatians
+178022	Galatians
+178024	Galatians
+Galatians
+178027	Galatians
+178029	Galatians
+178031	Galatians
+178033	Galatians
+178035	Galatians
+178039	Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+178046	Galatians
+Galatians
+Galatians
+178050	Galatians
+178052	Galatians
+Galatians
+178055	Galatians
+178057	Galatians
+178059	Galatians
+Galatians
+178063	Galatians
+178065	Galatians
+Galatians
+178069	Galatians
+Galatians
+178073	Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+178079	Galatians
+Galatians
+Galatians
+Galatians
+178084	Galatians
+178086	Galatians
+178089	Galatians
+178091	Galatians
+178094	Galatians
+178096	Galatians
+178098	Galatians
+178100	Galatians
+178103	Galatians
+Galatians
+178106	Galatians
+178108	Galatians
+178110	Galatians
+178112	Galatians
+Galatians
+178115	Galatians
+178117	Galatians
+Galatians
+178120	Galatians
+178122	Galatians
+178124	Galatians
+178126	Galatians
+178128	Galatians
+178130	Galatians
+178132	Galatians
+178134	Galatians
+Galatians
+Galatians
+178138	Galatians
+Galatians
+178141	Galatians
+178143	Galatians
+178145	Galatians
+Galatians
+178148	Galatians
+Galatians
+178152	Galatians
+178154	Galatians
+178158	Galatians
+Galatians
+178161	Galatians
+178164	Galatians
+178166	Galatians
+Galatians
+Galatians
+Galatians
+178171	Galatians
+178174	Galatians
+Galatians
+178177	Galatians
+178179	Galatians
+Galatians
+178182	Galatians
+Galatians
+Galatians
+178186	Galatians
+178188	Galatians
+178190	Galatians
+Galatians
+178194	Galatians
+178196	Galatians
+Galatians
+178199	Galatians
+178201	Galatians
+178203	Galatians
+178205	Galatians
+178207	Galatians
+178209	Galatians
+Galatians
+Galatians
+Galatians
+178214	Galatians
+178216	Galatians
+178218	Galatians
+Galatians
+178221	Galatians
+178223	Galatians
+Galatians
+Galatians
+178227	Galatians
+178229	Galatians
+178232	Galatians
+178235	Galatians
+178237	Galatians
+Galatians
+178240	Galatians
+178242	Galatians
+Galatians
+Galatians
+178246	Galatians
+178248	Galatians
+178250	Galatians
+178253	Galatians
+Galatians
+Galatians
+Galatians
+178258	Galatians
+178260	Galatians
+178263	Galatians
+Galatians
+Galatians
+178268	Galatians
+178270	Galatians
+178272	Galatians
+178275	Galatians
+Galatians
+178278	Galatians
+178280	Galatians
+Galatians
+178283	Galatians
+178285	Galatians
+Galatians
+Galatians
+178291	Galatians
+178294	Galatians
+Galatians
+178297	Galatians
+178299	Galatians
+178301	Galatians
+Galatians
+178304	Galatians
+178306	Galatians
+178308	Galatians
+178310	Galatians
+178314	Galatians
+178316	Galatians
+178318	Galatians
+178320	Galatians
+178322	Galatians
+178324	Galatians
+Galatians
+178327	Galatians
+Galatians
+Galatians
+178331	Galatians
+Galatians
+178334	Galatians
+178336	Galatians
+Galatians
+178339	Galatians
+178341	Galatians
+178343	Galatians
+Galatians
+178346	Galatians
+Galatians
+178349	Galatians
+178351	Galatians
+Galatians
+178355	Galatians
+Galatians
+Galatians
+178359	Galatians
+178361	Galatians
+178364	Galatians
+178366	Galatians
+178368	Galatians
+Galatians
+Galatians
+178372	Galatians
+178374	Galatians
+Galatians
+Galatians
+178378	Galatians
+178380	Galatians
+178382	Galatians
+178384	Galatians
+Galatians
+178387	Galatians
+Galatians
+178391	Galatians
+178393	Galatians
+178395	Galatians
+178398	Galatians
+178400	Galatians
+178402	Galatians
+178404	Galatians
+178406	Galatians
+178409	Galatians
+178411	Galatians
+178413	Galatians
+178415	Galatians
+Galatians
+178419	Galatians
+178421	Galatians
+178423	Galatians
+178425	Galatians
+178427	Galatians
+Galatians
+178430	Galatians
+178432	Galatians
+178434	Galatians
+Galatians
+178437	Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+178443	Galatians
+178445	Galatians
+Galatians
+178448	Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+178455	Galatians
+Galatians
+Galatians
+178459	Galatians
+178461	Galatians
+178463	Galatians
+178465	Galatians
+178469	Galatians
+178471	Galatians
+178473	Galatians
+Galatians
+Galatians
+178477	Galatians
+178479	Galatians
+178481	Galatians
+Galatians
+178484	Galatians
+Galatians
+178487	Galatians
+178491	Galatians
+178493	Galatians
+178495	Galatians
+178497	Galatians
+Galatians
+178500	Galatians
+178502	Galatians
+178504	Galatians
+178506	Galatians
+178509	Galatians
+178511	Galatians
+178514	Galatians
+Galatians
+178517	Galatians
+Galatians
+178520	Galatians
+Galatians
+Galatians
+178524	Galatians
+178526	Galatians
+178528	Galatians
+Galatians
+178531	Galatians
+178533	Galatians
+178535	Galatians
+Galatians
+Galatians
+Galatians
+178542	Galatians
+Galatians
+Galatians
+178546	Galatians
+Galatians
+178549	Galatians
+178552	Galatians
+Galatians
+Galatians
+Galatians
+178557	Galatians
+178559	Galatians
+178561	Galatians
+178563	Galatians
+178565	Galatians
+178567	Galatians
+178569	Galatians
+Galatians
+Galatians
+178575	Galatians
+178577	Galatians
+178579	Galatians
+178581	Galatians
+178583	Galatians
+178585	Galatians
+Galatians
+178588	Galatians
+Galatians
+178593	Galatians
+Galatians
+178596	Galatians
+Galatians
+Galatians
+178600	Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+178606	Galatians
+178608	Galatians
+Galatians
+Galatians
+178612	Galatians
+178615	Galatians
+178617	Galatians
+Galatians
+Galatians
+178621	Galatians
+178624	Galatians
+Galatians
+178628	Galatians
+178630	Galatians
+178634	Ephesians
+178636	Ephesians
+178638	Ephesians
+178641	Ephesians
+178645	Ephesians
+178647	Ephesians
+Ephesians
+178650	Ephesians
+Ephesians
+178653	Ephesians
+Ephesians
+Ephesians
+178657	Ephesians
+Ephesians
+Ephesians
+Ephesians
+178662	Ephesians
+Ephesians
+178665	Ephesians
+178667	Ephesians
+178669	Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+178677	Ephesians
+Ephesians
+178680	Ephesians
+178682	Ephesians
+178684	Ephesians
+Ephesians
+Ephesians
+178688	Ephesians
+Ephesians
+178691	Ephesians
+Ephesians
+Ephesians
+178695	Ephesians
+178700	Ephesians
+178702	Ephesians
+178704	Ephesians
+178706	Ephesians
+Ephesians
+178709	Ephesians
+178711	Ephesians
+Ephesians
+178715	Ephesians
+178717	Ephesians
+Ephesians
+178721	Ephesians
+178723	Ephesians
+178725	Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+178731	Ephesians
+178733	Ephesians
+178735	Ephesians
+178737	Ephesians
+Ephesians
+178740	Ephesians
+178742	Ephesians
+Ephesians
+Ephesians
+178746	Ephesians
+178748	Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+178754	Ephesians
+178757	Ephesians
+178759	Ephesians
+178761	Ephesians
+Ephesians
+Ephesians
+178765	Ephesians
+178768	Ephesians
+178770	Ephesians
+178772	Ephesians
+178775	Ephesians
+178777	Ephesians
+Ephesians
+178780	Ephesians
+Ephesians
+178783	Ephesians
+Ephesians
+178786	Ephesians
+Ephesians
+178789	Ephesians
+178791	Ephesians
+178794	Ephesians
+Ephesians
+178797	Ephesians
+178799	Ephesians
+178801	Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+178809	Ephesians
+178811	Ephesians
+178813	Ephesians
+178815	Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+178823	Ephesians
+178826	Ephesians
+178828	Ephesians
+Ephesians
+Ephesians
+178832	Ephesians
+Ephesians
+178835	Ephesians
+178837	Ephesians
+178839	Ephesians
+178841	Ephesians
+Ephesians
+178845	Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+178852	Ephesians
+Ephesians
+Ephesians
+Ephesians
+178858	Ephesians
+Ephesians
+Ephesians
+178865	Ephesians
+Ephesians
+178868	Ephesians
+178873	Ephesians
+Ephesians
+Ephesians
+178878	Ephesians
+178882	Ephesians
+Ephesians
+Ephesians
+Ephesians
+178887	Ephesians
+Ephesians
+Ephesians
+178892	Ephesians
+Ephesians
+178898	Ephesians
+178900	Ephesians
+Ephesians
+Ephesians
+Ephesians
+178905	Ephesians
+178907	Ephesians
+178911	Ephesians
+Ephesians
+178914	Ephesians
+178916	Ephesians
+178918	Ephesians
+178920	Ephesians
+178927	Ephesians
+178930	Ephesians
+Ephesians
+178934	Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+178941	Ephesians
+178943	Ephesians
+Ephesians
+178946	Ephesians
+Ephesians
+Ephesians
+178950	Ephesians
+Ephesians
+Ephesians
+178954	Ephesians
+178957	Ephesians
+178959	Ephesians
+178961	Ephesians
+Ephesians
+178964	Ephesians
+178966	Ephesians
+178968	Ephesians
+178970	Ephesians
+178973	Ephesians
+Ephesians
+178976	Ephesians
+Ephesians
+178979	Ephesians
+Ephesians
+Ephesians
+Ephesians
+178984	Ephesians
+178986	Ephesians
+Ephesians
+178989	Ephesians
+Ephesians
+178992	Ephesians
+Ephesians
+178996	Ephesians
+178998	Ephesians
+179000	Ephesians
+179002	Ephesians
+Ephesians
+Ephesians
+179010	Ephesians
+Ephesians
+179013	Ephesians
+179015	Ephesians
+179017	Ephesians
+179019	Ephesians
+179021	Ephesians
+179023	Ephesians
+179026	Ephesians
+179030	Ephesians
+179032	Ephesians
+179035	Ephesians
+179037	Ephesians
+179039	Ephesians
+Ephesians
+179042	Ephesians
+179045	Ephesians
+179047	Ephesians
+179049	Ephesians
+179051	Ephesians
+179053	Ephesians
+179055	Ephesians
+Ephesians
+Ephesians
+179059	Ephesians
+179061	Ephesians
+179064	Ephesians
+Ephesians
+179067	Ephesians
+179069	Ephesians
+179071	Ephesians
+179073	Ephesians
+Ephesians
+179076	Ephesians
+Ephesians
+179079	Ephesians
+179081	Ephesians
+179083	Ephesians
+Ephesians
+179087	Ephesians
+179089	Ephesians
+179091	Ephesians
+179093	Ephesians
+Ephesians
+179096	Ephesians
+179098	Ephesians
+Ephesians
+179101	Ephesians
+Ephesians
+179104	Ephesians
+Ephesians
+179107	Ephesians
+Ephesians
+Ephesians
+Ephesians
+179113	Ephesians
+179115	Ephesians
+179117	Ephesians
+179121	Ephesians
+179123	Ephesians
+179125	Ephesians
+Ephesians
+179128	Ephesians
+179130	Ephesians
+179133	Ephesians
+179135	Ephesians
+179137	Ephesians
+179139	Ephesians
+Ephesians
+179142	Ephesians
+Ephesians
+Ephesians
+179148	Ephesians
+179150	Ephesians
+Ephesians
+179153	Ephesians
+Ephesians
+179156	Ephesians
+179158	Ephesians
+179160	Ephesians
+179163	Ephesians
+179165	Ephesians
+Ephesians
+179169	Ephesians
+179171	Ephesians
+Ephesians
+179174	Ephesians
+179177	Ephesians
+179179	Ephesians
+179183	Ephesians
+Ephesians
+179187	Ephesians
+Ephesians
+Ephesians
+179192	Ephesians
+179194	Ephesians
+179196	Ephesians
+179198	Ephesians
+Ephesians
+179203	Ephesians
+179206	Ephesians
+Ephesians
+179209	Ephesians
+179211	Ephesians
+Ephesians
+Ephesians
+Ephesians
+179216	Ephesians
+179218	Ephesians
+Ephesians
+179223	Ephesians
+Ephesians
+179226	Ephesians
+179228	Ephesians
+179230	Ephesians
+179232	Ephesians
+Ephesians
+179235	Ephesians
+179239	Ephesians
+Ephesians
+179242	Ephesians
+179244	Ephesians
+Ephesians
+179247	Ephesians
+179249	Ephesians
+179251	Ephesians
+Ephesians
+179254	Ephesians
+Ephesians
+179257	Ephesians
+Ephesians
+179260	Ephesians
+179262	Ephesians
+Ephesians
+Ephesians
+Ephesians
+179267	Ephesians
+179269	Ephesians
+179271	Ephesians
+Ephesians
+179275	Ephesians
+179279	Ephesians
+Ephesians
+Ephesians
+179283	Ephesians
+179285	Ephesians
+Ephesians
+179289	Ephesians
+Ephesians
+Ephesians
+179293	Ephesians
+Ephesians
+Ephesians
+179297	Ephesians
+Ephesians
+179301	Ephesians
+179303	Ephesians
+Philippians
+179307	Philippians
+179309	Philippians
+179312	Philippians
+Philippians
+Philippians
+179316	Philippians
+Philippians
+179319	Philippians
+Philippians
+179322	Philippians
+179326	Philippians
+179328	Philippians
+179330	Philippians
+179332	Philippians
+179334	Philippians
+179338	Philippians
+179340	Philippians
+179342	Philippians
+179344	Philippians
+179347	Philippians
+Philippians
+179351	Philippians
+179353	Philippians
+179356	Philippians
 Philippians
-187839	Philippians
-187841	Philippians
 Philippians
-187845	Philippians
+179360	Philippians
+179363	Philippians
+179365	Philippians
 Philippians
-187848	Philippians
-187854	Philippians
-187856	Philippians
-187858	Philippians
-187861	Philippians
-187863	Philippians
-187869	Philippians
-187871	Philippians
-187873	Philippians
-187876	Philippians
-187882	Philippians
+179368	Philippians
+179370	Philippians
 Philippians
-187886	Philippians
-187889	Philippians
-187893	Philippians
 Philippians
 Philippians
-187898	Philippians
-187902	Philippians
-187905	Philippians
+179375	Philippians
+179378	Philippians
+179382	Philippians
+179384	Philippians
+179386	Philippians
+179388	Philippians
+179392	Philippians
+179394	Philippians
+179398	Philippians
+179400	Philippians
+179402	Philippians
+179404	Philippians
+179406	Philippians
+179408	Philippians
+179410	Philippians
+179412	Philippians
 Philippians
-187908	Philippians
-187910	Philippians
+179415	Philippians
 Philippians
+179419	Philippians
+179421	Philippians
+179423	Philippians
+179425	Philippians
+179427	Philippians
+179429	Philippians
 Philippians
+179432	Philippians
+179436	Philippians
 Philippians
-187915	Philippians
-187919	Philippians
-187924	Philippians
-187927	Philippians
-187929	Philippians
-187931	Philippians
-187940	Philippians
-187942	Philippians
-187948	Philippians
-187950	Philippians
-187952	Philippians
-187954	Philippians
-187956	Philippians
-187958	Philippians
-187960	Philippians
-187962	Philippians
+179439	Philippians
+179441	Philippians
+179443	Philippians
+179445	Philippians
+179447	Philippians
 Philippians
-187966	Philippians
+179450	Philippians
+179452	Philippians
+179455	Philippians
+179457	Philippians
+179459	Philippians
+179461	Philippians
+179463	Philippians
+179465	Philippians
 Philippians
-187970	Philippians
-187972	Philippians
-187974	Philippians
-187976	Philippians
-187978	Philippians
-187980	Philippians
+179468	Philippians
+179470	Philippians
+179473	Philippians
+179475	Philippians
+179477	Philippians
+179479	Philippians
+179481	Philippians
 Philippians
-187983	Philippians
-187989	Philippians
-187992	Philippians
-187994	Philippians
-187998	Philippians
-188000	Philippians
-188002	Philippians
-188004	Philippians
-188006	Philippians
-188008	Philippians
-188010	Philippians
-188013	Philippians
-188015	Philippians
-188017	Philippians
-188019	Philippians
-188023	Philippians
-188025	Philippians
 Philippians
-188029	Philippians
-188031	Philippians
-188036	Philippians
-188038	Philippians
-188040	Philippians
-188042	Philippians
-188045	Philippians
 Philippians
-188048	Philippians
 Philippians
 Philippians
-188052	Philippians
-188056	Philippians
+179489	Philippians
 Philippians
-188059	Philippians
 Philippians
 Philippians
 Philippians
 Philippians
-188066	Philippians
 Philippians
-188069	Philippians
-188071	Philippians
+179497	Philippians
 Philippians
+179500	Philippians
+179502	Philippians
 Philippians
-188075	Philippians
 Philippians
-188078	Philippians
+179506	Philippians
 Philippians
-188085	Philippians
-188087	Philippians
-188091	Philippians
-188096	Philippians
-188098	Philippians
-188104	Philippians
-188107	Philippians
+179509	Philippians
 Philippians
-188112	Philippians
-188114	Philippians
-188118	Philippians
-188121	Philippians
+179513	Philippians
+179515	Philippians
+179517	Philippians
+179521	Philippians
+179523	Philippians
+179528	Philippians
+179530	Philippians
 Philippians
-188126	Philippians
-188133	Philippians
+179534	Philippians
+179536	Philippians
+179539	Philippians
+179542	Philippians
 Philippians
+179546	Philippians
+179549	Philippians
 Philippians
-188137	Philippians
 Philippians
-188140	Philippians
+179553	Philippians
 Philippians
-188145	Philippians
-188149	Philippians
-188151	Philippians
-188154	Philippians
-188156	Philippians
-188158	Philippians
-188160	Philippians
-188162	Philippians
 Philippians
-188166	Philippians
 Philippians
-188170	Philippians
+179559	Philippians
+179561	Philippians
+179563	Philippians
+179565	Philippians
+179567	Philippians
+179569	Philippians
 Philippians
-188174	Philippians
-188178	Philippians
+179572	Philippians
 Philippians
-188183	Philippians
+179575	Philippians
 Philippians
-188187	Philippians
-188189	Philippians
-188191	Philippians
-188193	Philippians
+179578	Philippians
 Philippians
-188204	Philippians
-188207	Philippians
-188209	Philippians
-188211	Philippians
-188213	Philippians
-188215	Philippians
-188220	Philippians
-188222	Philippians
-188225	Philippians
+179581	Philippians
+179584	Philippians
 Philippians
+179588	Philippians
 Philippians
-188231	Philippians
-188233	Philippians
-188235	Philippians
+179592	Philippians
+179594	Philippians
+179596	Philippians
+179598	Philippians
 Philippians
-188238	Philippians
+179605	Philippians
+179607	Philippians
+179609	Philippians
+179611	Philippians
+179613	Philippians
+179615	Philippians
+179618	Philippians
+179620	Philippians
+179622	Philippians
 Philippians
-188241	Philippians
 Philippians
-188245	Philippians
-188247	Philippians
-188249	Philippians
+179626	Philippians
+179628	Philippians
+179630	Philippians
 Philippians
+179633	Philippians
 Philippians
-188253	Philippians
-188257	Philippians
-188259	Philippians
-188262	Philippians
-188264	Philippians
-188267	Philippians
+179636	Philippians
 Philippians
+179639	Philippians
+179641	Philippians
 Philippians
-188271	Philippians
 Philippians
 Philippians
+179646	Philippians
+179649	Philippians
+179651	Philippians
+179653	Philippians
+179655	Philippians
+179657	Philippians
 Philippians
 Philippians
 Philippians
 Philippians
 Philippians
-188281	Philippians
 Philippians
-188288	Philippians
 Philippians
-188291	Philippians
-188296	Philippians
-188298	Philippians
-188301	Philippians
-188303	Philippians
 Philippians
-188309	Philippians
-188313	Philippians
-188316	Philippians
-188321	Philippians
-188323	Philippians
 Philippians
-188326	Philippians
 Philippians
-188329	Philippians
-188331	Philippians
-188334	Philippians
+179669	Philippians
 Philippians
-188338	Philippians
-188340	Philippians
-188343	Philippians
+179675	Philippians
 Philippians
-188348	Philippians
+179678	Philippians
+179680	Philippians
+179682	Philippians
+179684	Philippians
+179686	Philippians
 Philippians
-188351	Philippians
+179689	Philippians
+179692	Philippians
+179695	Philippians
+179697	Philippians
+179699	Philippians
 Philippians
+179702	Philippians
 Philippians
 Philippians
-188357	Philippians
-188360	Philippians
-188362	Philippians
-188365	Philippians
+179706	Philippians
+179708	Philippians
 Philippians
-188368	Philippians
+179711	Philippians
+179713	Philippians
+179715	Philippians
 Philippians
+179719	Philippians
 Philippians
+179722	Philippians
 Philippians
-188373	Philippians
-188375	Philippians
 Philippians
-188378	Philippians
-188380	Philippians
+179726	Philippians
+179729	Philippians
+179732	Philippians
+179734	Philippians
+179737	Philippians
 Philippians
-188386	Philippians
-188388	Philippians
+179740	Philippians
 Philippians
-188400	Philippians
-188402	Philippians
 Philippians
-188405	Philippians
-188407	Philippians
-188409	Philippians
-188414	Philippians
 Philippians
+179745	Philippians
+179747	Philippians
 Philippians
+179750	Philippians
+179752	Philippians
 Philippians
 Philippians
+179756	Philippians
 Philippians
-188421	Philippians
-188423	Philippians
-188427	Philippians
-188431	Philippians
-188438	Philippians
+179764	Philippians
+179766	Philippians
 Philippians
+179770	Philippians
+179772	Philippians
 Philippians
+179776	Philippians
 Philippians
 Philippians
 Philippians
-188446	Philippians
-188449	Philippians
 Philippians
 Philippians
 Philippians
-188459	Philippians
-188461	Philippians
-188463	Philippians
-188465	Philippians
-188467	Philippians
-188469	Philippians
+179784	Philippians
+179787	Philippians
+179789	Philippians
+179795	Philippians
 Philippians
-188472	Philippians
-188474	Philippians
 Philippians
 Philippians
 Philippians
 Philippians
+179802	Philippians
+179805	Philippians
 Philippians
 Philippians
 Philippians
-188487	Philippians
-188489	Philippians
-188492	Philippians
-188494	Philippians
+179814	Philippians
+179816	Philippians
+179818	Philippians
+179820	Philippians
+179822	Philippians
+179824	Philippians
 Philippians
-188497	Philippians
-188499	Philippians
+179827	Philippians
+179829	Philippians
 Philippians
-188502	Philippians
-188506	Philippians
-188508	Philippians
-188512	Philippians
-188514	Philippians
-188520	Philippians
 Philippians
-188524	Philippians
-188527	Philippians
-188529	Philippians
 Philippians
 Philippians
-188535	Philippians
-188538	Philippians
-188542	Philippians
-188544	Philippians
-188546	Philippians
-188548	Philippians
 Philippians
-188552	Colossians
-188560	Colossians
-188564	Colossians
-188568	Colossians
+Philippians
+Philippians
+179839	Philippians
+179841	Philippians
+179843	Philippians
+179845	Philippians
+Philippians
+179848	Philippians
+179850	Philippians
+Philippians
+179854	Philippians
+179857	Philippians
+179859	Philippians
+179862	Philippians
+179864	Philippians
+179868	Philippians
+Philippians
+179871	Philippians
+179873	Philippians
+179875	Philippians
+Philippians
+Philippians
+179879	Philippians
+179881	Philippians
+179884	Philippians
+Philippians
+Philippians
+179888	Philippians
+Philippians
+Colossians
+179893	Colossians
+179895	Colossians
+Colossians
+Colossians
+179899	Colossians
+179901	Colossians
+Colossians
+179904	Colossians
+179906	Colossians
+179909	Colossians
+Colossians
+179912	Colossians
+179914	Colossians
+Colossians
+179917	Colossians
+Colossians
+Colossians
+Colossians
+179923	Colossians
+179925	Colossians
+Colossians
+179928	Colossians
+Colossians
+179931	Colossians
+179933	Colossians
+179935	Colossians
+179937	Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+179948	Colossians
+179951	Colossians
+179953	Colossians
+179955	Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+179964	Colossians
 Colossians
-188574	Colossians
-188578	Colossians
 Colossians
-188583	Colossians
-188586	Colossians
-188590	Colossians
-188592	Colossians
-188595	Colossians
-188597	Colossians
-188600	Colossians
-188603	Colossians
+179970	Colossians
 Colossians
+179974	Colossians
 Colossians
+179980	Colossians
 Colossians
-188610	Colossians
-188613	Colossians
-188616	Colossians
-188618	Colossians
+179983	Colossians
+179985	Colossians
 Colossians
-188622	Colossians
-188626	Colossians
-188628	Colossians
-188630	Colossians
-188633	Colossians
-188635	Colossians
+179988	Colossians
 Colossians
-188638	Colossians
-188653	Colossians
-188657	Colossians
-188659	Colossians
-188661	Colossians
 Colossians
-188664	Colossians
+179992	Colossians
 Colossians
-188667	Colossians
 Colossians
+179996	Colossians
 Colossians
-188671	Colossians
-188674	Colossians
+179999	Colossians
+180002	Colossians
 Colossians
 Colossians
-188682	Colossians
-188684	Colossians
-188687	Colossians
 Colossians
-188694	Colossians
-188696	Colossians
-188698	Colossians
-188700	Colossians
-188704	Colossians
-188706	Colossians
-188708	Colossians
-188711	Colossians
-188713	Colossians
-188715	Colossians
-188717	Colossians
-188720	Colossians
 Colossians
-188725	Colossians
-188729	Colossians
-188731	Colossians
 Colossians
 Colossians
 Colossians
 Colossians
 Colossians
+180013	Colossians
 Colossians
 Colossians
-188740	Colossians
-188742	Colossians
 Colossians
+180018	Colossians
+180020	Colossians
 Colossians
 Colossians
-188748	Colossians
-188750	Colossians
+180025	Colossians
+180027	Colossians
 Colossians
+180030	Colossians
+180032	Colossians
+180034	Colossians
+180037	Colossians
+180039	Colossians
 Colossians
-188756	Colossians
-188758	Colossians
+180042	Colossians
+180046	Colossians
 Colossians
-188764	Colossians
-188767	Colossians
-188769	Colossians
-188773	Colossians
-188775	Colossians
-188777	Colossians
-188779	Colossians
-188785	Colossians
-188787	Colossians
-188789	Colossians
-188793	Colossians
-188795	Colossians
 Colossians
-188799	Colossians
-188801	Colossians
-188803	Colossians
-188810	Colossians
-188812	Colossians
-188815	Colossians
-188818	Colossians
-188820	Colossians
-188822	Colossians
-188825	Colossians
-188828	Colossians
+180051	Colossians
+180053	Colossians
 Colossians
-188832	Colossians
 Colossians
-188835	Colossians
-188837	Colossians
+180057	Colossians
+180059	Colossians
+180063	Colossians
+180065	Colossians
 Colossians
+180068	Colossians
 Colossians
 Colossians
-188843	Colossians
-188845	Colossians
-188854	Colossians
-188856	Colossians
-188858	Colossians
+180072	Colossians
+180074	Colossians
 Colossians
-188861	Colossians
-188864	Colossians
+180077	Colossians
 Colossians
-188867	Colossians
-188869	Colossians
-188871	Colossians
 Colossians
-188880	Colossians
+180081	Colossians
 Colossians
-188883	Colossians
 Colossians
 Colossians
-188891	Colossians
-188893	Colossians
-188899	Colossians
+180086	Colossians
+180088	Colossians
+180094	Colossians
+180096	Colossians
+180098	Colossians
 Colossians
 Colossians
+180102	Colossians
 Colossians
 Colossians
-188906	Colossians
-188908	Colossians
+180106	Colossians
 Colossians
-188911	Colossians
-188914	Colossians
-188921	Colossians
 Colossians
+180112	Colossians
 Colossians
+180115	Colossians
 Colossians
 Colossians
-188927	Colossians
-188930	Colossians
-188932	Colossians
-188934	Colossians
-188937	Colossians
-188939	Colossians
-188942	Colossians
-188952	Colossians
-188954	Colossians
-188956	Colossians
-188959	Colossians
-188962	Colossians
-188964	Colossians
-188966	Colossians
+180121	Colossians
+180123	Colossians
+180129	Colossians
 Colossians
-188969	Colossians
-188971	Colossians
-188973	Colossians
-188975	Colossians
 Colossians
-188978	Colossians
 Colossians
 Colossians
-188984	Colossians
-188986	Colossians
-188990	Colossians
-188994	Colossians
-188998	Colossians
-189000	Colossians
-189002	Colossians
-189004	Colossians
-189007	Colossians
-189010	Colossians
-189014	Colossians
+180135	Colossians
+180137	Colossians
 Colossians
+180140	Colossians
+180142	Colossians
+180144	Colossians
 Colossians
 Colossians
-189019	Colossians
-189022	Colossians
-189024	Colossians
 Colossians
-189029	Colossians
-189031	Colossians
 Colossians
-189034	Colossians
+180150	Colossians
 Colossians
-189039	Colossians
-189041	Colossians
 Colossians
+180154	Colossians
+180156	Colossians
+180158	Colossians
+180160	Colossians
+180164	Colossians
+180166	Colossians
+180168	Colossians
+180170	Colossians
 Colossians
-189045	Colossians
-189047	Colossians
+180173	Colossians
+180175	Colossians
 Colossians
-189050	Colossians
-189052	Colossians
-189054	Colossians
+180178	Colossians
+180180	Colossians
 Colossians
+180183	Colossians
 Colossians
+180186	Colossians
 Colossians
 Colossians
+180190	Colossians
+180192	Colossians
+180195	Colossians
+180197	Colossians
+180201	Colossians
+180204	Colossians
+180206	Colossians
 Colossians
+180210	Colossians
+180214	Colossians
+180219	Colossians
 Colossians
 Colossians
 Colossians
+180224	Colossians
+180226	Colossians
+180228	Colossians
 Colossians
-189069	Colossians
-189072	Colossians
-189074	Colossians
-189079	Colossians
+180231	Colossians
+180233	Colossians
 Colossians
+180236	Colossians
 Colossians
-189088	Colossians
+180240	Colossians
+180242	Colossians
 Colossians
-189091	Colossians
 Colossians
-189096	Colossians
-189098	Colossians
 Colossians
+180247	Colossians
 Colossians
 Colossians
-189105	Colossians
-189108	Colossians
-189110	Colossians
-189112	Colossians
-189114	Colossians
-189118	Colossians
-189122	Colossians
-189129	Colossians
-189131	Colossians
-189134	Colossians
-189137	Colossians
-189139	Colossians
-189141	Colossians
-189143	Colossians
-189145	Colossians
+180251	Colossians
+180253	Colossians
 Colossians
 Colossians
 Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+180265	Colossians
+180267	Colossians
+180269	Colossians
+180271	Colossians
+Colossians
+Colossians
+180275	Colossians
+Colossians
+180278	Colossians
+Colossians
+180282	Colossians
+180284	Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+180290	Colossians
+180292	Colossians
+180294	Colossians
+180296	Colossians
+180299	Colossians
+180301	Colossians
+180306	Colossians
+Colossians
+180309	Colossians
+180312	Colossians
+180314	Colossians
+Colossians
+Colossians
+180318	Colossians
+Colossians
+Colossians
+Colossians
+1Thessalonians
+180326	1Thessalonians
+180328	1Thessalonians
+1Thessalonians
+1Thessalonians
+180334	1Thessalonians
+180336	1Thessalonians
+180338	1Thessalonians
+180342	1Thessalonians
+1Thessalonians
+180345	1Thessalonians
+180347	1Thessalonians
+180349	1Thessalonians
+180351	1Thessalonians
+180354	1Thessalonians
+180357	1Thessalonians
+180359	1Thessalonians
+1Thessalonians
+180362	1Thessalonians
+1Thessalonians
+180365	1Thessalonians
+1Thessalonians
+1Thessalonians
+180370	1Thessalonians
+1Thessalonians
+180373	1Thessalonians
+180375	1Thessalonians
+180380	1Thessalonians
+1Thessalonians
+1Thessalonians
+180385	1Thessalonians
+1Thessalonians
+180388	1Thessalonians
+180393	1Thessalonians
+1Thessalonians
 1Thessalonians
-189158	1Thessalonians
-189162	1Thessalonians
+180397	1Thessalonians
+180399	1Thessalonians
+180401	1Thessalonians
+180403	1Thessalonians
+180405	1Thessalonians
 1Thessalonians
+180408	1Thessalonians
+180411	1Thessalonians
 1Thessalonians
-189172	1Thessalonians
-189174	1Thessalonians
-189176	1Thessalonians
-189183	1Thessalonians
+180414	1Thessalonians
 1Thessalonians
-189186	1Thessalonians
-189189	1Thessalonians
-189191	1Thessalonians
-189193	1Thessalonians
-189198	1Thessalonians
-189202	1Thessalonians
-189205	1Thessalonians
+180418	1Thessalonians
 1Thessalonians
-189208	1Thessalonians
-189210	1Thessalonians
-189212	1Thessalonians
-189214	1Thessalonians
-189216	1Thessalonians
-189219	1Thessalonians
-189222	1Thessalonians
-189225	1Thessalonians
-189228	1Thessalonians
-189234	1Thessalonians
 1Thessalonians
 1Thessalonians
-189240	1Thessalonians
+180423	1Thessalonians
+180425	1Thessalonians
+180428	1Thessalonians
 1Thessalonians
-189244	1Thessalonians
-189251	1Thessalonians
+180432	1Thessalonians
 1Thessalonians
+180435	1Thessalonians
+180439	1Thessalonians
+180441	1Thessalonians
+180443	1Thessalonians
+180445	1Thessalonians
 1Thessalonians
-189255	1Thessalonians
-189259	1Thessalonians
-189263	1Thessalonians
-189265	1Thessalonians
-189268	1Thessalonians
+180450	1Thessalonians
+180452	1Thessalonians
+180455	1Thessalonians
 1Thessalonians
-189271	1Thessalonians
-189275	1Thessalonians
 1Thessalonians
-189278	1Thessalonians
 1Thessalonians
-189284	1Thessalonians
+180460	1Thessalonians
 1Thessalonians
+180463	1Thessalonians
+180466	1Thessalonians
+180469	1Thessalonians
+180471	1Thessalonians
+180473	1Thessalonians
+180476	1Thessalonians
+180480	1Thessalonians
+180482	1Thessalonians
+180484	1Thessalonians
 1Thessalonians
 1Thessalonians
-189290	1Thessalonians
-189292	1Thessalonians
-189296	1Thessalonians
+180488	1Thessalonians
+180490	1Thessalonians
+180492	1Thessalonians
+180494	1Thessalonians
+180496	1Thessalonians
 1Thessalonians
-189301	1Thessalonians
-189303	1Thessalonians
-189306	1Thessalonians
-189312	1Thessalonians
-189314	1Thessalonians
-189316	1Thessalonians
-189318	1Thessalonians
+180499	1Thessalonians
 1Thessalonians
-189324	1Thessalonians
-189327	1Thessalonians
-189331	1Thessalonians
+180502	1Thessalonians
+180506	1Thessalonians
+180508	1Thessalonians
+180513	1Thessalonians
+180515	1Thessalonians
+180518	1Thessalonians
 1Thessalonians
 1Thessalonians
+180522	1Thessalonians
+180525	1Thessalonians
+180528	1Thessalonians
+180530	1Thessalonians
+180532	1Thessalonians
+180536	1Thessalonians
 1Thessalonians
-189339	1Thessalonians
+180539	1Thessalonians
 1Thessalonians
-189343	1Thessalonians
-189345	1Thessalonians
-189349	1Thessalonians
-189353	1Thessalonians
-189355	1Thessalonians
-189359	1Thessalonians
-189365	1Thessalonians
-189367	1Thessalonians
-189370	1Thessalonians
+180543	1Thessalonians
+180545	1Thessalonians
 1Thessalonians
 1Thessalonians
-189374	1Thessalonians
-189376	1Thessalonians
-189378	1Thessalonians
-189380	1Thessalonians
-189382	1Thessalonians
+180549	1Thessalonians
+180552	1Thessalonians
+180554	1Thessalonians
+180556	1Thessalonians
+180558	1Thessalonians
+180560	1Thessalonians
+180564	1Thessalonians
 1Thessalonians
-189385	1Thessalonians
 1Thessalonians
-189389	1Thessalonians
-189395	1Thessalonians
-189398	1Thessalonians
-189404	1Thessalonians
-189407	1Thessalonians
-189412	1Thessalonians
+180568	1Thessalonians
 1Thessalonians
+180573	1Thessalonians
+180575	1Thessalonians
+180577	1Thessalonians
 1Thessalonians
-189416	1Thessalonians
-189422	1Thessalonians
-189426	1Thessalonians
-189428	1Thessalonians
-189430	1Thessalonians
-189435	1Thessalonians
-189437	1Thessalonians
-189439	1Thessalonians
 1Thessalonians
-189444	1Thessalonians
-189446	1Thessalonians
 1Thessalonians
+180584	1Thessalonians
+180586	1Thessalonians
+180588	1Thessalonians
+180592	1Thessalonians
+180596	1Thessalonians
+180598	1Thessalonians
+180607	1Thessalonians
+180609	1Thessalonians
+180611	1Thessalonians
+180613	1Thessalonians
+180615	1Thessalonians
 1Thessalonians
-189450	1Thessalonians
-189454	1Thessalonians
-189456	1Thessalonians
-189458	1Thessalonians
-189463	1Thessalonians
-189465	1Thessalonians
-189470	1Thessalonians
+180618	1Thessalonians
 1Thessalonians
+180621	1Thessalonians
 1Thessalonians
-189474	1Thessalonians
+180624	1Thessalonians
 1Thessalonians
-189480	1Thessalonians
-189482	1Thessalonians
-189484	1Thessalonians
 1Thessalonians
-189487	1Thessalonians
+180628	1Thessalonians
+180630	1Thessalonians
+180632	1Thessalonians
+180634	1Thessalonians
+180637	1Thessalonians
+180639	1Thessalonians
+180641	1Thessalonians
+180643	1Thessalonians
 1Thessalonians
-189493	1Thessalonians
-189495	1Thessalonians
-189497	1Thessalonians
-189504	1Thessalonians
-189510	1Thessalonians
-189512	1Thessalonians
-189523	1Thessalonians
-189525	1Thessalonians
-189527	1Thessalonians
-189529	1Thessalonians
-189531	1Thessalonians
+180646	1Thessalonians
+180648	1Thessalonians
+180650	1Thessalonians
+180652	1Thessalonians
 1Thessalonians
-189534	1Thessalonians
+180655	1Thessalonians
+180657	1Thessalonians
+180659	1Thessalonians
+180662	1Thessalonians
 1Thessalonians
-189539	1Thessalonians
+180666	1Thessalonians
 1Thessalonians
-189544	1Thessalonians
+180669	1Thessalonians
+180671	1Thessalonians
+180673	1Thessalonians
+180675	1Thessalonians
+180677	1Thessalonians
+180680	1Thessalonians
+180683	1Thessalonians
+180685	1Thessalonians
+180687	1Thessalonians
+180689	1Thessalonians
+180692	1Thessalonians
+180694	1Thessalonians
+180696	1Thessalonians
+180698	1Thessalonians
+180700	1Thessalonians
+180702	1Thessalonians
+180704	1Thessalonians
+180706	1Thessalonians
+180708	1Thessalonians
+180710	1Thessalonians
+180713	1Thessalonians
 1Thessalonians
-189547	1Thessalonians
-189551	1Thessalonians
-189553	1Thessalonians
-189556	1Thessalonians
-189558	1Thessalonians
-189563	1Thessalonians
-189566	1Thessalonians
-189568	1Thessalonians
-189571	1Thessalonians
+180716	1Thessalonians
+180718	1Thessalonians
+180720	1Thessalonians
+180722	1Thessalonians
+180727	1Thessalonians
+180729	1Thessalonians
+180731	1Thessalonians
+180733	1Thessalonians
+180735	1Thessalonians
+180737	1Thessalonians
+180739	1Thessalonians
+180741	1Thessalonians
+180743	1Thessalonians
+180746	1Thessalonians
+180749	1Thessalonians
+180751	1Thessalonians
+180753	1Thessalonians
+180755	1Thessalonians
+180759	1Thessalonians
+180761	1Thessalonians
 1Thessalonians
-189574	1Thessalonians
-189576	1Thessalonians
-189580	1Thessalonians
-189582	1Thessalonians
+180764	1Thessalonians
+180766	1Thessalonians
+180768	1Thessalonians
+180770	1Thessalonians
+180772	1Thessalonians
+180774	1Thessalonians
 1Thessalonians
-189585	1Thessalonians
-189587	1Thessalonians
-189589	1Thessalonians
-189591	1Thessalonians
-189593	1Thessalonians
-189596	1Thessalonians
 1Thessalonians
-189599	1Thessalonians
-189601	1Thessalonians
-189603	1Thessalonians
-189606	1Thessalonians
-189608	1Thessalonians
-189610	1Thessalonians
-189613	1Thessalonians
-189615	1Thessalonians
-189617	1Thessalonians
-189620	1Thessalonians
-189624	1Thessalonians
-189626	1Thessalonians
-189629	1Thessalonians
-189631	1Thessalonians
-189634	1Thessalonians
-189636	1Thessalonians
-189640	1Thessalonians
-189642	1Thessalonians
-189644	1Thessalonians
-189647	1Thessalonians
-189652	1Thessalonians
+180781	1Thessalonians
 1Thessalonians
-189657	1Thessalonians
-189659	1Thessalonians
-189661	1Thessalonians
-189663	1Thessalonians
-189668	1Thessalonians
-189670	1Thessalonians
-189672	1Thessalonians
-189674	1Thessalonians
-189677	1Thessalonians
-189681	1Thessalonians
-189683	1Thessalonians
-189685	1Thessalonians
-189687	1Thessalonians
-189689	1Thessalonians
-189692	1Thessalonians
-189694	1Thessalonians
-189696	1Thessalonians
-189699	1Thessalonians
-189706	1Thessalonians
-189708	1Thessalonians
-189710	1Thessalonians
-189712	1Thessalonians
-189715	1Thessalonians
-189717	1Thessalonians
-189719	1Thessalonians
-189721	1Thessalonians
-189723	1Thessalonians
+180784	1Thessalonians
+180787	1Thessalonians
+180789	1Thessalonians
 1Thessalonians
+180793	1Thessalonians
+180795	1Thessalonians
+180797	1Thessalonians
+180799	1Thessalonians
 1Thessalonians
-189731	1Thessalonians
+180804	1Thessalonians
+180806	1Thessalonians
+180808	1Thessalonians
+180810	1Thessalonians
 1Thessalonians
-189737	1Thessalonians
-189742	1Thessalonians
-189744	1Thessalonians
+180815	1Thessalonians
 1Thessalonians
-189747	1Thessalonians
-189749	1Thessalonians
-189751	1Thessalonians
-189753	1Thessalonians
-189755	1Thessalonians
-189759	1Thessalonians
-189761	1Thessalonians
-189763	1Thessalonians
-189765	1Thessalonians
 1Thessalonians
-189770	1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
-189776	1Thessalonians
+180823	1Thessalonians
 1Thessalonians
-189781	1Thessalonians
 1Thessalonians
+180827	1Thessalonians
 1Thessalonians
-189785	1Thessalonians
-189789	1Thessalonians
 1Thessalonians
-189793	1Thessalonians
+180831	1Thessalonians
 1Thessalonians
 1Thessalonians
-189798	1Thessalonians
-189800	1Thessalonians
-189806	1Thessalonians
-189809	1Thessalonians
+180835	1Thessalonians
+180837	1Thessalonians
+180840	1Thessalonians
+180842	1Thessalonians
 1Thessalonians
 1Thessalonians
-189813	1Thessalonians
+180846	1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
-189819	2Thessalonians
-189828	2Thessalonians
-189836	2Thessalonians
 2Thessalonians
-189840	2Thessalonians
-189844	2Thessalonians
-189846	2Thessalonians
-189848	2Thessalonians
-189854	2Thessalonians
+180854	2Thessalonians
+180858	2Thessalonians
 2Thessalonians
-189857	2Thessalonians
-189859	2Thessalonians
-189862	2Thessalonians
-189864	2Thessalonians
-189866	2Thessalonians
-189868	2Thessalonians
-189871	2Thessalonians
-189873	2Thessalonians
-189877	2Thessalonians
-189880	2Thessalonians
-189882	2Thessalonians
-189887	2Thessalonians
-189889	2Thessalonians
-189891	2Thessalonians
-189893	2Thessalonians
-189895	2Thessalonians
+180862	2Thessalonians
+180864	2Thessalonians
+180866	2Thessalonians
+180868	2Thessalonians
+180871	2Thessalonians
+2Thessalonians
+180874	2Thessalonians
+2Thessalonians
+180877	2Thessalonians
+180879	2Thessalonians
+180881	2Thessalonians
+180883	2Thessalonians
+180885	2Thessalonians
+2Thessalonians
+180888	2Thessalonians
+180891	2Thessalonians
+2Thessalonians
+180895	2Thessalonians
+2Thessalonians
+180898	2Thessalonians
+180900	2Thessalonians
+180902	2Thessalonians
+180904	2Thessalonians
 2Thessalonians
 2Thessalonians
-189899	2Thessalonians
-189901	2Thessalonians
-189905	2Thessalonians
-189908	2Thessalonians
-189914	2Thessalonians
-189921	2Thessalonians
-189923	2Thessalonians
-189931	2Thessalonians
+180908	2Thessalonians
+180910	2Thessalonians
+180912	2Thessalonians
+180915	2Thessalonians
+180919	2Thessalonians
 2Thessalonians
-189937	2Thessalonians
-189939	2Thessalonians
-189943	2Thessalonians
-189946	2Thessalonians
-189950	2Thessalonians
+180927	2Thessalonians
 2Thessalonians
-189953	2Thessalonians
+180932	2Thessalonians
+180934	2Thessalonians
+180936	2Thessalonians
+180938	2Thessalonians
+180941	2Thessalonians
+2Thessalonians
+180944	2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
-189959	2Thessalonians
-189961	2Thessalonians
-189963	2Thessalonians
-189965	2Thessalonians
-189967	2Thessalonians
-189969	2Thessalonians
-189971	2Thessalonians
-189973	2Thessalonians
-189977	2Thessalonians
-189980	2Thessalonians
+180950	2Thessalonians
+180952	2Thessalonians
+180954	2Thessalonians
+180956	2Thessalonians
 2Thessalonians
-189988	2Thessalonians
+180959	2Thessalonians
+180961	2Thessalonians
+180963	2Thessalonians
+180965	2Thessalonians
+180967	2Thessalonians
 2Thessalonians
-189991	2Thessalonians
-189993	2Thessalonians
-189995	2Thessalonians
-189997	2Thessalonians
-190000	2Thessalonians
+180973	2Thessalonians
 2Thessalonians
-190004	2Thessalonians
+180976	2Thessalonians
+180978	2Thessalonians
+180980	2Thessalonians
+180982	2Thessalonians
+180985	2Thessalonians
 2Thessalonians
-190007	2Thessalonians
-190009	2Thessalonians
-190012	2Thessalonians
-190018	2Thessalonians
-190020	2Thessalonians
-190022	2Thessalonians
-190028	2Thessalonians
-190037	2Thessalonians
-190039	2Thessalonians
-190043	2Thessalonians
-190051	2Thessalonians
-190053	2Thessalonians
-190055	2Thessalonians
-190058	2Thessalonians
-190062	2Thessalonians
-190064	2Thessalonians
-190067	2Thessalonians
-190069	2Thessalonians
-190071	2Thessalonians
-190073	2Thessalonians
+180988	2Thessalonians
 2Thessalonians
-190079	2Thessalonians
-190083	2Thessalonians
-190087	2Thessalonians
-190089	2Thessalonians
-190091	2Thessalonians
-190093	2Thessalonians
-190096	2Thessalonians
+180991	2Thessalonians
+180993	2Thessalonians
+180995	2Thessalonians
+181000	2Thessalonians
+181002	2Thessalonians
 2Thessalonians
+181007	2Thessalonians
+181011	2Thessalonians
+181013	2Thessalonians
+181016	2Thessalonians
+181021	2Thessalonians
+181023	2Thessalonians
+181025	2Thessalonians
+181028	2Thessalonians
+181031	2Thessalonians
+181033	2Thessalonians
+181035	2Thessalonians
+181037	2Thessalonians
+181039	2Thessalonians
+181041	2Thessalonians
 2Thessalonians
-190102	2Thessalonians
-190104	2Thessalonians
+181046	2Thessalonians
+181049	2Thessalonians
+181051	2Thessalonians
+181053	2Thessalonians
+181055	2Thessalonians
 2Thessalonians
-190111	2Thessalonians
-190114	2Thessalonians
-190116	2Thessalonians
-190118	2Thessalonians
-190123	2Thessalonians
-2Thessalonians
-190126	2Thessalonians
-190128	2Thessalonians
-2Thessalonians
-190131	2Thessalonians
-2Thessalonians
-190134	2Thessalonians
-2Thessalonians
-190137	2Thessalonians
-190143	2Thessalonians
-2Thessalonians
-190146	2Thessalonians
-190148	2Thessalonians
-190153	2Thessalonians
+181058	2Thessalonians
 2Thessalonians
 2Thessalonians
-190157	2Thessalonians
-190162	2Thessalonians
+181062	2Thessalonians
+181064	2Thessalonians
+2Thessalonians
+181069	2Thessalonians
+181071	2Thessalonians
+181073	2Thessalonians
+181075	2Thessalonians
+181079	2Thessalonians
+2Thessalonians
+181082	2Thessalonians
+181084	2Thessalonians
+2Thessalonians
+181087	2Thessalonians
 2Thessalonians
 2Thessalonians
-190166	2Thessalonians
-190168	2Thessalonians
+2Thessalonians
+181092	2Thessalonians
+181095	2Thessalonians
+2Thessalonians
+181098	2Thessalonians
+181100	2Thessalonians
+181103	2Thessalonians
+2Thessalonians
+2Thessalonians
+181107	2Thessalonians
+181110	2Thessalonians
+2Thessalonians
+2Thessalonians
+181114	2Thessalonians
+181116	2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
-190176	1Timothy
-190185	1Timothy
-190194	1Timothy
 1Timothy
+181124	1Timothy
+181127	1Timothy
 1Timothy
-190198	1Timothy
-190200	1Timothy
-190202	1Timothy
-190207	1Timothy
-190209	1Timothy
-190212	1Timothy
-190217	1Timothy
 1Timothy
+181131	1Timothy
 1Timothy
+181134	1Timothy
+181137	1Timothy
+181139	1Timothy
+181141	1Timothy
+181144	1Timothy
 1Timothy
 1Timothy
-190224	1Timothy
-190226	1Timothy
-190228	1Timothy
-190230	1Timothy
-190232	1Timothy
 1Timothy
 1Timothy
-190236	1Timothy
-190238	1Timothy
-190250	1Timothy
+181150	1Timothy
+181152	1Timothy
+181154	1Timothy
+181156	1Timothy
+181158	1Timothy
 1Timothy
-190253	1Timothy
 1Timothy
-190257	1Timothy
-190261	1Timothy
 1Timothy
 1Timothy
-190270	1Timothy
-190272	1Timothy
+181169	1Timothy
 1Timothy
-190275	1Timothy
-190280	1Timothy
-190284	1Timothy
-190286	1Timothy
 1Timothy
-190289	1Timothy
 1Timothy
+181174	1Timothy
+181176	1Timothy
 1Timothy
-190295	1Timothy
 1Timothy
-190298	1Timothy
-190306	1Timothy
-190308	1Timothy
+181182	1Timothy
+181184	1Timothy
 1Timothy
-190313	1Timothy
+181187	1Timothy
+181189	1Timothy
+181192	1Timothy
 1Timothy
 1Timothy
-190319	1Timothy
+181196	1Timothy
 1Timothy
 1Timothy
+181200	1Timothy
 1Timothy
-190324	1Timothy
+181203	1Timothy
+181208	1Timothy
+181210	1Timothy
 1Timothy
-190331	1Timothy
-190333	1Timothy
-190338	1Timothy
-190343	1Timothy
+181213	1Timothy
 1Timothy
-190346	1Timothy
-190348	1Timothy
-190351	1Timothy
 1Timothy
-190360	1Timothy
+181217	1Timothy
 1Timothy
 1Timothy
 1Timothy
-190367	1Timothy
-190371	1Timothy
+181222	1Timothy
 1Timothy
+181226	1Timothy
+181228	1Timothy
+181231	1Timothy
+181233	1Timothy
 1Timothy
-190377	1Timothy
-190386	1Timothy
 1Timothy
+181237	1Timothy
+181239	1Timothy
 1Timothy
-190390	1Timothy
-190393	1Timothy
-190395	1Timothy
+181243	1Timothy
 1Timothy
-190400	1Timothy
 1Timothy
-190404	1Timothy
-190406	1Timothy
 1Timothy
-190410	1Timothy
-190412	1Timothy
-190416	1Timothy
+181248	1Timothy
+181251	1Timothy
 1Timothy
-190419	1Timothy
-190421	1Timothy
 1Timothy
-190428	1Timothy
+181256	1Timothy
+181261	1Timothy
 1Timothy
-190433	1Timothy
 1Timothy
+181265	1Timothy
 1Timothy
+181268	1Timothy
 1Timothy
-190438	1Timothy
+181271	1Timothy
 1Timothy
-190441	1Timothy
+181274	1Timothy
+181276	1Timothy
 1Timothy
-190444	1Timothy
-190447	1Timothy
+181279	1Timothy
+181281	1Timothy
+181284	1Timothy
 1Timothy
-190450	1Timothy
+181287	1Timothy
+181289	1Timothy
 1Timothy
-190454	1Timothy
 1Timothy
 1Timothy
+181295	1Timothy
 1Timothy
 1Timothy
-190460	1Timothy
 1Timothy
-190466	1Timothy
-190468	1Timothy
-190470	1Timothy
-190473	1Timothy
+181300	1Timothy
 1Timothy
+181303	1Timothy
 1Timothy
-190479	1Timothy
-190481	1Timothy
+181306	1Timothy
+181308	1Timothy
 1Timothy
 1Timothy
-190485	1Timothy
-190487	1Timothy
-190491	1Timothy
-190493	1Timothy
 1Timothy
+181313	1Timothy
 1Timothy
 1Timothy
 1Timothy
 1Timothy
-190500	1Timothy
-190502	1Timothy
 1Timothy
-190507	1Timothy
 1Timothy
+181322	1Timothy
+181324	1Timothy
+181326	1Timothy
 1Timothy
 1Timothy
-190512	1Timothy
 1Timothy
-190516	1Timothy
-190519	1Timothy
-190521	1Timothy
+181332	1Timothy
+181334	1Timothy
 1Timothy
-190524	1Timothy
-190527	1Timothy
 1Timothy
-190530	1Timothy
-190534	1Timothy
-190536	1Timothy
-190540	1Timothy
-190543	1Timothy
-190545	1Timothy
 1Timothy
-190550	1Timothy
 1Timothy
-190555	1Timothy
+181341	1Timothy
+181343	1Timothy
 1Timothy
-190559	1Timothy
-190561	1Timothy
 1Timothy
-190564	1Timothy
-190568	1Timothy
-190570	1Timothy
-190574	1Timothy
 1Timothy
-190577	1Timothy
-190579	1Timothy
-190581	1Timothy
 1Timothy
-190584	1Timothy
-190586	1Timothy
-190589	1Timothy
-190591	1Timothy
 1Timothy
-190597	1Timothy
-190600	1Timothy
-190602	1Timothy
-190604	1Timothy
+181350	1Timothy
+181352	1Timothy
 1Timothy
+181356	1Timothy
 1Timothy
 1Timothy
-190610	1Timothy
-190612	1Timothy
-190616	1Timothy
-190618	1Timothy
-190620	1Timothy
-190623	1Timothy
-190626	1Timothy
-190628	1Timothy
-190634	1Timothy
-190636	1Timothy
 1Timothy
 1Timothy
-190640	1Timothy
-190644	1Timothy
-190648	1Timothy
-190650	1Timothy
 1Timothy
+181363	1Timothy
 1Timothy
+181366	1Timothy
 1Timothy
-190656	1Timothy
-190658	1Timothy
-190660	1Timothy
-190662	1Timothy
+181369	1Timothy
+181371	1Timothy
 1Timothy
-190665	1Timothy
-190667	1Timothy
-190671	1Timothy
 1Timothy
+181375	1Timothy
+181377	1Timothy
+181380	1Timothy
+181382	1Timothy
+181384	1Timothy
 1Timothy
-190675	1Timothy
-190677	1Timothy
-190680	1Timothy
+181388	1Timothy
 1Timothy
-190684	1Timothy
+181392	1Timothy
 1Timothy
-190688	1Timothy
-190690	1Timothy
-190692	1Timothy
+181395	1Timothy
 1Timothy
-190695	1Timothy
 1Timothy
 1Timothy
+181400	1Timothy
+181402	1Timothy
+181404	1Timothy
 1Timothy
-190700	1Timothy
-190702	1Timothy
-190704	1Timothy
 1Timothy
-190707	1Timothy
-190709	1Timothy
-190711	1Timothy
 1Timothy
 1Timothy
-190715	1Timothy
-190719	1Timothy
-190721	1Timothy
 1Timothy
-190724	1Timothy
+181411	1Timothy
 1Timothy
-190728	1Timothy
-190730	1Timothy
-190732	1Timothy
-190734	1Timothy
+181414	1Timothy
+181416	1Timothy
 1Timothy
-190741	1Timothy
+181421	1Timothy
 1Timothy
-190744	1Timothy
-190746	1Timothy
+181424	1Timothy
 1Timothy
-190749	1Timothy
 1Timothy
-190754	1Timothy
 1Timothy
-190757	1Timothy
-190760	1Timothy
-190762	1Timothy
-190764	1Timothy
 1Timothy
+181430	1Timothy
+181432	1Timothy
+181434	1Timothy
+181436	1Timothy
+181438	1Timothy
+181440	1Timothy
+181442	1Timothy
+181444	1Timothy
+181448	1Timothy
+181450	1Timothy
 1Timothy
 1Timothy
+181454	1Timothy
+181457	1Timothy
+181459	1Timothy
+181461	1Timothy
 1Timothy
 1Timothy
-190773	1Timothy
-190775	1Timothy
-190777	1Timothy
-190780	1Timothy
-190782	1Timothy
-190786	1Timothy
 1Timothy
-190793	1Timothy
-190795	1Timothy
-190798	1Timothy
-190802	1Timothy
-190804	1Timothy
-190806	1Timothy
-190810	1Timothy
-190813	1Timothy
-190815	1Timothy
+181466	1Timothy
+181468	1Timothy
+181470	1Timothy
+181472	1Timothy
 1Timothy
+181475	1Timothy
+181477	1Timothy
+181480	1Timothy
 1Timothy
-190819	1Timothy
-190821	1Timothy
-190823	1Timothy
 1Timothy
-190826	1Timothy
 1Timothy
-190831	1Timothy
-190833	1Timothy
+181485	1Timothy
+181487	1Timothy
 1Timothy
-190841	1Timothy
-190845	1Timothy
-190848	1Timothy
+181490	1Timothy
 1Timothy
-190851	1Timothy
-190853	1Timothy
-190857	1Timothy
-190859	1Timothy
+181493	1Timothy
+181495	1Timothy
+181497	1Timothy
 1Timothy
-190862	1Timothy
-190864	1Timothy
-190866	1Timothy
 1Timothy
-190871	1Timothy
-190876	1Timothy
-190878	1Timothy
-190882	1Timothy
-190891	1Timothy
-190894	1Timothy
-190896	1Timothy
 1Timothy
-190899	1Timothy
-190901	1Timothy
 1Timothy
 1Timothy
-190907	1Timothy
-190911	1Timothy
-190913	1Timothy
+181504	1Timothy
+181506	1Timothy
+181509	1Timothy
 1Timothy
-190917	1Timothy
+181512	1Timothy
+181514	1Timothy
 1Timothy
 1Timothy
 1Timothy
+181519	1Timothy
+181522	1Timothy
 1Timothy
 1Timothy
-190924	1Timothy
-190926	1Timothy
+181526	1Timothy
 1Timothy
-190929	1Timothy
-190933	1Timothy
+181530	1Timothy
 1Timothy
+181533	1Timothy
+181535	1Timothy
 1Timothy
+181540	1Timothy
+1Timothy
+1Timothy
+181544	1Timothy
+1Timothy
+1Timothy
+1Timothy
+181549	1Timothy
+1Timothy
+181552	1Timothy
+181554	1Timothy
+181556	1Timothy
+181558	1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+181566	1Timothy
+181568	1Timothy
+181570	1Timothy
+181572	1Timothy
+181574	1Timothy
+181577	1Timothy
+1Timothy
+181581	1Timothy
+181583	1Timothy
+1Timothy
+181586	1Timothy
+1Timothy
+181589	1Timothy
+181591	1Timothy
+181593	1Timothy
+181595	1Timothy
+1Timothy
+1Timothy
+181599	1Timothy
+181601	1Timothy
+181603	1Timothy
+1Timothy
+181606	1Timothy
+1Timothy
+181610	1Timothy
+181612	1Timothy
+1Timothy
+181617	1Timothy
+181620	1Timothy
+181622	1Timothy
+1Timothy
+181625	1Timothy
+181627	1Timothy
+181630	1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+181636	1Timothy
+1Timothy
+181639	1Timothy
+181642	1Timothy
+1Timothy
+1Timothy
+181647	1Timothy
+181650	1Timothy
+181652	1Timothy
+1Timothy
+181655	1Timothy
+181657	1Timothy
+1Timothy
+1Timothy
+181662	1Timothy
+1Timothy
+181665	1Timothy
+1Timothy
+181668	1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+181675	1Timothy
+181677	1Timothy
+1Timothy
+181680	1Timothy
+181682	1Timothy
+1Timothy
+1Timothy
+2Timothy
+2Timothy
+181688	2Timothy
+2Timothy
+181691	2Timothy
+181693	2Timothy
+2Timothy
+2Timothy
+181697	2Timothy
+2Timothy
+181700	2Timothy
+181703	2Timothy
+181705	2Timothy
+2Timothy
+2Timothy
+2Timothy
+181710	2Timothy
+2Timothy
+181715	2Timothy
+181717	2Timothy
+181720	2Timothy
+181722	2Timothy
+181726	2Timothy
+181728	2Timothy
+181731	2Timothy
+181733	2Timothy
+181735	2Timothy
+181740	2Timothy
+181742	2Timothy
+2Timothy
+2Timothy
+181746	2Timothy
+181748	2Timothy
+181750	2Timothy
+2Timothy
+2Timothy
+2Timothy
+181755	2Timothy
+181757	2Timothy
+2Timothy
+181760	2Timothy
+2Timothy
+181763	2Timothy
+181765	2Timothy
+181767	2Timothy
+2Timothy
+2Timothy
+181771	2Timothy
+2Timothy
+2Timothy
+181775	2Timothy
+2Timothy
+181779	2Timothy
+181782	2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+181790	2Timothy
+181792	2Timothy
+181796	2Timothy
+181798	2Timothy
+2Timothy
 2Timothy
-190942	2Timothy
-190949	2Timothy
-190951	2Timothy
-190953	2Timothy
-190957	2Timothy
 2Timothy
 2Timothy
-190961	2Timothy
 2Timothy
-190965	2Timothy
-190971	2Timothy
-190973	2Timothy
+181805	2Timothy
 2Timothy
 2Timothy
-190977	2Timothy
-190980	2Timothy
+181809	2Timothy
 2Timothy
-190987	2Timothy
-190991	2Timothy
-190995	2Timothy
-190997	2Timothy
-191004	2Timothy
-191007	2Timothy
-191012	2Timothy
-191014	2Timothy
-191018	2Timothy
-191023	2Timothy
-191025	2Timothy
-191027	2Timothy
 2Timothy
-191030	2Timothy
-191032	2Timothy
-191034	2Timothy
+181813	2Timothy
 2Timothy
-191037	2Timothy
+181816	2Timothy
 2Timothy
-191043	2Timothy
-191046	2Timothy
+181819	2Timothy
+181821	2Timothy
 2Timothy
-191049	2Timothy
-191051	2Timothy
-191055	2Timothy
-191058	2Timothy
-191061	2Timothy
-191063	2Timothy
+181824	2Timothy
+181826	2Timothy
 2Timothy
-191066	2Timothy
+181829	2Timothy
 2Timothy
+181832	2Timothy
 2Timothy
-191070	2Timothy
 2Timothy
-191073	2Timothy
-191078	2Timothy
 2Timothy
-191081	2Timothy
+181837	2Timothy
+181839	2Timothy
 2Timothy
 2Timothy
-191085	2Timothy
 2Timothy
-191088	2Timothy
-191090	2Timothy
-191093	2Timothy
-191095	2Timothy
+181844	2Timothy
+181846	2Timothy
 2Timothy
+181849	2Timothy
 2Timothy
+181853	2Timothy
 2Timothy
 2Timothy
+181857	2Timothy
+181859	2Timothy
 2Timothy
-191102	2Timothy
 2Timothy
-191105	2Timothy
-191108	2Timothy
+181863	2Timothy
+181865	2Timothy
+181867	2Timothy
+181869	2Timothy
+181874	2Timothy
+181876	2Timothy
+181878	2Timothy
+181880	2Timothy
 2Timothy
 2Timothy
-191112	2Timothy
+181884	2Timothy
+181886	2Timothy
+181888	2Timothy
+181890	2Timothy
+181892	2Timothy
+181894	2Timothy
+181896	2Timothy
+181898	2Timothy
+181900	2Timothy
 2Timothy
-191115	2Timothy
-191118	2Timothy
-191120	2Timothy
-191122	2Timothy
+181903	2Timothy
 2Timothy
-191125	2Timothy
-191128	2Timothy
+181906	2Timothy
 2Timothy
-191133	2Timothy
+181909	2Timothy
+181911	2Timothy
+181913	2Timothy
 2Timothy
-191136	2Timothy
 2Timothy
+181917	2Timothy
 2Timothy
+181920	2Timothy
 2Timothy
-191141	2Timothy
-191143	2Timothy
+181923	2Timothy
+181926	2Timothy
+181928	2Timothy
+181930	2Timothy
 2Timothy
+181933	2Timothy
+181935	2Timothy
 2Timothy
-191147	2Timothy
-191149	2Timothy
-191151	2Timothy
+181938	2Timothy
 2Timothy
-191154	2Timothy
 2Timothy
-191160	2Timothy
+181942	2Timothy
+181944	2Timothy
+181946	2Timothy
+181948	2Timothy
+181950	2Timothy
 2Timothy
 2Timothy
-191164	2Timothy
-191166	2Timothy
+181954	2Timothy
+181956	2Timothy
+181958	2Timothy
 2Timothy
-191169	2Timothy
-191171	2Timothy
-191173	2Timothy
-191175	2Timothy
-191178	2Timothy
-191187	2Timothy
-191189	2Timothy
-191191	2Timothy
-191193	2Timothy
+181961	2Timothy
+181963	2Timothy
+181966	2Timothy
 2Timothy
+181969	2Timothy
 2Timothy
-191198	2Timothy
-191200	2Timothy
-191203	2Timothy
-191205	2Timothy
-191208	2Timothy
-191210	2Timothy
-191212	2Timothy
-191214	2Timothy
-191216	2Timothy
-191218	2Timothy
-191220	2Timothy
-191222	2Timothy
-191224	2Timothy
+181973	2Timothy
+181975	2Timothy
 2Timothy
-191227	2Timothy
-191229	2Timothy
-191232	2Timothy
-191235	2Timothy
 2Timothy
-191238	2Timothy
-191240	2Timothy
-191242	2Timothy
+181980	2Timothy
 2Timothy
-191245	2Timothy
-191248	2Timothy
-191250	2Timothy
-191252	2Timothy
 2Timothy
-191255	2Timothy
-191257	2Timothy
+181985	2Timothy
 2Timothy
-191260	2Timothy
 2Timothy
+181991	2Timothy
 2Timothy
-191265	2Timothy
-191267	2Timothy
-191269	2Timothy
-191271	2Timothy
-191274	2Timothy
-191280	2Timothy
-191282	2Timothy
-191284	2Timothy
-191286	2Timothy
-191288	2Timothy
 2Timothy
-191292	2Timothy
-191295	2Timothy
-191299	2Timothy
 2Timothy
-191303	2Timothy
-191305	2Timothy
-191308	2Timothy
-191311	2Timothy
 2Timothy
-191315	2Timothy
-191321	2Timothy
 2Timothy
+181999	2Timothy
+182001	2Timothy
 2Timothy
-191330	2Timothy
 2Timothy
-191333	2Timothy
-191339	2Timothy
 2Timothy
+182007	2Timothy
+182009	2Timothy
+182011	2Timothy
 2Timothy
-191343	2Timothy
 2Timothy
 2Timothy
-191350	2Timothy
-191354	2Timothy
+182016	2Timothy
+182018	2Timothy
 2Timothy
 2Timothy
 2Timothy
-191361	2Timothy
-191363	2Timothy
-191366	2Timothy
 2Timothy
+182024	2Timothy
+182026	2Timothy
+182028	2Timothy
 2Timothy
 2Timothy
-191372	2Timothy
-191374	2Timothy
-191376	2Timothy
+182032	2Timothy
 2Timothy
+182035	2Timothy
 2Timothy
 2Timothy
-191382	2Timothy
-191385	2Timothy
-191388	2Timothy
 2Timothy
 2Timothy
-191395	2Timothy
 2Timothy
-191398	2Timothy
+182042	2Timothy
+182044	2Timothy
+182046	2Timothy
 2Timothy
 2Timothy
+182050	2Timothy
 2Timothy
-191403	2Timothy
 2Timothy
-191406	2Timothy
-191408	2Timothy
-191410	2Timothy
-191412	2Timothy
 2Timothy
-191415	2Timothy
-191417	2Timothy
-191419	2Timothy
+182055	2Timothy
 2Timothy
-191422	2Timothy
-191424	2Timothy
-191426	2Timothy
+182058	2Timothy
 2Timothy
-191432	2Timothy
-191434	2Timothy
-191437	2Timothy
-191439	2Timothy
-191441	2Timothy
-191443	2Timothy
-191445	2Timothy
-191447	2Timothy
-191452	2Timothy
-191454	2Timothy
+182061	2Timothy
+182063	2Timothy
+182065	2Timothy
+182067	2Timothy
+182069	2Timothy
+182071	2Timothy
+182073	2Timothy
+182075	2Timothy
+182078	2Timothy
+182080	2Timothy
 2Timothy
 2Timothy
 2Timothy
 2Timothy
-191464	2Timothy
+182089	2Timothy
 2Timothy
 Titus
-191476	Titus
-191478	Titus
-191480	Titus
-191483	Titus
-191492	Titus
-191495	Titus
-191497	Titus
-191501	Titus
-191503	Titus
-191505	Titus
-191507	Titus
-191512	Titus
-Titus
-191516	Titus
-191519	Titus
-191521	Titus
-191525	Titus
-191528	Titus
-191530	Titus
-191532	Titus
-191534	Titus
-191541	Titus
+182095	Titus
+182097	Titus
 Titus
 Titus
+182102	Titus
+182104	Titus
+182106	Titus
+182108	Titus
+182110	Titus
+182112	Titus
+Titus
+182117	Titus
 Titus
 Titus
-Titus
-191548	Titus
-191550	Titus
-Titus
-Titus
-Titus
-Titus
-191557	Titus
-Titus
-191561	Titus
-191563	Titus
-191566	Titus
-191571	Titus
-Titus
-191574	Titus
-Titus
-191580	Titus
-Titus
-Titus
-Titus
-191585	Titus
-191588	Titus
-191590	Titus
-191592	Titus
-Titus
-191595	Titus
-191597	Titus
-Titus
-Titus
-191602	Titus
-Titus
-191606	Titus
-Titus
-Titus
-191611	Titus
-Titus
-191614	Titus
-Titus
-191617	Titus
-191619	Titus
-191623	Titus
-Titus
-191626	Titus
-Titus
-191633	Titus
-191642	Titus
-Titus
-191645	Titus
-191647	Titus
-191650	Titus
-191652	Titus
-191655	Titus
-Titus
-191658	Titus
-191660	Titus
+182121	Titus
+182123	Titus
+182126	Titus
+182128	Titus
+182130	Titus
+182132	Titus
+182134	Titus
+182136	Titus
 Titus
 Titus
 Titus
 Titus
 Titus
-191667	Titus
-191669	Titus
-Titus
-191673	Titus
-191676	Titus
-191679	Titus
-191683	Titus
-191687	Titus
-191691	Titus
-191694	Titus
 Titus
 Titus
-191698	Titus
-Titus
-191701	Titus
-Titus
-191704	Titus
-Titus
-191709	Titus
-191715	Titus
-191718	Titus
-191721	Titus
-191723	Titus
-191726	Titus
-191730	Titus
-191733	Titus
-Titus
-191736	Titus
 Titus
 Titus
-191743	Titus
-191745	Titus
-Titus
-191748	Titus
 Titus
 Titus
-191752	Titus
+182149	Titus
+Titus
+182152	Titus
+Titus
+182156	Titus
+182159	Titus
+Titus
+182162	Titus
+Titus
+182167	Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+182175	Titus
+Titus
+Titus
+182179	Titus
+Titus
+Titus
+Titus
+Titus
+182185	Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+182193	Titus
+182195	Titus
+182197	Titus
+Titus
+182200	Titus
+Titus
+182205	Titus
+182208	Titus
+Titus
+Titus
+182212	Titus
+Titus
+182215	Titus
+182217	Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+182227	Titus
+Titus
+Titus
+182231	Titus
+182233	Titus
+182237	Titus
+182239	Titus
+Titus
+182242	Titus
+Titus
+Titus
+Titus
+182247	Titus
+Titus
+182250	Titus
+Titus
+182253	Titus
+Titus
+182257	Titus
+182262	Titus
+182264	Titus
+182266	Titus
+182268	Titus
+182270	Titus
+182272	Titus
+182274	Titus
+Titus
+182277	Titus
+Titus
+Titus
+182282	Titus
+182284	Titus
+Titus
+182287	Titus
+Titus
+Titus
+182291	Titus
 Titus
 Philemon
-191769	Philemon
-191777	Philemon
+182299	Philemon
+182302	Philemon
 Philemon
 Philemon
-191783	Philemon
-191788	Philemon
-191795	Philemon
-191798	Philemon
+182306	Philemon
+182309	Philemon
+182314	Philemon
+182317	Philemon
 Philemon
 Philemon
-191802	Philemon
-191804	Philemon
-191807	Philemon
-191809	Philemon
-191811	Philemon
-191820	Philemon
-191822	Philemon
-191824	Philemon
+182321	Philemon
 Philemon
-191827	Philemon
-191829	Philemon
+182324	Philemon
 Philemon
-191833	Philemon
 Philemon
-191836	Philemon
-191838	Philemon
-191841	Philemon
-191843	Philemon
-191850	Philemon
-191852	Philemon
-191854	Philemon
-191856	Philemon
-191859	Philemon
-191861	Philemon
+182330	Philemon
 Philemon
-191865	Philemon
-191867	Philemon
-191869	Philemon
-191872	Philemon
+182333	Philemon
+Philemon
+182336	Philemon
+182338	Philemon
+Philemon
+182341	Philemon
+Philemon
+182344	Philemon
+182346	Philemon
+Philemon
+182349	Philemon
+182354	Philemon
+Philemon
+182357	Philemon
+182359	Philemon
+182361	Philemon
+182363	Philemon
+Philemon
+Philemon
+182367	Philemon
+182369	Philemon
+182373	Philemon
 Philemon
 Philemon
 Philemon
-191877	Philemon
+182378	Philemon
 Philemon
-191881	Philemon
-191883	Philemon
+182381	Philemon
+182383	Philemon
 Philemon
 Philemon
 Philemon
-191892	Philemon
-191895	Hebrews
+Philemon
 Hebrews
-191902	Hebrews
 Hebrews
+182391	Hebrews
 Hebrews
 Hebrews
-191907	Hebrews
-191911	Hebrews
 Hebrews
 Hebrews
-191915	Hebrews
-191917	Hebrews
+182398	Hebrews
 Hebrews
-191921	Hebrews
-191923	Hebrews
-191927	Hebrews
 Hebrews
-191930	Hebrews
-191934	Hebrews
+182402	Hebrews
 Hebrews
-191938	Hebrews
-191940	Hebrews
-191943	Hebrews
 Hebrews
-191947	Hebrews
-191949	Hebrews
-191951	Hebrews
+182407	Hebrews
+182409	Hebrews
+182412	Hebrews
 Hebrews
-191955	Hebrews
-191958	Hebrews
-191960	Hebrews
-191962	Hebrews
-191965	Hebrews
-191967	Hebrews
-191970	Hebrews
-191972	Hebrews
+182415	Hebrews
+182418	Hebrews
 Hebrews
-191975	Hebrews
-191978	Hebrews
-191980	Hebrews
-191982	Hebrews
-191984	Hebrews
-191987	Hebrews
-191989	Hebrews
+182422	Hebrews
+182424	Hebrews
+182426	Hebrews
+182428	Hebrews
+182431	Hebrews
 Hebrews
-191992	Hebrews
+182434	Hebrews
 Hebrews
+182438	Hebrews
+182441	Hebrews
 Hebrews
+182444	Hebrews
+182446	Hebrews
+182448	Hebrews
+182450	Hebrews
+182452	Hebrews
 Hebrews
-191997	Hebrews
+182455	Hebrews
+182457	Hebrews
+182459	Hebrews
+182461	Hebrews
 Hebrews
-192003	Hebrews
+182465	Hebrews
+182467	Hebrews
 Hebrews
-192006	Hebrews
-192009	Hebrews
+182470	Hebrews
 Hebrews
-192012	Hebrews
 Hebrews
 Hebrews
+182475	Hebrews
 Hebrews
-192017	Hebrews
-192024	Hebrews
-192028	Hebrews
+182479	Hebrews
 Hebrews
-192031	Hebrews
+182482	Hebrews
+182484	Hebrews
 Hebrews
-192034	Hebrews
-192036	Hebrews
-192039	Hebrews
-192041	Hebrews
 Hebrews
-192045	Hebrews
-192047	Hebrews
-192049	Hebrews
-192051	Hebrews
 Hebrews
-192054	Hebrews
 Hebrews
-192058	Hebrews
-192062	Hebrews
-192064	Hebrews
-192067	Hebrews
-192069	Hebrews
 Hebrews
+182491	Hebrews
+182497	Hebrews
+182499	Hebrews
 Hebrews
-192073	Hebrews
-192077	Hebrews
-192080	Hebrews
+182502	Hebrews
 Hebrews
 Hebrews
+182506	Hebrews
+182510	Hebrews
 Hebrews
 Hebrews
+182514	Hebrews
+182516	Hebrews
+182518	Hebrews
+182520	Hebrews
 Hebrews
-192088	Hebrews
+182523	Hebrews
 Hebrews
-192091	Hebrews
+182526	Hebrews
+182529	Hebrews
+182531	Hebrews
+182533	Hebrews
+182535	Hebrews
 Hebrews
-192096	Hebrews
-192099	Hebrews
-192104	Hebrews
-192107	Hebrews
-Hebrews
-192110	Hebrews
-192112	Hebrews
-192114	Hebrews
-192118	Hebrews
-Hebrews
-192122	Hebrews
-Hebrews
-192125	Hebrews
-192129	Hebrews
-192131	Hebrews
-Hebrews
-Hebrews
-Hebrews
-192136	Hebrews
-192138	Hebrews
-192144	Hebrews
-192146	Hebrews
-192148	Hebrews
-192150	Hebrews
-Hebrews
-192153	Hebrews
-192156	Hebrews
-192158	Hebrews
-192160	Hebrews
-192164	Hebrews
-192166	Hebrews
-192168	Hebrews
-192170	Hebrews
-Hebrews
-Hebrews
-192177	Hebrews
-192180	Hebrews
-192182	Hebrews
-192184	Hebrews
-192187	Hebrews
-192189	Hebrews
-192192	Hebrews
-192195	Hebrews
-192197	Hebrews
-192199	Hebrews
-192201	Hebrews
-192203	Hebrews
-192206	Hebrews
-192208	Hebrews
-192210	Hebrews
-Hebrews
-192213	Hebrews
-Hebrews
-192216	Hebrews
-192219	Hebrews
-192221	Hebrews
-192223	Hebrews
-192226	Hebrews
-192228	Hebrews
-192230	Hebrews
-192232	Hebrews
 Hebrews
-192236	Hebrews
-192238	Hebrews
-192240	Hebrews
-192242	Hebrews
-192245	Hebrews
+182539	Hebrews
+182542	Hebrews
+182545	Hebrews
 Hebrews
-192248	Hebrews
 Hebrews
-192251	Hebrews
-192253	Hebrews
-192255	Hebrews
 Hebrews
 Hebrews
 Hebrews
-192261	Hebrews
+182552	Hebrews
 Hebrews
+182556	Hebrews
 Hebrews
+182559	Hebrews
+182563	Hebrews
+182566	Hebrews
+182568	Hebrews
 Hebrews
+182571	Hebrews
 Hebrews
-192268	Hebrews
-192270	Hebrews
-192272	Hebrews
+182574	Hebrews
+182577	Hebrews
 Hebrews
-192275	Hebrews
-192278	Hebrews
-192280	Hebrews
-192282	Hebrews
-192284	Hebrews
-192286	Hebrews
-192288	Hebrews
-192290	Hebrews
-192292	Hebrews
-192294	Hebrews
-192296	Hebrews
-192301	Hebrews
+182580	Hebrews
 Hebrews
-192304	Hebrews
-192306	Hebrews
+182583	Hebrews
+182586	Hebrews
+182588	Hebrews
 Hebrews
-192309	Hebrews
-192311	Hebrews
-192314	Hebrews
 Hebrews
-192319	Hebrews
-192321	Hebrews
-192323	Hebrews
-192325	Hebrews
-192328	Hebrews
-192330	Hebrews
-192333	Hebrews
 Hebrews
-192336	Hebrews
-192338	Hebrews
-192340	Hebrews
-192344	Hebrews
-192356	Hebrews
-192358	Hebrews
-192361	Hebrews
-192363	Hebrews
-192365	Hebrews
+182593	Hebrews
+182595	Hebrews
+182598	Hebrews
+182600	Hebrews
+182602	Hebrews
+182604	Hebrews
 Hebrews
-192368	Hebrews
-192371	Hebrews
-192373	Hebrews
+182607	Hebrews
+182609	Hebrews
+182611	Hebrews
+182613	Hebrews
+182616	Hebrews
+182618	Hebrews
+182620	Hebrews
 Hebrews
 Hebrews
-192377	Hebrews
-192380	Hebrews
-192382	Hebrews
-192384	Hebrews
 Hebrews
-192387	Hebrews
-192391	Hebrews
+182627	Hebrews
+182629	Hebrews
 Hebrews
-192394	Hebrews
-192399	Hebrews
-192401	Hebrews
+182632	Hebrews
+182634	Hebrews
+182636	Hebrews
+182638	Hebrews
+182640	Hebrews
 Hebrews
-192404	Hebrews
-192407	Hebrews
+182643	Hebrews
+182645	Hebrews
+182647	Hebrews
 Hebrews
-192410	Hebrews
+182650	Hebrews
+182652	Hebrews
 Hebrews
+182655	Hebrews
 Hebrews
+182658	Hebrews
+182660	Hebrews
+182662	Hebrews
+182664	Hebrews
+182666	Hebrews
 Hebrews
-192416	Hebrews
-192418	Hebrews
-192420	Hebrews
+182669	Hebrews
+182671	Hebrews
 Hebrews
-192423	Hebrews
+182675	Hebrews
+182677	Hebrews
+182679	Hebrews
+182681	Hebrews
+182683	Hebrews
 Hebrews
+182686	Hebrews
 Hebrews
-192427	Hebrews
-192432	Hebrews
+182689	Hebrews
+182691	Hebrews
+182693	Hebrews
 Hebrews
-192437	Hebrews
 Hebrews
-192440	Hebrews
 Hebrews
-192443	Hebrews
+182699	Hebrews
 Hebrews
-192446	Hebrews
 Hebrews
-192449	Hebrews
-192451	Hebrews
 Hebrews
-192454	Hebrews
-192457	Hebrews
 Hebrews
+182705	Hebrews
+182707	Hebrews
+182709	Hebrews
 Hebrews
-192461	Hebrews
-192463	Hebrews
+182712	Hebrews
+182714	Hebrews
+182716	Hebrews
+182718	Hebrews
+182720	Hebrews
+182722	Hebrews
+182724	Hebrews
+182726	Hebrews
+182728	Hebrews
+182730	Hebrews
+182732	Hebrews
+182735	Hebrews
 Hebrews
-192468	Hebrews
-192470	Hebrews
-192472	Hebrews
-192474	Hebrews
-192477	Hebrews
+182738	Hebrews
+182740	Hebrews
 Hebrews
-192483	Hebrews
 Hebrews
+182744	Hebrews
+182746	Hebrews
 Hebrews
-192495	Hebrews
-192497	Hebrews
-192499	Hebrews
+182750	Hebrews
+182752	Hebrews
+182754	Hebrews
+182756	Hebrews
+182758	Hebrews
+182760	Hebrews
+182762	Hebrews
 Hebrews
-192503	Hebrews
-192505	Hebrews
-192507	Hebrews
-192509	Hebrews
-192512	Hebrews
-192514	Hebrews
-192516	Hebrews
-192518	Hebrews
-192521	Hebrews
-192525	Hebrews
+182765	Hebrews
+182767	Hebrews
 Hebrews
-192528	Hebrews
-192530	Hebrews
-192532	Hebrews
+182772	Hebrews
+182779	Hebrews
+182781	Hebrews
+182783	Hebrews
 Hebrews
+182786	Hebrews
 Hebrews
-192538	Hebrews
 Hebrews
-192544	Hebrews
-192546	Hebrews
-192548	Hebrews
+182790	Hebrews
+182792	Hebrews
 Hebrews
-192553	Hebrews
 Hebrews
-192558	Hebrews
+182796	Hebrews
+182798	Hebrews
+182800	Hebrews
+182802	Hebrews
 Hebrews
-192562	Hebrews
-192564	Hebrews
-192566	Hebrews
-192570	Hebrews
+182805	Hebrews
+182808	Hebrews
 Hebrews
-192573	Hebrews
+182811	Hebrews
+182814	Hebrews
+182816	Hebrews
 Hebrews
+182819	Hebrews
+182821	Hebrews
 Hebrews
-192579	Hebrews
+182824	Hebrews
 Hebrews
-192582	Hebrews
 Hebrews
-192585	Hebrews
 Hebrews
-192589	Hebrews
-192591	Hebrews
+182829	Hebrews
+182831	Hebrews
 Hebrews
 Hebrews
+182835	Hebrews
 Hebrews
 Hebrews
 Hebrews
-192598	Hebrews
+182842	Hebrews
 Hebrews
-192601	Hebrews
+182846	Hebrews
 Hebrews
-192604	Hebrews
+182849	Hebrews
 Hebrews
-192611	Hebrews
-192613	Hebrews
-192615	Hebrews
-192617	Hebrews
-192625	Hebrews
+182852	Hebrews
 Hebrews
-192628	Hebrews
+182855	Hebrews
 Hebrews
-192632	Hebrews
-192634	Hebrews
-192636	Hebrews
-192639	Hebrews
-192644	Hebrews
-192646	Hebrews
+182858	Hebrews
+182860	Hebrews
 Hebrews
-192649	Hebrews
-192654	Hebrews
-192656	Hebrews
+182863	Hebrews
+182865	Hebrews
 Hebrews
-192659	Hebrews
-192661	Hebrews
-192664	Hebrews
-192666	Hebrews
-192668	Hebrews
-192670	Hebrews
-192672	Hebrews
-192676	Hebrews
 Hebrews
-192679	Hebrews
-192681	Hebrews
-192686	Hebrews
+182869	Hebrews
+182871	Hebrews
 Hebrews
-192690	Hebrews
-192692	Hebrews
-192694	Hebrews
-192700	Hebrews
-192702	Hebrews
+182874	Hebrews
+182876	Hebrews
+182878	Hebrews
+182880	Hebrews
+182882	Hebrews
 Hebrews
-192705	Hebrews
-192707	Hebrews
-192710	Hebrews
+182887	Hebrews
 Hebrews
-192713	Hebrews
 Hebrews
+182894	Hebrews
+182896	Hebrews
+182898	Hebrews
 Hebrews
-192717	Hebrews
-192719	Hebrews
+182902	Hebrews
+182904	Hebrews
+182906	Hebrews
+182908	Hebrews
+182910	Hebrews
+182912	Hebrews
 Hebrews
-192722	Hebrews
-192724	Hebrews
-192726	Hebrews
-192729	Hebrews
-192731	Hebrews
-192735	Hebrews
+182915	Hebrews
+182918	Hebrews
+182921	Hebrews
 Hebrews
-192740	Hebrews
-192742	Hebrews
-192744	Hebrews
-192746	Hebrews
+182924	Hebrews
 Hebrews
+182927	Hebrews
 Hebrews
-192751	Hebrews
-192753	Hebrews
-192755	Hebrews
-192758	Hebrews
-192760	Hebrews
 Hebrews
-192765	Hebrews
-192767	Hebrews
+182932	Hebrews
 Hebrews
-192770	Hebrews
-192772	Hebrews
-192774	Hebrews
+182938	Hebrews
+182940	Hebrews
+182942	Hebrews
 Hebrews
-192777	Hebrews
+182945	Hebrews
 Hebrews
-192780	Hebrews
-192783	Hebrews
-192787	Hebrews
-192789	Hebrews
+182949	Hebrews
 Hebrews
-192792	Hebrews
+182952	Hebrews
+182954	Hebrews
+182956	Hebrews
+182959	Hebrews
 Hebrews
-192795	Hebrews
+182962	Hebrews
 Hebrews
-192799	Hebrews
 Hebrews
-192802	Hebrews
-192804	Hebrews
-192807	Hebrews
-192809	Hebrews
+182967	Hebrews
 Hebrews
-192813	Hebrews
-192817	Hebrews
-192820	Hebrews
-192822	Hebrews
-192827	Hebrews
+182970	Hebrews
 Hebrews
-192830	Hebrews
-192836	Hebrews
-192839	Hebrews
+182973	Hebrews
 Hebrews
-192842	Hebrews
+182976	Hebrews
+182978	Hebrews
 Hebrews
 Hebrews
-192847	Hebrews
 Hebrews
 Hebrews
-192851	Hebrews
 Hebrews
 Hebrews
-192856	Hebrews
-192858	Hebrews
 Hebrews
-192861	Hebrews
-192864	Hebrews
+182987	Hebrews
 Hebrews
-192867	Hebrews
 Hebrews
-192872	Hebrews
 Hebrews
+182994	Hebrews
 Hebrews
-192877	Hebrews
-192881	Hebrews
-192883	Hebrews
 Hebrews
+182998	Hebrews
+183001	Hebrews
 Hebrews
-192888	Hebrews
+183004	Hebrews
 Hebrews
+183007	Hebrews
+183009	Hebrews
 Hebrews
-192893	Hebrews
-192895	Hebrews
 Hebrews
-192899	Hebrews
-192901	Hebrews
-192904	Hebrews
-192906	Hebrews
-192910	Hebrews
-192912	Hebrews
+183015	Hebrews
+183017	Hebrews
 Hebrews
 Hebrews
-192916	Hebrews
-192920	Hebrews
-192922	Hebrews
+183022	Hebrews
+183024	Hebrews
 Hebrews
-192925	Hebrews
-192927	Hebrews
-192929	Hebrews
-192931	Hebrews
-192934	Hebrews
-192938	Hebrews
-192941	Hebrews
-192946	Hebrews
-192948	Hebrews
-192951	Hebrews
 Hebrews
-192956	Hebrews
-192958	Hebrews
-192960	Hebrews
-192964	Hebrews
-192967	Hebrews
+183028	Hebrews
+183030	Hebrews
+183032	Hebrews
+183034	Hebrews
+183036	Hebrews
+183038	Hebrews
+183041	Hebrews
 Hebrews
+183044	Hebrews
+183046	Hebrews
+183049	Hebrews
 Hebrews
+183052	Hebrews
+183054	Hebrews
+183056	Hebrews
+183060	Hebrews
+183062	Hebrews
 Hebrews
-192974	Hebrews
-192977	Hebrews
 Hebrews
-192980	Hebrews
-192982	Hebrews
-192985	Hebrews
+183066	Hebrews
+183068	Hebrews
 Hebrews
+183071	Hebrews
 Hebrews
-192990	Hebrews
 Hebrews
+183075	Hebrews
+183077	Hebrews
 Hebrews
+183080	Hebrews
+183082	Hebrews
 Hebrews
-192997	Hebrews
+183085	Hebrews
+183087	Hebrews
+183090	Hebrews
 Hebrews
-193000	Hebrews
-193004	Hebrews
-193006	Hebrews
-193008	Hebrews
+183094	Hebrews
+183096	Hebrews
 Hebrews
-193015	Hebrews
-193020	Hebrews
-193022	Hebrews
-193024	Hebrews
-193029	Hebrews
-193031	Hebrews
-193033	Hebrews
-193035	Hebrews
+183099	Hebrews
 Hebrews
-193038	Hebrews
-193041	Hebrews
 Hebrews
-193044	Hebrews
-193046	Hebrews
+183103	Hebrews
+183105	Hebrews
+183107	Hebrews
 Hebrews
+183110	Hebrews
 Hebrews
-193050	Hebrews
-193052	Hebrews
-193054	Hebrews
-193056	Hebrews
-193058	Hebrews
-193060	Hebrews
-193062	Hebrews
+183114	Hebrews
+183116	Hebrews
 Hebrews
+183119	Hebrews
+183121	Hebrews
+183123	Hebrews
 Hebrews
-193073	Hebrews
+183126	Hebrews
 Hebrews
-193076	Hebrews
-193078	Hebrews
-193084	Hebrews
-193086	Hebrews
-193088	Hebrews
-193091	Hebrews
-193093	Hebrews
-193095	Hebrews
-193098	Hebrews
-193101	Hebrews
-193103	Hebrews
+183129	Hebrews
+183131	Hebrews
+183133	Hebrews
+183135	Hebrews
 Hebrews
-193106	Hebrews
-193108	Hebrews
-193110	Hebrews
 Hebrews
-193113	Hebrews
 Hebrews
-193116	Hebrews
-193118	Hebrews
-193120	Hebrews
+183140	Hebrews
 Hebrews
-193123	Hebrews
-193125	Hebrews
+183143	Hebrews
 Hebrews
-193128	Hebrews
-193132	Hebrews
+183146	Hebrews
 Hebrews
-193135	Hebrews
-193137	Hebrews
+183149	Hebrews
+183151	Hebrews
 Hebrews
-193140	Hebrews
-193142	Hebrews
 Hebrews
-193147	Hebrews
+183155	Hebrews
+183157	Hebrews
+183159	Hebrews
+183163	Hebrews
 Hebrews
-193151	Hebrews
-193155	Hebrews
 Hebrews
-193159	Hebrews
+183169	Hebrews
+183171	Hebrews
 Hebrews
+183174	Hebrews
 Hebrews
-193163	Hebrews
-193165	Hebrews
 Hebrews
+183178	Hebrews
 Hebrews
-193169	Hebrews
 Hebrews
-193177	Hebrews
+183182	Hebrews
 Hebrews
-193180	Hebrews
 Hebrews
-193185	Hebrews
-193187	Hebrews
-193189	Hebrews
-193191	Hebrews
+183186	Hebrews
+183188	Hebrews
 Hebrews
-193194	Hebrews
 Hebrews
+183194	Hebrews
 Hebrews
-193198	Hebrews
-193200	Hebrews
-193202	Hebrews
-193204	Hebrews
-193207	Hebrews
+183197	Hebrews
 Hebrews
-193210	Hebrews
 Hebrews
-193213	Hebrews
 Hebrews
 Hebrews
-193217	Hebrews
-193221	Hebrews
+183203	Hebrews
+183205	Hebrews
 Hebrews
-193224	Hebrews
-193226	Hebrews
-193228	Hebrews
-193231	Hebrews
-193233	Hebrews
-193235	Hebrews
-193237	Hebrews
-193239	Hebrews
 Hebrews
-193242	Hebrews
-193244	Hebrews
-193246	Hebrews
-193250	Hebrews
-193252	Hebrews
 Hebrews
-193255	Hebrews
+183210	Hebrews
 Hebrews
-193258	Hebrews
 Hebrews
-193261	Hebrews
+183214	Hebrews
 Hebrews
-193264	Hebrews
-193267	Hebrews
 Hebrews
 Hebrews
+183219	Hebrews
+183221	Hebrews
+183223	Hebrews
+183225	Hebrews
+183227	Hebrews
 Hebrews
-193273	Hebrews
 Hebrews
-193277	Hebrews
-193279	Hebrews
-193281	Hebrews
-193283	Hebrews
-193285	Hebrews
-193288	Hebrews
-193290	Hebrews
+183231	Hebrews
+183233	Hebrews
+183235	Hebrews
 Hebrews
-193294	Hebrews
+183238	Hebrews
+183240	Hebrews
 Hebrews
+183243	Hebrews
+183246	Hebrews
+183249	Hebrews
 Hebrews
-193298	Hebrews
+183254	Hebrews
+183256	Hebrews
+183258	Hebrews
 Hebrews
-193301	Hebrews
-193303	Hebrews
+183261	Hebrews
+183263	Hebrews
 Hebrews
-193307	Hebrews
-193312	Hebrews
-193314	Hebrews
-193317	Hebrews
-193319	Hebrews
+183267	Hebrews
+183270	Hebrews
 Hebrews
 Hebrews
 Hebrews
-193325	Hebrews
-193327	Hebrews
-193329	Hebrews
-193332	Hebrews
-193334	Hebrews
+183275	Hebrews
+183277	Hebrews
 Hebrews
-193338	Hebrews
-193341	Hebrews
-193343	Hebrews
-193346	Hebrews
-193350	Hebrews
+183280	Hebrews
 Hebrews
-193353	Hebrews
-193356	Hebrews
-193358	Hebrews
+183283	Hebrews
 Hebrews
-193361	Hebrews
+183286	Hebrews
+183288	Hebrews
 Hebrews
 Hebrews
-193365	Hebrews
 Hebrews
-193368	Hebrews
+183294	Hebrews
 Hebrews
-193371	Hebrews
+183297	Hebrews
+183300	Hebrews
+183302	Hebrews
 Hebrews
 Hebrews
-193375	Hebrews
+183306	Hebrews
+183310	Hebrews
+183312	Hebrews
+183314	Hebrews
+183317	Hebrews
+183319	Hebrews
 Hebrews
-193378	Hebrews
-193380	Hebrews
-193383	Hebrews
-193385	Hebrews
-193388	Hebrews
+183322	Hebrews
 Hebrews
-193391	Hebrews
+183325	Hebrews
+183327	Hebrews
 Hebrews
-193394	Hebrews
+183330	Hebrews
+183332	Hebrews
 Hebrews
-193397	Hebrews
-193400	Hebrews
-193402	Hebrews
-193404	Hebrews
 Hebrews
+183336	Hebrews
+183338	Hebrews
+183340	Hebrews
+183342	Hebrews
+183344	Hebrews
+183346	Hebrews
+183348	Hebrews
 Hebrews
-193408	Hebrews
 Hebrews
-193411	Hebrews
-193413	Hebrews
-193415	Hebrews
+183356	Hebrews
 Hebrews
 Hebrews
-193419	Hebrews
+183360	Hebrews
+183364	Hebrews
+183366	Hebrews
+183368	Hebrews
+183371	Hebrews
+183373	Hebrews
+183375	Hebrews
 Hebrews
-193422	Hebrews
+183381	Hebrews
+183383	Hebrews
 Hebrews
+183386	Hebrews
+183388	Hebrews
+183390	Hebrews
 Hebrews
+183393	Hebrews
 Hebrews
+183396	Hebrews
+183398	Hebrews
+183400	Hebrews
 Hebrews
-193431	Hebrews
-193433	Hebrews
 Hebrews
-193437	Hebrews
-193439	Hebrews
-193441	Hebrews
-193443	Hebrews
-193445	Hebrews
-193448	Hebrews
-193451	Hebrews
-193453	Hebrews
-193455	Hebrews
-193457	Hebrews
-193461	Hebrews
-193463	Hebrews
-193467	Hebrews
-193469	Hebrews
-193471	Hebrews
-193476	Hebrews
-193478	Hebrews
 Hebrews
 Hebrews
-193482	Hebrews
-193484	Hebrews
-193486	Hebrews
+183406	Hebrews
+183410	Hebrews
 Hebrews
-193489	Hebrews
-193491	Hebrews
+183413	Hebrews
+183415	Hebrews
 Hebrews
-193494	Hebrews
-193497	Hebrews
+183418	Hebrews
+183420	Hebrews
 Hebrews
+183424	Hebrews
 Hebrews
 Hebrews
+183429	Hebrews
 Hebrews
-193503	Hebrews
+183432	Hebrews
+183434	Hebrews
 Hebrews
-193506	Hebrews
+183437	Hebrews
+183439	Hebrews
 Hebrews
 Hebrews
-193512	Hebrews
+183443	Hebrews
 Hebrews
-193515	Hebrews
-193517	Hebrews
+183449	Hebrews
 Hebrews
-193520	Hebrews
+183452	Hebrews
 Hebrews
+183456	Hebrews
 Hebrews
-193525	Hebrews
+183459	Hebrews
 Hebrews
-193528	Hebrews
 Hebrews
+183463	Hebrews
 Hebrews
 Hebrews
+183467	Hebrews
+183469	Hebrews
+183471	Hebrews
+183473	Hebrews
+183476	Hebrews
 Hebrews
-193534	Hebrews
-193536	Hebrews
+183479	Hebrews
 Hebrews
-193539	Hebrews
 Hebrews
 Hebrews
-193543	Hebrews
-193545	Hebrews
 Hebrews
-193550	Hebrews
-193552	Hebrews
+183485	Hebrews
+183488	Hebrews
 Hebrews
+183491	Hebrews
 Hebrews
+183494	Hebrews
+183496	Hebrews
 Hebrews
+183499	Hebrews
 Hebrews
+183502	Hebrews
 Hebrews
+183505	Hebrews
+183507	Hebrews
+183509	Hebrews
+183511	Hebrews
+183513	Hebrews
 Hebrews
-193561	Hebrews
 Hebrews
-193564	Hebrews
-193566	Hebrews
 Hebrews
-193576	Hebrews
+183518	Hebrews
 Hebrews
+183521	Hebrews
 Hebrews
+183524	Hebrews
+183526	Hebrews
 Hebrews
 Hebrews
 Hebrews
+183531	Hebrews
 Hebrews
+183535	Hebrews
+183537	Hebrews
 Hebrews
+183540	Hebrews
+183542	Hebrews
+183545	Hebrews
 Hebrews
 Hebrews
-193587	Hebrews
+183549	Hebrews
 Hebrews
-193590	Hebrews
-193593	Hebrews
-193597	Hebrews
-193600	Hebrews
 Hebrews
+183553	Hebrews
 Hebrews
+183556	Hebrews
 Hebrews
 Hebrews
+183560	Hebrews
+183564	Hebrews
+183566	Hebrews
+183568	Hebrews
+183570	Hebrews
 Hebrews
-193608	Hebrews
 Hebrews
 Hebrews
+183575	Hebrews
+183577	Hebrews
 Hebrews
+183580	Hebrews
+183582	Hebrews
 Hebrews
-193619	Hebrews
+183585	Hebrews
+183587	Hebrews
+183589	Hebrews
+183591	Hebrews
+183594	Hebrews
 Hebrews
+183597	Hebrews
+183599	Hebrews
 Hebrews
-193623	Hebrews
-193625	Hebrews
 Hebrews
+183603	Hebrews
 Hebrews
 Hebrews
-193631	Hebrews
+183607	Hebrews
 Hebrews
-193638	Hebrews
+183610	Hebrews
 Hebrews
+183613	Hebrews
 Hebrews
-193642	Hebrews
-193644	Hebrews
-193646	Hebrews
-193648	Hebrews
 Hebrews
+183617	Hebrews
 Hebrews
 Hebrews
-193653	Hebrews
-193655	Hebrews
+183621	Hebrews
+183623	Hebrews
+183625	Hebrews
+183627	Hebrews
 Hebrews
-193658	Hebrews
-193660	Hebrews
-193662	Hebrews
+183630	Hebrews
 Hebrews
-193666	Hebrews
+183633	Hebrews
 Hebrews
-193669	Hebrews
-193671	Hebrews
+183636	Hebrews
+183638	Hebrews
+183640	Hebrews
+183642	Hebrews
 Hebrews
 Hebrews
-193675	Hebrews
-193677	Hebrews
-193679	Hebrews
-193682	Hebrews
-193684	Hebrews
+183646	Hebrews
 Hebrews
-193691	Hebrews
-193693	Hebrews
-193695	Hebrews
-193697	Hebrews
-193701	Hebrews
-193703	Hebrews
-193705	Hebrews
-193707	Hebrews
-193709	Hebrews
-193711	Hebrews
-193714	Hebrews
-193716	Hebrews
-193718	Hebrews
+183649	Hebrews
+183651	Hebrews
 Hebrews
-193721	Hebrews
-193723	Hebrews
-193725	Hebrews
-193727	Hebrews
-193729	Hebrews
-193731	Hebrews
-193734	Hebrews
-193736	Hebrews
 Hebrews
-193741	Hebrews
 Hebrews
-193745	Hebrews
-193748	Hebrews
 Hebrews
-193751	Hebrews
-193753	Hebrews
-193757	Hebrews
-193759	Hebrews
-193761	Hebrews
 Hebrews
+183658	Hebrews
 Hebrews
-193765	Hebrews
-193767	Hebrews
-193769	Hebrews
-193771	Hebrews
-193773	Hebrews
-193780	Hebrews
-193782	Hebrews
 Hebrews
-193785	Hebrews
-193787	Hebrews
-193790	Hebrews
 Hebrews
-193794	Hebrews
-193796	Hebrews
 Hebrews
+183665	Hebrews
 Hebrews
-193802	Hebrews
-193807	Hebrews
-193811	Hebrews
-193815	Hebrews
-193819	Hebrews
-193821	Hebrews
-193823	Hebrews
-193825	Hebrews
-193829	Hebrews
 Hebrews
-193832	Hebrews
+183669	Hebrews
+183671	Hebrews
+183673	Hebrews
+183675	Hebrews
 Hebrews
-193836	Hebrews
-193838	Hebrews
-193840	Hebrews
+183678	Hebrews
+183681	Hebrews
 Hebrews
 Hebrews
-193845	Hebrews
-193847	Hebrews
 Hebrews
-193850	Hebrews
-193852	Hebrews
-193854	Hebrews
+183687	Hebrews
+183689	Hebrews
+183692	Hebrews
+183694	Hebrews
+183696	Hebrews
+183701	Hebrews
 Hebrews
-193857	Hebrews
-193861	Hebrews
 Hebrews
 Hebrews
-193865	Hebrews
-193867	Hebrews
+183706	Hebrews
 Hebrews
-193870	Hebrews
-193872	Hebrews
+183709	Hebrews
 Hebrews
-193875	Hebrews
-193877	Hebrews
-193880	Hebrews
-193882	Hebrews
-193884	Hebrews
-193887	Hebrews
+183712	Hebrews
 Hebrews
-193890	Hebrews
-193893	Hebrews
-193895	Hebrews
-193897	Hebrews
-193899	Hebrews
 Hebrews
-193902	Hebrews
+183716	Hebrews
+183718	Hebrews
 Hebrews
 Hebrews
 Hebrews
-193908	Hebrews
 Hebrews
+183724	Hebrews
 Hebrews
+183727	Hebrews
 Hebrews
-193913	Hebrews
-193918	Hebrews
 Hebrews
-193923	Hebrews
+183731	Hebrews
 Hebrews
-193926	Hebrews
-193928	Hebrews
+183734	Hebrews
 Hebrews
-193931	Hebrews
 Hebrews
-193934	Hebrews
-193937	Hebrews
+183738	Hebrews
 Hebrews
-193940	Hebrews
-193942	Hebrews
-193944	Hebrews
 Hebrews
-193948	Hebrews
+183742	Hebrews
 Hebrews
+183745	Hebrews
 Hebrews
-193952	Hebrews
-193954	Hebrews
-193956	Hebrews
 Hebrews
-193960	Hebrews
-193964	Hebrews
-193966	Hebrews
 Hebrews
-193969	Hebrews
-193971	Hebrews
-193973	Hebrews
-193976	Hebrews
-193979	Hebrews
 Hebrews
-193982	Hebrews
 Hebrews
-193985	Hebrews
-193987	Hebrews
+183752	Hebrews
 Hebrews
+183755	Hebrews
 Hebrews
-193991	Hebrews
 Hebrews
-193994	Hebrews
-193998	Hebrews
-194002	Hebrews
+183759	Hebrews
+183761	Hebrews
 Hebrews
-194005	Hebrews
-194010	Hebrews
-194012	Hebrews
-194014	Hebrews
+183765	Hebrews
+183767	Hebrews
 Hebrews
 Hebrews
-194018	Hebrews
-194020	Hebrews
 Hebrews
-194023	Hebrews
-194025	Hebrews
 Hebrews
+Hebrews
+Hebrews
+183775	Hebrews
+Hebrews
+183778	Hebrews
+183780	Hebrews
+Hebrews
+183786	Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+183797	Hebrews
+Hebrews
+183800	Hebrews
+183802	Hebrews
+183805	Hebrews
+183807	Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+183822	Hebrews
+Hebrews
+Hebrews
+183826	Hebrews
+183828	Hebrews
+Hebrews
+Hebrews
+Hebrews
+183833	Hebrews
+Hebrews
+183837	Hebrews
+Hebrews
+Hebrews
+183841	Hebrews
+183843	Hebrews
+183845	Hebrews
+183847	Hebrews
+Hebrews
+Hebrews
+Hebrews
+183852	Hebrews
+Hebrews
+Hebrews
+183856	Hebrews
+183858	Hebrews
+183860	Hebrews
+Hebrews
+183864	Hebrews
+Hebrews
+183867	Hebrews
+Hebrews
+Hebrews
+Hebrews
+183872	Hebrews
+183874	Hebrews
+Hebrews
+183879	Hebrews
+Hebrews
+Hebrews
+183884	Hebrews
+183886	Hebrews
+Hebrews
+183889	Hebrews
+183892	Hebrews
+183894	Hebrews
+183896	Hebrews
+183898	Hebrews
+183900	Hebrews
+183902	Hebrews
+183904	Hebrews
+183906	Hebrews
+Hebrews
+Hebrews
+183910	Hebrews
+183912	Hebrews
+183915	Hebrews
+Hebrews
+183918	Hebrews
+183920	Hebrews
+183922	Hebrews
+183924	Hebrews
+Hebrews
+183927	Hebrews
+Hebrews
+183930	Hebrews
+183932	Hebrews
+Hebrews
+183935	Hebrews
+183937	Hebrews
+183939	Hebrews
+183941	Hebrews
+183943	Hebrews
+Hebrews
+Hebrews
+183947	Hebrews
+183949	Hebrews
+183951	Hebrews
+Hebrews
+183954	Hebrews
+183960	Hebrews
+183962	Hebrews
+Hebrews
+183965	Hebrews
+183967	Hebrews
+183969	Hebrews
+Hebrews
+183972	Hebrews
+183974	Hebrews
+Hebrews
+Hebrews
+183979	Hebrews
+183981	Hebrews
+183984	Hebrews
+183987	Hebrews
+183990	Hebrews
+Hebrews
+183993	Hebrews
+183995	Hebrews
+183998	Hebrews
+Hebrews
+184001	Hebrews
+Hebrews
+184004	Hebrews
+184006	Hebrews
+184008	Hebrews
+Hebrews
+Hebrews
+184012	Hebrews
+184014	Hebrews
+Hebrews
+184017	Hebrews
+184019	Hebrews
+184021	Hebrews
+Hebrews
+Hebrews
+184026	Hebrews
+Hebrews
+Hebrews
+Hebrews
+184031	Hebrews
+Hebrews
+Hebrews
+184035	Hebrews
+Hebrews
+184038	Hebrews
+184040	Hebrews
+Hebrews
+184043	Hebrews
+184045	Hebrews
+184047	Hebrews
+Hebrews
+184050	Hebrews
+184052	Hebrews
+Hebrews
+184055	Hebrews
+184057	Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+184070	Hebrews
+Hebrews
+184074	Hebrews
+Hebrews
+Hebrews
+184078	Hebrews
+Hebrews
+Hebrews
+Hebrews
+184083	Hebrews
+184085	Hebrews
+Hebrews
+184088	Hebrews
+184090	Hebrews
+184092	Hebrews
+Hebrews
+184095	Hebrews
+Hebrews
+Hebrews
+184099	Hebrews
+184101	Hebrews
+Hebrews
+Hebrews
+184105	Hebrews
+184108	Hebrews
+184110	Hebrews
+Hebrews
+184113	Hebrews
+184115	Hebrews
+184117	Hebrews
+184119	Hebrews
+184121	Hebrews
+Hebrews
+184124	Hebrews
+Hebrews
+184127	Hebrews
+184129	Hebrews
+Hebrews
+Hebrews
+184133	Hebrews
+Hebrews
+184136	Hebrews
+184140	Hebrews
+184142	Hebrews
+Hebrews
+Hebrews
+184147	Hebrews
+184149	Hebrews
+184151	Hebrews
+Hebrews
+Hebrews
+Hebrews
+184156	Hebrews
+Hebrews
+Hebrews
+184160	Hebrews
+Hebrews
+James
+184164	James
+James
+184168	James
 James
-194034	James
+184171	James
+184173	James
+184175	James
+184177	James
+184180	James
 James
-194038	James
+184183	James
+184185	James
+184187	James
+184189	James
 James
-194041	James
-194043	James
-194045	James
-194048	James
-194052	James
-194054	James
-194056	James
-194058	James
-194060	James
-194062	James
+184192	James
+184194	James
 James
-194065	James
-194067	James
-194069	James
-194071	James
-194074	James
-194076	James
+184197	James
+184199	James
+184201	James
 James
-194080	James
-194083	James
-194085	James
-194087	James
-194091	James
-194093	James
-194096	James
-194098	James
+184204	James
+184206	James
+184208	James
+184210	James
+184212	James
+184214	James
+184216	James
+184218	James
 James
-194101	James
-194103	James
-194105	James
 James
-194108	James
-194110	James
 James
+184223	James
 James
-194114	James
-194117	James
-194119	James
-194121	James
 James
-194126	James
+184227	James
 James
-194129	James
 James
+184231	James
+184233	James
+184235	James
+184237	James
 James
-194133	James
-194136	James
-194138	James
-194141	James
+184240	James
 James
-194144	James
+184243	James
 James
-194149	James
-194151	James
 James
-194154	James
+184247	James
+184249	James
 James
-194157	James
-194159	James
+184252	James
 James
-194165	James
+184255	James
 James
-194170	James
-194172	James
+184259	James
+184261	James
 James
-194178	James
-194180	James
+184264	James
 James
+184267	James
+184269	James
 James
-194185	James
-194187	James
-194189	James
+184273	James
 James
-194192	James
-194196	James
-194199	James
+184276	James
+184278	James
 James
-194204	James
+184282	James
+184284	James
 James
-194207	James
 James
+184288	James
+184290	James
+184292	James
 James
+184295	James
+184299	James
+184301	James
 James
-194217	James
-194220	James
+184304	James
 James
-194230	James
-194232	James
-194236	James
-194238	James
-194240	James
 James
-194243	James
-194245	James
-194247	James
-194250	James
-194252	James
 James
-194256	James
-194260	James
-194262	James
-194264	James
-194267	James
-194269	James
-194271	James
-194274	James
-194278	James
-194281	James
-194283	James
 James
-194288	James
 James
+184313	James
+184315	James
 James
-194292	James
-194294	James
-194296	James
-194298	James
-194300	James
-194302	James
+184320	James
+184322	James
+184324	James
+184326	James
+184328	James
 James
+184331	James
 James
-194309	James
-194311	James
+184334	James
+184336	James
+184338	James
 James
-194315	James
-194317	James
-194319	James
+184342	James
+184344	James
+184346	James
+184348	James
+184350	James
+184352	James
+184354	James
+184356	James
+184359	James
+184361	James
+184363	James
 James
-194323	James
-194325	James
+184367	James
 James
 James
-194331	James
+184371	James
+184373	James
+184375	James
+184377	James
+184379	James
+184381	James
 James
-194334	James
-194336	James
 James
-194342	James
-194346	James
-194349	James
-194351	James
-194353	James
-194355	James
-194357	James
+184386	James
+184388	James
 James
 James
-194361	James
-194363	James
+184392	James
+184394	James
 James
+184397	James
+184399	James
 James
+184402	James
+184405	James
 James
+184408	James
+184410	James
 James
+184413	James
+184416	James
+184418	James
 James
-194370	James
 James
-194373	James
-194375	James
-194377	James
+184422	James
+184424	James
 James
-194381	James
-194384	James
 James
-194387	James
+184428	James
+184430	James
 James
-194391	James
-194393	James
-194396	James
-194399	James
-194402	James
-194404	James
-194406	James
 James
-194410	James
-194412	James
-194414	James
-194417	James
-194419	James
-194423	James
 James
 James
-194427	James
-194429	James
-194431	James
-194434	James
 James
-194437	James
-194441	James
-194443	James
+184437	James
 James
 James
-194447	James
-194449	James
+184441	James
+184443	James
 James
-194452	James
-194454	James
-194456	James
+184447	James
+184450	James
 James
-194461	James
 James
-194464	James
 James
-194468	James
-194470	James
-194472	James
-194475	James
-194485	James
 James
+184456	James
+184458	James
+184460	James
+184462	James
+184464	James
+184466	James
 James
-194490	James
-194494	James
-194497	James
+184469	James
+184471	James
+184473	James
 James
-194501	James
-194503	James
-194505	James
-194509	James
-194511	James
-194513	James
-194515	James
+184476	James
+184479	James
 James
-194519	James
-194523	James
-194528	James
-194530	James
-194532	James
 James
+184483	James
+184485	James
+184487	James
+184489	James
 James
-194538	James
-194541	James
-194545	James
+184492	James
+184495	James
+184497	James
 James
-194551	James
-194553	James
-194555	James
-194557	James
-194559	James
-194562	James
-194564	James
-194566	James
-194569	James
-194571	James
-194573	James
 James
-194576	James
-194578	James
 James
-194581	James
-194584	James
-194586	James
-194588	James
-194590	James
-194592	James
-194594	James
-194596	James
-194598	James
+184502	James
 James
-194601	James
-194603	James
+184505	James
 James
-194606	James
-194608	James
-194610	James
-194612	James
-194614	James
-194617	James
-194620	James
-194622	James
-194624	James
-194626	James
-194628	James
-194631	James
-194634	James
-194636	James
-194638	James
-194640	James
-194642	James
-194644	James
-194646	James
+184508	James
 James
-194650	James
-194653	James
-194655	James
-194657	James
-194661	James
+184511	James
 James
-194664	James
-194669	James
 James
-194674	James
-194677	James
-194679	James
-194683	James
-194685	James
-194690	James
-194692	James
-194694	James
 James
+184517	James
+184519	James
+184521	James
+184523	James
+184530	James
 James
 James
-194701	James
 James
+184536	James
+184538	James
 James
-194705	James
-194708	James
-194711	James
-194713	James
-194717	James
+184541	James
+184543	James
+184545	James
+184548	James
+184550	James
+184552	James
+184554	James
 James
-194722	James
+184557	James
+184560	James
+184563	James
+184565	James
 James
-194725	James
 James
-194729	James
-194731	James
 James
-194735	James
-194737	James
-194739	James
-194741	James
-194746	James
-194748	James
+184570	James
+184572	James
+184575	James
 James
+184579	James
+184581	James
 James
+184584	James
+184586	James
+184588	James
 James
-194755	James
-194757	James
-194759	James
-194761	James
-194763	James
-194765	James
+184591	James
 James
+184594	James
+184596	James
 James
-194769	James
-194771	James
-194773	James
 James
-194776	James
-194779	James
+184600	James
 James
-194782	James
-194785	James
+184603	James
 James
+184606	James
+184608	James
+184610	James
+184613	James
+184615	James
+184617	James
+184619	James
 James
-194792	James
+184622	James
+184624	James
 James
-194795	James
 James
-194798	James
-194800	James
-194804	James
-194811	James
-194813	James
-194815	James
-194817	James
+184628	James
+184630	James
 James
-194820	James
+184633	James
+184635	James
+184637	James
+184639	James
 James
-194823	James
-194825	James
-194827	James
+184642	James
 James
-194831	James
-194833	James
-194835	James
-194838	James
+184646	James
+184648	James
+184650	James
+184652	James
 James
-194843	James
-194845	James
-194847	James
+184655	James
 James
+184658	James
 James
-194851	James
-194854	James
-194856	James
-194858	James
-194863	James
-194866	James
-194868	James
-194872	James
-194874	James
+184661	James
+184664	James
+184666	James
+184668	James
+184671	James
 James
 James
-194878	James
-194880	James
-194882	James
+184676	James
+James
+184680	James
+184683	James
+James
+184687	James
+James
+184691	James
+184693	James
+184695	James
+184697	James
+James
+James
+184702	James
+James
+James
+184706	James
+184708	James
+184710	James
+184712	James
+184715	James
+James
+184718	James
+James
+184721	James
+James
+James
+184725	James
+James
+184728	James
+James
+184731	James
+James
+184735	James
+184737	James
+James
+James
+James
+184742	James
+184744	James
+184746	James
+184748	James
+James
+184751	James
+James
+James
+James
+184756	James
+184758	James
+James
+184761	James
+184764	James
+James
+184767	James
+184771	James
+James
+James
+184776	James
+James
+184779	James
+184781	James
+184783	James
+184785	James
+184788	James
+184795	James
+184797	James
+184799	James
+James
+James
+James
+James
+James
+James
+184807	James
+James
+184810	James
+184812	James
+184814	James
+184816	James
+James
+184819	James
+184821	James
+184823	James
+James
+James
+James
+184828	James
+184830	James
+184832	James
+184835	James
+184837	James
+184839	James
+184843	James
+184845	James
+James
+James
+James
+184850	James
+184852	James
+1Peter
+184856	1Peter
+184858	1Peter
+184861	1Peter
+1Peter
+184865	1Peter
+184867	1Peter
+1Peter
+184870	1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+184877	1Peter
+184879	1Peter
+184883	1Peter
+1Peter
+184886	1Peter
+1Peter
+1Peter
+184890	1Peter
+1Peter
+1Peter
+184895	1Peter
+1Peter
+184898	1Peter
+1Peter
+184901	1Peter
+1Peter
+1Peter
+1Peter
+184906	1Peter
 1Peter
-194893	1Peter
-194896	1Peter
-194903	1Peter
 1Peter
-194909	1Peter
-194912	1Peter
 1Peter
+184911	1Peter
 1Peter
 1Peter
 1Peter
+184916	1Peter
 1Peter
 1Peter
-194922	1Peter
-194924	1Peter
-194930	1Peter
 1Peter
-194933	1Peter
+184921	1Peter
 1Peter
+184924	1Peter
+184927	1Peter
+184929	1Peter
 1Peter
-194938	1Peter
 1Peter
-194941	1Peter
-194946	1Peter
+184933	1Peter
+184935	1Peter
+184937	1Peter
+184941	1Peter
+184943	1Peter
+184946	1Peter
+184948	1Peter
+184950	1Peter
+184952	1Peter
 1Peter
-194951	1Peter
 1Peter
-194955	1Peter
 1Peter
+184957	1Peter
+184959	1Peter
+184961	1Peter
 1Peter
-194961	1Peter
-194963	1Peter
+184964	1Peter
+184966	1Peter
+184968	1Peter
+184970	1Peter
+184972	1Peter
 1Peter
+184979	1Peter
+184981	1Peter
+184983	1Peter
 1Peter
 1Peter
-194968	1Peter
-194970	1Peter
 1Peter
+184989	1Peter
+184991	1Peter
 1Peter
-194977	1Peter
-194979	1Peter
 1Peter
+184995	1Peter
 1Peter
-194983	1Peter
-194985	1Peter
-194987	1Peter
-194991	1Peter
-194993	1Peter
 1Peter
+184999	1Peter
+185001	1Peter
+185003	1Peter
+185005	1Peter
+185007	1Peter
 1Peter
-194998	1Peter
-195002	1Peter
-195004	1Peter
-195010	1Peter
-195012	1Peter
-195017	1Peter
-195019	1Peter
-195021	1Peter
-195024	1Peter
+185010	1Peter
+185012	1Peter
+185014	1Peter
+185016	1Peter
+185018	1Peter
 1Peter
 1Peter
-195029	1Peter
-195031	1Peter
-195035	1Peter
-195037	1Peter
-195040	1Peter
-195042	1Peter
-195044	1Peter
-195046	1Peter
-195049	1Peter
-195052	1Peter
+185024	1Peter
+185026	1Peter
+185028	1Peter
+185030	1Peter
 1Peter
-195060	1Peter
-195062	1Peter
-195064	1Peter
 1Peter
+185034	1Peter
 1Peter
-195068	1Peter
-195071	1Peter
-195073	1Peter
 1Peter
+185038	1Peter
+185040	1Peter
 1Peter
-195078	1Peter
+185043	1Peter
 1Peter
 1Peter
-195082	1Peter
-195084	1Peter
-195086	1Peter
-195089	1Peter
-195091	1Peter
 1Peter
-195094	1Peter
-195097	1Peter
-195099	1Peter
-195101	1Peter
-195104	1Peter
 1Peter
 1Peter
-195111	1Peter
-195113	1Peter
-195115	1Peter
-195117	1Peter
-195119	1Peter
+185050	1Peter
+185053	1Peter
+185056	1Peter
 1Peter
-195122	1Peter
 1Peter
+185060	1Peter
+185063	1Peter
+185065	1Peter
 1Peter
-195126	1Peter
-195130	1Peter
-195132	1Peter
-195134	1Peter
 1Peter
 1Peter
 1Peter
 1Peter
+185074	1Peter
+185076	1Peter
 1Peter
-195143	1Peter
-195147	1Peter
-195151	1Peter
+185079	1Peter
+185081	1Peter
 1Peter
+185085	1Peter
+185087	1Peter
 1Peter
-195156	1Peter
-195160	1Peter
-195162	1Peter
-195164	1Peter
+185091	1Peter
+185093	1Peter
 1Peter
+185096	1Peter
+185098	1Peter
+185100	1Peter
+185102	1Peter
 1Peter
 1Peter
 1Peter
-195176	1Peter
-195178	1Peter
+185107	1Peter
+185109	1Peter
 1Peter
-195182	1Peter
-195184	1Peter
 1Peter
-195189	1Peter
-195191	1Peter
 1Peter
-195196	1Peter
-195198	1Peter
 1Peter
-195201	1Peter
-195203	1Peter
-195205	1Peter
-195207	1Peter
 1Peter
+185116	1Peter
 1Peter
+185119	1Peter
+185122	1Peter
+185126	1Peter
 1Peter
-195212	1Peter
-195214	1Peter
 1Peter
 1Peter
+185133	1Peter
+185135	1Peter
+185137	1Peter
 1Peter
+185140	1Peter
 1Peter
 1Peter
-195222	1Peter
 1Peter
-195225	1Peter
-195228	1Peter
-195233	1Peter
+185145	1Peter
+185149	1Peter
 1Peter
+185152	1Peter
+185154	1Peter
+185156	1Peter
+185158	1Peter
+185160	1Peter
 1Peter
+185163	1Peter
+185165	1Peter
+185167	1Peter
+185169	1Peter
 1Peter
-195244	1Peter
-195247	1Peter
-195250	1Peter
+185172	1Peter
+185174	1Peter
+185176	1Peter
+185178	1Peter
+185180	1Peter
 1Peter
-195253	1Peter
+185183	1Peter
+185185	1Peter
+185187	1Peter
+185189	1Peter
 1Peter
+185192	1Peter
+185194	1Peter
+185196	1Peter
+185198	1Peter
+185200	1Peter
+185202	1Peter
+185204	1Peter
+185206	1Peter
 1Peter
-195257	1Peter
-195259	1Peter
-195263	1Peter
+185209	1Peter
+185211	1Peter
+185214	1Peter
 1Peter
-195266	1Peter
-195268	1Peter
-195270	1Peter
-195274	1Peter
-195276	1Peter
+185217	1Peter
+185219	1Peter
 1Peter
-195279	1Peter
-195281	1Peter
-195285	1Peter
-195287	1Peter
-195289	1Peter
-195291	1Peter
-195293	1Peter
-195295	1Peter
-195299	1Peter
-195301	1Peter
-195303	1Peter
-195305	1Peter
-195309	1Peter
-195311	1Peter
-195313	1Peter
 1Peter
-195316	1Peter
-195318	1Peter
-195320	1Peter
-195322	1Peter
-195324	1Peter
-195330	1Peter
-195332	1Peter
-195334	1Peter
-195336	1Peter
-195338	1Peter
-195340	1Peter
-195344	1Peter
+185223	1Peter
+185225	1Peter
+185228	1Peter
 1Peter
-195347	1Peter
-195351	1Peter
+185231	1Peter
+185233	1Peter
+185235	1Peter
 1Peter
 1Peter
-195355	1Peter
-195357	1Peter
-195359	1Peter
 1Peter
-195362	1Peter
-195365	1Peter
-195367	1Peter
+185240	1Peter
 1Peter
-195370	1Peter
 1Peter
-195374	1Peter
 1Peter
-195377	1Peter
-195379	1Peter
 1Peter
-195386	1Peter
 1Peter
 1Peter
-195395	1Peter
 1Peter
-195398	1Peter
-195400	1Peter
-195402	1Peter
-195405	1Peter
+185251	1Peter
 1Peter
+185254	1Peter
+185256	1Peter
+185258	1Peter
+185260	1Peter
 1Peter
 1Peter
 1Peter
-195413	1Peter
 1Peter
+185266	1Peter
 1Peter
-195417	1Peter
 1Peter
-195420	1Peter
-195423	1Peter
-195427	1Peter
-195429	1Peter
-195431	1Peter
-195433	1Peter
-195436	1Peter
-195438	1Peter
+185270	1Peter
 1Peter
-195443	1Peter
-195445	1Peter
-195447	1Peter
-195451	1Peter
-195453	1Peter
-195456	1Peter
-195458	1Peter
-195460	1Peter
-195462	1Peter
-195465	1Peter
-195473	1Peter
 1Peter
-195476	1Peter
-195479	1Peter
+185275	1Peter
+185278	1Peter
+185280	1Peter
+185282	1Peter
+185284	1Peter
+185286	1Peter
+185288	1Peter
 1Peter
-195482	1Peter
 1Peter
-195487	1Peter
+185292	1Peter
+185294	1Peter
+185296	1Peter
+185298	1Peter
+185300	1Peter
+185302	1Peter
 1Peter
-195490	1Peter
-195496	1Peter
-195505	1Peter
-195507	1Peter
+185305	1Peter
 1Peter
-195510	1Peter
-195512	1Peter
-195516	1Peter
+185311	1Peter
 1Peter
-195519	1Peter
-195521	1Peter
-195523	1Peter
-195527	1Peter
-195529	1Peter
-195531	1Peter
-195536	1Peter
+185314	1Peter
+185316	1Peter
 1Peter
+185319	1Peter
 1Peter
-195543	1Peter
+185322	1Peter
 1Peter
-195547	1Peter
+185325	1Peter
+185328	1Peter
+185334	1Peter
 1Peter
 1Peter
-195552	1Peter
-195555	1Peter
-195557	1Peter
-195559	1Peter
-195561	1Peter
-195563	1Peter
-195565	1Peter
+185338	1Peter
+185340	1Peter
+185343	1Peter
 1Peter
+185346	1Peter
+185348	1Peter
+185350	1Peter
+185353	1Peter
+185355	1Peter
+185357	1Peter
+185360	1Peter
 1Peter
 1Peter
+185364	1Peter
 1Peter
-195572	1Peter
+185367	1Peter
 1Peter
 1Peter
+185372	1Peter
+185374	1Peter
+185376	1Peter
+185378	1Peter
+185380	1Peter
 1Peter
+185383	1Peter
 1Peter
 1Peter
-195583	1Peter
 1Peter
 1Peter
+185389	1Peter
 1Peter
 1Peter
 1Peter
 1Peter
-195591	1Peter
-195595	1Peter
-195597	1Peter
-195599	1Peter
 1Peter
+185399	1Peter
 1Peter
 1Peter
-195606	1Peter
 1Peter
-195609	2Peter
-195616	2Peter
-195622	2Peter
-195629	2Peter
-195634	2Peter
-195638	2Peter
+1Peter
+1Peter
+1Peter
+185407	1Peter
+185409	1Peter
+1Peter
+185412	1Peter
+1Peter
+1Peter
+1Peter
+185417	1Peter
+1Peter
+2Peter
+185422	2Peter
+185424	2Peter
+185428	2Peter
+185431	2Peter
+185433	2Peter
+2Peter
+185436	2Peter
+2Peter
+185439	2Peter
+2Peter
+185442	2Peter
+185444	2Peter
+185446	2Peter
+185448	2Peter
+185450	2Peter
+185452	2Peter
+185454	2Peter
+2Peter
+185458	2Peter
+2Peter
 2Peter
-195642	2Peter
 2Peter
-195646	2Peter
+185463	2Peter
+185465	2Peter
+185468	2Peter
 2Peter
-195649	2Peter
-195651	2Peter
-195653	2Peter
-195655	2Peter
-195657	2Peter
-195659	2Peter
-195661	2Peter
+185471	2Peter
+185474	2Peter
 2Peter
-195669	2Peter
+185477	2Peter
+185479	2Peter
+185481	2Peter
 2Peter
 2Peter
 2Peter
-195674	2Peter
-195676	2Peter
-195680	2Peter
+185486	2Peter
+185488	2Peter
+185490	2Peter
 2Peter
-195683	2Peter
-195690	2Peter
 2Peter
-195693	2Peter
-195696	2Peter
-195698	2Peter
+185494	2Peter
 2Peter
 2Peter
+185498	2Peter
+185500	2Peter
+185502	2Peter
 2Peter
-195704	2Peter
-195706	2Peter
-195710	2Peter
 2Peter
+185506	2Peter
 2Peter
-195715	2Peter
 2Peter
+185510	2Peter
 2Peter
-195722	2Peter
-195726	2Peter
-195730	2Peter
 2Peter
-195733	2Peter
-195735	2Peter
+185514	2Peter
 2Peter
+185517	2Peter
+185519	2Peter
 2Peter
-195739	2Peter
+185522	2Peter
+185524	2Peter
 2Peter
 2Peter
-195743	2Peter
+185528	2Peter
+185530	2Peter
 2Peter
-195746	2Peter
-195748	2Peter
 2Peter
-195751	2Peter
-195754	2Peter
 2Peter
 2Peter
-195759	2Peter
-195761	2Peter
-195763	2Peter
+185536	2Peter
 2Peter
+185539	2Peter
+185541	2Peter
+185543	2Peter
+185546	2Peter
 2Peter
+185549	2Peter
 2Peter
-195768	2Peter
 2Peter
-195771	2Peter
-195773	2Peter
-195775	2Peter
-195782	2Peter
+185553	2Peter
+185555	2Peter
 2Peter
-195785	2Peter
+185558	2Peter
 2Peter
+185561	2Peter
 2Peter
-195790	2Peter
-195792	2Peter
-195795	2Peter
-195798	2Peter
 2Peter
-195802	2Peter
+185565	2Peter
 2Peter
+185568	2Peter
+185570	2Peter
 2Peter
-195807	2Peter
-195809	2Peter
-195811	2Peter
-195814	2Peter
 2Peter
-195817	2Peter
-195820	2Peter
+185574	2Peter
 2Peter
-195823	2Peter
-195826	2Peter
-195828	2Peter
+185577	2Peter
+185580	2Peter
+185582	2Peter
 2Peter
 2Peter
 2Peter
 2Peter
-195836	2Peter
+185589	2Peter
 2Peter
-195840	2Peter
+185592	2Peter
 2Peter
 2Peter
 2Peter
 2Peter
-195846	2Peter
 2Peter
-195850	2Peter
 2Peter
+185600	2Peter
 2Peter
-195855	2Peter
 2Peter
+185604	2Peter
 2Peter
 2Peter
 2Peter
 2Peter
-195864	2Peter
-195866	2Peter
 2Peter
+185611	2Peter
+185613	2Peter
 2Peter
 2Peter
-195872	2Peter
 2Peter
-195875	2Peter
+185618	2Peter
 2Peter
-195879	2Peter
-195881	2Peter
+185621	2Peter
 2Peter
+185624	2Peter
+185626	2Peter
 2Peter
-195885	2Peter
 2Peter
-195890	2Peter
-195892	2Peter
-195898	2Peter
+185630	2Peter
 2Peter
-195902	2Peter
+185634	2Peter
 2Peter
-195905	2Peter
+185638	2Peter
 2Peter
+185641	2Peter
 2Peter
+185644	2Peter
 2Peter
-195910	2Peter
-195912	2Peter
 2Peter
-195915	2Peter
 2Peter
-195918	2Peter
-195922	2Peter
-195924	2Peter
-195926	2Peter
-195928	2Peter
 2Peter
-195931	2Peter
+185650	2Peter
 2Peter
-195934	2Peter
+185654	2Peter
 2Peter
-195937	2Peter
 2Peter
-195940	2Peter
-195943	2Peter
+185659	2Peter
+185661	2Peter
 2Peter
-195946	2Peter
-195949	2Peter
-195956	2Peter
-195958	2Peter
-195960	2Peter
-195962	2Peter
+185664	2Peter
 2Peter
+185667	2Peter
 2Peter
-195966	2Peter
+185670	2Peter
 2Peter
-195969	2Peter
-195971	2Peter
-195974	2Peter
+185673	2Peter
 2Peter
-195977	2Peter
-195981	2Peter
+185676	2Peter
+185678	2Peter
 2Peter
+185681	2Peter
+185683	2Peter
+185689	2Peter
+185691	2Peter
 2Peter
-195986	2Peter
-195991	2Peter
+185694	2Peter
 2Peter
-195994	2Peter
 2Peter
-195997	2Peter
-196000	2Peter
-196003	2Peter
 2Peter
 2Peter
-196009	2Peter
-196011	2Peter
-196013	2Peter
-196015	2Peter
+185700	2Peter
+185702	2Peter
+185704	2Peter
 2Peter
-196018	2Peter
-196022	2Peter
-196025	2Peter
-196027	2Peter
+185707	2Peter
+185709	2Peter
 2Peter
-196030	2Peter
-196037	2Peter
-196039	1John
-196041	1John
+2Peter
+185713	2Peter
+185716	2Peter
+2Peter
+185719	2Peter
+2Peter
+185722	2Peter
+185724	2Peter
+185728	2Peter
+2Peter
+2Peter
+185733	2Peter
+185735	2Peter
+2Peter
+185738	2Peter
+2Peter
+2Peter
+185743	2Peter
+185747	2Peter
+185749	2Peter
+2Peter
+185752	2Peter
+185755	2Peter
+1John
+1John
+1John
+1John
+185761	1John
+185763	1John
+185765	1John
+185767	1John
+185769	1John
+185771	1John
+185773	1John
+185775	1John
+1John
+1John
+1John
+185780	1John
+185782	1John
+185785	1John
+185787	1John
+185789	1John
+185791	1John
+185793	1John
+185795	1John
+185797	1John
+185799	1John
+185801	1John
+185803	1John
+1John
+185806	1John
+185810	1John
+185812	1John
+1John
+185815	1John
+185817	1John
+185819	1John
+1John
+185822	1John
+185824	1John
+1John
+185828	1John
+185830	1John
+185832	1John
+185834	1John
+1John
+185837	1John
+185841	1John
+185843	1John
+185845	1John
+185847	1John
+185849	1John
+185851	1John
+185853	1John
+185855	1John
+1John
+185859	1John
+185861	1John
+185863	1John
+185865	1John
+185868	1John
+1John
+1John
+185872	1John
+185876	1John
+1John
+1John
+185880	1John
+1John
+1John
+185884	1John
+1John
+1John
+1John
+1John
+1John
+185891	1John
+185893	1John
+1John
+185897	1John
+1John
+185900	1John
+1John
+185903	1John
+185905	1John
+185907	1John
+185909	1John
+185911	1John
+185913	1John
+1John
+185916	1John
+185920	1John
+185924	1John
+185928	1John
+185932	1John
+185936	1John
+185940	1John
+185942	1John
+185944	1John
+1John
+185947	1John
+185949	1John
+185951	1John
+185954	1John
+185956	1John
+185959	1John
+185961	1John
+185964	1John
+185967	1John
+185969	1John
+1John
+185972	1John
+185974	1John
+1John
+185977	1John
+185981	1John
+1John
+185985	1John
+185987	1John
+185989	1John
+185991	1John
+1John
+185994	1John
+185996	1John
+185999	1John
+1John
+186002	1John
+186004	1John
+186006	1John
+1John
+186009	1John
+186011	1John
+186013	1John
 1John
+186016	1John
 1John
-196045	1John
-196047	1John
-196050	1John
-196052	1John
-196054	1John
-196056	1John
-196059	1John
-196061	1John
+186019	1John
 1John
+186022	1John
 1John
+186026	1John
 1John
-196067	1John
-196069	1John
-196075	1John
-196077	1John
-196079	1John
-196082	1John
-196084	1John
-196087	1John
-196089	1John
-196093	1John
-196095	1John
-196097	1John
-196099	1John
-196101	1John
-196104	1John
-196106	1John
 1John
-196109	1John
-196113	1John
-196115	1John
-196117	1John
-196119	1John
-196122	1John
 1John
-196128	1John
-196130	1John
-196133	1John
-196135	1John
-196137	1John
-196139	1John
-196142	1John
-196144	1John
-196146	1John
-196152	1John
-196154	1John
-196157	1John
-196159	1John
-196161	1John
-196163	1John
-196166	1John
-196168	1John
-196170	1John
-196172	1John
-196176	1John
+186031	1John
+186035	1John
 1John
+186038	1John
 1John
-196180	1John
-196183	1John
 1John
+186043	1John
+186045	1John
+186047	1John
+186050	1John
 1John
-196187	1John
+186056	1John
+186058	1John
+186060	1John
+186062	1John
+186064	1John
 1John
+186067	1John
+186069	1John
 1John
-196193	1John
 1John
-196196	1John
 1John
 1John
+186075	1John
 1John
-196203	1John
-196205	1John
+186078	1John
+186081	1John
+186083	1John
 1John
-196209	1John
 1John
-196212	1John
-196214	1John
-196216	1John
-196218	1John
-196222	1John
-196224	1John
-196226	1John
-196228	1John
+186089	1John
+186091	1John
+186093	1John
+186095	1John
+186097	1John
+186099	1John
 1John
-196231	1John
-196234	1John
-196237	1John
-196240	1John
-196243	1John
-196246	1John
-196250	1John
-196252	1John
-196254	1John
+186102	1John
+186104	1John
+186106	1John
+186108	1John
+186110	1John
+186112	1John
 1John
-196258	1John
-196260	1John
-196263	1John
-196268	1John
-196271	1John
-196275	1John
-196277	1John
-196279	1John
-196284	1John
-196286	1John
+186115	1John
 1John
-196289	1John
-196291	1John
-196293	1John
-196295	1John
-196298	1John
+186118	1John
+186120	1John
 1John
-196302	1John
-196304	1John
-196307	1John
-196309	1John
+186123	1John
+186125	1John
+186127	1John
 1John
-196313	1John
-196316	1John
-196319	1John
+186130	1John
+186132	1John
 1John
-196322	1John
-196324	1John
-196326	1John
+186135	1John
 1John
-196330	1John
-196333	1John
-196335	1John
+186138	1John
+186140	1John
+186142	1John
 1John
-196338	1John
+186145	1John
 1John
-196341	1John
+186148	1John
+186150	1John
+186152	1John
+186154	1John
+186156	1John
 1John
-196344	1John
+186159	1John
+186162	1John
+186164	1John
+186166	1John
+186168	1John
+186170	1John
+186174	1John
 1John
-196349	1John
-196351	1John
+186177	1John
+186179	1John
 1John
+186182	1John
 1John
-196355	1John
-196358	1John
-196360	1John
-196362	1John
+186185	1John
+186187	1John
+186189	1John
 1John
 1John
-196370	1John
-196373	1John
-196375	1John
-196378	1John
+186193	1John
+186195	1John
 1John
-196384	1John
-196386	1John
-196388	1John
-196391	1John
-196393	1John
+186200	1John
+186202	1John
 1John
-196396	1John
-196398	1John
-196400	1John
+186205	1John
 1John
 1John
+186211	1John
+186213	1John
+186215	1John
+186219	1John
 1John
-196405	1John
+186222	1John
+186226	1John
 1John
-196408	1John
-196410	1John
-196412	1John
+186229	1John
 1John
+186232	1John
 1John
-196417	1John
-196419	1John
-196421	1John
-196424	1John
-196426	1John
-196428	1John
-196430	1John
-196432	1John
-196434	1John
-196436	1John
-196439	1John
-196441	1John
-196443	1John
+186235	1John
+186237	1John
+186239	1John
+186241	1John
+186243	1John
+186245	1John
+186247	1John
+186249	1John
+186253	1John
 1John
-196446	1John
-196448	1John
-196450	1John
-196452	1John
 1John
-196455	1John
-196457	1John
-196459	1John
+186258	1John
 1John
-196462	1John
-196464	1John
+186261	1John
+186263	1John
 1John
-196467	1John
-196469	1John
-196471	1John
-196473	1John
-196475	1John
+186266	1John
 1John
-196478	1John
 1John
-196484	1John
-196486	1John
-196488	1John
-196490	1John
-196492	1John
-196494	1John
-196496	1John
-196500	1John
-196502	1John
-196504	1John
-196507	1John
-196509	1John
-196512	1John
+186270	1John
 1John
-196515	1John
-196517	1John
+186273	1John
+186275	1John
 1John
-196520	1John
-196522	1John
-196524	1John
-196526	1John
-196528	1John
 1John
+186279	1John
+186281	1John
+186284	1John
+186286	1John
+186288	1John
 1John
-196532	1John
-196534	1John
 1John
-196540	1John
-196542	1John
+186292	1John
 1John
-196545	1John
 1John
+186296	1John
 1John
-196555	1John
-196557	1John
-196560	1John
-196563	1John
-196565	1John
-196567	1John
-196571	1John
 1John
-196574	1John
 1John
-196577	1John
-196579	1John
-196581	1John
-196583	1John
-196586	1John
-196591	1John
-196593	1John
-196596	1John
-196598	1John
-196600	1John
-196603	1John
+186303	1John
+186305	1John
+186307	1John
+186309	1John
+186311	1John
 1John
-196606	1John
-196609	1John
-196611	1John
-196613	1John
-196615	1John
+186314	1John
+186316	1John
 1John
-196618	1John
-196620	1John
+186319	1John
+186321	1John
 1John
-196624	1John
-196626	1John
-196628	1John
-196631	1John
+186324	1John
+186326	1John
+186328	1John
+186332	1John
 1John
 1John
-196635	1John
+186337	1John
 1John
-196639	1John
-196642	1John
-196644	1John
+186340	1John
+186343	1John
+186345	1John
+186347	1John
+186349	1John
+186352	1John
+186354	1John
 1John
-196647	1John
-196649	1John
 1John
 1John
-196653	1John
+186359	1John
+186361	1John
+186363	1John
 1John
+186366	1John
+186368	1John
+186370	1John
+186372	1John
+186374	1John
+186376	1John
+186378	1John
+186380	1John
+186382	1John
+186384	1John
+186386	1John
+186388	1John
 1John
+186391	1John
+186393	1John
+186395	1John
+186397	1John
 1John
-196660	1John
-196663	1John
-196666	1John
-196668	1John
-196670	1John
+186400	1John
+186402	1John
 1John
-196673	1John
-196675	1John
 1John
-196678	1John
-196680	1John
 1John
-196684	1John
-196687	1John
-196689	1John
-196692	1John
+186407	1John
+186409	1John
+186411	1John
 1John
+186414	1John
+186416	1John
+186418	1John
+186420	1John
+186422	1John
+186424	1John
 1John
-196696	1John
+186427	1John
+186429	1John
+186431	1John
+186433	1John
 1John
-196699	1John
-196702	1John
-196704	1John
-196706	1John
-196708	1John
-196712	1John
-196715	1John
 1John
+186437	1John
+186439	1John
+186441	1John
+186443	1John
+186445	1John
 1John
-196719	1John
-196721	1John
-196723	1John
-196727	1John
-196729	1John
-196732	1John
-196734	1John
-196736	1John
 1John
-196739	1John
-196741	1John
-196743	1John
+186449	1John
+186451	1John
+186453	1John
+186455	1John
 1John
-196746	1John
-196749	1John
-196751	1John
-196753	1John
+186458	1John
+186460	1John
 1John
-196756	1John
-196760	1John
-196762	1John
-196764	1John
 1John
-196767	1John
-196769	1John
-196771	1John
+186465	1John
+186467	1John
+186469	1John
+186471	1John
+186473	1John
 1John
-196774	1John
-196776	1John
-196778	1John
-196780	1John
-196782	1John
-196784	1John
-196786	1John
-196788	1John
-196790	1John
-196792	1John
-196794	1John
-196796	1John
-196798	1John
-196801	1John
-196803	1John
-196805	1John
+186478	1John
+186480	1John
 1John
+186483	1John
+186485	1John
 1John
-196809	1John
-196811	1John
-196813	1John
-196816	1John
-196819	1John
+186488	1John
 1John
-196822	1John
-196824	1John
-196826	1John
-196828	1John
-196830	1John
-196832	1John
-196834	1John
-196837	1John
-196840	1John
+186491	1John
+186493	1John
 1John
-196845	1John
-196847	1John
-196849	1John
-196852	1John
-196854	1John
+186496	1John
+186498	1John
+186500	1John
 1John
-196860	1John
-196864	1John
+186503	1John
 1John
-196867	1John
-196869	1John
+186506	1John
 1John
-196872	1John
+186509	1John
+186511	1John
+186513	1John
+186515	1John
 1John
-196875	1John
-196877	1John
-196879	1John
-196881	1John
-196884	1John
-196886	1John
 1John
-196889	1John
+186519	1John
 1John
-196892	1John
+186523	1John
+186525	1John
+186527	1John
 1John
-196896	1John
-196898	1John
-196900	1John
-196902	1John
+186530	1John
 1John
-196905	1John
-196908	1John
+186533	1John
 1John
-196913	1John
-196915	1John
-196917	1John
 1John
-196920	1John
-196922	1John
-196926	1John
+186537	1John
+186539	1John
 1John
 1John
-196930	1John
-196933	1John
+186543	1John
 1John
+186546	1John
 1John
-196937	1John
-196939	1John
-196941	1John
+186549	1John
+186551	1John
+186553	1John
+186555	1John
+186557	1John
 1John
-196945	1John
-196947	1John
-196950	1John
-196952	1John
-196954	1John
+186560	1John
+186562	1John
+186564	1John
+186566	1John
+186568	1John
+186570	1John
+186572	1John
 1John
-196958	1John
-196960	1John
-196962	1John
-196965	1John
-196967	1John
-196969	1John
-196971	1John
-196975	1John
-196978	1John
-196981	2John
-196985	2John
-196990	2John
-196993	2John
-196995	2John
+186575	1John
+186577	2John
+186579	2John
+186582	2John
+186584	2John
+186586	2John
 2John
-197006	2John
-197008	2John
-197010	2John
-197012	2John
-197015	2John
-197018	2John
+186590	2John
+186592	2John
 2John
-197021	2John
-197023	2John
+186595	2John
+186599	2John
+186601	2John
+2John
+186604	2John
+186606	2John
 2John
 2John
-197027	2John
-197029	2John
-197031	2John
-197034	2John
+186611	2John
+186613	2John
+186615	2John
+186617	2John
 2John
-197037	2John
-197040	2John
-197043	2John
+2John
+186621	2John
+186623	2John
 2John
 2John
 2John
-197049	2John
-197051	2John
+186629	2John
+186631	2John
 2John
-197055	2John
-197062	2John
-197064	2John
-197066	2John
-197068	2John
+186635	2John
+186639	2John
+186641	2John
 2John
-197071	2John
-197073	2John
+186644	2John
 2John
-197076	2John
+186647	2John
+186649	2John
 2John
 2John
-197082	2John
-197084	2John
-197086	2John
-197088	2John
+2John
+2John
+186656	2John
+2John
+186659	2John
+186661	2John
 2John
 3John
-197092	3John
-197094	3John
-197098	3John
-197101	3John
-197104	3John
-197106	3John
-197108	3John
+3John
+186667	3John
+186670	3John
+186672	3John
+3John
+186675	3John
+186677	3John
 3John
 3John
 3John
 3John
-197114	3John
-197116	3John
-197118	3John
-197121	3John
-3John
-3John
-197125	3John
-3John
-197128	3John
-3John
-197131	3John
-3John
-197134	3John
-197137	3John
-3John
-197140	3John
-197142	3John
-3John
-197146	3John
-197149	3John
-197151	3John
-197153	3John
-197155	3John
-197157	3John
-3John
-3John
-197161	3John
-3John
-197164	3John
-3John
-197170	3John
-197172	3John
-197174	3John
-197176	3John
-3John
-197179	3John
-3John
-197185	3John
-3John
-197188	3John
+186684	3John
+186686	3John
+186688	3John
 3John
 3John
 3John
+186693	3John
+3John
+186696	3John
+3John
+186699	3John
+3John
+186702	3John
+186704	3John
+3John
+186707	3John
+3John
+3John
+186711	3John
+186713	3John
+186715	3John
+186717	3John
+186719	3John
+186722	3John
+3John
+3John
+186726	3John
+3John
+186729	3John
+3John
+186733	3John
+186735	3John
+186737	3John
+3John
+3John
+186741	3John
+3John
+186745	3John
+3John
+186748	3John
+3John
+3John
+3John
 Jude
-197198	Jude
-197201	Jude
-197203	Jude
-197207	Jude
-197209	Jude
+186755	Jude
+186757	Jude
 Jude
-Jude
-Jude
-Jude
-Jude
-197216	Jude
-197220	Jude
-197222	Jude
-197224	Jude
-197230	Jude
-197232	Jude
-Jude
-197235	Jude
-Jude
-197238	Jude
-197240	Jude
-197244	Jude
-197246	Jude
-197248	Jude
-197253	Jude
-197255	Jude
-Jude
-197258	Jude
-Jude
-197262	Jude
-197264	Jude
-197266	Jude
-197270	Jude
-197273	Jude
-Jude
-Jude
-Jude
-Jude
-197281	Jude
-Jude
-197284	Jude
-Jude
-197287	Jude
-197289	Jude
-197292	Jude
-197294	Jude
-197296	Jude
-Jude
-197299	Jude
-Jude
-Jude
-197303	Jude
+186761	Jude
+186763	Jude
 Jude
 Jude
 Jude
-197309	Jude
-197311	Jude
-197313	Jude
-Jude
-197316	Jude
-197318	Jude
-197321	Jude
-197324	Jude
-197326	Jude
-Jude
-197329	Jude
-Jude
-197332	Jude
-197336	Jude
-197340	Jude
 Jude
 Jude
+186770	Jude
+186772	Jude
 Jude
-197346	Jude
-Jude
-197349	Jude
-197351	Jude
-Jude
-Jude
-197359	Jude
+186775	Jude
+186778	Jude
 Jude
 Jude
+186782	Jude
 Jude
-197364	Jude
+186785	Jude
+186787	Jude
+186790	Jude
+186792	Jude
+186794	Jude
+186797	Jude
+186799	Jude
+Jude
+186802	Jude
+Jude
+186805	Jude
+186807	Jude
+186809	Jude
+186811	Jude
+186813	Jude
 Jude
 Jude
-197368	Jude
-197370	Jude
-197372	Jude
-197374	Jude
-197384	Revelation
-197388	Revelation
-Revelation
-Revelation
-Revelation
-197393	Revelation
-Revelation
-197397	Revelation
-197402	Revelation
-Revelation
-197406	Revelation
-197410	Revelation
-197412	Revelation
-197414	Revelation
-197416	Revelation
-Revelation
-197419	Revelation
-197425	Revelation
-197428	Revelation
-197431	Revelation
-197434	Revelation
-197446	Revelation
-197448	Revelation
-197450	Revelation
-197454	Revelation
-197459	Revelation
-197462	Revelation
-197465	Revelation
-197467	Revelation
-Revelation
-197472	Revelation
-197475	Revelation
-197477	Revelation
-197481	Revelation
-197484	Revelation
-197487	Revelation
-Revelation
-197498	Revelation
-197502	Revelation
-197504	Revelation
-Revelation
-197507	Revelation
-Revelation
-197510	Revelation
-197519	Revelation
-Revelation
-197522	Revelation
-197525	Revelation
+Jude
+Jude
+186820	Jude
+Jude
+186823	Jude
+Jude
+186826	Jude
+Jude
+186829	Jude
+186831	Jude
+186833	Jude
+Jude
+Jude
+Jude
+Jude
+Jude
+Jude
+Jude
+Jude
+Jude
+186844	Jude
+Jude
+Jude
+Jude
+186849	Jude
+Jude
+186852	Jude
+Jude
+Jude
+186856	Jude
+Jude
+186859	Jude
+186862	Jude
+186864	Jude
+Jude
+Jude
+Jude
+186869	Jude
+Jude
+186872	Jude
+186874	Jude
+Jude
+Jude
+186879	Jude
+Jude
+Jude
+Jude
+186884	Jude
+Jude
+Jude
+186888	Jude
+Jude
+Jude
+186892	Jude
+186897	Revelation
+186899	Revelation
+Revelation
+Revelation
+Revelation
+186904	Revelation
+Revelation
+Revelation
+186908	Revelation
+Revelation
+186911	Revelation
+186915	Revelation
+186917	Revelation
+186919	Revelation
+186921	Revelation
+Revelation
+Revelation
+186926	Revelation
+186929	Revelation
+186932	Revelation
+186934	Revelation
+186940	Revelation
+186942	Revelation
+186944	Revelation
+186946	Revelation
+186949	Revelation
+186951	Revelation
+186953	Revelation
+186955	Revelation
+Revelation
+186958	Revelation
+186960	Revelation
+Revelation
+186963	Revelation
+186966	Revelation
+186969	Revelation
+Revelation
+186975	Revelation
+186977	Revelation
+186979	Revelation
+Revelation
+186982	Revelation
+Revelation
+186985	Revelation
+186993	Revelation
+Revelation
+Revelation
+186997	Revelation
 Revelation
-197528	Revelation
-197530	Revelation
-197532	Revelation
-197536	Revelation
-197540	Revelation
-197542	Revelation
-197544	Revelation
-197546	Revelation
-197548	Revelation
-197551	Revelation
-197553	Revelation
-197555	Revelation
-197557	Revelation
-197560	Revelation
-197562	Revelation
-197564	Revelation
-197566	Revelation
-197568	Revelation
+187000	Revelation
+187002	Revelation
+187004	Revelation
+187006	Revelation
+187009	Revelation
+187011	Revelation
+187013	Revelation
+187015	Revelation
+187017	Revelation
+187019	Revelation
+187021	Revelation
+187023	Revelation
+187025	Revelation
+187027	Revelation
+187029	Revelation
+187031	Revelation
+187033	Revelation
+187035	Revelation
 Revelation
 Revelation
-197572	Revelation
-197577	Revelation
-197580	Revelation
-197582	Revelation
 Revelation
-197585	Revelation
-197589	Revelation
-197591	Revelation
-197593	Revelation
-197595	Revelation
+187042	Revelation
+187044	Revelation
+187046	Revelation
 Revelation
-197600	Revelation
-197602	Revelation
-197604	Revelation
+187049	Revelation
+187052	Revelation
 Revelation
+187055	Revelation
+187057	Revelation
 Revelation
-197609	Revelation
-197611	Revelation
-197613	Revelation
-197620	Revelation
+187061	Revelation
+187063	Revelation
+187065	Revelation
 Revelation
-197624	Revelation
-197626	Revelation
-197629	Revelation
-197631	Revelation
 Revelation
-197635	Revelation
-197638	Revelation
-197640	Revelation
-197642	Revelation
-197644	Revelation
-197647	Revelation
+187069	Revelation
+187071	Revelation
 Revelation
-197650	Revelation
-197652	Revelation
-197655	Revelation
-197657	Revelation
-197659	Revelation
-197661	Revelation
-197663	Revelation
-197665	Revelation
-197667	Revelation
+187077	Revelation
 Revelation
-197670	Revelation
+187080	Revelation
+187082	Revelation
+187084	Revelation
+187086	Revelation
 Revelation
+187089	Revelation
+187091	Revelation
+187093	Revelation
+187095	Revelation
+187097	Revelation
+187099	Revelation
 Revelation
-197675	Revelation
+187102	Revelation
+187104	Revelation
+187106	Revelation
+187108	Revelation
+187110	Revelation
+187112	Revelation
+187114	Revelation
+187116	Revelation
 Revelation
-197678	Revelation
-197680	Revelation
 Revelation
-197686	Revelation
-197688	Revelation
-197691	Revelation
-197695	Revelation
-197698	Revelation
-197700	Revelation
+187120	Revelation
 Revelation
-197704	Revelation
 Revelation
+187125	Revelation
 Revelation
 Revelation
+187129	Revelation
 Revelation
+187133	Revelation
+187135	Revelation
 Revelation
+187139	Revelation
+187141	Revelation
+187143	Revelation
 Revelation
+187146	Revelation
 Revelation
-197713	Revelation
-197715	Revelation
-197717	Revelation
-197719	Revelation
 Revelation
-197722	Revelation
 Revelation
 Revelation
-197726	Revelation
-197728	Revelation
 Revelation
-197731	Revelation
-197733	Revelation
-197735	Revelation
 Revelation
-197738	Revelation
-197740	Revelation
-197744	Revelation
 Revelation
-197748	Revelation
-197750	Revelation
+187155	Revelation
+187157	Revelation
 Revelation
-197753	Revelation
+187160	Revelation
 Revelation
-197756	Revelation
-197758	Revelation
+187163	Revelation
 Revelation
 Revelation
-197762	Revelation
-197765	Revelation
+187167	Revelation
+187169	Revelation
 Revelation
-197768	Revelation
+187172	Revelation
 Revelation
-197771	Revelation
 Revelation
-197775	Revelation
 Revelation
-197779	Revelation
-197781	Revelation
-197785	Revelation
+187177	Revelation
+187179	Revelation
 Revelation
 Revelation
+187183	Revelation
+187185	Revelation
 Revelation
-197790	Revelation
-197792	Revelation
 Revelation
-197797	Revelation
-197799	Revelation
 Revelation
-197809	Revelation
-197812	Revelation
 Revelation
+187191	Revelation
 Revelation
-197818	Revelation
-197820	Revelation
-197823	Revelation
-197825	Revelation
-197827	Revelation
-197830	Revelation
-197832	Revelation
-197834	Revelation
 Revelation
+187195	Revelation
+187199	Revelation
 Revelation
+187202	Revelation
 Revelation
-197839	Revelation
-197841	Revelation
-197843	Revelation
-197845	Revelation
-197848	Revelation
-197850	Revelation
-197852	Revelation
-197856	Revelation
-197858	Revelation
-197863	Revelation
+187205	Revelation
 Revelation
+187210	Revelation
 Revelation
+187213	Revelation
+187215	Revelation
+187217	Revelation
 Revelation
 Revelation
-197869	Revelation
 Revelation
-197872	Revelation
-197877	Revelation
-197880	Revelation
+187222	Revelation
+187224	Revelation
 Revelation
-197883	Revelation
-197885	Revelation
-197887	Revelation
-197889	Revelation
+187228	Revelation
+187230	Revelation
 Revelation
-197892	Revelation
+187237	Revelation
+187239	Revelation
 Revelation
-197895	Revelation
 Revelation
-197898	Revelation
-197901	Revelation
-197904	Revelation
-197906	Revelation
-197908	Revelation
-197911	Revelation
-197913	Revelation
-197915	Revelation
+187243	Revelation
+187245	Revelation
+187247	Revelation
 Revelation
-197918	Revelation
+187250	Revelation
+187252	Revelation
+187254	Revelation
+187256	Revelation
 Revelation
-197922	Revelation
 Revelation
-197928	Revelation
-197930	Revelation
-197934	Revelation
-197936	Revelation
-197938	Revelation
 Revelation
-197942	Revelation
+187261	Revelation
+187263	Revelation
+187265	Revelation
+187267	Revelation
+187269	Revelation
+187271	Revelation
+187273	Revelation
+187276	Revelation
+187278	Revelation
 Revelation
-197945	Revelation
-197947	Revelation
-197949	Revelation
-197951	Revelation
-197953	Revelation
-197955	Revelation
-197958	Revelation
-197960	Revelation
 Revelation
-197963	Revelation
 Revelation
-197969	Revelation
-197973	Revelation
-197975	Revelation
-197978	Revelation
-197980	Revelation
 Revelation
 Revelation
+187285	Revelation
 Revelation
-197985	Revelation
+187288	Revelation
+187293	Revelation
+187296	Revelation
+187298	Revelation
+187300	Revelation
+187302	Revelation
+187304	Revelation
+187306	Revelation
 Revelation
+187309	Revelation
 Revelation
-197991	Revelation
-197993	Revelation
-197995	Revelation
+187312	Revelation
 Revelation
+187315	Revelation
+187317	Revelation
+187319	Revelation
+187321	Revelation
+187323	Revelation
 Revelation
-198000	Revelation
+187326	Revelation
 Revelation
-198004	Revelation
 Revelation
-198007	Revelation
-198009	Revelation
-198012	Revelation
-198014	Revelation
-198016	Revelation
-198018	Revelation
-198021	Revelation
+187330	Revelation
 Revelation
-198025	Revelation
+187333	Revelation
 Revelation
+187337	Revelation
+187339	Revelation
+187342	Revelation
 Revelation
-198029	Revelation
+187345	Revelation
 Revelation
+187348	Revelation
 Revelation
+187351	Revelation
+187353	Revelation
 Revelation
-198034	Revelation
-198037	Revelation
+187356	Revelation
+187358	Revelation
+187360	Revelation
+187362	Revelation
+187364	Revelation
 Revelation
-198040	Revelation
-198042	Revelation
-198048	Revelation
-198050	Revelation
-198052	Revelation
+187367	Revelation
 Revelation
-198055	Revelation
+187370	Revelation
+187373	Revelation
+187375	Revelation
+187377	Revelation
+187379	Revelation
 Revelation
-198061	Revelation
-198063	Revelation
-198068	Revelation
 Revelation
-198072	Revelation
-198075	Revelation
-198077	Revelation
-198081	Revelation
-198085	Revelation
-198088	Revelation
-198090	Revelation
-198092	Revelation
-198094	Revelation
-198096	Revelation
-198102	Revelation
-198104	Revelation
 Revelation
-198107	Revelation
-198111	Revelation
-198113	Revelation
-198115	Revelation
 Revelation
-198118	Revelation
 Revelation
-198121	Revelation
-198126	Revelation
-198128	Revelation
 Revelation
+187387	Revelation
+187389	Revelation
+187391	Revelation
 Revelation
-198132	Revelation
-198136	Revelation
-198138	Revelation
-198140	Revelation
-198143	Revelation
-198145	Revelation
-198148	Revelation
 Revelation
-198152	Revelation
-198154	Revelation
+187395	Revelation
 Revelation
-198157	Revelation
+187398	Revelation
 Revelation
-198160	Revelation
-198162	Revelation
+187401	Revelation
 Revelation
-198165	Revelation
-198167	Revelation
+187404	Revelation
+187406	Revelation
+187408	Revelation
+187410	Revelation
+187412	Revelation
 Revelation
-198170	Revelation
-198172	Revelation
+187415	Revelation
 Revelation
 Revelation
+187419	Revelation
 Revelation
-198177	Revelation
 Revelation
-198181	Revelation
-198184	Revelation
-198186	Revelation
-198191	Revelation
-198194	Revelation
-198196	Revelation
 Revelation
-198199	Revelation
-198201	Revelation
-198207	Revelation
+187424	Revelation
+187428	Revelation
 Revelation
-198210	Revelation
+187431	Revelation
+187433	Revelation
+187436	Revelation
+187438	Revelation
+187440	Revelation
 Revelation
-198213	Revelation
-198216	Revelation
-198221	Revelation
-198223	Revelation
-198225	Revelation
-198227	Revelation
+187443	Revelation
 Revelation
-198230	Revelation
+187446	Revelation
+187448	Revelation
+187451	Revelation
 Revelation
-198235	Revelation
-198238	Revelation
+187455	Revelation
+187457	Revelation
+187459	Revelation
+187462	Revelation
+187464	Revelation
+187466	Revelation
+187468	Revelation
+187470	Revelation
+187472	Revelation
+187474	Revelation
+187479	Revelation
 Revelation
-198246	Revelation
-198249	Revelation
-198252	Revelation
-198256	Revelation
-198262	Revelation
-198264	Revelation
-198266	Revelation
-198268	Revelation
-198271	Revelation
-198273	Revelation
-198275	Revelation
 Revelation
+187483	Revelation
+187487	Revelation
+187489	Revelation
+187491	Revelation
 Revelation
-198281	Revelation
-198287	Revelation
-198289	Revelation
-198293	Revelation
-198295	Revelation
+187494	Revelation
 Revelation
-198299	Revelation
-198301	Revelation
+187497	Revelation
+187500	Revelation
+187502	Revelation
 Revelation
 Revelation
-198305	Revelation
-198307	Revelation
-198309	Revelation
-198314	Revelation
-198316	Revelation
-198318	Revelation
-198320	Revelation
-198322	Revelation
-198324	Revelation
-198326	Revelation
+187506	Revelation
+187508	Revelation
+187510	Revelation
 Revelation
+187513	Revelation
+187515	Revelation
+187519	Revelation
 Revelation
-198331	Revelation
-198335	Revelation
+187522	Revelation
+187524	Revelation
 Revelation
-198342	Revelation
+187527	Revelation
 Revelation
-198347	Revelation
 Revelation
-198351	Revelation
-198353	Revelation
-198355	Revelation
-198359	Revelation
+187531	Revelation
 Revelation
-198363	Revelation
-198366	Revelation
-198368	Revelation
-198370	Revelation
+187534	Revelation
 Revelation
-198373	Revelation
-198375	Revelation
-198377	Revelation
-198380	Revelation
-198382	Revelation
-198388	Revelation
-198392	Revelation
-198395	Revelation
-198399	Revelation
-198404	Revelation
-198407	Revelation
 Revelation
-198411	Revelation
 Revelation
-198421	Revelation
+187539	Revelation
 Revelation
 Revelation
-198426	Revelation
-198434	Revelation
-198441	Revelation
-198445	Revelation
-198447	Revelation
-198451	Revelation
-198453	Revelation
-198455	Revelation
 Revelation
+187544	Revelation
 Revelation
-198460	Revelation
-198464	Revelation
+187547	Revelation
+187549	Revelation
+187551	Revelation
+187554	Revelation
+187556	Revelation
+187558	Revelation
 Revelation
-198467	Revelation
-198469	Revelation
-198472	Revelation
-198475	Revelation
+187561	Revelation
+187563	Revelation
+187567	Revelation
 Revelation
-198479	Revelation
-198483	Revelation
+187570	Revelation
 Revelation
+187573	Revelation
+187575	Revelation
+187578	Revelation
+187580	Revelation
+187582	Revelation
+187584	Revelation
 Revelation
+187587	Revelation
 Revelation
-198489	Revelation
-198493	Revelation
-198495	Revelation
+187591	Revelation
+187593	Revelation
 Revelation
-198499	Revelation
-198501	Revelation
-198505	Revelation
+187596	Revelation
+187599	Revelation
+187602	Revelation
+187605	Revelation
+187609	Revelation
+187611	Revelation
 Revelation
+187614	Revelation
+187616	Revelation
+187618	Revelation
+187620	Revelation
 Revelation
+187623	Revelation
+187626	Revelation
+187630	Revelation
+187632	Revelation
+187635	Revelation
+187637	Revelation
 Revelation
-198511	Revelation
-198514	Revelation
+187640	Revelation
+187642	Revelation
 Revelation
-198517	Revelation
-198519	Revelation
-198521	Revelation
-198523	Revelation
-198526	Revelation
-198528	Revelation
-198530	Revelation
-198536	Revelation
 Revelation
 Revelation
+187647	Revelation
+187649	Revelation
+187652	Revelation
+187654	Revelation
+187656	Revelation
+187658	Revelation
 Revelation
-198542	Revelation
-198545	Revelation
+187661	Revelation
+187663	Revelation
 Revelation
-198549	Revelation
-198552	Revelation
-198554	Revelation
-198556	Revelation
 Revelation
-198565	Revelation
 Revelation
-198568	Revelation
-198572	Revelation
-198574	Revelation
+187669	Revelation
 Revelation
+187674	Revelation
 Revelation
-198581	Revelation
-198583	Revelation
-198586	Revelation
-198588	Revelation
-198590	Revelation
-198592	Revelation
-198597	Revelation
-198599	Revelation
-198601	Revelation
-198605	Revelation
-198607	Revelation
-198610	Revelation
-198612	Revelation
-198614	Revelation
-198616	Revelation
-198618	Revelation
+187677	Revelation
 Revelation
-198621	Revelation
-198623	Revelation
-198625	Revelation
-198629	Revelation
-198641	Revelation
-198646	Revelation
-198648	Revelation
-198651	Revelation
-198655	Revelation
-198657	Revelation
+187680	Revelation
+187682	Revelation
+187684	Revelation
+187687	Revelation
 Revelation
+187690	Revelation
+187692	Revelation
 Revelation
+187695	Revelation
 Revelation
 Revelation
-198663	Revelation
-198669	Revelation
 Revelation
+187700	Revelation
+187702	Revelation
+187704	Revelation
+187709	Revelation
+187712	Revelation
+187714	Revelation
+187716	Revelation
+187720	Revelation
+187722	Revelation
 Revelation
+187725	Revelation
 Revelation
-198674	Revelation
-198676	Revelation
-198678	Revelation
-198681	Revelation
-198683	Revelation
-198688	Revelation
-198690	Revelation
-198693	Revelation
-198695	Revelation
-198697	Revelation
+187734	Revelation
 Revelation
 Revelation
 Revelation
+187743	Revelation
+187749	Revelation
+187752	Revelation
+187754	Revelation
+187756	Revelation
+187758	Revelation
+187760	Revelation
 Revelation
 Revelation
+187764	Revelation
+187766	Revelation
 Revelation
+187769	Revelation
+187771	Revelation
+187773	Revelation
+187775	Revelation
 Revelation
+187779	Revelation
+187782	Revelation
 Revelation
 Revelation
 Revelation
+187787	Revelation
+187792	Revelation
 Revelation
-198710	Revelation
-198712	Revelation
 Revelation
-198715	Revelation
+187797	Revelation
+187799	Revelation
+187802	Revelation
 Revelation
-198724	Revelation
-198726	Revelation
-198728	Revelation
 Revelation
 Revelation
-198734	Revelation
-198738	Revelation
-198744	Revelation
-198746	Revelation
+187807	Revelation
+187809	Revelation
 Revelation
-198758	Revelation
+187812	Revelation
+187814	Revelation
+187816	Revelation
+187818	Revelation
 Revelation
-198761	Revelation
-198764	Revelation
-198766	Revelation
-198768	Revelation
+187821	Revelation
+187823	Revelation
+187827	Revelation
 Revelation
-198772	Revelation
-198774	Revelation
-198776	Revelation
-198779	Revelation
-198781	Revelation
-198784	Revelation
-198786	Revelation
-198790	Revelation
-198792	Revelation
 Revelation
-198795	Revelation
-198797	Revelation
-198803	Revelation
-198806	Revelation
-198808	Revelation
-198812	Revelation
 Revelation
-198816	Revelation
-198818	Revelation
-198820	Revelation
-198823	Revelation
-198826	Revelation
+187832	Revelation
+187834	Revelation
 Revelation
-198830	Revelation
-198832	Revelation
-198835	Revelation
-198838	Revelation
-198840	Revelation
-198842	Revelation
-198844	Revelation
-198850	Revelation
-198853	Revelation
-198855	Revelation
-198857	Revelation
-198860	Revelation
-198863	Revelation
-198865	Revelation
-198868	Revelation
-198870	Revelation
-198872	Revelation
-198874	Revelation
-198876	Revelation
+187837	Revelation
+187840	Revelation
+187842	Revelation
+187844	Revelation
 Revelation
-198880	Revelation
-198882	Revelation
-198886	Revelation
-198888	Revelation
-198890	Revelation
-198893	Revelation
-198895	Revelation
-198897	Revelation
-198899	Revelation
-198903	Revelation
-198906	Revelation
-198909	Revelation
-198911	Revelation
-198913	Revelation
-198916	Revelation
-198921	Revelation
-198924	Revelation
-198926	Revelation
-198929	Revelation
-198931	Revelation
+187851	Revelation
 Revelation
+187854	Revelation
+187856	Revelation
+187858	Revelation
 Revelation
+187861	Revelation
+187865	Revelation
+187867	Revelation
+187869	Revelation
+187871	Revelation
+187873	Revelation
+187875	Revelation
+187878	Revelation
 Revelation
-198937	Revelation
-198940	Revelation
+187881	Revelation
+187883	Revelation
+187885	Revelation
+187887	Revelation
+187889	Revelation
+187891	Revelation
+187893	Revelation
+187895	Revelation
 Revelation
-198943	Revelation
-198946	Revelation
+187898	Revelation
+187900	Revelation
+187902	Revelation
+187905	Revelation
+187914	Revelation
+187916	Revelation
+187918	Revelation
+187920	Revelation
+187923	Revelation
+187925	Revelation
 Revelation
-198949	Revelation
-198953	Revelation
-198955	Revelation
-198957	Revelation
-198959	Revelation
-198964	Revelation
-198966	Revelation
-198968	Revelation
-198970	Revelation
-198973	Revelation
-198978	Revelation
-198980	Revelation
-198982	Revelation
-198985	Revelation
-198987	Revelation
-198989	Revelation
-198991	Revelation
-198995	Revelation
-198997	Revelation
-199000	Revelation
 Revelation
-199003	Revelation
-199006	Revelation
 Revelation
-199009	Revelation
-199011	Revelation
-199013	Revelation
-199015	Revelation
-199017	Revelation
-199019	Revelation
-199021	Revelation
 Revelation
-199025	Revelation
-199028	Revelation
-199031	Revelation
-199033	Revelation
+187931	Revelation
+187935	Revelation
 Revelation
-199037	Revelation
-199039	Revelation
 Revelation
 Revelation
-199043	Revelation
-199045	Revelation
-199047	Revelation
-199050	Revelation
+187940	Revelation
 Revelation
-199054	Revelation
-199057	Revelation
-199060	Revelation
-199066	Revelation
-199068	Revelation
 Revelation
-199072	Revelation
-199074	Revelation
-199076	Revelation
-199082	Revelation
-199084	Revelation
-199088	Revelation
-199095	Revelation
-199097	Revelation
-199102	Revelation
+187944	Revelation
 Revelation
-199105	Revelation
-199108	Revelation
+187949	Revelation
+187951	Revelation
+187953	Revelation
 Revelation
-199111	Revelation
 Revelation
-199121	Revelation
 Revelation
-199128	Revelation
-199135	Revelation
 Revelation
 Revelation
-199141	Revelation
-199143	Revelation
-199145	Revelation
-199147	Revelation
 Revelation
-199152	Revelation
-199154	Revelation
-199156	Revelation
-199158	Revelation
-199162	Revelation
 Revelation
-199167	Revelation
 Revelation
 Revelation
-199171	Revelation
 Revelation
-199174	Revelation
 Revelation
-199177	Revelation
-199180	Revelation
-199182	Revelation
 Revelation
-199187	Revelation
-199190	Revelation
 Revelation
-199203	Revelation
-199205	Revelation
-199207	Revelation
 Revelation
-199210	Revelation
-199214	Revelation
-199216	Revelation
-199218	Revelation
-199220	Revelation
+187969	Revelation
 Revelation
-199224	Revelation
-199227	Revelation
-199231	Revelation
 Revelation
 Revelation
-199235	Revelation
-199238	Revelation
-199240	Revelation
-199243	Revelation
-199245	Revelation
-199247	Revelation
-199251	Revelation
-199253	Revelation
-199255	Revelation
-199257	Revelation
-199259	Revelation
-199261	Revelation
+187977	Revelation
+187979	Revelation
+187981	Revelation
 Revelation
 Revelation
-199269	Revelation
-199271	Revelation
+187985	Revelation
+187988	Revelation
+187992	Revelation
+187994	Revelation
 Revelation
-199274	Revelation
-199276	Revelation
-199281	Revelation
-199283	Revelation
-199286	Revelation
-199289	Revelation
-199291	Revelation
-199295	Revelation
-199297	Revelation
-199299	Revelation
+188006	Revelation
 Revelation
-199305	Revelation
-199309	Revelation
 Revelation
-199312	Revelation
-199314	Revelation
-199318	Revelation
+188010	Revelation
+188012	Revelation
+188014	Revelation
 Revelation
+188018	Revelation
 Revelation
+188021	Revelation
+188023	Revelation
+188025	Revelation
 Revelation
-199324	Revelation
+188028	Revelation
+188031	Revelation
+188033	Revelation
+188035	Revelation
+188037	Revelation
+188039	Revelation
+188042	Revelation
+188044	Revelation
+188046	Revelation
+188049	Revelation
 Revelation
-199327	Revelation
-199329	Revelation
+188052	Revelation
 Revelation
-199333	Revelation
-199336	Revelation
-199340	Revelation
-199342	Revelation
-199345	Revelation
-199348	Revelation
-199350	Revelation
-199352	Revelation
-199355	Revelation
-199358	Revelation
-199361	Revelation
-199369	Revelation
+188055	Revelation
+188057	Revelation
+188059	Revelation
 Revelation
-199373	Revelation
-199375	Revelation
-199377	Revelation
-199379	Revelation
-199381	Revelation
-199383	Revelation
-199387	Revelation
-199391	Revelation
-199393	Revelation
-199395	Revelation
-199397	Revelation
+188062	Revelation
+188064	Revelation
+188066	Revelation
+188068	Revelation
+188070	Revelation
+188072	Revelation
+188074	Revelation
+188079	Revelation
+188081	Revelation
+188083	Revelation
+188085	Revelation
+188087	Revelation
+188089	Revelation
+188091	Revelation
+188093	Revelation
+188095	Revelation
+188097	Revelation
+188099	Revelation
+188101	Revelation
 Revelation
+188104	Revelation
+188106	Revelation
+188108	Revelation
+188110	Revelation
+188112	Revelation
+188114	Revelation
 Revelation
-199402	Revelation
-199404	Revelation
-199407	Revelation
-199410	Revelation
-199413	Revelation
-199417	Revelation
-199419	Revelation
+188117	Revelation
+188119	Revelation
+188122	Revelation
+188124	Revelation
+188126	Revelation
+188128	Revelation
+188130	Revelation
+188132	Revelation
+188136	Revelation
+188138	Revelation
+188140	Revelation
+188142	Revelation
+188144	Revelation
 Revelation
 Revelation
-199423	Revelation
-199425	Revelation
 Revelation
-199428	Revelation
-199432	Revelation
-199435	Revelation
-199438	Revelation
-199440	Revelation
+188149	Revelation
+188151	Revelation
 Revelation
-199443	Revelation
-199450	Revelation
-199453	Revelation
-199456	Revelation
-199458	Revelation
-199461	Revelation
-199464	Revelation
-199466	Revelation
-199469	Revelation
-199471	Revelation
-199477	Revelation
-199481	Revelation
-199483	Revelation
-199486	Revelation
-199489	Revelation
-199491	Revelation
-199498	Revelation
-199502	Revelation
-199504	Revelation
-199506	Revelation
-199508	Revelation
-199510	Revelation
-199512	Revelation
-199514	Revelation
+188154	Revelation
+188156	Revelation
 Revelation
-199518	Revelation
-199521	Revelation
+188159	Revelation
+188161	Revelation
+188163	Revelation
+188165	Revelation
+188167	Revelation
+188170	Revelation
+188172	Revelation
+188174	Revelation
+188176	Revelation
+188178	Revelation
+188182	Revelation
 Revelation
-199526	Revelation
-199529	Revelation
-199531	Revelation
-199533	Revelation
-199536	Revelation
+188185	Revelation
+188187	Revelation
+188189	Revelation
+188191	Revelation
+188193	Revelation
+188195	Revelation
+188197	Revelation
+188199	Revelation
 Revelation
-199539	Revelation
-199541	Revelation
-199543	Revelation
-199545	Revelation
+188202	Revelation
+188204	Revelation
 Revelation
-199548	Revelation
-199552	Revelation
-199554	Revelation
+188207	Revelation
 Revelation
-199557	Revelation
-199561	Revelation
+188210	Revelation
+188212	Revelation
+188214	Revelation
+188216	Revelation
+188218	Revelation
 Revelation
-199566	Revelation
-199569	Revelation
-199574	Revelation
+188221	Revelation
 Revelation
-199577	Revelation
-199582	Revelation
-199586	Revelation
-199588	Revelation
-199590	Revelation
-199592	Revelation
+188225	Revelation
 Revelation
-199595	Revelation
-199601	Revelation
-199604	Revelation
-199609	Revelation
-199613	Revelation
 Revelation
-199619	Revelation
-199621	Revelation
-199625	Revelation
 Revelation
+188230	Revelation
 Revelation
-199629	Revelation
-199631	Revelation
-199633	Revelation
-199635	Revelation
-199637	Revelation
-199639	Revelation
-199641	Revelation
-199643	Revelation
-199649	Revelation
-199651	Revelation
-199654	Revelation
-199657	Revelation
-199659	Revelation
-199661	Revelation
-199664	Revelation
-199666	Revelation
 Revelation
-199671	Revelation
-199673	Revelation
-199675	Revelation
-199678	Revelation
+188234	Revelation
+188236	Revelation
 Revelation
+188239	Revelation
 Revelation
-199685	Revelation
-199687	Revelation
-199690	Revelation
-199692	Revelation
-199695	Revelation
-199697	Revelation
-199699	Revelation
-199705	Revelation
-199707	Revelation
-199709	Revelation
-199713	Revelation
-199715	Revelation
-199717	Revelation
-199719	Revelation
+188242	Revelation
+188244	Revelation
+188246	Revelation
+188251	Revelation
+188253	Revelation
 Revelation
-199722	Revelation
-199724	Revelation
+188256	Revelation
+188258	Revelation
+188260	Revelation
+188264	Revelation
+188266	Revelation
+188269	Revelation
+188273	Revelation
+188275	Revelation
+188278	Revelation
 Revelation
-199728	Revelation
+188281	Revelation
+188284	Revelation
 Revelation
-199733	Revelation
 Revelation
-199737	Revelation
 Revelation
-199743	Revelation
-199746	Revelation
-199748	Revelation
-199750	Revelation
-199752	Revelation
-199758	Revelation
-199761	Revelation
+188293	Revelation
 Revelation
-199765	Revelation
-199768	Revelation
+188299	Revelation
+188304	Revelation
 Revelation
 Revelation
-199772	Revelation
+188308	Revelation
+188310	Revelation
+188312	Revelation
+188314	Revelation
 Revelation
-199775	Revelation
+188317	Revelation
+188319	Revelation
+188321	Revelation
+188323	Revelation
+188326	Revelation
 Revelation
+188330	Revelation
 Revelation
-199782	Revelation
 Revelation
-199786	Revelation
-199788	Revelation
-199790	Revelation
-199792	Revelation
-199794	Revelation
-199798	Revelation
-199800	Revelation
-199802	Revelation
-199804	Revelation
-199806	Revelation
+188334	Revelation
 Revelation
-199809	Revelation
-199811	Revelation
-199813	Revelation
 Revelation
 Revelation
-199817	Revelation
+188339	Revelation
+188342	Revelation
 Revelation
-199821	Revelation
-199823	Revelation
-199826	Revelation
 Revelation
-199830	Revelation
-199833	Revelation
-199835	Revelation
-199837	Revelation
-199840	Revelation
-199853	Revelation
-199859	Revelation
-199861	Revelation
-199863	Revelation
-199865	Revelation
-199867	Revelation
-199871	Revelation
-Revelation
-199874	Revelation
-199876	Revelation
-199878	Revelation
-199882	Revelation
-199884	Revelation
-Revelation
-199887	Revelation
-199889	Revelation
-Revelation
-199895	Revelation
-199898	Revelation
-199901	Revelation
-199903	Revelation
-199905	Revelation
-Revelation
-199908	Revelation
-199914	Revelation
-Revelation
-199917	Revelation
-199921	Revelation
-199923	Revelation
-Revelation
-199926	Revelation
-Revelation
-199929	Revelation
-199931	Revelation
-199933	Revelation
-199937	Revelation
-Revelation
-199940	Revelation
-Revelation
-Revelation
-Revelation
-199946	Revelation
-199952	Revelation
-199956	Revelation
-199958	Revelation
-199960	Revelation
-199962	Revelation
-199964	Revelation
-199970	Revelation
-199972	Revelation
-199974	Revelation
-Revelation
-199977	Revelation
-199979	Revelation
-199981	Revelation
-199985	Revelation
-199989	Revelation
-199993	Revelation
-199996	Revelation
-199998	Revelation
-200005	Revelation
-200007	Revelation
-200012	Revelation
-200017	Revelation
-Revelation
-200021	Revelation
-200025	Revelation
-Revelation
-Revelation
-Revelation
-200031	Revelation
-200035	Revelation
-200037	Revelation
-200040	Revelation
-200042	Revelation
-Revelation
-200045	Revelation
-200047	Revelation
-200049	Revelation
-200051	Revelation
-Revelation
-200054	Revelation
-200057	Revelation
-200059	Revelation
-200061	Revelation
-Revelation
-200064	Revelation
-200067	Revelation
-200069	Revelation
-200071	Revelation
-200073	Revelation
-200075	Revelation
-200078	Revelation
-200081	Revelation
-200083	Revelation
-200085	Revelation
-Revelation
-200089	Revelation
-200091	Revelation
-200093	Revelation
-200096	Revelation
-200099	Revelation
-200101	Revelation
-200104	Revelation
-200106	Revelation
-200108	Revelation
-200112	Revelation
-200114	Revelation
-200117	Revelation
-200119	Revelation
-200121	Revelation
-200123	Revelation
-200127	Revelation
-200129	Revelation
-200133	Revelation
-Revelation
-200140	Revelation
-200146	Revelation
-200149	Revelation
-200151	Revelation
-200153	Revelation
-200155	Revelation
-200157	Revelation
-200160	Revelation
-200163	Revelation
-200165	Revelation
-200168	Revelation
-200170	Revelation
-200172	Revelation
-200174	Revelation
-Revelation
-200178	Revelation
-200181	Revelation
-200185	Revelation
-Revelation
-200188	Revelation
-200190	Revelation
-Revelation
-200193	Revelation
-200195	Revelation
-200198	Revelation
-200200	Revelation
-200202	Revelation
-200208	Revelation
-200211	Revelation
-200213	Revelation
-200216	Revelation
-200218	Revelation
-200221	Revelation
-200225	Revelation
-200227	Revelation
-Revelation
-200230	Revelation
-200235	Revelation
-200238	Revelation
-200240	Revelation
-200243	Revelation
-200247	Revelation
-Revelation
-Revelation
-200251	Revelation
-Revelation
-200260	Revelation
-200262	Revelation
-Revelation
-200266	Revelation
-200269	Revelation
-200272	Revelation
-200274	Revelation
-Revelation
-200277	Revelation
-200280	Revelation
-Revelation
-200285	Revelation
-200287	Revelation
-200291	Revelation
-200293	Revelation
-200296	Revelation
-200298	Revelation
-200301	Revelation
-Revelation
-200307	Revelation
-200309	Revelation
-Revelation
-Revelation
-200313	Revelation
-Revelation
-200316	Revelation
-Revelation
-200320	Revelation
-200322	Revelation
-200325	Revelation
-200327	Revelation
-200329	Revelation
-200332	Revelation
-200334	Revelation
-200336	Revelation
-Revelation
-Revelation
-200341	Revelation
-200347	Revelation
-Revelation
-Revelation
-Revelation
-200353	Revelation
-200355	Revelation
-200357	Revelation
-Revelation
-200361	Revelation
-200363	Revelation
-200365	Revelation
-200367	Revelation
-200369	Revelation
-200372	Revelation
-200375	Revelation
-200377	Revelation
-Revelation
-200380	Revelation
-Revelation
-200384	Revelation
-200386	Revelation
-200388	Revelation
-200390	Revelation
-200392	Revelation
-200394	Revelation
-Revelation
-Revelation
-Revelation
-200402	Revelation
-200404	Revelation
-200408	Revelation
-200413	Revelation
-Revelation
-200418	Revelation
-200425	Revelation
-Revelation
-200430	Revelation
-Revelation
-200433	Revelation
-Revelation
-Revelation
-200441	Revelation
-200443	Revelation
-200448	Revelation
-200450	Revelation
-200452	Revelation
-200455	Revelation
-Revelation
-200458	Revelation
-200460	Revelation
-200463	Revelation
-Revelation
-Revelation
-200468	Revelation
-200470	Revelation
-200472	Revelation
-Revelation
-200476	Revelation
-200478	Revelation
-Revelation
-200481	Revelation
-200483	Revelation
-Revelation
-200486	Revelation
-200488	Revelation
-200490	Revelation
-Revelation
-200496	Revelation
-200498	Revelation
-200500	Revelation
-200502	Revelation
-200504	Revelation
-200506	Revelation
-200508	Revelation
-200511	Revelation
-200513	Revelation
-200515	Revelation
-200517	Revelation
-200521	Revelation
-200524	Revelation
-200527	Revelation
-200531	Revelation
-200536	Revelation
-Revelation
-200540	Revelation
-Revelation
-200550	Revelation
-200552	Revelation
-200555	Revelation
-200557	Revelation
-200561	Revelation
-200563	Revelation
-200565	Revelation
-200567	Revelation
-200569	Revelation
-200571	Revelation
-200573	Revelation
-200575	Revelation
-200577	Revelation
-200580	Revelation
-200582	Revelation
-Revelation
-Revelation
-200586	Revelation
-200588	Revelation
-Revelation
-200592	Revelation
-Revelation
-200595	Revelation
-200601	Revelation
-200604	Revelation
-200606	Revelation
-200608	Revelation
-200610	Revelation
-Revelation
-200615	Revelation
-200618	Revelation
-200621	Revelation
-200623	Revelation
-200625	Revelation
-200627	Revelation
-200629	Revelation
-Revelation
-200632	Revelation
-Revelation
-200635	Revelation
-200637	Revelation
-200640	Revelation
-200643	Revelation
-200646	Revelation
-200648	Revelation
-Revelation
-200655	Revelation
-200657	Revelation
-200661	Revelation
-200664	Revelation
-200669	Revelation
-200673	Revelation
-Revelation
-Revelation
-200682	Revelation
-200684	Revelation
-200688	Revelation
-200728	Revelation
-200730	Revelation
-200734	Revelation
-Revelation
-200738	Revelation
-200740	Revelation
-200742	Revelation
-Revelation
-200750	Revelation
-200755	Revelation
-200760	Revelation
-200763	Revelation
-200767	Revelation
-200770	Revelation
-200772	Revelation
-Revelation
-Revelation
-Revelation
-200778	Revelation
-200780	Revelation
-200782	Revelation
-200784	Revelation
-Revelation
-200790	Revelation
-200792	Revelation
-200794	Revelation
-200802	Revelation
-200805	Revelation
-200807	Revelation
-Revelation
-200810	Revelation
-200813	Revelation
-200817	Revelation
-200823	Revelation
-200825	Revelation
-200827	Revelation
-200829	Revelation
-200834	Revelation
-200837	Revelation
-200839	Revelation
-200844	Revelation
-Revelation
-Revelation
-200848	Revelation
-200853	Revelation
-200858	Revelation
-200860	Revelation
-200862	Revelation
-200864	Revelation
-200868	Revelation
-200871	Revelation
-200875	Revelation
-200878	Revelation
-Revelation
-Revelation
-200883	Revelation
-Revelation
-Revelation
-200890	Revelation
-200894	Revelation
-Revelation
-200900	Revelation
-200906	Revelation
-200908	Revelation
-200910	Revelation
-200913	Revelation
-200915	Revelation
-200918	Revelation
-200920	Revelation
-200922	Revelation
-200924	Revelation
-Revelation
-Revelation
-200928	Revelation
-200930	Revelation
-Revelation
-200933	Revelation
-Revelation
-200936	Revelation
-200940	Revelation
-Revelation
-Revelation
-200947	Revelation
-Revelation
-200950	Revelation
-200953	Revelation
-Revelation
-200957	Revelation
-Revelation
-200961	Revelation
-200963	Revelation
-200967	Revelation
-200973	Revelation
-200975	Revelation
-200977	Revelation
-200979	Revelation
-Revelation
-Revelation
-Revelation
-200984	Revelation
-Revelation
-200987	Revelation
-200989	Revelation
-200991	Revelation
-200994	Revelation
-200996	Revelation
-200998	Revelation
-201000	Revelation
-201003	Revelation
-201007	Revelation
-201011	Revelation
-201013	Revelation
-201015	Revelation
-Revelation
-201019	Revelation
-201022	Revelation
-Revelation
-201025	Revelation
-201033	Revelation
-201043	Revelation
-Revelation
-201048	Revelation
-201051	Revelation
-201055	Revelation
-201057	Revelation
-201060	Revelation
-Revelation
-201064	Revelation
-201067	Revelation
-Revelation
-Revelation
-201072	Revelation
-201075	Revelation
-201078	Revelation
-201080	Revelation
-201082	Revelation
-201084	Revelation
-Revelation
-Revelation
-201094	Revelation
-201097	Revelation
-201101	Revelation
-201104	Revelation
-201107	Revelation
-201109	Revelation
-201111	Revelation
-201113	Revelation
-Revelation
-Revelation
-201120	Revelation
-201123	Revelation
-201125	Revelation
-201127	Revelation
-201129	Revelation
-201134	Revelation
-201138	Revelation
-201143	Revelation
-201145	Revelation
-Revelation
-201148	Revelation
-Revelation
-Revelation
-201154	Revelation
-201156	Revelation
-201159	Revelation
-201163	Revelation
-201167	Revelation
-201169	Revelation
-201171	Revelation
-Revelation
-201177	Revelation
-Revelation
-201181	Revelation
-201183	Revelation
-201188	Revelation
-201191	Revelation
-201193	Revelation
-201196	Revelation
-201199	Revelation
-201203	Revelation
-201206	Revelation
-201210	Revelation
-201215	Revelation
-201217	Revelation
-201221	Revelation
-201224	Revelation
-Revelation
-201230	Revelation
-201232	Revelation
-Revelation
-201235	Revelation
-201237	Revelation
-201241	Revelation
-201244	Revelation
-201249	Revelation
-201251	Revelation
-201254	Revelation
-201259	Revelation
-Revelation
-Revelation
-201264	Revelation
-201269	Revelation
-201273	Revelation
-201275	Revelation
-Revelation
-201278	Revelation
-Revelation
-201281	Revelation
-Revelation
-Revelation
-201286	Revelation
-201288	Revelation
-201291	Revelation
-201293	Revelation
-201296	Revelation
-201299	Revelation
-201301	Revelation
-201306	Revelation
-201308	Revelation
-201310	Revelation
-Revelation
-201313	Revelation
-Revelation
-201316	Revelation
-201320	Revelation
-Revelation
-Revelation
-201328	Revelation
-201330	Revelation
-201332	Revelation
-201334	Revelation
-201337	Revelation
-201339	Revelation
-201345	Revelation
-201353	Revelation
-201356	Revelation
-201359	Revelation
-201362	Revelation
-201365	Revelation
-201367	Revelation
-Revelation
-201370	Revelation
-Revelation
-201375	Revelation
-201379	Revelation
-Revelation
-201382	Revelation
-Revelation
-201385	Revelation
-201387	Revelation
-201389	Revelation
-201393	Revelation
-201396	Revelation
-201398	Revelation
-201400	Revelation
-201402	Revelation
-201404	Revelation
-201406	Revelation
-201408	Revelation
-201411	Revelation
-201413	Revelation
-201415	Revelation
-201417	Revelation
-201420	Revelation
-201426	Revelation
-201428	Revelation
-Revelation
-201431	Revelation
-201433	Revelation
-201438	Revelation
-201441	Revelation
-201444	Revelation
-201447	Revelation
-Revelation
-Revelation
-201451	Revelation
-Revelation
-Revelation
-Revelation
-Revelation
-Revelation
-Revelation
-Revelation
-Revelation
-Revelation
-Revelation
-Revelation
-201465	Revelation
-Revelation
-201468	Revelation
-201471	Revelation
-201473	Revelation
-201480	Revelation
-201484	Revelation
-201487	Revelation
-201489	Revelation
-201491	Revelation
-201493	Revelation
-201496	Revelation
-201498	Revelation
-201500	Revelation
-201504	Revelation
-201508	Revelation
-201512	Revelation
-201514	Revelation
-201516	Revelation
-Revelation
-201521	Revelation
-201526	Revelation
-Revelation
-201529	Revelation
-201531	Revelation
-201534	Revelation
-201540	Revelation
-201542	Revelation
-201544	Revelation
-201548	Revelation
-201550	Revelation
-201554	Revelation
-201557	Revelation
-201559	Revelation
-201561	Revelation
-201565	Revelation
-201567	Revelation
-Revelation
-Revelation
-201571	Revelation
-Revelation
-201574	Revelation
-Revelation
-201578	Revelation
-201585	Revelation
-201587	Revelation
-Revelation
-Revelation
-201592	Revelation
-201594	Revelation
-201597	Revelation
-Revelation
-Revelation
-201605	Revelation
-Revelation
-201608	Revelation
-Revelation
-201611	Revelation
-201614	Revelation
-201616	Revelation
-201618	Revelation
-201621	Revelation
-201623	Revelation
-201625	Revelation
-201627	Revelation
-Revelation
-201630	Revelation
-Revelation
-201639	Revelation
-201642	Revelation
-201645	Revelation
-201647	Revelation
-Revelation
-201655	Revelation
-201658	Revelation
-201660	Revelation
-Revelation
-201665	Revelation
-201668	Revelation
-201670	Revelation
-201672	Revelation
-Revelation
-201676	Revelation
-201678	Revelation
-Revelation
-201681	Revelation
-Revelation
-201684	Revelation
-201687	Revelation
-Revelation
-201691	Revelation
-201695	Revelation
-Revelation
-201701	Revelation
-Revelation
-201704	Revelation
-Revelation
-201710	Revelation
+188347	Revelation
+188349	Revelation
+Revelation
+188357	Revelation
+188359	Revelation
+188361	Revelation
+Revelation
+188364	Revelation
+188367	Revelation
+Revelation
+188370	Revelation
+Revelation
+Revelation
+188374	Revelation
+188376	Revelation
+188379	Revelation
+Revelation
+Revelation
+188383	Revelation
+Revelation
+188386	Revelation
+188388	Revelation
+188390	Revelation
+188392	Revelation
+188394	Revelation
+188396	Revelation
+188398	Revelation
+188400	Revelation
+188402	Revelation
+188404	Revelation
+Revelation
+Revelation
+188411	Revelation
+Revelation
+Revelation
+Revelation
+188416	Revelation
+188420	Revelation
+188423	Revelation
+188425	Revelation
+188427	Revelation
+188429	Revelation
+188431	Revelation
+188433	Revelation
+Revelation
+Revelation
+188438	Revelation
+188441	Revelation
+Revelation
+Revelation
+188445	Revelation
+188448	Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+188455	Revelation
+188457	Revelation
+Revelation
+188460	Revelation
+188463	Revelation
+188466	Revelation
+Revelation
+188469	Revelation
+188471	Revelation
+188473	Revelation
+188475	Revelation
+Revelation
+188478	Revelation
+188480	Revelation
+188486	Revelation
+Revelation
+188490	Revelation
+188492	Revelation
+188494	Revelation
+188496	Revelation
+188498	Revelation
+188500	Revelation
+188502	Revelation
+188505	Revelation
+188507	Revelation
+188509	Revelation
+188511	Revelation
+Revelation
+Revelation
+188515	Revelation
+188517	Revelation
+188519	Revelation
+188521	Revelation
+188523	Revelation
+188525	Revelation
+188527	Revelation
+Revelation
+Revelation
+188531	Revelation
+188533	Revelation
+Revelation
+Revelation
+188538	Revelation
+188540	Revelation
+188542	Revelation
+188544	Revelation
+Revelation
+Revelation
+188549	Revelation
+188552	Revelation
+188554	Revelation
+188556	Revelation
+188558	Revelation
+188560	Revelation
+188562	Revelation
+188564	Revelation
+188566	Revelation
+188570	Revelation
+188573	Revelation
+188575	Revelation
+188577	Revelation
+188579	Revelation
+188581	Revelation
+188587	Revelation
+Revelation
+188590	Revelation
+188592	Revelation
+188594	Revelation
+188596	Revelation
+Revelation
+188599	Revelation
+Revelation
+188602	Revelation
+188604	Revelation
+Revelation
+188608	Revelation
+188610	Revelation
+188612	Revelation
+188614	Revelation
+188616	Revelation
+Revelation
+188619	Revelation
+188621	Revelation
+188623	Revelation
+Revelation
+Revelation
+188627	Revelation
+188630	Revelation
+Revelation
+Revelation
+188634	Revelation
+188636	Revelation
+Revelation
+188640	Revelation
+188642	Revelation
+188645	Revelation
+Revelation
+188648	Revelation
+188650	Revelation
+188653	Revelation
+Revelation
+188656	Revelation
+188658	Revelation
+Revelation
+Revelation
+188665	Revelation
+188667	Revelation
+188670	Revelation
+188673	Revelation
+Revelation
+188678	Revelation
+Revelation
+188682	Revelation
+Revelation
+Revelation
+188686	Revelation
+188688	Revelation
+188690	Revelation
+188692	Revelation
+Revelation
+188695	Revelation
+188697	Revelation
+Revelation
+188704	Revelation
+188706	Revelation
+188708	Revelation
+188710	Revelation
+188712	Revelation
+Revelation
+188715	Revelation
+188717	Revelation
+Revelation
+188721	Revelation
+188723	Revelation
+188725	Revelation
+188727	Revelation
+Revelation
+Revelation
+188732	Revelation
+188734	Revelation
+188737	Revelation
+Revelation
+188740	Revelation
+188742	Revelation
+188744	Revelation
+188748	Revelation
+188750	Revelation
+188752	Revelation
+188754	Revelation
+188756	Revelation
+188758	Revelation
+188760	Revelation
+Revelation
+Revelation
+188764	Revelation
+Revelation
+188767	Revelation
+Revelation
+188771	Revelation
+Revelation
+188774	Revelation
+Revelation
+188778	Revelation
+188780	Revelation
+188782	Revelation
+188784	Revelation
+188786	Revelation
+188791	Revelation
+188793	Revelation
+Revelation
+188796	Revelation
+188798	Revelation
+Revelation
+Revelation
+188802	Revelation
+Revelation
+188805	Revelation
+Revelation
+Revelation
+188810	Revelation
+Revelation
+188813	Revelation
+188815	Revelation
+188817	Revelation
+188819	Revelation
+188821	Revelation
+188824	Revelation
+188826	Revelation
+Revelation
+188829	Revelation
+188831	Revelation
+Revelation
+188834	Revelation
+188836	Revelation
+Revelation
+Revelation
+Revelation
+188841	Revelation
+Revelation
+188844	Revelation
+188846	Revelation
+188848	Revelation
+Revelation
+188851	Revelation
+188853	Revelation
+188855	Revelation
+188857	Revelation
+188859	Revelation
+188866	Revelation
+188870	Revelation
+Revelation
+188873	Revelation
+188875	Revelation
+188877	Revelation
+188879	Revelation
+Revelation
+188882	Revelation
+188884	Revelation
+188886	Revelation
+188888	Revelation
+188890	Revelation
+Revelation
+188893	Revelation
+Revelation
+Revelation
+188898	Revelation
+188900	Revelation
+188903	Revelation
+188905	Revelation
+Revelation
+Revelation
+188909	Revelation
+188913	Revelation
+Revelation
+188916	Revelation
+188918	Revelation
+Revelation
+Revelation
+188922	Revelation
+Revelation
+188925	Revelation
+188927	Revelation
+Revelation
+188931	Revelation
+Revelation
+188934	Revelation
+Revelation
+Revelation
+Revelation
+188939	Revelation
+188944	Revelation
+Revelation
+188947	Revelation
+188949	Revelation
+188951	Revelation
+188953	Revelation
+188958	Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+188964	Revelation
+Revelation
+188967	Revelation
+188970	Revelation
+188972	Revelation
+188974	Revelation
+188976	Revelation
+188980	Revelation
+188982	Revelation
+188985	Revelation
+188989	Revelation
+Revelation
+188992	Revelation
+188995	Revelation
+Revelation
+Revelation
+Revelation
+189000	Revelation
+189004	Revelation
+189006	Revelation
+189008	Revelation
+189010	Revelation
+Revelation
+189013	Revelation
+Revelation
+189016	Revelation
+189018	Revelation
+Revelation
+189021	Revelation
+Revelation
+189024	Revelation
+189026	Revelation
+Revelation
+189029	Revelation
+189031	Revelation
+189033	Revelation
+189035	Revelation
+189037	Revelation
+Revelation
+189040	Revelation
+189042	Revelation
+189044	Revelation
+189046	Revelation
+Revelation
+Revelation
+189050	Revelation
+189052	Revelation
+189054	Revelation
+189056	Revelation
+189058	Revelation
+189060	Revelation
+189062	Revelation
+189064	Revelation
+189066	Revelation
+189068	Revelation
+189071	Revelation
+Revelation
+189074	Revelation
+189076	Revelation
+189079	Revelation
+189081	Revelation
+189083	Revelation
+Revelation
+189087	Revelation
+189090	Revelation
+189093	Revelation
+189095	Revelation
+189098	Revelation
+189100	Revelation
+189102	Revelation
+189104	Revelation
+189106	Revelation
+189108	Revelation
+189110	Revelation
+Revelation
+189113	Revelation
+189115	Revelation
+Revelation
+189118	Revelation
+189120	Revelation
+189123	Revelation
+Revelation
+189126	Revelation
+189128	Revelation
+Revelation
+Revelation
+189132	Revelation
+189134	Revelation
+189136	Revelation
+189138	Revelation
+189141	Revelation
+189144	Revelation
+189146	Revelation
+189148	Revelation
+189150	Revelation
+189152	Revelation
+189155	Revelation
+189157	Revelation
+Revelation
+Revelation
+189162	Revelation
+189165	Revelation
+189167	Revelation
+189169	Revelation
+189172	Revelation
+Revelation
+Revelation
+189176	Revelation
+Revelation
+189183	Revelation
+189185	Revelation
+Revelation
+189188	Revelation
+189190	Revelation
+189192	Revelation
+189194	Revelation
+Revelation
+189197	Revelation
+189199	Revelation
+Revelation
+189202	Revelation
+189204	Revelation
+189207	Revelation
+189209	Revelation
+189211	Revelation
+189213	Revelation
+189215	Revelation
+Revelation
+189220	Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+189227	Revelation
+Revelation
+189231	Revelation
+189233	Revelation
+189235	Revelation
+189237	Revelation
+189239	Revelation
+189241	Revelation
+189243	Revelation
+189245	Revelation
+Revelation
+Revelation
+189249	Revelation
+189253	Revelation
+Revelation
+Revelation
+Revelation
+189258	Revelation
+189260	Revelation
+189262	Revelation
+Revelation
+189265	Revelation
+189267	Revelation
+189269	Revelation
+189271	Revelation
+189273	Revelation
+189275	Revelation
+189277	Revelation
+189279	Revelation
+Revelation
+Revelation
+Revelation
+189284	Revelation
+189286	Revelation
+189288	Revelation
+189290	Revelation
+189292	Revelation
+189294	Revelation
+Revelation
+Revelation
+Revelation
+189300	Revelation
+189302	Revelation
+189305	Revelation
+189308	Revelation
+Revelation
+189312	Revelation
+189315	Revelation
+Revelation
+189319	Revelation
+Revelation
+189322	Revelation
+Revelation
+Revelation
+189327	Revelation
+189329	Revelation
+189333	Revelation
+Revelation
+189336	Revelation
+189338	Revelation
+Revelation
+189341	Revelation
+189343	Revelation
+189345	Revelation
+Revelation
+Revelation
+189349	Revelation
+189351	Revelation
+189353	Revelation
+Revelation
+189356	Revelation
+Revelation
+Revelation
+189360	Revelation
+Revelation
+Revelation
+Revelation
+189365	Revelation
+189367	Revelation
+Revelation
+189373	Revelation
+189375	Revelation
+Revelation
+189378	Revelation
+189380	Revelation
+189382	Revelation
+Revelation
+189385	Revelation
+189387	Revelation
+Revelation
+189390	Revelation
+189392	Revelation
+189394	Revelation
+189396	Revelation
+189399	Revelation
+189403	Revelation
+Revelation
+Revelation
+Revelation
+189413	Revelation
+189415	Revelation
+189417	Revelation
+Revelation
+189421	Revelation
+189423	Revelation
+189425	Revelation
+Revelation
+189428	Revelation
+189430	Revelation
+189432	Revelation
+189434	Revelation
+Revelation
+189437	Revelation
+Revelation
+Revelation
+Revelation
+189442	Revelation
+189444	Revelation
+Revelation
+Revelation
+Revelation
+189449	Revelation
+189453	Revelation
+189455	Revelation
+189457	Revelation
+189459	Revelation
+189461	Revelation
+Revelation
+189466	Revelation
+189469	Revelation
+189471	Revelation
+189473	Revelation
+Revelation
+189476	Revelation
+189478	Revelation
+Revelation
+Revelation
+189482	Revelation
+189484	Revelation
+189486	Revelation
+189488	Revelation
+189490	Revelation
+189492	Revelation
+189494	Revelation
+189496	Revelation
+189500	Revelation
+189502	Revelation
+189504	Revelation
+189506	Revelation
+189509	Revelation
+189512	Revelation
+Revelation
+Revelation
+189519	Revelation
+189521	Revelation
+189524	Revelation
+189554	Revelation
+189556	Revelation
+189559	Revelation
+Revelation
+189562	Revelation
+Revelation
+189565	Revelation
+Revelation
+189572	Revelation
+189576	Revelation
+189580	Revelation
+189583	Revelation
+189586	Revelation
+189589	Revelation
+189591	Revelation
+Revelation
+Revelation
+Revelation
+189596	Revelation
+189598	Revelation
+Revelation
+189601	Revelation
+Revelation
+189606	Revelation
+189608	Revelation
+189610	Revelation
+189617	Revelation
+189619	Revelation
+189621	Revelation
+Revelation
+Revelation
+189625	Revelation
+189627	Revelation
+189632	Revelation
+189634	Revelation
+189636	Revelation
+189638	Revelation
+189641	Revelation
+189643	Revelation
+189645	Revelation
+189649	Revelation
+Revelation
+Revelation
+189653	Revelation
+189657	Revelation
+189660	Revelation
+Revelation
+189663	Revelation
+189665	Revelation
+189668	Revelation
+189670	Revelation
+189673	Revelation
+189675	Revelation
+Revelation
+Revelation
+189680	Revelation
+Revelation
+Revelation
+189685	Revelation
+189688	Revelation
+Revelation
+189694	Revelation
+Revelation
+189697	Revelation
+189699	Revelation
+189701	Revelation
+189703	Revelation
+189705	Revelation
+189707	Revelation
+189709	Revelation
+189711	Revelation
+Revelation
+Revelation
+189715	Revelation
+189717	Revelation
+Revelation
+189720	Revelation
+Revelation
+189723	Revelation
+Revelation
+Revelation
+Revelation
+189729	Revelation
+Revelation
+189732	Revelation
+189734	Revelation
+Revelation
+189737	Revelation
+Revelation
+189740	Revelation
+189742	Revelation
+189745	Revelation
+189748	Revelation
+189750	Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+189757	Revelation
+Revelation
+189760	Revelation
+189762	Revelation
+Revelation
+189765	Revelation
+189767	Revelation
+189769	Revelation
+189771	Revelation
+189773	Revelation
+189775	Revelation
+189778	Revelation
+Revelation
+189781	Revelation
+Revelation
+189784	Revelation
+Revelation
+Revelation
+189788	Revelation
+189794	Revelation
+189801	Revelation
+Revelation
+189805	Revelation
+189807	Revelation
+189810	Revelation
+189812	Revelation
+189814	Revelation
+Revelation
+189817	Revelation
+189820	Revelation
+Revelation
+Revelation
+189824	Revelation
+189826	Revelation
+189828	Revelation
+189830	Revelation
+189832	Revelation
+189834	Revelation
+Revelation
+Revelation
+189839	Revelation
+Revelation
+189843	Revelation
+189845	Revelation
+189847	Revelation
+189849	Revelation
+189851	Revelation
+189853	Revelation
+Revelation
+Revelation
+189857	Revelation
+189859	Revelation
+189861	Revelation
+189863	Revelation
+189865	Revelation
+189869	Revelation
+189872	Revelation
+189875	Revelation
+189877	Revelation
+Revelation
+189880	Revelation
+Revelation
+Revelation
+189885	Revelation
+Revelation
+189888	Revelation
+189891	Revelation
+189894	Revelation
+Revelation
+189897	Revelation
+Revelation
+189900	Revelation
+Revelation
+189903	Revelation
+189905	Revelation
+189908	Revelation
+189910	Revelation
+189912	Revelation
+189914	Revelation
+189916	Revelation
+189918	Revelation
+189920	Revelation
+189923	Revelation
+189926	Revelation
+189928	Revelation
+189931	Revelation
+189933	Revelation
+Revelation
+189937	Revelation
+189939	Revelation
+Revelation
+189942	Revelation
+189944	Revelation
+189946	Revelation
+189948	Revelation
+189951	Revelation
+189953	Revelation
+189955	Revelation
+189958	Revelation
+Revelation
+Revelation
+189962	Revelation
+189965	Revelation
+189968	Revelation
+189970	Revelation
+Revelation
+Revelation
+Revelation
+189975	Revelation
+Revelation
+Revelation
+Revelation
+189980	Revelation
+189982	Revelation
+189984	Revelation
+189986	Revelation
+189988	Revelation
+189990	Revelation
+189994	Revelation
+189996	Revelation
+189998	Revelation
+Revelation
+190001	Revelation
+Revelation
+190004	Revelation
+190007	Revelation
+Revelation
+Revelation
+190012	Revelation
+190014	Revelation
+Revelation
+190017	Revelation
+190019	Revelation
+190021	Revelation
+190027	Revelation
+190034	Revelation
+190036	Revelation
+190038	Revelation
+190040	Revelation
+190042	Revelation
+190044	Revelation
+Revelation
+Revelation
+Revelation
+190049	Revelation
+190052	Revelation
+Revelation
+Revelation
+Revelation
+190057	Revelation
+Revelation
+Revelation
+190061	Revelation
+190063	Revelation
+190065	Revelation
+Revelation
+Revelation
+190069	Revelation
+190071	Revelation
+190073	Revelation
+190075	Revelation
+190077	Revelation
+190079	Revelation
+190081	Revelation
+190083	Revelation
+190087	Revelation
+190089	Revelation
+Revelation
+190092	Revelation
+Revelation
+190097	Revelation
+Revelation
+190100	Revelation
+190102	Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+190118	Revelation
+Revelation
+190121	Revelation
+190123	Revelation
+190125	Revelation
+190128	Revelation
+190131	Revelation
+190133	Revelation
+190135	Revelation
+190137	Revelation
+190139	Revelation
+190141	Revelation
+190143	Revelation
+190145	Revelation
+190148	Revelation
+190151	Revelation
+190154	Revelation
+190156	Revelation
+190158	Revelation
+Revelation
+190161	Revelation
+190164	Revelation
+Revelation
+190167	Revelation
+190169	Revelation
+190171	Revelation
+190174	Revelation
+190176	Revelation
+190178	Revelation
+190180	Revelation
+190182	Revelation
+190185	Revelation
+190187	Revelation
+190189	Revelation
+Revelation
+190193	Revelation
+Revelation
+Revelation
+Revelation
+190198	Revelation
+Revelation
+190201	Revelation
+Revelation
+190204	Revelation
+190208	Revelation
+190210	Revelation
+Revelation
+Revelation
+190214	Revelation
+190216	Revelation
+Revelation
+Revelation
+Revelation
+190223	Revelation
+Revelation
+190226	Revelation
+Revelation
+190229	Revelation
+Revelation
+190232	Revelation
+190234	Revelation
+190236	Revelation
+190238	Revelation
+Revelation
+190241	Revelation
+Revelation
+190244	Revelation
+Revelation
+190249	Revelation
+190252	Revelation
+190254	Revelation
+190256	Revelation
+Revelation
+190263	Revelation
+190265	Revelation
+Revelation
+Revelation
+190270	Revelation
+190272	Revelation
+190274	Revelation
+190276	Revelation
+Revelation
+190279	Revelation
+190281	Revelation
+Revelation
+190284	Revelation
+Revelation
+190287	Revelation
+190289	Revelation
+Revelation
+190292	Revelation
+190295	Revelation
+Revelation
+190299	Revelation
+Revelation
+190302	Revelation
+Revelation
+190308	Revelation
 309869	Matthew
 Matthew
 Matthew

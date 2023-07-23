@@ -9,22 +9,26 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-16T20:43:17Z
+@dateWritten=2023-07-23T21:45:13Z
 
+138069	conjuncted
+138071	conjuncted
 138073	conjuncted
-138075	conjuncted
-138078	conjuncted
 conjuncted
-138082	conjuncted
+138076	conjuncted
 conjuncted
+138079	conjuncted
+138081	conjuncted
+138083	conjuncted
 138085	conjuncted
 138087	conjuncted
 138089	conjuncted
 138091	conjuncted
 138093	conjuncted
-138095	conjuncted
 138097	conjuncted
 138099	conjuncted
+138101	conjuncted
+138103	conjuncted
 138105	conjuncted
 138107	conjuncted
 138109	conjuncted
@@ -35,13163 +39,16224 @@ conjuncted
 138119	conjuncted
 138121	conjuncted
 138123	conjuncted
-138125	conjuncted
-138127	conjuncted
-138129	conjuncted
+138126	conjuncted
+138128	conjuncted
+138130	conjuncted
 138132	conjuncted
+138134	conjuncted
 138136	conjuncted
 138138	conjuncted
 138140	conjuncted
 138142	conjuncted
 138144	conjuncted
 138146	conjuncted
-138148	conjuncted
-138150	conjuncted
-138152	conjuncted
-138154	conjuncted
-138156	conjuncted
+138153	conjuncted
+138155	conjuncted
 138168	conjuncted
-138171	conjuncted
-138190	conjuncted
-138208	conjuncted
+138183	conjuncted
+138185	conjuncted
+138198	conjuncted
+138200	conjuncted
+138209	conjuncted
 138211	conjuncted
-138225	conjuncted
-138227	conjuncted
-138240	conjuncted
-138243	conjuncted
-138246	conjuncted
-138260	conjuncted
-138269	conjuncted
-138271	conjuncted
-138275	conjuncted
+138214	conjuncted
+138224	conjuncted
+138230	conjuncted
+138232	conjuncted
+138235	conjuncted
+138252	conjuncted
+138257	conjuncted
+138267	conjuncted
+138280	conjuncted
+138283	conjuncted
+138286	conjuncted
+conjuncted
 138298	conjuncted
-138304	conjuncted
+conjuncted
+138301	conjuncted
+138314	conjuncted
+conjuncted
 138317	conjuncted
-138333	conjuncted
-138336	conjuncted
-138341	conjuncted
+138329	conjuncted
+138332	conjuncted
 conjuncted
-138357	conjuncted
+138340	conjuncted
+138342	conjuncted
+138353	conjuncted
 conjuncted
-138360	conjuncted
-138377	conjuncted
+138363	conjuncted
 conjuncted
-138380	conjuncted
-138393	conjuncted
-138399	conjuncted
-138401	conjuncted
-138412	conjuncted
-138415	conjuncted
-138430	conjuncted
-conjuncted
-138442	conjuncted
-conjuncted
-138456	conjuncted
-138490	conjuncted
-138492	conjuncted
-138495	conjuncted
-138499	conjuncted
+138375	conjuncted
+138403	conjuncted
+138405	conjuncted
+138407	conjuncted
+138409	conjuncted
 conjuncted
 conjuncted
-138509	conjuncted
-138532	conjuncted
-138535	conjuncted
-138537	conjuncted
-138545	conjuncted
-138548	conjuncted
-138550	conjuncted
-138553	conjuncted
-138564	conjuncted
-138582	conjuncted
-138598	conjuncted
-138620	conjuncted
-138623	conjuncted
+138417	conjuncted
+138439	conjuncted
+138441	conjuncted
+138443	conjuncted
+138450	conjuncted
+138453	conjuncted
+138455	conjuncted
+138457	conjuncted
+138467	conjuncted
+138483	conjuncted
+138497	conjuncted
+138516	conjuncted
+138518	conjuncted
+138527	conjuncted
+138534	conjuncted
+138536	conjuncted
+conjuncted
+138549	conjuncted
+138552	conjuncted
+138555	conjuncted
+138566	conjuncted
+138574	conjuncted
+138578	conjuncted
+138583	conjuncted
+138586	conjuncted
+138597	conjuncted
+138603	conjuncted
+138612	conjuncted
+138618	conjuncted
+138622	conjuncted
+138624	conjuncted
+138626	conjuncted
 138634	conjuncted
-138644	conjuncted
-138648	conjuncted
+138636	conjuncted
+138638	conjuncted
 conjuncted
-138664	conjuncted
-138668	conjuncted
+138643	conjuncted
+conjuncted
+conjuncted
+conjuncted
 138671	conjuncted
-138685	conjuncted
-138695	conjuncted
-138700	conjuncted
-138706	conjuncted
-138710	conjuncted
-138725	conjuncted
-138733	conjuncted
-138745	conjuncted
-138754	conjuncted
+138691	conjuncted
+138693	conjuncted
+138698	conjuncted
+138718	conjuncted
+138721	conjuncted
+138726	conjuncted
+138732	conjuncted
+138742	conjuncted
+138744	conjuncted
+138753	conjuncted
 138759	conjuncted
-138761	conjuncted
-138764	conjuncted
-138776	conjuncted
-138778	conjuncted
-138780	conjuncted
-conjuncted
-138787	conjuncted
-conjuncted
-conjuncted
-conjuncted
-138817	conjuncted
-138840	conjuncted
-138842	conjuncted
-138846	conjuncted
-138869	conjuncted
-138873	conjuncted
+138768	conjuncted
+138773	conjuncted
+138783	conjuncted
+138788	conjuncted
+138801	conjuncted
+138804	conjuncted
+138810	conjuncted
+138812	conjuncted
+138837	conjuncted
+138843	conjuncted
+138850	conjuncted
+138856	conjuncted
+138870	conjuncted
 138879	conjuncted
-138887	conjuncted
+138884	conjuncted
+138888	conjuncted
+138892	conjuncted
+138896	conjuncted
 138901	conjuncted
-138904	conjuncted
-138913	conjuncted
-138920	conjuncted
-138930	conjuncted
-138936	conjuncted
-138947	conjuncted
-138952	conjuncted
-138965	conjuncted
-138969	conjuncted
-138976	conjuncted
-138978	conjuncted
-139004	conjuncted
-139011	conjuncted
+138912	conjuncted
+138925	conjuncted
+138934	conjuncted
+138943	conjuncted
+138948	conjuncted
+138956	conjuncted
+conjuncted
+138959	conjuncted
+138993	conjuncted
 139017	conjuncted
-139024	conjuncted
-139039	conjuncted
-139049	conjuncted
-139055	conjuncted
-139060	conjuncted
-139065	conjuncted
-139070	conjuncted
-139076	conjuncted
-139089	conjuncted
-139104	conjuncted
-139114	conjuncted
-139124	conjuncted
-139132	conjuncted
+139027	conjuncted
+139090	conjuncted
+139102	conjuncted
+conjuncted
+139105	conjuncted
+139109	conjuncted
+conjuncted
+conjuncted
+139113	conjuncted
+139133	conjuncted
+139135	conjuncted
+139137	conjuncted
+139139	conjuncted
 139143	conjuncted
+139148	conjuncted
+139150	conjuncted
+139155	conjuncted
+139160	conjuncted
+139162	conjuncted
+139164	conjuncted
+139177	conjuncted
+139190	conjuncted
+139199	conjuncted
+139201	conjuncted
+139211	conjuncted
 conjuncted
-139147	conjuncted
-139186	conjuncted
-139217	conjuncted
-139230	conjuncted
+139227	conjuncted
+139232	conjuncted
+139238	conjuncted
+139243	conjuncted
+139247	conjuncted
+139250	conjuncted
+139254	conjuncted
+139257	conjuncted
+139260	conjuncted
+139266	conjuncted
+139270	conjuncted
+139300	conjuncted
 139304	conjuncted
-139321	conjuncted
-conjuncted
+139308	conjuncted
+139314	conjuncted
+139318	conjuncted
 139325	conjuncted
-139331	conjuncted
-conjuncted
-conjuncted
-139336	conjuncted
-139360	conjuncted
-139363	conjuncted
-139365	conjuncted
-139368	conjuncted
-139373	conjuncted
+139330	conjuncted
+139333	conjuncted
+139337	conjuncted
+139342	conjuncted
+139359	conjuncted
+139361	conjuncted
+139375	conjuncted
 139380	conjuncted
 139382	conjuncted
-139388	conjuncted
+139384	conjuncted
+139386	conjuncted
 139395	conjuncted
-139397	conjuncted
-139399	conjuncted
-139413	conjuncted
-139426	conjuncted
-139436	conjuncted
-139438	conjuncted
-139450	conjuncted
+139400	conjuncted
+139402	conjuncted
+139404	conjuncted
+139406	conjuncted
+139408	conjuncted
+139419	conjuncted
+139448	conjuncted
+139451	conjuncted
+139458	conjuncted
+139473	conjuncted
+139475	conjuncted
+139480	conjuncted
+139483	conjuncted
+139485	conjuncted
+139488	conjuncted
+139490	conjuncted
+139493	conjuncted
+139498	conjuncted
+139509	conjuncted
 conjuncted
-139467	conjuncted
-139474	conjuncted
-139482	conjuncted
-139486	conjuncted
-139492	conjuncted
-139496	conjuncted
-139503	conjuncted
-139507	conjuncted
-139511	conjuncted
-139518	conjuncted
-139522	conjuncted
+139512	conjuncted
+conjuncted
+139517	conjuncted
+139530	conjuncted
+139533	conjuncted
+139537	conjuncted
+139545	conjuncted
 139555	conjuncted
-139560	conjuncted
-139565	conjuncted
+139571	conjuncted
 139573	conjuncted
-139578	conjuncted
+139581	conjuncted
 139586	conjuncted
-139592	conjuncted
-139596	conjuncted
-139601	conjuncted
-139607	conjuncted
-139630	conjuncted
-139632	conjuncted
-139646	conjuncted
-139654	conjuncted
-139656	conjuncted
+139612	conjuncted
+conjuncted
+139621	conjuncted
+conjuncted
+139636	conjuncted
 139658	conjuncted
-139660	conjuncted
-139669	conjuncted
-139676	conjuncted
-139678	conjuncted
-139680	conjuncted
-139682	conjuncted
-139684	conjuncted
-139698	conjuncted
-139729	conjuncted
+139664	conjuncted
+139667	conjuncted
+139673	conjuncted
+139681	conjuncted
+139703	conjuncted
+139706	conjuncted
+139708	conjuncted
+139717	conjuncted
+139725	conjuncted
 139734	conjuncted
 139744	conjuncted
-139759	conjuncted
-139762	conjuncted
+139746	conjuncted
+139748	conjuncted
+139753	conjuncted
 139768	conjuncted
-139773	conjuncted
-139775	conjuncted
-139780	conjuncted
-139782	conjuncted
-139787	conjuncted
-139793	conjuncted
+139777	conjuncted
+conjuncted
+139790	conjuncted
+139796	conjuncted
+139805	conjuncted
 139807	conjuncted
-conjuncted
 139811	conjuncted
-conjuncted
-139817	conjuncted
-139833	conjuncted
-139837	conjuncted
-139842	conjuncted
-139852	conjuncted
-139864	conjuncted
-139882	conjuncted
-139884	conjuncted
-139893	conjuncted
-139899	conjuncted
+139819	conjuncted
+139822	conjuncted
+139827	conjuncted
+139841	conjuncted
+139851	conjuncted
+139854	conjuncted
+139868	conjuncted
+139876	conjuncted
+139883	conjuncted
+139921	conjuncted
+139923	conjuncted
+139925	conjuncted
 139927	conjuncted
-conjuncted
+139933	conjuncted
 139938	conjuncted
+139940	conjuncted
+139951	conjuncted
+139953	conjuncted
+139959	conjuncted
+139961	conjuncted
 conjuncted
-139956	conjuncted
-139979	conjuncted
-139986	conjuncted
-139990	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+139973	conjuncted
+139993	conjuncted
+conjuncted
 139996	conjuncted
+conjuncted
+conjuncted
 140005	conjuncted
-140031	conjuncted
-140035	conjuncted
-140037	conjuncted
-140048	conjuncted
-140057	conjuncted
-140068	conjuncted
+140016	conjuncted
+140020	conjuncted
+140028	conjuncted
+140032	conjuncted
+140036	conjuncted
+conjuncted
+140046	conjuncted
+140054	conjuncted
+140058	conjuncted
+conjuncted
+140065	conjuncted
 140079	conjuncted
-140082	conjuncted
-140085	conjuncted
-140091	conjuncted
-140109	conjuncted
-140121	conjuncted
+140081	conjuncted
+140083	conjuncted
+140103	conjuncted
+140108	conjuncted
+140119	conjuncted
+140131	conjuncted
+140139	conjuncted
 conjuncted
-140135	conjuncted
-140142	conjuncted
-140150	conjuncted
-140152	conjuncted
-140157	conjuncted
-140166	conjuncted
-140170	conjuncted
+140167	conjuncted
+140169	conjuncted
+140171	conjuncted
 140176	conjuncted
-140192	conjuncted
-140204	conjuncted
-140208	conjuncted
-140223	conjuncted
-140233	conjuncted
+140181	conjuncted
+140186	conjuncted
+140191	conjuncted
+140198	conjuncted
+140207	conjuncted
+140226	conjuncted
+140234	conjuncted
 140242	conjuncted
-140284	conjuncted
+140244	conjuncted
+140247	conjuncted
+140249	conjuncted
+140251	conjuncted
 140287	conjuncted
-140289	conjuncted
-140292	conjuncted
-140300	conjuncted
-140306	conjuncted
-140308	conjuncted
-140320	conjuncted
+140291	conjuncted
+140295	conjuncted
+140315	conjuncted
+140318	conjuncted
 140323	conjuncted
-140331	conjuncted
-140335	conjuncted
-140339	conjuncted
-140342	conjuncted
-140344	conjuncted
-140348	conjuncted
-140351	conjuncted
-140361	conjuncted
-140386	conjuncted
 conjuncted
+conjuncted
+140330	conjuncted
+140332	conjuncted
+140336	conjuncted
+conjuncted
+140354	conjuncted
+140358	conjuncted
+140362	conjuncted
+conjuncted
+140381	conjuncted
+140387	conjuncted
 140390	conjuncted
 conjuncted
+140398	conjuncted
+140402	conjuncted
+140406	conjuncted
+140415	conjuncted
+140420	conjuncted
+140424	conjuncted
 conjuncted
-140399	conjuncted
-140412	conjuncted
-140416	conjuncted
-140425	conjuncted
-140430	conjuncted
+140429	conjuncted
+140434	conjuncted
 140437	conjuncted
-conjuncted
-140448	conjuncted
-140458	conjuncted
-140463	conjuncted
-140465	conjuncted
-140474	conjuncted
-140491	conjuncted
-140493	conjuncted
-140496	conjuncted
-140519	conjuncted
-140525	conjuncted
+140452	conjuncted
+140456	conjuncted
+140462	conjuncted
+140470	conjuncted
+140481	conjuncted
+140507	conjuncted
+140512	conjuncted
+140523	conjuncted
+140537	conjuncted
 140539	conjuncted
-140552	conjuncted
-140561	conjuncted
+140553	conjuncted
+140556	conjuncted
+140558	conjuncted
+140563	conjuncted
+140573	conjuncted
+140578	conjuncted
+140581	conjuncted
+140596	conjuncted
+140598	conjuncted
+140619	conjuncted
+140628	conjuncted
+140634	conjuncted
 conjuncted
-140595	conjuncted
-140597	conjuncted
-140599	conjuncted
-140605	conjuncted
-140611	conjuncted
-140616	conjuncted
-140622	conjuncted
-140630	conjuncted
-140640	conjuncted
-140663	conjuncted
-140672	conjuncted
-140681	conjuncted
-140684	conjuncted
-140687	conjuncted
-140689	conjuncted
-140691	conjuncted
-140732	conjuncted
+140645	conjuncted
+conjuncted
+140649	conjuncted
+140651	conjuncted
+140653	conjuncted
+140655	conjuncted
+140666	conjuncted
+140676	conjuncted
+140679	conjuncted
+140688	conjuncted
+conjuncted
+140697	conjuncted
+conjuncted
+140700	conjuncted
+140704	conjuncted
+140707	conjuncted
+140712	conjuncted
+140720	conjuncted
+140729	conjuncted
+140731	conjuncted
+140734	conjuncted
+140736	conjuncted
 140739	conjuncted
 140744	conjuncted
-140768	conjuncted
-140772	conjuncted
-140779	conjuncted
+140750	conjuncted
+140753	conjuncted
+140759	conjuncted
+140766	conjuncted
+140771	conjuncted
 conjuncted
-conjuncted
-140788	conjuncted
-140790	conjuncted
+140780	conjuncted
+140795	conjuncted
 140798	conjuncted
-140800	conjuncted
+140801	conjuncted
+140804	conjuncted
+140808	conjuncted
+140811	conjuncted
+140815	conjuncted
 140817	conjuncted
+140819	conjuncted
+140821	conjuncted
 140823	conjuncted
+140825	conjuncted
+140827	conjuncted
 140829	conjuncted
-conjuncted
-140848	conjuncted
-140857	conjuncted
+140844	conjuncted
+140851	conjuncted
+140853	conjuncted
 140862	conjuncted
-conjuncted
+140865	conjuncted
+140871	conjuncted
 140873	conjuncted
-140878	conjuncted
-140883	conjuncted
-140893	conjuncted
+140876	conjuncted
+140880	conjuncted
+140882	conjuncted
+140885	conjuncted
+140887	conjuncted
+140889	conjuncted
+140891	conjuncted
 140897	conjuncted
-140903	conjuncted
-conjuncted
+140906	conjuncted
 140909	conjuncted
-140915	conjuncted
-140919	conjuncted
-140935	conjuncted
-140940	conjuncted
+140911	conjuncted
+140914	conjuncted
+140921	conjuncted
+140924	conjuncted
+140939	conjuncted
+140943	conjuncted
 140945	conjuncted
-140954	conjuncted
-140967	conjuncted
-140994	conjuncted
-140999	conjuncted
-141011	conjuncted
-141026	conjuncted
-141029	conjuncted
-141048	conjuncted
-141052	conjuncted
-141054	conjuncted
-141058	conjuncted
-141069	conjuncted
-141075	conjuncted
-141079	conjuncted
-141097	conjuncted
-141100	conjuncted
-141122	conjuncted
-141132	conjuncted
+140948	conjuncted
+140957	conjuncted
+140959	conjuncted
+conjuncted
+140970	conjuncted
+140975	conjuncted
+conjuncted
+140978	conjuncted
+140980	conjuncted
+140990	conjuncted
+140992	conjuncted
+140998	conjuncted
+141027	conjuncted
+141031	conjuncted
+141038	conjuncted
+141040	conjuncted
+141045	conjuncted
+141049	conjuncted
+141057	conjuncted
+141086	conjuncted
+141092	conjuncted
+141098	conjuncted
+141101	conjuncted
+141103	conjuncted
+141106	conjuncted
+141109	conjuncted
+141121	conjuncted
+141123	conjuncted
+141126	conjuncted
+141135	conjuncted
 141140	conjuncted
-conjuncted
+141148	conjuncted
+141150	conjuncted
 141154	conjuncted
-conjuncted
+141156	conjuncted
 141159	conjuncted
-141162	conjuncted
-141164	conjuncted
-141167	conjuncted
-141179	conjuncted
-141191	conjuncted
-141195	conjuncted
+141168	conjuncted
+141180	conjuncted
+141183	conjuncted
+141188	conjuncted
+141190	conjuncted
+conjuncted
+conjuncted
 141206	conjuncted
-conjuncted
-141217	conjuncted
+141210	conjuncted
+141214	conjuncted
 141219	conjuncted
-141225	conjuncted
-141229	conjuncted
-141235	conjuncted
-141240	conjuncted
-141247	conjuncted
-141258	conjuncted
-141260	conjuncted
-141265	conjuncted
-141267	conjuncted
-141270	conjuncted
-141276	conjuncted
-141284	conjuncted
+141234	conjuncted
+141248	conjuncted
+141252	conjuncted
+141257	conjuncted
+141259	conjuncted
+141264	conjuncted
+141266	conjuncted
+141278	conjuncted
+141280	conjuncted
 141287	conjuncted
-141294	conjuncted
-141303	conjuncted
-141310	conjuncted
-conjuncted
-141320	conjuncted
-141334	conjuncted
-141337	conjuncted
-141340	conjuncted
-141345	conjuncted
-141350	conjuncted
-141355	conjuncted
-141359	conjuncted
-141362	conjuncted
-141365	conjuncted
-141367	conjuncted
-141370	conjuncted
-141374	conjuncted
-141376	conjuncted
-141378	conjuncted
-141394	conjuncted
-141401	conjuncted
-141403	conjuncted
-141413	conjuncted
-141417	conjuncted
-141426	conjuncted
+141305	conjuncted
+141314	conjuncted
+141316	conjuncted
+141319	conjuncted
+141323	conjuncted
+141325	conjuncted
+141332	conjuncted
+141336	conjuncted
+141361	conjuncted
+141384	conjuncted
+141389	conjuncted
+141399	conjuncted
+141416	conjuncted
+141420	conjuncted
 141428	conjuncted
-141432	conjuncted
-141438	conjuncted
-141440	conjuncted
-141445	conjuncted
+141442	conjuncted
+conjuncted
 141447	conjuncted
-141449	conjuncted
-141451	conjuncted
-141459	conjuncted
-141472	conjuncted
-141475	conjuncted
-141477	conjuncted
-141481	conjuncted
-141490	conjuncted
-141494	conjuncted
-141509	conjuncted
-141515	conjuncted
-141517	conjuncted
-141521	conjuncted
-141529	conjuncted
-141532	conjuncted
-conjuncted
-141544	conjuncted
-141549	conjuncted
-141551	conjuncted
-141553	conjuncted
-141555	conjuncted
-141566	conjuncted
+141454	conjuncted
+141457	conjuncted
+141464	conjuncted
+141473	conjuncted
+141512	conjuncted
+141524	conjuncted
+141531	conjuncted
 141568	conjuncted
-141575	conjuncted
-141607	conjuncted
-141611	conjuncted
-141620	conjuncted
-141622	conjuncted
-141626	conjuncted
-141631	conjuncted
+141590	conjuncted
+141596	conjuncted
+conjuncted
+141599	conjuncted
+141606	conjuncted
+141608	conjuncted
+141618	conjuncted
+141621	conjuncted
+141636	conjuncted
 141641	conjuncted
-141671	conjuncted
-141679	conjuncted
+conjuncted
+141645	conjuncted
+141647	conjuncted
+141651	conjuncted
+141653	conjuncted
+141660	conjuncted
+141664	conjuncted
+141669	conjuncted
 141686	conjuncted
-141690	conjuncted
-141694	conjuncted
-141697	conjuncted
-141701	conjuncted
-141714	conjuncted
-141716	conjuncted
-141719	conjuncted
-141729	conjuncted
+141689	conjuncted
+141692	conjuncted
+conjuncted
+141707	conjuncted
+conjuncted
+141722	conjuncted
+141724	conjuncted
+141726	conjuncted
+141728	conjuncted
+141733	conjuncted
 141735	conjuncted
-141743	conjuncted
-141745	conjuncted
+141741	conjuncted
 141750	conjuncted
-141753	conjuncted
-141757	conjuncted
-141769	conjuncted
+141752	conjuncted
+141754	conjuncted
+141756	conjuncted
+141774	conjuncted
+conjuncted
+141781	conjuncted
 141783	conjuncted
-141787	conjuncted
-141793	conjuncted
-141796	conjuncted
+141786	conjuncted
+141791	conjuncted
+141806	conjuncted
+141808	conjuncted
 conjuncted
 conjuncted
-141813	conjuncted
-141819	conjuncted
-141826	conjuncted
-141832	conjuncted
-141853	conjuncted
-141870	conjuncted
-141874	conjuncted
-141880	conjuncted
+141812	conjuncted
+141836	conjuncted
+141838	conjuncted
+141846	conjuncted
+141854	conjuncted
+141856	conjuncted
+141861	conjuncted
+141876	conjuncted
+conjuncted
+conjuncted
 141882	conjuncted
+141884	conjuncted
 141888	conjuncted
-141890	conjuncted
+141901	conjuncted
 141903	conjuncted
-141906	conjuncted
-141916	conjuncted
-141937	conjuncted
-141948	conjuncted
-141950	conjuncted
-141954	conjuncted
-141960	conjuncted
-141962	conjuncted
-141971	conjuncted
+141908	conjuncted
+141917	conjuncted
+141921	conjuncted
+141925	conjuncted
+141949	conjuncted
+141951	conjuncted
+141953	conjuncted
+141957	conjuncted
+141970	conjuncted
 141976	conjuncted
-142004	conjuncted
-142029	conjuncted
-142035	conjuncted
-142046	conjuncted
-142066	conjuncted
-142070	conjuncted
-142079	conjuncted
-142095	conjuncted
+141980	conjuncted
+141984	conjuncted
+141992	conjuncted
+141999	conjuncted
+142017	conjuncted
+142019	conjuncted
+142026	conjuncted
+142028	conjuncted
+142037	conjuncted
+142050	conjuncted
+142052	conjuncted
+142065	conjuncted
+142068	conjuncted
+142073	conjuncted
+142081	conjuncted
+142087	conjuncted
+142105	conjuncted
+142111	conjuncted
+142118	conjuncted
+142120	conjuncted
+142124	conjuncted
 conjuncted
-142101	conjuncted
-142109	conjuncted
-142113	conjuncted
-142121	conjuncted
-142132	conjuncted
-142174	conjuncted
-142189	conjuncted
-142197	conjuncted
-142239	conjuncted
-142266	conjuncted
-142275	conjuncted
+142128	conjuncted
+142134	conjuncted
+142138	conjuncted
+142152	conjuncted
+142155	conjuncted
+142168	conjuncted
+142180	conjuncted
+142188	conjuncted
+142199	conjuncted
+142206	conjuncted
+142221	conjuncted
+142227	conjuncted
+142246	conjuncted
 conjuncted
-142278	conjuncted
-142286	conjuncted
-142288	conjuncted
-142301	conjuncted
-142304	conjuncted
-142320	conjuncted
-142327	conjuncted
 conjuncted
-142331	conjuncted
-142334	conjuncted
-142340	conjuncted
-142342	conjuncted
+142250	conjuncted
+142257	conjuncted
+142262	conjuncted
+142268	conjuncted
+142280	conjuncted
+142284	conjuncted
+142296	conjuncted
+142328	conjuncted
+142332	conjuncted
+142337	conjuncted
 142351	conjuncted
-142356	conjuncted
-142362	conjuncted
-142382	conjuncted
+142355	conjuncted
+conjuncted
+142358	conjuncted
+142370	conjuncted
+142376	conjuncted
 142385	conjuncted
-142390	conjuncted
-conjuncted
-142406	conjuncted
-142408	conjuncted
-142422	conjuncted
-142425	conjuncted
-142427	conjuncted
-142430	conjuncted
-142436	conjuncted
+142399	conjuncted
+142402	conjuncted
+142412	conjuncted
+142419	conjuncted
 142439	conjuncted
-142447	conjuncted
-142457	conjuncted
-142460	conjuncted
-142462	conjuncted
-142465	conjuncted
-142490	conjuncted
+142455	conjuncted
 conjuncted
-142499	conjuncted
-142501	conjuncted
-142505	conjuncted
-142510	conjuncted
-142527	conjuncted
-142530	conjuncted
-conjuncted
-conjuncted
+142472	conjuncted
+142474	conjuncted
+142476	conjuncted
+142495	conjuncted
+142508	conjuncted
+142514	conjuncted
 142534	conjuncted
-142564	conjuncted
-142566	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+142544	conjuncted
+142560	conjuncted
+142569	conjuncted
 142574	conjuncted
-142584	conjuncted
 142586	conjuncted
-142592	conjuncted
-142610	conjuncted
-conjuncted
-142613	conjuncted
-142618	conjuncted
-142621	conjuncted
-142626	conjuncted
-142640	conjuncted
+142604	conjuncted
+142608	conjuncted
+142617	conjuncted
+142633	conjuncted
+142639	conjuncted
 142642	conjuncted
+142644	conjuncted
+conjuncted
 142647	conjuncted
-142659	conjuncted
-142664	conjuncted
-142669	conjuncted
-142695	conjuncted
-142698	conjuncted
-142700	conjuncted
-142706	conjuncted
-142723	conjuncted
-142732	conjuncted
-142737	conjuncted
-142742	conjuncted
-142750	conjuncted
-142759	conjuncted
-142782	conjuncted
-142784	conjuncted
-142793	conjuncted
-142795	conjuncted
-142806	conjuncted
-142823	conjuncted
-142826	conjuncted
-142840	conjuncted
+142652	conjuncted
+142654	conjuncted
+142656	conjuncted
+142660	conjuncted
+142670	conjuncted
+142684	conjuncted
+142686	conjuncted
+142690	conjuncted
+142692	conjuncted
+142703	conjuncted
+142712	conjuncted
+142719	conjuncted
+142721	conjuncted
+142747	conjuncted
+142758	conjuncted
+142760	conjuncted
+142765	conjuncted
+142770	conjuncted
+142773	conjuncted
+142794	conjuncted
+142796	conjuncted
+142800	conjuncted
+142804	conjuncted
+conjuncted
+142807	conjuncted
+142811	conjuncted
+142813	conjuncted
+142819	conjuncted
+142839	conjuncted
 142843	conjuncted
+conjuncted
+142846	conjuncted
 142849	conjuncted
-142858	conjuncted
-142867	conjuncted
-142888	conjuncted
+142853	conjuncted
+142857	conjuncted
+conjuncted
+142863	conjuncted
+142865	conjuncted
+142869	conjuncted
+142872	conjuncted
+142882	conjuncted
+142887	conjuncted
 142895	conjuncted
-142903	conjuncted
-142905	conjuncted
-142911	conjuncted
-conjuncted
+142899	conjuncted
 142916	conjuncted
-142921	conjuncted
-142926	conjuncted
-142941	conjuncted
-142946	conjuncted
-142961	conjuncted
-142979	conjuncted
-142991	conjuncted
-143005	conjuncted
-143011	conjuncted
+142922	conjuncted
+142934	conjuncted
+142937	conjuncted
+142949	conjuncted
+142960	conjuncted
+142988	conjuncted
+143007	conjuncted
+143010	conjuncted
+143012	conjuncted
+143014	conjuncted
+conjuncted
+143024	conjuncted
+143026	conjuncted
+143028	conjuncted
 143030	conjuncted
-143035	conjuncted
-143062	conjuncted
-conjuncted
-conjuncted
+143032	conjuncted
+143041	conjuncted
+143043	conjuncted
+143045	conjuncted
+143048	conjuncted
+143061	conjuncted
 143066	conjuncted
-143074	conjuncted
-143080	conjuncted
-143088	conjuncted
-143102	conjuncted
+143075	conjuncted
+143087	conjuncted
+143092	conjuncted
+143099	conjuncted
 143107	conjuncted
-143121	conjuncted
-143154	conjuncted
-143159	conjuncted
-143165	conjuncted
-143180	conjuncted
-143187	conjuncted
+143127	conjuncted
+143138	conjuncted
 conjuncted
-143190	conjuncted
+143145	conjuncted
+143147	conjuncted
+143152	conjuncted
+143155	conjuncted
+143158	conjuncted
+143161	conjuncted
+143163	conjuncted
+143169	conjuncted
+143177	conjuncted
+conjuncted
+143199	conjuncted
+143201	conjuncted
 143204	conjuncted
-143211	conjuncted
+143218	conjuncted
 143220	conjuncted
-143238	conjuncted
+143229	conjuncted
 143242	conjuncted
-143255	conjuncted
-143264	conjuncted
-143284	conjuncted
-143305	conjuncted
+143248	conjuncted
+143253	conjuncted
+143259	conjuncted
+143268	conjuncted
+143275	conjuncted
+143279	conjuncted
 conjuncted
-143327	conjuncted
-143329	conjuncted
+143292	conjuncted
+143296	conjuncted
+conjuncted
+conjuncted
+143308	conjuncted
+conjuncted
+143328	conjuncted
+conjuncted
 143331	conjuncted
-143352	conjuncted
-143366	conjuncted
-143373	conjuncted
-143395	conjuncted
+143337	conjuncted
+143363	conjuncted
+143367	conjuncted
+143370	conjuncted
+143376	conjuncted
+conjuncted
+143381	conjuncted
+143385	conjuncted
+143387	conjuncted
+143396	conjuncted
+143398	conjuncted
+143400	conjuncted
 conjuncted
 conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-143406	conjuncted
-143425	conjuncted
-143435	conjuncted
+143408	conjuncted
+143423	conjuncted
+143429	conjuncted
+143434	conjuncted
 143441	conjuncted
-143455	conjuncted
-143474	conjuncted
-143480	conjuncted
-143491	conjuncted
-143508	conjuncted
-143515	conjuncted
-143519	conjuncted
-143524	conjuncted
+143444	conjuncted
+143446	conjuncted
+143458	conjuncted
+143464	conjuncted
+143467	conjuncted
+143476	conjuncted
+143484	conjuncted
+143492	conjuncted
+143497	conjuncted
+143504	conjuncted
+143509	conjuncted
+143512	conjuncted
 conjuncted
-143528	conjuncted
-143533	conjuncted
-143535	conjuncted
+conjuncted
+143516	conjuncted
+conjuncted
+143527	conjuncted
+143531	conjuncted
+143534	conjuncted
+conjuncted
 143537	conjuncted
-143542	conjuncted
-143553	conjuncted
-143569	conjuncted
-143571	conjuncted
-143577	conjuncted
-143579	conjuncted
-143591	conjuncted
-143600	conjuncted
-143608	conjuncted
-143611	conjuncted
-143641	conjuncted
-143652	conjuncted
-143655	conjuncted
-143662	conjuncted
-143670	conjuncted
-143674	conjuncted
-143698	conjuncted
-143701	conjuncted
-143708	conjuncted
-143714	conjuncted
+143545	conjuncted
+143550	conjuncted
+143552	conjuncted
+143554	conjuncted
+143556	conjuncted
+143558	conjuncted
+143560	conjuncted
+143563	conjuncted
+143566	conjuncted
+143568	conjuncted
+143586	conjuncted
 conjuncted
-143717	conjuncted
-143722	conjuncted
-143725	conjuncted
+143589	conjuncted
+conjuncted
+143592	conjuncted
+143598	conjuncted
+143609	conjuncted
+143616	conjuncted
+143632	conjuncted
+143650	conjuncted
+143652	conjuncted
+143663	conjuncted
+143668	conjuncted
+143675	conjuncted
+143679	conjuncted
+143681	conjuncted
+143683	conjuncted
+143687	conjuncted
+143689	conjuncted
+143693	conjuncted
+143695	conjuncted
+143699	conjuncted
+143712	conjuncted
+143726	conjuncted
 143733	conjuncted
+143740	conjuncted
+143745	conjuncted
 143758	conjuncted
 143763	conjuncted
 conjuncted
-143767	conjuncted
-143770	conjuncted
-143775	conjuncted
-143781	conjuncted
-conjuncted
-143789	conjuncted
+143766	conjuncted
+143784	conjuncted
+143791	conjuncted
 143793	conjuncted
-143798	conjuncted
+143795	conjuncted
+143799	conjuncted
 143801	conjuncted
-143812	conjuncted
-143818	conjuncted
-143828	conjuncted
-143832	conjuncted
-143852	conjuncted
-143861	conjuncted
-143875	conjuncted
+143804	conjuncted
+143807	conjuncted
+143813	conjuncted
+143831	conjuncted
+conjuncted
+143836	conjuncted
+143838	conjuncted
+143848	conjuncted
+conjuncted
+143851	conjuncted
+143855	conjuncted
+143860	conjuncted
+143864	conjuncted
 143879	conjuncted
-143894	conjuncted
+143889	conjuncted
 143907	conjuncted
-143937	conjuncted
+143910	conjuncted
+143912	conjuncted
+143917	conjuncted
+143919	conjuncted
+143921	conjuncted
+143924	conjuncted
+143930	conjuncted
+143940	conjuncted
+143948	conjuncted
 143959	conjuncted
-143965	conjuncted
-143967	conjuncted
+143968	conjuncted
 143970	conjuncted
-conjuncted
-143980	conjuncted
-143982	conjuncted
-143984	conjuncted
-143986	conjuncted
 143988	conjuncted
-143999	conjuncted
-144001	conjuncted
-144003	conjuncted
-144007	conjuncted
-144022	conjuncted
-144028	conjuncted
-144038	conjuncted
-144051	conjuncted
-144057	conjuncted
-144065	conjuncted
-144074	conjuncted
-144098	conjuncted
+143993	conjuncted
+143997	conjuncted
+conjuncted
+144000	conjuncted
+144002	conjuncted
+144005	conjuncted
+144011	conjuncted
+144021	conjuncted
+144025	conjuncted
+144040	conjuncted
+144055	conjuncted
+144072	conjuncted
+144075	conjuncted
+144085	conjuncted
+144089	conjuncted
+144095	conjuncted
+144101	conjuncted
+144109	conjuncted
 144111	conjuncted
+144120	conjuncted
+144125	conjuncted
+144129	conjuncted
+144133	conjuncted
 conjuncted
-144119	conjuncted
-144121	conjuncted
-144127	conjuncted
-144131	conjuncted
-144134	conjuncted
-144138	conjuncted
-144140	conjuncted
+144136	conjuncted
 144147	conjuncted
+144151	conjuncted
+144154	conjuncted
 144157	conjuncted
+144160	conjuncted
+144163	conjuncted
+144172	conjuncted
+144174	conjuncted
+144176	conjuncted
+144178	conjuncted
+144182	conjuncted
+144184	conjuncted
+144186	conjuncted
+144188	conjuncted
+144193	conjuncted
 conjuncted
-144180	conjuncted
-144183	conjuncted
-144187	conjuncted
-144201	conjuncted
-144203	conjuncted
-144213	conjuncted
-144227	conjuncted
-144234	conjuncted
-144240	conjuncted
-144247	conjuncted
-144257	conjuncted
+144208	conjuncted
+144211	conjuncted
+144215	conjuncted
+144218	conjuncted
+144221	conjuncted
+144223	conjuncted
+conjuncted
+144233	conjuncted
+144235	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+144249	conjuncted
+144260	conjuncted
 144265	conjuncted
-144270	conjuncted
-conjuncted
-144285	conjuncted
-144291	conjuncted
-conjuncted
-conjuncted
-144305	conjuncted
-conjuncted
-144329	conjuncted
-conjuncted
-144333	conjuncted
-144340	conjuncted
-144370	conjuncted
-144375	conjuncted
-144379	conjuncted
-144386	conjuncted
-conjuncted
-144392	conjuncted
+144268	conjuncted
+144272	conjuncted
+144283	conjuncted
+144294	conjuncted
+144304	conjuncted
+144339	conjuncted
+144348	conjuncted
+144374	conjuncted
+144378	conjuncted
 144398	conjuncted
 144400	conjuncted
-144411	conjuncted
-144413	conjuncted
-144416	conjuncted
-conjuncted
-conjuncted
-144425	conjuncted
-144442	conjuncted
-144450	conjuncted
-144456	conjuncted
-144464	conjuncted
-144469	conjuncted
-144471	conjuncted
+144409	conjuncted
+144430	conjuncted
+144432	conjuncted
+144457	conjuncted
+144465	conjuncted
+144467	conjuncted
+144472	conjuncted
+144478	conjuncted
 144484	conjuncted
-144490	conjuncted
+144491	conjuncted
 144494	conjuncted
-144504	conjuncted
-144513	conjuncted
-144523	conjuncted
-144529	conjuncted
+144499	conjuncted
+144503	conjuncted
+144505	conjuncted
+144530	conjuncted
+144533	conjuncted
 144537	conjuncted
-144545	conjuncted
+144548	conjuncted
 144550	conjuncted
 conjuncted
-conjuncted
-144556	conjuncted
-conjuncted
-144568	conjuncted
-144573	conjuncted
-144578	conjuncted
-conjuncted
-144582	conjuncted
-144592	conjuncted
-144598	conjuncted
-144600	conjuncted
-144603	conjuncted
-144606	conjuncted
-144608	conjuncted
+144566	conjuncted
+144574	conjuncted
+144580	conjuncted
+144594	conjuncted
+144605	conjuncted
+144609	conjuncted
 144611	conjuncted
-144617	conjuncted
 144622	conjuncted
-144624	conjuncted
-144645	conjuncted
-conjuncted
-144650	conjuncted
-conjuncted
-144654	conjuncted
+144625	conjuncted
+144631	conjuncted
+144634	conjuncted
+144643	conjuncted
+144663	conjuncted
 144667	conjuncted
-144679	conjuncted
-144687	conjuncted
-144705	conjuncted
-144728	conjuncted
-144731	conjuncted
-144744	conjuncted
-144750	conjuncted
-144758	conjuncted
-144764	conjuncted
+144680	conjuncted
+144682	conjuncted
+144704	conjuncted
+144721	conjuncted
+144740	conjuncted
+144746	conjuncted
+144755	conjuncted
 144766	conjuncted
-144769	conjuncted
-144775	conjuncted
-144777	conjuncted
-144782	conjuncted
-144784	conjuncted
-144789	conjuncted
-144803	conjuncted
-144822	conjuncted
-144830	conjuncted
-144838	conjuncted
+144790	conjuncted
+144807	conjuncted
+144828	conjuncted
+144840	conjuncted
 144845	conjuncted
-144858	conjuncted
-144865	conjuncted
-conjuncted
-144869	conjuncted
-144893	conjuncted
-144901	conjuncted
+144848	conjuncted
+144878	conjuncted
+144888	conjuncted
+144890	conjuncted
+144900	conjuncted
 144903	conjuncted
 144905	conjuncted
-144910	conjuncted
-144912	conjuncted
-144916	conjuncted
+144911	conjuncted
+144914	conjuncted
 144920	conjuncted
-144929	conjuncted
-144949	conjuncted
-conjuncted
-144956	conjuncted
-144959	conjuncted
-144974	conjuncted
+144922	conjuncted
+144948	conjuncted
+144957	conjuncted
+144964	conjuncted
+144971	conjuncted
 144976	conjuncted
-144978	conjuncted
-144983	conjuncted
-144989	conjuncted
-144994	conjuncted
-145012	conjuncted
+144980	conjuncted
+144986	conjuncted
+145022	conjuncted
+145024	conjuncted
 145026	conjuncted
+145041	conjuncted
+145043	conjuncted
+145045	conjuncted
 145047	conjuncted
-145051	conjuncted
-145054	conjuncted
-145062	conjuncted
-145065	conjuncted
-145068	conjuncted
+145050	conjuncted
+145053	conjuncted
+145057	conjuncted
+145061	conjuncted
 145072	conjuncted
-145080	conjuncted
-145092	conjuncted
-145102	conjuncted
-145116	conjuncted
-145127	conjuncted
-145130	conjuncted
-145152	conjuncted
-145160	conjuncted
-145164	conjuncted
-145167	conjuncted
-145169	conjuncted
-145171	conjuncted
-145174	conjuncted
-145181	conjuncted
-145192	conjuncted
-145197	conjuncted
-145213	conjuncted
-145230	conjuncted
-145248	conjuncted
+conjuncted
+conjuncted
+145087	conjuncted
+145090	conjuncted
+145095	conjuncted
+145099	conjuncted
+145112	conjuncted
+145115	conjuncted
+145132	conjuncted
+145139	conjuncted
+145141	conjuncted
+145145	conjuncted
+145151	conjuncted
+145176	conjuncted
+145184	conjuncted
+145193	conjuncted
+145212	conjuncted
+145224	conjuncted
+145236	conjuncted
+145239	conjuncted
+145246	conjuncted
 145251	conjuncted
-145262	conjuncted
-145267	conjuncted
+conjuncted
 145274	conjuncted
+conjuncted
 145281	conjuncted
-145291	conjuncted
-145293	conjuncted
-145303	conjuncted
-145309	conjuncted
-145314	conjuncted
-145319	conjuncted
-145321	conjuncted
-145323	conjuncted
-145337	conjuncted
-145342	conjuncted
-145346	conjuncted
-145350	conjuncted
-145354	conjuncted
-145358	conjuncted
-145368	conjuncted
-145370	conjuncted
-145373	conjuncted
-145375	conjuncted
-145381	conjuncted
-145383	conjuncted
-145386	conjuncted
-145388	conjuncted
-145395	conjuncted
+145283	conjuncted
+145285	conjuncted
+145294	conjuncted
+145299	conjuncted
+145305	conjuncted
+145316	conjuncted
+145318	conjuncted
+145325	conjuncted
+145329	conjuncted
+145332	conjuncted
+145338	conjuncted
+145344	conjuncted
+145353	conjuncted
 conjuncted
-145412	conjuncted
-145417	conjuncted
-145422	conjuncted
-145426	conjuncted
-145430	conjuncted
-145434	conjuncted
+145356	conjuncted
+145372	conjuncted
+145378	conjuncted
+145382	conjuncted
+145392	conjuncted
+145397	conjuncted
+145407	conjuncted
+145414	conjuncted
 conjuncted
+145419	conjuncted
+145427	conjuncted
+145435	conjuncted
+145443	conjuncted
 145445	conjuncted
-145447	conjuncted
+145453	conjuncted
+145458	conjuncted
 conjuncted
-conjuncted
-conjuncted
-conjuncted
-145462	conjuncted
-145475	conjuncted
-145482	conjuncted
-145486	conjuncted
-145491	conjuncted
-145507	conjuncted
-145520	conjuncted
-145532	conjuncted
-145572	conjuncted
-145584	conjuncted
-145612	conjuncted
+145461	conjuncted
+145476	conjuncted
+145481	conjuncted
+145493	conjuncted
+145499	conjuncted
+145504	conjuncted
+145508	conjuncted
+145511	conjuncted
+145518	conjuncted
+145523	conjuncted
+145536	conjuncted
+145547	conjuncted
+145559	conjuncted
+145576	conjuncted
+145579	conjuncted
+145581	conjuncted
+145583	conjuncted
+145593	conjuncted
+145597	conjuncted
+145602	conjuncted
+145611	conjuncted
 145617	conjuncted
-145641	conjuncted
-145643	conjuncted
-145655	conjuncted
-145681	conjuncted
-145683	conjuncted
-145711	conjuncted
-145720	conjuncted
-145723	conjuncted
+145626	conjuncted
+145628	conjuncted
+conjuncted
+145632	conjuncted
+145639	conjuncted
+145642	conjuncted
+145657	conjuncted
+145660	conjuncted
+145663	conjuncted
+conjuncted
+145679	conjuncted
+145687	conjuncted
+145691	conjuncted
+145696	conjuncted
+145698	conjuncted
+145700	conjuncted
+145705	conjuncted
+145719	conjuncted
+145721	conjuncted
+145724	conjuncted
 145730	conjuncted
 145737	conjuncted
-145742	conjuncted
-145752	conjuncted
-145755	conjuncted
-145762	conjuncted
-145767	conjuncted
-145769	conjuncted
-145795	conjuncted
-145801	conjuncted
-145805	conjuncted
-145819	conjuncted
-145822	conjuncted
-145824	conjuncted
-145840	conjuncted
-145849	conjuncted
-145855	conjuncted
-145871	conjuncted
-145886	conjuncted
-145891	conjuncted
-145893	conjuncted
-145908	conjuncted
-145912	conjuncted
-145920	conjuncted
-145923	conjuncted
-145934	conjuncted
-145957	conjuncted
-145962	conjuncted
-145978	conjuncted
-145980	conjuncted
-146006	conjuncted
-146026	conjuncted
+145763	conjuncted
+145766	conjuncted
+145777	conjuncted
+145790	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+145814	conjuncted
+145825	conjuncted
+145828	conjuncted
+145834	conjuncted
+145838	conjuncted
+145843	conjuncted
+145845	conjuncted
+145847	conjuncted
+conjuncted
+145853	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+145883	conjuncted
+145905	conjuncted
+145916	conjuncted
+145922	conjuncted
+145931	conjuncted
+145937	conjuncted
+conjuncted
+145944	conjuncted
+145947	conjuncted
+conjuncted
+145953	conjuncted
+145961	conjuncted
+145965	conjuncted
+conjuncted
+145975	conjuncted
+145979	conjuncted
+145990	conjuncted
+145993	conjuncted
+145995	conjuncted
+145997	conjuncted
+146000	conjuncted
+146004	conjuncted
+146008	conjuncted
+146012	conjuncted
+146014	conjuncted
+146016	conjuncted
+146018	conjuncted
+146020	conjuncted
+146022	conjuncted
+146025	conjuncted
+conjuncted
+146028	conjuncted
+conjuncted
+146042	conjuncted
 146047	conjuncted
-146054	conjuncted
-146066	conjuncted
-146079	conjuncted
-146108	conjuncted
-146127	conjuncted
-146153	conjuncted
-146169	conjuncted
-146175	conjuncted
-146179	conjuncted
-146211	conjuncted
-146223	conjuncted
-146226	conjuncted
-146237	conjuncted
-146240	conjuncted
-146242	conjuncted
+146049	conjuncted
+146052	conjuncted
+146055	conjuncted
+146060	conjuncted
+146068	conjuncted
+146072	conjuncted
+146084	conjuncted
+146086	conjuncted
+146090	conjuncted
+146098	conjuncted
+146100	conjuncted
+conjuncted
+146103	conjuncted
+146111	conjuncted
+146113	conjuncted
+146115	conjuncted
+conjuncted
+146124	conjuncted
+146149	conjuncted
+146155	conjuncted
+146165	conjuncted
+146167	conjuncted
+conjuncted
+conjuncted
+146171	conjuncted
+146188	conjuncted
+146195	conjuncted
+146200	conjuncted
+146202	conjuncted
+146214	conjuncted
+146225	conjuncted
+146229	conjuncted
+146238	conjuncted
 146248	conjuncted
-146251	conjuncted
-146260	conjuncted
+146254	conjuncted
 146262	conjuncted
-146291	conjuncted
-146302	conjuncted
-146310	conjuncted
-146316	conjuncted
-146322	conjuncted
-146327	conjuncted
-146336	conjuncted
-146380	conjuncted
-146382	conjuncted
-146384	conjuncted
+146268	conjuncted
+conjuncted
+146282	conjuncted
+conjuncted
+146285	conjuncted
+146287	conjuncted
+146292	conjuncted
+conjuncted
+conjuncted
+146299	conjuncted
+146301	conjuncted
+146305	conjuncted
+146339	conjuncted
+146341	conjuncted
+146347	conjuncted
+146349	conjuncted
+146358	conjuncted
+146364	conjuncted
+146368	conjuncted
+146377	conjuncted
+146394	conjuncted
+146398	conjuncted
 146402	conjuncted
-146404	conjuncted
 146406	conjuncted
-146408	conjuncted
-146412	conjuncted
-146415	conjuncted
-146420	conjuncted
-146425	conjuncted
-146440	conjuncted
+146411	conjuncted
+146416	conjuncted
+146419	conjuncted
+146429	conjuncted
+146435	conjuncted
+146441	conjuncted
 146443	conjuncted
-conjuncted
-146462	conjuncted
-146466	conjuncted
+146445	conjuncted
+146447	conjuncted
+146459	conjuncted
 146473	conjuncted
-146479	conjuncted
-146493	conjuncted
+146484	conjuncted
+146487	conjuncted
+146489	conjuncted
 146496	conjuncted
-146517	conjuncted
-146526	conjuncted
+146515	conjuncted
+conjuncted
+146519	conjuncted
+146521	conjuncted
+146523	conjuncted
+conjuncted
 146528	conjuncted
-146533	conjuncted
-146540	conjuncted
-146572	conjuncted
-146581	conjuncted
-146591	conjuncted
-146614	conjuncted
-146629	conjuncted
-146645	conjuncted
-146648	conjuncted
-146656	conjuncted
-146662	conjuncted
+146530	conjuncted
+146537	conjuncted
 conjuncted
-146694	conjuncted
 conjuncted
-146704	conjuncted
-146706	conjuncted
-146709	conjuncted
-146719	conjuncted
-146726	conjuncted
-146733	conjuncted
-146747	conjuncted
-146750	conjuncted
-146758	conjuncted
-146764	conjuncted
-146768	conjuncted
-146775	conjuncted
-146783	conjuncted
-146796	conjuncted
-146798	conjuncted
-146800	conjuncted
-146818	conjuncted
+146553	conjuncted
+146563	conjuncted
+146569	conjuncted
+146571	conjuncted
+146582	conjuncted
+146586	conjuncted
+146590	conjuncted
+conjuncted
+conjuncted
+conjuncted
+146605	conjuncted
+conjuncted
+146620	conjuncted
+146623	conjuncted
+146634	conjuncted
+146636	conjuncted
+146646	conjuncted
+146650	conjuncted
+146659	conjuncted
+146661	conjuncted
+146663	conjuncted
+146669	conjuncted
+146675	conjuncted
+146696	conjuncted
+146707	conjuncted
+146710	conjuncted
+146715	conjuncted
+conjuncted
+146718	conjuncted
+146721	conjuncted
+146728	conjuncted
+conjuncted
+conjuncted
+146732	conjuncted
+146734	conjuncted
+146742	conjuncted
+146769	conjuncted
+146780	conjuncted
+146782	conjuncted
+146784	conjuncted
+146789	conjuncted
+146791	conjuncted
+146795	conjuncted
+146799	conjuncted
+146804	conjuncted
+146810	conjuncted
+146813	conjuncted
+146821	conjuncted
+146823	conjuncted
 146825	conjuncted
-146832	conjuncted
-146845	conjuncted
-146851	conjuncted
-146864	conjuncted
-146872	conjuncted
-146874	conjuncted
+146830	conjuncted
+146835	conjuncted
+146844	conjuncted
+146850	conjuncted
+146861	conjuncted
+146873	conjuncted
 146879	conjuncted
-146888	conjuncted
+146883	conjuncted
+146885	conjuncted
+146887	conjuncted
+146891	conjuncted
+146895	conjuncted
 146899	conjuncted
 146908	conjuncted
-146911	conjuncted
-146920	conjuncted
-146928	conjuncted
+146919	conjuncted
+146939	conjuncted
+146943	conjuncted
+146947	conjuncted
+146954	conjuncted
+146964	conjuncted
+146970	conjuncted
+146984	conjuncted
 conjuncted
-146932	conjuncted
-146950	conjuncted
-146956	conjuncted
-146969	conjuncted
-146977	conjuncted
-146983	conjuncted
 146988	conjuncted
-146993	conjuncted
-147002	conjuncted
+146998	conjuncted
+147000	conjuncted
 147007	conjuncted
-147022	conjuncted
-147035	conjuncted
+147011	conjuncted
+147015	conjuncted
+147019	conjuncted
+conjuncted
+147023	conjuncted
+147025	conjuncted
+147034	conjuncted
+147036	conjuncted
 147049	conjuncted
-147073	conjuncted
-147077	conjuncted
-147080	conjuncted
-147082	conjuncted
-147094	conjuncted
-147099	conjuncted
-147105	conjuncted
-147115	conjuncted
-147123	conjuncted
-147133	conjuncted
-147137	conjuncted
-147139	conjuncted
-147143	conjuncted
-147151	conjuncted
-147155	conjuncted
-147173	conjuncted
-147177	conjuncted
+conjuncted
+147054	conjuncted
+147059	conjuncted
+147066	conjuncted
+147075	conjuncted
+147081	conjuncted
+147103	conjuncted
+147118	conjuncted
+147127	conjuncted
+147150	conjuncted
+147154	conjuncted
+147167	conjuncted
+147174	conjuncted
+conjuncted
 147182	conjuncted
-conjuncted
-147199	conjuncted
-147207	conjuncted
-147213	conjuncted
-147217	conjuncted
-147220	conjuncted
-147222	conjuncted
-147228	conjuncted
-147244	conjuncted
-147247	conjuncted
-147252	conjuncted
-147259	conjuncted
-147267	conjuncted
+147185	conjuncted
+147188	conjuncted
+147195	conjuncted
+147197	conjuncted
+147212	conjuncted
+147215	conjuncted
+147223	conjuncted
+147250	conjuncted
+147254	conjuncted
+147264	conjuncted
+147266	conjuncted
+147277	conjuncted
 147297	conjuncted
-147301	conjuncted
-147313	conjuncted
-147327	conjuncted
-conjuncted
-conjuncted
-conjuncted
-147332	conjuncted
-147354	conjuncted
+147306	conjuncted
+147318	conjuncted
+147323	conjuncted
+147346	conjuncted
+147353	conjuncted
 147367	conjuncted
-147370	conjuncted
-147378	conjuncted
-147383	conjuncted
-147389	conjuncted
+147369	conjuncted
+147371	conjuncted
+147379	conjuncted
+147390	conjuncted
 147392	conjuncted
-147397	conjuncted
-147399	conjuncted
-147406	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-147412	conjuncted
-conjuncted
 147415	conjuncted
-147442	conjuncted
-147464	conjuncted
-147476	conjuncted
-147483	conjuncted
-147492	conjuncted
-147500	conjuncted
+147417	conjuncted
 conjuncted
-147508	conjuncted
-147512	conjuncted
 conjuncted
-147519	conjuncted
-147529	conjuncted
-147535	conjuncted
+147421	conjuncted
+147432	conjuncted
+147434	conjuncted
+147448	conjuncted
+147450	conjuncted
+147461	conjuncted
+147466	conjuncted
+147473	conjuncted
 conjuncted
-147546	conjuncted
-147552	conjuncted
-147564	conjuncted
+147493	conjuncted
+conjuncted
+conjuncted
+147499	conjuncted
+147506	conjuncted
+147515	conjuncted
+147518	conjuncted
+147520	conjuncted
+147530	conjuncted
+147537	conjuncted
 147567	conjuncted
-147570	conjuncted
-147572	conjuncted
-147578	conjuncted
-147582	conjuncted
-147587	conjuncted
+147571	conjuncted
+147577	conjuncted
+147586	conjuncted
 147591	conjuncted
-147594	conjuncted
-147598	conjuncted
-147600	conjuncted
-147602	conjuncted
-147605	conjuncted
+147606	conjuncted
+147608	conjuncted
 147610	conjuncted
-conjuncted
-147614	conjuncted
-conjuncted
-147630	conjuncted
-147638	conjuncted
-147640	conjuncted
-147644	conjuncted
-147648	conjuncted
-147654	conjuncted
-147664	conjuncted
-147670	conjuncted
-147684	conjuncted
-147687	conjuncted
-147692	conjuncted
-147701	conjuncted
-147705	conjuncted
-conjuncted
-147708	conjuncted
-147717	conjuncted
+147616	conjuncted
+147631	conjuncted
+147643	conjuncted
+147646	conjuncted
+147650	conjuncted
+147676	conjuncted
+147678	conjuncted
+147683	conjuncted
+147694	conjuncted
+147709	conjuncted
+147715	conjuncted
 147719	conjuncted
-147722	conjuncted
-conjuncted
-147732	conjuncted
-147762	conjuncted
-147768	conjuncted
-147780	conjuncted
-147784	conjuncted
+147721	conjuncted
+147726	conjuncted
+147743	conjuncted
+147749	conjuncted
+147753	conjuncted
+147760	conjuncted
+147765	conjuncted
+147775	conjuncted
 147786	conjuncted
-conjuncted
-147791	conjuncted
-147808	conjuncted
+147809	conjuncted
 147817	conjuncted
-147821	conjuncted
-147823	conjuncted
-147836	conjuncted
-147849	conjuncted
-147854	conjuncted
-147864	conjuncted
-147874	conjuncted
-147882	conjuncted
-147892	conjuncted
-147899	conjuncted
+147826	conjuncted
+147835	conjuncted
+147840	conjuncted
+147850	conjuncted
+147855	conjuncted
 conjuncted
-147917	conjuncted
+147858	conjuncted
+147877	conjuncted
+147884	conjuncted
+147886	conjuncted
 conjuncted
-147921	conjuncted
-147923	conjuncted
-147930	conjuncted
-147932	conjuncted
-conjuncted
-147940	conjuncted
+147904	conjuncted
+147906	conjuncted
+147920	conjuncted
 147942	conjuncted
-147949	conjuncted
-147987	conjuncted
-147990	conjuncted
-147997	conjuncted
-148000	conjuncted
-148011	conjuncted
-148020	conjuncted
-148024	conjuncted
-148034	conjuncted
-148054	conjuncted
+147962	conjuncted
+147970	conjuncted
+147977	conjuncted
+147979	conjuncted
+147981	conjuncted
+148007	conjuncted
+148018	conjuncted
+148026	conjuncted
+148033	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+148042	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+148053	conjuncted
 148058	conjuncted
-148064	conjuncted
-148068	conjuncted
+148060	conjuncted
+148062	conjuncted
 148075	conjuncted
-148081	conjuncted
-148085	conjuncted
-148096	conjuncted
-148103	conjuncted
-148109	conjuncted
-148111	conjuncted
-148113	conjuncted
-148116	conjuncted
-148129	conjuncted
-148144	conjuncted
-148157	conjuncted
-148160	conjuncted
-148162	conjuncted
-148170	conjuncted
-148192	conjuncted
+148077	conjuncted
 conjuncted
-148198	conjuncted
-148202	conjuncted
-148205	conjuncted
-conjuncted
-148212	conjuncted
-148215	conjuncted
-148224	conjuncted
-conjuncted
-conjuncted
-148241	conjuncted
-148252	conjuncted
-148260	conjuncted
-148262	conjuncted
-148275	conjuncted
-148280	conjuncted
-148286	conjuncted
+148080	conjuncted
+148082	conjuncted
+148084	conjuncted
+148086	conjuncted
+148088	conjuncted
+148090	conjuncted
+148094	conjuncted
+148112	conjuncted
+148121	conjuncted
+148133	conjuncted
+148136	conjuncted
+148140	conjuncted
+148142	conjuncted
+148148	conjuncted
+148158	conjuncted
+148167	conjuncted
+148175	conjuncted
+148177	conjuncted
+148183	conjuncted
+148185	conjuncted
+148193	conjuncted
+148235	conjuncted
+148240	conjuncted
+148242	conjuncted
+148245	conjuncted
+148251	conjuncted
+148259	conjuncted
+148263	conjuncted
+148266	conjuncted
+148282	conjuncted
+148284	conjuncted
 148288	conjuncted
+148295	conjuncted
+148324	conjuncted
+148345	conjuncted
+148348	conjuncted
+148350	conjuncted
+148353	conjuncted
+148359	conjuncted
+148365	conjuncted
+148369	conjuncted
 conjuncted
+148403	conjuncted
+148405	conjuncted
+148416	conjuncted
+148420	conjuncted
+148436	conjuncted
 conjuncted
-148303	conjuncted
-conjuncted
-148319	conjuncted
-148323	conjuncted
-148337	conjuncted
-148340	conjuncted
-148352	conjuncted
-148357	conjuncted
-148368	conjuncted
-148370	conjuncted
-148373	conjuncted
-148381	conjuncted
-148389	conjuncted
-148412	conjuncted
-148427	conjuncted
-148430	conjuncted
-148438	conjuncted
 conjuncted
 148441	conjuncted
-148445	conjuncted
+148448	conjuncted
+148450	conjuncted
 148454	conjuncted
-conjuncted
-conjuncted
-148459	conjuncted
-148462	conjuncted
-148471	conjuncted
-148502	conjuncted
-148514	conjuncted
+148466	conjuncted
+148486	conjuncted
+148488	conjuncted
+148490	conjuncted
+148492	conjuncted
+148494	conjuncted
+148503	conjuncted
+148508	conjuncted
+148513	conjuncted
+148516	conjuncted
 148518	conjuncted
-148520	conjuncted
-148526	conjuncted
-148528	conjuncted
-148533	conjuncted
-148537	conjuncted
-148544	conjuncted
+148531	conjuncted
+148536	conjuncted
+148540	conjuncted
+148542	conjuncted
 148552	conjuncted
-148555	conjuncted
-148565	conjuncted
-148567	conjuncted
-148570	conjuncted
-148576	conjuncted
-148582	conjuncted
-148593	conjuncted
-148600	conjuncted
-148612	conjuncted
-148626	conjuncted
-148635	conjuncted
+148557	conjuncted
+148568	conjuncted
+148579	conjuncted
+148586	conjuncted
+148589	conjuncted
+148603	conjuncted
+148610	conjuncted
+148618	conjuncted
+148627	conjuncted
+148629	conjuncted
+148632	conjuncted
+148637	conjuncted
 148642	conjuncted
-148644	conjuncted
-148646	conjuncted
-148651	conjuncted
-148656	conjuncted
-148662	conjuncted
-148672	conjuncted
-148685	conjuncted
-148708	conjuncted
-148713	conjuncted
+148659	conjuncted
+148665	conjuncted
+148667	conjuncted
+148669	conjuncted
+148679	conjuncted
+conjuncted
+148699	conjuncted
+148701	conjuncted
+conjuncted
+conjuncted
+148716	conjuncted
 148718	conjuncted
-148728	conjuncted
-148741	conjuncted
-148749	conjuncted
+148722	conjuncted
+conjuncted
+conjuncted
+148729	conjuncted
+148753	conjuncted
+148764	conjuncted
 148766	conjuncted
 conjuncted
-148770	conjuncted
-148781	conjuncted
-148784	conjuncted
-148794	conjuncted
+148773	conjuncted
 148798	conjuncted
-148802	conjuncted
-148807	conjuncted
+148808	conjuncted
+148817	conjuncted
 conjuncted
-148812	conjuncted
-148815	conjuncted
-148827	conjuncted
-148829	conjuncted
-148844	conjuncted
 conjuncted
+148822	conjuncted
+148837	conjuncted
+148842	conjuncted
+148846	conjuncted
 148850	conjuncted
-148857	conjuncted
-148866	conjuncted
-148877	conjuncted
-148885	conjuncted
-148913	conjuncted
-148928	conjuncted
-148938	conjuncted
-148964	conjuncted
-148969	conjuncted
-148984	conjuncted
-148993	conjuncted
+148858	conjuncted
+148860	conjuncted
+148862	conjuncted
+148882	conjuncted
+148884	conjuncted
+148886	conjuncted
+148905	conjuncted
+148908	conjuncted
+148915	conjuncted
+148927	conjuncted
+148946	conjuncted
 conjuncted
-149002	conjuncted
-149005	conjuncted
-149009	conjuncted
-149017	conjuncted
-149020	conjuncted
+148949	conjuncted
+148959	conjuncted
+148961	conjuncted
+148963	conjuncted
+148968	conjuncted
+148971	conjuncted
+148977	conjuncted
+148994	conjuncted
+conjuncted
+148999	conjuncted
+149001	conjuncted
+149012	conjuncted
+149014	conjuncted
+149023	conjuncted
+conjuncted
+conjuncted
+conjuncted
 149037	conjuncted
-149042	conjuncted
-149052	conjuncted
-149081	conjuncted
-149086	conjuncted
-149098	conjuncted
-149100	conjuncted
+149040	conjuncted
+149060	conjuncted
+149071	conjuncted
+149076	conjuncted
+149096	conjuncted
 149113	conjuncted
+149116	conjuncted
+149120	conjuncted
 149135	conjuncted
-149145	conjuncted
+149137	conjuncted
+149141	conjuncted
+149148	conjuncted
 149158	conjuncted
-149164	conjuncted
-149188	conjuncted
-149196	conjuncted
-149212	conjuncted
-149215	conjuncted
-149217	conjuncted
-149226	conjuncted
-149239	conjuncted
-149242	conjuncted
-149264	conjuncted
-149268	conjuncted
+149168	conjuncted
+149172	conjuncted
+149183	conjuncted
+149185	conjuncted
+149193	conjuncted
+149216	conjuncted
+149218	conjuncted
+149248	conjuncted
+149255	conjuncted
 conjuncted
 conjuncted
-149272	conjuncted
-149285	conjuncted
+149260	conjuncted
+149262	conjuncted
+149266	conjuncted
+149271	conjuncted
+149277	conjuncted
 149287	conjuncted
-149305	conjuncted
-149307	conjuncted
-149319	conjuncted
-149324	conjuncted
-149333	conjuncted
+149290	conjuncted
+149297	conjuncted
+149301	conjuncted
+149303	conjuncted
+149315	conjuncted
+149320	conjuncted
+149323	conjuncted
 149336	conjuncted
-149359	conjuncted
+149338	conjuncted
 conjuncted
 conjuncted
-149366	conjuncted
-149374	conjuncted
-149382	conjuncted
-149387	conjuncted
-149389	conjuncted
-149400	conjuncted
-149410	conjuncted
-149442	conjuncted
-149447	conjuncted
-149454	conjuncted
-149465	conjuncted
+149351	conjuncted
+149358	conjuncted
+149362	conjuncted
+149369	conjuncted
+149377	conjuncted
+149381	conjuncted
+149392	conjuncted
+149394	conjuncted
+149399	conjuncted
+149401	conjuncted
+conjuncted
+149405	conjuncted
+149407	conjuncted
+149411	conjuncted
+149414	conjuncted
+149418	conjuncted
+149429	conjuncted
+149441	conjuncted
+149444	conjuncted
+149450	conjuncted
+149453	conjuncted
+149467	conjuncted
+149469	conjuncted
 149471	conjuncted
-149487	conjuncted
-149489	conjuncted
-149491	conjuncted
-149498	conjuncted
-149514	conjuncted
-149528	conjuncted
-149531	conjuncted
+149474	conjuncted
+149479	conjuncted
+149488	conjuncted
+149490	conjuncted
+149515	conjuncted
 149535	conjuncted
-149562	conjuncted
-149565	conjuncted
-149571	conjuncted
-149583	conjuncted
-149601	conjuncted
-149608	conjuncted
+conjuncted
+149538	conjuncted
+149605	conjuncted
 149613	conjuncted
-149615	conjuncted
-149621	conjuncted
-149639	conjuncted
-149647	conjuncted
-149652	conjuncted
+149617	conjuncted
+149627	conjuncted
+149629	conjuncted
+149636	conjuncted
+149638	conjuncted
+149646	conjuncted
+149655	conjuncted
 149659	conjuncted
-149664	conjuncted
+149665	conjuncted
 149673	conjuncted
-149686	conjuncted
-149714	conjuncted
-149723	conjuncted
-149734	conjuncted
-149744	conjuncted
-149750	conjuncted
-149761	conjuncted
-149768	conjuncted
+149680	conjuncted
+149688	conjuncted
+149699	conjuncted
+149726	conjuncted
+149752	conjuncted
 conjuncted
-149772	conjuncted
-149794	conjuncted
-149802	conjuncted
-149806	conjuncted
 conjuncted
-149825	conjuncted
+conjuncted
+149760	conjuncted
+149762	conjuncted
+149774	conjuncted
+149780	conjuncted
+149792	conjuncted
+149795	conjuncted
+149799	conjuncted
+149804	conjuncted
+conjuncted
 149827	conjuncted
-149842	conjuncted
-149868	conjuncted
-149892	conjuncted
-149901	conjuncted
-149911	conjuncted
-149913	conjuncted
-149915	conjuncted
+149844	conjuncted
+149855	conjuncted
+149869	conjuncted
+149875	conjuncted
+149887	conjuncted
+149889	conjuncted
+149903	conjuncted
+149905	conjuncted
+149920	conjuncted
+149927	conjuncted
+149929	conjuncted
+149933	conjuncted
 149942	conjuncted
-149955	conjuncted
-149963	conjuncted
-149972	conjuncted
 conjuncted
+149953	conjuncted
+149964	conjuncted
+149966	conjuncted
+149971	conjuncted
+149976	conjuncted
+149994	conjuncted
+150002	conjuncted
+150004	conjuncted
+150008	conjuncted
+150013	conjuncted
+150015	conjuncted
 conjuncted
-conjuncted
-conjuncted
-conjuncted
-149979	conjuncted
-149985	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-149998	conjuncted
-150005	conjuncted
-150007	conjuncted
-150010	conjuncted
+150018	conjuncted
+150022	conjuncted
 150024	conjuncted
-150027	conjuncted
-conjuncted
-150031	conjuncted
 150033	conjuncted
-150036	conjuncted
-150038	conjuncted
-150040	conjuncted
-150042	conjuncted
-150048	conjuncted
-150066	conjuncted
-150077	conjuncted
-150091	conjuncted
-150095	conjuncted
-150101	conjuncted
-150103	conjuncted
-150110	conjuncted
+150041	conjuncted
+150044	conjuncted
+150049	conjuncted
+150057	conjuncted
+150065	conjuncted
+150071	conjuncted
+150092	conjuncted
+150102	conjuncted
+150114	conjuncted
+150116	conjuncted
+150119	conjuncted
 150121	conjuncted
-150132	conjuncted
-150141	conjuncted
-150144	conjuncted
-150152	conjuncted
-150155	conjuncted
-150167	conjuncted
-150212	conjuncted
+150123	conjuncted
+150125	conjuncted
+150136	conjuncted
+150145	conjuncted
+150161	conjuncted
+150163	conjuncted
+150170	conjuncted
+150172	conjuncted
+150174	conjuncted
+150178	conjuncted
+150201	conjuncted
+150209	conjuncted
+150211	conjuncted
+150213	conjuncted
 150219	conjuncted
-150222	conjuncted
-150228	conjuncted
-150236	conjuncted
+150223	conjuncted
+150230	conjuncted
+150233	conjuncted
+150239	conjuncted
+150243	conjuncted
 150246	conjuncted
-150251	conjuncted
-150255	conjuncted
-150272	conjuncted
-150275	conjuncted
+150252	conjuncted
+150258	conjuncted
 150280	conjuncted
-150288	conjuncted
-150320	conjuncted
+150282	conjuncted
+150289	conjuncted
+150291	conjuncted
+150302	conjuncted
+150308	conjuncted
+150310	conjuncted
+150315	conjuncted
+150319	conjuncted
+150326	conjuncted
+150339	conjuncted
 150344	conjuncted
-150347	conjuncted
-150350	conjuncted
-150353	conjuncted
-150360	conjuncted
-150367	conjuncted
-150373	conjuncted
+150346	conjuncted
+150363	conjuncted
+150375	conjuncted
+150380	conjuncted
+150387	conjuncted
+150391	conjuncted
+150393	conjuncted
+150408	conjuncted
+150413	conjuncted
+150416	conjuncted
+150425	conjuncted
+150433	conjuncted
+150435	conjuncted
 conjuncted
-150410	conjuncted
-150412	conjuncted
-150424	conjuncted
-150428	conjuncted
-150451	conjuncted
 conjuncted
-conjuncted
-150457	conjuncted
-150466	conjuncted
-150468	conjuncted
-150475	conjuncted
-150489	conjuncted
-150512	conjuncted
-150514	conjuncted
-150516	conjuncted
+150456	conjuncted
+150459	conjuncted
+150483	conjuncted
+150490	conjuncted
+150495	conjuncted
+150497	conjuncted
+150499	conjuncted
 150518	conjuncted
 150520	conjuncted
+150527	conjuncted
 150530	conjuncted
-150536	conjuncted
-150543	conjuncted
-150547	conjuncted
-150549	conjuncted
-150564	conjuncted
-150570	conjuncted
-150576	conjuncted
-150578	conjuncted
-150588	conjuncted
-150595	conjuncted
-150608	conjuncted
-150619	conjuncted
-150629	conjuncted
-150633	conjuncted
-150649	conjuncted
-150657	conjuncted
-150667	conjuncted
-150675	conjuncted
-150677	conjuncted
-150681	conjuncted
-150687	conjuncted
-150693	conjuncted
-150712	conjuncted
-150718	conjuncted
-150720	conjuncted
-150722	conjuncted
-150734	conjuncted
+150535	conjuncted
+150539	conjuncted
 conjuncted
+150542	conjuncted
+150553	conjuncted
+150556	conjuncted
+conjuncted
+150561	conjuncted
+150571	conjuncted
+150574	conjuncted
+150582	conjuncted
+150587	conjuncted
+150593	conjuncted
+150595	conjuncted
+conjuncted
+150604	conjuncted
+150606	conjuncted
+150612	conjuncted
+150616	conjuncted
+150636	conjuncted
+150638	conjuncted
+150644	conjuncted
+conjuncted
+conjuncted
+150650	conjuncted
+150652	conjuncted
+150654	conjuncted
+conjuncted
+150657	conjuncted
+150668	conjuncted
+150670	conjuncted
+conjuncted
+150673	conjuncted
+150701	conjuncted
+150716	conjuncted
+150723	conjuncted
+150740	conjuncted
+150742	conjuncted
+150746	conjuncted
+150751	conjuncted
+150753	conjuncted
 150758	conjuncted
 150762	conjuncted
-conjuncted
-conjuncted
-150780	conjuncted
-150782	conjuncted
-150788	conjuncted
-conjuncted
-conjuncted
-150796	conjuncted
-150822	conjuncted
-150834	conjuncted
-150837	conjuncted
-conjuncted
-150844	conjuncted
-150873	conjuncted
-150885	conjuncted
-150897	conjuncted
-conjuncted
-conjuncted
-150903	conjuncted
-150920	conjuncted
-150927	conjuncted
-150932	conjuncted
-150938	conjuncted
-150948	conjuncted
-150950	conjuncted
-150953	conjuncted
-150980	conjuncted
-150982	conjuncted
+150764	conjuncted
+150770	conjuncted
+150774	conjuncted
+150783	conjuncted
+150787	conjuncted
+150789	conjuncted
+150800	conjuncted
+150805	conjuncted
+150826	conjuncted
+150829	conjuncted
+150842	conjuncted
+150846	conjuncted
+150848	conjuncted
+150859	conjuncted
+150882	conjuncted
+150886	conjuncted
+150891	conjuncted
+150900	conjuncted
+150918	conjuncted
+150922	conjuncted
+150944	conjuncted
+150946	conjuncted
+150952	conjuncted
+150959	conjuncted
+150962	conjuncted
+150981	conjuncted
 150985	conjuncted
-151009	conjuncted
-151012	conjuncted
+150996	conjuncted
+151004	conjuncted
+151010	conjuncted
+conjuncted
 151020	conjuncted
-151035	conjuncted
-151059	conjuncted
-conjuncted
-151063	conjuncted
-151074	conjuncted
-151076	conjuncted
+151025	conjuncted
+151041	conjuncted
+151058	conjuncted
+151060	conjuncted
 151078	conjuncted
-151085	conjuncted
-151089	conjuncted
-151098	conjuncted
+151080	conjuncted
+151082	conjuncted
+151094	conjuncted
+151103	conjuncted
+151112	conjuncted
 151117	conjuncted
-conjuncted
-151124	conjuncted
-151127	conjuncted
+151126	conjuncted
+151140	conjuncted
 151142	conjuncted
 151144	conjuncted
-151156	conjuncted
+151158	conjuncted
+151161	conjuncted
+151183	conjuncted
+151186	conjuncted
+151192	conjuncted
+151195	conjuncted
+151199	conjuncted
+151203	conjuncted
+151205	conjuncted
+151207	conjuncted
+151209	conjuncted
 conjuncted
-conjuncted
-conjuncted
-151171	conjuncted
-151176	conjuncted
-151202	conjuncted
-151215	conjuncted
-151220	conjuncted
-151244	conjuncted
-151263	conjuncted
-151267	conjuncted
-151272	conjuncted
-151290	conjuncted
+151218	conjuncted
+151221	conjuncted
+151236	conjuncted
+151252	conjuncted
+151255	conjuncted
+151257	conjuncted
+151268	conjuncted
+151279	conjuncted
+151281	conjuncted
+151288	conjuncted
 151292	conjuncted
-151297	conjuncted
+151303	conjuncted
 151307	conjuncted
-151319	conjuncted
+151310	conjuncted
+conjuncted
+151327	conjuncted
+151330	conjuncted
 151332	conjuncted
-151337	conjuncted
-151351	conjuncted
-151353	conjuncted
-151363	conjuncted
-151390	conjuncted
-151392	conjuncted
+151342	conjuncted
+151355	conjuncted
+151357	conjuncted
+151366	conjuncted
+151368	conjuncted
+151381	conjuncted
+151383	conjuncted
+151396	conjuncted
+151402	conjuncted
+151405	conjuncted
+151418	conjuncted
+151420	conjuncted
+151422	conjuncted
 151426	conjuncted
-151436	conjuncted
-conjuncted
-conjuncted
-151442	conjuncted
-151444	conjuncted
-151450	conjuncted
-151456	conjuncted
-151463	conjuncted
-151477	conjuncted
+151434	conjuncted
+151439	conjuncted
+151451	conjuncted
+151454	conjuncted
+151462	conjuncted
+151466	conjuncted
+151474	conjuncted
 151480	conjuncted
-151489	conjuncted
-151494	conjuncted
-151496	conjuncted
-151510	conjuncted
-151516	conjuncted
-151521	conjuncted
-151538	conjuncted
+151484	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+151495	conjuncted
+conjuncted
+151501	conjuncted
+151503	conjuncted
+conjuncted
+conjuncted
+conjuncted
+151509	conjuncted
+151520	conjuncted
 151541	conjuncted
-151543	conjuncted
-conjuncted
-151555	conjuncted
-151563	conjuncted
-151568	conjuncted
-151577	conjuncted
-151587	conjuncted
-151592	conjuncted
-151604	conjuncted
-151607	conjuncted
-151613	conjuncted
-151616	conjuncted
-conjuncted
-151621	conjuncted
-151624	conjuncted
-151630	conjuncted
-151633	conjuncted
-151638	conjuncted
-151651	conjuncted
-151664	conjuncted
-151668	conjuncted
-151676	conjuncted
-151680	conjuncted
-151697	conjuncted
-151699	conjuncted
-151701	conjuncted
-151704	conjuncted
-151711	conjuncted
-151723	conjuncted
-151725	conjuncted
-151752	conjuncted
-151775	conjuncted
-conjuncted
-151778	conjuncted
-151849	conjuncted
-151859	conjuncted
+151544	conjuncted
+151546	conjuncted
+151551	conjuncted
+151573	conjuncted
+151597	conjuncted
+151603	conjuncted
+151641	conjuncted
+151643	conjuncted
+151649	conjuncted
+151653	conjuncted
+151659	conjuncted
+151663	conjuncted
+151666	conjuncted
+151669	conjuncted
+151687	conjuncted
+151692	conjuncted
+151703	conjuncted
+151708	conjuncted
+151714	conjuncted
+151717	conjuncted
+151726	conjuncted
+151734	conjuncted
+151736	conjuncted
+151743	conjuncted
+151745	conjuncted
+151750	conjuncted
+151760	conjuncted
+151765	conjuncted
+151767	conjuncted
+151793	conjuncted
+151813	conjuncted
+151820	conjuncted
+151823	conjuncted
+151825	conjuncted
+151828	conjuncted
+151830	conjuncted
+151833	conjuncted
+151838	conjuncted
+151854	conjuncted
+151856	conjuncted
+151860	conjuncted
 151864	conjuncted
-151875	conjuncted
+151866	conjuncted
+151871	conjuncted
 151877	conjuncted
-151887	conjuncted
-151889	conjuncted
-151902	conjuncted
-151914	conjuncted
-151919	conjuncted
-151927	conjuncted
-151936	conjuncted
-151944	conjuncted
-151951	conjuncted
-151966	conjuncted
-152000	conjuncted
-152034	conjuncted
-152036	conjuncted
-152039	conjuncted
+151881	conjuncted
+151888	conjuncted
+151891	conjuncted
+151895	conjuncted
+151900	conjuncted
+151905	conjuncted
+151915	conjuncted
+151925	conjuncted
+151928	conjuncted
 conjuncted
-152045	conjuncted
+conjuncted
+151939	conjuncted
+151943	conjuncted
+151965	conjuncted
+151986	conjuncted
+151990	conjuncted
+151994	conjuncted
+152000	conjuncted
+152005	conjuncted
+152008	conjuncted
+152013	conjuncted
+152015	conjuncted
+152020	conjuncted
+152022	conjuncted
+152026	conjuncted
+conjuncted
+152041	conjuncted
 152047	conjuncted
+152051	conjuncted
+152053	conjuncted
+152055	conjuncted
 152068	conjuncted
-152076	conjuncted
-152089	conjuncted
-152093	conjuncted
-152099	conjuncted
-152107	conjuncted
-152109	conjuncted
-152134	conjuncted
-152157	conjuncted
-152172	conjuncted
-152189	conjuncted
-152196	conjuncted
+152085	conjuncted
+152106	conjuncted
+152108	conjuncted
+152111	conjuncted
+152116	conjuncted
+152142	conjuncted
+152144	conjuncted
+152146	conjuncted
+conjuncted
+152149	conjuncted
+152151	conjuncted
+152155	conjuncted
+conjuncted
+conjuncted
+152163	conjuncted
+152175	conjuncted
+152177	conjuncted
+152181	conjuncted
+152188	conjuncted
+152193	conjuncted
 152209	conjuncted
-152212	conjuncted
-152227	conjuncted
-152229	conjuncted
-152247	conjuncted
-152257	conjuncted
-152259	conjuncted
-152264	conjuncted
-152274	conjuncted
-152276	conjuncted
-152287	conjuncted
-152302	conjuncted
-152305	conjuncted
-152311	conjuncted
+152214	conjuncted
+152225	conjuncted
+152235	conjuncted
+152239	conjuncted
+152248	conjuncted
+152250	conjuncted
+conjuncted
+152253	conjuncted
+152261	conjuncted
+conjuncted
+152267	conjuncted
+152269	conjuncted
+152278	conjuncted
+152282	conjuncted
+152291	conjuncted
+152299	conjuncted
+conjuncted
+152306	conjuncted
+152314	conjuncted
 152317	conjuncted
-152337	conjuncted
-152347	conjuncted
-152350	conjuncted
-152355	conjuncted
-152361	conjuncted
+152320	conjuncted
+152322	conjuncted
+152324	conjuncted
+152334	conjuncted
+152336	conjuncted
+152348	conjuncted
+152351	conjuncted
 152364	conjuncted
 conjuncted
-152367	conjuncted
-152373	conjuncted
+conjuncted
 152377	conjuncted
-152387	conjuncted
+152379	conjuncted
+152385	conjuncted
+152388	conjuncted
 152397	conjuncted
+152399	conjuncted
 152401	conjuncted
-152407	conjuncted
-152417	conjuncted
-152426	conjuncted
-152433	conjuncted
-152462	conjuncted
-152474	conjuncted
-152488	conjuncted
-152490	conjuncted
-152494	conjuncted
-152496	conjuncted
+152430	conjuncted
+152432	conjuncted
+152441	conjuncted
+152443	conjuncted
+152449	conjuncted
+152451	conjuncted
+152456	conjuncted
+152458	conjuncted
+152483	conjuncted
 152500	conjuncted
 152502	conjuncted
-152515	conjuncted
-152526	conjuncted
-152546	conjuncted
+152508	conjuncted
+152521	conjuncted
+152534	conjuncted
 152548	conjuncted
-152558	conjuncted
-152560	conjuncted
-152562	conjuncted
-152567	conjuncted
-152592	conjuncted
-152602	conjuncted
-152604	conjuncted
-152607	conjuncted
-152616	conjuncted
-152621	conjuncted
-152631	conjuncted
-152635	conjuncted
-152642	conjuncted
-152648	conjuncted
-152651	conjuncted
-152659	conjuncted
-152666	conjuncted
-152691	conjuncted
-152693	conjuncted
-152701	conjuncted
-152703	conjuncted
-152716	conjuncted
+152552	conjuncted
+152570	conjuncted
+152578	conjuncted
+conjuncted
+conjuncted
+conjuncted
+152584	conjuncted
+152603	conjuncted
+152605	conjuncted
+152619	conjuncted
+conjuncted
+152622	conjuncted
+152625	conjuncted
+152630	conjuncted
+152632	conjuncted
+152634	conjuncted
+152636	conjuncted
+152638	conjuncted
+152640	conjuncted
+152644	conjuncted
+152646	conjuncted
+152655	conjuncted
+152660	conjuncted
+152667	conjuncted
+152671	conjuncted
+152678	conjuncted
+152698	conjuncted
+152712	conjuncted
+conjuncted
+152724	conjuncted
 152726	conjuncted
-152728	conjuncted
-152735	conjuncted
-152740	conjuncted
-152751	conjuncted
-152765	conjuncted
-152772	conjuncted
-152774	conjuncted
-152798	conjuncted
-152814	conjuncted
-152818	conjuncted
+152738	conjuncted
+152743	conjuncted
+152745	conjuncted
+152747	conjuncted
+152752	conjuncted
+152754	conjuncted
+152764	conjuncted
+152773	conjuncted
+152775	conjuncted
+152797	conjuncted
+152799	conjuncted
+conjuncted
+conjuncted
+152803	conjuncted
+152811	conjuncted
+152813	conjuncted
 152827	conjuncted
+152829	conjuncted
 152833	conjuncted
-152835	conjuncted
-152855	conjuncted
-152861	conjuncted
-152865	conjuncted
-152877	conjuncted
-152888	conjuncted
-152892	conjuncted
+152837	conjuncted
 conjuncted
+152850	conjuncted
+152853	conjuncted
 conjuncted
-152915	conjuncted
-152919	conjuncted
-152947	conjuncted
-152955	conjuncted
+152862	conjuncted
+152868	conjuncted
+152875	conjuncted
+152879	conjuncted
+152891	conjuncted
+152894	conjuncted
+152896	conjuncted
+152904	conjuncted
+152923	conjuncted
+152939	conjuncted
+152942	conjuncted
+152944	conjuncted
+152946	conjuncted
+152953	conjuncted
 152960	conjuncted
-152964	conjuncted
-152966	conjuncted
-152987	conjuncted
-152990	conjuncted
-152999	conjuncted
-153004	conjuncted
-153010	conjuncted
-153018	conjuncted
-conjuncted
-153021	conjuncted
-153036	conjuncted
-153040	conjuncted
-153042	conjuncted
+152963	conjuncted
+152969	conjuncted
+152973	conjuncted
+152975	conjuncted
+152989	conjuncted
+152993	conjuncted
+153005	conjuncted
+153012	conjuncted
+153029	conjuncted
+153043	conjuncted
 153047	conjuncted
 153061	conjuncted
-153064	conjuncted
-153075	conjuncted
-153082	conjuncted
-153089	conjuncted
-153092	conjuncted
+153067	conjuncted
+153083	conjuncted
+153085	conjuncted
+153100	conjuncted
+153107	conjuncted
+153114	conjuncted
+153118	conjuncted
+153120	conjuncted
+153125	conjuncted
+153127	conjuncted
+153141	conjuncted
+153158	conjuncted
+153166	conjuncted
+153171	conjuncted
+153173	conjuncted
+153180	conjuncted
+153187	conjuncted
+153194	conjuncted
+153205	conjuncted
+153210	conjuncted
+153213	conjuncted
 conjuncted
-153103	conjuncted
-153105	conjuncted
-153112	conjuncted
-153117	conjuncted
-153142	conjuncted
-153144	conjuncted
-153151	conjuncted
-conjuncted
-153154	conjuncted
-153161	conjuncted
-153163	conjuncted
-153167	conjuncted
-conjuncted
-153172	conjuncted
-153188	conjuncted
-153191	conjuncted
-conjuncted
-153195	conjuncted
 153224	conjuncted
-153240	conjuncted
-153248	conjuncted
-153267	conjuncted
+153249	conjuncted
+conjuncted
+conjuncted
+153257	conjuncted
+153262	conjuncted
+153266	conjuncted
 153269	conjuncted
-153275	conjuncted
-153281	conjuncted
-153283	conjuncted
-153290	conjuncted
-153295	conjuncted
-153297	conjuncted
+conjuncted
+153277	conjuncted
+153282	conjuncted
+153286	conjuncted
+153301	conjuncted
 153304	conjuncted
-153311	conjuncted
-153323	conjuncted
-153327	conjuncted
-153329	conjuncted
-153420	conjuncted
-153426	conjuncted
-153451	conjuncted
-153455	conjuncted
-153470	conjuncted
-153476	conjuncted
-153478	conjuncted
-153491	conjuncted
-153518	conjuncted
+153306	conjuncted
+153309	conjuncted
+153326	conjuncted
+conjuncted
+conjuncted
+conjuncted
+153337	conjuncted
+153348	conjuncted
+153352	conjuncted
+153357	conjuncted
+153363	conjuncted
+153368	conjuncted
+153371	conjuncted
+153375	conjuncted
+conjuncted
+153379	conjuncted
+153384	conjuncted
+153387	conjuncted
+153405	conjuncted
+153439	conjuncted
+conjuncted
+153442	conjuncted
+153479	conjuncted
+153481	conjuncted
+153487	conjuncted
+153494	conjuncted
+153511	conjuncted
+153514	conjuncted
+153517	conjuncted
 153523	conjuncted
-153530	conjuncted
-153542	conjuncted
-153562	conjuncted
-153567	conjuncted
-153593	conjuncted
-153595	conjuncted
+153527	conjuncted
+153535	conjuncted
+153548	conjuncted
+153568	conjuncted
+153599	conjuncted
 153604	conjuncted
-153613	conjuncted
-153617	conjuncted
-153639	conjuncted
-153645	conjuncted
-153659	conjuncted
-153668	conjuncted
-153676	conjuncted
+153612	conjuncted
+153621	conjuncted
+153624	conjuncted
+153626	conjuncted
+153629	conjuncted
+153640	conjuncted
+153648	conjuncted
+153656	conjuncted
+153665	conjuncted
+153670	conjuncted
+153673	conjuncted
+153677	conjuncted
+153681	conjuncted
+153683	conjuncted
+153726	conjuncted
 conjuncted
-153687	conjuncted
-153693	conjuncted
-153710	conjuncted
-153730	conjuncted
-153732	conjuncted
-153751	conjuncted
-153753	conjuncted
-153756	conjuncted
-153769	conjuncted
-153780	conjuncted
-153788	conjuncted
-153794	conjuncted
-153804	conjuncted
-153820	conjuncted
-153823	conjuncted
-153828	conjuncted
-153845	conjuncted
-153848	conjuncted
-153870	conjuncted
-153874	conjuncted
-153881	conjuncted
-153885	conjuncted
-153890	conjuncted
+153729	conjuncted
+153739	conjuncted
+153745	conjuncted
+conjuncted
+conjuncted
+153749	conjuncted
+153758	conjuncted
+153762	conjuncted
+153777	conjuncted
+153782	conjuncted
+153786	conjuncted
+153789	conjuncted
+153791	conjuncted
+153795	conjuncted
+conjuncted
+153798	conjuncted
+153805	conjuncted
+153813	conjuncted
+153819	conjuncted
+153821	conjuncted
+153836	conjuncted
+153842	conjuncted
+153851	conjuncted
 153895	conjuncted
-153898	conjuncted
-153902	conjuncted
-153905	conjuncted
 conjuncted
+153899	conjuncted
+153901	conjuncted
 153916	conjuncted
 153920	conjuncted
-153936	conjuncted
-153957	conjuncted
-153961	conjuncted
-153963	conjuncted
-153975	conjuncted
+153943	conjuncted
+153945	conjuncted
+153947	conjuncted
+conjuncted
+153962	conjuncted
+153969	conjuncted
+153976	conjuncted
+153981	conjuncted
+153985	conjuncted
 153987	conjuncted
 153990	conjuncted
-153998	conjuncted
-154003	conjuncted
+conjuncted
+154004	conjuncted
+conjuncted
 154016	conjuncted
-154021	conjuncted
-154025	conjuncted
-154027	conjuncted
-154048	conjuncted
-154051	conjuncted
-154054	conjuncted
-154065	conjuncted
+154022	conjuncted
+154024	conjuncted
+154034	conjuncted
+154044	conjuncted
+154050	conjuncted
+154057	conjuncted
+154060	conjuncted
+154067	conjuncted
 154077	conjuncted
 154079	conjuncted
-154088	conjuncted
-154091	conjuncted
+154084	conjuncted
+conjuncted
 154106	conjuncted
-154109	conjuncted
-154124	conjuncted
 154129	conjuncted
 154132	conjuncted
-154146	conjuncted
-154148	conjuncted
-154151	conjuncted
+154134	conjuncted
+conjuncted
+conjuncted
+154139	conjuncted
+154141	conjuncted
+154143	conjuncted
+154150	conjuncted
+154152	conjuncted
 154158	conjuncted
-154167	conjuncted
-154174	conjuncted
-154187	conjuncted
+154165	conjuncted
+154170	conjuncted
+154177	conjuncted
+154186	conjuncted
 154191	conjuncted
+154194	conjuncted
+154197	conjuncted
 154200	conjuncted
-154205	conjuncted
-154214	conjuncted
-154222	conjuncted
-154230	conjuncted
-154232	conjuncted
+154210	conjuncted
+154218	conjuncted
+154224	conjuncted
 conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-154243	conjuncted
-conjuncted
-154252	conjuncted
-154255	conjuncted
-154258	conjuncted
-conjuncted
-154261	conjuncted
-154265	conjuncted
-154278	conjuncted
-154302	conjuncted
+154235	conjuncted
+154237	conjuncted
+154266	conjuncted
+154282	conjuncted
+154285	conjuncted
+154293	conjuncted
+154304	conjuncted
 154306	conjuncted
-154308	conjuncted
-154315	conjuncted
-154339	conjuncted
-154366	conjuncted
-154373	conjuncted
-154418	conjuncted
-154420	conjuncted
+154311	conjuncted
+154321	conjuncted
+154324	conjuncted
+154330	conjuncted
+154336	conjuncted
+154338	conjuncted
+154353	conjuncted
+154357	conjuncted
+154362	conjuncted
+conjuncted
+154372	conjuncted
+154378	conjuncted
+154385	conjuncted
+154391	conjuncted
+154393	conjuncted
+154395	conjuncted
+154406	conjuncted
+154408	conjuncted
 154425	conjuncted
-154430	conjuncted
-154437	conjuncted
-154442	conjuncted
-154446	conjuncted
-154450	conjuncted
-154469	conjuncted
-154476	conjuncted
-154488	conjuncted
-154495	conjuncted
+154433	conjuncted
+154435	conjuncted
+154438	conjuncted
+154443	conjuncted
+154451	conjuncted
+154453	conjuncted
+154463	conjuncted
+154467	conjuncted
+conjuncted
+conjuncted
+conjuncted
+154474	conjuncted
+conjuncted
+conjuncted
+conjuncted
+154483	conjuncted
+154489	conjuncted
+154500	conjuncted
 154502	conjuncted
-154507	conjuncted
-154517	conjuncted
-154524	conjuncted
-154526	conjuncted
-154534	conjuncted
-154536	conjuncted
-154543	conjuncted
-154553	conjuncted
-154558	conjuncted
-154560	conjuncted
+conjuncted
+154508	conjuncted
+conjuncted
+154522	conjuncted
+154529	conjuncted
+154548	conjuncted
+154555	conjuncted
+154566	conjuncted
+154571	conjuncted
+conjuncted
 154589	conjuncted
-154610	conjuncted
-154618	conjuncted
-154623	conjuncted
-154625	conjuncted
-154630	conjuncted
-154632	conjuncted
-154637	conjuncted
-154643	conjuncted
-154661	conjuncted
-154664	conjuncted
-154669	conjuncted
-154674	conjuncted
-154676	conjuncted
-154682	conjuncted
-154690	conjuncted
-154694	conjuncted
-154702	conjuncted
-154705	conjuncted
-154710	conjuncted
-154716	conjuncted
-154722	conjuncted
-154733	conjuncted
-154745	conjuncted
+154594	conjuncted
+154596	conjuncted
+154619	conjuncted
+154629	conjuncted
+154631	conjuncted
+conjuncted
+conjuncted
+154635	conjuncted
+154658	conjuncted
+154660	conjuncted
+154673	conjuncted
+154683	conjuncted
+154692	conjuncted
+154701	conjuncted
+conjuncted
+154704	conjuncted
+conjuncted
+conjuncted
+154713	conjuncted
+154718	conjuncted
+conjuncted
+154732	conjuncted
+154737	conjuncted
+154739	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
 154750	conjuncted
+154763	conjuncted
+154774	conjuncted
+154805	conjuncted
 conjuncted
+154814	conjuncted
+154818	conjuncted
 conjuncted
-154762	conjuncted
-154768	conjuncted
-154793	conjuncted
-154815	conjuncted
-154820	conjuncted
-154825	conjuncted
-154833	conjuncted
-154839	conjuncted
-154843	conjuncted
-154851	conjuncted
-154853	conjuncted
-154860	conjuncted
-154862	conjuncted
+154823	conjuncted
+154832	conjuncted
+154835	conjuncted
+154845	conjuncted
+154848	conjuncted
+154859	conjuncted
 154870	conjuncted
 154872	conjuncted
-154888	conjuncted
-154896	conjuncted
-154900	conjuncted
-154902	conjuncted
-154904	conjuncted
-154921	conjuncted
-154943	conjuncted
+154878	conjuncted
+154901	conjuncted
+154907	conjuncted
+154913	conjuncted
+154920	conjuncted
+154926	conjuncted
+154930	conjuncted
+154935	conjuncted
+154947	conjuncted
+154949	conjuncted
+154952	conjuncted
+154959	conjuncted
+154965	conjuncted
 154967	conjuncted
-154970	conjuncted
+154969	conjuncted
+154971	conjuncted
 154974	conjuncted
-154980	conjuncted
-155007	conjuncted
+154979	conjuncted
+154982	conjuncted
+154994	conjuncted
+conjuncted
+155004	conjuncted
 155011	conjuncted
-155014	conjuncted
-conjuncted
-155018	conjuncted
-155023	conjuncted
-155030	conjuncted
-155033	conjuncted
-conjuncted
-155043	conjuncted
-155056	conjuncted
-155058	conjuncted
-155063	conjuncted
-155071	conjuncted
-155077	conjuncted
-155094	conjuncted
-155100	conjuncted
-155114	conjuncted
-155125	conjuncted
-155129	conjuncted
+155022	conjuncted
+155024	conjuncted
+155039	conjuncted
+155045	conjuncted
+155049	conjuncted
+155051	conjuncted
+155053	conjuncted
+155060	conjuncted
+155099	conjuncted
+155110	conjuncted
+155126	conjuncted
 155139	conjuncted
-155142	conjuncted
-conjuncted
+155141	conjuncted
+155143	conjuncted
 155145	conjuncted
+155149	conjuncted
 155154	conjuncted
+155161	conjuncted
+155166	conjuncted
+155168	conjuncted
+155173	conjuncted
 conjuncted
-155162	conjuncted
-155164	conjuncted
-155175	conjuncted
 155180	conjuncted
+155182	conjuncted
+155189	conjuncted
 155191	conjuncted
-155201	conjuncted
-conjuncted
+155197	conjuncted
 155209	conjuncted
-155218	conjuncted
-155222	conjuncted
-155226	conjuncted
-155230	conjuncted
-155232	conjuncted
-155244	conjuncted
-155247	conjuncted
-155262	conjuncted
-155266	conjuncted
-155282	conjuncted
-conjuncted
-conjuncted
-155297	conjuncted
-155300	conjuncted
-155307	conjuncted
-155312	conjuncted
-155324	conjuncted
-155327	conjuncted
-155329	conjuncted
-155360	conjuncted
+155213	conjuncted
+155219	conjuncted
+155227	conjuncted
+155231	conjuncted
+155241	conjuncted
+155245	conjuncted
+155249	conjuncted
+155255	conjuncted
+155273	conjuncted
+155287	conjuncted
+155296	conjuncted
+155302	conjuncted
+155304	conjuncted
+155311	conjuncted
+155318	conjuncted
+155333	conjuncted
+155335	conjuncted
+155343	conjuncted
+155349	conjuncted
+155354	conjuncted
+155359	conjuncted
+155361	conjuncted
 155363	conjuncted
-155373	conjuncted
-155376	conjuncted
 155384	conjuncted
 155386	conjuncted
-155393	conjuncted
-155395	conjuncted
-155422	conjuncted
-155441	conjuncted
-155443	conjuncted
-155450	conjuncted
+155391	conjuncted
+155413	conjuncted
+155423	conjuncted
+155439	conjuncted
+155442	conjuncted
+155446	conjuncted
+155455	conjuncted
 155464	conjuncted
-155476	conjuncted
-155492	conjuncted
-155497	conjuncted
-155517	conjuncted
-155526	conjuncted
+155475	conjuncted
+155487	conjuncted
+155489	conjuncted
+155503	conjuncted
 conjuncted
-conjuncted
-conjuncted
+155511	conjuncted
+155514	conjuncted
+155522	conjuncted
+155529	conjuncted
 155533	conjuncted
-155556	conjuncted
-155558	conjuncted
-155574	conjuncted
-155576	conjuncted
-155578	conjuncted
-155582	conjuncted
-155590	conjuncted
-155592	conjuncted
-155594	conjuncted
-155596	conjuncted
-155598	conjuncted
-155600	conjuncted
-155607	conjuncted
-155609	conjuncted
+155550	conjuncted
+155555	conjuncted
+155559	conjuncted
+155565	conjuncted
+155569	conjuncted
+155588	conjuncted
+conjuncted
+155605	conjuncted
+155610	conjuncted
 155620	conjuncted
-155627	conjuncted
-155634	conjuncted
-155637	conjuncted
-155645	conjuncted
-155667	conjuncted
-155684	conjuncted
-conjuncted
-155698	conjuncted
-155701	conjuncted
-155714	conjuncted
+155630	conjuncted
+155642	conjuncted
+155658	conjuncted
+155687	conjuncted
+155700	conjuncted
+155702	conjuncted
+155704	conjuncted
 155721	conjuncted
-155723	conjuncted
-155725	conjuncted
-155732	conjuncted
-155734	conjuncted
 155744	conjuncted
-155755	conjuncted
-155757	conjuncted
-155778	conjuncted
-155781	conjuncted
 conjuncted
 conjuncted
-155785	conjuncted
-155795	conjuncted
-155797	conjuncted
-155812	conjuncted
-155815	conjuncted
-155821	conjuncted
-155827	conjuncted
 conjuncted
-155842	conjuncted
+155750	conjuncted
+155758	conjuncted
+155764	conjuncted
+155766	conjuncted
+155768	conjuncted
+155770	conjuncted
+155773	conjuncted
+155777	conjuncted
+155779	conjuncted
+155833	conjuncted
 155846	conjuncted
-conjuncted
+155848	conjuncted
 155854	conjuncted
-155861	conjuncted
-155870	conjuncted
-155875	conjuncted
-155888	conjuncted
-155893	conjuncted
-155895	conjuncted
-155903	conjuncted
-155924	conjuncted
-155941	conjuncted
-155944	conjuncted
-155946	conjuncted
-155948	conjuncted
-155956	conjuncted
-155964	conjuncted
-155967	conjuncted
-155975	conjuncted
-155980	conjuncted
-155982	conjuncted
-155999	conjuncted
-156003	conjuncted
-156017	conjuncted
-156023	conjuncted
-156040	conjuncted
-156056	conjuncted
-156061	conjuncted
-156077	conjuncted
-156083	conjuncted
-156102	conjuncted
-156104	conjuncted
-156120	conjuncted
-156128	conjuncted
+155881	conjuncted
+155899	conjuncted
+155912	conjuncted
+155922	conjuncted
+155931	conjuncted
+155936	conjuncted
+155942	conjuncted
+155952	conjuncted
+155995	conjuncted
+156007	conjuncted
+156010	conjuncted
+156020	conjuncted
+156033	conjuncted
+156043	conjuncted
+156053	conjuncted
+156064	conjuncted
+156091	conjuncted
+156109	conjuncted
+156131	conjuncted
 156136	conjuncted
-156141	conjuncted
+156138	conjuncted
+156140	conjuncted
+156142	conjuncted
 156144	conjuncted
-156151	conjuncted
-156153	conjuncted
-156169	conjuncted
-156189	conjuncted
-156199	conjuncted
-156205	conjuncted
-156207	conjuncted
-156215	conjuncted
-156224	conjuncted
-156232	conjuncted
-156242	conjuncted
-156249	conjuncted
-156254	conjuncted
 conjuncted
-156265	conjuncted
-156292	conjuncted
+156158	conjuncted
+156164	conjuncted
+156166	conjuncted
+156178	conjuncted
+156181	conjuncted
 conjuncted
-conjuncted
+156187	conjuncted
+156195	conjuncted
+156198	conjuncted
+156209	conjuncted
+156229	conjuncted
+156231	conjuncted
+156246	conjuncted
+156272	conjuncted
+156274	conjuncted
+156296	conjuncted
 156302	conjuncted
-156309	conjuncted
-156318	conjuncted
-156323	conjuncted
+156304	conjuncted
+156319	conjuncted
+156328	conjuncted
 conjuncted
-156333	conjuncted
-156340	conjuncted
-156346	conjuncted
-156366	conjuncted
-156369	conjuncted
-156371	conjuncted
-156375	conjuncted
+156334	conjuncted
+156341	conjuncted
+156349	conjuncted
+156354	conjuncted
+156370	conjuncted
+156373	conjuncted
+156382	conjuncted
+conjuncted
+156385	conjuncted
 156395	conjuncted
 conjuncted
+156401	conjuncted
+156403	conjuncted
 conjuncted
-conjuncted
-156406	conjuncted
+156410	conjuncted
 156419	conjuncted
-156424	conjuncted
-156430	conjuncted
-156437	conjuncted
-156443	conjuncted
-156446	conjuncted
-156452	conjuncted
 conjuncted
-156457	conjuncted
-156463	conjuncted
-156467	conjuncted
-156487	conjuncted
+156423	conjuncted
+156448	conjuncted
+156458	conjuncted
+156460	conjuncted
+conjuncted
+156464	conjuncted
+156474	conjuncted
+156483	conjuncted
+156490	conjuncted
+156503	conjuncted
+156516	conjuncted
+156522	conjuncted
 156527	conjuncted
-conjuncted
 156531	conjuncted
-156570	conjuncted
-156572	conjuncted
-156578	conjuncted
-156587	conjuncted
-156608	conjuncted
-156612	conjuncted
-156616	conjuncted
-156623	conjuncted
-156627	conjuncted
-156637	conjuncted
-156653	conjuncted
-156676	conjuncted
-156710	conjuncted
-156716	conjuncted
-156726	conjuncted
-156737	conjuncted
-156742	conjuncted
-156744	conjuncted
-156747	conjuncted
-156760	conjuncted
-156769	conjuncted
-156781	conjuncted
-156794	conjuncted
-156799	conjuncted
-156806	conjuncted
-156810	conjuncted
+156534	conjuncted
+conjuncted
+conjuncted
+156538	conjuncted
+conjuncted
+156542	conjuncted
+156545	conjuncted
+156547	conjuncted
+156555	conjuncted
+156558	conjuncted
+156564	conjuncted
+conjuncted
+conjuncted
+conjuncted
+156569	conjuncted
+156582	conjuncted
+156584	conjuncted
+156595	conjuncted
+156600	conjuncted
+156602	conjuncted
+156604	conjuncted
+156606	conjuncted
+156611	conjuncted
+conjuncted
+conjuncted
+156615	conjuncted
+156617	conjuncted
+156625	conjuncted
+156631	conjuncted
+156638	conjuncted
+156659	conjuncted
+conjuncted
+156665	conjuncted
+conjuncted
+conjuncted
+156684	conjuncted
+156688	conjuncted
+156702	conjuncted
+156715	conjuncted
+156720	conjuncted
+156725	conjuncted
+156735	conjuncted
+156766	conjuncted
+156773	conjuncted
+156791	conjuncted
+156801	conjuncted
 156816	conjuncted
-156818	conjuncted
-156866	conjuncted
+156821	conjuncted
+156825	conjuncted
+156845	conjuncted
+156851	conjuncted
+156853	conjuncted
+156864	conjuncted
+156884	conjuncted
 conjuncted
-156870	conjuncted
-156880	conjuncted
-156889	conjuncted
+156908	conjuncted
+156921	conjuncted
 conjuncted
-conjuncted
-156894	conjuncted
-156906	conjuncted
-156912	conjuncted
-156930	conjuncted
-156936	conjuncted
-156942	conjuncted
-156946	conjuncted
-156948	conjuncted
-156954	conjuncted
-conjuncted
-156959	conjuncted
-156970	conjuncted
-156979	conjuncted
-156987	conjuncted
-156990	conjuncted
+156935	conjuncted
+156939	conjuncted
+156971	conjuncted
+156992	conjuncted
+156997	conjuncted
 157008	conjuncted
-157015	conjuncted
-157025	conjuncted
-157070	conjuncted
+157012	conjuncted
+157029	conjuncted
+157041	conjuncted
 conjuncted
-157075	conjuncted
-157077	conjuncted
-157093	conjuncted
-157099	conjuncted
-157127	conjuncted
-157129	conjuncted
-157132	conjuncted
+157046	conjuncted
+157051	conjuncted
+157055	conjuncted
+157062	conjuncted
+157068	conjuncted
+157102	conjuncted
+157118	conjuncted
+157133	conjuncted
 conjuncted
-157146	conjuncted
-157153	conjuncted
-157161	conjuncted
-157167	conjuncted
-157173	conjuncted
+conjuncted
 157175	conjuncted
-157179	conjuncted
+157178	conjuncted
+157191	conjuncted
+157219	conjuncted
+157229	conjuncted
+157234	conjuncted
+157239	conjuncted
 conjuncted
-157194	conjuncted
+157247	conjuncted
 conjuncted
-157207	conjuncted
-157215	conjuncted
-157217	conjuncted
-157228	conjuncted
-157238	conjuncted
-157246	conjuncted
+157252	conjuncted
 157257	conjuncted
-157260	conjuncted
-157268	conjuncted
-157280	conjuncted
-157282	conjuncted
-157290	conjuncted
-conjuncted
-157313	conjuncted
-157340	conjuncted
-157345	conjuncted
-157348	conjuncted
-conjuncted
-conjuncted
-157356	conjuncted
+157270	conjuncted
+157274	conjuncted
+157296	conjuncted
+157305	conjuncted
+157307	conjuncted
+157318	conjuncted
+157320	conjuncted
+157328	conjuncted
+157334	conjuncted
+157336	conjuncted
+157341	conjuncted
+157357	conjuncted
 157359	conjuncted
-157362	conjuncted
-157370	conjuncted
-157373	conjuncted
-157379	conjuncted
-157386	conjuncted
-157392	conjuncted
-157400	conjuncted
+157361	conjuncted
+157388	conjuncted
+157402	conjuncted
 157410	conjuncted
-157417	conjuncted
-157422	conjuncted
-157426	conjuncted
-157430	conjuncted
-157442	conjuncted
-157452	conjuncted
-157458	conjuncted
 conjuncted
+157416	conjuncted
+157431	conjuncted
+157434	conjuncted
+157460	conjuncted
+157469	conjuncted
 157471	conjuncted
-157473	conjuncted
+157475	conjuncted
+157478	conjuncted
+157483	conjuncted
+157489	conjuncted
+157492	conjuncted
+157495	conjuncted
 157506	conjuncted
-157523	conjuncted
-157527	conjuncted
+157513	conjuncted
+157518	conjuncted
+157535	conjuncted
 157537	conjuncted
-157548	conjuncted
-157551	conjuncted
-157556	conjuncted
-157567	conjuncted
-157571	conjuncted
-157578	conjuncted
-157585	conjuncted
-157588	conjuncted
-157605	conjuncted
-157610	conjuncted
-157616	conjuncted
+157541	conjuncted
+157544	conjuncted
+157547	conjuncted
 conjuncted
-157628	conjuncted
+conjuncted
+157553	conjuncted
+157558	conjuncted
+157572	conjuncted
+157581	conjuncted
+157583	conjuncted
+157586	conjuncted
+157602	conjuncted
+157612	conjuncted
+conjuncted
+conjuncted
+157617	conjuncted
+conjuncted
 157635	conjuncted
-157644	conjuncted
-157651	conjuncted
+157643	conjuncted
+157647	conjuncted
 157653	conjuncted
-157655	conjuncted
-157668	conjuncted
-157671	conjuncted
-157689	conjuncted
-157697	conjuncted
-157699	conjuncted
-157703	conjuncted
-157708	conjuncted
-157718	conjuncted
-157720	conjuncted
-157732	conjuncted
-157738	conjuncted
-conjuncted
-conjuncted
-conjuncted
+157660	conjuncted
+157665	conjuncted
+157669	conjuncted
+157678	conjuncted
+157690	conjuncted
+157695	conjuncted
+157710	conjuncted
+157713	conjuncted
+157717	conjuncted
+157721	conjuncted
+157728	conjuncted
+157734	conjuncted
+157740	conjuncted
+157743	conjuncted
 157748	conjuncted
-conjuncted
-157751	conjuncted
-conjuncted
+157752	conjuncted
 157759	conjuncted
-157768	conjuncted
-157780	conjuncted
-157783	conjuncted
+157762	conjuncted
+157781	conjuncted
 conjuncted
-157790	conjuncted
+157792	conjuncted
+157794	conjuncted
+157805	conjuncted
+157814	conjuncted
+157819	conjuncted
+157822	conjuncted
+157824	conjuncted
+157828	conjuncted
+157832	conjuncted
+157836	conjuncted
+157852	conjuncted
+157854	conjuncted
+157857	conjuncted
+157866	conjuncted
 conjuncted
-157804	conjuncted
-157812	conjuncted
-157834	conjuncted
-157842	conjuncted
-157855	conjuncted
-157862	conjuncted
-conjuncted
-157884	conjuncted
-157890	conjuncted
+157870	conjuncted
+157872	conjuncted
+157874	conjuncted
+157876	conjuncted
 157892	conjuncted
-157920	conjuncted
-157933	conjuncted
-157936	conjuncted
+157902	conjuncted
+157908	conjuncted
+157910	conjuncted
+157945	conjuncted
+157951	conjuncted
 conjuncted
+157967	conjuncted
+157980	conjuncted
+157991	conjuncted
+157994	conjuncted
+158003	conjuncted
+158008	conjuncted
+158013	conjuncted
 conjuncted
-157941	conjuncted
-157969	conjuncted
-157971	conjuncted
-157987	conjuncted
-157999	conjuncted
-158009	conjuncted
-158020	conjuncted
-conjuncted
-158024	conjuncted
-conjuncted
-conjuncted
-158032	conjuncted
-158039	conjuncted
-conjuncted
+158023	conjuncted
+158028	conjuncted
+158041	conjuncted
+158045	conjuncted
+158048	conjuncted
 158055	conjuncted
-158062	conjuncted
-158066	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
+158058	conjuncted
+158070	conjuncted
+158072	conjuncted
 158077	conjuncted
+158079	conjuncted
+158085	conjuncted
 158093	conjuncted
-158105	conjuncted
+158097	conjuncted
+158104	conjuncted
+158116	conjuncted
+158131	conjuncted
+158133	conjuncted
+158136	conjuncted
 158140	conjuncted
+158148	conjuncted
+158165	conjuncted
+158173	conjuncted
+158176	conjuncted
+158181	conjuncted
+158184	conjuncted
+158190	conjuncted
+158192	conjuncted
+158195	conjuncted
 conjuncted
-158150	conjuncted
-158155	conjuncted
 conjuncted
-158161	conjuncted
-158169	conjuncted
-158174	conjuncted
-158185	conjuncted
-158189	conjuncted
-158203	conjuncted
+conjuncted
+158202	conjuncted
+158209	conjuncted
+conjuncted
+conjuncted
+conjuncted
 158216	conjuncted
-158218	conjuncted
-158225	conjuncted
-158252	conjuncted
-158260	conjuncted
-158267	conjuncted
-158276	conjuncted
-158283	conjuncted
-158288	conjuncted
-158294	conjuncted
-158309	conjuncted
-158311	conjuncted
-158314	conjuncted
-158321	conjuncted
-158330	conjuncted
-158332	conjuncted
-158335	conjuncted
-158337	conjuncted
+conjuncted
+conjuncted
+158220	conjuncted
+158222	conjuncted
+158234	conjuncted
+158240	conjuncted
+158243	conjuncted
+158248	conjuncted
+conjuncted
+158259	conjuncted
+158261	conjuncted
+158273	conjuncted
+158285	conjuncted
+158299	conjuncted
+158315	conjuncted
+158323	conjuncted
+158329	conjuncted
+158340	conjuncted
 158342	conjuncted
-158349	conjuncted
-158353	conjuncted
-158368	conjuncted
-conjuncted
-158379	conjuncted
-158387	conjuncted
-158399	conjuncted
-158401	conjuncted
-158417	conjuncted
-158423	conjuncted
-158429	conjuncted
-158431	conjuncted
+158345	conjuncted
+158351	conjuncted
+158356	conjuncted
+158359	conjuncted
+158369	conjuncted
+158372	conjuncted
+158376	conjuncted
+158404	conjuncted
+158424	conjuncted
+158426	conjuncted
 158434	conjuncted
-158441	conjuncted
-158484	conjuncted
-158496	conjuncted
-158516	conjuncted
-158533	conjuncted
-158536	conjuncted
-158538	conjuncted
-158541	conjuncted
-158546	conjuncted
-158552	conjuncted
-158561	conjuncted
-158567	conjuncted
-158570	conjuncted
-158577	conjuncted
+158447	conjuncted
 conjuncted
-158585	conjuncted
-158587	conjuncted
+158450	conjuncted
+158456	conjuncted
+158458	conjuncted
+158466	conjuncted
+158474	conjuncted
+158477	conjuncted
+158487	conjuncted
+158498	conjuncted
+158505	conjuncted
+158513	conjuncted
+158521	conjuncted
+conjuncted
+158535	conjuncted
+158544	conjuncted
+158554	conjuncted
+conjuncted
+158559	conjuncted
+158562	conjuncted
 158595	conjuncted
-158598	conjuncted
-158605	conjuncted
-158617	conjuncted
-158622	conjuncted
+158599	conjuncted
+158607	conjuncted
+158615	conjuncted
+158625	conjuncted
+158627	conjuncted
 158629	conjuncted
-158637	conjuncted
+158631	conjuncted
+158636	conjuncted
 158642	conjuncted
-158652	conjuncted
+158651	conjuncted
 158657	conjuncted
-158662	conjuncted
+158660	conjuncted
 158669	conjuncted
-158692	conjuncted
+158680	conjuncted
+158693	conjuncted
+conjuncted
+158704	conjuncted
 158708	conjuncted
-158718	conjuncted
-158726	conjuncted
-158728	conjuncted
-158737	conjuncted
-158747	conjuncted
-158765	conjuncted
-158767	conjuncted
-158777	conjuncted
-158783	conjuncted
-158790	conjuncted
-158796	conjuncted
-158798	conjuncted
-158801	conjuncted
-158823	conjuncted
-158826	conjuncted
-158834	conjuncted
-158860	conjuncted
-158872	conjuncted
-158890	conjuncted
-158895	conjuncted
-158899	conjuncted
-158910	conjuncted
-158922	conjuncted
-158934	conjuncted
-158948	conjuncted
-158951	conjuncted
-158967	conjuncted
-conjuncted
+158714	conjuncted
+158719	conjuncted
+158735	conjuncted
+158742	conjuncted
+158746	conjuncted
+158748	conjuncted
+158757	conjuncted
+158779	conjuncted
+158785	conjuncted
+158789	conjuncted
+158797	conjuncted
+158803	conjuncted
+158812	conjuncted
+158820	conjuncted
+158837	conjuncted
+158843	conjuncted
+158871	conjuncted
+158875	conjuncted
+158884	conjuncted
+158896	conjuncted
+158917	conjuncted
+158919	conjuncted
+158924	conjuncted
+158937	conjuncted
+158946	conjuncted
+158950	conjuncted
+158966	conjuncted
+158972	conjuncted
 158976	conjuncted
-158979	conjuncted
+158978	conjuncted
 158987	conjuncted
-158996	conjuncted
-159001	conjuncted
-159019	conjuncted
-159025	conjuncted
-159030	conjuncted
-159037	conjuncted
-159043	conjuncted
+158997	conjuncted
+159004	conjuncted
+159015	conjuncted
+159022	conjuncted
+159045	conjuncted
+159061	conjuncted
 159064	conjuncted
-conjuncted
-159082	conjuncted
-159088	conjuncted
-159099	conjuncted
-159111	conjuncted
-159126	conjuncted
-159144	conjuncted
+159071	conjuncted
+159096	conjuncted
+159100	conjuncted
+159102	conjuncted
+159109	conjuncted
+159113	conjuncted
+159132	conjuncted
+159145	conjuncted
+159158	conjuncted
+159164	conjuncted
+159168	conjuncted
+159176	conjuncted
 159178	conjuncted
-159191	conjuncted
-159193	conjuncted
 159195	conjuncted
-159216	conjuncted
-159241	conjuncted
+159197	conjuncted
+159199	conjuncted
+159219	conjuncted
+159224	conjuncted
+159232	conjuncted
+159262	conjuncted
+159269	conjuncted
+159290	conjuncted
 conjuncted
-conjuncted
-conjuncted
-159247	conjuncted
-159257	conjuncted
-159266	conjuncted
-159268	conjuncted
-159270	conjuncted
-159272	conjuncted
-159275	conjuncted
-159280	conjuncted
-159282	conjuncted
-159341	conjuncted
+159303	conjuncted
+159321	conjuncted
+159340	conjuncted
+159349	conjuncted
 159354	conjuncted
 159356	conjuncted
+159362	conjuncted
 159364	conjuncted
-159391	conjuncted
-159408	conjuncted
-159423	conjuncted
-159434	conjuncted
-159444	conjuncted
+159366	conjuncted
+159375	conjuncted
+159385	conjuncted
+159400	conjuncted
+159403	conjuncted
+159412	conjuncted
+159422	conjuncted
+159438	conjuncted
 159450	conjuncted
-159457	conjuncted
-159468	conjuncted
-159514	conjuncted
-159528	conjuncted
-159531	conjuncted
-159543	conjuncted
-159557	conjuncted
-159569	conjuncted
-159582	conjuncted
-159595	conjuncted
-159626	conjuncted
-159649	conjuncted
-159674	conjuncted
-159679	conjuncted
-159682	conjuncted
-159684	conjuncted
-159686	conjuncted
-159689	conjuncted
-conjuncted
+159470	conjuncted
+159481	conjuncted
+159488	conjuncted
+159490	conjuncted
+159496	conjuncted
+159515	conjuncted
+159524	conjuncted
+159526	conjuncted
+159535	conjuncted
+159540	conjuncted
+159545	conjuncted
+159562	conjuncted
+159581	conjuncted
+159588	conjuncted
+159615	conjuncted
+159622	conjuncted
+159627	conjuncted
+159633	conjuncted
+159650	conjuncted
+159681	conjuncted
+159691	conjuncted
 159704	conjuncted
-159712	conjuncted
-159714	conjuncted
-159730	conjuncted
-159735	conjuncted
-conjuncted
-159742	conjuncted
-159751	conjuncted
-159755	conjuncted
-159768	conjuncted
-159791	conjuncted
+159716	conjuncted
+159718	conjuncted
+159725	conjuncted
+159747	conjuncted
+159754	conjuncted
+159765	conjuncted
+159769	conjuncted
+159788	conjuncted
 159793	conjuncted
-159809	conjuncted
+159797	conjuncted
+159800	conjuncted
+159807	conjuncted
+159816	conjuncted
+159819	conjuncted
+159828	conjuncted
 159841	conjuncted
-159843	conjuncted
-159865	conjuncted
-159874	conjuncted
-159876	conjuncted
-159893	conjuncted
-159903	conjuncted
+159854	conjuncted
+159857	conjuncted
+159863	conjuncted
+159883	conjuncted
+159891	conjuncted
+159901	conjuncted
+159904	conjuncted
+159909	conjuncted
+159921	conjuncted
+159927	conjuncted
+159938	conjuncted
+159940	conjuncted
+159946	conjuncted
+159951	conjuncted
+159953	conjuncted
+159966	conjuncted
+159972	conjuncted
+159974	conjuncted
+159980	conjuncted
+159986	conjuncted
+160021	conjuncted
+160028	conjuncted
+160032	conjuncted
 conjuncted
-159911	conjuncted
-159919	conjuncted
-159928	conjuncted
-159934	conjuncted
-159950	conjuncted
-159954	conjuncted
-159965	conjuncted
-conjuncted
-159969	conjuncted
-159982	conjuncted
-conjuncted
-159989	conjuncted
-159993	conjuncted
-conjuncted
-160002	conjuncted
-160011	conjuncted
-conjuncted
-160017	conjuncted
-160044	conjuncted
-160057	conjuncted
+160046	conjuncted
 160060	conjuncted
-conjuncted
 160064	conjuncted
-160075	conjuncted
+160069	conjuncted
+160079	conjuncted
+160081	conjuncted
 160086	conjuncted
-160096	conjuncted
-160110	conjuncted
-160125	conjuncted
-160133	conjuncted
-160139	conjuncted
+160088	conjuncted
+160121	conjuncted
+160124	conjuncted
+160126	conjuncted
+160131	conjuncted
 160145	conjuncted
-160149	conjuncted
+160154	conjuncted
+160161	conjuncted
+160169	conjuncted
+160174	conjuncted
+160184	conjuncted
+160186	conjuncted
+160196	conjuncted
+160203	conjuncted
+160205	conjuncted
+160220	conjuncted
+160222	conjuncted
+160260	conjuncted
 conjuncted
-160152	conjuncted
-160155	conjuncted
-conjuncted
-160160	conjuncted
-160164	conjuncted
-160167	conjuncted
-160177	conjuncted
-160181	conjuncted
-160189	conjuncted
-conjuncted
-conjuncted
-conjuncted
-160194	conjuncted
-160210	conjuncted
-160212	conjuncted
-160224	conjuncted
-160230	conjuncted
-160232	conjuncted
-160234	conjuncted
-160236	conjuncted
-160245	conjuncted
-conjuncted
-conjuncted
-160250	conjuncted
-160253	conjuncted
-160262	conjuncted
-160268	conjuncted
-160276	conjuncted
+160277	conjuncted
+160279	conjuncted
+160298	conjuncted
 160300	conjuncted
-conjuncted
-160308	conjuncted
-conjuncted
-conjuncted
-160329	conjuncted
-160334	conjuncted
-160352	conjuncted
-160367	conjuncted
-160373	conjuncted
-160379	conjuncted
-160391	conjuncted
-160428	conjuncted
-160434	conjuncted
-160453	conjuncted
-160464	conjuncted
-160484	conjuncted
-160490	conjuncted
-160494	conjuncted
-160517	conjuncted
-160524	conjuncted
-160527	conjuncted
+160304	conjuncted
+160338	conjuncted
+160363	conjuncted
+160372	conjuncted
+160376	conjuncted
+160385	conjuncted
+160404	conjuncted
+160410	conjuncted
+160414	conjuncted
+160416	conjuncted
+160424	conjuncted
+160437	conjuncted
+160439	conjuncted
+160462	conjuncted
+160469	conjuncted
+160471	conjuncted
+160476	conjuncted
+160478	conjuncted
+160483	conjuncted
+160498	conjuncted
+160510	conjuncted
+160514	conjuncted
+160516	conjuncted
+160518	conjuncted
+160536	conjuncted
 160538	conjuncted
-160561	conjuncted
-conjuncted
-160588	conjuncted
-160605	conjuncted
-conjuncted
-160620	conjuncted
-160625	conjuncted
-160659	conjuncted
-160682	conjuncted
-160688	conjuncted
-160700	conjuncted
-160706	conjuncted
-160724	conjuncted
-160737	conjuncted
-conjuncted
-160744	conjuncted
-160751	conjuncted
-160756	conjuncted
-160764	conjuncted
-160771	conjuncted
-160808	conjuncted
-160827	conjuncted
-160845	conjuncted
-conjuncted
-conjuncted
-160891	conjuncted
-160894	conjuncted
-160909	conjuncted
-160940	conjuncted
-160951	conjuncted
-160957	conjuncted
+160540	conjuncted
+160548	conjuncted
+160550	conjuncted
+160555	conjuncted
+160565	conjuncted
+160572	conjuncted
+160585	conjuncted
+160587	conjuncted
+160591	conjuncted
+160596	conjuncted
+160608	conjuncted
+160616	conjuncted
+160618	conjuncted
+160643	conjuncted
+160649	conjuncted
+160660	conjuncted
+160665	conjuncted
+160671	conjuncted
+160693	conjuncted
+160714	conjuncted
+160723	conjuncted
+160726	conjuncted
+160731	conjuncted
+160735	conjuncted
+160742	conjuncted
+160747	conjuncted
+160750	conjuncted
+160762	conjuncted
+160765	conjuncted
+160772	conjuncted
+160777	conjuncted
+160787	conjuncted
+160804	conjuncted
+160811	conjuncted
+160835	conjuncted
+160842	conjuncted
+160844	conjuncted
+160846	conjuncted
+160851	conjuncted
+160857	conjuncted
+160877	conjuncted
+160879	conjuncted
+160885	conjuncted
+160887	conjuncted
+160889	conjuncted
+160896	conjuncted
+160898	conjuncted
+160903	conjuncted
+160911	conjuncted
+160915	conjuncted
+160917	conjuncted
+160919	conjuncted
+160921	conjuncted
+160924	conjuncted
+160927	conjuncted
+160930	conjuncted
+160942	conjuncted
+160944	conjuncted
+160952	conjuncted
+160956	conjuncted
 160964	conjuncted
-conjuncted
-160973	conjuncted
-conjuncted
+160975	conjuncted
 160979	conjuncted
-160984	conjuncted
+160987	conjuncted
+160993	conjuncted
 160999	conjuncted
+161002	conjuncted
 161004	conjuncted
-161030	conjuncted
-161042	conjuncted
-161044	conjuncted
-161057	conjuncted
-161061	conjuncted
-161071	conjuncted
+161009	conjuncted
+161013	conjuncted
+161022	conjuncted
+161024	conjuncted
+161038	conjuncted
+161045	conjuncted
+161062	conjuncted
+161075	conjuncted
 161079	conjuncted
 161082	conjuncted
-161089	conjuncted
-161109	conjuncted
-161112	conjuncted
-161114	conjuncted
-161144	conjuncted
-161161	conjuncted
-161170	conjuncted
-161172	conjuncted
-161178	conjuncted
-161194	conjuncted
-161199	conjuncted
-161226	conjuncted
+161084	conjuncted
+161092	conjuncted
+161098	conjuncted
+161111	conjuncted
+161117	conjuncted
+conjuncted
+161134	conjuncted
+161151	conjuncted
+161154	conjuncted
+161173	conjuncted
+161180	conjuncted
+161197	conjuncted
+161229	conjuncted
+161235	conjuncted
 161240	conjuncted
-161243	conjuncted
-161248	conjuncted
-161252	conjuncted
-161259	conjuncted
-161268	conjuncted
-161271	conjuncted
+161254	conjuncted
+161258	conjuncted
+161264	conjuncted
 161275	conjuncted
-161288	conjuncted
-161297	conjuncted
-161304	conjuncted
-161322	conjuncted
-161324	conjuncted
-161329	conjuncted
-161333	conjuncted
+161280	conjuncted
+161305	conjuncted
+161309	conjuncted
+161311	conjuncted
+161318	conjuncted
 161338	conjuncted
+161361	conjuncted
+161368	conjuncted
+161372	conjuncted
+161389	conjuncted
 conjuncted
-161341	conjuncted
-161346	conjuncted
-161352	conjuncted
-161367	conjuncted
-161377	conjuncted
-161379	conjuncted
-161383	conjuncted
-161401	conjuncted
-161416	conjuncted
-161418	conjuncted
+161394	conjuncted
+161402	conjuncted
+161407	conjuncted
+161412	conjuncted
 conjuncted
+161421	conjuncted
 161423	conjuncted
+161425	conjuncted
 conjuncted
-161442	conjuncted
-161451	conjuncted
-161457	conjuncted
-161463	conjuncted
-161470	conjuncted
-161476	conjuncted
-161482	conjuncted
+161431	conjuncted
+161437	conjuncted
+161441	conjuncted
+161447	conjuncted
+161459	conjuncted
+161465	conjuncted
+161471	conjuncted
+161479	conjuncted
 161493	conjuncted
-161507	conjuncted
-161513	conjuncted
-161531	conjuncted
-161535	conjuncted
+161495	conjuncted
+161502	conjuncted
+161512	conjuncted
+161520	conjuncted
+161532	conjuncted
+161538	conjuncted
 161540	conjuncted
-161545	conjuncted
-161552	conjuncted
-161559	conjuncted
-161566	conjuncted
-161570	conjuncted
-161574	conjuncted
-161579	conjuncted
-161587	conjuncted
+161550	conjuncted
+161558	conjuncted
+161560	conjuncted
+161567	conjuncted
+161578	conjuncted
+161584	conjuncted
 161592	conjuncted
 161613	conjuncted
-161615	conjuncted
-161626	conjuncted
-161628	conjuncted
-161640	conjuncted
-161648	conjuncted
-161654	conjuncted
-161658	conjuncted
-161660	conjuncted
-161665	conjuncted
-161671	conjuncted
-161676	conjuncted
-161697	conjuncted
-161699	conjuncted
-161703	conjuncted
-161716	conjuncted
+161620	conjuncted
+161623	conjuncted
 conjuncted
-161722	conjuncted
-161724	conjuncted
-161728	conjuncted
-161731	conjuncted
+161639	conjuncted
+161646	conjuncted
+161653	conjuncted
+161670	conjuncted
+161672	conjuncted
+161679	conjuncted
+161685	conjuncted
+161704	conjuncted
+161730	conjuncted
+161742	conjuncted
 161749	conjuncted
-161762	conjuncted
-161769	conjuncted
-161771	conjuncted
-161811	conjuncted
-161818	conjuncted
+161754	conjuncted
+161756	conjuncted
+161758	conjuncted
+161763	conjuncted
+161767	conjuncted
+161777	conjuncted
+161782	conjuncted
+161786	conjuncted
+161800	conjuncted
+161813	conjuncted
+161822	conjuncted
+161827	conjuncted
+161856	conjuncted
+161859	conjuncted
+161861	conjuncted
+161863	conjuncted
+161867	conjuncted
+161870	conjuncted
+161879	conjuncted
+161884	conjuncted
+161897	conjuncted
+161904	conjuncted
+161906	conjuncted
+161908	conjuncted
+161920	conjuncted
+161922	conjuncted
+161929	conjuncted
 conjuncted
-161839	conjuncted
-161858	conjuncted
-161871	conjuncted
-161875	conjuncted
-161885	conjuncted
-161891	conjuncted
-161898	conjuncted
-conjuncted
-161910	conjuncted
-161916	conjuncted
-161931	conjuncted
 161937	conjuncted
-161940	conjuncted
 161950	conjuncted
-161955	conjuncted
-161971	conjuncted
-161974	conjuncted
-161981	conjuncted
-161984	conjuncted
-161990	conjuncted
-162001	conjuncted
-162006	conjuncted
-162015	conjuncted
-162027	conjuncted
-162044	conjuncted
-162047	conjuncted
-162051	conjuncted
-162056	conjuncted
-162067	conjuncted
-162087	conjuncted
-162098	conjuncted
-162102	conjuncted
-162109	conjuncted
-162114	conjuncted
-162121	conjuncted
-162123	conjuncted
-162128	conjuncted
+161986	conjuncted
+161994	conjuncted
+161996	conjuncted
+162010	conjuncted
+162024	conjuncted
+162029	conjuncted
+162050	conjuncted
+162063	conjuncted
+162069	conjuncted
+162074	conjuncted
+162101	conjuncted
+162131	conjuncted
+162134	conjuncted
+162149	conjuncted
 conjuncted
-conjuncted
-conjuncted
-162136	conjuncted
-162146	conjuncted
-conjuncted
-conjuncted
-conjuncted
-162156	conjuncted
-conjuncted
-conjuncted
-162161	conjuncted
-162163	conjuncted
-162177	conjuncted
-162184	conjuncted
-162188	conjuncted
-162195	conjuncted
-conjuncted
-162208	conjuncted
-162211	conjuncted
-162227	conjuncted
-162243	conjuncted
-162258	conjuncted
-162277	conjuncted
-162287	conjuncted
-162294	conjuncted
-162307	conjuncted
-162310	conjuncted
-162314	conjuncted
+162159	conjuncted
+162165	conjuncted
+162170	conjuncted
+162181	conjuncted
+162191	conjuncted
+162206	conjuncted
+162224	conjuncted
+162233	conjuncted
+162238	conjuncted
+162245	conjuncted
+162253	conjuncted
+162261	conjuncted
+162270	conjuncted
+162275	conjuncted
+162280	conjuncted
+162283	conjuncted
+162288	conjuncted
+162290	conjuncted
+162292	conjuncted
+162301	conjuncted
+162311	conjuncted
 162321	conjuncted
 162327	conjuncted
-162331	conjuncted
-162341	conjuncted
-162344	conjuncted
 162350	conjuncted
-162384	conjuncted
-162406	conjuncted
-162410	conjuncted
-162420	conjuncted
-162436	conjuncted
-conjuncted
+162355	conjuncted
+162362	conjuncted
+162367	conjuncted
+162403	conjuncted
+162405	conjuncted
+162407	conjuncted
+162409	conjuncted
+162414	conjuncted
+162419	conjuncted
+162424	conjuncted
+162435	conjuncted
 162440	conjuncted
-162447	conjuncted
-162450	conjuncted
-162459	conjuncted
-162466	conjuncted
-162470	conjuncted
-162482	conjuncted
-162494	conjuncted
-162501	conjuncted
-162510	conjuncted
-162519	conjuncted
+162465	conjuncted
+162469	conjuncted
+162471	conjuncted
+162492	conjuncted
+162512	conjuncted
+162526	conjuncted
 conjuncted
-162534	conjuncted
-162544	conjuncted
-162555	conjuncted
+conjuncted
 conjuncted
 162561	conjuncted
-162565	conjuncted
-162604	conjuncted
-162610	conjuncted
-162619	conjuncted
-162627	conjuncted
-162639	conjuncted
-162642	conjuncted
+162579	conjuncted
+162595	conjuncted
+162602	conjuncted
+conjuncted
+conjuncted
+162608	conjuncted
+162612	conjuncted
+162614	conjuncted
+162620	conjuncted
+162631	conjuncted
+162638	conjuncted
 162645	conjuncted
 162648	conjuncted
-162654	conjuncted
+162650	conjuncted
+162652	conjuncted
+162659	conjuncted
 162661	conjuncted
-162671	conjuncted
-162679	conjuncted
-162683	conjuncted
+162663	conjuncted
+162665	conjuncted
+162678	conjuncted
+162684	conjuncted
+162686	conjuncted
+162688	conjuncted
 162695	conjuncted
-162706	conjuncted
+162697	conjuncted
+162700	conjuncted
+162714	conjuncted
+162716	conjuncted
+162718	conjuncted
 162720	conjuncted
-conjuncted
-162731	conjuncted
-162736	conjuncted
-162743	conjuncted
-162749	conjuncted
-162770	conjuncted
+162732	conjuncted
+162742	conjuncted
+162750	conjuncted
+162755	conjuncted
+162758	conjuncted
+162763	conjuncted
+162768	conjuncted
 162779	conjuncted
-162785	conjuncted
-162787	conjuncted
-162800	conjuncted
-162823	conjuncted
-162830	conjuncted
-162835	conjuncted
-162842	conjuncted
-162849	conjuncted
+162792	conjuncted
+162796	conjuncted
+162814	conjuncted
+162831	conjuncted
+162841	conjuncted
+162843	conjuncted
+162847	conjuncted
+162857	conjuncted
 162859	conjuncted
-162868	conjuncted
-162888	conjuncted
+162861	conjuncted
+162865	conjuncted
+162879	conjuncted
+162881	conjuncted
+162889	conjuncted
 162895	conjuncted
-162928	conjuncted
-162934	conjuncted
-162945	conjuncted
-162960	conjuncted
-162984	conjuncted
+162943	conjuncted
+162951	conjuncted
+162969	conjuncted
+162971	conjuncted
+162975	conjuncted
+162977	conjuncted
 162987	conjuncted
-162994	conjuncted
-163014	conjuncted
-163025	conjuncted
-163030	conjuncted
-163045	conjuncted
-163053	conjuncted
-163058	conjuncted
-163061	conjuncted
-163071	conjuncted
+162997	conjuncted
+conjuncted
+conjuncted
+conjuncted
+163006	conjuncted
+163022	conjuncted
+163048	conjuncted
+163050	conjuncted
+163064	conjuncted
+conjuncted
+conjuncted
+163068	conjuncted
 163082	conjuncted
+163085	conjuncted
+163087	conjuncted
 163091	conjuncted
-163104	conjuncted
-163112	conjuncted
+163093	conjuncted
+163103	conjuncted
+163107	conjuncted
+163111	conjuncted
+163114	conjuncted
+163118	conjuncted
+163120	conjuncted
 163139	conjuncted
-163158	conjuncted
-163161	conjuncted
-163170	conjuncted
-163196	conjuncted
-163200	conjuncted
-163203	conjuncted
+163148	conjuncted
+163154	conjuncted
+163175	conjuncted
+163179	conjuncted
+163183	conjuncted
+163192	conjuncted
+163205	conjuncted
+163207	conjuncted
 163212	conjuncted
-163217	conjuncted
-163238	conjuncted
-163253	conjuncted
-163269	conjuncted
+163218	conjuncted
+163228	conjuncted
+163239	conjuncted
+163251	conjuncted
+163270	conjuncted
+163275	conjuncted
 163277	conjuncted
-163282	conjuncted
-163292	conjuncted
-163294	conjuncted
-163317	conjuncted
+163279	conjuncted
+163287	conjuncted
+163298	conjuncted
+163306	conjuncted
+163313	conjuncted
 163319	conjuncted
-163321	conjuncted
-163342	conjuncted
-163348	conjuncted
-163358	conjuncted
-163397	conjuncted
+163328	conjuncted
+163330	conjuncted
+163344	conjuncted
+163368	conjuncted
+163372	conjuncted
 163406	conjuncted
-163434	conjuncted
+163408	conjuncted
 conjuncted
-163450	conjuncted
-163470	conjuncted
-163493	conjuncted
-163501	conjuncted
-163508	conjuncted
-163510	conjuncted
+163413	conjuncted
+163423	conjuncted
+163440	conjuncted
+163443	conjuncted
+163456	conjuncted
+163459	conjuncted
+163461	conjuncted
+163463	conjuncted
+conjuncted
+163469	conjuncted
+163509	conjuncted
+163513	conjuncted
+conjuncted
+163516	conjuncted
 163519	conjuncted
-163522	conjuncted
-163524	conjuncted
-163535	conjuncted
-163549	conjuncted
-163566	conjuncted
+163527	conjuncted
+163529	conjuncted
+163534	conjuncted
+163536	conjuncted
+163554	conjuncted
+163562	conjuncted
 163569	conjuncted
-163579	conjuncted
-163592	conjuncted
+163572	conjuncted
+163580	conjuncted
+163590	conjuncted
+163595	conjuncted
+163597	conjuncted
+163599	conjuncted
+163602	conjuncted
+163607	conjuncted
+conjuncted
+163614	conjuncted
 163616	conjuncted
+163620	conjuncted
+163625	conjuncted
 163630	conjuncted
-163652	conjuncted
-163664	conjuncted
-163672	conjuncted
-163674	conjuncted
-163679	conjuncted
-163699	conjuncted
-163709	conjuncted
-163711	conjuncted
-163722	conjuncted
-163731	conjuncted
-163737	conjuncted
-163756	conjuncted
+163640	conjuncted
+163642	conjuncted
+163659	conjuncted
+163663	conjuncted
+163673	conjuncted
+163678	conjuncted
+163681	conjuncted
+163712	conjuncted
+163714	conjuncted
+163717	conjuncted
+conjuncted
+conjuncted
+163724	conjuncted
+163728	conjuncted
+163732	conjuncted
+163734	conjuncted
+163740	conjuncted
+conjuncted
+163754	conjuncted
+163772	conjuncted
 163776	conjuncted
-163785	conjuncted
-163817	conjuncted
-163825	conjuncted
-163831	conjuncted
-163838	conjuncted
-163857	conjuncted
-163890	conjuncted
-163902	conjuncted
-163916	conjuncted
-163929	conjuncted
-163932	conjuncted
-163941	conjuncted
-163967	conjuncted
-163976	conjuncted
+163778	conjuncted
+163783	conjuncted
+163787	conjuncted
+163789	conjuncted
+163794	conjuncted
+163796	conjuncted
+163798	conjuncted
+163800	conjuncted
+163804	conjuncted
+163807	conjuncted
+163816	conjuncted
+163819	conjuncted
+163822	conjuncted
+163828	conjuncted
+163836	conjuncted
+163839	conjuncted
+conjuncted
+conjuncted
+163848	conjuncted
+163850	conjuncted
+163869	conjuncted
+163873	conjuncted
+163887	conjuncted
+163901	conjuncted
+163903	conjuncted
+163909	conjuncted
+163924	conjuncted
+163926	conjuncted
+163928	conjuncted
+163981	conjuncted
+163984	conjuncted
 163989	conjuncted
-163995	conjuncted
-164017	conjuncted
-164023	conjuncted
-164027	conjuncted
-164031	conjuncted
-164040	conjuncted
-164050	conjuncted
-164054	conjuncted
-164065	conjuncted
-164077	conjuncted
-164092	conjuncted
-164096	conjuncted
-164104	conjuncted
-164128	conjuncted
-164137	conjuncted
-164147	conjuncted
-164151	conjuncted
-164157	conjuncted
-164172	conjuncted
-164179	conjuncted
-164191	conjuncted
-164195	conjuncted
-164202	conjuncted
-164209	conjuncted
-164211	conjuncted
+163991	conjuncted
+164009	conjuncted
+164046	conjuncted
+164049	conjuncted
+164066	conjuncted
+conjuncted
+164076	conjuncted
+164082	conjuncted
+164086	conjuncted
+164088	conjuncted
+164101	conjuncted
+164106	conjuncted
+164108	conjuncted
+conjuncted
+conjuncted
+conjuncted
+164116	conjuncted
+164146	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+164155	conjuncted
+conjuncted
+164160	conjuncted
+164173	conjuncted
+164178	conjuncted
+164181	conjuncted
+164193	conjuncted
+164197	conjuncted
+164205	conjuncted
+164213	conjuncted
+164221	conjuncted
 164226	conjuncted
-164234	conjuncted
-164236	conjuncted
-164244	conjuncted
-164252	conjuncted
-164288	conjuncted
+164228	conjuncted
+164238	conjuncted
+164246	conjuncted
+164248	conjuncted
+164250	conjuncted
+164261	conjuncted
+164268	conjuncted
+164279	conjuncted
+conjuncted
+conjuncted
+164284	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+164292	conjuncted
+conjuncted
+conjuncted
 164298	conjuncted
-164304	conjuncted
-conjuncted
+164311	conjuncted
+164315	conjuncted
 164319	conjuncted
+164334	conjuncted
 164336	conjuncted
-164341	conjuncted
-164347	conjuncted
-164358	conjuncted
-164360	conjuncted
-164367	conjuncted
-164369	conjuncted
-164405	conjuncted
-164408	conjuncted
-164411	conjuncted
-164417	conjuncted
-164432	conjuncted
-164443	conjuncted
-164451	conjuncted
-164462	conjuncted
-164468	conjuncted
-164481	conjuncted
-164484	conjuncted
-164495	conjuncted
-164503	conjuncted
-164505	conjuncted
-164523	conjuncted
-164525	conjuncted
-164572	conjuncted
 conjuncted
-164591	conjuncted
+164339	conjuncted
+164342	conjuncted
+conjuncted
+164347	conjuncted
+164350	conjuncted
+conjuncted
+164354	conjuncted
+164358	conjuncted
+164370	conjuncted
+conjuncted
+164376	conjuncted
+164391	conjuncted
+164393	conjuncted
+164397	conjuncted
+164409	conjuncted
+conjuncted
+conjuncted
+164416	conjuncted
+164423	conjuncted
+164425	conjuncted
+164432	conjuncted
+164435	conjuncted
+conjuncted
+164439	conjuncted
+164450	conjuncted
+conjuncted
+164456	conjuncted
+164458	conjuncted
+164465	conjuncted
+164467	conjuncted
+164471	conjuncted
+164473	conjuncted
+164476	conjuncted
+164478	conjuncted
+164487	conjuncted
+164491	conjuncted
+conjuncted
+164495	conjuncted
+164497	conjuncted
+164502	conjuncted
+164504	conjuncted
+conjuncted
+164513	conjuncted
+164515	conjuncted
+164517	conjuncted
+164525	conjuncted
+164539	conjuncted
+164553	conjuncted
+conjuncted
+164563	conjuncted
+conjuncted
+164567	conjuncted
+164569	conjuncted
+164572	conjuncted
+164574	conjuncted
+164579	conjuncted
+164581	conjuncted
+164587	conjuncted
+164589	conjuncted
 164594	conjuncted
-164616	conjuncted
-164619	conjuncted
-164625	conjuncted
-164662	conjuncted
-164692	conjuncted
-164704	conjuncted
-164709	conjuncted
-164721	conjuncted
+164604	conjuncted
+164608	conjuncted
+164612	conjuncted
+conjuncted
+164617	conjuncted
+164623	conjuncted
+conjuncted
+164627	conjuncted
+164634	conjuncted
+conjuncted
+164650	conjuncted
+164656	conjuncted
+164679	conjuncted
+164682	conjuncted
+164695	conjuncted
+conjuncted
+164701	conjuncted
+164703	conjuncted
+164705	conjuncted
+164713	conjuncted
+164718	conjuncted
+conjuncted
+conjuncted
+164722	conjuncted
+conjuncted
+conjuncted
+conjuncted
+164727	conjuncted
+164731	conjuncted
+164736	conjuncted
 164741	conjuncted
-164748	conjuncted
-164754	conjuncted
-164756	conjuncted
-164764	conjuncted
-164780	conjuncted
-164782	conjuncted
-164810	conjuncted
-164819	conjuncted
+164763	conjuncted
+conjuncted
+164768	conjuncted
+164770	conjuncted
+164794	conjuncted
+164806	conjuncted
+164809	conjuncted
+164815	conjuncted
 164822	conjuncted
-164829	conjuncted
-164832	conjuncted
-164838	conjuncted
-164854	conjuncted
-164866	conjuncted
-164872	conjuncted
-164874	conjuncted
-164876	conjuncted
-164895	conjuncted
-164897	conjuncted
-164899	conjuncted
-164911	conjuncted
-164913	conjuncted
-164919	conjuncted
-164929	conjuncted
+164839	conjuncted
+164842	conjuncted
+164846	conjuncted
+164852	conjuncted
+conjuncted
+conjuncted
+164858	conjuncted
+164861	conjuncted
+164863	conjuncted
+164867	conjuncted
+conjuncted
+conjuncted
+164873	conjuncted
+164878	conjuncted
+164884	conjuncted
+164886	conjuncted
+164892	conjuncted
+164894	conjuncted
+164900	conjuncted
+conjuncted
+164909	conjuncted
+164917	conjuncted
+164921	conjuncted
 164937	conjuncted
+164942	conjuncted
+164945	conjuncted
 164953	conjuncted
-164955	conjuncted
-164960	conjuncted
-164966	conjuncted
-164978	conjuncted
-164987	conjuncted
-164990	conjuncted
-165017	conjuncted
-165024	conjuncted
+164958	conjuncted
+164977	conjuncted
+164982	conjuncted
+165006	conjuncted
+165010	conjuncted
+165016	conjuncted
+165021	conjuncted
+165026	conjuncted
+165032	conjuncted
 165037	conjuncted
-165043	conjuncted
-165051	conjuncted
-165079	conjuncted
-165106	conjuncted
-165116	conjuncted
-165120	conjuncted
-165126	conjuncted
-165131	conjuncted
-165139	conjuncted
-165145	conjuncted
-165150	conjuncted
-165163	conjuncted
-165167	conjuncted
-165175	conjuncted
-165181	conjuncted
-165193	conjuncted
-165212	conjuncted
+conjuncted
+165042	conjuncted
+165044	conjuncted
+165052	conjuncted
+165058	conjuncted
+165061	conjuncted
+165063	conjuncted
+165067	conjuncted
+165071	conjuncted
+165077	conjuncted
+165082	conjuncted
+conjuncted
+conjuncted
+165097	conjuncted
+165099	conjuncted
+165105	conjuncted
+conjuncted
+165117	conjuncted
+165134	conjuncted
+165137	conjuncted
+165143	conjuncted
+165146	conjuncted
+165152	conjuncted
+165156	conjuncted
+165160	conjuncted
+165168	conjuncted
+165176	conjuncted
+165190	conjuncted
+165194	conjuncted
+165197	conjuncted
+165200	conjuncted
+165206	conjuncted
+165211	conjuncted
+165213	conjuncted
 165221	conjuncted
-165246	conjuncted
-165254	conjuncted
+165226	conjuncted
+165237	conjuncted
+165239	conjuncted
 165257	conjuncted
-165260	conjuncted
-165267	conjuncted
-165276	conjuncted
+165261	conjuncted
+165264	conjuncted
+165266	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+165274	conjuncted
+165279	conjuncted
+165281	conjuncted
+165285	conjuncted
+conjuncted
+165291	conjuncted
+conjuncted
+conjuncted
+conjuncted
 165296	conjuncted
-165298	conjuncted
-165305	conjuncted
+165299	conjuncted
+165306	conjuncted
 165309	conjuncted
-165311	conjuncted
-165319	conjuncted
+conjuncted
+conjuncted
+165314	conjuncted
+165316	conjuncted
 165321	conjuncted
 165327	conjuncted
-165336	conjuncted
-165340	conjuncted
-165342	conjuncted
-165344	conjuncted
-165347	conjuncted
-165351	conjuncted
+165345	conjuncted
+165352	conjuncted
 165355	conjuncted
-165357	conjuncted
-165371	conjuncted
-165374	conjuncted
-165384	conjuncted
+conjuncted
+165366	conjuncted
+165368	conjuncted
+165370	conjuncted
+165373	conjuncted
+165380	conjuncted
+165382	conjuncted
 165389	conjuncted
+165391	conjuncted
+165397	conjuncted
 165399	conjuncted
-165411	conjuncted
+165401	conjuncted
+165408	conjuncted
+165410	conjuncted
+165412	conjuncted
+conjuncted
 165416	conjuncted
-165426	conjuncted
-165433	conjuncted
+165419	conjuncted
+conjuncted
+165422	conjuncted
+165430	conjuncted
+165435	conjuncted
+conjuncted
 165440	conjuncted
-165444	conjuncted
-165446	conjuncted
-165452	conjuncted
-165457	conjuncted
-165468	conjuncted
-165470	conjuncted
-165484	conjuncted
-165491	conjuncted
-165511	conjuncted
-165527	conjuncted
-165532	conjuncted
-165536	conjuncted
-165538	conjuncted
+conjuncted
+165443	conjuncted
+165451	conjuncted
+165463	conjuncted
+165469	conjuncted
+165473	conjuncted
+165475	conjuncted
+165485	conjuncted
+165495	conjuncted
+165501	conjuncted
+165514	conjuncted
+165521	conjuncted
+165535	conjuncted
+conjuncted
 165549	conjuncted
-165556	conjuncted
-165571	conjuncted
-165578	conjuncted
+165551	conjuncted
+165562	conjuncted
 conjuncted
-165596	conjuncted
-165612	conjuncted
+conjuncted
+165569	conjuncted
+conjuncted
+conjuncted
+165583	conjuncted
+165590	conjuncted
+165592	conjuncted
+165604	conjuncted
+165606	conjuncted
+165610	conjuncted
 165617	conjuncted
+165621	conjuncted
 165638	conjuncted
-165644	conjuncted
-165664	conjuncted
-165698	conjuncted
-165705	conjuncted
-165710	conjuncted
-165728	conjuncted
-165734	conjuncted
-165741	conjuncted
-165755	conjuncted
-165761	conjuncted
-165785	conjuncted
-165791	conjuncted
-165793	conjuncted
-165799	conjuncted
-165821	conjuncted
-165846	conjuncted
-165853	conjuncted
-165857	conjuncted
-165877	conjuncted
+165648	conjuncted
+165652	conjuncted
+165658	conjuncted
 conjuncted
-165883	conjuncted
+165670	conjuncted
+165673	conjuncted
+165678	conjuncted
+165684	conjuncted
+165686	conjuncted
+165690	conjuncted
+165695	conjuncted
+165697	conjuncted
+165706	conjuncted
+165724	conjuncted
+165727	conjuncted
+165734	conjuncted
+conjuncted
+165737	conjuncted
+165742	conjuncted
+165752	conjuncted
+165761	conjuncted
+165764	conjuncted
+165771	conjuncted
+165788	conjuncted
+165790	conjuncted
+conjuncted
+165795	conjuncted
+165801	conjuncted
+conjuncted
+165808	conjuncted
+165815	conjuncted
+165818	conjuncted
+165838	conjuncted
+165843	conjuncted
+165851	conjuncted
+165863	conjuncted
+conjuncted
+165870	conjuncted
+165884	conjuncted
+conjuncted
+165887	conjuncted
 165892	conjuncted
 165898	conjuncted
-165905	conjuncted
-conjuncted
-165917	conjuncted
-165920	conjuncted
-165923	conjuncted
-conjuncted
-165931	conjuncted
+165922	conjuncted
 165938	conjuncted
-165943	conjuncted
-165950	conjuncted
-165965	conjuncted
-165972	conjuncted
-165979	conjuncted
-165988	conjuncted
-166008	conjuncted
-166010	conjuncted
+165942	conjuncted
+165948	conjuncted
+165957	conjuncted
+165959	conjuncted
+conjuncted
+conjuncted
+165967	conjuncted
+165974	conjuncted
+165982	conjuncted
+165989	conjuncted
+conjuncted
+165997	conjuncted
+165999	conjuncted
+166016	conjuncted
 166018	conjuncted
+166026	conjuncted
+166028	conjuncted
 166032	conjuncted
+166040	conjuncted
 166042	conjuncted
-166056	conjuncted
-166063	conjuncted
+166046	conjuncted
+166060	conjuncted
 166066	conjuncted
-166079	conjuncted
-166089	conjuncted
-166091	conjuncted
-166099	conjuncted
+166070	conjuncted
+166080	conjuncted
+166092	conjuncted
+conjuncted
+conjuncted
+166101	conjuncted
+166103	conjuncted
 166113	conjuncted
+166119	conjuncted
 166121	conjuncted
-166131	conjuncted
-166157	conjuncted
-166165	conjuncted
-166170	conjuncted
+166124	conjuncted
+166129	conjuncted
+166137	conjuncted
+166145	conjuncted
+166152	conjuncted
+166168	conjuncted
 conjuncted
 166188	conjuncted
-166196	conjuncted
-166204	conjuncted
-166223	conjuncted
-166225	conjuncted
-166233	conjuncted
-166240	conjuncted
-166263	conjuncted
-166291	conjuncted
+166191	conjuncted
+166194	conjuncted
+166198	conjuncted
+166201	conjuncted
+conjuncted
+166209	conjuncted
+166214	conjuncted
+conjuncted
+166217	conjuncted
+166220	conjuncted
+166239	conjuncted
+166248	conjuncted
+166255	conjuncted
+166279	conjuncted
+166282	conjuncted
+166284	conjuncted
+166290	conjuncted
+166292	conjuncted
+166299	conjuncted
 166305	conjuncted
-166314	conjuncted
-166321	conjuncted
-166323	conjuncted
+166308	conjuncted
+166312	conjuncted
+166322	conjuncted
 166325	conjuncted
-166331	conjuncted
-166336	conjuncted
-166348	conjuncted
-166355	conjuncted
+166328	conjuncted
+166334	conjuncted
+166341	conjuncted
+166344	conjuncted
+166356	conjuncted
 166359	conjuncted
-166377	conjuncted
-166392	conjuncted
-166402	conjuncted
-166407	conjuncted
-166442	conjuncted
-166446	conjuncted
+166364	conjuncted
+166369	conjuncted
+166375	conjuncted
+166378	conjuncted
+166384	conjuncted
+conjuncted
+166391	conjuncted
+166398	conjuncted
+166405	conjuncted
+166418	conjuncted
+166429	conjuncted
+166432	conjuncted
 166448	conjuncted
 166450	conjuncted
-166455	conjuncted
-166459	conjuncted
-166471	conjuncted
-166476	conjuncted
-166491	conjuncted
-166501	conjuncted
-166503	conjuncted
+166453	conjuncted
+166461	conjuncted
+166468	conjuncted
+166485	conjuncted
+166488	conjuncted
+166493	conjuncted
+166496	conjuncted
 166506	conjuncted
-166520	conjuncted
-166522	conjuncted
-166531	conjuncted
+166509	conjuncted
+166514	conjuncted
+166518	conjuncted
+166524	conjuncted
+166542	conjuncted
+166554	conjuncted
+166558	conjuncted
+166566	conjuncted
 conjuncted
-166543	conjuncted
-166557	conjuncted
-166595	conjuncted
-166604	conjuncted
-166607	conjuncted
-166623	conjuncted
-166638	conjuncted
+166571	conjuncted
+166577	conjuncted
+166583	conjuncted
+166589	conjuncted
+166606	conjuncted
+166624	conjuncted
+166637	conjuncted
 166644	conjuncted
-166666	conjuncted
-166681	conjuncted
-166686	conjuncted
-166692	conjuncted
-166723	conjuncted
-166755	conjuncted
-166758	conjuncted
-166773	conjuncted
+166649	conjuncted
+166654	conjuncted
+166656	conjuncted
 conjuncted
-166783	conjuncted
+conjuncted
+166665	conjuncted
+166672	conjuncted
+166679	conjuncted
+166691	conjuncted
+166698	conjuncted
+166701	conjuncted
+166707	conjuncted
+166719	conjuncted
+166721	conjuncted
+166736	conjuncted
+166748	conjuncted
+conjuncted
+166756	conjuncted
+166761	conjuncted
+166769	conjuncted
+166775	conjuncted
+166777	conjuncted
+166781	conjuncted
+conjuncted
 166788	conjuncted
-166792	conjuncted
-166804	conjuncted
-166816	conjuncted
-166833	conjuncted
+166795	conjuncted
+166797	conjuncted
+166818	conjuncted
+166831	conjuncted
+166839	conjuncted
+166841	conjuncted
+166849	conjuncted
 166854	conjuncted
-166865	conjuncted
-166871	conjuncted
+166866	conjuncted
+166873	conjuncted
 166878	conjuncted
-166888	conjuncted
+166889	conjuncted
+166893	conjuncted
 166896	conjuncted
-166907	conjuncted
+166904	conjuncted
+166906	conjuncted
 166913	conjuncted
-166919	conjuncted
-166923	conjuncted
-166931	conjuncted
-166933	conjuncted
-166936	conjuncted
-166946	conjuncted
-166957	conjuncted
-166969	conjuncted
-166976	conjuncted
+166922	conjuncted
+166941	conjuncted
+166948	conjuncted
+166951	conjuncted
+166963	conjuncted
+166967	conjuncted
+166972	conjuncted
+166975	conjuncted
+166987	conjuncted
+166992	conjuncted
+166997	conjuncted
 167000	conjuncted
-167006	conjuncted
-167016	conjuncted
-167022	conjuncted
-167058	conjuncted
-167060	conjuncted
-167062	conjuncted
+167008	conjuncted
+conjuncted
+conjuncted
+167013	conjuncted
+conjuncted
+conjuncted
+167018	conjuncted
+167023	conjuncted
+167027	conjuncted
+167029	conjuncted
+167035	conjuncted
+167037	conjuncted
+167049	conjuncted
 167064	conjuncted
-167069	conjuncted
-167074	conjuncted
-167080	conjuncted
-167095	conjuncted
+167073	conjuncted
+167078	conjuncted
+conjuncted
+167096	conjuncted
 167101	conjuncted
-167129	conjuncted
-167137	conjuncted
-167139	conjuncted
-167163	conjuncted
-167187	conjuncted
-167202	conjuncted
-conjuncted
-167205	conjuncted
-conjuncted
-167245	conjuncted
-167265	conjuncted
-167284	conjuncted
-167292	conjuncted
-conjuncted
-167295	conjuncted
+167111	conjuncted
+167116	conjuncted
+167122	conjuncted
+167124	conjuncted
+167126	conjuncted
+167128	conjuncted
+167135	conjuncted
+167159	conjuncted
+167166	conjuncted
+167168	conjuncted
+167173	conjuncted
+167213	conjuncted
+167216	conjuncted
+167218	conjuncted
+167220	conjuncted
+167230	conjuncted
+167244	conjuncted
+167246	conjuncted
+167261	conjuncted
+167263	conjuncted
+167274	conjuncted
+167282	conjuncted
+167287	conjuncted
+167298	conjuncted
 167300	conjuncted
-167306	conjuncted
 167308	conjuncted
-167316	conjuncted
-167332	conjuncted
-167341	conjuncted
-167349	conjuncted
-167354	conjuncted
+conjuncted
+167311	conjuncted
+conjuncted
+167317	conjuncted
+167319	conjuncted
+167324	conjuncted
+167328	conjuncted
+conjuncted
+167333	conjuncted
+167335	conjuncted
+167342	conjuncted
+conjuncted
+167345	conjuncted
+conjuncted
+167348	conjuncted
+167353	conjuncted
+conjuncted
 167356	conjuncted
 167359	conjuncted
-167369	conjuncted
-167371	conjuncted
-167374	conjuncted
-167376	conjuncted
-167392	conjuncted
-167400	conjuncted
+conjuncted
+167372	conjuncted
+167380	conjuncted
+167389	conjuncted
+167391	conjuncted
+167397	conjuncted
 167402	conjuncted
-167405	conjuncted
-167415	conjuncted
-167417	conjuncted
-167421	conjuncted
-167434	conjuncted
-167436	conjuncted
+167407	conjuncted
+167410	conjuncted
+167419	conjuncted
+conjuncted
+conjuncted
+167429	conjuncted
+167432	conjuncted
 167440	conjuncted
-167442	conjuncted
-167456	conjuncted
-167469	conjuncted
-167479	conjuncted
-167486	conjuncted
-167490	conjuncted
-167495	conjuncted
-167501	conjuncted
-167512	conjuncted
-167528	conjuncted
-167533	conjuncted
-167552	conjuncted
-167576	conjuncted
-167588	conjuncted
-167591	conjuncted
-167595	conjuncted
-167608	conjuncted
-167610	conjuncted
-167612	conjuncted
-167618	conjuncted
-167636	conjuncted
-167638	conjuncted
-167649	conjuncted
-167656	conjuncted
-167714	conjuncted
-167723	conjuncted
-167740	conjuncted
-167742	conjuncted
-167747	conjuncted
-167751	conjuncted
-167765	conjuncted
+conjuncted
+167444	conjuncted
+167457	conjuncted
+167459	conjuncted
+conjuncted
+167464	conjuncted
+167476	conjuncted
+167485	conjuncted
+167489	conjuncted
+167505	conjuncted
+conjuncted
+167508	conjuncted
+conjuncted
+conjuncted
+167515	conjuncted
+conjuncted
+167518	conjuncted
+167523	conjuncted
+conjuncted
+conjuncted
+167536	conjuncted
+167541	conjuncted
+167553	conjuncted
+167560	conjuncted
+167562	conjuncted
+conjuncted
+167570	conjuncted
+conjuncted
+167578	conjuncted
+167581	conjuncted
+167583	conjuncted
+167601	conjuncted
+167605	conjuncted
+167609	conjuncted
+167626	conjuncted
+conjuncted
+conjuncted
+167635	conjuncted
+167639	conjuncted
+167643	conjuncted
+167647	conjuncted
+conjuncted
+conjuncted
+167661	conjuncted
+167665	conjuncted
+167670	conjuncted
+167673	conjuncted
+conjuncted
+conjuncted
+167683	conjuncted
+167690	conjuncted
+conjuncted
+167693	conjuncted
+167702	conjuncted
+167704	conjuncted
+167724	conjuncted
+167730	conjuncted
+167737	conjuncted
+167739	conjuncted
+167743	conjuncted
+conjuncted
+167748	conjuncted
+167750	conjuncted
+167753	conjuncted
+167769	conjuncted
+167773	conjuncted
 167777	conjuncted
-167779	conjuncted
-167781	conjuncted
+167784	conjuncted
+167792	conjuncted
+167794	conjuncted
+167810	conjuncted
+167822	conjuncted
+167837	conjuncted
+167857	conjuncted
+167866	conjuncted
+167878	conjuncted
 conjuncted
-167789	conjuncted
-167809	conjuncted
-167841	conjuncted
-167844	conjuncted
-167860	conjuncted
-conjuncted
-conjuncted
-167864	conjuncted
-167882	conjuncted
-167887	conjuncted
-167889	conjuncted
+167884	conjuncted
+167888	conjuncted
+167892	conjuncted
 167896	conjuncted
-167898	conjuncted
-167911	conjuncted
-167915	conjuncted
-167920	conjuncted
-167924	conjuncted
-167930	conjuncted
-167933	conjuncted
+167904	conjuncted
+167908	conjuncted
+167910	conjuncted
+167916	conjuncted
+167918	conjuncted
+167923	conjuncted
+167939	conjuncted
+167942	conjuncted
+conjuncted
 167954	conjuncted
-167967	conjuncted
-167974	conjuncted
-167996	conjuncted
-168001	conjuncted
-168006	conjuncted
+167956	conjuncted
+167962	conjuncted
+167964	conjuncted
+conjuncted
+167968	conjuncted
+167990	conjuncted
+167994	conjuncted
+168004	conjuncted
+168007	conjuncted
+168014	conjuncted
 168017	conjuncted
+168022	conjuncted
+168028	conjuncted
 168031	conjuncted
-168034	conjuncted
-168040	conjuncted
-168049	conjuncted
-168060	conjuncted
-168075	conjuncted
-168088	conjuncted
-168109	conjuncted
+168036	conjuncted
+168038	conjuncted
+168044	conjuncted
+168046	conjuncted
+168048	conjuncted
+168050	conjuncted
+168054	conjuncted
+168056	conjuncted
+168058	conjuncted
+168065	conjuncted
+168079	conjuncted
+168081	conjuncted
+168084	conjuncted
+168087	conjuncted
+conjuncted
+168100	conjuncted
+168102	conjuncted
+168110	conjuncted
 168116	conjuncted
-168118	conjuncted
-168121	conjuncted
-168130	conjuncted
-168142	conjuncted
-168153	conjuncted
-168163	conjuncted
-168170	conjuncted
+conjuncted
+168122	conjuncted
+168125	conjuncted
+168134	conjuncted
+168136	conjuncted
+168139	conjuncted
+168143	conjuncted
+168145	conjuncted
+conjuncted
+conjuncted
+168152	conjuncted
+168158	conjuncted
+conjuncted
+168177	conjuncted
+168179	conjuncted
 168181	conjuncted
-168184	conjuncted
-168200	conjuncted
-168228	conjuncted
-168232	conjuncted
+168192	conjuncted
+168204	conjuncted
+168207	conjuncted
+conjuncted
+168212	conjuncted
+conjuncted
+168219	conjuncted
+168225	conjuncted
+168231	conjuncted
+conjuncted
+168242	conjuncted
+conjuncted
+conjuncted
+168260	conjuncted
+168262	conjuncted
+168270	conjuncted
+conjuncted
 168273	conjuncted
-168277	conjuncted
+168285	conjuncted
+168289	conjuncted
+168296	conjuncted
 conjuncted
-168283	conjuncted
-168297	conjuncted
-168316	conjuncted
-168320	conjuncted
-168337	conjuncted
-168341	conjuncted
-168343	conjuncted
-168347	conjuncted
-168350	conjuncted
-168357	conjuncted
-168400	conjuncted
-168405	conjuncted
-168407	conjuncted
-168410	conjuncted
+168301	conjuncted
+conjuncted
+168308	conjuncted
+168323	conjuncted
+168326	conjuncted
+168332	conjuncted
+168336	conjuncted
+168344	conjuncted
+168349	conjuncted
+168359	conjuncted
+168362	conjuncted
+168366	conjuncted
+168369	conjuncted
+conjuncted
+168385	conjuncted
+168387	conjuncted
+168394	conjuncted
+168404	conjuncted
+168412	conjuncted
 168414	conjuncted
-168423	conjuncted
+168418	conjuncted
 168426	conjuncted
-168433	conjuncted
-168435	conjuncted
-168455	conjuncted
-168464	conjuncted
-168473	conjuncted
-168477	conjuncted
-168487	conjuncted
-168501	conjuncted
-168508	conjuncted
-168512	conjuncted
-168515	conjuncted
-168519	conjuncted
-168526	conjuncted
+168429	conjuncted
+168434	conjuncted
+168437	conjuncted
 conjuncted
-168535	conjuncted
-168537	conjuncted
-168542	conjuncted
-168549	conjuncted
+168461	conjuncted
+168463	conjuncted
+168497	conjuncted
+168499	conjuncted
+168507	conjuncted
+168511	conjuncted
+168523	conjuncted
+conjuncted
+168533	conjuncted
+conjuncted
+168536	conjuncted
+168553	conjuncted
 168555	conjuncted
-168567	conjuncted
-168570	conjuncted
-168586	conjuncted
-168591	conjuncted
-168602	conjuncted
-168608	conjuncted
-168612	conjuncted
+168564	conjuncted
+168568	conjuncted
+conjuncted
+168572	conjuncted
+168574	conjuncted
+168581	conjuncted
+168589	conjuncted
+168592	conjuncted
+168599	conjuncted
+168611	conjuncted
+168621	conjuncted
+168626	conjuncted
+168628	conjuncted
+168641	conjuncted
 168645	conjuncted
-168648	conjuncted
-168653	conjuncted
+168649	conjuncted
+168655	conjuncted
+168658	conjuncted
+168673	conjuncted
+168698	conjuncted
+168705	conjuncted
+168709	conjuncted
 conjuncted
-168656	conjuncted
-168663	conjuncted
-168670	conjuncted
-168675	conjuncted
-168678	conjuncted
-168685	conjuncted
+168713	conjuncted
+168716	conjuncted
+168718	conjuncted
+168721	conjuncted
+168739	conjuncted
+168746	conjuncted
+168748	conjuncted
+168758	conjuncted
 conjuncted
-168702	conjuncted
-168724	conjuncted
-168730	conjuncted
-168732	conjuncted
-168738	conjuncted
-168744	conjuncted
-168747	conjuncted
-168755	conjuncted
-168757	conjuncted
-168760	conjuncted
-168762	conjuncted
-168768	conjuncted
-168772	conjuncted
-168783	conjuncted
-168787	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+168769	conjuncted
+168778	conjuncted
 168790	conjuncted
-168798	conjuncted
+168795	conjuncted
+168804	conjuncted
+168806	conjuncted
 168808	conjuncted
-168812	conjuncted
-168814	conjuncted
+168813	conjuncted
+168834	conjuncted
+168836	conjuncted
+168862	conjuncted
 conjuncted
-168825	conjuncted
-168827	conjuncted
-168847	conjuncted
-168852	conjuncted
-168869	conjuncted
-168885	conjuncted
-168887	conjuncted
-168896	conjuncted
-168915	conjuncted
-168919	conjuncted
-168921	conjuncted
-168975	conjuncted
-168978	conjuncted
-168982	conjuncted
-168984	conjuncted
-169003	conjuncted
-169045	conjuncted
-169048	conjuncted
-169068	conjuncted
+168873	conjuncted
+168875	conjuncted
+168877	conjuncted
 conjuncted
-169080	conjuncted
-169087	conjuncted
-169093	conjuncted
-169095	conjuncted
-169109	conjuncted
-169116	conjuncted
+conjuncted
+168893	conjuncted
+168898	conjuncted
+168917	conjuncted
+168925	conjuncted
+168936	conjuncted
+168940	conjuncted
+168944	conjuncted
+168949	conjuncted
+conjuncted
+168954	conjuncted
+168965	conjuncted
+168971	conjuncted
+168979	conjuncted
+168997	conjuncted
+169008	conjuncted
+169010	conjuncted
+169026	conjuncted
+conjuncted
+169031	conjuncted
+169033	conjuncted
+169038	conjuncted
+169044	conjuncted
+169055	conjuncted
+169058	conjuncted
+169061	conjuncted
+169066	conjuncted
+169072	conjuncted
+conjuncted
+169079	conjuncted
+169104	conjuncted
+169113	conjuncted
 169120	conjuncted
+169128	conjuncted
+169142	conjuncted
+169146	conjuncted
+169152	conjuncted
+169160	conjuncted
 conjuncted
-169123	conjuncted
-conjuncted
-169130	conjuncted
-169168	conjuncted
 conjuncted
 conjuncted
+169176	conjuncted
+169186	conjuncted
 conjuncted
-169173	conjuncted
-169175	conjuncted
-169177	conjuncted
-169179	conjuncted
-169183	conjuncted
-169185	conjuncted
-169191	conjuncted
-169210	conjuncted
-169216	conjuncted
-169220	conjuncted
-169235	conjuncted
-169239	conjuncted
-169249	conjuncted
-169263	conjuncted
-169275	conjuncted
-169282	conjuncted
-169284	conjuncted
-169295	conjuncted
-169306	conjuncted
+conjuncted
+169190	conjuncted
+169200	conjuncted
+169202	conjuncted
+169205	conjuncted
+169215	conjuncted
+169219	conjuncted
+169223	conjuncted
+169226	conjuncted
+169229	conjuncted
+169262	conjuncted
+169266	conjuncted
+169269	conjuncted
+169283	conjuncted
+169294	conjuncted
+169303	conjuncted
+conjuncted
+conjuncted
 169308	conjuncted
-169311	conjuncted
-169327	conjuncted
-169335	conjuncted
-169350	conjuncted
-conjuncted
-conjuncted
-169357	conjuncted
-conjuncted
-169360	conjuncted
-169362	conjuncted
-conjuncted
-169365	conjuncted
-169367	conjuncted
+169321	conjuncted
+169324	conjuncted
+169326	conjuncted
+169341	conjuncted
+169345	conjuncted
 169372	conjuncted
-conjuncted
-169375	conjuncted
-169380	conjuncted
+169382	conjuncted
+169384	conjuncted
+169389	conjuncted
 169394	conjuncted
-169398	conjuncted
-169402	conjuncted
-169424	conjuncted
-169428	conjuncted
-conjuncted
-169431	conjuncted
-169436	conjuncted
-conjuncted
-169443	conjuncted
+169400	conjuncted
+169404	conjuncted
+169408	conjuncted
+169417	conjuncted
+169425	conjuncted
+169427	conjuncted
+169438	conjuncted
 169447	conjuncted
+169449	conjuncted
+169466	conjuncted
+169502	conjuncted
+169511	conjuncted
+169514	conjuncted
 conjuncted
-169450	conjuncted
-169455	conjuncted
-169472	conjuncted
-conjuncted
-169479	conjuncted
-169498	conjuncted
-169500	conjuncted
-169505	conjuncted
-169522	conjuncted
-conjuncted
-conjuncted
-169530	conjuncted
-169538	conjuncted
-169540	conjuncted
-169548	conjuncted
-169553	conjuncted
-conjuncted
-169558	conjuncted
+169536	conjuncted
+169560	conjuncted
+169567	conjuncted
 169571	conjuncted
-169573	conjuncted
-169580	conjuncted
+conjuncted
+169577	conjuncted
+conjuncted
+conjuncted
 169583	conjuncted
-169595	conjuncted
-169598	conjuncted
-169603	conjuncted
-169606	conjuncted
-169612	conjuncted
-169614	conjuncted
-169624	conjuncted
-169630	conjuncted
-169632	conjuncted
-169636	conjuncted
+169588	conjuncted
+169591	conjuncted
+169601	conjuncted
+169619	conjuncted
+conjuncted
+169629	conjuncted
 169639	conjuncted
-169645	conjuncted
 169649	conjuncted
-conjuncted
-169659	conjuncted
 169662	conjuncted
-169665	conjuncted
-169674	conjuncted
-169691	conjuncted
-169708	conjuncted
+169672	conjuncted
+169694	conjuncted
 conjuncted
-169722	conjuncted
+169697	conjuncted
+169713	conjuncted
 conjuncted
-169728	conjuncted
-169730	conjuncted
-169734	conjuncted
-169736	conjuncted
-169744	conjuncted
-169746	conjuncted
-169752	conjuncted
-169755	conjuncted
+conjuncted
+169726	conjuncted
+169741	conjuncted
+169743	conjuncted
 169762	conjuncted
-169776	conjuncted
+169767	conjuncted
+169770	conjuncted
 169781	conjuncted
-169787	conjuncted
+169790	conjuncted
+169793	conjuncted
 conjuncted
-169794	conjuncted
-169803	conjuncted
-conjuncted
-169808	conjuncted
-169818	conjuncted
-conjuncted
-169836	conjuncted
-169843	conjuncted
-169873	conjuncted
-169877	conjuncted
-169893	conjuncted
-conjuncted
-169899	conjuncted
-169902	conjuncted
-169905	conjuncted
-169915	conjuncted
-169923	conjuncted
+169805	conjuncted
+169807	conjuncted
+169831	conjuncted
+169833	conjuncted
+169835	conjuncted
+169837	conjuncted
 conjuncted
 conjuncted
+169849	conjuncted
+169856	conjuncted
+conjuncted
+169860	conjuncted
+169865	conjuncted
+169874	conjuncted
+169880	conjuncted
+169895	conjuncted
+169897	conjuncted
+169904	conjuncted
+169909	conjuncted
+conjuncted
+169917	conjuncted
 169929	conjuncted
-conjuncted
-conjuncted
-conjuncted
-169934	conjuncted
+169937	conjuncted
 169939	conjuncted
-169944	conjuncted
+conjuncted
 169951	conjuncted
-169986	conjuncted
+169963	conjuncted
+169972	conjuncted
+169978	conjuncted
 conjuncted
-169992	conjuncted
-169994	conjuncted
+conjuncted
+169998	conjuncted
+170001	conjuncted
+170006	conjuncted
 170020	conjuncted
-170034	conjuncted
-170038	conjuncted
-170046	conjuncted
-170054	conjuncted
-170073	conjuncted
-170077	conjuncted
-170082	conjuncted
-170090	conjuncted
+170032	conjuncted
+170043	conjuncted
+170056	conjuncted
+170058	conjuncted
+170069	conjuncted
+170085	conjuncted
+conjuncted
+170088	conjuncted
 conjuncted
 conjuncted
-170099	conjuncted
-170103	conjuncted
-170106	conjuncted
-170113	conjuncted
+170097	conjuncted
+170100	conjuncted
 conjuncted
+170108	conjuncted
 170117	conjuncted
-170122	conjuncted
-170126	conjuncted
-170132	conjuncted
-170135	conjuncted
-170143	conjuncted
-170146	conjuncted
-170154	conjuncted
+170139	conjuncted
 conjuncted
-170166	conjuncted
-170175	conjuncted
-170179	conjuncted
-170198	conjuncted
-170206	conjuncted
-170210	conjuncted
-170219	conjuncted
-170225	conjuncted
-170246	conjuncted
-170252	conjuncted
-170278	conjuncted
-170283	conjuncted
-170290	conjuncted
-170296	conjuncted
-170302	conjuncted
-170309	conjuncted
-170315	conjuncted
+170149	conjuncted
+170163	conjuncted
+170177	conjuncted
 conjuncted
-170319	conjuncted
-170322	conjuncted
-170333	conjuncted
-170341	conjuncted
-170345	conjuncted
-170348	conjuncted
-170353	conjuncted
-170358	conjuncted
-170365	conjuncted
+170181	conjuncted
+170184	conjuncted
+170188	conjuncted
+170193	conjuncted
+170196	conjuncted
+170218	conjuncted
+170223	conjuncted
+conjuncted
+170226	conjuncted
+170229	conjuncted
+170234	conjuncted
+170237	conjuncted
+170245	conjuncted
+conjuncted
+conjuncted
+conjuncted
+170250	conjuncted
+170260	conjuncted
+conjuncted
+170265	conjuncted
+170267	conjuncted
+170274	conjuncted
+conjuncted
+170288	conjuncted
+170311	conjuncted
+conjuncted
+170318	conjuncted
+conjuncted
+conjuncted
+conjuncted
+170324	conjuncted
+170330	conjuncted
+170343	conjuncted
+conjuncted
+170352	conjuncted
+170354	conjuncted
+170363	conjuncted
+170366	conjuncted
 170372	conjuncted
-170374	conjuncted
+170376	conjuncted
+170383	conjuncted
+170394	conjuncted
 conjuncted
-170390	conjuncted
-170392	conjuncted
-170400	conjuncted
+170398	conjuncted
 conjuncted
 170413	conjuncted
-170433	conjuncted
-170436	conjuncted
-170443	conjuncted
-170447	conjuncted
-170455	conjuncted
-170459	conjuncted
-170464	conjuncted
-170474	conjuncted
-170485	conjuncted
-170500	conjuncted
-170504	conjuncted
+170427	conjuncted
+170439	conjuncted
+170448	conjuncted
+170453	conjuncted
+conjuncted
+conjuncted
+170469	conjuncted
+170471	conjuncted
+170486	conjuncted
 170510	conjuncted
-170514	conjuncted
-170522	conjuncted
-170530	conjuncted
-170532	conjuncted
-170542	conjuncted
-170548	conjuncted
+170513	conjuncted
+170525	conjuncted
+170531	conjuncted
+170537	conjuncted
+170559	conjuncted
 170561	conjuncted
-170564	conjuncted
-170586	conjuncted
-170591	conjuncted
-170595	conjuncted
+170578	conjuncted
+170589	conjuncted
+170597	conjuncted
+conjuncted
 170601	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-170611	conjuncted
-170617	conjuncted
-170620	conjuncted
-170625	conjuncted
-170627	conjuncted
-170635	conjuncted
-conjuncted
-conjuncted
-170639	conjuncted
-170641	conjuncted
-170645	conjuncted
-170654	conjuncted
-170659	conjuncted
-conjuncted
-conjuncted
-170665	conjuncted
+170614	conjuncted
+170621	conjuncted
+170624	conjuncted
+170626	conjuncted
+170644	conjuncted
+170648	conjuncted
 170668	conjuncted
-170674	conjuncted
-170682	conjuncted
+170672	conjuncted
+170688	conjuncted
+170691	conjuncted
+170700	conjuncted
 170704	conjuncted
-170713	conjuncted
-170718	conjuncted
-conjuncted
-170732	conjuncted
-170736	conjuncted
-170738	conjuncted
-170742	conjuncted
-170750	conjuncted
-170753	conjuncted
-170761	conjuncted
-170764	conjuncted
+170726	conjuncted
+170749	conjuncted
+170765	conjuncted
+170771	conjuncted
 170773	conjuncted
-170775	conjuncted
-170777	conjuncted
-170786	conjuncted
-170788	conjuncted
-170792	conjuncted
-170794	conjuncted
-170798	conjuncted
-170804	conjuncted
+170776	conjuncted
+170791	conjuncted
+170793	conjuncted
 conjuncted
-170807	conjuncted
-170816	conjuncted
+170796	conjuncted
+170800	conjuncted
+170810	conjuncted
+170813	conjuncted
+170815	conjuncted
+170818	conjuncted
+170822	conjuncted
 170824	conjuncted
-170826	conjuncted
+170827	conjuncted
+170829	conjuncted
+170831	conjuncted
 170833	conjuncted
+170842	conjuncted
+170847	conjuncted
+170858	conjuncted
+170862	conjuncted
 conjuncted
-170836	conjuncted
-170848	conjuncted
-170861	conjuncted
-170869	conjuncted
-170874	conjuncted
-170877	conjuncted
-170890	conjuncted
-170901	conjuncted
-170908	conjuncted
-170922	conjuncted
-170930	conjuncted
-170949	conjuncted
+170885	conjuncted
+170888	conjuncted
 conjuncted
-170968	conjuncted
-170970	conjuncted
-170984	conjuncted
-170986	conjuncted
+170897	conjuncted
+170904	conjuncted
 conjuncted
-170994	conjuncted
-170997	conjuncted
 conjuncted
-171017	conjuncted
-171024	conjuncted
-171027	conjuncted
+conjuncted
+170916	conjuncted
+conjuncted
+170926	conjuncted
+170936	conjuncted
+conjuncted
+170943	conjuncted
+conjuncted
+170946	conjuncted
+170951	conjuncted
+170953	conjuncted
+conjuncted
+conjuncted
+170962	conjuncted
+170964	conjuncted
+170971	conjuncted
+170973	conjuncted
+170977	conjuncted
+170998	conjuncted
+171028	conjuncted
+171032	conjuncted
+171034	conjuncted
+conjuncted
+171041	conjuncted
+conjuncted
 171044	conjuncted
-171046	conjuncted
-171052	conjuncted
-171059	conjuncted
-171065	conjuncted
-171087	conjuncted
-171099	conjuncted
-171105	conjuncted
-171111	conjuncted
-171113	conjuncted
-171125	conjuncted
-171128	conjuncted
-171134	conjuncted
-171142	conjuncted
-171144	conjuncted
-171149	conjuncted
-171156	conjuncted
-171158	conjuncted
-171168	conjuncted
-171189	conjuncted
-171193	conjuncted
-171202	conjuncted
+171048	conjuncted
 conjuncted
-171206	conjuncted
-171211	conjuncted
+conjuncted
+171055	conjuncted
+171057	conjuncted
+171059	conjuncted
+171061	conjuncted
+171064	conjuncted
+conjuncted
+conjuncted
+171068	conjuncted
+conjuncted
+171072	conjuncted
+conjuncted
+171080	conjuncted
+171095	conjuncted
+171097	conjuncted
+171103	conjuncted
+171105	conjuncted
+171107	conjuncted
+171109	conjuncted
+171114	conjuncted
+171118	conjuncted
+171145	conjuncted
+171149	conjuncted
+171161	conjuncted
+171164	conjuncted
+171168	conjuncted
+171173	conjuncted
+171190	conjuncted
+171197	conjuncted
 171221	conjuncted
-171232	conjuncted
-171236	conjuncted
-171244	conjuncted
+171237	conjuncted
+conjuncted
+171261	conjuncted
 171265	conjuncted
-171269	conjuncted
 conjuncted
 171276	conjuncted
-171283	conjuncted
+171285	conjuncted
 conjuncted
-171292	conjuncted
-171300	conjuncted
-171305	conjuncted
+171294	conjuncted
+171301	conjuncted
+171309	conjuncted
+171324	conjuncted
 171329	conjuncted
-171336	conjuncted
-171345	conjuncted
-171359	conjuncted
-conjuncted
-171367	conjuncted
-171390	conjuncted
-conjuncted
-171393	conjuncted
-171400	conjuncted
-171408	conjuncted
-171434	conjuncted
-171453	conjuncted
-171458	conjuncted
-171466	conjuncted
-171477	conjuncted
-171481	conjuncted
-conjuncted
-conjuncted
-171490	conjuncted
-171499	conjuncted
-171508	conjuncted
-171517	conjuncted
-conjuncted
-171526	conjuncted
-171529	conjuncted
-171551	conjuncted
-171553	conjuncted
-171564	conjuncted
-171566	conjuncted
-171571	conjuncted
-171581	conjuncted
-171584	conjuncted
-171589	conjuncted
-171605	conjuncted
-171611	conjuncted
-171616	conjuncted
-171626	conjuncted
-171641	conjuncted
+171344	conjuncted
+171363	conjuncted
+171369	conjuncted
+171376	conjuncted
+171388	conjuncted
+171392	conjuncted
+171397	conjuncted
+171405	conjuncted
+171426	conjuncted
+171442	conjuncted
+171444	conjuncted
+171446	conjuncted
+171449	conjuncted
+171471	conjuncted
+171479	conjuncted
+171487	conjuncted
+171489	conjuncted
+171527	conjuncted
+171533	conjuncted
+171552	conjuncted
+171557	conjuncted
+171559	conjuncted
+171567	conjuncted
+171638	conjuncted
 171643	conjuncted
-conjuncted
+171645	conjuncted
 171652	conjuncted
-171655	conjuncted
-171669	conjuncted
-171678	conjuncted
-171680	conjuncted
-171683	conjuncted
-171689	conjuncted
-171698	conjuncted
-171707	conjuncted
-171716	conjuncted
-171735	conjuncted
+171654	conjuncted
+171657	conjuncted
+171677	conjuncted
+171679	conjuncted
+171685	conjuncted
+171688	conjuncted
+171696	conjuncted
+171709	conjuncted
+171711	conjuncted
+171715	conjuncted
+171767	conjuncted
+171793	conjuncted
+171795	conjuncted
+171800	conjuncted
+171805	conjuncted
+171807	conjuncted
 conjuncted
-171756	conjuncted
-171761	conjuncted
-171764	conjuncted
-171769	conjuncted
-171773	conjuncted
-conjuncted
-171782	conjuncted
-171789	conjuncted
-conjuncted
-171792	conjuncted
-171796	conjuncted
-171818	conjuncted
-171828	conjuncted
-171838	conjuncted
-171863	conjuncted
-171867	conjuncted
-171871	conjuncted
-171879	conjuncted
-171881	conjuncted
-171889	conjuncted
+171855	conjuncted
+171882	conjuncted
+171885	conjuncted
+171894	conjuncted
 171896	conjuncted
-171900	conjuncted
-171905	conjuncted
-171919	conjuncted
-171923	conjuncted
-171927	conjuncted
-171934	conjuncted
-171942	conjuncted
-171946	conjuncted
-171965	conjuncted
-171968	conjuncted
-171974	conjuncted
-171980	conjuncted
-171988	conjuncted
-171992	conjuncted
-172000	conjuncted
-conjuncted
-172008	conjuncted
-172017	conjuncted
-172025	conjuncted
-172041	conjuncted
-172054	conjuncted
-172059	conjuncted
+171902	conjuncted
+171909	conjuncted
+171918	conjuncted
+171924	conjuncted
+171926	conjuncted
+171950	conjuncted
+171952	conjuncted
+171976	conjuncted
+171996	conjuncted
+171998	conjuncted
+172022	conjuncted
+172049	conjuncted
+172073	conjuncted
+172076	conjuncted
 172079	conjuncted
-172081	conjuncted
-172085	conjuncted
-172094	conjuncted
-172103	conjuncted
-172123	conjuncted
-172126	conjuncted
-172132	conjuncted
-172136	conjuncted
-172148	conjuncted
-172151	conjuncted
+172091	conjuncted
+172104	conjuncted
+172110	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+172129	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+172135	conjuncted
+172137	conjuncted
+conjuncted
+conjuncted
+conjuncted
+172147	conjuncted
 172155	conjuncted
-172160	conjuncted
-172169	conjuncted
-172188	conjuncted
-172210	conjuncted
-172215	conjuncted
-172225	conjuncted
 conjuncted
-172231	conjuncted
-172242	conjuncted
-172249	conjuncted
-172256	conjuncted
-172275	conjuncted
-172296	conjuncted
-172312	conjuncted
-172321	conjuncted
-172328	conjuncted
-172333	conjuncted
-172336	conjuncted
 conjuncted
+conjuncted
+conjuncted
+172161	conjuncted
+172173	conjuncted
+172185	conjuncted
+172192	conjuncted
+172194	conjuncted
+172205	conjuncted
+172217	conjuncted
+172226	conjuncted
+172236	conjuncted
+172244	conjuncted
+172267	conjuncted
+172269	conjuncted
+172276	conjuncted
+172279	conjuncted
+172287	conjuncted
+172307	conjuncted
+172315	conjuncted
+172324	conjuncted
+172338	conjuncted
 conjuncted
 172346	conjuncted
-172355	conjuncted
-172363	conjuncted
-172377	conjuncted
-172385	conjuncted
+172351	conjuncted
+172356	conjuncted
+172383	conjuncted
 172389	conjuncted
-172398	conjuncted
-172411	conjuncted
-172413	conjuncted
-172434	conjuncted
-172448	conjuncted
+172396	conjuncted
+172405	conjuncted
 conjuncted
-172458	conjuncted
-172465	conjuncted
-172476	conjuncted
-172483	conjuncted
-172486	conjuncted
-172491	conjuncted
-172493	conjuncted
-172500	conjuncted
-172508	conjuncted
-172510	conjuncted
-172531	conjuncted
-172547	conjuncted
-172556	conjuncted
-172558	conjuncted
-172568	conjuncted
-172573	conjuncted
-172586	conjuncted
-172594	conjuncted
-172600	conjuncted
-172615	conjuncted
-172621	conjuncted
-172624	conjuncted
-172633	conjuncted
-172636	conjuncted
-172647	conjuncted
-172658	conjuncted
+172442	conjuncted
+172450	conjuncted
+172461	conjuncted
+172473	conjuncted
+172494	conjuncted
+172513	conjuncted
+172521	conjuncted
+172526	conjuncted
+conjuncted
+conjuncted
+172532	conjuncted
+172549	conjuncted
+172560	conjuncted
+172579	conjuncted
+172582	conjuncted
+172597	conjuncted
+172607	conjuncted
+172609	conjuncted
+172613	conjuncted
+172630	conjuncted
+172641	conjuncted
+172653	conjuncted
+172655	conjuncted
+172659	conjuncted
+172664	conjuncted
+172674	conjuncted
+conjuncted
 172678	conjuncted
 172686	conjuncted
 172690	conjuncted
-172704	conjuncted
-172708	conjuncted
-172715	conjuncted
-172719	conjuncted
-172733	conjuncted
-172739	conjuncted
-172745	conjuncted
-172749	conjuncted
-172760	conjuncted
-172762	conjuncted
-172764	conjuncted
-172768	conjuncted
-172770	conjuncted
-172774	conjuncted
-172779	conjuncted
-172785	conjuncted
-172791	conjuncted
-172793	conjuncted
-172801	conjuncted
-172803	conjuncted
-172823	conjuncted
-172842	conjuncted
-172851	conjuncted
-172858	conjuncted
 conjuncted
-172877	conjuncted
-172883	conjuncted
-172897	conjuncted
-172904	conjuncted
+172706	conjuncted
+conjuncted
+172726	conjuncted
+172729	conjuncted
+172775	conjuncted
+172810	conjuncted
+172818	conjuncted
+172826	conjuncted
+172836	conjuncted
+172881	conjuncted
+172903	conjuncted
+172907	conjuncted
 172913	conjuncted
-172918	conjuncted
+172915	conjuncted
+172917	conjuncted
 172920	conjuncted
-172922	conjuncted
-172931	conjuncted
-172967	conjuncted
-172976	conjuncted
-172979	conjuncted
-172985	conjuncted
-173031	conjuncted
+172927	conjuncted
+172930	conjuncted
+172939	conjuncted
+172952	conjuncted
+172959	conjuncted
+172961	conjuncted
+172977	conjuncted
+172981	conjuncted
+172984	conjuncted
+172988	conjuncted
+172994	conjuncted
+172997	conjuncted
+173002	conjuncted
+173005	conjuncted
+conjuncted
+173021	conjuncted
+173033	conjuncted
 173035	conjuncted
-173037	conjuncted
-173039	conjuncted
-173050	conjuncted
+173055	conjuncted
+173057	conjuncted
+conjuncted
+173063	conjuncted
 173068	conjuncted
-173070	conjuncted
-173089	conjuncted
-173093	conjuncted
-173105	conjuncted
-173114	conjuncted
-173121	conjuncted
-173134	conjuncted
-173136	conjuncted
-173146	conjuncted
+173072	conjuncted
+173080	conjuncted
+173082	conjuncted
+173104	conjuncted
+173120	conjuncted
+173123	conjuncted
+173127	conjuncted
+173138	conjuncted
+173143	conjuncted
+173154	conjuncted
+173165	conjuncted
+173196	conjuncted
 conjuncted
-173151	conjuncted
-conjuncted
-173158	conjuncted
-173161	conjuncted
-173166	conjuncted
-173171	conjuncted
-conjuncted
-173177	conjuncted
-173180	conjuncted
-173189	conjuncted
-conjuncted
-173193	conjuncted
-173195	conjuncted
-173197	conjuncted
-173204	conjuncted
-conjuncted
-173208	conjuncted
-173215	conjuncted
-conjuncted
+173200	conjuncted
+173210	conjuncted
+173219	conjuncted
 173230	conjuncted
 173239	conjuncted
-173249	conjuncted
-173252	conjuncted
-173259	conjuncted
-173266	conjuncted
-173273	conjuncted
-173277	conjuncted
+173243	conjuncted
+173253	conjuncted
+173265	conjuncted
+173270	conjuncted
+173283	conjuncted
 173289	conjuncted
+173291	conjuncted
+173294	conjuncted
+173300	conjuncted
 conjuncted
-conjuncted
-173301	conjuncted
-173305	conjuncted
-173315	conjuncted
-conjuncted
+173306	conjuncted
+173314	conjuncted
 173320	conjuncted
-173335	conjuncted
-173338	conjuncted
 conjuncted
-173345	conjuncted
-173359	conjuncted
+173323	conjuncted
+173325	conjuncted
+conjuncted
+conjuncted
+conjuncted
+173338	conjuncted
+173340	conjuncted
+173344	conjuncted
+173346	conjuncted
+173348	conjuncted
+173353	conjuncted
+173356	conjuncted
+173362	conjuncted
+conjuncted
+conjuncted
+173369	conjuncted
 173371	conjuncted
-173375	conjuncted
+173378	conjuncted
+173381	conjuncted
+173383	conjuncted
+173387	conjuncted
 173394	conjuncted
 173396	conjuncted
-173399	conjuncted
 conjuncted
-173402	conjuncted
-173409	conjuncted
-conjuncted
-173412	conjuncted
+173403	conjuncted
+173417	conjuncted
 173419	conjuncted
-conjuncted
-conjuncted
+173421	conjuncted
+173431	conjuncted
 173433	conjuncted
-173439	conjuncted
-173454	conjuncted
-173463	conjuncted
-173466	conjuncted
-conjuncted
-173475	conjuncted
-conjuncted
-173485	conjuncted
-173489	conjuncted
+173435	conjuncted
+173437	conjuncted
+173442	conjuncted
+173449	conjuncted
+173467	conjuncted
+173471	conjuncted
+173478	conjuncted
 173493	conjuncted
-173516	conjuncted
-173523	conjuncted
-173527	conjuncted
-173547	conjuncted
+173495	conjuncted
+173500	conjuncted
+173502	conjuncted
+173504	conjuncted
+173506	conjuncted
+conjuncted
+conjuncted
+173511	conjuncted
+173524	conjuncted
+173528	conjuncted
+173530	conjuncted
+173544	conjuncted
 conjuncted
 conjuncted
 173557	conjuncted
-173562	conjuncted
-173569	conjuncted
+173563	conjuncted
+173566	conjuncted
+conjuncted
+conjuncted
+173570	conjuncted
+conjuncted
 173576	conjuncted
-173579	conjuncted
-conjuncted
-173596	conjuncted
-173604	conjuncted
-173610	conjuncted
-173615	conjuncted
-conjuncted
-conjuncted
-173626	conjuncted
-173635	conjuncted
-conjuncted
-173638	conjuncted
-173648	conjuncted
-173651	conjuncted
-173673	conjuncted
-173680	conjuncted
-173688	conjuncted
+173578	conjuncted
+173598	conjuncted
+173600	conjuncted
+173630	conjuncted
+173637	conjuncted
+173659	conjuncted
+173662	conjuncted
+173666	conjuncted
+173669	conjuncted
+173684	conjuncted
+173687	conjuncted
 173691	conjuncted
-173696	conjuncted
+173695	conjuncted
+173702	conjuncted
+173705	conjuncted
+173713	conjuncted
+173732	conjuncted
+173742	conjuncted
+173744	conjuncted
+173750	conjuncted
+173782	conjuncted
 conjuncted
-173704	conjuncted
-173708	conjuncted
-173712	conjuncted
-173733	conjuncted
-173738	conjuncted
-173743	conjuncted
-173751	conjuncted
-173761	conjuncted
-173763	conjuncted
-173781	conjuncted
-173798	conjuncted
-173817	conjuncted
-173840	conjuncted
-173851	conjuncted
-173866	conjuncted
 conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+173790	conjuncted
+173792	conjuncted
+173794	conjuncted
+173799	conjuncted
+173807	conjuncted
+173812	conjuncted
+173814	conjuncted
+173824	conjuncted
+173826	conjuncted
+173834	conjuncted
+173867	conjuncted
+conjuncted
+173870	conjuncted
 173873	conjuncted
+173876	conjuncted
 173879	conjuncted
-173884	conjuncted
-173889	conjuncted
-173897	conjuncted
-173903	conjuncted
-173905	conjuncted
-173912	conjuncted
-173915	conjuncted
-173921	conjuncted
-173940	conjuncted
-173944	conjuncted
 conjuncted
-173957	conjuncted
-173960	conjuncted
-173967	conjuncted
-173970	conjuncted
 conjuncted
-173974	conjuncted
-174000	conjuncted
-174005	conjuncted
-174017	conjuncted
-174020	conjuncted
-174028	conjuncted
-174032	conjuncted
-174038	conjuncted
-174046	conjuncted
-174050	conjuncted
-174056	conjuncted
-174058	conjuncted
-174068	conjuncted
-174071	conjuncted
-174074	conjuncted
-174076	conjuncted
-174082	conjuncted
-174085	conjuncted
+conjuncted
+conjuncted
+conjuncted
+173896	conjuncted
+173901	conjuncted
+173910	conjuncted
+173922	conjuncted
+173931	conjuncted
+173933	conjuncted
+173935	conjuncted
+173941	conjuncted
+173949	conjuncted
+173951	conjuncted
+173959	conjuncted
+173975	conjuncted
+conjuncted
+conjuncted
+173981	conjuncted
+conjuncted
+conjuncted
+173994	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+174011	conjuncted
+174041	conjuncted
+174052	conjuncted
+conjuncted
+174061	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+174073	conjuncted
+174075	conjuncted
+174077	conjuncted
+174079	conjuncted
+174081	conjuncted
+174084	conjuncted
 174087	conjuncted
+174091	conjuncted
+conjuncted
 174095	conjuncted
-174111	conjuncted
-174113	conjuncted
-174117	conjuncted
-174121	conjuncted
-conjuncted
-174135	conjuncted
-174138	conjuncted
-174148	conjuncted
-174155	conjuncted
-conjuncted
-174162	conjuncted
-174166	conjuncted
-174178	conjuncted
+174099	conjuncted
+174101	conjuncted
+174128	conjuncted
+174137	conjuncted
+174150	conjuncted
+174153	conjuncted
+174156	conjuncted
+174161	conjuncted
+174170	conjuncted
 174182	conjuncted
-174185	conjuncted
-174189	conjuncted
-174193	conjuncted
-conjuncted
-conjuncted
-174202	conjuncted
-174210	conjuncted
-conjuncted
-174234	conjuncted
-174236	conjuncted
-174239	conjuncted
-174251	conjuncted
-174265	conjuncted
-174269	conjuncted
-conjuncted
+174184	conjuncted
+174188	conjuncted
+174199	conjuncted
+174206	conjuncted
+174211	conjuncted
+174213	conjuncted
+174219	conjuncted
+174228	conjuncted
+174233	conjuncted
+174238	conjuncted
+174245	conjuncted
+174273	conjuncted
 174275	conjuncted
-conjuncted
-174283	conjuncted
-174290	conjuncted
-174298	conjuncted
-conjuncted
-174311	conjuncted
-conjuncted
-174314	conjuncted
-174332	conjuncted
-174334	conjuncted
-174343	conjuncted
+174300	conjuncted
+174326	conjuncted
+174339	conjuncted
 174345	conjuncted
-174347	conjuncted
-174362	conjuncted
-174366	conjuncted
-174374	conjuncted
+174351	conjuncted
+174357	conjuncted
+174375	conjuncted
+174378	conjuncted
 conjuncted
-174381	conjuncted
+174382	conjuncted
 conjuncted
-174390	conjuncted
-174410	conjuncted
-174414	conjuncted
-174422	conjuncted
-174427	conjuncted
-174436	conjuncted
-174443	conjuncted
-174454	conjuncted
-174459	conjuncted
-174462	conjuncted
-174468	conjuncted
+174394	conjuncted
+174402	conjuncted
+174413	conjuncted
+174415	conjuncted
+174419	conjuncted
+174423	conjuncted
+174440	conjuncted
+174448	conjuncted
+174465	conjuncted
+174474	conjuncted
 conjuncted
-174488	conjuncted
-174491	conjuncted
-174501	conjuncted
-174512	conjuncted
-174523	conjuncted
-174525	conjuncted
-174530	conjuncted
-174541	conjuncted
-174545	conjuncted
-174551	conjuncted
-174556	conjuncted
+174478	conjuncted
+174480	conjuncted
+174484	conjuncted
+174486	conjuncted
+174490	conjuncted
+174498	conjuncted
+174503	conjuncted
+174507	conjuncted
+174535	conjuncted
+174565	conjuncted
+174571	conjuncted
 conjuncted
-174584	conjuncted
-174586	conjuncted
-174624	conjuncted
-174627	conjuncted
-174636	conjuncted
-174642	conjuncted
-174655	conjuncted
-conjuncted
-174668	conjuncted
-conjuncted
-174672	conjuncted
-174694	conjuncted
-174696	conjuncted
+174575	conjuncted
+174579	conjuncted
+174583	conjuncted
+174587	conjuncted
+174604	conjuncted
+174621	conjuncted
+174646	conjuncted
 174707	conjuncted
-174714	conjuncted
+174709	conjuncted
+174719	conjuncted
+174723	conjuncted
+174735	conjuncted
+174747	conjuncted
+174749	conjuncted
+174751	conjuncted
 conjuncted
-174718	conjuncted
-174721	conjuncted
-174730	conjuncted
-174739	conjuncted
-174743	conjuncted
-174752	conjuncted
-174766	conjuncted
-174778	conjuncted
-174783	conjuncted
-174786	conjuncted
+174754	conjuncted
+174779	conjuncted
+conjuncted
+174787	conjuncted
+174793	conjuncted
+174799	conjuncted
 174803	conjuncted
-174808	conjuncted
-174813	conjuncted
-174820	conjuncted
-174826	conjuncted
-174843	conjuncted
-174870	conjuncted
-174877	conjuncted
-174883	conjuncted
+174851	conjuncted
+174859	conjuncted
 conjuncted
-174888	conjuncted
+174865	conjuncted
+174869	conjuncted
+174876	conjuncted
+174879	conjuncted
+174882	conjuncted
+174890	conjuncted
 174893	conjuncted
-174897	conjuncted
-174900	conjuncted
-174920	conjuncted
-174929	conjuncted
-174931	conjuncted
-174946	conjuncted
-174948	conjuncted
+174907	conjuncted
 conjuncted
-174952	conjuncted
+174917	conjuncted
+174919	conjuncted
+174921	conjuncted
+174925	conjuncted
 conjuncted
-174956	conjuncted
+conjuncted
+174940	conjuncted
+174949	conjuncted
+174951	conjuncted
+174955	conjuncted
+174960	conjuncted
 174963	conjuncted
-174975	conjuncted
-174990	conjuncted
+174976	conjuncted
+174978	conjuncted
+174982	conjuncted
+conjuncted
+174994	conjuncted
 174996	conjuncted
-175007	conjuncted
-175009	conjuncted
-175011	conjuncted
-175017	conjuncted
-175039	conjuncted
-175041	conjuncted
-175072	conjuncted
+175002	conjuncted
+175010	conjuncted
+175014	conjuncted
+175025	conjuncted
+175038	conjuncted
+175053	conjuncted
 conjuncted
-175085	conjuncted
-175088	conjuncted
-175091	conjuncted
-conjuncted
-175094	conjuncted
+175056	conjuncted
+175063	conjuncted
+175066	conjuncted
+175079	conjuncted
+175082	conjuncted
+175100	conjuncted
+175109	conjuncted
 175111	conjuncted
-175118	conjuncted
-175143	conjuncted
-175154	conjuncted
-175166	conjuncted
-175171	conjuncted
-175177	conjuncted
-175183	conjuncted
+175114	conjuncted
+175116	conjuncted
+175122	conjuncted
 conjuncted
+175126	conjuncted
+conjuncted
+175173	conjuncted
+175181	conjuncted
+175185	conjuncted
 175189	conjuncted
+175198	conjuncted
 175200	conjuncted
-175208	conjuncted
-175217	conjuncted
-175235	conjuncted
-175249	conjuncted
-175251	conjuncted
+175203	conjuncted
+175205	conjuncted
+175207	conjuncted
+175209	conjuncted
+175212	conjuncted
+175216	conjuncted
+175224	conjuncted
+175226	conjuncted
+175232	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+175270	conjuncted
 175272	conjuncted
-conjuncted
-175277	conjuncted
-175280	conjuncted
-175286	conjuncted
-175293	conjuncted
-175310	conjuncted
-175314	conjuncted
-175318	conjuncted
-175324	conjuncted
-175332	conjuncted
-conjuncted
+175278	conjuncted
+175285	conjuncted
+175289	conjuncted
+175291	conjuncted
+175300	conjuncted
+175311	conjuncted
 175341	conjuncted
+conjuncted
+175346	conjuncted
+175351	conjuncted
+175353	conjuncted
+conjuncted
+175359	conjuncted
+175368	conjuncted
 175373	conjuncted
-175383	conjuncted
-175392	conjuncted
-175401	conjuncted
-175417	conjuncted
-175421	conjuncted
-175427	conjuncted
-175436	conjuncted
+175403	conjuncted
+175419	conjuncted
+175422	conjuncted
+175428	conjuncted
+175431	conjuncted
+175433	conjuncted
+175440	conjuncted
+175444	conjuncted
+175450	conjuncted
 conjuncted
-conjuncted
-conjuncted
-175454	conjuncted
+175462	conjuncted
 175469	conjuncted
+175486	conjuncted
 conjuncted
 conjuncted
-175474	conjuncted
-175488	conjuncted
-175491	conjuncted
+conjuncted
 175494	conjuncted
-175506	conjuncted
-175511	conjuncted
-175516	conjuncted
+conjuncted
+175501	conjuncted
 175519	conjuncted
-175523	conjuncted
-175559	conjuncted
-175564	conjuncted
-175570	conjuncted
-175589	conjuncted
-175602	conjuncted
-175612	conjuncted
-175614	conjuncted
+175527	conjuncted
+175549	conjuncted
+175554	conjuncted
+175557	conjuncted
+175571	conjuncted
+175580	conjuncted
+175586	conjuncted
+175591	conjuncted
 conjuncted
+175599	conjuncted
+175606	conjuncted
+175608	conjuncted
+175610	conjuncted
 175618	conjuncted
-175633	conjuncted
-175636	conjuncted
-175639	conjuncted
-175659	conjuncted
-175663	conjuncted
-175693	conjuncted
-175706	conjuncted
-175708	conjuncted
-175714	conjuncted
-175720	conjuncted
-175727	conjuncted
-175731	conjuncted
-175737	conjuncted
-175746	conjuncted
-175757	conjuncted
-175759	conjuncted
+175620	conjuncted
+175624	conjuncted
+175644	conjuncted
+conjuncted
+conjuncted
+175652	conjuncted
+175654	conjuncted
+175657	conjuncted
+175669	conjuncted
+175671	conjuncted
+175694	conjuncted
+175696	conjuncted
+175701	conjuncted
+175716	conjuncted
+175722	conjuncted
+175742	conjuncted
+175745	conjuncted
+175748	conjuncted
+175755	conjuncted
 175772	conjuncted
-175784	conjuncted
-175787	conjuncted
-175806	conjuncted
-175844	conjuncted
-175855	conjuncted
-175860	conjuncted
+175774	conjuncted
+175776	conjuncted
+175780	conjuncted
 conjuncted
-175887	conjuncted
-175912	conjuncted
-175924	conjuncted
+conjuncted
+175802	conjuncted
+175847	conjuncted
+175850	conjuncted
+conjuncted
+175895	conjuncted
+175902	conjuncted
+175910	conjuncted
+175927	conjuncted
 175932	conjuncted
-conjuncted
-175940	conjuncted
-conjuncted
-conjuncted
+175935	conjuncted
+175937	conjuncted
+175939	conjuncted
+175941	conjuncted
+175945	conjuncted
 175947	conjuncted
-175953	conjuncted
-175957	conjuncted
-175969	conjuncted
-175991	conjuncted
-conjuncted
+175949	conjuncted
+175952	conjuncted
+175954	conjuncted
+175984	conjuncted
+175996	conjuncted
+175998	conjuncted
 176003	conjuncted
-176014	conjuncted
-176025	conjuncted
-176040	conjuncted
-176052	conjuncted
-176077	conjuncted
-conjuncted
-176080	conjuncted
+176007	conjuncted
+176009	conjuncted
+176015	conjuncted
+176020	conjuncted
+176032	conjuncted
+176081	conjuncted
 176099	conjuncted
 conjuncted
+176123	conjuncted
+176127	conjuncted
+176143	conjuncted
+176147	conjuncted
+176151	conjuncted
+176155	conjuncted
 conjuncted
-176117	conjuncted
-176133	conjuncted
-176136	conjuncted
-176156	conjuncted
-176163	conjuncted
+176161	conjuncted
 176166	conjuncted
-176180	conjuncted
-176190	conjuncted
-176194	conjuncted
+176178	conjuncted
+176184	conjuncted
 conjuncted
-176208	conjuncted
-176211	conjuncted
-176237	conjuncted
-176241	conjuncted
-176244	conjuncted
-176246	conjuncted
+176187	conjuncted
 conjuncted
+176203	conjuncted
+176238	conjuncted
+176250	conjuncted
 conjuncted
+176256	conjuncted
+176258	conjuncted
 176260	conjuncted
-176270	conjuncted
-conjuncted
 176275	conjuncted
-176280	conjuncted
-176290	conjuncted
-176298	conjuncted
-176318	conjuncted
+176277	conjuncted
+176279	conjuncted
+176291	conjuncted
+176296	conjuncted
+176301	conjuncted
+conjuncted
+conjuncted
+conjuncted
+176315	conjuncted
+176319	conjuncted
 176321	conjuncted
-176330	conjuncted
-176337	conjuncted
-conjuncted
-176347	conjuncted
-176363	conjuncted
-176372	conjuncted
+176359	conjuncted
 176376	conjuncted
-conjuncted
-176389	conjuncted
-176403	conjuncted
+176402	conjuncted
+176407	conjuncted
 176415	conjuncted
-176422	conjuncted
-conjuncted
-conjuncted
+176421	conjuncted
+176424	conjuncted
+176426	conjuncted
+176436	conjuncted
 176445	conjuncted
-176450	conjuncted
-176455	conjuncted
-176474	conjuncted
-176488	conjuncted
-176500	conjuncted
-176513	conjuncted
-176516	conjuncted
-176529	conjuncted
-176551	conjuncted
-conjuncted
-176555	conjuncted
-conjuncted
-176558	conjuncted
-176567	conjuncted
+176449	conjuncted
+176465	conjuncted
+176497	conjuncted
+176541	conjuncted
+176557	conjuncted
+176569	conjuncted
 176572	conjuncted
-conjuncted
+176575	conjuncted
+176578	conjuncted
 176581	conjuncted
-176592	conjuncted
-176618	conjuncted
-conjuncted
-176630	conjuncted
-176645	conjuncted
-176660	conjuncted
-176662	conjuncted
-176665	conjuncted
-176670	conjuncted
-176674	conjuncted
-176681	conjuncted
+176594	conjuncted
+176611	conjuncted
+176620	conjuncted
+176623	conjuncted
+176625	conjuncted
+176638	conjuncted
+176673	conjuncted
+176680	conjuncted
+176682	conjuncted
 176685	conjuncted
-176714	conjuncted
-176720	conjuncted
-176722	conjuncted
+176690	conjuncted
+conjuncted
+176699	conjuncted
+176701	conjuncted
+176708	conjuncted
+176718	conjuncted
+176721	conjuncted
 176724	conjuncted
-176728	conjuncted
-176735	conjuncted
-176739	conjuncted
-176750	conjuncted
-conjuncted
-176753	conjuncted
-conjuncted
-176757	conjuncted
-176768	conjuncted
-conjuncted
-176774	conjuncted
-176776	conjuncted
+176734	conjuncted
+176742	conjuncted
+176760	conjuncted
+176766	conjuncted
 176786	conjuncted
+176793	conjuncted
+176795	conjuncted
 conjuncted
-176802	conjuncted
-176828	conjuncted
 conjuncted
-176839	conjuncted
+176800	conjuncted
+176804	conjuncted
+176808	conjuncted
+176813	conjuncted
+176817	conjuncted
+176821	conjuncted
+176825	conjuncted
+176831	conjuncted
 176841	conjuncted
 conjuncted
-176844	conjuncted
-176847	conjuncted
-176854	conjuncted
-176870	conjuncted
-conjuncted
-176882	conjuncted
-176884	conjuncted
+176846	conjuncted
+176857	conjuncted
+176859	conjuncted
+176861	conjuncted
+176865	conjuncted
+176868	conjuncted
+176871	conjuncted
+176873	conjuncted
+176875	conjuncted
+176881	conjuncted
 176894	conjuncted
-176899	conjuncted
-176907	conjuncted
-176913	conjuncted
-176924	conjuncted
-176935	conjuncted
-176938	conjuncted
 176943	conjuncted
 conjuncted
-176961	conjuncted
-176978	conjuncted
-176991	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+176957	conjuncted
+176979	conjuncted
+176990	conjuncted
+176994	conjuncted
+176996	conjuncted
+conjuncted
+177001	conjuncted
 177003	conjuncted
-177010	conjuncted
+177014	conjuncted
 conjuncted
 conjuncted
-177026	conjuncted
-177029	conjuncted
-177048	conjuncted
-177076	conjuncted
-177080	conjuncted
+conjuncted
+177077	conjuncted
+177086	conjuncted
+177088	conjuncted
 177095	conjuncted
-177102	conjuncted
-177110	conjuncted
+177101	conjuncted
+177113	conjuncted
+177115	conjuncted
+177118	conjuncted
+conjuncted
+177124	conjuncted
 177135	conjuncted
-177137	conjuncted
-177157	conjuncted
-177169	conjuncted
-177178	conjuncted
-177180	conjuncted
-177183	conjuncted
-177197	conjuncted
-177205	conjuncted
-177207	conjuncted
+177149	conjuncted
+177161	conjuncted
+177165	conjuncted
+177171	conjuncted
+177179	conjuncted
+177200	conjuncted
+177202	conjuncted
+conjuncted
 177209	conjuncted
-177230	conjuncted
-177235	conjuncted
-177258	conjuncted
-177264	conjuncted
-177281	conjuncted
-177284	conjuncted
-177294	conjuncted
-177298	conjuncted
-177324	conjuncted
-177351	conjuncted
+177212	conjuncted
+conjuncted
+conjuncted
+177220	conjuncted
+177222	conjuncted
+177224	conjuncted
+177243	conjuncted
+177246	conjuncted
+177248	conjuncted
+177250	conjuncted
+177269	conjuncted
+177278	conjuncted
+177280	conjuncted
+conjuncted
+177283	conjuncted
+177295	conjuncted
+177301	conjuncted
+177305	conjuncted
+177316	conjuncted
+177348	conjuncted
+177356	conjuncted
+177359	conjuncted
 177368	conjuncted
-177375	conjuncted
-177377	conjuncted
+177370	conjuncted
 177381	conjuncted
-177397	conjuncted
-177400	conjuncted
-conjuncted
-177405	conjuncted
-177409	conjuncted
-177422	conjuncted
-177427	conjuncted
-177429	conjuncted
-177433	conjuncted
-177439	conjuncted
-177441	conjuncted
-177446	conjuncted
-177448	conjuncted
-177450	conjuncted
-177452	conjuncted
-177463	conjuncted
-177469	conjuncted
-177492	conjuncted
-177500	conjuncted
-177503	conjuncted
+177384	conjuncted
+177391	conjuncted
+177438	conjuncted
+177498	conjuncted
+177501	conjuncted
+177504	conjuncted
+177507	conjuncted
+177510	conjuncted
+177517	conjuncted
+177524	conjuncted
+177526	conjuncted
 177530	conjuncted
+177532	conjuncted
 177534	conjuncted
-conjuncted
-177545	conjuncted
-177554	conjuncted
-conjuncted
+177550	conjuncted
+177552	conjuncted
 177557	conjuncted
-conjuncted
-177570	conjuncted
-conjuncted
-177582	conjuncted
-177595	conjuncted
-conjuncted
-177605	conjuncted
-conjuncted
-177608	conjuncted
-177614	conjuncted
-177617	conjuncted
+177562	conjuncted
+177579	conjuncted
+177604	conjuncted
+177620	conjuncted
 conjuncted
 conjuncted
-177627	conjuncted
-177630	conjuncted
-177639	conjuncted
-177641	conjuncted
-177646	conjuncted
-177673	conjuncted
+177634	conjuncted
+177645	conjuncted
+177660	conjuncted
+177690	conjuncted
+177695	conjuncted
+177697	conjuncted
+conjuncted
+177702	conjuncted
 177704	conjuncted
-177709	conjuncted
-177712	conjuncted
-conjuncted
-177720	conjuncted
-177722	conjuncted
-177726	conjuncted
-177731	conjuncted
-conjuncted
-conjuncted
-177738	conjuncted
-177741	conjuncted
-177744	conjuncted
-177748	conjuncted
-177754	conjuncted
-conjuncted
-conjuncted
-177759	conjuncted
-conjuncted
-177765	conjuncted
-conjuncted
+177707	conjuncted
+177711	conjuncted
+177721	conjuncted
+177725	conjuncted
+177729	conjuncted
+177755	conjuncted
+177764	conjuncted
 177773	conjuncted
-177792	conjuncted
+177782	conjuncted
+177784	conjuncted
+177788	conjuncted
+conjuncted
+177791	conjuncted
+conjuncted
 177795	conjuncted
-177805	conjuncted
-177807	conjuncted
-177809	conjuncted
-177811	conjuncted
-177816	conjuncted
-177822	conjuncted
-177850	conjuncted
-177855	conjuncted
-177871	conjuncted
-177876	conjuncted
-177881	conjuncted
+177797	conjuncted
+conjuncted
+177806	conjuncted
+177820	conjuncted
+177827	conjuncted
+177832	conjuncted
+177840	conjuncted
+conjuncted
+177857	conjuncted
+177864	conjuncted
+177866	conjuncted
+177875	conjuncted
+177882	conjuncted
+177885	conjuncted
 177889	conjuncted
-177909	conjuncted
-177917	conjuncted
-177945	conjuncted
-177964	conjuncted
+177904	conjuncted
+177914	conjuncted
+177923	conjuncted
+177930	conjuncted
+177968	conjuncted
+177972	conjuncted
 conjuncted
-177994	conjuncted
+177977	conjuncted
+177980	conjuncted
+177997	conjuncted
 178001	conjuncted
-conjuncted
-178013	conjuncted
-178024	conjuncted
-conjuncted
-178035	conjuncted
-178047	conjuncted
-178058	conjuncted
-178075	conjuncted
-178081	conjuncted
-178098	conjuncted
-178120	conjuncted
-178128	conjuncted
-178136	conjuncted
-178151	conjuncted
+178017	conjuncted
+178021	conjuncted
+178023	conjuncted
+178032	conjuncted
+178056	conjuncted
+178064	conjuncted
+178078	conjuncted
+178090	conjuncted
+178092	conjuncted
+178095	conjuncted
+178131	conjuncted
+178150	conjuncted
+178153	conjuncted
 178156	conjuncted
-178165	conjuncted
-178175	conjuncted
-178201	conjuncted
-178219	conjuncted
-178221	conjuncted
-178224	conjuncted
+178163	conjuncted
+178187	conjuncted
+178226	conjuncted
 178228	conjuncted
-178255	conjuncted
-178267	conjuncted
-178277	conjuncted
+178230	conjuncted
+178245	conjuncted
+178247	conjuncted
+178274	conjuncted
 178279	conjuncted
-178327	conjuncted
-178334	conjuncted
-178356	conjuncted
+178282	conjuncted
+178284	conjuncted
+178288	conjuncted
+conjuncted
+conjuncted
+178309	conjuncted
+178311	conjuncted
+178330	conjuncted
+178338	conjuncted
+178348	conjuncted
+178362	conjuncted
 178365	conjuncted
 178367	conjuncted
-178376	conjuncted
-178453	conjuncted
-178459	conjuncted
-178461	conjuncted
-178471	conjuncted
-178473	conjuncted
-178477	conjuncted
-178500	conjuncted
-178502	conjuncted
-178509	conjuncted
-178513	conjuncted
-178522	conjuncted
-178537	conjuncted
-178539	conjuncted
-178545	conjuncted
-178605	conjuncted
-178633	conjuncted
-178635	conjuncted
+178373	conjuncted
+178377	conjuncted
+178379	conjuncted
+178383	conjuncted
+178394	conjuncted
+178401	conjuncted
+178417	conjuncted
+178426	conjuncted
+178447	conjuncted
+178492	conjuncted
+178499	conjuncted
+178503	conjuncted
+178519	conjuncted
+178532	conjuncted
+178548	conjuncted
+178558	conjuncted
+178560	conjuncted
+178580	conjuncted
+178595	conjuncted
+178622	conjuncted
+178626	conjuncted
+conjuncted
+178637	conjuncted
+178639	conjuncted
+conjuncted
 178642	conjuncted
-178648	conjuncted
-178651	conjuncted
-conjuncted
-178706	conjuncted
-178737	conjuncted
-178741	conjuncted
-178754	conjuncted
-178756	conjuncted
-178765	conjuncted
-178773	conjuncted
-178785	conjuncted
-178792	conjuncted
-178795	conjuncted
-178821	conjuncted
-178823	conjuncted
-178848	conjuncted
-178870	conjuncted
-178872	conjuncted
-178899	conjuncted
-178930	conjuncted
-178956	conjuncted
-178959	conjuncted
-178962	conjuncted
-178974	conjuncted
-178991	conjuncted
-179000	conjuncted
+178649	conjuncted
+178656	conjuncted
+178661	conjuncted
+178676	conjuncted
+178681	conjuncted
+178687	conjuncted
+178694	conjuncted
+178696	conjuncted
 conjuncted
 conjuncted
 conjuncted
+178705	conjuncted
+178713	conjuncted
+178719	conjuncted
+conjuncted
+178730	conjuncted
+178732	conjuncted
+178764	conjuncted
+178766	conjuncted
+178776	conjuncted
+178782	conjuncted
+178788	conjuncted
+178796	conjuncted
+178798	conjuncted
+178800	conjuncted
+178822	conjuncted
+178824	conjuncted
+conjuncted
+178831	conjuncted
+178840	conjuncted
+178843	conjuncted
+178850	conjuncted
+178856	conjuncted
+178861	conjuncted
 conjuncted
 conjuncted
+conjuncted
+178876	conjuncted
+178879	conjuncted
+178886	conjuncted
+178890	conjuncted
+178894	conjuncted
+conjuncted
+conjuncted
+178921	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+178928	conjuncted
+178932	conjuncted
+conjuncted
+178939	conjuncted
+178942	conjuncted
+178958	conjuncted
+178965	conjuncted
+178967	conjuncted
+178971	conjuncted
+178978	conjuncted
+178985	conjuncted
+178994	conjuncted
+179005	conjuncted
+conjuncted
+conjuncted
+conjuncted
+179018	conjuncted
 179022	conjuncted
+179024	conjuncted
+179027	conjuncted
 conjuncted
-179025	conjuncted
+179031	conjuncted
+179033	conjuncted
 conjuncted
-179028	conjuncted
-179030	conjuncted
-179032	conjuncted
-179034	conjuncted
+179036	conjuncted
+179043	conjuncted
 conjuncted
+179046	conjuncted
+179054	conjuncted
+179062	conjuncted
 conjuncted
-179048	conjuncted
-179060	conjuncted
+179068	conjuncted
+179088	conjuncted
+179090	conjuncted
+179103	conjuncted
+179111	conjuncted
 conjuncted
+179114	conjuncted
+179116	conjuncted
+179136	conjuncted
+179145	conjuncted
 conjuncted
-conjuncted
-conjuncted
-179066	conjuncted
-179081	conjuncted
-179096	conjuncted
-179109	conjuncted
-179112	conjuncted
-179125	conjuncted
-179138	conjuncted
 179149	conjuncted
+179159	conjuncted
 179161	conjuncted
-179169	conjuncted
+179167	conjuncted
+conjuncted
+179170	conjuncted
+179173	conjuncted
+179175	conjuncted
+179180	conjuncted
+179190	conjuncted
 179193	conjuncted
-179195	conjuncted
+179200	conjuncted
 179204	conjuncted
-179207	conjuncted
-179220	conjuncted
-179243	conjuncted
+179217	conjuncted
+179225	conjuncted
+179227	conjuncted
+179236	conjuncted
+conjuncted
+conjuncted
+179241	conjuncted
+179248	conjuncted
 179253	conjuncted
-179264	conjuncted
-179283	conjuncted
+179259	conjuncted
+179261	conjuncted
+179270	conjuncted
+179273	conjuncted
 conjuncted
-179291	conjuncted
-179297	conjuncted
-179303	conjuncted
-179336	conjuncted
-179346	conjuncted
+179276	conjuncted
+conjuncted
+179292	conjuncted
+179296	conjuncted
+179299	conjuncted
+conjuncted
+179305	conjuncted
+179308	conjuncted
+179310	conjuncted
+conjuncted
+179323	conjuncted
+conjuncted
+conjuncted
+179335	conjuncted
+conjuncted
+179343	conjuncted
+179345	conjuncted
 179354	conjuncted
-179365	conjuncted
 conjuncted
-179403	conjuncted
-179412	conjuncted
-179425	conjuncted
-179439	conjuncted
-179461	conjuncted
-179479	conjuncted
-179490	conjuncted
-179497	conjuncted
+179359	conjuncted
+179361	conjuncted
+conjuncted
+179364	conjuncted
+179369	conjuncted
+179379	conjuncted
 conjuncted
 conjuncted
-179503	conjuncted
-179522	conjuncted
-179535	conjuncted
-179553	conjuncted
-179557	conjuncted
-179577	conjuncted
-179589	conjuncted
+179389	conjuncted
 conjuncted
-179594	conjuncted
-179612	conjuncted
-179623	conjuncted
-179637	conjuncted
-179639	conjuncted
-179644	conjuncted
-179649	conjuncted
-179661	conjuncted
+179393	conjuncted
+179395	conjuncted
 conjuncted
-179666	conjuncted
-179675	conjuncted
-179680	conjuncted
+179401	conjuncted
+179420	conjuncted
+179433	conjuncted
+conjuncted
+179440	conjuncted
+179442	conjuncted
+179444	conjuncted
+179449	conjuncted
+179456	conjuncted
+179458	conjuncted
+179469	conjuncted
+179480	conjuncted
+179487	conjuncted
+conjuncted
+179501	conjuncted
+179511	conjuncted
+179514	conjuncted
+179518	conjuncted
+conjuncted
+conjuncted
+179532	conjuncted
+179537	conjuncted
+179540	conjuncted
+179544	conjuncted
+179547	conjuncted
+conjuncted
+179560	conjuncted
+179562	conjuncted
+179566	conjuncted
+179587	conjuncted
+179593	conjuncted
+179600	conjuncted
+conjuncted
+conjuncted
+conjuncted
+179606	conjuncted
+179616	conjuncted
+179627	conjuncted
+179638	conjuncted
+179640	conjuncted
+179650	conjuncted
+179652	conjuncted
+179681	conjuncted
+179685	conjuncted
+179690	conjuncted
 conjuncted
 179698	conjuncted
+179710	conjuncted
+179712	conjuncted
+179728	conjuncted
+179739	conjuncted
+179746	conjuncted
+179761	conjuncted
 conjuncted
-179720	conjuncted
-179723	conjuncted
-179777	conjuncted
-179817	conjuncted
-179826	conjuncted
-179835	conjuncted
-179847	conjuncted
-179899	conjuncted
-179923	conjuncted
-179928	conjuncted
-179934	conjuncted
-179937	conjuncted
-179940	conjuncted
-179946	conjuncted
-179954	conjuncted
-179957	conjuncted
-179968	conjuncted
+179765	conjuncted
+179774	conjuncted
+conjuncted
+179783	conjuncted
+179785	conjuncted
+179790	conjuncted
+179803	conjuncted
+179809	conjuncted
+conjuncted
+conjuncted
+conjuncted
+179823	conjuncted
+179837	conjuncted
+conjuncted
+179840	conjuncted
+179842	conjuncted
+179844	conjuncted
+179860	conjuncted
+179865	conjuncted
+conjuncted
+179874	conjuncted
+179882	conjuncted
+179887	conjuncted
+179891	conjuncted
+conjuncted
+179894	conjuncted
+179898	conjuncted
+179907	conjuncted
+179911	conjuncted
+179921	conjuncted
+179924	conjuncted
+179927	conjuncted
+179930	conjuncted
+179936	conjuncted
+179942	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+179949	conjuncted
+conjuncted
+179952	conjuncted
+179963	conjuncted
+179967	conjuncted
+conjuncted
+179972	conjuncted
+conjuncted
+179976	conjuncted
+conjuncted
 179982	conjuncted
+179984	conjuncted
 179991	conjuncted
-179993	conjuncted
-180011	conjuncted
-180016	conjuncted
-180020	conjuncted
-180025	conjuncted
-180033	conjuncted
-180036	conjuncted
-180042	conjuncted
-180046	conjuncted
+180000	conjuncted
+180012	conjuncted
+180023	conjuncted
 conjuncted
-180062	conjuncted
-180075	conjuncted
-180078	conjuncted
-180102	conjuncted
+180029	conjuncted
+180031	conjuncted
+180041	conjuncted
+180043	conjuncted
+180049	conjuncted
+conjuncted
+180060	conjuncted
+conjuncted
+180064	conjuncted
+180067	conjuncted
+180076	conjuncted
+180080	conjuncted
+180085	conjuncted
+180089	conjuncted
+conjuncted
+conjuncted
+conjuncted
+180097	conjuncted
+180101	conjuncted
 180105	conjuncted
+180109	conjuncted
 conjuncted
-180112	conjuncted
 180118	conjuncted
+conjuncted
+conjuncted
 180124	conjuncted
-180133	conjuncted
-180135	conjuncted
-180162	conjuncted
-180179	conjuncted
-180184	conjuncted
-180190	conjuncted
-180204	conjuncted
-180210	conjuncted
-180221	conjuncted
-180234	conjuncted
+conjuncted
+180136	conjuncted
+180143	conjuncted
+180153	conjuncted
+180161	conjuncted
+conjuncted
+conjuncted
+180165	conjuncted
+180169	conjuncted
+180172	conjuncted
+180189	conjuncted
+180196	conjuncted
+180205	conjuncted
+180225	conjuncted
+180235	conjuncted
+180239	conjuncted
+180263	conjuncted
+conjuncted
+180268	conjuncted
 180270	conjuncted
-180273	conjuncted
-180277	conjuncted
-180289	conjuncted
+180274	conjuncted
+180280	conjuncted
+180291	conjuncted
+180297	conjuncted
+conjuncted
 180300	conjuncted
-180312	conjuncted
-180322	conjuncted
-180328	conjuncted
+180302	conjuncted
+conjuncted
+180310	conjuncted
+180323	conjuncted
+conjuncted
+conjuncted
+180327	conjuncted
+180331	conjuncted
+conjuncted
+conjuncted
 180339	conjuncted
-180353	conjuncted
-180359	conjuncted
-180376	conjuncted
-180384	conjuncted
-180391	conjuncted
-180396	conjuncted
+conjuncted
+180346	conjuncted
+180352	conjuncted
+180355	conjuncted
+conjuncted
+180364	conjuncted
+180368	conjuncted
+conjuncted
+180383	conjuncted
+180389	conjuncted
+conjuncted
+conjuncted
+180404	conjuncted
+180407	conjuncted
 180409	conjuncted
-180411	conjuncted
-180419	conjuncted
-180433	conjuncted
-180443	conjuncted
-180445	conjuncted
-180449	conjuncted
-180455	conjuncted
-180457	conjuncted
+conjuncted
+180427	conjuncted
+180430	conjuncted
+180434	conjuncted
+180436	conjuncted
+conjuncted
+180447	conjuncted
+conjuncted
+180453	conjuncted
+180477	conjuncted
 conjuncted
 conjuncted
-180469	conjuncted
-180472	conjuncted
-180479	conjuncted
 180481	conjuncted
-180484	conjuncted
-180490	conjuncted
-180494	conjuncted
+180483	conjuncted
 180503	conjuncted
 conjuncted
 conjuncted
-180515	conjuncted
-180519	conjuncted
-180528	conjuncted
-180533	conjuncted
-180535	conjuncted
-180543	conjuncted
-180558	conjuncted
+180509	conjuncted
+conjuncted
+conjuncted
+180516	conjuncted
+180521	conjuncted
+180523	conjuncted
+180526	conjuncted
+180544	conjuncted
+180555	conjuncted
+180559	conjuncted
 180561	conjuncted
-180564	conjuncted
-180575	conjuncted
+conjuncted
+180571	conjuncted
+180581	conjuncted
+180585	conjuncted
+180589	conjuncted
+conjuncted
+180593	conjuncted
+conjuncted
 180599	conjuncted
-180602	conjuncted
-180605	conjuncted
-180615	conjuncted
-180617	conjuncted
-180619	conjuncted
-180621	conjuncted
+180603	conjuncted
+180612	conjuncted
 180627	conjuncted
-180637	conjuncted
-180657	conjuncted
-180662	conjuncted
-180671	conjuncted
-180689	conjuncted
-180691	conjuncted
-180698	conjuncted
-180700	conjuncted
-180702	conjuncted
-180707	conjuncted
-conjuncted
+180635	conjuncted
+180640	conjuncted
+180665	conjuncted
+180668	conjuncted
+180670	conjuncted
+180676	conjuncted
+180695	conjuncted
 180711	conjuncted
-180715	conjuncted
-180730	conjuncted
-180734	conjuncted
-180738	conjuncted
-180755	conjuncted
 conjuncted
-conjuncted
+180725	conjuncted
+180736	conjuncted
+180742	conjuncted
+180754	conjuncted
+180756	conjuncted
+180763	conjuncted
 180769	conjuncted
 180777	conjuncted
-180782	conjuncted
+conjuncted
+180786	conjuncted
+180788	conjuncted
+180794	conjuncted
+180805	conjuncted
+180807	conjuncted
+180809	conjuncted
+180822	conjuncted
+180830	conjuncted
+180836	conjuncted
+180838	conjuncted
+conjuncted
+180851	conjuncted
 conjuncted
 conjuncted
-180787	conjuncted
-180790	conjuncted
-180797	conjuncted
-180800	conjuncted
-180825	conjuncted
-180827	conjuncted
+180855	conjuncted
+conjuncted
 180865	conjuncted
-180873	conjuncted
-180902	conjuncted
-180906	conjuncted
-180912	conjuncted
-180915	conjuncted
-180934	conjuncted
+180869	conjuncted
+conjuncted
+180882	conjuncted
+180889	conjuncted
+180893	conjuncted
+180897	conjuncted
+180907	conjuncted
+180909	conjuncted
+180911	conjuncted
+180913	conjuncted
+180917	conjuncted
+180921	conjuncted
+conjuncted
+conjuncted
+conjuncted
+180933	conjuncted
+180937	conjuncted
 180939	conjuncted
-180943	conjuncted
-180947	conjuncted
-180956	conjuncted
-180959	conjuncted
-180971	conjuncted
-180997	conjuncted
-181010	conjuncted
-181013	conjuncted
-181020	conjuncted
-181059	conjuncted
+180966	conjuncted
+180969	conjuncted
 conjuncted
 conjuncted
+180994	conjuncted
+181001	conjuncted
+181004	conjuncted
 conjuncted
+181008	conjuncted
+181012	conjuncted
+181014	conjuncted
 conjuncted
+181017	conjuncted
+181022	conjuncted
+181026	conjuncted
+181029	conjuncted
+181036	conjuncted
+181043	conjuncted
 conjuncted
+181047	conjuncted
+181054	conjuncted
+181063	conjuncted
+181066	conjuncted
 conjuncted
-181067	conjuncted
-181069	conjuncted
-181072	conjuncted
-181078	conjuncted
-181087	conjuncted
-181094	conjuncted
-181096	conjuncted
-181108	conjuncted
-181110	conjuncted
-181119	conjuncted
-181155	conjuncted
+181093	conjuncted
+181123	conjuncted
+181125	conjuncted
+181133	conjuncted
+181135	conjuncted
+181138	conjuncted
+181142	conjuncted
 conjuncted
-181159	conjuncted
+181149	conjuncted
+181151	conjuncted
 181163	conjuncted
-181167	conjuncted
-181172	conjuncted
 conjuncted
 conjuncted
 conjuncted
 conjuncted
+181179	conjuncted
 conjuncted
-181193	conjuncted
-181200	conjuncted
-181213	conjuncted
+181186	conjuncted
+181188	conjuncted
+181190	conjuncted
+181204	conjuncted
+181212	conjuncted
+181216	conjuncted
+181224	conjuncted
 181229	conjuncted
+conjuncted
+181232	conjuncted
+181236	conjuncted
 181241	conjuncted
-181244	conjuncted
 181247	conjuncted
-181256	conjuncted
-181265	conjuncted
+181249	conjuncted
+181254	conjuncted
+181257	conjuncted
+conjuncted
+conjuncted
+conjuncted
 181267	conjuncted
-181277	conjuncted
-181297	conjuncted
-181299	conjuncted
-181301	conjuncted
+181273	conjuncted
+181275	conjuncted
+181282	conjuncted
+conjuncted
 181307	conjuncted
+181320	conjuncted
+181325	conjuncted
+181339	conjuncted
+181354	conjuncted
+181362	conjuncted
+181365	conjuncted
+181370	conjuncted
+181374	conjuncted
+181378	conjuncted
+181383	conjuncted
+181386	conjuncted
+181390	conjuncted
+181394	conjuncted
+181399	conjuncted
+181401	conjuncted
+181413	conjuncted
+181418	conjuncted
 conjuncted
-conjuncted
-181323	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-181341	conjuncted
-181372	conjuncted
-181385	conjuncted
-conjuncted
-181395	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-181408	conjuncted
-181410	conjuncted
-181412	conjuncted
-181417	conjuncted
-181420	conjuncted
-181424	conjuncted
-181428	conjuncted
+181423	conjuncted
 181433	conjuncted
+181435	conjuncted
+181441	conjuncted
+181443	conjuncted
+181445	conjuncted
 conjuncted
-181439	conjuncted
-181444	conjuncted
-181446	conjuncted
-181474	conjuncted
-181484	conjuncted
-181498	conjuncted
-181502	conjuncted
-181506	conjuncted
-181512	conjuncted
-181524	conjuncted
-181538	conjuncted
-181540	conjuncted
-181545	conjuncted
-181559	conjuncted
-181569	conjuncted
-181573	conjuncted
+181458	conjuncted
+181460	conjuncted
+181489	conjuncted
+181492	conjuncted
+181511	conjuncted
+181520	conjuncted
+181525	conjuncted
+181537	conjuncted
+conjuncted
+181543	conjuncted
+181548	conjuncted
+181551	conjuncted
+181555	conjuncted
+181564	conjuncted
 181575	conjuncted
-181584	conjuncted
+181579	conjuncted
+181582	conjuncted
+181585	conjuncted
+181588	conjuncted
+181590	conjuncted
 181594	conjuncted
-181600	conjuncted
-181606	conjuncted
+181608	conjuncted
 181614	conjuncted
-181644	conjuncted
-181646	conjuncted
-181673	conjuncted
-181700	conjuncted
+conjuncted
+conjuncted
+181618	conjuncted
+181624	conjuncted
+181635	conjuncted
+181640	conjuncted
+181645	conjuncted
+181648	conjuncted
+181656	conjuncted
+181660	conjuncted
+181664	conjuncted
+181681	conjuncted
+181687	conjuncted
+181692	conjuncted
+181701	conjuncted
+conjuncted
 181712	conjuncted
-181718	conjuncted
-181724	conjuncted
+conjuncted
+181716	conjuncted
+181721	conjuncted
+181723	conjuncted
+181727	conjuncted
 181730	conjuncted
-181751	conjuncted
-181755	conjuncted
-181757	conjuncted
-181761	conjuncted
+181732	conjuncted
+181734	conjuncted
+181736	conjuncted
 conjuncted
-181776	conjuncted
-181786	conjuncted
-181798	conjuncted
-181801	conjuncted
-181806	conjuncted
-181810	conjuncted
-181829	conjuncted
-181838	conjuncted
-181858	conjuncted
-181869	conjuncted
+181741	conjuncted
+181745	conjuncted
+181754	conjuncted
+181762	conjuncted
+181766	conjuncted
+181770	conjuncted
+181781	conjuncted
+181812	conjuncted
+181848	conjuncted
+181851	conjuncted
+181856	conjuncted
+181864	conjuncted
+181870	conjuncted
 conjuncted
-181874	conjuncted
-181876	conjuncted
-181883	conjuncted
+conjuncted
+conjuncted
+181875	conjuncted
 181885	conjuncted
-181892	conjuncted
-181901	conjuncted
-181907	conjuncted
-181911	conjuncted
-181945	conjuncted
-181975	conjuncted
+181891	conjuncted
+181899	conjuncted
+181905	conjuncted
+181916	conjuncted
+181919	conjuncted
+181927	conjuncted
+181934	conjuncted
+181941	conjuncted
+181953	conjuncted
+181962	conjuncted
+181964	conjuncted
+181968	conjuncted
+181971	conjuncted
+181978	conjuncted
 181983	conjuncted
-conjuncted
 181988	conjuncted
-181993	conjuncted
-181998	conjuncted
-182003	conjuncted
-182021	conjuncted
-182040	conjuncted
+conjuncted
+conjuncted
+181997	conjuncted
+182005	conjuncted
+conjuncted
+182008	conjuncted
+182017	conjuncted
+182025	conjuncted
+182034	conjuncted
+182049	conjuncted
+182057	conjuncted
+182062	conjuncted
+182066	conjuncted
 182068	conjuncted
-182133	conjuncted
+182072	conjuncted
+182076	conjuncted
+conjuncted
+182079	conjuncted
+182085	conjuncted
+conjuncted
+conjuncted
+conjuncted
+182092	conjuncted
+conjuncted
+182096	conjuncted
+182100	conjuncted
+conjuncted
+182107	conjuncted
+182115	conjuncted
+182120	conjuncted
+182125	conjuncted
+182129	conjuncted
 182135	conjuncted
-182147	conjuncted
-182150	conjuncted
-182165	conjuncted
-182178	conjuncted
-182180	conjuncted
-182183	conjuncted
+182148	conjuncted
+182154	conjuncted
 conjuncted
-182187	conjuncted
-182217	conjuncted
+182157	conjuncted
 conjuncted
-182226	conjuncted
-182233	conjuncted
-182240	conjuncted
-182245	conjuncted
+182161	conjuncted
+182164	conjuncted
+conjuncted
+182192	conjuncted
+182202	conjuncted
+conjuncted
+conjuncted
+182206	conjuncted
+conjuncted
+182211	conjuncted
+182214	conjuncted
+182216	conjuncted
+182230	conjuncted
+182232	conjuncted
+182238	conjuncted
+182241	conjuncted
+182255	conjuncted
+182258	conjuncted
+conjuncted
+conjuncted
+182263	conjuncted
+182265	conjuncted
+182269	conjuncted
+182273	conjuncted
+182280	conjuncted
+182294	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
 182300	conjuncted
-182309	conjuncted
 conjuncted
-182316	conjuncted
-182321	conjuncted
-182329	conjuncted
-182333	conjuncted
-182337	conjuncted
-182347	conjuncted
-182352	conjuncted
-182369	conjuncted
-conjuncted
-182384	conjuncted
-182386	conjuncted
-182388	conjuncted
-182393	conjuncted
+182305	conjuncted
+182307	conjuncted
+182312	conjuncted
+182323	conjuncted
+182327	conjuncted
 conjuncted
 conjuncted
-182411	conjuncted
-182422	conjuncted
-182424	conjuncted
-182429	conjuncted
-182435	conjuncted
-182439	conjuncted
-182453	conjuncted
-182456	conjuncted
-182461	conjuncted
+182348	conjuncted
+182350	conjuncted
 conjuncted
-182476	conjuncted
-182478	conjuncted
-182485	conjuncted
-182495	conjuncted
-182499	conjuncted
-182512	conjuncted
-182528	conjuncted
-182547	conjuncted
-182549	conjuncted
-182551	conjuncted
-182559	conjuncted
-182563	conjuncted
-182579	conjuncted
-182582	conjuncted
-182605	conjuncted
+182362	conjuncted
+182390	conjuncted
+182396	conjuncted
+conjuncted
+182408	conjuncted
+182417	conjuncted
+182423	conjuncted
+182425	conjuncted
+182430	conjuncted
+182433	conjuncted
+182440	conjuncted
+182443	conjuncted
+182449	conjuncted
+182458	conjuncted
+182481	conjuncted
+182483	conjuncted
+182492	conjuncted
+conjuncted
+conjuncted
+conjuncted
+182507	conjuncted
+182513	conjuncted
+182527	conjuncted
+182534	conjuncted
+182540	conjuncted
+182543	conjuncted
+182558	conjuncted
+182564	conjuncted
+182570	conjuncted
+182584	conjuncted
+182597	conjuncted
+182610	conjuncted
 182615	conjuncted
-182618	conjuncted
-182622	conjuncted
-182625	conjuncted
-182632	conjuncted
-182634	conjuncted
+182619	conjuncted
+182624	conjuncted
+182635	conjuncted
 182639	conjuncted
+182642	conjuncted
+182654	conjuncted
+182708	conjuncted
+182737	conjuncted
+182769	conjuncted
 conjuncted
-182688	conjuncted
-182697	conjuncted
-182702	conjuncted
-182707	conjuncted
-182718	conjuncted
-182720	conjuncted
-182723	conjuncted
-182725	conjuncted
-182727	conjuncted
-182729	conjuncted
-182732	conjuncted
-182738	conjuncted
-182748	conjuncted
-182750	conjuncted
-182759	conjuncted
+conjuncted
+182773	conjuncted
 conjuncted
 conjuncted
 conjuncted
 conjuncted
-182804	conjuncted
+182780	conjuncted
+182782	conjuncted
+182799	conjuncted
 182806	conjuncted
-182813	conjuncted
-182823	conjuncted
-182827	conjuncted
-182829	conjuncted
+conjuncted
+182812	conjuncted
+182815	conjuncted
+182828	conjuncted
 182839	conjuncted
-182854	conjuncted
-182889	conjuncted
 conjuncted
-182895	conjuncted
-182904	conjuncted
+182844	conjuncted
+conjuncted
+182859	conjuncted
+182870	conjuncted
+182879	conjuncted
+182884	conjuncted
+conjuncted
+182890	conjuncted
+conjuncted
+conjuncted
+182903	conjuncted
+182905	conjuncted
 182907	conjuncted
+182909	conjuncted
+182911	conjuncted
+182914	conjuncted
+182923	conjuncted
+182926	conjuncted
+182930	conjuncted
 conjuncted
-182913	conjuncted
-182924	conjuncted
-182929	conjuncted
-182967	conjuncted
-182986	conjuncted
-182990	conjuncted
-182999	conjuncted
-183004	conjuncted
+182937	conjuncted
+182944	conjuncted
+182947	conjuncted
+182953	conjuncted
+182957	conjuncted
+182969	conjuncted
+182977	conjuncted
+182991	conjuncted
+conjuncted
+conjuncted
+183003	conjuncted
 183006	conjuncted
-183015	conjuncted
-183020	conjuncted
-183027	conjuncted
+183008	conjuncted
+183012	conjuncted
 conjuncted
+conjuncted
+183021	conjuncted
+183029	conjuncted
+183033	conjuncted
 183040	conjuncted
-183049	conjuncted
-183067	conjuncted
-conjuncted
-conjuncted
-183071	conjuncted
-183078	conjuncted
-conjuncted
-183087	conjuncted
-183108	conjuncted
+183043	conjuncted
+183065	conjuncted
+183089	conjuncted
+183092	conjuncted
+183095	conjuncted
+183102	conjuncted
+183104	conjuncted
+183109	conjuncted
+183113	conjuncted
 183118	conjuncted
-183141	conjuncted
-183149	conjuncted
-183153	conjuncted
-183170	conjuncted
-183180	conjuncted
-183186	conjuncted
-183194	conjuncted
+183134	conjuncted
+183145	conjuncted
+183154	conjuncted
+183160	conjuncted
 conjuncted
+183167	conjuncted
+183177	conjuncted
+183187	conjuncted
+183202	conjuncted
 183204	conjuncted
-183215	conjuncted
-183217	conjuncted
+183218	conjuncted
 183220	conjuncted
-183230	conjuncted
-183233	conjuncted
-183239	conjuncted
+183222	conjuncted
+183226	conjuncted
+183234	conjuncted
+183242	conjuncted
+183247	conjuncted
+183251	conjuncted
+conjuncted
+conjuncted
+183260	conjuncted
 183265	conjuncted
-183267	conjuncted
+183268	conjuncted
 conjuncted
 183276	conjuncted
 183279	conjuncted
-183284	conjuncted
-183299	conjuncted
-183301	conjuncted
-183331	conjuncted
-183333	conjuncted
-183340	conjuncted
-183355	conjuncted
-183362	conjuncted
-183384	conjuncted
-183387	conjuncted
-183390	conjuncted
-183398	conjuncted
-183419	conjuncted
+183282	conjuncted
+183292	conjuncted
+conjuncted
+183298	conjuncted
+conjuncted
+183305	conjuncted
+183307	conjuncted
+conjuncted
+conjuncted
+183315	conjuncted
+conjuncted
+183351	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+183361	conjuncted
+conjuncted
+183365	conjuncted
+183370	conjuncted
+183372	conjuncted
+183392	conjuncted
 183422	conjuncted
-183425	conjuncted
-183432	conjuncted
+183427	conjuncted
+conjuncted
+183431	conjuncted
+183445	conjuncted
 conjuncted
 conjuncted
-183457	conjuncted
-183506	conjuncted
+183458	conjuncted
+183484	conjuncted
+183486	conjuncted
+conjuncted
+183495	conjuncted
+183498	conjuncted
+183501	conjuncted
 183510	conjuncted
-183512	conjuncted
-183560	conjuncted
+183523	conjuncted
+183525	conjuncted
+183530	conjuncted
+183536	conjuncted
+183539	conjuncted
+183548	conjuncted
+183559	conjuncted
+183561	conjuncted
+conjuncted
+conjuncted
 183569	conjuncted
-183578	conjuncted
-183596	conjuncted
-183602	conjuncted
-183607	conjuncted
-183609	conjuncted
-183611	conjuncted
-183613	conjuncted
-183618	conjuncted
-183621	conjuncted
-183623	conjuncted
-183627	conjuncted
+183574	conjuncted
+183588	conjuncted
+183592	conjuncted
+183616	conjuncted
+183622	conjuncted
 183629	conjuncted
+183639	conjuncted
+183650	conjuncted
+183657	conjuncted
+183663	conjuncted
 183668	conjuncted
-183681	conjuncted
-183683	conjuncted
+183679	conjuncted
+183685	conjuncted
+conjuncted
 183690	conjuncted
-183696	conjuncted
 183698	conjuncted
-183704	conjuncted
-183711	conjuncted
-183727	conjuncted
-183785	conjuncted
+183705	conjuncted
+183715	conjuncted
+183730	conjuncted
+183733	conjuncted
+183737	conjuncted
+183744	conjuncted
+183751	conjuncted
+183763	conjuncted
+183782	conjuncted
+conjuncted
+conjuncted
+183803	conjuncted
+conjuncted
 183806	conjuncted
+183818	conjuncted
 conjuncted
+conjuncted
+183832	conjuncted
 183835	conjuncted
-183839	conjuncted
-183858	conjuncted
-183863	conjuncted
-183867	conjuncted
-183873	conjuncted
-conjuncted
-183880	conjuncted
-183886	conjuncted
-183904	conjuncted
-183914	conjuncted
+183840	conjuncted
+183859	conjuncted
+183866	conjuncted
+183882	conjuncted
+183885	conjuncted
+183888	conjuncted
+183891	conjuncted
+183895	conjuncted
+183903	conjuncted
+183909	conjuncted
 183917	conjuncted
+183919	conjuncted
 183923	conjuncted
-183928	conjuncted
-183944	conjuncted
+183926	conjuncted
+183934	conjuncted
+183938	conjuncted
+183953	conjuncted
+183955	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+183977	conjuncted
+183980	conjuncted
+183982	conjuncted
+conjuncted
 183985	conjuncted
-184001	conjuncted
-184003	conjuncted
-184010	conjuncted
-184012	conjuncted
-184014	conjuncted
-184031	conjuncted
-184033	conjuncted
-184035	conjuncted
-184049	conjuncted
-184057	conjuncted
-184067	conjuncted
 conjuncted
-184070	conjuncted
+183988	conjuncted
 conjuncted
-184082	conjuncted
-184087	conjuncted
-184089	conjuncted
-184130	conjuncted
-184149	conjuncted
-184179	conjuncted
+184007	conjuncted
+184024	conjuncted
+184042	conjuncted
+184046	conjuncted
+184054	conjuncted
+184068	conjuncted
+conjuncted
+184072	conjuncted
+184106	conjuncted
+184112	conjuncted
+184120	conjuncted
+184159	conjuncted
+184163	conjuncted
+184176	conjuncted
+184184	conjuncted
 184186	conjuncted
-184195	conjuncted
-184203	conjuncted
-184207	conjuncted
-184210	conjuncted
-184224	conjuncted
+184196	conjuncted
+184205	conjuncted
+184213	conjuncted
+184215	conjuncted
+184217	conjuncted
 184234	conjuncted
 184239	conjuncted
-184263	conjuncted
-184298	conjuncted
-184351	conjuncted
-184373	conjuncted
-184387	conjuncted
-184393	conjuncted
-184397	conjuncted
-184401	conjuncted
-184405	conjuncted
-184422	conjuncted
-184441	conjuncted
-184452	conjuncted
-184456	conjuncted
-184459	conjuncted
-184476	conjuncted
-184517	conjuncted
-184525	conjuncted
-184528	conjuncted
-184532	conjuncted
-184538	conjuncted
+184242	conjuncted
+184248	conjuncted
+184251	conjuncted
+184271	conjuncted
+184277	conjuncted
+184283	conjuncted
+184289	conjuncted
+184291	conjuncted
+184300	conjuncted
+184310	conjuncted
 conjuncted
-184549	conjuncted
+184314	conjuncted
+184321	conjuncted
+184323	conjuncted
+184327	conjuncted
+184330	conjuncted
+184333	conjuncted
+184337	conjuncted
+184343	conjuncted
+184351	conjuncted
+184376	conjuncted
+184387	conjuncted
+184391	conjuncted
+184407	conjuncted
+184414	conjuncted
+conjuncted
+184417	conjuncted
+184421	conjuncted
+184423	conjuncted
+184440	conjuncted
+184455	conjuncted
+184457	conjuncted
+184463	conjuncted
+184465	conjuncted
+184470	conjuncted
+184475	conjuncted
+184501	conjuncted
+184507	conjuncted
+184518	conjuncted
+184520	conjuncted
+184524	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+184534	conjuncted
+conjuncted
+184540	conjuncted
+184546	conjuncted
 184551	conjuncted
-184559	conjuncted
+184556	conjuncted
+184561	conjuncted
+184564	conjuncted
 184571	conjuncted
-184575	conjuncted
-184578	conjuncted
-184589	conjuncted
+184573	conjuncted
+184577	conjuncted
+184583	conjuncted
+184590	conjuncted
+184593	conjuncted
+184595	conjuncted
 184599	conjuncted
-184621	conjuncted
-184628	conjuncted
-184650	conjuncted
-184659	conjuncted
-184663	conjuncted
+184605	conjuncted
+184632	conjuncted
+184636	conjuncted
+184638	conjuncted
+184641	conjuncted
+184645	conjuncted
+184649	conjuncted
+184651	conjuncted
+184654	conjuncted
+184657	conjuncted
 184665	conjuncted
 184667	conjuncted
-184672	conjuncted
-184677	conjuncted
-184682	conjuncted
-184688	conjuncted
-184693	conjuncted
-184698	conjuncted
-184703	conjuncted
+184674	conjuncted
+184678	conjuncted
+184689	conjuncted
+conjuncted
+184692	conjuncted
+184694	conjuncted
 184709	conjuncted
-184723	conjuncted
+184711	conjuncted
+184713	conjuncted
+184720	conjuncted
+184730	conjuncted
+184733	conjuncted
 conjuncted
-184729	conjuncted
-184743	conjuncted
+184736	conjuncted
 184745	conjuncted
-184748	conjuncted
-184756	conjuncted
-184759	conjuncted
-184764	conjuncted
-184766	conjuncted
-184769	conjuncted
-184777	conjuncted
-184792	conjuncted
-184858	conjuncted
+184750	conjuncted
+184762	conjuncted
+184775	conjuncted
+184782	conjuncted
+184786	conjuncted
+184790	conjuncted
+conjuncted
+conjuncted
+184796	conjuncted
+184806	conjuncted
+184813	conjuncted
+184820	conjuncted
+184827	conjuncted
+184831	conjuncted
+184833	conjuncted
+184836	conjuncted
+184838	conjuncted
+184844	conjuncted
+184851	conjuncted
+184854	conjuncted
+conjuncted
+184857	conjuncted
+184859	conjuncted
+184863	conjuncted
+conjuncted
+184878	conjuncted
+184880	conjuncted
+conjuncted
+184885	conjuncted
+184889	conjuncted
+184893	conjuncted
+184897	conjuncted
+184900	conjuncted
+184934	conjuncted
+184938	conjuncted
+184940	conjuncted
+184942	conjuncted
+184947	conjuncted
+184951	conjuncted
+184956	conjuncted
+184960	conjuncted
+184963	conjuncted
+184965	conjuncted
+184974	conjuncted
 conjuncted
 conjuncted
 conjuncted
-conjuncted
-conjuncted
-184875	conjuncted
-184902	conjuncted
-184915	conjuncted
-184921	conjuncted
-184924	conjuncted
-184926	conjuncted
-184932	conjuncted
-184935	conjuncted
-184946	conjuncted
-conjuncted
-conjuncted
-conjuncted
+184988	conjuncted
+184990	conjuncted
+184998	conjuncted
 185015	conjuncted
-185026	conjuncted
-185028	conjuncted
-185036	conjuncted
-185045	conjuncted
-185062	conjuncted
-185066	conjuncted
-185071	conjuncted
+185017	conjuncted
+185029	conjuncted
+185033	conjuncted
+185039	conjuncted
+185049	conjuncted
+185051	conjuncted
+185054	conjuncted
+185061	conjuncted
+185072	conjuncted
+185083	conjuncted
 conjuncted
-185080	conjuncted
-185094	conjuncted
-185115	conjuncted
-185128	conjuncted
-185133	conjuncted
-185139	conjuncted
-185151	conjuncted
-185176	conjuncted
+185089	conjuncted
+185099	conjuncted
+185106	conjuncted
+185118	conjuncted
+185120	conjuncted
+185130	conjuncted
+conjuncted
+conjuncted
+185144	conjuncted
+185159	conjuncted
+185171	conjuncted
+185173	conjuncted
+185177	conjuncted
 185179	conjuncted
-conjuncted
+185182	conjuncted
+185186	conjuncted
 185188	conjuncted
-185193	conjuncted
-185195	conjuncted
-conjuncted
-185204	conjuncted
-185207	conjuncted
-185209	conjuncted
+185203	conjuncted
+185205	conjuncted
+185210	conjuncted
+185212	conjuncted
+185224	conjuncted
 185232	conjuncted
-185237	conjuncted
-185239	conjuncted
-185241	conjuncted
-185266	conjuncted
-185276	conjuncted
+185234	conjuncted
+185248	conjuncted
+conjuncted
+185265	conjuncted
+185273	conjuncted
+185277	conjuncted
 185279	conjuncted
+185285	conjuncted
+185307	conjuncted
+185326	conjuncted
+185329	conjuncted
 conjuncted
-185283	conjuncted
-185296	conjuncted
-185303	conjuncted
-185308	conjuncted
-185322	conjuncted
-185362	conjuncted
-185373	conjuncted
-185378	conjuncted
-185390	conjuncted
-185392	conjuncted
-185405	conjuncted
-185409	conjuncted
-185417	conjuncted
-185468	conjuncted
-185540	conjuncted
-185544	conjuncted
+conjuncted
+conjuncted
+185351	conjuncted
+185358	conjuncted
+conjuncted
+185375	conjuncted
+185411	conjuncted
+185416	conjuncted
+185420	conjuncted
+185423	conjuncted
+185425	conjuncted
+conjuncted
+185429	conjuncted
+185432	conjuncted
+185435	conjuncted
+185441	conjuncted
+185443	conjuncted
+185445	conjuncted
+185447	conjuncted
+185449	conjuncted
+185451	conjuncted
+185456	conjuncted
+185466	conjuncted
+185472	conjuncted
+185478	conjuncted
+185497	conjuncted
+185501	conjuncted
+185505	conjuncted
+185518	conjuncted
+185542	conjuncted
 185548	conjuncted
-185553	conjuncted
+185552	conjuncted
+185554	conjuncted
 185557	conjuncted
-185567	conjuncted
-185577	conjuncted
-185580	conjuncted
-185585	conjuncted
+185560	conjuncted
+185564	conjuncted
+185569	conjuncted
+185573	conjuncted
+185576	conjuncted
+185581	conjuncted
 185587	conjuncted
-185590	conjuncted
-185611	conjuncted
-185613	conjuncted
-185619	conjuncted
-185626	conjuncted
-185646	conjuncted
-185672	conjuncted
-185689	conjuncted
+185591	conjuncted
+185599	conjuncted
+185603	conjuncted
+185612	conjuncted
+185617	conjuncted
+185636	conjuncted
 conjuncted
+185643	conjuncted
+185649	conjuncted
+185657	conjuncted
 conjuncted
+185663	conjuncted
+185675	conjuncted
+185677	conjuncted
+185682	conjuncted
+185684	conjuncted
+185690	conjuncted
 185703	conjuncted
+185706	conjuncted
+185708	conjuncted
+185712	conjuncted
+185714	conjuncted
 185718	conjuncted
-185736	conjuncted
-185773	conjuncted
-185778	conjuncted
-185782	conjuncted
+185723	conjuncted
+185731	conjuncted
 conjuncted
-185788	conjuncted
-185791	conjuncted
-185795	conjuncted
-185800	conjuncted
-185813	conjuncted
-185818	conjuncted
-185823	conjuncted
-185854	conjuncted
-185866	conjuncted
-185878	conjuncted
-185888	conjuncted
-185891	conjuncted
-185898	conjuncted
+185741	conjuncted
+185753	conjuncted
 conjuncted
-185905	conjuncted
-185908	conjuncted
-185913	conjuncted
-185916	conjuncted
-185919	conjuncted
-185933	conjuncted
-185949	conjuncted
-185959	conjuncted
-185966	conjuncted
-185977	conjuncted
+185762	conjuncted
+185766	conjuncted
+185768	conjuncted
+185770	conjuncted
+185774	conjuncted
+185779	conjuncted
+185783	conjuncted
+185792	conjuncted
+185796	conjuncted
+185802	conjuncted
+185805	conjuncted
+185814	conjuncted
+185821	conjuncted
+185826	conjuncted
+185829	conjuncted
+185836	conjuncted
+185848	conjuncted
+185862	conjuncted
+185864	conjuncted
+185890	conjuncted
+185892	conjuncted
+185899	conjuncted
+185904	conjuncted
+185910	conjuncted
+185912	conjuncted
+185941	conjuncted
+185943	conjuncted
+185946	conjuncted
+185952	conjuncted
 conjuncted
-185995	conjuncted
-186004	conjuncted
-186006	conjuncted
-186016	conjuncted
-186025	conjuncted
-186029	conjuncted
-186034	conjuncted
-186050	conjuncted
-186063	conjuncted
-186074	conjuncted
+185957	conjuncted
+conjuncted
+185965	conjuncted
+185976	conjuncted
+185990	conjuncted
+185997	conjuncted
+186010	conjuncted
+186024	conjuncted
+186037	conjuncted
+186044	conjuncted
+186046	conjuncted
+186048	conjuncted
+186059	conjuncted
 186082	conjuncted
-186130	conjuncted
-186137	conjuncted
-conjuncted
-186143	conjuncted
+186103	conjuncted
+186111	conjuncted
+186119	conjuncted
 186147	conjuncted
-186167	conjuncted
-186172	conjuncted
-186192	conjuncted
-186198	conjuncted
-186200	conjuncted
-186213	conjuncted
-186238	conjuncted
+186151	conjuncted
+186163	conjuncted
+186169	conjuncted
+186186	conjuncted
+186201	conjuncted
+186204	conjuncted
+186209	conjuncted
+conjuncted
+186214	conjuncted
+186221	conjuncted
+186228	conjuncted
+186234	conjuncted
+186240	conjuncted
 186248	conjuncted
-186265	conjuncted
-186277	conjuncted
-186280	conjuncted
-186284	conjuncted
-186321	conjuncted
+186269	conjuncted
+186278	conjuncted
+186283	conjuncted
+186287	conjuncted
+186291	conjuncted
+186300	conjuncted
+186306	conjuncted
+186310	conjuncted
+186327	conjuncted
+186339	conjuncted
 186344	conjuncted
-186348	conjuncted
-186354	conjuncted
+186350	conjuncted
+186358	conjuncted
 186362	conjuncted
-186390	conjuncted
-186435	conjuncted
-186438	conjuncted
-186441	conjuncted
+186365	conjuncted
+186369	conjuncted
+186381	conjuncted
+186385	conjuncted
+186396	conjuncted
+186417	conjuncted
+186430	conjuncted
 186459	conjuncted
-186462	conjuncted
-186495	conjuncted
-186500	conjuncted
-186504	conjuncted
-186508	conjuncted
-186513	conjuncted
+186463	conjuncted
+186475	conjuncted
 conjuncted
 conjuncted
-186539	conjuncted
-186543	conjuncted
-186563	conjuncted
-186572	conjuncted
+186499	conjuncted
+186536	conjuncted
+186545	conjuncted
+186552	conjuncted
+186556	conjuncted
+186561	conjuncted
+186567	conjuncted
+186574	conjuncted
+186578	conjuncted
+186580	conjuncted
 186585	conjuncted
-186602	conjuncted
-186605	conjuncted
-186607	conjuncted
-186614	conjuncted
-186619	conjuncted
-186624	conjuncted
-186628	conjuncted
-186641	conjuncted
-186649	conjuncted
-186667	conjuncted
-186678	conjuncted
-186703	conjuncted
-186751	conjuncted
-186759	conjuncted
-186764	conjuncted
-186784	conjuncted
-186801	conjuncted
-186818	conjuncted
-186830	conjuncted
-186833	conjuncted
-186853	conjuncted
-186870	conjuncted
-186902	conjuncted
-186908	conjuncted
+186588	conjuncted
 conjuncted
-186925	conjuncted
-186929	conjuncted
-186932	conjuncted
-186938	conjuncted
-186948	conjuncted
-186960	conjuncted
-186968	conjuncted
-186988	conjuncted
-186998	conjuncted
-187005	conjuncted
+186620	conjuncted
+186630	conjuncted
+186636	conjuncted
+conjuncted
+186640	conjuncted
+186643	conjuncted
+186654	conjuncted
+conjuncted
+186658	conjuncted
+186668	conjuncted
+186674	conjuncted
+186687	conjuncted
+186712	conjuncted
+186714	conjuncted
+186718	conjuncted
+186731	conjuncted
+186734	conjuncted
+186740	conjuncted
+186743	conjuncted
+186747	conjuncted
+186753	conjuncted
+186756	conjuncted
+186759	conjuncted
+conjuncted
+186774	conjuncted
+186776	conjuncted
+186786	conjuncted
+186791	conjuncted
+186795	conjuncted
+conjuncted
+186798	conjuncted
+186804	conjuncted
+186806	conjuncted
+186808	conjuncted
+186819	conjuncted
+186822	conjuncted
+186830	conjuncted
+186832	conjuncted
+186848	conjuncted
+186851	conjuncted
+186855	conjuncted
+186878	conjuncted
+186883	conjuncted
+186891	conjuncted
+186893	conjuncted
+conjuncted
+conjuncted
+186903	conjuncted
+186907	conjuncted
+186912	conjuncted
+186916	conjuncted
+186924	conjuncted
+186927	conjuncted
+186930	conjuncted
+186933	conjuncted
+186935	conjuncted
+conjuncted
+186941	conjuncted
+186943	conjuncted
+186945	conjuncted
+186947	conjuncted
+186950	conjuncted
+186952	conjuncted
+186954	conjuncted
+186959	conjuncted
+186964	conjuncted
+186967	conjuncted
+186971	conjuncted
+conjuncted
+conjuncted
+186976	conjuncted
+186978	conjuncted
+186984	conjuncted
+186986	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+186999	conjuncted
+187003	conjuncted
+187007	conjuncted
+187012	conjuncted
 187014	conjuncted
 187018	conjuncted
+187022	conjuncted
+187024	conjuncted
+187026	conjuncted
+187039	conjuncted
+conjuncted
+187043	conjuncted
+187045	conjuncted
+187048	conjuncted
+187050	conjuncted
+187054	conjuncted
+187056	conjuncted
+187062	conjuncted
+187064	conjuncted
+187073	conjuncted
 conjuncted
 conjuncted
-conjuncted
-187029	conjuncted
-187040	conjuncted
-187049	conjuncted
-conjuncted
-187063	conjuncted
-187067	conjuncted
+187079	conjuncted
+187083	conjuncted
+187085	conjuncted
+187090	conjuncted
+187092	conjuncted
+187101	conjuncted
+187103	conjuncted
 187109	conjuncted
-187112	conjuncted
-187125	conjuncted
-187133	conjuncted
-187142	conjuncted
-187152	conjuncted
-187155	conjuncted
-187158	conjuncted
+187131	conjuncted
+187134	conjuncted
+187137	conjuncted
+conjuncted
+187140	conjuncted
+187145	conjuncted
+187156	conjuncted
+187159	conjuncted
+187176	conjuncted
+187178	conjuncted
 187190	conjuncted
-187193	conjuncted
-conjuncted
-187204	conjuncted
+187201	conjuncted
+187214	conjuncted
 187216	conjuncted
-187224	conjuncted
-187234	conjuncted
-187241	conjuncted
-187248	conjuncted
+187229	conjuncted
+187232	conjuncted
 conjuncted
 conjuncted
 conjuncted
-187263	conjuncted
-187268	conjuncted
-187279	conjuncted
-187285	conjuncted
-187292	conjuncted
+conjuncted
+187244	conjuncted
+187246	conjuncted
+187249	conjuncted
+187255	conjuncted
+187260	conjuncted
+187274	conjuncted
+conjuncted
 187294	conjuncted
-conjuncted
+187299	conjuncted
+187305	conjuncted
+187316	conjuncted
 187322	conjuncted
+187325	conjuncted
+187335	conjuncted
 conjuncted
-conjuncted
-conjuncted
-187327	conjuncted
-187332	conjuncted
 187338	conjuncted
-conjuncted
-187349	conjuncted
-187355	conjuncted
+187344	conjuncted
+187350	conjuncted
+187357	conjuncted
+187359	conjuncted
+187361	conjuncted
+187374	conjuncted
 187376	conjuncted
-187385	conjuncted
-187387	conjuncted
-187393	conjuncted
-187401	conjuncted
-187410	conjuncted
-187421	conjuncted
-187436	conjuncted
+187378	conjuncted
+187388	conjuncted
+187390	conjuncted
+187397	conjuncted
+187405	conjuncted
+187407	conjuncted
+187430	conjuncted
+187432	conjuncted
+187434	conjuncted
+187437	conjuncted
+187445	conjuncted
+187449	conjuncted
 conjuncted
-conjuncted
-conjuncted
-187450	conjuncted
-187455	conjuncted
+187453	conjuncted
 187458	conjuncted
-187464	conjuncted
+187460	conjuncted
 conjuncted
-187468	conjuncted
-187472	conjuncted
-conjuncted
+187467	conjuncted
+187469	conjuncted
+187471	conjuncted
 187475	conjuncted
+conjuncted
+conjuncted
+conjuncted
 187484	conjuncted
-conjuncted
 187488	conjuncted
-187497	conjuncted
-187506	conjuncted
-conjuncted
-187515	conjuncted
-187536	conjuncted
+187490	conjuncted
+187498	conjuncted
+187501	conjuncted
+187505	conjuncted
+187509	conjuncted
+187512	conjuncted
+187514	conjuncted
+187523	conjuncted
+187530	conjuncted
+187533	conjuncted
 187538	conjuncted
-187554	conjuncted
-187566	conjuncted
+187546	conjuncted
+187548	conjuncted
+187552	conjuncted
 conjuncted
-187570	conjuncted
-187575	conjuncted
-187595	conjuncted
-187607	conjuncted
+187557	conjuncted
+187560	conjuncted
+187564	conjuncted
 conjuncted
-187612	conjuncted
-187624	conjuncted
+187569	conjuncted
+187574	conjuncted
+187576	conjuncted
+187579	conjuncted
+187581	conjuncted
+187583	conjuncted
+187589	conjuncted
+187592	conjuncted
+187597	conjuncted
+187600	conjuncted
+187606	conjuncted
+conjuncted
+187615	conjuncted
+187619	conjuncted
+187625	conjuncted
 187627	conjuncted
-187636	conjuncted
 conjuncted
+187631	conjuncted
+187633	conjuncted
 187639	conjuncted
-187643	conjuncted
 187646	conjuncted
+187650	conjuncted
+conjuncted
 187653	conjuncted
-187665	conjuncted
-187669	conjuncted
-187678	conjuncted
-187683	conjuncted
-187700	conjuncted
-187708	conjuncted
+187660	conjuncted
+187667	conjuncted
+187671	conjuncted
+conjuncted
+187676	conjuncted
+187681	conjuncted
+187689	conjuncted
+187691	conjuncted
+187699	conjuncted
+187703	conjuncted
+187705	conjuncted
+conjuncted
+conjuncted
+conjuncted
 187710	conjuncted
+conjuncted
+187715	conjuncted
+187717	conjuncted
+conjuncted
+conjuncted
 187721	conjuncted
-conjuncted
-conjuncted
 187727	conjuncted
-187736	conjuncted
-187743	conjuncted
-187750	conjuncted
-187752	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+187738	conjuncted
+conjuncted
+conjuncted
+conjuncted
+187744	conjuncted
+conjuncted
+conjuncted
+conjuncted
+187753	conjuncted
+187759	conjuncted
 187765	conjuncted
-187770	conjuncted
-conjuncted
+187768	conjuncted
+187772	conjuncted
 187774	conjuncted
-187776	conjuncted
-187797	conjuncted
-187802	conjuncted
-187806	conjuncted
-187809	conjuncted
+187777	conjuncted
+187788	conjuncted
+187795	conjuncted
+187798	conjuncted
+187808	conjuncted
+187811	conjuncted
 187820	conjuncted
-187827	conjuncted
-187830	conjuncted
+187822	conjuncted
+187824	conjuncted
 187833	conjuncted
-187850	conjuncted
+187836	conjuncted
+187841	conjuncted
+187846	conjuncted
 conjuncted
-187853	conjuncted
-187865	conjuncted
-187867	conjuncted
-187875	conjuncted
-187880	conjuncted
-187891	conjuncted
 conjuncted
+187855	conjuncted
+187863	conjuncted
+conjuncted
+187870	conjuncted
+187876	conjuncted
+187886	conjuncted
+187888	conjuncted
+187890	conjuncted
+187892	conjuncted
 187897	conjuncted
-187900	conjuncted
+187901	conjuncted
+187903	conjuncted
+187906	conjuncted
 conjuncted
-187904	conjuncted
-187909	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+187915	conjuncted
+187917	conjuncted
 187921	conjuncted
+187924	conjuncted
+187932	conjuncted
+conjuncted
+187939	conjuncted
+187943	conjuncted
+187946	conjuncted
+conjuncted
+187968	conjuncted
+187973	conjuncted
 conjuncted
 conjuncted
-187933	conjuncted
-187937	conjuncted
-187941	conjuncted
-187944	conjuncted
 conjuncted
-187951	conjuncted
-187971	conjuncted
-187985	conjuncted
-187987	conjuncted
-187996	conjuncted
-187999	conjuncted
-188001	conjuncted
-188007	conjuncted
-188014	conjuncted
-188016	conjuncted
-188030	conjuncted
-188044	conjuncted
+187978	conjuncted
+187986	conjuncted
+187989	conjuncted
+conjuncted
+conjuncted
+187993	conjuncted
+187998	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+188011	conjuncted
+188022	conjuncted
+188024	conjuncted
+188027	conjuncted
+188029	conjuncted
+conjuncted
+188036	conjuncted
+188038	conjuncted
+188040	conjuncted
+188043	conjuncted
+188045	conjuncted
 188054	conjuncted
+188058	conjuncted
+188061	conjuncted
+188069	conjuncted
+188071	conjuncted
+188075	conjuncted
 conjuncted
-188070	conjuncted
-188081	conjuncted
-188086	conjuncted
-188093	conjuncted
 conjuncted
+188088	conjuncted
+188090	conjuncted
+188094	conjuncted
+188096	conjuncted
+188105	conjuncted
+188109	conjuncted
+188118	conjuncted
+188120	conjuncted
+188125	conjuncted
+188133	conjuncted
 conjuncted
-188110	conjuncted
-188116	conjuncted
-188119	conjuncted
-188124	conjuncted
-188129	conjuncted
-188132	conjuncted
-188147	conjuncted
-188150	conjuncted
-188155	conjuncted
-188182	conjuncted
-188188	conjuncted
+188137	conjuncted
+188139	conjuncted
+188143	conjuncted
+188158	conjuncted
+188162	conjuncted
+188166	conjuncted
+188168	conjuncted
+188171	conjuncted
+188179	conjuncted
+conjuncted
+188196	conjuncted
 188198	conjuncted
-conjuncted
-conjuncted
-conjuncted
-188205	conjuncted
+188201	conjuncted
+188206	conjuncted
+188209	conjuncted
+188211	conjuncted
+188213	conjuncted
+188215	conjuncted
 188217	conjuncted
-188232	conjuncted
-188244	conjuncted
-188246	conjuncted
-188258	conjuncted
+188223	conjuncted
+conjuncted
+188229	conjuncted
+188247	conjuncted
+conjuncted
+conjuncted
+188257	conjuncted
 188261	conjuncted
-188297	conjuncted
-188302	conjuncted
+conjuncted
+188265	conjuncted
+188267	conjuncted
+conjuncted
+188270	conjuncted
+conjuncted
+188276	conjuncted
+188280	conjuncted
+188288	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+188295	conjuncted
+conjuncted
+conjuncted
+conjuncted
+188300	conjuncted
+conjuncted
+conjuncted
+188307	conjuncted
+188309	conjuncted
 188311	conjuncted
+188313	conjuncted
+188318	conjuncted
+188320	conjuncted
+188338	conjuncted
+188345	conjuncted
 conjuncted
-188322	conjuncted
-188337	conjuncted
-188339	conjuncted
-188356	conjuncted
-188367	conjuncted
-188374	conjuncted
-188394	conjuncted
-188396	conjuncted
-188401	conjuncted
-188411	conjuncted
-conjuncted
-188422	conjuncted
-188425	conjuncted
-188433	conjuncted
-188447	conjuncted
-188454	conjuncted
+188351	conjuncted
 conjuncted
 conjuncted
 conjuncted
-188468	conjuncted
-188483	conjuncted
-188486	conjuncted
-188488	conjuncted
-188491	conjuncted
+conjuncted
+188358	conjuncted
+188369	conjuncted
+188377	conjuncted
+188385	conjuncted
+188387	conjuncted
+188389	conjuncted
+188395	conjuncted
+188397	conjuncted
+188407	conjuncted
+conjuncted
+conjuncted
+188415	conjuncted
+188417	conjuncted
+conjuncted
+188424	conjuncted
+188428	conjuncted
+188432	conjuncted
+188436	conjuncted
+188444	conjuncted
+188456	conjuncted
+188459	conjuncted
+188470	conjuncted
+188472	conjuncted
+188477	conjuncted
+188481	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
 188493	conjuncted
-188510	conjuncted
+188495	conjuncted
+188503	conjuncted
+conjuncted
+188506	conjuncted
 188516	conjuncted
+188520	conjuncted
+188522	conjuncted
+188524	conjuncted
+188526	conjuncted
+188536	conjuncted
 conjuncted
-188528	conjuncted
-188540	conjuncted
-188547	conjuncted
-188556	conjuncted
+188543	conjuncted
+188550	conjuncted
+188555	conjuncted
 188559	conjuncted
-188562	conjuncted
-188572	conjuncted
-188588	conjuncted
-188594	conjuncted
-188608	conjuncted
-188612	conjuncted
-188617	conjuncted
-188621	conjuncted
-188629	conjuncted
-188641	conjuncted
-188644	conjuncted
-188647	conjuncted
+188561	conjuncted
+188565	conjuncted
+188567	conjuncted
 conjuncted
-188650	conjuncted
+188571	conjuncted
 conjuncted
+188578	conjuncted
+188582	conjuncted
+conjuncted
+conjuncted
+conjuncted
+188589	conjuncted
+188591	conjuncted
+188593	conjuncted
+188595	conjuncted
+188598	conjuncted
+188603	conjuncted
+188606	conjuncted
+conjuncted
+188609	conjuncted
+188611	conjuncted
+188628	conjuncted
+188638	conjuncted
+188643	conjuncted
+conjuncted
+188651	conjuncted
 188655	conjuncted
+188661	conjuncted
 conjuncted
-188658	conjuncted
-188672	conjuncted
-188678	conjuncted
 conjuncted
-188685	conjuncted
+188668	conjuncted
+188671	conjuncted
 conjuncted
-188690	conjuncted
-conjuncted
-188697	conjuncted
+188676	conjuncted
+188680	conjuncted
 188699	conjuncted
-188712	conjuncted
-188727	conjuncted
+conjuncted
+188709	conjuncted
+188711	conjuncted
+188716	conjuncted
+188722	conjuncted
+188730	conjuncted
+conjuncted
+188733	conjuncted
+188739	conjuncted
 188741	conjuncted
-188754	conjuncted
+188745	conjuncted
 conjuncted
-188761	conjuncted
-188766	conjuncted
-188778	conjuncted
-188781	conjuncted
-188791	conjuncted
+188751	conjuncted
+188755	conjuncted
+188759	conjuncted
+188763	conjuncted
+188769	conjuncted
 conjuncted
-188805	conjuncted
-188807	conjuncted
-188811	conjuncted
-188817	conjuncted
-188831	conjuncted
-188836	conjuncted
-188842	conjuncted
-188847	conjuncted
+188776	conjuncted
+188783	conjuncted
+188785	conjuncted
+188787	conjuncted
 conjuncted
-188851	conjuncted
 conjuncted
-188857	conjuncted
-188863	conjuncted
-188868	conjuncted
-188874	conjuncted
-188876	conjuncted
-188887	conjuncted
+188808	conjuncted
+188812	conjuncted
+188814	conjuncted
+188822	conjuncted
+188845	conjuncted
+188852	conjuncted
+188860	conjuncted
 conjuncted
-188890	conjuncted
-188895	conjuncted
 conjuncted
-188907	conjuncted
-188919	conjuncted
-188933	conjuncted
-188945	conjuncted
-188947	conjuncted
+conjuncted
+conjuncted
+188867	conjuncted
+conjuncted
+188872	conjuncted
+188878	conjuncted
+188889	conjuncted
+188892	conjuncted
+188896	conjuncted
+188901	conjuncted
+188904	conjuncted
+188910	conjuncted
+conjuncted
+188929	conjuncted
+conjuncted
+188940	conjuncted
+conjuncted
+conjuncted
+conjuncted
+188946	conjuncted
 188950	conjuncted
-188953	conjuncted
-188958	conjuncted
-188963	conjuncted
-188982	conjuncted
-188992	conjuncted
-189001	conjuncted
-189021	conjuncted
-189033	conjuncted
-189038	conjuncted
-189067	conjuncted
+188954	conjuncted
 conjuncted
+conjuncted
+188968	conjuncted
+conjuncted
+188971	conjuncted
+188975	conjuncted
+188977	conjuncted
+conjuncted
+188981	conjuncted
+188983	conjuncted
+188986	conjuncted
+conjuncted
+188993	conjuncted
+189009	conjuncted
+189012	conjuncted
+189015	conjuncted
+189023	conjuncted
+189034	conjuncted
+189043	conjuncted
+189049	conjuncted
+189055	conjuncted
+189057	conjuncted
+189061	conjuncted
+189065	conjuncted
 189073	conjuncted
-189078	conjuncted
+189077	conjuncted
+conjuncted
+189082	conjuncted
 189085	conjuncted
-189093	conjuncted
-189109	conjuncted
-189116	conjuncted
-conjuncted
+189088	conjuncted
+189092	conjuncted
+189099	conjuncted
+189105	conjuncted
+189107	conjuncted
+189112	conjuncted
 189121	conjuncted
-189124	conjuncted
 conjuncted
+189131	conjuncted
 189135	conjuncted
-189151	conjuncted
+189139	conjuncted
+189142	conjuncted
+189149	conjuncted
+189153	conjuncted
+189163	conjuncted
+189170	conjuncted
 conjuncted
-189155	conjuncted
-189160	conjuncted
-189166	conjuncted
-conjuncted
-189171	conjuncted
-189179	conjuncted
 189181	conjuncted
-189188	conjuncted
-189195	conjuncted
-189200	conjuncted
+189189	conjuncted
+189193	conjuncted
+189201	conjuncted
+189203	conjuncted
+189205	conjuncted
 conjuncted
-189211	conjuncted
 189217	conjuncted
 conjuncted
-189238	conjuncted
-189246	conjuncted
+189232	conjuncted
+189236	conjuncted
+189250	conjuncted
 conjuncted
 conjuncted
+189259	conjuncted
 189266	conjuncted
-189270	conjuncted
-189273	conjuncted
+189278	conjuncted
+189287	conjuncted
+189298	conjuncted
+189303	conjuncted
 conjuncted
-189295	conjuncted
-189299	conjuncted
-189305	conjuncted
-189308	conjuncted
+189306	conjuncted
 conjuncted
-189321	conjuncted
+189310	conjuncted
 conjuncted
-189329	conjuncted
-189361	conjuncted
-189363	conjuncted
-conjuncted
-189366	conjuncted
-189368	conjuncted
-189392	conjuncted
-conjuncted
+189313	conjuncted
+189317	conjuncted
+189325	conjuncted
+189330	conjuncted
+189335	conjuncted
+189337	conjuncted
+189340	conjuncted
+189350	conjuncted
+189352	conjuncted
+189364	conjuncted
+189374	conjuncted
+189377	conjuncted
+189379	conjuncted
+189386	conjuncted
+189389	conjuncted
+189391	conjuncted
+189393	conjuncted
+189397	conjuncted
 conjuncted
 189400	conjuncted
 conjuncted
+189407	conjuncted
 conjuncted
-189409	conjuncted
-189415	conjuncted
+conjuncted
+189414	conjuncted
+189416	conjuncted
 189419	conjuncted
-189424	conjuncted
-189445	conjuncted
-189457	conjuncted
-189464	conjuncted
+conjuncted
+189422	conjuncted
+189427	conjuncted
+189429	conjuncted
+189441	conjuncted
+189448	conjuncted
+189450	conjuncted
+conjuncted
+conjuncted
+189456	conjuncted
+189458	conjuncted
 189467	conjuncted
+189472	conjuncted
+189477	conjuncted
+189485	conjuncted
+189487	conjuncted
+189491	conjuncted
+189493	conjuncted
+189497	conjuncted
 conjuncted
-189478	conjuncted
-189490	conjuncted
-189494	conjuncted
-189500	conjuncted
 conjuncted
-189506	conjuncted
-189508	conjuncted
-189514	conjuncted
-189519	conjuncted
-189528	conjuncted
-189549	conjuncted
-189560	conjuncted
-189567	conjuncted
-189595	conjuncted
-189598	conjuncted
+189507	conjuncted
+189510	conjuncted
+189522	conjuncted
+189525	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+189555	conjuncted
+189557	conjuncted
+conjuncted
+189564	conjuncted
+189573	conjuncted
+conjuncted
+conjuncted
+189577	conjuncted
+conjuncted
+189584	conjuncted
+189587	conjuncted
+conjuncted
+189590	conjuncted
+189597	conjuncted
 189600	conjuncted
-189607	conjuncted
+189613	conjuncted
+conjuncted
+conjuncted
+189620	conjuncted
+189624	conjuncted
 189628	conjuncted
-189649	conjuncted
 conjuncted
-189666	conjuncted
-189679	conjuncted
+conjuncted
+conjuncted
+189633	conjuncted
+189635	conjuncted
+189637	conjuncted
+189639	conjuncted
+189644	conjuncted
+189646	conjuncted
+conjuncted
+189654	conjuncted
+conjuncted
+189658	conjuncted
+189662	conjuncted
+189667	conjuncted
+189671	conjuncted
+conjuncted
 189686	conjuncted
+189690	conjuncted
+conjuncted
+189696	conjuncted
 189698	conjuncted
-189701	conjuncted
-189711	conjuncted
-189718	conjuncted
-189728	conjuncted
-conjuncted
-189741	conjuncted
+189702	conjuncted
+189727	conjuncted
+189736	conjuncted
+189739	conjuncted
 189743	conjuncted
-189748	conjuncted
-189760	conjuncted
-189762	conjuncted
-189764	conjuncted
-189779	conjuncted
-189791	conjuncted
-189799	conjuncted
-189802	conjuncted
 conjuncted
-189821	conjuncted
+189746	conjuncted
+189749	conjuncted
+189756	conjuncted
+189759	conjuncted
+189768	conjuncted
+189774	conjuncted
+189776	conjuncted
+189780	conjuncted
+189789	conjuncted
 conjuncted
-189825	conjuncted
-189830	conjuncted
-189833	conjuncted
-189845	conjuncted
-189850	conjuncted
-189853	conjuncted
-189867	conjuncted
-189878	conjuncted
-189885	conjuncted
-189890	conjuncted
-189900	conjuncted
-189903	conjuncted
-189907	conjuncted
-189910	conjuncted
+conjuncted
+conjuncted
+189795	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+189803	conjuncted
+conjuncted
+189808	conjuncted
+189811	conjuncted
+189818	conjuncted
+189831	conjuncted
+189837	conjuncted
+189841	conjuncted
+conjuncted
+189844	conjuncted
+189846	conjuncted
+189848	conjuncted
+189858	conjuncted
+189860	conjuncted
+189862	conjuncted
+189866	conjuncted
+conjuncted
+189870	conjuncted
+conjuncted
+189873	conjuncted
+189876	conjuncted
+189883	conjuncted
+189887	conjuncted
+189889	conjuncted
+conjuncted
+189896	conjuncted
+189899	conjuncted
+189904	conjuncted
+189906	conjuncted
+189911	conjuncted
+189917	conjuncted
 189919	conjuncted
+189921	conjuncted
 189924	conjuncted
-189926	conjuncted
+189929	conjuncted
 conjuncted
+189935	conjuncted
 conjuncted
-189938	conjuncted
-189945	conjuncted
-189948	conjuncted
+189947	conjuncted
+189949	conjuncted
+conjuncted
+189954	conjuncted
+189963	conjuncted
+189966	conjuncted
+conjuncted
 189979	conjuncted
-189984	conjuncted
+189981	conjuncted
+189983	conjuncted
+189985	conjuncted
+189987	conjuncted
+189989	conjuncted
+189991	conjuncted
+conjuncted
+190005	conjuncted
+190010	conjuncted
+conjuncted
+190018	conjuncted
+190020	conjuncted
+190025	conjuncted
+conjuncted
+190028	conjuncted
 conjuncted
 conjuncted
-190011	conjuncted
-190019	conjuncted
-190024	conjuncted
 conjuncted
-190032	conjuncted
-190038	conjuncted
-190041	conjuncted
 conjuncted
-190045	conjuncted
-190052	conjuncted
-190056	conjuncted
+190035	conjuncted
+190043	conjuncted
+190050	conjuncted
+conjuncted
 190060	conjuncted
+190062	conjuncted
+190064	conjuncted
 190068	conjuncted
+190070	conjuncted
+190072	conjuncted
 190076	conjuncted
+190084	conjuncted
 conjuncted
-190081	conjuncted
-190090	conjuncted
-190103	conjuncted
-190107	conjuncted
-190109	conjuncted
-190139	conjuncted
+190088	conjuncted
+190094	conjuncted
+conjuncted
+190101	conjuncted
+190126	conjuncted
+190129	conjuncted
+190134	conjuncted
+190146	conjuncted
+190149	conjuncted
+190152	conjuncted
+190160	conjuncted
+190162	conjuncted
+conjuncted
+190166	conjuncted
+190172	conjuncted
+conjuncted
+190175	conjuncted
+190177	conjuncted
 190181	conjuncted
-190189	conjuncted
-190201	conjuncted
+190183	conjuncted
+190186	conjuncted
+190191	conjuncted
+conjuncted
 190205	conjuncted
-190208	conjuncted
-190215	conjuncted
-conjuncted
-190223	conjuncted
-190225	conjuncted
-190241	conjuncted
-190243	conjuncted
-190245	conjuncted
-190247	conjuncted
-conjuncted
-190265	conjuncted
-conjuncted
-190274	conjuncted
-190278	conjuncted
-190282	conjuncted
-190302	conjuncted
-190311	conjuncted
-190318	conjuncted
-190329	conjuncted
-190335	conjuncted
-190337	conjuncted
-190340	conjuncted
-190347	conjuncted
-190355	conjuncted
-190366	conjuncted
-190369	conjuncted
-190375	conjuncted
-190379	conjuncted
-190382	conjuncted
-conjuncted
-conjuncted
-190394	conjuncted
-190402	conjuncted
-190405	conjuncted
-190414	conjuncted
-conjuncted
-190446	conjuncted
-190463	conjuncted
-190469	conjuncted
-190489	conjuncted
-190505	conjuncted
-190515	conjuncted
-190520	conjuncted
-190526	conjuncted
-190532	conjuncted
-190538	conjuncted
-190544	conjuncted
-190548	conjuncted
-190553	conjuncted
-190558	conjuncted
-190566	conjuncted
-190569	conjuncted
-190588	conjuncted
-190594	conjuncted
-conjuncted
-190601	conjuncted
-190614	conjuncted
-190617	conjuncted
-190625	conjuncted
-190627	conjuncted
-190630	conjuncted
-190632	conjuncted
-190646	conjuncted
-190649	conjuncted
-190682	conjuncted
-190687	conjuncted
-190706	conjuncted
-190717	conjuncted
-190723	conjuncted
-190737	conjuncted
-190739	conjuncted
-190745	conjuncted
-190752	conjuncted
-190756	conjuncted
-190761	conjuncted
-190771	conjuncted
-190784	conjuncted
-190789	conjuncted
-190794	conjuncted
-190801	conjuncted
-190805	conjuncted
-190809	conjuncted
-190814	conjuncted
-190829	conjuncted
-190837	conjuncted
-conjuncted
-190840	conjuncted
-190843	conjuncted
-190850	conjuncted
-190865	conjuncted
-190872	conjuncted
-190888	conjuncted
-190892	conjuncted
-190900	conjuncted
-190905	conjuncted
-190912	conjuncted
-190931	conjuncted
-190946	conjuncted
-190955	conjuncted
-190968	conjuncted
-190970	conjuncted
-190983	conjuncted
-conjuncted
-190989	conjuncted
-190996	conjuncted
-191000	conjuncted
-191006	conjuncted
-191011	conjuncted
-191013	conjuncted
-191016	conjuncted
-191020	conjuncted
-conjuncted
-191024	conjuncted
-191029	conjuncted
-191041	conjuncted
-191053	conjuncted
-191059	conjuncted
-191065	conjuncted
-191077	conjuncted
-191111	conjuncted
-191153	conjuncted
-191158	conjuncted
-191163	conjuncted
-191172	conjuncted
-191181	conjuncted
-191183	conjuncted
-conjuncted
-191186	conjuncted
-191188	conjuncted
-191199	conjuncted
-191207	conjuncted
-191215	conjuncted
-191223	conjuncted
-191237	conjuncted
-191241	conjuncted
-191249	conjuncted
-191256	conjuncted
-191264	conjuncted
-191283	conjuncted
-191294	conjuncted
-191297	conjuncted
-191302	conjuncted
-191306	conjuncted
-191317	conjuncted
-191326	conjuncted
-191334	conjuncted
-conjuncted
-191337	conjuncted
-191347	conjuncted
-191358	conjuncted
-191360	conjuncted
-191362	conjuncted
-191373	conjuncted
-191384	conjuncted
-191397	conjuncted
-191414	conjuncted
-191425	conjuncted
-191433	conjuncted
-191438	conjuncted
-191440	conjuncted
-191444	conjuncted
-191449	conjuncted
-conjuncted
-191453	conjuncted
-191460	conjuncted
-conjuncted
-conjuncted
-conjuncted
-191469	conjuncted
-191472	conjuncted
-191477	conjuncted
-191485	conjuncted
-191488	conjuncted
-191498	conjuncted
-191510	conjuncted
-191517	conjuncted
-191524	conjuncted
-191529	conjuncted
-191540	conjuncted
-191556	conjuncted
-191564	conjuncted
-conjuncted
-191568	conjuncted
-conjuncted
-191573	conjuncted
-191577	conjuncted
-conjuncted
-191616	conjuncted
-191629	conjuncted
-191631	conjuncted
-conjuncted
-191635	conjuncted
-191640	conjuncted
-191646	conjuncted
-191651	conjuncted
-191654	conjuncted
-191672	conjuncted
-191675	conjuncted
-191681	conjuncted
-191689	conjuncted
-191707	conjuncted
-191711	conjuncted
-conjuncted
-conjuncted
-191717	conjuncted
-191720	conjuncted
-191725	conjuncted
-191732	conjuncted
-191741	conjuncted
-191758	conjuncted
-191763	conjuncted
-conjuncted
-191766	conjuncted
-191768	conjuncted
-191771	conjuncted
-191774	conjuncted
-191782	conjuncted
-191786	conjuncted
-191793	conjuncted
-191806	conjuncted
-191816	conjuncted
-191818	conjuncted
-conjuncted
-191842	conjuncted
-191845	conjuncted
-conjuncted
-191860	conjuncted
-191898	conjuncted
-191909	conjuncted
-conjuncted
-191922	conjuncted
-191933	conjuncted
-191939	conjuncted
-191941	conjuncted
-191946	conjuncted
-191950	conjuncted
-191957	conjuncted
-191961	conjuncted
-191968	conjuncted
-191979	conjuncted
-192005	conjuncted
-192008	conjuncted
-192019	conjuncted
-conjuncted
-conjuncted
-conjuncted
-192037	conjuncted
-192044	conjuncted
-192060	conjuncted
-192068	conjuncted
-192075	conjuncted
-192078	conjuncted
-192094	conjuncted
-192101	conjuncted
-192109	conjuncted
-192127	conjuncted
-192143	conjuncted
-192157	conjuncted
-192163	conjuncted
-192167	conjuncted
-192174	conjuncted
-192188	conjuncted
-192193	conjuncted
-192198	conjuncted
-192212	conjuncted
-192271	conjuncted
-192303	conjuncted
-192341	conjuncted
-conjuncted
-conjuncted
-192347	conjuncted
-192349	conjuncted
-conjuncted
-conjuncted
-192353	conjuncted
-192357	conjuncted
-192360	conjuncted
-192381	conjuncted
-192389	conjuncted
-conjuncted
-192396	conjuncted
-192400	conjuncted
-192414	conjuncted
-192429	conjuncted
-conjuncted
-192435	conjuncted
-conjuncted
-192450	conjuncted
-192462	conjuncted
-192473	conjuncted
-192480	conjuncted
-conjuncted
-192488	conjuncted
-192491	conjuncted
-192493	conjuncted
-192504	conjuncted
-192506	conjuncted
-192508	conjuncted
-192511	conjuncted
-192513	conjuncted
-192517	conjuncted
-192527	conjuncted
-192531	conjuncted
-192536	conjuncted
-conjuncted
-192543	conjuncted
-192551	conjuncted
-192556	conjuncted
-192563	conjuncted
-192568	conjuncted
-192581	conjuncted
-192590	conjuncted
-192608	conjuncted
-conjuncted
-conjuncted
-192627	conjuncted
-192631	conjuncted
-192633	conjuncted
-192641	conjuncted
-conjuncted
-conjuncted
-192653	conjuncted
-192662	conjuncted
-192667	conjuncted
-192675	conjuncted
-192678	conjuncted
-192706	conjuncted
-192734	conjuncted
-192738	conjuncted
-192741	conjuncted
-192750	conjuncted
-192752	conjuncted
-192759	conjuncted
-192764	conjuncted
-192769	conjuncted
-192788	conjuncted
-192801	conjuncted
-192815	conjuncted
-192824	conjuncted
-conjuncted
-192833	conjuncted
-192846	conjuncted
-192857	conjuncted
-192875	conjuncted
-192879	conjuncted
-192900	conjuncted
-192902	conjuncted
-192905	conjuncted
-192911	conjuncted
-192921	conjuncted
-192930	conjuncted
-192936	conjuncted
-192943	conjuncted
-conjuncted
-conjuncted
-192954	conjuncted
-192961	conjuncted
-192965	conjuncted
-conjuncted
-192976	conjuncted
-192979	conjuncted
-192984	conjuncted
-192995	conjuncted
-conjuncted
-193002	conjuncted
-conjuncted
-193014	conjuncted
-193016	conjuncted
-193018	conjuncted
-conjuncted
-193027	conjuncted
-conjuncted
-193066	conjuncted
-193068	conjuncted
-conjuncted
-193071	conjuncted
-conjuncted
-193080	conjuncted
-conjuncted
-193085	conjuncted
-193090	conjuncted
-193092	conjuncted
-193112	conjuncted
-193145	conjuncted
-193153	conjuncted
-conjuncted
-193158	conjuncted
-193172	conjuncted
-conjuncted
-conjuncted
-193188	conjuncted
-193216	conjuncted
-193219	conjuncted
-conjuncted
-193230	conjuncted
-193234	conjuncted
-193238	conjuncted
-193248	conjuncted
-193263	conjuncted
-193266	conjuncted
-193272	conjuncted
-193278	conjuncted
-193282	conjuncted
-193292	conjuncted
-193306	conjuncted
-193309	conjuncted
-conjuncted
-conjuncted
-193318	conjuncted
-193324	conjuncted
-193342	conjuncted
-193347	conjuncted
-193374	conjuncted
-193381	conjuncted
-193390	conjuncted
-193401	conjuncted
-193412	conjuncted
-193421	conjuncted
-193429	conjuncted
-193436	conjuncted
-193449	conjuncted
-193459	conjuncted
-conjuncted
-193465	conjuncted
-193474	conjuncted
-193481	conjuncted
-193493	conjuncted
-193510	conjuncted
-193514	conjuncted
-193519	conjuncted
-193527	conjuncted
-193535	conjuncted
-193548	conjuncted
-193572	conjuncted
-conjuncted
-conjuncted
-193595	conjuncted
-conjuncted
-193599	conjuncted
-193614	conjuncted
-conjuncted
-conjuncted
-193630	conjuncted
-193636	conjuncted
-193641	conjuncted
-193661	conjuncted
-193668	conjuncted
-193687	conjuncted
-193692	conjuncted
-193696	conjuncted
-193700	conjuncted
-193704	conjuncted
-193713	conjuncted
-193720	conjuncted
-193728	conjuncted
-193730	conjuncted
-193735	conjuncted
-193739	conjuncted
-193750	conjuncted
-193755	conjuncted
-193772	conjuncted
-193774	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-193800	conjuncted
-193805	conjuncted
-193808	conjuncted
-193810	conjuncted
-193812	conjuncted
-193814	conjuncted
-193816	conjuncted
-193818	conjuncted
-193839	conjuncted
-193859	conjuncted
-193881	conjuncted
-193886	conjuncted
-193896	conjuncted
-193916	conjuncted
-conjuncted
-193921	conjuncted
-193962	conjuncted
-193968	conjuncted
-193977	conjuncted
-194024	conjuncted
-194030	conjuncted
-194047	conjuncted
-194057	conjuncted
-194059	conjuncted
-194070	conjuncted
-194081	conjuncted
-194092	conjuncted
-194094	conjuncted
-194097	conjuncted
-194118	conjuncted
-194124	conjuncted
-194128	conjuncted
-194135	conjuncted
-194140	conjuncted
-194162	conjuncted
-194171	conjuncted
-194179	conjuncted
-194186	conjuncted
-194188	conjuncted
-194198	conjuncted
-194212	conjuncted
-194214	conjuncted
-194219	conjuncted
-194231	conjuncted
-194233	conjuncted
-194239	conjuncted
-194242	conjuncted
-194246	conjuncted
-194251	conjuncted
-194258	conjuncted
-194268	conjuncted
-194297	conjuncted
-194310	conjuncted
-194316	conjuncted
-194333	conjuncted
-194344	conjuncted
-conjuncted
-194347	conjuncted
-194354	conjuncted
-194356	conjuncted
-194374	conjuncted
-194392	conjuncted
-194394	conjuncted
-194403	conjuncted
-194405	conjuncted
-194411	conjuncted
-194418	conjuncted
-194448	conjuncted
-194455	conjuncted
-194469	conjuncted
-194471	conjuncted
-194477	conjuncted
-conjuncted
-conjuncted
-conjuncted
-194482	conjuncted
-conjuncted
-194492	conjuncted
-conjuncted
-194500	conjuncted
-194507	conjuncted
-194512	conjuncted
-194518	conjuncted
-194525	conjuncted
-194529	conjuncted
-194540	conjuncted
-194543	conjuncted
-194549	conjuncted
-194556	conjuncted
-194565	conjuncted
-194570	conjuncted
-194572	conjuncted
-194577	conjuncted
-194585	conjuncted
-194613	conjuncted
-194618	conjuncted
-194621	conjuncted
-194625	conjuncted
-194630	conjuncted
-194635	conjuncted
-194637	conjuncted
-194641	conjuncted
-194645	conjuncted
-194654	conjuncted
-194656	conjuncted
-194667	conjuncted
-194672	conjuncted
-194687	conjuncted
-conjuncted
-194691	conjuncted
-194693	conjuncted
-194710	conjuncted
-194712	conjuncted
-194715	conjuncted
-194724	conjuncted
-194738	conjuncted
-194743	conjuncted
-conjuncted
-194747	conjuncted
-194758	conjuncted
-194764	conjuncted
-194778	conjuncted
-194790	conjuncted
-194797	conjuncted
-194802	conjuncted
-194807	conjuncted
-conjuncted
-conjuncted
-194812	conjuncted
-194826	conjuncted
-194834	conjuncted
-194844	conjuncted
-194852	conjuncted
-194857	conjuncted
-194860	conjuncted
-194864	conjuncted
-194867	conjuncted
-194873	conjuncted
-194881	conjuncted
-194887	conjuncted
-194891	conjuncted
-194895	conjuncted
-194899	conjuncted
-194907	conjuncted
-conjuncted
-194923	conjuncted
-194926	conjuncted
-conjuncted
-194932	conjuncted
-194937	conjuncted
-194943	conjuncted
-194950	conjuncted
-194954	conjuncted
-195000	conjuncted
-195007	conjuncted
-195009	conjuncted
-195011	conjuncted
-195018	conjuncted
-195023	conjuncted
-195030	conjuncted
-195036	conjuncted
-195041	conjuncted
-195043	conjuncted
-195055	conjuncted
-conjuncted
-conjuncted
-conjuncted
-195070	conjuncted
-195072	conjuncted
-195081	conjuncted
-195100	conjuncted
-195103	conjuncted
-195116	conjuncted
-195121	conjuncted
-195128	conjuncted
-195142	conjuncted
-195144	conjuncted
-195149	conjuncted
-195157	conjuncted
-195173	conjuncted
-195187	conjuncted
-conjuncted
-195194	conjuncted
-195204	conjuncted
-195211	conjuncted
-195224	conjuncted
-195227	conjuncted
-195239	conjuncted
-conjuncted
-195243	conjuncted
-195258	conjuncted
-195275	conjuncted
-195290	conjuncted
-195292	conjuncted
-195296	conjuncted
-195300	conjuncted
-195304	conjuncted
-195310	conjuncted
-195312	conjuncted
-195331	conjuncted
-195333	conjuncted
-195339	conjuncted
-195342	conjuncted
-195356	conjuncted
-195364	conjuncted
-195366	conjuncted
-195390	conjuncted
-conjuncted
-195412	conjuncted
-195421	conjuncted
-195426	conjuncted
-195428	conjuncted
-195435	conjuncted
-195467	conjuncted
-195492	conjuncted
-195499	conjuncted
-conjuncted
-conjuncted
-conjuncted
-195525	conjuncted
-195534	conjuncted
-conjuncted
-195556	conjuncted
-195598	conjuncted
-195604	conjuncted
-195613	conjuncted
-195620	conjuncted
-195624	conjuncted
-195626	conjuncted
-195632	conjuncted
-195637	conjuncted
-195641	conjuncted
-195648	conjuncted
-195650	conjuncted
-195652	conjuncted
-195654	conjuncted
-195656	conjuncted
-195658	conjuncted
-195664	conjuncted
-195678	conjuncted
-195686	conjuncted
-195695	conjuncted
-195721	conjuncted
-195729	conjuncted
-195734	conjuncted
-195747	conjuncted
-195774	conjuncted
-195784	conjuncted
-195788	conjuncted
-195791	conjuncted
-195796	conjuncted
-195801	conjuncted
-195805	conjuncted
-195813	conjuncted
-195818	conjuncted
-195822	conjuncted
-195827	conjuncted
-195834	conjuncted
-195839	conjuncted
-195849	conjuncted
-195854	conjuncted
-195865	conjuncted
-195871	conjuncted
-195895	conjuncted
-195897	conjuncted
-195904	conjuncted
-195911	conjuncted
-195919	conjuncted
-195921	conjuncted
-195927	conjuncted
-195939	conjuncted
-195942	conjuncted
-195948	conjuncted
-195951	conjuncted
-195957	conjuncted
-195972	conjuncted
-195976	conjuncted
-195979	conjuncted
-195985	conjuncted
-195988	conjuncted
-195993	conjuncted
-195999	conjuncted
-196007	conjuncted
-conjuncted
-196020	conjuncted
-196032	conjuncted
-196035	conjuncted
-196046	conjuncted
-196051	conjuncted
-196053	conjuncted
-196055	conjuncted
-196060	conjuncted
-196066	conjuncted
-196071	conjuncted
-196083	conjuncted
-196088	conjuncted
-196096	conjuncted
-196100	conjuncted
-196108	conjuncted
-196118	conjuncted
-196125	conjuncted
-196129	conjuncted
-196138	conjuncted
-196153	conjuncted
-196169	conjuncted
-196171	conjuncted
-196201	conjuncted
-196204	conjuncted
-196211	conjuncted
-196217	conjuncted
-196225	conjuncted
-196227	conjuncted
-196251	conjuncted
-196253	conjuncted
-196257	conjuncted
-196266	conjuncted
-conjuncted
-196273	conjuncted
-conjuncted
-196280	conjuncted
-196294	conjuncted
-196308	conjuncted
-196317	conjuncted
-196332	conjuncted
-196347	conjuncted
-196361	conjuncted
-196371	conjuncted
-196374	conjuncted
-196376	conjuncted
-196387	conjuncted
-196411	conjuncted
-196433	conjuncted
-196442	conjuncted
-196451	conjuncted
-196481	conjuncted
-196487	conjuncted
-196501	conjuncted
-196508	conjuncted
-196525	conjuncted
-196541	conjuncted
-196544	conjuncted
-196551	conjuncted
-196553	conjuncted
-196558	conjuncted
-196566	conjuncted
-196573	conjuncted
-196580	conjuncted
-196589	conjuncted
-196599	conjuncted
-196623	conjuncted
-196634	conjuncted
-196638	conjuncted
-196643	conjuncted
-196648	conjuncted
-196658	conjuncted
-196664	conjuncted
-196669	conjuncted
-196688	conjuncted
-196698	conjuncted
-196703	conjuncted
-196710	conjuncted
-196720	conjuncted
-196725	conjuncted
-196730	conjuncted
-196735	conjuncted
-196745	conjuncted
-196750	conjuncted
-196763	conjuncted
-196787	conjuncted
-196802	conjuncted
-196836	conjuncted
-196843	conjuncted
-196857	conjuncted
-conjuncted
-conjuncted
-196885	conjuncted
-196929	conjuncted
-196940	conjuncted
-196948	conjuncted
-196953	conjuncted
-196959	conjuncted
-196966	conjuncted
-196977	conjuncted
-196984	conjuncted
-196987	conjuncted
-196994	conjuncted
-197000	conjuncted
-197004	conjuncted
-197039	conjuncted
-197050	conjuncted
-197057	conjuncted
-conjuncted
-197063	conjuncted
-197067	conjuncted
-197080	conjuncted
-conjuncted
-197085	conjuncted
-197096	conjuncted
-197105	conjuncted
-197117	conjuncted
-197148	conjuncted
-197150	conjuncted
-197154	conjuncted
-197167	conjuncted
-197171	conjuncted
-197178	conjuncted
-197182	conjuncted
-197187	conjuncted
-197196	conjuncted
-197200	conjuncted
-197205	conjuncted
-conjuncted
-197223	conjuncted
-197226	conjuncted
-197239	conjuncted
-197245	conjuncted
-197250	conjuncted
-conjuncted
-197254	conjuncted
-197261	conjuncted
-197263	conjuncted
-197265	conjuncted
-197280	conjuncted
-197283	conjuncted
-197293	conjuncted
-197295	conjuncted
-197317	conjuncted
-197322	conjuncted
-197328	conjuncted
-197358	conjuncted
-197363	conjuncted
-197373	conjuncted
-197379	conjuncted
-197381	conjuncted
-conjuncted
-197392	conjuncted
-197400	conjuncted
-197407	conjuncted
-197411	conjuncted
-197421	conjuncted
-197426	conjuncted
-197429	conjuncted
-197432	conjuncted
-197435	conjuncted
-197440	conjuncted
-197447	conjuncted
-197449	conjuncted
-197453	conjuncted
-197456	conjuncted
-197460	conjuncted
-197464	conjuncted
-197466	conjuncted
-197474	conjuncted
-197482	conjuncted
-197485	conjuncted
-197492	conjuncted
-197494	conjuncted
-conjuncted
-197500	conjuncted
-197503	conjuncted
-197509	conjuncted
-197512	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-197527	conjuncted
-197531	conjuncted
-197538	conjuncted
-197543	conjuncted
-197545	conjuncted
-197549	conjuncted
-197554	conjuncted
-197556	conjuncted
-197558	conjuncted
-197574	conjuncted
-conjuncted
-197578	conjuncted
-197581	conjuncted
-197584	conjuncted
-197587	conjuncted
-197592	conjuncted
-197594	conjuncted
-197601	conjuncted
-197603	conjuncted
-197615	conjuncted
-conjuncted
-conjuncted
-197622	conjuncted
-197627	conjuncted
-197630	conjuncted
-197636	conjuncted
-197639	conjuncted
-197649	conjuncted
-197651	conjuncted
-197658	conjuncted
-197684	conjuncted
-197687	conjuncted
-197693	conjuncted
-conjuncted
-197696	conjuncted
-197702	conjuncted
-197714	conjuncted
-197718	conjuncted
-197737	conjuncted
-197739	conjuncted
-197757	conjuncted
-197767	conjuncted
-197780	conjuncted
-197783	conjuncted
-197798	conjuncted
-197803	conjuncted
-197805	conjuncted
-conjuncted
-conjuncted
-conjuncted
-197819	conjuncted
-197822	conjuncted
-197826	conjuncted
-197833	conjuncted
-197838	conjuncted
-197854	conjuncted
-conjuncted
-197878	conjuncted
-197882	conjuncted
-197888	conjuncted
-197900	conjuncted
-197907	conjuncted
-197912	conjuncted
-197925	conjuncted
-conjuncted
-197929	conjuncted
-197937	conjuncted
-197944	conjuncted
-197952	conjuncted
-197954	conjuncted
-197957	conjuncted
-197974	conjuncted
-197976	conjuncted
-197979	conjuncted
-197992	conjuncted
-197994	conjuncted
-198002	conjuncted
-198013	conjuncted
-198015	conjuncted
-198039	conjuncted
-198041	conjuncted
-198044	conjuncted
-198049	conjuncted
-198060	conjuncted
-198065	conjuncted
-conjuncted
-198071	conjuncted
-198076	conjuncted
-198079	conjuncted
-conjuncted
-198089	conjuncted
-198091	conjuncted
-198093	conjuncted
-198098	conjuncted
-conjuncted
-conjuncted
-conjuncted
-198108	conjuncted
-198112	conjuncted
-198114	conjuncted
-198123	conjuncted
-198127	conjuncted
-198131	conjuncted
-198137	conjuncted
-198141	conjuncted
-198144	conjuncted
-198153	conjuncted
-198161	conjuncted
-198164	conjuncted
-198171	conjuncted
-198179	conjuncted
-198182	conjuncted
-198189	conjuncted
-conjuncted
-198195	conjuncted
-198198	conjuncted
-198203	conjuncted
-conjuncted
-198209	conjuncted
-198215	conjuncted
-198218	conjuncted
-198222	conjuncted
-198224	conjuncted
-198226	conjuncted
-198233	conjuncted
-198237	conjuncted
-198247	conjuncted
-198250	conjuncted
-198258	conjuncted
-conjuncted
-198269	conjuncted
-198274	conjuncted
-198280	conjuncted
-198283	conjuncted
-conjuncted
-198288	conjuncted
-198291	conjuncted
-198298	conjuncted
-198306	conjuncted
-198311	conjuncted
-conjuncted
-198315	conjuncted
-198323	conjuncted
-198333	conjuncted
-198339	conjuncted
-conjuncted
-198345	conjuncted
-198352	conjuncted
-198362	conjuncted
-198365	conjuncted
-198376	conjuncted
-198381	conjuncted
-198384	conjuncted
-conjuncted
-conjuncted
-conjuncted
-198390	conjuncted
-conjuncted
-198396	conjuncted
-198401	conjuncted
-conjuncted
-conjuncted
-198406	conjuncted
-198414	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-198428	conjuncted
-conjuncted
-conjuncted
-conjuncted
-198435	conjuncted
-198437	conjuncted
-conjuncted
-conjuncted
-198446	conjuncted
-198454	conjuncted
-198461	conjuncted
-198466	conjuncted
-198470	conjuncted
-198473	conjuncted
-198477	conjuncted
-198490	conjuncted
-198497	conjuncted
-198500	conjuncted
-198512	conjuncted
-198516	conjuncted
-198527	conjuncted
-198529	conjuncted
-198532	conjuncted
-198543	conjuncted
-198547	conjuncted
-198553	conjuncted
-198559	conjuncted
-conjuncted
-conjuncted
-198570	conjuncted
-198579	conjuncted
-conjuncted
-198587	conjuncted
-198595	conjuncted
-198608	conjuncted
-198611	conjuncted
-198613	conjuncted
-198615	conjuncted
-198620	conjuncted
-198624	conjuncted
-198627	conjuncted
-198631	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-198637	conjuncted
-198639	conjuncted
-198643	conjuncted
-198647	conjuncted
-198652	conjuncted
-198656	conjuncted
-198665	conjuncted
-conjuncted
-198673	conjuncted
-198680	conjuncted
-198685	conjuncted
-conjuncted
-198711	conjuncted
-198719	conjuncted
-conjuncted
-conjuncted
-198723	conjuncted
-198725	conjuncted
-198735	conjuncted
-198740	conjuncted
-conjuncted
-conjuncted
-198745	conjuncted
-198750	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-198765	conjuncted
-198777	conjuncted
-198780	conjuncted
-198785	conjuncted
-198788	conjuncted
-conjuncted
-198794	conjuncted
-198796	conjuncted
-198799	conjuncted
-198805	conjuncted
-198807	conjuncted
-198819	conjuncted
-198824	conjuncted
-198828	conjuncted
-198839	conjuncted
-198841	conjuncted
-198846	conjuncted
-conjuncted
-conjuncted
-198862	conjuncted
-198864	conjuncted
-198869	conjuncted
-198871	conjuncted
-198881	conjuncted
-198887	conjuncted
-198898	conjuncted
-198901	conjuncted
-198907	conjuncted
-198918	conjuncted
-conjuncted
-198922	conjuncted
-198925	conjuncted
-198930	conjuncted
-198948	conjuncted
-198954	conjuncted
-198958	conjuncted
-198961	conjuncted
-198965	conjuncted
-198975	conjuncted
-conjuncted
-198996	conjuncted
-198998	conjuncted
-199002	conjuncted
-199008	conjuncted
-199012	conjuncted
-199014	conjuncted
-199016	conjuncted
-199018	conjuncted
-199020	conjuncted
-199029	conjuncted
-conjuncted
-199038	conjuncted
-199062	conjuncted
-conjuncted
-conjuncted
-199073	conjuncted
-199078	conjuncted
-conjuncted
-199083	conjuncted
-199086	conjuncted
-conjuncted
-199092	conjuncted
-conjuncted
-199099	conjuncted
-199104	conjuncted
-199114	conjuncted
-199117	conjuncted
-conjuncted
-conjuncted
-conjuncted
-199124	conjuncted
-conjuncted
-conjuncted
-conjuncted
-199130	conjuncted
-conjuncted
-conjuncted
-199138	conjuncted
-199142	conjuncted
-199144	conjuncted
-199146	conjuncted
-199153	conjuncted
-199155	conjuncted
-199176	conjuncted
-199185	conjuncted
-conjuncted
-199194	conjuncted
-conjuncted
-199197	conjuncted
-conjuncted
-199200	conjuncted
-199204	conjuncted
-199217	conjuncted
-199229	conjuncted
-199239	conjuncted
-199241	conjuncted
-199244	conjuncted
-199252	conjuncted
-199254	conjuncted
-199265	conjuncted
-conjuncted
-conjuncted
-199275	conjuncted
-199278	conjuncted
-conjuncted
-199285	conjuncted
-199290	conjuncted
-199296	conjuncted
-199303	conjuncted
-199313	conjuncted
-199328	conjuncted
-199331	conjuncted
-199346	conjuncted
-199349	conjuncted
-199357	conjuncted
-199363	conjuncted
-conjuncted
-conjuncted
-199367	conjuncted
-conjuncted
-199376	conjuncted
-199378	conjuncted
-199389	conjuncted
-conjuncted
-199392	conjuncted
-199403	conjuncted
-199408	conjuncted
-199411	conjuncted
-199415	conjuncted
-199418	conjuncted
-199430	conjuncted
-conjuncted
-199439	conjuncted
-199451	conjuncted
-199457	conjuncted
-199462	conjuncted
-199465	conjuncted
-199470	conjuncted
-199474	conjuncted
-conjuncted
-199479	conjuncted
-conjuncted
-199488	conjuncted
-199493	conjuncted
-conjuncted
-conjuncted
-conjuncted
-199503	conjuncted
-199505	conjuncted
-199507	conjuncted
-199509	conjuncted
-199513	conjuncted
-199519	conjuncted
-199524	conjuncted
-conjuncted
-199527	conjuncted
-199530	conjuncted
-199550	conjuncted
-199564	conjuncted
-199571	conjuncted
-conjuncted
-199584	conjuncted
-199589	conjuncted
-199597	conjuncted
-conjuncted
-conjuncted
-199606	conjuncted
-199611	conjuncted
-conjuncted
-199617	conjuncted
-199623	conjuncted
-199645	conjuncted
-conjuncted
-199655	conjuncted
-199658	conjuncted
-199665	conjuncted
-199672	conjuncted
-199682	conjuncted
-conjuncted
-199686	conjuncted
-199693	conjuncted
-199696	conjuncted
-199701	conjuncted
-conjuncted
-199708	conjuncted
-199714	conjuncted
-199718	conjuncted
-199723	conjuncted
-199731	conjuncted
-conjuncted
-199740	conjuncted
-199749	conjuncted
-199751	conjuncted
-199754	conjuncted
-conjuncted
-conjuncted
-199779	conjuncted
-199784	conjuncted
-199787	conjuncted
-199796	conjuncted
-199822	conjuncted
-199831	conjuncted
-199844	conjuncted
-conjuncted
-199847	conjuncted
-conjuncted
-199850	conjuncted
-199855	conjuncted
-conjuncted
-199862	conjuncted
-199870	conjuncted
-199883	conjuncted
-199886	conjuncted
-199892	conjuncted
-199899	conjuncted
-199902	conjuncted
-199910	conjuncted
-199912	conjuncted
-199935	conjuncted
-conjuncted
-199947	conjuncted
-199949	conjuncted
-conjuncted
-conjuncted
-199957	conjuncted
-199961	conjuncted
-199966	conjuncted
-conjuncted
-conjuncted
-199987	conjuncted
-conjuncted
-199991	conjuncted
-199997	conjuncted
-200000	conjuncted
-200002	conjuncted
-200006	conjuncted
-200009	conjuncted
-200014	conjuncted
-conjuncted
-200023	conjuncted
-200041	conjuncted
-200044	conjuncted
-200048	conjuncted
-200058	conjuncted
-200070	conjuncted
-200082	conjuncted
-200090	conjuncted
-200097	conjuncted
-200100	conjuncted
-200105	conjuncted
-200111	conjuncted
-200120	conjuncted
-200125	conjuncted
-conjuncted
-200132	conjuncted
-200136	conjuncted
-200142	conjuncted
-200148	conjuncted
-200154	conjuncted
-200161	conjuncted
-200164	conjuncted
-200171	conjuncted
-200183	conjuncted
-conjuncted
-200194	conjuncted
-200199	conjuncted
-200204	conjuncted
-200209	conjuncted
-200217	conjuncted
-200223	conjuncted
-200236	conjuncted
-200245	conjuncted
-conjuncted
-200258	conjuncted
-200267	conjuncted
-200273	conjuncted
-200282	conjuncted
-200286	conjuncted
-200289	conjuncted
-conjuncted
-200304	conjuncted
-conjuncted
-200321	conjuncted
-200326	conjuncted
-200343	conjuncted
-conjuncted
-conjuncted
-200354	conjuncted
-200362	conjuncted
-200376	conjuncted
-200387	conjuncted
-200399	conjuncted
-200406	conjuncted
-conjuncted
-200410	conjuncted
-conjuncted
-200416	conjuncted
-conjuncted
-200423	conjuncted
-200428	conjuncted
-200437	conjuncted
-200445	conjuncted
-200451	conjuncted
-200453	conjuncted
-200457	conjuncted
-200469	conjuncted
-200471	conjuncted
-200487	conjuncted
-200497	conjuncted
-200501	conjuncted
-200503	conjuncted
-200512	conjuncted
-200516	conjuncted
-200519	conjuncted
-200522	conjuncted
-200529	conjuncted
-conjuncted
-200533	conjuncted
-conjuncted
-200543	conjuncted
-conjuncted
-conjuncted
-200551	conjuncted
-200553	conjuncted
-200558	conjuncted
-conjuncted
-200562	conjuncted
-200568	conjuncted
-200570	conjuncted
-200585	conjuncted
-200594	conjuncted
-200597	conjuncted
-conjuncted
-200600	conjuncted
-200605	conjuncted
-200607	conjuncted
-200616	conjuncted
-200622	conjuncted
-200628	conjuncted
-200636	conjuncted
-200639	conjuncted
-200644	conjuncted
-200647	conjuncted
-200652	conjuncted
-conjuncted
-conjuncted
-200666	conjuncted
-200671	conjuncted
-200686	conjuncted
-200692	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-200701	conjuncted
-conjuncted
-200704	conjuncted
-conjuncted
-conjuncted
-conjuncted
-200709	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-200715	conjuncted
-conjuncted
-conjuncted
-conjuncted
-200720	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-200729	conjuncted
-200732	conjuncted
-conjuncted
-200741	conjuncted
-200752	conjuncted
-conjuncted
-conjuncted
-200757	conjuncted
-conjuncted
-200765	conjuncted
-200768	conjuncted
-conjuncted
-200771	conjuncted
-200779	conjuncted
-200783	conjuncted
-200797	conjuncted
-200799	conjuncted
-conjuncted
-200806	conjuncted
-200812	conjuncted
-200819	conjuncted
-conjuncted
-conjuncted
-conjuncted
-200824	conjuncted
-200826	conjuncted
-200828	conjuncted
-200831	conjuncted
-200838	conjuncted
-200841	conjuncted
-conjuncted
-200850	conjuncted
-conjuncted
-200855	conjuncted
-200861	conjuncted
-200867	conjuncted
-200873	conjuncted
-conjuncted
-200892	conjuncted
-200897	conjuncted
-conjuncted
-200907	conjuncted
-200909	conjuncted
-200914	conjuncted
-200944	conjuncted
-200955	conjuncted
-200959	conjuncted
-200965	conjuncted
-conjuncted
-200969	conjuncted
-200974	conjuncted
-200983	conjuncted
-200986	conjuncted
-200997	conjuncted
-201005	conjuncted
-201009	conjuncted
-201014	conjuncted
-201027	conjuncted
-conjuncted
-conjuncted
-201031	conjuncted
-201034	conjuncted
-201037	conjuncted
-conjuncted
-conjuncted
-201041	conjuncted
-201046	conjuncted
-conjuncted
-201052	conjuncted
-201056	conjuncted
-201065	conjuncted
-201081	conjuncted
-201088	conjuncted
-201099	conjuncted
-conjuncted
-201102	conjuncted
-201105	conjuncted
-201108	conjuncted
-201121	conjuncted
-201124	conjuncted
-201126	conjuncted
-201131	conjuncted
-conjuncted
-201136	conjuncted
-conjuncted
-201140	conjuncted
-201144	conjuncted
-201152	conjuncted
-201157	conjuncted
-201161	conjuncted
-conjuncted
-201170	conjuncted
-201176	conjuncted
-201182	conjuncted
-201185	conjuncted
-201192	conjuncted
-201202	conjuncted
-201205	conjuncted
-201208	conjuncted
-201212	conjuncted
-201219	conjuncted
-conjuncted
-201228	conjuncted
-conjuncted
-201243	conjuncted
-201246	conjuncted
-201248	conjuncted
-201253	conjuncted
-201266	conjuncted
-201271	conjuncted
-conjuncted
-201287	conjuncted
-201289	conjuncted
-201292	conjuncted
-201294	conjuncted
-201297	conjuncted
-201300	conjuncted
-201303	conjuncted
-conjuncted
-201318	conjuncted
-201325	conjuncted
-201327	conjuncted
-201335	conjuncted
-201338	conjuncted
-201343	conjuncted
-conjuncted
-201346	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-201355	conjuncted
-201366	conjuncted
-201377	conjuncted
-conjuncted
-201391	conjuncted
-201394	conjuncted
-201397	conjuncted
-201403	conjuncted
-201405	conjuncted
-201407	conjuncted
-201412	conjuncted
-201422	conjuncted
-conjuncted
-201427	conjuncted
-201435	conjuncted
-conjuncted
-201445	conjuncted
-201477	conjuncted
-201482	conjuncted
-201488	conjuncted
-201502	conjuncted
-201506	conjuncted
-201510	conjuncted
-201519	conjuncted
-201523	conjuncted
-201525	conjuncted
-201528	conjuncted
-201536	conjuncted
-conjuncted
-201541	conjuncted
-201543	conjuncted
-201549	conjuncted
-201552	conjuncted
-201556	conjuncted
-201563	conjuncted
-conjuncted
-201580	conjuncted
-201586	conjuncted
-201601	conjuncted
-201603	conjuncted
-201617	conjuncted
-201619	conjuncted
-201622	conjuncted
-201626	conjuncted
-201634	conjuncted
-201636	conjuncted
-201638	conjuncted
-201646	conjuncted
-201650	conjuncted
-conjuncted
-conjuncted
-conjuncted
-conjuncted
-201657	conjuncted
-201663	conjuncted
-201667	conjuncted
-201699	conjuncted
-201712	NP
+190209	conjuncted
+190220	conjuncted
+conjuncted
+190233	conjuncted
+190235	conjuncted
+190237	conjuncted
+190240	conjuncted
+190246	conjuncted
+conjuncted
+conjuncted
+190255	conjuncted
+190258	conjuncted
+conjuncted
+conjuncted
+conjuncted
+conjuncted
+190264	conjuncted
+190268	conjuncted
+190271	conjuncted
+190297	conjuncted
+190309	NP
+NP
+190314	NP
+NP
+190319	NP
+190323	NP
+190328	NP
+190330	NP
+NP
+190336	NP
+190338	NP
+PP
+NP
+190344	NP
+190348	NP
+190352	NP
+190356	NP
+190360	NP
+190364	NP
+PP
+NP
+190370	NP
+PP
+NP
+190376	NP
+190381	NP
+NP
+190387	NP
+PP
+NP
+NP
+190394	NP
+190398	NP
+190402	NP
+190406	NP
+190410	NP
+190414	NP
+190418	NP
+190422	NP
+190426	NP
+190430	NP
+190434	NP
+190438	NP
+190443	NP
+190445	NP
+NP
+PP
+NP
+NP
+190451	PP
+190453	NP
+NP
+190457	NP
+190461	NP
+190465	NP
+190469	NP
+190473	NP
+190477	NP
+190481	NP
+190485	NP
+190489	NP
+190493	NP
+190497	NP
+190502	NP
+NP
+NP
+190506	PP
+190512	NP
+190514	NP
+NP
+190517	PP
+PP
+NP
+190522	PP
+PP
 NP
 NP
 NP
+190529	PP
+NP
+NP
+PP
+NP
+NP
+NP
+NP
+190539	NP
+190545	NP
+NP
+NP
+190552	PP
+190554	PP
+NP
+190558	NP
+NP
+190577	NP
+PP
+190585	NP
+190590	NP
+NP
+190593	PP
+190595	PP
+NP
+190604	NP
+NP
+190610	NP
+NP
+PP
+NP
+NP
+190616	NP
+190622	PP
+PP
+NP
+190627	NP
+PP
+190635	NP
+NP
+190639	VP
+PP
+NP
+190647	NP
+PP
+NP
+190654	NP
+NP
+190659	NP
+NP
+190665	PP
+190671	NP
+NP
+190675	NP
+190678	PP
+NP
+NP
+PP
+NP
+190684	NP
+190687	PP
+190689	PP
+190694	NP
+NP
+190697	NP
+NP
+190702	NP
+NP
+PP
+NP
+190715	NP
+190718	NP
+PP
+190722	NP
+NP
+190726	NP
+NP
+190729	PP
+190731	NP
+190738	PP
+NP
+NP
+190744	PP
+NP
+190750	NP
+190754	PP
+NP
+NP
+PP
+190765	NP
+NP
+NP
+190773	NP
+190775	PP
+NP
+NP
+NP
+NP
+190784	PP
+190790	PP
+NP
+190808	NP
+190812	NP
+190816	PP
+NP
+190823	PP
+190826	NP
+190829	NP
+190831	NP
+190836	PP
+NP
+190839	NP
+NP
+PP
+190843	NP
+NP
+190851	NP
+NP
+190861	PP
+190864	PP
+PP
+NP
+190868	PP
+NP
+NP
+190876	NP
+190878	PP
+NP
+190886	NP
+190888	NP
+NP
+190892	PP
+190904	NP
+190914	NP
+190916	NP
+NP
+190921	PP
+190925	PP
+NP
+NP
+190931	PP
+PP
+NP
+190935	PP
+190937	NP
+NP
+190945	PP
+NP
+190952	NP
+190954	NP
+NP
+190958	PP
+190960	PP
+NP
+NP
+NP
+190965	PP
+190967	PP
+NP
+190972	PP
+NP
+190977	PP
+190979	NP
+190982	PP
+190986	NP
+190990	NP
+NP
+191002	NP
+191004	NP
+191006	PP
+NP
+PP
+191015	NP
+191017	NP
+NP
+191021	PP
+NP
+191026	NP
+NP
+NP
+191035	NP
+191037	NP
+NP
+191041	PP
+NP
+191048	NP
+PP
+191051	NP
+NP
+191059	PP
+191061	PP
+NP
+NP
+NP
+191068	PP
+NP
+191075	PP
+NP
+191079	PP
+191081	NP
+NP
+191085	NP
+191087	PP
+NP
+NP
+NP
+191096	NP
+NP
+NP
+191103	PP
+191105	NP
+191107	NP
+191109	PP
+NP
+191113	NP
+NP
+191117	NP
+NP
+191121	NP
+191123	NP
+191125	NP
+NP
+PP
+NP
+191130	NP
+PP
+NP
+NP
+NP
+191136	NP
+191140	NP
+191144	PP
+191147	NP
+NP
+191150	NP
+NP
+NP
+NP
+191156	PP
+NP
+191159	PP
+191161	NP
+NP
+191165	NP
+NP
+NP
+191171	PP
+NP
+191175	NP
+191180	PP
+NP
+NP
+191186	NP
+AdjP
+NP
+191193	PP
+191196	NP
+191202	NP
+PP
+NP
+NP
+191208	NP
+191211	NP
+PP
+NP
+NP
+NP
+191218	NP
+191220	NP
+191223	NP
+191226	PP
+191233	PP
+PP
+191236	PP
+191245	NP
+191250	PP
+191252	NP
+191254	NP
+NP
+PP
+NP
+NP
+191261	NP
+NP
+191266	NP
+NP
+PP
+NP
+NP
+191273	NP
+191276	NP
+PP
+NP
+PP
+NP
+PP
+NP
+191284	PP
+191294	PP
+191299	PP
+191302	NP
+191314	NP
+191320	NP
+191323	PP
+NP
+191329	NP
+191332	NP
+191334	PP
+191337	PP
+191341	PP
+NP
+191347	NP
+NP
+NP
+PP
+191353	NP
+191355	PP
+NP
+PP
+NP
+191360	PP
+NP
+191365	NP
+191367	NP
+191377	NP
+191379	NP
+191382	NP
+NP
+191392	PP
+NP
+191395	NP
+191397	PP
+NP
+NP
+191401	PP
+NP
+191407	NP
+PP
+NP
+NP
+191415	PP
+NP
+NP
+NP
+191424	NP
+191426	NP
+191434	NP
+NP
+191437	PP
+191440	PP
+191446	PP
+NP
+NP
+191451	NP
+191457	NP
+NP
+191463	NP
+PP
+NP
+AdjP
+191472	NP
+NP
+NP
+NP
+191477	NP
+NP
+191483	NP
+191493	NP
+191500	NP
+NP
+191504	NP
+191510	NP
+191524	PP
+NP
+191529	NP
+191532	PP
+191534	NP
+NP
+PP
+NP
+191543	PP
+191545	NP
+191548	NP
+NP
+191551	NP
+191553	NP
+NP
+PP
+NP
+NP
+NP
+191560	NP
+191562	PP
+NP
+191567	PP
+NP
+191574	PP
+191576	NP
+191585	NP
+NP
+NP
+191590	PP
+NP
+NP
+NP
+191596	NP
+191603	NP
+NP
+191607	PP
+NP
+191617	PP
+191621	NP
+191626	NP
+191634	NP
+NP
+191638	NP
+NP
+191642	NP
+NP
+PP
+NP
+PP
+191648	NP
+NP
+191651	NP
+NP
+191661	NP
+191663	NP
+NP
+191669	PP
+NP
+NP
+191674	PP
+NP
+NP
+191679	NP
+NP
+NP
+191685	NP
+191687	NP
+PP
+NP
+191692	NP
+NP
+PP
+NP
+NP
+191702	NP
+191706	NP
+191720	NP
+NP
+191723	PP
+NP
+191730	PP
+NP
+191734	NP
+191736	PP
+NP
+191744	NP
+NP
+191748	NP
+NP
+191754	NP
+NP
+NP
+191760	NP
+NP
+NP
+191769	NP
+191773	NP
+191777	NP
+191782	NP
+191787	NP
+NP
+NP
+191792	NP
+191796	NP
+191799	NP
+191803	PP
+191807	NP
+NP
+NP
+191821	NP
+PP
+191824	PP
+191829	NP
+NP
+191832	PP
+NP
+191838	NP
+NP
+PP
+191843	NP
+NP
+NP
+191848	NP
+191850	PP
+191852	PP
+191860	PP
+NP
+191864	NP
+NP
+NP
+191871	PP
+191881	PP
+NP
+191885	PP
+NP
+191889	NP
+NP
+PP
+NP
+191895	NP
+NP
+PP
+NP
+191902	NP
+NP
+NP
+191908	NP
+NP
+NP
+PP
+NP
+191919	NP
+191921	NP
+191935	NP
+191937	NP
+191939	NP
+191941	NP
+AdvP
+191944	PP
+NP
+191952	NP
+NP
+NP
+NP
+NP
+191960	NP
+191963	PP
+NP
+NP
+NP
+191976	PP
+NP
+NP
+NP
+191987	NP
+NP
+191990	NP
+191993	AdvP
+191995	PP
+NP
+NP
+NP
+192002	NP
+192011	NP
+192018	NP
+192020	NP
+NP
+192024	NP
+192028	NP
+NP
+192033	NP
+192040	PP
+NP
+NP
+NP
+192048	NP
+NP
+PP
+NP
+192055	NP
+NP
+192059	PP
+192062	NP
+NP
+PP
+NP
+192071	NP
+NP
+192077	NP
+NP
+VP
+NP
+NP
+192083	PP
+192086	PP
+PP
+NP
+192094	NP
+NP
+192097	NP
+NP
+192100	PP
+192106	AdvP
+192111	NP
+NP
+192123	NP
+192126	PP
+192132	PP
+NP
+NP
+192137	NP
+NP
+NP
+NP
+192147	PP
+192154	NP
+NP
+NP
+192159	NP
+NP
+NP
+192163	PP
+192166	NP
+NP
+NP
+192175	PP
+192182	NP
+NP
+NP
+192187	NP
+NP
+NP
+PP
+192196	NP
+NP
+192207	NP
+192209	NP
+NP
+PP
+NP
+192225	NP
+192231	NP
+NP
+NP
+192244	PP
+NP
+192247	NP
+192249	NP
+192252	PP
+NP
+192255	NP
+192257	NP
+NP
+192261	PP
+192263	NP
+192265	NP
+NP
+192268	PP
+NP
+NP
+192275	NP
+192281	NP
+NP
+192288	NP
+192290	AdjP
+PP
+NP
+192299	PP
+192302	PP
+192309	NP
+192314	PP
+NP
+NP
+NP
+192320	NP
+NP
+192329	NP
+NP
+192334	NP
+NP
+192340	NP
+192342	PP
+192350	PP
+192359	NP
+NP
+192363	NP
+NP
+192373	NP
+NP
+192377	PP
+192382	NP
+192384	NP
+NP
+NP
+PP
+192390	NP
+NP
+192393	PP
+192398	PP
+192406	NP
+192408	NP
+NP
+NP
+192415	NP
+NP
+192418	NP
+192420	NP
+NP
+NP
+192429	NP
+NP
+NP
+NP
+192437	NP
+NP
+192441	PP
+NP
+PP
+192452	PP
+192454	NP
+NP
+NP
+PP
+NP
+192467	PP
+192470	NP
+192473	PP
+NP
+192476	PP
+NP
+192480	PP
+NP
+192486	NP
+NP
+192496	NP
+NP
+192500	NP
+NP
+192504	NP
+NP
+PP
+NP
+192510	NP
+NP
+192513	PP
+NP
+192524	PP
+192526	NP
+192530	PP
+NP
+192533	PP
+NP
+NP
+NP
+192541	NP
+192546	NP
+NP
+192555	PP
+NP
+NP
+192560	NP
+NP
+192564	NP
+NP
+NP
+PP
+NP
+192571	NP
+NP
+192574	PP
+NP
+192584	NP
+192588	PP
+NP
+NP
+192599	NP
+NP
+NP
+192603	PP
+192612	NP
+NP
+PP
+NP
+192617	NP
+NP
+192620	NP
+NP
+192623	NP
+NP
+PP
+192627	PP
+PP
+PP
+NP
+NP
+NP
+NP
+192640	NP
+NP
+192643	NP
+192645	NP
+NP
+192651	PP
+192655	PP
+NP
+192660	NP
+NP
+NP
+192664	NP
+NP
+NP
+NP
+NP
+192673	NP
+192675	NP
+NP
+192678	NP
+NP
+192688	NP
+192693	NP
+NP
+192697	NP
+192703	NP
+NP
+192711	NP
+NP
+192714	NP
+NP
+192720	NP
+192724	NP
+NP
+NP
+PP
+NP
+192731	NP
+NP
+192734	PP
+NP
+192742	PP
+NP
+192758	PP
+192775	NP
+NP
+192779	NP
+NP
+NP
+NP
+NP
+NP
+192786	NP
+192790	NP
+NP
+192793	NP
+NP
+NP
+192800	NP
+NP
+192804	NP
+NP
+NP
+192812	NP
+NP
+PP
+192817	NP
+192822	NP
+192828	NP
+192831	NP
+192838	NP
+192847	PP
+192853	NP
+NP
+192862	NP
+NP
+192867	NP
+192870	NP
+192872	NP
+NP
+192875	PP
+NP
+NP
+NP
+192888	PP
+192890	NP
+NP
+NP
+NP
+192900	NP
+192902	PP
+192906	PP
+NP
+NP
+NP
+192911	PP
+192915	NP
+NP
+NP
+192931	PP
+NP
+NP
+NP
+192937	NP
+192940	NP
+NP
+NP
+192948	PP
+192950	NP
+192953	AdjP
+192969	NP
+192971	NP
+192975	NP
+NP
+NP
+NP
+192981	NP
+192987	NP
+192989	NP
+NP
+192992	NP
+192999	PP
+NP
+NP
+193006	NP
+NP
+NP
+193013	PP
+NP
+193019	PP
+NP
+193029	NP
+NP
+PP
+NP
+NP
+NP
+NP
+NP
+193038	NP
+PP
+NP
+NP
+193048	NP
+NP
+193053	NP
+PP
+NP
+NP
+193059	NP
+PP
+NP
+NP
+193066	PP
+NP
+NP
+NP
+193074	NP
+PP
+NP
+NP
+NP
+NP
+193084	NP
+NP
+193088	NP
+NP
+PP
+NP
+193097	PP
+NP
+NP
+193121	NP
+193132	NP
+193134	PP
+193138	NP
+NP
+193145	NP
+193157	NP
+193159	NP
+NP
+AdvP
+193163	NP
+NP
+NP
+PP
+NP
+193172	NP
+193179	NP
+193181	NP
+193188	NP
+193190	NP
+193192	PP
+NP
+NP
+193199	NP
+193203	NP
+193205	PP
+NP
+193211	PP
+193216	NP
+193220	NP
+193222	PP
+NP
+193230	PP
+NP
+193235	PP
+PP
+NP
+193241	NP
+PP
+NP
+NP
+193249	PP
+193252	PP
+193256	NP
+NP
+NP
+193260	NP
+193262	NP
+NP
+193268	NP
+NP
+193272	NP
+NP
+193276	NP
+NP
+193280	NP
+193283	PP
+193285	PP
+NP
+NP
+193291	NP
+193298	PP
+NP
+NP
+NP
+193304	NP
+NP
+193307	NP
+NP
+NP
+PP
+NP
+193315	PP
+NP
+NP
+193323	NP
+NP
+193327	NP
+NP
+193332	NP
+NP
+NP
+193345	PP
+193347	NP
+NP
+193352	NP
+NP
+NP
+193360	NP
+193363	NP
+NP
+PP
+NP
+193371	NP
+193374	NP
+193377	NP
+193380	NP
+NP
+193387	PP
+NP
+193390	NP
+193392	NP
+NP
+NP
+193401	NP
+193404	NP
+NP
+PP
+NP
+193411	NP
+193414	NP
+193417	NP
+193420	NP
+NP
+193426	NP
+NP
+193435	NP
+NP
+NP
+193439	NP
+PP
+NP
+NP
+VP
+193452	NP
+NP
+193458	PP
+NP
+193462	NP
+193478	NP
+193488	NP
+NP
+193493	NP
+193504	NP
+193507	NP
+193512	PP
+NP
+193518	PP
+193528	NP
+NP
+193531	PP
+NP
+193544	NP
+193552	PP
+NP
+NP
+193563	NP
+NP
+193566	NP
+193568	NP
+NP
+193571	PP
+193573	PP
+193593	NP
+NP
+193602	NP
+193610	PP
+NP
+PP
+NP
+193621	PP
+193627	PP
+193631	PP
+NP
+NP
+NP
+NP
+193637	NP
+NP
+193640	PP
+NP
+NP
+NP
+193647	NP
+193649	NP
+NP
+NP
+193654	NP
+NP
+193665	NP
+PP
+NP
+NP
+193671	NP
+PP
+NP
+NP
+193676	NP
+NP
+193683	NP
+NP
+193688	NP
+193701	NP
+193706	NP
+193709	NP
+193716	PP
+193718	NP
+193722	NP
+NP
+193726	NP
+193730	NP
+193732	PP
+193735	PP
+NP
+193739	NP
+193750	NP
+193753	NP
+193757	NP
+NP
+NP
+193761	NP
+193763	NP
+NP
+193768	NP
+193770	NP
+193772	NP
+193783	NP
+NP
+NP
+193794	NP
+193796	NP
+NP
+193802	PP
+NP
+193806	NP
+NP
+193810	NP
+193812	PP
+NP
+193815	NP
+193817	PP
+NP
+193842	NP
+193844	NP
+193847	NP
+NP
+193858	NP
+193860	NP
+193867	PP
+NP
+PP
+NP
+NP
+NP
+193875	NP
+NP
+NP
+193879	PP
+NP
+193882	AdjP
+193888	PP
+NP
+NP
+193899	NP
+NP
+193903	PP
+193909	PP
+NP
+NP
+NP
+193914	NP
+193925	PP
+NP
+NP
+NP
+193937	PP
+NP
+193942	NP
+NP
+PP
+NP
+PP
+NP
+193950	PP
+NP
+193958	PP
+NP
+193963	NP
+193967	NP
+NP
+193970	PP
+NP
+NP
+193979	PP
+NP
+NP
+193985	PP
+193989	PP
+NP
+NP
+193996	NP
+PP
+194001	NP
+NP
+NP
+194005	NP
+194010	NP
+NP
+194014	NP
+NP
+194017	PP
+194022	NP
+NP
+NP
+194027	PP
+194031	PP
+NP
+NP
+194042	NP
+NP
+194056	NP
+NP
+NP
+PP
+NP
+194065	NP
+194070	NP
+NP
+194074	PP
+NP
+NP
+194080	PP
+NP
+NP
+194086	NP
+194091	NP
+194093	NP
+NP
+194098	NP
+194101	NP
+NP
+194104	PP
+NP
+194122	PP
+NP
+194126	NP
+194132	NP
+194134	NP
+NP
+194138	NP
+194140	NP
+NP
+PP
+PP
+NP
+194148	NP
+NP
+194155	NP
+194183	NP
+NP
+194187	PP
+194190	NP
+194192	NP
+194194	NP
+194200	NP
+194202	NP
+NP
+NP
+194206	PP
+194208	PP
+194210	NP
+194216	PP
+NP
+194224	NP
+NP
+PP
+NP
+194231	NP
+NP
+PP
+NP
+194236	NP
+194240	NP
+PP
+NP
+194247	NP
+194249	NP
+194252	NP
+194257	NP
+PP
+NP
+194268	NP
+194275	NP
+NP
+194283	NP
+NP
+PP
+194291	NP
+194295	NP
+NP
+194299	NP
+194301	NP
+194305	NP
+NP
+NP
+NP
+194311	PP
+194316	NP
+NP
+194319	NP
+194330	NP
+NP
+194336	NP
+PP
+NP
+NP
+194343	NP
+PP
+NP
+NP
+NP
+194351	NP
+194353	NP
+194361	NP
+194370	NP
+194373	NP
+NP
+194377	NP
+194380	NP
+NP
+PP
+NP
+NP
+NP
+194390	NP
+194392	NP
+194399	NP
+194403	PP
+NP
+194408	NP
+194412	NP
+194425	NP
+NP
+194428	PP
+NP
+NP
+194435	NP
+NP
+194440	NP
+194450	PP
+NP
+NP
+NP
+194461	NP
+194466	NP
+194468	NP
+194471	NP
+194476	PP
+NP
+NP
+194481	PP
+NP
+NP
+NP
+194486	NP
+194489	NP
+194491	NP
+NP
+194494	NP
+194497	PP
+NP
+NP
+194502	NP
+NP
+NP
+194508	NP
+194510	NP
+194513	NP
+194515	PP
+194518	VP
+194522	NP
+194528	NP
+NP
+194531	NP
+194534	NP
+194539	NP
+NP
+NP
+194545	PP
+NP
+NP
+194550	NP
+NP
+NP
+194555	NP
+NP
+194564	NP
+194566	NP
+NP
+NP
+194570	NP
+NP
+194582	NP
+NP
+194588	NP
+NP
+194592	NP
+NP
+194599	NP
+194602	NP
+NP
+194607	NP
+194611	NP
+194615	NP
+NP
+194618	NP
+194623	PP
+NP
+194628	PP
+NP
+194635	PP
+NP
+194638	NP
+194640	NP
+194647	NP
+NP
+NP
+194670	PP
+NP
+NP
+194675	NP
+PP
+194678	NP
+194683	NP
+NP
+NP
+PP
+NP
+194694	PP
+194704	PP
+NP
+194713	NP
+194716	NP
+NP
+PP
+194724	NP
+NP
+PP
+194736	NP
+NP
+194739	PP
+NP
+194742	NP
+194744	NP
+194746	NP
+NP
+NP
+NP
+194756	NP
+194759	PP
+NP
+194762	NP
+NP
+194770	PP
+NP
+194777	NP
+194782	NP
+194785	PP
+NP
+194791	PP
+194793	PP
+NP
+NP
+194798	PP
+PP
+194804	PP
+PP
+NP
+194809	NP
+194826	PP
+NP
+NP
+194837	NP
+NP
+NP
+NP
+194842	PP
+194849	PP
+194857	PP
+194862	VP
+PP
+PP
+NP
+NP
+194869	PP
+194876	PP
+NP
+NP
+194880	PP
+NP
+194887	AdvP
+194889	NP
+NP
+NP
+194894	NP
+NP
+NP
+194901	PP
+NP
+194905	PP
+NP
+NP
+194910	NP
+194913	PP
+194915	NP
+NP
+194918	NP
+PP
+194921	NP
+NP
+194925	NP
+194928	AdvP
+NP
+NP
+194952	PP
+NP
+194955	PP
+NP
+194959	PP
+NP
+194963	PP
+NP
+194968	PP
+194970	NP
+NP
+194984	PP
+NP
+194989	NP
+PP
+194993	PP
+NP
+PP
+NP
+NP
+NP
+NP
+NP
+195002	NP
+NP
+NP
+VP
+195009	NP
+195012	NP
+195015	PP
+PP
+NP
+195020	PP
+PP
+195023	NP
+NP
+NP
+PP
+NP
+195033	PP
+NP
+195038	PP
+195040	NP
+NP
+NP
+PP
+NP
+195051	PP
+NP
+195065	PP
+NP
+NP
+195070	PP
+NP
+NP
+195075	PP
+NP
+NP
+195079	NP
+NP
+NP
+NP
+195086	PP
+195095	PP
+195104	NP
+NP
+195108	PP
+195115	NP
+NP
+195121	NP
+NP
+PP
+195140	PP
+NP
+NP
+195147	PP
+NP
+NP
+195155	NP
+NP
+NP
+NP
+195160	PP
+NP
+195165	AdvP
+195167	NP
+NP
+195174	NP
+195176	NP
+NP
+NP
+195183	PP
+NP
+NP
+NP
+195189	PP
+NP
+NP
+NP
+NP
+195195	PP
+NP
+NP
+195209	NP
+195241	PP
+195247	NP
+195249	NP
+PP
+195254	PP
+NP
+195257	NP
+PP
+195264	NP
+PP
+195268	NP
+195270	PP
+NP
+NP
+NP
+195285	AdjP
+195288	PP
+195293	NP
+NP
+PP
+NP
+195299	NP
+NP
+PP
+195308	PP
+NP
+AdjP
+NP
+NP
+NP
+195315	NP
+PP
+NP
+NP
+NP
+195325	PP
+195327	NP
+NP
+195330	NP
+PP
+NP
+NP
+NP
+195340	NP
+195343	NP
+195345	NP
+PP
+195364	NP
+NP
+195369	NP
+195371	PP
+NP
+195375	NP
+195401	NP
+NP
+NP
+195416	NP
+195421	NP
+PP
+NP
+NP
+195428	NP
+195430	PP
+195432	NP
+NP
+NP
+195446	PP
+195451	NP
+195453	PP
+195455	PP
+195467	PP
+NP
+195473	PP
+195475	PP
+195479	PP
+195482	NP
+195484	PP
+195486	PP
+NP
+195493	NP
+195496	PP
+NP
+195500	PP
+NP
+NP
+195504	NP
+195510	NP
+195512	NP
+195514	NP
+195519	PP
+195529	NP
+195534	PP
+195539	PP
+NP
+NP
+195546	NP
+195549	NP
+195551	NP
+195557	NP
+195561	NP
+195565	PP
+NP
+195574	NP
+NP
+PP
+195579	PP
+195585	NP
+195589	NP
+NP
+195592	NP
+195594	NP
+195597	NP
+NP
+195601	PP
+NP
+NP
+195605	NP
+NP
+PP
+NP
+195610	NP
+195612	NP
+195621	NP
+195627	NP
+NP
+195634	PP
+195648	NP
+PP
+195653	PP
+NP
+NP
+NP
+195658	NP
+NP
+NP
+195664	VP
+195668	NP
+PP
+195672	NP
+195676	PP
+NP
+195680	NP
+NP
+PP
+NP
+NP
+195693	AdjP
+NP
+195711	NP
+NP
+195715	NP
+NP
+NP
+NP
+195723	PP
+NP
+NP
+195728	NP
+195737	NP
+195748	PP
+195752	NP
+195757	NP
+PP
+195771	NP
+195776	NP
+195778	NP
+NP
+195787	NP
+195790	NP
+195793	PP
+195797	NP
+195810	NP
+195822	PP
+195824	NP
+195828	NP
+195830	NP
+195833	NP
+195835	NP
+195838	NP
+NP
+195842	NP
+NP
+PP
+195847	NP
+195857	PP
+NP
+NP
+NP
+NP
+195866	NP
+195872	PP
+NP
+195875	NP
+NP
+195882	NP
+195890	NP
+195896	NP
+NP
+195902	NP
+NP
+NP
+195912	NP
+195915	PP
+195917	NP
+NP
+NP
+195922	NP
+NP
+195927	NP
+NP
+195930	PP
+195933	NP
+NP
+195938	PP
+195943	NP
+NP
+195946	PP
+195951	NP
+NP
+195956	PP
+195958	NP
+NP
+NP
+PP
+195963	PP
+195965	NP
+195969	PP
+NP
+195973	NP
+195976	PP
+NP
+NP
+NP
+195987	PP
+NP
+NP
+NP
+195992	NP
+NP
+195999	NP
+196002	NP
+NP
+196008	PP
+PP
+196014	PP
+196016	PP
+196020	NP
+196024	NP
+NP
+196027	NP
+NP
+196036	PP
+NP
+NP
+NP
+196046	PP
+NP
+NP
+NP
+196055	PP
+NP
+NP
+196059	PP
+196065	NP
+196068	NP
+NP
+196074	NP
+196077	NP
+NP
+196080	PP
+196082	NP
+NP
+196085	NP
+196092	PP
+196094	NP
+NP
+NP
+NP
+196100	NP
+NP
+PP
+NP
+NP
+196108	NP
+NP
+PP
+NP
+NP
+196119	NP
+196121	NP
+196124	NP
+196126	PP
+196128	PP
+NP
+196131	PP
+196133	NP
+NP
+196137	PP
+NP
+NP
+196144	NP
+NP
+196151	PP
+196161	NP
+196172	NP
+NP
+196175	NP
+196180	PP
+NP
+NP
+NP
+196185	NP
+196187	NP
+196190	NP
+NP
+NP
+PP
+NP
+NP
+NP
+196198	NP
+196200	NP
+196206	PP
+NP
+PP
+NP
+NP
+196216	PP
+NP
+NP
+196221	AdjP
+196226	NP
+196228	PP
+NP
+PP
+NP
+NP
+196238	PP
+NP
+NP
+NP
+196243	NP
+NP
+196247	AdjP
+196251	NP
+NP
+196254	PP
+NP
+196257	PP
+NP
+196267	PP
+NP
+NP
+196288	PP
+NP
+NP
+NP
+AdjP
+196299	NP
+NP
+NP
+NP
+196304	NP
+196307	NP
+NP
+NP
+NP
+NP
+196315	NP
+196318	NP
+196320	NP
+NP
+196334	NP
+NP
+196337	NP
+NP
+196353	NP
+NP
+196358	NP
+NP
+196362	NP
+NP
+PP
+NP
+NP
+196371	NP
+NP
+196374	NP
+NP
+196379	NP
+NP
+196382	NP
+NP
+NP
+PP
+196387	NP
+196392	PP
+NP
+NP
+196396	NP
+NP
+196399	PP
+NP
+196404	PP
+NP
+196408	PP
+196412	NP
+NP
+PP
+NP
+196421	PP
+196428	PP
+196434	PP
+NP
+196438	NP
+196446	PP
+NP
+196451	NP
+196456	PP
+196459	NP
+196467	PP
+196476	PP
+NP
+196481	NP
+196489	PP
+NP
+NP
+NP
+196512	NP
+196515	PP
+PP
+196528	NP
+NP
+NP
+NP
+NP
+196548	NP
+196552	PP
+PP
+PP
+196571	NP
+NP
+196579	AdvP
+196586	AdvP
+196592	NP
+NP
+NP
+NP
+196597	NP
+196601	NP
+NP
+196609	NP
+196611	NP
+196614	NP
+196623	NP
+196626	NP
+196631	NP
+NP
+196641	NP
+196662	NP
+NP
+196669	NP
+NP
+NP
+196677	NP
+196681	PP
+NP
+NP
+196686	PP
+NP
+196690	PP
+NP
+196695	NP
+196699	PP
+196708	PP
+196716	PP
+NP
+196721	PP
+NP
+196726	NP
+196730	NP
+NP
+NP
+196734	NP
+NP
+NP
+196738	NP
+196743	PP
+NP
+NP
+196750	NP
+196768	NP
+196773	NP
+NP
+NP
+NP
+196778	NP
+PP
+NP
+NP
+196783	PP
+196786	NP
+196788	NP
+NP
+196793	PP
+NP
+NP
+196802	NP
+196808	NP
+NP
+196812	NP
+NP
+NP
+196818	NP
+196820	PP
+NP
+NP
+196831	NP
+196834	NP
+196852	NP
+196854	PP
+NP
+196859	PP
+NP
+196862	PP
+NP
+NP
+196866	NP
+196871	NP
+196875	PP
+PP
+196879	NP
+196882	PP
+NP
+NP
+NP
+196891	NP
+NP
+NP
+196895	NP
+196900	PP
+NP
+NP
+196908	NP
+NP
+196914	NP
+196922	NP
+NP
+NP
+196927	PP
+NP
+NP
+NP
+196935	NP
+NP
+NP
+196943	PP
+NP
+NP
+PP
+196951	NP
+196953	NP
+PP
+NP
+196957	PP
+196964	PP
+NP
+196968	PP
+NP
+NP
+196973	PP
+196976	NP
+196978	PP
+NP
+196983	NP
+NP
+196988	NP
+NP
+NP
+NP
+NP
+196998	NP
+NP
+197001	NP
+NP
+NP
+NP
+197007	NP
+NP
+197010	NP
+197013	NP
+NP
+NP
+197017	NP
+197020	NP
+NP
+NP
+197024	NP
+197029	NP
+197031	NP
+197033	NP
+197035	NP
+197043	NP
+197049	PP
+NP
+NP
+NP
+197055	NP
+NP
+NP
+NP
+NP
+197063	PP
+NP
+NP
+NP
+197068	NP
+197071	NP
+197075	PP
+NP
+NP
+NP
+197082	NP
+197084	NP
+NP
+NP
+197088	NP
+197091	NP
+PP
+NP
+NP
+NP
+NP
+197102	NP
+NP
+NP
+197106	NP
+197108	PP
+NP
+197115	PP
+NP
+NP
+197125	NP
+NP
+197130	NP
+NP
+NP
+NP
+197135	NP
+197139	NP
+NP
+197143	NP
+197152	NP
+NP
+NP
+197156	NP
+197158	PP
+NP
+197161	PP
+NP
+197168	PP
+NP
+197173	NP
+PP
+NP
+197181	PP
+NP
+NP
+NP
+197187	NP
+197191	NP
+PP
+NP
+NP
+197198	PP
+NP
+NP
+NP
+197205	NP
+197207	NP
+NP
+NP
+197211	NP
+197219	PP
+NP
+NP
+197223	NP
+NP
+NP
+197232	PP
+NP
+NP
+197242	NP
+NP
+NP
+197249	PP
+NP
+NP
+197254	PP
+NP
+NP
+197266	NP
+NP
+197269	NP
+197272	NP
+NP
+NP
+197276	NP
+NP
+197281	NP
+NP
+197288	NP
+NP
+197291	PP
+197296	NP
+197299	PP
+NP
+197312	PP
+NP
+197315	PP
+NP
+NP
+197322	NP
+PP
+NP
+NP
+197327	PP
+NP
+NP
+197332	NP
+NP
+NP
+197337	NP
+NP
+197343	NP
+197347	PP
+NP
+197350	PP
+NP
+197353	PP
+197355	NP
+197358	NP
+197361	PP
+197363	PP
+197365	NP
+NP
+197368	NP
+NP
+197372	NP
+197385	NP
+197387	PP
+197394	NP
+197397	NP
+197399	NP
+NP
+NP
+PP
+NP
+197406	NP
+197408	PP
+197417	PP
+NP
+NP
+197424	PP
+NP
+NP
+197428	NP
+197432	NP
+PP
+197435	NP
+197444	PP
+NP
+197449	NP
+NP
+PP
+197454	NP
+197457	NP
+NP
+197462	NP
+NP
+197465	NP
+197472	NP
+197475	NP
+197478	PP
+PP
+NP
+PP
+197484	NP
+197488	PP
+NP
+197494	NP
+197498	PP
+197501	NP
+NP
+197509	NP
+197515	NP
+197517	NP
+197522	NP
+197525	PP
+NP
+197530	NP
+197554	NP
+197556	NP
+197567	NP
+197569	PP
+NP
+197573	NP
+NP
+197576	NP
+NP
+197579	PP
+NP
+197586	NP
+NP
+NP
+197590	NP
+197601	NP
+NP
+197604	NP
+NP
+NP
+197610	NP
+AdjP
+PP
+197619	NP
+197621	PP
+NP
+197626	PP
+NP
+PP
+197631	NP
+197634	NP
+197636	PP
+NP
+PP
+197648	NP
+197651	NP
+PP
+NP
+197656	PP
+NP
+197661	NP
+NP
+197664	NP
+NP
+197667	PP
+197669	PP
+NP
+197672	NP
+197676	PP
+NP
+197685	PP
+NP
+197691	NP
+197704	NP
+197713	PP
+PP
+NP
+197723	PP
+NP
+197727	PP
+NP
+197731	PP
+NP
+197736	NP
+197749	NP
+197751	NP
+197758	PP
+197764	PP
+NP
+197767	NP
+NP
+197770	PP
+NP
+197776	NP
+197781	PP
+NP
+PP
+197789	NP
+NP
+NP
+NP
+197794	PP
+NP
+NP
+NP
+197801	NP
+197810	NP
+NP
+NP
+NP
+197820	NP
+PP
+197825	PP
+NP
+NP
+197829	NP
+NP
+NP
+197835	NP
+197844	PP
+NP
+197847	NP
+NP
+NP
+PP
+NP
+NP
+NP
+197859	NP
+197861	NP
+197874	NP
+197876	NP
+197879	PP
+197881	AdvP
+197884	NP
+NP
+NP
+NP
+197890	NP
+NP
+NP
+PP
+NP
+NP
+197899	PP
+197903	NP
+NP
+NP
+197908	NP
+197910	NP
+197913	PP
+197920	NP
+197923	NP
+197933	PP
+NP
+197936	NP
+197939	PP
+NP
+197943	NP
+197946	NP
+197951	NP
+197953	NP
+197959	NP
+197964	NP
+NP
+NP
+NP
+197971	NP
+197973	NP
+197980	PP
+197984	NP
+197989	NP
+197994	NP
+198000	NP
+198002	PP
+NP
+PP
+NP
+198008	PP
+198013	PP
+NP
+PP
+NP
+198020	NP
+PP
+198023	NP
+198026	NP
+198031	NP
+198033	NP
+198037	NP
+198041	NP
+198043	PP
+NP
+NP
+198050	NP
+PP
+NP
+NP
+198061	NP
+NP
+NP
+198074	NP
+NP
+198084	PP
+198094	PP
+NP
+198097	NP
+198099	NP
+198117	NP
+NP
+NP
+198122	NP
+198129	NP
+198131	NP
+198133	PP
+198135	NP
+198137	PP
+NP
+NP
+NP
+NP
+198144	NP
+198148	NP
+198150	NP
+NP
+198159	NP
+NP
+PP
+NP
+NP
+198168	NP
+198170	PP
+NP
+NP
+NP
+198176	PP
+NP
+198185	NP
+198187	PP
+198190	NP
+198194	PP
+NP
+NP
+198201	NP
+198217	NP
+NP
+NP
+198222	NP
+NP
+198228	PP
+NP
+198233	NP
+198243	NP
+198249	PP
+NP
+198254	NP
+198257	PP
+NP
+198261	NP
+198265	NP
+NP
+198273	NP
+198277	NP
+198279	PP
+NP
+198283	NP
+NP
+198286	NP
+198293	NP
+NP
+198296	NP
+198306	NP
+NP
+198309	NP
+198311	NP
+NP
+198316	NP
+PP
+198323	NP
+198325	PP
+NP
+198329	PP
+NP
+NP
+198334	NP
+198340	NP
+PP
+NP
+198358	NP
+198367	NP
+198369	NP
+198371	NP
+NP
+198375	NP
+198377	NP
+NP
+198383	NP
+198394	NP
+NP
+198402	NP
+PP
+NP
+198408	NP
+198414	PP
+NP
+NP
+NP
+198423	PP
+198431	NP
+198435	PP
+198447	NP
+NP
+NP
+NP
+198452	NP
+198456	NP
+NP
+NP
+NP
+198461	NP
+198469	PP
+198474	PP
+NP
+NP
+NP
+198486	PP
+NP
+NP
+NP
+198491	PP
+NP
+NP
+NP
+198499	NP
+PP
+NP
+NP
+NP
+NP
+198506	NP
+NP
+198511	NP
+198513	NP
+NP
+NP
+198523	NP
+198531	NP
+NP
+198548	NP
+NP
+NP
+198552	NP
+198556	NP
+198572	NP
+NP
+NP
+PP
+NP
+198587	PP
+NP
+NP
+198591	NP
+NP
+198594	NP
+198601	NP
+NP
+NP
+NP
+NP
+198609	PP
+NP
+VP
+PP
+NP
+198617	PP
+NP
+VP
+PP
+NP
+198625	NP
+198632	NP
+PP
+198637	NP
+NP
+198642	PP
+198647	PP
+NP
+198655	NP
+NP
+198661	NP
+198670	AdvP
+198678	NP
+198682	PP
+198684	NP
+198689	NP
+NP
+198692	NP
+NP
+198695	NP
+198697	NP
+NP
+198703	PP
+198710	NP
+NP
+198718	NP
+NP
+198726	NP
+NP
+PP
+198738	NP
+NP
+198741	NP
+198743	NP
+198749	NP
+NP
+NP
+198755	NP
+NP
+NP
+198759	PP
+NP
+NP
+NP
+NP
+PP
+NP
+NP
+198771	PP
+NP
+NP
+198779	NP
+198783	AdvP
+198788	NP
+NP
+NP
+198792	PP
+NP
+NP
+198797	PP
+NP
+198800	NP
+198802	NP
+198806	NP
+NP
+198811	PP
+NP
+PP
+198817	PP
+198821	NP
+NP
+PP
+198825	NP
+NP
+198828	NP
+198831	PP
+198833	NP
+198841	PP
+198844	NP
+198846	NP
+198858	NP
+198872	NP
+198878	PP
+NP
+198885	NP
+NP
+NP
+PP
+198895	NP
+198897	PP
+NP
+198905	NP
+198917	NP
+NP
+198923	NP
+NP
+198929	PP
+NP
+198933	NP
+198937	NP
+PP
+198940	NP
+NP
+NP
+PP
+198948	NP
+198952	NP
+198986	PP
+198991	NP
+NP
+NP
+198996	PP
+198999	NP
+199001	PP
+199003	NP
+199009	PP
+NP
+199022	NP
+NP
+199035	PP
+NP
+199039	PP
+NP
+199045	NP
+NP
+199054	NP
+199056	NP
+NP
+199062	PP
+PP
+199065	PP
+199076	NP
+199079	PP
+NP
+199083	NP
+PP
+NP
+NP
+199089	NP
+NP
+PP
+199093	PP
+199104	PP
+NP
+NP
+199115	NP
+PP
+199118	NP
+199121	NP
+NP
+199136	PP
+NP
+199140	NP
+199143	NP
+NP
+NP
+199147	PP
+NP
+199153	NP
+NP
+199163	PP
+199166	NP
+199168	NP
+199171	NP
+NP
+199180	PP
+NP
+199184	NP
+199192	NP
+NP
+NP
+PP
+199200	PP
+NP
+NP
+199204	PP
+NP
+199209	PP
+NP
+199213	NP
+199216	NP
+199224	PP
+199228	NP
+NP
+199231	NP
+199235	NP
+NP
+199243	PP
+199246	PP
+NP
+NP
+199250	NP
+NP
+199257	PP
+NP
+NP
+NP
+199267	PP
+NP
+199281	PP
+199283	NP
+AdvP
+199286	PP
+NP
+NP
+NP
+199294	PP
+199296	NP
+NP
+199300	NP
+PP
+NP
+NP
+NP
+199308	NP
+NP
+PP
+NP
+NP
+199319	NP
+199321	NP
+NP
+199324	PP
+199330	NP
+PP
+NP
+NP
+199336	PP
+NP
+NP
+NP
+199341	NP
+PP
+NP
+199348	NP
+199351	NP
+199353	PP
+NP
+199359	NP
+NP
+199362	NP
+NP
+199370	PP
+199376	PP
+NP
+199382	NP
+199384	NP
+199387	PP
+NP
+NP
+NP
+199393	NP
+NP
+199401	PP
+199407	PP
+NP
+199411	NP
+199414	PP
+NP
+NP
+NP
+199421	NP
+NP
+NP
+199428	NP
+NP
+PP
+PP
+199433	NP
+NP
+199436	NP
+NP
+NP
+PP
+199446	NP
+NP
+199450	NP
+PP
+199454	NP
+199456	PP
+NP
+199473	PP
+199476	PP
+199478	NP
+199486	PP
+199488	NP
+NP
+NP
+PP
+199494	NP
+NP
+NP
+199501	NP
+NP
+199507	PP
+NP
+199516	NP
+NP
+199525	PP
+NP
+199530	PP
+NP
+NP
+199536	NP
+199543	NP
+199546	NP
+NP
+199551	PP
+199554	NP
+199556	NP
+199561	PP
+NP
+VP
+PP
+199568	PP
+NP
+VP
+PP
+199578	NP
+199580	PP
+PP
+NP
+PP
+NP
+199590	PP
+199592	NP
+NP
+NP
+PP
+199598	VP
+199601	PP
+NP
+NP
+199606	PP
+NP
+199610	NP
+199616	PP
+NP
+NP
+199622	PP
+199625	NP
+199629	PP
+199631	PP
+199633	PP
+199635	NP
+NP
+NP
+199644	PP
+NP
+NP
+199655	NP
+NP
+199666	NP
+199669	NP
+199671	NP
+199673	NP
+199680	NP
+199686	PP
+199694	NP
+NP
+NP
+NP
+199701	NP
+199707	NP
+NP
+199711	NP
+NP
+NP
+199717	NP
+199730	NP
+NP
+199737	PP
+199751	PP
+199758	NP
+NP
+199766	NP
+NP
+NP
+199773	NP
+NP
+199777	NP
+NP
+NP
+NP
+199787	NP
+199789	NP
+NP
+199797	NP
+NP
+199801	NP
+PP
+199805	NP
+199809	NP
+NP
+NP
+NP
+NP
+199820	NP
+NP
+PP
+NP
+NP
+199830	NP
+NP
+NP
+199835	PP
+NP
+199839	PP
+NP
+NP
+NP
+NP
+PP
+NP
+199850	NP
+199866	NP
+NP
+PP
+NP
+199877	PP
+199886	PP
+199890	NP
+199892	NP
+199895	NP
+NP
+199899	NP
+PP
+NP
+199907	NP
+199910	NP
+199923	NP
+199931	PP
+NP
+NP
+199937	NP
+NP
+PP
+199950	NP
+NP
+PP
+PP
+199960	NP
+199965	NP
+NP
+NP
+NP
+PP
+NP
+199981	NP
+NP
+199991	PP
+NP
+200000	PP
+NP
+200008	PP
+NP
+NP
+NP
+200022	NP
+200027	NP
+200031	NP
+200037	NP
+200043	PP
+NP
+200047	NP
+NP
+NP
+200052	NP
+200063	NP
+200067	NP
+200076	PP
+NP
+200080	NP
+200085	PP
+NP
+200089	NP
+200094	NP
+200109	NP
+200111	NP
+200114	NP
+NP
+200120	NP
+200122	NP
+200129	NP
+200140	NP
+200148	PP
+200156	NP
+NP
+200160	VP
+200162	NP
+NP
+200166	NP
+NP
+200174	PP
+NP
+NP
+NP
+200186	PP
+NP
+200191	PP
+NP
+NP
+NP
+200197	NP
+200207	NP
+200211	PP
+200215	PP
+200221	NP
+200236	NP
+200246	PP
+NP
+200250	NP
+NP
+NP
+PP
+NP
+NP
+200257	NP
+PP
+NP
+200261	NP
+NP
+NP
+NP
+200266	NP
+200276	PP
+NP
+NP
+200282	NP
+200285	NP
+200295	NP
+NP
+NP
+200302	PP
+200305	PP
+NP
+NP
+200310	PP
+NP
+PP
+NP
+200316	PP
+NP
+NP
+200321	PP
+NP
+200324	NP
+200326	PP
+NP
+200334	NP
+PP
+NP
+200349	PP
+NP
+200356	PP
+200358	NP
+200369	NP
+NP
+200381	NP
+PP
+NP
+200389	NP
+NP
+NP
+NP
+NP
+200396	NP
+200399	NP
+200401	PP
+NP
+PP
+NP
+200407	NP
+PP
+NP
+NP
+200416	NP
+200423	NP
+PP
+NP
+200429	PP
+NP
+200433	NP
+NP
+NP
+200444	NP
+NP
+NP
+200448	NP
+200452	NP
+200464	NP
+200469	NP
+NP
+200473	NP
+200479	PP
+NP
+200482	NP
+NP
+200493	NP
+200496	NP
+200503	PP
+200505	NP
+PP
+200508	PP
+NP
+200515	PP
+200519	NP
+NP
+NP
+200523	NP
+200530	PP
+200534	NP
+PP
+200542	NP
+NP
+200548	NP
+NP
+NP
+NP
+PP
+NP
+NP
+200560	PP
+200572	NP
+NP
+NP
+NP
+200578	PP
+200581	PP
+NP
+PP
+NP
+NP
+200588	NP
+200596	NP
+200608	NP
+200610	NP
+200616	PP
+NP
+200619	PP
+200628	PP
+NP
+NP
+200633	NP
+200635	PP
+NP
+NP
+NP
+200646	NP
+NP
+NP
+200652	NP
+200658	PP
+200662	PP
+200666	NP
+200670	PP
+200674	NP
+200676	NP
+NP
+NP
+200688	NP
+NP
+NP
+PP
+200696	PP
+200699	NP
+200702	NP
+NP
+200705	PP
+NP
+200716	NP
+NP
+200731	NP
+200735	NP
+200749	NP
+NP
+200754	NP
+200756	NP
+NP
+200770	PP
+200773	PP
+PP
+NP
+NP
+NP
+200781	NP
+200787	PP
+200789	NP
+NP
+PP
+200800	PP
+200813	NP
+NP
+200827	PP
+NP
+200831	NP
+NP
+200834	NP
+NP
+200842	PP
+200844	PP
+200846	NP
+200851	NP
+200858	NP
+200861	NP
+200863	NP
+200866	PP
+NP
+200870	PP
+200872	NP
+200874	NP
+200876	NP
+NP
+PP
+NP
+200885	PP
+NP
+200889	PP
+NP
+200892	NP
+200903	NP
+NP
+200907	PP
+NP
+200910	PP
+NP
+200916	PP
+200918	NP
+NP
+200924	NP
+200930	NP
+200932	NP
+PP
+NP
+NP
+200940	PP
+NP
+200944	NP
+200947	PP
+NP
+200951	NP
+NP
+NP
+200956	NP
+NP
+200959	NP
+200965	NP
+NP
+NP
+200973	NP
+200980	PP
+NP
+200989	NP
+200991	NP
+200993	NP
+200999	NP
+201001	PP
+NP
+201006	NP
+NP
+201017	NP
+201025	PP
+NP
+201037	PP
+NP
+PP
+201046	PP
+NP
+201053	NP
+NP
+PP
+NP
+201058	PP
+201062	PP
+201072	PP
+201075	PP
+NP
+201080	NP
+201083	NP
+201089	NP
+201092	NP
+201108	NP
+NP
+201113	NP
+NP
+201120	PP
+NP
+201124	NP
+201127	PP
+NP
+201135	PP
+NP
+201141	NP
+201143	NP
+NP
+NP
+201148	PP
+NP
+201156	NP
+NP
+201160	NP
+201166	NP
+201175	PP
+NP
+201180	NP
+NP
+201185	PP
+201187	PP
+201191	PP
+201197	PP
+201200	PP
+201210	PP
+201212	NP
+201215	PP
+201218	NP
+201221	NP
+201227	NP
+201232	PP
+NP
+201242	NP
+201244	NP
+201250	PP
+NP
+201264	NP
+201277	NP
+PP
+NP
+201281	NP
+NP
+NP
+201285	NP
+201288	NP
+201294	NP
+201296	NP
+201299	PP
+NP
+NP
+NP
+201309	PP
+PP
+NP
+201317	NP
+201320	NP
+201331	NP
+201345	PP
+201359	NP
+NP
+NP
+201363	NP
+NP
+PP
+NP
+201368	NP
+NP
+201373	NP
+NP
+NP
+201389	NP
+NP
+AdjP
+NP
+201400	PP
+NP
+NP
+201405	NP
+NP
+NP
+201410	NP
+201412	PP
+201416	NP
+201423	NP
+NP
+201430	PP
+NP
+201437	NP
+NP
+NP
+201442	NP
+NP
+201452	NP
+201454	NP
+201459	NP
+PP
+NP
+NP
+201465	NP
+201468	PP
+NP
+201476	PP
+NP
+PP
+201484	PP
+NP
+PP
+201492	PP
+NP
+NP
+NP
+201498	NP
+201500	NP
+NP
+201505	PP
+NP
+NP
+201509	PP
+201518	NP
+201520	NP
+NP
+NP
+201525	PP
+201533	NP
+201535	PP
+201540	NP
+201543	PP
+201547	NP
+NP
+NP
+201555	NP
+NP
+201560	NP
+NP
+201564	PP
+NP
+201572	NP
+201578	NP
+NP
+201582	NP
+NP
+201585	NP
+201591	PP
+NP
+201600	PP
+NP
+NP
+201605	PP
+NP
+NP
+NP
+201611	NP
+NP
+201616	NP
+201621	NP
+NP
+201624	NP
+NP
+201627	NP
+NP
+201632	NP
+NP
+201635	NP
+201647	PP
+NP
+NP
+NP
+201655	PP
+NP
+201659	NP
+NP
+PP
+NP
+201665	NP
+201673	NP
+201677	NP
+201682	NP
+201685	NP
+201695	NP
+201700	NP
+201702	NP
+201704	NP
+201709	PP
+NP
+NP
+NP
+201716	NP
 201718	NP
-201722	NP
-201726	NP
-201728	NP
 NP
-201733	NP
-201735	NP
-PP
 NP
+201731	NP
+201737	PP
 201741	NP
-201745	NP
-201749	NP
+NP
+PP
+NP
 201753	NP
-201757	NP
-201761	NP
+NP
+NP
 PP
+201762	PP
+201766	PP
 NP
-201767	NP
-PP
-NP
-201773	NP
-201777	NP
-NP
-201782	NP
-PP
+201783	NP
 NP
 NP
-201789	NP
 201793	NP
-201797	NP
-201801	NP
-201805	NP
+NP
+NP
+201806	NP
+NP
 201809	NP
-201813	NP
-201817	NP
+201818	NP
 201821	NP
-201825	NP
-201829	NP
-201833	NP
-201837	NP
-201839	NP
-NP
-PP
 NP
 NP
-PP
-201846	NP
+201833	PP
 NP
-201850	NP
-201854	NP
-201858	NP
-201862	NP
+NP
+201838	NP
+201859	NP
+NP
+NP
+NP
 201866	NP
-201870	NP
+NP
+201870	PP
+NP
 201874	NP
-201878	NP
 201882	NP
-201886	NP
-201890	NP
-201894	NP
 NP
 NP
-PP
-201901	NP
-201903	NP
 NP
-PP
-PP
-NP
-201909	PP
+201889	NP
+201891	NP
 PP
 NP
 NP
+201897	NP
+201899	PP
 NP
-201915	PP
+201902	NP
 NP
 NP
+201912	NP
+201919	NP
+201921	NP
+NP
+NP
+201925	PP
+201927	NP
+201932	PP
+201934	NP
 PP
 NP
+201939	PP
+201941	NP
 NP
 NP
+201947	PP
 NP
-201924	NP
-201928	NP
+201953	NP
 NP
+201956	NP
 NP
-201935	PP
-201937	PP
+201959	NP
 NP
-201940	NP
-NP
-201958	NP
-PP
 201963	NP
-201968	NP
 NP
+201969	NP
 201971	PP
-201973	PP
 NP
-201981	NP
 NP
-201987	NP
+NP
+201979	NP
+201981	PP
+NP
+201986	NP
+PP
+201992	NP
 NP
 PP
 NP
+202002	NP
+NP
+202005	PP
 NP
 NP
-201998	PP
-PP
 NP
-202003	NP
-PP
-202011	NP
+202010	PP
 NP
-202014	VP
-PP
 NP
-202019	NP
-PP
 NP
-202026	NP
+202015	PP
 NP
-202030	NP
 NP
-202036	PP
+NP
+202021	NP
+NP
+202029	NP
+NP
+202034	PP
+NP
+NP
+NP
+NP
+NP
 202042	NP
-NP
-202045	NP
-202048	PP
-NP
-NP
-PP
+202046	NP
+202049	NP
+202054	PP
 NP
 NP
-202056	PP
-202058	PP
-202062	NP
+202060	NP
+202066	PP
+202073	NP
 NP
-202065	NP
+202077	PP
 NP
-202069	NP
+202081	NP
 NP
 PP
 NP
-202079	NP
-202082	NP
-PP
-202086	NP
 NP
-202089	NP
-NP
-202092	PP
 202094	NP
-202100	PP
-NP
-NP
 202106	PP
 NP
-202110	NP
-202114	PP
+NP
+202113	NP
+202116	NP
+202118	NP
+NP
+202121	PP
 NP
 NP
-PP
-202123	NP
+202126	NP
+202128	NP
+NP
+202136	PP
+202138	NP
+NP
+202152	NP
+202155	PP
 NP
 NP
-202130	NP
-202132	PP
-NP
-NP
-NP
-NP
-202141	PP
-202146	PP
 NP
 202161	NP
-202165	NP
-202168	PP
 NP
-202175	PP
-202178	NP
-202181	NP
+202167	NP
+202169	NP
+NP
+202172	PP
+202174	NP
+202179	NP
+NP
 202183	NP
-202187	PP
-NP
-202190	NP
+202187	NP
 NP
 PP
 NP
+202192	NP
 NP
-202201	NP
-NP
-202209	PP
-202212	PP
 PP
 NP
-202216	PP
+202197	NP
+NP
+PP
+NP
+202203	PP
+NP
+202215	NP
 NP
 NP
-202223	NP
+202222	NP
 202225	PP
 NP
 202230	NP
 202232	NP
 NP
-202236	PP
-202247	NP
-202254	NP
-202256	NP
+202238	NP
+202241	NP
 NP
-202261	PP
-202265	PP
+202244	NP
+202246	NP
+202266	NP
 NP
 NP
-202271	PP
 PP
 NP
-202275	PP
-202277	NP
-NP
-202284	PP
-NP
+202289	NP
 202291	NP
+202300	NP
+NP
+AdjP
+202306	NP
+202310	PP
+NP
+202317	PP
 NP
 NP
-PP
-202296	PP
 NP
+202329	NP
+202332	NP
+202334	NP
+202338	PP
 NP
-NP
-PP
-202302	PP
-NP
-202306	PP
-NP
-202311	PP
-NP
-202314	PP
-202317	NP
-202320	NP
-NP
-202331	NP
-202333	NP
-202335	PP
+202345	PP
+202347	NP
 NP
 PP
-202341	NP
-202343	NP
-NP
-202347	PP
-NP
-202352	NP
-NP
-NP
+202356	NP
 202359	NP
 202361	NP
+202364	PP
 NP
-202365	PP
+202368	PP
+202370	PP
 NP
-202372	NP
-PP
-NP
-NP
-202381	PP
-202383	PP
-NP
-NP
-NP
-202390	PP
-NP
-202397	PP
-NP
-202401	PP
-202403	NP
-NP
-202406	NP
-202408	PP
-NP
-NP
-NP
-202416	NP
-NP
-NP
-202423	PP
-NP
-202426	NP
-202428	PP
-NP
-202431	NP
-NP
-202435	NP
-NP
-NP
-202439	NP
-202441	NP
 NP
 PP
+202376	PP
 NP
-202446	NP
-PP
+202380	PP
+202382	PP
+202387	PP
+NP
+202391	PP
 NP
 NP
 NP
-202452	NP
-202455	NP
-202458	PP
+202396	PP
+202398	PP
+202409	NP
+202411	NP
+202413	NP
+202417	NP
+NP
+NP
+202421	NP
+202423	NP
+202425	NP
+202434	NP
+202436	NP
+NP
+202448	NP
+NP
+202451	NP
+202453	NP
+202457	PP
 202460	NP
-NP
 202463	NP
 NP
 NP
-NP
-202469	PP
-NP
-PP
-202473	NP
-NP
-202477	NP
+202468	NP
 NP
 NP
-202482	PP
-NP
-202486	NP
-202491	PP
-NP
-NP
-202497	NP
-AdjP
-NP
-202504	PP
-202507	NP
-202513	NP
-PP
-NP
-NP
+202481	NP
+202492	NP
+202494	NP
+202496	NP
+202501	NP
 202519	NP
-202522	NP
+NP
+NP
+202524	NP
+NP
+NP
+202532	PP
+NP
+NP
+NP
+NP
+202539	NP
 PP
 NP
 NP
 NP
-202528	NP
-202530	NP
-202533	NP
-202536	PP
-202542	PP
-PP
-202545	PP
+202548	NP
+202551	NP
 202554	NP
-202559	PP
-NP
-202562	NP
-NP
-PP
 NP
 NP
-202569	NP
 NP
-202573	NP
+202559	NP
+202562	PP
+NP
+NP
 NP
 PP
+202570	PP
+202575	PP
+202580	PP
+202582	PP
 NP
 NP
-202580	NP
-202583	NP
+202588	PP
 PP
+202592	PP
 NP
-PP
+202595	NP
+202597	PP
 NP
-PP
-NP
-202591	PP
 202600	PP
-202605	PP
-202608	NP
-202619	NP
-202625	NP
-202628	PP
-NP
-202633	NP
-202636	NP
-202638	PP
-202641	PP
-202645	PP
-NP
-202650	NP
 NP
 NP
-PP
-202656	NP
-202658	PP
-NP
+202604	NP
 PP
 NP
+NP
+202610	NP
+202613	PP
+202615	NP
+202617	NP
+202622	NP
+PP
+NP
+NP
+202630	NP
+202634	PP
+202639	NP
+NP
+NP
+202644	NP
+NP
+PP
+NP
+202654	NP
+NP
+202660	AdvP
 202663	PP
+202668	PP
 NP
-202667	NP
-202669	NP
-202678	NP
-202680	NP
+202673	NP
+PP
+NP
+202679	NP
+NP
 202683	NP
 NP
-202692	PP
 NP
-202695	NP
-202697	PP
-NP
-NP
+202693	NP
+202697	AdvP
 202701	PP
+202709	PP
 NP
-202706	NP
+NP
+NP
+202715	NP
 PP
+202726	NP
+NP
+202729	NP
+NP
+202732	NP
+NP
+202736	NP
+202749	PP
 NP
 NP
-202713	PP
+202755	NP
+202764	NP
+202774	NP
+202780	PP
+202783	PP
+202788	PP
 NP
-NP
-NP
-202721	NP
-202723	NP
-202730	NP
-NP
-202733	PP
-202735	PP
-202741	PP
-NP
-NP
-202746	NP
-202751	NP
-NP
-202756	NP
+202791	NP
+202797	PP
+202802	VP
 PP
-NP
-AdjP
-202763	NP
-NP
-NP
-NP
-202768	NP
-NP
-202773	NP
-202783	NP
-202788	NP
-NP
-202792	NP
-202797	NP
-202811	PP
-NP
-202815	NP
-202818	PP
 NP
 NP
 PP
 NP
-202827	PP
 NP
-202831	NP
+202822	NP
+202828	PP
+202830	NP
+202832	NP
 NP
 NP
-202835	NP
+202837	PP
+202843	NP
+NP
+NP
 NP
 PP
 NP
 NP
+PP
 NP
 NP
-202843	PP
-NP
-202848	PP
-NP
-202854	PP
 202856	NP
 202863	NP
 NP
 NP
-202868	PP
+202867	PP
+202869	NP
+202871	PP
 NP
-NP
-NP
-202873	NP
 202877	NP
+PP
 NP
 202881	PP
 NP
-202890	PP
+NP
+PP
+NP
+202889	NP
+PP
+NP
+NP
 202894	NP
-202899	NP
-202906	NP
+PP
+NP
+202901	NP
+NP
+202906	PP
+202910	PP
 NP
 NP
+202918	NP
 NP
-202911	NP
+202926	NP
+202931	PP
 NP
 PP
 NP
+202936	AdvP
+202942	NP
+NP
+202946	NP
 PP
+202949	NP
+202951	NP
+NP
+202961	NP
+202974	NP
+202980	NP
+NP
+202993	PP
+NP
+203000	PP
+NP
+203008	NP
+203010	PP
+203013	PP
+203016	NP
 NP
 NP
-202919	NP
-NP
-202928	NP
-202930	NP
-NP
-202936	PP
 NP
 NP
-202940	PP
+203023	NP
+203026	NP
+203030	PP
 NP
 NP
-202945	NP
 NP
 NP
-202950	NP
-202952	NP
-PP
 NP
-202957	NP
+203038	NP
+203041	NP
 NP
-PP
-NP
-NP
-202965	NP
-202968	NP
-202981	NP
-NP
-PP
-NP
-202989	PP
-NP
-202993	NP
-202995	PP
-NP
-203002	NP
-NP
-203006	NP
-NP
-203012	NP
-NP
-NP
-203018	NP
-NP
-NP
-203027	NP
-203031	NP
-203034	NP
-203039	NP
 203044	NP
-NP
+203046	PP
 NP
 203049	NP
-203052	NP
-203055	NP
-203059	PP
-203063	NP
 NP
 NP
-203075	NP
-PP
-203078	PP
-203084	NP
+203057	NP
 NP
-203087	PP
 NP
-203092	NP
+NP
 NP
 PP
-203097	NP
+203066	NP
 NP
 NP
-203102	NP
-203104	PP
-203106	PP
-203114	PP
 NP
-203118	NP
+203072	NP
 NP
 NP
-203125	PP
+203076	PP
+NP
+NP
+NP
+PP
+NP
+203087	NP
+NP
+PP
+NP
+203093	NP
+NP
+PP
+NP
+NP
+203099	PP
+NP
+PP
+NP
+PP
+203105	NP
+203107	NP
+203112	NP
+NP
+203117	NP
+203122	NP
+203128	NP
 203133	PP
+203137	AdvP
+203139	NP
 NP
-203136	PP
-NP
-203140	NP
-NP
-PP
-NP
+203142	NP
 203146	NP
-NP
-PP
-NP
+203148	NP
+203150	NP
 203152	NP
-NP
-NP
-203157	NP
-NP
-NP
-PP
-NP
-203167	NP
-203169	NP
-203179	NP
-203181	NP
-NP
-203184	NP
 AdvP
-203187	PP
+203156	PP
+203158	NP
 NP
-203195	NP
-NP
-NP
-NP
-NP
-203203	NP
-203206	PP
+203166	NP
 NP
 NP
+203170	NP
+203173	NP
+203177	NP
 NP
-203218	PP
 NP
-NP
-NP
-203229	NP
-NP
-203232	NP
-203234	AdvP
-203236	PP
+203182	NP
 NP
 NP
 NP
-203243	NP
-203251	NP
-203257	NP
-203259	NP
 NP
-203263	NP
-203267	NP
+203191	VP
+PP
+203194	NP
 NP
-203272	NP
-203279	PP
-NP
-NP
-NP
-203287	NP
 NP
 PP
 NP
-203294	NP
+203204	PP
 NP
-203298	PP
-203301	NP
+203208	PP
 NP
+203216	NP
+203222	NP
+NP
+NP
+NP
+NP
+NP
+203231	PP
+NP
+203241	PP
+NP
+203255	NP
+NP
+NP
+203265	NP
+NP
+NP
+203275	NP
+NP
+203278	PP
+NP
+203288	NP
+NP
+NP
+203296	NP
+NP
+203302	NP
 PP
 NP
-203309	NP
 NP
-203315	NP
+203308	NP
+PP
+203312	NP
 NP
-VP
+203316	NP
 NP
-NP
-203321	PP
 203324	PP
-PP
-NP
-203331	NP
-NP
-203334	NP
-NP
-203337	PP
-203341	AdvP
-203346	NP
-NP
-203358	NP
-203361	PP
-203367	PP
 NP
 NP
-203373	NP
-NP
-NP
-NP
-203383	PP
-203389	NP
-NP
-NP
-203394	NP
-NP
-NP
-203398	PP
-203402	NP
-NP
-NP
-203411	PP
-203417	NP
-NP
-NP
-203422	NP
+203335	NP
 NP
 NP
 PP
-203431	NP
 NP
+NP
+203342	NP
+NP
+203348	NP
+NP
+203353	PP
+203357	NP
+NP
+NP
+NP
+203362	PP
+203368	PP
+203378	NP
+NP
+PP
+NP
+203386	NP
+203388	NP
+NP
+NP
+203393	NP
+NP
+NP
+NP
+203400	NP
+NP
+203403	PP
+NP
+NP
+203407	NP
+203409	PP
+203415	NP
+203418	NP
+203421	PP
+203423	NP
+203427	PP
+NP
+PP
+NP
+NP
+203435	NP
 203441	NP
-203443	NP
+203447	NP
+203449	PP
+203453	NP
 NP
+NP
+203458	NP
+NP
+NP
+203462	NP
+203467	PP
+NP
+NP
+203471	NP
+NP
+203476	NP
+203481	AdvP
+203487	PP
+203499	NP
+203502	NP
+203504	PP
 PP
 NP
-203459	NP
-203464	NP
-NP
-NP
-203475	PP
-NP
-203478	NP
-203480	NP
-203482	PP
-NP
-203485	NP
-203487	NP
-NP
-203490	PP
-203492	NP
-203494	NP
-NP
-203497	PP
-NP
-NP
-203504	NP
 203509	NP
-NP
-203515	NP
-203517	AdjP
-PP
-NP
-203525	PP
-203528	PP
-203535	NP
-203540	PP
+203513	NP
 NP
 NP
+203539	NP
+203541	NP
+203550	NP
 NP
-203546	NP
+203555	NP
+203563	NP
+203571	PP
 NP
-203553	NP
 NP
-203558	NP
+203579	NP
 NP
-203564	NP
-203566	PP
-203573	PP
-203581	NP
-NP
-203585	NP
-NP
-203592	NP
-NP
-203596	PP
-203601	NP
+203583	PP
+203586	NP
+203588	NP
+203590	NP
+203593	NP
+203600	NP
 NP
 NP
 NP
-PP
+203605	PP
 203607	NP
+203609	NP
 NP
-203610	PP
-203614	PP
-203621	NP
+NP
+NP
+203616	PP
+203619	NP
+NP
 203623	NP
 NP
+203627	NP
+203631	NP
 NP
-203630	NP
+203636	NP
 NP
-203633	NP
-203635	NP
-NP
-NP
-203644	NP
-NP
-NP
-NP
-203652	NP
-NP
-203656	PP
-NP
-PP
-203667	PP
+203640	NP
+203644	PP
+203647	PP
+203651	PP
 NP
 NP
 NP
-PP
 NP
+203657	NP
+NP
+NP
+203662	NP
+203666	NP
+NP
+203671	NP
+NP
+203675	NP
 203679	PP
-203681	NP
-203683	PP
-NP
+203682	PP
 203686	PP
 NP
-203690	PP
 NP
-203695	NP
+NP
+NP
+203693	NP
+NP
 NP
 203703	NP
-NP
-203707	NP
-NP
-203711	NP
+203705	NP
+203719	NP
 NP
 PP
 NP
-203716	NP
+203725	NP
+203728	NP
 NP
-203719	PP
-NP
-203728	PP
-203730	NP
-203733	PP
-NP
-203736	PP
-NP
-NP
-NP
-203744	NP
-203748	NP
-NP
-203755	PP
+203733	NP
+203753	NP
 NP
 NP
 203760	NP
-NP
-203763	NP
-NP
-NP
 PP
+203765	PP
 NP
-203769	NP
+203770	NP
 NP
-203772	PP
+203774	NP
+203783	NP
+203787	PP
+203789	NP
 NP
-203781	NP
-203785	PP
+203792	PP
 NP
 NP
-203795	NP
+NP
+203799	NP
+203801	NP
 NP
 NP
-203799	PP
 203808	NP
 NP
-PP
-NP
-203813	NP
-NP
-203816	NP
-NP
-203819	NP
-NP
-PP
-203823	PP
-PP
-PP
-NP
-NP
-NP
-NP
-203836	NP
-NP
-203839	NP
-203841	NP
-NP
-203846	PP
-203850	PP
-NP
-203855	NP
-NP
-NP
-203859	NP
-NP
-NP
-NP
-NP
-203868	NP
-203870	NP
-NP
-203873	NP
-NP
-203881	NP
-203885	NP
-NP
-203889	NP
-203894	NP
-NP
-203900	NP
-NP
-203903	NP
-NP
-203908	NP
-203911	NP
-NP
 NP
 PP
 NP
-203917	NP
 NP
-203920	PP
+203815	NP
 NP
-203928	PP
-NP
-203941	PP
-203954	NP
-NP
-203958	NP
+PP
+203820	PP
 NP
 NP
+203826	PP
+NP
+NP
+203832	PP
+203835	NP
+203837	NP
+PP
+NP
+203843	NP
+203845	PP
+NP
+NP
+203849	PP
+203852	NP
+NP
+PP
+NP
+203858	NP
+203860	NP
+NP
+203863	NP
+NP
+203867	PP
+NP
+203899	PP
+203903	PP
+203907	NP
+203942	PP
+203945	PP
+203948	NP
+203953	PP
+203956	NP
 NP
 NP
 NP
-203965	NP
-203969	NP
 NP
-203972	NP
+NP
+203966	NP
+NP
+PP
+203970	PP
+203972	PP
+203974	NP
 NP
 NP
 203979	NP
+203981	NP
 NP
-203983	NP
+204014	PP
+204021	NP
+204035	PP
+204046	PP
+204050	NP
 NP
 NP
-203990	NP
+204060	PP
 NP
-PP
-203995	NP
-203999	NP
-204003	NP
-204006	NP
-204012	NP
-204020	PP
-204025	NP
 NP
-204033	NP
+204064	PP
 NP
-204037	NP
-204040	NP
-204042	NP
-NP
-204045	PP
+204071	NP
 NP
 NP
 NP
-204056	PP
-204058	NP
+204076	NP
+NP
+204081	PP
 NP
 NP
-NP
-204068	NP
-204070	PP
-204074	PP
+204086	NP
 NP
 NP
+204090	PP
+204096	NP
+204098	NP
 NP
-204079	PP
-204083	NP
-NP
-NP
-204098	PP
-NP
-NP
-NP
-204104	NP
-204108	NP
-NP
-NP
-204115	PP
-204117	NP
-204120	AdjP
-204135	NP
-204137	NP
-204141	NP
-NP
-NP
-NP
-204147	NP
-204151	NP
-204153	NP
-NP
-204156	NP
-204162	PP
-NP
-NP
-204169	NP
-NP
-NP
-204176	PP
-NP
-204182	PP
-NP
-204190	NP
 NP
 PP
 NP
 NP
+204105	NP
+204112	NP
+204121	PP
+NP
+204127	PP
+NP
+204130	NP
+204134	PP
+PP
+NP
+204138	NP
+204144	NP
+NP
+204149	PP
+NP
+204155	NP
+204158	PP
 NP
 NP
+204172	NP
+204179	NP
 NP
-204199	NP
+204183	PP
+204187	NP
+204189	PP
+204198	NP
+NP
 PP
 NP
 NP
-204208	NP
-NP
+PP
 204212	NP
+NP
 PP
 NP
 NP
 204218	NP
-PP
+204222	PP
 NP
+204227	NP
 NP
-204226	PP
-NP
-NP
-NP
-204234	NP
-PP
-NP
-NP
-NP
-NP
-204242	NP
+204231	PP
 NP
 204246	NP
+204248	PP
+204254	NP
+204256	NP
+NP
+204259	NP
+NP
+204268	NP
+204274	PP
 NP
 PP
 NP
-204254	PP
+204281	NP
+204284	NP
 NP
-NP
-204272	NP
-204283	NP
-204285	PP
-204289	NP
-NP
-204296	NP
-204307	NP
-204309	NP
-NP
-AdvP
-NP
-NP
-NP
+204288	PP
+204290	NP
 PP
 NP
-204321	NP
-204328	NP
-204330	NP
-204336	NP
-204338	NP
+NP
+204298	NP
+204302	NP
+204305	NP
+204311	PP
+NP
+NP
+204322	NP
+PP
+204332	NP
 204341	PP
 NP
+PP
 NP
-204346	NP
-204349	NP
-204351	PP
+204350	NP
+204352	NP
 NP
 204357	PP
-204360	NP
-204363	NP
-204365	PP
+204361	NP
 NP
-204373	PP
-NP
-204377	PP
-PP
-NP
-204383	NP
 PP
 NP
 NP
-204390	PP
-204393	PP
+NP
+204374	NP
+NP
 204396	NP
-NP
-NP
-204400	NP
-204402	NP
-NP
-204407	NP
-NP
+204403	NP
 204411	NP
 NP
-204414	NP
-NP
-204418	NP
-204421	PP
-204423	PP
-NP
-NP
-204428	NP
-204434	PP
+204424	PP
+204430	NP
 NP
 NP
 NP
-204440	NP
+PP
+204436	PP
+NP
+204441	AdvP
+204443	PP
+PP
 NP
 NP
 NP
 NP
 PP
+204451	NP
 NP
-204450	PP
-NP
-NP
-204455	NP
-NP
-204459	NP
-NP
-204464	NP
+204455	PP
+204457	PP
 NP
 NP
-204477	PP
-204479	NP
+NP
+NP
+204465	PP
+NP
+NP
+NP
+204472	NP
+204474	NP
+204476	PP
+PP
+NP
 NP
 204484	NP
+204487	NP
 NP
-NP
-204491	NP
-204494	NP
 NP
 PP
+204496	PP
 NP
 204500	NP
-204503	NP
-204506	NP
-204509	NP
-NP
-204516	PP
-NP
-204519	NP
-204521	NP
+204507	PP
+204513	NP
+204517	PP
 NP
 NP
-204529	NP
-204532	NP
+204527	NP
+204531	PP
+204533	AdvP
+204537	NP
+NP
+NP
+204544	PP
 NP
 PP
 NP
-204538	NP
-204541	NP
-204544	NP
-204547	NP
-NP
-204553	NP
-NP
-204560	NP
+204552	NP
+204555	PP
+204563	NP
+204565	NP
 NP
 NP
-204564	NP
+204579	NP
+NP
 PP
+204587	PP
+204592	PP
+NP
+204596	NP
+204601	PP
 NP
 NP
-VP
-204576	NP
+204616	PP
 NP
-204581	PP
-NP
-204585	NP
-204602	NP
-204611	NP
-NP
-204616	NP
 204624	NP
-204627	NP
-204631	PP
-NP
-204636	PP
-204645	NP
-NP
+204628	NP
+204630	PP
+204639	PP
+204641	NP
+204644	NP
 204648	PP
+204652	NP
+204663	NP
 NP
-204661	NP
-204669	PP
+204672	VP
+204674	NP
+NP
+204682	PP
 NP
 NP
-204679	NP
+204690	PP
+NP
+204704	NP
+204706	NP
 NP
 NP
-204683	NP
+204710	PP
 NP
-204686	PP
-204688	PP
-204702	NP
+204726	NP
 NP
-204710	NP
-204717	PP
+204730	PP
+NP
+NP
 NP
 PP
-NP
-204727	PP
-204732	PP
-204735	PP
-NP
-NP
-NP
+204737	PP
 NP
 204741	NP
 NP
-204744	PP
-NP
-NP
-NP
-204750	NP
-204752	NP
-NP
-NP
-204757	NP
-NP
-204766	NP
+204760	NP
+204767	NP
+204772	PP
+204778	NP
 PP
 NP
+204786	NP
 NP
-204772	NP
 PP
+204790	NP
+204792	NP
+NP
+204796	NP
 NP
 NP
-204777	NP
+204800	NP
 NP
-204782	NP
-NP
-204787	NP
-204798	NP
-204802	NP
 204805	NP
-204812	PP
+204808	NP
 NP
-204816	NP
-NP
-204820	NP
-204824	NP
-204826	PP
-204829	PP
-NP
-204833	NP
-204844	NP
-NP
-204849	NP
+PP
 NP
 NP
-204853	NP
-204855	NP
 NP
-204860	NP
-204862	NP
-204864	NP
-204874	NP
+204817	PP
+204826	NP
+NP
+204832	AdjP
 NP
 NP
-204884	NP
-204886	NP
+204838	NP
+204842	PP
 NP
-204891	PP
 NP
-204895	NP
+204846	NP
 NP
+204852	PP
+204854	PP
+204860	PP
+PP
+NP
+204870	NP
+204875	NP
+NP
+NP
+204879	NP
+NP
+204887	NP
+204889	PP
+204891	NP
+204894	NP
+204896	NP
 204899	NP
-204901	PP
+204903	PP
+PP
 NP
-204904	NP
-204906	PP
 NP
-204930	NP
-204932	NP
-204935	NP
 NP
-204944	NP
+204912	PP
+NP
+204915	NP
+204918	NP
+204921	NP
+NP
+204925	PP
+NP
+204934	NP
 204946	NP
-204952	PP
-NP
-PP
 NP
 NP
+204950	PP
 NP
-204960	NP
-NP
-NP
-204964	PP
-NP
-204967	AdjP
+204955	NP
+204964	NP
+204968	NP
 204973	PP
-NP
-NP
-204982	NP
-NP
-204986	PP
-204992	PP
+204975	NP
+204984	NP
 NP
 NP
 NP
-204997	NP
-205007	PP
+204990	NP
+204997	PP
+205000	NP
+NP
+NP
+205004	PP
+NP
+NP
+205009	PP
 NP
 NP
 NP
-205019	PP
+205014	NP
+205016	NP
 NP
-205024	NP
+205023	NP
+205028	NP
+205043	PP
 NP
+NP
+205061	NP
+205065	PP
+NP
+205070	NP
+205072	NP
+205074	PP
+205076	NP
+205080	PP
+205089	PP
+NP
+205097	NP
+205100	PP
+205102	NP
+205106	PP
+205110	NP
 PP
-NP
+205116	NP
+205119	NP
 PP
+205122	NP
+205124	NP
 NP
-205032	PP
-NP
-205039	PP
-NP
-205043	NP
-205047	NP
-NP
-205050	PP
+205138	NP
+205145	NP
 NP
 NP
-205059	PP
-NP
-NP
-205064	PP
-205068	PP
-NP
-NP
-205075	NP
-PP
-205080	NP
-NP
-NP
-205084	NP
-205088	NP
-NP
-205092	NP
-NP
-205095	PP
-205100	NP
-NP
-NP
-205104	PP
-205108	PP
-NP
-NP
-205117	NP
-NP
-205130	NP
-NP
-NP
-PP
-NP
-205139	NP
-205142	NP
-NP
-205146	PP
-NP
-NP
-205152	PP
-NP
-NP
-205157	NP
-205161	NP
-205163	NP
 NP
 205167	NP
-205170	NP
+205169	NP
+205171	NP
 NP
-205173	PP
-NP
-205190	PP
-NP
-205194	NP
-205198	NP
-205200	NP
-NP
-205204	NP
-205206	NP
-NP
-PP
-PP
-NP
-205213	NP
-NP
-205219	NP
-205244	NP
-NP
-205247	PP
-205249	NP
-205251	NP
-205253	NP
-205259	NP
-205261	NP
-NP
-NP
-205265	PP
-205267	PP
-205269	NP
-205274	PP
-NP
-205282	NP
 NP
 PP
 NP
-205288	NP
+205187	NP
+205197	NP
+NP
+NP
+205205	NP
+205211	PP
+205217	NP
+PP
+NP
+205224	NP
+205227	NP
+205234	PP
+NP
+205237	NP
+205243	PP
+NP
+NP
 NP
 PP
 NP
-205293	NP
-205297	NP
+NP
+205252	NP
+NP
+NP
 PP
 NP
-205305	NP
-205307	NP
-205310	NP
-205314	NP
-PP
+205260	PP
+205262	NP
+205268	NP
 NP
-205325	NP
-205331	NP
+NP
+NP
+205276	PP
+NP
+205282	PP
+NP
+NP
+NP
+205290	NP
+205293	PP
+NP
+205298	NP
+205302	NP
+NP
+NP
+NP
+205311	PP
+205314	PP
+NP
+205323	NP
+205333	PP
+NP
 NP
 205338	NP
-NP
-PP
+205340	PP
+205343	NP
 205345	NP
-205349	NP
 NP
 205353	NP
-205355	NP
-205359	NP
+NP
+205364	NP
+205378	PP
+205385	PP
+NP
+205388	PP
 NP
 NP
+205396	NP
 NP
-205365	PP
-205369	NP
-NP
-205372	NP
-205381	NP
-NP
-205387	NP
+205402	PP
 PP
-NP
-NP
-205393	NP
-PP
-NP
-NP
-NP
-205400	NP
-205402	NP
+205405	NP
 205408	NP
-205418	NP
-205421	NP
+205410	NP
+205414	NP
 NP
-205425	NP
-205428	NP
+205420	NP
+205423	NP
+205425	PP
 NP
+205432	NP
+205435	NP
+205448	NP
+205459	NP
+205471	NP
 PP
 NP
+205478	PP
 NP
 NP
-205437	NP
-205439	NP
-205445	NP
-205448	PP
+205485	NP
 NP
-205452	NP
-205456	NP
-205468	NP
+205488	NP
 NP
-205471	PP
-NP
-NP
-205478	NP
-NP
-205483	NP
+205491	PP
 205493	PP
 NP
 NP
+205500	NP
 NP
-205503	NP
-205507	NP
-205509	NP
+205508	NP
+NP
+NP
 205512	NP
-205517	PP
+PP
+NP
+205516	PP
 NP
 NP
-205522	PP
+205523	NP
+205529	PP
+205531	PP
 NP
 NP
-NP
-205527	NP
-205530	NP
-NP
-NP
-205534	NP
 205536	PP
 NP
 NP
-205541	NP
-NP
-NP
+205541	PP
 205546	NP
-205548	NP
-205551	NP
-205553	PP
-205555	VP
-205558	NP
-205564	NP
+NP
+205550	PP
+205552	NP
+205555	PP
 NP
 NP
-205569	NP
-205574	NP
+205567	NP
+205571	NP
 NP
+205576	PP
+205581	NP
+205589	NP
 NP
-205580	PP
+205593	PP
 NP
-NP
-205585	NP
-NP
-NP
-205590	NP
-NP
-205597	NP
-205599	NP
-NP
+205598	VP
 NP
 205603	NP
+PP
+205616	NP
 NP
-205611	NP
-NP
-205614	NP
-NP
-205617	NP
-NP
-205621	NP
+205627	PP
 NP
 NP
-205625	NP
-205627	NP
-205631	NP
-NP
-205634	NP
-205638	PP
-NP
-205643	PP
-NP
-205650	PP
 NP
 NP
-205654	NP
+NP
+205637	NP
+NP
+NP
+205642	PP
+NP
+205646	PP
+205649	PP
+205656	NP
+NP
 205661	NP
+205663	PP
 NP
+205670	NP
+205672	NP
+205675	PP
 NP
+205678	NP
 205680	PP
 NP
+205694	NP
+205698	PP
 NP
-205684	NP
-PP
-205687	NP
-205692	NP
+205702	PP
+205704	PP
 NP
+205715	NP
+205717	NP
+205719	NP
+205721	NP
+205723	PP
+205726	PP
+205728	NP
+205731	PP
 NP
-205696	PP
-NP
-205703	PP
-205712	PP
-NP
-205720	NP
-205723	NP
-NP
-PP
-205731	NP
 NP
 PP
-205742	NP
 NP
-205745	PP
-NP
-NP
-205749	NP
-205751	NP
-NP
-NP
-NP
-205759	NP
-205761	PP
-NP
-205764	NP
-NP
-205772	PP
-NP
-205778	NP
-205782	NP
-205785	PP
-NP
-205790	PP
-205792	PP
-NP
-NP
-205797	PP
 PP
-205802	PP
+205738	NP
+NP
+205741	NP
+NP
+205755	NP
+NP
 PP
+205761	NP
+205775	NP
+PP
+205788	NP
+205799	NP
+205803	NP
+205805	NP
+205808	NP
 NP
-205806	NP
-205820	PP
 NP
-NP
-205830	NP
+205813	PP
+PP
+PP
+205817	NP
+205820	NP
+205823	NP
+205827	NP
 NP
 NP
 NP
 205835	PP
-205840	PP
-205847	PP
-205852	VP
-PP
+NP
 PP
 NP
 NP
-205859	PP
-205866	PP
+205841	PP
 NP
 NP
-205870	PP
+205848	NP
+205851	PP
+205853	NP
+205856	NP
+205863	NP
+205871	NP
 NP
-205875	AdvP
+PP
 205877	NP
-NP
-NP
-205882	NP
-NP
-NP
-205888	PP
-NP
-205892	PP
-NP
-NP
-205896	NP
-205899	PP
-205901	NP
-NP
-205904	NP
 PP
-205907	NP
 NP
-205910	NP
-205913	AdvP
+205882	PP
+205886	NP
+205889	NP
 NP
 NP
-205934	PP
+205895	NP
 NP
-205937	PP
 NP
-205941	PP
+NP
+205906	NP
+NP
+PP
+205912	NP
+205914	NP
+205917	NP
+205919	NP
+NP
+NP
+205923	NP
+205929	NP
+NP
+205933	PP
+NP
+205938	PP
+205940	NP
+NP
 NP
 205945	PP
 NP
-205950	PP
-205952	NP
+205949	NP
 NP
-205965	PP
 NP
-205970	NP
+NP
+205954	VP
+205959	NP
+205961	NP
+NP
 PP
-205974	PP
 NP
+205966	NP
+205970	PP
+NP
+205974	NP
+205976	NP
 PP
+205982	NP
 NP
+205987	PP
 NP
-NP
-NP
-NP
-205983	NP
-NP
-NP
-VP
-205990	NP
 205993	NP
-205996	PP
-PP
-NP
-206001	PP
 PP
 NP
 NP
+206002	NP
+206007	NP
+206009	PP
 NP
+206013	NP
+NP
+206016	NP
+206019	NP
+206032	NP
+206034	NP
 PP
 NP
-206012	PP
-NP
-206017	PP
-NP
-NP
-NP
 PP
-NP
-206029	PP
-NP
 206040	PP
 NP
+206045	NP
+206047	NP
 NP
-206045	PP
-NP
-NP
-206050	PP
-NP
-NP
-206054	NP
-NP
-NP
-NP
+206050	NP
+206053	NP
+206056	NP
 206060	PP
-206068	PP
-206077	NP
-NP
-206081	PP
-206087	NP
-NP
-206093	NP
+206064	NP
+206067	PP
+206071	NP
 NP
 PP
-206110	PP
+206076	NP
 NP
+206079	PP
+206082	PP
+206084	NP
 NP
-206117	PP
+206090	PP
+206094	NP
+206096	NP
+206119	NP
+206127	NP
 NP
+206132	PP
 NP
-206124	NP
-NP
-NP
-NP
-206129	PP
-NP
-206133	AdvP
-206135	NP
-NP
-206141	NP
-206143	NP
-NP
+206138	PP
 NP
 206149	PP
 NP
-NP
-NP
-206155	PP
-NP
-NP
-NP
-NP
-206161	PP
-NP
-NP
-206174	NP
-206204	PP
-206209	NP
-206211	NP
 PP
-206215	PP
+206154	NP
+206157	NP
 NP
-206218	NP
-PP
-206225	NP
-PP
-206229	NP
-206231	PP
+206171	NP
 NP
+206179	NP
+206186	NP
 NP
+206190	PP
 NP
-206245	AdjP
-206248	PP
-206253	NP
+206200	NP
+NP
+206203	PP
+NP
+206206	NP
+NP
+206212	PP
+NP
+206217	NP
+206219	NP
+206224	NP
+NP
+206237	PP
+NP
+206256	NP
 NP
 PP
-NP
-206259	NP
-NP
-PP
-206266	PP
-NP
-AdjP
-NP
-NP
-NP
-206273	NP
 PP
 NP
 NP
+206264	NP
+206266	NP
+206268	PP
 NP
-206281	PP
-206283	NP
+PP
 NP
+206276	NP
+206286	NP
+206292	NP
+NP
+206295	PP
+206297	PP
+NP
+206302	NP
+NP
+206306	PP
+NP
+NP
+206310	NP
+206312	NP
+206314	NP
+NP
+206326	PP
+206328	NP
 NP
 PP
 NP
 NP
 NP
-206295	NP
-206297	NP
-206299	NP
-PP
-206316	NP
-NP
-206320	NP
-206322	PP
-NP
-206326	NP
-206347	NP
 NP
 NP
-206357	NP
-206361	NP
+NP
+206339	NP
+206343	PP
+206345	NP
+NP
+206349	NP
+NP
 PP
 NP
+206355	NP
 NP
-206368	NP
+NP
+206359	PP
+NP
+206363	NP
+NP
+206367	NP
+NP
+206372	PP
+NP
+206375	NP
+NP
 PP
-206371	NP
+NP
+206382	PP
+206384	NP
 NP
 NP
-206387	PP
-206390	NP
+206388	NP
+NP
 206392	PP
-206394	PP
-206403	PP
+PP
 NP
-206410	PP
-206412	PP
-206417	PP
-206419	NP
-206421	PP
-206423	PP
+206397	NP
 NP
+206401	NP
+206405	NP
+206407	NP
+PP
+NP
+NP
+206415	NP
+206420	NP
+AdjP
+PP
 206429	NP
-206432	PP
-NP
-206436	PP
 NP
 NP
-206440	NP
-206444	NP
 NP
-206447	NP
-206451	PP
-206458	NP
+206442	NP
+206446	PP
+NP
+NP
+206452	PP
+NP
+NP
+206457	PP
+NP
+PP
 206463	PP
-206467	PP
 NP
+206468	NP
+206470	NP
+PP
+206474	PP
+206478	PP
 NP
-206473	NP
-206476	NP
-206478	NP
-206483	NP
-206487	NP
-206490	PP
+206484	NP
 NP
-206500	NP
 NP
 PP
-206505	PP
-206509	NP
-206513	NP
+206491	NP
+206494	PP
+NP
+206499	PP
 NP
 NP
+206503	PP
+NP
+206508	PP
+NP
+206511	NP
+206515	PP
 206517	NP
-206520	NP
-NP
-206524	PP
-NP
-NP
-206528	NP
-NP
+206519	NP
 PP
 NP
-NP
-206534	NP
-206542	NP
-206548	NP
-NP
-206555	PP
-206568	NP
-PP
-206572	PP
+206524	NP
 NP
 NP
+206533	NP
+206536	NP
 NP
-206577	NP
+NP
+206543	PP
+NP
+206547	PP
 NP
 NP
-206584	VP
-206588	NP
-PP
-206592	NP
+NP
+206555	NP
+NP
+206558	PP
+NP
+206566	NP
+206569	PP
+206574	NP
+206578	NP
+206589	NP
+NP
+206593	NP
+NP
 206596	PP
 NP
 206599	NP
+206607	NP
 NP
 PP
 NP
-NP
-206612	AdjP
-NP
-206628	NP
-NP
-206632	NP
-NP
-NP
-NP
-206640	PP
-NP
-NP
-206645	NP
-206654	NP
-206665	PP
-206668	NP
-206674	NP
 PP
-206687	NP
-206692	NP
-206694	NP
 NP
-206702	NP
-206705	NP
-206708	PP
-206712	NP
-206723	NP
-206735	PP
+206614	PP
+206617	PP
+206620	NP
+206622	PP
 NP
-206739	NP
+206627	PP
 NP
+NP
+VP
+206639	NP
+206644	PP
+NP
+NP
+NP
+PP
+NP
+206667	NP
+NP
+NP
+206673	NP
+206678	PP
+206683	NP
+NP
+NP
+206688	NP
+206690	PP
+206703	NP
+NP
+PP
+206707	NP
+NP
+NP
+NP
+206717	NP
+NP
+206721	PP
+NP
+NP
+NP
+NP
+206728	PP
+NP
+206732	PP
+NP
+NP
+206737	PP
+206741	NP
 206743	NP
+206750	PP
+206756	NP
+206761	NP
+206772	NP
+206774	PP
 NP
-206747	NP
+206782	VP
 NP
-206750	NP
 NP
 PP
-206755	NP
-206764	PP
-NP
-NP
-NP
-206769	NP
-206774	NP
-206780	PP
-NP
-206783	NP
 NP
 206790	NP
-206797	NP
-206801	NP
-NP
-206807	NP
-NP
-NP
-206816	NP
-206819	PP
-NP
-NP
+206793	NP
+206796	NP
+206802	NP
+206809	AdjP
+206815	PP
 NP
 206825	NP
+PP
+206845	PP
 NP
-206829	NP
 NP
-206832	PP
-206835	NP
-NP
-206839	PP
-206844	NP
-NP
-206847	PP
-206852	NP
-NP
-206857	PP
-206859	NP
+206850	AdvP
+206852	PP
+206859	PP
 NP
 NP
 PP
-206864	PP
+NP
+NP
 206866	NP
-206871	PP
+206870	PP
+206889	NP
 NP
-206875	NP
-206878	PP
+206902	PP
 NP
-NP
-NP
-206887	PP
-NP
+206927	NP
+206930	PP
 NP
 NP
-206892	NP
+206936	PP
 NP
-206899	NP
-206902	NP
+206948	NP
+206954	PP
+206958	PP
 NP
-206907	PP
+206963	PP
+206969	PP
 PP
-206913	PP
-206915	PP
-206918	NP
-206921	NP
-NP
-206924	NP
-NP
-206932	PP
-NP
-NP
-NP
-206941	PP
-NP
-NP
-NP
-206949	PP
-NP
-NP
-206953	PP
-206957	NP
-206960	NP
-NP
-206965	NP
-206968	NP
-NP
-206971	PP
-206973	NP
-NP
-206976	NP
-206983	PP
-206985	NP
-NP
-NP
-NP
-206990	NP
+206973	PP
+206982	NP
 NP
 PP
 NP
+206989	NP
+206993	PP
 NP
-206998	NP
+206996	PP
+207003	PP
 NP
-PP
-NP
-NP
-207009	NP
-NP
+207006	NP
 207013	NP
-207015	PP
-207017	PP
-NP
-PP
-207021	NP
-NP
-207025	PP
+207016	NP
+207020	NP
 NP
 NP
-207032	NP
+207024	NP
+207027	NP
+NP
+207031	NP
 NP
 207038	PP
-207046	NP
-207057	NP
 NP
 NP
-207064	PP
+207055	NP
+207059	NP
 NP
 NP
-NP
-NP
-207070	NP
-207073	NP
-NP
-NP
-PP
-NP
-NP
+207065	PP
+207072	PP
 NP
 NP
 207082	NP
-207084	PP
+207084	NP
 NP
-PP
+207093	NP
 NP
-NP
-207094	PP
-NP
-NP
-207099	AdjP
-207101	NP
-207103	PP
-NP
-PP
+207103	NP
 NP
 NP
-207113	PP
+207108	PP
 NP
-NP
-NP
+207111	NP
 207118	NP
 NP
-207122	AdjP
-207127	NP
+207122	PP
 NP
-207130	PP
 NP
+207131	NP
 207133	PP
+207140	NP
+207149	PP
 NP
-207142	PP
+207153	NP
 NP
+207156	PP
+207165	NP
 NP
-207160	PP
+207168	PP
 NP
-NP
-NP
-AdjP
-207171	NP
-NP
-NP
-NP
-207176	NP
-207179	NP
+207184	PP
 NP
 NP
-NP
-NP
-207187	NP
 207189	NP
-207191	NP
-NP
-207203	NP
+207194	NP
+207196	NP
 NP
 207206	NP
 NP
-207221	NP
+NP
+207212	PP
+207214	NP
+207217	NP
+NP
+PP
 NP
 207226	NP
-NP
 207230	NP
-NP
-PP
-NP
-NP
-207237	NP
-NP
-207240	NP
-NP
+207243	VP
 207245	NP
 NP
-NP
-NP
-NP
-PP
-207252	NP
+207248	NP
 207256	PP
+207258	NP
+NP
+207261	NP
 NP
 NP
-207260	NP
-NP
-207263	PP
-NP
-207267	PP
-NP
-207271	PP
+207265	NP
+207267	NP
+207273	NP
 207275	NP
 NP
+NP
 PP
+207280	NP
+PP
+207284	NP
+207286	NP
+PP
+207296	PP
 NP
-207284	PP
-207292	PP
-207298	PP
+207301	PP
 NP
-207302	NP
+NP
+207305	NP
+NP
 207308	PP
 NP
-207313	NP
-207317	PP
-207320	NP
-207326	PP
-207334	PP
+207314	NP
 NP
-207338	NP
-207345	PP
-NP
-NP
-NP
-207366	NP
-207369	PP
 PP
-207381	NP
+207318	NP
 NP
-NP
-NP
-NP
-207401	NP
-207405	PP
+207321	NP
+207328	NP
 PP
-PP
-207421	NP
 NP
-207427	AdvP
-207433	AdvP
+207335	NP
+NP
+207339	NP
+207342	NP
+207344	NP
+PP
+NP
+207351	PP
+NP
+207354	PP
+NP
+207357	NP
+NP
+207363	NP
+207365	NP
+207371	NP
+207392	NP
+PP
+207397	PP
+NP
+NP
+NP
+PP
+207405	NP
+NP
+NP
+207415	NP
+207418	NP
+PP
+207425	NP
+PP
+NP
+207431	NP
+PP
+NP
+207435	NP
 207437	NP
 NP
 NP
 NP
-207442	NP
-207446	NP
 NP
+207445	PP
+207449	NP
 207452	NP
-207454	NP
-207457	NP
-207464	NP
+207458	NP
 207467	NP
-207471	NP
 NP
-207479	NP
-207498	NP
+NP
+207472	PP
+NP
+207478	NP
+207495	PP
+207497	PP
+NP
+NP
+NP
 NP
 207503	NP
+207505	NP
+207511	NP
+NP
+207515	NP
+207517	PP
+NP
+207521	PP
+207526	NP
+PP
 NP
 NP
-207510	NP
-207514	PP
+207531	PP
 NP
+207534	NP
 NP
-207519	PP
+PP
 NP
-207523	PP
+207541	PP
 NP
-207528	NP
-207532	PP
-207539	PP
+207544	PP
 207546	PP
 NP
+207549	PP
+NP
 207552	PP
-NP
-207557	NP
-207560	NP
-NP
-NP
+207555	NP
+207560	PP
 207564	NP
 NP
+207570	PP
 NP
-207568	NP
-207573	PP
-NP
-NP
-207579	NP
-207596	NP
-207601	NP
+207590	NP
 NP
 NP
+207604	NP
 NP
-207606	NP
-PP
-NP
-NP
-PP
-207613	NP
-207615	NP
 NP
 207620	PP
 NP
+207629	PP
+207637	PP
+207648	NP
+207652	NP
+207657	NP
+207663	NP
 NP
-207628	NP
-207634	NP
-NP
-207638	NP
+207667	NP
 NP
 NP
-207645	NP
-207647	PP
-NP
-NP
-207658	NP
-207661	NP
 207677	NP
-207679	PP
-NP
-207684	PP
-NP
-207687	PP
-NP
+207686	NP
 NP
 207691	NP
-207694	NP
-207698	PP
+207701	PP
+207705	NP
+207715	NP
 PP
-207702	NP
-207705	PP
-NP
-NP
-NP
-207714	NP
-NP
-NP
-NP
-207722	PP
-NP
-NP
-207729	NP
-NP
-207736	NP
-207743	NP
-NP
-NP
-207748	PP
-NP
-NP
-NP
-207756	NP
-NP
-NP
-207763	PP
-NP
-NP
+207726	NP
 PP
+207736	PP
+NP
+NP
+NP
+207741	NP
+207745	PP
+207756	PP
+207761	NP
+NP
+207766	PP
 207770	NP
-207772	NP
-PP
 NP
-207776	PP
-207783	PP
-NP
-207787	PP
+207776	NP
+207778	PP
+207791	PP
 NP
 NP
-207792	PP
-207795	NP
-207797	PP
+NP
+207796	NP
 NP
 207802	NP
+207806	NP
 NP
-207807	NP
+207813	NP
+207815	NP
 NP
 NP
-NP
-NP
-207817	NP
 NP
 207820	NP
+207827	PP
 NP
 NP
 NP
-207826	NP
+207834	PP
 NP
-207829	NP
-207832	NP
+207839	NP
+207842	NP
+207848	NP
 NP
-NP
-NP
-207838	NP
-NP
-NP
-NP
-207846	NP
-NP
-207849	NP
 207851	NP
-207858	NP
-207864	PP
+NP
+207857	PP
+207863	PP
+207870	NP
+NP
+207873	NP
+NP
+207876	NP
+NP
+207888	NP
+NP
+207891	NP
+207894	PP
+207901	NP
+NP
+207904	NP
+NP
+207909	NP
 NP
 NP
+207914	NP
+207922	PP
 NP
-207869	NP
+207927	PP
 NP
+207931	PP
+207934	PP
 NP
+207937	NP
 NP
+207940	PP
 NP
-207876	PP
-NP
-NP
-NP
-NP
-207883	NP
-207887	PP
-NP
-NP
-NP
-207893	NP
-207895	NP
-NP
-NP
-207899	NP
-207902	NP
 PP
 NP
+207949	PP
+207954	PP
 NP
 NP
+207964	PP
+207970	PP
 NP
-207913	NP
+207975	NP
+207985	PP
 NP
-NP
-NP
-207918	PP
-NP
-207925	PP
-NP
-NP
-207935	NP
-NP
-207940	NP
-NP
-NP
-NP
-207945	NP
-207948	NP
-NP
-207952	NP
-207961	NP
-NP
-NP
-NP
-207966	PP
-NP
-207969	PP
-NP
-207976	PP
-NP
-207981	NP
-PP
-NP
-207989	PP
-NP
-NP
-NP
-207994	NP
+207990	NP
+207994	PP
 207997	NP
+208002	NP
+208005	PP
+208014	PP
+NP
+208020	NP
+208032	PP
+NP
+NP
+NP
+208045	PP
+208047	PP
+208049	PP
+208061	PP
+208064	NP
+PP
 PP
 NP
 NP
-208004	PP
+208074	NP
+NP
+208077	NP
 NP
 NP
-NP
-208010	NP
-208012	NP
-NP
-NP
-208016	NP
-208024	PP
-NP
-NP
-208028	NP
-NP
-NP
-208035	PP
-NP
-NP
-208043	NP
-NP
-NP
-208050	PP
-NP
-NP
-208055	PP
-NP
-NP
-208065	NP
-NP
-208068	NP
-208071	NP
-NP
-NP
-NP
-NP
-208079	NP
-NP
-208086	NP
-NP
-208089	PP
-208094	NP
-208097	PP
-NP
-208108	PP
-NP
-208111	PP
-NP
-NP
-208118	NP
+208081	NP
+208083	NP
 PP
 NP
+208115	NP
 NP
+208119	NP
+NP
+208123	NP
+208129	NP
 PP
-NP
-NP
-208126	NP
-NP
-NP
-208131	NP
 NP
 208135	NP
-208138	PP
-NP
-208141	PP
-NP
-208144	PP
-NP
-208148	NP
-208151	PP
-208153	PP
-NP
-NP
-NP
+208143	NP
+208147	NP
+208149	PP
+208154	PP
 NP
 208160	NP
-208172	NP
-208174	PP
-208178	NP
-208181	NP
-208183	NP
+208162	PP
+208170	PP
+208178	PP
+NP
+208185	PP
+NP
+208191	NP
+208196	NP
 NP
 NP
-PP
-NP
-208190	NP
-208192	PP
-208201	PP
+208200	NP
 NP
 NP
-208208	PP
-NP
-NP
-NP
-208214	NP
-PP
-NP
-208225	PP
-NP
-208229	NP
+208204	NP
 NP
 PP
-208234	NP
-208237	NP
 NP
-208241	NP
+208210	NP
+208217	PP
 NP
-208244	NP
-208251	NP
-208254	NP
-208257	PP
+NP
+NP
+208224	NP
+208230	PP
+208232	PP
+208234	PP
+208240	NP
+208243	PP
+NP
+208247	PP
+NP
+208250	PP
+NP
+208257	NP
+208270	PP
+208285	PP
+NP
+208302	NP
+208306	PP
+208312	NP
+NP
+NP
+208319	NP
 PP
 NP
-PP
-208263	NP
-208267	PP
-NP
-208272	NP
-208275	PP
-208278	NP
-NP
-208285	NP
-208289	NP
-208291	NP
-208296	NP
-208299	PP
-NP
-208304	NP
-208325	NP
-208327	NP
-208337	NP
-208339	PP
-NP
-208342	NP
-NP
-208345	NP
-NP
+208330	NP
+208338	NP
 208348	PP
 NP
-208354	NP
+208353	NP
+208356	NP
+208359	NP
+208364	NP
 NP
 NP
-208358	NP
-208366	NP
+208368	PP
 NP
-208369	NP
-NP
-NP
+208372	PP
 208375	NP
-AdjP
-PP
-208382	NP
-208384	PP
+208379	PP
 NP
-208389	PP
+208383	NP
+208385	NP
 NP
 PP
-208394	NP
-208397	NP
-208399	PP
+NP
+208396	NP
+NP
+208400	NP
+208403	PP
+NP
+NP
+NP
+NP
+NP
+208411	NP
+NP
+208415	NP
+208420	PP
+208425	PP
+208427	NP
+NP
+208435	PP
+NP
+NP
+208441	PP
+NP
+208446	NP
+208451	PP
+NP
+208454	NP
+208456	PP
+208460	NP
+NP
+208463	NP
+208465	PP
+NP
+208470	NP
+208474	PP
 NP
 PP
-208409	NP
-208412	NP
-PP
 NP
-208417	PP
-NP
-208422	NP
-NP
-208425	NP
-NP
-208428	PP
-208430	PP
-NP
-NP
-208436	PP
-NP
-208445	PP
-NP
-208451	NP
-208462	NP
-208472	PP
-PP
-NP
-208481	PP
-NP
-208485	PP
-NP
-208489	PP
-NP
-208493	NP
+208495	NP
+208498	NP
 208505	NP
-208507	NP
-208514	PP
-208519	PP
+208508	NP
+208524	NP
+208527	PP
+208534	NP
+208536	NP
+208541	PP
 NP
-208522	NP
 NP
-208525	PP
-NP
-208531	NP
-208536	PP
 NP
 PP
-208542	NP
 NP
 NP
 NP
-208547	PP
+208553	PP
 NP
+208558	PP
 NP
-NP
-208554	NP
-208563	NP
-NP
-NP
-NP
-208573	NP
+208561	NP
 PP
+NP
+208565	NP
+208567	PP
+NP
+208571	NP
 208577	PP
+208586	PP
 NP
+208589	NP
+208598	PP
+208602	PP
 NP
-208581	NP
+208605	PP
 NP
+VP
+208616	NP
+PP
+208625	NP
+208632	NP
+208634	NP
 NP
-208587	NP
-208596	PP
-NP
-208599	NP
+208638	NP
+208646	NP
 NP
 NP
 PP
 NP
+208655	NP
+208660	NP
+208672	PP
 NP
-NP
-208609	NP
-208611	NP
-208622	NP
-208624	NP
-208627	PP
-208629	AdvP
-208631	NP
+208677	PP
 NP
 NP
 NP
-208637	NP
 NP
+208690	PP
+NP
+208693	PP
+208701	NP
+NP
+NP
+208705	PP
+NP
+208710	NP
+PP
 NP
 PP
 NP
 NP
-208646	PP
-208649	NP
+208718	PP
 NP
+208728	PP
 NP
-208654	NP
-208656	NP
-208659	PP
-208666	NP
-208669	NP
-208676	PP
+208731	PP
 NP
-208679	NP
-208682	PP
-NP
-208686	NP
-208689	NP
-208694	NP
-208696	NP
-208702	NP
-208706	NP
-NP
-NP
-NP
-208713	NP
-208715	NP
-208722	PP
-208726	NP
-208731	NP
-208736	NP
-208741	NP
 208743	PP
 NP
-PP
+208756	NP
+208768	PP
 NP
-208749	PP
-208753	PP
-NP
-PP
-NP
-208760	NP
-PP
-208763	NP
-208765	NP
-208769	NP
-208771	NP
-208775	NP
-208779	NP
-208781	PP
+208775	PP
 NP
 NP
-208787	NP
-PP
+208782	PP
 NP
+208788	PP
+208799	PP
 NP
-208796	NP
-NP
-NP
-208809	NP
-NP
-208818	PP
-208827	PP
-NP
-NP
-208831	NP
-208849	NP
-NP
-NP
-208854	NP
-208860	NP
-208862	NP
-208864	PP
-NP
-208867	PP
-NP
-NP
-NP
-NP
-208874	NP
-208877	NP
-208879	NP
-NP
-208887	NP
 NP
 PP
 NP
+208808	NP
+208821	PP
 NP
+208826	NP
+208834	NP
+PP
+NP
+208838	PP
+NP
+208841	NP
+PP
+208845	PP
+NP
+208850	NP
+NP
+NP
+208860	PP
+NP
+NP
+208869	NP
+NP
+208876	NP
+208885	PP
+208890	NP
 208895	NP
 208897	PP
 NP
 NP
-NP
 208903	PP
 NP
-208910	NP
-208912	PP
-208914	NP
-208918	PP
+208907	NP
+NP
+PP
+208916	PP
+NP
+208920	NP
+PP
+NP
+208924	PP
+NP
+208928	NP
+NP
+208935	NP
 NP
 NP
-208925	NP
-208940	NP
+208943	NP
 NP
 NP
-208945	NP
 NP
-208949	PP
+208949	NP
+208952	PP
 NP
-208953	NP
-208963	NP
-208969	PP
+208956	NP
+208958	PP
 NP
+NP
+PP
+208964	PP
+NP
+208968	NP
+208970	NP
 208974	NP
-208977	PP
 NP
-208981	NP
-208985	NP
-NP
+208978	NP
 208992	NP
-208995	NP
-208997	PP
+209007	NP
 NP
-209000	NP
+209014	NP
 NP
-209003	NP
-209009	NP
-NP
-209012	NP
-209019	NP
-NP
-209022	NP
-209024	NP
-NP
-209029	NP
-PP
-209034	NP
-209036	PP
-NP
-209040	PP
+209020	PP
+209024	PP
 NP
 NP
-209045	NP
-209050	NP
-PP
+209031	PP
 NP
-209066	NP
-209075	NP
+209036	NP
 NP
-209078	NP
+209042	NP
 NP
-209082	NP
-209084	NP
+209046	NP
+209049	NP
+209059	PP
+209064	NP
+209068	NP
 NP
-209088	NP
-209099	NP
+209073	PP
 NP
-209107	NP
-PP
+NP
+NP
+209094	NP
+209109	NP
+NP
 NP
 209113	NP
-209118	PP
+209115	NP
+PP
+209121	NP
+209124	NP
 NP
 NP
+209132	VP
 NP
-209126	PP
-209134	NP
-209139	PP
-209149	NP
-NP
-NP
-NP
-209154	NP
-209157	NP
+209142	NP
+209147	NP
+209151	NP
+209173	PP
 NP
 NP
+209179	NP
 NP
-209162	NP
-209169	PP
-209174	PP
+209187	PP
 NP
+209190	NP
+209201	NP
+209205	NP
 NP
-NP
-209184	PP
-NP
-NP
-NP
-209189	PP
-NP
-NP
-NP
-209196	NP
 PP
 NP
 NP
+209214	NP
+NP
+209217	NP
+NP
+209220	NP
+209227	NP
+NP
+209230	PP
+209233	PP
+209237	NP
+209246	PP
 NP
 NP
-209203	NP
-NP
-209208	NP
-209210	NP
+209250	PP
 NP
 NP
-209218	NP
-209225	NP
-NP
-209240	NP
+209254	PP
 NP
 NP
-NP
-209247	NP
-209258	NP
-NP
-NP
-PP
-NP
-209272	PP
+209262	NP
+209265	NP
+209267	NP
+209271	PP
 NP
 NP
 209276	NP
-NP
-209279	NP
-209285	NP
-NP
+209282	NP
+209291	NP
 NP
 NP
 NP
-209293	PP
+209302	PP
+209314	PP
 NP
-VP
-PP
-NP
-209301	PP
-NP
-VP
-PP
-NP
-209308	NP
-209315	NP
-PP
-209319	NP
-NP
-209324	PP
-209329	PP
-NP
-209336	NP
-NP
-209342	NP
-209350	AdvP
-209358	NP
-209360	PP
-209362	NP
-209366	NP
-NP
-209369	NP
-NP
-209372	NP
-209374	NP
-NP
-209379	PP
-209385	NP
-NP
-209393	NP
-NP
-209401	NP
-NP
-PP
-209411	NP
-NP
-209414	NP
-209416	NP
-209422	NP
-NP
-NP
-209427	NP
-NP
-NP
-209431	PP
-NP
-NP
-NP
+209324	NP
+209332	PP
+209340	NP
+209351	NP
 NP
 PP
 NP
 NP
-209443	PP
+PP
+NP
+209365	NP
+209371	NP
+209378	NP
+209382	NP
+NP
+209391	PP
+209393	PP
+209395	NP
+PP
+209409	NP
+NP
+209413	NP
+209423	NP
+209425	NP
+209428	NP
+209432	PP
+PP
+209435	NP
+NP
+209438	NP
+NP
+209445	NP
+NP
+209452	NP
 NP
 NP
-209450	NP
-209454	AdvP
-209459	NP
 NP
-NP
-209463	PP
-NP
-NP
-209467	PP
-NP
-209470	NP
-NP
+209458	NP
+209471	NP
 209474	NP
+209477	NP
+209496	NP
+209498	NP
 NP
-209479	PP
+209503	NP
 NP
+209506	NP
+209508	NP
+NP
+NP
+209514	NP
+NP
+NP
+NP
+209522	NP
+209525	NP
+209528	NP
+209547	PP
+NP
+NP
+NP
+209554	NP
+NP
+209561	NP
+NP
+209568	PP
 PP
-209484	PP
-209487	NP
 NP
-PP
-209491	NP
+209578	PP
 NP
-209494	NP
-209497	PP
-209499	NP
-209506	PP
-209509	NP
-209511	NP
-209523	NP
-209536	NP
-209542	PP
-NP
-209547	NP
-NP
-NP
-PP
-209556	NP
-209558	PP
-NP
-209565	NP
-209576	NP
 NP
 209582	NP
-NP
-209587	PP
-NP
-209591	NP
-209595	NP
+209586	NP
 PP
-209598	NP
+209589	NP
+209599	NP
+209603	NP
 NP
+209610	PP
+NP
+209616	NP
 NP
 PP
-209606	NP
-209610	NP
-209639	PP
-209644	NP
+209622	NP
+209624	NP
+209627	NP
 NP
+209632	NP
 NP
-209649	PP
+209637	NP
+NP
+209642	PP
+209646	NP
+PP
+NP
 209652	NP
-209654	PP
-NP
-209660	PP
-NP
-209671	NP
-NP
-209681	PP
+209664	NP
+PP
+PP
 NP
 209685	PP
 NP
-209690	NP
-NP
-209699	NP
-209702	NP
-NP
-209706	PP
-PP
-209709	PP
-209719	NP
-209722	PP
-NP
-209726	NP
 PP
 NP
-NP
-209732	NP
-NP
 PP
-209736	PP
-209746	PP
+209702	PP
 NP
 NP
-209754	NP
-PP
-209757	NP
-209759	NP
+209714	NP
+209718	PP
+209721	PP
+209723	NP
+209740	NP
 NP
-209773	PP
-NP
-209777	NP
-209779	NP
+209747	NP
+209756	PP
 NP
 NP
-209783	PP
+209780	NP
 NP
-209789	NP
-NP
-209798	PP
+209791	NP
 209800	NP
-209802	NP
-209805	NP
-NP
-209813	PP
-NP
-209817	NP
-209823	NP
+209807	PP
 NP
 NP
-PP
-209829	PP
+209814	PP
+209816	PP
+209822	NP
 NP
+209825	NP
 NP
-209833	PP
+209828	PP
 NP
-209837	PP
+209833	NP
+209837	NP
+209842	NP
 NP
-209841	NP
-209844	NP
-209852	PP
 209856	NP
 NP
-209859	NP
-209863	NP
+209859	PP
 NP
-209871	PP
+209864	NP
+NP
+209870	NP
+NP
 209873	PP
 NP
+209877	PP
 NP
-209877	NP
+PP
+209883	NP
+209888	PP
 NP
-209884	PP
+209897	NP
+PP
 NP
-NP
-NP
-209893	PP
 NP
 209904	PP
-209906	NP
-AdvP
-209909	PP
+NP
+209911	PP
+209915	NP
+209918	PP
 NP
 NP
 NP
-209917	PP
-209919	NP
+209923	PP
+209925	PP
 NP
-209923	NP
-PP
+209937	PP
 NP
-NP
-NP
-209931	NP
-NP
-PP
-NP
-NP
-209941	NP
-NP
-NP
-209945	PP
-209950	NP
-PP
-NP
-NP
-209956	PP
-NP
-NP
-NP
-209961	NP
-PP
-NP
-209967	NP
-209970	NP
+209958	PP
+209972	PP
 PP
 NP
 209977	NP
-NP
-209980	NP
-NP
-209988	PP
-209993	PP
-NP
-209997	NP
-209999	NP
-210002	PP
-NP
-NP
-NP
-210009	NP
-NP
-210017	PP
-210022	PP
-NP
-210026	NP
-210029	PP
-NP
-NP
-NP
-210036	NP
-NP
-NP
-210043	NP
-NP
+209981	PP
 PP
-PP
-210048	NP
+209987	PP
+NP
+209990	VP
 NP
 NP
+209996	PP
+NP
+209999	PP
+210006	PP
+NP
+210013	NP
 NP
 NP
-PP
-210060	NP
+210018	PP
 NP
-210064	NP
-PP
-210067	NP
+210033	PP
+210035	PP
+210037	PP
 PP
 NP
-210083	PP
-210086	PP
-NP
-210094	PP
+210047	NP
 NP
 NP
+NP
+210059	PP
+210061	NP
+210063	NP
+NP
+210067	PP
+210070	NP
+NP
+NP
+210075	NP
+210080	NP
+210083	NP
+210086	NP
+NP
+210092	NP
+210096	NP
+NP
+NP
+210100	PP
+210113	NP
+210121	NP
+210123	NP
+210125	PP
+210128	NP
 NP
 PP
-210101	NP
 NP
-NP
-210107	NP
-NP
-210112	PP
-NP
-210119	NP
-NP
-210126	PP
-NP
-210130	PP
 NP
 NP
 210135	NP
-210141	NP
-210144	NP
-NP
-210149	PP
-210151	NP
+210137	NP
+210145	PP
+210147	NP
 210153	NP
-210159	PP
-NP
-VP
-PP
-210166	PP
-NP
-VP
-PP
-210175	NP
-210177	PP
-PP
-NP
-PP
-NP
-210186	PP
 NP
 NP
-NP
-PP
-210193	VP
-210195	PP
-NP
-NP
-210200	PP
-NP
-210204	NP
-210211	PP
+210158	NP
+210160	NP
+210163	PP
+210170	NP
+210172	NP
 NP
 NP
-210217	PP
-210220	NP
-210223	PP
-210225	PP
-210227	PP
-210229	NP
+210176	NP
 NP
 NP
-210236	PP
+210184	NP
 NP
+NP
+210188	NP
+NP
+210197	NP
+NP
+210200	NP
+NP
+210216	NP
+210218	NP
+210224	PP
+210232	NP
+210234	NP
+210236	NP
+NP
+NP
+210240	NP
 NP
 210245	NP
 NP
-210253	NP
-210256	NP
-210258	NP
-210260	NP
-210267	NP
-210272	PP
+210251	NP
+210264	NP
+PP
+NP
+210268	PP
+210274	PP
+NP
 210279	NP
+210284	PP
+PP
+NP
+210289	NP
+NP
+NP
+210298	NP
+210305	NP
+210308	PP
+NP
+210317	PP
+NP
+NP
+210322	PP
+NP
+210325	PP
+NP
+210329	NP
+NP
+210334	PP
+NP
+210339	NP
+210342	PP
 NP
 NP
 NP
-210286	NP
-210291	NP
 NP
-210294	NP
-NP
-NP
-210300	NP
-210312	NP
-NP
-210318	PP
-210330	PP
-210336	NP
-NP
-210344	NP
 NP
 NP
 210351	NP
 NP
-210356	NP
 NP
 NP
-NP
-210366	NP
-210368	NP
-NP
-210376	NP
-NP
-210380	NP
-PP
-210384	NP
-210388	NP
+210359	NP
+210364	PP
 NP
 NP
+210370	PP
+210382	PP
+NP
+210385	NP
 NP
 NP
+210390	PP
+NP
+NP
+210394	NP
 210399	NP
-NP
-PP
-NP
-NP
-210408	NP
+210404	NP
+210406	PP
 NP
 NP
-210412	PP
+210416	NP
+210422	NP
 NP
-210416	PP
-NP
-NP
-NP
-NP
-PP
 NP
 210426	NP
-210441	NP
+210438	NP
 NP
 PP
 NP
-210452	PP
-210458	PP
-210461	NP
-210463	NP
+210443	PP
+NP
+NP
+NP
+210450	PP
+NP
+NP
+210455	PP
+NP
+NP
+NP
+210461	PP
+NP
+NP
 210466	NP
+210468	PP
 NP
-210470	NP
+210471	NP
+210476	PP
+NP
+NP
+210480	PP
 PP
 NP
-210477	NP
-210480	NP
-210492	NP
-210499	PP
 NP
-NP
-210505	NP
 NP
 PP
+NP
+NP
+NP
+210501	NP
+210506	PP
+NP
+PP
+210510	NP
+NP
+PP
+NP
+NP
 210518	NP
 NP
+210523	PP
+NP
+210536	NP
+NP
+210542	NP
+NP
+NP
+NP
+210560	AdvP
+210572	NP
+210580	PP
+NP
+NP
+210584	NP
+210592	NP
+210597	PP
+NP
+210602	NP
+210613	NP
 PP
+NP
+210617	PP
+NP
+210620	NP
 PP
-210528	NP
-210532	NP
-NP
-NP
-NP
-PP
-NP
-210547	NP
-NP
-210555	PP
-NP
-210563	PP
-NP
-210570	PP
-NP
-NP
-NP
-210582	NP
-210587	NP
-210591	NP
-210595	NP
-210601	PP
-NP
-210605	NP
-NP
-NP
-210610	NP
-210622	NP
 210626	NP
-210634	PP
 NP
-210638	NP
-210642	PP
+210636	PP
+210640	NP
+210648	NP
+210650	PP
 NP
-210646	NP
-210650	NP
-210662	NP
-210664	NP
-210667	NP
+210656	NP
 NP
-210673	NP
+210663	NP
 NP
-210681	NP
+210669	NP
+210672	NP
+210677	NP
 210688	NP
-210696	PP
-210703	NP
 NP
-210707	VP
-210709	NP
+210692	NP
+210699	PP
 NP
-210713	NP
-NP
-210721	PP
+PP
 NP
 NP
-NP
-210732	PP
-NP
-210737	PP
+210705	PP
 NP
 NP
+210711	NP
+210717	PP
+210719	PP
 NP
-210743	NP
-210753	NP
-210756	PP
+210725	NP
+NP
+210729	NP
+NP
+210738	NP
+NP
+210747	PP
+NP
+210757	NP
 210760	PP
-210766	NP
-210780	NP
-210789	PP
-NP
-210793	NP
-NP
-NP
 PP
 NP
-NP
-210800	NP
-PP
-NP
-210804	NP
+210769	PP
+210771	NP
 NP
 NP
+210775	NP
 NP
-210809	NP
+210779	PP
+210799	NP
+NP
+210815	NP
+NP
 210818	PP
 NP
 NP
-210824	NP
-210826	NP
-210836	NP
 NP
 NP
-210841	PP
-210844	PP
-NP
-NP
-210849	PP
-NP
+210828	NP
 PP
 NP
-210855	PP
 NP
 NP
-210860	PP
 NP
-210863	NP
+210845	PP
+210860	NP
+NP
+NP
 210865	PP
 NP
-210872	NP
-PP
+210869	PP
 NP
-210887	PP
 NP
-210892	PP
+210873	NP
+210884	NP
+210886	PP
 210894	NP
-210905	NP
-NP
-210917	NP
 PP
 NP
-210924	NP
+NP
+210910	PP
+NP
+210914	PP
+NP
+210920	NP
+210922	NP
+NP
+PP
 NP
 NP
 NP
 NP
-210930	NP
+210930	PP
+NP
 210933	NP
-210935	PP
 NP
-PP
-NP
-210941	NP
-PP
-NP
-NP
+210940	NP
 210950	NP
-210957	NP
-PP
+210958	NP
 NP
-210963	PP
-NP
-210966	NP
-NP
-NP
-210975	NP
+210971	NP
+210976	NP
+210983	PP
+210990	NP
 NP
 NP
-210979	NP
-210983	NP
-210993	NP
-210998	NP
-NP
+210998	PP
+211000	NP
 211002	NP
+211004	NP
 211008	PP
 NP
-211011	NP
+211013	NP
+211017	NP
+211029	NP
 NP
-211021	NP
-211024	NP
-211030	PP
-211032	NP
-PP
-211035	PP
+211037	PP
+211042	NP
 NP
-211041	PP
-211043	NP
+211045	NP
 NP
-NP
-211047	NP
-211052	PP
-211056	NP
-PP
-211064	NP
-NP
-211070	NP
-NP
-NP
-NP
+211049	NP
 PP
 NP
 NP
-211081	PP
-211093	NP
+211059	PP
+211066	NP
 NP
+211074	NP
 NP
-NP
-211098	PP
-211101	PP
+211082	NP
 NP
 PP
+211087	NP
+211095	NP
+NP
+211099	NP
+NP
+211105	NP
 NP
 NP
-211108	NP
-211116	NP
-211126	NP
-211128	NP
+211114	NP
+NP
+PP
+211118	NP
+NP
+211121	NP
+211124	NP
+NP
+NP
+NP
 211132	PP
 NP
-211135	PP
-211144	PP
+NP
+NP
+NP
+PP
+NP
 NP
 NP
 211149	NP
-211151	PP
+211153	AdvP
+211158	NP
 NP
 NP
+211162	PP
+211165	PP
 NP
-211161	NP
-NP
-NP
-211167	NP
-211172	PP
+211168	NP
+211170	NP
+211172	NP
 211177	PP
-211181	NP
-211185	PP
-211189	NP
-211191	NP
-NP
-NP
-211201	NP
-NP
 NP
 PP
-211208	PP
+211184	PP
+211186	NP
+NP
+211189	AdjP
+211191	AdjP
+211193	NP
+PP
+NP
+211205	PP
+211207	VP
+NP
 211211	NP
-211214	NP
+211213	NP
+211223	NP
+211250	PP
 NP
-211217	PP
+211256	NP
 NP
-211227	NP
 NP
-211241	NP
-211244	NP
-211259	NP
-NP
-211263	NP
-211265	NP
-NP
+211269	NP
+211271	PP
 211276	PP
-211279	PP
-PP
-NP
-NP
 NP
 211287	NP
-211291	PP
 NP
 NP
 PP
-211302	PP
-211314	NP
+211293	NP
+211295	PP
+211299	PP
+211307	NP
+211326	PP
 NP
-211327	PP
 NP
-211331	NP
 NP
-211334	NP
+211341	NP
+211351	PP
+211354	PP
 NP
-211340	PP
-211342	PP
-NP
-211346	NP
-211352	NP
-211354	NP
-211356	NP
-211359	PP
-NP
+211358	NP
+PP
 211363	PP
+211367	NP
 NP
-211366	NP
-211368	NP
-NP
+211381	PP
+211385	NP
 PP
 NP
-211376	PP
-NP
-211380	PP
-NP
-NP
-211391	NP
-NP
-211395	PP
-NP
-211398	PP
-NP
-211403	PP
-211405	NP
-NP
-211411	NP
-211416	NP
+211390	NP
 NP
 PP
+211394	NP
+211406	NP
+211412	NP
 NP
+211425	NP
 NP
-211424	PP
-NP
-211428	NP
-211430	PP
-NP
-211433	NP
-NP
-NP
-211438	NP
-NP
-211441	NP
-211446	NP
-NP
-NP
-211454	NP
-211459	PP
-NP
-211466	NP
-211468	NP
-NP
-211473	NP
-211475	PP
-NP
-211480	NP
-NP
-211490	NP
-211499	PP
-NP
-211509	PP
-NP
+211428	PP
 PP
-211518	PP
+211431	PP
+211436	PP
+211440	PP
+211445	NP
+211451	PP
 NP
-211523	NP
+211457	NP
 NP
+211460	NP
+211469	PP
+211473	PP
 PP
+211478	PP
+211489	PP
 NP
-211528	PP
-211532	PP
-211542	PP
+211501	NP
+NP
+NP
+211508	NP
+NP
+211512	NP
+211517	NP
+NP
+NP
+211522	NP
+NP
+211531	PP
+211535	PP
 211545	PP
-NP
-211550	NP
+211548	NP
 211553	NP
-211559	NP
-211562	NP
-211574	NP
+211556	NP
 NP
-211578	NP
+211566	PP
 NP
-211584	PP
 NP
-211588	NP
-211591	PP
+PP
+211582	NP
 NP
-211598	PP
+PP
+211589	PP
+211594	PP
 NP
-211603	NP
 211605	NP
 NP
+211612	NP
 NP
-211609	PP
 NP
-211617	NP
+211616	PP
 NP
-211621	NP
-211627	NP
-211635	PP
+211623	PP
 NP
-211639	NP
+211630	NP
+211637	PP
+211639	PP
 NP
-211643	PP
 211645	PP
-211649	PP
-211653	PP
-211656	PP
-211664	PP
-211666	NP
-211669	PP
-211672	NP
-211675	NP
-211681	NP
-211686	PP
 NP
-211696	NP
-211698	NP
-211705	PP
+211651	PP
+211654	PP
 NP
-211718	NP
-211730	NP
+211662	NP
+211674	NP
+211676	NP
+211683	PP
+NP
+211691	NP
+NP
+NP
+211695	PP
+NP
+NP
+211712	NP
+211716	PP
+NP
+NP
+211733	NP
+211746	PP
+NP
+NP
+211758	PP
+PP
+211766	NP
+PP
+211774	AdvP
+211776	NP
+NP
+211782	NP
+211784	NP
+NP
+211795	NP
 PP
 NP
-211734	NP
 NP
+211801	PP
 NP
-211738	NP
-211741	NP
-211745	NP
-211747	NP
-211750	PP
+211807	NP
 NP
+211817	PP
 NP
+211820	NP
 NP
-211757	PP
-PP
-NP
-211764	NP
-211767	NP
-211778	NP
-211792	PP
-211806	NP
-NP
-NP
-211810	NP
+211825	PP
 NP
 PP
 NP
-211815	NP
-NP
-211819	NP
 NP
 NP
 211833	NP
 NP
-AdjP
-NP
 211844	PP
 NP
+211848	NP
 NP
-211849	NP
+211852	PP
+NP
+211856	NP
+NP
+211868	PP
 NP
 NP
-211854	NP
-211856	PP
-211859	NP
-211865	NP
 NP
-211871	PP
-NP
+211873	NP
+211876	PP
 211878	NP
+211880	NP
 NP
-NP
-211883	NP
-NP
-211892	NP
-211894	NP
-211898	NP
-PP
-NP
-NP
-211904	NP
-211907	PP
-NP
+211885	NP
+211893	NP
+211896	NP
+211899	PP
+211904	PP
+211908	PP
 211915	PP
 NP
-PP
-211923	PP
-NP
-PP
-211930	PP
 NP
 NP
+211920	PP
 NP
-211936	NP
-211938	NP
-NP
-211942	PP
-NP
-NP
-211946	PP
-211954	NP
-211956	NP
-NP
-NP
-211961	PP
-211968	NP
+211927	PP
+211962	NP
+211966	NP
 211970	PP
+NP
+NP
 211975	NP
-211978	PP
-211982	NP
 NP
-NP
-211988	NP
+PP
+211979	NP
+211985	PP
+211989	NP
 NP
 211992	NP
+211995	NP
+PP
 NP
-211996	PP
-NP
-212004	NP
-212009	NP
-NP
-212012	NP
+212003	NP
+212006	NP
+212012	PP
 NP
 212015	NP
-212021	PP
+PP
+212024	NP
 NP
-212029	PP
+212030	PP
+212035	NP
 NP
-NP
-212034	PP
-NP
-NP
-NP
-212040	NP
-NP
-212043	NP
-212048	NP
-NP
-212051	NP
-NP
+212047	NP
 212054	NP
-NP
-212059	NP
-NP
-NP
-212072	PP
-NP
+212062	NP
+212064	PP
+212068	NP
+212071	NP
 NP
 NP
-212080	PP
+212079	NP
 NP
-212084	NP
 NP
+212084	AdvP
+212086	PP
+212092	NP
 PP
+212098	PP
+212107	NP
+212111	NP
+212113	NP
+212128	NP
 NP
-212089	NP
-212096	NP
-212100	NP
-212105	NP
-212108	NP
-212118	NP
-212123	NP
-212125	NP
-212127	NP
-212131	PP
+212144	NP
 NP
+212147	NP
+212153	NP
+212155	PP
 NP
+212158	NP
+212179	NP
+212183	PP
+212192	PP
 NP
-212137	NP
-212139	NP
+212196	VP
+212198	NP
+212201	NP
+212203	NP
 NP
+AdvP
 NP
-212151	NP
-212157	PP
-212161	NP
-NP
-PP
-NP
-212173	NP
-NP
-NP
-PP
-212182	PP
-212186	PP
-NP
-212202	NP
-NP
-NP
-212212	NP
-NP
-NP
-212224	NP
-NP
-212227	NP
-212235	NP
-212238	NP
-NP
-NP
-212248	PP
-NP
-NP
-212253	NP
-212273	NP
+212208	PP
 NP
 NP
 NP
-212280	NP
+212213	NP
+212216	PP
 NP
-212284	PP
 NP
+NP
+212226	AdjP
+212228	PP
+NP
+NP
+NP
+212237	PP
+NP
+NP
+NP
+212244	PP
+NP
+NP
+NP
+212254	PP
+212261	NP
+212265	PP
+212269	PP
+212273	PP
+NP
+212277	NP
 212287	NP
-212295	NP
+212303	PP
+212305	PP
+NP
+212313	PP
 NP
 NP
+212322	PP
+212324	PP
+212326	NP
+212328	NP
+212330	NP
+212335	NP
+212341	PP
 NP
-212301	NP
-212303	NP
-PP
-NP
-NP
-212309	NP
-PP
-NP
-212313	NP
-NP
-NP
-212323	NP
-212329	NP
-212331	NP
-NP
-NP
-PP
-212336	NP
-212340	PP
-212342	NP
-PP
-NP
-212346	PP
+212344	PP
+212346	VP
 212348	NP
+212358	NP
+212368	PP
+212370	NP
 NP
 NP
-212354	PP
+212375	NP
+212377	NP
+212386	NP
+212400	PP
 NP
-212359	NP
+212409	NP
 NP
-212362	NP
+212439	PP
 NP
-212365	NP
+212443	PP
+212445	PP
 NP
-212368	NP
-NP
-212374	NP
-212376	PP
-NP
-NP
-NP
-212384	NP
-212386	PP
-NP
-212390	NP
-PP
-212396	NP
-NP
-PP
-NP
-212405	NP
-NP
-PP
-NP
-NP
-NP
-212412	PP
-NP
-NP
-NP
-212417	PP
-NP
-NP
-NP
-212423	NP
-NP
-212430	NP
-NP
-212434	PP
-NP
-NP
-NP
-NP
-NP
-212442	NP
-212445	NP
-212448	NP
-212453	PP
 NP
 NP
 212459	NP
-212465	PP
-212472	NP
+212465	NP
+212476	NP
+212480	NP
+212487	NP
+212497	PP
 NP
-212475	PP
-NP
-212479	NP
-NP
-PP
-NP
-NP
-212491	NP
-212502	PP
-NP
-NP
-212509	NP
-212511	NP
-212513	NP
-NP
-212516	PP
-NP
-NP
-212520	NP
-212522	NP
-NP
-212529	PP
+212500	PP
+212510	NP
+212513	PP
+212519	NP
+212527	NP
 212531	NP
 NP
-212542	NP
-212545	PP
+212540	PP
+212546	PP
+212548	NP
+212552	PP
+212556	NP
+212558	NP
+212560	NP
 NP
-NP
-NP
-212551	NP
-NP
-212557	NP
-212559	NP
-NP
-212562	PP
-212564	NP
-212567	NP
 NP
 212571	NP
-212574	NP
+NP
 NP
 PP
+212577	PP
+212583	PP
+212586	NP
 NP
-212579	NP
-NP
-PP
-NP
-212584	NP
-NP
-PP
-NP
-212590	PP
-NP
-212601	NP
+212589	NP
+212592	NP
 NP
 NP
-212608	NP
-212611	PP
+212596	PP
 NP
-212616	NP
-NP
-NP
+212602	NP
+212610	NP
+212621	AdjP
 212623	NP
-212625	NP
-NP
 212628	NP
-212630	NP
-212648	NP
+212634	NP
+212645	NP
 NP
+212649	PP
 NP
+212654	NP
+212660	NP
+212668	NP
+212673	NP
+NP
+212684	PP
+NP
+212690	PP
 PP
-NP
-212667	NP
-212669	NP
-212678	NP
-NP
-AdjP
-212683	NP
-212687	PP
-NP
 212694	PP
 NP
 NP
 NP
-212705	NP
-212707	NP
-212709	NP
-212713	PP
+212700	NP
 NP
-212720	PP
 NP
+212709	PP
+212711	NP
 NP
 PP
-212730	NP
-212732	NP
-212734	NP
-212737	PP
+212717	PP
+212721	PP
 NP
-212740	PP
-212742	PP
+212741	NP
 NP
-NP
-PP
-212748	PP
-NP
-212751	PP
-212753	PP
 212758	PP
+212760	PP
 NP
-212761	PP
-NP
-NP
-NP
-212766	PP
-212768	PP
+212766	NP
 212774	NP
-212776	NP
-212778	NP
 212781	NP
-NP
-NP
-NP
-212786	NP
 212788	NP
-212796	NP
-212798	NP
+PP
 NP
-212808	NP
+212795	NP
 NP
+212799	PP
+212803	NP
 NP
-212812	NP
-212816	PP
-212819	NP
-212822	NP
+212806	PP
 NP
+212812	PP
 NP
-212827	NP
+212823	PP
 NP
+212826	NP
 NP
-212836	NP
-212846	NP
+212829	NP
+212831	NP
+NP
+212834	PP
+NP
+212838	PP
+PP
+NP
 212848	NP
-212850	NP
-212854	NP
-212866	NP
-NP
-NP
-212871	NP
-NP
-NP
-212878	PP
-NP
-NP
-NP
-NP
-212885	NP
+212850	PP
 PP
 NP
-NP
-NP
-212894	NP
-212897	NP
-212900	NP
-NP
-NP
-NP
-NP
-212907	PP
-NP
-NP
+212855	NP
+212858	PP
+212864	PP
+212870	PP
+212874	PP
+212880	NP
+212890	PP
 NP
 PP
+212898	NP
+NP
+212902	PP
+212906	PP
+NP
+212910	NP
 212915	PP
-212918	PP
-212921	PP
-212923	PP
+NP
+212919	NP
 NP
 NP
-212928	PP
-PP
-212932	PP
+212923	NP
+NP
+212926	NP
+212935	PP
+NP
+212946	NP
 NP
 NP
-212936	PP
+212950	NP
 NP
-PP
-NP
-NP
-NP
-PP
-NP
-NP
-NP
-212948	PP
-NP
-212951	NP
-212955	NP
-PP
-NP
-NP
+212956	NP
+212961	NP
 212963	NP
-212967	PP
-212971	NP
-NP
-NP
+212974	NP
 212976	NP
+212978	PP
 NP
-PP
 NP
-212986	NP
+212986	PP
 NP
-212991	AdvP
+212992	NP
 212994	PP
-212999	PP
-NP
-213003	NP
-PP
-NP
+212997	NP
+213002	NP
 213009	NP
-NP
 213013	NP
+213020	NP
+NP
+213025	PP
+NP
+213030	PP
 NP
 NP
-213022	NP
-213025	AdvP
-213028	PP
-213035	PP
+213041	PP
+213044	NP
+213065	PP
+213067	NP
+213069	NP
 NP
 NP
-NP
-213041	NP
 PP
-213051	NP
 NP
+213076	NP
 NP
+213081	PP
+213084	PP
 NP
-213056	NP
-NP
-213060	NP
-213071	PP
-NP
-NP
-213077	NP
-213085	NP
+213090	PP
+213092	NP
 213094	NP
-213098	PP
+213096	NP
 213101	PP
-213105	PP
 NP
-213108	NP
-213112	PP
-213117	VP
+213109	NP
+NP
+213114	NP
+213122	NP
+213129	PP
+NP
+213136	NP
+NP
 PP
-NP
-NP
-PP
-NP
-NP
-213135	NP
 213141	PP
-213143	NP
-213145	NP
-NP
-NP
-213150	PP
-213155	NP
-NP
-NP
-NP
-PP
-NP
-NP
-PP
-NP
-NP
-213168	NP
-213172	NP
-NP
-NP
-213176	PP
-NP
-213179	PP
-NP
-213184	NP
-PP
-NP
+213146	PP
+213152	PP
+213154	PP
+213162	PP
+213165	NP
+213169	NP
+213176	NP
+213181	NP
 213188	PP
 NP
+213195	PP
+213218	PP
+NP
+NP
+213223	PP
+NP
+213226	PP
+NP
+NP
+NP
+213241	PP
+NP
+213257	NP
+213265	NP
+213267	NP
+213271	PP
+213275	NP
+NP
+NP
+213279	NP
+PP
+213285	NP
+213294	NP
+213303	PP
+NP
+213307	NP
+NP
+NP
+213315	NP
+213318	NP
+213321	NP
+NP
+213330	PP
 NP
 PP
+213338	PP
 NP
-213196	NP
-PP
+213348	NP
+213352	PP
 NP
+213362	PP
 NP
-213201	NP
-PP
+213365	NP
+213367	NP
+213386	PP
+213390	PP
 NP
-213208	NP
-NP
-213212	PP
-213216	PP
-NP
-NP
-213224	NP
-NP
-213230	NP
-213234	PP
-NP
-PP
-NP
-213239	AdvP
-213246	NP
-NP
-213250	NP
-PP
-213253	NP
-213255	NP
-NP
-213264	NP
-213274	NP
-213280	NP
-NP
-213290	PP
-NP
-213296	PP
-NP
-213302	NP
-213304	PP
-213307	PP
-213310	NP
+213393	PP
 NP
 NP
 NP
+213414	NP
 NP
-213317	NP
-213320	NP
-213323	PP
-NP
-NP
-NP
-NP
-NP
-213331	NP
-213334	NP
-NP
-213337	NP
-213339	PP
-NP
-213342	NP
-NP
-NP
-213349	NP
-NP
-NP
-NP
-NP
-PP
-213358	NP
-NP
-NP
-NP
-213364	NP
-NP
-NP
-213368	PP
-NP
-NP
-NP
-PP
-NP
-213377	NP
-NP
-PP
-NP
-213383	NP
-NP
-PP
-NP
-NP
-PP
-NP
-PP
-NP
-PP
-213394	NP
-213396	NP
-213399	NP
-NP
-213404	NP
-213409	NP
-213415	NP
-213420	PP
-213424	AdvP
-213426	NP
-NP
-213429	NP
-213431	NP
-213433	NP
 213435	NP
-213437	NP
-AdvP
-213440	PP
-213442	NP
 NP
-213448	NP
-NP
-NP
-213452	NP
-213455	NP
-213459	NP
+213438	NP
+213444	NP
+213449	NP
+213453	NP
 NP
 NP
-213464	NP
+213458	PP
+213463	PP
+213480	NP
+213492	NP
 NP
 NP
+213498	NP
 NP
 NP
-213471	VP
+213504	NP
+213514	NP
+213523	NP
+213526	NP
+213530	NP
+NP
+NP
+213535	PP
+NP
+213538	NP
+NP
+213541	NP
+213548	NP
 PP
-NP
-NP
-NP
-PP
-NP
-213480	PP
-NP
-213484	PP
-NP
-213491	NP
-213497	NP
-NP
-NP
-NP
-NP
-NP
-213506	PP
-NP
-213515	PP
-NP
-213527	NP
-NP
-NP
-213536	NP
-NP
-NP
-213545	NP
-NP
-PP
-NP
+213554	NP
 213556	NP
 NP
 NP
-213563	NP
-NP
-213568	NP
+213561	PP
+213570	PP
+213572	NP
 PP
 NP
-NP
-213574	NP
 PP
-213577	NP
+213578	NP
+213583	PP
 NP
-213581	NP
 NP
-213589	PP
+PP
 NP
+213591	NP
+213595	NP
 NP
 213598	NP
-NP
-NP
-PP
-NP
-NP
-213605	NP
-NP
+213600	NP
+213603	NP
 213610	NP
 NP
-213614	PP
-213617	NP
+213624	NP
+AdjP
+213627	NP
+213636	NP
 NP
 NP
-NP
-PP
-213626	PP
-213634	NP
-NP
-PP
-NP
-213641	NP
 213643	NP
 NP
-NP
-213648	NP
-NP
-NP
-NP
-213654	NP
-NP
-213657	PP
+213646	PP
 NP
 NP
 NP
-213662	PP
+213651	PP
+NP
+NP
+NP
+213656	PP
+NP
+NP
+NP
+213661	PP
+NP
+NP
+NP
 213668	NP
-213671	NP
-213674	PP
-213676	NP
-213680	PP
 NP
-PP
-NP
-NP
-213687	NP
-213692	NP
-213697	NP
-213699	PP
-213702	NP
+213674	NP
+213680	NP
+213684	PP
+213695	PP
+213701	PP
 NP
 NP
-213707	NP
+213705	PP
 NP
 NP
-213711	NP
-213715	PP
+213709	PP
 NP
 NP
+213714	NP
 213719	NP
 NP
 213724	NP
-213728	AdvP
-213733	PP
-213743	NP
-213745	NP
-213747	PP
-PP
+213735	PP
 NP
-213752	NP
+NP
+NP
+213747	NP
+213750	PP
+NP
+213754	NP
 213756	NP
 NP
-NP
-213778	NP
-213780	NP
-213786	NP
-NP
-213791	NP
-213797	NP
-213805	PP
+213759	NP
+213761	PP
 NP
 NP
-213812	NP
 NP
-213816	PP
-213819	NP
-213821	NP
-213823	NP
-213825	NP
-213832	NP
+213767	NP
 NP
+213771	PP
 NP
+213775	NP
 NP
 PP
+NP
+NP
+213781	NP
+213787	NP
+213790	NP
+NP
+213796	PP
+NP
+NP
+213801	PP
+213803	NP
+213805	PP
+213809	NP
+PP
+NP
+213813	NP
+PP
+NP
+213817	NP
+PP
+NP
+213821	NP
+NP
+NP
+213830	NP
+213834	PP
+NP
 213838	NP
-213840	NP
+213841	PP
 NP
+213844	NP
+213849	NP
 NP
-NP
-213847	PP
-213850	NP
-NP
-213854	NP
-NP
+213853	NP
 213859	NP
-213863	NP
 NP
-213868	NP
+213867	NP
+NP
 NP
 213871	NP
-213873	PP
-213876	PP
-213880	PP
+213874	PP
+NP
+213879	PP
+213885	PP
 NP
 NP
+213889	NP
+213893	NP
 NP
 NP
-213886	NP
-NP
-NP
-213892	NP
-213896	NP
-NP
-213901	NP
+213900	PP
 NP
 213904	NP
-213906	PP
-213909	PP
-213913	PP
 NP
 NP
+213910	NP
+213912	NP
+213914	NP
+213918	NP
 NP
 NP
-213920	NP
+AdvP
+213924	PP
+213926	AdvP
+213932	PP
 NP
-NP
-213930	NP
-213932	NP
-213946	NP
-NP
-PP
-NP
-213952	NP
-213955	NP
-NP
-213960	NP
-213977	NP
-NP
-NP
-213984	NP
-PP
-213988	PP
-NP
-213993	NP
-NP
-NP
-214004	NP
-214008	PP
-214010	NP
-NP
-214013	PP
-NP
-NP
-NP
-214019	NP
-214021	NP
-NP
-NP
-214027	NP
 NP
 NP
 PP
 NP
+213940	PP
+213953	NP
+213956	NP
+213958	NP
+213972	PP
 NP
-214034	NP
 NP
+213988	NP
+213996	NP
+214002	PP
+214005	PP
+214009	PP
+214012	NP
+214021	PP
+214023	PP
+214026	PP
+214030	PP
 PP
-214039	PP
+NP
+214034	PP
 NP
 NP
-214044	PP
+214040	NP
+214057	PP
 NP
 NP
-214050	PP
-214052	NP
-214054	NP
-PP
-NP
-214059	NP
-214061	PP
-NP
-NP
-214065	PP
 214068	NP
 NP
+NP
+214077	PP
+214085	PP
+214090	VP
+PP
 PP
 NP
-214073	NP
-214075	NP
 NP
-214078	NP
+214097	PP
+214105	NP
 NP
-214082	PP
 NP
-214107	PP
-214111	PP
-214115	NP
-214143	PP
-214146	PP
-214149	NP
+214116	NP
+PP
+NP
+214120	PP
+NP
+214124	NP
+PP
+NP
+214133	PP
+NP
+NP
+214137	NP
+PP
+NP
+214142	PP
+NP
+214145	NP
+NP
+214150	PP
 214154	PP
-214157	NP
 NP
 NP
+214165	NP
 NP
-NP
-NP
-214167	NP
-NP
-PP
-214171	PP
 214173	PP
 NP
-NP
-NP
 214178	NP
-214180	NP
+PP
 NP
-214206	PP
-214213	NP
+214182	AdvP
+214189	NP
+214192	NP
+214194	PP
+NP
+214200	NP
+214211	NP
 214226	PP
-214237	PP
-214241	NP
+214230	NP
+214239	PP
 NP
 NP
-214250	PP
+PP
 NP
 NP
-214254	PP
+NP
+214248	NP
+214251	NP
+NP
+214254	NP
+VP
+PP
 NP
 214260	NP
 NP
+PP
+NP
+214268	NP
 NP
 NP
-214265	NP
-NP
-214269	PP
-NP
-NP
-214274	NP
-NP
-NP
-214278	PP
-214282	NP
+214272	PP
+PP
+214275	NP
+214281	NP
 214284	NP
 NP
-NP
 PP
 NP
 NP
+214290	PP
 NP
+PP
+NP
+PP
 214296	NP
-214304	PP
+214298	NP
+214303	NP
 NP
-214310	PP
+214309	NP
+214313	NP
+214316	NP
+214325	PP
+214329	AdvP
+214331	NP
 NP
-NP
-214315	PP
 PP
+214335	NP
+214339	NP
+214341	NP
+214343	NP
+214345	NP
+214349	PP
+214352	NP
 NP
-NP
-214323	NP
-NP
-214327	PP
-NP
-214333	NP
-214336	PP
-NP
-NP
-214349	NP
 214355	NP
-NP
-214359	PP
-214362	NP
-214364	PP
-214373	NP
+214360	NP
 NP
 PP
+214364	NP
+214367	NP
+214376	NP
+214380	NP
+214383	NP
+NP
+214387	NP
 NP
 NP
-PP
-214386	NP
+214391	NP
 NP
-PP
+214394	NP
+214406	NP
 NP
-NP
-214392	NP
-214396	PP
-NP
-214400	NP
-NP
-214403	PP
-NP
-214418	NP
-214420	PP
-214426	NP
-214428	NP
 NP
 214431	NP
-NP
-214439	NP
-214444	PP
-NP
+214433	NP
 PP
 NP
-214451	NP
-214453	NP
+214440	NP
+214442	NP
+214445	PP
+214452	PP
 NP
-214457	PP
-214459	NP
-PP
+214457	NP
+NP
+214463	PP
+214465	PP
 NP
 NP
-214465	NP
 214469	NP
-214472	NP
-214477	PP
+214475	NP
 NP
 NP
-214487	NP
+NP
+214480	NP
+214482	NP
+NP
+214485	VP
+214488	PP
 PP
+NP
+NP
+NP
+NP
 214497	NP
-214507	PP
+NP
+214501	PP
+NP
+214505	NP
+214509	NP
+214518	NP
+214520	PP
+214525	NP
+214527	PP
+214545	NP
 NP
 PP
 NP
-214514	NP
-214516	NP
-NP
-214521	PP
-214524	NP
-NP
+214555	NP
 PP
 NP
 NP
 NP
-214537	NP
+214564	PP
 NP
-214556	NP
-214563	NP
 214569	NP
 NP
-214580	PP
-214585	NP
 NP
+214573	PP
 NP
-NP
-PP
-214591	PP
-NP
-214596	AdvP
-214598	PP
-PP
+214596	NP
 NP
 NP
 NP
 NP
-PP
+214604	NP
+NP
+214613	NP
+214617	NP
 NP
 NP
-214609	PP
-214611	PP
+214625	PP
 NP
+214630	NP
 NP
-NP
-NP
-214619	PP
-NP
-NP
-NP
-214626	NP
-NP
-214629	PP
+214640	NP
+214642	NP
+214646	NP
+214648	NP
+214650	NP
 PP
 NP
 NP
-214636	NP
-214639	NP
+214659	NP
 NP
 NP
+214671	NP
+214674	PP
+NP
+214684	NP
+214690	PP
+NP
+214697	NP
+214703	NP
 PP
-214648	PP
+214708	PP
+214715	NP
+PP
+214724	NP
 NP
-214652	NP
-214658	PP
-214664	NP
-214668	PP
-NP
-NP
-214678	NP
-214681	PP
-214683	AdvP
-214687	NP
-NP
-NP
-214693	PP
-NP
+214727	PP
 PP
 NP
-214701	NP
-214704	PP
-214711	NP
-214713	NP
+214733	NP
+214735	NP
 NP
-NP
-214725	NP
+214740	PP
+214744	NP
 NP
 PP
-214732	PP
-214737	PP
-NP
-214741	NP
-214746	PP
 NP
 NP
-214758	PP
 NP
-214766	NP
-214770	NP
-214772	PP
-214779	PP
+214756	NP
 NP
-214783	NP
+214776	NP
+NP
 214787	PP
-214792	NP
-214803	NP
+214795	NP
 NP
-214811	VP
+NP
+NP
+214800	PP
+214805	AdvP
+214807	PP
+NP
+NP
+NP
+PP
 214813	NP
 NP
-214821	PP
+214818	PP
 NP
 NP
-214828	PP
 NP
-214839	NP
+214825	PP
+NP
+NP
+NP
+214832	NP
 214841	NP
+214843	NP
+214846	PP
+214851	PP
 NP
 NP
-214845	PP
+214859	NP
+214867	NP
+214873	NP
 NP
-214858	NP
+214893	AdvP
+214898	NP
+214903	PP
+214905	NP
 NP
-214862	PP
+214910	NP
 NP
-NP
+214921	NP
+214923	NP
+214925	NP
+PP
+214939	NP
 NP
 PP
-214868	PP
+214952	PP
 NP
-214871	NP
+214962	PP
 NP
-214889	NP
-214896	NP
-214901	PP
-214906	NP
-PP
-NP
-214914	NP
-NP
-PP
-214918	NP
-214920	NP
-NP
-214924	NP
-NP
-NP
-214928	NP
-NP
-214933	NP
-214935	NP
-NP
-PP
-NP
-NP
-NP
-214944	PP
-214952	NP
-NP
-214958	AdjP
-NP
-NP
-214964	NP
-214968	PP
-NP
-NP
+214967	NP
 214972	NP
 NP
-214975	PP
-214977	PP
-214981	PP
 PP
-NP
-214990	NP
-214995	NP
-NP
-NP
-214999	NP
-NP
-215006	NP
+214993	NP
+214998	NP
 215008	PP
-NP
-215011	NP
+215010	NP
 215013	NP
-215015	NP
-215019	PP
+215020	NP
+NP
+215031	VP
+215033	NP
+NP
+215044	NP
+215051	NP
+215057	NP
+215060	NP
+NP
+NP
 PP
 NP
 NP
 NP
-215028	PP
-NP
-215031	NP
-NP
-215035	NP
-NP
-215039	PP
-NP
-215047	NP
-215058	NP
+215082	NP
 NP
 NP
-215062	PP
+215086	PP
 NP
-215067	NP
-215076	NP
-215080	NP
-215085	PP
-NP
-215094	NP
-NP
-NP
-NP
-215100	NP
-215106	PP
-215108	NP
+PP
+215091	PP
+215093	NP
+215095	NP
+215097	NP
+215129	NP
+215137	NP
+215140	NP
+215142	NP
 NP
 NP
-215112	PP
+215147	NP
 NP
+215151	NP
+215156	PP
+215158	PP
+215164	PP
+215166	PP
+PP
 NP
-215117	PP
-NP
-NP
-NP
-215122	NP
-215124	NP
-NP
-215130	NP
-215135	NP
-215148	PP
-NP
-NP
-215165	NP
-215169	PP
-NP
-215174	NP
-215176	NP
-215178	PP
-NP
-215183	PP
-215191	PP
-NP
+215177	NP
+215185	NP
+215190	PP
 215198	NP
-215201	PP
-NP
-215206	PP
-215210	NP
+215204	NP
 PP
-215216	NP
+NP
+215209	NP
+215211	NP
+215213	NP
+215215	NP
 215218	NP
 PP
-215221	NP
-215223	NP
-NP
-215236	NP
-215243	NP
-NP
-NP
-NP
-215264	NP
-NP
-215267	NP
-NP
+215222	PP
 NP
 PP
 NP
-215281	NP
-215290	NP
 NP
+NP
+215230	VP
+PP
+NP
+215235	PP
+NP
+215239	NP
+215242	NP
+NP
+215245	PP
+NP
+215248	PP
+215258	PP
+215261	NP
+215268	PP
+215280	NP
+NP
+NP
+215284	PP
+NP
+NP
+215293	NP
 NP
 215297	NP
-215302	PP
-215307	NP
 PP
-NP
-215314	NP
-215317	NP
-215323	PP
-NP
-215326	NP
-215332	PP
+215300	NP
+215319	NP
+215328	NP
 NP
 NP
-NP
-PP
 NP
 NP
 215341	NP
@@ -13199,27234 +16264,25287 @@ NP
 NP
 PP
 NP
-215349	PP
-NP
-215354	NP
-NP
-NP
-NP
-215361	PP
-NP
-215366	PP
+215347	NP
+215350	PP
 NP
 NP
 NP
-215374	NP
-215377	PP
 NP
-215382	NP
+215357	NP
+NP
+215363	NP
+215366	NP
+215370	NP
 215386	NP
 NP
+215396	NP
+215403	NP
+215405	PP
+NP
+215409	NP
 NP
 NP
-215395	PP
-215398	PP
 NP
-215406	NP
-215416	PP
+215415	NP
+215420	NP
+PP
+215423	NP
+215425	NP
+215442	PP
 NP
-NP
-215421	NP
-215423	PP
-215426	NP
-215428	NP
-NP
-215435	NP
-NP
-215444	NP
-215455	PP
+215445	NP
+215454	PP
 215461	PP
-NP
-215464	PP
-NP
-NP
+215465	NP
+215468	PP
 215470	NP
+215484	NP
 NP
-215476	PP
-PP
-NP
-215481	NP
-215483	NP
-215486	NP
-NP
-215492	NP
+215490	PP
 215495	NP
-215497	PP
 NP
-215504	NP
-215507	NP
-215519	NP
-215530	NP
-215541	NP
+215500	NP
+215518	NP
 PP
+215521	NP
+215524	NP
 NP
-215547	PP
+215527	NP
+215536	NP
+215539	NP
 NP
 NP
+215552	NP
 215554	NP
-NP
-215557	NP
-NP
-PP
-215561	PP
-NP
-NP
 215567	NP
-NP
-215575	NP
-NP
-NP
-215579	NP
+215574	NP
 PP
+215580	NP
+215583	VP
+215587	PP
 NP
-215583	PP
+215591	PP
 NP
-NP
-215589	NP
-215595	PP
-215597	PP
-NP
-NP
-215602	PP
-NP
-NP
-215607	PP
-215612	NP
-NP
-215616	PP
-215618	NP
-215621	PP
+215597	NP
+215603	NP
+215611	NP
 NP
 NP
+215617	PP
+215620	NP
+NP
+215624	NP
+215627	NP
 215630	NP
-215634	NP
+215641	NP
 NP
-215639	PP
-215644	NP
-215651	NP
 NP
-215655	PP
-NP
-215659	VP
-NP
+215650	NP
+215654	NP
 215664	NP
-PP
-215676	NP
+215667	NP
 NP
-215687	PP
+215672	NP
+215675	NP
+215680	NP
+215684	PP
+NP
+215692	NP
+NP
+215703	NP
+215709	NP
+NP
+215714	NP
+NP
+215722	NP
+215734	NP
+215738	NP
+NP
+215750	NP
+215752	NP
+215756	PP
 NP
 NP
+215763	NP
 NP
+215768	PP
+215770	NP
+215773	VP
 NP
-NP
-215696	NP
-NP
-NP
-215701	PP
-NP
-215704	PP
-215707	PP
-215713	NP
-NP
-215719	NP
-215721	PP
-NP
-215727	NP
-215729	NP
-215732	PP
-NP
-215735	NP
-215737	PP
-NP
-215747	NP
-215751	PP
-NP
-215755	PP
-215757	PP
-NP
-215767	NP
-215769	NP
-215771	NP
-NP
-215774	PP
-215777	PP
 215779	NP
-215782	PP
-NP
-NP
-PP
-NP
-PP
-215789	NP
-NP
 215792	NP
 NP
-215801	NP
+215796	PP
+215803	NP
+215808	VP
 NP
-PP
-215807	NP
-215820	NP
-PP
+NP
+NP
+NP
+NP
+NP
+NP
+215817	PP
+215819	NP
+215822	PP
+215825	PP
+NP
 215833	NP
-215842	NP
-215846	NP
-215848	NP
-215851	NP
 NP
+215839	NP
+215842	PP
 NP
-215855	PP
-PP
-PP
-215859	NP
-215862	NP
-215865	NP
-215868	NP
+215847	PP
 NP
+215850	NP
 NP
-NP
-215876	PP
-NP
+215853	PP
 PP
 NP
+215866	NP
 NP
-215882	PP
+NP
+215871	PP
+NP
+215880	PP
+215886	NP
+215889	PP
 NP
 NP
-215888	NP
-215891	PP
-215893	NP
+PP
+NP
 215895	NP
-215902	NP
-215908	NP
+NP
+215898	NP
+NP
+215908	VP
+215911	NP
+NP
+NP
 NP
 PP
-215914	NP
+215919	NP
+215947	NP
+215950	NP
+215953	NP
+NP
+NP
+215957	PP
+215959	PP
 PP
-NP
-215919	PP
-215921	NP
-215923	NP
-NP
-NP
-215928	NP
-NP
-NP
-NP
-215936	NP
-NP
-PP
-215941	NP
-215943	NP
-215946	NP
-215948	NP
-NP
-NP
-215952	NP
-215957	NP
-NP
-215961	PP
-NP
+215964	NP
 215966	PP
 NP
+215973	NP
 NP
 NP
-215972	PP
+215979	NP
+215981	NP
+PP
+215984	PP
+215990	NP
+215993	NP
 NP
-215976	NP
+215996	NP
 NP
+216003	PP
 NP
-NP
-215981	VP
-215984	NP
-215986	NP
-NP
+216012	NP
+216015	PP
+216033	NP
 PP
 NP
-NP
-215994	PP
-NP
-215997	NP
-215999	NP
-PP
-216006	NP
-NP
-216011	PP
-NP
-216017	NP
-PP
+216037	NP
+VP
 NP
 NP
-216024	NP
-216029	NP
-216031	PP
 NP
-216035	NP
+216044	PP
 NP
-216038	NP
-216041	NP
-216052	NP
-216054	NP
-PP
+216048	NP
 NP
-PP
-216060	PP
 NP
-216063	NP
-216065	NP
+216053	NP
+216060	NP
+216067	PP
 NP
-216068	NP
-216071	NP
-216073	NP
-216076	PP
-216080	NP
+216070	NP
+NP
+216079	NP
 216083	PP
-216086	NP
-NP
+216086	VP
 PP
-216091	NP
+216091	PP
 NP
-216094	PP
-216096	PP
-216098	NP
 NP
-216104	PP
+NP
+216097	NP
+216099	NP
+216102	NP
 216108	NP
-216110	NP
-216128	NP
-216135	NP
+216111	NP
+216114	NP
 NP
-216139	PP
+216126	NP
 NP
-216145	PP
 NP
-216156	PP
+216130	PP
 NP
+216133	NP
+216136	PP
+216140	NP
 PP
-216160	NP
-216163	NP
 NP
-216176	NP
 NP
-216184	NP
-216189	NP
 NP
-216193	PP
+216151	NP
+216154	AdjP
+216158	PP
 NP
-216202	NP
+216163	PP
 NP
+216166	NP
+216178	NP
+216187	NP
+216196	NP
+NP
+216199	NP
 216205	PP
 NP
-216208	NP
+216217	PP
 NP
-216213	PP
-NP
-216218	NP
-216220	NP
-216224	NP
-NP
-216236	PP
-NP
-216253	NP
-NP
+216233	NP
+216238	NP
 PP
+216241	NP
+216245	PP
+216258	PP
+216260	PP
+216262	NP
 PP
+216266	PP
 NP
+216269	PP
+216273	NP
+216281	NP
 NP
+216287	NP
 NP
-216261	NP
-216263	PP
-NP
-PP
-NP
-216270	NP
-216280	NP
-216286	NP
-NP
-PP
-216290	PP
-NP
-216295	NP
-NP
-216299	PP
-NP
+216300	PP
 NP
 NP
 216304	NP
-216306	NP
-NP
-216317	PP
-216319	NP
-NP
-PP
 NP
 NP
+216315	NP
+216320	PP
 NP
 NP
-NP
-NP
-NP
-216331	PP
-NP
-NP
-216336	NP
-NP
-PP
-NP
-216342	NP
-NP
-NP
-216346	PP
-NP
-216349	NP
-NP
-216353	NP
+216325	NP
+216331	NP
+216333	AdvP
+216337	PP
+216346	NP
+216349	PP
+216353	PP
 NP
 216357	PP
 NP
-216360	NP
 NP
+216366	NP
+216369	NP
+216371	PP
+NP
+NP
+216375	NP
+216378	NP
 PP
 NP
-216366	PP
-NP
-NP
-NP
-216371	NP
-NP
-216375	PP
-PP
-NP
-216379	NP
-NP
-216383	NP
+216383	PP
 216385	NP
 216387	NP
-PP
+NP
+216390	PP
+216392	PP
+216394	PP
 NP
 NP
-216394	NP
 216399	NP
-AdjP
-PP
-216408	NP
 NP
 NP
+216408	PP
 NP
+NP
+216412	PP
+216416	PP
 216420	NP
-216423	PP
+216430	NP
+216433	NP
+216435	PP
+216438	NP
+216441	PP
 NP
 NP
-216428	PP
-NP
-NP
-216433	PP
-NP
-PP
-216439	PP
-NP
-216443	NP
 216445	NP
-PP
-216449	PP
-216453	PP
 NP
-216457	NP
+216448	NP
 NP
+216452	PP
 NP
-PP
-216464	NP
-216467	PP
-NP
-216471	PP
+216458	PP
 NP
 NP
-216475	PP
+216462	NP
 NP
-216479	PP
+216469	PP
 NP
-216482	NP
-216486	PP
+216472	PP
+NP
+NP
+NP
+216478	NP
 216488	NP
-216490	NP
+216492	VP
 PP
 NP
-216494	NP
 NP
-NP
-216501	NP
-216504	NP
-NP
-NP
-216510	PP
-NP
-216514	PP
+216499	PP
+216502	PP
 NP
 NP
 NP
-216520	NP
-NP
-216523	PP
-NP
-216531	NP
-216533	PP
-216538	NP
-216542	NP
-216549	NP
-NP
-216552	NP
-NP
-216555	PP
-NP
-216558	NP
-216565	NP
 NP
 PP
 NP
 PP
 NP
-216572	PP
-216575	PP
-216578	NP
-216580	PP
 NP
-216585	PP
+NP
+216516	PP
+NP
+NP
+NP
+216521	NP
 NP
 NP
 VP
+NP
+216527	NP
+NP
+NP
+216533	NP
+216535	PP
+NP
+NP
+NP
+NP
+216548	PP
+216551	PP
+NP
+216560	NP
+NP
+216564	NP
+NP
+216571	NP
+NP
+216581	PP
+NP
+NP
+216589	PP
+216593	AdvP
 216596	NP
-216600	PP
-NP
-NP
-NP
-PP
-NP
-216618	NP
-NP
-NP
-216624	NP
-216628	PP
-216632	NP
-NP
-NP
-216637	NP
-216639	PP
-216650	NP
-NP
+216598	PP
 PP
 NP
 NP
+216603	NP
 NP
 NP
-216663	NP
+216607	PP
+216609	NP
 NP
-216667	PP
+216614	PP
+PP
+NP
+216622	NP
+PP
+216626	PP
+NP
+216630	NP
+216635	PP
+NP
+PP
+216646	NP
+NP
+216649	PP
 NP
 NP
+216654	NP
+216662	PP
 NP
-NP
-216674	PP
-NP
-216678	PP
-NP
-NP
+216668	PP
 216682	PP
-216684	NP
-216686	NP
-216693	PP
-216699	NP
-216703	NP
-216712	NP
-216714	PP
 NP
-216721	VP
+216686	PP
+216691	NP
+NP
+216695	PP
 NP
 NP
-PP
-NP
-216728	NP
-216731	NP
-216733	NP
-216739	NP
-216745	AdjP
-216750	PP
-NP
-216758	NP
-PP
-216775	PP
+216700	VP
 NP
 NP
-216780	AdvP
-216782	PP
-216788	PP
+216705	PP
+216707	PP
+NP
+216722	PP
+NP
+216727	VP
+216738	NP
+NP
+NP
+NP
+216743	PP
 NP
 NP
 PP
+216748	NP
+NP
+216752	NP
+NP
+216757	NP
+216764	PP
+216769	NP
+PP
+216772	PP
+216774	NP
 NP
 NP
-216795	NP
-216799	PP
-216816	NP
+216779	NP
+PP
 NP
-216827	PP
+PP
+216784	NP
 NP
+216789	PP
+NP
+216792	NP
+216797	PP
+NP
+216800	NP
+NP
+NP
+216806	PP
+216811	NP
+PP
+216816	PP
+NP
+216823	NP
+NP
+216827	NP
+216836	PP
+NP
+216842	PP
 216848	NP
-216851	PP
+NP
+216856	NP
+216862	NP
 NP
 NP
-216857	PP
+216866	NP
 NP
-216867	NP
-216873	PP
-216877	PP
+216870	PP
 NP
-216882	PP
-216887	PP
-PP
-216891	PP
-216899	NP
 NP
 PP
 NP
-216906	NP
-216910	PP
+216876	NP
 NP
-216913	PP
-216919	PP
+216884	PP
 NP
-216922	NP
-216928	NP
-216930	NP
-216934	NP
-NP
-NP
-216938	NP
-216941	NP
-NP
-216945	NP
-NP
-216951	PP
+216896	NP
+216900	NP
+216902	PP
+216904	NP
+216908	NP
 NP
 NP
-216965	NP
-216969	NP
+216913	NP
+216918	NP
 NP
 NP
-216975	PP
-216981	PP
+216923	PP
+NP
+216927	NP
+216935	PP
+NP
+NP
+216944	NP
+NP
+216948	PP
+NP
+NP
+216953	PP
+NP
+216959	PP
+NP
+NP
+216963	PP
+NP
+PP
+PP
+NP
+216970	PP
+NP
+NP
+216975	NP
+216982	NP
+NP
 NP
 NP
 216988	NP
-216990	NP
+PP
 NP
-216997	NP
 NP
+216994	NP
+NP
+216998	NP
+217004	PP
 217007	NP
 NP
 NP
-217012	PP
 NP
-217015	NP
-217020	NP
-NP
-217024	PP
+217016	NP
 NP
 NP
-217032	NP
-217034	PP
-217040	NP
-217049	PP
 NP
-217052	NP
-NP
-217055	PP
-217062	NP
-NP
-217065	PP
-NP
-217080	PP
+PP
+217025	NP
 NP
 NP
-217084	NP
-217087	NP
-217089	NP
-NP
-217098	NP
-NP
-NP
-217104	PP
-NP
-217108	NP
 NP
 PP
 NP
-217116	NP
-217119	NP
-217131	VP
+NP
+217033	PP
+NP
+PP
+NP
+NP
+217046	PP
+217053	NP
+NP
+NP
+217058	NP
+NP
+PP
+217062	NP
+NP
+NP
+217067	PP
+NP
+NP
+NP
+NP
+217074	PP
+NP
+217078	NP
+NP
+217085	NP
+217088	NP
+NP
+217091	NP
+NP
+PP
+217101	PP
+NP
+217105	NP
+NP
+217111	PP
+217126	NP
+217131	PP
 NP
 NP
 217135	NP
-217141	PP
+217137	NP
+NP
+PP
+NP
+217145	PP
 NP
 NP
-217145	NP
+217150	PP
 NP
 NP
-217149	NP
-217151	NP
+217154	NP
 217157	NP
-217159	NP
 NP
-NP
-PP
-217164	NP
-PP
 217168	NP
 217170	NP
-PP
-217179	PP
 NP
+217175	NP
+NP
+PP
 217184	PP
 NP
 NP
-217188	NP
 NP
-217191	PP
-NP
-217198	NP
-NP
-PP
+217191	NP
+217195	PP
 NP
 NP
-217204	NP
-217209	NP
-PP
 NP
-217217	NP
 NP
-217220	NP
-217223	NP
-217225	NP
-PP
+217203	NP
 NP
-217231	PP
+217213	PP
+217217	PP
 NP
-217234	PP
 NP
-217237	NP
+217222	NP
 NP
-217243	NP
-217245	NP
+217226	NP
+NP
+217239	NP
+217247	NP
+NP
 217251	NP
-217269	NP
-PP
-217273	PP
 NP
+217256	NP
+217260	PP
 NP
-NP
-PP
-217279	NP
-NP
-NP
-217289	NP
-217292	NP
-PP
-217298	NP
-PP
-NP
-217304	NP
-PP
-NP
-217308	NP
-217310	NP
+217266	PP
 NP
 NP
 NP
 NP
-217318	PP
-217322	NP
+217272	NP
+NP
+NP
+217277	NP
+217279	PP
+NP
+NP
+217285	NP
+NP
+217288	NP
+217290	NP
+217292	PP
+217296	NP
+NP
+217299	NP
+217305	NP
+NP
+NP
+217316	NP
+NP
+217320	NP
+217322	PP
+NP
 217325	NP
-217329	NP
-217337	NP
-NP
-NP
-217342	PP
-NP
-217348	NP
-217363	PP
-217365	PP
+217328	PP
 NP
 NP
 NP
-NP
-217371	NP
-217373	NP
-217378	NP
-NP
-217382	NP
-217384	PP
-NP
-217388	PP
-217393	NP
-PP
-NP
-NP
-217398	PP
-NP
-217401	NP
 NP
 PP
 NP
-217407	PP
+217337	PP
 NP
-217410	PP
-217412	PP
-NP
-217415	PP
-NP
-217418	PP
-217420	NP
-217425	PP
-217428	NP
-NP
-217434	PP
-NP
-217453	NP
+217340	PP
 NP
 NP
-217467	NP
+217348	PP
 NP
 NP
-217481	PP
+217354	NP
 NP
-217490	PP
-217496	PP
-217506	NP
+217359	PP
+217361	NP
+NP
+217366	PP
+NP
+217371	PP
+217374	PP
+NP
+NP
+NP
+NP
+217381	NP
+217385	PP
+217387	NP
+217389	NP
+NP
+NP
+PP
+NP
+NP
+PP
+217397	NP
+NP
+NP
+PP
+217404	PP
+217406	PP
+217409	NP
+217412	NP
+NP
+PP
+NP
+217418	NP
+217426	PP
+NP
+PP
+NP
+NP
+NP
+PP
+NP
+217437	PP
+NP
+NP
+217442	PP
+217445	NP
+NP
+217448	NP
+217451	NP
+217458	PP
+NP
+NP
+217463	NP
+217466	PP
+NP
+PP
+NP
+217471	PP
+NP
+PP
+217475	NP
+217479	PP
+217482	PP
+NP
+217487	PP
+217497	PP
+217503	NP
+NP
 217509	NP
-217513	NP
-217516	NP
-NP
-217519	NP
 NP
 NP
-217528	NP
-217535	NP
 NP
-217539	NP
-217547	PP
-217551	NP
-217561	NP
+217519	PP
+217525	PP
+NP
+217530	PP
+217532	NP
+NP
+217538	NP
+NP
 PP
+NP
+NP
+217546	NP
+217550	NP
+217555	NP
+217559	NP
+217568	NP
 217571	NP
+NP
+217581	PP
+NP
+217593	PP
+217597	PP
+NP
+NP
+NP
+217603	NP
+217608	PP
+217611	PP
+217613	PP
+NP
+217621	PP
 PP
-217580	PP
 NP
 NP
 NP
-217585	NP
-217589	PP
-217600	PP
-217605	NP
-NP
-217610	PP
-217614	NP
-NP
-217620	NP
-217622	PP
-217634	PP
-NP
-NP
+217627	PP
+217630	PP
+217635	NP
 NP
 217639	NP
-NP
-217645	NP
-217649	NP
-NP
+217650	NP
+217653	NP
 217655	NP
-217657	NP
+217657	PP
+NP
+217662	PP
+217664	NP
+217667	PP
 NP
 NP
-NP
-217662	NP
-217669	PP
-NP
-NP
-NP
+217671	NP
+217674	PP
 217676	PP
 NP
+PP
+NP
 217681	NP
-217684	NP
-217688	NP
+217683	NP
+217686	PP
+NP
 NP
 217691	NP
+217694	NP
+PP
 NP
-217697	PP
 217702	PP
-217708	NP
+217707	NP
+217712	NP
 NP
-217711	NP
+217716	PP
 NP
-217714	NP
+PP
+217721	PP
 NP
-217725	NP
-NP
-217728	NP
-217731	PP
-217736	NP
-NP
-217739	NP
-NP
-217743	NP
+217727	NP
 NP
 NP
-217747	NP
-217755	PP
-NP
-217759	PP
-NP
-217763	PP
-217766	PP
-NP
-217769	NP
 NP
 PP
 NP
+NP
+217736	PP
+217740	NP
+217743	PP
+NP
+217746	NP
+NP
+217751	NP
+217756	PP
+217758	PP
+NP
+NP
+217762	NP
+217764	NP
+NP
+217770	PP
+217776	NP
+NP
+217781	NP
+NP
+217784	NP
+217786	PP
+217788	VP
+217790	PP
+NP
+NP
+NP
+217800	NP
+NP
+217804	PP
+NP
 PP
 NP
-217779	PP
-217784	PP
-NP
-NP
-217794	PP
-217799	PP
-NP
-217803	NP
 217810	PP
+217812	NP
+217814	NP
+217817	PP
 NP
-217815	NP
-217819	PP
-217822	NP
-217826	NP
-217829	PP
-217837	PP
+217820	NP
+PP
 NP
-217841	NP
-217852	PP
+217826	PP
+NP
+217831	NP
+217836	NP
+NP
+217839	PP
+NP
+NP
+PP
+217845	NP
+NP
+217849	NP
+NP
+217853	PP
 NP
 NP
 NP
-217862	PP
-217864	PP
-217866	PP
-217877	PP
-217880	NP
+217858	NP
+PP
+NP
+217862	NP
+217864	NP
+217866	VP
+217868	NP
+NP
+217871	NP
+PP
+217874	PP
+217882	PP
+217884	NP
+NP
+217891	PP
+NP
+217895	NP
+PP
+NP
+217899	PP
+NP
+217902	NP
+217904	NP
+NP
+217907	NP
+217912	PP
+NP
+217918	NP
+217921	NP
+PP
+NP
+217927	PP
+NP
+217930	PP
+NP
+PP
+NP
+NP
+217938	PP
+NP
+217944	NP
+217952	NP
+NP
+217956	NP
+217959	PP
+NP
+217962	NP
+217967	NP
+NP
+PP
+NP
+NP
+217974	PP
+NP
+PP
+217978	NP
+217980	NP
+217988	NP
+217990	PP
+217993	NP
+NP
 PP
 PP
 NP
 NP
-217889	NP
 NP
-217892	NP
+218004	NP
+218009	PP
 NP
 NP
 NP
-217897	NP
+218015	NP
+218017	PP
+218022	NP
 PP
+218027	NP
 NP
-217924	NP
+218034	PP
 NP
-217928	NP
+218037	NP
+218041	PP
+218043	NP
+218045	NP
+218050	PP
+218056	PP
 NP
-217932	NP
-217937	NP
-PP
+218061	PP
 NP
-217942	NP
-217948	NP
-217951	NP
-217953	PP
-217957	PP
-NP
-217963	NP
-217965	PP
-217972	PP
-217979	PP
-NP
-217986	PP
-NP
-217991	NP
-217994	NP
+218064	PP
 NP
 NP
-217998	NP
+218075	NP
+218078	PP
+NP
+218081	NP
+218083	NP
+218091	PP
 NP
 NP
-218002	NP
+218102	NP
 NP
-PP
-NP
-218008	NP
-218014	PP
+218109	PP
+218118	PP
 NP
 NP
 NP
-218021	NP
-218026	PP
-218028	PP
-218030	PP
-218036	NP
-218038	PP
+218129	NP
+218137	PP
+218140	PP
+218142	VP
+218145	NP
 NP
-218042	PP
-NP
-218045	PP
-NP
-218051	NP
-218062	PP
-218075	PP
-NP
-218092	NP
-218096	PP
-218101	NP
-NP
-NP
-218107	NP
-PP
-NP
-218114	NP
-218121	NP
-218130	PP
-NP
-218136	NP
-218139	NP
-218142	NP
-218147	NP
-NP
-NP
-218151	PP
-NP
-218155	PP
-218157	NP
-218161	PP
-NP
-218165	NP
-NP
+218148	NP
 NP
 PP
 NP
+NP
+218156	PP
+NP
+218161	NP
+PP
+218165	PP
+NP
+NP
+218169	NP
+NP
+218175	NP
 218178	NP
-NP
 218182	NP
-218185	PP
+NP
+218185	NP
+NP
+218191	NP
+218193	PP
+218198	NP
+PP
+218201	NP
+NP
+PP
+NP
+218207	PP
 NP
 NP
 NP
 NP
+218213	NP
 NP
-218193	NP
+PP
 NP
-218197	NP
-218201	PP
-218206	PP
-218208	NP
-NP
-218215	PP
+218219	PP
 NP
 NP
-218221	PP
+218223	NP
 NP
-218225	NP
-218230	PP
+218226	PP
 NP
-218233	NP
-218235	PP
+218230	NP
+NP
+218234	NP
+NP
 218238	NP
-NP
 218241	NP
-218243	PP
-NP
 218248	NP
-218252	PP
+PP
+218251	NP
+PP
+NP
+218256	NP
+NP
+NP
+NP
+218262	NP
+NP
+218266	PP
+NP
+218272	PP
+NP
+NP
+218278	NP
+AdjP
+NP
+218285	PP
+218288	NP
+218294	NP
+PP
+NP
+NP
+218300	NP
+218303	NP
 NP
 PP
 NP
-218272	NP
-218275	NP
-218280	NP
-218283	NP
-218297	NP
-218300	PP
-218306	NP
-218308	NP
-218313	PP
 NP
 NP
-NP
-PP
-NP
-NP
-NP
-218324	PP
-NP
-218329	PP
-NP
-NP
-PP
-NP
+218311	NP
+218313	NP
+218316	NP
+218319	PP
+218324	NP
 218335	NP
-218337	PP
+218347	NP
+218351	PP
+218358	PP
 NP
-218340	NP
-218346	PP
-218353	PP
-NP
-218356	NP
-218364	PP
-218366	PP
-NP
-218369	PP
-NP
-VP
-218378	NP
 PP
-218386	NP
+218367	NP
+218372	NP
+218384	NP
+NP
 218390	NP
+218394	PP
 NP
 NP
-218395	NP
+PP
+NP
 218403	NP
-NP
-NP
-PP
-NP
-218412	NP
+218407	NP
 218417	NP
-218429	PP
-NP
-218434	PP
-NP
+AdjP
+218424	NP
 NP
 NP
 NP
-218446	PP
+218431	PP
+218433	NP
+218435	NP
 NP
-218449	PP
-218456	NP
+PP
 NP
 NP
-218460	PP
+218442	NP
 NP
+218446	NP
+PP
+NP
+NP
+NP
+218453	NP
+218460	NP
+218462	NP
 218464	NP
+218466	PP
+218468	PP
+218470	NP
+NP
+NP
+NP
+218475	PP
+218479	NP
+218481	NP
 PP
-NP
+218484	NP
 PP
+218488	PP
+218490	NP
 NP
+218493	NP
+218499	NP
+218502	NP
 NP
-218472	PP
-NP
-218480	PP
-NP
-218483	PP
-NP
-218493	PP
-NP
-218503	NP
-218514	PP
-NP
-218521	PP
-NP
-NP
-218527	PP
-NP
-218533	PP
-218542	PP
 NP
 NP
 PP
+218508	PP
+218511	PP
+218517	NP
 NP
+NP
+PP
+218523	NP
+VP
+NP
+NP
+218529	NP
+218533	NP
+218535	NP
+218537	NP
+218539	NP
+218541	NP
+218543	NP
+218545	NP
+218547	NP
+218549	NP
 218551	NP
-218562	PP
-NP
+218553	NP
+218555	NP
+218557	NP
+218559	NP
+218561	NP
+218563	NP
+218565	NP
 218567	NP
+218569	NP
+218571	NP
 218573	NP
-PP
-NP
-218577	PP
-NP
-218580	NP
-PP
-218584	PP
-NP
-218588	NP
-NP
-NP
-218597	PP
-NP
-NP
-218606	NP
-NP
+218575	NP
+218577	NP
+218579	NP
+218581	NP
+218583	NP
+218585	NP
+218587	NP
+218589	NP
+218591	NP
+218593	NP
+218595	NP
+218597	NP
+218599	NP
+218601	NP
+218603	NP
+218605	NP
+218607	NP
+218609	NP
+218611	NP
 218613	NP
-218621	PP
+218615	NP
+218617	NP
+218619	NP
+218621	NP
+218623	NP
 218625	NP
-218630	NP
-218632	PP
-NP
-NP
-218638	PP
-NP
-218642	NP
-NP
-PP
-218650	PP
-NP
-218654	NP
-PP
-NP
-218658	PP
-NP
-218662	NP
-NP
+218627	NP
+218629	NP
+218631	NP
+218633	NP
+218635	NP
+218637	NP
+218639	NP
+218641	NP
+218643	NP
+218645	NP
+218647	NP
+218649	NP
+218651	NP
+218653	NP
+218655	NP
+218657	NP
+218659	NP
+218661	NP
+218663	NP
+218665	NP
+218667	NP
 218669	NP
+218671	NP
+218673	NP
+218675	NP
+218677	NP
+218679	NP
+218681	NP
+218683	NP
+218687	AdjP
+NP
+218690	PP
+NP
+218694	PP
+NP
+PP
 NP
 NP
-218676	NP
+218700	PP
+NP
+218707	PP
 NP
 NP
+218718	NP
+218721	NP
+218723	NP
+218725	NP
 NP
-218682	NP
-218685	PP
+218732	PP
 NP
-218689	NP
-218691	PP
+218737	PP
+NP
+218740	NP
+218746	NP
+NP
 NP
 NP
 PP
-218697	PP
 NP
-218701	NP
-218703	NP
-218707	NP
+218755	NP
+218760	NP
 NP
-218710	NP
-218723	NP
-218737	NP
-NP
-218744	NP
-NP
-218749	PP
-218753	PP
-NP
-NP
-218760	PP
 NP
 218764	NP
 NP
-218770	NP
+218779	PP
+218785	NP
+218792	NP
 NP
-218774	NP
-218777	NP
-218786	PP
-218790	NP
-218793	NP
-NP
-218797	PP
+218795	NP
+218802	PP
+218805	PP
 NP
 NP
 NP
-218812	NP
+218814	NP
+218816	NP
 218825	NP
 NP
-NP
-218829	NP
-218831	NP
-PP
-218837	NP
-218840	NP
+218828	PP
+218834	PP
+218840	PP
 NP
 NP
-218848	VP
-218850	NP
+218847	NP
+218853	NP
+NP
 218857	NP
-218862	NP
-218866	NP
+NP
+218860	PP
+PP
+218864	NP
+PP
+NP
+NP
+NP
+PP
+NP
+218874	PP
+NP
+NP
+PP
+218881	PP
+NP
+NP
 218885	PP
+218889	PP
+218892	VP
+218896	PP
+218899	PP
 NP
 NP
-218891	NP
 NP
-218898	PP
+PP
 NP
-218901	NP
-218910	NP
+218912	NP
 218914	NP
+218917	NP
+218919	NP
+218922	VP
+NP
+PP
+PP
+218942	PP
+218944	NP
+NP
+218948	NP
+218950	NP
+218953	NP
+NP
 NP
 PP
 NP
-NP
-218922	NP
-NP
-NP
-NP
-218927	NP
-218933	NP
-NP
-218936	PP
-218939	PP
-218943	NP
-218951	PP
-NP
-NP
-218955	PP
-NP
-NP
-218959	PP
-NP
-NP
+VP
+218963	PP
 218967	NP
-218970	NP
-218972	NP
-218976	PP
-NP
-NP
-218981	NP
-218986	NP
-218994	NP
-NP
-NP
-NP
-219004	PP
-219014	PP
-NP
-219023	NP
-219029	PP
-219036	NP
-219046	NP
 NP
 PP
 NP
 NP
-PP
+218980	PP
+218982	NP
 NP
-219059	NP
-219064	NP
-219069	NP
-219073	NP
 NP
-219080	PP
-219082	PP
-219084	NP
-PP
-219098	NP
+218986	PP
 NP
-219102	NP
-219110	NP
-219112	NP
-219115	NP
-219119	PP
+NP
+218991	NP
+218996	PP
+219000	NP
+NP
+219008	PP
+NP
+219011	AdvP
 PP
 NP
 NP
+219020	NP
+219023	PP
 NP
 NP
-219130	NP
+PP
+219032	NP
+219034	PP
 NP
+NP
+PP
+NP
+219042	NP
+PP
+219045	NP
+219047	NP
+219050	NP
+PP
+NP
+NP
+219055	PP
+NP
+219061	PP
+NP
+NP
+PP
+219068	NP
+219070	PP
+NP
+PP
+219074	NP
+219076	NP
+219081	NP
+219085	NP
+219087	PP
+NP
+219096	PP
+NP
+219101	PP
+NP
+NP
+219105	PP
+NP
+NP
+219115	PP
+NP
+219120	PP
+219122	NP
+NP
+219125	VP
+219127	PP
+NP
+219131	PP
+NP
+NP
+219135	PP
 219137	NP
 NP
+219141	PP
+NP
+219144	NP
+219146	NP
+NP
+219150	NP
+219166	NP
 NP
 NP
+219172	NP
+219178	PP
+219182	NP
+PP
 NP
-219152	NP
-219155	NP
-219158	NP
-219174	NP
-219176	NP
-NP
-219180	NP
-NP
-219183	NP
-219185	NP
-NP
-NP
-219190	NP
-NP
-NP
-NP
-219197	NP
+219186	PP
+219194	PP
+219197	PP
 219200	NP
-219203	NP
-219220	PP
 NP
+219204	PP
+219208	NP
 NP
-NP
-219227	NP
-NP
-219234	NP
-NP
-219240	PP
+219214	NP
+PP
 PP
 NP
-219250	PP
 NP
 NP
+219222	PP
 NP
-219257	NP
-PP
+219225	PP
 NP
-219269	NP
+NP
+219229	NP
+219231	NP
+VP
+NP
+219237	PP
+219241	PP
+219243	NP
+219254	NP
+NP
+219259	NP
+219262	PP
+219265	NP
+NP
+NP
 219273	NP
-NP
-219279	PP
-NP
-219283	NP
-NP
 PP
-219289	NP
-219291	NP
-219294	NP
+219282	NP
 NP
-219298	NP
 NP
-219303	NP
+219293	NP
+219302	PP
 NP
-219308	PP
-219311	NP
-PP
+219307	NP
+219312	PP
+219318	PP
+219322	PP
+219324	NP
 NP
-219317	NP
-219327	NP
-PP
+NP
+219330	NP
+NP
+NP
+219334	PP
+219337	VP
 PP
 NP
-219346	PP
 NP
+NP
+219345	PP
+NP
+219351	NP
+NP
+NP
+219357	VP
 PP
 NP
+NP
+219363	NP
+219365	PP
+NP
+NP
+219369	PP
+219372	NP
+219375	PP
+219377	NP
+NP
+219384	PP
+NP
+219390	PP
+NP
+219393	NP
+219400	PP
+NP
+219404	PP
+NP
+219408	NP
+NP
 PP
-219360	PP
+219416	PP
 NP
+219421	PP
+219423	NP
 NP
-219371	NP
-219374	PP
-219377	PP
-219379	NP
-219395	NP
-NP
-219401	NP
-219410	PP
-NP
-NP
+219426	NP
 219432	NP
 NP
-219442	NP
-219450	NP
-219456	PP
+219436	NP
 NP
-NP
-219461	PP
-219463	PP
-219466	NP
-NP
-219469	NP
-NP
-219472	PP
-NP
-219477	NP
-219480	NP
-219485	NP
-NP
-219496	NP
-NP
-219499	PP
-NP
-219504	NP
-NP
-219509	NP
-NP
-219512	PP
-NP
-219516	PP
+219440	NP
 NP
 PP
-219522	NP
+NP
+NP
+219453	NP
+NP
+219462	NP
+NP
+219466	PP
+219468	NP
+219477	NP
+NP
+PP
+PP
+NP
+219483	NP
+NP
+219489	NP
+219494	NP
+219498	NP
+219501	PP
+NP
+NP
+219507	PP
+NP
+219510	VP
+219513	NP
+PP
+NP
+219524	PP
 219527	PP
 NP
-219534	NP
+NP
+219532	NP
+AdjP
+219536	NP
+219538	PP
+219550	NP
+219558	NP
+219560	PP
+219573	NP
+219576	PP
+NP
+NP
+219582	PP
+NP
+219588	NP
+NP
+PP
+219593	NP
+219598	PP
+NP
+NP
+219604	VP
+PP
+NP
+219612	PP
+NP
+NP
+219618	VP
+219620	VP
+219625	VP
 PP
 NP
 NP
-219541	PP
 NP
-219547	PP
-219551	NP
-219554	PP
+219634	NP
+219636	PP
+219644	PP
+219647	VP
+219655	PP
+219662	PP
 NP
+219665	PP
 NP
-NP
-219559	PP
-219561	PP
-NP
-219571	PP
-NP
-219590	PP
-219601	PP
 PP
 NP
-219606	NP
-219609	PP
-PP
-219614	PP
+219671	PP
 NP
-219617	VP
-NP
-NP
-219622	PP
-NP
-219625	PP
-219631	PP
-NP
-219637	NP
-NP
-NP
-219642	PP
-NP
-219654	PP
-219656	PP
-219658	PP
 PP
 NP
-219668	NP
+PP
 NP
+219679	NP
 NP
+219685	NP
 NP
-219680	PP
-NP
-219683	NP
-NP
-219686	PP
-219689	NP
-NP
-NP
+219691	NP
 219693	NP
-219698	NP
-NP
-219702	NP
-NP
 219708	NP
+NP
 219712	NP
 NP
 NP
-219716	PP
-219729	NP
-219735	NP
-219737	NP
-PP
-219741	NP
-NP
-PP
+219717	PP
+219721	PP
 NP
 NP
+219732	NP
 NP
-219748	NP
-219750	NP
-219758	PP
-NP
-219763	NP
+219744	NP
 NP
 NP
-219768	NP
-219770	NP
-219773	PP
-219780	NP
-219782	NP
+219749	PP
+NP
+219761	NP
+NP
+219764	PP
 NP
 NP
-219786	NP
+219770	PP
+219772	PP
+219775	PP
 NP
 NP
-219794	NP
+219779	NP
+219788	NP
+219799	PP
+219804	NP
+219808	PP
 NP
-NP
-219798	NP
-NP
-219805	NP
-NP
-219808	NP
-NP
-219821	NP
 219823	NP
-219828	PP
-219835	NP
-219837	NP
-219839	NP
+219826	PP
 NP
 NP
+219831	NP
+NP
+219837	VP
+PP
+219842	NP
+219844	NP
+NP
+PP
 NP
 NP
-219847	NP
+219850	PP
+PP
 NP
-219853	NP
+219859	NP
+219861	PP
 219863	NP
+219875	PP
+219879	PP
+219883	NP
+NP
+219891	NP
+NP
+NP
+NP
+219898	NP
+219901	PP
+219903	NP
+NP
+NP
+PP
+219908	NP
+PP
+219919	PP
+NP
+219923	PP
+NP
+NP
+219928	NP
+PP
+219932	PP
+NP
+219936	PP
+NP
+219942	NP
+219945	NP
+219949	NP
+NP
 PP
 NP
-219867	PP
-219873	PP
-NP
-219878	NP
-219882	PP
+219956	NP
 PP
 NP
-219887	NP
-NP
-NP
-219894	NP
-219900	NP
-219903	PP
-NP
-219911	PP
-NP
-NP
-219915	PP
-NP
-219918	PP
-NP
-219922	NP
-NP
-219927	PP
-NP
-219932	NP
-219935	PP
+219963	NP
 NP
 NP
 NP
+219972	NP
+219975	NP
+PP
 NP
+219988	NP
+219994	PP
+219997	PP
+220000	NP
 NP
-NP
-219944	NP
-NP
-NP
-NP
-219952	NP
-219957	PP
-NP
-NP
-219962	PP
-219973	PP
-NP
-219976	NP
-NP
-NP
-219981	PP
-NP
-NP
-NP
-219989	NP
-219994	NP
-219996	PP
-NP
-NP
+220003	NP
 220005	NP
-220011	NP
 NP
-NP
+220008	NP
 220015	NP
-220025	NP
+220018	PP
+220020	NP
+220031	PP
+220035	PP
 NP
+NP
+NP
+220040	NP
+NP
+NP
+220047	NP
+PP
+220055	NP
+NP
+220060	NP
+220062	NP
+NP
+NP
+NP
+220069	PP
+NP
+220073	PP
+NP
+220083	NP
+NP
+NP
+NP
+220095	NP
+220097	NP
 PP
 NP
-220030	PP
+220109	NP
 NP
-NP
-NP
-220037	PP
-NP
-NP
-220042	PP
-NP
-NP
-NP
-220048	PP
-NP
-NP
-220052	NP
-220054	PP
-NP
-220057	NP
-220062	PP
-NP
-NP
-220066	PP
-PP
-NP
-NP
-NP
-PP
-NP
-NP
-NP
-220085	NP
-220089	PP
-NP
-PP
-220093	NP
-NP
-PP
-NP
-NP
-220101	NP
-NP
-220105	PP
-NP
+220114	NP
 220117	NP
+220122	PP
 NP
-220122	NP
-NP
-NP
-NP
-220140	AdvP
+220129	NP
+PP
+220134	NP
+220146	NP
 220150	NP
-220156	PP
+NP
+220158	NP
+NP
+220167	PP
+220170	NP
+220174	PP
 NP
 NP
-220160	NP
-220168	NP
-220172	PP
+220179	PP
 NP
-220176	NP
-220187	NP
+220183	VP
 PP
 NP
-220191	PP
 NP
-220194	NP
-PP
-220200	NP
 NP
-220210	PP
-220214	NP
+220195	NP
+NP
+220199	PP
+220203	NP
+220213	NP
+NP
 220222	NP
-220224	PP
-NP
 220228	NP
+220238	PP
+220240	PP
 NP
-220234	NP
+220244	NP
 NP
-220240	NP
-220243	NP
-220248	NP
-220256	NP
 NP
-220260	NP
-220267	PP
+220249	NP
+NP
+NP
 NP
 PP
+220255	NP
+NP
+220259	NP
+NP
+220270	PP
 NP
 NP
-220273	PP
+220275	PP
 NP
+220280	NP
 NP
-220278	NP
-220284	PP
-220286	PP
-NP
-220292	NP
-NP
+220288	PP
 220296	NP
 NP
+PP
+NP
+NP
 220304	NP
+220308	NP
 NP
-220313	PP
 NP
-220322	NP
-220325	PP
+220328	NP
+220338	NP
+NP
+220342	PP
+NP
+NP
+NP
+220349	PP
+NP
+NP
+220356	NP
+NP
+220359	PP
+NP
 PP
 NP
-220334	PP
+220365	NP
 NP
 NP
+220371	NP
+220374	NP
 NP
-220339	NP
+220397	NP
 NP
-220343	PP
-220362	NP
-NP
-220377	NP
-NP
-220380	PP
-NP
-NP
-NP
-NP
-220390	NP
 PP
 NP
+220403	NP
+NP
+NP
+220412	NP
+NP
+220422	PP
+220428	PP
+NP
+220431	NP
+NP
+220434	PP
+220436	NP
 NP
 NP
 NP
-220407	PP
-220420	NP
-NP
-NP
-220425	PP
-NP
-220429	PP
-NP
-NP
-220433	NP
 220443	NP
-220445	PP
-220452	NP
-PP
+220448	PP
+220450	NP
+220459	NP
+220469	NP
+220472	NP
+220474	NP
+220485	NP
+220488	NP
 NP
 NP
-220467	PP
-NP
-220471	PP
-NP
-220476	NP
-220478	NP
-NP
-PP
-NP
-NP
-NP
-NP
-220486	PP
-NP
-220489	NP
-NP
-220496	NP
-220504	NP
-220512	NP
+220497	PP
+220501	NP
+220505	NP
+220510	NP
+220515	NP
 NP
 220525	NP
+NP
 220530	NP
-220537	PP
-220544	NP
+220535	PP
 NP
+220542	NP
 NP
-220551	PP
-NP
-220554	NP
-220556	NP
-220560	PP
-NP
-220565	NP
+220551	AdvP
+220558	AdvP
 220569	NP
-220579	NP
 NP
-220586	PP
-220590	NP
+220575	PP
 NP
-220593	NP
 NP
-220597	NP
+NP
+220585	NP
+220592	PP
+220598	PP
+NP
+NP
+220604	PP
+220606	NP
+NP
+220613	NP
+NP
+PP
+NP
+NP
+NP
+NP
+220621	NP
+220623	NP
 PP
 NP
 NP
-220606	PP
-220612	NP
-NP
-220620	NP
-NP
-220628	NP
-NP
-PP
 220632	NP
-220640	NP
+NP
+220638	NP
+NP
+PP
+NP
 NP
 220644	NP
 NP
-220650	NP
+PP
 NP
 NP
-220657	NP
+220654	NP
+PP
+NP
+NP
+220662	NP
 NP
 PP
 NP
 NP
 NP
-220664	NP
+NP
+220673	VP
 NP
 NP
+220678	NP
+220680	NP
 NP
-220672	PP
+220683	PP
 NP
 NP
-NP
+220690	PP
+220694	PP
+220699	NP
 NP
 PP
 NP
 NP
 NP
-220688	NP
-220692	AdvP
-220697	NP
 NP
-NP
-220701	PP
-220703	PP
-NP
-220706	NP
-NP
+220707	NP
 220709	NP
-220714	PP
-NP
-PP
-220720	PP
-220722	NP
-NP
-220725	AdjP
-220727	AdjP
-220729	NP
 PP
 NP
-220740	PP
-220742	VP
+220713	NP
+PP
+220716	NP
+220718	NP
 NP
-220746	NP
-220748	NP
-220758	NP
-220783	PP
+220732	NP
+220734	PP
+220737	NP
 NP
+220750	NP
+220760	PP
+NP
+220768	NP
+NP
+NP
+220776	PP
 220787	NP
+220790	PP
+NP
+PP
+220795	NP
+220801	NP
 NP
 NP
-220799	NP
-220801	PP
-220805	PP
 NP
-220816	NP
+220809	NP
 NP
 NP
 PP
-220822	NP
-220824	PP
-220828	PP
-220836	NP
-220854	PP
 NP
 NP
 NP
-220867	NP
-220876	PP
-220879	PP
+220817	PP
 NP
-220882	NP
+NP
+220831	PP
+NP
+220834	PP
+NP
+NP
+220842	NP
+NP
+220847	PP
+NP
+220863	NP
+NP
+220866	NP
+220870	NP
+220873	PP
+220878	AdvP
+220880	PP
+NP
+220884	NP
+220895	PP
+NP
+NP
+220903	PP
+220911	NP
+NP
+220914	NP
+220916	NP
+220918	PP
+220921	PP
+220941	NP
+NP
+220951	NP
+220956	NP
+NP
+220964	PP
+NP
+NP
+220970	PP
+NP
+220974	NP
+220979	PP
+NP
+220983	PP
+NP
+220991	NP
+NP
+220994	NP
+220999	NP
+NP
+NP
+221006	NP
+221008	NP
+NP
+NP
+NP
+221017	NP
+NP
+NP
+221021	PP
+221026	NP
+221028	PP
+221039	NP
+221053	NP
+221060	NP
+NP
+221069	NP
+221073	NP
+221075	PP
+221079	NP
+NP
+NP
+221084	NP
+NP
+NP
 PP
-220887	PP
-220890	NP
-NP
-220904	PP
-220908	NP
-PP
-NP
-220913	NP
+221089	NP
 NP
 PP
-220917	NP
-220928	NP
-220933	NP
+221093	NP
 NP
-220947	NP
+221098	NP
 NP
 PP
-PP
-220952	PP
-220957	PP
-220961	PP
-220965	NP
-220971	PP
 NP
-220977	NP
+221104	NP
 NP
 NP
-220987	PP
-220991	PP
-PP
-220996	PP
-221007	PP
-NP
-221019	NP
 NP
 NP
-221025	NP
+221110	PP
 NP
-221029	NP
-221034	NP
+221122	PP
+NP
+221126	NP
+221129	PP
+221139	PP
 NP
 NP
-221040	NP
+221144	PP
+221148	NP
+221150	NP
+221185	PP
+221188	NP
 NP
-221047	PP
-221051	PP
-221060	PP
-221063	NP
-221067	NP
-221070	NP
-NP
-221079	PP
-NP
+221192	PP
 NP
 PP
-221094	NP
+221198	PP
+NP
+221201	NP
+PP
+221208	NP
+PP
+NP
+221213	NP
+221215	PP
+NP
+221220	PP
+NP
+221233	AdjP
+221236	PP
+221240	NP
 NP
 PP
-221101	PP
-221105	PP
 NP
-221115	NP
+221246	NP
 NP
-221121	NP
-NP
-NP
-221125	PP
-NP
-221132	PP
-NP
-221138	NP
-221145	PP
-221147	PP
-NP
-221153	PP
-NP
-221159	PP
-221162	PP
-NP
-221169	NP
-221179	NP
-221181	NP
-221187	PP
-NP
-221195	NP
-NP
-NP
-221199	PP
-NP
-NP
-221216	NP
-221221	PP
-NP
-NP
-221237	NP
-221249	PP
-NP
-NP
-221261	PP
 PP
-221268	NP
-PP
-221276	AdvP
-221278	NP
+221252	PP
 NP
+221257	NP
+221259	NP
+PP
+NP
+NP
+NP
+221269	NP
+NP
+221273	NP
+221275	NP
+221277	NP
+NP
+221280	NP
 221283	NP
 NP
 NP
-221293	NP
+NP
+221288	PP
+221291	PP
+221296	NP
+NP
+NP
+NP
+221308	PP
+221330	NP
+221344	NP
+NP
+NP
+221359	NP
+221364	NP
 PP
 NP
 NP
-221299	PP
 NP
-221305	NP
-NP
-221314	PP
-NP
-221317	NP
-NP
-221321	PP
-NP
-PP
-NP
-NP
-NP
-221329	NP
-NP
-221339	PP
-NP
-221343	NP
-NP
-221347	PP
-NP
-221351	NP
-NP
-221362	PP
-NP
-NP
-NP
-221367	NP
-221370	PP
-NP
+221371	NP
 221373	NP
-NP
-221378	NP
-221386	NP
-221389	NP
-221392	PP
-221396	PP
-221400	PP
-221405	PP
+221376	PP
+221379	PP
 NP
 NP
 NP
-221410	PP
+221390	PP
 NP
-221416	PP
+221398	PP
+NP
+NP
+NP
+221404	NP
+221408	PP
+NP
+NP
+221412	NP
+221415	NP
+NP
+221418	NP
+NP
+NP
+NP
+221425	NP
+NP
+221429	NP
+221433	NP
+221437	PP
 221448	NP
-221452	NP
-221456	PP
-NP
-NP
-221461	NP
-NP
-PP
-221465	NP
-221469	PP
-221472	NP
-NP
-221475	NP
+221458	NP
+221460	PP
+221474	NP
+221476	NP
 221478	NP
-PP
+221480	NP
 NP
-221485	NP
-221488	NP
-221494	PP
-NP
-221497	NP
-PP
-221506	NP
-NP
+221491	NP
+221502	NP
 221512	PP
+NP
+NP
 221517	NP
 NP
-221529	NP
-221535	NP
-221541	NP
-221543	PP
-221547	NP
-221550	NP
+221521	PP
 NP
+NP
+221527	PP
+221533	NP
+221535	NP
+NP
+221538	NP
+NP
+221548	PP
+221554	NP
 NP
 221558	NP
 NP
+221566	NP
 NP
-221563	AdvP
-221565	PP
-221571	NP
 PP
-221576	PP
-221585	NP
+221572	NP
+NP
+NP
+NP
 221589	NP
-221591	NP
-221603	NP
 NP
-221617	NP
+221595	PP
+221600	NP
+221604	PP
 NP
-221620	NP
+NP
+NP
+221611	PP
+221615	PP
+NP
+221621	PP
 221626	NP
-221628	PP
 NP
 NP
-221648	NP
-221652	PP
-221660	PP
+221631	NP
+PP
+221636	NP
+221638	VP
+PP
+221641	NP
+221648	PP
 NP
-221664	VP
-221666	NP
-221669	NP
-221671	NP
-NP
-AdvP
-NP
-221676	PP
-NP
-NP
-NP
+221653	NP
+221655	NP
+221659	NP
+221663	PP
+221670	NP
+221672	NP
+PP
+221675	PP
+221677	PP
 221681	NP
-221684	PP
 NP
+221685	PP
+221691	PP
 NP
-NP
-221695	AdjP
-221697	PP
-NP
+221696	NP
 NP
 NP
 221705	PP
 NP
+221710	PP
+221718	PP
 NP
 NP
-221712	PP
+221723	NP
+221730	PP
 NP
 NP
 NP
-221722	PP
-221729	NP
-221731	PP
-221735	PP
-221739	PP
+221737	NP
+221748	NP
 NP
-221743	NP
+221751	NP
 221753	NP
-221766	PP
+221761	NP
+NP
+NP
+NP
+NP
+NP
 221768	PP
+221781	NP
 NP
-221774	PP
-NP
-NP
-221782	PP
-221784	PP
-NP
-221787	NP
-NP
-221793	NP
-221797	PP
-NP
-221800	PP
-221802	VP
-221804	NP
-221813	NP
-221822	PP
-221824	NP
+221784	NP
 NP
 NP
-221828	NP
-221830	NP
-221838	NP
-221851	PP
+221788	NP
+221790	PP
 NP
-221858	NP
-NP
-221888	PP
-NP
-221892	PP
-221894	PP
+221798	NP
+221801	NP
+PP
 NP
 NP
+221810	NP
+221812	PP
 NP
-221907	NP
-221912	NP
-221922	NP
-221926	NP
+221817	PP
+221819	NP
+221826	PP
+221829	PP
+NP
+221834	PP
+NP
+221841	PP
+221845	NP
+NP
+221852	NP
+221854	PP
+NP
+NP
+221860	PP
+NP
+221865	NP
+221869	PP
+221880	PP
+221883	PP
+221888	NP
+221901	AdvP
+221904	PP
+221921	NP
+221926	PP
+221930	PP
 221932	NP
-221939	PP
+221934	NP
 NP
-221942	PP
-221952	NP
-221955	PP
-221960	NP
-221967	NP
-221971	NP
+221941	PP
 NP
-221978	PP
+221947	NP
+NP
+221950	NP
+NP
+221961	PP
+221963	NP
+221965	NP
+221968	NP
+NP
+NP
+221976	PP
+NP
+NP
 221984	PP
 221986	NP
+NP
 221990	PP
-221994	NP
-NP
-221997	NP
+221992	PP
 NP
 NP
-222007	NP
 NP
-NP
+222006	NP
 PP
-222013	PP
-222017	PP
-222019	NP
 NP
-222022	NP
+222029	NP
+222031	NP
 NP
 NP
+222044	NP
 NP
-222027	PP
-NP
-222032	NP
-222038	NP
-222049	AdjP
-222051	NP
-222056	NP
+222050	PP
+222059	NP
 222062	NP
-222072	NP
+222068	PP
 NP
-222076	PP
+222071	NP
 NP
-222081	NP
-222087	NP
-222096	NP
-222100	NP
+222075	PP
 NP
-222110	PP
+222080	PP
 NP
-222115	PP
-PP
-222118	PP
-NP
-NP
-NP
-222123	NP
-NP
-NP
-222130	PP
+222083	NP
 NP
 NP
 PP
-222137	PP
-222140	PP
+NP
+222092	NP
+222098	PP
+222102	PP
+NP
+222107	NP
+222112	NP
+222119	NP
+222121	NP
+NP
+222130	NP
+NP
+NP
+222134	PP
+NP
+222137	NP
+222148	NP
+222150	PP
+NP
+PP
 NP
 222157	NP
+222169	NP
+PP
+222178	PP
 NP
-222172	PP
-222174	PP
+222184	NP
 NP
-222180	NP
-222188	NP
-222195	NP
-222201	NP
+NP
+222188	PP
+NP
+222196	PP
+222204	NP
 PP
 NP
-222207	NP
+222208	PP
 NP
-222211	PP
-222214	NP
-NP
-222217	PP
-NP
-222223	PP
-NP
-222234	PP
-NP
-222237	NP
-NP
-222240	NP
-NP
-NP
-222244	PP
-NP
-222248	PP
+222213	NP
 PP
 NP
-222257	NP
-222259	PP
 PP
 NP
-222263	NP
-222266	PP
-222271	PP
-222277	PP
-222280	PP
-222286	NP
-222296	PP
+222229	PP
 NP
+222232	PP
+NP
+222242	PP
+NP
+222248	NP
 PP
-222304	NP
 NP
-222308	PP
-222311	PP
+222256	PP
 NP
-222315	NP
-222319	PP
+NP
+NP
+222272	NP
+NP
+NP
+NP
+NP
+NP
+222279	PP
+222281	NP
+222286	PP
+222291	NP
+222293	PP
+222295	NP
+222297	PP
+222304	PP
+NP
+NP
+222312	NP
+222315	PP
+NP
 NP
 222322	NP
+222324	PP
+222327	NP
+222330	NP
+VP
+222344	NP
+NP
+222349	PP
 NP
 NP
-222326	NP
-NP
-222329	NP
-222338	PP
-NP
-222347	NP
+222355	PP
 NP
 NP
-222351	NP
-NP
-222357	NP
 222360	NP
-222362	NP
-222371	NP
+NP
+222364	NP
+NP
+222369	PP
 222373	NP
-222375	PP
-NP
-NP
-222383	PP
-NP
-222389	NP
-222391	PP
-222394	NP
-222400	NP
-222406	NP
-222410	NP
-222416	NP
-NP
-222421	PP
-NP
-222425	PP
-NP
-NP
-222436	PP
-222440	NP
-222457	PP
-222459	NP
-NP
-NP
+222378	NP
+222380	PP
 NP
 PP
 NP
-222467	NP
+222387	PP
+222392	NP
 NP
-222472	PP
+NP
+NP
+222399	NP
+NP
+NP
+NP
+222405	NP
+222413	NP
+222415	NP
+222420	NP
+222432	PP
+222436	NP
+222446	PP
+NP
+222451	PP
+NP
+NP
+222463	NP
+NP
+222468	PP
 222474	PP
 NP
-222479	PP
+222480	NP
 NP
-222482	NP
 222484	NP
-222488	PP
 NP
-222496	NP
+222500	PP
 NP
-222501	NP
-222507	NP
-222514	PP
+222506	PP
+222513	NP
 NP
-222518	NP
 NP
-PP
-222523	PP
-222528	PP
-222532	PP
-222534	PP
-222541	PP
-222543	NP
-222547	NP
-222554	NP
-222559	NP
-222566	PP
+222517	NP
+222542	NP
 NP
-222573	PP
-222595	PP
+222546	NP
+222552	NP
+NP
+222564	NP
+NP
+222576	NP
+222582	PP
+NP
+NP
+222593	NP
 NP
 NP
 222600	PP
-NP
-222603	PP
-NP
-NP
+222605	PP
 NP
 222617	PP
 NP
-222629	NP
-222637	NP
-222639	NP
-222643	PP
-222647	NP
+222623	PP
+NP
+222639	PP
 NP
 NP
-222651	NP
+NP
 PP
-222657	NP
-222664	NP
-222672	PP
-NP
-222676	NP
 NP
 NP
-222682	NP
-222685	NP
-222688	NP
+222647	PP
+NP
+PP
+222653	PP
+NP
+222662	NP
+NP
+222667	PP
+222669	PP
+222673	PP
+PP
+222683	NP
 NP
 222697	PP
-NP
+222706	NP
+222715	PP
 PP
-222705	PP
 NP
-222713	NP
-222717	PP
-NP
-222726	PP
-NP
-NP
-222730	NP
-222749	PP
-222752	PP
-NP
-222755	PP
+222720	NP
+222731	PP
 NP
 NP
 NP
-222773	NP
+222736	NP
+222739	NP
+222745	NP
+222750	NP
+222754	PP
 NP
-222792	NP
 NP
-222795	NP
-222801	NP
-222805	NP
+222765	PP
+NP
+222770	PP
+222786	NP
+222788	NP
+222793	PP
+NP
+NP
+NP
+222800	AdjP
+222804	PP
+NP
+NP
 222809	NP
+PP
+PP
+222823	NP
 NP
+222826	NP
 NP
-222814	PP
-222817	PP
-222835	NP
-222846	NP
+222829	PP
 NP
-NP
+222837	NP
+222839	NP
 222852	NP
 NP
-NP
-222857	NP
-222866	NP
-222875	NP
+222856	PP
+VP
+222859	PP
+222862	NP
+222869	NP
 222878	NP
-222882	NP
+222885	NP
 NP
 NP
-222886	PP
-NP
-222889	NP
-NP
-222892	NP
-222899	NP
-PP
-222904	NP
-222906	NP
+222902	NP
 NP
 NP
-222912	PP
-222920	PP
-222922	NP
-PP
-NP
-PP
-222927	NP
-222932	PP
+222916	NP
 NP
 NP
-PP
+222923	PP
 NP
-222940	NP
-222943	NP
+222931	NP
 NP
-222946	NP
+222936	PP
+222941	PP
 222948	NP
-222950	NP
+NP
+PP
 222957	NP
 NP
-222971	NP
-AdjP
-222974	NP
-222980	NP
-NP
-NP
-222986	NP
+222965	NP
 NP
 PP
+222977	NP
+NP
+222989	NP
+NP
+222993	NP
+NP
+NP
+222999	PP
+NP
+NP
+223004	NP
+223006	NP
+NP
+223014	NP
+223018	AdvP
+223023	NP
+NP
+NP
+223029	PP
 NP
 NP
 NP
-222993	PP
+NP
+223040	PP
+NP
+223045	PP
+223048	NP
 NP
 NP
 NP
-222998	PP
-NP
-NP
-NP
-223003	PP
-NP
-NP
-NP
-223010	NP
-NP
-223016	NP
-223022	NP
-223025	PP
-223034	PP
-223038	PP
-NP
-NP
-223042	PP
-NP
-NP
-223046	PP
-NP
-NP
-223051	NP
-223056	NP
+223054	NP
 NP
 223060	NP
-223071	PP
+223069	PP
+223072	NP
 NP
-NP
-NP
-223083	NP
-223086	PP
-NP
+223077	PP
+223079	NP
+223082	NP
+PP
+VP
 223090	NP
-223092	NP
 NP
-223095	NP
-223097	PP
+223094	NP
 NP
-NP
-NP
-223103	NP
-NP
-223106	PP
-NP
-223110	NP
-NP
+223101	PP
+223104	PP
+223106	NP
 PP
 NP
+223118	NP
+223143	PP
+223146	PP
+NP
+223151	PP
+NP
+223157	NP
+NP
+223163	PP
+223165	NP
+223176	PP
 NP
 NP
-223121	NP
-223124	NP
 NP
-223130	PP
+223185	NP
 NP
+223190	PP
 NP
-223135	PP
-NP
-223138	PP
-223141	NP
+223194	NP
+223197	NP
 PP
 NP
-223145	NP
-PP
-NP
-223149	NP
-PP
-NP
-223153	NP
+223206	PP
 NP
 NP
-223162	NP
-223165	PP
+223224	PP
+223228	PP
+223234	NP
 NP
-223169	NP
-223172	PP
-NP
-223175	NP
-223180	NP
-NP
-223183	NP
-223189	NP
-NP
-223196	NP
-NP
-NP
-223200	NP
-223203	PP
-NP
-223207	PP
-223213	PP
-NP
-NP
-NP
-223220	NP
-NP
-NP
-223226	PP
-NP
-223230	NP
-NP
-NP
-223236	NP
-223238	NP
-223240	NP
 223244	NP
+223247	NP
+NP
+223252	PP
+223254	PP
+223260	NP
+NP
+223270	NP
+223276	NP
 NP
 NP
-AdvP
-223249	PP
-223251	AdvP
-223256	PP
+NP
+223282	NP
+223286	NP
+NP
+223291	PP
 NP
 NP
 NP
-PP
+223299	PP
 NP
-223264	PP
-223275	NP
-223278	NP
-223280	NP
-223292	PP
+223304	PP
 NP
 NP
-223306	NP
-223313	NP
-223317	PP
+223309	PP
+NP
+NP
+NP
+NP
+NP
+223316	NP
+NP
 223320	PP
-223323	PP
-223326	NP
-223334	PP
-223336	PP
-223339	PP
-223342	PP
+NP
+223327	NP
+NP
+223330	VP
 PP
+223340	PP
+NP
 NP
 223346	PP
 NP
-NP
-223352	NP
-223365	PP
-NP
-NP
-223375	NP
+223351	NP
+223354	NP
 NP
 NP
-223382	PP
-223389	PP
-223394	VP
-PP
+NP
+223362	PP
+223368	NP
+NP
 PP
 NP
 NP
-223401	PP
-223407	NP
+223384	PP
+NP
+223392	NP
+223398	PP
 NP
 NP
-223417	NP
-PP
-NP
+223409	PP
+223412	PP
 223421	PP
-NP
-NP
 PP
+223427	PP
+223429	NP
 NP
-223432	PP
 NP
 NP
 223436	NP
-PP
-NP
-223441	PP
-NP
-223444	NP
+223439	PP
+223443	PP
 NP
 223448	PP
-223452	PP
 NP
+223458	NP
 NP
-223463	NP
-NP
-223469	PP
-NP
-223473	NP
-PP
-NP
-223477	AdvP
-223485	NP
-223488	NP
-223490	PP
-NP
-223495	NP
-223504	NP
-223515	PP
-223519	NP
-223527	PP
-NP
-NP
-PP
-NP
-NP
-NP
-223536	NP
-223539	NP
-NP
-223542	NP
 VP
 PP
+223465	NP
+223475	PP
 NP
-223547	NP
+223486	PP
 NP
+223492	PP
+NP
+223496	PP
+223504	NP
+223507	NP
+223511	NP
+NP
+NP
+223515	NP
+223517	NP
+NP
+223522	NP
+223526	PP
+223537	NP
+NP
+223544	NP
+223546	NP
+NP
+223552	NP
+NP
+NP
+223557	NP
+223567	NP
 PP
 NP
-223555	NP
+NP
+223573	PP
+NP
+223578	NP
+PP
+223582	PP
+NP
+223586	NP
 NP
 NP
-223559	PP
+223590	PP
+223593	NP
+NP
+223598	PP
 PP
 NP
-223566	NP
-223569	NP
-NP
 PP
-NP
-NP
-PP
-NP
-PP
-NP
-PP
-223580	NP
-223582	NP
-223585	NP
-NP
-223591	NP
-223595	NP
-223598	NP
-223607	PP
-223611	AdvP
-223613	NP
-NP
-PP
+223603	NP
+223612	PP
+223614	NP
 223617	NP
-223619	NP
-223621	NP
-223623	NP
-223625	NP
+223622	NP
+NP
+NP
 223628	PP
-223630	NP
-NP
-223633	NP
-223637	NP
-NP
-PP
-223641	NP
-223644	NP
-223651	NP
-223654	NP
-223656	NP
-NP
-223660	NP
 NP
 NP
-223664	NP
+223637	PP
+NP
+223650	PP
+NP
+223654	PP
+NP
+223661	NP
 NP
 223667	NP
-223677	NP
+223669	PP
 NP
 NP
-223700	NP
-223702	NP
+223675	PP
+223678	PP
+NP
+223681	NP
+223685	NP
 PP
+223689	NP
 NP
-223707	NP
-223709	NP
-223712	PP
+NP
+223695	PP
+PP
+223699	PP
+NP
+223711	NP
+NP
+PP
 223718	PP
 NP
-223723	NP
 NP
-223728	PP
+NP
+223723	PP
+NP
+223732	PP
+NP
+NP
+223737	NP
+223739	NP
+223742	PP
+NP
+NP
 PP
 NP
+223753	NP
 NP
 NP
-223738	NP
+223761	PP
 NP
 NP
+223767	NP
 NP
-223743	NP
-223745	NP
-NP
-VP
-223750	PP
-PP
-NP
-NP
-NP
-NP
-223759	NP
-NP
-223762	PP
-NP
-223766	NP
-223770	NP
-223779	NP
-223781	PP
-223784	NP
+223777	PP
+223782	NP
+223784	PP
 223786	PP
-223804	NP
+223797	PP
 NP
+223804	PP
+223806	PP
+NP
+223827	NP
 PP
+223831	NP
 NP
-223813	NP
-PP
-NP
-NP
-NP
-223822	PP
-NP
-223825	NP
+223835	PP
 NP
 NP
-223829	PP
+223842	NP
+223845	PP
 NP
 223851	NP
+223854	PP
+223858	PP
 NP
 NP
 NP
 NP
-223859	NP
+223866	AdvP
+223871	PP
+223874	NP
+223881	NP
 NP
-223867	NP
-223870	NP
+223884	PP
 NP
+223887	PP
 NP
-223877	PP
-NP
-223882	NP
 NP
 223891	NP
-223893	NP
-223897	NP
-NP
-223900	NP
-PP
 NP
 NP
-223909	NP
+223902	NP
+223904	NP
+223906	NP
+223911	PP
+223920	NP
+223925	PP
+223930	PP
 NP
 NP
-223919	NP
-223922	PP
-NP
-223931	NP
-223936	PP
-NP
-223941	NP
-223946	NP
-PP
-223951	PP
-223957	NP
-PP
-223964	NP
-NP
-223967	PP
-PP
-NP
-223971	NP
-223973	NP
-NP
-223978	PP
-223981	NP
+223940	NP
+223943	NP
+223948	NP
+223952	NP
+223956	NP
+223960	PP
 NP
 PP
-NP
-NP
-NP
-223993	NP
-NP
-224010	NP
-NP
-224020	PP
-224027	NP
-NP
-NP
-NP
-224032	PP
-224037	AdvP
-224039	PP
-NP
-NP
-NP
+223967	NP
+223977	NP
+223998	NP
+224006	NP
+224011	PP
 PP
 NP
+224025	NP
 NP
-224049	PP
-NP
-NP
-NP
-224056	PP
+224028	PP
 NP
 NP
 NP
-224063	NP
-224070	NP
-224072	NP
-224075	PP
-224080	PP
+224033	PP
 NP
 NP
-224087	NP
-224095	NP
-224101	NP
 NP
-224120	AdvP
-224125	NP
-224129	PP
+224038	PP
 NP
 NP
-224135	NP
 NP
-224143	NP
-224145	NP
-224147	NP
+224043	PP
+NP
+NP
+NP
+224048	NP
+NP
+224068	PP
+NP
+224073	NP
+224075	NP
+224078	NP
+224081	PP
 PP
-224159	NP
+224098	PP
+224100	NP
+224102	PP
 NP
+NP
+224111	NP
+224113	PP
+NP
+224120	NP
+224124	PP
+224132	NP
+NP
+224141	PP
+NP
+NP
+224146	PP
+224152	PP
+NP
+224155	NP
+224157	NP
+224168	PP
+224173	NP
+NP
+NP
+NP
+224181	PP
+NP
+224187	NP
 PP
-224170	PP
-NP
-224179	PP
-NP
-224183	NP
-224188	NP
-NP
-PP
-224206	NP
-224211	NP
-224219	PP
-NP
-224223	NP
-224230	NP
-NP
-224239	VP
-224241	NP
-NP
-224251	NP
-224256	NP
-224261	NP
-224264	NP
-NP
-NP
-PP
+224192	NP
+224199	PP
+224205	PP
 NP
 NP
 NP
-224283	NP
+224214	PP
+NP
+224220	NP
+224226	PP
 NP
 NP
-224287	PP
 NP
-PP
+224231	NP
+NP
+NP
+224236	PP
+NP
+224247	NP
+NP
+NP
+224262	NP
+224271	PP
+224273	NP
+224279	NP
+NP
+224288	PP
+VP
 224291	PP
 NP
-224294	NP
 224296	NP
-224326	NP
-224332	NP
-224335	NP
-224337	NP
 NP
-NP
-224342	NP
-NP
-224346	NP
-224350	PP
-224352	PP
-224356	PP
-224358	PP
-PP
-NP
-224369	NP
-224376	NP
-224381	PP
-224388	NP
-224393	NP
-PP
-NP
-224398	NP
-NP
-224401	NP
-224403	NP
-224405	NP
-PP
-224409	PP
 NP
 PP
+224305	NP
+224307	NP
+NP
+224319	NP
+NP
+224322	NP
 NP
 NP
 NP
-224416	VP
+NP
+NP
+224330	NP
+PP
+224336	NP
+NP
+NP
+224341	NP
+224348	PP
+224351	PP
+224353	NP
+PP
+224359	PP
+224367	NP
+224370	NP
+224372	PP
+PP
+224391	NP
+224394	NP
+NP
+PP
 PP
 NP
-224421	PP
-NP
-NP
-224426	NP
-NP
-224429	PP
-NP
-224432	PP
-224441	PP
-224444	NP
-224451	PP
-224461	NP
-NP
-NP
-224465	PP
-NP
-NP
-224474	NP
-NP
-224478	NP
+224414	PP
+224416	NP
 PP
-224481	NP
-224498	NP
+NP
+NP
+224445	NP
+224457	NP
+224459	PP
+NP
+224462	NP
+224464	PP
+224482	NP
+224484	NP
+NP
+AdvP
+224488	NP
+NP
+PP
+224492	NP
+224497	VP
 224506	NP
+224509	NP
+224512	NP
 NP
+224515	PP
+224517	PP
+224519	NP
 NP
-NP
-NP
-224517	NP
-NP
-NP
-PP
 NP
 224523	NP
-224526	PP
+224527	NP
+PP
+224530	PP
+224534	NP
+NP
+224539	NP
+NP
+PP
+224546	PP
+224552	NP
+NP
+PP
+224558	NP
+NP
+224562	PP
+224565	NP
+224569	PP
+224571	NP
 NP
 NP
-NP
-NP
-224533	NP
-NP
-224538	NP
-224541	NP
-224545	NP
-224559	NP
-NP
-224569	NP
-224575	NP
-224577	PP
-NP
-224580	NP
-NP
-NP
+PP
+224576	PP
+224578	NP
+224582	PP
 NP
 224586	NP
-224591	NP
+224589	PP
+NP
+NP
+NP
+224594	NP
+224597	NP
+NP
 PP
+224601	NP
+224606	AdjP
+224611	NP
 NP
-224595	NP
-224610	PP
+224614	PP
+224617	NP
 NP
-224613	NP
-224622	PP
+224623	PP
+PP
 224629	PP
 224633	NP
-224635	PP
-224637	NP
-224649	NP
 NP
-224655	PP
-224660	NP
+224636	PP
 NP
-224665	NP
-224682	NP
+224640	PP
+NP
+224649	PP
+NP
+224652	NP
+224668	NP
+NP
+NP
+AdjP
+224678	NP
+NP
+NP
+NP
+224683	NP
+224686	PP
+224691	NP
+224693	NP
 PP
 NP
-224687	NP
-NP
-224690	NP
-224698	NP
 224701	NP
-NP
-NP
+224712	NP
 224714	NP
-224716	NP
-224729	NP
-224736	NP
-PP
+NP
+NP
+224720	NP
+224727	NP
+NP
+NP
 224741	NP
-224744	VP
-224748	PP
 NP
-224751	PP
-NP
-224757	NP
-224763	NP
-224771	NP
+224748	NP
+224752	NP
 NP
 NP
-224777	PP
+NP
+NP
+NP
+224761	NP
+224763	PP
+NP
+PP
+NP
+NP
+NP
+NP
+224775	PP
+NP
+NP
+NP
 224780	NP
 NP
-224784	NP
-224787	NP
-224790	NP
-224801	NP
+224784	AdjP
+224791	PP
+NP
+PP
 NP
 NP
-224810	NP
-224814	NP
-224823	NP
+224801	PP
+NP
+NP
+224806	AdjP
+224813	PP
+224816	PP
+NP
+224820	PP
+NP
+224824	NP
 224826	NP
 NP
-224831	NP
-224834	NP
-224838	NP
-224842	PP
 NP
-224849	NP
+224830	NP
 NP
-224859	NP
-224865	NP
+224833	NP
+NP
+224837	NP
+NP
+NP
+NP
+224847	NP
+NP
+NP
+224856	NP
+NP
+PP
+224863	NP
+NP
 NP
 224869	NP
 NP
-224877	NP
-224886	NP
-224890	NP
+224872	AdjP
+224875	NP
 NP
-224900	NP
+224879	PP
+224887	PP
+224891	NP
+224899	PP
 NP
-224904	PP
-NP
-NP
-224910	NP
-NP
-224915	PP
-NP
-224918	VP
-NP
-224923	NP
-224934	NP
-NP
-224938	PP
-224944	NP
-224949	VP
+224903	NP
+PP
+224908	NP
 NP
 NP
+224912	NP
+224914	NP
+224916	NP
+224918	NP
+224924	NP
 NP
 NP
+224942	NP
+224947	NP
+224949	NP
+224951	NP
+224955	NP
+224957	NP
 NP
 NP
+224970	NP
+224974	NP
 NP
-224958	PP
-224960	NP
-224962	PP
-224965	PP
-NP
-224972	NP
+PP
 NP
 224979	NP
-224982	PP
 NP
-224987	PP
-NP
-224990	NP
-NP
-224993	PP
 PP
 NP
+224989	PP
+224991	NP
+NP
+NP
+224996	NP
 225003	NP
 NP
+225010	NP
+225015	NP
+225017	NP
+225022	NP
 NP
-225008	PP
+225026	NP
 NP
-225016	PP
-225021	NP
-225024	PP
 NP
+225031	NP
+225037	NP
+NP
+NP
+NP
+225042	NP
+225052	NP
+NP
+NP
+NP
+225065	PP
+NP
+NP
+NP
+NP
+225073	PP
+225078	PP
+225084	NP
+NP
+NP
+NP
+225089	PP
+NP
+PP
+NP
+NP
+225095	PP
 NP
 PP
 NP
-225030	NP
+225101	PP
+225103	NP
+225105	NP
+225110	PP
 NP
-225033	NP
 NP
-225040	VP
+225115	NP
+225118	NP
 NP
 NP
+225134	NP
+225136	NP
+225143	PP
+225148	PP
 NP
 NP
 PP
-225049	NP
-225074	NP
-225077	NP
-225080	NP
+225153	NP
 NP
 NP
-225084	PP
-PP
-PP
-225089	NP
-225091	PP
-NP
-225098	NP
+225161	PP
 NP
 NP
-225104	NP
-NP
-PP
-225108	PP
-225110	NP
-225112	NP
+225167	PP
 NP
 NP
-NP
-225121	PP
-NP
-225129	NP
-225132	PP
-225143	NP
-PP
-NP
-NP
-VP
-NP
-NP
-NP
-225153	PP
-NP
-225157	NP
-NP
-NP
-NP
-225167	NP
-225174	PP
-NP
-225177	NP
-NP
-225185	NP
+225174	NP
 225189	PP
-225191	VP
+225192	PP
+NP
+225195	PP
+NP
+225200	PP
+NP
+225203	PP
+NP
+225206	PP
+NP
+225211	NP
+NP
+225215	PP
+225217	NP
+225219	PP
+225222	NP
+225230	PP
+225235	PP
+NP
+225242	NP
+225244	NP
+225246	NP
 PP
-225196	PP
-NP
-NP
-NP
-NP
-225202	NP
-225204	NP
-225210	NP
-NP
-225213	NP
-NP
-225224	NP
-NP
-NP
-225228	PP
-NP
-225231	NP
-225234	PP
-225238	NP
+225249	VP
 PP
 NP
+225253	NP
 NP
 NP
-225248	NP
-225251	AdjP
-225254	PP
 NP
-225259	PP
+NP
 NP
 225262	NP
-225272	NP
-225279	NP
-225286	NP
+225267	NP
+225270	PP
+PP
 NP
-225289	NP
-225293	PP
 NP
-225304	PP
 NP
-225319	NP
+NP
+NP
+225278	PP
+PP
+NP
+NP
+NP
+225286	PP
+NP
+225289	PP
+NP
+NP
+NP
+225294	NP
+225298	PP
+NP
+NP
+NP
+225305	PP
+NP
+NP
+225316	PP
+225318	NP
+225320	NP
 225322	NP
+225333	NP
+225335	NP
+225338	PP
+NP
+NP
+225346	NP
 PP
-225325	NP
-225329	PP
-225340	PP
-225342	PP
-225344	NP
-PP
-225348	PP
 NP
-225351	PP
-225355	NP
-225362	NP
+225352	NP
 NP
-225367	NP
+225355	PP
 NP
-225380	PP
+225365	NP
+225368	PP
+225371	PP
+225377	PP
 NP
-NP
+225381	PP
 225384	NP
 NP
-NP
-225394	NP
-225398	PP
-NP
-NP
-225403	NP
-225408	NP
-225410	AdvP
-225413	PP
-225419	NP
-225422	PP
-225426	PP
-NP
-225430	PP
+225387	PP
+225393	PP
+225395	NP
 NP
 NP
-225438	NP
-225441	NP
-225443	PP
+225399	NP
+225402	PP
+225412	NP
+NP
+225423	NP
+NP
+225431	NP
+NP
+225434	NP
+225436	NP
+225439	NP
+NP
+225443	NP
+NP
+225446	PP
+NP
+225456	NP
+225458	NP
 NP
 NP
-225447	NP
-225450	NP
-PP
 NP
-225455	PP
-225457	NP
-225459	NP
-NP
-PP
 225463	PP
-225465	PP
-NP
-NP
-225469	NP
-NP
-NP
+225474	PP
 225478	PP
 NP
 NP
-225482	PP
-225486	PP
-225489	NP
+PP
+225487	NP
+225491	NP
+225495	NP
 225499	NP
-225502	NP
-PP
-225506	NP
-225508	PP
+225501	NP
+NP
+225505	NP
+225518	NP
+225521	AdvP
+225524	NP
+NP
+225527	PP
+225530	PP
+NP
+NP
+225541	PP
+NP
+225545	NP
+225556	PP
 NP
 NP
 NP
-NP
-NP
-NP
-225517	PP
-NP
-225522	PP
-NP
-NP
-225526	NP
-NP
-225533	PP
-NP
-225536	PP
-NP
-NP
-NP
-225541	NP
-225550	NP
-225554	VP
+225562	NP
+225565	NP
 PP
 NP
-NP
-225560	PP
-225563	PP
-NP
-NP
-NP
-NP
-PP
-NP
-PP
-NP
-NP
-NP
-225577	PP
-NP
-NP
-NP
+225573	PP
+225575	NP
+225578	AdvP
 225582	NP
-NP
-NP
-VP
-NP
-225588	NP
-NP
-NP
 225594	NP
-225596	PP
+225596	NP
 NP
 NP
-NP
-NP
-225608	PP
-225611	PP
+225600	NP
+225602	NP
+225610	NP
 NP
 225618	NP
 NP
-225621	NP
+225622	NP
 NP
-225628	NP
+225626	NP
+225629	NP
+225637	NP
+225640	NP
 NP
-225637	PP
+PP
+225644	NP
+225656	NP
+NP
+225659	NP
 NP
 NP
-225644	PP
-225647	AdvP
-225650	NP
-225652	PP
+225667	NP
+NP
+225671	NP
+225676	NP
+225678	NP
+NP
+225682	PP
+NP
+225694	NP
+NP
+225698	NP
+225717	PP
+NP
+225720	PP
+NP
+NP
+225736	NP
+NP
+NP
+225743	NP
+NP
+225746	NP
+225750	NP
+225753	NP
+NP
+NP
+225759	NP
+225761	PP
+NP
+NP
+225767	PP
+225770	NP
+225774	NP
+225776	NP
+NP
+NP
+225781	NP
 PP
 NP
 NP
-225657	NP
-NP
-NP
-225661	PP
-NP
-NP
-225667	PP
-PP
-NP
-225672	NP
-PP
-225676	PP
-NP
-225680	NP
-225685	PP
-NP
-PP
-225695	NP
-NP
-225698	PP
-NP
-NP
-225703	NP
-225709	PP
-NP
-225714	PP
-225727	PP
-NP
-225731	PP
-225735	NP
-NP
-225739	PP
-NP
-NP
-225743	VP
-NP
-NP
-225748	PP
-225750	PP
-NP
-225764	PP
-NP
-225768	VP
-225777	NP
-NP
-NP
-NP
-225782	PP
-NP
-NP
-PP
-225787	NP
+225786	PP
 NP
 225790	NP
 NP
-225795	NP
-225802	PP
-225806	NP
-PP
-PP
-225810	NP
+225794	NP
+NP
+225803	PP
 NP
 NP
 225814	NP
-PP
 NP
 PP
 NP
 NP
-225823	PP
+225820	NP
 NP
-225826	NP
-225830	PP
+225828	NP
+225830	NP
+225837	NP
 NP
-225833	NP
 NP
 NP
-225839	PP
-225843	NP
-PP
-225847	PP
-NP
-225854	NP
-NP
+225842	PP
+225848	PP
 225858	NP
-225866	PP
-NP
-225871	PP
-225877	NP
-NP
-225884	NP
-225889	NP
-NP
-NP
-NP
-NP
-225896	PP
-NP
 NP
 PP
 NP
-225902	NP
-NP
-225910	PP
-NP
-225921	NP
-225924	NP
-225926	PP
-225928	NP
-225932	NP
+225864	NP
+225866	NP
+225868	NP
 NP
 NP
-225937	NP
-225940	NP
+NP
+225876	PP
 NP
 NP
+225886	AdjP
+225889	NP
+225896	PP
+225908	PP
+NP
+225924	PP
+225932	PP
+NP
+225943	VP
 225945	PP
 NP
-225949	NP
-225956	PP
+NP
+PP
+NP
+225952	PP
+225955	PP
+225960	PP
+225963	PP
+225966	PP
+225969	PP
+NP
+225973	PP
 NP
 NP
-225963	NP
+225978	PP
 NP
-225967	PP
+225982	NP
 NP
+225990	PP
+226012	NP
 NP
-225972	PP
+226015	NP
+226017	NP
+226020	NP
 NP
-225977	PP
+226028	PP
+PP
+226032	NP
+226037	PP
 NP
-NP
-225981	PP
 NP
 PP
 PP
 NP
-225988	PP
+226046	PP
+226052	PP
 NP
-NP
-225993	NP
-225998	NP
-NP
-NP
-NP
-226003	NP
-PP
-NP
-NP
-226009	NP
-NP
-226013	NP
-226018	PP
-226021	NP
-NP
-NP
-NP
-226030	NP
-NP
-NP
-NP
-PP
-226039	NP
-NP
-NP
-NP
-PP
-NP
-NP
-226047	PP
-NP
-PP
-NP
-NP
-226060	PP
-226065	NP
-NP
-NP
-226070	NP
-NP
-PP
-NP
+226055	NP
+226058	NP
+226060	NP
+226063	PP
+226067	AdvP
+226071	NP
 NP
 NP
 226078	PP
 NP
 NP
+226083	PP
+NP
+226086	NP
+NP
+226090	PP
 NP
 NP
-226085	PP
+226099	NP
 NP
-226089	NP
-NP
-226095	NP
-226098	NP
-NP
-226101	NP
-NP
-PP
-226109	PP
-NP
-226113	NP
-NP
-226117	PP
-226129	NP
-226134	PP
+226102	PP
 NP
 NP
+226122	NP
 NP
-226139	NP
+226125	PP
+226127	NP
 NP
 PP
 NP
-226146	PP
+226139	PP
 NP
-NP
-226151	PP
-NP
-NP
-NP
+226142	NP
 226157	NP
 NP
-226166	NP
-226168	NP
+226164	PP
 NP
-226173	NP
 NP
+226172	PP
+226178	PP
+NP
+226183	NP
 PP
-226181	PP
+226189	PP
 NP
 NP
-NP
-226187	NP
-226191	PP
-NP
-NP
-NP
-NP
+226197	PP
 226199	NP
 NP
-226208	PP
-226211	PP
+226210	NP
 NP
 NP
-226216	NP
-NP
-226220	NP
-NP
-226233	NP
-226239	NP
-NP
-226243	NP
-NP
-226248	NP
-226251	PP
-NP
-226257	PP
-NP
-NP
-NP
-NP
-226263	NP
-NP
-NP
-226268	NP
-226270	PP
-NP
-NP
-226276	NP
-NP
-226279	NP
-226281	NP
-226283	PP
-226285	NP
-NP
-226288	NP
-226293	NP
-NP
-NP
-226301	NP
-NP
-226305	NP
-226307	PP
-NP
-NP
-226312	PP
-NP
-NP
+PP
+226216	PP
+226225	PP
+226232	VP
+226234	PP
 NP
 NP
 PP
 NP
-226320	PP
+226241	NP
 NP
-226323	PP
+226244	NP
+226254	PP
+NP
+226260	NP
+226267	NP
+NP
+226273	NP
+226280	NP
+226283	NP
+226286	NP
+226288	NP
+226290	NP
+226293	NP
+226295	PP
+226299	PP
+226305	NP
 NP
 NP
-226330	PP
+226312	NP
+226317	NP
 NP
+226321	NP
 NP
-226335	NP
+226324	NP
+PP
 NP
-226339	PP
-NP
-NP
+226331	NP
+226333	NP
+226337	NP
+226339	NP
 226345	PP
 NP
-226350	PP
-226352	PP
+NP
 NP
 NP
 NP
 226357	NP
-226360	NP
+226361	NP
+NP
 226364	PP
-226366	NP
-226368	NP
+NP
+226367	NP
+226369	PP
+226376	NP
 NP
 NP
-PP
-NP
-NP
-PP
-NP
-NP
-NP
-PP
-226382	PP
-226384	PP
 226386	NP
-226389	NP
+226391	PP
+NP
+226397	PP
+226399	NP
+NP
+NP
+226403	PP
+NP
+NP
+226411	NP
+NP
+NP
+226421	PP
+NP
+NP
+PP
+226430	PP
+226438	PP
+226449	PP
+226453	PP
+NP
+NP
+226466	PP
+226469	NP
+226472	NP
+226480	NP
+226500	PP
+226504	PP
+NP
+NP
+226518	PP
+NP
+NP
+226524	NP
+226526	NP
+NP
+NP
+226536	NP
 NP
 PP
 NP
 NP
-226401	PP
 NP
-PP
-NP
-NP
-NP
-PP
-NP
-226411	PP
-NP
-NP
-226416	PP
-226418	NP
-NP
-226421	NP
-226424	NP
-226431	PP
-NP
-NP
-226436	NP
-PP
-NP
-PP
-NP
-PP
-NP
-PP
-NP
-226448	PP
-226451	PP
-NP
-226455	PP
-226462	PP
-226467	NP
-NP
-226473	NP
+226550	PP
+226554	PP
+226559	PP
 NP
 NP
 NP
-226484	PP
-226490	PP
-NP
-226495	PP
+226576	PP
 NP
 NP
-226501	NP
+226580	NP
+226597	NP
 NP
-PP
-NP
-NP
-226507	NP
-226511	NP
-226516	NP
-226520	NP
-226527	NP
-226530	NP
-NP
-226538	PP
-NP
-226549	PP
-226553	PP
-NP
-NP
-NP
-226558	NP
-226562	PP
-226565	PP
-226567	PP
-NP
-226573	PP
-PP
-NP
-NP
-NP
-226579	PP
-226581	PP
-226584	NP
-NP
-226588	NP
-226596	NP
-226599	NP
-226601	NP
-226603	PP
-NP
-226608	PP
-NP
-226612	PP
-NP
-NP
-226616	NP
-226619	PP
-226621	PP
-NP
-PP
-NP
-226626	NP
-226628	NP
-226631	PP
-NP
-NP
-226636	NP
+226609	NP
+226624	PP
+226629	NP
+226633	PP
 226638	NP
-PP
-NP
-226645	PP
-226649	NP
-226654	NP
-NP
-226658	PP
-NP
-PP
-226663	PP
-NP
-226668	NP
 NP
 NP
+226642	NP
 NP
 PP
 NP
+226652	NP
 NP
-226677	PP
-226679	NP
-226682	PP
+226658	AdvP
+226668	PP
 NP
-226685	NP
-NP
-226690	NP
-226695	PP
-226697	PP
+226673	PP
+226676	PP
 NP
 NP
 NP
-226702	NP
-NP
-226708	PP
-226713	NP
-NP
-226717	NP
-NP
-226720	NP
-226722	PP
-226724	VP
-226726	PP
 NP
 NP
+226687	VP
+226691	NP
 NP
-226736	NP
+226694	PP
+226697	NP
+226699	PP
 NP
-226740	PP
+226706	NP
+226721	PP
+226724	NP
 NP
+226728	PP
+226734	PP
+NP
+NP
+226741	PP
+226744	PP
+226749	NP
+226752	PP
+226757	PP
 PP
+226761	PP
 NP
-226745	PP
-226747	NP
-NP
-226751	PP
-NP
-226754	NP
+226767	AdjP
+VP
 PP
-NP
-226760	PP
-NP
-226764	NP
-226770	NP
-NP
-226773	PP
+226783	PP
 NP
 NP
-PP
-226779	NP
+226794	PP
 NP
 NP
-NP
-226785	PP
-NP
-NP
-NP
-NP
-PP
-NP
-226793	NP
-NP
-226796	VP
-NP
-NP
-226800	NP
-PP
-226803	PP
-226810	PP
-NP
-NP
-226816	PP
+226813	PP
 NP
 226819	NP
-PP
-NP
-226823	PP
-NP
-226826	NP
-226828	NP
-NP
-226831	NP
-226836	PP
-NP
+226829	NP
 226841	NP
 NP
-PP
+226844	NP
 NP
-226847	PP
+226847	NP
 NP
-226850	PP
-NP
-PP
-NP
-NP
-226858	PP
-NP
-226864	NP
-226869	NP
-NP
-226873	NP
-226876	PP
-NP
-226879	NP
-226883	NP
-NP
-PP
-NP
-NP
-226889	PP
-NP
-PP
-NP
-NP
-226901	NP
-226903	PP
-226906	NP
-NP
-PP
-PP
+226850	NP
+226854	NP
+226880	PP
 NP
 NP
 NP
-226916	NP
-226919	PP
+226886	NP
+226895	PP
 NP
 NP
 NP
-226925	NP
-PP
-226930	NP
-PP
-226935	NP
-NP
-226941	PP
-NP
-226944	NP
-226948	PP
-NP
-226951	NP
-226956	PP
-226961	PP
-NP
-226965	PP
-NP
-226968	PP
+226905	NP
+226907	NP
+226913	NP
 NP
 NP
+NP
+NP
+226928	PP
+226931	NP
+226954	NP
+NP
+226973	PP
 226979	NP
-226982	PP
-NP
+226981	NP
 NP
 226986	NP
+226988	NP
+NP
 226993	PP
 NP
 NP
-227002	NP
+226998	NP
+227000	NP
+227009	NP
+227020	NP
+PP
 NP
-227009	PP
-227017	PP
+227025	PP
 NP
+227034	NP
 NP
-NP
-227028	NP
-227034	PP
-227037	PP
-227039	VP
+227040	NP
 227042	NP
 NP
-227045	NP
+227046	NP
 NP
-PP
+227052	NP
+227056	PP
+227062	PP
+227068	NP
 NP
-NP
-227053	PP
-NP
-227057	NP
-PP
-227060	PP
-NP
-NP
-227064	NP
-NP
-227067	NP
-227070	NP
+227071	NP
 227073	NP
+227075	NP
+227077	NP
+227079	NP
 NP
-227076	NP
-NP
-227081	NP
-227083	PP
-227086	NP
-PP
+227082	NP
 NP
 NP
-PP
+227088	NP
+227092	NP
 NP
-227094	PP
-NP
-NP
-NP
-NP
+227096	PP
 227100	NP
-NP
-PP
-NP
-227106	PP
-NP
-NP
-NP
-NP
-227112	PP
-NP
-227115	NP
-NP
-227119	NP
-NP
-NP
-227124	NP
-227129	NP
-PP
-227132	NP
-PP
-NP
-227137	NP
-NP
-NP
+227102	NP
+227104	PP
+227111	NP
+227113	PP
+227126	NP
+227134	NP
 NP
 227143	NP
-NP
+227145	NP
 227147	PP
-NP
 227153	PP
 NP
+227156	PP
 NP
-227159	NP
-AdjP
-NP
-227166	PP
-227169	NP
-227175	NP
+227159	PP
+227172	NP
 PP
-NP
-NP
-227181	NP
-227184	NP
-NP
+227177	NP
 PP
+227182	NP
 NP
 NP
-NP
+227188	NP
 227191	NP
-227193	NP
-227196	NP
-227199	PP
-227204	NP
-227214	NP
-227225	NP
-227229	PP
-227236	PP
+227194	NP
 NP
-PP
+227197	PP
+227201	PP
+227203	PP
+227213	VP
+227216	NP
+227218	NP
+227220	NP
+227226	NP
+227229	NP
+227241	PP
+NP
+NP
 227245	NP
+NP
+NP
+PP
 227250	NP
-227260	NP
-NP
-227264	NP
-227268	PP
-NP
-NP
+227253	NP
 PP
+227257	NP
+227259	PP
 NP
-227277	NP
-227281	NP
-227289	NP
-AdjP
-227296	NP
-NP
+227263	PP
+227272	PP
 NP
 NP
-227303	PP
+227278	PP
 NP
-227306	NP
+227282	NP
+227284	NP
+227293	NP
 NP
-PP
+227302	PP
+NP
+227305	PP
 NP
 NP
-227312	NP
+227310	PP
 NP
 227316	NP
-PP
+227319	NP
 NP
 NP
-NP
-227323	NP
-227329	NP
-NP
-227332	NP
-227334	PP
-PP
-NP
-NP
-NP
-NP
-227341	PP
-227343	NP
-227345	NP
-PP
-227348	NP
-PP
-227352	PP
-227354	NP
-NP
-NP
-227362	NP
-227365	NP
+227325	NP
+227331	NP
+227335	PP
+227341	NP
+227350	NP
+227360	PP
 NP
 NP
 NP
 PP
-227371	PP
-227374	PP
-227378	NP
 NP
 NP
-PP
+227370	NP
+227372	NP
+227375	NP
+NP
+NP
+227381	NP
+NP
 227384	NP
-VP
 NP
+227390	NP
+227393	PP
 NP
-227389	NP
-227392	NP
+AdjP
+227398	NP
 NP
+227401	PP
 NP
+227406	NP
 NP
+227417	NP
+PP
 NP
 NP
+227429	NP
 NP
 NP
 NP
 NP
+227437	PP
 NP
 NP
+227446	NP
 NP
+PP
 NP
+227453	NP
+227458	PP
+227463	NP
 NP
 NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-227470	AdjP
-NP
-227473	PP
 NP
 227477	PP
 NP
+NP
+227487	PP
+NP
+227490	PP
+227495	NP
+227500	NP
+NP
+NP
+227506	PP
+NP
+NP
+227518	NP
+NP
+227525	PP
+NP
+NP
+227533	NP
+227538	PP
+NP
+227541	PP
+227546	NP
+227549	NP
 PP
 NP
 NP
-227483	PP
+227558	NP
 NP
-227489	PP
-NP
-NP
-227499	NP
-227501	NP
-227503	NP
-227505	NP
-NP
-227512	PP
-NP
-227517	PP
-NP
-227520	NP
-227526	NP
+227567	PP
 NP
 NP
+227572	PP
 NP
-PP
-NP
-227535	NP
-227538	NP
+227578	NP
 NP
 NP
-227542	NP
-NP
-227556	PP
-227562	NP
-227567	NP
-NP
-227570	NP
-227575	PP
-227578	PP
-NP
-NP
-NP
-227586	NP
 227588	NP
-227596	NP
-NP
-227599	PP
-227604	PP
-227610	PP
 NP
 NP
-227617	NP
-227622	NP
+227596	VP
+227604	NP
 NP
-227626	NP
 NP
-227629	PP
+NP
 PP
+227615	NP
+227621	NP
+NP
 227633	NP
+NP
+227638	NP
+NP
+NP
+NP
+NP
+227654	NP
+227656	NP
+227664	NP
+227667	NP
+227672	NP
+227681	PP
+NP
+NP
+227688	NP
+NP
+NP
+227692	NP
+NP
+PP
+227698	NP
+NP
+227707	PP
+227710	NP
+NP
+227722	NP
+NP
+NP
+227736	PP
 PP
 NP
 NP
+227751	NP
+227761	PP
+227764	NP
 NP
+NP
+NP
+227775	PP
+NP
+227781	NP
+NP
+227784	NP
 PP
+227798	PP
 NP
-227643	PP
-NP
-NP
-PP
-227650	PP
+227802	PP
 NP
 NP
-227654	PP
-227657	PP
-227659	VP
-227662	PP
-227665	PP
+227807	NP
 NP
 NP
 NP
-PP
-NP
-227677	NP
-NP
-227681	NP
-227683	NP
-227685	VP
-NP
-PP
-PP
-227703	PP
-227705	NP
-NP
-227709	NP
-227711	NP
-227714	NP
 NP
 NP
-PP
+227814	NP
+227817	NP
 NP
-VP
-227724	PP
-227728	NP
+227822	NP
 NP
-PP
+227830	NP
 NP
+227847	NP
 NP
-227739	PP
+227853	NP
+NP
+227861	NP
 NP
 NP
 NP
-227744	PP
+227869	NP
 NP
 NP
-227749	NP
-227754	PP
-227758	NP
 NP
-227766	PP
+227874	PP
 NP
-227769	AdvP
-PP
-NP
-NP
-227778	NP
-227781	PP
 NP
 NP
 PP
-227788	NP
-227790	PP
+227880	NP
+NP
+227891	PP
 NP
 NP
+NP
+227900	PP
+NP
+NP
+227904	NP
+AdjP
 PP
-NP
-227797	NP
 PP
-NP
-227801	NP
-227804	NP
 PP
-NP
-NP
-227809	PP
-NP
-227815	PP
-NP
-NP
+227912	NP
+AdjP
 PP
-227820	NP
-227822	PP
-NP
 PP
-NP
-227827	NP
-227831	NP
-227834	NP
-227836	PP
-NP
-227844	PP
-NP
-227849	PP
-NP
-NP
 PP
+227922	PP
 NP
 NP
-227862	PP
+227928	NP
+227935	PP
 NP
-227867	PP
-NP
-NP
-227871	VP
-227873	PP
-NP
-227877	PP
-NP
-NP
-227881	PP
-227883	NP
-NP
-227886	PP
-NP
-227889	NP
-227891	NP
-NP
-227895	NP
-227907	NP
-NP
-NP
-227913	NP
-227918	PP
-227922	NP
-PP
-NP
-227926	PP
-227933	PP
-227936	PP
-227939	NP
-NP
-227942	PP
+227940	NP
 227945	NP
+227947	NP
+227953	NP
+227956	NP
+227963	NP
+227975	NP
 NP
-227951	NP
+227991	PP
+NP
+NP
+227996	NP
+NP
+227999	NP
+AdjP
 PP
-PP
+228003	PP
 NP
-NP
-NP
-227959	PP
-NP
-227962	PP
-NP
-NP
-NP
-227967	NP
-VP
-NP
-227973	PP
-227976	PP
-227978	NP
-227989	NP
-NP
-227994	NP
-227997	PP
-228000	NP
-NP
-NP
+228006	NP
 228008	NP
 PP
-228016	NP
+228011	PP
 NP
 NP
+NP
+228018	PP
+228025	NP
 228027	NP
-228035	PP
-NP
-228038	NP
-228043	PP
-228049	PP
-228053	PP
-228055	NP
+228030	NP
 NP
 NP
-228061	NP
+228035	NP
+228037	NP
+NP
+228045	PP
+228049	NP
+228058	PP
+228060	NP
+NP
+228066	PP
 NP
 NP
-228065	PP
-228068	VP
-PP
+228074	PP
+228076	PP
 NP
 NP
-NP
-228075	PP
 NP
 228081	NP
 NP
+228085	NP
 NP
-228086	VP
-PP
-NP
-NP
-228092	NP
+228090	NP
 228094	PP
 NP
-NP
-228098	PP
-228101	NP
-228104	PP
-NP
-NP
-228112	PP
-NP
-228118	PP
-NP
-228121	NP
-228127	PP
-NP
-228130	PP
-NP
-228134	NP
-NP
 PP
-228143	PP
 NP
-228148	PP
-228150	NP
 NP
-228153	NP
+228102	NP
+NP
+228108	PP
+NP
+228111	NP
+NP
+228114	PP
+228117	PP
+228119	NP
+PP
+NP
+NP
+228136	NP
+NP
+NP
+NP
+228143	NP
+NP
+228147	PP
+NP
+NP
 228158	NP
 NP
-228162	NP
+PP
+NP
 NP
 228166	NP
+228176	PP
 NP
 PP
-NP
-NP
-228178	NP
-NP
-228186	NP
-NP
-228191	PP
-228193	NP
-228200	NP
-NP
-PP
-PP
+228181	NP
+228188	PP
+228193	PP
+228207	PP
 NP
 NP
 NP
-228211	NP
-228213	NP
-228217	NP
-228220	PP
+NP
+228214	NP
+228220	NP
+228222	PP
 NP
 NP
-228225	PP
-NP
-228228	VP
-228231	NP
-PP
-NP
-228240	PP
-228243	PP
 NP
 NP
-228248	NP
-AdjP
-228252	NP
-228254	PP
-228267	NP
-228275	NP
-228277	PP
-228288	NP
-228291	PP
+228234	NP
+228245	PP
+228247	PP
+228256	NP
+228262	PP
+228267	PP
 NP
 NP
-228297	PP
-NP
-228302	NP
-NP
-PP
-228307	NP
-228311	PP
+228273	NP
+228278	PP
+228285	NP
+228287	PP
 NP
 NP
-228316	VP
-PP
+228292	PP
 NP
+228297	NP
+NP
+NP
+228306	NP
+NP
+228321	NP
 228323	PP
-NP
-NP
-228328	VP
-228330	VP
-228333	VP
-PP
-NP
-NP
+228327	PP
+228334	NP
 NP
 228341	NP
-228343	PP
-228350	PP
-228352	VP
-228359	PP
-228366	PP
-NP
-228369	PP
-NP
+228345	NP
 PP
+228348	NP
+228351	NP
+NP
+228357	PP
+NP
+228363	NP
+NP
+228366	PP
 NP
 228375	PP
 NP
-PP
+228400	PP
+228406	NP
+228411	NP
+228414	NP
+228419	NP
+228428	PP
+228430	PP
+228434	PP
 NP
-PP
+228443	PP
 NP
-228383	NP
+228446	NP
+228448	NP
+228470	NP
+228474	PP
+228479	NP
+228481	PP
+228486	PP
 NP
-228389	NP
-NP
-228394	NP
-228396	NP
-228409	NP
-NP
-228413	NP
-NP
-NP
-228418	PP
-228421	PP
-NP
-NP
-228430	NP
-NP
-228441	NP
-NP
-NP
-228446	PP
-NP
-228457	NP
-NP
-228460	PP
-NP
-NP
-228466	PP
-228468	PP
-228471	PP
-NP
-NP
-228475	NP
-228482	NP
+228489	NP
 228492	PP
-228496	NP
-228500	PP
-NP
-228515	NP
-228518	PP
-NP
-NP
-228523	NP
-NP
-228527	VP
-PP
-228531	NP
-228533	NP
-NP
 PP
 NP
 NP
-228539	PP
-PP
+228504	NP
+228508	NP
+228510	NP
+228518	NP
+228521	NP
 NP
-228546	NP
-228548	PP
+228529	NP
 NP
-228560	PP
-228564	PP
+228536	PP
 NP
-NP
-228573	NP
+228540	NP
 NP
 NP
-NP
-228579	NP
-228582	PP
-228584	NP
+228551	NP
 NP
 NP
 PP
-228589	NP
+228563	NP
+NP
+NP
 PP
-228599	PP
+228570	PP
 NP
-228603	PP
+228578	NP
 NP
 NP
-228608	NP
-PP
-228612	PP
 NP
-228616	PP
 NP
-228623	NP
-228626	NP
-228629	NP
+NP
+228604	NP
+228607	PP
 NP
 PP
 NP
-228636	NP
 PP
 NP
-228644	NP
+PP
+228617	NP
 NP
 NP
-NP
-228652	NP
-228655	NP
 PP
 NP
-228667	NP
-228672	PP
-228675	PP
-228677	NP
 NP
-228680	NP
-228682	NP
-NP
-228685	NP
-228692	NP
-228695	PP
-228697	NP
-228706	PP
-228711	PP
+228631	PP
 NP
 NP
+228637	PP
 NP
-228716	NP
 NP
-NP
-228723	NP
+228642	PP
 PP
+NP
+NP
+NP
+NP
+NP
+228655	PP
+NP
+228659	PP
+NP
+228664	NP
+228671	PP
+NP
+NP
+228681	NP
+228685	PP
+228689	PP
+228693	PP
+NP
+228696	NP
+NP
+NP
+NP
+228702	PP
+NP
+NP
+228707	PP
+NP
+228710	NP
+NP
+PP
+NP
+228719	NP
+PP
+228724	PP
+NP
+228727	NP
+NP
 228731	NP
 NP
-228736	NP
-228738	NP
-NP
-NP
-NP
-228744	PP
+228744	NP
 NP
 228748	PP
 NP
-228757	NP
+228751	NP
+228754	NP
+228756	VP
+228758	PP
+NP
+228761	NP
+228763	NP
+228778	NP
+228780	NP
+NP
+228787	PP
+228796	NP
+228798	PP
+NP
+228801	NP
+228812	PP
 NP
 NP
+228817	PP
+228821	PP
 NP
-228766	NP
-228768	NP
+NP
+228828	PP
 PP
+228832	PP
+228836	NP
 NP
-228779	NP
+228843	PP
+228847	NP
 NP
-228783	NP
-228786	NP
-228790	PP
-NP
-228797	NP
-PP
-228802	NP
-228812	NP
-228816	NP
-NP
-228823	NP
-NP
-228831	PP
-228834	NP
-228837	PP
-NP
-NP
-228842	PP
-NP
-228846	VP
-PP
-NP
-NP
-NP
-228856	NP
-NP
-228860	PP
+228853	PP
+228859	NP
 228862	NP
-228869	NP
-NP
-228878	NP
-228883	NP
-228890	PP
-228892	PP
-NP
-228895	NP
 NP
 NP
-228899	NP
+228867	NP
+228870	NP
 NP
+228873	NP
 NP
+228881	PP
+228886	NP
 NP
 PP
+228891	NP
 NP
 NP
-228908	NP
-NP
-228917	PP
-NP
-NP
-228922	PP
-NP
-228926	NP
-NP
-228933	PP
-228941	NP
-NP
+228896	NP
 PP
 NP
+228901	PP
+PP
 NP
-228948	NP
+228905	PP
+228911	NP
+NP
+NP
+NP
+228916	PP
+NP
+228920	NP
+228923	NP
+228925	NP
+228928	PP
+228930	NP
+228938	NP
+NP
+NP
+228943	NP
+228945	NP
+NP
+228950	NP
 228952	NP
+228956	NP
+228963	NP
+228965	PP
 NP
+228969	NP
 NP
-228970	NP
-228979	NP
+228972	NP
+228975	NP
+228982	PP
 NP
-228983	PP
-NP
-NP
-NP
-228988	PP
-NP
-NP
-228995	NP
-NP
-228998	PP
 NP
 PP
+228988	NP
+228999	NP
 NP
-229004	NP
-NP
-NP
+229006	NP
 229009	NP
-229012	NP
-NP
-229034	NP
-NP
-PP
-NP
-229040	NP
+229017	NP
+229019	PP
+229024	NP
+229027	NP
 NP
 NP
-229047	NP
-NP
-229057	PP
-229062	PP
-NP
-229065	NP
-NP
-229068	PP
-229070	NP
+229035	NP
 NP
 NP
+229040	AdvP
+229042	PP
+229045	NP
+229048	NP
+229051	NP
+229056	NP
+229068	NP
 NP
-229076	NP
-229081	PP
-229083	NP
-229092	NP
+229082	NP
+NP
+229085	NP
+229089	NP
+229091	PP
+229094	NP
 229101	NP
-229104	NP
-229106	NP
-229116	NP
-229119	NP
+229111	PP
+NP
+229132	NP
+229135	AdvP
+NP
+229138	PP
 NP
 NP
-229126	PP
-229130	NP
-229133	NP
-229138	NP
-229141	NP
 NP
-229152	NP
+229148	PP
 NP
-229157	NP
-229162	PP
+229153	PP
+NP
+NP
 NP
 229168	NP
 NP
-229176	AdvP
-229182	AdvP
-229191	NP
+PP
+229172	PP
 NP
-229197	PP
+229177	NP
+229181	NP
+229201	PP
 NP
 NP
 NP
-229207	NP
+229210	PP
+NP
+NP
 229214	PP
-229219	PP
-NP
-NP
-229225	PP
-229227	NP
-NP
-229232	NP
-NP
-PP
-NP
+229216	NP
+229218	NP
+229221	NP
+229223	PP
+229227	PP
+229230	NP
+229232	PP
 NP
 NP
 NP
 NP
-229241	NP
-PP
-NP
-NP
-229250	NP
-NP
-229255	NP
-NP
-PP
+229242	NP
+229254	NP
 NP
 NP
 229261	NP
+229265	NP
 NP
-PP
+229268	PP
+229276	PP
+229279	PP
 NP
+229282	PP
 NP
-229272	NP
-PP
-NP
-NP
-229279	NP
-NP
-PP
-NP
-NP
-NP
-NP
-229289	VP
-NP
-NP
-229294	NP
-229296	NP
-NP
-229299	PP
-NP
-NP
-229305	PP
-229309	PP
-229312	NP
-NP
-PP
-NP
-NP
-NP
-NP
-229320	NP
+229298	NP
+229304	NP
+229315	AdjP
+229317	NP
 229322	NP
+229326	PP
+229344	NP
+229349	NP
+NP
+229361	NP
+229363	NP
+NP
+229368	NP
+229372	NP
+229375	NP
+229391	NP
+229397	PP
+NP
+229400	NP
+229405	PP
+NP
+229408	PP
+229420	PP
+NP
+229423	NP
+229425	PP
+229431	PP
+NP
+NP
+229451	PP
+NP
+229459	PP
+NP
+229462	NP
+NP
+NP
+229467	NP
+229479	PP
+NP
+229484	NP
+NP
+229488	NP
+NP
+229493	NP
+NP
+NP
+229507	PP
 PP
-NP
-229326	NP
-PP
-229329	NP
-229331	NP
-NP
-229345	NP
-229347	PP
-229350	NP
-NP
-229362	NP
-229372	PP
-NP
-229378	NP
-NP
-NP
-229386	PP
-229397	NP
-229400	PP
-NP
-PP
-229405	NP
-229411	NP
-NP
-NP
-NP
-229418	NP
-NP
-NP
-PP
-NP
-NP
-NP
-229426	PP
-NP
-NP
-229440	PP
-NP
-229443	PP
-NP
-NP
-229451	NP
-NP
-229456	PP
-NP
-229470	NP
-NP
-229473	NP
-229477	NP
-229480	PP
-229484	AdvP
-229486	PP
-NP
-229490	NP
-229502	PP
-NP
-NP
-229510	PP
 229517	NP
 NP
 NP
-229521	NP
-229523	PP
+229523	NP
+NP
 229526	PP
-229540	NP
 NP
-229549	NP
-229554	NP
+229537	NP
 NP
-229562	PP
-NP
-NP
+229541	NP
+229544	PP
+229546	PP
+229550	NP
+229552	NP
+229558	PP
+229564	PP
 229568	PP
-NP
 229572	NP
-229576	PP
+229578	NP
 NP
-229579	PP
-NP
-229586	NP
-NP
-229589	NP
+229582	NP
+229590	NP
 229593	NP
 NP
 NP
-229599	NP
-229601	NP
+229602	NP
+229604	PP
+229610	PP
 NP
+229614	NP
+229616	NP
 NP
+229620	NP
+229623	NP
 NP
-229610	NP
-NP
-NP
-229614	PP
-229618	NP
-229620	PP
+PP
+229627	NP
 229629	NP
-229642	NP
-229649	NP
+229636	NP
 NP
-229657	NP
-229660	NP
-229662	PP
+229641	PP
+229646	NP
+229661	PP
+NP
+NP
 229666	NP
-NP
-NP
 229671	NP
 NP
+229685	PP
+229688	NP
 NP
 PP
+229693	PP
+229701	PP
 NP
+229705	NP
 NP
-PP
-229679	NP
-NP
-229684	NP
-NP
-PP
-NP
-229690	NP
-NP
-NP
-NP
-NP
-229696	PP
-NP
-229707	PP
-NP
-229710	NP
-229713	PP
+229713	NP
+229718	NP
 229721	PP
+229725	NP
+229732	NP
 NP
 NP
-229726	PP
-229729	NP
-229731	NP
+229739	PP
+229745	PP
+229752	PP
+229759	PP
 229762	PP
-229765	NP
+229764	NP
+229768	NP
 NP
-229769	PP
+229772	PP
 NP
-PP
-229774	PP
-NP
-229777	NP
-PP
-229784	NP
-PP
-NP
-229789	NP
-PP
-NP
-229795	PP
-NP
-229808	AdjP
-229811	PP
-229815	NP
 NP
 PP
+229780	PP
 NP
+229794	PP
+229799	NP
+NP
+229814	NP
+229816	NP
+NP
+PP
 229821	NP
+229826	NP
+NP
+229833	PP
+NP
+229837	NP
 NP
 PP
-229827	PP
 NP
-229832	NP
-229834	NP
+229842	NP
+229848	NP
+NP
 PP
 NP
-NP
-NP
-229843	NP
-NP
-229847	NP
-229849	NP
-229851	NP
-NP
-NP
-229856	NP
+229857	PP
 NP
 NP
 NP
-229861	PP
-229864	PP
-229868	NP
+NP
+NP
+229864	NP
 NP
 NP
 NP
-229878	PP
-229896	NP
-229908	NP
+229870	NP
 NP
-NP
-229918	NP
-229922	NP
 PP
 NP
+229882	NP
+PP
+NP
+229886	PP
+229890	PP
+229892	NP
 NP
 NP
-229929	NP
-229931	NP
-229934	PP
-229937	PP
+PP
 NP
+229898	PP
+229901	NP
 NP
-NP
-229946	PP
-NP
-229953	PP
-NP
-NP
-NP
-229958	NP
-229962	PP
-NP
-NP
-229966	NP
-229969	NP
-NP
-229972	NP
+229912	NP
+229919	NP
+229921	PP
+229927	PP
 NP
 NP
 NP
-229979	NP
 NP
-229983	NP
-229986	NP
-229990	PP
-229998	NP
-230007	NP
-230009	PP
-230020	NP
-230022	NP
+PP
+229936	PP
+NP
+229942	PP
+229946	NP
+NP
+229961	NP
+NP
+NP
+PP
+229969	PP
+PP
+PP
+229975	NP
+NP
+NP
+NP
+229981	PP
+NP
+229992	NP
+NP
+NP
+229999	NP
+230001	VP
+NP
+PP
+PP
+NP
+230008	NP
+230011	NP
+230016	NP
+NP
 NP
 230025	NP
 NP
-230035	NP
-230046	NP
-230056	PP
+230034	PP
 NP
 NP
-230061	NP
+230041	NP
+PP
 NP
-230064	PP
+230049	NP
+230051	NP
+PP
 NP
+230057	PP
+230061	PP
 NP
-230069	PP
-230074	NP
-230076	NP
+230070	NP
 NP
-230079	NP
-NP
-230088	PP
-230094	NP
-NP
-230097	NP
-NP
-230105	NP
+230075	PP
+230085	NP
 NP
 PP
-230111	NP
+230090	PP
+230094	PP
+230101	PP
+230103	PP
+230112	PP
 NP
 NP
-NP
+230117	VP
 230128	NP
+230135	PP
 NP
-230134	PP
-230139	NP
-230143	PP
+230141	PP
 NP
+230144	NP
 NP
+230156	NP
+230160	PP
 NP
-230150	PP
-230153	PP
-NP
-230158	PP
-230161	NP
+230164	PP
 NP
 NP
-230165	NP
-PP
-230168	NP
-230170	VP
-PP
 NP
-230176	PP
-NP
-230180	NP
-NP
-230184	NP
-230188	PP
+230170	NP
+230178	NP
 230193	NP
-230195	NP
-PP
-230198	PP
-230200	PP
-230204	NP
-NP
-230207	PP
-230213	PP
-NP
-230218	NP
+230198	NP
 NP
 NP
-230226	PP
-NP
-230231	PP
-230238	PP
+230207	NP
 NP
 NP
-230243	NP
-230249	PP
+230216	NP
+230218	PP
+230223	NP
+230229	NP
+230233	PP
+NP
+230240	NP
 NP
 NP
+230248	NP
 NP
-230256	NP
+230252	NP
 230267	NP
-NP
-230270	NP
-230272	NP
-230279	NP
+230275	PP
 NP
 NP
+230279	PP
 NP
 NP
+230283	PP
+230293	NP
+230295	NP
+230297	PP
 NP
-230286	PP
-230298	NP
-NP
-230301	NP
-NP
-NP
-NP
-230306	PP
-NP
-230312	NP
-230315	NP
 PP
 NP
 NP
+230304	NP
+230308	PP
+230310	NP
+NP
+230316	NP
 230323	NP
-230325	PP
-NP
-230330	PP
-230332	NP
-230339	PP
-230342	PP
-NP
-230346	PP
-NP
-230353	PP
-230356	NP
-NP
-230363	NP
-230365	PP
+230328	NP
+230330	NP
 NP
 NP
-230371	PP
+230349	PP
 NP
-230375	NP
-230379	PP
-230388	PP
-230391	PP
-230396	NP
-230406	AdvP
-230409	PP
+NP
+NP
+230364	NP
+NP
+230367	PP
+230371	NP
+230382	PP
+230386	NP
+230389	NP
+NP
+NP
+230397	NP
+PP
+NP
+230402	PP
+NP
+NP
+230409	NP
+NP
 230424	NP
-230429	PP
-230432	PP
-NP
 230435	NP
 NP
-230442	PP
+NP
+230441	NP
+NP
 NP
 230447	NP
+230455	NP
+230457	NP
+230463	NP
 NP
-230450	NP
+230471	NP
 NP
-230461	PP
-NP
-230464	NP
-230467	NP
-NP
-NP
-230473	PP
-NP
-NP
-230479	PP
-230481	NP
-NP
-230485	PP
-230487	PP
+230475	NP
+230477	PP
 NP
 NP
 NP
-230499	NP
-PP
-NP
-230518	NP
-230520	NP
-NP
-NP
-230532	NP
-NP
-230538	PP
-230544	NP
-230547	NP
-230553	PP
+230482	NP
+230490	NP
+230492	NP
 NP
 NP
 NP
-230559	PP
+230501	NP
 NP
-230564	PP
-NP
-230567	NP
-NP
+230506	NP
 NP
 PP
+230523	NP
+230525	NP
 NP
-230575	NP
-230580	PP
+230531	NP
+NP
+230534	PP
+NP
+230539	NP
+230541	NP
+230543	NP
+230545	NP
+230561	NP
+NP
+230575	PP
+230578	NP
+230580	NP
+NP
 230584	PP
 NP
 230588	NP
-230593	NP
-230597	NP
+NP
+230592	PP
+NP
+230596	NP
 NP
 NP
-230607	NP
 NP
 NP
-230611	PP
+230609	NP
+230614	NP
 NP
-NP
-230623	NP
+230617	NP
+230619	PP
+230622	NP
 230625	PP
-NP
+230629	NP
 PP
 NP
-230632	NP
-230643	NP
+230633	NP
 PP
-230652	PP
 NP
-230658	NP
+230637	NP
+PP
+NP
+230642	NP
 NP
 NP
-230662	PP
+230651	NP
+230655	NP
 NP
-230670	PP
+230658	PP
+NP
+NP
+NP
+230665	NP
+NP
+230669	NP
 230677	NP
+NP
+NP
+AdjP
+230683	NP
+230685	PP
+230689	PP
+NP
+230693	PP
+NP
+NP
+NP
+NP
+230706	PP
+NP
+230710	NP
+230719	PP
+230723	PP
+230739	NP
+230754	PP
+NP
+NP
+230762	NP
+230766	PP
+230784	NP
+230792	PP
+230795	PP
+230797	NP
+230800	NP
+PP
+230808	NP
 PP
 NP
-230681	PP
-NP
-230685	NP
-PP
-NP
-PP
-NP
-230699	PP
-NP
-230702	PP
-NP
-230710	PP
-NP
-230715	NP
-PP
-NP
-230722	PP
-NP
-NP
-NP
-230738	NP
-NP
-NP
-NP
-NP
-NP
-230745	PP
-230747	NP
-230752	PP
-230757	NP
-PP
-230760	NP
-230762	PP
-230768	PP
-NP
-NP
-230776	NP
-230779	PP
-NP
-NP
-230786	NP
-PP
-230790	NP
-230793	NP
-VP
-230806	NP
-NP
-230811	PP
-NP
-NP
+230813	PP
+230815	NP
 230817	PP
 NP
 NP
-230821	NP
+230823	PP
 NP
-230825	NP
+230828	PP
+230831	PP
 NP
-230830	PP
-230834	NP
-230838	NP
-230840	PP
 NP
-PP
-NP
-230847	PP
-230852	NP
-NP
+230836	PP
+230839	PP
 NP
 NP
 230859	NP
+230865	PP
+PP
+230873	PP
+230875	VP
+PP
+PP
 NP
 NP
-NP
-230865	NP
-230873	NP
-230876	NP
-230881	NP
-230892	PP
-230895	NP
-230904	PP
-NP
-230909	PP
+230882	PP
 NP
 NP
-230922	NP
+AdvP
+230887	PP
 NP
-230927	PP
-230933	PP
 NP
-230938	NP
+230891	NP
 NP
-230942	NP
+230898	PP
+230904	NP
 NP
-230956	PP
+230909	NP
+PP
 NP
-230962	PP
+230913	PP
+NP
+230916	NP
+PP
+NP
+230921	NP
+PP
+NP
+230926	PP
+230928	NP
+230932	NP
+230936	PP
+230940	PP
+NP
+NP
+230946	NP
+PP
+NP
+230951	NP
+NP
+230955	NP
+230958	PP
+NP
+NP
+230963	VP
+PP
+PP
 230968	NP
+230975	PP
+230980	PP
 NP
 NP
-230972	NP
-230994	NP
+PP
+NP
+NP
+230990	PP
+230993	NP
+230995	NP
 NP
 230998	NP
-231002	NP
 NP
-231014	NP
+231004	NP
+NP
+NP
+231008	PP
+PP
+NP
+231021	NP
 NP
 231025	NP
-231029	PP
+NP
+231033	NP
+231035	NP
+NP
+231042	PP
+231047	NP
+231050	NP
+231059	NP
 NP
 NP
-231039	NP
+231065	AdvP
+231067	NP
+NP
+231074	NP
+231076	NP
+231078	NP
+231080	NP
+AdvP
+231090	NP
+NP
+PP
+231096	NP
+231099	PP
+231101	NP
+NP
+231107	PP
+NP
+231110	PP
 NP
 NP
-231046	PP
-231049	PP
 NP
-231060	PP
+231116	PP
 NP
-231064	PP
-NP
-231078	PP
+231124	NP
+231129	PP
 NP
 NP
+NP
+231134	VP
+231136	NP
+PP
+NP
+NP
+231143	PP
+231145	NP
+231149	NP
+NP
+231152	PP
+PP
+NP
+231160	NP
+NP
+NP
+231169	NP
+231171	NP
+231177	NP
+231181	PP
+NP
+231187	PP
+NP
+NP
+NP
+231194	NP
+231217	PP
+231221	NP
+231223	NP
+NP
+231228	NP
+231238	NP
+231256	PP
+NP
+231260	NP
+NP
+231265	PP
+NP
+231268	PP
+231272	NP
+NP
+NP
+231277	NP
+231281	NP
+231283	NP
+PP
+NP
+NP
+231291	NP
+NP
+231306	NP
+231310	NP
+231313	NP
+PP
+231317	PP
+231320	NP
+NP
+231323	PP
+PP
+231332	AdvP
+231335	PP
+231338	PP
+NP
+NP
+NP
+231352	PP
+231356	AdvP
+231358	PP
 NP
 PP
 NP
 NP
-231086	PP
 NP
 PP
-231092	PP
+231366	NP
 NP
-231098	NP
-NP
-231103	PP
-231105	PP
-231109	PP
-231111	PP
-231120	NP
-NP
-231132	PP
-231141	NP
-231150	PP
-PP
-NP
-231155	NP
-231165	PP
-NP
-NP
-NP
-231170	NP
-231173	NP
-231179	NP
-231183	NP
-231186	PP
-NP
-NP
-231196	PP
-NP
-231201	PP
-231214	NP
-231216	NP
-231221	PP
-NP
-NP
-NP
-231228	AdjP
-231232	PP
-NP
-NP
-231237	NP
-PP
-PP
-231248	NP
-NP
-231251	NP
-NP
-231254	PP
-NP
-231262	NP
-231264	NP
-231274	NP
-NP
-231279	PP
-VP
-231282	PP
-231285	NP
-231292	NP
-231299	NP
-231307	NP
-NP
-NP
-231324	NP
-NP
-NP
-231338	NP
-NP
-NP
-231345	PP
-NP
-231352	NP
-NP
-231357	PP
-231361	PP
-231367	NP
-NP
-PP
-231376	NP
 NP
 231384	NP
 NP
 PP
-231395	NP
-NP
-231404	NP
-NP
-231407	NP
+231390	PP
 NP
 NP
-231413	PP
+231394	NP
+231396	PP
+231402	NP
 NP
 NP
-231417	NP
-231419	NP
+NP
+NP
+PP
+NP
+NP
+PP
+231414	NP
+NP
+231418	PP
+PP
+NP
+231423	NP
 NP
 231426	NP
-231430	AdvP
-231435	NP
-NP
-NP
-231440	PP
-NP
-NP
-NP
-NP
-231450	PP
-NP
-231456	PP
-231459	NP
-NP
-NP
-NP
-231465	NP
-NP
-231471	NP
-231479	PP
-231481	NP
-NP
-231486	PP
-NP
-231490	NP
 PP
-VP
-231497	NP
+231433	NP
 NP
-231500	NP
+PP
+231441	PP
+231445	PP
+231451	NP
+231453	PP
 NP
-231506	PP
-231509	PP
-231511	NP
+231463	NP
+NP
+NP
+231480	NP
+NP
+PP
+231484	PP
+231486	NP
+231489	PP
+231502	PP
+NP
+231505	PP
+231512	PP
 PP
 NP
-231523	NP
-231547	PP
-231550	PP
 NP
-231555	PP
+231524	NP
 NP
-231560	NP
-NP
-231566	PP
-231568	NP
-231578	PP
+231530	PP
 NP
 NP
-NP
-231586	NP
-NP
-231590	PP
-NP
-231594	NP
-231597	NP
 PP
 NP
-231607	PP
+NP
+231538	PP
 NP
 NP
-231625	PP
-231629	PP
-231634	NP
 NP
-231644	NP
-231647	NP
+231543	NP
+231549	NP
+231554	NP
+231558	PP
+231562	NP
 NP
-231651	PP
+231569	NP
+NP
+231576	PP
+231580	PP
+PP
+231583	PP
+231610	PP
+231630	NP
+231636	NP
+NP
+231646	NP
+231650	PP
 231653	PP
-231659	NP
-NP
-231667	NP
-231672	NP
-NP
-NP
-NP
-231678	NP
-231682	NP
-NP
-231687	PP
-NP
-NP
-NP
-231694	PP
-NP
-231699	PP
-NP
-NP
-231704	PP
-NP
-NP
-NP
-NP
-NP
-231711	NP
-NP
-231715	PP
-NP
-231720	NP
-NP
-231723	VP
+231655	NP
+231657	NP
 PP
-231733	PP
+231678	PP
+NP
+PP
 NP
 NP
-231738	PP
 NP
-231742	NP
+231687	NP
+NP
+231691	PP
+NP
+231698	PP
+231703	PP
+NP
+NP
+231708	NP
+231716	NP
+NP
+PP
+231721	NP
+NP
+231724	NP
+231730	PP
+231735	PP
+231741	NP
+NP
+PP
 231745	NP
+231747	PP
 NP
+231752	PP
 NP
+231755	PP
 NP
-231753	PP
-231760	NP
+231760	PP
 NP
-PP
-NP
-NP
-231776	PP
-NP
+231773	PP
 231784	NP
-231790	PP
+NP
+231790	NP
+231799	NP
 NP
 NP
-231801	PP
-231804	PP
-231812	PP
+231805	NP
 PP
-231817	PP
-231819	NP
+231811	PP
+231816	NP
+PP
 NP
 NP
 NP
-231825	NP
-231828	PP
+231823	NP
+NP
+NP
+NP
+231829	NP
 231832	PP
+231835	NP
+231841	PP
 NP
-231837	PP
 NP
-231847	NP
+231845	PP
+231848	NP
 NP
-VP
-PP
-231853	NP
+231853	PP
+231855	PP
+231859	PP
 231862	PP
+PP
 NP
-231873	PP
+231867	NP
+PP
+231873	NP
 NP
-231878	PP
-NP
-231882	PP
-231890	NP
-NP
-231895	NP
+231876	NP
 NP
 NP
-231899	NP
-231901	NP
+231886	PP
 NP
-231906	NP
-231910	PP
-231921	NP
 NP
-231927	NP
-231929	NP
 NP
+NP
+231898	PP
+NP
+NP
+231904	NP
+NP
+231910	NP
+231912	PP
+NP
+231918	NP
+PP
+231930	PP
 231935	NP
-NP
-NP
-231940	NP
-231949	NP
 PP
+231938	NP
+231947	NP
 NP
 NP
-231955	PP
-NP
-231959	NP
-PP
-231963	PP
-NP
-231967	NP
-NP
+231953	PP
 NP
 PP
-231973	NP
-NP
-231978	PP
-PP
-NP
-PP
-NP
-231990	PP
-NP
-231994	NP
-231999	NP
+231957	NP
+231962	NP
+231978	NP
+231980	NP
+231984	NP
 NP
 NP
-232005	PP
+NP
+232004	NP
+232021	NP
+232024	PP
+232033	NP
 NP
 NP
-232014	PP
-NP
-232025	PP
-NP
-232028	PP
-NP
-232035	NP
-NP
-232041	NP
-232043	PP
+232041	PP
 NP
 NP
-232049	PP
-232051	PP
+232049	NP
+232059	AdvP
+232065	AdvP
+232067	PP
 NP
-232054	NP
-232057	NP
-PP
-232061	NP
-NP
-NP
-232066	PP
-PP
-232069	PP
-NP
-232080	NP
-NP
-PP
-232087	PP
+232070	VP
 NP
 NP
 NP
 PP
 NP
-232100	PP
 NP
 NP
-232104	NP
 NP
-232108	PP
-NP
-NP
-PP
-NP
-232119	NP
+232085	NP
 NP
 NP
-232126	PP
+232090	PP
+232103	NP
+232107	PP
 NP
 NP
-232132	NP
+232112	NP
 NP
-232144	PP
+NP
+232117	PP
+NP
+232128	NP
+NP
+232140	NP
 232147	NP
-232149	PP
-232151	PP
-232159	PP
 NP
-232167	PP
-232169	PP
 NP
-232189	NP
+232157	NP
+232160	PP
+232162	NP
+232164	NP
+232168	PP
+NP
+NP
+232177	NP
+232179	PP
+NP
+NP
+232185	PP
+NP
 PP
-232193	NP
+232192	NP
+232198	PP
 NP
-232197	PP
 NP
+232204	PP
 NP
-232204	NP
-232207	PP
+232207	NP
+PP
+PP
+NP
 NP
 232213	NP
-232215	PP
-232218	PP
+232216	NP
+232220	VP
+232222	PP
 NP
+232226	PP
+232228	PP
+232231	NP
+232233	PP
+232238	PP
 NP
-NP
-NP
-232226	AdvP
-232229	PP
-232232	NP
-232238	NP
-NP
-232241	PP
-NP
+232248	NP
+232250	NP
+232258	NP
 PP
 NP
 NP
-232247	NP
-NP
-NP
-232254	NP
-NP
-232257	NP
-232261	PP
+232265	NP
 232268	NP
-232273	PP
-232277	PP
+232274	NP
+232277	NP
+PP
 NP
 NP
-232285	NP
-232288	NP
-232292	NP
+PP
+232284	PP
+232286	PP
+232291	NP
+232293	NP
 232295	NP
-232299	NP
-232303	PP
+232297	PP
+232301	NP
 NP
+232305	NP
+232309	PP
+232313	PP
+NP
+NP
+NP
+232319	PP
+232327	PP
+232330	NP
+AdjP
+VP
+232348	NP
+232350	VP
 PP
-232308	NP
-232316	NP
-232335	NP
-232343	NP
-232348	PP
-PP
+232353	NP
 NP
-232360	NP
+232356	PP
 NP
-PP
+232359	PP
 NP
+232363	NP
+232368	NP
+232381	PP
+232384	NP
+232388	NP
 NP
+232391	PP
+232400	NP
+232406	NP
 NP
-232367	PP
+232412	NP
 NP
+232418	PP
+232422	PP
+232425	NP
+232428	NP
 NP
+232435	NP
+232437	NP
+232439	PP
+232442	NP
+232444	PP
 NP
-232372	PP
+232449	NP
 NP
-NP
-NP
-232377	PP
-NP
-NP
-NP
-232383	NP
-NP
-232402	PP
-NP
-232407	NP
-232409	NP
-232411	NP
-232413	PP
-PP
-232428	PP
-232430	NP
-232432	PP
-NP
-NP
-232441	NP
-PP
-NP
-232448	NP
-232452	PP
-232459	NP
-NP
-232466	PP
-NP
-NP
+232452	NP
+232461	PP
+232464	NP
+232467	PP
 232471	PP
-232476	PP
-NP
-232479	NP
-232481	NP
-232490	PP
-232495	NP
+232474	PP
 NP
 NP
-NP
+232481	PP
+232485	NP
+232487	NP
+232501	NP
 232503	PP
+232506	NP
+232511	PP
 NP
-232509	NP
+232515	PP
+NP
+232521	NP
+NP
+NP
 PP
-232514	NP
-232520	PP
-232526	PP
-NP
-NP
-NP
-232535	PP
-NP
+232530	PP
+232532	NP
 232540	NP
+232543	PP
 232546	PP
 NP
+232560	NP
 NP
+232566	NP
+232570	NP
 NP
-232551	NP
-NP
-NP
-232556	PP
-NP
-232567	NP
-NP
-NP
-232582	NP
-232586	PP
-NP
-232593	NP
-NP
-232603	PP
-VP
-232606	PP
-NP
-232611	NP
-NP
-NP
-PP
-232621	NP
-232623	NP
-NP
-232633	NP
-NP
-232636	NP
+232583	NP
 NP
 NP
 NP
+232590	NP
+NP
+232603	NP
 NP
 NP
-232644	NP
-PP
-232649	NP
-NP
-NP
-232654	NP
-232661	PP
-232664	PP
-NP
-PP
-232671	PP
-232680	NP
-232682	NP
-232684	PP
-PP
-232701	NP
-232704	NP
-NP
-PP
-PP
-NP
-232723	PP
-232725	NP
+232610	NP
 PP
 NP
 NP
-232748	NP
-232758	NP
-232760	PP
 NP
-232763	NP
-232765	PP
-232782	NP
-232784	NP
+232616	NP
+232618	NP
 NP
-AdvP
+232626	NP
+232632	NP
+232640	NP
+232642	PP
 NP
 NP
-PP
-232791	NP
-232795	VP
-232803	NP
-232806	NP
-232809	NP
-NP
-232812	PP
-232814	PP
+232652	AdjP
+232659	NP
+232668	PP
 NP
 NP
+232678	PP
+232680	PP
 NP
-232819	NP
-232823	NP
-PP
-232826	PP
-232830	NP
+232686	NP
 NP
-232834	NP
-NP
-PP
-232841	PP
-232845	NP
-NP
-PP
-232851	NP
-NP
-232855	PP
-232858	NP
-232862	PP
-232864	NP
+232693	PP
 NP
 NP
 PP
-232869	PP
-232871	NP
-232876	PP
-NP
-232880	NP
-232883	PP
 NP
 NP
-NP
-232888	NP
-232891	NP
-NP
-PP
-232895	NP
-232899	AdjP
-232903	NP
-NP
-232906	PP
-232909	NP
-NP
-232914	PP
-PP
-232920	PP
-232923	NP
-NP
-232926	PP
-NP
-232929	PP
-NP
-232938	PP
+232702	NP
 NP
 NP
-232953	NP
+232708	NP
 NP
+232712	PP
+NP
+232715	NP
+NP
+232723	NP
+232726	NP
+232729	NP
+NP
+232734	NP
+NP
+NP
+232738	PP
+NP
+NP
+232744	NP
+232749	NP
 NP
 AdjP
-232963	NP
+PP
+232757	PP
+NP
+232764	NP
+232766	NP
+NP
+232772	NP
+232777	VP
+NP
+232780	NP
+232782	NP
+PP
+232785	NP
+NP
+232789	NP
 NP
 NP
+232794	NP
+232796	NP
 NP
+NP
+232808	PP
+232810	NP
+232813	VP
+232818	NP
+232826	NP
+232829	VP
+PP
+NP
+232835	NP
+232839	NP
+NP
+232847	NP
+232850	PP
+NP
+NP
+232854	NP
+NP
+NP
+PP
+NP
+232868	NP
+232870	PP
+NP
+232876	NP
+NP
+232879	NP
+232883	PP
+232886	PP
+232889	NP
+232892	PP
+NP
+232903	NP
+PP
+NP
+232907	PP
+232911	PP
+NP
+232924	PP
+NP
+232927	NP
+NP
+NP
+232933	PP
+NP
+NP
+232939	NP
+NP
+232945	NP
+NP
+232949	PP
+NP
+232952	NP
+232954	NP
+232956	NP
+NP
+232962	NP
+232966	NP
 232968	NP
-232971	PP
-232976	NP
-232978	NP
-PP
 NP
-232984	NP
-232994	NP
+PP
+232972	PP
+NP
+232978	PP
+PP
+232981	NP
+NP
+232987	NP
+232991	PP
+NP
 232996	NP
-NP
-NP
-233001	NP
-233006	NP
-NP
-NP
-233019	NP
-NP
-233025	NP
-233029	NP
-NP
-NP
-NP
-NP
-NP
-NP
-233037	PP
-NP
+233000	PP
+233005	NP
+PP
 PP
 NP
 NP
+VP
+PP
+233013	NP
+233015	NP
+PP
+233023	PP
+PP
 NP
 NP
-233049	PP
-NP
-NP
-NP
+233031	PP
+233038	NP
+233042	NP
+233044	NP
+233051	PP
 233054	NP
 NP
-233058	AdjP
-233061	PP
-NP
+233058	PP
+233065	NP
+233069	PP
+233079	PP
 PP
 NP
 NP
-233071	PP
-NP
-NP
-233076	AdjP
-233081	PP
-233084	PP
-NP
-233087	PP
-NP
-233091	NP
-233093	NP
-NP
-NP
-233097	NP
-NP
+233092	NP
+PP
+233096	NP
 233100	NP
-NP
-233104	NP
-NP
-NP
-NP
-233114	NP
-NP
-NP
-233121	NP
-NP
+AdjP
 PP
-233129	NP
+233105	PP
+233107	NP
+233109	NP
 NP
-NP
-233135	NP
-NP
-233138	AdjP
-233141	NP
-NP
-233145	PP
-233153	PP
-233157	NP
-233165	PP
-NP
-233169	NP
-PP
-233172	NP
-NP
-NP
-NP
-233177	NP
-233179	NP
-233181	NP
-233187	NP
-NP
-NP
-233203	NP
-233206	NP
-233208	NP
-233210	NP
-233213	NP
-233215	NP
-NP
-NP
-233226	NP
-233229	NP
+233116	NP
+233118	NP
 NP
 PP
 NP
-233234	NP
-NP
-PP
-NP
-233242	PP
-233244	NP
-NP
-NP
-233248	NP
-233255	NP
-NP
-233262	NP
-233267	NP
-NP
-233272	NP
-NP
-233276	NP
-NP
-NP
-233281	NP
-233286	NP
-NP
-NP
-NP
-233291	NP
-233299	NP
-NP
-NP
-NP
-233311	PP
-NP
-NP
-NP
-NP
-233318	PP
-233321	PP
-233325	NP
-NP
-NP
-NP
-233330	PP
-NP
+233133	NP
+233135	PP
 PP
 NP
 NP
-PP
 NP
-PP
-NP
-233340	PP
-NP
-233343	NP
-233349	PP
-NP
-NP
-233353	NP
-233356	NP
-NP
-NP
-233369	NP
-233371	NP
-233377	PP
-233382	PP
+233141	PP
+233146	NP
 NP
 NP
 PP
-233387	NP
+233155	PP
+NP
+233160	NP
+NP
+233164	NP
+NP
+233174	NP
+NP
+PP
+PP
+NP
+233185	NP
+NP
+233195	PP
+NP
+233199	NP
 NP
 NP
-233395	PP
+233203	PP
+NP
+233207	NP
+233211	NP
+233214	PP
 NP
 NP
-233401	PP
+233220	PP
+233222	PP
 NP
 NP
-233407	NP
-233419	PP
-233422	PP
+233227	PP
 NP
-233425	PP
 NP
-233430	PP
 NP
-233433	PP
+PP
+233235	PP
 NP
-233436	PP
+233251	PP
+233254	PP
+233259	NP
+233263	PP
+233267	PP
+233270	PP
+233273	NP
+233280	NP
+233283	NP
+233291	PP
+233294	PP
+233296	NP
 NP
-233440	NP
+VP
+PP
+233304	PP
 NP
-233444	PP
-233446	NP
-233448	PP
-233451	NP
-233459	PP
-233464	PP
+233309	NP
+233313	NP
 NP
-233472	NP
+233316	PP
+233321	NP
+233323	NP
+PP
+233330	NP
+233338	NP
+PP
+NP
+233345	PP
+NP
+NP
+NP
+233355	PP
+NP
+233376	VP
+233378	PP
+233381	PP
+NP
+NP
+233386	NP
+NP
+233389	NP
+NP
+233415	NP
+233417	NP
+233424	PP
+NP
+233431	NP
+233437	NP
+NP
+233441	PP
+233445	PP
+233447	NP
+233449	NP
+233452	PP
+233455	PP
+233458	NP
+233460	PP
+233462	NP
+NP
+233465	NP
+233468	PP
+233471	NP
+NP
 233474	NP
-233476	NP
-PP
-233479	VP
-PP
-NP
 233483	NP
+233486	PP
+NP
+NP
+233491	PP
 NP
 NP
 NP
+PP
 NP
-NP
-233492	NP
-233497	NP
-233500	PP
 PP
 NP
 NP
+233501	PP
+233503	NP
+233508	NP
 NP
 NP
 NP
-233508	PP
 PP
-NP
-NP
-NP
 233516	PP
 NP
-233519	PP
+PP
+233521	PP
+233527	PP
+PP
+233531	NP
 NP
-NP
-NP
-233524	NP
-233528	PP
-NP
-NP
-NP
-233535	PP
-NP
-NP
+233537	PP
+233542	PP
 233545	PP
 NP
-233548	NP
-233550	NP
-233560	NP
-233562	NP
-233565	PP
-NP
-NP
-233573	NP
+233553	PP
 PP
 NP
-233579	NP
+233557	VP
+PP
+PP
+NP
+NP
+233563	PP
+233565	NP
+233567	NP
+233569	PP
+NP
+233574	NP
+233577	PP
+PP
 NP
 233582	PP
+233585	PP
+233592	PP
+233596	NP
+233598	NP
 NP
-233592	NP
-233594	PP
-233597	PP
-233601	PP
 NP
-233605	PP
+233603	NP
+PP
+NP
 233608	NP
-NP
-233611	PP
-233617	PP
-233619	NP
-NP
-NP
-233623	NP
+233614	NP
+233616	PP
+233623	PP
 233626	PP
+NP
+233631	PP
 233635	NP
+233639	PP
 NP
-233642	NP
+VP
+233643	NP
 NP
-233650	NP
 NP
+233648	NP
+PP
 NP
-233654	NP
-233657	NP
+233652	PP
 NP
-233662	NP
-NP
+233656	NP
+PP
+233660	NP
 233665	PP
 NP
-233674	NP
-233677	NP
+233669	NP
+233681	NP
+233684	PP
 NP
 NP
+233690	PP
+233692	PP
 NP
-233682	PP
-233693	PP
-233697	PP
+233695	PP
+NP
+233698	PP
+233703	NP
+233708	PP
+233711	NP
+233713	NP
 NP
 NP
 PP
-233705	NP
-233709	NP
-233712	NP
-233716	NP
 233718	NP
-NP
-233721	NP
-233732	NP
-233735	AdvP
-233738	NP
-NP
-233741	PP
+PP
+AdjP
+233726	PP
+233734	PP
+233736	PP
 233744	PP
 NP
 NP
-233755	PP
 NP
-233759	NP
-233768	PP
+233749	NP
+PP
+233752	NP
+PP
+233756	NP
+233758	NP
+PP
+233766	NP
+NP
+233769	PP
 NP
 NP
 NP
-233774	NP
 233778	NP
-PP
-NP
-233785	PP
-233787	NP
-233790	AdvP
-233793	NP
-233804	NP
-233806	NP
 NP
 NP
-233810	NP
-233812	NP
-233819	NP
-NP
-233828	NP
-NP
-233832	NP
-NP
-233836	NP
-233838	NP
-233845	NP
-233848	NP
+233784	PP
 NP
 PP
+233807	NP
+233821	NP
+233841	PP
+233844	NP
+233846	PP
 NP
-233862	NP
+233849	NP
 NP
-233865	NP
+233854	NP
+233858	PP
 NP
-NP
-233870	NP
-NP
-233874	NP
-233879	NP
+233875	NP
+233878	NP
 233881	NP
+233886	PP
 NP
-233885	PP
-NP
-233895	NP
-NP
-233899	NP
-233914	PP
-NP
-233917	PP
-NP
-NP
-233932	NP
-NP
-NP
-233939	NP
-NP
-NP
-233945	NP
-233948	NP
-NP
-NP
-233954	NP
-233957	PP
-NP
-NP
-233963	PP
-233966	NP
-233970	NP
+233895	PP
+233904	NP
 NP
 NP
 NP
-233976	NP
+233909	PP
+233911	PP
+NP
+233915	VP
+NP
+233918	NP
+233920	NP
+233922	PP
+233930	NP
+NP
+NP
+233934	NP
+NP
+NP
+233939	PP
+233942	PP
+233946	PP
+233961	NP
 PP
-NP
-NP
+233965	PP
+233974	NP
+233976	PP
+233978	PP
 233981	PP
+233991	PP
+233996	PP
+233998	NP
+234001	PP
+234005	PP
 NP
-233984	NP
-NP
-233988	NP
-NP
-233997	PP
-NP
-NP
-234006	NP
-NP
-PP
+234015	NP
 NP
 NP
-234012	NP
-NP
-234018	NP
-234020	NP
+234019	NP
+234023	NP
 234025	NP
-NP
-NP
-NP
 PP
-234034	PP
+NP
+NP
+234031	NP
+234036	NP
+NP
+NP
 234042	NP
 NP
+234048	NP
+234052	NP
+234087	PP
+234089	NP
+NP
+234093	PP
+234096	NP
+NP
+234099	NP
 PP
-NP
-234047	NP
-234049	NP
-234051	NP
-NP
-NP
-NP
-234058	PP
-NP
-NP
-234068	AdjP
-234071	NP
-234078	PP
-234089	PP
-NP
+234102	NP
 234104	PP
-234112	PP
+234113	NP
 NP
-234121	VP
-234123	PP
+NP
+234120	NP
+234123	VP
+234127	PP
+NP
+234131	NP
+234136	NP
+NP
+234145	NP
+234148	PP
+NP
+234157	NP
+234162	NP
+234164	PP
+PP
+NP
+NP
+234173	NP
+234180	PP
+NP
+234183	NP
+234187	NP
 NP
 NP
 PP
-NP
-234129	PP
-234132	PP
-234135	PP
-234138	PP
-234140	PP
-234143	PP
-NP
-234146	PP
-NP
-NP
-234151	PP
-NP
-234155	NP
-NP
-234161	PP
-234182	NP
-NP
-NP
-234186	NP
-234189	NP
-NP
-234197	PP
-PP
+234195	PP
+234197	NP
 234201	NP
-234205	PP
-NP
-NP
-PP
-PP
-NP
+234209	NP
+234211	PP
 234214	PP
-234219	PP
+234218	PP
+234234	PP
+234239	PP
 NP
-234222	NP
-234225	NP
-234227	NP
-234230	PP
-234233	AdvP
-234237	NP
+234249	NP
 NP
 NP
-234244	PP
+234253	NP
+234255	NP
+234269	PP
+NP
+234272	AdjP
+234281	NP
+234284	NP
 NP
 NP
-234249	PP
+234289	PP
 NP
 NP
 NP
-234255	PP
+234295	NP
 NP
 NP
-234264	NP
-NP
-234267	PP
+234300	PP
 NP
 NP
-234286	NP
+234305	NP
+NP
+NP
+234311	NP
+234313	NP
+234315	NP
 NP
 PP
-234290	NP
+NP
+234324	NP
+NP
 NP
 PP
-NP
-234302	PP
-NP
-NP
-234320	NP
-NP
-234326	PP
-NP
-NP
-234333	PP
-234339	PP
-NP
+234334	NP
 234342	NP
-PP
-234348	PP
+NP
+234345	NP
 NP
 NP
-234356	PP
-234358	NP
+234353	VP
+234356	NP
 NP
-234369	NP
-NP
-NP
-PP
-234375	PP
-234383	PP
-234390	VP
-234392	PP
 NP
 NP
 PP
 NP
-234399	NP
 NP
-234402	NP
-234410	PP
 NP
+234365	PP
+NP
+234371	NP
+234373	NP
+234378	PP
+234387	NP
+234396	NP
+234398	NP
+234408	NP
+234412	NP
 234415	NP
+NP
 234422	NP
+234424	NP
 NP
-234427	NP
+234430	NP
 234433	NP
-234436	NP
-234439	NP
-234441	NP
-234443	NP
-234445	NP
-234447	PP
-234450	PP
-234456	NP
+NP
+PP
+234438	NP
+234440	NP
 NP
 NP
-234462	NP
-234467	NP
-NP
-234470	NP
-NP
-234473	NP
 PP
 NP
-234479	NP
-234481	NP
-234485	NP
-234487	NP
-234492	PP
+NP
+234448	NP
+NP
+234452	PP
+NP
+NP
+234456	PP
+234458	PP
+234461	NP
+NP
+234464	NP
+234466	NP
+NP
+234471	NP
+AdjP
+234477	NP
+NP
+NP
+234482	PP
+NP
+234487	PP
+NP
+234495	NP
+234502	PP
+234505	PP
+NP
+234508	NP
+234511	NP
+234514	NP
+NP
+234517	NP
+234519	NP
+234522	NP
+234531	NP
 NP
 NP
 NP
 NP
+234537	NP
 NP
-234503	NP
-234507	NP
-NP
-234510	PP
+234540	VP
 NP
 NP
-234514	PP
-234520	NP
 NP
 NP
-234529	NP
-234534	PP
-NP
-234540	PP
-234542	NP
-NP
-NP
-234546	PP
-NP
-NP
+234550	NP
 234554	NP
+234568	NP
+NP
+234571	PP
+NP
+234577	NP
+234579	NP
+234583	NP
+NP
+234587	PP
+NP
+234594	PP
 NP
 NP
-234563	PP
 NP
 NP
-PP
-234572	PP
-234578	PP
-234590	PP
-234593	PP
+234603	PP
+234606	NP
 NP
-NP
-234605	PP
-234608	NP
-234611	NP
-234618	NP
-234636	PP
-234640	PP
-NP
-NP
-234653	PP
-NP
-NP
-234658	NP
-234660	NP
-NP
-NP
-234668	NP
+234614	NP
+234616	NP
+234620	NP
+234625	PP
 NP
 PP
 NP
-NP
-NP
-234680	PP
-234683	PP
-234687	PP
-NP
-NP
-NP
-234702	PP
-NP
-NP
-234706	NP
-234721	NP
-NP
-234731	NP
-234745	PP
-234750	NP
-234754	PP
-234758	NP
-NP
-NP
-234762	NP
-NP
 PP
 NP
-234772	NP
-NP
-234777	AdvP
-234786	PP
-NP
-234790	PP
-234793	PP
+234633	PP
 NP
 NP
+234637	NP
 NP
+234643	NP
+234649	PP
+234662	PP
 NP
+234669	PP
 NP
-234804	VP
-234808	NP
-NP
-234811	PP
-234814	NP
-234816	PP
-NP
-234821	NP
-234835	PP
-234837	NP
-NP
-234840	PP
-234846	PP
-NP
-NP
-234853	PP
-234856	PP
-234861	NP
-234864	PP
-234867	PP
+234675	NP
 PP
-234871	PP
 NP
-234875	AdjP
-VP
+234681	NP
+NP
+234686	PP
+234694	PP
+234701	NP
+NP
+234710	NP
 PP
-234890	PP
+234729	NP
 NP
 NP
-234899	PP
+234733	PP
+NP
+234744	PP
 NP
 NP
-234916	PP
 NP
-234921	NP
+NP
+234762	PP
+234768	PP
+NP
+NP
+NP
+234774	PP
+NP
+234780	PP
+NP
+234795	NP
+234801	NP
+NP
+234815	NP
+234817	PP
+NP
+234838	NP
+NP
+NP
+234856	NP
+NP
+234863	NP
+234873	NP
+234878	PP
+NP
+234883	PP
+NP
+234886	NP
+NP
+NP
+234894	NP
+PP
+NP
+234901	NP
+NP
+NP
+234905	NP
+234907	PP
+234909	NP
+234914	NP
+NP
+234918	NP
+NP
+NP
+234924	NP
+234926	PP
 234931	NP
-234939	NP
+234935	NP
 NP
-234942	NP
+PP
 NP
+234941	NP
 234945	NP
-NP
-234948	NP
-234951	NP
-234974	PP
-NP
-NP
-NP
-234980	NP
-234989	PP
+PP
+234948	PP
+234958	PP
 NP
 NP
 NP
-234997	NP
-234999	NP
+NP
+NP
+NP
+234968	NP
+234971	NP
+234973	PP
+NP
+234979	NP
+234981	NP
+234983	NP
+234986	NP
+234988	NP
+234991	NP
+234996	NP
+235000	PP
+NP
 235005	NP
 NP
+235010	NP
+235012	PP
 NP
-NP
+235016	NP
 NP
 235019	PP
-235022	NP
-235041	NP
+VP
+235022	PP
+235025	NP
+235027	NP
 NP
-235059	PP
-235065	NP
-235067	NP
-NP
-235072	NP
-235074	NP
-NP
-235078	PP
-NP
-NP
-235082	NP
-235084	NP
-235092	NP
-235104	NP
 PP
 NP
-235108	PP
 NP
-235116	NP
+235036	PP
+235040	VP
+235042	NP
+PP
+PP
 NP
-235122	NP
+235058	VP
+PP
+NP
+235065	PP
 NP
 NP
-235127	NP
+PP
+PP
+235073	PP
 NP
+235081	PP
+PP
+NP
+235093	PP
+235107	VP
+235109	PP
+NP
+NP
+235120	NP
+235123	VP
+PP
+235126	NP
+235130	NP
 235132	NP
-235136	PP
+NP
 235140	PP
-235144	NP
-NP
-235147	NP
-235149	NP
-235151	NP
-235153	NP
-235155	NP
-NP
-235158	NP
 NP
 NP
-235164	NP
-235168	NP
 NP
-235172	PP
-235176	NP
 NP
-235179	PP
-235186	NP
-235188	PP
-235199	NP
+235146	NP
+NP
+NP
+235158	PP
+235162	PP
+NP
+PP
+NP
+235168	PP
+NP
+235171	PP
+NP
+235174	PP
+235182	NP
+NP
+235187	NP
+NP
+235191	NP
+235197	NP
+NP
+NP
+NP
+235204	PP
 235206	NP
+235208	NP
+235210	NP
+235214	PP
 NP
-235215	NP
-235217	NP
-235219	PP
-235225	PP
 NP
-235228	PP
+235218	PP
 NP
-235231	PP
+235221	NP
+235225	NP
+235230	NP
+NP
+NP
+235234	PP
+235239	NP
 235242	NP
-PP
-235246	NP
-PP
-235251	NP
+235245	NP
+235252	NP
+235256	NP
 NP
-NP
-235257	NP
 235260	NP
-235263	NP
+235264	PP
 NP
-235266	PP
-235269	PP
-235271	PP
-235281	VP
-235284	NP
+235270	PP
 NP
-235287	NP
-235292	NP
-235295	NP
+235274	PP
+NP
+NP
+NP
+NP
+235281	PP
+NP
+235288	NP
+NP
+235293	NP
+NP
+NP
+235298	PP
+NP
+235302	PP
+NP
 235306	PP
-NP
-NP
-235311	NP
-NP
-NP
+235308	NP
 PP
-235316	NP
+NP
+235315	NP
 235319	NP
-PP
-235322	NP
-PP
+235321	NP
+235323	PP
 NP
-235327	PP
-235335	PP
+235333	NP
 NP
-NP
-235341	PP
-NP
-235344	NP
-235346	NP
-235353	NP
-NP
-235361	PP
-NP
-235364	PP
+235336	NP
+235339	PP
+235343	NP
+235361	NP
 NP
 NP
-235369	PP
-NP
-235373	NP
-235377	NP
-NP
-NP
-235383	NP
-235388	NP
-235392	PP
-235398	NP
-235405	NP
-235413	PP
+235379	NP
+235389	NP
+235396	NP
+235402	NP
 NP
 NP
+235408	NP
+235412	PP
+235416	NP
 NP
-PP
+235419	NP
 NP
-NP
-235423	NP
-235425	NP
 235428	NP
+235430	PP
 NP
 NP
-235434	NP
+235438	PP
 NP
-235437	NP
+235445	AdvP
+235447	PP
 NP
-235443	NP
-235445	PP
-NP
-AdjP
 235450	NP
-NP
-235453	PP
-NP
-235458	NP
-NP
-235467	NP
-PP
+235456	PP
 NP
 NP
-235478	NP
+235460	PP
 NP
+235463	PP
 NP
+235468	NP
 NP
+235484	NP
 NP
-235486	PP
-NP
-NP
-235494	NP
-NP
-PP
-NP
-235500	NP
-235505	PP
+235491	NP
+235499	NP
 235509	NP
-NP
-NP
-NP
-235522	PP
-NP
-NP
-235531	PP
-NP
-235534	PP
-235539	NP
-235543	NP
-NP
-NP
-235549	PP
-NP
-NP
-235559	NP
-NP
-235566	PP
-NP
-NP
-235574	NP
-235579	PP
-NP
-235582	PP
-235587	NP
-235590	NP
-PP
-NP
-NP
-235596	NP
-NP
-235604	PP
-NP
-NP
-235609	PP
-NP
-235613	NP
-NP
-NP
-235621	NP
-NP
-NP
-235628	VP
-235636	NP
-NP
-NP
+235518	NP
+235524	NP
+235532	NP
 NP
 PP
-235645	NP
-235650	NP
-NP
-235661	NP
-NP
-235666	NP
 NP
 NP
+235542	PP
+235544	NP
+235551	NP
+235560	PP
 NP
 NP
-235681	NP
-235683	NP
-235691	NP
-235693	NP
-235698	NP
-235706	PP
-NP
-NP
-235712	NP
-NP
-NP
-235716	NP
-NP
+235564	PP
+235566	NP
+235577	NP
 PP
-235722	NP
 NP
-235732	PP
+235588	NP
+NP
+235591	NP
+PP
+235597	NP
+235604	NP
+235607	PP
+235614	NP
+235631	NP
+235638	PP
+235640	NP
+NP
+235646	PP
+235657	PP
+235662	NP
+NP
+NP
+235667	PP
+NP
+235671	NP
+235680	NP
+235685	NP
+235688	PP
+NP
+235692	PP
+PP
+NP
+235697	NP
+235715	NP
+PP
+235723	NP
+NP
+235729	NP
+NP
 235735	NP
 NP
 235745	NP
+235752	NP
+NP
+235756	NP
+235760	PP
+235768	PP
+NP
+235777	PP
+235779	NP
+235802	PP
 NP
 NP
-235758	PP
-PP
+235806	PP
+235808	NP
 NP
 NP
-235773	NP
-235783	PP
-235785	NP
-NP
-NP
-NP
-235796	PP
-NP
-235801	NP
-NP
-235804	NP
-PP
-235817	PP
-NP
-235821	PP
-NP
-NP
-235826	NP
-NP
-NP
-NP
-NP
-NP
-235833	NP
-235836	NP
-NP
-235841	NP
-NP
-235848	NP
-NP
-235865	NP
-NP
-235870	NP
-NP
-235877	NP
-NP
-NP
-NP
-235885	NP
-NP
-NP
-NP
-235890	PP
-NP
-NP
+235812	PP
 NP
 PP
 NP
 NP
-235905	PP
+235818	NP
+235823	NP
+235830	PP
+NP
+235835	PP
+235839	NP
+235842	AdjP
+235844	PP
 NP
 NP
 NP
-235914	PP
+235852	PP
 NP
 NP
+235866	NP
 NP
-AdjP
+NP
 PP
+235871	NP
+NP
+235875	PP
+NP
+NP
+235882	PP
+NP
+NP
+235892	PP
+NP
+235896	NP
+NP
+235901	PP
 PP
-PP
+NP
+NP
+235907	PP
+NP
+235912	PP
+NP
+235915	NP
+NP
+235919	NP
+235923	NP
 235925	NP
-AdjP
-PP
-PP
-PP
-235934	PP
 NP
+235928	PP
+235936	PP
 NP
-235940	NP
-235946	PP
+PP
 NP
-235951	NP
-235955	NP
+235941	PP
+235950	NP
+NP
 235957	NP
-235961	NP
-235964	NP
-235970	NP
-235980	NP
-NP
-235994	PP
-NP
-NP
-235999	NP
-NP
-236002	NP
-AdjP
 PP
-236006	PP
+235965	AdvP
+235968	PP
 NP
+235974	NP
+NP
+235978	NP
+235981	NP
+NP
+235986	NP
+NP
+235992	NP
+236000	NP
+236005	NP
 NP
 236010	NP
 PP
 PP
-NP
-NP
-NP
-236019	PP
-236024	NP
-236026	NP
+236020	NP
+236023	NP
+236027	NP
 236029	NP
 NP
-NP
-236033	NP
+236032	PP
 236035	NP
 NP
-236043	PP
-236046	NP
+NP
+236043	NP
+NP
+NP
+NP
+236049	NP
+236051	NP
 236054	PP
-236056	NP
 NP
-236062	PP
+PP
 NP
+236059	PP
+236061	NP
 NP
+236066	PP
 236069	PP
-236071	PP
-NP
-NP
-NP
-236076	NP
-NP
-236080	NP
-NP
-236085	NP
-236089	PP
 NP
 PP
 NP
 NP
-236096	NP
+236078	NP
+236082	PP
+236084	NP
+236089	NP
 NP
-236101	PP
 NP
+236096	PP
+236098	PP
+NP
+236102	NP
 236104	NP
-NP
 236107	PP
-236110	PP
-236112	NP
-PP
-NP
-NP
-236128	NP
 NP
 NP
 NP
-236135	NP
+236119	NP
+236121	NP
+236125	PP
 NP
-236139	PP
 NP
-NP
-236150	NP
+236131	NP
+236136	NP
+236154	NP
+236157	PP
 NP
 PP
+236165	PP
+236169	NP
+236174	NP
+NP
+236183	NP
+236187	NP
+NP
+236194	PP
 NP
 NP
-236158	NP
-236167	PP
+236199	NP
+236209	NP
+236222	NP
+NP
+236231	NP
+236245	NP
+236250	PP
+NP
+236253	PP
+236256	NP
+PP
+NP
+236269	NP
+236274	NP
+236277	NP
+236285	PP
+236287	NP
+NP
+236292	PP
+236298	NP
 NP
 PP
-236171	NP
-236177	PP
-236182	PP
-236193	PP
-NP
-NP
-NP
-NP
-236200	NP
-236206	NP
-236208	PP
-NP
-NP
-NP
-NP
-236218	NP
-236229	PP
-236231	PP
-236238	NP
-236244	PP
-236249	PP
-NP
-NP
-236254	NP
-236259	PP
-236264	NP
-236266	PP
-NP
-NP
-236271	PP
-NP
-236276	NP
-NP
-NP
-236283	NP
-NP
-236295	NP
-236297	PP
-236301	PP
-236308	NP
-NP
-236315	NP
+236305	PP
+236310	NP
+236316	NP
 236318	NP
-PP
+NP
 236321	NP
-236323	NP
+236325	NP
+236329	NP
+236338	NP
+236340	PP
+236346	NP
+236353	NP
 NP
-236328	PP
-NP
-236333	NP
-NP
-236336	PP
-NP
-236344	PP
-NP
-236366	PP
+236359	NP
+236362	NP
+236364	NP
 236371	NP
-236376	NP
-236379	NP
+AdjP
+236382	NP
 236384	NP
-236392	PP
-236394	PP
-236398	PP
+236388	NP
 NP
-236404	PP
+236394	NP
+236398	NP
 NP
-236407	NP
+236401	NP
+236405	NP
+236408	NP
+236411	NP
+236415	NP
+236422	NP
 NP
-236428	NP
-236431	PP
-236435	NP
-236437	PP
-236442	PP
-NP
-236445	NP
-236448	PP
-PP
-NP
-NP
-236460	NP
-236462	NP
-236464	NP
-236472	NP
-236475	NP
-NP
-236482	NP
-NP
-236488	PP
-NP
-236492	NP
-NP
-NP
-236501	NP
-NP
-NP
-PP
-236513	NP
-NP
-NP
-PP
-236520	PP
-NP
-236526	NP
-NP
-NP
-NP
-NP
-NP
-236549	NP
-236551	PP
+236430	NP
+236433	PP
+236438	PP
 NP
 PP
 NP
-PP
+236453	NP
+236455	NP
 NP
-PP
-236561	NP
+NP
+NP
+NP
+236465	NP
+236468	PP
+236470	NP
+NP
+236475	PP
+236483	NP
+236492	PP
 NP
 NP
 PP
 NP
+236498	NP
 NP
-236575	PP
+236503	NP
+236505	PP
 NP
 NP
-236581	PP
+236509	PP
+NP
+236515	PP
+236522	NP
 NP
 NP
-236586	PP
+236530	NP
+NP
+NP
+236534	NP
+NP
+236542	PP
+NP
+NP
+236552	PP
+236558	NP
+236562	PP
+236566	PP
+236569	NP
+236574	PP
+NP
+236587	NP
+236595	PP
 PP
 NP
 NP
+236603	NP
+AdjP
 NP
+236607	NP
+236613	NP
+236618	NP
 NP
+236623	PP
+236625	NP
+236629	NP
 NP
-236597	PP
+236635	PP
+236639	NP
+236643	NP
+236646	NP
 NP
-236601	PP
+236650	PP
+236661	NP
+236665	PP
 NP
-236605	NP
-236612	PP
-NP
-NP
-236621	NP
-236625	PP
-236628	PP
-236632	PP
-NP
-236635	NP
-NP
-NP
-NP
-236640	PP
-NP
-NP
-236645	PP
-NP
-236648	NP
-NP
-PP
-NP
-236657	NP
-PP
-236662	PP
-NP
-236665	NP
-NP
-236669	NP
-NP
-236681	NP
-NP
-236685	PP
-NP
-NP
+236672	PP
+236677	PP
+236683	PP
 236690	NP
-236692	VP
-236694	PP
 NP
 NP
-236698	NP
-236712	NP
-236714	NP
-NP
-236721	PP
-236730	NP
-236732	PP
+236695	PP
+236699	PP
 NP
 NP
-236744	PP
 NP
 NP
-236749	PP
-236753	PP
+236712	PP
 NP
 NP
-236759	PP
+NP
+236724	PP
+236728	NP
+NP
 PP
-236763	PP
+NP
+NP
+236741	PP
+NP
+236747	PP
+236758	PP
 236765	NP
 NP
+236770	NP
+NP
 236773	PP
-236777	NP
+236775	NP
+PP
 NP
-236783	PP
+NP
+236780	NP
+NP
+236786	NP
 236789	NP
-236792	NP
+236793	PP
+236798	PP
+NP
+236804	PP
 NP
 NP
-236796	NP
-236799	NP
+236811	NP
 NP
 NP
 NP
-236808	PP
-236813	NP
+236818	NP
 NP
-PP
-236817	NP
-NP
-NP
-236822	NP
-PP
-NP
+236823	NP
+236825	PP
 236827	PP
-PP
-NP
-236831	PP
-236837	NP
-NP
-NP
-NP
-236842	PP
-NP
-236845	NP
 236848	NP
 236850	NP
-236853	PP
-236856	NP
-236863	NP
+NP
+236857	NP
+236862	NP
+PP
 NP
 NP
 236867	NP
-236869	NP
 NP
-236873	NP
-236875	NP
-236878	NP
-236885	NP
-236887	PP
+236877	NP
 NP
-236891	NP
-NP
-236894	NP
-236896	NP
-236902	PP
-NP
-NP
+236880	NP
+236885	PP
+236887	NP
+236889	NP
+236893	NP
 PP
-236907	NP
-236918	NP
 NP
-236925	NP
+236899	NP
+NP
+NP
+236906	NP
+NP
+236913	PP
+236915	PP
+NP
+236924	NP
+NP
 236928	NP
-236934	NP
-236936	PP
-236941	NP
-236944	NP
+NP
+236939	NP
+236941	PP
+236943	NP
 NP
 NP
-236952	NP
-NP
-NP
-236957	AdvP
-236959	PP
+236949	NP
 236962	NP
-236965	NP
-236968	NP
-236973	NP
-236982	NP
-NP
-236994	NP
-NP
-236997	NP
-237001	NP
-237003	PP
-237006	NP
-237013	NP
-237023	PP
-NP
-237042	NP
-237044	AdvP
-NP
-237047	PP
+236964	PP
 NP
 NP
 NP
-237056	PP
+236982	PP
 NP
-237061	PP
-NP
-NP
-NP
-237076	NP
+236989	NP
 NP
 PP
-237080	PP
 NP
-237085	NP
+236995	PP
+236997	PP
+NP
+PP
+237009	PP
+NP
+NP
+237013	NP
+237019	NP
+NP
+237026	NP
+237028	PP
+NP
+237031	PP
+NP
+237050	PP
+NP
+237055	NP
+PP
+NP
+237059	PP
+237062	NP
+237064	NP
+237066	PP
+NP
+237071	NP
+237082	NP
+NP
+NP
+PP
+NP
 237089	NP
-237107	PP
+NP
+237095	PP
+PP
+NP
+237101	NP
+237103	NP
+237107	NP
+237115	NP
+NP
+237119	PP
+NP
+237123	PP
+237125	NP
+237129	PP
+NP
+237140	NP
+237156	PP
+NP
+237164	NP
+237169	NP
+237171	PP
+NP
+237174	NP
 NP
 NP
-NP
-237116	PP
-NP
-NP
-237120	PP
-NP
-237123	NP
-237126	NP
-237128	PP
-237131	PP
-237134	NP
-237136	PP
+237182	NP
+237184	NP
+237187	PP
+237193	NP
 NP
 NP
+237204	NP
 NP
 NP
-237143	NP
-237155	NP
+237208	PP
+237216	NP
+237229	NP
 NP
 NP
-237161	NP
-237165	NP
+237233	PP
 NP
-237168	PP
-237175	PP
-237178	PP
+237236	VP
 NP
-237181	PP
+PP
 NP
-237196	NP
-237201	NP
-237212	AdjP
-237214	NP
-237219	NP
-237223	PP
-237241	NP
-237245	NP
+237246	NP
+237253	NP
 NP
-237256	NP
+PP
+NP
 237258	NP
 NP
-237263	NP
-237267	NP
-237270	NP
-237284	NP
-237290	PP
-NP
-237293	NP
-237299	PP
-NP
-237302	PP
-237313	PP
-NP
-237316	NP
-237318	PP
-237325	PP
+237262	NP
 NP
 NP
-237344	PP
-NP
-237352	PP
-NP
-237356	NP
-NP
-NP
-237361	NP
-237372	PP
-NP
-237377	NP
-NP
-237381	NP
-NP
-237386	NP
-NP
-NP
-237398	PP
 PP
-237408	NP
 NP
 NP
-237414	NP
 NP
-237417	PP
+237270	NP
 NP
-237426	NP
+237274	PP
 NP
-237430	NP
-237433	PP
-237435	PP
-237438	NP
-237440	NP
-237446	PP
-237452	PP
-237455	PP
-237459	NP
-237464	NP
+237279	NP
+237282	PP
+237287	NP
 NP
-237468	NP
-237476	NP
-237479	NP
+237291	NP
+237294	NP
 NP
 NP
-237488	NP
-237490	PP
+237299	PP
+AdvP
+237304	PP
+AdvP
+237319	NP
+237323	NP
+PP
+237328	PP
+AdvP
+237335	PP
+NP
+237340	NP
+NP
+NP
+237344	NP
+NP
+237351	NP
+NP
+237355	NP
+237361	PP
+237365	PP
+NP
+NP
+237371	NP
+NP
+NP
+NP
+237376	NP
+237378	NP
+237381	PP
+237383	NP
+237388	PP
+NP
+NP
+237394	NP
+PP
+237401	NP
+237403	PP
+NP
+237412	NP
+NP
+237418	NP
+237420	NP
+237425	PP
+NP
+237436	PP
+237441	PP
+237445	NP
+237453	PP
+NP
+NP
+VP
+PP
+NP
+237462	NP
+NP
+237465	PP
+NP
+237470	PP
+237472	NP
+237477	PP
+NP
+237481	NP
+237486	NP
+237489	NP
+NP
+NP
+237493	NP
+NP
 237496	PP
 NP
-237500	NP
-237502	NP
 NP
-237506	NP
-237509	NP
-NP
+237504	NP
 PP
-237513	NP
-237515	NP
-237521	NP
 NP
-237526	PP
-237531	NP
-237544	PP
+237511	PP
+237520	NP
+237522	PP
+NP
+237528	PP
 NP
 NP
-237549	NP
-237553	NP
+237532	PP
 NP
-237566	PP
-237569	NP
 NP
-PP
-237574	PP
-237581	PP
+237536	NP
+237542	NP
 NP
-237585	NP
+237545	PP
+NP
+NP
+NP
+237551	PP
+NP
+237559	NP
+237564	NP
+237571	NP
+NP
+NP
+NP
+NP
+237578	NP
+NP
+237583	PP
+237586	NP
+NP
+237590	NP
 NP
 237593	NP
 237597	NP
-237600	PP
-237604	NP
-237609	NP
+NP
+237600	NP
+237602	NP
+NP
+237606	NP
 NP
 NP
-237616	PP
-237622	PP
-237629	PP
-237634	PP
-237636	PP
+237612	NP
 NP
-237641	NP
-NP
-237645	PP
-NP
+237616	NP
 NP
 PP
-237652	PP
+237621	PP
+237626	NP
 NP
-237665	PP
-237670	NP
+237631	PP
 NP
-237683	NP
-237685	NP
 NP
+237639	PP
+237643	NP
 PP
-237690	NP
+237649	NP
+237653	NP
+NP
+237656	PP
+NP
+237660	PP
+237662	PP
+NP
+237666	PP
+NP
+NP
+237672	NP
+NP
+237680	NP
+PP
+237684	PP
+NP
+NP
 237695	NP
 NP
-237701	PP
 NP
-237705	NP
-NP
-PP
-NP
+237701	NP
+237703	NP
+237706	NP
 237710	NP
-237715	NP
-NP
+237724	NP
 PP
+237731	PP
 NP
-237723	PP
+237745	PP
+237752	PP
+237755	VP
+237757	PP
 NP
-NP
-NP
-NP
-NP
-237730	NP
-NP
-NP
-NP
-237736	NP
-NP
-PP
-NP
-237746	NP
-PP
-NP
-PP
-237753	PP
-237755	NP
+237760	PP
 NP
 NP
-PP
 NP
-237761	PP
-237764	NP
+237765	PP
 NP
-237774	NP
-237780	NP
+237769	PP
+237773	NP
+NP
+NP
 237782	PP
-237787	PP
+237785	NP
+NP
+237797	NP
 NP
 NP
-NP
-NP
+237802	NP
+237806	NP
+237809	NP
 PP
-237796	PP
+237815	NP
 NP
-237802	PP
-237805	NP
-NP
-237819	NP
-NP
-NP
-PP
-237827	PP
-PP
-PP
-237833	NP
-NP
-NP
-NP
-237839	PP
-NP
-237849	NP
-NP
-NP
-237856	NP
-237858	VP
-NP
-PP
+237824	NP
 PP
 NP
+237828	PP
+237830	NP
+PP
+NP
+237836	PP
+NP
+237842	NP
+237848	NP
+NP
+NP
+NP
+237854	PP
+NP
+NP
+237863	PP
 NP
 237866	NP
-237871	NP
 NP
 NP
-237879	NP
-NP
-237887	PP
-NP
-NP
+237870	NP
+237872	NP
+237879	PP
+237884	PP
 237892	NP
-PP
+237895	NP
 NP
-237898	NP
-237900	NP
-PP
+237898	PP
+237902	NP
+237904	NP
 NP
-237906	PP
-237909	PP
 NP
-237918	NP
+237909	NP
+237911	NP
 NP
-237923	PP
+237920	NP
+237929	PP
 237931	NP
 NP
+237937	PP
+NP
+237942	PP
+NP
+NP
+237946	NP
+NP
+237955	PP
+NP
+237961	NP
+NP
 PP
-237936	PP
-237940	PP
-237945	PP
-237947	PP
-237954	PP
 NP
-NP
-237959	VP
-237970	NP
-237977	PP
-NP
-237983	PP
+237966	NP
+237970	PP
+237972	PP
+237974	NP
+237978	PP
 NP
 237986	NP
+PP
+237990	PP
 NP
-237997	NP
-238001	PP
-NP
-238005	PP
-NP
+238006	NP
+238011	PP
+PP
 NP
 NP
-238011	NP
+NP
 238019	NP
-238033	NP
-238038	NP
+238024	PP
+NP
+238030	NP
+238046	NP
+NP
+238058	NP
+NP
+238062	PP
+NP
+238066	PP
+NP
+238071	PP
+238073	PP
+238075	NP
 NP
 NP
-238044	NP
+238081	NP
 NP
-NP
-238053	NP
-238055	PP
-238059	NP
-238065	NP
-238069	PP
-NP
-238076	NP
-NP
-NP
-238082	NP
-NP
-238086	NP
+238090	PP
+238096	NP
+238098	NP
+PP
 238101	NP
-238109	PP
-NP
-NP
-238113	PP
-NP
-NP
-238117	PP
-238124	NP
-238126	NP
+238107	NP
+238122	NP
 238128	PP
+238132	NP
+238135	PP
 NP
-PP
-NP
-NP
-238135	NP
 238139	PP
-238141	NP
 NP
-238146	NP
-238153	NP
-238157	NP
-238159	NP
+238142	PP
+238151	PP
+238155	NP
 NP
+238161	NP
+238164	PP
+238167	PP
+238169	NP
 NP
-238176	PP
-NP
-NP
-NP
-238190	NP
-NP
-238193	PP
-238197	NP
-238207	PP
-238210	NP
-238213	NP
-NP
-NP
-238220	NP
+238174	NP
 PP
 NP
-238225	PP
+238194	NP
+238198	NP
+238205	NP
+238216	PP
 NP
+238219	NP
+238231	PP
+238249	PP
+238262	PP
 NP
-238231	NP
+238267	NP
 NP
-238247	NP
-238257	NP
+238270	PP
 NP
+238275	PP
+238278	NP
+238281	NP
+238289	NP
 NP
-238263	NP
-NP
-NP
-238269	NP
-238275	NP
-238277	NP
-238282	NP
-NP
-238290	NP
-NP
-238293	NP
-238295	PP
-NP
-NP
-NP
+238292	PP
+238298	NP
 238300	NP
-238308	NP
-NP
-NP
-NP
-NP
-238316	NP
-NP
-238320	NP
-NP
+238307	NP
+238310	NP
 PP
-238334	NP
-238336	NP
+238315	PP
+238335	NP
+PP
+238348	PP
 NP
-238343	NP
 NP
-238346	PP
 NP
-238351	NP
-NP
-238354	NP
 238356	NP
-238370	NP
+238360	NP
 NP
-238384	PP
-238387	NP
-238389	NP
-NP
-238393	PP
-NP
-238397	NP
-NP
-238400	PP
-NP
-238404	NP
+238379	PP
+238382	NP
 NP
 NP
 NP
 NP
-238416	NP
-238420	NP
+238388	NP
+238398	PP
+238402	PP
+238405	NP
 NP
-238423	NP
-238425	PP
-NP
-238429	PP
-238432	NP
 PP
+NP
+NP
+238411	NP
+238416	PP
+NP
+238423	PP
+238432	PP
 NP
 238436	NP
+NP
+238442	NP
+238447	NP
+238452	PP
+NP
+NP
+238456	NP
+238460	PP
+NP
+NP
+238464	PP
+238466	NP
+238472	NP
+238476	PP
+NP
 PP
-NP
-238440	NP
-PP
-NP
-238445	NP
-NP
-NP
-238454	NP
-238458	NP
-NP
-238461	PP
-NP
-NP
-NP
-238467	NP
-NP
-238471	NP
-238478	NP
-NP
-NP
-AdjP
-238483	NP
-238485	PP
+238480	NP
+238483	PP
 238489	PP
 NP
-238493	PP
-NP
-NP
-NP
-NP
-238504	PP
-NP
-238507	NP
-238516	PP
-238519	PP
-238535	NP
-238549	PP
-NP
-NP
-238556	NP
-238560	PP
-238575	NP
-238581	PP
-238584	PP
-NP
-238588	NP
+238494	NP
 PP
-238594	NP
+238497	NP
+238503	PP
+238508	NP
+238513	NP
+238515	NP
+238519	NP
+NP
+238523	NP
 PP
 NP
-238598	PP
-238600	NP
-238602	PP
+238527	PP
+238529	PP
+NP
+238533	NP
+NP
+238537	NP
+238542	PP
+238544	PP
+238546	NP
+238548	PP
 NP
 NP
-238608	PP
-NP
-238612	PP
-238614	PP
-NP
-NP
-238619	PP
-238622	PP
-NP
-NP
-238639	NP
-238644	PP
-PP
-238651	PP
-238653	VP
-PP
+238552	NP
+238558	PP
+238568	NP
 PP
 NP
+238577	PP
 NP
-238660	PP
-NP
-NP
-AdvP
-238665	PP
+238585	PP
 NP
 NP
-238669	NP
+238591	PP
 NP
-238675	PP
-238681	NP
 NP
-238684	NP
+NP
+238600	PP
+NP
+238603	NP
+NP
+238606	PP
+238615	NP
+238617	NP
 PP
 NP
-238688	PP
+PP
+238625	PP
+238629	NP
 NP
-238691	NP
+238634	PP
+238636	NP
+238640	NP
+238655	NP
+238659	NP
+238661	PP
+NP
+238671	PP
+NP
+NP
+238675	NP
+PP
+238683	PP
+NP
+238691	PP
+NP
+238695	NP
+238697	PP
+NP
 PP
 NP
-238696	NP
-PP
-NP
-238701	PP
-238703	NP
+238705	NP
 238707	NP
-238710	PP
-238714	PP
-NP
-NP
-238719	NP
 PP
+238713	NP
+238717	PP
 NP
+238721	NP
 238724	NP
 NP
-238728	NP
-238731	PP
+NP
+238738	NP
+238753	NP
+238758	NP
 NP
 NP
-238736	VP
-PP
-PP
-238741	NP
-238745	PP
-238749	PP
+238764	AdvP
+238766	PP
+NP
+238770	NP
 NP
 NP
-PP
+238776	NP
+238778	PP
+238780	NP
 NP
-NP
-238758	PP
-238760	NP
-238762	NP
-NP
-238765	NP
-NP
-238771	NP
-NP
-NP
-238775	PP
-PP
-NP
-238787	NP
-NP
-238791	NP
-NP
+238795	PP
 238798	NP
-238800	NP
 NP
-238806	PP
-238811	NP
-238814	NP
-238823	NP
+238819	PP
+NP
+238833	NP
 NP
 NP
-238829	AdvP
-238831	NP
-NP
-238836	NP
-238838	NP
-238840	NP
-238842	NP
-AdvP
-238851	NP
-NP
+238848	PP
 PP
+NP
+NP
+238853	NP
 238856	NP
-238859	PP
-238861	NP
-NP
-238867	PP
-NP
-238870	PP
 NP
 NP
-NP
-238876	PP
-NP
-238882	NP
-238887	PP
+238865	PP
+238868	PP
 NP
 NP
+238878	NP
 NP
-VP
+238887	NP
+NP
 238893	NP
-PP
 NP
+NP
+238897	NP
 NP
 238900	PP
 NP
-238905	NP
+238903	PP
 NP
-238908	PP
+238912	NP
+NP
+238926	PP
+NP
+NP
+238939	NP
+238958	PP
+NP
+238962	PP
+NP
+238967	PP
+NP
+NP
+238974	PP
+NP
+NP
+238983	PP
+NP
+NP
+238995	PP
+NP
+NP
+239006	NP
+239008	NP
+239016	PP
+239027	PP
+239030	PP
+NP
+239035	NP
+239040	NP
+239044	NP
+NP
+NP
+239055	PP
+239063	NP
+239069	PP
+239077	NP
+AdjP
+239086	PP
+239089	NP
 PP
 NP
-238915	NP
 NP
-NP
-238922	NP
-238924	NP
-238930	NP
-238934	PP
-NP
-238939	PP
-NP
-NP
-NP
-238946	NP
-238966	PP
-238970	NP
-NP
-NP
-238976	NP
-238984	NP
-239001	PP
-NP
-239005	NP
-NP
-239010	PP
-NP
-PP
-239016	NP
-NP
-NP
-239021	NP
-239024	NP
-239026	NP
-PP
-NP
-NP
-239034	NP
-NP
-239047	NP
-239052	NP
-239055	NP
-PP
-239059	PP
-239062	NP
-NP
-239065	PP
-PP
-239074	AdvP
-239077	PP
-239080	PP
-NP
-NP
-NP
-239093	PP
-239097	AdvP
 239099	PP
 NP
-PP
 NP
 NP
-NP
-PP
-239107	NP
-NP
-NP
-239122	NP
-NP
-PP
-239128	PP
-NP
-NP
-239132	NP
-239134	PP
+239105	NP
+239110	NP
+239112	NP
+239116	PP
+239119	NP
+239133	NP
 239137	NP
+239139	NP
 NP
-NP
-NP
+239142	NP
+239144	NP
+239148	PP
 NP
 PP
 NP
 NP
-PP
-239149	NP
+239154	PP
 NP
-239153	PP
-PP
-NP
-239157	NP
-NP
-239160	NP
-PP
+239158	NP
 239166	NP
-NP
-PP
-239174	PP
-239178	PP
-239184	NP
-PP
-NP
-239194	NP
+239174	NP
 NP
 NP
-239209	NP
+239179	PP
+239183	PP
 NP
-PP
-239213	PP
-239215	NP
-239218	PP
-239231	PP
+239186	NP
+239190	PP
 NP
-239234	PP
-239241	PP
-PP
+239198	NP
+NP
+239204	NP
+239207	NP
+NP
+239210	NP
 NP
 NP
+239221	NP
+239226	PP
+NP
+239234	NP
+NP
+NP
+NP
+239242	PP
+239246	NP
+239248	NP
 239251	NP
+239254	NP
 NP
-239256	PP
+239262	PP
 NP
-NP
-PP
-NP
-NP
-239264	PP
+239269	PP
+239275	PP
 NP
 NP
 NP
-239269	NP
-239273	NP
-239278	NP
-239282	PP
-239286	NP
+239285	NP
 NP
-239293	NP
 NP
-239300	PP
-239303	PP
-PP
+239290	PP
+239292	NP
+NP
+239296	NP
+NP
+NP
+NP
 239306	PP
-239330	PP
-239348	NP
-239353	NP
+239308	PP
 NP
-239362	NP
+239316	PP
+239321	NP
+PP
+NP
+239330	NP
+NP
+239335	NP
+239340	NP
+PP
+239344	PP
+239349	PP
+239355	PP
+NP
+NP
+NP
+NP
+239361	PP
 239366	PP
-239368	PP
-239370	NP
+NP
 239372	NP
-PP
-239394	PP
+239397	NP
 NP
-PP
+239407	NP
 NP
+239418	NP
 NP
+239422	AdvP
+239424	PP
 NP
-239403	NP
+239428	NP
+239439	NP
+239446	NP
 NP
-239407	PP
+239449	AdvP
+239452	PP
 NP
-239414	PP
-239418	PP
+239459	NP
 NP
+239464	NP
+239476	NP
 NP
-239423	NP
-239431	NP
+239481	NP
 NP
-PP
-239435	NP
-NP
-239438	NP
-239444	PP
-239449	PP
-239454	NP
-NP
-PP
-239458	NP
-239460	PP
-NP
-239464	PP
-NP
-239467	PP
-NP
-239472	PP
-NP
-239484	PP
-239493	NP
-NP
-239499	NP
-239508	NP
-NP
-NP
-239514	NP
-PP
-239521	PP
-239524	NP
-PP
-NP
-NP
-NP
-239531	NP
-NP
-NP
-NP
-239537	NP
-239540	PP
-239543	NP
-239549	PP
-NP
-NP
-239553	PP
-239555	NP
-NP
-239559	PP
-239561	PP
-239563	PP
-239566	PP
-PP
-NP
-239571	NP
-PP
-239576	NP
-NP
-239579	NP
-NP
-NP
-239588	PP
-NP
-NP
-NP
-NP
-239599	PP
-NP
-NP
-239605	NP
-NP
-239610	NP
-239612	PP
-NP
-239618	NP
-PP
-239630	PP
-239635	NP
-PP
-239638	NP
-239646	NP
-NP
-NP
-239651	PP
-NP
-PP
-239655	NP
-239660	NP
-239675	NP
-239677	NP
-239680	NP
-NP
-NP
-NP
-239698	NP
-239715	NP
-239718	PP
-239724	NP
-NP
-NP
-239732	PP
-NP
-NP
-239739	NP
-239748	AdvP
-239753	AdvP
-239755	PP
-NP
-239758	VP
-NP
-NP
-NP
-PP
-NP
-NP
-NP
-NP
-239773	NP
-NP
-NP
-239778	PP
-239791	NP
-239795	PP
-NP
-NP
-239800	NP
-NP
-NP
-239805	PP
-NP
-239815	NP
-NP
-239826	NP
-239833	NP
-NP
-NP
-239843	NP
-239846	PP
-NP
-239849	NP
-239853	PP
-NP
-NP
-239862	NP
-239864	PP
-NP
-NP
-239869	PP
-NP
-PP
-239876	NP
-239882	PP
-NP
-NP
-239888	PP
-NP
-239891	NP
-PP
-PP
-NP
-NP
-NP
-239899	NP
-239902	VP
-239904	PP
-NP
-239908	PP
-239910	PP
-239913	NP
-239915	PP
-239920	PP
-NP
-239929	NP
-239931	NP
-239938	NP
-PP
-NP
-NP
-239945	NP
-239948	NP
-239952	NP
-239955	NP
-PP
-NP
-NP
-PP
-239962	PP
-239964	PP
-239968	NP
-239970	NP
-239972	NP
-239974	PP
-239977	NP
-NP
-239981	NP
-239985	PP
-239989	PP
-NP
-NP
-NP
-239995	PP
-240002	PP
-240005	NP
+239489	NP
+239509	NP
 AdjP
-VP
-240022	NP
-240024	VP
+239516	NP
+NP
+239521	NP
+NP
+239526	NP
+NP
+NP
+239536	NP
+PP
+239539	NP
+239560	PP
+239567	PP
+NP
+239572	NP
+AdjP
+PP
+239578	NP
+NP
+239586	NP
+NP
+239599	NP
+NP
+239604	NP
+NP
+NP
+PP
+239611	NP
+NP
+239624	PP
+NP
+239627	NP
+239629	NP
+239638	PP
+NP
+239642	NP
+NP
+PP
+NP
+239652	PP
+NP
+NP
+NP
+239670	NP
+239675	NP
+239709	NP
+NP
+239716	NP
+239723	NP
+NP
+239731	PP
+NP
+239751	NP
 PP
 NP
 NP
-240029	PP
+AdjP
+239759	PP
 NP
-240032	PP
 NP
-240036	NP
-240041	NP
-240053	PP
+239763	NP
+239766	NP
 NP
+239772	NP
+NP
+239783	PP
+NP
+NP
+239793	NP
+PP
+NP
+239799	NP
+PP
+NP
+239803	NP
+239810	NP
+NP
+239816	PP
+239819	NP
+239824	PP
+239827	NP
+NP
+239838	NP
+PP
+239846	PP
+239849	NP
+NP
+239860	NP
+NP
+239875	NP
+NP
+239884	NP
+NP
+239902	NP
+NP
+239913	PP
+239918	NP
+NP
+239922	NP
+239926	NP
+239936	PP
+NP
+NP
+239949	NP
+PP
+239959	NP
+239963	NP
+NP
+239991	NP
+NP
+240008	NP
+240010	NP
+240020	NP
+240024	NP
+NP
+240033	NP
+240042	NP
+240046	PP
+240048	NP
 240058	NP
 NP
-240061	PP
-240069	NP
+240063	NP
 240075	NP
 NP
-240081	NP
+240080	PP
 NP
-240085	PP
-240088	PP
-240091	NP
-240094	NP
+240087	NP
 NP
-240101	NP
-NP
-240104	PP
-240107	NP
-240109	PP
-NP
-240114	NP
+240094	PP
+240105	PP
+240130	PP
 NP
 NP
-240123	PP
-240126	NP
-240129	PP
-240131	PP
-240134	PP
+NP
+240146	PP
+240149	NP
+240156	PP
+240169	NP
+240171	PP
+240173	PP
 NP
 NP
-240140	PP
-240143	NP
-240145	NP
-240156	NP
-240158	PP
-240160	NP
-240165	PP
+240189	PP
 NP
-240169	PP
+240192	PP
+240197	NP
+240202	NP
+240216	NP
 NP
-240175	NP
-NP
+240222	PP
 NP
 PP
-240183	PP
-NP
-240190	NP
-240193	PP
-240196	PP
-NP
-240211	NP
-NP
-240217	NP
-240221	NP
-NP
-240231	NP
 NP
 NP
 NP
-240238	NP
+240238	PP
 NP
+NP
+240242	NP
+240245	NP
 240249	NP
 NP
 NP
-240256	NP
-PP
+240255	NP
+NP
+240258	PP
+240265	NP
+NP
+240268	PP
+240272	NP
+240277	NP
+NP
+240283	AdvP
+240287	PP
+240291	NP
 NP
 NP
 NP
-240262	NP
-240264	NP
 NP
-240271	NP
-240276	NP
-240283	NP
-240285	PP
+240298	NP
+240311	NP
+240317	NP
 NP
 NP
-240293	AdjP
-240300	NP
-240310	PP
+NP
+240323	PP
+240332	NP
+240335	NP
+240337	PP
+240351	NP
+240373	NP
 NP
 NP
-240319	PP
-240321	PP
-NP
-240326	NP
-NP
-240331	PP
 NP
 NP
-PP
 NP
 NP
-240340	NP
 NP
+240382	PP
 NP
-240346	NP
-NP
-240350	PP
-NP
-240353	NP
-NP
-240361	NP
-240364	NP
-240367	NP
-NP
-240372	NP
-NP
-NP
-240376	PP
-NP
-NP
-240382	NP
-240386	NP
-NP
-AdjP
-PP
-240393	PP
-NP
-240399	NP
-NP
-NP
-240405	NP
-240409	VP
-NP
-NP
-240413	NP
-PP
-NP
-NP
-240419	NP
-NP
+240385	NP
+240394	NP
+240397	NP
+240401	NP
+240406	NP
+240419	PP
 NP
 240424	NP
-240426	NP
 NP
 NP
-240437	PP
+240429	NP
+240433	NP
+240438	NP
+240441	NP
+240443	NP
 NP
-240441	VP
-240445	NP
-240452	NP
-240454	VP
-PP
+240446	PP
 NP
-240459	NP
-240463	NP
+240449	NP
+240454	PP
+NP
+NP
+240464	NP
 NP
 240470	NP
-240473	PP
+NP
+PP
+240474	NP
+240479	NP
+NP
+240489	PP
+240494	PP
+240506	NP
+NP
+240509	PP
 NP
 NP
-240477	NP
-NP
+240515	PP
 NP
 PP
 NP
-240489	NP
-240491	PP
 NP
-240497	NP
+240522	NP
+PP
+240535	NP
 NP
-NP
-240502	PP
-240505	PP
-240508	NP
-240511	PP
-NP
-240520	NP
+240542	NP
+240546	NP
 PP
 NP
-240524	PP
-240528	PP
+240554	NP
+PP
 NP
-240540	PP
-NP
-240543	NP
+PP
 NP
 NP
-240549	PP
+NP
+240565	NP
+240569	PP
 NP
 NP
-240555	NP
-NP
-240560	NP
-NP
-240564	PP
-NP
-240567	NP
-NP
-240570	NP
-NP
-240574	NP
 240577	NP
-240579	NP
-NP
-PP
-240583	PP
-NP
-240588	PP
-PP
-240591	NP
-NP
-240596	NP
-240600	PP
-NP
-240605	NP
-240609	PP
-240614	NP
-PP
-PP
+240583	NP
+240590	NP
+240595	PP
 NP
 NP
-VP
-PP
-NP
-240623	NP
-PP
-240631	PP
-PP
 NP
 NP
-240638	PP
-240644	NP
-240648	NP
-240650	NP
-240657	PP
-240659	NP
+240602	PP
+240610	PP
 NP
-240663	PP
+NP
+NP
+240615	NP
+NP
+NP
+NP
+NP
+240631	NP
+240633	AdvP
+240635	PP
+NP
+240642	PP
+NP
+NP
+240646	NP
+NP
+240658	PP
+NP
+NP
+NP
+240664	NP
 240670	NP
-240674	PP
-240683	PP
+240676	NP
+NP
+NP
+240681	PP
+NP
 PP
 NP
-NP
-240695	NP
-PP
-NP
-240700	NP
 AdjP
-PP
-240704	PP
+240690	NP
+240693	PP
 NP
-240707	NP
-NP
-240713	NP
-240715	NP
-NP
-PP
-NP
-240730	NP
-240732	PP
-PP
-NP
-NP
-NP
-240738	PP
-240743	NP
-NP
-NP
-PP
-240751	PP
-NP
-240756	NP
-NP
-240760	NP
-NP
-240769	NP
-NP
-PP
-PP
-NP
-240778	NP
-NP
-240788	PP
-240790	NP
-240792	NP
-NP
-NP
-240796	PP
-NP
-240800	NP
-240804	NP
-240807	PP
-NP
-NP
-240812	PP
-240814	PP
-NP
-NP
-240819	PP
-NP
-NP
-NP
-PP
-240826	PP
-NP
-240840	PP
-240842	PP
-240847	NP
-240851	PP
-240854	PP
-240857	PP
-240859	NP
-240865	NP
-240868	NP
-240876	PP
-240879	PP
-NP
-NP
+240699	PP
+240710	NP
 VP
 PP
-240887	PP
 NP
-240892	NP
-240895	NP
 NP
-240898	PP
+240725	PP
+NP
+NP
+NP
+240734	NP
+240736	NP
+240740	PP
+NP
+240748	NP
+NP
+240755	NP
+NP
+NP
+NP
+240771	NP
+240779	PP
+NP
+240782	PP
+NP
+240791	PP
+NP
+NP
+240798	PP
+NP
+PP
+NP
+240804	VP
+240806	NP
+240814	PP
+240821	NP
+240823	NP
+240828	PP
+240834	PP
+240838	NP
+240840	NP
+240843	PP
+PP
+NP
+NP
+240850	NP
+NP
+240856	NP
+240860	NP
+NP
+NP
+NP
+240865	NP
+NP
+240870	NP
+PP
+240880	NP
+240884	NP
+NP
+240888	PP
+240890	PP
+NP
+NP
+NP
+240896	NP
+NP
+NP
+PP
 240902	NP
 240904	NP
+240906	NP
+NP
+240909	NP
+240918	PP
+240923	NP
+240925	PP
+240927	NP
+240929	PP
+NP
+240934	NP
+240940	NP
+240947	NP
+240949	NP
+240953	PP
+NP
+240958	NP
+NP
+NP
+NP
+240967	PP
+NP
+240971	NP
+240974	PP
+240979	PP
+240984	NP
+NP
+240995	NP
+241003	NP
 PP
-240910	NP
-240917	NP
-PP
 NP
-240924	PP
+NP
+241011	PP
 NP
 NP
 NP
-240934	PP
-NP
-240953	VP
-240955	PP
-240958	PP
-NP
-NP
-240962	NP
-NP
-240965	NP
-NP
-240990	NP
-240992	NP
-240997	PP
-NP
-241004	NP
-241010	NP
-NP
-241014	PP
-241018	PP
 241020	NP
-NP
-241024	PP
-241027	PP
-241030	NP
-241032	PP
-NP
-NP
-241036	NP
-241038	PP
-241041	NP
-NP
-241044	NP
+241028	PP
+241037	PP
+241043	NP
+241046	NP
+241049	PP
 241052	NP
-241055	PP
+241055	NP
+241058	PP
 NP
-NP
-241060	PP
-NP
-NP
+241063	PP
 NP
 PP
-NP
 PP
 NP
 NP
 241070	PP
-241072	NP
-241077	NP
 NP
+241073	PP
 NP
+241080	PP
 NP
-PP
-241085	PP
+241083	NP
+241094	PP
 NP
-PP
-241090	PP
-241095	PP
-PP
 241099	NP
+PP
+241108	NP
 NP
-241106	PP
-241111	PP
-241114	PP
+241116	NP
+241119	NP
+241122	NP
+241124	NP
 NP
-241121	PP
+241128	NP
+241132	PP
+NP
 PP
 NP
-241125	VP
-PP
-PP
 NP
-NP
-PP
-241132	NP
-241134	NP
-241136	PP
-NP
-241141	NP
-241144	PP
-PP
-NP
+241139	NP
+241143	NP
+241145	NP
 241148	PP
-241151	PP
+241152	NP
 241156	PP
-241160	NP
-241162	NP
+AdvP
+241159	PP
+NP
+241175	NP
 NP
 NP
-241166	NP
+NP
 PP
 NP
-241171	NP
-241176	NP
-241178	PP
-241184	PP
-241187	PP
+241190	NP
 NP
-241192	PP
 241195	NP
-241199	PP
-NP
-VP
-NP
-NP
-NP
-241207	NP
+241209	PP
+241213	NP
 PP
 NP
+241219	PP
+NP
+241225	NP
+241227	NP
+241230	PP
 PP
 NP
-241214	NP
-PP
-241218	NP
-241222	PP
+241237	NP
+241249	PP
 NP
-241226	NP
-241236	NP
-241239	PP
-NP
-NP
-241243	PP
-241245	PP
-NP
-241248	PP
-NP
-241251	PP
 241254	NP
-241259	PP
-241262	NP
+241264	PP
 NP
 NP
+241274	NP
+241276	NP
+241285	NP
 NP
-PP
-241268	NP
-PP
-AdjP
-241274	PP
-241282	PP
-241284	PP
-241291	PP
-NP
-NP
-NP
-241296	NP
-PP
-241299	NP
-PP
-241302	NP
-241304	NP
-PP
-241311	NP
-NP
-241314	PP
+241293	NP
+241309	NP
+241312	NP
+241317	NP
+241319	PP
+241322	NP
+241324	NP
 NP
 NP
+241330	NP
+241337	PP
+241339	PP
 NP
-241323	NP
+241348	PP
+241350	NP
+241352	NP
+241356	NP
 NP
-NP
-241328	PP
-NP
-PP
-241349	NP
-241362	NP
-241380	PP
-241383	NP
-241385	PP
-NP
-241388	NP
-NP
-241392	NP
-241396	PP
-NP
-241411	NP
-241414	NP
-241417	NP
-241421	PP
-NP
-241428	PP
-241437	NP
+241367	NP
+241375	NP
 NP
 NP
+241380	NP
+241382	NP
+241385	NP
+241404	PP
+241406	NP
+241418	NP
+241428	NP
+241430	NP
+241433	NP
 NP
-241442	PP
-241444	PP
+241439	NP
+241448	NP
+241450	PP
 NP
-241447	VP
-NP
-NP
-241451	NP
 241453	PP
-241457	NP
 NP
-NP
-241461	NP
-NP
-NP
+241460	PP
+241462	NP
+241464	PP
 241466	PP
-241469	PP
-241472	PP
-241485	NP
-PP
-241489	PP
-241497	NP
-241499	PP
-241501	PP
-241504	PP
-241514	PP
-241518	PP
+NP
+241478	NP
+241480	NP
+241488	NP
+NP
+NP
+241500	PP
+241504	NP
+241507	NP
+241510	NP
+241512	NP
+241514	NP
+NP
+241517	PP
 241520	NP
-241522	PP
-241526	PP
 NP
-241535	NP
+241536	NP
+241538	PP
+NP
+241542	NP
+NP
+241548	PP
+241554	NP
+NP
+241562	PP
+NP
+241566	PP
+NP
+241571	NP
+241573	NP
 NP
 NP
-NP
-241541	NP
-241543	NP
+241578	PP
 PP
 NP
+241582	NP
+241588	NP
+241593	PP
 NP
-241549	NP
-241553	NP
-NP
-NP
-241558	NP
-NP
-241564	NP
-241567	NP
 241598	PP
-241600	NP
-NP
-241604	PP
-241606	NP
 NP
 NP
 PP
 NP
-241612	PP
-241619	NP
-NP
-NP
-241626	NP
-241628	VP
-241632	PP
-NP
-241636	NP
-241640	NP
-NP
-241647	NP
-241650	PP
-NP
-241658	NP
-241663	NP
-PP
 PP
 NP
+241609	PP
 NP
-241671	NP
-241678	PP
+241615	NP
 NP
-241681	NP
-241683	NP
 NP
+241621	PP
+PP
 NP
 PP
-241691	PP
+NP
+241632	NP
+241635	PP
+PP
+NP
+241643	AdvP
+241645	PP
+NP
+241650	NP
+241652	NP
+241665	NP
+241667	PP
+NP
+NP
+NP
+241672	PP
+241679	PP
+241689	NP
+241691	NP
 241693	NP
-241697	NP
-241703	NP
-241705	PP
-241708	PP
-241711	PP
-241726	PP
-241731	PP
-NP
-241742	NP
-NP
-NP
-241746	NP
-241748	NP
-241760	PP
-NP
-241763	AdjP
-241771	NP
-241774	NP
-NP
-NP
-241778	PP
+241695	PP
+241697	PP
+241699	NP
+241702	NP
 NP
 NP
 NP
-241783	NP
+241707	NP
 NP
 NP
-241788	PP
+241712	NP
 NP
 NP
-241793	NP
 NP
 NP
-241799	NP
+241719	PP
 NP
-241802	NP
+NP
+NP
+241728	NP
+NP
+NP
+NP
+241736	PP
+NP
+NP
+241741	NP
+241751	PP
+NP
+241760	NP
+241766	NP
+241771	PP
+NP
+NP
+NP
+NP
+241779	NP
+241783	PP
+241792	NP
+NP
 NP
 PP
+NP
+241804	PP
 NP
 241810	NP
+241815	PP
+241819	NP
+241821	NP
 NP
-NP
-PP
-241820	NP
 241826	NP
-NP
+PP
 241829	NP
+241832	PP
+NP
+241835	NP
+241837	NP
+NP
+241840	PP
+NP
+241846	PP
+241848	NP
 NP
 NP
-241836	VP
-241839	NP
+241853	PP
+NP
+241861	PP
+NP
+241864	NP
 NP
 NP
+241870	NP
+241873	PP
+241875	VP
+241879	NP
+241881	NP
 NP
+241885	PP
+NP
+241891	NP
+NP
+NP
+241904	VP
 PP
+241913	NP
+241915	PP
+241918	NP
+241920	PP
 NP
-NP
-NP
-241848	PP
-NP
-241853	NP
-241855	NP
-241860	PP
-241868	NP
-241875	NP
-NP
-241884	NP
-241888	NP
-241890	NP
-NP
-241895	NP
-241897	NP
-NP
-241904	NP
-241907	NP
-NP
-PP
-NP
-241912	NP
-NP
-NP
-PP
-NP
-NP
-241920	NP
-NP
-241924	PP
-NP
-NP
-PP
-241929	PP
+241925	PP
+241927	PP
 241931	NP
+241937	NP
 NP
-241934	NP
-241936	NP
+241941	PP
+241949	NP
+PP
+241954	NP
+PP
+241959	PP
 NP
-241941	NP
-AdjP
-241946	NP
-NP
-NP
-241951	PP
-NP
-241955	PP
-NP
-241961	NP
-241966	PP
-241969	PP
+241966	NP
+PP
 NP
 NP
-241974	NP
 241976	NP
-NP
-241979	NP
-241981	NP
-241984	NP
-241992	NP
-NP
-NP
-NP
+241980	NP
+241983	NP
+241990	NP
 NP
 241998	NP
-NP
-242001	VP
-NP
+242001	NP
 NP
 NP
+242009	NP
 NP
-242010	NP
-242014	NP
+NP
+242013	PP
+NP
+242022	NP
 242026	NP
 NP
-242029	PP
+242032	NP
 NP
-242035	NP
+PP
 NP
-242039	NP
 NP
-242043	PP
+PP
 NP
-242050	PP
-NP
+242054	NP
 NP
 NP
 NP
-242058	PP
-242060	NP
-NP
+242065	NP
 242067	NP
-242069	NP
-242072	NP
+NP
 242076	PP
 NP
-PP
+NP
+242080	PP
+242082	PP
+NP
+NP
+242087	NP
+NP
+242092	PP
+NP
+242101	NP
+242120	PP
+NP
+NP
+242125	PP
+242128	NP
+242130	NP
+NP
+242133	NP
+NP
+NP
+NP
+242142	PP
+NP
+242146	PP
+242151	NP
+242157	NP
+242162	PP
+NP
+242165	NP
+242167	PP
+NP
+242176	NP
+NP
+NP
+242181	NP
+NP
+NP
+NP
+242188	NP
+242190	NP
 NP
 PP
+242196	NP
+242205	PP
 NP
-242084	PP
+242214	NP
+242217	PP
 NP
-NP
-242088	NP
-NP
-242092	NP
-242098	PP
-242110	PP
-NP
-242117	PP
-NP
-242121	NP
-PP
-NP
-242127	NP
-NP
-242131	PP
-242140	PP
-242146	NP
-NP
-242155	NP
-PP
-242172	NP
-NP
-NP
-242176	PP
-NP
-242185	PP
-NP
-NP
-NP
-NP
-242202	PP
-242207	PP
-NP
-NP
-NP
-242212	PP
-NP
-242218	PP
-NP
+242220	NP
+242229	PP
 242231	NP
-242236	NP
+242235	PP
+242238	PP
+242240	NP
 NP
-242249	NP
-242251	PP
+242243	NP
+242250	NP
 NP
-242269	NP
+242253	NP
 NP
+242257	PP
+242268	NP
 NP
-242287	NP
+242272	NP
 NP
-242292	NP
-242302	NP
-242307	PP
+242278	NP
+242281	NP
+242293	NP
 NP
-242311	PP
+242297	PP
+242301	NP
 NP
-242314	NP
-NP
-NP
-242321	NP
 PP
 NP
-242327	NP
+242306	PP
+242309	PP
+NP
+242319	NP
 NP
 NP
-242331	NP
-242333	PP
-242335	NP
-242339	NP
-NP
-242342	NP
+242324	NP
 NP
 NP
-242347	NP
-242349	PP
-242354	NP
+242336	PP
+242339	PP
+242341	PP
+242353	PP
+NP
 242357	NP
-NP
+242359	PP
 PP
 NP
-242363	NP
-242367	NP
-PP
-242370	PP
-242380	PP
-NP
-NP
-NP
-NP
-NP
-NP
+242370	NP
+242372	NP
+242386	NP
 242390	NP
-242392	NP
-242394	PP
+242396	NP
 NP
-242398	NP
-242400	NP
-242402	NP
-242405	NP
-242407	NP
-NP
-242413	NP
-242417	PP
-NP
-242422	NP
-NP
-242426	NP
-242428	PP
-NP
-242432	NP
-NP
-242435	PP
-VP
-PP
-242439	NP
-242441	NP
-NP
-PP
+242401	NP
+242408	PP
 NP
 NP
+242414	PP
+242418	NP
+NP
+242435	NP
+NP
+NP
+242446	NP
 242449	PP
-242452	VP
-242454	NP
-PP
-PP
+242451	NP
 NP
-242469	VP
-PP
 NP
-242476	PP
+242455	NP
+242458	NP
+NP
+242462	PP
 NP
 NP
 PP
-PP
-242483	PP
 NP
-242492	PP
+242469	NP
+NP
+PP
+NP
+PP
+242482	NP
+242485	PP
+NP
+242490	NP
+242498	NP
 PP
 NP
 242504	PP
-242516	VP
-242518	PP
+242507	PP
+NP
+242511	PP
+NP
+242515	NP
+242525	PP
+NP
+242531	NP
 NP
 NP
-242528	NP
-242531	VP
-PP
-242534	NP
-242537	NP
-242539	NP
-NP
-242547	PP
-NP
-NP
-NP
-NP
-242553	NP
-NP
-NP
-242565	PP
-242568	PP
+242536	NP
+242539	VP
+242542	PP
+242548	NP
+242550	NP
+242566	PP
+242570	AdvP
+242572	NP
 NP
 PP
 NP
-242574	PP
-NP
-242577	PP
-NP
-242580	PP
-242587	NP
-NP
+242587	PP
 242592	NP
 NP
 242596	NP
-242602	NP
+242598	NP
+242600	NP
+242613	NP
+242631	PP
+242643	NP
 NP
+242647	NP
 NP
+242663	NP
+242665	NP
+242677	NP
 NP
-242609	PP
-242611	NP
+242680	NP
+242682	NP
 NP
-242614	NP
-242618	PP
-NP
-NP
-242622	PP
-NP
-242625	NP
-242628	NP
-242633	NP
-NP
-NP
-242637	PP
-242641	NP
-242644	NP
-242648	NP
-242653	NP
-242657	NP
-NP
-242660	NP
-242664	PP
-NP
-242670	PP
-NP
-242674	PP
-NP
-NP
-NP
-NP
-242681	PP
-NP
-242686	NP
-NP
-242691	NP
-NP
-NP
-242696	PP
-NP
-242700	PP
-NP
-242704	PP
+242685	NP
+242687	NP
+242697	NP
 242706	NP
+NP
+242724	PP
+NP
+242733	NP
+242736	NP
+NP
+242739	PP
+NP
+NP
+PP
+242745	PP
+242773	NP
+242782	NP
+PP
+242787	PP
+NP
+242790	PP
+242792	VP
+NP
 PP
 NP
-242713	NP
-242717	NP
-242719	NP
-242721	PP
 NP
-242729	NP
-NP
-242732	NP
-242735	PP
-242738	NP
-242753	NP
+PP
 NP
 NP
-242770	NP
-242780	NP
-242786	NP
-242791	NP
 NP
-NP
-242797	NP
-242800	PP
 242803	NP
-NP
-242806	NP
-NP
-242813	NP
 242815	PP
+242820	PP
 NP
 NP
-242823	PP
 NP
-242829	AdvP
-242831	PP
+242831	NP
+242837	NP
+242844	NP
+242848	NP
+242851	PP
 NP
-242834	NP
-242839	PP
+242855	PP
 NP
-NP
-242843	PP
-NP
-242846	PP
-NP
-242852	NP
-NP
-242865	NP
-NP
-242871	NP
-242879	NP
+242867	NP
+242870	PP
+242877	NP
 242886	NP
-242895	NP
-242901	NP
-242909	NP
+242888	PP
 NP
-PP
+242891	NP
+242897	NP
+242913	NP
 NP
 NP
+242917	NP
 242919	PP
 242921	NP
-242927	NP
+242923	PP
+NP
+NP
+242928	PP
 242936	PP
+242945	NP
+242954	NP
+242958	NP
+242966	NP
+242970	PP
+242974	NP
+242979	PP
+243003	PP
+243009	NP
 NP
-NP
-242940	PP
-242942	NP
-242953	NP
 PP
+243015	NP
 NP
-242964	NP
-NP
-242967	NP
 PP
-242972	NP
-242978	NP
-242981	PP
-242987	NP
-243001	NP
-243006	PP
-243008	NP
+243021	AdvP
+243024	PP
+243031	NP
 NP
-243013	PP
-243023	PP
-243026	NP
+243035	PP
 NP
-NP
-243031	PP
-NP
-243035	NP
-243041	NP
-243046	NP
-243048	PP
-NP
-243052	PP
 PP
-NP
-243057	NP
-243075	NP
 PP
+243040	PP
+NP
+NP
+NP
+NP
+NP
+243071	PP
+243076	NP
 243083	NP
-NP
-243088	NP
-NP
 243094	NP
-NP
+243101	NP
 243103	NP
-243109	NP
+243105	NP
+243108	PP
 NP
-243113	NP
-243117	PP
-243126	PP
-NP
-243134	PP
-243136	NP
-243157	PP
+243112	PP
+243116	NP
 NP
 NP
-243161	PP
-243163	NP
-NP
-NP
-243167	PP
+243121	PP
+243132	NP
+243138	NP
 NP
 PP
+243150	NP
+243156	NP
+243162	PP
 NP
-NP
-NP
+243165	NP
+PP
+243168	NP
+243174	PP
 243177	NP
-243183	PP
+243179	PP
+243182	NP
 NP
-243188	PP
+243189	PP
+NP
 243192	NP
-243194	AdjP
-243196	PP
-NP
-NP
-NP
-243204	PP
-NP
-NP
-243217	NP
-NP
-NP
 PP
-243222	NP
+243198	PP
+NP
+NP
+243206	PP
+NP
+243215	AdjP
+243219	PP
 NP
 243226	PP
 NP
 NP
-243233	PP
-NP
-NP
-243242	PP
-NP
-243246	NP
-NP
-243251	PP
+243233	NP
 PP
 NP
-NP
-243257	PP
-NP
-243262	PP
+243241	PP
 NP
 NP
-NP
-243268	NP
-243272	NP
+243250	NP
 NP
 NP
-243276	PP
-243282	PP
-NP
+243257	NP
+243260	NP
+243265	PP
 PP
 NP
-243287	PP
-243294	NP
+243269	NP
 NP
-243301	NP
-PP
-243307	AdvP
-243310	PP
 NP
-243316	NP
+243273	NP
+243289	PP
+243292	PP
+243300	PP
+AdvP
+243303	NP
+243315	NP
+243317	PP
 NP
-243320	NP
-243322	NP
 NP
-243326	NP
+243325	PP
 NP
-243331	NP
-243338	NP
-243343	NP
 NP
-243348	NP
-PP
-PP
-243358	NP
+243330	PP
+243332	PP
+243334	NP
+NP
+243348	PP
+NP
+NP
 243361	NP
-243364	NP
-243366	NP
+243363	NP
+243377	NP
+243391	NP
 NP
-PP
-243371	NP
+243395	NP
 NP
-NP
-243378	NP
-NP
-NP
-NP
-243384	NP
-243386	NP
-243388	PP
-NP
-PP
-NP
-PP
-243394	NP
-NP
-243399	PP
-243402	PP
-NP
-PP
-NP
-NP
+243401	PP
+243405	PP
 243410	NP
-243412	PP
-243414	NP
-243417	NP
 NP
+243415	NP
+243423	NP
 NP
-243422	PP
-243424	PP
+243430	PP
+243433	NP
+243435	NP
+243437	NP
 NP
-243428	NP
-NP
-243432	PP
-NP
-NP
-NP
-243444	NP
-243446	NP
-243449	PP
-NP
-NP
-243454	NP
-243459	NP
-243478	NP
-243481	PP
-NP
+243441	NP
 PP
-243489	PP
-243493	NP
-243496	NP
 NP
-243504	NP
-243507	NP
 NP
+243452	NP
+243461	NP
+NP
+243466	NP
+243474	NP
+NP
+243487	PP
+243494	PP
+NP
+243497	NP
 243514	PP
+243517	NP
 NP
 NP
-243519	NP
-243528	NP
-243540	NP
+243522	PP
+243529	NP
+243533	NP
+243539	NP
+243549	NP
 NP
-243548	NP
-243560	NP
-243565	PP
+NP
+243553	NP
+NP
+NP
+243558	NP
+NP
 NP
 PP
-243570	NP
-PP
+243569	NP
+243575	NP
+243581	PP
 NP
-243583	NP
-243587	NP
-243590	NP
+243589	PP
+243591	PP
+243593	NP
 243598	PP
-243600	NP
+243602	PP
 NP
-243605	PP
-243610	NP
-NP
-PP
-243616	PP
-243621	NP
-243626	NP
-243628	NP
-NP
-243631	NP
-243635	NP
+243609	PP
+243614	NP
+243616	NP
+243618	PP
+243620	PP
+243623	NP
+243625	PP
+243634	PP
 243638	NP
-243646	NP
-243648	PP
-243654	NP
-243661	NP
+243645	PP
 NP
-243665	NP
-243668	NP
+243653	PP
+243655	NP
+NP
+PP
+243665	PP
+243667	NP
+NP
 243670	NP
-243677	NP
-AdjP
-243686	NP
-243688	NP
-243692	NP
+243674	NP
+243679	NP
+243684	PP
 NP
-243699	NP
-243703	NP
 NP
-243706	NP
-243710	NP
-243713	NP
+NP
+243691	NP
+NP
+243695	PP
+NP
+NP
+243701	NP
+NP
+NP
+NP
+243708	PP
+NP
+NP
 243716	NP
-243719	NP
-243725	NP
-NP
-243733	NP
-243735	PP
-243740	PP
-NP
-PP
-NP
-243752	NP
-243754	NP
-NP
-NP
-NP
-NP
-243764	NP
-243767	PP
-243769	NP
-NP
-243774	PP
-243782	NP
-243789	PP
 NP
 NP
 PP
+243722	NP
 NP
-243795	NP
-NP
-243799	NP
-243801	PP
+243727	NP
 NP
 NP
-243805	PP
+243735	NP
+AdjP
+243741	NP
 NP
-243811	PP
-243817	NP
-NP
-NP
-243824	NP
+243744	PP
 NP
 NP
-243828	NP
+243749	NP
+243762	NP
+243767	NP
 NP
-243835	PP
+243774	NP
+243777	PP
 NP
+NP
+243805	NP
+NP
+243812	NP
+PP
+NP
+NP
+243825	NP
+243831	AdjP
+243834	PP
+NP
+243837	NP
 NP
 243844	PP
-243850	NP
-243853	PP
-243856	PP
+NP
+243852	PP
+NP
+PP
+243857	NP
 243859	NP
-243863	PP
+243869	NP
 NP
 243874	NP
-243882	PP
+243878	NP
+NP
+243881	NP
+NP
+243885	NP
+243887	PP
 PP
 NP
 NP
-243889	NP
-AdjP
+243912	PP
 NP
 NP
-243897	NP
-243901	NP
+243917	NP
 NP
-243906	PP
-243908	NP
-243912	NP
 NP
-243918	PP
-243920	NP
-243924	NP
+243922	NP
+243925	PP
 243927	NP
+243940	NP
 NP
-243931	PP
-243942	NP
-243946	PP
-NP
-243953	PP
-243958	PP
-243963	PP
-243970	NP
-NP
-NP
-243975	PP
-243978	PP
-NP
-NP
-NP
-NP
-243990	PP
-NP
-NP
-NP
-244001	PP
-244004	NP
-NP
+243946	NP
 PP
 NP
 NP
-244017	PP
+243958	NP
+243964	PP
 NP
-244022	PP
-244031	PP
-244037	NP
 NP
-244042	NP
+243968	NP
 NP
-244045	PP
-244047	NP
+243971	PP
+NP
+243976	PP
+NP
+243981	PP
 PP
+243997	NP
+244003	NP
+244012	NP
+244023	NP
 NP
+244034	PP
+244038	PP
+244044	PP
+244048	NP
+PP
+244060	NP
+244062	NP
 NP
+244066	NP
+244080	NP
+AdvP
+244083	PP
+244089	PP
+244094	NP
+244096	PP
+244098	PP
+244100	PP
+244103	PP
+244108	PP
+244110	PP
+244114	PP
 NP
-NP
-244056	NP
-244059	NP
-244062	PP
-244066	PP
-NP
-244072	PP
-NP
-NP
-244078	NP
-NP
-NP
-NP
-244084	NP
-NP
-244089	NP
-244091	PP
-244093	PP
-244113	NP
-NP
-NP
-244121	NP
+244122	PP
 244125	NP
-PP
 NP
 NP
 NP
-NP
-244136	NP
-NP
-244139	NP
-244144	PP
-244146	NP
-244148	NP
-244152	NP
-PP
-NP
-244157	NP
+244147	NP
 NP
 NP
-244162	NP
-NP
-244169	PP
-244171	PP
-NP
-244179	NP
-NP
-244182	NP
-NP
-244193	NP
-244195	PP
+244152	PP
 NP
 NP
+244159	PP
+244174	PP
 NP
-244202	NP
-244213	NP
-244215	PP
+244180	NP
+244183	NP
+244186	PP
+244190	PP
 NP
-NP
-NP
-244232	PP
-NP
-244240	NP
-NP
-PP
-NP
-244246	PP
-244248	PP
-NP
-PP
-244258	PP
-NP
-NP
-244262	NP
-244267	NP
-NP
-244271	NP
-244273	PP
-NP
-244276	PP
-NP
-244293	PP
-NP
-244298	NP
-PP
-NP
-PP
-244303	NP
-NP
-244306	PP
-NP
-244310	NP
-244320	NP
+244212	PP
 NP
 NP
 PP
+244239	PP
 NP
-244327	NP
+244249	NP
+244264	PP
+244266	PP
+244293	NP
+244300	NP
 NP
-244333	PP
+PP
+244304	NP
+244311	NP
+NP
+244316	NP
+244319	NP
 PP
 NP
-244338	NP
-244340	NP
+244325	PP
+NP
+244328	NP
+244342	NP
+NP
 244345	NP
-244352	NP
 NP
-244356	PP
+244349	PP
+244351	PP
 NP
-244360	PP
+NP
 244362	NP
-244366	PP
-NP
-244376	NP
-244389	PP
-NP
-244394	NP
-244397	NP
-244399	PP
-NP
-244402	NP
-NP
-NP
-244409	NP
-244411	NP
-244414	PP
-244419	NP
-NP
-NP
-244429	NP
-NP
-NP
-244433	PP
-244440	NP
-244451	NP
-NP
-NP
-244455	PP
-NP
-244458	VP
-NP
-PP
-NP
-244468	NP
-244474	NP
-NP
-PP
-NP
-244479	NP
-NP
-244483	NP
+244365	PP
 NP
 NP
 PP
+244372	PP
 NP
 NP
-NP
-244491	NP
-NP
-244495	PP
-NP
-244500	NP
-244503	PP
-244508	NP
-NP
-244512	NP
-244515	NP
-NP
-NP
-244519	PP
-AdvP
-244524	PP
-AdvP
-244539	NP
-244543	NP
-PP
-244548	PP
-AdvP
-244554	PP
-NP
-244558	NP
-NP
-NP
-244562	NP
-NP
-244569	NP
-NP
-244574	NP
-244580	PP
-244584	PP
-NP
-NP
-244590	NP
-NP
-NP
-NP
-NP
-244596	NP
-244599	PP
-244601	NP
-244606	PP
-NP
-NP
-244611	NP
-PP
-244617	NP
-244619	PP
-NP
-244625	NP
-NP
-244630	NP
-244632	NP
-244637	PP
-NP
-244647	PP
-244651	PP
-244654	NP
-244662	PP
-NP
+244381	NP
 NP
 VP
+244385	PP
+244392	PP
+244397	PP
+NP
+244402	PP
+NP
+NP
 PP
 NP
-244671	NP
 NP
-244674	PP
+244416	NP
+PP
+244419	NP
+244421	NP
+244433	PP
 NP
-244679	PP
-244681	NP
-244686	PP
+244439	PP
 NP
-244690	NP
-244695	NP
-244698	NP
+244443	PP
 NP
+244448	NP
+244451	PP
 NP
+244454	NP
 NP
+244458	PP
+244478	PP
+244481	PP
+244497	PP
 NP
-244704	PP
+244507	NP
+PP
+244514	PP
+244519	PP
 NP
+244527	NP
+244534	NP
 NP
-244711	NP
 PP
 NP
-244717	PP
-244724	NP
-244726	PP
+244541	NP
+244543	NP
 NP
-244732	PP
+244546	NP
+244553	NP
+244555	NP
+244561	NP
+244565	NP
 NP
-NP
-244736	PP
-NP
-NP
-244740	NP
-244745	NP
-NP
-244748	PP
+244570	NP
 NP
 NP
+244581	PP
 NP
-244754	PP
+NP
+244596	PP
+NP
+244601	PP
+NP
+244604	PP
+244606	NP
+NP
+NP
+244613	PP
+NP
+244623	NP
+NP
+244630	NP
+244634	PP
+244637	NP
+244652	PP
+244661	PP
+244665	PP
+NP
+244669	PP
+244678	NP
+NP
+244683	NP
+244687	PP
+244693	PP
+NP
+244697	PP
+NP
+244701	PP
+244703	NP
+244706	PP
+NP
+244709	NP
+244722	PP
+244727	PP
+NP
+244730	NP
+244739	NP
+PP
+244744	NP
+NP
+NP
+244748	NP
+244753	PP
+244758	PP
 NP
 244762	NP
-244767	NP
-244772	NP
 NP
 NP
+244766	PP
+244771	NP
 NP
+244775	NP
+244781	PP
 NP
-244779	NP
+244787	PP
 NP
-244784	PP
-244786	NP
+244794	PP
 NP
-244790	NP
-NP
-244793	NP
-244797	NP
-NP
-NP
-244801	NP
-NP
-244805	NP
-NP
-NP
-244810	NP
-NP
-244814	NP
+244800	PP
 NP
 PP
-244819	PP
-244824	NP
 NP
-244829	PP
+244810	PP
+NP
+244814	PP
 NP
 NP
-244837	PP
-244840	NP
+NP
+NP
+244825	PP
+NP
+244830	PP
+NP
+244833	PP
+244838	VP
+NP
 PP
-244845	NP
-244849	NP
-NP
+244844	PP
+244850	PP
 244852	PP
 NP
-244856	PP
-244858	PP
 NP
-244862	PP
-NP
-NP
-244868	NP
-NP
-244876	NP
 PP
-244880	PP
-NP
-NP
-244891	NP
-NP
-NP
-244897	NP
-NP
-244901	NP
+244863	PP
+244865	PP
+244867	NP
+PP
+244871	NP
+244881	NP
+244896	PP
+244899	PP
+244901	VP
+PP
 244905	NP
-244917	NP
-PP
-244924	PP
+244928	PP
+244931	NP
+244933	NP
 NP
-244937	PP
-244944	PP
-244947	VP
-244949	PP
-NP
-PP
+244941	PP
 NP
 NP
+244945	NP
 NP
-244956	PP
+244967	NP
 NP
-244960	PP
-244964	NP
-NP
-NP
-244973	PP
-244975	NP
-NP
-244986	NP
+244972	NP
+244977	PP
+244980	PP
+244985	PP
 NP
 NP
-244991	NP
-244993	NP
-244996	NP
-PP
-245002	NP
-NP
-245009	NP
 PP
 NP
+NP
+NP
+244996	PP
+245000	NP
+NP
+245004	NP
+245008	NP
 245014	PP
-245016	NP
-PP
-NP
-245022	PP
-NP
-245028	NP
-245033	NP
 NP
 NP
 NP
-245039	PP
+245021	NP
+245023	NP
+245025	PP
 NP
+245028	PP
 NP
-245046	PP
-NP
-245049	NP
-NP
-NP
-245053	NP
-NP
-245060	PP
-245065	PP
-245072	NP
-245075	NP
-NP
-245078	PP
-245082	NP
-NP
-NP
+245032	PP
+245040	NP
+245042	PP
+245052	NP
+245059	NP
+245063	PP
+245073	PP
 NP
 245088	NP
-245090	NP
-NP
-245097	NP
-245106	PP
-245108	NP
-NP
-245114	PP
-NP
-245119	PP
+245107	NP
+245116	NP
+PP
+245128	NP
 NP
 NP
-245123	NP
+245133	NP
 NP
-245132	PP
 NP
-245137	NP
 NP
+245140	NP
+245144	NP
+NP
+245147	NP
 PP
 NP
-245142	NP
-245145	PP
-245147	PP
 NP
-245152	PP
-NP
+245155	NP
 245160	NP
+245163	NP
+245165	NP
+NP
+NP
+245169	NP
+245176	PP
+245180	NP
+NP
+245185	NP
+NP
+NP
+245192	NP
+245195	NP
+245197	PP
+NP
+245201	NP
+245205	NP
+245208	NP
+NP
+245213	NP
+245216	NP
 PP
-245164	PP
-NP
-245178	NP
-245183	PP
-PP
 NP
 NP
 NP
-245190	NP
-245194	PP
 NP
-245200	NP
-245214	NP
+245224	PP
 NP
-245225	NP
-NP
-245229	PP
-NP
-245232	PP
-NP
-245237	PP
-245239	PP
-245241	NP
+245232	NP
 NP
 NP
+NP
+NP
+NP
+245240	NP
+245243	NP
+245246	NP
 245248	NP
 NP
-245257	PP
-245263	NP
+NP
+PP
+NP
+NP
+245255	NP
+NP
 245265	NP
+245267	NP
+245275	VP
+245277	NP
+NP
 PP
-245268	NP
-245274	NP
-245286	NP
+245282	NP
+245285	NP
+245287	PP
+NP
+NP
 245291	PP
-245295	NP
-245297	PP
 NP
-245301	PP
 NP
-245304	PP
-245311	PP
-245315	NP
+245300	NP
+245306	PP
+245308	PP
+245310	NP
+245312	NP
 NP
-245320	NP
-245323	PP
-245325	PP
-245327	NP
+245316	PP
+245337	NP
 NP
-245332	NP
+245340	NP
+245343	NP
+245347	NP
+245357	PP
+NP
+245369	NP
+245371	PP
+245373	NP
+VP
+245382	NP
 PP
 NP
-245352	NP
-245356	NP
-245363	NP
-245373	PP
 NP
-245376	NP
-245386	PP
-245402	PP
-245414	PP
-NP
-245419	NP
+245395	NP
 NP
 PP
 NP
-245426	PP
-245430	NP
-245433	NP
-245439	NP
 NP
-245442	PP
-245446	NP
-245448	NP
+NP
+NP
+245406	NP
+245410	PP
+NP
+PP
+245423	NP
+PP
+NP
+PP
+NP
+245435	PP
+NP
+245443	NP
+245447	NP
+245449	PP
+245452	NP
+NP
 245455	NP
-245457	NP
-PP
-245462	PP
-245480	NP
-PP
-245491	PP
+NP
+245465	VP
+245475	NP
+245481	PP
 NP
 NP
+245488	NP
+245495	NP
 NP
-245499	NP
+NP
 245502	NP
+245509	PP
 NP
-245519	PP
+NP
+245515	NP
 245521	NP
 NP
 NP
-NP
-NP
-245527	NP
+245527	PP
 245535	PP
-245540	PP
-245543	NP
-NP
-PP
+245537	NP
+245544	NP
 NP
 NP
-245549	NP
-245554	PP
+245548	NP
+245557	NP
 NP
-245560	PP
-245569	PP
 NP
-245573	NP
+245562	PP
 NP
-245579	NP
+NP
+245567	PP
+NP
+NP
+245571	NP
+NP
+NP
+NP
+NP
+NP
+245581	NP
 245584	NP
-245589	PP
 NP
 NP
 245593	NP
-245596	PP
-NP
-NP
-245600	PP
-NP
-245606	NP
+245599	NP
 245610	PP
+245613	PP
+245615	PP
 NP
-PP
+245619	NP
 NP
-245616	PP
 245622	PP
 NP
-245626	NP
-PP
+245625	NP
 NP
-245634	PP
-245639	NP
-245644	NP
-245646	NP
-245650	NP
+245629	NP
+245639	PP
 NP
-245653	NP
-PP
-NP
-245657	PP
-245659	PP
+245647	PP
+245656	PP
 NP
 245662	NP
 NP
-245666	NP
-245670	PP
-245672	PP
-245674	NP
-245676	PP
 NP
+245672	NP
+245675	NP
+245681	NP
 NP
-245680	NP
-245685	PP
-245694	NP
-PP
+245688	NP
+245691	PP
+245693	NP
 NP
+245696	NP
 245702	PP
-NP
-245710	PP
-NP
-NP
-245716	PP
+245706	NP
 NP
 NP
-NP
-245724	PP
-NP
-245727	NP
-NP
-245730	PP
-245737	NP
+245718	NP
+245730	NP
+245732	PP
+245735	NP
 245739	NP
-PP
 NP
-PP
-245747	PP
-245751	NP
+245742	NP
 NP
-245756	PP
+245749	NP
+245756	NP
 245758	NP
-245762	NP
-245777	NP
-245781	NP
-245783	PP
+245766	NP
+245778	PP
+245782	NP
+245788	PP
 NP
-245792	PP
+245793	NP
+245800	NP
 NP
 NP
-245796	NP
-PP
-245804	PP
-NP
-245810	PP
+245809	PP
 NP
 245814	NP
-245816	PP
-NP
+245818	NP
+245827	NP
+245848	NP
 PP
+245852	VP
+245855	PP
+245859	NP
+245861	PP
 NP
-245823	NP
-245825	NP
-PP
-245830	NP
-245834	PP
+245866	NP
+245877	NP
 NP
-245839	NP
-245842	NP
-NP
-NP
-245856	NP
-245869	NP
-245873	NP
-NP
-NP
-245878	AdvP
-245880	PP
 NP
 245884	NP
+245886	NP
+245889	NP
 NP
-NP
-245890	NP
-245892	PP
-245894	NP
-NP
-245906	PP
-245909	NP
-NP
-245928	PP
-NP
-245940	NP
-NP
-NP
-245953	PP
+245893	NP
+245896	PP
 PP
 NP
+245907	NP
 NP
-245958	NP
-245961	NP
+245911	PP
+245914	NP
+245917	NP
+NP
+245930	NP
 NP
 NP
-245969	PP
+245935	NP
+245952	NP
+245956	NP
+245958	PP
+245962	NP
 245972	PP
 NP
-NP
+245978	NP
 245982	NP
 NP
-245990	NP
+245986	PP
 NP
-245995	NP
+VP
+245992	NP
 NP
 NP
-245999	NP
 NP
-246002	PP
 NP
+245998	NP
+NP
+246001	NP
 246005	PP
+246007	NP
 NP
-246014	NP
+246011	NP
+246013	VP
+246017	NP
 NP
-246026	PP
 NP
 NP
-246039	NP
-246055	PP
+246023	NP
 NP
-246059	PP
 NP
+246030	NP
+246032	NP
+246034	NP
+246038	NP
+246042	NP
+246045	NP
+NP
+246050	NP
+NP
+246054	NP
+246058	NP
+246060	PP
+AdvP
 246063	PP
+246067	PP
+246073	PP
+246077	NP
+246081	NP
+NP
+246085	PP
 NP
 NP
-246070	PP
-NP
-NP
-246078	PP
-NP
-NP
-246089	PP
-NP
-NP
-246100	NP
-NP
-246108	PP
-246118	PP
-246121	PP
-NP
-246126	NP
-246131	NP
-246134	NP
-NP
-NP
-246143	PP
-246150	NP
-246156	PP
-246164	NP
-AdjP
-246173	PP
-246176	NP
-PP
-NP
-NP
-246185	PP
+246091	NP
+246098	PP
 NP
 NP
 NP
-246190	NP
-246194	NP
-246196	NP
-246200	PP
+246104	NP
 NP
-246215	NP
-246219	NP
-246221	NP
+246107	NP
 NP
-246224	NP
 NP
-246229	PP
+NP
+246113	NP
+NP
+246117	NP
+246122	NP
+246124	NP
+246129	NP
+246132	NP
+NP
+246136	NP
+246139	NP
+NP
+246142	PP
+NP
+NP
+246146	NP
+246148	PP
 NP
 PP
+246152	NP
+246159	NP
+246162	NP
+246164	AdjP
+NP
+246167	AdjP
+NP
+246172	NP
+NP
+246178	NP
+NP
+246184	NP
+246186	NP
+NP
+246196	PP
 NP
 NP
-246235	PP
+PP
 NP
-246239	NP
-246247	NP
-246254	NP
+246204	NP
 NP
 NP
-246259	PP
-246263	PP
+NP
+246209	NP
+246213	NP
+NP
+246220	NP
+246223	NP
+NP
+246226	NP
+246231	NP
+246234	PP
+246236	NP
+246244	NP
+NP
+246248	NP
+NP
+246251	NP
 NP
 246266	NP
-246270	PP
-NP
-246277	NP
-NP
+246268	NP
+246276	NP
 246283	NP
 246285	NP
+246290	NP
+246293	PP
+246296	PP
+246299	NP
 NP
-246288	NP
+PP
+246304	NP
 NP
-NP
-246297	NP
-246302	PP
-NP
-246310	NP
+246308	PP
 NP
 NP
 NP
-246317	PP
-246320	NP
-246322	NP
+246314	NP
+NP
+NP
+246319	NP
 246325	NP
-246328	NP
 NP
-246336	PP
+246329	NP
+246332	PP
+246334	NP
+246336	NP
+246339	NP
 NP
-246342	PP
-246348	PP
-NP
-NP
-NP
-246358	NP
+246344	NP
 NP
 NP
-246362	PP
+246351	PP
 NP
+246356	NP
+246361	PP
 NP
-246367	NP
+246368	PP
 NP
-NP
-NP
-246376	PP
+246371	NP
+PP
+246375	VP
 246378	PP
 NP
-246386	PP
-246389	NP
-PP
 NP
-246397	NP
 NP
-246403	NP
-246408	NP
-PP
-246412	PP
+246385	NP
+246387	NP
+246390	NP
+246392	NP
+NP
+246395	NP
+246401	PP
+NP
+246405	NP
+246407	PP
+NP
 246416	PP
-246422	PP
+246419	PP
+246421	NP
+NP
+246425	NP
+246431	NP
+PP
+NP
+246444	NP
+246446	NP
+NP
+246450	PP
+NP
+246454	NP
+246459	NP
+NP
+246463	NP
+246467	PP
+NP
+246474	NP
+246481	NP
+246487	PP
+NP
+246492	NP
+246495	NP
+246499	PP
 NP
 NP
+PP
 NP
+246508	PP
 NP
-246428	PP
-246433	PP
-NP
-246438	NP
-246460	NP
-NP
-246470	NP
-NP
-246480	NP
-NP
-246484	AdvP
-246486	PP
-NP
-246490	NP
-246499	NP
-246505	NP
-NP
-246508	AdvP
-246511	PP
-NP
+246514	NP
 246516	NP
 NP
-246521	NP
-246532	NP
+246520	PP
 NP
-246537	NP
+246530	NP
+246533	PP
+246538	PP
 NP
-246545	NP
-246562	NP
-AdjP
-246568	NP
+246543	PP
 NP
-246571	NP
+246551	PP
 NP
-246576	NP
-NP
-NP
-246585	NP
-PP
-NP
-246608	PP
-246614	PP
-NP
-246619	NP
-AdjP
-PP
-246625	NP
-NP
-246633	NP
-NP
-246644	NP
-NP
-246649	NP
-NP
+246555	NP
 NP
 PP
-246656	NP
+246561	PP
 NP
-246669	PP
+246565	PP
 NP
-246672	NP
-246674	NP
-246682	PP
-NP
-246686	NP
-NP
-PP
-NP
-246695	PP
+246569	NP
 NP
 NP
+246584	NP
 NP
-246709	NP
+246596	PP
+NP
+246601	NP
+246620	NP
+246662	PP
+NP
+246667	PP
+NP
+NP
+246674	PP
+NP
+246678	NP
+246680	NP
+246683	NP
+246685	NP
+246688	NP
+246690	NP
+246694	NP
+246705	NP
+NP
+NP
+NP
+246710	NP
 246714	NP
-246747	NP
-NP
-246751	NP
-246758	NP
-NP
-246765	PP
-NP
-246784	NP
 PP
 NP
 NP
-AdjP
+NP
+246721	NP
+246725	PP
+NP
+246738	NP
+246740	NP
+246744	NP
+246746	NP
+246750	NP
+246759	NP
+246772	NP
+246774	NP
+246776	NP
+246785	NP
+PP
+NP
 246792	PP
+246800	NP
+NP
+246803	NP
+246813	PP
 NP
 NP
-246796	NP
-246799	NP
-NP
-246805	NP
-NP
-246815	PP
 NP
 NP
-246824	NP
+NP
+246821	NP
+NP
 PP
+NP
+NP
 NP
 246829	NP
+NP
 PP
 NP
-246833	NP
-246840	NP
 NP
-246846	PP
-246849	NP
-246854	PP
-246857	NP
+AdvP
+246838	PP
 NP
-246868	NP
-PP
-246875	PP
-246878	NP
+246843	NP
 NP
-246887	NP
+246847	PP
+246851	NP
 NP
-246901	NP
+246857	PP
 NP
-246909	NP
+246865	NP
+246870	NP
+NP
+246875	NP
+NP
+246880	NP
+NP
+246884	PP
+NP
+NP
+246900	NP
+NP
+246903	NP
+NP
+246907	NP
+246920	NP
 NP
 246924	NP
-NP
-246934	PP
-246938	NP
-NP
-246942	NP
-246946	NP
-246955	PP
-NP
-NP
-246966	NP
+246926	NP
 PP
-246976	NP
+NP
+246931	VP
+PP
+NP
+NP
+246945	NP
+NP
+NP
+NP
+246954	PP
+NP
+NP
+PP
+246962	NP
+PP
+NP
+NP
+NP
 246980	NP
+PP
 NP
-247005	NP
 NP
-247019	NP
-247021	NP
-247029	NP
-247033	NP
+246985	NP
 NP
-247041	NP
-247049	NP
-247053	PP
-247055	NP
-247064	NP
+246988	NP
 NP
-247068	NP
-247078	NP
+PP
 NP
-247083	PP
 NP
-247090	NP
+247001	NP
+PP
+247008	PP
 NP
-247097	PP
-247106	PP
-247130	PP
+247011	PP
+NP
+NP
+247023	PP
+NP
+247028	NP
+247037	NP
+247048	PP
 NP
 NP
 NP
-247144	PP
-247147	NP
-247153	PP
+NP
+NP
+247064	PP
+NP
+NP
+NP
+247071	NP
+NP
+247075	NP
+NP
+NP
+247084	NP
+247086	NP
+247094	PP
+NP
+NP
+247098	NP
+NP
+247105	PP
+NP
+247108	PP
+PP
+NP
+247112	NP
+NP
+NP
+247118	PP
+NP
+247131	NP
+247133	PP
+NP
+247144	NP
+PP
+NP
+AdjP
+NP
+NP
+247157	NP
+247160	NP
+247164	NP
 247166	NP
-PP
-247169	PP
-NP
-NP
-247182	PP
-NP
-247185	PP
-247190	NP
+247174	NP
+247183	NP
+247188	NP
 247195	NP
-247207	NP
+247197	PP
+247203	NP
+247205	NP
 NP
-247214	PP
+247209	AdjP
+247222	NP
+NP
+247228	NP
+247243	NP
+NP
+247247	NP
+NP
+247253	NP
+247257	NP
+247276	NP
+NP
+247294	NP
+NP
+247309	NP
+247311	NP
+247320	NP
+247322	NP
+247326	NP
+247331	PP
+NP
+PP
+NP
+NP
+247346	NP
+247348	NP
+247355	NP
+247364	PP
+247370	NP
 NP
 PP
 NP
 NP
 NP
-247230	PP
-NP
-NP
-247234	NP
-247236	NP
-247239	NP
-NP
-NP
-247244	NP
-NP
-247247	PP
-247252	NP
-NP
-247255	PP
-247258	NP
-247263	NP
-NP
-247267	AdvP
-247271	PP
-247275	NP
-NP
-NP
-NP
-NP
-247282	NP
-247295	NP
-247301	NP
-NP
-NP
-NP
-247307	PP
-247316	NP
-247319	NP
-PP
-247332	NP
-247352	NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-247361	PP
-NP
-247364	NP
-247372	NP
-247375	NP
-247379	NP
-247383	NP
+247382	NP
 247395	PP
+247400	NP
+247403	PP
+247411	NP
 NP
-247399	NP
+247417	NP
+247419	NP
+247422	NP
+247427	PP
+247429	NP
+247431	NP
+247433	NP
+NP
+247436	NP
+NP
+247439	PP
 NP
 NP
-247405	NP
-247409	NP
-247413	NP
-247416	NP
-247418	NP
+247444	NP
+247448	PP
 NP
-247421	PP
-NP
-247424	NP
-247429	PP
-NP
-NP
-247437	NP
-NP
-247442	NP
-NP
-PP
-247446	NP
 247451	NP
+247453	PP
 NP
-247460	PP
-247465	PP
-247476	NP
+247463	PP
+247466	PP
 NP
-247479	PP
+247469	PP
+NP
+247475	NP
+PP
+NP
 NP
 NP
 247485	PP
-NP
-PP
-NP
-NP
+247490	NP
 247492	NP
-PP
-247503	NP
 NP
-247510	NP
-247514	NP
-PP
+247505	PP
 NP
-247521	NP
-PP
-NP
+247508	PP
 PP
 NP
 NP
-NP
-247531	NP
-247535	PP
+247520	PP
 NP
 NP
-247542	NP
-247548	NP
-247554	NP
+247524	NP
+NP
+247527	PP
+247536	NP
+247538	PP
+NP
+NP
+247547	NP
+NP
+PP
+247552	NP
+247555	PP
 247558	PP
 NP
 NP
+247564	PP
 NP
 NP
-247565	PP
-247573	PP
+247578	PP
 NP
 NP
-NP
-NP
-NP
-NP
-NP
-NP
-247592	NP
-247594	AdvP
-247596	PP
-NP
-247603	PP
-NP
-NP
-NP
-NP
-247618	PP
-NP
-NP
-NP
-247623	NP
-247629	NP
-247635	NP
-NP
-NP
-247640	PP
-NP
+247585	VP
 PP
 NP
-AdjP
-247649	NP
+247591	NP
+247594	PP
+NP
+247606	PP
+NP
+247609	NP
+NP
+247612	PP
 PP
 NP
-247656	PP
-247667	NP
+247617	NP
+247621	PP
+NP
+247625	PP
+PP
+247633	PP
+NP
+247639	PP
+NP
+247643	VP
+247646	NP
+247656	NP
+247659	NP
+247661	NP
+NP
 VP
+247665	NP
+247667	PP
+247671	NP
+NP
+NP
+247675	PP
+NP
+NP
+247681	PP
+NP
+NP
+247686	PP
+NP
+NP
+247692	NP
+NP
 PP
 NP
-NP
-247682	PP
-NP
-NP
-NP
-247691	NP
-247693	NP
-247697	PP
-NP
-247705	NP
-NP
-247711	NP
+PP
+247704	NP
+247708	NP
 NP
 NP
+PP
 NP
-247724	NP
-247732	PP
+PP
+247721	VP
+PP
+247725	NP
+NP
+NP
 NP
 247735	PP
 NP
-247744	PP
+NP
+247746	NP
 NP
 NP
-247750	PP
-NP
-PP
-NP
-247755	VP
+247752	NP
 247757	NP
-247764	PP
-247770	NP
-247772	NP
-247777	PP
-247783	PP
-247787	NP
-NP
-247790	PP
-PP
-NP
-NP
-247795	NP
-NP
-247801	NP
-247805	NP
 NP
 NP
 NP
 NP
+247765	NP
+247768	PP
 NP
-247814	NP
-PP
-247825	NP
-247827	NP
+247773	NP
 NP
-247831	PP
-247833	PP
+247780	PP
+247782	NP
 NP
+247788	NP
 NP
+247792	PP
 NP
-247839	NP
+247798	PP
+247800	NP
+247802	PP
 NP
 NP
 PP
-247845	NP
 NP
-247848	NP
+247810	PP
 NP
-247851	NP
-247859	PP
-247863	NP
-247865	PP
+NP
+NP
+PP
+247816	NP
+247834	NP
+247839	PP
+NP
+NP
+247844	NP
+NP
+247847	NP
+247849	NP
+247851	PP
+247855	PP
+NP
+NP
+NP
 247867	NP
-247869	PP
-NP
-247874	NP
-247881	NP
-247888	NP
-247890	NP
-247895	PP
-NP
-247900	NP
+PP
+247871	PP
 NP
 NP
+247875	PP
+247877	NP
 NP
-247910	PP
 NP
-247914	NP
-247917	PP
-247921	PP
+247883	PP
+NP
+247889	PP
+NP
+247894	NP
+247898	NP
+NP
+247901	VP
+247913	PP
+NP
+NP
+247920	NP
 247924	NP
-NP
+247926	NP
+247930	VP
+247932	PP
 247934	NP
-247943	NP
-PP
-NP
-NP
-247951	PP
-NP
-NP
-NP
-247960	NP
-247967	PP
-247976	PP
-247981	NP
-247983	NP
-247986	PP
-247989	NP
-247992	NP
-247995	PP
-NP
-248000	PP
 NP
 PP
+NP
+247939	NP
 PP
 NP
+247946	NP
 NP
-248007	PP
-NP
-248010	PP
-NP
-248016	PP
+247950	NP
+247955	NP
 NP
 NP
-248029	PP
+247967	NP
+247978	NP
 NP
-248034	NP
+NP
 PP
-248043	NP
+247990	NP
+247996	NP
+248002	NP
 NP
-248051	NP
+248005	NP
+NP
+PP
+248011	NP
+NP
+248022	NP
+NP
+NP
+NP
+NP
+248033	NP
+PP
+248046	VP
+248050	NP
+PP
+NP
 248054	NP
-248057	NP
-248059	NP
 NP
-248063	NP
-248067	PP
+248060	NP
+248062	NP
+248071	NP
 NP
-PP
+248084	NP
 NP
 NP
-248074	NP
-248077	NP
-248079	NP
-248081	PP
-248085	NP
-248089	PP
-AdvP
-248092	PP
+248091	PP
+248093	NP
+248098	PP
 NP
-248105	NP
 NP
+248102	NP
+248105	PP
 NP
 NP
 PP
 NP
-248118	NP
+248114	NP
 NP
-248122	NP
-248135	PP
-248138	NP
+248117	NP
+NP
+248120	NP
+NP
+248125	NP
+NP
+248130	PP
+248133	PP
+NP
+NP
+248137	PP
+NP
+NP
 PP
+NP
 NP
 248144	PP
 NP
-248149	NP
 NP
-248153	PP
+248154	PP
+NP
+248159	PP
+NP
+248165	NP
+NP
+248168	PP
+248170	NP
+PP
+248173	NP
+NP
+NP
+248180	NP
+248183	NP
+NP
+248191	NP
+NP
+248195	NP
+NP
+248198	PP
+NP
+PP
+248207	PP
+NP
 PP
 NP
-248160	NP
-248171	PP
-NP
-248176	NP
-248186	PP
-NP
-NP
-248197	NP
-248199	NP
-248208	NP
-NP
 248214	NP
+AdjP
+NP
+248218	NP
+248221	NP
+NP
+PP
+NP
+248228	NP
 248231	NP
-248234	NP
-248239	NP
-248241	PP
-248244	NP
-248246	NP
 NP
 NP
-248251	NP
-248258	PP
+248240	PP
+248244	PP
+248247	NP
+PP
+PP
+248251	PP
+NP
 248260	PP
+248262	NP
 NP
-248268	PP
+248266	NP
+NP
 248270	NP
-248272	NP
-248275	NP
-NP
-248287	NP
-248294	NP
 NP
 NP
-248299	NP
+248274	PP
+248279	NP
 NP
-248303	NP
-248322	PP
+PP
+248284	NP
 NP
-248335	NP
-248343	NP
-248345	NP
-248348	NP
+248290	NP
+248294	PP
 NP
-248354	NP
+NP
+248303	PP
+PP
+PP
+248307	NP
+248314	NP
+NP
+248317	PP
+PP
+NP
+NP
+248331	NP
+PP
+NP
+NP
+NP
+248337	PP
+NP
+NP
+248342	PP
+NP
+NP
+NP
+248350	PP
+248352	NP
+NP
+248356	NP
+NP
+248359	NP
 248361	NP
-248363	PP
+248365	NP
 NP
-248366	PP
-NP
-248373	PP
-NP
-248376	PP
-248378	PP
-NP
-248388	NP
-248390	NP
-248397	NP
+248368	NP
+248370	NP
+248372	NP
 NP
 NP
-248407	PP
-248410	NP
-248413	NP
-248415	NP
-248417	NP
+NP
+248377	PP
+NP
+248391	PP
+NP
+248398	NP
+NP
+248402	PP
+NP
+248406	NP
 NP
 NP
-248421	PP
-248424	NP
 NP
+NP
+248414	NP
+NP
+248422	NP
+NP
+NP
+248433	NP
+248436	PP
 248438	NP
-248440	PP
+248440	NP
 NP
-248444	NP
+248451	PP
+248457	NP
+PP
 NP
-248449	PP
-248455	NP
 NP
 248462	PP
 NP
-248465	PP
-NP
-248470	NP
 NP
 NP
+248468	NP
 NP
-248476	PP
+NP
+NP
+248476	NP
+248479	NP
+NP
+248482	NP
+248484	NP
+PP
+248489	NP
+NP
+248492	NP
+NP
+248501	PP
+NP
+NP
+NP
+NP
+248510	NP
+NP
+248515	PP
+NP
+NP
+NP
+AdjP
+VP
+248524	NP
+NP
+NP
+248528	NP
+248530	NP
+NP
+NP
+248534	NP
+248538	NP
+248540	NP
+248544	PP
+NP
+248548	NP
+248551	PP
+NP
+248559	NP
+248561	NP
+248572	PP
+248576	PP
+NP
+248580	PP
+248584	PP
+248587	NP
+248590	NP
+248594	PP
+NP
+NP
+NP
+248601	PP
 PP
 NP
-248480	NP
-248485	NP
-248490	PP
-NP
-248495	PP
-NP
+248608	PP
 NP
 PP
-NP
-PP
-NP
-248506	PP
-NP
-248511	NP
-NP
-NP
-248517	PP
-PP
-NP
-PP
-NP
-248527	NP
-248530	PP
-PP
-NP
-248538	AdvP
-248540	PP
-NP
-248544	NP
-248546	NP
-248557	NP
-248559	PP
-NP
-NP
-NP
-248564	PP
-248569	PP
-248577	NP
-248579	NP
-248581	NP
-248583	PP
-248585	PP
-NP
-248589	NP
-NP
-NP
-NP
-248594	NP
-NP
-NP
-248599	NP
-NP
-NP
-NP
-NP
-248606	PP
-NP
-NP
-NP
 248612	NP
 NP
 NP
 NP
-248619	PP
+248617	NP
+NP
+248620	PP
 NP
 NP
-248624	NP
-248632	PP
-NP
-248641	NP
-248647	NP
-248651	PP
+248627	PP
+PP
+248630	NP
 NP
 NP
+248637	PP
+248639	PP
 NP
+248647	PP
 NP
-248658	NP
-248662	PP
-248670	NP
-NP
-NP
+248655	PP
 PP
 NP
-248681	PP
-NP
-248687	NP
-248691	PP
-248694	NP
-248696	NP
-NP
-248700	NP
-PP
-248703	NP
-248706	PP
+248660	PP
+248667	PP
+248685	PP
 NP
 NP
+248690	NP
+248695	NP
 NP
+248704	NP
 NP
-248712	PP
-NP
-248718	PP
-248720	NP
-NP
-NP
-248725	PP
-NP
-248732	PP
-NP
-248735	NP
-NP
-NP
-248740	NP
-248743	PP
-248745	VP
-248748	NP
-248750	NP
-NP
-248754	PP
-NP
-248759	NP
-NP
-NP
-248770	VP
-PP
-248778	NP
-248780	PP
-248782	NP
-248784	PP
-NP
-248789	PP
-PP
-248794	NP
-248799	NP
-NP
-248803	PP
-248810	NP
-PP
-248815	NP
-PP
-248820	PP
-NP
-248825	NP
+248707	NP
+248717	PP
 PP
 NP
+248726	NP
+248731	NP
 NP
-248835	NP
-248838	NP
+248738	NP
+248745	PP
+NP
+248748	PP
+NP
+NP
+NP
+NP
+248757	PP
+248765	NP
+248767	NP
+248769	NP
+NP
+PP
+PP
+248774	NP
+248780	NP
+248782	PP
+NP
+248791	PP
+248797	NP
+248804	NP
+NP
+248809	NP
+NP
+NP
+NP
+248816	NP
+NP
+248823	PP
+NP
+248832	NP
 248841	NP
-248846	NP
+248843	NP
 NP
-248853	NP
-248856	NP
-NP
-NP
-248863	NP
+248847	NP
+248849	PP
+248856	PP
 NP
 NP
-248867	PP
 NP
-248876	NP
-248879	NP
 NP
-248885	NP
+248866	NP
+NP
+248870	NP
+NP
+PP
+248875	NP
 NP
 PP
 NP
+248884	PP
+248887	NP
+NP
+NP
+NP
+248895	PP
+NP
+NP
+NP
+248900	NP
+NP
+248907	PP
+248909	NP
+NP
+248914	NP
+PP
+NP
+NP
+248922	NP
+NP
+248930	PP
+248932	NP
+NP
+248936	NP
+PP
+NP
+NP
+NP
 NP
 PP
 NP
-248905	NP
+248952	NP
+PP
 NP
 NP
+248960	PP
 NP
-248916	NP
-248918	NP
+248964	PP
+248967	NP
+248972	NP
 NP
-248927	PP
+248975	PP
 NP
-NP
-248931	PP
-248933	PP
-NP
-NP
-248938	NP
-NP
-248943	PP
-NP
-248950	NP
-248967	PP
-NP
-NP
-248972	PP
-248974	NP
-248976	NP
 NP
 248979	NP
+248981	NP
 NP
+PP
+248986	NP
+248991	NP
 NP
+248995	NP
 NP
-248988	PP
-NP
-248992	PP
-248997	NP
+248998	NP
+249000	NP
 249003	NP
-249006	PP
+249005	PP
 NP
-249009	NP
+NP
+249009	PP
 249011	PP
 NP
-249020	NP
 NP
-NP
-249025	NP
+249015	NP
 NP
 NP
 NP
-249032	NP
-249034	NP
+249022	NP
+NP
+NP
+249029	PP
+249032	PP
+NP
+NP
+249039	PP
+NP
+249044	NP
+249046	NP
+NP
+NP
+249050	NP
+249052	PP
+249055	NP
+249058	PP
+NP
+249061	NP
 NP
 PP
-249041	NP
-249050	PP
-NP
-249057	NP
-249060	PP
-NP
-249063	NP
-249071	PP
-NP
-249076	PP
-249079	PP
-249081	NP
-NP
-NP
-249090	NP
-NP
-249093	NP
-NP
-249097	PP
-249106	NP
-NP
-249110	NP
-NP
-249114	NP
-249117	NP
-249128	NP
-NP
-249132	PP
-249135	NP
+249068	NP
+249072	PP
+PP
+AdvP
+249080	NP
+249083	NP
+249087	NP
 NP
 PP
 NP
-249140	PP
-249142	PP
+249095	PP
 NP
-249152	NP
+249098	NP
+249100	NP
+249102	NP
+249104	NP
+PP
+249109	NP
+249116	PP
+NP
+249121	PP
+NP
+249125	PP
+NP
+249128	PP
+NP
+249136	NP
+249138	PP
+249140	NP
+NP
+249148	PP
 NP
 NP
+PP
 249157	NP
+249159	NP
 NP
 NP
-249166	PP
-249169	PP
-249171	PP
-249182	PP
+249163	PP
 NP
-249186	NP
-249188	PP
+NP
+249170	NP
+249175	NP
+249177	PP
 PP
+249181	PP
+249187	NP
+249189	PP
+249191	NP
+249193	PP
 NP
-249196	NP
-249198	NP
-249210	NP
-249214	NP
+249199	PP
+NP
+NP
+249206	NP
+249208	PP
+NP
+249211	PP
+PP
 249220	NP
 NP
-249226	NP
-249232	PP
+249223	NP
+249229	NP
+249238	PP
 NP
-NP
-249237	PP
 249242	NP
+249245	PP
+249254	PP
 NP
-249258	NP
+249258	PP
+249262	NP
 NP
+249268	NP
+249270	PP
 NP
-249269	NP
-249272	PP
-249274	NP
-NP
-NP
-249278	NP
-249281	NP
-NP
+249283	PP
 249285	PP
 NP
+249291	PP
 NP
+NP
+NP
+249303	PP
+NP
+NP
+NP
+NP
+249313	PP
+249319	PP
+NP
+249325	NP
+249346	PP
+NP
+249351	NP
 PP
-NP
-249291	NP
-NP
+249354	NP
+249357	AdjP
+249359	NP
 PP
-NP
-PP
-249301	NP
-249304	PP
-NP
-249309	NP
-249315	NP
-PP
-NP
-249320	PP
-249323	PP
-NP
-249327	PP
-NP
-249331	NP
-249340	PP
-NP
-249345	NP
-NP
-NP
-249350	NP
-249352	VP
-249355	PP
-249360	NP
 249362	NP
-249377	PP
-249381	AdvP
-249383	NP
+NP
+NP
+NP
+249370	PP
+NP
+249375	PP
+249377	NP
+249379	NP
+249388	PP
+NP
+249397	NP
+249399	NP
+249401	NP
+249403	NP
 NP
 PP
 NP
-249397	PP
-249402	NP
 NP
-249406	NP
+PP
 NP
-249409	NP
-249419	NP
-249436	PP
-249446	NP
 NP
+249412	NP
+249416	PP
+249426	NP
+NP
+NP
+249430	NP
+249432	PP
+NP
+249435	PP
+NP
+249438	PP
+NP
+NP
+249443	PP
+PP
+NP
+NP
+PP
 249450	NP
 NP
-249464	NP
+NP
+249459	PP
+249462	NP
 249466	NP
-249475	NP
+NP
+249469	NP
+249473	AdvP
+249476	PP
 NP
 NP
-249479	NP
+249481	NP
 NP
-249482	NP
-249484	NP
-249494	NP
-249502	NP
+PP
 NP
-249518	PP
+249486	NP
 NP
-249527	NP
-249530	NP
+PP
 NP
-249533	PP
+249492	PP
+249497	PP
+NP
+NP
+249501	NP
+NP
+NP
+249509	NP
+PP
+VP
+249516	NP
+NP
+249520	NP
 NP
 NP
 PP
-249539	PP
+249525	NP
+NP
+249528	NP
+249537	NP
+249550	NP
+249552	NP
+NP
+NP
+NP
+249557	NP
+NP
+NP
+249562	PP
+NP
 249566	NP
-249574	NP
-PP
-249579	PP
+249568	PP
+249571	NP
+249577	NP
 NP
 249582	PP
-249584	VP
-NP
-PP
-NP
-NP
-PP
 NP
 NP
 NP
-249595	NP
-249605	PP
-249610	PP
+249599	PP
+NP
+249602	VP
+NP
+NP
+NP
+249612	NP
+249615	PP
 NP
 NP
 NP
 249621	NP
-249626	NP
-249632	NP
-249636	NP
-249638	PP
 NP
-249642	PP
+249626	PP
+249628	NP
 NP
+249635	PP
+NP
+249638	NP
+NP
+249642	NP
+PP
+NP
+NP
+NP
+249650	NP
+249652	PP
 249654	NP
-249657	PP
-249665	NP
-249673	NP
+NP
+NP
+249660	NP
+NP
+NP
+249665	PP
+NP
+NP
+NP
 249675	PP
 NP
-249678	NP
-249684	NP
-249698	NP
+NP
+249682	PP
 NP
 NP
-249702	NP
-249704	PP
-249707	NP
-249709	PP
 NP
 NP
-249714	PP
-249722	PP
-249729	NP
-249738	NP
-249741	NP
-249750	NP
-249753	PP
+249691	NP
+249694	NP
+NP
+NP
+249701	NP
+PP
+NP
+249708	NP
+249717	NP
+NP
+NP
+249721	NP
+NP
+249729	PP
+249734	NP
+249742	NP
+249744	PP
+249751	NP
+NP
+249754	NP
+NP
 249757	NP
-249762	PP
-249784	PP
-249790	NP
 NP
 PP
-249796	NP
 NP
+249768	PP
+NP
+NP
+249776	NP
+249783	PP
+NP
+NP
+249788	NP
+249790	PP
+NP
+NP
+249794	PP
+NP
+249798	PP
+249800	NP
+NP
+NP
+249804	NP
+249807	PP
+NP
+249813	PP
+NP
+NP
+249817	NP
+NP
+249826	NP
+249831	NP
+NP
+249837	PP
 PP
-249802	AdvP
-249805	PP
-249812	NP
 NP
-249815	PP
-NP
-PP
-PP
-249820	PP
+249841	NP
+249844	PP
+249852	NP
+249854	NP
+249857	NP
 NP
 NP
 NP
 NP
 NP
-249850	PP
-249855	NP
-249862	NP
-249874	NP
+249868	PP
+NP
+NP
+249876	NP
+249878	NP
 249880	NP
-249882	NP
-249884	NP
-249887	PP
-NP
-249891	PP
-249896	NP
-NP
-NP
-249900	PP
-249912	NP
-249918	NP
-249920	NP
 PP
-249931	NP
+249883	NP
+NP
+249890	NP
+PP
+NP
+249896	PP
+NP
+249899	NP
+249901	PP
+249903	NP
+NP
+NP
+249915	PP
+NP
+NP
+NP
+NP
+NP
+NP
+NP
+249927	PP
+NP
+PP
+NP
 249937	NP
-249942	PP
-NP
+249939	NP
+PP
+249943	NP
 249945	NP
-PP
-249948	NP
-249953	PP
+NP
+NP
+NP
+NP
+249952	PP
+NP
 249956	NP
-249958	PP
-249961	NP
+249958	NP
+249963	PP
 NP
-249967	PP
-NP
-249970	NP
-PP
+249972	NP
 249975	PP
 NP
+249978	NP
+249980	PP
 NP
-249983	PP
+249991	NP
 NP
-249991	AdjP
-249995	PP
+249994	NP
+249996	NP
 NP
-250002	PP
-NP
-NP
-250009	NP
-PP
-NP
+249999	NP
+250001	PP
+250012	NP
 250016	PP
 NP
-NP
-250024	NP
-NP
-NP
-250030	NP
-250033	NP
-250038	PP
+VP
 PP
 NP
+250023	NP
+250028	NP
+PP
+NP
+250034	PP
+250037	NP
+250044	PP
+NP
+250049	NP
+250057	PP
 NP
 NP
+250063	NP
 NP
-250045	NP
-250059	PP
-250062	PP
+NP
 250069	PP
-250071	AdvP
-250073	NP
-250084	NP
-250086	PP
 NP
 NP
-250093	PP
 NP
 NP
-250098	PP
-250100	PP
-250102	NP
-NP
-250115	PP
+250078	NP
+250087	NP
 NP
 NP
-250127	NP
-250129	NP
+NP
+250097	PP
+250099	NP
+250103	NP
+NP
+250107	NP
+250109	NP
+250114	NP
+NP
+NP
+250119	NP
+NP
+NP
+250124	NP
 250141	NP
-250151	NP
-NP
-250155	NP
-NP
-250160	PP
-250164	PP
-250169	NP
-NP
-250174	NP
-250181	NP
-NP
-250188	PP
-250191	NP
-250193	NP
-NP
-NP
-250198	NP
 PP
 NP
 NP
-250209	NP
-250217	NP
-NP
-250222	NP
-250229	NP
-NP
-250241	PP
-250249	PP
-NP
-250252	NP
-250268	PP
-250271	NP
-NP
-NP
-250275	PP
-250282	NP
-250285	NP
-250290	NP
-250298	NP
-NP
-NP
-250302	NP
-NP
-NP
-250306	NP
-NP
-NP
-PP
-250316	NP
-250322	NP
-250328	PP
-NP
-250334	PP
-250336	PP
-250339	NP
-250344	PP
-250348	PP
-NP
-250355	PP
-250359	NP
-250361	NP
-250364	PP
-250366	PP
-250369	NP
-250371	PP
-250381	PP
-250386	NP
-250393	PP
-NP
-250401	PP
-250403	NP
-NP
-PP
-250413	PP
-250415	NP
-NP
-NP
-250421	NP
-250425	NP
-250430	PP
-NP
-NP
-NP
-250435	NP
-NP
-250439	PP
-NP
-NP
-250444	NP
-NP
-NP
-NP
-250451	PP
-NP
-NP
-250458	NP
-NP
-NP
-PP
-250464	NP
-NP
-250469	NP
-NP
-NP
-250477	NP
+250147	NP
 AdjP
+NP
+NP
+250154	NP
+250158	PP
+250165	PP
+NP
+NP
+250171	PP
+250173	NP
+NP
+250183	NP
+NP
+AdjP
+250189	NP
+250196	PP
+250199	PP
+250202	NP
+PP
+NP
+NP
+NP
+250210	PP
+250215	NP
+250222	AdvP
+250227	PP
+NP
+NP
+250238	PP
+250240	NP
+NP
+250243	NP
+NP
+250249	PP
+250257	NP
+250266	NP
+250271	PP
+NP
+NP
+NP
+250282	PP
+NP
+NP
+250287	PP
+NP
+250290	NP
+250293	PP
+NP
+250296	PP
+250303	NP
+250307	PP
+250309	NP
+NP
+250312	NP
+250314	NP
+NP
+PP
+NP
+250320	PP
+NP
+NP
+NP
+NP
+NP
+250328	NP
+NP
+NP
+NP
+250338	NP
+NP
+NP
+250347	NP
+NP
+NP
+NP
+PP
+250353	AdjP
+250358	PP
+NP
+NP
+250364	NP
+250366	NP
+NP
+NP
+250373	NP
+PP
+NP
+NP
+250382	NP
+AdjP
+250386	NP
+250397	PP
+NP
+250403	NP
+250406	NP
+NP
+NP
+250413	NP
+NP
+NP
+PP
+250418	NP
+250420	NP
+NP
+250423	NP
+250426	AdjP
+250430	NP
+250433	PP
+NP
+250438	NP
+250440	NP
+PP
+250443	NP
+250449	NP
+PP
+250454	NP
+250460	NP
+250462	NP
+250468	NP
+250474	NP
+PP
+250478	NP
 250483	NP
+250485	NP
+250487	NP
+250496	PP
 NP
-250486	PP
+250500	NP
 NP
-NP
-250490	NP
 250503	NP
-250508	NP
+NP
+250509	PP
+250511	NP
+NP
 NP
 250515	NP
-250518	PP
+250522	NP
+250524	NP
+250526	NP
+NP
+250530	NP
+250538	PP
+NP
+250541	PP
+NP
+250544	NP
+NP
+250547	NP
+250550	NP
+250564	NP
 NP
 NP
-250540	NP
+250569	NP
 NP
-250546	NP
-PP
+250572	PP
 NP
-NP
-250558	NP
-250564	AdjP
-250568	PP
-NP
-250571	NP
-NP
-250576	PP
-NP
+250578	PP
+250581	PP
 250584	PP
+250586	NP
 NP
-PP
 250589	NP
-250591	NP
-250600	NP
 NP
-250605	NP
-250608	NP
+250593	PP
 NP
-250611	NP
+250601	PP
 NP
+250604	PP
+250607	PP
+250609	NP
+NP
+250613	PP
 250615	NP
-250617	PP
+NP
 PP
+250628	PP
+250630	NP
+250636	PP
+250639	NP
 NP
 NP
-250640	PP
-NP
-NP
-250645	NP
-NP
-NP
+PP
 250650	NP
-250653	PP
-250655	NP
-250666	NP
+250654	NP
 NP
+250657	PP
+NP
+250663	NP
+250665	NP
 250671	NP
+250675	PP
+250680	PP
+NP
+NP
+250686	NP
+250693	NP
+250697	NP
+NP
+NP
+250702	NP
+250705	NP
+NP
+250708	NP
+250710	NP
+250712	PP
+250717	NP
 PP
-NP
-NP
-250681	NP
-250686	PP
+250722	PP
 NP
 NP
 NP
+250732	PP
+250734	NP
+250739	PP
+250742	NP
 NP
-250692	PP
 NP
-250697	PP
+250750	PP
 NP
-250702	PP
-PP
-250718	NP
-250724	NP
-250731	NP
-250741	NP
 NP
-250752	PP
-250756	PP
-250761	PP
-250765	NP
-PP
-250776	NP
-250778	NP
+250756	NP
+250761	NP
 NP
-250782	NP
+250768	PP
+250770	NP
+NP
+250775	PP
+NP
+250779	NP
+NP
+250784	NP
+NP
+NP
 250794	NP
-AdvP
-250797	PP
-250803	PP
-250808	NP
+NP
+250797	NP
+NP
 PP
-250811	PP
-250813	PP
-PP
+NP
+250805	PP
+250812	NP
+NP
+250816	PP
 250819	PP
+NP
+250825	NP
 PP
-250823	PP
-NP
-250830	PP
-250833	NP
-NP
-NP
-NP
-250851	NP
-NP
-NP
-250856	PP
-NP
-NP
-250861	PP
-250874	PP
-NP
-250880	NP
-250883	NP
-250886	PP
-250889	PP
-NP
-250908	PP
 NP
 NP
 PP
-250931	PP
+250834	NP
 NP
-250939	NP
-250953	PP
-250955	PP
-250976	NP
-250982	NP
 NP
+250840	NP
+NP
+250843	NP
+250845	PP
 PP
-250987	NP
-250994	NP
+250850	NP
+PP
+250855	NP
+250858	NP
 NP
-251000	NP
-251003	NP
+250861	NP
+250863	NP
+NP
+250866	PP
+250869	PP
+NP
+250876	NP
+250879	NP
 PP
 NP
-251009	PP
+NP
+NP
+250891	NP
+NP
+250897	PP
+250902	NP
+NP
+250907	PP
+NP
+250916	NP
+250918	PP
+NP
+NP
+250923	NP
+NP
+NP
+NP
+250938	NP
+250943	NP
+250945	NP
+PP
+NP
+250956	NP
+250958	NP
+250966	PP
+250971	PP
+250977	NP
+250985	NP
+250988	PP
+250993	NP
+250996	NP
+251001	PP
+NP
+NP
+251007	PP
+251009	NP
+251012	NP
+251016	NP
+251019	PP
 NP
 NP
 251023	NP
-NP
-251026	NP
-NP
-251030	PP
-251032	PP
+251025	PP
 NP
 NP
-251043	NP
-251046	PP
+NP
+251032	NP
+251038	NP
+251041	NP
 NP
 NP
-PP
-251053	PP
+NP
 NP
 NP
 251060	NP
+251063	NP
 NP
-VP
-251064	PP
-251069	PP
-251074	PP
 NP
-251078	PP
+NP
+NP
+251070	PP
+251072	NP
+251078	NP
+NP
+251081	NP
 NP
 NP
 PP
+251086	NP
 NP
+251099	PP
+251101	NP
 NP
-251092	NP
-PP
+251112	NP
+251117	PP
 NP
-251096	NP
-251107	PP
-NP
-251111	PP
-NP
-251115	PP
-NP
-251119	NP
 251122	PP
 NP
-251125	NP
+251131	PP
+251134	PP
 NP
-251129	PP
-251148	PP
-251151	PP
-251166	PP
+251137	PP
 NP
+NP
+251143	NP
+251145	NP
+NP
+251151	NP
+PP
+NP
+NP
+251162	PP
+NP
+PP
+NP
+PP
+251169	NP
+251172	PP
+251174	NP
 251176	NP
+NP
+251180	NP
+251189	NP
+NP
+251196	PP
+NP
+NP
 PP
-251183	PP
-251186	PP
-NP
-251194	NP
-251200	NP
-NP
-PP
-NP
-251207	NP
+251201	NP
 251210	NP
 NP
-251213	NP
-251220	NP
-251222	NP
-251228	NP
-251232	NP
+251216	PP
 NP
-251235	NP
+251227	PP
 NP
 NP
-251244	PP
+251233	NP
+251236	PP
 NP
 NP
-251258	PP
-NP
-251262	PP
-NP
-251265	PP
-251267	NP
 NP
 NP
-251273	PP
+251245	NP
+251250	NP
 NP
-251281	NP
 NP
-251287	NP
-251291	PP
-251294	NP
-251307	PP
-251316	PP
-251318	PP
+251255	PP
 NP
-251322	PP
-251330	NP
 NP
-251335	NP
-251339	PP
-251343	PP
+251262	NP
 NP
-251347	PP
+PP
 NP
-251351	PP
+NP
+251271	NP
+NP
+NP
+251275	NP
+NP
+251278	NP
+NP
+251288	PP
+NP
+NP
+NP
+251293	NP
+NP
+PP
+NP
+251300	NP
+251303	PP
+NP
+251312	NP
+NP
+PP
+PP
+NP
+NP
+NP
+251322	NP
+PP
+NP
+NP
+NP
+PP
+NP
+NP
+251334	PP
+NP
+251340	NP
+NP
+251350	NP
+PP
 251354	NP
-251357	PP
+251357	NP
+251360	NP
+251362	NP
 NP
 NP
-251370	PP
-251374	PP
+251367	NP
+251374	NP
 NP
 NP
-251383	NP
-PP
-251388	NP
 NP
 NP
-251392	NP
-251396	PP
-251401	PP
+251380	NP
+251383	AdjP
+251386	NP
+251389	NP
 NP
-251405	NP
+NP
+251394	NP
 NP
 NP
-251409	PP
-251413	NP
 NP
-251416	NP
-251422	PP
 NP
-251428	PP
+251401	NP
 NP
-251434	PP
+251406	PP
 NP
-251440	PP
 NP
+NP
+251419	NP
 PP
 NP
+251430	NP
+NP
+251434	NP
+PP
+251440	NP
+251442	PP
+NP
+251446	NP
 251450	PP
 NP
-251454	PP
 NP
-NP
-NP
-NP
-251464	PP
-NP
-251469	PP
-NP
-251472	PP
-251477	VP
-NP
-PP
-PP
-251486	PP
-251488	PP
+251458	NP
+251461	NP
 NP
 NP
 PP
-251500	PP
-251502	PP
-251504	NP
-PP
-251508	NP
-251515	NP
-251528	PP
-251531	PP
-251533	VP
-PP
-251537	NP
-251561	PP
-251564	NP
 NP
+251467	NP
+251472	NP
+251474	NP
 NP
-251573	PP
+251479	PP
+251482	PP
 NP
-251576	NP
-NP
-NP
-251596	NP
-NP
-251601	NP
-251605	PP
-251608	PP
-251613	PP
-NP
+251486	NP
+251488	NP
 NP
 PP
 NP
 NP
 NP
-251622	PP
-251625	NP
+251498	NP
+251505	NP
 NP
-251629	NP
-251632	NP
-251638	PP
+251509	NP
+251511	NP
+251516	NP
+NP
+251524	VP
+NP
+NP
+251529	PP
 NP
 NP
 NP
-251644	NP
-251646	NP
+PP
+251535	NP
+NP
+PP
+251541	PP
+NP
+NP
+NP
+251547	PP
+NP
+251552	NP
+NP
+251556	NP
+PP
+251562	NP
 PP
 NP
-251650	PP
+251571	PP
+251577	NP
+251581	PP
 NP
-251654	PP
-251660	NP
-251662	PP
-251671	NP
+NP
+NP
+251587	NP
+251590	NP
+251592	PP
+NP
+251595	PP
+251600	NP
+251605	NP
+251608	NP
+251610	NP
+251612	NP
+251620	NP
+PP
+NP
+NP
+NP
+NP
+251630	PP
+NP
+251636	NP
+NP
+NP
+251641	NP
+251645	NP
+251647	PP
+PP
+251653	NP
+NP
+NP
+251661	PP
+NP
+NP
+251670	NP
+251672	PP
+251674	NP
+NP
+NP
 251678	NP
-251681	PP
-251689	PP
 NP
-251703	NP
-251720	NP
-251728	NP
+251687	NP
+251689	NP
+251693	VP
+NP
+251699	NP
+251704	NP
+NP
 PP
-251737	NP
+251709	NP
 NP
 NP
+NP
+251714	PP
+251721	PP
+251724	NP
+251728	VP
+PP
+NP
+251733	VP
+PP
+NP
+NP
+251738	NP
 251742	NP
-NP
-NP
-NP
+PP
+251746	NP
 251749	NP
-251753	NP
+251751	PP
 NP
-251756	NP
+NP
+NP
+NP
+NP
+251758	NP
+251766	NP
+NP
+251771	NP
+251773	NP
+251777	PP
+251779	NP
+NP
 PP
-NP
-251760	NP
-251764	NP
-251767	NP
-251770	NP
-251772	NP
+251783	PP
+251785	NP
 NP
 NP
-251776	NP
-251782	PP
-251786	NP
-NP
-251790	NP
+251789	PP
+251797	PP
 NP
 NP
-251797	NP
-251800	NP
-251802	PP
 NP
-251806	NP
-251808	NP
+251802	NP
+251806	PP
+NP
+251812	PP
 NP
 NP
-251814	NP
-251817	NP
+NP
+251818	NP
+251821	NP
+NP
+NP
+NP
 PP
-NP
-NP
-NP
-NP
-251825	PP
-NP
+251828	NP
 251830	NP
-NP
-NP
-NP
-NP
-NP
-251838	NP
-251841	NP
-251844	NP
-NP
-NP
-NP
+251836	NP
+251840	PP
 PP
 NP
+251844	NP
+251846	PP
+251854	NP
 NP
-251852	NP
 NP
-251860	NP
-251862	NP
-251870	VP
-251872	NP
+251858	PP
 NP
+251861	NP
+NP
+251864	NP
+251867	PP
+251873	PP
 PP
 251876	NP
-251879	NP
+251879	PP
 PP
-NP
-NP
-251884	PP
-NP
-NP
-251893	NP
-251897	PP
+251894	NP
+251896	NP
 251899	PP
 NP
-251902	NP
+NP
 NP
 251906	PP
+VP
+251912	PP
+NP
+NP
+251918	NP
+251921	NP
+NP
 251927	NP
 NP
-251930	NP
-251933	NP
+251932	NP
 251937	NP
-251945	PP
+251957	NP
+251960	PP
 NP
-251956	NP
-251958	PP
+251964	NP
 NP
-VP
-251966	NP
+251974	PP
+251980	PP
+251987	NP
+NP
+251990	PP
+NP
+NP
+NP
+251995	NP
+NP
+252001	PP
+NP
+NP
+NP
+252007	NP
+NP
+252012	PP
+NP
+252017	PP
+252019	PP
+NP
+252024	NP
+NP
+NP
+252029	PP
+NP
+NP
+252034	NP
+252039	PP
+NP
+252043	PP
+NP
+252047	NP
+252059	NP
+252064	PP
+NP
+252067	NP
+252070	NP
+252078	PP
+NP
+NP
+252082	NP
+252089	NP
+252092	NP
+NP
+252099	PP
+252103	NP
+NP
 PP
+252108	PP
 NP
+252115	PP
 NP
-251978	NP
-NP
-PP
-NP
-NP
-NP
-NP
-251989	NP
-251993	PP
-NP
-PP
-252006	NP
-PP
-NP
-PP
-NP
-252018	PP
-NP
-252025	NP
-252028	NP
-252030	PP
-252033	NP
-NP
-252036	NP
-NP
-252044	VP
-252054	NP
-252059	PP
-NP
-NP
-252066	NP
-252073	NP
-NP
-NP
-252080	NP
-252086	PP
-NP
-NP
-252091	NP
-252097	NP
-NP
-NP
-252102	PP
-252110	PP
-252112	NP
-252116	NP
 NP
 NP
 252120	NP
-252128	NP
+252122	PP
 NP
 NP
-252133	PP
+PP
+PP
 NP
+252131	NP
+252133	NP
+252140	PP
+252142	PP
+252148	NP
+252155	PP
 NP
-252138	PP
+252159	PP
 NP
+252191	PP
 NP
-252142	NP
+252202	NP
+252211	NP
+252219	PP
 NP
+252224	NP
 NP
+252232	PP
+252235	VP
 NP
-NP
-NP
-252152	NP
-252155	NP
-NP
-NP
-252164	NP
-252170	NP
-252177	PP
-252180	PP
-252182	PP
-NP
-252186	NP
-NP
-252189	PP
-NP
-252192	NP
-NP
-252196	NP
-252205	PP
-NP
-252213	PP
-252222	PP
-NP
-252228	NP
-NP
-NP
-252237	NP
-252240	NP
 252245	NP
 NP
-252250	NP
-252253	PP
-252255	NP
-NP
-252258	NP
-252263	PP
-252267	NP
-NP
-NP
-252278	NP
-252290	NP
-252292	PP
-252295	NP
-252298	NP
-NP
-252301	NP
-NP
-252307	NP
-252312	NP
-252314	NP
-252321	NP
-252331	PP
-252335	NP
-252340	PP
-NP
-252345	NP
-252351	NP
-NP
-NP
-252358	PP
-NP
-252363	NP
-252367	NP
-252376	NP
-252394	NP
 PP
-252398	VP
-252401	PP
-252405	NP
-252407	PP
+252252	PP
+PP
 NP
-252412	NP
-252421	NP
+252263	NP
+252265	PP
+252269	PP
+252271	NP
+252276	PP
 NP
 NP
-252428	NP
+252287	NP
+252303	PP
+PP
+NP
+NP
+NP
+NP
+NP
+252311	PP
+252315	NP
+PP
+NP
+252319	NP
+252321	NP
+NP
+252325	PP
+NP
+252331	NP
+252336	NP
+NP
+PP
+252343	NP
+252352	PP
+NP
+NP
+252363	PP
+NP
+252367	PP
+NP
+252372	NP
+252378	PP
+NP
+252388	NP
+252395	PP
+NP
+NP
+252412	PP
+NP
+NP
+PP
+NP
+252419	PP
+NP
+252422	NP
+252426	NP
+NP
 NP
 252432	NP
+252440	PP
+252442	NP
 NP
-252436	NP
-252439	PP
-PP
-NP
-252449	NP
-NP
+252447	PP
 252453	PP
-252456	NP
-252458	NP
 NP
+252464	PP
 252469	NP
-NP
-NP
 252474	NP
-252490	NP
-252494	NP
-252496	PP
-252498	NP
+252476	NP
+252481	NP
+NP
+NP
+252486	NP
+NP
+252496	NP
+NP
+252499	PP
+NP
+252504	PP
 252507	PP
+252510	NP
+252526	PP
 NP
-252512	NP
-252515	NP
-NP
-252519	PP
-NP
-VP
-252523	NP
-NP
-NP
-NP
-NP
-252529	NP
-NP
-252532	NP
 252534	PP
-252536	NP
 NP
-252540	NP
-252542	VP
-252545	NP
-NP
+252537	NP
+252544	PP
+252546	PP
 NP
 NP
-252550	NP
+252550	VP
+PP
+252554	PP
+252556	PP
 NP
 NP
-252557	NP
-252559	NP
-252561	NP
-252566	NP
-252570	NP
-252572	NP
 NP
-252576	NP
+252563	PP
 NP
-252580	NP
-252583	NP
+252573	NP
+252576	PP
+252580	PP
+252582	NP
 252585	PP
-AdvP
-252588	PP
-252591	PP
-252596	PP
-252600	NP
-252603	NP
-NP
-252607	PP
 NP
 NP
-252612	NP
-252619	PP
+252597	NP
+NP
+NP
+252601	NP
 NP
 NP
 NP
+252610	PP
+252612	PP
+PP
+252615	NP
+252622	NP
 NP
 NP
-252626	NP
+252627	PP
 NP
-NP
-NP
-NP
-NP
-252633	NP
+252630	PP
 252637	NP
-252639	NP
-252644	NP
-252648	NP
-NP
-252652	NP
-252654	NP
-NP
-252657	PP
-NP
-NP
-252661	NP
-252663	PP
+252653	NP
+252657	NP
+252660	PP
 NP
 PP
-252667	NP
-252674	NP
-252677	NP
-252679	AdjP
-NP
-252682	AdjP
-NP
-252687	NP
-NP
-252692	NP
-NP
-252698	NP
-252700	NP
-NP
-252709	PP
+252664	NP
+252666	NP
+252678	NP
+252684	PP
 NP
 NP
+252693	PP
+252695	PP
+252699	NP
+NP
+252705	PP
+252707	NP
+PP
+252713	PP
+252722	PP
+NP
+252727	NP
+NP
+252738	PP
+252740	NP
+252747	NP
+252750	NP
+252754	PP
+NP
+252763	NP
+NP
+252767	NP
+252779	NP
+252781	NP
+252789	PP
+NP
+NP
+252795	PP
+NP
+252799	NP
+252801	PP
+PP
+252804	NP
+NP
+NP
+252808	NP
+NP
+NP
+252812	PP
+252815	NP
+PP
+252823	NP
 PP
 NP
-252717	NP
 NP
-NP
-NP
-252722	NP
-252725	NP
-NP
-252731	NP
-252733	NP
-NP
-NP
-252739	NP
-252742	PP
-252744	NP
-252752	NP
-NP
-252755	NP
-NP
-252758	NP
-NP
-252770	NP
-252772	NP
-252780	NP
-252786	NP
-252788	NP
-252793	NP
-252796	PP
-252799	PP
-252802	NP
-NP
-PP
-252806	NP
-NP
-252810	PP
-NP
-NP
-NP
-252816	NP
-NP
-NP
-252821	NP
-252826	NP
 NP
 252830	NP
-252832	PP
+NP
 252834	NP
-252836	NP
-252838	NP
-NP
-252842	NP
-NP
-NP
-252849	PP
-NP
-252854	NP
-252858	PP
-NP
-252864	PP
-NP
-NP
 PP
-252870	VP
-252873	PP
+252837	PP
+252839	PP
+PP
 NP
 NP
 NP
-252880	NP
-252882	NP
+252845	NP
 NP
-252885	NP
+252848	PP
+252869	NP
 NP
+252872	NP
 NP
+252875	PP
+PP
+NP
+252883	PP
+252887	NP
 252893	PP
-NP
-252897	NP
-252899	PP
-NP
-252905	PP
-252907	PP
-NP
-NP
+252896	NP
+252900	PP
+252906	NP
 252912	NP
-252917	NP
-PP
 NP
-252928	NP
-252930	NP
+252915	NP
 NP
-252934	PP
+252925	PP
 NP
-252938	NP
-252941	NP
+AdvP
+252933	NP
+252937	PP
 NP
-252945	NP
-252949	PP
+252940	PP
 NP
-252955	NP
-252961	NP
-252966	PP
+252955	PP
+252960	NP
+252964	NP
+252966	NP
 NP
-252970	NP
-252974	NP
-252977	PP
-NP
+252969	PP
 NP
 PP
+252973	NP
+NP
+252976	NP
+252979	NP
+252981	NP
 NP
 252986	PP
-NP
 252991	NP
-NP
-NP
-252996	PP
-NP
-253005	NP
-253008	PP
-253013	PP
-NP
-253018	PP
-NP
-253027	PP
-NP
-253031	NP
-NP
+253000	NP
+253006	PP
 PP
-253036	PP
+253009	NP
+253018	PP
+253022	NP
+PP
 NP
-253040	PP
+253028	PP
+253030	NP
+253033	NP
+253039	NP
+253041	PP
 NP
 253044	NP
 NP
 NP
+253048	PP
+NP
 253058	NP
+253061	PP
 NP
-253069	PP
+253064	NP
+253067	NP
+253077	PP
+253087	PP
 NP
-253073	NP
-253093	NP
-253132	PP
-NP
-253136	PP
-NP
-NP
-253143	PP
-NP
-NP
-253147	NP
-253149	NP
-253151	NP
-253153	NP
-253155	NP
-253158	NP
-253166	NP
+253096	NP
+253098	PP
+253105	NP
+253109	NP
+253112	PP
 NP
 NP
 NP
+NP
+253118	PP
+NP
+253123	PP
+NP
+NP
+253129	PP
+253135	AdvP
+253139	PP
+253141	NP
+253143	NP
+NP
+PP
+253148	AdvP
+253151	PP
+NP
+NP
+253155	VP
+253159	NP
+NP
+253162	NP
+NP
+253168	NP
 253171	NP
-253175	NP
-PP
+253173	PP
 NP
+253176	NP
+253183	NP
 NP
-NP
-253181	NP
-253184	PP
-NP
-253196	NP
-253198	NP
-253202	NP
-253204	NP
-253208	NP
-253215	NP
+253199	PP
+253205	NP
+253210	NP
+253212	NP
+253223	NP
 253227	NP
-NP
-253230	NP
-253237	NP
-PP
-NP
-253244	PP
-253251	NP
-NP
-253254	NP
-253262	PP
-NP
-NP
-NP
-NP
-NP
-253270	NP
+253231	PP
 NP
 PP
 NP
-NP
-NP
-253278	NP
-NP
-PP
-NP
-NP
-AdvP
-253286	PP
-NP
-253291	NP
-NP
-253295	PP
-253297	NP
-NP
-253302	PP
-NP
-253310	NP
-253312	NP
-NP
-253317	NP
-NP
-253321	NP
-NP
-253325	PP
-NP
-NP
-253338	NP
-NP
-253341	NP
-NP
-253345	NP
-253355	NP
-NP
-253359	NP
-253361	NP
-PP
-NP
-253366	VP
-PP
-NP
-NP
-253378	NP
-NP
-NP
-NP
-253387	PP
-NP
-NP
-PP
-253395	NP
-PP
-NP
-NP
-NP
-253409	NP
-PP
-NP
-NP
-253414	NP
-NP
-253417	NP
-NP
-PP
-NP
-NP
-253429	NP
-PP
-253434	PP
-NP
-253437	PP
-NP
-NP
-253448	PP
-NP
-253453	NP
-253463	NP
-253473	PP
-NP
-NP
-NP
-NP
-NP
-253488	PP
-NP
-NP
-NP
-253494	NP
-NP
-253498	NP
-NP
-NP
-253505	NP
-253507	NP
-253515	PP
-NP
-NP
-253519	NP
-NP
-253525	PP
-NP
-253528	PP
-PP
-NP
-253532	NP
-NP
-NP
-253538	PP
-NP
-253550	NP
-253552	PP
-NP
-253560	NP
-PP
-NP
-AdjP
-NP
-NP
-253571	NP
-253574	NP
-253577	NP
-253579	NP
-253587	NP
-253593	NP
-253598	NP
-253604	NP
-253606	PP
-253611	NP
-NP
-NP
-253616	AdjP
-253630	NP
-NP
-253636	NP
-253652	NP
-NP
-253656	NP
-NP
-253661	NP
-253665	NP
-253685	NP
-NP
-253704	NP
-NP
-253719	NP
-253721	NP
-253730	NP
-253732	NP
-253735	NP
-253740	PP
-NP
-PP
-NP
-NP
-253755	NP
-253757	NP
-253765	NP
-253773	PP
-253779	NP
-NP
-PP
-NP
-NP
-NP
-253790	NP
-253802	PP
-253805	NP
-253807	PP
-253815	NP
-NP
-253820	NP
-NP
-253824	NP
-253828	PP
-253830	NP
-253832	NP
-253834	NP
-NP
-253838	NP
-NP
-253841	PP
-NP
-NP
-253846	NP
-253849	PP
-NP
-253852	NP
-PP
-NP
-253863	PP
-253866	PP
-NP
-PP
-NP
-253874	NP
-PP
-NP
-NP
-NP
-253883	PP
-253888	NP
-NP
-NP
-253901	PP
-NP
-253904	PP
-PP
-NP
-NP
-253917	PP
-NP
-NP
-253921	NP
-NP
-253924	PP
-253931	NP
-253933	PP
-NP
-NP
-253940	NP
-NP
-PP
-253945	NP
-PP
-253949	PP
-NP
-NP
-253954	PP
-NP
-NP
-253967	PP
-NP
-NP
-253972	VP
-PP
-NP
-253978	NP
-253981	PP
-NP
-253991	PP
-NP
-NP
-NP
-253996	PP
-PP
-NP
-254001	NP
-254005	PP
-NP
-254009	PP
-PP
-254015	PP
-NP
-254022	PP
-NP
-254026	VP
-NP
-254034	NP
-254036	NP
-254038	NP
 NP
 VP
-254042	NP
+NP
 PP
-254045	NP
 NP
 NP
-254049	PP
+253245	PP
+PP
+NP
+253252	NP
+NP
+253255	NP
+NP
+253258	PP
+NP
+253263	PP
+253272	PP
+NP
+253275	PP
+253280	PP
+253288	NP
+PP
+NP
+253293	NP
+253296	PP
+NP
+253301	NP
+253303	PP
+253309	NP
+253311	PP
+NP
+253321	NP
+253325	NP
+NP
+253329	PP
+253334	NP
+253338	NP
+253341	PP
 NP
 NP
+253345	PP
+NP
+PP
+NP
+253356	NP
+PP
+253361	NP
+253363	NP
+253371	NP
+253373	PP
+NP
+253376	NP
+253378	PP
+253381	NP
+253386	PP
+253388	NP
+NP
+NP
+253396	PP
+253399	NP
+253401	PP
+NP
+NP
+253410	NP
+NP
+253417	PP
+NP
+253423	PP
+253426	PP
+253432	NP
+253438	NP
+NP
+253441	PP
+NP
+NP
+253448	NP
+NP
+253451	NP
+253453	PP
+NP
+NP
+NP
+253458	PP
+253461	NP
+NP
+NP
+253465	NP
+NP
+NP
+PP
+NP
+253471	NP
+253475	NP
+NP
+PP
+253480	NP
+253482	PP
+PP
+NP
+NP
+NP
+NP
+NP
+253498	NP
+253502	NP
+253510	NP
+NP
+NP
+253515	NP
+253519	PP
+NP
+NP
+253528	NP
+253532	NP
+253535	NP
+253537	PP
+NP
+253540	NP
+NP
+253543	NP
+NP
+NP
+253551	PP
+253553	PP
+NP
+PP
+253560	PP
+NP
+253576	VP
+PP
+253582	PP
+253585	NP
+253587	NP
+NP
+253590	PP
+NP
+253594	PP
+PP
+253601	NP
+NP
+NP
+253605	NP
+253607	NP
+253609	NP
+NP
+NP
+253632	PP
+NP
+NP
+253637	PP
+253639	PP
+NP
+253642	NP
+253651	PP
+253656	PP
+NP
+253661	NP
+253663	PP
+NP
+253666	PP
+253669	PP
+PP
+253673	NP
+253682	PP
+NP
+NP
+NP
+NP
+253689	PP
+NP
+NP
+NP
+253699	NP
+PP
+NP
+NP
+253708	PP
+253718	PP
+PP
+253723	NP
+NP
+NP
+PP
+253732	NP
+NP
+NP
+PP
+253737	PP
+PP
+PP
+253742	NP
+NP
+NP
+253755	PP
+NP
+253761	NP
+NP
+253765	NP
+NP
+253768	PP
+253770	NP
+253777	NP
+253785	NP
+253788	NP
+NP
+NP
+NP
+NP
+PP
+253797	PP
+253799	NP
+253801	PP
+253803	PP
+253809	NP
+253816	NP
+PP
+253823	PP
+253825	PP
+PP
+NP
+253830	NP
+253834	NP
+PP
+253837	NP
+253841	PP
+NP
+253846	NP
+NP
+PP
+NP
+NP
+253852	NP
+253854	PP
+PP
+253859	PP
+253866	NP
+NP
+NP
+253873	NP
+NP
+NP
+253877	NP
+253880	NP
+253883	AdjP
+253885	NP
+253889	NP
+NP
+253894	PP
+253900	PP
+253905	NP
+NP
+253908	PP
+NP
+253912	NP
+253916	PP
+NP
+253919	PP
+NP
+253922	NP
+253924	PP
+253926	PP
+253929	NP
+NP
+PP
+253935	PP
+NP
+NP
+253940	PP
+NP
+NP
+253945	PP
+NP
+253952	NP
+PP
+253955	NP
+NP
+253958	PP
+NP
+253964	PP
+NP
+PP
+NP
+253970	PP
+NP
+253973	NP
+253976	NP
+NP
+253979	NP
+NP
+PP
+NP
+253986	NP
+NP
+253995	NP
+253998	NP
+254001	NP
+NP
+254007	PP
+254009	NP
+NP
+254014	PP
+NP
+254018	NP
+254020	NP
+254024	PP
+NP
+254028	VP
+254030	PP
+NP
+PP
+NP
+PP
+254041	NP
+254043	NP
+NP
+VP
+NP
+PP
+NP
+254050	NP
 254053	PP
 NP
+254056	NP
+254059	NP
+254064	PP
 NP
-254058	PP
+254068	NP
 NP
 NP
-254064	NP
-NP
-PP
-NP
-PP
-254073	NP
-254076	NP
-NP
+254075	PP
+254078	NP
 NP
 PP
 NP
+254084	NP
 PP
-254087	VP
+254090	NP
+NP
+254100	NP
+NP
+254116	PP
+NP
+254126	NP
+254130	PP
+254133	NP
+NP
+NP
+254137	PP
+NP
+254146	NP
+254150	NP
 PP
-254091	NP
-NP
-NP
-NP
-254100	PP
-NP
-NP
-254110	NP
-NP
-NP
-254116	NP
-254121	NP
-NP
-NP
-NP
-NP
-254128	NP
-254131	PP
-NP
-254134	NP
-NP
-254141	PP
-254143	NP
-NP
-254149	NP
-NP
-254153	PP
-NP
-254157	PP
-NP
-254160	PP
-NP
-NP
+254153	NP
 PP
-NP
-254167	PP
-NP
+254163	NP
 NP
 NP
-PP
+254169	PP
+254171	NP
 254173	NP
-254186	NP
-254190	PP
-NP
-NP
-254195	NP
 NP
 NP
 NP
-254200	PP
-254204	PP
 NP
 NP
+254182	PP
 NP
-254214	NP
+254185	NP
+254187	NP
+NP
+NP
+254194	VP
+254202	NP
+NP
+NP
+254206	NP
+254213	NP
+NP
+NP
 PP
-254218	PP
 NP
-NP
-254222	PP
-254224	NP
-NP
+254220	NP
+254225	NP
+PP
 NP
 254230	PP
+254241	NP
+254244	NP
+254259	NP
+254264	NP
+254267	PP
 NP
-254235	PP
+254274	NP
+254279	PP
 NP
-254240	NP
-254243	NP
-NP
-254246	VP
-254256	PP
-NP
-NP
-254262	NP
-254266	NP
-254268	NP
-254272	VP
-254274	PP
-NP
-NP
+254285	NP
+AdjP
 PP
 NP
-NP
-PP
-NP
-254284	NP
-NP
-254287	NP
-254292	NP
-NP
-NP
+254291	NP
 254303	NP
-254312	NP
-NP
+254309	PP
 NP
 PP
-254321	NP
+254313	VP
+254321	PP
 254325	NP
-254329	NP
-NP
-NP
-NP
-PP
-254335	NP
-NP
-254344	NP
-NP
-NP
-NP
-NP
-254354	NP
-PP
-254367	VP
-254370	NP
 PP
 NP
+NP
+NP
+254332	PP
+254334	NP
+NP
+PP
+NP
+NP
+254340	NP
+254342	NP
+254344	PP
+NP
+254347	PP
+NP
+254352	NP
+254361	NP
+PP
+254366	NP
+NP
+254372	NP
 254374	NP
 NP
-254380	NP
-254382	NP
-254391	NP
+254382	PP
+254384	NP
+254391	PP
+PP
+NP
 NP
 254401	NP
+254409	NP
+254413	NP
+254415	NP
+254422	NP
+254426	NP
 NP
-NP
-254408	PP
-NP
-254412	PP
-NP
-NP
-254416	NP
-254418	PP
-NP
-NP
-PP
-NP
-254425	NP
-NP
-254428	NP
 NP
 254431	NP
+254434	PP
 NP
-254436	NP
-NP
-254440	PP
-254442	PP
+254447	NP
+254456	PP
 NP
 NP
-254446	PP
+254460	PP
+254464	PP
+254467	PP
+254469	NP
 NP
 NP
 PP
 NP
 NP
-254453	PP
 NP
-NP
-254461	PP
-NP
-254466	PP
-NP
-254471	NP
-254473	NP
-254475	PP
-254477	NP
-PP
-254480	NP
-NP
-NP
-254486	NP
-254489	NP
-NP
-254495	NP
-NP
-254498	NP
-NP
-254501	PP
+254478	NP
+254482	NP
 NP
 PP
-254508	PP
+254490	NP
 NP
-PP
+254497	PP
+254500	NP
+254502	NP
+254509	NP
 NP
-254515	NP
-AdjP
 NP
-NP
+254517	NP
 254521	NP
 NP
+254525	NP
 PP
 NP
-254528	NP
-254531	NP
+254530	NP
+NP
+254533	NP
+254535	PP
+254539	NP
+254541	NP
+254543	NP
 NP
 NP
-254540	PP
-254544	PP
-254546	NP
-PP
-PP
-254550	PP
 NP
-254556	PP
+254551	NP
+NP
+NP
+NP
 254558	NP
+PP
+254565	NP
+PP
+254571	PP
+254580	NP
+254584	PP
 NP
-254562	NP
-NP
-254566	NP
 NP
 NP
-254570	PP
-254574	NP
+254590	PP
+NP
 NP
 PP
-254579	NP
-NP
-254585	NP
-254589	PP
+254595	PP
 NP
 NP
-254596	PP
+254601	PP
+254603	PP
+254608	PP
+NP
+254611	PP
+NP
+NP
+254616	PP
+NP
+NP
+NP
+NP
+254622	PP
+254624	NP
+NP
+254627	NP
+254629	NP
+254631	NP
 PP
-PP
-NP
-254604	NP
-NP
-254607	PP
-PP
-NP
-NP
-254620	NP
-PP
-NP
-NP
-NP
-254626	PP
-NP
-NP
-254631	PP
-NP
-NP
-NP
-254638	PP
 254640	NP
-NP
-254644	NP
-NP
-254647	NP
-254649	NP
-254652	NP
-NP
-254655	NP
-254657	NP
-254659	NP
+254642	PP
 NP
 NP
+PP
 NP
-254664	PP
+254654	NP
+254662	NP
+254666	NP
 NP
-254675	PP
+254669	NP
 NP
-254682	NP
+254672	NP
 NP
-254685	PP
-NP
-254689	NP
-NP
-NP
-NP
-NP
-254697	NP
-NP
-254703	NP
+254678	NP
+254680	PP
 NP
 NP
-254712	NP
+PP
+NP
+254686	PP
+NP
+254690	PP
+254692	NP
+NP
+254696	PP
+NP
+254700	NP
+NP
+PP
+NP
+254705	NP
+NP
+NP
+NP
+254712	PP
 254715	PP
 NP
-254718	NP
-NP
-254726	PP
-254730	NP
-PP
+254724	NP
+254727	NP
 NP
 NP
 PP
 NP
 NP
-NP
-254740	NP
-NP
-NP
-NP
-254747	NP
+254738	NP
+254740	PP
 254749	NP
 NP
-254752	NP
 NP
 PP
+NP
+NP
 254757	NP
 NP
 NP
-NP
-254768	PP
-NP
+PP
 NP
 NP
 NP
-254776	NP
-NP
-254781	PP
-NP
-NP
-NP
-AdjP
-VP
-254788	NP
-NP
-NP
-254792	NP
+PP
+254766	NP
+254770	PP
 NP
 NP
 NP
-254797	NP
+NP
+NP
+NP
+NP
+254783	NP
+254795	PP
 254800	NP
-254802	NP
-254805	PP
 NP
-254808	NP
-254811	PP
 NP
-254817	NP
-254819	NP
-254829	PP
-254833	PP
+254809	NP
 NP
-254837	PP
-254841	PP
-254843	NP
+254812	NP
+NP
+PP
+254816	NP
+254818	NP
+NP
+NP
+NP
+254827	PP
+254829	NP
+NP
+254836	NP
+NP
+NP
+PP
+NP
 254845	NP
-254849	PP
 NP
-NP
-NP
-254856	PP
+254856	NP
 PP
+254860	PP
 NP
-254862	PP
+254863	PP
 NP
-PP
+254868	PP
+254871	PP
 NP
-NP
-NP
-NP
-254870	NP
-NP
-254873	PP
-NP
-NP
-254880	PP
-PP
-NP
-NP
-NP
-254889	PP
-254891	PP
-NP
-254898	PP
-NP
-254906	PP
-PP
-NP
-254911	PP
-254918	PP
-254933	PP
-NP
-NP
-NP
-254941	NP
-NP
-254948	NP
-NP
-254951	NP
-254959	PP
-PP
-NP
-254967	NP
-254970	NP
-NP
-254976	NP
-254983	PP
-NP
-254986	PP
-NP
-NP
-NP
-NP
-254994	PP
-255000	NP
-255002	NP
-255004	NP
+254877	PP
 NP
 PP
+254883	NP
 PP
 NP
-255014	NP
-255016	PP
+254890	NP
 NP
-255022	PP
-255028	NP
-255033	NP
+PP
 NP
-255037	NP
+254898	NP
+254900	NP
+NP
+254905	PP
+PP
 NP
 NP
+254910	NP
+254912	NP
+254923	PP
+254927	PP
+254934	NP
 NP
-255042	NP
 NP
-255049	PP
+254938	PP
+PP
+254943	NP
+NP
+254952	NP
+254954	NP
+NP
+NP
+254960	PP
+NP
+NP
+254968	NP
+254982	PP
+254984	NP
+254987	PP
+254992	PP
+NP
+254995	PP
+NP
+255005	PP
+NP
+255010	NP
+255019	PP
+NP
+NP
+255024	AdvP
+255035	PP
+NP
+NP
+255040	NP
+NP
+255045	NP
+255047	NP
+255049	NP
+255051	NP
 NP
 255056	NP
-255063	NP
+255058	NP
 255065	NP
 NP
-255069	NP
-255071	PP
-255077	PP
 NP
 NP
+255070	NP
+255072	NP
 NP
 NP
-255085	NP
-NP
-255088	NP
-NP
-PP
-255093	NP
-NP
-PP
-NP
-255103	PP
-255106	NP
+255077	NP
 NP
 NP
+255083	NP
 NP
-255113	PP
+255089	PP
+255095	NP
+255097	NP
+255104	NP
 NP
 NP
+255114	AdjP
+255117	NP
 NP
-255118	NP
+255121	PP
 NP
-255124	PP
-255126	NP
+255127	NP
+255130	PP
 NP
-255130	NP
+255134	PP
 PP
 NP
 NP
-255136	NP
+255142	NP
+255146	NP
 NP
-255144	PP
 NP
-NP
-255149	NP
+255152	VP
 PP
 NP
-NP
+255157	NP
 NP
 NP
 PP
+NP
 NP
 255164	NP
-PP
+255168	NP
+NP
+255171	NP
+NP
+255174	NP
 NP
 NP
-255172	PP
+255181	PP
 NP
-255176	PP
-255179	NP
-255183	NP
-NP
-255186	PP
+255188	PP
 NP
 NP
-NP
-255191	NP
-NP
-PP
 255195	NP
-255200	NP
-NP
-255204	NP
 NP
 NP
-255208	NP
-255210	NP
-255212	PP
+PP
+255200	PP
 NP
+255206	NP
+255209	PP
+PP
 NP
-255216	PP
-255218	PP
-NP
-NP
-255222	NP
+255214	PP
 NP
 NP
 NP
-255229	NP
+255223	NP
+255227	NP
+NP
+255230	NP
+255234	NP
 NP
 NP
-255236	PP
-255239	PP
+PP
 NP
-NP
+255240	NP
 255245	PP
-NP
-255249	NP
-255251	NP
-NP
-NP
-255255	NP
-255257	PP
-255260	NP
-255263	PP
+255247	NP
+255249	PP
 NP
 NP
 NP
-PP
-255271	NP
-255274	PP
-PP
-AdvP
-255281	NP
-255284	NP
-255288	NP
 NP
-PP
+255258	PP
 NP
-255294	PP
 NP
-255297	NP
+255264	NP
 NP
-255300	NP
-255302	NP
-PP
-255305	NP
-255312	PP
+NP
+255272	PP
+NP
+255276	PP
+NP
+255282	NP
+NP
+NP
+255288	PP
+NP
+NP
+255297	PP
+255299	NP
+255301	NP
+NP
+255306	NP
+255308	VP
+255310	NP
+255313	PP
 NP
 255317	PP
 NP
-255320	PP
 NP
-255323	PP
-NP
-255331	NP
-255333	PP
-255335	NP
-NP
-255342	PP
+255325	NP
+255338	NP
+255340	PP
 NP
 NP
-PP
-255350	NP
-255352	NP
+255349	NP
+255356	NP
 NP
+255360	NP
+255364	PP
+255369	NP
+255372	NP
+255378	NP
+255380	NP
 NP
-255356	PP
+255383	NP
+255385	NP
+255387	PP
 NP
-NP
-NP
-255364	NP
-255366	PP
-PP
-255370	PP
-255374	NP
-255376	PP
-NP
-255379	PP
-NP
-255384	PP
-NP
-NP
-255389	NP
 255391	PP
 NP
 255394	PP
-PP
+NP
 255401	NP
+255405	NP
+NP
+255408	PP
+NP
+255418	NP
+NP
+AdjP
+255424	PP
 NP
 NP
-255408	NP
-255417	PP
-NP
-255420	NP
-255423	PP
-255432	PP
-NP
-255436	PP
+255428	PP
+255431	NP
+255436	NP
+255438	NP
 255440	NP
+255442	NP
 NP
-255445	NP
-255447	PP
-NP
-255459	PP
-255461	PP
-NP
-255467	PP
+PP
+255446	PP
 NP
 NP
+255451	NP
 NP
-255478	PP
+255454	NP
 NP
+255469	NP
+255473	NP
 NP
-NP
-NP
+255480	NP
 255487	PP
-255491	PP
-NP
+255494	NP
 255497	NP
-255517	PP
+255499	PP
 NP
+255507	NP
+255511	PP
+NP
+255514	AdvP
+255516	PP
+NP
+PP
 255522	NP
-PP
-255525	NP
-255528	AdjP
 NP
-PP
-255532	NP
+255529	PP
+NP
+255532	PP
+255534	PP
+255537	NP
+NP
+NP
+255543	NP
+255546	PP
+NP
+255551	PP
 NP
 NP
 NP
-255539	PP
-NP
-255544	PP
-NP
-255547	NP
-255555	PP
-NP
-255562	NP
+255558	PP
+255561	PP
 255564	NP
-255566	NP
-255568	NP
+255566	PP
+255571	NP
+255573	PP
 NP
-PP
+255577	PP
 NP
+255580	PP
+255583	PP
+255586	VP
 NP
-PP
-NP
-NP
-NP
-255578	PP
-255587	NP
-NP
-NP
-255591	NP
-255593	PP
-NP
-PP
-NP
-255598	PP
-NP
-NP
-255603	PP
-PP
 NP
 NP
 PP
 NP
+255600	NP
+255604	NP
+PP
+255609	NP
 NP
+255613	NP
+AdjP
+PP
 NP
-255615	PP
-255617	NP
-255620	NP
+255620	PP
 NP
 255623	NP
-255628	AdvP
-255631	PP
+255630	NP
 NP
-NP
-255636	NP
+255637	NP
+255640	AdjP
+255642	NP
+255644	NP
+PP
+255651	NP
 NP
 PP
-NP
-255641	NP
-NP
 PP
 NP
-255647	PP
-255651	PP
-NP
-NP
-NP
-NP
-NP
-255661	NP
-PP
-VP
-255667	NP
-NP
-255671	NP
-NP
-NP
+255658	PP
 PP
 NP
 NP
-255678	NP
-255685	NP
+255666	PP
+NP
+255669	NP
+255674	NP
+NP
+NP
+255679	NP
+NP
+NP
+255685	PP
+255687	PP
+255689	NP
+255691	NP
+255693	NP
 255697	NP
-255699	NP
+255699	PP
+255703	NP
+NP
+PP
 NP
 NP
 NP
+255718	NP
 NP
-NP
-NP
-255708	PP
-NP
-255712	NP
-255714	PP
-255717	NP
-255722	NP
-NP
+255723	NP
+255725	NP
 255727	PP
 NP
 NP
 NP
-255742	PP
+255736	PP
+255744	PP
 NP
-255745	VP
-NP
+PP
+255748	NP
+255750	PP
 NP
 NP
 255754	NP
-255757	PP
 NP
 NP
 NP
+255763	NP
+255767	NP
 NP
 NP
-255766	PP
+255771	NP
+255775	PP
+255779	NP
+255781	NP
 NP
-NP
-255773	PP
-NP
-255776	NP
-NP
-255780	NP
-PP
-NP
-NP
-NP
-255788	NP
+255787	NP
 255790	PP
-255792	NP
+NP
 NP
 NP
 255797	NP
 NP
-NP
-255802	PP
-NP
+255803	PP
 NP
 NP
-255811	PP
+255807	NP
+255810	PP
 NP
-NP
-255818	PP
-NP
-NP
-NP
+255816	NP
 NP
 255826	NP
-255829	NP
+255829	PP
 NP
-NP
-255836	NP
 PP
-NP
-255842	NP
-255850	NP
-NP
-NP
+PP
+255849	NP
+255852	PP
 255854	NP
 NP
-255862	PP
-255867	NP
+255859	NP
+NP
+NP
+255867	PP
 255874	NP
-255876	PP
-255882	NP
 NP
-255885	NP
+255878	NP
+255886	NP
 NP
-255888	NP
+NP
+NP
+NP
+NP
+NP
+255894	PP
+255896	NP
+NP
+PP
+255900	NP
+255902	NP
+255904	PP
+255910	NP
 NP
 PP
 NP
-255898	PP
+255915	PP
+NP
+255922	NP
 NP
 NP
-255905	NP
-255912	PP
+255926	NP
+255929	NP
+255932	PP
 NP
+PP
+255938	PP
 NP
-255917	NP
+PP
+NP
+255946	NP
+255948	NP
 PP
 NP
 NP
-255922	PP
-NP
-255926	PP
-255928	NP
-NP
-NP
-255932	NP
-255934	PP
-NP
-255940	PP
-NP
-NP
-NP
-NP
-255952	NP
-255957	NP
-NP
-255963	PP
+255954	PP
+255956	PP
 PP
 NP
 255967	NP
-255970	PP
-255976	NP
-255978	NP
+255969	PP
+NP
+255972	PP
+NP
+255977	NP
+255979	NP
 255981	NP
 NP
-NP
-NP
-NP
-NP
-255990	PP
-NP
-NP
-255996	NP
-255998	NP
-NP
-PP
-256002	NP
-NP
-256008	NP
 PP
 NP
-256014	PP
+255988	NP
+PP
+255995	NP
+PP
+256001	NP
 NP
+256013	PP
+PP
+256017	NP
 NP
-256018	PP
-256020	NP
-NP
-NP
-256031	PP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-256042	PP
+256021	NP
+256023	NP
 NP
 PP
+NP
+NP
+256029	NP
+NP
+256037	NP
+256039	NP
+PP
+256042	NP
+256046	NP
+NP
 NP
 256050	NP
-256052	NP
-PP
-256055	NP
-256057	NP
-NP
-NP
-NP
-NP
-256064	PP
-NP
-256068	NP
-256070	NP
-256075	PP
-NP
-256082	NP
-256085	PP
-NP
-256088	NP
-256090	PP
-NP
-256100	NP
-NP
-NP
-256104	NP
-NP
-256107	NP
-256109	PP
-256120	NP
-256123	PP
-NP
-VP
-PP
-NP
-256130	NP
-256133	NP
-PP
-NP
-256139	PP
-256142	NP
-256149	PP
-NP
-256154	NP
-256161	PP
-NP
-NP
-256167	NP
-NP
-NP
-256173	PP
-NP
-NP
-NP
-NP
-256181	NP
-256189	NP
-NP
-NP
-NP
-256198	PP
-256200	NP
-256203	NP
-NP
-256207	NP
-256209	NP
-256213	NP
-NP
-NP
-256217	NP
-NP
-NP
-256222	NP
-256235	NP
-PP
-NP
-NP
-256241	NP
 AdjP
+256054	PP
+256056	NP
+NP
+256063	PP
+256074	PP
+256077	NP
+256079	NP
+256083	PP
+NP
+256089	NP
+256092	PP
+NP
+256095	NP
+256102	PP
+PP
+NP
+PP
+256112	PP
+256115	PP
 NP
 NP
-256248	NP
-256252	PP
-256257	PP
 NP
 NP
+NP
+PP
+256123	NP
+256125	PP
+256129	NP
+PP
+256132	NP
+PP
+256135	NP
+NP
+NP
+256144	NP
+256146	NP
+256153	PP
+PP
+256159	PP
+NP
+256171	PP
+NP
+256175	NP
+256177	PP
+256185	NP
+NP
+NP
+PP
+NP
+256193	NP
+256196	NP
+256201	PP
+256203	PP
+256208	NP
+NP
+256214	NP
+256216	NP
+NP
+256222	PP
+NP
+NP
+PP
+256231	NP
+PP
+256238	PP
+256240	NP
+256242	PP
+NP
+NP
+256250	NP
+NP
+256257	NP
+256262	NP
 256264	PP
 256266	NP
-NP
-256276	NP
-NP
-AdjP
-256282	NP
-256289	PP
+256269	NP
 PP
+256272	NP
+256276	NP
+256279	NP
+PP
+256283	NP
+256286	NP
+256288	PP
+NP
+NP
 256292	NP
 PP
 NP
+256298	PP
 NP
+256301	PP
 NP
-256300	PP
-256304	NP
-256310	AdvP
+256308	NP
+NP
+256312	NP
 256314	PP
+256317	PP
 NP
-NP
-256323	PP
-NP
-NP
-256327	NP
-NP
-256332	PP
-256340	NP
-256347	NP
+256321	NP
+VP
+256330	PP
+256336	NP
+256341	PP
+256346	NP
 256352	PP
+256354	PP
+256358	PP
+NP
+256361	PP
+256366	NP
 NP
 NP
 NP
-256362	PP
-NP
-NP
-256367	PP
-NP
-256370	NP
+VP
 256372	PP
 NP
-256375	PP
-256381	NP
-256383	PP
-256385	NP
-NP
-256388	NP
-256390	NP
-NP
-PP
-NP
-256396	PP
 NP
 NP
+256377	NP
+256379	NP
 NP
-NP
-NP
-256404	NP
-NP
-NP
-NP
-256414	NP
-NP
-NP
-256422	NP
-NP
-NP
+256382	PP
 NP
 PP
-256428	AdjP
-256432	PP
+256393	NP
+NP
+256399	NP
+NP
+256403	NP
+NP
+256406	NP
+256408	NP
+NP
+256411	NP
+256414	PP
+256421	NP
+NP
+256430	NP
+256433	PP
 NP
 NP
-256437	NP
-256439	NP
+256444	PP
 NP
 NP
-256445	NP
-PP
 NP
+256453	NP
+256455	NP
 NP
-256451	NP
-AdjP
-256454	NP
-256463	PP
+256461	NP
+256465	NP
+NP
 NP
 256469	NP
-256471	NP
 NP
-NP
-256477	NP
-NP
-NP
-PP
-256482	NP
-256484	NP
+256475	NP
+256479	PP
 NP
 256487	NP
-256490	AdjP
-256493	NP
+256491	PP
+NP
 256495	PP
+256498	NP
 NP
-256499	NP
+256503	NP
+NP
+256507	NP
+NP
+NP
+NP
+256513	NP
+256515	NP
+256517	PP
 NP
 PP
 NP
-256508	NP
-PP
-256512	NP
-256517	NP
-256519	NP
 256524	NP
+256527	NP
+NP
 256530	NP
+NP
+256548	NP
 PP
-256533	NP
-256536	NP
-256538	NP
-256540	NP
-256547	PP
-NP
-256551	NP
-NP
+256552	NP
 256554	NP
 NP
-256560	PP
-NP
-NP
-NP
+256558	NP
+256563	PP
 256565	NP
-256571	NP
+256570	NP
+256574	PP
 NP
-256574	NP
 NP
 256578	NP
-256585	PP
 NP
-256588	PP
+256581	PP
 NP
+256584	PP
+256586	NP
 256591	NP
-NP
-256594	NP
-256597	NP
-256607	NP
-NP
-NP
-256611	NP
-NP
-256614	PP
-NP
-256620	PP
-256623	PP
-256625	PP
+256595	NP
+256599	NP
+256603	NP
 NP
 NP
-256629	NP
+256610	NP
 NP
-256633	PP
+256613	NP
 NP
-256640	PP
+256620	NP
+256624	NP
 NP
-256643	PP
-256645	PP
-256647	NP
 NP
-256651	PP
+256628	NP
+256634	NP
+256638	NP
+256641	NP
+256659	NP
+256678	PP
+256680	NP
+256685	NP
+NP
+256690	NP
 NP
 NP
 PP
-256663	PP
-256665	NP
-256670	PP
-256673	NP
 NP
 NP
 PP
-256684	NP
-256687	NP
-NP
-256690	PP
-NP
-256695	NP
-256697	NP
-256702	NP
-256705	PP
-256710	PP
 NP
 NP
-256716	NP
-256720	NP
-256724	NP
+256703	PP
 NP
+NP
+NP
+NP
+256709	PP
+NP
+256715	NP
+NP
+256721	PP
 NP
 256729	NP
-256732	NP
-NP
 256735	NP
-256737	NP
-256739	PP
-256742	NP
+NP
+256739	NP
+NP
+256743	NP
+NP
+NP
 PP
-256747	PP
 NP
-NP
-NP
-256755	PP
+256750	NP
+256757	PP
 NP
 256761	PP
-256763	NP
+256768	NP
+256771	PP
+256787	NP
 NP
 NP
-256769	PP
 NP
+256807	PP
 NP
-256774	NP
-256779	NP
+256812	PP
 NP
-256786	PP
-256788	NP
+256815	PP
 NP
-256792	PP
+256821	NP
+256827	NP
+256829	NP
+256831	PP
+256835	NP
 NP
-256796	NP
+256838	PP
+256841	NP
+256843	PP
+256845	PP
 NP
-256801	NP
+256849	PP
 NP
-NP
-256808	NP
-NP
-256811	NP
-NP
-PP
-NP
-256818	PP
-256822	NP
-NP
-256826	PP
-256829	PP
-NP
-256834	NP
-PP
-NP
-NP
-PP
-256842	NP
-NP
-NP
-256847	NP
-NP
-NP
-256851	PP
-PP
 256855	NP
+256860	PP
+256867	NP
+NP
+256876	NP
 PP
-256860	NP
-256863	NP
-NP
-256866	NP
-256868	NP
-NP
-256871	PP
-256874	PP
-NP
-256881	NP
+256882	NP
 256884	NP
+256886	NP
+NP
+256889	NP
+256891	NP
+NP
+NP
+256895	NP
+AdjP
+256901	NP
+256905	NP
+NP
+NP
+NP
+256912	NP
+256915	NP
+NP
+256920	PP
+NP
+256929	NP
+PP
+NP
+256934	NP
+256944	NP
 PP
 NP
 NP
-NP
-256894	NP
-NP
-256900	PP
-256904	NP
-NP
-256909	PP
-NP
-256916	NP
-256918	PP
-NP
-NP
-256922	NP
-NP
-NP
-NP
-256936	NP
-256940	NP
-256942	NP
+256949	NP
+256957	NP
+256959	NP
+256964	NP
 PP
-NP
-256952	NP
-256954	NP
-256962	PP
-256968	PP
-256974	NP
+256967	NP
+256969	NP
+256972	NP
+256975	PP
+256978	NP
 256981	NP
-256983	PP
-256988	NP
-256991	NP
-256995	PP
-NP
-NP
-257001	PP
-NP
-257005	NP
-257008	NP
-257011	PP
+PP
+256985	PP
 NP
 NP
 NP
-257016	PP
+256994	NP
+PP
+256998	NP
+PP
+NP
+NP
+PP
+257004	NP
+257009	NP
+257012	PP
+257015	NP
+257017	NP
 NP
 NP
 NP
-257023	NP
-257029	NP
-257031	NP
+257022	AdjP
+257027	NP
+NP
+PP
+NP
+257032	PP
+PP
+NP
+257036	PP
 NP
 NP
 NP
 NP
-NP
+257045	NP
 257049	NP
 257051	NP
+257053	PP
+PP
 NP
-NP
-NP
-NP
-257057	PP
 257059	NP
-257063	NP
-NP
-NP
-NP
+257062	NP
+257067	NP
+257069	PP
+257072	NP
+PP
+257075	NP
+257077	NP
+AdjP
+257080	PP
+257083	PP
+257085	NP
+257088	NP
+257091	NP
 NP
 PP
-257070	NP
+257097	NP
+257103	PP
 NP
-257082	PP
-NP
-NP
-257093	NP
-257097	PP
-NP
-257101	PP
-NP
-257108	PP
+257106	NP
 257110	PP
 NP
-257113	PP
-NP
-NP
-257118	NP
-257120	NP
-NP
-257125	NP
-PP
-NP
-NP
-257134	PP
-NP
 PP
 NP
 PP
+257117	NP
+257121	NP
+257123	NP
+257133	NP
 NP
-257142	PP
+257139	NP
 NP
 257145	NP
+257147	NP
+257152	PP
 NP
-257149	NP
-257158	NP
+257162	NP
 NP
-257164	PP
 NP
 NP
 PP
-257169	NP
-257175	NP
+257168	NP
+257172	PP
 NP
-257181	PP
+NP
+257184	NP
+257187	NP
 NP
 257190	PP
 NP
-NP
-257196	NP
-257199	PP
-NP
+257199	NP
+257203	PP
 NP
 NP
 NP
-257206	NP
-257211	NP
+257208	NP
+PP
+AdjP
+257218	NP
 NP
-NP
-257216	PP
-NP
-NP
-257223	NP
+257221	NP
+257223	PP
+257225	NP
+257235	NP
+257238	NP
+257240	NP
 NP
 PP
+257244	NP
+257249	PP
+NP
+257253	PP
+NP
+257264	NP
+257267	PP
 NP
 NP
-257230	NP
-NP
-NP
-257234	NP
-NP
-NP
-NP
-257245	PP
-NP
-NP
-NP
-257250	NP
-NP
-PP
-NP
-257257	NP
-257260	PP
-NP
-257268	NP
-NP
-PP
-PP
+257271	PP
 NP
 NP
 NP
 257277	NP
+257280	NP
+NP
+NP
+NP
+257285	NP
+257292	AdvP
 PP
 NP
 NP
-NP
-PP
-NP
-NP
-257288	PP
-NP
-257294	NP
-NP
+257298	PP
 257303	NP
+NP
+NP
+NP
 PP
-257307	NP
 257309	NP
-257312	NP
-257314	NP
-NP
-NP
-NP
+257311	NP
+257313	NP
+257316	NP
 257324	NP
 NP
+257328	NP
+257331	NP
+257333	NP
 NP
+257336	NP
+AdvP
+257339	NP
 NP
-NP
-257330	NP
-257333	AdjP
-257335	NP
-257338	NP
-NP
-NP
-257344	NP
-NP
-NP
-NP
-NP
-257351	NP
-NP
-257356	PP
-NP
-NP
-NP
-257367	NP
+257345	PP
+257348	NP
 PP
-NP
-257377	NP
-NP
-257381	NP
 PP
-257386	NP
-257388	PP
+257359	PP
+257362	NP
+257371	PP
+AdvP
+257374	NP
+257376	PP
 NP
-257391	NP
-257395	PP
 NP
+257383	PP
+257387	NP
+257389	NP
+257393	NP
+PP
+PP
+257397	PP
 NP
-257402	NP
+257400	PP
 257405	NP
 NP
 NP
+NP
+257412	NP
+257415	PP
+NP
+NP
+257420	NP
 PP
-NP
-257411	NP
-257414	NP
-257416	NP
-NP
-257421	PP
-257424	PP
-NP
-257428	NP
-257430	NP
+257425	NP
 NP
 PP
 NP
+257432	PP
+257436	PP
+257442	NP
+257445	PP
 NP
+PP
 NP
-257440	NP
-257445	NP
+257457	PP
 NP
-257449	NP
-257451	NP
-257456	NP
+257460	NP
+257463	NP
+257465	NP
 NP
-257464	VP
-NP
-NP
-257469	PP
-NP
-NP
+257468	NP
+257470	NP
+257480	NP
+257482	PP
+257484	NP
 NP
 PP
 NP
 NP
-PP
-257480	PP
+257491	PP
 NP
-NP
-NP
-257485	PP
-NP
-257489	NP
-NP
-257493	NP
-PP
-257498	NP
 PP
 NP
-257506	PP
-257511	NP
-257515	PP
+257500	PP
+NP
+257503	NP
+NP
+257508	NP
 NP
 NP
+VP
 NP
-257521	NP
-257524	NP
-257526	PP
-NP
-257529	PP
-257534	NP
-257537	NP
-257540	NP
-257542	NP
-257544	NP
-257551	NP
+257516	NP
+257518	NP
 PP
 NP
 NP
 NP
+257525	NP
 NP
-257561	PP
-NP
-257566	NP
-NP
-NP
-257571	NP
-257575	NP
+257533	NP
 PP
 PP
-257581	NP
+NP
+257549	PP
+257557	NP
+257560	PP
 NP
 NP
-257589	PP
+257567	NP
+257569	PP
 NP
 NP
+NP
+257576	NP
+257578	NP
+257582	NP
+NP
+257587	PP
+NP
+257591	PP
+NP
+257595	NP
 257597	NP
-257599	PP
-NP
-NP
-NP
+257600	NP
+257602	NP
 257604	NP
-NP
-257609	NP
-257611	NP
-257615	VP
-NP
-257620	NP
-257625	NP
-NP
-PP
-257630	NP
-NP
-NP
-NP
-257635	PP
-257640	PP
-257643	NP
-257646	VP
 PP
 NP
-257651	VP
+257613	NP
+257615	NP
+NP
 PP
-NP
-NP
-NP
-257658	NP
+257624	NP
+257626	PP
+257631	NP
 PP
-257662	NP
-257665	NP
+257635	NP
+257643	PP
+NP
+257649	NP
+257651	PP
+NP
+257654	NP
+NP
+257659	NP
+257663	NP
+NP
 257667	PP
 NP
+257670	PP
+257675	PP
+NP
+257683	PP
+257691	PP
+NP
+257694	NP
+257698	PP
+NP
+257710	PP
+NP
+257714	PP
+NP
+257719	PP
+257724	NP
+257726	PP
+257729	NP
+257733	NP
+257735	NP
+257738	NP
+NP
+257742	NP
 NP
 NP
+257749	NP
 NP
-NP
-257674	NP
-257681	NP
-NP
-257686	NP
-257688	NP
-257692	PP
-NP
-NP
-PP
-257697	PP
-257699	NP
-NP
-NP
-257703	PP
-257709	PP
-NP
-NP
-NP
-257714	NP
-257718	PP
-NP
-257722	PP
-NP
-NP
-NP
-257728	NP
-257731	NP
-NP
-NP
-NP
-PP
-257737	NP
-257739	NP
-257745	NP
-257749	PP
-PP
-NP
-257753	NP
+257752	PP
 257755	PP
-257761	NP
+NP
+257759	VP
 NP
 NP
-257765	PP
 NP
-257768	NP
-NP
-257771	NP
-257774	PP
-257779	PP
+257765	NP
+257769	NP
 PP
 NP
-257783	PP
-PP
-257793	NP
+257774	NP
 NP
-257797	PP
+257781	PP
 NP
+257795	NP
 NP
 NP
 257804	PP
-VP
-257809	PP
+NP
+257807	NP
+257809	NP
+257817	PP
+NP
+257821	NP
+257825	PP
+NP
+257828	NP
+257833	PP
+NP
+257836	PP
+257839	NP
+NP
+257842	PP
+257845	NP
+257848	PP
+NP
+257855	PP
+257858	NP
+257863	PP
+257869	PP
 NP
 NP
-257814	NP
-257817	NP
-NP
-257822	NP
-NP
-257826	NP
-257830	NP
-257851	NP
-257854	PP
-NP
-257857	NP
-NP
-257865	PP
-257870	PP
 257877	NP
 NP
-PP
+257880	PP
+257882	PP
+257887	PP
 NP
-NP
-NP
-257884	NP
-NP
-257890	PP
-NP
+257892	PP
 NP
 NP
 257896	NP
-NP
-257901	PP
-NP
-257905	PP
-257907	PP
-NP
-257911	NP
+257901	NP
+257905	NP
 NP
 NP
-257916	PP
+PP
+257917	NP
 NP
 NP
-257921	NP
+257922	PP
+NP
 257925	PP
 NP
-257928	PP
-NP
-257932	NP
-257942	NP
-257946	PP
+257929	PP
 NP
 NP
-257951	NP
-257958	PP
+NP
+257940	NP
+PP
+NP
+257944	PP
+257946	NP
+PP
+257949	PP
 NP
 NP
+257955	PP
+NP
+257958	NP
+257960	NP
 257962	NP
-257968	NP
-257971	NP
 NP
-257977	PP
-257981	NP
 NP
+257970	NP
+257972	NP
+257974	PP
+NP
+NP
+257979	PP
 PP
-257986	PP
-NP
-257992	PP
+257983	PP
 NP
 NP
-NP
-257997	NP
-257999	PP
+257991	PP
 NP
 NP
-PP
-PP
+257995	NP
 NP
-258007	NP
+258000	NP
+NP
+NP
+NP
+258005	NP
+258007	PP
 258009	NP
-258015	PP
+NP
+NP
+NP
+NP
+258015	NP
+258019	NP
+258024	VP
+258026	NP
+258028	NP
+NP
+NP
+258034	NP
+NP
+NP
+258041	NP
+258044	NP
+258053	NP
 PP
-258022	NP
-258028	PP
-NP
-258032	PP
-NP
-258059	PP
-NP
-258068	NP
-258076	NP
-258083	PP
-NP
-258087	NP
-NP
-258095	PP
-258097	VP
-NP
-258105	NP
-NP
 PP
-258112	PP
-PP
-NP
-258123	NP
-258125	PP
-258128	PP
-NP
-258134	PP
+258057	NP
 NP
 NP
-258144	NP
-258160	PP
-PP
+258063	PP
+258069	PP
+NP
+NP
+258077	NP
+258083	NP
+258088	PP
+NP
+258092	NP
+NP
+258095	NP
+NP
+258102	NP
+NP
+NP
+258106	NP
+258109	NP
+258111	PP
+258115	NP
+NP
+258119	NP
+NP
+258122	PP
 NP
 NP
 NP
-NP
-NP
-258168	PP
-258172	NP
+258134	NP
 PP
 NP
-258176	NP
-258178	NP
+258138	NP
+258142	PP
+258145	PP
+258151	NP
+258155	PP
 NP
-258182	PP
+258158	NP
+258166	PP
 NP
-258186	NP
-258191	NP
+258170	PP
+NP
+NP
+NP
+NP
+AdjP
+PP
+NP
+258179	NP
+258184	NP
+NP
+258187	NP
+NP
+AdjP
+258193	NP
 NP
 PP
-258196	NP
-258205	PP
+NP
+258201	PP
 NP
 NP
-258214	PP
 NP
-258218	PP
 NP
-258222	NP
+258212	NP
+258214	NP
+NP
+NP
+NP
+NP
+258221	NP
 258227	PP
-NP
 258235	NP
-258239	PP
+PP
+258240	NP
 NP
 NP
-258255	PP
-NP
+258244	NP
 NP
 PP
+258252	NP
 NP
-258262	PP
+258256	NP
 NP
-258265	NP
-258269	NP
+258259	NP
+258271	NP
 NP
+258276	NP
 NP
-258274	NP
 258281	PP
-258283	NP
 NP
-258287	PP
+258288	NP
 258293	PP
 NP
-258302	PP
-258307	NP
-258311	NP
-258313	NP
+258298	NP
+258300	NP
+258302	NP
+NP
+258308	PP
+258313	PP
+NP
 258318	NP
-NP
-NP
+258321	VP
 258323	NP
+258325	NP
+258328	PP
+258331	PP
+258333	NP
+258338	NP
 NP
-258332	NP
-NP
-258335	PP
-NP
-258340	PP
-258343	PP
-258346	NP
-258361	PP
-NP
-258367	PP
-NP
-258370	NP
-258377	PP
-258379	PP
-NP
-NP
-258383	VP
+258342	NP
+258345	NP
+258351	NP
+258353	PP
 PP
-258386	PP
-258388	PP
+PP
+NP
+258360	NP
+NP
+258364	NP
+NP
+258367	NP
+NP
+258374	NP
 NP
 NP
+258379	NP
 NP
-258394	PP
+258382	NP
+258387	VP
+258392	NP
+258397	NP
 NP
 258403	NP
-258406	PP
-258410	PP
 NP
-258414	PP
+258412	NP
 NP
-NP
-258424	NP
-NP
-NP
-258428	NP
-NP
-NP
-NP
-258437	PP
-258439	PP
 PP
+258416	PP
+258433	PP
 NP
-258447	NP
+NP
+258442	PP
 NP
 NP
-258452	PP
+258446	PP
+258451	PP
 NP
-258455	PP
+NP
+258458	NP
+PP
 258462	NP
+258465	NP
+NP
+258472	PP
 258477	NP
-258480	NP
-258483	PP
 NP
-PP
-258487	NP
+258482	NP
+258484	PP
+NP
 258489	NP
-258498	NP
-258504	PP
+258494	PP
+NP
+258498	PP
+NP
+258503	PP
+258509	NP
 NP
 NP
-258513	PP
-PP
 258518	NP
+258529	PP
+258534	PP
 NP
-258524	PP
-258526	NP
+NP
+NP
 PP
-258532	PP
-258541	PP
+258542	PP
+PP
 NP
-258546	NP
+PP
 NP
-258554	PP
-258556	NP
+258549	NP
+258551	PP
+258553	NP
+NP
+NP
 258561	NP
-258564	NP
-258568	PP
+258566	AdvP
+258569	NP
+PP
+258573	NP
+PP
 NP
-258576	NP
+258578	VP
+258582	NP
 NP
-258580	NP
+258586	PP
+NP
 258590	NP
 258592	NP
-258599	PP
-NP
-NP
-258605	PP
-NP
-258609	NP
-258611	PP
 PP
+258595	PP
 NP
+258598	PP
 NP
-NP
-NP
-NP
-NP
-258620	PP
-258623	NP
+258607	NP
+258616	NP
+258618	NP
 PP
-258629	NP
-PP
+258626	NP
+258629	PP
+258632	PP
+258638	NP
+258642	AdvP
+258647	PP
 NP
+258650	PP
 NP
+258655	NP
+258658	VP
+258666	PP
 NP
-258635	NP
-NP
-258639	NP
-PP
-258642	PP
-258644	PP
-PP
-NP
-NP
-NP
-NP
-NP
-258652	PP
-258671	NP
-NP
-258674	NP
-NP
+258672	PP
 258677	PP
-PP
 NP
-258684	PP
-258687	NP
-258693	PP
+258681	PP
+258685	PP
+258689	NP
+258691	NP
+258697	PP
 NP
-258698	PP
-258702	NP
 258706	NP
 NP
-258709	NP
 NP
-258719	PP
-NP
-AdvP
-258726	NP
-258730	PP
-NP
-258733	PP
-NP
-258745	PP
-258749	NP
-258753	NP
-258755	NP
-NP
-258758	PP
-NP
+258710	PP
 PP
-258762	NP
+258713	NP
+258715	PP
+258717	NP
 NP
 NP
-258766	NP
-258768	NP
+258724	PP
+258729	PP
+258731	NP
+PP
+258734	PP
 NP
-258773	PP
+258737	PP
+NP
+NP
+258742	NP
+PP
+258745	NP
+258751	PP
+NP
+NP
+NP
+258756	NP
+258767	PP
+258772	NP
+258774	NP
+PP
 258777	NP
-258785	NP
+PP
+258780	NP
+NP
+258788	NP
 258790	PP
 PP
-258793	NP
-258801	PP
-258805	NP
-PP
+258798	NP
 NP
-258810	PP
-258812	NP
-258815	NP
+NP
+PP
+258811	NP
+258813	NP
+AdjP
 258819	NP
-258821	PP
 NP
-258824	NP
+258822	NP
+258826	PP
+258828	NP
+258830	NP
 NP
 NP
-258828	PP
 NP
-258837	NP
-258840	PP
 NP
-258843	NP
-258845	NP
-258853	PP
-258863	PP
+258844	NP
 NP
-258872	NP
+258847	NP
 PP
+258851	NP
+258856	PP
+NP
+NP
+258862	PP
+NP
+NP
+258870	NP
+NP
+NP
+NP
 258878	NP
-258881	NP
-258884	PP
+NP
+258881	PP
+258883	NP
+NP
+NP
+258889	NP
+258891	NP
+NP
+258895	PP
 NP
 NP
 NP
-NP
-258890	PP
-NP
-258894	PP
+258904	PP
 NP
 NP
-258900	PP
-258905	AdvP
-258909	PP
+NP
+PP
 258911	NP
+258913	PP
 NP
-NP
+258920	NP
 PP
-258917	AdvP
-258920	PP
-NP
-NP
-258924	VP
-258927	NP
-NP
-258930	NP
-NP
-258936	NP
+258931	PP
+258933	NP
+258935	AdvP
 258939	NP
-258941	PP
+258942	NP
 NP
-258944	NP
-258950	NP
 NP
-258964	PP
+NP
+258951	NP
+PP
+NP
+258955	NP
+258964	NP
+NP
+258968	PP
 258970	NP
-258974	NP
-258976	NP
-258986	NP
-258990	NP
-258992	PP
+NP
+258982	NP
+NP
+258985	NP
+258999	NP
 NP
 PP
 NP
-NP
-VP
-NP
-PP
+259007	NP
+259011	PP
 NP
 NP
-259006	PP
-PP
 NP
-259014	NP
+259019	PP
 NP
-259017	NP
+259026	NP
 NP
-259020	PP
-NP
-259024	PP
 259032	PP
 NP
-PP
-259038	PP
-259046	NP
-PP
+259040	PP
+259043	PP
 NP
-259051	NP
-259054	PP
+259046	AdvP
+259048	PP
 NP
-259059	NP
-259061	PP
-259066	NP
-259068	PP
+259051	PP
+259054	NP
+259056	PP
+259063	NP
+259069	PP
+259073	PP
+259076	NP
+VP
 NP
-259078	NP
 259081	NP
+259084	NP
+259086	NP
+259088	PP
 NP
-259085	PP
-259088	NP
-259091	NP
-259093	PP
-NP
-NP
-259097	PP
-NP
+259092	PP
+259099	NP
+259107	PP
+259110	PP
 PP
 NP
-259104	NP
+259115	NP
 PP
-259109	NP
 NP
-259117	NP
-259119	PP
-NP
-259122	NP
 259124	PP
-259127	NP
-259130	PP
-259132	NP
+NP
+259129	PP
+NP
+259134	NP
+259136	PP
+259138	PP
+259141	NP
+259143	NP
+PP
+259146	AdvP
+259150	PP
+259153	PP
 NP
 NP
-259140	PP
-259142	NP
-259144	PP
 NP
+259158	NP
+259160	PP
 NP
-259152	NP
-NP
-259156	PP
-NP
-259161	PP
-259164	PP
+259163	PP
 259169	NP
-259175	NP
-NP
-259178	PP
-NP
-NP
-259184	NP
-NP
-259187	NP
-259189	PP
-NP
-NP
-NP
-259194	PP
-259197	NP
-NP
-NP
-259201	NP
-NP
-NP
+259174	NP
+259178	NP
 PP
 NP
-259207	NP
-259210	NP
 NP
-PP
-259215	NP
+259187	PP
+259190	NP
+NP
+NP
+259194	NP
+259196	NP
+259198	NP
+259202	NP
+NP
+NP
+NP
+259209	NP
+NP
+259213	PP
+NP
 259217	PP
-PP
 NP
-NP
-NP
-NP
-NP
-259232	NP
-259236	NP
+259228	NP
+259232	PP
+259235	NP
 259243	NP
 NP
-NP
-259248	NP
-259252	PP
+259253	PP
+259256	PP
 NP
 NP
 259260	NP
-259263	NP
-259265	NP
-259267	PP
+259267	NP
 NP
-259270	NP
 NP
+259271	PP
 259273	NP
 NP
+259277	PP
+259280	NP
 NP
-259280	PP
-259282	PP
 NP
 PP
-259288	PP
-NP
-259303	VP
 PP
-259307	PP
-259309	NP
-259311	NP
+259287	PP
+259291	NP
 NP
-259314	PP
-NP
-259318	PP
+259297	PP
+259301	NP
+259306	NP
 PP
-259324	NP
+PP
+NP
+259312	NP
+259317	PP
+NP
+259321	NP
+PP
+NP
+PP
 NP
 NP
-259328	NP
-259330	NP
 259332	NP
+259340	NP
 NP
+259343	PP
 NP
-259352	PP
+259348	NP
 NP
-NP
+259353	PP
+259355	NP
 259357	PP
-259359	PP
 NP
-259362	NP
-259370	PP
-259375	PP
-NP
-259380	NP
-259382	PP
 NP
 PP
-259387	PP
-PP
-259391	NP
-259399	PP
 NP
 NP
+259368	NP
+259370	NP
+259387	NP
 NP
-NP
-259406	PP
-NP
-NP
-NP
+259391	PP
+259397	PP
+259400	PP
+259403	NP
+259410	PP
 259415	NP
+259417	NP
 PP
+259420	NP
 NP
-NP
-259423	PP
-259431	PP
-PP
+259429	NP
 259435	NP
+259437	NP
 NP
 NP
-PP
-259444	NP
+259441	PP
+259444	PP
 NP
-NP
-PP
-259449	PP
-PP
-PP
-259454	NP
-NP
-NP
-259466	PP
-NP
-259470	NP
-NP
-259474	NP
-NP
-259477	PP
-NP
-259483	NP
-259490	NP
-259493	NP
+259447	NP
 NP
 NP
 NP
 NP
 PP
-259502	PP
+259454	PP
 NP
-259505	PP
-259507	PP
+NP
+NP
+259462	NP
+NP
+259466	NP
+NP
+PP
+NP
+259472	PP
+NP
+259475	NP
+NP
+259479	PP
+NP
+259491	NP
+PP
+259494	NP
+259496	NP
+259498	NP
+NP
+259506	NP
+259508	PP
+NP
 259512	NP
+NP
+NP
+259516	VP
 259519	NP
 PP
-259524	PP
+NP
+PP
 259526	PP
-PP
 NP
-259530	NP
-259533	NP
-PP
+259529	NP
+259534	NP
 NP
-259539	PP
+259539	NP
 NP
 259543	NP
+259546	PP
 NP
+259551	NP
+259559	NP
+NP
+NP
+NP
+259570	PP
+259575	NP
+259577	NP
+259580	NP
+259584	NP
+259590	NP
+259598	VP
+259601	NP
+259603	PP
+NP
+259610	NP
 PP
 NP
-NP
-NP
-259550	PP
-PP
-259555	PP
-259560	NP
-NP
-NP
-259567	NP
-NP
-NP
-259571	NP
-259574	NP
-259576	AdjP
-NP
-259581	NP
-NP
-259585	PP
-259591	PP
-259595	NP
-NP
-259598	PP
-NP
-259602	NP
-259606	PP
-NP
-259609	PP
-NP
-259612	NP
-259614	PP
 259616	PP
-259619	NP
 NP
-PP
-259625	PP
+259622	PP
 NP
-NP
-259630	PP
-NP
-NP
-259635	PP
-259637	NP
-259643	NP
-PP
-259646	NP
-NP
-259649	PP
-NP
-259655	PP
+259628	PP
 NP
 PP
 NP
-259660	PP
 NP
-259663	NP
+NP
+259636	NP
+NP
+NP
+259645	PP
+NP
+NP
+259649	NP
+259654	PP
 259665	NP
-NP
-259668	NP
-NP
 PP
 NP
-259674	NP
 NP
-259682	NP
-259685	NP
+259672	PP
+NP
+NP
+NP
+NP
+NP
+259680	NP
 259688	NP
 NP
-259694	PP
-259696	NP
 NP
-259701	PP
+NP
+AdjP
+259699	PP
 NP
 259705	NP
+259707	PP
 NP
-259710	PP
-NP
-259714	VP
-259716	PP
-NP
-PP
-NP
-PP
-259726	NP
+259710	NP
 NP
 NP
-VP
+259717	NP
+259725	NP
+NP
 NP
 PP
 NP
 259734	NP
-259737	PP
+259744	NP
+259747	PP
 NP
-259740	NP
-259743	NP
-259748	PP
 NP
-259752	NP
+259752	PP
+NP
+NP
+PP
 NP
 NP
 259759	PP
-259762	NP
 NP
-PP
 NP
-259768	NP
-PP
-259773	NP
 NP
+NP
+259765	NP
+259767	NP
+259771	NP
+NP
+259774	PP
+259777	PP
 259782	NP
 NP
-259796	PP
-NP
-259804	NP
-259807	PP
-NP
-NP
-NP
-259812	PP
-NP
-259821	NP
-259825	NP
-PP
-259828	NP
-PP
-259837	NP
-NP
-NP
-259843	PP
-NP
-259846	NP
-NP
-NP
-NP
-NP
-NP
-259855	PP
-NP
-NP
-NP
-NP
-NP
-259864	VP
-259870	NP
-NP
-NP
-259874	NP
-259880	NP
-NP
+259787	NP
 NP
 PP
 NP
-259887	NP
-259892	NP
-PP
+259792	PP
 NP
-259897	PP
+PP
+259797	NP
+259801	PP
+259812	NP
+PP
+259815	PP
+NP
+259818	NP
+PP
+259823	PP
+NP
+259845	PP
+259850	NP
+259856	PP
+259858	NP
+259861	NP
+259863	NP
+259873	NP
+259876	PP
+259880	PP
+259884	PP
+NP
+259894	PP
+NP
+NP
+NP
+NP
+259900	PP
+259904	PP
+259906	NP
 259908	NP
-259911	NP
-259924	NP
-259929	NP
-259932	PP
 NP
-259938	NP
-259943	PP
-NP
-259949	NP
 AdjP
 PP
 NP
-259955	NP
-259965	NP
-259970	PP
+259914	PP
 NP
+NP
+NP
+259921	PP
+259932	NP
+NP
+259935	PP
+259939	NP
+NP
+NP
+NP
+259947	NP
+NP
+259951	NP
+259954	NP
 PP
-259974	VP
-259980	PP
-259983	NP
-PP
 NP
 NP
+259960	NP
+259962	PP
 NP
+259976	NP
+NP
+259979	NP
+NP
+259986	PP
 259990	PP
-259992	NP
 NP
-PP
-NP
-NP
-259998	NP
-260000	NP
-260002	PP
-NP
+259994	PP
 260005	PP
-NP
-260009	NP
-260017	NP
 PP
-260022	NP
+260010	NP
 NP
-260028	NP
-260030	NP
-NP
-260036	PP
-260038	NP
-260044	PP
 PP
+260020	VP
+260023	PP
+NP
+260026	PP
+260031	NP
+NP
+260034	NP
 NP
 NP
-260050	NP
-260056	NP
-260058	NP
+VP
+260044	NP
 NP
-260064	NP
+260050	PP
+260055	PP
+260063	PP
+NP
+NP
 260068	NP
 NP
+260073	PP
 NP
-260073	NP
-260075	PP
 NP
-260086	NP
+260089	NP
 260093	PP
 NP
+260096	NP
+260099	PP
 NP
-260097	PP
-260101	PP
-260104	PP
-260106	NP
+260107	PP
 NP
-NP
-PP
-NP
+260117	NP
+260119	PP
 NP
 NP
-260115	NP
-260119	NP
-NP
-PP
 260123	NP
 NP
-260130	PP
+260132	NP
+260134	NP
+260141	NP
 NP
-NP
-260138	NP
-NP
-NP
-260144	NP
 260148	NP
+260162	NP
+260164	NP
 NP
-260152	NP
-PP
-NP
-260156	NP
-NP
-260159	NP
-260161	PP
-260165	NP
 NP
 260168	NP
+260178	PP
+260182	NP
 NP
+260194	VP
+260196	AdvP
+260201	NP
+260204	PP
 NP
+260213	NP
+260215	NP
 NP
-260175	NP
+260219	NP
+260221	PP
+260224	NP
 NP
+260232	NP
 NP
-NP
-260183	NP
+260235	NP
 PP
-260190	NP
-PP
-260195	PP
-260203	NP
-260207	PP
 NP
 NP
-NP
-260213	PP
-NP
-NP
-PP
-260218	PP
-NP
-NP
-260224	PP
-260226	PP
-260230	PP
-NP
-260233	PP
-NP
-NP
-260238	PP
-NP
-NP
-NP
-NP
-260244	PP
+260240	NP
 260246	NP
 NP
-NP
-260250	NP
-260252	NP
+260249	NP
 PP
-260258	NP
-260260	PP
+260256	NP
+NP
+260260	NP
+260264	PP
+NP
+260274	NP
 NP
 NP
+260280	NP
+260291	NP
+NP
+NP
+260299	NP
+260302	NP
+NP
+260306	NP
+260310	PP
+NP
+260321	NP
 PP
+260325	NP
+260335	NP
 NP
-260271	NP
-260277	NP
-260279	NP
-NP
-NP
-NP
-260284	NP
-NP
-260287	NP
-260289	PP
-NP
-NP
-PP
-NP
-260295	PP
-NP
-260299	PP
-260301	NP
-NP
-260305	PP
-NP
-260309	NP
-NP
-PP
-NP
-260314	NP
-NP
-NP
-NP
-260320	PP
-260323	PP
-NP
-260331	NP
-NP
-NP
-NP
-PP
-NP
-NP
-260342	NP
-260344	PP
-260350	NP
-NP
-NP
-PP
-NP
-NP
+260341	NP
+260354	NP
 260358	NP
+260361	NP
 NP
 NP
+NP
+NP
+NP
+260370	NP
+260372	PP
+NP
+NP
+260383	NP
+260388	NP
+260391	NP
 PP
+260395	NP
+260399	PP
 NP
+260403	PP
 NP
-NP
-PP
-260367	NP
-260370	PP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-260382	NP
-260393	PP
-260398	NP
-NP
-NP
-260404	NP
 NP
 260407	NP
-NP
-PP
 260411	NP
-260413	NP
+260419	NP
+PP
+PP
+260425	PP
+PP
+260434	NP
+260441	PP
+260444	NP
+260447	AdjP
+260449	NP
 NP
-NP
-NP
-260420	PP
-260422	NP
-NP
-260427	NP
-NP
-NP
+260455	NP
+260457	NP
+260464	PP
+260467	NP
+260473	NP
 PP
 NP
-260436	NP
-NP
-260446	NP
+260479	PP
+260484	NP
 PP
-260450	PP
-NP
-260453	PP
-NP
-260458	PP
-260461	PP
-NP
-260465	PP
-NP
-PP
-260471	NP
-PP
-NP
-260478	NP
-NP
-PP
-NP
-260485	NP
-260487	NP
-NP
-260492	PP
-PP
-NP
-NP
+260488	PP
 260497	NP
 NP
-260510	PP
-260514	PP
-260520	NP
 NP
 NP
-260524	PP
-PP
-260529	NP
 NP
-260536	NP
+260506	PP
+NP
+260509	NP
+260512	NP
+NP
+NP
+260517	NP
+NP
+260520	PP
+NP
+260533	PP
+NP
 260538	NP
+260542	NP
+NP
+260545	PP
+260553	NP
 NP
 NP
-260544	PP
-NP
-NP
-260552	NP
-260565	PP
-260567	NP
-260570	PP
-260574	PP
-NP
+260558	PP
+260569	NP
+260575	NP
 260577	PP
 NP
-260586	PP
-NP
-260589	NP
-260598	PP
-NP
-NP
-260602	AdvP
-260612	PP
-NP
-NP
-260617	NP
-NP
-260621	NP
-260623	NP
-NP
-260626	NP
-NP
-260629	NP
-260631	NP
-260638	NP
-NP
-NP
-NP
-260643	NP
-260645	NP
-NP
-NP
-260650	NP
-NP
-NP
-260655	NP
-NP
-260661	PP
-260666	NP
-260668	NP
-260675	NP
-NP
-NP
-260683	AdjP
-260686	NP
-NP
-260690	PP
-NP
-260696	NP
-260699	PP
-NP
-260703	PP
+260584	PP
+260595	NP
 PP
-NP
-NP
-260709	NP
-260713	NP
-NP
-NP
-260719	VP
-PP
-NP
-260724	NP
-NP
-NP
-PP
-NP
-NP
-NP
-260733	NP
-NP
-260736	NP
-NP
-260739	NP
-NP
-NP
-260745	PP
-NP
-260751	PP
-NP
-NP
-260757	NP
-NP
-NP
-PP
-260762	PP
-NP
-260767	NP
-260770	PP
-PP
-NP
-260775	PP
-NP
-NP
-NP
-260784	NP
-260787	NP
-NP
-260790	NP
-260793	NP
-NP
-NP
-PP
-NP
-NP
-260803	PP
-NP
-260806	PP
-NP
-NP
-NP
-NP
-260814	PP
-NP
-NP
-260819	NP
-NP
-NP
-260826	PP
-NP
-260830	PP
-NP
-260835	NP
-NP
-NP
-260840	PP
-NP
-NP
-260847	PP
-NP
-NP
-NP
-260853	NP
-260855	VP
-260857	NP
-260859	PP
-NP
-260863	PP
-NP
-NP
-260871	NP
-260883	NP
-260885	PP
-NP
-NP
-260893	NP
-260900	NP
-NP
-260904	NP
-260908	PP
-260911	NP
-260913	NP
-260919	NP
-260921	NP
-NP
-260924	NP
-NP
-260927	PP
-NP
-260930	PP
-NP
-260933	PP
-NP
-260939	NP
-260942	NP
-NP
-260945	PP
-NP
-260954	NP
 NP
 AdjP
-260960	PP
-NP
-NP
-260964	PP
-NP
-260969	NP
-260971	NP
-260973	NP
-260975	NP
+260605	PP
+260614	NP
 NP
 PP
-260979	PP
+NP
+260621	NP
+260628	PP
+260632	NP
 NP
 NP
-260984	NP
+260639	NP
+260642	PP
+260644	NP
+260646	NP
+PP
 NP
-260987	NP
 NP
-261000	NP
-261003	NP
 NP
-261010	NP
-261016	PP
-261021	NP
-261024	NP
-261026	PP
+260656	NP
+260658	PP
+260660	NP
+260662	NP
+260664	NP
 NP
-261033	NP
-261037	PP
+260669	NP
 NP
-261040	AdvP
-261042	PP
+260672	NP
+NP
+260676	PP
+NP
+260681	PP
+260683	PP
+NP
+260693	NP
+260695	PP
+260699	PP
+NP
+NP
+260705	PP
+NP
+NP
+NP
+NP
+260711	NP
+AdjP
+260720	PP
+NP
+260725	PP
+260727	NP
+NP
+260730	PP
+PP
+NP
+260735	PP
+260739	NP
+260741	PP
+PP
+NP
+AdvP
+260747	NP
+260749	PP
+260751	PP
+NP
+260756	PP
+NP
+260760	NP
+NP
+260763	NP
+NP
+260772	PP
+NP
+260778	PP
+260784	NP
+NP
+NP
+260789	PP
+NP
+NP
+NP
+260795	PP
+260797	NP
+260800	NP
+PP
+260803	NP
+260805	NP
+260809	NP
+PP
+NP
+260817	NP
+260820	NP
+260822	PP
+260826	NP
 NP
 PP
-261047	NP
-NP
-261053	PP
-NP
-261056	PP
-261058	PP
-261060	NP
 NP
 NP
-261065	NP
+260835	NP
+PP
+NP
+260842	PP
+260850	NP
+NP
+260854	NP
+NP
+260860	NP
+260862	NP
+NP
+PP
+NP
+NP
+260868	NP
+NP
+NP
+260873	NP
+260879	PP
+260883	PP
+NP
+260892	NP
+NP
+260901	NP
+260904	NP
+260906	PP
+NP
+260911	NP
+NP
+260915	NP
+PP
+260927	NP
+PP
+260932	PP
+260937	PP
+NP
+260942	PP
+260945	NP
+260948	PP
+NP
+260951	PP
+NP
+260957	PP
+260966	PP
+NP
+260974	NP
+NP
+260977	NP
+260979	NP
+PP
+NP
+260983	PP
+NP
+260988	NP
+260990	PP
+NP
+260993	NP
+NP
+260996	NP
+261002	PP
+NP
+261005	NP
+261007	PP
+261009	NP
+261011	NP
+PP
+PP
+NP
+261018	PP
+NP
+NP
+261024	PP
+261028	PP
+NP
+261031	PP
+261033	PP
+NP
+261036	NP
+PP
+NP
+261041	PP
+261047	PP
+261050	NP
+261053	NP
+261057	PP
+NP
+261060	PP
+261062	NP
+261066	PP
 261068	PP
 NP
 261073	PP
-NP
-NP
-NP
-261080	PP
-261083	PP
-261086	NP
+261077	NP
+261080	NP
 PP
-261091	NP
-261093	PP
 NP
-261097	PP
+261087	NP
+261090	NP
+PP
+261093	NP
+261102	NP
+261104	NP
 NP
-261100	PP
-261103	PP
-261105	VP
-NP
-NP
-NP
+261109	PP
+261111	NP
+261113	NP
 PP
 NP
 261117	NP
-261121	NP
-PP
-261126	NP
 NP
-261130	NP
-AdjP
-PP
+261122	NP
+261126	PP
 NP
-261137	PP
-NP
-261140	NP
-261145	NP
-NP
-261152	NP
-261154	AdjP
-NP
-261157	NP
-PP
-261163	NP
 NP
 PP
-PP
+261134	PP
+261139	NP
+261143	NP
+261161	PP
 NP
-261169	PP
-PP
-NP
-NP
-261176	PP
-NP
-261179	NP
+261177	NP
 261183	NP
 NP
+261186	NP
+261192	NP
+PP
 NP
-261188	NP
+261196	PP
+PP
+261203	NP
+261205	NP
 NP
-NP
-261193	PP
-261195	PP
-NP
-261198	NP
-261200	NP
-261204	NP
-261206	PP
-261209	NP
 NP
 PP
 NP
+261215	PP
+261218	PP
+261223	PP
 NP
 NP
-261224	NP
-NP
-261228	NP
-261230	NP
-261232	PP
-NP
-NP
-NP
-261241	PP
+261231	NP
+PP
+261236	PP
+261238	NP
+261240	NP
+PP
 261247	PP
 NP
-PP
-261251	NP
-PP
+261253	PP
 NP
+AdjP
+AdjP
+261260	PP
+AdvP
+261263	PP
 NP
-261256	NP
-NP
-NP
-NP
-261263	NP
-261267	NP
-NP
-NP
-261271	NP
-261275	PP
-261278	NP
-261280	NP
-NP
-261286	NP
-261289	PP
-NP
-NP
-NP
-261295	NP
-NP
-261301	PP
-NP
-NP
-NP
-261307	PP
-NP
-261312	NP
-NP
-261320	NP
-261322	PP
+261266	NP
+261275	NP
 NP
 PP
+261279	NP
+261287	NP
+261292	PP
+NP
+NP
+NP
+261297	PP
+NP
+261300	PP
+261303	NP
+261306	NP
+261310	NP
+261313	PP
+261316	PP
+261318	PP
+261321	NP
+261323	VP
 PP
-261340	NP
-261343	PP
-261345	NP
-NP
-261350	NP
 NP
 NP
-261355	PP
-261359	NP
+261335	NP
+261346	NP
+AdjP
+261369	NP
+261371	PP
 NP
-261363	NP
-261371	NP
-NP
-NP
-NP
-NP
-NP
-NP
-PP
+261377	PP
 261380	NP
-NP
-PP
-261384	NP
-261386	NP
+261385	NP
 261388	PP
-261393	NP
+261390	NP
+261394	NP
+261397	NP
 NP
+261400	NP
 PP
-NP
-261398	PP
 NP
 261404	NP
+261406	NP
+261408	PP
+PP
+261412	PP
+261415	NP
+261417	NP
 NP
 NP
-261408	NP
-261411	NP
-261414	PP
+261421	PP
+261423	PP
+261431	NP
+261436	PP
+261438	NP
+NP
+261442	PP
+NP
+261447	NP
+261449	AdvP
+261451	PP
+NP
+261455	NP
+PP
+261458	NP
+NP
+NP
+261468	NP
+261470	PP
+NP
+NP
+261474	PP
+261476	PP
+261478	NP
+NP
+261483	NP
+261488	NP
 NP
 PP
-261420	PP
-NP
-PP
-NP
-261427	NP
-261429	NP
-PP
-NP
-NP
-261435	PP
-261437	PP
-PP
-NP
-261444	NP
-261446	PP
-NP
-261449	PP
-NP
-NP
-261453	NP
-NP
-NP
-PP
-NP
-261460	NP
-PP
-261466	NP
-PP
-261472	NP
-NP
-261484	PP
-PP
-NP
-NP
-261489	NP
-261491	NP
-NP
-PP
+261495	PP
+261498	PP
+261500	NP
+261505	PP
 NP
 NP
 NP
+261512	PP
+261516	PP
+261520	PP
 NP
-261501	NP
-261503	NP
-PP
-261506	NP
-261509	NP
+261523	NP
 NP
-NP
-261513	NP
-AdjP
-261517	PP
-NP
-NP
-261524	PP
-261534	PP
+261533	AdvP
 261537	NP
 261539	NP
-261543	PP
-NP
-261547	NP
-261550	PP
-NP
-261553	NP
-261560	PP
 PP
 NP
-PP
-261569	PP
-261571	PP
-NP
-NP
-NP
-NP
+261544	PP
 NP
 PP
-261579	NP
-261581	PP
-261585	NP
-PP
-NP
-PP
-261590	NP
-NP
-NP
-261599	NP
-NP
-261607	PP
-PP
-261613	PP
-NP
-261624	PP
-NP
-261628	NP
-261630	PP
-261637	NP
-NP
+261551	NP
 NP
 PP
 NP
-261644	NP
-261647	NP
-261651	PP
-261653	PP
-261656	NP
-NP
-261662	NP
+261557	NP
+261559	NP
+261562	NP
+261566	NP
 NP
 NP
-261668	PP
+261573	PP
+NP
+NP
+NP
+NP
+261580	PP
+261594	NP
+AdjP
+261598	NP
+261601	NP
+261604	PP
+NP
+261607	NP
+261615	PP
+261617	PP
+PP
+261622	NP
+261634	NP
 NP
 NP
 PP
-261675	NP
+261641	PP
+NP
+261646	PP
+261649	NP
+261651	NP
+261654	PP
+NP
+261658	PP
+261663	PP
+261668	NP
+261671	NP
+NP
+NP
 PP
-261682	PP
+261684	NP
+261687	NP
 NP
-261685	PP
+PP
+PP
+261693	PP
 NP
 NP
-261693	NP
-NP
+PP
 261699	NP
-261703	NP
-261705	PP
+261707	PP
 NP
-261708	NP
+NP
+NP
+NP
+NP
+261717	PP
+NP
+NP
+NP
 PP
 NP
-261714	NP
-261717	NP
-PP
-261721	NP
-261723	NP
+NP
 261725	PP
 NP
+261729	PP
 NP
-261729	NP
+NP
+PP
+261738	PP
+NP
+261741	PP
+261746	PP
+261748	NP
+261756	PP
+NP
+NP
+261760	NP
+261762	NP
+261767	PP
+261770	NP
+261772	NP
+261774	PP
+261776	NP
+NP
 PP
 NP
-261734	PP
-NP
-261737	PP
-NP
-261744	NP
-NP
-261748	NP
-261750	PP
-261753	PP
-NP
-261756	NP
-VP
-261764	PP
-261769	NP
-261774	PP
-261779	NP
-261784	PP
-261786	PP
 261789	PP
 NP
-261792	PP
-261795	NP
+NP
+261802	PP
+PP
+PP
 NP
 NP
-NP
-VP
-261801	PP
-NP
-NP
-NP
-NP
-261807	NP
-NP
+261808	PP
 261810	PP
 NP
 PP
-261820	NP
-NP
-261824	NP
-NP
-261828	NP
-NP
-261831	NP
-261833	NP
-NP
-261836	NP
-261839	PP
-261844	NP
-NP
-261852	NP
-261855	PP
+261816	NP
 NP
 NP
-261866	PP
+PP
+NP
+261824	PP
 NP
 NP
 NP
-261874	NP
-261876	NP
+261832	PP
+261835	NP
+261838	PP
 NP
-261881	NP
-261885	NP
-NP
-NP
-NP
-NP
-261894	NP
-261898	PP
-NP
-261905	NP
-261909	PP
-NP
-261912	PP
-261915	NP
-NP
-261919	NP
-NP
-261923	NP
+261843	PP
+261845	NP
+261856	PP
+261864	NP
+261878	PP
 NP
 NP
+PP
+261889	NP
+261902	PP
+NP
+261905	PP
+NP
+PP
+261912	NP
+261916	PP
+PP
+261920	NP
+NP
+NP
+PP
 NP
 261928	NP
 261930	NP
-261932	PP
+PP
+261934	NP
+PP
+261940	NP
+NP
+261945	NP
 NP
 PP
+261951	NP
+261953	NP
 NP
-261939	NP
-261941	NP
 NP
-261944	NP
+261957	NP
+261963	PP
 NP
-261959	NP
-PP
-261962	NP
-261964	NP
 NP
-261968	NP
+AdjP
+NP
+261969	PP
 261973	PP
-261975	NP
+NP
+261977	NP
 261980	NP
-261984	PP
-NP
-NP
-261988	NP
-NP
-261991	PP
+PP
 NP
 PP
-261995	NP
-261999	NP
-262003	NP
-262006	NP
-262010	NP
 NP
 NP
+261992	PP
+261997	NP
+262004	NP
+262007	PP
+NP
+262013	NP
 262016	NP
-NP
-262019	NP
-NP
-262025	NP
-262029	NP
+262021	NP
 NP
 NP
+262028	NP
+NP
+262031	PP
 262033	NP
-262039	NP
-262043	NP
-262045	NP
-262060	NP
-262079	PP
+262038	NP
+262040	NP
+262046	PP
 NP
+262049	PP
+262062	VP
+PP
+262067	NP
+262072	NP
+262074	PP
+NP
+PP
+262081	NP
 262084	NP
+262087	PP
+262089	PP
+262091	AdvP
+262093	NP
 NP
-262089	NP
-NP
-NP
-PP
-NP
-NP
-PP
-NP
-NP
-262101	PP
+262101	NP
+262103	PP
 NP
 NP
-NP
-NP
-262107	PP
-NP
-262112	NP
-NP
-262118	PP
-NP
+262111	NP
+262113	NP
+262115	NP
+262123	PP
 262126	NP
+AdjP
 262131	NP
 NP
 262135	NP
+262140	NP
 NP
-262139	NP
-NP
-NP
-PP
-NP
-262145	NP
 262152	PP
 NP
-262156	PP
-262161	NP
-262164	PP
-262179	NP
+262156	NP
+262159	NP
 NP
 NP
 NP
-262197	PP
+262165	NP
+262169	NP
 NP
-262201	PP
+262173	PP
 NP
-262204	PP
+NP
+PP
+NP
+262180	PP
+262182	NP
+262184	NP
+262187	PP
+262190	NP
+NP
+262194	PP
+NP
+262203	NP
+PP
 NP
 262209	NP
-262214	NP
-262216	NP
-262218	PP
-262221	NP
-NP
+262211	NP
 PP
-262226	NP
-262228	PP
-262230	PP
 NP
+262218	PP
+NP
+NP
+262223	NP
+NP
+NP
+262227	PP
+NP
+262231	PP
 262234	PP
 NP
-262238	NP
-262243	PP
-262248	NP
+262241	PP
 NP
-262255	NP
+262247	NP
+262250	NP
 PP
-262260	NP
+262257	PP
+262259	NP
+NP
 262262	NP
-NP
-NP
-262266	NP
+PP
 262268	NP
-NP
-NP
-262272	NP
-AdjP
-262276	NP
-262279	NP
-NP
-NP
-NP
-262286	NP
-262289	NP
-NP
-262294	PP
-NP
-262302	NP
+262275	NP
 PP
 NP
+NP
+262282	NP
+262288	PP
+NP
+262292	NP
+262294	AdvP
+262296	NP
+262298	NP
+262300	NP
+NP
+NP
+262305	NP
 262307	NP
-262317	NP
-PP
+262310	NP
+262312	NP
+262316	PP
+262321	NP
+262323	PP
+NP
+262331	PP
+262334	NP
 NP
 NP
-262322	NP
-262328	NP
-262330	NP
-262335	NP
-PP
-NP
-262339	NP
-262342	NP
-262345	PP
+262339	PP
+262341	PP
 262347	NP
-262350	NP
+262352	NP
 PP
-262354	PP
-NP
-NP
-NP
-262363	NP
-PP
-262367	NP
-PP
-NP
-NP
-PP
-262373	NP
-262377	NP
-262380	PP
-262383	NP
-NP
-NP
-NP
-NP
-262389	AdjP
-262393	NP
-NP
-PP
-NP
-262398	PP
-PP
-NP
-262402	PP
-NP
-NP
-NP
-NP
-262410	NP
-262414	NP
-262416	NP
-262418	PP
-PP
-NP
-262423	NP
-262426	NP
-262430	NP
-262432	PP
-262435	NP
-PP
-NP
-262439	NP
 AdjP
-262442	PP
-262444	PP
-262446	NP
-262449	NP
-262451	NP
+262357	PP
+262359	NP
+262365	NP
+262370	NP
+262374	NP
 NP
+262384	NP
+262390	NP
+262395	PP
+NP
+262399	NP
+262408	AdvP
+262412	NP
+262414	NP
+NP
+NP
+262424	PP
+NP
+NP
+262428	AdjP
+262432	NP
+NP
+262437	NP
+262442	NP
 PP
-262457	NP
-262461	PP
 NP
+262448	NP
+262453	PP
 NP
-262467	PP
+262458	NP
 NP
+262461	NP
+262463	AdvP
+262467	NP
+262471	PP
 PP
 NP
-PP
-262473	NP
-262476	NP
-262478	NP
-262486	NP
-NP
-262491	NP
-NP
-262496	NP
-262498	NP
-262503	PP
-NP
-262510	NP
+262477	NP
 NP
 NP
 NP
-PP
-262516	NP
+262502	NP
+NP
+262505	PP
+262512	NP
+262516	PP
+NP
 262520	PP
 NP
+262529	NP
+262534	PP
 NP
-262530	NP
-262533	NP
-NP
-262536	PP
-NP
-262544	NP
-262548	PP
-NP
-NP
-NP
-262553	NP
 PP
-AdjP
-262562	NP
 NP
-262565	NP
-PP
+NP
+262540	NP
+262542	NP
+262548	NP
+262557	NP
+262563	PP
+NP
+262566	PP
 262568	NP
-262578	NP
-262580	NP
+262574	NP
+262578	PP
+NP
 262582	NP
-NP
-PP
-262586	NP
-262590	PP
-NP
-262594	PP
-NP
-262604	NP
-262607	PP
-NP
-NP
-262611	PP
-NP
-NP
-NP
-262616	NP
-262619	NP
-NP
-NP
-NP
-262624	NP
-262630	AdvP
 PP
 NP
+262587	PP
+262592	NP
+262594	NP
+262596	NP
+262602	PP
 NP
-262635	PP
-262639	NP
+262611	NP
 NP
 NP
 NP
+262619	PP
+262626	NP
+262631	NP
+262646	PP
+NP
+NP
+262650	NP
+NP
+262653	PP
+NP
+262665	NP
 PP
-262645	NP
-262647	NP
-262649	NP
-262652	NP
-262658	NP
-NP
-262661	NP
-262664	NP
-262666	NP
-NP
-262669	NP
-AdvP
-262672	NP
-NP
-262677	PP
+262675	NP
 262680	NP
-PP
-PP
-262690	PP
-262693	NP
-262702	PP
-AdvP
-262705	NP
-262707	PP
-NP
-NP
-262714	PP
-262716	NP
-262718	NP
-262722	NP
-PP
-PP
-262726	PP
-NP
-262729	PP
-262732	NP
-NP
-NP
-NP
-262739	NP
-262742	PP
-NP
-NP
-262746	NP
-PP
-262751	NP
-NP
-PP
-NP
-262758	PP
-262762	PP
-262768	NP
-262771	PP
-NP
-PP
-NP
-262781	PP
-NP
-NP
-262786	NP
-262788	NP
-NP
-262791	NP
-262793	NP
-262801	NP
-262803	PP
 NP
 NP
 PP
 NP
+262690	NP
+262692	NP
+PP
 NP
-262811	PP
+262701	NP
+262704	NP
+NP
+262710	PP
+262714	NP
+262717	NP
+262720	PP
+NP
+262724	NP
+NP
+NP
+262729	NP
+262732	PP
+NP
+262737	PP
+NP
+262740	NP
+262743	NP
+262748	NP
+262751	PP
+NP
+NP
+NP
+262758	NP
+262765	NP
+262769	NP
+262772	NP
+262780	PP
+NP
+262784	NP
+262787	PP
+262790	PP
+NP
 NP
 PP
 NP
-262820	PP
+262800	PP
+NP
+262808	NP
+262811	NP
+262814	NP
+NP
+262823	NP
+262825	PP
+262827	NP
+262830	PP
+NP
+262835	NP
 NP
 NP
+262840	PP
 NP
-262826	NP
+262843	PP
 NP
+262847	NP
 NP
-VP
-NP
-262832	NP
-262834	NP
+262853	NP
+262855	NP
 PP
 NP
 NP
-NP
-262840	NP
-NP
-262848	NP
 PP
+262865	NP
+NP
+262869	PP
+NP
+NP
+262879	NP
 PP
 NP
-262861	PP
-262869	NP
-262872	PP
-NP
-NP
-262878	NP
-262880	PP
-NP
-NP
-NP
-262886	NP
-262888	NP
-262891	NP
-NP
-262896	PP
-NP
-262900	PP
-NP
-262904	NP
-262906	NP
-262909	NP
-262911	NP
+262883	NP
+262897	PP
+262903	NP
+PP
+262911	PP
 262913	NP
 PP
 NP
-262919	NP
-262921	NP
-262923	NP
-PP
+NP
+262920	NP
+NP
+NP
+NP
 262929	NP
-262931	PP
 262934	NP
+NP
+NP
+262941	PP
+NP
+262947	NP
+262955	NP
+262957	NP
 PP
-262938	NP
-262946	PP
 NP
-262951	NP
-262953	PP
+262967	NP
+262973	NP
+PP
 NP
-262956	NP
-NP
-262959	NP
-262963	NP
-NP
-262967	PP
-NP
-262970	PP
-262973	PP
-NP
+PP
+262978	NP
 262980	PP
-262987	PP
 NP
-262990	NP
-262994	PP
 NP
-263004	PP
+NP
+262985	PP
+NP
+262992	PP
+262994	NP
+262998	PP
+263002	PP
 NP
 263008	PP
-NP
-263012	PP
-263016	NP
+263013	PP
+263015	NP
 263018	PP
-263021	NP
-263025	NP
 NP
-263029	NP
-NP
-NP
-NP
-NP
-263038	NP
-NP
-263041	PP
-263044	PP
-NP
-263047	VP
-NP
-NP
-NP
-263053	NP
-263056	NP
+263022	NP
+263024	NP
 PP
+263027	PP
+NP
+PP
+263031	NP
+263033	NP
+263036	NP
+263038	NP
+263044	PP
+263046	NP
+263048	PP
+PP
+NP
+NP
+263056	PP
 NP
 263061	NP
 NP
-263067	PP
-NP
+263068	PP
+263074	NP
+263077	NP
 263079	NP
 NP
 NP
-263086	PP
+263083	PP
+263085	PP
 NP
-263089	NP
-263091	NP
+NP
+NP
+263094	PP
+NP
+NP
 263098	PP
+263101	NP
+263106	NP
 NP
-263102	NP
-263106	PP
+263111	PP
 NP
-263109	NP
-263113	PP
-NP
-263116	PP
-263119	NP
-NP
-263122	PP
-263125	NP
-263128	PP
-NP
-263134	PP
-263137	NP
-263142	PP
-263148	PP
+263114	NP
+263121	PP
+263123	NP
 NP
 NP
-263156	NP
 NP
-263159	PP
-263161	PP
-263166	PP
+NP
+263131	PP
+263136	NP
+PP
+263139	PP
+NP
+263143	NP
+NP
+263147	NP
+NP
+PP
+263152	PP
+263156	PP
+263158	NP
 NP
 263171	PP
+PP
+NP
+263179	NP
 NP
 NP
-NP
-263178	NP
-263181	NP
-NP
+263185	PP
 NP
 PP
-263192	NP
+263190	NP
 NP
-NP
-263197	PP
-NP
-263200	PP
-NP
-263203	PP
-NP
-NP
-NP
+263193	NP
+263195	PP
+PP
+263209	PP
 263212	NP
+NP
+263215	NP
+NP
+NP
+263219	PP
+263221	NP
 PP
 NP
-263216	PP
-263218	NP
+NP
+263229	PP
+NP
+NP
+263239	AdvP
+263246	AdvP
+263252	NP
+NP
+NP
+NP
+263257	NP
+263261	NP
+NP
+263269	NP
+263271	NP
+263274	NP
+263287	NP
+263289	NP
+NP
+NP
+NP
+263299	NP
 PP
-263221	PP
+NP
+263304	NP
+263306	PP
+263309	NP
 NP
 NP
-263227	PP
-NP
-263230	NP
-263232	NP
-263234	NP
-NP
-NP
-263240	NP
-263242	NP
-263244	PP
-NP
-NP
-263248	PP
-PP
-263252	PP
-NP
-NP
-263258	PP
-NP
-NP
-263262	NP
-NP
-263267	NP
-NP
-NP
-NP
-263272	NP
-263274	PP
-263276	NP
-NP
-NP
-NP
-NP
-NP
-263285	NP
-263289	VP
-263291	NP
-NP
-NP
-NP
-263298	NP
-NP
-NP
-263303	NP
-263306	NP
 263314	NP
 PP
-PP
-263318	NP
+263317	NP
+263319	PP
 NP
-NP
-263324	PP
+263322	NP
+263325	NP
+263327	NP
 263329	PP
+263331	NP
+263334	PP
 NP
 NP
-263336	NP
-263340	NP
-263344	PP
-NP
-263348	NP
-NP
-NP
-NP
-263356	NP
-NP
-NP
-263360	NP
-263363	NP
-263365	PP
-263368	NP
-NP
-263372	NP
-NP
-263375	PP
-NP
-NP
-NP
-263385	NP
 PP
 NP
-263389	NP
-263392	PP
-263395	PP
-263401	NP
-263405	PP
+PP
+263342	NP
+263344	NP
+NP
+263347	PP
+NP
+PP
+263351	NP
+PP
+PP
+NP
+PP
+NP
+263359	NP
+NP
+PP
+263365	PP
+NP
+PP
 NP
 NP
-263414	PP
+PP
 NP
+NP
+PP
+263375	NP
+NP
+263378	NP
+263381	PP
+263383	NP
+NP
+263388	PP
+263391	NP
+263398	NP
+NP
+PP
+263402	PP
+NP
+263405	NP
+NP
+263408	PP
+NP
+NP
+NP
+263414	NP
 263418	PP
 NP
 NP
-NP
-NP
-AdjP
 PP
 NP
 NP
-263431	NP
 NP
-263434	NP
 NP
-AdjP
-263439	NP
+263427	NP
+263430	PP
+NP
+NP
+263436	AdvP
+263438	PP
+NP
+NP
+NP
+263443	PP
+263450	NP
+263452	NP
+263454	PP
+263461	PP
+PP
+NP
 NP
 PP
 NP
-263447	PP
+263482	PP
+263485	PP
 NP
-NP
-NP
-NP
-263456	NP
-263458	NP
-NP
-NP
-NP
-NP
-263465	NP
-263471	PP
-263478	NP
+263488	NP
+263490	PP
 PP
-263482	NP
+263493	PP
+PP
 NP
 NP
-NP
+263507	NP
 NP
 PP
-263493	NP
 NP
-263496	NP
+263512	NP
+PP
+263518	NP
 NP
-263499	NP
-263510	NP
+263522	PP
+263524	NP
+263527	NP
+263530	NP
+263532	PP
+263535	PP
+PP
+263539	NP
+263541	PP
+263545	NP
+PP
+PP
 NP
-263514	NP
 NP
-263519	PP
+263553	NP
+PP
+263557	NP
 NP
-263523	NP
-263528	PP
 NP
-263533	NP
+263562	PP
 NP
-263536	NP
-NP
-263542	PP
-263547	PP
-NP
-263552	NP
-263554	VP
-263556	NP
-263558	NP
-263561	PP
-263563	PP
-263565	NP
+263568	NP
 263570	NP
-NP
-263574	NP
-263577	NP
-263583	NP
-263585	PP
-PP
 PP
 NP
-263591	NP
 NP
-263595	NP
+263576	NP
+263579	NP
 NP
-263599	NP
+263582	PP
+263590	NP
+263592	PP
+263598	PP
 NP
-263606	NP
 NP
+263603	NP
 NP
-263610	NP
 NP
 263613	NP
-263618	VP
-263623	NP
-263627	NP
 NP
-263632	NP
 NP
-263638	NP
 NP
 PP
-263642	PP
-263656	PP
 NP
 NP
-263665	PP
 NP
-NP
-263669	PP
-263674	PP
-NP
-NP
-263681	NP
+263628	NP
 PP
-263685	NP
-263687	NP
 NP
-263694	PP
+NP
+NP
+NP
+PP
+263636	NP
+NP
+PP
+263642	NP
+NP
+NP
+PP
+NP
+263650	NP
+PP
+263657	PP
+NP
+263660	PP
+263663	NP
+PP
+NP
+263667	NP
+263670	NP
+263672	NP
+NP
+PP
+NP
+PP
+263679	NP
+NP
+263682	NP
+NP
+NP
+NP
+263687	PP
+NP
+NP
+PP
+263693	PP
+NP
 263697	NP
 NP
 263702	NP
-263704	PP
 NP
-263708	NP
-263712	PP
+PP
+263711	NP
+263713	PP
+263716	NP
+PP
 NP
-263716	PP
-NP
-263720	PP
 263724	NP
+263729	NP
+NP
+263732	NP
 NP
 NP
-263730	NP
-263739	PP
-263743	PP
-NP
-NP
-NP
-PP
-263750	PP
-PP
-NP
-PP
-NP
-263757	NP
-PP
+263736	NP
+263752	NP
+263754	NP
+263756	PP
 263760	NP
+263763	NP
+263770	NP
 NP
 NP
-263767	NP
-263772	AdvP
-263775	NP
-PP
-263779	NP
+263774	PP
 PP
 NP
-263783	VP
-263786	NP
+263782	NP
+263784	NP
+263792	NP
 NP
-263790	PP
 NP
-263793	NP
-263795	NP
+263796	NP
+NP
+263799	NP
+NP
+263802	NP
+263804	NP
+263808	NP
+NP
+NP
 PP
-263798	PP
+263814	PP
+263816	NP
+263818	NP
+263820	NP
+263824	PP
 NP
-263801	PP
+263828	NP
 NP
-263809	NP
-263817	NP
-263819	NP
-PP
-263826	NP
-263829	PP
-263832	PP
-263837	NP
-263841	AdvP
-263845	PP
+263831	NP
+263835	PP
 NP
-263848	PP
 NP
+263840	PP
+NP
+NP
+263847	NP
+263849	PP
 263853	NP
-263856	VP
-263865	PP
-NP
-263870	PP
-263875	PP
-NP
-263879	PP
-263883	PP
-263886	NP
-263888	NP
-263894	PP
-NP
-263902	NP
+263856	NP
+263862	PP
 NP
 NP
-263906	PP
-PP
-263909	NP
-263911	PP
-263913	NP
+263868	NP
+263870	NP
+263877	NP
+263880	NP
+263882	NP
+263889	PP
+NP
+263900	PP
+263902	PP
+263906	NP
+NP
+263909	PP
+NP
+263912	NP
+NP
+263923	NP
+NP
+263926	NP
+263935	NP
 NP
 NP
-263919	PP
-263924	PP
-NP
-PP
-263928	PP
-NP
-263931	PP
-NP
-NP
-263936	NP
-PP
-NP
-263943	PP
-NP
-NP
-NP
-263948	NP
-263957	PP
-263961	NP
-NP
-PP
-263965	NP
-PP
-NP
-NP
-263974	NP
-263976	PP
-PP
-263984	NP
-NP
-NP
-PP
-263996	NP
-263998	NP
 AdjP
-264002	NP
-NP
-264005	NP
-264008	PP
-NP
-264011	NP
+PP
 NP
 NP
+263944	NP
 NP
+263948	PP
 NP
-264024	NP
+263955	PP
+263957	NP
+NP
 NP
 NP
 PP
-264030	NP
-264034	PP
 NP
 NP
+PP
+263978	PP
+263981	NP
+263986	PP
+NP
+263992	NP
+263994	NP
+NP
+PP
+NP
+NP
+264000	NP
+NP
+264003	NP
+264005	NP
+PP
+NP
+264023	NP
+264026	PP
+264028	PP
+NP
+NP
+NP
+NP
+264034	NP
+264036	NP
+NP
+PP
 264040	PP
 NP
-NP
-264048	NP
-NP
-NP
-NP
-264055	NP
-NP
-PP
-264059	NP
-NP
+264056	NP
+264058	NP
 NP
 264065	NP
 NP
 NP
-264070	PP
 NP
-NP
-NP
-264078	PP
-NP
-NP
+264070	NP
 NP
 PP
-264085	NP
-264087	PP
+264076	NP
 NP
-264094	NP
 PP
-264104	PP
-264106	NP
-264108	AdvP
-264111	NP
+NP
+264082	NP
+NP
+PP
+264087	NP
+264091	NP
+PP
+NP
+264097	NP
+264099	PP
+NP
+PP
+264104	NP
+PP
+NP
+264111	PP
 264113	NP
 NP
 NP
+264117	PP
+264119	PP
 NP
-264121	NP
+264124	NP
+NP
+NP
+264129	NP
+NP
+NP
+264133	PP
+NP
+264139	NP
+NP
+NP
+264148	NP
+NP
+NP
+NP
+NP
+264160	NP
+264162	NP
+264170	PP
+NP
+NP
+264175	PP
+264181	NP
+NP
+NP
+264189	NP
+264191	NP
+PP
+264199	NP
+NP
+264204	NP
+NP
+NP
 PP
 NP
-264125	NP
-264132	NP
 NP
-264136	PP
-264138	NP
-NP
-264150	NP
+264211	PP
 NP
 NP
-264165	NP
-NP
-PP
-NP
-264172	NP
-264176	PP
+264217	PP
+264232	NP
+264235	NP
 NP
 NP
-NP
-264184	PP
-NP
-264190	NP
-NP
-264196	PP
-NP
-264205	PP
-264208	PP
-NP
-AdvP
-264212	PP
-NP
-264215	PP
-264218	NP
-264220	PP
-264225	NP
-264231	PP
-264234	PP
-264237	NP
-VP
-NP
-264242	NP
-264245	NP
-264247	NP
-264249	PP
-NP
+264249	NP
 264253	PP
-264259	NP
-264265	PP
-264267	PP
+264271	NP
+264283	PP
+264286	NP
+264288	NP
+NP
+NP
+NP
+264293	NP
 PP
 NP
-264272	NP
-PP
-NP
-264280	PP
-NP
-264285	PP
-NP
-264289	NP
-264291	PP
-264293	PP
-264296	NP
-264298	NP
-PP
-AdvP
-264304	PP
-264307	PP
 NP
 NP
 NP
+264305	NP
 NP
-264313	PP
+264311	PP
 NP
-264316	PP
+NP
+264315	NP
 264320	NP
-264324	NP
-264326	NP
 PP
 NP
 NP
-264334	PP
-264337	NP
+264328	NP
+264330	NP
+PP
 NP
-NP
+264336	NP
 264341	NP
 NP
-264344	NP
-264348	NP
+NP
+264345	PP
+NP
+264349	NP
+PP
+PP
+264353	NP
+264357	PP
+NP
+264361	PP
+264363	NP
+264365	NP
 NP
 NP
+264369	PP
 NP
-264354	NP
+264372	PP
 NP
-264358	PP
-NP
-264362	PP
-NP
-264371	NP
-264375	PP
-264378	NP
-264384	NP
-NP
-264393	PP
-264396	PP
+264385	NP
 NP
 NP
+264390	NP
 NP
-264406	NP
+PP
+264394	NP
 NP
-NP
-264410	PP
-264412	NP
-NP
-264416	PP
-264419	NP
+PP
+264400	NP
+264404	PP
+PP
 NP
 NP
 PP
-PP
-264425	PP
-264427	NP
 NP
-264432	PP
+NP
+NP
+PP
+NP
+NP
+NP
+NP
+264418	PP
+NP
+NP
+NP
+PP
+NP
+NP
+NP
+NP
+PP
+NP
+NP
+PP
 264436	NP
-264440	NP
-PP
 PP
 NP
-264446	NP
+264442	NP
+264445	PP
+NP
+NP
 264451	PP
 NP
-264455	NP
-PP
+264458	PP
 NP
-PP
-NP
-NP
-264465	NP
-264471	NP
-NP
+264462	NP
+264464	NP
+264466	NP
+264470	NP
 264474	PP
+264477	PP
 NP
-264479	NP
+264482	PP
 NP
-264484	PP
-264486	NP
-264488	PP
-NP
+264495	NP
 NP
 PP
-NP
-NP
-264498	NP
-264500	NP
-264517	NP
-NP
-264521	PP
-264525	PP
+264501	PP
+264507	PP
+264510	NP
+264516	NP
+264520	PP
+264523	NP
+264526	PP
 264528	PP
-264531	NP
-264538	PP
+264533	PP
+264535	NP
+264537	NP
+NP
+PP
+264541	NP
 264543	NP
-264545	NP
-PP
+NP
+NP
 264548	NP
-NP
+264551	PP
+264554	NP
 264556	NP
-264562	NP
-264564	NP
+264558	NP
+264560	NP
+264564	AdvP
+264568	NP
 NP
+264572	PP
 NP
-264568	PP
-264571	PP
-NP
-264574	NP
-NP
-NP
-NP
-NP
-PP
-264581	PP
-NP
-NP
-NP
-264588	NP
-NP
-264591	NP
-NP
+264575	PP
 PP
 NP
-264597	PP
+264581	NP
 NP
+PP
+264588	PP
+264591	PP
+264593	PP
+264595	PP
+264598	NP
 264600	NP
 NP
-264604	PP
 NP
-264612	NP
+264604	NP
+NP
 PP
 NP
-264616	NP
+PP
+264611	NP
+NP
+264614	PP
+PP
 264618	NP
+264620	NP
+264623	PP
+264626	NP
+264628	NP
 NP
-264625	NP
-264627	PP
-NP
-264631	NP
 NP
 NP
-VP
-264636	NP
+NP
+PP
+264635	NP
+NP
+264639	PP
+264641	NP
+264643	NP
+264645	NP
+NP
+NP
+264651	PP
+NP
+264656	NP
 PP
+264661	NP
+264664	NP
 NP
+264676	PP
 PP
-264643	PP
+264679	PP
+PP
+264683	NP
+264685	NP
 NP
-264646	NP
-264649	NP
-NP
-264653	NP
-NP
-264657	NP
-264660	PP
-NP
-264665	NP
-264672	NP
-NP
-NP
-NP
-264682	PP
-264686	NP
 264688	NP
-264691	NP
-264694	NP
+PP
+NP
+NP
+264693	NP
+NP
+PP
+NP
 264700	NP
-264707	VP
-264710	NP
-264712	PP
 NP
-264719	NP
+264705	NP
+NP
+264709	PP
+264715	NP
+264720	PP
+264724	PP
 PP
-NP
-264725	PP
-NP
-264730	PP
-NP
-264735	PP
+264727	PP
+264730	NP
 NP
 PP
-NP
-NP
+264736	NP
 NP
 264743	NP
+264745	NP
+NP
+264752	NP
 NP
 NP
-264752	PP
+NP
+264757	PP
+264759	NP
 NP
 NP
-264756	NP
-264761	PP
+264764	NP
+264767	NP
 264771	NP
+264784	PP
+264788	PP
+264794	PP
 PP
-NP
-NP
-264778	PP
-NP
-NP
-NP
-NP
-NP
-264786	NP
-264790	NP
-NP
-NP
-NP
-AdjP
-264801	PP
-NP
+264802	PP
 264806	NP
-264808	PP
-NP
-264811	NP
-NP
-NP
-264817	NP
-264822	NP
-NP
 NP
 PP
-NP
-264830	NP
-264840	NP
-264842	PP
+264811	PP
 NP
 NP
-264847	PP
+264816	PP
 NP
+NP
+264821	PP
+264824	PP
 NP
 PP
+264829	NP
+NP
+264832	PP
 NP
 NP
-264854	PP
+264836	NP
+PP
+264839	NP
+NP
+PP
+264845	PP
 NP
 NP
 NP
 NP
-264860	NP
-264862	NP
-264866	NP
+264856	PP
 NP
-264869	PP
-264871	PP
+264861	NP
+264864	NP
+264867	NP
+264870	NP
 264875	NP
 NP
-264880	NP
+NP
+264879	PP
+NP
 NP
 PP
-NP
-264885	PP
-NP
+264884	NP
+264893	PP
 PP
-264890	NP
-264894	PP
+264898	PP
+264901	PP
 264903	NP
-PP
-264906	PP
+264911	NP
 NP
-264909	NP
-PP
-264913	PP
-NP
-264933	PP
-264936	NP
-264941	PP
-264943	NP
-264946	NP
-264948	NP
-264958	NP
-264961	PP
-264964	PP
-264968	PP
-NP
-264978	PP
-NP
-NP
-NP
-NP
-264984	PP
-264988	PP
-NP
-264991	NP
-NP
-AdjP
 PP
 NP
-264997	PP
+264922	PP
+264924	AdvP
+264928	PP
+NP
+NP
+264932	PP
+PP
+NP
+264940	NP
+PP
 NP
 NP
 NP
-265003	PP
-265012	NP
 NP
-265015	PP
-265019	NP
+264949	PP
+NP
+NP
+264958	PP
+NP
+PP
+264963	NP
+NP
+264966	PP
+264968	NP
+264971	PP
+264976	PP
+NP
+NP
+PP
+NP
+264983	PP
+NP
+NP
+AdvP
+PP
+NP
+NP
+264991	PP
+264996	PP
+265000	PP
+265010	NP
+265012	PP
+PP
+PP
+PP
+265018	PP
+NP
 NP
 NP
 NP
 265026	NP
-NP
 265030	NP
-265033	NP
+265032	NP
+NP
+265036	NP
+NP
+NP
+NP
+265043	NP
+NP
+NP
+265047	NP
+NP
 PP
-NP
-NP
-265039	NP
-265041	PP
-NP
+265051	NP
 265053	NP
 NP
-265056	NP
+265056	PP
 NP
-265062	PP
-265066	PP
+265061	PP
+265063	PP
 NP
-265070	PP
-265079	PP
+265066	NP
+265068	NP
+265071	PP
 PP
-265084	NP
+NP
+265075	PP
 NP
 PP
-265095	VP
+265080	NP
+NP
+NP
+NP
+265085	PP
+NP
+AdvP
+265089	NP
+NP
+NP
+265093	NP
+NP
+NP
 265097	PP
+265099	PP
+265101	NP
+265106	PP
 NP
-265100	PP
-265104	NP
+PP
 NP
+PP
+265112	PP
+PP
 NP
+PP
 NP
-NP
-VP
-265115	NP
+PP
 NP
 265121	PP
-265125	PP
-265132	PP
+NP
+NP
+NP
+NP
+265128	NP
+265130	PP
+PP
+NP
 NP
 NP
 265137	NP
+265143	NP
+265147	NP
+265149	NP
+265153	NP
+PP
 NP
-265141	PP
+265157	NP
+NP
+265160	PP
+PP
+NP
+PP
+265166	NP
+NP
+265172	NP
+265174	NP
+265180	NP
+265184	PP
+265190	PP
+265192	PP
 NP
 NP
-265154	NP
-265158	PP
+265199	PP
 NP
-265161	NP
-265164	PP
+PP
 NP
-265172	PP
-NP
-265181	NP
-265183	PP
+265207	PP
+PP
 NP
 NP
-265187	NP
 NP
-265195	NP
-265197	NP
-265203	NP
+265213	NP
+PP
 NP
-265210	NP
-265224	NP
+265221	NP
+NP
+NP
+NP
 265226	NP
 NP
+265231	NP
 NP
-265230	NP
-265240	PP
-265244	NP
 NP
-265255	VP
-AdvP
-265260	NP
-265263	PP
+265237	NP
 NP
-265270	NP
-265272	NP
 NP
-265276	NP
-265278	PP
+265243	NP
+265247	PP
+NP
+265253	PP
+265264	PP
+265274	NP
 265281	NP
-NP
-265287	NP
-NP
+265283	NP
 265290	NP
+265293	NP
+PP
+265301	NP
 PP
 NP
 NP
 NP
-265300	NP
-NP
-265303	NP
 PP
-265309	NP
+265308	NP
 NP
 265312	NP
-265316	PP
 NP
+NP
+NP
+265320	NP
+PP
+265323	PP
 265326	NP
 NP
 NP
-265332	NP
-265343	NP
 NP
-NP
-265351	NP
-265353	NP
-NP
-265357	NP
+265339	PP
+265341	PP
+265349	PP
+265351	PP
 265361	PP
-NP
-265368	NP
-PP
-265371	NP
+265368	PP
+265371	PP
+265374	NP
 265378	NP
 NP
-265383	NP
-265394	NP
-265397	NP
-265400	NP
+265382	PP
+265384	PP
+265386	NP
+265389	PP
+NP
+265392	NP
+265395	PP
 NP
 NP
 NP
 NP
+265403	NP
 NP
-265408	NP
-265410	PP
+265407	NP
+265409	NP
+PP
 NP
+265415	NP
 NP
-265420	NP
+265418	NP
+PP
+265422	NP
 265424	NP
 265427	NP
-PP
-265430	NP
-265434	PP
 NP
-265438	PP
+265432	PP
+265436	NP
+265438	NP
+265445	PP
 NP
+265449	NP
+265451	NP
 NP
-265442	NP
-265446	NP
-265452	NP
 PP
-PP
-265458	PP
-PP
+265455	NP
+265457	NP
+265459	NP
+265461	NP
+NP
+265464	NP
 265466	NP
-265472	PP
-265475	NP
-265478	AdjP
 NP
 NP
+PP
+265472	NP
+NP
+265482	NP
 265484	NP
-265486	NP
-265493	PP
-265496	NP
-265501	NP
+PP
+265488	NP
+265490	NP
+NP
+NP
+265500	NP
+265502	PP
+NP
+NP
+NP
+265510	NP
+265515	NP
+265520	NP
+265523	PP
+NP
+265530	NP
+265532	NP
+NP
+265535	NP
 PP
 NP
-265507	PP
-265512	NP
+NP
+NP
 PP
-265516	PP
-265525	NP
+265544	PP
+265548	NP
+265553	PP
+NP
+265556	NP
 NP
 NP
 NP
+PP
 NP
-265533	PP
-NP
-265536	NP
-265539	NP
+265563	PP
 NP
 NP
-265543	NP
+PP
+265568	NP
+265572	PP
 NP
-265546	PP
-NP
-265558	PP
-NP
-265562	NP
-265566	NP
-NP
-265569	PP
-265576	NP
-NP
-NP
+265575	PP
 265581	PP
-265592	NP
-265598	NP
-265600	PP
+265583	NP
+265585	NP
 NP
-265607	PP
+265590	NP
+265596	NP
+265601	PP
+NP
+265609	NP
 265616	NP
 PP
 NP
-AdjP
-265625	PP
+265620	PP
+NP
+PP
+265629	PP
 265634	NP
 NP
+265643	NP
+265645	NP
+NP
 PP
+PP
+265650	NP
+265654	PP
 NP
-265641	NP
-265648	PP
-265651	NP
-NP
-NP
-265656	NP
 265659	PP
-265661	NP
 265663	NP
+265667	NP
+265671	NP
+265681	NP
+265685	PP
+NP
+265692	PP
+265694	NP
 PP
 NP
+265700	NP
+265708	PP
+NP
+265735	NP
+265744	NP
+NP
+265747	PP
+265753	PP
+265757	PP
 NP
 NP
-265673	NP
-265675	PP
+265768	NP
+265795	NP
 NP
-265678	NP
-265680	NP
-NP
-NP
-NP
-265685	NP
-NP
-265688	PP
-NP
-265693	PP
-265695	PP
-NP
-265705	NP
-PP
-265710	PP
-NP
-NP
-265716	PP
-NP
-NP
-NP
-NP
-265722	NP
-AdjP
-265730	PP
-NP
-265735	PP
-265737	NP
-NP
-265740	PP
-PP
-NP
-265745	PP
-265749	NP
-265751	PP
-PP
-NP
-AdvP
-265757	NP
-265759	PP
-265761	PP
-NP
-265765	PP
-NP
-265769	NP
-NP
-265772	NP
-NP
-265779	PP
-NP
-265785	PP
-265790	NP
-NP
-NP
-265795	PP
-NP
-NP
-NP
-265801	PP
-265803	NP
+265798	PP
+265801	NP
 265805	NP
-PP
-NP
-265809	NP
+265807	NP
 265812	NP
-PP
-NP
-265820	NP
-265823	NP
-265825	PP
-265829	NP
-NP
-PP
-NP
-NP
-265837	NP
-PP
-NP
-265843	PP
-265851	NP
-NP
-265855	NP
-NP
-265860	NP
 NP
 NP
 PP
 NP
 NP
-265867	NP
+265821	NP
+PP
 NP
 NP
-265872	NP
-265878	PP
-265882	PP
+265826	NP
 NP
-265891	NP
 NP
-265899	NP
-265902	NP
-265904	PP
 NP
-265909	NP
+265833	PP
+265835	NP
 NP
+NP
+265839	PP
+NP
+NP
+NP
+265847	PP
+NP
+NP
+NP
+NP
+265853	NP
+PP
+265857	NP
+NP
+265862	NP
+NP
+265866	NP
+NP
+265869	NP
+NP
+265873	NP
+PP
+265876	NP
+265878	NP
+NP
+NP
+NP
+PP
+265886	PP
+NP
+NP
+265890	NP
+265892	NP
+265894	NP
+265896	NP
+NP
+PP
+265900	PP
+NP
+NP
+NP
+NP
+265907	PP
+NP
+NP
+265911	PP
 265913	NP
 PP
-265924	NP
-PP
-265929	PP
-265932	PP
+NP
+265917	NP
+NP
+NP
+265921	PP
+265924	PP
+265927	PP
+265930	PP
+265932	NP
 NP
 265936	PP
-265939	NP
-265942	PP
 NP
-265945	PP
 NP
-265951	PP
-265960	PP
+265940	NP
+265942	NP
 NP
-265967	NP
+265945	NP
+265947	NP
 NP
-265970	NP
+265954	NP
 NP
-PP
 NP
-265975	PP
+265958	PP
 NP
-265978	NP
-265980	PP
+265961	NP
 NP
+265969	PP
+265979	PP
+265981	PP
 265983	NP
+265985	PP
+265989	NP
+265999	PP
 NP
-265986	NP
-265991	PP
+266003	PP
 NP
-265994	NP
-265996	PP
+266007	PP
+266010	NP
 NP
-265999	NP
+266013	NP
 PP
-PP
-NP
-266006	PP
-NP
-NP
-266012	PP
 266016	PP
+266018	PP
+266021	NP
+NP
+NP
 NP
 PP
-266020	PP
-266022	NP
-266024	NP
+NP
+NP
+266029	NP
 PP
+266037	NP
+PP
+266043	PP
+266050	NP
 NP
-266029	PP
-266034	PP
-266036	NP
-266038	NP
-266042	PP
 NP
-266045	PP
-NP
-266049	PP
-266051	PP
-NP
-266056	PP
+266057	NP
 266060	NP
-266063	NP
-PP
-NP
-266068	NP
+266065	NP
+266067	PP
 266071	NP
 PP
-266074	NP
-266081	NP
+266075	NP
+NP
+NP
+266079	NP
+NP
 266083	NP
+266087	NP
 NP
-266087	PP
-266089	NP
-266091	NP
+266090	NP
+266102	NP
+NP
+NP
+NP
+PP
+NP
+NP
+266111	PP
+NP
+266114	NP
+NP
+NP
+NP
+NP
+NP
+NP
+266123	NP
+266125	NP
+266129	PP
+266131	PP
+266133	NP
+NP
+NP
+266137	PP
+NP
+NP
+NP
 PP
 NP
 NP
 NP
-266099	NP
-266103	PP
 NP
 NP
-PP
-266110	PP
-266113	NP
-266117	NP
-266134	PP
 NP
-266147	NP
+NP
 266152	NP
 NP
-266155	NP
-266160	NP
+266156	PP
+NP
+266162	NP
+NP
+NP
+NP
+NP
+NP
+266170	NP
 PP
-NP
-266164	PP
-PP
-266169	NP
-266171	NP
+266175	NP
 NP
 NP
-PP
-NP
-266181	PP
-266184	PP
-266189	PP
 NP
 NP
-266196	NP
-PP
-266201	PP
-266203	NP
-266205	NP
-PP
-266211	PP
+266182	NP
+266200	PP
+266204	NP
 NP
-266217	PP
+266207	NP
 NP
-AdjP
-AdjP
-266223	PP
-AdvP
-266226	PP
+266218	NP
 NP
-266229	NP
-266236	NP
+266221	NP
+266224	NP
+266227	NP
 NP
-PP
+NP
+266231	PP
+266233	PP
 266240	NP
-266247	NP
-266251	PP
+266243	PP
+PP
+266252	NP
 NP
 NP
 NP
-266256	PP
 NP
-266259	PP
-266262	NP
-266265	NP
-266269	NP
-266272	PP
-266275	PP
-266277	PP
-266280	NP
-VP
+PP
+266261	PP
+NP
+266284	PP
+266286	NP
+PP
+266289	PP
+266291	NP
+NP
+266296	PP
+NP
+266302	PP
 PP
 NP
+266309	PP
 NP
-266292	NP
-266300	NP
-AdjP
-266322	NP
-266324	PP
+266325	PP
 NP
-266329	PP
-266331	NP
-266334	NP
-266337	PP
-266339	NP
-266342	NP
-266345	NP
 NP
-266348	NP
-PP
+266331	PP
+266336	PP
 NP
-266352	NP
+NP
+NP
+266352	PP
 266354	NP
-266356	PP
-PP
-266360	PP
-266362	NP
-266364	NP
 NP
+266357	PP
+266359	NP
+266361	PP
 NP
-266368	PP
-266370	PP
-266378	NP
-266382	PP
-266384	NP
+266364	PP
+266387	NP
 NP
-266388	PP
-NP
+266392	PP
 266394	NP
-266396	AdvP
-266398	PP
-NP
-266402	NP
-PP
-266405	NP
 NP
 NP
-266413	NP
-266415	PP
-NP
-NP
-266419	PP
-266421	PP
-NP
-NP
-266427	NP
-266432	NP
 NP
 PP
-266438	PP
-266441	PP
+266401	NP
 NP
-266447	PP
+266406	PP
+266411	NP
+NP
+PP
+NP
+266421	NP
+NP
+NP
+266428	NP
+PP
+NP
+PP
+266434	NP
 NP
 NP
 NP
-266454	PP
-266458	PP
-266461	PP
 NP
-266464	NP
+PP
+266445	NP
+266447	NP
+266449	NP
+266451	NP
+266453	NP
+266455	NP
+266457	NP
+266459	PP
+266461	NP
 NP
-266471	AdvP
-266474	NP
+PP
+NP
+NP
+266467	PP
+266469	PP
+NP
 266476	NP
-PP
 NP
-266481	PP
 NP
-PP
-266486	NP
+266482	NP
 NP
 PP
-NP
-266492	NP
-266494	NP
-266497	NP
-266499	NP
+266490	NP
+266494	PP
+266502	NP
 NP
 NP
-266505	PP
+266506	NP
+NP
+266509	NP
 NP
 NP
+266513	PP
+NP
+266516	NP
+266519	PP
 NP
 NP
-266512	PP
-266524	NP
-AdjP
-266528	NP
+266525	NP
 266531	NP
-266534	PP
-NP
+PP
 266537	NP
-266543	PP
-266545	PP
-PP
-266548	NP
-266560	NP
 NP
+266547	NP
+266551	NP
 NP
 PP
-266567	PP
 NP
-266572	PP
-266575	NP
-266577	NP
+NP
+266558	PP
+266560	PP
+266565	NP
+266567	NP
+266571	NP
+266573	NP
 266580	PP
 NP
-266584	PP
-266588	PP
-266593	NP
-266596	NP
+266584	NP
+266603	NP
+NP
+266608	NP
+NP
+266612	PP
+NP
+266619	PP
 NP
 NP
-PP
-266607	NP
-266610	NP
-NP
-PP
-PP
-266615	PP
-NP
+266625	NP
 NP
 PP
-266621	NP
-266629	PP
 NP
 NP
-NP
-NP
-NP
-266639	PP
-NP
+266645	NP
+266647	NP
+266650	NP
+266655	NP
+266657	NP
+266665	NP
 NP
 NP
 PP
 NP
 NP
-266647	PP
-NP
-266651	PP
-NP
-NP
-PP
-266659	PP
-NP
-266662	PP
-266667	PP
-266669	NP
-266677	PP
-NP
-NP
-NP
-266682	NP
-266687	PP
+266675	PP
+266678	PP
+266683	NP
+266686	NP
 266689	NP
-266691	NP
-266693	PP
-266695	NP
 NP
-PP
-NP
-266706	PP
+266692	PP
 NP
 NP
-266719	PP
-PP
-PP
 NP
+266697	PP
+266701	NP
 NP
-266725	PP
-266727	PP
-NP
-PP
-266731	NP
 NP
 NP
 PP
+266709	NP
+266712	PP
+266717	PP
+PP
+266720	PP
+PP
+266723	PP
+PP
+NP
+266729	NP
+NP
+NP
 NP
 266739	PP
 NP
-NP
-NP
-266746	PP
-266748	NP
-266751	PP
+266746	NP
+266750	NP
 NP
 266756	PP
 NP
-266765	PP
-266773	NP
-266785	PP
+266761	NP
+NP
 NP
 NP
 PP
-266795	NP
-266806	PP
+266767	NP
 NP
-266809	PP
 NP
+NP
+266778	PP
+NP
+266787	NP
+266792	PP
+266796	PP
+266811	NP
 PP
 266816	NP
-266818	PP
 PP
-266822	NP
+266821	PP
+266824	PP
+266827	PP
+266830	NP
 NP
 NP
-PP
-NP
-266829	NP
-266831	NP
-PP
-266834	NP
-PP
-266840	NP
-NP
-266843	NP
-NP
-PP
-266848	NP
-266850	NP
+266837	PP
+266839	NP
+266841	NP
+266844	PP
+266849	NP
+266851	NP
 NP
 NP
-266854	NP
-266859	PP
+266855	NP
 NP
 NP
-AdjP
-NP
-266865	PP
-266869	PP
-NP
-266873	NP
-266876	NP
 PP
 NP
 PP
+PP
+266867	NP
+266871	PP
+266875	NP
 NP
 NP
-266887	PP
-266891	NP
-266897	NP
-266899	PP
-NP
-266904	NP
-266907	NP
-266912	NP
+266879	NP
+266882	NP
 NP
 NP
-266918	NP
+266887	NP
+266890	PP
 NP
-266921	PP
-266923	NP
-266928	NP
-266930	NP
+266898	NP
+NP
+PP
+NP
+NP
+266905	PP
+NP
+266908	NP
+PP
+266914	PP
+NP
+NP
+266920	PP
+NP
+266930	PP
+NP
 266935	PP
+266942	PP
 NP
-PP
-266950	VP
-PP
-266954	NP
-266958	NP
-266960	PP
-NP
-PP
-266968	NP
-266971	NP
-266973	PP
-266975	PP
-AdvP
-266978	NP
-NP
-266985	NP
-266987	PP
+266946	PP
 NP
 NP
+266950	PP
+NP
+NP
+266955	NP
+266957	NP
+NP
+266966	PP
+NP
+NP
+266972	PP
+NP
+NP
+266976	NP
+266979	PP
+266985	PP
+266989	PP
 266992	NP
-266994	NP
 NP
-267003	PP
+266995	PP
+267002	NP
 267006	NP
-AdjP
-267010	NP
+267008	NP
+267011	PP
 NP
-267014	NP
-267018	NP
+267015	NP
+267019	NP
 NP
-267029	PP
+267025	PP
+267038	PP
+267050	NP
 NP
-267032	NP
-267035	NP
+267058	NP
+267065	NP
+NP
+267069	NP
+PP
+NP
+267073	PP
+NP
+267080	PP
+NP
+NP
+267084	NP
+NP
+267087	PP
 NP
 NP
 NP
-267041	NP
-267044	NP
 NP
-267048	PP
 NP
+267105	PP
 NP
 PP
 NP
-267055	PP
+267127	PP
+267129	NP
+267131	NP
 NP
+267134	NP
 NP
-267060	PP
-267063	NP
-NP
-267067	PP
-NP
-267075	NP
 PP
 NP
-267080	NP
-267082	NP
-PP
-NP
-267088	PP
+267145	NP
 NP
 NP
-267093	NP
+267150	NP
+267154	PP
 NP
 NP
-267097	PP
 NP
-267101	PP
-PP
-NP
-267109	PP
-NP
-267114	NP
-267116	NP
-PP
-267123	PP
-NP
-NP
-267127	NP
-PP
-267130	NP
-267137	NP
-PP
-NP
-NP
-267144	NP
-267151	PP
-NP
-267154	NP
-AdvP
-NP
-267158	NP
 267160	NP
+267162	NP
 NP
+267169	PP
+267172	NP
+267175	NP
+PP
 NP
-267165	NP
+267179	NP
 NP
-267168	NP
-267170	NP
-267174	PP
-267178	NP
-267180	PP
+267182	NP
 NP
-267188	PP
-267190	NP
+267191	NP
 NP
-NP
-267194	PP
-267196	PP
+267197	NP
 267201	NP
 267206	NP
+267209	PP
 PP
-AdjP
-267211	PP
 NP
-267217	NP
-267222	NP
-267225	NP
 NP
+267214	PP
+NP
+267221	PP
+267223	NP
 267235	NP
-267241	NP
-267245	PP
+267239	NP
+267246	NP
+267248	NP
+267250	NP
 NP
-267249	NP
-267256	AdvP
-267260	NP
-267262	NP
+267255	NP
 NP
+267259	PP
+NP
+NP
+267267	NP
 NP
 267270	PP
+267272	PP
+267274	PP
+267276	PP
 NP
+267279	NP
 NP
-267274	AdjP
-267278	NP
-NP
-267282	NP
-267287	NP
-PP
-NP
-267294	NP
-267299	PP
-NP
-267303	NP
-NP
-267306	NP
-267308	AdvP
-267312	NP
-267316	PP
-PP
-NP
-267322	NP
-NP
-NP
-NP
-267343	NP
-NP
-267346	PP
-267352	NP
-267356	PP
-NP
-267360	PP
-NP
-267368	NP
-267372	PP
+267284	NP
 NP
 PP
+267297	NP
 NP
 NP
-267378	NP
-267380	NP
+NP
+PP
+267307	NP
+NP
+NP
+267311	NP
+NP
+NP
+AdvP
+NP
+NP
+267320	NP
+PP
+267326	NP
+NP
+NP
+267332	NP
+NP
+267336	NP
+PP
+267340	NP
+NP
+NP
+267344	NP
+267348	PP
+267351	NP
+267353	NP
+NP
+267357	NP
+267359	NP
+NP
+267365	NP
+NP
+267374	PP
+267376	NP
+NP
+NP
+NP
+NP
+NP
 267385	NP
-267393	NP
-267398	PP
+267392	NP
+267395	NP
+267408	NP
+267412	NP
+267421	NP
 NP
-267401	PP
-267403	NP
-267407	NP
-267411	PP
 NP
-267415	NP
 PP
-NP
-267420	PP
-267425	NP
-NP
-267428	NP
-267433	PP
-NP
+267432	NP
+267435	PP
+267439	PP
 267441	NP
+267444	NP
+267446	NP
+267453	NP
+267458	NP
+267466	PP
 NP
 NP
-NP
-267449	PP
-267456	NP
-267461	NP
-267475	PP
-NP
-NP
-267479	NP
-NP
-267482	PP
-NP
-267492	NP
 PP
+267472	PP
+267474	PP
+AdvP
+NP
+NP
+PP
+267480	NP
+NP
+267488	NP
+NP
+267493	PP
+267497	PP
+NP
+267500	PP
 267502	NP
-267507	NP
 NP
+NP
+267508	NP
+267514	PP
+267518	PP
+267522	NP
 NP
 PP
+267527	NP
 NP
-267516	NP
-267518	NP
-PP
-NP
-267525	NP
-267528	NP
-NP
+267530	PP
+267532	NP
 267534	PP
-267538	NP
-267540	NP
-267543	PP
+PP
+267537	NP
+267539	PP
 NP
-267547	NP
+267544	NP
+267546	NP
 NP
 NP
-267552	NP
-267555	PP
-NP
-267559	PP
+267555	NP
+267559	NP
 NP
 267562	NP
-267564	NP
-267569	NP
-267572	PP
+267565	NP
+NP
+267568	NP
+267573	NP
+NP
+PP
+267577	NP
+267580	NP
+NP
+267587	NP
+NP
+267591	NP
+NP
+267596	NP
+267599	NP
+267611	PP
+267613	PP
+267615	PP
+NP
+267618	NP
+PP
+NP
+267626	PP
 NP
 NP
 NP
-267579	NP
-267585	NP
-267589	NP
-267592	NP
-267599	PP
+267631	NP
 NP
-267604	NP
-267607	PP
-267610	PP
+NP
+NP
+NP
+267637	AdjP
+NP
+NP
+NP
+NP
+267645	NP
+NP
+267649	NP
 NP
 NP
 PP
-NP
-267620	PP
-NP
-267628	NP
-267630	NP
-267633	NP
-NP
-267642	NP
-PP
-NP
-267647	PP
-NP
-267651	NP
+267656	NP
 NP
 NP
-267656	PP
 NP
-267659	PP
 NP
-267663	NP
-NP
+267666	PP
 267668	NP
-267670	NP
+267671	NP
+267673	PP
+267676	PP
+267682	PP
+267686	NP
+267688	NP
+267692	PP
+NP
+NP
+267696	NP
+NP
+267700	NP
+NP
+267704	NP
+NP
+267707	PP
+NP
+267710	PP
+NP
+267715	NP
 PP
+267718	NP
+267725	PP
 NP
 NP
+NP
+267732	PP
+NP
+267736	PP
+NP
+267740	PP
+NP
+267743	PP
+267745	PP
+267747	PP
+NP
+267752	NP
+267754	NP
+267756	NP
 PP
-267679	NP
-NP
-267683	PP
-NP
-NP
-267693	NP
-PP
-NP
-267697	NP
-267708	PP
-267714	NP
-PP
-267722	PP
-267724	NP
-PP
-NP
-NP
-267730	NP
-NP
-NP
-NP
-267739	NP
-267745	NP
-NP
-NP
-267751	PP
-NP
-267757	NP
+267759	NP
+267762	NP
 267765	NP
+267767	NP
+267769	NP
+267771	NP
+267773	NP
+267775	NP
 NP
+NP
+267779	NP
+267790	PP
+267793	PP
+267795	NP
 PP
-NP
-267776	NP
-267782	NP
-PP
-NP
-PP
-267787	NP
-267789	PP
-NP
-NP
-NP
-267794	PP
-NP
-267800	PP
+267799	NP
 267802	NP
-267806	PP
-267808	PP
-NP
+267807	PP
+267810	PP
 267814	PP
-267819	PP
-267821	NP
-267824	PP
 NP
-267828	NP
+267818	NP
+PP
+PP
+NP
 267830	NP
-PP
-267833	PP
+267844	NP
 NP
-PP
-NP
-267838	NP
-267841	NP
-267843	NP
-267849	PP
-267851	NP
-267853	PP
-PP
+267855	NP
+267857	PP
 NP
 NP
-267861	PP
+267863	PP
 NP
-267866	NP
-NP
-267872	PP
-267876	NP
-267878	NP
-267880	NP
+267867	PP
 NP
 NP
+NP
+NP
+267881	PP
 267884	PP
-267886	PP
+VP
+267889	NP
 NP
 NP
 NP
-267895	PP
+267899	NP
+267904	NP
 NP
-NP
-267899	PP
-267902	NP
 267907	NP
+267912	NP
+267914	NP
+267919	PP
 NP
-267912	PP
+267924	PP
 NP
-267915	NP
-267921	PP
-267923	NP
+267928	NP
+267931	AdvP
+267933	NP
+267936	NP
+267940	PP
 NP
-NP
-NP
-NP
-267931	PP
-267935	NP
-PP
-267938	PP
-NP
-267942	NP
-NP
-267945	NP
-NP
-PP
-267950	PP
-267954	PP
-267956	NP
-NP
-267969	PP
+267947	PP
 PP
 NP
-267976	NP
+267951	PP
+PP
+NP
+267955	PP
+267957	NP
+267959	NP
+267962	PP
+NP
+267968	NP
+267970	NP
 NP
 NP
-267982	PP
+NP
+NP
+NP
+NP
+NP
+NP
+NP
+NP
+NP
+267991	NP
+268007	NP
 NP
 PP
-267986	NP
-NP
-267989	NP
-PP
-PP
-268003	PP
-268006	NP
-NP
-268009	NP
 NP
 NP
 268013	PP
+268015	NP
 NP
-PP
+268019	NP
 NP
+268024	NP
+268026	NP
+268029	NP
+268031	NP
+268035	PP
+268040	NP
 NP
-268020	PP
-NP
-NP
-268028	AdvP
-268034	AdvP
-268038	NP
-NP
-NP
-NP
-268043	NP
-268047	NP
-NP
-268053	NP
-268055	NP
-268058	NP
-268070	NP
-268072	NP
+268046	NP
+268048	NP
+268054	NP
 NP
 NP
-NP
-268081	NP
-PP
-NP
-268086	NP
-268088	PP
-268090	NP
+268059	NP
 NP
 NP
-268095	NP
-PP
+268063	PP
+268079	NP
+268082	NP
 NP
-PP
+268086	PP
+268089	NP
+268092	PP
 NP
-268101	NP
-NP
-NP
-268105	PP
-NP
-268109	PP
-NP
-NP
-PP
-NP
-PP
+268117	NP
+268125	NP
 NP
 NP
-NP
-268119	PP
-NP
-PP
-268123	NP
-PP
-PP
-NP
-PP
+268135	NP
+268144	PP
+268148	NP
+268150	PP
 NP
 NP
-NP
-PP
-268134	PP
-NP
-PP
-NP
-NP
-PP
-NP
-NP
-PP
-268144	NP
-NP
-NP
-268148	PP
-NP
-NP
-268153	PP
-NP
-268159	NP
-NP
-PP
-PP
-NP
+268155	NP
 268165	NP
+268175	NP
+268177	NP
+268191	NP
+268197	NP
+268207	NP
+268209	PP
+268224	NP
 NP
-268168	PP
+268227	NP
+268230	NP
+NP
+268235	NP
 NP
 NP
-NP
-268174	NP
-268177	PP
-NP
-NP
+268248	NP
+268250	NP
+268252	NP
+268255	NP
 PP
-NP
-NP
-NP
-NP
-268186	NP
-268189	PP
-NP
-NP
-268195	AdvP
-268197	PP
-NP
-NP
-NP
-268202	PP
-268208	NP
-268210	NP
-268212	PP
-268219	PP
-PP
-NP
-NP
-PP
-NP
-268237	PP
-268240	PP
-NP
-268243	NP
-268245	PP
-PP
-268248	PP
-PP
-NP
-NP
 268259	NP
-NP
-PP
-NP
-NP
-PP
-268269	NP
-NP
-268273	PP
-NP
-268276	NP
-268279	NP
+268271	NP
+268275	PP
 268281	PP
-268283	PP
-PP
-268287	NP
-268289	PP
-268293	NP
-PP
-PP
+268291	PP
 NP
 NP
+268296	PP
 268299	NP
-PP
-268303	NP
+NP
+268303	PP
+268309	NP
+NP
+268314	NP
 NP
 NP
-268308	PP
-NP
-268313	NP
-268315	NP
-PP
-NP
-NP
-268321	NP
 268323	NP
+PP
 NP
-268326	PP
+268328	PP
+268330	NP
 268332	NP
-268334	PP
-268339	PP
+268335	NP
+268339	NP
+NP
+268343	NP
+268345	NP
+NP
+PP
+268349	PP
+268351	NP
 NP
 NP
-268344	NP
+268361	NP
+PP
+268372	PP
 NP
 NP
-268353	NP
+268380	PP
+268382	PP
+NP
+268388	PP
+268400	PP
+NP
+268405	PP
+268411	NP
+268413	NP
 NP
 NP
+268421	NP
+NP
+268424	PP
 NP
 PP
 NP
+268429	NP
+268436	NP
 NP
-NP
-268367	NP
-PP
-NP
-NP
-NP
-NP
-PP
-268375	NP
-NP
-PP
-268380	NP
-NP
-NP
-PP
-NP
-268387	NP
-PP
-268393	PP
-NP
-268396	PP
-268399	NP
-PP
-NP
-NP
-268405	NP
-268407	NP
-NP
-PP
-NP
-PP
-268414	NP
-NP
-268417	NP
-NP
-NP
-NP
-268422	PP
-NP
-NP
-PP
-268427	PP
-NP
-268431	NP
-NP
-268435	NP
-NP
-PP
-268443	NP
+268441	PP
 268445	PP
-268448	NP
+NP
+NP
+268451	PP
+NP
+268454	PP
+NP
+NP
+NP
+NP
+268461	NP
+268463	NP
+268465	NP
+268467	NP
+268470	NP
+268472	PP
 PP
+268477	PP
 NP
-268455	NP
-268457	NP
-NP
-268460	NP
-NP
-NP
-268464	NP
 268480	NP
 NP
-268483	PP
-268487	NP
-268490	NP
-268497	NP
+268485	NP
+NP
+268493	NP
+NP
+268497	PP
 NP
 NP
-268501	PP
+268503	NP
+268505	PP
+NP
 PP
-NP
 268509	NP
-268511	NP
-268518	NP
-NP
-NP
-268522	NP
 NP
 NP
 NP
-268527	NP
-268529	NP
-268533	NP
+268514	PP
+268516	NP
+268520	PP
+268523	PP
+268525	NP
+NP
+268533	PP
 NP
 NP
-PP
-268539	PP
-268541	NP
-NP
-268544	NP
-268548	PP
-NP
-268551	NP
+268540	NP
 NP
 NP
-268557	PP
+268546	NP
+NP
+268554	NP
 NP
 NP
-268561	PP
 NP
-NP
+268562	PP
+268565	NP
 268567	NP
-268569	PP
-268572	NP
-268575	NP
-268578	PP
+NP
+268571	NP
+268574	PP
+268576	PP
+268579	PP
+NP
+PP
 NP
 NP
-268582	NP
+268586	NP
 NP
-268589	NP
+NP
+PP
 268591	NP
+268596	NP
 NP
-268599	PP
-NP
-268610	PP
-268612	PP
-268615	NP
-NP
-268618	PP
-NP
-268621	NP
-NP
-268630	NP
-NP
-268633	NP
-268642	NP
-NP
-NP
-AdjP
-PP
-NP
-NP
-268650	NP
-NP
-268653	PP
-NP
-268659	PP
-268661	NP
-NP
-NP
+268599	NP
+268605	PP
+268609	PP
+268611	NP
+268614	PP
 NP
 PP
+268619	NP
+268621	PP
 NP
+268624	NP
+NP
+NP
+268629	NP
+NP
+NP
+268634	PP
+NP
+268639	NP
 NP
 PP
-268679	PP
-268682	NP
-268687	PP
-NP
-268692	NP
-268694	NP
-NP
+268643	NP
 PP
 NP
-NP
-268700	NP
-NP
-NP
-268704	NP
+268649	NP
+268655	PP
 PP
 NP
-268722	NP
-268725	PP
+268661	PP
+NP
+268665	PP
+NP
+NP
+268671	PP
+268673	PP
+PP
+NP
+268677	NP
+NP
+NP
+268684	NP
+268690	PP
+NP
+268701	PP
+268710	NP
+268712	PP
+268720	PP
+NP
+NP
 268727	PP
-NP
-NP
-NP
-NP
-268733	NP
-268735	NP
-NP
 PP
-268739	PP
 NP
-268752	NP
+268732	PP
+NP
+268741	PP
+268747	PP
+268752	PP
 268754	NP
-NP
-268760	NP
-NP
+268759	NP
+268761	PP
 NP
 NP
 268765	NP
 NP
 PP
-268771	NP
+268777	NP
 NP
-PP
-NP
-268776	NP
-NP
-PP
 268780	NP
-268782	NP
-PP
+268783	PP
 NP
-268788	NP
-PP
-NP
-PP
 268794	NP
+NP
+268797	PP
+PP
+268803	PP
 PP
 NP
-268801	PP
 NP
+268813	PP
+268815	NP
+NP
+268819	PP
+NP
+NP
+NP
+268825	PP
+NP
+PP
+PP
+NP
+268832	PP
+NP
+268835	PP
+NP
+268839	NP
 NP
 NP
 PP
-268807	PP
-NP
-268811	NP
-NP
-NP
-268816	NP
-NP
-NP
-268820	PP
-NP
-268826	NP
-NP
-NP
-268834	NP
-NP
-NP
-NP
-NP
 268844	NP
-268846	NP
-268853	PP
-NP
-NP
-268858	PP
-268863	NP
-NP
-NP
-268870	NP
-268872	NP
+268847	PP
+268849	PP
 PP
-268880	NP
 NP
-268884	NP
-NP
+268854	NP
+268856	NP
 NP
 PP
 NP
+268866	NP
 NP
-268891	PP
+268869	NP
+268871	NP
 NP
-NP
-268897	PP
-268911	NP
-268914	NP
-NP
-NP
-268926	NP
-268929	PP
-268945	NP
-268956	PP
-NP
-268959	NP
+PP
+268878	PP
 NP
 NP
+268884	PP
+268890	NP
+268892	NP
+268896	NP
+268904	NP
 NP
-268964	NP
+NP
+PP
+268910	PP
+NP
+NP
+NP
+NP
+268918	NP
+268921	NP
+NP
+NP
+NP
+NP
+268927	NP
+NP
 PP
 NP
+268934	NP
+NP
+268938	NP
 NP
 NP
+PP
+268947	PP
+268954	NP
+268956	NP
+268958	NP
+268962	PP
 NP
-268973	NP
+268965	PP
+PP
+268968	PP
+268971	NP
 NP
-268978	PP
+NP
+PP
+268978	NP
 NP
 NP
-268982	NP
-268987	NP
+PP
+268984	NP
+NP
+268988	NP
+NP
+PP
+268992	NP
 PP
 NP
-NP
-268995	NP
 268997	NP
+NP
+269001	NP
 PP
 NP
-269002	NP
-269007	NP
-NP
-NP
+269005	PP
 269011	PP
-NP
 269015	NP
-PP
-PP
-269019	NP
-269022	PP
-NP
-269026	PP
-NP
-269029	NP
-NP
-NP
-269033	PP
+269019	PP
+269023	NP
 NP
 PP
+269027	NP
 NP
-269047	NP
+269035	NP
 NP
+PP
+269046	NP
 NP
-269052	NP
+269050	NP
 NP
 PP
 NP
+269056	PP
 NP
-PP
 269060	NP
-269062	PP
+NP
+NP
+NP
+269070	NP
+269072	NP
 PP
 NP
+269082	PP
+269085	NP
+269088	NP
 NP
-PP
-NP
-NP
-NP
-PP
-NP
-NP
-NP
-NP
-269076	PP
-NP
-NP
-NP
-PP
-NP
-NP
-NP
-NP
-PP
-NP
-NP
-PP
 269093	NP
+NP
+269096	PP
+NP
+269101	NP
+NP
+NP
+NP
+269106	NP
+PP
+269110	PP
+269119	PP
+NP
+269123	PP
+NP
+NP
+269127	NP
+NP
+269130	NP
 PP
 NP
-269098	NP
-269100	PP
+NP
+PP
 NP
 NP
-269105	PP
+269138	NP
 NP
-269112	PP
-NP
-269116	NP
-269118	NP
-NP
-269122	NP
-269126	PP
-269129	PP
-NP
-269134	PP
-NP
+PP
 269145	NP
 NP
-PP
-269151	PP
-269157	PP
-269160	NP
-269165	NP
-269169	PP
-269172	NP
-269174	PP
-269176	PP
-269181	PP
-269183	NP
-269185	NP
+269151	NP
 NP
+269158	NP
 PP
+269163	NP
+NP
+269167	NP
+NP
+269173	NP
+NP
+NP
+269178	NP
+269184	PP
+269186	NP
+NP
 269189	NP
-269191	NP
+NP
+269192	PP
 NP
 NP
-269195	NP
-269198	PP
-269200	NP
-269202	NP
-269204	NP
-269206	NP
-269209	AdvP
-269213	NP
-NP
-269216	PP
-NP
-269219	PP
+269196	NP
+269201	PP
+269203	NP
 PP
 NP
-269225	NP
+NP
 NP
 PP
+NP
+PP
+NP
+NP
+269214	NP
+NP
+PP
+269219	NP
+PP
+NP
+NP
+NP
+269227	NP
+NP
+NP
 269231	PP
-269234	PP
-PP
-269237	PP
+NP
+269235	NP
 269239	NP
-269241	NP
 NP
 NP
-NP
-NP
-PP
-NP
-PP
-269251	NP
-NP
-269254	PP
-PP
-269258	NP
-269260	NP
-269262	PP
-269265	NP
-269267	NP
-NP
-NP
-NP
+269243	PP
+269245	PP
+269247	NP
 NP
 PP
 NP
+269252	NP
 NP
-269276	PP
+269255	NP
+NP
+269258	PP
+NP
+269265	PP
+269268	NP
+269273	NP
+269275	PP
+PP
+269278	NP
 NP
 NP
-269280	NP
-NP
-NP
+269283	PP
 269286	PP
-NP
-269290	NP
+269288	PP
 PP
-269294	NP
-269297	NP
-NP
-269309	PP
-PP
-269312	PP
-PP
-269316	NP
+269291	NP
+269293	NP
+269295	NP
 NP
 NP
+269299	PP
+269304	PP
 NP
-PP
+269307	NP
+NP
+269310	NP
+NP
+NP
+269318	PP
+269320	PP
 NP
 NP
 269324	NP
 NP
-PP
-NP
-269330	NP
+269328	NP
+269330	PP
+269332	PP
 NP
 269335	NP
 NP
-269339	PP
-269343	NP
-269348	PP
-269352	PP
-PP
-269355	PP
-269358	NP
+269339	NP
+NP
+269345	PP
+NP
+NP
+269349	NP
+NP
+269354	NP
+269361	PP
+269363	VP
+269366	PP
+NP
+NP
+269370	PP
+NP
+NP
+269376	PP
 NP
 PP
-269364	NP
 NP
-269369	NP
-269371	NP
-NP
-269378	NP
-NP
-NP
-NP
-PP
-269384	NP
-NP
-NP
-269389	NP
-269392	NP
-269395	NP
+269382	PP
+269387	NP
+269404	NP
 269408	PP
-269411	PP
-269417	PP
-PP
-269423	PP
-269425	NP
-NP
-PP
-269430	PP
+269410	PP
 NP
 NP
-269435	PP
+269418	NP
+269429	PP
 NP
 NP
-269440	PP
-269443	PP
-NP
-PP
+269435	NP
 NP
 NP
-PP
+269441	NP
+269452	PP
+NP
+269457	NP
 NP
 NP
-269452	NP
-PP
+269462	NP
+269464	NP
+NP
+269473	NP
+269479	NP
 NP
 NP
-PP
-269460	PP
-NP
-NP
-NP
-NP
-269470	PP
-NP
-269474	NP
-269477	NP
-269480	NP
 269483	NP
-269488	NP
 NP
 NP
-269492	PP
+269492	NP
 NP
 NP
+269496	NP
+NP
+NP
+NP
+269504	PP
+NP
+NP
+NP
+269510	NP
 PP
 NP
-269505	PP
-PP
-269510	PP
-269513	PP
+NP
 269515	NP
-269523	NP
-NP
-PP
-NP
-269533	PP
-269535	AdvP
-269539	PP
-NP
-NP
-269543	PP
-PP
-NP
-269551	NP
 PP
 NP
 NP
 NP
+269536	NP
+269548	NP
+269554	NP
+269556	NP
+269559	NP
 NP
-269560	PP
+NP
+269563	NP
+269566	NP
 NP
 NP
-269568	PP
+269570	NP
+269573	NP
 NP
+269580	PP
+269590	NP
+NP
+NP
+269594	NP
+269597	NP
+269599	NP
+NP
+NP
+269603	NP
+269606	NP
+269610	NP
+NP
+NP
+269616	NP
+269625	NP
 PP
 NP
-NP
 PP
-269575	NP
-269577	PP
-269579	PP
+269632	PP
+269639	PP
+269647	PP
+269651	PP
+269655	PP
+269657	NP
+269661	NP
 NP
 NP
-PP
-NP
-269586	PP
-NP
-NP
-AdvP
-PP
-NP
-NP
-269594	PP
-269598	PP
-269602	PP
-269612	NP
-PP
-PP
-PP
-PP
-269619	PP
-NP
-NP
-NP
-NP
-269626	NP
-269630	NP
-269632	NP
-NP
-269636	NP
-NP
-NP
-NP
-269642	NP
-NP
-NP
-269646	NP
-NP
-PP
-NP
-NP
-NP
-PP
-NP
-269657	PP
-269659	PP
-NP
-269662	NP
-NP
-269666	PP
-PP
-NP
-269670	PP
-NP
-PP
+269669	PP
 269675	NP
-NP
-NP
-NP
 269680	PP
+269682	PP
+269684	PP
 NP
-AdvP
+269687	PP
+269690	NP
 NP
+269693	NP
 NP
-NP
-269687	NP
-NP
-NP
-269691	PP
-269693	PP
-NP
-269698	PP
-NP
-PP
-NP
-PP
-269704	PP
-PP
-NP
-PP
-NP
-PP
-NP
-269713	PP
+269696	PP
 NP
 NP
+269700	PP
+NP
+269705	NP
+NP
+269709	PP
+NP
+269712	PP
+NP
+269718	PP
 NP
 NP
-269720	NP
-269722	PP
-PP
+269724	NP
+NP
+269728	NP
 NP
 NP
 NP
-269729	NP
-269735	NP
+269737	NP
 269739	NP
-269741	NP
-269745	NP
 PP
-NP
-269749	NP
-NP
-269752	PP
+269744	NP
 PP
 NP
 PP
 NP
+269750	NP
 NP
-269762	NP
-269764	NP
-269770	NP
-269774	PP
-269780	PP
+NP
+NP
+NP
+269761	NP
+NP
+NP
+269777	PP
+NP
+269783	NP
+269789	NP
 PP
 NP
+269793	NP
+269797	NP
 NP
-269788	PP
+NP
+NP
+NP
+269804	NP
+NP
+269809	NP
+NP
+NP
 NP
 PP
+269815	NP
 NP
-269796	PP
+NP
+269822	NP
+NP
+NP
+269829	NP
+NP
+NP
+269835	NP
+NP
 PP
-NP
-NP
-NP
-269802	NP
-PP
-NP
-269811	NP
-NP
-NP
-NP
-269816	NP
-NP
-269821	NP
-NP
-NP
-269827	NP
-NP
-NP
-269833	NP
-269837	PP
 NP
 269842	PP
-269852	PP
-269862	NP
-269869	NP
-269871	NP
-269877	NP
-269880	NP
-PP
-269885	NP
-PP
 NP
-NP
-NP
-PP
-269892	NP
-NP
-269896	NP
-NP
-NP
-NP
-269903	NP
-PP
-269906	PP
-269909	NP
-NP
-NP
-NP
-269920	PP
-269922	PP
-269928	PP
-269930	PP
-269941	PP
-269948	PP
-269951	PP
-269954	NP
-269957	NP
-NP
-269961	PP
-PP
-269964	NP
-269967	PP
-NP
-269970	NP
-269973	PP
-NP
-NP
-NP
-NP
-269981	NP
-NP
-269984	NP
-269986	NP
-PP
-NP
-269992	NP
-NP
-269995	NP
-PP
-269999	NP
-270001	NP
-270004	NP
-NP
-270009	PP
-270013	NP
-270015	NP
-270020	PP
-NP
-270024	NP
-270026	NP
-NP
-PP
-NP
-270031	NP
-NP
-270034	NP
-NP
-270037	NP
-270039	NP
-NP
-NP
-PP
-NP
-NP
-270054	NP
-270056	NP
-PP
-270059	NP
-270061	NP
-NP
-NP
-270070	NP
-270072	PP
-NP
-NP
-NP
-270079	NP
-270084	NP
-270088	NP
-270091	PP
-NP
-270098	NP
-270101	NP
-NP
-270104	NP
-PP
-NP
-NP
-NP
-PP
-270112	PP
-270116	NP
-270120	PP
-NP
-NP
-NP
-NP
-NP
-PP
-NP
-270129	PP
-NP
-NP
-PP
-270134	NP
-270138	PP
-NP
-270141	PP
-270147	PP
-NP
-270150	NP
-NP
-270155	NP
-270160	NP
-270165	PP
-NP
-270173	NP
-270180	NP
-PP
-NP
-270184	PP
-NP
-PP
-270193	PP
-270197	NP
-NP
-270206	NP
-NP
-NP
-PP
-PP
-NP
-270215	PP
-NP
-270220	PP
-270223	NP
-270227	NP
-270230	NP
-270238	NP
-270242	PP
-NP
-270249	PP
-270251	NP
-PP
-NP
-270257	NP
-270265	PP
-NP
-270290	NP
-270298	NP
-NP
-270301	PP
-270307	PP
-270310	PP
-NP
-NP
-270320	NP
-270345	NP
-NP
-270348	PP
-270351	NP
-270354	NP
-270356	NP
-270360	NP
-NP
-NP
-PP
-NP
-NP
-270368	NP
-PP
-NP
-NP
-270373	NP
-NP
-NP
-NP
-270380	PP
-NP
-NP
-NP
-270385	PP
-NP
-NP
-NP
-270393	PP
-NP
-NP
-NP
-NP
-270399	NP
-PP
-NP
-NP
-270405	NP
-NP
-270409	NP
-NP
-270412	NP
-NP
-270416	NP
-PP
-NP
-270420	NP
-NP
-NP
-NP
-PP
-270427	PP
-NP
-NP
-NP
-270432	NP
-270434	NP
-270436	NP
-NP
-PP
-270440	PP
-NP
-NP
-NP
-NP
-270446	PP
-NP
-NP
-270450	PP
-270452	NP
-PP
-NP
-270456	NP
-NP
-NP
-270460	PP
-PP
-270464	PP
-270466	PP
-270468	NP
-NP
-270472	PP
-NP
-NP
-NP
-270477	NP
-NP
-270480	NP
-270482	NP
-NP
-270486	NP
-NP
-NP
-270490	PP
-NP
-270493	NP
-NP
-270501	PP
-270510	PP
-270512	PP
-270514	NP
-270516	PP
-270520	NP
-270531	PP
-NP
-270535	PP
-NP
-270539	PP
-270542	NP
-NP
-270545	NP
-PP
-270548	PP
-270550	PP
-270552	NP
-NP
-NP
-NP
-PP
-NP
-NP
-270560	NP
-PP
-270569	NP
-PP
-270574	PP
-270581	NP
-NP
-NP
-270588	NP
-270591	NP
-270595	NP
-270597	PP
-270600	NP
-PP
-270603	NP
-NP
-NP
-270607	NP
-NP
-270611	NP
-270615	NP
-270617	NP
-270619	NP
-270631	NP
-NP
-NP
-NP
-PP
-NP
-NP
-270640	PP
-NP
-270643	NP
-NP
-NP
-NP
-NP
-NP
-NP
-270651	NP
-270653	NP
-270656	PP
-270658	PP
-270660	NP
-NP
-NP
-270664	PP
-NP
-NP
-NP
-PP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-270679	NP
-NP
-270682	PP
-NP
-270687	NP
-NP
-NP
-NP
-NP
-NP
-270694	NP
-PP
-270698	NP
-NP
-NP
-NP
-NP
-270705	NP
-270723	PP
-270727	NP
-NP
-270730	NP
-NP
-270740	NP
-NP
-270743	NP
-270746	NP
-270749	NP
-NP
-NP
-270753	PP
-270755	PP
-270760	NP
-270763	PP
-PP
-270772	NP
-NP
-NP
-NP
-NP
-PP
-270781	PP
-NP
-270804	PP
-270806	NP
-PP
-270809	PP
-270811	NP
-NP
-270816	PP
-NP
-270822	PP
-PP
-NP
-270829	PP
-NP
-270841	PP
-NP
-NP
-270847	PP
-270851	PP
-NP
-NP
-NP
-270864	PP
-270866	NP
-NP
-270869	PP
-270871	NP
-270873	PP
-NP
-270876	PP
-270894	NP
-NP
-270899	PP
-NP
-NP
-NP
-NP
-PP
-NP
-NP
-270909	PP
-270914	NP
-NP
-PP
-NP
-270923	NP
-NP
-NP
-270930	NP
-PP
-NP
-PP
-NP
-NP
-NP
-NP
-NP
-PP
-270943	NP
-270945	NP
-270947	NP
-270949	NP
-270951	NP
-270953	NP
-270955	NP
-270957	PP
-NP
-NP
-PP
-NP
-NP
-270964	PP
-270966	PP
-NP
-270973	NP
-NP
-NP
-270977	NP
-NP
-PP
-270985	NP
-270989	PP
-270995	NP
-NP
-NP
-270999	NP
-NP
-271002	NP
-NP
-NP
-271006	PP
-NP
-271009	NP
-271011	PP
-NP
-NP
-271017	NP
-271022	NP
-PP
-271026	NP
-NP
-271033	NP
-271036	NP
-NP
-PP
-NP
-NP
-271042	PP
-271044	PP
-271049	NP
-271051	NP
-271054	NP
-271056	NP
-271063	PP
-NP
-271067	NP
-271083	NP
-NP
-271088	NP
-NP
-271091	PP
-NP
-271097	PP
-NP
-NP
-271103	NP
-NP
-PP
-NP
-NP
-271123	NP
-271125	NP
-271129	NP
-271133	NP
-271135	NP
-271143	NP
-NP
-NP
-PP
-NP
-NP
-271152	PP
-271155	PP
-271159	NP
-271161	NP
-271164	NP
-NP
-271167	PP
-NP
-NP
-NP
-271172	PP
-271176	NP
-NP
-NP
-NP
-PP
-NP
-271184	PP
-271188	PP
-PP
-271191	PP
-PP
-271194	PP
-PP
-NP
-271199	NP
-NP
-NP
-NP
-271209	PP
-NP
-271215	NP
-271219	NP
-NP
-271225	PP
-NP
-271229	NP
-NP
-NP
-NP
-PP
-271235	NP
-NP
-NP
-NP
-271245	PP
-NP
-271253	NP
-271257	PP
-271261	PP
-271273	NP
-PP
-271278	NP
-PP
-271282	PP
-271284	PP
-271287	PP
-271289	NP
-NP
-NP
-271296	PP
-NP
-271299	NP
-271302	PP
-271307	NP
-271309	NP
-NP
-NP
-271313	NP
-NP
-NP
-PP
-NP
-PP
-PP
-271324	NP
-271328	PP
-271331	NP
-NP
-NP
-271335	NP
-271338	NP
-NP
-NP
-271343	NP
-271346	PP
-NP
-271353	NP
-NP
-PP
-NP
-NP
-271360	PP
-NP
-271363	NP
-PP
-271369	PP
-NP
-NP
-271374	PP
-NP
-271383	PP
-NP
-271388	PP
-271393	PP
-NP
-271396	PP
-NP
-NP
-271400	PP
-NP
-NP
-271405	NP
-NP
-NP
-271413	PP
-NP
-NP
-271418	PP
-NP
-NP
-271422	NP
-271425	PP
-271430	PP
-271434	PP
-271437	NP
-NP
-271440	PP
-271446	NP
-271449	NP
-271451	NP
-271454	PP
-NP
-271458	NP
-271462	NP
-NP
-271468	PP
-271481	PP
-271493	NP
-NP
-271501	NP
-271508	NP
-NP
-271511	NP
-PP
-NP
-271515	PP
-NP
-271521	PP
-NP
-NP
-271525	NP
-NP
-271528	PP
-NP
-NP
-NP
-NP
-NP
-271545	PP
-NP
-PP
-NP
-271565	PP
-271567	NP
-271569	NP
-NP
-271572	NP
-NP
-PP
-NP
-271582	NP
-NP
-NP
-271587	NP
-271591	PP
-NP
-NP
-NP
-271597	NP
-NP
-NP
-271605	PP
-271608	NP
-271611	NP
-PP
-NP
-271616	NP
-NP
-271619	NP
-NP
-271627	NP
-NP
-271633	NP
-271636	NP
-271641	NP
-271644	PP
-PP
-NP
-NP
-271649	PP
-NP
-271657	PP
-271659	NP
-271672	NP
-271675	NP
-271682	NP
-NP
-NP
-NP
-271689	NP
-NP
-271693	PP
-NP
-NP
-271700	NP
-NP
-PP
-271704	PP
-271706	PP
-271708	PP
-NP
-271711	NP
-NP
-271716	NP
-NP
-PP
-271728	NP
-NP
-NP
-NP
-PP
-271737	NP
-NP
-NP
-271741	NP
-NP
-NP
-AdvP
-NP
-NP
-271749	NP
-PP
-271755	NP
-NP
-NP
-271760	NP
-NP
-271764	NP
-PP
-271769	NP
-NP
-NP
-271773	NP
-271777	PP
-271781	NP
-271783	NP
-NP
-271788	NP
-271790	NP
-NP
-271794	NP
-NP
-271802	PP
-271804	NP
-NP
-NP
-NP
-NP
-NP
-271813	NP
-271818	NP
-271821	NP
-271831	NP
-271835	NP
-271843	NP
-NP
-NP
-PP
-271854	NP
-271857	PP
-271861	PP
-271863	NP
-271866	NP
-271868	NP
-271875	NP
-271880	NP
-271887	PP
-NP
-NP
-PP
-271893	PP
-271895	PP
-AdvP
-NP
-NP
-PP
-271901	NP
-NP
-271910	NP
-NP
-271915	PP
-271918	PP
-NP
-271921	PP
-271923	NP
-NP
-NP
-271929	NP
-271934	PP
-271938	PP
-271942	NP
-NP
-PP
-271947	NP
-NP
-PP
-271951	NP
-271953	PP
-PP
-271956	NP
-271958	PP
-NP
-271962	NP
-271964	NP
-NP
-NP
-271973	NP
-271977	NP
-NP
-271980	NP
-271983	NP
-NP
-271986	NP
-271991	NP
-NP
-PP
-271995	NP
-271997	NP
-NP
-272002	NP
-NP
-272006	NP
-NP
-272011	NP
-272014	NP
-272024	PP
-272026	PP
-272028	PP
-NP
-272031	NP
-PP
-NP
-272039	PP
-NP
-NP
-NP
-272044	NP
-NP
-NP
-NP
-NP
-272050	AdjP
-NP
-NP
-NP
-NP
-272057	NP
-NP
-272061	NP
-NP
-NP
-PP
-272068	NP
-NP
-NP
-NP
-NP
-272077	PP
-NP
-272081	NP
-272083	PP
-272085	PP
-272091	PP
-272095	NP
-272097	NP
-272101	PP
-NP
-NP
-272105	NP
-NP
-272109	NP
-NP
-272113	NP
-NP
-272116	PP
-NP
-272119	PP
-NP
-272123	NP
-PP
-NP
-272130	PP
-NP
-NP
-NP
-272136	PP
-NP
-272140	PP
-NP
-272144	PP
-NP
-272147	PP
-272149	PP
-272151	PP
-NP
-272155	NP
-272157	NP
-NP
-PP
-272161	NP
-272164	NP
-272167	NP
-272169	NP
-272171	NP
-272173	NP
-272175	NP
-272177	NP
-NP
-NP
-272181	NP
-272190	PP
-272193	PP
-272195	NP
-PP
-272198	NP
-272201	NP
-272206	PP
-272209	PP
-272213	PP
-NP
-272217	NP
-PP
-PP
-NP
-272229	NP
-272241	NP
-NP
-272252	NP
-272254	PP
-NP
-NP
-272259	PP
-NP
-272263	PP
-NP
-NP
-NP
-NP
-272276	PP
-272279	PP
-VP
-272283	NP
-NP
-NP
-NP
-272293	NP
-272297	NP
-NP
-272300	NP
-272305	NP
-NP
-272311	PP
-NP
-272316	PP
-NP
-272320	NP
-272323	AdvP
-272325	NP
-272327	NP
-272331	PP
-NP
-272337	PP
-PP
-NP
-272341	PP
-PP
-NP
-PP
-272346	NP
-272348	NP
-272351	PP
-NP
-272356	NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-272378	NP
-272392	NP
-NP
-PP
-NP
-NP
-272398	PP
-272400	NP
-NP
-272404	NP
-NP
-272409	NP
-272411	NP
-272413	NP
-272415	NP
-272419	PP
-272424	NP
-NP
-272429	NP
-272431	NP
-272436	NP
-NP
-NP
-272441	NP
-NP
-NP
-272446	PP
-272457	NP
-272459	NP
-NP
-272463	PP
-272466	NP
-272469	PP
-NP
-272491	NP
-272499	NP
-NP
-NP
-272507	NP
-272515	PP
-272519	NP
-272521	PP
-NP
-NP
-272526	NP
-272535	NP
-272544	NP
-NP
-272557	NP
-272562	NP
-272571	NP
-272573	PP
-272586	NP
-NP
-272589	NP
-272592	NP
-NP
-272597	NP
-NP
-NP
-272610	NP
-272612	NP
-272614	NP
-272617	NP
-PP
-272621	NP
-272632	NP
-272635	PP
-272639	PP
-272649	PP
-NP
-NP
-272654	PP
-272657	NP
-NP
-272661	PP
-272667	NP
-NP
-272671	NP
-NP
-NP
-272678	NP
-PP
-NP
-272682	PP
-272684	NP
-272686	NP
-272689	NP
-272692	NP
-NP
-272696	NP
-NP
-NP
-PP
-272701	PP
-272703	NP
-NP
-NP
-272711	NP
-PP
-272722	PP
-NP
-NP
-272729	PP
-272731	PP
-NP
-272737	PP
-272747	PP
-NP
-272752	PP
-272757	NP
-NP
-NP
-NP
-272766	NP
-NP
-272769	PP
-NP
-PP
-NP
-272774	NP
-272781	NP
-NP
-272786	PP
-272790	PP
-NP
-NP
-272795	PP
-NP
-272798	PP
-NP
-NP
-NP
-NP
-272804	NP
-272806	NP
-NP
-272809	NP
-272812	NP
-272814	PP
-PP
-272818	PP
-NP
-272821	NP
-NP
-272824	NP
-NP
-272830	NP
-NP
-272834	PP
-NP
-NP
-272840	NP
-272842	PP
-NP
-PP
-272846	NP
-NP
-NP
-NP
-272851	PP
-272853	NP
-272856	PP
-272859	PP
-272861	NP
-NP
-272869	PP
-NP
-NP
-272876	NP
-NP
-NP
-272882	NP
-NP
-272889	NP
-NP
-NP
-NP
-272897	PP
-272900	NP
-272902	NP
-NP
-272906	NP
-272908	PP
-272910	PP
-272913	PP
-NP
-PP
-NP
-NP
-272921	NP
-NP
-NP
-PP
-272926	NP
-272931	NP
-NP
-272934	NP
-272940	PP
-272944	PP
-NP
-272948	PP
-NP
-PP
-272953	NP
-PP
-NP
-272957	NP
-NP
-NP
-272962	NP
-NP
-NP
-272967	PP
-NP
-272971	NP
-NP
-PP
-NP
-PP
-NP
-272979	NP
-272985	PP
-PP
-NP
-272989	PP
-NP
-272992	PP
-NP
-NP
-272997	PP
-272999	PP
-PP
-NP
-273003	NP
-NP
-NP
-273010	NP
-273015	PP
-NP
-273025	PP
-273034	NP
-273036	PP
-273042	PP
-NP
-NP
-273049	PP
-PP
-NP
-273054	PP
-NP
-273062	PP
-273068	PP
-273073	PP
-273075	NP
-273079	NP
-273081	PP
-NP
-NP
-NP
-NP
-PP
-273095	NP
-NP
-273098	NP
-273101	PP
-NP
-273111	NP
-NP
-273114	PP
-PP
-273120	PP
-PP
-NP
-NP
-273130	PP
-NP
-NP
-273134	PP
-NP
-NP
-NP
-273140	PP
-NP
-PP
-PP
-NP
-273146	PP
-NP
-273149	PP
-NP
-273152	NP
-NP
-NP
-PP
-273157	NP
-273160	PP
-273162	PP
-PP
-NP
-273168	NP
-273170	NP
-NP
-PP
-NP
-273178	NP
-NP
-273181	NP
-NP
-NP
-PP
-273188	PP
-NP
-NP
-273194	PP
-273199	NP
-273201	NP
-273204	NP
-273207	NP
-NP
-NP
-PP
-273212	PP
-NP
-NP
-NP
-NP
-273219	NP
-273222	NP
-NP
-NP
-NP
-NP
-273228	NP
-NP
-PP
-NP
-273233	NP
-NP
-273237	NP
-NP
-NP
-PP
-273245	PP
-273248	NP
-NP
-273251	NP
-273255	PP
-NP
-273258	PP
-PP
-273261	PP
-273263	NP
-NP
-NP
-PP
-273268	NP
-NP
-NP
-PP
-273273	NP
-NP
-273276	NP
-NP
-PP
-273280	NP
-PP
-NP
-273284	NP
-NP
-273287	NP
-PP
-NP
-273291	PP
-273295	PP
-273297	NP
-273301	PP
-273303	NP
-NP
-PP
-273307	NP
-NP
-273312	NP
-NP
-PP
-273318	NP
-NP
-273322	NP
-NP
-PP
-NP
-273328	PP
-NP
-273332	NP
-NP
-NP
-NP
-273342	NP
-273344	NP
-PP
-NP
-273353	PP
-NP
-273356	NP
-NP
-273361	NP
-NP
-273364	PP
-NP
-273368	NP
-NP
-NP
-NP
-273373	NP
-PP
-273376	PP
-273384	PP
-NP
-273388	PP
-NP
-NP
-273392	NP
-NP
-273395	NP
-PP
-NP
-NP
-PP
-NP
-NP
-NP
-NP
-PP
-273407	NP
-NP
-273412	NP
-NP
-273417	NP
-PP
-273421	NP
-NP
-273424	NP
-NP
-273428	NP
-NP
-NP
-273432	NP
-273438	PP
-NP
-NP
-273442	NP
-NP
-PP
-NP
-NP
-NP
-273452	PP
-273454	NP
-PP
-NP
-NP
-NP
-PP
-NP
-PP
-NP
-NP
-273465	NP
-NP
-PP
-273469	NP
-PP
-NP
-NP
-NP
-273475	NP
-NP
-NP
-PP
-NP
-273481	NP
-NP
-NP
-NP
-273486	PP
-273488	PP
-NP
-NP
-PP
-NP
-273494	NP
-NP
-NP
-NP
-PP
-NP
-273503	PP
-NP
-273507	NP
-273509	PP
-PP
-NP
-NP
-NP
-273516	PP
-273518	PP
-273520	PP
-PP
-NP
-273524	NP
-273526	NP
-NP
-NP
-273530	PP
-273535	PP
-NP
-273538	NP
-NP
-NP
-NP
-NP
-273547	PP
-273549	PP
-NP
-NP
-NP
-NP
-273555	NP
-PP
-273558	PP
-NP
-NP
-NP
-NP
-NP
-273569	PP
-NP
-NP
-NP
-NP
-273575	NP
-273581	PP
-273583	VP
-273585	PP
-NP
-NP
-273589	PP
-NP
-NP
-273596	PP
-NP
-PP
-NP
-273602	PP
-273607	NP
-273623	NP
-273626	PP
-273628	PP
-NP
-NP
-273634	NP
-273644	PP
-NP
-NP
-273650	NP
-NP
-NP
-273656	NP
-273666	PP
-NP
-273671	NP
-NP
-NP
-NP
-273676	NP
-NP
-273684	NP
-273689	NP
-NP
-NP
-273693	NP
-NP
-NP
-273702	NP
-NP
-NP
-273706	NP
-NP
-NP
-NP
-273712	PP
-NP
-NP
-NP
-273718	NP
-PP
-NP
-NP
-273723	NP
-PP
-NP
-NP
-NP
-273742	NP
-273751	NP
-273754	NP
-273756	NP
-273758	NP
-NP
-NP
-273762	NP
-273765	NP
-NP
-NP
-273769	NP
-273773	NP
-NP
-273779	PP
-273787	NP
-NP
-NP
-273791	NP
-273794	NP
-273796	NP
-NP
-NP
-273800	NP
-273803	NP
-273805	NP
-NP
-NP
-273811	NP
-273820	NP
-PP
-NP
-PP
-273827	PP
-273831	PP
-273839	PP
-273843	PP
-273847	PP
-NP
-273852	NP
-NP
-NP
-273860	PP
-273864	NP
-273867	PP
-273869	PP
-273871	PP
-NP
-273874	PP
-273876	NP
-NP
-273879	NP
-NP
-PP
-NP
-NP
-273885	PP
-NP
-273889	NP
-NP
-273892	PP
-NP
-273895	PP
-NP
-273900	PP
-NP
-NP
-273905	NP
-NP
-273908	NP
-NP
-NP
-NP
-273915	NP
-NP
-PP
-273921	NP
-PP
-NP
-PP
-NP
-273927	NP
-NP
-NP
-NP
-NP
-273937	NP
-NP
-NP
-273953	PP
-NP
-273959	NP
-273965	NP
-PP
-NP
-NP
-273972	NP
-NP
-NP
-NP
-NP
-273979	NP
-NP
-273983	NP
-NP
-NP
-NP
-PP
-273989	NP
-NP
-NP
-273996	NP
-NP
-NP
-274001	NP
-NP
-NP
-274006	NP
-NP
-PP
-NP
-274012	PP
-NP
-274019	PP
+269850	PP
 NP
 AdjP
 NP
-274024	PP
+269855	PP
 NP
-274029	NP
-274033	NP
+269861	NP
+269865	NP
 NP
 NP
 NP
-274048	NP
-274055	PP
-274060	NP
-274066	NP
-274073	PP
-274076	PP
+269881	NP
+269888	PP
+269893	NP
+269899	NP
+269907	PP
+269911	PP
 PP
-274079	NP
+269914	NP
 PP
-274100	PP
-274105	PP
-274129	PP
-274131	NP
-274133	NP
-274140	NP
-274150	NP
+269939	PP
+269946	PP
+269974	PP
+269976	NP
+269978	NP
+269987	NP
+269999	NP
 NP
-274161	NP
+270012	NP
 NP
-274164	PP
-NP
-NP
-NP
-274170	NP
-NP
-274173	PP
+270015	PP
 NP
 NP
+270019	NP
+270023	NP
 NP
-274179	PP
-274181	NP
-274192	NP
-274197	PP
-274205	PP
-NP
+270027	PP
+270029	NP
 NP
 NP
+270034	PP
+270036	NP
+270048	NP
+270053	PP
+270065	PP
 NP
-274212	NP
-274216	PP
-274219	NP
-NP
-274223	NP
-274227	NP
-NP
-274235	NP
-NP
-274245	PP
-274249	NP
-274252	NP
+270068	NP
 NP
 NP
-PP
-274259	NP
+270073	NP
+270078	PP
+270082	NP
 NP
+270086	NP
+270090	NP
 NP
-274265	NP
+270100	NP
 NP
-274268	NP
-NP
-274283	PP
-PP
-NP
-NP
-274292	NP
-274294	NP
-NP
-NP
-274298	PP
-NP
-274304	NP
-PP
-NP
-NP
-274312	NP
-NP
-NP
-274321	PP
-274348	NP
-274350	NP
-NP
-274355	PP
-NP
-274363	PP
-274366	PP
-274369	PP
-NP
-274381	PP
-274390	PP
-274395	NP
-274399	NP
-NP
-NP
-274404	NP
-NP
-NP
-274409	NP
-274412	PP
-NP
-274419	PP
-274421	PP
-274423	PP
-274426	PP
-274432	PP
-NP
-274435	PP
-NP
-274456	VP
-274459	PP
-274466	NP
-274471	NP
-NP
-274475	PP
-274480	NP
-274485	PP
-274489	PP
-274500	PP
-NP
-NP
-274511	NP
-NP
-274519	PP
-274521	NP
-NP
-274524	NP
-PP
-274532	PP
-274534	NP
-NP
-274539	NP
-274541	PP
-274544	NP
-PP
-274547	PP
-NP
-274555	NP
-274557	PP
-NP
-274563	NP
-NP
-NP
-274567	PP
-274571	NP
+270111	PP
+270116	NP
+270119	NP
 NP
 NP
 PP
-274577	PP
-NP
-274585	PP
-274591	PP
-274593	NP
-274597	NP
-NP
-274601	NP
-274603	PP
+270126	NP
 NP
 NP
+270132	NP
 NP
-274608	PP
-274611	PP
-274613	PP
-274615	PP
+270135	NP
 NP
-274620	PP
-274622	NP
-274625	PP
-NP
-274628	NP
-274630	NP
-274634	VP
-274641	PP
-NP
-NP
-NP
-274649	NP
-274652	NP
-274660	PP
-NP
-NP
-NP
-274666	NP
-NP
+270152	PP
 PP
 NP
 NP
+270161	NP
+270163	NP
 NP
 NP
-274674	NP
+270167	PP
+NP
+270173	NP
+PP
+NP
+NP
+270182	NP
+NP
+NP
+270191	PP
+270224	NP
+270226	NP
+NP
+270231	PP
+NP
+270239	PP
+270243	PP
+270246	PP
+NP
+270260	PP
+270269	PP
+270274	NP
+270280	NP
+NP
+NP
+270285	NP
+NP
+NP
+270290	NP
+270293	PP
+NP
+270300	PP
+270303	PP
+270305	PP
+270308	PP
+270314	PP
+NP
+270317	PP
+NP
+270340	VP
+270343	PP
+270349	NP
+270354	NP
+270356	NP
+270359	PP
+270365	NP
+270371	PP
+270375	PP
+270389	PP
+NP
+NP
+270401	NP
+NP
+270410	PP
+270413	NP
+NP
+270416	NP
+PP
+270426	PP
+270428	NP
+NP
+270435	NP
+270437	PP
+270440	NP
+PP
+270444	PP
+NP
+270452	NP
+270454	PP
+NP
+270462	NP
+NP
+NP
+270467	PP
+270471	NP
+270473	NP
+NP
+PP
+270479	PP
+NP
+270487	PP
+270495	PP
+270497	NP
+270502	NP
+NP
+270506	NP
+270509	PP
+NP
+NP
+NP
+270514	PP
+270518	PP
+270520	PP
+270522	PP
+270524	NP
+270528	PP
+270533	NP
+270536	PP
+NP
+270539	NP
+270541	NP
+270546	VP
+270553	PP
+NP
+NP
+NP
+270562	NP
+270565	NP
+270573	PP
+NP
+NP
+NP
+270581	NP
 NP
 PP
 NP
 NP
-274680	NP
-274682	PP
+270587	NP
 NP
-NP
-NP
-274688	NP
-NP
-274693	NP
-NP
-NP
-274698	NP
-NP
-274702	NP
-274706	NP
-274708	NP
-NP
-274713	PP
-NP
-274716	PP
-NP
-274720	PP
-NP
-274725	PP
-NP
-274730	AdvP
-NP
-NP
-NP
-NP
-274736	NP
-274742	PP
-NP
-274752	NP
-274761	NP
-274767	NP
-274769	NP
-274772	NP
-274774	NP
-274777	NP
-PP
-NP
-274781	NP
-274784	PP
-NP
-274787	PP
-NP
-274791	PP
-NP
-274797	NP
-NP
-274802	PP
-274804	NP
-274807	NP
-274815	NP
-274820	PP
-NP
-274824	PP
-274829	PP
-NP
-274834	PP
-NP
-NP
-NP
-274840	PP
-274844	PP
-274855	PP
-PP
-274860	PP
-274875	NP
-274887	NP
-274899	PP
-NP
-NP
-NP
-274904	PP
-NP
-NP
-NP
-NP
-274923	PP
-NP
-NP
-274927	NP
-NP
-NP
-274934	NP
-274936	NP
-274938	NP
-274940	NP
-NP
-NP
-274945	NP
-274950	PP
-NP
-NP
-274956	NP
-NP
-NP
-274962	NP
-NP
-NP
-274966	NP
-274974	NP
-NP
-274980	NP
-PP
-NP
-274985	NP
-NP
-274989	NP
-NP
-274994	PP
-NP
-274999	PP
-NP
-NP
-275007	NP
-NP
-NP
-NP
+270590	NP
 NP
 PP
 NP
-275017	PP
-275026	NP
+NP
+270596	NP
+270598	PP
+NP
+NP
+NP
+270604	NP
+NP
+270609	NP
+NP
+NP
+270614	NP
+NP
+270618	NP
+270622	NP
+270625	NP
+NP
+270632	PP
+NP
+270635	PP
+NP
+270640	PP
+NP
+270646	PP
+NP
+270652	AdvP
+270654	NP
+NP
+NP
+NP
+270659	NP
+270665	PP
+NP
+270677	NP
+270687	NP
+270693	NP
+270695	NP
+270698	NP
+270700	NP
+270703	NP
 PP
 NP
+270707	NP
+270710	PP
 NP
+270714	PP
+NP
+270718	PP
+NP
+270724	NP
+NP
+270729	PP
+270731	NP
+270734	NP
+270741	NP
+270746	PP
+NP
+270750	PP
+270755	PP
+NP
+270761	PP
+NP
+NP
+NP
+270768	PP
+270772	PP
+270783	PP
 PP
-275039	PP
-275041	NP
-275043	NP
-NP
-275048	NP
-NP
-275051	NP
+270788	PP
+270805	NP
+270818	NP
+270832	PP
 NP
 NP
-275057	NP
+270836	NP
+270839	PP
 NP
 NP
 NP
 NP
+270860	PP
+270862	NP
 NP
-275066	NP
-275068	NP
+270865	NP
 NP
 NP
+270874	NP
+270877	NP
+270879	NP
+270881	NP
 NP
-275075	NP
-275080	PP
+NP
+270887	NP
+270892	PP
+NP
+NP
+270898	NP
+NP
+NP
+270904	NP
+NP
+NP
+270908	NP
+270916	NP
+NP
+270922	NP
 PP
-275084	NP
-275087	PP
 NP
-275094	NP
-PP
+270927	NP
+NP
+270931	NP
+NP
+270937	PP
+NP
+270942	PP
 NP
 NP
-275101	PP
-275103	PP
-275106	NP
-275108	PP
-275110	NP
-275113	NP
-275115	PP
-275124	NP
-275126	NP
-275131	PP
-275148	NP
-275150	PP
-275161	NP
-275168	NP
-275171	NP
+270951	NP
 NP
-275174	NP
 NP
-275181	PP
-275188	NP
-275193	PP
-275196	NP
-275199	NP
 NP
 NP
 PP
 NP
-275206	NP
+270961	PP
+270970	NP
+PP
+NP
+NP
+PP
+270984	PP
+270986	NP
+270988	NP
+NP
+270993	NP
+NP
+270997	NP
+NP
+NP
+271003	NP
+NP
+NP
+271007	NP
+NP
+NP
+271013	NP
+271016	NP
+NP
+NP
+NP
+271023	NP
+271030	PP
+PP
+271035	NP
+271038	PP
+NP
+271045	NP
+PP
+NP
+NP
+271052	PP
+271054	PP
+271057	NP
+271059	PP
+271061	NP
+271065	NP
+271067	PP
+271078	NP
+271080	NP
+271086	PP
+271106	NP
+271110	PP
+271120	NP
+271127	NP
+271131	NP
+NP
+271136	NP
+NP
+271143	PP
+271151	NP
+271156	PP
+271159	NP
+271163	NP
 NP
 NP
 PP
 NP
-275213	NP
+271170	NP
 NP
-275223	NP
-275228	NP
-275230	NP
+NP
+PP
+NP
+271178	NP
+NP
+271188	NP
+271194	NP
+271196	NP
 PP
 NP
 PP
-275237	NP
-275243	NP
-275250	NP
-275256	NP
-275260	NP
-275265	PP
+271203	NP
+271208	NP
+271214	NP
+271222	NP
+271226	NP
+271231	PP
 NP
 NP
-275274	PP
-275279	NP
-275283	NP
-275287	NP
+271240	PP
+271247	NP
+271251	NP
+271255	NP
 NP
-275290	PP
+271258	PP
 NP
-275294	PP
-275309	NP
-275311	NP
+271263	PP
+271279	NP
+271281	NP
 PP
-275314	NP
-275316	NP
+271284	NP
+271286	NP
 NP
-275319	NP
-275325	NP
-275328	PP
-275331	PP
-275333	PP
-PP
-275336	NP
+271289	NP
+271295	NP
+271297	PP
+271300	PP
+271302	PP
+271304	PP
+271306	NP
 NP
-275343	PP
-275346	PP
-275354	PP
+271313	PP
+271316	PP
+271324	PP
 NP
 NP
-275368	PP
-275381	NP
-275386	NP
-275388	NP
-275398	NP
+271338	PP
+271351	NP
+271357	NP
+271359	NP
+271368	NP
 VP
-275401	NP
-275403	NP
-275427	NP
-275433	NP
+NP
+271373	NP
+271397	NP
+271403	NP
 NP
 NP
 NP
-275442	NP
-275444	NP
+271413	NP
+271415	NP
 NP
-275448	NP
-275452	NP
+271419	NP
+271425	NP
 NP
-275456	NP
-275460	NP
+271429	NP
+271435	NP
 NP
-275463	NP
-275465	NP
+271438	NP
+271440	NP
 NP
-275471	NP
-275473	NP
-275477	NP
+271447	NP
+271449	NP
+271454	NP
 NP
-275481	NP
-275484	PP
-NP
-NP
-NP
-275494	PP
-NP
-275497	NP
-275503	PP
+271458	NP
+271461	PP
 NP
 NP
-275523	PP
+NP
+271472	PP
+NP
+271476	NP
+271484	PP
 NP
 NP
-275533	PP
+271505	PP
 NP
 NP
-275539	PP
+271516	PP
 NP
 NP
-275543	NP
-NP
-275550	NP
-NP
-275561	PP
-NP
-275564	NP
-NP
-275569	NP
-275576	PP
-275583	PP
+271522	PP
 NP
 NP
-275589	NP
-275591	PP
-275593	NP
-275599	NP
-275601	NP
-275618	NP
-275621	PP
+271526	NP
+NP
+271534	NP
+NP
+271545	PP
+NP
+271548	NP
+NP
+271553	NP
+271560	PP
+271569	PP
+NP
+NP
+271575	NP
+271577	PP
+271579	NP
+271586	NP
+271588	NP
+271607	NP
+271610	PP
 PP
 NP
 NP
-275626	NP
-275631	PP
-275643	NP
-275646	PP
-275648	PP
-275659	NP
+271615	NP
+271621	PP
+271634	NP
+271638	PP
+271640	PP
+271655	NP
 PP
 NP
-275664	PP
-275667	PP
+271660	PP
+271666	PP
 NP
-275671	PP
-275674	PP
+271670	PP
+271673	PP
 NP
-275678	NP
+271678	NP
 PP
 NP
-275685	NP
+271685	NP
 NP
-275695	NP
-275708	NP
-NP
-NP
-275713	NP
-275720	PP
-275722	NP
-NP
-275727	PP
-NP
-275733	PP
+271695	NP
+271710	NP
 NP
 NP
+271715	NP
+271724	PP
+271726	NP
 NP
-PP
-275743	PP
+271731	PP
 NP
-275747	NP
+271738	PP
 NP
 NP
-275751	PP
-275758	NP
+NP
+271743	PP
+271750	PP
+NP
+271754	NP
+NP
+NP
+271758	PP
+271764	NP
 NP
 AdvP
-275763	PP
+271769	PP
 NP
-275767	NP
+271773	NP
 NP
-275774	NP
+271781	NP
 NP
-275777	NP
+271784	NP
 NP
-275781	PP
-275791	NP
-275793	NP
-NP
-NP
-275798	PP
+271788	PP
+271797	NP
+271799	NP
 NP
 NP
-275814	NP
+271804	PP
 NP
 NP
-275818	NP
+271822	NP
+271824	NP
+NP
+271827	NP
 NP
 NP
-275832	NP
-275838	NP
+271842	NP
+271849	NP
 NP
-275847	PP
+271859	PP
 NP
 NP
 NP
-275853	PP
-275857	NP
+271866	PP
+271870	NP
 NP
-275862	PP
-275864	NP
+271875	PP
+271877	NP
 NP
-275869	NP
-275871	NP
-275873	NP
-275875	PP
-275878	PP
-275883	PP
-275888	PP
-275894	NP
-275899	NP
+271882	NP
+271884	NP
+271886	NP
+271888	PP
+271891	PP
+271897	PP
+271902	PP
+271907	NP
+271912	NP
 NP
+271918	NP
+NP
+271928	NP
+NP
+271935	NP
+271937	NP
+NP
+NP
+271944	NP
+271946	NP
+PP
+NP
+271950	NP
+271952	NP
+271955	NP
+NP
+271958	NP
+271960	PP
+NP
+271967	NP
+271976	PP
+271984	NP
+NP
+272022	NP
+272024	NP
+272029	NP
+PP
+272033	NP
+NP
+PP
+NP
+272040	PP
+272045	NP
+272051	NP
+PP
+272057	NP
+PP
+PP
+272061	PP
+272065	PP
+272067	NP
+PP
+272070	NP
+PP
+272075	NP
+272077	NP
+272080	NP
+272082	NP
+272085	NP
+272087	NP
+272097	PP
+NP
+272100	NP
+272105	PP
+272113	NP
+272119	NP
+272129	NP
+272152	NP
+NP
+272170	NP
+NP
+NP
+PP
+NP
+272178	PP
+NP
+272183	PP
+NP
+272187	PP
+NP
+272190	PP
+NP
+272195	NP
+NP
+NP
+272201	NP
+NP
+NP
+272207	PP
+NP
+NP
+272211	NP
+272214	NP
+272218	PP
+NP
+NP
+272222	NP
+272225	PP
+NP
+272229	NP
+272231	PP
+272235	NP
+272245	NP
+272250	NP
+272260	NP
+272264	NP
+NP
+272268	NP
+272271	NP
+272274	PP
+NP
+272281	NP
+272285	PP
+NP
+272295	PP
+NP
+272298	PP
+NP
+NP
+NP
+272318	NP
+272325	PP
+272330	PP
+NP
+NP
+NP
+272337	NP
+272339	PP
+NP
+272348	NP
+272350	NP
+NP
+272355	NP
+272357	NP
+NP
+NP
+NP
+272365	NP
+NP
+NP
+NP
+272374	NP
+NP
+272377	NP
+272379	PP
+NP
+NP
+272384	NP
+NP
+PP
+272388	NP
+NP
+NP
+272411	NP
+272417	NP
+NP
+272423	NP
+272426	NP
+272430	NP
+272433	NP
+272436	NP
+272456	NP
+272459	NP
+NP
+272462	NP
+PP
+272468	PP
+NP
+NP
+272473	NP
+272475	NP
+NP
+272480	NP
+272483	NP
+272487	NP
+272493	PP
+NP
+272507	PP
+272509	NP
+272512	NP
+272517	NP
+272519	NP
+NP
+PP
+272524	NP
+NP
+272527	PP
+NP
+272536	PP
+272551	PP
+NP
+272560	NP
+NP
+NP
+272571	NP
+NP
+272574	NP
+NP
+272578	NP
+272596	NP
+272604	NP
+NP
+NP
+NP
+272609	NP
+272611	NP
+NP
+272614	NP
+NP
+NP
+272619	PP
+272622	NP
+NP
+NP
+272628	NP
+NP
+272631	NP
+NP
+272637	NP
+272660	NP
+NP
+272665	NP
+272667	NP
+272673	PP
+272676	PP
+272678	AdvP
+272682	PP
+NP
+272686	PP
+NP
+PP
+272690	NP
+272693	PP
+NP
+PP
+NP
+272701	PP
+272704	PP
+PP
+272709	NP
+PP
+NP
+272713	NP
+NP
+PP
+NP
+NP
+272719	PP
+NP
+PP
+NP
+272726	NP
+NP
+272731	NP
+NP
+272752	NP
+PP
+272765	NP
+272769	NP
+NP
+NP
+272779	PP
+NP
+272782	PP
+NP
+272790	PP
+272794	PP
+272797	NP
+272802	NP
+PP
+272806	NP
+NP
+272810	PP
+272816	PP
+NP
+272820	NP
+272825	NP
+NP
+272828	PP
+272842	PP
+272847	NP
+NP
+NP
+272860	PP
+272866	PP
+NP
+272874	NP
+PP
+NP
+272890	NP
+272892	NP
+NP
+PP
+272897	PP
+NP
+NP
+NP
+NP
+PP
+272906	NP
+NP
+NP
+NP
+272911	PP
+NP
+NP
+272918	PP
+NP
+NP
+272926	NP
+NP
+272929	NP
+272931	NP
+NP
+NP
+272935	PP
+272942	NP
+272945	NP
+NP
+NP
+272951	NP
+272953	NP
+272955	NP
+NP
+272965	PP
+NP
+272969	PP
+NP
+272981	NP
+272983	PP
+PP
+273000	PP
+NP
+273005	PP
+NP
+273009	NP
+273011	PP
+273018	PP
+273022	PP
+273024	NP
+273029	PP
+273031	NP
+273043	PP
+NP
+NP
+NP
+273055	NP
+PP
+NP
+273070	PP
+NP
+273073	NP
+273076	NP
+273078	NP
+273081	NP
+273084	NP
+NP
+273088	NP
+273091	NP
+273093	NP
+273095	NP
+PP
+273100	NP
+NP
+NP
+PP
+273109	PP
+NP
+273112	NP
+273115	NP
+PP
+NP
+NP
+273121	PP
+NP
+NP
+273126	NP
+PP
+NP
+NP
+273132	NP
+273138	NP
+273140	NP
+273143	NP
+273145	NP
+273149	NP
+273151	NP
+NP
+273154	NP
+273161	NP
+273165	NP
+273167	NP
+273169	NP
+NP
+NP
+273174	NP
+273177	NP
+NP
+273180	PP
+273182	PP
+NP
+273185	PP
+NP
+273195	NP
+273197	NP
+273199	NP
+273202	NP
+273207	NP
+273215	PP
+NP
+PP
+273220	PP
+NP
+273226	NP
+273234	PP
+NP
+PP
+273239	PP
+NP
+273242	NP
+NP
+273246	NP
+273251	NP
+273254	NP
+273257	NP
+NP
+NP
+PP
+NP
+273267	NP
+NP
+273270	NP
+273284	NP
+273286	NP
+NP
+273293	NP
+NP
+NP
+273301	AdvP
+NP
+NP
+273305	NP
+NP
+273314	NP
+273316	NP
+273318	NP
+273321	NP
+NP
+NP
+273325	NP
+273327	NP
+273332	NP
+273334	NP
+273336	NP
+273343	PP
+NP
+273346	NP
+PP
+273349	NP
+273355	NP
+273357	NP
+NP
+273364	NP
+NP
+273370	NP
+273372	NP
+PP
+273377	NP
+PP
+NP
+273391	NP
+NP
+273402	NP
+273411	NP
+NP
+NP
+273415	PP
+PP
+273423	NP
+NP
+273426	NP
+273429	NP
+273436	NP
+273439	NP
+273452	NP
+NP
+273455	NP
+NP
+273460	NP
+NP
+273476	NP
+NP
+273482	NP
+NP
+273493	NP
+273496	NP
+273499	NP
+273508	NP
+273513	NP
+273516	PP
+NP
+273520	NP
+273530	NP
+273548	PP
+273552	PP
+273557	NP
+NP
+PP
+273567	PP
+273570	PP
+273573	PP
+273579	NP
+NP
+273585	PP
+PP
+273590	PP
+273594	PP
+273607	NP
+NP
+273612	NP
+273616	NP
+273619	NP
+273660	NP
+273680	NP
+273689	PP
+273701	PP
+273703	PP
+273705	PP
+273709	NP
+NP
+273719	NP
+273728	NP
+273731	NP
+273735	PP
+273737	NP
+PP
+NP
+273742	NP
+273747	VP
+273749	PP
+273752	NP
+273755	NP
+273757	PP
+273766	NP
+NP
+NP
+273775	PP
+273777	NP
+273779	NP
+273781	PP
+NP
+NP
+NP
+273800	NP
+NP
+273803	NP
+273805	NP
+273815	NP
+273818	NP
+NP
+273822	NP
+273825	NP
+NP
+273834	NP
+NP
+NP
+273839	NP
+PP
+NP
+NP
+273855	NP
+273859	NP
+NP
+273866	PP
+273868	NP
+NP
+NP
+273873	NP
+273876	NP
+PP
+273882	NP
+273884	NP
+273886	NP
+273890	PP
+NP
+273897	PP
+273899	PP
+NP
+273902	NP
+NP
+273913	NP
+PP
+273919	NP
+NP
+273923	NP
+273932	NP
+NP
+PP
+NP
+273955	NP
+273961	PP
+273963	PP
+NP
+NP
+NP
+NP
+273973	PP
+273975	NP
+273979	NP
+PP
+274002	PP
+274011	PP
+274015	NP
+274017	PP
+274029	PP
+274034	NP
+274036	NP
+274042	NP
+274047	NP
+274050	NP
+274055	PP
+274066	NP
+274073	NP
+274079	PP
+NP
+NP
+NP
+NP
+NP
+PP
+NP
+274097	NP
+NP
+274107	PP
+NP
+NP
+274116	PP
+274119	PP
+NP
+NP
+NP
+274125	PP
+274140	NP
+274149	NP
+274161	PP
+274167	NP
+274175	PP
+274178	PP
+274182	NP
+274194	PP
+274201	PP
+NP
+NP
+PP
+NP
+274210	NP
+NP
+NP
+PP
+NP
+274220	NP
+274223	NP
+NP
+274226	PP
+NP
+274229	PP
+274238	NP
+NP
+NP
+274243	NP
+274249	NP
+274251	NP
+NP
+274261	NP
+NP
+NP
+274266	NP
+274273	NP
+NP
+NP
+PP
+274283	NP
+274288	NP
+NP
+NP
+NP
+PP
+274309	PP
+274313	NP
+PP
+274316	NP
+274321	NP
+274336	NP
+NP
+274339	NP
+NP
+NP
+274344	NP
+NP
+NP
+274349	PP
+NP
+274354	NP
+274378	NP
+NP
+274382	PP
+NP
+NP
+274386	NP
+274388	PP
+274391	PP
+NP
+NP
+PP
+VP
+274398	NP
+274404	PP
+NP
+274409	PP
+274411	PP
+PP
+NP
+274416	PP
+NP
+274421	PP
+PP
+NP
+274428	PP
+NP
+NP
+274435	NP
+NP
+PP
+NP
+NP
+274441	NP
+274443	NP
+NP
+274448	NP
+274450	NP
+274457	PP
+274460	NP
+NP
+PP
+NP
+NP
+274466	NP
+274468	NP
+274472	PP
+NP
+NP
+274484	PP
+274487	NP
+274492	NP
+274494	NP
+NP
+NP
+274500	NP
+274503	NP
+274505	PP
+274510	PP
+NP
+274520	PP
+274522	NP
+274524	NP
+PP
+274527	NP
+NP
+NP
+274534	PP
+274537	NP
+NP
+274540	PP
+274542	PP
+274545	NP
+274560	NP
+NP
+274569	NP
+274573	PP
+274582	NP
+NP
+274600	NP
+274604	NP
+274609	NP
+NP
+274612	NP
+274620	NP
+NP
+NP
+274624	NP
+NP
+NP
+274634	NP
+274637	NP
+274643	NP
+274645	NP
+274650	NP
+NP
+NP
+274655	NP
+NP
+274659	NP
+274662	NP
+274665	NP
+274670	PP
+274672	NP
+NP
+NP
+NP
+274678	PP
+274680	PP
+274683	PP
+274685	PP
+274688	PP
+274690	PP
+274693	NP
+274695	NP
+274698	NP
+274700	NP
+274707	NP
+NP
+PP
+NP
+274712	NP
+NP
+PP
+NP
+274720	NP
+274723	NP
+274725	NP
+274727	NP
+NP
+PP
+274731	NP
+NP
+PP
+274735	NP
+274737	NP
+NP
+274741	NP
+274743	NP
+NP
+274748	NP
+NP
+NP
+274752	NP
+NP
+NP
+NP
+274763	NP
+274768	NP
+NP
+274784	PP
+PP
+NP
+PP
+NP
+NP
+274794	NP
+274802	NP
+NP
+274807	NP
+NP
+274815	NP
+NP
+274820	NP
+NP
+274827	NP
+274831	NP
+PP
+274835	NP
+274837	NP
+274839	NP
+274841	NP
+274843	NP
+274845	NP
+NP
+NP
+NP
+274850	NP
+NP
+NP
+274854	NP
+274859	NP
+PP
+274862	NP
+NP
+274866	NP
+NP
+AdjP
+274871	PP
+NP
+NP
+NP
+274878	NP
+NP
+274883	PP
+274885	PP
+274888	NP
+NP
+PP
+NP
+274895	NP
+NP
+NP
+274899	NP
+274901	PP
+NP
+NP
+PP
+274924	PP
+274928	NP
+NP
+PP
+274937	PP
+274942	PP
+274949	PP
+274968	PP
+274972	NP
+274974	PP
+274976	NP
+274980	PP
+PP
+NP
+274984	NP
+275002	PP
+NP
+275005	NP
+275007	PP
+275019	PP
+275022	PP
+275026	PP
+NP
+275030	PP
+275033	NP
+275039	PP
+PP
+NP
+275058	PP
+NP
+275062	NP
+PP
+275071	NP
+NP
+275076	NP
+NP
+275079	PP
+NP
+275084	NP
+275087	NP
+275089	NP
+275096	PP
+NP
+NP
+275103	NP
+NP
+275110	NP
+NP
+275113	NP
+275116	NP
+275119	NP
+NP
+NP
+275124	PP
+275128	PP
+NP
+NP
+PP
+NP
+275135	NP
+NP
+275139	PP
+NP
+NP
+NP
+NP
+NP
+275150	NP
+275155	NP
+NP
+275158	NP
+PP
+NP
+NP
+PP
+NP
+PP
+275168	NP
+NP
+275171	PP
+NP
+275175	NP
+275177	NP
+NP
+NP
+275181	PP
+PP
+275184	NP
+NP
+275187	PP
+NP
+NP
+275193	PP
+275196	NP
+275201	NP
+NP
+275207	NP
+NP
+275211	NP
+275213	NP
+NP
+275216	NP
+NP
+275220	PP
+NP
+NP
+NP
+PP
+275228	NP
+PP
+NP
+PP
+NP
+275237	PP
+NP
+275242	NP
+NP
+NP
+PP
+275247	PP
+NP
+275250	NP
+NP
+NP
+275256	PP
+NP
+NP
+275263	PP
+275265	NP
+NP
+275268	PP
+NP
+NP
+NP
+275274	NP
+275277	NP
+NP
+275280	PP
+275284	NP
+275286	NP
+275288	NP
+NP
+275296	PP
+275298	NP
+NP
+275301	PP
+NP
+275304	PP
+PP
+275310	NP
+275315	PP
+NP
+NP
+NP
+275322	VP
+PP
+275325	PP
+275329	NP
+275331	NP
+275333	PP
+NP
+275339	PP
+275344	AdvP
+275347	NP
+PP
+NP
+275351	PP
+NP
+NP
+NP
+PP
+PP
+275358	PP
+NP
+NP
+275362	NP
+275364	NP
+NP
+NP
+NP
+275370	PP
+NP
+275374	NP
+275376	PP
+NP
+275379	PP
+NP
+275382	PP
+NP
+275386	PP
+275402	PP
+275408	PP
+275410	NP
+275413	NP
+275415	PP
+NP
+NP
+275419	NP
+NP
+275422	NP
+NP
+275427	PP
+275430	NP
+275434	PP
+275436	PP
+275439	PP
+275441	PP
+275443	PP
+275445	PP
+NP
+275451	NP
+275456	PP
+275460	PP
+275462	NP
+275465	NP
+275469	NP
+275472	NP
+NP
+NP
+PP
+275483	NP
+NP
+NP
+275488	PP
+PP
+275491	PP
+275501	PP
+275503	NP
+275505	NP
+PP
+NP
+275509	PP
+PP
+NP
+NP
+PP
+PP
+275518	PP
+PP
+275529	NP
+NP
+NP
+PP
+NP
+NP
+275538	NP
+275540	PP
+NP
+NP
+275548	PP
+275553	NP
+NP
+275558	NP
+NP
+NP
+275567	AdvP
+PP
+PP
+275576	NP
+275582	PP
+275585	NP
+275591	PP
+275597	PP
+NP
+275600	NP
+NP
+NP
+275604	PP
+275606	NP
+275609	NP
+275612	PP
+NP
+275618	NP
+275625	PP
+275633	PP
+275637	NP
+275639	NP
+275641	NP
+NP
+NP
+PP
+NP
+275647	AdvP
+275652	NP
+NP
+275655	NP
+275660	PP
+275662	PP
+275668	NP
+NP
+275671	PP
+275681	NP
+275688	PP
+PP
+NP
+275694	PP
+NP
+275698	NP
+NP
+275705	PP
+NP
+PP
+NP
+NP
+NP
+275715	PP
+275720	NP
+NP
+275726	NP
+NP
+275732	PP
+275734	NP
+275740	PP
+NP
+275743	NP
+NP
+NP
+NP
+275748	PP
+PP
+NP
+275753	NP
+275755	NP
+275757	PP
+275760	PP
+275765	NP
+275767	PP
+PP
+275771	NP
+275773	PP
+PP
+275776	PP
+275781	VP
+275783	NP
+NP
+NP
+NP
+275791	PP
+275794	PP
+PP
+PP
+275804	PP
+275806	NP
+275808	PP
+275810	PP
+NP
+NP
+275816	PP
+NP
+NP
+275821	PP
+NP
+275826	NP
+275829	PP
+275833	NP
+NP
+275837	PP
+NP
+275840	PP
+275842	NP
+NP
+275846	PP
+NP
+PP
+NP
+275852	PP
+275857	PP
+275859	PP
+275861	NP
+NP
+PP
+NP
+275870	NP
+NP
+NP
+275876	NP
+275879	NP
+275885	NP
+NP
+NP
+PP
+275892	PP
+275897	NP
+NP
+PP
+NP
+NP
+PP
 275904	NP
 NP
-275912	NP
-NP
-275919	NP
-275921	NP
 NP
 NP
-275927	NP
-275929	NP
+275910	AdvP
+NP
+NP
+NP
+275915	PP
+275918	NP
+NP
+NP
+275922	AdjP
+275924	NP
+NP
+NP
+275933	PP
+NP
+NP
 PP
 NP
-275933	NP
-275935	NP
-275938	NP
 NP
-275941	NP
 275943	PP
-NP
+AdjP
+275946	PP
 275950	NP
+NP
 275958	PP
-275965	NP
 NP
-276001	NP
-276003	NP
-276008	NP
+NP
 PP
+275964	NP
+NP
+PP
+NP
+NP
+275972	NP
+NP
+PP
+275976	NP
+NP
+NP
+NP
+PP
+NP
+NP
+NP
+NP
+275989	PP
+275993	PP
+275999	PP
+NP
+NP
+276007	PP
+276009	NP
+NP
 276012	NP
+276016	NP
 NP
-PP
+276019	NP
+276021	NP
+276023	NP
 NP
-276019	PP
-276024	NP
-276028	NP
+276026	NP
+NP
+276029	PP
 PP
-276034	NP
-PP
-PP
-276038	PP
-276042	PP
-276044	NP
-PP
+276032	PP
+NP
+276035	PP
+276038	NP
+NP
 276047	NP
-PP
-276051	NP
-276053	NP
+NP
+NP
+276053	PP
 276056	NP
-276058	NP
-276061	NP
-276063	NP
-276073	PP
 NP
-276076	NP
-276082	PP
-276090	NP
-276095	NP
-276105	NP
-276125	NP
 NP
-276142	NP
+276060	NP
+NP
+NP
+276065	PP
 NP
 NP
 PP
 NP
-276150	PP
-NP
-276155	PP
-NP
-276158	PP
-NP
-276161	PP
-NP
-276165	NP
+276074	VP
 NP
 NP
-276171	NP
+PP
+276079	VP
+PP
 NP
 NP
-276177	PP
 NP
 NP
-276181	NP
-276184	NP
-276187	PP
+276086	NP
 NP
 NP
-276191	NP
-276194	PP
+PP
+276092	NP
 NP
-276198	NP
-276200	PP
-276204	NP
-276212	NP
-276216	NP
-276224	NP
-276228	NP
 NP
-276232	NP
-276234	NP
-276237	PP
 NP
-276243	NP
+NP
+NP
+NP
+276102	NP
+NP
+276115	NP
+PP
+276118	NP
+276121	PP
+276126	PP
+NP
+NP
+PP
+NP
+NP
+NP
+NP
+NP
+NP
+PP
+NP
+276140	NP
+NP
+PP
+NP
+276146	NP
+NP
+NP
+276150	NP
+276153	PP
+276157	PP
+276179	NP
+NP
+NP
+PP
+NP
+276186	NP
+NP
+NP
+NP
+PP
+NP
+NP
+276199	PP
+276201	PP
+276203	NP
+NP
+NP
+NP
+276208	PP
+NP
+NP
+NP
+276214	NP
+PP
+276217	NP
+276219	PP
+276222	NP
+NP
+NP
+NP
+PP
+276231	NP
+276241	NP
+NP
+PP
 276247	PP
+276249	NP
+276251	PP
+276253	NP
+276255	PP
 NP
-276256	PP
 NP
+276259	PP
+NP
+NP
+NP
+276270	NP
+NP
+NP
+NP
+276276	NP
+NP
+276282	NP
+276284	NP
+NP
+NP
+276288	PP
 PP
 NP
 NP
-NP
-276278	NP
-276283	PP
-276288	PP
+276313	NP
 NP
 NP
 NP
-276295	NP
-276297	PP
 NP
-276306	NP
+276320	PP
+276322	NP
 NP
+PP
 NP
-276312	NP
-276314	NP
+PP
+276328	PP
+276331	NP
 NP
-NP
-NP
-276321	NP
-NP
-NP
-NP
-276329	NP
-NP
-276332	NP
-276334	PP
-NP
-NP
-276339	NP
 NP
 PP
 276343	NP
+276346	PP
+NP
+276350	PP
+276357	NP
+PP
+NP
+276363	PP
+NP
+276368	NP
 NP
 NP
-276364	NP
-276370	NP
+276381	PP
 NP
-276375	NP
-276378	NP
-276381	NP
-276384	NP
-276387	NP
-276404	NP
-276407	NP
-NP
+276384	PP
 NP
 PP
-276415	PP
+276389	PP
+PP
+276399	PP
+NP
+276403	PP
+NP
+276415	NP
+276419	PP
 NP
 NP
-276419	NP
-276421	NP
 NP
-276424	NP
-276427	NP
-276431	NP
-276437	PP
-NP
-276449	PP
-NP
-276453	NP
-276456	NP
-276458	NP
+276426	NP
+PP
 NP
 PP
-276463	NP
+276439	NP
 NP
-276466	PP
 NP
-276474	PP
-276487	PP
+276450	PP
+PP
 NP
+NP
+276462	NP
+276465	PP
+276468	PP
+PP
+276473	PP
+276482	NP
+276484	NP
+NP
+276492	PP
 276495	NP
+276498	PP
+276505	PP
+276510	PP
 NP
+276514	PP
+276519	PP
+276528	PP
 NP
-276504	NP
-NP
-276507	NP
-NP
-276511	NP
-276527	NP
-276534	NP
-NP
-NP
-NP
-276539	NP
+276531	NP
+276537	NP
+276539	PP
 276541	NP
-NP
-276544	NP
-NP
-NP
-276548	PP
-276551	NP
+276545	PP
+276549	NP
 NP
 NP
-276556	NP
+276554	VP
+PP
+276562	NP
 NP
-276559	NP
+276566	PP
 NP
-276564	NP
-276585	NP
 NP
-276589	NP
+NP
+276571	PP
+276575	NP
+276577	PP
+276579	PP
+276581	NP
+276585	PP
 276591	NP
-276596	PP
-276599	PP
-AdvP
-276604	PP
-NP
-276608	PP
-NP
 PP
-276612	NP
-276615	PP
+276598	PP
 NP
-PP
 NP
-276622	PP
-276625	PP
+NP
+276607	NP
+276611	PP
+NP
+276617	NP
+276620	NP
+276623	NP
 PP
 276629	NP
-PP
-NP
-276633	NP
-NP
-PP
-NP
-NP
-276639	PP
+276631	PP
+276634	PP
+276636	NP
+276638	PP
 NP
 PP
-NP
-276646	NP
-NP
-276650	NP
-NP
-276670	NP
 PP
-276681	NP
-276685	NP
-NP
-NP
-276694	PP
-NP
-276697	PP
-NP
-276704	PP
-276707	PP
-276710	NP
-276714	NP
 PP
-276718	NP
-NP
-276722	PP
-276726	PP
-NP
-276730	NP
-276734	NP
-NP
-276737	PP
-276750	PP
-276753	NP
-NP
-NP
-276766	PP
-276772	PP
-NP
-276778	NP
+PP
+PP
+PP
+PP
+PP
+PP
+PP
+PP
+PP
+PP
 PP
 NP
-276791	NP
+PP
+NP
+PP
+NP
+PP
+NP
+PP
+NP
+NP
+NP
+NP
+NP
+276669	PP
+276672	PP
+276717	NP
+NP
+276720	PP
+276722	NP
+NP
+276728	PP
+276731	PP
+NP
+NP
+276735	NP
+276737	NP
+276743	NP
+276745	VP
+276757	PP
+276761	NP
+PP
+276767	PP
+276771	NP
+PP
+276776	NP
+NP
+276782	NP
+276787	PP
 276793	NP
+276797	NP
+276804	PP
 NP
-PP
-276798	PP
-NP
-NP
-NP
-NP
-PP
-276806	NP
-NP
+276822	PP
+276827	PP
+276832	NP
+276835	NP
+276839	PP
 NP
 NP
-276811	PP
+276846	PP
 NP
-NP
-276818	PP
-NP
-NP
-276824	NP
-NP
-276827	NP
-276829	NP
-NP
-NP
-276833	PP
-276839	NP
-276842	NP
-NP
-NP
-276848	NP
-NP
-276851	NP
-NP
-276859	PP
-NP
+276857	PP
 276863	PP
 NP
-276873	NP
-PP
-PP
-276889	PP
 NP
-276894	PP
-NP
-276898	NP
-276900	PP
-276908	PP
-276912	PP
-276914	NP
-276919	PP
-276921	NP
-276932	PP
-NP
-NP
-NP
-276943	NP
+276867	PP
+276874	PP
+276878	PP
+276881	NP
+276883	NP
 PP
 NP
-276958	PP
 NP
 NP
-276963	NP
-276965	NP
-276967	NP
-276970	NP
+276893	PP
+276897	NP
 NP
-276973	NP
-276975	NP
-276977	NP
-276979	NP
+276901	PP
+276910	NP
+276913	NP
 PP
-276984	NP
+NP
+NP
+276918	PP
+276920	PP
+NP
+NP
+276924	PP
+PP
+NP
+276930	PP
+276934	NP
+NP
+NP
+NP
+NP
 NP
 NP
 PP
-276992	PP
+276953	PP
 NP
-276995	NP
+276964	NP
+NP
+276968	PP
+276980	PP
+276983	PP
+276985	PP
+276987	PP
+NP
+276990	NP
+PP
+NP
+NP
+PP
+276996	NP
 276998	NP
+NP
+277005	NP
 PP
-NP
-NP
-277004	PP
-NP
-NP
-277009	NP
-PP
-NP
-NP
-277015	NP
-277021	NP
+277008	NP
+277018	PP
 277023	NP
-277026	NP
-NP
-277030	NP
-277032	NP
-NP
-277035	NP
-277040	NP
-277044	NP
-277046	NP
-277048	NP
+277032	PP
+277035	PP
+277038	PP
+277041	NP
 NP
 NP
+PP
+PP
+PP
+NP
+PP
+277051	PP
 277053	NP
-277056	NP
+NP
+AdvP
+277057	PP
+NP
+NP
+277062	NP
 NP
 PP
-277060	PP
+NP
+277071	PP
+277079	PP
+277083	NP
+NP
+NP
 NP
 PP
+277091	NP
 NP
-277071	NP
-277073	NP
-277075	NP
-277077	NP
-277081	NP
-277088	PP
+277094	PP
+277097	NP
 NP
-PP
-277093	PP
 NP
-277098	NP
-277105	PP
-NP
-PP
-277110	PP
-NP
-277113	NP
-NP
+277101	PP
+277109	PP
+277111	PP
 277117	NP
-277122	NP
-277125	NP
-277127	NP
 NP
+NP
+277121	PP
+NP
+NP
+NP
+277126	PP
+NP
+NP
+277130	NP
+NP
+NP
+NP
+277135	NP
 NP
 PP
 NP
-277137	NP
+277140	PP
 NP
-277140	NP
-277152	NP
-277154	NP
 NP
+NP
+NP
+277148	PP
+277151	PP
+277153	PP
+NP
+277158	NP
 277160	NP
 NP
+277163	NP
 NP
-277166	AdvP
-NP
-NP
-277170	NP
-NP
-277179	NP
-277181	NP
-277183	NP
-277186	NP
-NP
-NP
-277190	NP
-277192	NP
-277197	NP
-277199	NP
-277201	NP
-277207	PP
-NP
-277210	NP
 PP
-277213	NP
-277217	NP
-277219	NP
 NP
-277225	NP
+277177	NP
 NP
-277230	NP
+277180	PP
+NP
+PP
+277192	PP
+NP
+NP
+NP
+277198	PP
+277204	NP
+277206	NP
+NP
+277209	PP
+PP
+277212	PP
+PP
+NP
+NP
+277218	PP
+277221	PP
+NP
+NP
+NP
+NP
+NP
+NP
+NP
 277232	NP
-PP
-277237	NP
-PP
 NP
-277249	NP
+277235	NP
 NP
+277238	PP
+277244	NP
+NP
+277249	PP
+277257	NP
 277260	NP
-277269	NP
+277263	PP
+277266	NP
+277271	NP
 NP
-NP
-277273	PP
+277275	NP
+277277	PP
+277281	NP
+277300	PP
 PP
-277279	NP
 NP
 NP
-277284	NP
-277290	NP
-277293	NP
-277301	NP
 NP
-277304	NP
 NP
-277309	NP
+PP
+NP
+NP
+277310	NP
+NP
+NP
+277314	PP
+NP
 NP
 277323	NP
-NP
-277329	NP
-NP
-277339	NP
-277342	NP
-277345	NP
-277354	NP
-277359	NP
-277361	PP
-NP
-277365	NP
-277374	NP
-277387	PP
-277391	PP
-277396	NP
+277327	NP
+277333	NP
+277335	NP
 NP
 PP
-277404	PP
-277407	PP
-277410	PP
-277416	NP
-NP
-277421	PP
 PP
-277426	PP
-277429	PP
-277439	NP
 NP
+NP
+277343	NP
+277351	PP
+277354	PP
+NP
+277357	NP
+NP
+NP
+PP
+NP
+PP
+NP
+NP
+277371	PP
+NP
+NP
+PP
+277376	NP
+NP
+277379	PP
+PP
+NP
+277383	NP
+NP
+NP
+277387	NP
+277395	PP
+277397	NP
+NP
+277400	PP
+277405	PP
+PP
+277408	PP
+PP
+277413	NP
+277415	NP
+277418	PP
+277428	NP
+NP
+PP
+277434	PP
+277436	NP
+277438	NP
+PP
+277442	NP
 277444	NP
-277446	NP
-277449	NP
-277485	NP
-277503	NP
-277512	PP
-277523	PP
-277525	PP
-277527	PP
-277529	NP
 NP
-277537	NP
-277545	NP
-277548	NP
-277552	PP
+NP
+277448	NP
+277450	NP
+NP
+277453	NP
+NP
+PP
+PP
+277458	PP
+NP
+NP
+PP
+277465	NP
 NP
 PP
 NP
-277558	NP
-277563	VP
-277565	PP
+277477	NP
+277479	NP
+277481	PP
+277486	PP
+277488	NP
 NP
-277569	NP
-277571	PP
-277579	NP
-NP
-NP
-277587	PP
-277590	NP
-277592	NP
-277594	PP
+277491	NP
+277497	NP
+277501	NP
 NP
 NP
+PP
+277506	PP
 NP
-277611	NP
 NP
-277614	NP
-277616	NP
-277623	NP
-277626	NP
+277513	VP
+277519	PP
+277531	PP
 NP
-277629	NP
+NP
+277538	NP
+277542	PP
+277545	NP
+NP
+277548	NP
+277554	PP
+277557	PP
+PP
+277570	PP
+PP
+277580	NP
+277583	PP
+277585	PP
+NP
+277589	NP
+277594	NP
+NP
+277597	PP
+277599	PP
+277601	NP
+277604	PP
+NP
+NP
+277612	NP
+NP
+NP
+277616	PP
+NP
+277625	PP
+277628	NP
+NP
 277632	NP
 NP
-277639	NP
 NP
 NP
-277644	NP
 PP
+277638	PP
+NP
+277643	PP
+277645	NP
+277648	NP
 NP
 NP
-277659	NP
-277663	NP
 NP
-277669	PP
+277654	VP
+NP
+NP
+NP
+277661	PP
+NP
+NP
+277665	PP
+NP
+NP
+NP
+NP
 277671	NP
-NP
-NP
-277676	NP
-277679	NP
 PP
-277685	NP
-277687	NP
-277689	NP
-277693	PP
 NP
+277675	NP
+NP
+NP
+NP
+PP
+NP
+NP
+NP
+277684	NP
+NP
+NP
+277688	PP
+277690	PP
+277693	NP
+PP
 277697	PP
-277699	PP
 NP
-277702	NP
+NP
+277701	NP
+NP
+NP
+PP
+277706	NP
+PP
+NP
+NP
 NP
 277712	NP
-PP
-277717	NP
+277716	PP
 NP
-277720	NP
-277726	NP
 NP
-PP
+277721	NP
+277724	PP
+277727	PP
+277731	PP
+277737	NP
+277742	PP
 NP
-277746	NP
-277749	PP
+277747	PP
 277751	PP
+277755	PP
+277758	NP
+277760	NP
 NP
 NP
-NP
-NP
-277761	PP
-277763	NP
 277767	NP
 PP
-277788	PP
-277794	PP
+NP
+277774	NP
+NP
+277777	PP
+NP
+NP
+NP
+277783	NP
+PP
+NP
+NP
+NP
+277790	PP
+277793	NP
 277796	NP
-277798	PP
-277808	PP
-277812	NP
-NP
-277818	NP
-277822	NP
-277825	NP
-277829	PP
-277839	NP
-277845	NP
-277849	PP
-NP
-NP
-NP
 NP
 NP
 PP
+277811	PP
+277816	NP
+277822	AdjP
+277824	PP
 NP
-277866	NP
+277827	NP
+277830	NP
+277832	PP
+277834	PP
+PP
 NP
-277874	PP
+277845	PP
+NP
+277849	NP
+277855	NP
+277857	NP
+NP
+277861	NP
+277865	NP
+277868	NP
+NP
+PP
+277875	NP
+277882	NP
+277888	PP
+277901	PP
+NP
+277905	PP
 NP
 NP
-277883	PP
-277885	PP
 NP
-NP
-NP
-277891	PP
-277904	NP
 277913	NP
+277916	PP
+NP
 277924	PP
-277931	NP
-277938	PP
-277941	PP
-277944	NP
-277956	PP
-277962	PP
+277927	PP
+277929	NP
+277931	PP
+NP
+NP
+NP
+277937	PP
+NP
+277940	PP
+NP
+277946	NP
+NP
+277949	PP
+277951	PP
 NP
 NP
 PP
+PP
 NP
-277971	NP
-NP
+PP
+277960	PP
 NP
 PP
 NP
-277980	NP
-277983	NP
+277967	PP
+277978	NP
+277984	NP
 NP
-277986	PP
+277994	NP
+277998	NP
 NP
-277989	PP
-277997	NP
-NP
-NP
-278002	NP
+278001	NP
 278008	NP
+278011	PP
 NP
 NP
-278019	NP
-NP
-NP
-NP
-278028	NP
-NP
+278015	NP
 NP
 PP
-278037	NP
-278041	NP
-NP
-NP
+278020	NP
+278022	NP
 NP
 PP
-278059	PP
+278031	NP
+278040	NP
+278047	NP
+278057	NP
+NP
 278063	NP
+NP
+278067	NP
+278069	PP
+278071	PP
 PP
-278066	NP
-278071	NP
 278084	NP
 NP
-278087	NP
+NP
+278090	NP
+278094	PP
 NP
 NP
-278092	NP
+278100	PP
+278106	NP
+278108	NP
+278110	NP
+278112	PP
+278114	PP
+278122	NP
+PP
 NP
-NP
-278097	PP
-NP
-278101	NP
-278124	NP
 NP
 278128	PP
+PP
 NP
-NP
-278132	NP
-278134	PP
-278137	PP
 NP
 NP
 PP
-VP
-278144	NP
-278149	PP
+278138	NP
+278147	NP
 NP
-278154	PP
-278156	PP
-PP
+278152	PP
+278157	NP
 NP
-278161	PP
+278161	NP
+278163	PP
 NP
-278166	PP
-PP
-NP
+278169	NP
+278171	NP
 278173	PP
-NP
 NP
 278179	NP
 NP
+NP
+278183	PP
+278185	NP
+NP
+NP
+278189	PP
+NP
+NP
+278212	NP
+278217	PP
+278221	PP
 PP
 NP
 NP
-278186	NP
-278188	NP
 NP
-278191	NP
-278193	NP
-278199	PP
-278202	NP
 NP
+278231	PP
+NP
+278238	NP
+278259	PP
+278262	PP
+278269	PP
+278273	PP
+278286	NP
+278289	NP
+278296	PP
+278298	PP
+278300	PP
+278302	PP
+278305	PP
+278307	NP
+PP
+278317	PP
+NP
+278324	NP
+NP
+278327	PP
+278329	PP
+278331	PP
+278333	PP
+278335	PP
+278337	PP
+278341	PP
+278343	PP
+278346	PP
+278348	PP
+278351	PP
+NP
+NP
+278356	NP
 PP
 NP
 NP
 NP
-278209	NP
-278213	PP
 NP
-NP
-278224	PP
-278227	NP
-278233	NP
-278235	NP
-NP
-NP
-278241	NP
-278244	NP
-278246	PP
-278251	PP
-NP
-278261	PP
-278263	NP
-278265	NP
-PP
-278268	NP
-NP
-NP
-278274	PP
-NP
-NP
-278278	PP
-278280	PP
-278283	NP
-278298	NP
-NP
-278305	NP
-278309	PP
-278317	NP
-NP
-278334	NP
-278338	NP
-278343	NP
-NP
-NP
-278353	NP
-NP
-NP
-NP
-NP
-NP
-278365	NP
-278368	NP
-278373	NP
-278375	NP
 278379	NP
 NP
 NP
 278384	NP
 NP
-278387	NP
-278390	NP
-278393	NP
-278398	PP
-278400	NP
+278389	NP
+278393	PP
+NP
+278399	PP
 NP
 NP
+278403	NP
+278405	NP
 NP
-278405	PP
-278407	PP
-278409	PP
 278411	PP
-278413	PP
-278415	PP
-278417	NP
-278419	NP
-278422	NP
-278424	NP
-278429	NP
+PP
+278414	PP
 NP
+278418	NP
+NP
+278428	PP
+NP
+278433	NP
+PP
 PP
 NP
-278434	NP
+278441	PP
+278446	PP
 NP
-PP
-NP
-278441	NP
-278443	NP
-278445	NP
-NP
-NP
-PP
 278450	NP
-NP
-PP
-278454	NP
-278456	NP
-NP
-278460	NP
-278462	NP
-NP
-278467	NP
-NP
-NP
-278471	NP
-NP
-NP
-NP
-278481	NP
-278486	NP
-NP
-278499	PP
+278453	NP
 PP
 NP
-PP
+278458	NP
+NP
+278464	PP
+278466	PP
+NP
+278470	NP
+278475	PP
+NP
+278480	NP
+278487	PP
+NP
+278490	PP
+278496	PP
+NP
+278515	PP
+278517	PP
+278523	PP
+NP
+278526	NP
 NP
 NP
-278508	NP
-278516	NP
+278536	NP
 NP
-278521	NP
-NP
-278527	NP
-NP
-278532	NP
-NP
-278538	NP
-278541	NP
-PP
-278544	NP
+278544	PP
 278546	NP
-278548	NP
-278550	NP
-NP
-278553	NP
+278550	PP
+278557	NP
 NP
 NP
+278561	PP
+278567	PP
 NP
-278558	NP
+278571	PP
 NP
 NP
 NP
-278566	NP
+278578	PP
+PP
+PP
+PP
+278584	PP
+278599	PP
+278604	NP
+NP
+278607	NP
+278609	NP
+NP
+NP
+278613	PP
 PP
 NP
-NP
-278571	NP
-NP
-AdjP
-278576	PP
+278625	PP
 NP
 NP
+278630	NP
+278636	NP
 NP
-278583	NP
+278639	NP
+278643	PP
+278651	NP
+278657	NP
 NP
-278588	PP
+278661	NP
+NP
+278668	PP
+NP
+NP
+278693	PP
 PP
-278591	NP
+278702	NP
+278707	NP
 NP
+278710	NP
+NP
+278717	PP
 PP
-NP
-278597	NP
-NP
-NP
-278601	NP
-278603	PP
+278720	NP
+278723	PP
 NP
 NP
-PP
-278623	PP
-278627	NP
-NP
-PP
-278636	PP
-278640	PP
-278648	PP
-278666	PP
-278670	NP
-278672	PP
-278674	NP
-278678	PP
-PP
-NP
-NP
-278698	PP
-NP
-278701	NP
-278703	PP
-278713	PP
-278716	PP
-278720	PP
+278754	NP
 NP
 PP
-278724	NP
-278730	PP
-PP
-NP
-278747	PP
-NP
-278751	NP
-PP
-278760	NP
-NP
-278764	NP
-NP
-278767	PP
+278759	NP
+278764	PP
 NP
 278772	NP
-278774	NP
-278776	NP
-278782	PP
+278774	PP
+PP
 NP
-NP
-278788	NP
-NP
+278778	NP
+278781	NP
+278787	NP
 278794	NP
 NP
-278797	NP
-278800	NP
-278803	NP
-NP
-NP
-278808	PP
-278811	PP
-NP
+278801	PP
+AdvP
+278806	NP
+278809	NP
 NP
 PP
+278814	PP
+278819	PP
+278824	PP
+278827	PP
 NP
-278818	NP
-NP
-278822	PP
-NP
-NP
-NP
-NP
-NP
-278832	NP
-278837	NP
-NP
-NP
-PP
-NP
-NP
+278830	NP
+278833	PP
+278836	PP
 PP
 NP
 PP
+278845	PP
 NP
+278855	PP
+278871	PP
 NP
-PP
-NP
-278851	NP
-NP
-NP
-NP
-278856	PP
-PP
-NP
-NP
-278861	PP
-NP
-NP
-278866	PP
-NP
-278870	NP
-NP
-278873	NP
-NP
-NP
-NP
-NP
-278879	NP
-NP
-278883	PP
-NP
-NP
-NP
-PP
-278891	NP
-PP
-NP
-PP
+278876	NP
+278885	NP
+278889	PP
+278896	PP
 NP
 278899	PP
 NP
-278904	NP
-NP
+278915	NP
 NP
 PP
-278909	PP
-NP
-278912	NP
-NP
-NP
-278919	PP
-NP
-NP
 278926	PP
 NP
-NP
-278930	PP
-NP
-NP
-NP
-278935	NP
-278938	NP
-NP
-278941	PP
+278930	NP
+278934	PP
+278936	PP
+PP
 278945	NP
-278947	NP
 278949	NP
 NP
+NP
+278955	PP
 278958	PP
 NP
+278962	NP
 NP
-278962	PP
+278965	NP
 NP
-278965	PP
-PP
+278968	NP
 278971	NP
-278975	PP
 NP
 NP
-NP
-278981	VP
-PP
-278984	PP
-NP
-278987	NP
-278989	PP
-NP
-278995	PP
-278998	AdvP
-279001	NP
-PP
-NP
-279005	PP
+278975	NP
 NP
 NP
 NP
 PP
-PP
-279012	PP
 NP
+278983	NP
+278986	PP
+278988	PP
+278990	PP
+278998	PP
+279000	NP
 NP
-279016	NP
-279018	NP
-NP
-NP
-NP
-279023	PP
-NP
-279026	NP
 PP
 NP
-279030	PP
 NP
-279033	PP
 NP
-279037	PP
+NP
+279010	PP
+279013	NP
+279020	PP
+NP
+NP
+279026	PP
+NP
+279029	NP
+279031	PP
+NP
+NP
+279035	NP
+NP
+279040	NP
+PP
+NP
+NP
+NP
 279052	PP
-279058	PP
-279060	NP
-279063	NP
-279065	PP
+279055	PP
+NP
+PP
+279059	NP
+279073	NP
 NP
 NP
-NP
-NP
-279071	NP
-NP
-279075	PP
-279078	NP
-279081	PP
-279083	PP
+279082	NP
+PP
 279086	PP
-279088	PP
-279090	PP
-279092	PP
-NP
-279098	NP
-279103	PP
-279107	PP
-NP
-279110	NP
-279113	NP
+279104	PP
 279115	NP
+279124	NP
+279132	NP
+279134	PP
+279138	PP
+279143	PP
+279149	PP
 NP
+279154	NP
 NP
-PP
-279122	NP
-NP
-NP
-279126	PP
-PP
-279129	PP
-279137	PP
-279139	NP
-279141	NP
-PP
-NP
-279145	PP
-PP
 NP
 NP
 PP
+NP
+279161	PP
+279163	NP
+NP
+NP
+279171	PP
+NP
 PP
-279154	PP
-PP
-279164	NP
 NP
 NP
 PP
 NP
 NP
-279173	NP
-279175	PP
+279180	NP
+279182	NP
 NP
 NP
-279183	PP
-279186	NP
-NP
-279191	NP
+279191	PP
 NP
 NP
-279199	AdvP
+279196	PP
+NP
+NP
+279200	NP
+NP
 PP
-PP
-279209	NP
+279206	PP
+NP
 279215	PP
-279218	NP
-279224	PP
+PP
+NP
+NP
+PP
+279223	PP
+279227	PP
 279230	PP
 NP
-279233	NP
+279233	PP
+279238	PP
 NP
 NP
-279237	PP
-279239	NP
-279241	NP
-279244	PP
+279242	NP
+279248	NP
 NP
-279249	NP
-279255	PP
-279264	PP
-279268	NP
-279271	NP
+NP
+279256	PP
+NP
+279263	PP
+NP
+NP
+279267	NP
+279269	NP
+VP
+279272	NP
+279274	NP
 NP
 NP
 NP
 PP
+279282	VP
+279290	NP
+279296	PP
 NP
-279278	AdvP
-279282	NP
+279299	PP
 NP
-279285	NP
-279290	PP
-279292	PP
-279298	NP
-NP
-279301	PP
-279309	NP
-279316	PP
+279303	PP
 PP
-NP
-279322	PP
-NP
-279326	NP
-NP
-279331	PP
+279306	NP
+279309	PP
+279314	NP
+279318	PP
 NP
 PP
-NP
-NP
-NP
-279341	PP
+279324	PP
+279330	NP
+PP
+279336	PP
+279338	NP
+279341	NP
 279345	NP
-NP
-279350	NP
-NP
-279356	PP
-NP
-279363	PP
-NP
-279366	NP
+279347	NP
+279350	PP
+279357	PP
+279359	NP
+279361	NP
 NP
 NP
+279365	PP
+279367	PP
+279380	NP
 NP
-279371	PP
+279396	NP
+NP
+NP
+279401	NP
+279405	PP
+NP
+NP
+279409	NP
 PP
 NP
-279375	NP
-279377	NP
+279415	NP
+279425	NP
+279432	PP
+NP
+279436	PP
+NP
+279440	NP
+279446	NP
+279454	PP
 PP
-279381	PP
-279385	NP
-PP
-PP
-279390	NP
-PP
-PP
-279394	PP
-279398	VP
-279400	NP
-NP
-NP
-NP
-279406	PP
-279409	PP
-PP
-PP
-279419	PP
-279421	NP
-PP
-279424	PP
-NP
-NP
-279430	PP
-NP
-NP
-279434	PP
-NP
-279439	NP
-279441	PP
-279444	NP
-NP
-279447	PP
-NP
-279450	PP
-NP
-NP
-279455	PP
-NP
-PP
-NP
-279460	PP
+279459	VP
+279461	PP
 279465	PP
-279467	PP
-279469	NP
-NP
 PP
 NP
 279477	NP
+PP
+279483	NP
 NP
 NP
-279481	NP
-279484	NP
+279487	NP
 279489	NP
 NP
+279498	PP
 NP
+NP
+NP
+279503	NP
 PP
-279496	PP
-279501	NP
+279512	AdvP
+279515	NP
+279525	PP
+279534	PP
 NP
+279538	PP
+NP
+279541	NP
 PP
+279548	PP
 NP
+279552	PP
 NP
-PP
+279555	PP
 NP
-NP
-NP
-NP
-279513	AdvP
-NP
-NP
-NP
-279518	PP
-279521	NP
-NP
-NP
-279525	AdjP
-279527	NP
-NP
-NP
-279536	PP
-NP
-NP
-PP
-NP
-NP
-279546	PP
-AdjP
-279549	PP
-279552	NP
-NP
-279560	PP
-NP
-NP
-PP
+279559	NP
+279564	PP
 279566	NP
-NP
+279570	NP
+279586	PP
+279601	PP
+279607	PP
 PP
-NP
-NP
-279574	NP
-NP
-PP
-279578	NP
-NP
-NP
-NP
-PP
-NP
-NP
-NP
-NP
-279591	PP
-279594	PP
-279599	PP
-NP
-NP
-279606	PP
-279608	NP
-NP
 279611	NP
-279615	NP
+279613	NP
 NP
-279618	NP
-279620	NP
-279622	NP
 NP
-279625	NP
+279621	PP
+279624	NP
 NP
-279628	PP
+NP
+279630	PP
+279636	NP
+NP
+279642	PP
+279647	NP
+279650	PP
+279652	PP
+NP
+NP
+279657	PP
+NP
+279677	NP
+279681	PP
+279683	PP
+NP
+279686	PP
+NP
+279692	NP
+279696	PP
+279700	NP
 PP
-279631	PP
+279703	NP
+279707	NP
+279709	PP
+279711	NP
 NP
+279714	NP
+279717	PP
+NP
+NP
+279721	NP
 PP
-279635	NP
-NP
-279642	NP
+279724	PP
 NP
 NP
-279646	PP
-279649	NP
+279729	PP
+NP
+279732	PP
+279738	NP
+279742	NP
+279744	PP
 NP
 NP
-279653	NP
 NP
+279752	PP
+279755	PP
 NP
-279658	PP
-NP
-NP
+279759	NP
 PP
-NP
-279666	VP
-NP
-NP
-PP
-279671	VP
-PP
+279763	NP
+279767	PP
+279772	PP
+279778	PP
 NP
 NP
 NP
-NP
-279678	NP
-NP
-NP
-PP
-279684	NP
+279783	PP
+279788	NP
+279790	PP
+279792	PP
 NP
 NP
 NP
 NP
+279798	PP
+279801	NP
 NP
 NP
-279693	NP
+279805	PP
 NP
-279702	NP
-PP
-279705	NP
-279707	PP
-279712	PP
+279808	PP
+279811	NP
 NP
+279818	NP
+279821	NP
+279823	NP
 NP
-PP
-NP
-NP
-NP
-NP
-NP
-NP
-PP
-NP
-279726	NP
-NP
-PP
-NP
-279731	NP
-NP
-NP
-279735	NP
-279738	PP
-PP
-279757	NP
-NP
-NP
-PP
-NP
-279764	NP
-NP
-NP
-NP
-PP
-NP
-NP
-279775	PP
-279777	PP
-279779	NP
-NP
-NP
-NP
-279784	PP
-NP
-NP
-NP
-279789	NP
-PP
-279792	NP
-279794	PP
-279797	NP
-NP
-NP
-NP
-PP
-279806	NP
-279814	NP
-NP
-PP
-279820	PP
-NP
-279823	PP
-279825	NP
-279827	PP
-NP
-NP
-279831	PP
-NP
-NP
-NP
-279840	NP
-NP
-NP
+279830	NP
+279832	PP
+279835	PP
+279838	NP
 NP
 279846	NP
+279848	PP
 NP
-279850	NP
-279852	NP
 NP
 NP
 PP
+NP
+279859	PP
+279861	NP
+279865	PP
+NP
+279868	PP
+NP
+279871	PP
+279873	NP
+279876	NP
 PP
 NP
-NP
-279878	NP
-NP
-NP
-NP
-NP
-279884	PP
-279886	NP
-NP
+279880	PP
+279883	NP
+279887	PP
 PP
 NP
-PP
-279892	PP
-279894	NP
+279891	NP
+279896	NP
+279900	NP
+279902	PP
 NP
 NP
-PP
-279906	NP
-279909	PP
 NP
-279913	PP
-279919	NP
-PP
-NP
-279925	PP
-NP
-279929	NP
-NP
-NP
-279939	PP
-NP
-279942	PP
+279916	PP
+279918	NP
+279921	NP
 NP
 PP
+279925	NP
+PP
+NP
+279931	PP
+279934	NP
+PP
+279938	PP
+NP
+NP
+279944	NP
+NP
 279947	PP
-PP
+279949	PP
+279953	NP
 279955	PP
+279959	NP
+279961	PP
 NP
-279959	PP
-NP
-279969	NP
-279973	PP
-NP
-NP
-NP
-279980	NP
-PP
 NP
 PP
-279992	NP
+279968	PP
+279985	NP
+279989	PP
+279998	NP
+NP
+280001	PP
+280005	PP
 NP
 NP
-280002	PP
-PP
+280013	NP
+280016	PP
+280020	PP
 NP
 NP
-280012	NP
-280015	PP
-280018	PP
-PP
-280023	PP
-280031	NP
-280033	NP
 NP
-280040	PP
+280025	NP
+280029	PP
+NP
+NP
+NP
+VP
+280038	NP
+NP
+NP
 280043	NP
-280046	PP
-280052	PP
-280056	PP
-NP
-280060	PP
-280064	PP
-280073	PP
 NP
 NP
-280080	NP
-280082	PP
-NP
-280087	PP
-280091	NP
-NP
-NP
-280096	VP
+280047	PP
+280049	PP
+280051	NP
 PP
-280103	NP
+280055	NP
+280063	NP
 NP
+NP
+NP
+NP
+PP
+NP
+NP
+280073	NP
+280081	NP
+PP
+280103	PP
 280107	PP
+280109	NP
+NP
+280114	AdvP
+280127	PP
+280149	PP
 NP
 NP
+280154	NP
+280157	NP
 NP
-PP
-280115	NP
-280117	PP
-280119	PP
-280121	NP
-280125	PP
-280131	NP
-PP
-280138	PP
-NP
-NP
-NP
-280146	NP
-280150	PP
-NP
-280156	NP
-280159	NP
-NP
-PP
-280166	NP
-280168	PP
-280171	PP
-280173	NP
-PP
-NP
-PP
-PP
-PP
-PP
-PP
-PP
-PP
-PP
-PP
-PP
-PP
-PP
-PP
-PP
-NP
-PP
-NP
-PP
-NP
-PP
 NP
 PP
 NP
 NP
+280167	NP
+280174	NP
 NP
+280182	NP
 NP
+280188	NP
+280207	PP
+280212	PP
+280215	PP
+280217	NP
+280221	PP
+280225	PP
+280231	PP
+280235	NP
 NP
-280204	PP
-280206	PP
-280243	NP
-NP
-280246	PP
-280248	NP
-NP
-280253	PP
-280256	PP
-NP
-NP
+280239	PP
+280243	PP
+280246	NP
+280254	NP
+280257	NP
+PP
 NP
 280261	NP
-280266	NP
-280268	VP
-280278	PP
-280281	NP
-PP
-280287	PP
-280291	NP
-PP
-280295	NP
-NP
-280301	NP
-280304	PP
-280309	NP
-280313	NP
-280316	PP
-NP
-280332	PP
-280337	PP
-280340	NP
-280343	NP
-280347	PP
-NP
-NP
-280353	PP
-NP
-280363	PP
-280369	PP
-NP
-NP
-280373	PP
-280378	PP
-280382	PP
-280384	NP
-280386	NP
 PP
 NP
-NP
-NP
-280395	PP
-280398	NP
-NP
-280401	PP
-280409	NP
-280412	NP
-PP
-NP
+280265	NP
+280267	PP
 NP
 PP
-280418	PP
-NP
-NP
-280422	PP
-PP
-NP
-280427	PP
-280430	NP
-NP
-NP
-NP
-NP
-NP
+280271	NP
+280273	PP
 NP
 PP
-280447	PP
 NP
-280456	NP
-NP
-280460	PP
-280470	PP
-280473	PP
-280475	PP
-280477	PP
-NP
-280480	NP
-PP
-NP
+280283	NP
+280288	PP
 NP
 PP
-280486	NP
-280488	NP
+280297	NP
+280301	PP
 NP
-280494	NP
-PP
-280497	NP
-280506	PP
-280511	NP
-280517	PP
-280520	PP
-280523	PP
-280525	NP
+280305	NP
+NP
+280309	PP
 NP
 NP
-PP
-PP
-PP
 NP
+280314	NP
+280319	NP
+280336	NP
+NP
+NP
+280342	NP
+280346	PP
+NP
+280352	PP
+280355	NP
 PP
-280535	PP
-280537	NP
+280363	NP
+280367	NP
+280369	NP
 NP
 AdvP
-280541	PP
+280374	NP
 NP
 NP
+PP
+NP
+NP
+NP
+280385	NP
+280387	NP
+NP
+280398	NP
+280414	NP
+NP
+280420	NP
+NP
+280424	PP
+280426	PP
+280428	NP
+280433	PP
+NP
+280436	PP
+280446	NP
+PP
+280457	NP
+280459	PP
+280462	NP
+NP
+NP
+280468	PP
+PP
+280471	NP
+280477	NP
+280492	NP
+NP
+NP
+280503	PP
+280507	AdvP
+NP
+PP
+NP
+NP
+280513	PP
+NP
+280517	NP
+280519	NP
+280521	PP
+NP
+280524	PP
+280527	NP
+NP
+280538	PP
 280546	NP
-NP
-PP
-NP
-280554	PP
-280560	PP
-280564	NP
+AdvP
+280550	NP
+280553	PP
 NP
 NP
-NP
-PP
-280572	NP
+280557	PP
 NP
 280575	PP
-280578	NP
+280580	NP
 NP
 NP
-280582	PP
-280588	PP
-280590	PP
+280588	NP
+AdjP
 280596	NP
+280598	NP
+280602	NP
+280604	NP
 NP
-NP
-280600	PP
-NP
-NP
-NP
-280605	PP
-NP
-NP
-NP
-NP
-NP
+280608	PP
 NP
 280613	NP
+280615	NP
+280617	NP
+280619	PP
+280621	NP
+280623	NP
+280642	PP
 NP
+280645	NP
+280647	NP
 PP
 NP
-280618	PP
+280653	NP
+280656	NP
+NP
+280662	NP
 NP
 NP
-NP
-NP
-280624	PP
-280627	PP
-280629	PP
-NP
-280633	NP
-280635	NP
-NP
-NP
-NP
-PP
-NP
-280648	NP
-NP
-280651	PP
-NP
-PP
-280663	PP
-NP
-NP
-NP
-280670	PP
-280675	NP
 280677	NP
+280679	NP
+280685	PP
+280687	NP
+280691	PP
 NP
-PP
-PP
-280682	PP
-PP
-NP
-NP
-280687	PP
-280690	PP
-NP
-NP
-NP
-NP
-NP
-NP
+280695	NP
 NP
 280701	NP
+280703	PP
 NP
+280720	PP
 NP
 NP
 PP
-280711	NP
 NP
-280716	PP
-280723	NP
-280726	NP
 280729	PP
-280732	NP
-280737	NP
 NP
-280741	NP
-280743	PP
-280748	NP
-280765	PP
-280767	PP
+PP
+NP
+280734	NP
+NP
+280740	NP
+280753	NP
+PP
+280757	PP
 NP
 NP
+NP
+280763	NP
+280766	NP
+NP
+280771	PP
+280778	NP
+NP
+NP
+280785	NP
+280795	PP
+NP
+NP
+280806	PP
+NP
+NP
+280810	NP
+NP
+280813	PP
+280827	NP
+280830	NP
+NP
+280835	PP
+280838	PP
+NP
+NP
+NP
+280843	NP
+280850	NP
 NP
 NP
 PP
 NP
 NP
-280776	NP
+280857	NP
+NP
+280860	NP
+NP
+280863	PP
 NP
 NP
-280780	PP
-NP
-NP
-280788	NP
-280792	NP
-280797	NP
-280799	NP
-NP
-PP
-PP
-NP
-NP
-280806	NP
-280814	PP
-280817	PP
-NP
-NP
-NP
-NP
-PP
-NP
-PP
-NP
-NP
-280832	PP
-NP
-NP
-PP
-NP
-NP
-280839	PP
-PP
-NP
-NP
-NP
-NP
-280846	NP
-280853	PP
-NP
-NP
-280857	PP
-280861	PP
-PP
-280864	PP
-PP
 280869	NP
 NP
-280873	PP
-280881	NP
+280872	PP
 NP
+NP
+280878	PP
+280880	NP
 PP
-280885	PP
-NP
-280888	NP
-PP
-280891	NP
-NP
-NP
-NP
-280896	NP
-NP
+280886	PP
+280889	NP
+280895	NP
 NP
 280900	NP
 NP
-PP
-PP
 280905	PP
 NP
 NP
 PP
-280911	NP
 NP
 PP
+280914	PP
+PP
 NP
-280922	NP
-NP
+280921	PP
+PP
 280925	PP
-280930	PP
-280932	NP
+PP
+280928	PP
+PP
 NP
-280935	NP
-280938	NP
-280941	NP
+NP
 NP
 NP
 PP
-280946	PP
 NP
 NP
-280952	VP
-280956	PP
-280968	PP
+NP
+280939	NP
+280943	PP
+280945	PP
+280948	NP
+NP
+PP
 NP
 NP
-280975	NP
-280978	PP
-280981	NP
 NP
-280984	NP
-280989	PP
-280992	PP
+NP
+NP
+PP
+NP
+NP
+NP
+280961	NP
+280964	PP
+PP
+NP
+280971	NP
+NP
+NP
+NP
+PP
+NP
+280978	NP
+280981	PP
+PP
+NP
+NP
+NP
+NP
+280989	NP
+PP
+NP
+280993	NP
+PP
+NP
+280997	NP
+PP
+NP
+PP
 PP
 281005	PP
-PP
-281012	NP
-281014	PP
-281016	PP
-NP
-281020	NP
-281023	NP
-NP
-281026	PP
-281028	PP
-281030	NP
-281033	PP
 NP
 NP
-281040	NP
+281009	PP
 NP
-NP
-281044	PP
-NP
-281052	PP
-281054	NP
-NP
-281058	NP
 NP
 NP
 NP
 PP
-281064	PP
-NP
-281068	PP
-281070	NP
-281072	NP
+281017	PP
 NP
 NP
-NP
-281078	VP
-NP
-NP
-NP
-281085	PP
-NP
+281021	PP
 NP
 PP
 NP
+281027	NP
 NP
-NP
-NP
-281094	NP
-PP
 NP
 NP
 NP
 NP
 NP
 PP
+281039	NP
 NP
 NP
 NP
-281106	NP
 NP
-NP
-PP
-281111	PP
-281114	NP
-PP
-281118	PP
-NP
-NP
-281122	NP
+281046	NP
 NP
 NP
 PP
-281127	NP
+NP
+NP
 PP
 NP
 NP
 NP
-NP
-281136	PP
-NP
-NP
-281140	NP
-281142	PP
-281145	PP
-281149	PP
-281155	NP
-281159	PP
-NP
-281164	PP
-281166	PP
-281170	PP
-281172	NP
-281174	NP
+PP
+281060	NP
 NP
 NP
-281181	NP
+PP
 PP
 NP
-281186	NP
+281069	NP
 NP
-281189	PP
-NP
-NP
-NP
-281195	NP
 PP
 NP
 NP
+281077	PP
+281080	PP
 NP
-281201	PP
-281204	NP
+NP
+281085	NP
+NP
+281088	NP
+NP
+281091	NP
+NP
+NP
+281096	NP
+281099	PP
+NP
+281102	NP
+NP
+NP
+NP
+PP
+281112	NP
+NP
+NP
+NP
+281117	NP
+NP
+NP
+NP
+NP
+NP
+NP
+PP
+NP
+281128	NP
+NP
+NP
+281132	NP
+NP
+NP
+PP
+281138	PP
+NP
+NP
+NP
+NP
+NP
+NP
+281147	PP
+NP
+281152	PP
+281155	PP
+NP
+PP
+NP
+PP
+281161	NP
+281167	NP
+NP
+281171	AdvP
+PP
+NP
+NP
+281176	PP
+PP
+281183	PP
+NP
+NP
+281189	NP
+PP
+281192	NP
+281196	NP
+NP
+NP
+NP
+NP
+PP
 281207	NP
+281209	NP
+281211	NP
+PP
+281215	PP
+NP
+NP
 NP
 NP
 PP
-281221	PP
-281226	NP
-281230	AdjP
-281232	PP
+281222	NP
 NP
 NP
-281237	NP
+NP
+NP
+281228	NP
+281231	PP
+NP
+NP
+NP
 PP
+NP
+NP
 281240	PP
-PP
 NP
-281251	PP
 NP
+NP
+NP
+281246	NP
+NP
+281249	NP
+281251	NP
 281254	NP
-281258	NP
-281260	NP
+281257	NP
 NP
-281264	NP
-281268	NP
-281271	NP
-NP
+281261	NP
+281265	PP
 PP
+NP
+281269	NP
+NP
 281278	NP
-281284	NP
+281280	NP
+281282	VP
 281289	PP
-281301	PP
 NP
-281305	PP
+PP
+281295	PP
+281297	NP
+281299	NP
 NP
 NP
+281303	NP
 NP
+NP
+PP
+NP
+NP
+PP
+PP
 281312	NP
-281315	PP
-NP
-281322	PP
-281325	PP
-281327	NP
-281329	PP
-NP
-NP
-NP
-281334	PP
-NP
-281337	PP
-NP
-281343	NP
-NP
+281314	VP
 PP
-281347	PP
+281319	PP
 NP
 NP
-PP
-PP
+281324	PP
+281329	NP
+281333	PP
+281335	PP
+281337	NP
+281340	NP
+281342	PP
+281351	NP
 NP
 PP
 281356	PP
+281358	NP
 NP
 PP
+281363	NP
 NP
-281363	PP
-281373	NP
-281378	NP
+PP
+AdjP
+281369	NP
 NP
-281387	NP
-281391	NP
 NP
-281394	NP
-281399	NP
-281402	PP
+281373	AdjP
 NP
+NP
+NP
+281382	AdjP
+PP
+NP
+281387	PP
+281395	PP
+NP
+NP
+NP
+281403	NP
 NP
 281406	NP
-NP
-PP
-NP
-281411	NP
-NP
-PP
-281418	NP
-281424	NP
-281430	NP
-281440	NP
-NP
-281444	NP
-NP
-281448	NP
-281450	PP
-281452	PP
-PP
-281464	NP
+281410	NP
 NP
 NP
-281469	NP
-281473	PP
-NP
-NP
-281478	PP
-281484	NP
-281486	NP
-281488	NP
-281490	PP
-281492	PP
-281498	NP
-PP
-NP
-NP
-281504	PP
+281414	NP
 PP
 NP
 NP
 NP
-281510	PP
+NP
+NP
+NP
+PP
+281426	NP
+281428	PP
+PP
+NP
+NP
+281436	NP
+PP
+NP
+NP
+PP
+NP
+281443	NP
+PP
+281452	NP
+281455	NP
+281457	PP
+281459	NP
+NP
+PP
+NP
+PP
+NP
+281474	NP
+NP
+281477	NP
+NP
+281480	PP
+NP
+NP
+NP
+281489	NP
+281491	PP
+NP
+281495	PP
+NP
+PP
+281499	PP
+NP
+281502	PP
+NP
+NP
+PP
+PP
+281508	NP
+NP
+NP
+NP
+281513	PP
 281515	NP
-281525	NP
+281519	NP
 NP
-281530	PP
-281535	NP
-NP
-281538	NP
-281540	PP
-NP
-281545	NP
-281547	NP
-281549	PP
-NP
-281555	NP
+281522	NP
 NP
 NP
-281559	PP
-281561	NP
-NP
-NP
-281565	PP
-NP
-NP
-281585	NP
-281590	PP
-281594	PP
+281527	PP
 PP
+281531	NP
+281534	PP
+PP
+281539	NP
+NP
+NP
+PP
+281544	NP
+NP
+NP
+281548	NP
+281551	NP
+NP
+NP
+281557	NP
+281559	NP
+NP
+281562	PP
+281564	NP
+281568	NP
+NP
+PP
+281572	PP
+NP
+NP
+281576	PP
+NP
+NP
+281580	NP
+NP
+NP
+281585	PP
 NP
 NP
 NP
 NP
-281603	PP
+281591	NP
+AdjP
+NP
+281595	NP
+NP
+281598	NP
+281600	NP
+NP
+NP
+NP
+281607	NP
 NP
 281610	NP
-281630	PP
-281633	PP
-281639	PP
-281643	PP
-281653	NP
-281656	NP
-281662	PP
-281664	PP
-281666	PP
-281668	PP
-281670	PP
+281612	PP
+NP
+PP
+281616	NP
+NP
+281622	NP
+281624	NP
+281626	NP
+PP
+NP
+PP
+NP
+NP
+NP
+NP
+NP
+PP
+281637	NP
+NP
+281641	PP
+281644	NP
+281646	NP
+NP
+PP
+281650	NP
+281653	PP
+PP
+NP
+NP
+281661	PP
+281663	NP
+NP
+NP
+PP
+281669	NP
+PP
 281672	NP
+NP
 PP
-281682	PP
-NP
-281687	NP
-NP
-281690	PP
-281692	PP
-281694	PP
-281696	PP
-281698	PP
-281700	PP
-281702	PP
-281704	PP
-281706	PP
-281708	PP
-281710	PP
-NP
-NP
-281714	NP
+281676	NP
 PP
 NP
 NP
-NP
-NP
-281734	NP
-NP
-NP
-281738	NP
-NP
-281741	NP
-281745	PP
-NP
-281750	PP
+281681	PP
+281683	PP
+281688	PP
 NP
 NP
 NP
-281755	NP
 NP
-281760	PP
+281695	PP
+NP
+NP
 PP
-281763	PP
 NP
-281767	NP
 NP
-281776	PP
-NP
-281781	NP
+281702	NP
 PP
+NP
 PP
+NP
+NP
+PP
+281715	PP
+NP
+NP
+281719	NP
+281726	NP
+NP
+281729	NP
+NP
+NP
+281734	PP
+NP
+NP
+NP
+NP
+281741	PP
+NP
+281748	PP
+281750	NP
+281752	PP
+281754	NP
+281756	PP
+NP
+281759	PP
+281761	PP
+NP
+NP
+NP
+NP
+NP
+NP
+281773	NP
+NP
+PP
+281778	NP
+281782	PP
 NP
 281786	PP
-281790	PP
+281789	PP
+281792	NP
 NP
-281794	NP
-281797	NP
+NP
 PP
 NP
+NP
+NP
+281801	NP
 281803	NP
+281807	PP
 NP
-281806	PP
-281808	PP
 NP
-281812	NP
-281816	PP
 NP
+NP
+281813	NP
+NP
+NP
+281817	NP
 281820	NP
-281826	PP
 NP
-281829	PP
-281835	PP
-NP
-281851	PP
-281853	PP
-281859	PP
-NP
-281862	NP
+281823	PP
+281825	PP
+281827	PP
 NP
 NP
-281873	NP
-281875	NP
-281882	PP
-281884	NP
-281888	PP
-281894	NP
+281832	NP
+PP
 NP
 NP
-281898	PP
+NP
+NP
+NP
+281843	PP
+281848	NP
+281857	PP
+NP
+NP
+NP
+NP
+NP
+281865	NP
+281867	PP
+NP
+NP
+281872	NP
+281877	NP
+281879	NP
+281881	NP
+281883	NP
+281887	PP
+NP
+NP
+NP
+NP
+NP
+PP
+NP
+PP
+NP
+NP
+NP
+NP
+281902	NP
 281904	PP
 NP
-281908	PP
+NP
+281908	NP
+281910	NP
 NP
 NP
 NP
-281914	PP
+NP
 PP
+NP
 PP
+NP
+NP
+NP
+NP
+NP
+281927	AdjP
+281930	NP
+NP
+NP
 PP
-281919	PP
-281934	PP
-281939	NP
-NP
-281942	NP
-281944	NP
 NP
 NP
+NP
+NP
+PP
+NP
+PP
+NP
+NP
+NP
+281946	PP
 281948	PP
+281952	NP
+281955	NP
 PP
 NP
-281959	PP
 NP
+281961	PP
 NP
 281964	NP
+PP
+NP
+NP
+PP
 281970	NP
 NP
-281973	NP
-281977	PP
-281983	NP
-281988	NP
 NP
+NP
+281975	PP
+NP
+NP
+PP
+281985	PP
 281992	NP
-NP
-281998	PP
-NP
-NP
-282021	PP
-PP
-282029	NP
-282033	NP
-NP
-282036	NP
-NP
-282043	PP
-PP
-282046	NP
-282049	PP
+281994	PP
 NP
 NP
-282074	NP
+NP
+VP
+NP
+282001	NP
+NP
 NP
 PP
-282079	NP
-282084	PP
-NP
-282090	NP
-282092	PP
+282006	NP
+282008	PP
 PP
 NP
 NP
-282098	NP
+NP
+NP
+282019	NP
+PP
+NP
+NP
+NP
+PP
+282031	NP
+282037	PP
+282042	PP
+NP
+282047	PP
+NP
+NP
+282051	NP
+NP
+282054	PP
+NP
+NP
+NP
+282060	NP
+NP
+NP
+NP
+282067	NP
+NP
+PP
+282071	PP
+NP
+282075	NP
+282078	NP
+282082	PP
+NP
+NP
+282087	NP
+282094	NP
+282097	PP
+NP
 282102	NP
-282108	NP
+282112	NP
 NP
-282113	PP
-AdvP
-282118	NP
-282120	NP
+NP
+282121	NP
 NP
 PP
-282125	PP
-282130	PP
-282134	PP
-282137	PP
 NP
 NP
-282142	PP
-282145	PP
+282133	PP
+NP
+NP
+282145	NP
+NP
+NP
+NP
+PP
+282151	PP
+NP
+NP
+282160	PP
 PP
 NP
-PP
-282152	PP
+282165	PP
+AdjP
+282170	NP
 NP
-282161	PP
-282176	PP
+PP
+282178	NP
 NP
 282181	NP
-282189	NP
-282193	PP
-282199	PP
+282184	PP
+282187	NP
 NP
-282202	PP
+282194	PP
 NP
-282215	NP
+NP
+282199	NP
+PP
+NP
+282207	NP
+282211	PP
+282231	NP
+282241	PP
+NP
+NP
+NP
+282250	NP
+PP
+282254	NP
+NP
 NP
 PP
-282226	PP
-NP
-282229	NP
-282232	PP
-282234	PP
-PP
-282242	NP
-282246	NP
-NP
-NP
-282251	PP
-282254	PP
-NP
-282258	NP
-NP
 NP
 NP
 NP
 282264	NP
-NP
-NP
-282268	NP
-NP
-NP
-NP
-PP
-NP
-NP
-PP
-282277	PP
-282279	PP
-282283	PP
-282285	NP
+282273	PP
+282275	NP
+282277	NP
+282279	NP
 NP
 PP
 NP
+282290	NP
+282297	NP
 NP
 NP
 NP
-282294	PP
+282308	PP
+282313	NP
+282316	PP
 NP
-282299	PP
+282319	NP
+282331	PP
+NP
+282336	NP
+282350	NP
+282352	NP
+282356	PP
+282363	NP
 NP
 NP
-282305	PP
+282370	PP
+282375	PP
+282382	NP
+282385	NP
 NP
 NP
-282309	PP
-NP
-NP
-NP
-NP
-282316	NP
+282390	PP
 PP
 NP
+282394	NP
 NP
-NP
-282327	PP
-282330	PP
-NP
-PP
-NP
-282347	NP
-NP
-NP
-282353	NP
-PP
-282357	PP
-282372	PP
-282381	NP
-282391	NP
-282399	NP
+282397	NP
 282401	PP
-282405	PP
-282408	PP
-282414	PP
-NP
-282418	NP
 NP
 NP
 NP
-PP
 NP
-PP
+282407	NP
+282411	NP
+NP
+282415	NP
+NP
+NP
+NP
+282420	NP
+NP
+282424	NP
 282426	NP
-NP
-NP
-282434	PP
-NP
-PP
+282428	NP
 NP
 NP
 PP
 NP
+282434	NP
+282437	NP
 NP
-282443	NP
-282445	NP
-NP
-NP
-282453	PP
-NP
-NP
-282458	PP
-NP
-NP
-282462	NP
-NP
-PP
-282468	PP
-NP
-282475	PP
-PP
+282440	NP
+282445	PP
+282450	NP
 NP
 NP
 PP
-282482	PP
-282486	PP
-282488	PP
+282458	AdjP
 NP
-282491	PP
-282496	PP
+282465	NP
 NP
+282474	NP
+NP
+282477	NP
+NP
+282480	NP
+NP
+282484	NP
+NP
+282492	NP
 NP
 282500	NP
-282505	NP
 NP
 NP
-282514	PP
+282504	NP
+282506	NP
 NP
-282521	PP
-NP
-NP
-NP
-282526	NP
-VP
-282529	NP
+282510	PP
+282514	NP
+282516	NP
+282519	PP
 NP
 NP
-NP
-NP
+282524	NP
 PP
-282537	VP
+NP
+282528	NP
+NP
+282536	PP
+282538	PP
+NP
+282542	NP
 282544	NP
-282550	PP
-NP
-282553	PP
-NP
-282557	PP
 PP
-282560	NP
-282563	PP
-282567	NP
-282570	PP
+282547	NP
+NP
+282553	NP
+282557	NP
+282559	NP
+282561	NP
 NP
 PP
-282576	PP
-282580	NP
+282571	NP
+NP
+282574	NP
+282577	NP
+NP
 PP
-282586	PP
-282588	NP
+282588	PP
 NP
-282593	NP
+282591	NP
+282594	NP
 NP
-282597	PP
-282603	PP
-282605	NP
-282607	NP
+282599	PP
 NP
+282603	NP
+282606	NP
 NP
-282611	PP
 PP
-282623	NP
-NP
-282637	NP
-NP
-NP
-282642	NP
-282646	PP
-NP
-NP
-282650	NP
 PP
+282612	PP
 NP
+NP
+NP
+282617	NP
+282620	PP
+282626	NP
+282628	NP
+NP
+NP
+PP
+PP
+282636	NP
+282644	NP
+282648	PP
 282655	NP
-282663	NP
-282668	PP
 NP
-282672	PP
+282658	PP
+282660	NP
+282664	NP
+282668	NP
+282670	PP
+282675	PP
 NP
-282676	NP
-282682	NP
-282688	PP
-PP
-282693	VP
-PP
-282698	PP
-PP
-NP
-282709	NP
-PP
-282714	NP
-NP
-NP
-282718	NP
-282720	NP
-NP
-282728	PP
+282679	PP
+282681	PP
 NP
 NP
 NP
-282733	NP
-PP
-282740	AdvP
-282743	NP
-282751	PP
-282759	PP
 NP
-282763	PP
+282687	NP
 NP
 NP
 PP
-282770	PP
+282694	PP
 NP
-282774	PP
 NP
-282777	PP
 NP
-282781	NP
-282787	PP
+282701	NP
+NP
+PP
+282708	PP
+NP
+PP
+NP
+PP
+NP
+NP
+NP
+NP
+PP
+NP
+NP
+NP
+NP
+PP
+NP
+PP
+282726	NP
+NP
+NP
+282733	PP
+NP
+NP
+NP
+282745	NP
+NP
+PP
+282750	NP
+NP
+NP
+282755	NP
+PP
+NP
+NP
+NP
+NP
+PP
+282764	NP
+NP
+NP
+PP
+282769	NP
+282771	NP
+NP
+NP
+282779	NP
+NP
+NP
+282784	NP
+NP
+NP
 282789	NP
-282793	NP
-282808	PP
-282822	PP
-282828	PP
+282791	PP
+NP
+282796	PP
+NP
 PP
-282831	NP
+282800	PP
+282802	PP
+NP
+282807	PP
+NP
+NP
+282811	PP
+282816	PP
 NP
 NP
 NP
-282840	PP
-282843	NP
+PP
+282822	NP
 NP
 NP
-282848	PP
+282826	PP
+282828	PP
+282830	PP
+282840	NP
+282842	NP
+PP
+282851	NP
+282853	NP
 282855	NP
 NP
-282861	PP
-282864	NP
-282867	PP
+PP
+282860	PP
 PP
 NP
+282866	NP
+PP
+282870	NP
 NP
-282873	PP
-NP
-282893	NP
-282897	PP
+282873	NP
+282875	PP
+PP
+282882	NP
 PP
 NP
-282901	PP
-NP
-282906	NP
+282886	NP
+282888	NP
+282890	PP
+282894	NP
+282896	NP
+282898	NP
+AdjP
+PP
+282903	PP
+PP
 282910	PP
-282914	NP
+282913	NP
+282918	NP
+NP
 PP
-282917	NP
-282921	NP
-282923	PP
-282925	NP
-NP
-282928	NP
-282931	PP
 NP
 NP
-282935	NP
+NP
+282925	PP
+NP
+NP
+NP
 PP
-282938	PP
 NP
-NP
-282943	PP
-NP
-282946	PP
-282952	NP
-282956	NP
-282958	PP
-NP
-NP
-NP
-282966	PP
-282969	PP
-NP
-282973	NP
 PP
-282976	NP
-282980	PP
-282985	PP
-282989	PP
+NP
+282934	PP
 NP
 NP
 NP
-282994	PP
+NP
+PP
+NP
+282942	PP
+NP
+NP
+PP
+NP
+282948	NP
+NP
+282951	PP
+NP
+282954	PP
+NP
+282963	PP
+NP
+PP
+282968	PP
+NP
+282972	PP
+282974	NP
+NP
+282977	PP
+NP
+NP
+282982	NP
+NP
+NP
+NP
+NP
+282988	NP
+282990	NP
+282992	NP
+PP
+NP
 282999	NP
-283001	PP
-283003	PP
 NP
+283005	PP
+283008	NP
+PP
+283017	PP
 NP
-NP
-NP
-283009	PP
-283011	NP
-NP
-NP
-283015	PP
-NP
-283018	PP
 283021	NP
 NP
-283026	NP
-283029	NP
-283031	NP
+PP
+283025	PP
 NP
 283035	NP
-283037	PP
-283040	PP
-283042	NP
+PP
+283038	PP
 NP
-283050	NP
-283052	PP
 NP
+283044	NP
+NP
+283047	PP
+283049	PP
+283051	NP
+NP
+283054	NP
+NP
+283057	NP
 NP
 NP
 PP
+283062	NP
 NP
-283062	PP
-283064	NP
-283067	PP
+283067	NP
 NP
-283070	PP
 NP
-283073	PP
-283075	NP
-283078	NP
+283074	PP
+PP
+283080	PP
 PP
 NP
-283082	PP
-283084	NP
-283088	PP
+283087	PP
+283090	PP
+NP
+NP
+283096	PP
+NP
+283104	NP
+NP
+283111	NP
+283118	PP
+283130	PP
 PP
+283133	NP
+NP
+283136	NP
 NP
 NP
-283096	NP
-283100	NP
-283102	PP
+283140	PP
+283142	NP
 NP
+283147	PP
+283150	PP
 NP
-NP
-283114	PP
-283116	NP
-283119	NP
-NP
-PP
-283123	NP
-PP
-NP
-283128	PP
-283131	NP
-PP
-283135	PP
-NP
-NP
-283141	NP
-NP
-283144	PP
-283146	PP
-283150	NP
-283152	PP
-283156	NP
+AdvP
 283158	PP
 NP
 NP
+283163	PP
+283165	PP
+283177	PP
+283180	NP
+283189	PP
+NP
+NP
+283193	PP
+283196	PP
+283204	NP
+283206	PP
+283214	NP
 PP
-283164	PP
-283177	NP
-283181	PP
-283187	NP
+283217	NP
 NP
-283190	PP
-283194	PP
+283220	NP
 NP
+283223	NP
 NP
-283202	NP
-283205	PP
-283208	PP
-NP
-NP
-NP
-283213	NP
-283217	PP
-NP
-NP
-NP
-VP
-283225	NP
-NP
-NP
-283229	NP
-NP
-NP
-283233	PP
-283235	PP
-283237	NP
+283226	PP
+283228	PP
 PP
-283241	NP
-283248	NP
 NP
 NP
 NP
 NP
 PP
+283238	NP
 NP
 NP
-283257	NP
-283264	NP
+283253	NP
 PP
-283284	PP
-283288	PP
+283256	PP
+NP
+283259	NP
+283261	NP
 NP
 NP
-283293	AdvP
-283305	PP
-283322	PP
+283267	PP
+PP
+283273	NP
 NP
+283278	PP
+283283	NP
+PP
+283286	AdvP
+PP
+283290	NP
+PP
+283294	NP
 NP
+283299	PP
+283303	PP
+283307	NP
+283309	PP
+283311	NP
+NP
+283314	NP
+NP
+283317	NP
+283321	NP
+NP
+283325	NP
 283327	NP
-283329	NP
 NP
+283331	NP
+283336	PP
+283338	PP
+283340	NP
+283346	NP
+283350	NP
+NP
+283355	PP
+283358	PP
+283361	PP
+NP
+283373	NP
+283375	PP
+NP
+283387	PP
+283389	NP
+283394	NP
+NP
+283402	NP
 NP
 PP
 NP
-NP
-283339	NP
-283345	NP
-NP
-283353	NP
-NP
-283359	NP
-283377	PP
-283381	PP
-283384	PP
-NP
-283389	PP
-283393	PP
-283397	PP
-283401	NP
-NP
-283405	PP
 283408	PP
-283411	NP
+NP
+NP
+NP
+NP
 283418	NP
-283420	NP
+283423	PP
+NP
+283427	NP
+283433	PP
+NP
+NP
+283439	AdvP
 PP
 NP
-283424	NP
-PP
-NP
-283428	NP
-283430	PP
 NP
 PP
-283434	NP
-283436	PP
-NP
-PP
-NP
 283446	NP
-283449	PP
 NP
-PP
-283456	NP
+283453	PP
 283459	PP
 NP
-283463	NP
-NP
-283467	PP
-NP
+283463	PP
+283471	NP
 NP
 NP
-283472	NP
-283477	NP
-283491	NP
+283475	NP
+283479	PP
+283483	PP
 NP
+283486	PP
 NP
-283497	NP
+PP
+NP
+283491	PP
+283494	PP
 283501	PP
 NP
-283507	PP
-283510	NP
+NP
+283506	NP
+NP
+283512	NP
+283514	NP
+283516	NP
+283523	PP
+283533	NP
 PP
-283518	NP
-283520	NP
-283522	NP
-NP
-AdvP
-283527	NP
-NP
-NP
+283536	NP
+283541	NP
 PP
+283545	NP
+283547	NP
+283550	NP
+283552	NP
+283554	NP
+283560	PP
+283562	PP
 NP
-NP
-NP
-283537	NP
-283539	NP
-NP
-283549	NP
-283564	NP
-NP
-283570	NP
-NP
-283574	PP
-283576	PP
-283578	NP
-283583	PP
-NP
-283586	PP
-283593	NP
+283572	NP
 PP
-283604	NP
-283606	PP
-283609	NP
+283577	PP
+283579	NP
+283587	NP
+NP
+283592	NP
+283595	NP
 NP
 NP
-283615	PP
-PP
-283618	NP
-283624	NP
-283640	NP
+283599	PP
+283602	VP
 NP
-NP
-283650	PP
-283653	AdvP
-NP
+283614	AdjP
+283616	NP
+283620	NP
+283623	NP
+283627	PP
+283647	PP
 PP
 NP
+283651	NP
+283655	PP
 NP
-283659	PP
 NP
-283663	NP
-283665	NP
+PP
+283661	NP
+283664	NP
+NP
+NP
+NP
+NP
 PP
 NP
-283669	PP
-283671	NP
 NP
-283682	PP
+283673	PP
+NP
+283687	NP
 283689	NP
-AdvP
+NP
 283692	NP
-283695	PP
+283696	NP
+NP
+283701	PP
+283705	PP
+283711	PP
+PP
+283715	NP
+283718	PP
+283724	PP
 NP
 NP
-283699	PP
 NP
-283716	PP
-283720	NP
-NP
-NP
-283726	NP
-AdjP
-283734	NP
+PP
+PP
+283731	PP
+283733	NP
+PP
 283736	NP
-283739	NP
-283741	NP
+PP
+283747	PP
 NP
-283744	PP
+283758	PP
 NP
-283749	NP
-283751	NP
+283761	NP
 NP
-283754	PP
+283766	NP
 NP
-283757	NP
-283777	PP
-NP
-NP
-283781	NP
 PP
 NP
-283787	NP
+283780	PP
+283784	NP
+NP
+PP
 283789	NP
+PP
 NP
-283795	NP
 NP
 NP
-283808	NP
-283810	NP
-283815	PP
-283817	NP
-283821	PP
+PP
 NP
-283825	NP
+PP
 NP
-283831	NP
-283833	PP
+283801	NP
 NP
+NP
+NP
+283806	NP
+NP
+283809	NP
+NP
+283812	PP
+283814	NP
+NP
+PP
+283829	PP
+283832	PP
+283844	NP
+283847	NP
 283850	PP
+283852	PP
+NP
+NP
+NP
+NP
+NP
 NP
 NP
 PP
+283873	NP
 NP
-283859	PP
-NP
-PP
-NP
-283864	NP
-NP
-283870	NP
+283878	PP
 283881	NP
-PP
-283885	PP
-NP
-NP
-NP
-283890	NP
-283893	NP
-NP
-283899	PP
-283906	NP
-NP
-NP
-283912	NP
-283921	PP
-NP
-NP
-283933	PP
+283883	NP
+283907	NP
 NP
 NP
 NP
 NP
-PP
-283950	NP
-283953	NP
-NP
-283956	PP
-283959	PP
 NP
 NP
+283915	NP
 NP
 NP
-283970	NP
-NP
-NP
+283919	NP
 PP
 NP
 NP
-283978	NP
+NP
+283925	NP
+283927	NP
+PP
+283930	PP
+283939	NP
+NP
+NP
+NP
+AdjP
+NP
 NP
 NP
 NP
 PP
 NP
 NP
-283987	NP
+283956	NP
+283959	NP
 NP
-PP
+283963	NP
+283968	PP
+283977	NP
+283979	PP
+283982	NP
 NP
+283987	PP
 NP
-283993	PP
+283991	PP
 283995	NP
-PP
-283999	PP
 NP
-284003	NP
-NP
-284006	NP
-NP
-284010	PP
+283998	NP
 NP
 NP
 PP
 NP
-PP
+284004	PP
+284009	NP
+NP
+284012	NP
+NP
 284019	PP
-PP
-NP
-284025	PP
-PP
-284029	PP
-PP
-PP
+284021	NP
+284023	NP
 PP
 NP
 NP
+284028	PP
 NP
+284032	NP
+284034	NP
+284036	NP
+284039	NP
 NP
-PP
-NP
-NP
-NP
-NP
-284045	PP
-284047	PP
-284049	NP
+284042	NP
 NP
 PP
+284046	NP
+284078	PP
+284082	NP
 NP
 NP
+284086	PP
+284089	PP
+284095	PP
+284097	PP
+284104	PP
+284109	PP
+284120	PP
+284122	PP
+284137	PP
+284144	NP
+NP
+284148	NP
+284152	PP
 NP
 NP
+284156	PP
 NP
+284160	PP
+NP
+284166	NP
+284168	PP
 PP
+284173	PP
 NP
 NP
+284180	NP
+284184	NP
+284186	PP
 NP
-NP
-284064	PP
+284196	PP
+284198	NP
 PP
-NP
-284070	NP
-NP
-NP
-NP
-PP
-NP
-NP
-284079	PP
-PP
+284201	NP
 NP
 NP
 NP
 NP
-284086	NP
-PP
-NP
-NP
-PP
-NP
-284093	NP
-PP
-NP
-PP
-PP
-284101	PP
-NP
-NP
-284105	PP
-NP
-NP
-NP
-NP
-PP
-284112	PP
-NP
-NP
-284116	PP
-NP
-PP
-NP
-284121	NP
-NP
-NP
-NP
-NP
-NP
-NP
-PP
-284132	NP
-NP
-NP
-NP
-NP
-284139	NP
-NP
-NP
-PP
-NP
+284207	NP
+284209	NP
 NP
 PP
 NP
 NP
 NP
 PP
-284152	NP
-NP
 NP
 PP
-PP
-NP
-284159	NP
-NP
+284219	NP
+284221	NP
+284224	NP
 PP
 NP
 NP
-284167	PP
-284170	PP
 NP
-NP
-284174	NP
-NP
-NP
-NP
-NP
-NP
-NP
-284183	NP
-284185	PP
-NP
-284188	NP
-NP
-NP
+284231	NP
+PP
+284236	NP
 NP
 PP
-284197	NP
+284242	NP
+NP
+284246	NP
+PP
 NP
 NP
 NP
-284202	NP
+NP
+284253	NP
+284255	PP
 NP
 NP
+284260	NP
 NP
+284263	PP
+NP
+284267	NP
 NP
 NP
 NP
 PP
 NP
-284213	NP
-NP
-NP
-284217	NP
-NP
-NP
-PP
-284222	PP
-NP
-NP
-NP
-NP
-NP
-NP
-284231	PP
-NP
-284235	PP
-284238	PP
-NP
-PP
-NP
-PP
-NP
-284248	NP
-NP
-284251	AdvP
-PP
-NP
-NP
-284256	PP
-PP
-284262	PP
-NP
-NP
-284268	NP
-PP
-NP
-284273	NP
-NP
-NP
-NP
-NP
-PP
+284275	PP
+284279	PP
+284281	NP
 284284	NP
 NP
 284287	NP
-PP
+NP
 284291	PP
-NP
-NP
+284295	NP
 NP
 NP
 PP
-NP
-NP
-NP
-NP
-NP
-NP
+284301	NP
 284305	PP
 NP
 NP
-NP
 PP
-NP
-NP
+284311	NP
 284314	PP
 NP
+284318	PP
 NP
 NP
-NP
-284320	NP
-NP
-NP
+284322	NP
 284324	NP
-284327	NP
-284330	NP
-NP
-NP
-284336	PP
+284326	PP
+284329	PP
 PP
-NP
-NP
-NP
-284348	NP
-284350	NP
-284352	VP
-284357	PP
-NP
-PP
-284362	PP
-NP
-284365	NP
-NP
-NP
-284369	NP
-NP
-NP
-PP
-NP
-NP
-PP
-PP
-NP
-284379	VP
-PP
-284383	PP
-NP
-NP
-284387	PP
-284392	NP
-284396	PP
-PP
-NP
-284401	NP
-284403	PP
-284410	NP
-NP
-PP
-284415	PP
-284417	NP
-NP
-PP
-284422	NP
-NP
-PP
-AdjP
-284427	NP
-NP
-NP
-284431	AdjP
-NP
-NP
-NP
-284439	AdjP
-PP
-NP
-284444	PP
-284450	PP
-NP
-NP
-NP
-284457	NP
-NP
-284460	NP
-284463	NP
-NP
-NP
-284467	NP
-PP
-NP
-NP
-NP
-NP
-NP
-NP
-PP
-284478	NP
-284480	PP
-PP
-NP
-NP
-284488	NP
-PP
-NP
-NP
-PP
-NP
-284495	NP
-PP
-284501	NP
-284504	NP
-284506	PP
-284508	NP
-NP
-PP
-NP
-PP
-NP
-284520	NP
-NP
-284523	NP
-NP
-284526	PP
-NP
-NP
-NP
-284533	NP
-PP
-NP
-284538	PP
-NP
-PP
-PP
-NP
-284544	PP
-NP
-NP
-PP
-PP
-NP
-NP
-NP
-NP
-PP
-NP
-284557	NP
-NP
-NP
-NP
-NP
-284564	PP
-PP
-284568	NP
-284571	PP
-PP
-284576	NP
-NP
-NP
-PP
-NP
-NP
-NP
-284584	NP
-284587	NP
-NP
-NP
-284593	NP
-NP
-NP
-284597	PP
-284599	NP
-284602	NP
-NP
-PP
-PP
-NP
-NP
-284609	PP
-NP
-NP
-NP
-NP
-NP
-284617	PP
-NP
-NP
-NP
-NP
-NP
-AdjP
-NP
-284626	NP
-NP
-NP
-284630	NP
-NP
-NP
-NP
-284637	NP
-NP
-NP
-284641	PP
-NP
-PP
-NP
-NP
-284650	NP
-NP
-284653	NP
-PP
-NP
-PP
-NP
-NP
-NP
-NP
-NP
-PP
-NP
-NP
-284667	PP
-NP
-NP
-NP
-PP
-284673	NP
-284675	PP
-PP
-NP
-NP
-284683	PP
-NP
-NP
-NP
-PP
-284690	NP
-PP
-284693	NP
-NP
-PP
-NP
-PP
-NP
-NP
-PP
-284702	PP
-284707	PP
-NP
-NP
-NP
-NP
-284714	PP
-NP
-NP
-PP
-NP
-NP
-284721	NP
-PP
-NP
-PP
-NP
-NP
-PP
-284732	PP
-NP
-NP
-284736	NP
-284742	NP
-NP
-284745	NP
-NP
-NP
-284750	PP
-NP
-NP
-NP
-NP
-284758	PP
-NP
-284764	PP
-NP
-284767	PP
-284769	NP
-PP
-NP
-284773	PP
-PP
-NP
-NP
-NP
-NP
-NP
-NP
-284785	NP
-NP
-PP
-284790	NP
-284793	PP
-NP
-284796	PP
-284799	PP
-284802	NP
-NP
-NP
-PP
-NP
-NP
-NP
-NP
-284811	NP
-284815	PP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-284825	NP
-NP
-PP
-284829	PP
-284831	PP
-NP
-NP
-284836	NP
-PP
-NP
-NP
-NP
-NP
-NP
-284846	PP
-284851	NP
-284860	PP
-NP
-NP
-NP
-NP
-NP
-284868	NP
-284870	PP
-NP
-NP
-284875	NP
-284879	NP
-284881	NP
-284883	NP
-284885	NP
-284888	PP
-NP
-NP
-NP
-NP
-NP
-PP
-NP
-PP
-NP
-NP
-NP
-NP
-284903	NP
-PP
-NP
-NP
-NP
-284909	NP
-NP
-NP
-NP
-NP
-PP
-NP
-PP
-NP
-NP
-NP
-NP
-NP
-284925	AdjP
-284927	NP
-NP
-NP
-PP
-NP
-NP
-NP
-NP
-PP
-NP
-PP
-NP
-NP
-NP
-284943	PP
-284945	PP
-NP
-284949	NP
-PP
-NP
-NP
-284954	PP
-NP
-NP
-PP
-NP
-NP
-PP
-NP
-NP
-NP
-NP
-284966	PP
-NP
-NP
-PP
-284975	PP
-284981	NP
-284983	PP
-NP
 NP
 NP
 VP
+284337	PP
+PP
+PP
+284341	NP
+284345	NP
+NP
+NP
+PP
+284351	PP
+284354	NP
+NP
+NP
+284360	NP
+NP
+PP
+NP
+NP
+284368	NP
+NP
+NP
+PP
+PP
+NP
+PP
+NP
+284379	PP
+284384	NP
+NP
+NP
+NP
+PP
+NP
+284392	NP
+284395	NP
+PP
+NP
+284400	PP
+NP
+NP
+284406	NP
+NP
+NP
+PP
+NP
+284412	PP
+NP
+NP
+NP
+NP
+PP
+NP
+284421	PP
+284425	NP
+284428	PP
+NP
+NP
+NP
+NP
+NP
+PP
+NP
+284439	PP
+NP
+NP
+NP
+284445	PP
+NP
+NP
+284450	NP
+NP
+NP
+NP
+PP
+284457	NP
+NP
+NP
+NP
+284464	NP
+NP
+NP
+NP
+NP
+NP
+284471	PP
+284474	NP
+NP
+284477	PP
+NP
+284480	PP
+NP
+284484	NP
+284486	NP
+284495	NP
+284497	PP
+284499	PP
+284504	PP
+284506	NP
+PP
+284512	NP
+NP
+284515	NP
+NP
+284520	NP
+PP
+NP
+284525	PP
+284530	PP
+284532	NP
+NP
+284537	PP
+284539	NP
+PP
+284542	PP
+NP
+NP
+NP
+NP
+PP
+284550	NP
+PP
+NP
+284554	NP
+PP
+NP
+284565	NP
+PP
+NP
+NP
+NP
+284573	PP
+NP
+NP
+NP
+NP
+PP
+NP
+284585	PP
+284588	NP
+284596	PP
+NP
+NP
+284601	NP
+284606	PP
+NP
+284609	NP
+PP
+NP
+NP
+284618	PP
+NP
+PP
+284623	NP
+NP
+NP
+NP
+NP
+PP
+NP
+NP
+PP
+284633	NP
+NP
+284638	NP
+NP
+284642	PP
+284644	NP
+NP
+NP
+284649	PP
+284652	NP
+NP
+NP
+284656	NP
+284659	PP
+NP
+284662	PP
+NP
+284668	NP
+NP
+284672	NP
+284675	NP
+NP
+NP
+NP
+NP
+NP
+PP
+NP
+284685	NP
+PP
+NP
+NP
+NP
+284695	NP
+284698	NP
+PP
+NP
+284703	NP
+284705	PP
+PP
+284710	PP
+284712	NP
+NP
+284715	PP
+PP
+284721	NP
+284723	PP
+284726	NP
+PP
+284732	NP
+NP
+PP
+284737	NP
+NP
+284741	PP
+284743	PP
+NP
+NP
+NP
+NP
+NP
+PP
+NP
+284752	NP
+NP
+NP
+284756	PP
+284758	NP
+NP
+NP
+NP
+284771	PP
+284775	NP
+NP
+284779	NP
+PP
+284787	NP
+NP
+284790	NP
+NP
+NP
+NP
+PP
+NP
+284801	NP
+NP
+PP
+284808	PP
+284811	NP
+284815	PP
+284824	PP
+NP
+284828	NP
+284830	PP
+NP
+NP
+NP
+PP
+NP
+NP
+NP
+284839	PP
+PP
+284843	PP
+284845	NP
+NP
+NP
+NP
+284851	VP
+PP
+284857	NP
+NP
+NP
+284862	PP
+284865	NP
+284867	PP
+NP
+NP
+NP
+NP
+NP
+PP
+NP
+NP
+NP
+284879	PP
+284881	NP
+PP
+284885	PP
+NP
+NP
+NP
+NP
+284891	NP
+284894	PP
+284901	NP
+284903	NP
+NP
+NP
+NP
+284909	PP
+284912	NP
+NP
+284916	NP
+NP
+PP
+NP
+NP
+284923	NP
+284927	PP
+NP
+284931	NP
+284934	NP
+284936	NP
+284938	PP
+284941	PP
+284948	PP
+284950	PP
+284952	PP
+NP
+284960	NP
+284962	NP
+284964	NP
+284970	PP
+284973	NP
+NP
+284981	PP
+NP
+NP
+NP
 NP
 284990	NP
+PP
 NP
 NP
 PP
 NP
-284996	PP
+285001	NP
+NP
+NP
+285008	PP
 PP
 NP
 NP
 NP
-NP
-285006	NP
+285016	PP
+285024	NP
 PP
 NP
 NP
+PP
+NP
+NP
+285033	NP
+285036	NP
+285038	PP
+285042	NP
+285044	PP
 NP
 PP
-285017	NP
-285022	PP
-285027	PP
-NP
-285031	PP
 NP
 NP
-NP
-NP
-285037	PP
-NP
-NP
-NP
-285043	NP
-NP
-NP
-NP
-285049	NP
-NP
-PP
-285053	PP
+285052	NP
 NP
 285056	NP
-285059	NP
-285063	PP
+VP
+PP
 NP
 NP
-285068	NP
-285073	NP
-285076	PP
 NP
-285081	NP
-285089	NP
+285064	NP
+PP
+NP
+285071	NP
+NP
+285074	PP
+NP
+PP
+NP
+285080	NP
+285082	NP
+NP
+285085	NP
+PP
+285088	PP
+285093	NP
+NP
+PP
+NP
+285099	NP
+285101	NP
+285106	PP
+285108	NP
 NP
 NP
-285097	NP
+PP
+285113	NP
+285117	PP
+285121	NP
+285123	NP
+285125	PP
+NP
+NP
+285130	PP
+285133	NP
 NP
 PP
 NP
 NP
-285108	PP
-NP
-NP
-285118	NP
-NP
-NP
-NP
-PP
-285124	PP
-NP
-NP
-285132	PP
+285141	NP
+285143	PP
 PP
 NP
-285137	PP
-AdjP
-285142	NP
-NP
-PP
-285149	NP
-NP
-285152	NP
-285155	PP
-285157	NP
-NP
-285164	PP
+285163	PP
+285167	PP
+285169	NP
 NP
 NP
-285168	NP
-PP
+285176	NP
+285185	PP
+285189	NP
 NP
-285173	NP
-285177	PP
 285194	NP
-285203	PP
-NP
-NP
-NP
-285211	NP
-PP
-285215	NP
-NP
-NP
 PP
 NP
+285198	NP
+285202	NP
+NP
+285205	NP
 NP
 NP
-285225	NP
-285233	PP
-285235	NP
-285237	NP
-285239	NP
+285209	PP
+NP
 NP
 PP
+285215	PP
 NP
-285249	NP
-285253	NP
-NP
-NP
-NP
-285264	PP
-285269	NP
-285272	PP
-NP
-285275	NP
-285286	PP
-NP
-285291	NP
-285303	NP
-285305	NP
-285308	PP
-285315	NP
+285220	NP
 NP
 NP
-285320	PP
-285325	PP
-285330	NP
-285332	NP
+285224	PP
+285226	PP
 NP
-NP
-285337	PP
+285232	NP
 PP
 NP
+285236	PP
 NP
 NP
 NP
+285241	NP
+285246	PP
+285248	PP
+285250	PP
+NP
+285255	NP
+PP
+NP
+285259	NP
+285262	PP
+NP
+285265	NP
+285269	PP
+285271	NP
+285273	NP
+PP
+285279	PP
+NP
+285283	NP
+NP
+285288	NP
+285290	PP
+NP
+NP
+PP
+285295	PP
+285299	PP
+NP
+285302	NP
+285305	PP
+285307	PP
+285310	NP
+285312	NP
+285315	PP
+285317	NP
+NP
+NP
+285321	NP
+285333	NP
+285335	NP
+285337	NP
+NP
+285342	NP
 285345	PP
 NP
-285348	NP
-NP
-NP
-285352	NP
-285356	NP
-NP
-285359	NP
-NP
-NP
+285349	PP
+PP
+285354	PP
+PP
+285357	NP
+285360	NP
 NP
 285364	NP
 NP
-285368	NP
-285370	NP
-285372	NP
-NP
 NP
 PP
-285377	NP
-285379	NP
-285381	NP
+285377	PP
+285379	PP
 NP
-285384	NP
-285388	PP
+NP
+285383	NP
+NP
+285386	PP
 285393	NP
-NP
+285395	NP
 NP
 PP
-285401	AdjP
+285402	NP
 NP
-285406	NP
+285405	NP
+285407	NP
+285409	PP
+285412	PP
+PP
 NP
-285414	NP
+285418	NP
+PP
+285422	NP
 NP
-285417	NP
+PP
+285427	NP
 NP
-285420	NP
-NP
-285423	NP
-NP
-285430	NP
+285433	PP
 NP
 285437	NP
-NP
-NP
-285441	NP
 285443	NP
 NP
-PP
 285448	NP
-285450	NP
-285453	PP
 NP
-NP
-285458	NP
+PP
+285455	PP
+285463	PP
+285465	NP
 PP
 NP
 NP
 NP
-285468	PP
-285470	PP
-NP
-285473	NP
-NP
+285478	NP
 PP
-285477	NP
 NP
-285484	NP
-285488	NP
-NP
-285491	NP
-NP
+285484	PP
 PP
-285499	NP
 NP
-285502	NP
+285492	PP
+NP
+NP
+NP
+285501	NP
+PP
 285505	NP
-NP
 PP
-285515	PP
+285508	NP
+PP
+285514	NP
 NP
-285518	NP
+NP
 285520	NP
 NP
-285525	PP
-NP
-285529	NP
-285531	NP
+PP
+285525	NP
 NP
 PP
+NP
+285533	PP
+NP
+285539	PP
 PP
-285536	PP
 NP
 NP
-NP
-285541	NP
+285545	NP
 PP
-285547	NP
-285549	NP
+285548	NP
+285555	NP
+285559	PP
+285563	NP
+NP
+NP
+NP
+285568	NP
 NP
 NP
 PP
-PP
-285556	NP
-285565	NP
-285569	PP
 285575	NP
 NP
-285578	PP
-285580	NP
-285583	NP
-285586	NP
-285588	PP
-285593	PP
-NP
-285596	PP
-285598	PP
-NP
-NP
-NP
-NP
-285604	NP
-NP
 NP
 PP
-285611	PP
+285589	NP
+285591	PP
+NP
+285595	PP
+NP
+NP
+285600	NP
+285602	NP
+NP
+NP
+285606	NP
+NP
+NP
+285610	NP
 NP
 NP
 NP
-285617	NP
+285615	NP
 NP
+285618	PP
+NP
+NP
+285624	NP
+285626	PP
+NP
+NP
+NP
+285631	NP
+NP
+285635	PP
 PP
-285622	PP
-NP
 PP
-NP
+285639	PP
+285641	PP
+285643	PP
+285645	NP
+285647	NP
+285652	PP
 PP
-NP
-NP
-NP
-NP
-PP
-NP
-NP
-NP
-NP
-PP
-NP
-PP
-285640	NP
-NP
-NP
-285646	PP
-NP
-NP
-NP
-285657	NP
-NP
-PP
+285656	NP
+285660	NP
 285662	NP
+PP
 NP
-NP
-285667	NP
 PP
 NP
 NP
+285672	NP
+NP
+285676	PP
+NP
+285679	PP
+NP
+285682	PP
+285685	NP
 NP
 NP
-PP
-285675	NP
-NP
-NP
-PP
-285680	NP
-NP
-NP
-NP
-285687	NP
-NP
-NP
+285690	PP
 285692	NP
+285695	PP
 NP
-NP
-285697	NP
-PP
-NP
-285702	PP
-NP
-PP
-285706	PP
-285708	PP
-NP
-285711	PP
-NP
-NP
-285715	PP
-285720	PP
-NP
+285698	NP
 NP
 NP
 PP
-285726	NP
+NP
+285713	PP
+285716	NP
+285718	PP
+285722	PP
+NP
+PP
+NP
+285728	NP
+285735	NP
+285737	NP
+PP
+NP
+285742	PP
+NP
+285747	PP
+285749	NP
+285756	NP
 NP
 NP
 PP
-285731	PP
-285733	PP
-285742	NP
-NP
-PP
-285750	NP
-NP
-285753	NP
-NP
-PP
-285758	PP
-PP
-NP
-285763	NP
-PP
-285767	NP
-NP
-NP
+285769	PP
 285771	PP
-PP
-285774	NP
+NP
+NP
+285775	PP
+NP
+NP
+NP
 PP
 NP
-285778	NP
-NP
-PP
 285782	NP
+285784	NP
+285787	PP
+285789	PP
+285791	PP
+285796	PP
 NP
+285799	NP
+285808	NP
 NP
-AdjP
-PP
-285788	PP
-PP
-285793	PP
+285815	PP
 NP
-285797	NP
+285822	PP
 NP
-PP
-NP
-NP
-NP
-285804	PP
-NP
-NP
-NP
-PP
-NP
-PP
-NP
-285813	PP
-NP
-NP
-NP
-NP
-PP
-NP
-PP
-NP
-NP
-PP
-NP
-285826	NP
-NP
-285829	PP
-NP
+285828	PP
 285832	PP
+285834	PP
+285836	PP
+285839	NP
+285843	PP
 NP
-285840	PP
+285851	NP
 NP
-PP
-285845	PP
-NP
-285848	PP
-285850	NP
-NP
-285853	PP
-NP
-NP
-285857	NP
+285860	NP
 NP
 NP
 NP
-NP
-285863	NP
 285865	NP
-285867	NP
-PP
 NP
-285873	NP
 NP
-285878	PP
-285880	NP
-PP
+285876	NP
+NP
+285879	NP
+285883	PP
+285886	NP
 285888	PP
 NP
-285891	NP
 NP
-PP
-PP
 NP
-285903	NP
-PP
-285906	PP
-NP
+285896	NP
+AdvP
+285907	NP
 NP
 285911	NP
-NP
-285914	PP
 285916	PP
+285921	NP
+285924	PP
 NP
 NP
-285920	NP
-NP
-285923	NP
-NP
-NP
-PP
-285928	NP
+285930	PP
 NP
 285933	NP
-NP
-NP
-285939	PP
-PP
-285944	PP
-PP
-NP
-285950	PP
-285953	PP
-NP
-NP
-285959	PP
-NP
-285967	NP
-NP
-285973	NP
-285979	PP
-285990	PP
-PP
-NP
-NP
-285995	NP
+285937	NP
 NP
 NP
 PP
 NP
+285944	NP
+285951	NP
+285955	PP
+285960	NP
+285964	NP
 NP
-286002	PP
-286005	PP
 NP
-AdvP
-286013	PP
+285968	PP
 NP
+PP
+285974	NP
+285976	NP
+285978	PP
+NP
+NP
+285982	NP
+PP
+285985	NP
+285989	NP
+285992	NP
+286002	NP
+286006	NP
+286010	PP
+286012	NP
 NP
 286017	PP
-286019	PP
-286030	PP
-286033	NP
-286041	PP
 NP
+PP
+286024	PP
+PP
 NP
-286045	PP
-286048	PP
+286028	NP
+286031	NP
+NP
+286034	PP
+NP
+286039	PP
+286048	NP
+286052	NP
 286056	NP
-286058	PP
-286065	NP
+286058	NP
+PP
+286061	NP
+NP
 PP
 NP
 NP
 286070	NP
 NP
 286073	NP
-NP
-286076	PP
-PP
-PP
-NP
-NP
-NP
-NP
-PP
+286080	PP
 286086	NP
 NP
+286089	NP
 NP
-286099	NP
+NP
 PP
-286102	PP
 NP
 NP
-286106	NP
 NP
-NP
-286112	PP
 PP
-286118	NP
+286101	PP
 NP
-286123	PP
-286127	NP
+NP
+286106	PP
+NP
+NP
+286113	PP
+286118	PP
+286131	PP
+286136	PP
+286138	NP
+NP
+286146	PP
+286148	NP
+NP
+286157	PP
 PP
-AdvP
-PP
-286133	NP
-PP
-286136	NP
-NP
-286141	PP
-286145	PP
-286147	NP
-286149	PP
-286151	NP
-NP
-286154	NP
-NP
-286157	NP
-286160	NP
-NP
 286163	NP
 286165	NP
 NP
-286169	NP
-286172	PP
-286174	PP
-286176	NP
-286181	NP
-286185	NP
+286170	NP
 NP
-286190	PP
-286193	PP
-286195	PP
+286177	NP
+286179	PP
+286182	PP
+PP
 NP
-286207	NP
-286209	PP
 NP
-286221	PP
+NP
+286189	PP
+NP
+NP
+286198	PP
+NP
+286202	NP
+286204	PP
+PP
+NP
+NP
+286211	PP
+PP
+NP
+NP
+286219	PP
+286221	NP
 NP
 286225	NP
 NP
+NP
+NP
+286230	NP
 286232	NP
 NP
+286238	NP
+NP
+286241	NP
+NP
 PP
-NP
-286237	PP
-NP
-NP
-NP
-NP
 286246	NP
-286250	PP
+286249	NP
 NP
-286254	NP
-286259	PP
+286252	PP
+286254	PP
+286256	NP
+PP
+PP
+286260	NP
 NP
-NP
-286265	AdvP
+286263	PP
 PP
 NP
 NP
-PP
-286271	NP
-NP
-286278	PP
-286283	PP
-NP
-286287	PP
-286292	NP
+286269	PP
 NP
 NP
 NP
-286298	PP
-286302	PP
-NP
-286305	PP
+286274	NP
 NP
 PP
 NP
-PP
-286312	PP
-286318	PP
 NP
 NP
-286322	NP
+286286	PP
+286291	PP
+286307	NP
+286310	PP
+286312	NP
+286317	NP
 NP
-286327	NP
+286320	NP
 NP
+286325	PP
+NP
+286328	NP
 286330	NP
-286337	PP
+NP
+286333	PP
+286338	PP
+NP
+286341	NP
+286343	NP
 286346	NP
+286350	PP
+NP
+NP
+NP
+286358	PP
+NP
+286371	NP
 PP
+286374	PP
+286381	NP
+286384	NP
 NP
-286353	NP
+NP
+NP
 PP
-286356	NP
-286358	NP
-286361	NP
-NP
-286364	NP
-286369	PP
-286371	PP
-NP
-286380	NP
 PP
-286385	PP
-286387	NP
-286393	NP
-NP
+286391	NP
 286397	NP
-286400	NP
-NP
-NP
-286404	PP
-286406	VP
-NP
-286417	AdjP
-286419	NP
-286421	NP
-286424	NP
-286428	PP
-286445	PP
-PP
-NP
-286449	NP
-286453	PP
-NP
-NP
-PP
-286459	NP
-286462	NP
-NP
+286401	PP
+286408	PP
 NP
 NP
 NP
 PP
 NP
 NP
-286471	PP
+286427	NP
+286430	NP
 NP
-286483	NP
-286485	NP
+286439	PP
 NP
-286488	NP
-286491	NP
+286442	NP
+286450	PP
+286456	NP
+286458	NP
+286472	NP
+286474	PP
 NP
-286496	PP
-286499	PP
+286477	PP
+286483	PP
+NP
+286489	PP
+NP
+NP
+NP
+AdvP
+286498	NP
+NP
+286501	PP
+PP
+NP
 286505	PP
+NP
+286508	PP
+286511	NP
+NP
 PP
-286508	NP
-286511	PP
-286516	PP
+286522	PP
+286524	PP
+PP
 NP
 NP
 NP
 PP
-PP
-286523	PP
-286525	NP
-PP
-NP
-PP
+286533	PP
 286538	PP
 NP
-286548	PP
-NP
-286551	NP
-NP
-NP
 NP
 PP
-NP
-286566	PP
-286568	NP
-NP
+286544	NP
+286546	NP
+286558	NP
+286561	PP
+286571	NP
+286575	NP
 PP
-286572	NP
-PP
-NP
-NP
-NP
-PP
-NP
-PP
-NP
-286583	NP
-NP
-NP
-NP
+286579	AdvP
+286586	PP
 286588	NP
+286593	NP
+286596	NP
+286599	NP
+286610	NP
+286632	NP
+286636	NP
 NP
-286591	NP
-NP
-286594	PP
-NP
+286641	NP
+PP
+286644	PP
 NP
 PP
-286608	PP
-286611	PP
-286620	NP
-286623	NP
-286626	PP
-286628	PP
+286649	NP
 NP
-NP
-NP
-NP
-NP
-NP
-NP
-PP
-286647	NP
-NP
-286652	PP
-286655	NP
-286658	NP
-286682	NP
-NP
-NP
-NP
-NP
-NP
-NP
-286690	NP
-NP
-NP
-286694	NP
+286653	PP
+286662	PP
+286670	NP
+286681	PP
+286685	PP
+286693	PP
 PP
 NP
 NP
-NP
-286700	NP
-286702	NP
+286698	PP
+286705	NP
+286707	NP
+286709	NP
+286711	PP
+286717	PP
+286722	NP
+286725	PP
+286727	PP
+286733	PP
+286737	NP
 PP
-286705	PP
-286710	NP
+286740	PP
+286743	NP
+286753	NP
+286755	PP
 NP
 NP
-NP
-AdjP
-NP
-NP
+286760	NP
+286762	NP
 NP
 NP
-PP
+286769	NP
 NP
-NP
-286727	NP
-286730	NP
-NP
-286733	NP
-286737	PP
-286744	NP
-286746	PP
-286750	NP
-NP
-286754	PP
-NP
-286758	PP
-286761	NP
-NP
-NP
-NP
-NP
-PP
-NP
-286769	PP
+286772	NP
 286774	NP
-NP
-286777	NP
-NP
-286783	PP
-NP
-286786	NP
-PP
+286776	NP
+286778	PP
 NP
 NP
-286791	PP
+286782	NP
 NP
-286794	NP
-NP
+286795	PP
 286797	NP
-286799	NP
-NP
-286802	NP
-NP
-PP
-286806	NP
-286836	PP
-286840	NP
-NP
-NP
-286844	PP
-286847	PP
-286853	PP
-286855	PP
-286862	PP
-286867	PP
-286877	PP
-286879	PP
-286891	PP
-286898	NP
-NP
-286903	NP
-286906	PP
-NP
-NP
-286910	PP
-NP
-286914	PP
-NP
-286919	NP
-286921	PP
-PP
-286925	PP
-NP
-NP
-286931	NP
-286934	NP
-286936	PP
-NP
-286945	PP
 NP
 PP
 NP
+286803	NP
+286805	NP
 NP
 NP
 NP
 NP
-286954	NP
-286956	NP
+286811	NP
+NP
+286814	PP
+286818	NP
+NP
 NP
 PP
+286824	NP
+286831	PP
+286839	NP
+286841	PP
+286850	NP
+NP
+286854	NP
+NP
+NP
 NP
 NP
 NP
 PP
+286862	NP
+PP
+286865	PP
+NP
+NP
+NP
+PP
+286871	NP
+NP
+286874	NP
+PP
+286877	NP
+286879	NP
+NP
+286882	NP
+286885	NP
+NP
+NP
+NP
+NP
+PP
+286893	NP
+286895	NP
+NP
+PP
+286903	PP
+286912	PP
+PP
+NP
+NP
+NP
+NP
+NP
+286920	NP
+PP
+PP
+NP
 NP
 PP
 NP
-286967	NP
-286969	NP
+286937	NP
+NP
+286940	NP
+NP
+286945	NP
+286947	PP
+NP
+NP
+286951	PP
+NP
+NP
+NP
+NP
+286960	PP
+NP
+NP
+286965	PP
+NP
+286970	NP
+NP
+PP
 PP
 NP
 NP
-NP
-286976	NP
 PP
-286980	NP
-NP
-PP
+286980	PP
 286985	NP
 NP
-286989	NP
+NP
+286990	NP
+286992	NP
+286994	NP
+PP
+286999	NP
+NP
+287002	NP
+NP
+PP
+287007	PP
 PP
 NP
 NP
 NP
+287013	NP
+287021	PP
+287023	NP
 NP
+287026	NP
 NP
-PP
-NP
-NP
-NP
-NP
-PP
-NP
-287004	NP
-NP
-NP
-NP
-PP
-NP
-287011	PP
-287014	PP
-NP
-287017	NP
-NP
-NP
-NP
-287022	PP
-287025	NP
-NP
-NP
-PP
 287030	NP
-287033	PP
-NP
 NP
 PP
-NP
-287040	PP
+PP
+287039	PP
 NP
 287044	PP
-NP
-NP
-NP
-NP
-287050	PP
-287052	PP
-PP
-NP
-NP
-VP
-287059	PP
-PP
-PP
-NP
-287065	NP
-NP
-NP
-PP
-287071	PP
-NP
-NP
-NP
-287077	NP
-NP
-PP
-NP
-NP
-287085	NP
-NP
+287046	PP
+287048	PP
 NP
 PP
 PP
+287055	NP
 NP
+NP
+287062	PP
+NP
+287068	NP
+287074	NP
+NP
+NP
+NP
+NP
+NP
+287082	PP
+NP
+287089	PP
+NP
+NP
+NP
+287104	PP
+287112	PP
+287115	PP
+NP
+NP
+NP
+287120	NP
+287123	NP
+287129	PP
+287136	NP
+287139	NP
+287141	NP
+NP
+NP
+NP
+287147	NP
+NP
+NP
+NP
+NP
+287153	NP
 PP
 NP
-287096	PP
-287100	NP
+NP
+287158	PP
+NP
+287163	NP
+287165	PP
 NP
 NP
-NP
-PP
-NP
-287107	NP
-287110	NP
-PP
-NP
-PP
+287169	PP
+287171	NP
 NP
 NP
-287119	NP
-NP
+287176	PP
+287180	PP
+287183	NP
 NP
 PP
-NP
-287125	PP
-NP
-NP
-NP
-NP
-PP
-NP
-287133	PP
-287135	NP
-287138	PP
-NP
-NP
-NP
-NP
-NP
-PP
-NP
-287149	PP
-NP
-NP
-NP
-287155	PP
-NP
-NP
-NP
-NP
-NP
-NP
-PP
-287164	NP
-NP
-NP
-NP
-287170	NP
-NP
-NP
-NP
-NP
-NP
-287177	PP
-287179	NP
-NP
-PP
-NP
-287184	PP
-NP
-NP
 287188	NP
+287191	NP
 287193	NP
+287196	NP
+287202	NP
+287204	PP
+NP
+287207	PP
+287211	NP
 PP
-287196	PP
-287201	PP
-287203	NP
 PP
-287209	NP
-NP
-NP
-NP
-287215	NP
 PP
-NP
-287220	PP
-287224	PP
-287226	NP
-NP
-287230	PP
-287232	NP
+287216	NP
+287218	NP
 PP
-287235	PP
-NP
-NP
-NP
-NP
-PP
-287242	NP
-PP
-NP
-287246	NP
-PP
-NP
-287255	NP
-PP
-NP
-NP
-NP
-287263	PP
-NP
-NP
-NP
-NP
-PP
-NP
-287274	PP
-287277	NP
-287284	PP
-NP
-NP
-NP
-287291	PP
+287223	PP
 NP
 NP
 PP
 NP
 NP
-287300	PP
+287230	NP
 NP
+287239	NP
+287245	PP
+287247	PP
+NP
+287251	NP
+287254	NP
+NP
+287260	NP
+NP
+NP
+287268	NP
+287270	NP
 PP
-287305	NP
+287273	NP
+NP
+287277	PP
 NP
 NP
+287282	NP
+287285	PP
+287290	NP
 NP
 NP
+287297	PP
 PP
+287302	PP
 NP
 NP
+287310	NP
+287315	NP
+287321	PP
+NP
+287325	PP
 PP
+287333	NP
+287336	NP
 NP
-NP
-287318	NP
-NP
-287322	PP
-NP
-NP
-NP
-287328	PP
-287330	NP
+287339	PP
 NP
 NP
 NP
-287335	PP
-NP
-287338	PP
-NP
-287343	NP
-NP
-287347	NP
-287350	NP
+287344	PP
 NP
 NP
 NP
+287352	PP
+NP
+287355	NP
+287359	PP
 NP
 NP
-PP
+287366	PP
 NP
-287360	NP
-PP
-NP
-NP
-NP
-287369	NP
-287372	NP
-PP
-NP
-287377	NP
-287379	PP
-PP
+287371	PP
 287384	PP
-NP
-NP
-287388	PP
-PP
-287394	NP
-287396	PP
-287398	NP
-PP
-287404	NP
-NP
-PP
-287409	NP
-NP
+287389	PP
+287391	PP
+287397	PP
+287400	NP
 287412	PP
-287414	PP
+287419	PP
+287434	PP
+287440	NP
+287444	PP
+287448	PP
+287450	NP
+NP
+287466	NP
 NP
 NP
+PP
 NP
+287488	NP
+287490	NP
+NP
+NP
+287495	NP
+PP
+PP
 NP
 NP
 PP
@@ -40434,1129 +41552,886 @@ NP
 NP
 NP
 NP
-PP
-287427	NP
 NP
+287509	PP
 NP
+287513	NP
 NP
-287439	PP
-287442	NP
+287516	NP
 NP
-287446	NP
-PP
-287452	NP
+287519	PP
 NP
-287455	NP
+287522	NP
 NP
+287525	PP
 NP
+287529	NP
+287533	NP
 NP
-PP
-NP
-287464	NP
+287536	NP
 NP
 PP
-287469	PP
-287472	NP
-287476	PP
-287483	PP
+287540	PP
+287546	NP
 NP
-287486	NP
-PP
-NP
-NP
+287553	PP
+287555	PP
+287567	NP
+287574	NP
 NP
 PP
 NP
+287579	NP
 NP
-NP
-287496	PP
-PP
-287499	PP
-287501	NP
-NP
-NP
-NP
-287507	VP
-PP
-287511	NP
-NP
-NP
-287515	PP
-287518	NP
-PP
-NP
-NP
-NP
-NP
-NP
-PP
-NP
-NP
-NP
-287531	PP
-NP
-PP
-287536	PP
-NP
-NP
-NP
-NP
-NP
-287544	PP
-287549	NP
-287551	NP
-NP
-NP
-NP
-287557	PP
-287560	NP
-NP
-287563	NP
-NP
-PP
-NP
-NP
-287570	NP
-287574	PP
-NP
-287578	NP
-287580	NP
 287582	NP
-287584	PP
-287587	PP
-287593	PP
+PP
+287586	NP
+287588	NP
+287590	NP
 287595	PP
-287597	PP
-NP
-287603	NP
-287605	NP
-287607	NP
-287612	PP
-287614	NP
-NP
-287621	PP
+287606	PP
+287612	NP
+287637	NP
 NP
 NP
-NP
-NP
-287629	NP
-PP
-NP
-NP
-PP
-NP
-287638	NP
-NP
-NP
+287641	NP
 287643	PP
-PP
+287645	NP
 NP
 NP
 NP
-287651	PP
-287658	NP
-PP
 NP
 NP
-PP
+287661	NP
 NP
+287668	PP
 NP
-287666	NP
-287669	NP
-287671	PP
-287674	NP
-287676	PP
+287681	PP
+287684	NP
 NP
-PP
-NP
-NP
-287685	NP
-NP
-287689	NP
-VP
-PP
-NP
-NP
-NP
-287697	NP
-PP
-NP
-287703	NP
-NP
-287706	PP
-NP
-PP
-NP
-287711	NP
-287713	NP
-NP
-287716	NP
-PP
-287719	PP
-287722	NP
-NP
-PP
-NP
-NP
-287728	NP
-287732	PP
-287734	NP
 NP
 NP
 PP
-287739	NP
-287743	PP
-287747	NP
+287692	NP
+PP
+287696	NP
+287698	AdjP
+NP
+287702	PP
+NP
+287706	NP
+287710	PP
+287713	PP
+287717	NP
 NP
 PP
 NP
-NP
-287754	PP
-287756	NP
-NP
+287723	PP
 PP
 NP
-NP
-287763	NP
-287765	PP
-PP
-NP
-287778	PP
-287782	PP
-287784	NP
+287727	NP
+287729	NP
 NP
 NP
-287789	NP
-287797	PP
-287801	NP
-NP
-287806	NP
-PP
-NP
-287810	NP
-287813	NP
-NP
-287816	NP
+287735	PP
 NP
 NP
-287820	PP
 NP
+287740	NP
+NP
+287745	PP
+NP
+NP
+287749	PP
+287751	PP
+NP
+NP
+287758	NP
+287762	PP
+NP
+287772	NP
+287779	NP
+287783	PP
 NP
 PP
-287826	PP
-NP
-287831	NP
-NP
-NP
-287835	PP
-287837	PP
-NP
-287841	NP
+287788	NP
 PP
+287792	NP
+287796	PP
 NP
-287845	PP
+287803	PP
+287805	NP
+287807	NP
+287809	NP
+287814	PP
 NP
-NP
-NP
-287850	NP
-287853	PP
-287855	PP
-287857	PP
-NP
-287860	NP
-PP
-287863	NP
-287865	NP
-287868	PP
-287870	NP
-287872	NP
-287876	PP
-NP
-287879	NP
-PP
-287885	PP
-287887	NP
-287890	NP
-NP
-287896	NP
-287898	PP
+287822	NP
+287824	NP
+287833	PP
 NP
 NP
 PP
-287903	PP
-287907	PP
-NP
-287910	NP
-287913	PP
-287915	PP
-287917	NP
-287919	NP
-287922	PP
-287924	NP
-NP
-NP
-NP
-287938	NP
-NP
-287941	NP
-NP
-287946	NP
-287949	PP
-NP
-287953	PP
-PP
-287957	PP
-PP
-287960	NP
-287963	NP
-NP
-287966	NP
-NP
+287846	NP
 NP
 PP
-287979	PP
-287981	PP
+287854	NP
+PP
 NP
+287858	NP
+PP
+287863	PP
 NP
-287985	NP
+PP
+287871	PP
+287876	NP
+287878	PP
+287882	NP
+287885	NP
+287887	PP
+287889	PP
 NP
-287988	PP
-287995	NP
+287902	PP
+287916	NP
+287919	PP
+287924	PP
+NP
+287928	PP
+287932	PP
+287934	NP
+287939	NP
+287943	NP
+287947	NP
+NP
+287950	NP
+287954	NP
+NP
+287960	PP
+PP
+NP
+287967	NP
+NP
+287973	NP
+287980	PP
+NP
+287983	NP
+287987	NP
+287989	PP
+NP
+287993	PP
 287997	NP
 NP
-PP
-288002	NP
-NP
-NP
-288006	NP
-288008	PP
-288011	PP
-PP
-NP
-288016	NP
-PP
-288020	NP
-NP
-PP
-NP
-NP
-288028	PP
-NP
-288032	NP
-288035	NP
-NP
-288038	NP
-NP
-PP
-288045	PP
-288052	PP
-288054	NP
-PP
-NP
-NP
-NP
-288065	NP
-PP
-NP
-288070	PP
-PP
-NP
-288077	PP
-NP
-NP
-NP
-288086	NP
-PP
-288089	NP
-PP
-288092	NP
-PP
-288096	NP
-NP
-NP
-288101	NP
-NP
-PP
-288106	NP
-NP
-PP
-NP
-288113	PP
-NP
-288117	PP
-PP
-NP
-NP
-288123	NP
-PP
-288126	NP
-288132	NP
-288135	PP
-288139	NP
-NP
-NP
-NP
-288144	NP
+288002	AdjP
+288004	NP
+288006	AdjP
+288008	NP
 NP
 NP
 PP
-288150	NP
+NP
+288014	NP
+288025	AdjP
+AdjP
+PP
+288030	NP
+NP
+288036	NP
+NP
+288042	NP
+288046	NP
+PP
+288049	NP
+PP
+288057	PP
+288067	PP
+288069	NP
+288074	NP
+NP
+288077	NP
+288080	NP
+288085	NP
+NP
+NP
+288090	PP
+288092	PP
+288096	PP
+288098	PP
+288100	PP
+NP
+288106	PP
+NP
+288110	NP
+288113	NP
+288115	NP
+PP
+NP
+NP
+288120	NP
+NP
+288127	NP
+288129	PP
 NP
 NP
 PP
-288158	NP
-288160	PP
 NP
-288164	PP
+288137	NP
+288141	NP
 NP
+288147	PP
+288151	PP
+288153	NP
+288157	NP
 NP
+288160	NP
+288163	NP
+NP
+288166	NP
 288169	NP
 NP
-NP
-NP
-288174	NP
-NP
-NP
-288178	NP
-NP
-NP
-NP
-NP
+288173	NP
+288175	NP
+288182	PP
+288184	NP
+288186	NP
+PP
+288190	NP
+288192	PP
+288195	NP
+288197	NP
+288199	NP
+288203	NP
+288205	AdjP
 NP
 PP
-NP
-NP
-288189	NP
-288191	PP
-NP
-NP
-NP
-288196	NP
-NP
-288199	PP
-PP
-PP
-288203	PP
-PP
-288206	PP
-NP
-288209	NP
-288214	PP
-PP
-288218	NP
+288213	PP
+288215	NP
+288219	NP
 288221	NP
-288223	NP
-PP
 NP
-PP
+288228	NP
 NP
-NP
-288233	NP
-NP
+288232	NP
+288234	NP
 288236	PP
+PP
+PP
+PP
+PP
+288246	NP
 NP
-288239	PP
+NP
+288252	NP
 NP
 PP
-288244	NP
-NP
-NP
-288249	PP
-NP
-288253	PP
-NP
-NP
-NP
-NP
+288258	PP
 PP
 NP
-288270	PP
-288272	NP
-288274	PP
-288278	PP
 NP
-PP
 NP
-288283	NP
-288288	NP
 NP
-PP
+288267	PP
+288270	NP
 NP
-288294	PP
-NP
+288279	NP
 288298	PP
+288302	PP
+288305	PP
+288308	PP
+288310	PP
 NP
-288306	NP
+288314	NP
 NP
-NP
-PP
-288317	PP
-288319	PP
-NP
-NP
-288323	PP
-NP
-NP
-NP
-PP
-NP
+288318	NP
+288325	NP
 NP
 288331	NP
-288333	PP
-288335	PP
-288337	PP
-288341	PP
+288336	PP
 NP
-288344	NP
-288351	NP
-NP
-288356	PP
-NP
-288362	PP
-NP
-288368	PP
-288371	PP
-288373	PP
-288375	PP
-288378	NP
-288382	PP
-NP
-288388	NP
-NP
-288396	NP
+288339	NP
+288341	NP
+288346	PP
+288350	NP
+288352	NP
+288359	NP
+288368	NP
+288371	NP
+288375	NP
+288383	NP
 NP
 NP
+288387	NP
 NP
-288401	NP
+PP
 NP
+288398	NP
+288404	NP
 NP
-288411	NP
-NP
+288407	NP
 288414	NP
-288417	PP
-288420	NP
-288422	PP
+288421	NP
 NP
-NP
-NP
-288428	NP
-AdvP
-288437	NP
-NP
-288441	NP
-288445	PP
+288427	AdjP
+288430	NP
+288436	NP
 288449	NP
 288452	PP
-NP
-NP
 288457	PP
 NP
 288460	NP
-288464	NP
-NP
-NP
-PP
-NP
+288468	NP
 288470	NP
-288475	NP
-288479	PP
-288484	NP
+NP
+288474	NP
+NP
+288478	NP
+288482	PP
 288487	NP
-NP
-NP
-288491	PP
-NP
-PP
+288489	NP
 288495	NP
-288497	NP
-288499	PP
 NP
 NP
-288503	NP
 PP
+288504	PP
 NP
-288507	NP
-288510	NP
+288509	PP
+288512	NP
+NP
+288517	PP
 288519	NP
 288523	NP
-288527	PP
-288529	NP
 NP
-288534	PP
+288528	PP
+288531	PP
+288539	NP
+288546	NP
+288548	PP
+288550	NP
+288552	NP
 NP
-PP
-288541	PP
-PP
 NP
-288545	NP
-288548	NP
+288556	NP
 NP
-288551	PP
 NP
-288556	PP
-288562	NP
-288565	NP
+288562	PP
 288568	NP
-288570	NP
-PP
 NP
 NP
-PP
 NP
-NP
-288580	NP
-NP
+288581	PP
 288583	NP
-288589	PP
-288593	NP
 NP
-288596	NP
+AdjP
+NP
+288591	NP
+NP
+NP
+288595	NP
+288598	NP
+288613	NP
+288628	NP
+288630	NP
+288632	NP
+NP
+288636	NP
+NP
+PP
+288645	PP
+288649	PP
+288652	NP
+NP
+NP
+288656	NP
+288659	NP
+288663	NP
+288666	NP
 NP
 NP
 PP
+288673	PP
 NP
+288690	PP
+288695	NP
 NP
-NP
+288701	NP
 PP
-288606	PP
+288705	NP
+288707	NP
 NP
+288711	NP
+288716	PP
 NP
-288611	PP
+288721	NP
+288724	NP
 NP
-NP
-288618	PP
-288622	PP
-288633	PP
-288638	PP
-288640	NP
-NP
-288647	PP
-288649	NP
-NP
-288655	PP
-PP
-288660	NP
-288662	NP
-NP
-288667	NP
-NP
-288674	NP
-288676	PP
-288679	PP
-PP
+288733	NP
 NP
 NP
 NP
-288685	PP
-NP
-NP
-288694	PP
-NP
-288698	NP
-288700	PP
-PP
-NP
-NP
-288706	PP
-PP
-NP
-NP
-288713	PP
-288715	NP
-NP
-288719	NP
-NP
-NP
-NP
-NP
-288725	NP
-NP
-288729	NP
-NP
-288732	NP
-NP
-PP
-288737	NP
 288739	NP
 NP
 PP
-288743	PP
-288745	NP
-PP
-PP
-288749	NP
-NP
-288752	PP
-PP
-NP
-NP
-288757	PP
-NP
-NP
-NP
-NP
+288746	NP
 NP
 PP
 NP
+288751	PP
+288754	NP
+288756	NP
+288761	PP
+288763	NP
 NP
-NP
-288773	PP
-288778	PP
-288794	NP
-288797	PP
-NP
-288802	NP
-NP
-NP
-NP
-288808	PP
-NP
-288811	NP
-NP
-NP
-288815	PP
-288818	PP
-NP
-288821	NP
-NP
-288825	NP
-288828	PP
-NP
-NP
-NP
-288835	PP
-NP
-288846	NP
+288767	NP
+AdjP
 PP
-288849	PP
+288771	NP
+NP
+288774	NP
+NP
+288778	NP
+288784	NP
+NP
+288788	NP
+288790	NP
+288793	NP
+288795	NP
+NP
+288799	NP
+288803	NP
+288810	NP
+288812	NP
+AdjP
+PP
+NP
+NP
+288824	PP
+NP
+288827	PP
+288833	PP
+288836	PP
+NP
+288843	NP
+PP
+288848	NP
+NP
+NP
+NP
 288854	NP
-288857	NP
+288856	NP
+288858	NP
+NP
+288861	NP
+288865	PP
+NP
+288868	NP
+PP
+288871	NP
 NP
 NP
+288875	PP
+NP
+PP
+NP
+288880	NP
+PP
+288884	NP
+288886	PP
+288892	NP
+NP
+288897	NP
+288900	PP
+PP
+NP
+288905	NP
 NP
 PP
 PP
-288864	NP
-288870	NP
-288874	PP
-288881	PP
 NP
 NP
+288918	NP
+NP
+288923	NP
+288925	NP
 NP
 PP
-NP
-NP
-288900	NP
-288903	NP
-NP
-288911	PP
-NP
-288914	NP
-288923	PP
 288929	NP
+288933	PP
+288936	NP
 NP
-288942	NP
-288944	PP
+288940	NP
 NP
-288947	PP
-288952	PP
-NP
-288956	PP
-NP
-NP
-NP
-AdvP
-288964	NP
-NP
+288945	PP
 PP
 PP
 NP
-288970	PP
+288953	NP
 NP
-288973	PP
-288975	NP
 NP
-PP
-288984	PP
-288986	PP
+288958	PP
 PP
 NP
 NP
 NP
+NP
+288968	NP
+NP
+288978	NP
+NP
+NP
+NP
+288984	NP
+NP
+288988	NP
 PP
-288995	PP
-289000	PP
+NP
+288996	NP
+288998	PP
 NP
 NP
-289004	PP
-289006	NP
-289008	NP
+289002	PP
+NP
+289009	PP
+289011	PP
+NP
+289016	PP
+NP
+NP
 289020	NP
-289023	PP
-289030	NP
-289034	NP
+NP
+NP
+289026	NP
+289031	PP
+289033	NP
 PP
-289038	AdvP
-289046	PP
-289048	NP
-289053	NP
-289055	NP
-289058	NP
-289066	NP
-289085	NP
-289088	NP
+289040	PP
 NP
-289094	NP
+NP
+289056	NP
+NP
+289059	PP
+NP
+NP
+NP
+289065	NP
+289068	PP
+289070	PP
+289074	NP
 PP
-289097	PP
+289077	NP
 NP
-PP
-NP
-NP
-289103	PP
-289110	PP
-289119	NP
-289129	PP
-289133	PP
-289141	PP
-PP
-NP
-NP
-289146	PP
-289153	NP
-289155	NP
-289157	NP
-289159	PP
-289164	PP
-289169	NP
-289171	PP
-289173	PP
-289178	PP
-289182	NP
-PP
-PP
-NP
-289194	NP
-289196	PP
-NP
-NP
-289200	NP
-289202	NP
-NP
-NP
-289209	NP
-NP
-NP
-289213	NP
-289215	NP
-289217	PP
-NP
-NP
-NP
-NP
-289231	PP
-289233	NP
+289080	PP
+289082	NP
+289084	PP
+289090	NP
 NP
 PP
 NP
+289101	NP
+NP
+NP
+289111	NP
+NP
+289117	PP
+289125	NP
+289128	PP
+PP
+NP
+NP
+289134	PP
+289141	NP
+289143	PP
+289145	NP
+NP
+PP
+289152	PP
+PP
+NP
+289158	NP
+289162	NP
+289165	PP
+289167	NP
+NP
+289173	NP
+NP
+NP
+289190	NP
+NP
+289195	NP
+289203	NP
+289205	PP
+289208	NP
+NP
+NP
+289212	PP
+PP
+NP
+PP
+289217	NP
+NP
+PP
+289221	PP
+289225	NP
+NP
+NP
+289230	PP
+289233	PP
+NP
+289236	NP
 289239	NP
-289241	NP
-NP
-NP
-NP
-NP
-NP
-NP
 PP
-289251	NP
+289242	PP
 NP
+289245	NP
+289276	PP
+NP
+289279	PP
 NP
 PP
 NP
-289259	PP
-289264	NP
-289266	PP
-289273	NP
+289287	AdjP
+289289	NP
 NP
-289277	NP
 NP
+289293	NP
 NP
 NP
 NP
+289298	NP
+289300	PP
 NP
-PP
-289285	NP
-PP
-289288	PP
-NP
-NP
-NP
-PP
-NP
-NP
-289296	NP
-PP
-NP
-NP
-NP
-289302	NP
 289305	NP
 NP
-NP
-NP
-NP
 PP
-289313	NP
+289317	PP
+NP
+289326	NP
 NP
 NP
-PP
-289321	PP
-289329	PP
-PP
+289330	NP
 NP
 NP
+289335	NP
 NP
+289344	PP
 NP
+289347	NP
 NP
+289350	PP
 NP
-PP
-PP
+289355	NP
 NP
-NP
-PP
-NP
-289351	NP
-NP
-NP
-NP
-289357	NP
-PP
-NP
-NP
-289362	PP
-NP
-NP
-NP
-NP
+289360	NP
+289367	PP
 289370	PP
+289376	PP
+289378	NP
 NP
 NP
-289375	PP
-NP
-289380	NP
 NP
 PP
+289384	AdjP
+NP
 PP
 NP
 NP
-289387	PP
-289391	PP
-289395	NP
-NP
-NP
+289391	NP
+289393	NP
+289398	PP
 289400	NP
-NP
-289403	NP
-PP
-289407	NP
-NP
-NP
-NP
-PP
-289414	PP
 PP
 NP
 NP
-NP
-NP
-289425	PP
-NP
-NP
-NP
-NP
+289405	NP
+289413	NP
+289420	AdjP
+289422	PP
+PP
 289431	NP
+289433	PP
 NP
+289437	PP
+NP
+NP
+NP
+289442	PP
 PP
-PP
-289439	PP
-NP
-289443	PP
-289445	PP
-289447	PP
-NP
-PP
-PP
-289454	NP
 NP
 NP
-289461	PP
+289449	PP
 NP
-289466	NP
+289452	NP
+289456	NP
+289458	AdjP
+289467	NP
+NP
 289470	NP
+289472	NP
+289475	PP
+289479	PP
+NP
+289483	NP
+NP
+289488	NP
+289493	PP
+NP
+289497	NP
+289507	NP
 NP
 NP
-NP
-NP
-NP
-289477	PP
-NP
-289483	PP
-NP
-NP
-NP
-289498	PP
-289506	PP
-289509	PP
-NP
-NP
-NP
-289514	NP
-289517	NP
-289522	PP
-289527	NP
-289529	NP
-289531	NP
-NP
-NP
-NP
-289537	NP
-NP
-NP
-NP
-NP
-289543	NP
+289511	NP
+AdjP
 PP
 NP
+289518	PP
 NP
+289521	NP
+289526	NP
+NP
+289534	NP
+289536	NP
+NP
+NP
+NP
+NP
+NP
+NP
+289546	NP
+NP
+289552	PP
+PP
 PP
 NP
-289551	NP
-289553	PP
+289558	PP
+289561	NP
 NP
 NP
-289557	PP
-289559	NP
-NP
-NP
-289564	PP
 289568	PP
-289571	NP
+289572	NP
+289576	PP
+NP
+289583	PP
+289589	PP
+289593	PP
+289595	NP
+289600	PP
+PP
+289603	NP
+PP
+289606	NP
+289609	AdjP
+289611	PP
+PP
+PP
+PP
+289616	NP
+PP
+289621	NP
+NP
 NP
 PP
-289576	NP
-289579	NP
-289581	NP
-289584	NP
-289589	NP
-289591	PP
-NP
-289594	PP
-289598	NP
-PP
-PP
-PP
-NP
-289604	NP
-PP
-289609	PP
 NP
 NP
-PP
-NP
-NP
-NP
-NP
-289624	NP
-289628	PP
 289630	PP
+289632	NP
+289643	NP
 NP
-NP
-289634	NP
-NP
-289637	NP
-NP
-NP
-289644	NP
 289646	NP
-PP
-289649	NP
 NP
-289653	PP
+289650	NP
+289652	AdvP
+289657	PP
 NP
+289667	NP
 NP
-289658	NP
-289661	PP
-289663	NP
-NP
-NP
-289670	PP
-PP
-289675	PP
+289672	PP
 NP
 NP
-289682	NP
-289686	NP
-289692	PP
+289679	NP
+289682	PP
+289684	NP
 NP
-289696	PP
-PP
-289703	NP
-289706	NP
+289687	PP
+289689	NP
+289695	PP
+289697	NP
+289699	NP
 NP
-PP
+289708	NP
 NP
 NP
 NP
-289713	PP
+289714	NP
+NP
+289717	NP
+289719	NP
+289725	NP
 NP
 NP
-NP
-289721	PP
-NP
-NP
-289726	PP
-NP
-NP
-289733	PP
-NP
-289737	PP
-289747	PP
-289752	PP
-289754	PP
-289758	PP
-289761	NP
-289772	PP
-289778	PP
-289793	PP
-289798	NP
-289801	PP
-289803	PP
-289805	NP
-NP
-289819	NP
-NP
-NP
-PP
-NP
-289839	NP
-289841	NP
-NP
-NP
-289846	NP
-PP
-PP
-NP
-NP
+289732	NP
 PP
 NP
 NP
 NP
 NP
+289739	NP
+289742	NP
 NP
-289860	PP
+289745	NP
 NP
-289864	NP
+289749	PP
+289759	NP
 NP
+289763	PP
+289765	PP
+289767	PP
+289771	PP
+289776	PP
+289781	PP
+289785	PP
+NP
+289790	PP
+PP
+289796	NP
+NP
+NP
+289800	NP
+NP
+289806	NP
+PP
+NP
+NP
+289811	NP
+289816	NP
+NP
+289819	PP
+NP
+NP
+NP
+289836	NP
+289845	PP
+NP
+289850	NP
+NP
+289854	PP
+NP
+289859	NP
+PP
+NP
+NP
+289865	PP
+NP
+NP
+NP
+NP
+289871	NP
+PP
+NP
+NP
+NP
+289881	NP
+NP
+289886	PP
+289890	PP
+289893	PP
+289902	NP
 NP
 NP
 PP
@@ -41564,7666 +42439,6791 @@ NP
 NP
 NP
 PP
+289912	NP
 NP
-NP
-289876	NP
-NP
-NP
-NP
-PP
-PP
-289883	NP
-NP
-289889	PP
-289891	PP
-289900	NP
-289906	NP
-NP
-PP
-NP
-289911	NP
-NP
-289914	NP
-PP
-NP
+289916	PP
 289918	NP
-289920	NP
-289925	PP
-289935	PP
-289941	NP
-289959	NP
+NP
+289921	NP
+289923	NP
+PP
+PP
+NP
+289928	NP
+289931	NP
+NP
+PP
+NP
+289937	NP
 NP
 NP
+PP
+289945	PP
+NP
+NP
+289949	NP
+289951	NP
+NP
+PP
+NP
+289957	PP
 289963	NP
-289965	PP
+NP
+289966	PP
+289969	PP
+289978	PP
+289988	NP
 NP
 NP
 NP
+289994	PP
 NP
-NP
-NP
-289979	NP
-NP
-289986	PP
-NP
-289996	PP
 289999	NP
-NP
-NP
-NP
-PP
-290005	NP
-PP
-NP
-290009	AdjP
-NP
-290012	PP
-NP
+AdjP
+290002	PP
+290004	NP
+290007	AdjP
+AdjP
+AdjP
+290012	AdjP
 290016	NP
-290020	PP
-290023	PP
-290025	NP
 NP
 PP
 NP
-290031	PP
+NP
+290026	PP
+290028	NP
+290042	NP
+NP
 PP
 NP
-NP
-290036	NP
-NP
-NP
-290040	PP
-NP
-NP
-NP
-290046	NP
-NP
-290050	PP
-NP
-NP
-290054	PP
+290050	NP
 290056	PP
 NP
-NP
-290061	NP
-290065	PP
-NP
-290073	NP
-290080	NP
-290082	PP
-NP
+290060	NP
 PP
-290086	NP
-PP
+NP
+NP
+290067	NP
+NP
+NP
+NP
+290073	PP
+NP
+290080	PP
+NP
+290085	NP
+290087	NP
+NP
 290090	NP
-290093	PP
-NP
-290098	PP
-NP
-NP
-290102	NP
-290106	PP
-NP
-290113	NP
-NP
-290119	PP
-NP
-NP
+290093	NP
+290095	NP
+290104	NP
+290107	NP
+290109	NP
+290114	NP
+290121	AdjP
 PP
+NP
+NP
 290130	NP
 NP
-PP
-290137	NP
-PP
+290138	NP
 NP
-290141	NP
-PP
-290145	PP
 NP
-PP
-290151	PP
-290155	NP
-290157	PP
+290144	PP
+290146	AdjP
+290148	NP
+290152	NP
+290156	NP
+NP
 290160	NP
-290163	NP
-290165	PP
-290167	PP
 NP
-290178	PP
-290189	NP
-290192	PP
-290196	PP
 NP
-290200	PP
-290203	PP
-290205	NP
-290210	NP
-290214	NP
+290164	NP
+290170	PP
+290173	NP
+NP
+PP
+NP
+290178	NP
+NP
+290181	NP
+PP
+290184	NP
+290187	PP
+290191	NP
+290193	PP
+290202	NP
+NP
+290207	NP
+NP
+NP
+290211	NP
+290213	PP
 290216	NP
 NP
 NP
-290220	NP
+AdjP
 NP
-290226	PP
-PP
+290226	NP
+290228	NP
 NP
-290232	NP
+290234	PP
+NP
 NP
 290238	NP
-290245	PP
+290240	NP
+290242	NP
 NP
-290248	NP
-290252	NP
-290254	PP
 NP
-290258	PP
-290261	NP
+290247	NP
+290249	NP
+290256	PP
+290261	PP
 NP
-290265	AdjP
 290267	NP
-290269	AdjP
-290271	NP
 NP
 NP
+290276	PP
+NP
+290287	PP
+NP
+NP
+290297	NP
+290299	PP
+NP
+290304	NP
+290308	NP
+290311	PP
+290319	NP
+290321	NP
+290323	NP
+290325	NP
+290327	NP
+290329	PP
+290332	NP
 PP
-NP
-NP
-290286	AdjP
-AdjP
-PP
-290291	NP
-NP
-290296	NP
-NP
-290301	NP
-290305	NP
-PP
-NP
-PP
-290314	PP
-290323	PP
-NP
-290328	NP
-NP
-290331	NP
-290333	NP
-290338	NP
+290338	PP
 NP
 NP
 290343	PP
-290345	PP
-290349	PP
-290351	PP
-290353	PP
+290345	NP
+290347	NP
+290349	NP
+290352	PP
+290354	PP
+290357	NP
 NP
-290359	PP
+290361	NP
 NP
-290363	NP
-290365	NP
-290367	NP
-PP
-NP
-NP
-290372	NP
-NP
-290378	NP
-290380	PP
+290365	PP
 NP
 NP
-PP
-NP
+290369	NP
+290371	PP
+290377	NP
+290385	NP
 290387	NP
-290389	NP
-NP
-290395	PP
-290399	PP
-NP
-290404	NP
+290392	NP
+290398	NP
+PP
 NP
 290407	NP
-290409	NP
-NP
-NP
-290413	NP
-NP
-290417	NP
-290419	NP
-290425	PP
-NP
+290416	PP
+290420	PP
+PP
 290428	NP
+290438	NP
+NP
+NP
+290442	PP
+NP
+NP
+290451	NP
+NP
 PP
-290432	NP
-290434	PP
-290437	NP
-290439	NP
-NP
-290443	NP
-290445	AdjP
+290457	PP
 NP
 PP
-290452	PP
-NP
-290457	NP
-NP
 NP
 290463	NP
-NP
 290467	NP
-290469	NP
-PP
-PP
-PP
-PP
-PP
-290478	NP
+290470	NP
 NP
+290476	NP
+290479	NP
 NP
-290483	NP
+290482	NP
 NP
 PP
+NP
 290489	PP
-PP
+290492	NP
+290497	NP
 NP
-NP
-NP
-NP
-290497	PP
 290500	NP
+290502	PP
+NP
 NP
 290507	NP
-290523	PP
-290526	PP
+290509	NP
+290511	NP
+290515	PP
+290517	NP
+290519	PP
+NP
+NP
+290523	NP
+NP
+NP
+NP
 290529	PP
-290532	PP
-290534	PP
 NP
-290537	NP
 NP
-290541	NP
+290533	NP
+290535	PP
+PP
+290538	NP
+290542	PP
+NP
+NP
 290546	NP
 NP
-290552	NP
-290557	PP
 NP
-NP
-290561	NP
-290565	PP
-290568	NP
-290570	NP
-290576	NP
-290584	NP
-290586	NP
-290589	NP
-290597	NP
-NP
-NP
-290601	NP
+290550	PP
+290553	NP
 NP
 PP
+290560	PP
 NP
-290611	NP
-290617	NP
+290567	PP
+290572	NP
 NP
-290620	NP
-290626	NP
-290632	NP
+290577	PP
+290579	NP
 NP
-290637	AdjP
-290640	NP
-290645	NP
-290656	NP
+NP
+290583	PP
+NP
+290588	NP
+290590	AdjP
+AdjP
+AdjP
+290594	AdjP
+290598	NP
+290604	NP
+NP
+290609	PP
+290612	PP
+290615	PP
+NP
+NP
+NP
+PP
+290621	NP
+NP
+290628	PP
+290630	PP
+NP
+NP
+290635	PP
+290638	PP
+290640	PP
+290646	PP
+290649	PP
+NP
+290654	AdvP
 290659	PP
-290664	PP
+290661	PP
+290686	NP
 NP
-290668	NP
-290676	NP
-290678	NP
+290696	NP
+290704	PP
+290706	NP
 NP
-290681	NP
+PP
+290710	NP
 NP
-290685	NP
-290689	PP
-290693	NP
+290716	PP
+PP
+290722	AdvP
+290730	PP
 NP
-290700	NP
+NP
+290739	NP
 NP
 NP
 PP
-290709	PP
-NP
-290713	PP
-290716	NP
-NP
-290721	PP
-NP
-290725	NP
-NP
-290730	PP
-290733	PP
-290740	NP
 290746	NP
-290748	PP
+NP
+NP
 NP
 290751	NP
+290753	PP
+NP
+NP
+290759	NP
+290761	NP
+PP
+NP
+PP
 NP
 NP
 NP
-NP
-NP
-290760	PP
-290765	NP
-NP
-NP
-NP
-290778	PP
+290770	PP
+290776	NP
+PP
 290780	NP
+290785	NP
 NP
-AdjP
-NP
-290787	NP
-NP
-NP
-290791	NP
-290794	NP
-290807	NP
-290817	NP
-290819	NP
+290788	NP
 NP
 NP
-290823	NP
+290793	NP
+NP
+NP
+NP
+NP
+NP
+NP
+290802	PP
+NP
 NP
 PP
-290831	PP
+290809	NP
+290811	NP
+PP
+290814	NP
+290818	NP
+290820	NP
 290833	PP
-290835	NP
+290838	PP
+290844	NP
+PP
+NP
+290851	NP
+NP
+290855	PP
+290857	NP
+290860	NP
+NP
+290864	NP
 NP
 NP
-290839	NP
-290842	NP
-290846	NP
-290849	NP
+290868	PP
+290870	NP
+NP
 NP
 NP
 PP
-290856	PP
 NP
-290872	PP
-290875	NP
 NP
-290880	NP
+NP
+290879	NP
+NP
+NP
+NP
+NP
+NP
+290891	PP
+290895	NP
+NP
+NP
+NP
 PP
-290883	NP
-290885	NP
 NP
-290888	NP
-290893	PP
 NP
-290898	NP
-290901	NP
-NP
-290908	NP
-NP
+290904	PP
+290906	NP
+290909	NP
 NP
 NP
 290913	NP
+290939	NP
+290942	NP
 NP
-PP
-290919	NP
+290946	PP
 NP
-PP
-NP
-290924	PP
-NP
-290927	NP
-290930	PP
-NP
-NP
-290935	NP
-AdjP
-PP
-NP
-NP
-NP
-NP
-290943	NP
-290945	NP
-NP
-290948	NP
-NP
-290952	NP
-290954	NP
+290949	NP
+290954	PP
 NP
 290958	NP
-290962	NP
-290968	NP
-290970	NP
-AdjP
+NP
+NP
+NP
+NP
+290965	NP
+NP
 PP
+290969	PP
+290973	PP
+290986	NP
 NP
-NP
-290979	PP
-NP
-290982	PP
-290987	PP
-290990	PP
-NP
+PP
+290993	NP
 290997	NP
-PP
 291002	NP
+291008	PP
 NP
-NP
-NP
-291008	NP
-NP
-291011	NP
-NP
-NP
-291017	PP
-NP
+PP
+291012	PP
+291015	NP
 291020	NP
-PP
-NP
-NP
-NP
-PP
+291022	NP
 NP
 PP
 NP
 NP
-PP
-NP
-PP
-291034	NP
-NP
-291038	NP
-291041	PP
-PP
-NP
-291046	NP
-NP
-PP
-PP
-NP
-NP
+291033	NP
+291035	PP
+291050	NP
 291057	NP
+PP
+291065	PP
 NP
-291062	NP
-291064	NP
 NP
 PP
-NP
-291071	PP
-NP
-NP
-291075	NP
-NP
-291080	PP
+291072	NP
+291075	AdjP
+291081	NP
+291085	NP
 PP
+291089	PP
+NP
+NP
+NP
+291097	NP
 PP
+291104	PP
 NP
-291087	NP
+291107	PP
 NP
 NP
-291092	PP
 PP
+291112	NP
 NP
 NP
 NP
-NP
-291101	NP
-NP
-291108	NP
-NP
-NP
-NP
-291113	NP
-NP
-291117	NP
 PP
-NP
 291124	NP
 PP
-NP
-NP
-291129	PP
-NP
-291134	PP
 PP
 NP
-291140	PP
+291135	NP
 NP
 NP
-NP
-NP
-NP
-291148	NP
-291152	PP
-NP
-PP
-291160	PP
-NP
-NP
-291175	NP
-NP
-291178	PP
-NP
-NP
-NP
-291183	NP
-291186	PP
-291188	PP
-291190	NP
-PP
-NP
-NP
-291195	PP
-NP
-291198	PP
-291203	NP
 NP
 PP
 NP
-291212	NP
+291147	VP
+PP
+291154	NP
+291159	NP
+291162	NP
+291166	NP
+291169	NP
+291172	PP
+NP
+291176	NP
+NP
+291179	NP
+291182	NP
+291187	NP
+PP
+NP
+291191	AdjP
+291198	NP
+291203	PP
+NP
+291207	NP
+291211	NP
+PP
+NP
+PP
+291216	NP
 NP
 NP
-291220	NP
+PP
+291230	NP
 NP
-291225	PP
-291233	NP
-291236	PP
+NP
+291235	NP
+NP
+291239	NP
+NP
+NP
+291247	NP
 PP
 NP
 NP
-291242	PP
-291250	NP
-291252	PP
 NP
 NP
-PP
-291259	PP
-PP
+291255	PP
+291257	PP
 NP
+291260	NP
 291264	NP
-291268	NP
-291271	PP
-291273	NP
-NP
-291278	NP
+291267	PP
+291277	PP
 NP
 NP
-291296	NP
 NP
+PP
+291283	PP
+NP
+291288	PP
+291290	PP
+NP
+NP
+291294	NP
+291299	NP
 291301	NP
-291309	NP
-291311	PP
-291313	NP
-NP
-NP
-291317	PP
-PP
-NP
-PP
 NP
 NP
 PP
+291310	NP
+NP
+NP
+291316	NP
+NP
+291322	NP
+NP
 291325	PP
-291329	NP
 NP
-NP
-291334	PP
-291337	PP
-NP
-291340	NP
-291342	NP
 PP
+NP
+NP
+NP
 PP
+291333	NP
+291336	NP
+NP
+PP
+291341	NP
+NP
 NP
 291347	NP
-291375	PP
 NP
-291378	PP
+291355	NP
+291360	NP
 NP
-PP
-NP
-291385	AdjP
-291387	NP
+291364	PP
 NP
 NP
-291391	NP
+291369	PP
 NP
 NP
+291379	PP
 NP
-291396	NP
-291398	PP
 NP
-291403	NP
 NP
 PP
-291413	PP
+291385	PP
 NP
-291422	NP
+291391	PP
+NP
+PP
+291395	NP
+291400	NP
+PP
 NP
 NP
-291426	NP
+291405	NP
+291407	NP
+291410	NP
 NP
 NP
-291431	NP
+PP
+291416	PP
+291421	NP
 NP
+291427	NP
+NP
+291430	PP
+NP
+291437	NP
 291439	PP
-NP
-291442	NP
-NP
 PP
+291444	NP
+291447	NP
 NP
-291448	NP
+291450	PP
 NP
-291452	NP
 291457	PP
-291460	PP
-291466	PP
-291468	NP
 NP
 NP
+291469	PP
+291477	PP
 NP
+NP
+291481	NP
 PP
-291474	AdjP
-NP
-PP
-NP
-NP
-291480	NP
-291482	NP
-291486	PP
-291488	NP
-PP
-NP
-NP
+291487	VP
 291493	NP
-291500	NP
-291506	AdjP
-291508	PP
+NP
+NP
+291499	NP
+291504	PP
+NP
+291511	PP
+NP
+NP
+291516	PP
+NP
+NP
+291520	NP
 PP
-291516	NP
-291518	PP
-NP
-291522	PP
-NP
-NP
 NP
 291527	PP
+NP
+291532	NP
 PP
 NP
 NP
-291534	PP
 NP
-291537	NP
-291540	NP
-AdjP
-291548	NP
+PP
 NP
-291551	NP
-291553	NP
+NP
+NP
+291542	PP
+291546	PP
+NP
+NP
 291556	PP
-291560	PP
+291562	PP
+291565	NP
+291567	PP
+291569	PP
 NP
-291564	NP
+291576	NP
 NP
-291569	NP
-291574	PP
+291581	NP
 NP
-291578	NP
-291587	NP
+291590	PP
+NP
+291593	PP
+291597	NP
 NP
 NP
-291591	NP
-AdjP
-PP
-NP
-291598	PP
-NP
-291601	NP
-291606	NP
-NP
-291612	NP
+291603	PP
 NP
 NP
 NP
+291608	PP
 NP
 NP
+291612	PP
 NP
 NP
+291619	PP
 NP
 NP
-291625	PP
-PP
-PP
+291624	PP
 NP
-291631	PP
+NP
+291628	NP
+291630	NP
 291634	NP
 NP
 NP
-291641	PP
-291643	NP
-291647	PP
-NP
-291653	PP
-291657	PP
-291661	PP
-NP
-291667	PP
+291639	AdjP
 PP
 NP
-PP
 NP
-291673	AdjP
-PP
-PP
-PP
-PP
+291644	PP
 NP
-PP
+291653	AdjP
+NP
+291663	PP
+291669	NP
+NP
+291672	PP
+291674	NP
+291678	NP
+NP
+291681	NP
 291683	NP
 NP
 NP
+291687	NP
+NP
+291694	NP
+NP
+291698	PP
+PP
+PP
+291703	PP
+NP
+NP
+NP
+291714	PP
+NP
+NP
+291718	NP
+PP
+291721	PP
+291723	NP
 PP
 NP
-NP
-291691	PP
-NP
-291699	NP
-NP
-291702	NP
-NP
-291705	NP
-291707	AdvP
-291711	PP
-NP
-291717	NP
-NP
-291722	PP
-NP
-NP
-291729	NP
 291731	PP
-291733	NP
-NP
-291736	PP
 291738	NP
-291743	PP
-291745	NP
-291747	NP
+291742	PP
+291745	PP
 NP
-291755	NP
-NP
-NP
-NP
-291760	NP
+291748	PP
+PP
+291751	PP
+291757	NP
+291760	PP
 NP
 291763	NP
 291765	NP
-291770	NP
 NP
+291775	PP
+291777	NP
+291785	PP
+PP
+291790	PP
 NP
-291776	NP
 PP
 NP
 NP
+291797	PP
 NP
 NP
 NP
-291785	NP
 NP
-291788	NP
-NP
-291792	PP
-291799	NP
-NP
-291803	PP
 291805	PP
-291807	PP
-291811	PP
-291815	PP
-291820	PP
-291824	PP
-NP
-291828	PP
+291809	PP
 PP
+291812	NP
+291817	PP
+NP
+291823	PP
+291826	NP
+291830	NP
 291833	NP
 NP
+291836	PP
 NP
 NP
-NP
-291842	NP
 PP
 NP
 NP
-291847	NP
+PP
+291845	NP
 291852	NP
+291859	PP
+NP
+291862	NP
+291867	NP
+NP
+NP
+NP
+NP
+NP
+NP
+291876	NP
+291879	NP
+NP
+291882	NP
+291886	AdjP
+NP
+291894	NP
 NP
 PP
 NP
 NP
+291901	PP
 NP
-291868	NP
-291876	PP
+291908	NP
 NP
-291881	NP
-NP
-291885	PP
-NP
-291890	NP
-PP
-NP
-NP
-291896	PP
-NP
-NP
-NP
-NP
-291902	NP
-PP
-NP
-NP
-NP
-291911	NP
-NP
-291915	PP
-291919	PP
-291922	PP
-291930	NP
-NP
-NP
-PP
 NP
 NP
 NP
 PP
 NP
-NP
-291941	PP
-NP
-NP
-291945	NP
-NP
+291919	NP
+291922	NP
 PP
+NP
+291926	NP
 PP
+NP
+291931	NP
+291934	NP
+291936	NP
+291942	NP
+291949	NP
 NP
 NP
 291953	NP
+291955	NP
+291958	NP
+291960	NP
+NP
+291963	NP
+291969	PP
+291973	NP
+NP
+NP
+291981	NP
 NP
 PP
+291988	NP
+291990	PP
+291995	PP
 NP
-291959	NP
-NP
-NP
-PP
-291966	PP
-NP
-NP
-NP
+292003	PP
 NP
 NP
 PP
+292009	PP
+292011	NP
+292023	NP
+292026	NP
 NP
-291975	PP
-291977	NP
+292029	NP
+292033	PP
+NP
+NP
+292037	NP
+292041	NP
+NP
+NP
+292045	PP
+NP
+NP
 NP
 PP
-291982	PP
-291988	PP
-291997	NP
+292055	NP
+292057	PP
+292061	NP
 NP
+292065	NP
+292067	PP
 NP
+292072	PP
+292087	NP
+292091	PP
 NP
-292002	PP
+292095	NP
 NP
-292007	NP
-AdjP
-292010	PP
-292012	NP
-AdjP
-AdjP
-AdjP
-292018	AdjP
-292021	NP
+292098	PP
 NP
 PP
-NP
-NP
-292030	PP
-NP
-292040	NP
-NP
-PP
-NP
-292048	NP
-292054	PP
-NP
-292057	NP
-PP
-NP
-NP
-292063	NP
-NP
-NP
-NP
-292069	PP
-NP
-292076	PP
-NP
-292080	NP
-292082	NP
-NP
-292085	NP
-292088	NP
-NP
-292097	NP
-292099	NP
-292101	NP
+292103	NP
 292105	NP
-292111	AdjP
+NP
+NP
+NP
+NP
+NP
+NP
+292115	PP
+292117	NP
+NP
 PP
+292123	NP
+292128	NP
 NP
-NP
-292120	NP
-NP
-292126	NP
-NP
-NP
-292131	PP
-AdjP
+292132	PP
 292134	NP
-292138	NP
-292141	NP
 NP
-292145	NP
+292137	NP
+292144	PP
+292146	NP
 NP
 NP
-292149	NP
+292151	PP
 292153	PP
-292156	NP
-NP
-PP
 NP
 NP
+292158	PP
 NP
-292163	NP
-PP
+292162	NP
 292166	NP
-292169	PP
-292171	NP
-292173	PP
-292181	NP
-NP
-292185	NP
 NP
 NP
+292170	NP
 NP
-292190	PP
-292193	NP
-NP
-NP
-AdjP
-NP
-292202	NP
-292204	NP
-NP
-292209	PP
-NP
-NP
-292213	NP
-NP
-292216	NP
+292175	PP
 NP
 NP
 NP
+292183	NP
+PP
+292191	NP
+292194	NP
+292196	NP
+292199	NP
+292205	NP
+292207	NP
+292211	NP
 NP
-292225	PP
-292229	PP
 NP
-292234	NP
+292216	PP
+NP
+292226	PP
 NP
 NP
-292241	PP
+292232	PP
+NP
+NP
+NP
+292241	NP
+PP
+NP
+292246	NP
 NP
 292250	PP
 NP
 NP
-292260	NP
-292262	PP
+292257	PP
+292262	NP
+292264	PP
+292266	NP
 NP
-292267	NP
-292270	NP
-292272	PP
-292280	NP
+PP
 NP
-292283	NP
-292285	NP
+292276	NP
+292290	PP
+NP
+292298	PP
+NP
+NP
+NP
+292313	PP
+NP
+NP
+292317	NP
+292319	PP
+292325	PP
+NP
+NP
+NP
+292332	PP
+NP
+NP
+292339	NP
+PP
+NP
+NP
+292344	PP
+292348	NP
+292350	PP
+292353	NP
+292357	PP
+292359	NP
 NP
 PP
 NP
 PP
-292294	PP
+292369	AdjP
+292372	PP
 NP
 NP
-292299	PP
-NP
-292302	NP
-NP
-292306	PP
-292308	PP
+292377	NP
+292380	PP
 NP
 NP
-292313	NP
-NP
-292317	PP
+292385	PP
 NP
 NP
-292321	NP
-292323	PP
-292329	NP
-292336	NP
-NP
-292342	NP
-292347	NP
-PP
-NP
-292354	NP
-292360	PP
-292364	PP
-PP
-292370	NP
-292380	NP
-NP
-NP
-292384	PP
-NP
-NP
-292393	NP
-NP
-PP
-292399	PP
+292393	PP
 NP
 PP
 NP
 NP
-292405	NP
+292399	NP
+292403	NP
+292405	PP
 NP
 NP
-292410	NP
-292412	NP
+292413	NP
 NP
-292415	NP
+292417	NP
+PP
+292420	NP
+292422	PP
+292424	PP
+292429	PP
+VP
+292434	PP
+PP
+292437	PP
+292447	PP
 NP
 PP
 NP
-292421	PP
-NP
-292425	NP
-NP
-292428	NP
-292430	PP
 NP
 NP
-292434	NP
+292457	NP
+292459	VP
+292461	PP
+292467	PP
+292470	PP
 NP
-292437	NP
-292440	PP
+292474	NP
+292478	PP
 NP
-292443	PP
-NP
-NP
-292447	NP
-NP
-NP
-NP
-292453	PP
-NP
-NP
-NP
-PP
-PP
-292460	NP
-292464	PP
-NP
-NP
-292468	NP
-NP
-NP
-292472	PP
-292475	NP
-NP
-PP
 292482	PP
 NP
+292486	PP
 292488	PP
-292492	NP
+292491	NP
+292496	NP
+292499	PP
 NP
-292496	PP
-NP
-NP
-NP
-292501	PP
-NP
-NP
-AdjP
-AdjP
-AdjP
-292508	AdjP
-292511	NP
-292516	NP
-NP
-292521	PP
-292524	PP
-292527	PP
+292503	NP
+292508	PP
+292510	PP
+292512	NP
+292515	PP
 NP
 NP
+292521	NP
+NP
+292530	NP
+292537	NP
+NP
+292541	NP
 NP
 PP
-292533	NP
-NP
-292539	PP
-292541	PP
-NP
 NP
 292546	PP
-292549	PP
-292551	PP
-292556	PP
-292559	PP
 NP
-292563	AdvP
-292567	PP
-292569	PP
-292590	NP
+292550	NP
+292552	PP
+292554	NP
+292560	PP
 NP
-292599	NP
+NP
+NP
+NP
+PP
+NP
+NP
+292569	NP
+292571	NP
+292573	NP
+NP
+292578	NP
+NP
+NP
+292582	PP
+292592	NP
+292601	PP
 292608	PP
-292610	NP
 NP
-PP
-292614	NP
+292611	NP
+292615	NP
+292621	NP
+292627	PP
+292629	NP
+292632	PP
 NP
-292620	PP
-PP
-292625	AdvP
-292633	PP
-NP
-NP
+292636	NP
 292640	NP
+292642	NP
+292645	PP
 NP
+292650	NP
+NP
+292655	NP
+292673	PP
+NP
+NP
+292677	PP
+NP
+NP
+NP
+292683	PP
+NP
+292688	NP
+NP
+PP
+292693	NP
+NP
+292697	PP
+NP
+292704	PP
+NP
+NP
+292715	NP
+292719	NP
 NP
 PP
 NP
 NP
-NP
-NP
-NP
+292729	NP
 PP
 NP
 NP
-292654	NP
-292656	NP
-PP
-NP
-PP
-NP
-NP
-NP
-292665	PP
-292668	NP
-PP
-292672	NP
-292675	NP
-NP
-292678	NP
-NP
-NP
-292683	NP
-NP
-NP
-NP
-NP
-NP
-NP
-292692	PP
-NP
-NP
-PP
-292699	NP
-292701	NP
-PP
-292704	NP
-292708	NP
-NP
-292722	PP
-292727	PP
-292732	NP
-PP
-NP
-292739	NP
+292734	PP
 NP
 292742	PP
-292744	NP
-292747	NP
+292747	PP
+292751	AdvP
+292754	NP
 NP
-292751	NP
-NP
-NP
-PP
-292756	NP
 292758	NP
 NP
-NP
+292762	NP
+292768	PP
 PP
 NP
+292775	NP
+NP
+292778	NP
+NP
+AdvP
+292783	PP
+292787	NP
+NP
+292794	PP
+292798	NP
+NP
+292801	NP
 NP
 NP
-292766	NP
-NP
-NP
-NP
-NP
-NP
-292777	PP
-292780	NP
-NP
-NP
-NP
+292807	NP
+292810	NP
 PP
+292813	NP
+292816	NP
+292818	NP
 NP
 NP
-292790	PP
-292792	NP
-292795	NP
+292824	PP
+292826	NP
 NP
-NP
-292799	NP
-292821	NP
-292824	NP
-NP
-292828	PP
 NP
 292831	NP
-292835	PP
-NP
-292839	NP
-NP
+292833	NP
+292837	NP
 NP
 NP
 NP
+292844	PP
 292846	NP
 NP
-PP
-292850	PP
-292854	PP
-292865	NP
+292849	NP
+292852	NP
+NP
+292856	NP
+NP
 NP
 PP
-292872	NP
-292875	NP
-292879	NP
-292885	PP
+292861	NP
+NP
+292864	NP
+PP
+292870	PP
+292878	PP
+292880	NP
 NP
 PP
-292889	PP
-292892	NP
-292896	NP
-292898	NP
+292884	NP
 NP
+292887	PP
+292889	NP
+NP
+NP
+292893	NP
 PP
+PP
+292899	PP
+292902	NP
 NP
 NP
 292907	NP
-292909	PP
+NP
+NP
+292912	NP
+NP
+NP
+292916	NP
+NP
+292922	PP
 292924	NP
-292930	NP
-PP
+292926	PP
+292933	PP
 292937	PP
+292941	NP
 NP
 NP
 PP
-292944	NP
-292947	AdjP
-292953	NP
-292956	NP
-PP
-292960	PP
+NP
+292950	NP
 NP
 NP
+292956	PP
 NP
+292959	NP
+NP
+292963	AdjP
 292967	NP
-PP
-292973	PP
 NP
-292976	PP
+292970	PP
 NP
+292974	PP
+292976	NP
 NP
-PP
-292981	NP
-NP
+292980	PP
 NP
 NP
-PP
+292987	NP
+NP
 292992	NP
+292996	PP
+NP
+NP
+NP
+AdvP
+NP
+NP
+293004	NP
+293006	PP
+NP
+293011	NP
+293013	NP
+NP
 PP
-PP
-NP
-293003	NP
-NP
-NP
 NP
 PP
+293019	NP
+293022	PP
 NP
-293014	VP
+NP
+293030	PP
+NP
+NP
+NP
 PP
-293021	NP
-293025	NP
-293029	NP
-293032	NP
-293035	NP
-293037	PP
 NP
-293040	NP
 NP
-293043	NP
+NP
+NP
+293041	NP
+NP
 293046	NP
-293050	NP
+293052	PP
+293063	NP
 PP
-NP
-293054	AdjP
-293060	NP
-293064	PP
-NP
 293068	NP
-293071	NP
 PP
 NP
 PP
-293076	NP
 NP
 NP
+293075	NP
+NP
+293078	NP
+293080	NP
 PP
+293084	NP
+293087	NP
 293089	NP
-NP
-NP
-293093	NP
+293091	NP
 NP
 293096	NP
 NP
 NP
-293104	NP
+293102	PP
+NP
+293106	NP
+293109	NP
+NP
+NP
+NP
+NP
+293119	PP
+293122	PP
+NP
+293125	PP
+293131	NP
+293133	NP
+NP
 PP
 NP
+293139	NP
+293141	NP
 NP
-NP
-NP
-293112	PP
-293114	PP
-NP
-293117	NP
-293120	NP
-293123	PP
-293132	PP
-NP
-NP
-NP
+AdjP
 PP
-293138	PP
-NP
-293143	PP
-293145	PP
-NP
-NP
-NP
+293147	PP
+293149	NP
 293152	NP
-293154	NP
+NP
+293155	PP
+NP
+NP
+293160	NP
 NP
 NP
 PP
-293163	NP
+293170	NP
+293172	PP
 NP
+PP
+PP
 NP
-293168	NP
+293182	PP
 NP
-293173	NP
+293187	PP
 NP
-293176	PP
 NP
 PP
 NP
 NP
-NP
 PP
 NP
-293186	NP
 NP
-PP
-293191	NP
-NP
-NP
-293196	NP
-NP
-293202	NP
+293198	PP
+293200	NP
+293203	PP
 293207	NP
 NP
 293211	PP
 NP
+293214	PP
+PP
+293219	PP
+293221	NP
+293224	NP
 NP
-293216	PP
 NP
+293228	NP
 NP
-293224	PP
 NP
 NP
 NP
 PP
-293230	PP
-NP
-293236	PP
-NP
-PP
-293240	NP
-293245	NP
-PP
 NP
 NP
+293239	PP
 NP
-293251	NP
-293254	NP
-NP
+293248	PP
+293252	NP
+293257	PP
 NP
 PP
-293260	PP
-293264	NP
+293262	NP
+293269	PP
 NP
-293269	NP
-NP
-293272	PP
-NP
-293279	NP
-293281	PP
-PP
-293286	NP
-293288	NP
-NP
+293284	PP
 293291	PP
 NP
-293298	PP
+293294	PP
+293296	NP
 NP
 NP
+293306	PP
 293310	PP
-293318	PP
+293317	NP
 NP
-NP
+293320	NP
 293322	NP
-PP
-293327	VP
-293333	NP
+293324	PP
 NP
-NP
-293339	NP
-293343	PP
-NP
-293350	PP
-NP
-NP
-293355	PP
-NP
-NP
-293359	NP
-PP
-NP
-293366	PP
-NP
-293371	NP
+VP
 PP
 NP
 NP
 NP
+NP
+293335	NP
+293339	PP
+293342	NP
+NP
+293354	NP
 PP
+293357	PP
+NP
+293360	PP
 NP
 NP
 NP
-293381	PP
-293385	PP
+293367	NP
 NP
 NP
+NP
+NP
+NP
+293375	PP
+NP
+293381	NP
+NP
+NP
+NP
+PP
+293389	NP
 293393	PP
-293399	PP
-293401	NP
-293403	PP
-293405	PP
+PP
+NP
+NP
+293400	NP
+PP
+NP
+PP
+PP
+NP
 NP
 293411	NP
 NP
-293416	NP
+293414	NP
 NP
-293424	PP
-NP
-293427	PP
-293431	NP
-NP
-NP
-293436	PP
-NP
-NP
-NP
-293441	PP
-NP
-NP
-293445	PP
-NP
-NP
-293451	PP
-NP
-NP
-293456	PP
-NP
-NP
-293460	NP
-293462	NP
-293465	NP
-NP
-NP
-293470	AdjP
+AdvP
+293421	NP
+293423	NP
+PP
+293429	NP
 PP
 NP
 NP
-293475	PP
-NP
-293481	AdjP
-NP
-293489	PP
-293494	NP
 NP
 PP
-293498	NP
-293501	NP
-NP
-293504	NP
 NP
 NP
+293440	NP
+293444	PP
+293446	NP
+293449	NP
 NP
+293452	NP
+PP
+NP
+NP
+NP
+293458	PP
+NP
+PP
+NP
+293464	NP
+PP
+NP
+293469	NP
+NP
+293472	NP
+NP
+NP
+293482	PP
+NP
+293486	NP
+293489	NP
+NP
+293496	NP
+293502	NP
+293507	PP
 293509	NP
 NP
-293516	NP
 NP
-293520	PP
+293513	PP
+293517	NP
+293519	NP
+NP
+293522	NP
+NP
+293526	NP
+293529	NP
 PP
 PP
-293525	PP
+NP
+293538	NP
+293540	NP
 NP
 NP
+293546	NP
 NP
-293535	PP
-NP
-NP
-293539	NP
-PP
-293542	PP
-293544	NP
-PP
 NP
 293551	PP
-293556	NP
-293560	PP
-293563	PP
+293554	NP
 NP
-293566	PP
-PP
-293569	PP
-293574	NP
-293577	PP
 NP
-293580	NP
+293571	NP
+NP
+293575	PP
+NP
+NP
 293582	NP
 NP
-293591	PP
-NP
-293600	PP
 PP
-293605	PP
+293586	NP
 NP
-PP
-NP
-NP
-293611	PP
-NP
-NP
+293598	NP
+293603	NP
+293605	NP
+293608	NP
 NP
 NP
-293618	PP
-293622	PP
-PP
 NP
-293629	PP
+293613	PP
+293618	NP
+293626	NP
 NP
-293635	PP
-293638	NP
-293642	NP
+293630	NP
+293632	NP
+293636	NP
+NP
+NP
+293641	NP
 293645	NP
-NP
-293648	PP
-NP
-NP
+293653	NP
+293655	NP
 PP
-NP
-NP
-PP
-293657	NP
 293664	NP
-293670	PP
-NP
-293673	NP
-293678	NP
-NP
-NP
-NP
-NP
-NP
-NP
-293687	NP
-293689	NP
-NP
-NP
-293695	AdjP
-NP
-293702	NP
 NP
 PP
-NP
-NP
-293709	PP
-NP
-293715	NP
-NP
-NP
-NP
-NP
+293671	NP
+PP
+293674	NP
 PP
 NP
-293725	NP
-293727	NP
+293681	NP
+293683	NP
+NP
+293687	PP
+293690	NP
+293694	NP
+NP
 PP
+293698	PP
+293703	NP
 NP
-293731	NP
+293706	PP
+293708	NP
 PP
+293714	PP
 NP
 NP
-293736	NP
-293738	NP
+NP
+293719	PP
+293737	NP
+293739	PP
+293741	NP
 293744	NP
-293751	NP
-NP
-NP
-293755	NP
-293757	NP
-293759	NP
-293761	NP
-NP
-293764	NP
-293770	PP
-293773	NP
-NP
-NP
-293780	NP
-NP
 PP
-293787	NP
-PP
-293793	PP
-NP
-293800	PP
-NP
-NP
-PP
-293807	PP
-293809	NP
-293820	NP
-293822	NP
-NP
-293825	NP
-293828	PP
-NP
-NP
-NP
-293835	NP
-NP
-NP
-293839	PP
+293753	NP
+293765	PP
+293771	PP
 NP
 NP
 NP
 PP
-293848	NP
-293850	PP
-293853	NP
-NP
-293857	NP
-293859	PP
-NP
-293864	PP
-293878	NP
-293881	PP
-NP
-293885	NP
-NP
-293888	PP
-NP
-PP
-293893	NP
-293895	NP
-NP
-NP
-NP
-NP
-NP
-NP
-293905	PP
+293777	NP
+293779	NP
 NP
 NP
 PP
-293912	NP
-293916	NP
-NP
-293920	PP
-293922	NP
-NP
-293925	NP
-293930	PP
+293790	PP
+293795	PP
+293804	PP
 NP
 NP
+PP
+293809	PP
+293811	PP
+293815	NP
 NP
-293935	PP
+NP
+NP
+NP
+293823	NP
+NP
+NP
+293827	NP
+293830	NP
+293832	NP
+NP
+293835	PP
+NP
+293838	PP
+PP
+NP
+293846	PP
+PP
+293850	NP
+293855	NP
+NP
+NP
+NP
+293862	NP
+NP
+PP
+NP
+NP
+NP
+NP
+PP
+293871	NP
+293874	NP
+293887	PP
+NP
+293902	PP
+293918	NP
+NP
+293929	NP
+293932	NP
+293935	NP
 293937	PP
-NP
-NP
-293942	PP
-NP
-NP
-293946	NP
-NP
-NP
-NP
-NP
-293954	PP
-NP
-NP
-NP
+293940	PP
+293946	PP
+PP
+293950	NP
+293952	PP
+PP
+293956	PP
+PP
 293962	NP
-PP
+293964	NP
 293969	NP
-293972	NP
-NP
-293976	NP
-293979	NP
-293981	NP
-293985	NP
 NP
 NP
-293990	PP
-NP
-293998	PP
-NP
-NP
-294003	PP
+293975	PP
 NP
 NP
 NP
+NP
+293984	PP
+NP
+NP
+NP
+NP
+293991	PP
+NP
+NP
+294000	PP
+NP
+NP
+294007	NP
 294011	NP
-PP
-NP
-294016	NP
-NP
-294020	PP
 NP
 NP
-294026	PP
-294031	NP
-294033	PP
+294020	NP
+NP
+294026	NP
+NP
+NP
+294032	NP
+NP
 294035	NP
 NP
+NP
+NP
+NP
+294042	PP
+NP
+294049	NP
+NP
+NP
+NP
+294060	NP
+294062	NP
+NP
+NP
+294068	NP
+294073	NP
+NP
 PP
-NP
-294044	NP
-294056	PP
-NP
-294063	PP
+294077	PP
 NP
 NP
+294081	NP
+294084	NP
 NP
-294076	PP
+294088	PP
 NP
-NP
-294080	NP
-294082	PP
-294087	PP
-NP
-NP
-NP
-294094	PP
-NP
-NP
-294100	NP
+294092	NP
+294097	NP
 PP
-NP
-NP
-294105	PP
-294109	NP
-294111	PP
-294114	NP
+294107	NP
+PP
+294116	NP
 294118	PP
-294120	NP
+294126	NP
+294128	NP
+294130	NP
+294132	PP
+294135	PP
+NP
+294140	PP
+NP
+NP
+294148	NP
+294150	NP
+294155	NP
+294159	NP
+294166	PP
+NP
+294171	PP
+PP
+NP
+294182	NP
+PP
+294189	NP
+NP
+NP
+294194	NP
+294196	PP
+NP
+294200	NP
 NP
 PP
 NP
-PP
-294130	AdjP
-294133	PP
+294207	PP
+294210	NP
 NP
-NP
-294137	NP
-294139	PP
-NP
-NP
-294144	PP
-NP
-NP
-294152	PP
+294213	NP
+294216	NP
+294218	NP
+294221	NP
 NP
 PP
+294225	NP
 NP
-NP
-NP
-294161	NP
-294163	PP
-NP
-NP
-294170	NP
-NP
-294173	NP
-PP
-294176	NP
-294178	PP
-294180	PP
-294184	PP
-VP
-294189	PP
-PP
-294192	PP
-294200	PP
-NP
-PP
-NP
-NP
-NP
-294209	NP
-294211	VP
-294213	PP
-294219	PP
-294222	PP
-NP
-294226	NP
 294230	PP
+294233	NP
 NP
-294234	PP
 NP
-294238	PP
-294240	PP
+294239	PP
 NP
-294246	NP
+NP
 294248	PP
 NP
-294252	NP
-294257	PP
-294259	PP
-294261	NP
-294263	PP
+294251	NP
 NP
 NP
-294269	NP
-NP
-294277	NP
-294284	NP
-NP
-294287	NP
-NP
-PP
-NP
-294292	PP
-NP
-294295	NP
-294297	PP
-294299	NP
-294303	PP
-NP
-NP
-NP
-NP
+294257	NP
+294259	NP
 PP
 NP
 NP
+PP
+294267	NP
 NP
-294313	NP
+294271	PP
+294273	PP
 NP
-NP
-294318	NP
-NP
-NP
-294322	PP
-294330	NP
-294337	PP
-294343	PP
-NP
-294346	NP
-294349	NP
-294355	NP
-294361	PP
-NP
-294365	PP
-NP
-294369	NP
-294373	NP
-NP
-294377	PP
-NP
-294383	NP
-NP
-294388	NP
-294401	PP
+294279	NP
+294285	NP
+294288	NP
+294291	PP
+294300	NP
+294304	PP
+294310	NP
+294320	PP
+294323	NP
+294329	NP
+294334	NP
+294336	NP
 NP
 NP
-294405	PP
+294345	AdvP
+294347	NP
 NP
 NP
-NP
-294410	PP
-NP
-294414	NP
+294356	PP
 NP
 PP
-294419	NP
-NP
-294423	PP
-NP
-294429	PP
+294364	PP
+294366	PP
+294368	NP
 NP
 NP
-294439	NP
-294442	NP
+294373	PP
+294384	NP
 NP
 PP
+294391	NP
 NP
+294395	NP
 NP
-294450	NP
+294400	NP
+294402	NP
+NP
+294407	NP
+294414	PP
+294417	NP
 PP
+294421	NP
+294427	PP
 NP
 NP
-294455	PP
 NP
-294462	PP
-294467	PP
-294469	AdvP
-294472	NP
+294433	NP
 NP
-294476	NP
-NP
-294480	NP
-294485	PP
+294439	PP
+294441	NP
+294446	NP
 PP
+294451	PP
 NP
-294491	NP
+294454	NP
 NP
-294494	NP
-NP
-AdvP
-294499	PP
+294463	NP
+294465	NP
+294470	PP
+294479	NP
+294485	NP
+294488	NP
 294503	NP
-NP
-294509	PP
-294513	NP
-NP
-NP
-NP
-NP
-294519	NP
 294522	NP
+NP
+294525	NP
+294528	NP
+294530	NP
+NP
+294533	PP
+294536	NP
+294538	NP
+NP
+294543	NP
+NP
+294546	NP
+NP
+294550	PP
+NP
+294560	NP
+294563	PP
+294566	AdvP
+294568	NP
 PP
-NP
-294527	NP
-294529	NP
+294571	NP
 NP
 NP
-294535	PP
-294537	NP
+294580	AdvP
+294584	NP
 NP
-NP
-294541	NP
-NP
-294545	NP
-NP
-NP
-NP
-294552	PP
-NP
-NP
-294556	NP
-294558	NP
-NP
-294562	NP
-NP
-NP
-PP
-294567	NP
-NP
-294570	NP
-PP
-294576	PP
-294581	PP
-294583	NP
-NP
-PP
 294587	NP
 NP
-294590	PP
-294592	NP
 NP
+294591	AdvP
+294593	NP
 NP
-294596	NP
+294596	PP
+294604	NP
+294608	PP
+294611	NP
 PP
-PP
-294601	PP
-294603	NP
+294615	NP
+294617	NP
 NP
 NP
-294608	NP
-NP
-NP
-294613	NP
-NP
-NP
-294618	NP
-NP
-294624	PP
-NP
+294621	NP
+294624	NP
 294627	PP
-294633	PP
-294637	PP
+294635	NP
 294640	NP
-NP
-NP
+294642	PP
+294646	NP
 PP
+294649	NP
+294655	NP
+294657	NP
+294665	AdvP
+294669	AdvP
+294689	NP
 NP
-294648	NP
-NP
-NP
-294652	PP
-NP
-NP
-NP
-294657	AdjP
-294661	NP
-NP
-294664	PP
-NP
-294667	PP
-294669	NP
-NP
-294673	PP
-NP
-NP
-294679	NP
-NP
-294683	NP
-294687	PP
+294695	NP
 NP
 NP
 NP
-AdvP
+294700	NP
 NP
 NP
-NP
-294696	PP
-NP
-294701	NP
-294703	NP
-NP
-PP
-NP
-PP
+294704	NP
 294709	NP
-294712	PP
+294711	PP
 NP
 NP
-294719	PP
+294722	NP
 NP
+294725	PP
+294731	PP
+294736	NP
+294739	NP
 NP
-NP
+294743	NP
 PP
-NP
-NP
-NP
-NP
-294730	NP
-NP
-294735	NP
-294741	PP
-294752	NP
-PP
-294757	NP
 PP
 NP
 PP
 NP
 NP
-294764	NP
+NP
+294752	PP
+NP
+294755	NP
+294758	PP
 NP
 NP
-294768	NP
+NP
 PP
-294771	NP
-294773	NP
-294775	NP
+NP
+294767	PP
+PP
+NP
+NP
+NP
 294777	NP
-NP
-294782	NP
-NP
-NP
-294787	PP
-NP
-294790	NP
-294793	NP
-NP
-NP
-NP
-NP
-294802	PP
-294805	PP
-NP
-294808	PP
-294814	NP
-294816	NP
-NP
+294782	PP
+294786	NP
 PP
 NP
-294822	NP
-294824	NP
+294791	NP
 NP
-AdjP
-PP
-294829	PP
+294794	NP
 NP
-294833	NP
+294797	NP
+294803	NP
+294806	NP
+294809	NP
 NP
-294836	PP
+294817	PP
 NP
 NP
+294825	PP
+294837	PP
 294841	NP
+294843	PP
+294857	NP
+294859	NP
+NP
+294862	PP
+294864	NP
 NP
 NP
-PP
-294853	NP
-294855	PP
-NP
-PP
-PP
-NP
-294865	PP
-NP
-294870	PP
 NP
 NP
 PP
 NP
 NP
+294873	NP
+NP
+294877	PP
+NP
 PP
+294881	NP
 NP
+294884	PP
 NP
-294881	PP
-294883	NP
-294886	PP
+PP
+PP
 294890	NP
-NP
-294894	PP
-NP
-294897	PP
-PP
-294902	PP
-NP
-294906	NP
-NP
-NP
-294910	NP
-NP
-NP
-NP
-NP
 PP
 NP
 NP
-294920	PP
 NP
-294929	PP
+294903	NP
+NP
+NP
+PP
+294908	PP
+294913	NP
+NP
+294916	PP
+294924	NP
+NP
+NP
+294929	NP
+NP
 294933	NP
-294938	PP
-NP
-PP
-294943	NP
-294949	PP
-NP
-294960	PP
-294968	PP
-NP
-294971	PP
-294973	NP
-NP
-NP
-294982	PP
-294985	PP
-294992	NP
-NP
-294995	NP
-294997	NP
-294999	PP
-NP
-VP
 PP
 NP
 NP
-NP
-NP
-295009	NP
-295012	PP
-295015	NP
-NP
-295026	NP
-PP
-295029	PP
-NP
-295032	PP
-NP
-NP
-NP
-295039	NP
-NP
-NP
-NP
-NP
-NP
-295047	PP
-NP
-295053	NP
-NP
-NP
-NP
-PP
-295061	NP
-295064	PP
 PP
 NP
+294940	NP
+294945	NP
+294947	NP
 NP
-295071	NP
 PP
 NP
-PP
-PP
+294952	NP
+294954	NP
+294956	NP
+294960	NP
 NP
 NP
-295081	NP
 NP
-295084	NP
+294966	NP
+294968	NP
+294974	PP
+294979	NP
+294984	PP
 NP
-AdvP
-295091	NP
-295093	NP
-PP
-295098	NP
-PP
 NP
+294998	PP
+295004	NP
+NP
+295014	NP
+NP
+295019	PP
+NP
+NP
+295023	PP
+NP
+NP
+NP
+295030	NP
 NP
 NP
 PP
 NP
 NP
-295109	NP
-295112	PP
+295037	NP
+295039	PP
 NP
-295116	NP
 NP
-295119	NP
+295044	NP
+295050	NP
+PP
+NP
+295055	NP
+295058	NP
+NP
+295062	NP
+NP
+NP
+NP
+295068	NP
+NP
 PP
 NP
 NP
+295085	NP
 NP
-295125	PP
 NP
-PP
+295096	PP
+295099	NP
+295111	PP
 NP
-295130	NP
-PP
+NP
+295118	NP
+295122	NP
+295129	NP
+NP
+295132	NP
 NP
 295135	NP
 NP
-295138	NP
+295140	PP
+295142	NP
 NP
 NP
-295148	PP
+PP
+295150	NP
+295154	NP
+PP
+295158	NP
 NP
-295151	NP
-295153	NP
 NP
-295160	NP
-295165	NP
+NP
+295163	NP
+NP
+295168	NP
 295170	PP
-295172	NP
-NP
-NP
+295173	PP
 295176	PP
+NP
 295179	NP
-295181	NP
-NP
 295184	NP
-NP
-295188	NP
+295187	NP
+PP
 295191	NP
-PP
-PP
 NP
-295199	NP
+295195	NP
+NP
 295201	NP
+295213	NP
+295220	NP
+295222	NP
 NP
 NP
-295206	NP
-NP
-NP
-295211	PP
-295214	NP
-NP
-NP
-295229	NP
-NP
-295233	PP
-NP
-NP
-295239	NP
 NP
 PP
-295243	NP
-NP
-295253	NP
-295257	NP
-295259	NP
-295262	NP
+295240	PP
+295242	NP
 NP
 NP
+295248	NP
+295251	NP
+295254	PP
 NP
-295267	PP
+NP
+295266	NP
+295269	NP
+NP
 295272	NP
-295278	NP
-NP
-295282	NP
-NP
-295287	NP
 NP
 NP
-295292	NP
-295295	NP
-295301	NP
-295303	NP
+295277	PP
+NP
+295286	PP
+NP
+NP
+295292	PP
+NP
+NP
+295296	PP
+295298	NP
+NP
+NP
+295302	NP
+NP
+295305	NP
+295312	PP
+NP
+NP
+NP
 PP
-295311	NP
 NP
-PP
-295317	NP
-PP
 295320	NP
-PP
-NP
-295326	NP
-295328	NP
-NP
-295332	PP
-295335	NP
-295339	NP
 NP
 PP
-295343	PP
-295348	NP
 NP
-295351	PP
-295353	NP
+295328	PP
+295330	NP
+NP
+NP
+295340	NP
+295348	PP
+NP
+NP
+295353	PP
+295356	NP
+NP
+295359	NP
+NP
+NP
+295363	NP
+NP
+NP
+295367	NP
 PP
-295359	PP
+295370	NP
 NP
-NP
-NP
-295364	PP
 295380	NP
-PP
-295383	NP
-295386	NP
-PP
-295395	NP
-295406	PP
-295412	PP
+295382	NP
+295389	PP
+295393	NP
 NP
+295396	PP
+295400	NP
+295402	PP
 NP
+295406	NP
 NP
-PP
-295418	NP
-295420	NP
+295419	PP
 NP
+295425	NP
 NP
-PP
 295430	PP
-295434	PP
-295443	PP
+295432	NP
+295450	NP
+295459	PP
 NP
+295464	NP
+295474	NP
 NP
-PP
-295448	PP
-295450	PP
-295452	NP
+295487	NP
+295500	NP
 NP
-NP
-NP
-NP
-295459	NP
-NP
-NP
-295463	NP
-295465	NP
-295467	NP
-NP
-295470	PP
-NP
-295473	PP
-PP
-NP
-295481	PP
-PP
-295484	NP
-295488	NP
-NP
-NP
-NP
-295494	NP
-NP
-PP
-NP
-NP
-NP
-NP
-PP
-295503	NP
 295505	NP
-295515	PP
+295507	PP
+295510	PP
+295519	NP
 NP
-295529	PP
-295544	NP
 NP
-295554	NP
-295557	NP
-295559	NP
-295561	PP
-295564	PP
-295570	PP
+295523	NP
+295525	NP
+NP
+295533	PP
+295545	NP
+NP
 PP
-295574	NP
-295576	PP
+NP
+295552	PP
+NP
+NP
+NP
+295561	NP
+295565	NP
+NP
+295573	NP
+NP
+295576	NP
 PP
-295580	PP
+NP
+295582	NP
+NP
 PP
-295585	NP
-295587	NP
-295591	NP
+295588	NP
+NP
+PP
+NP
+295596	NP
+295598	NP
+NP
+295601	PP
 NP
 NP
-295597	PP
-NP
-NP
-NP
-NP
-295605	PP
-NP
-NP
-NP
-NP
-295612	PP
-NP
-NP
-295621	PP
-NP
-NP
-295627	NP
-295631	NP
-NP
-NP
-295640	NP
-NP
+295609	NP
+295615	NP
+295619	PP
+295621	NP
+295626	PP
+295631	PP
+295635	NP
+295637	NP
+PP
+PP
+295643	NP
 295645	NP
-NP
-NP
-295651	NP
-NP
-295654	NP
-NP
-NP
-NP
-NP
-295661	PP
-NP
-295668	NP
-NP
-NP
-NP
-295678	NP
+295650	NP
+PP
+295656	NP
+PP
+295664	NP
+295667	NP
+295676	PP
 295680	NP
 NP
+295683	NP
 NP
-295686	NP
-295691	NP
+NP
+295689	NP
+NP
 NP
 PP
+NP
 295695	PP
-NP
-NP
 295699	NP
-295702	NP
 NP
-295706	PP
 NP
-295709	NP
-295714	NP
-PP
+NP
+295705	NP
+NP
+295711	PP
+NP
+295715	PP
+NP
+295718	NP
+NP
 295724	NP
+NP
+NP
+295732	NP
+NP
+295738	NP
+295740	NP
+NP
+NP
+295744	NP
+295746	PP
+NP
+NP
+295750	NP
+NP
+295754	NP
+NP
+NP
+295759	PP
+NP
+295762	NP
+295764	NP
+295772	NP
+NP
+NP
+295776	NP
+295778	NP
+295782	AdjP
+NP
+295785	PP
+295787	NP
+295791	PP
+295794	NP
 PP
-295729	NP
-295731	PP
-295739	NP
-295741	NP
-295743	NP
-295745	PP
-295748	PP
 NP
-295753	PP
+295798	PP
 NP
-NP
-295761	NP
-295763	NP
-295767	NP
-295770	NP
-295776	PP
-NP
-295780	PP
-PP
-NP
-295790	NP
-PP
-295796	NP
-NP
-NP
-295800	NP
-295802	PP
 NP
 295806	NP
-NP
+295810	NP
 PP
 NP
-295813	PP
+NP
 295816	NP
-NP
-295819	NP
-295822	NP
-NP
-295826	NP
-NP
-PP
+295818	NP
+295821	NP
 295830	NP
-NP
 295835	PP
+295837	PP
 NP
 NP
-NP
-295841	PP
-NP
-NP
-295850	PP
-NP
-295853	NP
-NP
-NP
-295859	NP
-295861	NP
-PP
 NP
 NP
 PP
-295869	NP
 NP
-295873	PP
-295875	PP
+295848	NP
+295851	PP
+NP
+NP
+295858	PP
+NP
+295862	NP
+NP
+295876	NP
+NP
 NP
 295880	NP
-295886	NP
-295889	NP
-295892	PP
-295901	NP
-295904	PP
-295910	NP
-295920	PP
-295922	NP
-295927	NP
-295930	NP
-295932	NP
+295887	AdjP
+295890	NP
 NP
-NP
-295940	AdvP
-295942	NP
-NP
-NP
-295950	PP
-NP
+295893	PP
+295903	PP
 PP
-295958	PP
-295960	PP
-295962	NP
-NP
-NP
-295966	PP
-295976	NP
-NP
 PP
-295983	NP
+295907	NP
 NP
-295987	NP
+295910	PP
 NP
-295992	NP
-295994	NP
 NP
+295933	PP
+295947	PP
+NP
+NP
+295954	NP
+NP
+NP
+NP
+NP
+295963	NP
+295965	NP
+NP
+NP
+295973	NP
+295975	PP
+295977	NP
+295981	PP
+NP
+295988	NP
 295998	NP
-296004	PP
-296006	NP
+296002	NP
+296005	PP
+296008	NP
+296027	NP
+NP
 PP
-296010	NP
-296015	PP
-NP
-NP
-NP
-296020	NP
-NP
-296026	PP
-296028	NP
 296032	NP
 PP
 296036	PP
+296049	NP
 NP
-296039	NP
-NP
-296048	NP
-296050	NP
-296055	PP
 296063	NP
-296069	NP
-296071	NP
-296085	NP
-296099	NP
-NP
-296102	NP
-296104	NP
-296106	NP
-NP
-296109	PP
-296111	NP
-296113	NP
-NP
-296117	NP
-NP
-296120	NP
-NP
-296124	PP
-NP
-296132	NP
-296135	PP
-296138	AdvP
-NP
-PP
-296142	NP
+296078	NP
+296088	PP
 NP
 NP
-296151	AdvP
+296103	NP
+296105	NP
+NP
+296110	PP
+296112	AdvP
+296114	PP
+296119	NP
+296131	PP
+NP
+NP
+NP
+NP
 296154	NP
+296157	PP
+296159	NP
 NP
-296157	NP
-NP
-NP
-296161	AdvP
 296163	NP
 NP
-296166	PP
-296174	NP
-296177	PP
+296167	NP
+NP
+296173	NP
+NP
+296176	NP
 296180	NP
+NP
 PP
-296183	NP
-296185	NP
+296187	NP
 NP
+PP
+296192	PP
 NP
-296189	NP
-296191	NP
-296194	PP
+296196	NP
+NP
+296199	NP
 296201	NP
-296206	NP
-296208	PP
-296210	NP
-PP
-296213	NP
-296218	NP
-296220	NP
-296226	AdvP
-296230	AdvP
-296247	NP
 NP
-296253	NP
+296204	PP
+296207	NP
+NP
+296210	PP
 NP
 NP
 NP
-296258	NP
+296217	PP
 NP
-NP
-296262	NP
-296264	NP
-296266	PP
-NP
-NP
-296276	NP
+296222	NP
 NP
 PP
-296283	PP
-296288	NP
+NP
+296227	NP
+296234	PP
+NP
+NP
+NP
+296239	NP
+296241	NP
+NP
+NP
+NP
+296246	PP
+296252	NP
+296254	NP
+NP
+296257	NP
+NP
+NP
+296264	PP
+296269	NP
+PP
+NP
+296273	NP
+296277	NP
+296279	NP
+296281	NP
+296284	PP
+NP
+NP
 296290	NP
 NP
 296294	NP
+NP
+296299	NP
+296301	PP
+296303	NP
+296308	NP
+296310	NP
+296312	NP
+296316	NP
+NP
+296320	NP
+296324	PP
+296328	NP
 PP
+296337	NP
 PP
-NP
-PP
-NP
+296341	NP
 NP
 NP
-296303	PP
-NP
-296306	NP
-296309	PP
+296346	PP
+296349	PP
 NP
 NP
 NP
-PP
-NP
-296318	PP
-PP
+296355	NP
 NP
 NP
+296363	NP
+296367	VP
+296375	NP
+296378	PP
+296383	NP
+296387	NP
+296389	AdjP
+296399	PP
 NP
-296327	NP
-296332	PP
-296335	NP
-PP
-NP
-296340	NP
-NP
-296343	NP
-NP
-NP
-296350	NP
-296353	NP
-296356	NP
-NP
-296364	PP
-NP
-NP
-296371	PP
-296382	PP
-296386	NP
-296388	PP
 296402	NP
 296404	NP
-NP
-296407	PP
-NP
-NP
-NP
+296411	NP
+296415	NP
+296417	NP
 NP
 NP
+296422	NP
 PP
+296425	PP
+NP
+296436	PP
 NP
 NP
-NP
-NP
-296420	PP
-NP
+296440	NP
 PP
-296424	NP
-NP
-296427	PP
-NP
-PP
-PP
-296432	NP
-PP
+296444	NP
+296446	NP
+296448	NP
 NP
 NP
-NP
-296443	NP
-NP
-NP
-PP
-296448	PP
-296452	NP
 NP
 296455	PP
-296462	NP
+NP
+296458	PP
+NP
+PP
+296463	NP
+NP
+296472	NP
+NP
+296477	NP
+NP
+296480	PP
 NP
 NP
-296467	NP
 NP
-296471	NP
+296486	PP
+NP
+296489	PP
+NP
+NP
+296493	PP
 PP
 NP
 NP
+296501	PP
+PP
+296504	PP
+NP
+296507	PP
 PP
 NP
-NP
-296479	NP
-NP
+296511	PP
 NP
 PP
+296520	PP
 NP
-296485	NP
-296487	NP
-296489	NP
-296493	NP
+296523	NP
 NP
 NP
 NP
-296499	NP
-296501	NP
-296506	PP
-296510	NP
-296514	PP
 NP
+AdjP
+296531	PP
+296535	PP
+296539	PP
 NP
-296528	PP
-296534	NP
-NP
-296542	NP
-NP
-296547	PP
-NP
-NP
-296551	PP
-NP
-NP
-NP
-296557	NP
-NP
-NP
-PP
-NP
-NP
-NP
-296565	PP
-NP
-NP
-296570	NP
-296574	NP
-PP
-NP
-296579	NP
-296581	NP
-NP
-296585	NP
-NP
-NP
-NP
-296591	NP
-NP
-PP
-NP
-NP
-296605	NP
-NP
-NP
-296616	PP
-296618	NP
-296630	PP
-NP
-NP
-296635	NP
-296639	NP
-296646	NP
-NP
-NP
-NP
-296651	NP
-NP
-296656	PP
+296546	PP
+296553	NP
+296559	NP
 NP
 NP
 NP
 PP
-296664	NP
-296668	NP
+NP
+296568	PP
+NP
+NP
 PP
-296672	NP
+296574	PP
+296578	NP
+296580	NP
+NP
+PP
+NP
+296586	NP
+NP
+PP
+296590	NP
+NP
+PP
+296605	PP
+296608	PP
+NP
+NP
+296612	PP
+PP
+296620	NP
 NP
 NP
 NP
-296677	NP
+296627	PP
 NP
-296681	NP
-296683	PP
-296686	PP
+NP
+296632	PP
+NP
+296638	NP
+296641	NP
+NP
+PP
+PP
+NP
+NP
+296648	PP
+NP
+NP
+296653	NP
+296655	PP
+NP
+296673	PP
+NP
+NP
+PP
+NP
+NP
+NP
+NP
+296685	NP
 296689	PP
 NP
-296692	NP
-296697	NP
+NP
+NP
+NP
+296696	NP
 296699	NP
-PP
 296702	NP
+296705	PP
 NP
-296706	NP
+296709	PP
 NP
-296710	NP
-296720	NP
-296727	NP
-296729	NP
+NP
+PP
+296714	NP
+NP
+PP
+NP
+PP
+296722	PP
+296728	NP
+296730	NP
+296733	PP
+NP
+NP
+296737	PP
 NP
 NP
 NP
 PP
-296746	PP
+NP
+PP
+296749	PP
+NP
+296752	PP
 NP
 NP
+296762	NP
+PP
+296766	NP
 NP
-296752	NP
-296755	NP
-296758	PP
-NP
-NP
-296768	NP
-296771	NP
-NP
+PP
+296770	NP
 296774	NP
+296776	NP
+296778	NP
+296780	NP
+296782	PP
 NP
-NP
-296778	PP
-NP
-296784	PP
-NP
-NP
+296788	NP
 296790	PP
-NP
-NP
-296794	PP
-296796	NP
-NP
-NP
-NP
-NP
-NP
-296805	PP
-NP
-NP
-NP
+296795	NP
+296797	NP
+296801	NP
 PP
+296804	NP
 NP
-296813	NP
 NP
+NP
+296810	PP
+296812	PP
+296817	NP
 PP
-NP
-296819	PP
 296821	NP
 NP
-NP
-296831	NP
-296838	PP
-NP
-NP
-296842	PP
-296845	NP
-NP
-296848	NP
-NP
-NP
-296852	NP
-NP
-NP
+296824	PP
+296827	PP
+296829	AdjP
 NP
 PP
-296858	NP
+296833	NP
+296836	NP
+PP
 NP
-296867	NP
+296840	NP
 NP
-296875	PP
-296878	NP
+296843	PP
+296847	PP
+296850	PP
 NP
-296881	PP
-296884	NP
-296886	PP
 NP
+NP
+296856	PP
+AdvP
+296861	NP
+296871	PP
+NP
+296875	NP
+296877	NP
+296880	NP
+296882	PP
 296889	NP
 NP
+NP
+NP
+PP
+296895	NP
+NP
+296898	PP
 296901	PP
 NP
-296907	NP
 NP
-296912	PP
-296914	NP
-296930	NP
-296937	PP
 NP
-296941	NP
+296911	NP
+296921	PP
+296926	NP
+296928	NP
+296931	PP
+NP
+296934	NP
+NP
+PP
+NP
+296941	PP
+296947	PP
+NP
+NP
 296952	NP
+PP
 NP
-296964	NP
-296973	NP
+296957	NP
 NP
-296977	NP
-296979	PP
-296981	PP
-296989	NP
+PP
+NP
+296963	NP
+PP
+296970	PP
+296972	PP
+296974	NP
+NP
+296980	NP
 NP
 NP
-296993	NP
+296985	NP
+NP
+NP
+NP
 296995	NP
+296997	NP
 NP
-297003	PP
-297015	NP
+297001	NP
+297005	NP
+297007	NP
+297009	NP
+297011	NP
+297013	PP
+NP
+297016	NP
+297018	NP
+NP
+297023	NP
+NP
+297029	PP
+NP
+297050	PP
+PP
+297055	NP
+297057	PP
+297063	NP
+NP
+297072	PP
+NP
+NP
+297086	NP
+NP
+NP
+297090	PP
+NP
 NP
 PP
 NP
-297022	PP
+297096	NP
+297098	NP
+297100	NP
+NP
+297106	PP
+297108	NP
+297113	PP
 NP
 NP
+297118	NP
 NP
-297031	NP
-297034	NP
-NP
-297042	NP
-NP
-297045	NP
-PP
-NP
-297051	NP
-NP
-PP
-297056	NP
-NP
-PP
-NP
-297062	NP
-297064	NP
-NP
-297067	PP
-NP
-NP
-297073	NP
-297078	NP
-297082	PP
-297084	NP
-297088	PP
-297093	PP
-297097	NP
-NP
-PP
-PP
-297103	NP
-297105	NP
-297109	NP
-PP
-297115	NP
-PP
 297123	NP
-297126	NP
-297134	PP
+NP
+297127	NP
+297130	NP
+PP
+NP
+NP
+NP
+PP
 297138	NP
 NP
-297141	NP
 NP
+PP
 NP
 297146	NP
 NP
 NP
-PP
-NP
-297152	PP
+297150	NP
+297152	NP
+297154	NP
 297156	NP
 NP
 NP
 NP
-297162	NP
 NP
-297167	PP
+PP
+NP
+NP
+297165	NP
 NP
 297171	PP
 NP
-297174	NP
+297178	NP
+297180	NP
 NP
-297179	NP
-NP
-NP
+297183	PP
 297187	NP
 NP
-297191	NP
-297193	NP
+297192	NP
+297196	NP
+297203	NP
 NP
-NP
-NP
-297198	PP
-NP
-NP
-297202	NP
-NP
-297206	NP
-NP
-NP
-297211	PP
-NP
+297207	PP
+297210	NP
 NP
 297215	NP
+NP
+NP
+PP
 297221	NP
 NP
 NP
-NP
-297226	NP
-297229	AdjP
-NP
+297230	PP
+297233	PP
+297238	PP
+297252	NP
+297254	NP
 PP
-297233	NP
-297236	PP
-297238	NP
+297265	PP
+297278	NP
 PP
-NP
-297242	PP
-NP
-NP
-297249	NP
-297253	NP
+297281	NP
 PP
 NP
 NP
-297258	NP
-297260	NP
-297263	NP
-297272	NP
-297276	PP
-297278	PP
+297286	PP
+297294	NP
 NP
-NP
-NP
-NP
-PP
-NP
-297287	NP
-297290	PP
-NP
-NP
-297296	PP
-NP
-297299	NP
-NP
+297301	PP
+297307	NP
 297309	NP
+297316	NP
+297318	PP
 NP
 NP
-297313	NP
-297319	AdjP
-297321	NP
+297323	PP
 NP
-297324	PP
+297327	NP
+PP
+NP
+NP
+PP
 297333	PP
-PP
-PP
-NP
-NP
+297336	NP
 297339	PP
+297344	NP
 NP
 NP
-297358	PP
-297370	PP
-NP
-NP
-297378	NP
-NP
-NP
-NP
-NP
-297387	NP
-297389	NP
-NP
-NP
-297397	NP
-297399	PP
-297401	NP
-297404	PP
-NP
-297410	NP
-297419	NP
-297422	NP
-297425	PP
-297427	NP
-297443	NP
 NP
 PP
-297448	NP
+297356	NP
+NP
+NP
+297363	NP
+297365	PP
+297368	PP
+297372	NP
+297380	PP
+297382	NP
+NP
+NP
 PP
+297393	NP
+NP
+NP
+PP
+NP
+297400	PP
+297404	NP
+297406	PP
+297408	NP
+297414	NP
+NP
+297417	NP
+NP
+NP
+PP
+PP
+NP
+297427	PP
+NP
+297430	PP
+297442	NP
+NP
+NP
 297451	PP
+297453	NP
+297455	NP
+NP
+NP
+NP
+PP
 297463	NP
 NP
+297466	NP
+NP
+NP
+297471	PP
 297475	NP
-297487	NP
-297493	PP
+PP
+297481	PP
 NP
 NP
-297508	NP
+NP
+NP
+297496	PP
+297498	NP
+297504	PP
+297508	PP
 297510	NP
-NP
-297514	PP
-297516	AdvP
-297518	PP
-297522	NP
-297532	PP
+297512	NP
+297517	PP
+PP
 NP
 NP
+PP
+NP
+297527	NP
+297529	PP
+PP
+297538	PP
+297542	NP
 NP
 NP
-297551	NP
-297554	PP
 NP
-NP
-297558	NP
-NP
+297552	NP
+297558	PP
 297562	NP
-NP
+297564	PP
 297566	NP
-NP
-297569	NP
-297572	NP
-NP
 PP
-297579	NP
-NP
-PP
-297584	PP
-NP
-297587	NP
-NP
-NP
-297591	NP
-NP
-297594	PP
-297597	NP
-NP
-297600	PP
-NP
-NP
-NP
-297606	PP
-NP
-297611	NP
-NP
+297573	NP
+297575	NP
 PP
 NP
 NP
-297622	PP
+NP
+297586	NP
+NP
+PP
+PP
+297600	NP
 NP
 NP
-NP
-297627	NP
-297629	NP
-NP
-NP
-NP
-297634	PP
-297640	NP
-297642	NP
-NP
-297645	NP
-NP
-NP
-297653	PP
-297658	NP
+297605	PP
 PP
 NP
-297662	NP
-297665	NP
-297667	NP
-NP
-297671	PP
 NP
 NP
-297678	NP
 NP
-297682	NP
+297617	PP
 NP
-297686	NP
-297688	PP
-297690	NP
-297694	NP
-297696	NP
-297698	NP
-297703	NP
+297622	NP
 NP
-297707	NP
-297711	PP
-297714	NP
+297625	NP
+NP
+NP
 PP
-297721	NP
+297634	NP
+297637	PP
+297643	PP
+297648	PP
+297654	NP
 PP
-297724	NP
 NP
 NP
-297729	PP
-297732	PP
+297659	NP
+297661	NP
+PP
 NP
 NP
 NP
-297737	NP
+297670	PP
+297672	NP
+NP
+297675	NP
 NP
 NP
-297745	NP
-297748	VP
-297754	NP
-297757	PP
-297762	NP
-297765	NP
-297767	AdjP
+297680	NP
+297683	NP
+297689	NP
+297691	PP
+NP
+NP
+NP
+NP
+297697	NP
+NP
+PP
+NP
+297702	PP
+297705	NP
+297708	NP
+NP
+NP
+NP
+NP
+NP
+NP
+NP
+297719	NP
+NP
+PP
+NP
+NP
+297726	PP
+297734	NP
+297736	NP
+297738	NP
+297742	NP
+297744	NP
+NP
+NP
+NP
+297755	NP
+297759	NP
+297768	PP
+NP
+NP
+NP
+NP
 297776	PP
+297778	NP
 NP
 NP
-297780	NP
-297785	NP
-297789	NP
-297791	NP
+297782	PP
+297786	PP
+297790	NP
 NP
-297794	NP
-297796	NP
+297793	NP
+297801	AdjP
+NP
+297804	NP
+NP
+NP
+NP
+NP
 PP
-297799	PP
-NP
-297809	PP
 NP
 NP
-297813	NP
-PP
+297815	NP
 297817	NP
 NP
+297821	PP
 NP
 NP
-NP
-NP
-297824	PP
 NP
 PP
-NP
-PP
-297830	NP
-NP
-297836	NP
-NP
-297839	NP
-NP
+297834	NP
 PP
 NP
 NP
 NP
-297847	PP
-NP
-297850	PP
+297840	PP
+297843	NP
+297845	NP
+297848	PP
+297856	NP
 NP
 NP
 PP
+297864	NP
+NP
 PP
+297869	NP
 NP
+297873	PP
 NP
-297860	PP
+297877	NP
+NP
 PP
-PP
-NP
-297865	PP
-PP
-NP
-297869	PP
-NP
-297872	PP
-297879	PP
-NP
 297882	NP
-NP
-NP
-NP
-NP
-AdjP
+297886	NP
 297889	PP
-297893	PP
-297896	PP
 NP
-297902	PP
-297909	NP
+297892	NP
+297901	PP
+NP
+297904	NP
+297907	NP
+NP
+297911	NP
 297913	NP
 NP
 NP
 NP
 PP
+297921	PP
 NP
-297920	PP
+NP
+297927	NP
+297930	PP
+NP
+NP
+297938	PP
+297940	NP
+NP
+297943	NP
+NP
+PP
 NP
 NP
 PP
-297926	PP
-297928	NP
-297930	NP
+297950	NP
+NP
+297953	NP
+297956	PP
+NP
+NP
 NP
 PP
-NP
-297935	NP
-NP
-PP
-297939	NP
+297962	NP
 NP
 PP
-297951	PP
-297954	PP
+297966	NP
 NP
-NP
-297958	PP
 PP
-297965	NP
+297970	NP
 NP
+PP
+297974	NP
 NP
+PP
+297978	NP
 NP
-297972	PP
-NP
-NP
-297977	PP
-NP
-297980	NP
+PP
 297982	NP
 NP
-PP
-PP
+297992	PP
 NP
 NP
-297989	PP
+297996	NP
 NP
-NP
-297994	NP
-297996	PP
-NP
-298012	PP
-NP
-NP
-PP
+298007	NP
+298009	NP
 NP
 NP
 NP
 NP
-298023	NP
-298026	PP
+298019	NP
 NP
-NP
-NP
-NP
-298032	NP
-298034	NP
-298036	NP
-298039	PP
-NP
-298043	PP
-NP
+298027	AdvP
+298035	NP
 NP
 PP
 NP
 NP
-PP
 NP
-PP
-298054	PP
-298060	NP
+298042	NP
+298044	NP
+298053	PP
+298057	PP
+NP
 NP
 298064	PP
+298067	PP
 NP
 NP
-298068	PP
+298072	PP
+298078	NP
 NP
 NP
 NP
-PP
+298083	NP
+298085	NP
 NP
-PP
-298079	PP
-NP
-298082	PP
+298092	AdvP
+298095	PP
 NP
 NP
-298089	NP
-PP
-298093	NP
 NP
-PP
-298097	NP
-298099	NP
-298101	NP
+NP
 298103	NP
-298105	NP
-298107	PP
+298108	NP
 NP
-298112	NP
-298114	PP
+298111	NP
+NP
 298117	NP
 298119	NP
-298123	NP
-PP
-298126	NP
 NP
-NP
-NP
+298125	PP
+298129	NP
 298132	PP
-298134	PP
-298139	NP
+NP
+NP
+298136	NP
+NP
+NP
+NP
+298142	PP
+298146	NP
+NP
+298150	PP
+298152	PP
+298154	PP
+NP
+NP
+298160	NP
+NP
+298167	NP
+298169	PP
+NP
 PP
-298142	NP
-NP
-298145	PP
-298148	PP
-298150	AdjP
-NP
-PP
-298154	NP
-298157	NP
-PP
-NP
-298161	NP
-NP
-298164	PP
-298167	PP
-298170	PP
+298178	PP
 NP
 NP
+298184	NP
 NP
-298176	PP
-AdvP
-298180	NP
-298189	PP
 NP
-298192	NP
-298194	NP
-298197	NP
-298199	PP
+298191	NP
+298196	PP
+NP
+298200	PP
 298205	NP
+PP
+NP
+298209	PP
+PP
+298215	NP
 NP
 NP
+NP
+298224	NP
+298228	NP
 NP
 PP
-298211	NP
-NP
-298214	PP
-298217	PP
 NP
 NP
 NP
-298227	NP
 298236	PP
-298240	NP
 NP
-298244	PP
+298241	NP
+298246	NP
 NP
+298256	NP
 NP
-NP
-PP
-NP
-298253	PP
-298259	PP
-NP
-NP
-298264	NP
-PP
-NP
-298268	NP
-NP
-PP
-NP
-298273	NP
-PP
-298279	PP
-298281	PP
-NP
-NP
+298262	NP
+298265	PP
+298269	NP
+298275	NP
+298278	NP
+298282	NP
 298288	NP
+298294	NP
+298297	PP
 NP
 NP
-298293	NP
 NP
 NP
-NP
-298301	NP
-298303	NP
-NP
+PP
 298307	NP
-298310	NP
-298312	NP
-298314	NP
-298316	NP
-298318	PP
+298309	PP
+NP
+PP
 NP
 NP
-NP
-NP
-298325	NP
+298319	PP
+298324	PP
 NP
 298330	PP
-NP
-298348	PP
 PP
-298353	NP
+NP
+298337	NP
+298350	PP
+PP
+NP
 298355	PP
-298361	NP
+298357	NP
 NP
-298370	PP
+298361	PP
+298364	PP
+298368	PP
 NP
 NP
-298384	NP
-NP
-NP
-298388	PP
-NP
+298374	NP
+298378	NP
 NP
 PP
+298384	PP
 NP
-298394	NP
+NP
+298389	NP
+298392	AdjP
+298394	AdjP
 298396	NP
-298398	NP
 NP
-298403	PP
-298405	NP
-298410	PP
+298401	NP
+298403	NP
+298406	NP
 NP
-NP
-298414	NP
-NP
-298420	NP
-NP
-298423	NP
-298426	NP
-PP
-NP
-NP
-NP
-PP
-298434	NP
-NP
+298409	NP
+298411	NP
+298413	NP
+298415	NP
+298418	NP
 NP
 PP
 NP
-298441	NP
+298424	NP
 NP
 NP
+298430	NP
+298432	NP
+PP
+298436	NP
 NP
+NP
+298440	NP
+298444	PP
 298446	NP
-298448	NP
-298450	NP
-NP
-NP
-NP
-NP
-PP
-NP
-NP
-NP
-NP
-298463	PP
-NP
+298449	PP
+298455	NP
+298457	NP
 298469	NP
 NP
 NP
-298473	PP
-298477	NP
-NP
-298482	NP
-298486	NP
-298492	NP
-298494	NP
-298497	PP
-298499	NP
-NP
-298504	NP
-NP
-NP
 PP
+NP
+298475	NP
+298486	NP
+298488	NP
+298496	NP
+NP
+NP
+298502	PP
+NP
+NP
+298507	NP
 298510	NP
 NP
 NP
-298517	PP
-298520	PP
-298525	PP
-298536	NP
+298516	PP
+NP
+NP
+298522	PP
+NP
+NP
+298527	NP
+298530	PP
+298532	NP
+PP
+NP
+NP
 298538	NP
+NP
+298541	PP
+NP
+NP
+298545	NP
+NP
+NP
+NP
+NP
+NP
+298557	PP
+NP
+NP
 PP
-298547	PP
-298557	NP
+298563	PP
+NP
+NP
+NP
+298572	NP
+NP
+NP
+NP
 PP
-298560	NP
-PP
-NP
-NP
-298565	PP
-298573	NP
-NP
-298580	PP
-298582	NP
-298584	NP
-298590	NP
-298592	PP
-NP
+298579	NP
+298584	PP
 NP
 298597	PP
-NP
+298599	PP
 298601	NP
-PP
 NP
 NP
 PP
-298607	PP
-298609	NP
-298612	PP
-298617	NP
 NP
 NP
+298611	NP
+298613	NP
+298615	NP
 NP
-PP
-298627	NP
+NP
+VP
+298621	PP
+NP
+NP
+298626	NP
 NP
 NP
 298635	NP
-298637	PP
-298640	PP
+PP
+PP
+298639	NP
+298641	NP
+PP
 298644	NP
-298651	PP
-NP
-NP
-NP
+298648	NP
+298655	PP
+298662	PP
+298666	NP
 PP
-298662	NP
-NP
-NP
-PP
-NP
-298668	PP
-298671	NP
-298673	PP
-298675	NP
-298678	NP
+298669	PP
 NP
 298681	NP
 NP
+PP
+298686	NP
+298693	PP
+298695	NP
+298699	NP
+NP
+NP
+298703	NP
 NP
 PP
+298714	NP
+298717	NP
 PP
 NP
-298689	PP
 NP
-298692	PP
-298701	NP
-NP
-NP
-298710	PP
-NP
-298713	NP
+298722	PP
+298734	PP
+298736	NP
 NP
 NP
 NP
-PP
-298721	NP
-NP
-298724	NP
-NP
-NP
-298729	PP
-298731	NP
-PP
-298737	PP
-NP
-NP
-NP
-NP
-298751	PP
-298753	NP
-298758	PP
-298762	PP
-298764	NP
-298766	NP
-298770	PP
-PP
+298743	NP
+298745	NP
 NP
 NP
 PP
 NP
-298780	NP
-298782	PP
+NP
+298756	PP
 PP
-298788	PP
-298792	NP
+NP
+298760	PP
+PP
+PP
+298767	NP
+298772	NP
 NP
 NP
+PP
+NP
+NP
+NP
+298786	NP
+NP
+NP
+298791	NP
+NP
+298795	PP
 NP
 298800	NP
-298805	PP
-298808	NP
+298802	NP
+298806	NP
 298810	PP
-298812	NP
-PP
-298816	NP
-298818	NP
-PP
+NP
+298815	PP
+298820	NP
+NP
+298825	NP
+NP
+298828	PP
 NP
 NP
 NP
-298827	NP
-NP
-PP
-PP
-298840	NP
+298834	NP
+298844	NP
 NP
 NP
-298845	PP
-PP
+298849	PP
 NP
-NP
-NP
-NP
-298855	PP
-NP
-298859	NP
-NP
-298862	NP
-NP
-NP
-PP
-298869	NP
-298871	PP
-298876	PP
-298880	PP
-298885	NP
-PP
-NP
-NP
-298890	NP
-298892	NP
-PP
+298858	NP
+298860	NP
+298863	PP
 NP
 NP
 NP
-298900	PP
+298868	NP
+298870	PP
+NP
+298873	PP
+298875	NP
+NP
+298883	NP
+NP
+VP
+298889	NP
+298893	PP
+298898	NP
 298902	NP
-NP
-298905	NP
-NP
-NP
-298910	NP
-298913	NP
-298918	NP
-298920	PP
-NP
-NP
-NP
-NP
-298926	NP
-NP
 PP
+298913	PP
+298915	PP
 NP
-298931	PP
-298933	NP
-298935	NP
+298923	NP
+298926	PP
 NP
+298932	PP
 NP
+298936	PP
+298938	NP
 NP
+298941	NP
 NP
+298945	PP
 NP
-NP
-NP
-298946	NP
-NP
-PP
-NP
-NP
-298952	PP
 298958	NP
-298960	NP
-298962	NP
+298961	PP
 298965	NP
-298967	NP
+NP
+298974	NP
+298978	PP
+NP
+298991	NP
+NP
+298995	PP
+NP
+299009	PP
+NP
+299018	PP
 NP
 NP
+299022	PP
+PP
 NP
-298978	NP
-298981	NP
-298990	PP
-NP
-NP
-NP
-NP
-298998	PP
-NP
-NP
-NP
-299003	PP
-299007	PP
-299010	NP
-NP
-299013	NP
-299021	AdjP
-NP
-299024	NP
-NP
-NP
-NP
-NP
+299027	PP
 PP
 NP
 NP
-299034	NP
-299036	NP
+299032	PP
+299038	NP
 NP
-299040	PP
+299047	NP
 NP
+299054	PP
 NP
-NP
-PP
-299053	NP
-PP
-NP
-NP
-NP
-299059	PP
-299061	NP
+299062	NP
 NP
 299065	PP
-299072	NP
-NP
-NP
-PP
-299079	NP
-NP
-PP
-299083	NP
-NP
-299087	PP
-NP
-299090	NP
-NP
-PP
-NP
-299095	NP
-299098	PP
-NP
-NP
-299105	PP
-NP
-NP
-299109	NP
-NP
-299112	NP
-299114	NP
 NP
 NP
 NP
-PP
-299121	PP
+299070	PP
+299073	PP
+299076	PP
+299082	NP
+299087	NP
+299092	NP
+299095	PP
 NP
 NP
-299126	NP
-299128	PP
+NP
+299100	NP
+299105	NP
+299112	PP
+299114	PP
+299117	NP
+299120	NP
 NP
 NP
-299135	PP
-299137	NP
+299126	PP
 NP
-299140	NP
+299130	NP
+NP
+299133	PP
+NP
+299136	PP
+299139	NP
 NP
 PP
 NP
+299146	PP
+299153	NP
 NP
 PP
 NP
+299159	PP
 NP
-299149	NP
-299152	PP
-NP
-NP
-NP
-PP
-299158	NP
-NP
-PP
-299162	NP
-NP
-PP
-299166	NP
-NP
-PP
+299168	NP
 299170	NP
 NP
-PP
-299174	NP
-NP
-PP
 299178	NP
-NP
-299186	PP
-NP
-NP
-NP
-NP
-299199	NP
-299201	NP
-NP
-NP
-NP
-NP
-299211	NP
-NP
-299218	AdvP
-299226	NP
-NP
 PP
 NP
 NP
+299187	NP
+PP
+299194	NP
+299200	NP
+299206	NP
+PP
+299216	NP
 NP
 NP
+PP
+299223	NP
+299227	NP
+299229	NP
+PP
 NP
-299240	PP
-299243	PP
-NP
-NP
-299250	PP
-299253	PP
-NP
-NP
-299258	PP
-299263	NP
+299235	NP
+299238	NP
 NP
 NP
+PP
+299244	NP
+299246	NP
+PP
 NP
-299268	NP
+299250	NP
 NP
 NP
-299275	AdvP
-299278	PP
+299254	NP
 NP
 NP
+299258	NP
 NP
+NP
+299262	PP
+NP
+299265	PP
+NP
+299271	NP
+299274	NP
+NP
+299278	NP
+NP
+NP
+299282	PP
 NP
 299285	NP
-299290	NP
+299295	AdvP
 NP
+299301	NP
+299304	PP
+299309	PP
+299312	PP
+299315	PP
+299323	PP
+299329	PP
 NP
-NP
-299296	NP
-299298	NP
-NP
-299302	PP
-299304	NP
-299307	PP
-NP
-NP
-NP
-NP
-NP
-NP
-299316	PP
-299320	NP
-NP
-299324	PP
-299326	PP
-299328	PP
-NP
-NP
-299334	NP
-NP
-299341	NP
-299343	PP
-NP
+299340	NP
+299348	NP
 PP
-299352	PP
 NP
+299355	NP
+299363	NP
+299367	NP
+299370	NP
+299372	NP
 NP
-299358	NP
-NP
-NP
-299364	NP
-299369	PP
-NP
-299373	PP
+299375	NP
 299377	NP
+299380	NP
+NP
+NP
+299387	PP
 PP
+299391	PP
+299394	PP
+299396	NP
+299398	PP
 NP
-299381	PP
-PP
-299386	NP
+299401	PP
 NP
-NP
-NP
-299395	NP
-299399	NP
-NP
-PP
+299407	NP
+299413	NP
 NP
 NP
+299419	PP
+299424	NP
+299428	PP
+299430	PP
+299444	NP
 NP
-299407	PP
-NP
-299412	NP
-299417	NP
-NP
-299423	NP
-NP
-299429	NP
-299432	PP
-299435	NP
-299439	NP
-299442	NP
-299445	NP
-299450	NP
-299455	NP
-299457	PP
-NP
-NP
-NP
-NP
-PP
-299466	NP
-299468	PP
-NP
-PP
-NP
-NP
+299448	PP
+299462	PP
+299467	PP
 299477	PP
-299481	PP
-NP
-299487	PP
 PP
 NP
-299494	NP
+NP
+299489	NP
+NP
+299492	NP
+PP
+299497	NP
+299500	NP
+299502	NP
 299506	PP
-PP
 NP
-299511	PP
-299513	NP
-NP
-299517	PP
-299519	PP
-299523	PP
-NP
-NP
-299529	NP
-299532	NP
+299517	NP
+299538	NP
+299540	NP
 NP
 PP
-299537	PP
+299550	NP
+299552	NP
 NP
 NP
-299542	NP
-299544	AdjP
-299546	AdjP
-299548	NP
-NP
-299553	NP
-299555	NP
-299558	NP
-NP
-NP
-NP
-299563	NP
-299565	NP
-299568	NP
-NP
-PP
-NP
+299557	NP
+299559	NP
+299567	NP
+299571	PP
 299574	NP
-NP
-NP
-299579	NP
-299581	NP
 PP
-299585	NP
-NP
-NP
-299589	NP
-299593	PP
-NP
-299597	PP
-299603	NP
-299605	NP
-299615	NP
-NP
-NP
+299580	NP
+299593	NP
+299601	NP
 PP
 NP
+299606	PP
 NP
-299629	NP
-299631	NP
-299638	NP
-NP
-NP
-299644	PP
+299609	PP
+299611	NP
 NP
 NP
-299649	NP
+299616	NP
+NP
+NP
+299620	NP
+299622	PP
+NP
+299628	NP
+PP
+299636	PP
+NP
+299639	PP
+299643	NP
+NP
+NP
+299647	NP
+NP
+NP
 299652	NP
+299658	PP
 NP
+299663	NP
 NP
-299657	PP
-NP
-NP
-299663	PP
-NP
-299666	NP
-299669	NP
+299668	NP
 299672	PP
-299674	NP
-PP
+299678	PP
 NP
+299683	NP
 NP
-299679	NP
+299686	PP
+299691	NP
 NP
-299682	PP
+299695	NP
+299697	NP
 NP
-NP
-299686	NP
-NP
-NP
-NP
-NP
-NP
-299697	PP
-NP
-NP
-PP
-299702	PP
-NP
-NP
-NP
-299711	NP
-NP
-NP
-NP
-PP
-299718	NP
-299723	PP
-NP
-299735	PP
-299737	PP
-299739	NP
-NP
+299706	NP
+299711	PP
 NP
 PP
 NP
+299717	NP
+299721	PP
 NP
-299748	NP
-299750	NP
-299752	NP
+299724	NP
+299726	NP
+NP
+299733	NP
+299736	NP
+NP
+PP
+299740	PP
+299742	NP
+299745	PP
 NP
 NP
-VP
-299758	PP
+299752	PP
 NP
 NP
-299762	NP
+299760	NP
+NP
 NP
 299765	NP
+NP
 299771	NP
-PP
+NP
 PP
 299775	NP
-299777	NP
+NP
+NP
+299779	PP
+299785	NP
+299787	PP
+299791	PP
+299794	PP
+NP
+299799	PP
+299801	NP
+NP
+299806	NP
+NP
+299812	NP
+NP
+NP
+299821	NP
+299826	PP
+NP
+299832	PP
+299835	NP
+NP
+299839	NP
 PP
-299780	NP
-299783	NP
-299790	PP
-299796	PP
-299800	NP
-PP
-299803	PP
+299845	NP
 NP
-299813	NP
+299849	NP
 NP
-PP
-299817	NP
-299824	PP
+299852	NP
 NP
-299828	NP
-NP
-NP
-NP
-NP
-PP
-299841	NP
-299844	NP
-PP
-NP
-NP
-299849	PP
-299861	PP
-299863	NP
-NP
-NP
-NP
-299870	NP
-NP
-NP
+299866	NP
 NP
 PP
-NP
-NP
-299882	PP
+299872	PP
+299874	PP
+299878	PP
 PP
 NP
-299886	PP
-PP
-PP
+299887	NP
 299892	NP
-299896	NP
-NP
-NP
 PP
 NP
+299897	NP
+299899	PP
 NP
-NP
-299911	NP
-NP
-NP
-299916	NP
-NP
-299920	PP
-NP
-299923	NP
-NP
-299927	NP
-299930	PP
-NP
-299934	PP
-299939	NP
-NP
-299944	NP
-NP
-299947	PP
+PP
+299903	NP
 NP
 NP
 NP
-299952	NP
-299961	NP
+299911	PP
+299913	PP
 NP
+299917	NP
+299922	NP
+PP
+NP
+299931	NP
+NP
+299939	PP
+NP
+299944	PP
+NP
+299955	NP
+PP
+299958	NP
+PP
+NP
+299962	PP
 NP
 299966	PP
-NP
-299974	NP
-299976	NP
-299979	PP
-NP
-NP
-NP
-299984	NP
 PP
 NP
-299988	PP
+299971	NP
+299975	PP
+NP
+299979	NP
+299985	PP
+NP
+299990	PP
+299993	NP
 NP
 NP
-299996	NP
+299997	NP
 NP
-VP
-300002	NP
-300005	PP
-300009	NP
-300013	NP
+NP
+300005	NP
 PP
-300022	PP
-300024	PP
 NP
-300031	NP
-300035	PP
+300011	NP
+300013	PP
 NP
-300041	PP
+300018	NP
+300023	NP
+300025	NP
+300028	PP
+300030	NP
+NP
+NP
+PP
+300035	NP
+NP
+NP
+NP
+300040	NP
+PP
 NP
 300045	PP
-300047	NP
-NP
-NP
-NP
-300053	PP
-NP
-300064	NP
-300067	PP
-300070	NP
-NP
-300077	NP
-300081	PP
-NP
-300092	NP
-NP
-300096	PP
-300098	NP
-300110	PP
-NP
-300116	PP
-NP
-NP
 PP
-PP
-NP
-300124	PP
-PP
-NP
-NP
-300129	PP
-300135	NP
-NP
-300143	NP
-NP
-300150	PP
-NP
-300157	NP
-NP
-300160	PP
-NP
-NP
-NP
-300165	PP
-300168	PP
-300172	PP
-300178	NP
-300182	NP
-300186	NP
-300189	PP
-NP
-NP
-NP
-300194	NP
-300198	NP
-300204	PP
-300206	PP
-300208	NP
-300211	NP
-NP
-NP
-300217	PP
-NP
-300221	NP
-NP
-300224	PP
-NP
-300227	PP
-300229	NP
-NP
-PP
-NP
-300236	PP
-300241	NP
-NP
-PP
-NP
-300247	PP
-NP
-300256	NP
-300258	NP
-NP
-300267	NP
-PP
-NP
-NP
-300277	NP
-PP
-300285	NP
-300292	NP
-300299	NP
-PP
-300309	NP
-NP
-NP
-PP
-300316	NP
-300319	NP
-300321	NP
-PP
-NP
-300327	NP
-300330	NP
-NP
-NP
-PP
-300335	NP
-NP
-PP
-NP
-NP
-NP
-NP
-300343	NP
-NP
-NP
-300347	NP
-NP
-NP
-300351	PP
-NP
-300354	PP
-NP
-300358	NP
-300361	NP
-NP
-300365	NP
-NP
-NP
-300369	PP
-NP
-300373	NP
-300381	AdvP
-NP
-300387	NP
-300389	PP
-300394	PP
-300398	PP
-300401	PP
-300409	PP
-300414	PP
-NP
-300424	NP
-300431	NP
-PP
-NP
-300438	NP
-300446	NP
-300449	NP
-300451	NP
-300453	NP
-NP
-300456	NP
-300458	NP
-300461	NP
-NP
-NP
-300468	PP
-PP
-300472	PP
-300475	PP
-300477	NP
-PP
-NP
-300481	PP
-NP
-300487	NP
-300492	NP
-NP
-NP
-300498	PP
-300504	NP
-300507	PP
-300509	PP
-300520	NP
-NP
-300524	PP
-300537	PP
-300543	PP
-300552	PP
-PP
-NP
-NP
-300563	NP
-NP
-300566	NP
-PP
-300570	NP
-300573	NP
-300575	NP
-300579	PP
-NP
-300591	NP
-300612	NP
-300614	NP
-NP
-PP
-300623	NP
-300625	NP
-NP
-NP
-300630	NP
-300632	NP
-300639	NP
-300643	PP
-300646	NP
-PP
-300651	NP
-300664	NP
-300672	NP
-PP
-NP
-300677	PP
-NP
-300680	PP
-300682	NP
-NP
-NP
-300687	NP
-NP
-NP
-NP
-300692	PP
-NP
-300698	NP
-PP
-300706	PP
-NP
-300709	PP
-300712	NP
-NP
-NP
-300716	NP
-NP
-NP
-NP
-300725	PP
-NP
-300730	NP
-NP
-300735	NP
-300738	PP
-300743	PP
-NP
-300748	NP
-NP
-300751	PP
-300755	NP
-NP
-300759	NP
-300761	NP
-NP
-300771	NP
-300776	PP
-NP
-PP
-NP
-300782	NP
-300786	PP
-NP
-NP
-300790	NP
-NP
-300797	NP
-300800	NP
-NP
-PP
-300804	PP
-300806	NP
-300809	PP
-NP
-NP
-300816	PP
-NP
-NP
-300823	NP
-NP
-NP
-300828	NP
-NP
-300834	NP
-NP
-PP
-300838	NP
-NP
-NP
-300842	PP
-300846	NP
-300848	PP
-300850	PP
-300853	PP
-NP
-300857	PP
-300859	NP
-NP
-300865	NP
-NP
-300870	NP
-NP
-NP
-300879	NP
-300884	PP
-NP
-300890	PP
-300892	NP
-NP
-300896	NP
-PP
-300902	NP
-NP
-300905	NP
-NP
-NP
-NP
-300918	NP
-NP
-PP
-300924	PP
-300927	PP
-300931	PP
-PP
-NP
-300939	NP
-300943	NP
-PP
-NP
-300948	NP
-300950	PP
-NP
-PP
-300954	NP
-NP
-NP
-NP
-300960	PP
-300962	PP
-NP
-300966	NP
-300970	NP
-PP
-NP
-300978	NP
-NP
-300986	PP
-NP
-300992	PP
-NP
-301002	NP
-PP
-301005	NP
-PP
-NP
-301009	PP
-NP
-301012	PP
-PP
-NP
-301017	NP
-301021	PP
-NP
-301025	NP
-301031	PP
-NP
-301036	PP
-301038	NP
-NP
-NP
-301042	NP
-NP
-NP
-301050	NP
-PP
-NP
-301055	NP
-301057	PP
-NP
-301062	NP
-301067	NP
-301069	NP
-301072	PP
-301074	NP
-NP
-NP
-PP
-301079	NP
-NP
-NP
-NP
-301084	NP
-PP
-NP
-301089	PP
-PP
-301092	NP
-301095	NP
-301102	NP
+300048	NP
+300052	NP
+300060	NP
 NP
 NP
 PP
 NP
 NP
-301112	NP
-301115	NP
-301127	NP
+300069	NP
+300072	NP
+300083	NP
 PP
-301131	NP
+300087	NP
 NP
 VP
 PP
-301136	PP
-301139	PP
-301143	PP
-301145	PP
+PP
+300095	PP
+300099	PP
+300101	PP
 NP
 NP
-301154	NP
-301156	NP
+300111	NP
+300113	NP
 NP
 NP
-301164	NP
+300122	NP
+NP
+NP
+300126	NP
+PP
+300131	PP
+NP
+300137	NP
+300141	NP
+PP
+300144	NP
+300150	PP
+NP
+PP
+NP
+300156	NP
+PP
+300159	PP
+300161	NP
+PP
+300166	PP
+NP
+NP
+NP
+300174	NP
+300176	PP
+NP
+NP
+300182	PP
+NP
+300185	NP
+NP
+300189	NP
+300192	NP
+300199	PP
+NP
+300215	NP
+300217	NP
+NP
+300225	NP
+300227	NP
+300230	NP
+300239	NP
+NP
+300242	PP
+300244	NP
+300246	NP
+NP
+NP
+300250	NP
+300255	NP
+PP
+NP
+300260	NP
+300265	PP
+300267	PP
+300271	NP
+NP
+NP
+300276	NP
+300279	NP
+NP
+300285	NP
+NP
+NP
+NP
+NP
+300292	NP
+NP
+300298	NP
+300300	PP
+NP
+300303	NP
+300309	NP
+300311	NP
+NP
+NP
+300318	NP
+300325	NP
+NP
+NP
+300332	PP
+300337	PP
+NP
+300342	PP
+NP
+300345	PP
+NP
+300348	NP
+300352	NP
+300354	NP
+300361	NP
+300363	NP
+300365	NP
+300367	NP
+PP
+NP
+300374	NP
+NP
+NP
+300378	NP
+NP
+NP
+300386	NP
+NP
+NP
+300391	PP
+NP
+NP
+300395	PP
+NP
+NP
+NP
+300400	NP
+PP
+300404	NP
+300411	PP
+NP
+300416	NP
+PP
+NP
+NP
+300423	NP
+300425	NP
+300427	NP
+300430	NP
+NP
+PP
+NP
+NP
+300437	NP
+300439	NP
+300442	NP
+NP
+NP
+NP
+300454	NP
+300457	PP
+NP
+NP
+NP
+NP
+NP
+300466	NP
+300470	PP
+300475	PP
+NP
+NP
+300492	NP
+300496	PP
+300502	NP
+NP
+300505	NP
+PP
+PP
+300514	PP
+PP
+300517	NP
+PP
+300520	PP
+300525	NP
+300530	NP
+PP
+PP
+300536	NP
+300538	PP
+NP
+300545	PP
+NP
+300550	NP
+300557	PP
+NP
+300561	NP
+NP
+PP
+NP
+300570	NP
+NP
+NP
+300580	NP
+300584	PP
+NP
+PP
+300588	NP
+NP
+300594	NP
+NP
+300597	NP
+300601	PP
+NP
+300604	NP
+300607	NP
+300609	NP
+NP
+300614	PP
+300617	NP
+300619	NP
+NP
+300622	NP
+PP
+300625	NP
+300627	PP
+300629	PP
+300631	PP
+NP
+300634	PP
+NP
+300638	PP
+300641	PP
+300644	NP
+NP
+NP
+PP
+300656	PP
+NP
+NP
+300660	PP
+300664	PP
+NP
+300673	NP
+300679	PP
+300686	NP
+300688	PP
+NP
+NP
+300692	NP
+300696	PP
+PP
+300701	NP
+300703	PP
+NP
+300709	PP
+300713	NP
+300715	NP
+300724	NP
+300726	NP
+300731	PP
+NP
+NP
+NP
+300739	PP
+NP
+300744	NP
+300746	NP
+300753	PP
+300755	NP
+NP
+300763	PP
+300774	NP
+NP
+NP
+NP
+300785	PP
+300792	PP
+300794	NP
+PP
+300798	NP
+NP
+VP
+300803	NP
+NP
+NP
+NP
+NP
+NP
+NP
+300811	NP
+NP
+300816	PP
+300818	PP
+300825	NP
+NP
+300837	NP
+NP
+300841	PP
+300843	NP
+300848	NP
+NP
+PP
+NP
+300858	PP
+NP
+300866	NP
+NP
+PP
+300874	NP
+PP
+300877	NP
+300881	PP
+NP
+300887	NP
+300891	NP
+300894	NP
+300902	PP
+300907	NP
+NP
+300911	NP
+300918	PP
+300923	NP
+300928	PP
+NP
+300933	NP
+300935	NP
+300937	PP
+NP
+300943	NP
+300947	PP
+300949	PP
+NP
+NP
+300953	NP
+300959	NP
+NP
+300971	PP
+300983	NP
+PP
+300990	NP
+300992	NP
+PP
+300996	NP
+300998	NP
+301000	NP
+NP
+PP
+301014	NP
+301018	PP
+NP
+NP
+NP
+301028	NP
+NP
+301032	NP
+301037	NP
+301040	PP
+NP
+NP
+301044	NP
+NP
+NP
+NP
+301049	PP
+301051	NP
+301053	NP
+301056	NP
+301071	PP
+NP
+301074	NP
+301082	NP
+NP
+301086	NP
+NP
+PP
 NP
 NP
 NP
 PP
-301172	PP
-NP
-301177	NP
-301180	NP
-PP
-NP
-301187	PP
+301098	NP
 NP
 PP
+301102	NP
 NP
-301193	NP
+301108	PP
+NP
+301112	NP
+NP
+301117	NP
+NP
+301133	NP
+301135	NP
+301137	NP
+301140	PP
+NP
+NP
+301144	NP
+301163	NP
+NP
+301166	PP
+301173	NP
+NP
+NP
+301178	NP
+NP
+NP
+NP
+301184	NP
+NP
+NP
+301190	NP
+NP
 PP
-301197	PP
-301199	NP
+NP
+NP
+301201	NP
+NP
 PP
-301204	PP
+301205	NP
 NP
 NP
 NP
 301212	NP
-301214	PP
 NP
 NP
-301221	PP
+301216	NP
 NP
-301224	NP
+301221	NP
 NP
+NP
+PP
 301228	NP
 301230	NP
-301237	PP
-NP
-301251	NP
-301253	NP
-NP
-301261	NP
-NP
-301265	NP
-301273	NP
-NP
-301276	PP
-301278	NP
-301280	NP
-NP
-NP
-NP
-301288	NP
 PP
+301236	PP
+NP
+NP
+301242	PP
+301245	NP
+NP
+301248	PP
+NP
+NP
+301252	NP
+NP
+301257	PP
+NP
+NP
+301263	PP
+NP
+301268	NP
+NP
+PP
+NP
+NP
+301275	NP
+NP
+301281	PP
+301287	NP
+301289	PP
+NP
 NP
 301293	NP
-301298	PP
-PP
+NP
+301299	PP
+NP
+NP
 301303	NP
-NP
-NP
-301307	NP
-301310	NP
-NP
-301316	NP
-NP
-NP
-NP
-NP
-301323	NP
-NP
-301329	NP
-301331	PP
-NP
-301334	NP
-301338	NP
-301340	NP
-NP
-NP
-301346	NP
-301353	NP
-NP
-NP
-301359	PP
-301361	PP
-NP
-301365	PP
-NP
-301368	PP
-NP
-301371	NP
-301375	NP
-301377	NP
-301382	NP
-301384	NP
-301386	NP
-301388	NP
 PP
 NP
-301393	NP
+NP
+NP
+301309	NP
+301322	NP
+NP
+NP
+PP
+NP
+301329	PP
+NP
+301333	NP
+NP
+301336	NP
+NP
+301339	PP
+NP
+301343	NP
+301348	PP
+301353	PP
+301355	NP
+NP
+NP
+PP
+NP
+301362	NP
+301371	PP
+NP
+NP
+301375	PP
+301377	NP
+NP
+PP
+301382	NP
+NP
+301387	PP
+NP
+NP
+301392	PP
 NP
 NP
 301397	NP
+301402	NP
+301404	NP
+NP
+301409	PP
+301413	PP
 NP
 NP
-301405	NP
+301418	NP
+NP
+301424	NP
 NP
 NP
-301410	PP
+301428	NP
+NP
+301438	NP
 NP
 NP
-301414	PP
+301443	PP
+301445	NP
+301450	NP
 NP
-NP
-NP
-301419	NP
-PP
-301423	NP
-301430	PP
-NP
-301434	NP
-PP
-NP
-NP
-301441	NP
-NP
-301444	NP
-301447	NP
 NP
 PP
 NP
-NP
-301454	NP
-301456	NP
-301459	NP
-NP
-NP
+301459	PP
+301467	PP
 NP
 301470	NP
-301473	PP
+301472	PP
+NP
+NP
+301476	PP
+301480	NP
+NP
+NP
+301484	NP
+NP
+NP
+301488	NP
 NP
 NP
 NP
 NP
-NP
-301482	NP
-301485	PP
-301489	PP
+301500	PP
 NP
 NP
-301505	NP
-301508	PP
-301512	NP
-NP
-301515	NP
 PP
-PP
-301523	PP
-PP
-301526	NP
-PP
-301529	PP
-301533	NP
-301538	NP
-PP
-PP
-301543	NP
-301545	PP
 NP
-301551	PP
 NP
+301510	NP
+NP
+NP
+301517	NP
+301519	NP
+PP
+NP
+NP
+NP
+301528	PP
+NP
+301535	NP
+301542	PP
+NP
+NP
+NP
+NP
+301554	NP
 301556	NP
-301562	PP
-NP
-301566	NP
-NP
-PP
-NP
+301559	NP
+301567	NP
+301570	NP
+301572	NP
 301574	NP
-NP
-NP
-301584	NP
-301587	PP
-NP
 PP
+NP
+NP
+301581	PP
+301583	PP
+301585	NP
+301588	PP
+301590	NP
 NP
 NP
 301594	NP
 NP
-301597	NP
-301601	PP
-NP
-NP
-NP
-301606	NP
-NP
-301610	PP
-301612	NP
-301614	NP
-NP
-301617	NP
+301598	PP
 PP
 NP
+NP
+301604	PP
+NP
+PP
+301612	PP
+301615	NP
+NP
+NP
+301619	PP
 301621	PP
 301623	PP
 301625	PP
-NP
-301628	PP
-NP
-PP
-301632	PP
-NP
-NP
-NP
-PP
-301642	PP
-NP
-NP
-301646	PP
-301650	PP
-NP
-301659	NP
-301665	PP
-301672	NP
-301674	PP
-NP
-NP
-301679	NP
-301683	PP
-PP
-301687	NP
-301689	PP
-NP
-301694	PP
-301697	NP
-301699	NP
-301707	NP
-301709	NP
-301714	PP
-NP
-NP
-NP
-301722	PP
-NP
-301726	NP
-301728	NP
-301733	PP
-301735	NP
-NP
-301742	PP
-301753	NP
-NP
-NP
-NP
-301763	PP
-301768	PP
-301770	NP
-PP
-301774	NP
-NP
-VP
-301779	NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-301791	PP
-301794	PP
-301800	NP
-NP
-301809	NP
-NP
-301813	PP
-301815	NP
-301820	NP
-NP
-PP
-NP
-301831	PP
-NP
-301837	NP
-NP
-PP
-301845	NP
-PP
-301848	NP
-301852	PP
-NP
-301858	NP
-301862	NP
-301865	NP
-301872	PP
-301876	NP
-NP
-301880	NP
-301886	PP
-301890	NP
-301895	PP
-NP
-301901	NP
-301903	NP
-301905	PP
-NP
-301911	NP
-301914	PP
-301916	PP
-NP
-NP
-NP
-301925	NP
-NP
-301936	PP
-301946	NP
-PP
-301953	NP
-301955	NP
-PP
-NP
-NP
-301960	NP
-NP
-PP
-301971	NP
-301975	PP
-NP
-NP
-NP
-301985	NP
-NP
-301989	NP
-301992	NP
-301995	PP
-NP
-NP
-NP
-NP
-NP
-NP
-302003	PP
-302005	NP
-NP
-302008	NP
-302021	PP
-NP
-302024	NP
-302031	NP
-NP
-302035	NP
-NP
-PP
-NP
-NP
-NP
-PP
-302046	NP
-NP
-PP
-NP
-NP
-302055	PP
-NP
-302059	NP
-NP
-302064	NP
-NP
-302076	NP
-302078	NP
-302080	NP
-302083	PP
-NP
-NP
-302087	NP
-302105	NP
-NP
-302108	PP
-302113	NP
-NP
-NP
-302118	NP
-NP
-NP
-NP
-302124	NP
-NP
-NP
-302130	NP
-NP
-PP
-NP
-NP
-302139	NP
-NP
-PP
-302143	NP
-NP
-NP
-NP
-302150	NP
-NP
-NP
-302154	NP
-NP
-302157	NP
-NP
-NP
-PP
-302164	NP
-NP
-PP
-302171	PP
-NP
-NP
-302176	PP
-302179	NP
-NP
-PP
-NP
-NP
-NP
-NP
-302189	PP
-NP
-NP
-302194	PP
-NP
-302198	NP
-NP
-PP
-NP
-NP
-302205	NP
-NP
-302211	PP
-302216	NP
-302218	PP
-NP
-NP
-NP
-NP
-302226	PP
-NP
-NP
-302230	NP
-PP
-NP
-NP
-NP
-302236	NP
-302248	NP
-NP
-NP
-PP
-NP
-302255	PP
-NP
-302259	NP
-NP
-NP
-NP
-PP
-NP
-302266	NP
-302271	PP
-302276	PP
-302278	NP
-NP
-NP
-PP
-NP
-302284	NP
-302292	PP
-NP
-NP
-302296	PP
-NP
-NP
-PP
-NP
-NP
-302303	PP
-NP
-NP
-302308	PP
-NP
-NP
-302312	NP
-302316	NP
-302318	NP
-NP
-302323	PP
-302327	PP
-NP
-NP
-NP
-NP
-302334	NP
-NP
-NP
-302338	NP
-NP
-302346	NP
-NP
-NP
-302351	PP
-302353	NP
-302357	NP
-NP
-NP
-PP
-NP
-302364	PP
-302371	PP
-NP
-NP
-302375	PP
-NP
-NP
-302379	PP
-NP
-NP
-NP
-NP
-NP
-NP
-302387	NP
-NP
-NP
-NP
-NP
-302397	PP
-NP
-NP
-PP
-NP
-NP
-302406	NP
-NP
-NP
-302411	NP
-302413	NP
-PP
-NP
-NP
-NP
-302421	PP
-NP
-302426	NP
-302433	PP
-NP
-NP
-NP
-NP
-302442	NP
-302444	NP
-302446	NP
-302452	NP
-NP
-NP
-302456	NP
-PP
-NP
-NP
-302462	PP
-302464	PP
-NP
-302468	PP
-NP
-NP
-NP
-302473	NP
-NP
-302476	PP
-PP
-NP
-NP
-302482	PP
-NP
-PP
-302490	PP
-302493	NP
-NP
-NP
-PP
-302498	PP
-302500	PP
-302502	PP
-302504	PP
-302506	PP
-302508	PP
-302512	NP
-302515	PP
-302519	NP
-NP
-302522	PP
+301627	PP
+301629	PP
+301631	PP
+301635	NP
+301639	PP
+301644	NP
+NP
+301647	PP
 NP
 NP
 AdjP
 NP
 NP
-302532	PP
+301657	PP
 NP
 NP
-NP
-302537	NP
-302539	NP
-302547	NP
+301663	NP
+301665	NP
+301667	NP
+301675	NP
 NP
 PP
-302551	NP
-302553	NP
+301679	NP
+301681	NP
 NP
-302556	NP
-302558	PP
-302561	NP
+301684	NP
+301686	PP
+301690	NP
+NP
+301693	NP
+NP
+301697	PP
+NP
+NP
+NP
+NP
+301703	PP
+NP
+NP
+NP
+NP
+301711	NP
+NP
+301714	NP
+301716	PP
+NP
+NP
+301724	PP
+NP
+NP
+PP
+301731	NP
+NP
+PP
+301741	NP
+301743	NP
+301752	VP
+PP
+NP
+NP
+NP
+301759	NP
+NP
+301762	NP
+301764	NP
+301777	PP
+301779	NP
+NP
+NP
+301783	NP
+301786	PP
+NP
+NP
+301790	NP
+NP
+NP
+NP
+NP
+NP
+NP
+NP
+NP
+301801	NP
+NP
+NP
+NP
+301806	NP
+NP
+NP
+NP
+PP
+301816	NP
+NP
+PP
+NP
+NP
+301822	PP
+NP
+NP
+NP
+NP
+NP
+301831	NP
+NP
+301834	NP
+301836	NP
+NP
+301866	PP
+NP
+NP
+301874	PP
+301876	NP
+NP
+NP
+NP
+301889	NP
+NP
+301900	NP
+NP
+PP
+NP
+NP
+301913	NP
+NP
+NP
+301923	NP
+301925	NP
+301930	PP
+NP
+301933	NP
+NP
+301937	PP
+NP
+NP
+NP
+301942	NP
+NP
+NP
+NP
+PP
+301952	NP
+301954	NP
+301963	NP
+301965	NP
+301967	NP
+301973	NP
+NP
+PP
+301984	NP
+NP
+301994	NP
+PP
+PP
+302001	NP
+NP
+302006	PP
+302010	NP
+NP
+NP
+302017	NP
+302019	NP
+302021	AdvP
+302023	PP
+NP
+NP
+NP
+302028	NP
+NP
+NP
+NP
+PP
+302037	NP
+NP
+NP
+NP
+NP
+302048	NP
+NP
+NP
+302053	NP
+NP
+302058	NP
+NP
+PP
+PP
+NP
+NP
+302067	NP
+NP
+NP
+NP
+302073	PP
+302075	NP
+302080	PP
+302086	NP
+NP
+302091	NP
+302094	PP
+NP
+NP
+302104	NP
+302106	NP
+NP
+NP
+302120	PP
+PP
+NP
+NP
+NP
+NP
+302130	NP
+302132	NP
+302137	NP
+302143	NP
+302146	NP
+PP
+NP
+NP
+302158	NP
+NP
+NP
+NP
+PP
+302167	NP
+NP
+NP
+302171	NP
+NP
+PP
+302175	NP
+302177	NP
+NP
+302184	NP
+NP
+302188	NP
+302190	NP
+302192	NP
+302194	NP
+NP
+302197	NP
+NP
+NP
+NP
+302202	NP
+302206	PP
+302211	NP
+302218	NP
+NP
+302236	PP
+NP
+NP
+302242	PP
+302245	PP
+PP
+NP
+302251	PP
+NP
+NP
+302255	NP
+NP
+302258	PP
+302262	NP
+NP
+302272	NP
+PP
+NP
+NP
+302282	NP
+NP
+PP
+302288	NP
+NP
+302293	NP
+NP
+NP
+302300	PP
+NP
+302306	PP
+302314	PP
+NP
+NP
+302319	NP
+PP
+NP
+302325	PP
+NP
+302328	NP
+NP
+NP
+302334	PP
+NP
+NP
+302340	NP
+NP
+NP
+302347	NP
+302349	NP
+302351	NP
+NP
+NP
+NP
+PP
+302361	NP
+NP
+NP
+NP
+302366	NP
+NP
+302369	NP
+NP
+302380	VP
+302384	NP
+302391	NP
+302393	PP
+NP
+NP
+302414	PP
+302417	AdvP
+302419	NP
+302421	PP
+302425	NP
+PP
+302430	NP
+NP
+302434	PP
+PP
+302443	PP
+NP
+302446	AdvP
+302448	NP
+NP
+PP
+NP
+NP
+NP
+302456	NP
+NP
+302459	PP
+NP
+NP
+302463	PP
+NP
+NP
+302470	NP
+302472	NP
+302474	NP
+NP
+NP
+NP
+PP
+302485	NP
+NP
+302488	NP
+NP
+302502	NP
+NP
+302506	PP
+302508	NP
+302516	NP
+302520	NP
+NP
+302525	NP
+NP
+302530	PP
+NP
+NP
+NP
+302552	PP
+NP
 NP
 302564	NP
 NP
-302568	PP
+NP
+NP
+302571	PP
+302573	NP
+NP
+NP
+302578	PP
+NP
+NP
+302583	PP
+NP
+302593	NP
+NP
+302599	PP
 NP
 NP
 NP
 NP
-302574	PP
+302606	AdvP
+302611	PP
+302613	NP
 NP
 NP
 NP
+302618	NP
 NP
-302581	NP
-NP
-302584	NP
-302586	PP
-NP
-NP
-302594	PP
-NP
-NP
-PP
-302601	NP
-NP
-PP
-302609	NP
-302611	NP
-302619	VP
-PP
-NP
-NP
-NP
-302626	NP
-NP
-NP
-302630	NP
-302642	PP
-302644	NP
-NP
-NP
-NP
-302650	PP
-NP
-NP
-302654	NP
+302622	NP
 NP
 NP
 NP
 NP
 NP
-NP
-NP
-NP
-302665	NP
-NP
-NP
-NP
-302670	NP
-NP
-NP
-NP
-PP
-302679	NP
+302629	PP
 NP
 PP
 NP
 NP
-302685	PP
+302635	NP
 NP
 NP
 NP
+302643	NP
+302645	NP
+302647	NP
 NP
 NP
-302692	NP
-NP
-302695	NP
-302697	NP
-NP
-302722	PP
-NP
-NP
-302730	PP
-302732	NP
-NP
-NP
-NP
-302744	NP
-NP
-302754	NP
 NP
 PP
-NP
-NP
-302766	NP
-NP
-NP
-302776	NP
-302778	NP
-302783	PP
+302657	NP
 NP
 NP
 NP
+302663	NP
+NP
+NP
+NP
+NP
+302669	NP
+NP
+302692	PP
+NP
+NP
+302706	NP
+302714	NP
+302724	PP
+NP
+302727	PP
+302731	NP
+302738	NP
+NP
+NP
+NP
+302745	NP
+NP
+302761	PP
+NP
+302770	NP
+NP
+302774	NP
+302777	PP
+302781	PP
+302784	PP
 302789	PP
+PP
 NP
 NP
-NP
-302794	NP
-NP
+302799	PP
 NP
 NP
 PP
-302802	NP
-302804	NP
+NP
+NP
+302809	NP
 302811	NP
+302813	PP
+302819	PP
 NP
-302814	NP
-302819	NP
+302822	NP
+302824	NP
 NP
-PP
-302829	NP
-NP
-302839	NP
-PP
-PP
-302846	NP
-NP
+302828	PP
+302831	PP
+302842	PP
+302845	PP
 302850	PP
-302854	NP
+NP
+302854	PP
+NP
+302866	NP
+PP
+NP
+302874	PP
 NP
 NP
-302861	NP
-302863	NP
-302865	AdvP
-302867	PP
+302879	PP
+NP
+NP
+302885	PP
+NP
+302888	PP
 NP
 NP
 NP
-302872	NP
+302893	PP
 NP
+302901	NP
+NP
+302904	PP
+NP
+302908	NP
+NP
+NP
+NP
+302913	PP
+NP
+PP
+302917	NP
+NP
+302923	PP
+NP
+NP
+302927	NP
+NP
+NP
+NP
+302937	NP
+NP
+NP
+302943	NP
+NP
+302948	NP
+NP
+302951	NP
+NP
+PP
+302956	NP
+NP
+302959	NP
+302962	NP
 NP
 NP
 PP
-302881	NP
 NP
-NP
-NP
-NP
-302890	NP
-NP
-NP
-302895	NP
-NP
-302900	NP
-NP
-PP
-PP
-NP
-NP
-NP
-NP
-NP
-NP
-302912	PP
-302914	NP
-302918	PP
-302924	NP
-NP
-302928	NP
-302931	PP
-NP
-NP
-302940	NP
-302942	NP
-NP
-NP
-302957	PP
-PP
-NP
-NP
-NP
-NP
-302967	NP
 302969	NP
-302974	NP
-302979	NP
-302981	NP
+302985	NP
+NP
+302997	NP
+303003	PP
+NP
+303006	PP
+NP
+NP
+NP
+303012	NP
+NP
+303015	PP
+303017	PP
+NP
+303023	PP
+NP
+NP
+NP
+303029	NP
+NP
 PP
 NP
-NP
-302993	NP
-NP
-NP
-NP
-PP
-303001	NP
-NP
-NP
-303005	NP
-NP
-PP
-303009	NP
-303011	NP
-NP
-303016	NP
-NP
-303019	NP
-303021	NP
-303023	NP
-303025	NP
-NP
-303028	NP
-NP
-NP
-NP
-303033	NP
-303036	PP
-303039	NP
+303036	NP
+303038	NP
+303040	NP
+303043	NP
 303045	NP
+303047	NP
+303052	NP
+303054	PP
+NP
 NP
 303061	PP
 NP
 NP
-303067	PP
-303070	PP
+303065	PP
+NP
+NP
+NP
+303073	NP
+303076	NP
+303078	PP
+NP
+303084	NP
+303087	NP
+NP
+303090	NP
+303093	PP
+NP
+303096	PP
+NP
+303099	PP
+NP
+303103	NP
+303111	NP
+303115	NP
+303120	NP
 PP
 NP
-303076	PP
-NP
-NP
-303080	NP
-NP
-303083	PP
-303086	NP
-NP
-303095	NP
-PP
-NP
-NP
-303101	NP
+303131	NP
 NP
 PP
-303107	NP
-NP
-303112	NP
 NP
 NP
-303119	PP
-NP
-303125	PP
-303133	PP
 NP
 NP
-303139	NP
-PP
-NP
-303145	PP
-NP
-303148	NP
+303140	NP
+303142	NP
 NP
 NP
-303154	PP
+303148	PP
+NP
+303151	NP
+303153	NP
+NP
+303156	PP
 NP
 NP
-303160	NP
-NP
-NP
-303167	NP
-303169	NP
+303165	NP
+303168	NP
 303171	NP
 NP
 NP
 NP
-PP
-303180	NP
+NP
+303177	PP
 NP
 NP
-NP
-303185	NP
-NP
-303188	NP
-NP
-303196	VP
-303199	NP
-303206	NP
-303208	PP
+303185	PP
 NP
 NP
-303224	PP
-303227	AdvP
-303229	NP
-303231	PP
-303234	NP
-PP
-303239	NP
+303189	PP
 NP
-303243	PP
-PP
-303251	PP
+303195	NP
+303197	NP
 NP
-303254	AdvP
-303256	NP
+303200	NP
 NP
+303204	PP
+NP
+303210	NP
+NP
+303216	NP
+NP
+NP
+303221	NP
+303228	NP
+303231	NP
+NP
+303238	NP
 PP
 NP
 NP
-NP
-303264	NP
-NP
 PP
 NP
+303251	NP
 NP
-303270	PP
+303257	PP
+NP
+303266	NP
 NP
 NP
+303270	NP
+303272	NP
+303274	NP
 303277	NP
-303279	NP
-303281	NP
 NP
-NP
-NP
-PP
-303289	NP
-NP
-303292	NP
-NP
-303304	NP
+303280	NP
+303282	NP
+303284	NP
+303288	NP
+303291	NP
+303301	NP
+303305	PP
 NP
 303308	PP
 NP
-303315	NP
-303319	NP
+303311	PP
 NP
-303324	NP
+303314	PP
 NP
-303328	PP
+303318	NP
+NP
+PP
+303325	PP
+NP
+303328	NP
+303330	NP
+303332	NP
+303334	NP
+303336	NP
+PP
 NP
 NP
 NP
-303347	PP
+303342	NP
 NP
-NP
+303348	NP
 303358	NP
-NP
-NP
-NP
-303365	PP
-NP
-NP
-NP
-303371	PP
-NP
-NP
-303376	PP
-NP
-303386	NP
-NP
-303393	PP
-NP
-NP
-NP
-NP
-303400	AdvP
-303405	PP
-NP
-NP
-NP
-NP
-303411	NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-303420	PP
 NP
 PP
 NP
 NP
-303426	NP
+303365	NP
+PP
 NP
 NP
+303370	PP
+303372	NP
+303381	NP
+303384	PP
+303403	NP
 NP
-303434	NP
-303436	NP
+NP
+303407	NP
+NP
+303414	NP
+NP
+303418	PP
+303423	NP
+PP
+NP
+303433	NP
 303438	NP
 NP
 NP
+303442	NP
 NP
-PP
-303446	NP
-NP
-NP
-NP
-303451	NP
+303452	NP
+303455	PP
+303458	PP
 NP
 NP
+303465	PP
 NP
 NP
-303457	NP
 NP
-303476	PP
+303472	NP
+303475	NP
+NP
+303480	NP
+303482	NP
+303489	NP
 NP
 NP
-303487	NP
-303495	NP
-303503	PP
+303493	NP
 NP
-303506	PP
+NP
+303504	NP
+303508	PP
 303511	NP
-303517	NP
+303513	NP
+303515	PP
+303520	PP
 NP
 NP
 NP
-303524	NP
+303526	PP
+303528	PP
+303530	PP
+303532	PP
 NP
-303538	PP
 NP
-303545	NP
 NP
-303549	NP
-303551	PP
+303540	NP
+NP
+303543	PP
+NP
+NP
+NP
+303549	PP
+NP
+NP
+NP
 303554	PP
-303557	PP
+NP
+303561	NP
 303563	PP
+NP
+NP
+NP
+303573	NP
+NP
 PP
-NP
-NP
-303572	PP
-NP
-NP
-PP
-NP
+303577	PP
 NP
 303582	NP
-303584	NP
-PP
-303591	PP
 NP
-303594	NP
+303590	NP
+303593	NP
+303596	NP
+NP
+303599	NP
+NP
+303605	NP
+303612	NP
 NP
 NP
-303599	PP
-303602	PP
-303612	PP
-303615	PP
-303620	PP
-NP
+303617	NP
+303620	NP
 303623	PP
+303625	NP
+303627	NP
 NP
-303632	NP
+303630	PP
+303633	NP
+NP
+NP
+303637	PP
+NP
+303642	NP
+NP
 PP
 NP
-303639	PP
+303648	NP
+303654	NP
+303657	PP
 NP
 NP
-303644	PP
+303663	NP
 NP
 NP
-303650	PP
-NP
-303653	PP
-NP
-NP
-NP
-303658	PP
-NP
-303664	NP
-NP
-303667	PP
-NP
+303667	NP
+303669	NP
 303671	NP
+303673	NP
+303675	NP
+303681	PP
+NP
+303684	PP
 NP
 NP
 NP
-303676	PP
+303691	NP
+303693	NP
+303697	PP
+303702	PP
 NP
-PP
-303680	NP
+303705	PP
 NP
-303685	PP
-NP
-NP
-303689	NP
-NP
-NP
-NP
-303697	NP
-NP
-NP
-303703	NP
-NP
-303708	NP
-NP
-303711	NP
-NP
-PP
-303716	NP
-NP
-303719	NP
-303722	NP
-NP
-NP
-PP
-NP
-303729	NP
-303739	NP
-NP
-303749	NP
-303753	PP
-NP
-303756	PP
+303708	PP
 NP
 NP
 NP
-303761	NP
-NP
-303764	PP
-303766	PP
-NP
-303771	PP
+303715	NP
 NP
 NP
 NP
-303777	NP
 NP
-PP
 NP
+303725	PP
+303727	NP
+303729	PP
+NP
+NP
+NP
+NP
+303735	NP
+NP
+NP
+NP
+303744	PP
+NP
+303747	PP
+NP
+303750	PP
+NP
+303755	NP
+303757	PP
+NP
+303760	NP
+NP
+303765	NP
+NP
+303768	NP
+303773	NP
+303775	NP
+303781	NP
+303783	NP
 303785	NP
-NP
 303788	NP
-303790	NP
-303792	NP
-303794	NP
+NP
+NP
+NP
+PP
+NP
+NP
 303798	NP
-303800	PP
 NP
+303801	NP
 NP
-303806	PP
+303805	PP
+NP
 NP
 NP
 303810	PP
 NP
 NP
+303814	PP
 NP
-303817	NP
-303820	NP
-303822	PP
 NP
-303827	NP
-303830	NP
+PP
 NP
-303833	NP
-303835	PP
 NP
-303838	PP
+PP
 NP
-303841	PP
 NP
-303844	NP
-303852	NP
+PP
+NP
+NP
+PP
+NP
+NP
+PP
+NP
+NP
+PP
+NP
+NP
+PP
+NP
+NP
+PP
+NP
+NP
+PP
+NP
+NP
+PP
+NP
+NP
+303849	PP
+303853	NP
 303855	NP
-303860	NP
-PP
+303860	PP
 NP
-303869	NP
+303868	PP
 NP
-PP
+303871	PP
 NP
-NP
-NP
-NP
-303877	NP
-303879	NP
+303874	NP
+303877	PP
 NP
 NP
-303884	PP
+303882	NP
+303884	NP
+303887	NP
 NP
+303890	PP
 NP
-303888	NP
-NP
-303891	PP
-NP
+303893	NP
+303896	NP
 NP
 303899	NP
 303901	NP
-303904	NP
-NP
-NP
-NP
+303903	NP
+303905	NP
 NP
 303910	PP
 NP
-NP
-303917	PP
-NP
-NP
-303921	PP
-NP
-303926	NP
-NP
-NP
-303930	NP
-NP
-303934	PP
-NP
-303939	NP
-NP
-303944	NP
-NP
-NP
-303949	NP
-303954	NP
-303957	NP
-NP
-303963	NP
 PP
+NP
+NP
+303917	NP
+303921	NP
+303923	NP
+303925	NP
+303927	NP
+303929	NP
+303931	NP
+303933	NP
 NP
 NP
 PP
 NP
-303975	NP
-NP
-303980	PP
-NP
-303986	NP
 NP
 NP
+303943	NP
+PP
 NP
-303991	NP
-303993	NP
-303996	NP
+303951	NP
 NP
 NP
-304000	NP
-304002	NP
-304005	NP
-304008	NP
-304016	NP
-304018	PP
+303962	NP
+303972	PP
 NP
-304021	PP
 NP
-304024	PP
 NP
-304027	PP
+303979	NP
 NP
-304031	NP
+303984	PP
+NP
+NP
+NP
+303990	PP
+303992	PP
+NP
+NP
+NP
+304001	PP
+NP
+NP
+304006	PP
+NP
+304009	PP
+304019	PP
+304021	NP
+304023	NP
+304028	NP
 NP
 PP
-304037	PP
 NP
-304040	NP
+NP
+304038	PP
+NP
 NP
 304043	NP
-304045	NP
-304047	NP
-PP
-NP
-NP
-NP
-304053	NP
-NP
-304058	NP
-304066	NP
 NP
 PP
 NP
+NP
+304052	NP
+NP
+NP
+304057	PP
+NP
+NP
+304063	NP
+304065	NP
+304067	PP
 NP
 304073	NP
+304076	NP
+304081	PP
+NP
+304084	NP
+304089	NP
+304092	NP
+NP
+NP
+NP
+PP
+304098	NP
+NP
+NP
+NP
+PP
+NP
+304106	NP
+NP
+NP
+NP
+NP
+NP
 PP
 NP
 NP
-304078	PP
-304080	NP
-304086	NP
-304089	PP
-304105	NP
-NP
-NP
-304109	NP
-NP
-304115	NP
-NP
-304120	PP
-304124	NP
 PP
 NP
-304134	NP
-304138	NP
+304120	NP
 NP
-NP
-304142	NP
-NP
-304150	NP
-304153	PP
-304156	PP
-NP
-NP
-304163	PP
+304125	PP
 NP
 NP
 NP
-304168	NP
+304131	PP
+NP
+304141	NP
+NP
+304144	NP
+NP
+304151	NP
+304159	PP
+304162	PP
+NP
+304166	NP
+NP
+NP
 304171	NP
 NP
-304175	NP
-304177	NP
-304183	NP
 NP
+304176	NP
 NP
-304187	NP
+304180	NP
 NP
+304184	PP
+304186	NP
+NP
+304191	PP
 NP
 304196	NP
-304199	PP
+NP
+NP
 304202	NP
-304204	NP
-304206	PP
-304211	PP
+NP
+304206	NP
+NP
+PP
+NP
+304213	NP
+NP
+NP
+304218	NP
+NP
+304224	PP
+NP
+NP
+304234	PP
 NP
 NP
 NP
-304216	PP
-304218	PP
-304220	PP
-304222	PP
+304239	PP
 NP
 NP
 NP
-304229	NP
+304244	NP
 NP
-304232	PP
-NP
-NP
-NP
-304237	PP
-NP
-NP
-NP
-304242	PP
 NP
 304248	NP
-304251	PP
+304252	NP
 NP
-NP
-NP
-304260	NP
 NP
 PP
-304264	PP
+304258	NP
 NP
-304268	NP
+304261	PP
 NP
-304276	NP
-304279	NP
+304266	NP
+NP
+304273	NP
 NP
 NP
-304283	NP
+304277	NP
 NP
-304288	NP
+NP
+304281	NP
+NP
+NP
+304286	NP
+NP
+304290	NP
 304293	NP
 NP
-NP
-304297	NP
-304300	NP
-304303	PP
-304305	NP
+304296	NP
+304303	NP
+304305	PP
 304307	NP
-NP
 304310	PP
-304313	NP
-NP
-NP
-304317	PP
-NP
-304322	NP
 NP
 PP
 NP
-304328	NP
-304334	NP
-304336	PP
-NP
-NP
-304341	NP
-NP
-NP
-304345	NP
-304347	NP
-304349	NP
-304351	NP
-304353	NP
-304357	PP
-NP
-304360	PP
-NP
-NP
-NP
-304366	NP
-304368	NP
-304370	PP
-304374	PP
-NP
-304377	PP
-NP
-304380	PP
-NP
-NP
-NP
-304386	NP
 NP
 NP
 NP
 NP
+304319	NP
 NP
-304396	PP
-304398	NP
-304400	PP
+304324	NP
+NP
+304331	PP
+NP
+304334	PP
+NP
+304339	NP
 NP
 NP
 NP
 NP
-304406	NP
+304348	NP
+NP
+NP
+304354	PP
+NP
+304357	NP
+NP
+304362	NP
+304364	NP
+PP
 NP
 NP
 NP
-304414	PP
+304371	PP
 NP
-304417	PP
+304375	PP
 NP
-304420	PP
+304384	NP
+NP
+NP
+304395	NP
+NP
+NP
+304399	NP
+304401	NP
+304404	NP
+304409	NP
+NP
+NP
+PP
 NP
 304424	NP
-304426	PP
-NP
-304429	NP
-NP
-304434	NP
-NP
-NP
-304439	NP
-304441	NP
-304445	NP
-304447	NP
-304449	NP
-304452	NP
-NP
-NP
+304426	NP
 NP
 PP
+304430	NP
+304437	PP
+NP
+NP
+304441	NP
+NP
+304444	AdvP
+304453	NP
+PP
+304457	NP
 NP
 NP
 304461	NP
+304463	PP
+304465	PP
 NP
-304464	NP
 NP
-304467	PP
+PP
+304474	NP
+NP
+PP
+304478	NP
+304481	NP
+PP
+304484	NP
+304486	NP
+NP
+PP
+304493	NP
+PP
+304496	NP
+304498	NP
 NP
 NP
 NP
 PP
+304504	NP
 NP
-NP
-304475	PP
-NP
-NP
-PP
-NP
-NP
-PP
-NP
-NP
-PP
-NP
-NP
-PP
-NP
-NP
-PP
-NP
-NP
-PP
-NP
-NP
-PP
-NP
-NP
-PP
-NP
-NP
-PP
-NP
-NP
-PP
 NP
 NP
 304509	PP
-304513	NP
-NP
-304518	PP
-NP
-304524	PP
-NP
-304527	PP
-NP
-304530	NP
-304533	PP
+304519	PP
 NP
 NP
-304538	NP
-304540	NP
+NP
+304524	NP
+304526	NP
+NP
+304529	PP
+304531	NP
 NP
 NP
-304544	PP
+304535	NP
+304539	PP
 NP
-304547	NP
-304549	NP
+304544	NP
 NP
-304552	NP
 NP
-304555	NP
-304557	NP
+304551	NP
+PP
+304554	NP
 NP
-304561	PP
-NP
+304559	NP
 PP
 NP
 NP
-304568	NP
-304572	NP
-304574	NP
+NP
+304565	NP
+NP
+NP
+NP
+PP
+NP
+304573	NP
+NP
 304576	NP
-304578	NP
-304580	NP
-304582	NP
+304579	NP
+NP
+304582	PP
 304584	NP
 NP
 NP
+304590	NP
+NP
+304593	PP
+NP
+304601	NP
+NP
+NP
+304605	NP
+NP
+NP
+NP
+NP
+NP
+304612	NP
+NP
+304618	NP
 PP
 NP
-NP
-NP
-304594	NP
-PP
-NP
-304600	NP
-NP
-NP
-304611	NP
-304620	PP
-NP
-NP
-NP
-304626	NP
-NP
-304631	PP
-NP
+304623	PP
+304625	NP
+304631	NP
 NP
 NP
 PP
-304637	PP
+304636	NP
+304638	PP
+NP
+NP
+304646	PP
 NP
 NP
 NP
-304645	PP
+304651	NP
 NP
-NP
-304650	PP
-NP
-304653	PP
-304664	PP
-NP
-304667	NP
-304669	NP
 NP
 PP
+304657	NP
+304659	NP
+304661	NP
+304663	PP
 NP
 NP
-304679	PP
+NP
+304668	NP
+NP
+304671	PP
 NP
 NP
-304684	NP
-NP
-PP
+304676	PP
 NP
 NP
-304692	NP
+304680	NP
+304682	NP
+304688	PP
+304691	NP
+304693	NP
+NP
+304698	PP
 NP
 NP
-304697	PP
+304703	PP
 NP
 NP
-304702	NP
 NP
-304705	PP
 NP
-304711	NP
-304713	NP
-304717	PP
-NP
+304712	NP
+304714	NP
+304716	NP
+304718	NP
 304720	NP
+304722	NP
 304724	NP
-304727	NP
+304726	NP
+304737	PP
 NP
 NP
-NP
-PP
-NP
+304741	PP
 NP
 NP
-NP
-PP
-NP
-304740	NP
+304745	PP
 NP
 NP
+304749	PP
 NP
 NP
-NP
-PP
-NP
-NP
-PP
-NP
-304753	NP
+304755	NP
 NP
 304758	PP
 NP
+304765	NP
+PP
 NP
 NP
-304764	PP
+304770	NP
 NP
-304772	NP
+PP
+304774	NP
+304776	NP
 NP
-304775	NP
-NP
-304782	NP
-304788	PP
-304791	PP
-NP
-304794	NP
+PP
+304780	NP
+304783	PP
 NP
 NP
-304799	NP
 NP
+304792	NP
+NP
+NP
+NP
+PP
+NP
+NP
+304800	PP
 NP
 304804	NP
-NP
-304808	NP
-NP
-304812	PP
-304814	NP
-NP
-304819	PP
-NP
-304823	NP
-NP
-NP
-304829	NP
+304813	NP
 NP
 NP
 NP
-PP
+304821	NP
 NP
-304838	NP
+304828	PP
 NP
+304835	NP
 NP
-304843	NP
-NP
+304842	NP
 304848	PP
 NP
+304851	PP
 NP
-304856	PP
-NP
-NP
-NP
-304861	PP
+304854	NP
 NP
 NP
 NP
-304866	NP
+PP
+NP
+304862	PP
+304865	PP
 NP
 NP
-304870	NP
+NP
 304873	NP
-NP
-NP
+304875	NP
 PP
-304878	NP
-NP
-304881	PP
-NP
-304886	NP
-NP
-304891	NP
-NP
-NP
-304895	NP
-NP
-NP
-304899	NP
-NP
-NP
-304904	NP
-NP
-304907	NP
-304910	NP
-NP
-304913	NP
-304919	NP
-304921	PP
-304923	NP
-304925	PP
-NP
+304879	NP
+304881	NP
 PP
+304885	NP
+304887	NP
+PP
+304895	PP
 NP
 NP
 NP
 NP
 NP
 NP
+304906	NP
 NP
-304938	NP
 NP
-304944	PP
+304912	NP
+NP
+NP
+304916	NP
+304920	PP
+NP
+304924	PP
+304931	NP
+304933	PP
+NP
+NP
+304937	NP
+304940	PP
+NP
+304943	PP
 NP
 304947	PP
 NP
-304952	NP
+304953	NP
+304966	NP
+NP
+304969	PP
 NP
 NP
-NP
-NP
-304959	NP
-NP
-NP
-304965	PP
-NP
-304968	NP
-NP
-304972	NP
-304974	NP
+304980	NP
 PP
 NP
 NP
 NP
-304980	PP
-NP
-304984	PP
-NP
-304993	NP
-NP
-NP
-305002	NP
-NP
-NP
-305006	NP
-305008	NP
-305011	NP
-305015	NP
+304990	PP
 NP
 NP
 PP
+305001	NP
 NP
-305029	NP
-305031	NP
+305010	PP
 NP
-PP
-305035	NP
-305040	PP
+305028	NP
 NP
 NP
-305044	NP
+305032	NP
+305035	PP
+305038	NP
 NP
-305047	AdvP
-305055	NP
-PP
-305058	NP
+AdvP
+NP
+305051	NP
+305053	NP
 NP
 NP
+305057	NP
 305062	NP
-305064	PP
-305066	PP
 NP
 NP
-PP
-305074	NP
+305067	NP
+305075	NP
 NP
-PP
 305078	NP
-305081	NP
-PP
-305084	NP
-305086	NP
 NP
 PP
-305093	NP
+NP
+NP
+NP
+305095	PP
+NP
+NP
+305100	NP
+NP
+305117	NP
+305119	NP
+305124	NP
+NP
+NP
+NP
+305131	PP
+NP
+305135	PP
+305139	NP
 PP
-305096	NP
-305098	NP
 NP
-NP
-NP
-PP
-305104	NP
-NP
-NP
-NP
-305109	PP
-305116	PP
-NP
-NP
-NP
-NP
-305122	NP
-NP
-305125	PP
-NP
-NP
-NP
-NP
-305133	PP
-NP
-305138	NP
-NP
-NP
-305145	NP
-PP
 305148	NP
 NP
-305153	NP
-PP
+305152	NP
+305154	PP
 NP
-NP
-NP
-NP
-NP
-NP
+305157	PP
+305167	NP
 NP
 PP
 NP
-305165	NP
-NP
-305168	NP
-305170	NP
-NP
-305173	PP
 NP
 NP
+305175	NP
 NP
-305179	NP
-NP
-305182	PP
-NP
-305189	NP
+305183	NP
 NP
 NP
-305193	NP
+305190	PP
+305192	NP
+305196	NP
 NP
 NP
+305202	NP
+NP
+305207	PP
+305211	PP
+NP
+305214	PP
+305222	NP
 NP
 NP
+305227	PP
 NP
-305200	NP
+305232	PP
 NP
-305205	NP
+NP
+305237	NP
 PP
 NP
-305210	PP
-305212	NP
-305216	NP
-NP
-NP
-PP
-305221	NP
-305223	PP
-NP
-NP
-305229	PP
-NP
-NP
-NP
-305234	NP
-NP
-NP
-PP
-NP
-305240	NP
-305242	NP
+305241	PP
 305244	PP
 NP
 NP
+305248	NP
+305250	PP
+305255	NP
+PP
 NP
-305249	NP
+305265	PP
 NP
 PP
 NP
-NP
-305256	PP
-NP
-NP
-NP
-305261	NP
-305267	PP
-305270	NP
-NP
+305272	NP
 NP
 305276	PP
 NP
 NP
-305281	PP
+305280	NP
+305283	NP
 NP
 NP
+305290	PP
 NP
+305293	NP
 NP
-305289	NP
-305291	NP
-NP
-NP
-305295	NP
 305297	NP
-305299	NP
-305301	NP
-305310	PP
+305303	NP
 NP
 NP
-305314	PP
 NP
 NP
-305318	PP
+NP
+305311	NP
 NP
 NP
-305322	PP
+305317	NP
+NP
+305322	NP
+PP
+NP
+305328	NP
 NP
 NP
-305327	NP
-NP
-305330	PP
+305332	NP
 NP
 305335	NP
-PP
+NP
+305339	PP
 NP
 NP
-305340	NP
 NP
-PP
-305344	NP
 305346	NP
 NP
+305349	PP
+NP
+305352	PP
+NP
+NP
+305356	PP
+NP
+NP
+305361	NP
+305369	NP
+NP
+305378	NP
+NP
+NP
+NP
+305386	NP
+305391	NP
+NP
+305394	NP
+305396	NP
+NP
+305401	NP
+305403	NP
+NP
+305406	NP
+305408	NP
+305411	NP
+NP
+305414	NP
+305416	NP
+305420	NP
+305425	NP
+NP
+NP
+NP
 PP
-305350	NP
-305353	PP
-NP
-NP
-NP
-305360	NP
-NP
-NP
-NP
-PP
-NP
-NP
-305368	PP
-NP
-305372	NP
-305380	NP
-NP
-NP
-NP
-305387	NP
-NP
-305394	PP
-NP
-305400	NP
-NP
-305407	NP
-305411	PP
-NP
-305414	PP
-NP
-305417	NP
-NP
-NP
-NP
-PP
-NP
-305425	PP
-305427	PP
-NP
-NP
 NP
 305433	NP
-305435	NP
-PP
-305438	NP
-305440	NP
-PP
-305443	NP
-305445	NP
-PP
-305452	PP
 NP
 NP
 NP
-NP
-NP
-NP
-305463	NP
-NP
-NP
-305468	NP
-NP
-NP
-305472	NP
-305475	PP
-NP
-305479	PP
-305484	NP
-305486	PP
-NP
-NP
-NP
-305491	PP
-NP
-305494	PP
-NP
-305498	PP
-NP
-305504	NP
-305514	NP
-NP
-305517	PP
-NP
-NP
-305526	NP
 PP
 NP
 NP
+305447	NP
+305449	NP
+305451	PP
 NP
-305536	PP
+305458	NP
+305460	NP
+PP
 NP
+NP
+305465	PP
+NP
+NP
+NP
+NP
+305471	PP
+305483	NP
+PP
+NP
+305489	NP
+NP
+305493	NP
+305495	NP
+305497	PP
+NP
+NP
+NP
+305503	NP
+NP
+305506	NP
+NP
+NP
+NP
+NP
+305514	PP
+NP
+305517	NP
+305519	PP
+305521	NP
+305527	NP
+NP
+305533	NP
+305537	NP
 NP
 PP
-305547	NP
 NP
-305556	PP
+305543	NP
 NP
-305570	NP
+305546	PP
+NP
+305549	PP
 NP
 NP
-305574	NP
-305577	PP
+305553	NP
+305555	PP
+305557	NP
+305561	NP
+305563	PP
+NP
+305569	NP
+305575	PP
+NP
+305578	NP
 305580	NP
 NP
-AdvP
+305583	PP
 NP
-305592	NP
-305594	NP
-NP
+305588	NP
+305591	NP
 NP
 305598	NP
-305601	NP
+305601	PP
+NP
+305608	NP
 NP
 NP
-305606	NP
-305611	NP
 NP
-305614	NP
+NP
+NP
+305617	NP
+305619	NP
+NP
+305623	PP
+NP
+305626	NP
 NP
 PP
+305632	NP
+PP
+NP
+305640	NP
+305642	NP
+305644	NP
 NP
 NP
 NP
-305629	PP
+305649	NP
 NP
 NP
-305634	NP
 NP
-305648	NP
-305650	NP
-305655	NP
+305656	NP
 NP
 NP
 NP
 305662	PP
 NP
-305666	PP
-305669	NP
+NP
+305673	PP
+NP
+NP
+NP
+305678	PP
+NP
+NP
+NP
+NP
+305686	NP
+NP
 PP
-NP
-305677	NP
-NP
-NP
-305681	PP
-NP
-305684	PP
-305693	NP
-NP
 PP
-NP
-NP
-NP
-NP
-NP
+305693	PP
+305698	NP
+305700	NP
+305703	NP
+PP
 305706	NP
+305709	NP
+305714	NP
+305717	PP
+NP
+305720	NP
+305724	NP
+305727	NP
 NP
 NP
-305712	PP
-NP
-305717	NP
 NP
 NP
-305722	NP
-NP
-305727	PP
-305731	PP
-NP
-305734	PP
-305742	NP
 NP
 NP
-305747	PP
+305736	PP
 NP
-305750	PP
+PP
+305740	NP
+NP
+305748	NP
+PP
 NP
 NP
 305754	NP
 PP
 NP
-305758	PP
-305761	PP
-NP
-NP
-305765	NP
-305767	PP
-305772	NP
-PP
-NP
-305781	PP
 NP
 PP
 NP
-305788	NP
+305770	NP
 NP
-305791	PP
-NP
-NP
-305795	NP
-305797	NP
+305775	NP
 NP
 NP
-305803	PP
-NP
-NP
-NP
-305808	NP
-305814	NP
-NP
-NP
-NP
-NP
-NP
-305822	NP
-NP
-NP
-305828	NP
-NP
-305833	NP
+305780	NP
+305784	NP
 PP
 NP
-305838	NP
+NP
+305791	NP
+PP
+NP
+305798	PP
+305800	NP
 NP
 NP
 NP
-NP
-305844	NP
-NP
-305848	PP
+305805	NP
 NP
 NP
+305810	NP
 NP
-305853	NP
-NP
-305856	PP
-NP
-305859	PP
+305814	PP
 NP
 NP
-305863	PP
+NP
+305821	PP
+NP
+305827	NP
+305829	NP
+305832	PP
 NP
 NP
-305868	NP
+NP
+305837	PP
+NP
+NP
+NP
+305842	NP
+305851	NP
+NP
+PP
+305856	NP
+NP
+PP
+305860	NP
+305864	NP
+305866	NP
+NP
+305869	NP
+NP
 305872	NP
-NP
-305879	NP
-NP
-NP
-NP
-305886	NP
-305890	NP
-NP
-305893	NP
-NP
-NP
-305899	NP
-NP
-NP
-NP
-305904	NP
-305907	NP
-NP
-NP
-305911	NP
-305915	NP
-305918	NP
-NP
-NP
-NP
-PP
-NP
-305926	NP
-NP
-NP
-NP
+305875	NP
 PP
 NP
 NP
-305939	NP
+305881	PP
+305883	NP
+NP
+NP
+NP
+305892	NP
+NP
+PP
+NP
+305898	NP
+305901	NP
+NP
+305905	NP
+305910	NP
+305915	PP
+305920	NP
+305929	NP
+305933	NP
+NP
+PP
+NP
+PP
+NP
 305941	NP
-305943	PP
 NP
-305947	NP
-305949	NP
+305945	NP
+NP
+PP
+NP
+305956	PP
+NP
+305965	PP
+NP
+305974	NP
+305977	PP
+NP
+NP
+305982	NP
+NP
 PP
 NP
 NP
-305954	PP
 NP
-NP
-NP
-NP
-305960	PP
-305970	NP
-PP
-NP
-305975	NP
-NP
-305978	NP
-305980	NP
-305982	PP
-NP
-NP
-NP
-305987	NP
 NP
 305990	NP
+305992	PP
 NP
-NP
-NP
-NP
-305998	PP
-NP
-306001	NP
-306003	PP
-NP
-306010	NP
-NP
+306002	PP
+PP
+306007	PP
+306011	PP
 306015	NP
+306017	NP
 306019	NP
 NP
-PP
+306024	NP
+306026	PP
 NP
-306025	NP
-NP
-PP
-NP
-306030	PP
-NP
-NP
-306034	NP
-306036	PP
-NP
-306041	NP
-306043	PP
-NP
-306049	NP
-306053	PP
+306031	NP
+AdjP
+306038	NP
 NP
 NP
-306057	NP
 NP
-306060	PP
 NP
-306063	NP
+306044	PP
+306048	NP
+306050	PP
+306055	NP
+NP
+NP
+306060	NP
+NP
+NP
+NP
 306066	NP
+306071	PP
 NP
-306072	NP
-306075	PP
-NP
-306079	NP
-NP
-NP
-NP
-NP
-NP
-306087	NP
-306089	NP
-NP
-306092	PP
-NP
-306095	NP
+306074	PP
 NP
 PP
-306101	NP
-PP
 NP
-306107	NP
-306109	NP
-306111	NP
-NP
-NP
-NP
-306116	NP
-NP
-NP
-NP
-306122	NP
-NP
-NP
-NP
-306128	PP
-NP
-NP
-306136	PP
-NP
-NP
-NP
-306141	PP
-NP
-NP
-NP
-NP
-306149	NP
+306081	PP
 NP
 PP
-PP
-306155	PP
-306158	NP
-306160	NP
-306163	NP
-PP
-306166	NP
-306169	NP
-306174	NP
-306177	PP
 NP
-306180	NP
-306183	NP
-306186	NP
+306090	PP
+NP
+306094	PP
+NP
+306098	NP
+306102	NP
 NP
 NP
+306113	NP
+NP
+NP
+306120	NP
+NP
+NP
+306130	NP
+NP
+NP
+306140	NP
+306142	NP
+306145	NP
+306147	NP
+306150	NP
+306152	NP
+306159	PP
 NP
 NP
 NP
 NP
-306195	PP
+306165	PP
 NP
-PP
+NP
+306182	NP
+306184	NP
+NP
+NP
+306188	NP
+NP
+NP
+NP
+306193	NP
+306198	NP
+NP
 NP
 NP
 306205	NP
-PP
+NP
+306213	NP
+306215	PP
 NP
 NP
-306212	NP
-PP
+306219	PP
 NP
 NP
-PP
+306225	NP
 NP
-306227	NP
-NP
-306231	NP
-NP
-NP
-306236	NP
-306239	NP
-PP
-NP
-NP
-306245	NP
-PP
-NP
-306252	PP
+306228	NP
 NP
 NP
 NP
-NP
-306258	NP
-NP
-NP
-306263	NP
-NP
-306267	PP
+306233	PP
 NP
 NP
+306240	PP
 NP
-306273	PP
+306244	NP
 NP
-306278	NP
-306280	NP
-306282	PP
+306248	NP
+NP
+306251	NP
+306255	PP
+306259	PP
 NP
 NP
+306264	NP
+306266	PP
+NP
+306269	PP
+306271	NP
+NP
+306274	NP
+306279	NP
+306283	NP
 NP
 306287	PP
 NP
+306293	PP
+306301	NP
+306307	PP
 NP
 NP
-306292	NP
-306299	NP
-NP
-PP
-306304	NP
-NP
-PP
-306308	NP
-306312	NP
+306311	NP
+306313	NP
+306315	PP
 NP
 NP
-306316	NP
-NP
-306319	NP
-306321	NP
-PP
-NP
-NP
+306325	NP
 306327	PP
 306329	NP
+306332	PP
+306334	PP
+NP
+306337	PP
+NP
+306344	PP
+NP
+306350	NP
+306357	NP
 NP
 NP
 NP
-306336	NP
-NP
-PP
-NP
-306342	NP
-306345	NP
-NP
-306349	NP
-306353	NP
-306358	PP
-306362	NP
+306365	NP
+306367	NP
 306370	NP
 306373	NP
-NP
-PP
-NP
-PP
-NP
 306380	NP
 NP
-306383	NP
+306383	PP
+NP
+NP
+NP
+NP
+NP
+NP
+306391	NP
+NP
+306395	NP
+306399	PP
+NP
+306407	NP
+306409	NP
+NP
+306415	PP
+NP
+NP
+306419	PP
+NP
+NP
+306423	NP
+306425	PP
+306427	NP
+NP
+NP
+NP
+NP
+306434	PP
+NP
+NP
+NP
+NP
+306441	PP
+306445	PP
+NP
+306448	PP
+NP
+306452	NP
+NP
+NP
 NP
 PP
 NP
-306393	PP
-NP
-306402	PP
-NP
-306410	NP
-306412	PP
-NP
-NP
-306417	NP
-NP
-PP
-NP
-NP
-NP
-NP
-NP
-306426	PP
-NP
-306435	PP
-PP
-306440	PP
-306444	PP
-306448	NP
-NP
-306451	NP
-NP
-306455	NP
-306457	PP
-NP
-306461	NP
-AdjP
 306468	NP
+306470	NP
+NP
+306476	NP
 NP
 NP
 NP
+306481	NP
 NP
-306474	PP
-306477	NP
-306479	PP
-306483	NP
-NP
-NP
+306484	NP
 306488	NP
 NP
 NP
+306492	NP
 NP
-306494	NP
-306499	PP
+306497	PP
 NP
-306502	PP
+306503	NP
+PP
+306509	NP
+306513	PP
+NP
+NP
+NP
+306518	NP
+306520	PP
+306526	NP
+306528	PP
+NP
+306531	NP
+NP
+306535	PP
+NP
+NP
+NP
+306540	PP
+NP
+NP
+NP
+306545	NP
+306547	PP
+NP
+306550	PP
+NP
+306553	PP
+NP
+306558	NP
+NP
+306564	NP
+306568	NP
+NP
+NP
+306575	PP
+NP
+NP
 NP
 PP
 NP
-306509	PP
+306583	NP
+306585	NP
+306587	PP
+306589	NP
 NP
 PP
-NP
-306517	PP
-NP
-306521	PP
-NP
-306525	NP
-306528	NP
-NP
-NP
-306538	NP
-NP
-NP
-306544	NP
-NP
-NP
-306553	NP
-NP
-NP
-306559	NP
-306561	NP
-306563	NP
-306565	NP
-306567	NP
-306569	NP
-306574	PP
-NP
-NP
-NP
-NP
-306580	PP
-NP
 NP
 306594	NP
 NP
-NP
-NP
 306599	NP
+306601	PP
 NP
+306605	PP
 NP
-NP
-306604	NP
 306609	NP
+306611	NP
+NP
+NP
+306618	NP
 NP
 NP
 NP
-306616	NP
-NP
-306622	NP
-306624	PP
-NP
-NP
-306628	PP
-NP
-NP
-306632	NP
-NP
-306635	NP
-NP
-NP
-NP
-306640	PP
-NP
-NP
-306646	PP
-NP
-306649	NP
-NP
-306653	NP
-NP
-306656	NP
-306659	PP
-306663	PP
-NP
-NP
-306668	NP
-PP
-NP
-306672	PP
-NP
-NP
-306676	NP
-306681	NP
-306684	NP
-NP
-306687	PP
-NP
-306692	PP
-306700	NP
-306705	PP
-NP
-NP
-NP
-306710	NP
-306712	PP
-NP
-NP
-306722	NP
-306724	PP
-306726	NP
-306728	PP
-306730	PP
-NP
-306733	PP
-NP
-306739	PP
-NP
-306742	NP
-306749	NP
-NP
-NP
-NP
-306756	NP
-306758	NP
-306761	NP
-306763	NP
-306768	NP
-NP
-306771	PP
+306624	NP
 NP
 NP
 NP
 NP
+306631	NP
 NP
-NP
-306779	NP
-NP
-306782	NP
-306786	PP
-NP
-306791	NP
-306793	NP
-NP
-306798	PP
-NP
-NP
-306802	PP
-NP
-NP
-NP
-306807	PP
-NP
-NP
-NP
-NP
-NP
-306815	PP
-NP
-NP
-NP
-NP
-306822	PP
-306824	PP
-NP
-306827	PP
-NP
-306830	NP
-NP
+306636	NP
 NP
 NP
 PP
 NP
-306843	NP
-306845	NP
-NP
-306851	NP
+306644	NP
 NP
 NP
-NP
-306856	NP
-NP
-NP
-306861	NP
-NP
-NP
-306865	NP
-NP
-306870	PP
-NP
-306875	NP
-PP
-306882	NP
-306885	PP
+306649	PP
 NP
 NP
 NP
-306890	NP
-306892	PP
-306897	NP
-306899	PP
-NP
-306902	NP
-NP
-306905	PP
 NP
 NP
 NP
-306910	PP
 NP
-NP
-NP
-306915	NP
-306917	PP
-NP
-306920	PP
-NP
-306923	PP
-NP
-306926	NP
-NP
-306932	NP
-306936	NP
-NP
-NP
-306942	PP
-NP
-NP
-NP
+306660	NP
 PP
 NP
-306950	NP
-306952	NP
-306954	PP
-NP
-NP
-PP
-NP
-306960	NP
-NP
-306963	NP
-306965	PP
-NP
-306969	PP
-NP
-306973	NP
-306975	NP
-NP
-NP
-306980	NP
-NP
-NP
-NP
-306986	NP
-NP
-NP
-NP
-NP
-306993	NP
-NP
-306997	NP
-NP
-NP
-PP
-NP
-307004	NP
-NP
-NP
-307009	PP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-307019	NP
-PP
-NP
-307025	PP
+306666	PP
 NP
 PP
 NP
@@ -49232,1480 +49232,1480 @@ NP
 PP
 NP
 AdjP
-307036	NP
+306678	NP
 NP
 NP
 PP
 NP
-307042	NP
+306685	NP
+306687	NP
+NP
+NP
+306691	PP
+306693	NP
+NP
+NP
+306699	PP
+306701	NP
+306707	PP
+NP
+306710	PP
+NP
+NP
+306714	PP
+NP
+NP
+NP
+NP
+306720	PP
+NP
+NP
+NP
+306725	NP
+NP
+306730	NP
+NP
+306733	NP
+NP
+NP
+306737	NP
+NP
+NP
+306743	NP
+NP
+306747	NP
+NP
+306751	NP
+NP
+NP
+NP
+NP
+306759	AdvP
+306764	NP
+NP
+306770	NP
+NP
+306775	PP
+306777	NP
+NP
+306782	PP
+306787	NP
+NP
+NP
+NP
+NP
+NP
+PP
+NP
+306798	NP
+NP
+306801	NP
+NP
+PP
+NP
+306807	NP
+NP
+306811	PP
+NP
+NP
+306815	NP
+PP
+NP
+NP
+306820	NP
+NP
+NP
+NP
+NP
+306826	NP
+NP
+306829	NP
+306831	PP
+NP
+NP
+NP
+306838	NP
+306841	PP
+NP
+NP
+NP
+306846	PP
+NP
+NP
+306853	PP
+NP
+306857	NP
+NP
+NP
+NP
+NP
+306864	NP
+PP
+NP
+306868	NP
+NP
+306874	NP
+NP
+NP
+NP
+NP
+NP
+PP
+NP
+306885	NP
+306888	NP
+NP
+PP
+NP
+306894	NP
+306897	PP
+306899	NP
+306902	NP
+NP
+NP
+306907	NP
+NP
+306910	NP
+306912	NP
+NP
+PP
+NP
+306919	NP
+PP
+306924	NP
+NP
+306927	NP
+PP
+NP
+306931	NP
+306933	NP
+NP
+PP
+306937	NP
+306939	NP
+NP
+NP
+306947	NP
+NP
+NP
+306959	NP
+306965	NP
+306978	NP
+306983	NP
+NP
+306987	NP
+NP
+306990	NP
+306992	NP
+NP
+PP
+NP
+307000	NP
+PP
+307005	NP
+NP
+307010	NP
+NP
+307013	NP
+307015	NP
+PP
+NP
+NP
+307026	NP
+307028	NP
+NP
+PP
+NP
+NP
+NP
+307037	NP
+NP
 307044	NP
 NP
+PP
 NP
-307048	PP
 307050	NP
 NP
 NP
-307055	PP
-307057	NP
-307062	PP
-NP
-307065	PP
+307054	PP
 NP
 NP
-307069	PP
+307058	PP
 NP
 NP
+307064	PP
 NP
 NP
-307075	PP
+307068	NP
+307070	NP
+NP
+PP
+307074	NP
 NP
 NP
+307079	NP
 NP
-307080	NP
+307083	NP
 NP
-307084	NP
+307086	NP
 NP
+PP
 NP
-NP
-NP
-307090	NP
-NP
-NP
-307095	NP
+307093	PP
 NP
 NP
 NP
-307100	NP
+307098	PP
 NP
 NP
 NP
+307103	PP
 NP
-307106	AdvP
-307111	NP
-NP
-307118	NP
-NP
-307123	PP
-307125	NP
-NP
-307129	PP
-307133	NP
 NP
 NP
 NP
 NP
 NP
 PP
+307115	NP
 NP
-307143	NP
+307121	PP
+NP
+NP
+NP
+NP
+307128	PP
+NP
+NP
+NP
+NP
+NP
+NP
+307136	NP
 NP
 307146	NP
 NP
+307155	NP
+NP
+307160	PP
+307162	NP
+307167	NP
+307169	NP
+NP
 PP
 NP
-307151	NP
-NP
-307155	PP
-NP
-NP
-307159	NP
+307175	NP
 PP
 NP
-NP
-307164	NP
-NP
-NP
-NP
-NP
-307170	NP
-NP
-NP
-307174	PP
-NP
-NP
-NP
-307180	NP
-307182	PP
-NP
-NP
-NP
-307187	PP
-NP
-NP
-307194	PP
-NP
-307198	NP
-NP
-NP
-NP
-NP
-307205	NP
 PP
 NP
-307209	NP
+307190	NP
+307195	PP
+307199	PP
 NP
-307214	NP
 NP
-NP
-NP
+307207	NP
 NP
 NP
 PP
 NP
-307224	NP
-307227	NP
+307213	NP
+NP
+NP
+307218	NP
+NP
+307221	PP
+NP
+307225	NP
+NP
+NP
+NP
+NP
+NP
+NP
+NP
+307235	NP
+307242	NP
+NP
+AdjP
+307246	PP
 NP
 PP
 NP
-307233	NP
-307235	PP
-NP
-307238	NP
-NP
-NP
-307243	NP
-NP
-307246	NP
-307248	NP
+307252	NP
 NP
 PP
 NP
-307254	NP
-PP
-307258	NP
+NP
 NP
 307261	NP
-PP
 NP
-307265	NP
 307267	NP
+PP
+307270	NP
+NP
+307273	NP
+NP
+307277	PP
+307283	NP
+NP
+307286	NP
+NP
+NP
+307290	PP
 NP
 PP
-NP
-307272	NP
-NP
-NP
-307280	NP
-NP
-NP
-307289	NP
 307294	NP
-307306	NP
-307310	NP
 NP
-307313	NP
 NP
-307316	NP
-307318	NP
-NP
+307300	NP
 PP
 NP
-307326	NP
+NP
+NP
+NP
+307309	PP
 PP
-307330	NP
-NP
-307334	NP
+307315	PP
 NP
 NP
-307338	NP
+NP
+307320	NP
+307323	NP
+307325	NP
+307328	NP
+307337	NP
+307341	NP
+NP
 PP
 NP
 NP
 307349	NP
-307351	NP
 NP
+NP
+NP
+307354	PP
+NP
+NP
+307361	NP
+NP
+NP
+NP
+307366	NP
+307368	NP
+NP
+NP
+307373	NP
+307376	PP
+NP
+NP
+NP
+307381	PP
+NP
+NP
+NP
+NP
+307390	NP
+307394	NP
+PP
+307400	NP
+NP
+307403	NP
+307407	NP
+307412	NP
+NP
+307415	NP
+NP
+NP
+307429	PP
+NP
+307432	PP
+307438	PP
+NP
+NP
+307443	NP
 PP
 NP
 NP
 NP
-307359	NP
-NP
-307364	NP
-NP
 PP
 NP
-307370	NP
+307451	NP
+307462	NP
+307466	NP
 NP
 NP
-PP
-NP
-NP
-307377	PP
-NP
-NP
-307383	PP
-NP
-NP
-307387	NP
-307389	NP
-NP
-PP
-NP
-NP
-NP
-307397	NP
-NP
-307401	NP
-NP
-NP
-NP
-PP
-NP
-307409	PP
-NP
-NP
-NP
-307414	PP
-NP
-NP
-NP
-307419	PP
-NP
-NP
-NP
-NP
-NP
-NP
-PP
-307430	NP
-NP
-307436	PP
-NP
-NP
-NP
-NP
-307443	PP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
-307460	NP
-NP
-307468	NP
-NP
+307471	NP
 307473	PP
+307475	NP
+307478	NP
+307480	NP
+307483	NP
+307494	NP
+307502	NP
+307506	PP
 NP
-307479	NP
-307481	NP
-NP
-PP
-NP
-307487	NP
-PP
-NP
-PP
-NP
-307499	NP
-307504	PP
-307508	PP
-NP
-NP
+307510	PP
+307513	NP
 307515	NP
+307519	NP
+307527	PP
+307529	NP
+307531	PP
 NP
-NP
-PP
-NP
-307521	NP
-NP
-NP
-307526	NP
-NP
-307529	PP
-NP
-307533	NP
-NP
-NP
-NP
-NP
-NP
-NP
+307535	NP
+307538	NP
 NP
 307542	NP
-307549	NP
+307546	PP
 NP
-AdjP
-307553	PP
-NP
+307551	NP
+307557	NP
+307560	NP
+307562	NP
 PP
-NP
-307559	NP
-NP
-PP
-NP
-NP
-NP
-307568	NP
-NP
-307573	NP
-PP
-NP
-NP
-307578	NP
-NP
-307582	PP
+307570	NP
+307576	NP
+307585	NP
 307587	NP
+307591	NP
+307594	NP
+307604	NP
+NP
+307610	PP
+NP
+307614	PP
 NP
 NP
-NP
-NP
-307593	PP
-NP
-PP
-307597	NP
-NP
-NP
-307603	NP
-PP
-NP
-NP
-NP
-NP
-307612	PP
-PP
-307618	PP
-NP
-NP
+307619	NP
 NP
 307623	NP
-307625	NP
-307627	NP
-307629	NP
-307636	NP
-307639	NP
-NP
-PP
+307626	NP
 NP
 NP
-307646	NP
+307631	NP
+NP
+NP
+307635	NP
+307641	NP
+NP
+NP
+307646	PP
 NP
 NP
 NP
 307651	PP
+307653	NP
+307655	PP
+NP
+307658	NP
+307660	NP
+307662	PP
 NP
 NP
-307655	NP
+307667	PP
+NP
+307674	NP
+NP
+307679	NP
+307681	NP
+NP
+NP
+307685	NP
+NP
+NP
+307693	PP
 NP
 NP
 NP
 NP
-307661	NP
 NP
 NP
-307666	NP
-307668	PP
+307701	NP
+NP
+307704	NP
 NP
 NP
-NP
-307673	PP
-NP
-NP
-NP
-NP
-307682	NP
-307686	NP
 PP
-307692	NP
+307710	NP
 NP
 NP
-307696	NP
-307700	NP
-NP
-307703	NP
-NP
-NP
-307715	PP
-NP
-307718	PP
-307723	PP
-NP
-NP
-307728	NP
 PP
 NP
 NP
 NP
+NP
+307721	NP
 PP
 NP
-307736	NP
+307726	NP
+NP
+PP
+307733	NP
+NP
+307736	PP
+NP
+NP
 307745	NP
-307748	NP
+NP
+PP
+NP
+307751	NP
 NP
 NP
-307753	NP
-307755	PP
-307757	NP
-307759	NP
-307761	NP
-307763	NP
-307775	NP
-307781	NP
+307758	NP
+307762	NP
+PP
+NP
+NP
+PP
+NP
+307779	NP
 307785	PP
 NP
-307789	PP
-307792	NP
 NP
-307796	NP
-307804	PP
-307806	NP
-307808	PP
-NP
-307811	NP
-307814	NP
-NP
-307817	NP
-307820	PP
-NP
-307824	NP
-307828	NP
-307831	NP
-307833	NP
+307800	AdvP
+307802	PP
 PP
-307840	NP
-307844	NP
+NP
+307807	NP
+NP
+307813	PP
+307819	NP
+307826	PP
+307828	NP
+NP
+NP
+PP
+307836	NP
+NP
+NP
+NP
+PP
+307842	PP
+NP
+NP
+NP
+NP
 307852	NP
 NP
-307857	NP
+NP
+307856	NP
+NP
+NP
 307860	NP
-307867	NP
+307862	NP
 NP
-307873	PP
-NP
-307877	PP
+307865	NP
 NP
 NP
-307881	NP
+307870	PP
+307873	NP
 NP
-307885	NP
-307888	NP
+307879	NP
+307883	NP
+307891	NP
 NP
-NP
-307893	NP
-NP
+307894	NP
 NP
 307897	NP
+NP
+PP
 307901	NP
+307923	NP
+307927	NP
 NP
 NP
-307906	PP
 NP
 NP
 NP
+307934	PP
+307936	NP
+307938	NP
+307940	NP
+307942	PP
+307945	AdvP
+307949	NP
+NP
+307952	PP
 PP
-307912	NP
-307914	PP
-NP
-307917	NP
-307919	NP
-307921	PP
-NP
-NP
-307926	PP
-NP
-307931	NP
-NP
-307935	NP
-307937	NP
-NP
-NP
-307941	NP
-NP
-NP
-307947	PP
+307955	PP
 NP
 NP
 NP
 NP
+307969	NP
 NP
 NP
-307955	NP
-NP
-307958	NP
-NP
-NP
-PP
-307964	NP
-NP
-NP
-PP
-NP
-NP
-NP
-NP
-307975	NP
-PP
-NP
+307978	PP
 307981	NP
+307984	NP
+307986	NP
 NP
+307990	NP
+307992	NP
 PP
-307987	NP
-NP
-307990	PP
-NP
-NP
 307998	NP
+308000	PP
+308005	NP
+NP
+NP
+NP
+308012	NP
+NP
+NP
+308019	PP
+NP
+NP
+308033	NP
+NP
+NP
+PP
+308038	NP
+308040	NP
+PP
 NP
 PP
 NP
-308004	NP
 NP
-NP
-308010	NP
-308014	NP
-PP
-NP
-NP
-PP
-NP
-308031	NP
-308036	PP
-NP
-NP
-308049	AdvP
-308052	PP
-PP
-NP
+308047	NP
+308050	PP
+308054	NP
 308056	NP
-NP
-308061	PP
-308065	NP
-308070	PP
-NP
+308058	NP
+308061	NP
 NP
 NP
 PP
-308078	NP
-NP
+308068	NP
 NP
 NP
 PP
-308084	PP
+308073	NP
+308076	PP
 NP
+308084	NP
 NP
-NP
-NP
+308087	AdvP
 308093	NP
+308098	AdvP
+308100	PP
+308103	NP
 NP
 NP
-NP
-NP
-NP
-308100	NP
-308102	NP
-NP
-308105	NP
-NP
-NP
-308109	PP
+AdvP
+308108	PP
 308111	NP
-NP
-308116	NP
-308119	NP
-308126	NP
-NP
-308129	NP
-NP
+AdvP
+308114	PP
+308117	NP
+AdvP
+308120	PP
+308123	NP
+308126	AdvP
+308128	PP
 308132	NP
 NP
+308135	NP
+NP
+NP
+308140	PP
+NP
+NP
+308144	NP
+NP
+308147	PP
+NP
+308153	NP
+308155	PP
+NP
+PP
+308159	PP
+308161	NP
+NP
+NP
 PP
 NP
-308154	NP
-308156	NP
+308170	NP
+308172	NP
+308174	NP
 NP
 NP
+308180	NP
 NP
+308185	NP
+308187	NP
 NP
-NP
-308163	PP
-308165	NP
-NP
-308168	NP
-308170	PP
-308173	AdvP
-308176	NP
-NP
-308179	PP
+308191	NP
 PP
-308182	PP
+NP
+NP
+308197	NP
 NP
 NP
 NP
+PP
 NP
-308194	NP
-NP
-NP
-308202	PP
-308204	NP
-308207	NP
 308209	NP
 NP
-308212	NP
-308214	NP
-PP
+308212	PP
+NP
+NP
+NP
 308220	NP
-308222	PP
-308227	NP
 NP
 NP
 NP
-308234	NP
+308225	NP
+NP
+308230	NP
+308232	PP
+NP
+308239	PP
+NP
+308244	NP
+NP
+308248	NP
 NP
 NP
-308240	PP
+308254	NP
+308256	NP
+308260	PP
+308262	NP
 NP
+308265	PP
+308267	NP
 NP
-308252	NP
-NP
-NP
-PP
-308257	NP
-308259	NP
-PP
-NP
-PP
-NP
-NP
-308266	NP
 308270	PP
 308272	NP
-308274	NP
-308276	NP
-308279	NP
+NP
+308280	NP
 NP
 NP
-PP
-308285	NP
+308291	NP
+308296	NP
 NP
 NP
-PP
-308290	NP
-308293	PP
+308300	NP
 NP
-308299	NP
-NP
-308302	AdvP
-308306	NP
-308310	AdvP
-308312	PP
-308315	NP
-NP
-NP
-AdvP
-308320	PP
-308323	NP
-AdvP
-308326	PP
-308329	NP
-AdvP
-308332	PP
-308335	NP
-308337	AdvP
-308339	PP
-308342	NP
-NP
-308345	NP
-NP
-NP
-308349	PP
-NP
-NP
-308353	NP
-NP
-308356	PP
-NP
-308361	NP
-308363	PP
-NP
-PP
-308367	PP
-308369	NP
-NP
-NP
-PP
-NP
-308377	NP
-308379	NP
-308381	NP
-NP
-NP
-308386	NP
-NP
-308390	NP
-NP
-NP
-308395	NP
-PP
-NP
-NP
-308401	NP
-NP
-NP
-NP
-PP
-NP
-308412	NP
-NP
-308415	PP
-NP
-NP
-NP
-308421	NP
-NP
-NP
-NP
-308426	NP
-NP
-308430	NP
-308432	PP
-NP
-308439	PP
-NP
-308444	NP
-NP
-NP
-NP
-NP
-308451	NP
-308453	NP
-308456	PP
-308458	NP
-NP
-308461	PP
-308463	NP
-NP
-308466	PP
-308468	NP
-NP
-308475	NP
-NP
-NP
-308483	NP
-308487	NP
-NP
-NP
-308491	NP
-NP
-308500	NP
+308310	NP
 AdjP
 NP
-308504	NP
+308314	NP
 NP
 NP
-308513	PP
-NP
-NP
-NP
-NP
-NP
-308524	NP
+308323	PP
 NP
 NP
 NP
-308531	PP
 NP
+NP
+308334	NP
+NP
+NP
+NP
+308341	PP
+NP
+NP
+308354	NP
+308359	NP
+NP
+308362	NP
+NP
+NP
+308366	NP
+308368	NP
+308370	NP
+NP
+NP
+308376	NP
+308381	NP
+308385	PP
+308390	PP
+308395	NP
+308397	NP
+NP
+308400	PP
+NP
+NP
+NP
+308407	NP
+308417	NP
+308422	NP
+NP
+NP
+NP
+NP
+308429	NP
+NP
+PP
+NP
+308435	PP
+NP
+308438	NP
+NP
+308442	PP
+NP
+NP
+308446	NP
+308448	PP
+308450	NP
+308455	PP
+NP
+308460	NP
+NP
+NP
+NP
+NP
+NP
+NP
+NP
+308469	NP
+NP
+308474	PP
+NP
+308477	PP
+NP
+NP
+308481	NP
+308484	NP
+308486	NP
+308490	NP
+308492	PP
+NP
+308496	PP
+NP
+308499	NP
+308501	NP
+308503	PP
+308508	PP
+NP
+NP
+NP
+NP
+NP
+308517	NP
+308519	NP
+308521	NP
+308523	NP
+308527	PP
+308529	NP
 NP
 308541	NP
-308544	NP
+308543	NP
+NP
 NP
 308547	NP
 NP
-NP
 308551	NP
-308553	NP
-308555	NP
+308553	PP
+308555	PP
+NP
+308558	PP
 NP
 NP
-308560	NP
 308564	NP
-308567	PP
-308571	PP
-308573	NP
-308575	NP
-NP
-308578	PP
-NP
-NP
-NP
-308583	NP
-308593	NP
-308598	NP
+308566	PP
+308568	NP
+308570	NP
+PP
+PP
+308576	NP
 NP
 NP
+308581	NP
 NP
-NP
-308604	NP
-NP
+308585	NP
 PP
 NP
-308610	PP
 NP
-308613	NP
+308590	NP
+308592	PP
+308595	NP
+308597	PP
+308599	NP
 NP
-308616	PP
+308602	PP
 NP
-NP
-308620	NP
-308622	PP
-308624	NP
-308629	PP
-NP
-308634	NP
+308605	PP
 NP
 NP
+308609	NP
+NP
+308612	PP
+NP
+NP
+308619	PP
+NP
+308623	NP
+NP
+NP
+308627	NP
+PP
+NP
+NP
+308639	NP
 NP
 NP
 NP
+308647	NP
+308651	NP
+308656	PP
 NP
-NP
-NP
-NP
-308646	PP
-NP
-308649	PP
-NP
-NP
-NP
-308654	NP
-308656	NP
-308659	NP
-308661	PP
-NP
-308665	PP
-NP
+308663	PP
 308668	NP
+308671	NP
 NP
-308671	PP
-308674	PP
-NP
-NP
-NP
-NP
-NP
-308682	NP
-308684	NP
-308686	NP
-308688	NP
-308691	PP
+PP
+308677	NP
+308687	PP
 308693	NP
 NP
-308701	NP
-308703	NP
+308697	PP
 NP
 NP
-308707	NP
-NP
-308711	NP
-PP
-308714	PP
-NP
-308717	PP
-NP
-NP
-308722	NP
-308724	PP
-NP
-308727	NP
-PP
-PP
-308732	NP
-NP
-NP
-308737	NP
-NP
-308741	NP
-PP
+308701	PP
 NP
 NP
 NP
-308747	PP
-308749	NP
-308751	PP
+308710	NP
+308712	NP
+NP
+308717	NP
+308719	PP
+NP
+308722	PP
+NP
+NP
+308730	PP
+NP
+NP
+NP
+NP
+NP
+308740	NP
+NP
+308743	NP
+NP
+NP
+308750	PP
+NP
 NP
 NP
 308755	PP
 NP
-308758	PP
+NP
+308764	NP
+308766	NP
+308768	NP
+308771	PP
 NP
 NP
-308762	NP
+308778	NP
 NP
-308765	PP
-NP
-NP
-308772	PP
-NP
-308775	NP
-NP
-NP
-308779	NP
+308782	NP
 PP
 NP
 NP
-308785	NP
-NP
-NP
-NP
-308792	NP
-308796	NP
-308800	PP
-NP
-308806	PP
-308811	NP
-308814	NP
+308791	NP
 NP
 PP
-308820	NP
-308826	PP
-308832	NP
-NP
-308835	PP
-NP
-NP
-308839	PP
 NP
 NP
 NP
-308847	NP
+NP
+NP
+308803	PP
+NP
+NP
+NP
+NP
+PP
+308810	NP
+NP
+NP
+308816	PP
+NP
+NP
+NP
+308823	NP
+NP
+NP
+308828	NP
+308834	PP
+NP
+308842	NP
+308846	PP
+NP
 308849	NP
 NP
-308854	NP
-PP
-NP
-308858	PP
-NP
-NP
-308865	PP
+308855	NP
+308857	NP
+308862	PP
 NP
 NP
 NP
+308869	NP
 NP
-NP
-308875	NP
-NP
-308878	NP
-NP
-NP
-308884	PP
-NP
-NP
-NP
+308874	PP
 PP
 NP
 NP
+308880	NP
+308882	NP
+308892	NP
+308894	NP
 308896	NP
+308898	PP
 NP
-308899	NP
-308902	PP
-NP
-NP
+308904	NP
 308908	NP
-NP
 308911	NP
 PP
-NP
-NP
-308918	NP
+308914	PP
 NP
 PP
 NP
 NP
-NP
-NP
-NP
-308929	PP
-NP
-NP
-NP
+308923	NP
+308925	NP
 NP
 PP
-308936	NP
+308930	NP
+308932	NP
+308935	NP
 NP
-NP
+PP
 308941	PP
 NP
 NP
-NP
-308947	NP
-NP
-NP
-308951	NP
-308956	PP
-NP
-308962	NP
-308966	PP
+308946	NP
+308948	NP
+308950	PP
 NP
 NP
 NP
-308972	NP
-308974	NP
-308978	PP
+308956	NP
+NP
+NP
+308960	NP
+NP
+NP
+308969	PP
 NP
 NP
 NP
-308984	NP
-NP
-308988	PP
-PP
+308975	PP
 NP
 NP
-308993	NP
-308995	NP
-309003	NP
 NP
-309006	NP
+308983	NP
+308985	NP
+308988	NP
+308990	NP
+308992	NP
+NP
+308996	NP
+309002	NP
+NP
+NP
+NP
 309008	PP
 NP
-309014	NP
-309018	NP
+PP
+NP
+309013	PP
+309015	NP
+309017	NP
+NP
 309021	NP
 PP
-309024	PP
 NP
-PP
-NP
-NP
-309031	NP
+309028	NP
 NP
 NP
 PP
-309036	NP
-309038	NP
-309040	NP
+NP
+309035	PP
+309039	NP
+309042	NP
 NP
 PP
-309046	PP
+309049	NP
+PP
 NP
 NP
-309050	NP
-309052	NP
-309054	PP
+309055	NP
+309067	NP
+309072	PP
 NP
-NP
-NP
-309059	NP
-NP
-NP
-309063	NP
-NP
-NP
-309071	PP
-NP
-NP
-NP
-309077	PP
-NP
-NP
-NP
-309083	NP
-309085	NP
-NP
-309088	NP
-309090	NP
+309082	NP
 NP
 309094	NP
-309099	NP
+309096	NP
+309098	NP
+309100	NP
+309104	PP
 NP
 NP
 NP
-309105	PP
-NP
-PP
-NP
-309110	PP
-309112	NP
-309114	NP
-NP
-309118	NP
-PP
-NP
-309123	NP
 NP
 NP
-PP
-NP
-309130	PP
-309133	NP
+309126	NP
 309136	NP
+NP
+NP
 NP
 PP
 309142	NP
+309148	NP
+NP
+NP
+309154	NP
+PP
+309157	NP
+NP
+309161	NP
+NP
+309164	NP
+NP
+NP
+NP
+309170	PP
+309177	NP
+NP
+NP
+NP
+309185	PP
 PP
 NP
+309194	NP
 NP
-309147	NP
-309158	NP
-309163	PP
 NP
-309173	NP
+309198	PP
 NP
-309182	NP
-309184	NP
+PP
 NP
-309187	NP
-309191	PP
+309203	NP
 NP
 NP
 NP
 NP
-NP
+309209	NP
 309211	NP
+309216	NP
 309221	NP
+309224	PP
+NP
+NP
+309232	NP
 NP
 NP
 NP
-PP
+309237	PP
 NP
-309231	NP
+309240	PP
 NP
+309243	PP
 NP
-309236	NP
-PP
+309246	PP
 NP
-NP
-309241	NP
-NP
-309244	NP
+309250	NP
 NP
 NP
-NP
-309250	PP
-309255	NP
-NP
-NP
-NP
-309262	PP
-PP
-NP
-309269	NP
-NP
-NP
-309273	PP
-NP
-PP
-NP
-309278	NP
+309254	NP
+309256	PP
 NP
 NP
 NP
 NP
-309284	NP
-309286	NP
-309289	NP
-309292	NP
-309294	PP
 NP
 NP
-309301	NP
+309265	PP
+309268	NP
+309272	NP
+309274	NP
 NP
+309277	NP
 NP
+309281	NP
+309285	NP
+NP
+309288	NP
+309291	NP
 NP
 PP
+309295	NP
 NP
-309308	PP
-NP
-309311	PP
-NP
-309314	PP
-NP
-309317	NP
+309298	NP
+309300	NP
+309302	NP
+309307	NP
 NP
 NP
-309321	NP
-309323	PP
+309312	NP
+309318	NP
 NP
 NP
 NP
+309325	NP
+NP
+309328	NP
 NP
 NP
 NP
-309332	PP
-309334	NP
-309337	NP
-309339	NP
+NP
+NP
+NP
+NP
+309338	NP
+NP
 NP
 309342	NP
-NP
-309345	NP
-309349	NP
-NP
+309344	NP
+309346	NP
+309348	NP
+309350	NP
 309352	NP
-309355	NP
-NP
-PP
-NP
-NP
-NP
+309354	NP
+309356	NP
+309358	NP
+309360	NP
 309362	NP
-309364	NP
-309369	NP
+309366	NP
 NP
 NP
+309370	NP
+NP
+NP
+309374	PP
 NP
 309377	NP
 NP
 NP
 NP
+PP
 309383	NP
-NP
-309386	NP
-NP
-NP
-NP
-NP
-NP
-NP
-NP
+309389	PP
+309392	NP
 309395	NP
 NP
 NP
-309399	NP
-309401	NP
+309400	NP
 309403	NP
 309405	NP
-309407	NP
-309409	NP
-309411	NP
-309413	NP
+309408	NP
+309410	NP
 309415	NP
 309417	NP
-309419	NP
+NP
 309422	NP
 NP
 NP
-309426	NP
-NP
-NP
-309430	PP
-NP
-309433	NP
-NP
-NP
-NP
-PP
-309439	NP
-309444	PP
-NP
-309447	NP
-NP
-NP
-309452	NP
-309454	NP
-309456	NP
-309458	NP
-309460	NP
-309464	NP
-309466	NP
-NP
-309471	NP
-NP
-NP
-309476	NP
+309427	NP
 PP
 NP
 NP
-309481	NP
+309432	NP
 NP
 NP
-309485	NP
+309436	NP
 NP
 PP
-309489	NP
+309441	NP
 NP
 AdvP
-309501	NP
-NP
-309504	NP
+309453	NP
+309455	NP
+309457	NP
 NP
 PP
-309508	AdvP
-309510	PP
+309461	AdvP
+309463	PP
 NP
-309518	PP
-NP
-NP
+309473	PP
 NP
 NP
 NP
-309527	NP
+NP
+NP
+309482	NP
 NP
 NP
 AdjP
 PP
-309534	PP
+309489	PP
 NP
 NP
+309493	NP
+309495	NP
+309497	PP
 NP
-309539	NP
+309500	NP
+NP
+309503	NP
+309506	NP
+NP
+NP
+309510	NP
+PP
+NP
+309514	NP
+NP
+309517	NP
+NP
+NP
 PP
 NP
 NP
+309524	NP
+309530	NP
 NP
-309545	NP
+309533	NP
+309535	NP
+PP
+309541	NP
+NP
 309547	NP
 NP
-NP
-309551	NP
-PP
-NP
-309555	NP
-NP
-309558	NP
-NP
+309550	NP
 NP
 PP
 NP
 NP
 309565	NP
-309570	NP
-NP
-NP
-309574	NP
-PP
-309578	NP
-NP
-309584	NP
-NP
-309587	NP
-NP
-PP
-NP
-NP
-309600	NP
-NP
-309603	NP
-309605	NP
-309607	PP
-309610	PP
+309567	NP
+309569	NP
+309572	NP
+309574	PP
+309577	PP
 NP
 NP
 NP
-309617	NP
+309585	NP
 NP
-309621	NP
+309591	NP
 NP
 NP
 NP
 NP
 NP
-309628	NP
+309598	NP
 NP
-309631	NP
+309601	NP
 NP
-309636	PP
-309643	NP
-NP
-NP
-NP
-NP
-NP
-309658	PP
-NP
-NP
-NP
-309670	NP
-309673	NP
-NP
-NP
-309678	NP
+309606	PP
+309613	NP
 NP
 NP
 NP
 NP
+NP
+309632	PP
+NP
+NP
+309636	NP
+309647	NP
+309652	NP
+NP
+NP
+309657	NP
+NP
+NP
+NP
+NP
+309668	NP
+NP
+NP
+NP
+NP
+NP
+NP
+309684	NP
 309689	NP
-NP
-NP
-NP
-NP
-NP
-NP
-309703	NP
-309707	NP
-309712	NP
-309719	NP
+309694	NP
+309702	NP
 NP
 PP
-309725	NP
+309708	NP
 NP
-309729	NP
-309731	NP
+309714	NP
+309716	NP
+309718	NP
+309720	NP
+309722	NP
+309724	NP
+309727	NP
 NP
-309734	NP
-NP
-309737	NP
-309740	NP
-NP
-309744	NP
+309732	NP
 NP
 PP
 NP
 NP
 NP
+309739	NP
+309741	PP
+NP
+309745	NP
+309747	NP
+309749	NP
 309751	NP
-309753	PP
+309753	NP
+309755	NP
+309761	NP
 NP
-309756	NP
-309758	NP
-309760	NP
-309762	NP
-309764	NP
-309766	NP
+309766	PP
+NP
 309770	NP
 NP
-309775	PP
+309773	NP
+309775	NP
 NP
-309779	NP
+NP
+NP
 NP
 NP
 309783	NP
-NP
-NP
-NP
-NP
-NP
-309790	NP
-309792	NP
+309785	NP
+309798	NP
+309802	NP
 309804	NP
-309808	NP
-309810	NP
 NP
 NP
 NP
 NP
 NP
-309819	PP
-309821	NP
+309814	PP
+309816	NP
 PP
-NP
-309825	PP
-NP
-NP
-309832	PP
+309819	NP
+309821	PP
 NP
 NP
+309829	PP
 NP
 NP
 NP
 NP
-309840	NP
 NP
 NP
-PP
+309837	NP
 NP
 NP
-NP
-309848	PP
+309842	PP
 NP
 NP
 NP
-309853	PP
+309847	PP
 NP
 NP
-309865	NP
+NP
+309852	PP
 NP
 NP
+309864	NP
+NP
+309867	NP
 PP
 398670	NP
 NP
