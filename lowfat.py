@@ -28,8 +28,9 @@ type_features = {"adjp": "AdjP",
 role_features_wg = {"io": "Cmpl",
                  "o": "Objc",
                  "o2": "Objc",
-                 "p": "Pred",
-                 "s": "Subj"}
+                 "p": "PreC",
+                 "s": "Subj",
+                 "vc": "Pred"}
 
 role_features_word = {"io": "Cmpl",
                  "o": "Objc",
@@ -86,7 +87,7 @@ def convertTaskCustom(self):
 
     slotType = "word"
     otext = {
-        "fmt:text-orig-full": "{text}{after}",
+        "fmt:text-orig-full": "{text}{punctuation}",
         "sectionTypes": "book,chapter,verse",
         "sectionFeatures": "book,chapter,verse",
     }
@@ -261,44 +262,108 @@ def getDirector(self):
 
         (curNode, extraNode) = beforeChildren(cv, cur, xnode, tag)
 
-        #if extraNode is not None and cur[XNEST][-1] == 'wg':
-        #    cur[XNEST][-1]=extraNode[0]
-
         if curNode is not None:
+            if extraNode is not None:
+                if curNode[0] == 'wg': #classification for word groups
+                    superNode = extraNode
+                else:
+                    superNode = curNode
+            else:
+                superNode = curNode
+        else:
+            superNode = curNode
+
+        if superNode is not None:
+            nest = superNode[0] in {"phrase", "clause", "word"}
+        else:
+            nest = False
+
+        #condition for nesting extraNode phrase and clause
+        if extraNode is not None:
+            nestablePhraseClause = extraNode[0] in {"phrase", "clause"}
+        else:
+            nestablePhraseClause = False
+        
+        if curNode is not None:
+            #parent features for curNode word and wg
             if len(cur[TNEST]):
                 if nestable:
                     parentNode = cur[TNEST][-1]
                     cv.edge(curNode, parentNode, parent=None)
+            
+            #parent features for extraNode phrase and clause
+            if len(cur['extraParent']):
+                if nestablePhraseClause:
+                    parentNode = cur['extraParent'][-1]
+                    cv.edge(extraNode, parentNode, parent=None)
 
-            cur[TNEST].append(curNode)
+            #parent features for extraNode phrase and clause
+            if len(cur['superParentNode']):
+                if nest:
+                    parentNode = cur['superParentNode'][-1]
+                    cv.edge(superNode, parentNode, parent=None)
 
+            cur[TNEST].append(curNode) #gleaning all the previous curNodes
+
+            #gleaning all the previous extraNode
+            if curNode[0] == 'wg':
+                Node = extraNode
+            else:
+                Node = curNode
+
+            cur['extraParent'].append(Node)
+
+            cur['superParentNode'].append(superNode) #gleaning all the previous superNodes
+            
             if len(cur[TSIB]):
                 if nestable:
                     siblings = cur[TSIB][-1]
-                    
                     nSiblings = len(siblings)
                     for (i, sib) in enumerate(siblings):
                         cv.edge(sib, curNode, sibling=nSiblings - i)
                     siblings.append(curNode)
 
+            if len(cur['extraSib']):
+                if nestablePhraseClause:
+                    siblings = cur['extraSib'][-1]
+                    nSiblings = len(siblings)
+                    for (i, sib) in enumerate(siblings):
+                        if curNode[0] == 'wg':
+                            Node = extraNode
+                        else:
+                            Node = curNode
+                        cv.edge(sib, Node, sibling=nSiblings - i)
+                    siblings.append(Node)       
+            
+            cur['extraSib'].append([])
+
             cur[TSIB].append([])
 
         for child in xnode.iterchildren(tag=etree.Element):
             walkNode(cv, cur, child)
-
+        
         afterChildren(cv, cur, xnode, tag)
-
+        
         if extraNode is not None:
             cv.terminate(extraNode)
-
+        
         if curNode is not None:
             if len(cur[TNEST]):
                 cur[TNEST].pop()
             if len(cur[TSIB]):
                 cur[TSIB].pop()
+        
+        if extraNode is not None:
+            if len(cur['extraParent']):
+                cur['extraParent'].pop()
+            if len(cur['extraSib']):
+                cur['extraSib'].pop()
 
-        if len(cur[XNEST]):
-            cur[XNEST].pop()
+        if  superNode is not None:
+            if len(cur['superParentNode']):
+                cur['superParentNode'].pop()
+        
+        cur[XNEST].pop()
         afterTag(cv, cur, xnode, tag)
 
     def beforeChildren(cv, cur, xnode, tag):
@@ -341,8 +406,72 @@ def getDirector(self):
         extraType = None
 
         if tag == "word":
-            atts["text"] = xnode.text
+            atts["text"] = xnode.text #text shown in the conversor is provided by the text of the XML element
+            
+            unicode = atts.get('unicode')
+            atts['punctuation'] = atts.get('after') #renaming the after feature as punctuation
 
+            # Definition of before feature
+            if unicode[0] in {"—", "(", "["}:  # words that start with "—", "(", or "["
+                atts['before'] = unicode[0]
+                if unicode[0] == "—":
+                    atts['after'] = atts['punctuation'] = " "  # solving bug with letters in the after feature
+                    atts['text'] = unicode
+                elif unicode[0] in {"(", "["}:
+                    atts['criticalsign'] = unicode[0]
+                    atts['text'] = unicode
+            else:
+                atts['before'] = None
+
+            if unicode[:2] == "[[":  # words that start with "[["
+                atts['criticalsign'] = atts['before'] = "[["
+                atts['text'] = unicode
+
+            # Definition of after feature
+            if unicode[-1] == "—":  # words that end with "—"
+                if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"}:
+                    atts.update({'after': unicode[-2:], 'text': re.sub(r"[ ,.;·]", "", unicode)})
+                    punctuation_signs = r"[ ,.;·]"
+                    criticalsign_signs = r"[—()]"
+                    punctuation_matches = re.findall(punctuation_signs, unicode)
+                    criticalsign_matches = re.findall(criticalsign_signs, unicode)
+                    atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
+                    atts['criticalsign'] = criticalsign_matches[0] if criticalsign_matches else None
+                else:
+                    atts.update({'after': unicode[-1], 'text': unicode, 'punctuation': " "})
+
+            if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"} and unicode[-1] not in {"ὁ", "ὃ", "ὅ"}:  # words that end with two punctuation signs
+                atts.update({'after': unicode[-2:], 'text': re.sub(r"[ ,.;·]", "", unicode)})
+                punctuation_signs = r"[ ,.;·]"
+                criticalsign_signs = r"[—()]"
+                punctuation_matches = re.findall(punctuation_signs, unicode)
+                criticalsign_matches = re.findall(criticalsign_signs, unicode)
+                atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
+                atts['criticalsign'] = criticalsign_matches[0] if criticalsign_matches else None
+
+            if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"} and unicode[-1] in {"ὁ", "ὃ", "ὅ"}:  # words "ὁ", "ὃ", "ὅ"
+                atts['before'] = unicode[0]
+                atts.update({'text': re.sub(r"[ ,.;·]", "", unicode)})
+                punctuation_signs = r"[ ,.;·]"
+                criticalsign_signs = r"[—()]"
+                punctuation_matches = re.findall(punctuation_signs, unicode)
+                criticalsign_matches = re.findall(criticalsign_signs, unicode)
+                atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
+                atts['criticalsign'] = criticalsign_matches[0] if criticalsign_matches else None
+
+            # words that end with "]]"
+            if len(unicode) >= 3 and unicode[-2] in {"]"} and unicode[-3] not in {"ν"}:
+                atts.update({'after': unicode[-3:], 'criticalsign': "]]", 'punctuation': ".", 'text': re.sub(r"[ ,.;·]", "", unicode)})
+
+            if len(unicode) >= 3 and unicode[-2] in {"]"} and unicode[-3] in {"ν"}:
+                atts.update({'after': unicode[-2:], 'criticalsign': "]]", 'text': re.sub(r"[ ,.;·]", "", unicode)})
+
+            # word that ends with "]"
+            if unicode == "Ἐφέσῳ]":
+                atts.update({'after': "]", 'criticalsign': "]", 'text': unicode})
+
+            #definition of attributes for the phrases and subphrases
+            
             #atts_phrase={} #saving only specific features in the features of the phrase
             atts_phrase=atts #saving all features of the words in the features of the phrase
 
@@ -353,25 +482,19 @@ def getDirector(self):
             #generate phrase and subphrase containers for the words as an extra node
             if role is not None:
                 extraType = "phrase"
-                #tag = "phrase"
 
-                #cur[XNEST][-1] = "phrase"
                 cur["phraseNum"] += 1 #counting the number of the phrases
                 atts_phrase["num"] = cur["phraseNum"]
             
             elif cls == "conj":
                 extraType = "phrase"
-                #tag = "phrase"
 
-                #cur[XNEST][-1] = "phrase"
                 cur["phraseNum"] += 1 #counting the number of the phrases
                 atts_phrase["num"] = cur["phraseNum"]
             
             else:
                 extraType = "subphrase"
-                #tag = "subphrase"
 
-                #cur[XNEST][-1] = "subphrase"
                 cur["subphraseNum"] += 1 #counting the number of the subphrases
                 atts_phrase["num"] = cur["subphraseNum"]
             
@@ -456,29 +579,34 @@ def getDirector(self):
                 atts["book_short"] = atts["id"] #defining the attribute book_short
                 if atts["id"] in book_name: #including the attribute book for the whole name of the book
                     atts["book"] = book_name[atts["id"]]
+                    cur['book'] = atts['book']
                 del atts["id"]
 
             elif tag == "sentence":
                 cur["sentNum"] += 1
                 atts["num"] = cur["sentNum"]
+                atts['book'] = cur['book']
                 
             elif tag == "wg" and len(atts): #consider only wg tag with attributes
                 cls = atts.get("cls", None)
                 role = atts.get("role", None)
+                clauseType = atts.get("clauseType", None)
+                type = atts.get("type", None)
+                rule = atts.get("rule", None)
+                cltype = atts.get("cltype", None)
+                crule = atts.get("crule", None)
+
                 if cls is not None:
                     if cls == "cl":
-                        #extraType = "clause" #generate clause container from the wg tag
+                        extraType = "clause" #generate clause container from the wg tag
                         
-                        #cur[XNEST][-1] = "clause"
-                        tag = "clause"
                         cur["clNum"] += 1 #counting the number of the clauses
                         atts["num"] = cur["clNum"]
+                        atts['book'] = cur['book']
                         
                     else:
-                        #extraType = "phrase" #generate phrase container for the words within the wg tag
+                        extraType = "phrase" #generate phrase container for the words within the wg tag
                         
-                        #cur[XNEST][-1] = "phrase"
-                        tag = "phrase"
                         cur["phraseNum"] += 1 #counting the number of the phrases
                         atts["num"] = cur["phraseNum"]
                         
@@ -492,18 +620,60 @@ def getDirector(self):
                             atts["rela"] = "Appo"
 
                 else:
-                    #extraType = "phrase" #generate phrase container for the words that the clause feature is None
+                    if clauseType == "nominalized":
+                        extraType = "clause" #generate clause container from the clauseType attribute
+                        
+                        cur["clNum"] += 1 #counting the number of the clauses
+                        atts["num"] = cur["clNum"]
                     
-                    #cur[XNEST][-1] = "phrase"
-                    tag = "phrase"
-                    cur["phraseNum"] += 1 #counting the number of the phrases
-                    atts["num"] = cur["phraseNum"]
+                    elif type == "wrapper-clause-scope":
+                        extraType = "clause" #generate clause container from the wrapper-clause-scope type of the word group
 
-                    if role in role_features_wg:
-                        atts["function"] = role_features_wg[role]
+                        cur["clNum"] += 1 #counting the number of the clauses
+                        atts["num"] = cur["clNum"]
                     
-                    if role == "apposition":
-                        atts["rela"] = "Appo"
+                    elif type == "modifier-clause-scope":
+                        extraType = "clause" #generate clause container from the wrapper-clause-scope type of the word group
+
+                        cur["clNum"] += 1 #counting the number of the clauses
+                        atts["num"] = cur["clNum"]
+
+                    elif type == "conjuncted-wg":
+                        extraType = "clause" #generate clause container from the conjuncted type of the word group
+                        atts["typ"] = "conjuncted"
+
+                        cur["clNum"] += 1 #counting the number of the clauses
+                        atts["num"] = cur["clNum"]
+
+                    elif rule == "ClaCl":
+                        extraType = "clause" #generate clause container from the clause-a-clause type of the word group
+
+                        cur["clNum"] += 1 #counting the number of the clauses
+                        atts["num"] = cur["clNum"]
+
+                    elif cltype is not None:
+                        extraType = "clause" #generate clause container from if there is a clytype attribute for the word group
+
+                        cur["clNum"] += 1 #counting the number of the clauses
+                        atts["num"] = cur["clNum"]
+                    
+                    elif crule is not None:
+                        extraType = "clause" #generate clause container from if there is a crule attribute for the word group
+
+                        cur["clNum"] += 1 #counting the number of the clauses
+                        atts["num"] = cur["clNum"]
+                    
+                    else:
+                        extraType = "phrase" #generate phrase container for the words that the clause feature is None
+                        
+                        cur["phraseNum"] += 1 #counting the number of the phrases
+                        atts["num"] = cur["phraseNum"]
+
+                        if role in role_features_wg:
+                            atts["function"] = role_features_wg[role]
+                        
+                        if role == "apposition":
+                            atts["rela"] = "Appo"
             
             else:
                 return (None, None) #consider only wg tag with attributes
@@ -516,7 +686,7 @@ def getDirector(self):
                 extraNode = cv.node(extraType)
                 if len(atts):
                     cv.feature(extraNode, **atts)
-
+            
         return (curNode, extraNode)
 
     def afterChildren(cv, cur, xnode, tag):
@@ -606,8 +776,9 @@ def getDirector(self):
                     tree = etree.parse(text, parser)
                     root = tree.getroot()
                     cur[XNEST] = []
-                    cur[TNEST] = []
-                    cur[TSIB] = []
+                    cur[TNEST] = [] #define dictionary that carries all the previous curNodes
+                    cur[TSIB] = [] #define dictionary that carries all the siblings with curNodes
+                    cur['book'] = None
                     cur["chapter"] = None
                     cur["verse"] = None
                     cur["sentNum"] = 0
@@ -617,6 +788,9 @@ def getDirector(self):
                     cur["xIdIndex"] = {}
                     cur["subjrefEdges"] = []
                     cur["frameEdges"] = []
+                    cur["extraParent"] = [] #define dictionary that carries all the previous extraNodes
+                    cur["extraSib"] = [] #define dictionary that carries all the siblings with extraNodes
+                    cur["superParentNode"] = []
                     walkNode(cv, cur, root)
 
                 xIdIndex = cur["xIdIndex"]
