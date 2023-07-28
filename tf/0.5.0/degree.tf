@@ -9,7 +9,7 @@
 @version=0.5.0
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-23T21:44:56Z
+@dateWritten=2023-07-27T20:51:59Z
 
 524	superlative
 1084	comparative
