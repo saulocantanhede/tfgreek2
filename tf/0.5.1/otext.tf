@@ -1,7 +1,8 @@
 @config
 @author=Evangelists and apostles
 @converters=Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda
-@fmt:text-orig-full={text}{punctuation}
+@fmt:text-orig-clean={text}{punctuation}
+@fmt:text-orig-full={before}{text}{after}
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer)
 @sectionFeatures=book,chapter,verse
 @sectionTypes=book,chapter,verse
@@ -10,5 +11,5 @@
 @version=0.5.1
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-28T01:23:53Z
+@dateWritten=2023-08-03T17:43:56Z
 
