@@ -87,7 +87,8 @@ def convertTaskCustom(self):
 
     slotType = "word"
     otext = {
-        "fmt:text-orig-full": "{text}{punctuation}",
+        "fmt:text-orig-full": "{before}{text}{after}",
+        "fmt:text-orig-clean": "{text}{punctuation}",
         "sectionTypes": "book,chapter,verse",
         "sectionFeatures": "book,chapter,verse",
     }
@@ -409,28 +410,32 @@ def getDirector(self):
             atts["text"] = xnode.text #text shown in the conversor is provided by the text of the XML element
             
             unicode = atts.get('unicode')
-            atts['punctuation'] = atts.get('after') #renaming the after feature as punctuation
+            after = atts.get('after') #renaming the after feature as punctuation
+
+            punctuation_signs = r"[ ,.;·]"
+            punctuation_matches = re.findall(punctuation_signs, after)
+            atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
 
             # Definition of before feature
             if unicode[0] in {"—", "(", "["}:  # words that start with "—", "(", or "["
                 atts['before'] = unicode[0]
                 if unicode[0] == "—":
                     atts['after'] = atts['punctuation'] = " "  # solving bug with letters in the after feature
-                    atts['text'] = unicode
+                    atts['text'] = re.sub(r"[—]", "", unicode)
                 elif unicode[0] in {"(", "["}:
                     atts['criticalsign'] = unicode[0]
-                    atts['text'] = unicode
+                    atts['text'] = re.sub(r"[(\[]", "", unicode)
             else:
                 atts['before'] = None
 
             if unicode[:2] == "[[":  # words that start with "[["
                 atts['criticalsign'] = atts['before'] = "[["
-                atts['text'] = unicode
+                atts['text'] = re.sub(r"[\[\[]", "", unicode)
 
             # Definition of after feature
             if unicode[-1] == "—":  # words that end with "—"
                 if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"}:
-                    atts.update({'after': unicode[-2:], 'text': re.sub(r"[ ,.;·]", "", unicode)})
+                    atts.update({'after': unicode[-2:], 'text': re.sub(r"[ ,.;·—()]", "", unicode)})
                     punctuation_signs = r"[ ,.;·]"
                     criticalsign_signs = r"[—()]"
                     punctuation_matches = re.findall(punctuation_signs, unicode)
@@ -438,10 +443,11 @@ def getDirector(self):
                     atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
                     atts['criticalsign'] = criticalsign_matches[0] if criticalsign_matches else None
                 else:
-                    atts.update({'after': unicode[-1], 'text': unicode, 'punctuation': " "})
+                    atts.update({'after': unicode[-1], 'punctuation': " "})
 
-            if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"} and unicode[-1] not in {"ὁ", "ὃ", "ὅ"}:  # words that end with two punctuation signs
-                atts.update({'after': unicode[-2:], 'text': re.sub(r"[ ,.;·]", "", unicode)})
+            # words that end with two punctuation signs
+            if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"} and unicode[-1] not in {"ὁ", "ὃ", "ὅ"}:
+                atts.update({'after': unicode[-2:], 'text': re.sub(r"[ ,.;·—()]", "", unicode)})
                 punctuation_signs = r"[ ,.;·]"
                 criticalsign_signs = r"[—()]"
                 punctuation_matches = re.findall(punctuation_signs, unicode)
@@ -449,9 +455,9 @@ def getDirector(self):
                 atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
                 atts['criticalsign'] = criticalsign_matches[0] if criticalsign_matches else None
 
-            if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"} and unicode[-1] in {"ὁ", "ὃ", "ὅ"}:  # words "ὁ", "ὃ", "ὅ"
+            # words "ὁ", "ὃ", "ὅ"
+            if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"} and unicode[-1] in {"ὁ", "ὃ", "ὅ"}:
                 atts['before'] = unicode[0]
-                atts.update({'text': re.sub(r"[ ,.;·]", "", unicode)})
                 punctuation_signs = r"[ ,.;·]"
                 criticalsign_signs = r"[—()]"
                 punctuation_matches = re.findall(punctuation_signs, unicode)
@@ -461,14 +467,14 @@ def getDirector(self):
 
             # words that end with "]]"
             if len(unicode) >= 3 and unicode[-2] in {"]"} and unicode[-3] not in {"ν"}:
-                atts.update({'after': unicode[-3:], 'criticalsign': "]]", 'punctuation': ".", 'text': re.sub(r"[ ,.;·]", "", unicode)})
+                atts.update({'after': unicode[-3:], 'criticalsign': "]]", 'punctuation': "."})
 
             if len(unicode) >= 3 and unicode[-2] in {"]"} and unicode[-3] in {"ν"}:
-                atts.update({'after': unicode[-2:], 'criticalsign': "]]", 'text': re.sub(r"[ ,.;·]", "", unicode)})
+                atts.update({'after': unicode[-2:], 'criticalsign': "]]"})
 
             # word that ends with "]"
             if unicode == "Ἐφέσῳ]":
-                atts.update({'after': "]", 'criticalsign': "]", 'text': unicode})
+                atts.update({'after': "]", 'criticalsign': "]"})
 
             #definition of attributes for the phrases and subphrases
             
