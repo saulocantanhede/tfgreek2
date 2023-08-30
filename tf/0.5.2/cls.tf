@@ -9,7 +9,7 @@
 @version=0.5.2
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-08-22T19:19:12Z
+@dateWritten=2023-08-30T00:19:22Z
 
 noun
 noun
@@ -167942,9 +167942,9 @@ cl
 cl
 cl
 170194	cl
-178270	np
+179159	np
 np
-178275	np
+179164	np
 np
 noun
 verb
@@ -167956,14 +167956,14 @@ np
 noun
 conj
 verb
-178288	np
+179177	np
 conj
 np
 np
 noun
 conj
 verb
-178296	np
+179185	np
 conj
 np
 pp
@@ -168007,7 +168007,7 @@ np
 noun
 conj
 verb
-178341	np
+179230	np
 np
 noun
 conj
@@ -168067,7 +168067,7 @@ np
 noun
 conj
 verb
-178402	np
+179291	np
 conj
 np
 np
@@ -168124,79 +168124,79 @@ np
 noun
 conj
 verb
-178460	np
+179349	np
 np
 np
-178464	pp
+pp
 verb
-178467	verb
+179355	verb
 noun
 np
 conj
 np
 np
-178474	pp
+179362	pp
 pp
 np
 conj
-178479	pp
-pp
-np
-np
-np
-conj
-178486	pp
-np
-np
+179367	pp
 pp
 np
 np
 np
-np
 conj
-178496	np
-adv
-verb
-178500	verb
-178502	np
+179374	pp
 np
 np
-conj
-verb
-pron
-verb
-pp
-verb
 pp
 np
-178514	conj
 np
 np
-178518	adj
-verb
+np
 conj
-adv
-verb
-pron
-verb
-verb
-adv
-verb
-pron
-pron
-conj
-pron
-verb
-verb
-np
-pp
-verb
-pron
-verb
-178542	np
+179384	np
 adv
 verb
 verb
+179389	np
+np
+np
+conj
+verb
+pron
+verb
+pp
+verb
+pp
+np
+179401	conj
+np
+np
+179405	adj
+verb
+conj
+adv
+verb
+pron
+verb
+verb
+adv
+verb
+pron
+pron
+conj
+pron
+verb
+verb
+np
+pp
+verb
+pron
+verb
+179428	np
+adv
+verb
+verb
 noun
 np
 np
@@ -168206,7 +168206,7 @@ verb
 pp
 np
 verb
-178556	verb
+179442	verb
 conj
 noun
 conj
@@ -168222,7 +168222,7 @@ np
 pp
 np
 np
-178573	np
+np
 conj
 verb
 conj
@@ -168243,11 +168243,11 @@ conj
 verb
 np
 np
-178595	pron
+pron
 vp
 pp
 np
-178601	verb
+179484	verb
 conj
 np
 pp
@@ -168259,7 +168259,7 @@ pron
 np
 np
 conj
-178614	verb
+179497	verb
 np
 np
 conj
@@ -168275,7 +168275,7 @@ verb
 np
 np
 noun
-178631	np
+np
 conj
 verb
 pp
@@ -168283,14 +168283,14 @@ np
 np
 pp
 np
-178640	np
+179522	np
 verb
 noun
 pp
 verb
 pp
 verb
-178648	adv
+adv
 verb
 np
 np
@@ -168307,9 +168307,9 @@ conj
 verb
 verb
 pron
-178666	verb
+179547	verb
 conj
-178669	np
+179550	np
 verb
 conj
 np
@@ -168318,7 +168318,7 @@ conj
 verb
 np
 np
-178679	conj
+179560	conj
 np
 np
 verb
@@ -168330,7 +168330,7 @@ det
 conj
 verb
 pron
-178692	pp
+pp
 np
 np
 adv
@@ -168339,8 +168339,8 @@ verb
 pp
 np
 conj
-178702	pron
-178704	np
+pron
+179583	np
 adv
 adj
 verb
@@ -168350,10 +168350,10 @@ np
 pp
 conj
 verb
-178715	verb
+verb
 pron
 verb
-178719	np
+179597	np
 np
 np
 adv
@@ -168373,12 +168373,12 @@ verb
 pron
 pp
 verb
-178740	verb
+179618	verb
 verb
 adv
 pp
 np
-178747	conj
+conj
 conj
 verb
 verb
@@ -168396,7 +168396,7 @@ verb
 conj
 verb
 np
-178766	pron
+pron
 verb
 pp
 np
@@ -168423,7 +168423,7 @@ verb
 np
 np
 pp
-178794	np
+179669	np
 np
 conj
 verb
@@ -168435,7 +168435,7 @@ np
 np
 verb
 pron
-178808	conj
+179683	conj
 conj
 conj
 verb
@@ -168449,7 +168449,7 @@ verb
 pp
 np
 np
-178823	verb
+verb
 conj
 pron
 verb
@@ -168458,9 +168458,9 @@ verb
 pp
 np
 verb
-178833	verb
 verb
-178836	np
+verb
+179709	np
 conj
 np
 np
@@ -168468,7 +168468,7 @@ conj
 verb
 pp
 conj
-178845	verb
+verb
 adv
 conj
 verb
@@ -168480,11 +168480,11 @@ verb
 np
 verb
 pron
-178858	det
+det
 conj
 verb
 verb
-178863	np
+179734	np
 conj
 np
 np
@@ -168522,9 +168522,9 @@ conj
 verb
 verb
 np
-178902	np
+179773	np
 np
-178905	pp
+179776	pp
 conj
 pp
 np
@@ -168534,7 +168534,7 @@ pp
 conj
 pp
 np
-178916	pron
+pron
 verb
 pp
 np
@@ -168542,13 +168542,13 @@ adv
 verb
 verb
 pp
-178925	np
+179795	np
 verb
-178928	pp
+179798	pp
 verb
-178931	conj
+179801	conj
 np
-178934	noun
+179804	noun
 verb
 np
 np
@@ -168559,7 +168559,7 @@ verb
 conj
 adv
 verb
-178946	verb
+verb
 conj
 np
 verb
@@ -168569,9 +168569,9 @@ pp
 np
 pp
 verb
-178957	verb
 verb
-178960	np
+verb
+179828	np
 conj
 np
 np
@@ -168589,7 +168589,7 @@ det
 conj
 verb
 verb
-178979	np
+179847	np
 conj
 np
 np
@@ -168604,7 +168604,7 @@ noun
 verb
 np
 pp
-178995	np
+179863	np
 np
 verb
 adv
@@ -168636,14 +168636,14 @@ conj
 np
 np
 verb
-179028	np
+179896	np
 verb
 pp
 np
 np
 np
 verb
-179036	verb
+verb
 verb
 conj
 np
@@ -168654,20 +168654,20 @@ conj
 verb
 verb
 pp
-179048	np
+179915	np
 verb
 np
 verb
 pp
 np
-179055	verb
+verb
 np
 np
 adj
 verb
 np
 np
-179063	np
+179929	np
 conj
 np
 verb
@@ -168684,12 +168684,12 @@ np
 conj
 np
 verb
-179081	conj
+179947	conj
 np
 adv
 verb
 pp
-179087	conj
+179953	conj
 np
 np
 conj
@@ -168701,7 +168701,7 @@ conj
 verb
 pp
 np
-179100	pp
+179966	pp
 verb
 np
 np
@@ -168710,7 +168710,7 @@ conj
 np
 np
 np
-179110	conj
+179976	conj
 verb
 pp
 np
@@ -168790,7 +168790,7 @@ pron
 pron
 verb
 pp
-179191	np
+180057	np
 conj
 np
 np
@@ -168802,7 +168802,7 @@ verb
 np
 np
 conj
-179204	verb
+180070	verb
 np
 np
 pp
@@ -168827,7 +168827,7 @@ conj
 verb
 pron
 verb
-179230	pron
+180096	pron
 noun
 verb
 pp
@@ -168841,7 +168841,7 @@ conj
 np
 verb
 pron
-179245	verb
+verb
 adv
 adv
 conj
@@ -168880,7 +168880,7 @@ np
 verb
 pron
 verb
-179285	np
+180150	np
 np
 np
 pp
@@ -168897,7 +168897,7 @@ pp
 np
 conj
 verb
-179303	np
+180168	np
 conj
 np
 adj
@@ -168907,7 +168907,7 @@ verb
 verb
 verb
 pron
-179314	conj
+conj
 np
 verb
 np
@@ -168922,7 +168922,7 @@ conj
 verb
 verb
 verb
-179330	pp
+180194	pp
 np
 verb
 np
@@ -168941,7 +168941,7 @@ pp
 np
 np
 conj
-179350	verb
+180214	verb
 pron
 pp
 np
@@ -168950,7 +168950,7 @@ np
 conj
 verb
 pron
-179360	conj
+conj
 np
 verb
 np
@@ -168965,7 +168965,7 @@ np
 verb
 pp
 conj
-179376	pp
+pp
 verb
 pron
 ptcl
@@ -168981,7 +168981,7 @@ adv
 verb
 adv
 verb
-179393	np
+180255	np
 np
 adv
 verb
@@ -168991,9 +168991,9 @@ pp
 np
 adjp
 conj
-179404	verb
+180266	verb
 pron
-179407	np
+180269	np
 np
 np
 np
@@ -169003,7 +169003,7 @@ np
 conj
 verb
 pron
-179418	np
+np
 pron
 verb
 conj
@@ -169018,7 +169018,7 @@ verb
 noun
 verb
 conj
-179435	np
+180296	np
 np
 verb
 conj
@@ -169044,25 +169044,25 @@ verb
 pp
 np
 conj
-179462	verb
+verb
 np
 verb
 verb
 pp
-179468	np
+180328	np
 np
 pp
 np
-179473	conj
+180333	conj
 conj
 verb
 verb
 pp
-179479	np
+180339	np
 verb
-179482	np
+180342	np
 np
-179485	np
+180345	np
 conj
 np
 np
@@ -169070,7 +169070,7 @@ pp
 np
 np
 np
-179494	np
+180354	np
 verb
 pp
 np
@@ -169079,17 +169079,17 @@ conj
 verb
 pp
 np
-179504	conj
+180364	conj
 noun
 verb
 pron
 pp
 verb
 np
-179512	verb
+180372	verb
 conj
 verb
-179516	verb
+verb
 verb
 conj
 np
@@ -169102,11 +169102,11 @@ np
 np
 np
 verb
-179530	np
-179533	verb
+180389	np
+180392	verb
 noun
 conj
-179537	np
+180396	np
 np
 verb
 noun
@@ -169118,7 +169118,7 @@ noun
 conj
 verb
 pron
-179550	verb
+180409	verb
 pp
 conj
 verb
@@ -169135,17 +169135,17 @@ conj
 verb
 adv
 verb
-179568	np
+180427	np
 np
-179572	np
+180431	np
 np
 conj
-179576	np
+180435	np
 np
 pp
 np
 pp
-179582	np
+180441	np
 np
 verb
 np
@@ -169157,7 +169157,7 @@ det
 conj
 adv
 verb
-179595	np
+180454	np
 conj
 np
 np
@@ -169168,7 +169168,7 @@ verb
 pp
 np
 np
-179607	verb
+180466	verb
 pp
 np
 np
@@ -169179,7 +169179,7 @@ np
 np
 conj
 verb
-179619	np
+180478	np
 conj
 np
 pp
@@ -169194,11 +169194,11 @@ np
 conj
 verb
 pron
-179635	np
+180494	np
 adv
 verb
-179639	np
-179641	conj
+180498	np
+180500	conj
 verb
 verb
 conj
@@ -169212,7 +169212,7 @@ verb
 pron
 np
 np
-179656	pp
+180515	pp
 np
 conj
 conj
@@ -169227,7 +169227,7 @@ verb
 pp
 np
 conj
-179672	verb
+verb
 pron
 verb
 pron
@@ -169262,7 +169262,7 @@ pron
 verb
 np
 adj
-179708	conj
+180566	conj
 np
 conj
 pron
@@ -169280,7 +169280,7 @@ conj
 pron
 np
 verb
-179727	adj
+adj
 np
 conj
 pron
@@ -169295,10 +169295,10 @@ verb
 np
 np
 np
-179743	adj
+adj
 verb
 conj
-179747	verb
+180603	verb
 pron
 conj
 verb
@@ -169320,7 +169320,7 @@ np
 adv
 conj
 verb
-179770	np
+180626	np
 np
 pp
 pron
@@ -169355,8 +169355,8 @@ noun
 verb
 pp
 verb
-179806	conj
-179808	verb
+180662	conj
+180664	verb
 noun
 conj
 verb
@@ -169364,7 +169364,7 @@ pron
 pp
 np
 conj
-179817	pp
+180673	pp
 np
 conj
 verb
@@ -169379,13 +169379,13 @@ np
 pp
 np
 conj
-179833	verb
+180689	verb
 np
 np
 np
 conj
 verb
-179840	np
+180696	np
 np
 np
 pp
@@ -169395,22 +169395,22 @@ verb
 conj
 verb
 verb
-179851	np
+180707	np
 conj
 np
-179855	verb
+180711	verb
 verb
 conj
 verb
-179860	conj
+conj
 verb
 pron
-179864	conj
+conj
 verb
-179867	np
+180721	np
 conj
 np
-179871	np
+180725	np
 conj
 np
 advp
@@ -169438,7 +169438,7 @@ pp
 np
 np
 np
-179900	pron
+pron
 conj
 verb
 conj
@@ -169461,7 +169461,7 @@ np
 np
 adj
 np
-179924	conj
+180777	conj
 advp
 verb
 pp
@@ -169472,7 +169472,7 @@ verb
 conj
 verb
 np
-179936	adv
+180789	adv
 verb
 pron
 conj
@@ -169513,7 +169513,7 @@ np
 np
 conj
 conj
-179978	verb
+verb
 np
 np
 pp
@@ -169533,7 +169533,7 @@ np
 pp
 np
 conj
-179999	verb
+verb
 adj
 verb
 np
@@ -169554,7 +169554,7 @@ verb
 pp
 pp
 np
-180021	ptcl
+180872	ptcl
 adv
 pron
 verb
@@ -169566,9 +169566,9 @@ np
 conj
 pp
 verb
-180034	verb
+verb
 pron
-180037	advp
+advp
 verb
 adv
 conj
@@ -169685,7 +169685,7 @@ verb
 conj
 verb
 np
-180155	adv
+181004	adv
 verb
 verb
 conj
@@ -169699,15 +169699,15 @@ pron
 adv
 verb
 adv
-180170	conj
-180172	pp
+181019	conj
+pp
 np
 conj
 np
 verb
 np
 conj
-180180	pp
+pp
 np
 conj
 np
@@ -169715,7 +169715,7 @@ verb
 np
 np
 conj
-180189	pp
+pp
 conj
 np
 verb
@@ -169730,13 +169730,13 @@ conj
 adv
 verb
 np
-180205	verb
+181051	verb
 conj
 verb
 conj
 np
 np
-180212	ptcl
+ptcl
 ptcl
 ptcl
 ptcl
@@ -169749,7 +169749,7 @@ verb
 verb
 conj
 verb
-180226	noun
+181071	noun
 pp
 conj
 noun
@@ -169774,8 +169774,8 @@ pron
 np
 np
 conj
-180252	verb
-180254	pron
+verb
+181098	pron
 verb
 conj
 np
@@ -169805,7 +169805,7 @@ verb
 verb
 conj
 verb
-180285	verb
+181129	verb
 np
 np
 conj
@@ -169816,7 +169816,7 @@ pron
 conj
 verb
 pron
-180298	verb
+verb
 np
 np
 conj
@@ -169827,20 +169827,20 @@ pron
 conj
 verb
 np
-180310	np
+181152	np
 np
 np
 pp
 conj
-180316	np
+181158	np
 np
 verb
 pp
-180321	conj
+181163	conj
 conj
 verb
 pp
-180326	conj
+181168	conj
 conj
 conj
 verb
@@ -169893,825 +169893,825 @@ noun
 adv
 verb
 pp
-180380	np
+181222	np
 np
 np
 pp
 np
-180386	conj
 conj
-verb
-noun
-180391	adv
-verb
-pp
-conj
-180396	np
-verb
-180399	pp
-np
-conj
-pp
-np
-conj
-verb
-pp
-np
-180409	verb
-pron
-verb
-np
-np
-180416	pron
 conj
 verb
 noun
 adv
 verb
+pp
+conj
 np
-np
-pron
 verb
-np
+181238	pp
 np
 conj
-verb
-np
-np
 pp
 np
 conj
-180436	np
-np
 verb
 pp
 np
 verb
 pron
-conj
-180446	conj
-verb
-adv
-verb
-pp
-conj
-np
-conj
-verb
-180456	pp
-np
-conj
-pp
-np
-np
-np
-verb
-verb
-conj
 verb
 np
-180469	verb
+np
 pron
-verb
-np
-np
-180475	pron
-conj
 conj
 verb
-verb
-pp
-np
-np
-conj
-verb
-np
-np
-verb
-180489	np
-np
-np
-pp
-np
-conj
-180496	np
-np
-verb
-pp
-np
-verb
-pron
-180504	verb
-conj
-adv
-verb
-conj
-np
-verb
-conj
-conj
-pp
-np
-np
-verb
-180518	adv
-conj
-verb
-pron
-verb
-conj
-np
-np
-np
-verb
-pp
-pron
-verb
-pron
-adv
-conj
-verb
-pron
-180537	np
-np
-pp
-np
-verb
-np
-np
-verb
-np
-np
-verb
-np
-np
-pp
-conj
-pp
-pp
-pp
-np
-np
-np
-np
-verb
-pron
-adv
-conj
-verb
-pron
-np
-np
-conj
-np
-verb
-np
-np
-conj
-180574	verb
-pron
-pp
-conj
-verb
-pron
-pp
-np
-conj
-conj
-verb
-np
-np
-np
-verb
-np
-np
-np
-np
-np
-conj
-conj
-adv
-verb
-np
-adv
-np
-np
-verb
-np
-np
-180607	conj
-conj
-verb
-adv
-verb
-conj
-np
-adj
-180616	verb
-conj
-np
-np
-conj
-verb
-np
-verb
-180625	verb
-pron
-verb
-np
-np
-180631	pron
-conj
-verb
-verb
-np
-np
-conj
-np
-np
-verb
-conj
-180643	verb
-np
-verb
-conj
-180648	np
-np
-np
-pp
-np
-conj
-180655	np
-np
-verb
-pp
-np
-verb
-pron
-adv
-verb
-pron
-noun
-pp
-np
-180669	adv
-180671	conj
-verb
-conj
-adv
-noun
-180677	conj
-verb
-conj
-pron
-noun
-pp
-180684	adv
-180686	conj
-conj
-verb
-conj
-adv
 noun
 adv
-180694	conj
-180696	conj
-conj
 verb
-np
-np
-adv
-verb
-np
-np
-np
-np
-np
-np
-verb
-np
-conj
-conj
-verb
-np
-np
-adj
-np
-np
-np
-adj
-verb
-conj
-conj
-np
-np
-adj
-verb
-np
-np
-np
-adj
-verb
-conj
-conj
-180736	np
-np
-pp
-noun
-verb
-np
-pron
-180744	adj
-verb
-np
-verb
-180749	conj
-conj
-180752	np
-verb
-conj
-np
-verb
-conj
-180759	adj
-verb
-conj
-np
-verb
-adv
-verb
-180767	noun
-verb
-conj
-noun
-pp
-verb
-pron
-180775	adv
-verb
-np
-np
-180780	pron
-verb
-conj
-pron
-verb
-conj
 np
 np
 pron
 verb
 np
-adj
-verb
-np
-conj
-np
-np
-verb
-pp
-np
-np
-np
-conj
-180805	adv
-verb
-conj
-verb
-conj
-verb
-pp
-conj
-np
-np
-np
-np
-verb
-pron
-pron
-adv
-verb
-pron
-np
-conj
-pp
-verb
-verb
-verb
-pp
-np
-np
-np
-conj
-pp
-pron
-verb
-verb
-np
-np
-np
-adv
-verb
-adv
-verb
-conj
-verb
-verb
-conj
-pron
-conj
-adv
-noun
-pp
-np
-np
-np
-verb
-conj
-np
-conj
-conj
-np
-np
-np
-180866	adv
-verb
-conj
-adv
-pp
-verb
-np
-adv
-verb
-adjp
-pron
-adj
-adv
-conj
-verb
-verb
-180883	pron
-verb
-conj
-pron
-verb
-conj
-pron
-verb
-np
-conj
-np
-verb
-verb
-conj
-np
-np
-np
 np
 conj
 verb
 np
-verb
-conj
-adj
-180908	np
-conj
-np
-np
-conj
-np
-verb
-pron
-180917	adv
-conj
-verb
-pp
-np
-np
-conj
-verb
-pron
-adj
-np
-np
-np
-adv
-verb
-conj
-verb
-pp
-np
-conj
-verb
-verb
-conj
-pp
-np
-verb
-verb
-pron
-pron
-conj
-verb
-180949	np
 np
 pp
 np
-np
-np
-np
-np
 conj
-np
-pp
-np
-np
-adv
-verb
-conj
-adv
-verb
-np
-np
-180970	verb
-verb
-np
-pp
-np
-np
-conj
-verb
-np
-pp
-np
-np
-noun
-verb
-adj
-pp
-np
-np
-np
-conj
-adv
-verb
-verb
-np
-pp
-np
-np
-np
-np
-181000	adv
-verb
-np
-np
-conj
-verb
-np
-np
-pp
-np
-ptcl
-adv
-verb
-pron
-pp
-np
-np
-conj
-verb
-verb
-pron
-181024	verb
-conj
-verb
-pron
-181029	verb
-conj
-verb
-181033	verb
-conj
-verb
-pron
-181038	np
-conj
-verb
-verb
-conj
-verb
-verb
-conj
-verb
-verb
-conj
-np
-verb
-pp
-181053	pron
-verb
-np
-np
-noun
-noun
-verb
-pron
-conj
-np
-verb
-noun
-verb
-pron
-181068	conj
-conj
-pron
-adj
-verb
-verb
-np
-verb
-np
-np
-advp
-181080	np
-np
-np
-pp
-np
-verb
-adj
-verb
-pron
-np
-conj
-pron
-verb
-conj
-verb
-pron
-np
-adv
-np
-verb
-pron
-pron
-conj
-verb
-181105	np
-conj
-np
-verb
-pp
-np
-np
-conj
-181115	adj
-np
-conj
-adj
-181120	np
-verb
-pp
-np
-conj
-adj
-verb
-verb
-pp
-conj
-181132	adj
-np
-conj
-verb
-181137	np
-verb
-pp
-np
-conj
-adj
-verb
-verb
-pron
-verb
-pp
-np
-181150	pron
-verb
-pp
-pp
-np
-adv
-conj
-verb
-np
-pp
-np
-np
-verb
-pron
-verb
-pp
-noun
-conj
-pp
-noun
-adv
-np
-np
-np
-verb
-np
-conj
-np
-np
-verb
-adv
-verb
-np
-np
-verb
-conj
-np
-np
-verb
-np
-np
-adv
-verb
-np
-verb
-conj
-pp
-verb
-pp
-np
-np
-verb
-pron
-181204	np
-verb
-pron
-181208	noun
-noun
-verb
-pp
-np
-np
-np
-conj
-verb
-np
-np
-181220	np
-np
-np
-pp
-np
-adj
-verb
-pron
-pp
-np
-np
-181233	noun
-noun
-np
-np
-verb
-conj
-np
-np
-noun
-verb
-conj
-np
-np
-np
-verb
-conj
-adv
-verb
-pron
-conj
-adv
-verb
-pron
-verb
-pp
-verb
-np
-np
-conj
-pron
-verb
-np
-np
-np
-conj
-verb
-pron
-verb
 181272	np
+np
+verb
+pp
+np
+verb
+pron
+conj
+conj
+verb
+adv
+verb
+pp
+conj
+np
+conj
+verb
+181290	pp
+np
+conj
+pp
+np
+np
+np
+verb
+verb
+conj
+verb
+np
+verb
+pron
+verb
+np
+np
+pron
+conj
+conj
+verb
+verb
+pp
+np
+np
+conj
+verb
+np
+np
+verb
+181321	np
+np
+np
+pp
+np
+conj
+181328	np
+np
+verb
+pp
+np
+verb
+pron
+verb
+conj
+adv
+verb
+conj
+np
+verb
+conj
+conj
+pp
+np
+np
+verb
+adv
+conj
+verb
+pron
+verb
+conj
+np
+np
+np
+verb
+pp
+pron
+verb
+pron
+adv
+conj
+verb
+pron
+181367	np
+np
+pp
+np
+verb
+np
+np
+verb
+np
+np
+verb
+np
+np
+pp
+conj
+pp
+pp
+pp
+np
+np
+np
+np
+verb
+pron
+adv
+conj
+verb
+pron
+np
+np
+conj
+np
+verb
+np
+np
+conj
+181404	verb
+pron
+pp
+conj
+verb
+pron
+pp
+np
+conj
+conj
+verb
+np
+np
+np
+verb
+np
+np
+np
+np
+np
+conj
+conj
+adv
+verb
+np
+adv
+np
+np
+verb
+np
+np
+conj
+conj
+verb
+adv
+verb
+conj
+np
+adj
+verb
+conj
+np
+np
+conj
+verb
+np
+verb
+verb
+pron
+verb
+np
+np
+pron
+conj
+verb
+verb
+np
+np
+conj
+np
+np
+verb
+conj
+181468	verb
+np
+verb
+conj
+181473	np
+np
+np
+pp
+np
+conj
+181480	np
+np
+verb
+pp
+np
+verb
+pron
+adv
+verb
+pron
+noun
+pp
+np
+181494	adv
+181496	conj
+verb
+conj
+adv
+noun
+181502	conj
+verb
+conj
+pron
+noun
+pp
+181509	adv
+181511	conj
+conj
+verb
+conj
+adv
+noun
+adv
+181519	conj
+conj
+conj
+verb
+np
+np
+adv
+verb
+np
+np
+np
+np
+np
+np
+verb
+np
+conj
+conj
+verb
+np
+np
+adj
+np
+np
+np
+adj
+verb
+conj
+conj
+np
+np
+adj
+verb
+np
+np
+np
+adj
+verb
+conj
+conj
+181560	np
+np
+pp
+noun
+verb
+np
+pron
+adj
+verb
+np
+verb
+181572	conj
+conj
+181575	np
+verb
+conj
+np
+verb
+conj
+181582	adj
+verb
+conj
+np
+verb
+adv
+verb
+181590	noun
+verb
+conj
+noun
+pp
+verb
+pron
+181598	adv
+verb
+np
+np
+181603	pron
+verb
+conj
+pron
+verb
+conj
+np
+np
+pron
+verb
+np
+adj
+verb
+np
+conj
+np
+np
+verb
+pp
+np
+np
+np
+conj
+181628	adv
+verb
+conj
+verb
+conj
+verb
+pp
+conj
+np
+np
+np
+np
+verb
+pron
+pron
+adv
+verb
+pron
+np
+conj
+pp
+verb
+verb
+verb
+pp
+np
+np
+np
+conj
+pp
+pron
+verb
+verb
+np
+np
+np
+adv
+verb
+adv
+verb
+conj
+verb
+verb
+conj
+pron
+conj
+adv
+noun
+pp
+np
+np
+np
+verb
+conj
+np
+conj
+conj
+np
+np
+np
+181689	adv
+verb
+conj
+adv
+pp
+verb
+np
+adv
+verb
+adjp
+pron
+adj
+adv
+conj
+verb
+verb
+181706	pron
+verb
+conj
+pron
+verb
+conj
+pron
+verb
+np
+conj
+np
+verb
+verb
+conj
+np
+np
+np
+np
+conj
+verb
+np
+verb
+conj
+adj
+181731	np
+conj
+np
+np
+conj
+np
+verb
+pron
+adv
+conj
+verb
+pp
+np
+np
+conj
+verb
+pron
+adj
+np
+np
+np
+adv
+verb
+conj
+verb
+pp
+np
+conj
+verb
+verb
+conj
+pp
+np
+verb
+verb
+pron
+pron
+conj
+verb
+181771	np
+np
+pp
+np
+np
+np
+np
+np
+conj
+np
+pp
+np
+np
+adv
+verb
+conj
+adv
+verb
+np
+np
+verb
+verb
+np
+pp
+np
+np
+conj
+verb
+np
+pp
+np
+np
+noun
+verb
+adj
+pp
+np
+np
+np
+conj
+adv
+verb
+verb
+np
+pp
+np
+np
+np
+np
+adv
+verb
+np
+np
+conj
+verb
+np
+np
+pp
+np
+ptcl
+adv
+verb
+pron
+pp
+np
+np
+conj
+verb
+verb
+pron
+181842	verb
+conj
+verb
+pron
+181847	verb
+conj
+verb
+181851	verb
+conj
+verb
+pron
+181856	np
+conj
+verb
+verb
+conj
+verb
+verb
+conj
+verb
+verb
+conj
+np
+verb
+pp
+pron
+verb
+np
+np
+noun
+noun
+verb
+pron
+conj
+np
+verb
+noun
+verb
+pron
+conj
+conj
+pron
+adj
+verb
+verb
+np
+verb
+np
+np
+advp
+181896	np
+np
+np
+pp
+np
+verb
+adj
+verb
+pron
+np
+conj
+pron
+verb
+conj
+verb
+pron
+np
+adv
+np
+verb
+pron
+pron
+conj
+verb
+181921	np
+conj
+np
+verb
+pp
+np
+np
+conj
+181931	adj
+np
+conj
+adj
+181936	np
+verb
+pp
+np
+conj
+adj
+verb
+verb
+pp
+conj
+181948	adj
+np
+conj
+verb
+181953	np
+verb
+pp
+np
+conj
+adj
+verb
+verb
+pron
+verb
+pp
+np
+pron
+verb
+pp
+pp
+np
+adv
+conj
+verb
+np
+pp
+np
+np
+verb
+pron
+verb
+pp
+noun
+conj
+pp
+noun
+adv
+np
+np
+np
+verb
+np
+conj
+np
+np
+verb
+adv
+verb
+np
+np
+verb
+conj
+np
+np
+verb
+np
+np
+adv
+verb
+np
+verb
+conj
+pp
+verb
+pp
+np
+np
+verb
+pron
+182019	np
+verb
+pron
+noun
+noun
+verb
+pp
+np
+np
+np
+conj
+verb
+np
+np
+182034	np
+np
+np
+pp
+np
+adj
+verb
+pron
+pp
+np
+np
+noun
+noun
+np
+np
+verb
+conj
+np
+np
+noun
+verb
+conj
+np
+np
+np
+verb
+conj
+adv
+verb
+pron
+conj
+adv
+verb
+pron
+verb
+pp
+verb
+np
+np
+conj
+pron
+verb
+np
+np
+np
+conj
+verb
+pron
+verb
+np
 pron
 verb
 np
@@ -170719,7 +170719,7 @@ np
 pp
 np
 conj
-181281	verb
+verb
 np
 conj
 verb
@@ -170749,7 +170749,7 @@ adv
 verb
 pron
 verb
-181312	np
+np
 pron
 verb
 np
@@ -170777,7 +170777,7 @@ np
 np
 adj
 conj
-181342	verb
+verb
 conj
 verb
 np
@@ -170791,14 +170791,14 @@ np
 vp
 conj
 pron
-181357	conj
+182164	conj
 noun
 verb
 conj
 conj
 np
 np
-181365	verb
+verb
 conj
 pron
 pp
@@ -170825,7 +170825,7 @@ np
 verb
 pron
 verb
-181393	verb
+verb
 verb
 conj
 adv
@@ -170836,338 +170836,338 @@ conj
 verb
 pron
 np
-181405	verb
+182210	verb
 adj
 verb
 conj
-181410	verb
-pron
-verb
-np
-conj
-verb
-np
-181418	pron
-verb
-noun
-pp
-np
-181424	verb
-conj
-pron
-pp
-verb
-pron
-noun
-181432	verb
-pron
-conj
-verb
-noun
-np
-np
-verb
-pp
-np
-adj
-adv
-verb
-verb
-pron
-pron
-verb
 verb
 pron
 verb
-conj
-np
-verb
-181456	noun
-adv
-verb
-adj
-conj
-pp
-np
-np
-verb
-conj
-181467	adj
-verb
-noun
-conj
-verb
-np
-np
-np
-conj
-np
-np
-verb
-pp
-verb
-pp
-noun
-conj
-181486	verb
-pron
-verb
-conj
-verb
-conj
-181494	adj
-verb
-conj
-verb
-conj
-181501	np
-np
-verb
-pron
-conj
-verb
-verb
-conj
-np
-verb
-conj
-verb
-verb
-181515	verb
-pron
-pp
-np
-pp
-np
-verb
-verb
-conj
-pron
-conj
-adj
-pp
-181529	conj
-verb
-conj
-verb
-pp
-conj
-conj
-pp
-np
-np
-np
-np
-conj
-np
-np
-verb
-pp
-np
-np
-np
-adv
-verb
-181552	np
-conj
-np
-np
 np
 conj
 verb
 np
-np
-181562	verb
-181564	conj
-verb
-verb
-pron
-conj
-verb
-np
-pp
-np
-np
-conj
-verb
-np
-pp
-np
-np
-verb
-np
-np
-181584	conj
-conj
-verb
-np
-np
-conj
-verb
-pron
-np
-conj
-verb
-conj
-verb
-pron
-181599	adj
-conj
-verb
-verb
-pron
-np
-verb
-conj
-verb
-np
-noun
-conj
-np
-adv
-verb
-verb
-conj
-verb
-verb
-pp
-181620	np
-verb
-181623	pron
-np
-np
-verb
-conj
-np
-verb
-verb
-conj
-np
-noun
-pp
-verb
-verb
-pp
-np
-conj
-verb
-np
-verb
-pron
-noun
-verb
-pron
-conj
-verb
-conj
-verb
-pron
-np
-181655	np
-noun
-verb
-conj
-np
-np
-np
-noun
-np
-conj
-np
-np
-adv
-verb
-adv
-np
-verb
-np
-conj
-np
-verb
-pron
-noun
-verb
-pron
-181681	adj
-verb
-conj
-verb
-np
-np
-np
-conj
-verb
-pron
-181692	verb
-pron
-conj
-verb
-np
-verb
-np
-np
-conj
-181702	verb
-pron
-pp
-np
-verb
-pron
-np
-np
-conj
-verb
-np
-verb
-pp
-np
-conj
-np
-verb
-pp
-np
-pron
-conj
-verb
-conj
-verb
-verb
 pron
 verb
 noun
-verb
+pp
+np
 verb
 conj
+pron
+pp
 verb
 pron
+noun
+182234	verb
 pron
-adj
+conj
 verb
+noun
+np
+np
+verb
+pp
+np
 adj
 adv
 verb
 verb
-181743	np
-conj
-np
-conj
-verb
-np
-np
-conj
-verb
-verb
-181754	adj
-verb
 pron
-conj
-181759	np
-conj
-np
+pron
+verb
+verb
 pron
 verb
 conj
-181766	verb
+np
+verb
+182258	noun
+adv
+verb
+adj
+conj
+pp
+np
+np
+verb
+conj
+182269	adj
+verb
+noun
+conj
+verb
+np
+np
+np
+conj
+np
+np
+verb
+pp
+verb
+pp
+noun
+conj
+182288	verb
+pron
+verb
+conj
+verb
+conj
+182295	adj
+verb
+conj
+verb
+conj
+182301	np
+np
+verb
+pron
+conj
+verb
+verb
+conj
+np
+verb
+conj
+verb
+verb
+verb
+pron
+pp
+np
+pp
+np
+verb
+verb
+conj
+pron
+conj
+adj
+pp
+182328	conj
+verb
+conj
+verb
+pp
+conj
+conj
+pp
+np
+np
+np
+np
+conj
+np
+np
+verb
+pp
+np
+np
+np
+adv
+verb
+182351	np
+conj
+np
+np
+np
+conj
+verb
+np
+np
+verb
+conj
+verb
+verb
+pron
+conj
+verb
+np
+pp
+np
+np
+conj
+verb
+np
+pp
+np
+np
+verb
+np
+np
+182381	conj
+conj
+verb
+np
+np
+conj
+verb
+pron
+np
+conj
+verb
+conj
+verb
+pron
+adj
+conj
+verb
+verb
+pron
+np
+verb
+conj
+verb
+np
+noun
+conj
+np
+adv
+verb
+verb
+conj
+verb
+verb
+pp
+182416	np
+verb
+182419	pron
+np
+np
+verb
+conj
+np
+verb
+verb
+conj
+np
+noun
+pp
+verb
+verb
+pp
+np
+conj
+verb
+np
+verb
+pron
+noun
+verb
+pron
+conj
+verb
+conj
+verb
+pron
+np
+182451	np
+noun
+verb
+conj
+np
+np
+np
+noun
+np
+conj
+np
+np
+adv
+verb
+adv
+np
+verb
+np
+conj
+np
+verb
+pron
+noun
+verb
+pron
+182477	adj
+verb
+conj
+verb
+np
+np
+np
+conj
+verb
+pron
+182488	verb
+pron
+conj
+verb
+np
+verb
+np
+np
+conj
+verb
+pron
+pp
+np
+verb
+pron
+np
+np
+conj
+verb
+np
+verb
+pp
+np
+conj
+np
+verb
+pp
+np
+pron
+conj
+verb
+conj
+verb
+verb
+pron
+verb
+noun
+verb
+verb
+conj
+verb
+pron
+pron
+adj
+verb
+adj
+adv
+verb
+verb
+182538	np
+conj
+np
+conj
+verb
+np
+np
+conj
+verb
+verb
+adj
+verb
+pron
+conj
+182553	np
+conj
+np
+pron
+verb
+conj
+verb
 pron
 pp
 np
@@ -171197,8 +171197,8 @@ conj
 verb
 verb
 verb
-181797	pron
-181799	conj
+pron
+182591	conj
 np
 np
 verb
@@ -171219,7 +171219,7 @@ conj
 verb
 pron
 verb
-181821	conj
+conj
 verb
 pron
 verb
@@ -171259,7 +171259,7 @@ verb
 pp
 np
 verb
-181862	conj
+182653	conj
 np
 verb
 conj
@@ -171302,7 +171302,7 @@ np
 np
 verb
 np
-181906	verb
+verb
 noun
 verb
 np
@@ -171321,14 +171321,14 @@ np
 np
 np
 verb
-181926	pp
+182716	pp
 conj
 verb
 adj
 pp
 np
 np
-181934	pron
+pron
 conj
 verb
 adj
@@ -171338,7 +171338,7 @@ np
 np
 conj
 verb
-181945	verb
+182734	verb
 conj
 verb
 conj
@@ -171357,7 +171357,7 @@ noun
 adv
 verb
 np
-181965	verb
+verb
 verb
 np
 np
@@ -171378,7 +171378,7 @@ np
 verb
 conj
 verb
-181987	np
+182775	np
 verb
 np
 np
@@ -171412,10 +171412,10 @@ np
 conj
 verb
 np
-182022	conj
+182810	conj
 verb
 verb
-182026	np
+182814	np
 conj
 np
 np
@@ -171428,7 +171428,7 @@ np
 pp
 pp
 np
-182040	conj
+182828	conj
 verb
 np
 np
@@ -171436,23 +171436,23 @@ det
 conj
 verb
 verb
-182049	np
+182837	np
 verb
 verb
 conj
 adv
 verb
-182056	verb
+verb
 conj
 verb
 pron
 verb
-182062	noun
+182849	noun
 verb
 conj
 adv
 noun
-182068	conj
+182855	conj
 verb
 verb
 adj
@@ -171464,8 +171464,8 @@ pron
 np
 np
 verb
-182081	pp
-182083	conj
+182868	pp
+182870	conj
 np
 verb
 np
@@ -171552,7 +171552,7 @@ np
 adv
 verb
 conj
-182171	verb
+182958	verb
 verb
 np
 np
@@ -171582,7 +171582,7 @@ np
 verb
 conj
 pp
-182202	conj
+conj
 adj
 verb
 np
@@ -171590,12 +171590,12 @@ np
 verb
 np
 conj
-182211	verb
+182997	verb
 conj
 verb
 pron
 verb
-182217	verb
+verb
 noun
 np
 np
@@ -171608,7 +171608,7 @@ pp
 np
 np
 conj
-182231	verb
+183016	verb
 np
 pp
 np
@@ -171616,13 +171616,13 @@ np
 np
 conj
 verb
-182240	np
+183025	np
 conj
 np
 verb
 verb
-182246	verb
-182248	conj
+verb
+183032	conj
 verb
 np
 conj
@@ -171650,18 +171650,18 @@ np
 np
 np
 conj
-182277	verb
+verb
 adv
 np
 verb
 np
-182283	verb
+183066	verb
 conj
 verb
 verb
 pron
 np
-182290	verb
+verb
 conj
 pp
 np
@@ -171679,7 +171679,7 @@ pron
 verb
 verb
 pron
-182309	ptcl
+ptcl
 noun
 adv
 verb
@@ -171712,7 +171712,7 @@ pp
 np
 np
 np
-182343	pron
+pron
 conj
 verb
 verb
@@ -171721,7 +171721,7 @@ pron
 np
 verb
 conj
-182353	verb
+verb
 np
 verb
 np
@@ -171746,11 +171746,11 @@ np
 conj
 verb
 np
-182379	np
+183158	np
 np
 conj
 np
-182384	verb
+183163	verb
 pp
 np
 np
@@ -171761,7 +171761,7 @@ np
 np
 conj
 verb
-182396	np
+183175	np
 conj
 np
 verb
@@ -171770,7 +171770,7 @@ np
 verb
 pp
 conj
-182406	vp
+vp
 conj
 conj
 np
@@ -171781,7 +171781,7 @@ adv
 verb
 np
 np
-182418	np
+183196	np
 conj
 adj
 np
@@ -171808,11 +171808,11 @@ pron
 np
 np
 conj
-182446	verb
+183224	verb
 pron
 conj
 verb
-182451	np
+183229	np
 conj
 np
 np
@@ -171823,26 +171823,26 @@ np
 verb
 pron
 adj
-182463	verb
+183241	verb
 noun
 conj
-182468	np
+183246	np
 np
 conj
-182474	np
+183252	np
 np
 conj
-182478	np
+183256	np
 np
-182481	conj
-182483	conj
-182485	np
-182488	np
+183259	conj
+183261	conj
+183263	np
+183266	np
 np
 conj
-182493	np
+183271	np
 conj
-182497	np
+183275	np
 adv
 verb
 pron
@@ -171853,7 +171853,7 @@ np
 verb
 pron
 verb
-182509	pp
+183287	pp
 np
 adv
 verb
@@ -171867,7 +171867,7 @@ conj
 adv
 pp
 np
-182524	np
+183302	np
 verb
 np
 verb
@@ -171879,7 +171879,7 @@ verb
 np
 np
 np
-182537	verb
+verb
 verb
 adj
 verb
@@ -171887,19 +171887,19 @@ adj
 verb
 noun
 verb
-182546	adv
+adv
 verb
 adv
 verb
-182551	adv
+adv
 verb
-182554	conj
+183329	conj
 conj
 pp
 np
 np
 adv
-182561	np
+183336	np
 pp
 conj
 np
@@ -171913,14 +171913,14 @@ np
 pp
 np
 conj
-182576	conj
+183351	conj
 verb
 verb
 pron
 pp
 adj
 verb
-182584	conj
+conj
 verb
 conj
 verb
@@ -171950,7 +171950,7 @@ np
 pp
 verb
 conj
-182615	pron
+pron
 adv
 verb
 pron
@@ -171961,7 +171961,7 @@ np
 verb
 pp
 np
-182627	np
+183400	np
 conj
 np
 verb
@@ -171969,12 +171969,12 @@ np
 np
 np
 np
-182636	verb
+verb
 pron
 adj
 verb
 np
-182642	conj
+183414	conj
 pp
 np
 conj
@@ -171994,7 +171994,7 @@ adj
 conj
 np
 conj
-182663	adj
+adj
 conj
 np
 verb
@@ -172013,19 +172013,19 @@ verb
 pron
 pp
 pp
-182683	conj
+183454	conj
 conj
 verb
 pp
 pp
 np
-182690	conj
+183461	conj
 np
-182693	conj
+conj
 conj
 verb
 pron
-182698	adv
+adv
 verb
 adv
 conj
@@ -172039,7 +172039,7 @@ np
 np
 pron
 verb
-182713	conj
+183482	conj
 pron
 verb
 verb
@@ -172050,16 +172050,16 @@ np
 np
 verb
 pp
-182725	verb
-conj
-noun
-noun
-pp
+183494	verb
 conj
 noun
 noun
+pp
 conj
-182735	verb
+noun
+noun
+conj
+183504	verb
 noun
 pp
 conj
@@ -172086,10 +172086,10 @@ np
 verb
 pp
 np
-182763	conj
+conj
 verb
 pron
-182767	advp
+advp
 verb
 np
 np
@@ -172099,7 +172099,7 @@ verb
 np
 np
 np
-182778	adv
+183545	adv
 verb
 noun
 pp
@@ -172123,7 +172123,7 @@ pp
 conj
 np
 np
-182803	conj
+conj
 np
 noun
 verb
@@ -172137,12 +172137,12 @@ pron
 adj
 conj
 verb
-182819	verb
+183584	verb
 pron
 adv
 verb
 conj
-182825	pron
+pron
 adv
 verb
 pron
@@ -172176,7 +172176,7 @@ verb
 conj
 adv
 verb
-182860	conj
+183624	conj
 conj
 verb
 pp
@@ -172217,12 +172217,12 @@ verb
 pron
 pp
 pp
-182902	np
+183666	np
 np
 np
 pp
 np
-182908	pron
+pron
 conj
 verb
 pron
@@ -172232,7 +172232,7 @@ verb
 pron
 pron
 pp
-182919	np
+183682	np
 np
 np
 pp
@@ -172245,19 +172245,14 @@ verb
 noun
 pp
 np
-182933	verb
+183696	verb
 verb
 noun
 conj
 noun
 verb
 conj
-182941	verb
-noun
-pp
-np
-np
-conj
+183704	verb
 noun
 pp
 np
@@ -172268,26 +172263,31 @@ pp
 np
 np
 conj
-np
-np
-np
-np
-verb
-182963	conj
+noun
 pp
-adv
-verb
-pron
-adj
+np
+np
 conj
+np
+np
+np
+np
 verb
-182972	conj
+183726	conj
 pp
 adv
 verb
 pron
 adj
 conj
+verb
+183735	conj
+pp
+adv
+verb
+pron
+adj
+conj
 pron
 adv
 verb
@@ -172336,7 +172336,7 @@ np
 np
 verb
 conj
-183028	pron
+pron
 verb
 np
 np
@@ -172345,7 +172345,7 @@ np
 adv
 pp
 np
-183038	verb
+verb
 pron
 advp
 verb
@@ -172353,7 +172353,7 @@ np
 np
 conj
 verb
-183047	conj
+conj
 verb
 np
 verb
@@ -172362,7 +172362,7 @@ np
 np
 verb
 adv
-183057	conj
+183817	conj
 pp
 np
 np
@@ -172380,7 +172380,7 @@ np
 np
 verb
 pron
-183076	pron
+183836	pron
 verb
 verb
 conj
@@ -172395,7 +172395,7 @@ verb
 verb
 noun
 pron
-183092	conj
+183852	conj
 adj
 verb
 conj
@@ -172419,7 +172419,7 @@ pron
 adv
 verb
 pp
-183117	pron
+pron
 conj
 verb
 verb
@@ -172427,7 +172427,7 @@ np
 verb
 np
 pp
-183126	pron
+pron
 verb
 pp
 np
@@ -172450,11 +172450,11 @@ np
 np
 np
 conj
-183150	pron
+pron
 verb
 noun
 verb
-183155	ptcl
+ptcl
 verb
 pron
 conj
@@ -172475,7 +172475,7 @@ verb
 np
 np
 pp
-183177	verb
+verb
 pron
 adv
 verb
@@ -172494,11 +172494,11 @@ np
 adj
 pron
 verb
-183197	pp
+183952	pp
 conj
 np
 np
-183202	np
+183957	np
 pp
 np
 np
@@ -172510,18 +172510,18 @@ verb
 pron
 np
 conj
-183215	np
+183970	np
 conj
 np
 pp
 verb
 conj
-183222	conj
+conj
 verb
 verb
 pron
 verb
-183228	verb
+183982	verb
 verb
 verb
 noun
@@ -172533,7 +172533,7 @@ np
 np
 adj
 verb
-183241	np
+np
 verb
 pp
 np
@@ -172553,7 +172553,7 @@ verb
 verb
 conj
 noun
-183262	conj
+184015	conj
 conj
 conj
 verb
@@ -172563,15 +172563,15 @@ verb
 np
 np
 np
-183273	verb
+184026	verb
 conj
 verb
 conj
 verb
-183279	verb
-183283	conj
+verb
+184035	conj
 np
-183286	conj
+184038	conj
 conj
 verb
 np
@@ -172582,7 +172582,7 @@ adv
 verb
 verb
 np
-183298	pp
+pp
 verb
 np
 np
@@ -172599,19 +172599,19 @@ noun
 conj
 conj
 pp
-183316	conj
+184067	conj
 verb
-183319	np
+184070	np
 verb
 pp
 adv
 pp
-183325	conj
+184076	conj
 verb
 conj
 verb
 pron
-183332	conj
+184083	conj
 adj
 verb
 pp
@@ -172628,7 +172628,7 @@ conj
 conj
 pp
 verb
-183350	np
+184101	np
 verb
 pp
 verb
@@ -172651,22 +172651,22 @@ np
 verb
 np
 verb
-183374	verb
+verb
 pron
-183377	np
-183379	np
+184127	np
+184129	np
 conj
 np
 conj
-183384	verb
+184134	verb
 pron
 pp
-183388	conj
+184138	conj
 conj
 verb
 pron
 adj
-183395	ptcl
+ptcl
 np
 conj
 adv
@@ -172680,7 +172680,7 @@ pp
 np
 np
 conj
-183410	adj
+184158	adj
 verb
 np
 conj
@@ -172692,13 +172692,13 @@ pron
 verb
 conj
 adv
-183423	np
+184171	np
 conj
 pron
 verb
 np
 verb
-183430	verb
+verb
 pp
 np
 verb
@@ -172715,7 +172715,7 @@ conj
 verb
 pp
 conj
-183449	verb
+184196	verb
 conj
 np
 conj
@@ -172746,7 +172746,7 @@ np
 verb
 conj
 verb
-183481	verb
+184228	verb
 noun
 conj
 verb
@@ -172769,11 +172769,11 @@ conj
 verb
 pron
 verb
-183505	pron
+pron
 verb
 noun
 conj
-183510	verb
+184256	verb
 conj
 np
 pp
@@ -172822,12 +172822,12 @@ adjp
 np
 verb
 adv
-183560	conj
+conj
 conj
 verb
 pron
 verb
-183566	noun
+184311	noun
 verb
 conj
 adv
@@ -172872,7 +172872,7 @@ pron
 pron
 verb
 pp
-183612	pron
+pron
 verb
 np
 conj
@@ -172927,7 +172927,7 @@ verb
 pron
 adj
 conj
-183668	verb
+184412	verb
 np
 conj
 verb
@@ -172941,15 +172941,15 @@ conj
 verb
 verb
 pp
-183683	np
+184427	np
 verb
 verb
-183687	np
-183689	np
+184431	np
+np
 pron
 verb
 np
-183694	np
+np
 pron
 verb
 np
@@ -173002,7 +173002,7 @@ verb
 pron
 conj
 np
-183748	conj
+184490	conj
 conj
 verb
 np
@@ -173017,14 +173017,14 @@ np
 conj
 verb
 verb
-183764	pron
+pron
 adv
 verb
 np
 conj
 adv
 pp
-183772	np
+184513	np
 np
 np
 verb
@@ -173033,7 +173033,7 @@ np
 np
 verb
 pron
-183782	np
+184523	np
 np
 verb
 pp
@@ -173041,7 +173041,7 @@ verb
 conj
 np
 np
-183791	conj
+184532	conj
 verb
 pp
 adv
@@ -173086,10 +173086,10 @@ np
 np
 np
 conj
-183837	adv
+adv
 verb
 pron
-183841	verb
+184581	verb
 pp
 np
 np
@@ -173121,8 +173121,8 @@ verb
 pp
 verb
 pron
-183874	np
-183876	conj
+184614	np
+184616	conj
 verb
 np
 np
@@ -173132,7 +173132,7 @@ np
 adv
 verb
 conj
-183887	pron
+pron
 verb
 noun
 pp
@@ -173141,7 +173141,7 @@ np
 np
 verb
 pron
-183897	pron
+pron
 conj
 verb
 pp
@@ -173151,7 +173151,7 @@ np
 adv
 verb
 pron
-183908	conj
+184646	conj
 pp
 np
 np
@@ -173159,7 +173159,7 @@ conj
 pp
 verb
 conj
-183917	verb
+184655	verb
 np
 adj
 conj
@@ -173167,7 +173167,7 @@ np
 np
 adj
 conj
-183926	verb
+184664	verb
 np
 adj
 conj
@@ -173213,7 +173213,7 @@ conj
 pron
 conj
 np
-183973	np
+np
 pron
 verb
 np
@@ -173237,7 +173237,7 @@ verb
 pron
 np
 np
-183998	conj
+184735	conj
 verb
 noun
 verb
@@ -173249,7 +173249,7 @@ conj
 verb
 verb
 pron
-184012	np
+184749	np
 conj
 noun
 verb
@@ -173262,7 +173262,7 @@ conj
 adv
 np
 np
-184026	np
+184763	np
 conj
 conj
 verb
@@ -173271,7 +173271,7 @@ pp
 np
 np
 np
-184036	np
+184773	np
 conj
 np
 adv
@@ -173283,10 +173283,10 @@ pp
 np
 np
 np
-184049	np
+184786	np
 conj
 np
-184054	verb
+184790	verb
 pp
 np
 pp
@@ -173304,7 +173304,7 @@ conj
 verb
 adjp
 adv
-184073	np
+np
 verb
 pp
 np
@@ -173344,7 +173344,7 @@ adv
 verb
 adv
 verb
-184114	pp
+pp
 np
 np
 verb
@@ -173353,12 +173353,12 @@ verb
 conj
 verb
 verb
-184124	verb
+184858	verb
 conj
 verb
 conj
 verb
-184130	adv
+184864	adv
 verb
 conj
 verb
@@ -173391,7 +173391,7 @@ pron
 verb
 np
 verb
-184164	np
+184898	np
 conj
 np
 np
@@ -173405,7 +173405,7 @@ conj
 pron
 pron
 verb
-184179	np
+184913	np
 np
 conj
 np
@@ -173421,7 +173421,7 @@ verb
 verb
 verb
 pron
-184196	pron
+184930	pron
 verb
 np
 np
@@ -173438,8 +173438,8 @@ pp
 np
 np
 verb
-184214	verb
-184216	np
+verb
+184949	np
 np
 conj
 np
@@ -173449,7 +173449,7 @@ conj
 verb
 np
 np
-184227	np
+184960	np
 np
 np
 pp
@@ -173506,7 +173506,7 @@ verb
 np
 verb
 pron
-184286	adj
+185018	adj
 conj
 verb
 pp
@@ -173516,13 +173516,13 @@ adv
 verb
 np
 conj
-184297	adv
+185029	adv
 verb
 pp
 adv
 verb
 np
-184305	noun
+185036	noun
 conj
 verb
 verb
@@ -173532,18 +173532,18 @@ adv
 verb
 noun
 verb
-184316	adj
+185047	adj
 conj
 verb
 pp
 np
 conj
-184323	verb
+185054	verb
 np
 conj
 verb
 pron
-184329	adj
+185060	adj
 conj
 verb
 pp
@@ -173551,7 +173551,7 @@ np
 np
 np
 conj
-184338	verb
+verb
 noun
 pron
 conj
@@ -173612,31 +173612,31 @@ pp
 pron
 verb
 conj
-184400	verb
+185130	verb
 adv
 verb
 conj
 verb
 adv
-184407	conj
+185137	conj
 conj
 verb
 pron
-184412	np
+185142	np
 np
 verb
-184417	noun
+185147	noun
 verb
 conj
 advp
 verb
 conj
-184424	verb
+185154	verb
 verb
 conj
 advp
 verb
-184430	verb
+verb
 conj
 np
 np
@@ -173650,7 +173650,7 @@ conj
 np
 np
 verb
-184445	ptcl
+185174	ptcl
 adv
 verb
 np
@@ -173665,14 +173665,14 @@ verb
 conj
 verb
 pron
-184461	np
+np
 conj
 adj
 np
 conj
 verb
 conj
-184469	np
+np
 np
 conj
 verb
@@ -173680,8 +173680,8 @@ conj
 verb
 pron
 conj
-184478	np
-184480	conj
+185205	np
+185207	conj
 verb
 verb
 pron
@@ -173690,7 +173690,7 @@ conj
 adv
 verb
 conj
-184490	verb
+185217	verb
 pron
 verb
 conj
@@ -173702,7 +173702,7 @@ verb
 np
 np
 verb
-184503	adj
+adj
 verb
 np
 np
@@ -173736,7 +173736,7 @@ adj
 pp
 verb
 pron
-184538	adv
+185264	adv
 verb
 conj
 noun
@@ -173746,7 +173746,7 @@ adj
 verb
 verb
 conj
-184549	conj
+185275	conj
 pp
 np
 adj
@@ -173760,7 +173760,7 @@ verb
 np
 verb
 conj
-184564	np
+185290	np
 np
 np
 conj
@@ -173779,14 +173779,14 @@ np
 verb
 pron
 verb
-184584	np
+np
 verb
 conj
 verb
 pron
 verb
 conj
-184592	verb
+185317	verb
 pron
 conj
 num
@@ -173827,7 +173827,7 @@ conj
 verb
 conj
 conj
-184634	verb
+185359	verb
 np
 conj
 noun
@@ -173864,7 +173864,7 @@ np
 conj
 pron
 verb
-184672	verb
+verb
 conj
 verb
 verb
@@ -173872,7 +173872,7 @@ pron
 det
 conj
 verb
-184681	ptcl
+ptcl
 ptcl
 adv
 verb
@@ -173891,7 +173891,7 @@ np
 np
 verb
 np
-184702	verb
+185425	verb
 adj
 np
 conj
@@ -173916,7 +173916,7 @@ verb
 np
 np
 np
-184728	np
+np
 pron
 verb
 noun
@@ -173940,7 +173940,7 @@ conj
 verb
 noun
 conj
-184753	verb
+185475	verb
 np
 np
 np
@@ -173957,7 +173957,7 @@ verb
 np
 np
 np
-184771	pron
+pron
 verb
 noun
 verb
@@ -174033,13 +174033,13 @@ verb
 np
 np
 np
-184848	np
+185569	np
 conj
 verb
 np
 np
 np
-184855	np
+185576	np
 conj
 verb
 pron
@@ -174055,7 +174055,7 @@ noun
 verb
 conj
 conj
-184872	verb
+185593	verb
 np
 conj
 noun
@@ -174073,12 +174073,12 @@ np
 np
 np
 conj
-184891	verb
+185612	verb
 pp
 np
 np
 np
-184897	np
+185618	np
 conj
 verb
 np
@@ -174091,7 +174091,7 @@ np
 np
 adv
 verb
-184911	np
+185632	np
 conj
 np
 np
@@ -174114,7 +174114,7 @@ verb
 np
 np
 np
-184935	np
+np
 verb
 pp
 np
@@ -174162,7 +174162,7 @@ verb
 np
 np
 np
-184984	np
+np
 verb
 pp
 np
@@ -174194,7 +174194,7 @@ np
 verb
 np
 conj
-185017	verb
+185736	verb
 np
 pp
 np
@@ -174208,7 +174208,7 @@ np
 np
 adv
 verb
-185032	np
+185751	np
 conj
 np
 np
@@ -174231,15 +174231,15 @@ np
 np
 adj
 verb
-185057	pron
+185775	pron
 verb
 pp
 np
 np
-185063	conj
+185781	conj
 conj
 verb
-185067	conj
+conj
 verb
 np
 np
@@ -174257,13 +174257,13 @@ pp
 np
 np
 conj
-185086	verb
+185803	verb
 pron
 conj
 verb
 adv
 pron
-185093	np
+185810	np
 np
 conj
 np
@@ -174279,7 +174279,7 @@ noun
 conj
 np
 np
-185110	conj
+185827	conj
 conj
 conj
 conj
@@ -174299,13 +174299,13 @@ np
 conj
 verb
 pron
-185131	adv
+adv
 verb
 noun
 adj
 conj
 adv
-185138	pp
+185854	pp
 np
 conj
 pp
@@ -174323,16 +174323,16 @@ pp
 np
 np
 verb
-185157	np
+185873	np
 np
 np
 conj
 verb
 np
 np
-185165	pron
+pron
 verb
-185168	np
+185883	np
 pron
 verb
 pp
@@ -174351,9 +174351,9 @@ conj
 pp
 verb
 pp
-185188	np
+185903	np
 np
-185191	np
+185906	np
 np
 verb
 conj
@@ -174365,7 +174365,7 @@ pron
 verb
 pron
 conj
-185204	verb
+verb
 pron
 verb
 verb
@@ -174375,7 +174375,7 @@ pp
 conj
 pron
 verb
-185216	np
+np
 conj
 verb
 np
@@ -174408,12 +174408,12 @@ adv
 pp
 np
 np
-185250	np
+185962	np
 conj
 verb
 np
 pp
-185256	np
+185968	np
 conj
 verb
 verb
@@ -174471,20 +174471,20 @@ verb
 verb
 np
 conj
-185315	verb
+186027	verb
 pp
 conj
 verb
 np
 np
-185322	adj
+adj
 conj
 verb
 verb
 pron
 np
 verb
-185330	adj
+adj
 verb
 np
 conj
@@ -174505,7 +174505,7 @@ np
 conj
 verb
 pron
-185352	adv
+adv
 noun
 verb
 verb
@@ -174517,12 +174517,12 @@ det
 conj
 verb
 pron
-185365	adv
+adv
 verb
 adv
 conj
 adv
-185371	np
+186079	np
 conj
 np
 det
@@ -174539,7 +174539,7 @@ verb
 pp
 np
 verb
-185389	np
+186097	np
 np
 conj
 np
@@ -174549,7 +174549,7 @@ pp
 np
 verb
 conj
-185400	verb
+186108	verb
 verb
 np
 np
@@ -174557,13 +174557,13 @@ np
 conj
 np
 conj
-185409	verb
+186117	verb
 adj
 conj
 verb
 conj
 verb
-185416	np
+186124	np
 np
 verb
 np
@@ -174575,11 +174575,11 @@ verb
 np
 adjp
 pp
-185429	conj
+186137	conj
 conj
 adv
 verb
-185434	np
+186142	np
 verb
 pp
 np
@@ -174600,13 +174600,13 @@ pp
 np
 pp
 verb
-185456	adj
+adj
 conj
 verb
 adj
 verb
 adv
-185463	np
+np
 conj
 adv
 np
@@ -174651,7 +174651,7 @@ verb
 np
 pron
 verb
-185510	verb
+verb
 pron
 verb
 adv
@@ -174713,7 +174713,7 @@ adj
 pp
 verb
 conj
-185573	verb
+verb
 pron
 pp
 np
@@ -174736,7 +174736,7 @@ pp
 np
 pp
 conj
-185597	verb
+186300	verb
 pron
 np
 np
@@ -174771,7 +174771,7 @@ adv
 verb
 np
 pp
-185633	conj
+186336	conj
 verb
 pp
 np
@@ -174804,655 +174804,655 @@ np
 np
 conj
 verb
-185667	verb
-185669	np
-conj
-np
-conj
-verb
-185675	conj
-noun
-verb
-pron
-conj
-verb
-pron
-verb
-185684	np
-conj
-np
-noun
-pron
-pp
-verb
-advp
-verb
-185694	np
-np
-np
-np
-conj
-verb
-np
-np
-np
-pp
-np
-np
-noun
-adv
-verb
-pp
-noun
-verb
-185713	np
-np
-np
-pron
-verb
-np
-conj
-np
-adv
-verb
-pp
-adv
-conj
-verb
-pron
-verb
-noun
-np
-conj
-verb
-np
-verb
-pron
-185737	verb
-conj
-verb
-185741	verb
-pp
-np
-verb
-np
-conj
-verb
-pp
-np
-pron
-verb
-np
-adv
-verb
-np
-verb
-pron
-verb
-conj
-np
-verb
-np
-verb
-det
-conj
-verb
-verb
-np
-185770	pron
-adv
-verb
-np
-np
-np
-np
-verb
-verb
-pron
-np
-verb
-np
-adj
-conj
-adj
-conj
-verb
-adj
-pp
-verb
-verb
-conj
-np
-verb
-pron
-verb
-pron
-np
-det
-conj
-verb
-noun
-np
-adj
-verb
-verb
-conj
-np
-verb
-pp
-np
-pp
-np
-verb
-conj
-pp
-verb
-185819	conj
-verb
-pp
-np
-pp
-np
-verb
-pron
-verb
-np
-pp
-conj
-np
-verb
-185834	np
-185836	pron
-verb
-verb
-np
-conj
-np
-verb
-adv
-verb
-np
-conj
-verb
-adv
-np
-verb
-pp
-np
-np
-185855	conj
-conj
-verb
-np
-pp
-np
-np
-verb
-verb
-verb
-185866	verb
-pron
-185869	np
-np
-np
-adv
-verb
-det
-conj
-adv
-verb
-pron
-noun
-conj
-verb
-np
-np
-verb
-pron
-verb
-185888	verb
-pron
-conj
-verb
-pp
-det
-conj
-verb
-verb
-185898	adv
-verb
-conj
-adv
-pp
-np
-185905	np
-verb
-np
-det
-conj
-verb
-verb
-pron
-verb
-noun
-verb
-pron
-det
-conj
-verb
-verb
-adv
-verb
-adj
-verb
-np
-np
-np
-conj
-verb
-np
-det
-conj
-verb
-185935	ptcl
-noun
-np
-conj
-np
-verb
-pp
-185943	np
-verb
-pp
-np
-np
-np
-np
-adv
-verb
-np
-verb
-pron
-185956	np
-adj
-np
-np
-185961	verb
-pron
-conj
-verb
-conj
-verb
-np
-np
-pp
-np
-np
-conj
-verb
-adv
-np
-verb
-pp
-np
-np
-np
-conj
-verb
-pp
-np
-verb
-adv
-conj
-185989	verb
-pron
-np
-verb
-pp
-185995	conj
-np
-conj
-verb
-pron
-pp
-np
-np
-conj
-verb
-pron
-conj
-np
-verb
-verb
-186011	adj
-verb
-adj
-adj
-conj
-adj
-verb
-conj
-adj
-verb
-conj
-verb
-np
-np
-np
-conj
-verb
-np
-np
-verb
-186033	verb
-pp
-np
-conj
-186038	adv
-np
-verb
-pron
-conj
-adv
-verb
-pron
-verb
-conj
-verb
-np
-adv
-verb
-ptcl
-adv
-verb
-pp
-np
-conj
-verb
-pron
-np
-adv
-pron
-pp
-np
-conj
-verb
-np
-conj
-verb
-pron
-np
-np
-verb
-det
-conj
-verb
-186078	conj
-np
-conj
-verb
-np
-verb
-pp
-np
-verb
-186088	np
-np
-conj
-np
-conj
-verb
-verb
-conj
-186097	verb
-np
-np
-conj
-np
-conj
-186104	verb
-adj
-conj
-verb
-conj
-186110	np
-np
-verb
-np
-verb
-np
-np
-conj
-verb
-verb
-np
-pp
-186123	conj
-conj
-verb
-np
-verb
-pp
-np
-conj
-verb
-pp
-np
-np
-conj
-verb
-np
-186139	conj
-verb
-verb
-pron
-np
-pp
-np
-verb
-pron
-det
-conj
-verb
-verb
-pron
-186154	adj
-verb
-verb
-186158	noun
-verb
-conj
-np
-conj
-adv
-186165	adv
-noun
-verb
-conj
-verb
-np
-np
-conj
-np
-np
-verb
-verb
-np
-conj
-np
-np
-adv
-verb
-186184	np
-conj
-noun
-verb
-conj
-noun
-adv
-verb
-pron
-conj
-adv
-np
-np
-conj
-verb
-pron
-verb
-conj
-verb
-np
-pp
-np
-verb
-noun
-verb
-np
-conj
-verb
-pron
-186214	conj
-pp
-np
-np
-np
-186220	conj
-det
-conj
-verb
-pp
-verb
-conj
-noun
-adv
-verb
-verb
-conj
-np
-verb
-pron
-verb
-pp
-adj
-conj
-noun
-adv
-verb
-adv
-verb
-186245	conj
-186247	verb
-np
-np
-np
-np
-conj
-np
-verb
-conj
-186257	np
-np
-np
-np
-conj
-np
-verb
-adv
-adv
-verb
-conj
-adv
-pp
-verb
-pron
-verb
-conj
-pp
-np
-np
-np
-186279	conj
-adv
-verb
-conj
-186284	verb
-verb
-pp
-np
-np
-np
-conj
-pp
-np
-np
-np
-186296	conj
-verb
-conj
-np
-pp
-np
-np
-np
-np
-verb
-np
-np
-verb
-pron
-verb
-np
-verb
-np
-np
-np
-det
-conj
-verb
-186320	det
-conj
-186323	np
-adj
-conj
-noun
-adj
-conj
-186330	conj
-np
-np
-verb
-pron
-pron
-conj
-pron
-pron
-verb
-verb
-verb
-conj
-186344	verb
-pron
-verb
-186348	np
-np
-np
-186352	np
-verb
-verb
-conj
-np
-verb
-pron
-186360	adj
-verb
-186363	conj
-186366	conj
-adv
-verb
-pron
-conj
+186370	verb
 186372	np
+conj
+np
+conj
+verb
+186378	conj
+noun
+verb
+pron
+conj
+verb
+pron
+verb
+186387	np
+conj
+np
+noun
+pron
+pp
+verb
+advp
+verb
+186397	np
+np
+np
+np
+conj
+verb
+np
+np
+np
+pp
+np
+np
+noun
+adv
+verb
+pp
+noun
+verb
+186416	np
+np
+np
+pron
+verb
+np
+conj
+np
+adv
+verb
+pp
+adv
+conj
+verb
+pron
+verb
+noun
+np
+conj
+verb
+np
+verb
+pron
+verb
+conj
+verb
+186443	verb
+pp
+np
+verb
+np
+conj
+verb
+pp
+np
+pron
+verb
+np
+adv
+verb
+np
+verb
+pron
+verb
+conj
+np
+verb
+np
+verb
+det
+conj
+verb
+verb
+np
+pron
+adv
+verb
+np
+np
+np
+np
+verb
+verb
+pron
+np
+verb
+np
+adj
+conj
+adj
+conj
+verb
+adj
+pp
+verb
+verb
+conj
+np
+verb
+pron
+verb
+pron
+np
+det
+conj
+verb
+noun
+np
+adj
+verb
+verb
+conj
+np
+verb
+pp
+np
+pp
+np
+verb
+conj
+pp
+verb
+conj
+verb
+pp
+np
+pp
+np
+verb
+pron
+verb
+np
+pp
+conj
+np
+verb
+186534	np
+186536	pron
+verb
+verb
+np
+conj
+np
+verb
+adv
+verb
+np
+conj
+verb
+adv
+np
+verb
+pp
+np
+np
+186555	conj
+conj
+verb
+np
+pp
+np
+np
+verb
+verb
+verb
+verb
+pron
+186568	np
+np
+np
+adv
+verb
+det
+conj
+adv
+verb
+pron
+noun
+conj
+verb
+np
+np
+verb
+pron
+verb
+verb
+pron
+conj
+verb
+pp
+det
+conj
+verb
+verb
+adv
+verb
+conj
+adv
+pp
+np
+186602	np
+verb
+np
+det
+conj
+verb
+verb
+pron
+verb
+noun
+verb
+pron
+det
+conj
+verb
+verb
+adv
+verb
+adj
+verb
+np
+np
+np
+conj
+verb
+np
+det
+conj
+verb
+ptcl
+noun
+np
+conj
+np
+verb
+pp
+186639	np
+verb
+pp
+np
+np
+np
+np
+adv
+verb
+np
+verb
+pron
+np
+adj
+np
+np
+verb
+pron
+conj
+verb
+conj
+verb
+np
+np
+pp
+np
+np
+conj
+verb
+adv
+np
+verb
+pp
+np
+np
+np
+conj
+verb
+pp
+np
+verb
+adv
+conj
+186683	verb
+pron
+np
+verb
+pp
+186689	conj
+np
+conj
+verb
+pron
+pp
+np
+np
+conj
+verb
+pron
+conj
+np
+verb
+verb
+186705	adj
+verb
+adj
+adj
+conj
+adj
+verb
+conj
+adj
+verb
+conj
+verb
+np
+np
+np
+conj
+verb
+np
+np
+verb
+186726	verb
+pp
+np
+conj
+186731	adv
+np
+verb
+pron
+conj
+adv
+verb
+pron
+verb
+conj
+verb
+np
+adv
+verb
+ptcl
+adv
+verb
+pp
+np
+conj
+verb
+pron
+np
+adv
+pron
+pp
+np
+conj
+verb
+np
+conj
+verb
+pron
+np
+np
+verb
+det
+conj
+verb
+186771	conj
+np
+conj
+verb
+np
+verb
+pp
+np
+verb
+186781	np
+np
+conj
+np
+conj
+verb
+verb
+conj
+186790	verb
+np
+np
+conj
+np
+conj
+186797	verb
+adj
+conj
+verb
+conj
+186803	np
+np
+verb
+np
+verb
+np
+np
+conj
+verb
+verb
+np
+pp
+186816	conj
+conj
+verb
+np
+verb
+pp
+np
+conj
+verb
+pp
+np
+np
+conj
+verb
+np
+186832	conj
+verb
+verb
+pron
+np
+pp
+np
+verb
+pron
+det
+conj
+verb
+verb
+pron
+adj
+verb
+verb
+noun
+verb
+conj
+np
+conj
+adv
+adv
+noun
+verb
+conj
+verb
+np
+np
+conj
+np
+np
+verb
+verb
+np
+conj
+np
+np
+adv
+verb
+186874	np
+conj
+noun
+verb
+conj
+noun
+adv
+verb
+pron
+conj
+adv
+np
+np
+conj
+verb
+pron
+verb
+conj
+verb
+np
+pp
+np
+verb
+noun
+verb
+np
+conj
+verb
+pron
+186904	conj
+pp
+np
+np
+np
+186910	conj
+det
+conj
+verb
+pp
+verb
+conj
+noun
+adv
+verb
+verb
+conj
+np
+verb
+pron
+verb
+pp
+adj
+conj
+noun
+adv
+verb
+adv
+verb
+186935	conj
+186937	verb
+np
+np
+np
+np
+conj
+np
+verb
+conj
+186947	np
+np
+np
+np
+conj
+np
+verb
+adv
+adv
+verb
+conj
+adv
+pp
+verb
+pron
+verb
+conj
+pp
+np
+np
+np
+186969	conj
+adv
+verb
+conj
+186974	verb
+verb
+pp
+np
+np
+np
+conj
+pp
+np
+np
+np
+186986	conj
+verb
+conj
+np
+pp
+np
+np
+np
+np
+verb
+np
+np
+verb
+pron
+verb
+np
+verb
+np
+np
+np
+det
+conj
+verb
+187010	det
+conj
+187013	np
+adj
+conj
+noun
+adj
+conj
+187020	conj
+np
+np
+verb
+pron
+pron
+conj
+pron
+pron
+verb
+verb
+verb
+conj
+187034	verb
+pron
+verb
+187038	np
+np
+np
+187042	np
+verb
+verb
+conj
+np
+verb
+pron
+adj
+verb
+187052	conj
+187055	conj
+adv
+verb
+pron
+conj
+187061	np
 np
 np
 pp
@@ -175500,7 +175500,7 @@ np
 vp
 pp
 np
-186421	adv
+adv
 verb
 np
 conj
@@ -175512,7 +175512,7 @@ verb
 np
 pp
 verb
-186434	verb
+187122	verb
 np
 np
 conj
@@ -175541,7 +175541,7 @@ verb
 verb
 pron
 verb
-186464	adj
+adj
 pron
 noun
 advp
@@ -175553,13 +175553,13 @@ conj
 verb
 verb
 np
-186478	verb
+verb
 pp
 noun
 np
 verb
 conj
-186485	verb
+187170	verb
 np
 np
 conj
@@ -175570,7 +175570,7 @@ np
 verb
 np
 np
-186497	conj
+conj
 pron
 verb
 pp
@@ -175605,7 +175605,7 @@ conj
 verb
 noun
 conj
-186533	np
+187217	np
 np
 verb
 np
@@ -175644,7 +175644,7 @@ verb
 pron
 conj
 verb
-186573	np
+np
 adv
 verb
 pron
@@ -175665,10 +175665,10 @@ pp
 np
 verb
 np
-186595	np
+187278	np
 conj
 conj
-186599	np
+187282	np
 np
 conj
 verb
@@ -175680,7 +175680,7 @@ conj
 verb
 pp
 conj
-186612	verb
+187295	verb
 np
 np
 pp
@@ -175698,7 +175698,7 @@ conj
 verb
 verb
 pron
-186631	conj
+187314	conj
 verb
 pp
 verb
@@ -175706,7 +175706,7 @@ conj
 np
 verb
 np
-186640	noun
+noun
 adj
 verb
 pron
@@ -175738,9 +175738,9 @@ noun
 pp
 np
 verb
-186673	pron
+pron
 verb
-186676	np
+187357	np
 np
 np
 pp
@@ -175763,7 +175763,7 @@ conj
 verb
 pron
 verb
-186700	verb
+187381	verb
 conj
 adv
 verb
@@ -175778,7 +175778,7 @@ adv
 np
 np
 conj
-186716	verb
+verb
 pron
 pp
 np
@@ -175814,7 +175814,7 @@ det
 conj
 verb
 verb
-186754	noun
+187434	noun
 conj
 verb
 conj
@@ -175824,11 +175824,11 @@ verb
 conj
 pron
 conj
-186765	noun
+noun
 adv
 verb
 conj
-186770	verb
+187449	verb
 pron
 conj
 verb
@@ -175848,26 +175848,26 @@ verb
 np
 conj
 pp
-186791	np
+187470	np
 verb
 pron
 conj
-186796	verb
+verb
 pp
 np
 verb
 pron
 noun
-186803	verb
+187481	verb
 pron
 conj
 verb
-186808	noun
+noun
 verb
 np
 np
 conj
-186814	verb
+verb
 conj
 adv
 verb
@@ -175898,7 +175898,7 @@ np
 np
 conj
 verb
-186846	pp
+pp
 pp
 verb
 pp
@@ -175938,13 +175938,13 @@ det
 conj
 verb
 pron
-186887	pp
+pp
 np
 np
-186891	conj
+conj
 verb
 pron
-186895	conj
+conj
 verb
 np
 pp
@@ -175962,7 +175962,7 @@ conj
 adj
 verb
 pron
-186914	verb
+verb
 conj
 pron
 pp
@@ -175970,7 +175970,7 @@ np
 verb
 pron
 np
-186923	verb
+187594	verb
 np
 np
 np
@@ -175987,7 +175987,7 @@ verb
 conj
 verb
 adv
-186941	verb
+verb
 conj
 pron
 pp
@@ -176004,30 +176004,30 @@ noun
 verb
 ptcl
 conj
-186959	verb
+verb
 pp
 np
 verb
 pron
 np
 verb
-186967	pron
+pron
 pron
 verb
 noun
-186972	np
+np
 np
 np
 pp
 verb
-186978	conj
-186980	pp
+187645	conj
+187647	pp
 np
 np
 conj
 pp
 np
-186987	verb
+verb
 conj
 pp
 np
@@ -176063,7 +176063,7 @@ verb
 verb
 pron
 pp
-187024	conj
+187690	conj
 pp
 np
 np
@@ -176088,10 +176088,10 @@ pp
 np
 conj
 verb
-187050	verb
+verb
 pron
-187053	conj
-187055	adv
+conj
+187719	adv
 verb
 conj
 verb
@@ -176129,11 +176129,11 @@ np
 np
 pron
 verb
-187094	pron
+pron
 conj
 verb
 np
-187099	np
+187762	np
 np
 verb
 pp
@@ -176162,12 +176162,12 @@ np
 conj
 ptcl
 np
-187129	pp
+pp
 np
 verb
 conj
 conj
-187135	np
+187797	np
 np
 conj
 np
@@ -176185,9 +176185,9 @@ verb
 verb
 pp
 np
-187154	conj
+187816	conj
 conj
-187157	np
+187819	np
 conj
 np
 verb
@@ -176239,7 +176239,7 @@ pp
 verb
 np
 np
-187210	np
+187872	np
 np
 np
 pp
@@ -176247,7 +176247,7 @@ pron
 pron
 verb
 conj
-187219	verb
+187881	verb
 np
 np
 conj
@@ -176256,14 +176256,14 @@ np
 pp
 verb
 np
-187229	pp
+187891	pp
 np
 conj
 verb
 verb
 verb
 conj
-187237	conj
+conj
 verb
 verb
 pron
@@ -176275,15 +176275,15 @@ pp
 adv
 conj
 pp
-187250	np
-187252	adv
+187911	np
+187913	adv
 verb
 adv
 adv
 verb
 noun
 pp
-187260	np
+187921	np
 np
 np
 pp
@@ -176292,39 +176292,39 @@ verb
 np
 np
 np
-187270	conj
+conj
 conj
 verb
 np
 np
-187276	verb
+verb
 verb
 pron
 pp
 np
-187282	conj
-187284	conj
+187941	conj
+conj
 pron
 verb
 verb
 np
 np
-187292	conj
+conj
 conj
 adv
 verb
 verb
 pp
 np
-187300	conj
+187956	conj
 conj
 pp
 np
 np
-187306	conj
+187962	conj
 verb
 np
-187310	conj
+conj
 conj
 verb
 pron
@@ -176339,7 +176339,7 @@ verb
 pron
 pp
 conj
-187326	np
+187981	np
 conj
 np
 verb
@@ -176361,7 +176361,7 @@ adv
 verb
 pron
 conj
-187349	conj
+conj
 np
 verb
 pp
@@ -176369,19 +176369,19 @@ pp
 np
 pp
 np
-187358	pron
+pron
 verb
 verb
 pron
 pp
-187364	np
+188017	np
 np
 np
 pp
 conj
 conj
 vp
-187372	conj
+188025	conj
 pp
 np
 np
@@ -176407,7 +176407,7 @@ pp
 verb
 pron
 np
-187399	verb
+188052	verb
 pron
 pp
 conj
@@ -176418,28 +176418,28 @@ verb
 np
 np
 np
-187412	pron
+188064	pron
 verb
 verb
 noun
 pp
 np
 np
-187420	verb
-conj
-pron
-verb
-verb
-187426	pron
-np
-np
-187430	adv
 verb
 conj
 pron
 verb
 verb
-187438	np
+188077	pron
+np
+np
+adv
+verb
+conj
+pron
+verb
+verb
+188088	np
 verb
 conj
 np
@@ -176457,7 +176457,7 @@ np
 verb
 pron
 verb
-187457	verb
+188107	verb
 pp
 conj
 adj
@@ -176480,7 +176480,7 @@ conj
 np
 np
 verb
-187481	np
+np
 np
 np
 pron
@@ -176492,7 +176492,7 @@ verb
 pron
 verb
 verb
-187494	verb
+verb
 conj
 pron
 verb
@@ -176503,7 +176503,7 @@ np
 verb
 pron
 verb
-187506	verb
+188154	verb
 pp
 conj
 verb
@@ -176513,7 +176513,7 @@ conj
 adv
 verb
 conj
-187517	verb
+verb
 verb
 pron
 pp
@@ -176591,7 +176591,7 @@ np
 np
 conj
 verb
-187596	conj
+conj
 verb
 np
 np
@@ -176620,7 +176620,7 @@ conj
 verb
 pron
 noun
-187626	verb
+188272	verb
 pron
 conj
 verb
@@ -176638,15 +176638,15 @@ verb
 conj
 verb
 pp
-187645	conj
+188291	conj
 verb
 pron
 conj
 verb
-187652	pp
+188298	pp
 verb
 noun
-187656	np
+188302	np
 conj
 np
 conj
@@ -176659,7 +176659,7 @@ np
 pp
 np
 conj
-187670	verb
+188316	verb
 num
 conj
 np
@@ -176676,7 +176676,7 @@ pron
 conj
 noun
 verb
-187688	verb
+188334	verb
 np
 conj
 verb
@@ -176714,7 +176714,7 @@ verb
 verb
 pron
 np
-187727	conj
+conj
 adv
 verb
 np
@@ -176730,7 +176730,7 @@ det
 conj
 verb
 pron
-187744	adj
+188389	adj
 verb
 np
 np
@@ -176739,20 +176739,20 @@ pron
 verb
 verb
 conj
-187754	pron
+pron
 pp
 np
 verb
 adv
 conj
 verb
-187762	pron
+pron
 verb
 pp
 np
 conj
 verb
-187769	pron
+pron
 verb
 pron
 pp
@@ -176762,12 +176762,12 @@ np
 verb
 verb
 verb
-187780	adv
+adv
 verb
 pron
 noun
 conj
-187786	np
+188427	np
 verb
 pron
 conj
@@ -176779,7 +176779,7 @@ pron
 np
 conj
 verb
-187799	verb
+verb
 np
 conj
 adv
@@ -176815,7 +176815,7 @@ det
 conj
 verb
 pron
-187836	pron
+188476	pron
 pron
 verb
 pp
@@ -176823,7 +176823,7 @@ np
 adj
 verb
 np
-187845	conj
+conj
 conj
 verb
 pp
@@ -176834,19 +176834,19 @@ np
 verb
 pron
 pron
-187857	np
+np
 conj
 verb
-187861	adv
-verb
 adv
 verb
 adv
 verb
 adv
 verb
-187870	verb
-187872	np
+adv
+verb
+188507	verb
+188509	np
 conj
 np
 conj
@@ -176858,7 +176858,7 @@ pron
 verb
 pron
 np
-187885	np
+np
 verb
 pron
 adv
@@ -176866,11 +176866,11 @@ verb
 verb
 pron
 np
-187894	conj
+conj
 verb
 adj
 verb
-187899	verb
+188534	verb
 verb
 np
 verb
@@ -176882,7 +176882,7 @@ verb
 noun
 pp
 conj
-187912	verb
+verb
 verb
 pron
 verb
@@ -176913,7 +176913,7 @@ adv
 conj
 verb
 pron
-187944	adj
+188578	adj
 verb
 noun
 pp
@@ -176940,7 +176940,7 @@ conj
 np
 verb
 pron
-187972	pp
+188606	pp
 pron
 adj
 verb
@@ -176953,7 +176953,7 @@ verb
 np
 verb
 pron
-187986	verb
+verb
 pron
 verb
 adj
@@ -176971,7 +176971,7 @@ pron
 verb
 pron
 conj
-188005	verb
+188638	verb
 pron
 pp
 np
@@ -176996,7 +176996,7 @@ conj
 np
 pron
 verb
-188031	conj
+188664	conj
 conj
 conj
 conj
@@ -177023,7 +177023,7 @@ verb
 np
 np
 np
-188060	pron
+188692	pron
 verb
 pp
 verb
@@ -177055,7 +177055,7 @@ adj
 conj
 pron
 verb
-188093	verb
+188725	verb
 np
 pp
 np
@@ -177104,7 +177104,7 @@ verb
 np
 pp
 np
-188143	adj
+adj
 conj
 verb
 verb
@@ -177113,7 +177113,7 @@ np
 np
 np
 np
-188153	verb
+188784	verb
 np
 conj
 verb
@@ -177150,16 +177150,16 @@ verb
 pp
 np
 verb
-188191	np
+188822	np
 np
 np
 verb
 conj
 adj
 pron
-188199	verb
+188830	verb
 verb
-188202	np
+188833	np
 np
 np
 conj
@@ -177169,7 +177169,7 @@ conj
 verb
 np
 verb
-188213	noun
+noun
 adv
 verb
 pron
@@ -177223,18 +177223,18 @@ pp
 np
 verb
 pron
-188268	verb
+188898	verb
 verb
 pp
 conj
-188274	np
+188904	np
 np
 np
 verb
 np
-188280	conj
+188910	conj
 conj
-188283	verb
+188913	verb
 pron
 pp
 conj
@@ -177261,7 +177261,7 @@ np
 pp
 np
 np
-188311	verb
+188941	verb
 conj
 verb
 pron
@@ -177281,7 +177281,7 @@ np
 np
 np
 np
-188332	adj
+188962	adj
 pp
 conj
 adj
@@ -177301,7 +177301,7 @@ verb
 verb
 verb
 np
-188353	pron
+pron
 pron
 verb
 verb
@@ -177310,13 +177310,13 @@ pron
 verb
 verb
 pron
-188363	np
+188992	np
 conj
 np
 verb
-188368	conj
+188997	conj
 verb
-188371	pp
+189000	pp
 np
 conj
 pp
@@ -177354,7 +177354,7 @@ conj
 np
 verb
 pron
-188410	adv
+189039	adv
 verb
 pp
 conj
@@ -177379,9 +177379,9 @@ np
 np
 adv
 verb
-188436	verb
+189065	verb
 conj
-188439	verb
+189068	verb
 conj
 verb
 np
@@ -177389,7 +177389,7 @@ np
 np
 pp
 conj
-188448	verb
+verb
 pron
 pp
 verb
@@ -177408,7 +177408,7 @@ noun
 verb
 verb
 verb
-188468	verb
+189096	verb
 pron
 np
 np
@@ -177422,7 +177422,7 @@ conj
 adj
 verb
 verb
-188483	verb
+189111	verb
 pron
 np
 conj
@@ -177450,14 +177450,14 @@ verb
 np
 np
 conj
-188512	adv
+189140	adv
 verb
 conj
 verb
 pron
 conj
-188519	conj
-188521	verb
+conj
+189148	verb
 pp
 conj
 verb
@@ -177472,15 +177472,15 @@ verb
 np
 verb
 pron
-188537	verb
+verb
 pp
-188540	np
+189166	np
 np
 pp
 conj
 adv
 verb
-188547	noun
+189173	noun
 verb
 conj
 noun
@@ -177489,7 +177489,7 @@ verb
 verb
 pron
 conj
-188557	conj
+conj
 pron
 pron
 verb
@@ -177503,7 +177503,7 @@ adj
 conj
 verb
 pron
-188572	pron
+pron
 conj
 verb
 conj
@@ -177520,23 +177520,23 @@ np
 np
 verb
 pron
-188590	conj
+189214	conj
 verb
-188593	pp
+189217	pp
 conj
 pp
-188597	np
-188599	verb
+189221	np
+189223	verb
 conj
 np
 conj
-188604	verb
+verb
 conj
 verb
 pron
 np
 verb
-188611	np
+189234	np
 conj
 np
 conj
@@ -177554,7 +177554,7 @@ np
 np
 pp
 np
-188630	adj
+189253	adj
 conj
 verb
 noun
@@ -177564,15 +177564,15 @@ conj
 verb
 pp
 np
-188641	np
+189264	np
 conj
-188644	verb
+189267	verb
 pron
 conj
 verb
 verb
 verb
-188651	ptcl
+ptcl
 np
 np
 verb
@@ -177583,7 +177583,7 @@ ptcl
 pp
 np
 conj
-188663	verb
+verb
 pron
 pp
 verb
@@ -177598,8 +177598,8 @@ conj
 verb
 pron
 verb
-188679	np
-188681	np
+189300	np
+189302	np
 pp
 np
 np
@@ -177611,11 +177611,11 @@ np
 conj
 verb
 np
-188694	conj
+189315	conj
 pp
 np
 conj
-188699	np
+189320	np
 np
 np
 verb
@@ -177627,7 +177627,7 @@ np
 conj
 verb
 pron
-188712	verb
+189333	verb
 np
 np
 np
@@ -177640,7 +177640,7 @@ np
 conj
 verb
 pron
-188726	conj
+189347	conj
 pp
 np
 conj
@@ -177648,14 +177648,14 @@ verb
 pron
 verb
 conj
-188735	np
+189356	np
 conj
 np
-188739	np
-188741	pron
+189360	np
+pron
 verb
 conj
-188745	np
+189365	np
 verb
 pp
 np
@@ -177668,7 +177668,7 @@ verb
 conj
 verb
 pron
-188759	verb
+verb
 pron
 pron
 verb
@@ -177682,7 +177682,7 @@ verb
 conj
 pp
 np
-188774	conj
+189393	conj
 verb
 verb
 noun
@@ -177703,7 +177703,7 @@ pp
 np
 verb
 conj
-188796	verb
+189415	verb
 np
 np
 pp
@@ -177746,23 +177746,23 @@ conj
 np
 verb
 pron
-188840	verb
+verb
 pron
-188843	conj
-188845	verb
+conj
+189462	verb
 noun
 conj
 adv
 verb
-188851	adj
+189468	adj
 np
 np
 verb
 conj
-188857	np
+np
 np
 verb
-188861	verb
+189477	verb
 conj
 verb
 pp
@@ -177777,20 +177777,20 @@ np
 verb
 verb
 conj
-188877	verb
+verb
 pron
 pp
 np
 verb
 pron
 verb
-188885	np
+189500	np
 conj
 np
 np
 np
 verb
-188892	pp
+189507	pp
 np
 pron
 verb
@@ -177809,7 +177809,7 @@ verb
 pron
 pron
 np
-188912	pron
+pron
 conj
 verb
 pron
@@ -177820,11 +177820,11 @@ pp
 np
 pron
 verb
-188924	np
+189538	np
 np
 adv
 verb
-188929	pp
+189543	pp
 conj
 pp
 det
@@ -177832,7 +177832,7 @@ conj
 verb
 pp
 verb
-188939	conj
+189552	conj
 verb
 pp
 verb
@@ -177842,7 +177842,7 @@ conj
 adv
 verb
 pron
-188951	conj
+conj
 conj
 verb
 pp
@@ -177901,7 +177901,7 @@ conj
 np
 verb
 adv
-189011	det
+det
 conj
 verb
 verb
@@ -177922,10 +177922,10 @@ np
 verb
 pron
 np
-189033	verb
+verb
 pron
 conj
-189037	np
+189646	np
 conj
 np
 verb
@@ -177934,7 +177934,7 @@ pp
 np
 np
 np
-189048	verb
+189657	verb
 conj
 noun
 pp
@@ -177944,7 +177944,7 @@ conj
 adv
 verb
 pron
-189059	np
+189668	np
 conj
 conj
 np
@@ -177998,7 +177998,7 @@ verb
 np
 np
 conj
-189114	verb
+verb
 np
 np
 np
@@ -178037,7 +178037,7 @@ verb
 np
 verb
 pp
-189154	pron
+pron
 verb
 np
 verb
@@ -178067,7 +178067,7 @@ np
 np
 verb
 pron
-189185	adj
+189792	adj
 adv
 verb
 pron
@@ -178075,7 +178075,7 @@ conj
 np
 verb
 np
-189194	pron
+pron
 verb
 pron
 np
@@ -178089,7 +178089,7 @@ adv
 verb
 pp
 np
-189209	pron
+pron
 verb
 verb
 pron
@@ -178133,7 +178133,7 @@ verb
 pron
 conj
 verb
-189254	np
+189859	np
 conj
 np
 np
@@ -178143,7 +178143,7 @@ conj
 pp
 verb
 conj
-189265	verb
+verb
 pron
 verb
 verb
@@ -178164,7 +178164,7 @@ verb
 np
 np
 np
-189288	pron
+189891	pron
 verb
 noun
 np
@@ -178187,11 +178187,11 @@ np
 verb
 verb
 verb
-189312	verb
+verb
 np
 np
 verb
-189317	np
+189919	np
 np
 conj
 np
@@ -178206,7 +178206,7 @@ det
 conj
 verb
 verb
-189333	pron
+189935	pron
 conj
 pp
 np
@@ -178221,7 +178221,7 @@ conj
 verb
 np
 np
-189349	conj
+189951	conj
 np
 conj
 verb
@@ -178240,7 +178240,7 @@ adv
 verb
 np
 np
-189369	np
+189971	np
 conj
 adj
 verb
@@ -178268,10 +178268,10 @@ np
 pp
 np
 verb
-189398	np
+190000	np
 pron
 verb
-189402	conj
+190004	conj
 conj
 conj
 verb
@@ -178307,7 +178307,7 @@ verb
 np
 verb
 np
-189439	conj
+190041	conj
 verb
 pron
 pp
@@ -178316,871 +178316,78 @@ np
 np
 adv
 verb
-189449	np
-conj
-np
-np
-np
-adj
-conj
-verb
-adj
-adj
-conj
-adj
-adv
-verb
-np
-noun
-verb
-conj
-pron
-verb
-pp
-conj
-verb
-pron
-np
-np
-pp
-np
-verb
-noun
-verb
-conj
-adj
-verb
-conj
-np
-np
-np
-pp
-verb
-conj
-adv
-verb
-pron
-pp
-adv
-conj
-verb
-pp
-np
-verb
-conj
-pron
-pron
-pron
-verb
-189506	verb
-verb
-noun
-noun
-conj
-adv
-verb
-conj
-np
-np
-np
-verb
-pron
-pron
-verb
-noun
-verb
-pron
-np
-np
-np
-det
-conj
-verb
-pron
-noun
-conj
-verb
-pron
-pron
-189537	np
-np
-conj
-np
-verb
-noun
-adv
-verb
-pron
-verb
-conj
-np
-noun
-conj
-np
-np
-np
-conj
-verb
-verb
-conj
-verb
-pron
-verb
-pp
-np
-np
-verb
-pron
-np
-verb
-adv
-verb
-noun
-conj
-verb
-pron
-verb
-noun
-noun
-verb
-189579	conj
-pron
-verb
-adv
-verb
-noun
-verb
-np
-np
-np
-np
-conj
-verb
-noun
-np
-np
-verb
-conj
-pp
-np
-conj
-np
-verb
-verb
-conj
-adv
-verb
-noun
-verb
-np
-np
-np
-np
-adv
-189614	conj
-np
-conj
-np
-pp
-np
-np
-conj
-verb
-np
-189625	pp
-np
-conj
-np
-np
-np
-verb
-adj
-conj
-verb
-pron
-verb
-conj
-np
-verb
-pron
-verb
-189643	adv
-verb
-np
-conj
-np
-np
-np
-pp
-conj
-np
-189654	conj
-conj
-conj
-pp
-conj
-np
-pp
-np
-verb
-189664	pp
-conj
-np
-np
-np
-verb
-verb
-pron
-pp
-np
-verb
-pron
-verb
-189678	np
-np
-conj
-np
-np
-conj
-np
-np
-189687	verb
-np
-np
-conj
-verb
-conj
-verb
-np
-verb
-pp
-np
-np
-np
-conj
-verb
-conj
-verb
-np
-verb
-pp
-np
-conj
-verb
-189711	np
-pp
-verb
-pron
-noun
-pron
-np
-np
-pp
-np
-det
-conj
-verb
-pron
-verb
-189727	np
-np
-189730	pp
-np
-np
-np
-conj
-pp
-np
-np
-np
-conj
-pp
-np
-np
-np
-pron
-verb
-np
-np
-conj
-adj
-adj
-pron
-verb
-np
-np
-conj
-pron
-pp
-np
-np
-np
-np
-np
-verb
-conj
-np
-189767	verb
-conj
-np
-verb
-pron
-np
-verb
-pron
-pron
-verb
-pp
-np
-np
-verb
-verb
-pron
-np
-verb
-pron
-adv
-conj
-noun
-pp
-verb
-pron
-noun
-verb
-verb
-noun
-np
-np
-189799	verb
-pp
-np
-conj
-verb
-np
-np
-pp
-np
-np
-189810	conj
-conj
-noun
-verb
-pron
-noun
-adv
-np
-verb
-conj
-adj
-verb
-verb
-pron
-noun
-conj
-verb
-pron
-pp
-np
-np
-verb
-pron
-adv
-adv
-np
-verb
-189838	np
-conj
-np
-np
-verb
-pp
-np
-np
-verb
-189848	np
-conj
-np
-np
-conj
-pron
-verb
-pron
-189857	conj
-pp
-conj
-np
-np
-adv
-verb
-verb
-conj
-conj
-adv
-verb
-189870	verb
-conj
-np
-conj
-verb
-pp
-np
-np
-np
-pron
-conj
-np
-np
-adv
-verb
-verb
-pron
-np
-conj
-np
-np
-verb
-pp
-verb
-np
-189896	verb
-conj
-np
-np
-conj
-verb
-np
-verb
-conj
-189906	np
-np
-pp
-np
-conj
-np
-np
-pp
-np
-conj
-np
-np
-pp
-np
-conj
-verb
-pp
-np
-noun
-pron
-conj
-adv
-verb
-noun
-189931	adj
-conj
-verb
-np
-np
-np
-conj
-noun
-verb
-conj
-np
-adv
-verb
-pp
-np
-adj
-conj
-verb
-np
-189951	np
-np
-conj
-verb
-noun
-conj
-np
-verb
-189960	np
-np
-conj
-np
-verb
-np
-pron
-conj
-verb
-pron
-verb
-conj
-pron
-verb
-pron
-verb
-189977	ptcl
-conj
-pron
-189982	conj
-conj
-verb
-np
-np
-np
-pp
-np
-189991	pron
-conj
-adv
-verb
-conj
-verb
-verb
-verb
-ptcl
-pron
-190003	conj
-conj
-190006	verb
-190008	np
-conj
-np
-verb
-adj
-noun
-conj
-conj
-verb
-verb
-pron
-np
-np
-adjp
-ptcl
-pron
-190025	np
-verb
-pron
-verb
-pp
-np
-adj
-verb
-pron
-conj
-verb
-pp
-np
-np
-np
-verb
-190042	conj
-pron
-conj
-adj
-verb
-190048	np
-conj
 190051	np
-verb
-np
 conj
-pron
-verb
-pp
-np
-adj
-verb
-pron
-conj
-verb
-pp
-190066	np
-np
-pp
-verb
-adj
-pron
-conj
-adj
-190075	np
-conj
-190078	np
-verb
-np
-conj
-verb
-pp
-np
-verb
-190087	pp
-conj
-pp
-np
-np
-pp
-conj
-verb
-pp
-np
-verb
-190099	pp
-conj
-pp
-verb
-pron
-conj
-verb
-pp
-np
-verb
-190110	pp
-np
-np
-np
-conj
-pp
-verb
-pp
-190119	ptcl
-pron
-190123	conj
-conj
-190126	verb
-190128	np
-conj
-np
-conj
-np
-conj
-verb
-190136	np
-np
-np
-190140	np
-conj
-np
-conj
-np
-pron
-conj
-verb
-verb
-pron
-adv
-verb
-190153	np
-verb
-np
-np
-conj
-verb
-ptcl
-pron
-190163	conj
-conj
-190166	verb
-np
-np
-190170	np
-conj
-np
-adv
-conj
-verb
-pp
-190178	conj
-np
-verb
-adj
-np
-np
-np
-conj
-verb
 np
 np
 np
 adj
-190192	ptcl
-pron
-190196	conj
-conj
-verb
-190200	np
-verb
-pron
-adv
 conj
 verb
 adj
-adv
+adj
 conj
-verb
-190211	np
-conj
-np
-adv
-np
-190217	adv
-conj
-verb
-np
 adj
 adv
-conj
 verb
-adj
-190227	conj
-190229	ptcl
-pron
-190233	conj
-conj
-190237	verb
-np
-np
-np
-conj
-verb
-np
-np
-np
-conj
-verb
-190249	conj
-verb
-pp
-np
-np
-np
-np
-adv
-verb
-np
-pp
-np
-np
-np
-conj
-verb
-pron
-conj
-np
-verb
-verb
-np
-pron
-verb
-np
-np
-np
-np
-190278	np
-adv
-verb
-pp
-np
-np
-np
-pp
-verb
-pron
-verb
-pp
-190291	conj
-conj
-190294	pp
-190296	conj
-conj
-190299	pp
-verb
-pp
-np
-np
-conj
-verb
-190307	pp
-pp
-conj
-verb
-pp
-np
-190314	np
-verb
-pp
-np
-190319	pp
-np
-np
-190323	np
-pp
-np
-np
-190329	np
-pron
-verb
-pp
-190334	np
-conj
-np
-190338	verb
-pron
-verb
-np
-pp
-np
-np
-190346	noun
-noun
-verb
-np
-conj
-verb
-verb
-pp
-adv
-verb
-verb
-np
-np
 np
 noun
 verb
+conj
+pron
+verb
+pp
+conj
+verb
+pron
 np
 np
 pp
 np
+verb
+noun
+verb
+conj
+adj
+verb
+conj
+np
+np
+np
+pp
+verb
 conj
 adv
 verb
-verb
-verb
 pron
-np
-np
-verb
-conj
-pron
-190378	advp
-pron
-verb
 pp
+adv
 conj
 verb
-verb
-verb
-pp
-np
-conj
-verb
-np
 pp
 np
 verb
 conj
+pron
+pron
+pron
 verb
+190108	verb
+verb
+noun
+noun
+conj
+adv
+verb
+conj
 np
 np
+np
+verb
+pron
+pron
+verb
+noun
 verb
 pron
 np
@@ -179189,364 +178396,1157 @@ np
 det
 conj
 verb
-verb
 pron
-190409	verb
-np
-190412	verb
-pron
-advp
-verb
-adv
-190418	pp
-pron
-adv
-verb
-190423	verb
+noun
 conj
+verb
 pron
+pron
+190139	np
+np
+conj
+np
+verb
+noun
+adv
+verb
+pron
+verb
+conj
+np
+noun
+conj
+np
+np
+np
+conj
+verb
+verb
+conj
+verb
+pron
+verb
 pp
 np
 np
-np
 verb
 pron
+np
+verb
+adv
+verb
+noun
+conj
+verb
+pron
+verb
+noun
+noun
+verb
+conj
+pron
+verb
+adv
+verb
+noun
+verb
+np
+np
+np
+np
+conj
+verb
+noun
+np
+np
+verb
+conj
+pp
+np
+conj
+np
+verb
+verb
+conj
+adv
+verb
+noun
+verb
+np
+np
+np
+np
+adv
+190215	conj
+np
+conj
 np
 pp
-verb
-verb
-pron
-190438	adv
-pron
-verb
-conj
-pron
-np
-np
-190446	np
-np
-conj
 np
 np
 conj
 verb
 np
-verb
-pron
-190457	verb
+pp
+np
 conj
-pron
-pron
+np
+np
+np
 verb
 adj
 conj
 verb
-pp
-np
+pron
+verb
+conj
 np
 verb
 pron
 verb
+190243	adv
+verb
+np
+conj
+np
+np
+np
+pp
+conj
+np
+190254	conj
+conj
+conj
+pp
+conj
+np
+pp
+np
+verb
+pp
+conj
+np
+np
+np
+verb
+verb
+pron
+pp
+np
+verb
+pron
+verb
+190277	np
+np
+conj
+np
+np
+conj
+np
+np
+190286	verb
+np
+np
+conj
+verb
+conj
+verb
+np
+verb
+pp
+np
+np
+np
+conj
+verb
+conj
+verb
+np
+verb
+pp
+np
+conj
+verb
+190310	np
+pp
+verb
+pron
+noun
+pron
+np
+np
+pp
+np
+det
+conj
+verb
+pron
+verb
+190326	np
+np
+190329	pp
+np
+np
+np
+conj
+pp
+np
+np
+np
+conj
+pp
+np
+np
+np
+pron
+verb
+np
 np
 conj
 adj
+adj
+pron
 verb
+np
+np
+conj
+pron
+pp
+np
+np
+np
+np
+np
 verb
 conj
+np
 verb
-190479	conj
+conj
+np
+verb
+pron
+np
+verb
+pron
+pron
+verb
+pp
+np
 np
 verb
 verb
+pron
+np
 verb
-conj
-verb
-conj
+pron
 adv
-verb
-np
-190491	verb
 conj
 noun
 pp
+verb
+pron
+noun
+verb
+verb
+noun
+np
+np
+verb
+pp
+np
+conj
+verb
+np
+np
+pp
+np
+np
+conj
 conj
 noun
-pp
-conj
 verb
-190501	conj
-pp
+pron
+noun
+adv
 np
+verb
 conj
-np
-190507	adv
+adj
+verb
+verb
+pron
+noun
+conj
 verb
 pron
 pp
-conj
+np
+np
 verb
 pron
+adv
+adv
+np
+verb
+190434	np
 conj
-vp
+np
+np
+verb
 pp
 np
 np
+verb
+190444	np
+conj
+np
+np
+conj
+pron
+verb
+pron
+190453	conj
 pp
+conj
 np
 np
+adv
+verb
+verb
+conj
 conj
 adv
 verb
+190466	verb
+conj
+np
+conj
+verb
+pp
+np
+np
+np
+pron
+conj
+np
+np
+adv
+verb
+verb
+pron
+np
+conj
+np
+np
+verb
+pp
+verb
+np
+190492	verb
+conj
+np
+np
+conj
+verb
+np
+verb
+conj
+190502	np
+np
+pp
+np
+conj
+np
+np
+pp
+np
+conj
+np
+np
+pp
+np
+conj
+verb
+pp
+np
+noun
+pron
+conj
+adv
+verb
+noun
+190527	adj
+conj
+verb
+np
+np
+np
+conj
+noun
+verb
+conj
+np
+adv
+verb
+pp
+np
 adj
 conj
+verb
+np
+190547	np
+np
+conj
+verb
+noun
+conj
+np
+verb
+190556	np
+np
+conj
+np
+verb
+np
+pron
+conj
+verb
 pron
 verb
 conj
-verb
-pron
-conj
-np
-verb
-conj
-verb
-adj
-conj
-pp
-verb
-np
-verb
-np
-np
-np
-conj
-verb
-pp
 pron
 verb
-conj
+pron
 verb
-np
-np
-np
-np
-pp
-np
-np
-pp
-np
-np
-conj
-adv
-verb
-np
-190569	conj
-conj
-verb
-190573	np
-np
-np
-verb
-pp
-190579	np
-verb
-pp
-np
-verb
-verb
-adv
-np
-pp
-np
-verb
-pp
-np
-np
-pp
-np
-adv
-verb
-verb
-np
-pp
-np
-np
-conj
-np
-pp
-np
-adv
-verb
-adv
-verb
-np
-np
 ptcl
 conj
-190615	pp
+pron
+190577	conj
+conj
 verb
+np
+np
+np
+pp
+np
+190586	pron
+conj
+adv
+verb
+conj
+verb
+verb
+verb
+ptcl
+pron
+190598	conj
+conj
+190601	verb
+190603	np
+conj
+np
+verb
+adj
+noun
+conj
+conj
+verb
+verb
+pron
+np
+np
+adjp
+ptcl
+pron
+190620	np
+verb
+pron
+verb
+pp
+np
+adj
+verb
+pron
 conj
 verb
 pp
 np
 np
-verb
-conj
-conj
-adv
-verb
 np
-np
-190630	conj
 verb
-conj
-adv
-190635	np
+190637	conj
 pron
-adv
+conj
+adj
 verb
-190640	pp
+190643	np
+conj
+190646	np
+verb
 np
+conj
+pron
+verb
 pp
 np
-conj
-advp
+adj
 verb
+pron
 conj
+verb
+pp
+190661	np
+np
+pp
+verb
+adj
+pron
 conj
-adv
+adj
+190670	np
+conj
+190673	np
 verb
 np
-np
-adv
+conj
 verb
+pp
+np
+verb
+190682	pp
+conj
+pp
+np
 np
 pp
 conj
+verb
+pp
 np
 verb
-np
-np
-190663	adv
+190694	pp
 conj
+pp
+verb
 pron
-pron
+conj
 verb
+pp
+np
 verb
-adv
+190705	pp
+np
+np
 np
 conj
+pp
+verb
+pp
+ptcl
+pron
+190717	conj
+conj
+190720	verb
+190722	np
+conj
+np
+conj
+np
+conj
+verb
+190730	np
+np
+np
+190734	np
+conj
+np
+conj
+np
+pron
+conj
+verb
+verb
+pron
 adv
+verb
+190747	np
+verb
+np
+np
+conj
+verb
+ptcl
+pron
+190757	conj
+conj
+190760	verb
+np
+np
+190764	np
+conj
+np
 adv
-verb
-verb
-conj
-190678	conj
 conj
 verb
-190682	np
-conj
-conj
+pp
+190772	conj
+np
 verb
-conj
 adj
 np
 np
+np
+conj
 verb
-verb
+np
+np
+np
+adj
+ptcl
 pron
-190696	conj
-conj
-verb
-pron
-verb
-pp
-np
-verb
-adv
-verb
-190707	verb
-pp
-np
-adv
-verb
-190713	conj
-conj
-190716	np
-verb
-pp
-conj
-verb
-pp
-adv
-verb
-np
-np
-np
-np
-np
-conj
-verb
-np
-adv
-verb
-np
-adv
-conj
-pp
-np
-np
-np
-np
-np
-verb
-conj
-np
-adv
-verb
-np
-np
-conj
-np
-verb
-pp
-np
-conj
-np
-np
-np
-verb
-conj
-adv
-verb
-np
-np
-np
-np
-np
-pp
-conj
-adv
-verb
-np
-np
-np
-np
-conj
-verb
-np
-np
-np
-verb
-pp
-np
-np
-np
-pp
-np
 190789	conj
 conj
 verb
 np
+verb
+pron
+adv
+conj
+verb
+adj
+adv
+conj
+verb
+190803	np
+conj
+np
+adv
+np
+190809	adv
+conj
+verb
+np
+adj
+adv
+conj
+verb
+adj
+190819	conj
+ptcl
+pron
+190824	conj
+conj
+190828	verb
+np
+np
+np
+conj
+verb
+np
+np
+np
+conj
+verb
+conj
+verb
+pp
+np
+np
+np
+np
+adv
+verb
+np
+pp
+np
+np
+np
+conj
+verb
+pron
+conj
+np
+verb
+verb
+np
+pron
+verb
+np
+np
+np
+np
+190868	np
+adv
+verb
+pp
+np
+np
+np
+pp
+verb
+pron
+verb
+pp
+190881	conj
+conj
+190884	pp
+190886	conj
+conj
+190889	pp
+verb
+pp
+np
+np
+conj
+verb
+190897	pp
+pp
+conj
+verb
+pp
+np
+np
+verb
+pp
+np
+190908	pp
+np
+np
+190912	np
+pp
+np
+np
+190917	np
+pron
+verb
+pp
+190922	np
+conj
+np
+verb
+pron
+verb
+np
+pp
+np
+np
+noun
+noun
+verb
+np
+conj
+verb
+verb
+pp
+adv
+verb
+verb
+np
+np
+np
+noun
+verb
+np
+np
+pp
+np
+conj
+adv
+verb
+verb
+verb
+pron
+np
+np
+verb
+conj
+pron
+advp
+pron
+verb
+pp
+conj
+verb
+verb
+verb
+pp
+np
+conj
+verb
+np
+pp
+np
+verb
+conj
+verb
+np
+np
+verb
+pron
+np
+np
+np
+det
+conj
+verb
+verb
+pron
+verb
+np
+verb
+pron
+advp
+verb
+adv
+pp
+pron
+adv
+verb
+verb
+conj
+pron
+pp
+np
+np
+np
+verb
+pron
+np
+pp
+verb
+verb
+pron
+191019	adv
+pron
+verb
+conj
+pron
+np
+np
+191027	np
+np
+conj
+np
+np
+conj
+verb
+np
+verb
+pron
+verb
+conj
+pron
+pron
+verb
+adj
+conj
+verb
+pp
+np
+np
+verb
+pron
+verb
+np
+conj
+adj
+verb
+verb
+conj
+verb
+191059	conj
+np
+verb
+verb
+verb
+conj
+verb
+conj
+adv
+verb
+np
+191071	verb
+conj
+noun
+pp
+conj
+noun
+pp
+conj
+verb
+191081	conj
+pp
+np
+conj
+np
+191087	adv
+verb
+pron
+pp
+conj
+verb
+pron
+conj
+vp
+pp
+np
+np
+pp
+np
+np
+conj
+adv
+verb
+adj
+conj
+pron
+verb
+conj
+verb
+pron
+conj
+np
+verb
+conj
+verb
+adj
+conj
+pp
+verb
+np
+verb
+np
+np
+np
+conj
+verb
+pp
+pron
+verb
+conj
+verb
+np
+np
+np
+np
+pp
+np
+np
+pp
+np
+np
+conj
+adv
+verb
+np
+conj
+conj
+verb
+191151	np
+np
+np
+verb
+pp
+191157	np
+verb
+pp
+np
+verb
+verb
+adv
+np
+pp
+np
+verb
+pp
+np
+np
+pp
+np
+adv
+verb
+verb
+np
+pp
+np
+np
+conj
+np
+pp
+np
+adv
+verb
+adv
+verb
+np
+np
+ptcl
+conj
+191193	pp
+verb
+conj
+verb
+pp
+np
+np
+verb
+conj
+conj
+adv
+verb
+np
+np
+191208	conj
+verb
+conj
+adv
+np
+pron
+adv
+verb
+191217	pp
+np
+pp
+np
+conj
+advp
+verb
+conj
+conj
+adv
+verb
+np
+np
+adv
+verb
+np
+pp
+conj
+np
+verb
+np
+np
+adv
+conj
+pron
+pron
+verb
+verb
+adv
+np
+conj
+adv
+adv
+verb
+verb
+conj
+191254	conj
+conj
+verb
+191258	np
+conj
+conj
+verb
+conj
+adj
+np
+np
+verb
+verb
+pron
+conj
+conj
+verb
+pron
+verb
+pp
+np
+verb
+adv
+verb
+verb
+pp
+np
+adv
+verb
+conj
+conj
+191287	np
+verb
+pp
+conj
+verb
+pp
+adv
+verb
+np
+np
+np
+np
+np
+conj
+verb
+np
+adv
+verb
+np
+adv
+conj
+pp
+np
+np
+np
+np
+np
+verb
+conj
+np
+adv
+verb
+np
+np
+conj
+np
+verb
+pp
+np
+conj
+np
+np
+np
+verb
+conj
+adv
+verb
+np
+np
+np
+np
+np
+pp
+conj
+adv
+verb
+np
+np
+np
+np
+conj
+verb
+np
+np
+np
+verb
+pp
+np
+np
+np
+pp
+np
+191360	conj
+conj
+verb
+np
 np
 pp
 np
@@ -179557,7 +179557,7 @@ np
 pp
 np
 np
-190804	pp
+191375	pp
 np
 pp
 np
@@ -179566,8 +179566,8 @@ conj
 np
 verb
 np
-190814	conj
-190816	adv
+conj
+191386	adv
 np
 np
 verb
@@ -179600,7 +179600,7 @@ np
 conj
 np
 verb
-190850	np
+191420	np
 conj
 np
 verb
@@ -179609,15 +179609,15 @@ conj
 np
 advp
 verb
-190860	pp
+pp
 conj
 np
 np
-190865	conj
+191434	conj
 adj
 verb
 adv
-190870	np
+191439	np
 np
 np
 conj
@@ -179638,16 +179638,16 @@ np
 np
 np
 np
-190892	conj
 conj
-190895	vp
+conj
+191463	vp
 pp
-190898	np
+191466	np
 np
 np
 pp
 np
-190904	conj
+191472	conj
 conj
 pp
 np
@@ -179659,7 +179659,7 @@ conj
 adv
 verb
 conj
-190917	verb
+191485	verb
 np
 conj
 verb
@@ -179677,7 +179677,7 @@ verb
 num
 pp
 np
-190936	adj
+191504	adj
 verb
 conj
 adj
@@ -179686,12 +179686,12 @@ num
 verb
 pp
 np
-190946	adj
+191514	adj
 verb
 conj
 adj
 verb
-190952	verb
+verb
 conj
 conj
 adv
@@ -179703,7 +179703,7 @@ verb
 pron
 conj
 verb
-190965	conj
+conj
 verb
 np
 np
@@ -179716,12 +179716,12 @@ verb
 verb
 np
 np
-190979	pp
+pp
 np
 verb
 adj
 conj
-190985	pron
+pron
 adv
 verb
 noun
@@ -179732,7 +179732,7 @@ verb
 pron
 conj
 verb
-190997	np
+np
 np
 conj
 pron
@@ -179746,7 +179746,7 @@ pron
 np
 pp
 adj
-191012	np
+np
 np
 pron
 verb
@@ -179764,9 +179764,9 @@ np
 verb
 verb
 pron
-191031	conj
 conj
-191034	verb
+conj
+191595	verb
 np
 np
 np
@@ -179777,11 +179777,11 @@ verb
 np
 np
 conj
-191046	verb
+191607	verb
 verb
 np
 np
-191051	conj
+191612	conj
 conj
 pp
 verb
@@ -179790,17 +179790,17 @@ np
 np
 np
 np
-191061	pp
-191063	pron
+191622	pp
+pron
 adv
 verb
 conj
 pp
-191069	pron
+pron
 adv
 verb
 conj
-191074	verb
+191633	verb
 pron
 conj
 np
@@ -179810,7 +179810,7 @@ np
 verb
 adv
 verb
-191085	np
+191644	np
 conj
 np
 np
@@ -179821,7 +179821,7 @@ np
 np
 np
 np
-191097	pron
+pron
 verb
 np
 np
@@ -179854,7 +179854,7 @@ np
 pp
 np
 np
-191131	verb
+verb
 conj
 np
 verb
@@ -179865,7 +179865,7 @@ np
 conj
 noun
 verb
-191143	verb
+verb
 np
 verb
 pp
@@ -179882,7 +179882,7 @@ np
 conj
 np
 verb
-191161	verb
+verb
 pron
 pp
 np
@@ -179895,11 +179895,11 @@ verb
 conj
 np
 verb
-191175	ptcl
+ptcl
 adv
 advp
 verb
-191180	conj
+191734	conj
 verb
 adv
 pp
@@ -179907,14 +179907,14 @@ verb
 conj
 verb
 pron
-191189	verb
+verb
 conj
 pron
 verb
 verb
 np
 conj
-191197	np
+191750	np
 verb
 pp
 pp
@@ -179929,7 +179929,7 @@ np
 np
 np
 verb
-191213	noun
+noun
 noun
 verb
 pron
@@ -179937,22 +179937,22 @@ det
 conj
 verb
 verb
-191222	verb
+verb
 pron
 adv
 verb
 pron
-191228	verb
+verb
 conj
 conj
 adv
 verb
-191234	np
+191784	np
 conj
 np
 conj
 conj
-191242	noun
+191792	noun
 verb
 verb
 np
@@ -179963,7 +179963,7 @@ pron
 np
 verb
 conj
-191254	pron
+pron
 conj
 verb
 np
@@ -180038,10 +180038,10 @@ verb
 pron
 np
 np
-191330	adv
+adv
 np
 conj
-191334	pp
+pp
 verb
 adj
 pp
@@ -180070,10 +180070,10 @@ verb
 pron
 np
 np
-191364	adv
+adv
 np
 conj
-191368	pp
+pp
 verb
 adj
 pp
@@ -180125,20 +180125,20 @@ np
 np
 verb
 pron
-191421	np
+np
 conj
-verb
-conj
-verb
-conj
-adv
 verb
 conj
 verb
 conj
 adv
 verb
-191435	verb
+conj
+verb
+conj
+adv
+verb
+191979	verb
 pron
 conj
 verb
@@ -180160,7 +180160,7 @@ verb
 verb
 np
 np
-191458	np
+192002	np
 conj
 verb
 verb
@@ -180184,14 +180184,14 @@ np
 np
 adv
 verb
-191483	np
+192027	np
 conj
 np
 np
 np
 conj
 conj
-191491	verb
+192035	verb
 np
 np
 np
@@ -180217,13 +180217,13 @@ verb
 pron
 pp
 conj
-191518	np
+192062	np
 verb
 np
 pp
 np
 conj
-191525	verb
+192069	verb
 np
 conj
 pp
@@ -180237,7 +180237,7 @@ np
 np
 pp
 np
-191540	verb
+verb
 np
 verb
 np
@@ -180249,30 +180249,30 @@ verb
 pron
 pp
 np
-191554	verb
+192096	verb
 conj
 conj
 verb
 pron
 verb
-191561	verb
+192103	verb
 conj
 verb
 pron
-191566	adj
+192108	adj
 verb
 conj
 verb
 pron
-191572	adj
+192114	adj
 conj
 verb
 pron
-191577	verb
+192119	verb
 conj
 verb
 pron
-191582	pp
+192124	pp
 verb
 conj
 verb
@@ -180283,29 +180283,29 @@ pron
 np
 verb
 noun
-191594	pron
+192136	pron
 verb
 verb
 conj
 verb
 conj
-191601	verb
+192143	verb
 conj
 verb
 conj
-191606	pron
+192148	pron
 verb
 adj
 conj
 verb
 conj
-191613	adj
+192155	adj
 conj
 verb
 conj
 pron
 verb
-191620	verb
+192162	verb
 conj
 pp
 conj
@@ -180338,38 +180338,38 @@ verb
 pp
 verb
 pp
-191654	np
+192196	np
 np
 np
 verb
-191659	np
+192201	np
 conj
 np
 np
-191665	verb
+192206	verb
 conj
 conj
 adv
 verb
 pron
 verb
-191673	verb
+192214	verb
 conj
 adv
 verb
 pron
-191679	adj
+192220	adj
 verb
 conj
 adv
 verb
 pron
-191686	adj
+192227	adj
 conj
 adv
 verb
 pron
-191693	conj
+192234	conj
 pp
 conj
 adv
@@ -180382,7 +180382,7 @@ verb
 noun
 pron
 verb
-191707	verb
+192248	verb
 conj
 verb
 conj
@@ -180421,7 +180421,7 @@ pp
 np
 conj
 verb
-191747	conj
+conj
 verb
 np
 np
@@ -180445,7 +180445,7 @@ pp
 verb
 adv
 verb
-191772	np
+192312	np
 conj
 np
 np
@@ -180453,20 +180453,20 @@ np
 pp
 np
 np
-191781	np
+192321	np
 verb
 noun
 conj
 verb
 conj
-191788	np
+192328	np
 noun
 verb
 conj
 verb
 verb
 conj
-191796	adv
+adv
 pp
 np
 conj
@@ -180475,13 +180475,13 @@ noun
 verb
 pp
 np
-191806	np
+np
 conj
 verb
-191810	pp
+192348	pp
 pp
 np
-191814	np
+192352	np
 verb
 pron
 noun
@@ -180489,7 +180489,7 @@ verb
 np
 np
 conj
-191823	verb
+verb
 pp
 np
 pron
@@ -180505,7 +180505,7 @@ np
 verb
 conj
 pron
-191840	verb
+192377	verb
 adj
 conj
 verb
@@ -180515,7 +180515,7 @@ conj
 np
 verb
 pron
-191851	pron
+pron
 noun
 verb
 np
@@ -180545,7 +180545,7 @@ pp
 verb
 pron
 verb
-191882	verb
+verb
 pron
 conj
 verb
@@ -180563,10 +180563,10 @@ pp
 np
 adv
 verb
-191901	np
+192436	np
 np
 verb
-191905	pp
+192440	pp
 np
 verb
 pron
@@ -180597,7 +180597,7 @@ verb
 np
 np
 verb
-191937	adv
+adv
 verb
 verb
 pron
@@ -180606,7 +180606,7 @@ np
 det
 conj
 verb
-191947	verb
+192481	verb
 pp
 np
 pp
@@ -180616,7 +180616,7 @@ verb
 pron
 np
 verb
-191958	np
+np
 np
 adv
 verb
@@ -180627,7 +180627,7 @@ pp
 np
 np
 conj
-191970	verb
+verb
 np
 conj
 verb
@@ -180636,7 +180636,7 @@ np
 conj
 verb
 np
-191980	adj
+adj
 conj
 verb
 verb
@@ -180644,7 +180644,7 @@ pp
 np
 np
 conj
-191989	verb
+verb
 pron
 verb
 verb
@@ -180676,7 +180676,7 @@ np
 pron
 pron
 verb
-192022	np
+np
 conj
 np
 np
@@ -180686,7 +180686,7 @@ verb
 pp
 ptcl
 conj
-192033	np
+np
 np
 pp
 np
@@ -180703,7 +180703,7 @@ np
 np
 verb
 conj
-192051	verb
+192579	verb
 pron
 verb
 pron
@@ -180713,10 +180713,10 @@ verb
 pron
 pron
 verb
-192062	verb
+verb
 conj
 pron
-192066	verb
+192593	verb
 np
 noun
 conj
@@ -180726,27 +180726,27 @@ conj
 verb
 np
 verb
-192078	verb
+verb
 verb
 pron
 verb
 np
 np
 conj
-192086	verb
+192611	verb
 noun
 conj
 verb
 verb
 pron
 verb
-192094	verb
+verb
 pp
 adj
 pron
 conj
 verb
-192101	np
+192625	np
 np
 np
 np
@@ -180766,7 +180766,7 @@ np
 np
 np
 pp
-192122	np
+np
 np
 pron
 verb
@@ -180788,7 +180788,7 @@ adv
 verb
 pron
 np
-192145	np
+192668	np
 verb
 pp
 pp
@@ -180796,7 +180796,7 @@ np
 np
 verb
 conj
-192154	verb
+192677	verb
 np
 conj
 verb
@@ -180816,7 +180816,7 @@ conj
 np
 verb
 pron
-192175	conj
+conj
 adj
 verb
 pp
@@ -180840,7 +180840,7 @@ pron
 verb
 pron
 np
-192200	verb
+verb
 pron
 pp
 verb
@@ -180872,19 +180872,19 @@ adv
 verb
 conj
 verb
-192233	np
+192754	np
 conj
 np
 np
 np
 verb
-192240	verb
+192761	verb
 conj
 verb
 adv
 verb
 pron
-192247	adj
+adj
 verb
 np
 np
@@ -180900,7 +180900,7 @@ adj
 verb
 pp
 np
-192264	conj
+192784	conj
 np
 conj
 adj
@@ -180910,14 +180910,14 @@ pp
 np
 np
 conj
-192275	conj
+192795	conj
 pron
 verb
 conj
 conj
 pron
 conj
-192283	verb
+192803	verb
 pp
 np
 conj
@@ -180933,7 +180933,7 @@ verb
 np
 verb
 pp
-192300	verb
+verb
 conj
 verb
 conj
@@ -180965,7 +180965,7 @@ verb
 np
 np
 conj
-192333	verb
+verb
 adv
 verb
 pron
@@ -180992,7 +180992,7 @@ np
 conj
 verb
 pron
-192362	verb
+verb
 adj
 conj
 verb
@@ -181006,7 +181006,7 @@ np
 verb
 pp
 np
-192378	verb
+verb
 verb
 verb
 verb
@@ -181017,7 +181017,7 @@ adv
 pron
 verb
 verb
-192390	np
+192904	np
 np
 verb
 conj
@@ -181026,10 +181026,10 @@ np
 np
 np
 pp
-192400	conj
+192914	conj
 pp
 np
-192404	conj
+192918	conj
 np
 np
 conj
@@ -181093,7 +181093,7 @@ adv
 verb
 pron
 np
-192469	verb
+verb
 np
 np
 pp
@@ -181133,11 +181133,11 @@ np
 verb
 np
 np
-192512	conj
+193023	conj
 pp
 verb
 pp
-192517	conj
+193028	conj
 verb
 pron
 pp
@@ -181149,7 +181149,7 @@ conj
 adv
 verb
 pron
-192530	np
+np
 conj
 verb
 conj
@@ -181163,14 +181163,14 @@ np
 verb
 pron
 verb
-192545	conj
+conj
 verb
 np
 verb
 pp
-192551	np
+193060	np
 adv
-192554	np
+193063	np
 conj
 np
 verb
@@ -181191,7 +181191,7 @@ pp
 np
 verb
 np
-192576	np
+193085	np
 conj
 conj
 np
@@ -181204,7 +181204,7 @@ conj
 pron
 verb
 conj
-192590	adv
+adv
 verb
 np
 verb
@@ -181216,7 +181216,7 @@ verb
 pron
 verb
 verb
-192603	verb
+193111	verb
 np
 np
 np
@@ -181245,7 +181245,7 @@ pron
 verb
 pron
 pp
-192633	np
+193141	np
 verb
 conj
 pron
@@ -181253,21 +181253,21 @@ verb
 conj
 pron
 verb
-192642	np
+193150	np
 np
 np
 np
 verb
 pron
 np
-192650	pron
+193158	pron
 verb
 conj
 verb
 pron
 pp
 verb
-192658	np
+193166	np
 np
 np
 verb
@@ -181286,7 +181286,7 @@ verb
 np
 np
 verb
-192678	verb
+verb
 pron
 adv
 np
@@ -181305,7 +181305,7 @@ verb
 adj
 noun
 verb
-192698	adv
+193205	adv
 verb
 pp
 np
@@ -181317,7 +181317,7 @@ det
 conj
 verb
 verb
-192711	verb
+verb
 pron
 noun
 pron
@@ -181338,7 +181338,7 @@ verb
 np
 verb
 pp
-192733	np
+193239	np
 det
 conj
 verb
@@ -181348,7 +181348,7 @@ adv
 verb
 pron
 verb
-192744	verb
+verb
 conj
 pp
 np
@@ -181361,7 +181361,7 @@ np
 pron
 verb
 pp
-192758	np
+193263	np
 conj
 adv
 verb
@@ -181376,7 +181376,7 @@ verb
 verb
 verb
 np
-192774	adv
+adv
 np
 pp
 verb
@@ -181389,7 +181389,7 @@ pron
 verb
 adv
 verb
-192788	verb
+193292	verb
 conj
 verb
 conj
@@ -181418,13 +181418,13 @@ verb
 adv
 verb
 adv
-192818	noun
+noun
 conj
 verb
 noun
 verb
 np
-192825	np
+193328	np
 conj
 np
 np
@@ -181440,10 +181440,10 @@ pron
 verb
 conj
 verb
-192842	np
+193345	np
 adv
 verb
-192846	verb
+193349	verb
 pron
 conj
 verb
@@ -181452,7 +181452,7 @@ verb
 np
 np
 np
-192856	conj
+193359	conj
 verb
 verb
 verb
@@ -181460,7 +181460,7 @@ np
 det
 conj
 verb
-192865	pron
+pron
 pp
 pron
 verb
@@ -181478,7 +181478,7 @@ conj
 verb
 np
 verb
-192884	adv
+adv
 verb
 verb
 pron
@@ -181509,21 +181509,21 @@ adv
 verb
 verb
 pp
-192916	np
+193417	np
 verb
 conj
 verb
-192921	np
+193422	np
 np
 np
 np
-192926	verb
+verb
 pron
 verb
 pp
 np
 conj
-192933	verb
+verb
 pron
 pp
 np
@@ -181559,7 +181559,7 @@ verb
 pron
 pp
 np
-192970	conj
+193469	conj
 adj
 verb
 adv
@@ -181589,7 +181589,7 @@ np
 verb
 np
 np
-193001	pron
+pron
 verb
 verb
 conj
@@ -181598,18 +181598,18 @@ np
 np
 verb
 noun
-193012	verb
+verb
 conj
 pron
 verb
 pron
 np
-193019	pron
+pron
 verb
 verb
 pron
-193024	conj
-193026	verb
+193519	conj
+193521	verb
 noun
 verb
 conj
@@ -181617,7 +181617,7 @@ conj
 pp
 verb
 pron
-193035	verb
+verb
 conj
 pron
 pp
@@ -181627,8 +181627,8 @@ pp
 np
 np
 verb
-193046	adj
-193048	conj
+adj
+193541	conj
 np
 np
 adj
@@ -181637,469 +181637,469 @@ verb
 adv
 pp
 pp
-193058	np
-conj
-conj
-np
-verb
-np
-conj
-verb
-np
-np
-conj
-verb
-verb
-conj
-np
-verb
-pron
-np
-verb
-pp
-np
-verb
-pron
-det
-conj
-verb
-np
-verb
-pron
-np
-pron
-conj
-verb
-193092	verb
-noun
-verb
-adj
-verb
-det
-conj
-verb
-np
-conj
-verb
-det
-conj
-adv
-verb
-verb
-verb
-verb
-conj
-np
-conj
-adj
-verb
-conj
-adv
-noun
-verb
-verb
-noun
-verb
-np
-pp
-np
-verb
-193127	adj
-verb
-pp
-np
-np
-pron
-verb
-conj
-verb
-np
-np
-verb
-np
-np
-193142	pp
-conj
-pp
-np
-np
-adv
-verb
-pron
-np
-np
-conj
-verb
-verb
-conj
-verb
-adv
-np
-np
-np
-verb
-np
-pp
-np
-verb
-pp
-np
-np
-conj
-verb
-pron
-np
-verb
-pron
-conj
-verb
-noun
-pp
-verb
-pp
-np
-np
-conj
-noun
-pp
-np
-np
-conj
-verb
-pp
-verb
-pron
-verb
-verb
-np
-np
-conj
-verb
-pp
-verb
-np
-conj
-verb
-pp
-np
-np
-conj
-193209	conj
-verb
-pron
-verb
-pron
-np
-conj
-verb
-pron
-np
-np
-conj
-verb
-pron
-pp
-verb
-verb
-conj
-verb
-np
-193230	noun
-noun
-pron
-verb
-conj
-verb
-np
-np
-conj
-verb
-pp
-np
-verb
-193244	pron
-vp
-np
-verb
-pron
-verb
-np
-pp
-verb
-conj
-verb
-adv
-verb
-verb
-verb
-conj
-pron
-verb
-np
-np
-verb
-noun
-conj
-verb
-verb
-pron
-adv
-conj
-verb
-pp
-np
-np
-np
-np
-np
-verb
-pron
-verb
-193283	np
-np
-np
-adv
-verb
-pp
-np
-193291	adj
-pp
-conj
-adj
-pp
-conj
-verb
-verb
-pron
-193301	verb
-np
-np
-conj
-verb
-verb
-np
-conj
-pp
-np
-verb
-193313	verb
-pron
-conj
-np
-verb
-np
-conj
-verb
-pp
-np
-adv
-np
-verb
-pp
-np
-193329	conj
-verb
-193332	adj
-verb
-pron
-adv
-verb
-verb
-193339	np
-verb
-verb
-adv
-pp
-np
-conj
-verb
-pp
-verb
-pp
-np
-193352	verb
-adv
-conj
-verb
-pron
-verb
-conj
-conj
-np
-verb
-np
-conj
-np
-193366	np
-verb
-pp
-verb
-pron
-pp
-conj
-np
-noun
-verb
-pp
-np
-np
-pp
-np
-pp
-conj
-np
-np
-verb
-np
-np
-verb
-193392	noun
-noun
-adv
-verb
-pron
-verb
-193400	np
-np
-pp
-conj
-pron
-verb
-np
-conj
-adv
-verb
-verb
-verb
-conj
-noun
-verb
-pron
-conj
-adv
-193419	verb
-np
-pp
-conj
-verb
-noun
-verb
-conj
-noun
-conj
-verb
-noun
-verb
-pron
-np
-conj
-verb
-193437	verb
-193439	verb
-verb
-noun
-verb
-pron
-np
-conj
-adv
-verb
-np
-verb
-np
-conj
-verb
-np
-np
-np
-verb
-193458	pp
-pp
-pp
-conj
-np
-verb
-conj
-np
-verb
-conj
-np
-verb
-conj
-193472	np
-np
-np
-np
-verb
-verb
-conj
-verb
-pp
-np
-pp
-np
-np
-verb
-pp
-np
-np
-conj
-verb
-adj
-193493	np
-conj
-conj
-pp
-verb
-np
-verb
-193501	np
-conj
-verb
-verb
-adv
-verb
-adv
-np
-verb
-pron
-verb
-conj
-adv
-193516	np
-np
-pp
-verb
-pron
-verb
-np
-pp
-np
-verb
-pron
-pp
-verb
-193531	np
-conj
-193534	np
-np
-np
-193538	conj
-conj
-np
-np
-np
-np
-193545	adj
-conj
-verb
-verb
 193551	np
+conj
+conj
+np
+verb
+np
+conj
+verb
+np
+np
+conj
+verb
+verb
+conj
+np
+verb
+pron
+np
+verb
+pp
+np
+verb
+pron
+det
+conj
+verb
+np
+verb
+pron
+np
+pron
+conj
+verb
+193585	verb
+noun
+verb
+adj
+verb
+det
+conj
+verb
+np
+conj
+verb
+det
+conj
+adv
+verb
+verb
+verb
+verb
+conj
+np
+conj
+adj
+verb
+conj
+adv
+noun
+verb
+verb
+noun
+verb
+np
+pp
+np
+verb
+adj
+verb
+pp
+np
+np
+pron
+verb
+conj
+verb
+np
+np
+verb
+np
+np
+193634	pp
+conj
+pp
+np
+np
+adv
+verb
+pron
+np
+np
+conj
+verb
+verb
+conj
+verb
+adv
+np
+np
+np
+verb
+np
+pp
+np
+verb
+pp
+np
+np
+conj
+verb
+pron
+np
+verb
+pron
+conj
+verb
+noun
+pp
+verb
+pp
+np
+np
+conj
+noun
+pp
+np
+np
+conj
+verb
+pp
+verb
+pron
+verb
+verb
+np
+np
+conj
+verb
+pp
+verb
+np
+conj
+verb
+pp
+np
+np
+conj
+conj
+verb
+pron
+verb
+pron
+np
+conj
+verb
+pron
+np
+np
+conj
+verb
+pron
+pp
+verb
+verb
+conj
+verb
+np
+193721	noun
+noun
+pron
+verb
+conj
+verb
+np
+np
+conj
+verb
+pp
+np
+verb
+pron
+vp
+np
+verb
+pron
+verb
+np
+pp
+verb
+conj
+verb
+adv
+verb
+verb
+verb
+conj
+pron
+verb
+np
+np
+verb
+noun
+conj
+verb
+verb
+pron
+adv
+conj
+verb
+pp
+np
+np
+np
+np
+np
+verb
+pron
+verb
+193773	np
+np
+np
+adv
+verb
+pp
+np
+193781	adj
+pp
+conj
+adj
+pp
+conj
+verb
+verb
+pron
+193791	verb
+np
+np
+conj
+verb
+verb
+np
+conj
+pp
+np
+verb
+verb
+pron
+conj
+np
+verb
+np
+conj
+verb
+pp
+np
+adv
+np
+verb
+pp
+np
+193818	conj
+verb
+adj
+verb
+pron
+adv
+verb
+verb
+np
+verb
+verb
+adv
+pp
+np
+conj
+verb
+pp
+verb
+pp
+np
+verb
+adv
+conj
+verb
+pron
+verb
+conj
+conj
+np
+verb
+np
+conj
+np
+193852	np
+verb
+pp
+verb
+pron
+pp
+conj
+np
+noun
+verb
+pp
+np
+np
+pp
+np
+pp
+conj
+np
+np
+verb
+np
+np
+verb
+noun
+noun
+adv
+verb
+pron
+verb
+np
+np
+pp
+conj
+pron
+verb
+np
+conj
+adv
+verb
+verb
+verb
+conj
+noun
+verb
+pron
+conj
+adv
+193900	verb
+np
+pp
+conj
+verb
+noun
+verb
+conj
+noun
+conj
+verb
+noun
+verb
+pron
+np
+conj
+verb
+verb
+verb
+verb
+noun
+verb
+pron
+np
+conj
+adv
+verb
+np
+verb
+np
+conj
+verb
+np
+np
+np
+verb
+193937	pp
+pp
+pp
+conj
+np
+verb
+conj
+np
+verb
+conj
+np
+verb
+conj
+193951	np
+np
+np
+np
+verb
+verb
+conj
+verb
+pp
+np
+pp
+np
+np
+verb
+pp
+np
+np
+conj
+verb
+adj
+193972	np
+conj
+conj
+pp
+verb
+np
+verb
+193980	np
+conj
+verb
+verb
+adv
+verb
+adv
+np
+verb
+pron
+verb
+conj
+adv
+np
+np
+pp
+verb
+pron
+verb
+np
+pp
+np
+verb
+pron
+pp
+verb
+194008	np
+conj
+194011	np
+np
+np
+194015	conj
+conj
+np
+np
+np
+np
+adj
+conj
+verb
+verb
+np
 np
 pp
 det
 noun
-193557	np
+194031	np
 verb
 np
 pron
@@ -182125,7 +182125,7 @@ conj
 verb
 pron
 pp
-193584	np
+np
 np
 np
 pron
@@ -182142,20 +182142,20 @@ verb
 vp
 conj
 adv
-193603	np
+194076	np
 conj
 np
 np
 pp
 np
-193610	np
+np
 conj
 pron
 verb
 pp
 np
 verb
-193618	np
+194090	np
 conj
 np
 pp
@@ -182178,7 +182178,7 @@ np
 pp
 np
 np
-193643	ptcl
+194115	ptcl
 adv
 verb
 np
@@ -182199,10 +182199,10 @@ np
 verb
 pron
 np
-193665	verb
+verb
 noun
 verb
-193669	verb
+verb
 conj
 verb
 det
@@ -182220,7 +182220,7 @@ verb
 pp
 np
 verb
-193689	np
+194159	np
 conj
 np
 np
@@ -182232,7 +182232,7 @@ np
 verb
 np
 conj
-193702	verb
+194172	verb
 pp
 conj
 verb
@@ -182267,44 +182267,44 @@ verb
 conj
 np
 verb
-np
-193739	adv
-verb
-pron
-verb
-conj
-conj
-193746	verb
-verb
-193749	adv
-verb
-adv
-193753	verb
-conj
-conj
-verb
-193758	verb
-verb
-np
-193762	adv
-verb
-conj
-adj
-verb
-verb
-np
-np
-conj
-verb
-pp
-np
-conj
-verb
-verb
-pron
-pp
 np
 adv
+verb
+pron
+verb
+conj
+conj
+194215	verb
+verb
+adv
+verb
+adv
+verb
+conj
+conj
+verb
+verb
+verb
+np
+adv
+verb
+conj
+adj
+verb
+verb
+np
+np
+conj
+verb
+pp
+np
+conj
+verb
+verb
+pron
+pp
+np
+adv
 pron
 verb
 verb
@@ -182316,7 +182316,7 @@ adj
 pp
 np
 pp
-193793	conj
+194258	conj
 np
 verb
 verb
@@ -182342,10 +182342,10 @@ adv
 verb
 pron
 np
-193820	adv
+adv
 verb
 verb
-193824	verb
+verb
 np
 np
 conj
@@ -182355,7 +182355,7 @@ np
 conj
 pron
 verb
-193835	verb
+verb
 conj
 pron
 verb
@@ -182369,7 +182369,7 @@ np
 np
 verb
 conj
-193850	verb
+194312	verb
 pp
 np
 noun
@@ -182381,7 +182381,7 @@ np
 verb
 verb
 conj
-193863	np
+np
 np
 noun
 verb
@@ -182390,7 +182390,7 @@ pron
 pron
 verb
 conj
-193873	conj
+conj
 verb
 pron
 pp
@@ -182401,7 +182401,7 @@ conj
 pron
 adj
 verb
-193885	det
+det
 conj
 verb
 noun
@@ -182416,7 +182416,7 @@ pp
 pp
 np
 np
-193901	np
+194360	np
 conj
 np
 verb
@@ -182424,7 +182424,7 @@ pp
 np
 pp
 np
-193910	adv
+adv
 verb
 pron
 np
@@ -182459,7 +182459,7 @@ pron
 pp
 np
 np
-193946	np
+194404	np
 conj
 np
 conj
@@ -182468,7 +182468,7 @@ np
 verb
 pron
 verb
-193956	pron
+pron
 verb
 pron
 conj
@@ -182485,11 +182485,11 @@ np
 np
 np
 np
-193975	np
-193977	conj
+194432	np
+conj
 verb
 pp
-193981	np
+194437	np
 np
 verb
 verb
@@ -182505,7 +182505,7 @@ np
 verb
 pp
 np
-193998	verb
+verb
 np
 np
 adj
@@ -182513,7 +182513,7 @@ verb
 np
 np
 verb
-194007	verb
+194462	verb
 pp
 np
 verb
@@ -182524,7 +182524,7 @@ np
 conj
 verb
 pp
-194019	np
+194474	np
 np
 np
 conj
@@ -182535,13 +182535,13 @@ verb
 pp
 pp
 np
-194031	verb
+194486	verb
 np
 np
 conj
 verb
 np
-194039	verb
+194494	verb
 np
 conj
 np
@@ -182550,7 +182550,7 @@ np
 np
 conj
 verb
-194049	conj
+194504	conj
 np
 conj
 verb
@@ -182579,7 +182579,7 @@ verb
 pron
 np
 conj
-194079	verb
+verb
 pp
 np
 np
@@ -182599,7 +182599,7 @@ verb
 pp
 np
 verb
-194100	verb
+194554	verb
 np
 conj
 np
@@ -182612,9 +182612,9 @@ noun
 verb
 pp
 np
-194114	pron
+pron
 verb
-194117	np
+194570	np
 np
 np
 pp
@@ -182627,7 +182627,7 @@ verb
 pp
 np
 conj
-194131	verb
+194584	verb
 pp
 np
 np
@@ -182635,7 +182635,7 @@ verb
 pp
 np
 conj
-194140	verb
+194593	verb
 pp
 np
 conj
@@ -182650,14 +182650,14 @@ verb
 np
 pp
 np
-194156	verb
+194609	verb
 np
 np
 np
 conj
 verb
 conj
-194164	verb
+verb
 np
 conj
 verb
@@ -182665,19 +182665,19 @@ np
 np
 np
 verb
-conj
-verb
-pp
-np
 conj
 verb
 pp
 np
+conj
+verb
+pp
+np
 np
 np
 verb
-194184	conj
-194186	np
+194636	conj
+194638	np
 np
 verb
 pp
@@ -182689,7 +182689,7 @@ conj
 verb
 pron
 np
-194199	verb
+194651	verb
 pp
 conj
 verb
@@ -182706,10 +182706,10 @@ conj
 verb
 adj
 verb
-194219	np
+194671	np
 np
 conj
-194223	np
+194675	np
 np
 pron
 pp
@@ -182722,7 +182722,7 @@ verb
 pron
 conj
 verb
-194237	np
+194689	np
 np
 pp
 np
@@ -182748,14 +182748,14 @@ np
 vp
 conj
 pron
-194264	conj
+194716	conj
 noun
 verb
 conj
 conj
 np
 conj
-194272	adj
+194724	adj
 verb
 pp
 np
@@ -182766,14 +182766,14 @@ np
 conj
 verb
 verb
-194285	pron
-194287	conj
-194289	verb
+pron
+194737	conj
+194739	verb
 verb
 pron
 verb
 pron
-194295	pron
+pron
 verb
 np
 np
@@ -182782,12 +182782,12 @@ conj
 verb
 pron
 np
-194305	verb
+194754	verb
 conj
 verb
 pp
 conj
-194311	verb
+194760	verb
 pron
 np
 np
@@ -182804,7 +182804,7 @@ conj
 verb
 pron
 verb
-194330	pron
+pron
 verb
 pron
 np
@@ -182838,9 +182838,9 @@ verb
 pp
 np
 np
-194365	conj
+194812	conj
 pp
-194368	conj
+194815	conj
 np
 conj
 np
@@ -182864,16 +182864,16 @@ np
 conj
 verb
 pron
-194393	adj
+adj
 conj
 verb
-194397	adv
+adv
 verb
 np
 verb
 pp
 np
-194404	adv
+194849	adv
 verb
 conj
 verb
@@ -182890,7 +182890,7 @@ adv
 verb
 np
 conj
-194422	np
+194867	np
 verb
 conj
 adv
@@ -182906,7 +182906,7 @@ adjp
 verb
 verb
 conj
-194439	verb
+verb
 pp
 np
 conj
@@ -182914,11 +182914,11 @@ verb
 conj
 verb
 pron
-194448	conj
+194892	conj
 np
 pp
 conj
-194453	verb
+194897	verb
 pron
 conj
 verb
@@ -182930,7 +182930,7 @@ pron
 conj
 verb
 pron
-194467	verb
+verb
 adv
 pp
 np
@@ -182944,7 +182944,7 @@ conj
 verb
 conj
 verb
-194482	verb
+194924	verb
 pp
 np
 np
@@ -182958,7 +182958,7 @@ conj
 verb
 pp
 adj
-194497	verb
+194939	verb
 pron
 conj
 verb
@@ -182979,7 +182979,7 @@ verb
 conj
 verb
 pron
-194519	verb
+verb
 verb
 conj
 adj
@@ -182997,12 +182997,12 @@ pron
 conj
 verb
 pron
-194538	verb
+194979	verb
 adj
 adj
 verb
 conj
-194544	verb
+verb
 pron
 verb
 np
@@ -183020,7 +183020,7 @@ det
 conj
 verb
 verb
-194563	verb
+195003	verb
 adj
 conj
 verb
@@ -183042,7 +183042,7 @@ verb
 pp
 adv
 conj
-194586	verb
+verb
 adv
 pp
 pp
@@ -183080,13 +183080,13 @@ pp
 np
 verb
 np
-194625	adv
+adv
 verb
 conj
 verb
 verb
 np
-194632	adv
+adv
 np
 verb
 conj
@@ -183105,24 +183105,24 @@ conj
 np
 np
 adv
-194652	verb
+195089	verb
 conj
 verb
 pp
 np
 np
-194659	pron
+pron
 pron
 adv
 verb
 verb
-194665	pron
+pron
 verb
 verb
 noun
 conj
 adv
-194672	np
+195107	np
 conj
 adj
 verb
@@ -183135,25 +183135,25 @@ verb
 pp
 verb
 pron
-194686	pron
+195121	pron
 pron
 verb
 pp
 np
 np
-194693	pron
+pron
 verb
 adj
-194697	verb
+verb
 np
 verb
 np
 np
 conj
 verb
-194705	verb
+195138	verb
 conj
-194708	verb
+195141	verb
 np
 np
 conj
@@ -183175,7 +183175,7 @@ verb
 np
 pron
 verb
-194731	verb
+verb
 verb
 np
 np
@@ -183193,7 +183193,7 @@ np
 verb
 pp
 conj
-194750	verb
+195182	verb
 adj
 conj
 verb
@@ -183219,7 +183219,7 @@ pron
 conj
 verb
 verb
-194777	np
+195209	np
 np
 verb
 pp
@@ -183241,14 +183241,14 @@ pp
 np
 np
 conj
-194800	np
-194802	conj
+np
+195233	conj
 verb
-194805	np
+195236	np
 conj
 np
 np
-194810	verb
+195241	verb
 conj
 adj
 conj
@@ -183262,34 +183262,34 @@ verb
 conj
 verb
 pp
-194825	np
+195256	np
 conj
 verb
 np
 np
 pp
 np
-194833	conj
+195264	conj
 verb
 conj
 verb
 np
 verb
 pron
-194841	np
+195272	np
 verb
 verb
 conj
 adv
 verb
-194848	verb
+195279	verb
 verb
 adj
 conj
 adj
 conj
 vp
-194856	np
+195287	np
 np
 conj
 np
@@ -183298,8 +183298,8 @@ verb
 conj
 verb
 pron
-194866	pp
-194868	np
+195297	pp
+195299	np
 np
 conj
 np
@@ -183357,13 +183357,13 @@ verb
 np
 np
 pp
-194927	np
+195358	np
 np
 conj
 np
 verb
 conj
-194934	adj
+195365	adj
 verb
 np
 pp
@@ -183375,7 +183375,7 @@ verb
 np
 np
 conj
-194947	np
+195378	np
 verb
 conj
 np
@@ -183415,15 +183415,15 @@ verb
 pron
 adv
 verb
-194988	pron
+pron
 verb
 noun
 conj
-194993	noun
+195423	noun
 verb
 conj
 verb
-194998	conj
+195428	conj
 np
 pp
 conj
@@ -183433,8 +183433,8 @@ np
 np
 np
 pp
-195009	conj
-195011	np
+195439	conj
+195441	np
 np
 np
 verb
@@ -183453,7 +183453,7 @@ verb
 conj
 verb
 pron
-195031	np
+195461	np
 pp
 np
 verb
@@ -183482,7 +183482,7 @@ verb
 verb
 np
 conj
-195062	verb
+verb
 pron
 np
 verb
@@ -183492,7 +183492,7 @@ verb
 pron
 conj
 verb
-195073	np
+195501	np
 np
 np
 verb
@@ -183562,7 +183562,7 @@ pp
 np
 verb
 conj
-195144	pp
+195572	pp
 np
 conj
 pp
@@ -183574,7 +183574,7 @@ pp
 np
 conj
 pp
-195157	conj
+195585	conj
 np
 verb
 pron
@@ -183582,7 +183582,7 @@ verb
 verb
 pp
 conj
-195166	verb
+verb
 np
 np
 conj
@@ -183635,7 +183635,7 @@ pron
 adj
 verb
 conj
-195220	verb
+195647	verb
 pp
 np
 conj
@@ -183647,7 +183647,7 @@ conj
 verb
 pp
 conj
-195233	verb
+verb
 num
 conj
 verb
@@ -183656,7 +183656,7 @@ conj
 conj
 verb
 pron
-195243	verb
+195669	verb
 conj
 verb
 noun
@@ -183666,37 +183666,37 @@ conj
 verb
 np
 conj
-195254	verb
+195680	verb
 noun
 np
 noun
 conj
-195262	np
+195688	np
 np
 conj
-195266	np
+195692	np
 np
 np
 conj
 verb
 pron
 noun
-195274	pron
+pron
 verb
 np
 conj
-195279	conj
+195704	conj
 conj
 conj
 conj
 conj
-195285	np
+195710	np
 np
 conj
 conj
-195290	np
+195715	np
 conj
-195294	pron
+195718	pron
 adv
 verb
 pron
@@ -183726,11 +183726,11 @@ conj
 conj
 verb
 conj
-195325	np
+195749	np
 pp
 verb
 verb
-195330	conj
+195754	conj
 noun
 verb
 conj
@@ -183774,7 +183774,7 @@ np
 verb
 conj
 conj
-195375	np
+195799	np
 verb
 pp
 conj
@@ -183809,7 +183809,7 @@ verb
 verb
 pron
 conj
-195411	np
+195835	np
 verb
 np
 np
@@ -183817,7 +183817,7 @@ np
 np
 conj
 np
-195420	pron
+pron
 verb
 pron
 conj
@@ -183841,7 +183841,7 @@ np
 verb
 conj
 verb
-195445	np
+195868	np
 np
 conj
 np
@@ -183861,7 +183861,7 @@ conj
 verb
 pron
 verb
-195466	np
+195889	np
 np
 conj
 np
@@ -183878,7 +183878,7 @@ pron
 verb
 pron
 verb
-195484	np
+195907	np
 np
 conj
 np
@@ -183888,19 +183888,19 @@ pp
 noun
 verb
 verb
-195495	verb
-195497	np
+verb
+195919	np
 np
 conj
 np
 np
-195503	pron
+pron
 verb
 np
 np
 np
 pron
-195510	np
+195931	np
 conj
 conj
 verb
@@ -183924,7 +183924,7 @@ np
 conj
 np
 np
-195535	pp
+195956	pp
 np
 pp
 np
@@ -183949,19 +183949,19 @@ conj
 verb
 pp
 verb
-195561	pron
+195982	pron
 conj
 verb
 pp
 np
 conj
-195568	verb
+195989	verb
 np
 conj
 verb
 pron
 conj
-195577	adj
+195997	adj
 verb
 pp
 np
@@ -183977,7 +183977,7 @@ adv
 verb
 np
 conj
-195594	conj
+196014	conj
 verb
 np
 verb
@@ -183988,12 +183988,12 @@ verb
 noun
 verb
 conj
-195606	adj
+196026	adj
 verb
 pp
 np
 conj
-195613	verb
+196033	verb
 np
 conj
 verb
@@ -184003,19 +184003,19 @@ noun
 adv
 verb
 conj
-195624	adj
+196044	adj
 verb
 pp
 np
 np
 np
 conj
-195632	verb
+196052	verb
 noun
-195635	conj
+196055	conj
 conj
 verb
-195639	pp
+196059	pp
 conj
 pp
 conj
@@ -184028,7 +184028,7 @@ noun
 verb
 verb
 conj
-195653	conj
+conj
 verb
 pp
 verb
@@ -184041,27 +184041,27 @@ np
 conj
 verb
 pron
-195667	pron
+196086	pron
 np
 np
 verb
 np
 np
 np
-195675	np
+np
 conj
 np
 pp
 np
 verb
 conj
-195684	verb
+196102	verb
 verb
 conj
 adv
 verb
 conj
-195691	verb
+196109	verb
 verb
 conj
 adv
@@ -184075,7 +184075,7 @@ pron
 conj
 verb
 pron
-195706	adv
+196124	adv
 verb
 np
 np
@@ -184093,22 +184093,22 @@ verb
 np
 pp
 np
-195725	adv
+adv
 verb
 np
 conj
-195730	conj
+conj
 verb
 adj
 verb
 np
 conj
 verb
-195738	np
+196154	np
 verb
 pp
 conj
-195743	verb
+verb
 adv
 pp
 np
@@ -184122,7 +184122,7 @@ pp
 verb
 pron
 conj
-195758	adv
+196173	adv
 verb
 noun
 pp
@@ -184131,7 +184131,7 @@ adj
 verb
 adv
 verb
-195768	conj
+196183	conj
 pp
 np
 adj
@@ -184142,12 +184142,12 @@ verb
 pp
 np
 verb
-195780	pron
+196195	pron
 verb
 np
 verb
 conj
-195787	np
+196202	np
 np
 np
 conj
@@ -184166,7 +184166,7 @@ conj
 adj
 verb
 conj
-195807	verb
+verb
 pp
 np
 np
@@ -184179,7 +184179,7 @@ conj
 verb
 conj
 verb
-195821	pp
+196235	pp
 conj
 pp
 conj
@@ -184191,7 +184191,7 @@ conj
 verb
 np
 conj
-195834	pp
+196248	pp
 np
 verb
 conj
@@ -184201,22 +184201,22 @@ conj
 pp
 np
 verb
-195845	adv
+adv
 conj
 verb
 np
 conj
-195851	adv
+adv
 conj
 verb
-195855	conj
+196267	conj
 verb
 adj
 conj
 conj
 verb
 pp
-195863	conj
+conj
 pron
 verb
 noun
@@ -184225,7 +184225,7 @@ verb
 conj
 verb
 pron
-195873	verb
+verb
 pron
 verb
 pp
@@ -184252,23 +184252,23 @@ verb
 pp
 conj
 verb
-195901	adv
+adv
 verb
 np
 np
 np
 conj
-195908	noun
+196317	noun
 verb
 np
 pp
 np
 conj
-195916	conj
-195918	conj
+196325	conj
+196327	conj
 conj
-195921	np
-195923	conj
+np
+196331	conj
 conj
 adv
 verb
@@ -184276,11 +184276,11 @@ pron
 adj
 np
 verb
-195932	adj
-noun
-adv
+adj
 noun
 adv
+noun
+adv
 adj
 noun
 pp
@@ -184309,7 +184309,7 @@ pron
 verb
 pp
 conj
-195966	np
+np
 pron
 conj
 verb
@@ -184318,7 +184318,7 @@ np
 adj
 verb
 np
-195976	np
+196382	np
 np
 pp
 np
@@ -184364,7 +184364,7 @@ np
 verb
 adj
 conj
-196023	verb
+verb
 pron
 pp
 np
@@ -184426,7 +184426,7 @@ np
 conj
 verb
 np
-196086	verb
+verb
 verb
 conj
 verb
@@ -184437,7 +184437,7 @@ np
 conj
 verb
 pron
-196098	pron
+pron
 adj
 verb
 adv
@@ -184456,7 +184456,7 @@ conj
 pron
 verb
 conj
-196118	np
+196521	np
 conj
 np
 verb
@@ -184472,7 +184472,7 @@ np
 np
 np
 conj
-196135	verb
+verb
 pron
 pp
 np
@@ -184481,7 +184481,7 @@ verb
 pron
 pp
 np
-196145	np
+np
 pp
 np
 pron
@@ -184499,10 +184499,10 @@ verb
 pp
 pron
 adv
-196164	conj
+196565	conj
 verb
 conj
-196168	verb
+196569	verb
 pp
 np
 conj
@@ -184515,8 +184515,8 @@ pron
 verb
 conj
 pp
-196182	conj
-196184	pp
+196583	conj
+196585	pp
 np
 conj
 pp
@@ -184527,7 +184527,7 @@ verb
 pron
 noun
 conj
-196196	verb
+196597	verb
 np
 pp
 verb
@@ -184535,13 +184535,13 @@ conj
 verb
 pron
 conj
-196205	verb
+verb
 np
 verb
-196209	pron
-196211	conj
-196213	np
-196215	np
+pron
+196610	conj
+196612	np
+196614	np
 np
 verb
 pron
@@ -184594,50 +184594,50 @@ conj
 verb
 pron
 verb
-196269	verb
-pron
-pp
-np
-conj
-pp
-verb
-conj
 verb
 pron
-conj
-verb
-np
-np
-np
-verb
 pp
 np
 conj
-196289	verb
-np
 pp
-np
-pp
-np
-np
-conj
 verb
-pp
-np
 conj
 verb
 pron
+conj
+verb
+np
+np
+np
+verb
+pp
+np
+conj
+196687	verb
+np
+pp
+np
+pp
+np
+np
+conj
+verb
+pp
+np
+conj
+verb
+pron
 verb
 conj
 verb
-196307	pp
+196705	pp
 np
 conj
 pp
 np
 conj
 verb
-196315	verb
+verb
 pron
 verb
 verb
@@ -184646,10 +184646,10 @@ verb
 pp
 np
 conj
-196325	verb
-196327	verb
+196722	verb
+196724	verb
 verb
-196330	verb
+196727	verb
 conj
 verb
 verb
@@ -184675,7 +184675,7 @@ pp
 np
 np
 conj
-196357	verb
+verb
 pron
 pp
 np
@@ -184686,12 +184686,12 @@ conj
 pp
 verb
 conj
-196369	verb
+196765	verb
 pron
 conj
 verb
 pron
-196375	verb
+196771	verb
 pp
 np
 np
@@ -184708,7 +184708,7 @@ conj
 verb
 pron
 conj
-196393	verb
+196789	verb
 conj
 verb
 verb
@@ -184722,7 +184722,7 @@ conj
 adj
 verb
 conj
-196408	verb
+verb
 np
 pp
 np
@@ -184744,7 +184744,7 @@ np
 noun
 noun
 conj
-196431	verb
+196826	verb
 pron
 verb
 pp
@@ -184766,7 +184766,7 @@ verb
 np
 pron
 conj
-196454	verb
+196849	verb
 conj
 verb
 conj
@@ -184796,7 +184796,7 @@ np
 np
 pp
 conj
-196485	adj
+196880	adj
 verb
 conj
 adv
@@ -184859,7 +184859,7 @@ verb
 pron
 np
 np
-196549	verb
+196944	verb
 np
 verb
 pron
@@ -184875,7 +184875,7 @@ pron
 verb
 np
 conj
-196566	conj
+196961	conj
 verb
 pron
 verb
@@ -184914,7 +184914,7 @@ pp
 np
 verb
 conj
-196606	np
+np
 np
 verb
 pron
@@ -184928,7 +184928,7 @@ np
 verb
 verb
 np
-196621	adv
+adv
 verb
 adj
 verb
@@ -184940,10 +184940,10 @@ pp
 verb
 conj
 adv
-196634	np
+197027	np
 conj
 conj
-196638	np
+197031	np
 np
 conj
 verb
@@ -184952,16 +184952,16 @@ np
 np
 np
 conj
-196648	verb
-196650	conj
-196652	conj
+197041	verb
+197043	conj
+197045	conj
 adj
 conj
 verb
 verb
 pron
-196659	pron
-196661	conj
+pron
+197053	conj
 np
 adv
 verb
@@ -184975,7 +184975,7 @@ conj
 verb
 adj
 verb
-196676	np
+197068	np
 np
 np
 conj
@@ -185004,7 +185004,7 @@ pron
 verb
 verb
 conj
-196706	adj
+adj
 verb
 np
 conj
@@ -185030,7 +185030,7 @@ verb
 pron
 verb
 conj
-196733	verb
+197124	verb
 adv
 conj
 verb
@@ -185043,7 +185043,7 @@ pron
 np
 np
 conj
-196747	verb
+verb
 noun
 verb
 verb
@@ -185054,12 +185054,12 @@ np
 verb
 verb
 verb
-196759	adv
+197149	adv
 pron
 pron
 conj
 pron
-196765	np
+197155	np
 verb
 pron
 conj
@@ -185071,9 +185071,9 @@ np
 verb
 pron
 verb
-196778	np
+197168	np
 np
-196781	np
+197171	np
 np
 conj
 np
@@ -185100,7 +185100,7 @@ noun
 adj
 conj
 adv
-196809	pp
+197199	pp
 np
 np
 conj
@@ -185140,7 +185140,7 @@ conj
 verb
 pron
 verb
-196850	conj
+197240	conj
 verb
 pron
 np
@@ -185151,14 +185151,14 @@ conj
 verb
 pron
 conj
-196862	adj
+adj
 verb
 pp
 conj
 adv
 noun
 adj
-196870	adv
+adv
 noun
 adv
 noun
@@ -185167,7 +185167,7 @@ pp
 np
 noun
 conj
-196880	verb
+197268	verb
 noun
 conj
 adv
@@ -185176,7 +185176,7 @@ np
 conj
 verb
 pron
-196891	conj
+197278	conj
 verb
 pp
 adv
@@ -185185,7 +185185,7 @@ conj
 verb
 adv
 conj
-196901	np
+np
 adv
 verb
 pron
@@ -185195,7 +185195,7 @@ pron
 verb
 adv
 verb
-196912	np
+197298	np
 np
 pp
 np
@@ -185211,14 +185211,14 @@ conj
 np
 verb
 conj
-196929	verb
+197315	verb
 noun
 np
 conj
 verb
 conj
 verb
-196937	np
+197323	np
 adj
 conj
 verb
@@ -185227,7 +185227,7 @@ np
 conj
 verb
 conj
-196947	verb
+197333	verb
 verb
 pp
 conj
@@ -185235,17 +185235,17 @@ pp
 verb
 np
 pp
-adj
-conj
-verb
-conj
-noun
-verb
 adj
 conj
 verb
 conj
 noun
+verb
+adj
+conj
+verb
+conj
+noun
 conj
 np
 np
@@ -185253,7 +185253,7 @@ verb
 conj
 np
 verb
-196974	pron
+pron
 pron
 verb
 noun
@@ -185270,9 +185270,9 @@ verb
 pron
 pp
 pp
-196992	np
+197377	np
 np
-196995	np
+197380	np
 np
 conj
 pron
@@ -185290,7 +185290,7 @@ np
 np
 np
 np
-197014	np
+197399	np
 conj
 verb
 pron
@@ -185301,7 +185301,7 @@ verb
 conj
 adv
 verb
-197026	np
+197411	np
 conj
 verb
 np
@@ -185313,7 +185313,7 @@ conj
 verb
 pron
 conj
-197039	verb
+197424	verb
 pron
 adj
 verb
@@ -185322,378 +185322,378 @@ adv
 pron
 verb
 conj
-197049	verb
+197434	verb
 np
 noun
 np
 np
 noun
 verb
-197057	np
+197442	np
 np
 conj
 np
 conj
 np
 np
-np
-conj
-197067	verb
-np
-np
-np
-np
-conj
-verb
-verb
-197076	np
-conj
-verb
-np
-conj
-verb
-np
-197084	verb
-pron
-pron
-verb
-conj
-verb
-pron
-conj
-verb
-pron
-conj
-197096	conj
-pron
-verb
-verb
-pron
-pp
-np
-np
-np
-conj
-verb
-verb
-np
-np
-pron
-verb
-det
-conj
-verb
-np
-np
-197118	verb
-conj
-verb
-adj
-pp
-pp
-np
-verb
-verb
-verb
-conj
-adv
-verb
-pron
-pp
-np
-np
-197136	np
-conj
-adj
-verb
-np
-pp
-197143	np
-conj
-verb
-adv
-verb
-verb
-pron
-conj
-adj
-verb
-np
-noun
-verb
-verb
-np
-np
-conj
-verb
-verb
-pron
-pp
-np
-conj
-197168	verb
-np
-np
-pp
-conj
-verb
-pron
-np
-conj
-np
-verb
-pron
-np
-np
-conj
-verb
-np
-np
-verb
-conj
-verb
-np
-np
-conj
-verb
-pron
-pp
-conj
-verb
-np
-pp
-np
-conj
-verb
-pron
-np
-pron
-verb
-conj
-pron
-verb
-conj
-197211	verb
-pron
-197214	verb
-np
-pp
-pp
-np
-conj
-verb
-adj
-197223	verb
-conj
-197226	verb
-conj
-verb
-adj
-conj
-adv
-verb
-verb
-conj
-verb
-pp
-np
-pp
-np
-pp
-conj
-197243	verb
-pron
-verb
-conj
-verb
-adj
-conj
-197251	adv
-pp
-np
-np
-verb
-adv
-conj
-verb
-pron
-conj
-verb
-verb
-np
-conj
-197266	verb
-pp
-conj
-verb
-pp
-conj
-np
-adv
-verb
-noun
-conj
-verb
-verb
-pron
-adj
-conj
-197283	adv
-noun
-adj
-verb
-verb
-pron
-np
-np
-verb
-conj
-adj
-verb
-np
-conj
-adv
-noun
-adj
-verb
-pron
-conj
-verb
-pp
-np
-np
-197308	conj
-verb
-pron
-pron
-verb
-det
-conj
-verb
-verb
-pron
-verb
-pron
-pron
-verb
-conj
-verb
-pron
-197326	verb
-verb
-np
-np
-conj
-verb
-pron
-verb
-det
-conj
-verb
-pron
-197339	np
-verb
-verb
-verb
-conj
-verb
-verb
-197347	conj
-np
-conj
-verb
-pron
-verb
-adj
-197355	pp
-np
-np
-conj
-verb
-197362	pp
-conj
-pp
-conj
-197367	verb
-197369	np
-np
-conj
-np
-np
-verb
-pp
-np
-verb
-conj
-verb
-np
-conj
-197383	verb
-np
-conj
-verb
-pron
-conj
-np
-np
-verb
-adj
-conj
-verb
-adj
-conj
-verb
-conj
-verb
-197401	np
-np
-conj
-pp
-np
-conj
-verb
-verb
-np
-np
-conj
-adj
-verb
-197415	np
-np
-verb
-pp
-np
-conj
-verb
-pp
-np
-pp
-conj
-pron
-verb
-np
-conj
-verb
-pron
-verb
-pp
-np
-verb
-conj
-197438	adj
-verb
-verb
-np
-pp
-np
-np
-conj
-pron
-adj
-pp
 np
 conj
 197452	verb
+np
+np
+np
+np
+conj
+verb
+verb
+197461	np
+conj
+verb
+np
+conj
+verb
+np
+197469	verb
+pron
+pron
+verb
+conj
+verb
+pron
+conj
+verb
+pron
+conj
+conj
+pron
+verb
+verb
+pron
+pp
+np
+np
+np
+conj
+verb
+verb
+np
+np
+pron
+verb
+det
+conj
+verb
+np
+np
+197502	verb
+conj
+verb
+adj
+pp
+pp
+np
+verb
+verb
+verb
+conj
+adv
+verb
+pron
+pp
+np
+np
+197520	np
+conj
+adj
+verb
+np
+pp
+197527	np
+conj
+verb
+adv
+verb
+verb
+pron
+conj
+adj
+verb
+np
+noun
+verb
+verb
+np
+np
+conj
+verb
+verb
+pron
+pp
+np
+conj
+197552	verb
+np
+np
+pp
+conj
+verb
+pron
+np
+conj
+np
+verb
+pron
+np
+np
+conj
+verb
+np
+np
+verb
+conj
+verb
+np
+np
+conj
+verb
+pron
+pp
+conj
+verb
+np
+pp
+np
+conj
+verb
+pron
+np
+pron
+verb
+conj
+pron
+verb
+conj
+verb
+pron
+197597	verb
+np
+pp
+pp
+np
+conj
+verb
+adj
+197606	verb
+conj
+197609	verb
+conj
+verb
+adj
+conj
+adv
+verb
+verb
+conj
+verb
+pp
+np
+pp
+np
+pp
+conj
+197626	verb
+pron
+verb
+conj
+verb
+adj
+conj
+197634	adv
+pp
+np
+np
+verb
+adv
+conj
+verb
+pron
+conj
+verb
+verb
+np
+conj
+verb
+pp
+conj
+verb
+pp
+conj
+np
+adv
+verb
+noun
+conj
+verb
+verb
+pron
+adj
+conj
+adv
+noun
+adj
+verb
+verb
+pron
+np
+np
+verb
+conj
+adj
+verb
+np
+conj
+adv
+noun
+adj
+verb
+pron
+conj
+verb
+pp
+np
+np
+197689	conj
+verb
+pron
+pron
+verb
+det
+conj
+verb
+verb
+pron
+verb
+pron
+pron
+verb
+conj
+verb
+pron
+197707	verb
+verb
+np
+np
+conj
+verb
+pron
+verb
+det
+conj
+verb
+pron
+np
+verb
+verb
+verb
+conj
+verb
+verb
+197727	conj
+np
+conj
+verb
+pron
+verb
+adj
+197735	pp
+np
+np
+conj
+verb
+197742	pp
+conj
+pp
+conj
+197747	verb
+197749	np
+np
+conj
+np
+np
+verb
+pp
+np
+verb
+conj
+verb
+np
+conj
+verb
+np
+conj
+verb
+pron
+conj
+np
+np
+verb
+adj
+conj
+verb
+adj
+conj
+verb
+conj
+verb
+197780	np
+np
+conj
+pp
+np
+conj
+verb
+verb
+np
+np
+conj
+adj
+verb
+197794	np
+np
+verb
+pp
+np
+conj
+verb
+pp
+np
+pp
+conj
+pron
+verb
+np
+conj
+verb
+pron
+verb
+pp
+np
+verb
+conj
+adj
+verb
+verb
+np
+pp
+np
+np
+conj
+pron
+adj
+pp
+np
+conj
+verb
 pron
 verb
 pp
@@ -185716,7 +185716,7 @@ conj
 verb
 verb
 pron
-197476	det
+det
 conj
 verb
 pron
@@ -185729,7 +185729,7 @@ noun
 verb
 conj
 verb
-197490	adj
+197866	adj
 conj
 pron
 verb
@@ -185743,7 +185743,7 @@ pp
 conj
 verb
 pron
-197506	verb
+verb
 pron
 verb
 adv
@@ -185757,11 +185757,11 @@ conj
 verb
 np
 conj
-197521	adv
+adv
 pp
 pp
 verb
-197526	conj
+197899	conj
 verb
 pp
 np
@@ -185778,7 +185778,7 @@ pp
 conj
 verb
 conj
-197544	verb
+verb
 pron
 pp
 np
@@ -185797,13 +185797,13 @@ adv
 verb
 verb
 conj
-197564	verb
+verb
 conj
 verb
 conj
 conj
 verb
-197571	pp
+197942	pp
 conj
 pp
 conj
@@ -185830,11 +185830,11 @@ verb
 conj
 verb
 pp
-197599	np
+197970	np
 conj
 np
 np
-197604	verb
+197975	verb
 pp
 conj
 verb
@@ -185842,13 +185842,13 @@ np
 np
 np
 conj
-197613	np
+np
 pron
 verb
 adj
 verb
 np
-197620	np
+197990	np
 conj
 conj
 np
@@ -185884,10 +185884,10 @@ conj
 conj
 verb
 pron
-197657	np
+198027	np
 conj
 np
-197661	pp
+198031	pp
 adv
 verb
 np
@@ -185908,11 +185908,11 @@ adv
 verb
 noun
 pp
-197683	np
+198053	np
 conj
 verb
 conj
-197688	np
+198058	np
 np
 np
 pron
@@ -185953,377 +185953,377 @@ verb
 noun
 conj
 verb
-197730	verb
-197732	np
-np
-conj
-np
-np
-conj
-verb
-197740	conj
-noun
-verb
-pron
-conj
-verb
-197747	conj
-verb
-noun
-197751	np
-conj
-np
-197755	pron
-verb
-noun
-pron
-pp
-verb
-adv
-verb
-pron
-adj
-verb
-197767	np
-conj
-np
-verb
-np
-np
-np
-197775	np
-np
-pron
-verb
-conj
-np
-np
-verb
-conj
-verb
-adv
-np
-verb
-pron
-197790	verb
-pron
-adj
-conj
-verb
-197796	adj
-verb
-197799	np
-pp
-np
-verb
-pp
-pron
-verb
-verb
-pron
-conj
-pp
-np
-verb
-verb
-verb
-np
-conj
-197817	conj
-verb
-pp
-pp
-np
-verb
-pron
-np
-np
-np
-conj
-197829	verb
-pron
-197832	adv
-np
-adj
-verb
-adv
-verb
-conj
-197840	np
-adv
-verb
-pp
-np
-adv
-verb
-pron
-verb
-conj
-197851	verb
-pp
-np
-np
-conj
-197857	pp
-np
-conj
-pp
-np
-verb
-verb
-np
-np
-verb
-conj
-conj
-pp
-np
-verb
-pron
-verb
-np
-adv
-conj
-pp
-np
-np
-np
-np
-np
-np
-verb
-197886	np
-np
-np
-np
-adv
-verb
-conj
-verb
-np
-adv
-conj
-verb
-verb
-pp
-np
-np
-conj
-verb
-pp
-adj
-verb
-verb
-conj
-adv
-verb
-verb
-conj
-adj
-verb
-197916	pp
-np
-verb
-np
-np
-np
-verb
-verb
-pp
-np
-np
-197928	np
-conj
-verb
-noun
-noun
-np
-conj
-verb
-pron
-conj
-np
-verb
-pp
-np
-np
-conj
-verb
-pron
-197947	verb
-adj
-verb
-np
-adv
-conj
-verb
-adj
-verb
-np
-np
-np
-conj
-np
-verb
-det
-conj
-verb
-conj
-verb
-pron
-197969	ptcl
-noun
-np
-np
-pp
-np
-verb
-pp
-np
-np
-np
-conj
-verb
-pron
-pp
-np
-np
-verb
-verb
-pp
-np
-np
-np
-conj
-verb
-pp
-np
-np
-verb
-197999	np
-verb
-pp
-np
-conj
-np
-verb
-conj
-adv
-verb
-pp
-np
-np
-verb
-pp
-pp
-np
-np
-np
-pp
-np
-np
-np
-conj
-verb
-pron
-198026	conj
-conj
-verb
-pron
-conj
-verb
-pron
-np
-conj
-verb
-pron
-pp
-np
-pp
-verb
-np
-np
-pp
-np
-np
-conj
-verb
-verb
-np
-np
-conj
-198053	verb
-pp
-np
-verb
-conj
-verb
-pron
-verb
-pron
-verb
-verb
-conj
-verb
-np
-np
-conj
-198070	adv
-verb
-np
-np
-np
-np
-conj
-verb
-adv
-conj
-verb
-pron
-conj
-adj
-verb
-pron
-conj
-pron
-verb
-pron
-advp
-verb
-conj
-adv
-verb
-verb
-198097	adv
-adj
-verb
-adv
+198100	verb
 198102	np
+np
+conj
+np
+np
+conj
+verb
+198110	conj
+noun
+verb
+pron
+conj
+verb
+conj
+verb
+noun
+198120	np
+conj
+np
+pron
+verb
+noun
+pron
+pp
+verb
+adv
+verb
+pron
+adj
+verb
+198135	np
+conj
+np
+verb
+np
+np
+np
+np
+np
+pron
+verb
+conj
+np
+np
+verb
+conj
+verb
+adv
+np
+verb
+pron
+198157	verb
+pron
+adj
+conj
+verb
+198163	adj
+verb
+np
+pp
+np
+verb
+pp
+pron
+verb
+verb
+pron
+conj
+pp
+np
+verb
+verb
+verb
+np
+conj
+conj
+verb
+pp
+pp
+np
+verb
+pron
+np
+np
+np
+conj
+verb
+pron
+adv
+np
+adj
+verb
+adv
+verb
+conj
+np
+adv
+verb
+pp
+np
+adv
+verb
+pron
+verb
+conj
+198213	verb
+pp
+np
+np
+conj
+198219	pp
+np
+conj
+pp
+np
+verb
+verb
+np
+np
+verb
+conj
+conj
+pp
+np
+verb
+pron
+verb
+np
+adv
+conj
+pp
+np
+np
+np
+np
+np
+np
+verb
+198248	np
+np
+np
+np
+adv
+verb
+conj
+verb
+np
+adv
+conj
+verb
+verb
+pp
+np
+np
+conj
+verb
+pp
+adj
+verb
+verb
+conj
+adv
 verb
 verb
 conj
 adj
 verb
-198109	pp
+pp
 np
+verb
+np
+np
+np
+verb
+verb
+pp
+np
+np
+np
+conj
+verb
+noun
+noun
+np
+conj
+verb
+pron
+conj
+np
+verb
+pp
+np
+np
+conj
+verb
+pron
+verb
+adj
+verb
 np
 adv
+conj
+verb
+adj
+verb
 np
+np
+np
+conj
+np
+verb
+det
+conj
 verb
 conj
-adv
 verb
 pron
-verb
-verb
+ptcl
+noun
+np
+np
+pp
 np
 verb
+pp
+np
+np
+np
+conj
+verb
 pron
-198125	verb
+pp
+np
+np
+verb
+verb
+pp
+np
+np
+np
+conj
+verb
+pp
+np
+np
+verb
+198357	np
+verb
 pp
 np
 conj
-198130	adv
+np
+verb
+conj
+adv
+verb
+pp
+np
+np
+verb
+pp
+pp
+np
+np
+np
+pp
+np
+np
+np
+conj
+verb
+pron
+198384	conj
+conj
+verb
+pron
+conj
+verb
+pron
+np
+conj
+verb
+pron
+pp
+np
+pp
+verb
+np
+np
+pp
+np
+np
+conj
+verb
+verb
+np
+np
+conj
+198411	verb
+pp
+np
+verb
+conj
+verb
+pron
+verb
+pron
+verb
+verb
+conj
+verb
+np
+np
+conj
+198428	adv
+verb
+np
+np
+np
+np
+conj
+verb
+adv
+conj
+verb
+pron
+conj
+adj
+verb
+pron
+conj
+pron
+verb
+pron
+advp
+verb
+conj
+adv
+verb
+verb
+adv
+adj
+verb
+adv
+198459	np
+verb
+verb
+conj
+adj
+verb
+pp
+np
+np
+adv
+np
+verb
+conj
+adv
+verb
+pron
+verb
+verb
+np
+verb
+pron
+verb
+pp
+np
+conj
+198485	adv
 np
 verb
 pron
@@ -186375,13 +186375,13 @@ verb
 pp
 np
 conj
-198183	verb
+198538	verb
 np
 np
 verb
 verb
 conj
-198190	verb
+verb
 np
 np
 conj
@@ -186399,12 +186399,12 @@ verb
 np
 verb
 conj
-198209	verb
+198563	verb
 conj
 verb
 conj
 verb
-198215	np
+198569	np
 np
 verb
 conj
@@ -186448,7 +186448,7 @@ np
 np
 verb
 noun
-198260	verb
+verb
 pron
 conj
 verb
@@ -186483,7 +186483,7 @@ verb
 verb
 verb
 pp
-198296	np
+198649	np
 np
 np
 conj
@@ -186507,7 +186507,7 @@ noun
 adv
 verb
 adv
-198321	conj
+198674	conj
 verb
 verb
 np
@@ -186590,7 +186590,7 @@ verb
 conj
 verb
 verb
-198405	verb
+verb
 np
 conj
 pp
@@ -186605,7 +186605,7 @@ pp
 np
 np
 conj
-198421	verb
+198773	verb
 conj
 verb
 conj
@@ -186624,7 +186624,7 @@ np
 verb
 conj
 verb
-198441	np
+198793	np
 conj
 np
 np
@@ -186652,9 +186652,9 @@ verb
 pron
 verb
 conj
-198470	np
+198822	np
 conj
-198473	adj
+198825	adj
 noun
 adj
 conj
@@ -186697,9 +186697,9 @@ np
 adj
 verb
 conj
-198517	verb
+198869	verb
 pp
-198520	np
+198872	np
 conj
 np
 conj
@@ -186723,7 +186723,7 @@ verb
 pron
 det
 conj
-198545	verb
+198897	verb
 conj
 verb
 np
@@ -186732,11 +186732,11 @@ verb
 noun
 conj
 verb
-198555	verb
+verb
 pp
 noun
 conj
-198560	verb
+198911	verb
 np
 np
 conj
@@ -186750,7 +186750,7 @@ np
 np
 verb
 pron
-198575	conj
+conj
 pron
 verb
 pp
@@ -186778,40 +186778,40 @@ verb
 np
 np
 pp
-198604	conj
+198954	conj
 np
 verb
 pron
-pron
-conj
-verb
-noun
-verb
-np
-np
-conj
-verb
-np
-np
 pron
 conj
 verb
 noun
+verb
 np
 np
-np
-198627	pron
 conj
 verb
-198631	conj
+np
+np
+pron
+conj
+verb
+noun
+np
+np
+np
+pron
+conj
+verb
+198980	conj
 np
 np
 pp
-198636	np
+198985	np
 np
-198639	np
+198988	np
 conj
-198642	np
+np
 np
 np
 np
@@ -186835,7 +186835,7 @@ verb
 pron
 conj
 verb
-198667	np
+np
 adv
 verb
 pron
@@ -186854,7 +186854,7 @@ pp
 np
 verb
 np
-198687	np
+199034	np
 conj
 np
 conj
@@ -186903,7 +186903,7 @@ pron
 adv
 verb
 conj
-198737	verb
+verb
 np
 pron
 adj
@@ -186931,9 +186931,9 @@ verb
 noun
 pp
 np
-198766	pron
+pron
 verb
-198769	np
+199114	np
 np
 np
 verb
@@ -186949,7 +186949,7 @@ np
 adj
 pp
 conj
-198786	verb
+verb
 pron
 pp
 np
@@ -186992,7 +186992,7 @@ det
 conj
 verb
 pron
-198830	noun
+199174	noun
 verb
 adj
 verb
@@ -187016,7 +187016,7 @@ conj
 np
 verb
 conj
-198855	verb
+verb
 pron
 pron
 verb
@@ -187028,7 +187028,7 @@ verb
 pp
 np
 verb
-198868	np
+199211	np
 pp
 conj
 noun
@@ -187094,7 +187094,7 @@ pron
 verb
 np
 np
-198935	pp
+pp
 pp
 verb
 pp
@@ -187124,7 +187124,7 @@ conj
 verb
 np
 np
-198966	np
+np
 verb
 pron
 verb
@@ -187132,9 +187132,9 @@ pron
 det
 conj
 verb
-198975	pp
+199316	pp
 conj
-198978	adv
+199319	adv
 pp
 pp
 pron
@@ -187167,7 +187167,7 @@ np
 np
 np
 verb
-199012	verb
+verb
 verb
 np
 np
@@ -187189,14 +187189,14 @@ conj
 pron
 verb
 pron
-199035	verb
+199375	verb
 pp
 conj
 adv
 verb
 pp
 conj
-199043	verb
+199383	verb
 conj
 adj
 verb
@@ -187220,7 +187220,7 @@ pron
 conj
 verb
 conj
-199068	verb
+verb
 pron
 pp
 np
@@ -187237,7 +187237,7 @@ pron
 conj
 verb
 pron
-199086	np
+np
 np
 pp
 verb
@@ -187316,13 +187316,13 @@ np
 conj
 verb
 pron
-199166	conj
+conj
 pron
 verb
 adj
 verb
 verb
-199173	np
+199510	np
 conj
 np
 conj
@@ -187373,7 +187373,7 @@ ptcl
 verb
 pron
 conj
-199225	verb
+verb
 pron
 conj
 adv
@@ -187382,7 +187382,7 @@ pron
 np
 conj
 verb
-199235	adv
+adv
 verb
 pron
 adj
@@ -187406,7 +187406,7 @@ verb
 pp
 pp
 verb
-199260	pron
+pron
 conj
 verb
 pron
@@ -187423,18 +187423,18 @@ verb
 np
 np
 conj
-199278	pron
+pron
 verb
 np
-199282	np
+199615	np
 np
 verb
-199286	adj
+adj
 verb
 pron
 adv
 conj
-199292	verb
+199624	verb
 np
 pp
 np
@@ -187463,7 +187463,7 @@ np
 np
 verb
 verb
-199322	pp
+199654	pp
 np
 pp
 np
@@ -187513,7 +187513,7 @@ np
 verb
 verb
 pp
-199373	np
+np
 adv
 np
 np
@@ -187547,7 +187547,7 @@ conj
 adv
 verb
 verb
-199408	pp
+199739	pp
 np
 np
 np
@@ -187555,18 +187555,18 @@ conj
 pp
 np
 conj
-199417	verb
+199748	verb
 adv
 noun
 pp
 conj
-199423	conj
+conj
 verb
 adv
 verb
 pron
 conj
-199430	verb
+verb
 noun
 verb
 pron
@@ -187590,7 +187590,7 @@ conj
 verb
 verb
 noun
-199455	np
+199784	np
 verb
 conj
 verb
@@ -187608,13 +187608,13 @@ np
 pp
 conj
 np
-199474	conj
+199803	conj
 verb
 pron
 pp
 verb
 noun
-199481	np
+199810	np
 np
 conj
 np
@@ -187624,7 +187624,7 @@ np
 pp
 np
 conj
-199492	verb
+199821	verb
 num
 conj
 np
@@ -187682,7 +187682,7 @@ verb
 conj
 verb
 pron
-199552	verb
+verb
 np
 verb
 pp
@@ -187716,10 +187716,10 @@ verb
 np
 pp
 conj
-199587	verb
+verb
 pron
 pp
-199591	verb
+199917	verb
 adj
 conj
 verb
@@ -187736,19 +187736,17 @@ np
 conj
 verb
 pron
-199609	pron
+pron
 pron
 verb
 adj
-199614	adj
+adj
 adj
 conj
 adv
-199619	np
+199943	np
 np
 verb
-199623	adv
-verb
 adv
 verb
 adv
@@ -187757,8 +187755,10 @@ adv
 verb
 adv
 verb
+adv
 verb
-199635	np
+verb
+199958	np
 np
 conj
 np
@@ -187780,10 +187780,10 @@ pron
 conj
 verb
 pron
-199658	adj
+adj
 pron
 verb
-199662	verb
+199984	verb
 pron
 verb
 verb
@@ -187795,7 +187795,7 @@ verb
 noun
 pp
 conj
-199675	verb
+verb
 verb
 pron
 det
@@ -187871,7 +187871,7 @@ verb
 pron
 np
 verb
-199752	pp
+pp
 adj
 conj
 adv
@@ -187894,30 +187894,30 @@ verb
 pron
 verb
 np
-199776	verb
-pron
-adj
 verb
 pron
+adj
 verb
-199783	conj
-conj
-conj
-conj
-conj
-conj
-199790	pp
-conj
-pp
-np
-conj
-199796	adv
+pron
 verb
-199799	adv
+200102	conj
+conj
+conj
+conj
+conj
+conj
+200109	pp
+conj
+pp
+np
+conj
+200115	adv
+verb
+200118	adv
 pp
 np
 np
-199804	conj
+200123	conj
 conj
 conj
 conj
@@ -187925,7 +187925,7 @@ conj
 pp
 conj
 pp
-199813	np
+200132	np
 verb
 np
 np
@@ -187935,7 +187935,7 @@ adj
 conj
 np
 adj
-199825	verb
+200144	verb
 conj
 pp
 np
@@ -187946,7 +187946,7 @@ vp
 pron
 np
 conj
-199837	verb
+200156	verb
 conj
 verb
 verb
@@ -187968,11 +187968,11 @@ np
 np
 np
 verb
-199860	np
+200179	np
 conj
 np
 conj
-199865	verb
+200184	verb
 pron
 noun
 conj
@@ -187980,7 +187980,7 @@ verb
 pron
 np
 conj
-199874	verb
+200193	verb
 pron
 conj
 verb
@@ -187997,7 +187997,7 @@ verb
 conj
 verb
 pron
-199893	conj
+200212	conj
 np
 np
 verb
@@ -188026,7 +188026,7 @@ pron
 verb
 pron
 conj
-199923	adj
+200242	adj
 pp
 np
 conj
@@ -188045,14 +188045,14 @@ verb
 pron
 verb
 verb
-199943	verb
+200262	verb
 np
-199946	pron
+pron
 pron
 verb
 conj
 np
-199952	pron
+pron
 pron
 verb
 verb
@@ -188066,19 +188066,19 @@ conj
 verb
 pron
 np
-199967	pron
+pron
 pron
 verb
 verb
 conj
 np
-199974	pron
+pron
 pron
 verb
 verb
-199979	conj
+200294	conj
 verb
-199982	pp
+200297	pp
 np
 conj
 pp
@@ -188095,7 +188095,7 @@ np
 verb
 verb
 pp
-200000	conj
+200315	conj
 conj
 verb
 pron
@@ -188114,7 +188114,7 @@ np
 np
 verb
 pron
-200021	adv
+200335	adv
 conj
 verb
 pp
@@ -188134,7 +188134,7 @@ verb
 adj
 verb
 np
-200042	np
+200356	np
 conj
 np
 np
@@ -188143,7 +188143,7 @@ adv
 verb
 verb
 conj
-200052	verb
+200366	verb
 conj
 verb
 np
@@ -188154,15 +188154,15 @@ conj
 verb
 pp
 conj
-200064	verb
+verb
 pron
 pp
 conj
-200069	np
+200382	np
 np
 conj
 np
-200075	np
+200388	np
 np
 np
 verb
@@ -188171,13 +188171,13 @@ np
 conj
 verb
 conj
-200085	np
+200398	np
 verb
 verb
-200089	verb
+200402	verb
 conj
 verb
-200093	np
+200406	np
 verb
 pron
 conj
@@ -188204,7 +188204,7 @@ verb
 np
 verb
 pron
-200121	verb
+verb
 verb
 verb
 pron
@@ -188237,7 +188237,7 @@ conj
 np
 verb
 pron
-200155	verb
+verb
 np
 np
 verb
@@ -188251,11 +188251,11 @@ pron
 pp
 np
 conj
-200170	conj
+conj
 verb
 pp
 pp
-200175	conj
+200485	conj
 pp
 np
 np
@@ -188267,39 +188267,39 @@ np
 conj
 verb
 pron
-200188	verb
+verb
 pp
-200191	np
+200500	np
 np
 pp
-conj
-adj
-verb
-pp
-verb
-200200	verb
-pp
-np
-adv
-verb
-verb
-pron
-conj
-verb
-conj
-200211	conj
-pron
-pron
-verb
-pron
-verb
-pron
-verb
-200220	np
-np
-verb
 conj
 adj
+verb
+pp
+verb
+verb
+pp
+np
+adv
+verb
+verb
+pron
+conj
+verb
+conj
+conj
+pron
+pron
+verb
+pron
+verb
+pron
+verb
+200527	np
+np
+verb
+conj
+adj
 pron
 verb
 adv
@@ -188307,7 +188307,7 @@ adv
 conj
 verb
 conj
-200233	verb
+200540	verb
 noun
 verb
 pp
@@ -188343,7 +188343,7 @@ np
 pp
 np
 conj
-200270	verb
+200577	verb
 pron
 np
 np
@@ -188364,7 +188364,7 @@ verb
 pp
 np
 conj
-200292	verb
+200599	verb
 conj
 verb
 verb
@@ -188378,7 +188378,7 @@ np
 np
 verb
 np
-200307	np
+200614	np
 np
 ptcl
 pp
@@ -188389,7 +188389,7 @@ pp
 pp
 np
 conj
-200319	verb
+verb
 adj
 adj
 adv
@@ -188400,7 +188400,7 @@ pp
 pp
 np
 conj
-200331	np
+np
 verb
 pron
 pp
@@ -188416,7 +188416,7 @@ pron
 verb
 pp
 conj
-200348	verb
+verb
 pp
 adj
 verb
@@ -188453,13 +188453,13 @@ np
 verb
 verb
 np
-200386	verb
+200690	verb
 conj
 verb
 pp
 np
 conj
-200393	np
+200697	np
 np
 np
 conj
@@ -188482,7 +188482,7 @@ verb
 conj
 verb
 pron
-200417	verb
+200721	verb
 conj
 np
 np
@@ -188497,15 +188497,15 @@ pron
 np
 conj
 verb
-200433	np
+200737	np
 conj
 np
 conj
-200438	verb
+verb
 adv
 pron
 verb
-200443	verb
+verb
 conj
 pron
 np
@@ -188537,7 +188537,7 @@ pron
 noun
 verb
 np
-200476	pron
+pron
 verb
 verb
 conj
@@ -188550,7 +188550,7 @@ np
 verb
 pron
 conj
-200490	pron
+pron
 verb
 np
 np
@@ -188560,7 +188560,7 @@ verb
 pp
 np
 conj
-200501	verb
+200801	verb
 pp
 np
 np
@@ -188577,7 +188577,7 @@ verb
 pron
 np
 pron
-200519	conj
+200819	conj
 verb
 conj
 verb
@@ -188585,17 +188585,17 @@ conj
 verb
 pron
 conj
-200529	conj
+conj
 verb
 verb
-200533	verb
+verb
 conj
 pron
 verb
 pp
 conj
 np
-200541	np
+200838	np
 np
 np
 pp
@@ -188609,13 +188609,13 @@ verb
 adv
 pp
 conj
-200556	pp
+pp
 np
 verb
 pron
 verb
 pp
-200563	np
+200859	np
 conj
 np
 conj
@@ -188623,7 +188623,7 @@ np
 conj
 verb
 pron
-200572	pp
+200868	pp
 np
 pron
 verb
@@ -188640,7 +188640,7 @@ np
 conj
 verb
 pron
-200591	verb
+200887	verb
 pron
 np
 conj
@@ -188653,7 +188653,7 @@ pp
 np
 pron
 verb
-200606	np
+200901	np
 np
 pp
 verb
@@ -188665,7 +188665,7 @@ conj
 verb
 pp
 verb
-200620	conj
+200914	conj
 verb
 pp
 verb
@@ -188675,9 +188675,9 @@ adv
 verb
 pron
 conj
-200631	verb
+verb
 pp
-200634	verb
+verb
 np
 adj
 conj
@@ -188710,7 +188710,7 @@ verb
 pron
 pp
 verb
-200668	noun
+200960	noun
 noun
 verb
 conj
@@ -188759,12 +188759,12 @@ verb
 conj
 verb
 conj
-200718	adj
+adj
 verb
 pron
 verb
 conj
-200724	np
+np
 pron
 conj
 verb
@@ -188793,7 +188793,7 @@ conj
 pron
 verb
 np
-200755	verb
+201044	verb
 verb
 pron
 conj
@@ -188814,7 +188814,7 @@ verb
 np
 np
 np
-200777	verb
+201066	verb
 conj
 verb
 np
@@ -188826,7 +188826,7 @@ adv
 np
 np
 verb
-200790	pron
+pron
 verb
 verb
 pron
@@ -188842,7 +188842,7 @@ adj
 pp
 np
 conj
-200807	verb
+verb
 pron
 verb
 conj
@@ -188859,10 +188859,10 @@ verb
 pron
 verb
 conj
-200825	verb
+verb
 pp
 np
-200829	np
+201115	np
 conj
 np
 conj
@@ -188883,7 +188883,7 @@ adv
 verb
 pron
 pp
-200851	conj
+201137	conj
 verb
 pp
 np
@@ -188893,7 +188893,7 @@ np
 np
 np
 verb
-200862	verb
+verb
 verb
 noun
 noun
@@ -188910,7 +188910,7 @@ np
 np
 verb
 pron
-200880	pron
+pron
 pron
 verb
 verb
@@ -188925,7 +188925,7 @@ conj
 verb
 pron
 pron
-200896	np
+201180	np
 np
 conj
 np
@@ -188938,7 +188938,7 @@ np
 conj
 verb
 pron
-200910	np
+201194	np
 verb
 noun
 conj
@@ -188950,7 +188950,7 @@ verb
 pp
 conj
 verb
-200923	pp
+pp
 pron
 verb
 noun
@@ -188966,7 +188966,7 @@ verb
 pron
 conj
 conj
-200940	np
+201223	np
 verb
 conj
 verb
@@ -189017,7 +189017,7 @@ np
 np
 np
 verb
-200992	pp
+pp
 np
 verb
 np
@@ -189033,7 +189033,7 @@ pron
 np
 pp
 verb
-201009	adv
+201291	adv
 verb
 np
 conj
@@ -189044,7 +189044,7 @@ conj
 conj
 pp
 verb
-201021	conj
+201303	conj
 verb
 conj
 verb
@@ -189057,7 +189057,7 @@ pp
 np
 pp
 conj
-201035	np
+np
 conj
 verb
 adv
@@ -189073,13 +189073,13 @@ pron
 np
 verb
 pron
-201052	np
+201333	np
 np
 conj
 np
 conj
 np
-201059	verb
+201340	verb
 np
 conj
 verb
@@ -189108,200 +189108,200 @@ np
 conj
 adj
 verb
-201089	verb
-noun
-201092	np
-np
-np
-verb
-conj
-verb
-201099	np
-np
-201102	pp
-np
-np
-np
-conj
-pp
-np
-np
-np
-conj
-pp
-np
-np
-np
-conj
-pp
-np
-np
-np
-adj
-pron
-verb
-np
-np
-conj
-pron
-adj
-pron
-np
-adv
-verb
-conj
-verb
-pron
-np
-201138	adv
-noun
-pp
-verb
-conj
-201144	adj
-verb
-conj
-adv
-verb
-adj
-pp
-conj
-201153	verb
-pron
-201156	pp
-np
-np
-conj
-pp
-np
-np
-conj
-pp
-np
-np
-conj
-verb
-np
-conj
-pron
-adj
-verb
-np
-np
-201177	conj
-conj
-np
-verb
-pron
-conj
-adv
-verb
-verb
-pron
-adv
-adj
-verb
-pp
-np
-np
-np
-conj
-adj
-adv
-verb
-pron
-verb
-conj
-verb
-np
-verb
-verb
-pp
-np
-adv
-verb
-np
-conj
-np
-np
-verb
-np
-verb
-pp
-np
-np
-np
 verb
 noun
+201372	np
 np
 np
-201225	verb
-pp
+verb
+conj
+verb
+201379	np
+np
+201382	pp
+np
+np
 np
 conj
+pp
+np
+np
+np
+conj
+pp
+np
+np
+np
+conj
+pp
+np
+np
+np
+adj
+pron
 verb
 np
 np
-pp
+conj
+pron
+adj
+pron
 np
-np
-np
+adv
+verb
+conj
 verb
 pron
+np
+adv
 noun
+pp
+verb
+conj
+201423	adj
+verb
 conj
 adv
-np
 verb
+adj
+pp
 conj
-np
-np
-verb
+201432	verb
 pron
-adv
+201435	pp
+np
+np
+conj
+pp
+np
+np
 conj
 pp
 np
 np
-verb
-verb
-pp
-201257	np
-verb
-pp
-verb
 conj
-201263	np
-pp
+verb
 np
 conj
-np
-pp
-np
-conj
-np
-pp
-np
-verb
-np
-np
-np
-conj
-noun
+pron
 adj
 verb
+np
+np
+201456	conj
+conj
+np
+verb
 pron
+conj
+adv
+verb
+verb
+pron
+adv
+adj
+verb
+pp
+np
+np
+np
+conj
+adj
+adv
+verb
+pron
+verb
+conj
+verb
+np
+verb
+verb
+pp
+np
+adv
 verb
 np
 conj
-201287	verb
-pp
+np
 np
 verb
-adv
+np
+verb
+pp
+np
+np
 np
 verb
 noun
+np
+np
+verb
+pp
+np
+conj
+verb
+np
+np
+pp
+np
+np
+np
+verb
+pron
+noun
+conj
+adv
+np
+verb
+conj
+np
+np
+verb
+pron
+adv
+conj
+pp
+np
+np
+verb
+verb
+pp
+201535	np
+verb
+pp
+verb
+conj
+201541	np
+pp
+np
+conj
+np
+pp
+np
+conj
+np
+pp
+np
+verb
+np
+np
+np
+conj
+noun
+adj
+verb
+pron
+verb
+np
+conj
+verb
+pp
+np
+verb
+adv
+np
+verb
+noun
 pp
 np
 conj
@@ -189313,7 +189313,7 @@ verb
 np
 np
 verb
-201307	np
+np
 pron
 verb
 noun
@@ -189326,7 +189326,7 @@ pron
 verb
 pron
 conj
-201321	np
+201597	np
 np
 np
 adj
@@ -189346,7 +189346,7 @@ conj
 pp
 np
 np
-201342	np
+201618	np
 pron
 verb
 verb
@@ -189354,7 +189354,7 @@ np
 np
 np
 conj
-201351	verb
+verb
 pron
 pp
 np
@@ -189365,7 +189365,7 @@ np
 np
 noun
 verb
-201363	np
+201638	np
 conj
 np
 conj
@@ -189378,28 +189378,28 @@ np
 np
 advp
 verb
-201377	pp
+pp
 pron
 advp
 verb
 conj
-201383	verb
-pron
-pp
-np
-np
-np
-pp
-np
 verb
 pron
 pp
-201395	conj
+np
+np
+np
+pp
+np
+verb
+pron
+pp
+201668	conj
 conj
 conj
 verb
 pron
-201401	adv
+201674	adv
 pron
 verb
 conj
@@ -189414,7 +189414,7 @@ conj
 verb
 verb
 pron
-201417	verb
+verb
 conj
 pron
 pron
@@ -189431,10 +189431,10 @@ verb
 conj
 adj
 verb
-201435	conj
+conj
 conj
 verb
-201439	conj
+201710	conj
 np
 adv
 verb
@@ -189443,14 +189443,14 @@ verb
 conj
 adv
 np
-201449	verb
+verb
 conj
 noun
 pp
 conj
 noun
 pp
-201457	verb
+verb
 noun
 pp
 verb
@@ -189469,7 +189469,7 @@ pp
 verb
 conj
 pp
-201477	conj
+201746	conj
 verb
 pp
 pp
@@ -189483,15 +189483,15 @@ verb
 verb
 np
 conj
-201492	conj
+conj
 verb
 pron
 verb
-201498	verb
+201765	verb
 pron
 verb
 conj
-201503	pron
+pron
 verb
 pron
 pp
@@ -189499,7 +189499,7 @@ np
 np
 pron
 verb
-201512	conj
+201778	conj
 verb
 pron
 verb
@@ -189508,7 +189508,7 @@ np
 np
 np
 conj
-201522	verb
+201788	verb
 noun
 noun
 pp
@@ -189516,7 +189516,7 @@ conj
 noun
 noun
 conj
-201531	verb
+201797	verb
 noun
 pp
 conj
@@ -189533,7 +189533,7 @@ verb
 pp
 pron
 verb
-201550	conj
+conj
 conj
 verb
 np
@@ -189545,14 +189545,14 @@ adv
 verb
 verb
 verb
-201563	adv
+adv
 np
 pp
 np
 verb
 pp
 np
-201571	np
+201834	np
 pp
 np
 adv
@@ -189577,7 +189577,7 @@ np
 np
 ptcl
 conj
-201597	pp
+201860	pp
 verb
 conj
 verb
@@ -189594,13 +189594,13 @@ verb
 conj
 np
 np
-201615	pron
+pron
 adv
 verb
 pron
-201620	pp
+201882	pp
 np
-201623	pron
+pron
 verb
 np
 pp
@@ -189620,29 +189620,29 @@ np
 conj
 pp
 np
-201644	pron
+pron
 verb
 verb
 np
 conj
-201650	adv
+adv
 conj
 pron
 pron
 verb
-201656	verb
+verb
 adv
 np
-201660	verb
+verb
 adv
 adv
 verb
 verb
 conj
-201667	conj
+201924	conj
 conj
 verb
-201671	conj
+201928	conj
 pp
 verb
 conj
@@ -189675,7 +189675,7 @@ vp
 pp
 np
 conj
-201705	np
+201962	np
 np
 pp
 np
@@ -189689,7 +189689,7 @@ np
 verb
 pp
 pp
-201720	np
+201977	np
 conj
 conj
 adv
@@ -189702,7 +189702,7 @@ np
 pp
 np
 np
-201734	pp
+201991	pp
 np
 pp
 np
@@ -189711,8 +189711,8 @@ conj
 np
 verb
 np
-201744	conj
-201746	adv
+conj
+202002	adv
 np
 np
 adj
@@ -189747,7 +189747,7 @@ pp
 pron
 np
 verb
-201782	np
+202038	np
 conj
 np
 verb
@@ -189756,16 +189756,16 @@ conj
 np
 adv
 verb
-201792	pp
+pp
 conj
-201795	np
+202050	np
 np
 conj
 np
 adj
 verb
 adv
-201803	np
+202058	np
 np
 pp
 conj
@@ -189773,7 +189773,7 @@ np
 conj
 adv
 np
-201813	verb
+verb
 verb
 adv
 verb
@@ -189782,8 +189782,8 @@ adv
 np
 verb
 conj
-201823	np
-201825	verb
+202076	np
+202078	verb
 np
 np
 conj
@@ -189799,7 +189799,7 @@ np
 verb
 conj
 verb
-201843	verb
+verb
 conj
 adv
 verb
@@ -189809,7 +189809,7 @@ np
 np
 np
 verb
-201854	conj
+202105	conj
 conj
 conj
 conj
@@ -189828,14 +189828,14 @@ verb
 verb
 verb
 conj
-201874	np
+202125	np
 conj
 np
 pp
 np
 conj
-201881	verb
-201883	np
+verb
+202133	np
 conj
 np
 adv
@@ -189845,7 +189845,7 @@ verb
 verb
 verb
 conj
-201894	adv
+adv
 pp
 np
 ptcl
@@ -189854,13 +189854,13 @@ verb
 np
 np
 conj
-201904	verb
+verb
 pron
 pp
-201908	pp
+pp
 np
 np
-201912	np
+202159	np
 verb
 pron
 verb
@@ -189875,7 +189875,7 @@ np
 verb
 np
 np
-201928	vp
+vp
 conj
 pron
 pp
@@ -189889,7 +189889,7 @@ verb
 conj
 np
 np
-201943	verb
+202189	verb
 pp
 np
 conj
@@ -189910,7 +189910,7 @@ verb
 np
 verb
 pp
-201965	adv
+202211	adv
 conj
 np
 verb
@@ -189936,7 +189936,7 @@ np
 np
 pp
 np
-201992	conj
+conj
 verb
 pron
 conj
@@ -189953,7 +189953,7 @@ verb
 pp
 np
 conj
-202011	np
+202256	np
 np
 np
 verb
@@ -189989,7 +189989,7 @@ verb
 pron
 np
 np
-202048	adv
+adv
 verb
 verb
 verb
@@ -190004,7 +190004,7 @@ np
 conj
 verb
 pron
-202064	verb
+202308	verb
 pp
 np
 conj
@@ -190026,7 +190026,7 @@ verb
 adv
 verb
 np
-202087	np
+np
 adv
 np
 pp
@@ -190046,14 +190046,14 @@ adv
 verb
 pron
 conj
-202108	verb
+202351	verb
 np
 conj
 verb
 pp
 np
 conj
-202116	verb
+verb
 conj
 verb
 pron
@@ -190061,27 +190061,27 @@ conj
 verb
 np
 conj
-202125	adj
+adj
 verb
 verb
 pp
 np
 conj
-202133	pron
+202373	pron
 conj
 np
 verb
 verb
 pron
 conj
-202141	np
+202381	np
 pp
 verb
 pron
 verb
 pp
 verb
-202149	verb
+202389	verb
 conj
 verb
 pron
@@ -190092,14 +190092,14 @@ det
 conj
 verb
 pron
-202162	np
+202401	np
 np
 verb
 pp
 pp
 np
 conj
-202171	np
+202409	np
 conj
 np
 np
@@ -190109,7 +190109,7 @@ verb
 pp
 ptcl
 conj
-202182	np
+np
 np
 pp
 np
@@ -190124,7 +190124,7 @@ verb
 np
 np
 conj
-202198	verb
+verb
 pron
 verb
 noun
@@ -190135,7 +190135,7 @@ verb
 pron
 conj
 verb
-202210	verb
+verb
 pron
 verb
 np
@@ -190155,7 +190155,7 @@ verb
 pron
 pron
 verb
-202231	np
+202466	np
 np
 np
 np
@@ -190172,7 +190172,7 @@ np
 np
 np
 pp
-202249	np
+np
 np
 pron
 verb
@@ -190197,7 +190197,7 @@ adj
 verb
 conj
 verb
-202275	verb
+202509	verb
 np
 conj
 np
@@ -190214,7 +190214,7 @@ np
 conj
 verb
 pron
-202293	conj
+conj
 np
 verb
 conj
@@ -190243,7 +190243,7 @@ det
 conj
 adv
 verb
-202323	conj
+conj
 verb
 pron
 verb
@@ -190258,50 +190258,50 @@ verb
 conj
 verb
 pp
-202339	np
+np
 np
 noun
 conj
 verb
 np
 np
-202347	verb
-adv
-conj
-verb
-conj
-verb
-202354	np
-conj
-np
-conj
-np
-pp
-conj
-verb
-202363	verb
-conj
-verb
-conj
-verb
-pron
-202370	adj
-verb
-np
-np
-pp
 verb
 adv
 conj
 verb
 conj
 verb
+202584	np
+conj
+np
+conj
+np
+pp
+conj
+verb
+202593	verb
+conj
+verb
+conj
+verb
+pron
+adj
+verb
+np
+np
+pp
+verb
+adv
+conj
+verb
+conj
+verb
 adj
 verb
 pp
 np
 conj
-202387	verb
+202616	verb
 conj
 conj
 adj
@@ -190311,7 +190311,7 @@ pp
 np
 conj
 verb
-202398	np
+202627	np
 adj
 adj
 pron
@@ -190320,14 +190320,14 @@ np
 np
 pp
 conj
-202408	pron
+202637	pron
 pron
 verb
 conj
 pron
 pron
 conj
-202416	verb
+202645	verb
 conj
 verb
 pron
@@ -190341,7 +190341,7 @@ adv
 verb
 np
 verb
-202431	verb
+verb
 conj
 verb
 conj
@@ -190362,7 +190362,7 @@ np
 np
 verb
 conj
-202453	adv
+adv
 verb
 verb
 pron
@@ -190383,12 +190383,12 @@ np
 conj
 verb
 pron
-202475	verb
+verb
 np
 conj
 verb
 verb
-202481	verb
+verb
 np
 verb
 verb
@@ -190399,7 +190399,7 @@ pp
 np
 np
 np
-202493	verb
+verb
 verb
 verb
 verb
@@ -190411,16 +190411,16 @@ adv
 pron
 verb
 verb
-202506	np
+202730	np
 np
 np
 conj
 pp
 np
 pp
-202514	conj
+202738	conj
 pp
-202517	np
+202741	np
 conj
 np
 conj
@@ -190459,7 +190459,7 @@ pron
 conj
 verb
 pron
-202557	conj
+202781	conj
 np
 verb
 verb
@@ -190477,11 +190477,11 @@ verb
 np
 verb
 pron
-202576	conj
+conj
 pp
 verb
 pp
-202581	conj
+202804	conj
 verb
 pron
 pp
@@ -190511,7 +190511,7 @@ verb
 noun
 pp
 conj
-202612	verb
+202835	verb
 pron
 det
 conj
@@ -190527,7 +190527,7 @@ np
 conj
 verb
 np
-202629	np
+202852	np
 conj
 np
 conj
@@ -190544,14 +190544,14 @@ np
 np
 np
 conj
-202647	vp
+202870	vp
 pp
 np
 conj
 verb
 pp
 np
-202655	np
+202878	np
 conj
 conj
 np
@@ -190589,7 +190589,7 @@ verb
 conj
 pron
 verb
-202694	np
+202917	np
 np
 np
 conj
@@ -190634,18 +190634,18 @@ verb
 pron
 pron
 verb
-202740	np
+202963	np
 np
 np
 np
 np
 conj
 verb
-202748	pron
+202971	pron
 verb
 conj
 verb
-202753	np
+202976	np
 np
 np
 pp
@@ -190664,7 +190664,7 @@ verb
 np
 np
 verb
-202773	pron
+pron
 adv
 np
 verb
@@ -190683,7 +190683,7 @@ noun
 conj
 verb
 pron
-202793	verb
+203015	verb
 pron
 conj
 verb
@@ -190702,7 +190702,7 @@ noun
 pron
 verb
 conj
-202813	verb
+verb
 np
 adv
 pp
@@ -190721,14 +190721,14 @@ pron
 verb
 np
 pp
-202833	np
+203054	np
 verb
 np
 det
 conj
 verb
 verb
-202841	conj
+conj
 verb
 conj
 verb
@@ -190762,7 +190762,7 @@ adv
 verb
 verb
 np
-202876	adv
+adv
 pp
 verb
 np
@@ -190771,13 +190771,13 @@ verb
 det
 conj
 verb
-202886	verb
+203105	verb
 conj
 verb
 conj
 adv
 verb
-202893	np
+np
 np
 pron
 verb
@@ -190812,7 +190812,7 @@ noun
 verb
 np
 pp
-202929	np
+203147	np
 conj
 conj
 np
@@ -190824,7 +190824,7 @@ conj
 verb
 noun
 conj
-202942	verb
+verb
 pron
 np
 pron
@@ -190869,7 +190869,7 @@ pp
 conj
 verb
 pron
-202988	np
+np
 pron
 verb
 vp
@@ -190878,7 +190878,7 @@ verb
 noun
 pp
 np
-202998	pron
+pron
 pp
 np
 noun
@@ -190972,7 +190972,7 @@ verb
 pron
 pp
 np
-203093	pron
+pron
 verb
 noun
 conj
@@ -191009,7 +191009,7 @@ np
 verb
 pron
 conj
-203131	conj
+conj
 verb
 pron
 verb
@@ -191021,21 +191021,21 @@ pron
 np
 np
 conj
-203144	verb
-pron
-conj
 verb
 pron
 conj
 verb
-203152	np
-203154	np
+pron
+conj
 verb
-203157	verb
+203364	np
+203366	np
+verb
+203369	verb
 pp
 np
 np
-203162	conj
+203374	conj
 conj
 verb
 np
@@ -191044,8 +191044,8 @@ conj
 verb
 pron
 pp
-203172	np
-203174	pron
+203384	np
+pron
 vp
 np
 conj
@@ -191061,7 +191061,7 @@ conj
 verb
 pron
 conj
-203191	verb
+verb
 np
 np
 verb
@@ -191089,7 +191089,7 @@ conj
 pp
 verb
 np
-203220	adj
+203430	adj
 pp
 conj
 adj
@@ -191099,7 +191099,7 @@ conj
 verb
 verb
 pron
-203231	verb
+203441	verb
 np
 np
 conj
@@ -191124,156 +191124,156 @@ pp
 pp
 np
 verb
-203257	adj
-verb
-pron
-adv
-verb
-verb
-203265	np
-np
-np
-verb
-adv
-pp
-np
-conj
-203274	verb
-conj
-verb
-conj
-verb
-pp
-verb
-pron
-conj
-203284	verb
-np
-noun
-verb
-pp
-np
-np
-pp
-np
-conj
-np
-np
-verb
-np
-np
-203302	noun
-noun
-adv
-verb
-pron
-vp
-203310	np
-np
-np
-np
-pp
-verb
-pron
-conj
-np
-verb
-verb
-verb
-verb
-noun
-verb
-203326	verb
-conj
-pron
-conj
-verb
-noun
-noun
-verb
-noun
-verb
-pron
-verb
-203339	verb
-203341	verb
-verb
-noun
-verb
-pron
-np
-conj
-verb
-np
-verb
-conj
-np
-np
-np
-verb
-pp
-203358	pp
-pp
-verb
-conj
-203363	np
-verb
-pp
-np
-conj
-adv
-verb
-verb
-adv
-np
-np
-np
-verb
-verb
-conj
-np
-203380	np
-pp
-verb
-pp
-203386	conj
-203388	np
-conj
-203391	np
-np
-203394	np
-np
-conj
-conj
-pron
-conj
-verb
-pp
-np
-verb
-pron
-conj
-verb
-pron
-conj
-203410	np
-verb
-pron
-pp
-conj
-203416	adv
 adj
 verb
-203420	conj
+pron
+adv
 verb
-203423	pron
+verb
+203473	np
+np
+np
+verb
+adv
+pp
+np
+conj
+203482	verb
+conj
+verb
+conj
+verb
+pp
+verb
+pron
+conj
+verb
+np
+noun
+verb
+pp
+np
+np
+pp
+np
+conj
+np
+np
+verb
+np
+np
+noun
+noun
+adv
+verb
+pron
+vp
+np
+np
+np
+np
+pp
+verb
+pron
+conj
+np
+verb
+verb
+verb
 verb
 noun
 verb
-203430	np
+203528	verb
+conj
+pron
+conj
+verb
+noun
+noun
+verb
+noun
+verb
+pron
+verb
+verb
+verb
+verb
+noun
+verb
+pron
+np
+conj
+verb
+np
+verb
+conj
+np
+np
+np
+verb
+pp
+203558	pp
+pp
+verb
+conj
+203563	np
+verb
 pp
 np
-203434	np
+conj
+adv
+verb
+verb
+adv
+np
+np
+np
+verb
+verb
+conj
+np
+np
+pp
+verb
+pp
+203584	conj
+203586	np
+conj
+203589	np
+np
+203592	np
+np
+conj
+conj
+pron
+conj
+verb
+pp
+np
+verb
+pron
+conj
+verb
+pron
+conj
+203608	np
+verb
+pron
+pp
+conj
+adv
+adj
+verb
+conj
+verb
+pron
+verb
+noun
+verb
+203624	np
+pp
+np
+203628	np
 vp
 np
 np
@@ -191287,7 +191287,7 @@ verb
 np
 np
 np
-203449	np
+np
 conj
 verb
 adv
@@ -191317,7 +191317,7 @@ conj
 verb
 pron
 pp
-203480	pron
+pron
 vp
 pp
 conj
@@ -191327,20 +191327,20 @@ pp
 np
 np
 np
-203492	np
+203684	np
 conj
 np
 conj
-203497	np
+203689	np
 verb
 adv
 verb
 conj
 verb
 np
-203506	np
+203698	np
 conj
-203509	np
+203701	np
 np
 conj
 verb
@@ -191350,7 +191350,7 @@ verb
 verb
 pron
 conj
-203520	adv
+adv
 np
 np
 np
@@ -191371,7 +191371,7 @@ np
 np
 np
 conj
-203542	verb
+verb
 verb
 conj
 verb
@@ -191398,27 +191398,27 @@ verb
 pron
 adv
 verb
-203571	verb
+203761	verb
 np
 verb
-203575	verb
+verb
 adv
 verb
 adv
-203580	verb
+verb
 np
-203583	adv
+adv
 verb
 pron
 conj
 verb
 verb
-203590	np
+203777	np
 np
 conj
 np
 conj
-203597	verb
+verb
 pron
 pp
 np
@@ -191429,14 +191429,14 @@ conj
 verb
 pron
 conj
-203609	verb
+verb
 verb
 pp
 np
 verb
 conj
 pron
-203617	conj
+203801	conj
 conj
 adj
 adj
@@ -191449,7 +191449,7 @@ adv
 np
 verb
 adj
-203632	np
+203815	np
 pp
 verb
 np
@@ -191458,7 +191458,7 @@ verb
 verb
 pp
 verb
-203642	verb
+203825	verb
 conj
 verb
 pron
@@ -191494,7 +191494,7 @@ np
 verb
 conj
 verb
-203679	np
+203862	np
 np
 conj
 conj
@@ -191525,7 +191525,7 @@ np
 conj
 verb
 verb
-203711	pp
+pp
 np
 np
 noun
@@ -191534,19 +191534,19 @@ np
 verb
 noun
 verb
-203721	conj
+conj
 np
 verb
 advp
 pron
 verb
-203728	pp
+203909	pp
 noun
 verb
 conj
 adv
 verb
-203736	np
+203917	np
 conj
 conj
 pp
@@ -191565,7 +191565,7 @@ conj
 verb
 verb
 adv
-203756	np
+203937	np
 verb
 conj
 np
@@ -191588,7 +191588,7 @@ np
 conj
 np
 np
-203780	pp
+203961	pp
 conj
 pp
 verb
@@ -191599,7 +191599,7 @@ conj
 np
 np
 np
-203792	conj
+conj
 adj
 verb
 verb
@@ -191613,7 +191613,7 @@ conj
 verb
 pron
 pp
-203807	conj
+203987	conj
 verb
 np
 verb
@@ -191629,7 +191629,7 @@ np
 conj
 verb
 np
-203824	pp
+pp
 verb
 noun
 np
@@ -191637,16 +191637,16 @@ verb
 pp
 np
 np
-203833	np
+204012	np
 np
-203836	np
+np
 np
 noun
 noun
 pp
 np
 conj
-203844	noun
+204022	noun
 pron
 pp
 np
@@ -191666,7 +191666,7 @@ pp
 np
 np
 np
-203865	conj
+204043	conj
 np
 adj
 conj
@@ -191675,7 +191675,7 @@ verb
 pron
 noun
 conj
-203875	verb
+204053	verb
 np
 noun
 conj
@@ -191684,7 +191684,7 @@ vp
 pp
 np
 np
-203885	verb
+verb
 conj
 pp
 verb
@@ -191739,15 +191739,15 @@ verb
 conj
 pp
 np
-203941	adv
+adv
 verb
 noun
 conj
-203946	verb
+204122	verb
 np
 np
 conj
-203951	np
+204127	np
 np
 verb
 noun
@@ -191759,7 +191759,7 @@ np
 noun
 conj
 verb
-203964	pron
+204140	pron
 conj
 conj
 adj
@@ -191772,7 +191772,7 @@ conj
 adj
 pp
 conj
-203978	conj
+204154	conj
 advp
 verb
 conj
@@ -191788,7 +191788,7 @@ np
 np
 verb
 pp
-203995	np
+204171	np
 np
 conj
 pron
@@ -191796,8 +191796,8 @@ verb
 pp
 pp
 np
-204004	conj
-204006	verb
+204180	conj
+verb
 np
 pp
 conj
@@ -191832,172 +191832,172 @@ verb
 np
 verb
 pron
-204042	pron
-verb
-204045	verb
-pp
-np
-conj
-verb
-204051	verb
-pp
-conj
-verb
-pron
-pron
-conj
-verb
-verb
-204061	verb
-conj
-adv
-verb
-verb
-pp
-np
-verb
-pron
-pp
-pron
-adv
-verb
-204075	np
-np
-pron
-verb
-pp
-np
-np
-conj
-vp
-np
-np
-conj
-verb
-pp
-verb
-pp
-np
-pron
-verb
-conj
-adv
-verb
-verb
-pron
-conj
-verb
-conj
-noun
-verb
-pp
-np
-conj
-pron
-vp
-pron
-conj
-verb
-adj
-conj
-204116	verb
-conj
-verb
-np
-np
-np
-np
-verb
-pp
-np
-np
-pp
-conj
-np
-np
-verb
-204133	np
-np
-conj
-verb
-pron
-np
-verb
-conj
-adv
-pron
-verb
-noun
-pp
-204147	pron
-verb
-verb
-np
-pp
-pp
-conj
-np
-np
-np
-verb
-204159	np
-pp
-np
-pp
-204164	np
-np
-pron
-noun
-noun
-pp
-np
-verb
-np
-204174	pron
-noun
-noun
-pp
-np
-conj
-np
-np
-np
-noun
-conj
-verb
-pp
-verb
-204189	verb
-verb
-np
-pp
-det
-conj
-pp
-np
-verb
-conj
-verb
-adj
-verb
-np
-np
-conj
-verb
-np
-pron
-204209	adv
-verb
-noun
-verb
-conj
-noun
-pp
-np
-conj
+204217	pron
 verb
 204220	verb
 pp
+np
+conj
+verb
+204226	verb
+pp
+conj
+verb
+pron
+pron
+conj
+verb
+verb
+204236	verb
+conj
+adv
+verb
+verb
+pp
+np
+verb
+pron
+pp
+pron
+adv
+verb
+np
+np
+pron
+verb
+pp
+np
+np
+conj
+vp
+np
+np
+conj
+verb
+pp
+verb
+pp
+np
+pron
+verb
+conj
+adv
+verb
+verb
+pron
+conj
+verb
+conj
+noun
+verb
+pp
+np
+conj
+pron
+vp
+pron
+conj
+verb
+adj
+conj
+verb
+conj
+verb
+np
+np
+np
+np
+verb
+pp
+np
+np
+pp
+conj
+np
+np
+verb
+204305	np
+np
+conj
+verb
+pron
+np
+verb
+conj
+adv
+pron
+verb
+noun
+pp
+pron
+verb
+verb
+np
+pp
+pp
+conj
+np
+np
+np
+verb
+204330	np
+pp
+np
+pp
+np
+np
+pron
+noun
+noun
+pp
+np
+verb
+np
+pron
+noun
+noun
+pp
+np
+conj
+np
+np
+np
+noun
+conj
+verb
+pp
+verb
+verb
+verb
+np
+pp
+det
+conj
+pp
+np
+verb
+conj
+verb
+adj
+verb
+np
+np
+conj
+verb
+np
+pron
+adv
+verb
+noun
+verb
+conj
+noun
+pp
+np
+conj
+verb
+204387	verb
+pp
 conj
 verb
 noun
@@ -192015,10 +192015,10 @@ verb
 conj
 verb
 pron
-204240	np
+204407	np
 np
 np
-204244	np
+204411	np
 np
 conj
 verb
@@ -192038,7 +192038,7 @@ conj
 noun
 pp
 np
-204265	adv
+adv
 verb
 pron
 conj
@@ -192050,7 +192050,7 @@ verb
 np
 verb
 pron
-204278	np
+204444	np
 verb
 pp
 conj
@@ -192066,7 +192066,7 @@ verb
 np
 conj
 verb
-204295	np
+204461	np
 np
 np
 verb
@@ -192077,171 +192077,171 @@ conj
 pron
 np
 verb
-204307	verb
-noun
-conj
-adv
-verb
-pp
-np
-np
-verb
-conj
-noun
-204320	verb
-np
-np
-verb
-pron
-pp
-np
-np
-conj
-verb
-pp
-np
-verb
-conj
-noun
-pp
-np
-np
-verb
-pp
-np
-pp
-pp
-np
-conj
-verb
-pp
-np
-np
-conj
-verb
-np
-conj
-204355	verb
-conj
-verb
-np
-np
-np
-np
-verb
-np
-pp
-np
-np
-conj
-verb
-np
-np
-conj
-verb
-np
-conj
-verb
-204377	verb
-pron
-pp
-conj
-verb
-np
-np
-np
-np
-conj
-adv
-pron
-pron
-verb
-np
-np
-np
-np
-pp
-verb
-conj
-conj
-verb
-np
-np
-np
-np
-pp
-np
-np
-verb
-pp
-np
-pp
-np
-np
-conj
-adj
-verb
-conj
-verb
-noun
-verb
-pron
-pp
-conj
-verb
-noun
-204426	verb
-np
-np
-np
-conj
-verb
-np
-np
-pp
-204436	np
-np
-np
-conj
-verb
-pp
-np
-np
-np
-np
-verb
-conj
-pp
-np
-verb
-pron
-np
-np
-conj
-204456	verb
-pron
-adj
-np
-conj
-adj
-np
-np
-conj
-np
-np
-pp
-204469	conj
-verb
-pron
 204473	verb
 noun
+conj
+adv
+verb
+pp
+np
+np
+verb
+conj
+noun
+verb
+np
+np
+verb
+pron
+pp
+np
+np
+conj
+verb
+pp
+np
+verb
+conj
+noun
+pp
+np
+np
+verb
+pp
+np
+pp
+pp
+np
+conj
+verb
+pp
+np
+np
+conj
+verb
+np
+conj
+verb
+conj
+verb
+np
+np
+np
+np
+verb
+np
+pp
+np
+np
+conj
+verb
+np
+np
+conj
+verb
+np
+conj
+verb
+204539	verb
+pron
+pp
+conj
+verb
+np
+np
+np
+np
+conj
+adv
+pron
+pron
+verb
+np
+np
+np
+np
+pp
+verb
+conj
+conj
+verb
+np
+np
+np
+np
+pp
+np
+np
+verb
+pp
+np
+pp
+np
+np
+conj
+adj
+verb
+conj
+verb
+noun
+verb
+pron
+pp
+conj
+verb
+noun
+verb
+np
+np
+np
+conj
+verb
+np
+np
+pp
+204597	np
+np
+np
+conj
+verb
+pp
+np
+np
+np
+np
+verb
+conj
+pp
+np
+verb
+pron
+np
+np
+conj
+204617	verb
+pron
+adj
+np
+conj
+adj
+np
+np
+conj
+np
+np
+pp
+204630	conj
+verb
+pron
+verb
+noun
 pp
 np
 verb
 adj
 np
 np
-204482	verb
+verb
 noun
 pp
 conj
@@ -192254,8 +192254,8 @@ conj
 verb
 verb
 adj
-204496	verb
-204498	np
+verb
+204656	np
 verb
 noun
 conj
@@ -192263,7 +192263,7 @@ verb
 pp
 np
 np
-204507	np
+204665	np
 conj
 np
 np
@@ -192292,7 +192292,7 @@ verb
 noun
 conj
 verb
-204537	np
+204695	np
 conj
 np
 np
@@ -192306,7 +192306,7 @@ conj
 verb
 pron
 conj
-204552	verb
+verb
 pp
 np
 np
@@ -192328,7 +192328,7 @@ verb
 np
 np
 verb
-204575	adv
+204732	adv
 conj
 verb
 noun
@@ -192336,7 +192336,7 @@ conj
 verb
 pp
 conj
-204584	verb
+verb
 pp
 np
 np
@@ -192363,7 +192363,7 @@ np
 conj
 verb
 adj
-204612	verb
+204768	verb
 conj
 np
 np
@@ -192411,7 +192411,7 @@ np
 verb
 pp
 conj
-204661	np
+204817	np
 np
 verb
 np
@@ -192419,11 +192419,11 @@ conj
 verb
 verb
 adj
-204670	np
+204826	np
 np
 np
 conj
-204676	verb
+verb
 conj
 verb
 noun
@@ -192435,7 +192435,7 @@ np
 pron
 pp
 np
-204689	np
+204843	np
 conj
 verb
 pp
@@ -192446,7 +192446,7 @@ np
 pp
 np
 noun
-204701	pp
+204855	pp
 np
 conj
 pp
@@ -192454,19 +192454,19 @@ np
 np
 verb
 pron
-204710	verb
+204864	verb
 noun
 pp
 np
 np
 conj
 verb
-204718	np
+204872	np
 np
-204721	pron
+pron
 verb
 pp
-204725	np
+204878	np
 np
 verb
 pron
@@ -192477,7 +192477,7 @@ verb
 verb
 pron
 pp
-204737	conj
+204890	conj
 pp
 np
 np
@@ -192500,7 +192500,7 @@ pp
 np
 np
 pp
-204761	np
+np
 np
 np
 pp
@@ -192510,7 +192510,7 @@ noun
 pp
 verb
 pp
-204772	conj
+204924	conj
 np
 verb
 verb
@@ -192518,7 +192518,7 @@ np
 np
 pp
 np
-204781	np
+204933	np
 conj
 verb
 conj
@@ -192534,7 +192534,7 @@ np
 np
 pp
 np
-204798	verb
+verb
 conj
 pp
 np
@@ -192542,7 +192542,7 @@ np
 verb
 noun
 pp
-204807	verb
+204958	verb
 np
 np
 pron
@@ -192562,14 +192562,14 @@ np
 verb
 conj
 np
-204829	pp
+204980	pp
 np
 pp
 np
-204834	pp
+204985	pp
 np
 pp
-204838	np
+np
 pron
 verb
 noun
@@ -192578,14 +192578,14 @@ verb
 pron
 pp
 np
-204848	conj
+204998	conj
 verb
 pp
-204853	verb
+205003	verb
 pron
 verb
 noun
-204858	verb
+verb
 conj
 pp
 verb
@@ -192620,9 +192620,9 @@ conj
 noun
 verb
 pp
-204894	np
+205043	np
 np
-204897	verb
+205046	verb
 conj
 verb
 np
@@ -192631,7 +192631,7 @@ pp
 np
 np
 conj
-204907	np
+205056	np
 verb
 pron
 conj
@@ -192645,13 +192645,13 @@ conj
 verb
 pron
 np
-204922	adv
+adv
 verb
 verb
 conj
 verb
 pron
-204929	np
+np
 pron
 verb
 np
@@ -192660,16 +192660,16 @@ conj
 verb
 pron
 adv
-204939	pron
+pron
 verb
-204942	pp
+205088	pp
 np
 conj
 pron
 pron
 noun
 verb
-204950	noun
+205096	noun
 verb
 conj
 verb
@@ -192681,11 +192681,11 @@ pp
 np
 np
 np
-204963	verb
+205109	verb
 np
 conj
 verb
-204968	noun
+205114	noun
 pp
 noun
 conj
@@ -192694,7 +192694,7 @@ noun
 pp
 np
 conj
-204979	verb
+verb
 conj
 verb
 pp
@@ -192708,7 +192708,7 @@ verb
 pp
 conj
 verb
-204995	np
+205138	np
 np
 verb
 pron
@@ -192720,7 +192720,7 @@ verb
 verb
 conj
 verb
-205009	np
+205152	np
 conj
 conj
 np
@@ -192733,7 +192733,7 @@ verb
 conj
 verb
 pp
-205023	np
+205166	np
 verb
 pron
 pp
@@ -192761,17 +192761,17 @@ np
 conj
 verb
 np
-205052	conj
+205195	conj
 np
 pp
 np
 pron
-205058	conj
+205201	conj
 conj
 verb
 pp
 conj
-205064	conj
+conj
 verb
 np
 verb
@@ -192790,7 +192790,7 @@ pron
 pp
 np
 conj
-205084	conj
+conj
 verb
 np
 np
@@ -192802,7 +192802,7 @@ np
 verb
 pron
 pp
-205098	verb
+205238	verb
 np
 conj
 verb
@@ -192824,7 +192824,7 @@ verb
 pp
 np
 np
-205121	np
+205261	np
 conj
 np
 np
@@ -192837,9 +192837,9 @@ pron
 noun
 noun
 conj
-205135	np
+205275	np
 np
-205138	conj
+205278	conj
 verb
 np
 np
@@ -192872,7 +192872,7 @@ conj
 pp
 verb
 np
-205172	np
+205312	np
 verb
 pron
 pp
@@ -192887,7 +192887,7 @@ pron
 pp
 np
 conj
-205188	verb
+205328	verb
 np
 conj
 verb
@@ -192904,7 +192904,7 @@ conj
 verb
 np
 np
-205207	np
+205346	np
 np
 pron
 verb
@@ -192912,15 +192912,15 @@ pp
 np
 np
 np
-205216	np
+205355	np
 pp
 np
 conj
 np
-205222	np
+205361	np
 conj
 vp
-205226	np
+205365	np
 np
 conj
 np
@@ -192934,14 +192934,14 @@ noun
 conj
 verb
 pp
-205241	np
+205380	np
 np
 verb
 pron
 verb
-205247	pp
+205386	pp
 np
-205250	conj
+205389	conj
 np
 pp
 np
@@ -192963,9 +192963,9 @@ pp
 np
 noun
 conj
-205273	verb
+verb
 np
-205277	np
+205415	np
 pp
 np
 pron
@@ -192988,9 +192988,9 @@ pron
 adv
 verb
 np
-205301	conj
+205439	conj
 verb
-205304	conj
+205442	conj
 conj
 np
 np
@@ -193004,7 +193004,7 @@ np
 verb
 np
 conj
-205319	conj
+conj
 verb
 np
 np
@@ -193012,10 +193012,10 @@ pp
 np
 np
 verb
-205328	pp
+205465	pp
 np
 pp
-205332	np
+205469	np
 np
 conj
 verb
@@ -193037,10 +193037,10 @@ np
 np
 np
 conj
-205355	conj
+conj
 verb
 np
-205359	verb
+verb
 pron
 pp
 np
@@ -193053,7 +193053,7 @@ pp
 verb
 pron
 verb
-205373	np
+205508	np
 pp
 conj
 adv
@@ -193072,7 +193072,7 @@ conj
 verb
 pron
 pp
-205393	np
+205528	np
 conj
 np
 conj
@@ -193083,11 +193083,11 @@ pp
 verb
 pron
 conj
-205405	verb
+verb
 pp
 np
 verb
-205410	pron
+205544	pron
 pp
 np
 verb
@@ -193107,7 +193107,7 @@ verb
 pron
 pp
 np
-205431	np
+205565	np
 conj
 np
 conj
@@ -193118,140 +193118,140 @@ conj
 verb
 pp
 np
-np
-205444	noun
-pron
-verb
-pron
-adv
-verb
-205451	np
-np
-verb
-verb
-pron
-conj
-verb
-pp
-205460	pron
-conj
-verb
-pron
-adv
-verb
-conj
-pp
-np
-np
-np
-verb
-verb
-pron
-conj
-pron
-adv
-verb
-np
-205480	pron
-verb
-pron
-conj
-verb
-pp
-conj
-verb
-pp
-conj
-vp
-pron
-conj
-np
-np
-verb
-np
-np
-pp
-np
-np
-conj
-noun
-verb
-pp
-np
-conj
-conj
-np
-pp
-205511	conj
-pp
-np
-np
-conj
-np
-np
-205520	verb
-205522	np
-conj
-verb
 np
 noun
-205528	conj
-np
-np
+pron
 verb
-np
-np
-205535	conj
-conj
-noun
-np
+pron
+adv
 verb
-pp
-205543	conj
-verb
-np
-pp
-205548	np
-np
-pp
-np
-conj
-verb
-pp
-np
-np
-np
-np
-verb
-np
-np
-pp
-np
-conj
-verb
-pp
-np
-np
-205570	np
-np
-verb
-pp
-np
-205576	verb
-np
-np
-adj
-verb
-np
-np
 205584	np
+np
+verb
+verb
+pron
+conj
+verb
+pp
+pron
+conj
+verb
+pron
+adv
+verb
+conj
+pp
+np
+np
+np
+verb
+verb
+pron
+conj
+pron
+adv
+verb
+np
+pron
+verb
+pron
+conj
+verb
+pp
+conj
+verb
+pp
+conj
+vp
+pron
+conj
+np
+np
+verb
+np
+np
+pp
+np
+np
+conj
+noun
+verb
+pp
+np
+conj
+conj
+np
+pp
+205642	conj
+pp
+np
+np
+conj
+np
+np
+205651	verb
+205653	np
+conj
+verb
+np
+noun
+205659	conj
+np
+np
+verb
+np
+np
+205666	conj
+conj
+noun
+np
+verb
+pp
+205674	conj
+verb
+np
+pp
+205679	np
+np
+pp
+np
+conj
+verb
+pp
+np
+np
+np
+np
+verb
+np
+np
+pp
+np
+conj
+verb
+pp
+np
+np
+205701	np
+np
+verb
+pp
+np
+verb
+np
+np
+adj
+verb
+np
+np
+205714	np
 verb
 conj
 np
-205589	conj
+205719	conj
 verb
 conj
-205593	verb
+205723	verb
 np
 pp
 conj
@@ -193336,7 +193336,7 @@ verb
 conj
 verb
 pron
-205679	verb
+205809	verb
 np
 verb
 adv
@@ -193377,7 +193377,7 @@ np
 conj
 verb
 pron
-205722	adj
+205852	adj
 verb
 conj
 verb
@@ -193385,7 +193385,7 @@ conj
 verb
 np
 np
-205731	verb
+verb
 conj
 np
 conj
@@ -193405,14 +193405,14 @@ verb
 verb
 adj
 np
-205752	pron
+205881	pron
 conj
 noun
 verb
 pron
 verb
 conj
-205760	np
+np
 adjp
 pron
 adv
@@ -193427,14 +193427,14 @@ pron
 pron
 verb
 pp
-205776	np
+205904	np
 conj
 np
 np
 pp
 np
 np
-205784	verb
+205912	verb
 np
 np
 conj
@@ -193447,255 +193447,255 @@ np
 conj
 verb
 np
-205798	conj
+205926	conj
 conj
 conj
 verb
 verb
 np
-205805	np
-conj
-np
-verb
-pp
-205811	pp
-205813	np
-np
-np
-np
-conj
-pp
-205821	verb
-np
-verb
-np
-pp
-verb
-np
-pp
-verb
-conj
-pp
-verb
-np
-np
-np
-conj
-verb
-conj
-verb
-verb
-np
-conj
-verb
-np
-np
-np
-np
-pp
-conj
-pp
-conj
-noun
-pp
-verb
-205856	pron
-verb
-205859	np
-np
-np
-pp
-verb
-conj
-np
-vp
-np
-np
-205870	verb
-np
-conj
-verb
-205875	np
-205877	np
-205879	np
-205881	np
-205883	np
-205885	np
-205887	np
-205889	np
-205891	np
-205893	np
-205895	np
-205897	np
-205899	np
-205901	np
-205903	np
-205905	np
-205907	np
-205909	np
-205911	np
-205913	np
-205915	np
-205917	np
-205919	np
-205921	np
-205923	np
-205925	np
-205927	np
-205929	np
-205931	np
 205933	np
-205935	np
-205937	np
-205939	np
+conj
+np
+verb
+pp
+205939	pp
 205941	np
-205943	np
-205945	np
-205947	np
-205949	np
-205951	np
-205953	np
-205955	np
-205957	np
-205959	np
-205961	np
-205963	np
-205965	np
-205967	np
-205969	np
-205971	np
-205973	np
-205975	np
-205977	np
-205979	np
-205981	np
-205983	np
+np
+np
+np
+conj
+pp
+205948	verb
+np
+verb
+np
+pp
+verb
+np
+pp
+verb
+conj
+pp
+verb
+np
+np
+np
+conj
+verb
+conj
+verb
+verb
+np
+conj
+verb
+np
+np
+np
+np
+pp
+conj
+pp
+conj
+noun
+pp
+verb
+pron
+verb
 205985	np
-205987	np
-205989	np
-205991	np
-205993	np
-205995	np
-205997	np
-205999	np
-206001	np
-206003	np
-206005	np
-206007	np
-206009	np
-206011	np
-206013	np
-206015	np
-206017	np
-206019	np
-206021	np
-206023	np
-206025	np
-noun
-conj
-adjp
-np
-verb
-pp
-np
-conj
-verb
-pp
-np
-pp
-np
-np
-verb
-pp
-np
-conj
-adv
-verb
-adj
-pp
-np
-np
-conj
-206052	verb
-pron
-verb
-verb
-conj
-pron
-np
-206060	conj
-np
-verb
-np
-verb
-np
-np
-conj
-verb
-noun
-conj
-verb
-pp
-np
-verb
-conj
-adv
-pp
-np
-verb
-np
-conj
-verb
-pron
-verb
-pron
-np
-np
 np
 np
 pp
+verb
+conj
+np
+vp
+np
+np
+verb
 np
 conj
 verb
-pron
-np
-206097	pron
-verb
+206000	np
+206002	np
+206004	np
+206006	np
+206008	np
+206010	np
+206012	np
+206014	np
+206016	np
+206018	np
+206020	np
+206022	np
+206024	np
+206026	np
+206028	np
+206030	np
+206032	np
+206034	np
+206036	np
+206038	np
+206040	np
+206042	np
+206044	np
+206046	np
+206048	np
+206050	np
+206052	np
+206054	np
+206056	np
+206058	np
+206060	np
+206062	np
+206064	np
+206066	np
+206068	np
+206070	np
+206072	np
+206074	np
+206076	np
+206078	np
+206080	np
+206082	np
+206084	np
+206086	np
+206088	np
+206090	np
+206092	np
+206094	np
+206096	np
+206098	np
 206100	np
-np
-np
-conj
-np
-np
-conj
-206108	pron
-verb
-conj
-pron
-verb
-verb
-pron
-pron
-conj
-conj
-verb
-pp
-verb
-pron
-adj
-conj
-verb
-np
-verb
-pron
-verb
-206130	verb
+206102	np
+206104	np
+206106	np
+206108	np
+206110	np
+206112	np
+206114	np
+206116	np
+206118	np
+206120	np
+206122	np
+206124	np
+206126	np
+206128	np
+206130	np
 206132	np
+206134	np
+206136	np
+206138	np
+206140	np
+206142	np
+206144	np
+206146	np
+206148	np
+206150	np
+noun
+conj
+adjp
+np
+verb
+pp
+np
+conj
+verb
+pp
+np
+pp
+np
+np
+verb
+pp
+np
+conj
+adv
+verb
+adj
+pp
+np
+np
+conj
+verb
+pron
+verb
+verb
+conj
+pron
 np
 conj
 np
 verb
-206138	verb
+np
+verb
+np
+np
+conj
+verb
+noun
+conj
+verb
+pp
+np
+verb
+conj
+adv
+pp
+np
+verb
+np
+conj
+verb
+pron
+verb
+pron
+np
+np
+np
+np
+pp
+np
+conj
+verb
+pron
+np
+pron
+verb
+206222	np
+np
+np
+conj
+np
+np
+conj
+206230	pron
+verb
+conj
+pron
+verb
+verb
+pron
+pron
+conj
+conj
+verb
+pp
+verb
+pron
+adj
+conj
+verb
+np
+verb
+pron
+verb
+206252	verb
+206254	np
+np
+conj
+np
+verb
+206260	verb
 conj
 pron
 pp
@@ -193708,7 +193708,7 @@ np
 conj
 verb
 pron
-206152	conj
+conj
 np
 verb
 np
@@ -193718,7 +193718,7 @@ adv
 adv
 verb
 conj
-206163	conj
+206284	conj
 np
 np
 verb
@@ -193727,7 +193727,7 @@ verb
 pron
 conj
 conj
-206173	pp
+pp
 verb
 pron
 ptcl
@@ -193745,7 +193745,7 @@ conj
 verb
 adv
 verb
-206192	np
+206312	np
 np
 conj
 verb
@@ -193781,10 +193781,10 @@ pp
 conj
 verb
 pp
-206229	adv
+adv
 vp
 conj
-206233	verb
+206352	verb
 pp
 verb
 pron
@@ -193801,13 +193801,13 @@ conj
 verb
 pron
 np
-206251	np
+206370	np
 conj
 verb
 np
 verb
 np
-206258	adv
+adv
 vp
 np
 pp
@@ -193818,7 +193818,7 @@ verb
 adj
 verb
 pron
-206271	verb
+206388	verb
 noun
 noun
 conj
@@ -193857,13 +193857,13 @@ pp
 np
 np
 conj
-206311	adj
+206428	adj
 verb
 pron
 conj
 verb
 pp
-206318	np
+206435	np
 np
 np
 verb
@@ -193911,18 +193911,18 @@ pp
 conj
 verb
 pron
-206368	np
+206484	np
 verb
 pp
 np
 np
 pp
 np
-206376	adv
+adv
 verb
 np
 pp
-206381	np
+206496	np
 conj
 np
 adv
@@ -193942,19 +193942,19 @@ pp
 np
 np
 pp
-206402	conj
+206517	conj
 np
 verb
 pp
 np
 pp
-206409	np
+206524	np
 conj
 np
 verb
 conj
 adv
-206416	np
+206531	np
 conj
 verb
 np
@@ -193964,7 +193964,7 @@ np
 verb
 pron
 conj
-206427	verb
+206542	verb
 verb
 pron
 pp
@@ -193975,7 +193975,7 @@ pron
 pp
 np
 np
-206439	pp
+pp
 np
 np
 verb
@@ -193991,7 +193991,7 @@ verb
 conj
 verb
 pp
-206456	np
+206570	np
 np
 conj
 vp
@@ -194009,7 +194009,7 @@ verb
 np
 np
 conj
-206475	pp
+206589	pp
 np
 verb
 np
@@ -194019,15 +194019,15 @@ np
 conj
 verb
 np
-206487	ptcl
+ptcl
 pron
-206490	conj
-206492	verb
+206602	conj
+206604	verb
 verb
 pron
 verb
 pron
-206498	pron
+pron
 verb
 np
 np
@@ -194037,7 +194037,7 @@ verb
 pron
 np
 verb
-206509	verb
+206620	verb
 conj
 verb
 pp
@@ -194064,8 +194064,8 @@ pron
 np
 np
 conj
-206537	pp
-206539	conj
+206648	pp
+206650	conj
 verb
 np
 np
@@ -194132,7 +194132,7 @@ verb
 conj
 np
 pp
-206607	verb
+206718	verb
 conj
 verb
 conj
@@ -194152,7 +194152,7 @@ verb
 np
 pron
 verb
-206628	verb
+verb
 conj
 noun
 verb
@@ -194160,7 +194160,7 @@ verb
 pp
 np
 conj
-206637	np
+206747	np
 verb
 pron
 conj
@@ -194227,7 +194227,7 @@ np
 verb
 conj
 pp
-206705	np
+np
 np
 pron
 verb
@@ -194244,14 +194244,14 @@ pp
 np
 verb
 np
-206723	conj
+conj
 conj
 verb
 verb
 verb
 pp
 np
-206731	verb
+206839	verb
 pp
 np
 conj
@@ -194306,7 +194306,7 @@ verb
 pron
 verb
 conj
-206787	verb
+206895	verb
 np
 np
 verb
@@ -194319,20 +194319,20 @@ noun
 noun
 conj
 verb
-206801	conj
+206909	conj
 np
 np
 pp
 pp
 np
-206808	np
+np
 np
 pron
 verb
 adv
 conj
 np
-206818	conj
+206924	conj
 np
 pron
 verb
@@ -194343,7 +194343,7 @@ verb
 pp
 np
 np
-206830	adv
+adv
 verb
 pp
 np
@@ -194404,7 +194404,7 @@ pron
 adj
 verb
 conj
-206892	verb
+206997	verb
 verb
 pron
 np
@@ -194427,7 +194427,7 @@ pp
 conj
 verb
 np
-206916	verb
+207021	verb
 conj
 verb
 pp
@@ -194450,7 +194450,7 @@ pron
 vp
 conj
 vp
-206941	conj
+207045	conj
 pron
 vp
 pp
@@ -194470,11 +194470,11 @@ verb
 noun
 verb
 pp
-206962	pron
+pron
 vp
 conj
 verb
-206967	pron
+207070	pron
 verb
 conj
 verb
@@ -194513,16 +194513,16 @@ np
 conj
 verb
 verb
-207007	np
+207110	np
 conj
 np
 verb
 pron
 verb
-207014	pron
+pron
 verb
 noun
-207018	pron
+pron
 verb
 noun
 verb
@@ -194538,12 +194538,12 @@ np
 verb
 verb
 pp
-207035	pron
+207136	pron
 verb
 pp
 np
 np
-207041	pron
+pron
 verb
 adj
 verb
@@ -194553,7 +194553,7 @@ np
 np
 conj
 verb
-207052	verb
+207152	verb
 conj
 verb
 conj
@@ -194573,7 +194573,7 @@ verb
 verb
 pron
 verb
-207073	verb
+207173	verb
 conj
 verb
 np
@@ -194600,7 +194600,7 @@ noun
 verb
 adj
 conj
-207101	verb
+207201	verb
 np
 conj
 verb
@@ -194614,7 +194614,7 @@ conj
 pp
 verb
 conj
-207116	verb
+207216	verb
 np
 noun
 noun
@@ -194644,13 +194644,13 @@ conj
 verb
 np
 np
-207148	conj
+207247	conj
 pron
 vp
 pp
 conj
 verb
-207155	np
+207254	np
 conj
 np
 np
@@ -194661,20 +194661,20 @@ verb
 pp
 pp
 np
-207167	conj
-207169	conj
+207266	conj
+207268	conj
 conj
 verb
 np
 verb
 pp
-207176	np
+207275	np
 verb
 verb
 conj
 adv
 verb
-207183	verb
+207282	verb
 verb
 adj
 conj
@@ -194684,7 +194684,7 @@ det
 conj
 verb
 pp
-207195	np
+207293	np
 np
 verb
 adj
@@ -194697,7 +194697,7 @@ np
 np
 np
 conj
-207209	conj
+207307	conj
 np
 conj
 verb
@@ -194747,7 +194747,7 @@ conj
 np
 adv
 verb
-207260	np
+207358	np
 np
 pp
 np
@@ -194766,7 +194766,7 @@ np
 np
 np
 conj
-207280	pron
+207378	pron
 verb
 conj
 np
@@ -194777,7 +194777,7 @@ pp
 np
 adj
 conj
-207292	adj
+adj
 verb
 adj
 verb
@@ -194794,7 +194794,7 @@ verb
 pron
 pp
 conj
-207310	np
+207407	np
 np
 conj
 np
@@ -194816,13 +194816,13 @@ pp
 verb
 np
 adv
-207333	verb
+verb
 pron
 verb
 noun
 conj
 verb
-207340	conj
+207436	conj
 pp
 verb
 conj
@@ -194879,10 +194879,10 @@ np
 np
 verb
 adj
-207399	verb
+verb
 conj
 pron
-207403	np
+207497	np
 conj
 np
 pp
@@ -194899,11 +194899,11 @@ np
 np
 verb
 conj
-207421	np
+207515	np
 adj
 verb
 np
-207426	verb
+207520	verb
 conj
 verb
 pp
@@ -194968,7 +194968,7 @@ np
 np
 np
 conj
-207492	conj
+conj
 verb
 noun
 verb
@@ -194977,15 +194977,15 @@ np
 conj
 verb
 pp
-207503	pron
+207595	pron
 np
 verb
-207508	pron
+207599	pron
 adv
 verb
 noun
 conj
-207514	np
+207605	np
 np
 conj
 conj
@@ -194996,12 +194996,12 @@ conj
 conj
 np
 conj
-207526	verb
+207617	verb
 noun
 conj
 np
 conj
-207533	pron
+207623	pron
 verb
 noun
 conj
@@ -195011,25 +195011,25 @@ verb
 pp
 np
 conj
-207544	np
+207634	np
 np
 np
 conj
-207549	np
+np
 np
 np
 np
 pp
-207555	np
+207644	np
 np
 conj
 conj
 np
 np
-207562	conj
+207651	conj
 pron
 verb
-207566	verb
+207655	verb
 pron
 conj
 verb
@@ -195042,13 +195042,13 @@ pp
 np
 verb
 conj
-207580	np
+np
 np
 verb
 verb
 pron
 conj
-207587	noun
+207675	noun
 pp
 verb
 conj
@@ -195063,7 +195063,7 @@ pp
 np
 np
 verb
-207603	adj
+adj
 np
 conj
 adj
@@ -195071,17 +195071,17 @@ verb
 np
 np
 np
-adj
-verb
-adv
-conj
-verb
 adj
 verb
 adv
 conj
 verb
-207622	adj
+adj
+verb
+adv
+conj
+verb
+adj
 verb
 conj
 verb
@@ -195089,7 +195089,7 @@ pron
 np
 conj
 conj
-207631	verb
+207717	verb
 pron
 conj
 verb
@@ -195103,7 +195103,7 @@ pp
 np
 np
 np
-207646	verb
+verb
 pp
 np
 np
@@ -195125,7 +195125,7 @@ np
 np
 conj
 ptcl
-207669	np
+207754	np
 conj
 verb
 np
@@ -195136,14 +195136,14 @@ verb
 adv
 conj
 verb
-207681	intj
+intj
 verb
 adv
 conj
-207686	verb
+207770	verb
 conj
 verb
-207690	ptcl
+ptcl
 conj
 adv
 pron
@@ -195158,38 +195158,38 @@ np
 np
 np
 conj
-207706	verb
-verb
-207709	verb
-np
-np
-adv
+207789	verb
 verb
 verb
-pron
-verb
-verb
-pron
-verb
-pp
-verb
-pron
-verb
-pron
-pp
-np
-verb
-np
-np
-conj
-pp
-verb
-np
-np
 np
 np
 adv
 verb
+verb
+pron
+verb
+verb
+pron
+verb
+pp
+verb
+pron
+verb
+pron
+pp
+np
+verb
+np
+np
+conj
+pp
+verb
+np
+np
+np
+np
+adv
+verb
 np
 verb
 pron
@@ -195211,7 +195211,7 @@ verb
 pron
 adv
 conj
-207761	conj
+conj
 verb
 verb
 pron
@@ -195224,7 +195224,7 @@ np
 verb
 pron
 verb
-207775	adv
+adv
 conj
 conj
 verb
@@ -195238,7 +195238,7 @@ np
 np
 verb
 conj
-207791	conj
+conj
 verb
 pp
 pron
@@ -195247,14 +195247,14 @@ verb
 np
 pron
 verb
-207801	np
+np
 adj
 verb
 conj
 verb
 np
 conj
-207810	verb
+207887	verb
 np
 np
 conj
@@ -195329,7 +195329,7 @@ verb
 adj
 pp
 verb
-207886	adv
+207963	adv
 verb
 noun
 pp
@@ -195345,14 +195345,14 @@ np
 pron
 conj
 verb
-207903	np
+207980	np
 np
 pp
 np
 np
 np
 np
-207911	np
+207988	np
 conj
 np
 pp
@@ -195368,7 +195368,7 @@ np
 noun
 verb
 verb
-207928	np
+208005	np
 np
 pp
 np
@@ -195391,7 +195391,7 @@ np
 conj
 adv
 verb
-207952	np
+208029	np
 np
 pp
 np
@@ -195424,7 +195424,7 @@ conj
 pp
 noun
 verb
-207986	np
+np
 np
 pp
 np
@@ -195473,7 +195473,7 @@ verb
 adj
 adj
 verb
-208036	np
+np
 verb
 noun
 pron
@@ -195485,7 +195485,7 @@ verb
 noun
 pp
 np
-208049	noun
+noun
 conj
 verb
 verb
@@ -195527,7 +195527,7 @@ np
 np
 np
 adj
-208092	conj
+conj
 verb
 np
 np
@@ -195574,12 +195574,12 @@ pron
 adv
 verb
 conj
-208140	adj
+adj
 verb
 pron
 verb
 pron
-208146	verb
+208218	verb
 conj
 np
 np
@@ -195592,7 +195592,7 @@ np
 conj
 verb
 pp
-208160	adv
+adv
 conj
 pron
 advp
@@ -195639,18 +195639,18 @@ verb
 pp
 noun
 conj
-208209	verb
+208280	verb
 pron
 verb
 conj
 verb
 conj
-208217	adj
+208287	adj
 verb
 conj
 verb
 conj
-208224	np
+208293	np
 np
 verb
 pron
@@ -195669,109 +195669,37 @@ np
 verb
 pron
 verb
-verb
-pron
-adv
-pp
-np
-np
-verb
-conj
-verb
-pp
-np
-verb
-verb
-np
-verb
-conj
-208260	verb
-pp
-np
-verb
-pp
-np
-verb
-noun
-conj
-verb
-pron
-208272	np
-np
-conj
-np
-conj
-conj
-verb
-np
-np
-np
-conj
-verb
-208285	verb
-np
-verb
-np
-np
-np
-np
-conj
-pron
-verb
-noun
-conj
-np
-np
-np
-verb
-pp
-conj
-verb
-pron
-np
-verb
-pp
-conj
 verb
 pron
 adv
+pp
+np
+np
 verb
 conj
-208315	verb
+verb
+pp
+np
+verb
 verb
 np
-conj
-verb
 verb
 conj
+verb
+pp
+np
+verb
+pp
+np
 verb
 noun
-pron
-verb
-verb
-conj
-208329	verb
-np
-conj
-verb
-verb
 conj
 verb
 pron
+208340	np
 np
-np
-verb
 conj
-noun
-adj
-conj
-verb
 np
-verb
-208348	conj
-np
-verb
-pp
 conj
 conj
 verb
@@ -195780,97 +195708,169 @@ np
 np
 conj
 verb
+208353	verb
+np
+verb
 np
 np
-np
-pp
-208365	np
-np
-pp
-conj
 np
 np
 conj
+pron
 verb
 noun
-np
-np
-pp
-np
 conj
-verb
-np
-np
 np
 np
 np
 verb
 pp
-np
-verb
-208390	pron
-verb
-verb
 conj
-adj
-verb
-verb
-conj
-pp
-np
-verb
-208402	np
 verb
 pron
-pp
-verb
-208408	pron
-verb
-verb
-conj
-adj
+np
 verb
 pp
-np
-np
-verb
-adj
-pp
 conj
-conj
-np
-conj
-np
-verb
-verb
-conj
-verb
-verb
-pron
-verb
-verb
-noun
-pron
-208436	conj
-208438	adj
-verb
-adj
-verb
-adj
-verb
-conj
-208446	adj
-verb
-adj
-verb
-adj
-verb
-conj
-adj
 verb
 pron
 adv
 verb
+conj
+208383	verb
+verb
+np
+conj
+verb
+verb
+conj
+verb
+noun
+pron
+verb
+verb
+conj
+208397	verb
+np
+conj
+verb
+verb
+conj
+verb
+pron
+np
+np
+verb
+conj
+noun
+adj
+conj
+verb
+np
+verb
+208416	conj
+np
+verb
+pp
+conj
+conj
+verb
+np
+np
+np
+conj
+verb
+np
+np
+np
+pp
+208433	np
+np
+pp
+conj
+np
+np
+conj
+verb
+noun
+np
+np
+pp
+np
+conj
+verb
+np
+np
+np
+np
+np
+verb
+pp
+np
+verb
+208458	pron
+verb
+verb
+conj
+adj
+verb
+verb
+conj
+pp
+np
+verb
+208470	np
+verb
+pron
+pp
+verb
+208476	pron
+verb
+verb
+conj
+adj
+verb
+pp
+np
+np
+verb
+adj
+pp
+conj
+conj
+np
+conj
+np
+verb
+verb
+conj
+verb
+verb
+pron
+verb
+verb
+noun
+pron
+208504	conj
+adj
+verb
+adj
+verb
+adj
+verb
+conj
+adj
+verb
+adj
+verb
+adj
+verb
+conj
+adj
+verb
+pron
+adv
+verb
 pp
 verb
 conj
@@ -195881,7 +195881,7 @@ verb
 pp
 np
 pp
-208469	pron
+pron
 verb
 pp
 np
@@ -195899,7 +195899,7 @@ np
 verb
 verb
 np
-208488	pp
+208553	pp
 np
 conj
 noun
@@ -195915,7 +195915,7 @@ noun
 ptcl
 verb
 pron
-208505	conj
+conj
 adjp
 pron
 verb
@@ -195951,7 +195951,7 @@ adj
 pron
 verb
 conj
-208542	np
+208606	np
 np
 verb
 conj
@@ -195961,7 +195961,7 @@ np
 verb
 np
 np
-208553	np
+208617	np
 conj
 conj
 np
@@ -195986,7 +195986,7 @@ verb
 adj
 adj
 verb
-208580	pp
+208643	pp
 verb
 conj
 verb
@@ -196004,8 +196004,8 @@ adv
 verb
 verb
 conj
-208599	np
-208601	adv
+208662	np
+208664	adv
 verb
 noun
 conj
@@ -196019,15 +196019,15 @@ verb
 np
 np
 np
-208616	verb
+208679	verb
 conj
 verb
 conj
 verb
-208622	verb
-208626	conj
+verb
+208688	conj
 np
-208629	conj
+208691	conj
 conj
 verb
 np
@@ -196052,20 +196052,20 @@ np
 verb
 conj
 verb
-208655	pron
+pron
 verb
 pp
 np
 adj
 conj
-208662	verb
+208723	verb
 conj
 verb
 pp
 np
 np
 np
-208670	verb
+208731	verb
 np
 conj
 verb
@@ -196094,20 +196094,20 @@ verb
 np
 verb
 conj
-208700	np
+208761	np
 verb
 pron
 verb
 pp
 verb
-208708	pron
+pron
 conj
 verb
 noun
 verb
-208714	conj
+208773	conj
 np
-208717	pron
+pron
 verb
 pron
 conj
@@ -196123,21 +196123,21 @@ verb
 pron
 pron
 verb
-208734	det
+det
 conj
 noun
 verb
 verb
-208741	np
+np
 verb
 np
-208745	np
+208800	np
 verb
 np
 np
 conj
 num
-208752	adv
+adv
 verb
 pron
 verb
@@ -196171,7 +196171,7 @@ verb
 verb
 np
 np
-208787	verb
+verb
 pp
 np
 np
@@ -196180,7 +196180,7 @@ pron
 pp
 adv
 verb
-208797	pron
+208850	pron
 conj
 np
 verb
@@ -196267,39 +196267,39 @@ conj
 pron
 verb
 pp
-208885	conj
-208887	conj
+208938	conj
+208940	conj
 np
 np
 np
 conj
-208893	np
+208946	np
 pp
 conj
-208898	np
+208950	np
 pron
 vp
 pp
-208903	np
+208955	np
 conj
-208908	verb
+208959	verb
 noun
 pp
 np
 verb
 conj
-208915	np
-208917	np
+208966	np
+208968	np
 conj
 conj
-208921	np
+np
 pron
 verb
 pron
 pp
 verb
 pron
-208929	verb
+verb
 conj
 np
 conj
@@ -196384,7 +196384,7 @@ np
 det
 conj
 verb
-209015	pron
+209064	pron
 verb
 verb
 np
@@ -196396,7 +196396,7 @@ np
 conj
 pp
 conj
-209028	verb
+209077	verb
 adv
 verb
 conj
@@ -196412,13 +196412,13 @@ verb
 np
 np
 np
-209045	np
+np
 conj
 pp
 np
 verb
 verb
-209052	adv
+adv
 verb
 np
 conj
@@ -196453,7 +196453,7 @@ conj
 pp
 np
 verb
-209088	conj
+209135	conj
 pp
 np
 verb
@@ -196488,7 +196488,7 @@ verb
 conj
 verb
 pp
-209124	adj
+209171	adj
 conj
 noun
 verb
@@ -196508,12 +196508,12 @@ np
 adv
 conj
 verb
-209145	pron
+pron
 adv
 adj
 verb
 conj
-209151	pron
+pron
 advp
 verb
 conj
@@ -196523,7 +196523,7 @@ verb
 conj
 adv
 verb
-209162	pron
+pron
 conj
 verb
 verb
@@ -196541,7 +196541,7 @@ pp
 verb
 conj
 pp
-209181	np
+209225	np
 conj
 np
 np
@@ -196555,7 +196555,7 @@ np
 verb
 conj
 pron
-209196	np
+209240	np
 np
 conj
 np
@@ -196570,7 +196570,7 @@ conj
 verb
 verb
 pp
-209212	np
+209256	np
 conj
 np
 pron
@@ -196578,14 +196578,14 @@ verb
 np
 np
 np
-209221	conj
+209265	conj
 verb
 conj
 pp
 np
 np
 conj
-209229	pron
+209273	pron
 verb
 pp
 conj
@@ -196601,7 +196601,7 @@ np
 np
 conj
 verb
-209246	verb
+verb
 conj
 pron
 verb
@@ -196611,7 +196611,7 @@ np
 pp
 np
 conj
-209257	verb
+209300	verb
 conj
 verb
 verb
@@ -196619,51 +196619,51 @@ conj
 verb
 pron
 verb
-209267	noun
+noun
 noun
 verb
 det
 conj
 verb
 verb
-209275	np
-conj
-np
-np
-np
-conj
-verb
-conj
-verb
-noun
-verb
-conj
-pron
-adv
-np
-np
-verb
-conj
-verb
-verb
-pp
-209297	pron
-conj
-pron
-verb
-conj
-209304	np
-verb
-conj
-np
-conj
-verb
-pron
-conj
-verb
-pp
-np
 209316	np
+conj
+np
+np
+np
+conj
+verb
+conj
+verb
+noun
+verb
+conj
+pron
+adv
+np
+np
+verb
+conj
+verb
+verb
+pp
+pron
+conj
+pron
+verb
+conj
+209344	np
+verb
+conj
+np
+conj
+verb
+pron
+conj
+verb
+pp
+np
+np
 np
 pron
 verb
@@ -196688,7 +196688,7 @@ adv
 verb
 noun
 conj
-209342	pp
+209381	pp
 adv
 verb
 conj
@@ -196703,10 +196703,10 @@ pron
 conj
 np
 verb
-209358	pron
-209360	conj
-209362	np
-209364	np
+pron
+209398	conj
+209400	np
+209402	np
 np
 verb
 pron
@@ -196727,7 +196727,7 @@ verb
 pron
 conj
 verb
-209386	conj
+209424	conj
 verb
 conj
 verb
@@ -196745,7 +196745,7 @@ pron
 pron
 noun
 verb
-209405	det
+det
 conj
 verb
 noun
@@ -196792,7 +196792,7 @@ verb
 pp
 np
 conj
-209453	verb
+209490	verb
 np
 pp
 np
@@ -196807,12 +196807,12 @@ verb
 verb
 conj
 verb
-209469	pp
+209506	pp
 np
 conj
 pp
 np
-209475	verb
+209512	verb
 conj
 verb
 verb
@@ -196823,11 +196823,11 @@ np
 conj
 verb
 verb
-209487	np
+np
 pp
 np
 verb
-209492	verb
+209528	verb
 conj
 verb
 pp
@@ -196866,7 +196866,7 @@ verb
 conj
 pron
 np
-209532	pp
+pp
 verb
 np
 verb
@@ -196875,7 +196875,7 @@ verb
 conj
 pron
 verb
-209542	verb
+209577	verb
 pp
 np
 np
@@ -196895,7 +196895,7 @@ pron
 verb
 pron
 np
-209563	pp
+pp
 conj
 verb
 np
@@ -196909,7 +196909,7 @@ pron
 conj
 verb
 verb
-209578	pron
+pron
 noun
 noun
 conj
@@ -196929,7 +196929,7 @@ pp
 np
 np
 conj
-209599	np
+209632	np
 np
 verb
 pron
@@ -196946,7 +196946,7 @@ np
 verb
 pron
 conj
-209617	np
+np
 verb
 pp
 np
@@ -196991,7 +196991,7 @@ verb
 np
 conj
 verb
-209663	verb
+verb
 pron
 pron
 pron
@@ -197009,7 +197009,7 @@ verb
 verb
 verb
 conj
-209682	verb
+209713	verb
 pron
 pp
 np
@@ -197043,7 +197043,7 @@ pp
 np
 verb
 conj
-209717	verb
+verb
 np
 np
 adv
@@ -197054,7 +197054,7 @@ conj
 verb
 verb
 pron
-209729	adv
+adv
 verb
 adj
 verb
@@ -197071,7 +197071,7 @@ pron
 pp
 conj
 adv
-209747	conj
+209776	conj
 conj
 conj
 np
@@ -197079,16 +197079,16 @@ np
 np
 conj
 np
-209756	conj
+209785	conj
 adj
 conj
 pron
 det
 conj
 verb
-209764	adv
+adv
 verb
-209767	verb
+209795	verb
 conj
 verb
 conj
@@ -197107,7 +197107,7 @@ verb
 np
 verb
 conj
-209787	verb
+209815	verb
 np
 np
 conj
@@ -197134,30 +197134,30 @@ conj
 np
 verb
 pron
-209815	conj
-209817	pp
-np
-np
-conj
-noun
-verb
-conj
-verb
-pron
-209827	verb
-np
-np
-np
-conj
-verb
-conj
-verb
-pp
-209838	adj
-verb
-pp
-np
 209843	conj
+209845	pp
+np
+np
+conj
+noun
+verb
+conj
+verb
+pron
+209855	verb
+np
+np
+np
+conj
+verb
+conj
+verb
+pp
+209866	adj
+verb
+pp
+np
+209871	conj
 noun
 conj
 noun
@@ -197170,7 +197170,7 @@ pp
 np
 verb
 conj
-209858	pp
+209885	pp
 np
 verb
 adv
@@ -197179,7 +197179,7 @@ conj
 adv
 verb
 conj
-209868	pron
+pron
 adv
 verb
 pron
@@ -197200,11 +197200,11 @@ conj
 verb
 pp
 np
-209890	conj
+209916	conj
 adv
 verb
 conj
-209895	np
+209921	np
 np
 verb
 conj
@@ -197224,19 +197224,19 @@ verb
 adj
 conj
 conj
-209916	np
+209942	np
 np
 verb
 verb
 conj
 noun
-209923	noun
+209949	noun
 pron
 verb
 pron
 conj
 verb
-209930	pp
+pp
 verb
 pron
 conj
@@ -197286,14 +197286,14 @@ conj
 np
 verb
 pron
-209981	verb
+verb
 np
 conj
-209985	verb
+210009	verb
 pp
 np
 np
-209990	conj
+210014	conj
 verb
 conj
 verb
@@ -197313,12 +197313,12 @@ pron
 det
 conj
 verb
-210011	adv
+adv
 verb
 pron
 adj
 conj
-210017	np
+210040	np
 conj
 np
 conj
@@ -197352,7 +197352,7 @@ verb
 adj
 verb
 conj
-210052	np
+210075	np
 np
 conj
 np
@@ -197370,13 +197370,13 @@ np
 verb
 np
 conj
-210071	verb
+210094	verb
 conj
 verb
 adj
 conj
 verb
-210078	verb
+210101	verb
 pron
 np
 np
@@ -197402,7 +197402,7 @@ det
 conj
 verb
 verb
-210106	np
+210129	np
 adj
 conj
 noun
@@ -197460,7 +197460,7 @@ verb
 verb
 conj
 pp
-210165	conj
+conj
 pron
 verb
 pp
@@ -197496,19 +197496,19 @@ pron
 conj
 verb
 noun
-210202	verb
+210224	verb
 np
 np
 pron
 conj
-210208	conj
-210210	pron
+210230	conj
+pron
 conj
 verb
-210214	conj
+210235	conj
 np
 np
-210218	pron
+pron
 np
 np
 np
@@ -197528,7 +197528,7 @@ conj
 pron
 adv
 verb
-210239	np
+np
 adv
 verb
 pron
@@ -197549,7 +197549,7 @@ np
 np
 conj
 verb
-210261	conj
+210280	conj
 conj
 verb
 pp
@@ -197577,18 +197577,18 @@ verb
 pron
 pron
 verb
-210290	conj
+210309	conj
 pron
 verb
 pp
 verb
-210296	np
+np
 np
 pron
 verb
 verb
 pp
-210303	np
+210321	np
 conj
 conj
 np
@@ -197598,15 +197598,15 @@ noun
 verb
 conj
 verb
-210314	np
+210332	np
 np
 conj
-210318	np
+210336	np
 np
 verb
 pron
 conj
-210324	verb
+verb
 pp
 verb
 pron
@@ -197622,7 +197622,7 @@ pron
 adv
 verb
 conj
-210341	verb
+verb
 np
 adj
 pron
@@ -197660,7 +197660,7 @@ np
 verb
 pron
 verb
-210380	np
+210396	np
 np
 verb
 pron
@@ -197684,11 +197684,11 @@ np
 np
 pron
 verb
-210405	verb
+verb
 conj
 np
 np
-210410	verb
+verb
 pron
 pp
 np
@@ -197745,7 +197745,7 @@ verb
 conj
 np
 verb
-210468	np
+np
 np
 conj
 verb
@@ -197759,7 +197759,7 @@ verb
 adv
 np
 np
-210483	adv
+adv
 conj
 verb
 pron
@@ -197789,7 +197789,7 @@ pp
 np
 np
 np
-210514	adj
+adj
 conj
 verb
 pp
@@ -197815,7 +197815,7 @@ verb
 verb
 pp
 np
-210541	det
+210552	det
 conj
 verb
 np
@@ -197836,7 +197836,7 @@ np
 np
 verb
 conj
-210563	pp
+210574	pp
 np
 verb
 adj
@@ -197902,7 +197902,7 @@ verb
 conj
 pp
 noun
-210630	adv
+adv
 verb
 pron
 conj
@@ -197949,13 +197949,13 @@ vp
 pp
 verb
 conj
-210678	np
-210680	conj
+210688	np
+210690	conj
 verb
 noun
 verb
 verb
-210686	noun
+210696	noun
 verb
 pp
 np
@@ -197971,7 +197971,7 @@ verb
 pp
 np
 conj
-210703	verb
+verb
 pron
 pp
 np
@@ -197986,7 +197986,7 @@ conj
 verb
 pron
 np
-210720	np
+210729	np
 noun
 verb
 conj
@@ -198021,7 +198021,7 @@ np
 verb
 conj
 pron
-210756	verb
+210765	verb
 np
 verb
 np
@@ -198036,7 +198036,7 @@ np
 verb
 conj
 np
-210772	verb
+210781	verb
 pron
 noun
 adj
@@ -198053,7 +198053,7 @@ conj
 pp
 np
 adj
-210790	verb
+210799	verb
 np
 pp
 conj
@@ -198077,16 +198077,16 @@ pp
 pp
 np
 pp
-210815	np
+210824	np
 conj
-210818	adv
+adv
 verb
 pron
 verb
 verb
 conj
 pp
-210826	np
+210834	np
 conj
 adj
 np
@@ -198111,7 +198111,7 @@ conj
 noun
 pp
 np
-210852	adv
+adv
 verb
 noun
 adv
@@ -198123,7 +198123,7 @@ adj
 pp
 np
 verb
-210865	pp
+pp
 np
 conj
 verb
@@ -198146,12 +198146,12 @@ conj
 adv
 pp
 verb
-210889	pp
+pp
 np
 conj
 np
 verb
-210895	conj
+210900	conj
 np
 pp
 adj
@@ -198161,10 +198161,10 @@ np
 np
 adv
 verb
-210906	pp
+210911	pp
 pp
 conj
-210910	pp
+pp
 np
 verb
 conj
@@ -198186,7 +198186,7 @@ pp
 np
 np
 np
-210933	pp
+pp
 np
 conj
 verb
@@ -198199,8 +198199,8 @@ pp
 np
 np
 verb
-210947	np
-210949	np
+210950	np
+210952	np
 verb
 pron
 pp
@@ -198238,18 +198238,18 @@ noun
 conj
 conj
 pp
-210988	conj
+210991	conj
 verb
-210991	np
+210994	np
 verb
 pp
 adv
 pp
-210997	conj
+211000	conj
 verb
 verb
 conj
-211003	conj
+211006	conj
 adj
 verb
 pp
@@ -198307,8 +198307,8 @@ verb
 pron
 np
 verb
-211062	pp
-211064	conj
+211065	pp
+211067	conj
 conj
 pp
 np
@@ -198321,13 +198321,13 @@ pron
 advp
 verb
 conj
-211079	pp
+211081	pp
 adv
 verb
 np
 pron
 verb
-211086	verb
+verb
 conj
 conj
 np
@@ -198344,22 +198344,22 @@ np
 np
 conj
 verb
-211106	verb
+verb
 pron
+211107	np
 211109	np
-211111	np
 conj
 np
 conj
-211116	verb
+211114	verb
 pron
 pp
-211120	conj
+211118	conj
 conj
 verb
 pron
 adj
-211126	ptcl
+ptcl
 np
 conj
 adv
@@ -198375,19 +198375,19 @@ np
 conj
 adj
 verb
-211144	pron
+211140	pron
 verb
 np
 conj
 adv
 np
 conj
-211152	pron
+pron
 verb
 np
 conj
 adv
-211158	np
+211153	np
 conj
 pron
 verb
@@ -198399,8 +198399,8 @@ pp
 np
 pp
 verb
-211171	adj
-211173	np
+adj
+211167	np
 verb
 pron
 verb
@@ -198408,8 +198408,8 @@ verb
 conj
 pron
 conj
-211182	np
-211184	conj
+211176	np
+211178	conj
 verb
 verb
 pron
@@ -198419,7 +198419,7 @@ conj
 adv
 verb
 conj
-211195	verb
+211189	verb
 pron
 verb
 conj
@@ -198451,10 +198451,10 @@ det
 conj
 verb
 verb
-211228	verb
-211230	np
+211222	verb
+211224	np
 np
-211233	pp
+211227	pp
 np
 np
 np
@@ -198483,7 +198483,7 @@ conj
 pron
 adv
 verb
-211263	pron
+211257	pron
 verb
 conj
 verb
@@ -198502,16 +198502,16 @@ np
 verb
 np
 verb
-211283	np
+211277	np
 verb
-211286	pp
+211280	pp
 pp
 conj
 noun
 verb
 pron
 adv
-211294	verb
+211288	verb
 pron
 conj
 noun
@@ -198533,7 +198533,7 @@ verb
 adv
 conj
 np
-211317	pp
+211311	pp
 np
 verb
 conj
@@ -198548,13 +198548,13 @@ conj
 verb
 verb
 conj
-211333	verb
+211327	verb
 verb
 np
 np
 verb
-211339	conj
-211341	verb
+211333	conj
+211335	verb
 conj
 pron
 pp
@@ -198575,10 +198575,10 @@ verb
 np
 conj
 verb
-211363	verb
+211357	verb
 pron
 conj
-211367	pron
+pron
 verb
 pron
 pp
@@ -198606,7 +198606,7 @@ verb
 conj
 pron
 np
-211396	verb
+211389	verb
 conj
 pron
 verb
@@ -198631,7 +198631,7 @@ np
 conj
 pron
 verb
-211422	np
+np
 verb
 noun
 pron
@@ -198652,7 +198652,7 @@ np
 verb
 conj
 verb
-211444	noun
+noun
 adv
 verb
 pron
@@ -198673,11 +198673,11 @@ conj
 verb
 pron
 np
-211468	noun
 noun
-211471	conj
+noun
+211459	conj
 pp
-211474	np
+211462	np
 conj
 verb
 adj
@@ -198716,10 +198716,10 @@ np
 verb
 conj
 pron
-211514	conj
+conj
 verb
 verb
-211518	noun
+noun
 verb
 np
 np
@@ -198735,7 +198735,7 @@ pron
 np
 pp
 conj
-211535	verb
+verb
 pron
 np
 np
@@ -198753,7 +198753,7 @@ pp
 conj
 verb
 pp
-211554	np
+211539	np
 pp
 verb
 adj
@@ -198769,7 +198769,7 @@ verb
 pron
 np
 conj
-211571	np
+211556	np
 verb
 pp
 pp
@@ -198783,11 +198783,11 @@ pron
 adv
 verb
 verb
-211586	adv
+adv
 pron
 noun
 verb
-211591	adv
+211575	adv
 np
 verb
 conj
@@ -198804,7 +198804,7 @@ verb
 pron
 verb
 pron
-211609	conj
+conj
 adv
 adv
 verb
@@ -198824,18 +198824,18 @@ verb
 pron
 pron
 verb
-211632	verb
+211613	verb
 conj
 verb
 pron
-211637	verb
+211618	verb
 conj
 verb
-211641	verb
+211622	verb
 conj
 verb
 pron
-211646	np
+211627	np
 conj
 verb
 verb
@@ -198845,7 +198845,7 @@ verb
 conj
 verb
 verb
-211657	np
+211638	np
 conj
 pp
 np
@@ -198863,7 +198863,7 @@ noun
 verb
 pron
 noun
-211676	conj
+conj
 conj
 pron
 adj
@@ -198874,7 +198874,7 @@ verb
 np
 np
 advp
-211688	np
+211668	np
 np
 pp
 verb
@@ -198890,7 +198890,7 @@ verb
 adj
 verb
 conj
-211705	np
+np
 verb
 verb
 np
@@ -198902,7 +198902,7 @@ conj
 pp
 verb
 pp
-211718	np
+211697	np
 np
 np
 verb
@@ -198921,7 +198921,7 @@ np
 np
 verb
 pron
-211738	np
+211717	np
 np
 pp
 verb
@@ -198930,7 +198930,7 @@ conj
 noun
 pp
 verb
-211749	conj
+conj
 conj
 np
 np
@@ -198983,7 +198983,7 @@ pp
 verb
 np
 verb
-211803	conj
+conj
 conj
 adjp
 verb
@@ -199008,7 +199008,7 @@ adv
 verb
 pp
 verb
-211829	conj
+conj
 np
 np
 verb
@@ -199026,16 +199026,16 @@ verb
 verb
 pp
 np
-211848	np
+np
 adv
 verb
 conj
 verb
 verb
-211855	verb
+211829	verb
 conj
 verb
-211859	adv
+211833	adv
 verb
 conj
 verb
@@ -199070,11 +199070,11 @@ np
 verb
 pron
 adj
-211896	np
+211870	np
 verb
 pron
 conj
-211901	pron
+pron
 verb
 pron
 conj
@@ -199087,12 +199087,12 @@ np
 np
 conj
 verb
-211915	np
+np
 conj
 verb
 verb
 verb
-211922	np
+np
 np
 np
 verb
@@ -199107,7 +199107,7 @@ conj
 adv
 np
 np
-211938	conj
+conj
 conj
 verb
 noun
@@ -199121,7 +199121,7 @@ np
 np
 np
 np
-211953	np
+np
 verb
 pp
 np
@@ -199146,7 +199146,7 @@ conj
 verb
 adjp
 adv
-211980	verb
+211947	verb
 pp
 np
 pp
@@ -199164,7 +199164,7 @@ conj
 verb
 adjp
 adv
-211999	adj
+211966	adj
 noun
 verb
 pp
@@ -199173,7 +199173,7 @@ conj
 pp
 np
 conj
-212009	pp
+pp
 np
 conj
 verb
@@ -199204,10 +199204,10 @@ np
 np
 np
 adj
-212041	verb
+verb
 conj
 conj
-212045	np
+212010	np
 np
 pp
 noun
@@ -199256,48 +199256,48 @@ verb
 conj
 np
 pp
-212095	adv
-212097	np
+212060	adv
+212062	np
 np
 np
+212066	np
+conj
+np
+verb
+np
+conj
+np
+verb
+212075	conj
+adj
+verb
+np
+np
+np
+verb
+conj
+212084	verb
+verb
+noun
+conj
+verb
+adj
+adj
+pron
+verb
+conj
+ptcl
+212096	np
+conj
+212099	verb
 212101	np
 conj
 np
-verb
-np
-conj
-np
-verb
-212110	conj
-adj
-verb
-np
-np
-np
-verb
-conj
-212119	verb
-verb
-noun
-conj
-verb
-adj
-adj
-pron
-verb
-conj
-ptcl
-212131	np
-conj
-212134	verb
-212136	np
-conj
-np
 conj
 np
 conj
 verb
-212144	np
+212109	np
 conj
 np
 np
@@ -199309,11 +199309,11 @@ verb
 pron
 adv
 verb
-212157	ptcl
-212159	np
+ptcl
+212123	np
 conj
 verb
-212163	np
+212127	np
 np
 pp
 np
@@ -199322,17 +199322,17 @@ np
 np
 pp
 np
-212173	ptcl
+ptcl
 pron
 conj
-212177	verb
+212140	verb
 pp
 conj
 np
 np
 np
 conj
-212185	np
+212148	np
 verb
 adv
 adv
@@ -199352,10 +199352,10 @@ det
 conj
 verb
 np
-212206	np
+212169	np
 intj
 conj
-212210	verb
+212173	verb
 np
 np
 conj
@@ -199369,7 +199369,7 @@ np
 ptcl
 pron
 conj
-212225	verb
+212188	verb
 np
 np
 np
@@ -199379,7 +199379,7 @@ np
 verb
 pron
 conj
-212236	noun
+noun
 verb
 conj
 verb
@@ -199388,7 +199388,7 @@ np
 np
 np
 conj
-212246	pron
+212208	pron
 conj
 verb
 pron
@@ -199401,15 +199401,15 @@ np
 np
 np
 verb
-212260	verb
+212222	verb
 pp
-212263	conj
+212225	conj
 conj
-212266	pp
-212268	conj
+pp
+212229	conj
 conj
 verb
-212272	np
+212233	np
 np
 np
 np
@@ -199419,13 +199419,13 @@ np
 pp
 np
 np
-212283	pp
+212244	pp
 np
 pp
 np
-212288	verb
+212249	verb
 pp
-212291	np
+212252	np
 conj
 np
 ptcl
@@ -199436,26 +199436,26 @@ pp
 np
 np
 ptcl
-212303	np
+212264	np
 conj
 verb
 np
 np
 np
-212310	pron
+212271	pron
 adv
 verb
 conj
 verb
 verb
-212317	conj
+conj
 verb
 pron
 verb
-212322	np
+212282	np
 conj
 np
-212326	adv
+212286	adv
 verb
 conj
 verb
@@ -199487,19 +199487,19 @@ pron
 pp
 np
 np
-212359	pron
+pron
 verb
 noun
 np
 adj
 conj
-212367	verb
+212325	verb
 verb
 pron
 adv
 verb
 conj
-212374	pron
+pron
 adv
 verb
 pp
@@ -199523,7 +199523,7 @@ pp
 np
 verb
 conj
-212399	np
+212356	np
 np
 adv
 verb
@@ -199623,19 +199623,19 @@ np
 verb
 adv
 verb
-212500	conj
+conj
 conj
 verb
 pron
 pp
-212506	np
+212462	np
 conj
 np
 conj
 np
 adv
 verb
-212514	adv
+212470	adv
 conj
 pron
 verb
@@ -199675,55 +199675,55 @@ pron
 pron
 verb
 np
-212555	conj
+212511	conj
 pp
 verb
 conj
 pp
+verb
+conj
+verb
+pp
+np
+conj
+adv
+pp
+verb
+pron
+np
+np
+verb
+pp
+verb
+pron
+verb
+conj
+noun
+pp
+verb
+np
+np
+np
+verb
+np
+conj
+verb
+pp
+verb
+pron
+verb
+conj
+adv
+verb
+adv
+verb
+np
+np
+conj
+verb
+pron
+verb
 212561	verb
-conj
-verb
-pp
-np
-conj
-adv
-pp
-verb
-pron
-np
-np
-verb
-pp
-verb
-pron
-verb
-conj
-noun
-pp
-verb
-np
-np
-np
-verb
-np
-conj
-verb
-pp
-verb
-212592	pron
-verb
-conj
-adv
-verb
-adv
-verb
-np
-np
-conj
-verb
-212604	pron
-verb
-212608	verb
 np
 np
 conj
@@ -199734,7 +199734,7 @@ verb
 adv
 np
 np
-212620	np
+212573	np
 conj
 np
 conj
@@ -199748,7 +199748,7 @@ np
 verb
 pp
 np
-212635	verb
+verb
 verb
 verb
 verb
@@ -199783,7 +199783,7 @@ np
 pp
 verb
 pron
-212671	adv
+212623	adv
 verb
 np
 pron
@@ -199810,7 +199810,7 @@ verb
 pron
 adv
 verb
-212699	conj
+212651	conj
 conj
 np
 verb
@@ -199841,12 +199841,12 @@ verb
 verb
 np
 adv
-212731	conj
+212683	conj
 conj
 verb
 conj
 pron
-212737	adv
+adv
 noun
 pp
 np
@@ -199860,7 +199860,7 @@ conj
 np
 pp
 np
-212752	verb
+212703	verb
 adv
 conj
 adv
@@ -199875,7 +199875,7 @@ adj
 np
 adv
 verb
-212768	pron
+212719	pron
 verb
 conj
 pron
@@ -199923,13 +199923,13 @@ verb
 noun
 verb
 pron
-212817	np
+212768	np
 adv
 verb
 np
 np
 pp
-212824	np
+np
 adv
 noun
 adv
@@ -199937,7 +199937,7 @@ verb
 conj
 noun
 verb
-212833	conj
+conj
 conj
 verb
 np
@@ -199947,7 +199947,7 @@ np
 np
 np
 verb
-212845	verb
+212793	verb
 np
 np
 verb
@@ -199966,14 +199966,14 @@ verb
 pp
 np
 conj
-212865	verb
+212813	verb
 conj
 verb
 adv
 verb
 pron
 adj
-212873	np
+np
 np
 pron
 verb
@@ -199991,8 +199991,8 @@ conj
 verb
 verb
 pron
-212892	conj
-212895	pp
+conj
+212841	pp
 np
 conj
 pp
@@ -200008,7 +200008,7 @@ pron
 pron
 conj
 verb
-212912	conj
+conj
 verb
 np
 np
@@ -200019,7 +200019,7 @@ verb
 verb
 np
 np
-212924	np
+np
 verb
 adj
 conj
@@ -200048,7 +200048,7 @@ pron
 conj
 verb
 np
-212954	np
+np
 np
 np
 pron
@@ -200061,7 +200061,7 @@ verb
 pp
 np
 adj
-212968	np
+np
 np
 pron
 verb
@@ -200080,9 +200080,9 @@ np
 verb
 verb
 pron
-212988	conj
 conj
-212991	verb
+conj
+212932	verb
 np
 np
 pp
@@ -200094,11 +200094,11 @@ np
 verb
 conj
 verb
-213004	verb
-213006	np
+verb
+212946	np
 conj
 np
-213010	conj
+212950	conj
 conj
 conj
 verb
@@ -200106,17 +200106,17 @@ np
 np
 np
 np
-213019	pp
-213021	pron
+212959	pp
+pron
 adv
 verb
 conj
 pp
-213027	pron
+pron
 adv
 verb
 conj
-213032	verb
+212970	verb
 pron
 conj
 np
@@ -200124,7 +200124,7 @@ np
 pp
 np
 verb
-213041	np
+212979	np
 conj
 np
 verb
@@ -200134,7 +200134,7 @@ np
 np
 conj
 adv
-213052	conj
+212990	conj
 pp
 np
 np
@@ -200191,38 +200191,38 @@ verb
 verb
 pp
 np
-213110	ptcl
+213048	ptcl
 verb
 pron
 conj
 conj
 conj
 noun
-213118	vp
+vp
 conj
 pp
 np
 np
 pp
 np
-213126	adj
+213063	adj
 pp
 conj
 num
 pp
-213133	verb
+213069	verb
 noun
 pp
 conj
 noun
 pp
-213140	noun
+213076	noun
 pp
 conj
 noun
 pp
 np
-213147	noun
+213083	noun
 pp
 np
 np
@@ -200234,7 +200234,7 @@ verb
 conj
 np
 np
-213161	conj
+213096	conj
 verb
 noun
 verb
@@ -200248,7 +200248,7 @@ conj
 verb
 adv
 conj
-213176	conj
+conj
 noun
 verb
 verb
@@ -200260,7 +200260,7 @@ verb
 noun
 np
 np
-213189	np
+213123	np
 conj
 np
 verb
@@ -200278,7 +200278,7 @@ pp
 adv
 verb
 np
-213208	conj
+conj
 conj
 verb
 pp
@@ -200309,7 +200309,7 @@ verb
 pp
 verb
 pron
-213240	advp
+advp
 verb
 adv
 conj
@@ -200327,7 +200327,7 @@ verb
 pron
 pp
 np
-213259	np
+np
 np
 noun
 verb
@@ -200350,7 +200350,7 @@ verb
 conj
 pron
 verb
-213283	ptcl
+ptcl
 verb
 pron
 conj
@@ -200361,9 +200361,9 @@ adj
 adv
 verb
 conj
-213295	np
 np
-213298	pp
+np
+213227	pp
 verb
 np
 np
@@ -200379,7 +200379,7 @@ noun
 verb
 pp
 np
-213315	np
+213244	np
 verb
 noun
 ptcl
@@ -200404,7 +200404,7 @@ pp
 np
 np
 conj
-213341	verb
+213270	verb
 verb
 noun
 pp
@@ -200415,7 +200415,7 @@ verb
 conj
 pp
 np
-213353	verb
+verb
 np
 pp
 pron
@@ -200477,8 +200477,8 @@ np
 np
 verb
 np
-213416	conj
-213418	verb
+213344	conj
+213346	verb
 verb
 conj
 adv
@@ -200503,7 +200503,7 @@ verb
 pron
 np
 conj
-213444	adv
+213372	adv
 verb
 conj
 verb
@@ -200519,7 +200519,7 @@ np
 verb
 np
 conj
-213461	np
+np
 verb
 pp
 verb
@@ -200543,7 +200543,7 @@ noun
 np
 np
 verb
-213486	np
+213413	np
 np
 conj
 np
@@ -200552,7 +200552,7 @@ np
 conj
 verb
 verb
-213496	np
+np
 conj
 np
 verb
@@ -200585,12 +200585,12 @@ np
 verb
 pp
 np
-213530	np
+213456	np
 verb
 pp
 verb
 conj
-213536	pron
+213462	pron
 adj
 verb
 np
@@ -200602,7 +200602,7 @@ verb
 pron
 adj
 verb
-213549	np
+np
 pron
 verb
 noun
@@ -200632,7 +200632,7 @@ np
 np
 adj
 verb
-213580	pron
+pron
 verb
 noun
 verb
@@ -200646,8 +200646,8 @@ adj
 conj
 verb
 pp
-213595	conj
-213597	verb
+213519	conj
+213521	verb
 conj
 noun
 verb
@@ -200663,13 +200663,13 @@ det
 conj
 verb
 pp
-213614	verb
+verb
 verb
 pp
 np
 np
 conj
-213621	adj
+213544	adj
 verb
 pron
 verb
@@ -200686,7 +200686,7 @@ verb
 np
 conj
 verb
-213639	adv
+213562	adv
 verb
 conj
 verb
@@ -200707,7 +200707,7 @@ verb
 adv
 verb
 verb
-213662	verb
+213585	verb
 pp
 conj
 verb
@@ -200720,7 +200720,7 @@ conj
 verb
 verb
 pron
-213676	adv
+adv
 verb
 adv
 verb
@@ -200730,86 +200730,86 @@ np
 np
 adv
 verb
-213687	np
+213609	np
 conj
 np
 np
 np
 conj
 verb
+213618	conj
+conj
+conj
+np
+np
+pp
+np
+np
+np
+pron
+conj
+verb
+adv
+conj
+verb
+213634	pp
+213636	conj
+conj
+pp
+213640	conj
+conj
+verb
+pp
+np
+np
+np
+conj
+verb
+verb
+pron
+verb
+adj
+conj
+verb
+pron
+verb
+adj
+pp
+np
+np
+verb
+np
+verb
+pron
+213666	conj
+adv
+conj
+noun
+verb
+pron
+verb
+conj
+verb
+pron
+verb
+verb
+np
+np
+verb
+213682	verb
+noun
+conj
+noun
+verb
+213688	conj
+conj
+np
+verb
+conj
+verb
+pron
 213696	conj
 conj
-conj
-np
-np
-pp
-np
-np
-np
-pron
-conj
-verb
-adv
-conj
-verb
-213712	pp
-213714	conj
-conj
-pp
-213718	conj
-conj
-verb
-pp
-np
-np
-np
-conj
-verb
-verb
-213729	pron
-verb
-adj
-conj
-verb
-213735	pron
-verb
-adj
-pp
-np
-np
-verb
-np
-verb
-pron
-213747	conj
-adv
-conj
-noun
-verb
-pron
-verb
-conj
-verb
-pron
-verb
-verb
-np
-np
-verb
-213763	verb
-noun
-conj
-noun
-verb
-213769	conj
-conj
-np
-verb
-conj
-verb
-pron
-213777	conj
-conj
 verb
 verb
 conj
@@ -200818,7 +200818,7 @@ verb
 noun
 verb
 pp
-213788	noun
+noun
 noun
 verb
 np
@@ -200848,11 +200848,11 @@ np
 verb
 conj
 pron
-213819	advp
+advp
 verb
 pron
 conj
-213824	verb
+verb
 conj
 verb
 verb
@@ -200889,9 +200889,9 @@ np
 verb
 pp
 np
-213862	conj
+213778	conj
 verb
-213865	verb
+verb
 np
 verb
 conj
@@ -200908,9 +200908,9 @@ verb
 conj
 pp
 verb
-213883	np
+213798	np
 np
-213886	conj
+213801	conj
 pp
 verb
 conj
@@ -200936,7 +200936,7 @@ np
 verb
 verb
 pp
-213914	conj
+conj
 verb
 pp
 pp
@@ -200944,98 +200944,98 @@ adv
 verb
 pp
 np
-213923	ptcl
+213836	ptcl
 adv
 adjp
 vp
 pp
 conj
+verb
+213844	conj
+verb
+verb
+pron
+verb
+pron
+noun
+conj
+adv
+verb
+pp
+np
+np
+verb
+conj
+conj
+verb
+verb
+verb
+pp
+np
+np
+conj
+conj
+verb
+verb
+pron
+verb
+pron
+noun
+verb
+adj
+adv
+verb
+pron
+noun
+pp
+np
+verb
+pron
+conj
+213886	np
+verb
+pron
+verb
+conj
+verb
+pron
+verb
+verb
+conj
+np
+verb
+pron
+conj
+verb
+213902	conj
+adv
+verb
+213906	np
+np
+conj
+np
+np
+conj
+np
+np
+conj
+np
+ptcl
+adv
+np
+verb
+pron
+conj
+verb
+noun
+pron
+conj
+conj
+noun
+verb
 verb
 213931	conj
-verb
-verb
-pron
-verb
-pron
-noun
-conj
-adv
-verb
-pp
-np
-np
-verb
-conj
-213948	conj
-verb
-verb
-verb
-pp
-np
-np
-conj
-213958	conj
-verb
-verb
-pron
-verb
-pron
-noun
-verb
 adj
-adv
-verb
-pron
-noun
-pp
-np
-verb
-pron
-conj
-213977	np
-verb
-pron
-verb
-conj
-verb
-pron
-verb
-verb
-conj
-np
-verb
-pron
-213992	conj
-verb
-213995	conj
-adv
-verb
-213999	np
-np
-conj
-np
-np
-conj
-np
-np
-conj
-np
-ptcl
-adv
-np
-verb
-pron
-conj
-verb
-noun
-pron
-conj
-214020	conj
-noun
-verb
-verb
-214025	conj
-214027	adj
 verb
 conj
 adv
@@ -201068,7 +201068,7 @@ det
 conj
 verb
 pron
-214062	np
+213967	np
 verb
 np
 conj
@@ -201083,7 +201083,7 @@ np
 np
 verb
 verb
-214078	verb
+verb
 conj
 adv
 adj
@@ -201096,7 +201096,7 @@ verb
 np
 verb
 pron
-214092	noun
+noun
 verb
 conj
 verb
@@ -201112,7 +201112,7 @@ verb
 conj
 adj
 verb
-214109	np
+np
 np
 verb
 conj
@@ -201127,7 +201127,7 @@ verb
 conj
 adj
 verb
-214125	noun
+214027	noun
 verb
 conj
 pp
@@ -201147,12 +201147,12 @@ np
 verb
 np
 np
-214146	verb
+214048	verb
 adv
 pp
 np
 np
-214152	conj
+214054	conj
 np
 conj
 np
@@ -201177,10 +201177,10 @@ verb
 np
 pp
 np
-214178	verb
+214080	verb
 pp
 np
-214182	conj
+214084	conj
 conj
 verb
 verb
@@ -201193,7 +201193,7 @@ conj
 pron
 conj
 np
-214196	np
+214098	np
 np
 verb
 verb
@@ -201207,14 +201207,14 @@ conj
 verb
 verb
 pp
-214211	conj
-214213	pron
+conj
+214114	pron
 verb
 pp
 conj
 adv
 verb
-214221	np
+214122	np
 np
 conj
 np
@@ -201247,7 +201247,7 @@ adv
 verb
 verb
 np
-214255	np
+np
 conj
 pp
 verb
@@ -201260,7 +201260,7 @@ np
 verb
 pp
 conj
-214269	ptcl
+ptcl
 adv
 verb
 pron
@@ -201302,10 +201302,10 @@ pp
 np
 verb
 pp
-214312	conj
+conj
 conj
 adv
-214316	adv
+adv
 pron
 adv
 verb
@@ -201316,7 +201316,7 @@ np
 pp
 adv
 conj
-214328	np
+np
 pp
 pron
 adv
@@ -201338,7 +201338,7 @@ np
 verb
 pp
 verb
-214351	conj
+214247	conj
 pp
 conj
 pp
@@ -201355,14 +201355,14 @@ vp
 conj
 pron
 np
-214369	np
+214265	np
 conj
 np
 verb
 pron
 conj
 verb
-214377	np
+214273	np
 conj
 conj
 np
@@ -201392,7 +201392,7 @@ np
 pp
 verb
 np
-214408	pp
+214304	pp
 np
 conj
 verb
@@ -201413,22 +201413,22 @@ verb
 pp
 np
 verb
-214430	np
+214326	np
 conj
 np
 verb
 pron
-214436	verb
+verb
 pron
 conj
 verb
-214441	np
+214336	np
 np
 verb
 verb
 pron
 conj
-214448	adv
+214343	adv
 noun
 pp
 np
@@ -201440,7 +201440,7 @@ verb
 conj
 pp
 np
-214462	pron
+214356	pron
 adv
 np
 verb
@@ -201467,16 +201467,16 @@ conj
 verb
 verb
 np
-214490	conj
+214384	conj
 verb
-214493	verb
+verb
 pron
 conj
 verb
 np
-214499	pron
+pron
 verb
-214502	adv
+adv
 verb
 pron
 verb
@@ -201530,7 +201530,7 @@ np
 np
 verb
 adv
-214557	verb
+verb
 conj
 pron
 adj
@@ -201566,7 +201566,7 @@ np
 np
 pp
 np
-214594	pron
+pron
 verb
 np
 conj
@@ -201577,7 +201577,7 @@ pp
 conj
 verb
 verb
-214606	np
+214495	np
 np
 np
 np
@@ -201597,55 +201597,8 @@ conj
 verb
 pron
 noun
-214627	verb
-214629	pp
-np
-conj
-pp
-adv
 verb
-adj
-verb
-np
-214639	verb
-pron
-conj
-np
-np
-np
-conj
-verb
-verb
-pp
-np
-np
-214652	adv
-conj
-pron
-adj
-verb
-verb
-pron
-np
-np
-conj
-verb
-conj
-verb
-verb
-pp
-np
-np
-conj
-verb
-pron
-verb
-conj
-np
-pron
-noun
-verb
-214679	pp
+214517	pp
 np
 conj
 pp
@@ -201655,12 +201608,59 @@ adj
 verb
 np
 verb
+pron
+conj
+np
+np
+np
+conj
+verb
+verb
+pp
+np
+np
+adv
+conj
+pron
+adj
+verb
+verb
+pron
+np
+np
+conj
+verb
+conj
+verb
+verb
+pp
+np
+np
+conj
+verb
+pron
+verb
+conj
+np
+pron
+noun
+verb
+214565	pp
+np
+conj
+pp
+adv
+verb
+adj
+verb
+np
+verb
 conj
 np
 pp
 np
 np
-214696	adj
+214581	adj
 verb
 np
 np
@@ -201668,7 +201668,7 @@ conj
 verb
 pron
 conj
-214705	verb
+214590	verb
 noun
 pp
 np
@@ -201678,7 +201678,7 @@ noun
 pp
 np
 conj
-214717	verb
+214601	verb
 np
 np
 np
@@ -201687,7 +201687,7 @@ conj
 verb
 verb
 conj
-214727	np
+np
 np
 np
 adj
@@ -201708,12 +201708,12 @@ np
 np
 pp
 conj
-214749	conj
+conj
 verb
 verb
 np
 verb
-214755	conj
+214637	conj
 conj
 verb
 np
@@ -201759,7 +201759,7 @@ verb
 verb
 np
 verb
-214802	np
+214684	np
 verb
 pron
 conj
@@ -201767,7 +201767,7 @@ adv
 np
 verb
 conj
-214811	pron
+pron
 adv
 verb
 noun
@@ -201778,7 +201778,7 @@ np
 verb
 conj
 conj
-214823	np
+214704	np
 np
 np
 verb
@@ -201810,7 +201810,7 @@ conj
 verb
 verb
 conj
-214857	np
+214738	np
 np
 np
 adj
@@ -201818,7 +201818,7 @@ verb
 conj
 verb
 conj
-214866	verb
+214747	verb
 conj
 verb
 verb
@@ -201849,7 +201849,7 @@ pron
 pron
 verb
 pp
-214898	verb
+verb
 np
 np
 np
@@ -201863,7 +201863,7 @@ verb
 conj
 pp
 np
-214913	pron
+pron
 verb
 conj
 np
@@ -201871,7 +201871,7 @@ np
 verb
 np
 pp
-214922	verb
+verb
 adv
 verb
 verb
@@ -201912,7 +201912,7 @@ det
 conj
 verb
 pron
-214964	verb
+214842	verb
 np
 np
 conj
@@ -201934,14 +201934,14 @@ np
 np
 verb
 pron
-214987	verb
+214865	verb
 np
 np
 conj
 verb
 num
 conj
-214995	verb
+verb
 np
 np
 np
@@ -201960,14 +201960,14 @@ np
 np
 np
 pp
-215015	np
+214892	np
 np
 verb
 conj
 pron
 pron
 verb
-215023	pron
+pron
 verb
 adj
 pp
@@ -201997,7 +201997,7 @@ pp
 pp
 adj
 verb
-215054	conj
+conj
 conj
 pp
 np
@@ -202010,7 +202010,7 @@ pron
 pron
 verb
 conj
-215068	conj
+conj
 pp
 np
 adj
@@ -202020,26 +202020,26 @@ np
 pron
 verb
 pron
-215079	np
+np
 verb
 np
 verb
-215084	conj
+214957	conj
 conj
-215087	np
+214960	np
 verb
 conj
 np
 verb
 conj
-215094	adj
+214967	adj
 verb
 conj
 np
 verb
 adv
 verb
-215102	noun
+214975	noun
 verb
 conj
 noun
@@ -202055,7 +202055,7 @@ pron
 conj
 verb
 pron
-215120	pron
+214992	pron
 verb
 verb
 pron
@@ -202073,7 +202073,7 @@ pp
 noun
 pp
 np
-215139	np
+215011	np
 conj
 np
 pp
@@ -202089,7 +202089,7 @@ verb
 adj
 conj
 verb
-215156	np
+215028	np
 conj
 np
 verb
@@ -202117,7 +202117,7 @@ verb
 adj
 conj
 verb
-215185	conj
+215057	conj
 verb
 pp
 adv
@@ -202130,7 +202130,7 @@ verb
 pp
 np
 np
-215199	verb
+215071	verb
 conj
 verb
 verb
@@ -202185,13 +202185,13 @@ conj
 pron
 verb
 verb
-215255	verb
+215127	verb
 pron
 conj
 verb
 noun
 conj
-215262	verb
+215134	verb
 np
 np
 np
@@ -202233,11 +202233,11 @@ conj
 pp
 np
 pp
-215305	conj
+215177	conj
 np
 verb
 conj
-215310	verb
+215182	verb
 verb
 adv
 pp
@@ -202249,7 +202249,7 @@ pp
 verb
 verb
 conj
-215325	verb
+verb
 pron
 conj
 noun
@@ -202279,8 +202279,8 @@ np
 verb
 conj
 noun
-215356	verb
-215358	conj
+verb
+215226	conj
 np
 verb
 pron
@@ -202288,7 +202288,7 @@ det
 conj
 verb
 ptcl
-215367	conj
+215235	conj
 conj
 pron
 pp
@@ -202298,8 +202298,8 @@ verb
 verb
 conj
 pron
-215378	conj
-215380	conj
+conj
+215247	conj
 np
 adv
 verb
@@ -202314,7 +202314,7 @@ conj
 pp
 np
 np
-215396	adj
+215263	adj
 verb
 np
 adv
@@ -202326,7 +202326,7 @@ verb
 verb
 pron
 conj
-215409	np
+215276	np
 verb
 pp
 np
@@ -202343,20 +202343,20 @@ np
 np
 verb
 pron
-215427	conj
+conj
 verb
 np
 np
 verb
 pron
 conj
-215435	conj
+conj
 verb
 verb
 pron
 conj
-215441	conj
-215443	adv
+conj
+215307	adv
 np
 verb
 pp
@@ -202378,7 +202378,7 @@ noun
 verb
 conj
 np
-215466	conj
+conj
 verb
 np
 pp
@@ -202387,7 +202387,7 @@ np
 verb
 np
 np
-215476	verb
+215339	verb
 conj
 verb
 pp
@@ -202395,7 +202395,7 @@ np
 conj
 verb
 pron
-215485	np
+np
 np
 conj
 pp
@@ -202416,7 +202416,7 @@ verb
 conj
 verb
 pron
-215508	verb
+215369	verb
 pron
 verb
 conj
@@ -202424,12 +202424,12 @@ verb
 verb
 pron
 conj
-215517	verb
+215378	verb
 conj
 verb
 conj
 pp
-215523	conj
+215384	conj
 pron
 verb
 noun
@@ -202462,15 +202462,15 @@ pron
 verb
 pp
 np
-215557	conj
+215418	conj
 conj
-215560	verb
+verb
 pron
 pp
 np
 verb
 np
-215567	np
+np
 pron
 verb
 adv
@@ -202479,7 +202479,7 @@ pron
 verb
 noun
 verb
-215578	noun
+noun
 noun
 verb
 pron
@@ -202492,7 +202492,7 @@ verb
 pron
 np
 conj
-215592	verb
+verb
 pp
 verb
 pron
@@ -202524,7 +202524,7 @@ verb
 conj
 np
 verb
-215625	np
+np
 verb
 np
 conj
@@ -202542,26 +202542,26 @@ np
 conj
 verb
 pron
-215644	verb
 verb
-np
-np
 verb
-pron
-verb
-conj
-pp
-np
-adv
-verb
-np
 np
 np
 verb
 pron
+verb
+conj
+pp
+np
+adv
+verb
+np
+np
+np
+verb
+pron
 conj
 verb
-215664	adv
+adv
 verb
 np
 np
@@ -202584,7 +202584,7 @@ verb
 conj
 pp
 np
-215688	verb
+verb
 noun
 adv
 verb
@@ -202599,9 +202599,9 @@ conj
 adv
 verb
 conj
-215704	verb
+verb
 pron
-215707	verb
+verb
 adv
 verb
 adv
@@ -202613,7 +202613,7 @@ conj
 conj
 np
 verb
-215720	pp
+215570	pp
 np
 pp
 np
@@ -202655,7 +202655,7 @@ np
 np
 np
 np
-215763	verb
+verb
 verb
 verb
 verb
@@ -202666,7 +202666,7 @@ noun
 pp
 np
 conj
-215775	verb
+215624	verb
 np
 conj
 verb
@@ -202677,7 +202677,7 @@ verb
 pp
 np
 np
-215787	verb
+verb
 verb
 verb
 verb
@@ -202689,7 +202689,7 @@ verb
 noun
 pp
 verb
-215800	conj
+215648	conj
 pp
 conj
 verb
@@ -202743,7 +202743,7 @@ verb
 pron
 verb
 pron
-215855	np
+np
 np
 verb
 num
@@ -202758,7 +202758,7 @@ vp
 num
 pp
 np
-215871	np
+215718	np
 verb
 np
 conj
@@ -202773,7 +202773,7 @@ det
 conj
 verb
 pron
-215887	conj
+conj
 np
 adv
 np
@@ -202796,14 +202796,14 @@ np
 verb
 pp
 np
-215911	np
+215757	np
 adv
 verb
 conj
 noun
 adv
 verb
-215919	noun
+215765	noun
 conj
 verb
 pp
@@ -202826,8 +202826,8 @@ pp
 conj
 verb
 pp
-215943	conj
-215945	np
+conj
+215790	np
 np
 adv
 verb
@@ -202862,11 +202862,11 @@ conj
 verb
 np
 np
-215981	np
+215826	np
 np
 verb
 pron
-215986	conj
+215831	conj
 conj
 verb
 pp
@@ -202878,7 +202878,7 @@ np
 np
 pp
 conj
-215999	np
+np
 np
 np
 verb
@@ -202906,7 +202906,7 @@ verb
 pp
 np
 verb
-216028	np
+215872	np
 noun
 conj
 np
@@ -202922,16 +202922,16 @@ pron
 conj
 adv
 verb
-216045	conj
+215889	conj
 np
 np
 np
-216050	conj
+215894	conj
 np
 conj
 np
 np
-216056	verb
+verb
 adv
 np
 verb
@@ -202956,10 +202956,10 @@ np
 verb
 np
 verb
-216082	np
+215925	np
 verb
 pron
-216086	verb
+verb
 pron
 verb
 pp
@@ -202967,7 +202967,7 @@ np
 np
 pp
 conj
-216095	np
+215937	np
 verb
 pron
 verb
@@ -202993,7 +202993,7 @@ conj
 verb
 pron
 verb
-216122	verb
+verb
 np
 verb
 pp
@@ -203034,27 +203034,27 @@ verb
 conj
 pron
 np
-216164	pron
+pron
 pron
 verb
 adj
-216169	adj
+adj
 adj
 conj
 adv
-216174	np
+216013	np
 np
 verb
-216178	adv
-verb
 adv
 verb
 adv
 verb
 adv
 verb
+adv
 verb
-216188	np
+verb
+216026	np
 np
 conj
 np
@@ -203086,10 +203086,10 @@ noun
 pp
 np
 conj
-216221	verb
+verb
 verb
 pron
-216225	det
+det
 conj
 verb
 pron
@@ -203104,7 +203104,7 @@ conj
 pron
 np
 verb
-216241	advp
+advp
 np
 verb
 pp
@@ -203112,7 +203112,7 @@ np
 np
 np
 verb
-216250	adj
+216085	adj
 conj
 verb
 noun
@@ -203161,9 +203161,9 @@ pron
 conj
 adj
 verb
-216300	pron
+pron
 verb
-216303	conj
+216137	conj
 conj
 conj
 conj
@@ -203181,7 +203181,7 @@ np
 np
 conj
 pp
-216322	np
+216156	np
 verb
 np
 verb
@@ -203189,7 +203189,7 @@ conj
 np
 verb
 pp
-216331	verb
+216165	verb
 verb
 pp
 conj
@@ -203201,7 +203201,7 @@ np
 np
 np
 np
-216346	verb
+216180	verb
 conj
 np
 conj
@@ -203233,7 +203233,7 @@ conj
 adv
 verb
 verb
-216379	verb
+verb
 conj
 pp
 verb
@@ -203256,12 +203256,12 @@ verb
 conj
 pron
 conj
-216403	np
+216236	np
 verb
 conj
 verb
 verb
-216409	np
+216242	np
 verb
 pron
 conj
@@ -203284,7 +203284,7 @@ verb
 pron
 verb
 pp
-216433	verb
+verb
 conj
 pron
 verb
@@ -203303,7 +203303,7 @@ conj
 np
 verb
 pron
-216453	verb
+verb
 np
 np
 verb
@@ -203341,7 +203341,7 @@ conj
 pron
 adj
 conj
-216492	verb
+verb
 verb
 np
 pron
@@ -203369,7 +203369,7 @@ pron
 verb
 verb
 conj
-216521	conj
+conj
 verb
 pp
 np
@@ -203420,7 +203420,7 @@ noun
 np
 verb
 conj
-216573	conj
+conj
 pron
 pron
 verb
@@ -203445,9 +203445,9 @@ conj
 np
 np
 np
-216599	conj
+216427	conj
 verb
-216602	verb
+verb
 conj
 pron
 pron
@@ -203475,7 +203475,7 @@ np
 verb
 pp
 np
-216631	verb
+216458	verb
 pron
 noun
 conj
@@ -203520,7 +203520,7 @@ conj
 verb
 verb
 pron
-216677	np
+np
 np
 pron
 verb
@@ -203542,7 +203542,7 @@ verb
 conj
 verb
 pron
-216700	ptcl
+ptcl
 np
 conj
 pp
@@ -203573,9 +203573,9 @@ conj
 np
 verb
 verb
-216732	noun
+noun
 verb
-216735	np
+np
 np
 pron
 verb
@@ -203587,7 +203587,7 @@ pron
 conj
 np
 verb
-216748	verb
+216571	verb
 pron
 adv
 verb
@@ -203598,7 +203598,7 @@ adv
 verb
 verb
 pron
-216760	pp
+pp
 np
 np
 verb
@@ -203620,7 +203620,7 @@ pron
 adv
 verb
 conj
-216783	pp
+pp
 adv
 verb
 np
@@ -203634,7 +203634,7 @@ verb
 conj
 verb
 verb
-216798	verb
+216619	verb
 pp
 np
 conj
@@ -203663,7 +203663,7 @@ pron
 verb
 verb
 conj
-216828	np
+216649	np
 np
 np
 adv
@@ -203685,13 +203685,13 @@ adv
 verb
 pp
 conj
-216852	verb
+verb
 conj
 verb
 pp
-216857	conj
+216676	conj
 pp
-216860	np
+216679	np
 verb
 noun
 verb
@@ -203705,7 +203705,7 @@ np
 pp
 verb
 verb
-216875	verb
+verb
 pp
 np
 adv
@@ -203715,7 +203715,7 @@ verb
 pron
 verb
 conj
-216886	conj
+conj
 pron
 pron
 verb
@@ -203727,14 +203727,14 @@ conj
 np
 np
 verb
-216899	verb
+verb
 conj
 verb
 verb
 conj
 verb
 pron
-216907	verb
+verb
 conj
 pron
 np
@@ -203765,7 +203765,7 @@ pp
 np
 verb
 np
-216939	verb
+verb
 conj
 pron
 verb
@@ -203773,7 +203773,7 @@ np
 np
 pp
 np
-216948	verb
+verb
 conj
 pron
 adv
@@ -203794,16 +203794,16 @@ np
 np
 pp
 np
-216970	pron
+pron
 verb
 noun
 verb
 verb
-216976	verb
+216788	verb
 np
 pp
 np
-216981	pp
+216793	pp
 noun
 conj
 noun
@@ -203825,13 +203825,13 @@ verb
 verb
 verb
 pron
-217004	conj
+conj
 pron
 verb
 np
 verb
 conj
-217011	conj
+conj
 verb
 verb
 np
@@ -203847,31 +203847,31 @@ np
 np
 np
 pp
-adv
-conj
-verb
-pp
-np
-conj
-217034	verb
-noun
-pp
-conj
-217039	verb
-np
-np
-noun
-pron
-conj
-verb
-pron
-conj
-verb
-pron
 adv
 conj
 verb
-217054	conj
+pp
+np
+conj
+216844	verb
+noun
+pp
+conj
+216849	verb
+np
+np
+noun
+pron
+conj
+verb
+pron
+conj
+verb
+pron
+adv
+conj
+verb
+216864	conj
 np
 np
 np
@@ -203899,7 +203899,7 @@ verb
 verb
 verb
 pron
-217083	verb
+216893	verb
 conj
 verb
 np
@@ -203916,7 +203916,7 @@ np
 pp
 pp
 np
-217101	np
+216911	np
 conj
 conj
 np
@@ -203928,7 +203928,7 @@ np
 np
 np
 conj
-217114	adv
+adv
 verb
 pron
 verb
@@ -203939,30 +203939,30 @@ verb
 pron
 verb
 conj
-217126	verb
+verb
 pp
 np
 np
-217131	verb
+verb
 pron
-np
-pp
-np
-conj
-verb
-verb
-217140	np
-conj
 np
 pp
 np
 conj
 verb
 verb
+216947	np
+conj
+np
+pp
+np
+conj
+verb
+verb
 pp
 verb
 pron
-217152	pp
+216959	pp
 np
 pron
 verb
@@ -203977,14 +203977,14 @@ verb
 conj
 verb
 pp
-217168	verb
+216975	verb
 pron
 pron
 noun
 conj
 verb
 pron
-217176	np
+216983	np
 np
 pp
 verb
@@ -203996,7 +203996,7 @@ verb
 pp
 verb
 conj
-217189	conj
+conj
 verb
 pp
 verb
@@ -204004,7 +204004,7 @@ pp
 adv
 verb
 pron
-217199	conj
+conj
 conj
 verb
 pp
@@ -204077,7 +204077,7 @@ verb
 det
 conj
 pron
-217273	conj
+217077	conj
 verb
 adj
 conj
@@ -204094,10 +204094,10 @@ conj
 np
 np
 np
-217291	pron
+pron
 verb
-217294	verb
-217296	np
+verb
+217098	np
 np
 np
 adv
@@ -204110,7 +204110,7 @@ np
 verb
 pp
 verb
-217310	pron
+pron
 verb
 np
 verb
@@ -204132,7 +204132,7 @@ pron
 np
 np
 np
-217333	verb
+217134	verb
 conj
 verb
 np
@@ -204156,7 +204156,7 @@ conj
 verb
 np
 verb
-217358	pron
+pron
 verb
 verb
 pron
@@ -204175,8 +204175,8 @@ verb
 verb
 pron
 conj
-217378	verb
-217380	np
+verb
+217179	np
 conj
 np
 verb
@@ -204196,7 +204196,7 @@ verb
 np
 np
 conj
-217401	verb
+verb
 verb
 np
 verb
@@ -204209,7 +204209,7 @@ np
 conj
 verb
 pron
-217415	np
+217213	np
 conj
 np
 np
@@ -204222,9 +204222,9 @@ noun
 verb
 conj
 adv
-217429	conj
+217227	conj
 conj
-217432	verb
+217230	verb
 noun
 conj
 pp
@@ -204250,7 +204250,7 @@ pron
 noun
 np
 verb
-217459	conj
+217257	conj
 det
 conj
 verb
@@ -204282,205 +204282,205 @@ np
 verb
 verb
 conj
+217290	np
+np
+verb
+noun
+adv
+verb
+verb
+pron
+verb
+noun
+noun
+verb
+pron
+conj
+217305	np
+verb
+verb
+noun
+conj
+pron
+adj
+verb
+conj
+verb
+np
+np
+np
+conj
+verb
+noun
+np
+np
+np
+conj
+verb
+conj
+np
+verb
+noun
+verb
+adj
+conj
+217334	np
+conj
+np
+verb
+pron
+217340	adv
+conj
+np
+np
+adv
+verb
+noun
+conj
+verb
+adj
+np
+np
+verb
+np
+conj
+pp
+np
+np
+np
+verb
+np
+conj
+verb
+pron
+noun
+conj
+verb
+pron
+np
+217370	np
+np
+np
+np
+217375	conj
+conj
+verb
+217379	np
+np
+verb
+conj
+217384	np
+np
+pp
+217388	conj
+conj
+adv
+conj
+verb
+adv
+verb
+217396	adj
+conj
+verb
+conj
+np
+verb
+np
+np
+verb
+conj
+conj
+verb
+np
+np
+verb
+pp
+np
+conj
+verb
+noun
+np
+np
+conj
+np
+conj
+np
+noun
+conj
+adv
+verb
+adj
+conj
+verb
+adj
+conj
+pron
+verb
+verb
+conj
+np
+np
+verb
+noun
+adv
+verb
+adv
+conj
+verb
+verb
+pron
+adj
+verb
+conj
+pp
+adv
+verb
+np
+verb
+np
+np
+conj
+verb
+pp
+np
+verb
+noun
+np
+np
+verb
+pp
+np
+conj
+verb
+np
+np
+np
+np
+np
+noun
+conj
+pron
+noun
+verb
+conj
+adv
+np
+verb
+verb
+conj
+np
+np
+verb
+np
+verb
+pp
 217492	np
-np
-verb
-noun
-adv
-verb
-verb
-pron
-verb
-noun
-noun
-verb
-pron
-conj
-217507	np
-verb
-verb
-noun
-conj
-pron
-adj
-verb
-conj
-verb
-np
-np
-np
-conj
-verb
-noun
-np
-np
-np
-conj
-verb
-conj
-np
-verb
-noun
-verb
-adj
-conj
-217536	np
-conj
-np
-verb
-pron
-217542	adv
-conj
-np
-np
-adv
-verb
-noun
-conj
-verb
-adj
-np
-np
-verb
-217556	np
-conj
-pp
-np
-np
-np
-verb
-np
-conj
-verb
-pron
-noun
-conj
-verb
-pron
-np
-217573	np
-np
-np
-np
-217578	conj
-conj
-verb
-217582	np
-np
-verb
-conj
-217587	np
-np
-pp
-217591	conj
-conj
-217594	adv
-conj
-verb
-adv
-verb
-217600	adj
-conj
-verb
-conj
-np
-verb
-np
-np
-verb
-conj
-conj
-verb
-np
-np
-verb
-pp
-np
-conj
-verb
-noun
-np
-np
-conj
-np
-conj
-np
-217627	noun
-conj
-adv
-verb
-adj
-conj
-verb
-adj
-conj
-pron
-verb
-verb
-conj
-np
-np
-verb
-noun
-adv
-verb
-adv
-conj
-verb
-verb
-pron
-adj
-verb
-conj
-pp
-adv
-verb
-np
-verb
-np
-np
-conj
-verb
-pp
-np
-verb
-noun
-np
-np
-217670	verb
-pp
-np
-conj
-verb
-np
-np
-np
-np
-np
-noun
-conj
-pron
-noun
-verb
-conj
-adv
-np
-verb
-217690	verb
-conj
-np
-np
-verb
-np
-verb
-pp
-217700	np
 verb
 verb
 pp
 conj
 verb
-217707	np
+217499	np
 pp
 np
 conj
@@ -204526,7 +204526,7 @@ adv
 verb
 pron
 conj
-217754	np
+217546	np
 np
 np
 adjp
@@ -204546,27 +204546,27 @@ np
 np
 np
 np
-217775	pron
+pron
 verb
 verb
 conj
-217780	pron
+pron
 verb
 pp
 np
 conj
-217786	np
+217576	np
 conj
 verb
 verb
-217791	pron
+pron
 verb
 verb
 noun
 pp
 adv
 verb
-217799	pp
+pp
 pron
 adv
 verb
@@ -204589,7 +204589,7 @@ verb
 det
 conj
 verb
-217823	verb
+verb
 conj
 verb
 adj
@@ -204599,7 +204599,7 @@ pp
 np
 np
 verb
-217834	pron
+217621	pron
 verb
 conj
 np
@@ -204607,10 +204607,10 @@ verb
 adv
 verb
 pp
-217843	conj
+conj
 conj
 verb
-217847	conj
+217633	conj
 adv
 verb
 verb
@@ -204625,20 +204625,20 @@ np
 adv
 verb
 pron
-217864	verb
+217649	verb
 noun
 pp
 conj
 noun
 pp
-217871	np
+217656	np
 conj
 conj
 np
 pp
-217877	conj
+217662	conj
 verb
-217880	conj
+217665	conj
 conj
 np
 pp
@@ -204656,10 +204656,10 @@ verb
 verb
 pp
 np
-217899	conj
+217684	conj
 verb
 pp
-217903	conj
+217688	conj
 pp
 np
 np
@@ -204678,11 +204678,11 @@ pron
 conj
 verb
 pron
-217924	conj
+217708	conj
 pron
 adv
 verb
-217929	verb
+217713	verb
 conj
 verb
 np
@@ -204717,7 +204717,7 @@ np
 verb
 np
 np
-217965	conj
+conj
 conj
 verb
 verb
@@ -204729,7 +204729,7 @@ conj
 verb
 np
 np
-217978	adv
+adv
 np
 pp
 np
@@ -204756,14 +204756,14 @@ verb
 np
 verb
 ptcl
-218006	pp
+217788	pp
 verb
 conj
 verb
 pp
 np
 np
-218014	verb
+217796	verb
 conj
 np
 pp
@@ -204789,23 +204789,23 @@ pron
 verb
 np
 conj
-218042	verb
-noun
-pp
-conj
-conj
-conj
-pp
-np
-np
-pp
-np
-np
-218055	conj
 verb
 noun
 pp
-218060	conj
+conj
+conj
+conj
+pp
+np
+np
+pp
+np
+np
+217835	conj
+verb
+noun
+pp
+217840	conj
 np
 verb
 np
@@ -204824,7 +204824,7 @@ verb
 pp
 pp
 np
-218080	conj
+217860	conj
 verb
 conj
 pron
@@ -204843,11 +204843,11 @@ verb
 noun
 pron
 verb
-218100	np
+217880	np
 conj
 np
 np
-218105	conj
+conj
 verb
 adv
 verb
@@ -204881,7 +204881,7 @@ np
 conj
 adj
 verb
-218140	np
+217919	np
 conj
 np
 verb
@@ -204893,7 +204893,7 @@ verb
 verb
 conj
 pron
-218153	ptcl
+217932	ptcl
 adv
 verb
 np
@@ -204926,8 +204926,8 @@ np
 verb
 conj
 verb
-218187	verb
-218189	np
+217966	verb
+217968	np
 verb
 verb
 conj
@@ -204946,7 +204946,7 @@ conj
 verb
 verb
 pp
-218209	np
+217988	np
 verb
 noun
 conj
@@ -204960,14 +204960,14 @@ verb
 pron
 verb
 conj
-218224	np
+218003	np
 np
 np
 verb
 noun
 conj
-218231	verb
-218233	np
+verb
+218011	np
 conj
 np
 adv
@@ -204981,7 +204981,7 @@ conj
 noun
 pp
 np
-218248	verb
+218026	verb
 noun
 verb
 pp
@@ -204992,7 +204992,7 @@ conj
 verb
 verb
 np
-218260	conj
+218038	conj
 adv
 pron
 verb
@@ -205016,7 +205016,7 @@ pron
 verb
 conj
 np
-218285	np
+np
 np
 pron
 verb
@@ -205024,9 +205024,9 @@ verb
 np
 conj
 verb
-218294	conj
+218071	conj
 verb
-218297	verb
+verb
 verb
 pron
 np
@@ -205036,7 +205036,7 @@ det
 conj
 verb
 pron
-218308	adv
+adv
 verb
 verb
 det
@@ -205057,7 +205057,7 @@ verb
 pron
 pp
 np
-218330	pp
+pp
 verb
 conj
 verb
@@ -205067,7 +205067,7 @@ np
 verb
 pron
 np
-218341	adv
+adv
 verb
 np
 adv
@@ -205084,7 +205084,7 @@ np
 verb
 adv
 verb
-218359	verb
+verb
 conj
 verb
 conj
@@ -205133,7 +205133,7 @@ verb
 noun
 verb
 verb
-218409	verb
+218181	verb
 pron
 conj
 verb
@@ -205164,9 +205164,9 @@ conj
 verb
 pron
 verb
-218441	pron
+pron
 verb
-218444	np
+218215	np
 np
 pp
 verb
@@ -205181,7 +205181,7 @@ adv
 pp
 verb
 verb
-218462	np
+218232	np
 np
 np
 np
@@ -205201,7 +205201,7 @@ pp
 pp
 np
 conj
-218483	np
+218253	np
 np
 conj
 np
@@ -205210,7 +205210,7 @@ verb
 verb
 conj
 ptcl
-218493	np
+np
 np
 pp
 verb
@@ -205229,7 +205229,7 @@ verb
 verb
 conj
 np
-218513	pp
+218282	pp
 np
 verb
 verb
@@ -205238,7 +205238,7 @@ det
 conj
 verb
 pron
-218523	np
+218292	np
 np
 np
 verb
@@ -205253,7 +205253,7 @@ conj
 adv
 adv
 conj
-218539	np
+218308	np
 np
 pp
 verb
@@ -205268,7 +205268,7 @@ verb
 pron
 conj
 adj
-218555	verb
+218324	verb
 conj
 verb
 verb
@@ -205288,7 +205288,7 @@ pp
 pp
 np
 np
-218576	pron
+pron
 verb
 pron
 conj
@@ -205298,7 +205298,7 @@ np
 np
 noun
 conj
-218587	conj
+218355	conj
 pp
 np
 np
@@ -205313,7 +205313,7 @@ np
 np
 verb
 np
-218604	noun
+noun
 noun
 verb
 np
@@ -205346,7 +205346,7 @@ noun
 pp
 adj
 verb
-218638	pp
+218404	pp
 pp
 conj
 pp
@@ -205354,10 +205354,10 @@ verb
 det
 conj
 verb
-218647	verb
+verb
 pron
 noun
-218651	adv
+adv
 verb
 adv
 noun
@@ -205370,7 +205370,7 @@ verb
 conj
 verb
 pron
-218665	conj
+conj
 verb
 pron
 pp
@@ -205405,12 +205405,12 @@ verb
 conj
 pron
 conj
-218701	np
+218464	np
 verb
 verb
 verb
 pp
-218707	conj
+conj
 pp
 verb
 np
@@ -205469,14 +205469,14 @@ np
 verb
 verb
 noun
-218767	conj
+conj
 verb
 verb
 np
 np
 pp
 conj
-218775	np
+218536	np
 np
 conj
 np
@@ -205504,7 +205504,7 @@ verb
 pp
 np
 conj
-218804	verb
+218565	verb
 pp
 np
 verb
@@ -205518,7 +205518,7 @@ np
 conj
 verb
 pron
-218819	pron
+pron
 verb
 verb
 verb
@@ -205532,7 +205532,7 @@ verb
 verb
 noun
 conj
-218835	verb
+218595	verb
 noun
 np
 np
@@ -205564,7 +205564,7 @@ verb
 pp
 conj
 verb
-218868	np
+218628	np
 pp
 np
 np
@@ -205598,12 +205598,12 @@ conj
 np
 np
 conj
-218903	conj
+conj
 pp
 verb
 pp
-218908	conj
-218910	pp
+218667	conj
+pp
 verb
 pron
 pp
@@ -205616,7 +205616,7 @@ pp
 conj
 pron
 verb
-218924	np
+218682	np
 np
 conj
 np
@@ -205636,7 +205636,7 @@ np
 conj
 verb
 adv
-218945	verb
+218703	verb
 conj
 noun
 pp
@@ -205647,7 +205647,7 @@ verb
 verb
 np
 np
-218957	verb
+218715	verb
 conj
 pron
 np
@@ -205685,13 +205685,13 @@ noun
 adv
 verb
 conj
-218996	verb
+verb
 np
 np
 np
 verb
 verb
-219003	pp
+pp
 np
 pp
 verb
@@ -205719,7 +205719,7 @@ np
 verb
 np
 conj
-219032	verb
+verb
 np
 np
 np
@@ -205738,7 +205738,7 @@ adv
 verb
 adv
 conj
-219052	np
+218807	np
 verb
 pron
 verb
@@ -205760,11 +205760,11 @@ verb
 verb
 pp
 conj
-219075	conj
+conj
 verb
 noun
 verb
-219080	np
+218834	np
 np
 np
 conj
@@ -205776,7 +205776,7 @@ pp
 np
 np
 verb
-219093	conj
+conj
 pron
 verb
 np
@@ -205785,12 +205785,12 @@ pron
 verb
 conj
 pron
-219103	conj
+conj
 pron
 verb
 advp
 verb
-219109	conj
+conj
 conj
 verb
 advp
@@ -205852,7 +205852,7 @@ conj
 verb
 pron
 verb
-219172	pron
+218923	pron
 verb
 verb
 np
@@ -205865,7 +205865,7 @@ verb
 conj
 verb
 pron
-219186	verb
+218937	verb
 np
 conj
 verb
@@ -205887,7 +205887,7 @@ np
 conj
 verb
 pp
-219209	np
+218960	np
 conj
 np
 adj
@@ -205909,7 +205909,7 @@ np
 np
 adv
 verb
-219232	pp
+218983	pp
 np
 pp
 noun
@@ -205936,13 +205936,13 @@ pp
 pp
 np
 np
-219260	np
+np
 conj
 verb
 np
 verb
 adv
-219267	vp
+219017	vp
 conj
 pp
 np
@@ -205969,13 +205969,13 @@ verb
 pron
 verb
 conj
-219295	np
+219045	np
 conj
 np
 adv
 verb
 pron
-219302	verb
+219052	verb
 conj
 pron
 np
@@ -205989,10 +205989,10 @@ np
 verb
 pron
 np
-219317	verb
+verb
 conj
 adj
-219321	np
+219070	np
 conj
 conj
 np
@@ -206008,14 +206008,14 @@ pp
 noun
 conj
 verb
-219338	np
+219087	np
 conj
 np
 conj
 np
 verb
 pp
-219346	verb
+219095	verb
 pron
 np
 np
@@ -206037,7 +206037,7 @@ pron
 verb
 pp
 conj
-219369	adv
+adv
 noun
 verb
 conj
@@ -206057,7 +206057,7 @@ verb
 conj
 adv
 verb
-219390	verb
+219138	verb
 pron
 verb
 conj
@@ -206066,7 +206066,7 @@ np
 pron
 vp
 pp
-219400	np
+219148	np
 np
 verb
 pp
@@ -206086,7 +206086,7 @@ det
 conj
 verb
 verb
-219421	verb
+verb
 verb
 pron
 det
@@ -206094,7 +206094,7 @@ conj
 adj
 verb
 pp
-219431	np
+np
 conj
 verb
 pron
@@ -206125,8 +206125,8 @@ np
 np
 verb
 conj
-219463	pp
-219465	conj
+pp
+219209	conj
 verb
 pp
 pron
@@ -206142,7 +206142,7 @@ verb
 pron
 verb
 np
-219482	np
+219226	np
 verb
 pp
 verb
@@ -206156,10 +206156,10 @@ conj
 pron
 np
 np
-219497	np
+219241	np
 conj
-219500	pron
-219502	conj
+pron
+219245	conj
 pron
 verb
 conj
@@ -206171,7 +206171,7 @@ adv
 verb
 pp
 conj
-219515	pp
+pp
 verb
 conj
 pp
@@ -206180,27 +206180,27 @@ np
 conj
 verb
 verb
-219525	pp
+pp
 verb
 adj
-219529	np
+219270	np
 conj
 np
-219533	pron
+pron
 adv
 verb
 conj
-219538	pron
+pron
 adv
 verb
 adv
 verb
-219544	verb
+219283	verb
 np
 verb
 pp
 conj
-219550	np
+np
 verb
 pron
 conj
@@ -206221,16 +206221,16 @@ np
 pp
 verb
 conj
-219572	conj
+conj
 verb
 pp
-219576	np
+219313	np
 verb
 noun
 adv
 verb
-219582	conj
-219584	np
+219319	conj
+np
 pron
 conj
 pp
@@ -206263,29 +206263,29 @@ conj
 np
 np
 verb
-219618	adj
+adj
 verb
-219621	verb
-pron
-conj
-pron
-verb
-219627	np
-np
-np
-np
-verb
-conj
-pron
-np
-np
-verb
-219638	noun
 verb
 pron
 conj
+pron
 verb
-219644	conj
+219361	np
+np
+np
+np
+verb
+conj
+pron
+np
+np
+verb
+219372	noun
+verb
+pron
+conj
+verb
+conj
 pron
 verb
 np
@@ -206308,18 +206308,18 @@ np
 verb
 verb
 pron
-219668	pron
+pron
 verb
 np
 verb
-219673	conj
+219405	conj
 verb
 conj
 np
 verb
 pron
 verb
-219681	adv
+219413	adv
 verb
 pron
 np
@@ -206329,7 +206329,7 @@ np
 np
 verb
 conj
-219693	pron
+219424	pron
 conj
 adv
 adjp
@@ -206354,7 +206354,7 @@ np
 conj
 verb
 pron
-219719	pron
+pron
 verb
 adv
 pp
@@ -206367,7 +206367,7 @@ adv
 np
 np
 conj
-219734	noun
+219463	noun
 verb
 pp
 np
@@ -206424,12 +206424,12 @@ np
 verb
 verb
 conj
-219792	np
+219521	np
 np
 adjp
 pp
 conj
-219798	verb
+219527	verb
 pron
 pp
 np
@@ -206437,23 +206437,23 @@ verb
 pron
 conj
 verb
-219807	np
-219809	np
+np
+np
 np
 noun
 noun
-219814	verb
+219541	verb
 np
 conj
 pron
 adv
 vp
 np
-219822	np
+219549	np
 conj
 np
 pp
-219827	np
+219554	np
 np
 pron
 verb
@@ -206468,7 +206468,7 @@ np
 np
 np
 conj
-219843	verb
+219570	verb
 verb
 pron
 noun
@@ -206476,274 +206476,274 @@ conj
 verb
 pron
 pp
+np
+adv
+adv
+vp
+adj
+adv
+conj
+np
+verb
+conj
+noun
+verb
+verb
+conj
+np
+pron
+vp
+pp
+np
+pron
+verb
+219600	np
+conj
+conj
+verb
+np
+np
+verb
+conj
+verb
+219610	conj
+conj
+np
+conj
+verb
+pp
+np
+np
+conj
+np
+np
+np
+pp
+np
+verb
+verb
+pron
+verb
+noun
+verb
+conj
+np
+verb
+pp
+np
+verb
+conj
+adv
+verb
+np
+np
+219642	np
+conj
+verb
+pp
+verb
+pron
+pp
+conj
+verb
+np
+verb
+pron
+pp
+np
+verb
+adj
+conj
+verb
+pron
+conj
+verb
+np
+pp
+np
+verb
+pp
+pron
+verb
+verb
+pp
+np
+219674	verb
+adv
+conj
+verb
+verb
+conj
+verb
+pron
+adv
+verb
+pp
+np
+verb
+np
+np
+np
+conj
+verb
+verb
+pp
+np
+np
+conj
+verb
+conj
+np
+np
+verb
+conj
+verb
+np
+np
+conj
+verb
+pp
+np
+verb
+np
+219713	np
+conj
+np
+np
+verb
+conj
+219721	np
+conj
+conj
+219725	np
+conj
+np
+np
+pp
+verb
+pp
+np
+pron
+conj
+verb
+pp
+pp
+conj
+np
+np
+conj
+verb
+pron
+np
+conj
+verb
+verb
+pp
+np
+conj
+verb
+verb
+np
+adj
+conj
+verb
+pp
+verb
+verb
+conj
+verb
+np
+pp
+pp
+np
+np
+vp
+pp
+np
+verb
+np
+pp
+pron
+noun
+noun
+conj
+pron
+verb
+pp
+pp
+np
+np
+verb
+conj
+verb
+pp
+verb
+pron
+conj
+verb
+conj
+np
+verb
+verb
+pron
+np
+conj
+np
+verb
+adv
+verb
+pron
+verb
+conj
+pp
+pron
+np
+np
+pron
+verb
+pp
+verb
+conj
+verb
+adj
+verb
+conj
+np
+noun
+noun
+verb
+pp
+219824	pron
+adj
+verb
+noun
+conj
+adv
+verb
+verb
+pp
+pp
+np
+np
+conj
+verb
+pron
+pron
+det
+conj
+verb
+pron
+219845	np
+pp
+219848	np
+pron
+verb
 219852	np
-adv
-adv
-vp
-adj
-adv
-conj
-np
-verb
-conj
-noun
-verb
-verb
-conj
-np
-219868	pron
-vp
-pp
-np
-pron
-verb
-219875	np
-conj
-conj
-verb
-np
-np
-verb
-conj
-verb
-219885	conj
-conj
-np
-conj
-verb
-pp
-np
-np
-conj
-np
-np
-np
-pp
-np
-verb
-verb
-219902	pron
-verb
-noun
-verb
-conj
-np
-verb
-pp
-np
-verb
-conj
-adv
-verb
-np
-np
-219918	np
-conj
-verb
-pp
-verb
-pron
-pp
-conj
-verb
-np
-verb
-pron
-pp
-np
-verb
-219934	adj
-conj
-verb
-pron
-conj
-verb
-np
-pp
-np
-verb
-pp
-pron
-verb
-verb
-pp
-np
-219951	verb
-adv
-conj
-verb
-verb
-conj
-verb
-pron
-adv
-verb
-pp
-np
-verb
-np
-np
-np
-conj
-verb
-verb
-pp
-np
-np
-conj
-verb
-conj
-np
-np
-verb
-conj
-verb
-np
-np
-conj
-verb
-pp
-np
-verb
-np
-219990	np
-conj
-np
-np
-verb
-conj
-219998	np
-conj
-conj
-220002	np
-conj
-np
-np
-pp
-verb
-pp
-np
-pron
-conj
-verb
-pp
-pp
-conj
-np
-np
-conj
-verb
-pron
-np
-conj
-verb
-verb
-pp
-np
-conj
-verb
-verb
-np
-adj
-conj
-verb
-pp
-verb
-verb
-conj
-verb
-np
-pp
-pp
-np
-np
-vp
-pp
-220047	np
-verb
-np
-pp
-pron
-noun
-noun
-conj
-pron
-verb
-pp
-pp
-np
-np
-verb
-conj
-verb
-pp
-verb
-pron
-conj
-verb
-conj
-np
-verb
-verb
-pron
-np
-conj
-np
-verb
-adv
-verb
-pron
-verb
-conj
-pp
-pron
-220086	np
-np
-pron
-verb
-pp
-verb
-conj
-verb
-adj
-verb
-conj
-np
-noun
-noun
-verb
-pp
-220103	pron
-adj
-verb
-noun
-conj
-adv
-verb
-verb
-pp
-pp
-np
-np
-conj
-verb
-pron
-pron
-det
-conj
-verb
-pron
-220124	np
-pp
-220128	np
-pron
-verb
-220132	np
 adjp
 pp
-220136	conj
+219856	conj
 pp
-220139	np
+219859	np
 conj
 np
 np
@@ -206751,7 +206751,7 @@ adv
 conj
 verb
 pron
-220148	np
+219868	np
 conj
 np
 np
@@ -206787,7 +206787,7 @@ np
 pp
 verb
 pron
-220185	verb
+219905	verb
 adj
 pp
 np
@@ -206813,7 +206813,7 @@ pp
 pp
 np
 conj
-220213	verb
+219932	verb
 adv
 conj
 np
@@ -206828,7 +206828,7 @@ pron
 verb
 pp
 np
-220229	conj
+219948	conj
 np
 np
 np
@@ -206849,7 +206849,7 @@ np
 np
 conj
 verb
-220251	pp
+219970	pp
 conj
 pp
 np
@@ -206865,7 +206865,7 @@ conj
 verb
 pp
 np
-220268	adv
+adv
 verb
 conj
 pron
@@ -206876,10 +206876,10 @@ conj
 verb
 pron
 verb
-220280	verb
+verb
 pp
 conj
-220284	pp
+220001	pp
 verb
 conj
 verb
@@ -206890,7 +206890,7 @@ verb
 verb
 pp
 conj
-220296	verb
+verb
 pp
 verb
 pron
@@ -206917,11 +206917,11 @@ pp
 conj
 verb
 pp
-220324	np
+np
 np
 vp
 pp
-220329	conj
+conj
 verb
 pron
 pp
@@ -206939,7 +206939,7 @@ pp
 conj
 verb
 verb
-220348	np
+220062	np
 conj
 np
 pp
@@ -206954,7 +206954,7 @@ noun
 conj
 pron
 verb
-220364	np
+220078	np
 pp
 np
 conj
@@ -206978,7 +206978,7 @@ verb
 pron
 noun
 pron
-220389	verb
+220103	verb
 conj
 conj
 adj
@@ -206989,7 +206989,7 @@ verb
 conj
 verb
 pron
-220401	pron
+220115	pron
 vp
 conj
 pp
@@ -206999,7 +206999,7 @@ pp
 np
 np
 verb
-220412	np
+220126	np
 np
 conj
 np
@@ -207014,7 +207014,7 @@ conj
 verb
 conj
 noun
-220428	conj
+220142	conj
 adv
 verb
 conj
@@ -207026,10 +207026,10 @@ pron
 verb
 verb
 pron
-220441	np
+220155	np
 conj
 np
-220445	adv
+adv
 conj
 verb
 pron
@@ -207057,7 +207057,7 @@ conj
 pp
 pron
 np
-220474	np
+np
 pron
 verb
 pp
@@ -207069,11 +207069,11 @@ verb
 np
 verb
 pp
-220487	np
+220199	np
 np
 conj
 np
-220492	conj
+220204	conj
 pp
 adv
 verb
@@ -207087,7 +207087,7 @@ pron
 conj
 adv
 verb
-220507	verb
+220219	verb
 np
 conj
 verb
@@ -207189,7 +207189,7 @@ conj
 pp
 verb
 adv
-220610	pron
+pron
 verb
 pp
 noun
@@ -207210,14 +207210,14 @@ np
 pron
 adv
 verb
-220632	verb
+verb
 np
 verb
 pp
 noun
 pron
 noun
-220640	pron
+pron
 verb
 pp
 conj
@@ -207228,7 +207228,7 @@ conj
 adj
 verb
 pp
-220652	verb
+220361	verb
 pron
 np
 conj
@@ -207237,7 +207237,7 @@ verb
 pp
 np
 vp
-220662	np
+np
 np
 np
 pron
@@ -207245,32 +207245,32 @@ verb
 np
 pp
 np
-220671	pp
+220379	pp
 np
 verb
 conj
 np
 pp
-verb
-conj
-np
-pron
-adv
-verb
-pp
-np
 verb
 conj
 np
 pron
 adv
 verb
+pp
+np
+verb
+conj
+np
+pron
+adv
+verb
 pron
 conj
 verb
 pron
 verb
-220698	noun
+220405	noun
 np
 verb
 verb
@@ -207278,7 +207278,7 @@ pp
 np
 np
 pron
-220707	pp
+220414	pp
 conj
 pp
 np
@@ -207289,7 +207289,7 @@ conj
 pp
 verb
 conj
-220719	np
+220426	np
 noun
 verb
 conj
@@ -207298,7 +207298,7 @@ pp
 conj
 verb
 np
-220729	np
+220436	np
 np
 np
 pp
@@ -207306,7 +207306,7 @@ conj
 np
 pp
 adjp
-220738	conj
+220445	conj
 noun
 verb
 pp
@@ -207326,7 +207326,7 @@ adj
 pron
 verb
 conj
-220759	pp
+pp
 np
 np
 np
@@ -207337,295 +207337,295 @@ conj
 np
 pp
 verb
-220771	np
+220477	np
 conj
 np
 pp
+220482	verb
+noun
+adj
+verb
+adv
+np
+np
+verb
+pp
+np
+np
+np
+pron
+verb
+conj
+pron
+verb
+np
+np
+np
+conj
+verb
+pp
+np
+pp
+220508	conj
+conj
+verb
+pron
+pron
+pron
+verb
+conj
+verb
+conj
+adv
+verb
+conj
+verb
+conj
+pron
+adv
+verb
+np
+conj
+verb
+pron
+pron
+conj
+pron
+noun
+verb
+conj
+verb
+adv
+verb
+np
+verb
+pron
+conj
+verb
+ptcl
+verb
+conj
+pron
+pron
+verb
+conj
+noun
+verb
+verb
+pron
+pron
+verb
+pp
+verb
+pron
+np
+verb
+pp
+np
+verb
+np
+np
+conj
+verb
+220570	np
+conj
+verb
+verb
+pp
+np
+conj
+verb
+pron
+conj
+verb
+pron
+pron
+conj
+verb
+conj
+pron
+adv
+verb
+220590	np
+conj
+conj
+np
+verb
+pron
+np
+verb
+pron
+verb
+pp
+np
+verb
+220604	pron
+pron
+adv
+verb
+pp
+verb
+pron
+adv
+verb
+pron
+adj
+conj
+verb
+np
+np
+np
+np
+pron
+pp
+verb
+pp
+np
+adv
+vp
+np
+np
+verb
+np
+verb
+pp
+conj
+verb
+verb
+220638	np
+np
+np
+verb
+np
+np
+np
+pron
+verb
+pp
+pron
+verb
+pp
+verb
+pron
+pp
+verb
+conj
+adj
+pron
+verb
+pron
+adv
+verb
+pron
+conj
+conj
+verb
+np
+pp
+verb
+pron
+pp
+verb
+conj
+verb
+noun
+verb
+conj
+verb
+np
+verb
+pp
+conj
+pp
+conj
+verb
+pp
+pron
+adv
+verb
+pron
+conj
+verb
+pron
+verb
+pp
+pron
+pron
+verb
+pp
+verb
+np
+220702	conj
+pp
+pron
+verb
+verb
+pp
+np
+pron
+verb
+conj
+verb
+conj
+pron
+verb
+np
+np
+np
+np
+adv
+verb
+220723	np
+conj
+np
+pp
+np
+np
+conj
+verb
+np
+verb
+verb
+verb
+np
+np
+np
+conj
+verb
+np
+np
+pron
+verb
+conj
+verb
+np
+220748	verb
+conj
+np
+conj
+verb
+pron
+verb
+verb
+pron
+pron
+verb
+det
+conj
+verb
+pron
+pron
+verb
+verb
+noun
+adv
+verb
+verb
+pron
+220772	verb
+conj
+verb
 220776	verb
-noun
-adj
-verb
-adv
-np
-np
-verb
-pp
-np
-np
-np
-pron
-verb
-conj
-pron
-verb
-np
-np
-np
-conj
-220798	verb
-pp
-np
-pp
-220803	conj
-conj
-verb
-pron
-pron
-pron
-verb
-conj
-verb
-conj
-adv
-verb
-conj
-verb
-conj
-pron
-adv
-verb
-np
-conj
-verb
-pron
-220826	pron
-conj
-pron
-noun
-verb
-conj
-verb
-adv
-verb
-np
-verb
-pron
-conj
-verb
-ptcl
-verb
-conj
-pron
-220846	pron
-verb
-conj
-noun
-verb
-verb
-pron
-pron
-verb
-pp
-verb
-pron
-np
-verb
-pp
-np
-verb
-np
-np
-conj
-verb
-220868	np
-conj
-verb
-verb
-pp
-np
-conj
-verb
-pron
-conj
-verb
-pron
-pron
-conj
-verb
-conj
-pron
-adv
-verb
-220888	np
-conj
-conj
-np
-verb
-pron
-np
-verb
-220897	pron
-verb
-pp
-np
-verb
-220903	pron
-pron
-adv
-verb
-220908	pp
-verb
-pron
-adv
-verb
-pron
-adj
-conj
-verb
-np
-np
-np
-np
-pron
-pp
-verb
-pp
-np
-220927	adv
-vp
-np
-np
-verb
-np
-verb
-pp
-conj
-verb
-220940	verb
-220942	np
-np
-np
-verb
-np
-np
-np
-pron
-verb
-pp
-pron
-verb
-pp
-verb
-220957	pron
-pp
-verb
-conj
-adj
-pron
-verb
-pron
-adv
-verb
-pron
-conj
-220970	conj
-verb
-np
-pp
-verb
-pron
-pp
-verb
-conj
-verb
-noun
-verb
-conj
-verb
-np
-verb
-pp
-conj
-pp
-conj
-verb
-pp
-pron
-adv
-verb
-pron
-conj
-verb
-pron
-verb
-pp
-pron
-pron
-verb
-221005	pp
-verb
-np
-221009	conj
-pp
-pron
-verb
-verb
-pp
-np
-pron
-verb
-conj
-verb
-conj
-pron
-verb
-np
-np
-np
-np
-adv
-verb
-221030	np
-conj
-np
-pp
-np
-np
-conj
-verb
-np
-verb
-verb
-221042	verb
-np
-np
-np
-conj
-verb
-np
-np
-pron
-verb
-conj
-verb
-np
-221056	verb
-conj
-np
-conj
-verb
-pron
-verb
-verb
-pron
-pron
-verb
-det
-conj
-verb
-pron
-221072	pron
-verb
-verb
-noun
-adv
-verb
-verb
-pron
-221081	verb
-conj
-verb
-221085	verb
 conj
 conj
 verb
@@ -207640,11 +207640,11 @@ noun
 verb
 pp
 verb
-221101	np
+220792	np
 np
-221104	np
+220795	np
 pp
-221107	np
+220798	np
 verb
 pp
 conj
@@ -207653,7 +207653,7 @@ pron
 verb
 pron
 adj
-221117	np
+220808	np
 np
 np
 conj
@@ -207661,7 +207661,7 @@ verb
 pron
 verb
 np
-221126	pron
+pron
 vp
 noun
 verb
@@ -207674,11 +207674,11 @@ np
 verb
 pron
 verb
-221140	np
+220830	np
 np
 pron
 verb
-221145	pron
+pron
 verb
 noun
 np
@@ -207687,7 +207687,7 @@ verb
 pp
 np
 conj
-221155	verb
+220844	verb
 noun
 conj
 verb
@@ -207698,11 +207698,11 @@ pron
 verb
 conj
 np
-221167	pp
+220856	pp
 pp
 np
 np
-221172	conj
+220861	conj
 verb
 noun
 np
@@ -207717,7 +207717,7 @@ np
 conj
 np
 verb
-221189	np
+220878	np
 np
 np
 pp
@@ -207732,7 +207732,7 @@ verb
 verb
 pron
 np
-221205	verb
+220894	verb
 conj
 verb
 verb
@@ -207745,7 +207745,7 @@ verb
 pp
 verb
 adv
-221219	pp
+pp
 noun
 adv
 verb
@@ -207787,7 +207787,7 @@ noun
 conj
 verb
 pron
-221262	conj
+conj
 verb
 pron
 conj
@@ -207804,13 +207804,13 @@ pron
 verb
 pron
 verb
-221280	np
+220967	np
 verb
 conj
 np
 np
 np
-221287	conj
+220974	conj
 pp
 np
 np
@@ -207833,14 +207833,14 @@ adv
 verb
 conj
 np
-221311	np
+220998	np
 conj
 np
 np
 pp
 np
 conj
-221319	verb
+verb
 noun
 verb
 np
@@ -207854,8 +207854,8 @@ conj
 verb
 pron
 np
-221334	pron
-221336	conj
+pron
+221021	conj
 noun
 adv
 verb
@@ -207865,7 +207865,7 @@ verb
 np
 np
 np
-221347	pron
+pron
 verb
 pron
 verb
@@ -207883,7 +207883,7 @@ np
 verb
 pp
 np
-221366	conj
+221050	conj
 verb
 pron
 np
@@ -207897,7 +207897,7 @@ pp
 conj
 verb
 pron
-221381	verb
+221065	verb
 adv
 conj
 verb
@@ -207905,19 +207905,19 @@ np
 det
 conj
 verb
-221390	conj
 conj
-221393	verb
+conj
+221076	verb
 np
-221396	np
+221079	np
 noun
 verb
 conj
-221401	adv
+221084	adv
 verb
 adv
 verb
-221406	np
+221089	np
 conj
 verb
 verb
@@ -207928,7 +207928,7 @@ np
 conj
 verb
 pron
-221418	np
+np
 adj
 np
 np
@@ -207942,7 +207942,7 @@ verb
 np
 np
 pp
-221433	np
+221115	np
 verb
 np
 np
@@ -207962,7 +207962,7 @@ np
 pp
 verb
 pp
-221454	conj
+221136	conj
 np
 np
 conj
@@ -207989,37 +207989,37 @@ conj
 verb
 pp
 np
-221482	verb
-221484	conj
+221164	verb
+221166	conj
 conj
 conj
 np
 verb
 conj
-221492	verb
+221173	verb
 noun
 pp
 adj
 verb
 pp
 np
-221500	np
+221181	np
 conj
 conj
 np
 conj
-221506	np
-np
-verb
-np
-conj
+221187	np
 np
 verb
+np
 conj
 np
 verb
+conj
+np
 verb
-221518	verb
+verb
+verb
 pron
 adv
 adv
@@ -208057,7 +208057,7 @@ noun
 conj
 verb
 pron
-221557	verb
+221237	verb
 np
 np
 conj
@@ -208068,317 +208068,317 @@ pron
 verb
 conj
 np
+221249	np
+conj
+verb
+np
+np
+conj
+pron
+pp
+np
+verb
+pron
+pron
+conj
+verb
+pp
+np
+np
+np
+np
+conj
+conj
+verb
+pp
+verb
+np
+np
+conj
+pron
+verb
+conj
+verb
+221281	np
+conj
+np
+pron
+verb
+np
+conj
+conj
+verb
+pp
+np
+pp
+np
+pp
+np
+adj
+verb
+pp
+np
+np
+verb
+np
+np
+pron
+verb
+np
+conj
+adv
+verb
+pron
+pron
+pp
+pron
+verb
+adj
+conj
+conj
+adv
+noun
+verb
+conj
+pron
+verb
+pp
+np
+pron
+conj
+verb
+pron
+verb
+pp
+np
+verb
+conj
+221336	np
+pp
+np
+noun
+noun
+pron
+np
+np
+pron
+verb
+pp
+noun
+conj
+verb
+pron
+noun
+verb
+conj
+pp
+verb
+noun
+adj
+conj
+verb
+np
+np
+verb
+pron
+pron
+verb
+conj
+adv
+verb
+np
+pp
+verb
+noun
+conj
+verb
+pron
+verb
+pron
+conj
+adv
+pron
+verb
+adv
+adv
+verb
+verb
+np
+np
+np
+verb
+pp
+np
+adv
+verb
+noun
+verb
+noun
+verb
+verb
+221400	pp
+np
+np
+np
+np
+adj
+verb
+conj
+verb
+verb
+noun
+verb
+pron
+conj
+adv
+pron
+verb
+pp
+221419	conj
+adv
+verb
+verb
+pp
+np
+np
+np
+verb
+pp
+np
+noun
+verb
+conj
+verb
+pp
+np
+noun
+verb
+adv
+verb
+conj
+verb
+pron
+verb
+pron
+verb
+adv
+np
+conj
+verb
+verb
+conj
+221453	np
+np
+verb
+conj
+adv
+verb
+221460	adv
+verb
+conj
+adv
+verb
+adv
+verb
+np
+verb
+pp
+np
+verb
+noun
+conj
+verb
+pron
+adv
+verb
+pron
+verb
+verb
+noun
+conj
+verb
+pron
+221486	pron
+verb
+np
+np
+np
+conj
+pron
+adv
+verb
+verb
+pron
+conj
+pron
+verb
+verb
+conj
+pron
+verb
+verb
+conj
+np
+np
+adv
+verb
+conj
+221512	np
+verb
+pron
+conj
+adv
+verb
+adv
+conj
+verb
+pron
+np
+verb
+conj
+adj
+verb
+pp
+np
+conj
+adv
+221532	pp
+np
+verb
+np
+np
+np
+conj
+conj
+noun
+verb
+np
+pp
+np
+adv
+verb
+verb
+np
+np
+np
+conj
+np
+verb
+pp
+verb
+np
+adv
+conj
+verb
+np
+np
+conj
+np
+np
+np
+verb
+conj
 221569	np
-conj
-verb
-np
-np
-conj
-pron
-pp
-np
-verb
-pron
-pron
-conj
-verb
-pp
-np
-np
-np
-np
-221589	conj
-conj
-verb
-pp
-verb
-np
-np
-conj
-pron
-verb
-conj
-verb
-221602	np
-conj
-np
-221606	pron
-verb
-np
-221610	conj
-conj
-verb
-pp
-np
-pp
-np
-pp
-np
-adj
-verb
-pp
-np
-np
-verb
-np
-np
-221628	pron
-verb
-np
-conj
-adv
-verb
-pron
-pron
-pp
-pron
-verb
-adj
-conj
-conj
-221643	adv
-noun
-verb
-conj
-pron
-verb
-pp
-np
-pron
-conj
-verb
-pron
-verb
-pp
-np
-221659	verb
-conj
-221662	np
-pp
-np
-noun
-noun
-pron
-np
-np
-pron
-verb
-pp
-noun
-conj
-verb
-pron
-noun
-verb
-conj
-pp
-verb
-noun
-adj
-conj
-verb
-221687	np
-np
-verb
-pron
-pron
-verb
-conj
-adv
-verb
-np
-pp
-verb
-noun
-conj
-verb
-pron
-verb
-pron
-221706	conj
-adv
-pron
-verb
-adv
-adv
-verb
-verb
-np
-np
-np
-verb
-pp
-np
-221721	adv
-verb
-noun
-verb
-noun
-verb
-verb
-221729	pp
-np
-np
-np
-np
-adj
-verb
-conj
-verb
-verb
-noun
-verb
-pron
-221743	conj
-adv
-pron
-verb
-pp
-221749	conj
-adv
-verb
-verb
-pp
-np
-np
-np
-verb
-pp
-np
-noun
-verb
-conj
-verb
-pp
-np
-noun
-verb
-221769	adv
-verb
-conj
-verb
-pron
-verb
-pron
-verb
-adv
-np
-conj
-verb
-verb
-conj
-221784	np
-np
-verb
-conj
-adv
-verb
-221791	adv
-verb
-conj
-adv
-verb
-adv
-verb
-np
-verb
-pp
-np
-verb
-noun
-conj
-verb
-pron
-adv
-verb
-pron
-verb
-verb
-noun
-conj
-verb
-pron
-221817	pron
-verb
-np
-np
-np
-conj
-pron
-adv
-verb
-verb
-pron
-conj
-pron
-verb
-verb
-conj
-pron
-verb
-verb
-conj
-np
-np
-adv
-verb
-221842	conj
-221844	np
-verb
-pron
-conj
-adv
-verb
-adv
-conj
-verb
-pron
-np
-verb
-conj
-adj
-verb
-pp
-np
-conj
-adv
-221864	pp
-np
-verb
-np
-np
-np
-conj
-221872	conj
-noun
-verb
-np
-pp
-np
-221879	adv
-verb
-verb
-np
-np
-np
-conj
-np
-verb
-pp
-verb
-np
-221892	adv
-conj
-verb
-np
-np
-conj
-221899	np
-np
-np
-verb
-conj
-221905	np
 verb
 pp
 adv
@@ -208386,7 +208386,7 @@ verb
 conj
 verb
 np
-221914	conj
+221578	conj
 verb
 np
 np
@@ -208428,7 +208428,7 @@ verb
 pp
 np
 conj
-221957	verb
+verb
 np
 adv
 np
@@ -208439,7 +208439,7 @@ conj
 np
 adj
 np
-221969	np
+np
 conj
 adj
 verb
@@ -208455,7 +208455,7 @@ adv
 verb
 np
 np
-221986	conj
+conj
 verb
 np
 verb
@@ -208470,7 +208470,7 @@ pp
 vp
 pp
 verb
-222002	np
+221663	np
 conj
 np
 np
@@ -208478,7 +208478,7 @@ pp
 np
 np
 conj
-222011	adv
+221672	adv
 verb
 pp
 conj
@@ -208495,7 +208495,7 @@ adj
 verb
 adv
 conj
-222029	verb
+221690	verb
 conj
 verb
 adv
@@ -208539,7 +208539,7 @@ verb
 noun
 conj
 verb
-222074	adv
+adv
 verb
 noun
 verb
@@ -208555,7 +208555,7 @@ pron
 verb
 conj
 verb
-222091	adv
+221751	adv
 verb
 pron
 np
@@ -208567,7 +208567,7 @@ verb
 np
 noun
 verb
-222104	np
+221764	np
 conj
 np
 np
@@ -208597,7 +208597,7 @@ adv
 verb
 pp
 verb
-222135	verb
+221795	verb
 pp
 np
 pp
@@ -208613,7 +208613,7 @@ verb
 pp
 verb
 pron
-222152	conj
+221812	conj
 pron
 verb
 conj
@@ -208668,7 +208668,7 @@ np
 np
 verb
 pp
-222208	conj
+conj
 conj
 verb
 np
@@ -208678,11 +208678,11 @@ np
 conj
 noun
 np
-222219	conj
+221878	conj
 conj
 noun
 conj
-222224	np
+221883	np
 adv
 verb
 conj
@@ -208712,10 +208712,10 @@ verb
 noun
 pp
 np
-222255	pron
+pron
 verb
 noun
-222259	np
+221917	np
 np
 verb
 conj
@@ -208755,17 +208755,17 @@ np
 conj
 noun
 verb
-222300	verb
+verb
 conj
 pron
-222304	np
+221961	np
 np
 adv
 np
 adj
 verb
 pp
-222312	verb
+221969	verb
 verb
 np
 noun
@@ -208780,9 +208780,9 @@ noun
 conj
 verb
 pron
-222328	conj
+conj
 verb
-222331	np
+221987	np
 np
 np
 conj
@@ -208814,12 +208814,12 @@ adj
 adv
 conj
 verb
-222364	np
+222020	np
 verb
 pron
 adj
 verb
-222370	np
+np
 np
 np
 pron
@@ -208827,11 +208827,11 @@ verb
 pron
 np
 conj
-222379	pron
+222034	pron
 pp
 verb
 conj
-222384	np
+222039	np
 np
 conj
 np
@@ -208841,7 +208841,7 @@ noun
 conj
 verb
 pron
-222395	np
+222050	np
 verb
 pp
 np
@@ -208853,7 +208853,7 @@ conj
 verb
 pp
 np
-222408	pron
+pron
 pron
 verb
 pron
@@ -208863,7 +208863,7 @@ pp
 np
 conj
 np
-222419	pron
+pron
 verb
 pron
 verb
@@ -208882,7 +208882,7 @@ pron
 np
 np
 conj
-222439	adv
+222092	adv
 verb
 conj
 verb
@@ -208890,7 +208890,7 @@ adv
 verb
 verb
 pron
-222448	verb
+verb
 verb
 np
 np
@@ -208907,13 +208907,13 @@ noun
 verb
 pron
 np
-222467	adv
+adv
 verb
 conj
 noun
 adv
 verb
-222474	np
+222124	np
 conj
 verb
 conj
@@ -208948,7 +208948,7 @@ conj
 pp
 verb
 np
-222510	adv
+adv
 verb
 verb
 verb
@@ -208960,7 +208960,7 @@ noun
 conj
 verb
 noun
-222523	conj
+222172	conj
 pp
 np
 np
@@ -208983,7 +208983,7 @@ pp
 np
 verb
 conj
-222547	verb
+verb
 noun
 conj
 adv
@@ -208993,7 +208993,7 @@ np
 verb
 np
 pp
-222558	conj
+222206	conj
 adv
 conj
 np
@@ -209006,18 +209006,18 @@ np
 conj
 verb
 pp
-222572	conj
+222220	conj
 verb
 verb
 verb
 pron
 np
-222579	verb
+verb
 conj
-222582	verb
+222229	verb
 verb
 noun
-222586	conj
+conj
 verb
 pron
 verb
@@ -209026,7 +209026,7 @@ adj
 verb
 pron
 np
-222596	verb
+222242	verb
 verb
 pron
 conj
@@ -209035,20 +209035,20 @@ verb
 np
 np
 conj
-222606	verb
+verb
 conj
 pp
 verb
 adj
 conj
 verb
-222614	pron
+222259	pron
 verb
 conj
 pron
 verb
 pp
-222621	verb
+222266	verb
 conj
 np
 np
@@ -209060,9 +209060,9 @@ np
 conj
 verb
 np
-222635	verb
 verb
-222638	pron
+verb
+pron
 verb
 pron
 np
@@ -209132,7 +209132,7 @@ verb
 verb
 verb
 pron
-222709	verb
+222351	verb
 np
 np
 conj
@@ -209152,7 +209152,7 @@ noun
 pp
 np
 conj
-222730	verb
+222372	verb
 adv
 verb
 conj
@@ -209162,7 +209162,7 @@ conj
 np
 verb
 adj
-222741	adj
+222383	adj
 verb
 verb
 conj
@@ -209195,7 +209195,7 @@ np
 pp
 np
 np
-222775	np
+222417	np
 verb
 conj
 verb
@@ -209203,7 +209203,7 @@ pron
 np
 pron
 verb
-222784	conj
+conj
 conj
 verb
 pp
@@ -209231,7 +209231,7 @@ pp
 np
 np
 verb
-222813	pron
+222454	pron
 conj
 verb
 conj
@@ -209262,7 +209262,7 @@ np
 noun
 adv
 verb
-222845	conj
+conj
 conj
 verb
 pp
@@ -209287,7 +209287,7 @@ conj
 adv
 pp
 np
-222871	np
+np
 np
 adv
 verb
@@ -209296,7 +209296,7 @@ noun
 conj
 verb
 np
-222881	np
+np
 np
 verb
 pp
@@ -209305,14 +209305,14 @@ verb
 conj
 noun
 verb
-222891	pp
+222529	pp
 np
 pp
 np
 verb
 pp
 conj
-222899	verb
+verb
 conj
 verb
 conj
@@ -209326,9 +209326,9 @@ verb
 conj
 np
 pp
-222914	conj
+conj
 adv
-222917	conj
+222553	conj
 verb
 advp
 verb
@@ -209344,20 +209344,20 @@ np
 verb
 pron
 np
-222934	verb
+verb
 np
 np
 verb
 verb
 np
 np
-222942	pron
+pron
 verb
 pron
 np
 conj
 verb
-222949	adv
+adv
 conj
 pron
 verb
@@ -209391,7 +209391,7 @@ np
 conj
 np
 np
-222984	pp
+pp
 verb
 pron
 np
@@ -209400,7 +209400,7 @@ np
 verb
 conj
 verb
-222994	conj
+222626	conj
 np
 np
 np
@@ -209411,7 +209411,7 @@ np
 verb
 np
 verb
-223006	pp
+222638	pp
 np
 pp
 np
@@ -209430,20 +209430,20 @@ np
 pp
 np
 np
-223026	verb
+222658	verb
 adv
 noun
 np
 verb
-223033	pp
+pp
 verb
 np
-223037	verb
-223039	verb
+222667	verb
+222669	verb
 np
 np
 np
-223044	noun
+noun
 conj
 pp
 verb
@@ -209452,7 +209452,7 @@ np
 conj
 verb
 np
-223054	np
+np
 conj
 verb
 pp
@@ -209475,7 +209475,7 @@ verb
 pp
 np
 np
-223078	pron
+222706	pron
 verb
 np
 verb
@@ -209516,7 +209516,7 @@ verb
 verb
 pron
 np
-223120	verb
+verb
 verb
 np
 np
@@ -209528,7 +209528,7 @@ verb
 adj
 np
 conj
-223133	verb
+222760	verb
 np
 np
 conj
@@ -209543,7 +209543,7 @@ verb
 conj
 np
 verb
-223149	noun
+222776	noun
 verb
 conj
 adv
@@ -209561,7 +209561,7 @@ adj
 pron
 pron
 verb
-223168	verb
+222795	verb
 np
 np
 conj
@@ -209570,10 +209570,10 @@ verb
 pron
 pron
 verb
-223178	np
+222805	np
 verb
 pron
-223182	verb
+222809	verb
 conj
 verb
 conj
@@ -209582,7 +209582,7 @@ adv
 verb
 pron
 verb
-223192	np
+np
 conj
 verb
 noun
@@ -209632,13 +209632,13 @@ det
 conj
 verb
 pron
-223243	np
+np
 np
 pp
 verb
 pron
 verb
-223250	pp
+pp
 conj
 adv
 verb
@@ -209646,7 +209646,7 @@ pron
 np
 verb
 conj
-223259	adj
+222883	adj
 verb
 np
 conj
@@ -209666,7 +209666,7 @@ verb
 pron
 verb
 pron
-223280	adv
+adv
 verb
 np
 verb
@@ -209687,7 +209687,7 @@ np
 np
 adv
 verb
-223302	np
+222925	np
 conj
 verb
 np
@@ -209706,9 +209706,9 @@ pron
 conj
 pron
 verb
-223322	conj
 conj
-223325	np
+conj
+222947	np
 verb
 np
 conj
@@ -209740,7 +209740,7 @@ verb
 np
 adv
 verb
-223358	np
+222980	np
 verb
 pron
 verb
@@ -209756,7 +209756,7 @@ pron
 verb
 np
 conj
-223375	pp
+222997	pp
 adv
 verb
 conj
@@ -209768,12 +209768,12 @@ np
 verb
 pron
 conj
-223388	verb
+verb
 noun
 conj
 adv
 verb
-223394	np
+223015	np
 verb
 np
 np
@@ -209805,12 +209805,12 @@ verb
 conj
 np
 verb
-223427	adv
+adv
 verb
 pron
 conj
 verb
-223433	pp
+pp
 np
 np
 pp
@@ -209820,7 +209820,7 @@ np
 np
 conj
 verb
-223444	np
+np
 verb
 pp
 np
@@ -209834,7 +209834,7 @@ pron
 verb
 pp
 adj
-223459	conj
+223077	conj
 verb
 verb
 conj
@@ -209844,7 +209844,7 @@ np
 adj
 verb
 conj
-223470	verb
+223088	verb
 np
 np
 np
@@ -209853,7 +209853,7 @@ np
 np
 verb
 pron
-223480	conj
+conj
 pron
 verb
 pp
@@ -209872,7 +209872,7 @@ conj
 adj
 verb
 np
-223500	pron
+pron
 verb
 pp
 pron
@@ -209893,9 +209893,9 @@ verb
 conj
 pron
 verb
-223522	pron
+223138	pron
 verb
-223525	np
+223141	np
 verb
 conj
 verb
@@ -209910,19 +209910,19 @@ np
 pron
 conj
 verb
-223541	np
+223157	np
 adjp
 np
-223545	np
+223161	np
 conj
-223548	pron
+pron
 verb
 pron
 np
 conj
 verb
 pron
-223556	np
+np
 np
 pron
 verb
@@ -209940,7 +209940,7 @@ pron
 pron
 verb
 pp
-223575	conj
+223189	conj
 np
 adv
 verb
@@ -210008,7 +210008,7 @@ conj
 adv
 verb
 pron
-223644	conj
+conj
 adj
 verb
 pp
@@ -210025,7 +210025,7 @@ noun
 pp
 verb
 conj
-223662	np
+223275	np
 np
 pp
 np
@@ -210043,10 +210043,10 @@ np
 verb
 verb
 pron
-223681	pp
+pp
 pron
 verb
-223686	conj
+conj
 conj
 verb
 noun
@@ -210056,7 +210056,7 @@ pp
 conj
 pron
 verb
-223697	conj
+conj
 conj
 np
 np
@@ -210072,16 +210072,16 @@ np
 pp
 np
 np
-223714	np
+223323	np
 np
-223717	verb
+verb
 conj
 pron
 np
 conj
 verb
 np
-223725	pron
+pron
 verb
 pp
 verb
@@ -210099,11 +210099,11 @@ np
 verb
 conj
 adv
-223744	np
+223351	np
 np
 np
 np
-223749	verb
+223356	verb
 conj
 np
 np
@@ -210115,7 +210115,7 @@ verb
 pp
 verb
 pp
-223762	adv
+adv
 verb
 noun
 conj
@@ -210135,7 +210135,7 @@ verb
 verb
 pron
 np
-223783	np
+np
 np
 adv
 verb
@@ -210146,18 +210146,18 @@ np
 verb
 verb
 pron
-223795	np
+223400	np
 pp
 np
 np
-223800	np
+223405	np
 np
-223804	verb
+223409	verb
 noun
 adv
 pron
 verb
-223810	np
+223415	np
 np
 conj
 np
@@ -210176,12 +210176,12 @@ conj
 np
 pp
 np
-223830	verb
+verb
 conj
 np
 np
 np
-223836	verb
+verb
 conj
 np
 np
@@ -210196,13 +210196,13 @@ pp
 np
 pron
 verb
-223852	conj
+conj
 conj
 verb
 verb
 np
 np
-223859	verb
+verb
 np
 np
 verb
@@ -210217,7 +210217,7 @@ verb
 np
 noun
 pp
-223875	np
+223476	np
 np
 np
 pron
@@ -210226,7 +210226,7 @@ verb
 np
 conj
 verb
-223885	pron
+pron
 verb
 noun
 verb
@@ -210234,7 +210234,7 @@ conj
 pron
 verb
 adv
-223894	np
+223494	np
 verb
 pp
 np
@@ -210244,7 +210244,7 @@ conj
 verb
 conj
 verb
-223905	verb
+223505	verb
 conj
 verb
 pron
@@ -210272,7 +210272,7 @@ pp
 np
 pp
 conj
-223934	noun
+223534	noun
 adv
 verb
 conj
@@ -210289,9 +210289,9 @@ verb
 conj
 np
 np
-223952	conj
+223552	conj
 verb
-223955	np
+223555	np
 verb
 pp
 np
@@ -210305,7 +210305,7 @@ det
 conj
 verb
 pron
-223970	pron
+pron
 verb
 adv
 verb
@@ -210321,10 +210321,10 @@ verb
 np
 pp
 np
-223987	pp
+pp
 verb
-223990	np
-223992	np
+np
+223589	np
 verb
 pp
 np
@@ -210339,7 +210339,7 @@ adv
 adj
 conj
 conj
-224008	verb
+223605	verb
 np
 np
 np
@@ -210356,7 +210356,7 @@ noun
 pp
 pp
 np
-224026	adv
+adv
 verb
 np
 verb
@@ -210400,23 +210400,23 @@ conj
 verb
 verb
 pron
-224071	verb
+verb
 pron
-224074	conj
+223669	conj
 verb
 noun
 conj
 conj
-224080	verb
+223675	verb
 pp
 np
 conj
 verb
-224086	verb
-224089	np
+verb
+223683	np
 verb
 conj
-224094	np
+223687	np
 verb
 pp
 np
@@ -210428,13 +210428,13 @@ pron
 verb
 pron
 conj
-224107	np
+223700	np
 verb
 np
 verb
 conj
 pp
-224114	pron
+pron
 verb
 conj
 verb
@@ -210459,408 +210459,408 @@ pron
 verb
 conj
 pron
+np
+conj
+verb
+pron
+conj
+223737	verb
+conj
+verb
+pron
+pron
+verb
+np
+np
+np
+verb
+pp
+np
+conj
+vp
+np
+pp
+np
+verb
+pron
+verb
+verb
+conj
+pron
+np
+verb
+pron
+223764	noun
+verb
+pron
+np
+np
+pp
+np
+conj
+np
+np
+verb
+pron
+np
+np
+np
+pp
+np
+np
+np
+conj
+np
+np
+verb
+verb
+pp
+np
+conj
+noun
+verb
+np
+verb
+conj
+pp
+noun
+adv
+verb
+pron
+np
+np
+verb
+pron
+np
+pron
+verb
+np
+np
+np
+verb
+pp
+advp
+verb
+conj
+verb
+pp
+advp
+verb
+adv
+conj
+verb
+pron
+conj
+conj
+verb
+pron
+conj
+adv
+verb
+np
+pron
+verb
+pron
+np
+pp
+verb
+conj
+verb
+pp
+advp
+verb
+adv
+conj
+verb
+pp
+np
+223849	conj
+verb
+np
+np
+np
+conj
+np
+np
+verb
+pron
+pron
+conj
+verb
+np
+np
+verb
+pron
+np
+pron
+verb
+pron
+adv
+verb
+pp
+conj
+verb
+pron
+pp
+np
+np
+pron
+conj
+verb
+np
+np
+np
+np
+np
+verb
+np
+conj
+verb
+pp
+verb
+np
+conj
+verb
+pron
+pron
+pp
+np
+np
+verb
+conj
+np
+pp
+conj
+verb
+pron
+verb
+223910	np
+verb
+pp
+np
+conj
+verb
+pron
+verb
+223919	np
+np
+pron
+pron
+verb
+223925	np
+conj
+np
+adv
+adv
+verb
+conj
+pp
+np
+verb
+verb
+noun
+conj
+verb
+pron
+adv
+verb
+pp
+adj
+verb
+verb
+pp
+conj
+adv
+223950	np
+verb
+pron
+verb
+pron
+pron
+verb
+pron
+pp
+np
+np
+vp
+pp
+np
+conj
+verb
+adj
+np
+np
+verb
+pp
+np
+conj
+verb
+verb
+pp
+conj
+np
+verb
+pron
+conj
+verb
+pp
+np
+pron
+verb
+np
+verb
+pron
+verb
+verb
+np
+pron
+verb
+np
+np
+np
+np
+np
+verb
+pp
+np
+np
+conj
+verb
+pron
+verb
+224008	np
+pp
+np
+verb
+conj
+224014	pron
+pp
+verb
+conj
+adv
+verb
+pron
+verb
+224024	np
+verb
+pp
+np
+verb
+conj
+pron
+verb
+pp
+np
+np
+verb
+pp
+np
+np
+conj
+np
+conj
+pron
+pron
+verb
+np
+np
+verb
+pp
+np
+np
+np
+verb
+conj
+pp
+np
+verb
+adv
+verb
+pron
+pron
+verb
+np
+verb
+verb
+conj
+pron
+np
+verb
+pron
+conj
+verb
+np
+np
+np
+np
+np
+conj
+verb
+np
+np
+adv
+verb
+noun
+pp
+verb
+np
+np
+conj
+verb
+np
+np
+verb
+np
+pron
+verb
+pron
+np
+np
+np
+conj
+np
+np
+verb
+conj
+np
+np
+np
+verb
+verb
+np
+np
+conj
+verb
+np
+np
+pp
+verb
+pron
+pp
+conj
+verb
+pron
+np
+np
+verb
+pron
+verb
+pp
+np
+np
+conj
+verb
+pron
+pron
+verb
+pp
+pron
+verb
 224140	np
-conj
-verb
-pron
-conj
-224146	verb
-conj
-verb
-pron
-pron
-verb
-224153	np
-np
-np
-verb
-pp
-np
-conj
-vp
-np
-pp
-np
-verb
-pron
-verb
-verb
-conj
-pron
-np
-verb
-pron
-224174	noun
-verb
-pron
-np
-np
-pp
-np
-conj
-np
-np
-verb
-pron
-np
-np
-np
-pp
-np
-np
-np
-conj
-np
-np
-verb
-verb
-pp
-np
-conj
-noun
-verb
-np
-verb
-conj
-pp
-noun
-adv
-verb
-pron
-np
-np
-verb
-pron
-np
-pron
-verb
-np
-np
-np
-verb
-pp
-advp
-verb
-conj
-verb
-pp
-advp
-verb
-adv
-conj
-verb
-pron
-conj
-conj
-verb
-pron
-conj
-adv
-verb
-np
-pron
-verb
-pron
-np
 pp
 verb
 conj
-verb
-pp
-advp
-verb
-adv
-conj
-224256	verb
-pp
-np
-224260	conj
-verb
-np
-np
-np
-conj
-np
-np
-verb
-pron
-pron
-conj
-verb
-np
-np
-verb
-pron
-np
-pron
-verb
-pron
-adv
-verb
-pp
-conj
-verb
-pron
-pp
-np
-np
-pron
-conj
-verb
-np
-np
-np
-np
-np
-verb
-np
-conj
-verb
-pp
-verb
-np
-conj
-verb
-pron
-pron
-pp
-np
-np
-verb
-conj
-np
-pp
-conj
-verb
-pron
-verb
-224321	np
-verb
-pp
-np
-conj
-verb
-224328	pron
-verb
-224332	np
-np
-pron
-pron
-verb
-224338	np
-conj
-np
-adv
-adv
-verb
-conj
-pp
-np
-verb
-verb
-noun
-conj
-verb
-pron
-adv
-verb
-pp
-224357	adj
-verb
-verb
-pp
-conj
-adv
-224364	np
-verb
-pron
-verb
-pron
-pron
-verb
-pron
-pp
-np
-np
-vp
-pp
-np
-conj
-verb
-adj
-np
-np
-verb
-pp
-np
-conj
-verb
-verb
-pp
-conj
-np
-verb
-pron
-conj
-verb
-pp
-np
-pron
-verb
-np
-verb
-pron
-verb
-verb
-np
-pron
-verb
-np
-np
-np
-np
-np
-verb
-pp
-np
-np
-conj
-verb
-pron
-verb
-224422	np
-pp
-np
-verb
-conj
-224428	pron
-pp
-verb
-conj
-adv
-verb
-pron
-verb
-224438	np
-verb
-pp
-np
-verb
-conj
-pron
-verb
-pp
-np
-np
-verb
-pp
-np
-np
-conj
-np
-224456	conj
-pron
-pron
-verb
-np
-np
-verb
-pp
-np
-np
-np
-verb
-conj
-pp
-np
-verb
-adv
-verb
-pron
-pron
-verb
-np
-verb
-verb
-conj
-pron
-np
-verb
-pron
-224486	conj
-verb
-np
-np
-np
-np
-np
-conj
-verb
-np
-np
-adv
-verb
-noun
-pp
-224502	verb
-np
-np
-conj
-verb
-np
-np
-verb
-np
-pron
-verb
-pron
-np
-np
-np
-conj
-np
-np
-verb
-conj
-np
-np
-np
-verb
-224527	verb
-np
-np
-conj
-verb
-np
-np
-pp
-verb
-pron
-pp
-conj
-224540	verb
-pron
-np
-np
-verb
-pron
-verb
-pp
-np
-np
-conj
-verb
-pron
-pron
-verb
-pp
-pron
-verb
-224559	np
-pp
-verb
-conj
-224564	verb
+224145	verb
 np
 conj
 verb
@@ -210914,7 +210914,7 @@ verb
 conj
 verb
 np
-224619	np
+np
 verb
 verb
 np
@@ -210922,7 +210922,7 @@ adv
 verb
 adj
 np
-224628	pron
+pron
 pron
 verb
 pron
@@ -210933,7 +210933,7 @@ noun
 verb
 conj
 verb
-224640	np
+np
 pp
 pron
 adv
@@ -210942,7 +210942,7 @@ verb
 conj
 pp
 np
-224650	pron
+224228	pron
 verb
 adv
 verb
@@ -210987,14 +210987,14 @@ verb
 verb
 verb
 pron
-224696	noun
+224274	noun
 pp
 verb
 np
 np
 verb
 conj
-224704	pron
+224282	pron
 verb
 conj
 verb
@@ -211007,8 +211007,8 @@ np
 verb
 pron
 np
-224718	pron
-224720	np
+224296	pron
+224298	np
 verb
 conj
 np
@@ -211019,7 +211019,7 @@ verb
 conj
 np
 np
-224733	pron
+224310	pron
 conj
 verb
 verb
@@ -211047,7 +211047,7 @@ verb
 verb
 conj
 adv
-224762	np
+224339	np
 np
 np
 np
@@ -211056,7 +211056,7 @@ conj
 pp
 np
 np
-224772	verb
+verb
 adv
 conj
 verb
@@ -211068,7 +211068,7 @@ np
 np
 verb
 np
-224785	np
+np
 pron
 verb
 adj
@@ -211081,7 +211081,7 @@ verb
 pron
 pp
 verb
-224799	conj
+conj
 pron
 verb
 verb
@@ -211097,7 +211097,7 @@ verb
 conj
 pron
 np
-224816	np
+224390	np
 np
 np
 adv
@@ -211109,7 +211109,7 @@ np
 adv
 verb
 adj
-224829	adv
+adv
 verb
 np
 verb
@@ -211148,7 +211148,7 @@ pron
 verb
 pp
 np
-224869	conj
+conj
 conj
 verb
 np
@@ -211158,7 +211158,7 @@ np
 adv
 np
 verb
-224880	conj
+224452	conj
 pp
 conj
 pp
@@ -211189,7 +211189,7 @@ verb
 adj
 conj
 verb
-224912	ptcl
+224484	ptcl
 conj
 verb
 np
@@ -211202,7 +211202,7 @@ pp
 np
 np
 np
-224926	adv
+adv
 conj
 np
 verb
@@ -211228,7 +211228,7 @@ pron
 noun
 conj
 verb
-224953	np
+224524	np
 np
 adv
 verb
@@ -211236,7 +211236,7 @@ adj
 conj
 verb
 pron
-224962	conj
+conj
 pron
 verb
 np
@@ -211245,7 +211245,7 @@ verb
 verb
 pp
 np
-224972	adv
+224542	adv
 pp
 np
 verb
@@ -211288,7 +211288,7 @@ verb
 verb
 verb
 np
-225016	noun
+noun
 verb
 pron
 pron
@@ -211299,7 +211299,7 @@ noun
 conj
 verb
 pron
-225028	np
+224597	np
 verb
 conj
 adj
@@ -211309,7 +211309,7 @@ noun
 verb
 pron
 np
-225039	conj
+224608	conj
 pp
 np
 verb
@@ -211320,8 +211320,8 @@ conj
 pp
 verb
 noun
-225051	conj
-225053	noun
+conj
+noun
 verb
 noun
 pp
@@ -211330,14 +211330,14 @@ adv
 verb
 np
 np
-225063	pron
+pron
 verb
 conj
 np
 adj
 verb
 pp
-225071	verb
+224637	verb
 pp
 conj
 np
@@ -211391,7 +211391,7 @@ verb
 np
 conj
 verb
-225126	pron
+224692	pron
 verb
 conj
 verb
@@ -211404,13 +211404,13 @@ verb
 conj
 verb
 adj
-225140	verb
+verb
 pron
 pron
 pron
 adv
 verb
-225147	pron
+pron
 verb
 pron
 conj
@@ -211449,15 +211449,15 @@ verb
 pron
 pron
 verb
-225187	verb
+verb
 np
 np
 verb
 pp
 pron
 conj
-225195	verb
-225197	np
+verb
+224759	np
 conj
 np
 noun
@@ -211467,7 +211467,7 @@ pron
 verb
 conj
 np
-225208	adv
+224770	adv
 np
 pp
 verb
@@ -211476,7 +211476,7 @@ verb
 pp
 verb
 pron
-225218	verb
+224780	verb
 pron
 conj
 adv
@@ -211493,7 +211493,7 @@ verb
 conj
 np
 pp
-225236	adv
+adv
 pron
 verb
 verb
@@ -211502,7 +211502,7 @@ pron
 adv
 verb
 pron
-225246	pp
+224807	pp
 np
 np
 np
@@ -211513,11 +211513,11 @@ verb
 np
 pron
 verb
-225258	np
+np
 np
 pron
 verb
-225263	verb
+224823	verb
 pron
 conj
 adv
@@ -211532,7 +211532,7 @@ verb
 verb
 pp
 conj
-225279	np
+224839	np
 np
 np
 np
@@ -211542,7 +211542,7 @@ np
 conj
 verb
 verb
-225290	conj
+conj
 pron
 verb
 verb
@@ -211566,7 +211566,7 @@ conj
 verb
 pp
 np
-225315	pron
+pron
 verb
 verb
 verb
@@ -211606,13 +211606,13 @@ verb
 np
 verb
 conj
-225356	pp
+224914	pp
 np
 np
 conj
 pp
-225362	np
-225364	adv
+224920	np
+adv
 verb
 noun
 verb
@@ -211638,7 +211638,7 @@ verb
 conj
 np
 pp
-225391	np
+224948	np
 conj
 conj
 verb
@@ -211672,7 +211672,7 @@ conj
 pp
 np
 conj
-225426	np
+224983	np
 np
 adv
 verb
@@ -211680,7 +211680,7 @@ np
 adj
 verb
 verb
-225435	pp
+224992	pp
 verb
 pp
 adj
@@ -211692,7 +211692,7 @@ np
 verb
 np
 conj
-225448	adv
+225005	adv
 verb
 adj
 pp
@@ -211747,7 +211747,7 @@ verb
 pron
 verb
 conj
-225504	np
+225061	np
 conj
 np
 pp
@@ -211795,7 +211795,7 @@ np
 verb
 pp
 np
-225553	conj
+conj
 conj
 verb
 verb
@@ -211818,7 +211818,7 @@ pp
 np
 det
 conj
-225577	verb
+225133	verb
 conj
 pp
 np
@@ -211831,14 +211831,14 @@ np
 pp
 np
 conj
-225591	verb
+225147	verb
 adj
 np
 conj
 np
 pp
 verb
-225599	verb
+225155	verb
 conj
 np
 conj
@@ -211866,7 +211866,7 @@ verb
 conj
 pron
 np
-225628	adv
+adv
 pron
 pron
 verb
@@ -211880,7 +211880,7 @@ pron
 verb
 np
 verb
-225643	pron
+pron
 verb
 np
 np
@@ -211913,7 +211913,7 @@ noun
 conj
 verb
 pron
-225678	pron
+pron
 verb
 pp
 adj
@@ -211922,7 +211922,7 @@ np
 np
 conj
 verb
-225688	adv
+225240	adv
 verb
 conj
 adv
@@ -211931,7 +211931,7 @@ pron
 conj
 adv
 verb
-225698	adv
+225250	adv
 verb
 conj
 adv
@@ -211944,7 +211944,7 @@ pron
 adv
 verb
 adj
-225713	adv
+adv
 conj
 verb
 conj
@@ -211955,11 +211955,11 @@ np
 adj
 verb
 conj
-225725	adj
+225275	adj
 adv
 verb
 conj
-225730	conj
+225280	conj
 verb
 pron
 pp
@@ -211975,7 +211975,7 @@ np
 np
 adj
 verb
-225747	pron
+225297	pron
 verb
 verb
 pp
@@ -211995,13 +211995,13 @@ np
 np
 verb
 noun
-225768	conj
+225318	conj
 pron
 verb
 conj
 np
 np
-225775	conj
+conj
 pron
 verb
 np
@@ -212029,7 +212029,7 @@ verb
 conj
 adv
 pron
-225804	pron
+pron
 verb
 conj
 verb
@@ -212049,7 +212049,7 @@ verb
 verb
 conj
 np
-225825	verb
+verb
 pron
 conj
 verb
@@ -212063,7 +212063,7 @@ verb
 conj
 verb
 pron
-225841	pron
+pron
 pp
 np
 verb
@@ -212071,7 +212071,7 @@ pron
 pp
 np
 verb
-225850	pron
+pron
 pp
 np
 np
@@ -212082,7 +212082,7 @@ verb
 pp
 np
 np
-225862	verb
+verb
 conj
 pron
 conj
@@ -212090,7 +212090,7 @@ verb
 pp
 np
 np
-225871	conj
+conj
 conj
 adv
 verb
@@ -212110,7 +212110,7 @@ verb
 verb
 pron
 np
-225892	np
+np
 pron
 adv
 verb
@@ -212118,7 +212118,7 @@ pron
 adj
 verb
 pp
-225901	conj
+225442	conj
 conj
 verb
 pron
@@ -212141,7 +212141,7 @@ verb
 verb
 conj
 np
-225925	conj
+conj
 verb
 np
 np
@@ -212152,11 +212152,11 @@ conj
 pron
 verb
 conj
-225937	pp
+225477	pp
 verb
 adj
 conj
-225942	conj
+conj
 verb
 pron
 np
@@ -212191,7 +212191,7 @@ np
 np
 verb
 pron
-225978	conj
+conj
 pron
 verb
 pp
@@ -212202,7 +212202,7 @@ adv
 np
 verb
 conj
-225990	verb
+225528	verb
 np
 conj
 np
@@ -212210,7 +212210,7 @@ verb
 pron
 verb
 pp
-225999	np
+np
 verb
 conj
 adj
@@ -212234,7 +212234,7 @@ np
 np
 verb
 np
-226024	np
+np
 conj
 adv
 verb
@@ -212259,7 +212259,7 @@ conj
 np
 verb
 conj
-226050	verb
+verb
 pron
 verb
 conj
@@ -212293,7 +212293,7 @@ verb
 verb
 pron
 np
-226085	conj
+conj
 np
 np
 verb
@@ -212304,8 +212304,8 @@ verb
 adv
 conj
 verb
-226097	verb
-226099	pron
+225631	verb
+pron
 np
 pron
 verb
@@ -212325,30 +212325,30 @@ np
 np
 verb
 pron
-226120	pron
+pron
 pp
 adv
 verb
-226125	np
+225657	np
 verb
 np
 verb
 pron
 np
-226132	conj
+conj
 np
 np
 verb
 verb
 pron
-226139	pron
+225670	pron
 conj
 pp
 np
 verb
 conj
 verb
-226147	conj
+225678	conj
 pp
 verb
 conj
@@ -212368,9 +212368,9 @@ verb
 np
 np
 np
-226168	pron
+225699	pron
 pp
-226171	np
+225702	np
 np
 verb
 conj
@@ -212394,14 +212394,14 @@ adv
 verb
 noun
 pp
-226197	conj
+conj
 verb
 np
 pp
 np
 verb
 conj
-226205	noun
+225734	noun
 verb
 conj
 np
@@ -212419,7 +212419,7 @@ pp
 verb
 pron
 pp
-226224	conj
+conj
 noun
 verb
 pp
@@ -212460,7 +212460,7 @@ noun
 verb
 verb
 noun
-226267	pron
+225795	pron
 noun
 adv
 verb
@@ -212484,7 +212484,7 @@ conj
 verb
 verb
 pron
-226292	conj
+conj
 pron
 np
 np
@@ -212502,14 +212502,14 @@ verb
 conj
 noun
 verb
-226311	noun
+225838	noun
 verb
 conj
 np
 conj
 pron
 verb
-226319	conj
+conj
 pron
 np
 np
@@ -212522,7 +212522,7 @@ np
 pron
 adj
 verb
-226334	np
+225859	np
 np
 pron
 verb
@@ -212534,7 +212534,7 @@ pron
 verb
 verb
 noun
-226347	conj
+conj
 pron
 verb
 pron
@@ -212561,7 +212561,7 @@ pron
 conj
 verb
 pron
-226375	conj
+conj
 verb
 conj
 adv
@@ -212571,13 +212571,13 @@ verb
 np
 adjp
 conj
-226386	verb
+225909	verb
 pron
 conj
 np
 np
 verb
-226393	np
+225916	np
 np
 verb
 conj
@@ -212586,14 +212586,14 @@ np
 np
 np
 conj
-226403	verb
+225926	verb
 conj
 verb
 verb
 conj
 np
 pp
-226411	np
+225934	np
 adv
 verb
 conj
@@ -212637,7 +212637,7 @@ verb
 noun
 pron
 verb
-226456	conj
+225979	conj
 np
 np
 conj
@@ -212645,7 +212645,7 @@ adj
 verb
 verb
 noun
-226466	conj
+225989	conj
 pron
 verb
 conj
@@ -212698,23 +212698,23 @@ np
 conj
 verb
 pron
-226520	verb
+verb
 verb
 pp
 np
 np
 np
-226527	pron
+pron
 verb
 verb
-226531	verb
+226052	verb
 conj
 conj
 verb
 conj
 verb
 verb
-226539	np
+226060	np
 conj
 conj
 verb
@@ -212736,7 +212736,7 @@ pron
 verb
 adj
 verb
-226562	adv
+226083	adv
 conj
 adj
 pron
@@ -212756,7 +212756,7 @@ np
 np
 verb
 pron
-226584	np
+226104	np
 verb
 noun
 noun
@@ -212774,7 +212774,7 @@ pp
 np
 conj
 verb
-226603	verb
+226123	verb
 conj
 conj
 verb
@@ -212818,13 +212818,13 @@ det
 conj
 verb
 pron
-226648	noun
+226168	noun
 verb
 pp
 np
 np
 conj
-226655	verb
+226175	verb
 conj
 verb
 verb
@@ -212832,7 +212832,7 @@ conj
 np
 pp
 np
-226664	adv
+adv
 verb
 np
 pp
@@ -212885,14 +212885,14 @@ pron
 verb
 np
 np
-226718	verb
+226237	verb
 conj
 verb
 pron
 verb
 pron
 verb
-226726	np
+np
 np
 pron
 pron
@@ -212911,7 +212911,7 @@ np
 conj
 verb
 verb
-226746	conj
+226264	conj
 pron
 verb
 np
@@ -212920,14 +212920,14 @@ conj
 conj
 adj
 verb
-226756	adv
+adv
 conj
 adv
 verb
 adv
 verb
 conj
-226764	pron
+pron
 verb
 np
 np
@@ -212936,12 +212936,12 @@ adv
 verb
 pron
 verb
-226774	noun
+noun
 verb
 pron
 pp
 verb
-226780	pron
+pron
 verb
 np
 np
@@ -212953,7 +212953,7 @@ conj
 verb
 np
 conj
-226793	conj
+conj
 pron
 pron
 verb
@@ -212965,7 +212965,7 @@ np
 np
 verb
 conj
-226806	noun
+noun
 verb
 pron
 verb
@@ -212992,7 +212992,7 @@ verb
 verb
 conj
 pron
-226835	adj
+adj
 verb
 adv
 verb
@@ -213005,7 +213005,7 @@ verb
 verb
 conj
 pron
-226849	pron
+pron
 verb
 pron
 adv
@@ -213014,7 +213014,7 @@ np
 np
 verb
 pron
-226860	verb
+verb
 pron
 adv
 conj
@@ -213033,7 +213033,7 @@ verb
 pron
 conj
 verb
-226880	pron
+226387	pron
 np
 verb
 pron
@@ -213078,8 +213078,8 @@ adj
 adv
 verb
 conj
-226926	conj
-226928	pron
+conj
+226434	pron
 adj
 verb
 conj
@@ -213111,7 +213111,7 @@ verb
 conj
 verb
 pron
-226961	pp
+226467	pp
 pron
 verb
 adj
@@ -213144,7 +213144,7 @@ pron
 conj
 verb
 conj
-226995	pron
+pron
 verb
 noun
 conj
@@ -213172,14 +213172,14 @@ pron
 conj
 verb
 np
-227024	pp
+pp
 pron
 pp
 np
 np
 verb
 conj
-227032	adv
+226536	adv
 verb
 verb
 conj
@@ -213187,7 +213187,7 @@ verb
 adj
 verb
 verb
-227041	pp
+226545	pp
 np
 pron
 pp
@@ -213201,13 +213201,13 @@ verb
 verb
 pron
 np
-227056	conj
+conj
 adj
 verb
 adv
 verb
 noun
-227063	adv
+adv
 conj
 verb
 conj
@@ -213243,33 +213243,33 @@ pron
 np
 verb
 conj
-227100	np
+226602	np
 np
 np
 verb
 conj
-227106	np
+226608	np
 np
 verb
 pp
 conj
 verb
 pron
-227114	conj
+conj
 np
 np
 verb
 pp
 verb
 conj
-227122	np
+np
 pron
 verb
 conj
 verb
 np
 np
-227130	adj
+adj
 conj
 advp
 verb
@@ -213330,7 +213330,7 @@ pron
 verb
 verb
 conj
-227193	verb
+226692	verb
 conj
 verb
 conj
@@ -213341,7 +213341,7 @@ adv
 verb
 conj
 conj
-227205	verb
+226704	verb
 conj
 verb
 conj
@@ -213349,7 +213349,7 @@ verb
 pron
 verb
 conj
-227214	noun
+226713	noun
 verb
 conj
 adj
@@ -213367,8 +213367,8 @@ np
 verb
 pp
 np
-227233	np
-227235	conj
+np
+226733	conj
 adv
 verb
 noun
@@ -213386,13 +213386,13 @@ np
 conj
 verb
 conj
-227254	np
+226752	np
 verb
 pron
 conj
 verb
 conj
-227261	noun
+226759	noun
 verb
 conj
 adv
@@ -213400,7 +213400,7 @@ verb
 pron
 pp
 np
-227270	pron
+226768	pron
 verb
 np
 np
@@ -213413,7 +213413,7 @@ verb
 pron
 np
 conj
-227284	verb
+verb
 pron
 np
 pron
@@ -213439,12 +213439,12 @@ verb
 pron
 verb
 conj
-227311	np
+226808	np
 np
 verb
 conj
 verb
-227317	np
+226814	np
 np
 pp
 pron
@@ -213496,7 +213496,7 @@ verb
 conj
 np
 pp
-227370	noun
+noun
 verb
 conj
 verb
@@ -213541,7 +213541,7 @@ pp
 np
 np
 verb
-227416	conj
+conj
 pron
 verb
 np
@@ -213551,13 +213551,13 @@ noun
 verb
 pron
 np
-227427	verb
+226922	verb
 pron
 conj
 adv
 verb
 np
-227434	pron
+pron
 pron
 verb
 pp
@@ -213589,7 +213589,7 @@ pron
 verb
 pron
 conj
-227467	verb
+verb
 pron
 pron
 verb
@@ -213624,7 +213624,7 @@ pp
 np
 np
 np
-227503	conj
+226996	conj
 np
 adj
 verb
@@ -213652,7 +213652,7 @@ verb
 verb
 pron
 np
-227533	pp
+227026	pp
 np
 adv
 verb
@@ -213680,7 +213680,7 @@ verb
 noun
 verb
 conj
-227562	pron
+227055	pron
 verb
 noun
 pp
@@ -213709,7 +213709,7 @@ verb
 np
 np
 verb
-227592	conj
+conj
 adv
 verb
 np
@@ -213719,10 +213719,10 @@ np
 adv
 verb
 pron
-227604	conj
+conj
 conj
 verb
-227608	pron
+pron
 adv
 verb
 np
@@ -213732,7 +213732,7 @@ verb
 conj
 verb
 conj
-227619	pp
+pp
 np
 pron
 pp
@@ -213754,7 +213754,7 @@ pp
 np
 pp
 np
-227642	adv
+adv
 vp
 noun
 np
@@ -213788,14 +213788,14 @@ adv
 verb
 conj
 np
-227677	np
+227164	np
 verb
-227680	pp
+227167	pp
 pp
 np
 np
-227685	conj
-227687	np
+227172	conj
+227174	np
 np
 verb
 conj
@@ -213809,7 +213809,7 @@ np
 np
 np
 np
-227702	np
+227189	np
 np
 verb
 verb
@@ -213826,7 +213826,7 @@ verb
 conj
 np
 verb
-227720	np
+np
 np
 adv
 verb
@@ -213845,13 +213845,13 @@ pp
 verb
 conj
 np
-227740	np
+227226	np
 conj
 np
 np
 conj
 np
-227747	conj
+conj
 conj
 verb
 conj
@@ -213859,7 +213859,7 @@ verb
 adv
 verb
 pp
-227756	pron
+pron
 verb
 noun
 np
@@ -213920,109 +213920,109 @@ conj
 pp
 verb
 pron
-227819	np
+227303	np
 np
 verb
 conj
-227824	verb
+verb
 conj
 verb
 pron
 verb
 conj
 np
-pron
-noun
-conj
-verb
-verb
-verb
-conj
-np
-pp
-np
-np
-pron
-conj
-verb
-conj
-pp
-np
-np
-np
-verb
-adv
-conj
-verb
-pron
-np
-noun
-227859	noun
-verb
-conj
-verb
-pp
-conj
-verb
-conj
-adv
-verb
-adv
-conj
-verb
-pp
-verb
-conj
-227876	verb
-noun
-np
-227880	verb
-np
-conj
-verb
-pp
-verb
-conj
-np
-verb
-pron
-np
-adv
-verb
-pp
-np
-verb
-conj
-noun
-pp
-np
-pp
-pp
-np
-np
-conj
-pp
-np
-verb
-pp
-np
-227911	conj
-conj
-verb
-pron
-pp
-np
-227918	np
-conj
-conj
-verb
-conj
-noun
-verb
-verb
 pron
 noun
 conj
+verb
+verb
+verb
+conj
+np
+pp
+np
+np
+pron
+conj
+verb
+conj
+pp
+np
+np
+np
+verb
+adv
+conj
+verb
+pron
+np
+noun
+227342	noun
+verb
+conj
+verb
+pp
+conj
+verb
+conj
+adv
+verb
+adv
+conj
+verb
+pp
+verb
+conj
+227359	verb
+noun
+np
+verb
+np
+conj
+verb
+pp
+verb
+conj
+np
+verb
+pron
+np
+adv
+verb
+pp
+np
+verb
+conj
+noun
+pp
+np
+pp
+pp
+np
+np
+conj
+pp
+np
+verb
+pp
+np
+227393	conj
+conj
+verb
+pron
+pp
+np
+np
+conj
+conj
+verb
+conj
+noun
+verb
+verb
+pron
+noun
+conj
 pp
 np
 verb
@@ -214031,7 +214031,7 @@ conj
 np
 pp
 noun
-227938	conj
+conj
 verb
 adv
 adv
@@ -214070,7 +214070,7 @@ pron
 np
 pron
 verb
-227978	np
+227458	np
 conj
 np
 verb
@@ -214091,14 +214091,14 @@ verb
 pron
 verb
 pron
-228000	ptcl
+ptcl
 noun
 pron
 verb
 conj
 pron
 verb
-228009	np
+227488	np
 np
 np
 np
@@ -214111,11 +214111,11 @@ verb
 verb
 conj
 verb
-228023	np
+227502	np
 np
 adv
 verb
-228028	np
+227507	np
 verb
 conj
 verb
@@ -214129,7 +214129,7 @@ adj
 conj
 verb
 pp
-228043	conj
+227522	conj
 verb
 np
 pp
@@ -214139,11 +214139,11 @@ verb
 adv
 pp
 np
-228054	adv
+adv
 verb
 pron
 np
-228059	np
+227537	np
 conj
 verb
 pp
@@ -214196,7 +214196,7 @@ noun
 conj
 conj
 verb
-228113	pron
+227591	pron
 verb
 conj
 np
@@ -214204,7 +214204,7 @@ np
 verb
 pron
 verb
-228122	verb
+227600	verb
 np
 conj
 verb
@@ -214239,7 +214239,7 @@ verb
 np
 np
 np
-228158	verb
+verb
 conj
 np
 adv
@@ -214265,163 +214265,163 @@ verb
 np
 verb
 pron
-228185	np
+227662	np
 np
 verb
 noun
-adv
-verb
-adj
-conj
-verb
-verb
-pron
-np
-verb
-pron
-conj
-228201	conj
-verb
-verb
-np
-np
-np
-verb
-conj
-np
-np
-conj
-verb
-np
-adv
-conj
-verb
-noun
-228219	verb
-pron
-conj
-verb
-pron
-pron
-conj
-verb
-conj
-adv
-pron
-verb
-conj
-pp
-228234	np
-verb
-verb
-conj
-verb
-conj
-pron
-pron
-verb
-conj
-pron
-verb
-np
-verb
-noun
-verb
-adv
-verb
-verb
-verb
-228255	np
-conj
-np
-noun
-conj
-np
-np
-noun
-verb
-verb
-pron
-np
-228268	verb
-pron
-conj
-verb
-pron
-verb
-228275	np
-conj
-pp
-np
-verb
-pp
-np
-conj
-verb
-pron
-verb
-verb
-pp
-np
-conj
-pp
-verb
-pp
-np
-conj
-verb
-pron
-pron
-verb
-noun
-verb
-conj
-228303	np
-conj
-np
-noun
-conj
-verb
-228310	pron
-verb
-conj
-np
-np
-np
-verb
-228318	conj
-verb
-pron
-adv
-adj
-verb
-pp
-conj
-228327	verb
-np
-conj
-verb
-np
-228333	conj
-np
-conj
-np
-228338	np
-np
-conj
-pp
-noun
-verb
-np
-np
-verb
-pron
-228349	pron
 adv
 verb
 adj
 conj
 verb
+verb
+pron
+np
+verb
+pron
+conj
+conj
+verb
+verb
+np
+np
+np
+verb
+conj
+np
+np
+conj
+verb
+np
+adv
+conj
+verb
+noun
+227695	verb
+pron
+conj
+verb
+pron
+pron
+conj
+verb
+conj
+adv
+pron
+verb
+conj
+pp
+227710	np
+verb
+verb
+conj
+verb
+conj
+pron
+pron
+verb
+conj
+pron
+verb
+np
+verb
+noun
+verb
+adv
+verb
+verb
+verb
+227731	np
+conj
+np
+noun
+conj
+np
+np
+noun
+verb
+verb
+pron
+np
+227744	verb
+pron
+conj
+verb
+pron
+verb
+227751	np
+conj
+pp
+np
+verb
+pp
+np
+conj
+verb
+pron
+verb
+verb
+pp
+np
+conj
+pp
+verb
+pp
+np
+conj
+verb
+pron
+pron
+verb
+noun
+verb
+conj
+227779	np
+conj
+np
+noun
+conj
+verb
+pron
+verb
+conj
+np
+np
+np
+verb
+conj
+verb
+pron
+adv
+adj
+verb
+pp
+conj
+227801	verb
+np
+conj
+verb
+np
+227807	conj
+np
+conj
+np
+227812	np
+np
+conj
+pp
+noun
+verb
+np
+np
+verb
+pron
+227823	pron
+adv
+verb
+adj
+conj
+verb
 conj
 verb
 pron
@@ -214449,17 +214449,17 @@ verb
 conj
 verb
 noun
-228383	verb
+227857	verb
 pp
 np
 conj
-228388	pp
+227862	pp
 np
 adj
 conj
 conj
 np
-228395	np
+227869	np
 np
 np
 verb
@@ -214532,11 +214532,11 @@ pp
 np
 verb
 conj
-228469	np
+227943	np
 conj
 np
 noun
-228475	conj
+conj
 pron
 verb
 adv
@@ -214553,13 +214553,13 @@ np
 np
 verb
 pp
-228493	adv
+adv
 verb
-228496	pron
+pron
 verb
 pp
 noun
-228501	verb
+227971	verb
 conj
 pron
 noun
@@ -214600,14 +214600,14 @@ np
 np
 verb
 conj
-228545	np
+228015	np
 np
 np
 np
 verb
 pron
 verb
-228553	pp
+228023	pp
 np
 np
 adv
@@ -214619,7 +214619,7 @@ adj
 verb
 conj
 pron
-228566	conj
+228036	conj
 pp
 np
 verb
@@ -214636,7 +214636,7 @@ verb
 verb
 conj
 np
-228584	verb
+verb
 pron
 conj
 pp
@@ -214646,7 +214646,7 @@ np
 np
 verb
 pron
-228595	np
+228064	np
 conj
 adv
 verb
@@ -214667,7 +214667,7 @@ conj
 adv
 verb
 conj
-228617	verb
+228086	verb
 adv
 pp
 np
@@ -214676,11 +214676,11 @@ conj
 conj
 adv
 np
-228627	verb
+verb
 pron
 verb
 pp
-228632	verb
+verb
 conj
 np
 conj
@@ -214688,7 +214688,7 @@ np
 np
 verb
 conj
-228641	np
+228108	np
 pp
 verb
 np
@@ -214697,7 +214697,7 @@ verb
 pp
 np
 np
-228651	np
+228118	np
 np
 verb
 pp
@@ -214719,14 +214719,14 @@ conj
 verb
 ptcl
 verb
-228674	verb
+228141	verb
 pp
 np
 conj
 np
 np
 np
-228682	verb
+verb
 conj
 np
 noun
@@ -214734,7 +214734,7 @@ verb
 pp
 conj
 vp
-228691	adv
+adv
 verb
 np
 verb
@@ -214751,7 +214751,7 @@ np
 np
 np
 conj
-228709	conj
+conj
 verb
 noun
 adv
@@ -214766,11 +214766,11 @@ verb
 pron
 verb
 conj
-228725	np
+228189	np
 verb
 pp
 conj
-228730	np
+228194	np
 verb
 pp
 np
@@ -214778,21 +214778,21 @@ conj
 verb
 pron
 pp
-228739	pp
+pp
 adv
 verb
 pron
 np
 conj
 verb
-228747	pron
+pron
 verb
 np
 np
 conj
 verb
 pp
-228755	verb
+verb
 conj
 adv
 verb
@@ -214813,7 +214813,7 @@ np
 pron
 conj
 verb
-228777	np
+228238	np
 pp
 np
 np
@@ -214831,7 +214831,7 @@ conj
 verb
 np
 verb
-228796	conj
+228257	conj
 conj
 verb
 np
@@ -214840,7 +214840,7 @@ conj
 verb
 pron
 verb
-228806	verb
+verb
 np
 conj
 verb
@@ -214849,7 +214849,7 @@ np
 np
 verb
 pron
-228816	conj
+228276	conj
 adv
 np
 np
@@ -214889,7 +214889,7 @@ verb
 pron
 verb
 conj
-228857	conj
+conj
 verb
 pron
 adv
@@ -214933,12 +214933,12 @@ conj
 noun
 pp
 np
-228902	conj
+228361	conj
 verb
 conj
 adv
 verb
-228908	np
+228367	np
 conj
 verb
 conj
@@ -214955,13 +214955,13 @@ verb
 noun
 conj
 verb
-228926	pp
+228385	pp
 np
 np
 verb
 conj
 pp
-228933	adv
+adv
 np
 verb
 np
@@ -214992,7 +214992,7 @@ verb
 conj
 pron
 np
-228965	pron
+pron
 verb
 pp
 np
@@ -215043,7 +215043,7 @@ adv
 verb
 adv
 verb
-229018	conj
+conj
 np
 verb
 verb
@@ -215059,7 +215059,7 @@ conj
 verb
 verb
 pp
-229035	np
+np
 conj
 pron
 verb
@@ -215070,7 +215070,7 @@ pp
 conj
 np
 np
-229047	np
+228501	np
 verb
 pron
 verb
@@ -215092,7 +215092,7 @@ conj
 adv
 verb
 noun
-229070	verb
+verb
 np
 np
 conj
@@ -215100,7 +215100,7 @@ verb
 np
 np
 conj
-229079	verb
+228532	verb
 np
 conj
 verb
@@ -215114,7 +215114,7 @@ pron
 verb
 noun
 conj
-229094	verb
+228547	verb
 np
 np
 conj
@@ -215129,7 +215129,7 @@ np
 verb
 pp
 conj
-229110	pp
+pp
 np
 adv
 verb
@@ -215152,7 +215152,7 @@ conj
 verb
 conj
 verb
-229135	verb
+228587	verb
 pp
 adv
 verb
@@ -215167,7 +215167,7 @@ pron
 verb
 verb
 pron
-229151	pron
+pron
 noun
 pp
 np
@@ -215181,8 +215181,8 @@ np
 adv
 verb
 conj
-229167	conj
-229169	pron
+conj
+228618	pron
 np
 verb
 np
@@ -215193,8 +215193,8 @@ pron
 adv
 verb
 pron
-229181	conj
-229183	verb
+228630	conj
+verb
 conj
 verb
 np
@@ -215213,7 +215213,7 @@ verb
 verb
 pron
 np
-229203	pron
+pron
 verb
 pron
 verb
@@ -215222,7 +215222,7 @@ pp
 np
 np
 conj
-229213	pron
+228660	pron
 pp
 adv
 verb
@@ -215235,7 +215235,7 @@ pron
 pron
 noun
 verb
-229227	pron
+228674	pron
 verb
 conj
 pron
@@ -215276,7 +215276,7 @@ np
 pp
 np
 verb
-229269	np
+228716	np
 np
 pp
 np
@@ -215284,9 +215284,9 @@ pp
 verb
 pron
 conj
-229278	noun
+noun
 verb
-229281	np
+np
 adv
 verb
 pp
@@ -215295,8 +215295,8 @@ conj
 verb
 pron
 np
-229291	verb
-229293	conj
+228736	verb
+228738	conj
 adj
 verb
 pron
@@ -215329,19 +215329,19 @@ pp
 np
 conj
 verb
-229327	verb
+228772	verb
 np
 np
 np
 conj
 verb
 np
-229335	pron
+pron
 vp
 verb
 conj
 pp
-229341	verb
+228785	verb
 pron
 noun
 pron
@@ -215375,7 +215375,7 @@ np
 verb
 noun
 pron
-229376	conj
+conj
 adv
 verb
 pron
@@ -215385,19 +215385,19 @@ noun
 pp
 verb
 pron
-229387	noun
+228830	noun
 np
 np
 adj
 conj
 np
-229394	np
+228837	np
 conj
 np
-229398	verb
+verb
 pron
 noun
-229403	verb
+228845	verb
 adv
 verb
 noun
@@ -215410,7 +215410,7 @@ verb
 adj
 adj
 conj
-229417	pron
+228859	pron
 adj
 verb
 conj
@@ -215427,9 +215427,9 @@ adv
 adj
 adj
 verb
-229435	conj
 conj
-229438	verb
+conj
+228879	verb
 np
 np
 conj
@@ -215448,7 +215448,7 @@ pron
 pron
 verb
 pron
-229458	np
+228899	np
 conj
 np
 conj
@@ -215456,12 +215456,12 @@ adv
 verb
 verb
 conj
-229468	conj
 conj
-229471	verb
+conj
+228910	verb
 np
 np
-229475	np
+228914	np
 conj
 np
 np
@@ -215482,7 +215482,7 @@ np
 verb
 verb
 pron
-229497	adv
+228936	adv
 verb
 noun
 adj
@@ -215493,10 +215493,10 @@ noun
 adj
 verb
 pron
-229509	conj
+conj
 pron
 verb
-229513	adj
+adj
 verb
 conj
 verb
@@ -215534,7 +215534,7 @@ pron
 verb
 verb
 pron
-229552	verb
+228989	verb
 pron
 verb
 pron
@@ -215551,7 +215551,7 @@ noun
 verb
 np
 conj
-229570	verb
+229007	verb
 conj
 verb
 verb
@@ -215582,7 +215582,7 @@ np
 verb
 conj
 pron
-229602	conj
+229039	conj
 verb
 pron
 verb
@@ -215605,7 +215605,7 @@ verb
 verb
 conj
 np
-229626	verb
+verb
 pron
 pron
 verb
@@ -215620,7 +215620,7 @@ verb
 conj
 verb
 np
-229642	conj
+229078	conj
 pp
 np
 adv
@@ -215654,7 +215654,7 @@ conj
 verb
 pron
 noun
-229677	verb
+229113	verb
 np
 verb
 pp
@@ -215673,12 +215673,12 @@ adj
 verb
 conj
 noun
-229697	conj
+conj
 conj
 verb
 verb
 noun
-229703	adv
+229138	adv
 verb
 np
 np
@@ -215708,7 +215708,7 @@ verb
 verb
 pron
 conj
-229734	conj
+conj
 verb
 np
 conj
@@ -215722,7 +215722,7 @@ verb
 np
 verb
 adv
-229749	np
+np
 verb
 pron
 verb
@@ -215733,7 +215733,7 @@ pron
 np
 verb
 pron
-229761	pp
+pp
 verb
 adj
 conj
@@ -215745,12 +215745,12 @@ verb
 pp
 verb
 pron
-229774	noun
+229206	noun
 adv
 verb
 verb
 noun
-229780	conj
+229212	conj
 verb
 adv
 verb
@@ -215794,7 +215794,7 @@ adv
 verb
 np
 np
-229825	verb
+verb
 pp
 np
 pp
@@ -215807,7 +215807,7 @@ np
 np
 np
 verb
-229839	conj
+conj
 conj
 adv
 verb
@@ -215819,7 +215819,7 @@ noun
 pron
 conj
 conj
-229852	verb
+229282	verb
 conj
 verb
 noun
@@ -215858,7 +215858,7 @@ pron
 noun
 pron
 verb
-229892	np
+229322	np
 conj
 np
 conj
@@ -215916,7 +215916,7 @@ np
 adv
 verb
 conj
-229951	pron
+229381	pron
 pp
 np
 conj
@@ -215924,7 +215924,7 @@ np
 pp
 verb
 np
-229960	pron
+pron
 pron
 verb
 pron
@@ -215941,13 +215941,13 @@ np
 verb
 pron
 conj
-229978	pron
+229407	pron
 pp
 np
 conj
 np
 pp
-229985	conj
+conj
 conj
 adv
 pp
@@ -215956,10 +215956,10 @@ np
 verb
 verb
 pron
-229995	verb
+verb
 pp
 np
-229999	pron
+pron
 pron
 verb
 pron
@@ -215973,7 +215973,7 @@ pp
 np
 verb
 conj
-230014	pron
+pron
 verb
 pp
 np
@@ -215985,7 +215985,7 @@ verb
 np
 pp
 np
-230027	conj
+conj
 pron
 verb
 pron
@@ -215994,7 +215994,7 @@ np
 np
 pron
 verb
-230037	conj
+conj
 verb
 pron
 np
@@ -216005,7 +216005,7 @@ pron
 verb
 np
 conj
-230049	np
+np
 verb
 pron
 conj
@@ -216013,7 +216013,7 @@ verb
 pp
 pp
 np
-230058	np
+np
 np
 np
 pron
@@ -216022,7 +216022,7 @@ adv
 verb
 verb
 conj
-230068	adv
+229489	adv
 verb
 pron
 conj
@@ -216031,12 +216031,12 @@ pron
 verb
 pron
 conj
-230078	pp
+229499	pp
 verb
 conj
 pp
 verb
-230084	adv
+adv
 verb
 pron
 adj
@@ -216053,7 +216053,7 @@ conj
 verb
 pron
 conj
-230102	pron
+pron
 verb
 np
 verb
@@ -216063,7 +216063,7 @@ np
 verb
 pron
 conj
-230113	pron
+229532	pron
 pp
 np
 np
@@ -216082,7 +216082,7 @@ pron
 verb
 verb
 pron
-230133	conj
+conj
 verb
 pron
 verb
@@ -216101,12 +216101,12 @@ pron
 np
 adv
 np
-230153	noun
+229571	noun
 conj
 pron
 verb
 conj
-230159	pron
+229577	pron
 verb
 verb
 pron
@@ -216118,7 +216118,7 @@ noun
 conj
 verb
 pron
-230174	conj
+229591	conj
 pron
 verb
 pron
@@ -216131,7 +216131,7 @@ np
 verb
 pron
 conj
-230188	pp
+229605	pp
 verb
 conj
 noun
@@ -216146,7 +216146,7 @@ adv
 verb
 conj
 np
-230204	pron
+pron
 verb
 adv
 verb
@@ -216161,10 +216161,10 @@ verb
 pron
 pp
 verb
-230220	np
+229636	np
 conj
 np
-230224	np
+np
 np
 pron
 verb
@@ -216184,7 +216184,7 @@ pron
 verb
 pron
 pron
-230245	noun
+noun
 verb
 pron
 np
@@ -216208,7 +216208,7 @@ conj
 pron
 verb
 pron
-230270	verb
+229684	verb
 conj
 verb
 pp
@@ -216231,7 +216231,7 @@ verb
 pron
 verb
 conj
-230294	conj
+conj
 verb
 verb
 adv
@@ -216256,16 +216256,16 @@ conj
 verb
 np
 conj
-230320	conj
+conj
 verb
 pron
 np
 adv
 verb
-230327	verb
+verb
 verb
 adv
-230331	pron
+229742	pron
 verb
 np
 np
@@ -216285,7 +216285,7 @@ noun
 verb
 pron
 conj
-230352	np
+np
 noun
 verb
 verb
@@ -216299,10 +216299,10 @@ adj
 verb
 pp
 np
-230367	pron
+pron
 verb
 pron
-230371	verb
+verb
 pp
 pron
 pp
@@ -216325,7 +216325,7 @@ conj
 adv
 pp
 verb
-230395	pron
+pron
 verb
 np
 pron
@@ -216364,7 +216364,7 @@ verb
 conj
 verb
 conj
-230435	verb
+229842	verb
 pp
 conj
 np
@@ -216386,7 +216386,7 @@ verb
 conj
 verb
 np
-230458	conj
+conj
 verb
 pron
 np
@@ -216398,7 +216398,7 @@ pp
 np
 np
 np
-230472	conj
+conj
 np
 np
 verb
@@ -216407,7 +216407,7 @@ pp
 np
 np
 conj
-230482	pron
+229886	pron
 np
 np
 np
@@ -216422,7 +216422,7 @@ pron
 verb
 pron
 conj
-230498	np
+229902	np
 np
 np
 pp
@@ -216453,7 +216453,7 @@ verb
 pp
 np
 np
-230530	pron
+pron
 np
 verb
 conj
@@ -216487,18 +216487,18 @@ np
 np
 verb
 pron
-230565	pron
+229968	pron
 pron
 verb
 conj
-230570	pron
+229973	pron
 verb
 pron
 conj
-230575	verb
+verb
 pron
 conj
-230580	pron
+229981	pron
 verb
 conj
 noun
@@ -216508,7 +216508,7 @@ np
 np
 verb
 conj
-230591	pron
+pron
 verb
 np
 pp
@@ -216521,7 +216521,7 @@ verb
 pron
 verb
 pron
-230605	conj
+conj
 np
 pron
 verb
@@ -216537,9 +216537,9 @@ verb
 np
 np
 verb
-230622	conj
 conj
-230625	pp
+conj
+230023	pp
 np
 adv
 verb
@@ -216555,7 +216555,7 @@ pron
 np
 verb
 np
-230642	pron
+pron
 pron
 verb
 pron
@@ -216570,7 +216570,7 @@ pron
 verb
 np
 verb
-230658	conj
+conj
 np
 np
 verb
@@ -216589,8 +216589,8 @@ adv
 verb
 verb
 pron
-230678	conj
-230680	adv
+conj
+230075	adv
 verb
 conj
 verb
@@ -216625,16 +216625,16 @@ adv
 verb
 adv
 conj
-230716	conj
+230111	conj
 conj
-230719	conj
+230114	conj
 conj
 np
 np
 conj
 conj
 verb
-230727	np
+230122	np
 pp
 np
 np
@@ -216642,17 +216642,17 @@ verb
 verb
 pron
 adv
-230736	conj
+conj
 verb
-230739	np
-230741	pron
+230133	np
+pron
 pron
 verb
 pron
 pp
 np
 np
-230749	np
+np
 np
 pron
 pp
@@ -216689,10 +216689,10 @@ noun
 verb
 np
 conj
-230787	pron
+pron
 verb
 conj
-230791	adv
+230182	adv
 verb
 np
 conj
@@ -216702,7 +216702,7 @@ pron
 verb
 pron
 conj
-230802	conj
+conj
 verb
 np
 np
@@ -216735,7 +216735,7 @@ pron
 adv
 verb
 conj
-230836	conj
+conj
 pron
 verb
 pron
@@ -216748,12 +216748,12 @@ pron
 np
 verb
 pron
-230850	verb
+verb
 pron
 conj
 pron
 verb
-230856	conj
+230244	conj
 conj
 adv
 verb
@@ -216772,28 +216772,28 @@ verb
 pron
 verb
 np
-230876	pp
+230264	pp
 conj
 pp
 conj
 pp
-230882	pp
+pp
 conj
 conj
 adv
 verb
 pp
-230889	pp
+pp
 conj
 conj
-230893	pp
+230279	pp
 np
 verb
 conj
 adv
 verb
 pron
-230901	pp
+pp
 conj
 conj
 np
@@ -216811,10 +216811,10 @@ adv
 verb
 verb
 adv
-230921	conj
+conj
 conj
 verb
-230925	np
+230308	np
 np
 np
 verb
@@ -216822,7 +216822,7 @@ pron
 pp
 np
 np
-230935	conj
+230318	conj
 verb
 pp
 conj
@@ -216833,11 +216833,11 @@ conj
 verb
 verb
 pron
-230947	pron
+pron
 pron
 verb
 conj
-230952	pp
+230334	pp
 np
 verb
 conj
@@ -216858,13 +216858,13 @@ verb
 conj
 verb
 pron
-230974	adj
+230356	adj
 conj
 adv
 verb
 pron
 conj
-230981	adv
+230363	adv
 adj
 conj
 verb
@@ -216877,16 +216877,16 @@ np
 pp
 pron
 verb
-230995	pron
+pron
 verb
 pron
-231000	adj
+230381	adj
 conj
 adv
 verb
 pron
 conj
-231007	adv
+230388	adv
 adj
 conj
 verb
@@ -216898,7 +216898,7 @@ pp
 np
 verb
 conj
-231021	pron
+230401	pron
 verb
 pron
 verb
@@ -216921,13 +216921,13 @@ verb
 pp
 conj
 verb
-231046	adj
+230426	adj
 conj
 adv
 verb
 pron
 conj
-231053	adv
+230433	adv
 adj
 conj
 verb
@@ -216935,7 +216935,7 @@ pron
 verb
 pron
 conj
-231063	verb
+230442	verb
 conj
 verb
 pron
@@ -216978,7 +216978,7 @@ adv
 conj
 noun
 verb
-231108	adv
+230487	adv
 conj
 verb
 pron
@@ -217017,7 +217017,7 @@ adj
 pp
 np
 np
-231148	verb
+verb
 conj
 verb
 conj
@@ -217028,9 +217028,9 @@ pron
 pp
 verb
 pron
-231160	verb
+verb
 noun
-231163	pp
+230540	pp
 verb
 pron
 conj
@@ -217055,643 +217055,643 @@ pron
 verb
 np
 pp
+np
+conj
+np
+verb
+pron
+conj
+230572	pron
+pron
+verb
+conj
+verb
+conj
+pron
+pp
+np
+verb
+verb
+pp
+np
+conj
+verb
+pp
+np
+adv
+verb
+np
+conj
+verb
+pp
+np
+verb
+np
+np
+verb
+adv
+pp
+verb
+conj
+noun
+adj
+verb
+adv
+verb
+conj
+verb
+adj
+conj
+adv
+noun
+verb
+conj
+pron
+pron
+verb
+pp
+verb
+conj
+pp
+verb
+verb
+pron
+noun
+adv
+verb
+verb
+verb
+noun
+conj
+verb
+conj
+verb
+adj
+pp
+np
+pron
+adj
+verb
+conj
+adv
+verb
+adj
+conj
+np
+pp
+verb
+pron
+verb
+pron
+conj
+pp
+noun
+verb
+pp
+np
+noun
+verb
+conj
+verb
+pron
+verb
+np
+pron
+verb
+noun
+conj
+verb
+np
+np
+pp
+np
+verb
+noun
+verb
+np
+verb
+np
+np
+conj
+np
+verb
+pron
+conj
+verb
+pron
+noun
+np
+conj
+np
+pron
+verb
+pron
+verb
+pron
+np
+pron
+conj
+verb
+np
+np
+verb
+230708	np
+np
+np
+conj
+230713	pron
+verb
+230716	pron
+pron
+verb
+pp
+np
+np
+verb
+pron
+verb
+pron
+verb
+conj
+adv
+verb
+pron
+pron
+noun
+pp
+np
+pron
+verb
+pp
+np
+verb
+pp
+verb
+np
+np
+np
+pron
+verb
+pron
+pp
+np
+adj
+verb
+pron
+pron
+verb
+conj
+np
+np
+verb
+adv
+verb
+conj
+np
+pron
+verb
+pron
+pp
+verb
+conj
+np
+pron
+verb
+pron
+verb
+pron
+conj
+230777	pron
+verb
+conj
+verb
+adv
+conj
+pp
+verb
+conj
+verb
+conj
+pron
+pron
+verb
+pron
+pp
+verb
+230795	pp
+np
+verb
+conj
+pp
+pron
+verb
+pron
+conj
+230805	adj
+verb
+conj
+np
+np
+adj
+verb
+conj
+np
+adj
+conj
+verb
+pp
+conj
+230820	adv
+verb
+pp
+np
+conj
+pron
+pp
+np
+verb
+pron
+pp
+verb
+np
+verb
+pron
+pp
+np
+np
+pron
+verb
+pron
+conj
+verb
+adj
+conj
+pron
+conj
+verb
+pp
+pron
+verb
+pron
+pp
+np
+np
+pron
+verb
+pron
+conj
+verb
+conj
+np
+pp
+verb
+conj
+adv
+np
+np
+np
+conj
+np
+verb
+adv
+conj
+pp
+verb
+conj
+pron
+verb
+pp
+np
+conj
+verb
+np
+np
+np
+verb
+pp
+pron
+verb
+pron
+np
+np
+conj
+np
+verb
+pron
+conj
+adv
+verb
+pp
+np
+conj
+pron
+adv
+verb
+pp
+np
+230909	verb
+conj
+verb
+pron
+pp
+np
+conj
+conj
+verb
+pron
+pp
+np
+pp
+np
+adv
+verb
+conj
+pron
+adv
+verb
+pp
+np
+verb
+pron
+pp
+np
+np
+np
+np
+noun
+verb
+conj
+pron
+verb
+pp
+np
+pron
+verb
+pron
+pp
+np
+conj
+pp
+pron
+verb
+pron
+conj
+vp
+np
+pp
+230960	pp
+conj
+verb
+adj
+conj
+adv
+pp
+verb
+pp
+np
+np
+pp
+conj
+adj
+adj
+verb
+conj
+pron
+noun
+pp
+pron
+pp
+conj
+np
+pp
+verb
+conj
+np
+verb
+conj
+pron
+pron
+verb
+pron
+np
+pron
+verb
+pron
+verb
+pron
+conj
+verb
+adj
+conj
+pron
+adj
+231007	pron
+pp
+conj
+pron
+pp
+conj
+vp
+pp
+conj
+verb
+np
+conj
+pron
+pron
+verb
+conj
+verb
+pron
+conj
+pron
+verb
+noun
+pron
+verb
+pron
+verb
+conj
+conj
+verb
+pron
+pron
+verb
+pp
+conj
+verb
+np
+np
+np
+pron
+verb
+pron
+conj
+verb
+pron
+pp
+np
+np
+231055	np
+np
+pron
+adv
+verb
+pron
+conj
+pron
+verb
+conj
+231066	pron
+verb
+conj
+pron
+pron
+verb
+conj
+verb
+pron
+np
+np
+conj
+verb
+conj
+np
+pron
+verb
+pron
+pp
+verb
+pron
+pp
+pron
+verb
+noun
+verb
+pp
+np
+np
+pp
+np
+np
+np
+adv
+verb
+pp
+verb
+231104	conj
+np
+np
+verb
+conj
+np
+231111	verb
+pron
+np
+conj
+adv
+verb
+noun
+adv
+pp
+np
+np
+np
+conj
+verb
+231126	np
+conj
+np
+231130	pp
+np
+conj
+pp
+np
+verb
+adv
+pp
+conj
+conj
+noun
+conj
+verb
+np
+verb
+pp
+verb
+conj
+verb
+pron
+pron
+verb
+verb
+pron
+231155	np
+verb
+pron
+pron
+verb
+verb
+conj
+np
+231164	verb
+pron
+pp
+conj
+conj
+verb
+pron
+pron
+verb
+verb
+pp
+np
+conj
+verb
+adv
+adv
+conj
+verb
+pron
+pron
+verb
+det
+conj
+verb
 231189	np
-conj
-np
-verb
-pron
-conj
-231196	pron
-pron
-verb
-conj
-verb
-conj
-pron
-pp
-np
-verb
-231207	verb
-pp
-np
-conj
-verb
-pp
-np
-adv
-verb
-np
-conj
-verb
-pp
-np
-verb
-np
-np
-verb
-adv
-pp
-verb
-conj
-noun
-adj
-verb
-adv
-verb
-conj
-verb
-adj
-conj
-adv
-noun
-verb
-conj
-pron
-pron
-verb
-pp
-verb
-conj
-pp
-verb
-verb
-pron
-noun
-adv
-verb
-verb
-verb
-noun
-conj
-verb
-conj
-231262	verb
-adj
-pp
-np
-pron
-adj
-verb
-conj
-adv
-verb
-adj
-conj
-np
-pp
-verb
-pron
-verb
-pron
-conj
-pp
-noun
-verb
-231285	pp
-np
-noun
-verb
-conj
-verb
-pron
-verb
-np
-pron
-verb
-noun
-conj
-verb
-np
-np
-pp
-np
 verb
 noun
 verb
-np
-verb
-np
-np
-conj
-np
-verb
 pron
 conj
-verb
 pron
-noun
-np
+verb
 conj
-np
-pron
-verb
-pron
-verb
-pron
-np
-pron
 conj
-verb
-np
-np
-verb
-231335	np
-np
-np
-conj
-231340	pron
-verb
-231343	pron
 pron
 verb
-pp
-np
-np
-231350	verb
-pron
 verb
 pron
 verb
 conj
-adv
 verb
-pron
-pron
-noun
-pp
-np
-231364	pron
-verb
-pp
-np
-verb
-pp
-verb
-np
-np
-np
-231375	pron
-verb
-pron
-pp
-np
-231381	adj
-verb
-pron
-pron
-verb
-conj
-np
-np
-verb
-231391	adv
-verb
-conj
 np
 pron
 verb
 pron
-pp
 verb
-conj
-np
-231403	pron
-verb
-pron
-verb
-pron
-conj
-231410	pron
-verb
-conj
-verb
-adv
-conj
-pp
-verb
-conj
-verb
-conj
-pron
-pron
-verb
-pron
-pp
-verb
-231429	pp
-np
-verb
-conj
-pp
-pron
-verb
-pron
-conj
-231439	adj
-verb
-conj
-np
-np
-adj
-verb
-conj
-np
-adj
-conj
-verb
-pp
-conj
-231455	adv
-verb
-pp
-np
-conj
-pron
-pp
-np
-verb
-pron
-pp
-verb
-np
-verb
-pron
-pp
-np
-231473	np
-pron
-verb
-pron
-conj
-verb
-adj
-conj
-pron
-231483	conj
-verb
-pp
-pron
-verb
-pron
-pp
-np
-231492	np
-pron
-verb
-pron
-conj
-verb
-conj
-231501	np
-pp
-verb
-conj
-adv
-np
-np
-np
-conj
-np
-verb
-adv
-conj
-pp
-verb
-conj
-pron
-verb
-pp
-np
-conj
-verb
-np
-np
-np
-verb
-pp
-pron
-verb
-pron
-np
-np
-conj
-231535	np
-verb
-pron
-conj
-adv
-verb
-pp
-np
-conj
 pron
 adv
 verb
-pp
-np
-231550	verb
-conj
-verb
-pron
-pp
-np
-conj
-conj
-verb
-pron
-pp
 np
 pp
-np
-adv
-verb
-conj
-pron
-adv
-verb
-pp
-np
-verb
-pron
-pp
-np
-np
-np
-np
-noun
-verb
-231582	conj
-pron
-verb
-pp
-np
-pron
-verb
-pron
-pp
-np
-conj
-pp
-pron
-verb
-pron
-conj
-vp
-np
-pp
-231604	pp
-conj
-verb
-adj
-conj
-adv
-pp
-verb
-pp
-np
-np
-pp
-conj
-adj
-adj
-verb
-conj
-pron
-noun
-pp
-pron
-pp
-conj
-np
-pp
-verb
-conj
-np
-verb
-conj
-pron
-pron
-verb
-231640	pron
-np
-231643	pron
-verb
-pron
-verb
-pron
-conj
-verb
-adj
-conj
-pron
-adj
-231655	pron
-pp
-conj
-pron
-pp
-conj
-vp
-pp
-conj
-verb
-np
-conj
-pron
-pron
-verb
-conj
-verb
-pron
-conj
-pron
-verb
-noun
-pron
-verb
-pron
-verb
-conj
-conj
-verb
-pron
-pron
-verb
-pp
-conj
-verb
-np
-231692	np
-np
-pron
-verb
-pron
-conj
-verb
-pron
-pp
-np
-np
-231704	np
-np
-pron
-adv
-verb
-pron
-conj
-pron
-verb
-conj
-231715	pron
-verb
-conj
-pron
-pron
-verb
-conj
-231723	verb
-pron
-np
-np
-conj
-verb
-conj
-np
-231732	pron
-verb
-pron
-pp
-verb
-pron
-pp
-pron
-verb
-noun
-verb
-pp
-np
-np
-pp
-np
-np
-np
-231751	adv
-verb
-231754	pp
-verb
-231757	conj
-np
-np
-verb
-conj
-np
-231764	verb
-pron
-np
-conj
-adv
-verb
-noun
-adv
-pp
-np
-np
-np
-conj
-verb
-231779	np
-conj
-np
-231783	pp
-np
-conj
-pp
-np
-verb
-adv
-pp
-conj
-conj
-noun
-conj
-verb
-np
-verb
-pp
-verb
-conj
-verb
-pron
-pron
-verb
-verb
-pron
-231808	np
-verb
-pron
-pron
-verb
-verb
-conj
-np
-231817	verb
-pron
-pp
-231821	conj
-conj
-verb
-pron
-pron
-verb
-verb
-pp
-np
-conj
-verb
-adv
-adv
-conj
-verb
-pron
-pron
-verb
-det
-conj
-verb
-231843	np
-231845	verb
-noun
-231848	verb
-pron
-conj
-pron
-verb
-conj
-conj
-pron
-verb
-verb
-pron
-verb
-conj
-verb
-np
-231864	pron
-verb
-pron
-verb
-pron
-adv
-verb
-np
-pp
-231874	conj
+231217	conj
 verb
 noun
 verb
 pron
 conj
-231881	verb
+231224	verb
 np
 np
 np
@@ -217715,13 +217715,13 @@ np
 pp
 np
 np
-231906	pron
+pron
 verb
 pron
 np
 verb
 pron
-231913	np
+231255	np
 conj
 conj
 np
@@ -217735,14 +217735,14 @@ conj
 verb
 pron
 conj
-231928	verb
+verb
 pp
 adj
 verb
 conj
 np
 np
-231936	pron
+pron
 verb
 np
 np
@@ -217761,9 +217761,9 @@ np
 verb
 conj
 np
-231957	conj
+231297	conj
 np
-231960	np
+231300	np
 np
 conj
 verb
@@ -217782,24 +217782,24 @@ verb
 pp
 np
 adv
-231980	verb
+231320	verb
 conj
-231983	np
+231323	np
 np
 np
 np
 np
-np
-conj
-verb
 np
 conj
 verb
 np
+conj
+verb
+np
 verb
 conj
 np
-231999	np
+231339	np
 np
 np
 pp
@@ -217814,7 +217814,7 @@ adv
 verb
 verb
 conj
-232015	np
+231355	np
 conj
 np
 noun
@@ -217834,7 +217834,7 @@ np
 conj
 verb
 np
-232036	pp
+231376	pp
 np
 np
 conj
@@ -217851,10 +217851,10 @@ np
 pron
 adv
 verb
-232054	pp
+231394	pp
 conj
 pp
-232058	np
+np
 adv
 np
 np
@@ -217895,13 +217895,13 @@ np
 verb
 pron
 noun
-232101	conj
+231439	conj
 adv
 verb
 verb
 pp
 np
-232108	conj
+conj
 conj
 adv
 pron
@@ -217913,10 +217913,10 @@ pron
 np
 verb
 pp
-232121	np
+231458	np
 vp
 conj
-232125	conj
+231462	conj
 verb
 conj
 pron
@@ -217975,7 +217975,7 @@ verb
 pp
 np
 conj
-232185	adv
+231522	adv
 verb
 conj
 verb
@@ -217996,7 +217996,7 @@ verb
 conj
 verb
 pron
-232207	conj
+conj
 adv
 vp
 pron
@@ -218009,7 +218009,7 @@ verb
 conj
 pron
 np
-232221	verb
+231557	verb
 pron
 pron
 conj
@@ -218044,7 +218044,7 @@ pp
 np
 np
 conj
-232257	verb
+231593	verb
 np
 conj
 verb
@@ -218056,7 +218056,7 @@ np
 np
 verb
 noun
-232270	pp
+231606	pp
 pron
 pron
 verb
@@ -218067,105 +218067,105 @@ pron
 pp
 verb
 np
-232282	pron
-adj
-verb
-232287	np
-np
-np
-conj
-np
-verb
-pron
-pron
-pron
-verb
-verb
-noun
-232300	np
-np
-np
-adv
-verb
-pp
-np
-np
-conj
-pp
-np
-np
-verb
-np
-np
-np
-np
-np
-np
-verb
-conj
-adv
-verb
-np
-adv
-conj
-np
-np
-np
-adv
-verb
-adv
-verb
-conj
-pron
-np
-conj
-noun
-verb
-pron
-verb
-np
-232343	pron
-verb
-conj
-noun
-verb
-232350	pron
-pp
-verb
-conj
-pp
-verb
-pp
-np
-conj
-verb
-np
-np
-verb
-pp
-np
-verb
-np
-np
-verb
-pron
-np
-pron
-verb
-noun
-conj
-pron
-verb
-adv
-verb
-pp
-np
-conj
-verb
-pron
 pron
 adj
 verb
+231621	np
+np
+np
+conj
+np
+verb
+pron
+pron
+pron
+verb
+verb
+noun
+np
+np
+np
+adv
+verb
+pp
+np
+np
+conj
+pp
+np
+np
+verb
+np
+np
+np
+np
+np
+np
+verb
+conj
+adv
+verb
+np
+adv
+conj
+np
+np
+np
+adv
+verb
+adv
+verb
+conj
+pron
+np
+conj
+noun
+verb
+pron
+verb
+np
+pron
+verb
+conj
+noun
+verb
+pron
+pp
+verb
+conj
+pp
+verb
+pp
+np
+conj
+verb
+np
+np
+verb
+pp
+np
+verb
+np
+np
+verb
+pron
+np
+pron
+verb
+noun
+conj
+pron
+verb
+adv
+verb
+pp
+np
+conj
+verb
+pron
+pron
+adj
+verb
 pp
 noun
 verb
@@ -218188,7 +218188,7 @@ verb
 conj
 adv
 verb
-232410	pron
+231740	pron
 conj
 np
 verb
@@ -218203,7 +218203,7 @@ np
 conj
 verb
 conj
-232426	np
+231756	np
 verb
 noun
 pp
@@ -218215,7 +218215,7 @@ np
 verb
 pron
 conj
-232439	verb
+231769	verb
 pp
 conj
 verb
@@ -218251,7 +218251,7 @@ conj
 np
 adv
 verb
-232476	np
+231806	np
 np
 conj
 np
@@ -218259,2186 +218259,2186 @@ np
 conj
 verb
 pron
-232485	verb
+verb
 np
-232488	conj
+conj
 conj
 verb
 pron
-232493	np
+231821	np
 conj
 np
 verb
 verb
-232499	verb
+verb
 verb
 verb
 pron
+np
+verb
+pron
+pron
+conj
+verb
+pron
+conj
+adv
+verb
+pp
+noun
+verb
+pron
+np
+231846	pron
+noun
+verb
+conj
+pp
+np
+verb
+verb
+conj
+np
+pron
+verb
+conj
+conj
+verb
+np
+np
+np
+adv
+verb
+conj
+231868	verb
+pp
+np
+adv
+conj
+verb
+np
+adv
+verb
+pron
+np
+conj
+noun
+adv
+verb
+pron
+verb
+conj
+pron
+np
+pron
+verb
+verb
+conj
+noun
+verb
+verb
+pron
+conj
+noun
+verb
+verb
+pron
+verb
+noun
+adv
+verb
+np
+pp
+conj
+adv
+vp
+pron
+adv
+pp
+verb
+pron
+pron
+np
+verb
+pp
+np
+verb
+verb
+pron
+np
+conj
+verb
+verb
+conj
+pron
+verb
+adv
+verb
+np
+np
+np
+noun
+pron
+verb
+verb
+np
+np
+conj
+verb
+np
+np
+verb
+adv
+np
+conj
+verb
+pp
+pp
+np
+verb
+adj
+adv
+conj
+noun
+verb
+conj
+np
+np
+noun
+verb
+pp
+conj
+verb
+np
+verb
+np
+np
+verb
+conj
+pron
+verb
+verb
+verb
+pron
+verb
+pron
+np
+np
+np
+verb
+verb
+np
+adv
+verb
+noun
+conj
+adv
+noun
+adv
+conj
+verb
+pron
+pron
+conj
+verb
+verb
+conj
+np
+conj
+verb
+pron
+np
+verb
+pp
+verb
+np
+pron
+verb
+adv
+noun
+adv
+pron
+verb
+conj
+232019	pp
+np
+232022	conj
+adj
+conj
+np
+verb
+conj
+np
+np
+conj
+verb
+pp
+np
+vp
+conj
+232038	np
+np
+np
+np
+np
+conj
+np
+np
+verb
+np
+conj
+232050	pp
+verb
+np
+np
+adv
+verb
+np
+conj
+vp
+232060	verb
+conj
+np
+np
+np
+np
+232067	verb
+np
+np
+np
+conj
+conj
+pron
+verb
+np
+verb
+np
+verb
+np
+pron
+verb
+verb
+np
+conj
+conj
+verb
+np
+232089	verb
+np
+np
+conj
+verb
+np
+np
+noun
+conj
+np
+verb
+conj
+np
+adj
+pp
+advp
+adj
+pp
+verb
+conj
+pp
+232111	verb
+pron
+conj
+verb
+pp
+pron
+verb
+conj
+np
+verb
+232122	verb
+np
+np
+pron
+conj
+pp
+np
+np
+verb
+noun
+np
+conj
+conj
+pron
+verb
+verb
+conj
+pp
+np
+np
+np
+232145	np
+np
+conj
+np
+np
+np
+np
+232154	np
+np
+conj
+232158	np
+noun
+conj
+verb
+232163	np
+conj
+np
+verb
+pron
+verb
+verb
+np
+noun
+verb
+np
+np
+adv
+verb
+np
+verb
+np
+np
+conj
+pp
+np
+np
+verb
+np
+pron
+pp
+np
+pp
+verb
+np
+conj
+adv
+adj
+verb
+conj
+verb
+np
+verb
+verb
+np
+verb
+adjp
+np
+conj
+adjp
+np
+noun
+verb
+verb
+np
+np
+conj
+conj
+verb
+np
+np
+verb
+verb
+conj
+verb
+np
+verb
+np
+np
+conj
+conj
+noun
+verb
+conj
+adv
+verb
+pp
+np
+np
+pp
+np
+verb
+conj
+adj
+np
+np
+np
+np
+verb
+np
+conj
+verb
+np
+np
+conj
+verb
+verb
+conj
+np
+conj
+232259	np
+np
+232262	np
+conj
+verb
+conj
+232267	np
+verb
+pron
+pp
+conj
+np
+verb
+conj
+verb
+adv
+pron
+verb
+verb
+np
+np
+conj
+232284	np
+np
+noun
+np
+np
+verb
+conj
+verb
+adj
+232294	conj
+conj
+verb
+verb
+conj
+adj
+np
+verb
+np
+conj
+pron
+verb
+conj
+adj
+verb
+conj
+np
+verb
+verb
+conj
+pron
+conj
+np
+verb
+np
+adv
+verb
+conj
+adv
+np
+verb
+verb
+pp
+pron
+verb
+pp
+conj
+verb
+np
+np
+pp
+232336	verb
+np
+np
+verb
+conj
+pp
+np
+np
+np
+conj
+verb
+np
+np
+np
+conj
+verb
+np
+verb
+conj
+conj
+verb
+np
+np
+verb
+conj
+np
+232363	verb
+pp
+noun
+np
+verb
+np
+232370	conj
+np
+np
+verb
+conj
+np
+np
+np
+conj
+verb
+pron
+noun
+pp
+np
+conj
+noun
+verb
+np
+verb
+232390	verb
+conj
+pp
+np
+adv
+verb
+noun
+conj
+pp
+np
+np
+pp
+adv
+adj
+vp
+adv
+conj
+pp
+np
+np
+np
+conj
+adv
+verb
+np
+verb
+np
+np
+conj
+np
+np
+232422	np
+verb
+adv
+noun
+adv
+verb
+pp
+np
+conj
+verb
+np
+verb
+pp
+np
+232437	verb
+conj
+conj
+verb
+232442	pp
+232444	conj
+pp
+np
+np
+pron
+verb
+np
+conj
+verb
+pron
+232455	verb
+np
+pp
+np
+conj
+adv
+verb
+adv
+verb
+pron
+verb
+conj
+232468	np
+conj
+np
+np
+conj
+verb
+pp
+np
+verb
+conj
+np
+adv
+conj
+232482	np
+np
+verb
+adj
+np
+conj
+verb
+adj
+pp
+np
+conj
+232494	verb
+verb
+verb
+np
+adv
+conj
+verb
+verb
+conj
 np
 232505	verb
 pron
-pron
 conj
 verb
+pp
+np
+conj
+verb
+232514	np
+verb
+conj
+np
 pron
+verb
+pp
+np
+np
+pp
+np
+verb
 conj
 adv
 verb
-pp
-noun
-verb
-pron
-np
-232520	pron
-noun
-verb
-conj
-pp
-np
-verb
-verb
-conj
-np
-pron
-verb
-232533	conj
-conj
-verb
-np
-np
-np
-adv
-verb
-conj
-232543	verb
 pp
 np
 adv
 conj
 verb
 np
-adv
-verb
-pron
-np
-conj
-noun
-adv
-verb
-pron
-verb
-conj
-pron
-np
-232564	pron
-verb
-verb
-conj
-noun
-verb
-verb
-pron
-conj
-noun
-verb
-verb
-pron
-verb
-noun
-232580	adv
-verb
-np
-pp
-conj
-adv
-vp
-pron
-adv
-pp
-verb
-pron
-pron
-np
-verb
-pp
-np
-verb
-verb
-pron
-np
-conj
-verb
-verb
-232606	conj
-pron
-verb
-adv
-verb
-np
-np
-np
-noun
-pron
-verb
-verb
-np
-np
-conj
-verb
-np
-np
-verb
-adv
-np
-conj
-verb
-pp
-pp
+232536	np
 np
 verb
 adj
-adv
-conj
-noun
-232638	verb
-conj
-np
-np
-noun
-verb
 pp
+np
+conj
+232544	verb
 conj
 verb
-np
-232649	verb
-np
-np
-verb
-conj
-pron
-232657	verb
-verb
-verb
-pron
-verb
-pron
-np
-np
-np
-verb
-verb
-np
-232670	adv
-verb
-noun
-conj
-adv
-noun
 adv
 conj
 verb
-pron
-pron
-conj
-verb
-verb
-conj
-np
-conj
-verb
-pron
 np
 verb
+pron
 pp
 verb
-232695	np
-pron
 verb
+conj
 adv
+pp
+np
 noun
-adv
-pron
-verb
-conj
-232705	pp
-np
-232708	conj
-adj
-conj
-np
-verb
-conj
-np
-np
 conj
 verb
 pp
 np
-vp
-conj
-232724	np
-np
-np
-np
-np
-conj
-np
-np
-verb
-np
-conj
-232737	pp
-verb
-np
-np
 adv
 verb
-np
-conj
-vp
-232747	verb
-conj
-np
-np
-np
-np
-232754	verb
-np
-np
-np
-conj
-conj
-pron
-verb
-np
-verb
-np
-verb
-np
-pron
-verb
-verb
-np
 conj
 conj
 verb
-np
-232776	verb
-np
+verb
+pp
 np
 conj
-232781	verb
+verb
 np
 np
-noun
+pp
+verb
+232580	adj
+pp
+np
 conj
-np
-232788	verb
-conj
-np
 adj
 pp
+np
+adv
+verb
+np
+np
+np
+conj
+verb
+pron
+pron
+noun
+pron
+verb
+verb
+pron
+conj
+verb
+np
+np
+conj
+adv
+verb
+adv
+verb
+pron
+pron
+verb
+verb
+pp
+np
+conj
+232618	verb
+np
+verb
+conj
+adv
+verb
+conj
+noun
+verb
+verb
+pron
+noun
+noun
+pron
+verb
+pron
+verb
+pron
+verb
+conj
+np
+verb
+verb
+pron
+noun
+conj
+pron
+verb
+pron
+verb
+pron
+adv
+verb
+pron
+pron
+pron
+verb
+verb
+pron
+noun
+noun
+verb
+pron
+verb
+pron
+adv
+pron
+verb
+noun
+verb
+pron
+noun
+232671	adv
+pron
+verb
+adv
+conj
+verb
+pp
+np
+232680	verb
+conj
+pp
+np
+np
+conj
+verb
+pron
+verb
+pp
+np
+232693	np
+conj
+np
+conj
+232698	np
+conj
+np
+verb
+232703	np
+verb
+np
+conj
+verb
+np
+conj
+pron
+verb
+pron
+verb
+conj
+adj
+232717	np
+np
+np
+np
+conj
+np
+verb
+conj
+verb
+np
+pp
+np
+np
+np
+verb
+np
+conj
+232735	verb
+pp
+np
+conj
+verb
+pron
+noun
+pron
+conj
+pron
+verb
+verb
+232748	conj
+np
+conj
+np
+pron
+verb
+conj
+np
+verb
+np
+verb
+conj
+pron
+np
+adv
+noun
+pron
+conj
+verb
+pron
+np
+pron
+verb
+pron
+conj
+pron
+verb
+verb
+conj
+verb
+pron
+verb
+np
+np
+verb
+np
+verb
+pron
+pron
+verb
+verb
+232791	conj
+np
+pp
+np
+verb
+noun
+adv
+verb
+pp
+conj
+verb
+noun
+verb
+conj
+pron
+np
+np
+verb
+np
+det
+conj
+verb
+pron
+conj
+232816	adv
+verb
+pp
+np
+np
+np
+np
+np
+conj
+verb
+np
+np
+pp
+np
+np
+np
+conj
+verb
+np
+np
+pp
+np
+np
 advp
-adj
-pp
-232797	verb
-conj
-pp
-232801	verb
-pron
-conj
-verb
-pp
-pron
-verb
-conj
-np
-verb
-232812	verb
-np
-np
-pron
-conj
-pp
-np
-np
-verb
-noun
-np
-conj
-conj
-pron
-verb
 verb
 conj
 pp
-np
-np
-np
-232835	np
-np
-conj
-np
-np
-np
-np
-232844	np
-np
-conj
-232848	np
-noun
-conj
-verb
-232853	np
-conj
-np
-verb
-pron
-verb
-verb
-np
-noun
-verb
-np
 np
 adv
 verb
-np
-232869	verb
-np
-np
-conj
-pp
-np
-np
-verb
-np
-pron
-pp
-np
-pp
-verb
-np
-conj
 adv
-adj
-verb
-conj
-verb
-np
-verb
-verb
-np
-verb
-adjp
-np
-conj
-adjp
-np
-noun
-verb
-verb
 np
 np
-232906	conj
-conj
-verb
-np
-np
-verb
-verb
-conj
-verb
-np
-verb
-np
-np
-conj
 conj
 noun
+pp
+verb
+np
+np
 verb
 conj
-232925	adv
-verb
+232858	verb
 pp
 np
-np
-pp
-np
-verb
-conj
-adj
-np
-np
-np
-np
-verb
-np
 conj
 verb
-np
-np
-conj
-verb
-verb
-conj
-np
-conj
-232952	np
-np
-232955	np
-conj
-verb
-conj
-232960	np
-verb
+noun
 pron
-pp
-conj
-np
-verb
-conj
-verb
 adv
-pron
 verb
+np
+232871	verb
+np
+np
+adv
+conj
 verb
 np
 np
 conj
-232977	np
+232881	verb
 np
+np
+conj
+verb
+pp
+np
+np
+conj
+232891	verb
+adj
+conj
+adj
+verb
 noun
+conj
+verb
+pron
+232901	np
+np
+conj
 np
 np
 verb
-conj
-verb
-adj
-232987	conj
-conj
-232990	verb
-verb
-conj
-adj
-np
-verb
+pron
 np
 conj
+verb
 pron
 verb
-conj
 adj
-verb
-conj
-np
-verb
-233007	verb
-conj
-pron
-conj
-np
-verb
-np
 adv
 verb
 conj
-adv
+verb
+np
+np
+conj
+conj
 np
 verb
-verb
+np
 pp
+np
 pron
-verb
-pp
-conj
-verb
-np
-np
-pp
-233031	verb
-np
-np
-verb
-conj
-pp
-np
-np
-np
-conj
-verb
-np
-np
-np
-conj
-verb
-np
-verb
-conj
-conj
-verb
-np
-np
-verb
-conj
-np
-233058	verb
-pp
-noun
-np
-verb
-np
-233065	conj
-np
-np
-verb
-conj
-np
-np
-np
-conj
-verb
-pron
-noun
-pp
-np
-conj
-noun
-verb
-np
-verb
-233085	verb
-conj
-pp
-np
-233090	adv
-verb
-noun
-conj
-pp
-np
-233097	np
-pp
 adv
-adj
 vp
-adv
-conj
 pp
 np
 np
+pron
+conj
+verb
+232937	conj
+verb
+conj
+noun
+verb
+232943	np
+np
+np
 np
 conj
-adv
-verb
-np
-verb
-np
-233115	np
 conj
-np
-np
-233120	np
 verb
+noun
+verb
+pp
+np
+np
+pp
+verb
+pron
 adv
 noun
+np
+pp
+np
+np
+np
+verb
+conj
 adv
 verb
+adv
+232972	conj
+232974	verb
+noun
+conj
+232978	np
+pp
+np
+np
+conj
+np
+np
+conj
+np
+np
+pp
+np
+np
+verb
+pron
+232994	verb
+verb
+verb
+pron
+verb
+np
+pp
+233002	verb
+conj
+verb
 pp
 np
 conj
+pp
+np
+np
 verb
+adj
+noun
+conj
+adv
+verb
+verb
+noun
+pp
+np
+adv
+conj
+verb
+np
+conj
+noun
+verb
+verb
+conj
+pron
+noun
+noun
+np
+verb
+verb
+pron
+ptcl
+det
+conj
+verb
+pron
+233043	verb
+pp
+np
+np
+np
+np
+np
+conj
+verb
+verb
+conj
+conj
+adv
+pron
+verb
+verb
+pp
+np
+np
+np
+verb
+conj
+np
+np
+pron
+verb
+np
+np
+np
+verb
+233074	conj
+verb
+conj
+np
+verb
+np
+verb
+verb
+conj
+adj
+conj
+verb
+pron
+pp
+np
+np
+conj
+np
+np
+verb
+233095	conj
+verb
+adj
+pp
+np
+conj
+pp
+pp
+np
+verb
+np
+np
+np
+conj
+conj
+verb
+pp
+np
+verb
+233115	noun
+verb
+conj
+noun
+verb
+conj
+noun
+verb
+pron
 np
 verb
 pp
 np
-233135	verb
-conj
-conj
+pron
 verb
-233140	pp
+adv
+verb
+233133	conj
+verb
+np
+pp
+np
+adjp
+np
+np
 233142	conj
-pp
-233145	np
+pron
+verb
+adv
+verb
 np
+verb
+pron
+np
+verb
+verb
+np
+verb
+np
+verb
+pron
+pron
+pron
+verb
+verb
+conj
+np
+verb
+verb
+noun
+conj
+233170	verb
+np
+conj
+verb
+pron
+conj
+np
+adv
+pron
+adv
+verb
+noun
+np
+verb
+pp
+conj
+conj
+verb
+verb
+np
+233191	np
+np
+verb
+pron
+adjp
+verb
+pron
+ptcl
+noun
+pron
+verb
+conj
+verb
+pron
+verb
+pron
+verb
+np
+np
+verb
+pron
+adv
+adv
+np
+verb
+pron
+verb
+pron
+ptcl
+noun
+pron
+verb
+conj
+verb
+pron
+verb
+pron
+verb
+np
+np
+verb
+pron
+np
+np
+verb
 pron
 verb
 np
 conj
 verb
 pron
-233154	verb
 np
-pp
-np
-conj
-adv
 verb
-adv
+pron
+conj
+verb
+pron
+noun
+adj
+pron
 verb
 pron
 verb
 conj
-233167	np
-conj
-np
-np
-conj
 verb
-pp
+pron
+verb
+pron
+noun
+verb
+np
 np
 verb
-conj
-np
-adv
-conj
-233181	np
-np
+pron
+233266	conj
 verb
 adj
-np
-conj
-verb
-adj
-pp
-np
-conj
-233193	verb
-verb
-verb
-np
-adv
-conj
-verb
-verb
-conj
-np
-233204	verb
-pron
-conj
-verb
-pp
-np
-conj
-verb
-233213	np
-verb
-conj
-np
-233218	pron
-verb
-pp
-np
-np
-pp
-np
-verb
-conj
-adv
-verb
-pp
-np
-adv
-conj
-verb
-np
-233236	np
-np
-verb
-adj
-pp
-np
-conj
-233244	verb
-conj
-verb
-adv
-conj
-verb
-np
 verb
 pron
-pp
-verb
-verb
-conj
-adv
-pp
-np
-noun
 conj
 verb
-pp
-np
-adv
+conj
 verb
 conj
 conj
 verb
 verb
-pp
 np
-conj
-verb
-np
-np
-pp
-verb
-233280	adj
-pp
 np
 conj
 adj
-pp
-np
-adv
-verb
-np
-np
-np
-conj
-verb
-pron
-pron
-noun
-pron
-verb
 verb
 pron
 conj
-verb
-np
-np
-conj
-adv
-verb
-adv
-verb
-pron
-pron
-verb
-verb
-pp
-np
-conj
-233318	verb
-np
 verb
 conj
 adv
 verb
+pron
 conj
-noun
 verb
 verb
-pron
-noun
-noun
-pron
-verb
-pron
-verb
-pron
-verb
-conj
 np
 verb
-verb
-pron
-233343	noun
+np
 conj
 pron
 verb
+verb
 pron
+verb
+pron
+verb
+np
+verb
+np
+pron
+verb
+np
 verb
 pron
 adv
-verb
-pron
-pron
-pron
-verb
-verb
-pron
-noun
-noun
-verb
-pron
-verb
-pron
-adv
-233366	pron
-verb
-noun
-verb
-pron
-noun
-233374	adv
-pron
-verb
-adv
-conj
 verb
 pp
 np
-233383	verb
-conj
 pp
 np
 np
 conj
 verb
+noun
 pron
 verb
+verb
+pron
+pron
+conj
+verb
+np
+verb
+np
+noun
+pron
+conj
+pron
+verb
+pron
+np
+conj
+pron
+verb
+verb
+conj
+verb
+pron
+pp
+pron
+pron
+verb
+verb
+conj
+np
+np
 pp
 np
-233396	np
-conj
 np
-conj
-233401	np
-conj
 np
+adv
 verb
-233406	np
-verb
+233362	verb
+conj
+pron
 np
 conj
+adv
 verb
-np
+conj
 conj
 pron
 verb
+verb
+conj
+verb
 pron
-233417	verb
+pp
+233379	pron
+verb
+233382	np
+233384	verb
+pp
+conj
+verb
+pron
+conj
+verb
 conj
 adj
-233421	np
 np
-np
-np
-conj
 np
 verb
+verb
 conj
+np
+np
+pron
 verb
 np
+pron
+conj
+verb
 pp
-np
-np
-np
-verb
-np
-conj
-233439	verb
-pp
-np
-conj
-verb
-pron
-noun
-pron
-conj
-pron
-verb
-verb
-233452	conj
-np
-conj
-np
-pron
-verb
-conj
-np
-verb
-np
-verb
-conj
-pron
-np
 adv
-233468	noun
-pron
-233471	conj
+np
 verb
-pron
+np
+verb
+np
+np
+verb
+np
+np
+verb
+pp
+np
 np
 pron
 verb
-pron
+np
+233425	conj
 conj
-pron
-verb
-verb
-conj
-verb
-pron
-verb
-np
-233488	np
-verb
-np
-verb
-pron
-pron
-verb
-verb
-233498	conj
-np
 pp
 np
 verb
-noun
+np
+pp
+np
+pron
+verb
+verb
+pron
 adv
 verb
+pron
+verb
 pp
+verb
+pron
+pp
+np
+233447	pp
+np
+verb
+pron
+conj
+verb
+np
+pp
+np
+np
+np
+conj
+verb
+verb
+pron
+233463	pp
+adv
+verb
+conj
+verb
+np
+np
+np
+pron
+verb
+pron
+conj
+233476	noun
 conj
 verb
 noun
-verb
-conj
 pron
-np
+conj
+pp
 np
 verb
+pp
+pp
+np
 np
 det
 conj
+conj
+verb
 verb
 pron
-233522	conj
-233524	adv
 verb
-pp
-np
-np
-np
-np
-np
-conj
-verb
-np
-np
-pp
-np
-np
-np
-conj
-verb
-np
-np
-pp
-np
-np
-advp
-verb
-conj
-pp
-np
-adv
-verb
-adv
-np
-np
-conj
 noun
 pp
-233561	verb
 np
 np
 verb
-conj
-233567	verb
+np
+np
+verb
 pp
+adv
+pron
+verb
+verb
+233510	conj
+pron
+np
+verb
+pp
+np
 np
 conj
 verb
 noun
-pron
-adv
-verb
-np
-233580	verb
-np
-np
-adv
-conj
 verb
 np
 np
-conj
-233590	verb
-np
-np
+pp
 conj
 verb
+np
+233528	pp
+conj
+conj
+pp
+np
+np
+233535	conj
+conj
 pp
 np
 np
 conj
-233600	verb
-adj
-conj
-adj
+pron
 verb
+verb
+pron
+verb
+conj
 noun
-conj
 verb
 pron
-233610	np
-np
-conj
-np
-np
-verb
-pron
-np
-233620	conj
-verb
-pron
-verb
-adj
-adv
-verb
-conj
-verb
-np
-np
-conj
-conj
-np
-verb
-np
 pp
 np
-pron
-adv
+np
+conj
+conj
 vp
 pp
 np
-np
-pron
-conj
-verb
-233648	conj
-verb
-conj
-noun
-verb
-233654	np
-np
-np
-np
-conj
-conj
-verb
-noun
-verb
-pp
-np
-np
-pp
-verb
-pron
-adv
-noun
-np
-pp
-np
-np
-np
-verb
-conj
-adv
-verb
-adv
-233683	conj
-233685	verb
-noun
-conj
-233689	np
-pp
-np
-np
-conj
-np
-np
-conj
-np
-np
-pp
-np
-np
-verb
-pron
-233705	verb
-verb
 verb
 pron
 verb
 np
-pp
-233713	verb
-conj
 verb
+pron
 pp
 np
-conj
-pp
-np
-np
-verb
-adj
-233725	noun
-conj
+pron
 adv
 verb
-verb
 noun
+noun
+pron
+verb
+verb
+pp
+np
+233577	np
+np
+verb
+pp
 pp
 np
 adv
-conj
 verb
 np
-conj
-noun
-verb
-verb
-conj
-pron
-noun
-noun
-np
-verb
 verb
 pron
-ptcl
-det
-conj
 verb
-pron
-233755	verb
 pp
 np
-np
-np
-np
-np
-conj
-verb
-verb
-conj
-conj
 adv
-pron
 verb
+pp
+pp
+233596	verb
+noun
+pron
 verb
 pp
 np
+verb
+conj
+conj
+verb
+pp
+np
+verb
+adv
+vp
+233613	np
+conj
+conj
+conj
+conj
+233619	conj
+233621	conj
+np
+conj
+233625	np
+conj
+np
+np
+vp
+adv
+np
+233633	pp
+233635	conj
+233637	np
+np
+np
+conj
+pp
+np
+np
+conj
+pp
 np
 np
 verb
+noun
+pp
+np
+np
+verb
+verb
 conj
-233778	np
+np
+np
+pp
+np
+pp
+233662	noun
+noun
+verb
+verb
 np
 pron
 verb
 np
 np
 np
-verb
-233787	conj
-verb
-conj
+pp
 np
+pp
+233676	verb
+noun
+verb
+noun
+conj
+233682	vp
+pp
+conj
 verb
 np
-verb
-verb
+np
+np
+np
+pron
 conj
+conj
+verb
+noun
+pp
+np
+np
+conj
+233700	adj
+verb
+verb
 adj
 conj
 verb
-pron
-pp
 np
-np
-conj
-np
-np
-verb
-233808	conj
-verb
-adj
-pp
-np
-conj
-pp
-pp
-np
-verb
-np
-np
-np
-conj
-conj
-verb
-pp
-np
-verb
-233828	noun
-verb
-conj
-noun
-verb
-conj
-noun
-verb
-pron
-np
-verb
-pp
-np
-233842	pron
-verb
-adv
-verb
-233847	conj
-verb
-np
-pp
-np
-adjp
-np
-np
-233856	conj
-233858	pron
-verb
-adv
-verb
-np
-verb
-pron
-np
-233867	verb
-verb
-np
-verb
-np
-verb
-pron
-pron
-pron
-verb
-verb
-conj
-np
-verb
-verb
-noun
-conj
-233886	verb
-np
-conj
-verb
-pron
-conj
-np
-adv
-pron
-adv
-233897	verb
-noun
-np
-verb
-pp
-233903	conj
-conj
-verb
-verb
-np
-233909	np
-np
-verb
-pron
-adjp
-verb
-pron
-ptcl
-noun
-pron
-verb
-conj
-verb
-pron
-verb
-pron
-verb
-np
-np
-verb
-pron
-adv
-adv
-np
-verb
-pron
-verb
-pron
-ptcl
-noun
-pron
-verb
-conj
-verb
-pron
-verb
-pron
-verb
-np
-np
-verb
-pron
-np
-np
-verb
-pron
-233956	verb
-np
-conj
-verb
-pron
-np
-verb
-pron
-conj
-verb
-pron
-noun
-adj
-pron
-verb
-pron
-verb
-conj
-verb
-pron
-verb
-pron
-noun
-verb
-np
-np
-verb
-pron
-233985	conj
-verb
-adj
-verb
-pron
-conj
-verb
-conj
-verb
-conj
-conj
-verb
-verb
 np
 np
 conj
 adj
 verb
-pron
+np
+verb
+noun
 conj
 verb
+np
+np
+np
+np
+np
+pron
+verb
+np
+verb
+conj
+pp
+np
+233731	verb
+np
+np
+adj
 conj
 adv
 verb
-pron
+verb
+pp
 conj
-verb
-verb
+np
 np
 verb
-np
+adj
+verb
 conj
-pron
-verb
-verb
-pron
-verb
-pron
-verb
 np
-verb
-np
-234028	pron
-verb
 np
 verb
 pron
-adv
+pp
+np
+pron
+233755	conj
+pp
+233758	np
 verb
 pp
 np
+np
+pp
+np
+pron
+verb
 pp
 np
 np
+np
+pp
+verb
+np
 conj
 verb
+233779	verb
 noun
 pron
 verb
-verb
-pron
-pron
+noun
+conj
 conj
 verb
+verb
+pron
+233790	np
+verb
+pron
+verb
+pp
 np
+np
+adj
 verb
 np
+np
+np
+233803	np
+conj
+pp
+verb
+noun
+verb
+pp
+np
+np
+np
+conj
+233815	verb
 noun
 pron
 conj
-pron
 verb
-pron
-np
-234061	conj
-pron
-verb
-verb
-conj
-verb
-pron
-pp
-pron
-pron
-verb
-verb
-conj
-np
 np
 pp
+conj
+verb
+pp
 np
+np
+conj
+pp
+verb
+np
+np
+np
+verb
+adj
+adv
+pp
+np
+conj
+verb
+adv
+pp
+np
+noun
+conj
+verb
+np
+conj
+verb
 np
 np
 adv
-verb
-234083	verb
+vp
 conj
+233855	verb
 pron
+verb
+noun
+conj
+noun
+conj
+verb
+pp
+np
 np
 conj
+233868	verb
+adj
+np
+conj
+verb
+verb
+np
+conj
+np
+verb
+verb
+pron
+vp
+conj
+pp
+233884	np
+np
+pp
+np
+233889	np
+pp
+np
+verb
+conj
+np
+np
+verb
+np
+conj
+verb
+conj
+verb
+np
+np
+np
+verb
+pron
+verb
+conj
+conj
+verb
+verb
+verb
+np
+233915	verb
+verb
+noun
+conj
 adv
-verb
-conj
-234092	conj
 pron
 verb
-verb
-conj
-verb
-pron
-pp
-234101	pron
-verb
-234104	np
-234106	verb
-pp
-conj
-verb
-pron
-conj
-verb
-conj
 adj
 np
 np
+np
+pp
 verb
-234119	verb
+233929	conj
 conj
+conj
+verb
+233934	np
+conj
+conj
+233938	conj
+np
+conj
+conj
+233943	conj
+np
+np
+233947	np
+np
+pp
+conj
+233953	np
+np
+verb
+conj
+conj
+233959	conj
+verb
+verb
+pron
+np
+np
+np
+np
+np
+verb
+conj
+adj
+conj
+verb
+np
+pp
+verb
+pron
+verb
+pron
+verb
+adj
+conj
+verb
+verb
+conj
+noun
+vp
+verb
+conj
+np
+pp
+np
+verb
+np
+np
+conj
+verb
+pron
+233999	np
+conj
+np
+verb
+noun
+pron
+pron
+adj
+verb
+conj
+verb
+np
+np
+234013	conj
+conj
+pron
+verb
+pron
+verb
+verb
+conj
+np
+np
+np
+conj
+pron
+verb
+verb
+pp
+234030	np
+conj
+verb
+pp
+np
+np
+verb
+np
+verb
+pp
+np
+np
+pp
+np
+conj
+234046	verb
+234048	np
+np
+conj
+np
+np
+conj
+np
+np
+noun
+verb
+conj
+np
+np
+noun
+verb
+pp
+conj
+234066	pp
+np
+np
+conj
+pp
+np
+np
+pp
+np
+np
+verb
+pp
+np
+np
+conj
+verb
+conj
+verb
+noun
+pp
+np
+adv
+conj
+noun
+pp
+np
+adv
+234094	conj
+conj
+np
+np
+verb
+pp
+conj
+np
+pp
+verb
+np
+np
+np
+conj
+conj
+verb
+np
+pron
+verb
+np
+np
+verb
+noun
+noun
+verb
+np
 np
 234123	np
-pron
-verb
-np
-234128	pron
-conj
-verb
-pp
-adv
-np
-verb
-np
-verb
-np
-np
-verb
-np
-np
-verb
-pp
-np
-np
-pron
-verb
-np
-234150	conj
-conj
-pp
-np
-verb
-np
-234157	pp
-np
-pron
-verb
-verb
-pron
-adv
-verb
-pron
-verb
-pp
-verb
-pron
-pp
-np
-234173	pp
-np
-verb
-pron
-conj
-verb
-np
-pp
-np
-np
-np
-conj
-verb
-verb
-pron
-234189	pp
-adv
-verb
-conj
-verb
-np
-234196	np
-np
-pron
-verb
-pron
-conj
-234203	noun
-conj
-verb
-noun
-pron
-conj
-pp
-np
-verb
-pp
-pp
-np
-np
-det
-conj
-conj
-verb
-verb
-pron
-verb
-noun
-pp
-np
-np
-verb
-np
-np
-verb
-pp
-adv
-pron
-verb
-verb
-234238	conj
-pron
-np
-verb
-pp
-np
-np
-conj
-234247	verb
-noun
-verb
-np
-np
-pp
-conj
-verb
-np
-234257	pp
-conj
-conj
-pp
-np
-np
-234264	conj
-conj
-pp
-np
-np
-conj
-pron
-verb
-verb
-pron
-verb
-conj
-noun
-verb
-pron
-pp
-np
-np
-conj
-234284	conj
-234286	vp
-pp
-np
-verb
-pron
-verb
-np
-verb
-pron
-pp
-np
-pron
-adv
-verb
-234302	noun
-noun
-pron
-verb
-verb
-pp
-np
-234310	np
-np
-verb
-pp
-pp
-np
-adv
-verb
-np
-verb
-pron
-verb
-pp
-np
-adv
-verb
-pp
-pp
-234330	verb
-noun
-pron
-verb
-pp
-np
-verb
-conj
-conj
-verb
-pp
-np
-verb
-adv
-vp
-234347	np
-conj
-conj
-conj
-conj
-234353	conj
-234355	conj
-np
-conj
-234359	np
-conj
-np
-np
-vp
-adv
-np
-234367	pp
-234369	conj
-234371	np
-np
-np
-conj
-pp
-np
-np
-conj
-234380	pp
-np
-np
-verb
-noun
-pp
-np
-np
-verb
-verb
-conj
-np
-np
-pp
-np
-pp
-234399	noun
-noun
-verb
-verb
-np
-234405	pron
-verb
-np
-np
-np
-pp
-np
-pp
-234414	verb
-noun
-verb
-noun
-conj
-234420	vp
-pp
-conj
-verb
-np
-np
-np
-np
-pron
-conj
-conj
-verb
-noun
-pp
-np
-np
-conj
-234438	adj
-verb
-verb
-adj
-conj
-verb
-np
-np
-np
-conj
-adj
-verb
-np
-verb
-noun
-conj
-verb
-np
-np
-np
-np
-np
-234461	pron
-verb
-np
-verb
-conj
-pp
-np
-234470	verb
-np
-np
-adj
-conj
-adv
-verb
-verb
-pp
-conj
-np
-np
-verb
-adj
-verb
-conj
-np
-np
-verb
-pron
-pp
-np
-234493	pron
-234495	conj
-pp
-234498	np
-verb
-pp
-np
-np
-pp
-np
-234506	pron
-verb
-pp
-np
-np
-np
-pp
-verb
-np
-conj
-verb
-234521	verb
-noun
-pron
-verb
-noun
-conj
-conj
-verb
-verb
-pron
-234532	np
-verb
-234535	pron
-verb
-pp
-np
-np
-adj
-verb
-np
-np
-234545	np
-234547	np
-conj
-pp
-verb
-noun
-verb
-pp
-np
-np
-np
-conj
-234559	verb
-noun
-pron
-conj
-verb
-np
-pp
-conj
-verb
-pp
-np
-np
-conj
-pp
-verb
-np
-np
-np
-verb
-adj
-adv
-pp
-np
-conj
-verb
-adv
-pp
-np
-noun
-conj
-verb
-np
-conj
-verb
-234594	np
-np
-adv
-vp
-conj
-234600	verb
-pron
-verb
-noun
-conj
-noun
-conj
-verb
-pp
-np
-np
-conj
-234613	verb
-adj
-np
-conj
-verb
-verb
-np
-conj
-np
-verb
-verb
-pron
-vp
-conj
-pp
-234629	np
-np
-pp
-np
-234634	np
-pp
-np
-234639	verb
-conj
-np
-np
-verb
-np
-conj
-verb
-conj
-verb
-np
-np
-np
-verb
-pron
-verb
-conj
-conj
-verb
-verb
-verb
-np
-234662	verb
-verb
-noun
-conj
-adv
-pron
-verb
-adj
-234671	np
-np
-np
-pp
-verb
-234677	conj
-conj
-conj
-verb
-234682	np
-conj
-conj
-234686	conj
-np
-conj
-conj
-234691	conj
-np
-np
-234695	np
-np
-pp
-conj
-234701	np
-np
-verb
-conj
-conj
-234707	conj
-verb
-verb
-pron
-np
-np
-np
-np
-np
-verb
-conj
-adj
-conj
-verb
-np
-pp
-verb
-pron
-verb
-pron
-verb
-adj
-conj
-verb
-verb
-conj
-noun
-vp
-verb
-conj
-np
-pp
-np
-verb
-np
-np
-conj
-verb
-pron
-234747	np
-conj
-np
-verb
-noun
-pron
-pron
-adj
-verb
-conj
-verb
-np
-np
-234761	conj
-234764	conj
-pron
-verb
-pron
-verb
-verb
-conj
-np
-np
-np
-conj
-pron
-verb
-verb
-pp
-234780	np
-234783	conj
-verb
-pp
-np
-np
-verb
-np
-verb
-pp
-np
-np
-pp
-np
-conj
-234798	verb
-234800	np
-np
-conj
-np
-np
-conj
-np
-np
-noun
-verb
-conj
-np
-np
-noun
-verb
-pp
-conj
-234818	pp
-np
-np
-conj
-pp
-np
-np
-pp
-np
-np
-verb
-pp
 np
-np
-conj
-verb
-conj
-234836	verb
-noun
-pp
-np
-adv
-conj
-noun
-pp
-np
-adv
-234847	conj
-conj
-np
-np
 verb
 pp
-conj
 np
 pp
-verb
-np
-np
-np
-conj
 conj
-verb
-np
-pron
-verb
-np
-np
-verb
-234871	noun
-noun
-verb
-np
-np
-234878	np
-np
-verb
-pp
-np
-pp
-234885	conj
 conj
 pron
 verb
@@ -220452,7 +220452,7 @@ verb
 np
 adjp
 np
-234900	np
+234144	np
 verb
 conj
 np
@@ -220479,7 +220479,7 @@ noun
 conj
 verb
 pp
-234928	verb
+verb
 np
 pp
 pp
@@ -220490,7 +220490,7 @@ verb
 conj
 adv
 verb
-234941	pp
+234183	pp
 verb
 np
 np
@@ -220506,7 +220506,7 @@ np
 verb
 pp
 conj
-234958	adv
+234200	adv
 verb
 np
 np
@@ -220526,1722 +220526,1722 @@ noun
 pp
 np
 np
-234980	noun
+noun
 noun
 verb
 verb
 pp
 pp
 pp
+234228	np
+conj
+234231	conj
+conj
+conj
+np
+np
+verb
+pp
+pp
+np
+np
+234242	noun
+conj
+verb
+conj
+verb
+conj
+noun
+verb
+pron
+np
+pp
+np
+np
+np
+verb
+pp
+np
+np
+verb
+verb
+pp
+np
+np
+np
+conj
+conj
+verb
+pp
+conj
+np
+np
+verb
+noun
+np
+np
+verb
+np
+pron
+np
+verb
+noun
+234284	np
+np
+conj
+np
+verb
+np
+conj
+np
+np
+np
+np
+verb
+pp
+np
+verb
+pron
+pron
+234302	conj
+conj
+adv
+conj
+noun
+verb
+pp
+np
+verb
+conj
+pron
+verb
+noun
+np
+np
+verb
+pp
+np
+conj
+verb
+np
+np
+np
+np
+np
+adv
+conj
+verb
+np
+np
+conj
+234334	conj
+234336	conj
+verb
+np
+np
+np
+pron
+pron
+verb
+verb
+conj
+verb
+np
+verb
+conj
+pp
+234352	np
+conj
+np
+np
+pron
+verb
+noun
+noun
+noun
+conj
+pp
+234364	verb
+conj
+verb
+np
+pp
+np
+np
+234372	pp
+np
+np
+np
+conj
+verb
+np
+np
+np
+np
+pron
+conj
+verb
+np
+conj
+234388	np
+np
+conj
+np
+np
+pp
+pron
+verb
+234397	np
+np
+np
+np
+conj
+verb
+conj
+verb
+pron
+verb
+verb
+pp
+np
+np
+np
+np
+conj
+conj
+verb
+np
+np
+verb
+conj
+verb
+pp
+np
+np
+np
+adjp
+vp
+conj
+234430	np
+np
+np
+conj
+np
+234436	np
+np
+np
+conj
+np
+verb
+conj
+np
+noun
+np
+conj
+234448	conj
+pp
+np
+verb
+np
+conj
+verb
+pp
+np
+verb
+adj
+adj
+conj
+234463	np
+conj
+np
+verb
+conj
+verb
+pron
+adj
+conj
+pron
+noun
+verb
+234476	pp
+conj
+verb
+adv
+pp
+np
+verb
+conj
+pp
+noun
+verb
+noun
+pp
+234490	conj
+np
+234493	verb
+np
+conj
+verb
+noun
+pp
+np
+np
+np
+conj
+verb
+verb
+pp
+pp
+np
+234509	conj
+conj
+verb
+pp
+np
+pp
+234516	np
+np
+np
+np
+conj
+np
+np
+adj
+pp
+np
+np
+verb
+verb
+pron
+verb
+pp
+pp
+234534	np
+np
+np
+verb
+adj
+verb
+noun
+pp
+verb
+pp
+np
+pron
+verb
+234548	conj
+verb
+verb
+pp
+np
+verb
+noun
+verb
+verb
+conj
+noun
+pp
+pp
+np
+verb
+verb
+pp
+det
+conj
+verb
+pron
+verb
+pron
+pp
+verb
+verb
+conj
+noun
+234577	conj
+adv
+verb
+pron
+pron
+conj
+verb
+pron
+pron
+verb
+pp
+np
+np
+234592	np
+verb
+conj
+verb
+pron
+np
+np
+verb
+pron
+adv
+conj
+verb
+234605	np
+np
+conj
+np
+conj
+234612	verb
+verb
+conj
+verb
+conj
+verb
+pp
+pp
+np
+234622	verb
+conj
+verb
+conj
+verb
+np
+conj
+234630	verb
+np
+np
+234634	pron
+verb
+conj
+verb
+np
+verb
+conj
+pron
+conj
+pron
+verb
+pp
+np
+verb
+pp
+np
+np
+np
+np
+conj
+verb
+234656	conj
+pp
+verb
+pron
+verb
+conj
+pron
+234664	np
+conj
+np
+verb
+np
+np
+pp
+pp
+234673	np
+verb
+noun
+adj
+verb
+conj
+np
+verb
+pp
+np
+noun
+noun
+pron
+verb
+pp
+conj
+pron
+pron
+verb
+conj
+np
+234695	conj
+verb
+verb
+pron
+234700	np
+np
+conj
+conj
+np
+np
+np
+np
+verb
+234710	np
+np
+pron
+pron
+verb
+conj
+verb
+pp
+np
+verb
+pron
+verb
+234723	pron
+conj
+np
+conj
+verb
+conj
+verb
+234731	verb
+pron
+np
+conj
+np
+np
+verb
+pron
+np
+verb
+pp
+pron
+pron
+noun
+verb
+conj
+pp
+np
+np
+np
+np
+pron
+234754	conj
+verb
+np
+np
+conj
+234760	np
+np
+pp
+verb
+pron
+np
+np
+pp
+np
+conj
+adv
+noun
+verb
+conj
+pp
+verb
+conj
+np
+np
+np
+np
+conj
+pron
+verb
+pp
+np
+np
+np
+verb
+np
+np
+verb
+adv
+234794	conj
+conj
+pp
+verb
+np
+np
+conj
+verb
+np
+pp
+np
+np
+conj
+verb
+234809	np
+np
+verb
+pron
+pron
+verb
+noun
+verb
+pp
+np
+np
+pron
+verb
+np
+pp
+np
+np
+np
+np
+pp
+np
+noun
+conj
+verb
+conj
+noun
+pron
+verb
+234838	np
+pp
+np
+np
+conj
+pron
+pron
+verb
+pp
+np
+pron
+verb
+pp
+verb
+conj
+np
+pron
+adv
+verb
+np
+np
+verb
+pp
+np
+np
+np
+conj
+np
+np
+pp
+234869	conj
+np
+pron
+verb
+adv
+verb
+np
+np
+pron
+verb
+np
+np
+234882	np
+conj
+np
+pron
+np
+verb
+pp
+np
+np
+verb
+pp
+conj
+pp
+np
+np
+verb
+np
+np
+np
+np
+pron
+adj
+verb
+np
+np
+np
+verb
+pron
+verb
+pron
+pp
+verb
+adj
+pp
+np
+np
+verb
+conj
+pron
+pp
+np
+verb
+pron
+234926	np
+conj
+np
+np
+np
+conj
+np
+verb
+pp
+verb
+pron
+np
+conj
+verb
+pp
+np
+234943	np
+np
+pp
+conj
+234948	verb
+pron
+np
+conj
+verb
+pp
+pp
+advp
+verb
+conj
+noun
+adv
+np
+conj
+verb
+np
+verb
+conj
+verb
+np
+np
+pp
+np
+234972	verb
+conj
+pp
+np
+verb
+np
+234979	np
+conj
+np
+conj
+np
+pp
+conj
 234988	np
 conj
-234991	conj
 conj
 conj
-np
-np
+conj
+pron
 verb
 pp
+np
+conj
+verb
+pron
 pp
 np
+verb
+235004	pp
 np
-235002	noun
 conj
+pp
+np
 verb
-conj
-verb
-conj
+pron
+pron
+adv
 noun
+verb
+np
+verb
+pp
+235019	np
+np
+conj
+conj
+pron
+adv
+verb
+pp
+np
+np
+pp
+pron
+verb
+adj
+verb
+235035	np
+conj
+np
+np
+np
+conj
+pp
+np
+np
+235046	np
+pron
+pron
 verb
 pron
 np
-pp
-np
-np
-np
 verb
 pp
-np
-np
-verb
-verb
 pp
-np
-np
-np
-conj
-conj
-verb
-pp
-conj
-np
-np
-verb
-noun
-np
-np
-verb
-np
 pron
-np
 verb
-noun
-235044	np
-np
-conj
-np
+pp
+adj
+pron
 verb
-np
-conj
-np
-np
-np
-np
+235063	np
+verb
+pp
+235067	np
 verb
 pp
 np
-verb
-235060	pron
-pron
-235063	conj
 conj
 adv
-conj
-noun
 verb
 pp
-np
-verb
-conj
-pron
-verb
-noun
-np
-np
-235079	verb
-pp
-np
-conj
-verb
-np
-np
-np
 np
 np
 adv
 conj
+235080	np
 verb
-np
-np
-conj
-235096	conj
-235098	conj
-verb
-np
-np
-np
-235104	pron
-pron
-verb
-verb
-conj
-verb
-np
-verb
-conj
-pp
-235115	np
-conj
-np
-np
-235120	pron
-verb
-235123	noun
-noun
-235126	noun
-conj
-pp
-235130	verb
-conj
-verb
-np
 pp
 np
-np
-235138	pp
-np
-np
-np
-conj
 verb
-np
-np
-np
-np
-pron
-conj
-verb
-np
-conj
-235154	np
-np
-conj
-np
-235159	np
 pp
-pron
+pp
 verb
-235164	np
-np
-np
-np
-conj
-verb
-conj
 verb
 pron
-verb
-verb
-pp
+235091	verb
+conj
 np
 np
-np
-np
+235096	np
 conj
 conj
 verb
-np
-np
-verb
-conj
-verb
-pp
-np
-np
-np
-adjp
-vp
-conj
-235197	np
-np
-np
-conj
-np
-235203	np
-np
-np
 conj
 np
 verb
 conj
-np
-noun
-np
-conj
-235215	conj
-pp
-np
-verb
-np
-conj
-verb
-pp
-np
-verb
-adj
-adj
-conj
-235230	np
-conj
-np
-verb
-conj
-verb
-pron
-adj
-conj
-pron
 noun
 verb
-235243	pp
+verb
+conj
+pron
+conj
+pp
+np
+verb
+235114	np
 conj
 verb
+pp
+verb
+verb
+adj
+verb
+verb
+verb
+conj
+pron
+pp
+np
+verb
+verb
+pp
+verb
+pron
+verb
+np
+np
+conj
+conj
+conj
+np
+verb
+pp
+np
+verb
+noun
+adj
+conj
+adv
+verb
+verb
+conj
+conj
 adv
 pp
-np
 verb
-conj
 pp
-noun
-verb
-noun
-pp
-235257	conj
 np
-235260	verb
-np
-conj
 verb
-noun
+pron
+adv
+verb
 pp
 np
 np
 np
 conj
-verb
-verb
-pp
-pp
-np
-235276	conj
-conj
-verb
-pp
-np
-pp
-235283	np
-np
-np
-np
-conj
-np
-np
-adj
-pp
-np
-np
-verb
 verb
 pron
 verb
+adv
+adv
+235172	conj
 pp
-pp
-235301	np
 np
 np
+np
+np
+conj
+235180	conj
 verb
+verb
+pp
+conj
 adj
-verb
-noun
-pp
 verb
 pp
 np
 pron
 verb
-235315	conj
-verb
-verb
-pp
+adv
+conj
 np
 verb
-noun
-verb
+adv
 verb
 conj
-noun
-pp
-pp
-np
+pron
+pron
+235201	conj
+adv
 verb
-verb
-pp
 det
 conj
 verb
-pron
 verb
 pron
-pp
-verb
-verb
-conj
-noun
-235345	conj
-adv
-verb
-pron
-pron
-conj
-verb
-pron
-pron
-verb
-pp
-np
-np
-235360	np
-verb
-conj
-verb
-pron
-np
-np
-verb
-pron
-adv
-conj
-verb
-235373	np
-np
-conj
-np
-conj
-235380	verb
-verb
-conj
-verb
-conj
-verb
-pp
-pp
-np
-235390	verb
-conj
-verb
-conj
-verb
-np
-conj
-235398	verb
-np
-np
-235402	pron
-verb
-conj
-verb
-np
-verb
-conj
-pron
-conj
-pron
-verb
-pp
-np
-verb
-pp
-np
-np
-np
-np
-conj
-verb
-235424	conj
-pp
-verb
-pron
-235429	verb
-conj
-pron
-235433	np
-conj
-np
-verb
-np
-np
-pp
-pp
-235442	np
-verb
-noun
 adj
 verb
-conj
-np
-verb
-pp
-np
-235454	noun
-noun
-pron
-verb
-pp
-conj
-pron
-pron
-verb
-conj
-np
-235466	conj
-verb
-verb
-pron
-235471	np
-np
-conj
-conj
-np
-np
-np
-np
-verb
-235482	np
-np
-pron
-pron
-verb
-conj
-verb
-pp
-np
-verb
-pron
-verb
-235495	pron
-conj
-np
-conj
-verb
-conj
-verb
-235503	verb
-pron
-np
-conj
-np
-np
-verb
-pron
-np
-verb
-pp
-pron
-pron
-noun
-verb
-conj
-pp
-np
-np
-np
-np
-235525	pron
-235527	conj
-verb
-np
-np
-conj
-235533	np
-np
-pp
-verb
-pron
-np
-np
-pp
-np
-conj
-adv
-noun
-verb
-conj
-pp
-verb
-conj
-np
-np
-np
-np
-conj
-235556	pron
-verb
-pp
-np
-np
-np
-verb
-np
-np
-verb
-adv
-235568	conj
-conj
-pp
-verb
-np
-np
-conj
-verb
-np
-pp
-np
-np
-conj
-verb
-235584	np
-np
-verb
-pron
-pron
-verb
-noun
-verb
-pp
-235594	np
-np
-pron
-verb
-np
-pp
-np
-np
-np
-np
-pp
-np
-noun
-conj
-verb
-conj
-noun
-pron
-verb
-235614	np
-pp
-np
-np
-conj
-pron
-pron
-verb
-pp
-np
-pron
-verb
-pp
-verb
-conj
-np
-235631	pron
 adv
 verb
+pron
+pp
+np
+conj
+adj
+verb
+np
+pp
+verb
+np
+conj
+verb
+adjp
+np
+pp
+verb
+np
+np
 np
 np
 verb
+conj
+verb
 pp
 np
-np
-235641	np
+conj
+verb
+pron
+pp
+235243	np
 conj
 np
-np
-pp
-235647	conj
-np
-pron
+verb
+det
+conj
 verb
 adv
 verb
+noun
+pp
 np
-np
-pron
+conj
 verb
-np
-np
-235660	np
+noun
+pron
+235260	verb
+235262	np
 conj
 np
-235664	pron
+conj
 np
-verb
+conj
+np
+np
 pp
 np
 np
+pp
+np
+np
+235277	np
 verb
 pp
 conj
-pp
-np
-np
 verb
-np
-np
-np
-np
-pron
+noun
+conj
+noun
+verb
 adj
 verb
 np
 np
 np
+conj
+np
+verb
+pp
+np
+235297	pp
+np
+conj
+pp
+np
+np
+verb
+conj
+pp
+pp
+np
+np
+pp
+235311	np
+np
+np
+pron
+verb
+235317	conj
+conj
+235320	pp
+235322	conj
+np
 verb
 pron
+235327	np
+np
+conj
+np
+verb
+verb
+conj
+advp
+noun
+verb
+pp
+np
+np
+conj
+verb
+np
+np
+pp
+np
+verb
+np
+np
+pp
+np
 verb
 pron
 pp
+conj
+235356	conj
 verb
+pp
+np
+np
+235362	np
+np
+np
+conj
+verb
+pron
+verb
+np
+pp
+vp
+conj
+235374	verb
+adj
+np
+np
+conj
+verb
+np
+np
+np
+pp
+np
+np
+conj
+np
+verb
+verb
+235391	conj
+adj
+conj
+235395	adj
+np
+verb
+pron
+verb
+adj
+verb
+conj
+verb
+pron
+adj
+adj
+conj
+np
+verb
+np
+np
+np
+np
+235415	np
+np
+np
+conj
+verb
+pp
+np
+adv
+conj
+np
+verb
+pp
+pron
+conj
+np
+235431	conj
+verb
+verb
+verb
+np
+np
+verb
+conj
+verb
+pp
+np
+np
+np
+verb
+conj
+adj
+conj
+pron
+noun
+verb
+235454	conj
+verb
+noun
+pp
+np
+pron
+vp
+np
+np
+np
+verb
+pron
+noun
+verb
+verb
+np
+conj
+verb
+pp
+np
+np
+np
+235477	np
+np
+conj
+noun
+noun
+pp
+235484	np
+np
+verb
+noun
+conj
+verb
+pp
+np
+verb
+np
+np
+conj
+verb
+np
+pp
+np
+np
+np
+verb
+verb
+conj
+np
+noun
+pp
+verb
+np
+np
+np
+235513	verb
+pron
+np
+np
+np
+conj
+verb
+pp
+np
+np
+np
+verb
+pron
+verb
+conj
+verb
+pp
+np
+np
+verb
+pron
+conj
+verb
+pp
+np
+np
+np
+np
+235542	verb
+noun
+conj
+np
+verb
+conj
+np
+np
+np
+verb
+verb
+conj
+verb
+np
+pp
+np
+verb
+verb
+conj
+np
+verb
+pron
+conj
+verb
+verb
+verb
+conj
+np
+np
+np
+conj
+np
+np
+adv
+verb
+verb
+verb
+verb
+conj
+pp
+noun
+verb
+pron
+pron
+np
+verb
+det
+conj
+verb
+ptcl
+pron
+np
+conj
+pp
+pron
+conj
+verb
+pron
+verb
+np
+np
+verb
+np
+np
+verb
+np
+np
+pp
+np
+conj
+verb
+pron
+verb
+conj
+adv
+pp
+np
+np
+conj
+verb
+verb
+conj
+np
+verb
+pron
+adj
+conj
+verb
+verb
+pp
+np
+np
+conj
+verb
+np
+235638	pp
+np
+np
+conj
+pp
+np
+verb
+pron
+pp
+conj
+np
+np
+np
+verb
+np
+235654	conj
+pp
+np
+conj
+verb
+adv
 adj
 pp
 np
 np
-verb
+np
+np
 conj
+verb
+verb
 pron
-pp
-np
-verb
-pron
-235705	np
 conj
-np
-np
-np
-conj
-np
-verb
-pp
 verb
 pron
 np
+adv
+conj
+verb
+verb
+np
+np
+conj
+conj
+conj
+pp
+pp
+np
+verb
+np
 conj
 verb
 pp
-np
-235722	np
-np
-pp
+235692	conj
 conj
-235727	verb
-pron
+verb
+noun
+conj
 np
+verb
+np
+verb
+conj
+np
+np
+np
+np
+np
+np
+verb
+235710	conj
+verb
+pp
+np
+np
+verb
+verb
+conj
+235719	np
+conj
+np
+235723	np
+pp
+verb
+np
+np
+verb
+noun
 conj
 235732	verb
+np
 pp
+np
+conj
+verb
+pron
 pp
-advp
+np
+np
+conj
+pp
+verb
+np
+np
+np
 verb
 conj
+pron
+verb
+235753	verb
+conj
+verb
+verb
+pp
+np
+np
+np
+np
+np
+np
+np
+verb
+conj
+verb
+pp
+np
+pp
+np
+conj
+verb
+verb
+conj
+235777	np
+conj
+np
+pp
+verb
+235783	np
+conj
+np
+np
+np
+np
+np
+conj
+verb
+pp
+np
+verb
+pron
+np
+conj
+np
+verb
+adv
+verb
+pron
+pp
+np
+verb
+conj
+verb
+verb
+conj
+235811	np
+verb
+verb
+pp
+np
+conj
+np
+verb
+pp
+np
+verb
+conj
+adv
+adj
+verb
+conj
+conj
+verb
+np
+np
+235832	np
+conj
+np
+np
+conj
+np
+verb
+pp
+pron
+verb
+pron
+verb
+conj
+pron
+verb
+pron
+conj
+verb
+np
+pron
+verb
+pp
+np
+vp
+pp
+np
+conj
+verb
+np
+adv
+verb
+np
+pp
+np
+verb
+pron
+adv
+pp
+verb
+conj
+np
+conj
+verb
+verb
+conj
+pron
+verb
+pp
+np
+conj
+verb
+pron
+np
+verb
+235887	noun
+verb
+pron
+adv
+verb
+pp
+np
+np
+conj
+verb
+verb
+np
+np
+np
+conj
+verb
+verb
+pp
+np
+np
+np
+np
+verb
+conj
+235912	conj
+np
+verb
+235916	verb
+verb
 noun
 adv
-np
-conj
-verb
-np
-verb
-conj
-verb
-np
-np
-pp
-np
-235752	verb
-conj
-pp
-np
-verb
-np
-235759	np
-conj
-np
-conj
-np
-pp
-conj
-235768	np
-conj
-conj
-conj
-conj
-pron
-verb
-pp
-np
-conj
-verb
-pron
-pp
-np
-verb
-235784	pp
-np
-conj
-pp
-np
-verb
-pron
-pron
-adv
-noun
-verb
-np
-verb
-pp
-235799	np
-np
-conj
-conj
-235804	pron
-adv
-verb
-pp
-np
-np
-pp
-pron
-verb
-adj
-verb
-235816	np
-conj
-np
-np
-np
-conj
-pp
-np
-np
-235829	np
-pron
-pron
-verb
-pron
-np
-verb
-pp
-pp
-pron
-verb
-pp
-adj
-pron
-verb
-235846	np
-verb
-pp
-235850	np
-verb
-pp
-np
-conj
-235856	adv
-verb
-pp
-np
-np
-adv
-conj
-235865	np
-verb
-pp
-np
-verb
-pp
-pp
-verb
-verb
-pron
-235876	verb
-conj
-np
-np
-235881	np
-conj
-conj
-verb
-conj
-np
-verb
 conj
 noun
-verb
-verb
-conj
-pron
-conj
-pp
 np
-verb
-235899	np
-conj
-verb
-pp
-verb
-verb
-adj
-verb
-verb
-verb
-conj
-pron
-pp
 np
-verb
-verb
-pp
+np
+np
 verb
 pron
+pron
 verb
-np
-np
-conj
-conj
-conj
-np
 verb
 pp
+pron
+np
+235935	conj
+verb
+np
 np
 verb
 noun
-adj
-conj
-adv
-verb
-verb
-conj
-235937	conj
-adv
-pp
-verb
-pp
-np
-verb
-pron
-adv
-verb
-pp
-np
-np
 np
 conj
-verb
+np
+conj
 pron
 verb
-adv
-adv
-235958	conj
-pp
-np
 np
 np
 np
 conj
-235966	conj
-verb
-verb
-pp
-235972	conj
-adj
-verb
-pp
+np
+np
 np
 pron
 verb
-adv
-conj
 np
 verb
-adv
-verb
-conj
 pron
-pron
-235989	conj
-adv
-verb
 det
 conj
 verb
 verb
-pron
-adj
-verb
-adv
-verb
-pron
-pp
-np
-conj
-adj
-verb
-np
-pp
-verb
-np
 conj
 verb
+verb
+pron
+verb
+conj
+235971	np
+pp
+np
+np
+noun
+noun
+np
 adjp
-236015	np
-pp
-verb
 np
 np
-np
-np
-verb
-conj
-verb
-pp
-np
-conj
-verb
-pron
-pp
-236032	np
-conj
-np
-verb
-det
-conj
 verb
 adv
-verb
-noun
-pp
-np
-conj
-verb
-noun
-pron
-236049	verb
-236051	np
-conj
-np
-conj
-np
-conj
-np
-np
-pp
-np
-np
-pp
-np
-np
-236066	np
-verb
-236069	pp
-conj
-verb
-noun
-conj
-noun
-verb
 adj
-verb
-np
-np
-np
-conj
 np
 verb
-pp
-np
-236087	pp
-np
-conj
-pp
-np
-np
 verb
 conj
 pp
+noun
+noun
+verb
+pron
 pp
-np
-np
-pp
-236102	np
 np
 np
 pron
 verb
-236108	conj
+verb
+pp
 conj
-236111	pp
-236113	conj
 np
+np
+verb
+noun
+verb
 verb
 pron
-236118	np
+pron
+pron
+verb
 np
+np
+adjp
+pron
+verb
 conj
 np
+pron
 verb
+pron
+verb
+conj
+verb
+pp
+pp
+verb
+236028	np
+pp
+np
+np
+np
+conj
+verb
+noun
+pp
+pron
+verb
+conj
+np
+pron
+verb
+pron
 verb
 conj
 advp
-noun
-verb
-pp
-np
-np
-conj
-verb
-np
-np
-pp
-np
-verb
-np
-np
-pp
-np
 verb
 pron
-pp
-conj
-236147	conj
-verb
-pp
-np
-np
-236153	np
-np
-np
-conj
-verb
-pron
-verb
-236161	np
-pp
-vp
-conj
-236166	verb
-adj
-np
-np
-conj
-verb
-np
-np
-np
-pp
-np
-np
-conj
-np
-verb
-verb
-236183	conj
-adj
-conj
-236187	adj
-np
-verb
-pron
-verb
-adj
-verb
-conj
-verb
-pron
-adj
-adj
-conj
-np
-verb
-np
-np
-np
-np
-236207	np
-np
-np
-conj
-verb
-pp
-np
-adv
-conj
-np
-verb
-pp
-pron
-conj
-np
-236223	conj
-verb
-verb
-verb
-np
-np
-verb
-conj
-verb
-pp
-np
-np
-np
-verb
-conj
-adj
-conj
-pron
-noun
-verb
-236246	conj
-verb
-noun
-pp
-np
-pron
-vp
-np
-np
-np
-236257	verb
-pron
-noun
-verb
-verb
-np
-conj
-verb
-pp
-np
-np
-np
-236270	np
-np
-conj
-noun
-noun
-pp
-236277	np
-np
-verb
-noun
-conj
-236283	verb
-pp
-np
-verb
-np
-np
-conj
-verb
-np
-pp
-np
-np
-np
-verb
-verb
-conj
-np
-noun
-pp
-verb
-np
-np
-np
-236307	verb
-pron
-np
-np
-np
-conj
-verb
-pp
-np
-np
-np
-verb
-pron
-verb
-conj
-verb
-pp
-np
-np
-verb
-pron
-conj
-verb
-pp
-np
-np
-np
-np
-236336	verb
-noun
-conj
-np
-verb
-conj
-np
-np
-np
-verb
-verb
-conj
-verb
-np
-pp
-np
-verb
-verb
-conj
-np
-verb
-pron
-conj
-verb
-verb
-verb
-conj
-np
-np
-np
-conj
-np
-np
-adv
-verb
-verb
-verb
-verb
-conj
-pp
-noun
-verb
-pron
-pron
-np
-verb
-det
-conj
-verb
-ptcl
-pron
-236388	np
-conj
-pp
-236392	pron
-conj
-verb
-pron
-verb
-np
-np
-verb
-np
-np
-verb
-np
-np
-pp
-np
-conj
-verb
-pron
-verb
-conj
-adv
-pp
-np
-np
-conj
-verb
-verb
-conj
-np
-verb
-pron
-adj
-conj
-verb
-verb
-pp
-np
-np
-conj
-verb
-np
-236434	pp
-np
-np
-conj
-pp
-np
-verb
-pron
-pp
-conj
-np
-np
-np
-verb
-np
-236450	conj
-pp
-np
-conj
-verb
-adv
-adj
-pp
-np
-np
-np
-np
-conj
-verb
-verb
-pron
-conj
-verb
-pron
-np
-adv
-conj
-verb
-verb
-np
-np
-conj
-conj
-conj
-pp
-pp
-np
-verb
-np
-conj
-verb
-pp
-236488	conj
-conj
-236491	verb
-noun
-conj
-np
-verb
-np
-verb
-conj
-np
-np
-np
-np
-np
-np
-verb
-236508	conj
-verb
-pp
-np
-np
-verb
-verb
-conj
-236517	np
-conj
-np
-236521	np
-pp
-verb
-np
-np
-verb
-noun
-conj
-236530	verb
-np
-pp
-np
-conj
-verb
-pron
-pp
-np
-np
-conj
-pp
-verb
-np
-np
-np
-verb
-conj
-pron
-verb
-236551	verb
-conj
-verb
-verb
-pp
-np
-np
-np
-np
-np
-np
-np
-verb
-conj
-verb
-pp
-np
-pp
-np
-conj
-verb
-verb
-conj
-236575	np
-conj
-np
-pp
-verb
-236581	np
-conj
-np
-np
-np
-np
-np
-conj
-verb
-pp
-np
-verb
-pron
-np
-conj
-np
-verb
-adv
-verb
-pron
-pp
-np
-verb
-conj
-verb
-verb
-conj
-236609	np
-verb
-verb
-pp
-np
-conj
-np
-verb
-pp
-np
-verb
-conj
-adv
-adj
-verb
-236625	conj
-conj
-verb
-np
-np
-236631	np
-conj
-np
-np
-conj
-np
-verb
-pp
-pron
-verb
-pron
-verb
-conj
-pron
-verb
-pron
-conj
-verb
-np
-236651	pron
-verb
-pp
-np
-vp
-pp
-np
-conj
-verb
-np
-236663	adv
-verb
-np
-pp
-np
-verb
-pron
-adv
-pp
-verb
-conj
-np
-conj
-verb
-verb
-conj
-pron
-verb
-pp
-np
-conj
-verb
-pron
-np
-verb
-236689	noun
-verb
-pron
-adv
-verb
-pp
-np
-np
-conj
-verb
-verb
-np
-np
-np
-conj
-verb
-verb
-pp
-np
-np
-np
-np
-verb
-conj
-236714	conj
-np
-verb
-236718	verb
-verb
-noun
-adv
-conj
-noun
-np
-np
-np
-np
-verb
-236730	pron
-pron
-verb
-verb
-pp
-pron
-np
-236738	conj
-verb
-np
-np
-verb
-noun
-np
-conj
-np
-conj
-pron
-verb
-np
-np
-np
-conj
-236755	np
-np
-np
-pron
-verb
-np
-verb
-pron
-det
-conj
-verb
-verb
-conj
-verb
-verb
-pron
-verb
-conj
-236775	np
-pp
-np
-np
-noun
-noun
-np
-adjp
-np
-np
-verb
-adv
-adj
-np
-verb
-verb
-conj
-pp
-236795	noun
-noun
-verb
-pron
-pp
-np
-np
-pron
-verb
-verb
-pp
-conj
-np
-np
-verb
-noun
-verb
-verb
-pron
-pron
-pron
-verb
-np
-np
-adjp
-pron
-verb
-conj
-np
-pron
-verb
-pron
-verb
-conj
-verb
-pp
-236832	pp
-verb
-236835	np
-pp
-np
-np
-np
-conj
-verb
-noun
-pp
-pron
-verb
-conj
-np
-pron
-verb
-pron
-verb
-conj
-236854	advp
-verb
-pron
-236858	verb
+236050	verb
 pp
 np
 np
@@ -222249,16 +222249,16 @@ conj
 verb
 pron
 conj
-236868	conj
+236059	conj
 verb
 pp
-236872	np
+236063	np
 np
 conj
 np
 np
 verb
-236879	conj
+conj
 conj
 pp
 verb
@@ -222274,7 +222274,7 @@ verb
 conj
 pron
 conj
-236896	verb
+236086	verb
 np
 verb
 verb
@@ -222286,7 +222286,7 @@ np
 np
 conj
 verb
-236909	det
+det
 conj
 verb
 verb
@@ -222300,18 +222300,18 @@ np
 verb
 np
 conj
-236924	pp
+236113	pp
 np
 conj
 pp
 adv
 verb
-236931	verb
+236120	verb
 conj
 verb
 np
 noun
-236938	pp
+pp
 conj
 np
 np
@@ -222350,14 +222350,14 @@ noun
 verb
 conj
 noun
-236978	np
+np
 np
 np
 np
 pp
 verb
 adjp
-236986	conj
+236172	conj
 pron
 verb
 pp
@@ -222365,7 +222365,7 @@ np
 np
 pron
 conj
-236995	np
+236181	np
 conj
 np
 np
@@ -222379,9 +222379,9 @@ np
 np
 conj
 verb
-237011	np
+236196	np
 adjp
-237014	conj
+236199	conj
 np
 conj
 conj
@@ -222389,7 +222389,7 @@ conj
 conj
 conj
 conj
-237024	pron
+236209	pron
 verb
 pp
 np
@@ -222404,7 +222404,7 @@ np
 np
 verb
 conj
-237040	verb
+236225	verb
 np
 np
 np
@@ -222419,10 +222419,10 @@ np
 noun
 conj
 adjp
-237056	conj
+236241	conj
 verb
 np
-237060	conj
+236245	conj
 pp
 np
 verb
@@ -222430,7 +222430,7 @@ conj
 np
 np
 pp
-237069	np
+236254	np
 verb
 noun
 conj
@@ -222438,17 +222438,17 @@ conj
 conj
 np
 pp
-237078	conj
+236263	conj
 verb
 np
 conj
 adv
 verb
 verb
-237086	np
+236271	np
 conj
 np
-237090	pron
+pron
 verb
 adv
 verb
@@ -222460,21 +222460,21 @@ pron
 verb
 np
 pp
-237103	conj
+236287	conj
 np
 verb
 conj
-237108	np
+236292	np
 conj
 np
 conj
 np
 conj
-237115	verb
+236299	verb
 verb
 pron
 conj
-237120	verb
+236304	verb
 pp
 np
 verb
@@ -222489,7 +222489,7 @@ verb
 verb
 noun
 pp
-237136	np
+236320	np
 np
 np
 conj
@@ -222500,14 +222500,14 @@ pron
 verb
 conj
 np
-237148	np
+236332	np
 verb
 np
 np
 conj
 verb
 np
-237156	pron
+pron
 verb
 pron
 noun
@@ -222532,14 +222532,14 @@ verb
 det
 conj
 verb
-237183	noun
-237185	conj
+noun
+236366	conj
 verb
 np
 np
 np
 verb
-237192	np
+236373	np
 np
 verb
 pp
@@ -222552,9 +222552,9 @@ pp
 conj
 verb
 pp
-237206	verb
+236387	verb
 pp
-237209	np
+236390	np
 np
 conj
 np
@@ -222563,7 +222563,7 @@ conj
 verb
 pp
 np
-237219	pron
+pron
 pron
 verb
 adv
@@ -222580,1424 +222580,1424 @@ np
 verb
 pron
 pp
-237237	np
+np
 np
 pp
 pron
 adv
 verb
 conj
-237246	adv
+236425	adv
 verb
 pron
 noun
 pp
 conj
 np
+conj
+verb
+236435	verb
+pron
+pp
+pron
+conj
+np
+np
+np
+pp
+adv
+verb
+pron
+noun
+verb
+conj
+adv
+np
+conj
+verb
+np
+np
+adj
+pp
+np
+conj
+236461	pron
+conj
+np
+conj
+np
+pron
+verb
+verb
+pron
+np
+verb
+conj
+236474	pp
+verb
+conj
+verb
+pron
+pp
+np
+np
+conj
+verb
+pron
+np
+conj
+236489	adv
+verb
+np
+conj
+verb
+pron
+np
+np
+np
+conj
+noun
+np
+conj
+noun
+np
+np
+conj
+np
+verb
+np
+verb
+pp
+conj
+236513	verb
+np
+pp
+conj
+verb
+pron
+pp
+np
+np
+np
+conj
+236525	verb
+pron
+236528	conj
+pp
+236531	np
+conj
+verb
+pron
+verb
+pp
+236538	conj
+np
+np
+np
+236543	verb
+conj
+noun
+pp
+np
+np
+236550	conj
+conj
+np
+conj
+adv
+verb
+noun
+np
+np
+verb
+conj
+noun
+verb
+noun
+pp
+verb
+np
+np
+adj
+conj
+pp
+np
+verb
+noun
+np
+np
+conj
+adj
+verb
+np
+np
+np
+verb
+conj
+noun
+verb
+236588	np
+np
+conj
+np
+np
+pp
+np
+236596	conj
+verb
+noun
+pp
+conj
+236602	verb
+236604	conj
+np
+np
+conj
+verb
+pp
+conj
+verb
+pp
+np
+pron
+verb
+noun
+np
+pp
+np
+np
+pp
+conj
+conj
+verb
+np
+np
+np
+pron
+verb
+np
+np
+236633	np
+conj
+pp
+pp
+pron
+verb
+np
+pp
+pron
+adv
+verb
+np
+pron
+verb
+np
+np
+verb
+np
+verb
+np
+np
+adj
+pp
+adv
+verb
+pp
+np
+verb
+noun
+conj
+verb
+adj
+np
+pron
+verb
+np
+pp
+np
+np
+np
+verb
+conj
+pron
+verb
+pron
+np
+np
+conj
+verb
+pron
+pron
+pp
+conj
+verb
+noun
+np
+np
+verb
+conj
+adj
+pp
+np
+236696	conj
+conj
+conj
+verb
+pron
+np
+verb
+pp
+np
+np
+verb
+236708	np
+np
+np
+np
+conj
+verb
+pron
+verb
+verb
+conj
+verb
+noun
+verb
+verb
+np
+verb
+conj
+verb
+np
+conj
+np
+pp
+np
+verb
+noun
+pron
+det
+conj
+adv
+verb
+np
+conj
+np
+verb
+verb
+pron
+verb
+conj
+verb
+pron
+pp
+verb
+noun
+noun
+verb
+pp
+conj
+verb
+pron
+conj
+verb
+np
+verb
+pron
+verb
+pron
+pron
+verb
+np
+236768	conj
+pp
+verb
+pron
+pron
+verb
+np
+verb
+adv
+np
+verb
+conj
+noun
+pp
+np
+np
+conj
+verb
+adj
+pp
+np
+adv
+verb
+np
+conj
+verb
+np
+verb
+pron
+pp
+np
+np
+236801	np
+noun
+pp
+np
+np
+np
+conj
+verb
+verb
+np
+verb
+conj
+pron
+verb
+verb
+np
+pron
+236819	np
+np
+np
+np
+np
+np
+conj
+conj
+adj
+conj
+verb
+noun
+adv
+verb
+verb
+verb
+conj
+pron
+np
+verb
+np
+np
+np
+np
+np
+conj
+pp
+verb
+np
+verb
+236850	verb
+verb
+np
+np
+236855	np
+np
+np
+pp
+conj
+np
+np
+verb
+conj
+verb
+verb
+pron
+conj
+adv
+verb
+verb
+pron
+pp
+np
+np
+pron
+verb
+verb
+pron
+pron
+verb
+236882	conj
+pron
+np
+236886	conj
+conj
+verb
+pp
+np
+236892	verb
+pron
+pp
+np
+pron
+verb
+pron
+verb
+236901	conj
+236903	pp
+236905	conj
+pp
+np
+conj
+pp
+np
+np
+pron
+verb
+236915	np
+verb
+np
+np
+noun
+pron
+verb
+np
+pp
+np
+np
+conj
+pron
+pron
+verb
+verb
+pp
+np
+pp
+np
+pp
+236938	np
+verb
+pron
+pp
+236943	np
+conj
+np
+np
+pron
+verb
+np
+verb
+verb
+pron
+pron
+adv
+verb
+adj
+verb
+np
+np
+conj
+236962	verb
+conj
+verb
+pp
+np
+np
+pp
+verb
+np
+verb
+pron
+pron
+verb
+pron
+np
+np
+conj
+pron
+verb
+pron
+pp
+np
+adv
+verb
+pron
+verb
+pron
+conj
+236991	verb
+pp
+np
+np
+conj
+verb
+noun
+np
+conj
+verb
+pp
+np
+np
+np
+np
+verb
+conj
+np
+conj
+verb
+pron
+verb
+np
+np
+np
+conj
+verb
+pp
+np
+np
+237022	conj
+verb
+pron
+np
+np
+pp
+np
+np
+conj
+verb
+237034	np
+np
+np
+conj
+np
+np
+237041	np
+np
+pron
+verb
+verb
+pron
+conj
+verb
+pron
+pp
+np
+np
+np
+verb
+np
+np
+pp
+np
+conj
+verb
+verb
+np
+verb
+pron
+pp
+np
+pron
+verb
+pron
+adv
+verb
+verb
+np
+np
+pp
+pp
+np
+np
+np
+pron
+verb
+np
+pp
+np
+np
+np
+pp
+np
+np
+pron
+verb
+noun
+pp
+np
+conj
+verb
+verb
+noun
+np
+np
+noun
+conj
+verb
+pron
+noun
+conj
+adv
+np
+pp
+verb
+conj
+np
+verb
+237115	np
+pron
+noun
+np
+conj
+np
+np
+np
+np
+verb
+pron
+verb
+noun
+conj
+pron
+np
+np
+np
+np
+np
+verb
+np
+237138	conj
+adjp
+237141	conj
+np
+pron
+adv
+np
+np
+np
+verb
+conj
+np
+np
+np
+np
+np
+adv
+verb
+np
+np
+conj
+verb
+verb
+pp
+np
+np
+np
+pron
+adv
+pron
+237170	conj
+verb
+pron
+verb
+np
+pp
+np
+conj
+adv
+verb
+verb
+conj
+pron
+verb
+np
+np
+conj
+verb
+np
+pp
+verb
+conj
+adj
+np
+verb
+pp
+np
+verb
+237199	np
+conj
+noun
+verb
+pp
+np
+np
+conj
+verb
+verb
+verb
+237211	np
+verb
+conj
+np
+np
+np
+pp
+np
+verb
+np
+237222	verb
+conj
+np
+verb
+np
+np
+conj
+verb
+adv
+pp
+conj
+verb
+pp
+np
+verb
+conj
+np
+verb
+np
+np
+pp
+np
+np
+np
+verb
+noun
+conj
+verb
+np
+237252	verb
 conj
 verb
 237256	verb
-pron
-pp
-pron
+np
+np
+verb
 conj
 np
+verb
 np
-np
-pp
+noun
 adv
 verb
 pron
+np
+np
+conj
+pron
+verb
+verb
 noun
+conj
+vp
+np
+np
 verb
 conj
+pp
+np
+np
+np
+pp
+237287	np
+np
+pp
+adj
+conj
+verb
+pp
+np
+np
+np
+237298	conj
+pp
+np
+verb
+conj
+np
+np
+conj
+verb
+np
+pp
+noun
+conj
+verb
+np
+pp
+np
+verb
+verb
+237318	conj
+conj
+verb
+pp
+conj
+verb
+verb
+verb
+np
+noun
+conj
+verb
+pp
+np
+np
+np
+verb
+pron
+np
+verb
+conj
+np
+verb
+pp
+np
 adv
+pp
+verb
+pron
+conj
+verb
+np
+pron
+verb
 np
 conj
 verb
 np
+verb
 np
+verb
+np
+conj
+237362	verb
+conj
+verb
+verb
+conj
+np
+pp
+np
+np
+np
+np
+conj
+noun
+noun
+verb
+pp
+np
+237380	verb
+conj
+verb
+np
+np
+np
+verb
+verb
+np
+pron
+pron
+verb
+np
+237394	pp
+pp
+verb
+pron
+verb
+237400	np
+np
+np
+verb
 adj
-pp
-np
-conj
-237282	pron
-conj
-np
-conj
-np
-237288	pron
-verb
-verb
-pron
-np
 verb
 conj
-237296	pp
-verb
-conj
-verb
 pron
 pp
 np
 np
-conj
 verb
 pron
-np
 conj
-237311	adv
-verb
-np
 conj
 verb
+np
+verb
+pp
+237420	np
+np
+np
+conj
+np
+np
+237427	verb
+237429	conj
+conj
+np
+conj
+np
+verb
+conj
+verb
+vp
+np
+verb
+237441	conj
+conj
+np
+verb
+verb
+verb
+conj
+np
+np
+pp
+conj
+verb
+np
+np
+np
+np
+verb
+pp
+237460	conj
 pron
-np
-np
-np
-conj
-noun
-np
-conj
-noun
-np
-np
-conj
-np
 verb
-np
 verb
 pp
 conj
-237335	verb
-np
-pp
-conj
 verb
-pron
-pp
 np
-np
-np
-conj
-237347	verb
-pron
-237350	conj
-pp
-237353	np
-conj
-verb
-pron
-verb
-pp
-237360	conj
-np
-np
-np
-237365	verb
-conj
-noun
-pp
-np
-np
-237372	conj
-conj
-np
-conj
 adv
-verb
-noun
-np
-np
-verb
 conj
-noun
-verb
-noun
+vp
 pp
-verb
-np
 np
 adj
 conj
-pp
-np
-verb
-noun
-np
-np
-conj
-adj
-verb
-np
-np
-np
-verb
-conj
-noun
-verb
-237410	np
-np
-conj
-np
-np
-pp
-np
-237418	conj
-verb
-noun
-pp
-conj
-237424	verb
-237426	conj
-np
-np
-conj
-verb
-pp
-conj
-verb
-pp
-np
-237437	pron
-verb
-noun
-np
+vp
 pp
 np
 np
-pp
-237446	conj
-conj
-verb
-np
-np
-np
-237453	pron
-verb
-np
-np
-237458	np
-conj
-pp
-pp
-pron
-verb
-237465	np
-pp
-pron
+237480	np
 adv
 verb
 np
+pp
+conj
+verb
+np
+verb
+conj
+np
+conj
+pp
+np
+np
+np
+np
+np
+verb
+np
+verb
+pron
+noun
+verb
+verb
+pron
+np
+np
+conj
 pron
 verb
 np
-np
 verb
 np
+noun
+conj
 verb
-np
-np
-adj
 pp
+np
+np
+pp
+verb
+pp
+conj
+np
+np
+np
+verb
+pp
+verb
 adv
 verb
-pp
-np
-verb
-noun
-conj
-verb
-adj
-np
 pron
-verb
-np
+237534	conj
 pp
 np
 np
 np
-237500	verb
 conj
-pron
-verb
-pron
 np
-np
-conj
+adv
 verb
-pron
-pron
-pp
-conj
-verb
-noun
-np
-np
-verb
-conj
 adj
 pp
 np
-237523	conj
-237525	conj
+verb
 conj
-verb
-pron
-np
-verb
 pp
 np
 np
-verb
-237536	np
-np
-np
 np
 conj
+verb
+np
 verb
 pron
-verb
-verb
-conj
-verb
-noun
-verb
-verb
 np
-verb
-conj
-verb
 np
-conj
+np
 np
 pp
+conj
+237564	np
+conj
 np
 verb
-noun
 pron
+verb
+verb
+conj
+np
+verb
+verb
+pron
+pp
+pp
+np
+conj
+np
+verb
+pp
+pron
+verb
 det
 conj
-adv
-verb
+237588	conj
 np
-conj
 np
-verb
-verb
-pron
-verb
-conj
-verb
-pron
-pp
-verb
-noun
-noun
+np
 verb
 pp
+np
 conj
-verb
-pron
-conj
-verb
+np
 np
 verb
-pron
-verb
-237592	pron
-pron
-verb
 np
-237597	conj
+conj
+verb
 pp
 verb
-pron
-pron
-verb
-np
-verb
-adv
-np
-verb
+237605	verb
 conj
-noun
+verb
 pp
-np
-np
-conj
+pp
+237611	np
+verb
+237614	pp
+pp
+pron
 verb
 adj
-pp
-237618	np
-adv
-verb
-np
 conj
-237624	verb
-np
 verb
+verb
+conj
+verb
+237627	np
+237629	np
 pron
-pp
-np
-np
-237632	np
-noun
+verb
 pp
 np
 np
 np
-conj
-verb
-verb
-np
-verb
-conj
 pron
 verb
 verb
+pp
+vp
+conj
+conj
+verb
+pp
 np
-pron
+np
+conj
+verb
 237650	np
+verb
+conj
 np
 np
+237656	verb
+conj
+verb
 np
 np
+verb
+conj
+np
+verb
+pron
+verb
+237668	np
+conj
+verb
+conj
+verb
+pron
+verb
+det
+conj
+verb
+adv
+conj
+verb
+conj
+adv
+pron
+verb
+pron
+verb
+conj
+np
+verb
+verb
+pp
 np
 conj
+np
+np
+pron
+verb
+verb
+pron
 conj
+noun
+pp
+verb
+conj
+conj
+noun
+pp
+verb
+pron
 adj
+adv
+adv
+verb
+np
+np
+pp
+np
+np
+np
+verb
+np
+np
+pron
+verb
 conj
+verb
+pp
+np
+np
+np
+verb
+conj
+np
+np
+verb
+verb
+pron
+pp
+np
+verb
+pron
+237743	pp
+conj
+pp
+np
+237748	verb
+conj
+np
+np
+np
+conj
+verb
+pp
+np
+np
+verb
+pron
+np
+conj
+conj
+verb
+pp
+np
+verb
+pp
+np
+conj
+verb
+np
 verb
 noun
-adv
-verb
-verb
-verb
-conj
 pron
-np
-237670	verb
-np
-np
-np
-np
-np
-conj
-237678	pp
 verb
-np
-verb
-237683	verb
-verb
-np
-np
-237688	np
-np
-np
-pp
-conj
-np
-np
+pron
 verb
 conj
 verb
 verb
-pron
-conj
-237702	adv
-verb
-verb
-pron
-pp
-237708	np
-np
-pron
-verb
-verb
-pron
-pron
-verb
-237717	conj
-pron
-np
-237721	conj
-conj
-verb
-pp
-np
-237727	verb
-pron
-pp
-np
-pron
-verb
-pron
-verb
-237736	conj
-237738	pp
-237740	conj
-pp
 np
 conj
-pp
-np
-np
-pron
-verb
-237750	np
-verb
-np
-np
-237755	noun
-pron
-verb
-np
-pp
-np
-np
-conj
-pron
-pron
-verb
-237768	verb
-pp
-np
-pp
-np
-pp
-237776	np
-verb
-pron
-pp
-237781	np
-conj
-np
-np
-pron
-verb
-np
-verb
-verb
-pron
-pron
-adv
-verb
+237784	verb
 adj
-verb
+pp
 np
+237789	np
+conj
+conj
 np
 conj
-237800	verb
+verb
+pron
+conj
 conj
 verb
 pp
 np
 np
-pp
 verb
-np
-237810	verb
-pron
-237813	pron
-verb
-pron
-237817	np
 np
 conj
-pron
-verb
-pron
-pp
-np
 adv
 verb
 pron
+adv
+np
 verb
-pron
 conj
-237832	verb
-pp
 np
 np
-conj
 verb
 noun
-np
 conj
 verb
 pp
-np
-np
-np
-np
-237848	verb
-conj
-np
 conj
 verb
-pron
 verb
-np
-np
-np
-conj
-verb
-pp
-np
-np
-237864	conj
-verb
-pron
 np
 np
 pp
-np
-np
-conj
-verb
-237876	np
-np
-np
-conj
-np
-np
-237883	np
-np
-237886	pron
-verb
-verb
-pron
-conj
 verb
 pron
 pp
 np
+conj
+adv
+verb
+237833	conj
+pp
+np
 np
 np
 verb
 np
+verb
+pp
 np
+np
+pp
+pp
+np
+conj
+conj
+237850	np
+verb
+np
+verb
+237855	conj
+conj
+verb
+verb
+pp
+pp
+conj
+verb
+verb
+pron
+verb
+np
+237868	adv
+conj
+pron
+verb
+noun
 pp
 np
 conj
 verb
-verb
-np
-verb
-pron
 pp
 np
+verb
+noun
+verb
+pron
+noun
+noun
+pron
+pron
+verb
+verb
+conj
+pron
+verb
+noun
+det
+conj
+pron
+verb
+pron
+pron
+verb
+conj
+237902	verb
+conj
+verb
+pp
+np
+conj
+verb
+pron
 237911	pron
-verb
-pron
-adv
-verb
-verb
-np
-np
-pp
-pp
-np
-np
-np
-237925	pron
-verb
-np
-pp
-np
-np
-np
-pp
-np
-np
-237936	pron
-verb
-noun
-pp
-np
-conj
-verb
-verb
-noun
-np
-np
-noun
-conj
-verb
-pron
-noun
-conj
-237954	adv
-np
-pp
-verb
-conj
-np
-verb
-237962	np
-pron
-noun
-np
-conj
-np
-np
-np
-237971	np
-verb
-pron
-verb
-noun
-conj
-pron
-np
-np
-np
-np
-np
-verb
-np
-237986	conj
-adjp
-237989	conj
-np
-pron
-adv
-np
-np
-np
-verb
-conj
-np
-np
-np
-np
-np
-adv
-verb
-np
-np
-conj
-verb
-verb
-pp
-np
-np
-np
-238015	pron
-adv
-pron
-238019	conj
-verb
-pron
-verb
-np
-pp
-np
-conj
-adv
-verb
-verb
-conj
-pron
-verb
-np
-np
-conj
-verb
-np
-pp
-verb
-conj
-adj
-np
-verb
-pp
-np
-verb
-238048	np
-conj
-noun
-verb
-pp
-np
-np
-conj
-verb
-verb
-verb
-238060	np
-verb
-conj
-np
-np
-np
-pp
-np
-verb
-np
-238071	verb
-conj
-np
-verb
-np
-np
-conj
-verb
-adv
-pp
-conj
-verb
-pp
-np
-verb
-conj
-np
-verb
-np
-np
-pp
-np
-np
-np
-verb
-noun
-conj
-verb
-np
-238101	verb
-conj
-verb
-238105	verb
-np
-np
-verb
-conj
-np
-verb
-np
-noun
-adv
-verb
-pron
-np
-np
-conj
 pron
 verb
 verb
-noun
-conj
-vp
-np
-np
-verb
-conj
-pp
-np
-np
-np
-pp
-238136	np
-np
-pp
-adj
-conj
-verb
-pp
-np
-np
-np
-238147	conj
-pp
-np
-verb
-conj
-np
-np
-conj
-verb
-np
-pp
-238159	noun
-conj
-verb
-np
-pp
-np
-verb
-verb
-238168	conj
-conj
-verb
-pp
-conj
-verb
-verb
-verb
-np
-noun
-conj
-verb
-pp
-np
-np
-np
-verb
-pron
-np
-verb
-conj
-np
-verb
-pp
-np
-adv
-pp
-verb
-pron
-conj
-verb
-np
-238201	pron
-verb
-np
-conj
-verb
-np
-verb
-np
-verb
-np
-conj
-238213	verb
-conj
-verb
-verb
-conj
-np
-pp
-np
-np
-np
-np
-conj
-noun
-noun
-verb
-pp
-np
-238231	verb
-conj
-verb
-np
-np
-np
-verb
-verb
-np
-pron
-pron
-verb
-np
-238245	pp
-pp
-verb
-pron
-verb
-238251	np
-np
-np
-verb
-adj
-verb
-conj
-pron
-pp
-np
-np
-verb
-pron
-238265	conj
-conj
-verb
-np
-verb
-pp
-238272	np
-np
-np
-conj
-np
-np
-238279	verb
-238281	conj
-conj
-238284	np
-conj
-np
-verb
-conj
-verb
-vp
-np
-verb
-238294	conj
-conj
-np
-verb
-verb
-verb
-conj
-np
-np
-pp
-conj
-verb
-np
-np
-np
-np
-verb
-pp
-238314	conj
-pron
-verb
-verb
-pp
-conj
-verb
-np
-adv
-conj
-vp
-pp
-np
-adj
-conj
-vp
-pp
-np
-np
-238334	np
-adv
-verb
-np
-pp
-conj
-verb
-np
-verb
-conj
-np
-conj
-pp
-np
-np
-np
-np
-np
-verb
-np
-verb
-pron
-noun
-verb
-238359	verb
-pron
-np
-np
-conj
-pron
-verb
-np
-verb
-np
-noun
-conj
-verb
-pp
-238374	np
-np
-pp
-verb
-pp
-conj
-np
-np
-np
-verb
-pp
-verb
-238387	adv
-verb
-pron
-238391	conj
-pp
-np
-np
-np
-conj
-np
-adv
-verb
-adj
-pp
-np
-238404	verb
-conj
-pp
-np
-np
-np
-conj
-verb
-np
-verb
-pron
-np
-np
-np
-np
-pp
-conj
-238422	np
-conj
-np
-verb
-pron
-verb
-verb
-conj
-np
-verb
-verb
-pron
-pp
-pp
-np
-conj
-np
-verb
-pp
-pron
-verb
-det
-conj
-238446	conj
-np
-np
-np
-verb
-pp
-np
-conj
-np
-np
-verb
-np
-conj
-verb
-pp
-verb
-238463	verb
-conj
-verb
-pp
-pp
-238469	np
-verb
-238472	pp
-pp
-pron
-verb
-adj
-conj
-verb
-verb
-conj
-verb
-238487	np
-238489	np
-pron
-verb
-pp
-np
-np
-np
-pron
-verb
-verb
-pp
-vp
-conj
-conj
-verb
-pp
-np
-np
-conj
-verb
-238510	np
-verb
-conj
-np
-np
-238516	verb
-conj
-verb
-np
-np
-verb
-conj
-np
-verb
-pron
-verb
-238528	np
-conj
-verb
-conj
-verb
-pron
-verb
-det
-conj
-verb
-adv
-conj
-verb
-conj
-adv
-pron
-verb
-pron
-verb
-conj
-np
-verb
-verb
-pp
-np
-conj
-238555	np
-np
-pron
-verb
-verb
-pron
-238562	conj
-noun
-pp
-verb
-conj
-238568	conj
-noun
-pp
-verb
-pron
-adj
-adv
-adv
-verb
-np
-np
-238580	pp
-np
-np
-np
-verb
-np
-np
-pron
-verb
-conj
-verb
-pp
-np
-np
-np
-verb
-conj
-np
-np
-verb
-verb
-pron
-pp
-np
-verb
-pron
-238607	pp
-conj
-pp
-np
-238612	verb
-conj
-np
-np
-np
-conj
-verb
-pp
-np
-np
-verb
-pron
-np
-238626	conj
-conj
-verb
-pp
-np
-verb
-pp
-np
-conj
-verb
-np
-238638	verb
-noun
-pron
-verb
-pron
-verb
-conj
-verb
-verb
-np
-conj
-238650	verb
-adj
-pp
-np
-238655	np
-conj
-conj
-np
-conj
-verb
-pron
-conj
-conj
-verb
-pp
-np
-np
-verb
-np
-conj
-238672	adv
-verb
-pron
-adv
-np
-verb
-conj
-np
-np
-verb
-noun
-conj
-verb
-pp
-conj
-verb
-verb
-np
-np
-pp
-verb
-pron
-pp
-np
-conj
-adv
-verb
-238700	conj
-pp
-np
-np
-np
-verb
-np
-verb
-pp
-np
-np
-pp
-pp
-np
-conj
-conj
-238717	np
-verb
-np
-verb
-238722	conj
-conj
-verb
-verb
-pp
-pp
-conj
-verb
-verb
-pron
-verb
-np
-238735	adv
-conj
-pron
-verb
-noun
-pp
-np
-conj
-verb
-pp
-np
-verb
-noun
-verb
-pron
-238752	noun
-noun
-pron
-pron
-verb
-verb
-conj
-pron
-verb
-noun
-det
-conj
-pron
-verb
-238767	pron
-pron
-verb
-conj
-238772	verb
-conj
-verb
-pp
-np
-conj
-verb
-pron
-238781	pron
-pron
-verb
-verb
-238786	np
+237916	np
 conj
 verb
 pron
 verb
 adj
-238793	verb
+237923	verb
 conj
 np
 adj
@@ -224008,7 +224008,7 @@ conj
 noun
 pp
 np
-238805	verb
+verb
 conj
 np
 np
@@ -224025,7 +224025,7 @@ np
 adv
 conj
 adv
-238823	conj
+237952	conj
 verb
 conj
 np
@@ -224045,13 +224045,13 @@ verb
 verb
 pron
 noun
-238844	np
+np
 conj
 pp
 verb
 verb
 pp
-238851	np
+237979	np
 verb
 adj
 conj
@@ -224066,12 +224066,12 @@ conj
 verb
 conj
 verb
-238867	np
+237995	np
 noun
 noun
 verb
 conj
-238873	verb
+verb
 pron
 noun
 conj
@@ -224105,7 +224105,7 @@ verb
 conj
 pp
 np
-238909	verb
+verb
 conj
 np
 verb
@@ -224115,7 +224115,7 @@ verb
 np
 np
 pp
-238920	conj
+238045	conj
 conj
 np
 conj
@@ -224134,7 +224134,7 @@ verb
 conj
 noun
 conj
-238940	verb
+238065	verb
 pp
 np
 conj
@@ -224142,22 +224142,22 @@ verb
 pp
 np
 verb
-238950	np
+238075	np
 verb
 pron
-238954	verb
+238079	verb
 pron
 pp
 np
-238959	pron
+pron
 verb
 conj
-238963	verb
+238087	verb
 conj
 verb
 np
 conj
-238970	adv
+238094	adv
 verb
 pp
 np
@@ -224173,7 +224173,7 @@ conj
 verb
 noun
 verb
-238987	verb
+238111	verb
 conj
 pp
 np
@@ -224198,7 +224198,7 @@ np
 verb
 conj
 verb
-239013	pron
+238137	pron
 verb
 verb
 pp
@@ -224206,7 +224206,7 @@ verb
 np
 np
 conj
-239022	adv
+adv
 pp
 verb
 conj
@@ -224221,14 +224221,14 @@ adv
 verb
 conj
 verb
-239038	verb
+238161	verb
 pp
 verb
 conj
 pron
 verb
 np
-239046	conj
+conj
 conj
 verb
 np
@@ -224245,7 +224245,7 @@ verb
 conj
 np
 np
-239064	conj
+238186	conj
 conj
 conj
 pron
@@ -224286,7 +224286,7 @@ np
 conj
 verb
 pron
-239107	adv
+238229	adv
 pp
 np
 verb
@@ -224312,7 +224312,7 @@ pp
 np
 np
 np
-239134	conj
+238256	conj
 conj
 pp
 np
@@ -224344,7 +224344,7 @@ noun
 verb
 conj
 verb
-239167	np
+238289	np
 np
 np
 conj
@@ -224361,13 +224361,13 @@ pp
 verb
 pp
 pp
-239185	np
+238307	np
 verb
 noun
 verb
 conj
 adv
-239192	np
+np
 np
 np
 noun
@@ -224386,7 +224386,7 @@ np
 noun
 verb
 pron
-239212	verb
+238333	verb
 conj
 verb
 pron
@@ -224398,851 +224398,851 @@ verb
 pron
 np
 verb
+238346	conj
+np
+pron
+verb
+pp
+np
+pp
+conj
+np
+verb
+np
+noun
+pron
+verb
+verb
+noun
+pron
+verb
+adj
+238366	np
+conj
+pron
+verb
+verb
+conj
+pp
+np
+np
+verb
+pron
+verb
+verb
+conj
+verb
+pp
+pp
+conj
+verb
+noun
+np
+np
+verb
+conj
+noun
+verb
+pp
+verb
+np
+pp
+verb
+adv
+verb
+verb
+pp
+verb
+conj
+noun
+verb
+pron
+pron
+verb
+verb
+pp
+np
+conj
+verb
+pron
+np
+np
+238417	verb
+conj
+verb
+238421	conj
+pron
+verb
+pp
+verb
+np
+238428	verb
+conj
+adv
+adj
+np
+conj
+verb
+np
+verb
+conj
+verb
+pp
+np
+verb
+noun
+verb
+det
+conj
+verb
+np
+np
+conj
+verb
+np
+verb
+verb
+conj
+pron
+noun
+verb
+pron
+verb
+conj
+238462	np
+conj
+np
+verb
+pron
+verb
+adj
+conj
+verb
+pp
+np
+np
+conj
+verb
+adj
+pp
+np
+verb
+conj
+np
+verb
+pp
+pp
+238486	np
+np
+np
+238490	np
+np
+np
+conj
+pp
+noun
+noun
+np
+pp
+238500	verb
+adj
+conj
+verb
+np
+pp
+np
+np
+np
+verb
+np
+np
+conj
+verb
+np
+pp
+verb
+pp
+adv
+pp
+pp
+np
+np
+np
+238525	np
+np
+verb
+pp
+conj
+verb
+pron
+noun
+det
+conj
+238536	verb
+pron
+conj
+adj
+verb
+verb
+pron
+verb
+noun
+verb
+conj
+pron
+238549	np
+np
+conj
+np
+np
+verb
+pp
+pp
+np
+conj
+adv
+verb
+noun
+pp
+conj
+verb
+np
+pron
+verb
+noun
+pron
+verb
+pp
+238573	np
+pron
+verb
+noun
+pp
+conj
+conj
+verb
+238582	np
+verb
+pron
+238586	verb
+238588	np
+np
+conj
+np
+np
+verb
+pron
+conj
+verb
+adj
+pron
+verb
+pron
+pp
+np
+advp
+conj
+238606	verb
+pron
+conj
+np
+verb
+verb
+noun
+pp
+np
+verb
+pp
+np
+verb
+conj
+adj
+conj
+verb
+verb
+verb
+conj
+pron
+verb
+pp
+noun
+conj
+verb
+238633	np
+verb
+conj
+verb
+np
+conj
+np
+np
+verb
+pp
+np
+pp
+verb
+np
+np
+238649	np
+238651	conj
+np
+conj
+np
+np
+conj
+verb
+noun
+pp
+verb
+noun
+238663	conj
+np
+conj
+verb
+adv
+noun
+conj
+adv
+verb
+np
+238674	conj
+conj
+noun
+adv
+pp
+pp
+pron
+np
+verb
+pron
+adv
+verb
+pron
+conj
+verb
+pp
+conj
+adj
+verb
+np
+pp
+np
+conj
+conj
+pp
+verb
+np
+pron
+verb
+np
+pron
+verb
+verb
+238708	np
+verb
+pp
+np
+verb
+np
+np
+np
+verb
+pp
+np
+conj
+verb
+verb
+238723	verb
+noun
+adv
+verb
+np
+conj
+verb
+pp
+np
+verb
+np
+238735	verb
+np
+verb
+pron
+conj
+verb
+verb
+conj
+verb
+pp
+adj
+verb
+conj
+pron
+verb
+pron
+verb
+conj
+noun
+pp
+np
+verb
+verb
+pron
+verb
+pron
+verb
+pron
+np
+pp
+verb
+det
+conj
+verb
+238771	np
+conj
+verb
+np
+verb
+conj
+pp
+np
+np
+np
+np
+verb
+pp
+np
+238786	verb
+pron
+pp
+np
+np
+conj
+verb
+noun
+pp
+verb
+conj
+pron
+verb
+advp
+conj
+verb
+verb
+pp
+conj
+np
+238807	np
+np
+pp
+verb
+pron
+advp
+conj
+verb
+pp
+np
+np
+conj
+vp
+pron
+verb
+238823	np
+np
+conj
+np
+np
+conj
+conj
+verb
+verb
+np
+verb
+pron
+np
+verb
+pp
+np
+verb
+np
+conj
+verb
+pron
+verb
+verb
+np
+np
+noun
+verb
+conj
+238852	verb
+pron
+verb
+conj
+verb
+verb
+adj
+verb
+conj
+pp
+pron
+verb
+adv
+adj
+verb
+np
+238869	conj
+adj
+pron
+np
+verb
+np
+238876	conj
+verb
+conj
+adv
+adv
+verb
+verb
+verb
+conj
+np
+verb
+pron
+conj
+np
+verb
+238893	pp
+np
+pp
+np
+np
+vp
+np
+pp
+np
+np
+conj
+verb
+noun
+verb
+pp
+pp
+np
+conj
+verb
+noun
+verb
+np
+np
+conj
+np
+np
+verb
+pp
+np
+verb
+conj
+pp
+conj
+verb
+pron
+verb
+noun
+pron
+verb
+pp
+np
+238935	pp
+adv
+conj
+verb
+pp
+pron
+conj
+adv
+verb
+verb
+adv
+conj
+np
+pp
+np
+verb
+verb
+np
+verb
+pron
+pp
+np
+verb
+conj
+noun
+np
+verb
+pp
+verb
+conj
+238966	verb
+noun
+np
+conj
+pp
+np
+verb
+pron
+conj
+verb
+noun
+adj
+pron
+verb
+np
+pron
+verb
+np
+np
+verb
+noun
+pp
+238989	pron
+verb
+np
+pron
+verb
+238995	np
+verb
+pp
+np
+np
+verb
+pp
+np
+pp
+np
+pron
+verb
+noun
+239009	np
+pp
+conj
+verb
+pron
+np
+239016	np
+conj
+pron
+verb
+239021	verb
+conj
+verb
+np
+verb
+pp
+np
+conj
+np
+verb
+pp
+conj
+pron
+np
+pron
+verb
+239038	pp
+conj
+np
+np
+np
+conj
+pron
+adv
+verb
+verb
+pp
+pron
+np
+verb
+pp
+np
+np
+conj
+verb
+pron
+adj
+verb
+239061	np
+np
+conj
+239066	verb
+pp
+np
+pron
+239071	conj
+pron
+pp
+verb
+pron
+pp
+conj
+verb
+pron
+239081	verb
+np
+conj
+verb
+conj
+pron
+verb
+np
+np
+verb
+pp
+np
+np
+239095	verb
+conj
+pron
+np
+np
+verb
+np
+verb
+pp
+np
+np
+np
+verb
+pp
+adv
+verb
+np
+np
+np
+verb
+np
+np
+np
+pp
+np
+verb
+np
+conj
+verb
+np
+np
+pp
+pron
+verb
+np
+conj
+pp
+pp
+np
+np
+np
+np
+np
+verb
+verb
+conj
+239142	pron
+verb
+noun
+conj
+verb
+np
+adv
+verb
+noun
+np
+verb
+verb
+pron
+adv
+verb
+pron
+np
+np
+np
+verb
+conj
+np
+verb
+conj
+pron
+pp
+np
+np
+239171	verb
+adv
+verb
+pron
+verb
+np
+verb
+conj
+239180	np
+conj
+239183	np
+verb
+pp
+np
+conj
+np
+np
+verb
+np
+np
+np
+conj
+conj
+verb
+noun
+pp
+verb
+pp
+np
+pp
+verb
+conj
+verb
+pp
+np
+noun
+verb
+conj
+verb
+pron
+verb
+conj
+noun
+verb
+pron
+adv
+verb
+239221	pron
+vp
+pp
 239225	conj
-np
-pron
-verb
+239227	verb
 pp
+239230	verb
 np
-pp
 conj
 np
-verb
 np
-noun
-239238	pron
+verb
+pp
+np
+conj
+verb
+pp
+pp
 verb
 verb
-noun
-pron
+conj
 verb
-adj
 239247	np
-conj
-pron
-verb
-verb
-conj
-pp
-np
-np
-verb
-pron
-verb
-verb
-conj
-verb
-pp
-239264	pp
-conj
-verb
-noun
-np
-np
-verb
-conj
-noun
-verb
-pp
-verb
-np
-pp
-verb
-adv
-verb
-verb
-pp
-verb
-conj
-noun
-verb
-pron
-pron
-verb
-verb
-pp
-np
-conj
-verb
-pron
-np
-np
-239299	verb
-conj
-verb
-239304	conj
-pron
-verb
-pp
-verb
-np
-239311	verb
-conj
-adv
-adj
-np
-conj
-verb
-np
-verb
-conj
-verb
-pp
-np
-verb
-noun
-verb
-det
-conj
-verb
-np
-np
-conj
-verb
-np
-verb
-verb
-conj
-pron
-noun
-verb
-pron
-verb
-conj
-239345	np
-conj
-np
-verb
-pron
-verb
-adj
-conj
-verb
-pp
-np
-np
-conj
-verb
-adj
-pp
-np
-verb
-conj
-np
-verb
-pp
-pp
-239369	np
-np
-np
-239373	np
-np
-np
-conj
-pp
-noun
-noun
-np
-pp
-239383	verb
-adj
-conj
-verb
-np
-pp
-np
-np
-np
-verb
-np
-np
-conj
-verb
-np
-pp
-verb
-pp
-adv
-pp
-pp
-np
-np
-np
-239408	np
-np
-verb
-pp
-conj
-verb
-pron
-noun
-det
-conj
-239419	verb
-pron
-conj
-adj
-verb
-verb
-pron
-verb
-noun
-verb
-conj
-pron
-239432	np
-np
-conj
-np
-np
-verb
-pp
-pp
-np
-conj
-adv
-verb
-noun
-pp
-conj
-verb
-239449	np
-pron
-verb
-noun
-pron
-verb
-pp
-239458	np
-pron
-verb
-noun
-pp
-239464	conj
-conj
-verb
-239468	np
-verb
-pron
-239472	verb
-239474	np
-np
-conj
-np
-np
-verb
-pron
-conj
-verb
-adj
-pron
-verb
-pron
-pp
-np
-advp
-conj
-239492	verb
-pron
-conj
-np
-verb
-verb
-noun
-pp
-np
-verb
-pp
-np
-verb
-conj
-adj
-conj
-verb
-verb
-239511	verb
-conj
-pron
-verb
-pp
-noun
-conj
-verb
-239520	np
-verb
-conj
-verb
-np
-conj
-np
-np
-verb
-pp
-np
-pp
-verb
-np
-np
-239536	np
-239538	conj
-np
-conj
-np
-np
-conj
-verb
-noun
-pp
-verb
-noun
-239550	conj
-np
-conj
-verb
-239555	adv
-noun
-conj
-adv
-verb
-np
-239562	conj
-conj
-noun
-adv
-pp
-pp
-pron
-np
-verb
-pron
-adv
-verb
-pron
-conj
-verb
-pp
-conj
-adj
-verb
-np
-pp
-np
-239585	conj
-conj
-pp
-verb
-np
-pron
-verb
-np
-239594	pron
-verb
-verb
-239598	np
-verb
-pp
-np
-verb
-np
-np
-np
-verb
-pp
-np
-conj
-verb
-verb
-239613	verb
-noun
-adv
-verb
-np
-conj
-verb
-pp
-np
-verb
-np
-239625	verb
-np
-verb
-pron
-conj
-239631	verb
-verb
-conj
-verb
-pp
-adj
-verb
-conj
-pron
-verb
-pron
-verb
-conj
-noun
-pp
-np
-verb
-verb
-pron
-verb
-pron
-verb
-pron
-np
-239656	pp
-verb
-det
-conj
-verb
-239663	np
-conj
-verb
-np
-verb
-conj
-pp
-np
-np
-np
-np
-verb
-pp
-np
-239678	verb
-pron
-pp
-np
-np
-conj
-verb
-noun
-pp
-verb
-conj
-pron
-verb
-advp
-conj
-verb
-verb
-pp
-conj
-np
-239699	np
-np
-pp
-verb
-pron
-advp
-conj
-verb
-pp
-np
-np
-conj
-vp
-pron
-verb
-239715	np
-np
-conj
-np
-np
-conj
-conj
-verb
-verb
-np
-verb
-pron
-np
-verb
-pp
-np
-verb
-np
-conj
-verb
-pron
-verb
-239738	verb
-np
-np
-noun
-verb
-conj
-239745	verb
-pron
-verb
-conj
-verb
-verb
-adj
-verb
-conj
-pp
-pron
-verb
-adv
-adj
-verb
-np
-239762	conj
-adj
-pron
-np
-verb
-np
-239769	conj
-verb
-conj
-adv
-adv
-verb
-verb
-verb
-conj
-np
-verb
-pron
-conj
-np
-verb
-239786	pp
-np
-pp
-np
-np
-vp
-np
-pp
-np
-np
-conj
-verb
-noun
-verb
-pp
-pp
-np
-conj
-verb
-noun
-verb
-np
-np
-conj
-np
-np
-verb
-pp
-np
-verb
-conj
-pp
-conj
-verb
-239821	pron
-verb
-noun
-pron
-verb
-pp
-np
-239829	pp
-adv
-conj
-verb
-pp
-pron
-conj
-adv
-verb
-verb
-adv
-conj
-np
-pp
-np
-verb
-verb
-np
-verb
-pron
-pp
-np
-verb
-conj
-noun
-np
-verb
-pp
-verb
-conj
-239860	verb
-noun
-np
-conj
-pp
-np
-verb
-pron
-conj
-verb
-noun
-adj
-pron
-verb
-np
-239876	pron
-verb
-np
-np
-verb
-noun
-pp
-239885	pron
-verb
-np
-pron
-verb
-239891	np
-239893	verb
-pp
-np
-np
-verb
-pp
-np
-pp
-np
-239903	pron
-verb
-noun
-239909	np
-pp
-conj
-verb
-pron
-np
-239916	np
-conj
-pron
-verb
-239921	verb
-conj
-verb
-np
-verb
-pp
-np
-conj
-np
-verb
-pp
-conj
-pron
-np
-239936	pron
-verb
-239939	pp
-conj
-np
-np
-np
-conj
-pron
-adv
-verb
-verb
-pp
-pron
-np
-verb
-pp
-np
-np
-conj
-verb
-pron
-adj
-verb
-239962	np
-np
-conj
-239968	verb
-pp
-np
-pron
-239973	conj
-pron
-pp
-verb
-pron
-pp
-conj
-verb
-pron
-239983	verb
-np
-conj
-verb
-conj
-pron
-verb
-np
-np
-verb
-pp
-np
-np
-239997	verb
-conj
-pron
-np
-np
-verb
-np
-verb
-pp
-np
-np
-np
-verb
-pp
-adv
-verb
-np
-np
-np
-verb
-np
-np
-np
-pp
-np
-verb
-np
-conj
-verb
-240027	np
-np
-pp
-pron
-verb
-np
-conj
-pp
-pp
-np
-np
-np
-np
-np
-verb
-verb
-conj
-240045	pron
-verb
-noun
-conj
-verb
-np
-adv
-verb
-noun
-np
-verb
-verb
-pron
-adv
-verb
-240061	pron
-np
-np
-np
-verb
-conj
-np
-verb
-conj
-pron
-pp
-np
-np
-240075	verb
-adv
-verb
-pron
-verb
-np
-verb
-conj
-240084	np
-conj
-240087	np
-verb
-pp
-np
-conj
-np
-np
-verb
-np
-np
-np
-240099	conj
-conj
-verb
-noun
-pp
-verb
-pp
-np
-pp
-verb
-conj
-verb
-pp
-np
-noun
-verb
-conj
-verb
-pron
-verb
-conj
-noun
-verb
-pron
-adv
-verb
-240126	pron
-vp
-pp
-240130	conj
-240132	verb
-pp
-240135	verb
-np
-conj
-np
-np
-verb
-pp
-np
-conj
-verb
-pp
-pp
-verb
-verb
-conj
-verb
-240152	np
 np
 np
 conj
@@ -225261,13 +225261,13 @@ verb
 pron
 verb
 noun
-240172	conj
+239267	conj
 verb
 conj
-240176	adv
+adv
 noun
 conj
-240180	conj
+239274	conj
 adv
 verb
 pp
@@ -225302,7 +225302,7 @@ np
 verb
 pp
 np
-240216	pp
+pp
 verb
 verb
 pp
@@ -225333,18 +225333,18 @@ conj
 pron
 conj
 verb
-240248	np
+239341	np
 pp
 np
 np
 verb
 conj
 verb
-240256	verb
+239349	verb
 pp
 conj
 verb
-240262	verb
+239354	verb
 noun
 pron
 verb
@@ -225352,7 +225352,7 @@ noun
 pp
 pp
 verb
-240271	conj
+239363	conj
 np
 np
 np
@@ -225377,7 +225377,7 @@ np
 np
 conj
 verb
-240297	noun
+239389	noun
 conj
 verb
 noun
@@ -225386,9 +225386,9 @@ conj
 verb
 pp
 np
-240307	conj
 conj
-240310	np
+conj
+np
 np
 verb
 pron
@@ -225396,8 +225396,8 @@ np
 np
 verb
 pp
-240319	np
-240322	pron
+239409	np
+239411	pron
 pron
 verb
 verb
@@ -225421,7 +225421,7 @@ verb
 conj
 verb
 pp
-240347	np
+239436	np
 verb
 pp
 verb
@@ -225439,7 +225439,7 @@ verb
 conj
 np
 pp
-240367	conj
+239456	conj
 pron
 verb
 pp
@@ -225448,12 +225448,12 @@ pp
 pp
 np
 verb
-240377	np
+239466	np
 conj
 verb
 np
 pp
-240383	np
+239472	np
 conj
 verb
 verb
@@ -225466,7 +225466,7 @@ np
 pp
 np
 np
-240397	np
+239486	np
 verb
 pp
 pp
@@ -225475,10 +225475,10 @@ verb
 noun
 pp
 pron
-240407	verb
+239496	verb
 conj
 verb
-240411	np
+239500	np
 np
 np
 verb
@@ -225495,7 +225495,7 @@ verb
 np
 conj
 adjp
-240429	np
+239518	np
 conj
 conj
 verb
@@ -225513,7 +225513,7 @@ pp
 verb
 conj
 pron
-240448	np
+239537	np
 np
 verb
 pp
@@ -225576,13 +225576,13 @@ pp
 np
 pp
 np
-240512	conj
+239601	conj
 pp
 np
 conj
 np
 verb
-240519	np
+239608	np
 np
 verb
 np
@@ -225591,10 +225591,10 @@ pp
 np
 verb
 conj
-240529	np
+239618	np
 np
 noun
-240533	verb
+239622	verb
 conj
 conj
 adj
@@ -225638,7 +225638,7 @@ np
 pp
 np
 pp
-240578	conj
+conj
 conj
 verb
 verb
@@ -225687,7 +225687,7 @@ verb
 conj
 np
 pp
-240628	verb
+239716	verb
 conj
 verb
 np
@@ -225698,7 +225698,7 @@ adv
 conj
 verb
 pron
-240640	verb
+239728	verb
 np
 np
 conj
@@ -225708,7 +225708,7 @@ conj
 verb
 verb
 conj
-240651	verb
+239739	verb
 conj
 adj
 verb
@@ -225719,13 +225719,13 @@ verb
 conj
 noun
 verb
-240663	verb
+239751	verb
 conj
 np
 conj
 verb
 pp
-240671	np
+239758	np
 np
 np
 verb
@@ -225761,7 +225761,7 @@ conj
 verb
 pron
 pp
-240708	np
+239795	np
 conj
 np
 np
@@ -225774,17 +225774,17 @@ conj
 verb
 pp
 np
-240722	np
-240724	np
+np
+239810	np
 np
 np
-240728	verb
+239814	verb
 noun
 adv
 vp
 adj
 conj
-240735	verb
+verb
 conj
 pron
 np
@@ -225854,7 +225854,7 @@ np
 verb
 conj
 verb
-240806	conj
+239891	conj
 np
 pron
 conj
@@ -225876,7 +225876,7 @@ np
 verb
 noun
 conj
-240829	verb
+239914	verb
 pron
 conj
 adv
@@ -225887,20 +225887,20 @@ verb
 verb
 conj
 verb
-240841	pp
+239926	pp
 np
 pp
 verb
 vp
 conj
-240848	conj
+239933	conj
 adv
 conj
 verb
 pp
 conj
 verb
-240856	np
+239941	np
 pp
 np
 np
@@ -225926,7 +225926,7 @@ pp
 np
 conj
 verb
-240883	np
+239968	np
 conj
 adv
 noun
@@ -225949,15 +225949,15 @@ np
 conj
 np
 np
-240907	conj
-240909	conj
+239992	conj
+239994	conj
 conj
 verb
 pp
 verb
 np
 verb
-240917	verb
+240002	verb
 noun
 verb
 conj
@@ -225966,19 +225966,19 @@ pp
 np
 np
 verb
-240928	conj
-240931	np
+240013	conj
+240016	np
 conj
 conj
-240935	verb
+240020	verb
 noun
 conj
-240939	np
-240942	conj
+240024	np
+240027	conj
 np
-240945	np
+240030	np
 conj
-240948	verb
+verb
 conj
 pron
 np
@@ -225991,14 +225991,14 @@ np
 verb
 pron
 np
-240962	conj
+240046	conj
 pp
 np
-240966	pron
+pron
 verb
 pron
 adv
-240971	verb
+240054	verb
 conj
 verb
 conj
@@ -226006,7 +226006,7 @@ verb
 np
 pron
 verb
-240980	pron
+240063	pron
 conj
 conj
 verb
@@ -226040,7 +226040,7 @@ np
 np
 pp
 verb
-241018	np
+240099	np
 np
 pron
 noun
@@ -226048,11 +226048,11 @@ noun
 pron
 verb
 pp
-241028	np
-241030	np
+240109	np
+240111	np
 pron
 verb
-241034	conj
+240115	conj
 verb
 verb
 np
@@ -226061,7 +226061,7 @@ np
 verb
 conj
 pron
-241045	np
+240125	np
 adv
 conj
 verb
@@ -226072,7 +226072,7 @@ verb
 np
 pp
 np
-241057	conj
+240137	conj
 np
 np
 verb
@@ -226080,9 +226080,9 @@ np
 verb
 pp
 verb
-241066	ptcl
+ptcl
 np
-241069	np
+240148	np
 conj
 np
 np
@@ -226091,7 +226091,7 @@ np
 adv
 verb
 verb
-241079	np
+240158	np
 np
 np
 np
@@ -226111,7 +226111,7 @@ adv
 conj
 verb
 pp
-241100	conj
+240179	conj
 conj
 verb
 verb
@@ -226163,16 +226163,16 @@ pp
 conj
 np
 np
-241153	np
+240232	np
 conj
 np
 verb
 np
 pp
 verb
-241162	noun
 noun
-241165	conj
+noun
+conj
 np
 verb
 pp
@@ -226181,4859 +226181,4859 @@ np
 pp
 np
 verb
-241175	verb
+240251	verb
 conj
 noun
 conj
 verb
 np
 verb
-241183	noun
+noun
 noun
 conj
 verb
 np
 verb
-241190	np
 np
+np
+240267	np
+np
+verb
+np
+np
+conj
+240276	np
+verb
+pp
+np
+np
+pp
+np
+conj
+pp
+np
+verb
+pron
+pp
+conj
+np
+np
+verb
+pron
+pp
+np
+conj
+verb
+np
+np
+pp
+np
+verb
+np
+np
+np
+np
+240308	conj
+conj
+pp
+verb
+noun
+pp
+np
+conj
+verb
+noun
+conj
+verb
+pron
+np
+240324	np
+np
+np
+pp
+np
+np
+conj
+verb
+pron
+verb
+np
+pron
+pp
+pron
+adv
+verb
+verb
+verb
+240344	np
+np
+np
+pp
+np
+np
+pron
+verb
+np
+np
+np
+pp
+np
+np
+np
+pp
+verb
+np
+240363	verb
+noun
+pp
+np
+np
+np
+np
+np
+np
+np
+conj
+conj
+verb
+noun
+np
+verb
+pron
+pron
+verb
+verb
+240384	verb
+pron
+conj
+verb
+verb
+pp
+pron
+adv
+verb
+adj
+np
+np
+np
+verb
+noun
+noun
+240401	np
+np
+conj
+np
+np
+pp
+verb
+np
+pron
+np
+np
+np
+np
+verb
+240416	conj
+verb
+pp
+conj
+np
+np
+240423	pron
+verb
+conj
+240427	np
+np
+np
+pp
+np
+verb
+verb
+verb
+conj
+np
+np
+verb
+verb
+noun
+verb
+pron
+conj
+conj
+verb
+np
+pp
+verb
+verb
+pp
+np
+verb
+pp
+np
+conj
+verb
+pron
+pp
+pron
+verb
+pp
+np
+verb
+pron
+240466	pp
+np
+pp
+pron
+adv
+verb
+np
+pp
+np
+conj
+pron
+pron
+verb
+np
+np
+pp
+np
+verb
+conj
+pron
+np
+verb
+np
+np
+verb
+noun
+conj
+pp
+pp
+np
+np
+verb
+np
+np
+verb
+pron
+pron
+adv
+verb
+pron
+conj
+conj
+verb
+pron
+pp
+adv
+verb
+verb
+pp
+adv
+verb
+conj
+verb
+pron
+240521	np
+np
+np
+conj
+pp
+pp
+verb
+adv
+verb
+np
+np
+verb
+noun
+240535	noun
+conj
+conj
+np
+verb
+np
+np
+np
+verb
+conj
+verb
+pp
+np
+np
+conj
+verb
+noun
+pron
+conj
+np
+verb
+adv
+verb
+noun
+adj
+conj
+verb
+pron
+noun
+noun
+conj
+pp
+pron
+np
+verb
+conj
+pp
+pron
+adv
+verb
+pp
+np
+verb
+pp
+np
+verb
+verb
+verb
+conj
+conj
+verb
+verb
+pp
+np
+verb
+np
+conj
+verb
+conj
+verb
+conj
+noun
+verb
+pron
+pp
+np
+np
+pron
+advp
+verb
+conj
+pron
+verb
+pron
+verb
+conj
+pron
+verb
+pp
+np
+np
+verb
+pron
+np
+np
+verb
+conj
+np
+verb
+np
+240626	np
+conj
+np
+np
+verb
+240632	np
+conj
+np
+pron
+verb
+pron
+verb
+pron
+verb
+np
+np
+np
+np
+conj
+np
+verb
+np
+np
+np
+verb
+verb
+np
+np
+np
+verb
+conj
+np
+np
+verb
+noun
+conj
+verb
+pp
+verb
+verb
+verb
+conj
+240670	np
+conj
+np
+verb
+pron
+verb
+adj
+adj
+verb
+np
+np
+np
+conj
+240684	verb
+pron
+conj
+adv
+adjp
+verb
+pron
+np
+np
+verb
+verb
+pp
+np
+adv
+conj
+verb
+pron
+np
+verb
+pron
+pp
+np
+verb
+pron
+pp
+pp
+np
+np
+240713	verb
+conj
+np
+verb
+conj
+verb
+np
+np
+np
+conj
+verb
+pron
+vp
+pp
+np
+verb
+conj
+np
+np
+np
+pp
+np
+np
+np
+conj
+verb
+240740	np
+np
+verb
+np
+np
+conj
+np
+np
+np
+conj
+240751	verb
+noun
+pp
+np
+240756	conj
+conj
+verb
+pron
+pp
+np
+np
+det
+conj
+verb
+np
+np
+np
+pp
+verb
+pp
+np
+conj
+verb
+240776	conj
+np
+verb
+conj
+pp
+pp
+np
+verb
+pron
+pp
+np
+np
+np
+conj
+verb
+adv
+conj
+verb
+np
+conj
+conj
+np
+np
+conj
+np
+verb
+240803	conj
+np
+np
+np
+pp
+np
+np
+conj
+conj
+verb
+verb
+pp
+240816	np
+verb
+pp
+np
+np
+np
+np
+verb
+240825	conj
+verb
+pp
+np
+np
+240831	verb
+conj
+np
+np
+np
+conj
+240838	det
+conj
+verb
+pp
+np
+det
+conj
+pp
+np
+conj
+conj
+verb
+np
+np
+np
+conj
+conj
+pp
+np
+np
+240859	conj
+pron
+verb
+verb
+pp
+240865	np
+240867	np
+np
+240870	conj
+conj
+np
+conj
+vp
+conj
+np
+adj
+pp
+np
+verb
+adj
+pp
+np
+np
+pron
+adv
+verb
+pron
+verb
+np
+verb
+pron
+240894	verb
+pron
+conj
+verb
+conj
+verb
+noun
+verb
+verb
+np
+verb
+pp
+np
+np
+adj
+conj
+verb
+conj
+verb
+np
+conj
+verb
+pron
+verb
+noun
+verb
+np
+np
+adv
+verb
+np
+verb
+noun
+verb
+pp
+240930	verb
+conj
+np
+noun
+np
+conj
+noun
+conj
+pron
+verb
+np
+verb
+np
+np
+conj
+np
+240947	np
+verb
+pp
+np
+240952	conj
+pp
+np
+verb
+pp
+np
+verb
+verb
+verb
+conj
+240963	np
+240965	conj
+verb
+np
+np
+verb
+pp
+np
+240973	verb
+conj
+verb
+noun
+pron
+pron
+verb
+np
+np
+adjp
+verb
+verb
+pron
+pp
+np
+np
+verb
+pp
+np
+verb
+pron
+verb
+240996	np
+conj
+np
+conj
+np
+conj
+np
+np
+pp
+pron
+pp
+np
+np
+verb
+verb
+np
+np
+verb
+np
+np
+conj
+adv
+adj
+pron
+verb
+verb
+241023	adv
+pron
+noun
+verb
+conj
+np
+verb
+241031	conj
+np
+np
+conj
+pron
+verb
+adv
+verb
+np
+adv
+verb
+pron
+verb
+conj
+pp
+241047	conj
+adj
+conj
+241051	verb
+np
+conj
+verb
+np
+verb
+pp
+np
+verb
+pron
+verb
+verb
+conj
+np
+pron
+verb
+verb
+pp
+np
+conj
+advp
+verb
+pp
+np
+pp
+241077	verb
+conj
+np
+np
+conj
+verb
+adj
+verb
+241086	pp
+np
+conj
+pp
+conj
+pp
+verb
+np
+np
+np
+verb
+241098	verb
+np
+conj
+conj
+pp
+np
+verb
+pron
+verb
+pp
+np
+np
+np
+verb
+conj
+pron
+pp
+adj
+verb
+pp
+verb
+pron
+np
+pp
+verb
+conj
+verb
+np
+verb
+pp
+np
+conj
+verb
+pp
+np
+verb
+pp
+conj
+verb
+pp
+adv
+vp
+np
+np
+np
+pp
+np
+pron
+verb
+241148	verb
+conj
+conj
+verb
+np
+verb
+pron
+verb
+np
+pp
+conj
+conj
+verb
+np
+np
+verb
+conj
+np
+adjp
+pp
+np
+conj
+pron
+verb
+pp
+np
+verb
+np
+conj
+conj
+adv
+verb
+241181	np
+np
+adv
+verb
+verb
+verb
+conj
+np
+241190	conj
+adjp
 241193	np
-np
-verb
-np
-np
-conj
-241202	np
-verb
-pp
-np
-np
-pp
-np
-conj
-pp
-np
-verb
-pron
-pp
 conj
 np
-np
-verb
-pron
-pp
-np
-conj
-verb
-np
-np
-pp
-np
-verb
-np
-np
-np
-np
-241234	conj
-conj
 pp
 verb
-noun
-pp
-np
-conj
 verb
-noun
-conj
-verb
-pron
-np
-241250	np
-np
-np
-pp
-np
-np
-conj
-241258	verb
-pron
-verb
-np
-pron
-pp
-pron
-adv
-verb
-verb
-verb
-241272	np
-np
-np
-pp
-np
-np
-pron
-verb
-np
-np
-np
-pp
-np
-np
-np
-pp
-verb
-np
-241291	verb
-noun
-pp
-np
-np
-np
-np
-np
-np
-np
-241302	conj
-conj
-verb
-noun
-np
-verb
-pron
-pron
-verb
-verb
-241313	verb
-pron
-conj
-verb
-verb
-pp
-pron
-adv
-verb
-adj
-np
-np
-np
-verb
-241329	noun
-noun
-241332	np
-np
+241200	conj
 conj
 np
 np
 pp
+pp
+np
+241208	conj
+pp
+pp
+np
+np
+det
+conj
+verb
+pp
+np
 verb
 np
+conj
+conj
+verb
+np
+np
+np
+conj
+verb
+np
+np
+np
+verb
+conj
+pp
+verb
+pp
+241237	np
+conj
+np
+conj
+np
+verb
+conj
 pron
 np
-np
-np
-np
-verb
-241347	conj
 verb
 pp
-conj
-np
-np
-241354	pron
 verb
 conj
-241358	np
-np
+241251	np
 np
 pp
 np
-verb
+np
+np
 verb
 verb
 conj
+verb
+verb
+pron
+verb
+conj
+verb
 np
 np
+verb
+conj
+241271	np
+conj
+np
+verb
+pp
+np
+np
+np
+conj
 verb
 verb
 noun
 verb
-pron
-241375	conj
-conj
-verb
-np
 pp
-verb
-verb
-pp
-np
-verb
-pp
-np
-conj
-verb
-pron
-pp
-pron
-verb
-pp
-np
-241396	verb
-pron
-241399	pp
-np
-pp
-pron
-adv
-verb
-np
-pp
-np
-conj
-pron
-pron
-verb
-np
-np
-pp
-np
-verb
-conj
-241419	pron
-np
-verb
-np
-np
-verb
 noun
-conj
-pp
-pp
-np
-np
-verb
-np
-241434	np
-verb
-pron
-pron
-adv
-verb
-pron
-conj
-conj
-verb
-pron
-pp
-adv
-verb
-verb
-pp
-adv
-verb
-conj
-verb
-pron
-241456	np
-np
-np
-conj
-pp
-pp
-verb
-adv
-verb
-np
-np
-verb
-noun
-241470	noun
-conj
-conj
-np
-verb
-np
-np
-np
-verb
-conj
-verb
-pp
-np
-np
-conj
-verb
 noun
 pron
-conj
-np
-verb
-adv
-verb
-noun
-adj
-conj
-verb
-pron
-241499	noun
-noun
-conj
-pp
-pron
-np
 verb
 conj
 pp
-241509	pron
-adv
-verb
-pp
 np
-verb
-pp
-np
-verb
-verb
-241520	verb
-conj
-conj
-verb
-verb
-pp
-np
-241528	verb
-np
-conj
-verb
-conj
-verb
-conj
-noun
-verb
-pron
-pp
-np
-np
-241542	pron
-advp
-verb
-conj
-pron
-verb
-pron
-241550	verb
-conj
-pron
-verb
-pp
-np
-np
-verb
-pron
-np
-np
-241562	verb
-conj
-np
-verb
-np
-241568	np
-conj
-np
-np
-verb
-241575	np
-conj
-np
-pron
-verb
-pron
-verb
-pron
-verb
-np
-np
-np
-np
-conj
-np
-verb
-np
-np
-np
-verb
-verb
-np
-np
-np
-verb
-conj
-np
-np
-verb
-noun
-conj
-verb
 pp
 verb
-verb
-verb
-conj
-241613	np
-conj
 np
+241296	pp
+np
+np
+verb
+np
+np
+np
+np
+conj
+verb
+conj
+241308	np
 verb
 pron
 verb
-adj
+np
+np
+np
+conj
+np
+conj
 adj
 verb
+pp
+conj
+conj
+np
+verb
+np
+np
+adv
+conj
+pron
+verb
+np
+verb
+noun
+pp
 np
 np
 np
-241626	conj
-241628	verb
+pron
+241340	conj
+np
+np
+conj
+verb
+verb
+conj
+pp
+np
+np
+241351	np
+verb
+verb
+pp
+np
+pron
+verb
+conj
+np
+np
+conj
+verb
+241364	conj
+verb
+pron
+verb
+np
+241370	conj
+pp
+np
+pp
+pp
+conj
+verb
+pron
+verb
+noun
+verb
+noun
+noun
+verb
+pron
+noun
+verb
+conj
+adj
+np
+verb
+verb
+pp
+noun
+np
+np
+conj
+pron
+verb
+np
+np
+np
+conj
+verb
+pp
+verb
+conj
+241409	verb
+241411	np
+np
+verb
+conj
+np
+verb
+verb
+conj
+verb
 pron
 conj
+verb
+np
+np
+np
+np
+np
+np
+np
+pp
+verb
+np
+np
+pp
+verb
+np
+verb
+np
+adj
+pp
+conj
+pron
+verb
+241445	verb
+np
+np
+pp
+np
+verb
+pp
+np
+conj
+verb
+pron
+verb
+241458	np
+np
+np
+conj
+np
+conj
+conj
+np
+noun
+conj
+pp
+np
+pp
+verb
+pron
+verb
+pp
+np
+pp
+np
+verb
 adv
+verb
+241482	np
+conj
+np
+pp
+np
+np
+verb
+noun
+pp
+verb
+pp
+pp
+np
+241496	conj
+241500	verb
+noun
+conj
+np
+verb
+pp
+np
+verb
+pp
+np
+241512	np
+conj
+np
+241516	np
+np
+pp
+np
+conj
+conj
+np
+pp
+verb
+conj
+verb
+conj
+np
+pp
+verb
+pron
+noun
+verb
+np
+np
+pron
+adv
+verb
+verb
+pron
+verb
+adv
+verb
+noun
+verb
+pp
+pp
+241550	np
+np
+241553	conj
+np
+verb
+np
+np
+pp
+np
+np
+241562	np
+np
+241565	verb
+conj
+241568	conj
+np
+conj
+np
+pp
+verb
+np
+verb
+conj
+241578	np
+np
+np
+conj
+np
 adjp
 verb
 pron
-np
-np
-verb
-verb
 pp
 np
+np
+verb
+241591	conj
+conj
+conj
+pp
+verb
+pron
 adv
+verb
+verb
+det
 conj
 verb
-pron
+verb
+pp
+conj
+verb
 np
 verb
-pron
+np
+verb
+conj
+verb
 pp
 np
-verb
-pron
-pp
-pp
-np
-np
-241657	verb
+241616	conj
 conj
 np
-verb
-conj
-verb
-np
-np
-np
-conj
-verb
-pron
-vp
-pp
-np
-verb
-conj
-np
-np
-np
-pp
-np
-np
-np
-conj
-verb
-241684	np
-np
-verb
-np
-np
-conj
-np
-np
-np
-conj
-241695	verb
 noun
+verb
 pp
 np
-241700	conj
+verb
+np
 conj
+verb
+verb
+conj
+noun
+verb
+pp
+pp
+np
+pp
+verb
+pron
+241638	conj
+conj
+verb
+pp
+241643	conj
+pp
+np
+np
+np
+np
+np
+pp
+conj
+np
+verb
+pp
+noun
+verb
+verb
+np
+pp
+np
+pp
+verb
+np
+np
+np
+adv
+verb
+noun
+conj
+verb
+verb
+np
+241674	np
+verb
+noun
+noun
+conj
+verb
+verb
+pp
+pp
+conj
+adv
 verb
 pron
 pp
 np
-np
-det
-conj
+adv
 verb
-np
-np
-np
-pp
-verb
-pp
-np
-conj
-verb
-241720	conj
-np
+pron
 verb
 conj
-pp
-pp
-np
-verb
+noun
+conj
+241697	verb
 pron
 pp
 np
-np
-np
 conj
+verb
+np
+verb
+pp
+noun
+conj
+verb
+noun
+verb
+verb
+np
+np
+np
+pp
+np
+verb
+conj
+241720	np
+conj
+verb
+np
+verb
+conj
+241727	conj
+pp
+conj
+pp
+conj
+verb
+241734	np
+np
 verb
 adv
-conj
-verb
+noun
+noun
 np
-conj
-conj
+241742	np
 np
-np
-conj
-np
-verb
-241747	conj
-np
-np
-np
-pp
-np
-np
-conj
-conj
-verb
-verb
-pp
-241760	np
+241745	conj
+pron
 verb
 pp
 np
 np
-np
-np
-verb
-241769	conj
-verb
 pp
+241753	conj
+pron
+verb
 np
-np
-241775	verb
+pp
+verb
 conj
-np
-np
-np
-conj
-241782	det
-conj
+verb
+verb
+pron
+pp
+241765	np
 verb
 pp
 np
-det
-conj
-pp
 np
+verb
+conj
+adj
+conj
+noun
+np
+np
+verb
+conj
+conj
+verb
+np
+verb
+pron
+verb
+241786	np
+verb
+pp
+241790	np
 241792	conj
+np
+pp
+np
+conj
 conj
 verb
 np
-np
-np
 conj
+verb
+np
+pp
+verb
 conj
+np
+241808	conj
+np
+verb
 pp
 np
 np
-241804	conj
+verb
+np
+pp
+np
+verb
+conj
+pp
+np
+verb
+pp
+np
+verb
+conj
+adv
+verb
 pron
-241807	verb
+np
+np
+verb
+conj
+np
 verb
 pp
-241811	np
-241813	np
-np
-241816	conj
 conj
+noun
+pp
 np
-conj
+verb
+241843	np
 vp
 conj
-np
-241824	adj
-pp
-np
 verb
-adj
-pp
-np
-np
-pron
-adv
-verb
-pron
-verb
-np
-verb
-pron
-241841	verb
 pron
 conj
 verb
-conj
-verb
-noun
-verb
-verb
-np
 verb
 pp
-np
-np
-adj
-conj
-verb
-conj
-verb
-np
-conj
 verb
 pron
-verb
-noun
-verb
-np
-np
-adv
-verb
-np
-verb
-noun
-verb
-pp
-241877	verb
+conj
 conj
 np
-noun
-241882	np
-conj
-noun
-conj
-pron
-verb
-np
-verb
-np
-np
-conj
-np
-241895	np
-verb
-pp
-np
-241900	conj
-pp
-np
-verb
-pp
-np
-verb
-verb
-verb
-conj
-241911	np
-241913	conj
-verb
-np
-np
-verb
-pp
-np
-241921	verb
-conj
-verb
-noun
-pron
-pron
-verb
-np
-np
-adjp
-verb
-verb
-pron
-pp
-np
-np
-verb
-pp
-241941	np
-verb
-pron
-verb
-241946	np
-conj
-np
-conj
-np
-conj
-np
-np
-pp
-pron
-pp
-np
-np
-verb
-verb
-np
-np
-verb
-np
-np
-conj
-adv
-adj
-pron
-verb
-241972	verb
-241974	adv
-pron
-noun
-verb
-conj
-np
-verb
-241982	conj
-np
-np
-conj
-pron
 verb
 adv
 verb
+verb
+pp
+verb
+conj
+verb
+pron
 np
-adv
 verb
 pron
 verb
 conj
 pp
-241998	conj
-adj
-conj
-242002	verb
-np
-conj
 verb
-np
+pp
+conj
 verb
 pp
 np
-verb
+conj
+pp
 pron
 verb
-242014	verb
-conj
-np
-pron
-verb
-verb
-pp
-np
-conj
-advp
-verb
-pp
-np
-pp
-242029	verb
-conj
-np
-np
-conj
-verb
-adj
-verb
-242038	pp
-np
-conj
-pp
-conj
-pp
-242045	verb
+241883	np
 np
 np
 np
-verb
-242051	verb
-np
-conj
-conj
-pp
-np
-verb
-pron
-verb
-pp
-np
-np
-np
-verb
-conj
-pron
-pp
-adj
-verb
-pp
-verb
-pron
-np
-242075	pp
-verb
-conj
-verb
-np
-verb
-pp
-np
-conj
-verb
-pp
-np
-verb
-pp
-conj
-verb
-pp
-242093	adv
 vp
-np
-np
-np
+conj
 pp
 np
-242101	pron
-verb
-242104	verb
-conj
-conj
-verb
-np
-verb
-pron
-verb
-np
-pp
-conj
-conj
-verb
 np
 np
-verb
-conj
-np
-adjp
-pp
 np
 conj
-pron
+np
+np
 verb
 pp
 np
-verb
-np
-conj
-242134	conj
+pp
 adv
 verb
-242138	np
-np
-adv
-verb
-verb
-verb
-conj
-np
-242147	conj
-adjp
-242150	np
-conj
-np
-pp
-verb
-verb
-242157	conj
-conj
-np
-np
-pp
-pp
-np
-242165	conj
-pp
-pp
-np
-np
-det
-conj
-verb
-pp
-np
-verb
-np
-conj
-conj
-verb
-np
-np
-np
-conj
-verb
-np
-np
-np
-verb
-conj
-pp
-verb
-pp
-242194	np
-conj
-np
-conj
-np
-verb
-conj
-pron
-np
-verb
-pp
-verb
-conj
-242208	np
-np
-pp
-np
-np
-np
-verb
-verb
-conj
-verb
-verb
-pron
-verb
-conj
-verb
-np
-np
-verb
-conj
-242228	np
-conj
-np
-verb
-pp
-np
-np
-np
-conj
-verb
-verb
-noun
-verb
-pp
-242244	noun
-noun
-pron
-verb
-conj
-pp
-np
-pp
-verb
-np
-242255	pp
-np
-np
-verb
-np
-np
-np
-np
-conj
-verb
-conj
-242267	np
-verb
-pron
-verb
-np
-np
-np
-conj
-np
-conj
-adj
-verb
-pp
-conj
-conj
-np
-verb
-np
-np
-adv
-conj
-pron
-verb
-np
-verb
-noun
-pp
-np
-np
-np
-pron
-242299	conj
-np
-np
-conj
-verb
-verb
-conj
-pp
-np
-np
-242310	np
-verb
-verb
-pp
-np
-pron
-verb
-conj
-np
-np
-conj
-verb
-242323	conj
-verb
-242326	pron
-verb
-np
-242330	conj
-pp
-np
-pp
-pp
-conj
-verb
-pron
-verb
-noun
-verb
-242343	noun
-noun
-verb
-pron
 noun
 verb
 conj
+verb
+verb
+np
+np
+verb
+conj
+241914	np
+np
+noun
+noun
+np
+np
+verb
+np
+verb
+np
+np
+verb
+np
+verb
+verb
+pp
+conj
+conj
+241933	verb
+conj
+np
+np
+verb
+verb
+conj
+verb
+pron
 adj
 np
 verb
 verb
 pp
+np
+np
+verb
+conj
+verb
+pron
+verb
+conj
+verb
+pron
+pp
+np
+np
+np
+verb
+241963	verb
+pron
+pron
+np
+verb
+np
+np
+verb
+pron
+verb
+241974	np
+conj
+verb
+verb
+np
+np
+np
+241982	np
+np
+verb
+pron
+verb
+pron
+np
+pron
+conj
+verb
+pp
+np
+241995	verb
+conj
 noun
-np
-np
-conj
-pron
-verb
-np
-np
-np
 conj
 verb
-242368	pp
-verb
-conj
-242373	verb
-242375	np
 np
 verb
-conj
-np
-verb
-verb
-conj
 verb
 pron
+pp
+np
+242007	verb
+pp
+conj
+verb
+np
+np
+verb
+conj
+np
+np
 conj
 verb
 np
 np
 np
 np
-np
-np
-np
-242395	pp
 verb
+242025	np
+conj
 np
+verb
+pp
 np
 pp
+np
+conj
 verb
+pron
 np
 verb
+242039	np
+np
+verb
+np
 np
 adj
-pp
-conj
-pron
-verb
-242410	verb
-np
-np
-pp
-np
-verb
-pp
-np
-conj
-verb
-pron
-verb
-242423	np
-np
-np
-conj
-np
-conj
-conj
-np
-noun
-conj
-pp
-np
-pp
-verb
-pron
-verb
-pp
-np
-pp
-np
-verb
-adv
-verb
-242447	np
-conj
-np
-pp
-np
-np
-verb
-noun
-pp
-verb
-pp
-pp
-np
-242461	conj
-242465	verb
-noun
-conj
-np
-verb
-pp
-np
-verb
-pp
-np
-242478	np
-conj
-np
-242482	np
-np
-pp
-np
-conj
-conj
-np
-pp
-verb
-242492	conj
 verb
 conj
-np
-pp
-verb
-pron
-noun
-verb
-np
-np
-pron
-adv
-verb
-verb
-pron
-verb
-adv
-verb
-noun
-verb
-pp
-pp
-242517	np
-np
-242520	conj
-np
-verb
-np
-np
-pp
-np
-np
-242529	np
-np
-242533	verb
-conj
-242536	conj
-np
-conj
-np
-pp
-verb
-np
-verb
-conj
-242546	np
-np
-np
-conj
-np
-adjp
-verb
-pron
-pp
-242556	np
-np
-verb
-242560	conj
-conj
-conj
-pp
 verb
 pron
 adv
 verb
+pron
+242053	conj
+adj
+verb
+conj
+verb
+np
+pp
+conj
+242062	np
+verb
+np
+np
+verb
+verb
+np
+conj
+verb
+pron
+verb
+pp
+verb
+np
+adv
+verb
+pron
+pron
+np
+verb
+verb
+pron
+pp
+np
+np
+conj
+np
+np
+verb
+pp
+np
+pp
+conj
+np
+242097	conj
+verb
+verb
+np
+verb
+conj
+pron
+np
+adv
+conj
+np
+verb
+conj
+verb
+np
+np
+np
+242115	verb
+conj
+adv
+np
+np
+conj
+np
+np
+verb
+242125	adj
+conj
+verb
+np
+conj
+verb
+verb
+np
+np
+np
+verb
+np
+verb
+pron
+verb
+verb
+verb
+np
+verb
+conj
+noun
+np
+verb
+np
+verb
+pron
+adj
+conj
+verb
+adv
+242156	verb
+conj
+noun
+verb
+conj
+adj
+verb
+verb
+242165	np
+conj
+conj
+verb
+pron
+adv
+verb
+noun
+pron
+pron
+verb
+verb
+conj
 verb
 det
 conj
 verb
-verb
+242183	verb
 pp
+242186	np
 conj
 verb
+242190	conj
 np
-verb
-np
-verb
-conj
-verb
-pp
-np
-242585	conj
-conj
-np
-noun
-verb
-pp
-np
-verb
 np
 conj
-verb
-verb
-conj
-noun
-verb
-pp
-pp
-np
-pp
 verb
 pron
-242607	conj
+np
+np
+np
+pp
+np
+np
+pp
+np
+np
 conj
 verb
+pron
 pp
-242612	conj
+np
+np
+np
+np
+verb
 pp
 np
-np
-np
-np
-np
-pp
 conj
-np
 verb
-pp
-noun
-verb
-verb
-np
-pp
-242630	np
-pp
-verb
-np
+242219	conj
 np
 np
 adv
 verb
+conj
+pron
+pp
+np
+verb
+noun
+conj
+verb
+adv
+verb
+np
 noun
 conj
 verb
 verb
 np
+np
+verb
+verb
+np
+np
+verb
+conj
+np
+np
+np
+pp
+np
+verb
+np
+conj
+verb
+adv
+conj
+verb
+verb
+pp
+np
+conj
+verb
+pp
+verb
+pron
+adj
+adj
+np
+verb
+verb
+pp
+conj
+adv
+adv
+pron
+verb
+242279	ptcl
+conj
+conj
+verb
+pron
+pron
+verb
+verb
+conj
+np
+np
+np
+np
+242293	verb
+conj
+verb
+conj
+adj
+verb
+conj
+verb
+verb
+pron
+conj
+verb
+verb
+verb
+pp
+np
+verb
+conj
+pp
+np
+verb
+pp
+np
+conj
+242318	verb
+verb
+np
+conj
+verb
+verb
+conj
+242326	np
+conj
+np
+verb
+pp
+adv
+verb
+np
+np
+pp
+conj
+verb
+np
+verb
+pp
+conj
+pp
+np
+verb
+pron
+pp
+np
+242349	conj
+242351	conj
+np
+verb
+verb
+conj
+verb
+pp
+conj
+conj
+pron
+verb
+242363	np
+np
+pron
+pron
+verb
+pron
+conj
+np
+pp
+verb
+conj
+verb
+242376	np
+conj
+np
+242380	np
+np
+conj
+np
+verb
+np
+np
+np
+conj
+np
+adjp
+242392	verb
+conj
+np
+conj
+242397	verb
+np
+np
+np
+np
+conj
+verb
+verb
+np
+conj
+verb
+np
+np
+verb
+pron
+verb
+pp
+np
+adv
+verb
+conj
+pron
+verb
+242421	conj
+np
+pp
+np
+verb
+conj
+np
+verb
+pron
+adv
+adv
+verb
+pron
+verb
+noun
+conj
+np
+pp
+np
+np
+verb
+np
+verb
+verb
+noun
+verb
+conj
+242449	np
+conj
+np
+verb
+pron
+conj
+verb
+np
+pp
+242459	np
+conj
+np
+verb
+pron
+np
+conj
+adv
+pp
+verb
+242470	np
+conj
+conj
+np
+pp
+pron
+verb
+pp
+np
+np
+np
+verb
+pron
+conj
+verb
+adj
+np
+pp
+pron
+verb
+np
+pp
+np
+np
+pp
+verb
+np
+verb
+pron
+adv
+np
+conj
+conj
+pp
+verb
+conj
+np
+242508	np
+np
+np
+np
+conj
+adjp
+conj
+conj
+verb
+np
+np
+pp
+np
+conj
+pp
+pp
+np
+verb
+pp
+np
+np
+np
+np
+verb
+adv
+242534	conj
+np
+adv
+conj
+adv
+np
+verb
+np
+verb
+pp
+pp
+np
+verb
+conj
+242549	np
+conj
+conj
+np
+adv
+conj
+verb
+np
+verb
+pp
+conj
+verb
+np
+pp
+242564	np
+conj
+np
+adjp
+verb
+pp
+verb
+pp
+conj
+np
+verb
+pron
+np
+verb
+np
+np
+pp
+verb
+adj
+verb
+np
+242586	verb
+conj
+conj
+pp
+np
+242592	np
+conj
+verb
+conj
+pp
+np
+pp
+np
+pp
+verb
+242603	np
+conj
+242606	conj
+np
+conj
+np
+verb
+pron
+conj
+pron
+verb
+pron
+verb
+np
+np
+verb
+det
+conj
+np
+np
+verb
+verb
+conj
+242628	np
+conj
+np
+verb
+verb
+conj
+pron
+pp
+np
+242638	verb
+verb
+verb
+verb
+pron
 242644	np
+np
+np
+np
+pp
 verb
+np
+verb
+conj
+verb
+pp
+np
+np
+verb
+conj
+verb
+pron
+verb
+pron
+verb
+242665	np
+conj
+conj
+np
+np
+verb
+pp
+np
+verb
+conj
+242676	verb
+pron
+conj
+verb
+np
+verb
+conj
 noun
-noun
+pp
+np
+np
+np
+verb
+np
+pp
+adjp
+pron
+verb
+242695	verb
+conj
+conj
+verb
+np
+np
+verb
+np
+pp
+verb
+np
+pron
 conj
 verb
 verb
-pp
-pp
+pron
+pron
+verb
+pron
+242715	np
+verb
+242718	np
 conj
+np
+np
+pp
+pron
+np
+242726	conj
+verb
 adv
-verb
-pron
-pp
-np
-adv
-verb
-pron
-verb
-conj
-noun
-conj
-242667	verb
-pron
-pp
-np
-conj
-verb
-np
-verb
-pp
-noun
-conj
-verb
-noun
-verb
-verb
-np
-np
-np
 pp
 np
 verb
 conj
-242690	np
-conj
-verb
-np
-verb
-conj
-242697	conj
-pp
-conj
-pp
-conj
-verb
-242705	np
-np
-verb
-adv
-noun
-noun
-np
-242713	np
-np
-242716	conj
-pron
-verb
 pp
 np
-np
-pp
-242724	conj
-pron
-verb
-np
-pp
-verb
-conj
 verb
 verb
 pron
-pp
-242736	np
+pron
 verb
-pp
-np
-np
-verb
-conj
 adj
+242742	conj
 conj
-noun
+np
+verb
+conj
+pp
 np
 np
 verb
-242750	conj
+pp
+np
+np
+np
+verb
+242757	np
+verb
 conj
+np
+np
+np
+np
 verb
 np
 verb
 pron
-verb
-242758	np
-verb
-pp
-242762	np
-242764	conj
-np
-pp
-np
-conj
 conj
 verb
-np
-conj
-verb
-np
-pp
-verb
-conj
-np
-242780	conj
-np
-verb
-pp
-np
-np
-verb
-np
-pp
-np
-verb
-conj
-pp
-np
-verb
-pp
-np
-verb
-conj
 adv
-verb
-pron
+advp
+pp
 np
-np
-verb
-conj
 np
 verb
 pp
 conj
-noun
-pp
+242779	conj
+conj
 np
-verb
-242815	np
-vp
-conj
-verb
-pron
-conj
-verb
-verb
+np
+np
+np
 pp
 verb
-pron
-242827	conj
+np
 conj
 np
 verb
+np
+conj
+verb
+np
 adv
 verb
 verb
-pp
-verb
-conj
-verb
-pron
-np
-verb
-pron
-verb
-conj
-pp
-verb
-pp
-242848	conj
-verb
-pp
-np
-conj
-pp
-242855	pron
-verb
-242858	np
-np
-np
-np
-vp
-conj
-pp
-np
-np
-np
-np
+242799	conj
 conj
 np
 np
-verb
-pp
-np
-pp
-242877	adv
-verb
-noun
-verb
-conj
-verb
-verb
-np
+242804	conj
 np
 verb
-conj
-242890	np
-np
-noun
-noun
-np
-np
-verb
-np
-verb
-np
-np
-verb
-np
-verb
-verb
-pp
-242907	conj
-conj
-242910	verb
-conj
-np
-np
-verb
-verb
-242917	conj
-verb
-pron
 adj
 np
-verb
-verb
-pp
-np
-np
-verb
 conj
-verb
-pron
-verb
-conj
-verb
-pron
-pp
-np
 np
 np
 verb
-242941	verb
-pron
-pron
 np
-verb
-np
-np
-verb
-pron
-verb
-242952	np
-conj
-verb
-verb
-np
-np
-np
-242960	np
-np
-verb
-pron
-verb
-pron
-np
-pron
-conj
-verb
-pp
-np
-242973	verb
-conj
-noun
-conj
-verb
-np
-verb
-verb
-pron
-pp
-np
-242985	verb
-pp
-conj
+advp
 verb
 np
 np
 verb
 conj
-np
-np
-conj
-verb
-np
-np
-np
-np
-verb
-243003	np
-conj
-np
 verb
 pp
-np
-pp
-np
-conj
 verb
-pron
-np
-verb
-243017	np
-np
-verb
-np
-np
-adj
-verb
-conj
-verb
-243027	pron
-adv
-verb
-pron
-243032	conj
-adj
-verb
-conj
 verb
 np
 pp
-conj
-243041	np
-verb
-np
-np
-verb
-verb
-np
-conj
-verb
-pron
-verb
 pp
-verb
-np
-adv
-verb
-pron
-pron
-np
-verb
-verb
-pron
-pp
-np
-np
-conj
-np
-np
-verb
-pp
-np
-pp
-conj
-np
-243076	conj
-verb
-verb
-np
-verb
-conj
-pron
-np
-adv
-conj
-np
-verb
-conj
-verb
-np
-np
-np
-243094	verb
-conj
-adv
-np
-np
-conj
-np
-np
-verb
-243104	adj
-conj
-verb
-np
-conj
-verb
-verb
-np
-np
-np
-verb
-np
-verb
 pron
 verb
-verb
-verb
-np
-verb
-conj
-noun
-np
-verb
-243128	np
-verb
-pron
-adj
-conj
-verb
-adv
-243136	verb
-conj
 noun
 verb
-conj
 adj
 verb
+pron
+pp
 verb
-243145	np
 conj
-conj
-verb
-pron
-adv
-verb
-noun
-pron
-pron
-verb
-verb
+np
+det
 conj
 verb
 det
 conj
 verb
-243163	verb
-pp
-243166	np
-conj
-verb
-243170	conj
-np
-np
-conj
-verb
-pron
-np
-np
-np
-pp
-np
-np
-pp
-np
-np
-conj
 verb
 pron
 pp
-np
-np
-np
-np
-verb
-pp
-np
-conj
-verb
-243199	conj
-np
-np
+advp
 adv
-verb
-conj
-pron
-pp
 np
 verb
+pp
+np
+np
+conj
+verb
+pron
+verb
+pp
+242860	conj
+242862	np
+conj
+np
 noun
-conj
-verb
-adv
-verb
-np
-243216	noun
-conj
-verb
-verb
-np
-np
-verb
-verb
-np
-np
-verb
-conj
-np
-np
-np
-pp
-np
-243234	verb
-np
-conj
-verb
-adv
-conj
-verb
-verb
-pp
-np
-conj
-verb
-pp
-243248	verb
-pron
-adj
-adj
-np
-verb
-verb
-pp
-conj
-adv
-adv
-pron
-verb
-243262	ptcl
-conj
-conj
-verb
-pron
-pron
-verb
-verb
-conj
-np
-np
-np
-np
-243276	verb
-conj
-verb
-conj
-adj
-verb
-conj
-verb
-verb
-pron
-conj
-verb
-verb
-verb
-pp
-np
-verb
-conj
-pp
-np
-verb
-pp
-np
-conj
-243301	verb
-verb
-np
-conj
-verb
-verb
-conj
-243309	np
-conj
-np
-verb
-pp
-243315	adv
-verb
-np
-np
-pp
-conj
-verb
-np
-verb
-pp
-conj
-pp
-np
-verb
-pron
-pp
-np
-243333	conj
-243335	conj
-np
-verb
-verb
-conj
-verb
-pp
-conj
-conj
-pron
-verb
-243348	np
-np
-pron
-pron
-verb
-pron
-conj
-243356	np
-pp
-verb
-conj
-verb
-243362	np
-conj
-np
-243366	np
-np
-conj
-np
-verb
-np
-np
-np
-conj
-np
-adjp
-243378	verb
-conj
-np
-conj
-243383	verb
-np
-np
-np
-np
-conj
-verb
-verb
-np
-conj
-verb
-np
-np
-verb
-pron
-verb
-pp
-np
-adv
-verb
-conj
-pron
-verb
-243407	conj
-np
-pp
-np
-verb
-conj
-np
-verb
-pron
-adv
-adv
-verb
-pron
-verb
 noun
 conj
 np
 pp
-np
+pp
+verb
+pp
 np
 verb
-np
+pp
+conj
 verb
+np
+np
+np
+np
+noun
+noun
+adj
+np
+adv
+verb
+pp
+np
+np
+conj
+242893	np
+pp
 verb
 noun
 verb
-conj
-243435	np
-conj
+np
+np
+pp
 np
 verb
 pron
 conj
+pp
+adj
+verb
+verb
+pp
+conj
+verb
+verb
+conj
+noun
+np
+verb
+conj
+pp
+np
+pp
+np
+verb
+242924	conj
+conj
+conj
+conj
+verb
+pp
+np
+242932	np
+conj
+conj
+np
+verb
+np
+np
+verb
+np
+verb
+np
+noun
+verb
+conj
+pron
+conj
+verb
+verb
+np
+verb
+pp
+np
+np
+pp
+np
+np
+adj
+pron
+pp
+np
+pp
+np
+verb
+conj
+verb
+adv
+verb
+pp
+np
+np
+np
+noun
+242975	verb
+np
+np
+np
+vp
+np
+242982	conj
+np
 verb
 np
 pp
-243445	np
+np
+np
+np
+conj
+242992	np
+np
+verb
+verb
+conj
+verb
+verb
+conj
+np
+pp
+pp
+np
+243006	verb
+conj
+verb
+conj
+adv
+verb
+conj
+243014	pron
+verb
+pp
+conj
+adj
+verb
+pron
+verb
+pron
 conj
 np
 verb
 pron
+pp
+np
+np
+verb
+conj
+243033	conj
+np
+verb
+pp
+np
+np
+np
+noun
+conj
+np
+verb
+np
+verb
+adv
+np
+np
+conj
+verb
+pron
+pp
+np
+verb
+conj
+pp
+np
+verb
+pron
+np
+verb
+np
+verb
+conj
+np
+verb
+np
+verb
+np
+pp
+np
+243073	conj
+conj
+verb
+243077	np
+conj
+np
+np
+pp
+verb
+pron
+conj
+conj
+np
+verb
+pp
+conj
+conj
+243092	np
+pp
+verb
+pron
+np
+pron
+adv
+verb
+verb
+conj
+verb
+pron
+pp
+np
+verb
+conj
+adj
+243110	np
+verb
+pp
+np
+conj
+np
+np
+verb
 np
 conj
 adv
-pp
 verb
-243456	np
+np
+np
+verb
+verb
+pp
+np
 conj
+pp
+243131	conj
+verb
+pp
+np
+verb
 conj
+noun
+verb
+conj
+pp
+pron
+verb
+adv
+pron
+conj
+verb
+pp
+np
+verb
+np
+verb
+conj
+pron
+pp
+np
+verb
+verb
+conj
+243160	verb
+conj
+verb
+adv
+verb
+pp
+np
+verb
+verb
+pp
+np
+conj
+verb
+pp
+243175	verb
+conj
+verb
+np
+verb
+pp
+conj
+verb
+np
+verb
+verb
+adv
+np
+243189	np
+conj
+verb
+np
+np
+243196	np
+np
+np
+conj
+noun
+noun
+noun
+np
+np
+verb
+pp
+adj
+verb
+pp
+np
+pron
+vp
+np
+np
+np
+conj
+verb
+np
+243220	conj
+adv
 np
 pp
+np
+verb
+adj
+np
+np
+pron
+conj
+verb
+verb
+pp
+np
+243236	verb
+conj
+pron
+243240	conj
+verb
+pron
+conj
+adj
+pron
+verb
+np
+np
+np
+verb
+conj
 pron
 verb
 pp
 np
+verb
+np
+verb
+np
+verb
+pron
+verb
+verb
+adj
+verb
+pp
+np
+adv
+conj
+np
+verb
+adj
+verb
+pp
+np
+verb
+np
+noun
+verb
+conj
+pp
+np
+verb
+pp
+noun
+verb
 np
 np
 verb
+pp
+conj
+verb
+np
+verb
+conj
+pp
+np
+verb
+verb
+det
+conj
+pp
+conj
+adv
+np
+verb
+verb
+verb
+conj
+pp
+conj
+verb
+det
+conj
+verb
+pp
+np
+np
+verb
+conj
+noun
+noun
+verb
+np
+np
+verb
+pp
+verb
+pp
+conj
+verb
+pron
+verb
+pp
+np
+verb
+conj
+verb
+pp
+np
+np
+243343	np
+conj
+verb
+pron
+np
+noun
+verb
+np
+np
+np
+pp
+243355	verb
+conj
+noun
+conj
+verb
+verb
+conj
+np
+np
+np
+verb
+conj
+pp
+np
+verb
+pp
+np
+243373	conj
+pp
+np
+np
+np
+conj
+conj
+pron
+243382	conj
+verb
+np
+pp
+np
+verb
+pp
+verb
+np
+pp
+verb
+pp
+np
+np
+pron
+conj
+verb
+pp
+np
+conj
+np
+verb
+np
+verb
+np
+np
+np
+243410	conj
+conj
+243413	conj
+np
+verb
+np
+verb
+pp
+np
+np
+conj
+243423	pp
+pp
+verb
+verb
+pp
+np
+np
+243431	conj
+conj
+243434	verb
+pp
+np
+np
+conj
+np
+np
+verb
+verb
+conj
+np
+np
+np
+np
+verb
+np
+verb
+pp
+verb
+np
+np
+np
+np
+np
+243459	np
+verb
+verb
+pron
+np
+pron
+noun
+verb
+vp
+conj
+np
+243471	np
+np
+np
+pron
+verb
+conj
+np
+np
+np
+verb
+pron
+243484	np
+verb
+conj
+np
+verb
+pron
+conj
+pron
+verb
+conj
+verb
+np
+pp
+pp
+verb
+np
+np
+np
+verb
+adj
+verb
+pp
+conj
+243508	conj
+verb
+verb
+pp
+np
+np
 pron
 conj
 verb
 adj
 np
+243520	conj
+conj
+verb
+np
+conj
+243526	verb
+noun
 pp
+np
+conj
+verb
+np
+np
+243535	np
+np
+conj
+verb
+verb
+243541	conj
+np
+np
+np
+conj
+np
+verb
+verb
+np
+verb
+pp
+conj
+verb
+np
+np
+conj
+verb
+np
+np
+adv
+pp
+np
+np
+np
+243566	conj
+conj
+conj
+verb
 pron
 verb
 np
 pp
 np
-np
-pp
 verb
 np
+243578	conj
+verb
+pp
+verb
+conj
+pp
 verb
 pron
 adv
+verb
+pron
 np
-conj
-conj
-pp
+verb
 verb
 conj
+pp
 np
-243494	np
+243596	np
+verb
+pron
+243600	conj
+pron
+verb
+noun
+pp
 np
-np
-np
+verb
 conj
+pp
+np
+np
+np
+np
 adjp
-243501	conj
-conj
-verb
-np
-np
 pp
 np
+243617	np
+noun
 conj
-pp
-pp
-np
+noun
 verb
-pp
-np
-np
 np
 np
 verb
-adv
-243521	conj
 np
-adv
-conj
-adv
-np
-verb
-np
-verb
-pp
-pp
-np
-verb
-conj
-243536	np
-conj
-conj
-np
-adv
-conj
-verb
-np
-verb
-pp
-conj
-verb
-np
-pp
-243551	np
-conj
 np
 adjp
-verb
-pp
-verb
-243559	pp
-conj
-np
-verb
-pron
-np
-243566	verb
-np
-np
-pp
-verb
-adj
-verb
-np
-243575	verb
-conj
-conj
-pp
-np
-243581	np
-conj
-verb
-conj
-pp
-np
-pp
-np
-pp
-verb
-243592	np
-conj
-243595	conj
-np
-conj
-np
-verb
-pron
-conj
-243603	pron
-verb
-pron
-verb
-np
-np
-verb
-243611	det
-conj
-np
-np
-verb
-verb
-conj
-243619	np
-conj
-np
-verb
-verb
-conj
-pron
-pp
-np
 243629	verb
+conj
+np
+np
+pp
+np
 verb
-243632	verb
+noun
+verb
+conj
+pp
+np
+np
+np
+np
+verb
+conj
+243647	conj
+conj
+243650	np
+conj
+np
+np
+np
+np
+np
+verb
+verb
+np
+verb
+conj
+adv
+verb
+noun
+pp
+verb
+243668	adj
+conj
+pron
 verb
 pron
-243636	np
 np
+pp
+verb
+conj
+243678	np
+np
+np
+243682	np
+np
+pp
+verb
+verb
+conj
+adv
+verb
+np
+np
+pron
+243694	np
+np
+conj
+np
+verb
+243700	verb
+conj
+conj
+verb
+adj
+noun
+verb
+verb
+adj
+np
+np
+conj
+verb
+np
+np
+verb
+conj
+adv
+pp
+np
+verb
+243724	conj
+np
+noun
+conj
+verb
+verb
+pp
+np
+adv
+verb
+pron
+np
+243737	np
+conj
+np
+np
+verb
+pron
+adj
+verb
+pp
+verb
+adv
+verb
+pron
+pp
+np
+adj
+conj
+conj
+np
+verb
+243758	vp
+conj
+np
+conj
+np
+adv
+verb
+pp
+verb
+pp
+conj
+np
+verb
+noun
+verb
+pron
+np
+np
+conj
+verb
+np
+verb
+verb
+np
+verb
+conj
+conj
+adj
+verb
+np
+verb
+pp
+pp
+pp
+np
+verb
+adj
+np
+np
+verb
+conj
+np
+np
+verb
+np
+np
+conj
+verb
+pron
+adv
+verb
+np
+np
+np
+verb
+243814	np
+np
+conj
+np
+adj
+conj
+verb
+pron
+vp
+pron
+verb
+verb
+conj
+np
+verb
+verb
+conj
+243832	np
+np
+243835	conj
+conj
+verb
+np
+np
+conj
+conj
+conj
+243844	conj
 np
 np
 pp
 verb
-np
+pp
+noun
+adj
 verb
 conj
+noun
+verb
+verb
+pron
+conj
+conj
+pron
+adv
 verb
 pp
 np
 np
 verb
+adv
 conj
 verb
-pron
 verb
-pron
-verb
-243657	np
-conj
-conj
-np
-np
-verb
-pp
-np
-verb
-conj
-243668	verb
-pron
-conj
-verb
-np
-verb
-conj
 noun
 pp
 np
 np
+verb
+pp
+adv
+verb
+verb
+noun
+pp
+np
+np
+conj
+pron
+verb
+verb
+np
+pp
+conj
+verb
+np
+243894	verb
+np
+np
+conj
+verb
+verb
+verb
+verb
+pp
+243904	verb
+conj
+np
+np
+conj
+verb
+pron
+np
+verb
+pp
+np
+verb
+conj
+np
+verb
+noun
+pron
+pp
+np
+verb
+verb
+pp
+np
+verb
+243929	verb
+pp
+verb
+conj
+pron
+243936	np
+np
+np
+conj
+243941	conj
+conj
+243945	np
+conj
+243948	conj
+243950	conj
+pron
+conj
+verb
+verb
+pron
+pp
+pron
+conj
+verb
+pp
+np
+np
+np
+pp
+conj
+verb
+pp
+pp
+np
+pp
+np
+adv
+verb
+np
+pp
+conj
+np
+np
+np
+verb
+pron
+verb
+noun
+np
+verb
+pron
+verb
+verb
+advp
+verb
+conj
+np
+pp
+verb
+conj
+np
+pp
+np
+adv
+vp
+verb
+conj
+np
+np
+noun
+noun
+pp
+np
+verb
 np
 verb
 np
 pp
+verb
+pp
+np
+verb
+pp
+np
+adv
+conj
+verb
+adj
+verb
+conj
+np
+verb
+pron
+conj
+verb
+verb
+adv
+verb
+np
+conj
+np
+pp
+verb
+244040	verb
+conj
+conj
+verb
+np
+conj
+verb
+pp
+conj
+verb
+pp
+adv
+verb
+verb
+conj
+np
+verb
+conj
+verb
+advp
+pron
+conj
+verb
+pp
+np
+verb
+pp
+np
+adv
+verb
+verb
+np
+adv
+conj
+vp
+verb
+pron
+verb
+conj
+conj
+verb
+pron
+pp
+np
+verb
+pron
+verb
+pp
+conj
+verb
+verb
+verb
+pp
+np
+conj
+verb
+pp
+conj
+verb
+verb
+pp
+verb
+conj
+np
+verb
+np
+conj
+adv
+verb
+pron
+verb
+pp
+np
+verb
+conj
+conj
+adj
+verb
+pron
+np
+np
+np
+verb
+pp
+pp
+conj
+np
+verb
+pp
+verb
+np
+np
+np
+conj
+conj
+verb
+pp
+verb
+pron
+pron
+verb
+pp
+np
+pp
+verb
+pp
+np
+adv
+pp
+np
+np
+verb
+verb
+np
+pp
+np
+conj
+conj
+244159	verb
+pron
+pp
+np
+np
+np
+conj
+np
+verb
+verb
+verb
+pron
+conj
+verb
+pron
+244175	conj
+pp
+verb
+244179	conj
+conj
+np
+244183	np
+pp
+conj
+np
+pp
+244189	np
+np
+conj
+adv
+verb
+verb
+pron
+np
+verb
+pp
+pp
+verb
+pron
+adv
+verb
+conj
+conj
+np
+np
+np
+pp
+verb
+pron
+verb
+conj
+244215	conj
+pron
+verb
+conj
+np
+verb
+np
 adjp
-pron
-verb
-243687	verb
-conj
 conj
 verb
+244226	np
 np
-np
-verb
-np
-243696	pp
-verb
-np
-pron
-conj
-verb
-verb
-pron
-pron
-verb
-pron
-243708	np
-verb
-243711	np
 conj
 np
-np
+pron
+verb
 pp
-pron
-np
-243719	conj
+244234	np
 verb
+np
+np
+np
+np
+np
+conj
 adv
-pp
-np
+verb
+pron
 verb
 conj
+adv
+verb
+np
+np
+np
+pp
+verb
+verb
+np
+conj
+verb
+pron
 pp
 np
-verb
-verb
-pron
-pron
-verb
+np
+conj
 adj
-243735	conj
-conj
-np
-verb
-conj
-pp
-np
-np
 verb
 pp
 np
 np
-np
-verb
-243750	np
-verb
+adv
 conj
-np
-np
-np
-np
+verb
+adv
 verb
 np
-verb
+np
+np
+np
 pron
-conj
 verb
-adv
-advp
-pp
-np
-np
-verb
-243770	pp
-conj
-243773	conj
-conj
-np
-np
+244280	conj
 np
 np
 pp
-verb
-np
-conj
-np
-verb
-np
-conj
-verb
-np
-adv
-verb
-verb
-243793	conj
-conj
+pron
 np
 np
-243798	conj
 np
-verb
-adj
-np
-conj
-np
-np
-verb
-np
-advp
-verb
-np
-np
-verb
-conj
-verb
-243816	pp
-verb
-verb
-np
-pp
-pp
-243823	pron
 verb
 noun
 verb
+np
+np
+np
+pron
+verb
+pp
+np
+np
+np
+pron
+verb
+conj
+verb
+pp
+np
+np
+np
+pp
+adv
+verb
+np
+conj
+pp
+np
+verb
+noun
+verb
+verb
+verb
+np
+pp
+conj
+verb
+verb
+conj
+noun
+244328	conj
+adv
+verb
+pp
+verb
+np
+conj
+advp
+verb
+pron
+244339	np
+conj
+244342	np
+np
+np
+np
+verb
+244348	verb
+conj
+verb
+np
+pp
+np
+verb
+np
+conj
+conj
+verb
+pron
+verb
+conj
+244363	np
+np
+conj
+verb
+pp
+verb
+np
+np
 adj
 verb
 pron
+adv
+verb
+verb
+verb
+verb
+verb
+conj
+np
+np
+244384	np
+pron
+verb
+244388	adj
+verb
+adv
+verb
+conj
+verb
+conj
+pron
+verb
+verb
+np
+np
+pp
+np
+verb
+adj
+conj
+np
+verb
+conj
+verb
+pp
+np
+np
+np
+verb
+pron
+verb
+adv
+pp
+np
+pron
+verb
+adv
+verb
+np
+np
+verb
+verb
+conj
+pron
+pp
+np
+conj
+conj
+verb
+verb
+pron
+verb
+pp
+verb
+verb
+pp
+np
+advp
+conj
+pp
+np
+conj
+pp
+conj
+verb
+np
+verb
+pp
+verb
+verb
+244456	verb
+conj
+np
+conj
+verb
+pron
+adj
+verb
+pp
+conj
+verb
+pp
+adv
+conj
+np
+vp
+np
+verb
+conj
+np
+verb
+adv
+np
+pron
+np
+verb
+pp
+np
+adv
+verb
+pp
+conj
+conj
+verb
+verb
+pron
+np
+244494	verb
+verb
+verb
+pron
+adj
+pp
+244501	conj
+pp
+pp
+np
+conj
+verb
+np
+pp
+np
+verb
+verb
+pron
+conj
+244515	verb
+pp
+np
+pron
+conj
+verb
+pp
+np
+pron
+conj
+np
+verb
+pp
+verb
+pp
+conj
+verb
+np
+verb
+np
+pp
+advp
+conj
+verb
+verb
+pp
+conj
+verb
+pp
+np
+np
+np
+244548	np
+verb
+pp
+np
+verb
+pp
+pron
+conj
+verb
+244559	np
+verb
+verb
+conj
+np
+verb
+244566	np
+pp
+np
+np
+noun
+noun
+conj
+244574	verb
+pp
+conj
+verb
+np
+np
+np
+verb
+np
+244584	np
+conj
+np
+verb
+pron
+verb
+np
+np
+np
+np
+pron
+verb
+np
+np
+adv
+verb
+pp
+np
+conj
+verb
+pp
+np
+conj
+conj
+verb
+pron
+verb
+244612	conj
+conj
+np
+adv
+verb
+pron
+pp
+adv
+verb
+np
+pron
+verb
+244625	verb
+conj
+verb
+np
+np
+pron
+conj
+244633	adj
+verb
+conj
+adv
+verb
+pp
+adv
+verb
+pp
+np
+np
+244645	np
+adv
+verb
+conj
+pron
+verb
+verb
+np
+np
+np
+verb
+pp
+conj
+np
+np
+verb
+verb
 pp
 verb
 conj
+np
+np
+np
+pp
+pp
+verb
+pp
+verb
+244675	np
+np
+verb
+conj
+pron
+pp
+adv
+verb
+pron
+np
+conj
+verb
+verb
+np
+pp
+pp
+np
+conj
+verb
+np
+conj
+verb
+pron
+verb
+pp
+np
+pron
+verb
+np
+pp
+np
+pp
+np
 np
 det
 conj
 verb
-det
-conj
-verb
-verb
-pron
-pp
-advp
-adv
-np
-verb
-pp
-np
-np
-conj
-verb
-pron
-verb
-pp
-243856	conj
-243858	np
-conj
-np
-noun
-noun
-conj
-np
-pp
-pp
-verb
-pp
-np
-verb
-pp
-conj
-243874	verb
-np
-np
-np
-np
-noun
-noun
-adj
-np
-adv
-verb
-pp
-np
-np
-conj
-243890	np
-pp
-verb
-noun
-verb
-np
-np
-pp
-np
-verb
-pron
-conj
-pp
-adj
-verb
-verb
-pp
-conj
-verb
-verb
-conj
-noun
-np
-verb
-conj
-pp
-np
-pp
-np
-verb
-243921	conj
-conj
-243924	conj
-conj
-verb
-pp
-np
-243930	np
-conj
-conj
-np
-verb
-np
-np
-verb
-np
-verb
-np
-noun
-243943	verb
-conj
-pron
-conj
-verb
-verb
-np
-verb
-pp
-243953	np
-np
-pp
-np
-np
-adj
-pron
-pp
-np
-pp
-np
-verb
-conj
-verb
-adv
-verb
-pp
-np
-243972	np
-np
-noun
-243976	verb
-np
-np
-np
-vp
-np
-243983	conj
-np
-verb
-np
-pp
-np
-np
-np
-conj
-243993	np
-np
-verb
-verb
-conj
-verb
-verb
-conj
-np
-pp
-pp
-np
-244007	verb
-conj
-verb
-conj
-adv
-verb
-conj
-244015	pron
-verb
-pp
-conj
-adj
-verb
-pron
-verb
-pron
-conj
-np
-verb
-pron
-pp
-np
-np
-verb
-conj
-244034	conj
-np
-verb
-pp
-np
-np
-np
-244042	noun
-conj
-np
-verb
-np
-verb
-adv
-np
-np
-conj
-verb
-pron
-pp
-np
-verb
-conj
-pp
-np
-verb
-pron
-np
-verb
-np
-verb
-conj
-np
-verb
-np
-verb
-np
-pp
-np
-244076	conj
-conj
-verb
-244080	np
-conj
-np
-np
-pp
-verb
-pron
-244089	conj
-conj
-np
-verb
-pp
-conj
-conj
-244097	np
-pp
-verb
-pron
-np
-pron
-adv
-verb
-verb
-conj
-verb
-pron
-pp
-np
-verb
-conj
-adj
-244115	np
-verb
-pp
-np
-conj
-np
-np
-verb
-244124	np
-conj
-adv
-verb
-np
-np
-verb
-verb
-pp
-np
-conj
-pp
-244137	conj
-244139	verb
-pp
-np
-verb
-conj
-noun
-244146	verb
-conj
-pp
-pron
-verb
-adv
-pron
-conj
-verb
-pp
-np
 verb
 np
 verb
 conj
 pron
-pp
-np
-verb
-verb
-conj
-244168	verb
-conj
-verb
-244172	adv
-verb
-pp
-np
-verb
-verb
-pp
-np
-conj
-verb
-pp
-244184	verb
-conj
-verb
-np
-verb
-pp
-conj
-verb
-np
-verb
-verb
-adv
-np
-244198	np
-conj
-verb
-np
-np
-244205	np
-np
-np
-conj
-noun
-noun
-noun
-np
-np
-verb
-pp
-adj
-verb
-pp
-np
-pron
-vp
-np
-np
-np
-conj
-verb
-np
-244229	conj
-adv
-np
-pp
-np
-verb
-adj
-np
-np
-pron
-conj
-verb
-verb
-pp
-np
-244245	verb
-conj
-pron
-244249	conj
-verb
-pron
-conj
-adj
-pron
-verb
-np
-np
-np
-244261	verb
-conj
-pron
-verb
-pp
-np
-verb
-np
-verb
-np
-verb
-244273	pron
-verb
-verb
-adj
-verb
-pp
-np
-adv
-conj
-np
-verb
-adj
-verb
-pp
-np
-verb
-np
-noun
-verb
-conj
-pp
-np
-verb
-pp
-noun
-verb
-np
-np
-verb
-pp
-conj
-verb
-np
-verb
-conj
-pp
-np
-verb
-verb
-244313	det
-conj
-pp
-conj
-adv
-np
-verb
-verb
-verb
-conj
-pp
-conj
-verb
-det
-conj
-verb
-pp
-np
-np
-verb
-conj
-noun
-noun
-verb
-np
-np
-verb
-pp
-verb
-pp
-conj
-verb
-pron
-verb
-pp
-np
-verb
-conj
-verb
-pp
-np
-np
-244356	np
-conj
-244359	verb
-pron
-np
-noun
-verb
-np
-np
-np
-pp
-244369	verb
-conj
-noun
-conj
-verb
-verb
-conj
-np
-np
-np
-verb
-conj
-pp
-np
-verb
-pp
-np
-244387	conj
-pp
-np
-np
-np
-244393	conj
-conj
-pron
-244397	conj
-verb
-np
-pp
-np
-verb
-pp
-verb
-np
-pp
-verb
-pp
-np
-np
-pron
-conj
-verb
-pp
-np
-conj
-np
-verb
-np
-verb
-np
-np
-np
-244425	conj
-conj
-244428	conj
-np
-verb
-np
-verb
-pp
-np
-np
-conj
-244438	pp
-pp
-verb
-verb
-pp
-np
-np
-244446	conj
-conj
-244449	verb
-pp
-np
-np
-conj
-np
-np
-verb
-verb
-conj
-np
-np
-np
-np
-verb
-np
-verb
-pp
-verb
-np
-np
-np
-np
-np
-244474	np
-verb
-verb
-pron
-np
-244480	pron
-noun
-verb
-vp
-conj
-np
-244487	np
-np
-np
-pron
-verb
-conj
-np
-np
-np
-verb
-pron
-244500	np
-verb
-conj
-np
-verb
-pron
-conj
-pron
-verb
-conj
-verb
-244512	np
-pp
-pp
-verb
-np
-np
-np
-verb
-adj
-verb
-pp
-conj
-244525	conj
-verb
-verb
-pp
-np
-np
-pron
-conj
-verb
-adj
-np
-244537	conj
-conj
-verb
-np
-conj
-244543	verb
-noun
-pp
-np
-conj
-verb
-np
-np
-244552	np
-np
-conj
-verb
-verb
-244558	conj
-np
-np
-np
-conj
-np
-verb
-verb
-np
-verb
-pp
-conj
-verb
-np
-np
-conj
-verb
-np
-np
-adv
-pp
-np
-np
-np
-244583	conj
-244585	conj
-conj
-verb
-pron
-verb
-np
-pp
-np
-verb
-np
-244596	conj
-verb
-pp
-verb
-conj
-pp
-verb
-pron
-adv
-verb
-pron
-np
-verb
-verb
-conj
-pp
-np
-244614	np
-verb
-pron
-244618	conj
-pron
-verb
-noun
-pp
-np
-verb
-conj
-pp
-np
-np
-np
-np
-adjp
-pp
-np
-244635	np
-noun
-conj
-noun
-verb
-np
-np
-verb
-np
-np
-adjp
-244647	verb
-conj
-np
-np
-pp
-np
-verb
-noun
-verb
-conj
-pp
-np
-np
-np
-np
-verb
-conj
-244665	conj
-conj
-244668	np
-conj
-np
-np
-np
-np
-np
-verb
-verb
-np
-verb
-conj
-adv
-verb
-noun
-pp
-verb
-244686	adj
-conj
-pron
-verb
-pron
-np
-pp
-verb
-conj
-244696	np
-np
-np
-244700	np
-np
-pp
-verb
-verb
-conj
-adv
-verb
-np
-np
-pron
-244712	np
-np
-conj
-np
-verb
 244718	verb
+noun
+np
+np
+verb
+pp
+np
+verb
 conj
+adj
+np
+np
+verb
+verb
+conj
+pp
+conj
+np
+verb
+pp
+np
+np
+pp
+np
+np
+verb
+244745	adv
+verb
+pron
+np
+conj
+np
+verb
+pron
 conj
 verb
-adj
+adv
+verb
+conj
+verb
+pron
+conj
+verb
+pron
+pron
+verb
+verb
+pron
+np
+np
 noun
 verb
+pp
+244773	pron
+verb
+verb
+pp
+conj
+verb
+pp
+conj
+verb
+np
+conj
 verb
 adj
-np
-np
+conj
+pron
+verb
+pp
+adj
+verb
 conj
 verb
 np
+verb
+np
+pp
+conj
+np
 np
 verb
+pron
+verb
+verb
+verb
+pron
+244808	np
+conj
+conj
+conj
 conj
 adv
+np
+verb
+np
+np
+np
+verb
+pp
+verb
+verb
 pp
 np
 verb
-244742	conj
 np
+np
+np
+np
+np
+pp
+verb
+pp
+np
+np
+np
+conj
+conj
+verb
+np
+np
+verb
+np
+np
+pp
+np
+verb
+pron
+pp
+np
+verb
+np
+np
+conj
+verb
+pp
+np
+verb
 noun
-conj
-verb
-verb
-pp
-np
-adv
-verb
-pron
-np
-244755	np
-conj
-np
-np
-verb
-pron
-adj
-verb
-pp
-verb
-adv
-verb
-pron
-pp
-np
-adj
-conj
-conj
-np
-verb
-244776	vp
-conj
-np
-conj
-np
-adv
-verb
-pp
-verb
-244786	pp
-conj
-np
-verb
 noun
 verb
+244863	pron
+verb
+244866	np
+pp
+244869	np
+conj
+np
+conj
+np
+np
+adj
+adv
+verb
+244879	adv
+conj
+np
+verb
+pp
+np
+conj
+verb
+np
+np
+np
+vp
+conj
+244893	np
+pp
+np
+pp
 pron
-np
-np
-conj
-verb
-np
-verb
-verb
-np
 verb
 conj
-conj
-adj
-verb
-np
-verb
-pp
-pp
 pp
 np
-244813	verb
-adj
-np
-np
 verb
+np
+244905	verb
 conj
 np
 np
-verb
+conj
+244911	verb
 np
 np
 conj
+verb
+np
+verb
+pron
+pp
+np
+conj
+adv
+verb
+np
+verb
+conj
+pron
+verb
+verb
+noun
+np
+np
+np
+np
 verb
 pron
 adv
 verb
-np
-np
-np
+244940	conj
 verb
-244834	np
-np
-conj
-np
-adj
+pp
+det
 conj
 verb
+244947	np
+conj
+np
+verb
+verb
+np
+adv
+verb
+np
+verb
+pron
+conj
+verb
+verb
+np
+conj
+verb
+244965	pron
+verb
+conj
 pron
 vp
-pron
-verb
-verb
-conj
-np
-verb
-verb
-conj
-244852	np
-np
-244855	conj
-conj
-verb
-np
-np
-244861	conj
-conj
-conj
-244865	conj
-np
-np
-pp
-verb
-pp
-noun
-244873	adj
-verb
-conj
-noun
-verb
-verb
-pron
-244881	conj
-conj
-pron
-adv
-verb
-pp
-np
-np
-verb
-adv
-conj
-verb
-verb
-noun
-pp
-np
-np
-verb
-pp
-adv
-verb
-verb
-noun
-pp
-np
-np
-conj
-pron
-verb
-verb
-np
-pp
-conj
-verb
-np
-244917	verb
-np
-np
-conj
-verb
-verb
-verb
-verb
-pp
-244927	verb
-conj
-np
-np
-conj
-verb
-pron
-np
-verb
-pp
-np
-244939	verb
-conj
-np
-244943	verb
-noun
-pron
-pp
-np
-verb
-verb
-pp
-np
-verb
-244954	verb
-pp
-verb
-conj
-pron
-244961	np
-np
-np
-conj
-244966	conj
-conj
-244970	np
-conj
-244973	conj
-244975	conj
-pron
-conj
-verb
-verb
-pron
-pp
-pron
-conj
-verb
-pp
-np
-np
-np
-pp
-conj
-244992	verb
-pp
-pp
-np
-pp
-np
-adv
-verb
-np
-245002	pp
-conj
-np
-np
-np
-verb
-pron
-verb
-noun
-np
-verb
-pron
-verb
-verb
-advp
-verb
-conj
-np
-pp
-verb
-conj
-np
-pp
-np
-245027	adv
-vp
-verb
-conj
-np
-np
-noun
-noun
-pp
-np
-245038	verb
-np
-verb
-np
-pp
-verb
-pp
-np
-verb
-pp
-np
-adv
-conj
-verb
 adj
-verb
 conj
-np
-verb
-pron
-conj
-verb
-verb
-245062	adv
-verb
-np
-conj
-np
-pp
-verb
-245070	verb
-conj
-conj
-verb
-np
-conj
-verb
-pp
-conj
-verb
-pp
-adv
-verb
-verb
-conj
-np
-verb
-conj
-verb
-advp
-245091	pron
-conj
-verb
-pp
 np
 verb
 pp
 np
 adv
 verb
-verb
-np
-adv
 conj
-vp
-verb
 pron
 verb
-conj
-conj
+np
+pp
+np
+verb
 verb
 pron
 pp
 np
-245116	verb
-pron
-verb
-pp
-conj
-verb
-verb
-verb
-pp
-np
-conj
-verb
-pp
-conj
-verb
-verb
-pp
-245134	verb
-conj
-np
-verb
-np
-conj
-adv
-verb
-pron
-verb
-pp
-np
-245147	verb
 conj
 conj
-adj
-verb
-pron
-np
-np
-np
-verb
-pp
-pp
-conj
-np
-verb
-pp
-verb
-np
-np
-np
-245168	conj
-conj
-verb
-pp
-verb
-pron
-pron
-verb
-pp
-245178	np
-pp
 verb
 pp
 np
-adv
-pp
-np
-np
 verb
 verb
-np
-pp
-np
-conj
-conj
-245195	verb
 pron
 pp
 np
+pp
 np
 np
-conj
 np
 verb
+conj
+np
+np
+np
 verb
 verb
 pron
+verb
 conj
+verb
+pp
+np
+np
+verb
+np
 verb
 pron
-245211	conj
-pp
-verb
-245215	conj
-conj
-np
-245219	np
-pp
-conj
-np
-pp
-245225	np
-np
-conj
-245229	adv
-verb
 verb
 pron
-np
-verb
 pp
-pp
+det
+conj
 verb
-pron
 adv
 verb
+adv
 conj
-conj
-np
-np
-np
+pron
+verb
+245034	np
 pp
-verb
-pron
+np
+np
 verb
 conj
-245252	conj
-pron
+verb
+pp
+np
+np
+np
+np
+np
 verb
 conj
 np
+245051	pron
+245054	conj
 verb
+np
+np
+np
 np
 adjp
-conj
-245262	verb
-245264	np
-np
-conj
-np
-245269	pron
 verb
-pp
-245273	np
-verb
-np
-np
-np
-np
-np
 conj
-245282	adv
+pron
 verb
 pron
 verb
+pp
+np
+verb
 conj
+pron
+np
+verb
+pp
+np
+verb
+np
+np
+np
+conj
+verb
+verb
+245084	np
+verb
+noun
+245088	conj
+verb
+np
+np
+np
+pp
+np
+verb
+conj
+conj
+245099	np
+verb
+pron
 adv
 verb
-np
-np
-245292	np
-pp
-verb
-verb
-np
+noun
 conj
-245299	verb
+verb
 pron
+verb
+np
+245111	verb
 pp
 np
 np
+verb
 conj
-adj
+pp
+np
+np
+pp
+np
+np
 verb
 pp
 np
+np
+np
+np
+verb
+np
+conj
+np
+verb
+adv
+pron
+np
+np
+verb
+pp
+245141	conj
+pp
+245144	conj
+conj
+conj
+np
+np
+verb
+pron
+conj
+np
+np
+pp
+np
+verb
+pp
+np
+pp
+verb
+verb
 np
 adv
+verb
+verb
+pp
 conj
 verb
+verb
+conj
+pron
+245173	verb
+conj
+verb
+np
+pp
 adv
+pp
+np
 verb
 np
+pp
+245185	verb
+conj
+pp
 np
-np
-np
-pron
-verb
-245322	conj
-np
-np
-245326	pp
-pron
-np
-np
-np
+conj
 verb
 noun
 verb
-np
-245336	np
-np
+pron
+noun
+noun
+pron
 pron
 verb
-pp
-np
-np
-np
 pron
-verb
 conj
 verb
-pp
-np
-np
-np
-pp
-adv
-verb
-np
-conj
-pp
-np
+pron
 verb
 noun
 verb
+conj
+pp
+pron
 verb
+245211	np
+pron
+pron
+verb
+conj
+pp
 verb
 np
+conj
+verb
+np
+conj
+np
+adv
+verb
+verb
+pron
+verb
+conj
+pron
+verb
+noun
+np
+conj
+verb
+pp
+verb
+verb
 pp
 conj
+pron
 verb
+pp
+np
+pron
+verb
+pron
 verb
 conj
-noun
-245372	conj
+conj
 adv
 verb
 pp
+np
+np
+np
+np
+verb
+pp
+verb
+pron
+verb
+pp
+245265	np
+conj
+np
+np
+adjp
+pp
+np
+verb
+pp
+np
+np
+np
+verb
+245279	verb
+pp
+conj
+verb
+verb
+pron
+noun
+noun
+verb
+pron
+np
+np
+verb
+pp
+det
+conj
+verb
+np
+np
+np
+np
+verb
+pron
+245303	verb
+np
+np
+conj
 verb
 np
 conj
-advp
+verb
+np
+pp
+np
+np
+conj
+verb
+np
+pron
+pp
+np
+pron
+245323	conj
+conj
+adv
+pron
+verb
+verb
+verb
+conj
+verb
+np
+np
+verb
+np
+np
+verb
+conj
+pron
+245341	verb
+pp
+conj
 verb
 pron
-245383	np
+pp
+np
+verb
+pron
+pp
 conj
+verb
+pron
+verb
+pron
+verb
+conj
+verb
+pp
+pp
+conj
+adv
+verb
+np
+np
+pp
+pron
+verb
+noun
+pron
+verb
+conj
+pron
+vp
+conj
+pp
+np
+verb
+pp
+conj
+conj
+verb
+np
+np
 245386	np
 np
 np
-np
-verb
-245392	verb
-conj
-verb
-np
-pp
-np
-verb
-np
-conj
-conj
-verb
-pron
-verb
-conj
-245407	np
-np
-conj
-verb
-pp
-verb
-np
-np
-adj
-verb
-pron
-adv
-verb
-verb
-verb
-verb
-verb
-conj
-np
-np
-245428	np
-pron
-verb
-245432	adj
-verb
-adv
-verb
-conj
-verb
-conj
-pron
-verb
-verb
-np
-np
-pp
-np
-verb
-adj
-conj
-np
-verb
-conj
-verb
-pp
-np
-np
-np
-verb
-pron
-verb
-adv
-pp
-np
-245464	pron
-verb
-adv
-verb
-np
-np
-verb
-verb
-conj
-pron
-pp
-np
-conj
-conj
-verb
-verb
-pron
-verb
-pp
-verb
-verb
-pp
-np
-245488	advp
-conj
-pp
-np
-conj
-pp
-conj
-verb
-np
-verb
-pp
-verb
-verb
-245502	verb
-conj
-np
-conj
-verb
-pron
-adj
-verb
-pp
-conj
-245513	verb
-pp
-adv
-conj
-np
 vp
-np
-verb
-conj
-np
-verb
-adv
-np
-pron
-np
-verb
-pp
-np
-adv
-verb
-pp
-245535	conj
+245391	verb
 conj
 verb
-verb
-pron
-np
-245542	verb
-verb
-verb
-pron
-adj
-pp
-245549	conj
-pp
-pp
-np
 conj
 verb
 np
-pp
-np
-verb
-verb
-pron
-conj
-245563	verb
-pp
-np
-pron
-conj
-verb
-pp
-np
-pron
-conj
-np
-verb
-pp
-verb
-pp
-conj
-verb
-np
-verb
-np
-pp
-advp
-conj
-verb
-verb
-pp
-conj
-verb
-pp
-np
-np
-np
-245596	np
-verb
-pp
-np
-verb
-pp
-pron
-conj
-verb
-245607	np
-verb
-245610	verb
-conj
-np
-verb
-245615	np
-pp
-np
-np
-noun
-noun
-conj
-245623	verb
-pp
-conj
-verb
-np
-np
-np
-verb
-np
-245633	np
-conj
-np
-verb
-pron
-verb
-np
-np
-np
-np
-245644	pron
-verb
-np
-np
-adv
-verb
-pp
-np
-conj
-verb
-pp
-np
-245657	conj
-conj
-verb
-pron
-verb
-245663	conj
-conj
-np
-adv
-verb
-pron
-pp
-adv
-verb
-np
-245674	pron
-verb
-245677	verb
-conj
-verb
-np
-np
-pron
-conj
-245685	adj
-verb
-conj
-adv
-verb
-pp
-adv
-verb
-pp
-np
-np
-245697	np
-adv
-verb
-conj
-pron
-verb
-verb
-np
-np
-np
-verb
-pp
-conj
-np
-np
-verb
-verb
-pp
-verb
-conj
-np
-np
-np
-pp
-pp
-verb
-245724	pp
-verb
-245728	np
-np
-245731	verb
-conj
-pron
-pp
-adv
-verb
-pron
-np
-conj
-verb
-verb
-np
-pp
-pp
-np
-conj
-verb
-np
-conj
-verb
-pron
-verb
-pp
-np
-pron
-verb
-np
-pp
-np
-pp
-np
-np
-det
-conj
-verb
-verb
-np
-verb
-conj
-pron
-245773	verb
-noun
-np
-np
-verb
-pp
-np
-verb
-conj
-adj
-np
-np
-verb
-verb
-conj
-pp
-conj
-np
-verb
-pp
-np
-np
-pp
-np
-np
-verb
-245800	adv
-verb
-pron
-np
-conj
 np
 verb
 pron
 conj
 verb
-adv
-verb
-conj
-verb
-pron
-conj
-verb
-pron
-pron
-verb
-verb
-pron
-np
-np
-noun
-verb
 pp
-245828	pron
 verb
-verb
-pp
-conj
-verb
-pp
-conj
-verb
-np
-conj
-verb
-adj
 conj
 pron
-verb
 pp
 adj
 verb
-conj
-verb
-np
-verb
-np
-pp
-conj
-np
-np
-verb
-pron
-verb
-verb
-verb
-pron
-245863	np
-conj
-conj
-conj
-conj
-adv
-np
-verb
-np
-np
-np
-verb
-pp
-verb
-verb
-pp
-np
-verb
-np
-np
-np
-np
-np
-pp
-verb
-pp
-np
-np
-np
-245893	conj
-conj
-verb
-np
-np
-verb
-np
-np
-pp
-np
-verb
-pron
-pp
-np
-verb
-np
-np
-conj
-verb
-pp
-np
-verb
-245917	noun
-noun
-verb
-245921	pron
-verb
-245924	np
-pp
-245927	np
-conj
-np
-conj
-np
-np
-adj
-adv
-verb
-245937	adv
-conj
-np
-verb
-pp
-np
-conj
-verb
-np
-np
-np
-245949	vp
-conj
-245952	np
-pp
-np
-pp
-pron
-verb
-conj
-pp
-np
-verb
-np
-245964	verb
-conj
-np
-np
-conj
-245970	verb
-np
-np
-conj
-verb
-np
-verb
-pron
-pp
-np
-conj
-adv
-verb
-np
-245985	verb
-conj
-pron
-verb
-verb
-noun
-np
-np
-np
-np
-verb
-pron
-adv
-verb
-246000	conj
-verb
-pp
-det
-conj
-verb
-246007	np
-conj
-np
-verb
-verb
-np
-adv
-verb
-np
-verb
-pron
-conj
-verb
-verb
-np
-conj
-verb
-246025	pron
-verb
-conj
-pron
-vp
-adj
-conj
-np
-verb
-pp
-np
-adv
-verb
-conj
-pron
-verb
-np
-pp
-np
-verb
-verb
-pron
-pp
-np
-246050	conj
-conj
-verb
-pp
-np
-246056	verb
-verb
-pron
-pp
-np
-pp
-np
-np
-np
-verb
-conj
-np
-np
-np
-verb
-verb
-pron
-verb
-conj
-verb
-pp
-np
-np
-verb
-np
-verb
-pron
-verb
-pron
-pp
-det
-conj
-verb
-adv
-verb
-adv
-conj
-pron
-verb
-246096	np
-pp
-np
-np
-verb
-conj
-verb
-pp
-np
-np
-np
-np
-np
-verb
-conj
-np
-246114	pron
-246117	conj
-verb
-np
-np
-np
-np
-adjp
-verb
-conj
-pron
-verb
-pron
-verb
-pp
-np
-246133	verb
-conj
-pron
-np
-verb
-pp
-np
-verb
-np
-np
-np
-conj
-verb
-verb
-246148	np
-verb
-246152	noun
-246154	conj
-verb
-np
-np
-np
-pp
-np
-verb
-conj
-conj
-246165	np
-verb
-pron
-adv
-verb
-noun
-conj
-verb
-pron
-verb
-np
-246177	verb
-pp
-np
-np
-verb
-conj
-pp
-np
-np
-pp
-np
-np
-verb
-pp
-np
-np
-np
-np
-verb
-np
-conj
-np
-verb
-adv
-pron
-np
-np
-verb
-pp
-246207	conj
-pp
-246210	conj
-conj
-conj
-np
-np
-verb
-pron
-conj
-np
-np
-pp
-np
-verb
-pp
-np
-pp
-verb
-verb
-np
-adv
-verb
-verb
-pp
-conj
-verb
-verb
-conj
-pron
-246239	verb
-conj
-verb
-np
-pp
-adv
-pp
-np
-verb
-np
-pp
-246251	verb
-conj
-pp
-np
-conj
-verb
-noun
-verb
-pron
-246262	noun
-noun
-pron
-pron
-verb
-pron
-conj
-verb
-pron
-verb
-noun
-verb
-conj
-pp
-pron
-verb
-246280	np
-pron
-pron
-verb
-conj
-pp
-verb
-np
-conj
-verb
-np
-conj
-np
-adv
-verb
-verb
-pron
-verb
-conj
-pron
-verb
-noun
-np
-conj
-verb
-pp
-246307	verb
-verb
-pp
-conj
-pron
-verb
-pp
-np
-pron
-verb
-pron
-verb
-conj
-conj
-adv
-verb
-pp
-np
-np
-np
-np
-verb
-pp
-verb
-pron
-verb
-pp
-246335	np
-conj
-np
-np
-adjp
-pp
-np
-verb
-pp
-np
-np
-np
-verb
-246349	verb
-pp
-conj
-verb
-verb
-pron
-246357	noun
-noun
-verb
-pron
-np
-np
-verb
-pp
-det
-conj
-verb
-np
-np
-np
-np
-verb
-pron
-246375	verb
-np
-np
-conj
-verb
-np
-conj
-verb
-np
-pp
-np
-np
-conj
-verb
-np
-pron
-pp
-np
-pron
-246395	conj
-conj
-adv
-pron
-verb
-verb
-verb
-conj
-verb
-np
-np
-verb
-np
-np
-verb
-conj
-pron
-246413	verb
-pp
-conj
-verb
-pron
-pp
-np
-verb
-pron
-pp
-conj
-verb
-pron
-verb
-pron
-246429	verb
-conj
-verb
-pp
-pp
-conj
-adv
-verb
-np
-np
-pp
-pron
-verb
-noun
-pron
-verb
-conj
-pron
-vp
-conj
-pp
-np
-verb
-pp
-conj
-246455	conj
-verb
-np
-np
-246460	np
-np
-np
-vp
-246465	verb
-conj
-verb
-conj
-verb
-np
-np
-verb
-pron
-conj
-verb
-pp
-246478	verb
-conj
-pron
-pp
-adj
-verb
 pron
 verb
 conj
@@ -231046,7 +231046,7 @@ verb
 np
 np
 verb
-246497	verb
+verb
 pp
 np
 np
@@ -231055,11 +231055,11 @@ conj
 verb
 pron
 verb
-246507	verb
+verb
 conj
 pron
 conj
-246512	verb
+245435	verb
 np
 conj
 noun
@@ -231083,7 +231083,7 @@ np
 adv
 verb
 pron
-246537	conj
+conj
 conj
 verb
 pron
@@ -231106,7 +231106,7 @@ verb
 np
 verb
 verb
-246561	pron
+pron
 verb
 verb
 np
@@ -231166,7 +231166,7 @@ advp
 conj
 verb
 verb
-246622	np
+245543	np
 pron
 verb
 pp
@@ -231174,9 +231174,9 @@ np
 verb
 pron
 conj
-246631	verb
+245552	verb
 verb
-246634	np
+245555	np
 conj
 np
 np
@@ -231190,7 +231190,7 @@ conj
 np
 np
 verb
-246650	noun
+noun
 noun
 pron
 np
@@ -231200,7 +231200,7 @@ np
 pp
 np
 np
-246661	np
+245580	np
 conj
 verb
 verb
@@ -231212,7 +231212,7 @@ adv
 np
 pp
 verb
-246674	verb
+verb
 pron
 verb
 np
@@ -231239,7 +231239,7 @@ verb
 verb
 conj
 np
-246702	adv
+adv
 verb
 noun
 conj
@@ -231268,33 +231268,33 @@ noun
 verb
 pp
 np
-246733	noun
 noun
-246737	pron
+noun
+pron
 noun
 verb
 np
 pp
-246743	conj
+245656	conj
 np
 verb
-246748	pron
+pron
 conj
 pron
 verb
 verb
 np
 np
-246756	conj
+245667	conj
 conj
 verb
 np
-246761	noun
+245672	noun
 conj
 verb
 adv
 verb
-246767	conj
+245678	conj
 conj
 noun
 conj
@@ -231313,14 +231313,14 @@ np
 np
 verb
 verb
-246787	np
+245698	np
 verb
 pp
 np
 np
 conj
 conj
-246795	noun
+245706	noun
 verb
 pron
 conj
@@ -231328,14 +231328,14 @@ noun
 np
 conj
 verb
-246804	verb
+verb
 np
 conj
 verb
 np
 pp
 verb
-246812	np
+245722	np
 verb
 verb
 pron
@@ -231353,8 +231353,8 @@ verb
 pron
 np
 verb
-246831	verb
-246833	conj
+verb
+conj
 conj
 verb
 np
@@ -231366,7 +231366,7 @@ verb
 pp
 pp
 verb
-246846	verb
+verb
 conj
 noun
 verb
@@ -231375,7 +231375,7 @@ np
 verb
 pron
 verb
-246856	conj
+245763	conj
 conj
 pp
 pron
@@ -231384,12 +231384,12 @@ np
 verb
 conj
 adjp
-246866	np
+np
 np
 verb
 pron
 verb
-246872	np
+245778	np
 conj
 np
 verb
@@ -231435,7 +231435,7 @@ np
 np
 np
 np
-246919	verb
+245825	verb
 conj
 verb
 pp
@@ -231448,7 +231448,7 @@ np
 np
 np
 verb
-246933	np
+np
 np
 verb
 pp
@@ -231467,7 +231467,7 @@ pp
 np
 conj
 verb
-246953	np
+245858	np
 verb
 pron
 verb
@@ -231479,7 +231479,7 @@ verb
 pron
 verb
 pron
-246966	verb
+245871	verb
 conj
 np
 np
@@ -231518,17 +231518,17 @@ conj
 adv
 verb
 pron
-247006	verb
+245911	verb
 conj
 pron
-247010	np
+np
 pp
 np
 adjp
 pron
 verb
 pron
-247018	conj
+245922	conj
 conj
 pp
 pron
@@ -231555,13 +231555,13 @@ pron
 verb
 pp
 conj
-247046	verb
+verb
 np
 np
 np
 verb
-247052	verb
-247054	np
+245955	verb
+245957	np
 conj
 verb
 pp
@@ -231581,18 +231581,18 @@ verb
 np
 verb
 pp
-247075	np
+245978	np
 verb
 np
 verb
 np
 np
-247084	np
+245986	np
 np
 verb
 np
 np
-247090	verb
+245992	verb
 pp
 np
 conj
@@ -231611,7 +231611,7 @@ verb
 conj
 verb
 np
-247110	pp
+pp
 verb
 pron
 verb
@@ -231629,7 +231629,7 @@ np
 conj
 np
 adjp
-247129	conj
+246030	conj
 verb
 verb
 conj
@@ -231669,7 +231669,7 @@ verb
 pp
 np
 pron
-247170	verb
+246071	verb
 pp
 np
 conj
@@ -231680,7 +231680,7 @@ verb
 np
 np
 pron
-247183	verb
+246083	verb
 conj
 conj
 verb
@@ -231691,7 +231691,7 @@ conj
 verb
 conj
 pp
-247195	verb
+verb
 pron
 verb
 conj
@@ -231710,12 +231710,12 @@ pp
 conj
 np
 verb
-247215	np
+246114	np
 pp
-247218	np
+246117	np
 conj
 np
-247222	pron
+246121	pron
 verb
 np
 pp
@@ -231738,13 +231738,13 @@ np
 pp
 np
 np
-247246	conj
+246145	conj
 conj
 verb
 np
 pp
 np
-247253	conj
+conj
 conj
 adv
 pp
@@ -231761,11 +231761,11 @@ verb
 conj
 np
 np
-247271	conj
+246169	conj
 verb
 noun
 np
-247276	np
+246174	np
 np
 pp
 np
@@ -231801,7 +231801,7 @@ verb
 pron
 adv
 verb
-247313	verb
+verb
 conj
 np
 verb
@@ -231835,11 +231835,11 @@ verb
 verb
 pp
 conj
-247349	conj
+246246	conj
 pp
 np
 verb
-247354	pron
+246251	pron
 pp
 verb
 conj
@@ -231866,7 +231866,7 @@ pron
 pron
 pp
 np
-247382	pron
+pron
 verb
 noun
 adv
@@ -231875,14 +231875,14 @@ np
 np
 verb
 np
-247392	np
+246288	np
 pp
 np
 conj
 pp
 np
 verb
-247401	np
+np
 verb
 pp
 np
@@ -231901,7 +231901,7 @@ verb
 np
 verb
 pp
-247421	np
+246315	np
 conj
 np
 pp
@@ -231922,7 +231922,7 @@ pron
 verb
 pp
 np
-247443	pp
+246337	pp
 conj
 pp
 np
@@ -231933,7 +231933,7 @@ np
 pron
 verb
 pp
-247455	conj
+246349	conj
 conj
 pron
 verb
@@ -231941,7 +231941,7 @@ pp
 conj
 np
 verb
-247464	np
+np
 verb
 verb
 pron
@@ -231949,8 +231949,8 @@ pp
 np
 conj
 pp
-247473	np
-247475	pron
+246366	np
+pron
 verb
 pp
 verb
@@ -231970,17 +231970,17 @@ np
 pp
 np
 verb
-247496	conj
-247498	np
+conj
+246389	np
 verb
 verb
 np
 pp
 verb
 np
-247506	verb
+246397	verb
 pron
-247509	verb
+246400	verb
 conj
 noun
 conj
@@ -231997,32 +231997,32 @@ verb
 np
 pp
 np
-247527	np
+246418	np
 np
-verb
-adj
-verb
-np
-conj
-verb
-pron
-pp
-np
-np
-pp
-247541	verb
-conj
-pron
-pp
-conj
-conj
-247548	np
 verb
 adj
 verb
 np
+conj
 verb
-247555	adv
+pron
+pp
+np
+np
+pp
+246432	verb
+conj
+pron
+pp
+conj
+conj
+246439	np
+verb
+adj
+verb
+np
+verb
+246446	adv
 verb
 verb
 noun
@@ -232046,12 +232046,12 @@ pron
 verb
 verb
 pron
-247580	noun
+noun
 conj
 verb
 verb
-247585	np
-247587	verb
+246475	np
+246477	verb
 conj
 noun
 verb
@@ -232069,10 +232069,10 @@ np
 verb
 pp
 pp
-247606	verb
+246496	verb
 conj
 pron
-247610	np
+246500	np
 conj
 np
 np
@@ -232098,7 +232098,7 @@ np
 conj
 conj
 verb
-247637	verb
+246527	verb
 np
 pp
 pron
@@ -232113,7 +232113,7 @@ pp
 verb
 verb
 conj
-247653	verb
+246543	verb
 pp
 np
 verb
@@ -232134,7 +232134,7 @@ np
 verb
 np
 verb
-247676	verb
+verb
 conj
 pron
 verb
@@ -232153,7 +232153,7 @@ verb
 np
 verb
 conj
-247696	conj
+246584	conj
 pp
 np
 np
@@ -232184,7 +232184,7 @@ pp
 verb
 conj
 np
-247728	vp
+vp
 pp
 np
 np
@@ -232192,16 +232192,16 @@ adv
 pron
 verb
 verb
-247737	adj
+adj
 adj
 verb
 np
 adj
 verb
-247744	conj
 conj
 conj
-247748	verb
+conj
+246633	verb
 conj
 np
 adjp
@@ -232209,7 +232209,7 @@ verb
 adv
 verb
 verb
-247757	conj
+conj
 conj
 adj
 verb
@@ -232230,20 +232230,20 @@ verb
 pp
 np
 verb
-247779	noun
+noun
 verb
 pp
 verb
-247784	np
+np
 conj
 verb
-247789	np
+246671	np
 conj
 verb
 pp
 verb
 np
-247796	conj
+conj
 conj
 np
 verb
@@ -232265,7 +232265,7 @@ verb
 pron
 pp
 verb
-247819	np
+246700	np
 conj
 np
 np
@@ -232284,7 +232284,7 @@ verb
 np
 conj
 conj
-247839	verb
+246720	verb
 pp
 verb
 np
@@ -232311,11 +232311,11 @@ np
 np
 np
 verb
-247867	pron
+pron
 pron
 verb
 adj
-247872	np
+246752	np
 conj
 pp
 np
@@ -232324,7 +232324,7 @@ verb
 pp
 conj
 pp
-247882	np
+np
 np
 verb
 pron
@@ -232339,12 +232339,12 @@ np
 pp
 verb
 verb
-247898	verb
+246777	verb
 pp
 conj
 verb
 pp
-247904	np
+np
 conj
 verb
 verb
@@ -232361,7 +232361,7 @@ pron
 verb
 pron
 pp
-247922	noun
+noun
 conj
 pp
 np
@@ -232373,10 +232373,10 @@ adv
 verb
 verb
 pron
-247936	advp
+246812	advp
 conj
 verb
-247940	np
+246816	np
 conj
 np
 pp
@@ -232388,7 +232388,7 @@ np
 pp
 conj
 conj
-247953	np
+246829	np
 np
 pp
 np
@@ -232400,14 +232400,14 @@ np
 conj
 verb
 np
-247967	conj
+246843	conj
 np
 np
 np
 verb
 pron
 verb
-247975	pp
+pp
 np
 np
 np
@@ -232443,227 +232443,227 @@ np
 adv
 verb
 conj
-248012	verb
-pron
-248015	pp
-conj
-pp
-pp
-248020	conj
-248022	np
-verb
 verb
 pron
-verb
-adj
-conj
-pron
-verb
-verb
-noun
-adv
-np
-np
-np
-pp
-verb
-noun
+246889	pp
 conj
 pp
-np
-verb
-verb
-pron
 pp
-verb
-adv
-np
-verb
-np
-verb
-248054	pp
-np
-pron
-verb
-pp
-248060	verb
-pron
-adj
-pp
-verb
-adv
-verb
-adv
-np
-verb
-pron
-np
-np
-np
-pp
-conj
-conj
-conj
-verb
-adv
-verb
-pron
-248083	np
-conj
-conj
-np
-np
-pp
-pp
-verb
-248092	pp
-np
-np
-pp
-conj
-verb
-np
-verb
-pron
-adv
-conj
-verb
-verb
-conj
-pp
-np
-np
-np
-np
-np
-verb
-noun
-conj
-adv
-pp
-np
-np
-np
-pp
-np
-np
-verb
-pp
+246894	conj
 np
 verb
 verb
-pp
-np
-np
-pp
-248133	conj
-verb
-verb
-verb
-pp
-np
-verb
-pp
-noun
-pron
-adj
-verb
-pp
-conj
-np
-adj
-verb
-pron
-conj
-conj
-verb
-pron
-pp
-np
-np
-248159	np
-verb
-np
-verb
-pron
-adv
-verb
-pp
-conj
-248169	np
-conj
-np
-pron
-pp
-verb
-np
-np
-pp
-np
-verb
-248182	verb
-conj
-pron
-verb
-noun
-conj
-pp
-np
-np
-adv
-verb
-pron
-verb
-verb
-adv
-conj
-verb
-pron
-verb
-pp
-pp
-pp
-np
-np
-248207	pp
-verb
-pp
-np
-pp
-248214	conj
-np
-np
-np
-pp
-np
-verb
-noun
-adv
-pp
-np
-np
-np
-verb
-248229	noun
-conj
-pp
-verb
-248234	np
-conj
-verb
-pp
-np
-verb
-noun
-verb
-pp
-248244	np
-248247	noun
-noun
-248250	pron
 pron
 verb
 adj
+conj
+pron
+verb
+verb
+noun
+adv
+np
+np
+np
+pp
+verb
+noun
+conj
+pp
+np
+verb
+verb
+pron
+pp
+verb
+adv
+np
+verb
+np
+verb
+pp
+np
+pron
+verb
+pp
+246932	verb
+pron
+adj
+pp
+verb
+adv
+verb
+adv
+np
+verb
+pron
+np
+np
+np
+pp
+conj
+conj
+conj
+verb
+adv
+verb
+pron
+246955	np
+conj
+conj
+np
+np
+pp
+pp
+verb
+246964	pp
+np
+np
+pp
+conj
+verb
+np
+verb
+pron
+adv
+conj
+verb
+verb
+conj
+pp
+np
+np
+np
+np
+np
+verb
+noun
+conj
+adv
+pp
+np
+np
+np
+pp
+np
+np
+verb
+pp
+np
+verb
+verb
+pp
+np
+np
+pp
+247005	conj
+verb
+verb
+verb
+pp
+np
+verb
+pp
+noun
+pron
+adj
+verb
+pp
+conj
+np
+adj
+verb
+pron
+conj
+conj
+verb
+pron
+pp
+np
+np
+247031	np
+verb
+np
+verb
+pron
+adv
+verb
+pp
+conj
+247041	np
+conj
+np
+pron
+pp
+verb
+np
+np
+pp
+np
+verb
+247053	verb
+conj
+pron
+verb
+noun
+conj
+pp
+np
+np
+adv
+verb
+pron
+verb
+verb
+adv
+conj
+verb
+pron
+verb
+pp
+pp
+pp
+np
+np
+247078	pp
+verb
+pp
+np
+pp
+247085	conj
+np
+np
+np
+pp
+np
+verb
+noun
+adv
+pp
+np
+np
+np
+verb
+247100	noun
+conj
+pp
+verb
+np
+conj
+verb
+pp
+np
+verb
+noun
+verb
+pp
+247114	np
+noun
+noun
+pron
+pron
+verb
+adj
 pron
 pp
 verb
@@ -232678,7 +232678,7 @@ conj
 verb
 pron
 verb
-248269	pron
+pron
 pron
 verb
 conj
@@ -232694,7 +232694,7 @@ verb
 pron
 verb
 pron
-248286	conj
+247152	conj
 np
 pron
 conj
@@ -232706,7 +232706,7 @@ verb
 pron
 verb
 pron
-248299	pp
+247165	pp
 np
 conj
 pp
@@ -232718,7 +232718,7 @@ pron
 verb
 np
 verb
-248313	pp
+247179	pp
 pp
 conj
 adv
@@ -232729,25 +232729,25 @@ pp
 np
 verb
 pron
-248325	np
+247191	np
 conj
 np
 pp
 verb
-248331	np
+247197	np
 pp
 conj
-248335	verb
+247201	verb
 adj
 np
 np
 conj
-248341	np
+247207	np
 np
 pp
 conj
 conj
-248347	np
+247213	np
 conj
 np
 np
@@ -232755,7 +232755,7 @@ np
 conj
 np
 verb
-248356	verb
+247222	verb
 conj
 verb
 pp
@@ -232783,27 +232783,27 @@ np
 np
 verb
 verb
-248385	conj
+247251	conj
 conj
 adj
 pp
 verb
 pron
-248392	conj
+247258	conj
 np
 verb
 verb
 verb
 conj
-248399	adj
+adj
 np
-248402	adj
+adj
 pp
 np
 noun
 verb
 verb
-248409	np
+247273	np
 conj
 conj
 np
@@ -232815,7 +232815,7 @@ np
 np
 np
 verb
-248422	verb
+verb
 noun
 np
 np
@@ -232824,18 +232824,18 @@ pp
 verb
 np
 conj
-248432	verb
+verb
 verb
 np
 conj
 np
-248438	conj
+247300	conj
 verb
 verb
 conj
 pp
 np
-248445	pp
+pp
 adv
 verb
 verb
@@ -232852,11 +232852,11 @@ vp
 pp
 pron
 verb
-248463	np
+247324	np
 verb
 conj
 verb
-248468	np
+np
 conj
 pp
 np
@@ -232869,11 +232869,11 @@ np
 conj
 verb
 np
-248482	conj
+247342	conj
 pp
 conj
 pp
-248487	advp
+247347	advp
 conj
 np
 np
@@ -232881,18 +232881,18 @@ verb
 pron
 adv
 verb
-248496	adj
+adj
 np
 verb
 pp
 np
 np
 verb
-248504	conj
-248506	np
+247363	conj
+247365	np
 conj
 np
-248510	np
+247369	np
 conj
 conj
 verb
@@ -232905,7 +232905,7 @@ verb
 conj
 np
 adjp
-248524	conj
+247383	conj
 verb
 np
 np
@@ -232913,7 +232913,7 @@ noun
 conj
 np
 verb
-248533	verb
+verb
 verb
 np
 np
@@ -232921,7 +232921,7 @@ conj
 adv
 verb
 noun
-248542	conj
+conj
 conj
 verb
 verb
@@ -232929,7 +232929,7 @@ pron
 pp
 np
 verb
-248551	np
+247408	np
 conj
 conj
 np
@@ -232939,7 +232939,7 @@ np
 noun
 noun
 np
-248562	verb
+verb
 conj
 np
 np
@@ -232953,7 +232953,7 @@ np
 verb
 verb
 pp
-248577	np
+247433	np
 np
 conj
 verb
@@ -232977,12 +232977,12 @@ pp
 np
 verb
 adj
-248602	np
+247458	np
 conj
 np
 pp
 np
-248608	conj
+247464	conj
 verb
 verb
 pp
@@ -232999,7 +232999,7 @@ np
 verb
 pron
 pp
-248626	pp
+pp
 np
 conj
 verb
@@ -233008,7 +233008,7 @@ adv
 verb
 pp
 np
-248636	adv
+adv
 verb
 pron
 np
@@ -233021,13 +233021,13 @@ verb
 pron
 verb
 pp
-248650	np
+np
 np
 verb
 np
 pp
 verb
-248658	np
+247510	np
 conj
 verb
 conj
@@ -233049,10 +233049,10 @@ verb
 conj
 pp
 np
-248681	conj
+247533	conj
 np
-248684	advp
-248686	np
+247536	advp
+247538	np
 conj
 np
 conj
@@ -233064,7 +233064,7 @@ verb
 np
 np
 conj
-248699	np
+247551	np
 conj
 np
 adv
@@ -233072,7 +233072,7 @@ verb
 conj
 pp
 verb
-248708	adj
+adj
 conj
 np
 verb
@@ -233085,15 +233085,15 @@ adv
 verb
 verb
 pp
-248722	verb
+247573	verb
 np
 np
 np
 verb
-248728	pp
+247579	pp
 conj
 pp
-248732	verb
+verb
 conj
 noun
 verb
@@ -233108,10 +233108,10 @@ adjp
 conj
 verb
 pp
-248748	np
+247598	np
 verb
 noun
-248752	verb
+247602	verb
 conj
 np
 conj
@@ -233138,7 +233138,7 @@ noun
 verb
 verb
 np
-248780	verb
+verb
 conj
 conj
 pp
@@ -233148,7 +233148,7 @@ verb
 np
 adv
 verb
-248791	adv
+adv
 conj
 verb
 pron
@@ -233162,7 +233162,7 @@ np
 np
 np
 verb
-248807	conj
+247655	conj
 conj
 conj
 verb
@@ -233178,7 +233178,7 @@ np
 np
 verb
 pron
-248824	np
+np
 conj
 verb
 adv
@@ -233198,7 +233198,7 @@ pp
 np
 verb
 conj
-248845	np
+247692	np
 np
 conj
 np
@@ -233221,13 +233221,13 @@ np
 np
 np
 np
-248870	pron
+pron
 verb
 pron
 adv
 verb
 verb
-248877	adv
+adv
 verb
 noun
 noun
@@ -233243,7 +233243,7 @@ np
 verb
 pp
 conj
-248894	verb
+verb
 noun
 verb
 conj
@@ -233261,11 +233261,11 @@ conj
 verb
 pron
 verb
-248913	conj
+conj
 conj
 np
 verb
-248918	verb
+verb
 pron
 pp
 np
@@ -233281,7 +233281,7 @@ conj
 verb
 verb
 np
-248935	adj
+247776	adj
 conj
 verb
 conj
@@ -233289,7 +233289,7 @@ adv
 verb
 verb
 np
-248944	verb
+verb
 conj
 conj
 adv
@@ -233302,7 +233302,7 @@ np
 verb
 noun
 verb
-248958	np
+np
 conj
 verb
 verb
@@ -233321,10 +233321,10 @@ verb
 verb
 verb
 np
-248978	np
+247817	np
 conj
 np
-248982	conj
+conj
 adv
 pron
 verb
@@ -233363,4206 +233363,4206 @@ adj
 verb
 adj
 verb
+conj
+verb
+pron
+verb
+noun
+pron
+conj
+pp
+np
+np
+verb
+np
+np
+conj
+pp
+np
+verb
+247877	verb
+conj
+pron
+conj
+verb
+noun
+verb
+np
+pp
+conj
+verb
+verb
+verb
+adj
+conj
+verb
+adj
+np
+verb
+noun
+verb
+conj
+np
+np
+np
+pp
+np
+247905	verb
+conj
+noun
+verb
+np
+verb
+np
+pp
+np
+conj
+conj
+noun
+verb
+np
+adv
+verb
+np
+np
+conj
+verb
+verb
+noun
+pp
+verb
+verb
+verb
+np
+conj
+np
+verb
+verb
+pp
+np
+adv
+verb
+np
+np
+np
+conj
+verb
+np
+verb
+verb
+pp
+np
+verb
+conj
+pp
+np
+verb
+np
+conj
+247958	np
+conj
+verb
+verb
+adj
+np
+conj
+verb
+pp
+np
+np
+np
+conj
+verb
+conj
+np
+verb
+conj
+pron
+verb
+verb
+np
+conj
+verb
+verb
+np
+verb
+pron
+np
+verb
+conj
+247990	verb
+verb
+verb
+adj
+pp
+np
+verb
+conj
+np
+pron
+conj
+pp
+pron
+conj
+pp
+np
+np
+pp
+np
+conj
+adv
+verb
+adj
+verb
+pp
+np
+conj
+verb
+adv
+verb
+conj
+noun
+np
+verb
+np
+conj
+verb
+np
+np
+adv
+verb
+pron
+verb
+conj
+noun
+verb
+np
+248038	pp
+248040	np
+verb
+conj
+pp
+np
+248046	verb
+conj
+np
+np
+np
+conj
+verb
+pp
+np
+noun
+pp
+np
+verb
+verb
+np
+np
+conj
+conj
+verb
+np
+verb
+np
+pp
+np
+np
+pp
+verb
+adv
+noun
+verb
+np
+np
+pron
+verb
+pp
+np
+np
+verb
+adv
+verb
+det
+conj
+conj
+verb
+np
+pp
+np
+verb
+np
+det
+conj
+verb
+248099	pron
+verb
+verb
+conj
+verb
+adv
+adj
+pp
+conj
+pron
+verb
+conj
+verb
+np
+pp
+verb
+verb
+verb
+pron
+verb
+noun
+pp
+conj
+np
+pp
+np
+np
+verb
+noun
+np
+np
+np
+np
+noun
+noun
+pron
+verb
+pron
+np
+adv
+verb
+verb
+conj
+np
+np
+np
+248146	conj
+verb
+verb
+pp
+np
+verb
+conj
+verb
+verb
+np
+pron
+verb
+pron
+pron
+conj
+verb
+np
+248164	np
+pp
+np
+verb
+noun
+verb
+conj
+verb
+pron
+adv
+np
+verb
+pron
+conj
+verb
+verb
+np
+pp
+np
+pp
+conj
+np
+verb
+pp
+np
+np
+np
+verb
+pp
+np
+noun
+noun
+conj
+verb
+pp
+verb
+np
+adv
+verb
+verb
+pp
+conj
+pp
+np
+verb
+noun
+adj
+verb
+pp
+adv
+verb
+noun
+verb
+pp
+verb
+np
+conj
+adv
+pp
+np
+verb
+conj
+np
+verb
+np
+pp
+verb
+pp
+np
+pp
+248235	np
+conj
+np
+pron
+verb
+np
+verb
+np
+verb
+noun
+conj
+conj
+verb
+pp
+verb
+np
+verb
+pp
+pp
+np
+np
+verb
+pron
+verb
+conj
+pp
+np
+verb
+pron
+verb
+np
+np
+verb
+conj
+pron
+verb
+pp
+pron
+noun
+noun
+np
+verb
+248278	np
+conj
+np
+np
+np
+noun
+pp
+verb
+pp
+np
+np
+np
+pron
+verb
+pron
+verb
+verb
+pp
+np
+np
+verb
+pp
+verb
+conj
+np
+verb
+verb
+noun
+conj
+np
+np
+verb
+pron
+verb
+pp
+np
+conj
+np
+verb
+pron
+248319	verb
+conj
+verb
+pp
+conj
+np
+np
+np
+np
+np
+verb
+det
+conj
+pp
+verb
+248335	pron
+conj
+np
+pp
+verb
+pp
+np
+conj
+verb
+np
+np
+248347	conj
+np
+np
+pp
+verb
+conj
+pp
+verb
+pron
+verb
+pp
+conj
+np
+np
+adj
+pron
+verb
+conj
+adv
+verb
+verb
+conj
+pron
+noun
+verb
+pp
+pp
+np
+adj
+pron
+verb
+248379	verb
+np
+np
+np
+verb
+conj
+pron
+pp
+np
+pp
+248390	conj
+np
+np
+conj
+np
+248396	pp
+pp
+conj
+det
+conj
+verb
+verb
+det
+conj
+verb
+adj
+conj
+verb
+pp
+verb
+verb
+np
+np
+adv
+np
+np
+np
+verb
+pp
+248421	np
+pp
+np
+np
+verb
+verb
+pp
+np
+np
+conj
+verb
+248433	noun
+verb
+conj
+advp
+verb
+conj
+248440	verb
+verb
+conj
+advp
+verb
+verb
+conj
+np
+np
+np
+np
+conj
+np
+adv
+verb
+conj
+np
+np
+verb
+248460	ptcl
+adv
+verb
+np
+conj
+np
+verb
+conj
+np
+verb
+conj
+verb
+conj
+verb
+pron
+adj
+conj
+verb
+pron
+conj
+np
+verb
+np
+np
+np
+np
+pron
+conj
+verb
+verb
+conj
+np
+pp
+np
+conj
+verb
+np
+verb
+pp
+248500	verb
+np
+np
+np
+conj
+verb
+np
+pp
+248509	np
+248511	pp
+np
+adv
+np
+248517	np
+248519	np
+verb
+pp
+np
+pron
+verb
+pp
+np
+np
+pp
+np
+pp
+248532	np
+248534	np
+np
+verb
+pp
+np
+pp
+verb
+np
+pp
+pp
+np
+pp
+np
+248549	np
+np
+pp
+verb
+248554	conj
+pp
+np
+pp
+np
+np
+pp
+np
+np
+pp
+verb
+np
+np
+248568	np
+248570	verb
+pp
+248573	np
+np
+248576	pron
+conj
+pp
+248581	np
+conj
+248585	adj
+conj
+verb
+np
+np
+pp
+248592	pp
+np
+conj
+np
+np
+verb
+pp
+np
+np
+np
+conj
+verb
+np
+pron
+verb
+pp
+np
+np
+pp
+np
+np
+np
+np
+adv
+np
+verb
+adv
+pp
+np
+np
+verb
+conj
+adv
+advp
+verb
+pp
+np
+np
+np
+verb
+pp
+verb
+conj
+verb
+pron
+conj
+np
+verb
+np
+pron
+pp
+verb
+pron
+pron
+conj
+verb
+verb
+pp
+pp
+np
+np
+pp
+np
+conj
+conj
+adv
+verb
+conj
+pron
+verb
+noun
+conj
+adv
+verb
+verb
+pp
+conj
+verb
+pp
+np
+conj
+np
+verb
+pp
+pp
+conj
+pp
+pp
+np
+np
+248683	conj
+conj
+conj
+conj
+noun
+verb
+adv
+np
+np
+pp
+np
+248695	np
+pp
+verb
+adv
+conj
+verb
+np
+np
+conj
+verb
+pp
+248707	np
+verb
+248710	np
+conj
+conj
+np
+conj
+pp
+verb
+248718	pp
+pp
+conj
+verb
+np
+conj
+pp
+verb
+verb
+conj
+np
+pp
+pp
+np
+np
+248734	conj
+248736	np
+pp
+verb
+conj
+np
+np
+np
+adj
+verb
+pp
+np
+conj
+pron
+verb
+248751	np
+conj
+np
+pp
+np
+np
+verb
+verb
+np
+conj
+np
+np
+conj
+pp
+verb
+pron
+adj
+conj
+248771	verb
+np
+adv
+pp
+conj
+248777	conj
+conj
+verb
+pp
+np
+np
+conj
+verb
+np
+np
+np
+verb
+verb
+adj
+verb
+conj
+verb
+np
+np
+np
+np
+pp
+np
+np
+np
+conj
+conj
+conj
+conj
+verb
+pron
+np
+pp
+np
+np
+np
+np
+pp
+verb
+np
+np
+pp
+pron
+verb
+np
+np
+np
+pp
+np
+conj
+248828	conj
+np
+pp
+verb
+pron
+verb
+adj
+pp
+np
+ptcl
+pp
+verb
+pron
+np
+pp
+np
+np
+conj
+conj
+np
+verb
+np
+np
+pp
+np
+pp
+adv
+conj
+np
+np
+verb
+np
+np
+np
+np
+verb
+pp
+np
+np
+pp
+248869	adj
+pp
+np
+verb
+conj
+np
+np
+pron
+verb
+np
+np
+pp
+verb
+conj
+conj
+adv
+verb
+np
+verb
+pp
+verb
+pron
+np
+pp
+np
+verb
+adv
+verb
+verb
+np
+248900	adj
+248903	np
+np
+pron
+np
+np
+np
+verb
+np
+verb
+adj
+noun
+verb
+adv
+adj
+pron
+verb
+conj
+adv
+verb
+verb
+conj
+adj
+verb
+np
+248928	np
+verb
+pp
+pron
+conj
+verb
+np
+pron
+verb
+np
+conj
+verb
+verb
+verb
+conj
+conj
+np
+np
+np
+verb
+pp
+pp
+np
+verb
+verb
+conj
+pron
+248956	np
+verb
+np
+verb
+conj
+verb
+pron
+pron
+verb
+np
+np
+np
+conj
+np
+np
+248972	np
+np
+conj
+np
+conj
+np
+verb
+verb
+conj
+np
+np
+np
+pp
+pron
+verb
+pp
+conj
+np
+248991	np
+conj
+np
+verb
+pron
+noun
+pp
+np
+249000	conj
+np
+np
+np
+pron
+verb
+adj
+pp
+np
+np
+conj
+pp
+np
+np
+249015	conj
+conj
+verb
+np
+conj
+pp
 conj
 249023	verb
+np
+verb
+conj
+np
+249029	conj
+249031	conj
+pp
+np
+np
+249037	verb
+np
+249040	np
+conj
+conj
+249044	conj
+conj
+conj
+np
+249049	verb
+np
+249052	np
+conj
+conj
+adv
+conj
+verb
+noun
+pp
+np
 pron
-verb
-noun
-pron
 conj
-pp
-np
-np
-verb
-np
-np
-conj
-pp
-np
-verb
-249040	verb
-conj
-pron
-conj
-verb
-noun
-verb
-np
-pp
-conj
-verb
-verb
-verb
-adj
-conj
-verb
-adj
-np
-verb
-noun
-verb
-conj
-np
-np
-np
-pp
-np
-249068	verb
-conj
-noun
-verb
-np
-verb
-np
-pp
-np
-249078	conj
-conj
-noun
-verb
-np
 adv
 verb
-np
-np
-conj
-verb
-verb
-noun
-pp
-verb
-verb
-verb
-np
-conj
-np
-verb
-verb
-pp
-np
+adv
 adv
 verb
-np
-np
-np
-conj
-verb
-np
-verb
-verb
-pp
-np
-verb
-conj
-pp
-np
-verb
-np
-conj
-249122	np
-conj
-verb
-verb
-adj
-np
-conj
-verb
-pp
-np
-np
-np
-conj
-verb
-conj
-np
-verb
 conj
 pron
+pp
 verb
+pp
 verb
+249075	conj
 np
-conj
-verb
-verb
 np
-verb
-pron
-np
-verb
-conj
-249154	verb
-verb
-verb
 adj
 pp
 np
+conj
+np
+np
+verb
+conj
+conj
+249088	adv
+noun
+verb
+noun
+np
+np
+verb
+np
+noun
+adv
+verb
+pron
+verb
+noun
+pron
+verb
+np
+np
+np
+adjp
+pp
+np
+np
+249112	verb
+np
+np
+conj
+249117	pp
+np
+verb
+conj
+adv
+verb
+pp
+verb
+np
+np
+np
+np
+pp
+np
+np
+pp
+249134	conj
+conj
+249137	pron
+adj
+verb
+conj
+verb
+noun
+conj
+verb
+pp
+conj
+verb
+np
+conj
+verb
+verb
+verb
+pp
+np
+verb
+conj
+pron
+249159	np
+verb
+np
+np
+pp
+np
+np
+verb
+np
+np
+249170	np
+conj
+np
+pp
+np
+conj
+verb
+adj
+pron
+adv
+verb
+verb
+adv
+verb
+verb
+verb
+adv
+verb
+verb
+verb
+np
+verb
+pron
+pp
+verb
+pp
+np
+np
+np
+np
+verb
+np
+conj
+np
+np
+pp
+verb
+pp
+np
+conj
+verb
+noun
+conj
+conj
+verb
+conj
+noun
+verb
+conj
+conj
+np
+verb
+np
+np
+noun
+verb
+conj
+conj
+np
+np
+np
+np
+verb
+np
+np
+pp
+verb
+conj
+verb
+np
+np
+pp
+np
+verb
+249245	np
+np
+pp
+249249	conj
+np
+249252	conj
+249254	np
+pp
+np
+adj
 verb
 conj
 np
-pron
+249262	pp
+np
+pp
+noun
+conj
+np
+pp
+np
+adj
+conj
+noun
+noun
+pp
+249276	np
+np
+np
+249280	pp
 conj
 pp
+np
 pron
 conj
+np
+np
+np
+conj
+pron
+np
+np
+np
+adj
+pp
+np
+adj
+conj
+conj
+verb
+np
+np
+np
+pron
+conj
+conj
+verb
+pron
+np
+np
+np
+np
+np
+verb
+adv
+verb
+verb
+conj
+np
+adj
+np
+conj
+noun
+conj
+verb
+conj
+249328	verb
 pp
 np
 np
+conj
+verb
+pp
+verb
+pron
+conj
+conj
+np
+np
+np
+verb
+pron
+verb
+adj
+249347	np
+verb
+np
+pp
+verb
+adv
+verb
+conj
+adv
+verb
+np
+np
+conj
+conj
+np
+np
+np
 pp
 np
+np
+verb
+pp
+np
+np
+pron
+adv
+pron
+pp
+conj
+verb
+conj
+conj
+verb
+conj
+conj
+verb
+pron
+pron
+verb
+conj
+verb
+np
+conj
+verb
+np
+np
+np
+adj
+verb
+pron
+conj
+verb
+adv
+adv
+verb
+conj
+np
+conj
+conj
+pp
+verb
+conj
+verb
 conj
 adv
 verb
 adj
-verb
-pp
-np
-conj
-verb
-adv
-verb
-conj
-noun
-np
-verb
-249189	np
-conj
-verb
-np
-np
-adv
-verb
-pron
-verb
-conj
-noun
-verb
-np
-249203	pp
-249205	np
-verb
-conj
-pp
-np
-249211	verb
-conj
-np
-np
-np
-conj
-verb
-pp
-np
-noun
-pp
-np
-verb
-verb
-np
-np
-249228	conj
-conj
-verb
-np
-verb
-np
-pp
-np
-np
-pp
-verb
-adv
-noun
-verb
-249243	np
-np
-pron
-verb
-pp
-np
-np
-verb
-adv
-verb
-det
-conj
-conj
-verb
-np
-pp
-np
-verb
-np
-det
-conj
-verb
-249266	pron
-verb
-verb
-conj
-verb
 adv
 adj
-249274	pp
-conj
-pron
-verb
-conj
-verb
-np
-pp
-verb
-verb
-verb
-pron
-verb
-noun
-pp
-conj
-np
-pp
-np
-np
-verb
-noun
-249297	np
-np
-np
-np
-noun
-noun
-pron
-verb
-pron
-np
 adv
 verb
 verb
-conj
-np
-np
-np
-249315	conj
-verb
-verb
-pp
-np
-verb
-conj
-verb
-verb
-np
-pron
-verb
-pron
-pron
-conj
-verb
-np
-249333	np
-pp
-np
-verb
-noun
-verb
-conj
-verb
-pron
-adv
-np
-verb
-pron
-conj
-verb
-verb
-np
-pp
-np
-pp
-conj
-np
-verb
-pp
-np
-np
-np
-verb
-pp
-np
-noun
-noun
-conj
-249367	verb
-pp
-verb
-np
 adv
 verb
 verb
+np
+adj
+verb
+adv
+verb
+adv
+verb
+verb
+noun
+adv
+verb
+pp
+np
+verb
+np
+np
+np
+np
+verb
+np
+pp
+np
+np
+np
+np
+249448	conj
+verb
+adj
+np
+np
+verb
+noun
+249456	conj
+pp
+np
+np
+conj
+np
+adv
+verb
+adv
+verb
+np
+pp
+np
+np
+verb
+conj
+conj
+pron
+np
+verb
+np
+pp
+np
+verb
+conj
+249482	np
+verb
+conj
+adj
+verb
+np
+np
+np
+conj
+pp
+np
+adv
+verb
+np
+pp
 pp
 conj
-249378	pp
 np
+adv
+conj
+pp
+np
+verb
+verb
+pp
+249508	np
+conj
+np
+np
+np
+conj
+pp
+np
+249517	pp
+np
+verb
+adv
+conj
 verb
 noun
 adj
+conj
+verb
+conj
+verb
+np
+np
+np
+verb
+adv
+np
+np
+pp
+249538	np
+np
+pp
+249542	pron
+verb
+np
+noun
+249548	pp
+pp
+np
+np
+pp
+np
+np
+np
+pp
+np
+np
+np
+np
 verb
 pp
+np
+np
+np
+pp
+np
+np
+np
+np
+pp
+np
+np
+pp
+verb
+pron
+249578	conj
+verb
+np
+pp
+np
+adv
+conj
+np
+verb
+pp
+np
+np
+adv
+conj
+pp
+np
+verb
+conj
+verb
+noun
+noun
+pp
+np
+conj
+adj
+np
+adj
+np
+np
+conj
+adj
+np
+pron
+verb
+noun
+pp
+conj
+noun
+pp
+np
+noun
+conj
+verb
+pp
+np
 adv
 verb
+conj
 noun
 verb
+pron
+conj
+verb
+verb
+249633	np
+np
+pp
+conj
+conj
+noun
 pp
 verb
-np
+verb
+noun
 conj
 adv
 pp
+pron
+conj
 np
 verb
+verb
+conj
+noun
+np
+conj
+verb
+pron
+pp
+conj
+verb
+np
+249662	verb
+pp
+conj
+pp
+conj
+verb
+verb
+conj
+pp
+verb
+np
+verb
+np
+np
+pp
 conj
 np
 verb
 np
-pp
-verb
-pp
 np
-pp
-249407	np
-conj
 np
 pron
-verb
-np
-verb
 np
 verb
 noun
-conj
-conj
-verb
 pp
+adj
+249690	np
 verb
-np
-verb
-pp
-pp
-np
-np
-verb
-pron
-verb
-conj
-pp
-np
-verb
-pron
-verb
-np
-np
-249440	verb
-conj
-pron
-verb
-pp
-249446	pron
-249448	noun
-noun
-np
-verb
-249453	np
-conj
-np
-np
-np
-noun
-pp
-verb
-pp
-np
-np
-np
-pron
-verb
-pron
-verb
-verb
-pp
-np
-np
-verb
-pp
-verb
-conj
-np
-verb
-verb
-noun
-conj
-np
-np
-verb
-pron
-verb
-pp
 np
 conj
 np
 verb
-pron
-249494	verb
-conj
-verb
-pp
-conj
-np
-np
-np
-np
-np
-verb
-det
-conj
-pp
-verb
-249510	pron
-conj
-np
-pp
-verb
-pp
-np
-conj
-verb
-np
-np
-249522	conj
-np
-np
-pp
-verb
-conj
-pp
-verb
-pron
-verb
-pp
-conj
-np
 np
 adj
 pron
-verb
-conj
-adv
-verb
-verb
-conj
-pron
-noun
-verb
-pp
-pp
-np
-adj
-pron
-verb
-249554	verb
-np
-np
-np
-verb
-conj
-pron
-pp
-np
-pp
-249565	conj
-np
-np
-conj
-np
-249571	pp
-pp
-conj
-det
-conj
-verb
-verb
-det
-conj
-verb
-adj
-conj
-verb
-pp
-verb
-verb
-np
-np
-adv
-np
-np
-np
-verb
-pp
-249596	np
-pp
-np
-np
-verb
-249602	verb
-pp
-np
-np
-conj
-verb
-249609	noun
-verb
-conj
 advp
 verb
+noun
+noun
+np
+np
 conj
-249616	verb
+249707	pp
+np
+conj
+pp
+pp
+np
 verb
 conj
-advp
 verb
-249622	verb
+np
+np
+pp
+adv
+conj
+verb
+249723	pp
+verb
+conj
+pp
+249728	pp
+conj
+pp
+conj
+249733	np
+verb
+np
+np
+np
+249739	np
+np
+pp
+np
+pp
+verb
+pron
+np
+np
+verb
+pp
+pp
+verb
+pron
+np
+conj
+np
+249757	adv
+pp
+adj
+conj
+np
+verb
+np
+np
+np
+np
+np
+pp
+249770	np
+np
+249773	conj
+pp
+249776	np
+249778	np
 conj
 np
 np
 np
+pron
+verb
+conj
+pp
 np
 conj
+conj
 np
+pp
+noun
+verb
+np
+conj
+verb
+np
+np
+conj
+noun
+verb
+conj
+conj
 adv
 verb
+noun
+adv
+noun
+pp
+pp
+conj
+pp
+pp
+verb
+adj
+np
+249818	np
+np
+249821	np
+pp
+np
+np
+conj
+np
+np
+pp
+np
+pron
+verb
+np
+np
+conj
+verb
 conj
 np
 np
 verb
-249637	ptcl
+pron
+pp
+pron
+verb
+249845	verb
+np
+conj
+verb
 adv
 verb
-np
-conj
-np
-verb
-conj
-np
-verb
-conj
-verb
+pp
 conj
 verb
 pron
+pp
+pp
+verb
+pp
+verb
+pron
+np
+np
+pp
+verb
+adv
+verb
+np
+np
+conj
+249871	adv
+verb
+np
+verb
+np
+np
+verb
+adj
+adv
+verb
+conj
+np
+np
+np
+np
+249887	pp
+conj
+np
+np
+np
+adv
+verb
+np
+conj
+verb
+np
+249899	verb
+noun
+np
+conj
+verb
+conj
+pron
+verb
+verb
+adv
+verb
+conj
+adv
+verb
+pron
+pp
+249916	verb
+conj
+pp
 adj
 conj
 verb
 pron
 conj
-249658	np
+pp
+pp
+249927	pron
 verb
-np
-np
-np
-np
-pron
-conj
-verb
-verb
-conj
-np
-pp
-np
-conj
-verb
-np
-verb
-pp
-249678	verb
-np
-np
-np
-conj
-verb
-np
-pp
-249687	np
-249689	pp
-np
-adv
-np
-249695	np
-249697	np
-verb
-pp
-249701	np
-pron
-verb
-pp
-np
-np
-pp
-np
-pp
-249712	np
-249714	np
-np
-verb
-pp
-np
-pp
-verb
-np
-pp
-pp
-np
-pp
-np
-249729	np
-np
-pp
-verb
-249734	conj
-pp
-np
-pp
-np
-np
-pp
-np
-np
-pp
-verb
-np
-np
-249748	np
-249750	verb
-pp
-249753	np
-np
-249756	pron
-conj
-pp
-249761	np
-conj
-249765	adj
-conj
-verb
-np
-np
-pp
-249772	pp
-np
-conj
-np
-np
-verb
-pp
-np
-np
-np
-conj
-verb
-np
-249786	pron
-verb
-pp
-np
-np
-pp
-np
-np
-np
-np
-adv
-np
-verb
-adv
-pp
-np
-np
-verb
-conj
-adv
-advp
-verb
-pp
-np
-np
-np
-verb
-pp
-249815	verb
-conj
-verb
-pron
-conj
-np
-verb
-np
-pron
-pp
-verb
-pron
-pron
-conj
 verb
 verb
 pp
-pp
-np
-np
-pp
-np
-conj
-conj
-adv
-verb
-conj
-pron
-verb
-noun
-conj
-249847	adv
-verb
-verb
-pp
-conj
-verb
-pp
-np
-conj
-np
-verb
-pp
-pp
-conj
-pp
-pp
-np
-np
-249866	conj
-conj
-conj
-conj
-noun
-verb
-adv
-np
-np
-pp
-np
-249878	np
-pp
-verb
-adv
-conj
-verb
-np
-np
-conj
-verb
-pp
-249890	np
-verb
-249893	np
-conj
-conj
-np
-conj
-pp
-verb
-249901	pp
-pp
-conj
-verb
-np
-conj
-pp
-verb
-verb
-conj
-np
-pp
-pp
-np
-np
-249917	conj
-249919	np
-pp
-verb
-conj
-np
-np
-np
-adj
-verb
-pp
-np
-conj
-pron
 verb
 249934	np
-conj
 np
+pp
+pron
+verb
+pp
+np
+np
+conj
+verb
 pp
 np
 np
 verb
+conj
+pp
+noun
+verb
+pp
+np
+pp
+249956	np
+np
+249959	pp
+np
+np
+verb
+np
+pp
+np
+np
+pp
+verb
+conj
+verb
+pp
+np
+np
+np
+np
+249977	adj
+conj
+conj
+adv
+verb
+pp
+np
+verb
+conj
+np
+noun
 verb
 np
 conj
-np
+noun
 np
 conj
+noun
+np
+conj
+adv
+verb
+conj
+np
+np
+np
+verb
 pp
+np
+np
+pp
+250009	np
+verb
+pron
+conj
+noun
 verb
 pron
 adj
-conj
-249954	verb
-np
 adv
 pp
-conj
-249960	conj
-conj
-verb
-pp
-np
-np
-conj
-verb
-np
-np
-np
-verb
-verb
-adj
-verb
-conj
-verb
-np
-np
-np
-np
-pp
-np
-np
-np
-conj
-conj
-conj
-conj
-verb
-pron
-np
-pp
-np
-np
-np
-np
 pp
 verb
-np
-np
-pp
-250003	pron
-verb
-np
-np
-np
-pp
-np
-conj
-250012	conj
-np
-pp
-250016	verb
-pron
-verb
-adj
-pp
-np
-ptcl
-pp
-verb
-pron
-np
-pp
-np
-np
-conj
-conj
-np
-verb
-np
-np
-pp
-np
-pp
 adv
 conj
-np
-np
-verb
-np
-np
-np
-np
+pp
+pron
 verb
 pp
+conj
 np
-np
-pp
-250054	adj
-pp
-np
+adv
+pron
+adv
+verb
+verb
 verb
 conj
 np
 np
-250062	pron
-verb
-np
-np
 pp
-verb
+np
 conj
-250070	conj
-adv
-verb
-np
-verb
-pp
-verb
-pron
-np
-pp
-np
-verb
-adv
-verb
-250085	verb
-np
-250088	adj
-250091	np
-np
-pron
-np
-np
-np
-verb
-np
-verb
-adj
-noun
-verb
 adv
 adj
-pron
-verb
-conj
-adv
-verb
-verb
-conj
-adj
-verb
-np
-250116	np
-verb
-pp
-pron
-conj
-verb
-np
-pron
-verb
-np
-conj
-verb
-verb
-verb
-conj
-conj
-np
-np
-np
-verb
-pp
-pp
-np
-verb
-verb
-conj
-pron
-250144	np
-verb
-np
-verb
-conj
-verb
-pron
-pron
-verb
-np
-np
-np
-conj
-np
-np
-250160	np
-np
-conj
-np
-conj
-np
-verb
-verb
-conj
-np
-np
-np
-pp
-pron
-verb
-pp
-conj
-np
-250179	np
-conj
-np
 verb
 pron
 noun
 pp
-np
-250188	conj
-np
-np
-250192	np
-pron
 verb
-adj
-pp
-np
-np
-conj
-pp
-np
-np
-250204	conj
-conj
-verb
-np
-conj
-pp
-conj
-250212	verb
-np
-verb
-conj
-np
-250218	conj
-250220	conj
-pp
-np
-np
-250226	verb
-np
-250229	np
-conj
-conj
-250233	conj
-conj
-conj
-np
-250238	verb
-np
-250241	np
-conj
-conj
-adv
-conj
-verb
-noun
-pp
-np
-pron
-conj
-adv
-verb
-adv
-adv
-verb
-conj
-pron
-pp
-verb
-pp
-verb
-250264	conj
-np
-np
-adj
-pp
-np
-conj
-np
-np
-verb
-250275	conj
-conj
-250278	adv
-noun
-verb
-noun
-np
-np
-verb
-np
-noun
-adv
-verb
-pron
-verb
-noun
-pron
-verb
-np
-np
-np
-adjp
-pp
-np
-np
-250302	verb
-np
-np
-conj
-250307	pp
-np
-verb
-conj
-adv
-verb
-250314	pp
-verb
-np
-np
-np
-np
-pp
-np
-np
-pp
-250326	conj
-conj
-250329	pron
-adj
-verb
-conj
-verb
-noun
-conj
-verb
-pp
-conj
-verb
-np
-conj
-verb
-verb
-verb
-pp
-np
-verb
-conj
-pron
-250351	np
-verb
-np
-np
-pp
-np
-np
-verb
-np
-np
-250362	np
-conj
-np
-pp
-np
-conj
-verb
-adj
-pron
-adv
-verb
-verb
-adv
-verb
-verb
-verb
-adv
-verb
-verb
-verb
-np
-verb
-pron
-pp
-verb
-pp
-np
-np
-np
-np
-verb
-np
-conj
-np
-np
-pp
-verb
-pp
-np
-conj
-verb
-250404	noun
-conj
-conj
-verb
-conj
-noun
-verb
-250412	conj
-conj
-np
-verb
-np
-np
-noun
-verb
-250421	conj
-conj
-np
-np
-np
-np
-verb
-np
-np
-pp
-verb
-conj
-verb
-np
-np
-pp
-np
-verb
-250440	np
-np
-pp
-250444	conj
-np
-250447	conj
-250449	np
-pp
-np
-adj
-verb
-conj
-np
-250457	pp
-np
-pp
-noun
-conj
-np
-pp
-np
-adj
-conj
-noun
-noun
-pp
-250471	np
-np
-np
-250475	pp
-conj
-pp
-np
-pron
-conj
-np
-np
-np
-conj
-pron
-np
-np
-np
-adj
-pp
-np
-adj
-conj
-conj
-verb
-np
-np
-np
-250500	pron
-conj
-conj
-verb
-pron
-np
-np
-np
-np
-np
-verb
-adv
-verb
-250514	verb
-conj
-np
-adj
-np
-conj
-noun
-conj
-verb
-conj
-250525	verb
-pp
-np
-np
-conj
-verb
-pp
-verb
-pron
-250535	conj
-conj
-np
-np
-np
-verb
-pron
-verb
-adj
-250545	np
-verb
-np
-pp
-verb
-adv
-verb
-conj
-adv
-verb
-np
-np
-250558	conj
-conj
-np
-np
-np
-pp
-np
-np
-verb
-pp
-np
-np
-pron
-adv
-pron
-pp
-conj
-verb
-conj
-conj
-verb
-conj
-conj
-verb
-pron
-pron
-verb
-conj
-verb
-np
-conj
-verb
-np
-np
-np
-adj
-verb
-250596	pron
-conj
-verb
-250600	adv
-adv
-verb
-conj
-np
-conj
-conj
-pp
-verb
-conj
-verb
-conj
-250614	adv
-verb
-adj
-adv
-adj
-adv
-verb
-verb
-adv
-verb
-verb
-np
-adj
-verb
-adv
-verb
-250631	adv
-verb
-verb
-noun
-adv
-verb
-pp
-250640	np
-verb
-np
-np
-np
-np
-verb
-np
-pp
-np
-np
-np
-np
-250654	conj
-verb
-250657	adj
-np
-np
-verb
-noun
-250663	conj
-pp
-np
-np
-conj
-np
-adv
-verb
-adv
-verb
-np
-pp
-np
-np
-verb
-conj
-conj
-pron
-np
-verb
-np
-pp
-np
-verb
-conj
-250689	np
-verb
-conj
-adj
-verb
-np
-np
-np
-conj
-pp
-np
-adv
-verb
-np
-pp
-pp
-conj
-np
-adv
-conj
-pp
-np
-verb
-verb
-pp
-250715	np
-conj
-np
-np
-np
-conj
-pp
-np
-250724	pp
-np
-verb
-adv
-conj
-verb
-noun
-adj
-conj
-verb
-conj
-verb
-np
-np
-np
-verb
-adv
-np
-np
-pp
-250745	np
-np
-pp
-250749	pron
-verb
-np
-noun
-250755	pp
-pp
-np
-np
-pp
-np
-np
-np
-pp
-np
-np
-np
-np
-verb
-pp
-np
-np
-np
-pp
-np
-np
-np
-np
-pp
-np
-np
-pp
-verb
-pron
-250785	conj
-verb
-np
-pp
-np
-250791	adv
-conj
-np
-verb
-250796	pp
-np
-np
-adv
-conj
-pp
-np
-verb
-conj
-verb
-noun
-noun
-pp
-np
-conj
-adj
-np
-adj
-np
-250816	np
-conj
-adj
-250820	np
-pron
-verb
-noun
-pp
-conj
-noun
-pp
-np
-noun
-conj
-verb
-pp
-np
-adv
-verb
-conj
-noun
-verb
-pron
-conj
-verb
-verb
-250844	np
-np
-pp
-conj
-conj
-noun
-pp
-verb
-verb
-noun
-conj
-adv
-pp
-pron
-conj
-np
-verb
-verb
-conj
-noun
-np
-conj
-verb
-pron
-pp
-conj
-verb
-np
-250873	verb
-pp
-conj
-pp
-conj
-verb
-verb
-conj
-pp
-verb
-np
-verb
-np
-np
-pp
-conj
-np
-verb
-np
-np
-np
-250895	pron
-np
-verb
-noun
-pp
-adj
-250902	np
-verb
-np
-conj
-np
-verb
-np
-adj
-250911	pron
 advp
+conj
+verb
+adv
+pp
+np
+np
+verb
+pp
+pp
+np
+conj
+conj
+adj
+verb
+verb
+np
+pp
+np
+np
+np
+np
+adv
+verb
+verb
+pp
+np
+np
+250077	adj
+conj
+conj
+adv
+verb
+pp
+np
+pp
+250086	np
+np
+250089	pp
+adv
+np
+verb
+pp
+conj
+250096	pp
+np
+np
+pp
+np
+verb
+conj
+pp
+np
+np
+advp
+pp
+np
+np
+verb
+pp
+pron
+adj
+verb
+250116	pp
+conj
+noun
+verb
+pp
+noun
+conj
+adv
+verb
+adv
 verb
 noun
-noun
+conj
+verb
+np
+250132	pp
+pp
+pp
+pp
+adv
+verb
+pp
+np
+np
+np
+np
+pron
+verb
+np
+verb
+conj
+conj
+np
+adv
 np
 np
 conj
-250920	pp
+conj
 np
+np
+np
+np
+verb
+adv
+250162	np
+np
+np
+conj
+np
+np
+pp
+250170	np
+250172	np
+np
+250175	pp
+np
+verb
+conj
+adv
+pp
+conj
+pp
+np
+verb
+np
+np
+conj
 conj
 pp
 pp
 np
-verb
 conj
-verb
+pp
 np
+pp
+conj
+conj
+np
+np
+np
+np
+verb
+pp
+np
+advp
+250207	np
+np
+np
+conj
+np
+np
+np
+verb
+pp
+verb
+pp
+250219	np
+250221	conj
+conj
+conj
+pp
+np
+pp
 np
 pp
 adv
+pp
+pp
+np
+pp
+np
+pp
+np
+conj
+conj
+pp
+np
+np
+np
+np
+adj
+verb
+np
+adv
+pp
+pp
+np
+np
+np
+adj
+verb
+np
+noun
 conj
 verb
-250936	pp
+conj
+verb
+np
+conj
+conj
+verb
+np
+verb
+np
+conj
+conj
+verb
+np
+pp
+np
+adv
+np
+np
+verb
+pp
+pp
+np
+pp
+250284	np
+np
+pron
+conj
+verb
+verb
+np
+conj
+np
+verb
+adv
+verb
+pron
+verb
+np
+adv
+adv
+verb
+pp
+conj
+verb
+conj
+pron
+verb
+pp
+250310	pp
+np
+np
+verb
+verb
+conj
+pron
+pp
+np
+pp
+np
+conj
+conj
+verb
+noun
+pp
+pp
+np
+np
+np
+adv
+np
+pp
+np
+verb
+conj
+conj
+adj
+verb
+np
+np
+np
+np
+conj
+np
+np
+verb
+pron
+verb
+np
+np
+np
+verb
+conj
+verb
+np
+np
+np
+adv
+verb
+pron
+np
+conj
+verb
+verb
+pp
+np
+conj
+conj
+verb
+pp
+verb
+conj
+adv
+verb
+pron
+verb
+conj
+noun
+verb
+pp
+adv
+verb
+noun
+pron
+adv
+verb
+pron
+conj
+verb
+np
+verb
+adv
+pron
+conj
+verb
+verb
+np
+adv
+np
+verb
+pron
+verb
+250404	adj
+conj
+np
+verb
+conj
+np
+pp
+250413	adv
+conj
+verb
+np
+pp
+np
+np
+np
+pp
+verb
+np
+np
+conj
+verb
+np
+np
+np
+np
+conj
+250433	verb
+pron
+np
+pp
+conj
+pp
+verb
+conj
+np
+np
+np
+np
+noun
+conj
+pron
+adv
+verb
+250451	conj
+verb
+pp
+conj
+pp
+pron
+conj
+verb
+conj
+250461	verb
+pp
+conj
+pp
+adv
+verb
+adv
+verb
+conj
+pron
+verb
+pron
+noun
+pp
+noun
+verb
+pron
+verb
+conj
+noun
+pp
+conj
+noun
+pp
+noun
+conj
+np
+conj
+verb
+np
+np
 verb
 conj
 pp
-250941	pp
+pp
+verb
+np
+verb
 conj
 pp
+np
+verb
+np
+adj
+verb
+pp
+np
+np
+np
+np
 conj
-250946	np
+conj
+verb
+np
+np
+adj
+250518	np
+conj
+np
+pp
+np
+adv
+adv
+verb
+np
+np
+adj
+np
+pp
+conj
+conj
+np
+verb
+np
+adj
+verb
+np
+np
+conj
+verb
+adv
+pp
+pron
+adv
+verb
+np
+conj
+np
+noun
+adv
+conj
+250554	verb
+pp
+np
+verb
+conj
+np
+verb
+np
+np
+pp
+250565	np
+conj
+np
+np
+conj
+np
+np
+noun
+np
+conj
+np
+np
+np
+pp
+250581	np
+np
+conj
+verb
+noun
+verb
+conj
+noun
+verb
+conj
+np
+verb
+np
+pp
+250596	verb
+np
+conj
+np
+np
+np
+verb
+verb
+noun
+conj
+conj
+verb
+np
+verb
+pp
+np
+np
+np
+conj
+conj
+verb
+np
+noun
+verb
+conj
+verb
+np
+conj
+conj
+verb
+np
+adj
+verb
+pp
+np
+adv
+verb
+pron
+noun
+verb
+np
+conj
+np
+np
+verb
+np
+pp
+np
+np
+np
+pp
+verb
+pron
+250650	pp
+verb
+conj
+verb
+np
+conj
+conj
+verb
+pp
+np
+250661	np
+np
+np
+np
+pp
+np
+verb
+pp
+np
+np
+pp
+verb
+np
+adv
+conj
+verb
+pp
+np
+verb
+pp
+pron
+verb
+conj
+verb
+pron
+pp
+250688	np
+conj
+np
+np
+pron
+conj
+verb
+np
+noun
+adv
+verb
+conj
+np
+adv
+verb
+conj
+adv
+pp
+np
+conj
+conj
+adv
+verb
+conj
+adv
+np
+verb
+adv
+verb
+noun
+conj
+verb
+np
+pp
+np
+verb
+pp
+np
+pp
+conj
+noun
+adj
+pron
+conj
+verb
+pp
+adv
+verb
+conj
+np
+np
+verb
+pron
+conj
+verb
+conj
+verb
+pron
+np
+250748	np
+np
+pp
+pp
+np
+conj
+noun
+verb
+pp
+np
+verb
+pron
+conj
+pp
+verb
+conj
+np
+conj
+adj
+conj
+np
+250770	conj
+conj
+np
+conj
+pron
+verb
+noun
+adv
+verb
+conj
+np
+conj
+verb
+noun
+pp
+np
+pron
+verb
+noun
+conj
+verb
+pp
+adj
+np
+pp
+np
+verb
+conj
+conj
+np
+adj
+verb
+pron
+conj
+adj
+verb
+verb
+pp
+np
+pron
+conj
+verb
+adv
+verb
+250815	conj
+pron
+verb
+pron
+verb
+conj
+pron
+verb
+pron
+verb
+conj
+conj
+pron
+adv
+verb
+pron
+verb
+verb
+np
+conj
+adj
+conj
+250838	pron
+verb
+pron
+conj
+np
+np
+verb
+pp
+verb
+conj
+conj
+adv
+verb
+pp
+pron
+verb
+pp
+np
+np
+adj
+conj
+verb
+verb
+pron
+conj
+verb
+np
+adv
+250867	conj
+250869	pron
+verb
+verb
+conj
+250874	pron
+adv
+verb
+pron
+verb
+conj
+conj
+pron
+adv
+verb
+pron
+pron
+verb
+pron
+verb
+pron
+conj
+np
+np
+verb
+pp
+verb
+conj
+np
+250899	verb
+verb
+np
+pron
+np
+verb
+verb
+conj
+np
+np
+np
+pp
+np
+np
+verb
+conj
+250916	np
+pp
+np
+np
 verb
 np
 np
 np
+np
+conj
+verb
+pron
+pp
+250930	np
+np
+np
+verb
+pp
+np
+np
+np
+pron
+pron
+pron
+verb
+pp
+np
+np
+np
+np
+noun
+np
+pp
 250952	np
 np
-pp
-np
-pp
-verb
-pron
+conj
+conj
 np
 np
+conj
 verb
-pp
-pp
-verb
-pron
+np
 np
 conj
 np
-250970	adv
-pp
-adj
+np
 conj
-np
-verb
-np
-np
-np
-np
+adv
 np
 pp
-250983	np
-np
-250986	conj
-pp
-250989	np
-250991	np
+250970	np
 conj
 np
 np
 np
-pron
-verb
-conj
-pp
-np
-251002	conj
-conj
 np
 pp
-noun
-verb
-np
-conj
-verb
-np
-np
-conj
-noun
-verb
-conj
-conj
-adv
-verb
-noun
-adv
-noun
-pp
-pp
-conj
-pp
-pp
-verb
-adj
-np
-251032	np
-np
-251035	np
-pp
-np
-np
-conj
-np
-np
-pp
-np
-251045	pron
-verb
-np
-np
-conj
-verb
-conj
-np
-np
-verb
+250978	verb
 pron
 pp
-251058	pron
-verb
-251061	verb
+np
+np
+250984	np
+conj
+np
 np
 conj
-verb
-adv
-verb
-pp
-conj
-verb
-pron
-pp
-pp
-verb
-pp
-verb
-pron
 np
 np
 pp
 verb
-adv
+pp
+np
+np
+np
+np
 verb
+251000	pp
 np
 np
 conj
-251087	adv
+pp
 verb
 np
-verb
+pp
 np
-np
-verb
-adj
-adv
-verb
-conj
-np
-np
-np
-np
-251103	pp
 conj
 np
 np
 np
-adv
 verb
+pp
+251017	pp
+verb
+conj
+pp
+conj
+pp
+verb
+np
+np
+verb
+conj
+pp
+np
+np
 np
 conj
-verb
 np
-251115	verb
+np
 noun
 np
 conj
-verb
+np
+np
+251041	conj
 conj
-pron
-verb
-verb
-adv
-verb
-conj
-adv
-verb
-pron
-pp
-251132	verb
-conj
-pp
-adj
-conj
-verb
-pron
-conj
-pp
-pp
-251144	pron
-verb
-verb
-verb
-pp
-verb
-251152	np
-np
-pp
-pron
-verb
-pp
 np
 np
-conj
-verb
-pp
-np
-np
-verb
-conj
-pp
-noun
-verb
-pp
-np
-pp
-251175	np
-np
-251178	pp
-np
-np
-verb
-np
-pp
-251185	np
-np
-pp
-verb
-conj
-verb
-pp
-np
-np
-np
-np
-251197	adj
-conj
-conj
-adv
-verb
-pp
-np
-verb
-conj
 np
 noun
-verb
+pp
 np
 conj
-noun
 np
-conj
-noun
 np
-conj
 adv
 verb
+adv
 conj
-np
-np
-np
 verb
-pp
-np
-np
-pp
-251229	np
-verb
-pron
 conj
+pp
+verb
 noun
 verb
-pron
-adj
 adv
-pp
-pp
 verb
-adv
+pron
 conj
+251067	verb
 pp
-pron
-verb
+conj
 pp
 conj
 np
-adv
-pron
-adv
 verb
-verb
-verb
-conj
-np
-np
 pp
-np
 conj
-251262	adv
-adj
+conj
+pron
+np
+adv
 verb
 pron
+adv
+verb
+pron
+conj
+conj
 noun
 pp
-verb
-advp
-conj
-verb
-adv
-pp
 np
-np
-verb
-pp
-pp
-np
-conj
 conj
 adj
-verb
-verb
-np
 pp
 np
-np
-np
-np
-adv
-verb
-verb
-pp
-np
-np
-251298	adj
-conj
-conj
-adv
-verb
-pp
-np
-pp
-251308	np
-np
-251311	pp
-adv
-np
-verb
-251316	pp
-251319	conj
-251321	pp
-np
-np
-pp
-np
-verb
-conj
-pp
-np
-np
-advp
-pp
-np
-np
-verb
-pp
-pron
-adj
-verb
-251341	pp
-conj
-noun
-verb
-pp
-noun
-conj
-adv
-verb
-adv
-verb
-noun
-conj
-verb
-np
-251357	pp
-pp
-pp
-pp
-adv
-verb
-pp
-np
-np
-np
-np
-251369	pron
-verb
-np
-verb
-conj
-conj
-np
-adv
-np
-np
-conj
-conj
-np
-np
-np
-np
-verb
-adv
-251388	np
-np
-np
-conj
-np
-np
-pp
-251396	np
-251398	np
-np
-251401	pp
-np
-verb
-conj
-adv
-pp
-conj
-pp
-np
-verb
-np
-np
-conj
-conj
-pp
-pp
-np
-conj
-pp
-np
-pp
-conj
-conj
-np
-np
-np
-np
-verb
-pp
-np
-advp
-251433	np
-np
-np
-conj
-np
-np
-np
-verb
-pp
-verb
-pp
-251445	np
-251447	conj
-conj
-conj
-pp
-np
-pp
-np
-pp
-adv
-pp
-pp
-np
-pp
-np
-pp
-np
-conj
-conj
-pp
-np
-np
-np
-np
-adj
-verb
-np
-adv
-pp
-pp
-np
-np
-np
-adj
-verb
-np
-noun
-conj
-verb
-conj
-verb
-np
-conj
-conj
-verb
-np
-verb
-np
-conj
-conj
-verb
-np
-pp
-np
-adv
-np
-np
-verb
-pp
-pp
-np
-pp
-251510	np
-np
-pron
-conj
-verb
-verb
-np
-conj
-np
-verb
-adv
-verb
-pron
-verb
-np
-adv
-adv
-verb
-pp
-conj
-verb
-conj
-pron
-verb
-pp
-251536	pp
-np
-np
-verb
-verb
-conj
-pron
-pp
-np
-pp
-np
-conj
-conj
-verb
-noun
-pp
-pp
-np
-np
-np
-adv
-np
-pp
-np
-verb
-conj
-conj
-adj
-verb
-np
-np
-np
-np
-conj
-np
-np
-verb
-pron
-verb
-np
-np
-np
-verb
-conj
-verb
-np
-np
-np
-adv
-verb
-pron
-np
-conj
-verb
-verb
-pp
-np
-251594	conj
-conj
-verb
-pp
-verb
-conj
-adv
-verb
-pron
-verb
-conj
-251606	noun
-verb
-pp
-adv
-verb
-noun
-pron
-adv
-verb
-pron
-conj
-verb
-np
-verb
-adv
-pron
-conj
-verb
-verb
-np
-adv
-np
-verb
-pron
-verb
-251632	adj
-conj
-np
-verb
-conj
-np
-pp
-251641	adv
-conj
-verb
-np
-pp
-np
-np
-np
-pp
-verb
-np
-np
-conj
-verb
-np
-np
-np
-np
-conj
-251661	verb
-pron
-np
-pp
-conj
-pp
-verb
-conj
-np
-np
-np
-np
-251674	noun
-conj
-pron
-adv
-verb
-251680	conj
-verb
-pp
-conj
-pp
-pron
-conj
-251688	verb
-conj
-251691	verb
-pp
-conj
-pp
-adv
-verb
-adv
-verb
-conj
-pron
-verb
-pron
-noun
-pp
-noun
-verb
-pron
-verb
 conj
 noun
 pp
 conj
+conj
+np
+np
+verb
+np
+pp
+verb
+pp
+verb
+pp
+251109	verb
+np
+np
+np
+np
+pp
+np
+np
+verb
+np
+pp
+conj
+conj
 noun
-pp
 noun
-conj
-np
-conj
 verb
-np
-np
-verb
-conj
-pp
-251726	pp
-verb
-np
-verb
-conj
-pp
-np
-verb
-np
-adj
-verb
-pp
-np
-np
-np
-np
-conj
-conj
-verb
-np
-np
-adj
-251749	np
-conj
+adv
 np
 pp
+verb
+conj
+conj
+pp
+verb
+verb
+verb
+conj
+conj
+noun
+np
+np
+np
+verb
+verb
+pron
+conj
+np
+verb
+pron
+np
+verb
+251151	conj
+verb
 np
 adv
-adv
+pp
+conj
+verb
+np
+pp
+verb
+251162	np
+np
+np
 verb
 np
 np
+conj
+verb
+np
+conj
+conj
+noun
+np
+np
+conj
+np
+conj
+conj
+verb
+conj
+adv
+verb
+verb
+conj
+conj
+adv
 adj
 np
+np
+np
+np
+pp
+np
+np
+verb
+verb
+pp
+np
+conj
+np
+np
+np
+np
+np
+np
+np
+verb
+np
+conj
+np
+verb
+251214	conj
+pp
+verb
 pp
 conj
+np
+np
+np
+verb
+pp
+np
+np
+np
+pp
+np
+np
+np
+np
+np
+np
+np
+verb
+conj
 conj
 np
-verb
 np
-adj
-verb
+251241	conj
+pp
 np
+251245	adj
+conj
+conj
+np
+np
+np
+np
+np
+np
+verb
+251256	np
+pp
+verb
+251260	verb
+np
+np
+np
+np
+np
+conj
+verb
 np
 conj
 verb
 adv
-pp
+verb
+noun
+pron
+conj
+verb
+pron
+pron
+verb
+conj
+conj
 pron
 adv
 verb
-np
-conj
-np
-noun
+verb
+pp
+verb
 adv
 conj
-251785	verb
+np
+np
+verb
+np
+np
+conj
+pron
+verb
+conj
+verb
+adv
+verb
+conj
+np
+np
+verb
+np
+conj
+verb
+np
+verb
+pron
+np
+np
+np
+conj
 pp
-np
-verb
-conj
-np
-verb
-np
-np
-pp
-251796	np
-conj
-np
-np
-conj
-np
-np
-noun
-np
-conj
-np
-np
-np
-pp
-251812	np
-np
-conj
-verb
-noun
-verb
-conj
-noun
-verb
-conj
-np
-verb
-np
-pp
-251827	verb
-np
-conj
-np
-np
-np
-verb
-verb
-noun
-251837	conj
-conj
-verb
-np
 verb
 pp
-np
-np
-np
-conj
-conj
-251849	verb
-np
-noun
 verb
 conj
-verb
-np
-251857	conj
 conj
 verb
 np
 adj
 verb
 pp
-np
-adv
-verb
-pron
-noun
-verb
-np
-conj
-np
-np
-verb
-np
-pp
-np
-np
-np
-pp
-verb
-pron
-251884	pp
-verb
-conj
-verb
-np
-251890	conj
-conj
-verb
-pp
-np
-251896	np
-np
-np
-np
-pp
-np
-verb
-pp
-np
-np
-pp
-verb
-np
-adv
-conj
-verb
-pp
-np
-verb
-pp
-pron
-verb
-conj
-verb
-pron
-pp
-251923	np
-conj
-np
-np
-pron
-conj
-verb
-np
-noun
-adv
-verb
-conj
-251936	np
-adv
-verb
-conj
-adv
-pp
-np
-conj
-conj
-adv
-verb
-conj
-adv
-np
-verb
-adv
-verb
-noun
-conj
-verb
-np
-pp
-np
-verb
-pp
-np
-pp
-conj
-noun
-adj
-pron
-conj
-verb
-pp
-adv
-verb
-conj
-np
-np
-verb
-pron
-conj
-verb
-conj
-verb
-pron
-np
-251984	np
-np
-pp
-pp
-np
-conj
-noun
-verb
-pp
-np
-verb
-pron
-conj
-pp
-verb
-conj
-np
-conj
-adj
-conj
-np
-252006	conj
-conj
-np
-conj
-pron
-verb
-noun
-adv
-verb
-conj
-252018	np
-conj
-verb
-noun
-pp
-np
-pron
-verb
-noun
-conj
-verb
 pp
 adj
+verb
+conj
+pron
+verb
+adv
+verb
 np
+np
+np
+np
+np
+pp
+verb
+pron
+adj
+pp
+np
+pron
+conj
+verb
+pron
+adv
+verb
+conj
+pron
+verb
+pron
+adv
+verb
+pron
+conj
+verb
+pron
+adv
+verb
+pron
+conj
+verb
+pp
+conj
+np
+pp
+pron
+pp
+pron
+np
+np
+adv
+verb
+conj
 pp
 np
 verb
+pron
+adv
+adv
+pp
+pp
+np
+pron
+verb
+pron
+verb
+pp
+np
+noun
+verb
+pron
+verb
+251400	verb
+adv
 conj
+verb
+pron
+verb
+pp
+np
+np
+pron
+adv
+verb
+pp
+pron
+pron
+verb
+pp
+np
+np
+np
+251421	conj
+conj
+conj
+conj
+conj
+conj
+conj
+verb
+conj
+pp
+verb
+np
+np
+verb
+pp
+conj
+np
+conj
+pp
+np
+verb
+pp
+verb
+pron
+verb
+conj
+conj
+251449	conj
+conj
+conj
+conj
+conj
+verb
+conj
+verb
+conj
+conj
+conj
+conj
+np
+np
+verb
+pron
+verb
+pp
+251468	np
+np
+np
+np
+pp
+251475	np
+np
+noun
+verb
+pp
+adv
+verb
+verb
+pron
+np
+np
+pp
+np
+noun
+pron
+verb
+adj
+conj
+np
+np
+np
+verb
+conj
+noun
+verb
+np
+pp
+np
+pp
+251505	np
+np
+np
+np
+np
+pp
+pron
+verb
+pron
+251515	np
+conj
+np
+conj
+np
+conj
+np
+conj
+np
+conj
+np
+pron
+np
+conj
+pp
+251531	np
+np
+pp
+np
+np
+verb
+pp
+adj
+pp
+np
+ptcl
+adv
+pron
+conj
+verb
+np
+np
+np
+251550	conj
+251552	np
+np
+pp
+pron
+noun
+conj
+conj
+verb
+np
+adj
+noun
+conj
+pp
+verb
+pron
+noun
+pron
+verb
+251571	np
+np
+np
+pron
+np
+np
+conj
+np
+np
+np
+verb
+pp
+np
+conj
+np
+pron
+251588	pp
+np
+np
+verb
+conj
+verb
+np
+noun
+251597	adj
+conj
+conj
+np
+pp
+251603	noun
+verb
+251606	np
+np
+adv
+conj
+verb
+conj
+verb
+np
+conj
+conj
+np
+np
+pp
+np
+np
+verb
+251623	pp
+conj
+pp
+verb
+verb
+pron
+conj
+np
+verb
+np
+conj
+verb
+251636	np
+verb
+np
+conj
+verb
+pron
+conj
+verb
+noun
+pp
+np
+adv
+verb
+np
+conj
+verb
+251653	verb
+pron
+verb
+conj
+verb
+pron
+verb
+conj
+conj
+251664	verb
+conj
+verb
+conj
+np
+np
+verb
+verb
+conj
+np
+np
+conj
+pp
+np
+verb
+pron
+conj
+verb
+pp
+np
+np
+conj
+conj
+verb
+np
+np
+pp
+np
+np
+conj
+conj
+pron
+verb
+verb
+pron
+conj
+verb
+verb
+verb
+pron
+conj
+pron
+adv
+verb
+np
+conj
+np
+pron
+verb
+np
+251715	pron
+verb
+verb
+np
+verb
+np
+verb
+pron
+pron
+verb
+adv
+conj
+verb
+np
+np
+np
+pp
+np
+np
+verb
+pron
+conj
+pp
+pron
+conj
+pp
+conj
+conj
+251744	verb
+np
+251747	verb
+np
+conj
+verb
+np
+np
+verb
+pp
+np
+np
+np
+verb
+pp
+conj
+conj
+verb
+np
+np
+np
+np
+pp
+251769	np
+pron
+verb
+pp
+pron
+adv
+verb
+251777	pp
+pp
+conj
+pp
+pp
+conj
+pp
+pp
+np
+verb
+251788	verb
+np
+np
+np
+np
+conj
+adv
+verb
+verb
+conj
+verb
+pp
+np
+adv
+verb
+pron
+adv
+np
+pron
+adv
+verb
+np
+np
+verb
+noun
+conj
+verb
+pp
+np
+conj
+verb
+np
+np
+np
+np
+pp
+conj
+np
+np
+np
+np
+verb
+noun
+conj
+251833	conj
+verb
+noun
+pp
+np
+conj
+conj
+verb
+noun
+conj
+adv
+np
+verb
+pron
+noun
+pp
+conj
+verb
+conj
+pp
+conj
+verb
+pron
+conj
+verb
+conj
+251860	adv
+verb
+noun
+verb
+251866	conj
+np
+pp
+noun
+conj
+verb
+np
+pp
+adv
+verb
+pp
+conj
+251879	pp
+conj
+conj
+pp
+verb
+np
+np
+np
+conj
+verb
+verb
+verb
+pp
+251893	np
+conj
+np
+conj
+verb
+pp
+adv
+verb
+noun
+251903	np
+conj
+np
+np
+np
+conj
+np
+np
+np
+pp
+np
+pp
+pp
+verb
+conj
+pron
+conj
+np
+verb
+conj
+adv
+pp
+251926	verb
+conj
+np
+np
+np
+conj
+np
+verb
+verb
+np
+np
+np
+adv
+verb
+np
+conj
+noun
+pp
+np
+verb
+noun
+conj
+verb
+conj
+251951	np
+np
+pp
+np
+np
+verb
+verb
+pp
+np
+conj
+np
+pp
+adv
+verb
+adv
+verb
+pp
+np
+np
+pron
+verb
+pp
+np
+pron
+verb
+noun
+verb
+conj
+pron
+verb
+pp
+np
+pron
+verb
+noun
+pp
+verb
+conj
+pron
+verb
+pp
+np
+verb
+251995	pp
+np
+np
+conj
+pp
+np
+np
+pron
+verb
+np
+np
+np
+pron
+verb
+conj
+conj
+252012	verb
+pp
+np
+np
+252017	conj
+verb
+pp
+np
+np
+conj
+np
+pron
+verb
+pp
+verb
+noun
+conj
+verb
+pp
+noun
+conj
+verb
+pp
+verb
+conj
+np
+np
+verb
+pp
+adv
+verb
+adv
+conj
+verb
+np
+conj
+conj
+np
 conj
 np
 adj
 verb
+pp
+np
+verb
 pron
+np
 conj
+pron
+verb
+np
+np
+verb
+adv
+conj
+verb
+pp
+pron
+adv
+verb
+adv
+conj
+verb
+pron
+adv
+verb
+adv
+conj
+verb
+pp
+verb
+adv
+conj
+verb
+conj
+adv
+verb
+conj
+verb
+adv
 adj
-verb
-verb
-pp
-np
-pron
-conj
-verb
-adv
-verb
-252053	conj
-pron
-verb
-pron
-verb
-conj
-pron
-verb
-pron
-verb
-252064	conj
-conj
-pron
-adv
-verb
-pron
-verb
-verb
-np
-conj
-adj
-conj
-252077	pron
-verb
-pron
-conj
 np
 np
 verb
-pp
-verb
-conj
-conj
-adv
-verb
-pp
-252092	pron
-verb
-pp
-np
-np
 adj
 conj
+adv
+adj
+verb
+np
+noun
+conj
+verb
+noun
+pron
+verb
+np
+np
+conj
+252113	np
+pp
+np
+conj
+pp
+np
+conj
+verb
+adv
+verb
+pp
+np
+np
+verb
+np
+np
+conj
+pp
+np
+np
+np
+np
+np
+conj
+verb
+noun
+adv
+verb
+adj
+noun
+verb
+pron
+verb
+pron
+pp
+np
+pp
+np
+verb
+pron
+noun
+conj
+verb
+conj
 verb
 verb
 pron
+adv
+verb
+adj
+verb
+pron
+adv
+verb
+pp
+conj
+np
+verb
+np
+np
+verb
+np
+np
+pp
+np
+verb
 conj
 verb
+verb
+conj
+verb
+np
+np
 np
 adv
-252107	conj
-252109	pron
 verb
-verb
+np
 conj
-252114	pron
+noun
+verb
+pp
+np
+np
+np
 adv
 verb
+np
+np
+np
 pron
 verb
 conj
-conj
-pron
 adv
 verb
-pron
-pron
-verb
-pron
-verb
-pron
-conj
-np
-np
-verb
 pp
-verb
-conj
-np
-252139	verb
-verb
-np
 pron
-np
 verb
-verb
-conj
-np
-np
-np
-pp
-np
-np
-verb
-conj
-252156	np
-pp
-np
-np
-verb
-np
-np
-np
 np
 conj
 verb
-pron
+np
 pp
-252170	np
-np
-np
-verb
-pp
-np
-np
-np
-pron
-pron
-pron
-verb
-pp
-np
-np
-np
 np
 noun
 np
-pp
-252192	np
 np
-conj
-conj
+verb
 np
 np
+verb
+252224	pron
+verb
+adj
 conj
 verb
 np
 np
 conj
-np
-np
-conj
-adv
-np
-pp
-252210	np
-conj
-np
-np
-np
-np
-pp
-252218	verb
 pron
-pp
-np
-np
-252224	np
-conj
-np
-252228	np
-conj
-np
-np
-pp
 verb
-pp
-np
-np
-np
+pron
 np
 verb
-252241	pp
+pron
 np
-np
-conj
-pp
+pron
+adv
 verb
+noun
 np
-pp
-np
-conj
-np
-np
-np
-verb
-pp
-252258	pp
-verb
+adv
 conj
 pp
-conj
 pp
-verb
-np
-np
-verb
-conj
-pp
-np
-np
-np
-conj
 np
 np
 noun
+pp
 np
+verb
+conj
+conj
+noun
+adv
+pp
 conj
 np
-np
-252282	conj
+adv
+verb
+noun
+pron
 conj
+pron
+verb
+noun
+pron
+adv
+verb
+np
+conj
+verb
+np
+conj
+verb
+conj
+verb
+verb
+pron
+np
+252284	np
 252286	np
 np
-np
-noun
-pp
-np
-conj
-np
-np
-adv
-verb
-adv
-conj
-verb
-conj
-pp
-verb
-noun
-verb
-adv
-verb
-pron
-conj
-252310	verb
-pp
-conj
-pp
-conj
-np
-verb
-pp
-conj
-conj
-pron
-np
-adv
-verb
-pron
-adv
-verb
-pron
-conj
-conj
-noun
-pp
-np
-conj
-adj
-pp
-np
-conj
-noun
-pp
-conj
-conj
-np
-np
-verb
-np
-pp
-verb
-pp
-verb
-pp
-252352	verb
-np
-np
-np
-np
-pp
-np
-np
-verb
-np
-pp
-conj
-conj
-noun
-noun
-verb
-adv
-np
-pp
-verb
-conj
-conj
-pp
-verb
-verb
-verb
-conj
-conj
-noun
-np
-np
-np
-verb
-verb
-pron
-conj
-np
-verb
-pron
-np
-verb
-252394	conj
-verb
-np
-adv
-pp
-conj
-verb
-252402	np
-pp
-verb
-252406	np
-np
-np
-verb
-np
-np
-conj
-verb
-np
-conj
-conj
-noun
-np
-np
-conj
-np
-conj
-conj
-verb
-conj
-adv
-verb
-verb
-conj
-conj
-adv
-adj
-np
-np
-np
-np
-pp
-np
-np
-verb
-verb
-pp
-np
-conj
-np
-np
-np
-np
-np
-np
-np
-verb
-252454	np
-conj
-np
-verb
-252459	conj
-pp
-verb
-pp
-conj
-np
-np
-np
-verb
-pp
-np
-np
-np
-pp
-np
-np
-np
-np
-np
-np
-np
-verb
-conj
-conj
-np
-np
-252486	conj
-pp
-np
-252490	adj
-conj
-conj
-np
-np
-np
-np
-np
-np
-verb
-252501	np
-pp
-verb
-252505	verb
-np
-np
-np
-np
-np
-conj
-verb
-np
-conj
-verb
-adv
-verb
-noun
-pron
-conj
-verb
-pron
-pron
-verb
-conj
-conj
-pron
-adv
-verb
-verb
-pp
-verb
-adv
-conj
-np
-np
-verb
-np
-np
-conj
-pron
-verb
-conj
-verb
-adv
-verb
-conj
-np
-np
-verb
-np
-conj
-verb
-np
-verb
-pron
-np
-np
-np
-conj
-pp
-verb
-pp
-252565	verb
-conj
-conj
-252569	verb
-np
-adj
-verb
-pp
-pp
-adj
-verb
-conj
-pron
-verb
-adv
-verb
-np
-np
-np
-np
-np
-pp
-verb
-pron
-adj
-pp
-np
-pron
-conj
-verb
-pron
-adv
-verb
-conj
-pron
-verb
-pron
-adv
-verb
-pron
-conj
-verb
-pron
-adv
-verb
-pron
-conj
-verb
-pp
-conj
-np
-pp
-pron
-pp
-pron
-np
-np
-adv
-verb
-conj
-pp
-np
-verb
-pron
-adv
-adv
-pp
-pp
-np
-pron
-verb
-pron
-verb
-pp
-np
-noun
-verb
-pron
-verb
-252649	verb
-adv
-conj
-verb
-pron
-verb
-pp
-np
-np
-pron
-adv
-verb
-pp
-252663	pron
-pron
-verb
-pp
-np
-np
-np
-252672	conj
-conj
-conj
-conj
-conj
-conj
-conj
-verb
-conj
-252682	pp
-verb
-np
-np
-verb
-pp
-conj
-np
-conj
-pp
-np
-verb
-pp
-verb
-pron
-verb
-conj
-conj
-252701	conj
-conj
-conj
-conj
-conj
-verb
-conj
-verb
-conj
-conj
-conj
-conj
-np
-np
-verb
-pron
-verb
-pp
-252720	np
-np
-np
-np
-pp
-252727	np
-np
-252730	noun
-verb
-pp
-adv
-verb
-verb
-pron
-np
-np
-pp
-np
-noun
-pron
-verb
-adj
-conj
-np
-np
-np
-verb
-conj
-noun
-verb
-np
-pp
-np
-pp
-252759	np
-np
-np
-np
-np
-pp
-pron
-verb
-252768	pron
-252770	np
-conj
-np
-conj
-np
-conj
-np
-conj
-np
-conj
-np
-pron
-np
-conj
-pp
-252786	np
-np
-pp
-np
-np
-verb
-pp
-adj
-pp
-np
-ptcl
-adv
-pron
-conj
-verb
-np
-np
-np
-252805	conj
-252807	np
-np
-pp
-pron
-noun
-conj
-conj
-verb
-np
-adj
-noun
-conj
-pp
-verb
-pron
-noun
-252824	pron
-verb
-252827	np
-np
-np
-pron
-np
-np
-conj
-np
-np
-np
-verb
-pp
-np
-conj
-np
-pron
-252844	pp
-np
-np
-verb
-conj
-verb
-np
-noun
-252853	adj
-conj
-conj
-np
-pp
-252859	noun
-verb
-252862	np
-np
-252866	adv
-conj
-verb
-conj
-verb
-np
-conj
-conj
-np
-np
-pp
-np
-np
-verb
-252881	pp
-conj
-pp
-verb
-verb
-pron
-conj
-np
-verb
-np
-conj
-verb
-252894	np
-verb
-np
-conj
-verb
-pron
-conj
-verb
-noun
-pp
-np
-adv
-verb
-np
-conj
-verb
-252911	verb
-pron
-verb
-conj
-verb
-pron
-verb
-conj
-conj
-252922	verb
-conj
-verb
-conj
-np
-np
-verb
-verb
-conj
-np
-np
-conj
-252935	pp
-np
-verb
-pron
-conj
-verb
-pp
-np
-np
-conj
-conj
-verb
-np
-np
-pp
-np
-np
-conj
-conj
-pron
-verb
-verb
-pron
-conj
-verb
-verb
-verb
-pron
-conj
-pron
-adv
-verb
-np
-conj
-np
-pron
-verb
-np
-252974	pron
-verb
-verb
-np
-verb
-np
-verb
-pron
-pron
-verb
-adv
-conj
-verb
-np
-np
-np
-pp
-np
-np
-verb
-252995	pron
-conj
-pp
-pron
-conj
-pp
-conj
-conj
-253004	verb
-np
-253007	verb
-np
-conj
-verb
-np
-np
-verb
-pp
-np
-np
-np
-verb
-pp
-conj
-conj
-verb
-np
-np
-np
-np
-pp
-253031	np
-pron
-verb
-pp
-pron
-adv
-verb
-253039	pp
-pp
-conj
-pp
-pp
-conj
-pp
-pp
-np
-verb
-253050	verb
-np
-np
-np
-np
-conj
-adv
-verb
-verb
-conj
-verb
-pp
-np
-253064	adv
-verb
-pron
-adv
-np
-pron
-adv
-verb
-np
-np
-verb
-noun
-conj
-verb
-pp
-np
-253081	conj
-verb
-np
-np
-np
-np
-pp
-conj
-np
-np
-np
-np
-verb
-noun
-conj
-253097	conj
-verb
-noun
-pp
-np
-conj
-conj
-verb
-noun
-253107	conj
-adv
-np
-verb
-pron
-noun
-pp
-conj
-verb
-conj
-pp
-conj
-verb
-pron
-conj
-verb
-conj
-253125	adv
-verb
-noun
-verb
-253131	conj
-np
-pp
-noun
-conj
-verb
-np
-pp
-adv
-verb
-253142	pp
-conj
-253145	pp
-conj
-conj
-pp
-253150	verb
-np
-np
-np
-conj
-verb
-verb
-verb
-pp
-253160	np
-conj
-np
-conj
-verb
-pp
-adv
-verb
-noun
-253170	np
-conj
-np
-np
-np
-conj
-np
-np
-np
-pp
-np
-pp
-pp
-verb
-conj
-pron
-conj
-np
-verb
-conj
-adv
-pp
-253193	verb
-conj
-np
-np
-np
-conj
-np
-verb
-verb
-np
-np
-np
-adv
-verb
-np
-conj
-noun
-pp
-np
-verb
-noun
-conj
-verb
-conj
-253218	np
-np
-pp
-np
-np
-verb
-verb
-pp
-np
-conj
-np
-pp
-adv
-verb
-adv
-verb
-pp
-np
-np
-253238	pron
-verb
-pp
-np
-pron
-verb
-noun
-verb
-conj
-253248	pron
-verb
-pp
-np
-pron
-verb
-noun
-pp
-verb
-conj
-pron
-verb
-253262	pp
-np
-verb
-253266	pp
-np
-np
-conj
-pp
-np
-np
-pron
-verb
-np
-253277	np
-np
-pron
-verb
-conj
-253283	conj
-253285	verb
-pp
-np
-np
-253290	conj
-verb
-pp
-np
-np
-conj
-np
-pron
-verb
-pp
-verb
-noun
-conj
-verb
-pp
-noun
-conj
-verb
-pp
-verb
-conj
-np
-np
-verb
-pp
-adv
-verb
-253318	adv
-conj
-verb
-np
-conj
-conj
-np
-conj
-np
-adj
-verb
-pp
-np
-verb
-pron
-np
-conj
-pron
-verb
-np
-np
-verb
-adv
-conj
-verb
-pp
-pron
-adv
-verb
-adv
-conj
-verb
-pron
-adv
-verb
-adv
-conj
-verb
-pp
-verb
-adv
-conj
-verb
-conj
-adv
-verb
-conj
-verb
-adv
-adj
-np
-np
-verb
-adj
-conj
-adv
-adj
-verb
-np
-noun
-conj
-verb
-noun
-pron
-verb
-np
-np
-conj
-253387	np
-pp
-np
-conj
-pp
-np
-conj
-verb
-adv
-verb
-pp
-np
-np
-verb
-np
-np
-conj
-pp
-np
-np
-np
-np
-np
-conj
-verb
-noun
-adv
-verb
-adj
-noun
-verb
-253419	pron
-verb
-pron
-pp
-np
-pp
-np
-verb
-pron
-noun
-conj
-verb
-conj
-verb
-253434	verb
-pron
-adv
-verb
-adj
-verb
-pron
-adv
-verb
-pp
-conj
-np
-verb
-np
-np
-verb
-np
-np
-pp
-np
-verb
-conj
-verb
-verb
-conj
-verb
-np
-np
-np
-adv
-verb
-np
-conj
-noun
-verb
-pp
-np
-np
-np
-adv
-verb
-np
-253477	np
-np
-pron
-verb
-conj
-adv
-verb
-pp
-pron
-verb
-np
-conj
-verb
-np
-pp
-np
-noun
-np
-np
-verb
-np
-np
-verb
-253501	pron
-verb
-adj
-conj
-verb
-np
-np
-conj
-pron
-verb
-pron
-np
-verb
-pron
-253516	np
-pron
-adv
-verb
-noun
-np
-adv
-conj
-pp
-pp
-np
-np
-noun
-pp
-np
-verb
-conj
-conj
-noun
-adv
-pp
-conj
-np
-adv
-verb
-noun
-pron
-conj
-pron
-verb
-noun
-pron
-adv
-verb
-np
-conj
-verb
-253554	np
-conj
-verb
-conj
-verb
-verb
-pron
-np
-253563	np
-253565	np
-np
 adv
 verb
 conj
@@ -237576,10 +237576,10 @@ np
 conj
 noun
 verb
-253581	verb
+252302	verb
 np
 np
-253585	pp
+252306	pp
 conj
 pp
 conj
@@ -237599,7 +237599,7 @@ pp
 verb
 verb
 conj
-253606	verb
+verb
 conj
 verb
 adv
@@ -237614,7 +237614,7 @@ verb
 pron
 conj
 conj
-253622	np
+252342	np
 np
 np
 conj
@@ -237624,7 +237624,7 @@ np
 advp
 np
 np
-253633	conj
+252353	conj
 verb
 np
 pp
@@ -237666,12 +237666,12 @@ np
 adj
 np
 np
-253676	conj
 conj
-253679	np
+conj
+252398	np
 np
 verb
-253683	pron
+252402	pron
 conj
 noun
 verb
@@ -237688,10 +237688,10 @@ verb
 adv
 verb
 np
-253701	conj
+conj
 conj
 verb
-253705	pron
+252423	pron
 np
 verb
 conj
@@ -237699,19 +237699,19 @@ np
 pron
 verb
 conj
-253714	verb
+verb
 noun
 conj
 pron
 verb
-253720	adv
+adv
 np
 verb
 pron
 conj
 np
 verb
-253728	adj
+252444	adj
 verb
 conj
 verb
@@ -237729,7 +237729,7 @@ verb
 verb
 conj
 np
-253747	conj
+252463	conj
 pp
 conj
 verb
@@ -237759,7 +237759,7 @@ verb
 pron
 conj
 conj
-253778	pron
+252494	pron
 pp
 np
 np
@@ -237805,7 +237805,7 @@ np
 verb
 conj
 verb
-253825	verb
+verb
 pp
 verb
 verb
@@ -237834,14 +237834,14 @@ pp
 np
 adj
 conj
-253855	np
+252570	np
 conj
 np
 np
 np
 conj
 conj
-253863	pron
+252578	pron
 adv
 verb
 np
@@ -237868,11 +237868,11 @@ pp
 conj
 np
 verb
-253891	np
+np
 np
 conj
 conj
-253896	adj
+252610	adj
 np
 np
 conj
@@ -237895,7 +237895,7 @@ conj
 verb
 pron
 conj
-253920	pp
+252634	pp
 conj
 pp
 conj
@@ -237927,7 +237927,7 @@ np
 np
 np
 conj
-253953	verb
+252667	verb
 np
 np
 conj
@@ -237949,13 +237949,13 @@ conj
 verb
 conj
 pp
-253976	np
+252690	np
 verb
 pron
 np
 verb
 pp
-253983	verb
+252697	verb
 pp
 pron
 verb
@@ -237971,7 +237971,7 @@ verb
 np
 conj
 conj
-254000	pp
+252714	pp
 np
 np
 verb
@@ -237991,20 +237991,20 @@ np
 conj
 pp
 np
-254021	verb
+verb
 conj
 np
 pp
-254026	np
+252739	np
 verb
 pron
-254031	conj
+conj
 noun
 pp
 np
 np
 np
-254038	conj
+conj
 noun
 pp
 np
@@ -238024,11 +238024,11 @@ verb
 pp
 np
 adj
-254059	verb
+verb
 np
 verb
 np
-254064	np
+np
 pp
 adj
 np
@@ -238055,11 +238055,11 @@ np
 verb
 verb
 verb
-254092	verb
+252800	verb
 conj
 adv
 verb
-254097	verb
+verb
 pp
 verb
 verb
@@ -238068,7 +238068,7 @@ verb
 np
 pp
 verb
-254107	np
+252814	np
 verb
 conj
 np
@@ -238092,7 +238092,7 @@ pp
 pp
 np
 verb
-254132	pron
+252839	pron
 verb
 adj
 conj
@@ -238101,7 +238101,7 @@ noun
 np
 verb
 conj
-254143	pron
+pron
 noun
 pron
 verb
@@ -238164,7 +238164,7 @@ noun
 verb
 np
 conj
-254207	verb
+252912	verb
 noun
 np
 np
@@ -238196,7 +238196,7 @@ advp
 conj
 np
 verb
-254240	np
+np
 conj
 verb
 adj
@@ -238206,14 +238206,14 @@ verb
 conj
 noun
 verb
-254251	pp
+252955	pp
 pp
 np
 conj
 pp
 pp
 np
-254259	pp
+pp
 conj
 np
 verb
@@ -238223,10 +238223,10 @@ verb
 pp
 np
 verb
-254270	verb
+verb
 adj
 np
-254274	np
+np
 np
 np
 np
@@ -238250,7 +238250,7 @@ verb
 np
 noun
 verb
-254300	conj
+253000	conj
 adv
 verb
 adv
@@ -238282,7 +238282,7 @@ np
 conj
 np
 conj
-254333	np
+np
 verb
 np
 noun
@@ -238318,15 +238318,15 @@ pp
 adv
 verb
 adv
-254370	conj
+253069	conj
 adv
-254373	conj
+253072	conj
 adv
-254376	conj
+253075	conj
 conj
 verb
-254380	np
-254382	conj
+253079	np
+253081	conj
 np
 np
 adv
@@ -238348,7 +238348,7 @@ conj
 verb
 noun
 verb
-254405	verb
+verb
 adv
 verb
 adv
@@ -238370,2224 +238370,2224 @@ verb
 np
 np
 np
+253126	conj
+verb
+conj
+verb
+conj
+np
+verb
+pron
+pron
+conj
+conj
+verb
+noun
+pp
+pron
+conj
+verb
+np
+adj
+pp
+np
+np
+verb
+verb
+np
+noun
+verb
+conj
+verb
+noun
+verb
+verb
+conj
+np
+conj
+adv
+verb
+noun
+adv
+verb
+conj
+verb
+np
+np
+conj
+pron
+verb
+conj
+adj
+pron
+verb
+conj
+conj
+conj
+verb
+np
+verb
+conj
+conj
+verb
+np
+verb
+253189	conj
+conj
+conj
+verb
+conj
+conj
+verb
+np
+verb
+pp
+conj
+noun
+253202	conj
+conj
+253205	conj
+conj
+verb
+verb
+pron
+conj
+pron
+verb
+np
+np
+conj
+np
+pron
+verb
+np
+np
+adj
+conj
+verb
+np
+np
+np
+verb
+conj
+verb
+pron
+verb
+noun
+conj
+pron
+verb
+np
+conj
+np
+verb
+np
+conj
+conj
+np
+pp
+noun
+verb
+np
+adv
+conj
+pron
+verb
+conj
+pron
+verb
+adv
+adv
+verb
+253259	np
+conj
+253262	conj
+pp
+253265	conj
+adj
+adj
+pp
+conj
+verb
+pron
+adj
+verb
+pron
+adj
+conj
+conj
+pp
+np
+np
+verb
+adv
+pp
+verb
+adv
+np
+np
+pron
+verb
+pp
+noun
+verb
+adv
+verb
+conj
+np
+np
+253299	conj
+verb
+np
+np
+np
+253305	conj
+conj
+253308	conj
+conj
+np
+pp
+np
+conj
+pp
+verb
+np
+adj
+np
+conj
+adj
+np
+conj
+conj
+253325	np
+np
+verb
+conj
+np
+253331	np
+np
+pp
+adv
+pp
+verb
+np
+np
+np
+adj
+conj
+adj
+conj
+adj
+253346	np
+pp
+verb
+adj
+adv
+verb
+noun
+conj
+verb
+noun
+conj
+pp
+np
+np
+verb
+pron
+pron
+verb
+pp
+verb
+pp
+np
+adj
+adv
+verb
+pron
+pp
+pron
+verb
+conj
+verb
+conj
+verb
+verb
+conj
+adv
+pp
+np
+conj
+pron
+adv
+pp
+noun
+verb
+verb
+conj
+253393	np
+253395	np
+np
+np
+verb
+conj
+adv
+pron
+verb
+np
+np
+verb
+pp
+np
+pp
+np
+conj
+np
+adv
+pron
+verb
+conj
+conj
+verb
+np
+np
+verb
+pron
+verb
+pp
+pron
+conj
+verb
+pp
+np
+np
+verb
+conj
+253433	pp
+np
+conj
+pp
+np
+np
+np
+np
+verb
+np
+conj
+np
+253446	np
+conj
+np
+verb
+pron
+np
+verb
+pp
+pp
+253456	conj
+adv
+pp
+np
+verb
+np
+np
+253464	conj
+253466	np
+np
+253469	conj
+verb
+pron
+conj
+np
+np
+verb
+pron
+pp
+np
+np
+verb
+conj
+noun
+np
+verb
+pp
+np
+pp
+verb
+np
+np
+np
+np
+conj
+pp
+verb
+np
+conj
+verb
+253500	pp
+verb
+pron
+pp
+conj
+np
+np
+verb
+conj
+adv
+verb
+verb
+noun
+pp
+np
+np
+conj
+adv
+verb
+np
+np
+np
+conj
+verb
+pron
+np
+np
+conj
+adv
+noun
+verb
+verb
+253533	np
+np
+np
+np
+conj
+verb
+verb
+noun
+pp
+noun
+verb
+np
+conj
+np
+np
+verb
+pron
+np
+253552	conj
+pp
+verb
+pp
+verb
+pron
+pp
+np
+pp
+np
+np
+verb
+conj
+np
+np
+np
+pp
+conj
+np
+adj
+verb
+noun
+verb
+np
+np
+verb
+np
+verb
+adv
+conj
+verb
+pron
+pp
+conj
+verb
+pron
+pp
+253590	np
+verb
+pron
+pp
+np
+pp
+verb
+pron
+np
+253600	pp
+np
+verb
+np
+np
+np
+conj
+verb
+np
+np
+np
+adj
+verb
+pp
+np
+verb
+conj
+253618	np
+np
+pp
+253622	np
+pp
+np
+253626	conj
+verb
+np
+verb
+pron
+adv
+verb
+noun
+pp
+pp
+np
+253638	conj
+253640	pp
+np
+253643	conj
+pp
+np
+np
+conj
+pron
+253650	pp
+conj
+pp
+pp
+np
+verb
+np
+np
+np
+adv
+conj
+verb
+verb
+np
+conj
+verb
+noun
+conj
+253669	pp
+np
+verb
+conj
+conj
+verb
+253676	verb
+pron
+adv
+verb
+pp
+conj
+pron
+adv
+verb
+verb
+conj
+adv
+verb
+np
+verb
+pp
+adv
+conj
+adv
+noun
+verb
+pp
+np
+np
+noun
+conj
+verb
+verb
+pp
+pp
+np
+conj
+verb
+pp
+np
+verb
+conj
+verb
+253715	verb
+pron
+conj
+pp
+verb
+adv
+conj
+pron
+adj
+pp
+verb
+adv
+conj
+verb
+pp
+verb
+np
+verb
+conj
+253735	conj
+np
+verb
+pp
+np
+np
+253742	np
+np
+pp
+verb
+conj
+conj
+noun
+verb
+pron
+conj
+conj
+np
+np
+verb
+np
+verb
+adv
+pp
+np
+verb
+pron
+253764	pron
+conj
+verb
+conj
+verb
+pron
+np
+np
+verb
+pp
+pp
+verb
+conj
+conj
+verb
+pp
+pp
+np
+np
+verb
+verb
+conj
+pron
+noun
+253789	pp
+253791	np
+np
+253794	conj
+pp
+np
+np
+np
+verb
+pron
+pp
+np
+pp
+pp
+np
+253807	verb
+pp
+np
+verb
+pp
+np
+conj
+253815	np
+np
+np
+pp
+adj
+np
+verb
+conj
+pp
+verb
+pp
+pp
+np
+verb
+pron
+np
+conj
+np
+np
+pp
+np
+ptcl
+verb
+conj
+pron
+253841	np
+np
+verb
+np
+253846	np
+np
+pp
+conj
+253851	pron
+verb
+pp
+np
+np
+conj
+verb
+pron
+pp
+pron
+pron
+verb
+noun
+np
+conj
+np
+253868	verb
+conj
+np
+verb
+253875	conj
+np
+np
+np
+pp
+253881	pron
+pp
+np
+np
+np
+np
+verb
+pron
+253890	np
+verb
+conj
+np
+np
+np
+np
+np
+conj
+np
+np
+pp
+np
+verb
+253905	np
+np
+pron
+verb
+np
+np
+np
+pp
+verb
+pron
+adj
+verb
+pp
+verb
+253921	conj
+np
+253924	np
+conj
+np
+pron
+verb
+adj
+pp
+np
+pron
+pp
+pp
+verb
+pp
+verb
+253939	np
+np
+np
+pp
+verb
+253946	np
+np
+np
+pp
+conj
+253952	np
+np
+verb
+253956	np
+np
+pp
+verb
+np
+pp
+np
+verb
+253965	np
+np
+verb
+253969	np
+pp
+np
+verb
+pp
+verb
+253977	conj
+verb
+pp
+verb
+253982	np
+pron
+adj
+verb
+pp
+verb
+253990	np
+np
+pp
+conj
+np
+np
+253997	conj
+verb
+254001	conj
+np
+np
+pp
+verb
+254010	conj
+254012	conj
+np
+np
+conj
+conj
+np
+np
+pp
+np
+verb
+pron
+pp
+np
+verb
+pron
+np
+np
+np
+np
+verb
+conj
+pron
+noun
+verb
+254037	np
+conj
+np
+pp
+np
+pron
+pron
+verb
+verb
+conj
+verb
+pp
+254050	np
+conj
+254053	np
+np
+adv
+verb
+conj
+np
+np
+conj
+pp
+np
+254064	conj
+verb
+np
+np
+np
+np
+conj
+np
+pp
+verb
+pp
+conj
+verb
+verb
+conj
+254080	pron
+adj
+verb
+pp
+np
+adj
+conj
+pp
+np
+np
+conj
+np
+np
+verb
+np
+pp
+np
+np
+pp
+np
+np
+254102	np
+np
+pp
+verb
+pron
+254109	np
+np
+conj
+conj
+conj
+254115	np
+np
+verb
+pron
+254121	verb
+np
+pp
+verb
+pron
+254127	np
+np
+254130	conj
+np
+np
+verb
+pron
+254137	np
+np
+np
+conj
+254142	np
+254144	conj
+verb
+pron
+verb
+pp
+254150	np
+np
+conj
+np
+np
+254156	pp
+np
+np
+254160	np
+verb
+verb
+conj
+adv
+pp
+conj
+np
+pp
+np
+np
+np
+pp
+np
+pp
+np
+np
+verb
+np
+np
+pp
+254182	pron
+np
+pp
+np
+np
+np
+ptcl
+254191	np
+np
+np
+254195	pp
+np
+conj
+254199	np
+254203	np
+np
+np
+verb
+pp
+verb
+pp
+254211	np
+np
+pp
+np
+verb
+np
+np
+254219	np
+np
+254222	pp
+np
+254225	conj
+254227	pron
+conj
+pp
+254232	np
+conj
+254236	verb
+np
+adv
+pp
+pp
+254242	np
+np
+np
+verb
+pron
+pp
+254249	conj
+pp
+verb
+pp
+pp
+254255	np
+conj
+np
+conj
+np
+np
+np
+verb
+pp
+conj
+pron
+adv
+verb
+pp
+np
+verb
+np
+np
+np
+np
+np
+254277	pron
+adv
+verb
+pron
+pp
+adj
+pp
+np
+np
+254287	np
+np
+254290	adj
+np
+pp
+verb
+pp
+np
+254297	np
+np
+254301	np
+np
+verb
+conj
+pron
+noun
+pp
+np
+np
+254311	np
+np
+254314	conj
+np
+verb
+adj
+conj
+254320	adv
+verb
+pp
+noun
+vp
+conj
+254327	pp
+np
+np
+conj
+pp
+np
+np
+verb
+conj
+pron
+pp
+np
+pp
+np
+conj
+noun
+pp
+verb
+verb
+conj
+pron
+np
+verb
+254351	pron
+conj
+verb
+noun
+pron
+conj
+noun
+pron
+conj
+noun
+pron
+conj
+noun
+verb
+np
+noun
+verb
+pp
+conj
+pp
+np
+np
+verb
+verb
+conj
+np
+verb
+conj
+adv
+254381	conj
+conj
+adv
+pron
+verb
+conj
+pp
+np
+np
+verb
+verb
+conj
+np
+np
+np
+adj
+adv
+verb
+np
+verb
+254402	conj
+verb
+pron
+noun
+verb
+conj
+verb
+adv
+pp
+np
+conj
+adv
+verb
+np
+np
+np
+254419	np
+conj
+np
+np
+conj
+verb
+noun
+verb
 254428	conj
-254430	verb
-conj
-verb
-conj
-np
-verb
-pron
-pron
-conj
-conj
-verb
-noun
-pp
-pron
-conj
 verb
 np
-adj
-pp
+verb
+verb
+conj
+254435	verb
+np
+np
+np
+conj
+np
 np
 np
 verb
-verb
-np
-noun
-verb
-conj
-254458	verb
-noun
-verb
-verb
-conj
-np
-conj
 adv
-verb
+adj
+adv
 noun
 adv
-verb
-conj
+np
+np
+np
 verb
 np
 np
-conj
-pron
-verb
-conj
-adj
-pron
-verb
-254482	conj
-conj
-conj
-verb
 np
-verb
-254489	conj
-conj
-verb
 np
-verb
-254495	conj
 conj
 conj
-verb
-conj
-conj
-verb
-np
-verb
 pp
-conj
-noun
-254508	conj
-conj
-254511	conj
-conj
+np
+np
+np
+adv
 verb
-verb
-pron
-conj
-pron
-verb
-np
-np
-conj
-np
-pron
-verb
-np
-np
-adj
-conj
-verb
-np
-np
-np
-verb
-conj
-verb
-pron
-verb
-noun
-conj
-pron
-verb
-np
-conj
-np
-verb
-np
-conj
-conj
 np
 pp
+np
+np
+verb
+np
+pp
+np
+np
+np
+verb
+verb
+conj
+254479	conj
+adj
 noun
 verb
-np
-adv
 conj
-pron
-verb
-conj
-pron
-verb
-adv
-adv
-verb
-254565	np
-conj
-254568	conj
-pp
-254571	conj
-254573	adj
-adj
-pp
-conj
-verb
-pron
-adj
-verb
-pron
-adj
-conj
-conj
-pp
-np
-np
-verb
-adv
-pp
-verb
-adv
-np
-np
-pron
-verb
-pp
+noun
 noun
 verb
-adv
-verb
+pron
 conj
-np
-np
-254606	conj
 verb
 np
-np
-np
-254612	conj
-conj
-254615	conj
-conj
-np
-pp
-np
-conj
-pp
 verb
-np
-adj
-np
+254493	adj
 conj
-adj
-np
-conj
-conj
-254632	np
-np
-verb
-conj
-np
-254638	np
-np
-pp
-adv
-pp
-verb
-np
-np
-np
-adj
-conj
-adj
-conj
-adj
-254653	np
-pp
-verb
-adj
-adv
-verb
+noun
 noun
 conj
-verb
 noun
+254501	conj
+np
+254504	conj
 conj
-pp
+254508	np
+conj
 np
+conj
+254513	np
 np
-verb
-pron
-254670	pron
-verb
-pp
-verb
-pp
 np
 adj
-adv
-verb
-pron
-pp
-pron
-verb
-254685	conj
+np
 verb
 conj
-verb
+np
+np
+np
+adj
+np
 verb
 conj
+np
+np
+noun
 adv
+adj
+adj
 pp
+adv
+adj
+adj
+adv
+adj
+adj
+conj
+np
+np
+np
+verb
 np
 conj
-pron
+verb
+np
+conj
+np
+np
+np
+verb
+np
+conj
+verb
+np
+conj
+254561	np
+np
+np
+conj
+verb
+verb
+np
 adv
+verb
+conj
+verb
+verb
+conj
+adv
+verb
+np
+pp
+np
+pp
+conj
+pron
+verb
+pp
+254585	pron
+verb
+254588	pron
+pp
+conj
+conj
+conj
+conj
+conj
+verb
+verb
+pp
+verb
+pron
+verb
 pp
 noun
 verb
-verb
-conj
-254703	np
-254705	np
-np
-np
-verb
-conj
 adv
-pron
-verb
-np
-np
-verb
 pp
-np
-pp
-np
+254607	np
 conj
+verb
+pron
+np
+np
 np
 adv
-pron
-verb
 conj
-conj
-verb
-np
-np
 verb
 pron
 verb
 pp
+conj
+adv
+254624	conj
+np
+verb
+pron
+254629	pp
+conj
+pp
+conj
+pp
+np
+verb
+pp
+conj
+254639	np
+np
+conj
+np
+np
+254645	pp
+np
+np
+conj
+pp
+np
+254652	conj
+conj
+np
+np
+254657	verb
+pp
+np
+conj
+pp
+np
+noun
+conj
+verb
+pp
+np
+np
+conj
+adv
+254672	np
+np
+conj
+254676	np
+np
+np
+np
+verb
+conj
+verb
+np
+254685	np
+pp
+verb
+pron
+verb
+np
+pp
+np
+pp
+np
+pron
+np
+np
+np
+np
+np
+verb
+conj
+conj
+verb
+adv
+np
+np
+np
+verb
+conj
+conj
+verb
+pron
+noun
+adv
+verb
+conj
+noun
+adv
+verb
+conj
+pp
+np
+adv
+verb
+pron
+verb
+np
+verb
+pron
 pron
 conj
 verb
+np
 pp
 np
 np
-verb
 conj
-254743	pp
+adj
+verb
+np
+np
+np
+np
 np
 conj
-pp
-np
-np
-np
-np
 verb
+np
+np
+conj
+adv
 254753	np
-conj
 np
-254757	np
-conj
 np
-verb
-pron
 np
-verb
 pp
-pp
-254767	conj
 adv
-pp
-np
-verb
-np
-np
-254775	conj
-254777	np
-np
-254780	conj
-254782	verb
-pron
-conj
-np
-np
-verb
-pron
-pp
-np
-np
-verb
-conj
-noun
-np
-verb
-pp
-np
-pp
-verb
-np
-np
-np
-np
-conj
-pp
-verb
-np
-conj
-verb
-254812	pp
-verb
-pron
-pp
-conj
-np
-np
-verb
-conj
-adv
-verb
-verb
-noun
-pp
-np
-np
-conj
-254830	adv
-verb
-np
-np
-np
-conj
-verb
-pron
-np
-np
-conj
-adv
-noun
-verb
-verb
-254846	np
-np
-np
-np
-conj
-verb
-verb
-noun
-pp
-noun
-verb
-np
-conj
-np
-np
-verb
-pron
-np
-254865	conj
-pp
-verb
-pp
-verb
-pron
-pp
-np
-pp
-np
-np
-verb
-conj
-np
-np
-np
-pp
-conj
-np
-adj
-verb
-noun
-verb
-np
-np
-verb
-np
-verb
-adv
-conj
-verb
-pron
-pp
-conj
-verb
-pron
-pp
-254903	np
-verb
-pron
-pp
-np
-pp
-verb
-pron
-np
-254913	pp
-np
-verb
-np
-np
-np
-conj
-verb
 np
 np
 np
 adj
 verb
-pp
+conj
+adv
+np
+np
+np
+254770	pron
+conj
+np
+np
 np
 verb
 conj
-254931	np
+254778	np
 np
 pp
-254935	np
-pp
 np
-254939	conj
+conj
 verb
+pp
 np
 verb
 pron
-adv
-verb
-noun
-pp
-pp
-np
-254951	conj
-254953	pp
-np
-254956	conj
-pp
-np
-np
-conj
-pron
-254963	pp
-conj
-pp
-pp
-np
-verb
-np
-np
-np
-adv
-conj
-verb
-verb
-np
-conj
-verb
-noun
-conj
-254982	pp
-np
-verb
-conj
-conj
-verb
-254989	verb
 pron
 adv
 verb
-pp
-conj
-pron
-adv
-verb
-verb
-conj
-adv
-verb
+254792	pp
 np
-verb
-pp
-255006	adv
-conj
-adv
-noun
-verb
-pp
-np
-np
-noun
-conj
-verb
-verb
-pp
-pp
+adjp
 np
 conj
-verb
 pp
 np
-verb
-conj
-verb
-255029	verb
-pron
-conj
-pp
-verb
-adv
-conj
-pron
 adj
-pp
-verb
-adv
-conj
-verb
-pp
-verb
-np
-verb
-conj
-255049	conj
-np
-verb
-pp
-np
-np
-255056	np
-np
-pp
-verb
-conj
-conj
-noun
-verb
-pron
-conj
-conj
-np
-np
-verb
-np
-verb
-adv
-pp
-np
-verb
-pron
-255078	pron
-conj
-verb
-conj
-verb
-pron
-np
-np
-verb
-pp
-pp
-verb
-conj
-conj
-verb
-pp
-pp
-np
-np
-verb
-verb
-conj
-pron
-noun
-255103	pp
-255105	np
-np
-255108	conj
-pp
-np
-np
-np
-verb
-pron
-pp
-np
-pp
-pp
-np
-255121	verb
-pp
-np
-verb
-pp
-np
-conj
-255129	np
-np
-np
-pp
 adj
-np
 verb
+np
 conj
-pp
+adv
 verb
-pp
-pp
 np
-verb
+np
+np
+np
+noun
+conj
 pron
+verb
+conj
+adv
+verb
+verb
+conj
+adv
+verb
 np
 conj
-np
-np
-pp
-np
+verb
 ptcl
-255152	verb
-conj
+adj
 pron
-255156	np
-np
-verb
-np
-255161	np
-np
-pp
 conj
-255166	pron
-verb
 pp
-np
-np
-conj
 verb
 pron
-pp
-255176	pron
+conj
+verb
+np
 pron
+verb
+pron
+pron
+conj
+np
+verb
+pron
+noun
+254844	verb
+verb
+pron
+pp
+conj
+conj
+254851	pp
+pp
+conj
+np
+pp
+noun
+pron
+verb
+adv
+noun
+adv
+conj
+verb
+conj
+adv
+adv
+adv
+verb
+adv
+conj
+adj
+verb
+conj
+conj
+pp
+254877	conj
+adj
+verb
+conj
+pp
+verb
+conj
+conj
+254886	verb
+pron
+pron
+conj
 verb
 noun
-np
-conj
-np
-255184	verb
-conj
-np
-verb
-255193	conj
-np
-np
-np
-pp
-255199	pron
-pp
-np
-np
-np
-np
-verb
-pron
-255208	np
-verb
-conj
-np
-np
-np
-np
-np
-conj
-np
-np
-pp
-np
-verb
-255224	np
-np
-pron
-verb
-np
-np
-np
-pp
-verb
-255234	pron
 adj
-verb
-pp
-verb
-255243	conj
-np
-255246	np
-conj
-np
-pron
-verb
-adj
-pp
-np
-pron
-pp
-pp
-verb
-pp
-verb
-255261	np
-np
-np
-pp
-verb
-255268	np
-np
-np
-pp
-conj
-255274	np
-np
-verb
-255278	np
-np
-pp
-verb
-np
-pp
-np
-verb
-255287	np
-np
-verb
-255291	np
-pp
-np
-verb
-pp
-verb
-255299	conj
-verb
-pp
-verb
-255305	np
-pron
-adj
-verb
-pp
-verb
-255313	np
-np
-pp
-conj
-np
-np
-255320	conj
-verb
-255324	conj
-np
-np
-pp
-verb
-255333	conj
-255335	conj
-np
-np
-conj
-conj
-np
-np
-pp
-np
-verb
-pron
-pp
-np
-verb
-pron
-np
-np
-np
-np
-verb
 conj
 pron
 noun
+noun
 verb
-255360	np
+pron
 conj
+verb
+noun
+pron
+conj
+verb
+noun
+pp
+verb
+np
+conj
+np
+verb
+pron
+verb
+noun
+verb
+conj
+np
+verb
+conj
+254922	conj
+verb
+verb
+pron
+conj
+verb
+conj
+np
+np
+verb
+254933	verb
+conj
+conj
+verb
+adj
+verb
+adj
+conj
+np
+np
+verb
+pp
+np
+np
+np
+conj
+verb
+254951	np
+np
+verb
+pp
+254956	np
+np
+np
+verb
+pron
+pp
+conj
+np
+noun
+verb
+adj
+conj
+verb
+adj
+conj
+verb
+adv
+verb
+np
+conj
+adj
+verb
+verb
+pp
+verb
+pron
+verb
+254984	conj
+conj
+pron
+verb
+pp
+np
+254991	np
+np
+np
+adj
+verb
+np
+conj
+verb
+conj
+255001	pp
+verb
+conj
+np
+np
+adj
+verb
+np
+pron
+verb
+conj
+np
+np
+verb
+pron
+verb
+noun
+verb
+conj
+np
+np
+verb
+verb
+255025	pron
+conj
+verb
+adv
+conj
+conj
+pp
+adv
+verb
+conj
+np
+verb
+conj
+np
+np
+np
+pp
+verb
+conj
+pron
+np
+np
+np
+verb
+verb
+pron
+np
+np
+conj
+np
+np
+adj
+verb
+pron
+verb
+pron
+adj
+pron
+verb
+conj
+pron
+verb
+adj
+verb
+pp
+pp
+np
+np
+adj
+verb
+conj
+verb
+adj
+np
+conj
+np
+np
+np
+noun
+pp
+np
+verb
+verb
+conj
+verb
 np
 pp
 np
-255366	pron
+np
+conj
+adv
+noun
+verb
+np
+np
+np
+conj
+verb
+adj
+conj
+adj
+verb
+pp
+adj
+conj
+pron
+verb
+255113	conj
+conj
+conj
+conj
+conj
+conj
+conj
+verb
+conj
+verb
+pron
+255125	pron
+conj
+noun
+noun
+conj
+noun
+adv
+pron
+verb
+noun
+conj
+255137	np
+conj
+np
+np
+adv
+adj
+verb
+pp
+np
+conj
+adj
+pron
+verb
+pron
+conj
+pp
+verb
+conj
+255156	pp
+verb
+conj
+pp
+np
+conj
+adv
+pron
+verb
+255166	adj
+conj
+pron
+verb
+conj
+adv
+pp
+verb
+conj
+verb
+pron
+noun
+verb
+conj
+adv
+pp
+pron
+verb
+conj
+verb
+np
+pron
+255189	conj
+verb
+np
+np
+np
+conj
+verb
+np
+np
+np
+conj
+adv
+np
+verb
+adj
+pp
+np
+pron
+conj
+noun
+verb
+pp
+255212	conj
+pp
+conj
+pp
+verb
+adv
+pp
+pron
+verb
+conj
+adv
+adj
+pp
+np
+verb
+pp
+np
+pron
+conj
+pron
+verb
+conj
+verb
+pron
+adv
+verb
+conj
+conj
+adv
+verb
+pron
+verb
+conj
+adv
+verb
+adv
+vp
+adv
+verb
+pp
+verb
+conj
+verb
+verb
+conj
+np
 pron
 verb
 verb
 conj
+np
+255264	np
+adj
 verb
 pp
-255374	np
 conj
-255377	np
+conj
+noun
+verb
+255273	np
+conj
+conj
+pron
+adj
+pp
+pron
+conj
+adj
+pp
+pron
+adj
+pron
+conj
+adj
+pron
+adj
+pron
+conj
+adj
+pp
+np
+np
+255297	conj
+conj
+conj
+conj
+conj
+conj
+verb
+verb
+np
+np
+verb
+verb
+verb
+verb
+verb
+verb
+pp
+conj
+255316	np
+np
+verb
+np
+pp
+adv
+verb
+pron
+verb
+pron
+conj
+pp
+conj
+np
+np
+verb
+conj
+conj
+np
+verb
+pp
+conj
+adv
+np
+pp
+conj
+255343	pp
+np
+pron
+pron
+verb
+verb
+conj
+pron
+np
+verb
+pp
+np
+verb
+pron
+pron
+verb
+np
+np
+np
+conj
+pp
+pron
+pron
+verb
+np
+255369	np
+np
+pp
+255373	conj
+adv
+pp
+np
+verb
+conj
+adv
+verb
+conj
+pron
+pp
+verb
+pron
+verb
+conj
+adv
+pp
+conj
+np
+verb
+conj
+verb
+255396	np
+np
+verb
+conj
+np
+255402	conj
+pp
+np
+np
+np
+conj
+pp
+pron
+verb
+pp
+verb
+pp
+conj
+pp
+255417	np
+conj
+adv
+verb
+pp
+255423	conj
+np
+pron
+adv
+pp
+np
+conj
+np
+pron
+np
+verb
+conj
+pron
+vp
+conj
+adv
+adv
+verb
+conj
+verb
+pp
+np
+np
+np
+verb
+pron
+255450	conj
+verb
+np
+verb
+conj
+np
+adv
+verb
+conj
+verb
+adv
+pron
+verb
+pp
+np
+np
+np
+255468	verb
+255470	conj
+np
+np
+pp
+np
+np
+255477	np
+np
+verb
+np
+np
+pp
+np
+np
+conj
+np
+verb
+pp
+np
+np
+np
+adv
+adj
+np
 np
 adv
 verb
 conj
 np
 np
-conj
-pp
 np
-255388	conj
 verb
-np
-np
+verb
 np
 np
 conj
+verb
 np
-pp
-verb
-pp
 conj
 verb
-verb
-conj
-255404	pron
 adj
-verb
-pp
-np
-adj
-conj
-pp
-np
 np
 conj
-np
-np
-verb
-np
-pp
-np
-np
-pp
-np
-np
-255426	np
-np
-pp
-verb
-pron
-255433	np
-np
-conj
-conj
-conj
-255439	np
-np
-verb
-pron
-255445	verb
-np
-pp
-verb
-pron
-255451	np
-np
-255454	conj
-np
-np
-verb
-pron
-255461	np
-np
-np
-conj
-255466	np
-255468	conj
-verb
-pron
-verb
-pp
-255474	np
-np
-conj
-np
-np
-255480	pp
-np
-np
-255484	np
-verb
-verb
-conj
-adv
-pp
-conj
-np
-pp
-np
-np
-np
-pp
-np
-pp
-np
-np
-verb
-np
-np
-pp
-255506	pron
-np
-pp
-np
-np
-np
-ptcl
 255515	np
 np
-np
-255519	pp
-np
-conj
-255523	np
-255527	np
-np
-np
-verb
-pp
-verb
-pp
-255535	np
-np
-pp
-np
-verb
-np
-np
-255543	np
-np
-255546	pp
-np
-255549	conj
-255551	pron
-conj
-pp
-255556	np
-conj
-255560	verb
-np
-adv
-pp
-pp
-255566	np
-np
-np
-verb
-pron
-pp
-255573	conj
-pp
-verb
-pp
-pp
-255579	np
-conj
-np
-conj
-np
-np
-np
-verb
-pp
-conj
-pron
-adv
-verb
-pp
-np
-verb
-np
-np
-255598	np
-np
-np
-255602	pron
-adv
-verb
-pron
-pp
-adj
-pp
-np
-np
-255612	np
-np
-255615	adj
-np
-255618	pp
-verb
-pp
-np
-255623	np
-np
-255627	np
-np
-verb
-conj
-pron
-noun
-pp
-np
-np
-255637	np
-np
-255640	conj
-np
-verb
-adj
-conj
-255646	adv
-verb
-pp
-noun
-vp
-conj
-255653	pp
-np
-np
-conj
-pp
-np
-np
-verb
-conj
-pron
-pp
-np
-pp
-np
-conj
-noun
-pp
-verb
-verb
-conj
-pron
-np
-verb
-255677	pron
-conj
-verb
-noun
-pron
-conj
-noun
-pron
-conj
-noun
-pron
-conj
-noun
-verb
-np
-noun
-verb
-pp
-conj
-pp
-np
-np
-verb
-verb
-conj
-255704	np
-verb
-conj
-adv
-255709	conj
-conj
-adv
-pron
-verb
-conj
-pp
-np
-np
-verb
-verb
-conj
-np
-np
-np
-adj
-adv
-verb
-np
-verb
-255730	conj
-verb
-pron
-noun
-verb
-conj
-verb
-adv
-pp
-np
-conj
-adv
-verb
-np
-np
-np
-255747	np
-conj
-np
-np
-conj
-verb
-noun
-verb
-255756	conj
-verb
-np
-verb
-verb
-conj
-255763	verb
-np
-np
-np
-conj
-np
-np
-np
-verb
-adv
-adj
-adv
-noun
-adv
-np
-np
-np
-verb
-np
-np
-np
-np
-255787	conj
-conj
-pp
-np
-np
-np
-adv
-verb
-np
-pp
-np
-np
-verb
-np
-pp
-np
-np
-np
-verb
-verb
-conj
-255809	conj
-adj
-noun
-verb
-conj
-noun
-noun
-verb
-255818	pron
-conj
-verb
-np
-verb
-255824	adj
-conj
-noun
-noun
-conj
-noun
-255832	conj
-np
-255835	conj
-conj
-255839	np
-conj
-np
-conj
-255844	np
-np
-np
-adj
-np
-verb
-conj
-np
-np
-np
-adj
-np
-verb
-conj
-np
-np
-noun
-255862	adv
-adj
-adj
-pp
-adv
-adj
-adj
-adv
-adj
-adj
-conj
-255874	np
-np
-np
-verb
-np
-conj
-verb
-np
-conj
-np
-np
-np
-verb
-np
-conj
-verb
-np
-conj
-255894	np
-np
-np
-conj
-verb
-verb
-np
-adv
-verb
-conj
-verb
-verb
-conj
-adv
-verb
-np
-pp
-np
-pp
-conj
-pron
-verb
-pp
-255919	pron
-verb
-255922	pron
-pp
-conj
-conj
-conj
-conj
-conj
-verb
-verb
-pp
-verb
-pron
-verb
-pp
-noun
-verb
-adv
-pp
-255941	np
-conj
-verb
-pron
-np
-np
-np
-adv
-conj
-verb
-pron
-verb
-pp
-conj
-adv
-255958	conj
-np
-verb
-pron
-255963	pp
-conj
-pp
-conj
-pp
-np
-verb
-pp
-conj
-255973	np
-np
-conj
-np
-np
-255979	pp
-np
-np
-conj
-pp
-np
-255986	conj
-conj
-np
-np
-255991	verb
-pp
-np
-conj
-pp
-np
-noun
-conj
-verb
-pp
-np
-np
-conj
-adv
-256006	np
-np
-conj
-256010	np
-np
-np
-np
-verb
-conj
-verb
-256019	np
-256021	np
-pp
-verb
-pron
-verb
-np
-pp
-np
-pp
-np
-pron
-np
-np
-np
-np
-np
-verb
-256039	conj
-conj
-verb
-adv
-np
-np
-np
-verb
-conj
-conj
-verb
-pron
-noun
-adv
-verb
-conj
-noun
-adv
-verb
-conj
-pp
-np
-adv
-verb
-pron
-verb
-np
-verb
-pron
-pron
-conj
-verb
-np
-pp
-np
-256075	np
-conj
-adj
-verb
-np
-np
-np
-np
-np
-conj
-verb
-np
-np
-conj
-adv
-256091	np
-np
-np
-np
-pp
-adv
-np
-np
-np
-adj
-verb
-conj
-adv
-np
-np
-np
-256109	pron
-conj
-np
-np
-np
-verb
-conj
-256117	np
-np
-pp
-np
-conj
-verb
-256124	pp
-np
-verb
-pron
-pron
-adv
-verb
-256132	pp
-np
-adjp
-np
-conj
-pp
-np
-adj
-adj
-verb
-np
-conj
-adv
-verb
-np
-np
-np
-np
-noun
-conj
-pron
-verb
-conj
-adv
-verb
-verb
-conj
-adv
-verb
-np
-conj
-verb
-ptcl
-adj
-pron
-conj
-pp
-verb
-pron
-conj
-verb
-np
-pron
-verb
-pron
-pron
-conj
-np
-verb
-pron
-noun
-256184	verb
-verb
-pron
-pp
-conj
-conj
-256191	pp
-pp
-conj
-np
-pp
-256198	noun
-pron
-verb
-adv
-noun
-adv
-conj
-verb
-conj
-256208	adv
-adv
-adv
-verb
-adv
-conj
-adj
-verb
-256217	conj
-conj
-pp
-256221	conj
-adj
-verb
-conj
-pp
-verb
-256228	conj
-conj
-256231	verb
-pron
-pron
-conj
-verb
-noun
-256238	adj
-conj
-pron
-noun
-noun
-verb
-pron
-conj
-verb
-noun
-pron
-conj
-verb
-noun
-256253	pp
-verb
-np
-conj
-np
-verb
-256260	pron
-verb
-noun
-verb
-conj
-np
-verb
-conj
-256270	conj
-verb
-verb
-pron
-conj
-verb
-conj
-np
-np
-verb
-256281	verb
-conj
-conj
-verb
-adj
-verb
-adj
-conj
-np
-np
-verb
-pp
-np
-np
-256296	np
-conj
-verb
-256300	np
-np
-verb
-pp
-256305	np
-np
-np
-verb
-pron
-pp
-conj
-np
-noun
-verb
-adj
-conj
-verb
-256319	adj
-conj
-verb
-adv
-verb
-np
-conj
-adj
-verb
-verb
-pp
-256331	verb
-pron
-verb
-256337	conj
-conj
-pron
-verb
-pp
-np
-256344	np
-np
-np
-adj
-verb
-np
-conj
-verb
-conj
-256354	pp
-verb
-conj
-256358	np
-np
-adj
-verb
-np
-pron
-verb
-conj
-np
-np
-256369	verb
-pron
-verb
-noun
-verb
-conj
-np
-np
-verb
-verb
-256380	pron
-conj
-verb
-adv
-conj
-conj
-pp
-adv
-verb
-conj
-np
-verb
-conj
-np
-np
-np
-pp
-verb
-conj
-pron
-np
-np
-np
-verb
-verb
-pron
-np
-np
-conj
-np
-np
-adj
-verb
-pron
-verb
-pron
-adj
-pron
-verb
-256421	conj
-pron
-verb
-adj
-verb
-pp
-pp
-np
-np
-adj
-verb
-conj
-verb
-adj
-np
-conj
-np
-np
-np
-noun
-pp
-np
-verb
-verb
-conj
-verb
-np
-pp
-np
-np
-conj
-256453	adv
-noun
-verb
-np
-np
-np
-conj
-verb
-adj
-conj
-adj
-verb
-pp
-256467	adj
-conj
-pron
-verb
-256472	conj
-conj
-conj
-conj
-conj
-conj
-conj
-verb
-conj
-verb
-pron
-256484	pron
-conj
-noun
-noun
-conj
-noun
-adv
-pron
-verb
-noun
-conj
-256496	np
-conj
-np
-np
-adv
-adj
-verb
-pp
-np
-conj
-adj
-pron
-verb
-pron
-conj
-pp
-verb
-conj
-256515	pp
-verb
-conj
-pp
-np
-conj
-adv
-pron
-verb
-256525	adj
-conj
-pron
-verb
-conj
-adv
-pp
-verb
-conj
-verb
-pron
-noun
-verb
-conj
-adv
-pp
-pron
-verb
-conj
-verb
-np
-256547	pron
-256549	conj
-verb
-np
-np
-np
-conj
-verb
-np
-np
-np
-conj
-adv
-np
-verb
-adj
-pp
-np
-256567	pron
-conj
-noun
-verb
-pp
-256573	conj
-pp
-conj
-pp
-verb
-adv
-pp
-pron
-verb
-conj
-adv
-adj
-pp
-np
-verb
-pp
-np
-pron
-conj
-pron
-verb
-256595	conj
-verb
-pron
-adv
-verb
-256601	conj
-conj
-adv
-verb
-pron
-verb
-conj
-adv
-verb
-adv
-vp
-adv
-verb
-pp
-verb
-conj
-verb
-verb
-conj
-np
-pron
-verb
-verb
-conj
-np
-256627	np
-adj
-verb
-pp
-conj
-conj
-noun
-verb
-256636	np
-conj
-conj
-pron
-adj
-pp
-pron
-conj
-adj
-pp
-pron
-adj
-pron
-conj
-adj
-pron
-adj
-pron
-conj
-adj
-pp
-np
-np
-256660	conj
-conj
-conj
-conj
-conj
-conj
-verb
-verb
-np
-np
-256671	verb
-verb
-verb
-verb
-verb
-verb
-pp
-conj
-256680	np
-np
-verb
-np
-pp
-256686	adv
-verb
-pron
-verb
-pron
-conj
-pp
-conj
-np
-np
-verb
-256698	conj
-conj
-np
-verb
-pp
-conj
-adv
-np
-pp
-conj
-256709	pp
-np
-pron
-pron
-verb
-verb
-conj
-pron
-np
-verb
-pp
-np
-verb
-pron
-256725	pron
-verb
-np
-np
-np
-conj
-pp
-pron
-pron
-verb
-np
-256737	np
-np
-pp
-256741	conj
-adv
-pp
-np
-verb
-conj
-adv
 verb
 conj
-pron
-pp
-verb
-pron
-256755	verb
-conj
-adv
-pp
-conj
-np
-verb
-conj
-verb
-256765	np
-np
 verb
-conj
-np
-256771	conj
-pp
+255521	pp
 np
-np
-np
-conj
-pp
-pron
-verb
-pp
-verb
-pp
-conj
-pp
-256786	np
 conj
-adv
-verb
-pp
-256792	conj
-256795	np
-pron
-adv
 pp
 np
+255527	conj
 conj
-np
-pron
-np
-verb
-conj
-pron
-vp
-conj
-adv
-adv
-verb
-conj
-verb
 pp
-np
-np
-np
-verb
-pron
-256821	conj
-verb
-np
-verb
-conj
 np
-adv
-verb
-conj
+255532	conj
 verb
-adv
 pron
-verb
-pp
-np
-np
-np
-256839	verb
-256841	conj
-np
-np
 pp
-np
-np
-256848	np
-np
-verb
-np
-np
-pp
-np
-np
-conj
-np
-verb
-pp
-np
-np
-np
-adv
-adj
-np
 np
 adv
-verb
-conj
-np
-np
-np
-verb
-verb
-np
-np
-conj
-verb
-np
-conj
-verb
-adj
-np
-conj
-256886	np
-np
-verb
-conj
-verb
-256892	pp
-np
-conj
-pp
-np
-256898	conj
-conj
-pp
-np
-256903	conj
-verb
-pron
-pp
-np
-256909	adv
 verb
 noun
 advp
-256914	np
+255542	np
 np
 np
 np
@@ -240605,14 +240605,14 @@ adv
 conj
 verb
 pron
-256934	adv
+adv
 verb
 conj
 np
 noun
 verb
 verb
-256942	conj
+255568	conj
 conj
 conj
 conj
@@ -240642,7 +240642,7 @@ noun
 verb
 pp
 np
-256973	verb
+255599	verb
 pp
 np
 conj
@@ -240686,7 +240686,7 @@ adv
 verb
 pp
 np
-257018	pron
+pron
 verb
 verb
 pp
@@ -240721,7 +240721,7 @@ adv
 verb
 conj
 pron
-257054	conj
+255679	conj
 conj
 pron
 noun
@@ -240735,3997 +240735,3997 @@ adv
 verb
 adv
 verb
+255694	conj
+conj
+conj
+conj
+conj
+conj
+conj
+np
+verb
+conj
+pron
+pron
+verb
+conj
+verb
+conj
+verb
+conj
+verb
+255714	pp
+np
+np
+255718	np
+255720	conj
+pp
+np
+np
+np
+np
+adj
+pron
+verb
+conj
+adv
+adj
+verb
+adj
+pron
+verb
+conj
+adv
+pron
+verb
+pp
+255742	np
+np
+conj
+np
+np
+np
+conj
+255750	conj
+conj
+verb
+255754	np
+conj
+255757	np
+conj
+np
+conj
+np
+np
+np
+conj
+255766	conj
+np
+verb
+conj
+pron
+verb
+pp
+np
+np
+adv
+verb
+conj
+np
+np
+np
+verb
+verb
+conj
+np
+np
+np
+verb
+np
+adv
+verb
+conj
+adv
+verb
+conj
+verb
+np
+np
+verb
+verb
+conj
+verb
+np
+pp
+np
+conj
+verb
+np
+np
+verb
+verb
+np
+np
+pron
+verb
+noun
+pp
+np
+verb
+conj
+verb
+pp
+np
+np
+verb
+conj
+adv
+verb
+conj
+np
+np
+np
+np
+np
+pp
+np
+verb
+pron
+verb
+pp
+conj
+adv
+verb
+pron
+verb
+conj
+noun
+verb
+np
+pp
+np
+np
+pp
+conj
+pron
+verb
+adj
+noun
+noun
+adv
+verb
+pp
+conj
+np
+adj
+np
+np
+verb
+conj
+adj
+np
+np
+verb
+np
+np
+np
+verb
+adv
+conj
+np
+np
+np
+np
+np
+np
+adv
+verb
+conj
+np
+conj
+np
+np
+np
+np
+adv
+verb
+conj
+np
+adv
+verb
+pron
+conj
+pp
+pp
+conj
+255906	verb
+np
+conj
+adv
+pp
+np
+verb
+conj
+adv
+verb
+pron
+np
+pp
+np
+np
+pron
+conj
+verb
+pp
+adv
+pp
+verb
+conj
+np
+verb
+pp
+conj
+np
+conj
+adj
+np
+verb
+pp
+det
+conj
+adv
+det
+conj
+adv
+verb
+conj
+255948	np
+conj
+np
+adj
+pron
+conj
+verb
+pp
+conj
+conj
+conj
+adv
+verb
+verb
+255963	adj
+conj
+verb
+verb
+conj
+verb
+conj
+verb
+verb
+255973	conj
+np
+255977	noun
+pp
+adv
+verb
+conj
+conj
+adv
+verb
+verb
+noun
+conj
+np
+verb
+conj
+noun
+noun
+adv
+verb
+np
+conj
+verb
+255999	np
+np
+conj
+256003	np
+np
+verb
+conj
+pron
+verb
+verb
+pp
+adv
+verb
+pron
+conj
+pron
+verb
+np
+conj
+pron
+verb
+verb
+pp
+adv
+verb
+np
+verb
+conj
+np
+np
+np
+pp
+np
+conj
+verb
+np
+np
+np
+pp
+np
+256041	conj
+conj
+np
+np
+adj
+verb
+adv
+conj
+adj
+verb
+conj
+conj
+np
+verb
+verb
+adv
+verb
+256059	np
+conj
+np
+pp
+np
+pp
+conj
+verb
+pron
+np
+pron
+conj
+verb
+noun
+np
+verb
+conj
+pron
+verb
+noun
+np
+verb
+conj
+adj
+conj
+verb
+np
+adj
+conj
+verb
+np
+adv
+verb
+conj
+adv
+pp
+np
+np
+verb
+verb
+pron
+verb
+adv
+verb
+pp
+verb
+pron
+adv
+verb
+256109	np
+adj
+verb
+conj
+np
+adj
+verb
+conj
+np
+np
+adj
+pp
+np
+pron
+verb
+pp
+verb
+noun
+verb
+adv
+pron
+verb
+conj
+conj
+adv
+verb
+adj
+verb
+adv
+verb
+np
+conj
+np
+pp
+verb
+np
+verb
+np
+np
+verb
+np
+verb
+noun
+verb
+adv
+verb
+np
+adj
+pp
+verb
+noun
+pp
+verb
+pp
+pp
+conj
+np
+np
+adv
+verb
+noun
+conj
+verb
+pp
+conj
+verb
+pp
+adj
+verb
+verb
+conj
+pron
+adj
+verb
+pp
+np
+np
+verb
+adj
+noun
+adv
+verb
+verb
+noun
+adv
+verb
+noun
+verb
+pp
+adv
+verb
+noun
+conj
+conj
+adv
+verb
+adv
+verb
+conj
+conj
+verb
+np
+adv
+verb
+noun
+conj
+np
+verb
+np
+pron
+conj
+pron
+verb
+pron
+conj
+verb
+noun
+np
+vp
+np
+conj
+np
+verb
+noun
+conj
+adv
+verb
+verb
+conj
+verb
+conj
+adv
+verb
+conj
+verb
+conj
+adv
+verb
+conj
+verb
+conj
+adv
+verb
+conj
+verb
+np
+conj
+adv
+verb
+verb
+conj
+np
+np
+np
+np
+verb
+conj
+pron
+adj
+verb
+np
+verb
+np
+np
+adv
+verb
+np
+conj
+verb
+verb
+np
+np
+adv
+verb
+np
+conj
+verb
+256287	conj
+256289	np
+np
+conj
+np
+verb
+np
+np
+conj
+verb
+adj
+256300	conj
+np
+conj
+np
+conj
+verb
+verb
+np
+np
+adv
+verb
+np
+pron
+conj
+pp
+np
+np
+np
+verb
+256320	conj
+noun
+pron
+verb
+conj
+pp
+np
+conj
+np
+adv
+256331	conj
+conj
+pron
+verb
+pp
+np
+np
+verb
+conj
+verb
+adj
+conj
+adv
+verb
+verb
+pron
+verb
+verb
+adv
+verb
+verb
+pron
+conj
+verb
+pp
+np
+np
+adj
+adv
+verb
+noun
+256363	noun
+conj
+verb
+pp
+np
+np
+conj
+pron
+verb
+pp
+np
+np
+verb
+np
+np
+adv
+verb
+conj
+conj
+verb
+np
+np
+adv
+verb
+conj
+adv
+verb
+adj
+verb
+noun
+verb
+pp
+np
+verb
+np
+np
+conj
+conj
+verb
+np
+adj
+verb
+pron
+verb
+verb
+adj
+pp
+adj
+conj
+verb
+conj
+adv
+verb
+pp
+np
+np
+verb
+conj
+pron
+np
+verb
+pp
+conj
+np
+verb
+conj
+adj
+noun
+verb
+np
+verb
+np
+conj
+verb
+conj
+pron
+verb
+verb
+pron
+adv
+verb
+conj
+verb
+verb
+conj
+conj
+pron
+verb
+np
+pron
+verb
+pp
+pp
+np
+np
+conj
+np
+verb
+256462	conj
+adj
+noun
+pp
+conj
+conj
+adj
+noun
+conj
+adv
+adj
+adv
+conj
+conj
+verb
+np
+verb
+256480	conj
+pp
+conj
+pp
+conj
+256486	verb
+noun
+adj
+conj
+noun
+adj
+conj
+256494	pron
+adj
+256497	np
+pp
+np
+conj
+pron
+pp
+conj
+adj
+256507	pp
+np
+conj
+pron
+pp
+conj
+adv
+pp
+np
+256517	pron
+conj
+np
+pp
+np
+conj
+adj
+verb
+conj
+np
+np
+adj
+verb
+verb
+noun
+conj
+pron
+adv
+verb
+np
+conj
+conj
+adv
+verb
+verb
+conj
+conj
+verb
+verb
+verb
+conj
+conj
+np
+np
+np
+noun
+verb
+np
+conj
+conj
+pron
+verb
+256560	verb
+noun
+pp
+verb
+np
+np
+adj
+verb
+verb
+pp
+np
+verb
+verb
+conj
+256575	verb
+pp
+np
+np
+np
+pp
+noun
+verb
+256584	adv
+conj
+verb
+pp
+np
+conj
+verb
+np
+np
+np
+verb
+pp
+verb
+conj
+conj
+noun
+verb
+np
+np
+advp
+verb
+noun
+pp
+np
+conj
+adv
+np
+np
+verb
+verb
+adj
+verb
+noun
+256618	np
+np
+verb
+np
+np
+pron
+verb
+pp
+conj
+adj
+adv
+verb
+noun
+conj
+pron
+verb
+np
+conj
+np
+np
+np
+pron
+verb
+pp
+np
+np
+pron
+verb
+verb
+pron
+adv
+verb
+noun
+256652	conj
+adv
+verb
+noun
+256657	verb
+conj
+np
+256661	np
+np
+conj
+np
+np
+np
+conj
+conj
+adj
+256671	conj
+ptcl
+verb
+noun
+adv
+verb
+pron
+verb
+np
+adv
+pron
+verb
+noun
+conj
+np
+np
+adv
+verb
+conj
+pron
+verb
+noun
+conj
+pp
+np
+np
+np
+adv
+verb
+pp
+pron
+verb
+conj
+np
+np
+pron
+ptcl
+verb
+pp
+conj
+np
+np
+verb
+adv
+verb
+np
+verb
+np
+verb
+np
+conj
+pp
+adv
+verb
+pp
+conj
+verb
+conj
+256730	verb
+pp
+verb
+verb
+conj
+verb
+pp
+verb
+conj
+pron
+pron
+np
+verb
+adj
+conj
+pron
+np
+np
+verb
+conj
+adj
+np
+np
+verb
+adv
+pron
+conj
+adv
+verb
+np
+np
+conj
+adj
+verb
+conj
+adv
+np
+verb
+np
+np
+np
+adv
+verb
+conj
+np
+verb
+np
+pp
+np
+verb
+np
+verb
+np
+verb
+adv
+np
+np
+verb
+np
+verb
+pp
+np
+verb
+pron
+conj
+adv
+verb
+np
+adv
+verb
+conj
+pron
+conj
+adv
+verb
+pp
+256807	adj
+conj
+pron
+adv
+verb
+conj
+np
+np
+adj
+verb
+conj
+conj
+verb
+adv
+verb
+pron
+noun
+noun
+conj
+pron
+verb
+ptcl
+conj
+pron
+verb
+conj
+adv
+verb
+conj
+conj
+adj
+pron
+verb
+noun
+verb
+conj
+conj
+adj
+noun
+verb
+pron
+conj
+np
+verb
+np
+conj
+verb
+adj
+verb
+np
+pp
+adv
+verb
+np
+np
+pp
+np
+adj
+conj
+verb
+pp
+adj
+pron
+verb
+conj
+np
+verb
+conj
+verb
+np
+pp
+conj
+conj
+adj
+verb
+np
+pp
+pp
+conj
+pp
+adv
+verb
+pron
+pp
+conj
+np
+pp
+verb
+np
+pp
+conj
+256899	verb
+np
+conj
+np
+conj
+verb
+np
+verb
+np
+adj
+conj
+np
+verb
+np
+verb
+adj
+conj
+adv
+pron
+verb
+adj
+conj
+verb
+pp
+np
+conj
+np
+verb
+adv
+verb
+conj
+pp
+verb
+adj
+conj
+verb
+adj
+conj
+verb
+np
+adv
+verb
+conj
+verb
+np
+conj
+verb
+adj
+verb
+pron
+conj
+conj
+conj
+np
+verb
+pron
+conj
+adj
+pron
+conj
+adv
+verb
+conj
+adv
+adv
+adv
+verb
+conj
+adv
+noun
+verb
+conj
+verb
+np
+np
+conj
+verb
+conj
+adj
+verb
+pron
+adj
+verb
+adv
+verb
+conj
+pron
+verb
+noun
+conj
+256990	np
+np
+np
+pp
+np
+verb
+conj
+adj
+pp
+np
+verb
+conj
+adj
+pp
+np
+verb
+257007	pp
+np
+conj
+pp
+np
+conj
+257014	adj
+np
+np
+np
+verb
+conj
+adj
+np
+np
+np
+verb
+verb
+conj
+pp
+np
+np
+verb
+np
+conj
+verb
+np
+conj
+adv
+pp
+np
+np
+verb
+np
+verb
+conj
+pp
+np
+pron
+conj
+np
+verb
+pp
+adv
+verb
+pron
+np
+conj
+pron
+verb
+conj
+noun
+verb
+conj
+np
+conj
+verb
+257066	verb
+np
 257069	conj
 conj
+verb
+verb
 conj
+verb
 conj
+257077	np
+verb
 conj
+verb
+np
+np
 conj
+verb
+np
 conj
+257088	np
+verb
+conj
+pp
 np
 verb
 conj
+verb
+conj
+257098	np
+verb
+conj
+verb
+pp
+np
 pron
+conj
+adv
+verb
 pron
 verb
 conj
-verb
-conj
-verb
-conj
-verb
-257089	pp
+pp
 np
-np
-257093	np
-257095	conj
 pp
 np
 np
 np
-np
-adj
-pron
-verb
-conj
-adv
-adj
-verb
-adj
-pron
-verb
-conj
-adv
-pron
-verb
-pp
-257117	np
-np
-conj
-np
-np
-np
-conj
-257125	conj
-conj
-verb
-257129	np
-conj
-257132	np
-conj
-np
-conj
-np
-np
-np
-conj
-257141	conj
-np
-verb
-conj
-pron
-verb
-pp
-np
-np
-adv
-verb
-conj
-np
-np
-np
-verb
-verb
-conj
-np
-np
-np
-verb
-np
-adv
-verb
-conj
-adv
 verb
 conj
 verb
-np
-np
 verb
 verb
 conj
-verb
-np
-pp
-np
-conj
-verb
-np
-np
-verb
-verb
-np
-np
-257189	pron
 verb
 noun
-pp
-np
-verb
-conj
-verb
-pp
-np
-np
-verb
-conj
+pron
 adv
 verb
 conj
-np
-np
-np
-np
-np
-pp
-np
-verb
-pron
-verb
-pp
-conj
 adv
-verb
-pron
-verb
-conj
-noun
-verb
-np
-pp
-np
-np
-pp
-conj
-pron
-verb
 adj
-noun
-noun
-adv
-verb
-pp
+adj
 conj
 np
+pron
+257136	verb
+pron
+verb
+pp
+pron
+verb
+conj
+verb
+pp
+np
+np
+np
+verb
+verb
+conj
+np
+verb
+pp
+np
+conj
 adj
+verb
+verb
+pron
+pron
+verb
+np
+np
+np
+pron
+verb
+ptcl
+np
+verb
+np
+np
+np
+np
+pron
+verb
+ptcl
+np
+np
 np
 np
 verb
 conj
 adj
-np
-np
-verb
-np
-np
-np
-verb
-adv
-conj
-np
-np
-np
-np
-np
-np
-adv
-verb
-conj
-np
-conj
-np
-np
-np
-np
-adv
-verb
-conj
-np
-257276	adv
-verb
-pron
-conj
-pp
-pp
-conj
-257284	verb
-np
-conj
-adv
-pp
-np
-verb
-conj
-adv
-verb
-pron
-np
-pp
-np
-np
-pron
-conj
-verb
-pp
-adv
-pp
-verb
-conj
-np
-verb
-pp
-conj
-np
-conj
-257314	adj
-np
-verb
-pp
-det
-conj
-adv
-det
-conj
-adv
-verb
-conj
-257327	np
-conj
-np
-257331	adj
-pron
-conj
-verb
-pp
-conj
-257338	conj
-conj
-adv
-verb
-verb
-257344	adj
-conj
-verb
-verb
-conj
-verb
-conj
-verb
-verb
-257354	conj
-np
-257358	noun
-pp
-adv
-verb
-conj
-conj
-adv
-verb
-verb
 noun
-conj
 np
-verb
-conj
-noun
-noun
-adv
+np
 verb
 np
 conj
-verb
-257380	np
-np
-257383	conj
-257385	np
-np
-verb
-conj
-pron
-verb
-verb
 pp
-adv
+np
+np
+verb
+verb
+np
+np
+pp
+verb
+np
+np
+np
 verb
 pron
 conj
-257398	pron
 verb
-np
-conj
-pron
-verb
-verb
-pp
-adv
-verb
-np
-verb
-conj
-np
-np
-np
-pp
-np
-conj
-verb
-np
-np
-np
-pp
-np
-257424	conj
-conj
-np
-np
-adj
-verb
-adv
 conj
 adj
+pron
 verb
 conj
 conj
+noun
+pron
+verb
+conj
+conj
+pron
+verb
+257220	conj
 np
-verb
 verb
 adv
 verb
-257442	np
-conj
-np
-pp
-np
-pp
-conj
-verb
-pron
-np
-pron
-conj
-verb
-noun
-np
-verb
 conj
 pron
-verb
-noun
+np
 np
 verb
-257465	conj
-257467	adj
+adv
+verb
+257233	np
+verb
+conj
+np
+adv
+verb
+257240	np
+verb
+conj
+np
 conj
 verb
 np
 adj
-conj
-verb
-np
-adv
-verb
-conj
-adv
-pp
-np
-np
-verb
-verb
 pron
 verb
-adv
-verb
-pp
-verb
-pron
-adv
-verb
-257494	np
 adj
 verb
 conj
-np
+adv
+adj
+verb
 adj
 verb
 conj
-np
-np
-adj
-pp
-np
-257508	pron
-verb
-pp
-verb
-noun
-verb
 adv
-pron
-verb
-conj
-257519	conj
-adv
-verb
 adj
 verb
-adv
-verb
-np
-conj
-np
-pp
-verb
-np
-verb
-np
-np
-verb
-np
-verb
-noun
-verb
-adv
-verb
-np
 adj
-pp
+np
 verb
-noun
-pp
-verb
-pp
-pp
 conj
 np
 np
-adv
-verb
-noun
-conj
-verb
+np
 pp
-conj
-verb
-pp
-adj
 verb
 verb
-conj
-pron
 adj
 verb
 pp
 np
 np
+conj
+257279	np
+conj
+np
+np
+conj
+257285	np
+verb
+pron
+np
+conj
+verb
+verb
+np
+verb
+pron
 verb
 adj
+verb
+pp
+np
+conj
+conj
+pron
+pron
+verb
+pron
+adj
+verb
+adv
+verb
+pp
+257312	np
+verb
+conj
+np
+257317	conj
+verb
+257320	np
+conj
+np
+np
+pp
+conj
+conj
+np
+np
+verb
+pp
+np
+conj
+pron
+noun
+verb
+pron
+verb
+pp
+pron
+pron
+verb
+conj
+conj
+verb
+conj
+verb
+conj
+pron
+verb
+adj
+pp
+np
+verb
+adj
+257356	conj
+verb
+conj
+conj
+np
+np
+np
+conj
+pron
+adj
+adj
+verb
+257369	verb
+np
+np
+conj
+np
+np
+conj
+verb
+np
+verb
+conj
+pron
+noun
+verb
+conj
+pron
+conj
+257387	adj
+pron
+verb
+conj
+conj
+verb
+pron
+np
+verb
+verb
+conj
+pron
+verb
+conj
+257402	np
+np
+np
+np
+verb
+np
+conj
+np
+np
+conj
+np
+np
+np
+257416	conj
+pp
+verb
+verb
+np
+np
+np
+conj
+257425	conj
+np
+np
+verb
+np
+np
+257432	conj
+verb
+conj
+np
+verb
+conj
+conj
+adv
+verb
 noun
 adv
 verb
+conj
+conj
+adj
+noun
+257449	conj
 verb
 noun
+conj
+conj
 adv
 verb
+verb
+np
+np
+257460	conj
+verb
+np
+conj
+np
+verb
+257467	conj
+verb
+noun
+pp
+conj
+noun
+pp
+257475	advp
+conj
+verb
+noun
+pp
+np
+conj
+noun
+pp
+np
+pp
+verb
+np
 noun
 verb
 pp
+np
+pp
+np
+conj
+conj
+noun
+pp
+conj
+noun
+pp
+pp
+257503	conj
+conj
+np
+pp
+np
 adv
+np
+np
+pp
+np
+np
+conj
+pp
+np
+pp
+np
+verb
+verb
+verb
+np
+np
+verb
+adv
+np
+np
+verb
+pron
+conj
+noun
+conj
+conj
+verb
+noun
+pron
 verb
 noun
 conj
 conj
-adv
 verb
-adv
+noun
+pron
 verb
 conj
-conj
+np
+pp
 verb
+pron
+conj
+conj
+pron
+verb
+adj
+verb
+pron
 np
 adv
+verb
+conj
+np
+np
+np
+pron
+conj
+verb
+adv
+verb
+conj
+257571	pp
+np
+conj
+pp
+np
+verb
+conj
+conj
+verb
+pron
+pp
+verb
+noun
+pp
+verb
+conj
+np
+verb
+verb
+conj
+np
+pp
+verb
+conj
+np
+np
+adj
+verb
+pp
+verb
+conj
+pron
+pp
+np
+adv
+verb
+np
+verb
+257610	adj
+conj
+np
+np
+verb
+pp
+verb
+conj
+257619	pron
+conj
+verb
+pron
+conj
+verb
+conj
+noun
+adv
+verb
+pp
+257631	conj
+conj
+np
+np
+np
+verb
+conj
+verb
+adv
+verb
+pron
+verb
+pron
+verb
+pron
+pp
+adv
+verb
+pron
+conj
+verb
+pp
+np
+pron
+adv
+verb
+pron
+257659	np
+pp
+np
+pron
+verb
 verb
 noun
 conj
+verb
+verb
+conj
+verb
+pron
+257673	np
+verb
+np
+np
+pp
+pron
+verb
+pp
+np
+np
+np
+np
+pp
+verb
+verb
+np
+np
+np
+np
+verb
+pp
+np
+np
+pron
+verb
+conj
+verb
+pp
+np
+np
+conj
+conj
+verb
+np
+np
+conj
 np
 verb
 np
+np
+np
+verb
+pp
 pron
+verb
+conj
+pron
+257721	verb
+np
+conj
+verb
+np
+np
+np
+adv
+adj
+verb
+np
+257733	np
+conj
+np
+np
+verb
+conj
+noun
+pron
+conj
+257743	adv
+pp
+np
+verb
+conj
+pp
+np
+verb
+conj
+257753	conj
+noun
+pron
+257757	conj
+adv
+verb
+np
+pp
+pp
+adj
+257765	conj
+conj
+verb
+adj
+conj
 conj
 pron
 verb
+adv
+verb
+verb
+conj
+pp
+np
+verb
+conj
+adv
+pp
+np
+verb
+conj
+np
+verb
+pp
+verb
 pron
+verb
+conj
+pron
+verb
+pp
+verb
+conj
+adv
+pp
+verb
+np
+conj
+conj
+verb
+verb
+pp
+conj
+np
+noun
+adv
+verb
+pron
+verb
+verb
+conj
+conj
+noun
+verb
+pp
+np
+np
+np
+conj
+verb
+verb
+conj
+verb
+pron
+conj
+np
+pp
+np
+verb
+verb
+noun
+noun
+conj
+adj
+verb
+verb
+noun
+noun
+conj
+adv
+pp
+np
+np
+conj
+verb
+np
+conj
+np
+conj
+np
+verb
+conj
+np
+np
+conj
+np
+verb
+257863	np
+conj
+np
+verb
+np
+pp
+adj
+conj
+verb
+np
+np
+np
+pp
+verb
+pron
+conj
+conj
+pp
+np
+verb
+np
+adj
+conj
+np
+pp
+np
+np
+adj
+noun
+pp
+np
+np
+adj
+conj
+np
+pp
+np
+np
+adj
+conj
+np
+adj
+conj
+noun
+adj
+conj
+np
+adj
+np
+adj
+conj
+np
+np
+conj
+verb
+257919	np
+conj
+np
+np
+verb
+np
+conj
+verb
+conj
+conj
+257931	np
+adj
+verb
+conj
+np
+verb
+np
+conj
+np
+np
+np
+adj
+verb
+np
+verb
+adv
+np
+np
+pp
+conj
+pp
+np
+257954	pp
+np
+verb
+257958	conj
+conj
+conj
+conj
+conj
+adj
+np
+verb
+np
+conj
+np
+257970	verb
+np
+conj
+conj
+verb
+np
+conj
+adv
+verb
+noun
+adv
+verb
+pp
+np
+pp
+adv
+verb
+pp
+np
+conj
+conj
+verb
+np
+conj
+adv
+verb
+noun
+adv
+verb
+pp
+np
+pp
+adv
+verb
+pp
+np
+conj
+np
+np
+noun
+adv
+np
+conj
+adj
+noun
+adv
+np
+adv
+conj
+np
+verb
+258022	np
+np
+np
+pp
+np
+conj
+verb
+conj
+conj
+verb
+np
+np
+adv
+np
+adv
+conj
+adj
+conj
+noun
+adj
+conj
+noun
+adv
+verb
+conj
+np
+verb
+np
+np
+adv
+verb
+conj
+adv
+np
+np
+np
+adv
+verb
+conj
+258062	advp
+np
+np
+verb
+np
+np
+adj
+verb
+adj
+verb
+conj
+pron
+verb
+np
+verb
+np
+pron
+np
+verb
+conj
+np
+np
+np
+verb
+np
+conj
+np
+adv
+noun
+verb
+conj
+np
+verb
+np
+verb
+np
+verb
+conj
+258101	adv
+verb
+noun
+pp
+np
+conj
+np
+pp
+verb
+np
+conj
+conj
+verb
+np
+verb
+np
+np
 conj
 verb
 noun
+verb
 np
+np
+pron
+conj
+verb
+258128	np
+conj
+np
+pp
+conj
+pron
+verb
+np
+pp
+np
+adj
+noun
+adj
+noun
+adj
+noun
+adv
+noun
+adv
+258148	np
+np
+adj
+noun
+adj
+noun
+adj
+noun
+adj
+noun
+adj
+np
+verb
+adj
+noun
+verb
+adj
+verb
+verb
+conj
+np
+np
+np
+conj
+pp
+pp
+noun
+pron
+verb
+conj
+258179	np
+np
+258182	np
+verb
+conj
+np
+noun
+conj
+adv
+verb
+verb
+258192	np
+verb
+conj
+np
+verb
+conj
+258199	conj
+258201	verb
+noun
+conj
+verb
+258206	np
+np
+conj
+np
+np
+conj
+conj
+verb
+np
+np
+conj
+noun
+verb
+noun
+conj
+adv
+verb
+adj
+verb
+conj
+258228	conj
+verb
+np
+np
+verb
+conj
+conj
+verb
+np
+np
+conj
+verb
+noun
+conj
+adv
+verb
+adj
+verb
+np
+verb
+verb
+np
+adv
+verb
+np
+adv
+verb
+adv
+verb
+adv
+verb
+adv
+verb
+np
+adv
+verb
+adv
+verb
+np
+258268	verb
+pp
+np
+verb
+conj
+np
+adj
+verb
+adj
+verb
+adj
+verb
+adj
+verb
+np
+adv
+verb
+conj
+conj
+noun
+verb
+conj
+noun
+verb
+conj
+noun
+verb
+pp
+conj
+verb
+conj
+pp
+verb
+conj
+conj
+verb
+np
+np
+pp
+verb
+conj
+verb
+adj
+verb
+pp
+conj
+verb
+pp
+conj
+verb
+pp
+conj
+conj
+verb
+noun
+verb
+np
+np
+verb
+conj
+adv
+pp
+pp
+adv
+conj
+noun
+pp
+adv
+verb
+pp
+adv
+conj
+verb
+conj
+adv
+verb
+adv
+conj
+verb
+258349	np
+np
+adj
+conj
+pron
+np
+258356	verb
+np
+verb
+conj
+np
+adv
+conj
+conj
+verb
+conj
+verb
+noun
+adv
+noun
+verb
+conj
+noun
+258374	adj
+conj
+verb
+noun
+conj
+verb
+noun
+conj
+verb
+noun
+verb
+258386	conj
+conj
+verb
+noun
+pron
+verb
+conj
+verb
+noun
+verb
+verb
+conj
+np
+verb
+noun
+adv
+conj
+conj
+verb
+adj
+conj
+verb
+conj
+verb
+noun
+adv
+conj
+adv
+verb
+conj
+np
+noun
+verb
+adv
+conj
+noun
+conj
+verb
+pp
+noun
+verb
+pron
+pron
+verb
+conj
+adv
+pron
+verb
+258435	conj
+pp
+conj
+pp
+conj
+pp
+258442	conj
+np
+np
+noun
+verb
+258448	conj
+conj
+conj
+noun
+np
+adv
+verb
+adv
+verb
+258458	verb
+conj
+verb
+np
+conj
+conj
+np
+verb
+pron
+verb
+pp
+np
+pp
+np
+conj
+adv
+np
+verb
+adv
+verb
+verb
 vp
-np
 conj
+pp
 np
-verb
-noun
 conj
-adv
-verb
 verb
-conj
+np
 verb
+pp
 conj
-adv
-verb
+adj
+adj
 conj
-verb
 conj
 adv
 verb
-conj
+np
+np
+np
 verb
-conj
-adv
 verb
+adj
 conj
 verb
+pp
+adj
 np
-conj
-adv
-verb
-verb
 conj
 np
+verb
+pp
 np
 np
 np
 verb
 conj
-pron
-adj
 verb
-257657	np
+conj
 verb
-np
-np
-adv
+noun
 verb
-np
-257665	conj
+conj
 verb
+conj
+conj
 verb
-np
+noun
 np
-adv
-verb
 np
-conj
 verb
-257676	conj
-257678	np
 np
 conj
 np
+adj
 verb
-np
-np
+pron
 conj
 verb
-adj
-257689	conj
-np
-conj
-np
-257694	conj
 verb
+np
 verb
+conj
 np
 np
-adv
 verb
 np
-pron
+verb
 conj
-pp
-np
 np
 np
+conj
+conj
 verb
-257710	conj
 noun
-pron
 verb
-conj
-pp
 np
-conj
 np
+np
 adv
-257722	conj
-conj
-pron
 verb
+np
 pp
 np
 np
-verb
-conj
-verb
-adj
 conj
-adv
-verb
-verb
 pron
-verb
 verb
-257741	adv
-verb
+adv
 verb
 pron
 conj
+conj
+adv
 verb
-pp
-np
+conj
 np
-adj
 adv
 verb
-noun
-257755	noun
-conj
 verb
-pp
 np
 np
-conj
-pron
+adv
+noun
 verb
+conj
 pp
-np
-np
 verb
 np
 np
-adv
+np
 verb
 conj
+np
+verb
 conj
+np
+pp
+noun
+258598	noun
 verb
 np
+conj
 np
-adv
 verb
+np
 conj
-adv
-verb
 adj
 verb
-noun
-verb
 pp
 np
 verb
-np
-np
 conj
+258613	pp
 conj
+pp
+np
 verb
 np
-adj
+np
+conj
+adv
+adv
 verb
 pron
-verb
 verb
-adj
-pp
-257803	adj
+noun
 conj
+np
+pp
 verb
+258632	verb
 conj
-adv
-verb
-pp
 np
 np
+conj
+258638	np
+conj
 verb
 conj
-pron
+conj
+258645	verb
 np
-verb
+np
 pp
-conj
 np
-verb
 conj
 adj
-noun
 verb
-np
+noun
 verb
-np
 conj
+258657	conj
 verb
-257831	conj
-pron
-verb
-verb
-pron
-adv
+conj
 verb
 conj
+conj
+258664	adj
 verb
 verb
-257842	conj
 conj
-pron
-verb
 np
-pron
+258670	conj
 verb
 pp
+verb
 pp
 np
 np
-conj
 np
-verb
-257857	conj
-adj
-noun
-pp
-conj
-conj
+np
 adj
-noun
+verb
 conj
-adv
-adj
 adv
-conj
-conj
+verb
+pp
 verb
 np
 verb
-257875	conj
-pp
 conj
+adv
+np
 pp
+verb
+pron
 conj
-257881	verb
+verb
 noun
-adj
 conj
-noun
+verb
 adj
-conj
-257889	pron
+noun
+verb
+noun
+verb
+noun
+verb
+noun
+verb
+noun
+verb
 adj
-257893	np
 pp
-np
+verb
 conj
+noun
 pron
+verb
+258718	pp
+258720	conj
+258722	np
+conj
 pp
 conj
 adj
-257904	pp
-np
+verb
 conj
-pron
-pp
 conj
 adv
+verb
+noun
+verb
 pp
-np
-257914	pron
+258736	conj
+verb
 conj
 np
-pp
 np
 conj
-adj
+258743	conj
 verb
 conj
-np
 np
-adj
-verb
 verb
-noun
 conj
-pron
-adv
+conj
+np
+verb
 verb
 np
-conj
-conj
-adv
 verb
 verb
-conj
 conj
+pp
+adj
 verb
+conj
+258762	adj
 verb
-257944	verb
 conj
+adj
+verb
 conj
-np
 np
-np
 noun
+verb
+258772	conj
 verb
+noun
 np
-257954	conj
 conj
-pron
-verb
-257959	verb
 noun
+conj
 pp
-verb
 np
 np
-adj
-verb
-verb
-pp
 np
-verb
-verb
-conj
-257974	verb
-pp
 np
 np
+pp
 np
-257980	pp
-noun
 verb
-257984	adv
+adv
 conj
 verb
-pp
-np
+pron
+verb
 conj
 verb
-np
+conj
 np
 np
-verb
-pp
 verb
 conj
 conj
-noun
+pron
 verb
-np
-np
-advp
 verb
-noun
 pp
-np
-conj
-adv
 np
 np
-verb
 verb
 adj
+conj
 verb
 noun
-258018	np
-np
 verb
+pp
+conj
+pp
 np
 np
-pron
+np
 verb
-pp
 conj
+pp
 adj
-adv
 verb
-noun
 conj
 pron
 verb
-np
+258828	verb
 conj
-np
-np
-np
+verb
 pron
 verb
-pp
-np
+pron
+conj
 np
+verb
+conj
+conj
 pron
 verb
 verb
-pron
-adv
+conj
+np
 verb
-noun
-258052	conj
+verb
+conj
+verb
 adv
 verb
 noun
-258057	verb
+adj
 conj
-np
-258061	np
-np
+258854	conj
+pp
+verb
+verb
 conj
-np
-np
+pron
+noun
 np
-conj
-conj
-adj
-258071	conj
-ptcl
+pron
 verb
-noun
+pron
+pron
 adv
 verb
-pron
+pp
+adv
 verb
-np
+pp
 adv
+verb
+np
+verb
 pron
+conj
 verb
-noun
 conj
-np
-np
 adv
+adv
+verb
 verb
 conj
+pron
+pp
 pron
+adv
 verb
-noun
-conj
+258891	noun
+verb
 pp
 np
 np
-np
-adv
-verb
 pp
-pron
+np
+conj
 verb
 conj
+verb
 np
 np
-pron
-ptcl
-verb
-pp
-conj
 np
+pp
 np
+conj
 verb
+noun
 adv
-verb
 np
+adv
 verb
 np
-verb
 np
-conj
-pp
 adv
-verb
 pp
-conj
+np
 verb
-conj
-258130	verb
 pp
-verb
-verb
+pron
 conj
 verb
-pp
+adv
 verb
+noun
+adv
+np
+np
+np
 conj
-pron
-pron
+conj
 np
 verb
-adj
-conj
 pron
+pron
+conj
+verb
+np
 np
 np
+pron
+adv
 verb
-258150	conj
 adj
-np
-np
 verb
-adv
-pron
+noun
 conj
-258159	adv
 verb
+np
 np
 np
+258954	np
 conj
-adj
 verb
-conj
-adv
-np
+pron
 verb
-np
+conj
+258961	np
 np
 np
+pp
 adv
+adj
 verb
 conj
-258177	np
+258970	adj
+np
 verb
+258974	conj
+conj
 np
-pp
 np
-verb
 np
-verb
 np
+pp
+258982	conj
+conj
+conj
+adv
 verb
+conj
 adv
-np
-np
 verb
-np
+conj
+conj
+noun
 verb
+conj
 pp
-np
 verb
-pron
-conj
 adv
 verb
+np
+pp
+conj
 np
-258202	adv
+adv
 verb
 conj
-pron
 conj
+np
 adv
 verb
-pp
-258211	adj
+adv
+noun
+verb
 conj
-pron
+conj
+noun
 adv
 verb
+259019	adj
 conj
 np
 np
 adj
+np
+np
+np
 verb
-258222	conj
 conj
-verb
-adv
-verb
-pron
-noun
-noun
+np
+np
+np
 conj
-pron
 verb
-258234	ptcl
+pp
+np
 conj
+verb
+np
 pron
+adv
 verb
 conj
+conj
+adj
 adv
 verb
 conj
 conj
 adj
-pron
+adv
 verb
+adv
 noun
 verb
 conj
 conj
-adj
 noun
+adv
 verb
-pron
-conj
+adj
 np
+np
+adv
 verb
+pp
+np
 np
 conj
-verb
-adj
-verb
 np
+verb
 pp
-adv
 verb
+conj
+pp
 np
 np
 pp
-np
+vp
 adj
-conj
-verb
-pp
 adj
-pron
+np
 verb
+adv
 conj
+259086	verb
+pp
 np
 verb
 conj
-258283	verb
-np
+conj
+pp
+noun
+pp
 pp
+np
 conj
 conj
+pp
+np
 adj
 verb
-np
+adv
 pp
 pp
+np
+adj
+verb
+adj
 conj
 pp
+np
+np
+noun
+noun
 adv
-verb
-pron
-pp
-conj
+np
 np
 pp
+np
+np
+adv
+np
 verb
 np
-pp
-conj
-258307	verb
 np
+259128	verb
+259130	np
 conj
 np
+259134	conj
+verb
 conj
+pron
+verb
+pp
+pron
 verb
+np
+np
+pp
 np
+np
+259148	np
 verb
 np
 adj
 conj
-np
 verb
+pp
+np
 np
+conj
+conj
 verb
-adj
 conj
-adv
-pron
+adj
 verb
 adj
 conj
-verb
 pp
+verb
+pron
 np
 conj
-np
+conj
 verb
+pron
+np
 adv
+np
+np
+np
 verb
-conj
-pp
 verb
-adj
+pron
+np
 conj
 verb
+np
 adj
+pp
 conj
+pron
+verb
 verb
+pp
 np
+conj
+adv
+adj
 adv
 verb
-conj
+pron
+adv
 verb
-258352	np
-conj
+pp
+pron
+np
 verb
-adj
+np
+pp
 verb
-pron
-conj
-conj
-conj
+np
+np
 np
+noun
+pron
 verb
-258364	pron
+pp
+259217	np
+np
 conj
-adj
+pp
+verb
+pp
 pron
+pron
+np
 conj
+adj
 adv
+verb
 verb
 conj
-adv
+verb
 adv
+conj
+verb
 adv
+verb
+verb
+np
+np
 verb
+adv
 conj
 adv
-noun
 verb
-conj
-258382	verb
-np
 np
 conj
+pron
+verb
+pp
+pron
 verb
 conj
-adj
 verb
 pron
+259257	adv
+verb
+np
+np
+conj
+verb
 adj
+pron
+pron
 verb
 adv
 verb
 conj
+adv
+verb
+conj
 pron
 verb
-noun
+259277	np
+verb
+verb
+conj
+np
 conj
-258401	np
+verb
+259285	conj
 np
 np
-pp
 np
+conj
 verb
+pron
+noun
 conj
-adj
-pp
-np
 verb
 conj
-adj
-pp
 np
-verb
-258418	pp
 np
-conj
-pp
+np
+259300	np
 np
+np
+conj
+259305	adj
 conj
-258425	adj
+noun
+adj
+conj
 np
+adj
+conj
 np
+adj
+conj
+noun
+conj
+259319	np
+conj
 np
-verb
 conj
 adj
+conj
 np
 np
 np
-verb
-verb
+adj
 conj
-pp
 np
 np
-verb
+adj
 np
 conj
-verb
+adj
 np
+conj
+adj
+np
+noun
 conj
-258448	adv
+noun
+verb
 pp
+adv
 np
 np
-verb
 np
+np
 verb
-conj
 pp
-np
-pron
-conj
-np
 verb
 pp
-adv
 verb
-pron
-np
-conj
-pron
+pp
 verb
-conj
-258473	noun
+pp
 verb
-conj
+pp
+verb
+pp
+verb
 np
-conj
 verb
-258480	verb
 np
-258483	conj
 conj
 verb
-verb
-conj
+np
 verb
-conj
-258491	np
+np
+adv
+adv
 verb
-conj
 verb
+259376	np
 np
+pp
 np
-conj
 verb
 np
-conj
-258502	np
-verb
-conj
+np
 pp
 np
-verb
-conj
 verb
 conj
-258512	np
-verb
+259388	adj
+np
 conj
-verb
+np
+adv
+np
+np
+np
 pp
+adj
+np
 np
+pp
 pron
-conj
-adv
-verb
+np
 pron
-verb
-conj
-pp
 np
-258528	pp
+np
+conj
+pron
 np
+pron
 np
 np
-verb
 conj
-verb
+conj
 verb
+np
+np
+np
 verb
+np
+np
+np
+np
+pron
 conj
 verb
 noun
-pron
-adv
+259428	conj
+np
 verb
-conj
 adv
-adj
-adj
+verb
 conj
 np
-258550	pron
-258552	verb
-pron
+np
 verb
-pp
+verb
+noun
 pron
+verb
+adj
+adv
 verb
+adj
 conj
 verb
+259448	pp
 pp
 np
+pp
 np
 np
 verb
-verb
+conj
 conj
 np
 verb
-pp
-np
-conj
 adj
-verb
-verb
-pron
+conj
 pron
+verb
 verb
+conj
 np
-258580	np
 np
-pron
 verb
-ptcl
+noun
+conj
 np
-verb
 np
+verb
+noun
+conj
+conj
+259477	np
 np
+verb
+noun
+conj
 np
 np
-258592	pron
 verb
-ptcl
+noun
+adv
+verb
+259489	np
+verb
+verb
 np
+pp
+adv
 np
+noun
 np
+adv
 np
-verb
-258601	conj
-adj
 noun
+np
+259503	np
+conj
 np
 np
-verb
 np
+np
 conj
-pp
 np
 np
-verb
-verb
 np
+259514	np
+conj
+noun
+verb
+pron
 np
 pp
-verb
+259522	np
 np
+259525	conj
 np
 np
+adjp
 verb
-pron
-conj
 verb
-conj
-adj
-pron
+pp
+np
+np
+np
+adv
 verb
 conj
-conj
-noun
-pron
+np
+np
+adv
 verb
+adj
+pp
+pp
 conj
+259547	np
+np
+pp
+np
 conj
-pron
 verb
-258639	conj
 np
-verb
+np
+np
 adv
+np
 verb
-conj
-pron
+pp
 np
 np
+pp
 verb
-adv
 verb
-258652	np
+pron
 verb
 conj
-np
 adv
+conj
 verb
-258659	np
+adv
+noun
 verb
 conj
-np
 conj
 verb
-np
-adj
 pron
-verb
-adj
 verb
-conj
-adv
-adj
+pp
+pron
 verb
-adj
 verb
+np
+np
+pp
 conj
-adv
+conj
 adj
 verb
-adj
-np
+pron
 verb
-conj
-np
-np
-258688	np
 pp
-verb
 verb
-adj
 verb
-pp
-np
-np
 conj
-258699	np
+pp
 conj
-np
-np
-258704	conj
-258706	np
+noun
 verb
-pron
-np
+noun
 conj
-verb
 verb
-np
+pp
+conj
 verb
-pron
 verb
-adj
+conj
+adv
 verb
-pp
-np
-258722	conj
 conj
 pron
 pron
 verb
-pron
-adj
+conj
 verb
 adv
 verb
+conj
+pron
+adv
 pp
-258734	np
 verb
-conj
-np
-258739	conj
 verb
-258742	np
-conj
-np
-np
-pp
-conj
 conj
 np
-np
 verb
 pp
+conj
 np
-258755	conj
-pron
-noun
 verb
-pron
 verb
+conj
 pp
-pron
+pp
+np
+np
+conj
 pron
 verb
-258766	conj
+conj
 conj
 verb
+adj
+conj
 conj
+verb
+noun
 verb
 conj
-pron
+adv
 verb
-adj
 pp
 np
-verb
-adj
-258780	conj
-verb
 conj
-conj
-np
 np
-np
-conj
-258789	pron
-adj
-adj
 verb
-258794	verb
-np
-np
+pp
 conj
-np
-np
+adv
+pron
 conj
+pron
 verb
-np
 verb
 conj
 pron
-noun
+pp
+conj
 verb
+pp
+verb
 conj
 pron
+pp
+np
+259677	pp
 conj
-258812	adj
-pron
+259680	np
+adj
 verb
+pron
 conj
-258817	conj
 verb
-pron
+pp
+pp
 np
-verb
-verb
 conj
-pron
+adv
+adv
 verb
+noun
 conj
-258828	np
-np
-np
-np
+adv
 verb
-np
+verb
 conj
-np
-np
 conj
-np
+verb
+verb
+verb
+pp
 np
+verb
+verb
 np
-258842	conj
 pp
 verb
 verb
-np
-np
-np
 conj
-258851	conj
+pron
+noun
+verb
 np
 np
+conj
 verb
 np
+np
+conj
+pp
 np
-258858	conj
 verb
+pron
 conj
 np
 verb
+259730	np
 conj
+np
+verb
 conj
-adv
 verb
-noun
-adv
 verb
 conj
+pp
+np
+np
 conj
-adj
-noun
-258875	conj
-verb
-noun
 conj
 conj
-adv
+np
+np
+pron
 verb
 verb
+conj
+259751	np
 np
+conj
 np
-258886	conj
 verb
-np
 conj
 np
 verb
-258893	conj
+pron
+np
+np
+np
 verb
-noun
-pp
-conj
-noun
+pron
 pp
-258901	advp
-conj
-verb
-noun
+adj
+259768	conj
 pp
 np
-conj
-noun
-pp
 np
 pp
+np
 verb
+pron
 np
-noun
+np
 verb
+pron
 pp
 np
-pp
 np
-conj
+np
+np
+np
 conj
+pron
+adv
+verb
+np
+verb
 noun
-pp
-conj
 noun
-pp
-pp
-258929	conj
-conj
+verb
 np
+np
+259798	np
 pp
 np
-adv
 np
+pp
 np
 pp
+259808	np
 np
+259811	pp
 np
 conj
-pp
+259815	np
+259817	np
 np
-pp
 np
-verb
 verb
-verb
-np
+pp
+pp
+259824	np
 np
 verb
-258952	adv
+pp
 np
 np
-verb
-pron
-conj
-noun
-conj
-conj
-verb
-noun
-pron
-verb
-noun
+259831	pron
 conj
+pp
+259836	np
 conj
-verb
-noun
-pron
-verb
-conj
-np
-pp
-verb
-pron
-258978	conj
-conj
-pron
-verb
-adj
-verb
-pron
-np
-adv
-verb
-conj
-np
-np
-np
-pron
-conj
-verb
-adv
-verb
-conj
-258999	pp
-np
-conj
-pp
-np
-verb
-conj
-conj
-259008	verb
-pron
-pp
-verb
-noun
-pp
-verb
-conj
-np
-verb
-259019	verb
-conj
-np
-pp
-verb
-conj
-np
-np
-adj
-verb
-pp
-259032	verb
-conj
-pron
-pp
-np
-adv
-verb
-np
-verb
-259042	adj
-conj
-np
-np
-verb
-pp
-verb
-conj
-259051	pron
-conj
-verb
-pron
-conj
-verb
-conj
-noun
-adv
-verb
-pp
-259063	conj
-conj
-np
-np
-np
-verb
-conj
-verb
-adv
-verb
-pron
-verb
-pron
-verb
-pron
-pp
-adv
-verb
-pron
-conj
-verb
-pp
-np
-pron
-adv
-verb
-pron
-259091	np
-pp
-np
-259095	pron
-verb
-verb
-noun
-conj
-verb
-verb
-conj
-verb
-259105	pron
-259107	np
-verb
-np
-np
-pp
-pron
-verb
-pp
-np
-np
-np
-np
-pp
-verb
-verb
-259123	np
-np
-np
-np
-verb
-pp
-np
-np
-pron
-verb
-conj
-verb
-pp
-np
-np
-259139	conj
-conj
-verb
-np
-np
-conj
-np
-verb
-np
-np
-np
-verb
-pp
-pron
-verb
-conj
-pron
-259157	verb
-np
-conj
-verb
-np
-np
-np
-adv
-adj
-verb
-np
-259169	np
-conj
-np
-np
-verb
-conj
-noun
-pron
-conj
-259179	adv
-pp
-np
-verb
-conj
-pp
-np
-verb
-conj
-259189	conj
-noun
-pron
-259193	conj
-adv
-verb
-np
-pp
-pp
-adj
-259201	conj
-conj
-verb
-adj
-259206	conj
-conj
-pron
-verb
-adv
-verb
-verb
-conj
-pp
-np
-verb
-conj
-adv
-pp
-np
-verb
-conj
-np
-verb
-pp
-verb
-pron
-verb
-conj
-pron
-verb
-pp
-verb
-conj
-adv
-pp
-verb
-np
-conj
-conj
-verb
-verb
-pp
-conj
-np
-noun
-adv
-verb
-pron
-verb
-verb
-conj
-259254	conj
-noun
-verb
-pp
-np
-np
-np
-conj
-verb
-verb
-conj
-verb
-pron
-conj
-np
-pp
-np
-verb
-verb
-noun
-noun
-conj
-adj
-verb
-verb
-noun
-noun
-conj
-adv
-pp
-np
-np
-conj
-verb
-np
-conj
-np
-conj
-np
-verb
-conj
-np
-np
-conj
-np
-verb
-259301	np
-conj
-np
-verb
-np
-pp
-adj
-conj
-verb
-np
-np
-np
-pp
-verb
-pron
-conj
-conj
-pp
-np
-verb
-np
-adj
-conj
-np
-pp
-np
-np
-adj
-noun
-pp
-np
-np
-adj
-conj
-np
-pp
-np
-np
-adj
-conj
-np
-adj
-conj
-noun
-adj
-conj
-np
-adj
-np
-adj
-conj
-np
-259354	np
-conj
-verb
-259358	np
-conj
-np
-np
-verb
-np
-conj
-verb
-conj
-conj
-259370	np
-adj
-verb
-conj
-np
-verb
-np
-conj
-np
-np
-np
-adj
-verb
-np
-verb
-adv
-np
-np
-pp
-conj
-pp
-np
-259393	pp
-np
-verb
-259397	conj
-conj
-conj
-conj
-conj
-adj
-np
-verb
-np
-conj
-np
-259409	verb
-np
-conj
-259413	conj
-verb
-np
-259417	conj
-adv
-verb
-noun
-adv
-verb
-pp
-np
-pp
-adv
-verb
-pp
-np
-conj
-259432	conj
-verb
-np
-259436	conj
-adv
-verb
-noun
-adv
-verb
-pp
-np
-pp
-adv
-verb
-pp
-np
-conj
-np
-np
-noun
-adv
-np
-conj
-adj
-noun
-adv
-np
-adv
-conj
-np
-verb
-259465	np
-np
-np
-pp
-np
-conj
-verb
-conj
-conj
-verb
-np
-np
-adv
-np
-adv
-conj
-adj
-conj
-noun
-adj
-conj
-noun
-adv
-verb
-conj
-np
-verb
-np
-np
-adv
-verb
-conj
-259498	adv
-np
-np
-np
-adv
-verb
-conj
-259506	advp
-np
-np
-verb
-np
-np
-adj
-verb
-adj
-verb
-conj
-pron
-verb
-np
-verb
-np
-pron
-np
-verb
-conj
-np
-np
+259840	adj
 np
-verb
-np
-conj
-np
-adv
-noun
-verb
-conj
-np
-verb
-np
-verb
-np
-verb
-conj
-259545	adv
-verb
-noun
-pp
-np
-conj
-np
-pp
-verb
-np
-conj
-259558	conj
-verb
-np
-verb
-np
-np
-259565	conj
-verb
-noun
-verb
-np
-np
-pron
-conj
-verb
-259575	np
-conj
-np
-pp
-conj
-pron
-verb
-np
-pp
-np
-259586	adj
-noun
-adj
-noun
-adj
-noun
-adv
-noun
-adv
-259596	np
-np
-adj
-noun
-adj
-noun
-adj
-noun
-adj
-noun
-adj
-np
-verb
-adj
-noun
-verb
-adj
-verb
-verb
-conj
-np
-np
-np
-conj
-pp
-pp
-noun
-pron
-verb
-259626	conj
-259628	np
-np
-259631	np
-verb
-conj
-np
-noun
-conj
-adv
-verb
-verb
-259641	np
-verb
-conj
-np
-verb
-conj
-259649	conj
-259651	verb
-noun
-conj
-verb
-259656	np
-np
-conj
-np
-np
-conj
-conj
-verb
-np
-np
-conj
-noun
-verb
-noun
-conj
-adv
-verb
-adj
-verb
-conj
-259678	conj
-verb
-np
-np
-verb
-conj
-conj
-verb
-np
-np
-conj
-verb
-noun
-conj
-adv
-verb
-adj
-verb
-259697	np
-verb
-verb
-np
-adv
-verb
-np
-adv
-verb
-adv
-verb
-adv
-verb
-adv
-verb
-np
-adv
-verb
-adv
-verb
-np
-259719	verb
-pp
-np
-verb
-conj
-np
-259726	adj
-verb
-adj
-verb
-adj
-verb
-adj
-verb
-np
-adv
-verb
-259739	conj
-conj
-noun
-verb
-259744	conj
-noun
-verb
-259748	conj
-noun
-verb
-pp
-conj
-verb
-conj
-pp
-verb
-conj
-conj
-verb
-np
-np
-pp
-verb
-259765	conj
-verb
-adj
-259769	verb
-pp
-conj
-verb
-pp
-conj
-verb
-pp
-conj
-conj
-verb
-noun
-verb
-np
-np
-verb
-conj
-adv
-pp
-pp
-adv
-conj
-noun
-pp
-adv
-verb
-pp
-adv
-conj
-verb
-conj
-adv
-verb
-adv
-conj
-verb
-259807	np
-np
-adj
-conj
-pron
 np
-259814	verb
-np
-verb
-conj
-np
-adv
-conj
-conj
-verb
-259824	conj
-verb
-noun
-adv
-noun
-verb
-conj
-noun
-259833	adj
-conj
-verb
-noun
-conj
-verb
-noun
-conj
-verb
-noun
-verb
 259845	conj
-conj
-verb
-noun
-pron
-verb
-conj
-verb
-noun
-verb
-verb
-conj
-np
-verb
-noun
-adv
-conj
-conj
-verb
-259865	adj
-conj
-verb
-conj
-verb
-noun
-adv
-conj
-adv
-verb
-conj
-np
-noun
-verb
-259880	adv
-conj
-noun
-conj
-verb
-pp
-noun
-verb
-pron
-pron
-verb
-conj
-adv
-pron
-verb
-259896	conj
-pp
-conj
-pp
-conj
-pp
-259903	conj
-259905	np
-np
-noun
-verb
-259910	conj
-conj
-259913	conj
-noun
-np
-adv
-verb
-adv
-verb
-259921	verb
-conj
-verb
-np
-conj
-conj
-np
-verb
-pron
-verb
-pp
-259933	np
-pp
-np
-conj
-adv
-np
-verb
-adv
-verb
-verb
-vp
-conj
-pp
-259947	np
-conj
-verb
-np
-verb
-pp
-conj
-adj
-adj
-259957	conj
-conj
-adv
-verb
-np
-np
-np
-verb
-verb
-adj
-conj
-verb
-pp
-adj
-np
-conj
-np
-verb
-pp
-np
-np
-np
-verb
-conj
-verb
-conj
-verb
-noun
-verb
-conj
-verb
-259989	conj
-conj
-verb
-noun
-np
-np
-verb
-np
-conj
-np
-adj
-verb
-pron
-conj
-verb
-260006	verb
-np
-verb
-conj
-np
-np
-verb
-np
-verb
-conj
-np
-np
-conj
-260021	conj
-verb
-noun
-verb
-np
-np
-np
-adv
-verb
-np
-pp
-np
-np
-conj
-pron
-verb
-adv
-verb
-pron
-conj
-conj
-adv
-verb
-conj
-np
-adv
-verb
-verb
-np
-np
-adv
-noun
-verb
-conj
-pp
-verb
-np
-np
-np
-verb
-conj
-np
-verb
-conj
-np
-pp
-noun
-260069	noun
-verb
-np
-conj
-np
-verb
-np
-conj
-adj
-verb
-pp
-np
-verb
-conj
-260085	pp
-conj
-pp
-np
-verb
-np
-np
-conj
-adv
-adv
-verb
-pron
-verb
-noun
-conj
-np
-pp
-verb
-260104	verb
-conj
-np
-np
-conj
-260110	np
-conj
-verb
-260114	conj
-conj
-260118	verb
-np
-np
-pp
-np
-conj
-adj
-verb
-noun
-verb
-conj
-260130	conj
-verb
-conj
-verb
-260135	conj
-conj
-260138	adj
-verb
-verb
-conj
-np
-260144	conj
-260146	verb
-pp
-verb
-pp
-np
-np
-np
-np
-adj
-verb
-conj
-adv
-verb
-pp
-verb
-np
-verb
-conj
-adv
-np
-pp
-verb
-pron
-conj
-verb
-noun
-260173	conj
-verb
-260176	adj
-noun
-verb
-noun
-verb
-noun
-verb
-noun
-verb
-noun
-verb
-adj
-pp
-verb
-260191	conj
-noun
-pron
-verb
-260196	pp
-260198	conj
-260200	np
-conj
-pp
-conj
-adj
-verb
-260207	conj
-conj
-adv
-verb
-noun
-verb
-pp
-260215	conj
-verb
-conj
-np
-np
-conj
-260222	conj
-verb
-conj
-np
-verb
-260228	conj
-conj
-np
-verb
-verb
-np
-verb
-verb
-conj
-pp
-adj
-verb
-conj
-260242	adj
-verb
-conj
-adj
-verb
-conj
-np
-noun
-verb
-260252	conj
-verb
-noun
-np
-conj
-noun
-260260	conj
-pp
-np
-np
-np
-np
-np
-pp
-np
-verb
-adv
-conj
-verb
-pron
-verb
-conj
-260277	verb
-conj
-np
-np
-verb
-260284	conj
-conj
-pron
-verb
-verb
-pp
-np
-np
-verb
-adj
-conj
-verb
-noun
-verb
-pp
-conj
-pp
-np
-np
-np
-verb
-conj
-pp
-adj
-verb
-260310	conj
-pron
-verb
-260314	verb
-conj
-verb
-pron
-verb
-pron
-conj
-np
-verb
-260324	conj
-conj
-pron
-verb
-verb
-conj
-np
-verb
-verb
-conj
-verb
-adv
-verb
-noun
-adj
-conj
-260341	conj
-pp
-verb
-verb
-conj
-pron
-noun
-np
-260350	pron
-verb
-pron
-pron
-adv
-verb
-pp
-adv
-verb
-pp
-adv
-verb
-260363	np
-verb
-pron
-conj
-verb
-conj
-adv
-adv
-verb
-verb
-conj
-pron
-pp
-pron
-adv
-verb
-260380	noun
-verb
-pp
-np
-np
-pp
-np
-conj
-verb
-conj
-verb
-np
-np
-np
-pp
-np
-conj
-260398	verb
-noun
-adv
-np
-adv
-verb
-np
-np
-adv
-pp
-np
-verb
-pp
-pron
-conj
-verb
-260415	adv
-verb
-noun
-adv
-np
-np
-np
-conj
-conj
-np
-verb
-pron
-pron
-conj
-verb
-np
-260432	np
-np
-pron
-adv
-verb
-adj
-verb
-noun
-conj
-verb
-np
-np
-np
-260446	np
-conj
-verb
-pron
-verb
-conj
-260453	np
-np
-np
-pp
-adv
-adj
-verb
-conj
-260462	adj
-np
-verb
-260466	conj
-conj
-np
-np
-np
-np
-pp
-260474	conj
-conj
-conj
-adv
-verb
-conj
-adv
-verb
-260483	conj
-conj
-noun
-verb
-conj
-pp
-verb
-adv
-verb
-np
-pp
-conj
-np
-adv
-verb
-conj
-conj
-np
-adv
-verb
-adv
-noun
-verb
-260507	conj
-conj
-noun
-adv
-verb
-260513	adj
-conj
-np
-np
-adj
-np
-np
-np
-verb
-conj
-np
-np
-np
-conj
-verb
-pp
-np
-conj
-verb
-260533	np
-pron
-adv
-verb
-conj
-conj
-adj
-adv
-verb
-conj
-conj
-adj
-adv
-verb
-adv
-noun
-verb
-260551	conj
-conj
-noun
-adv
-verb
-adj
-np
-np
-adv
-verb
-pp
-np
-np
-conj
-np
-verb
-pp
-verb
-conj
-pp
-np
-np
-pp
-vp
-adj
-adj
-np
-verb
-adv
-conj
-260582	verb
-pp
-np
-verb
-conj
-conj
-pp
-noun
-pp
-pp
-np
-conj
-conj
-pp
-np
-adj
-verb
-adv
-pp
-pp
-np
-adj
-verb
-adj
-conj
-pp
-np
-np
-260611	noun
-noun
-adv
-np
-np
-pp
-np
-np
-adv
-np
-verb
-np
-np
-260625	verb
-260627	np
-conj
-np
-260631	conj
-verb
-conj
-pron
-verb
-pp
-pron
-verb
-np
-np
-pp
-np
-np
-260645	np
-verb
-np
-adj
-conj
-verb
-pp
-np
-np
-260655	conj
-conj
-verb
-conj
-adj
-verb
-adj
-conj
-pp
-verb
-pron
-np
-conj
-conj
-verb
-pron
-np
-adv
-np
-np
-np
-verb
-verb
-pron
-np
-conj
-verb
-np
-adj
-pp
-conj
-pron
-verb
-verb
-pp
-np
-conj
-adv
-adj
-adv
-verb
-pron
-adv
-verb
-pp
-pron
-np
-verb
-np
-pp
-verb
-np
-np
-np
-260710	noun
-pron
-verb
-pp
-260716	np
-np
-conj
-pp
-verb
-pp
-pron
-pron
-np
-260726	conj
-adj
-adv
-verb
-verb
-conj
-verb
-adv
-conj
-verb
-adv
-verb
-verb
-np
-np
-260742	verb
-adv
-conj
-adv
-verb
-np
-conj
-pron
-verb
-pp
-pron
-verb
-conj
-verb
-pron
-260758	adv
-verb
-np
-np
-conj
-verb
-adj
-pron
-pron
-verb
-adv
-verb
-conj
-adv
-verb
-conj
-pron
-verb
-260778	np
-verb
-verb
-conj
-np
-conj
-verb
-260786	conj
-np
-np
-np
-conj
-verb
-pron
-noun
-conj
-verb
-conj
-np
-np
-np
-260801	np
-np
-np
-conj
-260806	adj
-conj
-noun
-adj
-conj
-np
-adj
-conj
-np
-adj
-conj
-noun
-conj
-260820	np
-conj
-np
-conj
-adj
-conj
-np
-np
-np
-adj
-conj
-np
-np
-adj
-np
-conj
-adj
-np
-conj
-adj
-np
-noun
-conj
-noun
-verb
-pp
-adv
-np
-np
-np
-np
-260852	verb
-pp
-verb
-pp
-260857	verb
-pp
-verb
-pp
-260862	verb
-pp
-verb
-pp
-260867	verb
-np
-verb
-np
-conj
-verb
-np
-verb
-np
-adv
-adv
-verb
-260880	verb
-260882	np
-np
-pp
-np
-verb
-np
-np
-pp
-np
-verb
-conj
-260894	adj
-np
-conj
-260898	np
-adv
-np
-260902	np
-np
-pp
-adj
-np
-np
-pp
-pron
-np
-pron
-np
-np
-conj
-pron
-np
-pron
-np
-np
-conj
-conj
-verb
-np
-np
-np
-verb
-np
-np
-np
-np
-pron
-conj
-verb
-noun
-260936	conj
-np
-verb
-adv
-verb
-conj
-np
-np
-verb
-260946	verb
-noun
-pron
-verb
-adj
-adv
-verb
-adj
-conj
-verb
-260957	pp
-pp
-np
-pp
-np
-np
-verb
-conj
-conj
-np
-verb
-adj
-conj
-pron
-verb
-verb
-conj
-np
-np
-verb
-noun
-conj
-np
-np
-verb
-noun
-260984	conj
-conj
-260987	np
-np
-verb
-noun
-conj
-np
-np
-verb
-noun
-adv
-verb
-260999	np
-verb
-261002	verb
-np
-pp
-261006	adv
-np
-noun
-np
-adv
-np
-noun
-np
-261015	np
-conj
-np
-np
-np
-np
-conj
-np
-np
-np
-261026	np
-conj
-noun
-verb
-pron
-np
-pp
-261034	np
-np
-261037	conj
-np
-np
-adjp
-verb
-verb
-pp
-np
-np
-np
-adv
-verb
-conj
-np
-np
-adv
-verb
-adj
-pp
-261057	pp
-conj
-261060	np
-np
-pp
-np
-261065	conj
-verb
-np
-np
-np
-adv
-np
-verb
-pp
-np
-np
-pp
-verb
-verb
-261080	pron
-verb
-conj
-adv
-conj
-verb
-adv
-noun
-verb
-261090	conj
-conj
-verb
-261094	pron
-verb
-pp
-pron
-verb
-verb
-np
-np
-pp
-conj
-conj
-adj
-verb
-pron
-verb
-pp
-verb
-261112	verb
-conj
-pp
-conj
-noun
-verb
-noun
-conj
-verb
-pp
-conj
-verb
-verb
-conj
-adv
-verb
-conj
-pron
-pron
-verb
-conj
-verb
-261135	adv
-verb
-conj
-pron
-adv
-pp
-verb
-verb
-conj
-np
-verb
-pp
-conj
-np
-verb
-verb
-conj
-pp
-pp
-np
-np
-conj
-pron
-verb
-conj
-conj
-verb
-adj
-261164	conj
-conj
-verb
-noun
-verb
-conj
-adv
-verb
-pp
-np
-conj
-np
-verb
-pp
-conj
-adv
-pron
-conj
-pron
-verb
-261186	verb
-conj
-pron
-pp
-conj
-verb
-pp
-verb
-conj
-pron
-pp
-np
-261199	pp
-conj
-261202	np
-adj
-verb
-pron
-conj
-verb
-pp
-pp
-np
-conj
-adv
-adv
-verb
-noun
-conj
-adv
-verb
-261220	verb
-conj
-conj
-verb
-261225	verb
-verb
-pp
-np
-verb
-verb
+259847	np
 np
-pp
-verb
-verb
-conj
-pron
-noun
-verb
-261240	np
+259851	np
+259853	np
 np
 conj
-verb
-np
 np
-conj
-pp
 np
 verb
 pron
-conj
-np
-verb
-261255	np
-conj
-np
-verb
-conj
-verb
-261262	verb
-conj
 pp
-np
-np
-conj
-conj
-conj
-np
-np
-pron
-verb
-verb
-conj
-261277	np
-np
-conj
-np
-verb
-conj
-np
-verb
-pron
-np
-np
 np
-verb
-pron
-pp
-adj
-261294	conj
-pp
 np
 np
 pp
-np
-verb
-pron
-np
-np
 verb
-pron
-pp
-np
-np
-np
-np
-np
-261313	conj
 pron
-adv
-verb
-np
-verb
-noun
-noun
-verb
-np
-np
-261325	np
-pp
-np
-np
-pp
-np
-pp
-261335	np
-np
-261338	pp
-np
-conj
-261342	np
-261344	np
-np
-np
-verb
-pp
-pp
-261351	np
-np
 verb
-pp
-np
 np
-261358	pron
-conj
 pp
-261363	np
-conj
-261367	adj
-np
-np
-261372	conj
-261374	np
 np
-261378	np
-261380	np
-np
-conj
-np
-np
-verb
-pron
 pp
-np
-np
 np
-pp
-verb
 pron
-verb
-np
-pp
-np
-pp
-np
-261401	pron
 verb
 pron
 pp
@@ -244750,18 +244750,18 @@ verb
 pp
 np
 np
-261427	conj
+259899	conj
 conj
 verb
 pp
-261432	np
+259904	np
 np
 verb
 pp
 np
 np
 np
-261440	pron
+pron
 np
 verb
 conj
@@ -244785,7 +244785,7 @@ pron
 verb
 noun
 pp
-261465	np
+259936	np
 np
 verb
 pp
@@ -244800,18 +244800,18 @@ pron
 np
 verb
 conj
-261481	pron
+pron
 pp
 np
 np
 np
 verb
 conj
-261489	vp
+259959	vp
 pp
 conj
 pp
-261496	np
+259964	np
 verb
 np
 pron
@@ -244824,7 +244824,7 @@ verb
 pp
 verb
 conj
-261511	advp
+advp
 verb
 verb
 np
@@ -244851,9 +244851,9 @@ np
 conj
 pp
 np
-261539	conj
+260005	conj
 np
-261542	pp
+260008	pp
 np
 conj
 pp
@@ -244864,7 +244864,7 @@ np
 adv
 conj
 pp
-261554	conj
+260020	conj
 verb
 pron
 conj
@@ -244893,13 +244893,13 @@ pron
 pp
 np
 np
-261584	np
+260050	np
 np
 conj
 np
 np
 verb
-261591	adj
+adj
 pp
 verb
 conj
@@ -244933,25 +244933,25 @@ verb
 conj
 verb
 pp
-261626	np
-261628	conj
+260091	np
+260093	conj
 np
-261631	adj
+260096	adj
 conj
 np
 conj
-261636	np
+260101	np
 np
 np
 pp
 adv
 verb
-261643	conj
-261646	np
+260108	conj
+260111	np
 np
 np
 conj
-261651	pp
+260116	pp
 pp
 verb
 pp
@@ -244959,7 +244959,7 @@ conj
 conj
 adv
 verb
-261660	conj
+260125	conj
 conj
 ptcl
 pp
@@ -244984,7 +244984,7 @@ pp
 conj
 verb
 pron
-261686	conj
+260151	conj
 verb
 pron
 conj
@@ -245009,7 +245009,7 @@ pron
 adv
 verb
 pp
-261713	conj
+260177	conj
 verb
 np
 np
@@ -245024,7 +245024,7 @@ verb
 verb
 conj
 pron
-261729	advp
+260193	advp
 pp
 pp
 verb
@@ -245064,17 +245064,17 @@ verb
 pp
 conj
 np
-261770	conj
+260234	conj
 np
 verb
 pron
 pp
 np
-261777	conj
+260241	conj
 verb
 conj
 np
-261782	conj
+conj
 verb
 pron
 verb
@@ -245094,7 +245094,7 @@ verb
 np
 adj
 np
-261803	np
+260266	np
 np
 np
 pp
@@ -245102,7 +245102,7 @@ np
 conj
 advp
 pron
-261812	conj
+260275	conj
 conj
 np
 np
@@ -245131,7 +245131,7 @@ conj
 pron
 verb
 pron
-261843	np
+np
 conj
 pron
 verb
@@ -245151,7 +245151,7 @@ conj
 np
 np
 verb
-261864	verb
+verb
 conj
 pp
 np
@@ -245172,14 +245172,14 @@ np
 adv
 verb
 pron
-261886	np
+260346	np
 np
 conj
 verb
 pron
 verb
 pp
-261894	np
+260354	np
 conj
 noun
 adv
@@ -245197,10 +245197,10 @@ pp
 pp
 np
 conj
-261913	np
+np
 verb
 np
-261917	pp
+260376	pp
 verb
 conj
 pp
@@ -245208,18 +245208,18 @@ verb
 pron
 conj
 np
-261926	pp
+260385	pp
 pp
 pron
 conj
 np
-261932	pp
+260391	pp
 pp
 conj
 pp
 pron
 adj
-261939	conj
+260398	conj
 vp
 conj
 np
@@ -245227,7 +245227,7 @@ np
 np
 np
 conj
-261948	conj
+conj
 pp
 conj
 conj
@@ -245244,7 +245244,7 @@ verb
 pp
 conj
 np
-261966	pp
+260424	pp
 conj
 pp
 np
@@ -245255,25 +245255,25 @@ verb
 pp
 np
 np
-261978	conj
+260436	conj
 pp
 np
 verb
 conj
 verb
 np
-261986	verb
+verb
 pp
 verb
-261990	conj
+260447	conj
 np
 np
 verb
-261995	pp
+260452	pp
 np
 conj
 pp
-262000	np
+260457	np
 np
 conj
 verb
@@ -245281,7 +245281,7 @@ pp
 np
 pp
 np
-262009	conj
+260466	conj
 pp
 adj
 verb
@@ -245295,21 +245295,21 @@ np
 np
 pp
 np
-262024	pron
+pron
 adv
 verb
 pron
 np
 np
 np
-262032	conj
+260488	conj
 np
 conj
 verb
 np
 conj
 verb
-262040	conj
+conj
 conj
 np
 np
@@ -245329,7 +245329,7 @@ pp
 np
 np
 pp
-262061	np
+260516	np
 np
 np
 np
@@ -245416,8 +245416,8 @@ conj
 pp
 verb
 conj
-262149	pp
-262151	conj
+pp
+conj
 verb
 noun
 noun
@@ -245425,7 +245425,7 @@ pp
 np
 np
 verb
-262160	conj
+conj
 conj
 verb
 pp
@@ -245455,19 +245455,19 @@ pp
 conj
 pp
 np
-262191	pp
-262193	verb
-np
-np
-262197	conj
+pp
 verb
-262200	verb
+np
+np
+conj
+verb
+260649	verb
 conj
 verb
 np
 np
 np
-262208	verb
+260657	verb
 pp
 conj
 verb
@@ -245485,7 +245485,7 @@ np
 np
 pp
 np
-262227	conj
+conj
 conj
 adv
 vp
@@ -245513,22 +245513,22 @@ np
 np
 np
 np
-262256	pron
+pron
 verb
 np
 np
-262262	conj
+260708	conj
 pron
 verb
 conj
-262268	noun
+260714	noun
 pron
 conj
 np
 pp
 conj
 np
-262276	verb
+verb
 pp
 noun
 verb
@@ -245553,7 +245553,7 @@ np
 pp
 np
 conj
-262302	np
+260747	np
 np
 np
 verb
@@ -245561,24 +245561,24 @@ np
 conj
 adv
 pp
-262313	pp
+260756	pp
 verb
 conj
 adv
 verb
-262319	verb
+260762	verb
 conj
 adv
 verb
-262324	verb
+260767	verb
 conj
 adv
 verb
-262329	verb
+260772	verb
 conj
 adv
 verb
-262334	adv
+adv
 np
 np
 np
@@ -245594,9 +245594,9 @@ pp
 np
 np
 verb
-262351	adv
+adv
 conj
-262354	verb
+260795	verb
 pp
 verb
 pp
@@ -245636,14 +245636,14 @@ verb
 verb
 conj
 verb
-262395	np
+260836	np
 np
 pp
 verb
 conj
 verb
 pp
-262403	np
+np
 conj
 pp
 conj
@@ -245661,7 +245661,7 @@ conj
 adv
 verb
 conj
-262422	conj
+260862	conj
 np
 np
 np
@@ -245671,19 +245671,19 @@ conj
 np
 np
 verb
-262433	conj
-262435	np
+260873	conj
+np
 conj
 np
 np
 np
-262441	pp
+260880	pp
 pp
 np
 np
 verb
 pron
-262448	verb
+260887	verb
 pron
 verb
 conj
@@ -245706,7 +245706,7 @@ np
 np
 np
 verb
-262472	pp
+260911	pp
 verb
 np
 np
@@ -245716,7 +245716,7 @@ pp
 conj
 pp
 verb
-262483	np
+260922	np
 np
 np
 pp
@@ -245737,7 +245737,7 @@ verb
 verb
 pp
 pron
-262505	verb
+260944	verb
 conj
 conj
 verb
@@ -245749,16 +245749,16 @@ verb
 pron
 pp
 np
-262518	verb
+260957	verb
 pron
 np
 np
 np
-262524	verb
+260963	verb
 conj
 adv
 conj
-262529	verb
+verb
 conj
 verb
 pp
@@ -245771,12 +245771,12 @@ conj
 verb
 pp
 pp
-262543	verb
+260981	verb
 conj
 conj
 verb
 adv
-262549	verb
+260987	verb
 pp
 np
 conj
@@ -245786,12 +245786,12 @@ np
 conj
 adv
 verb
-262560	conj
+260998	conj
 conj
 adj
 pron
 verb
-262566	np
+261004	np
 conj
 verb
 verb
@@ -245808,7 +245808,7 @@ np
 pp
 pron
 verb
-262584	conj
+261022	conj
 adj
 conj
 adj
@@ -245829,7 +245829,7 @@ pp
 np
 np
 verb
-262607	adv
+261044	adv
 pron
 verb
 pron
@@ -245872,10 +245872,10 @@ pp
 verb
 conj
 verb
-262651	verb
+261088	verb
 conj
 pp
-262655	conj
+261092	conj
 conj
 pron
 pp
@@ -245883,7 +245883,7 @@ np
 adj
 verb
 pp
-262664	conj
+conj
 adv
 verb
 pp
@@ -245897,15 +245897,15 @@ conj
 pron
 pp
 np
-262679	np
+np
 verb
 verb
 verb
 adj
-262685	np
+np
 conj
 pp
-262689	np
+261123	np
 verb
 pron
 pron
@@ -245922,7 +245922,7 @@ vp
 pp
 noun
 pron
-262707	adv
+261141	adv
 verb
 pron
 np
@@ -245933,7 +245933,7 @@ pp
 np
 np
 np
-262719	pp
+pp
 conj
 verb
 conj
@@ -245968,7 +245968,7 @@ verb
 pron
 verb
 conj
-262755	np
+261188	np
 verb
 pron
 conj
@@ -245982,7 +245982,7 @@ np
 verb
 adv
 np
-262770	np
+np
 pp
 verb
 conj
@@ -245996,7 +245996,7 @@ pron
 pp
 conj
 np
-262785	pp
+261217	pp
 np
 pp
 pp
@@ -246025,40 +246025,40 @@ np
 np
 np
 np
-262815	conj
+261247	conj
 pp
-262818	conj
+261250	conj
 pp
-262821	conj
-262824	conj
+261253	conj
+261255	conj
 adj
 conj
 adj
-262829	conj
+261260	conj
 verb
 conj
 verb
-262834	conj
+261265	conj
 verb
 conj
 verb
 verb
-262840	conj
+261271	conj
 verb
 conj
 adv
 verb
-262846	conj
+261277	conj
 verb
 adv
 conj
 verb
-262852	conj
+261283	conj
 adj
 adj
 conj
 verb
-262858	conj
+261289	conj
 adj
 verb
 conj
@@ -246077,2051 +246077,2051 @@ verb
 pp
 verb
 conj
+pp
+np
+np
+np
+conj
+np
+conj
+noun
+verb
+verb
+np
+adv
+vp
+adj
+pron
+conj
+noun
+261326	conj
+conj
+pron
+noun
+noun
+pp
+pron
+conj
+np
+pp
+conj
+pron
+noun
+adj
+pp
+pron
+conj
+noun
+np
+pp
+pron
+conj
+np
+np
+verb
+verb
+conj
+verb
+np
+conj
+261357	verb
+pp
+conj
+verb
+conj
+261363	verb
+np
+conj
+pron
+verb
+np
+conj
+261371	verb
+pp
+np
+conj
+verb
+verb
+noun
+conj
+adj
+adv
+verb
+pron
+verb
+pron
+conj
+verb
+pron
+pp
+conj
+pron
+verb
+pron
+pp
+261395	conj
+verb
+261398	np
+conj
+verb
+np
+adj
+verb
+pron
+pp
+np
+np
+261409	conj
+verb
+noun
+pp
+np
+verb
+pron
+adj
+verb
+adj
+verb
+adj
+verb
+pp
+adv
+verb
+verb
+conj
+conj
+pp
+np
+np
+verb
+pp
+261434	conj
+adj
+pron
+noun
+pp
+adj
+pron
+noun
+pp
+verb
+np
+verb
+np
+pp
+np
+np
+np
+adv
+conj
+verb
+pron
+pp
+261457	verb
+noun
+np
+np
+conj
+pp
+verb
+adv
+noun
+adv
+noun
+conj
+261470	verb
+np
+verb
+pron
+np
+pp
+np
+np
+261479	pp
+conj
+pp
+np
+np
+conj
+pp
+pp
+np
+pron
+verb
+pp
+verb
+pron
+261494	np
+np
+np
+np
+np
+np
+np
+pp
+conj
+pron
+adv
+verb
+conj
+conj
+adv
+verb
+pron
+pp
+np
+adv
+verb
+conj
+adv
+verb
+verb
+conj
+np
+np
+conj
+adv
+pp
+verb
+pron
+adv
+verb
+261530	conj
+verb
+conj
+conj
+verb
+pp
+verb
+conj
+pp
+conj
+pp
+verb
+pp
+np
+conj
+np
+pp
+np
+np
+pp
+verb
+np
+conj
+np
+np
+noun
+verb
+verb
+conj
+261560	np
+pp
+verb
+np
+verb
+pron
+conj
+conj
+conj
+conj
+conj
+conj
+pp
+verb
+pron
+adj
+verb
+np
+conj
+conj
+adv
+verb
+pron
+261585	pp
+verb
+conj
+pp
+verb
+conj
+pp
+verb
+261594	np
+np
+np
+pp
+pp
+pp
+np
+pp
+verb
+pp
+conj
+np
+np
+advp
+verb
+pp
+np
+np
+conj
+verb
+np
+np
+pp
+np
+conj
+conj
+pron
+pron
+pp
+verb
+261625	verb
+conj
+conj
+adj
+pp
+verb
+pron
+adv
+np
+np
+np
+np
+pp
+noun
+verb
+conj
+np
+np
+adv
+pp
+verb
+verb
+np
+np
+np
+conj
+pp
+261653	conj
+verb
+pron
+verb
+conj
+pp
+verb
+pp
+verb
+conj
+pron
+noun
+261666	np
+np
+np
+verb
+pp
+np
+np
+np
+conj
+pp
+np
+np
+261679	np
+np
+np
+np
+conj
+np
+np
+pp
+np
+verb
+pp
+np
+np
+np
+np
+conj
+261696	pp
+verb
+conj
+pp
+adj
+pp
+np
+verb
+pron
+261706	np
+conj
+np
+np
+261711	np
+np
+pp
+np
+conj
+261717	adv
+conj
+verb
+conj
+pron
+verb
+261724	np
+np
+conj
+pp
+np
+pp
+verb
+pron
+noun
+conj
+conj
+verb
+adv
+adv
+verb
+pp
+np
+np
+np
+conj
+conj
+pp
+verb
+261748	conj
+conj
+conj
+np
+conj
+np
+np
+261756	pp
+pp
+conj
+pp
+pp
+np
+np
+verb
+261765	pp
+verb
+conj
+pp
+np
+np
+np
+np
+np
+np
+np
+verb
+verb
+conj
+np
+np
+261782	np
+np
+261785	pp
+verb
+adj
+verb
+conj
+pron
+np
+np
+verb
+conj
+noun
+pp
+verb
+pron
+conj
+pron
+verb
+pron
+261804	np
+verb
+conj
+np
+verb
+verb
+pp
+adv
+conj
+np
+verb
+verb
+conj
+conj
+np
+np
+verb
+adv
+np
+verb
+pp
+verb
+conj
+conj
+np
+verb
+conj
+verb
+adj
+adv
+conj
+adv
+verb
+261838	conj
+conj
+adj
+noun
+pron
+noun
+conj
+pp
+pp
+np
+np
+np
+np
+pp
+np
+np
+conj
+np
+np
+np
+verb
+pp
+np
+np
+conj
+verb
+noun
+conj
+verb
+261868	np
+adv
+verb
+conj
+np
+adv
+verb
+noun
+conj
+261878	np
+verb
+np
+np
+pp
+pp
+np
+np
+conj
+261888	np
+conj
+verb
+adj
+conj
+verb
+adj
+verb
+pp
+verb
+conj
+pp
+np
+np
+np
+np
+pp
+np
+pp
+np
+np
+261910	adj
+conj
+conj
+adv
+verb
+pp
+np
+np
+pp
+261920	np
+np
+verb
+pp
+pp
+np
+261927	np
+np
+np
+conj
+np
+verb
+pron
+conj
+pron
+pron
+verb
+pp
+261940	np
+np
+verb
+pp
+verb
+conj
+adj
+261948	pp
+pp
+conj
+pp
+pp
+verb
+conj
+pron
+np
+np
+pron
+verb
+pp
+adv
+261963	adj
+verb
+adv
+conj
+adj
+adj
+261970	np
+np
+pp
+conj
+pp
+261976	np
+conj
+np
+pp
+conj
+np
+261983	np
+np
+np
+conj
+np
+261989	np
+np
+conj
+np
+np
+pp
+pp
+verb
+pp
+np
+np
+pp
+conj
+conj
+262004	np
+np
+pp
+np
+adj
+pron
+verb
+verb
+pron
+262014	verb
+conj
+np
+np
+pron
+pp
+verb
+noun
+noun
+verb
+pp
+conj
+np
+np
+verb
+np
+verb
+conj
+np
+conj
+adv
+262036	np
+np
+np
+pp
+verb
+pp
+np
+np
+conj
+conj
+verb
+vp
+conj
+conj
+262051	verb
+pp
+noun
+conj
+verb
+pron
+adj
+verb
+pron
+conj
+adv
+verb
+pron
+pp
+np
+np
+adj
+conj
+verb
+verb
+np
+conj
+verb
+pp
+conj
+verb
+np
+np
+verb
+np
+pron
+adj
+verb
+adv
+262086	pp
+conj
+conj
+pp
+pp
+conj
+pron
+conj
+262095	verb
+adv
+adv
+adv
+verb
+conj
+verb
+pp
+pp
+adv
+verb
+adj
+conj
+verb
+np
+adv
+262112	pp
+conj
+pp
+np
+conj
+verb
+np
+verb
+conj
+np
+np
+verb
+pp
+conj
+pp
+adv
+np
+verb
+verb
+pp
+np
+np
+conj
+verb
+verb
+verb
+np
+np
+np
+verb
+pp
+np
+conj
+verb
+noun
+verb
+conj
+noun
+pp
+262152	conj
+np
+np
+conj
+verb
+np
+np
+np
+np
+pp
+verb
+pp
+np
+pron
+verb
+pp
+noun
+np
+conj
+262172	np
+np
+np
+np
+adv
+adj
+vp
+np
+np
+np
+conj
+adv
+verb
+pp
+np
+np
+pp
+np
+np
+np
+np
+verb
+np
+pp
+np
+262198	np
+np
+np
+np
+pp
+np
+np
+np
+conj
+np
+np
+np
+pp
+conj
+pp
+conj
+pron
+np
+pp
+verb
+pron
+pp
+np
+np
+verb
+np
+np
+np
+pp
+noun
+np
+pp
+np
+np
+np
+262234	np
+conj
+verb
+pron
+pp
+np
+np
+262242	conj
+np
+pron
+262246	pp
+conj
+adj
+pp
+verb
+conj
+verb
+pp
+verb
+conj
+adv
+verb
+verb
+np
+pron
+verb
+verb
+pp
+np
+verb
+pron
+conj
+pp
+verb
+pp
+conj
+verb
+adv
+pp
+verb
+262277	np
+conj
+np
+np
+np
+adv
+adj
+conj
+adj
+np
+pp
+np
+262290	verb
+conj
+np
+np
+verb
+pp
+np
+np
+np
+conj
+verb
+np
+pp
+np
+np
+np
+conj
+pp
+verb
+verb
+np
+conj
+verb
+np
+np
+np
+pp
+verb
+conj
+pron
+verb
+pron
+noun
+verb
+pron
+verb
+adv
+pp
+conj
+pron
+noun
+adv
+np
+conj
+conj
+conj
+adjp
+verb
+pp
+np
+np
+pron
+verb
+np
+262345	pp
+conj
+pp
+pp
+np
+adv
+verb
+conj
+adv
+verb
+conj
+verb
+pron
+pp
+np
+conj
+262362	np
+conj
+verb
+262366	conj
+262368	np
+conj
+np
+np
+adj
+conj
+np
+verb
+pron
+verb
+np
+pron
+verb
+np
+np
+pp
+verb
+pron
+adv
+verb
+np
+adv
+conj
+verb
+262393	conj
+pron
+np
+pron
+verb
+conj
+pron
+262401	pp
+pron
+verb
+conj
+verb
+pron
+pron
+adv
+verb
+pron
+conj
+adv
+pp
+np
+verb
+conj
+pp
+np
+np
+np
+pron
+verb
+pron
+np
+noun
+verb
+pp
+np
+adv
+conj
+conj
+adv
+verb
+pp
+verb
+pron
+pp
+conj
+np
+verb
+pp
+np
+np
+np
+adv
+pp
+np
+verb
+pp
+np
+noun
+conj
+verb
+verb
+np
+np
+pp
+verb
+pp
+np
+np
+pp
+pp
+np
+pp
+verb
+adv
+pp
+np
+pp
+np
+verb
+conj
+verb
+pp
+verb
+262478	conj
+pron
+verb
+pron
+verb
+adj
+conj
+pron
+np
+verb
+verb
+verb
+pron
+np
+np
+conj
+adv
+verb
+pron
+verb
+conj
+pron
+np
+verb
+conj
+pron
+np
+np
+verb
+np
+verb
+conj
+conj
+conj
+np
+verb
+noun
+pp
+np
+np
+verb
+np
+np
+pp
+262524	np
+conj
+np
+np
+pp
+conj
+conj
+conj
+262533	verb
+np
+verb
+pron
+adv
+verb
+conj
+262541	np
+verb
+pron
+adv
+verb
+conj
+np
+pron
+adv
+verb
+adv
+verb
+verb
+conj
+adj
+verb
+np
+np
+262561	conj
+conj
+np
+np
+conj
+adv
+np
+conj
+pp
+verb
+pp
+pp
+conj
+noun
+verb
+pron
+verb
+conj
+pron
+verb
+conj
+adv
+np
+np
+np
+verb
+pron
+np
+verb
+verb
+noun
+pp
+np
+np
+conj
+262597	verb
+pp
+conj
+verb
+adv
+verb
+adj
+np
+conj
+np
+verb
+np
+verb
+pp
+conj
+pp
+adj
+pron
+pron
+262617	conj
+verb
+np
+pp
+np
+np
+adv
+verb
+pp
+pp
+np
+np
+np
+pp
+conj
+adv
+verb
+pron
+np
+verb
+pron
+conj
+verb
+adv
+verb
+conj
+verb
+np
+np
+verb
+noun
+conj
+pp
+pron
+verb
+verb
+conj
+np
+np
+conj
+262658	np
+verb
+pp
+np
+conj
+adv
+noun
+np
+conj
+np
+verb
+pp
+np
+adv
+adj
+conj
+conj
+np
+np
+np
+verb
+pp
+conj
+np
+np
+np
+verb
+pp
+np
+np
+adv
+verb
+adv
+pron
+pron
+verb
+adj
+verb
+conj
+conj
+ptcl
+conj
+adj
+verb
+pron
+conj
+pron
+np
+verb
+pron
+verb
+adv
+pp
+verb
+conj
+conj
+pp
+pp
+np
+np
+np
+np
+conj
+adj
+verb
+pp
+np
+pron
+verb
+adv
+conj
+verb
+np
+adj
+verb
+verb
+conj
+conj
+pron
+pron
+verb
+conj
+pron
+verb
+conj
+pron
+verb
+conj
+pron
+verb
+conj
+pron
+pp
+pron
+verb
+pp
+verb
+conj
+conj
+pron
+verb
+pp
+conj
+pron
+verb
+pp
+verb
+verb
+pron
+adj
+verb
+pron
+noun
+verb
+pron
+np
+verb
+pron
+np
+verb
+verb
+verb
+prep
+pron
+pp
+adv
+pp
+adv
+pp
+adv
+pp
+adv
+pp
+adv
+np
+pp
+verb
+adv
+verb
+adv
+verb
+adv
+verb
+noun
+pp
+np
+verb
+noun
+adv
+np
+np
+noun
+pp
+noun
+pp
+noun
+pp
+noun
+pp
+noun
+pp
+noun
+pp
+262822	conj
+pp
+adv
+pp
+262827	conj
+pp
+adv
+pp
+262832	conj
+pp
+np
+np
+pron
+262838	np
+pp
+np
+np
+np
+np
+pron
+verb
+conj
+adv
+verb
+pron
+verb
+conj
+adv
+pron
+verb
+conj
+verb
+verb
+np
+np
+np
+verb
+262863	np
+np
+262866	conj
+262868	np
+verb
+verb
+adj
+pp
+np
+conj
+adv
+verb
 pp
 np
 np
 262881	np
-conj
-np
-262885	conj
-noun
-verb
 verb
 np
-adv
-vp
-adj
+np
+verb
 pron
 conj
-noun
-262897	conj
-conj
-pron
-noun
-noun
+262889	pp
 pp
-pron
-conj
-np
-pp
-conj
-pron
-noun
-adj
-pp
-pron
-conj
-noun
-np
-pp
-262918	pron
-conj
-np
-np
 verb
-verb
-conj
-verb
-np
-conj
-262929	verb
-pp
-conj
-verb
-conj
-262935	verb
-np
-conj
-pron
-verb
-np
-conj
-262945	verb
 pp
 np
 conj
 verb
+np
+np
 verb
-noun
-conj
-adj
+verb
 adv
 verb
-262957	pron
-verb
-pron
 conj
 verb
-pron
-pp
 conj
-pron
-verb
-pron
 pp
-262970	conj
+np
+262908	conj
 verb
-262973	np
+np
+pp
+pp
+np
+conj
+pp
+adv
+verb
+conj
+pp
+np
+adv
+verb
+np
+verb
+verb
+np
+pp
+np
 conj
 verb
 np
-adj
-verb
-pron
+np
+conj
+pp
+conj
 pp
 np
+adv
+verb
 np
-262984	conj
+verb
+conj
+verb
+pp
+np
+conj
+verb
+np
+pron
+adv
 verb
 noun
+verb
 pp
 np
 verb
-pron
-262992	adj
+pp
+conj
+adv
+verb
+conj
+adv
+pp
+np
+conj
+conj
+verb
+verb
+adv
 verb
 adj
+noun
+conj
+verb
+verb
+conj
+conj
+pron
+pp
+verb
+pp
+pron
+verb
+pron
+conj
+verb
+pp
+np
+conj
+np
+np
+np
+conj
+conj
+adv
+verb
+verb
+pron
+noun
+np
+np
+conj
+pron
+verb
+conj
+adv
+verb
+pp
+adv
+np
+verb
+conj
+verb
+pp
+conj
+verb
+pron
+verb
+pron
+np
+np
+np
+conj
+pp
+verb
+adj
+conj
+adv
+verb
+pp
+np
+conj
+verb
+pp
+np
+np
+np
+conj
+verb
+263041	pp
+pp
+pp
+pp
+263046	conj
+pp
+conj
+conj
+verb
+adv
+adj
+verb
+verb
+adj
+pron
+pron
+verb
+pron
+conj
+verb
+pp
+verb
+adj
+conj
+verb
+np
+np
+conj
+np
+verb
+np
+np
+np
+verb
+pp
+pp
+np
+263080	conj
+conj
+conj
+pron
+conj
+verb
+pron
+verb
+pp
+np
+np
+conj
+conj
+np
+adv
+verb
+pron
+verb
+pron
+np
+np
+verb
+np
+adv
+verb
+verb
+pp
+conj
+adv
+verb
+263111	conj
+verb
+np
+conj
+pron
+263117	conj
+verb
+np
+np
+verb
+conj
+np
+np
+pron
+conj
+adj
+263129	conj
+pp
+np
+np
+conj
+adv
+pron
 verb
 adj
 verb
-pp
+verb
+conj
+pron
 adv
 verb
-verb
+pron
 conj
-conj
-pp
-np
-np
+verb
+noun
+noun
+pron
+verb
+pron
 verb
 pp
-263010	conj
-263012	adj
+pp
+verb
+pron
+verb
+noun
+conj
+verb
+np
+verb
 pron
 noun
+np
+np
+verb
+np
+np
+adv
+verb
+conj
+pron
+verb
 pp
+pp
+verb
+np
+conj
 adj
-pron
-noun
 pp
-263021	verb
+np
 np
 verb
-np
-pp
-np
-np
-np
-263030	adv
 conj
-verb
-pron
-pp
-263036	verb
-noun
-np
-np
 conj
-263042	pp
 verb
 adv
-noun
-adv
-noun
-conj
-263050	verb
-np
+pron
+verb
 verb
 pron
-np
-pp
-np
-np
-263059	pp
-conj
-pp
-np
-np
-conj
-pp
-pp
-np
-263069	pron
-verb
-pp
+pron
 verb
 pron
-263075	np
-np
-np
-np
-np
-np
-np
-pp
-conj
 pron
 adv
 verb
 conj
-263090	conj
+263201	conj
 adv
 verb
 pron
-pp
+verb
+pron
 np
+np
+pp
+conj
+verb
+np
+verb
+conj
 adv
 verb
-263099	conj
-263101	adv
-verb
-verb
-conj
-np
+pp
 np
 conj
+conj
+pron
+verb
+np
+verb
+pp
+pp
+np
+263229	np
+conj
+verb
+np
+263234	conj
+263236	conj
+verb
+np
+conj
+verb
 adv
-pp
-verb
-pron
-263113	adv
-verb
-263116	conj
-verb
-conj
-conj
-verb
-pp
-verb
-conj
-pp
-conj
-pp
-verb
-pp
-np
-conj
-np
-pp
-np
-np
-pp
-verb
-np
+263243	verb
 conj
 np
 np
-noun
-verb
-verb
 conj
-263146	np
+conj
+verb
 pp
-verb
-np
-verb
-pron
-conj
-conj
-conj
-conj
-conj
-conj
-pp
-verb
-pron
-adj
-verb
-np
-conj
-263166	conj
-adv
-verb
-pron
-263172	pp
-verb
-conj
-pp
-verb
-conj
-pp
-verb
-263181	np
-np
-np
-pp
-pp
-pp
-np
-pp
-verb
-263191	pp
-conj
-np
-np
 advp
+adv
 verb
-pp
-np
-np
 conj
+np
 verb
 np
 np
 pp
-np
-conj
-263208	conj
-pron
+verb
 pron
 pp
+adv
 verb
-263214	verb
 conj
-263217	conj
+verb
+pp
+adv
+conj
+verb
+pp
+conj
+verb
+pp
+np
+np
+conj
+verb
+pp
+conj
+verb
+pp
+pp
+np
+pp
+pron
+verb
+verb
+pp
+np
+pron
+verb
+conj
+adv
+verb
+pron
+conj
+263299	pp
+conj
 adj
-pp
 verb
+verb
+conj
+conj
+verb
+conj
 pron
 adv
-np
-np
-np
-np
-pp
-noun
-verb
-conj
-np
-np
-adv
-pp
-verb
-verb
-np
-np
-np
-conj
-pp
-263243	conj
-verb
-pron
-263247	verb
-conj
-pp
-verb
-pp
-verb
-conj
-pron
-noun
-263257	np
-np
-np
-verb
-pp
-np
-np
-np
-conj
-pp
-np
-np
-263270	np
-np
-np
-np
-conj
-np
-np
-pp
-np
-verb
-pp
-np
-np
-np
-np
-conj
-263287	pp
-verb
-conj
-pp
-adj
-pp
-np
-verb
-pron
-263297	np
-conj
-np
-np
-263302	np
-np
-pp
-np
-conj
-263309	adv
-conj
-verb
-conj
-pron
-verb
-263316	np
-np
-conj
-pp
-np
-pp
-verb
-pron
-noun
-conj
-conj
-verb
-adv
-adv
-verb
-pp
-np
-np
-np
-conj
-conj
-pp
-verb
-263340	conj
-conj
-conj
-np
-conj
-np
-np
-263348	pp
-pp
-conj
-pp
-pp
-np
-np
-verb
-263357	pp
-verb
-conj
-pp
-np
-np
-np
-np
-np
-np
-np
-verb
-verb
-conj
-np
-np
-263374	np
-np
-263377	pp
 verb
 adj
 verb
 conj
-pron
-np
-np
-verb
-conj
-noun
 pp
-verb
-pron
-conj
-pron
-verb
-pron
-263396	np
-verb
-conj
 np
-verb
-verb
-pp
 adv
-conj
+verb
+pron
 np
-verb
-verb
-conj
-conj
-np
-np
-verb
-adv
-np
-verb
-pp
-verb
-conj
-conj
-np
-verb
-conj
-verb
+263321	conj
+pron
 adj
-adv
+verb
 conj
+conj
+pron
+np
+verb
+pron
+conj
+pp
+conj
+verb
+263336	conj
+verb
+pron
+pp
+np
+conj
+pp
+np
+verb
+conj
+conj
+263348	pron
+verb
+pron
+conj
+adj
+verb
+263355	adv
+verb
+np
+np
+pp
+pron
+verb
+verb
+conj
+verb
+adv
 adv
 verb
+pp
+np
+pron
+np
+verb
+pron
+263375	pp
+conj
+pp
+pp
+adj
+noun
+verb
+verb
+verb
+np
+verb
+verb
+conj
+np
+np
+np
+263392	conj
+verb
+pp
+verb
+pron
+pp
+np
+verb
+pron
+np
+np
+263404	np
+np
+263407	np
+263409	conj
+np
+np
+np
+conj
+np
+np
+np
+np
+pp
+np
+263422	np
+263424	pp
+conj
+pp
+conj
+pp
 263431	conj
-conj
-263434	adj
-noun
-pron
-noun
-conj
-pp
-pp
-np
-np
-np
-np
-pp
-np
-np
-conj
-np
-np
-np
-verb
-pp
-np
-np
-conj
-verb
-noun
-conj
-verb
-263462	np
-adv
-verb
-conj
-np
-adv
-verb
-noun
-conj
-263472	np
-verb
-np
-np
-pp
-pp
-np
-np
-conj
-263482	np
-conj
-verb
-adj
-conj
-verb
-adj
-verb
-pp
-verb
-conj
-pp
-np
-263496	np
-np
-np
-pp
-np
-pp
-np
-np
-263505	adj
-conj
-conj
-adv
-verb
-pp
-np
-np
-pp
-263515	np
-np
-verb
-pp
-pp
-np
-263522	np
-np
-np
-conj
-np
-263528	verb
-pron
-conj
-pron
-pron
-verb
-pp
-263536	np
-np
-verb
-pp
-verb
-conj
-adj
-263544	pp
-pp
-conj
-pp
-pp
-verb
-conj
-pron
-np
-263554	np
-pron
-verb
-pp
-adv
-263560	adj
-verb
-adv
-conj
-adj
-adj
-263567	np
-np
-pp
-conj
-263572	pp
-263574	np
-conj
-np
-pp
-conj
-263580	np
-263582	np
-np
-np
-conj
-np
-263588	np
-np
-conj
-np
-np
-pp
-pp
-verb
-pp
-np
-np
-pp
-conj
-conj
-263603	np
-np
-pp
-np
-adj
-pron
-verb
-verb
-pron
-263613	verb
-conj
-np
-263617	np
-pron
-pp
-verb
-noun
-noun
-verb
-pp
-conj
-np
-np
-verb
-np
-263633	verb
-conj
-np
-conj
-adv
-263639	np
-np
-np
-pp
-verb
-pp
-np
-np
-conj
-263649	conj
-verb
-vp
-conj
-263654	conj
-263656	verb
-pp
-noun
-conj
-verb
-pron
-adj
-verb
-pron
-conj
-adv
-verb
-pron
-pp
-np
-np
-adj
-conj
-verb
-verb
-np
-conj
-verb
-pp
-conj
-verb
-np
-np
-verb
-np
-pron
-adj
-verb
-adv
-263691	pp
-conj
-conj
-pp
-pp
-conj
-pron
-conj
-263700	verb
-adv
-adv
-adv
-verb
-conj
-verb
-pp
-pp
-adv
-verb
-263714	adj
-conj
-verb
-np
-adv
-263720	pp
-conj
-pp
-np
-conj
-verb
-np
-263729	verb
-conj
-np
-np
-verb
-pp
-conj
-pp
-adv
-np
-verb
-verb
-pp
-np
-np
-conj
-verb
-263747	verb
-verb
-np
-np
-np
-verb
-pp
-np
-conj
-verb
-noun
-verb
-conj
-noun
-pp
-263763	conj
-np
-np
-conj
-verb
-np
-np
-np
-np
-pp
-verb
-pp
-np
-263777	pron
-verb
-pp
-noun
-np
-conj
-263784	np
-np
-np
-np
-adv
-adj
-vp
-np
-np
-np
-conj
-adv
-verb
-pp
-np
-np
-pp
-np
-np
-np
-np
-verb
-np
-pp
-np
-263810	np
-np
-np
-np
-pp
-np
-np
-np
-conj
-np
-np
-np
-pp
-conj
-pp
-conj
-pron
-np
-pp
-verb
-pron
-pp
-np
-np
-verb
-np
-np
-np
-pp
-noun
-np
-pp
-np
-np
-np
-263846	np
-conj
-verb
-pron
-pp
-np
-np
-263854	conj
-np
-pron
-263858	pp
-conj
-adj
-pp
-verb
-conj
-verb
-pp
-verb
-conj
-adv
-verb
-verb
-np
-263873	pron
-verb
-verb
-pp
-np
-verb
-pron
-conj
-pp
-verb
-263885	pp
-conj
-verb
-adv
-pp
-verb
-263892	np
-conj
-np
-np
-np
-adv
-adj
-conj
-adj
-np
-pp
-np
-263905	verb
-conj
-np
-np
-verb
-pp
-np
-np
-np
-conj
-verb
-np
-pp
-np
-np
-np
-conj
-263923	pp
-verb
-verb
-np
-conj
-verb
-np
-np
-np
-pp
-verb
-263935	conj
-pron
-verb
-pron
-noun
-verb
-pron
-verb
-adv
-pp
-conj
-pron
-noun
-adv
-np
-263952	conj
-conj
-conj
-adjp
-verb
-pp
-np
-263960	np
-pron
-verb
-np
-263965	pp
-conj
-pp
-pp
-np
-adv
-verb
-conj
-adv
-verb
-conj
-verb
-pron
-pp
-np
-conj
-263982	np
-conj
-verb
-263986	conj
-263988	np
-conj
-np
-np
-adj
-conj
-np
-verb
-pron
-verb
-np
-pron
-verb
-np
-np
-pp
-verb
-pron
-adv
-verb
-np
-adv
-conj
-verb
-264013	conj
-pron
-np
-pron
-verb
-conj
-pron
-264021	pp
-pron
-verb
-conj
-verb
-pron
-pron
-adv
-verb
-pron
-conj
-adv
-pp
-np
-verb
-conj
-pp
-np
-np
-np
-264042	pron
-verb
-pron
-np
-noun
-verb
-pp
-np
-264051	adv
-conj
-conj
-adv
-verb
-pp
-verb
-pron
-pp
-conj
-np
-verb
-pp
-np
-np
-np
-adv
-pp
-np
-verb
-pp
-np
-noun
-conj
-verb
-verb
-np
-np
-264080	pp
-verb
-pp
-np
-np
-pp
-pp
-np
-pp
-verb
-adv
-pp
-np
-pp
-np
-verb
-conj
-verb
-pp
-verb
-264101	conj
-pron
-verb
-pron
-verb
-adj
-conj
-pron
-np
-verb
-264112	verb
-verb
-pron
-np
-np
-conj
-adv
-verb
-pron
-264122	verb
-conj
-pron
-np
-verb
-conj
-pron
-np
-np
-verb
-np
-264134	verb
-conj
-conj
-264138	conj
-np
-verb
-noun
-pp
-np
-np
-verb
-np
-np
-pp
-264151	np
-conj
-np
-np
-pp
-264157	conj
-conj
-conj
-264161	verb
-np
-264164	verb
-pron
-adv
-verb
-conj
-264171	np
-verb
-pron
-adv
-verb
-conj
-264178	np
-pron
-adv
-verb
-adv
-verb
-verb
-conj
-adj
-verb
-np
-np
-264192	conj
-conj
-np
-np
-conj
-adv
-np
-conj
-pp
-verb
-pp
-pp
-conj
-264206	noun
-verb
-pron
-verb
-conj
-pron
-verb
-conj
-adv
-np
-np
-np
-verb
-pron
-np
-verb
-verb
-noun
-pp
-np
-np
-conj
-264229	verb
-pp
-conj
-verb
-adv
-verb
-adj
-np
-conj
-np
-verb
-np
-verb
-pp
-conj
-pp
-adj
-pron
-pron
-264249	conj
-264251	verb
-np
-pp
-np
-np
-adv
-verb
-pp
-pp
-np
-np
-np
-pp
-conj
-adv
-verb
-pron
-np
-verb
-pron
-conj
-verb
-adv
-verb
-conj
-verb
-np
-np
-verb
-noun
-conj
-pp
-pron
-verb
-verb
-conj
-np
-np
-conj
-264291	np
-verb
-pp
-np
-conj
-264297	adv
-noun
-np
-conj
-np
-verb
-pp
-np
-adv
-adj
-conj
-conj
-np
-np
-np
-verb
-pp
-conj
-np
-np
-np
-verb
-pp
-np
-np
-adv
-verb
-adv
-pron
-pron
-verb
-adj
-verb
-264332	conj
-conj
-ptcl
-264336	conj
-adj
-verb
-pron
-conj
-pron
-np
-verb
-pron
-verb
-adv
-pp
-verb
-conj
-conj
-pp
-pp
-np
-np
-np
-np
-264358	conj
-adj
-verb
-pp
-np
-pron
-verb
-adv
-conj
-verb
-np
-adj
-verb
-verb
-conj
-264374	conj
-pron
-pron
-verb
-conj
-pron
-verb
-conj
-pron
-verb
-conj
-pron
-verb
-conj
-pron
-pp
-pron
-verb
-pp
-verb
-conj
-conj
-pron
-verb
-264399	pp
-conj
-pron
-verb
-pp
-verb
-verb
-pron
-264408	adj
-verb
-pron
-264412	noun
-verb
-pron
-264416	np
-verb
-pron
-np
-verb
-verb
-verb
-prep
-pron
-264426	pp
-adv
-pp
-adv
-pp
-adv
-pp
-adv
-264435	pp
-adv
-np
-pp
-verb
-adv
-verb
-adv
-verb
-adv
-verb
-noun
-pp
-np
-verb
-264451	noun
-adv
-264454	np
-np
-noun
-pp
-noun
-pp
-noun
-pp
-noun
-pp
-noun
-pp
-noun
-pp
-264470	conj
-pp
-adv
-pp
-264475	conj
-pp
-adv
-pp
-264480	conj
-pp
-np
-np
-pron
-264486	np
-pp
-np
-np
-np
-np
-pron
-verb
-conj
-adv
-verb
-pron
-verb
-conj
-adv
-pron
-verb
-264504	conj
-verb
-verb
-np
-np
-np
-verb
-264512	np
-np
-264515	conj
-264517	np
-verb
-verb
-adj
-pp
-np
-conj
-adv
-verb
-pp
-np
-np
-264530	np
-verb
-np
-np
-verb
-pron
-conj
-264538	pp
-pp
-verb
-pp
-np
-conj
-verb
-np
-np
-verb
-verb
-adv
-verb
-conj
-verb
-conj
-pp
-np
-264557	conj
-verb
-np
-pp
-pp
-np
-264566	conj
-pp
-adv
-verb
-264571	conj
-pp
-np
-adv
-verb
-np
-verb
-verb
-np
-pp
-np
-conj
-verb
-np
-np
-264588	conj
-pp
-conj
-pp
-np
-adv
-verb
-np
-verb
-conj
-verb
-pp
-np
-conj
-verb
-264604	np
-pron
-adv
-verb
-noun
-verb
-pp
-np
-verb
-pp
-conj
-adv
-verb
-conj
-adv
-pp
-np
-264623	conj
-conj
-verb
-verb
-adv
-verb
-adj
-noun
-conj
-verb
-264634	verb
-conj
-conj
-pron
-pp
-verb
-pp
-pron
-verb
-pron
-conj
-verb
-pp
-np
-conj
-np
-np
-np
-conj
-conj
-adv
-verb
-verb
-pron
-noun
-np
-np
-conj
-pron
-verb
-conj
-adv
-verb
-pp
-adv
-np
-verb
-conj
-verb
-pp
-conj
-verb
-pron
-264678	verb
-pron
-np
-np
-np
-conj
-pp
-verb
-adj
-conj
-adv
-verb
-pp
-np
-conj
-verb
-pp
-np
-np
-np
-conj
-verb
-264701	pp
-pp
-pp
-pp
-264706	conj
-pp
-conj
-conj
-verb
-adv
-adj
-verb
-verb
-adj
-pron
-pron
-verb
-pron
-conj
-verb
-pp
-verb
-adj
-conj
-verb
-np
-np
-conj
-np
-verb
-np
-np
-np
-verb
-pp
-pp
-np
-264740	conj
-conj
-conj
-pron
-conj
-verb
-pron
-verb
-pp
-np
-np
-conj
-conj
-np
-adv
-verb
-pron
-verb
-pron
-np
-np
-verb
-np
-adv
-verb
-verb
-pp
-conj
-adv
-verb
-264772	conj
-verb
-np
-conj
-pron
-264778	conj
-verb
-np
-np
-verb
-conj
-np
-np
-pron
-conj
-adj
-264790	conj
-pp
-np
-np
-conj
-adv
-pron
-verb
-adj
-verb
-264801	verb
-conj
-pron
-adv
-verb
-pron
-conj
-verb
-noun
-noun
-pron
-verb
-264814	pron
-verb
-pp
-pp
-verb
-pron
-verb
-noun
-conj
-verb
-np
-verb
-pron
-noun
-264829	np
-np
-verb
-np
-np
-adv
-verb
-conj
-pron
-verb
-pp
-pp
-verb
-np
-conj
-adj
-pp
-np
-np
-264850	verb
-conj
-conj
-264854	verb
-adv
-pron
-verb
-verb
-pron
-pron
-verb
-pron
-pron
-adv
-verb
-conj
-264868	conj
-264870	adv
-verb
-pron
-verb
-pron
-np
-np
-pp
-conj
-verb
-np
-verb
-conj
-adv
-verb
-pp
-np
-264888	conj
-conj
-pron
-verb
-np
-verb
-pp
-pp
-np
-264898	np
-conj
-verb
-np
-264903	conj
-264905	conj
-verb
-np
-conj
-verb
-adv
-264912	verb
-conj
-np
-np
-conj
-264919	conj
-verb
-pp
-advp
-adv
-verb
-conj
-np
-verb
-264929	np
-np
-pp
-verb
+263434	verb
 pron
-pp
-adv
-verb
-conj
-verb
-pp
-adv
-conj
-verb
-pp
-conj
-verb
-pp
-np
-np
-conj
-verb
 pp
 conj
-verb
-pp
-pp
 np
-pp
-264960	pron
-verb
-verb
-pp
 np
-pron
-verb
-conj
-adv
-verb
-pron
-conj
-264973	pp
-conj
-adj
-verb
-verb
-conj
-conj
-verb
-conj
-pron
-adv
-verb
-adj
-verb
-conj
 pp
 np
-adv
-verb
-pron
 np
-264995	conj
-pron
-adj
-verb
-conj
-conj
-pron
 np
-verb
-pron
-conj
-pp
-conj
-verb
-265010	conj
-verb
-pron
-pp
 np
+263446	pron
 conj
 pp
-np
-265019	verb
-conj
-conj
-265023	pron
-verb
-pron
+263451	np
 conj
-adj
-verb
-265030	adv
-verb
-np
-np
-pp
+263456	verb
 pron
-verb
-verb
-conj
-verb
-adv
-adv
-verb
 pp
 np
-265046	pron
-np
-verb
-pron
-265051	pp
-conj
-pp
-pp
-adj
-noun
-265058	verb
-verb
-verb
 np
-verb
-verb
 conj
-np
-np
-np
-265069	conj
-verb
-pp
-verb
-pron
-pp
-np
 verb
-pron
-np
-np
-265081	np
-np
-265084	np
-265086	conj
-np
-np
-np
-conj
-np
-np
-np
-np
-pp
-np
-265099	np
-265101	pp
-conj
-pp
-conj
-pp
-265108	conj
-265111	verb
-pron
-pp
-conj
-np
-np
-pp
-np
-np
-np
-np
-265123	pron
-conj
-pp
-265128	np
-conj
-265133	verb
 pron
 pp
 np
-np
-conj
+263467	np
 verb
-pron
 pp
 np
-265144	np
-verb
-pp
 np
 np
-265150	np
 np
-265153	conj
+263475	conj
 pron
 np
 pp
@@ -248129,7 +248129,7 @@ np
 np
 np
 ptcl
-265162	verb
+verb
 conj
 adv
 adv
@@ -248140,7 +248140,7 @@ pron
 pp
 np
 pp
-265174	np
+np
 pron
 adv
 verb
@@ -248158,8 +248158,8 @@ np
 np
 np
 conj
-265194	conj
-265196	conj
+conj
+263514	conj
 np
 pp
 verb
@@ -248171,11 +248171,11 @@ pron
 noun
 verb
 conj
-265209	verb
+verb
 adv
 adv
 verb
-265214	conj
+conj
 pron
 pron
 verb
@@ -248186,7 +248186,7 @@ noun
 verb
 adv
 conj
-265226	verb
+263542	verb
 conj
 np
 conj
@@ -248204,15 +248204,15 @@ verb
 conj
 pron
 noun
-265245	np
+263561	np
 verb
 pp
 conj
 adv
 verb
 pp
-265253	conj
-265255	pron
+263569	conj
+263571	pron
 pp
 verb
 pron
@@ -248221,7 +248221,7 @@ verb
 conj
 pp
 np
-265265	verb
+263581	verb
 conj
 np
 np
@@ -248253,7 +248253,7 @@ verb
 np
 np
 np
-265298	conj
+conj
 conj
 verb
 verb
@@ -248276,8 +248276,8 @@ pron
 pp
 np
 adv
-265322	verb
-265324	conj
+263637	verb
+263639	conj
 conj
 verb
 pp
@@ -248286,7 +248286,7 @@ np
 np
 pp
 conj
-265334	verb
+263649	verb
 pp
 conj
 adv
@@ -248310,7 +248310,7 @@ adv
 verb
 conj
 adv
-265359	np
+263674	np
 np
 np
 pron
@@ -248328,13 +248328,13 @@ verb
 pp
 np
 np
-265378	np
+263693	np
 conj
 np
 vp
 conj
 np
-265385	np
+263700	np
 np
 np
 np
@@ -248348,7 +248348,7 @@ pron
 adv
 adv
 verb
-265400	np
+np
 pron
 adv
 verb
@@ -248372,7 +248372,7 @@ conj
 verb
 pron
 np
-265425	pron
+pron
 verb
 pp
 np
@@ -248381,10 +248381,10 @@ conj
 verb
 conj
 pp
-265435	conj
+263748	conj
 conj
 adv
-265439	np
+263752	np
 pp
 noun
 verb
@@ -248393,16 +248393,16 @@ verb
 pp
 conj
 np
-265450	np
+np
 pron
 verb
 verb
 np
-265456	np
+np
 pron
 verb
 pp
-265461	conj
+263771	conj
 pron
 verb
 pron
@@ -248416,12 +248416,12 @@ np
 np
 verb
 pp
-265476	pp
+pp
 conj
 verb
 verb
 pron
-265483	adj
+adj
 adv
 verb
 adj
@@ -248438,7 +248438,7 @@ adj
 verb
 conj
 det
-265502	verb
+263808	verb
 conj
 verb
 np
@@ -248459,19 +248459,19 @@ pp
 np
 conj
 verb
-265524	np
+263830	np
 verb
 pron
-265528	conj
+263834	conj
 conj
 verb
 noun
 verb
 np
 verb
-265536	conj
+263842	conj
 conj
-265539	pron
+263845	pron
 pp
 np
 pron
@@ -248479,7 +248479,7 @@ conj
 pp
 np
 adj
-265548	np
+np
 conj
 verb
 pron
@@ -248487,7 +248487,7 @@ adv
 verb
 np
 verb
-265558	conj
+conj
 conj
 verb
 noun
@@ -248508,14 +248508,14 @@ verb
 conj
 conj
 verb
-265580	conj
+263883	conj
 verb
 pron
 verb
 np
 pp
 conj
-265588	verb
+verb
 pron
 np
 np
@@ -248526,7 +248526,7 @@ verb
 np
 np
 conj
-265600	conj
+conj
 verb
 conj
 adv
@@ -248538,25 +248538,25 @@ np
 verb
 np
 pp
-265613	conj
+conj
 pron
 adj
 verb
-265618	conj
+263918	conj
 advp
 verb
 adv
 np
 verb
 verb
-265626	pron
+263926	pron
 noun
 adj
 conj
 adv
 pp
 adj
-265634	verb
+verb
 conj
 conj
 adv
@@ -248568,11 +248568,11 @@ conj
 adv
 pp
 np
-265647	np
+263946	np
 pp
-265650	verb
+263949	verb
 conj
-265653	verb
+263952	verb
 pp
 np
 conj
@@ -248598,7 +248598,7 @@ noun
 np
 adv
 verb
-265680	conj
+conj
 conj
 pron
 verb
@@ -248632,9 +248632,9 @@ adv
 verb
 pp
 pp
-265715	verb
+264013	verb
 np
-265718	np
+264016	np
 np
 np
 verb
@@ -248648,7 +248648,7 @@ verb
 np
 np
 np
-265733	conj
+conj
 conj
 pp
 noun
@@ -248663,13 +248663,13 @@ pron
 verb
 pron
 pp
-265749	verb
+264046	verb
 verb
-265752	np
+np
 verb
 verb
 pp
-265757	pp
+264053	pp
 np
 np
 verb
@@ -248699,13 +248699,13 @@ conj
 verb
 noun
 pp
-265788	pp
+264084	pp
 np
 conj
 pp
 np
 conj
-265795	noun
+264091	noun
 verb
 np
 conj
@@ -248787,7 +248787,7 @@ verb
 pron
 verb
 pp
-265879	noun
+noun
 pron
 verb
 pp
@@ -248811,7 +248811,7 @@ np
 np
 verb
 pp
-265904	conj
+264198	conj
 np
 np
 np
@@ -248826,23 +248826,23 @@ np
 np
 verb
 adj
-265920	conj
-265922	np
+264214	conj
+264216	np
 conj
 verb
 np
 conj
 np
 np
-265931	verb
-265933	conj
+264224	verb
+264226	conj
 np
 conj
 pp
 conj
 conj
 pp
-265941	conj
+264234	conj
 np
 np
 pron
@@ -248859,14 +248859,14 @@ np
 np
 pp
 np
-265959	conj
+264252	conj
 verb
 adv
 verb
 pp
 verb
 np
-265967	conj
+conj
 conj
 pp
 np
@@ -248885,7 +248885,7 @@ np
 verb
 pp
 verb
-265987	np
+np
 pron
 verb
 verb
@@ -248909,10 +248909,10 @@ np
 np
 adv
 verb
-266012	conj
+conj
 conj
 verb
-266016	verb
+264306	verb
 verb
 adv
 pp
@@ -248927,7 +248927,7 @@ conj
 np
 pp
 np
-266032	verb
+264322	verb
 verb
 pp
 conj
@@ -248963,32 +248963,32 @@ pp
 np
 np
 pp
-266069	pron
+264359	pron
 conj
 pp
 verb
 noun
 verb
-266076	adv
-verb
-266079	conj
 adv
 verb
-266083	conj
+264368	conj
 adv
 verb
-266087	conj
+264372	conj
+adv
+verb
+264376	conj
 np
 conj
 adj
 verb
 pp
-266095	conj
+264383	conj
 conj
 pron
 noun
 conj
-266101	np
+np
 np
 verb
 pp
@@ -249007,7 +249007,7 @@ np
 verb
 conj
 pp
-266121	verb
+264408	verb
 conj
 pp
 np
@@ -249023,2426 +249023,4061 @@ np
 np
 np
 vp
+conj
+conj
+verb
+np
+np
+np
+verb
+np
+np
+np
+verb
+pp
+verb
+pp
+conj
+np
+pp
+verb
+conj
+np
+verb
+conj
+conj
+verb
+noun
+verb
+np
+np
+np
+np
+np
+pp
+np
+np
+verb
+264460	np
+conj
+264463	verb
+conj
+conj
+conj
+noun
+np
+pp
+conj
+adv
+conj
+adv
+verb
+noun
+verb
+noun
+adv
+verb
+noun
+adv
+conj
+264484	verb
+noun
+adv
+conj
+verb
+pp
+adv
+verb
+adv
+pp
+np
+np
+conj
+pron
+advp
+verb
+verb
+264502	verb
+conj
+conj
+conj
+verb
+pron
+conj
+adv
+verb
+pp
+verb
+conj
+pron
+conj
+pron
+conj
+pron
+noun
+verb
+pron
+adj
+pron
+verb
+verb
+conj
+conj
+pp
+np
+np
+verb
+pron
+np
+conj
+264536	np
+np
+np
+pp
+np
+np
+264543	conj
+conj
+conj
+np
+verb
+pron
+conj
+264551	adv
+conj
+np
+np
+verb
+conj
+pron
+conj
+conj
+adj
+np
+np
+verb
+verb
+pron
+conj
+np
+verb
+verb
+pron
+verb
+pron
+adv
+adv
+conj
+verb
+pron
+verb
+conj
+pron
+verb
+adj
+conj
+verb
+pp
+264587	conj
+adv
+adj
+pp
+verb
+pron
+pp
+np
+pron
+adv
+verb
+pp
+pron
+verb
+noun
+pp
+verb
+conj
+264606	verb
+pp
+adv
+conj
+verb
+np
+np
+conj
+verb
+pp
+verb
+pron
+pp
+verb
+verb
+np
+adv
+verb
+verb
+conj
+conj
+noun
+264629	np
+verb
+264632	np
+pp
+np
+conj
+np
+pp
+np
+conj
+np
+conj
+pp
+np
+pp
+verb
+np
+conj
+pp
+np
+pp
+np
+pron
+verb
+verb
+pron
+conj
+verb
+np
+264660	adj
+conj
+pp
+np
+pp
+verb
+pron
+verb
+noun
+np
+conj
+264672	verb
+pp
+np
+verb
+conj
+np
+np
+verb
+conj
+pp
+np
+np
+np
+conj
+np
+adj
+verb
+pron
+verb
+np
+verb
+conj
+verb
+264696	adv
+verb
+verb
+conj
+verb
+adv
+verb
+conj
+264705	adj
+np
+np
+np
+adv
+conj
+verb
+np
+pron
+conj
+noun
+pp
+np
+verb
+conj
+conj
+adv
+pp
+verb
+verb
+np
+pp
+adv
+adv
+adv
+conj
+pron
+verb
+np
+verb
+264736	np
+conj
+np
+np
+advp
+conj
+verb
+np
+np
+np
+pp
+np
+np
+np
+conj
+noun
+264753	verb
+np
+conj
+np
+np
+pron
+noun
+verb
+verb
+conj
+conj
+adv
+adv
+np
+verb
+verb
+264770	verb
+pron
+conj
+conj
+verb
+noun
+pron
+adj
+verb
+verb
+conj
+adv
+np
+np
+verb
+conj
+noun
+verb
+np
+np
+verb
+verb
+pp
+pron
+pp
+verb
+np
+verb
+pron
+conj
+noun
+pp
+np
+verb
+pp
+conj
+264808	conj
+264810	pron
+verb
+conj
+conj
+np
+pp
+verb
+verb
+adv
+pron
+pron
+verb
+noun
+adv
+verb
+np
+adv
+pp
+verb
+pron
+np
+np
+np
+verb
+pron
+verb
+pp
+pp
+conj
+np
+verb
+conj
+verb
+pron
+verb
+np
+pron
+verb
+pron
+conj
+noun
+conj
+noun
+adv
+verb
+pron
+adv
+verb
+conj
+verb
+np
+np
+np
+verb
+adv
+verb
+verb
+pron
+pron
+conj
+pp
+verb
+noun
+264874	advp
+np
+pp
+np
+np
+conj
+pp
+np
+verb
+pron
+np
+conj
+np
+264888	pp
+np
+verb
+pp
+verb
+np
+np
+conj
+pron
+conj
+conj
+pron
+264901	conj
+verb
+conj
+pp
+verb
+verb
+conj
+264909	noun
+verb
+conj
+np
+advp
+verb
+np
+conj
+verb
+pp
+np
+np
+conj
+pp
+np
+pron
+conj
+pron
+verb
+conj
+pron
+verb
+pron
+verb
+conj
+conj
+noun
+verb
+adv
+verb
+pp
+adj
+conj
+verb
+np
+np
+np
+pron
+verb
+conj
+np
+adjp
+pron
+verb
+pron
+conj
+verb
+conj
+np
+verb
+np
+adv
+verb
+np
+conj
+np
+np
+verb
+264968	pp
+np
+adv
+verb
+noun
+np
+conj
+np
+264977	np
+verb
+pp
+264981	np
+conj
+np
+conj
+verb
+noun
+noun
+adv
+verb
+adv
+verb
+adj
+pron
+verb
+pron
+verb
+noun
+conj
+adv
+verb
+noun
+pp
+np
+265005	np
+verb
+np
+pp
+np
+verb
+pron
+conj
+np
+verb
+np
+np
+verb
+conj
+adv
+verb
+np
+np
+np
+conj
+conj
+verb
+pron
+verb
+pron
+adj
+verb
+verb
+pron
+np
+conj
+np
+verb
+adj
+conj
+265041	adv
+pp
+adj
+np
+verb
+conj
+adv
+pp
+np
+adj
+conj
+np
+np
+verb
+verb
+conj
+verb
+np
+verb
+pp
+np
+adv
+verb
+noun
+adv
+verb
+pron
+conj
+verb
+noun
+pron
+adv
+verb
+conj
+265076	verb
+pp
+np
+np
+pp
+np
+verb
+noun
+conj
+verb
+pp
+np
+pp
+np
+verb
+np
+np
+conj
+verb
+adv
+verb
+np
+conj
+verb
+adv
+verb
+conj
+conj
+conj
+noun
+verb
+verb
+np
+pp
+adv
+conj
+pp
+np
+np
+np
+verb
+np
+pron
+verb
+np
+np
+pron
+verb
+verb
+pp
+pron
+verb
+pron
+verb
+adj
+conj
+np
+np
+np
+adv
+verb
+265138	conj
+np
+verb
+noun
+verb
+conj
+verb
+pron
+verb
+conj
+pp
+np
+np
+verb
+pron
+conj
+adv
+verb
+verb
+conj
+adv
+pp
+np
+np
+265163	np
+np
+265166	pp
+pron
+noun
+verb
+pron
+noun
+265173	conj
+conj
+265176	pron
+verb
+conj
+conj
+np
+conj
+pron
+np
+np
+verb
+265188	pp
+conj
+conj
+pp
+np
+np
+np
+np
+noun
+pron
+adj
+verb
+pron
+conj
+np
+np
+np
+pp
+np
+np
+verb
+np
+np
+265212	np
+np
+265215	pp
+np
+np
+noun
+ptcl
+265221	np
+np
+265224	pp
+np
+np
+265229	verb
+pp
+conj
+np
+pp
+265236	pron
+conj
+pp
+265241	np
+conj
+265245	adj
+265247	np
+np
+265250	conj
+265252	np
+np
+265255	verb
+pron
+pp
+np
+np
+pp
+np
+pp
+conj
+verb
+pron
+pp
+pp
+np
+verb
+pron
+265272	conj
+pp
+pp
+verb
+pron
+pp
+pp
+265280	pp
+pp
+np
+np
+np
+np
+pp
+np
+np
+np
+np
+pron
+verb
+pron
+pp
+verb
+pp
+verb
+265299	np
+np
+pp
+np
+np
+np
+np
+np
+pp
+np
+np
+np
+np
+pron
+verb
+pp
+pp
+np
+265318	conj
+verb
+pron
+np
+np
+np
+np
+pp
+np
+np
+pron
+verb
+pp
+pp
+np
+np
+np
+np
+verb
+np
+pp
+np
+265341	np
+pp
+np
+conj
+np
+pp
+np
+pp
+pp
+adv
+verb
+verb
+pp
+np
+np
+verb
+pp
+np
+np
+np
+np
+pp
+verb
+265365	pp
+np
+np
+verb
+pp
+np
+pp
+np
+verb
+265375	np
+np
+np
+np
+np
+np
+np
+pp
+adv
+verb
+verb
+np
+np
+np
+np
+np
+pron
+verb
+np
+np
+np
+pp
+np
+np
+pp
+np
+np
+np
+pp
+pron
+verb
+265407	np
+np
+np
+pp
+pp
+np
+265414	conj
+265416	np
+np
+pp
+np
+np
+adv
+verb
+verb
+pp
+noun
+verb
+pp
+np
+np
+conj
+265432	np
+np
+265435	np
+np
+265438	np
+np
+np
+verb
+pron
+np
+265445	conj
+pp
+np
+verb
+np
+np
+np
+np
+pp
+verb
+pron
+265457	pron
+verb
+np
+np
+np
+np
+pron
+np
+np
+np
+np
+np
+np
+np
+pp
+np
+conj
+pron
+np
+np
+np
+verb
+np
+np
+np
+pp
+265484	verb
+pp
+np
+np
+np
+np
+np
+np
+pron
+verb
+pp
+np
+265497	verb
+pron
+pp
+conj
+verb
+pp
+np
+pp
+np
+pp
+265508	np
+conj
+conj
+conj
+conj
+np
+np
+verb
+265517	advp
+pp
+np
+np
+conj
+pp
+pp
+verb
+conj
+adj
+verb
+pp
+np
+np
+conj
+pron
+verb
+np
+pp
+np
+pron
+verb
+265540	np
+np
+np
+np
+np
+pp
+verb
+conj
+pron
+verb
+adj
+np
+265553	np
+conj
+np
+pp
+adv
+verb
+pp
+np
+np
+np
+np
+pp
+265566	np
+np
+np
+np
+np
+265572	np
+adv
+verb
+pp
+np
+np
+np
+pp
+np
+np
+verb
+adv
+pp
+np
+np
+np
+np
+verb
+np
+np
+265593	np
+conj
+np
+conj
+verb
+np
+noun
+conj
+np
+np
+np
+conj
+adj
+verb
+pp
+pp
+np
+np
+np
+pron
+verb
+pron
+adv
+verb
+pron
+adj
+np
+verb
+np
+noun
+vp
+conj
+verb
+conj
+verb
+pp
+np
+pp
+265632	conj
+verb
+pp
+265636	np
+verb
+np
+np
+np
+verb
+np
+np
+np
+pp
+np
+np
+pp
+pp
+265651	np
+conj
+vp
+pp
+pron
+adv
+pp
+np
+np
+adv
+pp
+conj
+adv
+pron
+verb
+np
+conj
+verb
+verb
+pp
+265672	pp
+np
+pron
+verb
+np
+conj
+pp
+verb
+conj
+verb
+conj
+adv
+265686	np
+np
+pp
+verb
+noun
+pp
+verb
+np
+np
+pp
+conj
+verb
+np
+np
+pp
+adjp
+verb
+np
+np
+np
+conj
+adjp
+np
+np
+np
+noun
+adv
+verb
+conj
+adjp
+pp
+np
+adv
+conj
+pp
+265723	adv
+verb
+adj
+verb
+adv
+pp
+np
+np
+np
+pron
+conj
+verb
+265736	np
+np
+verb
+np
+adj
+conj
+265743	np
+np
+np
+verb
+np
+pp
+np
+np
+np
+np
+np
+np
+pp
+verb
+conj
+265759	np
+verb
+pp
+pp
+np
+np
+verb
+noun
+conj
+verb
+np
+pp
+np
+np
+pp
+np
+verb
+np
+pp
+conj
+verb
+verb
+noun
+265783	np
+conj
+noun
+np
+conj
+pp
+verb
+np
+np
+pp
+np
+pp
+np
+conj
+conj
+265799	verb
+265801	conj
+conj
+verb
+265805	np
+np
+conj
+np
+np
+verb
+pp
+np
+np
+np
+265816	conj
+verb
+adj
+np
+265821	pp
+np
+verb
+verb
+pp
+np
+pp
+pp
+np
+verb
+pp
+np
+np
+pp
+pp
+265837	np
+np
+np
+np
+265842	pp
+265844	np
+conj
+verb
+np
+np
+265850	np
+np
+np
+verb
+pron
+pp
+pp
+verb
+pron
+np
+conj
+verb
+pp
+pp
+verb
+verb
+verb
+np
+np
+np
+pp
+np
+np
+np
+pron
+np
+adv
+verb
+np
+np
+np
+conj
+adv
+verb
+np
+265886	np
+np
+conj
+pp
+verb
+np
+265893	conj
+conj
+np
+np
+pp
+265899	pp
+np
+np
+verb
+pp
+np
+np
+265907	np
+np
+np
+verb
+pron
+pp
+np
+np
+np
+np
+265918	np
+adjp
+np
+verb
+np
+np
+265925	np
+verb
+np
+np
+np
+np
+conj
+verb
+pron
+np
+np
+265937	np
+verb
+pp
+np
+pp
+265943	np
+np
+verb
+conj
+verb
+adv
+np
+265951	np
+conj
+np
+pp
+np
+pp
+np
+np
+np
+np
+np
+pp
+np
+np
+pron
+verb
+pp
+265969	np
+265971	np
+np
+pp
+verb
+np
+265977	conj
+pp
+pp
+np
+np
+conj
+verb
+adv
+verb
+pp
+np
+np
+np
+pp
+pron
+verb
+np
+pp
+verb
+np
+np
+pp
+np
+pp
+np
+np
+pp
+conj
+pp
+verb
+conj
+verb
+pron
+pp
+np
+np
+np
+np
+noun
+verb
+pp
+np
+np
+pp
+np
+np
+verb
+np
+pp
+np
+pp
+np
+np
+pp
+266032	conj
+conj
+verb
+266036	verb
+pp
+np
+np
+pron
+np
+conj
+conj
+conj
+verb
+conj
+np
+np
+verb
+np
+np
+np
+conj
+verb
+pp
+np
+np
+np
+np
+conj
+verb
+pp
+np
+verb
+adv
+pron
+266068	conj
+pp
+266071	np
+verb
+pp
+pron
+np
+266077	pp
+np
+conj
+pp
+266082	pp
+np
+np
+np
+np
+np
+np
+ptcl
+verb
+conj
+pron
+266094	np
+np
+pp
+adv
+verb
+np
+pron
+verb
+pp
+np
+266105	conj
+pp
+verb
+pron
+pp
+verb
+verb
+np
+np
+np
+pp
+np
+np
+np
+266120	np
+conj
+np
+conj
+adv
+verb
+pp
+np
+np
+np
+np
+266132	np
+np
+np
+266136	np
 266138	conj
-conj
-verb
 np
 np
-np
-266145	verb
-np
-np
-np
-verb
-pp
-verb
 pp
 conj
-np
 pp
-verb
 conj
+pp
 np
-verb
-266161	conj
+np
 conj
 verb
-noun
-verb
-np
-np
-np
-np
 np
 pp
 np
 np
-verb
-266176	np
-conj
-266179	verb
-conj
-conj
-conj
-noun
 np
+np
+np
+conj
+verb
+verb
 pp
-conj
-adv
-conj
-adv
 verb
 noun
 verb
 noun
-adv
-verb
-noun
-adv
-conj
-266200	verb
-noun
-adv
+np
 conj
 verb
-pp
+pron
+verb
+conj
+conj
 adv
 verb
-adv
 pp
-266211	np
+np
+np
+np
+np
+np
+verb
+verb
+np
+verb
+pp
+np
+np
+conj
+verb
 np
 conj
 pron
+verb
+266194	np
+conj
+np
+conj
+np
+conj
+np
+conj
+266203	conj
+pp
+np
+np
+np
+np
+np
+pp
+np
+pp
+np
+np
+np
+np
+conj
+verb
+np
+266221	pp
+np
+np
+266225	np
+conj
+np
+np
+np
+np
+np
+pp
+np
+pp
+np
+np
+np
+np
+np
+conj
+266242	adv
+verb
+adjp
+266246	conj
+np
+np
+np
+pp
+np
+np
+np
+np
+pp
+np
+pp
+np
+np
+np
+verb
+conj
+pp
+verb
+pp
+266267	np
+pron
+verb
+np
+pp
+np
+np
+266275	conj
+pp
+np
+266279	np
+pp
+np
+np
+pp
+266285	np
+np
+np
+np
+verb
+pp
+np
+np
+pp
+pron
+conj
+verb
+conj
+verb
+pp
+adv
+pron
+verb
+conj
+adv
+np
+verb
+pp
+np
+np
+np
+vp
+np
+verb
+np
+np
+np
+pp
+266319	np
+verb
+pp
+pp
+np
+np
+np
+np
+pron
+verb
+pron
+verb
+np
+pp
+np
+np
+np
+pp
+pron
+conj
+adv
+adv
+verb
+np
+conj
+pron
+verb
+conj
+pp
+verb
+conj
+verb
+noun
+pp
+np
+266355	verb
+pron
+pp
+np
+np
+266361	np
+np
+verb
+pp
+np
+np
+np
+verb
+conj
+np
+np
+np
+np
+conj
+verb
+266377	np
+np
+pp
+verb
+pp
+np
+266384	conj
+np
+conj
+verb
+np
+verb
+noun
+adj
+pp
+np
+np
+conj
+verb
+np
+verb
+conj
+adv
+verb
+np
+adv
+verb
+pp
+np
+conj
+verb
+noun
+np
+verb
+adv
+verb
+adv
+conj
+verb
+verb
+np
+np
+np
+conj
+verb
+verb
+noun
+verb
+np
+np
+pp
+np
+np
+adv
+verb
+conj
+conj
+pron
+adj
+pp
+np
+np
+conj
+verb
+noun
+verb
+conj
+adv
+verb
+266448	np
+np
+np
+np
+pp
+verb
+pp
+np
+np
+conj
+conj
+conj
+conj
+verb
+pp
+pp
+np
+verb
+conj
+pp
+adjp
+verb
+pron
+conj
+np
+np
+pp
+verb
+pron
+verb
+conj
+np
+np
+conj
+np
+conj
+verb
+pp
+conj
+266488	np
+np
+verb
+pron
+conj
+verb
+pron
+pp
+np
+np
+266499	conj
+np
+pp
+np
+266505	conj
+conj
+np
+conj
+adv
+verb
+pp
+conj
+verb
+adj
+conj
+conj
+conj
+pron
+adv
+verb
+conj
+adv
+noun
+pron
+conj
+verb
+verb
+np
+conj
+conj
+pron
+verb
+noun
+adv
+verb
+noun
+pp
+np
+np
+np
+266542	conj
+adj
+pron
+verb
+np
+pp
+conj
+verb
+np
+np
+np
+pp
+np
+np
+np
+adv
+conj
+verb
+np
+verb
+conj
+adv
+noun
+adv
+conj
+noun
+pp
+conj
+np
+verb
+np
+conj
+np
+np
+pp
+np
+conj
+conj
+verb
+pron
+verb
+adj
+np
+conj
+adv
+verb
+266589	np
+np
+np
+np
+adv
+conj
+adv
+verb
+conj
+adv
+verb
+pp
+adj
+verb
+adv
+verb
+np
+conj
+verb
+pp
+np
+verb
+np
+conj
+verb
+noun
+verb
+conj
+verb
+266619	verb
+verb
+conj
+verb
+pp
+np
+conj
+verb
+pron
+np
+verb
+conj
+adv
+adv
+verb
+266635	conj
+adj
+conj
+conj
+adj
+verb
+np
+conj
+np
+adj
+verb
+pp
+adv
+verb
+adj
+conj
+verb
+pron
+np
+np
+np
+conj
+266658	verb
+pp
+verb
+noun
+conj
+verb
+pp
+verb
+pron
+266668	conj
+conj
+np
+266672	conj
+np
+np
+np
+verb
+adv
+pp
+pp
+np
+266682	np
+np
+266685	np
+266687	verb
+pron
+pp
+np
+np
+np
+np
+conj
+np
+conj
+noun
+verb
+np
+np
+conj
+np
+np
+np
+np
+pron
+np
+np
+conj
+conj
+np
+verb
+np
+adv
+np
+np
+np
+pp
+np
+verb
+np
+conj
+266724	np
+np
+verb
+np
+conj
+pron
+verb
+pp
+conj
+pron
+verb
+verb
+np
+np
+np
+pp
+conj
+verb
+pron
+pron
+adjp
+np
+266747	verb
+266749	conj
+conj
+np
+np
+conj
+conj
+verb
+266757	conj
+adv
+verb
+np
+np
+verb
+np
+np
+conj
+np
+np
+verb
+np
+np
+pron
+verb
+266774	adj
+conj
+adv
+np
+np
+verb
+conj
+266782	conj
+pron
+conj
+np
+np
+np
+conj
+np
+verb
+np
+np
+266794	pp
+verb
+noun
+266798	np
+conj
+np
+conj
+verb
+pp
+np
+np
+conj
+verb
+np
+pp
+np
+np
+np
+adj
+verb
+pron
+conj
+verb
+266819	pp
+conj
+pp
+np
+conj
+np
+266826	np
+pp
+adj
+np
+np
+adv
+verb
+conj
+pron
+np
+conj
+conj
+verb
+np
+np
+verb
+np
+np
+pp
+pron
+conj
+verb
+adj
+verb
+266851	np
+np
+conj
+np
+pron
+verb
+np
+np
+pp
+conj
+266862	adv
+pron
+verb
+conj
+verb
+adj
+pp
+np
+conj
+np
+266873	verb
+np
+np
+conj
+verb
+pron
+pp
+np
+266882	conj
+np
+verb
+np
+np
+pp
+pp
+266890	conj
+pp
+np
+np
+np
+conj
+np
+266898	pp
+conj
+adj
+conj
+conj
+np
+verb
+np
+np
+np
+pp
+pp
+verb
+conj
+266913	np
+conj
+adv
+noun
+verb
+conj
+adj
+conj
+np
+verb
+pron
+verb
+pp
+conj
+noun
+conj
+adj
+conj
+np
+np
+verb
+pp
+verb
+np
+verb
+conj
+np
+conj
+conj
+np
+verb
+pp
+conj
+noun
+adv
+verb
+pp
+np
+verb
+266953	pp
+conj
+pp
+np
+np
+np
+np
+verb
+np
+np
+np
+pp
+verb
+pron
+verb
+pp
+np
+np
+np
+conj
+266974	verb
+np
+np
+pp
+266979	conj
+conj
+266982	pp
+np
+pp
+np
+pp
+np
+np
+np
+np
+pp
+np
+np
+np
+np
+pp
+np
+pp
+verb
+np
+np
+np
+conj
+verb
+267006	verb
+pp
+np
+np
+np
+conj
+adj
+verb
+verb
+verb
+conj
+267018	verb
+np
+np
+pp
+conj
+verb
+np
+np
+np
+conj
+verb
+np
+pp
+np
+np
+np
+np
+pp
+verb
+np
+np
+np
+pp
+verb
+np
+267044	np
+np
+np
+verb
+verb
+conj
+267051	np
+np
+np
+verb
+conj
+np
+np
+np
+pron
+verb
+np
+267063	pp
+np
+267066	conj
+verb
+pp
+np
+pp
+conj
+pp
+verb
+pp
+np
+267077	conj
+267079	pp
+np
+np
+conj
+pp
+conj
+pron
+verb
+noun
+pp
+np
+np
+np
+pp
+verb
+np
+np
+np
+pp
+verb
+pp
+conj
+pp
+verb
+conj
+verb
+pron
+verb
+conj
+conj
+verb
+np
+np
+pp
+pron
+verb
+adj
+verb
+pron
+267119	np
+267121	np
+conj
+np
+np
+pp
+pron
+verb
+pp
+pp
+np
+conj
+267133	verb
+np
+pp
+conj
+verb
+np
+np
+267141	np
+conj
+pp
+pp
+267147	conj
+267150	np
+pp
+np
+verb
+np
+267156	np
+267158	pp
+267161	conj
+np
+267164	np
+267166	np
+adjp
+pp
+267170	verb
+pp
+pp
+267174	conj
+267176	pron
+conj
+pp
+267181	np
+conj
+267185	verb
+np
+np
+pp
+np
+np
+np
+adv
+pp
+np
+np
+np
+pp
+np
+pp
+np
+verb
+pp
+np
+np
+np
+np
+pp
+np
+267210	pp
+np
+np
+pp
+np
+verb
+np
+np
+verb
+pp
+np
+verb
+pp
+np
+267225	conj
+verb
+adj
+pron
+pron
+verb
+pp
+np
+pp
+verb
+pron
+pp
+np
+pron
+267240	pp
+conj
+np
+np
+conj
+pp
+np
+np
+267249	conj
+np
+np
+np
+np
+np
+verb
+np
+conj
+np
+verb
+np
+pp
+np
+267264	conj
+pron
+verb
+np
+np
+adv
+267271	conj
+verb
+pp
+267275	conj
+np
+pp
+verb
+pron
+verb
+conj
+verb
+267284	conj
+pp
+np
+verb
+267289	np
+np
+pp
+267293	pp
+np
+267296	conj
+verb
+conj
+pron
+verb
+noun
+conj
+np
+pp
+adv
+pp
+np
+np
+verb
+conj
+267312	np
+np
+adj
+pp
+verb
+pp
+267319	np
+np
+conj
+np
+np
+conj
+np
+np
+np
+pp
+verb
+np
+np
+adv
+verb
+adv
+np
+np
+np
+verb
+pron
+conj
+pp
+pp
+267344	conj
+pron
+conj
+pp
+pp
+np
+verb
+det
+conj
+pp
+verb
+conj
+pp
+np
+np
+verb
+det
+conj
+pp
+np
+verb
+adv
+adv
+verb
+noun
+verb
+np
+np
+pron
+conj
+conj
+conj
+np
+267378	conj
+conj
+noun
+verb
+conj
+pp
+verb
+conj
+adv
+verb
+verb
+conj
+conj
+pron
+pron
+verb
+pp
+pp
+267397	np
+np
+conj
+np
+np
+np
+267404	pp
+267406	np
+np
+267409	conj
+267411	pp
+verb
+conj
+pp
+np
 advp
-verb
-verb
-266219	verb
-conj
-conj
-conj
-verb
-pron
 conj
 adv
-verb
-pp
-266232	verb
-conj
-pron
-conj
-266237	pron
-conj
-pron
-noun
-verb
-pron
-adj
-pron
-verb
-verb
-conj
-conj
-pp
-np
-np
-verb
-pron
-np
-conj
-266257	np
-np
-np
-pp
-np
-np
-266264	conj
-conj
-conj
-np
-verb
-pron
-conj
-266272	adv
-conj
-np
-np
-verb
-conj
-pron
-conj
-conj
-adj
-np
-np
-verb
-verb
-pron
-conj
-np
-verb
-verb
-pron
-verb
-pron
 adv
-adv
-conj
-verb
-pron
-verb
-conj
-pron
-verb
-adj
-conj
-verb
-pp
-266308	conj
-adv
-adj
-pp
-verb
-pron
-pp
-266316	np
-pron
-adv
-verb
-pp
-pron
 verb
 noun
 pp
-266326	verb
-conj
-266329	verb
+np
+np
+267426	conj
 pp
-adv
-conj
-verb
-np
-np
-conj
-verb
-pp
-266340	verb
-pron
-pp
-verb
-verb
-np
-adv
-verb
-verb
-conj
-conj
-noun
-266353	np
-verb
-266356	np
-pp
-np
-conj
-np
-pp
-np
-conj
-np
 conj
 pp
-np
-pp
-verb
-np
-conj
-pp
-np
-pp
-np
-pron
-verb
-verb
 pron
 conj
-verb
-np
-266384	adj
-conj
-pp
-np
-pp
-verb
-pron
 verb
 noun
-266394	np
 conj
-266397	verb
+verb
+noun
+conj
+conj
+verb
 pp
+pron
+pron
 np
+conj
+pron
+verb
+adv
+verb
 verb
 conj
-np
-np
-verb
-conj
 pp
 np
 np
-np
+verb
+pp
+verb
 conj
+pp
+verb
+adj
+conj
+adv
+adj
+conj
+verb
 np
 adj
+pp
+conj
+pron
 verb
+verb
+conj
+267475	conj
+np
+pp
+267479	np
+np
+conj
+np
+np
+conj
+np
+np
+verb
+pp
+267490	pp
+pp
+np
+np
+np
+np
+pp
+adj
+adv
+np
+np
+np
+verb
+conj
+267505	conj
+267507	verb
+conj
+verb
+pron
+conj
+verb
+verb
+np
+pp
+verb
+pp
+np
+267520	np
+verb
+np
+np
+np
+conj
+adv
+verb
+pp
+pp
+verb
+pron
+verb
+pron
+np
+np
+conj
+conj
+pron
+pp
+conj
+pron
+verb
+267544	np
+pp
+267547	advp
+pp
+verb
+conj
+np
+pp
+verb
+np
+np
+verb
+pron
+verb
+pp
+conj
+adv
+verb
+pp
+conj
+np
+conj
+pp
+conj
+np
+np
+conj
+np
+np
+conj
+np
+267577	conj
+verb
+np
+np
+conj
+np
+verb
+np
+np
+verb
+adj
+np
+verb
+adj
+267592	pp
+conj
+pp
+conj
+np
+pron
+verb
+verb
+pron
+267602	np
+adj
+verb
+conj
+np
+np
+adj
+pron
+verb
+pp
+pron
+adv
+pp
+267616	pron
+pp
+np
+verb
+adv
+noun
+verb
+verb
+adj
+noun
+conj
 pron
 verb
 np
 verb
-conj
-266421	verb
-266423	adv
-verb
-verb
-conj
-verb
-adv
-verb
-conj
-266432	adj
+pp
 np
-np
-np
-adv
-conj
 verb
-np
-pron
 conj
 noun
-pp
-np
 verb
 conj
-conj
-adv
-pp
+noun
 verb
-verb
-np
-pp
-adv
-adv
-adv
-conj
 pron
 verb
-np
-266462	verb
-266464	np
+adj
+pp
+267645	np
+conj
 conj
 np
 np
+pron
+verb
+conj
+verb
+pron
+267656	np
+np
+pp
+np
+conj
+267662	pp
+np
+np
+np
+np
+verb
+conj
+conj
+conj
+np
+verb
+conj
+noun
+267676	pp
+np
+267679	conj
+np
+conj
+adv
+verb
+267685	conj
+pp
+np
+np
+adj
+conj
+adv
 advp
-conj
-verb
-np
-np
-np
 pp
 np
 np
-np
-conj
-noun
-266481	verb
-np
-conj
+pp
+267698	conj
 np
 np
-pron
-noun
 verb
+noun
+conj
+verb
+verb
+pp
+267708	conj
+verb
+conj
+verb
+pp
+np
+adj
+verb
+pp
+267718	conj
+conj
+verb
+267722	conj
+np
+np
+np
+np
+conj
+verb
+pp
+verb
+conj
+noun
+pp
+np
+verb
+pp
+np
+pp
+np
+267741	pp
+verb
+conj
+pp
 verb
 conj
 conj
 adv
-adv
+verb
+pp
+np
+np
+267754	conj
+np
 np
 verb
+conj
 verb
-266498	verb
+np
+np
+conj
+np
+verb
+conj
+verb
+pron
+verb
+conj
+pp
+267772	noun
+adv
+verb
+pron
+conj
+pron
+verb
+verb
+np
+pp
+np
+conj
+verb
+pron
+adv
+np
+pp
+verb
+np
+conj
+np
+verb
+adv
+np
+267797	np
+conj
+np
+verb
+conj
+noun
+noun
+pp
+verb
+pp
+np
 pron
 conj
 conj
 verb
+verb
+conj
+verb
+np
+pp
+adv
+verb
+conj
+pp
+conj
+np
+adv
+verb
+adj
+conj
+verb
+267830	np
+np
+conj
+conj
+np
+conj
+conj
+np
+np
+np
+verb
+pp
+conj
+267844	vp
+np
+conj
+verb
+conj
+verb
+conj
+verb
+adv
+conj
+verb
+adjp
+conj
+np
+verb
+267861	np
+conj
+conj
+np
+conj
+adv
 noun
+pp
+verb
+adv
+conj
+verb
+pron
+conj
+verb
+pron
+adv
+verb
 pron
 adj
 verb
 verb
 conj
+pron
+pp
+pp
+np
+conj
+np
+adj
+verb
+conj
+pp
+np
+np
+pp
+verb
+verb
+np
+conj
+verb
+np
+np
+np
+np
+np
+pp
+np
+np
+verb
+pp
+np
+verb
+pron
+267916	pron
+conj
 adv
-np
-np
-verb
-conj
-noun
-verb
-np
-np
-verb
-verb
-pp
-pron
-pp
-verb
-np
-verb
+adj
 pron
 conj
-noun
-pp
-np
-verb
-pp
-conj
-266536	conj
-266538	pron
-verb
-conj
-conj
-np
-pp
-verb
-verb
-adv
-pron
-pron
-verb
-noun
-adv
+adj
 verb
 np
+verb
+np
+np
+verb
+np
+267931	conj
+verb
+np
+np
+verb
+conj
+verb
+pp
+267940	conj
 adv
 pp
 verb
-pron
-np
-np
-np
-verb
-pron
-verb
-pp
-pp
 conj
-np
-verb
-conj
-verb
 pron
-verb
-np
-pron
-verb
-pron
-conj
-noun
-conj
-noun
-adv
-verb
-pron
-adv
-verb
-conj
-verb
-np
-np
-np
-266592	verb
-adv
-verb
-verb
-pron
-pron
-conj
-pp
 verb
 noun
-266603	advp
+pp
+pp
+conj
 np
+verb
+verb
+pp
+pron
+adv
+noun
+adj
 pp
 np
 np
-conj
+np
 pp
-np
-verb
-pron
-np
-conj
-np
-266617	pp
-np
-verb
 pp
-266622	verb
-np
-np
-conj
-pron
-conj
-conj
-pron
-266631	conj
-verb
-conj
+noun
 pp
 verb
-verb
-conj
-266639	noun
-verb
-conj
 np
-advp
+pp
+267971	np
+pp
 verb
-np
+adj
 conj
+pron
+verb
+pron
+noun
+pron
 verb
 pp
 np
-np
+noun
 conj
-pp
-np
-pron
 conj
-pron
+adv
 verb
-conj
-pron
-verb
-pron
-verb
-266664	conj
-conj
+adj
 noun
 verb
+pp
+np
+verb
+np
+np
+267999	np
+np
+pp
+np
+verb
+conj
+verb
+noun
+conj
+268009	noun
+verb
+conj
+verb
+pp
+268015	verb
+268017	np
+np
+pp
+conj
+268022	np
+pp
+np
+np
+np
+pp
+np
+pp
+np
+verb
+268033	conj
+np
+np
+np
+np
+conj
+np
+np
+verb
+np
+np
+verb
+pp
+268047	np
+np
+pp
+268051	conj
+adv
+verb
+conj
+adv
+verb
+verb
+conj
 adv
 verb
 pp
+adv
+verb
+pp
+268066	noun
+pron
+pron
+adv
+verb
+verb
+adj
+conj
+268075	np
+conj
+verb
+np
+conj
+verb
+pp
+verb
+pp
+np
+np
+np
+np
+np
+np
+np
+pp
+268093	pron
+conj
+adj
+pron
+verb
+conj
+conj
+pron
+adv
+verb
+np
+np
+pron
+verb
+conj
+pp
+pron
+verb
+np
+verb
+np
+verb
+noun
+conj
+verb
+adv
+verb
+conj
+verb
+noun
+pron
 adj
 conj
 verb
-266675	np
-np
-np
 pron
+adv
 verb
-266681	conj
+pron
+adv
+conj
+adv
+verb
+verb
+np
+np
+np
+np
+np
+np
+np
+noun
+np
+np
+np
+conj
+np
+pp
+np
+np
+np
+verb
+np
+conj
+np
+pp
+verb
+pp
+adv
+268162	verb
+268165	pron
+verb
+np
+np
+np
 np
 adjp
-pron
-verb
-pron
-conj
-verb
-conj
-np
-verb
-np
-adv
-verb
-266696	np
-conj
 np
 np
-verb
-266702	pp
 np
-adv
-verb
-noun
-np
-conj
-np
-266711	np
-verb
-pp
-266715	np
-conj
-np
-conj
-verb
-noun
-noun
-adv
-verb
-adv
-verb
-adj
-pron
-verb
-pron
-verb
-noun
-conj
-adv
-verb
-noun
-pp
-np
-266739	np
-verb
 np
 pp
 np
+np
 verb
 pron
-conj
-np
-verb
-np
-np
-verb
-conj
 adv
 verb
-np
-np
-np
-266759	conj
-conj
-verb
-pron
-verb
-pron
-adj
-verb
-verb
 pron
 np
 conj
+268187	np
 np
-verb
-adj
 conj
-266776	adv
+np
+268192	conj
+adv
+verb
 pp
 adj
-np
-verb
-conj
-adv
-pp
-np
-adj
-conj
-np
-np
-verb
-verb
-conj
-verb
-np
-verb
-pp
-np
-adv
-verb
-noun
-adv
-verb
-pron
-conj
-verb
-noun
-pron
-adv
-verb
-conj
-266811	verb
-pp
-np
-np
-pp
-np
-verb
-noun
-conj
-verb
-pp
-np
-pp
-np
-verb
-np
-np
-conj
-verb
-adv
-verb
-np
-conj
-verb
-adv
-verb
-conj
-conj
-266840	conj
-noun
-verb
-verb
-np
-pp
-adv
-conj
-pp
-np
-np
-np
-266853	verb
-np
-pron
-verb
-np
-np
-pron
-verb
-verb
-pp
-pron
-verb
-pron
-verb
-adj
-conj
-np
-np
-np
-adv
-verb
-266875	conj
-np
-verb
 noun
 verb
 conj
-266882	verb
-pron
-verb
-conj
-pp
-np
-np
-verb
-pron
-conj
-adv
-verb
-verb
-conj
-adv
-pp
-np
-np
-266901	np
-np
-266904	pp
-pron
 noun
 verb
-pron
-noun
-266911	conj
-conj
-266914	pron
-verb
-conj
-conj
-np
-conj
-pron
-np
 np
 verb
-266926	pp
-conj
-conj
 pp
-np
-np
-np
-266934	np
-noun
-pron
-adj
-verb
-pron
-conj
-np
-np
-np
-pp
-np
-np
-verb
-np
-np
-266951	np
-np
-266954	pp
-np
-np
-noun
 ptcl
-266960	np
-np
-266963	pp
+verb
 np
 np
-266968	verb
+verb
+pron
+pp
+np
+verb
+pron
 pp
 conj
-np
-pp
-266975	pron
-conj
-pp
-266980	np
-conj
-266984	adj
-266986	np
-np
-266989	conj
-266991	np
-np
-266994	verb
-pron
-pp
-np
-np
-pp
-np
-pp
-conj
-verb
-pron
-pp
-pp
-np
-verb
-pron
-267011	conj
-pp
-pp
-verb
-pron
-pp
-pp
-267019	pp
-pp
-np
-np
-np
-np
-pp
-np
-np
-np
-267030	np
-pron
-verb
-pron
-pp
-verb
-pp
-verb
-267039	np
-np
-pp
-np
-np
-np
-np
-np
-pp
-np
-np
-np
-267052	np
-pron
-verb
-pp
-pp
-np
-267059	conj
-verb
-pron
-np
-np
-np
-np
-pp
-np
-267069	np
-pron
-verb
-pp
-pp
-np
-np
-np
-np
-267079	verb
-np
-pp
-np
-267084	np
-pp
-np
 conj
 np
-pp
+np
+np
+np
 np
 pp
+np
+verb
 pp
+adv
 adv
 verb
 verb
-pp
 np
 np
 verb
-pp
-np
-np
-np
-np
-pp
-verb
-267108	pp
-np
-np
-verb
-pp
-np
-pp
-np
-verb
-267118	np
-np
-np
-np
-np
-np
-np
-pp
-adv
-verb
-verb
-267130	np
-np
-np
-np
-np
-pron
-verb
-np
-np
-np
-pp
-np
-np
-pp
-np
-np
-np
-pp
-pron
-verb
-267151	np
-np
-np
-pp
-pp
-np
-267158	conj
-267160	np
-np
-pp
 np
 np
 adv
-verb
-verb
-pp
-noun
-verb
-pp
-np
-np
-conj
-267176	np
-np
-267179	np
-np
-267182	np
-np
-np
-verb
-pron
-np
-267189	conj
-pp
-np
-verb
-np
-np
-np
-np
-pp
-verb
-pron
-267201	pron
-verb
-np
-np
-np
-np
-pron
-np
-np
-np
-np
-np
-np
-np
-pp
-np
-conj
-pron
-np
-np
-np
-verb
-np
-np
-np
-pp
-267228	verb
-pp
-np
-np
-np
-np
-np
-np
-pron
-verb
-pp
-np
-267241	verb
-pron
-pp
-conj
-verb
-pp
-np
-pp
-np
-pp
-267252	np
-conj
-conj
-conj
-conj
-np
-np
-verb
-267261	advp
-pp
-np
-np
-conj
-pp
-pp
-verb
-conj
 adj
 verb
+conj
+pp
+268242	np
+conj
+np
 pp
 np
+np
+verb
+pp
 np
 conj
-pron
+268253	np
+268255	np
 verb
 np
-pp
-267281	np
-pron
 verb
-267285	np
+268260	np
 np
-np
-np
-np
-pp
-verb
 conj
-pron
+np
+np
+pp
+268267	np
+noun
+268270	pron
 verb
 adj
-np
-267298	np
-conj
-np
-pp
-adv
-verb
-pp
-np
-np
-np
-np
-pp
-267311	np
-np
-np
-np
-np
-267317	np
-adv
-verb
-pp
-np
-np
-np
-pp
-np
-np
-verb
-adv
-pp
-np
-np
-np
-np
-verb
-np
-np
-267338	np
-conj
-np
-conj
-verb
-np
-noun
-conj
-np
-np
-267349	np
-conj
-adj
-verb
-pp
-pp
-np
-267357	np
-np
-pron
-verb
-pron
-adv
-verb
 pron
 adj
-np
-verb
-np
+pron
+adj
+pron
+adj
+pron
+adj
+pron
+adj
+conj
+pron
 noun
-vp
 conj
-267373	verb
 conj
-verb
-pp
-np
-pp
-267380	conj
-verb
-pp
-267384	np
-verb
-np
-np
-np
-verb
-np
-np
-np
-pp
-np
-np
-pp
-pp
-267399	np
-conj
-vp
-pp
-267404	pron
-adv
-pp
-np
-np
-267410	adv
-pp
-conj
-adv
+pron
+noun
 pron
 verb
-np
+pron
+268294	conj
 conj
-verb
-verb
+conj
+conj
 pp
-267422	pp
-267424	np
 pron
 verb
-np
 conj
+np
+np
+np
+verb
 pp
 verb
 conj
-267433	verb
+pp
+adv
 conj
 adv
-267438	np
-np
-pp
-verb
-noun
-pp
-verb
-np
-np
-pp
-conj
-verb
-np
-np
-pp
-adjp
-verb
-np
-np
-np
-conj
-adjp
-np
-np
-np
-noun
 adv
 verb
-conj
-adjp
 pp
-np
+verb
+pp
+adv
+verb
+verb
+conj
 adv
 conj
 pp
-267475	adv
+verb
+pron
+conj
+verb
+pp
 verb
 adj
 verb
-adv
-pp
-np
-np
-np
-pron
-conj
-verb
-267488	np
-np
-verb
-np
-adj
-conj
-267495	np
-np
-np
-verb
-np
-pp
-np
-np
-np
-np
-np
-np
-pp
 verb
 conj
-267511	np
 verb
-pp
-pp
-np
-np
 verb
-noun
 conj
 verb
-np
-pp
-np
-np
-pp
-np
-verb
-np
-pp
-conj
-267532	verb
-verb
-noun
-267536	np
-conj
-noun
-np
+268340	pp
 conj
 pp
 verb
-np
-np
-pp
-np
-pp
-np
-conj
-conj
-267552	verb
-267554	conj
 conj
 verb
-267558	np
-np
 conj
-np
-np
 verb
-pp
-np
-np
-np
-267569	conj
+conj
+verb
+conj
 verb
 adj
-267573	np
-267575	pp
-np
 verb
-verb
-pp
-np
-pp
-267583	pp
-np
-verb
-pp
-np
-np
-pp
-pp
-267592	np
-np
-np
-np
-267597	pp
-267599	np
-267601	conj
-verb
-np
-np
-267606	np
-np
-np
-verb
-pron
-pp
 pp
 verb
 pron
-np
-conj
-verb
-pp
-pp
-verb
-verb
-verb
-np
-np
-np
-pp
-267628	np
-np
-np
-pron
-np
-adv
-verb
-np
-np
-np
 conj
 adv
 verb
-np
-267643	np
-np
-conj
-pp
 verb
 np
-267650	conj
-conj
-np
-np
-pp
-267656	pp
-np
-np
-verb
-pp
-np
-np
-267664	np
-np
-np
-verb
-pron
-pp
-np
-np
-np
-np
-267675	np
-adjp
-np
-verb
-np
-np
-267682	np
-verb
-np
-np
-np
-np
-conj
-verb
-pron
-np
-np
-267694	np
-verb
-pp
-np
-pp
-267700	np
 np
 verb
 conj
-verb
-adv
-np
-267708	np
-conj
-np
-pp
-np
-pp
-np
-np
-np
-np
-np
-pp
-267721	np
-np
-pron
-verb
-pp
-267728	np
-267730	np
-np
-pp
-verb
-np
-267736	conj
-pp
-pp
-np
-np
-conj
-verb
-adv
-verb
-pp
-267747	np
-np
-np
-pp
-pron
-verb
-np
-pp
-verb
-np
-np
-pp
-267760	np
-pp
-np
-np
-pp
-conj
-pp
-verb
-conj
-verb
-pron
-pp
-np
-np
-np
 np
 noun
-verb
-pp
-np
-np
-pp
-np
-np
-verb
-np
-pp
-np
-pp
-np
-np
-pp
-267793	conj
 conj
-verb
-267797	verb
 pp
 np
+np
+verb
+pp
 np
 pron
-np
-conj
-conj
-conj
-verb
-conj
-np
-np
-verb
-np
-np
-np
-conj
 verb
 pp
 np
-np
-np
-np
+268379	conj
 conj
-verb
-pp
-np
-verb
 adv
-pron
-267829	conj
-pp
-267832	np
-verb
-pp
-pron
-np
-267838	pp
 np
 conj
 pp
-267843	pp
+pp
+268387	conj
+conj
+pp
+np
+np
+verb
+268394	conj
+verb
+np
+conj
+verb
+268400	np
+verb
+pp
+np
+verb
+conj
+adj
+conj
+verb
+verb
+verb
+pp
+268413	np
+pp
+268416	np
 np
 np
 np
+np
+conj
+np
+verb
+np
+np
+pp
+np
+np
+np
+pp
+np
+pp
+268434	np
+conj
+np
+268438	conj
+np
+pp
 np
 np
 np
 ptcl
 verb
-conj
-pron
-267855	np
 np
 pp
+268449	verb
+pron
+np
+np
+pp
+verb
+pron
+np
+np
 adv
-verb
+conj
 np
-267862	pron
+pp
+np
+np
+np
+np
+268467	np
+268469	pp
+np
+np
+268474	np
+np
+268477	pp
+np
+conj
+268481	np
+np
+np
+np
+pp
+np
+conj
+pp
+268490	pron
+conj
+pp
+268494	np
+verb
+268497	np
+np
+268500	np
+np
+268503	adv
+pp
+verb
+verb
+268508	np
+np
+np
+pp
+268513	conj
+np
+pron
 verb
 pp
 np
-267867	conj
+np
 pp
+268522	np
 verb
 pron
 pp
-verb
-verb
 np
-np
-np
-pp
-np
-np
-np
-267883	np
-conj
-np
-conj
-adv
-verb
-pp
-np
-np
-np
-np
-267895	np
-np
-np
-267899	np
-267901	conj
-np
-np
-pp
-conj
-pp
-conj
-pp
-np
-np
-conj
-verb
-np
-pp
-np
-np
-np
-np
-np
-conj
-verb
-267923	verb
-pp
-verb
-noun
-verb
-noun
-np
-conj
-verb
 pron
 verb
-conj
-conj
-adv
+pp
+np
+np
+268533	np
+268535	np
 verb
 pp
-np
-np
-np
-np
-np
-verb
-verb
-np
-verb
-pp
-np
-np
-conj
-verb
-np
-conj
-pron
-verb
-267958	np
-conj
-np
-conj
-np
-conj
-np
-conj
-267967	conj
-pp
-np
-np
-np
-np
-np
-pp
-np
-pp
-np
-np
-np
-np
-conj
-verb
-np
-267985	pp
-np
-np
-267989	np
-conj
-np
-np
-np
-np
-np
-pp
-np
-pp
-np
-np
-np
-np
-np
-conj
-268006	adv
-verb
-adjp
-268010	conj
-np
-np
-np
-pp
-np
-np
-np
-np
-pp
-np
-pp
-np
-np
-np
-verb
 conj
 pp
-verb
 pp
-268033	np
-pron
-verb
-np
-pp
-np
-np
-268041	conj
-pp
-np
-268045	np
-pp
-np
-np
-pp
-268051	np
-np
-np
-np
-verb
-pp
-np
-np
-pp
-pron
-conj
-verb
-conj
-verb
-pp
-268067	adv
-pron
-verb
-conj
-adv
-np
-verb
-pp
-np
 np
 np
 vp
+conj
+conj
+pp
+pp
+pp
 np
+268551	conj
 verb
 np
 np
 np
 pp
-268086	np
+conj
 verb
 pp
-pp
+268561	np
 np
 np
-np
-np
-268095	pron
-verb
 pron
 verb
-np
-pp
-np
-np
-np
-pp
-268106	pron
-conj
-adv
-adv
-verb
-np
-conj
-pron
-verb
-conj
-pp
-verb
-conj
-verb
-noun
-pp
-np
-268124	verb
-pron
-pp
-np
-np
-268130	np
-np
-verb
-pp
-np
-np
-np
-verb
-conj
-np
-np
-np
-np
-conj
-verb
-268146	np
-np
-pp
-verb
-pp
-np
-268153	conj
-np
-conj
-verb
-np
-verb
-noun
-adj
-pp
-np
-np
-conj
-verb
-np
-verb
-conj
-adv
-verb
-268172	np
-adv
-verb
-pp
-np
-conj
-verb
-noun
-np
-verb
-adv
-verb
-268185	adv
-conj
-verb
-verb
-np
-np
-np
-conj
-verb
-verb
-noun
-verb
-np
+268567	np
 np
 pp
 np
 np
 adv
 verb
-conj
-268206	conj
 pron
-adj
-pp
-np
-np
-conj
-verb
-noun
-verb
-conj
-adv
-verb
-268221	np
 np
 np
 np
 pp
-verb
 pp
 np
-np
-conj
-conj
-conj
-conj
-verb
-pp
 pp
 np
 verb
-conj
-pp
-adjp
-verb
-pron
-conj
-np
-np
-pp
-verb
-pron
-verb
-conj
-np
-np
-conj
-np
-conj
-verb
-pp
-conj
-268261	np
-np
-verb
-pron
-conj
-verb
-pron
-pp
-np
-np
-268272	conj
-np
-pp
-np
-268278	conj
-conj
-np
-conj
 adv
 verb
 pp
+268588	conj
 conj
 verb
-adj
+np
+np
+np
+np
+pp
+np
+268598	conj
+np
+verb
+adv
+np
+pp
+np
+268606	pp
+np
+np
+verb
 conj
-268290	conj
+verb
+np
+np
+np
+pp
+np
+verb
+pp
+np
+np
+np
+np
+pp
+np
+268626	conj
+pp
+verb
+268630	np
+verb
+pron
+pp
+np
+np
+np
+np
+np
+pp
+np
+pron
+verb
+pron
+pp
+np
+np
+np
+conj
+verb
+pp
+np
+np
+np
+np
+np
+np
+pp
+verb
+268660	np
+np
+np
+np
+pron
+verb
+268667	np
+np
+np
+np
+np
+np
+conj
+pp
+verb
+268677	np
+np
+268680	pp
+np
+conj
+pp
+np
+268687	np
+conj
+np
+268691	conj
+conj
+conj
+conj
+np
+268697	pp
+conj
+pp
+verb
+conj
+pron
+verb
+pp
+conj
+np
+pp
+verb
+conj
+pron
+verb
+np
+np
+268715	np
+np
+pron
+verb
+268720	np
+pp
+np
+conj
+verb
+pp
+pron
+verb
+conj
+268730	pp
+verb
+np
+np
+verb
+conj
+pp
+verb
+np
+pp
+verb
+pp
+np
+np
+np
+np
+pp
+268748	conj
+np
+pp
+np
+conj
+np
+pp
+np
 conj
 pron
 adv
 verb
-conj
-adv
-noun
-pron
-conj
-verb
-verb
-268303	np
-conj
-conj
-pron
-verb
-noun
-adv
-verb
-noun
-pp
-np
-np
-np
-268317	conj
-adj
-pron
-verb
-np
-pp
-conj
-verb
-np
-np
-np
-pp
-np
-np
-np
-adv
-conj
-verb
-np
-verb
-conj
-adv
-noun
-adv
-conj
-noun
-pp
-conj
-np
-verb
-np
-conj
-np
-np
-pp
-np
-conj
-conj
-verb
-pron
-verb
-adj
-np
-conj
-268362	adv
-verb
-268365	np
-np
-np
-np
-adv
-conj
-adv
-verb
-conj
-adv
-verb
-pp
-adj
-verb
-adv
-verb
-np
-conj
-verb
-pp
-np
-verb
-np
-conj
-verb
-noun
-verb
-conj
-verb
-268395	verb
-verb
-conj
-verb
-pp
-np
-conj
-verb
-pron
-np
-verb
-conj
-adv
-268409	adv
-verb
-268412	conj
-adj
-conj
-conj
-adj
-verb
-np
-conj
-np
-adj
-verb
-pp
-adv
-verb
-adj
-conj
-verb
-pron
-np
-np
-np
-conj
-268435	verb
-268437	pp
-verb
-noun
-conj
-verb
-pp
-268444	verb
-pron
-268447	conj
-conj
-np
-268451	conj
-np
-np
-np
-verb
-adv
-pp
-pp
-np
-268461	np
-np
-268464	np
-268466	verb
-pron
-pp
-np
-np
-np
-np
-conj
-np
-conj
-noun
-verb
-np
-np
-conj
-268482	np
-np
-np
-np
-pron
-np
-np
-conj
-conj
-np
-verb
-np
-adv
-np
-np
-np
-pp
-np
-verb
-np
-conj
-268504	np
-np
-verb
-np
-conj
-268510	pron
-verb
-pp
-conj
-pron
-verb
-verb
-np
-np
-np
-pp
-conj
-verb
-pron
-pron
-adjp
-np
-268528	verb
-268530	conj
-conj
-np
-np
-conj
-conj
-verb
-268538	conj
-adv
-verb
-np
-np
-verb
-np
-np
-conj
-np
-np
-268550	verb
-np
-np
-pron
-verb
-268556	adj
-conj
-adv
-np
-np
-verb
-conj
-268564	conj
-pron
-conj
-np
-np
-np
-conj
-np
-verb
-np
-np
-268576	pp
-verb
-noun
-268580	np
-conj
-np
-conj
-verb
-pp
-np
-np
-conj
-verb
-np
-pp
-np
-np
-np
-adj
-verb
-pron
-conj
-verb
-268601	pp
-conj
-pp
-np
-conj
-np
-268608	np
-pp
-adj
-np
-np
-adv
-verb
-conj
-pron
-np
-conj
-conj
-verb
-np
-268623	np
-verb
-np
-np
-pp
-pron
-conj
-verb
-adj
-268633	verb
-268635	np
-np
-conj
-np
-pron
-verb
-np
-np
-pp
-conj
-268646	adv
-pron
-verb
-conj
-verb
-adj
-pp
-np
-conj
-np
-268657	verb
-np
-np
-conj
-verb
-pron
-pp
-np
-268666	conj
-np
-268669	verb
-np
-np
-pp
-pp
-268675	conj
-pp
-np
-np
-np
-conj
-np
-268684	pp
-conj
-adj
-conj
-268689	conj
-np
-verb
-np
-np
-np
-pp
-pp
-verb
-conj
-268700	np
-conj
-adv
-noun
-verb
-conj
-adj
-conj
-np
-verb
-pron
-verb
-pp
-conj
-noun
-conj
-adj
-conj
-np
-np
-verb
-pp
-verb
-np
-verb
-conj
-np
-conj
-conj
-np
-verb
-pp
-conj
-noun
-adv
-verb
-pp
-np
-verb
-268740	pp
-conj
-pp
-np
-np
-np
-np
-verb
-np
-np
-np
-pp
-verb
-pron
-verb
-pp
-np
-np
-np
-conj
 268761	verb
-np
-np
-pp
-268766	conj
 conj
-268769	pp
-np
-pp
-np
-pp
-np
-np
-np
 np
 pp
 np
 np
 np
-np
-pp
-np
-pp
-verb
-np
-np
-np
+adv
 conj
 verb
-268793	verb
 pp
 np
 np
 np
+np
+pp
+np
+verb
+pron
+268781	conj
+conj
+pp
+conj
+verb
+np
+268788	verb
 conj
 adj
-verb
-verb
-verb
 conj
-268805	verb
+adv
+verb
+pp
 np
+np
+268798	np
+pron
+verb
+verb
+pp
+np
+268805	np
+pp
+np
+np
+verb
+268811	adv
+verb
+pp
 np
 pp
 conj
@@ -251450,2642 +253085,2729 @@ verb
 np
 np
 np
-conj
-verb
-np
-pp
-np
-np
 np
 np
 pp
-verb
-268825	np
 np
 np
 pp
-verb
-np
-268832	np
-np
-np
-verb
-verb
-conj
-268840	np
-np
-np
-verb
-conj
-np
 np
 np
 pron
 verb
 np
+np
+verb
+pron
+pp
+268837	np
+np
+np
+verb
+pron
+pp
+verb
+268845	np
+np
+np
+268849	np
+verb
 268852	pp
 np
-268855	conj
+conj
+pp
+np
+adv
+conj
 verb
-pp
-np
-pp
-conj
-pp
-verb
-pp
-np
-268866	conj
-268868	pp
 np
 np
-conj
-pp
-conj
 pron
 verb
-noun
-pp
 np
-np
-np
-pp
-verb
-np
-np
-np
-268887	pp
-verb
-pp
-conj
-pp
-verb
-conj
 verb
 pron
+np
+np
+np
+np
+np
+np
+pp
+np
+pron
 verb
-268898	conj
+np
+pp
+np
+np
+np
+pron
+pron
+verb
+268886	verb
+np
 conj
 verb
 np
-268903	np
 pp
-pron
+np
+conj
 verb
+np
 adj
+pp
+pp
+adv
 verb
+verb
+pp
+268904	np
+np
+verb
+pp
+pp
+verb
+conj
 pron
-268912	np
-268914	np
+verb
+np
+verb
+pp
 conj
 np
-np
 pp
+conj
 pron
+adv
 verb
-pp
-pp
 np
-conj
-268926	verb
 np
 pp
 conj
 verb
 np
 np
-268934	np
+verb
+268932	pp
 conj
 pp
+np
+np
+np
+np
+np
 pp
-268940	conj
+np
 268943	np
-pp
-np
-verb
-np
-268949	np
-268951	pp
-268954	conj
-np
-268957	np
-268959	np
-adjp
-pp
-268963	verb
-pp
-pp
-268967	conj
-268969	pron
-conj
-pp
-268974	np
-conj
-268978	verb
-np
-np
-pp
-np
-np
-np
-adv
-pp
-np
-np
-np
-pp
-np
-pp
-np
-verb
-pp
-np
-np
-np
-np
-pp
-np
-269003	pp
-np
-np
-pp
-np
-verb
-np
-np
-verb
-pp
-np
-verb
-pp
-np
-269018	conj
-verb
-adj
-pron
-pron
-verb
-pp
-np
-pp
-verb
-pron
-pp
-np
-pron
-269033	pp
-conj
-np
-np
-conj
-pp
-np
-np
-269042	conj
-np
-np
-np
-np
-np
-verb
-np
-conj
-np
-verb
-np
-pp
-np
-269057	conj
-pron
-verb
-np
-np
-adv
-269064	conj
-verb
-pp
-269068	conj
-np
-pp
-verb
-pron
-verb
-conj
-verb
-269077	conj
-pp
-np
-verb
-269082	np
-np
-pp
-269086	pp
-np
-269089	conj
-verb
-conj
-pron
-verb
-noun
-conj
-np
-pp
-adv
-pp
-np
-np
-verb
-conj
-269105	np
-np
-adj
-pp
-verb
-pp
-269112	np
-np
-conj
-np
-np
-conj
-np
-np
-np
-pp
-verb
-np
-np
-adv
-verb
-adv
-np
-np
-np
-verb
-pron
-conj
-pp
-pp
-269137	conj
-pron
-conj
-pp
-pp
-np
-verb
-det
-conj
-pp
-verb
-conj
-pp
-np
-np
-verb
-det
-conj
-pp
-np
-verb
-adv
-adv
-verb
-noun
-verb
-np
-np
-pron
-conj
-conj
-conj
-np
-269171	conj
-conj
-noun
-verb
-conj
-pp
-verb
-conj
-269180	adv
-verb
-verb
-conj
-conj
-pron
-pron
-verb
-pp
-pp
-269191	np
-np
-conj
-np
-np
-np
-269198	pp
-269200	np
-np
-269203	conj
-269205	pp
-verb
-conj
-pp
-np
-advp
-conj
-adv
-adv
-verb
-noun
-pp
-np
-np
-269220	conj
-pp
-conj
-pp
-pron
-conj
-verb
-noun
-conj
-verb
-noun
-conj
-conj
-verb
-pp
-pron
-pron
-np
-conj
-pron
-verb
-adv
-verb
-269244	verb
-conj
-pp
-np
-np
-verb
-pp
-verb
-conj
-pp
-verb
-adj
-conj
-adv
-adj
-conj
-verb
-np
-adj
-pp
-conj
-pron
-verb
-verb
-conj
-269270	conj
-np
-pp
-269274	np
-np
-conj
-np
-np
-conj
-np
-np
-verb
-pp
-269285	pp
-pp
-np
-np
-np
-np
-pp
-269293	adj
-adv
-np
-np
-np
-verb
-conj
-269301	conj
-269303	verb
-conj
-verb
-pron
-conj
-verb
-verb
-np
-pp
-verb
-pp
-np
-269316	np
-verb
-np
-np
-np
-conj
-adv
-verb
-pp
-pp
-verb
-pron
-verb
-pron
-np
-np
-conj
-conj
-pron
-pp
-conj
-pron
-verb
-269340	np
-pp
-269343	advp
-pp
-verb
-conj
-np
-pp
-verb
-269351	np
-np
-verb
-pron
-verb
-pp
-conj
-adv
-verb
-pp
-269363	conj
-np
-conj
-pp
-conj
-np
-np
-conj
-np
-np
-conj
-np
-269376	conj
-verb
-np
-np
-conj
-269382	np
-verb
-np
-np
-verb
-adj
-np
-verb
-adj
-269392	pp
-conj
-pp
-conj
-np
-pron
-verb
-verb
-pron
-269402	np
-adj
-verb
-conj
-np
 np
-adj
-pron
-verb
-pp
-pron
-adv
-pp
-269416	pron
-pp
-np
-verb
-adv
-noun
-verb
-verb
-adj
-noun
-conj
-pron
-verb
-np
-verb
-pp
-np
-verb
-conj
-noun
-verb
-conj
-noun
-verb
-pron
-verb
-adj
-pp
-269445	np
-conj
-conj
-269449	np
-np
-pron
-verb
-conj
-verb
-pron
-269457	np
-np
-pp
-np
-conj
-269463	pp
-np
-np
-np
-np
-verb
-conj
-conj
-conj
-np
-verb
-conj
-noun
-269477	pp
-np
-269480	conj
-np
-conj
-adv
-verb
-269486	conj
-pp
-np
-np
-adj
-conj
-adv
-advp
-pp
-np
-np
-pp
-269499	conj
-np
-np
-verb
-noun
-conj
-verb
-verb
-pp
-269509	conj
-verb
-conj
-verb
-pp
-np
-adj
-verb
-pp
-269519	conj
-conj
-verb
-269523	conj
-np
-np
-np
-269528	np
-conj
-verb
-pp
-verb
-conj
-noun
-pp
-np
-verb
-pp
-np
-pp
-np
-269543	pp
-verb
-conj
-pp
-verb
-conj
-269550	conj
-adv
-verb
-pp
-np
-np
-269557	conj
-np
-np
-verb
-conj
-verb
-np
-np
-conj
-np
-verb
-conj
-verb
-pron
-verb
-conj
-pp
-269575	noun
-adv
-verb
-pron
-conj
-pron
-verb
-verb
-np
-pp
-269586	np
-conj
-verb
-pron
-adv
-np
-pp
-verb
-269595	np
-conj
-np
-verb
-adv
-np
-269602	np
-conj
-np
-verb
-269607	conj
-noun
-noun
-pp
-verb
-pp
-np
-pron
-conj
-conj
-verb
-verb
-conj
-verb
-np
-pp
-adv
-verb
-conj
-pp
-conj
-np
-adv
-verb
-adj
-conj
-verb
-269636	np
-np
-conj
-conj
-np
-conj
-conj
-np
-np
-np
-verb
-pp
-conj
-269650	vp
-np
-conj
-269654	verb
-conj
-verb
-conj
-verb
-adv
-conj
-verb
-adjp
-conj
 np
-verb
-269668	np
-conj
-conj
-np
-conj
-adv
-noun
-pp
-verb
-adv
-conj
-verb
-pron
-conj
-269683	verb
-pron
-adv
-verb
-pron
-adj
-verb
-269691	verb
-conj
-pron
-pp
-pp
-np
-conj
-np
-adj
-verb
-conj
-pp
-np
-np
-pp
-verb
-verb
-np
-conj
-verb
-np
-np
-np
-np
-np
-pp
-np
-np
-verb
-pp
-np
-verb
-pron
-269725	pron
-conj
-adv
-adj
-pron
-conj
-adj
-269733	verb
-np
-verb
-np
-np
-verb
-np
-269741	conj
-verb
-np
-np
-verb
-conj
-verb
-pp
-269750	conj
-adv
-pp
-verb
-conj
-pron
-verb
-noun
-pp
-pp
-269761	conj
-np
-verb
-verb
-pp
-pron
-adv
-269769	noun
-adj
-pp
-np
-np
-np
-pp
-pp
-noun
-pp
-verb
-np
 pp
-269783	np
-pp
-verb
-adj
-conj
-pron
-verb
-pron
-noun
-pron
-verb
-pp
-np
-noun
-conj
-conj
-269800	adv
-verb
-adj
-noun
-verb
-pp
-np
-verb
-np
-np
-269813	np
-np
-pp
-np
-verb
-conj
-verb
-noun
-conj
-269823	noun
-verb
-conj
-verb
-pp
-269829	verb
-269831	np
-np
-pp
-conj
-269836	np
-pp
-np
-np
-np
-pp
-np
-pp
-np
 verb
-269847	conj
 np
 np
 np
 np
-conj
-np
-np
-verb
-np
-np
-verb
-pp
-269861	np
-np
-pp
-269865	conj
-adv
-verb
-conj
-adv
-verb
-verb
-conj
-adv
-verb
-pp
-adv
-verb
-pp
-269880	noun
-pron
-pron
-adv
-verb
-verb
-269887	adj
-conj
-269890	np
-conj
-verb
-np
-conj
-verb
-pp
-verb
-pp
-np
-np
-np
-np
-np
-np
-np
-pp
-269908	pron
-conj
+268953	conj
 adj
 pron
 verb
 conj
-269915	conj
-pron
-adv
-verb
-np
-np
-pron
-verb
-conj
-pp
-pron
-verb
-np
-verb
-np
-verb
-noun
-conj
-verb
-adv
-verb
-conj
-verb
-noun
-pron
-269941	adj
-conj
-verb
-pron
-adv
-verb
-pron
-adv
-conj
-adv
-verb
-verb
-np
-np
-np
-np
-np
-np
-np
-noun
-np
-np
-np
-conj
-np
-pp
-np
-np
-np
-verb
-np
-conj
-np
-pp
-verb
-pp
-adv
-269980	verb
-269983	pron
-verb
-np
-np
-np
-np
-adjp
-np
-np
-np
-np
-pp
-np
-np
-verb
-pron
-adv
-verb
-pron
-np
-conj
-270005	np
-np
-conj
-np
-270010	conj
-adv
-verb
-pp
-adj
-270016	noun
-verb
-conj
-noun
-verb
-np
-verb
-pp
-ptcl
-verb
-np
-np
-verb
-270030	pron
-pp
-np
-verb
-pron
-pp
-conj
-conj
-np
-np
-270041	np
-np
-np
-pp
-np
-verb
-pp
-adv
-adv
-verb
-verb
-np
-np
-verb
-np
-np
-adv
-adj
-verb
-conj
-pp
-270063	np
-conj
-np
-pp
-np
-np
-verb
-pp
-np
-conj
-270074	np
-270076	np
-verb
-np
-verb
-270081	np
-np
-conj
-np
-np
-pp
-270088	np
-noun
-270091	pron
-verb
 adj
 pron
-adj
-pron
-adj
-pron
-adj
-pron
-adj
-pron
-adj
-conj
-pron
-noun
-conj
-conj
-pron
-noun
-pron
-verb
-pron
-270115	conj
-conj
-conj
-conj
-pp
-pron
-verb
-conj
-np
-np
-np
 verb
 pp
-verb
 conj
-pp
-adv
 conj
-adv
-adv
-verb
-pp
-verb
-pp
-adv
-verb
-verb
-conj
-adv
-conj
-pp
-verb
-pron
-conj
-verb
-pp
-verb
-adj
-verb
-verb
-conj
-verb
-verb
-conj
-verb
-270161	pp
-conj
-pp
-verb
-270166	conj
-verb
-conj
-verb
-conj
-verb
-conj
-verb
-adj
-verb
-pp
-verb
-pron
-conj
-adv
-verb
-verb
 np
 np
 verb
 conj
 np
-noun
-conj
-270191	pp
-np
-np
+pp
 verb
+268972	verb
+conj
+verb
+268976	np
+np
+conj
+np
+np
+np
+np
 pp
 np
+conj
+conj
+verb
+268989	np
+np
+pp
+verb
+268995	conj
+pp
+conj
+verb
+np
+conj
+verb
+verb
+pp
+verb
+conj
+pron
 pron
 verb
-pp
-np
-270202	conj
-conj
-adv
-np
-conj
-pp
-pp
-270210	conj
-conj
-pp
-np
-np
-verb
-270217	conj
-verb
-np
-conj
-verb
-270223	np
 verb
 pp
 np
-verb
-conj
-adj
-conj
-verb
-verb
-verb
-pp
-270236	np
-pp
-270239	np
+269013	conj
 np
+269016	pp
+np
+np
+np
+pp
 np
 np
 np
 conj
-np
-verb
-np
-np
 pp
-np
-np
-np
 pp
-np
-pp
-270257	np
 conj
-np
-270261	conj
-np
-pp
-np
-np
-np
-ptcl
+269029	pp
 verb
 np
-pp
-270272	verb
-pron
 np
-np
-pp
-verb
-pron
 np
 np
 adv
 conj
-np
+vp
 pp
-np
-np
-np
-np
-270290	np
-270292	pp
-np
-np
-270297	np
-np
-270300	pp
-np
-conj
-270304	np
-np
-np
-np
-pp
-np
-conj
-pp
-270313	pron
-conj
-pp
-270317	np
+pron
 verb
-270320	np
 np
-270323	np
 np
-270326	adv
+np
+269045	conj
 pp
+adv
 verb
-verb
-270331	np
+np
+269051	pp
 np
 np
-pp
-270336	conj
 np
-270339	pron
-verb
-pp
 np
 np
 pp
-270347	np
+np
+np
+np
 verb
 pron
 pp
 np
+pp
+adv
+verb
+pp
+np
+np
+np
+np
+269074	np
+verb
+pron
+pp
+conj
+pron
+adj
+verb
+269083	np
+conj
+np
+np
+np
+np
+verb
+pron
+pp
+verb
+pron
+np
+np
+verb
+np
+np
+pp
+np
+np
+pron
+verb
+np
+conj
 pron
 verb
 pp
 np
+verb
+pron
 np
-270358	np
-270360	np
+verb
+269115	np
+conj
+np
+verb
+pp
+verb
+pron
+pp
+adv
+conj
+pron
+pron
+verb
+269129	pp
+conj
+pp
+conj
+pp
+np
+conj
+conj
+pron
+verb
+np
+verb
+np
+conj
+np
+adj
+pron
+verb
+verb
+pp
+269150	conj
+np
+np
+pron
+verb
+verb
+269157	adv
+verb
+pp
+np
+np
+np
+np
+conj
+adv
+verb
+np
+pp
+np
+np
+pp
+np
+269174	conj
+269176	conj
+verb
+np
+np
+np
+conj
+verb
+pp
+pp
+np
+np
+np
+pron
+conj
+verb
+pp
+verb
+adv
+269195	conj
+conj
+pron
+verb
+np
+pp
+np
+np
+pp
+np
+np
+269207	conj
+np
+pron
+verb
+np
 verb
 pp
 conj
-270365	pp
+conj
+np
+adv
 pp
 np
+pp
+np
+np
+conj
+conj
+verb
+np
+np
+verb
+adv
 np
 vp
+pp
+np
+np
+np
+verb
+adv
+np
+pp
+np
+verb
 conj
 conj
+np
+np
+verb
 pp
+np
 pp
+np
+conj
+269253	np
+verb
+np
+np
+adv
+np
 pp
-270376	np
-270378	conj
+verb
+pp
+verb
+conj
+269266	np
+np
+pp
+np
+np
+conj
+np
+pron
+verb
+noun
+pp
 verb
 np
 np
 np
 pp
+pron
+np
+verb
+adv
+verb
+pp
+adv
+conj
+verb
+np
+269293	np
+269295	pp
+np
+np
+adv
+verb
+pp
+269302	verb
+np
+np
+pp
+np
+np
+conj
+verb
+269311	np
+verb
+pp
+pp
+np
+verb
+pron
+conj
+269320	adv
+verb
+269324	conj
+269326	conj
+269329	conj
+269331	adj
+conj
+pp
+noun
+verb
+conj
+pp
+conj
+np
+np
+np
+conj
+verb
+269345	np
+269347	verb
+pron
+conj
+verb
+pron
+conj
+pron
+pp
+verb
+noun
+conj
+np
+np
+verb
+pron
+adv
+np
+pp
+np
+conj
+np
+pron
+verb
+np
+np
+conj
+np
+np
+np
+verb
+pp
+np
+np
+pp
+adv
+verb
+pp
+np
+conj
+adj
+verb
+np
+np
+np
+verb
+pp
+adv
+pp
+np
+269397	conj
+pron
+269400	np
+pp
+np
+verb
+pp
+np
+np
+np
+conj
+np
+pron
+verb
+269413	pp
+conj
+pp
+adj
+pp
+np
+269420	verb
+269422	np
+pp
+np
+verb
+np
 conj
 verb
 pp
-270389	np
+np
+verb
+np
+conj
+adv
+verb
+pp
+np
+verb
+np
+pp
+pron
+conj
+adj
+verb
+pp
+np
+adv
+verb
+np
+np
+conj
+adv
+verb
+np
+verb
+pp
+np
+np
+pp
+269461	pp
+conj
+adj
+conj
+pp
+np
+verb
+np
+pron
+verb
+pp
+verb
+pp
+conj
+269476	np
+conj
+np
+verb
+conj
+pp
+verb
+np
+np
+np
+269487	np
+verb
+conj
+verb
+verb
+pron
+verb
+conj
+adv
+verb
+noun
+np
+269500	np
+conj
+np
+np
+verb
+verb
+conj
+np
+verb
+noun
+pp
+np
+verb
+verb
+pp
+pp
+verb
+adv
+pp
+pp
+conj
+np
+verb
+pron
+np
+np
+verb
+np
+np
+np
+pp
+adv
+verb
+conj
+verb
+pron
+conj
+verb
+pron
+verb
+pp
+verb
+pp
+np
+np
+verb
+np
+np
+adv
+pp
+noun
+verb
+verb
+adv
+verb
+pron
+np
+verb
+np
+np
+pp
+verb
+pron
+269564	np
+np
+np
+conj
+np
+conj
+pp
+pron
+verb
+pp
+pp
+np
+conj
+269578	verb
+np
+pp
+conj
+verb
+np
+np
+pp
+269587	np
+np
+conj
+pron
+verb
+pp
+np
+pron
+verb
+np
+verb
+pron
+269601	np
+np
+conj
+269605	np
+np
+pp
+verb
+noun
+conj
+verb
+pp
+verb
+pron
+conj
+269617	verb
+noun
+verb
+pp
+pron
+np
+pp
+np
 np
 np
 pron
 verb
-270395	np
+pron
+noun
+verb
+pron
+269635	np
+pp
+np
+269639	adv
+verb
+pp
+pp
+np
+269645	verb
+adj
+conj
+verb
+pp
+np
+np
+np
+verb
+conj
+pron
+conj
+verb
 np
 pp
+conj
+np
+pp
+conj
+np
+pp
+verb
+pron
+269670	np
+np
+np
+conj
+verb
+269676	np
+np
+pp
+conj
+conj
+np
+np
+pp
+np
+conj
+conj
+verb
+pp
+np
+verb
+conj
+pp
+pp
+np
+np
+verb
+conj
+np
+pp
+conj
+np
+verb
+conj
+verb
+noun
+verb
+np
+pron
+verb
+pp
+conj
+pron
+verb
+np
+np
+np
+np
+verb
+np
+np
+np
+pp
+269724	conj
+conj
+np
+np
+np
+pp
+269732	conj
+269736	pron
+conj
+verb
+np
+adv
+pp
+np
+noun
+verb
+pp
+np
+np
+adv
+verb
+np
+269752	np
+np
+np
+conj
+np
+np
+np
+conj
+np
+np
+np
+np
+269765	np
+np
+269768	pp
+np
+np
+269772	conj
+verb
+np
+verb
+pp
+np
+np
+np
+conj
+np
+np
+269784	verb
+pp
+pp
+pp
+conj
+pp
+pp
+conj
+pp
+269794	np
+conj
+np
+conj
+verb
+pron
+verb
+pp
+pp
+conj
+pron
+np
+269807	verb
+conj
+np
+verb
+np
+pp
+np
+pp
+np
+np
+conj
+verb
+pron
+noun
+np
+np
+verb
+269825	pp
+np
+conj
+pp
+np
+pp
+conj
+verb
+np
+np
+np
+adv
+adj
+pp
+269840	np
+conj
+conj
+pp
+np
+269846	np
+np
+np
+pp
+np
+verb
+conj
+adv
+noun
+verb
+pron
+verb
+pron
+pron
+conj
+pp
+verb
+269864	np
+verb
+pp
+conj
+conj
+verb
+pp
+np
+pp
+np
+269875	verb
+np
+verb
+conj
+conj
+verb
+269882	np
+np
+pp
+np
+pron
+verb
+pp
+np
+269891	verb
+pron
+pp
+269895	np
+verb
+pron
+conj
+verb
+noun
+269902	np
+np
+np
+pp
+conj
+269908	adj
+verb
+conj
+269912	conj
+conj
+verb
+pp
+verb
+pp
+np
+np
+verb
+pp
+np
+np
+np
+pp
+np
+np
+conj
+np
+adv
+269932	pp
+conj
+pp
+conj
+pp
+conj
+conj
+verb
+pp
+np
+verb
+np
+adv
+verb
+269947	conj
+verb
+conj
+269951	verb
+np
+np
+269955	conj
+conj
+269958	adv
+pp
+np
+verb
+conj
+verb
+conj
+pp
+np
+noun
+noun
+conj
+verb
+pp
+noun
+269974	conj
+pp
+conj
+pp
+verb
+pp
+verb
+conj
+np
+conj
+verb
+adj
+pp
+np
+conj
+conj
+noun
+verb
 np
 np
 adv
 verb
 pron
+verb
+verb
+pron
+270001	np
 np
 np
 np
+conj
+np
+np
+np
+conj
+adj
+pron
+verb
+verb
+conj
+noun
+270017	np
+np
+conj
+np
+270022	conj
+verb
 pp
+adv
+verb
+np
+verb
 pp
+np
+np
+np
+270034	noun
+conj
+np
+advp
+conj
+conj
+270041	verb
+verb
+conj
+verb
+conj
+np
+np
+conj
+noun
+np
+270052	pron
+conj
+conj
+pp
+verb
+pron
+adv
+270060	np
+verb
+pron
+pp
+np
+np
+270067	conj
+conj
+pp
+np
+verb
+np
+adv
+conj
+verb
+np
+np
 np
 pp
 np
 verb
+270083	np
+conj
+conj
+adv
+verb
+np
+pron
 adv
 verb
 pp
-270416	conj
+270094	verb
+pron
+conj
+np
+verb
+noun
+270101	np
+np
+np
+verb
+pp
+np
+pp
+270109	conj
+np
+verb
+np
+conj
+pp
+np
+np
+conj
+np
+pp
+270121	np
+270123	conj
+270125	np
+verb
+conj
+np
+conj
+pron
+verb
+conj
+noun
+adv
+verb
+conj
+np
+adj
+verb
+pron
+np
+verb
+conj
+verb
+pp
+verb
+np
+np
+adv
+verb
+conj
+pp
+np
+pp
+pron
+conj
+noun
+verb
+pp
+pp
+np
+adv
+np
+adv
+verb
+np
+np
+verb
+pp
+np
+conj
+verb
+verb
+pp
+270177	conj
+conj
+conj
+verb
+pron
+np
+pron
+conj
+np
+conj
+conj
+np
+conj
+np
+pp
+270193	np
+np
+pp
+np
+np
+pron
+conj
+verb
+270202	np
+np
+conj
+np
+conj
+adv
+verb
+verb
+verb
+pp
+adj
+conj
+verb
+270217	np
+np
+conj
+np
+np
+np
+pp
+np
+np
+np
+pp
+270230	pron
+conj
+pp
+np
+np
+adj
+verb
+pp
+np
+np
+pron
+conj
+verb
+conj
+pp
+verb
+conj
+conj
+pp
+verb
+verb
+pron
+conj
+verb
+verb
+conj
+verb
+conj
+verb
+pp
+pron
+adv
+verb
+verb
+pp
+verb
+np
+np
+conj
+verb
+pron
+verb
+conj
+pp
+verb
+np
+np
+adv
+conj
+verb
+noun
+pp
+pp
+conj
+verb
+pron
+270287	np
+conj
+np
+np
+conj
+conj
+verb
+np
+np
+adv
+verb
+pron
+verb
+conj
+np
+pron
+pp
+verb
+noun
+pp
+pp
+np
+np
+np
+270312	conj
+pp
+np
+np
+conj
+adv
+verb
+conj
+pron
+verb
+pp
+np
+conj
+verb
+np
+verb
+pp
+pp
+np
+np
+pron
+verb
+pp
+pp
+np
+np
+270339	conj
+adv
+verb
+pp
+verb
+np
+np
 conj
 verb
 np
 np
 np
 np
+270353	np
+conj
+np
+np
+270358	conj
+conj
+270361	np
+np
+verb
+np
+np
+pp
+pron
+conj
+np
+270371	conj
+np
+np
+pp
+conj
+pp
+conj
+np
+pp
+pp
+verb
+np
+np
+adj
+pp
 pp
 np
-270426	conj
 np
+270390	conj
+pp
+np
+np
+np
+270396	np
+np
+pp
+np
+np
+np
+adj
+conj
+noun
+270406	pron
+conj
+pp
+270410	conj
+conj
+verb
+pp
+adv
+verb
+pron
+verb
+conj
+verb
+noun
+conj
+adv
+verb
+conj
 verb
 adv
-np
-pp
-np
-270435	pp
-np
+verb
+conj
 np
 verb
+pron
+pp
+270434	np
+pron
 conj
 verb
 np
 np
 np
+np
+verb
+pron
 pp
 np
 verb
-pp
 np
 np
 np
-np
-pp
-np
-270455	conj
-pp
 verb
+pp
+270453	conj
+adv
+pp
+np
+conj
+np
 270460	np
-verb
-pron
-pp
-np
-np
-np
-np
-np
-pp
-np
-pron
-verb
-pron
-pp
-np
-np
-np
-conj
-verb
-pp
-np
-np
-270485	np
-np
-np
-np
-pp
-verb
-270492	np
-np
-np
-np
-pron
-verb
-270499	np
-np
-np
-np
-np
-np
-conj
-pp
-verb
-270509	np
-np
-270512	pp
-np
-conj
-pp
-np
-270519	np
-conj
-np
-270523	conj
-conj
-conj
-conj
-np
-270529	pp
-conj
-pp
-verb
-conj
-pron
-verb
-pp
-conj
-np
-pp
-verb
-conj
-pron
-verb
-np
-np
-270547	np
-np
-pron
-verb
-270552	np
-pp
-np
-conj
-verb
-pp
-pron
-verb
-conj
-270562	pp
-verb
-np
-np
-verb
-conj
-270569	pp
-verb
-np
-pp
-verb
-pp
-np
-np
-np
-np
-pp
-270581	conj
-np
-pp
-np
-conj
-np
-pp
-np
-conj
-pron
 adv
 verb
-270594	verb
-conj
-np
-pp
-np
-np
 np
 adv
-conj
-verb
+270466	conj
 pp
 np
 np
 np
-np
-pp
-np
-verb
-pron
-270614	conj
-conj
-pp
-conj
-verb
-np
-270621	verb
 conj
 adj
-conj
-adv
-verb
-pp
-np
-np
-270632	np
-270634	pron
-verb
-verb
-pp
-np
-270640	np
-pp
-np
-np
-verb
-270646	adv
-verb
-pp
-np
-pp
-conj
-verb
-np
-np
-np
-np
-np
-pp
-np
-np
-pp
-270663	np
-np
-pron
-verb
-270668	np
-np
-verb
-pron
-pp
-270674	np
-np
-np
-verb
-pron
-pp
-verb
-270682	np
-np
-np
-270686	np
-verb
-270689	pp
-np
-conj
-pp
-np
-adv
-conj
-verb
-270698	np
-np
-pron
-verb
-np
-verb
-pron
-np
-np
-np
-np
-np
-np
-pp
-np
-pron
-verb
-np
-pp
-np
-np
-np
-pron
-pron
-verb
-270724	verb
-np
-conj
-verb
-np
+noun
 pp
 np
 conj
+270478	conj
 verb
-np
-adj
-pp
-pp
-adv
-verb
-verb
-pp
-270742	np
-np
-verb
-pp
-pp
-verb
-conj
 pron
-verb
-np
-verb
-pp
 conj
-np
-pp
-conj
+verb
+270484	conj
+verb
 pron
+np
+pp
+conj
+pp
+conj
+verb
+270494	verb
+conj
+270497	np
 adv
 verb
 np
 np
+np
+np
+pp
 pp
 conj
+np
+adv
+noun
 verb
-np
-np
 verb
-270770	pp
-conj
-pp
-np
-np
-np
-np
-np
-pp
-np
-270781	np
-np
-np
-270785	pp
-verb
-np
-np
-np
-np
-270792	conj
-adj
 pron
-verb
+np
 conj
 adj
+verb
+pp
+verb
 pron
-verb
-pp
-270802	conj
-conj
-np
-np
-verb
-conj
-np
-pp
-verb
-270812	verb
-conj
-verb
-270816	np
-np
-conj
-np
-np
-np
-np
-pp
-np
-270826	conj
-conj
-verb
-270830	np
-np
-pp
-verb
-270836	conj
-pp
-conj
-verb
-np
-conj
-verb
-verb
-pp
-270847	verb
-conj
-pron
-pron
-verb
-verb
-pp
-np
-270856	conj
-np
-270859	pp
-np
-np
-np
-pp
-np
-np
-np
-conj
-pp
-pp
-conj
-270872	pp
-verb
-np
-np
-np
-np
 adv
 conj
-vp
-pp
-270884	pron
-verb
-np
-np
-np
-270890	conj
-pp
-adv
-verb
-np
-270896	pp
-np
-np
-np
-np
-np
-pp
-np
-np
-np
 verb
 pron
 pp
-270910	np
+np
+np
+np
 pp
-adv
+np
+np
 verb
-pp
-np
-np
-np
-np
-270920	np
-verb
-pron
-pp
 conj
-pron
-adj
+270534	pron
+noun
 verb
-270929	np
-conj
-np
-np
-np
-np
-verb
-pron
-pp
-verb
-pron
-np
-np
-verb
-270944	np
-np
-pp
-np
-np
-pron
-verb
-np
-conj
-pron
-verb
-pp
-np
-verb
-pron
-np
-verb
-270962	np
-conj
-np
-verb
-pp
-verb
-pron
-pp
 adv
 conj
-pron
-pron
 verb
-270976	pp
-conj
-pp
-conj
-pp
-np
-270983	conj
-conj
-pron
 verb
-np
+conj
 verb
 np
 conj
-np
-adj
-pron
-verb
-270996	verb
-pp
-270999	conj
-np
-np
-pron
-verb
-verb
-271006	adv
-verb
-pp
-np
-np
-np
-np
-conj
-adv
-verb
-271017	np
-pp
-np
-np
-pp
-np
-271024	conj
-271026	conj
 verb
 np
 np
-np
-271033	conj
-verb
-pp
-pp
-np
-np
-np
-pron
-conj
-verb
-pp
-verb
-adv
-271047	conj
 conj
 pron
 verb
-np
-pp
-np
-np
-pp
-np
-np
-271059	conj
-np
-pron
-verb
-np
-verb
-pp
 conj
-conj
-np
+270553	verb
 adv
 pp
 np
-pp
-np
-np
 conj
-conj
-verb
-np
 np
 verb
 adv
-np
-vp
-pp
-np
-np
-np
-verb
-adv
-np
-pp
-np
 verb
 conj
-conj
-np
-np
-verb
-pp
-np
-pp
-np
-conj
-271105	np
-verb
-np
-np
-adv
-np
-pp
-verb
-pp
-verb
-conj
-271118	np
-np
-pp
-np
-271123	np
-conj
-np
-271127	pron
+pron
 verb
 noun
 pp
 verb
+conj
+adv
+verb
+conj
+np
+270574	np
+adv
+verb
+noun
+conj
+conj
+verb
+conj
+noun
+270584	conj
+adv
+adv
+np
+verb
+pp
+np
+verb
+pp
+pron
+conj
+pron
+verb
+pp
+np
+270601	verb
+verb
+pp
+np
+np
+np
+advp
+verb
+verb
+conj
+270612	np
+np
+270615	pp
+pp
+np
+conj
+pp
+np
+verb
+pp
+conj
+np
+np
+pp
+verb
+adj
+adv
+270632	verb
+verb
+adv
+pp
+verb
+pp
+pp
 np
 np
 np
 pp
+conj
+adv
+adv
+pp
+verb
+conj
+verb
+pron
+pp
+np
+np
+pp
+conj
+270657	np
+conj
+np
+noun
+adv
+noun
+verb
+pron
+verb
+pron
+conj
+adv
+verb
+conj
+np
+conj
+noun
+pp
+adv
+verb
+conj
+verb
+270680	conj
+adv
+np
+pron
+verb
+conj
+np
+pp
+verb
+conj
+advp
+verb
+pron
+conj
+noun
+adv
+verb
+pp
+conj
+np
+pron
+conj
+noun
+verb
+np
+conj
+270707	np
+verb
+conj
+np
+adv
+verb
+270714	conj
+conj
+conj
+270718	verb
+conj
+np
+conj
+270723	verb
+conj
+verb
+conj
+verb
+noun
+verb
+conj
+verb
+noun
+verb
+pron
+conj
+noun
+verb
+verb
+verb
+270741	np
+270743	conj
+conj
+np
+np
+conj
+verb
+pron
+np
+pp
+conj
+pp
+np
+pp
+270758	np
+np
+270761	verb
+pp
+conj
+conj
+verb
+conj
+verb
+adv
+pp
+verb
+conj
+verb
+pron
+conj
+verb
+adj
+np
+conj
+adv
+verb
+verb
+conj
+270784	pron
+noun
+verb
+verb
+pp
+conj
+verb
+pron
+pp
+conj
+verb
+pron
+conj
+verb
+pron
+adv
+pp
+pp
+np
+np
+verb
+pp
+verb
+conj
+pron
+noun
+verb
+np
+verb
+np
+verb
+np
+verb
+pp
+verb
+270820	conj
+pron
+adj
+pp
+pron
+verb
+conj
+adv
+np
+verb
+270831	pp
+conj
+pp
+adv
+verb
+adv
+verb
+pp
+verb
+pron
+conj
+np
+pp
+270845	pp
+np
+adv
+verb
+noun
+adv
+verb
+adj
+conj
+verb
+np
+verb
+pp
+np
+np
+verb
+np
+conj
+np
+np
+np
+verb
+pron
+adj
+conj
+np
+np
+270873	np
+conj
+np
+conj
+np
+adv
+pp
+np
+np
+270883	np
+np
+270886	verb
+adj
+verb
+pron
+pron
+adv
+verb
+noun
+verb
+pp
+verb
+np
+np
+pp
+np
+verb
 pron
 np
 verb
-adv
-verb
+np
+np
+np
+np
+np
+270911	np
+np
+270914	pp
+270916	conj
+conj
+np
+np
+np
 pp
+270924	np
+conj
+270929	pron
+conj
+pp
+270934	conj
+270937	verb
+verb
+np
 adv
+pp
+noun
+conj
+adj
+verb
 conj
 verb
 np
-271147	np
-271149	pp
-np
-np
-adv
-verb
-pp
-271156	verb
-np
-np
-pp
-np
 np
 conj
 verb
-271165	np
+np
+np
+np
+np
+np
+np
+pp
+conj
+np
+pp
 verb
 pp
+np
+np
+np
+pp
+270969	np
+np
+conj
+np
 pp
 np
+270976	np
+np
+conj
+np
+pron
+verb
+np
+np
+np
+np
+np
+pp
 verb
 pron
+np
+np
+np
+pp
+adv
+verb
 conj
-271174	adv
+adj
+pp
+verb
+verb
+pron
+noun
+conj
+271005	verb
+noun
+pp
+pp
+np
+np
+np
+np
+np
+271015	np
+pp
+pp
+np
+np
+pp
+np
+verb
+noun
+271025	adv
+verb
+noun
+conj
+adv
+verb
+np
+np
+271034	np
+np
+pron
+271038	verb
+np
+271041	pp
+np
+np
+conj
+pp
+np
+np
+np
+np
+conj
+verb
+271053	verb
+pp
+np
+np
+conj
+verb
+pp
+np
+verb
+conj
+verb
+np
+np
+pp
+pp
+np
+np
+pp
+adv
+verb
+adv
+pp
+conj
+pron
+verb
+np
+np
+np
+conj
+verb
+np
+271085	np
+conj
+np
+pp
+conj
+271091	verb
+np
+np
+271095	np
+np
+pp
+conj
+pron
+pp
+pp
+np
+np
+np
+271106	np
+conj
+271110	verb
+conj
+pron
+noun
+pp
+271116	np
+np
+271119	np
+np
+271122	conj
+np
+np
+pp
+pp
+271128	adv
+adv
+verb
+pron
+pp
+np
+conj
+271136	conj
+pp
+conj
+pp
+conj
+pp
+np
+pp
+pp
+conj
+conj
+verb
+np
+np
+np
+adv
+pron
+pron
+verb
+pp
+np
+conj
+conj
+verb
+np
+adj
+conj
+verb
+271166	np
+np
+np
+np
+np
+np
+271173	conj
+pp
+np
 verb
 271178	conj
-271180	conj
-271183	conj
-271185	adj
-conj
-pp
-noun
-verb
-conj
-pp
-conj
-np
-np
-np
-conj
-verb
-271199	np
-271201	verb
-pron
-conj
-verb
-pron
 conj
 pron
 pp
+np
+np
+np
+verb
+verb
+pron
+conj
 verb
 noun
-conj
-np
-np
-verb
-pron
 adv
-np
-pp
-np
-conj
-np
-271223	pron
 verb
-np
-np
 conj
-np
-np
-np
-verb
-pp
-np
-np
-pp
 adv
 verb
 pp
+pron
+verb
+pron
+conj
+adv
+verb
+verb
+pp
+verb
+pron
+pp
+np
+np
 np
 conj
+np
+adv
+verb
+np
 adj
 verb
-np
-np
-np
-verb
-pp
 adv
-pp
-np
-271252	conj
-pron
-271255	np
-pp
-np
-verb
-pp
-np
-np
-np
-conj
-np
-271266	pron
-verb
-271269	pp
 conj
 pp
-adj
-pp
-np
-271276	verb
-271278	np
-pp
-np
 verb
-np
-conj
-verb
-pp
-np
-verb
-np
 conj
 adv
-verb
-pp
-271294	np
-verb
-np
-pp
-pron
-conj
-adj
-verb
-pp
-np
-adv
-verb
-np
-np
-conj
-adv
-verb
-np
-verb
-pp
-np
-np
-pp
-271318	pp
-conj
-adj
-conj
-pp
-np
 verb
 np
 pron
+271228	np
+verb
+np
+np
+np
+np
+conj
+verb
+np
+np
+np
+np
+np
+verb
+np
+pp
+np
+np
+271247	pp
+np
+conj
+conj
+np
+conj
+pp
+np
+np
 verb
 pp
+pron
+np
+np
+np
+adv
 verb
 pp
-conj
-271333	np
-conj
-np
-verb
-conj
-pp
-verb
-np
-np
-np
-271344	np
-verb
-conj
-verb
 verb
 pron
-verb
 conj
-adv
-verb
-noun
-np
-271357	np
-conj
-np
-np
-verb
-verb
-conj
-np
-verb
-noun
 pp
-np
-verb
-verb
-pp
-pp
-271374	verb
-adv
-pp
-pp
-conj
-np
 verb
 pron
 np
 np
+pp
 verb
-271386	np
+pron
 np
+conj
+verb
+np
+verb
+np
+conj
+verb
+np
+pron
+conj
+verb
+verb
+np
+adv
+pp
+np
+verb
+pp
+conj
+verb
+pron
+np
+pp
+pp
+pp
+271303	np
+conj
 np
 pp
 adv
 verb
-conj
-verb
 pron
+pp
+np
+np
+pp
+np
+np
+271317	np
+np
+271320	conj
 conj
-verb
-pron
-verb
-pp
-verb
-pp
-np
-np
-verb
-np
-np
-adv
-pp
 noun
 verb
+conj
 verb
+np
+pron
+verb
+271330	conj
+pp
+conj
+pp
+np
+271336	np
+conj
+271339	np
+np
+271342	conj
+271345	np
+np
+np
+verb
+pron
+conj
+verb
+271353	np
+conj
+np
+pp
+verb
+np
+np
+conj
+verb
+pp
+np
+np
+271366	conj
+np
+verb
+noun
+pp
+271372	conj
+np
+np
+np
+verb
+conj
+verb
+conj
+pp
+pp
+conj
+conj
+verb
+pp
+np
+np
+conj
 adv
+conj
+adj
+np
+adj
+conj
+verb
+np
+pron
 verb
 pron
-np
+conj
 verb
-np
-np
 pp
+np
 verb
+conj
+pp
+pp
+conj
 pron
-271424	np
-np
-np
+verb
+271412	conj
 conj
 np
 conj
-pp
-pron
 verb
-pp
-pp
+np
+np
+271420	pp
+np
+np
 np
 conj
+pp
+np
+np
+np
+verb
+conj
+pron
+noun
+pp
+np
+271436	np
 271438	verb
-np
-pp
-conj
-verb
-np
-np
-pp
-271448	np
-np
-conj
 pron
+pp
+np
+np
+adv
 verb
+conj
+adv
 pp
 np
 pron
 verb
-np
-verb
+pp
 pron
-271462	np
-np
-conj
-271467	np
-np
-pp
-verb
-noun
 conj
 verb
-pp
+conj
+verb
 verb
 pron
 conj
-271479	verb
+271462	verb
+pp
+conj
+adv
 noun
 verb
 pp
-pron
-np
+conj
 pp
-np
-np
-np
-pron
+271472	conj
+271474	conj
 verb
+pp
+adv
+verb
+np
+271481	conj
+adv
+verb
+noun
+conj
+conj
 pron
 noun
 verb
 pron
-271497	np
 pp
-np
-271501	adv
+verb
+pron
+conj
+conj
 verb
 pp
+pron
+verb
+pron
+conj
+pron
+adv
+verb
+verb
+adv
+verb
+verb
+conj
+pron
+verb
+pp
+adv
+271515	verb
+conj
+verb
+np
+conj
+271521	conj
+pp
+271525	conj
+pp
+verb
+np
+np
+verb
+pron
+conj
+noun
+adv
+verb
+verb
+conj
+conj
+pron
+adv
+verb
+np
+np
+np
 pp
 np
-271507	verb
+pron
+verb
+adv
+verb
+pron
+conj
+verb
+conj
+271556	conj
 adj
+verb
 conj
 verb
+conj
+noun
+np
+conj
+np
+np
+np
+verb
+pron
+np
+pp
+pp
+np
+np
 pp
 np
 np
 np
-verb
-conj
+np
+np
 pron
-conj
-verb
-np
-pp
-conj
-np
-pp
-conj
-np
-pp
-verb
-pron
-271532	np
-np
-np
-conj
-verb
-271538	np
-np
-pp
-conj
-conj
-np
-np
-pp
-np
-conj
-271549	conj
-verb
-pp
-np
-271554	verb
-conj
-pp
-pp
-np
-np
-verb
-conj
-np
-pp
-conj
-np
-verb
-conj
 verb
 noun
-271571	verb
-np
-271574	pron
-verb
 pp
-conj
-pron
-verb
-np
-np
-np
-np
-verb
-np
-np
-np
-pp
-271590	conj
-conj
-np
-np
-np
-pp
-271598	conj
-271602	pron
-conj
-271605	verb
-np
-adv
-pp
-np
-noun
-verb
-pp
-np
 np
 adv
 verb
 np
-271619	np
 np
+271591	np
+np
+271594	pp
+np
+271597	np
+np
+271600	pp
+np
+271604	np
+conj
+271608	np
+np
+271611	np
+np
+pp
+271615	pp
+271618	conj
+271621	np
 np
 conj
-np
-np
-np
+verb
+pron
+verb
+pp
+verb
+pp
 conj
-np
-np
-np
-np
-271632	np
-np
-271635	pp
-np
-np
+verb
+pron
+271634	adv
+verb
+conj
+verb
 271639	conj
-verb
 np
-verb
-pp
-np
-np
-np
-conj
-np
-np
-271651	verb
-pp
-pp
-pp
-conj
-pp
-pp
-conj
-pp
-271661	np
-conj
-np
-conj
-verb
-pron
-verb
-pp
-pp
-conj
-pron
-np
-271674	verb
-conj
-np
-verb
-np
-pp
-np
-pp
-np
-np
-conj
-verb
 pron
 noun
-np
-np
 verb
-271692	pp
-np
-conj
-pp
-np
-pp
-conj
-verb
-np
-np
-np
 adv
+conj
+271647	np
+np
+pp
+np
+conj
+np
+np
+verb
+np
+pp
+np
+conj
+np
+conj
+np
+pron
+pron
+verb
+verb
+pp
+verb
+verb
+noun
+adv
+verb
+271673	conj
+pron
+verb
+conj
+pp
+verb
+verb
+conj
+conj
 adj
-pp
-271707	np
+np
 conj
-conj
-pp
-np
-271713	np
-np
-np
-pp
-np
-verb
-conj
+pron
+pron
 adv
+verb
+verb
+pron
+271692	adj
 noun
 verb
-pron
-verb
-pron
-pron
+271698	conj
 conj
-pp
+271701	conj
+271703	conj
+271705	conj
+conj
+conj
+np
+np
+np
 verb
+np
+verb
+pp
+np
+np
+np
+np
+np
+np
+pron
+verb
+pron
+noun
+verb
+271727	verb
+pron
 271731	np
-verb
-pp
-conj
-conj
-verb
-pp
 np
-pp
-np
-271742	verb
-np
-verb
 conj
-conj
-verb
-271749	np
-271751	np
-pp
-np
+adj
 pron
 verb
+verb
 pp
 np
-271759	verb
+verb
+271742	conj
+conj
+conj
+verb
+conj
+verb
+verb
+pp
+verb
+conj
+np
+np
+np
+np
+pp
+271759	conj
+np
+pp
+271764	np
+conj
+adjp
+np
+271769	verb
+pp
+np
+adj
+verb
+np
+verb
 pron
+conj
 pp
-271763	np
+verb
+conj
+pp
+271783	verb
+271785	np
+np
+pp
+np
+verb
+verb
+pp
+pp
+np
+271795	np
+conj
+np
+np
+np
+271802	conj
+pp
+np
+np
+np
+ptcl
+np
+np
 verb
 pron
-conj
-verb
-noun
-271770	np
+271813	pp
 np
 np
-pp
-conj
-271776	adj
-verb
-conj
-271780	conj
-conj
 verb
 pp
 verb
@@ -254093,4968 +255815,5365 @@ pp
 np
 np
 verb
-pp
-np
-np
-np
-pp
-np
-np
-conj
-np
-adv
-271800	pp
-conj
-pp
-conj
-pp
-conj
-271807	conj
-verb
-pp
-np
-verb
-np
-adv
-verb
-271816	conj
-verb
-conj
-271820	verb
-np
-np
 271824	conj
-conj
-271827	adv
+np
+pron
+pron
+verb
 pp
 np
 verb
-conj
+pron
 verb
-conj
-271835	pp
+271835	conj
+pron
+verb
 np
-noun
-noun
 conj
 verb
-pp
-noun
-271844	conj
-pp
-conj
-pp
+adv
 verb
-pp
 verb
 conj
 np
+verb
+271849	pp
+np
+pp
+271853	conj
+np
+pp
+verb
+conj
+np
+conj
+verb
+pp
+np
+271864	conj
+pron
+271867	conj
+pp
+np
+271871	np
+pron
+np
+verb
+271876	verb
+conj
+pp
+np
+verb
+adj
+conj
+noun
+adj
+np
+271887	np
+271889	conj
+271893	verb
+pron
+noun
+pp
+np
+np
+pp
+verb
+pron
+271904	conj
+noun
+verb
+adv
+verb
+np
+np
+pp
+271913	conj
+verb
+conj
+verb
+np
+pp
+np
+verb
+np
+pp
+271924	conj
+noun
+pp
+np
+pp
+271930	conj
+verb
+pron
+271934	pp
+conj
+conj
+conj
+np
+conj
+pp
+pron
+verb
+np
+verb
+noun
+np
+noun
+pp
+verb
+pp
+np
+271954	verb
+conj
+noun
+verb
+conj
+verb
+noun
+conj
+verb
+pp
+noun
+conj
+adj
+verb
+adv
+noun
+conj
+271972	noun
+adv
+verb
+np
+conj
+verb
+pp
+verb
+verb
+conj
+pp
+np
+conj
+verb
+pp
+conj
+conj
+pp
+adj
+np
+conj
+pron
+noun
+verb
+np
+verb
+verb
+conj
+np
+272002	verb
+272004	np
+np
+272007	np
+272009	conj
+np
+np
+adv
+verb
+noun
+verb
+pp
+pp
+np
+conj
+conj
+pron
+np
+np
+verb
+adv
+verb
+adv
+np
+verb
+adv
+adj
+conj
+adv
+verb
+pp
+np
+verb
+np
+verb
+conj
+adv
+np
+verb
+pp
+np
+conj
+adv
+pp
+272050	verb
+conj
+np
+np
+noun
+adv
+272057	adjp
+adv
+np
+verb
+adjp
+verb
+np
+np
+np
+pp
+np
+np
+conj
+verb
+adj
+adv
+verb
+adj
+verb
+noun
+adv
+272079	adjp
+adjp
+pp
+noun
+verb
+np
+np
+272087	adv
+verb
+conj
+np
+np
+conj
+adv
+verb
+np
+pron
+verb
+conj
+np
+pp
+272102	np
+pp
+272105	pron
+pron
+verb
+verb
+verb
+pp
+noun
+conj
+conj
+verb
+conj
+verb
+adv
+verb
+pp
+np
+verb
+pron
+verb
+272125	np
+np
+verb
+np
+272130	conj
+np
+conj
+adv
+adj
+verb
+np
+np
+np
+pron
+verb
+pp
+verb
+pp
+verb
+noun
+verb
+pp
+verb
+pp
+verb
+pp
+np
+conj
+adv
+verb
+conj
+pp
+np
+verb
+pron
+np
+verb
+272164	np
+conj
+np
+pp
+np
+np
+verb
+np
+np
+verb
+verb
+verb
+pron
+np
+verb
+pp
+np
+np
+pp
+np
+272185	conj
+verb
+np
+conj
+np
+np
+adj
+conj
+adj
+adj
+pp
+verb
+verb
+conj
+pp
+272201	np
+conj
+pron
+verb
+np
+np
+verb
+np
+272210	verb
+np
+np
+272214	np
+conj
+np
+np
+pron
+verb
+np
+conj
+np
+conj
+verb
+verb
+conj
+pron
+pp
+np
+conj
+np
+pp
+verb
+adj
+np
+conj
+pp
+adj
+verb
+np
+verb
+np
+272244	np
+conj
+verb
+272248	np
+conj
+adjp
+np
+pp
+conj
+272255	conj
+conj
+verb
+pp
+np
+verb
+pron
+verb
+np
+272265	np
+np
+272268	pron
+conj
+adj
+np
+np
+verb
+conj
+np
+verb
+np
+272279	pp
+pp
+pp
+pp
+pp
+conj
+verb
+verb
+272288	np
+np
+np
+adv
+verb
+np
+np
+pp
+pron
+verb
+pron
+pp
+pp
+np
+np
+np
+np
+pron
+verb
+pp
+verb
+conj
+np
+np
+adj
+verb
+adj
+verb
+272317	conj
+np
+verb
+pron
+pron
+conj
+verb
+272325	conj
+verb
+conj
+verb
+pron
+adj
+adv
+verb
+conj
+verb
+pp
+conj
+adj
+pp
+conj
+adj
+pp
+conj
+adj
+pp
+conj
+pp
+np
+272349	verb
+np
+np
+conj
+conj
+np
+272356	conj
+verb
+verb
+adv
+272361	np
+np
+verb
+conj
+noun
+verb
+np
+pron
 conj
 verb
 adj
 pp
 np
-271860	conj
-conj
-noun
-verb
-np
-np
-adv
-verb
-pron
-verb
-verb
-pron
-271873	np
-np
-np
 np
 conj
 np
-np
-np
-conj
-adj
-pron
-verb
-verb
-conj
-noun
-271889	np
-np
-conj
-np
-271894	conj
-verb
-pp
-adv
-verb
-np
-verb
-pp
-np
-np
-np
-271907	noun
-conj
-np
-advp
-conj
-conj
-271914	verb
-verb
-conj
-verb
-conj
-np
-np
-conj
-noun
-np
-271925	pron
-conj
-conj
-pp
-verb
-pron
-adv
-271933	np
-verb
-pron
-pp
-np
-np
-271940	conj
-conj
-pp
-np
-verb
-np
-adv
-conj
-verb
-np
-np
-np
-pp
-np
-verb
-271956	np
-conj
-271960	conj
-adv
-verb
-np
-pron
-adv
-verb
-pp
-271969	verb
-pron
-conj
-np
-verb
-noun
-271976	np
-np
-np
-verb
-pp
-np
-pp
-271984	conj
-271986	np
-verb
-np
-conj
-pp
-np
-np
-conj
-np
-pp
-271997	np
-271999	conj
-272001	np
-verb
-conj
-np
-conj
-pron
-verb
-conj
-noun
-adv
-verb
-conj
-272014	np
-adj
-verb
-pron
-np
-verb
-conj
-verb
-pp
-verb
-np
-np
-adv
-verb
-conj
-pp
-np
-pp
-pron
-conj
-noun
-verb
-pp
-pp
-np
-adv
-np
-adv
-verb
-np
-np
-verb
-pp
-np
-conj
+272378	conj
 verb
 verb
 pp
-272054	conj
-conj
 conj
 verb
-pron
-np
-pron
-conj
-np
-conj
-conj
-np
-conj
-np
-pp
-272070	np
-np
-pp
-np
-np
-pron
-conj
-verb
-272079	np
-np
-conj
-np
-conj
-adv
-verb
-verb
-verb
-pp
-adj
-conj
-verb
-272094	np
-np
-conj
-np
-np
-np
-pp
-np
-np
-np
-pp
-272107	pron
-conj
-pp
-np
-np
-adj
-verb
-pp
-np
-np
-pron
-conj
-verb
-conj
-pp
-verb
-272124	conj
-conj
-pp
-verb
-272129	verb
-pron
-conj
-verb
-verb
-conj
-verb
-conj
-verb
-pp
-pron
-adv
-verb
-verb
-pp
-verb
-np
-np
-conj
-verb
-pron
-verb
-conj
-pp
-verb
-np
-np
-272158	adv
-conj
-verb
-noun
-pp
-pp
-conj
-verb
-pron
-272168	np
-conj
-np
-np
-conj
-conj
-verb
-np
-np
-adv
-verb
-pron
-verb
-conj
-np
-pron
-pp
-verb
-noun
-pp
-pp
-np
-np
-np
-272193	conj
-pp
-np
-np
-conj
-adv
-verb
-conj
-pron
-verb
-pp
-np
-conj
-verb
-np
-verb
-pp
-pp
-np
-np
-272214	pron
-verb
-pp
-pp
-np
-np
-272221	conj
-adv
-verb
-pp
-verb
-np
-np
-conj
-verb
-np
-np
-np
-np
-272235	np
-conj
-np
-np
-272240	conj
-conj
-272243	np
-np
-verb
-np
-np
-pp
-pron
-conj
-np
-272253	conj
-np
-np
-pp
-conj
-pp
-conj
-np
-pp
-pp
-verb
-np
-np
-adj
-pp
-pp
-np
-np
-272272	conj
-pp
-np
-np
-np
-272278	np
-np
-pp
-np
-np
-np
-adj
-conj
-noun
-272288	pron
-conj
-pp
-272292	conj
-conj
-verb
-pp
-adv
-verb
-pron
-verb
-conj
-verb
-noun
-conj
-adv
-verb
-conj
-verb
-adv
-verb
-conj
-np
-verb
-pron
-pp
-272316	np
-272318	pron
-conj
-verb
-np
-np
-272324	np
-np
-272327	verb
-pron
-pp
-np
-verb
-np
-272334	np
-np
-verb
-pp
-272339	conj
-272341	adv
-pp
-np
-conj
-np
-272347	np
-adv
-verb
-np
-adv
-272353	conj
-pp
-np
-np
-np
-conj
-272360	adj
-noun
-pp
-np
-conj
-272366	conj
-verb
-pron
-conj
-verb
-272372	conj
-verb
-pron
-np
-pp
-conj
-pp
-conj
-verb
-272382	verb
-conj
 272385	np
-adv
-verb
-np
-np
-np
-np
-pp
-pp
 conj
 np
-adv
-noun
+272389	conj
+conj
 verb
 verb
-pron
+verb
 np
+verb
 conj
 adj
 verb
-pp
-verb
+conj
+conj
 pron
+np
+272404	conj
+np
 adv
-conj
 verb
-pron
-pp
-np
-np
-np
-pp
-np
 np
 verb
 conj
-272422	pron
+verb
+adj
+adj
 noun
 verb
+np
+np
+np
+verb
+np
+np
+pp
+np
+verb
+conj
+verb
+conj
+verb
+conj
+np
+verb
+conj
+verb
+verb
+conj
+np
+np
+verb
+np
+conj
+verb
+conj
+conj
+verb
+np
+verb
+verb
+verb
+noun
+conj
+np
+np
+verb
 adv
 conj
+adjp
+verb
+verb
+np
+272461	adj
+conj
+adj
+conj
+np
+conj
+verb
+adv
 verb
 verb
 conj
+adj
+verb
+verb
 verb
 np
-conj
 verb
-np
-np
+verb
+pp
+adv
 conj
 pron
 verb
-conj
-272441	verb
-adv
 pp
 np
 conj
 np
 verb
-adv
+noun
 verb
-conj
 pron
-verb
-noun
-pp
-verb
 conj
 adv
 verb
+np
 conj
 np
-272462	np
+np
+verb
+np
+np
 adv
 verb
-noun
-272467	conj
-conj
+np
 verb
-conj
-noun
-272473	conj
 adv
-adv
-np
 verb
 pp
-np
-verb
-pp
-272483	pron
-conj
-pron
-verb
-pp
-np
-272491	verb
-verb
-pp
-np
-np
-np
-advp
-verb
+272510	conj
 verb
 conj
-272502	np
 np
-272505	pp
-pp
-np
-conj
-pp
-np
-verb
-pp
-conj
 272515	np
+verb
+adv
+verb
+conj
+adj
 np
+np
+np
+pp
+noun
+adv
+verb
+conj
+adv
+pp
+np
+272533	conj
+verb
+pp
+verb
+conj
+np
+np
+noun
+verb
+verb
+pp
+272545	np
+conj
+272548	conj
+np
+np
+conj
+pron
+verb
+pp
+adj
+verb
+pp
+noun
+adv
+adj
+verb
+conj
+verb
+np
+pron
+adj
+verb
+272569	verb
+conj
+np
+verb
+pp
+272575	np
+conj
+np
+np
+np
+np
+np
+np
+adj
+verb
+verb
+pp
+pron
+conj
+adv
+verb
+np
+np
+np
+np
+adj
+conj
+adv
+verb
+verb
+adv
+verb
+pron
+verb
+pp
+noun
+np
+np
+adjp
+np
+verb
+conj
+adv
+272614	np
+np
+np
+conj
+np
+verb
+conj
+np
+verb
+adv
+verb
+conj
+noun
+verb
+conj
+adv
+verb
+conj
+272633	verb
+conj
+np
+verb
+pron
+272639	conj
+conj
+272642	pron
+verb
+conj
+adv
+verb
+272649	np
+verb
+np
+272653	np
+np
+272656	conj
+np
+np
+pp
+verb
+272662	adj
+verb
+conj
+verb
+pp
+272668	conj
+pp
+verb
+272672	np
+np
+np
+verb
+np
+conj
+verb
+np
+verb
+noun
+verb
+np
+verb
+conj
+np
+np
+np
+pp
+adj
+conj
+verb
+pp
+np
+conj
+adv
+verb
+pron
+verb
+verb
+conj
+272703	conj
+pron
+verb
+conj
+verb
+verb
+verb
+pp
+conj
+conj
+np
+np
+conj
+pron
+verb
+np
+pp
+272721	conj
+np
+conj
+np
+np
+verb
+np
+pron
+pron
+verb
+verb
+pp
+np
+conj
+pron
+verb
+np
+pron
+conj
+np
+np
+pron
+verb
+verb
+conj
+272747	verb
+np
+np
+np
+np
+verb
+np
+np
+pp
+272757	verb
+conj
+verb
+np
+np
+pp
+np
+verb
+pp
+272768	np
+verb
+np
+conj
+272774	verb
+pp
+272777	np
+np
+verb
+pron
+np
+adjp
+pp
+np
+np
+272787	np
+np
+272790	pron
+np
+verb
+272795	np
+np
+conj
+np
+272800	np
+verb
+conj
+np
+verb
+np
+np
+verb
+noun
+np
+verb
+pron
+verb
+np
+conj
+verb
+verb
+pron
+272819	conj
+np
+ptcl
+np
+adjp
+pp
+np
+np
+verb
+272830	verb
+conj
+verb
+pp
+np
+conj
+pp
+272838	verb
+pron
+adj
+adv
+pp
+verb
+verb
+pp
+np
+adj
+verb
+adj
+verb
+pron
+np
+pp
+verb
+conj
+verb
+np
+np
+np
+np
+verb
+verb
+np
+272865	np
+conj
+np
+np
+np
+pron
+pron
+verb
+pp
+np
+verb
+np
+pp
+272879	np
+np
+np
+272883	pp
+np
+pp
+np
+272888	np
+pp
+272892	np
+272894	pp
+272897	conj
+272900	np
+np
+noun
+verb
+np
+pron
+verb
+pp
+pp
+np
+adj
+verb
+np
+np
+pp
+pp
+np
+np
+272919	conj
+verb
+pron
+verb
+verb
+np
+np
+conj
+noun
+verb
+np
+verb
+np
+np
+pp
+np
+pron
+verb
+adj
+pp
+272941	np
+np
+conj
+272945	np
+np
+verb
+conj
+conj
+pp
+pp
+pp
+np
+verb
+pron
+verb
+np
+np
+np
+pron
+verb
+pp
+pp
+np
+np
+np
+np
+272969	conj
+verb
+pron
+np
+np
+conj
+272976	conj
+conj
+272979	conj
+verb
+272982	np
+np
+np
+np
+conj
+272988	np
+np
+conj
+verb
+np
+pp
+np
+272996	verb
+pron
+conj
+verb
+np
+273002	pp
+np
+np
+conj
+pp
+np
+273009	conj
+273011	verb
+pron
+pp
+273015	pp
+np
+verb
+conj
+adv
+pp
+np
+np
+273024	np
+np
+np
+273028	verb
+conj
+np
+verb
+conj
+273034	conj
+pp
+np
+pp
+verb
+pron
+273041	conj
+conj
+pp
+np
+np
+verb
+conj
+adv
+verb
+273051	verb
+conj
+pron
+verb
+conj
+verb
+conj
+verb
+np
+np
+verb
+pp
+np
+np
+np
+verb
+np
+verb
+pron
+pp
+verb
+pp
+273075	conj
+np
+pp
+273079	np
+np
+verb
+pp
+273084	np
+verb
+pp
+verb
+pron
+verb
+pron
+np
+np
+pp
+np
+pron
+verb
+273098	conj
+verb
+noun
+np
+np
+np
+conj
+273106	adv
+pron
+verb
+conj
+273111	np
+np
+verb
+conj
+273116	verb
+pp
+adv
+verb
+pron
+conj
+verb
+verb
+pron
+np
+verb
+noun
+pp
+pp
+np
+np
+conj
+pron
 pp
 verb
 adj
-adv
-272523	verb
-verb
-adv
-pp
-verb
-pp
-pp
-np
-np
-np
-pp
-conj
-adv
-adv
-pp
-verb
-conj
+pron
 verb
 pron
+conj
+np
+verb
+pp
+273145	np
+np
+pp
+273149	conj
+pron
+verb
+pp
 pp
 np
+pron
+verb
 np
+pron
+adj
+verb
+np
+verb
+verb
 pp
 conj
-272548	np
+np
+np
+273169	adj
+verb
+verb
+np
+np
+np
 conj
+verb
+verb
+conj
+conj
+adv
+verb
+pron
+adv
+verb
+conj
+adv
+adv
+verb
+np
+np
+verb
+verb
+adj
+np
+verb
+verb
+pron
+verb
+verb
+conj
+pron
 np
 noun
+pp
+verb
+273207	np
+np
+np
+verb
+pp
+pp
+np
+pp
+np
+np
+pp
+verb
+pp
+conj
+adj
+conj
+np
+np
+np
 adv
+verb
+pp
+adj
+verb
+pp
+np
+conj
+np
+273236	verb
+np
+pp
+273240	pp
+np
+adj
+np
+conj
+conj
+verb
+adv
+verb
+conj
+verb
+adv
+verb
+conj
+verb
+pron
+verb
+pron
+conj
+verb
+pron
+adj
+verb
+verb
+conj
+pron
+adv
+verb
+pron
+verb
+verb
+pp
+np
+verb
+pp
+np
+pp
+np
+verb
+verb
+pron
+273282	adjp
+verb
+np
+np
+np
+verb
+np
+np
+np
+np
+conj
+np
+verb
+pp
+np
+conj
+verb
+conj
+np
+np
+pp
+conj
 noun
 verb
 pron
 verb
+273309	conj
 pron
-conj
+pp
+np
+verb
+verb
+noun
 adv
 verb
 conj
+verb
+np
+np
 np
 conj
+np
+np
+np
+verb
+verb
+np
+np
+273332	verb
+noun
+verb
+pron
+conj
+verb
+pp
+np
+verb
+np
+np
+pp
+np
+conj
+273347	verb
+np
+np
+conj
+conj
+np
+conj
+conj
+273356	pron
+conj
+pp
+pron
+conj
+pp
+conj
+conj
+pron
+verb
+pron
+pp
+verb
+np
+np
+np
+np
+pp
+verb
+adjp
+np
+pp
+np
+np
+verb
+np
+conj
+np
+verb
+verb
+conj
+273388	pp
+verb
+np
+pp
+np
+np
+conj
+np
+conj
+verb
+verb
+conj
+verb
+noun
+np
+conj
+adv
+verb
+verb
+conj
+273409	adjp
+verb
+pp
+pp
+verb
+verb
+273416	ptcl
+adv
+verb
+pron
+np
 noun
 pp
-adv
+np
+conj
 verb
-272569	conj
+pp
+np
+np
+np
 verb
-272572	conj
-adv
+pp
+pp
+np
 np
 pron
+conj
+verb
+pp
+np
+verb
+np
 verb
 conj
 np
+273446	adjp
+273448	verb
+adj
+adv
+conj
+adj
+verb
+np
+np
+conj
+np
+verb
+np
+conj
+verb
 pp
+conj
+verb
+verb
+pp
+np
+conj
+verb
+np
+np
+verb
+noun
+verb
+np
+adv
 verb
 conj
+adv
+pp
+np
+verb
+verb
+np
+conj
+273487	conj
+verb
+noun
+adv
+adv
+pron
+verb
+np
+np
+np
+verb
+np
+adjp
+pp
+np
+conj
+adv
+verb
+pp
+np
+conj
+np
+adj
+verb
+adj
+conj
+np
+np
+verb
+pron
+conj
+verb
+273520	np
+273522	np
+np
+np
+np
+np
+np
+np
+273530	np
+np
+pron
+pron
+verb
+273536	pp
+pp
+pp
+np
+verb
+conj
+pp
+pron
+verb
+np
+np
+np
+conj
+verb
+verb
+adv
+pp
+273554	verb
+273556	np
+conj
+conj
+verb
+pp
+np
+273563	conj
+pron
+conj
+verb
+pp
+pron
+273570	conj
+verb
+273573	pp
+verb
+conj
+conj
+pp
+273579	np
+verb
+verb
+pron
+verb
+pp
+pp
+273587	np
+pp
+273590	np
+273592	conj
+adjp
+273595	pp
+pp
+pp
+pp
+273600	np
+pp
+conj
+adj
+verb
+np
+np
+np
+pp
+np
+np
+verb
+verb
+273614	pp
+273616	np
+conj
+273620	verb
+verb
+273623	verb
+conj
+conj
+273627	np
+np
+conj
+np
+np
+verb
+np
+verb
 advp
 verb
-pron
+verb
+verb
+pp
+np
+273642	conj
+verb
 conj
 noun
+273648	np
+np
+verb
+verb
+conj
+pp
+np
+np
+pron
+verb
+noun
+verb
+np
+conj
+273663	pp
+conj
+np
+np
+verb
+pp
+conj
+np
+verb
+pron
+conj
+verb
+pp
+verb
+np
+verb
+np
+np
+verb
+pron
+conj
 adv
 verb
-pp
-conj
-np
-pron
-conj
-noun
-verb
-np
-conj
-272599	np
-verb
-conj
-np
-adv
-verb
-272606	conj
-conj
-conj
-272611	verb
-conj
-np
-conj
-272616	verb
-conj
-verb
-conj
-verb
-noun
-verb
-conj
-verb
-noun
-verb
-pron
-conj
-noun
-verb
-verb
-verb
-272634	np
-272636	conj
 conj
 np
 np
-conj
-verb
-pron
 np
-pp
-conj
-pp
 np
-pp
-272651	np
+verb
 np
-272654	verb
-pp
-conj
-272658	conj
+np
 verb
-conj
+np
 verb
-adv
-pp
-verb
-conj
-verb
-pron
-conj
+np
 verb
 adj
+verb
+pron
+np
+np
+np
+pron
+verb
+pron
+273709	np
+pp
+np
+np
+np
+np
+273716	np
+conj
+conj
+np
+np
+verb
+np
+np
+verb
+verb
+pp
+adv
+273729	noun
+conj
+pron
+verb
+verb
+np
 np
 conj
-adv
 verb
+pp
+noun
+pp
+noun
+pp
+noun
 verb
-conj
-272678	pron
+adj
+pp
 noun
 verb
 verb
 pp
-conj
-verb
-pron
-pp
-conj
-verb
-pron
-conj
-verb
-pron
-adv
-pp
-pp
-np
-np
-verb
-pp
 verb
 conj
-pron
-noun
-272705	verb
-np
-verb
-np
-verb
-np
-verb
-pp
-verb
-272715	conj
 pron
 adj
 pp
-pron
-verb
-conj
-adv
-np
-verb
-272726	pp
-conj
-pp
-272730	adv
-verb
-adv
-verb
-pp
-verb
-pron
-conj
-np
-pp
-272741	pp
-272743	np
-adv
-verb
-noun
-adv
-verb
-272750	adj
-conj
-verb
-np
-verb
-pp
-np
-np
-verb
-np
-conj
-np
-np
-np
-verb
-pron
-adj
-conj
-np
-np
-272771	np
-conj
-np
-conj
-np
-adv
-pp
-np
-np
-272781	np
-np
-272784	verb
-adj
-272787	verb
-pron
-pron
-adv
-verb
-noun
-verb
-pp
-verb
-np
-np
-pp
-np
-verb
-pron
-np
-verb
-np
-np
-np
-np
-np
-272810	np
-np
-272813	pp
-272815	conj
-conj
-np
-np
-np
-pp
-272823	np
-conj
-272828	pron
-conj
-pp
-272833	conj
-272836	verb
-verb
-np
-adv
-pp
 noun
 conj
-adj
-verb
-conj
-272847	verb
-np
-np
-conj
-verb
-np
-np
-np
-np
-np
-np
-pp
-conj
-np
-pp
 verb
 pp
-np
-np
-np
-pp
-272869	np
-np
-conj
-np
-pp
-272875	np
-272877	np
-np
-conj
 np
 pron
 verb
-np
-np
-np
-np
-np
 pp
+pp
+verb
+verb
+conj
+273769	np
+np
+np
+273773	np
+np
+pron
+verb
 verb
 pron
 np
-272893	np
-np
-pp
-adv
-verb
-conj
-272900	adj
-pp
-verb
-verb
-pron
-noun
-conj
-272908	verb
-noun
-pp
 pp
 np
-np
-np
-np
-np
-272918	np
-pp
-pp
-np
-np
-pp
-np
-verb
-noun
-272929	adv
-verb
-noun
-conj
-adv
-verb
-np
-np
-272938	np
 np
 pron
-272942	verb
 np
-272945	pp
-np
-np
-conj
-pp
-np
-np
-np
-np
-conj
-verb
-272957	verb
-pp
-np
-np
-conj
-verb
-pp
-np
-verb
-conj
-verb
-np
-np
-pp
-pp
-np
-np
-pp
-adv
 verb
 adv
-pp
-conj
-pron
-verb
-np
-np
-np
-conj
-verb
-np
-272989	np
-conj
-np
-pp
-conj
-272995	verb
-np
-np
-272999	np
-np
-pp
-conj
-pron
-pp
-pp
-np
-np
-np
-273010	np
-conj
-273014	verb
-conj
-pron
-noun
-pp
-273020	np
-np
-273023	np
-np
-273026	conj
-np
-np
-pp
-pp
-273032	adv
-adv
-verb
-pron
-pp
-np
-conj
-273040	conj
-pp
-conj
-pp
-conj
-pp
-np
-pp
-pp
-conj
 conj
 verb
 np
 np
-np
-adv
-pron
-pron
-verb
 pp
 np
-conj
-conj
-verb
+np
 np
 adj
-conj
-verb
-273070	np
-np
-np
-np
-np
-np
-273077	conj
-pp
-np
-verb
-273082	conj
-conj
-pron
-pp
-np
-np
-np
-verb
-verb
-pron
-conj
-verb
-noun
-adv
-verb
-conj
-adv
-verb
-pp
 pron
 verb
-pron
-conj
-adv
-verb
-verb
-pp
-verb
-pron
-pp
-np
-np
-np
-conj
-np
-adv
-verb
-np
-273121	adj
-verb
-adv
-conj
-pp
-verb
-conj
-adv
-verb
-273132	np
-pron
-273135	np
-verb
-np
-np
-np
-np
-conj
-verb
-np
-np
-np
-np
-np
-verb
-np
-pp
-np
-np
-273154	pp
-np
-conj
-conj
-np
-conj
-pp
-np
-np
-verb
-pp
-pron
-np
-np
-np
-adv
-verb
-pp
-verb
-pron
-conj
-pp
-verb
-pron
-np
-np
-pp
-verb
-pron
-np
-conj
-verb
-np
-verb
-np
-conj
-verb
-np
-273193	pron
-conj
-verb
-verb
-np
-adv
-pp
-np
-verb
-pp
-conj
-verb
-pron
-np
-pp
-pp
-pp
-273211	np
-conj
-np
-pp
-adv
-verb
-pron
-pp
-np
-np
-pp
-np
-np
-273225	np
-np
-273228	conj
-conj
-noun
-verb
-conj
-verb
-np
-273236	pron
-verb
-273239	conj
-pp
-conj
-pp
-np
-273245	np
-conj
-273248	np
-np
-273251	conj
-273254	np
-np
-np
-verb
-pron
-conj
-verb
-273262	np
-conj
-np
-pp
-verb
-np
-np
-conj
-verb
-pp
-np
-np
-273275	conj
-np
-verb
-noun
-pp
-273281	conj
-273283	np
-np
-np
-verb
-conj
-verb
-conj
-pp
-pp
-conj
-conj
-verb
-pp
-np
-np
-conj
-adv
-conj
-adj
-np
-adj
-conj
-verb
-273307	np
-pron
-verb
-pron
-conj
-verb
-pp
-np
-verb
-conj
-pp
-pp
-conj
-pron
-verb
-273323	conj
-conj
-np
-conj
-verb
-np
-np
-273331	pp
-np
-np
-np
-conj
-pp
-np
-np
-np
-verb
-conj
-pron
-noun
-pp
-np
-273347	np
-273349	verb
-pron
-pp
-np
-np
-adv
-verb
-conj
-adv
-pp
-np
-273361	pron
-verb
-pp
-273365	pron
-conj
-verb
-conj
-verb
-verb
-pron
-conj
-273375	verb
-pp
-conj
-adv
-noun
-verb
-pp
-conj
-pp
-273385	conj
-273387	conj
-verb
-pp
-adv
-verb
-np
-273394	conj
-adv
-verb
-noun
-conj
-conj
-pron
-noun
-verb
-pron
-pp
-verb
-pron
-273408	conj
-conj
-verb
-pp
-pron
-verb
-pron
-conj
-pron
-adv
-verb
-verb
-adv
-verb
-verb
-conj
-pron
-verb
-pp
-adv
-273429	verb
-conj
-verb
-np
-conj
-273435	conj
-pp
-273439	conj
-pp
-verb
-np
-np
-verb
-pron
-conj
-noun
-adv
-verb
-verb
-273453	conj
-conj
-pron
-adv
-verb
-np
-np
-np
-pp
-np
-pron
-verb
-adv
-verb
-pron
-conj
-verb
-conj
-273473	conj
-adj
-verb
-conj
-verb
-conj
-noun
-np
-conj
-np
-np
-np
-verb
-pron
-np
-pp
-pp
-np
-np
-pp
-np
-np
-np
-np
-np
-pron
-verb
-noun
-pp
-np
-adv
-verb
-np
-np
-273508	np
-np
-273511	pp
-np
-273514	np
-np
-273517	pp
-np
-273521	np
-conj
-273525	np
-np
-273528	np
-np
-pp
-273532	pp
-273535	conj
-273538	np
-np
-273541	conj
-verb
-pron
-verb
-pp
-verb
-pp
-conj
-verb
-pron
-273552	adv
-verb
-conj
-verb
-273558	conj
-np
-pron
-noun
-verb
-adv
-conj
-273566	np
-np
-pp
-np
-conj
-np
-np
-verb
-np
-pp
-273577	np
-conj
-np
-conj
-np
-pron
-pron
-verb
-verb
-pp
-verb
-verb
-noun
-adv
-verb
-273593	conj
-pron
-verb
-conj
-pp
-verb
-verb
-conj
-conj
-adj
-np
-conj
-pron
-pron
-adv
-verb
-verb
-pron
-273612	adj
-noun
-verb
-273618	conj
-conj
-273621	conj
-273623	conj
-273625	conj
-conj
-conj
-np
-np
-np
-verb
-np
-verb
-pp
-273636	np
-np
-np
-np
-np
-np
-pron
-verb
-pron
-noun
-verb
-273648	verb
-pron
-273652	np
-np
 conj
 adj
 pron
 verb
+adv
+pron
 verb
-pp
 np
-verb
-273663	conj
 conj
-conj
-273667	verb
-conj
-verb
-verb
-pp
+pron
 verb
 conj
-np
-np
-np
-np
-pp
-273681	conj
-np
-pp
-273686	np
-conj
-adjp
-np
-273691	verb
-pp
-np
-adj
-verb
-np
 verb
 pron
 conj
-pp
+273814	pp
+np
 verb
 conj
-pp
-273705	verb
-273707	np
-np
-pp
-np
 verb
-verb
-pp
-pp
 np
-273717	np
+np
 conj
+verb
+pp
+np
+273826	verb
+pron
+np
+pp
+np
+np
+conj
+verb
+pp
 np
 np
 np
-273724	conj
+np
+pron
+np
 pp
 np
 np
 np
 ptcl
-np
-np
 verb
-pron
-273735	pp
-np
-np
-verb
-pp
-verb
-pp
-np
-np
-verb
-273746	conj
-273748	np
-pron
-pron
-verb
-pp
-np
-verb
-pron
-verb
-273759	conj
-pron
-verb
-np
-conj
-verb
-adv
-verb
-verb
+273848	conj
 conj
 np
-verb
-273773	pp
 np
-pp
-273777	conj
-np
-pp
-verb
-conj
-np
-conj
-verb
-pp
-np
-273788	conj
-pron
-273791	conj
-pp
-273794	np
-273796	np
-pron
-np
-verb
-273801	verb
-conj
-pp
-np
-verb
-273807	adj
-conj
-noun
-adj
-np
-273813	np
-273815	conj
-273819	verb
-pron
-noun
-pp
-np
-np
-pp
-verb
-pron
-273830	conj
 noun
 verb
-adv
-verb
-np
-np
 pp
-273839	conj
-verb
-conj
-verb
-np
-pp
-np
-verb
-np
-pp
-273850	conj
-noun
-pp
-np
-pp
-273856	conj
-verb
-pron
-273860	pp
-conj
-conj
-conj
-np
-conj
-pp
-273868	pron
-verb
-np
-verb
-noun
-np
-noun
-pp
-verb
-pp
-np
-273881	verb
-conj
-noun
-verb
-conj
-verb
 noun
 conj
 verb
 pp
-273892	noun
-conj
-adj
 verb
-adv
-noun
-conj
-273900	noun
-adv
-verb
-np
-conj
 verb
 pp
 verb
-273909	verb
+verb
+pron
+273866	conj
 conj
+conj
+conj
+np
+np
+np
 pp
 np
+np
+np
+pp
+273880	np
+np
 conj
+273884	pp
+273886	np
+np
+conj
+np
+273891	np
+pp
+pp
+np
+np
+pron
 verb
+np
+np
+pp
+np
+verb
+conj
+np
+np
+np
+pp
+pron
+verb
+pron
+pp
+np
+np
+273915	np
+273917	np
+np
+pp
+np
+273922	conj
+pp
+273926	conj
+273929	np
+np
+pp
+verb
+pron
 pp
 conj
+273937	verb
+verb
 conj
+verb
 pp
 adj
-np
 conj
 pron
-noun
+pron
 verb
-np
-verb
-verb
-conj
-np
-273931	verb
-273933	np
-np
-273936	np
-273938	conj
-273940	np
-np
-adv
-verb
-noun
-verb
-pp
-pp
-np
-273950	conj
 conj
 pron
+verb
+273951	np
 np
 np
-verb
-adv
-verb
-adv
-np
-verb
-adv
-adj
-conj
-adv
-verb
-pp
-np
-verb
-np
-verb
-conj
-adv
 np
 verb
 pp
 np
 conj
-adv
-pp
-273981	verb
+verb
 conj
 np
-np
-noun
-adv
-273988	adjp
-adv
-np
-verb
 adjp
 verb
+pp
+conj
 np
+273968	adjp
+adjp
+adjp
+adv
+noun
+adjp
+conj
+273976	verb
 np
 np
 pp
 np
-274000	np
+np
 conj
 verb
+conj
+verb
+pp
+273988	np
+verb
+conj
+verb
+verb
+verb
+conj
 adj
+273999	conj
+np
+np
+pp
+np
+pron
+verb
+verb
+pron
+np
+verb
+verb
+pron
 adv
 verb
-adj
+pp
+np
 verb
+274018	np
+pp
+np
+np
 noun
 adv
-274011	adjp
+274025	np
+np
+np
+np
+verb
+adj
+pp
+np
+verb
+pron
+adv
+conj
+verb
+pp
+np
+adv
+verb
+274043	np
+conj
+np
+np
+verb
+np
+adj
+adj
+np
+np
+conj
+verb
+conj
+adj
+adj
+conj
+verb
+np
+274062	conj
+np
+conj
+np
+noun
+verb
+verb
+np
+conj
+verb
+274073	verb
+conj
+conj
 adjp
 pp
-noun
-verb
-np
-np
-274019	adv
-verb
-conj
-np
-np
-conj
-adv
-verb
-np
-pron
-verb
-conj
-np
-pp
-274034	np
-pp
-274037	pron
-pron
-verb
-verb
-verb
-pp
-noun
-274045	conj
-conj
-verb
-conj
-verb
-adv
-verb
-pp
-274054	np
-verb
-pron
-verb
-274059	np
-np
-verb
-np
-274064	conj
-np
-conj
-adv
-adj
-verb
-np
 np
 np
 pron
+conj
 verb
-pp
+pron
 verb
-pp
+np
+np
 verb
 noun
+274090	verb
 verb
+274093	np
+np
+np
+noun
+adv
 pp
+274100	adjp
+adv
+np
 verb
-pp
+conj
 verb
-pp
+np
+274108	verb
+verb
+np
 np
 conj
 adv
-verb
-conj
-pp
 np
-verb
-pron
-np
-verb
-274098	np
-conj
-np
-pp
 np
 np
 verb
 np
-np
+adv
 verb
-verb
-verb
-274111	pron
-np
 verb
 pp
-np
-np
-pp
-np
-274120	conj
-verb
-np
-conj
-274125	np
-np
-adj
-conj
-adj
-adj
-pp
-verb
-verb
-conj
-pp
-274137	np
-conj
 pron
 verb
 np
 np
-verb
-np
-274146	verb
-np
-np
-274150	np
-conj
-274153	np
-np
-pron
-verb
-np
-conj
-np
-conj
-verb
-verb
-conj
-pron
 pp
+np
+274130	np
 np
 conj
 np
 pp
 verb
-adj
 np
-conj
+verb
+verb
+pp
+noun
+np
+verb
 pp
 adj
 verb
+274147	adv
+verb
+adv
+verb
+conj
+np
 np
 verb
+conj
+274157	np
 np
-274181	np
-conj
+np
+274161	np
 verb
-274185	np
+pp
+verb
 conj
+np
+np
+np
 adjp
 np
-pp
-conj
-274192	conj
-conj
-verb
-pp
-274197	np
 verb
 pron
-verb
-np
-274203	np
-np
-274206	pron
 conj
-adj
-np
-np
 verb
+274176	np
 conj
 np
+np
+274181	conj
+conj
+verb
+pp
+np
+np
 verb
 np
-274217	pp
+274190	np
+conj
+np
+np
+np
+274196	np
+274198	np
+274200	conj
+274202	pron
+verb
+pron
 pp
+conj
+274208	verb
+pron
 pp
-pp
-pp
+np
+conj
+verb
+pron
+274216	np
+np
+np
+pron
+verb
+conj
 274223	conj
+pp
+np
+adj
+pron
 verb
 verb
-274227	np
+pron
+274232	verb
+verb
+pp
 np
 np
+adj
+verb
+adj
+verb
+adj
+verb
+adj
+np
+verb
+pp
+np
+verb
+conj
 adv
-verb
-274233	np
 np
+274253	verb
+verb
+np
+274257	conj
+pp
+274260	conj
+verb
+verb
+pron
+conj
+conj
+np
+274268	np
+conj
+np
+verb
+np
+274274	np
+274276	pp
+274278	np
 pp
 pron
 verb
 pron
-pp
-pp
-np
-np
-np
-np
-274246	pron
-verb
-pp
-verb
 conj
+pp
 np
-np
-adj
-verb
-adj
-274257	verb
-274259	conj
 np
 verb
 pron
-pron
-conj
-verb
-274267	conj
-verb
-conj
-verb
-pron
-274273	adj
-adv
-verb
-conj
-verb
 pp
-conj
-274281	adj
-pp
-conj
-adj
-pp
-conj
-adj
-pp
-conj
-pp
-np
-274293	verb
-np
-np
-conj
-conj
-np
-274300	conj
-verb
-verb
-adv
-274305	np
-np
-verb
-conj
-noun
-verb
-np
-pron
-conj
-verb
-adj
-pp
-np
-np
-conj
-np
-274322	conj
-verb
-verb
-pp
-conj
-verb
-274329	np
-conj
-np
-274333	conj
-conj
-verb
-verb
-verb
-np
-verb
-conj
-adj
-verb
-274344	conj
-conj
-pron
-np
-274349	conj
-np
-adv
-verb
-np
-verb
-conj
-verb
-adj
-adj
-noun
-verb
-np
-np
-np
-verb
-np
-np
-pp
-np
-verb
-274371	conj
-verb
-conj
-verb
-conj
-np
-verb
-conj
-verb
-verb
+274291	np
 conj
 np
 np
-verb
-np
-conj
-verb
-274389	conj
-conj
-verb
-np
-verb
-verb
-274396	verb
-noun
-conj
-np
-np
-verb
-adv
-conj
-adjp
-verb
-verb
-np
-274409	adj
-conj
-adj
-conj
-np
-conj
-verb
-adv
-verb
-verb
-conj
-adj
-274422	verb
-verb
-verb
-np
-verb
-verb
-pp
-adv
-conj
 pron
 verb
 pp
-np
-conj
-np
-verb
-noun
-verb
-pron
-conj
-adv
-verb
-np
-conj
-np
-np
-verb
-274450	np
-np
-adv
-verb
-np
-verb
-adv
-verb
-pp
-274460	conj
-verb
-conj
-np
-274465	np
-verb
-adv
-verb
-conj
-adj
-np
-np
-np
-pp
-noun
-adv
-verb
-conj
 adv
 pp
+274302	np
 np
-274483	conj
-verb
-pp
-verb
 conj
+verb
 np
 np
 noun
 verb
-verb
 pp
-274495	np
-conj
-274498	conj
 np
 np
+adj
+np
 conj
+pp
+verb
 pron
 verb
+conj
+verb
+np
+verb
+verb
+noun
+pron
+verb
+274329	conj
+np
+274332	np
+conj
+conj
+conj
+conj
+np
+verb
+verb
+conj
+274342	conj
+np
 pp
+np
+conj
+verb
+verb
+conj
+274351	np
+conj
+verb
 adj
+conj
+verb
+274358	pp
+conj
+verb
+verb
+pp
+pp
+adv
+conj
+verb
+verb
+274370	np
+conj
+adv
+verb
+conj
+adj
+pron
+verb
+verb
+conj
+np
+np
+np
+verb
+pp
+np
+np
+conj
+adv
+verb
+adj
+verb
+pron
+np
+np
+pp
+verb
+verb
+pron
+pp
+np
+pp
+np
+274405	np
+274407	conj
+274409	np
+274412	np
+np
+conj
+conj
+274417	np
+conj
+274420	np
+np
+conj
+np
+np
+pp
+np
+274428	pron
+conj
+pp
+274433	np
+conj
+274437	verb
+np
+np
+adv
+np
+verb
+pp
+np
+np
+verb
+np
+274449	np
+conj
+np
+pron
+verb
+274455	pp
+274457	np
+conj
+pp
+np
+np
+conj
+np
+np
+np
+np
+adj
+verb
+pp
+np
+np
+274473	np
+274475	pp
+pp
+274478	np
+conj
+verb
+conj
+pp
+np
+np
+conj
+np
+np
+np
 verb
 pp
 noun
-adv
-adj
-verb
 conj
-verb
 np
-pron
-adj
+np
+pp
 verb
-274519	verb
+verb
+pron
+verb
+pp
+np
+adv
+verb
+274505	pron
+verb
+pp
 conj
+274510	adv
+conj
+np
+np
+274515	verb
+pron
+pp
+np
+np
 np
 verb
 pp
+np
 274525	np
-conj
-np
-np
-np
-np
-np
-np
-adj
-verb
-verb
-pp
-pron
-conj
-adv
-verb
-np
-np
-np
-np
-adj
-conj
-adv
-verb
-verb
-adv
-verb
-pron
-verb
-pp
-noun
-np
-np
 adjp
-np
-verb
+adjp
+adjp
 conj
-adv
-274564	np
-np
-np
+adjp
 conj
-np
-verb
-conj
-np
-verb
-adv
-verb
-conj
-noun
-verb
-conj
-274580	adv
-verb
-conj
-274584	verb
 conj
 np
 verb
 pron
-274590	conj
+pron
+verb
+np
+np
+pron
+pron
+verb
+pp
+verb
+conj
+pp
+pron
+verb
+pp
+np
+np
+np
+pp
+conj
+np
+np
+adj
+verb
+verb
+conj
+274562	pp
+conj
+pp
+np
+np
+verb
+conj
+pp
+adv
+conj
+pp
+verb
+pp
+conj
+adj
+pron
+verb
+274580	pp
+conj
+conj
+pp
+np
+274586	adv
+pron
+advp
+conj
+pron
 274592	conj
-274594	pron
+pp
+conj
+pp
+conj
+conj
+pron
+verb
+noun
+verb
+pron
+conj
+pron
+conj
+conj
+274608	pron
+verb
+pron
+conj
+verb
+pron
+pron
+verb
+274617	verb
+np
+np
+pron
 verb
 conj
 adv
 verb
-274601	np
-verb
-np
-274605	np
-np
-274608	conj
-np
-np
-pp
-verb
-274614	adj
-verb
-conj
-verb
-pp
-274621	conj
-pp
-verb
-274625	np
-np
-np
-verb
-np
-conj
-verb
-np
-verb
-noun
-verb
-np
-verb
-conj
-np
-np
-np
-pp
-adj
-conj
-verb
-pp
-np
-conj
-adv
-verb
-pron
-verb
-verb
-conj
-274656	conj
-pron
-verb
-conj
-verb
-verb
-verb
-pp
-274665	conj
-conj
-np
-np
-conj
-pron
-verb
-np
-pp
-274675	conj
-np
-conj
-np
-np
-verb
-274682	np
-pron
-pron
-verb
-verb
-pp
-np
-conj
-pron
-verb
-np
 pron
 conj
 np
-np
 pron
 verb
-274700	verb
-conj
-274703	verb
-np
-np
-np
-np
-verb
-274710	np
-np
-pp
-274714	verb
-conj
-verb
-np
-np
-pp
-np
-verb
-pp
-274725	np
-verb
-np
-conj
-274731	verb
-pp
-274734	np
-np
-verb
-pron
-np
-adjp
-pp
-274742	np
-np
-274745	np
-np
-274748	pron
-np
-verb
-274755	np
-np
-conj
-np
-274760	np
-verb
-conj
-np
-verb
-np
-np
-verb
-noun
-np
-verb
-pron
-verb
-np
-conj
-verb
-verb
-pron
-274779	conj
-np
 ptcl
-np
-adjp
-pp
-np
-np
-verb
-274791	verb
-conj
-verb
-pp
-np
-conj
-pp
-274799	verb
+noun
 pron
-adj
+pron
+verb
+pp
+verb
+np
+np
+pp
+verb
+np
+np
+verb
+pron
+verb
+conj
+pp
+pp
+pron
+verb
+verb
+advp
+conj
+verb
+pron
+noun
+verb
+conj
+conj
+pp
+np
+np
+verb
+pron
+verb
+pron
+274669	np
+np
+np
+pp
+274676	np
+np
+np
+np
+274681	np
+274683	pp
+np
+np
+274687	conj
 adv
+np
+verb
+np
 pp
+np
+pp
+np
+np
+np
+verb
+pron
+pp
+pron
+verb
+np
+pp
+adv
+verb
+np
+pron
+274710	verb
+274712	np
+np
+conj
+np
+np
+np
+verb
+conj
+np
+np
+np
+np
+np
+np
+np
 verb
 verb
 pp
 np
+np
+pp
+pron
 adj
 verb
-adj
-verb
+np
 pron
 np
 pp
+verb
+np
+conj
+verb
+adv
+np
+np
+verb
+pron
+pron
+adv
+verb
+pron
+conj
+adv
+274756	pron
+verb
+pron
+pp
+conj
+pron
+verb
+pron
+pp
+conj
+conj
+adv
+verb
+np
+pp
+np
 verb
 conj
 verb
+pron
 np
 np
-np
-np
-verb
-verb
-np
-274826	np
+conj
+pp
 conj
 np
-np
-274831	np
-pron
-pron
 verb
-pp
-np
 verb
 np
-pp
-274841	np
-np
-np
-274845	pp
-np
-pp
-np
-274850	np
-pp
-274854	np
-274856	pp
-274859	conj
-274862	np
 np
 noun
-verb
-274867	np
-pron
-verb
+conj
+np
+np
+np
 pp
+conj
+np
+np
+np
+np
 pp
 np
+np
+np
+conj
+np
+np
+np
+np
+np
+np
+verb
+noun
+conj
+verb
+noun
+pp
+verb
+pron
+274817	np
+np
+np
+np
+pp
+np
+np
+conj
+pron
+pp
+noun
+np
+verb
+conj
+np
+np
+np
+verb
+np
+pron
+verb
+pron
+conj
+verb
+conj
 adj
-verb
-np
-np
-pp
-pp
-np
-np
-274882	conj
-274884	verb
-pron
-verb
-verb
-np
-np
 conj
 noun
 verb
+conj
+conj
+noun
+verb
+pron
+conj
+noun
+adv
+verb
+274856	pron
+conj
 np
+verb
+conj
+np
+np
+adv
+verb
+pp
+np
+conj
+np
+verb
+adv
+verb
+pp
+np
+conj
+verb
+np
+np
+np
+np
+np
+adj
 verb
 np
 np
 pp
-274899	np
+verb
+pp
+verb
+verb
+noun
+pp
+verb
+adv
+verb
 pron
+verb
+ptcl
+adv
+verb
+conj
+conj
+274903	np
+np
+pp
+verb
 verb
 adj
-pp
-274906	np
-np
 conj
-274910	np
 np
+274912	conj
 verb
-conj
-conj
-pp
-pp
-pp
+np
+adv
+pron
+verb
 np
 verb
 pron
+noun
 verb
-274923	np
-np
-np
-pron
 verb
 pp
+np
+pp
+verb
+pp
+verb
+verb
+np
+274933	conj
+conj
+conj
+np
+conj
+np
+np
 pp
 np
 np
-np
-np
-274935	conj
-verb
-pron
-np
-np
+adv
 conj
-274942	conj
-conj
-274945	conj
+noun
 verb
 274948	np
-np
-np
-np
-conj
-274954	np
-np
-conj
 verb
-np
 pp
-np
-274962	verb
-pron
-conj
 verb
-np
-274968	pp
-np
-np
-conj
-pp
-np
-274975	conj
-274977	verb
-pron
-pp
-274981	pp
-np
 verb
 conj
 adv
-pp
-np
-np
-274990	np
-np
-np
-274994	verb
-conj
-np
+pron
 verb
+274958	pron
+verb
+noun
 conj
-275000	conj
-pp
-275003	np
-pp
 verb
 pron
+conj
+np
+conj
+verb
+pron
+verb
+pron
+np
+pp
+274974	conj
+verb
+pron
+adj
+verb
+pp
+np
+np
+pp
+conj
+verb
+pron
+np
+adj
+verb
+adjp
+adv
+conj
+adv
+verb
+pron
+np
+verb
+274998	conj
+np
+pp
+verb
+verb
+pp
+np
+np
+np
 275008	conj
-conj
-pp
-np
-np
 verb
 conj
-adv
-verb
-275018	verb
-conj
-pron
-verb
-conj
-verb
-conj
-verb
-np
-np
-verb
-pp
-np
-np
-np
-verb
-275035	np
-verb
-pron
-pp
-verb
-pp
-275043	conj
 np
 pp
-275047	np
-np
-verb
-pp
-275052	np
-verb
-pp
-verb
-pron
-verb
-pron
-275060	np
-np
-pp
-np
-pron
-verb
-275067	conj
-275069	verb
-noun
-np
-np
-np
-conj
-275076	adv
-pron
-verb
-conj
-275081	np
-np
-verb
-conj
-275086	verb
-pp
-adv
-verb
-pron
-conj
-verb
-verb
-pron
-np
 verb
 noun
-pp
-pp
-np
-np
-conj
-pron
-pp
-verb
-adj
-pron
-verb
-pron
-conj
-np
-verb
-pp
-275115	np
-np
-pp
-275119	conj
-pron
-verb
-pp
-pp
-np
-pron
-verb
-275128	np
-pron
-adj
-verb
-np
-verb
-verb
-pp
-conj
-np
-np
-275140	adj
-verb
-verb
-np
-np
-np
-conj
-verb
 verb
 conj
+pp
+np
 conj
-adv
+pp
+np
+np
+pp
 verb
-pron
-adv
+np
+np
+np
+np
+pp
 verb
+275032	conj
 conj
-adv
-adv
-verb
-np
-np
-verb
-verb
-adj
-np
-verb
-verb
-pron
-verb
 verb
 conj
-pron
-np
-noun
-pp
 verb
-275178	np
-np
-np
-verb
-pp
-pp
 np
 pp
-275187	np
-np
 pp
-verb
-pp
-conj
-adj
-conj
-np
-np
 np
 adv
-verb
-pp
-adj
-verb
-pp
-np
-conj
-np
-275208	verb
-np
-pp
-275212	pp
-np
-adj
-np
-conj
-conj
-verb
-adv
-verb
-conj
-verb
-adv
-verb
-275226	conj
-verb
-pron
-verb
-pron
-275233	conj
-verb
-pron
-adj
-verb
-verb
-conj
-pron
-adv
-verb
-pron
-verb
-verb
-pp
-np
-verb
-pp
-np
-pp
-np
-verb
-verb
-pron
-275257	adjp
-verb
-np
-np
-np
-verb
-np
-np
-np
-np
-conj
-np
-verb
-pp
-np
-conj
-verb
-conj
-np
-np
-pp
-conj
-noun
-verb
-pron
-verb
-275285	conj
-pron
-pp
-np
-verb
 verb
 noun
+pron
+verb
+verb
+verb
+np
+np
+np
+np
+pp
+np
+verb
+pron
+conj
+adv
+pron
+vp
+pp
+conj
 adv
 verb
-conj
-verb
+275065	conj
 np
-np
-np
-conj
-np
-np
-np
-verb
-verb
-np
-np
-275308	verb
-noun
-verb
 pron
-conj
-verb
-pp
-np
-verb
-np
-np
-pp
-np
-conj
-275323	verb
-np
-np
-conj
-conj
-np
-conj
-conj
-275332	pron
-conj
-pp
-pron
-conj
-pp
-conj
-conj
 pron
 verb
-pron
-pp
+np
+conj
+conj
+np
+verb
+275076	conj
+np
+adv
+verb
+np
+conj
+275083	pp
+np
 verb
 np
 np
+verb
 np
+pron
+verb
+np
+conj
+verb
+pron
 np
 pp
+np
 verb
 adjp
-np
-pp
-np
-np
 verb
-np
-conj
-np
-verb
-verb
-conj
-275364	pp
-verb
-np
-pp
-np
-np
-conj
-np
-conj
-verb
-verb
-conj
-verb
+275103	conj
 noun
-np
-conj
-adv
-verb
 verb
 conj
-275385	adjp
-verb
-pp
-pp
-verb
-verb
-275392	ptcl
-adv
-verb
-pron
 np
-noun
-pp
-np
+verb
 conj
 verb
 pp
 np
-np
+verb
+conj
 np
 verb
-pp
+conj
+np
 pp
 np
+pp
+verb
 np
+np
+np
+pp
 pron
 conj
 verb
-pp
+pron
+verb
+verb
+verb
+verb
+conj
+275137	np
+np
 np
 verb
+275142	np
 np
-275419	verb
-conj
+275145	conj
 np
-275423	adjp
-275425	verb
-adj
-adv
-conj
+np
+np
 adj
 verb
+verb
+pron
+conj
+np
+pp
+np
+np
 np
 np
 conj
+pron
+pp
+verb
+pp
 np
 verb
+np
+verb
+pron
 np
 conj
 verb
 pp
 conj
+adj
 verb
-verb
+noun
+conj
+noun
+conj
+adj
 pp
+np
+np
+np
+pp
+conj
+pp
+np
+verb
+noun
+conj
+pp
+conj
+pp
+np
+np
+np
+verb
+pron
+conj
+275203	np
+conj
+np
+np
+np
+pp
+adj
+verb
+conj
+conj
+verb
+np
+np
+np
+adv
+conj
+np
+np
+verb
+adv
+verb
+np
+np
+conj
+pp
+np
+pp
+np
+np
+np
+pp
+np
+adv
+verb
+np
+np
+pp
+conj
+verb
+np
+np
 np
 conj
 verb
+np
+np
+conj
+verb
+275252	adv
+verb
+np
+pron
+conj
+adv
+verb
+np
+np
+conj
+verb
+pp
+np
+np
+conj
+verb
+pp
 np
 np
 verb
 noun
+ptcl
+adv
+verb
+pp
+np
+np
+np
+pp
+verb
+pp
+np
+verb
+conj
+verb
+pron
+pp
+np
+pp
+pron
+np
+verb
+conj
+adv
 verb
 np
+pp
+np
+np
+np
+conj
+np
+verb
+conj
+np
+np
+np
+pp
+adj
+verb
+pp
+verb
 adv
+conj
+np
+np
+verb
+adv
+verb
+np
+np
+conj
+pp
+np
+pron
+conj
+verb
+verb
+conj
+np
+verb
+pp
+pp
+pron
+conj
+verb
+np
+verb
+np
+np
+verb
+pp
+np
+pron
+conj
+verb
+adv
+verb
+pp
+np
+np
+conj
+adv
+verb
+conj
+verb
+conj
+adv
+verb
+verb
+pp
+verb
+conj
+ptcl
+adv
+verb
+noun
+verb
+pp
+np
+np
+verb
+np
+pp
+verb
+adv
+conj
+vp
+conj
+pron
+conj
+adv
+verb
+np
+np
+np
+pron
+adv
+verb
+np
+verb
+verb
+conj
+pp
+np
+verb
+conj
+verb
+conj
+verb
+pp
+np
+np
+conj
+verb
+pp
+np
+np
+conj
+np
+pp
+np
+verb
 verb
 conj
 adv
 pp
 np
-verb
+adv
+conj
 verb
 np
+pp
+np
+np
+np
+pp
+np
+np
+np
 conj
-275464	conj
+pp
+adv
+conj
 verb
-noun
-adv
-adv
+pp
+np
+np
+conj
+conj
+275443	verb
 pron
 verb
+pp
+conj
+adj
+verb
+adv
+verb
+pp
+adv
+275455	np
+verb
+pp
+verb
+pp
+np
+conj
+verb
+adv
+conj
+np
+np
+verb
+adv
+verb
+np
+np
+conj
+conj
+pron
+noun
+verb
+adv
+pp
+np
+verb
+pp
+conj
+verb
+noun
+np
+np
+np
+275489	conj
+verb
+pp
 np
 np
 np
 verb
+pp
 np
+np
+conj
+pp
+np
+np
+verb
+conj
+verb
+pp
+np
+np
+conj
+adv
+pp
+np
+np
+pron
+np
+verb
+np
+275519	verb
+conj
+np
+np
+np
+conj
+conj
 adjp
 pp
 np
-conj
-adv
+np
 verb
 pp
 np
-conj
-np
-adj
-verb
-adj
-conj
-np
-np
-verb
-pron
-conj
-verb
-275497	np
-275499	np
-np
-np
-np
-np
-np
-np
-275509	np
-np
-pron
-pron
-verb
-275515	pp
-pp
-pp
-np
-verb
-conj
-pp
-pron
-verb
-np
-np
-np
-conj
-verb
-verb
-adv
-pp
-275533	verb
-275535	np
+275535	conj
 conj
 conj
-verb
-pp
+conj
+adjp
 np
 275542	conj
-pron
-conj
-verb
-pp
-pron
-275549	conj
-verb
-275552	pp
-verb
-conj
-conj
-pp
-275558	np
-verb
-verb
-pron
-verb
-pp
-pp
-275566	np
-pp
-275569	np
-275571	conj
-adjp
-275574	pp
-pp
-pp
-pp
-275579	np
-pp
-conj
-adj
-verb
-np
-np
-np
-pp
-np
-np
-verb
-verb
-275593	pp
-275595	np
-conj
-275599	verb
-verb
-275602	verb
-conj
-conj
-275606	np
-np
-conj
-np
-np
-275612	verb
-np
-verb
-advp
-275617	verb
-verb
-verb
-pp
-np
-275623	conj
-275625	verb
-conj
-noun
-275630	np
-np
-verb
-verb
-conj
-pp
-np
-np
-pron
-verb
-noun
-verb
-np
-conj
-275645	pp
-conj
-np
-np
-verb
-pp
-conj
-np
-verb
-275655	pron
-conj
-verb
-pp
-verb
-np
-verb
-np
-np
-verb
-pron
 conj
 adv
 verb
+noun
+adj
+pp
+adj
+conj
+275552	conj
+verb
+np
+np
+pp
+pron
+np
+verb
+conj
+275562	np
+np
+verb
+np
+275567	np
+np
+np
+verb
+np
+np
+conj
+verb
+adv
+verb
+verb
+np
+np
+verb
+conj
+pp
+pp
+pp
+verb
+conj
+pp
+np
+np
+np
+conj
+275593	verb
+noun
+conj
+noun
+verb
+pp
+np
+np
 conj
 np
-np
-np
-np
+pp
 verb
-275676	np
-np
+pp
 verb
 np
+pp
+np
+conj
+verb
+275613	conj
+conj
+pp
+verb
+verb
+275619	conj
+conj
+275622	np
+verb
+noun
+conj
+pp
+verb
+conj
+pp
+np
+adv
+pp
+pp
+verb
+pp
+conj
+275638	pron
+pron
 verb
 np
+conj
 verb
-adj
+pp
+np
+conj
+np
+adv
+np
+np
+adv
+pron
+verb
+verb
+noun
+conj
+verb
+pp
+np
 verb
 pron
-275687	np
-np
-np
 pron
+adv
 verb
 pron
+conj
+pp
+pp
+verb
+pron
+noun
+pp
+np
+pp
+np
+np
+pron
+275679	pp
+np
+np
+np
+np
+275685	conj
+conj
+pp
+verb
+verb
+pron
+pp
+pp
 275694	np
-pp
-np
-np
-np
-np
-275701	np
 conj
+verb
 conj
-np
-np
-verb
-np
-np
-verb
 verb
 pp
-adv
-275716	noun
+np
 conj
+verb
+noun
+verb
+pp
 pron
 verb
-verb
-np
 np
 conj
 verb
-pp
-noun
-pp
-noun
-pp
-noun
 verb
+np
+verb
+pron
+np
+np
+verb
+pp
+np
+np
+pp
+np
+np
+pp
 adj
-pp
-275735	noun
-verb
-verb
-pp
-verb
-conj
 pron
+np
+conj
 adj
-pp
-noun
-conj
-verb
-pp
-np
-275750	pron
-verb
-pp
-pp
-verb
 verb
 conj
-275758	np
-np
-np
-275762	np
-np
-pron
+adj
 verb
-verb
-pron
 np
-pp
-np
-np
-pron
-np
-verb
 adv
 conj
 verb
-np
-np
-pp
-np
-np
-np
-adj
-pron
 verb
-conj
-adj
-pron
-verb
-adv
-pron
-verb
-275795	np
-conj
-pron
-verb
-conj
-verb
-pron
-conj
-275804	pp
-np
-verb
-conj
-verb
-np
-np
-conj
-verb
-pp
-np
-275816	verb
-pron
-np
-pp
-np
-np
-conj
-verb
-pp
-np
-np
-np
-np
-pron
-np
-pp
-np
-np
-np
-ptcl
-verb
-275838	conj
-conj
-np
-np
 noun
-verb
-pp
-noun
-conj
-verb
-pp
-verb
-verb
-pp
-verb
-verb
-pron
-275856	conj
-conj
-conj
-conj
-np
-np
-np
 pp
 np
-np
-np
-pp
-275870	np
-np
-conj
-275874	pp
-275876	np
-np
-conj
-np
-275881	np
-pp
-pp
-np
-275886	np
-pron
-verb
-np
-np
-pp
-np
-verb
-conj
-np
-np
-np
-pp
-275900	pron
-verb
-pron
-pp
-np
-np
-275907	np
-275909	np
-np
-pp
-np
-275914	conj
-pp
-275918	conj
-275921	np
-np
-275924	pp
-verb
-pron
-pp
-conj
-275930	verb
-verb
-conj
-275935	verb
-pp
-adj
-conj
-pron
-pron
-verb
-conj
-pron
-verb
-275946	np
-np
-np
-np
-verb
-pp
-np
-conj
-verb
-conj
-np
-adjp
-verb
-pp
-conj
-np
-275963	adjp
-adjp
-adjp
 adv
+np
+verb
+verb
+pron
+pron
+np
+np
+np
+np
+np
+np
+np
+conj
+verb
+np
+verb
+275760	np
+np
+np
+conj
+verb
 noun
 adjp
-conj
-275971	verb
 np
-np
-pp
-np
-np
-conj
-verb
-conj
-verb
-pp
-275983	np
-verb
-conj
-verb
-verb
-verb
-conj
 adj
-275996	conj
+conj
+verb
+275772	conj
+verb
 np
 np
 pp
 np
-pron
-verb
-verb
-pron
 np
 verb
 verb
+pp
+np
+conj
+conj
+conj
+verb
+np
+np
+np
+np
+np
+pp
+np
+verb
+adv
+adv
+275798	np
+verb
+275801	np
+pp
+np
+conj
+np
+pp
+np
+275810	np
+conj
+275813	np
+conj
+np
+conj
 pron
+verb
+conj
+verb
+np
+adj
+conj
+adv
+verb
+verb
+conj
+np
+np
+np
+conj
+np
+verb
+np
+conj
+275837	np
+verb
+np
+np
+conj
+np
+verb
+conj
+verb
 adv
 verb
 pp
-np
-verb
-276015	np
-pp
-np
-np
-noun
-adv
-276022	np
-np
-np
-np
-verb
-adj
-pp
-np
-verb
+275850	verb
 pron
+np
+np
+np
+conj
+verb
+275858	conj
+verb
+np
+np
+pp
+verb
 adv
 conj
 verb
-pp
 np
+pp
 adv
 verb
-276040	np
-conj
-np
-np
-verb
-np
-adj
-adj
-np
-np
-conj
-verb
-conj
-adj
-adj
-conj
-verb
-np
-276059	conj
-np
-conj
-np
-noun
-verb
-verb
-np
-conj
-verb
-276070	verb
-conj
-conj
-adjp
-pp
-np
-np
-pron
-conj
-verb
-pron
-verb
-np
-np
 verb
 noun
-276087	verb
-verb
-276090	np
-np
-np
-276094	noun
-adv
 pp
-276098	adjp
-adv
 np
 verb
 conj
-verb
-np
-276106	verb
-verb
-np
-np
+275878	conj
+adj
 conj
-adv
-np
-np
-np
-verb
-np
-adv
-verb
-verb
-276122	pp
-pron
-verb
+pp
 np
 np
 pp
-np
-276130	np
-np
+verb
 conj
-np
-pp
-verb
-np
-verb
-verb
-pp
-276142	noun
-np
-verb
 pp
 adj
+np
+conj
 verb
-276149	adv
-verb
+noun
+conj
+adv
 adv
 verb
+adv
 conj
-np
-np
-verb
-conj
-276159	np
-np
-np
-276163	np
-verb
-pp
-verb
-conj
-np
-np
-np
-adjp
-np
-verb
-pron
-conj
-verb
-276178	np
-conj
-np
-np
-276183	conj
-conj
-verb
-pp
-np
-np
-verb
-np
-276192	np
-conj
-np
-np
-np
-276199	np
-276201	np
-276203	conj
-276205	pron
-verb
-pron
-pp
-conj
-276211	verb
-pron
-pp
-np
-conj
-verb
-pron
-276219	np
-np
-np
-pron
-verb
-conj
-276226	conj
-pp
-np
-adj
-pron
-verb
-verb
-pron
-276236	verb
-verb
-pp
-np
-np
-adj
-verb
-adj
-verb
-adj
-verb
 adj
 np
 verb
+275903	np
+np
+conj
+np
+pron
+verb
+pp
+np
+np
+275913	np
+conj
+verb
+conj
+np
+np
+np
+verb
+pp
+np
+np
+np
+pp
+conj
+275928	adv
+adj
+verb
+np
+conj
+pp
+275935	conj
+verb
+np
+np
+conj
+verb
+np
+conj
 pp
 np
 verb
+verb
+verb
+pp
+verb
+conj
+verb
+verb
+pron
+conj
+verb
+verb
+pron
 conj
 adv
-np
-276257	verb
-verb
-np
-276261	conj
-pp
-276264	conj
 verb
 verb
-pron
-conj
-conj
 np
-276272	np
-conj
-np
-verb
-np
-276278	np
-276280	pp
-276283	np
-pp
-pron
-verb
-pron
+noun
 conj
 pp
 np
-np
 verb
-pron
-pp
-276296	np
 conj
 np
-276300	np
+np
 pron
+pp
+np
+pp
+adj
+verb
+np
+verb
+np
+np
+np
+np
+np
+np
+np
+verb
+noun
+conj
+pp
+np
+np
+pp
+adj
+verb
+noun
+np
+verb
+verb
+verb
+np
+np
+verb
+pron
+pp
+conj
+np
+np
+verb
+np
+conj
+conj
+conj
 verb
 pp
+np
+np
+np
 adv
-pp
-276308	np
-np
-conj
+276020	pp
 verb
+pp
 np
 np
 noun
 verb
 pp
 np
+276030	np
+conj
+276034	np
 np
+np
+276038	np
+np
+verb
+noun
+verb
+pp
+np
+np
+np
+conj
+verb
+pron
+pron
+np
+pp
+verb
+noun
+276056	adj
+conj
+verb
+np
+adv
+conj
+np
+np
+pron
+verb
+np
+adv
+276071	conj
+np
+conj
+np
+verb
+verb
+conj
+np
+np
+np
+verb
+noun
+pp
+np
+verb
+conj
 adj
+pron
+adj
+276091	verb
+pp
+np
+np
+conj
+conj
+pp
+np
+np
+np
+verb
+noun
+verb
+verb
+np
+pp
+np
+pron
+verb
+np
+np
+conj
+verb
+pp
+np
+np
+276118	conj
+adv
+verb
+pp
+verb
+noun
+conj
+verb
+np
+verb
+pp
+conj
+np
+np
+pp
+np
+verb
+conj
+adv
+conj
+adj
+np
+verb
+verb
+adv
+conj
+verb
+conj
+verb
+conj
+conj
+noun
+verb
+pp
+np
+276154	adj
+verb
+verb
+adv
+conj
+pp
+np
+np
+np
+verb
+conj
+verb
+pron
+noun
+conj
+conj
+conj
+noun
+pp
+np
+np
+verb
 np
 conj
 pp
 verb
 pron
+adv
+noun
+276184	pp
+np
+np
+np
 verb
+conj
+adv
+pp
+np
+np
+verb
+verb
+conj
+np
+pp
+np
+np
+verb
+pp
+conj
+verb
+pron
+np
+verb
+pp
+adj
+verb
+np
+adj
+conj
+conj
+pp
+verb
+np
+np
+pp
+np
+pp
+adj
+noun
+verb
+conj
+adj
+adjp
+verb
+conj
+pp
+np
+np
+verb
+np
+pron
+276237	pp
+np
+np
+verb
+conj
+pp
+np
+np
+verb
+conj
+conj
+pron
+noun
+pp
+np
+pp
+np
+np
+np
+conj
 conj
 verb
 np
+verb
+pp
+np
+np
+276265	conj
+adj
+conj
+verb
+np
+np
+conj
+np
+pp
+verb
+np
+conj
+pp
+adv
+pp
+276281	det
+conj
+conj
+pp
+vp
+noun
+det
+conj
+pp
+pp
+verb
+pp
+verb
+noun
+conj
+adv
+verb
+pron
+noun
+pp
+np
+pp
+np
+np
+np
+verb
+noun
+conj
+np
+conj
+vp
+noun
+pp
+noun
+verb
+verb
+det
+conj
+pp
+verb
+pron
+pp
+np
+adj
+verb
+np
+conj
+adv
+verb
+pp
+np
+verb
+verb
+pp
+np
+adv
+verb
+pp
+verb
+pp
+np
+conj
+pron
+adv
+verb
+np
+276348	verb
+pp
+np
+conj
+adj
+np
+verb
+pron
+adv
+verb
+pp
+noun
+pp
+conj
+np
+adj
+pp
+np
+np
+noun
+verb
+adv
+np
+np
+pron
+conj
+verb
+adv
+pron
+verb
+np
+conj
+noun
+verb
+noun
+verb
+noun
+np
+np
+conj
+276389	np
+np
+pp
+np
+noun
+pp
+np
+verb
+np
+conj
+pp
+verb
+np
+verb
+276404	pron
+verb
+pp
+np
+np
+np
+np
+pp
+np
+np
+276415	np
+conj
+np
+np
+np
+pron
+verb
+276423	np
+np
+np
+conj
+pp
+verb
+276430	conj
+conj
+verb
+conj
+adj
+verb
+np
+pron
+verb
+conj
+conj
+conj
+verb
+pp
+adv
+verb
+noun
+verb
+verb
+pp
+np
+pron
+np
+276454	conj
+verb
+np
+conj
+verb
+noun
+verb
+verb
+np
+verb
+conj
+verb
+verb
+adj
+pp
+276470	np
+verb
+pron
+pp
+np
+adv
+conj
+np
+verb
+pron
+adv
+np
+np
+verb
+pron
+pp
+np
+verb
+conj
+conj
+np
+np
+verb
+adj
+adv
+np
+verb
+verb
+conj
+pron
+verb
+276502	verb
+noun
 verb
 verb
 noun
-pron
+conj
 verb
-276335	conj
+276510	pp
 np
-276338	np
-conj
-conj
-conj
-conj
 np
-verb
-verb
 conj
-276348	conj
-np
 pp
 np
-conj
-verb
-verb
-conj
-276357	np
-conj
-verb
-adj
-276363	conj
-verb
-276366	pp
-conj
-verb
-verb
-pp
-pp
-adv
-conj
-verb
-verb
-276378	np
-conj
-adv
-verb
-conj
-adj
-pron
-verb
-verb
-conj
-np
-np
-np
-verb
-pp
-np
-np
-conj
-adv
-verb
-adj
-verb
-pron
-np
-np
-pp
-verb
-verb
-pron
-pp
-np
-pp
-np
-276413	np
-276415	conj
-276417	np
-276420	np
-np
-conj
-conj
-276425	np
-conj
-276428	np
-np
-conj
-np
-np
-pp
-np
-276436	pron
-conj
-pp
-276441	np
-conj
-276445	verb
 np
 np
 adv
-np
-verb
 pp
-np
-np
-verb
-276456	np
-276458	np
-conj
 np
 pron
 verb
-276464	pp
-276466	np
-conj
+np
+np
+pp
+verb
+pron
+np
+np
+verb
+pron
 pp
 np
-np
 conj
-np
-np
-np
-np
-adj
+pron
+adv
 verb
 pp
 np
 np
-276482	np
-276484	pp
-pp
-276487	np
-conj
+pron
 verb
-conj
-pp
-np
-np
-conj
-np
-np
-np
+pron
 verb
-pp
 noun
 conj
+pron
 np
-np
-pp
-verb
-verb
 pron
 verb
-pp
-np
-adv
-verb
-276514	pron
-verb
-pp
-conj
-276519	adv
-conj
 np
 np
-276524	verb
-pron
 pp
-276528	np
 np
 np
 verb
+noun
+276560	verb
+np
 pp
 np
-276537	np
-adjp
-adjp
-adjp
+np
 conj
-adjp
-conj
-conj
+pp
 np
 verb
 pron
-276549	pron
-verb
-np
-np
-pron
-pron
-verb
-pp
-verb
 conj
+276572	verb
+pron
 pp
+conj
 pron
 verb
-pp
-np
-np
-np
-pp
-conj
-np
-np
-adj
-verb
-verb
-conj
-276575	pp
-conj
-pp
-np
-np
-verb
-conj
-pp
-adv
-conj
-pp
-verb
-pp
-conj
-adj
 pron
-verb
-276593	pp
-conj
-conj
 pp
-np
-276599	adv
-pron
+conj
 advp
-conj
-pron
-276605	conj
-pp
-conj
-pp
-276610	conj
-conj
-pron
 verb
-noun
-276616	verb
-pron
-conj
-pron
-conj
-conj
-276623	pron
-verb
-pron
-conj
-verb
-pron
-pron
-verb
-276632	verb
-np
-np
-276636	pron
-verb
-conj
-adv
-verb
-pron
-conj
-np
-pron
-verb
-ptcl
-noun
-pron
-pron
-verb
-pp
-verb
-np
-np
-pp
-verb
-np
-np
-verb
-pron
-verb
-conj
-pp
-pp
-pron
-verb
-verb
-276669	advp
-conj
-verb
-pron
-noun
-verb
-conj
-conj
-pp
-np
-np
-verb
-pron
-verb
-pron
-276686	np
-np
-np
-pp
-276693	np
-np
-np
-np
-276698	np
-276700	pp
-np
-np
-276704	conj
-adv
-np
-verb
-np
-pp
-np
-pp
-np
-np
-np
-verb
-pron
-pp
-276721	pron
-verb
-np
-pp
-adv
-verb
-np
-pron
-276730	verb
-276732	np
-np
-conj
-np
-np
-np
-verb
-conj
-np
-np
-np
-np
-np
-np
-np
-verb
-verb
-pp
-np
-np
-pp
-pron
 adj
-verb
-np
-pron
-np
-pp
-verb
-np
-conj
-verb
-adv
-np
-276767	np
-verb
-pron
-pron
-adv
-verb
-pron
-conj
-adv
-276777	pron
-verb
-pron
-pp
-conj
-pron
-verb
-pron
-pp
-276787	conj
-conj
-adv
-verb
-np
-pp
-np
-verb
-conj
-verb
-pron
 np
 np
-conj
-pp
-conj
-np
-verb
-verb
-np
-np
-noun
-conj
-np
-np
-np
-276814	pp
-conj
-np
-np
-np
-np
-pp
-np
-np
-np
-conj
-np
-np
-np
-np
-np
-np
-verb
-noun
-conj
-verb
-noun
-pp
-verb
-pron
-276840	np
-np
-np
-np
-pp
-np
-np
-conj
-pron
-pp
-noun
-np
-verb
-conj
-np
-np
-np
-verb
-np
-pron
-verb
-pron
-conj
-verb
 conj
 adj
-conj
-noun
+np
+np
 verb
+verb
+np
 conj
-276871	conj
-noun
+adj
 verb
 pron
-conj
-noun
-adv
-verb
-276880	pron
-conj
-np
-verb
-conj
-np
-np
-adv
-verb
+276598	pp
 pp
 np
 conj
-np
+276603	adj
 verb
-adv
-276896	verb
-pp
+np
 np
 conj
+np
+np
+advp
 verb
-np
-np
-np
-np
-np
+adv
+pp
+verb
 adj
 verb
 np
 np
-pp
+conj
+verb
+conj
 verb
 pp
 verb
+conj
+conj
+np
+np
+276630	np
+np
+np
+conj
+np
+conj
 verb
+np
+pp
+276640	np
+conj
+conj
+np
+conj
+np
+np
+np
+pron
+verb
+adj
+pp
+conj
+np
+np
+np
+276657	verb
+np
+276660	np
+verb
+conj
+np
+np
+np
+np
+verb
+adv
 noun
 pp
+276672	np
+np
+verb
+np
+conj
+276678	np
+np
+verb
+conj
+np
+np
+np
+pp
+conj
+np
+np
+verb
+np
+pp
+adv
 verb
 adv
 verb
+pp
+pron
+conj
+adv
+verb
+pp
+conj
+np
+np
+pp
+verb
+np
+np
+verb
+pp
+conj
+np
+np
+np
+adj
+np
+pp
+pp
 pron
 verb
+pp
+276723	conj
+np
+np
+np
+pron
+verb
+np
+np
+np
+adv
+verb
+np
+np
+np
+adv
+np
+np
+verb
+noun
+pron
+noun
+pp
+276746	np
+verb
+pp
+276750	conj
+conj
+verb
+adv
+verb
+pp
+verb
+verb
+adj
+pp
+conj
+conj
+np
+np
+np
+pp
+np
+verb
+276769	conj
+verb
+np
+np
+np
+verb
+276777	pp
+np
+np
+np
+conj
+adjp
+pron
+verb
+adv
+np
+np
+conj
+pp
+np
+276792	conj
+pp
+conj
+np
+np
+verb
+adv
+pp
+np
+np
+verb
+conj
+conj
+276806	np
+np
+276809	conj
+conj
+np
+verb
+verb
+verb
+pp
+np
+np
+np
+advp
+np
+np
+np
+pron
+pp
+np
+pron
+verb
+adj
+np
+verb
+np
+np
+pp
+np
+pp
+verb
+np
+verb
+conj
+pp
+np
+np
+verb
+conj
+noun
+verb
+pp
+np
+np
+np
+pp
+np
+np
+np
+np
+verb
+verb
+np
+np
+conj
+conj
+noun
+np
+noun
+verb
+verb
+noun
+conj
+pp
+adj
+conj
 ptcl
 adv
 verb
-276926	conj
 conj
-276929	np
+verb
+verb
+conj
+adv
 np
 pp
 verb
 verb
-adj
 conj
 np
-276938	conj
+pp
+np
+pp
+np
+np
 verb
+np
+np
+276895	np
+conj
+np
+pp
+conj
+np
+conj
+276903	np
+conj
+np
+conj
+np
+np
+verb
+verb
+pron
+np
+np
+np
+pron
+verb
+pp
+np
+276920	conj
+np
+conj
+conj
+np
+np
+np
+np
 np
 adv
-pron
 verb
-276945	np
+conj
+adv
+pp
+adj
 verb
-pron
+pp
+np
+conj
+pp
+adv
+verb
 noun
-verb
-verb
-pp
+noun
+conj
+np
+conj
+np
 np
 pp
-verb
-pp
-verb
+np
+pron
 verb
 np
+conj
+np
+np
+adjp
+pp
 276960	conj
-conj
-conj
+pp
+276963	np
+verb
+noun
+np
 np
 conj
-np
-np
 pp
 np
 np
 adv
-conj
-noun
 verb
-276976	np
-verb
+np
+np
+np
 pp
-verb
-verb
+conj
 conj
 adv
-pron
-verb
-276986	pron
-verb
-noun
-conj
 verb
 pron
 conj
 np
-conj
 verb
-pron
-276998	verb
-pron
+pp
 np
 pp
-277003	conj
+pp
+np
+conj
 verb
 pron
+adv
+verb
+pp
+np
+adv
+conj
+adv
+pp
+np
+np
+pp
+np
+np
+pp
+np
+np
+verb
+conj
+pp
+verb
+np
+adv
+verb
+pp
+conj
+noun
+adv
+np
+np
+adv
+verb
+pp
+np
+verb
+pp
+pp
+verb
+pron
+verb
+pp
+277035	np
+conj
+verb
+np
+np
+np
+verb
+np
+np
+np
+np
+np
+pp
+np
+np
+pron
+verb
+pp
+np
+adv
+verb
+verb
+verb
+conj
+verb
+verb
+pp
 adj
 verb
+adv
+np
+verb
+adv
+verb
+conj
 pp
 np
-np
 pp
+adj
+conj
+np
+277077	conj
+verb
+noun
+conj
+verb
+pp
+np
+verb
+277087	conj
+adv
+verb
+noun
 conj
 verb
 pron
+277095	conj
+pp
+adv
+verb
+adv
+verb
+verb
+verb
+pp
+np
+verb
+pp
+verb
+np
+np
 np
 adj
 verb
-adjp
-adv
 conj
-adv
-verb
+277115	conj
+conj
+conj
+pp
+277120	conj
 pron
-np
-verb
-277027	conj
-np
 pp
 verb
-verb
-pp
-np
-np
-np
-277037	conj
-verb
-conj
-np
-pp
-verb
-noun
-verb
-conj
-277047	pp
-np
-conj
-pp
-np
-np
-pp
-verb
-np
-np
-np
-np
-pp
-verb
-277062	conj
-conj
-verb
-conj
-verb
-np
-pp
-pp
-np
 adv
 verb
-noun
-pron
 verb
 verb
 verb
 np
 np
+verb
 np
+conj
 np
+verb
 pp
 np
-verb
-pron
-conj
-277088	adv
-pron
 vp
 pp
+np
+np
+np
+np
+277145	adv
 conj
+np
+conj
+verb
+277151	pp
+verb
+conj
+np
+np
 adv
 verb
-277096	conj
-np
-277099	pron
 pron
-verb
-np
-conj
-conj
-np
-verb
-277108	conj
-np
 adv
 verb
-np
-conj
-277115	pp
-np
 verb
-277119	np
-np
-verb
-np
+noun
 pron
-verb
-np
 conj
-verb
-277129	pron
 np
+pp
+verb
 pp
 np
 verb
-adjp
+pp
+np
+np
+np
 verb
-277137	conj
+conj
+verb
+np
+np
+np
+np
+np
+np
+conj
+verb
+pp
+np
+verb
+verb
+conj
+pron
+np
+np
+np
+np
+pp
+conj
+verb
+pron
+np
+pron
+verb
+pp
+pp
+np
+np
+verb
 noun
 verb
-conj
-np
-verb
-conj
-277145	verb
-pp
-np
-verb
-conj
-np
-verb
-conj
 np
 pp
 np
 pp
+pp
+np
+np
 verb
+pron
+conj
+277221	np
+np
+conj
+np
+np
+advp
+verb
+adv
+conj
+conj
+np
+adv
+np
+pp
+277236	verb
+conj
+noun
+np
+pp
 np
 np
 np
 pp
+np
+np
+pron
+verb
+pron
+np
+conj
+verb
+pp
+np
+pron
+verb
+np
+np
+conj
+np
+pp
+np
+np
+np
+verb
+pp
+np
+pp
+np
+277271	verb
+np
+pp
+np
+conj
+verb
+np
+np
+verb
+np
+np
+np
+adj
+adj
+conj
+verb
+conj
+verb
+pron
+pp
+np
+277293	conj
+np
+277296	verb
+np
+np
+conj
+noun
 pron
 conj
 verb
+np
+adv
 pron
 verb
 verb
+np
+adv
+conj
 verb
+pron
+pp
+verb
+np
+np
+np
+adv
+pp
+verb
+noun
+277324	np
+conj
+np
+np
+conj
+np
+np
+verb
+verb
+np
+verb
+pron
+np
+pp
+pp
+np
+conj
+verb
+pron
+verb
+np
+verb
+np
+np
+np
 verb
 conj
-277172	np
-np
-np
-verb
-277177	np
-np
-277180	conj
 np
 np
 np
 adj
 verb
+pp
+verb
+conj
+np
+np
+np
+verb
+verb
+conj
+verb
+pron
+noun
+pron
+verb
+conj
+adv
+verb
+noun
+np
+np
+adj
+verb
+pp
+np
+np
+verb
+verb
+conj
+np
+np
+pp
+verb
+np
+np
+verb
+277392	pron
+conj
+277395	conj
+conj
 verb
 pron
 conj
 np
+adv
+verb
+verb
+np
+conj
+np
+verb
+conj
+np
+np
+np
+np
+verb
+pp
+verb
+verb
+verb
+pron
+np
+conj
+verb
+adv
+verb
+conj
+np
+np
+pron
+verb
+np
+np
+conj
+verb
+conj
+np
+np
+np
+verb
+verb
+np
+adv
+conj
+np
+277444	verb
+verb
+conj
+adv
+verb
+np
+conj
+np
+pp
+verb
+conj
+conj
+verb
+adv
+verb
+np
+np
+pp
+pron
+conj
+277465	verb
+np
+pp
+conj
+np
 pp
 np
+verb
+conj
+noun
+277476	np
+verb
+np
+np
+adv
+verb
+pp
+conj
+verb
+np
+noun
+verb
+verb
+np
+np
+pp
+adv
+pp
+verb
+verb
+verb
+noun
+np
+np
+noun
+pp
+verb
+np
+pp
+verb
+verb
+adj
+verb
+pp
 np
 np
 np
 conj
-pron
 pp
 verb
-pp
-np
+adv
 verb
-np
+noun
+noun
 verb
-pron
-np
+adv
+verb
+noun
+conj
+adv
+verb
 conj
 verb
+pron
+np
+pp
+conj
+np
+verb
+verb
+np
 pp
 conj
 adj
 verb
+verb
+conj
+verb
+verb
+np
+conj
+verb
+conj
+verb
+pron
 noun
-conj
-noun
-conj
-adj
-pp
-np
-np
-np
-pp
-conj
-pp
-np
 verb
 noun
-conj
-pp
-conj
-pp
-np
-np
-277234	np
 verb
-pron
-conj
-277239	np
-conj
-np
-np
-np
-pp
-adj
-verb
-conj
-conj
-verb
-np
-np
-np
-277254	adv
-conj
-np
-np
-verb
-277260	adv
-verb
-np
-np
-conj
-pp
-np
-pp
-np
-np
-np
-pp
-277273	np
-adv
-verb
-np
-np
-pp
-conj
-verb
-np
-np
-np
-conj
-verb
-np
-np
-conj
-277290	verb
-277292	adv
-verb
-np
-pron
-conj
-adv
-verb
-np
-np
-conj
-verb
-pp
-np
-np
-conj
-verb
-pp
-np
-np
-277312	verb
 noun
-ptcl
+pp
 adv
 verb
+verb
+verb
+noun
 pp
 np
 np
 np
 pp
 verb
-pp
 np
-verb
-conj
-verb
-pron
-pp
-np
-pp
-pron
-np
-verb
-conj
-adv
-verb
-np
-pp
-np
-np
-277343	np
-conj
-np
-verb
 conj
 np
 np
 np
 pp
-adj
 verb
-pp
+noun
 verb
-277357	adv
-conj
-np
-np
-verb
-277363	adv
-verb
-np
-np
-conj
-pp
-np
-pron
-conj
+noun
 verb
 verb
-conj
-np
-verb
-pp
 pp
 pron
-conj
 verb
-np
-277384	verb
-np
-np
 verb
 pp
-np
-pron
 conj
 verb
 adv
 verb
-pp
-np
-np
-conj
-adv
-verb
-conj
-verb
-conj
-adv
-verb
-verb
-pp
-verb
-conj
-ptcl
 adv
 verb
 noun
@@ -259062,4462 +261181,4499 @@ verb
 pp
 np
 np
-verb
-np
-pp
-verb
-adv
-conj
-vp
-conj
-pron
-conj
-adv
-verb
-np
-np
-np
-pron
-adv
-verb
-np
-verb
-277439	verb
-conj
-pp
-np
-verb
-conj
-verb
-conj
-verb
-pp
-np
-np
-conj
-verb
-pp
-np
-np
-conj
-np
-pp
-np
-verb
-verb
-conj
-adv
-pp
-np
-adv
-conj
-verb
-np
-pp
-np
-np
-np
-pp
-np
-np
-np
-conj
-pp
-adv
-conj
-verb
-pp
-np
-np
-277487	conj
-conj
-277490	verb
-pron
-verb
 pp
 conj
-adj
-verb
-adv
-verb
-pp
-adv
-277502	np
-verb
 pp
 verb
 pp
+277603	conj
 np
+np
+np
+np
+np
+verb
 conj
-verb
-277511	adv
-conj
+np
 np
 np
 verb
-adv
-verb
 np
+277617	conj
 np
-277521	conj
-conj
-pron
-noun
-verb
-adv
-pp
-np
-verb
-pp
-conj
-verb
 noun
 np
 np
-np
-277538	conj
-verb
-pp
-np
-np
-np
-verb
-pp
-np
-np
-conj
-pp
-np
-np
-277553	verb
-conj
-verb
-pp
-np
-np
-conj
-adv
-pp
-np
-np
-pron
-np
-verb
-np
-277569	verb
-conj
-np
-np
-np
-conj
-conj
-adjp
-pp
-np
-np
-verb
-pp
-np
-277585	conj
-conj
-conj
-conj
-adjp
-np
-277592	conj
-conj
-adv
-verb
-noun
-adj
-pp
-adj
-conj
-277602	conj
-verb
-np
-np
-277607	pp
-pron
-np
-verb
-conj
-277613	np
-np
-verb
-np
-277618	np
-np
-np
-verb
-np
-np
-conj
-verb
-adv
-verb
-verb
-np
-np
-verb
-conj
-pp
-pp
-pp
-verb
-conj
-pp
-np
-np
-np
-conj
-277644	verb
-noun
-conj
-noun
-verb
-pp
-np
-np
-conj
-np
-pp
-verb
-pp
-verb
-np
-pp
-np
-conj
-verb
-277664	conj
-conj
-pp
-verb
-verb
-277670	conj
-conj
-277673	np
-verb
-noun
-conj
-pp
-verb
-conj
-pp
-np
-adv
-pp
-pp
-verb
-pp
-conj
-277689	pron
-pron
-verb
-np
-conj
-verb
-pp
-np
-conj
-np
-adv
-np
-np
-adv
-pron
-verb
-verb
-noun
-conj
-277709	verb
-pp
-277712	np
-verb
-pron
-pron
-adv
-verb
-pron
-conj
-pp
-pp
-verb
-pron
 noun
 pp
 np
-pp
-np
-np
-pron
-277732	pp
-np
-np
-np
-np
-277738	conj
-conj
-pp
-verb
-verb
-pron
-pp
-pp
-277747	np
-conj
-verb
-conj
 verb
 pp
-np
-conj
-verb
-noun
-verb
 pp
-pron
-verb
-np
-conj
-verb
-verb
-np
-verb
-pron
-np
-np
-verb
-pp
-np
-np
-pp
-np
-np
-pp
-adj
-pron
 np
 conj
 adj
 verb
+verb
+conj
+pp
+pp
+277637	verb
+np
+conj
+verb
+277642	conj
+np
+np
+np
+np
+conj
+conj
+277650	np
+np
+pp
+np
+np
+np
+np
+pp
+verb
+np
+277661	verb
+np
+conj
+277665	adv
+pron
+277668	conj
+conj
+verb
+conj
+277673	conj
+verb
+pp
+np
+conj
+pron
+verb
+verb
+conj
+noun
+verb
+conj
+conj
+conj
+verb
+pp
+verb
+verb
+noun
+verb
+adv
+conj
+verb
+pron
+verb
+adj
+conj
+adv
+verb
+pron
+np
+np
+verb
+verb
+conj
+pron
+noun
+noun
+verb
+noun
+np
+verb
+conj
+np
+verb
+np
+verb
+pp
+verb
+conj
+pp
+verb
+pron
+noun
+verb
+conj
+pp
+pp
+verb
+adj
+np
+pron
+pp
+pp
+verb
+noun
+pp
+pp
+verb
+verb
+noun
+277745	np
+conj
+np
+noun
+noun
+verb
+np
+np
+np
+verb
+conj
+verb
+pp
+np
+np
+np
+np
+noun
+noun
+verb
+pp
+np
+np
+np
+np
+verb
+conj
+pp
+np
+np
+verb
+noun
+noun
+verb
+verb
+adj
+pp
+np
+np
+conj
+277786	verb
+adj
+np
+conj
+adv
+verb
+np
+np
+np
+noun
+noun
+adj
+verb
+verb
+verb
+np
+np
+277804	adv
+verb
+verb
+np
+np
+np
 conj
 adj
 verb
 np
-adv
+np
+verb
+np
+np
+np
+np
+np
+verb
 conj
+pp
+np
+noun
+verb
+noun
+adv
+verb
+np
+np
+np
+np
+conj
+conj
+verb
+verb
+noun
+verb
+277841	np
+conj
+np
+np
+np
+conj
+adv
+verb
+np
+verb
+pron
+noun
+verb
+np
+np
+pp
+conj
+pp
+np
+np
+verb
+np
+verb
+noun
+np
+np
+verb
+verb
+pp
+np
+noun
+277873	np
+adv
+verb
+verb
+verb
+np
+pp
+conj
+pron
+adv
+verb
+verb
+pron
+conj
+verb
+np
+pp
+277892	conj
+conj
+conj
+np
+pron
+pp
+verb
+noun
+verb
+noun
+verb
+noun
+verb
+np
+verb
+np
+verb
+np
+verb
+pp
+verb
+adj
+pp
+np
 verb
 verb
 noun
 pp
 np
+np
+adj
+conj
+verb
 adv
+verb
+np
+conj
+np
+verb
+adj
+conj
+np
+277935	conj
+verb
+np
+conj
+277940	conj
+verb
+verb
+verb
+pp
 np
 verb
 verb
+277949	pp
+pp
+np
+verb
+verb
+verb
 pron
-pron
+adv
+verb
+adj
 np
-np
-np
-np
+pp
+verb
+conj
+conj
+conj
 np
 np
 np
 conj
+np
+verb
+pp
+np
+adv
+verb
+np
+np
+pp
+np
+verb
+conj
+adv
+pp
+verb
+conj
+np
+np
 verb
 np
 verb
-277813	np
+pron
+np
+277993	np
+verb
+conj
 np
 np
+pp
+verb
+np
+np
+verb
+pron
+verb
+pp
+278007	np
+np
+np
+278011	conj
+pron
+pp
+np
+np
+verb
+pron
+verb
+noun
+noun
+verb
+pp
+np
+conj
+np
+np
+np
+verb
+verb
+conj
+np
+verb
+np
+pp
+np
+np
+pp
+conj
+adv
+verb
+np
+np
+verb
+adv
+pp
+verb
+pp
+np
+verb
+conj
+verb
+np
+pron
+pron
+conj
+noun
+verb
+np
+adv
+verb
+np
+conj
+verb
+pp
+verb
+pron
 conj
 verb
 noun
-adjp
-np
-adj
-conj
-verb
-277825	conj
-verb
-np
-np
-pp
-np
-np
 verb
 verb
-pp
-np
-conj
-conj
-conj
-verb
-np
-np
-np
-np
-np
-pp
-np
-verb
-adv
-adv
-277851	np
-verb
-277854	np
-pp
-np
 conj
 np
-pp
-np
-277863	np
-conj
-277866	np
-conj
-np
-conj
 pron
 verb
-conj
-verb
-np
-adj
-conj
-adv
-verb
-verb
-conj
-np
-np
-np
-conj
-np
-verb
-np
-conj
-277890	np
-verb
-np
-np
-conj
-np
-verb
-conj
-verb
-adv
-verb
-pp
-277903	verb
-pron
-np
-np
-np
-conj
-verb
-277911	conj
-verb
-np
-np
 pp
 verb
-adv
 conj
-verb
-np
-277922	pp
-adv
-verb
-verb
 noun
-pp
-np
+pron
 verb
-conj
-277932	conj
-adj
-conj
-pp
 np
-np
-pp
-verb
+pron
 conj
-pp
-adj
-np
-conj
+pron
+adv
 verb
 noun
 conj
-adv
-adv
-verb
-adv
 conj
+pp
+verb
+np
+verb
 adj
-np
-verb
-277957	np
-np
 conj
-np
-277962	pron
-verb
-pp
-np
-np
-277968	np
-conj
-verb
-conj
-np
-np
+278098	conj
 np
 verb
-pp
-np
-np
-np
-pp
-conj
-277983	adv
-adj
-verb
-np
-conj
-pp
-277990	conj
-verb
-np
-np
-conj
-verb
-np
-conj
-pp
-np
-verb
-verb
-verb
-pp
-verb
-conj
-verb
-verb
-pron
-conj
-verb
-verb
-pron
-conj
 adv
-verb
-verb
 np
+conj
+np
+np
+np
+verb
 noun
 conj
+verb
+adv
+advp
+verb
+np
+np
+np
+conj
+verb
+det
+conj
+conj
 pp
+np
+pp
+verb
+pron
+verb
+det
+conj
+pp
+verb
+pp
+verb
+np
+np
+np
+conj
+278139	pp
+conj
+verb
+278143	verb
+noun
+verb
+conj
+noun
+adj
+conj
+np
+np
+pp
+verb
+verb
+conj
+278157	np
 np
 verb
 conj
 np
 np
-pron
+verb
+verb
+conj
+np
+verb
+np
+np
+conj
+278172	adv
+np
+verb
+verb
+conj
+adv
+278179	verb
 pp
+conj
 np
 pp
 adj
 verb
 np
 verb
-np
-np
-np
-np
-np
-np
-np
-verb
-noun
 conj
-pp
-278046	np
-np
-pp
-adj
-verb
-noun
-np
-verb
-verb
-verb
-278057	np
-np
-verb
-pron
-pp
-conj
-np
-np
-verb
-np
-conj
-conj
-conj
-verb
-pp
-278073	np
-np
-np
-adv
-278078	pp
-verb
-pp
-np
-np
-noun
-verb
-pp
-np
-278089	np
-conj
-278093	np
-np
-np
-278097	np
-np
-verb
-noun
-verb
-pp
-np
-np
-np
-conj
-verb
-pron
-pron
-np
-pp
-verb
-noun
-278115	adj
-conj
-verb
-np
-adv
-conj
-np
-278123	np
 pron
 verb
+pp
+np
+np
+np
+conj
+np
 np
 adv
-278131	conj
-np
-conj
-np
 verb
 verb
-conj
-np
-np
-np
-verb
-noun
-pp
-np
-verb
-conj
-adj
-278149	pron
-adj
-278152	verb
-pp
-np
-np
-conj
 conj
 pp
-np
-np
-np
 verb
-noun
-verb
-verb
-278167	np
-pp
 np
+conj
 pron
-verb
-np
-np
-conj
-verb
-pp
-np
-np
-278180	conj
-adv
-verb
-pp
-verb
-noun
-conj
-verb
-np
-verb
-pp
-conj
-np
+278208	conj
 np
 pp
-np
-verb
 conj
-adv
-conj
-adj
-np
-verb
-verb
-adv
-conj
-verb
-conj
-verb
-conj
-278212	conj
-noun
-verb
-pp
-np
-278218	adj
-verb
-verb
-adv
-conj
-pp
-np
-np
-np
-verb
-conj
-verb
 pron
-noun
-278233	conj
-conj
-conj
-278237	noun
 pp
-np
 np
 verb
 np
+np
+verb
+conj
+conj
+adv
+adv
+verb
+verb
+np
+verb
+np
+conj
+adv
+verb
 conj
 pp
 verb
 pron
 adv
+conj
+verb
+278239	verb
+conj
+np
+verb
+conj
+conj
+conj
+conj
+np
+conj
+np
+pron
+verb
+verb
+adv
+verb
+pron
 noun
-278250	pp
-np
-np
+adv
+verb
+conj
+verb
+noun
+verb
 np
 verb
 conj
 adv
-pp
-np
-np
-verb
-278262	verb
-conj
-np
-pp
-np
-np
-verb
-pp
-conj
-verb
-pron
-np
-verb
-pp
 adj
 verb
-np
-adj
-conj
-conj
-pp
 verb
-np
-np
-pp
-np
-pp
-adj
 noun
 verb
+278273	verb
 conj
-adj
-adjp
+conj
 verb
+278279	conj
+278281	np
+np
+verb
+np
 conj
+278287	np
+conj
+np
+np
+verb
 pp
+conj
+278295	np
+conj
 np
 np
 verb
+conj
 278302	np
-pron
-278305	pp
-np
-np
-verb
-conj
-pp
-np
-np
-verb
-conj
-conj
-pron
-noun
-pp
-np
-pp
-np
-np
 np
 conj
-conj
-verb
-np
-verb
-pp
 np
 np
-278333	conj
 adj
+verb
+pp
+np
+verb
 conj
+verb
+verb
+conj
+conj
+np
+adv
+verb
+pp
+verb
+verb
+advp
+278325	np
+pp
 verb
 np
 np
+np
+verb
+adv
+adv
 conj
+verb
+verb
+advp
+pron
+verb
 278341	np
-pp
-verb
 np
 conj
-pp
-adv
-pp
-278350	det
-conj
-conj
-pp
-vp
-noun
-det
-conj
-pp
-pp
-verb
-pp
-278363	verb
-noun
-conj
-adv
-verb
-pron
-noun
-pp
 np
-pp
-np
-np
-np
-verb
-noun
-conj
-np
-conj
-vp
-noun
-pp
-noun
-verb
-verb
-det
-conj
-pp
-verb
-pron
-pp
-np
-adj
-verb
-np
-conj
-adv
-verb
-pp
-np
-verb
-verb
-pp
-np
-adv
-verb
-pp
-verb
-pp
-278413	np
-conj
-pron
-adv
-verb
-np
-278420	verb
-pp
-np
-conj
-adj
-np
-verb
-pron
-adv
-verb
-pp
-noun
-pp
-conj
-np
-278436	adj
-pp
-np
-np
-noun
-verb
-adv
-np
-np
-pron
-conj
-verb
-adv
-pron
-verb
-np
-conj
-noun
-verb
-noun
-verb
-noun
 np
 np
 conj
-278462	np
-np
-pp
-np
-noun
-pp
-np
-verb
-278471	np
-conj
-pp
-verb
-np
-verb
-278479	pron
-verb
-pp
-np
-np
-np
-np
-pp
-np
-np
-278490	np
-conj
-np
-278494	np
-np
-pron
-verb
-278499	np
-np
-np
-conj
-pp
-verb
-278506	conj
-conj
-verb
-conj
-adj
-verb
-278513	np
-pron
-verb
-278517	conj
-conj
-conj
-verb
-pp
-278523	adv
-verb
-noun
-verb
-verb
-pp
-np
-pron
-np
-278533	conj
-verb
-np
-conj
-verb
-noun
-verb
-verb
-np
-verb
-conj
-verb
-verb
-adj
-pp
-278549	np
-verb
-pron
-pp
-np
-adv
-conj
-np
-verb
-pron
-adv
-np
-278562	np
-verb
-pron
-pp
-np
-verb
-conj
-conj
-np
-np
-verb
-adj
-adv
-np
-verb
-verb
-conj
-pron
-verb
-278584	verb
-noun
-verb
-verb
-noun
-conj
-278591	verb
-278593	pp
-np
-np
-conj
-pp
-np
-np
-np
-278602	adv
-pp
-np
-278606	pron
-verb
-np
-np
-pp
-verb
-pron
-np
-np
-verb
-pron
-pp
-np
-conj
-278621	pron
-adv
-verb
-pp
-np
-np
-pron
-verb
-pron
-verb
-noun
-conj
-278634	pron
-np
-278637	pron
-verb
-np
-np
-pp
-np
-np
-verb
-noun
-278648	verb
-np
-pp
-np
-np
-conj
-pp
-np
-verb
-pron
-conj
-278660	verb
-pron
-pp
-conj
-pron
-verb
-pron
-pp
-conj
-278670	advp
-verb
-adj
-np
-np
-conj
-adj
-np
-np
-verb
-verb
-np
-conj
-adj
-verb
-pron
-278687	pp
-pp
-np
-conj
-278692	adj
-verb
-np
-np
-conj
-np
-np
 advp
 verb
+np
+np
+verb
+pp
+conj
+verb
+conj
+verb
 adv
-pp
-verb
-adj
-verb
-np
-np
-conj
 verb
 conj
+np
+verb
 verb
 pp
 verb
-conj
-conj
-np
-np
-278719	np
-np
-np
-conj
-278725	np
-conj
-verb
+adv
 np
 pp
-278731	np
-conj
-conj
+278370	conj
 np
 conj
 np
 np
 np
+verb
+np
+verb
+np
+adv
+verb
+pp
+conj
+verb
 pron
-verb
-adj
-pp
-conj
-np
-np
-np
-278748	verb
-np
-278751	np
-verb
-conj
-278755	np
-np
-np
-np
-verb
-adv
-noun
-pp
-278764	np
-np
-verb
-np
-conj
-278770	np
-np
-verb
-conj
-np
-np
-np
-pp
-conj
-np
-np
-verb
-np
-pp
-adv
-verb
-adv
-verb
-pp
-278791	pron
-conj
-adv
-verb
-pp
-conj
-np
-np
-pp
-verb
-np
-np
-verb
-pp
-conj
-np
-np
-np
-adj
-np
-pp
-pp
-278814	pron
-verb
-pp
-278818	conj
-np
-np
-np
-pron
-verb
-np
-np
-np
-adv
-verb
-np
-np
-np
-adv
-np
-np
 verb
 noun
-pron
-noun
-pp
-278841	np
 verb
-pp
-278845	conj
+np
 conj
 verb
-adv
+verb
+conj
+np
 verb
 pp
-verb
-verb
 adj
-pp
-conj
-conj
-np
-np
 np
 pp
-np
-verb
-278864	conj
-verb
-np
-np
-np
-verb
-278872	pp
-np
-278875	np
-np
 conj
-adjp
+np
+adj
+278404	conj
+conj
+verb
+np
+adj
+np
+verb
+verb
+pron
+conj
+verb
+278416	advp
 pron
 verb
-adv
-np
-np
 conj
-pp
-np
-278888	conj
-pp
-conj
-np
-np
-verb
-adv
-pp
-np
-np
-verb
-conj
-conj
-278902	np
-np
-278905	conj
-conj
-np
-verb
-verb
-verb
-pp
-np
-np
-np
 advp
+pron
+verb
+conj
+verb
+pron
+verb
+noun
+pron
+noun
+adv
+verb
+pron
+verb
+pron
+noun
+verb
 np
 np
-278919	np
+verb
+pron
+verb
+pron
+np
+np
+np
+np
+verb
+np
+np
+np
+verb
+np
+278456	conj
+np
+conj
+pp
+np
+np
+conj
+adv
+verb
+adj
+conj
+noun
+verb
+np
+np
+pp
+adv
+verb
+verb
+verb
+pp
+verb
+adv
+verb
+noun
+np
+verb
+np
+np
+conj
+verb
+np
+pp
+pp
+np
+pp
+np
+np
+np
+verb
+pp
+np
+conj
+np
+conj
+verb
+pp
+np
+np
+np
+pp
+np
+verb
+conj
+verb
+pp
+pp
+np
+np
+np
+verb
+278518	conj
+verb
+adv
+np
+verb
+conj
+verb
+verb
+pp
+conj
+verb
+np
+pp
+np
+pron
+verb
+np
+np
+verb
+np
+np
+np
+conj
+278542	conj
+adv
+verb
+np
+conj
+verb
+np
+verb
+np
+np
+verb
+conj
+verb
+pron
+conj
+verb
+pp
+np
+np
+conj
+noun
+verb
+conj
+278566	pp
+pron
+verb
+conj
+adv
+verb
+adj
+conj
+pron
+pron
+verb
+pp
+verb
+conj
+conj
+np
+verb
+pp
+adv
+verb
+verb
+adv
+conj
+verb
+pron
+verb
+conj
+adj
+verb
+pron
+278597	np
+conj
+np
+np
+verb
+pp
+278604	np
+np
+np
+np
+np
+pp
+np
+np
+278613	np
+np
+verb
 pron
 pp
 np
-pron
-verb
-adj
-np
-verb
-np
-np
-pp
-np
 pp
 verb
 np
-verb
-conj
-pp
 np
-np
-verb
-conj
-278943	noun
 verb
 pp
 np
-np
+pp
+pp
+278629	pron
 np
 pp
 np
 np
 np
-np
-verb
-verb
-np
-np
-conj
-conj
-noun
-np
-noun
-verb
-verb
-noun
-conj
-pp
-adj
-conj
 ptcl
+verb
+conj
+pron
+noun
+verb
+np
+np
+np
+pp
+conj
+pp
+verb
+pron
+verb
+278651	np
+np
+verb
+pp
+conj
+adj
+verb
+verb
+pron
+verb
+278662	np
+np
+np
+verb
+conj
+np
+np
+verb
+pron
+np
+pp
+np
+np
+pp
+np
+278678	np
+278680	conj
+278683	np
+278685	np
+np
+pp
+np
+verb
+np
+verb
+np
+conj
+np
+verb
+verb
+conj
+np
+np
+np
+np
+verb
+noun
+np
+conj
+np
+verb
+conj
+verb
+278711	conj
+pp
+verb
+conj
+conj
+np
+verb
+noun
+verb
+pp
+np
+np
+verb
+adj
+adv
+conj
 adv
 verb
 conj
 verb
+pron
 verb
 conj
+pp
+adj
+verb
+conj
+verb
+verb
+np
+np
+verb
+conj
+verb
+adv
+conj
+verb
+np
+np
+conj
+verb
+pron
+pp
+np
+np
+adj
+pp
+np
+np
+np
+verb
+conj
+np
+np
+np
+pp
+np
+np
+np
+conj
+pp
+np
+np
+conj
+conj
+np
+verb
+278779	verb
+conj
+np
+pp
+np
+conj
+verb
+np
+conj
+278789	np
+np
+verb
+conj
+np
+np
+np
+np
+verb
 adv
 np
-pp
-verb
-verb
-conj
-np
-pp
 np
 pp
 np
 np
 verb
-np
-np
-278993	np
+adj
+pron
+verb
+noun
 conj
+adj
+verb
+verb
+np
+np
+np
+pron
+verb
+verb
+pron
+adj
+verb
+verb
+conj
+pp
+verb
+np
+conj
+adj
+verb
+adj
+verb
+conj
+pron
+adj
+adj
+conj
+verb
+pp
+np
+np
+278842	conj
+adv
+np
+verb
+verb
+noun
+np
+conj
+verb
+verb
+noun
+adv
+verb
+np
+np
+278858	np
+np
+conj
+np
+np
+adv
+verb
+verb
+pp
+np
+np
 np
 pp
-conj
-np
-conj
-279001	np
-conj
-np
-conj
-np
+adv
+verb
+278874	conj
 np
 verb
 verb
 pron
 np
-np
-np
-279014	pron
+pp
 verb
+pron
+np
+np
+np
+np
+verb
+np
+np
+verb
+conj
+np
+adj
+pp
+verb
+adj
+pp
+verb
+adj
 pp
 np
-279019	conj
-np
 conj
-conj
-np
-np
-np
-np
 np
 adv
 verb
+conj
+verb
+np
+278910	conj
+np
+pp
+verb
+278915	np
+np
+verb
+verb
+np
+np
+verb
+conj
+np
+conj
+adv
+noun
+noun
+verb
+pron
+conj
+conj
+278933	pron
+np
+verb
+conj
+adv
+noun
+pron
+verb
+np
+verb
+np
+np
+np
+np
+pp
+278949	verb
+conj
+pron
+conj
+verb
+conj
+adv
+verb
+adj
+verb
+conj
+verb
+pp
+278963	np
+np
+np
+conj
+verb
+278969	np
+verb
+conj
+np
+pron
+adj
+pp
+np
+np
+verb
+conj
+pron
+verb
+adj
+verb
+278985	verb
+np
+conj
+verb
+np
+np
+adj
+np
+np
+np
+conj
+pp
+np
+278999	conj
+verb
+verb
+279003	conj
+pp
+np
+np
+adj
+pron
+verb
+pp
+np
+np
+adv
+pp
+verb
+np
+np
+np
+279020	np
+np
+279023	np
+conj
+conj
+279028	verb
+pp
+np
+np
+np
+pp
+np
+verb
+conj
+np
+np
+pp
+np
+279043	verb
+conj
+pp
+verb
+np
+np
+np
+conj
+verb
+pron
+verb
+adv
+adv
+conj
+np
+verb
+279060	pron
+verb
+adv
+conj
+verb
+pp
+np
+np
+verb
+pp
+conj
+verb
+np
+np
+verb
+np
+np
+np
+verb
+np
+np
+np
+279083	np
+pp
+conj
+np
+np
+pron
+verb
+verb
+pron
+pron
+conj
+verb
+np
+np
+verb
+pron
+conj
+pron
+verb
+pron
+pp
+pron
+verb
+279107	np
+np
+verb
+pp
+conj
+conj
+np
+verb
+pp
+np
+verb
+np
+np
+conj
+pron
+adv
+verb
+conj
+conj
+verb
+noun
+verb
+verb
+pp
+np
+conj
+noun
+pron
+conj
+np
+np
+verb
+verb
+conj
+pp
+verb
+np
+conj
+verb
+adv
+verb
+verb
+adv
+adv
+verb
+conj
+conj
+279155	adv
+verb
+verb
+conj
+verb
+np
+adv
+verb
+conj
+adv
+verb
+conj
+pp
+np
+verb
+verb
+np
+conj
+adj
+adv
+verb
+noun
+verb
+noun
+noun
+pron
+np
+np
+conj
+279185	noun
+verb
+pron
+verb
+noun
+conj
+adv
+verb
+verb
+np
+verb
+pron
+conj
+279201	conj
+adj
+verb
+conj
+verb
+np
+np
+279209	verb
+conj
+np
+pron
+pp
+verb
+pp
+verb
+conj
+verb
+adv
+verb
+conj
+pron
+np
+np
+np
+pron
+np
+adv
+np
+np
+conj
+adv
+verb
+noun
+adj
+verb
+pp
+conj
+verb
+pron
+pron
+noun
+verb
+pron
+noun
+verb
+verb
+pron
+np
+np
+pp
+np
+pron
+pron
+verb
+pp
+np
+np
+np
+pron
+verb
+conj
+adj
+verb
+np
+adv
+verb
+np
+np
+verb
+conj
+verb
+verb
+conj
+verb
+np
+np
+conj
+np
+pp
+np
+adj
+verb
+279285	np
+np
+pp
+verb
+verb
+279291	np
+np
+pp
+np
+verb
+conj
+279298	np
+verb
+np
+np
+conj
+pp
+np
+np
+verb
+conj
+279309	verb
+279311	np
+verb
+279314	verb
+conj
+noun
+np
+conj
+verb
+pron
+pp
+conj
+np
+verb
+verb
+conj
+pp
+verb
+noun
 conj
 adv
 pp
 adj
-verb
+adv
+conj
+np
+279338	np
 pp
+pp
+verb
+279343	verb
 np
 conj
+np
+verb
+conj
+conj
+np
+pp
+adj
+verb
+adv
+adv
+np
+pp
+adj
+verb
+adv
+adj
+noun
+verb
+np
+verb
+conj
+np
+verb
+adj
+conj
+verb
+adj
+conj
+pron
 pp
 adv
 verb
-noun
-noun
-conj
+pron
+np
+np
+verb
+np
+np
 np
 conj
+conj
+np
 np
 np
 pp
 np
+verb
+pp
+verb
 pron
+pron
+np
+np
+np
+np
+verb
+verb
+np
+np
+279406	pron
+verb
+conj
+pp
+np
+verb
+verb
+pp
+np
+conj
+np
+np
+verb
+verb
+adv
+np
+np
+np
+verb
+conj
+adj
+verb
+verb
+np
+np
+verb
+conj
+np
+noun
+np
+np
+np
+np
+verb
+pp
+np
+np
+verb
+np
+np
+conj
+verb
+np
+np
+np
+conj
+verb
+pp
+np
+np
+conj
+np
+conj
+conj
+conj
+conj
+279463	conj
+np
+np
+np
+np
+conj
+np
+verb
+verb
+279473	adjp
+np
+pp
+verb
+np
+279479	conj
+conj
+pp
+verb
+279484	np
+pp
+np
+verb
+pp
+np
+np
+verb
+279493	conj
+adv
+verb
+np
+pron
+adv
+verb
+np
+pp
+np
+np
+verb
+279506	np
+conj
+np
+verb
+np
+noun
+noun
+verb
+conj
+noun
+noun
+conj
+adj
+np
+verb
+pron
+279523	conj
+pp
+verb
+pp
+np
+np
+np
+np
+pp
+np
+conj
+conj
+279536	np
+verb
+conj
+pp
+np
+np
+verb
+conj
+verb
+pp
+np
+279548	verb
+np
+np
+adv
+verb
+conj
+279555	conj
+conj
+279558	conj
+adv
+279561	conj
+np
+np
+np
+conj
+np
+adj
+conj
+adj
+verb
+adv
+279573	adjp
+279575	conj
+np
+np
+conj
+pp
+verb
+verb
+noun
+adv
+noun
+conj
+adv
+noun
+pp
+pp
+pp
+279592	np
+np
+verb
+pp
+np
+np
+verb
+conj
+adv
+verb
+279603	verb
+conj
+verb
+conj
+adv
+verb
+verb
+verb
+conj
+verb
+adv
+verb
+pp
+adv
+verb
+pron
+verb
+conj
+adv
+verb
+conj
+adv
+verb
+conj
+pp
+np
+np
+verb
+noun
+verb
+conj
+np
+np
+np
+np
+np
+verb
+pron
+conj
+verb
+np
+verb
+np
+np
+np
+verb
+conj
+verb
+conj
+adv
+np
+verb
+pp
+verb
+np
+pron
+verb
+pp
+np
+conj
+verb
+conj
+verb
+279667	np
+adj
+verb
+adj
+conj
+verb
+noun
+verb
+conj
+np
+279678	verb
+conj
+np
+conj
+verb
+pp
 verb
 np
 conj
+verb
+pron
+verb
+noun
+adj
+conj
+verb
+noun
+adj
+verb
+conj
+verb
+conj
+verb
+np
+np
+pp
+verb
+conj
+np
+pp
+verb
+pp
+conj
+verb
+pron
+adv
+verb
+pron
+noun
+verb
+noun
+conj
+verb
+np
+np
+verb
+noun
+conj
+verb
+noun
+conj
+conj
+noun
+verb
+279733	verb
+np
+conj
+adj
+verb
+279740	conj
+verb
+279743	conj
+pron
+conj
+pron
+verb
+verb
+np
+verb
+adv
+verb
+279755	conj
+verb
+pp
+np
+np
+conj
+279762	verb
+adv
+noun
+conj
+verb
+conj
+verb
+pron
+adv
+verb
+np
+pron
+np
+np
+279777	conj
+verb
+pp
+verb
+advp
+verb
+pp
+verb
+pron
+conj
+np
+verb
+conj
+verb
+conj
+verb
+279794	conj
+adv
+conj
+verb
+pp
+np
+np
+np
+np
+adj
+verb
+verb
+conj
+adj
+verb
+conj
+adv
+verb
+noun
+pron
+verb
+verb
+adv
+np
+verb
+verb
+pp
+279822	np
+np
+verb
+np
+np
+verb
+conj
+np
+np
+adj
+verb
+279834	np
+np
+conj
+np
+verb
+conj
+279841	np
+np
+pp
+pron
+verb
+conj
+verb
+np
+np
+pp
+conj
+verb
+pp
+np
+verb
+279857	np
+np
+279860	np
+verb
+np
+np
+verb
+pp
+verb
+conj
+np
+np
+verb
+pp
+np
+np
+np
+verb
+verb
+pp
+np
+conj
+verb
+verb
+np
+np
+pp
+np
+279887	np
+adv
+verb
+pron
+verb
+conj
+noun
+pp
+np
+np
+np
+verb
+np
+verb
+np
+np
+np
+np
+verb
+pp
+conj
+verb
+279910	conj
+verb
+np
+verb
+np
+np
+conj
+np
+np
+np
+verb
+adv
+verb
+noun
+pp
+conj
+adv
+verb
+verb
+np
+pp
+np
+verb
+np
+verb
+noun
+279937	np
+conj
+np
+np
+pron
+verb
+pp
+np
+np
+verb
+verb
+verb
+np
+np
+verb
+conj
+np
+np
+verb
+279957	verb
+np
+conj
+pp
+conj
+np
+adv
+verb
+279966	conj
+np
+conj
+np
+conj
+np
+noun
+verb
+conj
+np
+np
+ptcl
+conj
+np
+ptcl
+conj
+adv
+pp
+verb
+verb
+np
+pp
+verb
+verb
+pron
+verb
+verb
+np
+pp
+verb
+np
+np
+np
+conj
+verb
+pp
+verb
+noun
+pp
+np
+np
+np
+conj
+np
+np
+np
+verb
+verb
+conj
+verb
+pron
+np
+conj
+noun
+vp
+verb
+pron
+verb
+conj
+pron
+np
+conj
+verb
+pp
+conj
+verb
+adj
+verb
+np
+verb
+noun
+np
+verb
+adjp
+conj
+280042	noun
+verb
+adv
+verb
+conj
+adv
+verb
+pp
+np
+280052	np
+conj
+np
+conj
+adv
+verb
+conj
+280060	np
+noun
+verb
+conj
+np
+verb
+np
+np
+np
+conj
+280071	np
+pp
+verb
+pp
+np
+conj
+verb
+pron
+pron
+verb
+conj
+verb
+adj
+pp
+np
+np
+verb
+np
+pp
+conj
+verb
+np
+280094	np
+280096	np
+np
+np
+np
+conj
+280102	pp
+np
+280105	pp
+np
+pp
+280109	conj
+np
+np
+280114	pron
+conj
+verb
+adj
+280119	np
+np
+280122	conj
+280124	np
+np
+280127	pp
+np
+np
+np
+verb
+pron
+pp
+np
+verb
+pp
+np
+np
+280140	pp
+pp
+np
+np
+conj
+conj
+verb
+pp
+pp
+280150	pp
+np
+verb
+pp
+pp
+np
+verb
+pp
+np
+pp
+verb
+adj
+adv
+conj
+verb
+verb
+pp
+np
+conj
+np
+np
+np
 np
 np
 adjp
+280176	verb
 pp
-279059	conj
+conj
+verb
+verb
 pp
-279062	np
+conj
+conj
+pp
+np
+280187	pron
+adv
+verb
+verb
+pp
+adv
+adv
+verb
+verb
+conj
+verb
+np
+conj
+verb
+verb
+280203	np
+np
+np
+np
+pp
+np
+280210	conj
+280212	pp
+np
+np
+pp
+verb
+verb
+pp
+280220	conj
+np
+verb
+np
+np
+pp
+np
+verb
+280229	np
+np
+pp
+conj
+np
+np
+pp
+pron
+verb
+conj
+280240	conj
+verb
+pron
+adv
+verb
+pron
+pp
+verb
+pron
+pp
+np
+np
+verb
+pp
+pp
 verb
 noun
-np
-np
+verb
 conj
-pp
-np
-np
-adv
 verb
 np
 np
 np
-pp
-conj
-conj
+np
+verb
 adv
+verb
+pp
+np
+np
 verb
 pron
+pp
+np
+280275	conj
+np
+280278	verb
+np
+np
+pp
+pp
+np
+np
 conj
-np
-verb
 pp
 np
-pp
-pp
 np
-conj
 verb
 pron
-adv
-verb
-pp
 np
-adv
-conj
-adv
-pp
-np
-np
-pp
-np
-np
-pp
-np
-np
-verb
-conj
-pp
-verb
-np
-adv
-verb
-pp
-conj
-noun
-adv
-np
-np
-adv
-verb
-pp
-np
-verb
-pp
-pp
-verb
-pron
-verb
-pp
-279134	np
-conj
-verb
-np
-np
-np
-verb
-np
-np
-np
-np
-np
-pp
-np
-np
-279150	pron
-verb
-pp
-np
-adv
-verb
-verb
-verb
-conj
-verb
-verb
-pp
 adj
-verb
-adv
+pp
 np
-verb
-adv
 verb
 conj
-pp
-np
-pp
-adj
-conj
-np
-279177	conj
 verb
-noun
-conj
-verb
-pp
-np
-verb
-279188	conj
-adv
-verb
-noun
-conj
-verb
-pron
-279196	conj
-pp
-adv
-verb
-adv
-verb
-verb
-verb
-pp
-np
-verb
-pp
-verb
-np
-np
-np
 adj
 verb
 conj
-279216	conj
-conj
-conj
-pp
-279221	conj
 pron
-pp
-verb
-adv
-verb
-verb
-verb
-verb
-np
-np
-verb
-np
+adj
 conj
-np
-verb
-pp
-np
-vp
-pp
-np
-np
-np
-np
-279246	adv
 conj
-np
-conj
-verb
-279252	pp
-verb
-conj
-np
-np
-adv
-verb
-279260	pron
-adv
-verb
-verb
-noun
-pron
-conj
-np
-pp
-verb
-pp
-np
-verb
-pp
-np
-np
-np
-verb
-conj
-verb
-np
-np
-np
-np
-np
-np
-conj
-verb
-pp
-np
-verb
-verb
-conj
-pron
-np
-np
-np
-np
-pp
-conj
-verb
-pron
-np
-279304	pron
-verb
-pp
-pp
-np
-np
-verb
 noun
 verb
+adv
+verb
+pp
+np
+np
+pp
+np
+np
+np
+np
+verb
+verb
+conj
+280321	np
+280323	conj
+verb
+pp
+np
+np
+np
+np
+conj
+np
+conj
+280334	np
+conj
+np
+verb
+conj
+pp
+np
+verb
+conj
+pp
+np
+np
+pp
+280348	np
 np
 pp
 np
 pp
+280354	verb
+pron
+pp
+conj
+noun
+pron
+verb
+conj
+np
+280364	np
+conj
+verb
 pp
 np
 np
 verb
+pp
+np
+np
+np
+pp
+np
+pp
+pron
+verb
+adv
+verb
+280383	pp
+np
+conj
+pp
+np
+np
+verb
+conj
+verb
+conj
+np
+pp
+conj
+conj
+np
+np
+pp
+conj
+np
+280403	verb
+np
+conj
+np
+verb
+np
+conj
+np
+verb
+pp
+np
 pron
 conj
-279324	np
+verb
+280418	np
+verb
+pp
+verb
+conj
+280424	np
+conj
 np
+conj
+conj
+conj
+np
+pp
 conj
 np
 np
+np
+np
+verb
+conj
+pp
+verb
+pp
+conj
+verb
+conj
+adj
+np
+pp
+280449	verb
+np
+np
+verb
+pp
+conj
+verb
+pp
+conj
+adjp
+np
+pp
+conj
+np
+verb
+verb
+np
+pp
+np
+verb
+np
+np
+noun
+pp
+280474	conj
+verb
+pp
+verb
+verb
+pp
+np
+np
+np
+conj
+verb
+pp
 advp
 verb
-adv
-conj
-conj
-np
-adv
-np
-pp
-279339	verb
-conj
-noun
-np
-pp
-np
-np
-np
-pp
-np
-np
-pron
-verb
-pron
-np
-conj
-verb
-pp
-279358	np
-pron
-verb
-np
-np
-conj
-np
-pp
-np
-np
-np
-verb
-pp
-np
-pp
-np
-279375	verb
-np
-pp
-np
-conj
-verb
-np
-np
-verb
-np
-np
-np
-adj
-adj
-conj
-verb
-conj
-verb
-pron
-pp
-np
-279397	conj
-np
-279400	verb
-np
-np
-conj
-noun
-pron
-conj
-verb
-np
-279410	adv
-pron
-verb
-verb
-np
-adv
-conj
-verb
-pron
-pp
-verb
-np
-np
-np
-adv
-pp
-verb
-noun
-279429	np
-conj
-np
-np
-conj
-np
-np
-verb
-verb
-np
-verb
-pron
-np
-pp
-pp
-np
-conj
-verb
-pron
-verb
-np
-verb
-np
-np
-np
-verb
-conj
-279457	np
-np
-np
-adj
-verb
-pp
-verb
-conj
-np
-np
-np
-verb
-verb
-conj
-verb
-279473	pron
-noun
-pron
-verb
-conj
-279479	adv
-verb
-noun
-np
-np
-adj
-verb
-pp
-np
-np
-verb
-verb
-conj
-279493	np
-np
-pp
-verb
-np
-np
-verb
-279501	pron
-conj
-279504	conj
-conj
-verb
-pron
-conj
-np
-adv
-verb
-verb
-np
-conj
-np
-verb
-conj
-np
-np
-np
-np
-verb
-pp
-verb
-verb
-verb
-pron
-np
-conj
-verb
-adv
-verb
-conj
-279535	np
-np
-pron
-verb
-np
-279541	np
-conj
-verb
-conj
-np
-np
-np
-verb
-verb
-np
-adv
-conj
-np
-279555	verb
-verb
-conj
-adv
-verb
-np
-conj
-np
-pp
-verb
-conj
-279567	conj
-verb
-adv
-verb
-np
-np
-pp
-pron
-conj
-279577	verb
-np
-pp
-conj
-np
-pp
-np
-verb
-conj
-noun
-279588	np
-verb
-np
-np
-adv
-verb
-pp
-conj
-verb
-np
-noun
-verb
-verb
-np
-np
-pp
-adv
-pp
-verb
-verb
-verb
-noun
-np
-np
-noun
-pp
-verb
-np
-pp
-verb
-verb
-adj
-verb
-pp
-np
-np
-np
-conj
-pp
-verb
-adv
-verb
-noun
-noun
-verb
-adv
-verb
-noun
-conj
-279638	adv
-verb
-conj
-verb
-pron
-np
-pp
-conj
-np
-verb
-verb
-np
-pp
-conj
-adj
-verb
-verb
-conj
-verb
-verb
-np
-conj
-verb
-conj
-verb
-pron
-noun
-verb
-noun
-verb
-noun
-pp
-adv
-verb
-verb
-verb
-noun
-pp
-np
-np
-np
-pp
-verb
-np
-conj
-np
-np
-np
-pp
-verb
-noun
-verb
-noun
-verb
-verb
-pp
-279695	pron
-verb
-verb
-pp
-conj
-verb
-adv
-verb
-adv
-verb
-noun
-verb
-pp
-np
-np
-pp
-conj
-pp
-verb
-pp
-279717	conj
-np
-np
-np
-np
-np
-verb
-conj
-279726	np
-np
-np
-verb
-np
-279732	conj
-np
-noun
-np
-np
-noun
-pp
-np
-verb
-pp
-pp
-np
-conj
-adj
-verb
-verb
-conj
-pp
-pp
-279752	verb
-np
-conj
-verb
-279757	conj
-np
-np
-np
-np
-conj
-conj
-279765	np
-np
-pp
-np
-np
-np
-np
-pp
-verb
-np
-279776	verb
-np
-conj
-279780	adv
-pron
-279783	conj
-conj
-verb
-conj
-279788	conj
-verb
-pp
-np
-conj
-pron
-verb
-verb
-conj
-noun
-verb
-conj
-conj
-conj
-279803	verb
-pp
-verb
-verb
-noun
-verb
-adv
-conj
-279812	verb
-pron
-verb
-adj
-conj
-adv
-verb
-pron
-np
+280489	conj
 np
 verb
 verb
 conj
 pron
-noun
-noun
-verb
-noun
-np
-verb
-conj
-np
-verb
-279836	np
-verb
-pp
-verb
-conj
-pp
-verb
-pron
-noun
-verb
-conj
-pp
-pp
-verb
-adj
-np
-pron
-pp
-pp
-verb
-noun
-pp
-pp
-verb
-verb
-noun
-279863	np
-conj
-np
-noun
-noun
-verb
-np
-np
-np
-verb
-conj
-verb
-pp
-np
-np
-np
-np
-noun
-noun
-verb
-pp
-np
-np
-np
-np
-verb
-conj
-pp
-np
-np
-verb
-noun
-noun
-verb
-verb
-adj
-pp
-np
-np
-conj
-279904	verb
-adj
-np
-conj
-adv
-verb
-np
-np
-np
-noun
-noun
-adj
-verb
-verb
-verb
-np
-np
-279922	adv
-verb
-verb
-np
-np
-np
-conj
-adj
-verb
-np
-np
-verb
-np
-np
-np
-np
-np
-verb
-conj
-pp
-np
-noun
-verb
-noun
-adv
-verb
-np
-np
-np
-np
-conj
-conj
-verb
-verb
-noun
-verb
-279959	np
-conj
-np
-np
-np
-conj
-adv
-verb
-np
-verb
-pron
-noun
-verb
-np
-np
-pp
-conj
-pp
-np
-np
-verb
-np
-verb
-noun
-np
-np
-verb
-verb
-pp
-np
-noun
-279991	np
-adv
-verb
-verb
-verb
-np
-pp
-conj
-pron
-adv
 verb
 verb
 pron
-conj
 verb
-np
 pp
-280011	conj
+np
 conj
+280503	np
 conj
 np
 pron
-pp
-verb
-noun
-verb
-noun
-verb
-noun
-verb
-np
-verb
-np
 verb
 np
 verb
 pp
-verb
-adj
-pp
-np
-verb
-verb
-noun
-pp
-np
-np
-adj
-conj
-verb
-adv
-verb
-np
-conj
-np
-verb
-adj
-conj
-np
-280054	conj
-verb
-np
-conj
-280059	conj
-verb
-verb
-verb
-pp
-np
-verb
-verb
-280068	pp
-pp
-np
-280072	verb
-verb
-verb
-pron
-adv
-verb
-adj
-np
-pp
-verb
-conj
-conj
-conj
-np
-np
-np
-conj
-280090	np
-verb
-pp
-np
-adv
-verb
-np
-np
-pp
-np
-verb
-conj
-adv
-pp
-verb
-conj
-np
-np
-verb
-np
-verb
-pron
-np
-280114	np
-verb
-conj
-np
-np
-pp
-verb
-np
-np
-verb
-pron
-verb
-pp
-280129	np
-np
-np
-280133	conj
-pron
-pp
-np
-np
-verb
-pron
-verb
-noun
-noun
-verb
-pp
-np
-conj
-np
-np
-np
-verb
-verb
-conj
-np
-verb
-np
-pp
-np
-np
-pp
-conj
-adv
-verb
-np
-np
-verb
-adv
-pp
-verb
-pp
-np
-verb
-conj
-verb
-280175	np
-pron
-pron
-conj
-noun
-verb
-np
-adv
-verb
-np
-conj
-verb
-pp
-verb
-pron
-conj
-verb
-noun
-verb
-verb
-conj
-np
-280198	pron
-verb
-pp
-verb
-conj
-noun
-pron
-verb
-np
-pron
-conj
-280210	pron
-adv
-verb
-noun
-conj
-conj
-pp
-verb
-280219	np
-verb
-adj
-conj
-280224	conj
-np
-verb
-280228	adv
-np
-conj
-np
-np
-np
-verb
-noun
-conj
-verb
-adv
-advp
-verb
-np
-np
-np
-conj
-verb
-det
-conj
-conj
-pp
-np
-pp
-verb
-pron
-verb
-det
-conj
-pp
-verb
-pp
-verb
-np
-np
-np
-conj
-280266	pp
-conj
-verb
-280270	verb
-noun
-verb
-conj
-noun
-adj
-conj
-np
-np
-pp
-verb
-verb
-conj
-280284	np
-np
-verb
-conj
-np
-np
-verb
-verb
-conj
-np
-verb
-np
-np
-conj
-280299	adv
-np
-verb
-verb
-conj
-adv
-280306	verb
-pp
-conj
-280310	np
-pp
-adj
-verb
-np
-verb
-280317	conj
-pron
-verb
-pp
-np
-np
-np
-conj
-np
-np
-adv
-verb
-verb
-conj
-pp
-verb
-np
-conj
-pron
-280337	conj
-np
-pp
-conj
-280342	pron
-pp
-np
-verb
-np
-np
-verb
-conj
-conj
-adv
-adv
-verb
-verb
-np
-verb
-np
-conj
-adv
-verb
-conj
-pp
-verb
-pron
-adv
-conj
-verb
-280369	verb
-conj
-np
-verb
-conj
-conj
-conj
-conj
-np
-conj
-280380	np
-pron
-verb
-verb
 adv
 verb
 pron
-noun
-adv
-verb
 conj
-verb
-280393	noun
-verb
-np
-verb
-conj
-280399	adv
-adj
-verb
-verb
-noun
-verb
-280406	verb
-conj
-conj
-verb
-280412	conj
-280414	np
-np
-verb
-np
-conj
-280420	np
-conj
-np
-np
-verb
-pp
-conj
-280428	np
-conj
-np
-np
-verb
-conj
-280435	np
-np
-conj
-np
-np
-adj
-verb
-pp
-np
-280445	verb
-conj
-verb
-verb
-280450	conj
-conj
-np
-adv
-verb
-pp
-verb
-verb
-advp
-280460	np
-pp
-verb
-np
-np
-np
-verb
-adv
-adv
-conj
-verb
-verb
-advp
-pron
-verb
-280476	np
-np
-conj
-np
-np
-np
-conj
-advp
-verb
-np
-np
-verb
-pp
-conj
-verb
-conj
-verb
-adv
-verb
-conj
-np
-verb
-verb
-280500	pp
-verb
-adv
-np
-pp
-280506	conj
-np
-conj
-np
-np
-np
-verb
-np
-verb
 280516	np
-adv
-verb
+np
+np
+np
 pp
 conj
+np
+np
 verb
+pp
 pron
 verb
+pp
+np
+np
+np
+pron
+adv
+adv
 noun
-280526	verb
-np
-conj
-verb
-verb
+adv
 conj
 np
+det
+adv
 verb
-pp
-280536	adj
-np
-pp
+adv
 conj
-np
+verb
 adj
-280543	conj
+verb
+pp
 conj
+280550	conj
 verb
 np
-adj
 np
-verb
-verb
-280552	pron
-conj
-verb
-280556	advp
 pron
 verb
-conj
-advp
-pron
-verb
-conj
-verb
-pron
-verb
-280568	noun
-pron
-noun
-adv
-verb
-pron
-verb
-pron
-noun
-verb
-280580	np
-np
-verb
-pron
-verb
-pron
-np
-np
-np
-np
-verb
-np
-np
-np
-verb
-np
-280599	conj
-np
-conj
 pp
 np
 np
-conj
-adv
+np
+pp
+np
 verb
 adj
 conj
-noun
+pp
+pron
+verb
+pron
+conj
+adj
+pp
+np
+np
+verb
 verb
 np
+pp
 np
-280615	pp
+verb
+280581	np
+np
+pp
+np
+280586	conj
+np
+pp
+conj
+verb
+conj
+conj
+pp
+verb
+pp
+280597	np
+np
+conj
+conj
 adv
 verb
+np
+np
+np
 verb
 verb
-280621	pp
+np
+np
+np
+np
+conj
+adj
+conj
+280616	conj
+np
+verb
+np
+np
+conj
+conj
+np
+adj
+verb
+np
+verb
+np
+verb
+np
+verb
+np
+verb
+pp
+np
+280637	np
+280639	np
+np
+conj
+conj
+np
+np
+pron
+conj
+noun
+pp
+np
+verb
+pron
+noun
 verb
 adv
-verb
+pron
+conj
 noun
-np
-verb
-280629	np
-np
-conj
-verb
-np
-pp
-pp
-np
-pp
-np
-np
-np
-verb
-pp
-np
-conj
-np
-conj
-verb
-pp
-np
-np
-np
-pp
-np
+280659	conj
 verb
 conj
-verb
-pp
-pp
-np
-np
-np
-verb
+conj
 280664	conj
 verb
-adv
+pron
+noun
+pp
+pp
+conj
+verb
+conj
 np
 verb
+pp
+pron
+verb
+noun
 conj
 verb
+np
+np
+pron
+noun
+adv
 verb
-pp
 conj
 verb
-280676	np
+noun
 pp
+np
 np
 pron
 verb
-np
-np
-verb
-np
-np
-280687	np
-conj
-280690	conj
 adv
 verb
-np
-conj
 verb
-np
+adv
 verb
-np
-np
 verb
 conj
 verb
-pron
-conj
+adv
+np
+np
+np
 verb
 pp
 np
 np
+pp
+np
 conj
+np
+verb
+np
+verb
+np
+np
+verb
+verb
+conj
+pp
+conj
+np
+verb
+conj
+verb
+adv
+pp
+np
+np
+280734	conj
+np
+np
+adv
 noun
 verb
+np
+np
 conj
-280714	pp
-pron
-verb
+np
 conj
-280719	adv
 verb
-adj
-conj
-pron
-pron
-verb
+np
+pp
+np
+np
+np
 pp
 verb
-conj
-conj
-np
 verb
-pp
-adv
-verb
-verb
-adv
-conj
-verb
-pron
-verb
-conj
-adj
-verb
-pron
-280746	np
-conj
-np
-np
-verb
-pp
-280753	np
-np
 np
 np
 np
 pp
 np
-np
+pron
+verb
 280762	np
 np
+np
+np
+conj
+np
+conj
+np
+conj
+np
+np
+np
+np
+np
+pp
+np
+np
+np
+np
+conj
+pron
+verb
+pp
+np
+adj
+adv
+conj
+adv
+np
+280792	np
+np
+verb
+pp
+verb
+pron
+verb
+np
+np
+conj
+noun
+verb
+np
+noun
+pron
+verb
+np
+verb
+280811	verb
+conj
+adv
+verb
+np
+np
+adv
+verb
+pp
+conj
+np
+np
+verb
+noun
+conj
+np
+np
+np
+pp
+adv
+verb
+np
+np
+np
+conj
+adj
+280839	verb
+adj
+pp
+conj
+noun
+pp
+det
+conj
+verb
+conj
+pp
+verb
+conj
+noun
+verb
+280855	conj
+verb
+280858	noun
+verb
+conj
+verb
+np
+verb
+np
+pp
+conj
+noun
+adv
+verb
+noun
+verb
+conj
+pp
+conj
+verb
+adj
+verb
+noun
+conj
+verb
+pron
+conj
+280885	np
+pp
+conj
+np
+pp
+np
+np
+conj
+pp
+verb
+adj
+conj
+pron
+verb
+pron
+conj
+np
+np
+verb
+conj
+conj
+adv
+verb
+pp
+adj
+280912	np
+conj
+np
+adv
+verb
+conj
+verb
+280920	conj
+np
+verb
+pp
+np
+np
+adj
+adv
+pp
+np
+verb
+pron
+np
+pp
+np
+np
+pp
+conj
+pp
+280940	conj
+np
+verb
+conj
+pp
+pron
+verb
+verb
+verb
+np
+np
+np
+np
+pp
+adj
+conj
+verb
+conj
+verb
+np
+np
+np
+verb
+conj
+verb
+conj
+np
+adv
+pp
+verb
+adj
+pp
+conj
+pron
+verb
+np
+280977	verb
+conj
+noun
+verb
+conj
+noun
+pp
+280985	np
+np
+np
+pp
+verb
+verb
+verb
+adv
+conj
+verb
+np
+np
+np
+pp
+np
+verb
+pp
+pron
+verb
+np
+verb
+pp
+pron
+np
+281010	adv
+verb
+281014	np
+np
+conj
+np
+np
+np
+pp
+pp
+np
+281024	pron
+verb
+pp
+np
+verb
+pp
+verb
+pron
+281033	conj
+conj
+noun
+conj
+verb
+noun
+np
+np
+np
+verb
+conj
+verb
+noun
+verb
+noun
+pp
+281050	np
+conj
+np
+np
+np
+np
+pp
+verb
+adj
+conj
+np
+np
+verb
+np
+np
+np
+verb
+verb
+pp
+281071	conj
+np
+pp
+verb
+adv
 verb
 pron
 pp
 np
+np
+np
+np
+verb
+pron
+verb
+noun
+adv
+verb
+verb
+281091	verb
+conj
+pp
+conj
+np
+verb
+conj
+verb
+conj
+pp
+noun
+verb
+conj
+pp
+noun
+np
+conj
+np
+verb
+281111	conj
+conj
+pp
+pp
+np
+np
+pp
+np
+verb
+conj
+noun
+verb
+np
+adj
+pp
+pp
+adj
+conj
+verb
+noun
+pp
+pron
+verb
+conj
+np
+np
+np
+np
+conj
+pron
+verb
+conj
+np
+conj
+pron
+verb
+conj
+pp
+pron
+verb
+np
+conj
 pp
 verb
 np
-np
+pp
+281158	pron
 verb
-pp
-np
-pp
-pp
-280778	pron
+281161	np
+conj
 np
 pp
 np
 np
 np
 ptcl
-280787	verb
-conj
-pron
-noun
-verb
-np
-np
-np
-pp
-conj
-pp
-verb
-pron
-verb
-280802	np
-np
-verb
-pp
-conj
 adj
-verb
-verb
-pron
-verb
-280813	np
-np
-np
-verb
-conj
-np
-np
-verb
-pron
-np
-pp
+281171	verb
 np
 np
 pp
-np
-280829	np
-280831	conj
-280834	np
-280836	np
-np
 pp
-np
-verb
-np
-verb
-np
-conj
-np
-verb
-verb
-conj
-np
-np
-np
-np
-verb
-noun
-np
-conj
-np
-verb
-conj
-verb
-280862	conj
-pp
-verb
-280866	conj
-conj
-np
-verb
-noun
-verb
-pp
-np
-np
-verb
-adj
-adv
-conj
-adv
-verb
-conj
-verb
 pron
 verb
 conj
-pp
-adj
-verb
-conj
-verb
-verb
-np
-np
-verb
-conj
-verb
-280898	adv
-conj
-verb
-np
-np
-conj
-verb
-pron
-pp
-np
-np
-adj
-pp
-np
-np
-np
-verb
-conj
-np
-np
-np
-pp
-np
-np
-280923	np
-conj
-pp
-np
-np
-conj
-conj
-np
-verb
-280933	verb
-conj
-np
-pp
-np
-conj
-verb
-np
-conj
-280943	np
-np
-verb
-conj
-np
-np
-np
-np
-verb
-adv
-np
-np
-pp
-np
-np
-verb
-280960	adj
-280962	pron
-verb
-noun
-conj
-adj
-verb
-verb
-280970	np
-np
-np
-pron
-verb
-verb
-pron
-adj
-verb
-verb
-conj
-pp
-verb
-np
-conj
-adj
-verb
-adj
-verb
-conj
-pron
-adj
-adj
-conj
-verb
-pp
-np
-np
-280999	conj
-adv
-np
-verb
-verb
-noun
-np
-conj
-verb
-verb
-noun
-adv
-verb
-np
-np
-281015	np
-np
-conj
-np
-np
-adv
-verb
-verb
-pp
-281025	np
-np
-np
-pp
-adv
-verb
-281032	conj
-np
-verb
-verb
-pron
-np
-pp
-verb
-pron
-np
-np
-np
-np
-verb
-np
-np
-281049	verb
-conj
-np
-adj
-pp
-verb
-adj
-pp
-verb
-adj
-pp
-np
-conj
-np
-adv
-verb
-conj
-verb
-np
-281069	conj
-np
-pp
-verb
-281074	np
-np
-verb
-verb
-np
-np
-281081	verb
-conj
-np
-conj
-adv
-noun
-noun
-verb
-pron
-conj
-281092	conj
-281094	pron
-np
-verb
-conj
-adv
-noun
-pron
-verb
-np
-verb
-np
-np
-np
-np
-pp
-281110	verb
-conj
-pron
-conj
-verb
-conj
-adv
-verb
-adj
-verb
-conj
-verb
-pp
-281124	np
-np
-np
-conj
-verb
-281130	np
-verb
-conj
-np
-pron
-adj
-pp
-np
-np
-verb
-281141	conj
-pron
-verb
-adj
-verb
-281147	verb
-np
-conj
-verb
-np
-np
-adj
-np
-np
-np
-conj
-pp
-np
-281161	conj
-281163	verb
-verb
-281166	conj
-pp
-np
-np
 adj
 pron
 verb
-pp
-np
-np
-adv
-pp
+conj
+conj
 verb
 np
 np
-np
-281183	np
-np
-281186	np
-281188	conj
-conj
-281192	verb
-pp
-np
-np
-np
-pp
 np
 verb
 conj
+pp
+pp
+np
+np
+np
+np
+verb
+verb
+conj
+verb
+pp
+np
+adj
+conj
+281205	np
+np
+conj
+np
 np
 np
 pp
-np
-281207	verb
-conj
-pp
 verb
-np
-np
-np
-conj
-verb
-pron
-verb
-adv
 adv
 conj
 np
 verb
-281224	pron
-verb
-adv
+281218	pp
 conj
+conj
+conj
+conj
+pp
+conj
+conj
+conj
+pp
+conj
+281230	verb
 verb
+conj
+np
 pp
 np
 np
-verb
-pp
-conj
-verb
-np
-np
-verb
-np
-np
-np
-verb
-np
-np
-np
-281247	np
-pp
-conj
-np
-np
-281253	pron
-verb
-verb
-pron
-pron
-conj
-verb
-np
-np
-verb
-pron
-conj
-pron
-verb
-pron
-pp
-pron
-verb
-281272	np
-np
-verb
-pp
-281277	conj
 conj
 np
 verb
+np
 pp
 np
-281284	verb
 np
 np
 conj
+conj
+adj
+pp
 pron
+np
+np
+verb
+np
+np
+np
+conj
+conj
+np
 adv
 verb
-281292	conj
+np
+281263	conj
+adv
+verb
+conj
+np
+verb
+pp
+np
+np
+np
+np
+verb
+np
+np
+pp
+np
+conj
+pp
+verb
+281283	np
+281285	conj
+np
+np
+np
+np
+np
+np
+np
+np
+verb
+verb
+verb
+np
+np
+pp
+np
+np
+281303	conj
+pp
+281306	conj
+conj
+281309	conj
+conj
+verb
+np
+conj
+np
+verb
+np
+conj
+verb
+np
+verb
+np
+np
+np
+np
+adv
+adj
+verb
+adj
+adj
+conj
+pron
+np
+verb
+conj
+281336	np
+adj
+verb
+adj
 conj
 verb
 noun
 verb
-verb
-pp
-np
-conj
-noun
-pron
-conj
-np
-np
-verb
-verb
-conj
-pp
-verb
-np
-conj
-verb
-adv
-verb
-verb
-adv
-adv
-verb
-281321	conj
-conj
-281324	adv
-verb
-verb
-conj
-verb
-np
-281331	adv
-verb
-conj
-adv
-verb
 conj
 pp
 np
-verb
-verb
-281342	np
-conj
-adj
-adv
-verb
-noun
-verb
-noun
-noun
-pron
+np
 np
 np
 conj
-281356	noun
-verb
-pron
-verb
-noun
-conj
-adv
-verb
-verb
-np
-verb
-pron
-281369	conj
-281373	conj
-adj
-verb
-conj
-verb
-np
-np
-281381	verb
-conj
-np
-pron
-pp
-281387	verb
-pp
-verb
-conj
-verb
-adv
-verb
-conj
-pron
-np
-np
-np
-pron
-np
-adv
-np
-np
-conj
-adv
-verb
-noun
-adj
-verb
-pp
-conj
-verb
-pron
-pron
-noun
-verb
-pron
-noun
-verb
-verb
-pron
-np
-np
-pp
-np
-pron
 pron
 verb
 pp
 np
 np
 np
+verb
+pp
+conj
 pron
 verb
-conj
-adj
-verb
-np
-adv
-verb
-np
-np
-verb
-conj
-verb
-verb
-conj
-verb
-np
-np
-conj
-np
-pp
-np
-adj
-verb
-281458	np
-np
 pp
 verb
 verb
-281464	np
-np
-pp
-np
-verb
-conj
-281471	np
-verb
-np
+281366	np
 np
 conj
+np
+verb
+verb
+verb
+pron
+verb
+pron
+verb
+adjp
+np
+verb
+np
+np
+np
+np
+np
 pp
 np
 np
 verb
+281390	np
 conj
-281482	verb
-281484	np
-verb
-281487	verb
-conj
-noun
 np
-conj
+np
 verb
 pron
 pp
-conj
 np
-verb
-verb
-conj
-pp
-verb
-noun
-conj
-adv
-pp
-adj
-adv
-conj
 np
-281511	np
-pp
-pp
-verb
-281516	verb
-np
-conj
-np
-verb
-281522	conj
-conj
 np
 pp
 adj
 verb
-adv
-adv
+pron
+verb
+verb
+verb
+verb
+pron
 np
 pp
-adj
+np
+np
+np
+ptcl
+pp
+281417	pron
+np
+np
+conj
 verb
-adv
-adj
+pp
+verb
+281425	verb
+conj
+verb
+pron
+verb
+np
+np
+np
+pp
+verb
+verb
+pron
+281438	np
+np
+pp
+conj
+281443	np
+np
+verb
+pron
+pp
+np
 noun
-verb
+281451	np
 np
-verb
-conj
-np
-verb
-adj
-conj
-verb
-adj
-281548	conj
-pron
 pp
-adv
+281456	np
+281458	conj
+281460	np
+pron
 verb
+pp
+np
+281466	np
+281469	conj
+281472	pron
+conj
+verb
+pp
+np
+281478	np
+conj
+281481	np
+np
+conj
+281485	np
 pron
 np
 np
+np
+np
+pp
+281493	conj
+verb
+pp
+np
+np
+verb
+pron
+np
+281502	conj
+pp
+np
+np
+conj
+pron
+verb
+conj
+pp
 verb
 np
 np
+verb
 np
+np
+pp
+np
+np
+pp
+np
+np
+conj
+np
+verb
+verb
+pp
+np
+np
+np
+pp
+conj
+np
+np
+pp
+conj
+np
+np
+pp
+conj
+np
+np
+pp
+conj
+np
+np
+pp
+conj
+np
+np
+pp
+conj
+np
+np
+pron
+conj
+pron
+281559	conj
 281561	conj
+verb
+pp
+np
+np
+281567	np
+np
+281570	pron
 conj
-np
-np
-np
-pp
-np
-verb
-pp
-verb
-pron
-pron
-np
-np
-np
-np
-verb
-verb
-np
-np
-281582	pron
-verb
-conj
-pp
-np
-verb
-verb
-pp
-np
-conj
-np
-np
-verb
-verb
 adv
-np
-np
-np
 verb
-conj
+pron
 adj
 verb
 verb
 np
-np
 verb
+np
+np
+np
+np
+np
 conj
-281611	np
+adv
 noun
-np
-np
-np
-281617	np
 verb
-pp
+adj
 np
 np
+281593	conj
 verb
-np
-np
+pron
 conj
 verb
-np
-np
-np
-conj
+advp
 verb
-pp
-np
-np
+adv
+adv
 conj
-np
-conj
-conj
-conj
-conj
-281642	conj
-np
-np
-np
-281647	np
-conj
-np
-verb
-verb
-281653	adjp
-np
-pp
-verb
-np
-281659	conj
-conj
-pp
-verb
-281664	np
-pp
-np
-verb
-pp
-np
-np
-verb
-281673	conj
 adv
 verb
+pron
+np
+np
+pp
+np
+np
+np
+281613	np
+281615	np
+conj
+281618	conj
+verb
+adv
+pron
+verb
+pp
+conj
+281626	conj
+pp
+np
+np
+verb
+adj
+conj
+verb
+pp
+pron
+verb
+pp
+np
+np
+verb
+pron
+pp
+verb
+conj
+adj
+verb
+np
+np
+np
+np
+conj
+np
+281654	np
+np
+281657	verb
+pron
+verb
+conj
+advp
+verb
+pron
+pp
+np
+np
+np
+np
+verb
+281671	conj
+np
+verb
+verb
+verb
+pron
+np
+np
+281680	np
+np
+281684	conj
+conj
+np
+verb
+np
+np
+verb
+conj
+pp
+281695	conj
+np
+verb
+pron
+pp
+np
+np
+281703	np
+np
+np
+np
+pron
+verb
+pp
+pron
+verb
+conj
+np
+np
+pron
+verb
+pp
+verb
+pp
+verb
+pp
+np
+np
+conj
+verb
+adj
+np
 np
 pron
 adv
 verb
+verb
+conj
 np
+verb
 pp
 np
-np
-verb
-281686	np
-conj
-np
-verb
-np
-noun
-noun
-verb
-conj
-noun
-noun
-conj
-adj
-np
-verb
+pp
 pron
-281703	conj
-pp
+noun
 verb
-pp
-np
-np
-np
-np
-pp
-np
-281714	conj
-conj
-281717	np
-verb
-conj
-pp
-np
-np
-verb
-conj
-verb
-pp
-np
-281729	verb
-np
-np
-adv
-verb
-conj
-281737	conj
-conj
-281740	conj
-adv
-281743	conj
-np
-np
-np
-conj
-np
-adj
 conj
 adj
 verb
+pp
+np
+np
+pron
+adj
+verb
+np
+np
+np
 adv
-281755	adjp
+verb
 281757	conj
 np
-np
-conj
-pp
-verb
 verb
 noun
 adv
+conj
+pp
+np
+verb
+verb
+pp
 noun
-conj
-adv
-noun
-pp
-pp
-pp
-281774	np
-np
 verb
+conj
+np
 pp
 np
-np
-verb
 conj
-adv
-verb
-281785	verb
-conj
-verb
-conj
-adv
-verb
-verb
-verb
-conj
-verb
-adv
-verb
 pp
-adv
+pp
 verb
 pron
-281802	verb
-conj
-adv
 verb
-conj
-adv
-verb
-conj
-pp
-np
-np
-verb
-noun
-verb
-conj
-np
 np
 np
 np
 np
 verb
 pron
-conj
 verb
-np
-verb
-np
-np
-np
-verb
-conj
-verb
-conj
-adv
-np
-verb
-pp
-verb
-np
-281842	pron
-verb
-pp
-np
-conj
-verb
-conj
-verb
-281851	np
-adj
-verb
-adj
-conj
-verb
-noun
-verb
-conj
-np
-281862	verb
-conj
-np
-conj
-verb
-pp
-verb
-np
-conj
 verb
 pron
-verb
-noun
-adj
-conj
-verb
-noun
-adj
-verb
-conj
-verb
-conj
-verb
-np
-np
-pp
-verb
-conj
-np
-pp
-verb
-pp
-conj
-verb
-pron
-adv
-verb
-pron
-noun
-verb
-noun
-conj
-verb
-np
-np
-verb
-noun
-conj
-verb
-noun
-281913	conj
-conj
-noun
-verb
-281918	verb
 np
 conj
 adj
 verb
-281925	conj
-verb
-281928	conj
-pron
-conj
-pron
-verb
-verb
 np
-281936	verb
-adv
-281939	verb
-281942	conj
-verb
+np
 pp
 np
 np
+np
+verb
 conj
-281949	verb
+pp
+np
+pron
+verb
+pron
+np
 adv
+adv
+verb
+conj
+np
+np
+adv
+verb
+conj
+conj
+281820	np
+np
+verb
+adv
+verb
+conj
+np
+verb
+verb
+pp
+verb
+conj
+281833	np
+adv
+verb
+conj
+281839	np
+verb
 noun
-conj
+np
 verb
 conj
+281846	np
+281848	conj
 verb
-pron
+noun
+verb
+np
+verb
+verb
+verb
+conj
+np
+281859	verb
+pp
+np
+np
+np
+np
+pp
+verb
+281868	conj
+conj
+np
+verb
+pp
+np
+pp
+np
+np
+verb
+verb
+noun
+281881	adj
+pp
+verb
+281885	adj
+conj
+pp
+np
+verb
+verb
+adv
+conj
+pp
+pp
+np
+verb
+conj
+noun
+verb
+np
+noun
 adv
 verb
-np
-pron
-np
-np
-281964	conj
-verb
-pp
-verb
-advp
-verb
-pp
-verb
-pron
-281974	conj
-np
 verb
 conj
-verb
-conj
-verb
-281982	conj
-adv
-conj
-verb
-pp
-np
-np
-np
-np
+noun
+281908	conj
 adj
 verb
-281994	verb
+adv
+verb
+pp
+pp
+np
+pron
 conj
+pp
+conj
+np
+np
+verb
+adj
+pp
+281926	conj
+pp
+pron
+verb
+verb
+pp
+np
+np
+adv
+verb
+verb
+np
+noun
+verb
+np
+np
+pp
+281944	conj
+verb
+pp
+np
+np
+verb
+pron
+np
+verb
+adjp
+conj
+adjp
+verb
+np
+np
+verb
+noun
+verb
+np
+verb
+np
+verb
+verb
+np
+np
+np
+281971	np
+pron
+np
+verb
+np
+conj
+verb
+np
+np
+pp
+np
+verb
+verb
+np
+np
+np
+pron
+verb
+281990	np
+conj
+np
+pp
+verb
+pron
+np
+np
+np
+verb
+np
+conj
+verb
+verb
+pp
+282006	np
+adv
+verb
+pp
+verb
+noun
+pron
+verb
+pron
+np
+verb
+np
+pron
+conj
+pron
+verb
+pron
+verb
+conj
+conj
+282027	verb
+np
+np
+np
+pp
+np
+282034	np
+282036	conj
+282038	pron
+conj
+adv
+verb
+verb
+verb
+pron
+np
+adj
+np
+adj
+conj
+verb
+pron
+adv
+verb
+np
+np
+np
+conj
+verb
+verb
+pp
+np
+np
+verb
+pron
+np
+verb
+pron
+np
+np
+np
+282072	noun
+verb
+pp
+np
+np
+conj
+noun
+verb
+pp
+np
+np
+adv
+adj
+np
+pron
+verb
+pp
+verb
+np
+pp
+np
+np
+verb
+282096	np
+np
+verb
+pp
+np
+np
+conj
+np
+np
+np
+np
+np
+np
+282110	conj
+pron
 adj
 verb
-conj
-adv
-verb
-noun
-pron
-verb
-282006	verb
-adv
-np
-verb
 verb
 pp
-282013	np
 np
-verb
+np
+pp
+noun
+282121	pp
+np
 np
 np
 verb
 conj
+verb
+adv
+verb
 np
 np
+np
+np
+pp
+pron
+conj
+np
+verb
 adj
-verb
-282025	np
-np
-conj
-np
-verb
-conj
-282032	np
-np
-pp
-pron
-verb
-conj
-verb
-np
-np
-pp
-conj
-verb
-pp
-np
-verb
-282048	np
-np
-282051	np
-verb
-np
-np
-verb
-pp
-verb
-conj
-np
-np
-verb
-pp
-np
-np
-np
-verb
-verb
-pp
-np
-conj
-verb
-verb
-np
-np
-pp
-np
-282078	np
 adv
 verb
+pp
+np
+verb
+conj
+pron
 pron
 verb
-conj
 noun
-pp
-np
-np
-np
-verb
-np
-verb
-np
-np
-np
-np
-verb
-pp
-conj
-verb
-282101	conj
-verb
-np
-verb
-np
-np
-conj
-np
-np
-np
 verb
 adv
-verb
+conj
 noun
-pp
-conj
-adv
-verb
-verb
-np
-pp
-np
-verb
-np
-verb
-noun
-282128	np
-conj
-np
-282132	np
-pron
-verb
-pp
-np
-np
-verb
-verb
-verb
-np
-np
-verb
-conj
-np
-np
-verb
-282149	verb
-np
+282155	pp
 conj
 pp
-conj
-np
-adv
 verb
-282158	conj
 np
-conj
 np
-conj
+np
+pp
+np
 np
 noun
 verb
+verb
+282169	np
 conj
-np
-np
-ptcl
-conj
-np
-ptcl
-conj
-adv
-pp
-verb
-282178	verb
-np
-pp
-verb
-282183	verb
-pron
-verb
-282187	verb
-np
-pp
-verb
-np
-np
-np
-conj
-verb
-pp
-verb
-noun
-pp
-np
-np
 np
 conj
 np
 np
 np
-verb
-verb
-conj
-verb
-pron
-np
-282214	conj
-noun
 vp
-verb
-pron
-282220	verb
-conj
-pron
-np
-conj
+noun
 verb
 pp
-conj
-verb
-adj
-verb
 np
+np
+282183	conj
+np
+np
+np
+conj
+adv
 verb
+pron
+adj
+np
+pp
+pp
+conj
+np
+conj
+np
+pp
+conj
+np
+282203	verb
 noun
 np
-verb
-adjp
 conj
-282239	noun
-verb
-adv
-verb
-conj
-adv
-verb
-pp
-np
-282249	np
-conj
-np
-conj
-adv
-verb
-conj
-282257	np
+pron
 noun
 verb
 conj
+verb
+pp
+282214	verb
+pron
+verb
+conj
+adj
+pp
+verb
+verb
+conj
+np
+pp
+conj
+pp
+np
+adv
+verb
+282231	noun
+conj
+verb
+verb
+conj
+282237	conj
+np
+np
+pp
+verb
+np
+adv
+verb
+adj
+verb
+verb
+pron
+pp
+282251	np
+conj
+282254	conj
+np
+np
+np
+np
+np
+pp
+noun
+verb
+verb
+conj
+noun
+verb
+verb
+282269	np
+conj
+conj
+np
+pp
+np
 np
 verb
+pp
+noun
+verb
+conj
+adj
+pron
+verb
+verb
+282286	conj
+pron
+verb
+pp
+conj
+np
+np
+np
+np
+noun
+verb
+conj
+np
+282300	np
+np
+np
+pp
+np
+np
+verb
+pron
+verb
+pron
+conj
+pp
+pp
+np
+verb
+pp
+pp
+pp
+verb
+adj
+pron
+np
+conj
+verb
+conj
+np
+np
+np
+pp
+np
+np
+np
+pron
+conj
+adj
+verb
+verb
+conj
+adv
+np
+np
+np
+verb
+verb
+np
+np
+verb
+conj
+pp
+np
+282351	conj
+282353	np
+282355	np
+conj
+282358	pron
+np
+282361	conj
+conj
+pp
+np
+282366	pron
+verb
+pp
+pron
+verb
+pron
+verb
+np
+np
+pron
+verb
+conj
+np
+np
+verb
+pp
 np
 np
 np
 conj
-282268	np
-pp
+np
+verb
+conj
+verb
+conj
+verb
+conj
+verb
+pron
+np
+np
+np
+pron
 verb
 pp
 np
@@ -263525,4461 +265681,2305 @@ conj
 verb
 pron
 pron
-verb
-conj
-verb
-adj
-pp
-np
-np
-verb
-np
-pp
-conj
-verb
-np
-282291	np
-282293	np
-np
-np
-np
-conj
-282299	pp
-np
-282302	pp
-np
-pp
-282306	conj
-np
-np
-282311	pron
-conj
-verb
-adj
-282316	np
-np
-282319	conj
-282321	np
-np
-282324	pp
-np
-np
-np
-verb
-pron
-pp
-np
-verb
-pp
-np
-np
-282337	pp
-pp
-np
-np
-conj
-conj
-verb
-pp
-pp
-282347	pp
-np
-verb
-pp
-pp
-np
-verb
-pp
-np
-pp
-verb
-adj
-adv
-conj
-verb
-verb
-pp
-np
-conj
-np
-np
-np
-np
-np
-adjp
-282373	verb
-pp
-conj
-verb
-verb
-pp
-conj
-conj
-pp
-np
-282384	pron
-adv
-verb
-verb
-pp
-adv
-adv
-verb
-verb
-conj
-verb
-np
-conj
-verb
-verb
-282400	np
-np
-np
-np
-pp
-np
 282407	conj
-282409	pp
-np
-np
-pp
-verb
-verb
-pp
-282418	conj
-np
-verb
-np
-np
-pp
-np
-verb
-282427	np
-np
-pp
-conj
-np
-np
-pp
-pron
-verb
-conj
-282438	conj
-verb
-282442	pron
-adv
-verb
-pron
-pp
-verb
-pron
-pp
-np
-np
-verb
-pp
-pp
-verb
-noun
-verb
-conj
-282460	verb
-np
-np
-np
-np
-verb
-adv
-verb
-pp
-np
-np
-verb
-pron
-pp
-np
-282478	conj
-np
-282481	verb
-np
-np
-pp
-pp
-np
-np
-conj
-pp
-np
-np
-verb
-pron
-np
-adj
-pp
-np
-verb
-conj
-verb
-282502	adj
-verb
-conj
-pron
-adj
-conj
-282509	conj
-noun
-verb
-adv
-verb
-pp
-np
-np
-pp
-np
-np
-np
-np
-verb
-verb
-conj
-282526	np
-282528	conj
-verb
-pp
-np
-np
-np
-np
-conj
-282537	np
-conj
-282540	np
-conj
-np
-verb
-conj
-pp
-np
-verb
-conj
-pp
-np
-np
-pp
-282554	np
-np
-pp
-np
-pp
-282560	verb
-pron
-pp
-conj
-noun
-pron
-verb
-conj
-np
-282570	np
-conj
-verb
-pp
-np
-np
-verb
-pp
-np
-np
-np
-pp
-np
-pp
-pron
-verb
-adv
-verb
-282589	pp
-np
-conj
-pp
-np
-np
-verb
-conj
-verb
-conj
-282600	np
-pp
-conj
-conj
-np
-np
-pp
-conj
-np
-282610	verb
-np
-conj
-np
-verb
-np
-conj
-np
-verb
-pp
-np
-pron
-conj
-verb
-282625	np
-verb
-pp
-282629	verb
-conj
-282632	np
-conj
-np
-conj
-conj
-conj
-np
-pp
-conj
-np
-np
-np
-np
-verb
-conj
-pp
-verb
-pp
-conj
-verb
-conj
-adj
-np
-pp
-282657	verb
-np
-np
-verb
-pp
-conj
-verb
-pp
-conj
-adjp
-np
-pp
-conj
-np
-verb
-verb
-np
-pp
-np
-verb
-np
-np
-noun
-pp
-282682	conj
-verb
-pp
-verb
-verb
-pp
-np
-np
-np
-conj
-verb
-pp
-advp
-verb
-282697	conj
-np
-verb
-verb
-conj
-282703	pron
-verb
-verb
-pron
-verb
-pp
-np
-conj
-282712	np
-conj
-np
-pron
-verb
-np
-verb
-pp
-adv
-verb
-282723	pron
-conj
-282726	np
-np
-np
-np
-pp
-conj
-np
-np
-verb
-pp
-pron
-verb
-pp
-np
-np
-np
-pron
-adv
-adv
-noun
-adv
-conj
-np
-det
-adv
-verb
-adv
-conj
-verb
-adj
-verb
-pp
-conj
-282760	conj
-verb
-np
-282764	np
-pron
-verb
-pp
-np
-282770	np
-np
-pp
-np
-verb
-adj
-conj
-pp
-pron
-verb
-pron
-conj
-adj
-pp
-np
-np
-verb
-verb
-np
-pp
-np
-verb
-282793	np
-np
-pp
-np
-282798	conj
-np
-pp
-conj
-verb
-conj
-282805	conj
-pp
-verb
-pp
-282810	np
-np
-conj
-conj
-adv
-verb
-np
-np
-np
-verb
-verb
-np
-np
-np
-np
-conj
-adj
-conj
-282829	conj
-np
-verb
-np
-np
-conj
-conj
-np
-282838	adj
-verb
-np
-verb
-np
-verb
-np
-verb
-np
-verb
-pp
-np
-282851	np
-282853	np
-np
-conj
-conj
-np
-np
-282860	pron
-conj
-noun
-pp
-np
-verb
-pron
-noun
-verb
-adv
-pron
-conj
-noun
-282874	conj
-verb
-conj
-conj
-282879	conj
-verb
-pron
-noun
-pp
-pp
-conj
-verb
-conj
-np
-verb
-pp
-pron
-verb
-noun
-conj
-verb
-np
-np
-pron
-noun
-adv
-verb
-conj
-verb
-noun
-pp
-np
-np
-pron
-verb
-adv
-verb
-verb
-adv
-verb
-verb
-conj
-verb
-adv
-np
-np
-np
-verb
-pp
-np
-np
-pp
-np
-conj
-np
-verb
-np
-verb
-np
-np
-verb
-verb
-conj
-pp
-conj
-np
-verb
-conj
-verb
-adv
-pp
-np
-np
-282949	conj
-np
-np
-adv
-noun
-verb
-np
-np
-conj
-282959	np
-conj
-verb
-np
-pp
-np
-np
-np
-pp
-verb
-verb
-np
-np
-np
-pp
-np
-pron
-verb
-282978	np
-np
-np
-np
-conj
-np
-conj
-np
-conj
-np
-np
-np
-np
-np
-pp
-np
-np
-282996	np
-np
-conj
-pron
-verb
-pp
-np
-adj
-283005	adv
-conj
-adv
-np
-283010	np
-np
-verb
-pp
-verb
-pron
-verb
-np
-np
-conj
-noun
-verb
-np
-noun
-pron
-verb
-np
-verb
-283029	verb
-conj
-adv
-verb
-np
-np
-adv
-verb
-pp
-283039	conj
-np
-np
-verb
-noun
-conj
-np
-np
-np
-pp
-adv
-verb
-np
-np
-np
-conj
-adj
-283058	verb
-adj
-pp
-conj
-noun
-pp
-det
-conj
-verb
-conj
-pp
-verb
-conj
-noun
-verb
-283074	conj
-verb
-283077	noun
-verb
-conj
-verb
-np
-verb
-np
-pp
-conj
-noun
-adv
-verb
-noun
-283091	verb
-conj
-pp
-conj
-verb
-adj
-verb
-noun
-conj
-verb
-pron
-conj
-283105	np
-pp
-conj
-np
-pp
-np
-np
-conj
-pp
-verb
-adj
-conj
-pron
-verb
-pron
-conj
-np
-np
-verb
-conj
-conj
-adv
-verb
-pp
-adj
-283133	np
-conj
-np
-adv
-verb
-conj
-verb
-283141	conj
-np
-verb
-pp
-np
-np
-adj
-adv
-pp
-np
-verb
-pron
-np
-pp
-np
-np
-pp
-conj
-pp
-283161	conj
-np
-verb
-conj
-pp
-pron
-verb
-verb
-verb
-np
-np
-np
-np
-pp
-283176	adj
-conj
-verb
-conj
-verb
-np
-np
-np
-verb
-conj
-verb
-conj
-np
-adv
-pp
-verb
-adj
-pp
-conj
-pron
-verb
-np
-283199	verb
-conj
-noun
-verb
-conj
-noun
-pp
-283207	np
-np
-np
-pp
-verb
-verb
-verb
-adv
-conj
-283217	verb
-np
-np
-np
-pp
-np
-verb
-283225	pp
-283227	pron
-verb
-np
-verb
-pp
-pron
-np
-283235	adv
-verb
-283239	np
-np
-conj
-np
-np
-np
-pp
-pp
-np
-283250	pron
-verb
-pp
-np
-verb
-pp
-verb
-pron
-283259	conj
-conj
-283263	noun
-conj
-verb
-noun
-np
-np
-np
-verb
-conj
-verb
-noun
-verb
-noun
-pp
-283278	np
-conj
-np
-np
-np
-np
-pp
-verb
-adj
-conj
-np
-np
-verb
-np
-np
-np
-verb
-verb
-pp
-283299	conj
-np
-pp
-verb
-adv
-verb
-pron
-pp
-np
-np
-np
-np
-verb
-pron
-verb
-noun
-adv
-verb
-verb
-283319	verb
-conj
-pp
-conj
-np
-verb
-conj
-verb
-conj
-pp
-noun
-verb
-conj
-pp
-noun
-np
-conj
-np
-verb
-283339	conj
-conj
-pp
-pp
-np
-np
-pp
-np
-verb
-conj
-noun
-verb
-np
-adj
-pp
-pp
-283358	adj
-conj
-verb
-noun
-pp
-pron
-verb
-conj
-np
-np
-np
-np
-283372	conj
-pron
-verb
-conj
-np
-283378	conj
-pron
-verb
-conj
-pp
-283384	pron
-verb
-np
-conj
-pp
-verb
-np
-pp
-283394	pron
-verb
-283397	np
-conj
-np
-pp
-np
-np
-np
-ptcl
-adj
-283409	verb
-np
-np
-pp
-pp
-pron
-verb
-conj
-adj
-pron
-verb
-conj
-283422	conj
-verb
-np
-np
-np
-verb
-conj
-pp
-pp
-np
-np
-np
-np
-verb
-verb
-283439	conj
-verb
-pp
-np
-adj
-conj
-283446	np
-np
-conj
-np
-np
-np
-pp
-verb
-283455	adv
-conj
-np
-verb
-283460	pp
-conj
-conj
-conj
-conj
-pp
-conj
-283468	conj
-conj
-pp
-conj
-283473	verb
-verb
-conj
-np
-pp
-np
-np
-conj
-np
-verb
-np
-pp
-np
-np
-np
-283489	conj
-conj
-adj
-pp
-pron
-np
-np
-verb
-np
-np
-np
-conj
-conj
-np
-adv
-verb
-np
-283507	conj
-adv
-verb
-conj
-np
-verb
-pp
-np
-np
-np
-np
-verb
-np
-np
-pp
-np
-conj
-pp
-verb
-283527	np
-283529	conj
-np
-np
-np
-np
-np
-np
-np
-np
-verb
-verb
-verb
-np
-np
-pp
-np
-np
-283547	conj
-pp
-283550	conj
-conj
-283553	conj
-conj
-verb
-np
-conj
-np
-verb
-np
-conj
-283563	verb
-np
-verb
-np
-np
-np
-np
-adv
-adj
-verb
-adj
-adj
-conj
-pron
-np
-verb
-conj
-283581	np
-adj
-verb
-adj
-conj
-verb
-noun
-verb
-conj
-pp
-np
-np
-np
-np
-conj
-pron
-verb
-pp
-283600	np
-np
-np
-verb
-pp
-conj
-pron
-verb
-pp
-verb
-verb
-283612	np
-np
-conj
-np
-verb
-verb
-verb
-pron
-verb
-pron
-verb
-adjp
-np
-verb
-np
-np
-np
-np
-np
-pp
-np
-np
-verb
-283637	np
-conj
-np
-np
-verb
-pron
-pp
-np
-np
-np
-pp
-adj
-verb
-pron
-verb
-verb
-verb
-verb
-pron
-np
-pp
-np
-np
-np
-ptcl
-pp
-283664	pron
-np
-283667	np
-conj
-verb
-pp
-verb
-283673	verb
-conj
-verb
-pron
-verb
-np
-np
-np
-pp
-verb
-verb
-pron
-283686	np
-np
-pp
-conj
-283691	np
-np
-verb
-pron
-pp
-np
-noun
-283699	np
-np
-pp
-283704	np
-283706	conj
-283708	np
-pron
-verb
-pp
-np
-283714	np
-283717	conj
-283720	pron
-conj
-verb
-pp
-np
-283726	np
-conj
-283729	np
-np
-conj
-283733	np
-pron
-np
-np
-np
-np
-pp
-283741	conj
-verb
-pp
-np
-np
-verb
-pron
-283749	np
-283751	conj
-pp
-np
-np
-conj
-pron
-verb
-conj
-pp
-verb
-np
-np
-verb
-np
-np
-pp
-np
-np
-pp
-np
-np
-conj
-np
-verb
-verb
-pp
-np
-np
-np
-pp
-conj
-np
-np
-pp
-conj
-np
-np
-pp
-conj
-np
-np
-pp
-conj
-np
-np
-pp
-conj
-np
-np
-pp
-conj
-np
-np
-pron
-conj
-pron
-283808	conj
-283810	conj
-verb
-pp
-np
-np
-283816	np
-np
-283819	pron
-conj
-adv
-verb
-pron
-adj
-verb
-verb
-np
-verb
-np
-np
-np
-np
-np
-conj
-adv
-noun
-verb
-adj
-np
-np
-283842	conj
-verb
-pron
-conj
-verb
-advp
-verb
-adv
-adv
-conj
-adv
-verb
-pron
-np
-np
-pp
-np
-np
-np
-283862	np
-283864	np
-conj
-283867	conj
-283869	verb
-adv
-pron
-verb
-pp
-conj
-283876	conj
-pp
-np
-np
-verb
-adj
-conj
-verb
-pp
-pron
-verb
-pp
-np
-np
-verb
-pron
-pp
-verb
-conj
-283896	adj
-verb
-np
-np
-np
-np
-conj
-np
-283905	np
-np
-283908	verb
-pron
-verb
-conj
-advp
-verb
-pron
-pp
-np
-np
-np
-np
-verb
-283922	conj
-np
-verb
-verb
-verb
-pron
-np
-np
-283931	np
-np
-283935	conj
-conj
-np
-verb
-np
-np
-283942	verb
-conj
-pp
-283947	conj
-np
-verb
-pron
-pp
-np
-np
-283955	np
-np
-np
-np
-pron
-verb
-pp
-pron
-verb
-conj
-np
-np
-pron
-verb
-pp
-verb
-pp
-verb
-pp
-np
-np
-conj
-verb
-adj
-np
-np
-pron
-adv
-verb
-verb
-conj
-np
-verb
-pp
-np
-pp
-pron
-noun
-verb
-conj
-adj
-verb
-pp
-np
-np
-pron
-adj
-verb
-np
-np
-np
-adv
-verb
-284009	conj
-np
-verb
-noun
-adv
-conj
-pp
-np
-verb
-verb
-pp
-noun
-284022	verb
-conj
-np
-pp
-np
-conj
-pp
-pp
-verb
-284032	pron
-verb
-np
-np
-np
-np
-verb
-pron
-verb
-verb
-pron
-np
-conj
-adj
-verb
-np
-np
-pp
-np
-np
-np
-verb
-conj
-pp
-np
-pron
-verb
-pron
-np
-adv
-adv
-verb
-conj
-np
-np
-adv
-verb
-284070	conj
-conj
-284075	np
-np
-verb
-adv
-verb
-conj
-np
-verb
-verb
-pp
-verb
-conj
-284088	np
-adv
-verb
-conj
-284094	np
-verb
-noun
-np
-verb
-conj
-284101	np
-284103	conj
-verb
-noun
-verb
-np
-verb
 verb
-verb
-conj
-284113	np
-284115	verb
-pp
-np
-np
-np
-np
-pp
-verb
-284124	conj
-conj
-np
-verb
-pp
-np
-pp
-np
-np
-verb
-verb
-noun
-284137	adj
-pp
-verb
-284141	adj
-conj
-pp
-np
-verb
-verb
-adv
-conj
-pp
-pp
-np
-verb
-conj
-noun
-verb
-np
-noun
-adv
-verb
-verb
-conj
-noun
-284164	conj
-adj
-verb
-adv
-verb
-pp
-pp
-np
-pron
-conj
-pp
-conj
-np
-np
-verb
-adj
-pp
-284182	conj
-pp
-pron
-verb
-verb
-pp
-np
-np
-adv
-verb
-verb
-np
-284195	noun
-verb
-np
-np
-pp
-284201	conj
-verb
-pp
-np
-np
-verb
-pron
-np
-verb
-adjp
-conj
-adjp
-verb
-np
-np
-verb
-noun
-verb
-np
-verb
-np
-verb
-verb
 np
-np
-284227	np
-284229	np
-pron
-np
-verb
-np
-conj
-verb
-np
-np
-pp
-np
-verb
-verb
-np
-np
-np
-pron
-verb
-284248	np
-conj
-np
-pp
-verb
-pron
-np
-np
-np
-verb
-np
-conj
-verb
-verb
-pp
-284264	np
-adv
-verb
-pp
-verb
-noun
-pron
-verb
-pron
-np
-verb
-np
-pron
 conj
-pron
-verb
-pron
-verb
-284283	conj
-conj
-284286	verb
-np
-np
-np
-pp
-np
-284293	np
-284295	conj
-284297	pron
-conj
-adv
-verb
-verb
-verb
-pron
-np
-adj
-np
-adj
-conj
-verb
-pron
-adv
-verb
 np
-np
-np
-conj
-verb
-verb
-pp
-np
-np
-verb
-pron
-np
-verb
-pron
-np
-np
-np
-284331	noun
-verb
-pp
-np
-np
-conj
 noun
 verb
 pp
 np
 np
-adv
-adj
 np
+conj
+np
+282421	pp
+np
+conj
+pp
+282426	np
+np
+282429	conj
 pron
 verb
-pp
-verb
-np
-pp
-np
-np
-verb
-284355	np
-np
-verb
-pp
-np
-np
-conj
-np
-np
-np
-np
-np
-np
-284369	conj
-pron
-adj
-verb
-verb
-pp
-np
-np
-pp
-noun
-284380	pp
-np
-np
-np
-verb
-conj
-verb
-adv
-verb
-np
-np
-np
-np
-pp
 pron
 conj
-np
-verb
-adj
-adv
-verb
-pp
-np
-verb
-conj
-pron
-pron
-verb
-noun
-verb
-adv
-conj
-noun
-284414	pp
-conj
-pp
-verb
-np
-np
-np
-pp
-np
-np
-noun
-verb
-verb
-284428	np
-conj
-np
-conj
-np
 np
 np
 vp
+conj
+verb
+pron
+np
+pron
+verb
+pp
+conj
+verb
+pron
+np
+noun
+verb
+conj
+np
+pp
+adv
+verb
+conj
+282457	verb
+conj
+noun
+verb
+pp
+conj
+pp
+np
+verb
+verb
+conj
+adv
+verb
+np
+conj
+conj
+pp
+np
+verb
+conj
+pron
+verb
+pp
+np
+noun
+verb
+pp
+conj
+np
+np
+282488	np
+np
+verb
+pron
+pp
+np
+conj
+verb
+conj
+noun
+adv
+verb
+pron
+verb
+conj
+np
+adv
+verb
+pp
+conj
+verb
+np
+np
+282512	verb
+conj
+conj
+282516	verb
+pron
+np
+conj
+verb
+pron
+pp
+np
+conj
+verb
+conj
+adv
+verb
+noun
+verb
+pron
+conj
+np
+np
+adv
+verb
+pp
+np
+pron
+verb
+pron
+conj
+adv
+verb
+conj
+conj
+pron
+verb
+282550	verb
+pp
+np
+282555	conj
+pron
 noun
 verb
 pp
 np
 np
-284442	conj
+282563	pp
+pp
+np
+conj
+conj
+pp
+pp
+np
+np
+conj
+pp
+verb
+conj
+verb
+pron
+conj
+np
+np
+verb
+verb
+conj
+verb
+pron
+conj
+np
+np
+adv
+verb
+noun
+verb
+conj
+pp
+np
+adv
+verb
+pron
+conj
+verb
+np
+np
+adv
+pp
 np
 np
 np
+verb
+pp
+verb
+conj
+pp
+verb
+verb
+pp
+verb
+verb
+conj
+pron
+verb
+np
+adv
+verb
+adj
+282626	np
+verb
+pron
+conj
+np
+pron
+verb
+pp
+np
+np
+np
+verb
+np
+pron
+verb
+adv
+np
+verb
+pron
+pron
+verb
+adj
+282649	pp
+conj
+pp
+conj
+282654	np
+verb
+conj
+np
+np
+np
+adv
+verb
+verb
+pp
+np
+verb
+conj
+np
+np
+verb
+pp
+np
+verb
+pp
+verb
+np
+np
+pp
+np
+verb
+conj
+noun
+pp
+adv
+verb
+282686	conj
+verb
+np
+np
+pp
+np
+verb
+conj
+pp
+np
+verb
+conj
+adv
+verb
+adv
+verb
+conj
+np
+verb
+np
+np
+verb
+pron
+noun
+conj
+verb
+pron
+np
+pp
+np
+np
+verb
+pron
+noun
+conj
+verb
+np
+pp
+verb
+pron
+noun
+conj
+verb
+np
+verb
+pron
+noun
+conj
+verb
+np
+verb
+pron
+noun
+conj
+verb
+np
+pp
+verb
+pron
+noun
+conj
+282748	adj
+verb
+conj
+np
+np
+np
+pp
+verb
+conj
+verb
+np
+adv
+verb
+282762	np
+conj
+np
+pp
+np
+conj
+pron
+verb
+np
+adv
+verb
+np
+np
+np
+pp
+conj
+282779	np
+282781	np
+pp
+np
+282785	np
+np
+np
+conj
+np
+np
+np
+conj
+np
+np
+np
+verb
+pp
+np
+conj
+pp
+np
+verb
+conj
+282805	np
+verb
+conj
+np
+np
+conj
+verb
+np
+np
+np
+verb
+pp
+np
+noun
+np
+verb
+conj
+conj
+verb
+conj
+noun
+verb
+advp
+np
+verb
+conj
+verb
+conj
+np
+verb
+pp
+verb
+conj
+adv
+verb
+pp
+conj
+conj
+pp
+verb
+verb
+pp
+conj
+conj
+verb
+conj
+adv
+verb
+adj
+pp
+conj
+pron
+noun
+verb
+pp
+np
+conj
+verb
+adj
+282865	verb
+pron
+conj
+adv
+verb
+np
+conj
+282873	conj
+verb
+pron
+conj
+conj
+np
+pp
+np
+adv
+verb
+pron
+verb
+np
+conj
+adv
+verb
+conj
+noun
+adv
+verb
+np
+pron
+verb
+282897	np
+verb
+282900	np
+conj
+np
+np
+verb
+np
+adv
+np
+verb
+verb
+np
+np
+np
+verb
+pron
+pron
+verb
+pp
+pp
+verb
+conj
+pp
+verb
+pron
+pp
+verb
+np
+282928	pp
+np
+conj
+pp
+np
+verb
+conj
+pron
+verb
+np
+pron
+pron
+verb
+pron
+np
+np
+np
+pron
+verb
+pron
+pp
+verb
+pron
+conj
+pron
+np
+pron
+verb
+pp
+verb
+pp
+conj
+adv
+noun
+verb
+conj
+pron
+verb
+pron
+conj
+conj
+282970	np
+np
+verb
+pron
+pp
+conj
+282977	adj
+verb
+conj
+adv
+verb
+noun
+conj
+conj
+verb
+pron
+verb
+pp
+conj
+adv
+noun
+verb
+pp
+conj
+282996	conj
+verb
+verb
+noun
+conj
+adv
+verb
+pp
+pp
+np
+np
+conj
+verb
+conj
+adj
+verb
+verb
+conj
+np
+np
+verb
+np
+pp
+verb
+verb
+np
+verb
+pron
+np
+conj
+np
+verb
+conj
+verb
+pp
+np
+adv
+verb
+pron
 conj
 adv
 verb
 pron
 adj
+adv
+np
+verb
+conj
+adv
+verb
+pron
+verb
+verb
+conj
+conj
+verb
+adj
+pron
+verb
+conj
+verb
+pron
+conj
+verb
+conj
+np
+verb
+np
 np
 pp
+verb
+pron
+conj
+pron
+adj
+verb
+np
+verb
+np
+np
+np
+verb
+conj
+np
+verb
+np
+conj
+verb
+conj
+pron
+verb
+conj
+np
+verb
+conj
+noun
 pp
+adv
+verb
+np
+pp
+verb
+adv
+verb
+np
+verb
+adv
+verb
+pron
+conj
+verb
+pron
+noun
+adj
+verb
+pron
+verb
+np
+adj
+verb
+conj
+pron
+adj
+verb
+verb
+np
+pp
+np
+verb
+conj
+pp
+np
+verb
+pp
+verb
+np
+np
+np
+conj
+verb
+np
+np
+np
+np
+verb
+pp
+np
+noun
+adv
+verb
+conj
+np
+pp
+verb
+conj
+adv
+verb
+verb
+conj
+pp
+np
+verb
+pp
+adj
+verb
+283162	np
+np
+np
+conj
+np
+np
+np
+283170	np
+adv
+verb
+noun
+adv
+verb
+pp
+np
+conj
+adv
+verb
+np
+np
+conj
+pron
+verb
+np
+pron
+verb
+pp
+verb
+pron
+conj
+283194	noun
+pp
+np
+verb
+conj
+verb
+np
+np
+conj
+pp
+verb
+pron
+conj
+np
+np
+adj
+verb
+np
+conj
+np
+np
+adj
+adv
+verb
+noun
+conj
+verb
+pron
+np
+pron
+verb
+conj
+verb
+pp
+np
+pp
+np
+conj
+verb
+np
+adv
+verb
+verb
+pp
+np
+np
+verb
+np
+np
+adj
+verb
+conj
+verb
+conj
+np
+adv
+verb
+np
+np
+pp
+verb
+pp
+verb
+np
+conj
+pron
+pp
+np
+np
+verb
+conj
+pron
+verb
+pp
+np
+np
+verb
+pron
+conj
+verb
+np
+np
+np
+conj
+verb
+np
+np
+noun
+verb
+conj
+verb
+np
+np
+pp
+adv
+np
+np
+np
+verb
+pp
+noun
+283296	verb
+283298	conj
+np
+conj
+pp
+283303	conj
+pp
+verb
+conj
+pp
+np
+verb
+conj
+pp
+verb
+np
+np
+conj
+conj
+verb
+np
+np
+conj
+adj
+verb
+np
+np
+np
+conj
+verb
+adj
+adj
+conj
+np
+adv
+verb
+noun
+verb
+pp
+np
+conj
+pron
+verb
+verb
+pp
+conj
+283345	np
+np
+verb
+conj
+np
+pp
+verb
+conj
+pron
+verb
+np
+np
+verb
+np
+np
+283361	np
+np
+283364	conj
+verb
+pron
+conj
+verb
+noun
+pron
+conj
+verb
+np
+np
+pp
+verb
+conj
+pron
+pp
+conj
+pp
+verb
+conj
+verb
+pp
+pp
+np
+pron
+pron
+verb
+adj
+283393	np
+verb
+conj
+verb
+np
+pp
+np
+verb
+conj
+np
+verb
+pp
+np
+pp
+verb
+np
+np
+np
+np
+pron
+verb
+283415	pp
+verb
+pp
+np
+verb
+conj
+np
+pron
+adv
+verb
+np
+pp
+np
+adv
+verb
+conj
+pron
+verb
+np
+np
+pron
+verb
+conj
+verb
+conj
+adv
+pp
+np
+verb
+adv
+pron
+pp
+np
+verb
+noun
+conj
+verb
+pron
+conj
+283455	adj
+verb
+np
+pp
+conj
+np
+pp
+np
+pron
+pp
+np
+verb
+pp
+pp
+np
+verb
+conj
+np
+pron
+verb
+pron
+pp
+np
+verb
+verb
+np
+verb
+pron
+pron
+adv
+verb
+pp
+np
+adv
+verb
+pron
+pp
+verb
+283494	np
+np
+np
+conj
+np
+np
+np
+adj
+verb
+pron
+conj
+283506	np
+pp
+np
+verb
+conj
+283512	np
+verb
+pp
+np
+verb
+conj
+verb
+np
+adv
+verb
+adv
+verb
+np
+conj
+np
+noun
+verb
+pp
+verb
+np
+np
+np
+pp
+conj
+np
+np
+np
+np
+verb
+np
+pp
+np
+conj
+verb
+pp
+pp
+verb
+np
+283551	pron
+verb
+np
+conj
+pron
+verb
+pron
+conj
+verb
+np
+np
+np
+pp
+np
+np
+adj
+conj
+adv
+np
+verb
+pron
+np
+verb
+pron
+verb
+noun
+adj
+adv
+verb
+conj
+verb
+pron
+np
+pp
+verb
+conj
+np
+np
+vp
+pp
+pp
+verb
+conj
+pp
+verb
+conj
+pron
+pp
+conj
+pp
+np
+np
+verb
+pron
+conj
+pron
+283608	conj
+conj
+np
+verb
+np
+np
+np
+pron
+verb
+conj
+noun
+verb
+np
+np
+np
+np
+pp
+verb
+conj
+pron
+pp
+np
+conj
+pron
+283633	conj
+np
+pron
+verb
+np
+pp
+np
+noun
+verb
+conj
+283644	verb
+pp
+np
+pp
+np
+verb
+conj
+np
+pp
+verb
+pp
+verb
+np
+pp
+conj
+noun
+verb
+pp
+np
+np
+np
+conj
+conj
+pron
+verb
+np
+verb
+pp
+np
+np
+noun
+adv
+verb
+pp
+np
+conj
+np
+np
+adv
+verb
+np
+conj
+283687	np
+noun
+verb
+conj
+verb
+adv
+verb
+pp
+np
+pron
+verb
+conj
+pron
+adj
+verb
+pron
+conj
+283705	pron
+verb
+conj
+verb
+np
+conj
+np
+np
+verb
+noun
+verb
+conj
+adv
+verb
+np
+np
+pron
+verb
+np
+pron
+adv
+verb
+adv
+verb
+verb
+conj
+np
+np
+verb
+pp
+verb
+np
+verb
+np
+np
+np
+np
+verb
+conj
+noun
+verb
+np
+pp
+np
+verb
+conj
+np
+verb
+verb
+verb
+verb
+pp
+pp
+verb
+conj
+verb
+np
+np
+np
+conj
+283766	np
+verb
+conj
+np
+np
+verb
+pron
+conj
+verb
+np
+np
+np
+np
+np
+verb
+conj
+np
+np
+adj
+adv
+verb
+conj
+np
+verb
+pp
+np
+verb
+np
+conj
+pron
+verb
+283798	np
+verb
+np
+np
+np
+pron
+verb
+verb
+np
+conj
+adv
+verb
+conj
+noun
+verb
+np
+np
+np
+pron
+verb
+verb
+pp
+283821	conj
+283824	pp
+np
+adj
+conj
+283829	pp
+np
+conj
+pp
+np
+conj
+np
+verb
+verb
+conj
+np
+verb
+np
+conj
+283844	adj
+verb
+verb
+283848	np
 conj
 np
 conj
 np
+conj
+np
+pp
+np
+verb
+conj
+np
+np
+np
+verb
+np
+np
+np
+adj
+verb
+conj
+pron
+verb
+np
+np
+np
+conj
+verb
+pp
+np
+np
+verb
+pp
+np
+np
+np
+verb
+np
+pp
+adv
+verb
+np
+noun
+verb
+pron
+conj
+adv
+verb
+pp
+np
+pron
+verb
+np
+pp
+np
+np
+conj
+pron
+verb
+np
+np
+verb
+np
+pron
+conj
+np
+np
+pp
+np
+np
+verb
+verb
+np
+verb
+np
+adv
+verb
+np
+np
+np
+np
+adv
+verb
+pron
+verb
+283934	conj
+verb
+conj
+np
+verb
+verb
+pp
+np
+np
+np
+np
+np
+conj
+pron
+verb
+np
+pron
+verb
+pp
+conj
+pron
+verb
+pp
+np
+np
+verb
+pron
+conj
+conj
+verb
+conj
+verb
+pron
+pron
+verb
+verb
+conj
+verb
+np
+pron
+verb
+pp
+conj
+pron
+verb
+np
+np
+verb
+np
+pp
+pp
+verb
+conj
+verb
+283989	noun
+verb
+pp
+pp
+verb
+np
+pp
+adv
+pp
+verb
+conj
+verb
+np
+noun
+verb
+conj
+verb
+np
+pp
+pp
+verb
+conj
+np
+verb
+pp
+np
+adv
+verb
+conj
+284019	verb
+pp
+np
+verb
+pron
+conj
+np
+adv
+verb
+pron
+verb
+conj
+284032	pp
+np
+verb
+conj
+np
+np
+pp
+np
+verb
+verb
+conj
+conj
+np
+np
+np
+verb
+conj
+verb
+pron
+noun
+conj
+verb
+np
+conj
+verb
+284058	pp
+np
+pp
+284062	np
+np
+284065	pron
+verb
+284068	np
+np
+conj
+np
+noun
+verb
+pron
+pp
+np
+284078	np
+284080	np
+conj
+np
+np
+pron
+284086	verb
+pp
+conj
+284090	np
+conj
+np
+np
+verb
+np
+pp
+284098	np
+verb
+pp
+conj
+pp
+verb
+pp
+np
+verb
+pp
+np
+284110	pp
+284112	conj
+pp
+284116	np
+np
+np
+pp
+284121	conj
+verb
+adv
+conj
+verb
+pp
+np
+np
+verb
+pp
+conj
+noun
+verb
+pp
+np
+conj
+adv
+verb
+pron
+noun
+284142	conj
+np
+verb
+pron
+conj
+pron
+verb
+pp
+conj
+verb
+pron
+conj
+pron
+verb
+np
+verb
+pp
+np
+np
+pron
+np
+verb
+conj
+verb
+pp
+pp
+verb
+conj
+284171	np
+verb
+pp
+np
+adv
+verb
+284178	verb
+pp
+pron
+verb
+284183	np
+conj
+np
+verb
+pron
+conj
+284190	verb
+pron
+verb
+conj
+np
+verb
+np
+verb
+conj
+adv
+verb
+pp
+np
+np
+np
+noun
+adv
+verb
+verb
+pp
+np
+pron
+284213	conj
+np
+conj
+np
+verb
+conj
+284220	pron
+verb
 pp
 conj
 np
+np
+adv
+verb
+adv
+verb
+pron
+pp
+conj
+verb
+pron
+adv
+verb
+verb
+conj
+pron
+verb
+verb
+np
+np
+np
+np
+adj
+verb
+pron
+verb
+adv
+verb
+pp
+284254	conj
+conj
+verb
+284258	verb
+pp
+conj
+np
+pp
+verb
+conj
+np
+np
+vp
+verb
+pron
+np
+np
+np
+np
+np
+np
+np
+np
+np
+pron
+pron
+verb
+pp
+adj
+pp
+verb
+pron
+284288	conj
+conj
+verb
+np
+np
+verb
+conj
+adv
+verb
+noun
+conj
+verb
+np
+np
+conj
+pron
+pp
+verb
+np
+pron
+adv
+verb
+verb
+np
+np
+pp
+np
+verb
+adj
+adj
+verb
+pron
+verb
+pp
+np
+conj
+pron
+pron
+verb
+np
+np
+pp
+pron
+adv
+verb
+verb
+adv
+np
+pp
+conj
+np
+verb
+adj
+verb
+pp
+np
+pron
+conj
+verb
+verb
+np
+conj
+adj
+verb
+np
+verb
+pron
+np
+conj
+284358	verb
+pron
+adv
+verb
+pron
+pp
+conj
+verb
+verb
+np
+np
+pron
+verb
+np
+verb
+pron
+conj
+adv
+verb
+pp
+conj
+pron
+verb
+np
+conj
+verb
+verb
+conj
+pp
+np
+verb
+adj
+verb
+np
+conj
+np
+verb
+pp
+np
+verb
+verb
+adv
+verb
+np
+noun
+verb
+284405	pp
+conj
+pp
+np
+np
+np
+conj
+verb
+conj
+verb
+conj
+np
+np
+adj
+verb
+adj
+verb
+verb
+pron
+conj
+adv
+verb
+pp
+284429	conj
+pron
+verb
+verb
+conj
+adv
+pron
+verb
+conj
+np
+pp
+verb
+noun
+pron
+verb
+pron
+np
+verb
+np
+pp
+284451	np
+284453	np
+conj
+np
+np
+pp
+284459	verb
+conj
 284462	verb
-noun
-np
+284464	pron
 conj
-pron
-noun
-verb
 conj
 verb
-pp
-284473	verb
-pron
-verb
-conj
 adj
-pp
-verb
-verb
-conj
 np
+verb
+verb
+pron
 pp
-conj
-pp
+np
+np
+np
+noun
+verb
+verb
+pron
+verb
+verb
+np
 np
 adv
 verb
-284490	noun
-conj
-verb
+np
 verb
 conj
-284496	conj
-np
-np
-pp
-verb
-284502	np
+284492	np
 adv
 verb
-adj
-verb
-verb
-pron
 pp
+np
+np
+284499	np
+np
+np
+np
+verb
+pp
+conj
+np
+284508	np
+conj
 284511	np
+284513	verb
+verb
 conj
-284514	conj
-np
-np
-np
-284519	np
-np
-pp
-noun
+pron
 verb
 verb
+adv
+adj
 conj
 noun
-verb
-verb
-284530	np
-conj
-conj
-np
-pp
-np
-np
-verb
-pp
 noun
+pp
+np
 verb
+np
+adv
+verb
+verb
+284532	conj
+adv
+verb
+np
+np
+conj
+verb
+np
+np
+pp
+np
+np
+np
+pp
+verb
+conj
+284549	conj
+conj
+np
+np
+pp
+284555	np
+np
+pron
+verb
+conj
+verb
+pp
+np
+verb
+noun
+np
+np
+verb
+adv
+conj
+np
+np
+verb
+284574	noun
+conj
+verb
+noun
+conj
+verb
+noun
+conj
+verb
+284585	np
+conj
+np
+conj
+np
+verb
+verb
+pp
+np
+np
+verb
+np
+verb
+conj
+verb
+verb
+pron
+noun
+pron
+conj
+pron
+conj
+adv
+verb
+verb
+pron
+conj
+adv
+conj
+np
+np
+verb
+pp
+verb
+ptcl
+pron
+conj
+284623	np
+np
+np
+verb
+conj
+np
+np
+np
+np
+verb
+conj
+np
+np
+np
+verb
+pron
+verb
+np
+np
+pp
+np
+np
+verb
+adv
+pron
+verb
+284650	np
+np
+pp
+verb
+np
+np
+np
+np
+adv
+verb
+verb
+np
+np
+np
+verb
+np
+np
+284668	pron
+np
+np
+np
+pp
+verb
+verb
+conj
+np
+284678	np
+pp
+verb
+verb
+verb
+noun
+pp
+np
+np
+284688	verb
+noun
+pp
+conj
+verb
+np
+np
+284696	pp
+np
+np
+np
+np
+pron
+verb
+conj
+pp
+np
+np
+pron
+verb
+pp
+np
+pron
+verb
+np
+np
+pp
+np
+np
+verb
+conj
+np
+np
+verb
+adj
+verb
+noun
+pp
+pron
 conj
 adj
-pron
 verb
-verb
-284547	conj
-pron
+284732	np
 verb
 pp
-conj
+np
+np
+284738	np
+np
+284741	conj
+verb
+pron
+pp
+np
+np
+verb
+np
+pp
 np
 np
 np
+verb
 np
+pron
+verb
+284758	verb
 noun
+adv
 verb
-conj
-np
-284561	np
-np
-np
-pp
-np
-np
-verb
-pron
-verb
-pron
-conj
-pp
-pp
-np
-verb
-pp
-pp
-pp
-verb
-adj
-284582	pron
-np
-conj
-verb
-conj
-np
-np
-np
-pp
-np
-np
-np
 pron
 conj
 adj
 verb
-verb
-conj
-adv
-np
-np
-np
-verb
-verb
-np
-np
-verb
-conj
-pp
-np
-284613	conj
-284615	np
-284617	np
-conj
-284620	pron
-np
-284623	conj
-conj
-pp
-np
-284628	pron
-verb
-pp
-pron
-verb
-pron
-verb
-np
-np
-pron
-verb
-conj
-np
-np
-verb
-pp
-np
-np
-np
-conj
-np
-verb
-conj
-verb
-conj
-verb
-conj
-verb
-pron
-284658	np
-np
-np
-pron
-verb
-pp
-np
-conj
-verb
-pron
-pron
-284670	conj
-verb
-np
-conj
-np
-noun
-verb
-pp
-np
-np
-np
-conj
-np
-284684	pp
-np
-conj
-pp
-284689	np
-np
-284692	conj
-pron
-verb
-pron
-conj
-np
-np
-vp
-conj
-verb
 pron
 np
-284705	pron
-verb
-pp
-conj
-verb
-pron
 np
-noun
-verb
-conj
 np
 pp
-adv
-verb
-284720	conj
-284722	verb
-conj
-noun
-verb
-pp
-conj
-pp
-np
-verb
-verb
-conj
-adv
-verb
-np
-conj
-conj
-pp
-np
-verb
-conj
-pron
-verb
-pp
-np
-noun
-verb
-pp
-conj
-np
-np
-284753	np
 np
 verb
 pron
 pp
 np
-284760	conj
 verb
-conj
-noun
-adv
 verb
-pron
-verb
+np
+np
+284781	np
+np
+284784	pp
+np
 conj
 np
-adv
+conj
+verb
+verb
 verb
 pp
-284774	conj
-verb
-np
-np
-284779	verb
-conj
-conj
-284783	verb
-pron
-np
-conj
-verb
-pron
-pp
-np
-284792	conj
-verb
-conj
-adv
-verb
-noun
 verb
 pron
 conj
-np
-np
-adv
 verb
 pp
+verb
 np
-pron
-verb
-pron
-conj
-adv
-verb
-conj
-conj
-pron
-verb
-284818	verb
+np
+np
 pp
 np
-284823	conj
+verb
+284806	np
+conj
+verb
+284810	verb
 pron
-noun
+adj
+conj
 verb
 pp
 np
 np
+adj
+pp
+284821	np
+np
+pp
+284826	np
+np
+284829	conj
 284831	pp
-pp
-np
-conj
-conj
-pp
-pp
-np
-np
-conj
-pp
-verb
-conj
-verb
-pron
-conj
-np
-np
-verb
-verb
-conj
-verb
-pron
-conj
-np
-np
-adv
-verb
-noun
-verb
-conj
-pp
-np
-adv
-verb
-284867	pron
-conj
-verb
-np
-np
-adv
-pp
-np
-np
-np
-verb
-pp
-verb
-conj
-pp
-verb
-verb
-pp
-verb
-verb
-conj
-pron
-verb
-np
-adv
-verb
-adj
-284895	np
-verb
-pron
-conj
-284900	np
-pron
-verb
-pp
-np
-np
-np
-verb
-np
-284910	pron
-verb
-adv
-np
-verb
-pron
-pron
-verb
-adj
-284920	pp
-conj
-pp
-conj
-284925	np
-verb
-conj
-np
-np
-np
-adv
-verb
-verb
-pp
-np
-verb
-conj
-np
-np
-verb
-pp
-np
-verb
-pp
-verb
-np
-np
-pp
-np
-verb
-conj
-noun
-pp
-adv
-verb
-284958	conj
-verb
-np
-np
-pp
-np
-verb
-conj
-pp
-np
-verb
-conj
-adv
-verb
-adv
-verb
-conj
-np
-verb
-np
-np
-verb
-pron
-noun
-conj
-verb
-pron
-np
-pp
-np
-np
-verb
-pron
-noun
-conj
-verb
-np
-pp
-verb
-pron
-noun
-conj
-verb
-np
-verb
-pron
-noun
-conj
-verb
-np
-verb
-pron
-noun
-conj
-verb
-np
-pp
-verb
-pron
-noun
-conj
-285020	adj
-verb
-conj
-np
-np
-np
-pp
-verb
-conj
-verb
-np
-adv
-verb
-285034	np
-conj
-np
-pp
-np
-conj
-pron
-verb
-np
-adv
-verb
-np
-np
-np
-pp
-conj
-285051	np
-285053	np
-pp
-np
-285057	np
-np
-np
-conj
-np
-np
-np
-conj
-np
-np
-np
-verb
-pp
-np
-conj
-pp
-np
-verb
-conj
-285077	np
-verb
-conj
-np
-np
-conj
-verb
-np
-np
-np
-verb
-pp
-np
-noun
-np
-verb
-conj
-285096	conj
-verb
-conj
-noun
-verb
-advp
-np
-verb
-conj
-verb
-conj
-np
-verb
-pp
-verb
-conj
-adv
-verb
-pp
-conj
-conj
-pp
-verb
-verb
-pp
-conj
-conj
-verb
-conj
-adv
-verb
-adj
-pp
-conj
-pron
-noun
-verb
-pp
-np
-conj
-verb
-adj
-285139	verb
-pron
-conj
-adv
-verb
-np
-conj
-285147	conj
-verb
-pron
-conj
-conj
-np
-pp
-np
-adv
-verb
-pron
-verb
-np
-conj
-adv
-verb
-conj
-noun
-adv
-verb
-np
-pron
-verb
-285171	np
-verb
-285174	np
-conj
-np
-np
-verb
-np
-adv
-np
-verb
-verb
-np
-np
-np
-verb
-pron
-pron
-verb
-pp
-pp
-verb
-conj
-pp
-verb
-pron
-pp
-verb
-np
-285202	pp
-np
-conj
-pp
-np
-verb
-conj
-pron
-verb
-np
-285213	pron
-pron
-verb
-pron
-np
-np
-np
-pron
-verb
-pron
-pp
-verb
-pron
-conj
-pron
-np
-285230	pron
-verb
-pp
-verb
-pp
-conj
-adv
-noun
-verb
-conj
-pron
-verb
-pron
-conj
-285245	conj
-285247	np
-np
-verb
-pron
-pp
-conj
-285254	adj
-verb
-conj
-adv
-verb
-noun
-conj
-conj
-verb
-pron
-verb
-pp
-conj
-adv
-noun
-verb
-pp
-conj
-285273	conj
-verb
-verb
-noun
-conj
-adv
-verb
-pp
-pp
-np
-np
-285285	conj
-verb
-conj
-adj
-verb
-verb
-conj
-np
-np
-verb
-np
-pp
-verb
-285299	verb
-np
-verb
-pron
-np
-conj
-np
-verb
-conj
-verb
-pp
-np
-adv
-verb
-pron
-conj
-adv
-verb
-pron
-adj
-adv
-np
-verb
-conj
-adv
-verb
-pron
-verb
-verb
-conj
-conj
-verb
-adj
-pron
-verb
-conj
-verb
-pron
-conj
-verb
-conj
-285341	np
-verb
-np
-np
-pp
-verb
-pron
-conj
-pron
-adj
-verb
-np
-verb
-np
-np
-np
-verb
-conj
-np
-verb
-np
-conj
-verb
-conj
-pron
-verb
-conj
-np
-verb
-conj
-noun
-pp
-adv
-verb
-np
-pp
-verb
-adv
-verb
-np
-verb
-adv
-verb
-pron
-conj
-verb
-pron
-noun
-adj
-verb
-pron
-verb
-np
-adj
-verb
-conj
-pron
-adj
-verb
-verb
-np
-pp
-np
-verb
-conj
-pp
-np
-verb
-pp
-verb
-np
-np
-np
-conj
-verb
-np
-np
-np
-285420	np
-verb
-pp
-np
-noun
-adv
-verb
-conj
-np
-pp
-verb
-conj
-adv
-verb
-verb
-conj
-pp
-np
-verb
-pp
-adj
-verb
-285443	np
-np
-np
-conj
-np
-np
-np
-285452	np
-adv
-verb
-noun
-adv
-verb
-pp
-np
-conj
-adv
-verb
-np
-np
-conj
-pron
-verb
-np
-285470	pron
-verb
-pp
-verb
-pron
-conj
-285477	noun
-pp
-np
-verb
-conj
-verb
-np
-np
-conj
-pp
-verb
-pron
-conj
-np
-np
-adj
-verb
-np
-conj
-np
-np
-adj
-adv
-verb
-noun
-conj
-verb
-pron
-np
-pron
-verb
-conj
-verb
-pp
-np
-pp
-np
-conj
-verb
-np
-adv
-verb
-verb
-pp
-np
-np
-verb
-np
-np
-adj
-verb
-conj
-verb
-conj
-np
-adv
-verb
-np
-np
-pp
-verb
-pp
-verb
-np
-conj
-pron
-pp
-np
-np
-verb
-conj
-pron
-verb
-pp
-np
-np
-verb
-285555	pron
-conj
-verb
-np
-np
-np
-conj
-verb
-np
-np
-noun
-verb
-conj
-verb
-np
-np
-pp
-adv
-np
-np
-np
-verb
-pp
-noun
-285580	verb
-285582	conj
-np
-conj
-pp
-285587	conj
-pp
-verb
-conj
-pp
-np
-verb
-conj
-285596	pp
-verb
-np
-np
-conj
-conj
-verb
-np
-np
-conj
-adj
-verb
-np
-np
-np
-conj
-verb
-adj
-adj
-285616	conj
-np
-adv
-verb
-noun
-verb
-pp
-np
-conj
-pron
-verb
-verb
-pp
-conj
-285631	np
-np
-verb
-conj
-np
-pp
-verb
-conj
-pron
-verb
-np
-np
-verb
-np
-np
-285647	np
-np
-285650	conj
-285652	verb
-pron
-conj
-verb
-noun
-pron
-conj
-verb
-np
-np
-pp
-verb
-conj
-pron
-pp
-conj
-pp
-verb
-conj
-verb
-pp
-pp
-np
-285676	pron
-pron
-verb
-adj
-285681	np
-verb
-conj
-285685	verb
-np
-pp
-np
-verb
-conj
-np
-verb
-pp
-np
-pp
-verb
-np
-np
-np
-np
-285702	pron
-verb
-285705	pp
-verb
-pp
-np
-verb
-conj
-np
-285713	pron
-adv
-verb
-np
-pp
-np
-adv
-verb
-conj
-pron
-verb
-285725	np
-np
-pron
-verb
-conj
-verb
-conj
-adv
-pp
-np
-verb
-adv
-pron
-pp
-np
-verb
-noun
-conj
-verb
-pron
-conj
-285747	adj
-verb
-np
-pp
-conj
-np
-pp
-np
-pron
-pp
-np
-verb
-pp
-pp
-np
-verb
-conj
-np
-pron
-verb
-pron
-pp
-np
-verb
-verb
-np
-verb
-pron
-pron
-adv
-verb
-pp
-np
-adv
-verb
-pron
-pp
-verb
-285786	np
-np
-np
-conj
-np
-np
-np
-adj
-verb
-pron
-conj
-285798	np
-pp
-np
-verb
-conj
-285804	np
-verb
-pp
-np
-verb
-conj
-verb
-np
-adv
-verb
-adv
-verb
-np
-conj
-np
-noun
-verb
-pp
-verb
-np
-np
-np
-pp
-conj
-np
-np
-np
-np
-verb
-np
-pp
-np
-conj
-verb
-pp
-pp
-verb
-np
-285843	pron
-verb
-np
-conj
-pron
-verb
-pron
-conj
-verb
-np
-np
-np
-pp
-np
-np
-adj
-conj
-adv
-np
-verb
-pron
-np
-verb
-pron
-verb
-noun
-adj
-adv
-verb
-conj
-verb
-pron
-np
-pp
-verb
-conj
-np
-np
-vp
-pp
-pp
-verb
-conj
-pp
-verb
-conj
-pron
-pp
-conj
-pp
-np
-np
-verb
-pron
-conj
-pron
-285900	conj
-conj
-np
-verb
-np
-np
-np
-285908	pron
-verb
-conj
-noun
-verb
-np
-np
-np
-np
-pp
-verb
-conj
-pron
-pp
-np
-conj
-pron
-285926	conj
-np
-285929	pron
-verb
-np
-pp
-np
-noun
-verb
-conj
-285938	verb
-pp
-np
-pp
-np
-verb
-conj
-np
-pp
-verb
-pp
-verb
-np
-pp
-conj
-noun
-verb
-pp
-np
-np
-np
-conj
-conj
-pron
-verb
-np
-verb
-pp
-np
-np
-noun
-adv
-verb
-pp
-np
-conj
-np
-np
-adv
-verb
-np
-conj
-285981	np
-noun
-verb
-conj
-verb
-adv
-verb
-pp
-np
-pron
-verb
-conj
-pron
-adj
-verb
-pron
-285998	conj
-286000	pron
-verb
-conj
-verb
-np
-conj
-np
-np
-verb
-noun
-verb
-conj
-adv
-verb
-np
-286016	np
-pron
-verb
-np
-286021	pron
-adv
-verb
-adv
-verb
-verb
-conj
-np
-np
-verb
-pp
-verb
-np
-verb
-np
-np
-np
-np
-verb
-conj
-noun
-verb
-np
-pp
-np
-verb
-conj
-np
-verb
-verb
-verb
-verb
-pp
-286055	pp
-verb
-conj
-verb
-np
-np
-np
-conj
-286064	np
-verb
-conj
-np
-np
-verb
-pron
-conj
-verb
-np
-np
-np
-np
-np
-verb
-conj
-np
-np
-adj
-adv
-verb
-conj
-np
-verb
-pp
-np
-verb
-np
-conj
-286094	pron
-verb
-286097	np
-verb
-np
-np
-np
-286103	pron
-verb
-verb
-np
-conj
-adv
-verb
-conj
-noun
-verb
-np
-np
-np
-286117	pron
-verb
-verb
-pp
-286122	conj
-286125	pp
-np
-adj
-conj
-286130	pp
-np
-conj
-pp
-np
-conj
-np
-verb
-verb
-conj
-np
-verb
-np
-conj
-286145	adj
-verb
-verb
-286149	np
-conj
-np
-conj
-np
-conj
-np
-pp
-np
-verb
-286161	conj
-np
-np
-np
-verb
-np
-np
-np
-adj
-verb
-conj
-pron
-verb
-np
-np
-np
-conj
-verb
-pp
-np
-np
-verb
-pp
-np
-np
-np
-verb
-np
-pp
-adv
-verb
-np
-noun
-verb
-pron
-conj
-adv
-verb
-pp
-np
-286202	pron
-verb
-np
-pp
-np
-np
-conj
-pron
-verb
-np
-np
-verb
-np
-pron
-conj
-np
-np
-pp
-np
-np
-verb
-verb
-np
-verb
-np
-adv
-verb
-np
-np
-np
-np
-adv
-verb
-pron
-verb
-286238	conj
-verb
-conj
-np
-verb
-verb
-pp
-np
-np
-np
-np
-np
-conj
-pron
-verb
-np
-286255	pron
-verb
-pp
-286259	conj
-pron
-verb
-pp
-np
-np
-verb
-pron
-conj
-286269	conj
-verb
-conj
-verb
-pron
-pron
-verb
-verb
-conj
-verb
-np
-286281	pron
-verb
-pp
-286285	conj
-pron
-verb
-np
-np
-verb
-np
-pp
-pp
-verb
-conj
-verb
-286298	noun
-verb
-pp
-pp
-verb
-np
-pp
-adv
-pp
-verb
-conj
-verb
-np
-noun
-verb
-conj
-verb
-np
-pp
-pp
-verb
-conj
-np
-verb
-pp
-np
-adv
-verb
-conj
-286328	verb
-pp
-np
-verb
-pron
-conj
-np
-adv
-verb
-pron
-verb
-conj
-286341	pp
-np
-verb
-conj
-np
-np
-pp
-np
-verb
-verb
-conj
-conj
-np
-np
-np
-verb
-conj
-verb
-pron
-noun
-conj
-verb
-np
-conj
-verb
-286367	pp
-np
-pp
-286371	np
-np
-286374	pron
-verb
-286377	np
-np
-conj
-np
-noun
-verb
-pron
-pp
-np
-286387	np
-286390	np
-conj
-np
-np
-pron
-286396	verb
-pp
-conj
-286400	np
-conj
-np
-np
-verb
-np
-pp
-286408	np
-verb
-pp
-conj
-pp
-verb
-pp
-np
-verb
-pp
-np
-286420	pp
-286422	conj
-pp
-286426	np
-np
-np
-pp
-286431	conj
-286433	verb
-adv
-conj
-verb
-286438	pp
-np
-np
-verb
-pp
-conj
-noun
-verb
-pp
-np
-conj
-adv
-verb
-pron
-noun
-286454	conj
-np
-verb
-pron
-conj
-pron
-verb
-pp
-conj
-verb
-pron
-conj
-pron
-verb
-np
-verb
-pp
-np
-np
-pron
-np
-verb
-conj
-verb
-pp
-pp
-verb
-conj
-286483	np
-verb
-pp
-np
-adv
-verb
-286490	verb
-pp
-pron
-verb
-286495	np
-conj
-np
-verb
-pron
-conj
-286502	verb
-pron
-verb
-conj
-np
-verb
-np
-verb
-conj
-adv
-verb
-pp
-np
-np
-np
-noun
-adv
-verb
-verb
-pp
-np
-pron
-286525	conj
-np
-conj
-np
-verb
-286531	conj
-286533	pron
-verb
-pp
-conj
-np
-np
-adv
-verb
-adv
-verb
-pron
-pp
-conj
-verb
-pron
-adv
-verb
-verb
-conj
-pron
-verb
-verb
-np
-np
-np
-np
-adj
-verb
-pron
-verb
-adv
-verb
-pp
-286567	conj
-conj
-verb
-286571	verb
-pp
-conj
-np
-pp
-verb
-conj
-np
-np
-vp
-verb
-pron
-np
-np
-np
-np
-np
-np
-np
-286591	np
-np
-pron
-pron
-verb
-pp
-adj
-pp
-verb
-pron
-286602	conj
-conj
-verb
-np
-np
-286608	verb
-conj
-adv
-286612	verb
-noun
-conj
-verb
-np
-np
-conj
-pron
-pp
-verb
-np
-pron
-adv
-verb
-verb
-np
-np
-pp
-np
-verb
-adj
-adj
-verb
-pron
-verb
-pp
-np
-conj
-pron
-286643	pron
-verb
-np
-np
-pp
-pron
-adv
-verb
-verb
-adv
-np
-pp
-conj
-np
-verb
-adj
-verb
-pp
-np
-pron
-conj
-verb
-verb
-np
-conj
-adj
-verb
-np
-verb
-pron
-np
-conj
-286676	verb
-pron
-adv
-verb
-pron
-pp
-conj
-verb
-verb
-286686	np
-np
-pron
-verb
-np
-verb
-pron
-conj
-286695	adv
-verb
-pp
-conj
-pron
-verb
-np
-conj
-verb
-verb
-conj
-pp
-np
-verb
-adj
-verb
-np
-conj
-np
-verb
-pp
-np
-verb
-verb
-adv
-verb
-np
-noun
-verb
-286725	pp
-conj
-pp
-np
-np
-np
-conj
-verb
-conj
-verb
-conj
-np
-np
-adj
-verb
-adj
-verb
-verb
-pron
-conj
-adv
-verb
-pp
-286749	conj
-pron
-verb
-verb
-conj
-adv
-pron
-verb
-conj
-np
-pp
-verb
-noun
-pron
-verb
-pron
-np
-verb
-np
-pp
-286771	np
-286773	np
-conj
-np
-np
-pp
-286779	verb
-conj
-286782	verb
-286784	pron
-conj
-conj
-verb
-adj
-np
-verb
-verb
-pron
-pp
-np
-np
-np
-noun
-verb
-verb
-pron
-verb
-verb
-np
-np
-adv
-verb
-np
-verb
-conj
-286812	np
-adv
-verb
-pp
-np
-np
-286819	np
-np
-np
-np
-verb
-pp
-conj
-np
-286828	np
-conj
-286831	np
-286833	verb
-286835	verb
-conj
-pron
-verb
-verb
-adv
-adj
-conj
-noun
-noun
-pp
-np
-verb
-np
-adv
-verb
-verb
-286853	conj
-adv
-verb
-np
-np
-conj
-verb
-np
-np
-pp
-np
-np
-np
-pp
-verb
-conj
-286870	conj
-conj
-np
-np
-pp
-286876	np
-np
-pron
-verb
-conj
-verb
-pp
-np
-verb
-noun
-np
-np
-verb
-adv
-conj
-np
-np
-verb
-286895	noun
-conj
-verb
-noun
-conj
-verb
-noun
-conj
-verb
-286907	np
-conj
-np
-conj
-np
-verb
-verb
-pp
-np
-np
-verb
-np
-verb
-conj
-verb
-verb
-pron
-noun
-pron
-conj
-pron
-conj
-adv
-verb
-verb
-pron
-conj
-adv
-conj
-np
-np
-verb
-pp
-verb
-286942	ptcl
-pron
-conj
-286946	np
-np
-np
-verb
-conj
-np
-np
-np
-np
-verb
-conj
-np
-np
-np
-verb
-pron
-verb
-np
-np
-pp
-np
-np
-286969	verb
-adv
-pron
-verb
-286974	np
-np
-pp
-verb
-np
-np
-np
-np
-adv
-verb
-verb
-np
-np
-np
-verb
-np
-np
-286993	pron
-np
-np
-np
-pp
-verb
-verb
-conj
-np
-287003	np
-pp
-verb
-verb
-verb
-noun
-pp
-np
-np
-287013	verb
-noun
-pp
-conj
-verb
-np
-np
-287021	pp
-np
-np
-287025	np
-np
-pron
-verb
-conj
-pp
-np
-np
-287034	pron
-verb
-pp
-np
-pron
-verb
-np
-np
-pp
-np
-np
-verb
-conj
-np
-np
-verb
-adj
-verb
-noun
-pp
-pron
-conj
-adj
-verb
-287059	np
-verb
-pp
-np
-np
-287065	np
-np
-287068	conj
-verb
-pron
-pp
-np
-np
-verb
-np
-pp
-np
-np
-np
-verb
-np
-pron
-verb
-287085	verb
-noun
-adv
-verb
-pron
-conj
-adj
-verb
-pron
-np
-np
-np
-pp
-np
-verb
-pron
-pp
-np
-verb
-verb
-np
-np
-287108	np
-np
-287111	pp
-np
-conj
-np
-conj
-verb
-verb
-verb
-pp
-verb
-pron
-conj
-verb
-pp
-verb
-np
-np
-np
-pp
-np
-verb
-287133	np
-conj
-verb
-287137	verb
-pron
-adj
-conj
-verb
-pp
-np
-np
-adj
-pp
-287148	np
-np
-pp
-287153	np
-np
-287156	conj
-287158	pp
 np
 np
 conj
@@ -267988,8 +267988,8 @@ pp
 np
 np
 ptcl
-287168	np
-287170	pron
+np
+284842	pron
 verb
 pron
 np
@@ -268006,20 +268006,20 @@ verb
 pp
 np
 np
-287189	np
+284860	np
 np
 pron
 verb
-287195	np
+284865	np
 np
 np
 conj
 np
 np
-287202	pron
+284872	pron
 verb
 adj
-287206	verb
+284876	verb
 conj
 verb
 np
@@ -268033,15 +268033,15 @@ np
 conj
 adv
 noun
-287221	np
+284891	np
 np
 np
 pp
 np
-287227	pron
+284897	pron
 conj
-287230	pp
-287232	verb
+284900	pp
+284902	verb
 conj
 verb
 conj
@@ -268049,17 +268049,17 @@ verb
 conj
 pp
 np
-287241	np
+np
 pron
 pp
 np
 np
 conj
 pp
-287251	np
+284920	np
 np
 np
-287255	np
+284924	np
 np
 np
 conj
@@ -268068,26 +268068,26 @@ np
 np
 np
 np
-287266	verb
+284934	verb
 pron
-conj
-verb
-pron
-pp
-np
-np
-pp
-np
-np
 conj
 verb
 pron
-287281	np
+pp
 np
 np
-287285	conj
+pp
+np
+np
+conj
+verb
 pron
-287288	np
+284949	np
+np
+np
+284953	conj
+pron
+284956	np
 conj
 np
 pp
@@ -268100,9 +268100,9 @@ verb
 pp
 np
 conj
-287302	verb
+284970	verb
 pron
-287305	np
+284973	np
 conj
 pron
 pron
@@ -268116,21 +268116,21 @@ np
 np
 ptcl
 ptcl
-287321	pron
+pron
 verb
-287324	np
+284990	np
 conj
 np
 verb
-287329	np
-287332	verb
+284995	np
+284998	verb
 conj
 verb
 conj
 verb
 np
-287340	np
-287342	np
+285006	np
+285008	np
 conj
 np
 pp
@@ -268141,11 +268141,11 @@ conj
 pp
 verb
 pp
-287354	np
+285020	np
 verb
 noun
 pp
-287359	np
+285025	np
 np
 np
 conj
@@ -268189,7 +268189,7 @@ conj
 verb
 verb
 np
-287404	pron
+pron
 verb
 pp
 conj
@@ -268211,7 +268211,7 @@ verb
 pp
 np
 np
-287428	np
+285092	np
 conj
 np
 conj
@@ -268237,7 +268237,7 @@ conj
 pp
 verb
 conj
-287455	np
+np
 np
 conj
 np
@@ -268257,7 +268257,7 @@ np
 np
 verb
 conj
-287476	np
+np
 np
 conj
 np
@@ -268283,15 +268283,15 @@ pp
 verb
 adv
 verb
-287503	pron
+285165	pron
 verb
-287506	np
+285168	np
 conj
 np
 conj
 verb
 conj
-287513	verb
+285175	verb
 adj
 conj
 verb
@@ -268304,25 +268304,25 @@ conj
 verb
 np
 np
-287527	np
+285189	np
 conj
 np
 verb
 conj
-287533	pron
-verb
-conj
-pron
+285195	pron
 verb
 conj
 pron
 verb
+conj
+pron
+verb
 verb
 pp
-287544	np
+285206	np
 np
 np
-287548	np
+np
 pron
 verb
 pp
@@ -268353,7 +268353,7 @@ pp
 verb
 pron
 verb
-287580	verb
+285241	verb
 np
 np
 pp
@@ -268367,7 +268367,7 @@ np
 np
 np
 verb
-287595	np
+285256	np
 np
 conj
 np
@@ -268381,12 +268381,12 @@ verb
 verb
 adj
 conj
-287610	verb
+285271	verb
 verb
 pron
 noun
 conj
-287616	adv
+285277	adv
 verb
 conj
 verb
@@ -268396,7 +268396,7 @@ conj
 noun
 verb
 conj
-287627	verb
+285288	verb
 pp
 np
 np
@@ -268441,7 +268441,7 @@ conj
 pron
 verb
 verb
-287673	np
+np
 np
 np
 pron
@@ -268460,7 +268460,7 @@ pron
 verb
 pp
 np
-287693	np
+np
 np
 pron
 verb
@@ -268477,7 +268477,7 @@ pp
 verb
 pron
 verb
-287712	np
+285370	np
 conj
 np
 pron
@@ -268485,16 +268485,16 @@ verb
 adj
 conj
 verb
-287721	verb
+285379	verb
 np
-287724	np
+285382	np
 conj
 np
 conj
 adj
 verb
 conj
-287732	np
+285390	np
 np
 pp
 verb
@@ -268502,7 +268502,7 @@ adj
 verb
 pron
 conj
-287741	verb
+285399	verb
 conj
 np
 np
@@ -268562,7 +268562,7 @@ np
 np
 np
 verb
-287802	adv
+adv
 verb
 adv
 np
@@ -268581,7 +268581,7 @@ pp
 pp
 np
 np
-287824	np
+285480	np
 np
 np
 np
@@ -268592,7 +268592,7 @@ adv
 np
 verb
 conj
-287836	verb
+verb
 pp
 adj
 conj
@@ -268601,7 +268601,7 @@ adv
 verb
 np
 np
-287846	pron
+pron
 verb
 np
 verb
@@ -268609,7 +268609,7 @@ noun
 pp
 np
 np
-287855	verb
+285509	verb
 adj
 conj
 verb
@@ -268634,203 +268634,6 @@ verb
 pp
 pp
 np
-np
-np
-np
-verb
-noun
-verb
-pron
-np
-verb
-np
-verb
-verb
-pron
-287894	np
-verb
-conj
-verb
-pron
-287900	np
-conj
-287903	np
-pp
-np
-np
-verb
-pron
-adj
-verb
-conj
-adv
-verb
-conj
-np
-np
-np
-np
-pp
-verb
-pron
-verb
-287924	np
-np
-np
-verb
-np
-np
-pp
-conj
-np
-conj
-np
-np
-adj
-noun
-verb
-287941	np
-np
-conj
-287945	np
-conj
-np
-conj
-np
-conj
-np
-np
-conj
-np
-np
-np
-np
-adj
-np
-conj
-verb
-pp
-conj
-verb
-287967	np
-verb
-pron
-noun
-conj
-287973	conj
-np
-np
-287977	verb
-conj
-verb
-adj
-conj
-verb
-pron
-noun
-conj
-verb
-conj
-adv
-verb
-verb
-pp
-np
-np
-verb
-verb
-pron
-pp
-conj
-verb
-pp
-pp
-np
-conj
-adv
-verb
-pp
-np
-np
-conj
-np
-np
-verb
-pp
-conj
-verb
-np
-np
-conj
-pron
-verb
-verb
-288023	conj
-conj
-verb
-np
-pp
-np
-np
-288033	conj
-verb
-288036	np
-np
-pp
-pron
-adv
-verb
-np
-np
-pron
-adv
-verb
-np
-np
-np
-conj
-verb
-adv
-verb
-pp
-np
-conj
-pron
-verb
-verb
-pp
-pron
-verb
-conj
-288065	verb
-conj
-verb
-pp
-np
-np
-verb
-pron
-np
-pp
-np
-conj
-verb
-pron
-pp
-np
-conj
-np
-np
-np
-verb
-pron
-verb
-pp
-np
-np
-conj
-verb
-pron
 np
 np
 np
@@ -268841,6 +268644,203 @@ pron
 np
 verb
 np
+verb
+verb
+pron
+285548	np
+verb
+conj
+verb
+pron
+285554	np
+conj
+np
+pp
+np
+np
+verb
+pron
+adj
+verb
+conj
+adv
+verb
+conj
+np
+np
+np
+np
+pp
+verb
+pron
+verb
+285577	np
+np
+np
+verb
+np
+np
+pp
+conj
+np
+conj
+np
+np
+adj
+noun
+verb
+285594	np
+np
+conj
+285598	np
+conj
+np
+conj
+np
+conj
+np
+np
+conj
+np
+np
+np
+np
+adj
+np
+conj
+verb
+pp
+conj
+verb
+285620	np
+verb
+pron
+noun
+conj
+285626	conj
+np
+np
+285630	verb
+conj
+verb
+adj
+conj
+verb
+pron
+noun
+conj
+verb
+conj
+adv
+verb
+verb
+pp
+np
+np
+verb
+verb
+pron
+pp
+conj
+verb
+pp
+pp
+np
+conj
+adv
+verb
+pp
+np
+np
+conj
+np
+np
+verb
+pp
+conj
+verb
+np
+np
+conj
+pron
+verb
+verb
+285676	conj
+conj
+verb
+np
+pp
+np
+np
+285684	conj
+verb
+285687	np
+np
+pp
+pron
+adv
+verb
+np
+np
+pron
+adv
+verb
+np
+np
+np
+conj
+verb
+adv
+verb
+pp
+np
+conj
+pron
+verb
+verb
+pp
+pron
+verb
+conj
+285716	verb
+conj
+verb
+pp
+np
+np
+verb
+pron
+np
+pp
+np
+conj
+verb
+pron
+pp
+np
+conj
+np
+np
+np
+verb
+pron
+verb
+pp
+np
+np
+conj
+verb
+pron
+np
+np
+np
+verb
+noun
+verb
+pron
+np
+verb
+np
 conj
 np
 np
@@ -268851,7 +268851,7 @@ verb
 pron
 verb
 verb
-288115	np
+285766	np
 np
 np
 np
@@ -268867,10 +268867,10 @@ verb
 conj
 adj
 verb
-288132	vp
+vp
 conj
 verb
-288136	np
+np
 pron
 verb
 verb
@@ -268885,12 +268885,12 @@ np
 verb
 conj
 adv
-288152	conj
+285801	conj
 conj
-288155	verb
+285804	verb
 conj
 verb
-288159	conj
+conj
 conj
 adv
 verb
@@ -268937,7 +268937,7 @@ conj
 verb
 np
 np
-288207	pp
+285855	pp
 np
 np
 conj
@@ -268960,17 +268960,17 @@ pp
 verb
 pron
 verb
-288233	np
+285881	np
 np
 verb
 np
 np
-288239	verb
+285887	verb
 conj
 adj
 verb
 conj
-288245	verb
+285893	verb
 conj
 adj
 verb
@@ -268980,13 +268980,13 @@ np
 verb
 verb
 pp
-288256	np
+np
 verb
-288259	adj
+285906	adj
 verb
 verb
 conj
-288264	np
+285911	np
 verb
 conj
 verb
@@ -268999,7 +268999,7 @@ np
 np
 verb
 verb
-288278	pp
+285925	pp
 np
 np
 np
@@ -269008,7 +269008,7 @@ pron
 adj
 verb
 conj
-288288	verb
+285935	verb
 conj
 verb
 verb
@@ -269027,7 +269027,7 @@ conj
 pron
 verb
 pron
-288308	conj
+conj
 verb
 np
 np
@@ -269037,7 +269037,7 @@ pron
 pron
 verb
 pp
-288319	np
+285965	np
 np
 np
 verb
@@ -269076,14 +269076,14 @@ adv
 conj
 verb
 pp
-288359	np
+286005	np
 np
 np
 np
 conj
 np
 np
-288368	np
+286014	np
 np
 np
 np
@@ -269116,7 +269116,7 @@ pp
 verb
 pron
 verb
-288403	np
+286049	np
 np
 np
 np
@@ -269129,18 +269129,18 @@ np
 verb
 np
 np
-288417	conj
+286063	conj
 verb
 conj
-288421	verb
-288423	verb
+verb
+286068	verb
 conj
 adv
 conj
-288428	adj
+286073	adj
 verb
 conj
-288432	conj
+286077	conj
 conj
 verb
 pron
@@ -269148,8 +269148,8 @@ verb
 pp
 np
 np
-288441	conj
-288443	verb
+conj
+286087	verb
 conj
 adj
 verb
@@ -269171,7 +269171,7 @@ conj
 conj
 verb
 pron
-288466	verb
+286110	verb
 pp
 np
 verb
@@ -269181,7 +269181,7 @@ verb
 conj
 np
 conj
-288477	verb
+286121	verb
 conj
 adv
 verb
@@ -269199,7 +269199,7 @@ verb
 pron
 pron
 verb
-288496	conj
+286140	conj
 verb
 conj
 conj
@@ -269210,8 +269210,8 @@ pp
 np
 conj
 verb
-288508	conj
-288510	pron
+conj
+286153	pron
 verb
 np
 np
@@ -269221,7 +269221,7 @@ np
 verb
 pp
 conj
-288521	verb
+286164	verb
 pp
 conj
 pron
@@ -269235,7 +269235,7 @@ pp
 np
 np
 conj
-288536	pron
+286179	pron
 verb
 conj
 verb
@@ -269262,7 +269262,7 @@ pp
 np
 conj
 np
-288564	np
+np
 np
 pron
 verb
@@ -269271,7 +269271,7 @@ conj
 verb
 pp
 verb
-288574	verb
+286216	verb
 adv
 conj
 verb
@@ -269290,14 +269290,14 @@ verb
 pp
 np
 conj
-288594	pp
+286236	pp
 np
 verb
 conj
-288599	verb
+286241	verb
 adj
 noun
-288604	conj
+286246	conj
 conj
 np
 pp
@@ -269306,7 +269306,7 @@ adj
 noun
 adj
 conj
-288614	pp
+286256	pp
 np
 np
 nump
@@ -269328,7 +269328,7 @@ conj
 pp
 np
 verb
-288637	conj
+286279	conj
 conj
 conj
 np
@@ -269352,7 +269352,7 @@ np
 adj
 noun
 conj
-288662	pp
+286304	pp
 np
 np
 conj
@@ -269362,7 +269362,7 @@ np
 np
 verb
 noun
-288673	conj
+286315	conj
 conj
 np
 np
@@ -269397,29 +269397,29 @@ np
 verb
 prep
 np
-288709	conj
+286351	conj
 verb
 noun
 conj
 noun
 adv
 verb
-288717	conj
+286359	conj
 verb
-288723	np
+286365	np
 np
-288726	verb
+286368	verb
 conj
 verb
 conj
 verb
 conj
-288733	conj
+conj
 verb
 np
-288737	conj
+286378	conj
 conj
-288740	verb
+286381	verb
 pp
 np
 verb
@@ -269436,7 +269436,7 @@ verb
 pp
 np
 conj
-288758	verb
+286399	verb
 verb
 pp
 np
@@ -269452,24 +269452,24 @@ verb
 adj
 verb
 np
-288775	np
+286416	np
 conj
 np
 verb
-288780	np
+286421	np
 conj
 np
 conj
 np
 conj
-288787	pron
+286428	pron
 verb
 np
 conj
 pp
 np
 np
-288795	conj
+286436	conj
 conj
 verb
 pp
@@ -269481,7 +269481,7 @@ np
 np
 np
 verb
-288808	conj
+286449	conj
 verb
 np
 conj
@@ -269492,7 +269492,7 @@ pp
 np
 pron
 adj
-288820	verb
+286461	verb
 np
 conj
 verb
@@ -269501,7 +269501,7 @@ np
 conj
 np
 verb
-288830	pp
+286471	pp
 np
 conj
 pp
@@ -269509,7 +269509,7 @@ np
 conj
 pp
 np
-288839	verb
+286480	verb
 np
 conj
 verb
@@ -269520,7 +269520,7 @@ adj
 conj
 np
 verb
-288851	verb
+286492	verb
 np
 conj
 verb
@@ -269535,7 +269535,7 @@ adv
 verb
 verb
 verb
-288868	np
+286509	np
 np
 pp
 np
@@ -269543,16 +269543,16 @@ np
 np
 np
 verb
-288877	np
+286518	np
 conj
 np
 np
 np
 conj
 verb
-288885	pp
+286526	pp
 np
-288888	np
+286529	np
 conj
 np
 np
@@ -269565,2305 +269565,2305 @@ verb
 conj
 verb
 verb
-288902	np
+286543	np
 conj
+np
+pron
+verb
+np
+np
+np
+np
+np
+verb
+pp
+np
+np
+conj
+verb
+conj
+verb
+pp
+np
+np
+verb
+pp
+np
+conj
+conj
+verb
+np
+286572	np
+np
+conj
+np
+np
+nump
+verb
+pp
+np
+verb
+adj
+286584	conj
+np
+np
+verb
+pron
+verb
+np
+np
+np
+conj
+verb
+np
+verb
+adj
+verb
+286600	verb
+np
+conj
+verb
+np
+np
+conj
+286608	verb
+conj
+verb
+np
+pp
+np
+np
+pp
+np
+conj
+conj
+conj
+conj
+verb
+pron
+np
+np
+286626	conj
+conj
+verb
+pp
+np
+conj
+verb
+conj
+verb
+np
+np
+np
+286639	np
+conj
+np
+conj
+np
+conj
+verb
+np
+np
+286649	np
+conj
+np
+verb
+np
+adj
+verb
+286657	np
+verb
+verb
+np
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+286669	np
+pron
+286672	pp
+np
+conj
+pp
+np
+conj
+pp
+np
+conj
+pp
+np
+verb
+conj
+np
+np
+pp
+verb
+verb
+286691	verb
+pp
+np
+conj
+np
+286697	np
+conj
+np
+conj
+np
+conj
+np
+pp
+np
+np
+np
+conj
+np
+np
+verb
+ptcl
+conj
+np
+verb
+conj
+verb
+conj
+verb
+conj
+verb
+np
+np
+pp
+np
+np
+conj
+verb
+np
+pp
+np
+np
+verb
+pp
+conj
+np
+verb
+conj
+verb
+conj
+286743	verb
+np
+conj
+verb
+pp
+verb
+noun
+conj
+286752	verb
+pron
+noun
+conj
+286757	verb
+verb
+conj
+conj
+verb
+conj
+conj
+verb
+np
+np
+np
+verb
+np
+np
+verb
+verb
+conj
+verb
+np
+np
+conj
+verb
+pp
+286781	verb
+pron
+verb
+np
+pp
+np
+conj
+conj
+pron
+verb
+conj
+verb
+pron
+np
+conj
+conj
+verb
+np
+np
+np
+verb
+np
+np
+verb
+verb
+conj
+verb
+conj
+286810	verb
+np
+conj
+verb
+pp
+verb
+noun
+pp
+np
+np
+conj
+verb
+conj
+noun
+pp
+np
+np
+np
+verb
+286831	np
+noun
+conj
+np
+np
+noun
+conj
+286839	np
+conj
+np
+adv
+verb
+conj
+conj
+verb
+np
+np
+np
+verb
+np
+np
+np
+verb
+verb
+conj
+verb
+conj
+286860	verb
+np
+conj
+286864	verb
+pp
+noun
+pron
+np
+conj
+np
+verb
+pp
+conj
+verb
+pron
+noun
+pp
+np
+np
+np
+verb
+286883	pp
+conj
+pp
+conj
+pp
+conj
+pp
+np
+np
+np
+conj
+conj
+verb
+np
+np
+verb
+pp
+np
+np
+np
+verb
+286905	pp
+np
+np
+np
+conj
+pp
+np
+pron
+verb
+conj
+verb
+np
+verb
+pp
+np
+np
+np
+conj
+adv
+verb
+conj
+verb
+np
+np
+pp
+verb
+pp
+np
+conj
+verb
+np
+np
+conj
+verb
+pron
+conj
+verb
+adv
+np
+conj
+verb
+np
+286949	np
+np
+conj
+np
+np
+verb
+verb
+conj
+np
+conj
+verb
+conj
+verb
+np
+np
+np
+conj
+286967	np
+verb
+conj
+np
+verb
+adj
+pp
+conj
+np
+conj
+np
+np
+verb
+pp
+conj
+conj
+np
+np
+np
+verb
+pp
+np
+conj
+noun
+verb
+np
+np
+pp
+np
+verb
+conj
+np
+verb
+conj
+noun
+verb
+conj
+np
+287006	conj
+pp
+np
+np
+verb
+conj
+287013	np
+np
+np
+conj
+np
+conj
+np
+conj
+np
+conj
+np
+conj
+np
+287027	conj
+verb
+pron
+287031	pp
+np
+conj
+pp
+np
+np
+np
+conj
+verb
+287041	np
+conj
+np
+verb
+pp
+conj
+verb
+pron
+287050	pp
+np
+verb
+pp
+np
+conj
+pp
+np
+np
+np
+conj
+287062	verb
+np
+np
+np
+np
+np
+np
+conj
+pron
+verb
+verb
+pp
+verb
+np
+verb
+pp
+np
+np
+np
+np
+verb
+np
+np
+np
+np
+conj
+adv
+verb
+noun
+287092	pp
+np
+conj
+pp
+np
+conj
+pp
+np
+conj
+verb
+np
+verb
+pp
+np
+verb
+np
+np
+verb
+conj
+verb
+np
+np
+np
+287116	verb
+verb
+287119	np
+conj
+np
+verb
+adv
+verb
+287126	np
+conj
+np
+conj
+np
+conj
+verb
+np
+np
+np
+np
+pp
+np
+np
+conj
+verb
+287143	np
+np
+verb
+np
+np
+287149	verb
+pp
+np
+np
+np
+pp
+np
+np
+verb
+pp
+np
+np
+pp
+np
+np
+pp
+np
+np
+pp
+np
+np
+pp
+np
+np
+pp
+np
+np
+pp
+np
+np
+pp
+np
+np
+pp
+np
+np
+pp
+np
+np
+pp
+np
+np
+verb
+pp
+verb
+conj
+verb
+np
+np
+287199	verb
+adj
+verb
+pp
+np
+conj
+conj
+conj
+verb
+287209	pp
+np
+conj
+pp
+np
+verb
+np
+conj
+noun
+pp
+np
+np
+conj
+verb
+np
+verb
+np
+287228	np
+np
+verb
+pp
+np
+conj
+np
+conj
+np
+np
+verb
+np
+287241	np
+conj
+np
+conj
+np
+np
+conj
+287249	verb
+pp
+np
+pp
+np
+np
+conj
+verb
+np
+verb
+ptcl
+287261	np
+conj
+np
+conj
+np
+conj
+np
+conj
+np
+conj
+np
+conj
+np
+np
+np
+pp
+np
+np
+np
+ptcl
+conj
+verb
+np
+pp
+np
+verb
+pron
+287290	verb
+np
+np
+np
+pron
+verb
+conj
+adv
+verb
+conj
+verb
+pron
+np
+pron
+verb
+conj
+verb
+pron
+287309	pron
+verb
+verb
+pp
+np
+np
+np
+conj
+287318	verb
+np
+np
+conj
+verb
+pron
+pp
+np
+np
+np
+287330	pp
+verb
+pp
+np
+np
+np
+conj
+verb
+pron
+287340	conj
+pp
+np
+np
+conj
+verb
+pp
+np
+verb
+pp
+adv
+verb
+adv
+conj
+verb
+adv
+conj
+adv
+verb
+pp
+287361	np
+conj
+np
+conj
+287368	np
+np
+pp
+np
+np
+verb
+pron
+conj
+verb
+pron
+pp
+np
+np
+conj
+verb
+np
+np
+pp
+np
+np
+conj
+conj
+verb
+np
+np
+np
+verb
+noun
+pp
+np
+np
+conj
+verb
+np
+np
+pron
+pp
+np
+verb
+conj
+verb
+pron
+np
+conj
+np
+verb
+conj
+287416	verb
+pp
+np
+verb
+np
+conj
+verb
+pron
+np
+conj
+verb
+np
+np
+np
+np
+pp
+287433	np
+np
+np
+np
+pp
+np
+conj
+verb
+np
+np
+np
+np
+np
+np
+pp
+np
+np
+pp
+np
+conj
+verb
+np
+np
+conj
+verb
+pron
+pp
+np
+np
+np
+conj
+verb
+pp
+np
+conj
+verb
+287470	conj
+conj
+conj
+conj
+287475	np
+np
+verb
+np
+np
+verb
+pron
+conj
+verb
+conj
+np
+verb
+conj
+verb
+287490	conj
+verb
+pp
+conj
+verb
+pp
+np
+conj
+np
+np
+np
+verb
+conj
+np
+np
+np
+verb
+conj
+np
+np
+verb
+conj
+np
+np
+verb
+conj
+pp
+conj
+np
+np
+noun
+verb
+verb
+pp
+np
+conj
+verb
+np
+np
+np
+noun
+conj
+verb
+np
+np
+287537	np
+np
+pp
+np
+verb
+noun
+conj
+np
+np
+np
+verb
+conj
+np
+np
+verb
+conj
+verb
+pp
+np
+np
+verb
+conj
+noun
+conj
+verb
+287563	pp
+np
+np
+np
+conj
+pp
+np
+np
+np
+conj
+np
+np
+np
+verb
+np
+conj
+verb
+np
+np
+np
+pp
+conj
+np
+np
+verb
+pp
+np
+conj
+verb
+conj
+np
+np
+verb
+conj
+verb
+287599	np
+np
+np
+conj
+np
+np
+np
+conj
+np
+np
+np
+conj
+verb
+np
+np
+conj
+287616	np
+adv
+verb
+np
+np
+conj
+np
+adv
+conj
+verb
+conj
+verb
+np
+verb
+pp
+verb
+np
+287634	verb
+pp
+np
+pp
+np
+np
+np
+np
+np
+287644	np
+np
+verb
+verb
+conj
+np
+np
+verb
+conj
+verb
+noun
+pp
+np
+verb
+pp
+np
+conj
+verb
+pron
+np
+np
+np
+np
+np
+conj
+287670	verb
+np
+np
+np
+conj
+verb
+noun
+pp
+np
+conj
+np
+np
+conj
+verb
+287685	np
+conj
+np
+pp
+np
+np
+np
+conj
+pp
+np
+verb
+noun
+pp
+np
+conj
+verb
+pron
+noun
+conj
+verb
+noun
+np
+np
+np
+conj
+verb
+pron
+conj
+adv
+verb
+287716	np
+np
+np
+conj
+np
+conj
+np
+conj
+adv
+np
+pron
+adv
+verb
+np
+np
+np
+pp
+np
+conj
+verb
+pron
+conj
+287739	verb
+pron
+conj
+conj
+verb
+np
+conj
+np
+np
+pp
+conj
+np
+conj
+verb
+noun
+conj
+287756	pp
+np
+np
+verb
+np
+np
+conj
+advp
+verb
+pron
+conj
+287768	verb
+verb
+conj
+verb
+np
+pp
+conj
+np
+np
+np
+adj
+np
+verb
+pp
+conj
+pp
+np
+np
+pp
+conj
+adj
+noun
+conj
+np
+np
+pp
+conj
+np
+conj
+verb
+np
+pp
+conj
+np
+conj
+np
+np
+pp
+conj
+verb
+conj
+verb
+np
+pp
+conj
+np
+conj
+np
+np
+np
+np
+pp
+conj
+np
+np
+np
+np
+verb
+pp
+conj
+verb
+287830	adj
+noun
+conj
+conj
+pp
+np
+np
+np
+np
+verb
+np
+np
+verb
+pp
+287845	np
+np
+np
+np
+adv
+noun
+conj
+pp
+np
+noun
+verb
+noun
+np
+np
+np
+verb
+verb
+verb
+adv
+np
+pp
+conj
+np
+np
+verb
+conj
+verb
+np
+pp
+np
+np
+np
+287878	np
+np
+np
+np
+pp
+np
+verb
+287886	np
+np
+verb
+np
+verb
+287892	np
+np
+verb
+pp
+287897	np
+np
+np
+conj
+verb
+287903	np
+np
+verb
+pp
+np
+conj
+conj
+conj
+conj
+verb
+np
+np
+np
+conj
+np
+np
+np
+np
+np
+np
+verb
+np
+np
+conj
+adv
+verb
+np
+pp
+np
+conj
+verb
+pp
+verb
+np
+conj
+conj
+conj
+np
+np
+np
+pp
+conj
+np
+conj
+pp
+np
+np
+verb
+287952	conj
+conj
+287955	pp
+np
+np
+np
+verb
+np
+np
+np
+pp
+287966	np
+conj
+np
+conj
+np
+verb
+pp
+np
+np
+np
+conj
+np
+np
+287980	pp
+np
+np
+verb
+conj
+pp
+np
+np
+np
+conj
+np
+adj
+noun
+verb
+noun
+conj
+pp
+verb
+conj
+np
+np
+np
+pron
+adv
+verb
+pp
+np
+np
+conj
+verb
+pp
+np
+np
+np
+np
+conj
+adv
+verb
+288019	np
+conj
+np
+np
+288024	np
+conj
+np
+conj
+np
+conj
+np
+conj
+np
+pron
+288035	conj
+verb
+conj
+conj
+conj
+adv
+verb
+288043	pp
+np
+np
+conj
+pp
+np
+np
+conj
+pp
+np
+np
+conj
+pp
+np
+np
+conj
+verb
+np
+np
+verb
+pp
+np
+verb
+noun
+conj
+288070	np
+pp
+np
+np
+conj
+np
+np
+pp
+conj
+np
+conj
+np
+np
+pp
+conj
+np
+conj
+verb
+pp
+np
+np
+np
+verb
+conj
+288095	verb
+np
+np
+np
+np
+pp
+np
+np
+conj
+pp
+np
+conj
+verb
+np
+conj
+noun
+verb
+conj
+conj
+verb
+verb
+np
+np
+np
+np
+conj
+conj
+verb
+np
+np
+verb
+verb
+conj
+verb
+noun
+pp
+np
+verb
+288134	verb
+pron
+verb
+np
+np
+conj
+adv
+pron
+verb
+conj
+np
+pron
+verb
+verb
+288149	pp
+np
+conj
+pp
+np
+verb
+np
+np
+np
+np
+pp
+np
+conj
+verb
+pp
+verb
+pp
+np
+np
+np
+pron
+verb
+288173	np
+conj
+np
+pp
+conj
+288179	np
+conj
+np
+pp
+conj
+288185	np
+conj
+np
+pp
+conj
+noun
+adv
+verb
+conj
+pp
+np
+np
+np
+np
+np
+np
+verb
+verb
+adv
+verb
+np
+np
+np
+conj
+verb
+288211	np
+np
+np
+conj
+np
+pron
+verb
+pp
+np
+adv
+verb
+pp
+conj
+verb
+verb
+verb
+288228	np
+verb
+pp
+np
+np
+288234	np
+verb
+288237	pp
+np
+conj
+pp
+np
+conj
+verb
+pp
+np
+verb
+pron
+verb
+pron
+np
+conj
+verb
+pron
+288256	verb
+conj
+verb
+pron
+conj
+288262	verb
+np
+np
+conj
+pp
+np
+np
+verb
+adj
+conj
+noun
+conj
+288275	verb
+np
+pp
+np
+np
+np
+conj
+verb
+pron
+conj
+verb
+pp
+np
+np
+pp
+conj
+adj
+conj
+conj
+verb
+pron
+verb
+np
+np
+conj
+verb
+pron
+verb
+pron
+adv
+verb
+pp
+np
+conj
+conj
+conj
+conj
+verb
+pron
+adj
+noun
+verb
+288318	verb
+conj
+verb
+288322	np
+np
+np
+conj
+np
+conj
+verb
+pp
+conj
+288332	np
+np
+advp
+np
+verb
+adv
+conj
+adv
+pron
+verb
+conj
+288344	verb
+np
+conj
+np
+np
+np
+verb
+np
+288353	conj
+verb
+np
+np
+np
+conj
+verb
+np
+288362	verb
+noun
+pron
+verb
+288368	np
+np
+conj
+np
+np
+pp
+np
+np
+np
+verb
+conj
+conj
+pron
+pron
+verb
+verb
+noun
+verb
+pp
+np
+np
+conj
+verb
+np
+np
+conj
+conj
+pron
+verb
+pron
+verb
+adv
+verb
+pron
+verb
+pron
+verb
+np
+verb
+np
+conj
+adv
+noun
+verb
+np
+np
+np
+np
+conj
+noun
+verb
+pp
+np
+verb
+pron
+pp
+conj
+verb
+np
+pp
+np
+conj
+verb
+conj
+conj
+verb
+np
+np
+288437	np
+verb
+pp
+np
+verb
+pp
+noun
+conj
+288446	verb
+pron
+conj
+verb
+pron
+conj
+np
+np
+pp
+np
+np
+np
+np
+np
+pron
+verb
+adv
+288464	conj
+adv
+np
+np
+np
+verb
+conj
+verb
+pp
+288474	np
+conj
+conj
+conj
+np
+np
+np
+conj
+conj
+np
+np
+adv
+verb
+verb
+pp
+conj
+288491	verb
+pp
+np
+verb
+pp
+conj
+verb
+conj
+noun
+verb
+pron
+conj
+np
+np
+np
+verb
+verb
+pp
+np
+conj
+288512	pp
+np
+np
+conj
+np
+pp
+np
+verb
+pp
+conj
+verb
+pp
+np
+np
+conj
+np
+verb
+pp
+verb
+pron
+conj
+verb
+np
+pp
+np
+verb
+pron
+verb
+adv
+conj
+verb
+pp
+np
+pp
+np
+conj
+verb
+pron
+np
+np
+conj
+pp
+np
+np
+verb
+np
+conj
+288560	np
+np
+np
+verb
+conj
+288566	verb
+pp
+np
+288570	np
+np
+conj
+288574	np
+adj
+verb
+conj
+verb
+noun
+np
+np
+np
+np
+np
+np
+verb
+verb
+np
+np
+np
+verb
+adj
+conj
+np
+np
+verb
+conj
+verb
+np
+pp
+np
+verb
+288604	verb
+np
+np
+np
+288609	np
+np
+conj
+np
+np
+conj
+verb
+pp
+np
+np
+np
+conj
+288622	np
+np
+nump
+pp
+np
+verb
+pp
+np
+np
+verb
+pp
+np
+np
+conj
+verb
+np
+verb
+verb
+pron
+288644	np
+np
+288647	verb
+conj
+verb
+conj
+288652	verb
+np
+np
+np
+np
+conj
+verb
+conj
+np
+verb
+conj
+288664	verb
+np
+np
+conj
+np
+np
+np
+verb
+conj
+verb
+np
+288676	np
+np
+288679	np
+conj
+np
+conj
+verb
+np
+np
+288687	np
+conj
+np
+conj
+verb
+verb
+np
+conj
+verb
+288697	np
+np
+np
+np
+pp
+np
+conj
+verb
+np
+np
+np
+np
+pp
+np
+np
+conj
+verb
+288715	conj
+conj
+conj
+conj
+np
+conj
+np
+verb
+pp
+np
+288728	noun
+verb
+np
+conj
+np
+pp
+np
+np
+conj
+pp
+np
+np
+np
+np
+conj
+pp
+verb
+conj
+verb
+288748	verb
+conj
+verb
+verb
+conj
+verb
+np
+pp
+np
+conj
+288759	verb
+np
+np
+verb
+288764	np
+conj
+np
+conj
+pp
+np
+np
+np
+conj
+288774	np
+np
+verb
+np
+np
+np
+np
+np
+conj
+verb
+pron
+pp
+np
+conj
+np
+verb
+pp
+288792	np
+verb
+verb
+conj
+conj
+verb
+np
+np
+verb
+conj
+verb
+np
+pron
+verb
+verb
+np
+np
+pp
+np
+conj
+verb
+np
+np
+288816	pp
+np
+conj
+pp
+np
+np
+conj
+np
+verb
+pp
+np
+adv
+verb
+adv
+np
+verb
+pp
+np
+conj
+adv
+verb
+pron
+np
+288840	conj
+verb
+noun
+pp
+np
+288846	np
+conj
+np
+np
+verb
+pp
+np
+conj
+288855	np
+verb
+conj
+np
+np
+conj
+adv
+verb
+conj
+np
+verb
+adv
+pp
+np
+conj
+verb
+288874	np
+np
+np
+np
+np
+np
+verb
+288882	conj
+np
+verb
+np
+np
+288888	verb
+pp
+np
+conj
+np
+np
+pp
+verb
+conj
+verb
+np
+pp
+np
+verb
+adv
+verb
 288905	np
-pron
-verb
-np
-np
-np
-np
-np
-verb
-pp
-np
-np
 conj
-verb
-conj
-verb
-pp
-np
-np
-verb
-pp
-np
-conj
-288929	conj
-verb
-np
-288933	np
 np
 conj
 np
 np
-nump
-verb
-pp
-np
-verb
-adj
-288945	conj
 np
 np
-verb
-288950	pron
-verb
+conj
+np
 np
 np
 np
 conj
 verb
-np
-verb
-288960	adj
-verb
-288963	verb
-np
-conj
-verb
+288921	np
 np
 np
-conj
-288971	verb
-conj
-verb
 np
-pp
-np
-np
-pp
-np
-conj
-conj
-conj
-conj
 verb
 pron
-np
-np
-288989	conj
-conj
-verb
 pp
 np
+np
+288931	conj
 conj
+pron
 verb
-conj
-288998	verb
+pron
+288937	pp
 np
 np
-np
-289003	np
-conj
-np
-conj
-np
-conj
-verb
-np
-np
-289013	np
-conj
-np
-verb
-np
-adj
-verb
-289021	np
-verb
-verb
-np
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-289033	np
-289035	pron
-289037	pp
 np
 conj
 pp
 np
-conj
-pp
+np
+np
 np
 conj
-pp
-np
+adv
 verb
-conj
 np
 np
+pp
 pp
 verb
-verb
-289056	verb
+288956	conj
 pp
-np
-conj
-np
-289062	np
-conj
-np
-conj
-np
-conj
-np
-pp
-np
-np
-np
-conj
-np
-np
 verb
 ptcl
+288961	np
 conj
 np
-verb
-conj
-verb
-conj
-289085	verb
-conj
-verb
-np
-np
-pp
-np
-np
-conj
-verb
-np
-pp
-np
-np
-verb
-pp
-conj
-np
-verb
-conj
-verb
-conj
-289109	verb
-np
-conj
-verb
-pp
-verb
-noun
-conj
-289118	verb
-pron
-noun
-conj
-289123	verb
-verb
-conj
-conj
-verb
-conj
-289130	conj
-verb
-np
-np
-np
-verb
-np
-np
-verb
-verb
-conj
-verb
-np
-np
-conj
-verb
-pp
-289148	verb
-pron
-verb
-np
-pp
-np
-conj
-conj
-pron
-verb
-conj
-verb
-pron
-np
-conj
-289164	conj
-verb
-np
-np
-np
-verb
-np
-np
-verb
-verb
-conj
-verb
-conj
-289178	verb
-np
-conj
-verb
-pp
-verb
-noun
-pp
-np
-np
-conj
-verb
-conj
-noun
-pp
-np
-np
-np
-verb
-289199	np
-noun
-conj
-np
-np
-noun
-conj
-289207	np
-conj
-np
-adv
-verb
-conj
-289214	conj
-verb
-np
-np
-np
-verb
-np
-np
-np
-verb
-verb
-conj
-verb
-conj
-289229	verb
-np
-conj
-289233	verb
-pp
-noun
-pron
-np
-conj
-np
-verb
-pp
-conj
-verb
-pron
-noun
-pp
-np
-np
-np
-verb
-289252	pp
-conj
-pp
-conj
-pp
-conj
-pp
-np
-np
-np
-conj
-289264	conj
-verb
-np
-np
-verb
-pp
-np
-np
-np
-verb
-289275	pp
-np
-np
-np
-conj
-pp
-np
-289283	pron
-verb
-conj
-verb
-np
-verb
-pp
-np
-np
-np
-conj
-adv
-verb
-conj
-verb
-np
-np
-pp
-verb
-pp
-np
-conj
-verb
-np
-np
-conj
-verb
-pron
-conj
-verb
-adv
-np
-conj
-verb
-np
-289320	np
-np
-conj
-np
-np
-verb
-289327	verb
-conj
-np
-conj
-289332	verb
-conj
-verb
-np
-np
-np
-conj
-289340	np
-verb
-conj
-np
-verb
-adj
-pp
-conj
-np
-conj
-np
-np
-verb
-pp
-conj
-conj
-np
-np
-np
-verb
-pp
-np
-conj
-noun
-verb
-np
-np
-pp
-np
-verb
-conj
-np
-verb
-conj
-noun
-verb
-conj
-np
-289379	conj
-pp
-np
-np
-verb
-conj
-289386	np
-np
-np
-conj
-np
-conj
-np
-conj
-np
-conj
-np
-conj
-np
-289400	conj
-verb
-pron
-289404	pp
-np
-conj
-pp
-np
-np
-np
-conj
-verb
-289414	np
-conj
-np
-289418	verb
-pp
-conj
-verb
-pron
-289424	pp
-np
-verb
-pp
-np
-conj
-pp
-np
-np
-np
-conj
-289436	verb
-np
-np
-np
-np
-np
-np
-conj
-pron
-verb
-verb
-pp
-verb
-np
-verb
-pp
-np
-np
-np
-np
-verb
-np
-np
-np
-np
-conj
-adv
-verb
-noun
-289466	pp
-np
-conj
-pp
-np
-conj
-pp
-np
-conj
-verb
-np
-verb
-pp
-np
-verb
-np
-np
-verb
-conj
-verb
-np
-np
-289489	np
-289491	verb
-verb
-289494	np
-conj
-np
-verb
-289499	adv
-verb
-289502	np
-conj
-np
-conj
-np
-conj
-verb
-np
-np
-np
-np
-pp
-np
-np
-conj
-verb
-289519	np
-np
-verb
-np
-np
-289525	verb
-pp
-np
-np
-np
-289531	pp
-np
-np
-verb
-pp
-np
-np
-pp
-np
-np
-pp
-np
-np
-pp
-np
-np
-pp
-np
-np
-pp
-np
-np
-pp
-np
-np
-pp
-np
-np
-pp
-np
-np
-pp
-np
-np
-pp
-np
-np
-verb
-pp
-verb
-conj
-verb
-np
-289575	np
-289577	verb
-adj
-verb
-pp
-np
-conj
-conj
-conj
-verb
-289587	pp
-np
-conj
-pp
-np
-verb
-np
-conj
-noun
-pp
-np
-np
-conj
-verb
-np
-verb
-np
-289606	np
-np
-verb
-pp
-np
-conj
-np
-conj
-np
-np
-verb
-np
-289619	np
-conj
-np
-conj
-np
-np
-conj
-289627	verb
-pp
-np
-pp
-np
-np
-conj
-verb
-np
-verb
-ptcl
-289639	np
-conj
-np
-conj
-np
-conj
-np
-conj
-np
-conj
-np
-conj
-np
-np
-np
-pp
-np
-np
-np
-ptcl
-conj
-verb
-np
-pp
-np
-verb
-pron
-289668	verb
-np
-np
-np
-pron
-verb
-conj
-adv
-verb
-conj
-verb
-pron
-np
-pron
-verb
-conj
-verb
-pron
-289687	pron
-verb
-verb
-pp
-np
-np
-np
-conj
-289696	verb
-np
-np
-conj
-verb
-pron
-pp
-np
-np
-np
-289708	pp
-verb
-pp
-np
-np
-np
-conj
-verb
-pron
-289718	conj
-pp
-np
-np
-conj
-verb
-pp
-np
-verb
-pp
-adv
-verb
-adv
-conj
-verb
-adv
-conj
-adv
-verb
-pp
-289739	np
-conj
-np
-conj
-289746	np
-np
-pp
-np
-np
-verb
-pron
-conj
-verb
-pron
-pp
-np
-np
-conj
-verb
-np
-np
-pp
-np
-np
-conj
-289768	conj
-verb
-np
-np
-np
-verb
-noun
-pp
-np
-np
-conj
-verb
-np
-289782	np
-pron
-pp
-np
-verb
-conj
-verb
-pron
-np
-conj
-np
-verb
-conj
-289796	verb
-pp
-np
-verb
-np
-conj
-289803	verb
-pron
-np
-conj
-verb
-np
-np
-np
-np
-pp
-289814	np
-np
-np
-np
-pp
-np
-conj
-verb
-np
-np
-np
-np
-np
-np
-pp
-np
-np
-pp
-np
-conj
-verb
-np
-np
-conj
-verb
-pron
-pp
-np
-np
-np
-conj
-verb
-pp
-np
-conj
-verb
-289851	conj
-conj
-conj
-conj
-289856	np
-np
-verb
-np
-np
-verb
-pron
-conj
-verb
-conj
-np
-verb
-conj
-verb
-289871	conj
-verb
-pp
-conj
-verb
-pp
-np
-conj
-np
-np
-np
-verb
-conj
-np
-np
-np
-verb
-conj
-np
-np
-verb
-conj
-np
-np
-verb
-conj
-pp
-conj
-np
-np
-noun
-verb
-verb
-pp
-np
-conj
-verb
-np
-np
-np
-noun
-conj
-verb
-np
-np
-289918	np
-np
-pp
-np
-verb
-noun
-conj
-np
-np
-np
-verb
-conj
-np
-np
-verb
-conj
-verb
-pp
-np
-np
-289939	verb
-conj
-noun
-conj
-verb
-289945	pp
-np
-np
-np
-conj
-pp
-np
-np
-np
-conj
-np
-np
-np
-verb
-np
-conj
-verb
-np
-np
-np
-pp
-conj
-289968	np
-np
-verb
-pp
-np
-conj
-verb
-conj
-np
-np
-verb
-conj
-verb
-289982	np
-np
-np
-conj
-np
-np
-np
-conj
-np
-np
-np
-conj
-verb
-np
-np
-conj
-289999	np
-adv
-verb
-np
-np
-conj
-np
-adv
-conj
-verb
-conj
-verb
-np
-verb
-pp
-verb
-np
-290017	verb
-pp
-np
-pp
-np
-np
-np
-np
-np
-290027	np
-np
-verb
-verb
-conj
-np
-np
-verb
-conj
-verb
-noun
-pp
-np
-verb
-pp
-np
-conj
-verb
-pron
-np
-np
-np
-np
-np
-conj
-290053	verb
-np
-np
-np
-conj
-verb
-noun
-pp
-np
-conj
-np
-np
-conj
-verb
-290068	np
-conj
-np
-pp
-np
-np
-np
-conj
-pp
-np
-verb
-noun
-pp
-np
-conj
-verb
-pron
-noun
-conj
-verb
-noun
-np
-np
-np
-conj
-verb
-pron
-conj
-290097	adv
-verb
-290100	np
-np
-np
-conj
-np
-conj
-np
-conj
-adv
-np
-290111	pron
-adv
-verb
-np
-np
-np
-pp
-np
-conj
-verb
-pron
-conj
-290124	verb
-pron
-conj
-conj
-verb
-np
-conj
-np
-np
-pp
-conj
-np
-conj
-verb
-noun
-conj
-290141	pp
-np
-np
-verb
-np
-np
-conj
-advp
-verb
-pron
-conj
-290153	verb
-verb
-conj
-verb
-np
-pp
-conj
-np
-np
-np
-adj
-np
-verb
-pp
-conj
-pp
-np
-np
-pp
-conj
-290174	adj
-noun
-conj
-np
-np
-pp
-conj
-np
-conj
-verb
-np
-pp
-conj
-np
-conj
-np
-np
-pp
-conj
-verb
-conj
-verb
-np
-pp
-conj
-np
-conj
-np
-np
-np
-np
-pp
-conj
-np
-np
-np
-np
-verb
-pp
-conj
-verb
-290217	adj
-noun
-conj
-conj
-pp
-np
-np
-np
-290226	np
-verb
-np
-np
-verb
-pp
-290233	np
-np
-np
-np
-adv
-noun
-conj
-pp
-np
-noun
-verb
-noun
-np
-np
-np
-verb
-verb
-verb
-adv
-np
-pp
-conj
-np
-np
-verb
-conj
-verb
-np
-pp
-np
-np
-np
-290266	np
-np
-np
-np
-pp
-np
-verb
-290274	np
-np
-verb
-np
-verb
-290280	np
-np
-verb
-pp
-290285	np
-np
-np
-conj
-verb
-290291	np
-np
-verb
-pp
-np
-conj
-conj
-conj
-conj
-verb
-np
-np
-np
-conj
-np
-np
-np
-np
-np
-np
-verb
-np
-np
-conj
-adv
-verb
-np
-pp
-np
-conj
-verb
-pp
-verb
-np
-conj
-conj
-conj
-np
-np
-np
-pp
-conj
-np
-conj
-pp
-np
-np
-verb
-290340	conj
-conj
-290343	pp
-np
-np
-np
-verb
-np
-np
-np
-pp
-290354	np
-conj
-np
-conj
-np
-verb
-pp
-np
-np
-np
-conj
-np
-np
-290368	pp
-np
-np
-verb
-conj
-pp
-np
-np
-np
-conj
-np
-adj
-noun
-verb
-noun
-conj
-pp
-verb
-conj
-np
-290389	np
-np
-pron
-adv
-verb
-pp
-np
-np
-conj
-verb
-pp
-np
-np
-np
-np
-conj
-adv
-verb
-290408	np
-conj
-np
-290412	np
-290414	np
-conj
-np
-conj
-np
-conj
-np
-conj
-np
-pron
-290425	conj
-verb
-conj
-conj
-conj
-adv
-verb
-290433	pp
-np
-np
-conj
-pp
-np
-np
-conj
-pp
-np
-np
-conj
-pp
-np
-np
-conj
-verb
-np
-np
-verb
-pp
-np
-verb
-noun
-conj
-290460	np
-pp
-np
-np
-conj
-np
-np
-pp
-conj
-np
-conj
-np
-np
-pp
-conj
-np
-conj
-verb
-pp
-np
-np
-np
-verb
-conj
-290485	verb
-np
-np
-np
-np
-pp
-np
-np
-conj
-pp
-np
-conj
-verb
-np
-conj
-noun
-verb
-conj
-290504	conj
-verb
-verb
-np
-np
-np
-np
-conj
-290513	conj
-verb
-np
-np
-verb
-verb
-conj
-verb
-noun
-pp
-np
-verb
-290526	verb
-pron
-verb
-np
-np
-conj
-adv
-pron
-verb
-conj
-np
-290538	pron
-verb
-verb
-290542	pp
-np
-conj
-pp
-np
-verb
-np
-np
-np
-np
-pp
-np
-conj
-verb
-pp
-290558	verb
-pp
-np
-np
-np
-pron
-verb
-290567	np
-conj
-np
-pp
-conj
-290573	np
-conj
-np
-pp
-conj
-290579	np
-conj
-np
-pp
-conj
-noun
-adv
-verb
-conj
-pp
-np
-np
-np
-np
-np
-np
-verb
-verb
-adv
-verb
-np
-np
-np
-conj
-verb
-290605	np
-np
-np
-conj
-np
-290611	pron
-verb
-pp
-np
-adv
-verb
-pp
-conj
-verb
-290621	verb
-verb
-290624	np
-verb
-pp
-np
-np
-290630	np
-verb
-290633	pp
-np
-conj
-pp
-np
-conj
-verb
-pp
-np
-verb
-pron
-verb
-pron
-np
-conj
-verb
-pron
-290652	verb
-conj
-verb
-pron
-conj
-290658	verb
-np
-np
-conj
-pp
-np
-np
-verb
-adj
-conj
-noun
-conj
-290671	verb
-np
-pp
-np
-np
-np
-conj
-verb
-pron
-conj
-verb
-pp
-np
-np
-pp
-conj
-adj
-conj
-conj
-verb
-pron
-verb
-np
-np
-conj
-verb
-pron
-verb
-pron
-adv
-verb
-pp
-np
-conj
-conj
-conj
-conj
-verb
-pron
-290711	adj
-noun
-verb
-290715	verb
-conj
-verb
-290719	np
-np
-np
-conj
-np
-conj
-verb
-pp
-conj
-290729	np
-np
-advp
-np
-verb
-adv
-conj
-adv
-pron
-verb
-conj
-290741	verb
-np
-conj
-np
-np
-np
-verb
-np
-290750	conj
-verb
-np
-np
-np
-conj
-verb
-np
-290759	verb
-noun
-pron
-verb
-290765	np
-np
-conj
-np
-np
-pp
-np
-np
-np
-verb
-conj
-290777	conj
-pron
-pron
-verb
-verb
-noun
-verb
-pp
-np
-np
-conj
-verb
-np
-np
-conj
-290793	conj
-pron
-verb
-pron
-verb
-adv
-verb
-pron
-verb
-290803	pron
-verb
-np
-verb
-np
-conj
-adv
-noun
-verb
-np
-np
-np
-np
-conj
-noun
-verb
-pp
-np
-verb
-pron
-pp
-conj
-290826	verb
-np
-pp
-np
-conj
-verb
-conj
-290834	conj
-verb
-np
-np
-290839	np
-verb
-pp
-np
-verb
-pp
-noun
-conj
-290848	verb
-pron
-conj
-verb
-pron
-conj
-np
-np
-pp
-np
-np
-np
-290862	np
-np
-pron
-verb
-adv
-290868	conj
-adv
-np
-np
-np
-verb
-conj
-verb
-pp
-290878	np
-conj
-conj
-conj
-np
-np
-np
-conj
-conj
-np
-np
-adv
-verb
-verb
-pp
-conj
-290895	verb
-pp
-np
-verb
-pp
-conj
-verb
-conj
-noun
-verb
-pron
-conj
-np
-np
-np
-verb
-verb
-pp
-np
-conj
-290916	pp
-np
-np
-conj
-np
-pp
-np
-verb
-pp
-conj
-verb
-pp
-np
-np
-conj
-np
-verb
-pp
-verb
-pron
-conj
-verb
-np
-pp
-np
-verb
-pron
-verb
-adv
-conj
-verb
-pp
-np
-pp
-np
-conj
-verb
-pron
-np
-np
-conj
-pp
-np
-np
-verb
-np
-conj
-290964	np
-np
-np
-verb
-conj
-290970	verb
-pp
-np
-290974	np
-np
-conj
-290978	np
-adj
-verb
-conj
-verb
-noun
-np
-np
-np
-np
-np
-np
-verb
-verb
-np
-np
-np
-verb
-adj
-conj
-np
-np
-verb
-conj
-verb
-np
-pp
-np
-verb
-291008	verb
-np
-np
-np
-291013	np
-np
-conj
-np
-np
-conj
-verb
-pp
-np
-np
-np
-conj
-291026	np
-np
-nump
-pp
-np
-verb
-pp
-np
-np
-verb
-pp
-np
-np
-conj
-verb
-np
-verb
-291044	verb
-pron
-291049	np
-np
-291052	verb
-conj
-verb
-conj
-291057	verb
-np
-np
-np
-np
-conj
-verb
-conj
-np
-verb
-conj
-291069	verb
-np
-np
-conj
-np
-291075	np
-np
-verb
-conj
-verb
-np
-291082	np
-np
-291085	np
-conj
-np
-conj
-verb
-np
-np
-291093	np
-conj
-np
-conj
-verb
-verb
-np
-conj
-verb
-291103	np
-np
-np
-np
-pp
-np
-conj
-verb
-np
-np
-np
-np
-pp
-np
-np
-conj
-verb
-291121	conj
-conj
-conj
-conj
-np
-conj
-np
-verb
-pp
-np
-291134	noun
-verb
-np
-conj
-np
-pp
-np
-np
-conj
-pp
-np
-np
-np
-np
-conj
-pp
-verb
-conj
-verb
-291154	verb
-conj
-verb
-verb
-conj
-verb
-np
-pp
-np
-conj
-291165	verb
-np
-np
-verb
-291170	np
-conj
-np
-conj
-pp
-np
-np
-np
-conj
-291180	np
-np
-verb
-np
-np
-np
-np
-np
-conj
-verb
-pron
-pp
-np
-conj
-np
-verb
-pp
-291198	np
-verb
-verb
-conj
-conj
-verb
-np
-np
-verb
-conj
-verb
-291210	np
-pron
-verb
-verb
-np
-np
-pp
-np
-conj
-verb
-np
-np
-291223	pp
-np
-conj
-pp
-np
-np
-conj
-np
-verb
-pp
-291234	np
-adv
-verb
-adv
-np
-verb
-pp
-np
 conj
-adv
 verb
-pron
 np
-291248	conj
-291250	verb
-noun
 pp
-np
-291255	np
-conj
-np
-np
 verb
-pp
 np
-conj
-291264	np
 verb
 conj
 np
-np
-conj
-291271	adv
 verb
 conj
-np
-verb
-adv
-pp
-np
 conj
 verb
-291284	np
 np
-np
-np
-np
-np
-verb
-291292	conj
-np
-verb
-np
-np
-291298	verb
-pp
-np
-conj
-np
-np
-pp
-verb
 conj
 verb
-np
 pp
-np
-verb
-291313	adv
-verb
-291316	np
-conj
-np
-conj
-np
-np
-np
-np
-conj
-np
-np
-np
-np
-conj
-verb
-291332	np
-np
-np
 np
 verb
-pron
-pp
 np
-np
-291342	conj
-conj
 pron
 verb
-pron
-291348	pp
-np
-np
-np
-conj
-pp
-np
-np
 np
-np
 conj
-adv
 verb
 np
 np
-pp
-pp
-verb
-291367	conj
-pp
-verb
-291371	ptcl
-291373	np
-conj
 np
-conj
-verb
 np
-pp
-verb
 np
-verb
-conj
 np
-verb
-conj
-conj
-verb
 np
 conj
 verb
 pp
-np
-verb
-np
-291397	pron
-verb
-np
-conj
-verb
 np
-np
-np
-np
-np
-np
-np
-conj
-verb
 pp
 np
-pp
-291415	np
 np
 adv
 verb
 adv
-291421	conj
+289007	conj
 conj
 np
 pp
@@ -271889,14 +271889,14 @@ verb
 np
 np
 conj
-291448	verb
+289034	verb
 np
 np
 np
 conj
 verb
 np
-291456	pron
+pron
 verb
 np
 pp
@@ -271912,7 +271912,7 @@ verb
 verb
 noun
 pp
-291473	np
+289058	np
 np
 np
 np
@@ -271937,11 +271937,11 @@ np
 noun
 verb
 verb
-291499	np
+289084	np
 conj
 np
 conj
-291504	pp
+289089	pp
 np
 np
 np
@@ -271952,13 +271952,13 @@ np
 np
 conj
 np
-291516	pron
+pron
 verb
 verb
 adj
 noun
 conj
-291523	np
+289107	np
 np
 pp
 conj
@@ -271972,7 +271972,7 @@ conj
 verb
 pron
 np
-291538	np
+289122	np
 np
 conj
 np
@@ -271994,7 +271994,7 @@ np
 np
 verb
 conj
-291561	verb
+289145	verb
 np
 np
 pp
@@ -272010,7 +272010,7 @@ conj
 verb
 np
 verb
-291578	pron
+289162	pron
 adj
 np
 conj
@@ -272023,14 +272023,14 @@ verb
 pron
 np
 verb
-291592	conj
+289176	conj
 conj
 verb
 pron
 noun
 verb
 np
-291600	conj
+289184	conj
 verb
 np
 np
@@ -272039,10 +272039,10 @@ np
 pp
 np
 verb
-291610	np
+289194	np
 np
 conj
-291614	np
+289198	np
 np
 pp
 np
@@ -272070,7 +272070,7 @@ conj
 verb
 pron
 np
-291643	verb
+verb
 pp
 np
 np
@@ -272083,11 +272083,11 @@ np
 np
 np
 np
-291657	np
+289240	np
 verb
 pp
 np
-291662	conj
+conj
 pron
 verb
 noun
@@ -272108,7 +272108,7 @@ verb
 adv
 verb
 np
-291684	np
+289266	np
 conj
 np
 np
@@ -272119,7 +272119,7 @@ verb
 pp
 np
 conj
-291696	verb
+289278	verb
 np
 adjp
 conj
@@ -272136,13 +272136,13 @@ verb
 pp
 conj
 verb
-291714	np
+289296	np
 conj
 pp
 verb
 conj
 verb
-291721	np
+np
 np
 np
 pron
@@ -272172,7 +272172,7 @@ pp
 np
 pp
 np
-291752	pron
+pron
 verb
 pron
 verb
@@ -272185,7 +272185,7 @@ np
 verb
 noun
 np
-291766	pron
+pron
 verb
 np
 np
@@ -272193,7 +272193,7 @@ np
 conj
 verb
 conj
-291775	verb
+verb
 pron
 verb
 noun
@@ -272201,13 +272201,13 @@ np
 np
 np
 conj
-291784	conj
+289362	conj
 verb
 np
 np
 np
 conj
-291791	verb
+verb
 conj
 pron
 adv
@@ -272217,23 +272217,23 @@ np
 np
 verb
 conj
-291802	verb
-291806	np
+verb
+289382	np
 conj
 np
 conj
-291811	np
+289387	np
 conj
 np
 conj
-291816	np
+289392	np
 conj
 np
 conj
 verb
 pron
 noun
-291824	pp
+289400	pp
 np
 np
 np
@@ -272244,17 +272244,17 @@ np
 np
 conj
 conj
-291836	adv
+adv
 pron
 verb
-291840	verb
+289415	verb
 conj
 verb
 conj
 adv
 verb
-291847	np
-291849	np
+289422	np
+289424	np
 np
 np
 conj
@@ -272277,7 +272277,7 @@ verb
 conj
 np
 np
-291873	conj
+289448	conj
 verb
 conj
 verb
@@ -272290,8 +272290,8 @@ conj
 pp
 np
 np
-291887	verb
-291889	np
+289462	verb
+289464	np
 np
 conj
 np
@@ -272307,7 +272307,7 @@ verb
 noun
 pp
 np
-291906	conj
+289481	conj
 np
 np
 conj
@@ -272316,7 +272316,7 @@ np
 np
 conj
 np
-291916	pron
+pron
 verb
 pp
 conj
@@ -272328,11 +272328,11 @@ np
 conj
 verb
 np
-291929	pp
+289503	pp
 np
 conj
 pp
-291934	np
+289508	np
 np
 conj
 np
@@ -272343,12 +272343,12 @@ verb
 np
 conj
 adv
-291946	np
+289520	np
 np
-291949	verb
+289523	verb
 pp
 np
-291953	pron
+pron
 verb
 pron
 pp
@@ -272367,7 +272367,7 @@ verb
 pp
 np
 np
-291973	np
+289546	np
 conj
 np
 conj
@@ -272387,7 +272387,7 @@ pp
 verb
 np
 verb
-291994	pp
+289567	pp
 verb
 pp
 np
@@ -272400,7 +272400,7 @@ conj
 verb
 pp
 np
-292009	verb
+289581	verb
 np
 conj
 verb
@@ -272415,19 +272415,19 @@ np
 conj
 verb
 verb
-292025	np
+289597	np
 conj
 np
 conj
 conj
 np
 conj
-292033	np
+289605	np
 verb
 verb
-292037	verb
 verb
-292040	np
+verb
+np
 np
 pron
 pp
@@ -272441,237 +272441,2680 @@ verb
 np
 np
 conj
-292055	np
+289625	np
 verb
 pron
 verb
 pp
 np
-292062	conj
-292064	pron
+conj
+289633	pron
 verb
+289636	np
+conj
+np
+np
+conj
+verb
+noun
+289644	pp
+np
+np
+conj
+pp
+np
+np
+np
+verb
+pp
+289655	np
+np
+np
+np
+np
+verb
+adj
+pp
+np
+np
+np
+np
+conj
+verb
+pp
+289671	conj
+289673	pp
+np
+conj
+pp
+np
+conj
+np
+np
+np
+np
+pp
+np
+verb
+conj
+adv
+verb
+noun
+289691	conj
+289693	verb
+289695	np
+conj
+np
+np
+conj
+conj
+pron
+verb
+np
+np
+np
+np
+adv
+np
+np
+289711	np
+verb
+verb
+289715	np
+np
+np
+conj
+np
+np
+conj
+verb
+noun
+pp
+np
+verb
+verb
+adj
+289730	np
+pp
+verb
+adv
+ptcl
+verb
+np
+conj
+verb
+pp
+np
+np
+np
+conj
+np
+verb
+pp
+conj
+verb
+conj
+verb
+np
+conj
+pp
+np
+verb
+np
+np
+289759	verb
+pp
+np
+np
+np
+conj
+pp
+np
+np
+np
+conj
+np
+verb
+pp
+np
+verb
+pp
+np
+verb
+pp
+np
+verb
+np
+np
+conj
+verb
+conj
+verb
+np
+verb
+conj
+verb
+np
+np
+np
+conj
+verb
+verb
+pp
+np
+np
+np
+pp
+np
+conj
+verb
+np
+conj
+np
+verb
+pp
+289811	np
+np
+pp
+np
+verb
+np
+np
+conj
+289820	np
+verb
+pp
+np
+verb
+noun
+pp
+np
+conj
+verb
+np
+verb
+np
+np
+np
+verb
+verb
+np
+np
+np
+np
+conj
+verb
+np
+np
+np
+np
+np
+conj
+verb
+np
+np
+conj
+verb
+np
+np
+np
+pp
+np
+conj
+289861	verb
+np
+np
+np
+conj
+verb
+pp
+np
+np
+np
+np
+np
+np
+np
+conj
+verb
+np
+pp
+np
+conj
+verb
+noun
+pp
+np
+pp
+np
+np
+np
+pp
+np
+adjp
+conj
+verb
+289895	np
+np
+np
+pp
+np
+conj
+np
+verb
+np
+np
+np
+conj
+pp
+verb
+np
+np
+np
+conj
+verb
+pp
+conj
+np
+verb
+noun
+conj
+verb
+289922	pp
+np
+conj
+pp
+np
+np
+conj
+pp
+np
+np
+np
+np
+verb
+pp
+np
+np
+np
+verb
+np
+np
+conj
+verb
+289945	np
+np
+289948	np
+np
+np
+conj
+np
+np
+np
+verb
+289957	conj
+np
+np
+289962	np
+np
+289965	conj
+np
+np
+np
+np
+np
+pron
+advp
+verb
+noun
+conj
+verb
+np
+np
+conj
+adj
+adj
+conj
+np
+np
+verb
+conj
+verb
+pp
+conj
+np
+np
+verb
+conj
+pp
+verb
+conj
+289998	verb
+np
+np
+np
+np
+np
+np
+pp
+np
+conj
+verb
+290010	np
+np
+verb
+np
+np
+pp
+np
+290018	verb
+np
+np
+conj
+verb
+pp
+np
+np
+conj
+np
+pp
+np
+np
+verb
+np
+np
+np
+np
+np
+verb
+np
+np
+290041	np
+verb
+pp
+np
+np
+np
+conj
+verb
+np
+noun
+290052	pp
+np
+np
+np
+conj
+pp
+np
+np
+conj
+adj
+verb
+verb
+pp
+np
+conj
+verb
+np
+np
+np
+np
+np
+conj
+verb
+np
+pp
+np
+verb
+np
+np
+290082	verb
+conj
+verb
+np
+np
+np
+np
+np
+np
+pp
+np
+conj
+verb
+np
+conj
+verb
+np
+np
+pp
+np
+conj
+verb
+np
+conj
+pp
+290108	np
+290110	verb
+np
+np
+np
+conj
+verb
+np
+np
+conj
+np
+verb
+np
+np
+pp
+np
+conj
+verb
+np
+pp
+conj
+conj
+290132	np
+np
+verb
+np
+pp
+np
+conj
+np
+verb
+np
+np
+pp
+290145	np
+conj
+np
+np
+np
+conj
+verb
+noun
+conj
+verb
+np
+np
+np
+verb
+adj
+verb
+290163	verb
+conj
+verb
+np
+conj
+pron
+verb
+conj
+290172	np
+290174	conj
+verb
+conj
+noun
+pron
+verb
+verb
+adj
+verb
+conj
+verb
+np
+verb
+ptcl
+290190	np
+np
+290193	conj
+np
+np
+conj
+np
+verb
+np
+np
+pp
+np
+conj
+verb
+pron
+verb
+np
+pp
+conj
+verb
+np
+np
+conj
+290215	verb
+np
+np
+290219	np
+verb
+np
+pp
+np
+np
+conj
+adv
+verb
+verb
+pron
+noun
+conj
+np
+verb
+np
+np
+pp
+np
+np
+np
+conj
+verb
+np
+np
+verb
+conj
+290248	verb
+np
+np
+pp
+np
+conj
+verb
+np
+np
+np
+290259	pp
+np
+np
+conj
+pp
+np
+np
+conj
+adv
+verb
+pp
+np
+np
+conj
+np
+verb
+np
+np
+pp
+290279	np
+np
+np
+conj
+verb
+np
+np
+conj
+verb
+np
+np
+290291	np
+np
+pp
+np
+conj
+verb
+290298	pp
+np
+np
+np
+conj
+pp
+np
+np
+np
+conj
+pp
+np
+np
+np
+np
+np
+np
+pp
+conj
+verb
+conj
+np
+np
+verb
+noun
+pron
+verb
+pp
+np
+np
+np
+np
+verb
+pron
+pp
+np
+np
+np
+np
+np
+np
+290340	np
+np
+verb
+verb
+conj
+noun
+adj
+verb
+conj
+verb
+np
+np
+conj
+290354	adv
+adj
+verb
+conj
+verb
+np
+np
+conj
+verb
+pron
+pp
+290366	np
+verb
+adv
+noun
+conj
+np
+verb
+np
+np
+pp
+np
+conj
+verb
+np
+pp
+np
+pp
+np
+verb
+verb
+conj
+verb
+290389	conj
+conj
+conj
+np
+verb
+pron
+adv
+verb
+pp
+pron
+noun
+verb
+pp
+np
+np
+adv
+adj
+conj
+verb
+np
+np
+np
+pp
+np
+conj
+np
+np
+np
+verb
+conj
+np
+np
+verb
+pp
+np
+verb
+pron
+np
+np
+np
+np
+np
+np
+np
+np
+conj
+np
+verb
+conj
+noun
+adv
+verb
+conj
+np
+np
+adjp
+verb
+pp
+np
+pp
+np
+conj
+verb
+np
+np
+pp
+np
+np
+np
+conj
+adj
+verb
+np
+np
+adv
+conj
+verb
+np
+pp
+290469	np
+np
+verb
+np
+np
+conj
+verb
+pp
+verb
+verb
+verb
+pron
+np
+np
+290484	np
+np
+np
+verb
+pp
+np
+pp
+verb
+np
+np
+np
+conj
+verb
+verb
+np
+pp
+np
+np
+np
+np
+conj
+verb
+pron
+pp
+pp
+conj
+verb
+noun
+verb
+pp
+np
+np
+np
+verb
+np
+verb
+290521	np
+conj
+np
+conj
+np
+verb
+verb
+290529	conj
+conj
+verb
+290533	conj
+np
+conj
+verb
+np
+np
+pp
+np
+np
+verb
+290544	conj
+np
+np
+np
+np
+conj
+pp
+np
+np
+290555	verb
+290557	np
+np
+np
+np
+290562	np
+conj
+np
+np
+np
+conj
+verb
+np
+verb
+290572	pp
+np
+np
+np
+conj
+pp
+np
+np
+np
+np
+conj
+verb
+verb
+pron
+np
+conj
+verb
+pron
+np
+pp
+verb
+pron
+verb
+pron
+np
+np
+290599	np
+conj
+290603	np
+verb
+pron
+verb
+290608	np
+np
+conj
+np
+np
+np
+pron
+verb
+verb
+conj
+adv
+verb
+conj
+290622	verb
+verb
+pp
+np
+conj
+pp
+verb
+conj
+verb
+verb
+pp
+np
+np
+adv
+verb
+np
+pp
+np
+np
+np
+pp
+np
+verb
+np
+conj
+verb
+conj
+adv
+verb
+conj
+verb
+adv
+290655	np
+verb
+noun
+np
+np
+np
+verb
+adv
+np
+verb
+pp
+conj
+np
+verb
+np
+verb
+np
+verb
+290674	np
+adv
+verb
+conj
+conj
+verb
+adj
+pron
+verb
+verb
+conj
+np
+pron
+verb
+conj
+adv
+verb
+290692	np
+adj
+verb
+conj
+pp
+np
+verb
+conj
+pp
+verb
+conj
+np
+np
+pron
+verb
+np
+verb
+pron
+noun
+adv
+verb
+conj
+noun
+pp
+conj
+np
+verb
+pp
+np
+pron
+np
+verb
+conj
+np
+np
+290728	conj
+np
+verb
+pron
+pp
+np
+verb
+conj
+np
+verb
+pron
+conj
+290742	np
+verb
+conj
+np
+conj
+np
+pp
+290750	conj
+conj
+conj
+verb
+pron
+np
+pron
+verb
+adv
+np
+verb
+290762	conj
+verb
+conj
+conj
+conj
+290768	np
+np
+pron
+verb
+conj
+np
+pron
+verb
+np
+conj
+290780	verb
+verb
+pron
+conj
+conj
+290786	np
+np
+verb
+conj
+pron
+verb
+pp
+np
+conj
+verb
+pp
+np
+np
+290800	verb
+np
+np
+conj
+verb
+np
+conj
+verb
+np
+np
+np
+conj
+verb
+np
+np
+np
+conj
+np
+pron
+verb
+verb
+290822	np
+np
+np
+verb
+noun
+pp
+np
+np
+np
+pp
+verb
+np
+verb
+pp
+np
+verb
+np
+conj
+np
+verb
+pp
+np
+np
+conj
+verb
+pp
+np
+verb
+290851	verb
+verb
+np
+np
+conj
+verb
+290858	np
+conj
+np
+np
+np
+conj
+np
+np
+np
+conj
+verb
+conj
+290871	pp
+np
+np
+np
+np
+np
+np
+verb
+np
+np
+conj
+np
+np
+np
+pp
+verb
+conj
+np
+np
+np
+pp
+np
+np
+np
+np
+verb
+conj
+verb
+np
+pp
+np
+verb
+verb
+np
+np
+pp
+290908	conj
+adv
+verb
+np
+np
+conj
+pp
+np
+np
+conj
+adv
+verb
+conj
+290922	verb
+np
+np
+pp
+np
+conj
+verb
+np
+np
+np
+verb
+pron
+conj
+np
+verb
+conj
+verb
+np
+pp
+np
+np
+pp
+np
+pron
+verb
+verb
+pron
+adj
+pron
+verb
+pron
+conj
+verb
+np
+verb
+pron
+290959	conj
+conj
+pp
+np
+np
+verb
+conj
+verb
+noun
+conj
+290970	noun
+adv
+verb
+conj
+noun
+advp
+verb
+pp
+pp
+np
+verb
+290982	np
+np
+290985	conj
+conj
+conj
+pp
+verb
+conj
+adj
+290994	np
+verb
+pron
+conj
+290999	conj
+pp
+291002	np
+np
+np
+pp
+291007	conj
+conj
+verb
+np
+np
+np
+np
+pp
+verb
+pp
+np
+np
+np
+np
+verb
+ptcl
+intj
+291025	np
+np
+np
+291029	np
+np
+np
+conj
+np
+verb
+np
+np
+conj
+np
+np
+np
+291042	conj
+pp
+conj
+291046	np
+np
+adj
+verb
+adv
+291052	np
+conj
+conj
+np
+conj
+conj
+conj
+conj
+conj
+conj
+np
+np
+conj
+np
+np
+conj
+np
+np
+pp
+np
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+conj
+np
+conj
+291093	np
+np
+np
+np
+np
+np
+verb
+pp
+conj
+np
+291104	np
+conj
+np
+verb
+pp
+conj
+adv
+advp
+pron
+verb
+291115	np
+np
+verb
+pp
+pp
+verb
+pp
+np
+np
+np
+np
+291127	verb
+conj
+verb
+verb
+ptcl
+intj
+291134	np
+np
+np
+verb
+291139	conj
+conj
+conj
+verb
+pp
+conj
+np
+conj
+conj
+np
+verb
+np
+np
+conj
+291154	np
+conj
+np
+pp
+verb
+conj
+conj
+pron
+np
+verb
+pp
+verb
+conj
+verb
+verb
+np
+np
+np
+np
+verb
+pron
+adj
+np
+np
+np
+conj
+verb
+noun
+pp
+np
+np
+conj
+verb
+291188	verb
+conj
+verb
+verb
+ptcl
+intj
+np
+np
+np
+pp
+verb
+np
+verb
+np
+pp
+np
+pp
+np
+np
+conj
+np
+verb
+verb
+pp
+291213	conj
+291215	np
+conj
+np
+conj
+np
+conj
+verb
+np
+np
+np
+pp
+conj
+verb
+np
+np
+np
+pp
+conj
+np
+conj
+verb
+pp
+np
+verb
+291240	adv
+noun
+verb
+291244	np
+np
+conj
+advp
+verb
+adv
+conj
+np
+conj
+conj
+conj
+advp
+verb
+pp
+adv
+conj
+np
+np
+np
+advp
+verb
+pp
+adv
+conj
+np
+advp
+verb
+pp
+adv
+conj
+np
+advp
+verb
+pp
+adv
+conj
+np
+291282	conj
+advp
+verb
+pp
+adv
+conj
+np
+np
+verb
+np
+np
+np
+conj
+291296	pp
+np
+np
+verb
+np
+np
+conj
+pp
+np
+conj
+verb
+conj
+np
+verb
+pp
+np
+pp
+verb
+pp
+conj
+np
+np
+np
+pp
+np
+verb
+ptcl
+291324	np
+conj
+np
+conj
+np
+np
+np
+conj
+291333	conj
+np
+np
+conj
+291338	verb
+np
+np
+np
+pron
+verb
+np
+pp
+np
+np
+conj
+verb
+np
+np
+np
+np
+pp
+np
+conj
+adj
+verb
+291360	ptcl
+conj
+np
+np
+verb
+pp
+np
+np
+np
+conj
+verb
+291372	np
+np
+np
+np
+conj
+np
+np
+conj
+verb
+291382	np
+verb
+pp
+np
+verb
+ptcl
+ptcl
+conj
+noun
+pp
+np
+verb
+verb
+verb
+np
+np
+291400	np
+np
+np
+verb
+pron
+291406	np
+conj
+np
+conj
+verb
+291412	pp
+conj
+np
+np
+conj
+pp
+conj
+np
+np
+conj
+pp
+conj
+np
+np
+verb
+ptcl
+conj
+verb
+291432	np
+np
+np
+291436	verb
+conj
+verb
+conj
+verb
+np
+pron
+conj
+291445	verb
+np
+np
+np
+conj
+np
+np
+verb
+pron
+conj
+verb
+pron
+conj
+verb
+np
+adjp
+np
+conj
+np
+np
+np
+verb
+conj
+verb
+pron
+verb
+adj
+pp
+np
+np
+np
+np
+np
+verb
+conj
+verb
+pron
+pron
+np
+np
+np
+np
+verb
+conj
+verb
+pp
+np
+np
+verb
+pron
+conj
+verb
+pron
+verb
+adv
+np
+291502	verb
+conj
+291505	np
+np
+verb
+np
+np
+np
+verb
+np
+conj
+np
+verb
+np
+np
+np
+conj
+verb
+np
+verb
+conj
+291525	verb
+np
+conj
+291529	verb
+pp
+verb
+291533	conj
+conj
+pp
+291537	conj
+291539	np
+conj
+np
+np
+conj
+pp
+np
+np
+np
+291549	verb
+np
+verb
+pron
+adj
+verb
+conj
+adv
+pron
+conj
+verb
+np
+verb
+noun
+conj
+verb
+np
+np
+np
+np
+np
+conj
+291572	np
+np
+pp
+np
+verb
+pron
+pp
+np
+verb
+np
+np
+conj
+pp
+np
+np
+verb
+np
+conj
+pp
+verb
+np
+conj
+pron
+verb
+pron
+pp
+np
+conj
+pron
+verb
+np
+np
+np
+np
+np
+np
+np
+np
+291611	np
+np
+conj
+verb
+291616	pp
+np
+conj
+pp
+np
+np
+291623	np
+verb
+291626	np
+conj
+np
+conj
+verb
+291632	np
+verb
+pp
+np
+conj
+verb
+pp
+np
+verb
+np
+291643	np
+verb
+pp
+verb
+verb
+pp
+np
+np
+np
+np
+np
+conj
+verb
+291657	np
+conj
+np
+conj
+np
+conj
+np
+291665	conj
+verb
+pp
+conj
+np
+np
+291672	conj
+conj
+conj
+291676	conj
+conj
+verb
+291680	np
+conj
+np
+np
+np
+conj
+np
+np
+verb
+verb
+np
+291692	pp
+verb
+pp
+np
+conj
+pp
+np
+np
+conj
+verb
+np
+conj
+pp
+291706	np
+verb
+np
+pp
+pp
+verb
+291713	verb
+np
+np
+np
+conj
+verb
+np
+np
+verb
+verb
+np
+pp
+np
+np
+291728	np
+verb
+pp
+conj
+np
+verb
+pp
+291736	np
+np
+verb
+pp
+np
+verb
+pp
+np
+np
+conj
+np
+np
+verb
+pp
+np
+np
+conj
+verb
+noun
+verb
+pp
+np
+verb
+291760	np
+np
+np
+conj
+np
+pp
+np
+np
+conj
+291770	verb
+291772	np
+np
+np
+np
+pron
+verb
+291779	conj
+np
+conj
+verb
+pron
+np
+conj
+291787	verb
+pron
+pp
+np
+conj
+291793	verb
+conj
+verb
+pp
+conj
+adv
+verb
+adv
+np
+conj
+verb
+np
+np
+pp
+verb
+verb
+pron
+np
+conj
+291814	verb
+noun
+conj
+291818	verb
+pp
+conj
+noun
+verb
+pron
+conj
+np
+np
+verb
+291829	pp
+np
+np
+conj
+pp
+np
+np
+np
+conj
+pron
+adv
+verb
+291842	np
+conj
+np
+np
+conj
+adv
+verb
+np
+291851	pp
+np
+conj
+pp
+np
+np
+conj
+verb
+conj
+verb
+pp
+np
+np
+np
+np
+np
+adv
+verb
+conj
+verb
+np
+np
+pron
+np
+np
+np
+291878	conj
+verb
+noun
+pp
+np
+np
+np
+pp
+np
+np
+adv
+verb
+noun
+conj
+291893	verb
+np
+291896	np
+conj
+np
+conj
+verb
+pp
+np
+np
+conj
+conj
+verb
+np
+np
+verb
+np
+pp
+np
+np
+conj
+verb
+verb
+291919	np
+np
+pp
+np
+np
+np
+np
+np
+291928	conj
+verb
+pron
+pp
+np
+np
+np
+np
+pp
+conj
+np
+np
+np
+conj
+verb
+pp
+np
+np
+np
+conj
+verb
+291950	np
+np
+np
+conj
+291955	np
+verb
+conj
+verb
+noun
+pp
+np
+conj
+verb
+pron
+conj
+291967	np
+verb
+pron
+verb
+pp
+np
+np
+np
+291976	conj
+adv
+291979	np
+conj
+np
+conj
+verb
+291985	conj
+pp
+np
+np
+np
+conj
+verb
+291993	np
+np
+conj
+verb
+pp
+pp
+np
+np
+verb
+292003	np
+conj
+np
+conj
+noun
+adv
+verb
+pron
+conj
+verb
+292014	np
+292016	np
+conj
+np
+verb
+pp
+np
+conj
+noun
+verb
+conj
+np
+verb
+pron
+verb
+np
+conj
+verb
+np
+pp
+verb
+pp
+np
+pp
+np
+np
+conj
+292043	verb
+np
+292046	np
+np
+pp
+conj
+292051	np
+conj
+np
+verb
+292056	np
+np
+pp
+conj
+verb
+adj
+pp
+np
+np
+conj
 292067	np
 conj
 np
-np
-conj
 verb
-noun
-292075	pp
-np
-np
-conj
 pp
 np
+np
+np
+pron
+292077	np
 np
 np
 verb
-pp
-292086	np
-np
-np
-np
-np
-verb
-adj
-pp
-np
 np
 np
 np
 conj
+conj
+pron
+adv
 verb
 pp
-292102	conj
-292104	pp
 np
-conj
+np
+np
+verb
+verb
 pp
 np
+np
+np
+conj
+verb
+292102	np
+conj
+np
+292107	np
+conj
+np
 conj
 np
 np
+verb
+conj
 np
+adv
+verb
+adv
+conj
+292121	np
+np
+np
+np
+verb
+verb
+pp
 np
 pp
 np
 verb
+pp
+conj
+np
+verb
+np
+np
+conj
+verb
+np
+pp
+np
+verb
+verb
+292147	np
+np
+np
+pp
+np
+conj
+verb
+pp
+conj
+292157	pron
+np
+verb
+conj
+np
+np
+pp
+verb
+conj
+292167	verb
+np
+pp
+np
+np
+conj
+292174	np
+adv
+verb
+adv
+conj
+292180	conj
 conj
 adv
 verb
+adv
+conj
+np
+verb
+conj
+verb
+verb
+pp
+np
+verb
+adj
+verb
+adj
+conj
+verb
+verb
+conj
+np
+np
+292204	conj
+verb
+conj
+verb
+pron
+verb
+pron
+292213	np
+conj
+np
+292217	np
+conj
+np
+pron
+verb
+verb
+pp
+np
+np
+np
+np
+np
+adv
+verb
+verb
+pron
+conj
+292235	verb
+pron
 noun
-292122	conj
-292124	verb
-292126	np
+conj
+pron
+verb
+pron
+noun
+292244	np
+conj
+conj
+conj
+verb
+conj
+conj
+conj
+conj
 conj
 np
 np
+np
+np
+pp
+292260	np
+verb
+292263	conj
+pron
+verb
+np
+np
+np
+conj
+verb
+np
+pp
+292274	np
+np
+verb
+292278	np
+np
+verb
+np
+np
+np
+np
+conj
+verb
+pp
+verb
+verb
+verb
+pron
+292293	np
+np
+np
+np
+conj
+verb
+pron
+pp
+pp
+np
 conj
 conj
+verb
+pron
+292308	np
+np
+np
+verb
+pp
+np
+pp
+np
+verb
+np
+np
+np
+np
+np
+adj
+np
+conj
+np
+292327	verb
+verb
+np
+conj
+verb
+np
+conj
+292335	pp
+np
+np
+conj
+verb
 pron
 verb
 np
 np
 np
 np
-adv
-np
-np
-292142	np
-verb
-verb
-292146	np
-np
-np
-conj
-np
-np
-conj
-verb
-noun
 pp
 np
+conj
+pp
+np
+conj
+pp
+np
+conj
+pp
+np
+conj
+np
+np
+np
 verb
+np
+conj
+pp
+np
+np
+np
+np
+np
+np
+conj
 verb
+pp
+verb
+292376	np
+conj
+verb
+292380	np
+conj
+np
+np
+conj
+np
+np
+conj
+np
 adj
-292161	np
-pp
 verb
+conj
+np
+np
+pron
+np
+conj
+verb
+np
+np
+pp
+292402	np
+np
+292405	np
+conj
+np
+conj
+np
+adj
+verb
+conj
+verb
+np
+np
+np
+292418	np
+pron
+verb
+noun
+conj
+np
+np
+np
+np
+noun
+conj
+np
+np
+adj
+np
+np
+np
+np
+np
+np
+np
+np
+verb
+np
+np
+np
+noun
+np
+noun
+np
+noun
+np
+noun
+np
+noun
+np
+noun
+np
+noun
+np
+noun
+np
+noun
+np
+noun
+np
+noun
+np
+noun
+conj
+np
+np
+np
+prep
+np
+np
+np
+verb
+pp
+np
+conj
+np
+np
+np
+np
+pp
+conj
+np
+conj
+noun
 adv
-ptcl
-verb
-np
-conj
-292170	verb
-pp
-np
-np
-np
-conj
-np
 verb
 pp
+292493	np
 conj
-verb
-conj
-verb
+292496	np
 np
-conj
-pp
-np
-verb
-np
-np
-292191	verb
-pp
-np
-np
-np
-conj
-pp
-np
-np
-np
-conj
-np
-verb
-pp
-np
-verb
-pp
-np
-verb
-pp
-np
-292213	verb
-np
-np
-conj
-verb
-conj
-verb
 np
 verb
 conj
-verb
-np
-np
-np
-conj
-verb
-verb
-pp
-np
-np
-np
-pp
-np
-conj
-verb
 np
 conj
 np
-verb
-pp
-292244	np
-np
-pp
+adv
 np
 verb
-np
-np
+292508	np
 conj
-292253	np
-verb
-pp
-np
-verb
-noun
-pp
 np
 conj
 verb
-np
-verb
-np
-np
-np
-verb
-292270	verb
-np
-np
-np
-np
+pron
+292515	np
 conj
+np
+np
 verb
-np
-np
-np
-np
-np
+pron
 conj
-verb
-np
-np
-conj
-verb
-np
-np
-np
-pp
-np
-conj
-292295	verb
-np
-np
-np
-conj
-verb
-pp
-np
-np
-np
-np
 np
 np
 np
@@ -272680,2800 +275123,357 @@ verb
 np
 pp
 np
+np
 conj
+np
+np
+np
 verb
-noun
-pp
-np
-pp
-np
-np
-np
-pp
-np
-adjp
-conj
-verb
-292329	np
 np
 np
 pp
-np
-conj
-np
-verb
-np
-np
-np
-conj
-pp
-verb
-np
-np
-np
-conj
-verb
-pp
-conj
-np
-verb
-noun
-conj
-verb
-292356	pp
-np
-conj
-pp
-np
-np
-conj
-pp
-np
-np
-np
-np
-verb
-pp
-np
-np
-np
-verb
-np
-np
-conj
-verb
-292379	np
-np
-292382	np
-np
-np
 conj
 np
 np
-np
-verb
-292391	conj
-np
-np
-292396	np
-np
-292399	conj
-np
-np
-np
-np
-np
-292406	pron
 advp
 verb
 noun
-conj
-verb
-np
-np
-conj
-adj
-adj
-conj
-np
-np
-verb
-conj
-verb
-pp
-conj
-np
-np
-verb
-conj
-pp
-verb
-conj
-292433	verb
-np
-np
-np
-np
-np
-np
-pp
-np
-conj
-verb
-292445	np
-np
-verb
-np
-np
-pp
-np
-292453	verb
-np
-np
-conj
-verb
-pp
-np
-np
-conj
-np
-pp
-np
-np
-verb
-np
-np
-np
-np
-np
-verb
-np
-np
-292476	np
-verb
-pp
-np
-np
-np
-conj
-verb
-np
 noun
-292487	pp
-np
-np
-np
-conj
-pp
-np
-np
-conj
-adj
-verb
-verb
-pp
-np
-conj
-verb
-np
-np
-np
-np
-np
-conj
-verb
-np
-pp
-np
-verb
-np
-np
-292517	verb
-conj
-verb
-np
-np
-np
-np
-np
-np
-pp
-np
-conj
-verb
-np
-conj
-verb
-np
-np
-pp
-np
-conj
-verb
-np
-conj
-pp
-292543	np
-292545	verb
-np
-np
-np
-conj
-verb
-np
-np
-conj
-np
-verb
-np
-np
-pp
-np
-conj
-verb
-np
-pp
-conj
-conj
-292567	np
-np
-verb
-np
-pp
-np
-conj
-np
-verb
-np
-np
-pp
-292580	np
-conj
-np
-np
-np
-conj
-verb
-noun
-conj
-verb
-np
-np
-np
-verb
-292595	adj
-verb
-292599	verb
-conj
-verb
-np
-conj
-pron
-verb
-conj
-292608	np
-292610	conj
-verb
-conj
-noun
-pron
-verb
-verb
-adj
-verb
-conj
-verb
-np
-verb
-ptcl
-292626	np
-np
-292629	conj
-np
-np
-conj
-np
-verb
-np
-np
-pp
-np
-conj
-verb
-pron
-verb
-np
-pp
-conj
-verb
-np
-np
-conj
-292651	verb
-np
-np
-292655	np
-verb
-np
-pp
-np
-np
 conj
 adv
 verb
-verb
-pron
-noun
+adv
 conj
-np
 verb
+np
+292554	np
+conj
 np
 np
 pp
-np
-np
-np
 conj
+advp
 verb
-np
-np
-verb
-conj
-292684	verb
-np
-np
 pp
 np
-conj
+292565	conj
 verb
-np
-np
-np
-292695	pp
-np
-np
-conj
-pp
-np
-np
+292568	conj
 conj
 adv
 verb
 pp
 np
 np
-conj
 np
-verb
-np
-np
-pp
-292715	np
-np
-np
-conj
-verb
-np
-np
-conj
-verb
-np
-np
-292727	np
-np
-pp
-np
-conj
-verb
-292734	pp
-np
-np
-np
-conj
-pp
-np
-np
-np
-conj
-pp
-np
-np
-np
-np
-np
-np
-pp
-conj
-verb
-conj
-292756	np
-np
-verb
-noun
-pron
-verb
-pp
-np
-np
-np
-np
-verb
-pron
-pp
-np
-np
-np
-np
-np
-np
-292777	np
-np
-verb
-verb
-conj
-noun
-adj
-verb
-conj
-verb
-np
-np
-conj
-292791	adv
-adj
-verb
-conj
-verb
 np
 np
 conj
 verb
 pron
-pp
-292803	np
-verb
-adv
-noun
-conj
 np
-verb
-np
-np
-pp
-np
-conj
-verb
-np
-pp
-np
-pp
-np
-verb
-verb
-conj
-verb
-292826	conj
-conj
-conj
-292830	np
-verb
-pron
-adv
-verb
-pp
-pron
-noun
-verb
-pp
-np
-np
-adv
-adj
-conj
-verb
-np
-np
-np
-pp
-np
-conj
-np
-np
-np
-verb
-conj
-np
-np
-verb
-pp
-np
-verb
-pron
-np
-np
-np
-np
-np
-np
-np
-np
-conj
-np
-verb
-conj
-noun
-adv
-verb
-conj
 np
 np
 adjp
+pp
+conj
 verb
 pp
 np
+np
+292592	np
+conj
+np
 pp
 np
+292598	np
+np
+conj
+np
+292603	conj
+np
+np
+np
+verb
+np
+pp
+np
+verb
+np
+np
+conj
+np
+np
+np
+pp
+np
+np
+conj
+np
+adv
+verb
+adv
+conj
+np
+np
+292630	np
+conj
+np
+pp
+verb
+conj
+292638	np
+np
+verb
+pron
 conj
 verb
 np
 np
+conj
+np
+np
+pp
+np
+np
+conj
+292654	noun
+adv
+verb
+adv
+conj
+adv
+verb
+np
+292663	np
+conj
+np
+conj
+292668	np
+verb
+pp
+conj
+verb
 pp
 np
 np
 np
 conj
+verb
+pron
+292681	np
+np
+292684	conj
+conj
+292687	np
+np
+np
+np
+np
+np
+verb
+np
+np
+verb
+np
+np
+pron
+verb
+verb
+pp
+conj
+verb
+verb
+adj
 adj
 verb
 np
 np
+np
+np
+np
+np
+292717	conj
+pron
+conj
+conj
+292722	verb
+conj
+verb
+verb
+verb
+pp
+np
+np
+292731	np
+verb
+pron
+pron
+conj
+verb
+pron
+verb
+adv
+np
+verb
+conj
+292744	np
+np
+np
+conj
+verb
+np
+np
+np
+np
+np
+verb
+conj
+verb
+pron
+adv
+verb
+np
+np
+np
+np
+np
+np
+np
+conj
+adv
+verb
+292771	verb
+verb
 adv
 conj
+np
+verb
+adv
+conj
+292780	np
+noun
+verb
+adv
+conj
+np
+verb
+adv
+verb
+verb
+adj
+conj
+np
+np
+pp
+verb
+adj
+conj
+np
+np
+verb
+pron
+292804	np
+conj
+np
+292808	np
+conj
+np
+292812	np
+conj
+np
+adj
+verb
+np
+np
+conj
+292821	verb
+np
+np
+pp
+np
+np
+np
+conj
+np
+verb
+pp
+np
+adv
+292835	np
+conj
+np
+conj
+np
+conj
+np
+conj
+np
+conj
+np
+292847	conj
+noun
+292850	verb
+np
+np
+verb
+pron
+pron
+pp
+np
+pron
+verb
+np
+np
+292863	np
+conj
+np
+np
+np
+np
+np
+np
+conj
+292873	np
+conj
+np
+verb
+verb
+conj
+verb
+verb
+verb
+conj
+verb
+verb
+verb
+verb
+np
+adv
+verb
+pron
+np
+verb
+np
+np
+np
+np
+np
+np
+conj
+pron
+verb
+pp
 verb
 np
 pp
 292907	np
-np
-verb
-np
-np
-conj
-verb
-pp
-verb
-292917	verb
-verb
-pron
-np
-np
-292923	np
-np
-np
-verb
-pp
-np
-pp
-verb
-np
-np
-np
-conj
-verb
-verb
-np
-pp
-np
-np
-np
-np
-conj
-verb
-pron
-pp
-pp
-conj
-verb
-noun
-verb
-pp
-np
-np
-np
-verb
-np
-verb
-292960	np
-conj
-np
-conj
-292965	np
-verb
-verb
-292969	conj
-conj
-verb
-292973	conj
-np
-conj
-verb
-np
-np
-pp
-np
-np
-verb
-292984	conj
-np
-np
-np
-np
-conj
-pp
-np
-np
-292995	verb
-292997	np
-np
-np
-np
-293002	np
-conj
-np
-np
-np
-conj
-verb
-np
-verb
-293012	pp
-np
-np
-np
-conj
-pp
-np
-np
-np
-np
-conj
-verb
-verb
-pron
-np
-conj
-verb
-pron
-np
-pp
-verb
-pron
-verb
-pron
-np
-np
-293039	np
-conj
-293043	np
-verb
-pron
-verb
-293048	np
-np
-conj
-np
-np
-np
-293055	pron
-verb
-verb
-conj
-adv
-verb
-conj
-293063	verb
-verb
-pp
-np
-conj
-pp
-verb
-conj
-verb
-293073	verb
-pp
-np
-np
-adv
-verb
-np
-pp
-np
-np
-np
-pp
-np
-verb
-np
-conj
-verb
-conj
-adv
-verb
-conj
-verb
-adv
-293097	np
-verb
-noun
-293101	np
-np
-np
-verb
-adv
-np
-verb
-pp
-conj
-np
-verb
-293113	np
-verb
-np
-verb
-293118	np
-adv
-verb
-conj
-conj
-verb
-adj
-pron
-verb
-verb
-conj
-np
-293131	pron
-verb
-conj
-adv
-verb
-293137	np
-adj
-verb
-conj
-pp
-np
-verb
-conj
-pp
-verb
-conj
-np
-293150	np
-pron
-verb
-293154	np
-verb
-pron
-noun
-adv
-verb
-conj
-noun
-pp
-conj
-np
-verb
-pp
-np
-pron
-np
-verb
-conj
-np
-np
-293175	conj
-np
-verb
-pron
-pp
-np
-verb
-conj
-293184	np
-verb
-pron
-conj
-293190	np
-verb
-conj
-np
-conj
-np
-pp
-293198	conj
-conj
-conj
-verb
-pron
-np
-293206	pron
-verb
-adv
-np
-verb
-293212	conj
-verb
-conj
-conj
-conj
-293218	np
-293220	np
-pron
-verb
-conj
-np
-pron
-verb
-np
-conj
-293231	verb
-verb
-pron
-conj
-conj
-293237	np
-np
-verb
-conj
-pron
-verb
-pp
-np
-conj
-verb
-pp
-np
-np
-293251	verb
-np
-np
-conj
-verb
-np
-conj
-verb
-np
-np
-np
-conj
-verb
-np
-np
-np
-conj
-np
-293270	pron
-verb
-verb
-293274	np
-np
-np
-verb
-noun
-pp
-np
-np
-np
-pp
-verb
-np
-verb
-pp
-np
-verb
-np
-conj
-np
-verb
-pp
-np
-np
-conj
-verb
-pp
-np
-verb
-293304	verb
-verb
-np
-np
-conj
-verb
-293311	np
-conj
-np
-np
-np
-conj
-np
-np
-np
-conj
-verb
-conj
-293324	pp
-np
-np
-np
-np
-np
-np
-verb
-np
-np
-conj
-np
-np
-np
-pp
-verb
-conj
-np
-np
-np
-pp
-np
-np
-np
-np
-verb
-conj
-verb
-np
-pp
-np
-verb
-verb
-np
-np
-pp
-293361	conj
-adv
-verb
-np
-np
-conj
-pp
-np
-np
-conj
-adv
-verb
-conj
-293375	verb
-np
-np
-pp
-np
-conj
-verb
-np
-np
-np
-verb
-pron
-conj
-np
-verb
-conj
-verb
-np
-pp
-np
-np
-pp
-np
-293399	pron
-verb
-verb
-pron
-adj
-pron
-verb
-pron
-conj
-verb
-np
-verb
-pron
-293413	conj
-conj
-pp
-np
-np
-verb
-conj
-verb
-noun
-conj
-293424	noun
-adv
-verb
-conj
-noun
-advp
-verb
-pp
-pp
-np
-verb
-293436	np
-np
-293439	conj
-conj
-conj
-pp
-verb
-conj
-adj
-293448	np
-verb
-pron
-conj
-293454	conj
-pp
-293457	np
-np
-np
-pp
-293462	conj
-conj
-verb
-np
-np
-np
-np
-pp
-verb
-pp
-np
-np
-np
-np
-verb
-293478	ptcl
-intj
-293481	np
-np
-np
-293485	np
-np
-np
-conj
-np
-verb
-np
-np
-conj
-np
-np
-np
-293498	conj
-pp
-conj
-293502	np
-np
-adj
-verb
-adv
-293508	np
-conj
-conj
-np
-conj
-conj
-conj
-conj
-conj
-conj
-np
-np
-conj
-np
-np
-conj
-np
-np
-pp
-np
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-conj
-np
-conj
-293549	np
-np
-np
-np
-np
-np
-verb
-pp
-conj
-np
-293560	np
-conj
-np
-verb
-pp
-conj
-adv
-advp
-pron
-verb
-293571	np
-np
-verb
-pp
-pp
-verb
-pp
-np
-np
-np
-np
-293583	verb
-conj
-verb
-verb
-293588	ptcl
-intj
-293591	np
-np
-np
-verb
-293596	conj
-conj
-conj
-verb
-pp
-conj
-np
-conj
-conj
-np
-verb
-np
-np
-conj
-293611	np
-conj
-np
-pp
-verb
-conj
-conj
-pron
-np
-verb
-pp
-verb
-conj
-verb
-verb
-np
-np
-np
-np
-verb
-pron
-adj
-np
-np
-np
-conj
-verb
-noun
-pp
-np
-np
-conj
-verb
-293645	verb
-conj
-verb
-verb
-293650	ptcl
-intj
-293653	np
-np
-np
-pp
-verb
-np
-verb
-np
-pp
-np
-pp
-np
-np
-conj
-np
-verb
-verb
-pp
-293672	conj
-293674	np
-conj
-np
-conj
-np
-conj
-verb
-np
-np
-np
-pp
-conj
-verb
-np
-np
-np
-pp
-conj
-np
-conj
-verb
-pp
-np
-verb
-293699	adv
-noun
-verb
-293703	np
-np
-conj
-advp
-verb
-adv
-conj
-293711	np
-conj
-conj
-conj
-advp
-verb
-pp
-adv
-conj
-np
-np
-np
-advp
-verb
-pp
-adv
-conj
-np
-advp
-verb
-pp
-adv
-conj
-np
-advp
-verb
-pp
-adv
-conj
-np
-293742	conj
-advp
-verb
-pp
-adv
-conj
-293749	np
-np
-verb
-np
-np
-np
-conj
-293757	pp
-np
-np
-verb
-np
-np
-conj
-pp
-np
-conj
-verb
-conj
-np
-verb
-pp
-np
-pp
-verb
-pp
-conj
-np
-np
-np
-pp
-np
-verb
-ptcl
-293786	np
-conj
-np
-conj
-np
-np
-np
-conj
-293795	conj
-np
-np
-conj
-293800	verb
-np
-293803	np
-np
-pron
-verb
-np
-pp
-np
-np
-conj
-verb
-np
-np
-np
-np
-pp
-np
-conj
-adj
-verb
-293823	ptcl
-conj
-np
-np
-verb
-pp
-np
-np
-np
-conj
-verb
-293835	np
-np
-np
-np
-conj
-np
-np
-conj
-verb
-293845	np
-verb
-pp
-np
-verb
-ptcl
-ptcl
-conj
-noun
-pp
-np
-verb
-verb
-verb
-np
-np
-293863	np
-np
-np
-verb
-pron
-293869	np
-conj
-np
-conj
-verb
-293875	pp
-conj
-np
-np
-conj
-pp
-conj
-np
-np
-conj
-pp
-conj
-np
-np
-verb
-ptcl
-conj
-verb
-293895	np
-np
-np
-293900	verb
-conj
-verb
-conj
-verb
-np
-pron
-conj
-293909	verb
-np
-np
-np
-conj
-np
-np
-verb
-pron
-conj
-293920	verb
-pron
-conj
-verb
-np
-adjp
-np
-conj
-np
-np
-np
-verb
-conj
-verb
-pron
-verb
-adj
-pp
-np
-np
-np
-np
-np
-verb
-conj
-verb
-pron
-pron
-np
-np
-np
-np
-verb
-conj
-verb
-pp
-np
-np
-verb
-pron
-conj
-verb
-pron
-293966	verb
-adv
-np
-293970	verb
-conj
-293973	np
-np
-verb
-np
-np
-np
-verb
-np
-conj
-np
-verb
-np
-np
-np
-conj
-verb
-np
-verb
-conj
-293993	verb
-np
-conj
-293997	verb
-pp
-verb
-294001	conj
-conj
-pp
-294005	conj
-294007	np
-conj
-np
-np
-conj
-pp
-np
-np
-np
-294017	verb
-294019	np
-verb
-pron
-adj
-verb
-conj
-adv
-pron
-conj
-verb
-np
-verb
-noun
-conj
-verb
-np
-np
-np
-np
-np
-conj
-294041	np
-np
-pp
-np
-verb
-pron
-pp
-np
-verb
-np
-np
-conj
-pp
-np
-np
-verb
-np
-conj
-pp
-verb
-np
-conj
-pron
-verb
-pron
-pp
-np
-conj
-pron
-verb
-np
-np
-np
-np
-np
-np
-np
-np
-294080	np
-np
-conj
-verb
-294085	pp
-np
-conj
-pp
-np
-np
-294092	np
-verb
-294095	np
-conj
-np
-conj
-verb
-294101	np
-verb
-pp
-np
-conj
-verb
-pp
-np
-verb
-np
-294112	np
-verb
-pp
-294117	verb
-verb
-pp
-np
-np
-np
-np
-np
-conj
-verb
-294128	np
-conj
-np
-conj
-np
-conj
-np
-294136	conj
-verb
-pp
-conj
-np
-np
-294143	conj
-conj
-conj
-294147	conj
-conj
-verb
-294151	np
-conj
-np
-np
-np
-conj
-np
-np
-verb
-verb
-np
-294163	pp
-verb
-pp
-np
-conj
-pp
-np
-np
-conj
-verb
-np
-conj
-pp
-294177	np
-verb
-np
-pp
-pp
-verb
-294184	verb
-np
-np
-np
-conj
-verb
-np
-np
-verb
-verb
-np
-pp
-np
-np
-294199	np
-verb
-pp
-conj
-np
-verb
-pp
-294207	np
-np
-verb
-pp
-np
-verb
-pp
-np
-np
-conj
-np
-np
-verb
-pp
-np
-np
-conj
-verb
-noun
-verb
-pp
-np
-verb
-294231	np
-np
-np
-conj
-np
-pp
-np
-np
-conj
-294243	verb
-294246	np
-np
-np
-np
-pron
-verb
-294253	conj
-np
-conj
-verb
-pron
-np
-conj
-294261	verb
-pron
-pp
-np
-conj
-294267	verb
-conj
-verb
-pp
-conj
-adv
-verb
-adv
-np
-conj
-verb
-np
-np
-pp
-verb
-verb
-pron
-np
-conj
-294288	verb
-noun
-conj
-294292	verb
-pp
-conj
-noun
-verb
-pron
-conj
-np
-np
-verb
-294303	pp
-np
-np
-conj
-pp
-np
-np
-np
-conj
-pron
-adv
-verb
-294316	np
-conj
-np
-np
-conj
-adv
-verb
-np
-294325	pp
-np
-conj
-pp
-np
-np
-conj
-verb
-conj
-verb
-pp
-np
-np
-np
-np
-np
-adv
-verb
-conj
-verb
-np
-np
-pron
-np
-np
-np
-294352	conj
-verb
-noun
-pp
-np
-np
-np
-pp
-np
-np
-adv
-verb
-noun
-conj
-294367	verb
-np
-294370	np
-conj
-np
-conj
-verb
-pp
-np
-np
-conj
-294380	conj
-verb
-np
-np
-verb
-np
-pp
-np
-np
-conj
-verb
-verb
-294394	np
-np
-pp
-np
-np
-np
-np
-np
-294403	conj
-verb
-pron
-pp
-np
-np
-np
-np
-pp
-conj
-np
-np
-np
-conj
-verb
-pp
-np
-np
-np
-conj
-verb
-294425	np
-np
-np
-conj
-294430	np
-verb
-conj
-verb
-noun
-pp
-np
-conj
-verb
-pron
-conj
-294442	np
-verb
-pron
-verb
-pp
-np
-294449	np
-np
-294452	conj
-adv
-294455	np
-conj
-np
-conj
-verb
-294461	conj
-pp
-np
-np
-np
-conj
-verb
-294469	np
-np
-conj
-294473	verb
-pp
-pp
-np
-np
-verb
-294480	np
-conj
-np
-conj
-noun
-adv
-verb
-pron
-conj
-verb
-294491	np
-294493	np
-conj
-np
-verb
-pp
-np
-conj
-noun
-verb
-conj
-np
-verb
-pron
-verb
-np
-conj
-verb
-np
-pp
-verb
-pp
-np
-pp
-np
-np
-conj
-294520	verb
-np
-294523	np
-np
-pp
-conj
-294528	np
-conj
-np
-verb
-294533	np
-np
-pp
-conj
-verb
-adj
-pp
-np
-np
-conj
-294544	np
-conj
-np
-verb
-pp
-np
-np
-np
-pron
-294554	np
-np
-np
-verb
-np
-np
-np
-conj
-294563	conj
-pron
-adv
-verb
-pp
-np
-np
-np
-verb
-verb
-pp
-np
-np
-np
-conj
-294579	verb
-294581	np
-conj
-np
-294586	np
-conj
-np
-conj
-np
-np
-verb
-conj
-np
-adv
-verb
-adv
-conj
-294600	np
-np
-np
-np
-verb
-verb
-pp
-np
-pp
-np
-verb
-pp
-conj
-np
-verb
-np
-np
-conj
-verb
-np
-pp
-np
-verb
-verb
-294626	np
-np
-np
-pp
-np
-conj
-verb
-pp
-conj
-294636	pron
-np
-verb
-conj
-np
-np
-pp
-verb
-conj
-294646	verb
-np
-pp
-np
-np
-conj
-294653	np
-adv
-verb
-adv
-conj
-294659	conj
-conj
-adv
-verb
-adv
-conj
-np
-verb
-conj
-verb
-verb
-pp
-np
-verb
-adj
-verb
-adj
-conj
-verb
-verb
-conj
-np
-np
-294683	conj
-verb
-conj
-verb
-pron
-verb
-pron
-294692	np
-conj
-np
-294696	np
-conj
-np
-pron
-verb
-verb
-pp
-np
-np
-np
-np
-np
-adv
-verb
-verb
-pron
-conj
-294714	verb
-pron
-noun
-conj
-pron
-verb
-pron
-noun
-294723	np
-conj
-conj
-conj
-verb
-conj
-conj
-conj
-conj
-conj
-np
-np
-np
-np
-pp
-294739	np
-verb
-294742	conj
-pron
-verb
-np
-np
-np
-conj
-verb
-np
-pp
-294753	np
-np
-verb
-294757	np
-np
-verb
-np
-np
-np
-np
-conj
-verb
-pp
-verb
-294769	verb
-verb
-pron
-294773	np
-np
-np
-np
-conj
-verb
-pron
-pp
-pp
-np
-conj
-conj
-verb
-pron
-294788	np
-np
-np
-verb
-pp
-np
-pp
-np
-verb
-np
-np
-np
-np
-np
-adj
-np
-conj
-np
-294807	verb
-294809	verb
-np
-conj
-verb
-np
-conj
-294816	pp
-np
-np
-conj
-294821	verb
-pron
-verb
-np
-np
-np
-np
-pp
-np
-conj
-pp
-np
-conj
-pp
-np
-conj
-pp
-np
-conj
-np
-np
-np
-verb
-np
-conj
-pp
-np
-np
-np
-np
-np
-np
-conj
-verb
-pp
-verb
-294858	np
-conj
-verb
-294862	np
-conj
-np
-np
-conj
-np
-np
-conj
-np
-adj
-verb
-conj
-np
-np
-pron
-np
-conj
-verb
-np
-np
-pp
-294884	np
-np
-294887	np
-conj
-np
-conj
-np
-adj
-verb
-conj
-verb
-np
-np
-np
-294901	np
-pron
-verb
-noun
-conj
-np
-np
-np
-np
-noun
-conj
-294913	np
-np
-adj
-np
-np
-np
-np
-np
-np
-np
-np
-verb
-294926	np
-np
-np
-noun
-np
-noun
-np
-noun
-np
-noun
-np
-noun
-np
-noun
-np
-noun
-np
-noun
-np
-noun
-np
-noun
-np
-noun
-np
-noun
-conj
-294954	np
-np
-np
-prep
-np
-np
-np
-verb
-pp
-np
-conj
-np
-np
-np
-np
-pp
-conj
-np
-conj
-294974	noun
-adv
-verb
-pp
-294980	np
-conj
-294983	np
-np
-np
-verb
-conj
-np
-conj
-294991	np
-adv
-np
-verb
-294996	np
-conj
-np
-conj
-verb
-pron
-295003	np
-conj
-np
-np
-verb
-pron
-conj
-np
-np
-np
-conj
-verb
-np
-pp
-np
-np
-conj
-np
-np
-np
-verb
-np
-np
-pp
-conj
-295029	np
-np
-advp
-verb
-noun
-noun
-conj
-adv
-verb
-adv
-conj
-verb
-np
-295043	np
-conj
-np
-np
-pp
-conj
-advp
-verb
-pp
-np
-295054	conj
-verb
-295057	conj
-conj
-adv
-verb
-pp
-np
-np
-np
-np
-np
-conj
-verb
-pron
-np
-np
-np
-adjp
-pp
-conj
-verb
-pp
-np
-np
-295081	np
-conj
-np
-pp
-np
-295087	np
-np
-conj
-np
-295092	conj
-np
-np
-np
-verb
-np
-pp
-np
-verb
-np
-np
-conj
-np
-np
-np
-pp
-np
-np
-conj
-np
-adv
-verb
-adv
-conj
-np
-np
-295119	np
-conj
-np
-pp
-verb
-conj
-295127	np
-np
-verb
-pron
-conj
-verb
-np
-np
-conj
-np
-np
-pp
-np
-np
-conj
-295143	noun
-adv
-verb
-adv
-conj
-adv
-verb
-np
-295152	np
-conj
-np
-conj
-295157	np
-verb
-pp
-conj
-verb
-pp
-np
-np
-np
-conj
-verb
-pron
-295170	np
-np
-295173	conj
-conj
-295176	np
-np
-np
-np
-np
-np
-verb
-np
-np
-verb
-np
-np
-pron
-verb
-verb
-pp
-conj
-verb
-verb
-adj
-adj
-verb
-np
-np
-np
-np
-np
-np
-295206	conj
-pron
-conj
-295210	conj
-295212	verb
-conj
-verb
-verb
-verb
-pp
-np
-np
-295221	np
-verb
-pron
-pron
-conj
-verb
-pron
-295230	verb
-adv
-np
-verb
-conj
-295236	np
-np
-np
-conj
-verb
-np
-np
-np
-np
-np
-verb
-conj
-verb
-pron
-adv
-verb
-np
-np
-np
-np
-np
-np
-np
-conj
-adv
-verb
-295263	verb
-verb
-adv
-conj
-np
-verb
-adv
-conj
-295272	np
-noun
-verb
-adv
-conj
-np
-verb
-adv
-verb
-verb
-adj
-conj
-np
-np
-pp
-verb
-adj
-conj
-np
-np
-verb
-pron
-295296	np
-conj
-np
-295300	np
-conj
-np
-295304	np
-conj
-np
-adj
-verb
-np
-np
-conj
-295313	verb
-np
-np
-pp
-np
-np
-np
-conj
-np
-verb
-pp
-np
-adv
-295327	np
-conj
-np
-conj
-np
-conj
-np
-conj
-np
-conj
-np
-295339	conj
-noun
-295342	verb
-np
-np
 verb
-pron
-pron
 pp
-np
-pron
-verb
-np
-np
-295355	np
-conj
-np
-np
-np
-np
 np
 np
 conj
-295365	np
-conj
-np
-verb
-verb
-conj
-verb
-verb
-verb
-conj
-295376	verb
-verb
-verb
-verb
-np
-adv
-verb
-pron
-np
-verb
-np
-np
-np
-np
-np
-np
-295393	conj
-pron
-verb
-pp
-verb
-np
-pp
-295401	np
-verb
-pp
-np
-np
 conj
-295408	conj
 pron
 verb
 pp
@@ -275487,7 +275487,7 @@ verb
 np
 np
 np
-295424	pp
+292929	pp
 np
 np
 np
@@ -275508,9 +275508,9 @@ verb
 adj
 ptcl
 verb
-295446	np
+292951	np
 np
-295449	np
+292954	np
 pp
 317880	noun
 noun

@@ -9,7 +9,7 @@
 @version=0.5.2
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-08-22T19:19:13Z
+@dateWritten=2023-08-30T00:19:24Z
 
 feminine
 feminine
@@ -73986,18120 +73986,18120 @@ masculine
 masculine
 masculine
 137779	masculine
-178277	masculine
-178280	masculine
-178284	masculine
-178292	masculine
-178301	masculine
-178305	masculine
-178309	masculine
-178313	masculine
-178317	masculine
-178321	masculine
-178327	masculine
-178333	masculine
-178337	masculine
-178343	masculine
-178350	masculine
-178354	masculine
-178358	masculine
-178362	masculine
-178366	masculine
-178370	masculine
-178374	masculine
-178378	masculine
-178382	masculine
-178386	masculine
-178390	masculine
-178394	masculine
-178398	masculine
-178413	masculine
-178416	masculine
-178420	masculine
-178424	masculine
-178428	masculine
-178432	masculine
-178436	masculine
-178440	masculine
-178444	masculine
-178448	masculine
-178452	masculine
-178456	masculine
-178467	masculine
-masculine
-178500	feminine
-178507	masculine
-178510	feminine
-178518	masculine
-masculine
-178522	masculine
-feminine
-178528	feminine
-neuter
-178531	masculine
-masculine
-178537	masculine
-masculine
-178546	feminine
-178551	neuter
-178558	masculine
-178563	masculine
-masculine
-178578	neuter
-178582	masculine
-178589	masculine
-178595	neuter
-178601	masculine
-178609	masculine
-178620	feminine
-178622	masculine
-178624	masculine
-178629	masculine
-178633	masculine
-178642	masculine
-178646	masculine
-178652	masculine
-178664	masculine
-178666	masculine
-178675	masculine
-178687	masculine
-178690	masculine
-178706	feminine
-178715	masculine
-masculine
-178723	masculine
-178725	masculine
-178733	masculine
-178735	masculine
-masculine
-178740	masculine
-178754	masculine
-178756	masculine
-masculine
-178759	masculine
-178766	masculine
-178771	masculine
-178773	masculine
-178779	masculine
-178786	masculine
-178797	masculine
-178799	masculine
-178801	masculine
-178805	masculine
-178811	masculine
-178823	masculine
-178825	masculine
-178831	masculine
-178833	masculine
-178852	masculine
-178856	neuter
-178858	masculine
-178860	masculine
-178867	feminine
-178879	neuter
-178883	masculine
-178889	masculine
-masculine
-178898	masculine
-178916	masculine
-178922	neuter
-178926	masculine
-178934	feminine
-feminine
-178946	masculine
-178955	masculine
-178957	masculine
-178970	masculine
-178974	masculine
-178976	masculine
-178987	masculine
-178990	masculine
-179000	masculine
-179009	masculine
-179013	feminine
-feminine
-179017	neuter
-179020	masculine
-179029	masculine
-179034	masculine
-179042	masculine
-179045	masculine
-179049	masculine
-179051	masculine
-179058	feminine
-179101	masculine
-179104	masculine
-179111	masculine
-179115	masculine
-179117	masculine
-179124	feminine
-179135	masculine
-179148	neuter
-179162	neuter
-179176	masculine
-masculine
-179180	masculine
-179183	masculine
-179186	masculine
-179224	masculine
-179227	masculine
-masculine
-179231	feminine
+179166	masculine
+179169	masculine
+179173	masculine
+179181	masculine
+179190	masculine
+179194	masculine
+179198	masculine
+179202	masculine
+179206	masculine
+179210	masculine
+179216	masculine
+179222	masculine
+179226	masculine
+179232	masculine
 179239	masculine
 179243	masculine
-179249	neuter
-179256	masculine
-masculine
-179260	masculine
-179271	neuter
-179274	neuter
-179278	feminine
-179281	feminine
-masculine
-179301	masculine
-179306	neuter
+179247	masculine
+179251	masculine
+179255	masculine
+179259	masculine
+179263	masculine
+179267	masculine
+179271	masculine
+179275	masculine
+179279	masculine
+179283	masculine
+179287	masculine
+179302	masculine
+179305	masculine
 179309	masculine
+179313	masculine
+179317	masculine
+179321	masculine
+179325	masculine
+179329	masculine
+179333	masculine
+179337	masculine
+179341	masculine
+179345	masculine
+179355	masculine
 masculine
-179312	masculine
-179322	masculine
-179324	masculine
-179326	masculine
-179338	neuter
-179343	masculine
-179351	masculine
-179358	masculine
-179365	masculine
-179386	masculine
-179397	masculine
+179387	feminine
+179394	masculine
+179397	feminine
 179405	masculine
-179416	masculine
-179422	masculine
-179427	masculine
-179430	masculine
-179443	masculine
-179447	masculine
-179451	masculine
 masculine
-179455	masculine
-179462	masculine
-179464	masculine
-179476	neuter
-179480	masculine
-179495	masculine
-179500	masculine
-179505	neuter
+179409	masculine
+feminine
+179415	feminine
+neuter
+179418	masculine
+masculine
+179424	masculine
+masculine
+179432	feminine
+179437	neuter
+179444	masculine
+179449	masculine
+masculine
+179463	neuter
+179467	masculine
+179474	masculine
+179479	neuter
+179484	masculine
+179492	masculine
+179503	feminine
+179505	masculine
 179507	masculine
-179522	masculine
+179512	masculine
+179515	masculine
+179524	masculine
+179528	masculine
 179533	masculine
-masculine
-179539	masculine
-neuter
 179545	masculine
-179548	masculine
+179547	masculine
 179556	masculine
-179559	masculine
-179562	masculine
-179564	masculine
-179584	masculine
-179589	masculine
-masculine
+179568	masculine
+179571	masculine
+179585	feminine
 179593	masculine
-179600	masculine
-179607	masculine
-179612	masculine
-179617	masculine
-179633	masculine
-179637	masculine
-179642	masculine
 masculine
-179645	masculine
-179649	masculine
-179652	masculine
-179664	masculine
+179601	masculine
+179603	masculine
+179611	masculine
+179613	masculine
+masculine
+179618	masculine
+179630	masculine
+179632	masculine
+masculine
+179635	masculine
+179641	masculine
+179646	masculine
+179648	masculine
+179654	masculine
+179661	masculine
 179672	masculine
+179674	masculine
+179676	masculine
+179680	masculine
+179686	masculine
+179697	masculine
+179699	masculine
+179705	masculine
 masculine
-179675	masculine
-179679	masculine
-179683	masculine
+179724	masculine
+179728	neuter
 masculine
+179731	masculine
+179738	feminine
+179750	neuter
+179754	masculine
+179760	masculine
 masculine
-179690	masculine
-179695	masculine
-masculine
-179698	masculine
-179700	masculine
-179703	masculine
-179706	masculine
-179711	masculine
-179713	masculine
-179716	masculine
-179718	masculine
-179723	masculine
-179727	masculine
-179730	masculine
-179733	masculine
-masculine
-179737	masculine
-179743	masculine
-179755	masculine
-179763	masculine
-179789	neuter
-179801	feminine
+179769	masculine
+179786	masculine
+179792	neuter
+179796	masculine
 179804	feminine
-179809	masculine
-179812	masculine
-179879	neuter
-179881	masculine
-179893	masculine
-179900	masculine
-179905	masculine
-masculine
-179921	neuter
-179938	masculine
-179941	masculine
-179950	masculine
-179953	masculine
-179956	masculine
-179961	masculine
-masculine
-179965	masculine
-179968	masculine
-masculine
-179989	neuter
-180000	neuter
-180006	masculine
-180013	neuter
-180015	neuter
-180055	masculine
 feminine
-180059	feminine
-180062	feminine
-180075	masculine
-180102	feminine
-180123	masculine
-180128	feminine
-neuter
-180136	masculine
-180142	feminine
-180145	masculine
+179815	masculine
+179824	masculine
+masculine
+179838	masculine
+179842	masculine
+179844	masculine
+179855	masculine
+179858	masculine
+179868	masculine
+179877	masculine
+179881	feminine
 feminine
-180226	masculine
-180229	masculine
-180239	masculine
-180247	masculine
-180252	masculine
-180261	masculine
-180265	masculine
-180272	masculine
-180276	masculine
+179885	neuter
+179888	masculine
+179897	masculine
+179902	masculine
+179909	masculine
+179912	masculine
+179916	masculine
+179918	masculine
+179924	feminine
+179967	masculine
+179970	masculine
+179977	masculine
+179981	masculine
+179983	masculine
+179990	feminine
+180001	masculine
+180014	neuter
+180028	neuter
+180042	masculine
+masculine
+180046	masculine
+180049	masculine
+180052	masculine
+180090	masculine
+180093	masculine
+masculine
+180097	feminine
+180105	masculine
+180109	masculine
+180114	neuter
+180121	masculine
+masculine
+180125	masculine
+180136	neuter
+180139	neuter
+180143	feminine
+180146	feminine
+masculine
+180166	masculine
+180171	neuter
+180174	masculine
+masculine
+180177	masculine
+180186	masculine
+180188	masculine
+180190	masculine
+180202	neuter
+180207	masculine
+180215	masculine
+180222	masculine
+180228	masculine
+180248	masculine
+180259	masculine
+180267	masculine
+180278	masculine
+180283	masculine
+180288	masculine
+180291	masculine
 180304	masculine
-180330	masculine
-180343	neuter
-180353	masculine
-180359	masculine
-180371	masculine
-180375	masculine
-180389	feminine
+180308	masculine
+180312	masculine
+masculine
+180316	masculine
+180322	masculine
+180324	masculine
+180336	neuter
+180340	masculine
+180355	masculine
+180360	masculine
+180365	neuter
+180367	masculine
+180381	masculine
+180392	masculine
+masculine
+180398	masculine
+neuter
+180404	masculine
+180407	masculine
+180415	masculine
 180418	masculine
-feminine
-180424	neuter
-180438	masculine
-180463	masculine
-180484	masculine
-180498	masculine
+180421	masculine
+180423	masculine
+180443	masculine
+180448	masculine
+masculine
+180452	masculine
+180459	masculine
+180466	masculine
+180471	masculine
+180476	masculine
+180492	masculine
+180496	masculine
+180501	masculine
+masculine
 180504	masculine
-180521	masculine
-180531	masculine
-180614	masculine
-180623	masculine
-180633	masculine
-180645	masculine
-180657	masculine
+180508	masculine
+180511	masculine
+180523	masculine
+180530	masculine
+masculine
+180533	masculine
+180537	masculine
+180541	masculine
+masculine
+masculine
+180548	masculine
+180553	masculine
+masculine
+180556	masculine
+180558	masculine
+180561	masculine
+180564	masculine
+180569	masculine
+180571	masculine
+180574	masculine
+180576	masculine
+180581	masculine
+180584	masculine
+180587	masculine
+180590	masculine
+masculine
+180594	masculine
+180599	masculine
+180611	masculine
+180619	masculine
+180645	neuter
+180657	feminine
+180660	feminine
 180665	masculine
-180675	masculine
-180681	masculine
-180691	masculine
-180716	masculine
-180720	neuter
-180726	masculine
-180731	neuter
-180739	neuter
-180742	neuter
-180744	masculine
-180759	masculine
-180767	masculine
-180770	masculine
-180780	neuter
-180783	neuter
-180788	neuter
-180791	neuter
-180818	neuter
-180822	neuter
-180826	masculine
-180835	neuter
-180852	masculine
-180867	masculine
-180871	masculine
-180877	masculine
-180881	masculine
-180883	neuter
-180886	neuter
-180889	neuter
-180906	neuter
-180925	feminine
-neuter
-180945	neuter
-180982	masculine
-180984	neuter
-181013	masculine
-181018	masculine
-181040	masculine
-181043	masculine
-181046	masculine
-181053	masculine
-181057	masculine
+180668	masculine
+180733	neuter
+180735	masculine
+180747	masculine
+180753	masculine
+180758	masculine
 masculine
-181060	masculine
-181064	masculine
-181066	masculine
-181071	masculine
+180774	neuter
+180791	masculine
+180794	masculine
+180803	masculine
+180806	masculine
+180809	masculine
+180814	masculine
 masculine
-181086	neuter
+180818	masculine
+180821	masculine
 masculine
-masculine
-181091	neuter
-181100	masculine
-masculine
-181115	feminine
-181118	feminine
-181121	feminine
-181125	masculine
-181127	masculine
-181132	feminine
-181135	feminine
-181138	feminine
-181142	masculine
-181144	masculine
+180841	neuter
+180851	neuter
+180857	masculine
+180864	neuter
+180866	neuter
+180904	masculine
 feminine
-181150	masculine
-181163	masculine
-181166	feminine
-181169	neuter
-181192	neuter
-181202	masculine
-181205	masculine
-181208	masculine
-masculine
-181216	masculine
-181225	masculine
-181233	masculine
-masculine
-181241	neuter
-181251	masculine
-181258	masculine
-181262	masculine
-181269	masculine
-181273	masculine
-181302	masculine
-181308	masculine
-masculine
-181313	masculine
-181338	feminine
-181355	masculine
-181358	feminine
-masculine
-181365	masculine
-181367	masculine
-181371	masculine
-181375	masculine
-masculine
-181378	masculine
-masculine
-masculine
-181387	masculine
-181390	masculine
-masculine
-181402	masculine
-181406	masculine
-181411	masculine
-181418	neuter
-181420	masculine
-181424	masculine
-181426	masculine
-181429	masculine
-masculine
-181432	masculine
-masculine
-181435	masculine
-masculine
-181442	masculine
-181444	masculine
-181446	masculine
-181448	masculine
-181450	masculine
-masculine
-181456	masculine
-181459	masculine
-181467	neuter
-181469	masculine
-181480	masculine
-181482	masculine
-181487	masculine
-181494	masculine
-181504	neuter
-181507	masculine
-181513	masculine
-181526	masculine
-181575	masculine
-181591	feminine
-181597	masculine
-181599	feminine
-181601	feminine
-181603	masculine
-181605	masculine
-181609	masculine
-181613	masculine
-181617	neuter
-181621	masculine
-181623	masculine
-181630	masculine
-181633	masculine
-181640	masculine
-181643	masculine
-masculine
-181651	masculine
-181656	masculine
-181662	feminine
-181676	masculine
-masculine
-181681	neuter
-181690	masculine
-181702	masculine
-masculine
-181707	masculine
-181721	masculine
-181725	masculine
-181727	masculine
-masculine
-masculine
-181734	masculine
+180908	feminine
+180911	feminine
+180924	masculine
+180951	feminine
+180972	masculine
+180977	feminine
 neuter
+180985	masculine
+180991	feminine
+180994	masculine
+feminine
+181071	masculine
+181074	masculine
+181084	masculine
+181092	masculine
+181096	masculine
+181105	masculine
+181109	masculine
+181116	masculine
+181120	masculine
+181146	masculine
+181172	masculine
+181185	neuter
+181195	masculine
+181201	masculine
+181213	masculine
+181217	masculine
+181230	feminine
+181254	masculine
+feminine
+181260	neuter
+181274	masculine
+181297	masculine
+181316	masculine
+181330	masculine
+181335	masculine
+181351	masculine
+181361	masculine
+181442	masculine
+181450	masculine
+181458	masculine
+181470	masculine
+181482	masculine
+181490	masculine
+181500	masculine
+181506	masculine
+181516	masculine
+181540	masculine
+181544	neuter
+181550	masculine
+181555	neuter
+181563	neuter
+181566	neuter
 masculine
-181738	masculine
-181740	masculine
-181752	masculine
-181754	masculine
-181756	masculine
-181762	masculine
-181766	masculine
-masculine
-181775	masculine
-181779	masculine
-181782	masculine
-181787	masculine
-181795	masculine
-181797	neuter
-181809	feminine
-181814	feminine
-181818	masculine
-masculine
-181832	masculine
-181834	masculine
-181836	masculine
-181854	masculine
-181857	masculine
+181582	masculine
+181590	masculine
+181593	masculine
+181603	neuter
+181606	neuter
+181611	neuter
+181614	neuter
+181641	neuter
+181645	neuter
+181649	masculine
+181658	neuter
+181675	masculine
+181690	masculine
+181694	masculine
+181700	masculine
+181704	masculine
+181706	neuter
+181709	neuter
+181712	neuter
+181729	neuter
+181747	feminine
+neuter
+181767	neuter
+181803	masculine
+181805	neuter
+181833	masculine
+181838	masculine
+181858	masculine
+181861	masculine
 181864	masculine
+181870	masculine
 181874	masculine
 masculine
+181877	masculine
+181881	masculine
 181883	masculine
-181894	masculine
-181897	masculine
-181899	masculine
+181887	masculine
+masculine
+181902	neuter
+masculine
+masculine
 181907	neuter
-181917	masculine
-181920	masculine
-181929	neuter
-181934	neuter
-181937	neuter
-181952	feminine
-181960	feminine
-181975	masculine
-181980	masculine
-181988	masculine
-181992	masculine
-181998	masculine
-182001	masculine
+181916	masculine
 masculine
-182005	masculine
-182009	masculine
-182011	masculine
-182014	masculine
+181931	feminine
+181934	feminine
+181937	feminine
+181941	masculine
+181943	masculine
+181948	feminine
+181951	feminine
+181954	feminine
+181958	masculine
+181960	masculine
+feminine
+181965	masculine
+181978	masculine
+181981	feminine
+181984	neuter
+182007	neuter
+182017	masculine
+182020	masculine
+182022	masculine
 masculine
-182023	masculine
-182031	masculine
-182044	masculine
-182046	masculine
-182051	masculine
-182054	masculine
-182056	masculine
-182059	neuter
-182062	neuter
-182066	feminine
-182071	masculine
-182073	masculine
-182076	masculine
-182079	masculine
-182093	masculine
-182101	neuter
-182107	feminine
-182114	masculine
-182152	masculine
-182154	neuter
+182030	masculine
+182039	masculine
+182045	masculine
 masculine
+182053	neuter
+182063	masculine
+182070	masculine
+182074	masculine
+182081	masculine
+182084	masculine
+182112	masculine
+182118	masculine
 masculine
-masculine
-182160	masculine
+182122	masculine
+182147	feminine
 182162	masculine
+182165	feminine
 masculine
 182171	masculine
-182179	masculine
-182182	masculine
-182189	feminine
-182191	feminine
-182203	neuter
+182173	masculine
+182177	masculine
+182181	masculine
+masculine
+182184	masculine
+masculine
+masculine
+182193	masculine
+182196	masculine
+masculine
+182207	masculine
 182211	masculine
-182213	masculine
-feminine
-182218	feminine
+182215	masculine
+182221	neuter
+182223	masculine
+182226	masculine
+182228	masculine
 182231	masculine
-182238	masculine
-182243	masculine
-182255	masculine
-182260	masculine
-182277	masculine
-182283	masculine
-182285	masculine
-182290	masculine
+masculine
+182234	masculine
+masculine
+182237	masculine
+masculine
+182244	masculine
+182246	masculine
+182248	masculine
+182250	masculine
+182252	masculine
+masculine
+182258	masculine
+182261	masculine
+182269	neuter
+182271	masculine
+182282	masculine
+182284	masculine
+182289	masculine
 182295	masculine
-182299	masculine
 182304	neuter
 182307	masculine
-182310	masculine
-182315	masculine
-182327	masculine
-182329	masculine
-182331	masculine
-182333	masculine
-182335	masculine
-182337	masculine
-182343	masculine
-182345	masculine
-182348	masculine
-182350	masculine
-182353	neuter
-182360	masculine
-182384	masculine
-182389	masculine
+182313	masculine
+182325	masculine
+182372	masculine
+182388	feminine
 182394	masculine
+feminine
+182397	feminine
 182399	masculine
-182411	neuter
-masculine
-182420	masculine
-182423	masculine
-182431	masculine
+182401	masculine
+182405	masculine
+182409	masculine
+182413	neuter
+182417	masculine
+182419	masculine
+182426	masculine
+182429	masculine
 182436	masculine
-182441	masculine
-182447	neuter
-182460	neuter
+182439	masculine
 masculine
-182463	masculine
+182447	masculine
+182452	masculine
+182458	feminine
+182472	masculine
 masculine
-182499	masculine
+182477	neuter
+182486	masculine
+182497	masculine
 masculine
-182505	masculine
+182502	masculine
+182516	masculine
+182520	masculine
+182522	masculine
 masculine
 masculine
-182525	neuter
-182527	masculine
-182530	masculine
-182537	masculine
-182539	masculine
-182541	masculine
-182543	neuter
-182567	masculine
-182579	masculine
-182581	masculine
+182529	masculine
+neuter
+masculine
+182533	masculine
+182535	masculine
+182547	masculine
+masculine
+182550	masculine
+182556	masculine
+182559	masculine
+masculine
+182568	masculine
+182572	masculine
+182575	masculine
+182580	masculine
 182588	masculine
-182593	feminine
-182599	feminine
-182608	feminine
-182615	masculine
+neuter
+182601	feminine
+182606	feminine
+182610	masculine
+masculine
 182623	masculine
-182638	neuter
-182653	neuter
-182658	masculine
-182663	masculine
-182702	neuter
-182710	neuter
-182716	masculine
-182722	neuter
-182727	masculine
+182625	masculine
+182627	masculine
+182645	masculine
+182648	masculine
+182655	masculine
+182665	masculine
 masculine
-182731	masculine
-neuter
-182736	neuter
-182740	masculine
-182748	masculine
-182750	masculine
+182674	masculine
+182685	masculine
+182688	masculine
+182690	masculine
+182697	neuter
+182707	masculine
+182710	masculine
+182719	neuter
+182723	neuter
+182726	neuter
+182741	feminine
+182749	feminine
+182763	masculine
+182768	masculine
+182776	masculine
 182780	masculine
-182784	masculine
-182788	neuter
-182805	masculine
-182813	masculine
-neuter
-182819	neuter
-neuter
-182825	neuter
-182828	neuter
-182837	neuter
-182848	masculine
-182853	masculine
+182786	masculine
+182789	masculine
+masculine
+182793	masculine
+182797	masculine
+182799	masculine
+182802	masculine
+masculine
+182811	masculine
+182819	masculine
+182832	masculine
+182834	masculine
+182839	masculine
+182842	masculine
+masculine
+182846	neuter
+182849	neuter
+182853	feminine
 182858	masculine
-182865	neuter
-182908	masculine
-182916	masculine
-182929	feminine
-182935	feminine
-182937	feminine
-182942	masculine
-182947	feminine
-182952	feminine
-182961	masculine
-182968	masculine
-182970	masculine
-182977	masculine
-182979	masculine
-182990	masculine
+182860	masculine
+182863	masculine
+182866	masculine
+182880	masculine
+182888	neuter
+182894	feminine
+182901	masculine
+182939	masculine
+182941	neuter
 masculine
-182995	feminine
+masculine
+masculine
+182947	masculine
+182949	masculine
+masculine
+182958	masculine
+182966	masculine
+182969	masculine
+182976	feminine
+182978	feminine
+182989	neuter
 182997	masculine
-183002	feminine
-masculine
-183009	masculine
-183011	masculine
-183013	masculine
-masculine
-183020	masculine
-masculine
+182999	masculine
+feminine
+183003	feminine
+183016	masculine
+183023	masculine
 183028	masculine
-183050	masculine
-183063	masculine
-183069	masculine
-183074	masculine
-183078	masculine
-183080	masculine
-183083	masculine
-183086	masculine
-masculine
+183039	masculine
+183044	masculine
+183060	masculine
+183066	masculine
+183068	masculine
+183072	masculine
+183077	masculine
+183081	masculine
+183086	neuter
 183089	masculine
-neuter
-183093	masculine
+183091	masculine
 183096	masculine
-183098	masculine
-183101	masculine
-183104	masculine
-183107	masculine
+183108	masculine
 183110	masculine
 183112	masculine
-183117	masculine
-183119	masculine
-183126	neuter
-183133	masculine
-183135	neuter
-183140	masculine
-183143	masculine
-183150	neuter
-183152	masculine
-183160	masculine
-183171	masculine
-183193	masculine
+183114	masculine
+183116	masculine
+183118	masculine
+183123	masculine
+183125	masculine
+183128	masculine
+183130	masculine
+183132	neuter
+183139	masculine
+183163	masculine
+183168	masculine
+183173	masculine
+183178	masculine
+183189	neuter
 masculine
+183198	masculine
+183201	masculine
 183209	masculine
-183211	feminine
-183225	masculine
-183228	masculine
-183230	masculine
-neuter
-183233	neuter
-183238	feminine
-183242	neuter
-183245	neuter
-neuter
-183248	neuter
-183260	masculine
-183266	neuter
-183273	masculine
-183275	masculine
-183308	feminine
-183311	feminine
-183320	feminine
-183333	neuter
-183340	feminine
-183351	feminine
-183361	neuter
-183370	masculine
-183385	neuter
-183391	neuter
+183214	masculine
+183219	masculine
+183225	neuter
+183238	neuter
 masculine
-183399	feminine
-183402	neuter
-183410	masculine
-183418	masculine
-183425	masculine
-183433	masculine
-183435	masculine
-183454	feminine
-183460	masculine
-183464	neuter
-183482	masculine
-183487	masculine
-183489	masculine
-183494	neuter
-183499	masculine
-183502	masculine
+183241	masculine
+masculine
+183277	masculine
+masculine
+183283	masculine
+masculine
+masculine
+183303	neuter
+183305	masculine
+183308	masculine
+183314	masculine
+183316	masculine
+183318	masculine
+183320	neuter
+183342	masculine
+183354	masculine
+183356	masculine
+183362	masculine
+183367	feminine
+183373	feminine
+183382	feminine
+183388	masculine
+183396	masculine
+183410	neuter
+183425	neuter
+183430	masculine
+183434	masculine
+183471	neuter
+183479	neuter
+183485	masculine
+183491	neuter
+183496	masculine
+masculine
+183500	masculine
+neuter
 183505	neuter
-183507	masculine
-183525	neuter
-183528	masculine
-183536	masculine
-183549	masculine
-183563	neuter
-183566	neuter
-183570	feminine
-183582	masculine
-183591	feminine
-masculine
-feminine
-183596	masculine
-masculine
-183603	masculine
-masculine
-183607	masculine
-masculine
+183509	masculine
+183517	masculine
+183519	masculine
+183547	masculine
+183551	masculine
+183555	neuter
+183571	masculine
+183579	masculine
+neuter
+183584	neuter
+neuter
+183589	neuter
+183592	neuter
+183601	neuter
 183612	masculine
-183618	neuter
-183622	neuter
-183625	neuter
-183628	masculine
-neuter
-183645	feminine
-183648	masculine
-183651	neuter
-183655	masculine
-183659	masculine
-183664	masculine
-masculine
-183672	masculine
-183675	masculine
-masculine
-183680	neuter
-183684	masculine
-183690	masculine
-183695	masculine
-183704	feminine
-183713	masculine
-183719	masculine
-183724	neuter
-183734	neuter
-183738	masculine
+183617	masculine
+183622	masculine
+183629	neuter
+183671	masculine
+183679	masculine
+183692	feminine
+183698	feminine
+183700	feminine
+183705	masculine
+183710	feminine
+183715	feminine
+183724	masculine
+183731	masculine
+183733	masculine
 183740	masculine
-183744	masculine
-183755	masculine
-183761	masculine
-183764	masculine
-183775	masculine
-183780	masculine
-183784	feminine
-183792	feminine
-183819	masculine
-183839	masculine
-183852	neuter
+183742	masculine
+183753	masculine
+masculine
+183758	feminine
+183760	masculine
+183765	feminine
+masculine
+183772	masculine
+183774	masculine
+183776	masculine
+masculine
+183783	masculine
+masculine
+183790	masculine
+183810	masculine
+183823	masculine
+183829	masculine
+183834	masculine
+183838	masculine
+183840	masculine
+183843	masculine
+183846	masculine
+masculine
+183849	masculine
+neuter
+183853	masculine
+183856	masculine
+183858	masculine
 183861	masculine
+183864	masculine
 183867	masculine
-183887	masculine
-183889	masculine
-183895	masculine
-183897	masculine
-183906	masculine
-183914	masculine
-183919	neuter
-183923	masculine
-183928	neuter
-183932	masculine
-183941	neuter
-183943	masculine
+183870	masculine
+183872	masculine
+183876	masculine
+183878	masculine
+183884	neuter
+183891	masculine
+183893	neuter
+183898	masculine
+183901	masculine
+183907	neuter
+183909	masculine
+183916	masculine
+183927	masculine
+183948	masculine
 masculine
-183958	neuter
-183966	neuter
-183974	neuter
+183964	masculine
+183966	feminine
 183979	masculine
-183994	masculine
-183999	masculine
-masculine
-184003	neuter
-184005	masculine
-184007	masculine
-184009	masculine
-184014	neuter
-184017	neuter
-184020	feminine
-184030	masculine
+183982	masculine
+183984	masculine
+neuter
+183987	neuter
+183992	feminine
+183995	neuter
+183998	neuter
+neuter
+184001	neuter
+184013	masculine
+184019	neuter
+184026	masculine
+184028	masculine
+184059	feminine
 184062	feminine
-184082	feminine
-184106	neuter
+184071	feminine
+184084	neuter
+184091	feminine
+184102	feminine
+184112	neuter
+184121	masculine
+184135	neuter
+184141	neuter
+masculine
+184147	feminine
+184150	neuter
+184158	masculine
+184166	masculine
+184173	masculine
+184180	masculine
+184182	masculine
+184201	feminine
+184207	masculine
+184211	neuter
+184229	masculine
+184234	masculine
+184236	masculine
+184241	neuter
+184246	masculine
+184249	masculine
+184251	neuter
+184253	masculine
+184271	neuter
+184274	masculine
+184282	masculine
+184295	masculine
+184308	neuter
+184311	neuter
+184315	feminine
+184327	masculine
+184336	feminine
+masculine
 feminine
-184121	neuter
-184124	masculine
-184126	masculine
-184128	masculine
-184140	neuter
-184149	neuter
-184159	masculine
+184341	masculine
 masculine
-184170	masculine
+184348	masculine
 masculine
-184175	masculine
+184352	masculine
 masculine
-184186	masculine
-184189	masculine
-184191	masculine
-184193	masculine
-masculine
-184196	masculine
-184201	masculine
-184206	masculine
-184221	masculine
-184231	masculine
-184239	masculine
-184250	masculine
-184252	masculine
-184262	masculine
-neuter
-184265	masculine
-184268	masculine
-184273	masculine
-neuter
-184280	neuter
-184283	neuter
-184286	neuter
-184305	masculine
-184307	masculine
-184313	feminine
-184316	neuter
-184327	neuter
-184329	neuter
-184339	masculine
-neuter
-184343	neuter
-184346	neuter
-184349	masculine
-neuter
-184353	masculine
 184356	masculine
-184360	masculine
+184362	neuter
+184366	neuter
+184369	neuter
+184372	masculine
+neuter
+184389	feminine
+184392	masculine
+184395	neuter
+184399	masculine
+184403	masculine
+184408	masculine
 masculine
-184363	masculine
-184374	masculine
-184378	masculine
-184382	masculine
-184385	masculine
-184390	neuter
-184396	masculine
-184400	masculine
-184404	masculine
-184410	masculine
-184414	feminine
-184417	feminine
-184424	masculine
-184459	masculine
-184463	masculine
-184483	neuter
-184491	neuter
-184501	masculine
+184416	masculine
+184419	masculine
+masculine
+184424	neuter
+184428	masculine
+184433	masculine
+184437	masculine
+184446	feminine
+184455	masculine
+184461	masculine
+184466	neuter
+184476	neuter
+184480	masculine
+184482	masculine
+184486	masculine
+184497	masculine
 184503	masculine
+184505	masculine
+184516	masculine
+184521	masculine
+184525	feminine
+184533	feminine
+184560	masculine
+184579	masculine
+184592	neuter
+184601	masculine
+184607	masculine
+184626	masculine
+184628	masculine
+184634	masculine
 masculine
-184510	masculine
-184515	neuter
-184519	masculine
-184523	masculine
-184527	masculine
+184644	masculine
+184652	masculine
+184657	neuter
+184661	masculine
+184666	neuter
+184670	masculine
+184679	neuter
+184681	masculine
 masculine
-184531	masculine
-184533	masculine
-184535	masculine
-masculine
-184541	feminine
-184544	masculine
-184546	feminine
-184552	masculine
-184557	masculine
-masculine
-184561	masculine
-184574	masculine
-184580	masculine
-masculine
-184585	masculine
-184587	masculine
-masculine
-184593	neuter
-184596	neuter
-184599	neuter
-184604	masculine
-masculine
-184611	masculine
-184625	neuter
-184637	masculine
-184643	masculine
-184649	masculine
-masculine
-184659	neuter
-masculine
-184663	masculine
-184665	neuter
-184669	masculine
-184674	masculine
-184676	neuter
-masculine
-184684	masculine
-184691	neuter
-184703	neuter
-184707	neuter
+184696	neuter
+184704	neuter
 184711	neuter
-184720	masculine
+184716	masculine
+184731	masculine
+184736	masculine
 masculine
+184740	neuter
+184742	masculine
+184744	masculine
+184746	masculine
+184751	neuter
+184754	neuter
+184757	feminine
+184767	masculine
+184798	feminine
+184817	feminine
+184841	neuter
 feminine
-184729	masculine
+184855	neuter
+184858	masculine
+184860	masculine
+184862	masculine
+184874	neuter
+184883	neuter
+184893	masculine
 masculine
+184904	masculine
 masculine
-184736	neuter
-neuter
-184745	neuter
-184750	neuter
-184764	masculine
-feminine
-184771	feminine
-feminine
-feminine
-184779	masculine
-184781	neuter
-184789	neuter
-184791	masculine
-184794	neuter
-184797	masculine
-184803	neuter
-184806	masculine
-184813	masculine
-184816	masculine
-184824	masculine
-184826	masculine
-184828	masculine
-184842	masculine
-184857	masculine
-neuter
-184867	masculine
-184875	neuter
-184899	masculine
-184903	masculine
-184926	masculine
-neuter
-184929	feminine
-184936	masculine
-184939	masculine
+184909	masculine
 masculine
+184920	masculine
+184923	masculine
+184925	masculine
+184927	masculine
 masculine
-184950	neuter
-184957	feminine
-184963	masculine
-184965	masculine
-184969	masculine
-184972	neuter
-184976	masculine
-184978	feminine
-184985	feminine
-184991	feminine
-feminine
+184930	masculine
+184935	masculine
+184940	masculine
+184954	masculine
+184964	masculine
+184972	masculine
+184983	masculine
+184985	masculine
 184995	masculine
-184999	masculine
-185024	masculine
-185040	masculine
-185042	masculine
-185045	masculine
-185049	masculine
-185053	masculine
-185057	masculine
-185075	masculine
-185080	masculine
-185087	masculine
-185091	masculine
-185097	masculine
-185105	feminine
-185116	feminine
-185121	masculine
-185129	masculine
-185133	masculine
+neuter
+184998	masculine
+185001	masculine
+185006	masculine
+neuter
+185013	neuter
+185016	neuter
+185018	neuter
+185036	masculine
+185038	masculine
+185044	feminine
+185047	neuter
+185058	neuter
+185060	neuter
+185069	masculine
+neuter
+185073	neuter
+185076	neuter
+185079	masculine
+neuter
+185083	masculine
+185086	masculine
+185090	masculine
 masculine
-185165	masculine
-185169	masculine
-185180	masculine
-185196	masculine
-185201	feminine
-185204	masculine
-masculine
-185212	masculine
+185093	masculine
+185104	masculine
+185108	masculine
+185112	masculine
+185115	masculine
+185120	neuter
+185126	masculine
+185130	masculine
+185134	masculine
+185140	masculine
+185144	feminine
+185147	feminine
+185154	masculine
+185188	masculine
+185191	masculine
+185210	neuter
 185218	neuter
-185232	feminine
-185234	neuter
-185236	feminine
-185238	feminine
-185252	masculine
-185258	masculine
-185262	masculine
-185264	masculine
-185280	masculine
+185228	masculine
+masculine
+masculine
+185236	masculine
+185241	neuter
+185245	masculine
+185249	masculine
+185253	masculine
+masculine
+185257	masculine
+185259	masculine
+185261	masculine
+masculine
+185267	feminine
+185270	masculine
+185272	feminine
+185278	masculine
+185283	masculine
+masculine
 185287	masculine
-185289	masculine
-185292	masculine
-185302	masculine
-185305	masculine
+185300	masculine
+185306	masculine
+masculine
 185310	masculine
-185322	feminine
-185324	feminine
-185326	masculine
-185328	masculine
-185330	masculine
-185341	masculine
-185345	masculine
-neuter
-185350	masculine
-185353	feminine
-185357	masculine
-185360	masculine
-185363	masculine
+185312	masculine
+masculine
+185318	neuter
+185321	neuter
+185324	neuter
+185329	masculine
+masculine
+185336	masculine
+185350	neuter
+185362	masculine
+185368	masculine
 185374	masculine
-185380	masculine
-185382	masculine
-185387	masculine
+masculine
+185384	neuter
+masculine
+185388	masculine
+185390	neuter
 185394	masculine
-185400	masculine
-185410	masculine
-185418	neuter
-185423	masculine
-185440	masculine
-185444	masculine
-185448	masculine
-185456	feminine
-185458	feminine
+185398	masculine
+185400	neuter
 masculine
-185470	neuter
-185475	masculine
-185483	masculine
-185488	masculine
+185407	masculine
+185414	neuter
+185426	neuter
+185430	neuter
+185434	neuter
+185443	masculine
 masculine
-185492	masculine
-185494	masculine
-185496	neuter
-185502	masculine
-185506	masculine
-masculine
-185515	masculine
-185517	masculine
-185520	masculine
-185530	masculine
-185535	masculine
-185538	masculine
-185546	masculine
-185551	masculine
-185554	masculine
-masculine
-185561	masculine
-185564	masculine
-185567	masculine
-masculine
-185573	masculine
-masculine
-185584	masculine
-masculine
-185590	masculine
-185597	masculine
-masculine
-185610	masculine
-185613	masculine
-185616	masculine
-185618	neuter
-185625	masculine
-185634	masculine
-185647	masculine
-185649	masculine
-185651	masculine
-185653	masculine
-185673	masculine
-185676	masculine
-185681	masculine
-185687	neuter
-neuter
-185706	masculine
-185710	masculine
-masculine
-185728	masculine
 feminine
-185732	masculine
-185735	masculine
-185741	neuter
-185747	neuter
-185750	neuter
-185754	masculine
-185757	masculine
+185451	masculine
+masculine
+masculine
+185458	neuter
+neuter
+185467	neuter
+185472	neuter
+185486	masculine
+feminine
+185492	feminine
+feminine
+feminine
+185500	masculine
+185502	neuter
+185510	neuter
+185512	masculine
+185515	neuter
+185518	masculine
+185524	neuter
+185527	masculine
+185534	masculine
+185537	masculine
+185545	masculine
+185547	masculine
+185549	masculine
+185563	masculine
+185578	masculine
+neuter
+185588	masculine
+185596	neuter
+185620	masculine
+185624	masculine
+185647	masculine
+neuter
+185650	feminine
+185656	masculine
+185659	masculine
+masculine
+masculine
+185670	neuter
+185677	feminine
+185683	masculine
+185685	masculine
+185689	masculine
+185692	neuter
+185696	masculine
+185698	feminine
+185704	feminine
+185710	feminine
+feminine
+185714	masculine
+185718	masculine
+185743	masculine
+185759	masculine
 185761	masculine
 185764	masculine
-185766	masculine
-185770	feminine
-185779	masculine
-185783	masculine
-185785	masculine
-185788	masculine
-185791	masculine
-185795	masculine
-185799	masculine
-185802	feminine
+185768	masculine
+185772	masculine
+185775	masculine
+185792	masculine
+185797	masculine
 185804	masculine
-185809	neuter
-185820	neuter
-185826	neuter
-185836	neuter
-185838	neuter
-185847	masculine
-185862	feminine
-185864	feminine
-185874	masculine
-185878	feminine
+185808	masculine
+185814	masculine
+185822	feminine
+185833	feminine
+185838	masculine
+185846	masculine
+185849	masculine
 masculine
-185881	masculine
-185885	masculine
-masculine
-185889	feminine
-185893	masculine
+185880	masculine
+185884	masculine
 185895	masculine
-185906	neuter
-185908	feminine
-185910	feminine
-185912	masculine
-feminine
+185911	masculine
+185916	feminine
+185918	masculine
 masculine
-185917	masculine
-185919	masculine
-185923	neuter
-185931	feminine
-185936	masculine
-185944	neuter
-185951	masculine
-185954	feminine
-185957	feminine
-185973	masculine
-185982	masculine
-185990	masculine
+185926	masculine
+185930	neuter
+185944	feminine
+185946	neuter
+185948	feminine
+185950	feminine
+185964	masculine
+185970	masculine
+185974	masculine
+185976	masculine
 185992	masculine
 185999	masculine
-186005	masculine
-186009	masculine
-186011	masculine
+186001	masculine
+186004	masculine
+186014	masculine
+186017	masculine
+186022	masculine
+186033	feminine
+186035	feminine
+186037	masculine
+186039	masculine
 masculine
-masculine
-masculine
-186016	masculine
-masculine
-186019	masculine
-masculine
-186027	masculine
-186045	neuter
-186059	masculine
-186070	masculine
-186074	masculine
-186081	masculine
-186093	masculine
-186105	masculine
-186112	neuter
+186051	masculine
+186055	masculine
+neuter
+186060	masculine
+186062	feminine
+186066	masculine
+186069	masculine
+186072	masculine
+186082	masculine
+186088	masculine
+186090	masculine
+186095	masculine
+186102	masculine
+186108	masculine
 186118	masculine
-186125	masculine
-186136	masculine
-186140	masculine
-186142	masculine
-186147	masculine
-masculine
-186150	masculine
+186126	neuter
+186131	masculine
+186148	masculine
 186152	masculine
-186154	feminine
-feminine
-186158	feminine
-186166	masculine
-186169	masculine
-186186	neuter
-186189	neuter
-186192	feminine
+186156	masculine
+186163	feminine
+186165	feminine
+masculine
+186176	neuter
+186181	masculine
+186189	masculine
+186194	masculine
+masculine
 186198	masculine
-masculine
-186202	masculine
-186207	masculine
+186200	masculine
+186202	neuter
+186208	masculine
 186212	masculine
+masculine
+186219	masculine
 186221	masculine
-186225	masculine
-186227	masculine
-186230	masculine
-186234	neuter
-186237	masculine
+186224	masculine
+186234	masculine
 186239	masculine
-186297	masculine
-186308	masculine
+186242	masculine
+186250	masculine
+186255	masculine
+186258	masculine
 masculine
+186265	masculine
+186268	masculine
+186271	masculine
+masculine
+186276	masculine
+masculine
+186287	masculine
+masculine
+186293	masculine
+186300	masculine
+masculine
+186313	masculine
 186316	masculine
-186320	masculine
-186324	masculine
-186326	masculine
-masculine
-186334	masculine
+186319	masculine
+186321	neuter
+186328	masculine
 186337	masculine
-186341	masculine
-186353	masculine
-masculine
-186358	masculine
-186360	masculine
+186350	masculine
+186352	masculine
+186354	masculine
+186356	masculine
+186376	masculine
+186379	masculine
 186384	masculine
-186396	feminine
-186405	neuter
-186413	neuter
-186425	masculine
-186428	masculine
-186439	masculine
+186390	neuter
+neuter
+186409	masculine
+186413	masculine
+masculine
+186431	masculine
+feminine
+186435	masculine
+186438	masculine
 186443	neuter
+186449	neuter
+186452	neuter
 186456	masculine
-masculine
-186461	masculine
-masculine
-186464	masculine
+186459	masculine
+186463	masculine
 186466	masculine
-186470	neuter
-masculine
-186473	masculine
+186468	masculine
+186471	feminine
 186480	masculine
-186498	masculine
-186503	masculine
-186511	masculine
-186518	feminine
+186484	masculine
+186486	masculine
+186489	masculine
+186492	masculine
+186496	masculine
+186500	masculine
+186503	feminine
+186505	masculine
+186510	neuter
+186520	neuter
+186526	neuter
+186536	neuter
+186538	neuter
+186547	masculine
+186562	feminine
+186564	feminine
+186573	masculine
+186577	feminine
 masculine
-186526	feminine
-neuter
-186530	masculine
-186541	neuter
-186543	masculine
-186564	masculine
-186575	masculine
+186580	masculine
+186584	masculine
 masculine
-186579	masculine
-186585	masculine
-186603	masculine
-186622	neuter
-186629	masculine
+186587	feminine
+186591	masculine
+186593	masculine
+186603	neuter
+186605	feminine
+186607	feminine
+186609	masculine
+feminine
+masculine
+186614	masculine
+186616	masculine
+186620	neuter
+186628	feminine
 186632	masculine
-186634	masculine
-186640	masculine
-neuter
+186640	neuter
+186647	masculine
+186650	feminine
 186652	feminine
-186654	masculine
-feminine
-186657	masculine
-feminine
-186660	masculine
-masculine
-186665	masculine
-186668	feminine
-186671	feminine
-186673	masculine
-186682	masculine
+186667	masculine
+186676	masculine
 186684	masculine
-186696	masculine
+186686	masculine
+186693	masculine
+186699	masculine
+186703	masculine
+186705	masculine
 masculine
-186704	masculine
-186708	masculine
-186716	masculine
+masculine
+masculine
+186710	masculine
+masculine
+186713	masculine
 masculine
 186721	masculine
-186723	masculine
-masculine
-186728	masculine
-186736	masculine
-186738	masculine
-neuter
-186744	masculine
-186747	neuter
-masculine
-186750	masculine
-186754	masculine
-186759	neuter
-186765	masculine
-186771	masculine
-186775	neuter
-186793	masculine
-186796	masculine
-186800	masculine
-masculine
-186803	masculine
-masculine
-186806	masculine
-186808	masculine
+186738	neuter
+186752	masculine
+186763	masculine
+186767	masculine
+186774	masculine
+186786	masculine
+186798	masculine
+186805	neuter
+186811	masculine
+186818	masculine
 186829	masculine
+186833	masculine
 186835	masculine
-186837	masculine
-186844	feminine
-186854	masculine
-186858	neuter
-186871	masculine
-186881	neuter
+186840	masculine
 masculine
-186885	masculine
-186910	neuter
-186914	masculine
-186916	masculine
+186843	masculine
+186845	masculine
+feminine
+feminine
+186849	feminine
+186856	masculine
+186859	masculine
+186876	neuter
+186879	neuter
+186882	feminine
+186888	masculine
+masculine
+186892	masculine
+186897	masculine
+186902	masculine
+186911	masculine
+186915	masculine
+186917	masculine
 186920	masculine
-186932	masculine
-186941	masculine
-186943	masculine
-186947	masculine
-186954	neuter
-186959	masculine
-186963	masculine
-186965	masculine
-186967	neuter
-186970	masculine
+186924	neuter
+186927	masculine
+186929	masculine
 186987	masculine
-186992	masculine
-186994	masculine
-187001	masculine
+186998	masculine
 masculine
-187005	neuter
-187009	masculine
-187013	masculine
-187017	masculine
+187006	masculine
+187010	masculine
+187014	masculine
+187016	masculine
 masculine
-masculine
-187021	masculine
+187024	masculine
+187027	masculine
 187031	masculine
+187043	masculine
 masculine
-187034	masculine
-187041	masculine
-neuter
-187044	neuter
-187068	masculine
-187071	masculine
-187076	masculine
-187084	masculine
-187094	masculine
-187101	masculine
-187104	masculine
-187121	feminine
-187143	masculine
-187147	neuter
+187048	masculine
+masculine
+187073	masculine
+187085	feminine
+187094	neuter
+187102	neuter
+187113	masculine
+187116	masculine
+187127	masculine
+187131	neuter
+187144	masculine
+masculine
+187149	masculine
+masculine
+masculine
+187153	masculine
+187157	neuter
+masculine
 187160	masculine
-187173	masculine
-187177	neuter
-187180	masculine
-187186	masculine
-187214	neuter
-187232	masculine
-187234	neuter
-187240	neuter
-187253	neuter
-187257	neuter
-187278	masculine
-187313	masculine
-187331	neuter
-187338	neuter
-187358	neuter
-187361	masculine
-187381	masculine
-187384	masculine
+187165	masculine
+187182	masculine
+187187	masculine
+187195	masculine
+187202	feminine
 masculine
-187393	masculine
+187210	feminine
+neuter
+187214	masculine
+187225	neuter
+187227	masculine
+187248	masculine
+187258	masculine
+masculine
+187262	masculine
+187268	masculine
+187286	masculine
+187305	neuter
+187312	masculine
+187315	masculine
+187317	masculine
+187322	masculine
+neuter
+187334	feminine
+187336	masculine
+feminine
+187339	masculine
+feminine
+187342	masculine
+masculine
+187347	masculine
+187350	feminine
+187353	feminine
+masculine
+187363	masculine
+187365	masculine
+187377	masculine
+masculine
+187385	masculine
+187389	masculine
 187396	masculine
-187412	masculine
-187415	masculine
-187420	masculine
-187422	masculine
-187426	masculine
-187431	masculine
-187433	masculine
-187446	neuter
-187450	masculine
-187454	masculine
 masculine
-187460	neuter
-187463	masculine
-187470	masculine
+187401	masculine
+187403	masculine
+masculine
+187408	masculine
+187416	masculine
+187418	masculine
+neuter
+187424	masculine
+187427	neuter
+masculine
+187430	masculine
+187434	masculine
+187439	neuter
+187444	masculine
+187450	masculine
+187454	neuter
+187472	masculine
 187474	masculine
+187478	masculine
+masculine
+187481	masculine
 masculine
 187484	masculine
-187486	masculine
-187489	masculine
 masculine
-187492	masculine
-187496	neuter
-187498	masculine
-187503	masculine
-masculine
+187505	masculine
 187511	masculine
-187517	masculine
-187519	masculine
-187523	neuter
+187513	masculine
+187520	feminine
+187529	masculine
+187533	neuter
+187546	masculine
+187556	neuter
 masculine
-187528	neuter
-187532	masculine
-187537	neuter
-187539	masculine
-masculine
-187544	masculine
-187564	masculine
-187568	masculine
-187571	masculine
-187574	neuter
-masculine
+187560	masculine
+187582	neuter
+187585	masculine
 187587	masculine
-187615	masculine
-187619	masculine
-187623	masculine
-masculine
-187626	masculine
-masculine
-187629	masculine
-187636	masculine
+187591	masculine
+187603	masculine
+187611	masculine
+187613	masculine
+187617	masculine
+187624	neuter
+187628	masculine
+187632	masculine
+187634	masculine
+neuter
 187638	masculine
-187642	masculine
-187647	masculine
-187654	masculine
-187674	neuter
-187678	masculine
-187682	masculine
-neuter
-187685	masculine
-187693	masculine
-187695	masculine
-187713	masculine
-187721	feminine
-187724	masculine
-187739	masculine
-187742	masculine
-187744	masculine
-187749	masculine
-187754	masculine
-187762	masculine
-187769	masculine
-187771	masculine
-187776	masculine
-187782	masculine
-neuter
-187788	neuter
-187794	masculine
-187804	neuter
-187814	masculine
-187816	neuter
-187821	masculine
+187653	masculine
+187658	masculine
+187660	masculine
+187667	masculine
+masculine
+187671	neuter
+187675	masculine
+187679	masculine
+187683	masculine
 masculine
 masculine
-187825	masculine
-187831	masculine
-187834	masculine
-187836	neuter
-187841	masculine
-187854	masculine
-feminine
-187880	masculine
-187882	masculine
-187887	neuter
-187891	masculine
-187896	masculine
-187902	neuter
-187905	masculine
-187908	masculine
-187915	masculine
-187920	masculine
-187932	masculine
-187944	neuter
-187946	feminine
-187951	masculine
-187956	masculine
-187961	masculine
+187687	masculine
+187697	masculine
 masculine
-187966	masculine
-187970	masculine
-187973	neuter
+187700	masculine
+187707	masculine
 neuter
-187978	neuter
-neuter
-187981	masculine
-187984	masculine
-187989	neuter
+187710	neuter
+187732	masculine
+187735	masculine
+187740	masculine
+187748	masculine
+187757	masculine
+187764	masculine
+187767	masculine
+187784	feminine
+187805	masculine
+187809	neuter
+187822	masculine
+187835	masculine
+187839	neuter
+187842	masculine
+187848	masculine
+187876	neuter
+187894	masculine
+187896	neuter
+187901	neuter
+187914	neuter
+187918	neuter
+187937	masculine
+187968	masculine
+187986	neuter
 187993	neuter
-188000	masculine
-188005	masculine
-188021	masculine
-188028	masculine
-188040	neuter
-188048	masculine
-188050	masculine
+188011	neuter
+188014	masculine
+188034	masculine
+188037	masculine
 masculine
-feminine
-188060	masculine
+188046	masculine
+188049	masculine
 188064	masculine
-188068	masculine
-188075	masculine
-188080	masculine
-188085	masculine
-188088	masculine
-188090	masculine
-188098	neuter
-188100	neuter
-188103	masculine
-188108	masculine
-188117	masculine
-188119	masculine
+188067	masculine
+188071	masculine
+188073	masculine
+188077	masculine
+188081	masculine
+188083	masculine
+188096	neuter
+188100	masculine
+188104	masculine
 masculine
-188123	masculine
-neuter
-188129	masculine
-188131	masculine
+188110	neuter
+188113	masculine
+188120	masculine
+188124	masculine
+masculine
 188133	masculine
-188137	masculine
-188143	feminine
-188145	feminine
-188158	masculine
-188163	masculine
-188171	neuter
-188173	masculine
-188177	neuter
-188184	masculine
-188189	masculine
-188196	masculine
+188135	masculine
+188138	masculine
 masculine
-188200	masculine
-188207	masculine
-188209	masculine
-188213	masculine
-188217	neuter
-188233	neuter
-188241	masculine
-188245	masculine
-188250	masculine
-188253	masculine
+188141	masculine
+188144	neuter
+188146	masculine
+188151	masculine
 masculine
-188257	masculine
-188266	masculine
+188159	masculine
+188164	masculine
+188166	masculine
+188170	neuter
+masculine
+188175	neuter
+188179	masculine
+188184	neuter
+188186	masculine
+masculine
+188191	masculine
+188211	masculine
+188215	masculine
+188218	masculine
+188221	neuter
+masculine
+188234	masculine
+188261	masculine
+188265	masculine
+188269	masculine
+masculine
+188272	masculine
+masculine
+188275	masculine
+188282	masculine
 188284	masculine
 188288	masculine
-188302	masculine
-188311	feminine
-188313	feminine
+188293	masculine
+188300	masculine
+188320	neuter
+188324	masculine
+188328	masculine
 neuter
-188316	masculine
-188319	feminine
-neuter
-188323	masculine
-188332	masculine
-188335	masculine
+188331	masculine
+188339	masculine
 188341	masculine
-188347	neuter
-188353	neuter
-188358	masculine
-188361	masculine
-188377	neuter
-neuter
-188381	masculine
+188359	masculine
+188367	feminine
+188370	masculine
+188384	masculine
 188387	masculine
-188395	masculine
-masculine
-188404	neuter
-188408	neuter
-188414	masculine
-188417	masculine
-188422	masculine
-188426	masculine
-188448	masculine
-masculine
-188452	masculine
-188458	masculine
-188461	masculine
-188463	masculine
-188466	masculine
-188474	masculine
-188477	masculine
-188479	neuter
-188481	masculine
-188487	masculine
-188490	masculine
-188493	neuter
-188498	masculine
-masculine
-188504	masculine
-188516	masculine
-188531	masculine
-188534	masculine
-masculine
-188547	feminine
-feminine
-188550	masculine
-188552	masculine
-188558	masculine
-188561	neuter
-188567	masculine
-188570	masculine
-188572	neuter
-188577	neuter
-188580	masculine
-188591	masculine
-188599	masculine
-188604	masculine
-188607	masculine
-188630	masculine
-188633	masculine
-188644	masculine
-masculine
-188647	masculine
-188649	masculine
-188654	masculine
-masculine
-188663	masculine
-masculine
-188669	feminine
-masculine
-188672	masculine
-188676	masculine
-188687	masculine
-188706	masculine
-188710	masculine
-188719	masculine
-188724	masculine
-188731	masculine
-masculine
-188741	neuter
-188746	masculine
-188750	masculine
-188757	masculine
-188760	neuter
-masculine
-188766	masculine
-188775	masculine
-188777	masculine
-188779	masculine
-masculine
-188790	masculine
-188796	masculine
-188804	neuter
-188809	neuter
+188389	masculine
+188394	masculine
+188398	masculine
+188405	masculine
+188411	masculine
+188413	masculine
+188418	masculine
+188423	masculine
 neuter
-188813	feminine
-188817	masculine
-188826	masculine
-188829	masculine
-188834	masculine
+188429	neuter
+188435	masculine
+188444	neuter
+188454	masculine
+188456	neuter
+188461	masculine
+masculine
+masculine
+188465	masculine
+188471	masculine
+188474	masculine
+188476	neuter
+188481	masculine
+188493	masculine
+feminine
+188517	masculine
+188519	masculine
+188523	neuter
+188527	masculine
+188531	masculine
+188537	neuter
+188540	masculine
+188543	masculine
+188549	masculine
+188554	masculine
+188566	masculine
+188578	neuter
+188580	feminine
+188585	masculine
+188590	masculine
+188595	masculine
+masculine
+188600	masculine
+188604	masculine
+188607	neuter
+neuter
+188612	neuter
+neuter
+188615	masculine
+188618	masculine
+188622	neuter
+188626	neuter
+188633	masculine
+188638	masculine
+188654	masculine
+188661	masculine
+188673	neuter
+188681	masculine
+188683	masculine
+masculine
+feminine
+188692	masculine
+188696	masculine
+188700	masculine
+188707	masculine
+188712	masculine
+188717	masculine
+188720	masculine
+188722	masculine
+188730	neuter
+188732	neuter
+188735	masculine
+188740	masculine
+188749	masculine
+188751	masculine
+masculine
+188755	masculine
+neuter
+188761	masculine
+188763	masculine
+188765	masculine
+188769	masculine
+188774	feminine
+188776	feminine
+188789	masculine
+188794	masculine
+188802	neuter
+188804	masculine
+188808	neuter
+188815	masculine
+188820	masculine
+188827	masculine
+masculine
+188831	masculine
 188838	masculine
-188846	feminine
-188851	neuter
-188869	neuter
-188873	masculine
-188877	masculine
+188840	masculine
+188843	masculine
+188847	neuter
+188863	neuter
+188871	masculine
+188875	masculine
+188880	masculine
+188883	masculine
 masculine
-188882	masculine
-masculine
-188890	masculine
-188894	neuter
-188897	masculine
-188902	masculine
-188906	masculine
-188912	masculine
-188921	neuter
+188887	masculine
+188896	masculine
+188914	masculine
+188918	masculine
 188932	masculine
-188936	masculine
-188948	masculine
-188957	masculine
-188964	masculine
-188970	masculine
-188978	neuter
-188980	neuter
-188984	masculine
+188941	feminine
+188943	feminine
+neuter
+188946	masculine
+188949	feminine
+neuter
+188953	masculine
+188962	masculine
+188965	masculine
+188971	masculine
+188977	neuter
+188982	neuter
 188987	masculine
-188990	neuter
-188996	masculine
-188998	masculine
-189001	masculine
-189005	masculine
-189011	masculine
-189013	masculine
-189018	masculine
-189030	masculine
-189050	masculine
-189057	masculine
-189064	masculine
-189067	masculine
-189070	neuter
-189072	masculine
-189075	masculine
-189077	masculine
+188990	masculine
+189006	neuter
+neuter
+189010	masculine
+189016	masculine
+189024	masculine
+masculine
+189033	neuter
+189037	neuter
+189043	masculine
+189046	masculine
+189051	masculine
+189055	masculine
+189076	masculine
 masculine
 189080	masculine
-189082	masculine
-masculine
-189088	feminine
+189086	masculine
+189089	masculine
 189091	masculine
 189094	masculine
-masculine
-189114	masculine
+189102	masculine
+189105	masculine
+189107	neuter
+189109	masculine
+189115	masculine
 189118	masculine
-189121	masculine
-189124	masculine
-189135	masculine
-189137	neuter
-189143	masculine
-189149	masculine
-189154	masculine
-189159	masculine
-189165	masculine
+189121	neuter
+189126	masculine
 masculine
-189178	neuter
+189132	masculine
+189144	masculine
+189158	masculine
+189161	masculine
+masculine
+189173	feminine
+feminine
+189176	masculine
+189178	masculine
 189183	masculine
-189185	masculine
-189188	masculine
-189194	masculine
-189196	masculine
-189202	masculine
-189209	masculine
-189211	masculine
+189186	neuter
+189192	masculine
+189195	masculine
+neuter
+189201	neuter
+189204	masculine
+189215	masculine
+189223	masculine
+189227	masculine
+189230	masculine
+189253	masculine
+189256	masculine
+189267	masculine
 masculine
-189218	feminine
-189221	feminine
-189236	neuter
-189240	masculine
-189246	masculine
-189250	masculine
-189252	masculine
-189265	masculine
-masculine
+189270	masculine
 189272	masculine
-189275	masculine
-189280	masculine
+189276	masculine
 masculine
-189288	masculine
-189290	masculine
-189298	masculine
+189284	masculine
+masculine
+189290	feminine
+masculine
+189293	masculine
+189297	masculine
 189308	masculine
-189310	masculine
-189321	neuter
-189323	neuter
-neuter
-189328	masculine
-189330	masculine
-189333	masculine
-189338	masculine
+189327	masculine
+189331	masculine
+189340	masculine
 189345	masculine
-189354	masculine
-189371	masculine
-189374	masculine
+189352	masculine
+masculine
+189361	neuter
+189366	masculine
+189370	masculine
 189377	masculine
+189379	neuter
+masculine
 189385	masculine
-189391	masculine
-189399	masculine
-189407	masculine
+189394	masculine
+189396	masculine
+189398	masculine
 masculine
-189412	masculine
-189417	masculine
-189421	masculine
-masculine
-189427	masculine
-189429	masculine
+189409	masculine
+189415	masculine
+189423	neuter
+189428	neuter
+neuter
+189432	feminine
 189436	masculine
-189441	masculine
-189454	masculine
+189445	masculine
+189448	masculine
+189453	masculine
 189457	masculine
+189463	feminine
+189468	neuter
+189485	neuter
+189489	masculine
+189492	masculine
 masculine
-189460	masculine
-189462	masculine
-189464	neuter
-189467	masculine
-189472	masculine
-189477	masculine
+189497	masculine
 masculine
-189481	masculine
-189502	neuter
-189508	masculine
-masculine
+189505	masculine
+189509	neuter
 189512	masculine
-189518	neuter
+189517	masculine
 189521	masculine
-189527	masculine
-189530	masculine
-neuter
-189534	masculine
-masculine
-189542	masculine
-189545	masculine
-189549	masculine
-189555	masculine
-189558	masculine
-masculine
-189565	masculine
-189567	masculine
-189570	feminine
-189573	masculine
-masculine
-masculine
-masculine
-189580	masculine
-189583	masculine
-neuter
-189592	neuter
-189601	masculine
-189605	masculine
-neuter
-189632	masculine
-189635	feminine
-masculine
+189526	masculine
+189535	neuter
+189546	masculine
+189550	masculine
+189561	masculine
+189568	masculine
+189575	masculine
+189581	masculine
+189589	neuter
+189591	neuter
+189595	masculine
+189598	masculine
+189601	neuter
+189607	masculine
+189609	masculine
+189612	masculine
+189616	masculine
+189621	masculine
+189623	masculine
+189628	masculine
 189640	masculine
-189644	masculine
-189670	neuter
-189674	masculine
+189659	masculine
+189666	masculine
+189673	masculine
+189676	masculine
+189679	neuter
+189681	masculine
+189684	masculine
+189686	masculine
+masculine
+189689	masculine
 189691	masculine
-189693	masculine
-189701	masculine
-189713	masculine
 masculine
+189697	feminine
+189700	masculine
+189703	masculine
 masculine
-feminine
-189721	masculine
-189724	masculine
-189744	feminine
-189749	feminine
-feminine
-feminine
-189756	masculine
-189767	masculine
-189771	masculine
-189773	masculine
-neuter
-189782	masculine
-189785	masculine
-189788	masculine
-189791	masculine
+189722	masculine
+189726	masculine
+189729	masculine
+189732	masculine
+189743	masculine
+189745	neuter
+189751	masculine
+189757	masculine
+189761	masculine
+189766	masculine
+189772	masculine
 masculine
-masculine
+189785	neuter
+189790	masculine
+189792	masculine
 189795	masculine
-189812	masculine
+189800	masculine
+189802	masculine
+189808	masculine
 189814	masculine
+189816	masculine
 masculine
-189820	masculine
-189823	masculine
+189823	feminine
+189826	feminine
+189841	neuter
+189845	masculine
+189851	masculine
+189855	masculine
+189857	masculine
+189869	masculine
 masculine
-189827	masculine
-189832	masculine
-189842	masculine
-189853	neuter
+189876	masculine
 189879	masculine
-189886	neuter
-189924	masculine
-189929	masculine
-189931	masculine
-189938	masculine
-189946	masculine
-189955	masculine
-189966	masculine
-189969	masculine
-189972	masculine
-189974	masculine
-189996	masculine
-190012	masculine
+189884	masculine
 masculine
-190018	masculine
-190026	masculine
-masculine
-190031	neuter
-190033	masculine
-190043	masculine
-190045	masculine
-190052	masculine
-190055	masculine
-190059	neuter
-190061	masculine
-190070	masculine
+189891	masculine
+189893	masculine
+189901	masculine
+189911	masculine
+189913	masculine
+189923	neuter
+189925	neuter
 neuter
-190073	neuter
-190079	neuter
-190082	masculine
-190094	masculine
-190102	masculine
+189930	masculine
+189932	masculine
+189935	masculine
+189940	masculine
+189947	masculine
+189956	masculine
+189973	masculine
+189976	masculine
+189979	masculine
+189987	masculine
+189993	masculine
+190001	masculine
+190009	masculine
 masculine
-190105	masculine
-190116	masculine
-190145	neuter
-190149	neuter
-190154	masculine
-190158	masculine
-190181	neuter
-190190	neuter
-190201	masculine
+190014	masculine
+190019	masculine
+190023	masculine
 masculine
+190029	masculine
+190031	masculine
+190038	masculine
+190043	masculine
+190056	masculine
+190059	masculine
+masculine
+190062	masculine
+190064	masculine
+190066	neuter
+190069	masculine
+190074	masculine
+190079	masculine
+masculine
+190083	masculine
+190104	neuter
+190110	masculine
+masculine
+190114	masculine
+190120	neuter
+190123	masculine
+190129	masculine
+190132	masculine
+neuter
+190136	masculine
+masculine
+190144	masculine
+190147	masculine
+190151	masculine
+190157	masculine
+190160	masculine
+masculine
+190167	masculine
+190169	masculine
+190172	feminine
+190175	masculine
+masculine
+masculine
+masculine
+190181	masculine
+190184	masculine
+neuter
+190193	neuter
+190202	masculine
 190206	masculine
-190221	masculine
-190225	masculine
-190265	masculine
-190269	masculine
-190315	neuter
-190330	masculine
-190346	feminine
+neuter
+190232	masculine
+190235	feminine
+masculine
+190240	masculine
+190244	masculine
+190269	neuter
+190273	masculine
+190290	masculine
+190292	masculine
+190300	masculine
+190312	masculine
+masculine
+masculine
+feminine
+190320	masculine
+190323	masculine
+190343	feminine
+190348	feminine
 feminine
 feminine
-190351	feminine
-masculine
-190360	feminine
-190384	masculine
-masculine
+190355	masculine
+190365	masculine
+190369	masculine
+190371	masculine
+neuter
+190380	masculine
+190383	masculine
+190386	masculine
 190389	masculine
-190399	masculine
-190403	masculine
-190405	masculine
-190407	masculine
+masculine
+masculine
+190393	masculine
+190408	masculine
+190410	masculine
+masculine
+190416	masculine
 190419	masculine
+masculine
 190423	masculine
-190425	masculine
-190431	masculine
-190434	masculine
-190439	neuter
-190442	neuter
-190452	masculine
-190455	masculine
-190459	masculine
-190462	masculine
-190468	masculine
-190473	masculine
-190493	neuter
-190496	feminine
+190428	masculine
+190438	masculine
+190449	neuter
+190475	masculine
+190482	neuter
+190520	masculine
 190525	masculine
 190527	masculine
-190531	masculine
-190537	masculine
-190547	masculine
-190549	masculine
-190576	neuter
-190580	neuter
-190583	masculine
-190616	feminine
-190618	feminine
-190636	feminine
+190534	masculine
+190542	masculine
+190551	masculine
+190562	masculine
+190565	masculine
+190568	masculine
+190570	masculine
+190591	masculine
+190607	masculine
+masculine
+190613	masculine
+190621	masculine
+masculine
+190626	neuter
+190628	masculine
+190638	masculine
+190640	masculine
+190647	masculine
+190650	masculine
+190654	neuter
+190656	masculine
 190665	masculine
-190687	neuter
-190781	masculine
-190820	masculine
-190866	masculine
-190878	masculine
-190909	masculine
-190921	masculine
-190936	masculine
-190939	masculine
-190942	feminine
+neuter
+190668	neuter
+190674	neuter
+190677	masculine
+190689	masculine
+190697	masculine
+masculine
+190700	masculine
+190711	masculine
+190739	neuter
+190743	neuter
+190748	masculine
+190752	masculine
+190775	neuter
+190784	neuter
+190793	masculine
+masculine
+190798	masculine
+190813	masculine
+190817	masculine
+190855	masculine
+190859	masculine
+190904	neuter
+190918	masculine
+190932	feminine
+feminine
+feminine
+190937	feminine
+masculine
 190946	feminine
-190949	feminine
-190961	neuter
-190982	masculine
-190985	feminine
-190988	feminine
-190993	masculine
-191000	masculine
-191007	masculine
-191010	masculine
-191014	masculine
+190969	masculine
 masculine
-191020	masculine
-191027	neuter
-191029	masculine
-191054	masculine
-191063	feminine
-191069	feminine
-191075	masculine
-191097	feminine
-feminine
-191109	feminine
-191112	feminine
-191115	feminine
-191120	neuter
-191124	neuter
-191131	masculine
-191135	feminine
-191140	feminine
-191173	feminine
-191184	masculine
-191187	feminine
-191189	feminine
-191191	feminine
-191205	neuter
-191211	feminine
-191213	masculine
-masculine
-191217	masculine
-191219	masculine
-191242	masculine
-masculine
-191249	masculine
-191251	neuter
-191254	masculine
-191258	masculine
-191261	masculine
+190974	masculine
+190984	masculine
+190988	masculine
+190990	masculine
+190992	masculine
+191001	masculine
+191004	masculine
+191006	masculine
+191012	masculine
+191015	masculine
+191020	neuter
+191023	neuter
+191033	masculine
+191036	masculine
+191039	masculine
+191042	masculine
+191048	masculine
+191053	masculine
+191073	neuter
+191076	feminine
+191105	masculine
+191107	masculine
+191111	masculine
+191117	masculine
+191127	masculine
+191129	masculine
+191154	neuter
+191158	neuter
+191161	masculine
+191194	feminine
+191196	feminine
+191213	feminine
+191241	masculine
 191263	neuter
+191352	masculine
+191390	masculine
+191435	masculine
+191447	masculine
+191477	masculine
+191489	masculine
+191504	masculine
+191507	masculine
+191510	feminine
+191514	feminine
+191517	feminine
+191528	neuter
+191547	masculine
+191549	feminine
+191552	feminine
+191557	masculine
+191563	masculine
+191570	masculine
+191573	masculine
+191576	masculine
 masculine
-191271	masculine
-191274	masculine
-191286	masculine
-masculine
-191289	feminine
-191306	masculine
-191309	masculine
-191312	masculine
-191316	masculine
-masculine
-191326	masculine
-191336	masculine
-191346	masculine
-191351	masculine
-191360	masculine
-191370	masculine
-191380	masculine
-191385	masculine
-191387	masculine
-191394	masculine
-191399	masculine
-191404	masculine
-masculine
-191414	masculine
-191419	masculine
-191443	masculine
-191454	masculine
-191460	masculine
-191466	masculine
-191468	neuter
-191514	masculine
-191542	masculine
-191548	feminine
-191566	masculine
-191572	masculine
-191589	masculine
+191582	masculine
+191589	neuter
 191591	masculine
-masculine
-191596	masculine
-191601	masculine
-191608	masculine
-191613	masculine
-191620	masculine
-191627	masculine
-191630	masculine
-191634	neuter
-191651	masculine
-191657	neuter
-191679	masculine
-191686	masculine
-191702	masculine
-masculine
-191707	masculine
-191709	masculine
-191721	masculine
-masculine
-191726	neuter
-191737	masculine
-191782	masculine
-masculine
-191789	masculine
-191801	masculine
-191808	masculine
-191816	masculine
+191615	masculine
+191623	feminine
+191628	feminine
+191634	masculine
+191655	feminine
 feminine
+191667	feminine
+191670	feminine
+191673	feminine
+191678	neuter
+191682	neuter
+191688	masculine
+191692	feminine
+191697	feminine
+191728	feminine
+191738	masculine
+191741	feminine
 feminine
-191826	masculine
+191744	feminine
+191758	neuter
+191764	feminine
 masculine
 masculine
-191832	masculine
-191838	neuter
-191841	neuter
-191844	masculine
+191769	masculine
+191771	masculine
+191792	masculine
 masculine
-191849	masculine
-191851	neuter
+191799	masculine
+191801	neuter
+191803	masculine
+191807	masculine
+191810	masculine
+191812	neuter
 masculine
-191869	feminine
-191871	feminine
-191893	neuter
-191895	feminine
-191899	masculine
-191903	masculine
-191908	neuter
+191820	masculine
+191823	masculine
+191835	masculine
+masculine
+191838	feminine
+191855	masculine
+191858	masculine
+191861	masculine
+191865	masculine
+masculine
+191875	masculine
+191883	masculine
+191893	masculine
+191898	masculine
+191907	masculine
 191915	masculine
+191925	masculine
+191930	masculine
+191932	masculine
+191939	masculine
+191944	masculine
+191949	masculine
 masculine
-191919	masculine
-191924	feminine
-191926	masculine
-191935	masculine
-191943	masculine
-191954	masculine
-191974	masculine
-191980	feminine
-191982	feminine
-191989	masculine
-masculine
-192000	masculine
+191959	masculine
+191964	masculine
+191987	masculine
+191998	masculine
 192004	masculine
-192008	masculine
-masculine
-192011	masculine
-192013	masculine
-192018	masculine
-192040	neuter
-192042	masculine
-192048	masculine
-192051	masculine
-masculine
-192056	masculine
+192010	masculine
+192012	neuter
 192058	masculine
-192062	masculine
-192064	masculine
-192066	masculine
-192068	masculine
-192070	masculine
-192073	masculine
-192080	neuter
-192086	masculine
-neuter
-192089	masculine
-192091	masculine
+192085	masculine
+192091	feminine
+192108	masculine
+192114	masculine
+192131	masculine
+192133	masculine
 masculine
-192096	masculine
-neuter
-192106	neuter
-192124	neuter
-192127	neuter
-192134	masculine
-192142	masculine
+192138	masculine
+192143	masculine
+192150	masculine
+192155	masculine
+192162	masculine
 192169	masculine
-192173	masculine
-192176	masculine
-192183	masculine
-192191	masculine
-192197	masculine
-192218	neuter
-neuter
-192226	masculine
+192172	masculine
+192176	neuter
+192193	masculine
+192199	neuter
+192220	masculine
+192227	masculine
+192243	masculine
 masculine
-192231	masculine
-192245	masculine
-192247	feminine
-192258	masculine
-neuter
+192248	masculine
+192250	masculine
+192262	masculine
+masculine
 192267	neuter
-192288	masculine
+192278	masculine
+192322	masculine
 masculine
-192309	neuter
-192312	feminine
-192315	masculine
-192317	masculine
-192322	neuter
-192326	neuter
-192333	masculine
-192336	masculine
-masculine
-192343	masculine
-masculine
+192329	masculine
+192340	masculine
 192346	masculine
-192351	masculine
-192359	masculine
-192363	neuter
-192382	masculine
+192354	masculine
+feminine
+feminine
+192363	masculine
+masculine
+masculine
+192369	masculine
+192375	neuter
+192378	neuter
+192381	masculine
+masculine
 192386	masculine
-masculine
-192408	masculine
-masculine
-192411	masculine
 neuter
 masculine
-masculine
-192416	masculine
-192419	masculine
-192422	masculine
-192426	masculine
-192429	masculine
-192433	masculine
-masculine
+192405	feminine
+192407	feminine
+192428	neuter
+192430	feminine
+192434	masculine
 192438	masculine
-192445	masculine
-192451	masculine
-192457	masculine
-192466	masculine
+192443	neuter
+192450	masculine
+masculine
+192454	masculine
+192459	feminine
+192461	masculine
+192470	masculine
 192477	masculine
-feminine
-192524	masculine
+192488	masculine
+192506	masculine
+192511	feminine
+192513	feminine
+192519	masculine
+masculine
+192530	masculine
+192534	masculine
+192538	masculine
+masculine
 192541	masculine
+192543	masculine
+192548	masculine
+192568	neuter
+192570	masculine
+192576	masculine
+192579	masculine
 masculine
-192546	masculine
-192561	masculine
-192568	masculine
-192582	feminine
+192584	masculine
 192586	masculine
+192589	masculine
+192591	masculine
 192593	masculine
+192595	masculine
+192597	masculine
+192600	masculine
+192605	neuter
+192611	masculine
 neuter
-192596	masculine
-192599	masculine
-192612	masculine
-192615	masculine
-neuter
-192618	neuter
+192614	masculine
+192616	masculine
 masculine
-192628	masculine
-192634	masculine
-192647	masculine
-192661	masculine
-192666	masculine
-192676	masculine
-192679	neuter
-192687	neuter
-192690	masculine
+192620	masculine
+neuter
+192630	neuter
+192647	neuter
+192650	neuter
+192657	masculine
+192665	masculine
 192692	masculine
-192694	masculine
-masculine
+192696	masculine
+192698	masculine
 192705	masculine
-masculine
-192709	masculine
 192713	masculine
-masculine
-192716	masculine
-192726	masculine
-192728	feminine
-192734	masculine
-192738	masculine
-192741	neuter
-192744	masculine
-192749	masculine
-feminine
-192754	masculine
-192769	masculine
-masculine
-192782	masculine
-192797	masculine
-192805	masculine
-192807	masculine
-192813	masculine
-192818	feminine
-192820	feminine
+192719	masculine
+192739	neuter
 neuter
+192747	masculine
+masculine
+192752	masculine
+192766	masculine
+feminine
+192778	masculine
+neuter
+192787	neuter
+192808	masculine
+masculine
+192828	neuter
+192831	feminine
 192834	masculine
 192836	masculine
+192841	neuter
+192845	neuter
+192851	masculine
+192854	masculine
 masculine
-192844	masculine
-192846	masculine
-masculine
-192850	masculine
-192857	masculine
-192859	masculine
 192861	masculine
-192865	neuter
-192870	masculine
-192876	masculine
-192880	masculine
-192887	neuter
-192893	neuter
-192895	masculine
-192913	neuter
-192917	masculine
-192926	masculine
 masculine
-192934	neuter
-192942	masculine
-192950	masculine
+192864	masculine
+192869	masculine
+192877	masculine
+192879	neuter
+192896	masculine
+192900	masculine
+masculine
+192922	masculine
+masculine
+192925	masculine
+neuter
+masculine
+masculine
+192930	masculine
+192933	masculine
+192936	masculine
+192940	masculine
+192943	masculine
+192947	masculine
+masculine
 192952	masculine
-192966	masculine
-192971	neuter
-192975	masculine
-192979	neuter
-192985	masculine
-193001	masculine
-193008	masculine
-masculine
-193012	masculine
-193014	masculine
-193016	masculine
-193019	masculine
-193026	masculine
-masculine
-193033	masculine
+192959	masculine
+192965	masculine
+192971	masculine
+192980	masculine
+192990	masculine
+feminine
 193035	masculine
-193037	masculine
-193044	feminine
-193046	neuter
-193051	neuter
+193051	masculine
+masculine
+193055	masculine
 193070	masculine
-193074	masculine
-193081	masculine
-193086	masculine
-193088	neuter
-193092	masculine
-masculine
+193077	masculine
+193091	feminine
 193095	masculine
-193097	masculine
-193103	masculine
+193101	masculine
+neuter
+193104	masculine
 193107	masculine
-193109	masculine
-193113	neuter
-193117	masculine
-193119	masculine
+193120	masculine
+193123	masculine
 neuter
-193125	masculine
-193127	masculine
-193135	masculine
-193149	masculine
-193153	masculine
-193161	masculine
-193170	masculine
+193126	neuter
 masculine
+193136	masculine
+193142	masculine
+193155	masculine
+193169	masculine
 193174	masculine
-193176	masculine
-masculine
 193184	masculine
-193189	masculine
-193192	masculine
+193186	neuter
+193194	neuter
+193197	masculine
+193199	masculine
+193201	masculine
 masculine
-193198	masculine
-193211	masculine
-193213	masculine
-193217	masculine
+193212	masculine
+masculine
+193216	masculine
+193219	masculine
+masculine
 193222	masculine
-193225	masculine
-193230	neuter
-masculine
-masculine
-193239	masculine
-193242	masculine
-193244	neuter
-193248	masculine
-193252	masculine
+193232	masculine
+193234	feminine
+193240	masculine
+193244	masculine
+193247	neuter
+193249	masculine
 193254	masculine
-193258	masculine
-193260	masculine
-193264	masculine
+feminine
+193259	masculine
+193274	masculine
 masculine
-193267	masculine
-193269	masculine
-193279	feminine
-masculine
-193291	masculine
-193294	masculine
-193297	masculine
-193299	masculine
+193286	masculine
 193301	masculine
-193305	masculine
-masculine
+193309	masculine
 193311	masculine
-193314	masculine
-193325	masculine
-193332	masculine
-193334	masculine
-193356	masculine
-193367	masculine
-193370	masculine
-193374	neuter
-193388	masculine
-193392	masculine
+193317	masculine
+193321	feminine
+193323	feminine
+neuter
+193337	masculine
+193339	masculine
 masculine
-193396	neuter
-193409	masculine
+193347	masculine
+193349	masculine
 masculine
-193413	masculine
-193415	masculine
-193419	masculine
-193423	masculine
+193353	masculine
+193360	masculine
+193362	masculine
+193364	masculine
+193367	neuter
+193372	masculine
+193378	masculine
+193382	masculine
+193388	neuter
+193394	neuter
+193396	masculine
+193414	neuter
+193418	masculine
+193426	masculine
 masculine
-masculine
-193427	neuter
-193429	masculine
-masculine
-193432	masculine
+193433	neuter
 193441	masculine
-masculine
-masculine
-193447	masculine
-193476	masculine
-193479	masculine
-193491	masculine
-193497	masculine
+193449	masculine
+193451	masculine
+193465	masculine
+193470	neuter
+193474	masculine
+193478	neuter
+193484	masculine
 193499	masculine
-193503	neuter
 193506	masculine
+masculine
+masculine
 193510	masculine
-193519	feminine
-feminine
-193525	feminine
+193512	masculine
+193514	masculine
+193521	masculine
 masculine
-193545	feminine
-193547	feminine
-193554	neuter
+193528	masculine
 masculine
-193560	masculine
-masculine
-193572	masculine
-193576	neuter
+193531	masculine
+193538	feminine
+neuter
+193544	neuter
+193563	masculine
+193567	masculine
+193574	masculine
+193579	masculine
 193581	neuter
-193587	neuter
-193592	masculine
-193612	feminine
-193622	masculine
+193585	masculine
 masculine
-193630	masculine
+193588	masculine
+193590	masculine
+193596	masculine
+193600	masculine
+193602	masculine
+193606	neuter
+193610	masculine
+193612	masculine
+neuter
+193618	masculine
+masculine
+193627	masculine
+193641	masculine
 193645	masculine
-193648	masculine
-193659	feminine
+193653	masculine
 193662	masculine
-193666	feminine
-193672	masculine
-193674	masculine
-193677	masculine
-193683	feminine
+masculine
+193666	masculine
+193668	masculine
+masculine
+193676	masculine
+193681	masculine
+193684	masculine
+masculine
+193690	masculine
 193702	masculine
-193705	masculine
-193720	neuter
-193728	masculine
+193704	masculine
+193708	masculine
+193713	masculine
+193716	masculine
+193721	neuter
+masculine
+masculine
+193730	masculine
 193733	masculine
-193746	masculine
-193765	neuter
-feminine
+neuter
+193738	masculine
+193742	masculine
+193744	masculine
+193748	masculine
+193750	masculine
+193754	masculine
+masculine
+193757	masculine
+193759	masculine
+193769	feminine
+masculine
 193781	masculine
-193787	feminine
-neuter
+193784	masculine
+193787	masculine
+193789	masculine
+193791	masculine
+193795	masculine
+masculine
 193801	masculine
-193803	feminine
-masculine
-193806	feminine
-193808	feminine
+193803	masculine
 193814	masculine
-193817	feminine
-193835	feminine
-193837	feminine
-193841	masculine
-193847	neuter
-193850	masculine
-193853	neuter
-193855	masculine
-193859	masculine
-193865	feminine
+193820	masculine
+193822	masculine
+193842	masculine
+193853	masculine
+193856	masculine
+193860	neuter
+193874	masculine
 masculine
-193868	masculine
-193870	masculine
-193875	neuter
-193882	masculine
-193885	masculine
-193887	masculine
-neuter
-193912	masculine
-193915	masculine
 masculine
-193918	masculine
-193922	masculine
-193925	masculine
+193879	neuter
+193890	masculine
 masculine
-193935	masculine
-193940	masculine
+193894	masculine
+193896	masculine
+193900	masculine
+193904	masculine
 masculine
-193952	masculine
 masculine
-193956	neuter
+193908	neuter
+193910	masculine
+masculine
+193913	masculine
+193920	masculine
+masculine
+masculine
+193926	masculine
+193955	masculine
+193958	masculine
+193970	masculine
+193976	masculine
+193978	masculine
+193982	neuter
+193985	masculine
 193989	masculine
-193994	masculine
-194001	feminine
-194007	masculine
-194010	masculine
-194031	masculine
-194039	masculine
-194047	masculine
-194053	masculine
-194058	masculine
-194061	masculine
+193996	feminine
+feminine
+194002	feminine
 masculine
-194071	neuter
+194021	feminine
+194023	feminine
+194028	neuter
 masculine
-194084	masculine
+194034	masculine
+masculine
+194046	masculine
+194050	neuter
+194055	neuter
+194060	neuter
+194065	masculine
+194084	feminine
 194094	masculine
 masculine
-194100	masculine
-194106	neuter
-194109	feminine
-194123	masculine
-194125	masculine
-194135	masculine
-194146	masculine
-194156	masculine
-194161	masculine
-194177	masculine
-194188	masculine
-194193	masculine
-194196	masculine
-194207	masculine
-masculine
-194211	masculine
-194213	masculine
+194102	masculine
+194117	masculine
+194120	masculine
+194131	feminine
+194134	masculine
+194137	feminine
+194142	masculine
+194144	masculine
+194147	masculine
+194153	feminine
+194172	masculine
+194175	masculine
+194190	neuter
+194198	masculine
+194203	masculine
+194215	masculine
+194230	neuter
+feminine
+194246	masculine
+194252	feminine
 neuter
-194225	masculine
-194228	masculine
-194231	masculine
-194233	masculine
-194235	masculine
-194249	masculine
-194251	masculine
-194262	masculine
-194265	feminine
+194266	masculine
+194268	feminine
 masculine
-194272	masculine
-194282	masculine
-194285	neuter
-194295	masculine
-194302	masculine
-194311	neuter
+194271	feminine
+194273	feminine
+194279	masculine
+194282	feminine
+194297	feminine
+194299	feminine
+194303	masculine
+194309	neuter
+194312	masculine
+194315	neuter
+194317	masculine
+194321	masculine
+194326	feminine
 masculine
-194317	neuter
-194323	masculine
-194326	masculine
+194329	masculine
+194331	masculine
+194335	neuter
+194342	masculine
+194344	masculine
+194346	masculine
+neuter
+194370	masculine
+194373	masculine
 masculine
-194330	neuter
-194332	neuter
-194343	masculine
-194348	masculine
-194356	masculine
-194359	masculine
-194373	feminine
-194375	masculine
-194377	masculine
+194376	masculine
 194380	masculine
-194382	feminine
+194383	masculine
 masculine
-194387	feminine
-194391	masculine
-194393	feminine
-194395	feminine
-194405	masculine
-194407	masculine
-194418	masculine
-194431	masculine
-194435	masculine
-194446	masculine
-194454	masculine
-194457	masculine
-194459	masculine
-194464	masculine
-194472	feminine
-194482	masculine
-194491	masculine
-194495	masculine
-194497	masculine
+194393	masculine
+194398	masculine
 masculine
-194500	masculine
+194410	masculine
 masculine
+194413	neuter
+194445	masculine
+194450	masculine
+194456	feminine
+194462	masculine
+194465	masculine
+194486	masculine
+194494	masculine
+194502	masculine
+194508	masculine
+194513	masculine
+194516	masculine
 masculine
-194510	masculine
+194526	neuter
 masculine
-194517	masculine
-194522	masculine
-194529	masculine
+194538	masculine
+194548	masculine
 masculine
+194554	masculine
+194560	neuter
+194563	feminine
+194576	masculine
+194578	masculine
+194588	masculine
+194599	masculine
+194609	masculine
+194614	masculine
+194629	masculine
+194640	masculine
+194645	masculine
+194648	masculine
+194659	masculine
 masculine
-194533	masculine
-194536	masculine
-194539	masculine
-neuter
-194545	masculine
-194553	neuter
-194555	masculine
-194558	masculine
-194560	masculine
-194564	neuter
-194570	masculine
-194586	masculine
-194596	masculine
-194606	masculine
-194610	masculine
-194613	masculine
-194617	masculine
-194619	masculine
-194628	masculine
-194636	masculine
-194642	neuter
-194652	masculine
-194654	masculine
-194659	neuter
-masculine
+194663	masculine
 194665	masculine
-194668	feminine
-194674	masculine
-masculine
-194684	masculine
-194686	neuter
 neuter
-194693	neuter
-194695	neuter
+194677	masculine
+194680	masculine
+194683	masculine
+194685	masculine
+194687	masculine
+194701	masculine
+194703	masculine
+194714	masculine
 194717	feminine
-194723	feminine
-194743	masculine
 masculine
+194724	masculine
+194734	masculine
+neuter
+194744	masculine
 194751	masculine
-194755	masculine
+194760	neuter
+masculine
+194766	neuter
 194772	masculine
-194774	masculine
-194779	masculine
-194784	masculine
-194788	masculine
+194775	masculine
+masculine
+neuter
+194779	neuter
 194790	masculine
-194794	masculine
-194812	masculine
-194815	masculine
-194820	masculine
-194836	masculine
-194839	masculine
-194843	masculine
-194846	masculine
+194795	masculine
+194803	masculine
+194806	masculine
+194820	feminine
+194822	masculine
+194824	masculine
+194827	masculine
+194829	feminine
+masculine
+194834	feminine
+194838	masculine
+feminine
+194841	feminine
 194850	masculine
 194852	masculine
-194864	masculine
-194882	masculine
-194889	masculine
-194903	feminine
-194913	masculine
-194934	masculine
-194957	masculine
-194967	feminine
-194969	masculine
-194974	masculine
-194976	neuter
-194979	neuter
-194984	masculine
-194988	neuter
-194990	masculine
-194993	feminine
-195015	masculine
-195026	masculine
-195029	masculine
-195056	feminine
+194863	masculine
+194876	masculine
+194880	masculine
+194890	masculine
+194898	masculine
+194901	masculine
+194903	masculine
+194908	masculine
+194914	feminine
+194924	masculine
+194933	masculine
+194937	masculine
+194939	masculine
 masculine
-195063	masculine
+194942	masculine
+masculine
+masculine
+194952	masculine
+masculine
+194959	masculine
+194963	masculine
+194970	masculine
+masculine
+masculine
+194974	masculine
+194977	masculine
+194980	masculine
+neuter
+194985	masculine
+194993	neuter
+194995	masculine
+194998	masculine
+195000	masculine
+195004	neuter
+195010	masculine
+195025	masculine
+195035	masculine
+195045	masculine
+195049	masculine
+195052	masculine
+195056	masculine
+195058	masculine
 195066	masculine
-195069	masculine
-195076	masculine
-195082	masculine
-195085	neuter
-195089	feminine
-195093	masculine
-195097	masculine
+195073	masculine
+195079	neuter
+195089	masculine
+195091	masculine
+195095	neuter
 masculine
 195100	masculine
-195117	masculine
+195103	feminine
+195109	masculine
+masculine
 195119	masculine
-195122	neuter
-195126	masculine
-195159	masculine
+195121	neuter
 neuter
-195170	neuter
-195172	masculine
-195178	masculine
+195127	neuter
+195129	neuter
+195150	feminine
+195156	feminine
+195175	masculine
 masculine
-195184	masculine
-195186	masculine
-195188	masculine
-195190	feminine
-195196	masculine
-195199	masculine
-195202	neuter
-195210	neuter
-195212	masculine
-195215	masculine
-masculine
-195225	masculine
-195227	masculine
-195241	masculine
-195246	feminine
-195255	neuter
-195257	masculine
-195271	masculine
-neuter
-195274	neuter
-195294	masculine
-195297	masculine
-195308	masculine
-195310	masculine
+195183	masculine
+195187	masculine
+195204	masculine
+195206	masculine
+195211	masculine
+195216	masculine
+195220	masculine
+195222	masculine
+195226	masculine
+195243	masculine
+195246	masculine
+195251	masculine
+195267	masculine
+195270	masculine
+195274	masculine
+195277	masculine
+195281	masculine
+195283	masculine
+195295	masculine
 195313	masculine
-195318	masculine
-195327	masculine
-195331	masculine
-195342	masculine
-masculine
-195346	masculine
-195349	masculine
-masculine
-195354	feminine
-195364	feminine
-195383	neuter
+195320	masculine
+195334	feminine
+195344	masculine
+195365	masculine
 195388	masculine
-195393	masculine
-195399	neuter
-195420	neuter
-195422	masculine
-195431	feminine
-195435	masculine
-195452	masculine
-195455	masculine
+195398	feminine
+195400	masculine
+195405	masculine
+195407	neuter
+195410	neuter
+195415	masculine
+195418	neuter
+195420	masculine
+195423	feminine
+195445	masculine
+195456	masculine
+195459	masculine
+195486	feminine
 masculine
-195460	masculine
-195463	masculine
-195478	masculine
-masculine
-195481	masculine
-195489	masculine
 195491	masculine
-masculine
-195503	masculine
-195508	masculine
+195494	masculine
+195497	masculine
+195504	masculine
+195510	masculine
+195513	neuter
+195517	feminine
+195521	masculine
 195525	masculine
-195527	masculine
-195542	masculine
-195544	neuter
+masculine
+195528	masculine
+195545	masculine
 195547	masculine
+195550	neuter
 195554	masculine
-195561	neuter
-195572	neuter
-195577	neuter
-195586	masculine
-195602	feminine
-195606	neuter
-195617	neuter
-195619	masculine
-195624	neuter
-195633	masculine
-195646	masculine
-195648	neuter
-195657	masculine
-195665	masculine
-195684	masculine
-195691	masculine
-195701	masculine
-195704	masculine
-195715	masculine
+195587	masculine
+neuter
+195597	neuter
+195599	masculine
+195605	masculine
+masculine
+195611	masculine
+195613	masculine
+195615	masculine
+195617	feminine
+195623	masculine
+195626	masculine
+195629	neuter
+195637	neuter
+195639	masculine
+195642	masculine
+masculine
+195652	masculine
+195654	masculine
+195667	masculine
+195672	feminine
+195681	neuter
+195683	masculine
+195697	masculine
+neuter
+neuter
 195718	masculine
+195721	masculine
 195732	masculine
-195739	masculine
-195747	masculine
-masculine
-195752	masculine
+195734	masculine
+195737	masculine
+195742	masculine
+195751	masculine
 195755	masculine
-195760	feminine
-195763	masculine
-195766	feminine
-195771	masculine
-195774	masculine
-195778	masculine
-195780	masculine
-195783	masculine
-195799	feminine
-195803	masculine
+195766	masculine
+masculine
+195770	masculine
+195773	masculine
+masculine
+195778	feminine
+195788	feminine
+195807	neuter
 195812	masculine
+195817	masculine
+195823	neuter
+195843	neuter
+195845	masculine
+195854	feminine
+195858	masculine
+195875	masculine
+195878	masculine
 masculine
-195828	masculine
-195857	neuter
-195864	masculine
-195866	neuter
-195871	masculine
-195874	neuter
-195884	masculine
-195888	masculine
-195890	masculine
-195894	neuter
-195908	masculine
-195927	masculine
-feminine
-195932	neuter
+195883	masculine
+195886	masculine
+195901	masculine
 masculine
-195935	masculine
-195937	masculine
+195904	masculine
+195912	masculine
+195914	masculine
 masculine
-195945	masculine
-195961	feminine
-195967	masculine
-195972	neuter
-neuter
-195986	neuter
-196005	masculine
-196014	masculine
-196020	neuter
-196024	masculine
-196028	feminine
-feminine
-196034	masculine
-196037	masculine
-196060	masculine
+195924	masculine
+195929	masculine
+195946	masculine
+195948	masculine
+195963	masculine
+195965	neuter
+195968	masculine
+195975	masculine
+195982	neuter
+195993	neuter
+195997	neuter
+196006	masculine
+196022	feminine
+196026	neuter
+196037	neuter
+196039	masculine
+196044	neuter
+196053	masculine
 196066	masculine
-196069	masculine
-196072	masculine
-masculine
-196079	masculine
-196096	masculine
-196098	neuter
-masculine
-196105	feminine
-196112	masculine
-196114	masculine
+196068	neuter
+196076	masculine
+196084	masculine
+196102	masculine
+196109	masculine
+196119	masculine
 196122	masculine
-196135	masculine
-masculine
-196139	masculine
-196141	masculine
+196133	masculine
+196136	masculine
 196148	masculine
-196156	masculine
-196158	masculine
-196161	masculine
-196175	masculine
-196177	masculine
-196191	masculine
+196155	masculine
+196162	masculine
 masculine
+196167	masculine
+196170	masculine
+196175	feminine
+196178	masculine
+196181	feminine
+196186	masculine
+196189	masculine
+196193	masculine
+196195	masculine
+196198	masculine
+196214	feminine
+196218	masculine
+196226	masculine
 masculine
-196196	masculine
-196202	masculine
-196205	masculine
-196209	neuter
-196225	masculine
-196234	masculine
-neuter
-196239	masculine
+196242	masculine
+196269	neuter
+196275	masculine
+196277	neuter
+196282	masculine
+196284	neuter
+196294	masculine
+196298	masculine
+196300	masculine
+196304	neuter
+196317	masculine
+196335	masculine
+feminine
+196339	neuter
 masculine
-196243	masculine
-196247	masculine
-neuter
-196251	neuter
-196263	feminine
-196266	masculine
+196342	masculine
+196344	masculine
 masculine
-196278	masculine
-196280	neuter
-196301	masculine
-masculine
-196316	neuter
-196318	neuter
-196327	masculine
-masculine
-196330	masculine
-196332	masculine
-masculine
-196339	masculine
-masculine
-196343	masculine
-196350	masculine
-196357	masculine
-masculine
-196362	masculine
-masculine
-196370	masculine
+196352	masculine
+196368	feminine
 196373	masculine
-196383	masculine
+196378	neuter
 neuter
-196399	neuter
-196401	masculine
-196404	masculine
-196408	masculine
-196427	neuter
-masculine
-196431	masculine
-masculine
+196392	neuter
+196411	masculine
+196420	masculine
+196426	neuter
+196429	masculine
+196433	feminine
+feminine
 196439	masculine
+196442	masculine
+196465	masculine
+196471	masculine
+196474	masculine
+196477	masculine
+masculine
+196484	masculine
+196500	masculine
 neuter
 masculine
-196448	masculine
-196451	feminine
-196462	masculine
-196466	masculine
-196469	feminine
-196474	neuter
-feminine
-196479	feminine
-196485	neuter
-feminine
-196491	feminine
-feminine
-196496	feminine
-196513	masculine
-196527	masculine
-196529	masculine
-196534	feminine
+196508	feminine
+196515	masculine
+196517	masculine
+196525	masculine
+196537	masculine
 masculine
-196539	masculine
-196545	masculine
-196551	masculine
-196555	masculine
-196561	neuter
-feminine
-196567	feminine
-neuter
-196570	feminine
-196574	masculine
-196577	masculine
-196580	masculine
-196583	feminine
-feminine
-196593	feminine
-196598	masculine
+196541	masculine
+196543	masculine
+196549	masculine
+196557	masculine
+196559	masculine
+196562	masculine
+196576	masculine
+196578	masculine
+196592	masculine
 masculine
+masculine
+196597	masculine
 196603	masculine
-196609	neuter
-196615	masculine
-196617	masculine
-196623	neuter
-196628	masculine
-196653	neuter
-196655	masculine
-196657	masculine
-196659	neuter
-196669	masculine
+196605	masculine
+196608	neuter
+196624	masculine
+196633	masculine
+neuter
+196638	masculine
 masculine
-196672	masculine
+196642	masculine
+196646	masculine
+neuter
+196650	neuter
+196662	feminine
+196665	masculine
 masculine
-196690	masculine
-196695	feminine
+196676	masculine
+196678	neuter
+196699	masculine
+masculine
+196713	neuter
+196715	neuter
+196724	masculine
+masculine
+196727	masculine
+196729	masculine
+masculine
+196736	masculine
+masculine
+196740	masculine
+196747	masculine
+196753	masculine
+masculine
+196758	masculine
+masculine
+196766	masculine
+196769	masculine
+196779	masculine
+neuter
+196795	neuter
+196797	masculine
+196800	masculine
+196803	masculine
+196822	neuter
+masculine
+196826	masculine
+masculine
+196834	masculine
+neuter
+masculine
+196843	masculine
+196846	feminine
+196857	masculine
+196861	masculine
+196864	feminine
+196869	neuter
 feminine
-196698	neuter
-196706	masculine
-196716	masculine
-196720	masculine
-neuter
-196723	masculine
-196725	neuter
-196729	feminine
-196742	masculine
-196747	neuter
-neuter
-196755	masculine
-196757	masculine
-196760	masculine
-neuter
-196763	feminine
-196766	feminine
-masculine
-196774	feminine
-masculine
-196799	masculine
-196804	masculine
-masculine
-196829	masculine
-196840	masculine
-masculine
-196847	masculine
-196852	masculine
-196859	masculine
-196862	neuter
-196867	feminine
-neuter
-196871	masculine
-196873	feminine
-196877	masculine
-196880	masculine
-neuter
-196888	masculine
+196874	feminine
+196880	neuter
+feminine
+196886	feminine
+feminine
+196891	feminine
 196908	masculine
-196920	masculine
-196930	neuter
-196938	neuter
-196947	masculine
-196955	masculine
-196959	masculine
-196961	masculine
-196965	masculine
+196922	masculine
+196924	masculine
+196929	feminine
+masculine
+196934	masculine
+196940	masculine
+196946	masculine
+196950	masculine
+196956	neuter
+feminine
+196962	feminine
+neuter
+196965	feminine
 196969	masculine
-196974	masculine
-196977	masculine
+196972	masculine
+196975	masculine
+196978	feminine
+feminine
+196988	feminine
+196993	masculine
 masculine
-196983	masculine
-196988	masculine
-196998	feminine
-197017	masculine
-197020	masculine
-197030	masculine
-masculine
-197036	masculine
-197039	masculine
-masculine
+196998	masculine
+197003	neuter
+197009	masculine
+197011	masculine
+197016	neuter
+197021	masculine
+197046	neuter
+197048	masculine
+197050	masculine
 neuter
-197045	masculine
-197049	feminine
-197051	masculine
-197054	neuter
-197067	feminine
-197073	feminine
-197078	masculine
-197086	neuter
-197093	feminine
-197106	feminine
-197110	neuter
-197112	feminine
-197118	masculine
+197061	masculine
+masculine
+197064	masculine
+masculine
+197082	masculine
+197087	feminine
+feminine
+197090	neuter
+197097	masculine
+197107	masculine
+197111	masculine
+neuter
+197114	masculine
+197116	neuter
 197120	feminine
-masculine
-197126	feminine
-197138	masculine
-masculine
+197133	masculine
+197137	neuter
+neuter
 197145	masculine
-197149	feminine
-197151	masculine
+197147	masculine
+197150	masculine
+neuter
+197153	feminine
+197156	feminine
 masculine
-197154	masculine
-197160	masculine
-197162	masculine
-197174	feminine
-197179	feminine
-197183	masculine
-197193	neuter
-197202	masculine
-197204	neuter
-197207	neuter
-197212	masculine
-197221	neuter
-197226	masculine
-197228	masculine
+197164	feminine
 masculine
-197244	masculine
+197189	masculine
+197194	masculine
 masculine
-197248	masculine
+197219	masculine
+197230	masculine
+masculine
+197237	masculine
+197242	masculine
+197249	masculine
+197251	neuter
+197256	feminine
+neuter
 197259	masculine
-197261	masculine
-197274	neuter
-masculine
-197279	masculine
+197261	feminine
+197265	masculine
+197268	masculine
 neuter
-197284	feminine
-feminine
-feminine
-masculine
-masculine
-197293	masculine
-197298	feminine
-feminine
-197301	masculine
-197303	masculine
-197310	masculine
-neuter
-197313	masculine
-197315	masculine
-197317	masculine
-197319	masculine
-197324	masculine
-197326	masculine
-197332	masculine
-197334	masculine
-197337	masculine
-197344	masculine
+197276	masculine
+197294	masculine
+197306	masculine
+197316	neuter
+197324	neuter
+197333	masculine
+197341	masculine
+197345	masculine
+197347	masculine
 197351	masculine
-197353	masculine
-197367	masculine
-197374	masculine
-197387	masculine
-197392	masculine
-197395	masculine
-197408	masculine
-197412	masculine
-197426	masculine
+197355	masculine
+197359	masculine
+197362	masculine
+masculine
+197368	masculine
+197373	masculine
+197383	feminine
+197402	masculine
+197405	masculine
+197415	masculine
+masculine
+197421	masculine
+197424	masculine
+masculine
+neuter
 197430	masculine
+197434	feminine
+197436	masculine
+197439	neuter
+197452	feminine
+197458	feminine
+197463	masculine
+197471	neuter
+197478	feminine
+197490	feminine
+197494	neuter
+197496	feminine
+197502	masculine
+197504	feminine
 masculine
-197438	feminine
-feminine
-197446	masculine
+197510	feminine
+197522	masculine
 masculine
-197452	masculine
-masculine
-masculine
-197460	masculine
-masculine
-197468	masculine
-197474	masculine
-197476	masculine
-197478	masculine
-masculine
-197482	masculine
-197485	neuter
-197490	masculine
-197492	masculine
-197496	masculine
-197498	masculine
-197503	masculine
+197529	masculine
+197533	feminine
 197535	masculine
+masculine
+197538	masculine
 197544	masculine
+197546	masculine
+197558	feminine
+197563	feminine
+197567	masculine
+197577	neuter
+197586	masculine
+197588	neuter
+197591	neuter
+197595	masculine
+197604	neuter
+197609	masculine
+197611	masculine
 masculine
-197548	masculine
+197627	masculine
 masculine
+197631	masculine
+197642	masculine
+197644	masculine
+197656	neuter
 masculine
-197560	masculine
-197579	masculine
-197582	masculine
-197591	masculine
-197593	masculine
-197604	masculine
-197607	masculine
-197614	neuter
-197616	feminine
-197627	feminine
-197632	masculine
-197644	neuter
+197661	masculine
 neuter
-197647	neuter
-197655	masculine
+197665	feminine
+feminine
+feminine
+masculine
+masculine
 197674	masculine
-197677	masculine
-197680	masculine
-197703	masculine
+197679	feminine
 feminine
-197706	masculine
-197716	masculine
-197726	masculine
-197738	masculine
-197741	masculine
-197749	masculine
-197755	neuter
-197757	neuter
+197682	masculine
+197684	masculine
+197691	masculine
 neuter
-197763	masculine
-neuter
-197770	masculine
-197777	feminine
-197784	masculine
-197788	masculine
-197792	masculine
-197796	neuter
-197802	neuter
-197804	neuter
-197807	masculine
-197811	neuter
-197813	neuter
-197823	masculine
-197830	masculine
-197834	masculine
-197842	neuter
-197847	masculine
-197863	masculine
-197871	neuter
-neuter
-197897	masculine
-197903	masculine
-197905	masculine
-197913	masculine
-feminine
-197922	feminine
-197931	feminine
-feminine
-197936	masculine
-197945	feminine
-197948	neuter
-197954	neuter
-197962	feminine
-197967	masculine
-197970	masculine
-197982	feminine
-197993	feminine
-198000	neuter
-198005	neuter
-198008	masculine
-198024	masculine
-198029	masculine
-198032	masculine
-198035	masculine
+197694	masculine
+197696	masculine
+197698	masculine
+197700	masculine
+197705	masculine
+197707	masculine
+197713	masculine
+197715	masculine
+197718	masculine
+197724	masculine
+197731	masculine
+197733	masculine
+197747	masculine
+197754	masculine
+197766	masculine
+197771	masculine
+197774	masculine
+197787	masculine
+197791	masculine
+197805	masculine
+197809	masculine
 masculine
+197816	feminine
+feminine
+197824	masculine
+masculine
+197829	masculine
+masculine
+masculine
+197837	masculine
+masculine
+197845	masculine
+197851	masculine
+masculine
+197854	masculine
+masculine
+197858	masculine
+197861	neuter
+197866	masculine
+197868	masculine
+197872	masculine
+197874	masculine
+197879	masculine
+197908	masculine
+197916	masculine
+masculine
+197920	masculine
+masculine
+masculine
+197932	masculine
+197950	masculine
+197953	masculine
+197962	masculine
+197964	masculine
+197975	masculine
+197978	masculine
+197984	neuter
+197986	feminine
+197997	feminine
+198002	masculine
+198014	neuter
+neuter
+198017	neuter
+198025	masculine
+198044	masculine
 198047	masculine
-198053	masculine
-198059	masculine
-198061	neuter
-198081	masculine
-198083	masculine
-198085	neuter
-198087	masculine
-198089	masculine
-198095	masculine
-198098	neuter
-198106	masculine
-198114	masculine
-198117	masculine
+198050	masculine
+198073	masculine
+feminine
+198076	masculine
+198086	masculine
+198096	masculine
+198108	masculine
+198111	masculine
+198118	masculine
+198123	neuter
+198125	neuter
 neuter
-198120	masculine
-198123	masculine
-198137	neuter
-198154	masculine
+198131	masculine
+neuter
+198138	masculine
+198144	feminine
+198151	masculine
+198155	masculine
 198159	masculine
-198161	masculine
-198164	masculine
-198168	masculine
-198171	masculine
-198183	masculine
-198186	masculine
-198202	masculine
+198163	neuter
+198168	neuter
+198170	neuter
+198173	masculine
+198177	neuter
+198179	neuter
+198188	masculine
+198194	masculine
+198197	masculine
+198204	neuter
+198209	masculine
+198225	masculine
+198233	neuter
 neuter
-198222	masculine
-198224	masculine
-masculine
-198241	masculine
-masculine
-198244	neuter
-198247	masculine
-masculine
-198250	masculine
-198254	neuter
-198258	neuter
-198266	neuter
-198268	masculine
-masculine
-198271	masculine
-198278	masculine
-198290	masculine
-masculine
-198306	masculine
-198310	masculine
-198312	masculine
-neuter
-198316	masculine
-198322	feminine
+198259	masculine
+198265	masculine
+198267	masculine
+198275	masculine
+feminine
+198283	feminine
+198291	feminine
+feminine
+198296	masculine
+198305	feminine
+198307	neuter
+198313	neuter
+198321	feminine
 198326	masculine
-masculine
-198331	neuter
-masculine
-198349	masculine
-198364	masculine
-198372	masculine
-masculine
-198376	masculine
-198378	masculine
-198381	masculine
-198386	masculine
+198328	masculine
+198340	feminine
+198351	feminine
+198358	neuter
+198363	neuter
+198366	masculine
+198382	masculine
+198387	masculine
 198390	masculine
-198394	masculine
-198396	masculine
-198398	masculine
-neuter
-198402	masculine
+198393	masculine
+masculine
+198405	masculine
 198411	masculine
-198427	neuter
-198430	masculine
-198433	masculine
-198456	masculine
-masculine
-masculine
+198417	masculine
+198419	neuter
+198439	masculine
+198441	masculine
+198443	neuter
+198445	masculine
+198447	masculine
+198453	masculine
+198455	neuter
 198463	masculine
-198466	masculine
-masculine
+198470	masculine
 198473	masculine
-masculine
-masculine
-198481	masculine
-198483	masculine
-198486	masculine
-198490	masculine
-198493	masculine
-198499	masculine
-198501	masculine
-198507	masculine
-198513	neuter
-198532	feminine
-198536	masculine
+neuter
+198476	masculine
+198479	masculine
+198492	neuter
+198509	masculine
+198514	masculine
+198516	masculine
+198519	masculine
+198523	masculine
+198526	masculine
 198538	masculine
 198541	masculine
-masculine
-198545	masculine
-198547	masculine
-198551	masculine
-198557	masculine
-198567	masculine
-198573	masculine
+198556	masculine
+neuter
 198576	masculine
-198581	masculine
-198589	masculine
-198596	feminine
+198578	masculine
 masculine
-198607	feminine
-neuter
-198611	masculine
+198595	masculine
+masculine
+198598	neuter
+198601	masculine
+masculine
+198604	masculine
+198608	neuter
+198612	neuter
 198619	neuter
-198622	masculine
-198627	masculine
-198647	masculine
-198661	masculine
+198621	masculine
+masculine
+198624	masculine
+198631	masculine
+198643	masculine
+masculine
+198659	masculine
+198663	masculine
+198665	masculine
+neuter
 198669	masculine
+198675	feminine
+198679	masculine
 masculine
-198673	masculine
-198679	feminine
-198693	masculine
-198697	masculine
-198706	neuter
-198708	neuter
-198718	masculine
+198684	neuter
 masculine
+198702	masculine
+198717	masculine
 198725	masculine
+masculine
 198729	masculine
+198731	masculine
+198734	masculine
+198739	masculine
+198743	masculine
+198747	masculine
+198749	masculine
+198751	masculine
 neuter
-198740	feminine
-198742	masculine
-feminine
-198745	masculine
-feminine
-198750	neuter
-198752	masculine
-198757	feminine
-feminine
-masculine
-198762	feminine
-198766	masculine
-198773	masculine
-198776	masculine
-198778	masculine
+198755	masculine
+198763	masculine
+198779	neuter
 198782	masculine
-198786	masculine
-masculine
-198791	masculine
-198793	masculine
-neuter
+198785	masculine
 198808	masculine
-neuter
+masculine
+masculine
 198815	masculine
+198818	masculine
 masculine
-198821	masculine
-198824	neuter
+198825	masculine
 masculine
-198828	masculine
-198830	masculine
 masculine
-neuter
-198834	neuter
-198843	neuter
-198856	masculine
-neuter
-198863	masculine
-198871	masculine
-masculine
-198875	masculine
-198878	masculine
-masculine
-198882	masculine
-198884	masculine
-198887	masculine
-neuter
+198833	masculine
+198835	masculine
+198838	masculine
+198842	masculine
+198845	masculine
+198851	masculine
+198853	masculine
+198859	masculine
+198865	neuter
+198884	feminine
+198888	masculine
+198890	masculine
 198893	masculine
+masculine
 198897	masculine
-198902	masculine
-198906	masculine
-198909	masculine
-198922	neuter
-198927	masculine
-198929	masculine
+198899	masculine
+198903	masculine
+198908	masculine
+198918	masculine
+198924	masculine
+198926	masculine
+198931	masculine
+198939	masculine
+198946	feminine
 masculine
-198942	masculine
-198946	masculine
-198949	masculine
-masculine
-198952	masculine
-198954	masculine
-198956	masculine
-198960	masculine
-198968	neuter
-198970	masculine
-masculine
-198981	masculine
-198987	masculine
-198990	neuter
-198994	masculine
-198999	masculine
-199002	neuter
+198957	feminine
 neuter
-masculine
-masculine
-masculine
+198961	masculine
+198969	neuter
+198972	masculine
+198976	masculine
+198995	masculine
+199009	masculine
 199016	masculine
-199021	masculine
-199026	masculine
+masculine
+199020	masculine
+199026	feminine
+199040	masculine
+199044	masculine
+199053	neuter
+199055	neuter
+199065	masculine
+masculine
+199072	masculine
+199076	masculine
 neuter
-199043	masculine
-199045	neuter
+199086	feminine
+199088	masculine
+feminine
+199091	masculine
+feminine
+199096	neuter
+199098	masculine
+199103	feminine
+feminine
 masculine
-199059	masculine
-199063	masculine
-199068	masculine
-masculine
-199075	masculine
-199081	neuter
-199084	masculine
-199095	masculine
-199103	masculine
+199108	feminine
 199111	masculine
+199118	masculine
 199121	masculine
 199123	masculine
 199127	masculine
-199133	masculine
-199141	masculine
-199143	masculine
-neuter
-199148	masculine
-199156	masculine
+199130	masculine
 masculine
+199135	masculine
+199137	masculine
+neuter
+199152	masculine
+neuter
 199159	masculine
-199164	masculine
-199167	masculine
-199169	masculine
-199177	masculine
-neuter
-199180	neuter
-199184	masculine
-neuter
-199187	masculine
 masculine
+199165	masculine
+199168	neuter
+masculine
+199172	masculine
+199174	masculine
+masculine
+neuter
+199178	neuter
+199187	neuter
 199199	masculine
+neuter
 199206	masculine
-199209	masculine
-199211	masculine
-199213	masculine
-199217	masculine
+199214	masculine
+masculine
+199218	masculine
+199221	masculine
+masculine
+199225	masculine
+199227	masculine
+199230	masculine
 neuter
-masculine
-199226	masculine
-199237	masculine
-masculine
-199241	masculine
-199243	feminine
-199249	neuter
+199236	masculine
+199240	masculine
+199245	masculine
+199249	masculine
 199252	masculine
-199260	masculine
-199267	masculine
-199278	masculine
+199265	neuter
+199270	masculine
+199272	masculine
+masculine
 199284	masculine
-199286	neuter
 199288	masculine
-199308	feminine
-neuter
-199312	masculine
-199319	masculine
+199291	masculine
+masculine
+199294	masculine
+199296	masculine
+199298	masculine
+199302	masculine
+199309	neuter
+199311	masculine
+masculine
+199322	masculine
+199328	masculine
+199331	neuter
 199335	masculine
+199340	masculine
+199343	neuter
 neuter
-199342	masculine
-199346	masculine
-199357	masculine
-neuter
+masculine
+masculine
+masculine
+199356	masculine
 199361	masculine
-199369	masculine
+199366	masculine
+neuter
 199383	masculine
 199385	neuter
-199387	neuter
-199392	neuter
-199395	neuter
-199399	neuter
-199405	masculine
-199419	masculine
-199427	masculine
-199430	masculine
 masculine
+199399	masculine
+199403	masculine
+199407	masculine
+masculine
+199414	masculine
+199420	neuter
+199423	masculine
 199433	masculine
-199435	masculine
-feminine
-199438	masculine
-masculine
-masculine
-199442	masculine
-199444	masculine
-neuter
-199448	masculine
-masculine
-199453	masculine
-199462	masculine
-199476	masculine
+199441	masculine
+199449	masculine
+199459	masculine
+199461	masculine
+199465	masculine
+199471	masculine
 199479	masculine
-199496	neuter
-199500	masculine
-199510	masculine
-199513	masculine
-masculine
-199520	feminine
-199525	feminine
-feminine
-199530	masculine
-199534	masculine
+199481	masculine
 neuter
-199537	masculine
-199542	masculine
+199486	masculine
+199494	masculine
 masculine
-199549	masculine
-199558	neuter
-199567	masculine
-199574	neuter
-199579	masculine
+199497	masculine
+199502	masculine
+199504	masculine
+199506	masculine
+199514	masculine
 neuter
-199582	masculine
+199517	neuter
+199521	masculine
+neuter
+199524	masculine
+masculine
+199536	masculine
+199543	masculine
+199546	masculine
+199548	masculine
+199550	masculine
+199554	masculine
+neuter
+masculine
+199562	masculine
+199572	masculine
+masculine
+199576	masculine
+199578	feminine
+199584	neuter
 199587	masculine
-masculine
-199591	masculine
-masculine
 199594	masculine
-masculine
-199597	masculine
-199599	neuter
-199607	masculine
-199609	neuter
-199612	masculine
-199614	masculine
-masculine
-199639	masculine
-199642	masculine
-masculine
-199650	masculine
-masculine
-199653	masculine
-199656	masculine
-199658	neuter
-199663	neuter
-199671	masculine
-199678	masculine
-199680	masculine
-199684	masculine
-199689	masculine
-199696	masculine
-199711	masculine
-199713	masculine
+199601	masculine
+199611	masculine
+199617	masculine
 neuter
-199722	neuter
-199724	feminine
-199731	masculine
-199737	masculine
-199741	masculine
-199744	masculine
-199747	masculine
+199620	masculine
+199640	feminine
+neuter
+199644	masculine
+199651	masculine
+199667	masculine
+neuter
+199674	masculine
+199678	masculine
+199689	masculine
+neuter
+199693	masculine
+199701	masculine
+199714	masculine
+199716	neuter
+199718	neuter
+199723	neuter
+199726	neuter
+199730	neuter
+199736	masculine
+199750	masculine
+199757	masculine
+199759	masculine
 masculine
-199753	neuter
-199757	neuter
-199759	neuter
-199765	masculine
-199769	neuter
-199778	masculine
-199780	masculine
-199814	masculine
-199819	masculine
-199822	masculine
+199762	masculine
+199764	masculine
+feminine
+199767	masculine
+masculine
+masculine
+199771	masculine
+199773	masculine
+neuter
+199777	masculine
+masculine
+199782	masculine
+199791	masculine
+199805	masculine
+199808	masculine
+199825	neuter
 199829	masculine
-199833	masculine
 199839	masculine
 199842	masculine
-199846	masculine
-199848	neuter
 masculine
+199849	feminine
+199854	feminine
+feminine
+199859	masculine
+199863	masculine
+neuter
 199866	masculine
+199871	masculine
 masculine
-199870	masculine
-199875	masculine
 199878	masculine
-199881	masculine
-199890	masculine
-199896	masculine
-masculine
-masculine
+199885	neuter
+199894	masculine
 199901	neuter
 199906	masculine
-199909	masculine
 neuter
-199915	masculine
-199918	masculine
+199909	masculine
+199913	masculine
+masculine
+199917	masculine
+masculine
+199920	masculine
+masculine
 199923	masculine
-199927	masculine
-199936	masculine
-199939	neuter
-199946	neuter
-199952	neuter
-199956	masculine
-199959	masculine
-199964	masculine
-199967	neuter
-199974	neuter
-199988	neuter
-199991	masculine
-199994	masculine
-200002	masculine
+199925	neuter
+199933	masculine
+neuter
+199937	masculine
 masculine
-200006	masculine
-200009	masculine
-200013	masculine
-200018	masculine
-200026	masculine
-200028	masculine
+masculine
+199962	masculine
+199965	masculine
+masculine
+199973	masculine
+masculine
+199976	masculine
+199979	masculine
+neuter
+199985	neuter
+199993	masculine
+199999	masculine
+200001	masculine
+200005	masculine
+200010	masculine
+200017	masculine
+200032	masculine
 200034	masculine
-200038	masculine
-200064	masculine
+neuter
+200043	neuter
+200045	feminine
+200052	masculine
+200058	masculine
+200062	masculine
+200065	masculine
+200068	masculine
 masculine
-200082	masculine
-200098	masculine
-masculine
-200102	masculine
-200110	masculine
-200114	masculine
-200118	masculine
-masculine
-200125	masculine
-200127	masculine
-200130	masculine
-200135	masculine
-masculine
-200139	neuter
-200146	masculine
-masculine
-200153	masculine
+200073	neuter
+200077	neuter
+200079	neuter
+200085	masculine
+200089	neuter
+200097	masculine
+200099	masculine
+200133	masculine
+200138	masculine
+200141	masculine
+200148	masculine
+200152	masculine
+200158	masculine
 200161	masculine
 200165	masculine
-200186	masculine
-200195	masculine
+200167	neuter
 masculine
+200185	masculine
+masculine
+200189	masculine
+200194	masculine
+200197	masculine
 200200	masculine
-200206	masculine
-200212	masculine
-200215	neuter
-200217	neuter
-200224	masculine
+200209	masculine
+200215	masculine
 masculine
+masculine
+200220	neuter
+200225	masculine
+200228	masculine
+neuter
 200234	masculine
-masculine
+200237	masculine
 200242	masculine
 200246	masculine
-200248	masculine
-neuter
-200251	masculine
-200253	masculine
-200256	masculine
-200262	masculine
-200271	masculine
-200278	masculine
-200284	masculine
-200286	feminine
+200255	masculine
+200258	neuter
+200264	neuter
+200269	neuter
+200273	masculine
+200276	masculine
+200281	masculine
+200283	neuter
+200289	neuter
+200303	neuter
+200306	masculine
+200309	masculine
+200317	masculine
 masculine
-200292	masculine
-200294	masculine
-200297	masculine
-masculine
-200301	feminine
-200304	feminine
-200319	masculine
-neuter
-feminine
-200323	feminine
-200332	masculine
-masculine
-200337	masculine
-feminine
-200340	feminine
-neuter
-200343	neuter
+200321	masculine
+200324	masculine
+200328	masculine
+200333	masculine
+200340	masculine
+200342	masculine
 200348	masculine
-200350	neuter
-200354	neuter
-200359	neuter
-200361	masculine
-200363	feminine
-200368	masculine
+200352	masculine
+200377	masculine
 masculine
-200379	masculine
-200386	masculine
-200388	masculine
-200399	masculine
-200406	masculine
-200408	neuter
+200395	masculine
+200411	masculine
+masculine
 200415	masculine
-200428	masculine
-200440	masculine
-200445	masculine
-200461	masculine
-200465	feminine
-200468	masculine
-200471	masculine
+200423	masculine
+200427	masculine
+200431	masculine
 masculine
-200476	feminine
-200480	masculine
-200483	masculine
-200490	masculine
-200508	neuter
-200512	masculine
-200517	neuter
+200437	masculine
+200439	masculine
+200442	masculine
+200447	masculine
+masculine
+200451	neuter
+200458	masculine
+masculine
+200465	masculine
+200472	masculine
+200476	masculine
+200496	masculine
+200504	masculine
+masculine
+200508	masculine
+200514	masculine
+200519	masculine
+200522	neuter
+200524	neuter
 200531	masculine
-200535	neuter
+masculine
+200541	masculine
+masculine
+200549	masculine
+200553	masculine
+200555	masculine
+neuter
 200558	masculine
+200560	masculine
+200563	masculine
+200569	masculine
+200578	masculine
+200585	masculine
+200591	masculine
+200593	feminine
 masculine
-200570	masculine
-200574	neuter
-200577	masculine
-200583	neuter
-200588	masculine
-200602	neuter
-200617	masculine
-200628	masculine
-200636	masculine
+200599	masculine
+200601	masculine
+200604	masculine
+masculine
+200608	feminine
+200611	feminine
+200625	masculine
+neuter
+feminine
+200629	feminine
+200637	masculine
+masculine
 200642	masculine
-200645	masculine
-200653	masculine
-200660	neuter
-200664	masculine
-200668	masculine
+feminine
+200645	feminine
+neuter
+200648	neuter
+200652	masculine
+200654	neuter
+200658	neuter
+200663	neuter
+200665	masculine
+200667	feminine
+200672	masculine
 masculine
-200673	masculine
-200676	neuter
-200679	masculine
-200682	masculine
-masculine
-200691	masculine
-200701	masculine
-masculine
-200706	masculine
-200712	masculine
-200718	masculine
-200720	masculine
-200725	masculine
-200727	masculine
-masculine
-200730	masculine
-200736	masculine
-masculine
-200739	masculine
-200750	masculine
-200757	masculine
+200683	masculine
+200690	masculine
+200692	masculine
+200703	masculine
+200710	masculine
+200712	neuter
+200719	masculine
+200732	masculine
+200743	masculine
+200747	masculine
 200763	masculine
-200765	masculine
-200768	masculine
-200771	neuter
+200767	feminine
+200770	masculine
+200773	masculine
+masculine
+200777	feminine
+200781	masculine
 200784	masculine
 200790	masculine
-200792	masculine
+200808	neuter
+200812	masculine
+200817	neuter
+200829	masculine
+200832	neuter
+200854	masculine
 masculine
-200799	feminine
-200802	feminine
-200808	masculine
-200820	masculine
-masculine
-200833	masculine
-200835	masculine
-200837	masculine
-200839	masculine
-masculine
-200843	masculine
-200864	masculine
-masculine
-200872	masculine
-200874	masculine
-200878	masculine
-200880	neuter
-200885	neuter
-200888	masculine
-200893	masculine
-masculine
-200900	masculine
-200903	masculine
-masculine
-200908	masculine
+200866	masculine
+200870	neuter
+200873	masculine
+200879	neuter
+200884	masculine
+200898	neuter
 200912	masculine
-200924	masculine
-200926	feminine
-200931	masculine
+200922	masculine
+200928	masculine
+200934	masculine
+200937	masculine
+200945	masculine
+200952	neuter
+200956	masculine
+200960	masculine
 masculine
+200965	masculine
+200968	neuter
+200971	masculine
+200974	masculine
 masculine
+200983	masculine
+200993	masculine
 masculine
-200944	feminine
-200948	neuter
-200956	neuter
-200964	feminine
-200966	masculine
-200969	neuter
-200973	feminine
-200977	masculine
-neuter
-200986	neuter
-201001	feminine
-feminine
+200998	masculine
 201004	masculine
-201010	masculine
-201047	masculine
-201049	masculine
-201062	masculine
-neuter
-201066	masculine
-201069	masculine
+201009	masculine
+201011	masculine
+201015	masculine
+201017	masculine
 masculine
+201020	masculine
+201026	masculine
 masculine
-masculine
-201076	masculine
+201029	masculine
+201040	masculine
+201046	masculine
+201052	masculine
+201054	masculine
+201057	masculine
+201060	neuter
+201073	masculine
 201078	masculine
-feminine
-201086	feminine
-201090	masculine
-201121	feminine
-feminine
-201127	masculine
-feminine
-feminine
-201135	masculine
-201139	masculine
-201144	masculine
+201080	masculine
+masculine
+201087	feminine
+201090	feminine
+201095	masculine
+201107	masculine
+masculine
+201119	masculine
+201121	masculine
+201123	masculine
+201125	masculine
+masculine
+201129	masculine
 201149	masculine
-201154	masculine
-201171	masculine
+masculine
+201157	masculine
+201159	masculine
+201163	masculine
 neuter
-201180	masculine
+201169	neuter
+201172	masculine
+201177	masculine
 masculine
-201186	masculine
-201188	feminine
-201195	masculine
-201198	masculine
-201201	masculine
-201204	masculine
-201221	masculine
-201237	masculine
+201184	masculine
+201187	masculine
 masculine
-201247	masculine
-201258	masculine
-201274	masculine
-201279	feminine
+201192	masculine
+201196	masculine
+201207	masculine
+201209	feminine
+201214	masculine
+masculine
+masculine
+masculine
+201227	feminine
+201231	neuter
+201239	neuter
+201247	feminine
+201249	masculine
+201252	neuter
+201256	feminine
+201260	masculine
 neuter
-masculine
-masculine
-201287	masculine
-201294	masculine
-201300	neuter
-201302	feminine
-201308	neuter
-201310	masculine
-201312	masculine
-201316	masculine
-201324	neuter
-201327	masculine
+201269	neuter
+201283	feminine
+feminine
+201286	masculine
+201292	masculine
+201328	masculine
 201330	masculine
-201333	neuter
-masculine
-201336	feminine
-201343	neuter
-201351	masculine
-masculine
-201356	masculine
-201360	masculine
-201369	masculine
-201378	masculine
-201383	masculine
-masculine
-201392	masculine
-201402	neuter
-201405	neuter
-201415	masculine
-201419	masculine
-201422	masculine
-201427	masculine
-201432	masculine
-201451	neuter
-201454	feminine
-201458	masculine
-201461	masculine
-201463	neuter
-201467	masculine
-201486	neuter
-201495	masculine
-201499	neuter
-201503	neuter
-201509	neuter
-201515	masculine
-201523	masculine
-masculine
-201527	masculine
+201343	masculine
 neuter
-201532	neuter
+201347	masculine
+201350	masculine
+masculine
+masculine
+masculine
+201357	masculine
+201359	masculine
+feminine
+201367	feminine
+201370	masculine
+201401	feminine
+feminine
+201407	masculine
+feminine
+feminine
+201415	masculine
+201418	masculine
+201423	masculine
+201428	masculine
+201433	masculine
+201450	masculine
+neuter
+201459	masculine
+masculine
+201465	masculine
+201467	feminine
+201474	masculine
+201477	masculine
+201480	masculine
+201483	masculine
+201500	masculine
+201515	masculine
+masculine
+201525	masculine
 201536	masculine
-201544	masculine
-201546	masculine
-201556	masculine
-201560	masculine
-201578	neuter
-201598	feminine
-201600	feminine
-201609	masculine
-201615	feminine
-201618	feminine
-201623	feminine
+201552	masculine
+201557	feminine
+neuter
+masculine
+masculine
+201564	masculine
+201571	masculine
+201577	neuter
+201579	feminine
+201584	neuter
+201586	masculine
+201588	masculine
+201592	masculine
+201600	neuter
+201603	masculine
+201606	masculine
+201609	neuter
+masculine
+201612	feminine
+201619	neuter
+201626	masculine
+masculine
+201631	masculine
 201635	masculine
 201644	masculine
 201652	masculine
+201656	masculine
+masculine
+201665	masculine
 201675	neuter
-201682	neuter
-201716	masculine
-201749	masculine
-201763	neuter
+201678	neuter
+201688	masculine
+201691	masculine
+201694	masculine
+201699	masculine
+201704	masculine
+201721	neuter
+201724	feminine
+201727	masculine
+201730	masculine
+201732	neuter
+201736	masculine
+201755	neuter
+201763	masculine
+201766	neuter
+201769	neuter
+201775	neuter
+201781	masculine
+201789	masculine
+masculine
+201793	masculine
 neuter
-201778	masculine
-201799	masculine
-201825	masculine
-201829	masculine
-201833	masculine
-201859	masculine
-201863	masculine
-neuter
-201868	masculine
-201887	masculine
-201889	masculine
+201798	neuter
+201802	masculine
+201810	masculine
+201812	masculine
+201820	masculine
+201824	masculine
+201841	neuter
+201861	feminine
+201863	feminine
+201872	masculine
+201877	feminine
+201880	feminine
+201884	feminine
+201896	masculine
 201904	masculine
-masculine
-201913	masculine
-masculine
-201916	feminine
-feminine
-201922	feminine
-201930	masculine
-201951	feminine
-201956	feminine
+201911	masculine
+201932	neuter
+201939	neuter
+201973	masculine
+202005	masculine
+202019	neuter
 neuter
-feminine
-masculine
-201974	masculine
-201982	neuter
-202002	neuter
-202004	feminine
-202018	masculine
-202020	masculine
-masculine
-202023	masculine
-202027	masculine
+202034	masculine
+202054	masculine
+202078	masculine
+202082	masculine
+202086	masculine
+202110	masculine
+202114	masculine
 neuter
-202033	masculine
-202044	masculine
-202050	masculine
-202062	masculine
-202072	masculine
-202074	masculine
-202095	masculine
-202101	neuter
 202119	masculine
-202125	feminine
-feminine
-202133	masculine
-202145	masculine
+202137	masculine
+202139	masculine
 202152	masculine
-202156	masculine
-202159	masculine
-202164	masculine
-202189	neuter
 masculine
-202198	masculine
+202160	masculine
 masculine
-masculine
-masculine
-masculine
-202206	masculine
-202211	neuter
-202216	masculine
+202163	feminine
+feminine
+202169	feminine
+202176	masculine
+202197	feminine
+202202	feminine
 neuter
+feminine
 masculine
 202220	masculine
-202224	masculine
-202227	masculine
+202228	neuter
+202247	neuter
+202249	feminine
+202263	masculine
+202265	masculine
+masculine
+202268	masculine
+202272	masculine
 neuter
-202235	neuter
-202251	neuter
-202253	neuter
-202259	masculine
-202267	masculine
-202270	masculine
-202291	masculine
-202301	masculine
-202313	masculine
+202278	masculine
+202289	masculine
+202294	masculine
+202306	masculine
+202316	masculine
 202318	masculine
-202341	neuter
-202368	masculine
-202370	feminine
-202380	masculine
-neuter
-202390	neuter
-202399	neuter
-neuter
-202408	neuter
-202412	neuter
-202419	masculine
+202338	masculine
+202344	neuter
+202361	masculine
+202366	feminine
+feminine
+202373	masculine
+202385	masculine
+202392	masculine
+202396	masculine
+202399	masculine
+202403	masculine
+202426	neuter
 masculine
-202424	masculine
-202440	neuter
-202443	feminine
-202446	masculine
-202450	masculine
-202454	masculine
-202456	masculine
+202434	masculine
 masculine
-202465	neuter
-202467	masculine
-202473	masculine
-202496	masculine
-202500	masculine
-202502	masculine
 masculine
-202524	masculine
 masculine
+masculine
+202442	masculine
+202446	neuter
+202451	masculine
 neuter
 masculine
-masculine
-masculine
-202531	masculine
+202455	masculine
+202459	masculine
+202462	masculine
+neuter
+202470	neuter
+202485	neuter
+202487	neuter
+202493	masculine
+202501	masculine
+202504	masculine
+202525	masculine
 202534	masculine
-202539	masculine
-masculine
-masculine
-masculine
-202544	masculine
-202547	masculine
-masculine
-202552	masculine
-202555	masculine
-202559	masculine
-masculine
-202571	masculine
-202574	masculine
-202589	masculine
-202599	masculine
-masculine
-202602	masculine
-202606	masculine
-masculine
+202546	masculine
+202551	masculine
+202572	neuter
+202598	masculine
 feminine
-202613	masculine
+202609	masculine
+neuter
+202619	neuter
+202628	neuter
+neuter
+202637	neuter
+202641	neuter
+202648	masculine
 masculine
-202616	masculine
-202618	masculine
-202638	masculine
-202651	masculine
-202663	feminine
-202666	masculine
-202670	masculine
-202675	feminine
-202680	masculine
+202653	masculine
+202668	neuter
+202671	feminine
+202674	masculine
+202678	masculine
+202681	masculine
+202683	masculine
 masculine
-202684	masculine
-202688	masculine
+202692	neuter
+202694	masculine
+202700	masculine
+202720	masculine
+202724	masculine
+202726	masculine
 masculine
-202705	feminine
-202710	masculine
-202715	masculine
-202718	neuter
+202748	masculine
+masculine
 neuter
 masculine
-202723	masculine
-202729	neuter
-202733	masculine
-202736	masculine
+masculine
+masculine
+202755	masculine
 202758	masculine
-202761	masculine
+202763	masculine
+masculine
+masculine
+masculine
 202768	masculine
-202773	neuter
-202779	neuter
-202785	masculine
+202771	masculine
 masculine
-202788	masculine
-202791	masculine
-202794	masculine
-202801	masculine
-202804	masculine
-202808	neuter
+202776	masculine
+202779	masculine
+202783	masculine
 masculine
-202813	masculine
-202824	feminine
-202826	masculine
+202795	masculine
+202798	masculine
+202812	masculine
+202822	masculine
+masculine
+202825	masculine
+202829	masculine
+masculine
 feminine
-masculine
 202836	masculine
+masculine
 202839	masculine
-202846	neuter
-202855	feminine
+202841	masculine
+202861	masculine
+202874	masculine
+202886	feminine
+202889	masculine
+202893	masculine
+202898	feminine
+202903	masculine
 masculine
-202860	masculine
-202862	masculine
-202865	masculine
-202872	masculine
-202882	masculine
-202895	masculine
-202898	masculine
-202900	masculine
-202908	masculine
-202912	masculine
-202919	masculine
-202922	masculine
-202924	neuter
+202907	masculine
+202911	masculine
 masculine
-202934	masculine
-202939	masculine
-202943	masculine
-202950	masculine
-202952	masculine
+202928	feminine
+202933	masculine
+202938	masculine
+202941	neuter
+neuter
 masculine
+202946	masculine
+202952	neuter
+202956	masculine
 202959	masculine
-202961	neuter
-202966	masculine
+202981	masculine
+202984	masculine
+202991	masculine
+202995	neuter
+203001	neuter
+203007	masculine
 masculine
-202970	neuter
-202972	neuter
-202978	neuter
-202986	masculine
-202989	masculine
-202993	masculine
-masculine
-202998	masculine
-203001	masculine
-203004	masculine
 203010	masculine
-203014	masculine
+203013	masculine
+203016	masculine
+203023	masculine
+203026	masculine
+203030	neuter
 masculine
-203027	masculine
-203037	masculine
-203041	masculine
-203043	masculine
-neuter
+203034	masculine
+203045	feminine
 203047	masculine
-203052	masculine
+feminine
+masculine
 203057	masculine
-203061	masculine
-203065	masculine
-203070	masculine
-203073	masculine
-203078	masculine
-203083	masculine
-203089	masculine
-203093	neuter
-203095	neuter
-203102	masculine
-feminine
-203106	masculine
+203060	masculine
+203066	neuter
+203075	feminine
 masculine
-203112	masculine
-203120	masculine
-203123	masculine
-203125	masculine
-203128	masculine
-203133	masculine
-203135	masculine
-203139	masculine
-203145	masculine
-203148	masculine
-203155	masculine
+203080	masculine
+203082	masculine
+203085	masculine
+203092	masculine
+203101	masculine
+203113	masculine
+203116	masculine
+203118	masculine
+203126	masculine
+203130	masculine
+203137	masculine
+203140	masculine
+203142	neuter
+masculine
+203152	masculine
 203157	masculine
+203160	masculine
+203167	masculine
 203169	masculine
-203174	neuter
-203179	masculine
-203181	masculine
 masculine
-203188	masculine
-203194	masculine
+203176	masculine
+203178	neuter
+203183	masculine
 masculine
-203197	masculine
-neuter
+203187	neuter
+203189	neuter
+203195	neuter
+203203	masculine
 203205	masculine
-203220	masculine
-203223	masculine
-203227	masculine
+203209	masculine
+masculine
+203213	masculine
+203216	masculine
+203219	masculine
+203225	masculine
 203229	masculine
-203231	masculine
-203235	masculine
-203237	masculine
-203240	masculine
-203244	masculine
 masculine
-203251	masculine
-203257	masculine
-203259	masculine
-203278	masculine
-203281	masculine
-203284	feminine
-203286	neuter
-203302	masculine
+203242	masculine
+203252	masculine
+203256	masculine
+203258	masculine
+neuter
+203262	masculine
+203267	masculine
+203272	masculine
+203276	masculine
+203280	masculine
+203285	masculine
+203288	masculine
+203293	masculine
+203298	masculine
+203304	masculine
+203307	neuter
+203309	neuter
+203316	masculine
+feminine
+203320	masculine
 masculine
-203306	neuter
-203319	masculine
-masculine
-203323	masculine
 203326	masculine
-203328	masculine
-203330	masculine
-masculine
-neuter
-masculine
-masculine
-203336	masculine
-masculine
-203343	masculine
-203345	masculine
+203334	masculine
+203337	masculine
+203339	masculine
+203342	masculine
+203346	masculine
 203348	masculine
+203352	masculine
+203357	masculine
 203360	masculine
-203364	masculine
-203382	feminine
-203398	feminine
+203367	masculine
+203369	masculine
+203381	masculine
+203385	neuter
+203390	masculine
+203392	masculine
+masculine
+203399	masculine
 203404	masculine
+masculine
 203407	masculine
-203411	feminine
-masculine
-203417	feminine
-feminine
-203423	neuter
-203425	neuter
-masculine
+neuter
+203415	masculine
+203430	masculine
+203433	masculine
+203437	masculine
 203439	masculine
-203455	masculine
-203458	masculine
-203462	masculine
-203469	masculine
-feminine
+203441	masculine
+203445	masculine
+203447	masculine
+203450	masculine
+203454	masculine
 masculine
+203461	masculine
+203466	masculine
+203468	masculine
+203486	masculine
+203489	masculine
+203491	feminine
+203493	neuter
+203506	masculine
 masculine
-203477	masculine
-203480	neuter
-203485	masculine
-203502	neuter
-203513	neuter
-203515	feminine
-203517	masculine
-203527	masculine
+203510	neuter
+203521	masculine
+masculine
+203525	masculine
+203528	masculine
+203530	masculine
 203532	masculine
-203542	feminine
-203551	feminine
-203555	masculine
 masculine
-203559	masculine
-203563	masculine
-203566	feminine
-203573	masculine
-203585	masculine
+neuter
+masculine
+masculine
+203538	masculine
+masculine
+203543	masculine
+203545	masculine
+203548	masculine
+203560	masculine
+203564	masculine
+203581	feminine
+203596	feminine
 203602	masculine
+203605	masculine
 203609	feminine
-203615	feminine
-203619	masculine
-neuter
-203624	masculine
-203629	neuter
-203636	feminine
+masculine
+203614	feminine
 feminine
-203640	masculine
-203642	masculine
-203644	masculine
+203618	neuter
+203620	neuter
+masculine
+203633	masculine
+203648	masculine
+203651	masculine
+203655	masculine
+203662	masculine
+feminine
 masculine
 masculine
-203657	masculine
-203661	masculine
-203663	masculine
-masculine
-203668	masculine
-203670	neuter
-203672	masculine
-203683	masculine
-masculine
-masculine
-203690	masculine
-masculine
-203699	masculine
-203701	masculine
-203704	masculine
-203708	masculine
-203714	neuter
+203670	masculine
+203672	neuter
+203677	masculine
+203694	neuter
+203705	neuter
+203707	feminine
+203709	masculine
 203718	masculine
-203725	masculine
-203729	feminine
-203741	masculine
-203750	masculine
-203752	masculine
-203757	masculine
-203760	masculine
-203764	neuter
-203767	neuter
-203793	masculine
-203796	feminine
-203800	neuter
+203723	masculine
+203732	feminine
+203741	feminine
+203745	masculine
+masculine
+203749	masculine
+203753	masculine
+203756	feminine
+203763	masculine
+203772	masculine
+203787	masculine
+203793	feminine
+203799	feminine
+203803	masculine
+neuter
 203808	masculine
-203812	masculine
-203814	neuter
-203826	masculine
-203838	neuter
+203813	neuter
+203819	feminine
+feminine
+203823	masculine
+203825	masculine
+203827	masculine
 masculine
-203844	feminine
 masculine
-203852	feminine
+203840	masculine
+203844	masculine
+203846	masculine
+masculine
+203851	masculine
+203853	neuter
 203855	masculine
+203866	masculine
 masculine
-203859	masculine
-203867	masculine
-203871	masculine
-neuter
-203877	feminine
-203879	masculine
-203889	masculine
-203903	masculine
-203920	masculine
+masculine
+203873	masculine
+masculine
+203882	masculine
+203884	masculine
+203887	masculine
+203891	masculine
+203896	neuter
+203900	masculine
+203906	masculine
+203910	feminine
 203922	masculine
-203930	masculine
-masculine
+203931	masculine
 203933	masculine
-203943	masculine
-203954	masculine
-203960	masculine
-203967	masculine
-203974	masculine
-203998	masculine
-204010	masculine
-204014	masculine
-204016	masculine
-204019	masculine
-204024	neuter
-204028	masculine
-204032	feminine
+203938	masculine
+203941	masculine
+203945	neuter
+203948	neuter
+203973	masculine
+203976	feminine
+203980	neuter
+203988	masculine
+203992	masculine
+203994	neuter
+204005	masculine
+204016	neuter
+masculine
+204022	feminine
+masculine
+204030	feminine
+204033	masculine
+masculine
 204037	masculine
-204040	masculine
 204045	masculine
-204056	neuter
-204061	masculine
-204064	masculine
-204069	neuter
-204071	masculine
-204077	masculine
-204092	masculine
-masculine
-204098	masculine
-204102	feminine
+204049	masculine
+neuter
+204055	feminine
+204057	masculine
+204066	masculine
+204080	masculine
+204097	masculine
+204099	masculine
 204107	masculine
-204109	masculine
-204112	masculine
-204137	feminine
-204139	feminine
-204144	masculine
-204147	feminine
-204166	feminine
-neuter
-feminine
-204171	feminine
+masculine
+204110	masculine
+204119	masculine
+204130	masculine
+204136	masculine
+204143	masculine
+204150	masculine
 204174	masculine
-neuter
-masculine
-204183	feminine
 204185	masculine
-204190	feminine
-204193	feminine
-204200	masculine
+204189	masculine
+204191	masculine
+204194	masculine
+204199	neuter
+204203	masculine
 204207	feminine
-204211	feminine
-204214	feminine
-204224	masculine
-204229	masculine
+204212	masculine
+204215	masculine
+204220	masculine
+204231	neuter
+204236	masculine
+204239	masculine
+204244	neuter
+204246	masculine
+204251	masculine
+204266	masculine
 masculine
-204232	masculine
-204238	masculine
-204258	neuter
-204261	feminine
-204267	neuter
-204269	masculine
-204273	masculine
+204272	masculine
 204276	feminine
-204289	neuter
-204299	masculine
-204303	masculine
-204307	feminine
-feminine
-204317	feminine
-204332	feminine
-204334	feminine
-204377	feminine
-204381	masculine
-204389	neuter
-204414	feminine
-feminine
-204418	feminine
+204281	masculine
+204283	masculine
+204286	masculine
+204309	feminine
+204311	feminine
+204316	masculine
+204318	feminine
+204336	feminine
 neuter
 feminine
-204424	feminine
-204458	neuter
-204461	neuter
-204470	masculine
+204341	feminine
+204343	masculine
+neuter
 masculine
-204474	neuter
-204478	masculine
-204483	masculine
-204487	masculine
+204352	feminine
+204354	masculine
+204358	feminine
+204361	feminine
+204368	masculine
+204375	feminine
+204378	feminine
+204381	feminine
+204391	masculine
+204396	masculine
 masculine
-204490	masculine
-204492	masculine
-204494	masculine
-204500	neuter
-204515	feminine
-204530	feminine
-204533	masculine
+204399	masculine
+204405	masculine
+204425	neuter
+204428	feminine
+204433	neuter
+204435	masculine
+204439	masculine
+204442	feminine
+204455	neuter
+204465	masculine
+204469	masculine
+204473	feminine
+feminine
+204483	feminine
+204496	feminine
+204498	feminine
+204539	feminine
 204543	masculine
-204549	feminine
-204562	neuter
-204568	masculine
-204570	feminine
-204578	masculine
-204588	masculine
-204596	neuter
-204599	neuter
-204601	masculine
+204551	neuter
+204576	feminine
+feminine
+204580	feminine
 neuter
-204604	masculine
+feminine
+204586	feminine
+204619	neuter
+204622	neuter
+204631	masculine
 masculine
-204610	masculine
-204622	masculine
-204628	masculine
+204634	neuter
+204638	masculine
+204642	masculine
+204646	masculine
 masculine
-masculine
-204644	masculine
-204648	masculine
+204649	masculine
+204651	masculine
+204653	masculine
+204658	neuter
+204673	feminine
+204688	feminine
+204691	masculine
+204701	masculine
+204707	feminine
+204719	neuter
+204725	masculine
+204727	feminine
+204735	masculine
+204744	masculine
+204752	neuter
+204755	neuter
+204757	masculine
 neuter
-204667	masculine
+204760	masculine
 masculine
-204679	feminine
-204699	feminine
-204707	masculine
-204711	neuter
-204721	masculine
-204732	masculine
-204734	masculine
-204744	neuter
-204767	feminine
-204774	masculine
-204786	neuter
-204804	neuter
-204810	feminine
-204813	masculine
-204815	masculine
-204818	masculine
-204820	masculine
-204839	feminine
-204841	feminine
-204844	masculine
+204766	masculine
+204778	masculine
+204784	masculine
+masculine
+masculine
+204800	masculine
+204804	masculine
+neuter
+204823	masculine
+masculine
+204833	feminine
 204853	feminine
-masculine
-feminine
-feminine
-204862	masculine
-204868	feminine
-204877	masculine
-204880	masculine
+204861	masculine
+204865	neuter
+204874	masculine
 204885	masculine
-masculine
-204890	masculine
-204897	masculine
-204899	masculine
-204909	masculine
-204913	masculine
-204919	masculine
-204930	feminine
-204939	masculine
-204945	neuter
-204947	neuter
-204950	neuter
-neuter
-204953	neuter
-204963	masculine
+204887	masculine
+204897	neuter
+204919	feminine
+204926	masculine
+204938	neuter
+204955	neuter
+204961	feminine
+204964	masculine
 204966	masculine
-204968	feminine
-204970	masculine
-204973	feminine
-204997	neuter
-neuter
-205004	masculine
-205015	neuter
-205018	masculine
-205024	neuter
+204969	masculine
+204971	masculine
+204989	feminine
+204991	feminine
+204994	masculine
+205003	feminine
 masculine
-205031	masculine
-205034	neuter
-205043	neuter
 feminine
-205056	neuter
+feminine
+205011	masculine
+205017	feminine
+205026	masculine
+205029	masculine
+205034	masculine
+masculine
+205039	masculine
+205046	masculine
+205048	masculine
+205058	masculine
+205062	masculine
 205068	masculine
-205073	masculine
+205077	feminine
+205085	masculine
+205091	neuter
+205093	neuter
+205096	neuter
 neuter
-205079	masculine
-205094	masculine
-205107	neuter
-feminine
-neuter
+205099	neuter
+205109	masculine
+205112	masculine
 205114	feminine
-205116	neuter
-205127	masculine
-205130	masculine
+205116	masculine
+205119	feminine
+205140	neuter
 neuter
+205147	masculine
+205158	neuter
+205161	masculine
+205167	neuter
 masculine
-205139	masculine
-205148	masculine
-205155	masculine
 205174	masculine
 205177	neuter
-205183	neuter
-205196	masculine
-205209	neuter
-205231	neuter
-205235	masculine
-masculine
-205244	masculine
-205257	neuter
-205265	feminine
-205270	masculine
-205280	feminine
+205186	neuter
 feminine
-205284	feminine
-205291	feminine
-feminine
-205296	feminine
-205302	feminine
-205308	feminine
-205315	masculine
-205338	neuter
-feminine
-205359	masculine
-masculine
-205366	masculine
-205370	masculine
-205380	masculine
-205382	masculine
-205390	masculine
-205398	masculine
-205401	masculine
-masculine
-205410	masculine
-205413	masculine
-205418	masculine
-masculine
-205421	masculine
-masculine
-205426	masculine
-masculine
-205435	masculine
-masculine
-205444	neuter
+205199	neuter
+205210	masculine
+205215	masculine
 neuter
+205221	masculine
+205235	masculine
+205247	neuter
+feminine
+neuter
+205254	feminine
+205256	neuter
+205267	masculine
+205270	masculine
+neuter
+masculine
+205279	masculine
+205288	masculine
+205295	masculine
+205314	masculine
+205317	neuter
+205323	neuter
+205336	masculine
+205348	neuter
+205370	neuter
+205374	masculine
+masculine
+205383	masculine
+205396	neuter
+205404	feminine
+205409	masculine
+205418	feminine
+feminine
+205422	feminine
+205429	feminine
+feminine
+205434	feminine
+205440	feminine
+205446	feminine
 205453	masculine
-205460	neuter
-205475	masculine
-205480	neuter
-205482	masculine
-205491	masculine
-205502	masculine
-205520	masculine
-205524	masculine
-205526	masculine
-205531	masculine
-205537	masculine
-205539	masculine
-205559	masculine
-205572	masculine
-205579	feminine
-205610	masculine
-205614	masculine
-205621	feminine
-205632	masculine
-205645	neuter
-205660	neuter
+205475	neuter
+feminine
+205494	masculine
+masculine
+205501	masculine
+205505	masculine
+205515	masculine
+205517	masculine
+205525	masculine
+205533	masculine
+205536	masculine
+masculine
+205544	masculine
+205547	masculine
+205552	masculine
+masculine
+205555	masculine
+masculine
+205560	masculine
+masculine
+205569	masculine
+masculine
+205577	neuter
+neuter
+205586	masculine
+205592	neuter
+205607	masculine
+205611	neuter
+205613	masculine
+205622	masculine
+205633	masculine
+205651	masculine
+205655	masculine
+205657	masculine
+205662	masculine
 205668	masculine
 205670	masculine
-neuter
-205674	masculine
-205677	masculine
-205679	masculine
-205683	masculine
-205685	masculine
-neuter
-205696	masculine
-neuter
-205699	masculine
-205705	neuter
-205710	masculine
-205712	masculine
-masculine
-neuter
-205719	masculine
-205722	masculine
-205731	masculine
-205735	masculine
-masculine
+205690	masculine
+205703	masculine
+205709	feminine
+205740	masculine
 205744	masculine
-205748	masculine
-masculine
-205754	neuter
+205751	feminine
 205762	masculine
-205765	masculine
-205771	masculine
-205801	masculine
-205808	masculine
-205837	masculine
-205839	masculine
-205852	feminine
-205870	masculine
-206026	masculine
-206040	masculine
-206046	neuter
-206052	feminine
+205775	neuter
+205790	neuter
+205798	masculine
+205800	masculine
+neuter
+205804	masculine
+205807	masculine
+205809	masculine
+205813	masculine
+205815	masculine
+neuter
+205826	masculine
+neuter
+205829	masculine
+205835	neuter
+205840	masculine
+205842	masculine
+masculine
+neuter
+205849	masculine
+205852	masculine
+205860	masculine
+205864	masculine
+masculine
+205873	masculine
+205877	masculine
+masculine
+205883	neuter
+205890	masculine
+205893	masculine
+205899	masculine
+205929	masculine
+205936	masculine
+205964	masculine
+205966	masculine
+205979	feminine
+205995	masculine
+206151	masculine
+206165	masculine
+206171	neuter
+206176	feminine
 feminine
-206057	masculine
-206069	masculine
-206082	masculine
+206181	masculine
+206192	masculine
+206205	masculine
 masculine
-206085	masculine
-206094	masculine
-206111	masculine
-206114	feminine
-206122	feminine
-206124	masculine
-206127	masculine
-206140	masculine
-206150	masculine
-206157	masculine
-206183	masculine
-206185	masculine
-206195	masculine
-206211	feminine
-206218	masculine
-206223	masculine
-206235	neuter
-masculine
-206248	masculine
-206253	masculine
-206266	masculine
+206208	masculine
+206217	masculine
+206233	masculine
+206236	feminine
+206244	feminine
+206246	masculine
+206249	masculine
+206262	masculine
 206272	masculine
-feminine
-206275	masculine
-feminine
 206278	masculine
-206284	masculine
-206286	masculine
-206296	masculine
-206311	masculine
-206313	masculine
-206321	masculine
-206329	masculine
+206303	masculine
+206305	masculine
+206315	masculine
+206331	feminine
 206338	masculine
-206340	masculine
-neuter
-206343	neuter
-206357	masculine
-206394	masculine
-206420	masculine
-206423	masculine
-neuter
-206427	masculine
-206429	masculine
-206434	masculine
-206445	masculine
+206343	masculine
+206354	neuter
 masculine
-206448	masculine
-206460	masculine
-206479	masculine
-206488	neuter
-206498	masculine
-206505	neuter
-206507	masculine
-206514	neuter
-masculine
-206521	neuter
-neuter
-masculine
-206526	neuter
-206531	masculine
-masculine
-206553	masculine
-206568	masculine
-206571	masculine
-206577	feminine
-206580	feminine
-206582	masculine
-masculine
-206587	masculine
-206589	masculine
-206592	masculine
-206594	masculine
-206599	masculine
-206601	masculine
-206607	neuter
-206609	neuter
-206617	masculine
-206620	neuter
-206625	masculine
-206628	feminine
-206630	feminine
-masculine
-206639	masculine
-206645	masculine
-206649	masculine
-206677	masculine
-206684	masculine
-206692	neuter
-206698	masculine
-206701	masculine
-206707	neuter
-206709	masculine
-206711	masculine
-206715	neuter
-masculine
-206726	masculine
-206740	masculine
-masculine
-206743	masculine
-206746	masculine
-neuter
-206756	neuter
-masculine
-206772	masculine
-206774	masculine
-206783	neuter
-masculine
-206790	masculine
-206796	masculine
-neuter
-206810	feminine
-206820	masculine
-206822	masculine
-206834	masculine
-206837	masculine
-206841	masculine
-neuter
-206844	masculine
-206849	masculine
-206857	masculine
-206860	masculine
-206863	masculine
-masculine
-masculine
-206872	masculine
-206875	masculine
-masculine
-206885	masculine
-206887	masculine
-masculine
-206892	masculine
-206894	masculine
-206903	masculine
-206922	masculine
-206928	masculine
-206935	masculine
-206942	masculine
-206955	masculine
-206958	masculine
-masculine
-206962	masculine
-206967	masculine
-206974	masculine
+206367	masculine
+206372	masculine
+206384	masculine
+206389	masculine
 feminine
+206392	masculine
+feminine
+206395	masculine
+206401	masculine
+206403	masculine
+206413	masculine
+206428	masculine
+206430	masculine
+206438	masculine
+206446	masculine
+206455	masculine
+206457	masculine
+neuter
+206460	neuter
+206474	masculine
+206509	masculine
+206535	masculine
+206538	masculine
+neuter
+206542	masculine
+206544	masculine
+206549	masculine
+206559	masculine
+masculine
+206562	masculine
+206574	masculine
+206593	masculine
+206600	neuter
+206609	masculine
+206616	neuter
+206618	masculine
+206625	neuter
+masculine
+206632	neuter
+neuter
+masculine
+206637	neuter
+206642	masculine
+masculine
+206664	masculine
+206679	masculine
+206682	masculine
+206688	feminine
+206691	feminine
+206693	masculine
+masculine
+206698	masculine
+206700	masculine
+206703	masculine
+206705	masculine
+206710	masculine
+206712	masculine
+206718	neuter
+206720	neuter
+206728	masculine
+206731	neuter
+206736	masculine
+206738	feminine
+206740	feminine
+masculine
+206749	masculine
+206755	masculine
+206759	masculine
+206787	masculine
+206794	masculine
+206802	neuter
+206808	masculine
+206811	masculine
+206816	neuter
+206818	masculine
+206820	masculine
+206824	neuter
+masculine
+206834	masculine
+206848	masculine
+masculine
+206851	masculine
+206854	masculine
+neuter
+206864	neuter
+masculine
+206880	masculine
+206882	masculine
+206891	neuter
+masculine
+206898	masculine
+206904	masculine
+neuter
+206917	feminine
+206926	masculine
+206928	masculine
+206939	masculine
+206942	masculine
+206946	masculine
+neuter
+206949	masculine
+206954	masculine
+206962	masculine
+206965	masculine
+206968	masculine
+masculine
+masculine
 206977	masculine
 206980	masculine
-206986	masculine
-206994	masculine
-206998	masculine
-207010	masculine
 masculine
-207014	masculine
-207016	feminine
-207018	masculine
-207020	feminine
-207026	masculine
-207031	masculine
-207035	neuter
-207041	neuter
-207043	neuter
-207062	feminine
-207067	feminine
-207069	masculine
-207075	masculine
-207084	masculine
-207086	masculine
-207093	masculine
-207096	feminine
-207098	masculine
-207105	masculine
+206990	masculine
+206992	masculine
 masculine
-207109	neuter
-207118	neuter
+206997	masculine
+206999	masculine
+207008	masculine
+207027	masculine
+207033	masculine
+207040	masculine
+207046	masculine
+207059	masculine
+207062	masculine
+masculine
+207065	masculine
+207070	masculine
+207077	masculine
+feminine
+207080	masculine
+207083	masculine
+207089	masculine
+207097	masculine
+207101	masculine
+207113	masculine
+masculine
+207116	masculine
+207118	feminine
+masculine
+207121	feminine
+207127	masculine
+207132	masculine
+207136	neuter
+207141	neuter
+207143	neuter
+207162	feminine
+207167	feminine
+207169	masculine
+207175	masculine
+207184	masculine
+207186	masculine
+207193	masculine
+207196	feminine
+207198	masculine
+207205	masculine
+masculine
+207209	neuter
+207218	neuter
 masculine
 masculine
-207125	masculine
-207129	masculine
+207225	masculine
+207229	masculine
 neuter
 masculine
-207133	masculine
-207137	masculine
+207233	masculine
+207237	masculine
 masculine
-207149	masculine
-207162	masculine
-207171	masculine
-207178	masculine
-207181	masculine
-207185	masculine
-207187	masculine
-207189	masculine
-207198	neuter
-207200	feminine
-207219	masculine
-207227	feminine
-207241	masculine
-neuter
-207245	masculine
-207265	masculine
+207248	masculine
+207261	masculine
+207270	masculine
+207277	masculine
 207280	masculine
-207289	neuter
-207292	masculine
+207284	masculine
+207286	masculine
+207288	masculine
+207296	neuter
+207298	feminine
+207317	masculine
+207325	feminine
+207339	masculine
+neuter
+207343	masculine
+207363	masculine
+207378	masculine
+207387	neuter
+207389	masculine
 masculine
 masculine
-207296	masculine
-207300	masculine
-207306	masculine
-207314	masculine
-207320	neuter
-207322	neuter
-207327	masculine
-207334	neuter
-207336	masculine
-207342	masculine
-207353	masculine
-207359	masculine
-207369	masculine
-207381	masculine
-207388	masculine
-207396	feminine
-207401	masculine
-207412	masculine
-masculine
-207422	feminine
-masculine
+207393	masculine
+207397	masculine
+207403	masculine
+207411	masculine
+207417	neuter
+207419	neuter
+207424	masculine
+207430	neuter
 207432	masculine
-207445	feminine
-207450	masculine
-207453	masculine
-207457	masculine
-207464	masculine
-207467	feminine
-207471	neuter
-207480	masculine
-207494	feminine
-207499	masculine
-207503	masculine
-207508	masculine
-207511	masculine
-207526	masculine
+207438	masculine
+207449	masculine
+207455	masculine
+207465	masculine
+207477	masculine
+207484	masculine
+207492	feminine
+207495	masculine
+207506	masculine
 masculine
-207533	masculine
-207535	masculine
-207537	masculine
-207563	masculine
-207567	masculine
+207516	feminine
+masculine
+207526	masculine
+207539	feminine
+207544	masculine
+207547	masculine
+207551	masculine
+207558	masculine
+207561	feminine
+207565	neuter
 207574	masculine
-207584	masculine
 207587	feminine
 207592	masculine
-207594	masculine
+207595	masculine
+207599	masculine
+207602	masculine
+207617	masculine
 masculine
-207603	masculine
-207606	feminine
-207611	masculine
-masculine
-207616	masculine
-masculine
-207622	masculine
-207640	neuter
+207623	masculine
+207625	masculine
+207627	masculine
+207652	masculine
 207656	masculine
-207676	masculine
+207663	masculine
+207672	masculine
+207675	feminine
+207680	masculine
 207682	masculine
-207707	masculine
-207714	masculine
-207717	masculine
-207721	masculine
-207723	masculine
-207732	masculine
-207740	masculine
-207745	masculine
-207757	masculine
-207763	masculine
-207771	masculine
 masculine
-207779	masculine
-207794	masculine
-207802	masculine
-207817	neuter
+207690	masculine
+207693	feminine
+207698	masculine
 masculine
-207823	masculine
-207828	masculine
+207703	masculine
 masculine
-207835	masculine
+207708	masculine
+207726	neuter
+207741	masculine
+207761	masculine
+207766	masculine
+207790	masculine
+207796	masculine
+207799	masculine
+207803	masculine
+207805	masculine
+207814	masculine
+207822	masculine
+207827	masculine
 207839	masculine
-207862	neuter
-neuter
-neuter
-207877	masculine
+207844	masculine
+207852	masculine
+masculine
+207859	masculine
+207872	masculine
 207879	masculine
+207894	neuter
 masculine
-207882	masculine
-207888	masculine
-207892	masculine
-207899	neuter
-207924	masculine
-207933	masculine
-207940	masculine
+207900	masculine
+207905	masculine
 masculine
-207943	neuter
-207968	neuter
-207980	neuter
-207983	feminine
-208007	neuter
-208011	masculine
+207912	masculine
+207916	masculine
+207939	neuter
+neuter
+neuter
+207954	masculine
+207956	masculine
 masculine
-208016	neuter
-208019	masculine
-208022	masculine
-208026	masculine
+207959	masculine
+207965	masculine
+207969	masculine
+207976	neuter
+208001	masculine
+208010	masculine
+208017	masculine
 masculine
-208030	masculine
-208032	masculine
-masculine
-208037	masculine
-feminine
-masculine
-208045	masculine
-208049	feminine
-208051	feminine
+208020	neuter
+208045	neuter
+208057	neuter
 208060	feminine
-208064	feminine
-208066	masculine
-208069	masculine
+208083	neuter
+208087	masculine
 masculine
-208073	masculine
-feminine
-208078	feminine
-208082	masculine
-208090	neuter
-208107	masculine
-208110	masculine
+208092	neuter
+208095	masculine
+208098	masculine
+208102	masculine
+masculine
+208106	masculine
+208108	masculine
+masculine
 208112	masculine
+feminine
 masculine
-masculine
-208122	masculine
-masculine
-208125	masculine
-208129	masculine
-208131	masculine
-208135	masculine
-208137	masculine
+208120	masculine
+208123	feminine
+208125	feminine
+208134	feminine
+208138	feminine
 208140	masculine
-208142	masculine
-208144	neuter
-208152	masculine
-208162	masculine
-208164	masculine
-208168	masculine
-208170	masculine
+208143	masculine
+masculine
+208147	masculine
+feminine
+208152	feminine
+208156	masculine
+208164	neuter
+208180	masculine
+208183	masculine
+208185	masculine
 masculine
 masculine
-208177	masculine
-208186	masculine
-208192	masculine
+208195	masculine
+masculine
+208198	masculine
 208202	masculine
-masculine
-208205	masculine
+208204	masculine
+208208	masculine
 208210	masculine
-208217	masculine
-208227	neuter
-208230	masculine
-208232	neuter
+208212	masculine
+208214	masculine
+208216	neuter
+208224	masculine
+208233	masculine
 208235	masculine
-208237	masculine
-208240	masculine
+208239	masculine
+208241	masculine
 masculine
-208251	masculine
-208254	masculine
+masculine
+208248	masculine
 208257	masculine
-208266	feminine
-feminine
-208270	masculine
+208263	masculine
+208273	masculine
+masculine
+208276	masculine
+208281	masculine
 208287	masculine
-208293	feminine
-208295	feminine
-208303	masculine
-feminine
-208310	feminine
-208315	masculine
-208319	masculine
+208296	neuter
+208299	masculine
+208301	neuter
+208304	masculine
+208306	masculine
+208309	masculine
+masculine
+208320	masculine
 208323	masculine
-208336	masculine
-208341	masculine
+208326	masculine
+208334	feminine
+feminine
+208338	masculine
+208355	masculine
+208361	feminine
+208363	feminine
+208371	masculine
+feminine
+208378	feminine
+208383	masculine
+208387	masculine
+208391	masculine
+208404	masculine
+208409	masculine
 masculine
-208346	masculine
-208373	masculine
-208379	masculine
-208388	masculine
-208392	masculine
-208394	masculine
-208396	masculine
-208406	masculine
-208410	masculine
-208412	masculine
-208418	masculine
-208428	masculine
-208430	masculine
+208414	masculine
+208441	masculine
+208447	masculine
+208456	masculine
+208460	masculine
+208462	masculine
+208464	masculine
+208474	masculine
+208478	masculine
+208480	masculine
+208486	masculine
+208496	masculine
+208498	masculine
 masculine
-208433	masculine
+208501	masculine
 neuter
-208438	masculine
-208440	masculine
-208442	masculine
-208446	masculine
-208448	masculine
-208450	masculine
-208453	masculine
-208455	masculine
-208459	masculine
-208469	neuter
-208476	masculine
-208478	neuter
-208484	masculine
-208491	feminine
-masculine
-208497	neuter
-208500	masculine
+208505	masculine
 208507	masculine
-208517	masculine
-208524	masculine
-208527	masculine
-masculine
-208537	masculine
-masculine
-208544	masculine
+208509	masculine
+208512	masculine
+208514	masculine
+208516	masculine
+208519	masculine
+208521	masculine
+208525	masculine
+208534	neuter
+208541	masculine
+208543	neuter
 208549	masculine
-208563	masculine
-208565	neuter
-208573	neuter
-208575	masculine
+208556	feminine
 masculine
-208581	neuter
-208583	neuter
+208562	neuter
+208565	masculine
+208571	masculine
+208581	masculine
+208588	masculine
+208591	masculine
+masculine
+208601	masculine
+masculine
+208608	masculine
+208613	masculine
+208627	masculine
+208629	neuter
+208637	neuter
+208639	masculine
+masculine
+208644	neuter
+208646	neuter
 neuter
 neuter
-208602	masculine
+208665	masculine
 masculine
-208605	masculine
+208668	masculine
 masculine
-208609	neuter
-208616	masculine
-208618	masculine
-208640	masculine
-208646	masculine
-208655	feminine
-208659	feminine
-208662	feminine
-208670	feminine
-208673	feminine
-208678	feminine
-208697	masculine
-208701	masculine
-masculine
-208705	masculine
+208672	neuter
+208679	masculine
+208681	masculine
+208702	masculine
 208708	masculine
-208711	masculine
-208717	feminine
-208719	masculine
-208721	feminine
-208724	masculine
-208728	masculine
-208731	neuter
-208734	masculine
-208736	masculine
-208753	masculine
-masculine
-208756	masculine
-208760	neuter
+208716	feminine
+208720	feminine
+208723	feminine
+208731	feminine
+208734	feminine
+208739	feminine
+208758	masculine
 208762	masculine
 masculine
+208766	masculine
 masculine
-208768	masculine
-208771	masculine
-208774	masculine
-208778	masculine
-208791	neuter
-208797	feminine
-208807	neuter
-208811	feminine
-208814	feminine
-208818	feminine
-208821	neuter
-208826	feminine
-208828	neuter
-208842	neuter
+208770	masculine
+208775	feminine
+208777	masculine
+208779	feminine
+208782	masculine
+208786	masculine
+208789	neuter
+208791	masculine
+208793	masculine
+208807	masculine
 masculine
-208845	neuter
-208847	neuter
-208851	feminine
-208857	masculine
-208860	masculine
+208810	masculine
+208814	neuter
+208816	masculine
 masculine
-208863	masculine
-208881	masculine
-208899	feminine
-208908	feminine
+masculine
+208822	masculine
+208825	masculine
+208828	masculine
+208832	masculine
+208844	neuter
+208850	feminine
+208860	neuter
+208864	feminine
+208867	feminine
+208871	feminine
+208874	neuter
+208879	feminine
+208881	neuter
+208895	neuter
+masculine
+208898	neuter
+208900	neuter
+208904	feminine
+208910	masculine
+208913	masculine
+masculine
+208916	masculine
+208934	masculine
+208951	feminine
+208959	feminine
 feminine
-208922	feminine
-208924	masculine
-208926	neuter
-feminine
-208929	masculine
-208935	masculine
-208940	masculine
-208947	masculine
-neuter
-208960	neuter
-208962	neuter
-208967	neuter
 208972	feminine
-208974	neuter
-208980	feminine
-208983	neuter
-208985	neuter
-208992	neuter
-208995	neuter
-masculine
-208998	masculine
-neuter
-209004	masculine
-209007	feminine
-209011	masculine
-209028	masculine
-209032	masculine
-209037	feminine
-209050	masculine
-209063	masculine
-209069	masculine
-209076	masculine
+208974	masculine
+208976	neuter
 feminine
-209080	masculine
-209091	neuter
 masculine
-209094	masculine
-209101	masculine
-209111	masculine
-209113	masculine
-209117	masculine
-209124	masculine
-209126	masculine
-masculine
-209129	masculine
+208984	masculine
+208989	masculine
+208996	masculine
 neuter
-209138	masculine
-209145	neuter
-209147	neuter
-209151	neuter
-209162	masculine
-209166	masculine
-209168	masculine
-209172	neuter
-209189	masculine
-209194	masculine
-209204	masculine
+209009	neuter
+209011	neuter
+209016	neuter
+209021	feminine
+209023	neuter
+209029	feminine
+209032	neuter
+209034	neuter
+209041	neuter
+209044	neuter
+masculine
+209047	masculine
+neuter
+209053	masculine
+209056	feminine
+209060	masculine
+209077	masculine
+209081	masculine
+209086	feminine
+209098	masculine
+209110	masculine
+209116	masculine
+209123	masculine
+feminine
+209127	masculine
+209138	neuter
+masculine
+209141	masculine
+209148	masculine
+209158	masculine
+209160	masculine
+209164	masculine
+209171	masculine
+209173	masculine
+masculine
+209176	masculine
+neuter
+209185	masculine
+209191	neuter
+209193	neuter
+209196	neuter
 209206	masculine
-209208	masculine
-209215	masculine
-209229	masculine
-209246	masculine
+209210	masculine
+209212	masculine
+209216	neuter
+209233	masculine
+209238	masculine
 209248	masculine
-209260	masculine
-209263	masculine
-masculine
-209267	masculine
-masculine
-209270	masculine
-209272	masculine
-209284	feminine
-209287	masculine
+209250	masculine
+209252	masculine
+209259	masculine
+209273	masculine
+209289	masculine
 209291	masculine
-209294	masculine
-209297	masculine
-209299	masculine
-209310	masculine
-209318	feminine
-209322	masculine
-209324	masculine
-209333	masculine
-neuter
-209339	neuter
-209348	masculine
-209351	masculine
-209353	masculine
-209358	neuter
-209382	masculine
-209387	masculine
-209389	masculine
-209398	masculine
-209400	neuter
-209402	neuter
-209405	masculine
-209408	masculine
-209415	masculine
-209419	neuter
-209429	feminine
-209434	masculine
-209437	neuter
-209442	neuter
-neuter
-209461	masculine
-209463	masculine
-neuter
-209478	neuter
-209485	masculine
-209492	masculine
-209494	masculine
-209503	masculine
+209303	masculine
+209306	masculine
 masculine
-209507	masculine
-209510	masculine
+masculine
+masculine
+209311	masculine
+209313	masculine
+209325	feminine
+209328	masculine
+209332	masculine
+209335	masculine
+209337	masculine
+209339	masculine
+209350	masculine
+209357	feminine
+209361	masculine
+209363	masculine
+209372	masculine
+neuter
+209378	neuter
+209387	masculine
+209390	masculine
+209392	masculine
+209396	neuter
+209420	masculine
+209425	masculine
+209427	masculine
+209436	masculine
+209438	neuter
+209440	neuter
+209442	masculine
+209445	masculine
+209452	masculine
+209456	neuter
+209466	feminine
+209471	masculine
+209474	neuter
+209479	neuter
+neuter
+209498	masculine
+209500	masculine
+neuter
+209515	neuter
 209522	masculine
-209524	masculine
-209529	masculine
+209528	masculine
+209530	masculine
 209539	masculine
 masculine
-209548	neuter
-209557	masculine
-neuter
+209543	masculine
+209546	masculine
+209558	masculine
 209560	masculine
-209568	masculine
-209572	masculine
+209565	masculine
+209574	masculine
 masculine
-209578	masculine
+209583	neuter
+209592	masculine
+neuter
+209595	masculine
+209602	masculine
+209606	masculine
+masculine
+209611	masculine
 neuter
 masculine
-209582	masculine
-209587	masculine
-209592	masculine
-209602	masculine
-209606	feminine
-209611	masculine
-209614	masculine
-209618	feminine
-209623	feminine
-209628	feminine
-209645	masculine
+209615	masculine
+209620	masculine
+209625	masculine
+209635	masculine
+209639	feminine
+209644	masculine
+209647	masculine
+209650	feminine
+209655	feminine
+209660	feminine
+209677	masculine
 masculine
-209648	masculine
-209650	masculine
-209653	masculine
-209665	masculine
-209669	feminine
-feminine
-209672	feminine
-209678	feminine
-209682	feminine
-masculine
-209687	masculine
+209680	masculine
+209682	masculine
+209685	masculine
 209696	masculine
-209699	feminine
+209700	feminine
 feminine
-209708	masculine
+209703	feminine
+209709	feminine
+209713	feminine
 masculine
-209711	masculine
-209714	masculine
-209725	masculine
+209718	masculine
 209727	masculine
-209731	neuter
-209735	masculine
+209730	feminine
+feminine
+209739	masculine
+masculine
 209742	masculine
+209745	masculine
+209755	masculine
 209757	masculine
-209759	feminine
+209760	neuter
+209764	masculine
+209771	masculine
+209786	masculine
+209788	feminine
 masculine
-209772	masculine
+209800	masculine
 masculine
-209776	masculine
-209778	masculine
-209782	masculine
-209795	feminine
-209802	masculine
-209805	masculine
+209804	masculine
+209806	masculine
+209810	masculine
+209823	feminine
+209830	masculine
+209833	masculine
 masculine
-209808	neuter
+209836	neuter
 masculine
-209813	masculine
-209821	feminine
-209825	masculine
-209838	neuter
-209844	feminine
-209846	feminine
-209848	masculine
-209850	neuter
-209868	masculine
-209872	masculine
-209884	masculine
-209897	neuter
-209904	masculine
+209841	masculine
+209849	feminine
+209853	masculine
+209866	neuter
+209872	feminine
+209874	feminine
+209876	masculine
+209878	neuter
+209894	masculine
+209898	masculine
 209910	masculine
-209912	masculine
-209921	masculine
-209923	masculine
-209926	masculine
-209932	neuter
+209923	neuter
+209930	masculine
 209936	masculine
 209938	masculine
-209941	masculine
+209947	masculine
+209949	masculine
+209952	masculine
+209957	neuter
+209961	masculine
+209963	masculine
+209966	masculine
 neuter
-209945	masculine
+209970	masculine
 masculine
-209951	feminine
+209976	feminine
 feminine
-209955	masculine
-209957	masculine
-209959	masculine
+209980	masculine
+209982	masculine
+209984	masculine
 masculine
-209962	masculine
-209969	masculine
-209975	masculine
-209979	masculine
-209985	masculine
+209987	masculine
 209994	masculine
+210000	masculine
 210004	masculine
-210007	masculine
-210014	neuter
-210021	masculine
-210028	neuter
-210032	masculine
-210039	masculine
-210048	masculine
+210009	masculine
+210018	masculine
+210028	masculine
+210031	masculine
+210037	neuter
+210044	masculine
+210051	neuter
+210055	masculine
+210062	masculine
+210071	masculine
 masculine
-210057	masculine
-210061	masculine
-210074	masculine
-210078	neuter
+210080	masculine
+210084	masculine
+210097	masculine
+210101	neuter
 masculine
-210086	masculine
-210089	masculine
-210093	masculine
-masculine
-masculine
-210100	masculine
-210102	masculine
-210107	masculine
 210109	masculine
+210112	masculine
+210116	masculine
 masculine
-210119	masculine
-210122	masculine
-210126	masculine
-210128	masculine
-210133	masculine
-210135	masculine
 masculine
-210138	masculine
-210140	neuter
+210123	masculine
+210125	masculine
+210130	masculine
+210132	masculine
 masculine
-210147	neuter
-210166	masculine
-210171	masculine
-210180	masculine
-210187	feminine
+210142	masculine
+210145	masculine
+210149	masculine
+210151	masculine
+210156	masculine
+210158	masculine
 masculine
-210194	masculine
-210196	feminine
-neuter
-210200	masculine
+210161	masculine
+210163	neuter
+masculine
+210170	neuter
+210188	masculine
+210193	masculine
 210202	masculine
-210205	masculine
-210210	masculine
-210218	masculine
-210241	masculine
+210209	feminine
 masculine
-210245	masculine
-210259	masculine
-210271	masculine
-210276	neuter
-210280	masculine
+210216	masculine
+210218	feminine
+neuter
+210222	masculine
+210224	masculine
+210227	masculine
+210231	masculine
+210238	masculine
+210260	masculine
 masculine
-210286	masculine
+210264	masculine
+210278	masculine
+210290	masculine
+210295	neuter
+210299	masculine
 masculine
-210291	masculine
+210305	masculine
 masculine
-210298	feminine
-210309	masculine
+210310	masculine
 masculine
-210320	masculine
-masculine
+210316	feminine
 210327	masculine
-210333	masculine
+masculine
+210338	masculine
+masculine
+210344	masculine
+210350	masculine
 neuter
-210343	feminine
-210346	feminine
+210359	feminine
+210362	feminine
 masculine
-210349	feminine
+210365	feminine
 masculine
-210352	masculine
-neuter
-210355	neuter
-210357	masculine
-masculine
-210360	feminine
-210363	masculine
 210368	masculine
-210372	feminine
+neuter
+210371	neuter
+210373	masculine
+masculine
 210376	feminine
+210379	masculine
+210384	masculine
+210388	feminine
+210392	feminine
 masculine
-210382	masculine
+210398	masculine
 masculine
-210390	masculine
+210406	masculine
 masculine
-210393	masculine
-210396	masculine
-210402	neuter
-210410	masculine
+210409	masculine
+210412	masculine
+210418	neuter
+210424	masculine
 masculine
-210415	masculine
-210423	masculine
+210429	masculine
+210437	masculine
 masculine
-210432	masculine
-210437	neuter
-210439	masculine
-210445	masculine
+210446	masculine
 210451	neuter
+210453	masculine
+210459	masculine
+210465	neuter
 masculine
-210459	neuter
-210463	masculine
-210471	feminine
-210485	masculine
+210473	neuter
+210477	masculine
+210484	feminine
+210497	masculine
 masculine
-210488	masculine
-210503	masculine
-210508	masculine
-210514	masculine
-210516	masculine
-210519	neuter
-210541	masculine
-210552	neuter
-210556	masculine
-210566	masculine
-210569	masculine
-210574	masculine
+210500	masculine
+210515	masculine
+210520	masculine
+210525	masculine
+210527	masculine
+210530	neuter
+210552	masculine
+210563	neuter
+210567	masculine
+210577	masculine
+210580	masculine
+210585	masculine
 neuter
-210577	neuter
-210581	masculine
-masculine
+210588	neuter
 210592	masculine
-210596	masculine
-210599	masculine
-210602	masculine
 masculine
-210605	masculine
-masculine
+210603	masculine
+210607	masculine
 210610	masculine
-210612	masculine
+210613	masculine
+masculine
 210616	masculine
+masculine
+210621	masculine
+210623	masculine
+210627	masculine
 neuter
-210620	masculine
-210628	masculine
-210632	masculine
-210648	masculine
-210655	masculine
-210659	masculine
+210631	masculine
+210639	masculine
+210642	masculine
+210658	masculine
 210665	masculine
 210669	masculine
 210675	masculine
-210682	masculine
-210686	neuter
+210679	masculine
+210685	masculine
 210692	masculine
+210696	neuter
+210702	masculine
 masculine
-210696	masculine
-210703	masculine
+210706	masculine
+210712	masculine
 masculine
-210708	masculine
-210716	masculine
-210721	masculine
-210727	feminine
-210742	masculine
-210748	masculine
-210754	masculine
+210717	masculine
+210725	masculine
+210730	masculine
+210736	feminine
+210751	masculine
+210757	masculine
 210763	masculine
-210774	masculine
+210772	masculine
+210783	masculine
 neuter
-210788	masculine
-210790	masculine
-210794	masculine
 210797	masculine
-210809	masculine
-210820	masculine
+210799	masculine
+210803	masculine
+210806	masculine
+210818	masculine
 210828	masculine
-210831	masculine
-210838	masculine
-210848	masculine
-210854	neuter
-210856	feminine
-210858	neuter
-210860	masculine
-210869	neuter
-210871	feminine
-210898	masculine
-210917	neuter
-210926	masculine
-210941	masculine
-210950	masculine
-210960	neuter
-210969	neuter
-210973	neuter
-210980	feminine
+210836	masculine
+210839	masculine
+210846	masculine
+210856	masculine
+210861	neuter
+210863	feminine
+210865	neuter
+210867	masculine
+210875	neuter
+210877	feminine
+210903	masculine
+210921	neuter
+210930	masculine
+210944	masculine
+210953	masculine
+210963	neuter
+210972	neuter
+210976	neuter
 210983	feminine
-210992	feminine
-210998	masculine
-211004	neuter
-211012	feminine
-211018	masculine
-211023	masculine
-211029	masculine
-211031	masculine
-211037	masculine
+210986	feminine
+210995	feminine
+211001	masculine
+211007	neuter
+211015	feminine
+211021	masculine
+211026	masculine
+211032	masculine
+211034	masculine
+211040	masculine
 masculine
-211048	masculine
-211052	feminine
-211055	masculine
-211072	neuter
-211117	neuter
-211123	neuter
+211051	masculine
+211055	feminine
+211058	masculine
+211075	neuter
+211115	neuter
+211121	neuter
 masculine
-211130	feminine
-211133	neuter
+211127	feminine
+211130	neuter
+211137	masculine
 211140	masculine
-211144	masculine
-211152	masculine
+211147	masculine
+211155	masculine
 211160	masculine
 211165	masculine
-211171	masculine
-211174	masculine
+211168	masculine
 neuter
-211187	neuter
-211196	neuter
-211205	masculine
+211181	neuter
+211190	neuter
+211199	masculine
 masculine
 masculine
 masculine
 neuter
 masculine
-211213	masculine
-211219	neuter
-211223	masculine
-211225	masculine
-211256	masculine
-211259	masculine
-211263	neuter
-211267	masculine
-211269	masculine
-211271	masculine
-211276	masculine
-211279	masculine
-211289	masculine
-211291	masculine
+211207	masculine
+211213	neuter
+211217	masculine
+211219	masculine
+211250	masculine
+211253	masculine
+211257	neuter
+211261	masculine
+211263	masculine
+211265	masculine
+211270	masculine
+211273	masculine
+211283	masculine
+211285	masculine
+211288	masculine
+masculine
+211291	feminine
+masculine
 211294	masculine
 masculine
-211297	feminine
+211304	masculine
 masculine
-211300	masculine
-masculine
-211310	masculine
-masculine
+211313	masculine
+211315	masculine
 211319	masculine
-211321	masculine
-211325	masculine
-211329	masculine
-211333	masculine
+211323	masculine
+211327	masculine
+211331	masculine
+211335	masculine
 211337	masculine
-211341	masculine
-211343	masculine
-211348	masculine
-211352	masculine
-211356	masculine
-211364	masculine
-211367	neuter
-211382	masculine
-211385	masculine
-211388	masculine
-211393	masculine
-211404	masculine
+211342	masculine
+211346	masculine
+211350	masculine
+211358	masculine
+211360	neuter
+211375	masculine
+211378	masculine
+211381	masculine
+211386	masculine
+211397	masculine
 masculine
-211412	neuter
+211405	neuter
 feminine
-211415	masculine
+211408	masculine
+211412	feminine
+211415	feminine
+feminine
+feminine
 211419	feminine
-211423	feminine
-feminine
-feminine
-211427	feminine
-211440	feminine
-211444	masculine
+211432	feminine
+211435	masculine
+211447	feminine
+211451	masculine
+211454	feminine
 211456	feminine
-211460	masculine
-211463	feminine
-211468	feminine
 feminine
-211477	neuter
+211465	neuter
 feminine
-211483	feminine
-211486	feminine
-211491	masculine
-211501	masculine
-211512	masculine
-211518	masculine
-211543	masculine
-211557	masculine
-211561	neuter
-211564	masculine
+211471	feminine
+211474	feminine
+211479	masculine
+211489	masculine
+211500	masculine
+211504	masculine
+211528	masculine
+211542	masculine
+211546	neuter
+211549	masculine
 masculine
-211578	neuter
-211580	masculine
+211563	neuter
+211565	masculine
 masculine
-211583	masculine
-211588	masculine
-211603	masculine
-211613	masculine
+211568	masculine
+211572	masculine
+211587	masculine
+211596	masculine
 masculine
-211621	masculine
-211623	masculine
+211604	masculine
+211606	masculine
 masculine
-211648	masculine
-211651	masculine
+211629	masculine
+211632	masculine
+211635	masculine
+211644	masculine
+211646	masculine
+masculine
+211652	neuter
 211654	masculine
-211663	masculine
-211665	masculine
 masculine
-211671	neuter
+211659	masculine
+masculine
 211673	masculine
 masculine
-211679	masculine
-masculine
-211693	masculine
-masculine
-211697	neuter
-211699	neuter
-211701	neuter
-211706	neuter
+211677	neuter
+211679	neuter
+211681	neuter
+211685	neuter
+211702	masculine
+211704	masculine
+211709	masculine
+211711	masculine
+211715	masculine
+211720	feminine
 211723	masculine
-211725	masculine
-211730	masculine
-211732	masculine
-211736	masculine
-211741	feminine
-211744	masculine
-211776	masculine
-211794	masculine
-211801	neuter
-211806	masculine
-211808	masculine
-211819	masculine
-211825	masculine
-211838	neuter
+211753	masculine
+211771	masculine
+211778	neuter
+211782	masculine
+211784	masculine
+211795	masculine
+211801	masculine
+211813	neuter
 feminine
+211817	neuter
+211826	neuter
+211829	masculine
+211831	masculine
 211842	neuter
-211852	neuter
-211855	masculine
+211851	neuter
 211857	masculine
-211868	neuter
-211877	neuter
-211883	masculine
 neuter
 feminine
-211887	feminine
-211892	masculine
+211861	feminine
+211866	masculine
 feminine
-211897	feminine
-211901	masculine
-211903	masculine
-211906	masculine
-211908	masculine
-211913	masculine
-211917	masculine
-211926	neuter
-211929	neuter
-211932	feminine
-211941	masculine
-211943	neuter
-211964	masculine
-211988	feminine
-211999	masculine
+211871	feminine
+211874	masculine
+211876	masculine
+211879	masculine
+211881	masculine
+211886	masculine
+211889	masculine
+211896	neuter
+211899	neuter
+211902	feminine
+211910	masculine
+211912	neuter
+211932	masculine
+211955	feminine
+211966	masculine
 masculine
 masculine
-212012	masculine
-212024	masculine
-212030	neuter
-212034	masculine
-212039	neuter
-212048	neuter
-212055	neuter
-212057	neuter
-212072	masculine
+211978	masculine
+211990	masculine
+211996	neuter
+212000	masculine
+212005	neuter
+212013	neuter
+212020	neuter
+212022	neuter
+212037	masculine
 masculine
-212077	masculine
-212082	masculine
-212086	neuter
-212111	masculine
+212042	masculine
+212047	masculine
+212051	neuter
+212076	masculine
 masculine
-212119	neuter
-212121	feminine
-212124	neuter
+212084	neuter
+212086	feminine
+212089	neuter
 neuter
-212149	neuter
-212153	neuter
-212186	masculine
-212190	masculine
-212195	masculine
+212114	neuter
+212118	neuter
+212149	masculine
+212153	masculine
+212158	masculine
 masculine
 neuter
 masculine
-212201	masculine
-212214	masculine
-212233	masculine
-212236	masculine
-212246	masculine
+212164	masculine
+212177	masculine
+212196	masculine
+212198	masculine
+212208	masculine
+212211	masculine
+212237	neuter
 212249	masculine
-212276	neuter
-212288	masculine
-212310	masculine
+212271	masculine
+212275	masculine
+212278	masculine
+masculine
+212290	masculine
+212292	masculine
+masculine
+212295	neuter
+212300	feminine
+212306	masculine
+212312	neuter
 212314	masculine
-212318	masculine
-masculine
-212330	masculine
-212332	masculine
-masculine
+212318	feminine
+212320	feminine
+212322	neuter
+212325	neuter
+212327	neuter
+212331	neuter
 212335	neuter
-212340	feminine
-212346	masculine
-212352	neuter
-212354	masculine
-212359	feminine
-212361	feminine
-212363	neuter
-212367	neuter
-212369	neuter
-212374	neuter
-212378	neuter
 neuter
-212387	neuter
-212404	masculine
-212409	masculine
-212415	masculine
-212420	masculine
+212344	neuter
+212361	masculine
+212366	masculine
+212372	masculine
+212377	masculine
 feminine
-212428	masculine
-212456	masculine
-212472	masculine
-212483	masculine
-212485	masculine
-212491	masculine
-212496	masculine
-212516	neuter
-212519	neuter
-212529	neuter
-212537	masculine
+212385	masculine
+212413	masculine
+212429	masculine
+212440	masculine
+212442	masculine
+212448	masculine
+212453	masculine
+212472	neuter
+212475	neuter
+212485	neuter
+212493	masculine
 masculine
+212501	masculine
+212504	masculine
+masculine
+masculine
+212525	masculine
+212530	neuter
+masculine
+212534	feminine
+212536	masculine
 212545	masculine
-212548	masculine
+neuter
+212557	neuter
+212565	feminine
+212580	feminine
+212584	neuter
+212593	masculine
+212595	masculine
+212602	neuter
+212605	masculine
+212608	masculine
 masculine
-masculine
-212570	masculine
-212575	neuter
-masculine
-212579	feminine
-212581	masculine
-212590	masculine
-212592	neuter
-212604	neuter
-212612	feminine
-212627	feminine
-212631	neuter
-212641	masculine
-212643	masculine
-212650	neuter
-212653	masculine
-212656	masculine
-masculine
-212661	masculine
-212674	neuter
-212678	neuter
-212682	neuter
-212695	masculine
+212613	masculine
+212626	neuter
+212630	neuter
+212634	neuter
+212647	masculine
+212655	masculine
+212663	masculine
+212669	masculine
+212673	neuter
+212675	neuter
+212689	masculine
 212703	masculine
-212711	masculine
-212717	masculine
-212721	neuter
-212723	neuter
-212738	masculine
-212752	masculine
-212757	masculine
-212763	masculine
-212768	neuter
-212771	neuter
-212788	neuter
-212794	neuter
-212810	neuter
-212813	feminine
+212708	masculine
+212714	masculine
+212719	neuter
+212722	neuter
+212739	neuter
+212745	neuter
+212761	neuter
+212764	feminine
+212766	masculine
+212770	neuter
+212776	masculine
+212780	masculine
+212796	feminine
+212799	masculine
+212802	masculine
+212804	masculine
+212813	masculine
 212815	masculine
-212819	neuter
+212818	masculine
+masculine
+212822	masculine
+masculine
 212826	masculine
-212830	masculine
-212848	feminine
+212833	masculine
+212835	masculine
+212837	masculine
 212851	masculine
-212854	masculine
-212856	masculine
-212865	masculine
-212867	masculine
+212853	masculine
+neuter
 212870	masculine
+212882	masculine
+212893	masculine
+212900	masculine
+212909	masculine
+212912	masculine
 masculine
-212875	masculine
+212917	masculine
+212926	neuter
+212928	masculine
+212960	feminine
+212965	feminine
+212971	masculine
+212982	masculine
+212995	feminine
+212998	masculine
 masculine
-212879	masculine
-212886	masculine
-212888	masculine
-212890	masculine
-212905	masculine
-212907	masculine
+213003	feminine
+213006	masculine
+213008	neuter
 neuter
-212926	masculine
-212938	masculine
-212949	masculine
-212957	masculine
-212966	masculine
-212970	masculine
-masculine
-212975	masculine
-212984	neuter
-212986	masculine
-213021	feminine
-213027	feminine
-213033	masculine
-213044	masculine
-213057	feminine
-213060	masculine
-masculine
-213065	feminine
-213068	masculine
-213070	neuter
+213013	masculine
+213015	neuter
 neuter
-213075	masculine
-213077	neuter
+213018	masculine
 neuter
-213080	masculine
-neuter
-213087	neuter
-213092	neuter
-213100	neuter
-213104	feminine
-213116	masculine
-213126	masculine
-213134	masculine
-213137	masculine
-213140	feminine
-213143	feminine
-213147	feminine
-213152	feminine
-213163	feminine
+213025	neuter
+213030	neuter
+213038	neuter
+213042	feminine
+213054	masculine
+213063	masculine
+213070	masculine
+213073	masculine
+213076	feminine
+213079	feminine
+213083	feminine
+213088	feminine
+213098	feminine
 feminine
-213169	masculine
-213177	masculine
+213104	masculine
+213111	masculine
 masculine
-213181	masculine
-213185	masculine
-213200	neuter
-213218	feminine
-213250	masculine
+213115	masculine
+213119	masculine
+213134	neuter
+213151	feminine
+213182	masculine
+213186	masculine
+masculine
+213192	masculine
+213198	masculine
+213200	masculine
+213205	masculine
+213211	neuter
+213220	masculine
+213235	masculine
+213238	masculine
+masculine
+213245	masculine
+feminine
 213254	masculine
-masculine
-213261	masculine
-213267	masculine
-213269	masculine
-213274	masculine
-213280	neuter
-213290	masculine
-213306	masculine
-213309	masculine
-masculine
-213316	masculine
+213261	feminine
+213263	masculine
 feminine
-213325	masculine
-213332	feminine
-213334	masculine
+213271	masculine
+masculine
+213284	neuter
+213286	masculine
+masculine
+213295	feminine
+213301	masculine
+213303	masculine
+213305	masculine
+masculine
+213308	feminine
+213313	neuter
+213318	neuter
+213322	masculine
+213324	neuter
+213329	feminine
+213341	feminine
+213347	feminine
+213350	feminine
+213354	masculine
+213356	feminine
+213361	feminine
 feminine
-213342	masculine
-masculine
-213356	neuter
-213358	masculine
-masculine
-213367	feminine
-213373	masculine
-213375	masculine
+213368	feminine
 213377	masculine
-masculine
-213380	feminine
-213385	neuter
-213390	neuter
-213394	masculine
-213396	neuter
-213401	feminine
-213413	feminine
-213419	feminine
-213422	feminine
-213426	masculine
-213428	feminine
-213433	feminine
+213380	masculine
+213395	masculine
+213404	masculine
+213408	masculine
+213420	masculine
+213425	feminine
 feminine
-213440	feminine
-213449	masculine
-213452	masculine
-213468	masculine
-213477	masculine
-213481	masculine
-213493	masculine
-213499	feminine
+213442	neuter
+masculine
+masculine
+213447	masculine
+masculine
+213457	neuter
+213462	neuter
 feminine
-213516	neuter
+213469	neuter
+213471	feminine
+feminine
+213475	masculine
 masculine
 masculine
+213497	neuter
+213502	feminine
+213504	feminine
+feminine
+feminine
+213512	masculine
+213514	neuter
 213521	masculine
+213523	feminine
 masculine
-213531	neuter
-213536	neuter
+213528	masculine
+masculine
+masculine
+masculine
+masculine
+masculine
+213544	masculine
+213553	masculine
+213567	masculine
+masculine
+213572	masculine
+213596	masculine
+213629	masculine
+213650	masculine
+213652	masculine
+213655	masculine
+213657	masculine
+213663	masculine
+masculine
+213669	masculine
+213675	masculine
+masculine
+213683	neuter
+213685	feminine
+213698	feminine
+213703	masculine
+213706	feminine
 feminine
-213543	neuter
-213545	feminine
 feminine
-213550	masculine
+213711	feminine
 masculine
-masculine
-213572	neuter
-213577	feminine
-213580	feminine
-feminine
-feminine
-213588	masculine
-213590	neuter
-213597	masculine
-213599	feminine
-masculine
-213604	masculine
-masculine
-masculine
-masculine
-masculine
-masculine
-213621	masculine
-213630	masculine
-213644	masculine
-masculine
-213649	masculine
-213673	masculine
-213707	masculine
-213729	masculine
-213731	masculine
-213735	masculine
-213737	masculine
+213720	feminine
 213743	masculine
 masculine
-213750	masculine
-213756	masculine
-masculine
-213764	neuter
-213766	feminine
-213779	feminine
-213784	masculine
-213788	feminine
-feminine
-feminine
-213793	feminine
-masculine
-213802	feminine
-213827	masculine
-masculine
-213835	masculine
-213842	neuter
-213844	masculine
-213846	masculine
-213848	masculine
-213856	masculine
-213863	masculine
-213870	masculine
-213874	masculine
-213876	masculine
-213892	masculine
-213904	masculine
+213751	masculine
+213758	neuter
+213760	masculine
+213762	masculine
+213764	masculine
+213772	masculine
+213779	masculine
+213785	masculine
+213789	masculine
+213791	masculine
+213807	masculine
+213819	masculine
 feminine
 masculine
-213910	masculine
-213929	masculine
+213825	masculine
+213842	masculine
+213845	masculine
+213849	masculine
+masculine
+213861	masculine
+213869	masculine
+213873	masculine
+213875	neuter
+213879	feminine
+213882	masculine
+213887	masculine
+masculine
+213891	masculine
+masculine
+213897	masculine
+masculine
+213923	neuter
+213927	feminine
 213932	masculine
-213936	masculine
+213946	masculine
+213949	masculine
+neuter
+213952	masculine
 masculine
-213950	masculine
-213960	masculine
+masculine
+213956	masculine
+213961	masculine
 213964	masculine
-213966	neuter
-213970	feminine
-213973	masculine
-213978	masculine
+213972	masculine
+213981	masculine
+213985	neuter
+213990	masculine
+213994	masculine
 masculine
-213982	masculine
+213999	feminine
 masculine
-213988	masculine
-masculine
-214016	neuter
-214021	feminine
-214027	masculine
-214041	masculine
-214044	masculine
-neuter
-214047	masculine
-masculine
-masculine
-214051	masculine
-214056	masculine
-214059	masculine
-214067	masculine
-214076	masculine
-214081	neuter
-214086	masculine
-214090	masculine
-214092	masculine
-214096	feminine
-masculine
-214099	masculine
-214104	masculine
+214002	masculine
+214007	masculine
+214009	masculine
+214017	neuter
+214022	masculine
+214024	masculine
+214027	feminine
+214035	masculine
+214040	neuter
+214042	masculine
+214066	masculine
+214068	neuter
+214072	masculine
+214100	masculine
 214106	masculine
-214115	neuter
-214120	masculine
-214122	masculine
-214125	feminine
-214133	masculine
-214138	neuter
-214140	masculine
-214164	masculine
-214166	neuter
+214109	masculine
+214114	masculine
+214143	masculine
+214158	masculine
+masculine
+214161	neuter
+masculine
 214170	masculine
+masculine
+masculine
+214175	masculine
+214178	masculine
+214180	masculine
+214182	masculine
+214194	masculine
 214198	masculine
-214204	masculine
-214207	masculine
-214213	masculine
-214242	masculine
-214258	masculine
+neuter
+214201	masculine
+214208	masculine
+214214	masculine
+214216	masculine
+feminine
 masculine
-214261	neuter
+214226	masculine
+214236	neuter
+214251	neuter
+214255	neuter
 masculine
-214271	masculine
-masculine
-masculine
-214276	masculine
+neuter
+214262	masculine
+214269	masculine
+214277	masculine
 214279	masculine
-214281	masculine
-214283	masculine
+masculine
+214284	masculine
+214290	masculine
 214295	masculine
-214299	masculine
-neuter
-214302	masculine
-214309	masculine
-214317	masculine
+214298	masculine
+214309	neuter
+214312	neuter
+214314	masculine
 214319	masculine
-feminine
+214321	masculine
+214329	masculine
 masculine
-214330	masculine
-214340	neuter
-214355	neuter
-214359	neuter
-masculine
-neuter
-214366	masculine
-214373	masculine
-214381	masculine
-214383	masculine
-masculine
-214388	masculine
-214394	masculine
-214399	masculine
-214402	masculine
-214413	neuter
-214416	neuter
-214418	masculine
-214423	masculine
-214425	masculine
+214338	neuter
+214344	feminine
+214351	masculine
+214356	masculine
+214364	feminine
+214369	masculine
+214377	masculine
+214380	feminine
+214385	feminine
+214391	feminine
+214397	feminine
+214405	masculine
+214416	masculine
+214421	neuter
+214424	masculine
+214427	masculine
 214433	masculine
-masculine
-214443	neuter
-214449	feminine
-214456	masculine
-214462	masculine
-214470	feminine
+neuter
+214445	masculine
+214447	masculine
+214449	masculine
+neuter
+214457	masculine
+214461	masculine
+214470	masculine
 214475	masculine
-214483	masculine
-214486	feminine
-214491	feminine
-214499	feminine
-214506	feminine
-214514	masculine
-214525	masculine
-214530	neuter
+214483	neuter
+214487	masculine
+214489	masculine
+214492	masculine
+214500	masculine
+214503	masculine
+214506	masculine
+214513	masculine
+masculine
+214523	masculine
 214533	masculine
-214536	masculine
-214542	masculine
-neuter
-214554	masculine
+214540	masculine
+feminine
+masculine
+214544	masculine
+214550	masculine
 214557	masculine
-214559	masculine
-neuter
-214567	masculine
+214561	masculine
+masculine
 214571	masculine
-214580	masculine
-214585	masculine
-214594	neuter
-214598	masculine
-214600	masculine
-214603	masculine
-214611	masculine
-214614	masculine
-214617	masculine
-214624	masculine
+214581	neuter
+214587	masculine
+214591	masculine
+214596	neuter
+214607	masculine
+214613	masculine
+214632	masculine
+214639	masculine
+214643	neuter
+214645	neuter
 masculine
-214635	masculine
-214646	masculine
-214654	masculine
-feminine
+214649	masculine
+214662	masculine
 masculine
-214658	masculine
-214664	masculine
-214671	masculine
-214675	masculine
+214674	masculine
+214676	masculine
 masculine
-214685	masculine
-214696	neuter
-214702	masculine
-214706	masculine
-214711	neuter
-214723	masculine
-214730	masculine
-214750	masculine
+214679	masculine
+214695	masculine
+214707	masculine
+214713	masculine
+214716	masculine
+214719	masculine
+neuter
+214728	neuter
+214741	masculine
+214747	masculine
 214757	masculine
-214761	neuter
-214763	neuter
 masculine
-214767	masculine
-214780	masculine
+214760	masculine
+214762	masculine
+214764	masculine
+214766	masculine
+214768	neuter
+214770	masculine
 masculine
-214792	masculine
-214794	masculine
-masculine
-214797	masculine
-214814	masculine
-214826	masculine
+214773	masculine
+neuter
+neuter
+214792	neuter
+214806	neuter
+214819	masculine
+214828	neuter
 214832	masculine
-214835	masculine
-214838	masculine
-neuter
-214847	neuter
-214860	masculine
-214866	masculine
-214876	masculine
-masculine
-214879	masculine
-214881	masculine
-214883	masculine
+214837	masculine
+214840	masculine
+214846	masculine
+214851	masculine
+214855	neuter
+214857	masculine
+214863	masculine
 214885	masculine
-214887	neuter
-214889	masculine
+214899	masculine
+214901	masculine
+214919	masculine
+214927	masculine
+214934	masculine
+214938	masculine
+214945	masculine
+214949	masculine
+214967	masculine
+214975	masculine
+214978	masculine
+214983	masculine
 masculine
-214892	masculine
-neuter
-neuter
-214913	neuter
-214928	neuter
-214941	masculine
-214950	neuter
-214954	masculine
-214959	masculine
-214962	masculine
-214968	masculine
-214973	masculine
-214977	neuter
-214979	masculine
-214985	masculine
-215008	masculine
-215023	masculine
-215025	masculine
-215043	masculine
-215051	masculine
-215059	masculine
-215063	masculine
-215071	masculine
-215075	masculine
-215094	masculine
-215102	masculine
-215105	masculine
-215110	masculine
+214987	masculine
+214990	masculine
+214994	masculine
 masculine
-215114	masculine
-215117	masculine
-215122	masculine
-masculine
-215135	neuter
-215149	masculine
-215152	neuter
-215166	masculine
-215170	masculine
+215007	neuter
+215021	masculine
+215024	neuter
+215038	masculine
+215042	masculine
 feminine
-215174	feminine
-215176	masculine
-215181	masculine
-215186	masculine
-215192	neuter
+215046	feminine
+215048	masculine
+215053	masculine
+215058	masculine
+215064	neuter
 masculine
-215199	masculine
-215201	masculine
-215204	neuter
-215212	masculine
-215222	masculine
+215071	masculine
+215073	masculine
+215076	neuter
+215084	masculine
+215094	masculine
+215109	masculine
+215112	masculine
+215115	masculine
+215123	masculine
+masculine
+215131	masculine
+215139	neuter
+215151	masculine
+neuter
+215162	masculine
+215182	masculine
+215197	masculine
+215200	masculine
+215211	masculine
+215223	masculine
+215229	masculine
+masculine
 215237	masculine
-215240	masculine
-215243	masculine
-215251	masculine
+215244	masculine
+215253	masculine
+215263	neuter
+215273	masculine
+215292	masculine
+215298	masculine
+215303	masculine
+215315	masculine
+215318	masculine
+215325	feminine
+215352	masculine
 masculine
-215259	masculine
-215267	neuter
-215279	masculine
-neuter
-215290	masculine
-215310	masculine
-215328	masculine
-215331	masculine
-215342	masculine
-215354	masculine
+215355	masculine
+masculine
+masculine
 215361	masculine
+215363	masculine
+215367	masculine
+215370	neuter
+215373	masculine
+215387	feminine
+215391	neuter
+215397	neuter
+215403	neuter
+215413	masculine
+215420	masculine
 masculine
-215369	masculine
-215376	masculine
-215386	masculine
-215396	neuter
-215406	masculine
-215425	masculine
-215432	masculine
-215438	masculine
+215427	masculine
+215431	masculine
+215433	feminine
+masculine
+masculine
+masculine
+215440	masculine
+215442	masculine
+masculine
+215445	masculine
 215451	masculine
-215454	masculine
-215461	feminine
-215490	masculine
+215456	masculine
+215462	masculine
+215470	masculine
 masculine
-215493	masculine
+215473	masculine
+215475	masculine
 masculine
+215487	masculine
+215489	feminine
+215497	masculine
 masculine
-215499	masculine
-215501	masculine
-215505	masculine
-215509	neuter
-215512	masculine
-215526	feminine
-215530	neuter
-215536	neuter
-215542	neuter
-215552	masculine
-215560	masculine
-masculine
-215568	masculine
-215572	masculine
-215574	feminine
-masculine
-215578	masculine
-masculine
-215583	masculine
-215585	masculine
-masculine
-215588	masculine
-215595	masculine
-215600	masculine
-215606	masculine
-215614	masculine
-masculine
-215617	masculine
-215619	masculine
-masculine
-215632	masculine
-215634	feminine
-215642	masculine
-215644	masculine
-215650	masculine
-215660	masculine
-215689	feminine
-215718	feminine
-215736	neuter
-215739	masculine
+215504	masculine
+215514	masculine
+215541	feminine
+215568	feminine
+215586	neuter
+215589	masculine
 neuter
-215770	masculine
-215779	masculine
-215796	masculine
-215804	masculine
-215816	masculine
-215828	neuter
-215840	masculine
-215846	feminine
-215848	masculine
-215851	feminine
-215877	masculine
-215879	masculine
-215881	masculine
+215619	masculine
+215628	masculine
+215644	masculine
+215652	masculine
+215664	masculine
+215676	neuter
+215688	masculine
+215694	feminine
+215696	masculine
+215699	feminine
+215724	masculine
+215726	masculine
+215728	masculine
 masculine
-215885	masculine
-215895	feminine
+215732	masculine
+215741	feminine
 masculine
-215901	masculine
-215905	masculine
-215913	masculine
-215915	masculine
-215917	masculine
-215919	feminine
-215928	feminine
-215950	masculine
-215955	masculine
-215959	feminine
-215963	feminine
+215747	masculine
+215751	masculine
+215759	masculine
+215761	masculine
+215763	masculine
+215765	feminine
+215774	feminine
+215795	masculine
+215800	masculine
+215804	feminine
+215808	feminine
+215815	neuter
+215828	masculine
+masculine
+215846	masculine
+215856	masculine
+215860	masculine
+215862	masculine
+215873	masculine
+215876	masculine
+215878	masculine
+neuter
+215904	neuter
+215909	masculine
+215921	masculine
+215929	masculine
+masculine
+215938	masculine
+masculine
+215942	masculine
+masculine
+215947	masculine
+215951	neuter
+215953	masculine
+215957	masculine
+215961	neuter
+masculine
 215970	neuter
-215983	masculine
+215979	masculine
+215986	neuter
+215993	masculine
+masculine
+215996	neuter
 masculine
 216002	masculine
-216012	masculine
-216016	masculine
-216018	masculine
-216029	masculine
-216032	masculine
-216034	masculine
+216004	neuter
+216007	masculine
+masculine
+masculine
+216030	masculine
+216036	masculine
+216040	masculine
+216042	neuter
+216046	neuter
+216051	masculine
+216054	masculine
+216061	masculine
+216063	masculine
 neuter
-216061	neuter
-216066	masculine
+masculine
+216069	masculine
+216071	masculine
+216073	masculine
 216078	masculine
-216087	masculine
-masculine
-216096	masculine
-masculine
-216100	masculine
-masculine
-216105	masculine
-216109	neuter
-216111	masculine
-216115	masculine
-216119	neuter
-masculine
-216129	neuter
-216138	masculine
-216145	neuter
-216152	masculine
-masculine
-216155	neuter
-masculine
-216161	masculine
-216164	neuter
-216167	masculine
-216169	masculine
-masculine
+216085	neuter
+216088	feminine
+216093	masculine
+216101	masculine
+216103	masculine
+216106	masculine
+216112	neuter
+216121	masculine
+216125	masculine
+216128	masculine
+216132	masculine
+216134	masculine
+216145	masculine
+216149	neuter
+216157	masculine
+216159	masculine
+216171	neuter
+216190	masculine
 216192	masculine
-216198	masculine
-216202	masculine
-216204	neuter
-216208	neuter
-216213	masculine
+216199	masculine
+216206	neuter
+216211	neuter
 216216	masculine
+216222	masculine
+masculine
 216225	masculine
-216227	masculine
-neuter
 masculine
+216228	neuter
+216230	neuter
 216233	masculine
-216235	masculine
-216237	masculine
-216243	masculine
-216250	neuter
-216253	feminine
+216240	masculine
+216246	masculine
+216248	masculine
+216251	masculine
 216258	masculine
-216266	masculine
-216268	masculine
-216271	masculine
-216277	neuter
-216286	masculine
-216290	masculine
-216293	masculine
-216297	masculine
+216262	masculine
+216265	masculine
+216267	masculine
+216269	masculine
+neuter
+216274	masculine
+216277	masculine
+216283	masculine
+216294	masculine
+masculine
 216300	masculine
-216311	masculine
-216315	neuter
-216323	masculine
+216302	masculine
+216305	masculine
+216311	neuter
+masculine
+masculine
+216315	masculine
+216317	masculine
+216319	masculine
+masculine
 216325	masculine
-216337	neuter
-216356	masculine
+216334	masculine
+216337	masculine
+216344	masculine
+216346	feminine
+216354	masculine
 216358	masculine
-216365	masculine
-216372	neuter
-216377	neuter
-216383	masculine
-216389	masculine
 masculine
-216392	masculine
+216370	masculine
+216374	masculine
 masculine
-216395	neuter
-216397	neuter
-216400	masculine
-216407	masculine
-216413	masculine
-216415	masculine
-216418	masculine
-216425	masculine
-216429	masculine
-216433	masculine
-216435	masculine
-216437	masculine
+216377	masculine
+masculine
+216380	masculine
+216386	masculine
+216388	masculine
+216396	neuter
+masculine
+216402	masculine
 neuter
+216406	neuter
+216413	feminine
+216428	neuter
+masculine
+216431	masculine
+neuter
+masculine
+216435	feminine
+216439	masculine
 216442	masculine
-216445	masculine
-216451	masculine
+216459	masculine
+feminine
 216463	masculine
-masculine
-216469	masculine
-216471	masculine
-216474	masculine
-216480	neuter
-masculine
-masculine
-216484	masculine
+216468	masculine
+216475	masculine
+216481	masculine
+216484	feminine
 216486	masculine
-216488	masculine
+216489	masculine
+216496	masculine
 masculine
-216495	masculine
-216504	masculine
-216507	masculine
-216514	masculine
-216516	feminine
-216525	masculine
+216502	masculine
+216505	masculine
+216510	masculine
+neuter
+216516	masculine
+masculine
+216524	masculine
 216529	masculine
+216532	feminine
 masculine
-216541	masculine
-216545	masculine
+216539	masculine
+216542	masculine
+216555	masculine
 masculine
-216548	masculine
-masculine
-216551	masculine
-216557	masculine
-216559	masculine
-216567	neuter
-masculine
-216574	masculine
+216560	feminine
+216562	feminine
+216572	neuter
+216577	neuter
+216581	masculine
+216594	masculine
 neuter
-216578	neuter
-216585	feminine
-216600	neuter
-216602	masculine
-216604	masculine
+216599	masculine
 neuter
+216611	masculine
+216613	neuter
+216616	masculine
+216626	masculine
+216629	masculine
 masculine
-216608	feminine
-216612	masculine
-216615	masculine
-216632	masculine
+216637	masculine
+216642	masculine
+216644	neuter
+216653	masculine
+216661	masculine
+216664	masculine
+neuter
+216668	masculine
+216680	neuter
 feminine
-216636	masculine
-216641	masculine
-216648	masculine
-216654	masculine
-216657	feminine
-216659	masculine
-216662	masculine
-216669	masculine
+216685	masculine
+216691	masculine
+216693	masculine
+216699	masculine
 masculine
-216675	masculine
-216679	masculine
-216684	masculine
-neuter
-216690	masculine
-masculine
-216698	masculine
 216704	masculine
-216707	feminine
-masculine
-216714	masculine
+216715	masculine
 216717	masculine
-216730	masculine
-216732	masculine
-216737	feminine
-216739	feminine
-216749	neuter
-216754	neuter
-216758	masculine
-216772	masculine
-neuter
-216777	masculine
-neuter
-216790	masculine
-216792	neuter
-216795	masculine
-216805	masculine
-216808	masculine
+216721	masculine
 masculine
+216724	masculine
+216730	neuter
+216733	masculine
+216742	masculine
+216746	masculine
+216753	masculine
+216755	masculine
+216761	masculine
+216763	masculine
+216776	masculine
+216782	feminine
+216784	feminine
+masculine
+masculine
+216788	masculine
+216794	feminine
+216796	feminine
+216806	masculine
+216811	masculine
 216816	masculine
-216821	masculine
-216823	neuter
-216832	masculine
-216840	masculine
-216843	masculine
-neuter
-216847	masculine
-216861	neuter
-feminine
-216866	masculine
+216823	masculine
+216827	masculine
+216845	feminine
+216852	masculine
 216872	masculine
-216875	masculine
-216881	masculine
+216876	masculine
+216884	masculine
+216889	masculine
 masculine
-216887	masculine
-216899	masculine
+masculine
 216901	masculine
-216905	masculine
-216907	masculine
-216909	masculine
-216915	neuter
-216918	masculine
-216927	masculine
+216916	masculine
+216924	neuter
+neuter
 216931	masculine
-216939	masculine
-216941	masculine
-216948	masculine
-216950	masculine
-216963	masculine
-216970	feminine
-216972	feminine
 masculine
+216938	masculine
 masculine
-216976	masculine
-216982	feminine
-216984	feminine
-216994	masculine
-216999	masculine
-217005	masculine
+216944	masculine
+216954	masculine
+216961	neuter
+216964	masculine
+216966	masculine
+216970	masculine
+216978	masculine
+216989	masculine
+216993	masculine
+217002	masculine
 217013	masculine
-217017	masculine
-217035	feminine
+masculine
+217024	masculine
+217031	neuter
+217040	masculine
 217042	masculine
+217045	masculine
+masculine
+217051	masculine
+217055	masculine
 217062	masculine
 217066	masculine
-217074	masculine
+masculine
+masculine
+217073	masculine
+217075	masculine
 217079	masculine
-masculine
-masculine
-217091	masculine
+217082	masculine
+217084	masculine
+217087	masculine
+217094	neuter
+217102	masculine
+217104	masculine
 217106	masculine
-217115	neuter
-neuter
-217122	masculine
+217110	masculine
 masculine
-217131	masculine
+217115	masculine
+217121	masculine
 masculine
-217137	masculine
-217147	masculine
-217154	neuter
-217157	masculine
-217159	masculine
-217163	masculine
-217171	masculine
-217182	masculine
-217186	masculine
-217196	masculine
-217209	masculine
+217126	neuter
+217129	masculine
+217142	masculine
 masculine
+217148	masculine
+217150	masculine
+masculine
+217153	neuter
+217157	neuter
+masculine
+217160	masculine
+masculine
+217166	masculine
+217175	masculine
+217199	masculine
+217202	masculine
+masculine
+masculine
+217211	masculine
 217220	masculine
-217227	neuter
-217236	masculine
-217238	masculine
-217241	masculine
 masculine
-217247	masculine
-217251	masculine
+masculine
+217231	neuter
+217240	masculine
+masculine
+217245	masculine
+217253	neuter
 217258	masculine
-217262	masculine
-masculine
+217261	masculine
 masculine
 217269	masculine
-217271	masculine
-217275	masculine
-217278	masculine
-217280	masculine
-217283	masculine
-217291	neuter
-217300	masculine
-217302	masculine
-217304	masculine
-217308	masculine
+217282	masculine
+217287	masculine
+217292	masculine
+feminine
+217297	masculine
+masculine
+masculine
+masculine
+217307	masculine
+feminine
 217310	masculine
-217314	masculine
-217320	masculine
 masculine
-217325	neuter
+217320	neuter
 217328	masculine
-217341	masculine
-masculine
-217347	masculine
-217349	masculine
-masculine
-217352	neuter
-217356	neuter
-217358	masculine
-217360	masculine
-masculine
-217366	masculine
-217375	masculine
-217401	masculine
+feminine
+217331	masculine
+217338	feminine
+217346	neuter
+217349	neuter
+217363	feminine
+feminine
+217367	masculine
+217377	masculine
+217396	masculine
 217404	masculine
-masculine
-masculine
-217413	masculine
+217415	masculine
 217422	masculine
+217426	masculine
+217428	masculine
 masculine
+217431	masculine
+217433	masculine
+217438	masculine
+217445	masculine
+neuter
+217461	masculine
+217474	masculine
+217476	masculine
 masculine
-217433	neuter
-217442	masculine
+217483	masculine
+217493	masculine
+217497	masculine
+217510	masculine
+217516	feminine
+neuter
+217519	masculine
+217522	masculine
+217527	masculine
+217536	feminine
+217554	neuter
 masculine
-217447	masculine
-217455	neuter
-217460	masculine
-217463	masculine
-masculine
-217471	masculine
-217484	masculine
-217489	masculine
-217494	masculine
-feminine
-217499	masculine
-masculine
-masculine
-masculine
-217509	masculine
-feminine
-217512	masculine
-masculine
-217522	neuter
-217530	masculine
-feminine
-217533	masculine
-217540	feminine
-217548	neuter
-217551	neuter
-217566	feminine
-feminine
+217559	feminine
+217566	masculine
 217570	masculine
-217580	masculine
-217600	masculine
-217608	masculine
+masculine
+217580	neuter
+217583	feminine
+217588	masculine
+217593	masculine
+masculine
+masculine
+217598	neuter
+217601	neuter
+217605	neuter
+217607	masculine
+217613	masculine
 217619	masculine
-217627	masculine
-217631	masculine
-217633	masculine
-masculine
-217636	masculine
-217638	masculine
-217643	masculine
-217650	masculine
-neuter
-217666	masculine
+217638	neuter
+217640	neuter
+217647	masculine
+217650	neuter
+217653	feminine
 217680	masculine
-217682	masculine
+217685	masculine
+217709	feminine
+217717	masculine
+217736	feminine
+217751	feminine
+217753	feminine
+217781	feminine
+217785	neuter
+217789	feminine
+217791	feminine
+217802	feminine
+217814	feminine
+217818	masculine
+217823	neuter
+217836	masculine
 masculine
-217690	masculine
-217701	masculine
-217705	masculine
-217718	masculine
-217724	feminine
-neuter
-217727	masculine
-217730	masculine
-217735	masculine
-217744	feminine
-217762	neuter
-masculine
-217767	feminine
-217775	masculine
-217780	masculine
-masculine
-217791	neuter
-217794	feminine
-217800	masculine
-217805	masculine
-masculine
-masculine
-217810	neuter
-217813	neuter
-217817	neuter
-217819	masculine
-217826	masculine
-217832	masculine
-217852	neuter
-217854	neuter
+217842	masculine
+217855	masculine
 217861	masculine
-217865	neuter
-217868	feminine
-217895	masculine
-217900	masculine
-217925	feminine
-217933	masculine
-217952	feminine
-217968	feminine
-217970	feminine
-217999	feminine
-218003	neuter
-218007	feminine
-218009	feminine
-218020	feminine
-218032	feminine
-218036	masculine
-218043	neuter
-218056	masculine
+217863	masculine
+217876	feminine
 masculine
-218062	masculine
-218075	masculine
-218081	masculine
-218083	masculine
-218096	feminine
-masculine
-218108	masculine
-218120	neuter
+217887	masculine
+217899	neuter
 neuter
-218137	neuter
-218151	masculine
-218165	masculine
-218169	feminine
-218174	masculine
-218183	masculine
-218190	neuter
-218205	masculine
-218210	neuter
+217916	neuter
+217930	masculine
+217944	masculine
+217948	feminine
+217953	masculine
+217962	masculine
+217969	neuter
+217984	masculine
+217989	neuter
 feminine
-218220	masculine
-218227	feminine
+217999	masculine
+218006	feminine
 neuter
-218238	masculine
-218244	masculine
-218248	masculine
+218016	masculine
+218022	masculine
+218026	masculine
 masculine
 masculine
-218256	masculine
-218262	masculine
-218264	masculine
-218269	masculine
+218034	masculine
+218040	masculine
+218042	masculine
+218047	masculine
 neuter
-218276	feminine
-218278	masculine
-218280	masculine
-218287	feminine
-218295	masculine
-218297	masculine
-218303	masculine
-218306	masculine
-218311	masculine
-218314	masculine
+218054	feminine
+218056	masculine
+218058	masculine
+218064	feminine
+218072	masculine
+masculine
+218079	masculine
+218082	masculine
+218086	masculine
+218089	masculine
+218091	masculine
+218099	masculine
+218101	masculine
+218123	masculine
+218128	neuter
+218131	masculine
+218136	masculine
+218151	feminine
+218167	neuter
+218169	neuter
+218176	masculine
+neuter
+masculine
+218182	neuter
+218198	masculine
+218204	masculine
+masculine
+masculine
+218210	masculine
+masculine
+neuter
+218218	neuter
+neuter
+218229	masculine
+218241	neuter
+218246	masculine
+218258	neuter
+218267	masculine
+218271	masculine
+218275	neuter
+masculine
+218286	masculine
+masculine
+218290	masculine
+218296	neuter
+218298	masculine
+neuter
+masculine
 218316	masculine
+218319	masculine
+masculine
+218322	masculine
 218324	masculine
 218326	masculine
-218350	masculine
-218355	neuter
-218359	masculine
-218364	masculine
-218379	feminine
-218395	neuter
-218397	neuter
-218404	masculine
+masculine
+218335	masculine
+218339	masculine
+218352	feminine
+218368	masculine
+218370	masculine
+masculine
+218391	masculine
+218395	masculine
+218398	masculine
+masculine
+218401	masculine
+218409	masculine
+218414	masculine
+218418	masculine
+218427	masculine
+218434	neuter
+218436	masculine
+218439	neuter
+218442	masculine
+218445	masculine
 neuter
-masculine
-218410	neuter
-218426	masculine
-218432	masculine
-masculine
-masculine
-218438	masculine
-masculine
-218441	neuter
-218447	neuter
+218452	masculine
+218458	feminine
+218465	neuter
+218476	neuter
+218478	masculine
+218481	masculine
+218483	feminine
+218486	masculine
+218489	masculine
 neuter
-218458	masculine
-218471	neuter
-218476	masculine
-218488	neuter
-218498	masculine
-218502	masculine
-218506	neuter
-masculine
+218493	masculine
+218503	masculine
+218506	masculine
+218511	masculine
 218517	masculine
+218523	masculine
+218526	masculine
 masculine
-218521	masculine
-218527	neuter
-218529	masculine
+218543	masculine
+masculine
+218546	masculine
+masculine
+218549	masculine
+218551	neuter
+218560	masculine
+218565	masculine
+218568	masculine
+218572	masculine
+masculine
+218578	masculine
 neuter
+218581	masculine
+218588	masculine
 masculine
-218547	masculine
-218550	masculine
+218591	masculine
+218595	masculine
 masculine
-218553	masculine
-218555	masculine
-218557	masculine
-masculine
-218566	masculine
-218570	masculine
-218584	feminine
 218600	masculine
-218604	masculine
+218605	masculine
 masculine
-218625	masculine
-218629	masculine
-218632	masculine
+218609	masculine
 masculine
-218635	masculine
-218643	masculine
+neuter
+218616	masculine
+218620	neuter
+218622	masculine
+218639	masculine
+218646	masculine
 218649	masculine
-218654	masculine
-218663	masculine
-218671	neuter
-218673	masculine
-218676	neuter
-218679	masculine
-218682	masculine
-neuter
-218689	masculine
-218695	feminine
-218702	neuter
-218714	neuter
-218716	masculine
+218652	masculine
+218656	masculine
+218669	masculine
+218679	feminine
+218688	masculine
+218690	masculine
+218703	masculine
+218705	neuter
+218710	masculine
+218715	feminine
+218717	masculine
 218719	masculine
-218721	feminine
-218724	masculine
-218727	masculine
-neuter
-218731	masculine
-218741	masculine
-218744	masculine
+218723	feminine
+masculine
+218729	masculine
+218732	masculine
+218735	masculine
+feminine
+218739	masculine
+masculine
+masculine
 218749	masculine
-218755	masculine
-218761	masculine
-218764	masculine
+218753	feminine
+218758	masculine
+218769	masculine
+218772	neuter
+218777	masculine
 masculine
+218780	masculine
 218782	masculine
+218793	masculine
 masculine
-218785	masculine
+218801	masculine
+218808	masculine
 masculine
-218788	masculine
-218790	neuter
-218799	masculine
-218804	masculine
-218807	masculine
 218811	masculine
 masculine
+218814	masculine
+masculine
 218817	masculine
-218819	neuter
+218819	masculine
 218821	masculine
-218828	masculine
-masculine
-218831	masculine
-218835	masculine
-masculine
-218840	masculine
+218825	masculine
+218831	feminine
+218841	masculine
 218845	masculine
-masculine
-218849	masculine
-masculine
-neuter
-218856	masculine
-218860	neuter
-218862	masculine
+218854	masculine
 218879	masculine
 218886	masculine
-218889	masculine
-218892	masculine
-218896	masculine
-218911	masculine
-218921	feminine
-218930	masculine
-218932	masculine
-218945	masculine
-218947	neuter
-218952	masculine
-218957	feminine
-218959	masculine
-218961	masculine
-218965	feminine
+218895	masculine
+218898	neuter
+218902	masculine
+218909	neuter
+218914	masculine
+218920	masculine
 masculine
-218971	masculine
-218974	masculine
-218977	masculine
-feminine
+218923	masculine
+218925	masculine
+218929	masculine
+masculine
+masculine
+218934	masculine
+masculine
+218941	masculine
+masculine
+218948	masculine
+218950	masculine
+masculine
+218963	neuter
+218965	neuter
+218969	masculine
+218972	masculine
+218976	masculine
 218981	masculine
-masculine
-masculine
+218986	masculine
+218988	masculine
 218991	masculine
-218996	feminine
+218994	masculine
 219001	masculine
-219013	masculine
-219016	neuter
-219021	masculine
+219004	masculine
+219012	masculine
+219022	masculine
+219031	neuter
+219034	masculine
+219037	masculine
+219039	neuter
+219041	masculine
+219049	masculine
 masculine
-219024	masculine
-219026	masculine
-219038	masculine
+219052	masculine
+219054	masculine
+219060	masculine
 masculine
-219046	masculine
-219053	masculine
-masculine
-219056	masculine
-masculine
-219059	masculine
-masculine
-219062	masculine
 219064	masculine
-219066	masculine
-219070	masculine
-219077	feminine
-219087	masculine
-219091	masculine
-219101	masculine
+219068	masculine
+219081	masculine
+219083	masculine
+219085	masculine
+219100	masculine
+219106	masculine
+neuter
+219113	neuter
+219118	masculine
+219121	masculine
 219128	masculine
-219135	masculine
+masculine
+219131	masculine
+219136	masculine
+219139	masculine
 219144	masculine
-219147	neuter
-219151	masculine
-219158	neuter
-219163	masculine
-219169	masculine
+219150	feminine
+219160	masculine
 masculine
-219172	masculine
-219174	masculine
-219178	masculine
+219164	masculine
+219167	masculine
+219170	masculine
 masculine
+219173	neuter
+219179	masculine
+219184	masculine
+219186	masculine
+219188	masculine
+219192	masculine
 masculine
-219183	masculine
+219200	masculine
+219210	masculine
+219212	masculine
+219222	masculine
 masculine
-219190	masculine
-masculine
-219197	masculine
-219199	masculine
-masculine
-219212	neuter
-219214	neuter
-219218	masculine
-219221	masculine
-219225	masculine
+219227	masculine
 219230	masculine
-219235	masculine
 219237	masculine
-219240	masculine
-219243	masculine
+219243	feminine
+219246	masculine
+masculine
 219250	masculine
-219253	masculine
-219262	masculine
-219272	masculine
-219281	neuter
-219284	masculine
-219287	masculine
-219289	neuter
-219291	masculine
-219299	masculine
-masculine
-219302	masculine
-219304	masculine
-219310	masculine
-masculine
+219268	feminine
+219273	feminine
+219277	masculine
+219295	neuter
+219299	neuter
 219314	masculine
-219319	masculine
+neuter
+219321	masculine
+219324	masculine
+219330	masculine
 219332	masculine
-219334	masculine
-219336	masculine
-219351	masculine
-219357	masculine
-neuter
-219364	neuter
+219336	neuter
+219338	masculine
+219343	masculine
+219347	masculine
+219352	masculine
+masculine
+219356	masculine
+219358	masculine
+219367	masculine
 219370	masculine
-219373	masculine
-219380	masculine
+219372	neuter
 masculine
-219383	masculine
-219388	masculine
-219391	masculine
-219396	masculine
-219402	feminine
-219412	masculine
 masculine
-219416	masculine
-219419	masculine
-219423	masculine
+219376	masculine
+219384	masculine
+219392	masculine
+219397	masculine
+219399	masculine
+219406	masculine
+219409	masculine
 masculine
-219426	neuter
-219434	masculine
-219439	masculine
-219441	masculine
-219443	masculine
-219447	masculine
-masculine
-219455	masculine
-219466	masculine
-219468	masculine
-219478	masculine
-masculine
+219429	neuter
+219432	masculine
+219438	masculine
+219448	masculine
+219463	neuter
+219471	masculine
+219477	neuter
+219479	masculine
 219483	masculine
-219486	masculine
+219489	neuter
+219491	masculine
 219493	masculine
-219500	feminine
+219496	neuter
+219499	masculine
 219503	masculine
+219509	masculine
+219513	masculine
+neuter
 masculine
-219507	masculine
 219527	feminine
-219533	feminine
-219538	masculine
-219557	neuter
-219561	neuter
-219577	masculine
+masculine
+219531	feminine
 neuter
-219585	masculine
-219588	masculine
-219594	masculine
-219596	masculine
-219600	neuter
-219602	masculine
-219607	masculine
-219611	masculine
-219616	masculine
-219618	masculine
-219622	masculine
-219624	masculine
-219633	masculine
-219636	masculine
-219638	neuter
+219538	neuter
 masculine
+219541	masculine
+219544	masculine
+219556	masculine
+219561	masculine
 masculine
-219642	masculine
-219651	masculine
-219659	masculine
-219664	masculine
-219666	masculine
-219674	masculine
-219677	masculine
-masculine
-219698	neuter
-219701	masculine
-219707	masculine
-219717	masculine
-219734	neuter
-219742	masculine
-219748	neuter
-219750	masculine
-219754	masculine
-219760	neuter
-219762	masculine
-219764	masculine
-219767	neuter
-219770	masculine
-219774	masculine
-219780	masculine
-219784	masculine
+219570	masculine
+219572	neuter
+feminine
+219576	masculine
+219582	masculine
+219588	neuter
+219590	feminine
+219593	feminine
+219597	masculine
+219606	feminine
+219625	feminine
 neuter
-masculine
-219798	feminine
-masculine
-219802	feminine
+219628	neuter
+219632	masculine
+219635	feminine
+219647	feminine
+219653	feminine
+219656	feminine
+feminine
+219659	feminine
+feminine
+219662	feminine
+219668	neuter
+219670	masculine
+219683	masculine
+219686	masculine
+219707	feminine
+219733	neuter
+219743	feminine
+219746	masculine
+219751	masculine
+219754	neuter
+219758	masculine
 neuter
-219811	neuter
+219770	feminine
+219773	feminine
+neuter
+feminine
+219777	masculine
+219783	neuter
+219788	masculine
+219793	masculine
+219795	masculine
+219802	masculine
+219806	masculine
+219809	masculine
+219812	masculine
+219815	masculine
 masculine
-219814	masculine
-219817	masculine
-219829	masculine
-219834	masculine
+219819	neuter
+masculine
+219825	masculine
+219827	feminine
+219831	neuter
+219838	masculine
+neuter
 masculine
 219843	masculine
-219845	neuter
-feminine
 219849	masculine
-219856	masculine
-219862	neuter
-219864	feminine
-219868	feminine
-219872	masculine
-219881	feminine
-219900	feminine
-219902	neuter
-219904	neuter
-219908	masculine
+219866	masculine
+219876	masculine
+219881	masculine
+219883	masculine
+219894	masculine
+neuter
+219905	feminine
+feminine
 219911	feminine
-219923	feminine
-219929	feminine
-219932	feminine
-219934	feminine
-219936	feminine
-feminine
-219939	feminine
-219945	neuter
-219947	masculine
-219960	masculine
-219963	masculine
-219984	feminine
-220010	neuter
-220020	feminine
+219915	feminine
+219919	masculine
+219921	masculine
+219938	masculine
+219943	masculine
+219955	neuter
+219958	neuter
+219968	masculine
+219976	masculine
+219989	masculine
+219995	masculine
+masculine
+220015	masculine
+220017	masculine
+220021	masculine
 220023	masculine
-220028	masculine
-220031	neuter
-220035	masculine
-neuter
-220048	feminine
-220051	feminine
-neuter
-feminine
-220055	masculine
-220061	neuter
+220030	masculine
+220032	masculine
+masculine
+220053	masculine
+220060	masculine
 220066	masculine
-220071	masculine
 220073	masculine
-220080	masculine
+220075	masculine
 220084	masculine
-220088	masculine
+220089	neuter
 220091	masculine
-220094	masculine
 masculine
-220098	neuter
 masculine
-220104	masculine
-220106	feminine
-220110	neuter
-220117	masculine
-neuter
+220099	masculine
+feminine
+220103	masculine
+220106	masculine
 masculine
-220122	masculine
-220129	masculine
-220146	masculine
-220156	masculine
-220161	masculine
-220163	masculine
+220109	neuter
+220113	masculine
+220115	neuter
+220119	masculine
+220134	masculine
+220140	neuter
+220148	masculine
+220150	neuter
+masculine
+220153	masculine
+220160	masculine
+masculine
+220165	masculine
+220167	masculine
+220171	masculine
 220174	masculine
-neuter
-220185	feminine
-feminine
-220191	feminine
-220195	feminine
-220199	masculine
-220201	masculine
-220219	masculine
-220224	masculine
-220236	neuter
-220239	neuter
-220249	masculine
-220257	masculine
-220271	masculine
-220277	masculine
+220178	masculine
+220184	masculine
+220187	masculine
+220191	masculine
+220196	neuter
+220214	masculine
+220237	masculine
+220256	masculine
+220259	feminine
+220262	masculine
+220266	masculine
+220270	masculine
+220275	masculine
 masculine
-220299	masculine
-220301	masculine
-220305	masculine
-220307	masculine
-220314	masculine
-220316	masculine
-masculine
-220339	masculine
-220346	masculine
-220352	masculine
-220359	masculine
-220361	masculine
-220370	masculine
-220375	neuter
-220377	masculine
+220284	masculine
 masculine
 masculine
-220385	masculine
-feminine
-220389	masculine
-220392	masculine
+220306	masculine
+220309	masculine
+220314	neuter
+220321	neuter
+220324	feminine
+220339	neuter
+220344	masculine
+220346	neuter
 masculine
-220395	neuter
+masculine
+masculine
+220357	masculine
+220362	masculine
+220373	neuter
+220388	masculine
+220396	masculine
 220399	masculine
-220401	neuter
-220405	masculine
-220420	masculine
-220426	neuter
-220434	masculine
-220436	neuter
+220402	masculine
+220405	feminine
+220408	masculine
+220412	masculine
+220427	feminine
+220446	masculine
+220451	masculine
 masculine
-220439	masculine
-220447	masculine
-masculine
-220452	masculine
 220454	masculine
-220458	masculine
+220457	masculine
 220461	masculine
-220465	masculine
-220471	masculine
-220475	masculine
-220479	masculine
-220484	neuter
-220502	masculine
-220525	masculine
-220544	masculine
-220547	feminine
-220550	masculine
-220554	masculine
-220558	masculine
-220563	masculine
+220483	masculine
 masculine
+220489	masculine
+220494	masculine
+220497	feminine
+220511	masculine
+220513	masculine
+220529	masculine
+neuter
+220533	masculine
+220547	masculine
+masculine
+220551	feminine
+220553	masculine
+220555	neuter
+220561	masculine
 220572	masculine
-masculine
-masculine
-220594	masculine
+220578	masculine
+220581	masculine
+neuter
+220595	masculine
 220597	masculine
-220602	neuter
-220610	neuter
-220613	feminine
-220628	neuter
-220634	masculine
-220636	neuter
+220604	masculine
+220609	masculine
 masculine
+220614	masculine
+220621	neuter
+220632	masculine
+220641	masculine
+220645	masculine
+220652	masculine
+220656	masculine
+220662	masculine
+220671	masculine
+220674	masculine
 masculine
-220640	masculine
-220648	masculine
-220653	masculine
-220665	neuter
-220680	masculine
-220688	masculine
+220679	neuter
+220689	masculine
 220691	masculine
-220694	masculine
-220698	feminine
-220701	masculine
-220705	masculine
-220720	feminine
-220739	masculine
-220744	masculine
+220695	masculine
+220704	masculine
+220706	masculine
+220714	masculine
+220730	masculine
+220732	masculine
+220742	masculine
 masculine
-220747	masculine
-220750	masculine
-220754	masculine
-220777	masculine
+220748	masculine
+220752	masculine
 masculine
-220783	masculine
-220788	masculine
-220791	feminine
-220806	masculine
-220808	masculine
-220824	masculine
-220826	neuter
-220829	masculine
-220843	masculine
-220846	masculine
-220849	feminine
-220851	masculine
-220853	neuter
-220859	masculine
+masculine
+220756	masculine
+neuter
+220759	masculine
+220762	masculine
+neuter
+220765	neuter
+masculine
+220770	masculine
+220787	feminine
+220799	masculine
+220802	masculine
+masculine
+220805	masculine
+neuter
+220813	masculine
+220816	neuter
+220818	masculine
+220820	masculine
+220823	masculine
+masculine
+220834	neuter
+220836	masculine
+220845	masculine
+220848	masculine
+220863	masculine
+220867	masculine
+masculine
 220870	masculine
-220876	masculine
-220879	masculine
-neuter
-220893	masculine
-220895	masculine
-220903	masculine
-220909	masculine
+220884	masculine
 masculine
-220914	masculine
-220921	neuter
-220933	masculine
+220891	masculine
+220898	masculine
+220900	masculine
+220908	masculine
+220912	masculine
+masculine
+220918	masculine
+220921	masculine
+220924	masculine
+220926	masculine
+220932	masculine
+masculine
+masculine
 220945	masculine
-220949	masculine
-220957	masculine
-220961	masculine
-220967	masculine
-220977	masculine
-220980	masculine
+220948	masculine
+220962	masculine
+220968	masculine
+220983	masculine
+221005	masculine
 masculine
-220985	neuter
-220995	masculine
-220997	masculine
-221001	masculine
-221011	masculine
-221013	masculine
-221021	masculine
-221037	masculine
-221039	masculine
-221050	masculine
-masculine
-221056	masculine
-221060	masculine
-masculine
-masculine
-221064	masculine
-neuter
-221067	masculine
+221012	masculine
+221017	feminine
+221019	neuter
+221022	feminine
+221031	neuter
+221046	feminine
+221052	masculine
+221056	neuter
+221059	feminine
+221063	masculine
 221070	masculine
-221072	neuter
-221074	neuter
-masculine
-221079	masculine
-221096	feminine
-221108	masculine
-221111	masculine
-masculine
-221114	masculine
+221080	masculine
 neuter
-221122	masculine
-221126	neuter
-221128	masculine
-221130	masculine
-221133	masculine
-masculine
-221145	neuter
-221147	masculine
-221156	masculine
-221159	masculine
-221174	masculine
-221178	masculine
-masculine
-221181	masculine
-221195	masculine
-masculine
-221202	masculine
-221209	masculine
-221211	masculine
-221220	masculine
+221092	masculine
+221099	masculine
+221101	neuter
+221164	masculine
+221170	masculine
+221173	masculine
+neuter
+221176	masculine
+221196	masculine
+221199	neuter
 221224	masculine
-masculine
-221230	masculine
-221233	masculine
-221236	masculine
-221238	masculine
+221229	neuter
+221232	masculine
+221235	masculine
 221244	masculine
+221259	masculine
 masculine
-masculine
-221257	masculine
-221260	masculine
-221275	masculine
-221281	masculine
+221276	neuter
+221284	masculine
 221296	masculine
-221319	masculine
+221301	masculine
+221304	neuter
+221310	masculine
 masculine
+221313	masculine
+221315	masculine
+221319	feminine
+221322	masculine
 221326	masculine
-221331	feminine
-221334	neuter
-221337	feminine
-221347	neuter
-221362	feminine
-221368	masculine
-221372	neuter
-221375	feminine
-221379	masculine
-221386	masculine
-221397	masculine
-neuter
-221409	masculine
-221416	masculine
-221419	neuter
-221482	masculine
-221488	masculine
-221492	masculine
-neuter
-221495	masculine
-221515	masculine
-221519	neuter
-221544	masculine
-221549	neuter
-221552	masculine
-221555	masculine
-221564	masculine
-221579	masculine
-masculine
-221597	neuter
-221606	masculine
-221619	masculine
-221624	masculine
-221628	neuter
-221634	masculine
-masculine
-221637	masculine
-221639	masculine
-221644	feminine
-221647	masculine
-221651	masculine
-221654	neuter
-221665	masculine
+221329	neuter
+221339	masculine
 neuter
 masculine
-221670	masculine
-221673	feminine
-221676	masculine
+221344	masculine
+221347	feminine
+221350	masculine
 masculine
-221682	masculine
+221356	masculine
 masculine
-221690	neuter
-221699	masculine
-221702	masculine
-221708	masculine
-221723	masculine
-221725	masculine
+221363	neuter
+221372	masculine
+221375	masculine
+221380	masculine
+221394	masculine
+221396	masculine
 masculine
-221734	neuter
-221739	masculine
-221745	masculine
-221757	neuter
-221760	feminine
-221763	neuter
-221766	neuter
-221799	masculine
-221803	masculine
-221806	masculine
-221809	neuter
-221812	masculine
-221815	masculine
-221823	neuter
-221829	neuter
-221833	neuter
-221857	masculine
-221866	masculine
-221873	masculine
-221887	masculine
-221906	masculine
-221928	masculine
-221933	masculine
-221946	feminine
-221966	neuter
-221971	neuter
+221405	neuter
+221410	masculine
+221415	masculine
+221427	neuter
+221430	feminine
+221433	neuter
+221436	neuter
+221468	masculine
+221472	masculine
+221475	masculine
+221478	neuter
+221481	masculine
+221484	masculine
+221492	neuter
+221498	neuter
+221502	neuter
+221525	masculine
+221534	masculine
+221540	masculine
+221553	masculine
+221570	masculine
+221592	masculine
+221597	masculine
+221610	feminine
+221629	neuter
+221633	neuter
 masculine
-221987	masculine
-222023	neuter
+221648	masculine
+221684	neuter
 neuter
-222037	masculine
-222040	feminine
-222052	masculine
+221698	masculine
+221701	feminine
+221713	masculine
 masculine
 masculine
-222059	masculine
-222063	masculine
-222066	masculine
-222070	masculine
-222076	masculine
-222078	neuter
-222082	masculine
-222099	masculine
-222101	masculine
-222108	masculine
-222110	masculine
+221720	masculine
+221724	masculine
+221727	masculine
+221731	masculine
+221736	masculine
+221738	neuter
+221742	masculine
+221759	masculine
+221761	masculine
+221768	masculine
+221770	masculine
 masculine
 feminine
-222124	masculine
-222131	masculine
-222135	masculine
-222147	masculine
-222150	neuter
-222153	neuter
-222158	masculine
-222160	masculine
-222166	masculine
-222168	masculine
-222185	neuter
-222190	masculine
-222196	masculine
-222200	feminine
-222216	masculine
-222221	masculine
-222239	masculine
-222250	feminine
+221784	masculine
+221791	masculine
+221795	masculine
+221807	masculine
+221810	neuter
+221813	neuter
+221818	masculine
+221820	masculine
+221826	masculine
+221828	masculine
+221845	neuter
+221850	masculine
+221856	masculine
+221860	feminine
+221875	masculine
+221880	masculine
+221898	masculine
+221909	feminine
 feminine
-222255	neuter
-222257	masculine
-222268	masculine
-222275	feminine
-222283	neuter
-222285	feminine
-222297	feminine
-222302	masculine
-222308	masculine
+221913	neuter
+221915	masculine
+221926	masculine
+221933	feminine
+221941	neuter
+221943	feminine
+221955	feminine
+221959	masculine
+221965	masculine
 masculine
-222315	feminine
+221972	feminine
 feminine
-222320	masculine
+221977	masculine
 masculine
-222323	masculine
-222326	feminine
-222335	masculine
-222337	masculine
-222344	masculine
-222349	neuter
-222351	masculine
+221980	masculine
+221983	feminine
+221991	masculine
+221993	masculine
+222000	masculine
+222005	neuter
+222007	masculine
 masculine
-222354	neuter
-222359	neuter
-222365	neuter
+222010	neuter
+222015	neuter
+222021	neuter
+222023	masculine
+222028	masculine
+222034	masculine
+222045	masculine
+222048	feminine
+222051	masculine
+222057	masculine
+222062	neuter
+222065	masculine
+222072	neuter
+222074	masculine
+222079	neuter
+222085	masculine
+222099	feminine
+222113	masculine
+222115	feminine
+222120	masculine
+222129	masculine
+222134	neuter
+neuter
+222138	masculine
+222140	masculine
+222143	masculine
+222163	feminine
+222167	feminine
+222170	feminine
+222182	neuter
+222187	neuter
+222196	feminine
+222210	masculine
+222212	masculine
+masculine
+neuter
+222217	masculine
+222224	masculine
+222230	masculine
+masculine
+222234	masculine
+222237	neuter
+222239	feminine
+222243	masculine
+222255	masculine
+222259	neuter
+222262	neuter
+222280	masculine
+222284	neuter
+222286	masculine
+222298	masculine
+222300	masculine
+masculine
+222303	masculine
+222306	masculine
+222308	feminine
+222311	feminine
+222319	masculine
+222321	masculine
+222324	masculine
+222332	masculine
+222342	masculine
+222358	feminine
+222362	masculine
+masculine
 222367	masculine
-222373	masculine
-222379	masculine
-222390	masculine
-222393	feminine
-222396	masculine
-222402	masculine
-222408	neuter
-222411	masculine
-222419	neuter
-222421	masculine
-222426	neuter
-222432	masculine
-222446	feminine
-222461	masculine
-222463	feminine
-222470	masculine
-222479	masculine
-222484	neuter
-neuter
-222488	masculine
-222490	masculine
-222493	masculine
-222514	feminine
-222518	feminine
-222521	feminine
-222533	neuter
-222538	neuter
-222548	feminine
-222562	masculine
-222564	masculine
+222372	masculine
+222376	masculine
+222381	masculine
+222383	masculine
+222385	masculine
+222387	masculine
 masculine
+222393	neuter
+222397	masculine
+222418	feminine
+222423	neuter
+222431	masculine
+222454	masculine
+222460	masculine
+222478	masculine
+222482	feminine
+222491	masculine
+222494	masculine
 neuter
-222569	masculine
+222515	masculine
+222523	masculine
+masculine
+222526	masculine
+222560	masculine
+222567	masculine
 222576	masculine
-222583	masculine
+222578	masculine
+222584	masculine
 masculine
 222588	masculine
-222591	neuter
-222593	feminine
-222597	masculine
-222610	masculine
-222614	neuter
-222617	neuter
-222638	masculine
-222642	neuter
-222644	masculine
-222656	masculine
-222658	masculine
 masculine
-222661	masculine
-222664	masculine
-222666	feminine
-222669	feminine
-222677	masculine
-222679	masculine
-222682	masculine
-222690	masculine
-222700	masculine
-222716	feminine
-222720	masculine
+222599	neuter
+222603	masculine
+222608	masculine
+222618	masculine
+222636	masculine
+222648	masculine
+222658	feminine
+222660	feminine
+222662	feminine
+222667	masculine
+222669	masculine
+222673	masculine
+222684	masculine
+222689	masculine
+222691	neuter
+222694	neuter
+222701	masculine
+222706	masculine
 masculine
-222725	masculine
-222730	masculine
-222734	masculine
-222739	masculine
+222709	masculine
+222711	masculine
+222717	masculine
+222719	masculine
+222722	masculine
+masculine
+masculine
+masculine
+222737	masculine
 222741	masculine
-222743	masculine
 222745	masculine
+222756	masculine
+222767	neuter
+222774	masculine
+222776	neuter
+222784	masculine
+222787	masculine
 masculine
-222751	neuter
-222755	masculine
-222776	feminine
-222781	neuter
 222790	masculine
+masculine
+222801	masculine
+masculine
+222806	masculine
 222813	masculine
-222819	masculine
-222837	masculine
-222841	feminine
-222851	masculine
-222854	masculine
+222816	masculine
+222821	masculine
+masculine
+222827	masculine
+222833	masculine
+222835	masculine
+222850	masculine
+222852	masculine
+masculine
+masculine
+222861	neuter
+222864	masculine
+222867	masculine
+222878	masculine
+222883	neuter
+222891	masculine
+masculine
+masculine
+222900	masculine
+222908	neuter
+222911	neuter
+222914	masculine
 neuter
-222876	masculine
-222885	masculine
+222917	masculine
+222919	neuter
+222932	masculine
+neuter
 masculine
-222888	masculine
-222924	masculine
-222931	masculine
-222942	masculine
-222944	masculine
-222951	masculine
-masculine
+222940	masculine
 222955	masculine
-masculine
-222966	neuter
-222970	masculine
+222961	masculine
+222968	masculine
 222975	masculine
-222986	masculine
-223004	masculine
-223016	masculine
-223026	feminine
-223028	feminine
-223030	feminine
-223037	masculine
-223039	masculine
-223044	masculine
-223056	masculine
-223061	masculine
-223063	neuter
-223066	neuter
-223073	masculine
-223078	masculine
+222981	masculine
 masculine
-223081	masculine
-223083	masculine
-223089	masculine
-223091	masculine
-223094	masculine
+222988	masculine
+222990	masculine
 masculine
-masculine
-masculine
-223109	masculine
-223113	masculine
-223117	masculine
-223129	masculine
-223140	neuter
-223147	masculine
-223149	neuter
-223157	masculine
-223160	masculine
-masculine
-223163	masculine
-masculine
-223174	masculine
-masculine
-223179	masculine
-223186	masculine
-223189	masculine
-223195	masculine
-masculine
-223201	masculine
-223207	masculine
-223209	masculine
-223224	masculine
-223226	masculine
-masculine
-masculine
-223235	neuter
-223238	masculine
-223241	masculine
-223254	masculine
-223259	neuter
-223267	masculine
-masculine
-masculine
-223276	masculine
-223285	neuter
-223288	neuter
-223291	masculine
-neuter
-223294	masculine
-223296	neuter
-223309	masculine
-neuter
-masculine
-223317	masculine
-223333	masculine
-223339	masculine
-223346	masculine
-223353	masculine
-223359	masculine
-masculine
-223366	masculine
-223368	masculine
-masculine
-223389	feminine
-223402	masculine
-223408	feminine
-223414	feminine
-223418	feminine
-223420	masculine
+223010	feminine
+223023	masculine
+223029	feminine
+223035	feminine
+223039	feminine
+223041	masculine
 feminine
-223429	neuter
-223445	masculine
-223449	masculine
-223457	neuter
-223466	feminine
-223477	masculine
-223488	feminine
+223049	neuter
+223063	masculine
+223067	masculine
+223075	neuter
+223084	feminine
+223095	masculine
+223105	feminine
 masculine
-223491	masculine
-223496	feminine
-223500	feminine
-223516	neuter
-223522	masculine
+223108	masculine
+223113	feminine
+223116	feminine
+223132	neuter
+223138	masculine
+223142	masculine
+223144	masculine
+223163	neuter
+223169	neuter
+223172	neuter
+223183	masculine
+223185	masculine
+223202	masculine
+223204	masculine
+223206	masculine
+masculine
+223220	feminine
+223222	feminine
+223230	feminine
+223232	feminine
+223258	masculine
+223264	masculine
+223270	feminine
+223272	masculine
+223291	masculine
+223299	masculine
+223304	masculine
+223327	masculine
+223332	neuter
+223335	masculine
+223340	masculine
+223356	masculine
+223361	masculine
+223370	masculine
+223373	masculine
+neuter
+223377	masculine
+masculine
+masculine
+223382	neuter
+223386	masculine
+223392	masculine
+223394	masculine
+223398	masculine
+223410	neuter
+223412	masculine
+223420	neuter
+neuter
+223444	masculine
+223446	masculine
+223452	neuter
+223463	neuter
+223466	neuter
+223473	neuter
+223479	neuter
+223481	masculine
+223484	masculine
+neuter
+223487	neuter
+223490	masculine
+223495	masculine
+223501	masculine
+223508	masculine
+223511	masculine
+223518	feminine
 223526	masculine
-223528	masculine
-223548	neuter
-223554	neuter
-223558	neuter
-223569	masculine
-223571	masculine
-223588	masculine
+223534	feminine
+223545	masculine
+223547	masculine
+223556	masculine
+223562	masculine
+223565	masculine
+223568	masculine
+223576	masculine
 223590	masculine
-223592	masculine
+223601	neuter
+223612	masculine
+223618	neuter
+223625	masculine
+223632	masculine
+223640	masculine
+223646	masculine
+223649	masculine
 masculine
-223606	feminine
-223608	feminine
-223616	feminine
-223618	feminine
-223645	masculine
-223651	masculine
-223657	feminine
-223659	masculine
-223678	masculine
-223689	masculine
-223694	masculine
-223719	masculine
-223725	neuter
-223728	masculine
-223733	masculine
-223749	masculine
-223754	masculine
+223654	masculine
+masculine
+223660	masculine
+223671	neuter
+223684	feminine
+223688	feminine
+223691	feminine
+223697	masculine
+223706	neuter
+223714	masculine
+223717	masculine
+neuter
+223725	masculine
+223727	masculine
+223730	masculine
+223741	neuter
+223755	masculine
+223759	masculine
 223764	masculine
-223767	masculine
-neuter
-223771	masculine
-masculine
-masculine
-223776	neuter
-223780	masculine
 223787	masculine
-223789	masculine
-223793	masculine
-223805	neuter
-223807	masculine
-223815	neuter
-neuter
-223841	masculine
-223843	masculine
-223849	neuter
-223862	neuter
-223865	neuter
-223872	neuter
-223878	neuter
-223880	masculine
-223883	masculine
-223885	neuter
-223887	neuter
+223791	feminine
+masculine
+223797	masculine
+223804	masculine
+223811	masculine
+223816	masculine
+223832	neuter
+223839	masculine
+223857	masculine
+223859	neuter
+223864	masculine
+223867	neuter
+223875	neuter
+223879	neuter
+223887	masculine
 223890	masculine
-223895	masculine
-223901	masculine
-223908	masculine
+223896	masculine
 223911	masculine
-223918	feminine
-223926	masculine
-223934	feminine
-223945	masculine
-223947	masculine
-223956	masculine
-223962	masculine
-223965	masculine
-223968	masculine
-223977	masculine
-223993	masculine
-224004	neuter
-224015	masculine
-224021	neuter
-224029	masculine
-224036	masculine
-224044	masculine
-224050	masculine
-224053	masculine
-masculine
-224058	masculine
-masculine
-224064	masculine
-224076	neuter
-224090	feminine
-224095	feminine
-224098	feminine
-224104	masculine
-224114	neuter
-224122	masculine
+223916	masculine
+223921	masculine
+223936	masculine
+223939	masculine
+223943	masculine
+223951	masculine
+223954	masculine
+223957	masculine
+223966	masculine
+223969	masculine
+223973	masculine
+223979	masculine
+223981	masculine
+223984	masculine
+223989	masculine
+224005	masculine
+224011	masculine
+224014	masculine
+224025	masculine
+224028	masculine
+224030	masculine
+224042	masculine
+224056	masculine
+224059	masculine
+224066	masculine
+224083	feminine
+224085	masculine
+224089	masculine
+224096	masculine
+224109	masculine
+224113	masculine
 224125	masculine
+224132	masculine
+224134	masculine
+224137	masculine
+224142	masculine
+224149	masculine
+224155	neuter
+224158	masculine
+224162	masculine
+224167	masculine
+224171	masculine
+224173	masculine
+224175	masculine
+224185	masculine
 neuter
-224133	masculine
-224135	masculine
-224138	masculine
-224150	neuter
-224165	masculine
-224169	masculine
-224174	masculine
-224197	masculine
-224201	feminine
+224195	masculine
+224201	neuter
+224205	neuter
+224207	neuter
+224211	neuter
+224214	feminine
+224220	masculine
+224228	masculine
+224231	masculine
+224233	masculine
+224235	masculine
 masculine
-224207	masculine
-224214	masculine
-224221	masculine
-224226	masculine
-224242	neuter
-224249	masculine
-224268	masculine
-224270	neuter
-224275	masculine
-224278	neuter
-224286	neuter
-224290	neuter
-224298	masculine
-224301	masculine
-224307	masculine
-224322	masculine
-224328	masculine
-224334	masculine
-224349	masculine
-224352	masculine
-224357	masculine
-224365	masculine
-224368	masculine
-224371	masculine
-224380	masculine
-224383	masculine
+224243	masculine
+224250	masculine
+224272	masculine
+224274	masculine
+224293	masculine
+224303	masculine
+224310	masculine
+224314	masculine
+224332	masculine
+224361	neuter
+224363	masculine
+224365	neuter
+224370	masculine
+224374	neuter
+224377	masculine
 224387	masculine
-224393	masculine
-224395	masculine
-224398	masculine
-224403	masculine
-224419	masculine
-224425	masculine
-224428	masculine
-224439	masculine
-224442	masculine
-224444	masculine
-224457	masculine
+224401	masculine
+224417	neuter
+224434	neuter
+224436	masculine
+masculine
+224459	masculine
+224466	masculine
 224471	masculine
 224474	masculine
-224481	masculine
-224499	feminine
+224478	masculine
+224480	masculine
+224488	masculine
+224490	feminine
+224500	feminine
 224502	masculine
-224506	masculine
-224513	masculine
-224527	masculine
-224531	masculine
-224544	masculine
-224551	masculine
-224553	masculine
-224556	masculine
-224561	masculine
-224568	masculine
-224574	neuter
-224577	masculine
-224581	masculine
-224586	masculine
-224590	masculine
-224592	masculine
-224594	masculine
-224604	masculine
+224510	masculine
+224512	masculine
 neuter
-224614	masculine
-224621	neuter
-224625	neuter
-224628	neuter
-224632	neuter
-224635	feminine
-224642	masculine
+224516	masculine
+224519	masculine
+masculine
+224528	feminine
+224530	masculine
+224533	masculine
+224551	masculine
+224557	masculine
+224560	masculine
+masculine
+masculine
+masculine
+224566	feminine
+224570	masculine
+224579	neuter
+224585	neuter
+224587	masculine
+224592	masculine
+224595	masculine
+224600	masculine
+224603	masculine
+224618	masculine
+224620	feminine
+224622	masculine
+224633	masculine
+224648	masculine
 224650	masculine
-224653	masculine
-224655	masculine
-224657	masculine
+224655	feminine
+224658	neuter
 masculine
-224665	masculine
-224672	masculine
-224694	masculine
-224696	masculine
-224715	masculine
+224667	masculine
+224671	masculine
+224679	masculine
+224687	masculine
+224690	masculine
+224704	masculine
+masculine
+224707	masculine
+224713	masculine
+224717	masculine
+224722	masculine
 224725	masculine
-224733	masculine
 224737	masculine
-224755	masculine
-224786	neuter
-224788	masculine
-224790	neuter
-224795	masculine
-224800	neuter
-224803	masculine
-224813	masculine
-224827	masculine
-224844	neuter
-224861	neuter
-224863	masculine
+224747	neuter
 masculine
-224887	masculine
-224894	masculine
+224753	masculine
+224755	neuter
+224762	masculine
+224765	masculine
+224777	masculine
+224798	masculine
+224805	masculine
+224816	masculine
+224820	masculine
+224848	masculine
+224850	masculine
+224856	masculine
+224867	neuter
+neuter
+224873	neuter
+224876	masculine
+224881	neuter
+224883	masculine
+224889	masculine
+224893	masculine
+224897	masculine
 224899	masculine
 224902	masculine
-224906	masculine
-224908	masculine
-224916	masculine
-224918	feminine
-224929	feminine
-224931	masculine
+224923	masculine
+224926	neuter
+224937	masculine
 224939	masculine
-224941	masculine
-neuter
-224945	masculine
-224948	masculine
+224952	masculine
 masculine
-224957	feminine
-224959	masculine
+224957	masculine
 224963	masculine
-224981	masculine
-224987	masculine
-224990	masculine
-masculine
-masculine
-masculine
-224996	feminine
-225000	masculine
-225009	neuter
-225016	neuter
-225018	masculine
-225023	masculine
-225026	masculine
-225031	masculine
-225034	masculine
-225049	masculine
-225053	feminine
+224969	masculine
+224986	masculine
+224988	masculine
+224993	masculine
+224995	neuter
+224997	masculine
+225007	neuter
+225011	neuter
+225016	masculine
+225027	masculine
+225032	masculine
+225036	masculine
+225043	masculine
 225055	masculine
-225067	masculine
-225082	masculine
-225084	masculine
-225089	feminine
+225057	masculine
+225067	feminine
+225069	masculine
+feminine
+225073	masculine
+masculine
+225078	neuter
+feminine
+225083	masculine
+225090	neuter
 225092	neuter
+225095	masculine
 masculine
-225101	masculine
-225105	masculine
-225113	masculine
-225121	masculine
-225124	masculine
-225138	masculine
+225100	masculine
+225104	masculine
+225112	masculine
+masculine
+masculine
+225119	masculine
+225126	masculine
+225130	masculine
+225133	masculine
+225137	masculine
 225140	masculine
-225142	masculine
-225149	masculine
-225153	masculine
-225158	masculine
-225161	masculine
-225173	masculine
-225183	neuter
+225148	masculine
+225153	feminine
+225155	masculine
+225159	masculine
 masculine
-225190	masculine
-225192	neuter
-225200	masculine
-225203	masculine
+225164	feminine
+225171	masculine
+225174	feminine
+225177	masculine
+masculine
+225181	feminine
+225193	masculine
+225196	masculine
+225202	masculine
 225215	masculine
-225237	masculine
-225244	masculine
-225255	masculine
-225260	masculine
-225288	masculine
-225291	masculine
-225297	masculine
-225308	neuter
-neuter
-225315	neuter
-225318	masculine
-225323	neuter
-225325	masculine
-225331	masculine
-225335	masculine
-225339	masculine
-225341	masculine
-225344	masculine
-225366	masculine
-225369	neuter
-225380	masculine
-225382	masculine
-225395	masculine
-masculine
-225400	masculine
-225406	masculine
-225412	masculine
-225429	masculine
+225224	feminine
+225226	masculine
+225229	masculine
+225233	feminine
+225262	masculine
+225271	feminine
+225275	masculine
+225281	masculine
+225294	feminine
+225299	masculine
+225306	masculine
+225310	masculine
+225316	masculine
+225336	masculine
+225340	masculine
+225342	masculine
+225351	masculine
+225373	masculine
+225385	masculine
+225426	masculine
+225428	masculine
 225431	masculine
-225436	masculine
+225434	neuter
 225438	neuter
-225440	masculine
-225450	neuter
-225454	neuter
-225459	masculine
-225470	masculine
-225475	masculine
-225479	masculine
-225486	masculine
-225498	masculine
-225500	masculine
-225510	feminine
-225512	masculine
-feminine
-225516	masculine
-masculine
-225521	neuter
-feminine
-225526	masculine
-225533	neuter
-225535	neuter
-225538	masculine
-masculine
-225543	masculine
-225547	masculine
-225556	masculine
+225444	masculine
+225446	masculine
+225449	neuter
+225452	neuter
+225460	masculine
+225479	neuter
+225485	neuter
+225488	masculine
+225495	masculine
+225502	neuter
 masculine
 masculine
-225563	masculine
-225570	masculine
-225574	masculine
-225577	masculine
-225581	masculine
-225584	masculine
-225592	masculine
-225597	feminine
-225599	masculine
-225603	masculine
 masculine
-225608	feminine
-225615	masculine
-225618	feminine
-225621	masculine
+225514	masculine
 masculine
-225625	feminine
-225638	masculine
-225641	masculine
-225648	masculine
+225539	masculine
+225546	masculine
+225549	masculine
+225555	masculine
+225578	masculine
+225595	neuter
+225603	neuter
+225611	masculine
+225614	masculine
+225617	masculine
+225632	masculine
+225636	feminine
+225640	neuter
+masculine
+225651	masculine
 225661	masculine
-225670	feminine
-225672	masculine
-225675	masculine
-225681	feminine
-225710	masculine
-225721	feminine
-225725	masculine
-225731	masculine
-225744	feminine
-225749	masculine
-225756	masculine
+225682	masculine
+225712	masculine
+masculine
+225724	feminine
+225734	masculine
+225753	feminine
 225760	masculine
-225766	masculine
-225787	masculine
-225791	masculine
-225793	masculine
-225802	masculine
-225826	masculine
+225780	masculine
+225785	masculine
+225789	neuter
+225792	masculine
+225796	neuter
+225814	masculine
+225816	masculine
+225820	masculine
+225824	masculine
+225830	masculine
+225835	neuter
 225838	masculine
+225846	masculine
+225852	masculine
+225856	masculine
+225861	masculine
+225866	masculine
+masculine
+225870	masculine
+225874	masculine
+225877	neuter
+225882	masculine
 225884	masculine
-225886	masculine
-225889	masculine
-225893	neuter
-225897	neuter
+225893	masculine
+225897	masculine
 225903	masculine
-225905	masculine
-225908	neuter
-225911	neuter
-225919	masculine
-225939	neuter
-225946	neuter
-225949	masculine
+225910	masculine
+225938	masculine
+225941	masculine
+masculine
+225946	masculine
+225952	masculine
 225956	masculine
-225963	neuter
+225964	masculine
+225971	masculine
+225974	masculine
 masculine
 masculine
+225983	masculine
+225986	masculine
+225990	masculine
+226007	masculine
+226010	feminine
+226013	feminine
 masculine
-225975	masculine
+226024	neuter
 masculine
-226002	masculine
-226009	masculine
-226012	masculine
-226018	masculine
-226042	masculine
-226060	neuter
-226068	neuter
-226076	masculine
-226079	masculine
-226082	masculine
-226099	masculine
-226103	feminine
-226107	neuter
+226030	masculine
+226041	masculine
+226048	neuter
+226050	masculine
+226058	masculine
+226063	masculine
 masculine
-226118	masculine
-226129	masculine
-226151	masculine
-226181	masculine
+226067	masculine
+226070	masculine
+226072	masculine
+226074	masculine
 masculine
-226193	feminine
-226205	masculine
-226225	feminine
-226232	masculine
-226252	masculine
-226257	masculine
-226261	neuter
-226264	masculine
-226268	neuter
-226286	masculine
-226288	masculine
-226293	masculine
-226297	masculine
-226303	masculine
-226308	neuter
-226311	masculine
+226078	masculine
+226080	masculine
+226085	masculine
+masculine
+226088	masculine
+226095	masculine
+226102	masculine
+226105	masculine
+masculine
+masculine
+226123	masculine
+226126	masculine
+226130	masculine
+226133	masculine
+226145	neuter
+226158	masculine
+226163	masculine
+226166	masculine
+226168	masculine
+226192	masculine
+226200	neuter
+226207	neuter
+226215	masculine
+226219	masculine
+226228	masculine
+226232	neuter
+226237	masculine
+226240	masculine
+masculine
+masculine
+226246	masculine
+226250	masculine
+226265	masculine
+226271	masculine
+226280	masculine
+226287	masculine
+226289	feminine
+226291	masculine
+226294	neuter
+226307	masculine
+masculine
+226310	masculine
+masculine
+226318	feminine
 226320	masculine
 226326	masculine
-226330	masculine
-226336	masculine
-226341	masculine
+226328	masculine
+226331	masculine
+226333	feminine
+226340	masculine
+226344	masculine
 masculine
-226345	masculine
-226350	masculine
-226353	neuter
-226358	masculine
-226360	masculine
-226369	masculine
-226373	masculine
-226380	masculine
-226387	masculine
-226415	masculine
-226418	masculine
+226349	neuter
+226351	masculine
 masculine
-226423	masculine
-226429	masculine
-226433	masculine
+226357	masculine
+neuter
+226366	masculine
+226373	neuter
+226383	masculine
+226398	masculine
+226401	masculine
+226411	masculine
+226428	masculine
+226434	masculine
+masculine
 226441	masculine
-226448	masculine
-226451	masculine
+226449	masculine
+226452	masculine
+226456	masculine
+226461	neuter
+226465	masculine
+226470	masculine
+226477	masculine
+226480	masculine
+226483	masculine
+226486	masculine
 masculine
-masculine
-226460	masculine
-226463	masculine
-226467	masculine
-226484	masculine
-226487	feminine
-226490	feminine
-masculine
-226501	neuter
-masculine
+226496	masculine
+226500	masculine
+226502	masculine
 226507	masculine
-226518	masculine
-226527	neuter
-226529	masculine
+226511	masculine
+226513	masculine
+226515	masculine
+226517	masculine
+226521	masculine
+226524	masculine
 226537	masculine
-226542	masculine
+226540	masculine
 masculine
-226546	masculine
+226547	neuter
 226549	masculine
-226551	masculine
-226553	masculine
-masculine
+226552	masculine
+226554	masculine
 226557	masculine
-226559	masculine
-226564	masculine
-masculine
-226567	masculine
-226574	masculine
-226581	masculine
+226560	masculine
+226564	feminine
+226575	masculine
+226583	masculine
 226585	masculine
 masculine
+226589	masculine
+226591	masculine
+226597	masculine
+226614	neuter
+226623	masculine
+226629	masculine
+226645	masculine
+226647	masculine
+226651	neuter
+226653	neuter
+226655	masculine
+226669	masculine
+226672	masculine
+226675	masculine
+226679	masculine
+226686	masculine
+226696	feminine
+226713	feminine
+226716	neuter
+226735	masculine
 masculine
-226603	masculine
-226606	masculine
-226610	masculine
-226613	masculine
-226625	neuter
-226638	masculine
-226643	masculine
-226646	masculine
-226648	masculine
-226673	masculine
-226681	neuter
-226688	neuter
-226696	masculine
-226700	masculine
-226709	masculine
-226713	neuter
-226718	masculine
-226721	masculine
 masculine
-masculine
-226728	masculine
-226732	masculine
-226747	masculine
-226753	masculine
+226741	neuter
+226744	masculine
+226754	neuter
+226759	masculine
 226764	masculine
-226771	masculine
-226774	feminine
-226776	masculine
-226780	neuter
-226794	masculine
+226796	neuter
+226802	neuter
+226828	feminine
 masculine
-226797	masculine
-masculine
-226806	feminine
-226808	masculine
-226814	masculine
-226816	masculine
-226819	masculine
-226821	feminine
-226828	masculine
-226832	masculine
-226835	masculine
-226839	neuter
-226841	masculine
-masculine
-226847	masculine
-226849	neuter
-226857	masculine
+226831	feminine
+226836	feminine
+226838	feminine
+226841	feminine
+226843	feminine
+226847	feminine
+226854	neuter
 226866	neuter
-226876	masculine
-226891	masculine
-226894	masculine
-226904	masculine
-226921	masculine
-226928	masculine
+226870	neuter
 masculine
-226935	masculine
-226943	masculine
-226946	masculine
-226950	masculine
-226955	neuter
-226959	masculine
+226873	masculine
+226879	masculine
+neuter
+226889	masculine
+226902	masculine
+226906	masculine
+226917	feminine
+226919	masculine
+226928	neuter
+226936	neuter
+226958	neuter
 226964	masculine
-226971	masculine
 226974	masculine
-226977	masculine
-226980	masculine
-masculine
-226990	masculine
-226995	masculine
-226997	masculine
+neuter
+226981	neuter
+226984	neuter
+neuter
+226988	masculine
+226998	neuter
 227002	masculine
 227006	masculine
 227008	masculine
-227010	masculine
-227012	masculine
-227016	masculine
-227019	masculine
-227033	masculine
+227022	masculine
 227036	masculine
 masculine
-227043	neuter
-227045	masculine
-227048	masculine
-227050	masculine
-227053	masculine
+227039	masculine
+masculine
+227042	masculine
+227051	masculine
+227055	masculine
 227057	masculine
-227061	feminine
-227073	masculine
-227081	masculine
-227083	masculine
-masculine
-227087	masculine
-227089	masculine
-227095	masculine
-227112	neuter
-227123	masculine
-227130	masculine
-227146	masculine
-227148	masculine
-227152	neuter
-227154	neuter
+227068	masculine
+227114	masculine
+227131	masculine
+227137	masculine
+227143	masculine
+227149	neuter
+227151	masculine
+227153	neuter
 227156	masculine
-227170	masculine
-227173	masculine
-227176	masculine
-227180	masculine
-227187	masculine
-227197	feminine
-227214	feminine
-227217	neuter
-227237	masculine
+227165	masculine
+227178	feminine
+feminine
+227181	neuter
+227183	feminine
+227196	feminine
 masculine
-masculine
-227243	neuter
-227246	masculine
-227256	neuter
-227261	masculine
+227199	masculine
+227202	masculine
+227240	masculine
+227242	masculine
+227253	masculine
+227255	masculine
 227266	masculine
-227299	neuter
-227305	neuter
-227331	feminine
+227271	masculine
+227285	masculine
+227295	neuter
+227300	masculine
+227310	masculine
+227314	masculine
 masculine
-227334	feminine
+227325	masculine
+227337	masculine
 227339	feminine
-227341	feminine
-227344	feminine
-227346	feminine
-227350	feminine
-227357	neuter
-227370	neuter
-227374	neuter
+227342	masculine
+227359	masculine
 masculine
-227377	masculine
-227383	masculine
-neuter
-227393	masculine
-227406	masculine
-227410	masculine
-227422	feminine
-227424	masculine
-227434	neuter
-227442	neuter
-227464	neuter
-227471	masculine
-227481	masculine
-neuter
-227488	neuter
-227491	neuter
-neuter
-227495	masculine
-227505	neuter
-227509	masculine
-227513	masculine
-227515	masculine
-227529	masculine
-227543	masculine
+227367	masculine
+227371	masculine
+227374	masculine
+227379	feminine
+227396	feminine
+227404	masculine
+227407	masculine
+feminine
+227417	masculine
+227429	neuter
+227436	feminine
+227442	masculine
+227453	feminine
+227461	masculine
+227467	masculine
+227469	masculine
+227476	neuter
+227478	masculine
+227480	masculine
+227494	masculine
+227496	neuter
+feminine
+227505	feminine
+227512	feminine
+227517	neuter
+227534	masculine
+227539	masculine
+227544	masculine
+feminine
 masculine
-227546	masculine
+227554	feminine
 masculine
-227549	masculine
-227558	masculine
-227562	masculine
-227564	masculine
-227575	masculine
-227626	masculine
-227644	masculine
-227650	masculine
-227656	masculine
-227662	neuter
+227569	masculine
+feminine
+masculine
+227576	feminine
+masculine
+masculine
+227586	masculine
+227591	feminine
+feminine
+227596	masculine
+feminine
+masculine
+227604	masculine
+227609	masculine
+227611	masculine
+masculine
+227624	masculine
+227631	masculine
+227640	masculine
+227643	masculine
+227650	neuter
+227652	masculine
+227660	masculine
 227664	masculine
-227666	neuter
-227669	masculine
-227678	masculine
-227691	feminine
-feminine
-227694	neuter
-227696	feminine
-227709	feminine
 masculine
-227712	masculine
-227715	masculine
-227756	masculine
-227758	masculine
-227769	masculine
-227771	masculine
-227782	masculine
-227787	masculine
-227801	masculine
-227811	neuter
+227668	masculine
+227672	feminine
+227693	masculine
+227711	masculine
+227720	neuter
+masculine
+227724	masculine
+227728	masculine
+masculine
+227734	feminine
+227738	neuter
+227741	masculine
+227745	masculine
+227748	masculine
+227755	masculine
+227759	masculine
+neuter
+227772	masculine
+neuter
+227775	masculine
+227782	neuter
+227785	neuter
+227794	masculine
+227796	masculine
 227816	masculine
-227827	masculine
-227831	masculine
 masculine
-227842	masculine
-227854	masculine
-227856	feminine
-227859	masculine
-227876	masculine
+227821	masculine
+227826	neuter
+227842	neuter
+227848	masculine
 masculine
-227885	masculine
-227889	masculine
-227892	masculine
-227897	feminine
-227914	feminine
-227923	masculine
-227926	masculine
+227855	masculine
+227864	neuter
+227872	neuter
+227882	masculine
+227886	feminine
+227900	masculine
 feminine
-227936	masculine
-227949	neuter
-227956	feminine
-227962	masculine
-227973	feminine
-227981	masculine
-227987	masculine
-227989	masculine
-227996	neuter
-227998	masculine
-228001	masculine
-228015	masculine
-228017	neuter
-feminine
-228026	feminine
-228033	feminine
-228038	neuter
-228056	masculine
-228061	masculine
-228066	masculine
-feminine
+227914	masculine
+227922	masculine
+227931	masculine
+neuter
+227946	feminine
+227948	masculine
+227955	masculine
+227966	masculine
+227969	masculine
+227973	masculine
+neuter
+227984	masculine
+227988	feminine
+228019	masculine
 masculine
-228076	feminine
-masculine
-228091	masculine
-feminine
-masculine
-228098	feminine
-masculine
-masculine
-228108	masculine
-228113	feminine
-feminine
-228118	masculine
-feminine
-masculine
+228031	masculine
+228034	neuter
+228040	masculine
+228043	masculine
+228047	masculine
+neuter
+228054	feminine
+228062	neuter
+228090	masculine
+228096	masculine
+228120	masculine
+228123	masculine
 228126	masculine
-228131	masculine
-228133	masculine
-masculine
-228146	masculine
-228153	masculine
+228139	masculine
+228141	masculine
+228148	masculine
+228151	neuter
 228163	masculine
-228166	masculine
-228173	neuter
+228166	neuter
 228175	masculine
-228183	masculine
-228187	masculine
+228179	neuter
+228183	neuter
+228185	masculine
+228190	masculine
+228200	masculine
+228205	masculine
+228209	masculine
+228220	neuter
+228229	masculine
+228234	masculine
+228244	masculine
 masculine
-228191	masculine
-228195	feminine
-228217	masculine
-228235	masculine
-228244	neuter
 masculine
-228248	masculine
-228252	masculine
+228264	masculine
 masculine
-228258	feminine
-228262	neuter
-228265	masculine
-228269	masculine
-228272	masculine
-228279	masculine
-228283	masculine
-neuter
-228296	masculine
-neuter
+228281	masculine
+228285	masculine
+masculine
+228293	masculine
+228297	feminine
 228299	masculine
-228306	neuter
-228310	neuter
-228320	masculine
-228322	masculine
-228342	masculine
-masculine
-228347	masculine
-228352	neuter
-228368	neuter
-228374	masculine
+228308	feminine
+228311	masculine
+228326	masculine
+228330	masculine
+228337	neuter
+228339	masculine
+228351	masculine
+228357	feminine
+228369	masculine
+228371	masculine
+228373	feminine
+228375	masculine
+228377	masculine
 masculine
 228381	masculine
-228390	neuter
-228398	neuter
 228408	masculine
-228412	feminine
-228426	masculine
-feminine
-228440	masculine
-228448	masculine
-228457	masculine
-neuter
-228472	feminine
-228476	masculine
-228483	masculine
-228496	masculine
-228499	masculine
+228411	neuter
+228414	masculine
+228420	masculine
+228441	masculine
+228449	masculine
+228462	feminine
+228466	masculine
+228482	neuter
+228484	masculine
+228486	masculine
+228491	masculine
+masculine
 228503	masculine
-neuter
-228514	masculine
-228518	feminine
-228549	masculine
+228505	masculine
 masculine
-228561	masculine
-228564	neuter
-228570	masculine
-228573	masculine
-228577	masculine
+228513	masculine
+228522	masculine
+228541	masculine
 neuter
-228585	feminine
-228593	neuter
-228621	masculine
+228544	masculine
+228568	masculine
+228580	masculine
+228587	masculine
+228594	masculine
+228597	masculine
+228600	masculine
+228603	neuter
+228609	masculine
+228618	masculine
 228628	masculine
-228653	masculine
-228656	masculine
-228659	masculine
-228672	masculine
-228674	masculine
-228682	masculine
-228685	neuter
-228698	masculine
-228701	neuter
-228711	masculine
-228715	neuter
-228719	neuter
-228721	masculine
-228726	masculine
+228639	masculine
+228643	masculine
+228647	masculine
+masculine
+228650	masculine
+228652	masculine
+228654	masculine
+228667	masculine
+228669	masculine
+228671	feminine
+228674	neuter
+228677	neuter
+228686	neuter
+228701	masculine
+228714	masculine
+228722	masculine
+228724	neuter
+neuter
+228728	masculine
+228733	masculine
 228736	masculine
-228742	masculine
-228747	masculine
-228759	neuter
-228768	masculine
-228773	masculine
-228783	masculine
+228739	neuter
+228741	masculine
+228760	masculine
+neuter
+228763	masculine
+228766	neuter
+228779	neuter
+228786	masculine
 masculine
+228793	masculine
+228796	masculine
+neuter
+228808	masculine
 masculine
-228803	masculine
+228817	masculine
 masculine
-228821	masculine
-228825	masculine
+228825	neuter
+228828	masculine
+228830	masculine
+228833	neuter
+228841	masculine
 masculine
-228833	masculine
-228837	feminine
-228839	masculine
+228845	masculine
 228848	feminine
-228851	masculine
+228855	masculine
+masculine
+228860	masculine
+228864	masculine
 228867	masculine
-228871	masculine
-228878	neuter
-228880	masculine
-228892	masculine
-228898	feminine
-228910	masculine
-228912	masculine
-228914	feminine
-228916	masculine
-228918	masculine
 masculine
-228922	masculine
+228873	masculine
+masculine
+228890	masculine
+228892	neuter
+228922	neuter
+228938	masculine
+masculine
+228943	masculine
+masculine
+masculine
+masculine
+228948	neuter
 228950	masculine
-228953	neuter
-228956	masculine
-228962	masculine
-228984	masculine
-228992	masculine
-229005	feminine
-229009	masculine
-229027	neuter
-229029	masculine
-229031	masculine
+228954	neuter
+228961	masculine
+228967	masculine
+228989	masculine
+masculine
+228996	masculine
+228998	masculine
+229000	neuter
+masculine
+masculine
+229020	masculine
+229032	masculine
 229037	masculine
+229041	masculine
+229043	masculine
+229047	masculine
 masculine
-229049	masculine
-229051	masculine
+229055	masculine
 masculine
-229059	masculine
-229068	masculine
-229088	masculine
+masculine
+229063	masculine
+229069	masculine
+masculine
+229087	masculine
+masculine
 neuter
-229091	masculine
-229116	masculine
+229092	neuter
+neuter
+229097	masculine
+229100	masculine
+masculine
+229107	masculine
+229110	masculine
+masculine
+229121	neuter
+229123	masculine
+229126	masculine
 229128	masculine
-229135	masculine
-229142	masculine
-229145	masculine
-229148	masculine
-229152	neuter
-229158	masculine
-229169	masculine
-229179	masculine
-229191	masculine
+229131	feminine
+229136	masculine
+229154	masculine
+229157	masculine
+229159	masculine
+neuter
+229162	neuter
+229186	masculine
+229192	masculine
 229195	masculine
-229199	masculine
+229200	feminine
+229204	masculine
+229206	masculine
+229210	masculine
+229221	neuter
+229223	masculine
 masculine
-229203	masculine
-229205	masculine
-229207	masculine
-229220	masculine
-229222	masculine
-229224	feminine
-229227	neuter
-229230	neuter
-229239	neuter
-229254	masculine
-229267	masculine
-229275	masculine
-229278	neuter
-neuter
-229283	masculine
-229288	masculine
-229291	masculine
-229294	neuter
-229296	masculine
-229315	masculine
-neuter
-229318	masculine
-229321	neuter
-229335	neuter
-229342	masculine
 masculine
-229349	masculine
-229352	masculine
-neuter
-229364	masculine
+229237	masculine
+229245	masculine
+229248	masculine
+229277	masculine
+229285	masculine
+229306	masculine
 masculine
-229373	masculine
 masculine
-229382	neuter
-229385	masculine
-229387	masculine
-229390	neuter
+229317	masculine
+masculine
+229327	masculine
+229343	masculine
+229347	masculine
+masculine
+masculine
+229357	masculine
+229366	masculine
+masculine
+229389	neuter
 229399	masculine
-masculine
-229403	masculine
-229406	feminine
-229413	masculine
-masculine
-229418	masculine
 229422	masculine
-229425	masculine
+229425	neuter
+229428	masculine
+229439	neuter
+229444	neuter
+229452	neuter
+229482	neuter
+229491	neuter
+229496	neuter
+229507	masculine
+229541	masculine
+229545	masculine
+feminine
 masculine
-229431	masculine
-masculine
-229449	masculine
-229451	neuter
-229483	neuter
-229499	masculine
-masculine
-229504	masculine
-masculine
-masculine
-masculine
-229510	neuter
-229513	masculine
-229517	neuter
-229524	masculine
-229530	masculine
+229549	masculine
 229552	masculine
+229560	masculine
+229563	masculine
 masculine
-229559	masculine
-229561	masculine
-229563	neuter
+229566	masculine
+229571	masculine
+229573	neuter
+229580	masculine
+229585	masculine
+229588	masculine
+229592	masculine
+229602	masculine
+229608	feminine
+229612	masculine
+229620	masculine
+229624	masculine
+229628	masculine
+229630	neuter
+229634	masculine
+229641	neuter
+229647	masculine
+229650	neuter
+229655	neuter
+229659	feminine
+229698	masculine
+229711	neuter
+229723	neuter
+229757	neuter
 masculine
-masculine
-229583	masculine
-229595	masculine
-229600	masculine
-229604	masculine
-229606	masculine
-229610	masculine
-masculine
-229618	masculine
-masculine
-masculine
-229627	masculine
-229633	masculine
-masculine
-229651	masculine
-masculine
-neuter
-229656	neuter
-neuter
-229661	masculine
-229664	masculine
-masculine
-229671	masculine
-229674	masculine
-masculine
-229685	neuter
-229687	masculine
-229690	masculine
-229692	masculine
-229695	feminine
-229701	masculine
-229719	masculine
-229722	masculine
-229724	masculine
-neuter
-229727	neuter
-229753	masculine
-229759	masculine
+229760	neuter
 229763	masculine
-229768	feminine
+neuter
+229766	neuter
 229772	masculine
-229774	masculine
-229778	masculine
-229789	neuter
-229791	masculine
-masculine
-masculine
-229805	masculine
-229813	masculine
-229816	masculine
-229847	masculine
-229855	masculine
-229876	masculine
-masculine
-masculine
-229887	masculine
-masculine
-229897	masculine
-229913	masculine
+229776	masculine
+229787	masculine
+229807	masculine
+229811	masculine
+229819	neuter
+229822	masculine
+229833	neuter
+229849	neuter
+229897	neuter
+229911	feminine
 229917	masculine
-masculine
-masculine
-229927	masculine
-229936	masculine
-masculine
+229923	masculine
+229926	masculine
+229938	neuter
+229945	masculine
+229950	neuter
+229957	masculine
 229960	neuter
-229970	masculine
-229995	masculine
+229984	masculine
+229991	neuter
 229999	neuter
-230002	masculine
-230014	neuter
-230019	neuter
-230028	neuter
-230061	neuter
-230070	neuter
-230075	neuter
-230087	masculine
-230122	masculine
+230003	masculine
+230039	masculine
+230045	masculine
+masculine
+230071	masculine
+230079	masculine
+feminine
+230085	feminine
+230092	masculine
+230102	neuter
+230105	feminine
 230126	masculine
-feminine
-masculine
-230130	masculine
 230134	masculine
-230142	masculine
-230145	masculine
-masculine
-230148	masculine
-230153	masculine
-230155	neuter
-230162	masculine
-230167	masculine
-230170	masculine
-230175	masculine
-230185	masculine
-230191	feminine
-230195	masculine
-230204	masculine
-230208	masculine
-230212	masculine
-230214	neuter
-230218	masculine
+230143	neuter
+230147	masculine
+230157	neuter
+230163	masculine
+230168	feminine
+230171	masculine
+230174	feminine
+230178	neuter
+230188	neuter
+230197	neuter
+230202	neuter
+230215	masculine
 230226	neuter
-230232	masculine
-230235	neuter
-230240	neuter
-230245	feminine
-230284	masculine
-230298	neuter
-230310	neuter
-230346	neuter
+230256	masculine
+230259	masculine
 masculine
-230349	neuter
-230353	masculine
-neuter
+230295	neuter
+230322	neuter
+230326	neuter
+230329	masculine
+230341	neuter
+230344	neuter
 230356	neuter
-230362	masculine
-230367	masculine
-230379	masculine
-230400	masculine
-230404	masculine
-230412	neuter
-230415	masculine
+230364	neuter
+230374	neuter
+230376	neuter
+230381	neuter
+230389	neuter
+230401	neuter
+230403	neuter
+230408	neuter
+230411	masculine
+230414	masculine
+230418	masculine
 230426	neuter
-230442	neuter
-230493	neuter
-230507	feminine
-230513	masculine
-230519	masculine
-230522	masculine
-230535	neuter
-230542	masculine
-230547	neuter
-230554	masculine
-230557	neuter
-230583	masculine
-230591	neuter
-230599	neuter
-230603	masculine
-230642	masculine
-230648	masculine
-masculine
-230675	masculine
-230684	masculine
+230434	neuter
+230459	feminine
+230476	masculine
+230483	feminine
+230498	masculine
+230508	neuter
+230511	neuter
+230522	neuter
+230533	neuter
+230538	feminine
+230544	feminine
+230604	feminine
 feminine
-230690	feminine
-230697	masculine
-230707	neuter
-230710	feminine
-230731	masculine
-230741	masculine
-230751	neuter
-230755	masculine
-230765	neuter
-230771	masculine
-230776	feminine
-230779	masculine
-230782	feminine
-230787	neuter
-230797	neuter
-230807	neuter
-230812	neuter
+230611	neuter
+230614	feminine
+230617	masculine
+230626	masculine
+masculine
+230632	feminine
+230637	masculine
+230641	masculine
+230646	masculine
+230651	neuter
+230656	feminine
+230660	feminine
+230667	neuter
+230669	masculine
+230671	masculine
+230677	masculine
+230689	masculine
+feminine
+230694	neuter
+230696	masculine
+230698	masculine
+230700	feminine
+230713	masculine
+230722	masculine
+neuter
+230732	masculine
+230735	feminine
+230745	masculine
+230750	masculine
+230753	masculine
+230763	neuter
+230770	neuter
+230774	masculine
+230777	masculine
+230800	masculine
+230805	masculine
+230810	neuter
+230814	neuter
 230825	masculine
-230837	neuter
-230868	masculine
-230871	masculine
-masculine
-230910	neuter
-230939	neuter
-230943	neuter
+230834	masculine
+230838	neuter
+230843	neuter
+230851	masculine
+230855	neuter
+230877	neuter
+230886	feminine
+230890	masculine
+230896	masculine
+230912	masculine
+230918	masculine
+230932	masculine
+230938	feminine
 230947	masculine
-230959	neuter
-230962	neuter
-230974	neuter
-230982	neuter
-230992	neuter
-230995	neuter
-231000	neuter
-231008	neuter
-231021	neuter
-231023	neuter
-231028	neuter
-231031	masculine
-231034	masculine
-231038	masculine
-231046	neuter
-231054	neuter
-231080	feminine
-231097	masculine
-231104	feminine
-231119	masculine
-231129	neuter
-231132	neuter
-231143	neuter
-231155	neuter
-231161	feminine
-231167	feminine
-231229	feminine
+230954	masculine
+230963	neuter
+230967	masculine
+230973	masculine
+neuter
+230978	masculine
+230995	feminine
+230999	masculine
+231002	neuter
+231005	neuter
+231024	masculine
+231028	masculine
+neuter
+231037	masculine
+231045	feminine
+231066	masculine
+231074	masculine
+231081	feminine
+231088	neuter
+masculine
+masculine
+231111	masculine
+masculine
+231117	masculine
+231124	masculine
+231140	masculine
+231142	masculine
+231144	neuter
+231149	masculine
+masculine
+231153	masculine
+231157	masculine
+231164	masculine
+masculine
+231170	masculine
+231182	masculine
+masculine
+231185	masculine
+231191	masculine
+231202	masculine
+231207	masculine
+231209	masculine
+231218	masculine
 feminine
+231221	feminine
 231236	neuter
-231239	feminine
-231242	masculine
-231251	masculine
-masculine
-231257	feminine
-231263	masculine
+231238	masculine
+231248	neuter
+231253	neuter
 231267	masculine
-231272	masculine
-231277	neuter
-231282	feminine
-231287	feminine
-231294	neuter
-231296	masculine
-231298	masculine
+231271	neuter
+231276	masculine
+231283	masculine
+masculine
 231304	masculine
-231316	masculine
-feminine
-231321	neuter
-231323	masculine
-231325	masculine
-231327	feminine
-231340	masculine
-231350	masculine
-neuter
-231360	masculine
-231364	feminine
-231375	masculine
-231381	masculine
+231349	masculine
+231358	feminine
+masculine
+231361	neuter
 231384	masculine
-231395	neuter
-231403	neuter
-231407	masculine
+masculine
+231387	feminine
+231405	neuter
+neuter
 231410	masculine
-231434	masculine
-231439	masculine
-231444	neuter
+neuter
+231413	masculine
+231415	masculine
+231417	neuter
+231420	neuter
+231422	masculine
+masculine
+231426	masculine
+231429	neuter
+231431	masculine
+231436	masculine
+masculine
 231448	neuter
-231460	masculine
-231469	masculine
-231474	neuter
-231479	neuter
+231453	masculine
+231455	masculine
+231465	masculine
+231472	masculine
+231485	masculine
+masculine
 231488	masculine
-231493	neuter
-231517	neuter
-231526	feminine
-231530	masculine
-231537	masculine
-231553	masculine
-231559	masculine
+231499	masculine
+231502	masculine
+231515	masculine
+231542	masculine
+231546	masculine
+neuter
+231551	masculine
+231554	masculine
+231558	masculine
+231565	masculine
+231567	masculine
 231573	masculine
-231579	feminine
-231589	masculine
-231596	masculine
-231607	neuter
+231579	masculine
+231581	masculine
+231597	masculine
+231604	masculine
+231608	neuter
 231611	masculine
-231617	masculine
+231618	masculine
+231629	neuter
+231632	masculine
+231667	masculine
+231670	masculine
+231678	masculine
+231692	masculine
+231699	masculine
+231701	neuter
+231703	feminine
+231705	neuter
+masculine
+231713	masculine
+231715	feminine
+231718	feminine
+231721	feminine
+231723	masculine
+231738	masculine
+231740	masculine
+231746	masculine
+231757	masculine
+masculine
+231766	masculine
+231779	masculine
 neuter
-231622	masculine
-231643	feminine
-231647	masculine
-231650	neuter
-231653	neuter
-231672	masculine
-231676	masculine
+231788	masculine
+231792	masculine
+231804	masculine
+231813	masculine
+231819	masculine
+231825	masculine
+231829	masculine
+231832	masculine
+231841	feminine
+231843	masculine
+231847	masculine
+231856	masculine
+231880	feminine
+231883	masculine
+231886	masculine
+231892	feminine
+231897	feminine
+231902	masculine
+231913	masculine
+231922	masculine
+231926	masculine
+231928	masculine
+231935	masculine
+masculine
+masculine
+231942	masculine
+231953	masculine
 neuter
-231685	masculine
-231694	feminine
-231715	masculine
-231724	masculine
-231732	feminine
-231739	neuter
+231957	neuter
+231962	feminine
+231973	masculine
+231977	masculine
+231979	masculine
+231988	masculine
+231991	masculine
+231995	masculine
 masculine
+232003	masculine
 masculine
-231764	masculine
-masculine
-231770	masculine
-231777	masculine
-231793	masculine
-231795	masculine
-231797	neuter
-231802	masculine
-masculine
-231806	masculine
-231810	masculine
-231817	masculine
-masculine
-231824	masculine
-231836	masculine
-masculine
-231839	masculine
-231846	masculine
-231858	masculine
-231864	masculine
-231866	masculine
-231875	masculine
-feminine
-231878	feminine
-231893	neuter
-231895	masculine
-231906	neuter
-231911	neuter
-231925	masculine
-231930	neuter
-231936	masculine
-231943	masculine
-masculine
-231964	masculine
-232009	masculine
-232018	feminine
-masculine
-232021	neuter
-232044	masculine
-masculine
-232047	feminine
-232066	neuter
-neuter
-232071	masculine
-neuter
-232074	masculine
-232076	masculine
-232078	neuter
-232081	neuter
-232083	masculine
-masculine
-232087	masculine
-232090	neuter
-232092	masculine
-232097	masculine
-masculine
-232111	neuter
+232008	masculine
+232010	neuter
+232013	feminine
+232015	masculine
+232023	neuter
+232073	masculine
+232080	neuter
+232096	neuter
+232102	masculine
+232105	masculine
+232112	masculine
 232116	masculine
-232118	masculine
-232128	masculine
-232135	masculine
-232148	masculine
+232125	masculine
+232131	masculine
+232135	neuter
+232159	masculine
+232161	masculine
+232166	masculine
 masculine
-232151	masculine
-232162	masculine
-232165	masculine
-232178	masculine
-232205	masculine
-232210	masculine
-neuter
-232215	masculine
-232218	masculine
+232171	feminine
+232187	feminine
+232191	masculine
+232195	neuter
+232209	masculine
+masculine
 232222	masculine
-232229	masculine
-232231	masculine
-232237	masculine
-232243	masculine
-232245	masculine
-232261	masculine
+232229	feminine
+232241	feminine
 232268	masculine
-232272	neuter
-232275	masculine
-232283	masculine
-232295	neuter
-232298	masculine
-232334	masculine
-232337	masculine
-232346	masculine
-232362	masculine
-232369	masculine
-232371	neuter
-232373	feminine
-232375	neuter
 masculine
-232383	masculine
-232385	feminine
-232388	feminine
-232391	feminine
-232393	masculine
-232408	masculine
-232410	masculine
-232416	masculine
-232427	masculine
+232273	masculine
+232277	masculine
 masculine
-232436	masculine
-232449	masculine
+232286	feminine
+232292	masculine
+232296	masculine
+232299	feminine
+232304	masculine
+232307	neuter
+232314	neuter
+232327	masculine
+232336	masculine
+232339	masculine
+232363	masculine
+232365	feminine
+232367	masculine
+232380	neuter
 neuter
-232458	masculine
-232462	masculine
-232474	masculine
-232483	masculine
-232491	masculine
-232497	masculine
-232502	masculine
-232506	masculine
-232515	feminine
-232517	masculine
-232521	masculine
-232530	masculine
-232555	feminine
-232558	masculine
-232561	masculine
-232568	feminine
-232573	feminine
+232385	neuter
+232396	masculine
+232403	masculine
+232425	feminine
+232427	feminine
+232433	masculine
+232448	masculine
+232453	masculine
+232464	masculine
+232485	neuter
+232489	masculine
+232494	masculine
+232496	neuter
+232505	masculine
+masculine
+232515	neuter
+232518	neuter
+232525	neuter
+232528	neuter
+232538	masculine
+masculine
+232552	masculine
+232560	feminine
+232566	feminine
 232578	masculine
-232590	masculine
-232599	masculine
-232603	masculine
-232607	masculine
-232614	masculine
+232580	masculine
+232584	masculine
+232594	feminine
 masculine
-masculine
-232621	masculine
-232632	masculine
+feminine
 neuter
-232636	neuter
-232642	feminine
-232654	masculine
-232660	masculine
+232600	masculine
+232610	masculine
+neuter
+feminine
+232620	masculine
+232625	masculine
+232628	feminine
+masculine
+feminine
+neuter
+232633	masculine
+232635	feminine
+feminine
+232641	masculine
+masculine
+232646	masculine
+232651	masculine
+232653	masculine
+232656	feminine
+masculine
+feminine
+feminine
+feminine
 232662	masculine
-232672	masculine
-232675	masculine
-232679	masculine
+232664	neuter
+232666	masculine
+232668	feminine
 masculine
 232687	masculine
+232704	feminine
+232710	neuter
+232712	feminine
+feminine
+232715	feminine
+232723	feminine
+232740	masculine
+feminine
+232744	neuter
 masculine
-232692	masculine
-232696	neuter
-232699	feminine
-232701	masculine
-232709	neuter
+232752	masculine
+232756	masculine
 232760	masculine
-232767	neuter
-232784	neuter
-232791	masculine
-232794	masculine
+232763	feminine
+232773	neuter
+masculine
+232778	masculine
+232785	masculine
+masculine
+232795	masculine
+masculine
 232802	masculine
-232806	masculine
-232815	masculine
-232821	masculine
-232825	neuter
-232849	masculine
-232851	masculine
-232856	masculine
-masculine
-232861	feminine
-232878	feminine
-232882	masculine
-232886	neuter
-232900	masculine
-masculine
-232914	masculine
-232921	feminine
-232934	feminine
-232961	masculine
-masculine
-232966	masculine
-232970	masculine
-masculine
-232979	feminine
-232985	masculine
-232990	masculine
-232993	feminine
-232998	masculine
-233001	neuter
-233009	neuter
-233022	masculine
-233031	masculine
-233034	masculine
-233058	masculine
-233060	feminine
-233062	masculine
-233075	neuter
-neuter
-233080	neuter
-233092	masculine
-233100	masculine
-233123	feminine
-233125	feminine
-233131	masculine
-233147	masculine
-233152	masculine
-233163	masculine
-233184	neuter
-233188	masculine
-233193	masculine
-233195	neuter
-233204	masculine
-masculine
-233214	neuter
-233218	neuter
-233225	neuter
-233228	neuter
-233238	masculine
-masculine
-233252	masculine
-233260	feminine
-233266	feminine
-233278	masculine
-233280	masculine
-233284	masculine
-233294	feminine
-masculine
+232805	masculine
+232810	masculine
+232813	masculine
+232850	masculine
+232855	feminine
+232863	feminine
+232892	masculine
+232894	masculine
+232896	masculine
+232899	masculine
+232907	masculine
+232913	masculine
+232915	masculine
+232917	masculine
+232927	neuter
+232933	neuter
+232940	masculine
+232949	masculine
 feminine
-neuter
-233300	masculine
-233310	masculine
-neuter
+232957	masculine
+232959	masculine
+232974	masculine
+masculine
+232992	masculine
+232997	masculine
+233012	neuter
 feminine
-233320	masculine
+233016	feminine
+233018	masculine
+233026	masculine
+233030	masculine
+masculine
+neuter
+233036	masculine
+233038	masculine
+233041	masculine
+233056	neuter
+233067	masculine
+233075	masculine
+233083	masculine
+233086	masculine
+233097	feminine
+233104	masculine
+233115	feminine
+feminine
+233118	neuter
+neuter
+233121	masculine
+233123	masculine
+233128	neuter
+233143	masculine
+masculine
+233149	masculine
+233157	masculine
+233159	masculine
+233161	masculine
+233166	masculine
+233174	masculine
+233178	neuter
+233181	masculine
+233183	masculine
+233197	masculine
+233199	masculine
+233206	masculine
+233211	masculine
+233218	masculine
+233220	masculine
+233227	masculine
+233232	masculine
+233241	masculine
+233247	masculine
+masculine
+neuter
+233258	masculine
+masculine
+233268	masculine
+233270	masculine
+233282	masculine
+233290	neuter
+233293	masculine
+233298	neuter
+masculine
+233301	masculine
+233304	masculine
+233308	masculine
+233311	masculine
+masculine
+233322	masculine
+masculine
 233325	masculine
-233328	feminine
-masculine
-feminine
-neuter
+233327	masculine
+233329	masculine
 233333	masculine
-233335	feminine
-feminine
+masculine
+233336	neuter
+233338	masculine
 233341	masculine
-233343	masculine
-233347	masculine
-233352	masculine
-233354	masculine
-233357	feminine
+233346	neuter
+233364	masculine
+233371	masculine
+233376	neuter
+233379	masculine
+233384	masculine
+233387	masculine
+neuter
+233392	feminine
+233400	neuter
+233403	neuter
+233414	neuter
+233421	neuter
+233429	masculine
+233433	masculine
+233436	masculine
+233439	masculine
 masculine
-feminine
-feminine
-feminine
-233363	masculine
-233366	neuter
-233368	masculine
-233370	feminine
+233443	masculine
+233449	masculine
 masculine
-233390	masculine
-233407	feminine
-233413	neuter
-233415	feminine
-233417	feminine
-233419	feminine
-233427	feminine
-233444	masculine
-feminine
-233448	neuter
-masculine
-233456	masculine
-233460	masculine
-233464	masculine
-233468	feminine
+233452	masculine
+233459	masculine
+233461	masculine
+233471	feminine
+233476	masculine
 233479	neuter
-masculine
-233484	masculine
+233489	masculine
 233492	masculine
+233494	masculine
 masculine
-233502	masculine
 masculine
-233509	masculine
-233512	masculine
-233517	masculine
-233520	masculine
+233511	masculine
+233519	feminine
+neuter
+233541	neuter
+masculine
+masculine
+masculine
+233547	feminine
+233549	masculine
 233558	masculine
-233564	feminine
-233572	feminine
-233601	masculine
-233603	masculine
-233605	masculine
-233608	masculine
-233616	masculine
-233624	masculine
-233626	masculine
-233628	masculine
-233638	neuter
-233644	neuter
-233651	masculine
-233660	masculine
-feminine
-233668	masculine
-233670	masculine
-233685	masculine
+masculine
+233563	masculine
+233566	masculine
+233569	masculine
+masculine
+neuter
+233573	masculine
+233579	masculine
+233587	masculine
+masculine
+233596	neuter
+masculine
+neuter
+233602	neuter
+233648	masculine
+masculine
+233662	masculine
+masculine
+233667	feminine
+233676	masculine
+masculine
+masculine
+masculine
+233690	masculine
+233694	neuter
+233700	masculine
 masculine
 233703	masculine
-233708	masculine
-233723	neuter
-233725	feminine
-233728	feminine
-233730	masculine
-233738	masculine
-233742	masculine
-masculine
-neuter
-233748	masculine
-233750	masculine
-233753	masculine
-233768	neuter
-233780	masculine
-233788	masculine
-233796	masculine
-233799	masculine
-233810	feminine
-233817	masculine
-233828	feminine
+233710	neuter
+233713	masculine
 feminine
-233831	neuter
-neuter
+233722	neuter
+233734	feminine
+233738	masculine
+233744	masculine
+233749	masculine
+233753	masculine
+233759	masculine
+233765	feminine
+233779	masculine
+masculine
+masculine
+233783	masculine
+233786	masculine
+233792	masculine
+233797	masculine
+233807	masculine
+233816	masculine
+masculine
 233834	masculine
-233836	masculine
-233842	neuter
-233858	masculine
+233843	masculine
+233845	feminine
+233856	masculine
+feminine
+feminine
+233860	neuter
+233869	masculine
+233879	masculine
+233892	feminine
+233905	masculine
 masculine
-233864	masculine
-233873	masculine
-233875	masculine
-233877	masculine
-233882	masculine
-233890	masculine
-233894	neuter
-233898	masculine
-233900	masculine
-233915	masculine
-233917	masculine
-233924	masculine
-233929	masculine
-233936	masculine
-233938	masculine
-233945	masculine
-233950	masculine
-233960	masculine
-233966	masculine
+233911	masculine
+233916	masculine
 masculine
+233922	masculine
+233932	masculine
+233955	masculine
+233961	masculine
+masculine
+233970	masculine
+233975	masculine
 neuter
-233977	masculine
-masculine
+233978	neuter
+233980	masculine
+233982	masculine
+233985	neuter
 233987	masculine
-233989	masculine
-234001	masculine
-234009	neuter
-234012	masculine
-234017	neuter
-masculine
-234020	masculine
-234023	masculine
-234028	masculine
-234031	masculine
-masculine
-234042	masculine
-masculine
-234045	masculine
-234047	masculine
-234049	masculine
-234053	masculine
-masculine
-234056	neuter
-234058	masculine
-234062	masculine
-234067	neuter
-234085	masculine
-234093	masculine
-234098	neuter
-234101	masculine
-234106	masculine
-234109	masculine
+233997	masculine
+234002	masculine
+feminine
 neuter
-234114	feminine
-234124	neuter
-234128	neuter
-234139	neuter
-234146	neuter
-234154	masculine
-234159	masculine
-234162	masculine
+234006	neuter
+234017	masculine
+234025	neuter
+234027	neuter
+234056	feminine
+234061	neuter
+234084	neuter
+234089	neuter
+234111	masculine
+234116	masculine
+masculine
+234125	masculine
+234131	neuter
+234138	masculine
+234145	feminine
+234151	masculine
+234153	masculine
+234156	masculine
+234163	neuter
 234165	masculine
-masculine
-234169	masculine
-234175	masculine
-masculine
-234178	masculine
-234185	masculine
-234187	masculine
-234198	feminine
-234203	masculine
-234206	neuter
-234216	masculine
-234219	masculine
-234221	masculine
-masculine
-masculine
-234239	masculine
-234248	feminine
-neuter
-234270	neuter
-masculine
-masculine
-masculine
-234276	feminine
-234278	masculine
-234289	masculine
-masculine
-234294	masculine
-234297	masculine
-234302	masculine
+234167	masculine
+234210	feminine
+234216	feminine
+234220	masculine
 masculine
 neuter
+234242	masculine
+234244	masculine
+234246	masculine
+234248	masculine
+234250	masculine
+234260	masculine
+234274	feminine
+234279	masculine
+234282	masculine
+234288	masculine
+234295	masculine
+234299	neuter
 234306	masculine
 234312	masculine
-234320	masculine
+234314	masculine
+234341	masculine
+234344	masculine
+234356	neuter
+234358	masculine
 masculine
-234330	neuter
 masculine
+234394	masculine
+234405	masculine
+masculine
+234415	masculine
+234444	masculine
+234454	masculine
+234458	neuter
 neuter
-234336	neuter
-234383	masculine
+234469	neuter
 masculine
-234399	masculine
-masculine
-234405	feminine
-234414	masculine
-masculine
-masculine
-masculine
-234428	masculine
-234432	neuter
-234438	masculine
-masculine
-234441	masculine
-234448	neuter
-234451	masculine
+234472	masculine
 feminine
-234461	neuter
-234473	feminine
-234477	masculine
-234483	masculine
-234488	masculine
+234478	masculine
+234482	masculine
+234485	masculine
+234487	feminine
 234493	masculine
-234499	masculine
-234506	feminine
-234521	masculine
-masculine
-masculine
-234525	masculine
-234528	masculine
-234535	masculine
-234540	masculine
-234551	masculine
-234560	masculine
-masculine
-234578	masculine
-234587	masculine
-234589	feminine
-234601	masculine
+234496	masculine
 feminine
+234504	masculine
+234523	masculine
+234527	masculine
+234529	masculine
+234537	feminine
 feminine
-234605	neuter
-234614	masculine
+234540	feminine
+234542	masculine
+234545	masculine
+masculine
+234549	masculine
+234554	feminine
+234556	masculine
+234558	masculine
+234565	masculine
+234568	masculine
+masculine
+neuter
+234575	masculine
+234581	neuter
+234584	neuter
+234595	masculine
+masculine
+234600	masculine
+234612	masculine
+234622	masculine
 234624	masculine
-234639	feminine
-234652	masculine
+234626	masculine
+234634	masculine
 masculine
-234658	masculine
-234663	masculine
+234637	masculine
+234641	masculine
+234643	masculine
+234647	masculine
+234658	neuter
 masculine
-234669	masculine
-234680	masculine
-234703	masculine
-234709	masculine
 masculine
-234718	masculine
-234723	masculine
+234662	masculine
+234674	feminine
+masculine
+masculine
+masculine
+234683	masculine
+masculine
 neuter
-234726	neuter
-234728	masculine
-234730	masculine
-234733	neuter
-234735	masculine
-234745	masculine
-234750	masculine
-feminine
-neuter
-234754	neuter
-234767	masculine
-234775	neuter
-234777	neuter
-234808	feminine
-234813	neuter
-234837	neuter
-234842	neuter
-234864	masculine
+234690	neuter
+234696	masculine
+234698	masculine
+234712	masculine
+234719	masculine
+masculine
+234738	masculine
+234742	masculine
+234744	masculine
+234752	masculine
+234764	masculine
+234771	masculine
+234782	neuter
+234811	masculine
+234813	masculine
+234815	masculine
+234820	neuter
+234830	masculine
+234834	masculine
+234844	masculine
+234848	neuter
+234854	feminine
 234871	masculine
+234885	feminine
+234891	masculine
+234903	neuter
 masculine
-234880	masculine
-234887	neuter
-234894	masculine
-234901	feminine
-234907	masculine
 234909	masculine
-234912	masculine
-234919	neuter
-234921	masculine
-234923	masculine
-234968	feminine
-234974	feminine
-234980	masculine
 masculine
-neuter
-235002	masculine
-235004	masculine
-235006	masculine
-235008	masculine
-235010	masculine
-235020	masculine
-235034	feminine
-235039	masculine
-235042	masculine
-235048	masculine
+234914	masculine
+234918	masculine
+234920	masculine
+234924	masculine
+234933	masculine
+234936	masculine
+234949	masculine
+234958	feminine
+234962	masculine
+234993	masculine
+234998	masculine
+masculine
+235010	neuter
+235013	masculine
+masculine
+235030	masculine
+235032	neuter
+235047	masculine
+235050	masculine
 235055	masculine
-235060	neuter
-235067	masculine
-235073	masculine
-235075	masculine
+235058	masculine
+masculine
+235064	masculine
+235068	masculine
+235084	neuter
+235091	masculine
+235099	masculine
 235104	masculine
-235107	masculine
-235120	neuter
+235108	masculine
+235116	masculine
+235118	masculine
+masculine
+neuter
 235123	masculine
-masculine
-235126	masculine
-235161	masculine
-235172	masculine
-masculine
-235182	masculine
-235211	masculine
-235221	masculine
-235225	neuter
+235125	masculine
+235131	masculine
 neuter
-235236	neuter
-masculine
-235239	masculine
+235143	masculine
 feminine
-235245	masculine
+neuter
+235158	masculine
+235166	masculine
+masculine
+235181	masculine
+235185	neuter
+235199	neuter
+235204	masculine
+235206	masculine
+235208	masculine
+neuter
+masculine
+235213	masculine
+235217	masculine
+235221	neuter
+235233	masculine
+235240	neuter
+235247	masculine
 235249	masculine
-235252	masculine
-235254	feminine
+235252	feminine
+235257	masculine
 235260	masculine
-235263	masculine
-feminine
-235271	masculine
-235290	masculine
-235294	masculine
-235296	masculine
-235304	feminine
-feminine
-235307	feminine
-235309	masculine
-235312	masculine
-masculine
-235316	masculine
-235321	feminine
-235323	masculine
-235325	masculine
-235332	masculine
+235278	masculine
+235282	neuter
+235284	masculine
+235286	neuter
+235314	masculine
+235325	neuter
 235335	masculine
+235366	masculine
 masculine
+235375	masculine
+235388	masculine
+235392	feminine
+235395	masculine
+235397	neuter
+masculine
+235400	masculine
+235404	masculine
 neuter
-235342	masculine
-235349	neuter
-235352	neuter
-235363	masculine
-masculine
-235368	masculine
-235380	masculine
-235390	masculine
-235392	masculine
-235394	masculine
-235402	masculine
-masculine
-235405	masculine
-235409	masculine
-235411	masculine
-235415	masculine
-235426	neuter
-masculine
-235429	masculine
-235431	masculine
-235443	feminine
-masculine
-masculine
-masculine
-235454	masculine
-masculine
 neuter
-235461	neuter
-235467	masculine
-235469	masculine
-235484	masculine
-235491	masculine
+235427	masculine
+235433	masculine
+235437	neuter
+235446	masculine
+235448	masculine
+feminine
+235455	masculine
 masculine
-235510	masculine
-235514	masculine
-235516	masculine
-235525	masculine
-235537	masculine
-235544	masculine
-235556	neuter
-235586	masculine
-235588	masculine
-235590	masculine
+235459	neuter
+235464	masculine
+masculine
+masculine
+masculine
+235480	masculine
+neuter
+235487	neuter
+235492	feminine
+235496	masculine
+235506	masculine
+235524	neuter
+235528	neuter
+235533	neuter
+235543	masculine
+235546	masculine
+235551	masculine
+235558	masculine
+masculine
+235563	masculine
+235565	masculine
+235576	feminine
+neuter
+235582	masculine
+235585	neuter
+235588	feminine
+235592	neuter
 235596	neuter
 235606	masculine
-235610	masculine
-235620	masculine
-235624	neuter
-235631	feminine
-235649	masculine
-235664	feminine
-235670	masculine
-235682	neuter
+235622	masculine
+235626	feminine
+feminine
+235629	masculine
+235644	masculine
+neuter
+235660	masculine
+235669	masculine
+235672	masculine
+235677	masculine
+235694	masculine
 masculine
-235688	masculine
-masculine
-235693	masculine
-235697	masculine
-235699	masculine
-235703	masculine
-235712	masculine
-235715	masculine
-235728	masculine
-235738	feminine
-235742	masculine
-235773	masculine
-235778	masculine
-masculine
-235790	neuter
-235793	masculine
-masculine
-235811	masculine
+235708	masculine
+235711	masculine
+235716	masculine
+235725	feminine
+235729	masculine
+235738	masculine
+235748	masculine
+235750	masculine
+235755	masculine
+235765	masculine
+235774	masculine
+235795	masculine
+235799	masculine
+235802	masculine
+235805	masculine
+235808	masculine
 235813	neuter
-235830	masculine
-235833	masculine
-235838	masculine
-235841	masculine
+235818	masculine
+235821	masculine
+235824	masculine
+235840	neuter
+235842	neuter
 masculine
+235845	masculine
 235847	masculine
 235851	masculine
-235869	neuter
-235876	masculine
-235884	masculine
-235889	masculine
-235893	masculine
-235901	masculine
-235903	masculine
+235859	masculine
+235862	masculine
+235867	masculine
+235875	masculine
+235877	masculine
+235883	masculine
+235885	masculine
+235887	feminine
+235909	masculine
+235918	masculine
+235921	masculine
+235927	masculine
+235930	masculine
+235932	masculine
+235940	feminine
+235954	neuter
+235957	masculine
 masculine
-neuter
-235908	masculine
-235910	masculine
-235916	masculine
-neuter
-235928	masculine
-feminine
-neuter
-235944	masculine
-235952	masculine
 masculine
-235967	masculine
-235973	neuter
-235987	neuter
+235961	masculine
+235966	masculine
+masculine
+235975	neuter
+masculine
+235983	neuter
+235989	masculine
+masculine
 235992	masculine
-235994	masculine
-235996	masculine
-neuter
+235996	neuter
+236004	masculine
 masculine
-236001	masculine
-236005	masculine
-236009	neuter
-236022	masculine
-236029	neuter
-236036	masculine
-236038	masculine
-236041	feminine
-236046	masculine
-236049	masculine
-236067	masculine
-236072	neuter
-236074	masculine
-236076	neuter
-236105	masculine
-236116	neuter
-236126	masculine
-236157	masculine
+236007	masculine
 masculine
-236167	masculine
-236180	masculine
-236184	feminine
-236187	masculine
-236189	neuter
 masculine
-236192	masculine
-236196	masculine
+236014	masculine
+236018	masculine
+236020	masculine
+236035	masculine
+236037	masculine
+236041	masculine
+236043	masculine
+236056	masculine
+236076	masculine
+236083	masculine
+236086	masculine
+236088	masculine
+236098	masculine
+236101	masculine
+236120	masculine
+236122	masculine
+236124	masculine
+236129	masculine
+236144	masculine
+236152	neuter
+236155	masculine
+236160	feminine
+236163	masculine
+236169	masculine
+236173	masculine
+236209	masculine
+236214	masculine
+236216	masculine
+236237	masculine
+236255	feminine
+masculine
+236264	masculine
+236274	neuter
+236279	masculine
+236282	masculine
+masculine
+236299	masculine
+236301	masculine
+236311	masculine
+236316	masculine
 neuter
-neuter
-236219	masculine
-236225	masculine
-236229	neuter
-236238	masculine
-236240	masculine
+236327	masculine
+masculine
+236339	neuter
+236342	masculine
+236344	masculine
+236347	masculine
+236358	neuter
+236361	masculine
+236364	masculine
+236375	masculine
+236381	masculine
+236399	feminine
+236403	masculine
+236414	masculine
+236427	masculine
 feminine
-236247	masculine
+236436	masculine
+236438	feminine
+236445	neuter
 masculine
-236251	neuter
-236257	masculine
-masculine
-masculine
-masculine
-236273	masculine
 neuter
-236280	neuter
-236286	feminine
-236290	masculine
-236300	masculine
-236318	neuter
-236322	neuter
-236327	neuter
-236337	masculine
-236340	masculine
-236345	masculine
-236352	masculine
+236456	neuter
+236461	neuter
+236466	masculine
+236484	masculine
+236494	masculine
+236499	masculine
+236502	masculine
+236507	masculine
+236518	masculine
+236526	masculine
+236534	masculine
 masculine
-236357	masculine
-236359	masculine
-236370	feminine
+236545	masculine
+236556	neuter
+236559	masculine
+236561	masculine
 neuter
-236376	masculine
-236379	neuter
-236382	feminine
-236386	neuter
-236392	neuter
-236402	masculine
-236418	masculine
-236422	feminine
-feminine
-236425	masculine
-236440	masculine
 neuter
-236456	masculine
-236465	masculine
-236468	masculine
-236473	masculine
-236491	masculine
-masculine
-236505	masculine
-236509	masculine
-236514	masculine
-236523	feminine
-236527	masculine
-236536	masculine
-236546	masculine
-236548	masculine
-236553	masculine
-236563	masculine
-236572	masculine
-236593	masculine
-236597	masculine
-236600	masculine
-236603	masculine
-236606	masculine
-236611	neuter
+236568	neuter
+236573	masculine
+236577	neuter
+236582	masculine
+236584	masculine
+236598	masculine
+236614	neuter
 236616	masculine
-236619	masculine
-236622	masculine
-236639	neuter
-236641	neuter
+236628	feminine
+236637	masculine
+236641	masculine
+236645	masculine
 masculine
-236644	masculine
-236646	masculine
-236651	masculine
-236659	masculine
+236654	neuter
+236661	masculine
 236664	masculine
-236669	masculine
+236666	masculine
+236673	masculine
+236675	masculine
 236677	masculine
-236679	masculine
-236685	masculine
+236682	masculine
+feminine
 236687	masculine
-236689	feminine
-236711	masculine
-236720	masculine
-236723	masculine
-236730	masculine
-236733	masculine
-236735	masculine
-236743	feminine
-236758	neuter
+236692	masculine
+236700	masculine
+236713	masculine
+masculine
+masculine
+236719	feminine
+masculine
+masculine
+236732	feminine
+masculine
+masculine
+236741	feminine
+236743	masculine
+masculine
+236747	masculine
+236749	masculine
+masculine
+masculine
+236756	masculine
+236758	masculine
 236761	masculine
 masculine
 masculine
-236765	masculine
-236770	masculine
-masculine
-236779	neuter
-masculine
-236787	neuter
-236795	masculine
-masculine
-236798	masculine
-236802	neuter
-236810	masculine
-masculine
+236780	masculine
+236786	masculine
+236793	neuter
+236796	masculine
+236802	masculine
+236808	masculine
+236811	masculine
 236813	masculine
+236827	masculine
+236829	masculine
 masculine
-masculine
-236820	masculine
-236824	masculine
-236826	masculine
-236842	masculine
-236844	masculine
-236848	masculine
+236836	masculine
 236850	masculine
-236864	masculine
-236886	masculine
-236893	masculine
+236866	masculine
+236875	masculine
+236877	masculine
+masculine
+236883	masculine
+236892	masculine
+masculine
 236896	masculine
 236898	masculine
-236909	masculine
+masculine
 236912	masculine
-236931	masculine
-236933	masculine
-236935	masculine
-236942	masculine
-236957	masculine
-236965	neuter
-236968	masculine
-236973	feminine
-236976	masculine
-236983	masculine
-236987	masculine
-237024	masculine
-237029	masculine
-237031	masculine
-237052	masculine
-237070	feminine
+236916	masculine
+236919	masculine
+236928	masculine
+236930	masculine
+236939	masculine
 masculine
-237079	masculine
-237090	neuter
-237095	masculine
-237098	masculine
+236947	masculine
+236950	neuter
+236953	masculine
+236956	masculine
+236969	masculine
+236973	masculine
+236979	masculine
+236986	neuter
+236988	masculine
+236997	feminine
+237011	masculine
+237043	masculine
+237046	masculine
+237061	masculine
+237064	feminine
+237067	masculine
+237069	feminine
+237072	masculine
+237080	neuter
+237090	masculine
+237092	feminine
+237098	neuter
+237101	masculine
+237104	masculine
 masculine
-237115	masculine
 237117	masculine
 237127	masculine
-237132	masculine
-neuter
-237143	masculine
-masculine
-237156	neuter
-237159	masculine
+237129	masculine
 237161	masculine
-237164	masculine
-237175	neuter
-237178	masculine
-237183	masculine
+237166	masculine
+237172	masculine
+237180	masculine
+237182	neuter
+237190	masculine
+237192	masculine
 237194	masculine
-237200	masculine
-237219	feminine
-237223	masculine
-237234	masculine
-237248	masculine
-feminine
-237257	masculine
-237259	feminine
-237266	neuter
+237201	masculine
 masculine
-neuter
-237277	neuter
-237282	neuter
-237288	masculine
-237306	masculine
-237316	masculine
-237321	masculine
-237324	masculine
+237212	masculine
+237219	masculine
+237222	masculine
+237233	masculine
+237246	masculine
+masculine
+237252	masculine
+237254	masculine
+237259	masculine
+237264	masculine
+237267	masculine
+237271	neuter
+masculine
+237274	masculine
+237290	masculine
+237309	masculine
+237315	masculine
+masculine
+237323	masculine
+237325	masculine
+237327	masculine
 237329	masculine
-237340	masculine
-237348	masculine
-237356	masculine
+237335	masculine
+237340	neuter
+237346	masculine
+237350	neuter
+237354	masculine
+237356	neuter
+237362	masculine
+237374	neuter
 masculine
-237367	masculine
-237378	neuter
-237381	masculine
-237383	masculine
-neuter
-neuter
-237390	neuter
-237395	masculine
-237399	neuter
-237404	masculine
-237406	masculine
-237420	masculine
-237437	neuter
+237380	masculine
+237382	masculine
+237386	masculine
+237389	masculine
+masculine
+237396	masculine
+masculine
+237403	feminine
+feminine
+237407	masculine
+237412	masculine
+237417	masculine
+237436	masculine
 237439	masculine
-237453	feminine
-237462	masculine
-237467	masculine
-237471	masculine
+237444	feminine
+237446	masculine
+237461	masculine
 masculine
-237480	neuter
-237487	masculine
-237490	masculine
-237492	masculine
-237500	masculine
-237502	masculine
-237504	masculine
+237473	neuter
+237488	masculine
+237501	masculine
+neuter
+masculine
 237509	masculine
-feminine
 237514	masculine
-237519	masculine
-237528	masculine
-237541	masculine
+237543	feminine
+237569	masculine
 masculine
+237583	neuter
+237585	masculine
+237603	masculine
+237612	feminine
+237616	feminine
+237618	feminine
+237620	masculine
+237630	masculine
+237636	masculine
+237638	masculine
+237643	masculine
+237661	masculine
+237665	masculine
 masculine
-237547	feminine
-masculine
-masculine
-237560	feminine
-masculine
-masculine
-237569	feminine
-237571	masculine
-masculine
-237575	masculine
-237577	masculine
-masculine
-masculine
-237584	masculine
-237586	masculine
-237589	masculine
-masculine
-237592	masculine
-237609	masculine
-237615	masculine
-237624	neuter
-237627	masculine
-237633	masculine
-237639	masculine
-237642	masculine
-237644	masculine
-237658	masculine
-237660	masculine
-masculine
-237667	masculine
+237673	neuter
+237675	masculine
 237683	masculine
-237699	masculine
-237710	masculine
-237712	masculine
+237689	masculine
+237696	feminine
+237699	feminine
+237701	neuter
+237706	masculine
+237708	masculine
 masculine
-237718	masculine
-237727	masculine
 masculine
+237723	masculine
 237731	masculine
-237733	masculine
-masculine
-237747	masculine
-237751	masculine
-237755	masculine
-237764	masculine
-237768	masculine
-237777	masculine
-masculine
+237741	neuter
+237748	masculine
+237754	masculine
+237759	masculine
+237773	neuter
+neuter
 237785	masculine
-237788	neuter
-237791	masculine
-237794	masculine
+237795	masculine
 237807	masculine
-237813	masculine
+237814	masculine
+masculine
 237820	masculine
-237827	neuter
-237829	masculine
-237838	feminine
+237826	masculine
+237831	masculine
+237838	masculine
 237853	masculine
-237886	masculine
-237889	masculine
-237904	masculine
-237907	feminine
-237911	masculine
-237913	feminine
-237916	masculine
-237925	neuter
-237936	masculine
-237938	feminine
-237944	neuter
-237947	masculine
-237950	masculine
+237857	masculine
+237864	masculine
+237870	masculine
+237872	neuter
+237876	masculine
+237880	feminine
+feminine
 masculine
-237964	masculine
+masculine
+masculine
+neuter
+237890	masculine
+237892	masculine
+masculine
+237897	masculine
+237911	neuter
+237918	masculine
+masculine
+237921	masculine
+237923	masculine
+237926	masculine
+237928	masculine
+237931	masculine
+237934	masculine
+237938	neuter
+237940	masculine
+237942	masculine
+237958	neuter
+masculine
+237965	masculine
+masculine
+237971	masculine
 237975	masculine
-237977	masculine
-238009	masculine
-238015	masculine
-238021	masculine
-238029	masculine
-238031	neuter
+237980	feminine
+feminine
+237987	masculine
+neuter
+237996	masculine
+neuter
+masculine
+238000	masculine
+masculine
+feminine
+238007	masculine
+masculine
+238027	masculine
 238039	masculine
-238041	masculine
-238043	masculine
-238050	masculine
-masculine
-238061	masculine
-238068	masculine
-238071	masculine
-238082	masculine
-238095	masculine
-masculine
-238101	masculine
-238103	masculine
-238108	masculine
-238113	masculine
-238116	masculine
-238120	neuter
-masculine
-238123	masculine
+238052	masculine
+neuter
+238055	masculine
+238062	masculine
+238069	masculine
+238079	masculine
+238083	feminine
+238100	feminine
+238104	masculine
+238107	masculine
+feminine
+238125	masculine
+238133	masculine
+238137	masculine
 238139	masculine
-238159	masculine
+238141	masculine
+238149	masculine
+masculine
+238154	masculine
+238161	masculine
+238163	masculine
 238165	masculine
-masculine
-238173	masculine
 238175	masculine
-238177	masculine
-238179	masculine
-238185	masculine
-238190	neuter
-238196	masculine
-238201	neuter
-238205	masculine
-238207	neuter
+238189	masculine
+238191	masculine
+238195	feminine
+238199	masculine
+masculine
+238202	masculine
+238209	masculine
+238211	masculine
 238213	masculine
-238225	neuter
+238216	masculine
 masculine
-238231	masculine
-238233	masculine
+238219	masculine
+masculine
+238226	masculine
 238237	masculine
-238240	masculine
+238250	masculine
+238260	masculine
+238264	masculine
 masculine
-238247	masculine
-masculine
-238254	feminine
-feminine
-238258	masculine
-238263	masculine
 238269	masculine
-238289	masculine
-238292	masculine
-238297	feminine
-238299	masculine
-238315	masculine
-masculine
-238327	neuter
-238342	masculine
-238355	masculine
-neuter
-masculine
-238364	masculine
-238369	masculine
-238400	feminine
-238427	masculine
-masculine
-238441	neuter
-238443	masculine
-238461	masculine
-238470	feminine
-238474	feminine
-238476	feminine
-238478	masculine
-238490	masculine
-238496	masculine
-238498	masculine
-238503	masculine
-238521	masculine
-238525	masculine
-masculine
-238533	neuter
-238535	masculine
-238543	masculine
-238549	masculine
-238557	feminine
-238560	feminine
-238563	neuter
-238569	masculine
-238571	masculine
-masculine
-masculine
-238587	masculine
-238595	masculine
-238605	neuter
-238612	masculine
-238618	masculine
-238623	masculine
-238639	neuter
-neuter
-238651	masculine
-238661	masculine
-238674	masculine
-238681	masculine
-masculine
-238687	masculine
-238693	masculine
-238698	masculine
-238705	masculine
-238720	masculine
-238724	masculine
-238731	masculine
-238737	masculine
-238739	neuter
-238743	masculine
-238747	feminine
+238273	masculine
+238284	feminine
 feminine
+238287	feminine
+238300	masculine
 masculine
-238752	masculine
+238308	masculine
+feminine
+238316	neuter
 masculine
+238320	masculine
+238322	masculine
+238324	masculine
+238327	masculine
+238329	masculine
+238336	masculine
+238342	masculine
+238344	masculine
+238348	masculine
+238357	neuter
+feminine
+feminine
+238361	feminine
+feminine
+238364	feminine
+238368	feminine
+238375	feminine
+feminine
+238378	masculine
+238384	feminine
+feminine
+238388	masculine
+238390	masculine
+238396	masculine
+238401	masculine
+238403	masculine
+238405	masculine
+masculine
+masculine
+238413	masculine
+238417	feminine
+238419	feminine
+238422	neuter
+238425	feminine
+238428	masculine
+238431	masculine
+238434	masculine
+238438	masculine
+238442	feminine
+238444	feminine
+238450	feminine
+238453	masculine
+238455	feminine
+feminine
+238458	feminine
+masculine
+238466	feminine
+feminine
 neuter
-238759	masculine
-238761	masculine
+238476	masculine
+238495	neuter
 masculine
-238767	masculine
-238781	neuter
-238788	masculine
+238500	feminine
+feminine
+238503	masculine
+238509	masculine
+238513	masculine
+238527	masculine
+238530	masculine
 masculine
-238791	masculine
-238793	masculine
-238796	masculine
-238798	masculine
+masculine
+masculine
+238536	masculine
+masculine
+238539	masculine
+masculine
+238542	neuter
+238544	masculine
+238547	masculine
+238561	masculine
+238566	masculine
+238568	masculine
+masculine
+238574	masculine
+238576	feminine
+238583	masculine
+masculine
+238586	masculine
+238593	masculine
+masculine
+238596	masculine
+neuter
+masculine
+238600	masculine
+238606	masculine
+masculine
+238610	masculine
+238612	masculine
+238620	masculine
+238624	masculine
+238626	masculine
+238629	feminine
+238634	masculine
+238636	neuter
+238641	neuter
+238658	feminine
+238660	masculine
+masculine
+238668	masculine
+238676	feminine
+238680	neuter
+238686	neuter
+238691	masculine
+238701	neuter
+238704	neuter
+238709	masculine
+238712	masculine
+238720	masculine
+238723	masculine
+masculine
+238729	masculine
+238737	masculine
+238740	masculine
+238745	neuter
+masculine
+238750	masculine
+masculine
+238753	masculine
+238760	masculine
+238762	feminine
+238766	masculine
+238773	masculine
+238775	masculine
+238793	neuter
+238795	masculine
+238797	masculine
 238801	masculine
-238805	masculine
-238809	neuter
 238811	masculine
-238813	masculine
-238829	neuter
+238820	masculine
+masculine
+238833	masculine
 masculine
 238836	masculine
+238843	masculine
 masculine
-238842	masculine
-238847	masculine
-238852	feminine
-feminine
-238859	masculine
-neuter
-238868	masculine
-neuter
+238848	masculine
+238852	masculine
 masculine
-238873	masculine
+238857	masculine
 masculine
-feminine
-238880	masculine
-masculine
-238900	masculine
-238914	masculine
+238865	neuter
+238870	masculine
+238882	masculine
+238905	masculine
+238912	masculine
 238927	masculine
-neuter
-238930	masculine
-238937	masculine
+238929	masculine
+masculine
 238944	masculine
-238954	masculine
-238959	feminine
-238976	feminine
-238980	masculine
-238983	masculine
+238953	neuter
+238957	masculine
+238959	masculine
+238967	masculine
+238972	masculine
+masculine
+238975	masculine
 feminine
-239001	masculine
-239009	masculine
+masculine
+masculine
+238981	masculine
+238985	masculine
+feminine
+238989	masculine
+238996	neuter
+239000	masculine
+239005	neuter
+239007	masculine
 239013	masculine
-239015	masculine
-239017	masculine
-239026	masculine
+239018	masculine
+239021	masculine
+239023	masculine
+239025	masculine
+239035	neuter
+239044	masculine
+239047	masculine
+239049	masculine
+239057	masculine
 masculine
-239031	masculine
-239038	masculine
-239040	masculine
-239042	masculine
-239053	masculine
-239067	masculine
+239066	masculine
 239069	masculine
-239073	feminine
-239077	masculine
-masculine
-239080	masculine
-239087	masculine
-239089	masculine
-239091	masculine
-239094	masculine
-masculine
+239072	masculine
+239075	masculine
+239086	masculine
+239090	masculine
+239095	masculine
 239097	masculine
-masculine
-239104	masculine
-239115	masculine
-239128	masculine
-239138	masculine
+239107	masculine
+239110	masculine
+239120	masculine
+239127	masculine
 239142	masculine
 masculine
-239147	masculine
-239151	masculine
-239162	feminine
 feminine
-239165	feminine
-239178	masculine
-masculine
-239186	masculine
-feminine
-239195	neuter
-masculine
-239199	masculine
-239201	masculine
+239146	masculine
+239150	masculine
+239154	masculine
+239157	masculine
+239166	masculine
+239174	masculine
+239184	masculine
+239197	masculine
 239203	masculine
-239206	masculine
-239208	masculine
+239208	feminine
+masculine
+239212	masculine
+masculine
 239215	masculine
-239221	masculine
-239223	masculine
-239227	masculine
-239236	neuter
-239238	feminine
+239217	masculine
+239219	masculine
+239230	neuter
+239235	feminine
+239242	masculine
+239261	feminine
 feminine
-239241	feminine
-feminine
-239244	feminine
-239249	feminine
-239256	feminine
-feminine
-239259	masculine
-239266	feminine
-feminine
-239270	masculine
-239272	masculine
-239278	masculine
-239283	masculine
-239285	masculine
-239287	masculine
+239264	masculine
 masculine
-masculine
-239295	masculine
-239299	feminine
-239301	feminine
-239305	neuter
-239308	feminine
+239271	masculine
+239283	feminine
+239286	neuter
+239292	neuter
+239299	neuter
 239311	masculine
-239314	masculine
-239317	masculine
-239321	masculine
-239325	feminine
-239327	feminine
-239333	feminine
-239336	masculine
-239338	feminine
-feminine
-239341	feminine
-masculine
-239349	feminine
-feminine
-neuter
-239359	masculine
-239378	neuter
-masculine
-239383	feminine
-feminine
-239386	masculine
-239392	masculine
-239396	masculine
-239410	masculine
-239413	masculine
-masculine
-masculine
-masculine
-239419	masculine
-masculine
-239422	masculine
-masculine
-239425	neuter
-239427	masculine
-239430	masculine
-239444	masculine
-239450	masculine
-239452	masculine
-masculine
-239459	masculine
-239461	feminine
-239469	masculine
-masculine
-239472	masculine
-239479	masculine
-masculine
-239482	masculine
+239319	masculine
 neuter
 masculine
-239486	masculine
+239345	masculine
+239347	masculine
+239354	masculine
+masculine
+masculine
+239358	neuter
+239389	masculine
+239392	neuter
+239403	masculine
+239406	masculine
+239412	masculine
+239416	masculine
+239418	neuter
+239423	masculine
+239433	masculine
+239437	feminine
+239443	masculine
+masculine
+239448	neuter
+masculine
+239457	masculine
+masculine
+239464	masculine
+239474	masculine
+239487	feminine
 239492	masculine
-masculine
+239494	masculine
 239496	masculine
 239498	masculine
 239506	masculine
-239511	masculine
-239513	masculine
-239516	feminine
-239521	masculine
-239523	neuter
-239528	neuter
-239545	feminine
-239547	masculine
+239528	masculine
+239530	masculine
+239535	masculine
+239550	masculine
+239557	masculine
+239559	masculine
+239564	neuter
 masculine
-239556	masculine
-239564	feminine
-239568	neuter
-239574	neuter
-239579	masculine
-239590	neuter
-239594	neuter
-239599	masculine
-239602	masculine
-239610	masculine
-239613	masculine
-masculine
-239619	masculine
-239627	masculine
-239631	masculine
-239636	neuter
-masculine
-239641	masculine
-masculine
+239575	feminine
+239582	masculine
+239589	masculine
+239592	neuter
+239595	masculine
+239620	feminine
+239622	masculine
+239625	neuter
+239635	masculine
+239637	masculine
+239640	masculine
 239644	masculine
-239651	masculine
-239653	feminine
-239658	masculine
-239665	masculine
-239667	masculine
-239685	neuter
-239687	masculine
-239689	masculine
-239693	masculine
-239703	masculine
-239712	masculine
 masculine
-239725	masculine
+239649	masculine
+239657	feminine
+239670	masculine
+239678	masculine
+239680	masculine
+239691	neuter
+239695	masculine
+239701	masculine
 masculine
-239728	masculine
+239726	masculine
 239735	masculine
-masculine
-239741	masculine
-239745	masculine
-masculine
-239750	masculine
-masculine
-239758	neuter
-239763	masculine
-239775	masculine
-239798	masculine
-239805	masculine
-239821	masculine
-239823	masculine
-masculine
-239838	masculine
-239847	neuter
-239851	masculine
-239853	masculine
-239861	masculine
-239866	masculine
-masculine
-239869	masculine
+239741	neuter
+239743	neuter
+239748	neuter
+239751	masculine
+239761	feminine
+239764	feminine
 feminine
+239767	masculine
+239769	masculine
+239780	masculine
+239803	masculine
+239814	masculine
 masculine
+239818	masculine
+239820	masculine
+239822	masculine
+239829	neuter
+feminine
+239832	feminine
+239841	feminine
+239848	masculine
+239853	feminine
+239858	masculine
+239863	masculine
+239867	masculine
 masculine
+239871	masculine
+239874	masculine
 239876	masculine
 239880	masculine
-feminine
-239885	masculine
+239883	masculine
 239893	neuter
-239897	masculine
-239903	neuter
-239905	masculine
-239913	masculine
+239895	masculine
+239899	feminine
+239901	feminine
+239907	neuter
+239911	masculine
+239914	masculine
+masculine
 239918	masculine
-239921	masculine
-239923	masculine
-239925	masculine
-239936	neuter
-239945	masculine
-239948	masculine
-239950	masculine
-239958	masculine
 masculine
-239968	masculine
+239924	masculine
+239939	masculine
+239947	feminine
+239957	masculine
+239959	masculine
 239971	masculine
-239974	masculine
-239977	masculine
-239988	masculine
-239992	masculine
-239997	masculine
-239999	masculine
-240009	masculine
-240012	masculine
-240022	masculine
-240030	masculine
-240045	masculine
+239975	masculine
+239978	neuter
+239984	masculine
 masculine
-feminine
-240049	masculine
-240053	masculine
-240057	masculine
-240061	masculine
-240070	masculine
-240078	masculine
-240088	masculine
-240102	masculine
-240108	masculine
-240113	feminine
+239998	masculine
+240000	masculine
+240002	masculine
 masculine
-240117	masculine
+240010	feminine
+240020	masculine
 masculine
-240120	masculine
-240122	masculine
-240124	masculine
-240135	neuter
-240140	feminine
-240147	masculine
-240166	feminine
-feminine
-240169	masculine
+240032	masculine
+240034	masculine
+240037	masculine
+240049	neuter
+240051	masculine
+240054	masculine
+240056	masculine
+240058	masculine
+240060	masculine
+240063	masculine
+240066	masculine
+240077	masculine
+240090	masculine
 masculine
-240177	masculine
-240189	feminine
-240192	neuter
-240198	neuter
-240205	neuter
-240218	masculine
-240226	masculine
+240101	masculine
 neuter
 masculine
-240252	masculine
-240254	masculine
-240262	masculine
+masculine
+240112	masculine
+masculine
+240123	masculine
+240131	masculine
+240140	masculine
+240142	masculine
+240156	masculine
+240169	masculine
+240171	masculine
+240181	masculine
+240183	masculine
+240185	masculine
+240187	neuter
+240189	masculine
+240194	masculine
+240204	masculine
+240206	masculine
+240210	masculine
+240212	masculine
+240220	masculine
+240238	masculine
 masculine
 masculine
-240266	neuter
+240251	masculine
+240253	masculine
+240255	masculine
+240258	masculine
+masculine
+240261	masculine
+240287	masculine
+240293	masculine
 240297	masculine
-240300	neuter
-240313	masculine
-240316	masculine
-240323	masculine
-240327	masculine
-240329	neuter
-240334	masculine
-240344	masculine
-240348	feminine
-240354	masculine
+240312	masculine
+240317	masculine
+240320	masculine
+240331	masculine
 masculine
-240359	neuter
+240335	masculine
+240337	masculine
+240340	masculine
+240350	masculine
+240363	masculine
 masculine
-240368	masculine
+240376	masculine
+240379	neuter
+240390	masculine
+240393	masculine
+240398	masculine
 masculine
-240375	masculine
-240385	masculine
-240398	feminine
-240403	masculine
-240405	masculine
 240407	masculine
-240409	masculine
 240417	masculine
-240439	masculine
-240441	masculine
-240446	masculine
-240461	masculine
-240468	masculine
-240470	masculine
-240475	neuter
+240423	masculine
 masculine
-240486	feminine
-240493	masculine
-240500	masculine
-240503	neuter
-240506	masculine
-240531	feminine
-240533	masculine
-240536	neuter
-240546	masculine
-240548	masculine
-240551	masculine
-240555	masculine
+240432	feminine
 masculine
-240560	masculine
-240568	feminine
-240582	masculine
-240590	masculine
-240592	masculine
-240603	neuter
-240607	masculine
-240613	masculine
+240438	masculine
+240440	masculine
+240442	masculine
+240448	neuter
 masculine
-240638	masculine
-240647	masculine
-240653	neuter
-240655	neuter
-240660	neuter
-240663	masculine
-240674	feminine
-240677	feminine
-feminine
-240680	masculine
-240682	masculine
-240693	masculine
-240716	masculine
-240728	masculine
+240457	masculine
+240459	masculine
+240463	masculine
 masculine
-240732	masculine
-240735	masculine
-240737	masculine
-240744	neuter
-feminine
-240747	feminine
-240756	feminine
+240469	masculine
+240483	feminine
+240485	feminine
+240490	masculine
+masculine
+240509	masculine
+240512	masculine
+240533	feminine
+240535	masculine
+240539	masculine
+240551	feminine
+masculine
+240558	feminine
+neuter
+240563	masculine
+masculine
+240572	neuter
+240580	masculine
+240586	neuter
+240596	neuter
+240602	neuter
+240606	masculine
+240609	masculine
+240611	masculine
+240617	masculine
+240620	feminine
+240630	masculine
+240635	masculine
+masculine
+masculine
+240639	masculine
+240647	neuter
+240656	masculine
+240661	masculine
+240665	neuter
+masculine
+masculine
+240676	neuter
+neuter
+240685	masculine
+240690	masculine
+240713	neuter
+240724	masculine
+240742	feminine
+240752	masculine
+240759	masculine
 240763	masculine
-240768	feminine
-240773	masculine
-240778	masculine
-240782	masculine
+240765	masculine
+240784	masculine
+240801	masculine
+240813	masculine
+240817	masculine
+240823	masculine
+240838	masculine
+240843	masculine
+240860	masculine
 masculine
-240786	masculine
-240789	masculine
-240791	masculine
-240795	masculine
-240798	masculine
-240808	neuter
-240810	masculine
-240814	feminine
-240816	feminine
-240822	neuter
-240826	masculine
-240829	masculine
+240877	masculine
+240881	masculine
+240885	masculine
+240888	masculine
+240891	masculine
 masculine
-240833	masculine
+240894	masculine
 masculine
-240839	masculine
-240854	masculine
-240862	feminine
-240872	masculine
-240874	masculine
-240886	masculine
-240890	masculine
-240893	neuter
-240899	masculine
-masculine
-240913	masculine
+240897	masculine
+240900	feminine
+240908	masculine
 240915	masculine
-240917	masculine
+neuter
+240918	masculine
+240923	masculine
+240925	masculine
 masculine
-240925	feminine
-240935	masculine
-masculine
+240933	masculine
+240936	masculine
+240938	masculine
+240941	masculine
 240948	masculine
-240950	masculine
-240953	masculine
-240966	neuter
-240968	masculine
-240971	masculine
+240955	masculine
+240960	masculine
+240966	masculine
 240973	masculine
 240975	masculine
-240977	masculine
-240980	masculine
-240983	masculine
-240994	masculine
-241007	masculine
 masculine
-241020	masculine
 neuter
+neuter
+240984	masculine
+240992	masculine
 masculine
+241005	masculine
+241009	feminine
+241018	masculine
 masculine
-241031	masculine
+241021	masculine
+241025	masculine
+masculine
+241029	masculine
+241035	neuter
 masculine
 241042	masculine
+241048	masculine
 241051	masculine
-241060	masculine
+241054	masculine
+241059	masculine
+masculine
 241062	masculine
+241065	masculine
+masculine
 241077	masculine
-241090	masculine
+241082	masculine
+masculine
 241092	masculine
-241102	masculine
-241104	masculine
-241106	masculine
-241108	neuter
-241110	masculine
+241096	masculine
+241111	masculine
+241113	masculine
 241115	masculine
-241125	masculine
-241127	masculine
-241131	masculine
-241133	masculine
-241141	masculine
-241159	masculine
-241162	masculine
 masculine
-241175	masculine
-241177	masculine
-241179	masculine
-241183	masculine
+241119	masculine
+241124	masculine
+241130	masculine
+241145	neuter
+241148	masculine
+241151	masculine
+241154	neuter
+241170	masculine
 masculine
-241186	masculine
+241186	feminine
 241213	masculine
-241219	masculine
-241223	masculine
-241238	masculine
-241243	masculine
-241246	masculine
-241258	masculine
+241215	masculine
+241222	masculine
+241231	masculine
+241244	neuter
+241257	masculine
 masculine
 241262	masculine
-241264	masculine
-241267	masculine
-241278	masculine
-241291	masculine
+241280	feminine
 masculine
-241305	masculine
-241308	neuter
-241319	masculine
-241322	masculine
-241329	masculine
 masculine
+241285	masculine
+masculine
+241310	masculine
+masculine
+241318	neuter
+241324	masculine
+241329	neuter
+241333	masculine
 241338	masculine
-241348	masculine
-241354	masculine
-masculine
-241363	feminine
-masculine
-241369	masculine
-241371	masculine
-241373	masculine
-241380	neuter
-masculine
-241389	masculine
-241391	masculine
-241396	masculine
-masculine
-241402	masculine
-241416	feminine
-241419	feminine
-241424	masculine
-masculine
-241444	masculine
-241447	masculine
-241468	feminine
-241470	masculine
-241474	masculine
-241486	feminine
-masculine
-241493	feminine
+241356	masculine
+241365	masculine
 neuter
-241499	masculine
-masculine
-241509	neuter
-241517	masculine
-241524	neuter
-241535	neuter
-241542	neuter
-241546	masculine
-241550	masculine
-241552	masculine
-241558	masculine
-241562	feminine
-241572	masculine
-241578	masculine
+241377	masculine
+241379	masculine
 masculine
 masculine
-241582	masculine
-241590	neuter
-241599	masculine
-241604	masculine
-241608	neuter
 masculine
+241385	masculine
+241388	neuter
+241393	masculine
+241397	neuter
+241413	feminine
+241416	neuter
+241420	feminine
+241437	masculine
+241439	neuter
+241450	masculine
+241455	masculine
+241466	masculine
+241471	masculine
 masculine
-241619	neuter
-neuter
+241478	masculine
+241488	masculine
+masculine
+241500	masculine
+masculine
+241504	masculine
+241507	masculine
+241532	masculine
+masculine
+241536	masculine
+241541	masculine
+241543	masculine
+masculine
+241555	masculine
+241573	masculine
+241595	masculine
+masculine
+241600	masculine
+241602	masculine
+241606	masculine
+241610	masculine
+241619	masculine
+masculine
+241627	masculine
 241629	masculine
-241634	masculine
-241657	neuter
+241635	masculine
+masculine
+241655	masculine
+masculine
 241668	masculine
-241686	feminine
-241696	masculine
-241703	masculine
-241707	masculine
-241709	masculine
-241728	masculine
-241745	masculine
-241757	masculine
-241761	masculine
-241767	masculine
-241782	masculine
-241787	masculine
-241805	masculine
-241807	masculine
-241824	masculine
-241828	masculine
+241675	masculine
+masculine
+masculine
+241680	masculine
+241685	masculine
+masculine
+241691	masculine
+241694	masculine
+241698	masculine
+241702	masculine
+241706	masculine
+241708	masculine
+masculine
+241711	masculine
+241722	masculine
+241738	neuter
+masculine
+241746	masculine
+241754	masculine
+241760	masculine
+241762	masculine
+241766	masculine
+241772	masculine
+241774	masculine
+241783	masculine
+241787	neuter
+241810	masculine
+241818	masculine
+241829	masculine
 241832	masculine
-241835	masculine
-241838	masculine
+241838	neuter
+241846	masculine
 masculine
-241841	masculine
+241849	masculine
 masculine
-241844	masculine
-241847	feminine
-241855	masculine
 241862	masculine
-neuter
-241865	masculine
-241870	masculine
-241872	masculine
+241868	masculine
 masculine
-241880	masculine
-241884	masculine
-241886	masculine
-241889	masculine
-241896	masculine
-241903	masculine
-241908	masculine
-241914	masculine
-241921	masculine
-241923	masculine
-masculine
-neuter
-neuter
-241932	masculine
-241942	masculine
-masculine
+241875	feminine
+241880	feminine
+241903	feminine
+241906	masculine
+241910	feminine
+241916	neuter
+feminine
+241920	feminine
+241928	neuter
+241938	feminine
+241942	feminine
+241945	masculine
 241955	masculine
-241959	feminine
-241968	masculine
-masculine
-241972	masculine
-241976	masculine
-masculine
-241980	masculine
-241986	neuter
-masculine
-241993	masculine
+241961	feminine
+241965	feminine
+241970	feminine
+feminine
+feminine
+241977	feminine
+241985	masculine
+241989	neuter
+241995	masculine
+241997	masculine
 241999	masculine
-242002	masculine
-242005	masculine
-242010	masculine
-masculine
-242014	masculine
-242017	masculine
-masculine
-242029	masculine
+242013	masculine
+242023	masculine
 242034	masculine
 masculine
-242045	masculine
-242049	masculine
-242064	masculine
-242066	masculine
-242068	masculine
+242044	masculine
 masculine
-242072	masculine
+242048	neuter
+242054	masculine
+masculine
+242063	masculine
+242070	masculine
+masculine
+242074	masculine
 242078	masculine
-242084	masculine
-242101	neuter
-242104	masculine
-242107	masculine
-242110	neuter
-242126	masculine
 masculine
-242143	feminine
-242170	masculine
+242081	masculine
+242083	masculine
+242098	masculine
+242103	masculine
+242125	masculine
+242127	masculine
+242130	masculine
+feminine
+242135	masculine
+242138	masculine
+242140	masculine
+242145	masculine
+242147	masculine
+242150	masculine
+masculine
+242156	masculine
+242158	neuter
+242161	masculine
+masculine
+242168	masculine
+masculine
 242172	masculine
+neuter
 242179	masculine
-242188	masculine
-242201	neuter
-242214	masculine
+242195	masculine
+242206	masculine
 masculine
-242219	masculine
+242223	masculine
+242225	masculine
+242229	feminine
+242233	masculine
+242235	feminine
 242237	feminine
+242241	masculine
+242258	masculine
+242265	masculine
+242267	feminine
 masculine
+242270	masculine
+242282	masculine
 masculine
-242244	masculine
-masculine
-242269	masculine
-masculine
-242277	neuter
-242283	masculine
-242288	neuter
-242292	masculine
+242295	masculine
 242297	masculine
-242315	masculine
-242324	masculine
-242326	neuter
-242337	masculine
-242339	masculine
+242300	masculine
+242302	masculine
+242304	masculine
+242309	masculine
+242318	masculine
+242323	masculine
+242337	neuter
+242345	masculine
+242360	masculine
+242365	masculine
+242384	masculine
+242392	masculine
+242397	masculine
+242403	masculine
+242407	masculine
+242411	masculine
+242416	masculine
+242418	masculine
+242425	masculine
+242428	masculine
 masculine
-242343	masculine
-masculine
-242347	masculine
-242350	neuter
-242355	masculine
-242359	neuter
-242377	feminine
-242380	neuter
-242384	feminine
-242402	masculine
-242404	neuter
-242415	masculine
-242420	masculine
-242431	masculine
-242436	masculine
-masculine
+242433	masculine
+242435	masculine
 242443	masculine
-242453	masculine
+242445	masculine
+242452	masculine
+neuter
+242455	masculine
+242463	masculine
+242475	masculine
 masculine
-242465	masculine
+242482	masculine
+242485	masculine
+242488	masculine
+242495	masculine
+242498	neuter
+242555	masculine
+242560	masculine
+242574	masculine
 masculine
-242469	masculine
-242472	masculine
-242499	masculine
-masculine
-242503	masculine
-242508	masculine
-242510	masculine
-masculine
-242522	masculine
-242541	masculine
-242564	masculine
-masculine
-242569	masculine
-242571	masculine
-242575	masculine
-242579	masculine
-242588	masculine
-masculine
-242596	masculine
-242598	masculine
-242604	masculine
-masculine
-242624	masculine
-masculine
-242638	masculine
-242645	masculine
-masculine
-masculine
-242650	masculine
-242655	masculine
-masculine
-242661	masculine
-242664	masculine
-242668	masculine
-242672	masculine
-242676	masculine
-242678	masculine
-masculine
+242581	masculine
+feminine
+feminine
+242594	masculine
+242601	masculine
+242611	masculine
+242613	masculine
+242615	neuter
+242620	masculine
+242632	masculine
+242634	masculine
+242639	masculine
+242642	feminine
+242649	feminine
+242651	neuter
+242660	neuter
+242662	neuter
+242670	masculine
+242677	neuter
 242681	masculine
-242692	masculine
-242709	neuter
+242683	masculine
+242695	masculine
+242698	masculine
+242706	neuter
+242708	masculine
+242710	neuter
+242716	masculine
+242723	masculine
+242727	masculine
+242736	masculine
+neuter
 masculine
-242717	masculine
-242725	masculine
-242731	masculine
-242733	masculine
-242737	masculine
-242743	masculine
-242745	masculine
+masculine
+neuter
 242755	masculine
-242759	neuter
-242782	masculine
-242790	masculine
-242801	masculine
-242804	masculine
-242810	neuter
-242818	masculine
+242758	masculine
+242767	masculine
+242775	masculine
+242793	masculine
+242807	neuter
+242812	masculine
+242827	masculine
+242829	feminine
 masculine
-242821	masculine
+masculine
+masculine
 masculine
 242835	masculine
+242838	masculine
 242841	masculine
+242855	masculine
 masculine
-242849	feminine
-242855	feminine
-242879	feminine
-242882	masculine
-242886	feminine
-242892	neuter
+242865	neuter
 feminine
-242896	feminine
-242904	neuter
-242915	feminine
-242920	feminine
-242923	masculine
-242933	masculine
-242939	feminine
-242943	feminine
-242948	feminine
-feminine
-feminine
-242955	feminine
-242963	masculine
-242967	neuter
-242973	masculine
+242871	masculine
+242877	masculine
+242882	neuter
+masculine
+masculine
+242887	masculine
+242896	masculine
+242903	masculine
+242906	masculine
+242914	masculine
+242939	masculine
+242943	masculine
+masculine
+242946	masculine
+242948	masculine
+masculine
+242958	masculine
+242966	masculine
+242973	neuter
 242975	masculine
-242977	masculine
-242991	masculine
-243001	masculine
-243012	masculine
-masculine
-243022	masculine
-masculine
-243027	neuter
-243033	masculine
-masculine
-243042	masculine
-243049	masculine
-masculine
-243053	masculine
-243057	masculine
-masculine
-243060	masculine
-243062	masculine
-243077	masculine
-243082	masculine
-243104	masculine
+242994	masculine
+243018	masculine
+243035	masculine
+243040	masculine
+243043	masculine
+243051	masculine
+243054	masculine
+243059	masculine
+243063	masculine
+243095	masculine
+243103	masculine
 243106	masculine
-243109	masculine
-feminine
-243114	masculine
-243117	masculine
-243119	masculine
+243108	masculine
+243121	masculine
 243124	masculine
-243126	masculine
-243130	masculine
-masculine
-243136	masculine
-243138	neuter
+243132	masculine
+243137	feminine
 243141	masculine
-masculine
-243148	masculine
-masculine
-243152	masculine
-neuter
-243159	masculine
+243144	masculine
+243146	masculine
+243151	masculine
+243153	masculine
+243160	masculine
+243162	masculine
+243167	masculine
+243172	masculine
 243175	masculine
-243186	masculine
+243177	masculine
+243182	masculine
+243185	masculine
+243191	masculine
+243200	masculine
+neuter
 masculine
-243203	masculine
-243205	masculine
-243209	feminine
-243213	masculine
-243216	feminine
-243218	feminine
-243222	masculine
-243240	masculine
-243248	masculine
-243250	feminine
+243207	masculine
 masculine
-243253	masculine
-243265	masculine
+243211	masculine
+243217	masculine
+243225	masculine
+neuter
+243229	masculine
+243236	masculine
+243238	masculine
+243242	masculine
+243244	neuter
+masculine
+243250	masculine
+243252	masculine
+243256	masculine
+243261	masculine
+masculine
+243264	neuter
+masculine
+243272	feminine
 masculine
 243278	masculine
-243280	masculine
-243283	masculine
 243285	masculine
-243287	masculine
-243292	masculine
-243301	masculine
-243306	masculine
-243321	neuter
-243329	masculine
-243344	masculine
-243350	masculine
-243370	masculine
-243378	masculine
+masculine
+243299	masculine
+masculine
+243313	masculine
+243321	masculine
+masculine
+243326	masculine
+243328	masculine
+243332	neuter
+243336	masculine
+243345	masculine
+masculine
+243348	feminine
+243357	feminine
+243365	masculine
+243380	masculine
 243383	masculine
-243389	masculine
-243393	masculine
-243397	masculine
-243402	masculine
-243404	masculine
-243411	masculine
-243414	masculine
+243387	masculine
+243392	masculine
+243396	neuter
+243403	masculine
+243415	feminine
+243425	masculine
+243448	masculine
+243452	masculine
+243460	masculine
+243464	masculine
 masculine
-243419	masculine
-243421	masculine
-243429	masculine
-243431	masculine
-243438	masculine
+243474	neuter
 neuter
-243441	masculine
-243449	masculine
-243461	masculine
-masculine
-243468	masculine
-243471	masculine
-243474	masculine
 243481	masculine
-243484	neuter
-243542	masculine
+243491	masculine
+243494	masculine
+243502	masculine
+masculine
+243509	masculine
+243514	neuter
+243517	neuter
+243522	masculine
+243527	masculine
+243538	masculine
 243547	masculine
-243562	masculine
 masculine
-243570	masculine
-feminine
-feminine
-243583	masculine
-243590	masculine
-243600	masculine
+243570	neuter
+243575	masculine
+243581	masculine
+243591	masculine
+243597	masculine
+masculine
+243601	masculine
 243603	masculine
-243605	neuter
-243611	masculine
-243623	masculine
-243625	masculine
-243630	masculine
-243634	feminine
-243641	feminine
-243643	neuter
-243652	neuter
-243654	neuter
-243662	masculine
-243669	neuter
-243673	masculine
-243675	masculine
-243687	masculine
-243690	masculine
-243699	neuter
-243701	masculine
-243703	neuter
-243709	masculine
-243716	masculine
+243618	masculine
+243620	neuter
+masculine
+243629	masculine
+243636	masculine
+243657	masculine
+243660	masculine
+243664	masculine
+243666	masculine
+243668	neuter
+243670	neuter
+243692	feminine
+243700	masculine
+243703	masculine
+masculine
+masculine
+243707	masculine
+feminine
 243720	masculine
-243729	masculine
-neuter
+243726	masculine
+243728	masculine
+243734	masculine
+243741	masculine
 masculine
 masculine
-neuter
-243748	masculine
-243751	masculine
-243760	masculine
-243768	masculine
-243787	masculine
-243801	neuter
+masculine
+243749	masculine
+243752	masculine
+243771	masculine
+masculine
+masculine
+243777	masculine
+243782	masculine
+243785	masculine
+243793	masculine
+feminine
+243797	masculine
 243806	masculine
-243823	masculine
-243825	feminine
-masculine
-masculine
-masculine
-masculine
-243831	masculine
-243834	masculine
+243812	feminine
+243818	masculine
+243820	neuter
+neuter
+243824	masculine
 243837	masculine
-243851	masculine
+243850	masculine
 masculine
-243861	neuter
+243854	masculine
+243857	masculine
+243860	neuter
+243871	feminine
+243875	neuter
+243880	masculine
+243885	neuter
+masculine
+243894	masculine
+243898	masculine
+masculine
+243904	masculine
+243909	masculine
+masculine
+243915	masculine
+243918	feminine
 feminine
-243867	masculine
-243874	masculine
-243879	neuter
 masculine
+243923	masculine
+243933	masculine
+243951	masculine
+243953	masculine
+243980	masculine
+243983	masculine
+243986	masculine
 masculine
-243884	masculine
-243893	masculine
-243900	masculine
-243903	masculine
-243911	masculine
-243937	masculine
-243941	masculine
-243943	masculine
-243945	masculine
-243947	masculine
+244001	masculine
+244005	neuter
 masculine
-243958	masculine
-243966	masculine
-243974	neuter
-243976	masculine
-243995	masculine
-244019	masculine
-244036	masculine
-244042	masculine
-244045	masculine
-244053	masculine
+244009	masculine
+244011	masculine
+244014	masculine
+244023	masculine
+masculine
+244028	masculine
+244030	masculine
+244040	masculine
+244043	masculine
+244046	masculine
+244049	masculine
 244056	masculine
-244061	masculine
-244065	masculine
-244100	masculine
-244108	masculine
-244111	masculine
-244113	masculine
-244127	masculine
-244130	masculine
-244139	masculine
-244144	feminine
-244149	masculine
-244152	masculine
-244154	masculine
-244159	masculine
-244161	masculine
-244168	masculine
-244170	masculine
-244176	masculine
-244181	masculine
-244184	masculine
-244186	masculine
-244191	masculine
-244194	masculine
-244200	masculine
-244209	masculine
-neuter
+244062	masculine
+244069	masculine
+244075	masculine
 masculine
-244216	masculine
+244084	masculine
 masculine
-244220	masculine
-244226	masculine
-244234	masculine
-neuter
-244238	masculine
-244245	masculine
-244247	masculine
-244251	masculine
-244253	neuter
-masculine
-244261	masculine
-244263	masculine
-244267	masculine
-244273	masculine
-masculine
-244276	neuter
-masculine
-244284	feminine
-masculine
-244290	masculine
-244297	masculine
-masculine
-244311	masculine
-244313	masculine
-244326	masculine
-244334	masculine
-masculine
-244339	masculine
-244341	masculine
-244345	neuter
-244349	masculine
-244359	masculine
-masculine
-244362	feminine
-244371	feminine
-244379	masculine
-244395	masculine
-244398	masculine
-244402	masculine
-244407	masculine
-244411	neuter
-244418	masculine
-244430	feminine
-244440	masculine
-244463	masculine
-244467	masculine
-244475	masculine
-244480	masculine
-masculine
-244490	neuter
-neuter
-244497	masculine
-244507	masculine
-244510	masculine
-244519	masculine
-masculine
-244526	masculine
-244531	neuter
-244534	neuter
-244539	masculine
-244544	masculine
-244555	masculine
-244564	masculine
-masculine
-244588	neuter
-244593	masculine
-244599	masculine
-244609	masculine
-244615	masculine
-masculine
-244619	masculine
-244621	masculine
-244636	masculine
-244638	neuter
-masculine
-244647	masculine
-244654	masculine
-244675	masculine
-244678	masculine
-244682	masculine
-244684	masculine
-244686	neuter
-244688	neuter
-244710	feminine
-244718	masculine
-244721	masculine
-masculine
-masculine
-244725	masculine
+244089	masculine
 feminine
-244738	masculine
-244744	masculine
-244746	masculine
-244752	masculine
-244759	masculine
+244098	feminine
+244109	masculine
+244116	neuter
+244118	masculine
+244127	masculine
+244138	masculine
+244152	masculine
+244159	masculine
+244168	neuter
+244177	masculine
+244194	masculine
+244200	neuter
+244203	masculine
+244212	neuter
+244230	feminine
+244254	masculine
+244263	masculine
+244289	masculine
+244294	feminine
+244310	masculine
+244316	masculine
+masculine
+neuter
+244324	masculine
+244326	feminine
+244332	masculine
+244346	masculine
+244354	masculine
+244359	masculine
+244366	masculine
+244371	neuter
+244375	masculine
+244378	masculine
+244385	masculine
+244388	neuter
+244395	neuter
 masculine
 masculine
+244403	masculine
+244408	masculine
+244414	masculine
 masculine
-244767	masculine
-244770	masculine
-244790	masculine
+244419	masculine
+244428	masculine
+244436	masculine
+244438	masculine
+244449	masculine
+244451	neuter
+244453	masculine
+244456	masculine
+244460	masculine
+feminine
+feminine
+244473	masculine
+244479	masculine
+244494	masculine
+244496	masculine
+244498	masculine
+244506	masculine
+244510	masculine
+244512	masculine
+244518	masculine
+244526	masculine
+244531	masculine
+244538	masculine
+244542	masculine
+244549	masculine
+244554	masculine
+244560	feminine
 masculine
+244570	neuter
 masculine
-244796	masculine
+244574	masculine
+244577	masculine
+244581	masculine
+244588	neuter
+244594	masculine
+244609	neuter
+244617	masculine
+244622	neuter
+244625	masculine
+244627	masculine
+244633	neuter
+244647	masculine
+244649	masculine
+244651	masculine
+244660	masculine
+244670	masculine
+244677	masculine
+244686	feminine
+244696	masculine
+masculine
+244701	neuter
+244709	masculine
+244711	masculine
+244716	masculine
+244719	masculine
+244725	masculine
+244727	masculine
+244743	masculine
+244747	masculine
+244752	neuter
+244759	neuter
+244762	neuter
+244769	feminine
+masculine
+244773	masculine
+masculine
+244785	masculine
+244787	neuter
+244790	neuter
+244795	masculine
 244801	masculine
 244804	masculine
-244813	masculine
-feminine
-244817	masculine
-244826	masculine
-244832	feminine
-244838	masculine
-244840	neuter
-neuter
-244844	masculine
-244857	masculine
-244871	masculine
-244873	masculine
-244876	masculine
-244879	masculine
-244883	neuter
-244894	feminine
-244898	neuter
-244903	masculine
-244908	neuter
+244806	masculine
+244815	masculine
+244819	feminine
+244821	masculine
+244825	masculine
+244847	masculine
 masculine
-244917	masculine
-244921	masculine
+244858	masculine
 masculine
+masculine
+244863	masculine
+244875	masculine
+244877	masculine
+244897	masculine
+244915	masculine
+244918	masculine
+244925	masculine
 244927	masculine
-244932	masculine
-masculine
-244939	masculine
-244943	feminine
-feminine
-masculine
-244948	masculine
-244958	masculine
-244976	masculine
-244978	masculine
-245007	masculine
+244930	feminine
+244936	masculine
+244938	masculine
+244943	masculine
+244945	masculine
+244951	masculine
+244954	masculine
+244957	masculine
+244965	masculine
+244968	neuter
+244970	masculine
+244977	masculine
+244979	masculine
+244986	masculine
+244996	masculine
+245008	masculine
 245010	masculine
-245013	masculine
 masculine
-245029	masculine
-245033	neuter
-masculine
+245022	neuter
+245024	masculine
 245038	masculine
 245040	masculine
-245043	masculine
-245052	masculine
-masculine
-245057	masculine
-245059	masculine
-245070	masculine
+245069	masculine
+245071	masculine
 245073	masculine
-245076	masculine
-245079	masculine
-245086	masculine
-245093	masculine
-245100	masculine
-245106	masculine
+245081	feminine
+245085	masculine
 masculine
-245116	masculine
-masculine
-245121	masculine
-feminine
-245130	feminine
-245142	masculine
-245150	neuter
-245152	masculine
+245095	masculine
+245101	masculine
+245104	feminine
+245111	masculine
+245115	masculine
+245123	masculine
+245129	masculine
+245135	masculine
+245156	masculine
 245161	masculine
+245164	masculine
+masculine
 245173	masculine
-245188	masculine
-245195	masculine
-245204	neuter
-245213	masculine
-245231	masculine
-245237	neuter
-245240	masculine
-245249	neuter
-245269	feminine
-245295	masculine
-245305	masculine
-245332	masculine
-245338	feminine
-245354	masculine
-245360	masculine
+245175	masculine
+245191	feminine
+feminine
+245194	masculine
 masculine
 neuter
-245368	masculine
-245370	feminine
-245376	masculine
-245390	masculine
+245202	masculine
+245204	masculine
+245212	masculine
+245217	masculine
+245226	masculine
+245230	neuter
+245232	masculine
+245237	masculine
+245245	neuter
+245258	masculine
+245260	masculine
+245272	masculine
+245277	masculine
+245279	masculine
+245282	masculine
+245285	masculine
+masculine
+245293	masculine
+245318	masculine
+245321	neuter
+245326	neuter
+245328	masculine
+245334	masculine
+245341	masculine
+245344	masculine
+245353	masculine
+masculine
+245369	masculine
+masculine
+245378	masculine
+245391	masculine
+245393	masculine
+245395	masculine
 245398	masculine
-245403	masculine
-245410	masculine
-245415	neuter
-245419	masculine
-245422	masculine
-245429	masculine
-245432	neuter
-245439	neuter
 masculine
+245407	feminine
+245412	masculine
+245420	masculine
+245428	masculine
+245430	masculine
+245432	masculine
+245435	masculine
+245438	masculine
 masculine
-245447	masculine
-245452	masculine
+245445	masculine
+245448	masculine
+feminine
+245451	masculine
 245458	masculine
-masculine
-245464	masculine
-245473	masculine
+245462	masculine
+245468	masculine
+245475	masculine
+245478	masculine
 245481	masculine
-245483	masculine
-245495	masculine
-245497	neuter
-245499	masculine
-245502	masculine
-245506	masculine
-feminine
-feminine
-245520	masculine
-245526	masculine
-245542	masculine
-245544	masculine
-245546	masculine
-245554	masculine
-245558	masculine
+neuter
+245488	masculine
+245490	masculine
+245494	masculine
+245498	masculine
+245500	masculine
+245523	masculine
+masculine
+245530	masculine
+245532	masculine
+245536	masculine
+245540	masculine
+245544	neuter
+245549	masculine
 245560	masculine
-245566	masculine
-245574	masculine
-245579	masculine
-245586	masculine
-245590	masculine
+245564	masculine
+245569	masculine
+masculine
+245583	masculine
+masculine
 245597	masculine
-245602	masculine
-245608	feminine
+245600	masculine
+245605	masculine
 245610	masculine
-245619	neuter
-masculine
-245623	masculine
-245626	masculine
-245630	masculine
-245637	neuter
+245621	masculine
+245624	masculine
+245634	masculine
+245641	masculine
 245644	masculine
-245660	neuter
-245668	masculine
-245674	neuter
-245677	masculine
-245679	masculine
-245685	neuter
-245699	masculine
-245701	masculine
-245703	masculine
-245712	masculine
-245722	masculine
-245731	masculine
-245740	feminine
-245750	masculine
+245648	masculine
 masculine
-245755	neuter
-245763	masculine
-245765	masculine
-245770	masculine
+245651	masculine
+245659	neuter
+245661	masculine
+masculine
+245672	masculine
+245680	masculine
+245688	masculine
+245696	masculine
+245706	neuter
+245708	masculine
+245710	masculine
+245713	feminine
+masculine
+245723	neuter
+245725	masculine
+245735	feminine
+masculine
+masculine
+245753	feminine
+245755	feminine
+masculine
+feminine
+245760	masculine
+masculine
+245766	masculine
 245774	masculine
-245780	masculine
-245782	masculine
-245798	masculine
-245802	masculine
-245807	neuter
-245814	neuter
-245817	neuter
-245824	feminine
 masculine
-245828	masculine
 masculine
-245840	masculine
-245842	neuter
-245845	neuter
+245782	neuter
+245784	masculine
+neuter
+245788	masculine
+245800	masculine
+245803	masculine
+245805	neuter
+245812	masculine
+masculine
+245816	masculine
+masculine
+245825	masculine
+245827	masculine
+245832	masculine
+245846	neuter
+masculine
+masculine
 245850	masculine
-245856	masculine
+masculine
 245859	masculine
-245861	masculine
-245870	masculine
-245874	feminine
-245876	masculine
-245880	masculine
-245903	masculine
+245866	masculine
+neuter
+245871	masculine
+245877	masculine
+245880	neuter
+245882	neuter
+245900	masculine
+neuter
+245909	masculine
+245913	masculine
+245918	masculine
+245920	masculine
+245925	masculine
+245927	masculine
+245931	masculine
 masculine
-245914	masculine
-245917	masculine
+245941	masculine
 masculine
-245921	masculine
-245933	masculine
-245935	masculine
-245956	masculine
-245974	masculine
-245977	masculine
-245985	masculine
-245987	masculine
-245990	feminine
+245945	neuter
+245949	masculine
+245969	neuter
+245973	masculine
+245979	masculine
+245981	feminine
+245992	masculine
 245996	masculine
-245998	masculine
+245999	masculine
 246003	masculine
 246005	masculine
-246011	masculine
-246014	masculine
-246017	masculine
-246025	masculine
-246028	neuter
-246030	masculine
-246037	masculine
-246039	masculine
-246046	masculine
-246058	masculine
-246070	masculine
-246072	masculine
+246007	masculine
+246013	masculine
+246018	masculine
+246020	masculine
+246031	masculine
+feminine
+246035	feminine
+246042	masculine
+246052	neuter
 masculine
-246084	neuter
+masculine
+246062	masculine
+246069	masculine
+246071	masculine
+246075	masculine
+246081	masculine
+246083	masculine
 246086	masculine
-246100	masculine
+246091	masculine
 246102	masculine
-246133	masculine
-246135	masculine
-246137	masculine
-246145	feminine
-246149	masculine
-246152	masculine
-246161	masculine
-246167	masculine
-246170	feminine
-246177	masculine
-246181	masculine
-246189	masculine
-246195	masculine
-246201	masculine
-246222	masculine
-246227	masculine
-246230	masculine
-masculine
-246239	masculine
-246241	masculine
-246257	feminine
-feminine
-246262	masculine
-masculine
+246108	masculine
+246121	masculine
+246126	masculine
+246128	masculine
+246132	masculine
+246134	masculine
+246137	neuter
 neuter
-246270	masculine
-246272	masculine
-246281	masculine
-246286	masculine
-246295	masculine
-246299	neuter
-246301	masculine
-246307	masculine
-246315	neuter
-246328	masculine
-246330	masculine
-246342	masculine
-246347	masculine
-246349	masculine
-246352	masculine
-246357	masculine
-masculine
-246365	masculine
-246390	masculine
-246393	neuter
-246398	neuter
-246400	masculine
-246406	masculine
-246413	masculine
-246416	masculine
-246425	masculine
-masculine
-246442	masculine
-masculine
-246451	masculine
-246465	masculine
-246467	masculine
-246469	masculine
-246472	masculine
-masculine
-246482	feminine
-246487	masculine
-246495	masculine
-246504	masculine
-246507	masculine
-246509	masculine
-246512	masculine
-246515	masculine
-masculine
-246522	masculine
-246525	masculine
+246164	masculine
+246170	masculine
 feminine
-246528	masculine
-246535	masculine
+246183	masculine
+246188	masculine
+246193	masculine
+masculine
+246198	neuter
+246201	masculine
+246206	masculine
+neuter
+246213	masculine
+masculine
+246219	masculine
+246221	masculine
+246224	masculine
+246229	masculine
+246234	feminine
+246239	feminine
+246241	masculine
+246253	masculine
+246256	masculine
+246268	neuter
+246274	neuter
+246278	feminine
+246280	feminine
+246285	masculine
+246294	neuter
+246296	masculine
+246299	feminine
+246322	feminine
+masculine
+246329	feminine
+246333	masculine
+246345	masculine
+246351	neuter
+246359	masculine
+246367	feminine
+246370	masculine
+246379	masculine
+246381	neuter
+masculine
+246386	masculine
+246394	masculine
+246398	masculine
+246402	feminine
+246409	masculine
+246413	masculine
+246420	feminine
+feminine
+246426	masculine
+246432	masculine
+246434	masculine
+246440	neuter
+masculine
+masculine
+246447	neuter
+246449	masculine
+246451	masculine
+246456	masculine
+246458	neuter
+246460	masculine
+246465	neuter
+masculine
+masculine
+246469	masculine
+feminine
+246472	feminine
+246477	masculine
+246479	feminine
+246485	masculine
+masculine
+246488	masculine
+246498	masculine
+246509	masculine
+masculine
+feminine
+246514	masculine
+246516	feminine
+masculine
+246519	masculine
+246530	masculine
 246540	masculine
-246546	masculine
-246553	masculine
-246556	masculine
-246559	masculine
-246561	neuter
-246567	masculine
-246569	masculine
-246573	masculine
-246577	masculine
-246579	masculine
+246547	masculine
+masculine
+246555	masculine
+246558	masculine
+246564	masculine
+246566	masculine
+246568	masculine
+246572	masculine
+246575	masculine
+neuter
+246581	masculine
+246594	neuter
+246598	masculine
+246600	feminine
 246602	masculine
+246607	masculine
+246623	masculine
+neuter
+246627	neuter
+246643	neuter
+246645	neuter
 masculine
-246609	masculine
-246611	masculine
-246615	masculine
-246619	masculine
-246623	neuter
-246628	masculine
-246639	masculine
-246643	masculine
-246650	masculine
-masculine
-246664	masculine
-masculine
-246679	masculine
-246682	masculine
-246687	masculine
+246649	masculine
+246652	masculine
+246654	masculine
+246658	masculine
+246662	masculine
+246668	feminine
+246675	masculine
+246688	masculine
 246692	masculine
-246704	masculine
-246707	masculine
-246717	masculine
-246724	masculine
-246727	masculine
+246695	masculine
+246705	masculine
+246707	feminine
+246713	neuter
+masculine
+246720	masculine
+246729	masculine
 246733	masculine
+246735	masculine
+246742	masculine
+246747	neuter
+246750	neuter
+246763	masculine
 masculine
-246738	masculine
-246748	neuter
-246750	masculine
-masculine
-246761	masculine
-246769	masculine
-246777	masculine
-246785	masculine
-246795	neuter
+246768	masculine
+246784	masculine
+246786	masculine
+246793	masculine
+246795	masculine
 246797	masculine
 246799	masculine
-246802	feminine
-246804	masculine
-246813	neuter
-246815	masculine
-246825	feminine
+246810	masculine
+246814	masculine
+246822	masculine
+246834	masculine
+246847	masculine
+246860	masculine
+246863	masculine
+246871	masculine
+246875	masculine
+246887	masculine
+246896	feminine
+246898	neuter
+246900	neuter
+246904	masculine
 masculine
+246912	masculine
+246923	masculine
+246928	neuter
+246933	masculine
 masculine
-246846	feminine
-246848	feminine
-masculine
-feminine
-246853	masculine
-masculine
-246859	masculine
-246868	masculine
-masculine
-masculine
-246876	neuter
-246878	masculine
+246936	masculine
+246941	masculine
+246962	feminine
+246971	masculine
+246985	masculine
+246995	feminine
+246999	masculine
+247006	neuter
+247013	masculine
 neuter
-246882	masculine
-246894	masculine
-246897	masculine
-246899	neuter
-246906	masculine
 masculine
-246910	masculine
+247020	masculine
+247026	masculine
+247035	neuter
+247051	masculine
+247053	masculine
+247055	masculine
+247057	feminine
+247063	masculine
 masculine
-246919	masculine
-246921	masculine
-246926	masculine
-246941	neuter
+247069	masculine
 masculine
-masculine
-246945	masculine
-masculine
-246954	masculine
-246961	masculine
-neuter
-246966	masculine
-246972	masculine
-246975	neuter
-246977	neuter
-246995	masculine
-neuter
-247004	masculine
-247008	masculine
-247014	masculine
-247016	masculine
-247021	masculine
-247023	masculine
-247027	masculine
-masculine
-247037	masculine
-masculine
-247041	neuter
-247046	masculine
-247066	neuter
-247070	masculine
-247076	masculine
-247078	feminine
-247090	masculine
-247094	masculine
-247097	masculine
-247101	masculine
+247079	masculine
+247092	masculine
+247098	neuter
+247100	neuter
 247103	masculine
-247105	masculine
-247112	masculine
-247117	masculine
-247119	masculine
-247130	masculine
+247106	masculine
+247110	feminine
 feminine
-247134	feminine
-247141	masculine
-247151	neuter
+247115	masculine
 masculine
-masculine
-247161	masculine
-247168	masculine
-247170	masculine
-247174	masculine
-247180	masculine
-247183	masculine
-247186	masculine
-247191	masculine
-247203	masculine
-247209	masculine
-247222	masculine
-247227	masculine
-247229	masculine
+neuter
+247120	neuter
+247127	masculine
+247129	masculine
+247135	masculine
+247154	neuter
+247158	neuter
+247162	masculine
+247189	masculine
+247195	masculine
+247202	masculine
+247230	masculine
 247233	masculine
-247235	masculine
-247238	neuter
+masculine
+247241	masculine
+247249	masculine
+247253	neuter
+247255	masculine
 neuter
+247261	neuter
+247264	masculine
 247266	masculine
-247272	masculine
-feminine
-247285	masculine
-247290	masculine
-247295	masculine
+247269	neuter
+247277	neuter
+247279	masculine
 masculine
-247300	neuter
-247303	masculine
+247286	masculine
 247308	masculine
+247312	masculine
 neuter
-247316	masculine
+247316	neuter
+247321	neuter
+247335	masculine
+247351	masculine
+247355	masculine
+247372	masculine
 masculine
-247322	masculine
-247324	masculine
-247327	masculine
-247332	masculine
-247337	feminine
-247342	feminine
-247344	masculine
-247356	masculine
-247359	masculine
-247371	neuter
-247377	neuter
-247382	feminine
-247384	feminine
-247389	masculine
-247398	neuter
-247402	masculine
-247405	feminine
-247428	feminine
+247375	masculine
+247378	masculine
+247387	masculine
+247398	masculine
+247415	neuter
 masculine
-247435	feminine
-247439	masculine
-247451	masculine
-247457	neuter
-247466	masculine
-247475	feminine
-247478	masculine
+247418	masculine
+247422	masculine
+247430	masculine
+247442	masculine
+247446	masculine
+feminine
+247450	masculine
+247456	masculine
+247465	masculine
+247471	masculine
+247475	neuter
+247484	masculine
 247487	masculine
-247489	neuter
-masculine
-247494	masculine
-247503	masculine
-247507	masculine
-247511	feminine
-247518	masculine
-247522	masculine
-247529	feminine
+247491	masculine
+247499	masculine
 feminine
-247535	masculine
-247541	masculine
-247543	masculine
-247549	neuter
+247505	masculine
+247512	masculine
+247514	masculine
+247516	masculine
+247525	masculine
 masculine
 masculine
-247556	neuter
-247558	masculine
-247560	masculine
-247565	masculine
-247567	neuter
-247569	masculine
-247574	neuter
+247558	neuter
 masculine
+247562	masculine
+247566	feminine
+247570	masculine
+247577	masculine
+247582	masculine
+247584	masculine
 masculine
-247578	masculine
-247580	feminine
-247582	feminine
-247587	masculine
-247589	feminine
-247595	masculine
+247588	masculine
+247599	masculine
 masculine
-247598	masculine
-247608	masculine
-247619	masculine
+247602	neuter
+247607	neuter
+247610	masculine
+247615	masculine
+neuter
+neuter
+247620	masculine
+247623	feminine
 masculine
 feminine
-247624	masculine
-247626	feminine
-masculine
+247627	masculine
 247629	masculine
-247640	masculine
-247650	masculine
-247657	masculine
-masculine
-247665	masculine
-247668	masculine
-247676	masculine
-247678	masculine
-247680	masculine
-247684	masculine
-247687	masculine
+247635	masculine
+247641	masculine
+247644	feminine
+247648	masculine
+247658	neuter
+247664	masculine
 neuter
-247693	masculine
-247706	neuter
-247710	masculine
-247712	feminine
-247714	masculine
-247719	masculine
-247737	masculine
-neuter
-247741	neuter
-247759	neuter
-247761	neuter
+247673	feminine
+247675	masculine
+247683	masculine
+247703	feminine
+247715	masculine
+247717	masculine
+247720	masculine
+247723	masculine
 masculine
-247765	masculine
-247768	masculine
+247734	masculine
+247738	masculine
+247759	masculine
 247770	masculine
-247774	masculine
-247779	masculine
-247786	feminine
-247793	masculine
-247807	masculine
-247811	masculine
-247814	masculine
-247824	masculine
-247826	feminine
-247832	neuter
+247772	masculine
+247776	neuter
+247778	masculine
+247781	masculine
+247784	masculine
+247792	masculine
+247795	feminine
+247799	masculine
+247804	masculine
+247808	feminine
+247811	feminine
 masculine
-247839	masculine
+247822	masculine
+247838	feminine
+247842	neuter
+feminine
 247848	masculine
-247852	masculine
+247850	feminine
+masculine
 247854	masculine
-247861	masculine
-247867	neuter
-247870	neuter
-247884	masculine
 masculine
-247889	masculine
-247906	masculine
-247908	masculine
-247915	masculine
-247917	masculine
-247919	masculine
-247922	masculine
-247933	masculine
-247938	masculine
-247946	masculine
-247958	masculine
-247971	masculine
+247857	neuter
+masculine
+247863	feminine
+neuter
+247877	masculine
+247879	neuter
+247881	masculine
+masculine
+247887	masculine
+247890	masculine
+247892	masculine
+masculine
+247896	feminine
+247905	masculine
+247907	feminine
+247910	masculine
+247916	feminine
+247925	masculine
+masculine
+247934	masculine
+247939	masculine
+247944	masculine
+247946	feminine
+247950	masculine
+247960	feminine
+247962	feminine
+247976	masculine
+masculine
+247981	masculine
 247985	masculine
-247988	masculine
-247996	masculine
-248000	masculine
-248013	masculine
-248023	feminine
-248025	neuter
-248027	neuter
-248031	masculine
+247990	masculine
+247992	masculine
 masculine
-248039	masculine
-248050	masculine
-248056	neuter
-248061	masculine
+247999	masculine
+248002	masculine
+248012	masculine
+248017	masculine
+248021	feminine
+248030	feminine
+248032	masculine
+248034	feminine
+248041	masculine
+248046	masculine
+248052	masculine
+248055	feminine
+248058	feminine
+248066	neuter
+248074	masculine
+248078	masculine
 masculine
-248064	masculine
-248069	masculine
-248090	feminine
+248086	masculine
+248089	masculine
+248095	masculine
 248099	masculine
-248113	masculine
-248123	feminine
-248127	masculine
-248134	neuter
-248141	masculine
+248105	masculine
+248108	masculine
+masculine
+248111	masculine
+248114	neuter
+masculine
+248117	masculine
+248119	masculine
+248127	neuter
+248132	neuter
+masculine
+masculine
+masculine
+248147	masculine
+248151	masculine
+248153	masculine
+masculine
+248156	masculine
+248158	masculine
 neuter
+248161	neuter
+248167	masculine
+feminine
+248172	masculine
+248178	masculine
+248191	masculine
+248194	neuter
 masculine
-248148	masculine
-248154	masculine
-248163	neuter
-248179	masculine
-248182	masculine
-248184	masculine
-248186	feminine
-248192	masculine
-masculine
-248198	masculine
-masculine
+248197	masculine
+248202	masculine
 248208	masculine
-248221	masculine
-248227	neuter
-248229	neuter
-248232	masculine
-248236	masculine
-248240	feminine
-feminine
-248247	masculine
 masculine
-248250	neuter
-248253	neuter
-248260	masculine
-248262	masculine
+masculine
+248214	masculine
+masculine
+248227	masculine
+248238	masculine
+masculine
+248241	masculine
+248244	neuter
+248256	masculine
+masculine
+248263	masculine
+masculine
+248267	masculine
 248269	masculine
-248288	neuter
-248292	neuter
-248296	masculine
-248323	masculine
-248329	masculine
-248336	masculine
-248364	masculine
+248273	masculine
+masculine
+248276	masculine
+248283	masculine
+248290	masculine
+masculine
+248300	masculine
+248305	masculine
+248309	masculine
+neuter
+248330	masculine
+248343	masculine
+248355	neuter
+248361	neuter
 248367	masculine
-masculine
+248369	masculine
+feminine
 248375	masculine
+masculine
+248379	masculine
 248383	masculine
-248387	neuter
-248389	masculine
-neuter
-248395	neuter
+248385	masculine
 248399	masculine
-248402	masculine
-248405	neuter
-248413	neuter
-248415	masculine
+248402	neuter
 masculine
-248423	masculine
-248447	masculine
-248451	masculine
+248406	masculine
+248408	masculine
+248411	masculine
+248425	masculine
+248433	feminine
+248440	masculine
+248474	masculine
 neuter
-248455	neuter
-248460	neuter
-248475	masculine
-248491	masculine
-248496	masculine
-248513	masculine
-masculine
-248516	masculine
-248519	masculine
-248528	masculine
+248486	masculine
+248497	masculine
+248500	masculine
+248505	masculine
+248520	masculine
+248523	neuter
+248536	masculine
 248540	masculine
-248558	neuter
-masculine
-248562	masculine
-248566	masculine
-248574	masculine
-248586	masculine
-248590	masculine
-feminine
-248594	masculine
-248600	masculine
-248609	masculine
-248615	masculine
-248619	neuter
-248629	masculine
-248632	masculine
-248637	masculine
-248645	masculine
-feminine
-248652	masculine
-248660	masculine
+248570	masculine
+248585	neuter
+248605	masculine
+248622	masculine
+248645	neuter
 248662	masculine
-248664	masculine
-248673	masculine
-masculine
-masculine
-248706	neuter
+248687	masculine
 248708	masculine
-248711	masculine
-248715	feminine
-248719	masculine
-248726	masculine
-248732	masculine
-248734	masculine
-masculine
 248738	masculine
-248749	masculine
-masculine
-248752	neuter
+248743	neuter
+248748	masculine
 248757	neuter
-248760	masculine
-248765	masculine
-neuter
-neuter
-248770	masculine
-248773	feminine
+248766	masculine
 masculine
-feminine
-248777	masculine
-248780	masculine
-248786	masculine
-248793	masculine
-248796	feminine
-248800	masculine
-248810	neuter
-248816	masculine
-neuter
-248826	feminine
-248828	masculine
-248836	masculine
-248856	feminine
-248870	masculine
+248771	masculine
+248788	masculine
+248790	masculine
+248807	masculine
+248819	masculine
+248831	masculine
+masculine
+248834	masculine
+248840	masculine
+248858	masculine
+248869	masculine
 248872	masculine
-248875	masculine
-248879	masculine
-masculine
+248876	feminine
+248881	masculine
 248890	masculine
-248895	masculine
-248918	masculine
-248929	masculine
-248931	masculine
-248935	neuter
-248937	masculine
-248940	masculine
-248944	masculine
-248952	masculine
-248955	feminine
-248960	masculine
-248965	masculine
-248969	feminine
-248972	feminine
+248896	neuter
 masculine
-248984	masculine
-249000	feminine
-249004	neuter
-feminine
-249010	masculine
-249012	feminine
+248900	masculine
+248905	masculine
+248909	masculine
+248911	masculine
 masculine
-249016	masculine
 masculine
-249019	neuter
-masculine
-249026	feminine
+248916	neuter
 neuter
-249040	masculine
-249042	neuter
-249044	masculine
-masculine
-249050	masculine
-249053	masculine
-249055	masculine
-masculine
-249059	feminine
-249068	masculine
-249070	feminine
-249073	masculine
-249080	feminine
+248922	masculine
+248924	masculine
+248929	masculine
+248931	neuter
+248935	masculine
+248940	masculine
+248951	masculine
+248954	neuter
+248957	masculine
+248959	masculine
+248961	masculine
+neuter
+248979	masculine
+248995	masculine
+feminine
+249004	masculine
+249006	masculine
+249017	masculine
+249023	masculine
+249025	masculine
+249037	masculine
+249049	masculine
+249058	feminine
+249061	masculine
+249069	masculine
+249078	masculine
 249089	masculine
-masculine
+neuter
+feminine
+249096	masculine
 249098	masculine
-249103	masculine
-249108	masculine
-249110	feminine
-249114	masculine
-249124	feminine
-249126	feminine
-249140	masculine
 masculine
-249145	masculine
-249149	masculine
-249154	masculine
-249156	masculine
+249101	masculine
 masculine
-249163	masculine
+249112	feminine
+249119	masculine
+249122	masculine
+249138	masculine
+249142	masculine
+249151	neuter
+masculine
+249157	masculine
 249166	masculine
 249176	masculine
+masculine
+masculine
 249181	masculine
-249185	feminine
-249195	feminine
-249197	masculine
-249199	feminine
-249206	masculine
-249211	masculine
-249217	masculine
-249220	feminine
-249223	feminine
-249232	neuter
-249240	masculine
-249245	masculine
-masculine
-249253	masculine
-249256	masculine
-249262	masculine
-249266	masculine
-249272	masculine
-249276	masculine
-masculine
-249279	masculine
-249282	neuter
-masculine
-249285	masculine
-249287	masculine
-249295	neuter
-249301	neuter
-masculine
-masculine
-masculine
-249316	masculine
+249185	masculine
+249189	masculine
+249192	masculine
+249211	feminine
+249216	masculine
+249224	feminine
+249243	feminine
+249257	masculine
+249265	feminine
+249270	masculine
+249272	feminine
+feminine
+249284	neuter
+249290	feminine
+249294	neuter
+249297	neuter
+249304	neuter
+249308	masculine
 249320	masculine
-249322	masculine
-masculine
-249325	masculine
-249327	masculine
-neuter
-249330	neuter
-249336	masculine
-feminine
-249341	masculine
-249347	masculine
-249360	masculine
-249363	neuter
-masculine
-249367	masculine
-249372	masculine
-249380	masculine
-masculine
-masculine
-249386	masculine
-masculine
-249399	masculine
-249410	masculine
-masculine
+249323	masculine
+249343	neuter
+249345	masculine
+249348	masculine
+249371	neuter
+249383	masculine
+249394	neuter
+249396	neuter
 249413	masculine
-249416	neuter
-249428	masculine
-masculine
+249415	masculine
+249418	masculine
+249421	masculine
+249423	masculine
+249429	masculine
+feminine
 249435	masculine
+249450	masculine
+249454	neuter
+249473	neuter
+249485	masculine
+249505	feminine
+249519	masculine
+249523	feminine
 masculine
-249440	masculine
-249442	masculine
-249448	masculine
-masculine
-249451	masculine
-249458	masculine
-249465	masculine
-masculine
-249475	masculine
-249480	masculine
-249484	masculine
-neuter
-249505	masculine
-249518	masculine
-249530	neuter
-249536	neuter
+249532	masculine
 249542	masculine
-249544	masculine
-feminine
-249550	masculine
+249545	neuter
+249561	neuter
+249576	masculine
+249579	masculine
+249597	feminine
 masculine
-249554	masculine
-249558	masculine
-249560	masculine
-249574	masculine
-249577	neuter
+249602	masculine
+249604	neuter
+249608	masculine
+249610	masculine
+249612	feminine
+249615	feminine
+249618	masculine
+249626	masculine
+249628	neuter
+249638	masculine
+249642	neuter
+249646	neuter
+249652	masculine
+249656	masculine
+249659	masculine
+249667	masculine
 masculine
-249581	masculine
-249583	masculine
-249586	masculine
-249600	masculine
-249609	feminine
-249616	masculine
-249651	masculine
-neuter
-249664	masculine
-249675	masculine
-249678	masculine
+249671	masculine
 249683	masculine
-249698	masculine
-249702	neuter
-249716	masculine
-249720	masculine
-249750	masculine
-249765	neuter
-249786	masculine
-249803	masculine
-249827	neuter
-249844	masculine
-249870	masculine
-249891	masculine
-249921	masculine
-249926	neuter
-249931	masculine
-249940	neuter
-249949	masculine
+249686	feminine
+249688	masculine
+249697	masculine
 masculine
-249954	masculine
-249971	masculine
-249973	masculine
-249990	masculine
-250003	masculine
+249701	masculine
+feminine
+249724	masculine
+249745	masculine
+249748	masculine
+249752	masculine
+249759	neuter
+249762	masculine
+249783	masculine
+249792	masculine
+249800	feminine
+249806	masculine
+249808	feminine
+249815	feminine
+249830	masculine
+249842	masculine
+249845	masculine
+249848	masculine
+249850	neuter
+249853	neuter
+masculine
+249860	masculine
+249864	neuter
+249872	masculine
+249877	neuter
+masculine
+249880	masculine
+249899	masculine
+feminine
+249903	masculine
+249905	neuter
+249913	masculine
+249919	masculine
+249922	masculine
+249927	masculine
+249930	masculine
+249932	masculine
+249937	masculine
+249947	masculine
+249950	feminine
+249977	neuter
+249984	masculine
+249987	feminine
+249991	feminine
+249994	feminine
+250010	neuter
+250013	masculine
+masculine
 250016	masculine
+250024	masculine
+250030	masculine
+250042	masculine
 masculine
-250019	masculine
-250025	masculine
-250043	masculine
-250054	masculine
-250057	masculine
-250062	feminine
-250067	masculine
-250077	masculine
-250083	neuter
-250085	masculine
-250088	masculine
-250093	masculine
-250097	masculine
-250099	masculine
+250045	masculine
+250050	masculine
+250061	masculine
 masculine
+250071	masculine
+250077	neuter
+250081	masculine
+250112	neuter
 masculine
-250104	neuter
-neuter
-250110	masculine
-250112	masculine
-250117	masculine
-250119	neuter
-250123	masculine
-250128	masculine
-250139	masculine
-250142	neuter
-250145	masculine
-250147	masculine
-250149	masculine
-neuter
-250167	masculine
-250183	masculine
-feminine
-250193	masculine
-250195	masculine
-250206	masculine
-250212	masculine
+250118	feminine
+250121	feminine
+250126	masculine
+masculine
+250137	masculine
+250143	masculine
+250146	masculine
+250184	masculine
 250214	masculine
-250226	masculine
-250238	masculine
-250247	feminine
-250250	masculine
-250258	masculine
-250267	masculine
-250279	masculine
-neuter
-feminine
-250286	masculine
-250288	masculine
+250244	masculine
+250253	masculine
+250256	masculine
+250286	neuter
+250296	masculine
+250306	masculine
+250316	masculine
+250324	masculine
+250337	masculine
+250347	neuter
 masculine
-250291	masculine
+250363	masculine
+250375	masculine
 masculine
-250302	feminine
-250309	masculine
-250312	masculine
-250330	masculine
-250334	masculine
-250343	neuter
+250378	masculine
 masculine
-250349	masculine
-250358	masculine
-250368	masculine
+250383	masculine
 masculine
+250387	neuter
+250393	neuter
+250401	masculine
+250404	masculine
+250407	masculine
+250434	masculine
+250439	masculine
+250445	feminine
+250456	neuter
+250470	neuter
+250472	masculine
 masculine
-250373	masculine
-250377	masculine
-250381	masculine
-250384	masculine
-250404	feminine
-250409	masculine
-250418	feminine
-250438	feminine
-250452	masculine
-250460	feminine
-250465	masculine
-250467	feminine
-feminine
-250479	neuter
+250475	masculine
+250477	neuter
+250480	feminine
+250483	feminine
 250485	feminine
-250489	neuter
-250492	neuter
-250500	neuter
-250504	masculine
-250517	masculine
-250520	masculine
-250541	neuter
-250543	masculine
-250546	masculine
-250570	neuter
-250582	masculine
-250593	neuter
-250596	neuter
+250498	masculine
+250504	neuter
+250516	neuter
+250528	neuter
+250536	masculine
+250544	neuter
+250550	masculine
+250554	masculine
+250557	masculine
+250572	masculine
+250585	masculine
+masculine
+250588	masculine
+250602	masculine
+250604	masculine
 250616	masculine
-250618	masculine
-250621	masculine
-250624	masculine
-250626	masculine
-250633	masculine
+250618	feminine
+250627	feminine
+250633	feminine
 feminine
-250641	masculine
-250657	masculine
-250661	neuter
-250680	neuter
-250692	masculine
-250712	feminine
-250726	masculine
-250730	feminine
+feminine
+250651	masculine
+250679	masculine
+250681	masculine
+250692	neuter
+250696	feminine
+250717	feminine
+250719	feminine
+250728	feminine
+feminine
+250735	feminine
+250754	feminine
+feminine
+250766	masculine
+250776	masculine
+250783	feminine
+250787	feminine
 masculine
-250739	masculine
-250749	masculine
-250752	neuter
-250768	neuter
-250783	masculine
-250786	masculine
-250806	feminine
-masculine
-250811	masculine
-250813	neuter
-250818	masculine
-250821	masculine
-250823	feminine
-250826	feminine
-250829	masculine
-250837	masculine
-250839	neuter
-250849	masculine
-250853	neuter
+250792	feminine
+250800	masculine
+250804	masculine
+250806	masculine
+250809	neuter
+250816	neuter
+250818	neuter
+250821	neuter
+250823	neuter
+250827	neuter
+250830	neuter
+250835	masculine
+250840	neuter
+250844	feminine
+250852	neuter
 250857	neuter
-250863	masculine
-250867	masculine
-250870	masculine
-250878	masculine
+250869	neuter
+250874	neuter
+250877	neuter
+250881	neuter
+250885	neuter
+250889	neuter
+250893	feminine
+250899	masculine
+250920	masculine
+250926	masculine
+250933	masculine
+250939	masculine
+250947	feminine
+250998	masculine
+251018	masculine
+251023	masculine
+251035	masculine
+251046	feminine
+251059	masculine
 masculine
-250882	masculine
-250895	masculine
-250898	feminine
-250900	masculine
-250909	masculine
-250911	masculine
-250914	masculine
-feminine
-250937	masculine
-250958	masculine
-250961	masculine
-250965	masculine
-250972	neuter
-250975	masculine
-250996	masculine
-251006	masculine
-251014	feminine
-251020	masculine
-251022	feminine
-251029	feminine
-251045	masculine
-251058	masculine
-251061	masculine
-251064	masculine
-251066	neuter
-251069	neuter
+251077	masculine
+251081	masculine
+251084	masculine
+251087	masculine
+251091	neuter
+251095	feminine
+251101	masculine
+251106	masculine
+251117	neuter
+251122	masculine
 masculine
-251076	masculine
-251080	neuter
-251088	masculine
-251093	neuter
-masculine
-251096	masculine
-251115	masculine
-feminine
-251119	masculine
-251121	neuter
-251129	masculine
-251135	masculine
-251138	masculine
-251144	masculine
+251137	neuter
+251143	masculine
 251147	masculine
-251149	masculine
-251155	masculine
-251165	masculine
-251168	feminine
-251197	neuter
-251204	masculine
-251207	feminine
-251211	feminine
-251214	feminine
-251230	neuter
-251233	masculine
+251173	neuter
+251188	neuter
+251196	feminine
+251216	masculine
+251245	neuter
+251254	masculine
+251260	masculine
+251270	feminine
+251273	feminine
+neuter
+251277	feminine
+neuter
+251282	neuter
+251296	neuter
+251308	masculine
+251311	neuter
+251322	masculine
+251324	neuter
+251328	masculine
 masculine
-251236	masculine
-251244	masculine
-251250	masculine
-251263	masculine
+251331	masculine
+251342	masculine
 masculine
-251266	masculine
-251271	masculine
-251282	masculine
+251346	masculine
+251349	masculine
+251353	masculine
+251355	masculine
+251358	masculine
+251361	masculine
+251364	neuter
+251371	masculine
+251373	masculine
+251382	masculine
+251390	masculine
+251394	masculine
 masculine
-251292	masculine
-251298	neuter
-251302	masculine
-251337	neuter
 masculine
-251343	feminine
-251346	feminine
-251351	masculine
 masculine
-251362	masculine
-251369	masculine
-251372	masculine
-251410	masculine
-251440	masculine
-251470	masculine
-251479	masculine
-251482	masculine
-251512	neuter
-251522	masculine
-251532	masculine
-251542	masculine
-251550	masculine
-251563	masculine
-251573	neuter
+251400	masculine
+251403	masculine
 masculine
-251589	masculine
-251602	masculine
+251409	masculine
+251413	masculine
+251443	masculine
+251454	neuter
+251456	neuter
+251477	feminine
+251482	feminine
+251488	feminine
+251491	feminine
+251498	neuter
+251511	masculine
+251513	masculine
+251526	masculine
+251536	masculine
+251538	masculine
+251543	neuter
+251555	masculine
 masculine
-251606	masculine
-masculine
-251611	masculine
-masculine
-251615	neuter
-251621	neuter
-251629	masculine
-251632	masculine
-251635	masculine
-251662	masculine
-251667	masculine
-251674	feminine
-251685	neuter
-251700	neuter
-251702	masculine
-masculine
-251705	masculine
-251707	neuter
-251710	feminine
-251713	feminine
-251715	feminine
-251729	masculine
+251561	masculine
+neuter
+251567	neuter
+neuter
+251574	neuter
+251586	masculine
+251595	masculine
+251597	neuter
+251603	feminine
+feminine
+251610	masculine
+251612	masculine
+251626	masculine
+251628	feminine
+251641	neuter
+251644	feminine
+251654	masculine
+251658	masculine
+251664	masculine
+251666	masculine
+251670	masculine
+251695	masculine
+251698	masculine
+251705	neuter
+251711	masculine
+251715	masculine
+251717	masculine
+251721	masculine
+neuter
 251735	neuter
-251747	neuter
-251759	neuter
-251767	masculine
-251775	neuter
-251781	masculine
-251785	masculine
-251788	masculine
+251738	neuter
+251744	masculine
+251758	neuter
+251770	neuter
+251773	masculine
+251795	feminine
+feminine
 251803	masculine
-251816	masculine
+251811	masculine
 masculine
-251819	masculine
-251833	masculine
+251830	masculine
 251835	masculine
-251849	masculine
-251851	feminine
-251861	feminine
-251867	feminine
+251841	masculine
+251847	neuter
+251855	neuter
+251861	neuter
 feminine
-feminine
-251885	masculine
-251914	masculine
-251916	masculine
-251927	neuter
-251931	feminine
-251953	feminine
-251955	feminine
-251964	feminine
-feminine
-251971	feminine
-251990	feminine
-feminine
-252002	masculine
-252012	masculine
-252021	feminine
-252025	feminine
+251869	masculine
+251871	masculine
+251897	masculine
+251901	masculine
+251918	masculine
+251926	masculine
+251933	masculine
+251942	masculine
+251945	masculine
 masculine
-252030	feminine
-252038	masculine
-252042	masculine
-252044	masculine
-252047	neuter
-252054	neuter
-252056	neuter
-252059	neuter
-252061	neuter
-252066	neuter
-252069	neuter
-252074	masculine
-252079	neuter
-252083	feminine
-252092	neuter
-252097	neuter
-252109	neuter
-252114	neuter
-252117	neuter
-252121	neuter
-252125	neuter
-252129	neuter
-252133	feminine
-252139	masculine
-252160	masculine
+251956	masculine
+251970	masculine
+251974	neuter
+251976	masculine
+251979	masculine
+251983	neuter
+251985	masculine
+251989	neuter
+252002	neuter
+252007	neuter
+252024	masculine
+252028	feminine
+252032	neuter
+252040	masculine
+252053	masculine
+masculine
+252057	masculine
+masculine
+252061	masculine
+252070	masculine
+252076	masculine
+252083	masculine
+252093	masculine
+252096	masculine
+neuter
+252100	masculine
+252103	masculine
+252106	masculine
+masculine
+252138	masculine
+252141	masculine
+masculine
+252153	masculine
+252161	masculine
+masculine
 252166	masculine
-252173	masculine
-252179	masculine
-252187	feminine
+252178	masculine
+252180	masculine
+252191	masculine
+252202	masculine
+252208	neuter
+252216	masculine
+252226	masculine
+252232	neuter
+252234	masculine
+252237	masculine
 252239	masculine
-252259	masculine
-252264	masculine
-252276	masculine
-252289	feminine
-252302	masculine
-masculine
-252320	masculine
-252324	masculine
-252327	masculine
-252330	masculine
-252334	neuter
-252338	feminine
-252344	masculine
-252349	masculine
-252360	neuter
-252365	masculine
-masculine
-252380	neuter
-252386	masculine
-252390	masculine
-252417	neuter
-252432	neuter
-252440	feminine
-252461	masculine
-252490	neuter
-252499	masculine
-252505	masculine
-252515	feminine
-252518	feminine
+252242	neuter
+252250	neuter
+252256	feminine
+252263	feminine
 neuter
-252522	feminine
+252266	neuter
+252268	masculine
 neuter
-252527	neuter
-252541	neuter
-252553	masculine
-252556	neuter
-252569	masculine
-252571	neuter
-252575	masculine
+252281	masculine
+252299	masculine
+252338	masculine
+252357	neuter
+252377	feminine
+252381	feminine
+252386	feminine
+252392	feminine
+252404	feminine
 masculine
-252578	masculine
-252589	masculine
-masculine
-252593	masculine
-252596	masculine
-252600	masculine
-252602	masculine
-252605	masculine
-252608	masculine
-252611	neuter
-252618	masculine
-252620	masculine
-252629	masculine
-252637	masculine
-252641	masculine
-masculine
-masculine
-masculine
-252649	masculine
-252652	masculine
-masculine
-252658	masculine
-252663	masculine
-252695	masculine
-252706	neuter
-252708	neuter
-252730	feminine
-252735	feminine
-252741	feminine
-252744	feminine
-252751	neuter
-252765	masculine
-252768	masculine
-252781	masculine
-252791	masculine
-252793	masculine
-252798	neuter
-252810	masculine
-masculine
-252816	masculine
-neuter
-252822	neuter
-252824	neuter
-252830	neuter
-252842	masculine
-252851	masculine
-252853	neuter
-252859	feminine
+252432	masculine
+252444	neuter
+252466	masculine
 feminine
-252868	masculine
-252870	masculine
-252884	masculine
-252886	feminine
-252899	neuter
-252902	feminine
-252912	masculine
-252916	masculine
-252922	masculine
-252924	masculine
-252928	masculine
-252954	masculine
-252957	masculine
-252964	neuter
-252970	masculine
-252974	masculine
-252976	masculine
-252980	masculine
-neuter
-252995	neuter
-252998	neuter
-253004	masculine
-253018	neuter
-253032	neuter
-253035	masculine
-253057	feminine
+252477	masculine
+252484	masculine
+252490	masculine
+252516	masculine
+252523	masculine
 feminine
-253066	masculine
-253074	masculine
+252529	masculine
+252542	masculine
+252544	feminine
+252547	feminine
 masculine
+252559	masculine
+252564	masculine
+252567	neuter
+252610	neuter
+252614	feminine
+252617	masculine
+252622	masculine
+252626	masculine
+252628	masculine
+252631	masculine
+252640	masculine
+252648	masculine
+252659	feminine
+252678	neuter
+252691	feminine
+252694	masculine
+252699	neuter
+252706	masculine
+252734	masculine
+252740	feminine
+252743	feminine
+252749	feminine
+252753	masculine
+252757	masculine
+252760	masculine
+252762	masculine
+252764	masculine
+252767	feminine
+masculine
+252770	masculine
+252774	masculine
+252776	masculine
+masculine
+252780	masculine
+252782	masculine
+252784	masculine
+252786	masculine
+252788	masculine
+252790	masculine
+252794	masculine
+252796	masculine
+252798	masculine
+252806	masculine
+252809	masculine
+252812	masculine
+252815	masculine
+252818	masculine
+252821	masculine
+252823	masculine
+neuter
+252826	masculine
+masculine
+neuter
+252832	neuter
+252837	masculine
+252839	masculine
+masculine
+masculine
+252844	masculine
+252849	feminine
+252853	masculine
+252860	masculine
+252864	masculine
+neuter
+252867	masculine
+252884	feminine
+252889	feminine
+252894	feminine
+252898	masculine
+252905	masculine
+masculine
+neuter
+252913	masculine
+252927	masculine
+252947	masculine
+252950	masculine
+252952	feminine
+252971	masculine
+252973	masculine
+252987	masculine
+neuter
+252992	masculine
+252995	masculine
+252997	masculine
+253022	masculine
+253025	neuter
+253033	masculine
+253035	feminine
+253088	masculine
 253094	masculine
-253099	masculine
+253098	neuter
+253100	masculine
+neuter
+253103	masculine
 253105	masculine
-253112	neuter
-253120	neuter
-253126	neuter
-feminine
-253134	masculine
-253136	masculine
-253164	masculine
-253168	masculine
-253185	masculine
-253193	masculine
+253110	masculine
+masculine
+253116	masculine
+253119	masculine
+253121	masculine
+253133	masculine
+masculine
+253138	feminine
+253140	masculine
+253144	masculine
+253149	masculine
+253151	masculine
+253154	masculine
+masculine
+253162	masculine
+masculine
+253171	masculine
+253174	masculine
+masculine
 253200	masculine
-253209	masculine
-253212	masculine
-masculine
-253223	masculine
-253238	masculine
-253242	neuter
-253244	masculine
-253248	masculine
-253252	neuter
-253254	masculine
-253258	neuter
-253273	neuter
-253279	neuter
-253297	masculine
-253301	feminine
-253305	neuter
-253313	masculine
-253327	masculine
-masculine
-253331	masculine
-masculine
-253335	masculine
-253344	masculine
-253350	masculine
-253357	masculine
-253367	masculine
+253207	masculine
+253211	neuter
+253217	neuter
+253221	masculine
+253232	masculine
+253245	masculine
+253250	masculine
+253253	neuter
+253266	neuter
+neuter
+253270	masculine
+neuter
+neuter
+253274	masculine
+neuter
+253288	masculine
+253291	masculine
+253315	masculine
+253317	masculine
+253320	masculine
+253340	neuter
+253342	neuter
+253344	neuter
+253348	masculine
+neuter
+253352	neuter
+253355	masculine
+253362	feminine
+253368	masculine
 253370	masculine
-neuter
-253374	masculine
-253377	masculine
-253380	masculine
 masculine
-253412	masculine
-253415	masculine
+253373	neuter
+253376	masculine
+253385	neuter
+253388	feminine
+253401	masculine
+253413	masculine
+253420	masculine
+253424	neuter
+253471	masculine
+253482	masculine
+253512	neuter
+253524	masculine
+253529	masculine
+253538	masculine
+253540	neuter
+253542	neuter
+253571	masculine
+253573	feminine
 masculine
-253428	masculine
-253437	masculine
+253577	masculine
+253586	masculine
+253591	feminine
+253602	masculine
+253611	feminine
+feminine
+253630	neuter
+253633	masculine
+253661	masculine
+253666	masculine
+253677	masculine
+253682	masculine
+253695	masculine
 masculine
-253442	masculine
-253454	masculine
-253456	masculine
-253467	masculine
-253479	masculine
-253485	neuter
-253493	masculine
-253503	masculine
-253509	neuter
-253511	masculine
-253514	masculine
-253517	masculine
-253520	neuter
-253528	neuter
-253534	feminine
-253541	feminine
-neuter
-253544	neuter
-253546	masculine
-neuter
-253560	masculine
-253578	masculine
-253618	masculine
-253637	neuter
-253657	feminine
-253661	feminine
-253666	feminine
-253672	feminine
-253685	feminine
-masculine
-253715	masculine
-253728	neuter
+253700	feminine
+253702	masculine
+253713	masculine
+253723	neuter
+253730	masculine
+253748	masculine
 253750	masculine
-feminine
-253761	masculine
+253762	masculine
+253764	neuter
+253766	masculine
 253768	masculine
-253774	masculine
-253800	masculine
-253807	masculine
-feminine
-253813	masculine
-253827	masculine
-253829	feminine
-253832	feminine
 masculine
-253844	masculine
-253849	masculine
-253852	neuter
-253896	neuter
-253900	feminine
-253903	masculine
-253908	masculine
-253912	masculine
-253914	masculine
-253917	masculine
-253926	masculine
-253934	masculine
-253945	feminine
-253964	neuter
-253977	feminine
-253980	masculine
-253985	neuter
-253992	masculine
-254021	masculine
-254027	feminine
-254032	feminine
-254039	feminine
-254043	masculine
-254047	masculine
-254050	masculine
-254052	masculine
-254054	masculine
-254057	feminine
-254059	masculine
-254061	masculine
-254066	masculine
-254068	masculine
-masculine
-254072	masculine
-254074	masculine
-254076	masculine
-254078	masculine
-254080	masculine
-254082	masculine
-254086	masculine
-254088	masculine
-254090	masculine
-254099	masculine
-254102	masculine
-254105	masculine
-254108	masculine
-254111	masculine
-254114	masculine
-254116	masculine
+253778	masculine
+253787	masculine
+253810	masculine
+253819	feminine
+253824	masculine
+253843	feminine
+253851	feminine
+253858	feminine
+253860	neuter
+253863	neuter
+253881	masculine
+253888	masculine
+253907	masculine
+253914	feminine
 neuter
-254119	masculine
-masculine
+253927	masculine
+253929	masculine
+253932	masculine
+253972	masculine
+253978	feminine
+253983	feminine
 neuter
-254125	neuter
-254130	masculine
-254132	masculine
+254022	masculine
+254034	masculine
+254042	feminine
+254045	masculine
+254081	masculine
+254085	masculine
+254121	masculine
+254145	masculine
+254161	neuter
 masculine
-masculine
-254137	masculine
-254144	feminine
-254148	masculine
-254155	masculine
-254159	masculine
-neuter
-254162	masculine
-254179	feminine
-254184	feminine
-254189	feminine
-254193	masculine
-254200	masculine
-masculine
-neuter
+254177	neuter
+254182	masculine
+254206	feminine
 254208	masculine
-254222	masculine
-254243	masculine
-254246	masculine
-254248	feminine
-254268	masculine
-254271	masculine
-254286	masculine
-neuter
-254291	masculine
-254294	masculine
-254296	masculine
-254322	masculine
-254325	neuter
-254334	masculine
-254336	feminine
-254389	masculine
-254395	masculine
-254399	neuter
-254401	masculine
-neuter
+254215	masculine
+254245	feminine
+254270	masculine
+254277	masculine
+254282	masculine
+254290	masculine
+254306	masculine
+254317	masculine
+254323	neuter
+254342	feminine
+254347	neuter
+254354	masculine
+254357	masculine
+254360	masculine
+254363	masculine
+254366	masculine
+254384	masculine
+254396	neuter
 254405	masculine
-254407	masculine
-254412	masculine
-masculine
-254418	masculine
-254421	masculine
-254423	masculine
-254436	masculine
-masculine
-254441	feminine
-254443	masculine
+254424	masculine
+feminine
+254429	masculine
+254445	masculine
 254447	masculine
-254452	masculine
-254454	masculine
-254458	masculine
-masculine
-254466	masculine
-masculine
-254475	masculine
-254478	masculine
-masculine
-254506	masculine
-254513	masculine
-254517	neuter
+254476	masculine
+254480	masculine
+neuter
+254484	masculine
+feminine
+254491	masculine
+254493	masculine
+254495	neuter
+neuter
+254498	feminine
+254516	neuter
 254523	neuter
-254527	masculine
+254529	masculine
+254531	masculine
+masculine
+254535	masculine
+masculine
 254538	masculine
-254551	masculine
-254556	masculine
-254559	neuter
-254573	neuter
-neuter
-254577	masculine
-neuter
-neuter
-254581	masculine
-neuter
-254595	masculine
-254598	masculine
-254622	masculine
-254624	masculine
-254627	masculine
-254647	neuter
-254649	neuter
-254651	neuter
-254655	masculine
-neuter
-254659	neuter
-254662	masculine
-254670	feminine
-254676	masculine
-254678	masculine
 masculine
-254681	neuter
-254686	masculine
-254695	neuter
-254698	feminine
-254711	masculine
-254723	masculine
-254730	masculine
-254734	neuter
-254783	masculine
-254794	masculine
-254824	neuter
-254837	masculine
+254565	neuter
+254569	neuter
+254571	neuter
+254585	masculine
+254596	masculine
+254600	masculine
+254602	masculine
+254609	masculine
+254617	neuter
+254626	masculine
+254663	feminine
+254680	masculine
+254687	feminine
+feminine
+254695	feminine
+254713	neuter
+masculine
+254718	neuter
+254726	neuter
+254729	masculine
+masculine
+254739	neuter
+254762	masculine
+254786	neuter
+254788	neuter
+254799	neuter
+neuter
+masculine
+254810	feminine
+254812	masculine
+254825	neuter
+masculine
+254830	masculine
+254834	masculine
+254836	masculine
 254842	masculine
-254851	masculine
-254853	neuter
-254855	neuter
-254884	masculine
-254886	feminine
+254856	neuter
+254860	neuter
+254871	masculine
+254878	masculine
+254887	masculine
+254891	masculine
 masculine
-254890	masculine
-254899	masculine
-254904	feminine
-254915	masculine
-254924	feminine
-feminine
-254943	neuter
-254946	masculine
-254974	masculine
-254979	masculine
-254990	masculine
-254995	masculine
-255009	masculine
+254895	masculine
 masculine
-255014	feminine
-255016	masculine
-255027	masculine
-255037	neuter
+254898	neuter
+254901	masculine
+neuter
+254905	masculine
+254914	masculine
+254923	masculine
+254925	neuter
+254927	masculine
+254931	masculine
+254933	masculine
+254936	masculine
+neuter
+254939	masculine
+254959	feminine
+254964	masculine
+254966	masculine
+254969	masculine
+254976	masculine
+254980	masculine
+masculine
+254986	masculine
+254994	neuter
+255006	neuter
+255009	neuter
+255015	neuter
+255017	masculine
+255025	masculine
 255044	masculine
-255062	masculine
-255064	masculine
-255076	masculine
-255078	neuter
-255080	masculine
-255082	masculine
+255050	masculine
+255056	masculine
+255058	masculine
+255061	masculine
 masculine
-255092	masculine
-255101	masculine
-255124	masculine
-255133	feminine
-255138	masculine
-255158	feminine
-255166	feminine
-255173	feminine
-255176	neuter
-255179	neuter
-255199	masculine
-255206	masculine
-255226	masculine
-255234	feminine
-neuter
-255249	masculine
-255251	masculine
-255254	masculine
-255294	masculine
-255300	feminine
-255306	feminine
-neuter
-255345	masculine
+255065	masculine
+255067	masculine
+255073	masculine
+255077	masculine
+255083	feminine
+255089	masculine
+255096	masculine
+255103	masculine
+255105	masculine
+255108	neuter
+255120	neuter
+255122	neuter
+255127	masculine
+masculine
+255130	masculine
+255134	masculine
+255142	neuter
+255147	masculine
+masculine
+255163	masculine
+255166	neuter
+255168	masculine
+255175	masculine
+255177	masculine
+255182	neuter
+255187	masculine
+255203	masculine
+255206	neuter
+255208	masculine
+255219	neuter
+255223	masculine
+255229	masculine
+255235	neuter
+255242	neuter
+255246	masculine
+255265	masculine
+255270	neuter
+255277	masculine
+255281	masculine
+255284	masculine
+255287	masculine
+255289	masculine
+255292	masculine
+255304	masculine
+255307	masculine
+255309	masculine
+255311	masculine
+255322	masculine
+255325	neuter
+255331	masculine
 255357	masculine
-255366	feminine
-255369	masculine
-255405	masculine
-255409	masculine
-255445	masculine
-255469	masculine
-255485	neuter
+255364	masculine
+255380	masculine
+255385	masculine
+255398	masculine
+255409	neuter
+255425	feminine
+255431	masculine
+255447	masculine
+255451	masculine
+255453	masculine
+255459	masculine
+255461	neuter
 masculine
-255501	neuter
-255506	masculine
-255530	feminine
-255532	masculine
+255468	masculine
+255493	neuter
+255511	masculine
 255539	masculine
-255569	feminine
-255594	masculine
-255602	masculine
-255607	masculine
-255615	masculine
-255632	masculine
+255564	masculine
+masculine
+255576	neuter
+255594	neuter
+masculine
+255618	masculine
+255624	masculine
+255626	neuter
+255631	masculine
+255634	masculine
 255643	masculine
-255649	neuter
-255668	feminine
-255673	neuter
-255680	masculine
-255683	masculine
-255686	masculine
-255689	masculine
-255692	masculine
-255712	masculine
-255724	neuter
-255733	masculine
-255752	masculine
-feminine
-255757	masculine
-255773	masculine
-255775	masculine
+255651	masculine
+255655	neuter
+255661	neuter
+255665	neuter
+255681	neuter
+masculine
+255687	masculine
+255704	neuter
+masculine
+255726	neuter
+255731	neuter
+255733	neuter
+255782	masculine
+255795	masculine
 255806	masculine
-255810	masculine
-neuter
-255814	masculine
-feminine
-255822	masculine
-255824	masculine
-255826	neuter
-neuter
-255829	feminine
-255847	neuter
+255813	neuter
+255815	masculine
+255820	masculine
+255837	neuter
+255843	masculine
+255846	feminine
 255854	neuter
-255860	masculine
-255863	masculine
+255856	neuter
 masculine
-255867	masculine
-masculine
-255870	masculine
-masculine
-255898	neuter
-255902	neuter
-255904	neuter
-255919	masculine
-255930	masculine
-255934	masculine
-255936	masculine
-255943	masculine
-255951	neuter
-255960	masculine
-255997	feminine
-256014	masculine
-256023	feminine
 feminine
-256031	feminine
-256050	neuter
+255864	masculine
+255869	feminine
+255900	masculine
+255921	neuter
+255935	masculine
+255939	masculine
+255942	masculine
+255951	neuter
 masculine
-256055	neuter
-256063	neuter
-256066	masculine
+255963	neuter
+255970	masculine
+255977	feminine
+255986	feminine
+255991	masculine
+feminine
+256007	feminine
+256013	feminine
+256015	feminine
+256019	masculine
+256045	neuter
+256049	neuter
+256069	neuter
+256072	feminine
+256076	neuter
+256078	masculine
+256082	masculine
+256086	masculine
+256098	masculine
 masculine
-256077	neuter
-256100	masculine
-256126	neuter
-256128	neuter
-256139	neuter
-neuter
-masculine
-256150	feminine
-256152	masculine
-256165	neuter
-masculine
-256170	masculine
+256105	masculine
+256110	neuter
+256114	neuter
+256119	masculine
+256122	feminine
+256126	masculine
+256135	masculine
+256143	masculine
+256148	masculine
+256151	feminine
+256156	masculine
+256159	masculine
+256169	feminine
 256174	masculine
 256176	masculine
-256182	masculine
-256198	neuter
-256202	neuter
-256214	masculine
-256222	masculine
-256232	masculine
-256236	masculine
+256180	neuter
+neuter
+256186	feminine
+neuter
+masculine
+256192	feminine
+256195	feminine
+256200	feminine
+256213	feminine
+256222	neuter
+256225	masculine
+256231	masculine
+feminine
+256235	masculine
 256238	masculine
 256241	masculine
-masculine
-256244	neuter
-256247	masculine
-neuter
+256243	masculine
+256246	masculine
+256248	masculine
 256251	masculine
-256262	masculine
-256271	masculine
-256273	neuter
-256275	masculine
-256279	masculine
-256281	masculine
-256284	masculine
-neuter
-256287	masculine
-256308	feminine
-256313	masculine
-256315	masculine
-256319	masculine
-256326	masculine
-256331	masculine
-masculine
-256339	masculine
-256347	neuter
-256360	neuter
-256363	neuter
+256253	masculine
+256257	masculine
+256267	masculine
+256277	masculine
+256298	feminine
+256305	feminine
+256312	neuter
+256321	masculine
+256333	masculine
+256341	masculine
+256346	neuter
+256352	masculine
+256358	masculine
+256360	masculine
+feminine
+256363	feminine
 256370	neuter
-256372	masculine
-256380	masculine
-256399	masculine
+256382	masculine
+256389	masculine
+neuter
+256392	feminine
+256403	feminine
 256405	masculine
-256411	masculine
-256413	masculine
-256416	masculine
+256408	neuter
+256410	feminine
+256429	masculine
+feminine
+256438	masculine
+256441	neuter
+256449	masculine
+256452	masculine
+256463	neuter
+neuter
+256468	masculine
 masculine
-256422	masculine
-256424	masculine
-256430	masculine
-256434	masculine
-256440	feminine
-256446	masculine
-256454	masculine
-256461	masculine
-256463	masculine
-256467	neuter
-256479	neuter
-256481	neuter
-256486	masculine
+256472	masculine
+256478	masculine
+256487	masculine
 masculine
-256489	masculine
-256493	masculine
-256501	neuter
-256506	masculine
+256490	masculine
 masculine
-256522	masculine
-256525	neuter
-256527	masculine
-256534	masculine
-256536	masculine
-256541	neuter
-256547	masculine
+256495	masculine
+256504	masculine
+256517	masculine
+256523	neuter
+256528	feminine
+feminine
+256531	neuter
+256552	neuter
+256557	masculine
+256560	masculine
+feminine
 256563	masculine
-256567	neuter
-256569	masculine
-256580	neuter
-256584	masculine
+256566	masculine
+masculine
+256575	masculine
+256581	masculine
+256586	masculine
 256590	masculine
-256597	neuter
+256594	feminine
+256599	neuter
 256605	neuter
-256609	masculine
-256628	masculine
-256633	neuter
-256640	masculine
-256644	masculine
-256647	masculine
-256650	masculine
-256652	masculine
-256655	masculine
-256667	masculine
-256671	masculine
-256673	masculine
-256675	masculine
-256687	masculine
-256690	neuter
-256696	masculine
-256725	masculine
+256614	masculine
+256616	masculine
+256627	masculine
+256630	masculine
+256645	masculine
+256647	feminine
+256650	feminine
+256655	feminine
+256669	masculine
+256674	feminine
+256677	masculine
+256681	masculine
+256683	masculine
+256690	masculine
+256692	feminine
+256701	neuter
+256706	neuter
+256717	masculine
 256732	masculine
-256748	masculine
-256753	masculine
-256767	masculine
-256778	neuter
-256796	feminine
-256802	masculine
-256818	masculine
-256822	masculine
-256824	masculine
-256830	masculine
-256832	neuter
-masculine
-256839	masculine
-256864	neuter
-256882	masculine
-256911	masculine
-256938	masculine
-masculine
-256950	neuter
-256968	neuter
-masculine
-256992	masculine
-256998	masculine
-257000	neuter
-257005	masculine
-257008	masculine
-257018	masculine
-257026	masculine
-257030	neuter
-257036	neuter
-257040	neuter
-257056	neuter
-masculine
-257062	masculine
-257079	neuter
-masculine
-257101	neuter
-257106	neuter
-257108	neuter
-257157	masculine
-257170	masculine
-257181	masculine
-257189	neuter
-257191	masculine
-257196	masculine
-257213	neuter
-257219	masculine
-257222	feminine
-257230	neuter
-257232	neuter
-masculine
+256735	masculine
+256743	neuter
+256750	masculine
+256762	neuter
+256775	masculine
+256781	masculine
+256789	masculine
+256801	neuter
+256807	neuter
+256815	masculine
+256823	neuter
 feminine
-257240	masculine
-257245	feminine
-257278	masculine
-257299	neuter
-257314	masculine
-257318	masculine
-257321	masculine
-257331	neuter
-masculine
-257344	neuter
-257351	masculine
-257358	feminine
-257367	feminine
-257372	masculine
+256837	masculine
+neuter
+256840	masculine
+256844	masculine
 feminine
-257389	feminine
-257395	feminine
-257398	feminine
-257402	masculine
-257428	neuter
-257432	neuter
-257452	neuter
-257455	feminine
-257459	neuter
+256847	masculine
+256853	masculine
+neuter
+256864	masculine
+256866	masculine
+256868	masculine
+masculine
+256880	masculine
+256888	masculine
+masculine
+256899	masculine
+256908	masculine
+256914	neuter
+256917	masculine
+256919	neuter
+256931	masculine
+masculine
+256935	masculine
+256945	masculine
+neuter
+256948	masculine
+256956	masculine
+256968	masculine
+masculine
+256977	masculine
+masculine
+masculine
+masculine
+256987	masculine
+256997	masculine
+257002	masculine
+257014	masculine
+257020	masculine
+257030	feminine
+257046	neuter
+257056	masculine
+257059	masculine
+257104	neuter
+257108	masculine
+257119	masculine
+257124	masculine
+257130	masculine
+masculine
+257134	masculine
+257140	neuter
+257156	masculine
+257160	neuter
+257165	neuter
+257174	masculine
+257183	masculine
+masculine
+257198	masculine
+257203	neuter
+257207	neuter
+neuter
+257212	neuter
+neuter
+257217	neuter
+257247	masculine
+masculine
+257250	neuter
+257254	neuter
+257256	neuter
+257260	neuter
+257262	masculine
+257270	neuter
+257272	neuter
+masculine
+257293	neuter
+257296	neuter
+masculine
+257302	masculine
+257305	neuter
+neuter
+257313	masculine
+257334	feminine
+257336	neuter
+257339	neuter
+257348	neuter
+257350	neuter
+257354	masculine
+257365	neuter
+neuter
+257369	masculine
+257381	masculine
+257387	neuter
+257418	masculine
+257436	feminine
+257441	feminine
+257446	neuter
+feminine
+257451	masculine
 257461	masculine
-257467	masculine
-257471	masculine
-257483	masculine
+257469	masculine
+257472	feminine
+257478	masculine
+257482	feminine
+257488	feminine
+257496	feminine
+257499	masculine
+257520	neuter
+257531	masculine
+257535	feminine
 masculine
-257490	masculine
-257495	neuter
-257499	neuter
-257504	masculine
-257508	feminine
-257512	masculine
-257522	masculine
-257530	masculine
-257535	masculine
 257538	feminine
-257543	masculine
-257546	masculine
-257556	feminine
-257561	masculine
-257563	masculine
-257567	neuter
-neuter
-257573	feminine
-neuter
-masculine
-257579	feminine
-257582	feminine
-257587	feminine
-257600	feminine
-257609	neuter
-257612	masculine
-257618	masculine
+257542	feminine
 feminine
+257549	feminine
+257552	masculine
+257554	masculine
+257564	neuter
+257566	masculine
+257579	masculine
+257583	neuter
+257597	masculine
+257600	masculine
+257610	masculine
+257619	masculine
 257622	masculine
-257625	masculine
-257628	masculine
-257630	masculine
-257633	masculine
-257635	masculine
-257638	masculine
+257626	feminine
 257640	masculine
-257644	masculine
-257654	masculine
-257666	masculine
-257687	feminine
-257695	feminine
-257702	neuter
-257711	masculine
-257724	masculine
-257732	masculine
-257737	neuter
-257744	masculine
-257750	masculine
-257752	masculine
-feminine
-257755	feminine
-257762	neuter
-257774	masculine
-257781	masculine
 neuter
-257784	feminine
-257795	feminine
-257797	masculine
-257800	neuter
-257803	feminine
-257822	masculine
-feminine
-257832	masculine
+257654	neuter
+257662	feminine
+257665	masculine
+257667	masculine
+257671	neuter
+257678	neuter
+257687	masculine
+257696	neuter
+257716	masculine
+257719	masculine
+257729	masculine
+257739	masculine
+masculine
+257754	neuter
+masculine
+257759	masculine
+257763	masculine
+257768	masculine
+257771	masculine
+257775	masculine
+257787	masculine
+257790	masculine
+257793	masculine
+257809	masculine
+257817	neuter
+257825	masculine
+257833	masculine
 257835	neuter
-257844	masculine
-257847	masculine
-257858	neuter
-neuter
-257863	masculine
 masculine
-257867	masculine
-257873	masculine
-257882	masculine
+257838	masculine
+257841	masculine
 masculine
-257885	masculine
+257866	masculine
+257869	masculine
+257876	neuter
 masculine
+257884	masculine
 257890	masculine
-257900	masculine
-257914	masculine
-257920	neuter
-257925	feminine
 feminine
-257928	neuter
-257950	neuter
-257956	masculine
-257959	masculine
-feminine
-257962	masculine
-257965	masculine
+257895	masculine
+257901	masculine
+257904	masculine
+257906	feminine
 masculine
-257974	masculine
-257981	masculine
-257986	masculine
-257990	masculine
-257994	feminine
-257999	neuter
-258005	neuter
-258014	masculine
-258016	masculine
-258027	masculine
-258030	masculine
-258045	masculine
-258047	feminine
-258050	feminine
-258055	feminine
-258069	masculine
-258074	feminine
-258077	masculine
-258081	masculine
-258083	masculine
-258090	masculine
-258092	feminine
-258101	neuter
-258106	neuter
-258117	masculine
-258132	masculine
-258135	masculine
-258143	neuter
-258151	masculine
-258164	neuter
-258178	masculine
-258184	masculine
-258192	masculine
-258205	neuter
-258211	neuter
-258219	masculine
-258228	neuter
-feminine
-258243	masculine
+257910	masculine
+257912	masculine
+257923	neuter
+257932	neuter
+257942	neuter
 neuter
-258246	masculine
-258250	masculine
+257963	masculine
+257979	feminine
+257996	masculine
+258009	masculine
+258013	neuter
 feminine
-258253	masculine
-258259	masculine
+258038	neuter
+258040	neuter
 neuter
-258270	masculine
-258272	masculine
-258274	masculine
+258043	neuter
+258065	neuter
+258068	neuter
+258070	neuter
+258073	neuter
+258078	neuter
+258090	feminine
+258096	neuter
+258098	masculine
+258103	neuter
+258120	neuter
+258133	masculine
+258138	neuter
 masculine
-258288	masculine
-258296	masculine
-masculine
-258307	masculine
-258316	masculine
-258322	neuter
-258325	masculine
-258327	neuter
-258339	masculine
-masculine
-258343	masculine
-258354	masculine
 neuter
-258357	masculine
+masculine
+neuter
+masculine
+258145	feminine
+258150	masculine
+masculine
+masculine
+masculine
+masculine
+masculine
+masculine
+feminine
+masculine
+258161	masculine
+feminine
+258164	masculine
+258174	feminine
+258186	feminine
+258193	masculine
+258196	neuter
+258202	feminine
+258217	neuter
+258219	feminine
+258223	neuter
+258232	neuter
+258240	feminine
+258244	neuter
+258274	neuter
+258276	neuter
+258278	neuter
+258280	neuter
+258287	feminine
+258290	feminine
+258293	feminine
+258310	masculine
+258322	masculine
+258333	neuter
+258351	feminine
+258353	feminine
 258366	masculine
-258378	masculine
+feminine
+258369	masculine
+258372	masculine
+258374	masculine
+258377	neuter
+258380	neuter
+258382	masculine
 masculine
 258388	masculine
+feminine
 masculine
+258393	masculine
+feminine
+258400	feminine
+258405	masculine
+258407	masculine
+258409	masculine
+feminine
+258417	feminine
+258421	masculine
+258425	feminine
 masculine
-masculine
-258398	masculine
-258408	masculine
-258413	masculine
-258425	masculine
-258431	masculine
-258441	feminine
+neuter
+258445	feminine
+neuter
+258451	feminine
 258458	neuter
-258468	masculine
-258473	masculine
-258518	neuter
-258522	masculine
-258534	masculine
-258539	masculine
-258545	masculine
-masculine
-258550	masculine
-258556	neuter
-258572	masculine
-258576	neuter
-258582	neuter
-258592	masculine
-258602	masculine
-masculine
-258617	masculine
-258622	neuter
-258626	neuter
+258460	neuter
+258466	masculine
+258478	neuter
+258489	neuter
 neuter
-258631	neuter
-neuter
-258636	neuter
-258666	masculine
+258499	masculine
 masculine
-258669	neuter
-258673	neuter
-258675	neuter
+258502	masculine
+258504	masculine
+258517	masculine
+feminine
+258525	feminine
+258532	masculine
+258534	neuter
+258552	neuter
+masculine
+258564	neuter
+258581	feminine
+258596	masculine
+258598	neuter
+258606	masculine
+258626	masculine
+258632	masculine
+258640	masculine
+258651	masculine
+258653	feminine
+258664	masculine
 258679	neuter
-258681	masculine
-258690	neuter
-258692	neuter
+258683	masculine
+258687	masculine
+258693	neuter
+258696	masculine
+258699	masculine
 masculine
-258714	neuter
-258717	neuter
+258702	feminine
+258704	feminine
+258706	feminine
+258708	feminine
+258710	neuter
+258714	feminine
 masculine
-258724	masculine
-258727	neuter
+258726	masculine
+258732	masculine
+258752	masculine
+258758	masculine
+258762	masculine
+258765	masculine
+258769	masculine
+258774	feminine
+258777	feminine
+258791	feminine
+258801	neuter
+258808	neuter
+258811	feminine
+258822	masculine
+258825	masculine
+258831	neuter
+258839	masculine
+258850	feminine
 neuter
-258735	masculine
-258757	feminine
-258759	neuter
-258762	neuter
-258772	neuter
-258774	neuter
-258778	masculine
-258790	neuter
-neuter
-258794	masculine
-258806	masculine
-258812	neuter
-258844	masculine
-258862	feminine
-258867	feminine
-258872	neuter
-feminine
-258877	masculine
-258887	masculine
-258895	masculine
-258898	feminine
-258904	masculine
-258908	feminine
-258914	feminine
-258922	feminine
-258925	masculine
-258946	neuter
-258958	masculine
-258962	feminine
+258860	masculine
+258862	neuter
+258865	neuter
+258887	neuter
+258891	masculine
+258909	masculine
+258921	masculine
+258926	masculine
+258942	masculine
+258945	masculine
+258947	masculine
+258957	neuter
+258966	feminine
+258970	masculine
+258992	masculine
+259011	masculine
+259015	masculine
+259019	neuter
+259023	feminine
+259039	masculine
+259044	masculine
+259049	masculine
+259053	masculine
+259057	masculine
+259060	feminine
+259070	masculine
+259079	neuter
 masculine
-258965	feminine
-258969	feminine
-feminine
-258976	feminine
-258980	masculine
-258982	masculine
-258992	neuter
-258994	masculine
-259008	masculine
-259012	neuter
-259027	masculine
-259032	masculine
-259042	masculine
-259051	masculine
-259054	masculine
-259058	feminine
-259072	masculine
-neuter
-259086	neuter
-259095	feminine
-259098	masculine
-259100	masculine
-259105	neuter
-259112	neuter
-259121	masculine
-259131	neuter
-259152	masculine
-259155	masculine
-259165	masculine
-259175	masculine
+259089	masculine
+259093	masculine
+259101	masculine
+259107	masculine
+259109	masculine
+259114	feminine
 masculine
-259190	neuter
+259137	masculine
+259140	masculine
+259151	neuter
+259161	neuter
+259163	neuter
+259166	masculine
 masculine
+259172	masculine
+259179	masculine
+masculine
+259185	neuter
+259188	neuter
+259190	masculine
 259195	masculine
-259199	masculine
-259204	masculine
-259208	masculine
-259212	masculine
-259224	masculine
+259198	neuter
+259202	neuter
+259211	masculine
+feminine
+259223	neuter
 259227	masculine
-259230	masculine
-259246	masculine
-259255	neuter
+259248	masculine
+259255	masculine
 259263	masculine
-259271	masculine
+259265	neuter
 259273	neuter
-masculine
-259276	masculine
-259279	masculine
-masculine
-259304	masculine
+259278	neuter
+259291	masculine
+neuter
+259305	feminine
 259307	masculine
-259314	neuter
-masculine
-259322	masculine
-259328	masculine
 feminine
-259333	masculine
-259339	masculine
+259311	feminine
+259314	feminine
+259316	masculine
+259323	feminine
+259328	feminine
+259332	feminine
+259335	feminine
+259338	feminine
+259340	masculine
 259342	masculine
-259344	feminine
+259380	feminine
+259385	neuter
+259388	neuter
+259397	masculine
+259401	masculine
+259403	masculine
+259407	masculine
+259409	masculine
+259423	neuter
+259426	masculine
+259438	neuter
+259441	masculine
+259444	masculine
+259459	masculine
+259468	feminine
+259473	feminine
+259480	feminine
+259485	feminine
+259490	masculine
+259496	masculine
+259500	masculine
+259516	feminine
 masculine
-259348	masculine
-259350	masculine
-259362	neuter
-259371	neuter
-259381	neuter
-neuter
-259402	masculine
-259420	feminine
-259439	masculine
-259452	masculine
-259456	neuter
-feminine
-259481	neuter
-259483	neuter
-neuter
-259486	neuter
-259509	neuter
-259512	neuter
-259514	neuter
-259517	neuter
-259522	neuter
-259534	feminine
-259540	neuter
+259530	masculine
+259536	masculine
 259542	masculine
-259547	neuter
-259567	neuter
+259564	masculine
+neuter
+259572	feminine
+259577	masculine
 259580	masculine
-259586	neuter
-masculine
-neuter
-masculine
-neuter
-masculine
-259593	feminine
-259598	masculine
-masculine
-masculine
-masculine
-masculine
-masculine
-masculine
-feminine
-masculine
-259609	masculine
-feminine
-259612	masculine
-259622	feminine
-259635	feminine
+259588	neuter
+259598	feminine
+259600	feminine
+259605	neuter
 259642	masculine
-259645	neuter
-259652	feminine
-259667	neuter
-259669	feminine
-259673	neuter
-259682	neuter
-259690	feminine
-259694	neuter
-259726	neuter
-259728	neuter
-259730	neuter
-259732	neuter
-259741	feminine
-259745	feminine
-259749	feminine
-259767	masculine
-259780	masculine
-259791	neuter
-259809	feminine
-259811	feminine
-259825	masculine
-feminine
-259828	masculine
-259831	masculine
-259833	masculine
-259836	neuter
-259839	neuter
-259841	masculine
 masculine
-259847	masculine
-feminine
+259647	masculine
+259660	masculine
+259662	masculine
+259666	masculine
+259673	masculine
+259681	neuter
+259683	masculine
+259693	neuter
+259713	masculine
+259725	masculine
+259733	masculine
+259735	masculine
+259746	masculine
+259766	neuter
+259779	masculine
+259787	masculine
+259792	neuter
 masculine
-259852	masculine
-feminine
-259859	feminine
-259865	masculine
-259867	masculine
-259869	masculine
-feminine
-259877	feminine
-259882	masculine
-259886	feminine
-masculine
-neuter
-259907	feminine
-neuter
-259914	feminine
-259921	neuter
-259923	neuter
-259929	masculine
-259942	neuter
-259954	neuter
-neuter
+259820	feminine
+259826	masculine
+259840	masculine
+259858	masculine
+259873	feminine
+259875	masculine
+259906	feminine
+259911	neuter
+259917	feminine
+259919	masculine
+259933	masculine
+259938	feminine
+259951	masculine
 259965	masculine
-masculine
-259968	masculine
-259970	masculine
-259983	masculine
-feminine
-259992	feminine
-259999	masculine
-260001	neuter
-260023	neuter
-masculine
-260035	neuter
-260052	feminine
-260067	masculine
-260069	neuter
-260077	masculine
-260098	masculine
-260104	masculine
-260112	masculine
-260124	masculine
-260126	feminine
-260138	masculine
-260154	neuter
-260158	masculine
-260162	masculine
-260168	neuter
+259967	masculine
+259979	masculine
+260025	neuter
+260056	neuter
+260076	neuter
+260078	masculine
+260083	neuter
+260096	masculine
+260118	masculine
+260143	masculine
+260148	masculine
+260152	masculine
+260155	masculine
+260164	masculine
 260171	masculine
-260176	masculine
+260182	masculine
+260191	masculine
+260203	masculine
+260207	masculine
+260214	masculine
+feminine
+260218	masculine
+260222	masculine
+260247	feminine
+260253	masculine
+260263	neuter
+260286	feminine
+260297	masculine
+260299	masculine
+260301	neuter
+260306	neuter
+260309	neuter
+260324	masculine
+260333	feminine
+260335	feminine
+260339	feminine
+260349	masculine
 masculine
-260179	feminine
-260181	feminine
-260183	feminine
-260185	feminine
-260187	neuter
-260192	feminine
-masculine
-260204	masculine
-260211	masculine
-260232	masculine
-260238	masculine
-260242	masculine
-260245	masculine
-260249	masculine
-260254	feminine
-260257	feminine
-260273	feminine
-260286	neuter
-260293	neuter
-260296	feminine
-260307	masculine
-260311	masculine
-260317	neuter
-260326	masculine
-260337	feminine
-neuter
-260347	masculine
-260350	neuter
-260353	neuter
-260376	neuter
+260356	feminine
+260358	masculine
+260367	masculine
+260377	masculine
 260380	masculine
-260399	masculine
-260411	masculine
-260417	masculine
-260434	masculine
-260437	masculine
+masculine
+260387	masculine
+260395	masculine
+masculine
+260416	masculine
+260431	feminine
 260439	masculine
-260449	neuter
-260458	feminine
-260462	masculine
-260485	masculine
-260504	masculine
-260509	masculine
-260513	neuter
-260517	feminine
-260534	masculine
-260539	masculine
-260544	masculine
-260548	masculine
-260553	masculine
-260556	feminine
+260443	feminine
+260445	feminine
+260450	masculine
+260468	masculine
+260471	neuter
+260480	masculine
+260501	feminine
+masculine
+260520	feminine
+260533	feminine
+260539	feminine
+260544	neuter
+260551	feminine
+260554	neuter
+260557	neuter
+260559	masculine
 260566	masculine
-260575	neuter
-masculine
-260585	masculine
-260589	masculine
-260597	masculine
-260603	masculine
-260605	masculine
-260611	feminine
-masculine
-260634	masculine
-260637	masculine
-260648	neuter
-260659	neuter
-260661	neuter
-260664	masculine
-masculine
-260670	masculine
-260677	masculine
-masculine
-260683	neuter
-260686	neuter
-260688	masculine
-260693	masculine
-260696	neuter
-260700	neuter
-260710	masculine
-feminine
-260722	neuter
-260727	masculine
-260749	masculine
-260756	masculine
-260764	masculine
-260766	neuter
-260774	neuter
-260779	neuter
-260792	masculine
+260568	neuter
+260580	neuter
+260598	neuter
+260606	masculine
 neuter
-260806	feminine
-260808	masculine
-feminine
-260812	feminine
-260815	feminine
-260817	masculine
-260824	feminine
-260829	feminine
-260833	feminine
-260836	feminine
-260839	feminine
-260841	masculine
-260843	masculine
-260886	feminine
-260891	neuter
+260626	feminine
+260630	neuter
+260633	masculine
+260643	masculine
+260657	masculine
+260660	masculine
+260668	masculine
+masculine
+260682	masculine
+260703	masculine
+260709	masculine
+260714	masculine
+masculine
+260721	masculine
+260723	neuter
+260725	masculine
+260757	masculine
+260760	masculine
+260762	masculine
+260765	masculine
+260767	masculine
+260770	masculine
+260772	masculine
+260775	masculine
+260782	masculine
+260795	masculine
+260816	masculine
+260823	neuter
+260832	masculine
+260834	masculine
+260848	feminine
+260887	masculine
+260889	neuter
+260892	neuter
 260894	neuter
-260905	masculine
-260909	masculine
-260911	masculine
-260915	masculine
-260917	masculine
-260931	neuter
-260934	masculine
-260947	neuter
-260950	masculine
-260953	masculine
-260968	masculine
-260977	feminine
-260982	feminine
-260990	feminine
-260995	feminine
+neuter
+260898	neuter
+neuter
+260927	masculine
+260930	masculine
+260932	masculine
+260936	masculine
+260940	masculine
+260942	neuter
+260952	masculine
+260957	masculine
+260963	masculine
+260967	masculine
+260969	masculine
 261000	masculine
-261008	masculine
-261012	masculine
-261028	feminine
 masculine
-261042	masculine
-261048	masculine
-261054	masculine
-261078	masculine
-261080	neuter
-261087	feminine
-261094	masculine
+261014	masculine
+261019	neuter
+261023	neuter
+261025	neuter
+masculine
+261031	masculine
+261033	masculine
+261045	masculine
+261050	masculine
+261057	masculine
+261064	masculine
+261074	masculine
+neuter
+masculine
+261086	masculine
 261097	masculine
-261105	neuter
-261116	feminine
-261118	feminine
-261123	neuter
-261161	masculine
+261104	masculine
+261111	masculine
+261118	neuter
+261124	masculine
+261126	masculine
+261129	masculine
+261135	masculine
+261138	masculine
 masculine
-261167	masculine
-261180	masculine
-261182	masculine
-261188	masculine
-261195	masculine
-261203	neuter
-261205	masculine
-261215	neuter
-261237	masculine
-261250	masculine
+261142	masculine
+masculine
+261147	masculine
+261157	masculine
+261164	masculine
+feminine
+261167	feminine
+261174	masculine
+261204	masculine
+261211	masculine
+masculine
+261256	masculine
 261258	masculine
-261260	masculine
+261261	masculine
+261263	masculine
+261266	masculine
 261272	masculine
-261292	neuter
-261305	masculine
-261314	masculine
-261319	neuter
+261275	masculine
+261278	masculine
+261281	masculine
+261284	masculine
 masculine
-261347	feminine
-261353	masculine
-261367	masculine
-261385	masculine
-261401	feminine
-261403	masculine
-261434	feminine
-261440	neuter
-261446	feminine
-261448	masculine
-261462	masculine
-261467	feminine
-261481	masculine
-261497	masculine
-261499	masculine
-261513	masculine
-261559	neuter
-261591	neuter
-261611	neuter
-261613	masculine
-261618	neuter
-261631	masculine
-261653	masculine
-261678	masculine
-261683	masculine
-261687	masculine
-261690	masculine
-261699	masculine
-261706	masculine
-261718	masculine
-261727	masculine
-261739	masculine
-261743	masculine
-261750	masculine
+261287	masculine
+261290	neuter
+masculine
+261293	neuter
+masculine
+261299	masculine
+261315	neuter
+261321	masculine
 feminine
-261754	masculine
-261758	masculine
-261784	feminine
-261790	masculine
-261800	neuter
-261823	feminine
-261834	masculine
-261836	masculine
-261838	neuter
-261845	neuter
-261848	neuter
-261864	masculine
-261873	feminine
+261324	feminine
+261328	feminine
+feminine
+neuter
+261332	feminine
+261337	feminine
+feminine
+masculine
+261341	feminine
+261343	feminine
+261351	masculine
+261366	masculine
+261377	masculine
+261379	neuter
+261400	masculine
+261402	masculine
+261404	masculine
+261410	masculine
+feminine
+261416	masculine
+261418	masculine
+261420	masculine
+261435	feminine
+261437	feminine
+261439	feminine
+261441	feminine
+261453	masculine
+261458	feminine
+261463	masculine
+261465	feminine
+261467	masculine
+261470	masculine
+261488	feminine
+261491	masculine
+261555	masculine
+261574	masculine
+masculine
+261586	masculine
+261589	masculine
+261620	neuter
+masculine
+261628	neuter
+261638	feminine
+261646	masculine
+261655	masculine
+261664	masculine
+261669	feminine
+261700	masculine
+261703	masculine
+261721	masculine
+261732	masculine
+261776	masculine
+261787	masculine
+masculine
+261795	feminine
+261798	neuter
+261802	masculine
+261832	masculine
+261840	masculine
+feminine
+261843	feminine
+261864	feminine
 261875	feminine
-261879	feminine
-261889	masculine
+261879	masculine
+261891	masculine
+261893	masculine
 masculine
-261896	feminine
-261898	masculine
-261907	masculine
-261918	masculine
-261921	masculine
-masculine
-261928	masculine
-261936	masculine
-masculine
+261910	neuter
+261914	masculine
+261922	feminine
+261932	masculine
+neuter
+261935	masculine
+261942	feminine
+261946	neuter
+261955	masculine
 261958	masculine
-261973	feminine
-261981	masculine
-261986	feminine
-261988	feminine
-261993	masculine
-262011	masculine
-262014	neuter
-262024	masculine
-262046	feminine
+261963	masculine
 masculine
-262065	feminine
-262078	feminine
-262084	feminine
-262089	neuter
-262096	feminine
-262099	neuter
-262102	neuter
-262104	masculine
-262111	masculine
-262113	neuter
-262125	neuter
-262143	neuter
-262153	masculine
+261967	neuter
+masculine
+261996	masculine
+262008	neuter
+262018	feminine
+262021	masculine
+feminine
+262053	masculine
+262057	masculine
+262067	neuter
+262079	feminine
+262081	feminine
+feminine
+262092	neuter
+262095	masculine
+262101	masculine
+262106	masculine
+262129	masculine
+262145	masculine
 neuter
-262174	feminine
-262178	neuter
-262181	masculine
+masculine
+262149	masculine
+262162	masculine
+262165	feminine
+262168	feminine
+262177	neuter
+262184	feminine
 262193	masculine
-262208	masculine
-262211	masculine
-262219	masculine
-masculine
-262234	masculine
-262256	masculine
-262263	masculine
-262268	masculine
-masculine
-262276	masculine
-262278	neuter
-262280	masculine
-262314	masculine
-262317	masculine
+262214	masculine
+262217	masculine
+262222	feminine
+262227	feminine
+262244	masculine
+262248	masculine
+262250	masculine
+262257	masculine
+262260	feminine
+262265	masculine
+262269	masculine
+262272	masculine
+262283	neuter
+262285	neuter
+262290	masculine
+262294	neuter
+262300	masculine
+262308	masculine
 262319	masculine
-262322	masculine
-262324	masculine
-262327	masculine
+262321	masculine
+masculine
+262324	neuter
 262329	masculine
-262332	masculine
-262340	masculine
-262354	masculine
+masculine
+262341	feminine
+262372	feminine
 262375	masculine
-262382	neuter
-262391	masculine
-262393	masculine
-262408	feminine
+neuter
+262379	masculine
+262384	masculine
+masculine
+262387	masculine
+262394	masculine
+262396	masculine
+masculine
+262399	masculine
+262402	masculine
+masculine
+262405	masculine
+masculine
+masculine
+262421	masculine
+262425	neuter
+262433	masculine
+262436	masculine
 262448	masculine
-262450	neuter
-262453	neuter
-262455	neuter
-neuter
-262459	neuter
-neuter
-262488	masculine
-262491	masculine
-262493	masculine
-262497	masculine
-262501	masculine
-262503	neuter
-262513	masculine
-262518	masculine
-262524	masculine
-262529	masculine
-262531	masculine
-262562	masculine
+262451	feminine
+262453	masculine
+feminine
+262474	masculine
+262479	masculine
 masculine
+masculine
+262483	masculine
+262485	masculine
+262514	feminine
+262533	masculine
+262536	masculine
+262543	neuter
+262548	neuter
+262555	neuter
+262570	masculine
+262574	feminine
 262576	masculine
-262581	neuter
-262585	neuter
-262587	neuter
 masculine
-262593	masculine
-262595	masculine
-262608	masculine
+262590	masculine
+neuter
+262597	masculine
+262600	masculine
+262603	masculine
+262609	masculine
 262613	masculine
-262620	masculine
-262627	masculine
-262637	masculine
-neuter
 masculine
-262649	masculine
-262660	masculine
-262668	masculine
-262675	masculine
-262683	neuter
-262690	masculine
-262692	masculine
-262695	masculine
-262701	masculine
-262704	masculine
-masculine
-262708	masculine
-masculine
-262713	masculine
-262724	masculine
+262637	neuter
+262646	masculine
+feminine
+262650	neuter
+262659	masculine
+262664	neuter
+262672	neuter
+262691	masculine
+262694	masculine
+262700	masculine
+262707	neuter
+262721	masculine
 262731	masculine
-feminine
-262734	feminine
-262741	masculine
-262772	masculine
-262779	masculine
 masculine
-262825	masculine
-262827	masculine
-262830	masculine
-262832	masculine
-262835	masculine
-262841	masculine
+262736	masculine
+262740	masculine
+262743	masculine
+262746	masculine
+262749	masculine
+262761	masculine
+262767	masculine
+262770	masculine
+262778	masculine
+262801	neuter
+262805	feminine
+262809	masculine
+262811	masculine
+262813	masculine
+262815	masculine
+262817	masculine
+262819	masculine
 262844	masculine
-262847	masculine
-262850	masculine
-262853	masculine
+262849	masculine
+262870	masculine
 masculine
-262856	masculine
-262859	neuter
+262901	neuter
+262925	masculine
+262949	neuter
+262951	neuter
 masculine
-262862	neuter
-masculine
-262868	masculine
-262886	neuter
-262892	masculine
+262971	masculine
 feminine
-262895	feminine
-262899	feminine
-feminine
-neuter
-262903	feminine
-262908	feminine
-feminine
+262978	masculine
+262982	neuter
+262999	masculine
+263026	neuter
+263052	masculine
+263055	masculine
+263064	neuter
+263083	neuter
+263086	neuter
+263127	neuter
+263137	neuter
+263146	masculine
 masculine
-262912	feminine
-262914	feminine
-262923	masculine
-262938	masculine
-262951	masculine
-262953	neuter
-262975	masculine
-262977	masculine
-262979	masculine
-262985	masculine
-feminine
-262992	masculine
-262994	masculine
-262996	masculine
-263012	feminine
-263014	feminine
-263016	feminine
-263018	feminine
-263032	masculine
-263037	feminine
-263043	masculine
-263045	feminine
-263047	masculine
-263050	masculine
-263069	feminine
-263072	masculine
-263141	masculine
-263160	masculine
 masculine
-263173	masculine
-263176	masculine
-263209	neuter
+263151	masculine
+263158	masculine
+263164	masculine
+263180	masculine
+263187	masculine
+263189	masculine
+263196	masculine
+263203	masculine
+263213	masculine
+263216	masculine
+263221	feminine
+263237	masculine
+263240	masculine
+263243	masculine
+263260	masculine
 masculine
-263218	neuter
-263228	feminine
-263236	masculine
-263245	masculine
-263255	masculine
-263260	feminine
+263286	masculine
 263291	masculine
-263294	masculine
-263313	masculine
-263324	masculine
-263368	masculine
-263379	masculine
+263296	masculine
+263301	masculine
+263311	masculine
+263323	masculine
+263338	neuter
+263352	masculine
+263360	neuter
 masculine
-263387	feminine
-263390	neuter
-263394	masculine
-263424	masculine
+263364	masculine
+263370	feminine
+263379	neuter
+masculine
+263396	masculine
 263434	masculine
-feminine
-263437	feminine
-263458	feminine
-263469	feminine
-263473	masculine
-263485	masculine
-263487	masculine
 masculine
-263505	neuter
-263509	masculine
-263517	feminine
-263528	masculine
-neuter
+263456	masculine
+masculine
+263468	masculine
+263476	masculine
+263489	masculine
+263495	neuter
+263498	neuter
+263501	masculine
+263503	masculine
+263506	masculine
+263520	neuter
+263523	neuter
 263531	masculine
-263538	feminine
-263542	neuter
+263535	neuter
+263537	neuter
+263547	masculine
 263551	masculine
-263555	masculine
-263560	masculine
+263559	masculine
+263562	neuter
+263574	neuter
+263596	feminine
+263609	masculine
+263616	masculine
+263622	masculine
+263632	masculine
+263661	masculine
+263677	neuter
+263705	neuter
+263709	masculine
+263715	feminine
+263729	masculine
+263736	masculine
+263738	neuter
+263744	masculine
+263754	masculine
 masculine
-263564	neuter
-masculine
-263595	masculine
-263607	neuter
-263618	feminine
-263621	masculine
-feminine
-263658	masculine
-263662	masculine
-263672	neuter
-263684	feminine
-263686	feminine
-feminine
-263697	neuter
-263700	masculine
-263706	masculine
-263714	masculine
-263739	masculine
-263756	masculine
-neuter
-masculine
-263760	masculine
-263773	masculine
-263777	feminine
-263780	feminine
+263762	masculine
+263767	feminine
+263774	masculine
+263787	masculine
 263789	neuter
-263796	feminine
-263805	masculine
-263826	masculine
-263829	masculine
-263834	feminine
-263839	feminine
-263856	masculine
-263860	masculine
-263862	masculine
-263869	masculine
-263873	feminine
-263878	masculine
-263882	masculine
-263887	masculine
-263898	neuter
-263900	neuter
-263905	masculine
-263909	neuter
-263915	masculine
-263924	masculine
-263936	masculine
-263938	masculine
 masculine
-263941	neuter
-263946	masculine
-masculine
-263961	feminine
-263992	feminine
-263995	masculine
+263793	neuter
+263802	masculine
 neuter
-263999	masculine
-264004	masculine
+263806	neuter
+263808	masculine
+263815	masculine
+263818	masculine
 masculine
-264007	masculine
-264014	masculine
-264016	masculine
+263828	masculine
+263831	feminine
+263836	masculine
 masculine
+263848	masculine
+263852	neuter
+263856	neuter
+263864	masculine
+263867	masculine
+263874	masculine
+263885	masculine
+masculine
+263891	masculine
+263915	masculine
+masculine
+263927	feminine
+masculine
+263932	masculine
+masculine
+263938	masculine
+263967	masculine
+263972	masculine
+263974	masculine
+263980	neuter
+263982	neuter
+263985	masculine
+masculine
+263991	masculine
+263994	masculine
+263996	masculine
+264005	masculine
+neuter
 264019	masculine
 264022	masculine
 masculine
-264025	masculine
-masculine
-masculine
-264042	masculine
-264046	neuter
-264055	masculine
-264058	masculine
-264070	masculine
-264073	feminine
-264075	masculine
-feminine
-264097	masculine
-264102	masculine
-masculine
-masculine
-264106	masculine
-264108	masculine
-264141	feminine
-264161	masculine
-264165	masculine
-264173	neuter
-264179	neuter
-264186	neuter
-264201	masculine
-264206	feminine
-264208	masculine
-masculine
-264222	masculine
+264033	feminine
+264035	masculine
+264040	masculine
+264043	masculine
+264047	masculine
+264061	masculine
+264063	masculine
 neuter
-264229	masculine
-264232	masculine
-264235	masculine
-264241	masculine
-264245	masculine
+264066	feminine
+264068	neuter
+264076	masculine
+264080	masculine
+feminine
+264091	masculine
+264096	masculine
+264103	masculine
+264106	feminine
+264128	masculine
+264138	masculine
+264140	masculine
+264144	neuter
+264150	neuter
+264154	masculine
+264158	neuter
+264169	masculine
+neuter
+264173	masculine
+264180	masculine
+264182	feminine
+264185	masculine
+264187	masculine
+264205	masculine
+264211	feminine
 masculine
+264237	masculine
+264239	masculine
+neuter
+264244	feminine
+264253	masculine
 264270	neuter
 264279	masculine
-feminine
-264283	neuter
+264281	masculine
+264287	masculine
 264292	masculine
-264298	neuter
-264306	neuter
-264325	masculine
-264328	masculine
-264337	masculine
-264344	neuter
+264306	masculine
+264323	masculine
+264330	masculine
+264334	feminine
+264344	feminine
+264350	masculine
 264359	masculine
-264369	masculine
-masculine
-264375	masculine
+264363	masculine
 264379	masculine
-264382	masculine
-264385	masculine
-264388	masculine
-264401	masculine
-264408	masculine
-264412	masculine
-264421	masculine
-264446	neuter
-264451	feminine
-264456	masculine
-264458	masculine
-264460	masculine
-264462	masculine
-264464	masculine
-264466	masculine
-264492	masculine
-264497	masculine
+264386	masculine
+264392	masculine
+264398	masculine
+264400	neuter
+264402	masculine
+264404	masculine
+264418	masculine
+264434	masculine
+264436	masculine
+264448	masculine
+264458	neuter
+264467	masculine
+264474	masculine
+masculine
+264477	feminine
+264479	masculine
+masculine
+264484	masculine
+masculine
+264488	masculine
+264497	neuter
 264519	masculine
-masculine
-264550	neuter
-264578	masculine
-264605	neuter
-264607	neuter
-masculine
-264629	masculine
+264522	neuter
+264560	neuter
+264563	masculine
+264569	masculine
+264580	masculine
+264582	neuter
+264589	neuter
+264595	masculine
+264599	masculine
+264601	masculine
+264619	masculine
+264627	masculine
+264652	neuter
+264654	neuter
 feminine
-264637	masculine
-264641	neuter
-264658	masculine
-264686	neuter
-264712	masculine
+264660	feminine
+264665	feminine
+feminine
+264668	feminine
+264687	feminine
+264689	feminine
+264697	feminine
+264702	feminine
+264705	neuter
+264711	feminine
 264715	masculine
-264724	neuter
-264743	neuter
-264746	neuter
-264788	neuter
-264798	neuter
-264808	masculine
+264723	masculine
+264731	neuter
+264751	masculine
+264759	masculine
+264775	masculine
+264777	neuter
+264784	masculine
+264786	masculine
+264793	masculine
+264800	neuter
+264810	neuter
+264816	feminine
+264819	masculine
+264822	feminine
+264828	masculine
+264842	masculine
+264846	masculine
+264850	masculine
+264852	feminine
+264855	neuter
+264866	masculine
+264872	masculine
+264883	masculine
+264896	masculine
+264899	masculine
+264909	neuter
+264924	neuter
+264926	neuter
+264929	neuter
+264931	neuter
+264935	neuter
+264940	neuter
+264946	neuter
+264951	neuter
+264958	masculine
+264972	masculine
+264986	neuter
+neuter
+264992	masculine
 masculine
 masculine
-264814	masculine
-264821	masculine
-264827	masculine
-264844	masculine
-264854	masculine
-264856	masculine
-264863	masculine
-264871	masculine
-264881	masculine
-264884	masculine
-264890	feminine
-264906	masculine
-264909	masculine
-264912	masculine
-264932	masculine
 masculine
-264960	masculine
-264965	masculine
-264970	masculine
-264975	masculine
-264985	masculine
-264997	masculine
-265012	neuter
+masculine
+masculine
+265001	masculine
+265010	masculine
+masculine
 265027	masculine
-265035	neuter
+265029	neuter
+neuter
 masculine
-265039	masculine
-265046	feminine
-265055	neuter
+265033	masculine
+265038	masculine
+265043	masculine
+265050	masculine
+265057	masculine
+265059	masculine
+265064	masculine
+265067	neuter
+265070	masculine
+neuter
+265076	masculine
+265083	feminine
+265085	masculine
+265094	masculine
+265101	masculine
+265105	masculine
+265122	masculine
+265126	masculine
+265130	neuter
+265140	masculine
 masculine
-265073	masculine
-265111	masculine
-masculine
-265133	masculine
-masculine
-265145	masculine
-265154	masculine
 265168	masculine
-265175	neuter
-265178	neuter
-265181	masculine
-265183	masculine
-265186	masculine
-265202	neuter
-265205	neuter
-265215	masculine
-265219	neuter
-265221	neuter
-265231	masculine
-265235	masculine
-265243	masculine
-265246	neuter
-265258	neuter
-265280	feminine
-265293	masculine
-265301	masculine
-265307	masculine
-265317	masculine
-265346	masculine
-265362	neuter
-265390	neuter
-265394	masculine
-265401	feminine
-265415	masculine
-265422	masculine
-265425	neuter
-265431	masculine
-265441	masculine
+265171	masculine
+265176	neuter
+265182	masculine
+265196	masculine
+265198	masculine
+265218	masculine
+265229	masculine
+265245	masculine
+265255	masculine
+265275	masculine
+265291	feminine
+265295	masculine
+265312	feminine
+265319	masculine
+265328	feminine
+265352	masculine
+265356	masculine
+265368	masculine
+265373	masculine
+265384	masculine
+265391	masculine
+265405	masculine
+265423	masculine
+265425	feminine
 masculine
-265451	masculine
+265448	masculine
 265457	feminine
-265464	masculine
-265478	masculine
-265480	neuter
-265483	masculine
-265486	neuter
-265495	masculine
-neuter
-265499	neuter
-265502	masculine
-265509	masculine
-265512	masculine
+265463	masculine
+265474	neuter
+265478	neuter
+265484	masculine
+265492	feminine
+265497	masculine
 masculine
-265522	masculine
-265525	feminine
-265530	masculine
+265501	masculine
+265515	neuter
+265524	masculine
+265526	neuter
+265532	masculine
+265537	feminine
+265546	masculine
+265549	masculine
 masculine
-265542	masculine
-265546	neuter
-265551	neuter
-265561	masculine
-265564	masculine
-265571	masculine
-265582	masculine
-masculine
+265574	neuter
 265589	masculine
-265615	masculine
+265599	feminine
+265605	masculine
 masculine
-265627	feminine
-masculine
-265632	masculine
-265634	masculine
-265639	masculine
-265668	masculine
-265673	masculine
-265675	masculine
-265682	neuter
-265684	neuter
-265687	masculine
-masculine
-265693	masculine
-265696	masculine
-265698	masculine
-265707	masculine
-neuter
-265721	masculine
+265612	feminine
+265616	masculine
+265618	masculine
+265622	feminine
+265637	masculine
+265641	neuter
+265655	neuter
+265664	masculine
+265669	masculine
+265674	neuter
+265689	masculine
+feminine
+265692	feminine
+265702	masculine
+265711	feminine
+265713	masculine
 265724	masculine
-masculine
-265736	feminine
+feminine
+265732	masculine
 265738	masculine
-265743	masculine
+265740	neuter
 265746	masculine
-265750	masculine
+265756	masculine
 265765	masculine
-265767	masculine
-neuter
-265770	feminine
-265772	neuter
-265780	masculine
-265784	masculine
 feminine
-265795	masculine
-265800	masculine
-265807	masculine
-265810	feminine
-265832	masculine
-265842	masculine
-265844	masculine
-265848	neuter
-265854	neuter
-265858	masculine
-265862	neuter
-265873	masculine
-neuter
-265879	masculine
-265886	masculine
-265888	feminine
-265891	masculine
-265893	masculine
-265911	masculine
-265917	feminine
+265775	masculine
+265779	masculine
+265781	feminine
+265785	feminine
+265810	masculine
+265817	masculine
 masculine
-265944	masculine
-265946	masculine
-neuter
-265951	feminine
-265960	masculine
-265978	neuter
-265988	masculine
-265990	masculine
-265996	masculine
-266001	masculine
-266016	masculine
-266033	masculine
-266040	masculine
-266044	feminine
-266054	feminine
-266060	masculine
-266069	masculine
-266073	masculine
-266090	masculine
-266098	masculine
-266105	masculine
-266111	masculine
-266113	neuter
-266115	masculine
-266117	masculine
-266131	masculine
-266149	masculine
-266151	masculine
-266164	masculine
-266174	neuter
+265823	feminine
+265853	feminine
+265865	masculine
+265874	neuter
+265910	feminine
+265933	feminine
+265938	neuter
+265945	masculine
+265965	feminine
+265991	feminine
+266015	feminine
+266040	neuter
+266049	feminine
+266061	masculine
+266066	neuter
+266072	feminine
+266074	masculine
+266100	feminine
+266107	masculine
+masculine
+266110	masculine
+266159	masculine
+266162	feminine
+266164	neuter
+266168	neuter
+266180	masculine
 266183	masculine
-266190	masculine
+266191	masculine
+266261	masculine
+266268	masculine
+266294	neuter
+266313	masculine
+266320	feminine
+266327	masculine
 masculine
-266193	feminine
-266195	masculine
 masculine
-266200	masculine
+266344	masculine
+266351	feminine
+266363	masculine
+266380	masculine
+266387	masculine
+266390	feminine
 masculine
-266204	masculine
-266214	neuter
-266240	masculine
-266243	neuter
-266281	neuter
-266284	masculine
-266290	masculine
-266301	masculine
-266303	neuter
-266310	neuter
-266317	masculine
-266321	masculine
-266323	masculine
-266343	masculine
-266351	masculine
-266376	neuter
-266378	neuter
-feminine
-266384	feminine
-266389	feminine
-feminine
-266392	feminine
-266412	feminine
-266414	feminine
+266409	masculine
+266411	masculine
+266417	masculine
 266424	feminine
-266429	feminine
-266432	neuter
-266438	feminine
-266442	masculine
-266450	masculine
-266458	neuter
-266479	masculine
-266487	masculine
-266503	masculine
-266505	neuter
-266512	masculine
+masculine
+266435	masculine
+masculine
+266442	feminine
+masculine
+266469	masculine
+masculine
+266494	masculine
 266514	masculine
-266521	masculine
-266528	neuter
-266538	neuter
-266544	feminine
-266547	masculine
-266550	feminine
-266556	masculine
-266570	masculine
-266574	masculine
-266578	masculine
-266580	feminine
+266518	neuter
+266523	feminine
+neuter
+266527	masculine
+266531	neuter
+266533	masculine
+266536	feminine
+266543	masculine
+266564	neuter
+266567	neuter
+266580	masculine
+neuter
 266583	neuter
-266595	masculine
-266601	masculine
-266612	masculine
-266626	masculine
-266629	masculine
-266639	neuter
-266654	neuter
-266656	neuter
-266659	neuter
-266661	neuter
-266666	neuter
-266671	neuter
-266678	neuter
-266684	neuter
-266691	masculine
+266599	neuter
+266601	neuter
+266607	neuter
+266613	neuter
+neuter
+266620	masculine
+266636	masculine
+266639	masculine
+masculine
+266644	feminine
+266649	masculine
+266652	neuter
+266661	feminine
+266665	masculine
+masculine
+266676	masculine
+266687	masculine
+masculine
+266697	masculine
 266706	masculine
-266720	neuter
-neuter
-266726	masculine
-masculine
-masculine
-masculine
-masculine
-masculine
+266729	masculine
+266733	feminine
 266735	masculine
-266744	masculine
+266742	masculine
 masculine
-266762	masculine
-266764	neuter
-neuter
-masculine
+266747	feminine
 266768	masculine
-266773	masculine
-266778	masculine
-266785	masculine
-266792	masculine
-266794	masculine
-266799	masculine
-266802	neuter
-266805	masculine
-neuter
-266811	masculine
-266818	feminine
-266820	masculine
-266829	masculine
-266836	masculine
-266841	masculine
-266859	masculine
-266863	masculine
-266867	neuter
-266877	masculine
+266771	masculine
+266774	masculine
+266783	feminine
+266796	masculine
+266813	neuter
+266828	masculine
+266834	masculine
+266845	neuter
+266848	neuter
+266855	feminine
+266867	masculine
+266878	neuter
+266900	masculine
+266904	masculine
+266910	masculine
+266916	masculine
 masculine
-266906	masculine
-266909	masculine
-266914	neuter
-266920	masculine
+266919	masculine
+266923	neuter
+266927	masculine
+266929	masculine
 266935	masculine
 266937	masculine
-266957	masculine
-266968	masculine
-266984	masculine
-266994	masculine
-267014	masculine
-267031	feminine
-267035	masculine
-267053	feminine
-267060	masculine
-267070	feminine
-267095	masculine
-267099	masculine
-267111	masculine
-267116	masculine
-267127	masculine
-267135	masculine
-267149	masculine
-267167	masculine
-267169	feminine
+266946	feminine
+267012	neuter
 masculine
-267192	masculine
-267201	feminine
-267207	masculine
-267218	neuter
-267222	neuter
-267228	masculine
-267236	feminine
-267241	masculine
-masculine
-267245	masculine
-267259	neuter
-267268	masculine
-267270	neuter
-267276	masculine
-267282	feminine
-267291	masculine
-267294	masculine
-masculine
-267319	neuter
-267334	masculine
-267344	feminine
+267018	masculine
+267023	masculine
+267028	masculine
+267036	masculine
+267047	neuter
+267059	neuter
+267067	masculine
+267073	masculine
+267087	masculine
+267113	neuter
+267115	neuter
+267126	masculine
+267153	masculine
+267170	masculine
+267201	masculine
+267215	masculine
+267218	masculine
+267227	neuter
+267229	neuter
+267255	masculine
+267265	neuter
+267280	neuter
+267287	masculine
+267301	masculine
+267314	masculine
+267329	masculine
+267339	masculine
+267345	masculine
 267351	masculine
-masculine
-267359	feminine
-267363	masculine
-267365	masculine
-267369	feminine
-267385	masculine
-267389	neuter
-267404	neuter
-267414	masculine
-267419	masculine
-267425	neuter
-267441	masculine
+267354	masculine
+267360	masculine
+267367	masculine
 feminine
-267444	feminine
+267372	neuter
+267380	masculine
+267391	neuter
+267421	masculine
+267433	masculine
+267436	neuter
+267441	neuter
+267445	neuter
 267454	masculine
-267463	feminine
-267465	masculine
-267476	masculine
-feminine
-267484	masculine
-267490	masculine
-267492	neuter
-267498	masculine
-267508	masculine
-267517	masculine
-feminine
+267460	neuter
+267463	neuter
+267467	neuter
+267470	neuter
+masculine
+267497	neuter
+267507	masculine
+267509	masculine
+267512	masculine
+267521	masculine
 267527	masculine
-267532	masculine
-267534	feminine
-267538	feminine
-267563	masculine
-267570	masculine
+267530	masculine
+feminine
+267533	masculine
+267538	neuter
+267556	masculine
 masculine
-267577	feminine
-267609	feminine
+267586	masculine
+masculine
+267589	masculine
+neuter
+267597	masculine
+masculine
+masculine
+masculine
+267603	masculine
+masculine
+267608	masculine
+neuter
+267612	neuter
+267616	masculine
+267619	masculine
 267621	masculine
-267631	neuter
-267667	feminine
-267690	feminine
-267695	neuter
+267624	neuter
+masculine
+267627	masculine
+267630	masculine
+267633	masculine
+267635	neuter
+masculine
+267638	masculine
+267640	masculine
+masculine
+masculine
+267650	masculine
+267654	masculine
+267674	masculine
+267689	neuter
 267702	masculine
-267723	feminine
-267751	feminine
-267776	feminine
-267801	neuter
-267810	feminine
-267822	masculine
-267827	neuter
-267833	feminine
-267835	masculine
-267862	feminine
-267869	masculine
+267705	masculine
+267714	neuter
+267728	feminine
+267732	masculine
+267735	masculine
+267772	masculine
+267779	masculine
+267785	masculine
+267802	masculine
+neuter
+267808	masculine
+267825	neuter
+267847	masculine
+267867	feminine
+267873	masculine
+267875	masculine
 masculine
-267872	masculine
-267923	masculine
-267926	feminine
-267928	neuter
-267932	neuter
-267944	masculine
-267947	masculine
-267955	masculine
-268025	masculine
-268034	masculine
-268060	neuter
+267880	masculine
+267884	masculine
+267890	masculine
+267898	masculine
+267919	neuter
+267922	neuter
+267935	masculine
+267937	masculine
+267943	masculine
+267946	masculine
+feminine
+267957	feminine
+masculine
+267965	masculine
+267967	masculine
+267973	masculine
+masculine
+267976	neuter
+267979	neuter
+neuter
+267984	feminine
+267989	neuter
+feminine
+267994	neuter
+268006	neuter
+268009	masculine
+268015	masculine
+268041	masculine
+268066	masculine
+268068	masculine
+268072	neuter
+268077	masculine
 268080	masculine
-268087	feminine
+268093	masculine
 268095	masculine
+neuter
+268100	neuter
+268109	neuter
+268115	masculine
+268119	masculine
+268122	masculine
+268124	masculine
+268127	masculine
+268134	masculine
+268143	feminine
+268153	masculine
+268165	masculine
+268180	masculine
+268183	masculine
+268196	masculine
+feminine
+268200	feminine
+268210	feminine
+268237	neuter
+268256	feminine
+268268	masculine
+268270	neuter
+268272	neuter
+neuter
+neuter
+neuter
+neuter
+neuter
+neuter
+neuter
+neuter
+neuter
+neuter
+268284	feminine
+feminine
+268288	masculine
 masculine
-masculine
-268113	masculine
-268120	feminine
-268132	masculine
-268149	masculine
-268156	masculine
-268159	feminine
-masculine
-268179	masculine
-268181	masculine
-268188	masculine
-268195	feminine
-masculine
-268207	masculine
-masculine
-268214	feminine
-masculine
-268242	masculine
-masculine
-268267	masculine
-268287	masculine
+neuter
 268292	neuter
-268297	feminine
-neuter
-268301	masculine
-268306	neuter
-268308	masculine
-268311	feminine
-268318	masculine
-268339	neuter
-268342	neuter
+268299	neuter
+268331	masculine
+268352	neuter
 268355	masculine
-neuter
-268358	neuter
-268375	neuter
-268377	neuter
-268383	neuter
-268389	neuter
-neuter
-268396	masculine
-268413	masculine
-268416	masculine
+268360	masculine
+268366	masculine
+268401	masculine
+268406	neuter
+268410	masculine
+268505	masculine
 masculine
-268421	feminine
-268426	masculine
-268429	neuter
-268439	feminine
-268444	masculine
+268515	feminine
+268523	feminine
+268527	feminine
+268536	neuter
+268564	masculine
+268573	masculine
+268609	masculine
+268611	masculine
+268617	masculine
+268628	masculine
+268631	masculine
+268641	masculine
+268664	masculine
+268702	masculine
+268710	masculine
+268717	masculine
+268726	masculine
 masculine
-268455	masculine
-268466	masculine
-masculine
-268476	masculine
-268486	masculine
-268510	masculine
-268514	feminine
-268516	masculine
-268523	masculine
-masculine
-268528	feminine
-268550	masculine
-268553	masculine
-268556	masculine
-268565	feminine
-268578	masculine
-268595	neuter
-268610	masculine
-268616	masculine
-268628	neuter
-268631	neuter
-268639	feminine
-268651	masculine
-268662	neuter
-268686	masculine
-268691	masculine
-268697	masculine
-268703	masculine
-masculine
-268706	masculine
-268710	neuter
-268714	masculine
-268716	masculine
-268722	masculine
-268724	masculine
-268733	feminine
+268740	masculine
+268759	masculine
+268761	masculine
+268788	masculine
+268790	masculine
+268793	masculine
 268799	neuter
-masculine
-268805	masculine
-268810	masculine
-268815	masculine
-268823	masculine
-268835	neuter
-268848	neuter
-268856	masculine
+268801	neuter
+268829	neuter
+268840	feminine
+268850	neuter
 268862	masculine
-268876	masculine
-268905	neuter
-268907	neuter
-268919	masculine
-268946	masculine
-268963	masculine
-268994	masculine
-269008	masculine
-269011	masculine
-269020	neuter
-269022	neuter
-269048	masculine
-269058	neuter
-269073	neuter
+268866	neuter
+268875	masculine
+268882	masculine
+268886	masculine
+268889	masculine
+268896	masculine
+268901	masculine
+268906	feminine
+268920	masculine
+268930	masculine
+268954	masculine
+neuter
+268958	masculine
+268972	masculine
+268974	masculine
+268998	masculine
+269002	masculine
+269006	masculine
+269009	masculine
+269039	masculine
+269061	masculine
+masculine
+269075	masculine
+masculine
 269080	masculine
-269094	masculine
-269107	masculine
-269122	masculine
-269132	masculine
-269138	masculine
+masculine
+269092	masculine
+269096	masculine
+269102	neuter
+269106	neuter
+269110	masculine
+neuter
+269113	masculine
+269120	masculine
+masculine
+269125	masculine
+269137	neuter
+269140	neuter
 269144	masculine
 269147	masculine
-269153	masculine
-269160	masculine
-feminine
-269165	neuter
-269173	masculine
-269185	neuter
-269215	masculine
-269227	masculine
-269230	neuter
-269235	neuter
-269239	neuter
-269249	masculine
-269255	neuter
-269258	neuter
-269262	neuter
-269265	neuter
+269153	neuter
+269155	masculine
+269158	masculine
+269166	masculine
+269188	neuter
+269190	masculine
+269197	neuter
+269209	neuter
+269212	neuter
+269273	feminine
+269275	feminine
+269282	masculine
+269302	masculine
+269309	masculine
+269312	masculine
+269316	masculine
 masculine
-269293	neuter
-269303	masculine
-269305	masculine
-269308	masculine
-269317	masculine
-269323	masculine
-269326	masculine
-feminine
-269329	masculine
-269334	neuter
+269331	neuter
+269334	masculine
+269343	masculine
+269347	masculine
+masculine
+269350	masculine
+masculine
 269353	masculine
-masculine
+269356	feminine
+269368	neuter
 269386	masculine
-masculine
-269389	masculine
-neuter
-269397	masculine
-masculine
-masculine
-masculine
+269398	masculine
 269403	masculine
+269410	neuter
+269416	neuter
+269420	masculine
+269441	neuter
+269443	neuter
+269463	masculine
+269467	masculine
+269469	neuter
+269479	masculine
+269490	masculine
+269492	neuter
+269497	feminine
+269505	masculine
+269509	masculine
+269513	masculine
+269516	masculine
+269535	neuter
+269545	masculine
+269550	neuter
 masculine
-269408	masculine
-neuter
-269412	neuter
-269416	masculine
-269419	masculine
-269421	masculine
-269424	neuter
-masculine
-269427	masculine
-269430	masculine
-269433	masculine
-269435	neuter
-masculine
-269438	masculine
-269440	masculine
-masculine
-masculine
-269451	masculine
-269455	masculine
-269475	masculine
-269490	neuter
-269503	masculine
-269506	masculine
-269515	neuter
-269530	feminine
-269534	masculine
-269537	masculine
-269575	masculine
-269582	masculine
-269589	masculine
-269608	masculine
-neuter
+269571	masculine
+269590	masculine
+269609	feminine
 269614	masculine
-269631	neuter
-269654	masculine
-269674	feminine
-269680	masculine
-269683	masculine
+269617	masculine
 masculine
-269688	masculine
-269693	masculine
-269699	masculine
-269707	masculine
-269728	neuter
-269731	neuter
-269745	masculine
-269747	masculine
-269753	masculine
-269756	masculine
-feminine
-269769	feminine
 masculine
-269777	masculine
-269779	masculine
-269785	masculine
+269621	masculine
+269627	masculine
+269630	feminine
+269640	masculine
+269646	masculine
+269648	masculine
+269655	masculine
+269705	masculine
+269708	feminine
+269712	feminine
+269743	feminine
 masculine
-269788	neuter
-269791	neuter
-neuter
-269796	feminine
-269802	neuter
-feminine
-269807	neuter
-269820	neuter
+269749	masculine
+269773	masculine
+269775	masculine
+269799	masculine
+269810	masculine
+269820	masculine
 269823	masculine
-269829	masculine
-269855	masculine
-269880	masculine
-269882	masculine
-269887	neuter
-269892	masculine
-269895	masculine
-269908	masculine
-269910	masculine
-neuter
-269916	neuter
-269925	neuter
-269931	masculine
-269935	masculine
-269938	masculine
-269941	masculine
-269944	masculine
+269837	neuter
+269854	feminine
+269858	neuter
+masculine
+269877	masculine
+269886	masculine
+269891	masculine
+269896	feminine
+masculine
+269900	masculine
+269908	feminine
+269948	masculine
 269951	masculine
-269960	feminine
+269967	masculine
+masculine
 269970	masculine
-269983	masculine
-269998	masculine
-270001	masculine
-270014	masculine
-270016	feminine
-270019	feminine
-270030	feminine
-270058	neuter
-270077	feminine
+269972	feminine
+269978	masculine
+269985	masculine
+269990	feminine
+269995	masculine
+270010	masculine
+270015	masculine
+270023	masculine
+270034	masculine
+270041	masculine
+270049	masculine
+270061	masculine
+270075	masculine
 270089	masculine
-270091	neuter
-270093	neuter
-neuter
-neuter
-neuter
-neuter
-neuter
-neuter
-neuter
-neuter
-neuter
-neuter
-270105	feminine
+270094	masculine
+270099	masculine
+270104	feminine
+270126	masculine
+270131	masculine
+270133	masculine
+270135	masculine
+270138	masculine
+masculine
+270157	masculine
+masculine
+270183	feminine
+270208	masculine
+270212	masculine
+270235	masculine
+270240	masculine
+270262	masculine
+270271	masculine
+270279	masculine
+masculine
+270284	masculine
+270297	masculine
+270305	masculine
+270332	feminine
+270341	masculine
+270384	feminine
+270402	neuter
+270404	masculine
+270420	masculine
+270435	neuter
+270462	neuter
+270472	masculine
+masculine
+270492	masculine
+270499	masculine
+270509	feminine
+270515	masculine
+270519	masculine
+270523	neuter
+270535	masculine
+270565	masculine
+270567	masculine
+270576	masculine
 feminine
-270109	masculine
+270582	masculine
+270588	masculine
+270593	neuter
+270601	masculine
 masculine
-neuter
-270113	neuter
-270120	neuter
-270152	masculine
-270174	neuter
-270177	masculine
-270182	masculine
-270188	masculine
-270224	masculine
-270229	neuter
-270233	masculine
-270328	masculine
+270609	masculine
+270628	neuter
+270632	masculine
 masculine
-270339	feminine
-270348	feminine
-270352	feminine
-270361	neuter
-270392	masculine
-270401	masculine
-270438	masculine
-270440	masculine
-270446	masculine
-270457	masculine
-270461	masculine
-270471	masculine
-270496	masculine
-270534	masculine
-270542	masculine
-270549	masculine
-270558	masculine
-masculine
-270573	masculine
-270592	masculine
-270594	masculine
-270621	masculine
-270623	masculine
-270626	masculine
-270634	neuter
-270636	neuter
-270665	neuter
-270677	feminine
-270687	neuter
-270700	masculine
-270704	neuter
-270713	masculine
-270720	masculine
-270724	masculine
+270650	masculine
+270660	masculine
+270662	feminine
+270666	masculine
+270673	masculine
+270683	masculine
+270688	feminine
+270694	masculine
+270702	masculine
 270727	masculine
-270734	masculine
+feminine
+270731	masculine
+feminine
+270736	feminine
+masculine
 270739	masculine
-270744	feminine
-270758	masculine
-270768	masculine
-270793	masculine
+270761	masculine
+270773	masculine
+270776	masculine
+270785	masculine
+270787	masculine
+270790	masculine
+270794	masculine
+270798	masculine
+270809	masculine
+270821	masculine
 neuter
-270797	masculine
-270812	masculine
-270814	masculine
-270839	masculine
-270843	masculine
-270849	masculine
-270852	masculine
-270884	masculine
-270906	masculine
+270824	masculine
+270840	neuter
+270849	feminine
+270852	neuter
+270868	masculine
+270887	masculine
 masculine
-270921	masculine
-masculine
-270926	masculine
-masculine
-270938	masculine
+270890	masculine
+270893	masculine
 270942	masculine
-270949	neuter
-270953	neuter
-270957	masculine
-neuter
-270960	masculine
-270967	masculine
+270944	neuter
+270980	feminine
+270997	neuter
+271000	masculine
+271002	feminine
+271005	masculine
+feminine
+271022	masculine
+feminine
+271026	masculine
 masculine
-270972	masculine
-270985	neuter
-270988	neuter
-270992	masculine
-270996	masculine
-271002	neuter
-271004	masculine
-271007	masculine
-271015	masculine
-271040	neuter
-271042	masculine
-271049	neuter
-271061	neuter
-271064	neuter
-271127	feminine
-271129	feminine
-271136	masculine
-271156	masculine
-271163	masculine
-271166	masculine
-271170	masculine
+271030	masculine
+271036	masculine
+271061	masculine
+271113	masculine
+271152	masculine
+271161	neuter
+271176	masculine
+271180	masculine
+271186	masculine
 masculine
-271185	neuter
-271188	masculine
-271197	masculine
-271201	masculine
+271190	masculine
+271195	masculine
+271197	neuter
+271202	neuter
+271206	masculine
+271216	neuter
 masculine
-271204	masculine
-masculine
-271207	masculine
-271210	feminine
-271223	neuter
-271241	masculine
-271253	masculine
+271226	masculine
+271256	masculine
 271258	masculine
-271266	neuter
-271272	neuter
-271276	masculine
-271298	neuter
-271300	neuter
-271320	masculine
-271324	masculine
-271326	neuter
-271336	masculine
-271347	masculine
-271349	neuter
-271354	feminine
-271362	masculine
-271366	masculine
-271370	masculine
-271374	masculine
-271394	neuter
-271404	masculine
+271266	masculine
+271270	masculine
+271275	masculine
+271280	masculine
+271283	masculine
+271293	masculine
+271322	masculine
+271327	feminine
+271348	masculine
+271351	masculine
+271369	masculine
+271391	masculine
+271393	masculine
+271397	masculine
 271409	neuter
+271432	masculine
+271444	masculine
+271449	feminine
+271452	masculine
+271466	masculine
+271475	masculine
+271484	feminine
+271487	masculine
 masculine
-271431	masculine
-271451	masculine
-271471	feminine
-271476	masculine
-271479	masculine
-masculine
-masculine
-271483	masculine
-271489	masculine
-271492	feminine
+271498	neuter
 271502	masculine
-271508	masculine
 271510	masculine
+masculine
+271515	masculine
 271517	masculine
-271569	masculine
-271574	feminine
-271578	feminine
-271610	feminine
+271527	masculine
+271533	masculine
+271536	masculine
+271539	masculine
+271547	masculine
+271551	masculine
+271557	masculine
+271562	masculine
+271581	neuter
+271583	neuter
+271628	masculine
+271632	masculine
+271641	feminine
+feminine
+271662	feminine
 masculine
-271616	masculine
-271640	masculine
-271642	masculine
-271666	masculine
-271677	masculine
-271687	masculine
-271690	masculine
-271704	neuter
-271721	feminine
-271725	neuter
 masculine
-271744	masculine
-271754	masculine
-271759	masculine
-271764	feminine
+271667	masculine
+271669	masculine
+271671	masculine
+271674	neuter
+271682	masculine
+271685	masculine
 masculine
-271768	masculine
-271776	feminine
-271817	masculine
-271820	masculine
-271837	masculine
+271689	masculine
+neuter
+271692	masculine
 masculine
-271840	masculine
-271842	feminine
-271848	masculine
-271855	masculine
-271862	feminine
-271867	masculine
-271882	masculine
-271887	masculine
-271895	masculine
-271907	masculine
-271914	masculine
-271922	masculine
-271934	masculine
-271948	masculine
+271711	feminine
+271721	neuter
+271724	feminine
+271727	masculine
+271734	masculine
+271737	masculine
+271740	masculine
+271747	masculine
+271772	masculine
+271789	masculine
+271816	feminine
+271822	masculine
+271826	feminine
+masculine
+masculine
+271832	masculine
+271836	masculine
+271856	masculine
+271865	neuter
+271872	masculine
+271881	masculine
+271883	masculine
+masculine
+271893	masculine
+masculine
+neuter
+271905	feminine
+271920	masculine
+271925	feminine
+271932	feminine
+271941	neuter
+271944	feminine
+feminine
+271947	feminine
+271956	feminine
+271960	masculine
 271964	masculine
-271969	masculine
-271974	masculine
-271979	feminine
-272002	masculine
-272007	masculine
-272009	masculine
-272011	masculine
-272015	masculine
+271966	masculine
+271969	feminine
+271972	masculine
+271977	feminine
+271990	masculine
+271993	masculine
+feminine
+272013	masculine
+neuter
 masculine
+272021	masculine
+272031	masculine
 272034	masculine
+272054	masculine
+272060	masculine
+272062	masculine
+272071	neuter
+272074	masculine
 masculine
-272060	feminine
-272085	masculine
-272089	masculine
-272112	masculine
-272117	masculine
-272141	masculine
-272150	masculine
+feminine
+272082	masculine
+272088	masculine
+272094	masculine
+272096	masculine
+272105	neuter
+272108	masculine
+272111	neuter
+272122	feminine
+272127	masculine
+272134	neuter
+272139	masculine
+272145	masculine
 272160	masculine
-masculine
-272165	masculine
-272178	masculine
+272162	masculine
+272170	masculine
+272173	masculine
+272176	neuter
 272186	masculine
-272214	feminine
-272223	masculine
-272266	feminine
-272284	neuter
-272286	masculine
-272302	masculine
-272318	neuter
-272349	neuter
-272360	masculine
-masculine
-272380	masculine
-272387	masculine
-272397	feminine
-272403	masculine
-272407	masculine
-272411	neuter
-272423	masculine
-272453	masculine
-272455	masculine
-272464	masculine
-feminine
-272471	masculine
-272477	masculine
-272483	neuter
-272491	masculine
-masculine
-272499	masculine
-272519	neuter
-272523	masculine
-masculine
-272541	masculine
-272551	masculine
-272553	feminine
-272557	masculine
-272564	masculine
-272575	masculine
-272580	feminine
-272586	masculine
-272594	masculine
-272620	masculine
-feminine
-272624	masculine
-feminine
-272629	feminine
-masculine
-272632	masculine
-272654	masculine
-272667	masculine
-272670	masculine
-272679	masculine
-272681	masculine
-272684	masculine
-272688	masculine
-272692	masculine
-272703	masculine
-272716	masculine
+272191	neuter
+272193	neuter
 neuter
-272719	masculine
-272736	neuter
-272746	feminine
-272750	neuter
-272766	masculine
-272785	masculine
-272787	masculine
-272789	masculine
-272792	masculine
-272841	masculine
-272843	neuter
-272881	feminine
-272900	neuter
-272903	masculine
-272905	feminine
-272908	masculine
+272196	neuter
+272203	neuter
+masculine
+272210	masculine
+272218	feminine
+272227	masculine
+272234	masculine
+272238	masculine
+272241	feminine
+272246	feminine
+272260	masculine
+masculine
+272268	neuter
+272270	masculine
+272296	neuter
+272305	neuter
+272312	feminine
+272314	masculine
+272320	masculine
+neuter
+272323	masculine
+272328	masculine
+272330	masculine
+272337	masculine
+272340	feminine
+272343	feminine
+272365	feminine
+272368	neuter
+272371	neuter
+272379	feminine
+272391	feminine
 feminine
-272925	masculine
+272397	masculine
+272401	masculine
+272412	masculine
+masculine
 feminine
+272419	feminine
+272424	feminine
+272433	masculine
+272448	feminine
+neuter
+272458	feminine
+272461	neuter
+272463	feminine
+272467	feminine
+272469	neuter
+272472	feminine
+272478	masculine
+272482	masculine
+272489	feminine
+272491	feminine
+272503	masculine
+272507	masculine
+272516	masculine
+272520	masculine
+272525	feminine
+272534	masculine
+272540	masculine
+272552	neuter
+272555	neuter
+masculine
+272558	feminine
+272560	masculine
+272565	masculine
+masculine
+272583	feminine
+272585	feminine
+272587	masculine
+272595	neuter
+272598	neuter
+272602	masculine
+272605	masculine
+272622	masculine
+272626	masculine
+272636	masculine
+neuter
+272642	masculine
+272650	masculine
+272662	neuter
+masculine
+272665	masculine
+272675	masculine
+272678	masculine
+272680	masculine
+masculine
+272690	neuter
+272698	neuter
+272700	masculine
+272704	neuter
+272707	masculine
+272716	feminine
+272728	feminine
+masculine
+masculine
+272735	masculine
+272742	neuter
+272769	masculine
+272774	masculine
+272790	feminine
+272801	masculine
+272804	masculine
+272807	masculine
+feminine
+272810	masculine
+masculine
+272817	masculine
+272838	masculine
+272840	neuter
+272847	masculine
+272849	masculine
+masculine
+masculine
+272854	neuter
+272862	masculine
+272870	feminine
+masculine
+masculine
+272902	feminine
+272905	masculine
+272910	feminine
+272920	masculine
+272923	masculine
+272927	feminine
 272930	masculine
+272935	feminine
+272937	neuter
+272960	neuter
+272996	masculine
+272999	masculine
+273011	feminine
+273017	feminine
+273028	masculine
+273031	masculine
+273053	masculine
+273068	masculine
 masculine
-272934	masculine
-272940	masculine
-272965	masculine
-273017	masculine
-273056	masculine
-273065	neuter
-273080	masculine
-273084	masculine
-273090	masculine
+273085	neuter
+273088	neuter
+273095	masculine
+273100	neuter
+273116	masculine
+273124	masculine
+273127	neuter
+273133	neuter
+273136	neuter
+273150	neuter
+273155	neuter
+273158	masculine
 masculine
-273094	masculine
-273099	masculine
-273101	neuter
-273106	neuter
-273110	masculine
-273121	neuter
+273169	masculine
 masculine
-273133	masculine
-273163	masculine
-273165	masculine
-273173	masculine
-273177	masculine
+273176	masculine
 273182	masculine
-273187	masculine
-273190	masculine
-273201	masculine
-273230	masculine
-273236	feminine
-273257	masculine
+273191	masculine
+273193	neuter
+273197	neuter
+273203	feminine
+273210	masculine
+273221	masculine
+273229	neuter
+273242	masculine
+273255	masculine
 273260	masculine
+masculine
+273265	masculine
+273268	neuter
+273270	masculine
 273278	masculine
-273301	masculine
-273303	masculine
-273308	masculine
-273320	neuter
-273343	masculine
-273355	masculine
-273361	feminine
-273365	masculine
-273379	masculine
-273388	masculine
-273397	feminine
-273400	masculine
-masculine
-273412	neuter
-273416	masculine
-273424	masculine
-masculine
-273429	masculine
-273431	masculine
-273441	masculine
-273447	masculine
-273450	masculine
-273455	masculine
-273463	masculine
-273467	masculine
-273474	masculine
-273479	masculine
-273498	neuter
-273500	neuter
-273546	masculine
-273550	masculine
-273560	feminine
+273280	masculine
+273287	masculine
+273304	feminine
+273306	masculine
+273310	masculine
+273314	masculine
 feminine
-273582	feminine
+273328	masculine
+273333	masculine
 masculine
 masculine
-273587	masculine
-273589	masculine
-273591	masculine
-273594	neuter
-273602	masculine
-273605	masculine
+273340	masculine
+273356	neuter
+273359	neuter
+273364	masculine
+273366	masculine
+273374	neuter
+273380	neuter
+273389	masculine
+273398	masculine
+273401	feminine
+273413	masculine
 masculine
-273609	masculine
+273419	masculine
+273421	feminine
+273430	masculine
+273435	neuter
+273448	masculine
+masculine
+273452	masculine
+masculine
+273458	masculine
+273465	masculine
+273469	masculine
+273472	neuter
+feminine
 neuter
-273612	masculine
-masculine
-273631	feminine
-273642	neuter
-273645	feminine
-273648	masculine
-273655	masculine
+273477	neuter
+273483	neuter
+273489	masculine
+273492	masculine
+273497	masculine
+273509	feminine
+273511	masculine
+273532	neuter
+273549	masculine
+273568	neuter
+273571	masculine
+273581	neuter
+273603	masculine
+273611	masculine
+273620	masculine
+273623	masculine
+273645	masculine
+273650	feminine
+273656	masculine
 273658	masculine
-273661	masculine
-273669	masculine
-273694	masculine
-273711	masculine
-273738	feminine
-273744	masculine
-273749	feminine
 masculine
+273699	neuter
+273705	masculine
+273721	masculine
+273729	masculine
+273733	masculine
+273739	masculine
+273741	masculine
+273743	masculine
+273745	masculine
+273747	masculine
 masculine
-273755	masculine
-273760	masculine
-273780	masculine
-273789	neuter
-273797	masculine
-273807	masculine
-273809	masculine
-masculine
-273819	masculine
-masculine
-neuter
-273831	feminine
-273846	masculine
-273851	feminine
-273858	feminine
-273868	neuter
-273871	feminine
-feminine
-273874	feminine
-273883	feminine
-273887	masculine
-273892	masculine
-273894	masculine
-273897	feminine
-273900	masculine
-273905	feminine
-273919	masculine
-273922	masculine
-feminine
-273943	masculine
-neuter
-masculine
-273952	masculine
-273962	masculine
-273965	masculine
-273985	masculine
+273754	masculine
+273756	masculine
+273761	masculine
+273765	masculine
+273778	masculine
+273783	masculine
+273795	masculine
+273799	masculine
+273803	masculine
+273839	masculine
+273852	masculine
+273855	masculine
+273859	masculine
+273896	feminine
+273908	neuter
+273937	neuter
+273942	masculine
+273948	masculine
+273955	masculine
+273972	masculine
+273976	masculine
+273989	feminine
 273991	masculine
-273993	masculine
-274003	neuter
-274006	masculine
-masculine
-feminine
-274014	masculine
-274020	masculine
-274026	masculine
-274028	masculine
-274037	neuter
-274040	masculine
-274043	neuter
-274056	feminine
-274061	masculine
-274068	neuter
+273995	masculine
+274004	masculine
+274007	masculine
+274010	masculine
+neuter
+274022	masculine
+274030	feminine
+274034	masculine
+274041	masculine
+274047	masculine
+274049	neuter
+neuter
+274054	masculine
+274056	neuter
+neuter
+274066	masculine
 274073	masculine
-274079	masculine
-274094	masculine
-274096	masculine
-274104	masculine
-274107	masculine
-274111	neuter
-274121	masculine
-274127	neuter
-274129	neuter
+274083	neuter
+274087	feminine
+masculine
+274091	masculine
+274096	feminine
+274103	feminine
+274109	feminine
+274123	masculine
+masculine
+274137	masculine
+274140	masculine
+274144	masculine
+274148	masculine
+274150	masculine
+274154	masculine
+274171	feminine
+274174	masculine
+274187	masculine
+274202	masculine
+274204	masculine
+274214	masculine
+274219	neuter
+274226	masculine
+274230	masculine
+274237	masculine
+274239	masculine
+274241	masculine
+274243	masculine
+274245	masculine
+274253	masculine
+masculine
+274261	masculine
+masculine
+masculine
+274280	neuter
+274295	neuter
+274305	masculine
+274308	masculine
+274313	masculine
+274324	masculine
+masculine
 neuter
-274132	neuter
-274139	neuter
+274348	masculine
+274353	masculine
 masculine
-274146	masculine
-274155	feminine
-274164	masculine
-274171	masculine
-274175	masculine
-274178	feminine
-274183	feminine
-274198	masculine
+274375	neuter
 masculine
-274206	neuter
-274208	masculine
-274236	neuter
-274246	neuter
-274253	feminine
-274255	masculine
-274262	masculine
-neuter
-274265	masculine
-274270	masculine
-274273	masculine
-274281	masculine
-274284	feminine
-274287	feminine
-274309	feminine
-274312	neuter
-274315	neuter
-274323	feminine
-274335	feminine
-feminine
-274341	masculine
-274346	masculine
-274357	masculine
+274390	masculine
+274397	masculine
+274442	masculine
+274446	masculine
+274452	feminine
+274467	feminine
+274491	masculine
+274496	masculine
+274499	neuter
+274505	masculine
 masculine
-feminine
-274364	feminine
-274369	feminine
-274379	masculine
-274396	feminine
-neuter
-274406	feminine
-274409	neuter
-274411	feminine
-274415	feminine
-274417	neuter
-274420	feminine
-274427	masculine
-274431	masculine
-274438	feminine
-274440	feminine
-274453	masculine
-274457	masculine
-274466	masculine
-274470	masculine
-274475	feminine
-274484	masculine
-274490	masculine
-274502	neuter
-274505	neuter
-masculine
-274508	feminine
-274510	masculine
-274515	masculine
-masculine
-274533	feminine
-274535	feminine
-274537	masculine
-274545	neuter
-274548	neuter
-274552	masculine
-274555	masculine
-274572	masculine
+274536	neuter
+274540	masculine
+274557	neuter
 274576	masculine
-274587	masculine
-neuter
-274594	masculine
+masculine
+274600	masculine
 274602	masculine
-274614	neuter
-masculine
-274617	masculine
-274628	masculine
+274608	neuter
+274613	neuter
 274631	masculine
-274633	masculine
-masculine
-274643	neuter
-274651	neuter
-274653	masculine
-274657	neuter
-274660	masculine
-274670	feminine
-274683	feminine
-masculine
-masculine
+274640	masculine
+274645	masculine
+274649	neuter
+274656	feminine
 274690	masculine
-274697	neuter
-274726	masculine
-274731	masculine
-274748	feminine
+274701	masculine
+274708	masculine
+274710	masculine
+274718	masculine
+274727	masculine
+274733	masculine
+masculine
+masculine
+274737	neuter
+274758	masculine
 274761	masculine
-274764	masculine
-274767	masculine
+274775	masculine
+274783	masculine
+274786	neuter
+274809	feminine
+274812	feminine
+274827	masculine
+274836	masculine
+274842	masculine
+274844	neuter
+274848	neuter
+274850	masculine
+274852	neuter
+274881	masculine
+274886	neuter
+274888	masculine
+274890	feminine
+274896	neuter
+274906	masculine
+274908	masculine
+274919	masculine
 feminine
-274770	masculine
+feminine
+feminine
+274927	masculine
+274930	masculine
+274945	masculine
+274949	feminine
+274955	masculine
 masculine
-274777	masculine
-274799	masculine
-274801	neuter
-274808	masculine
-274810	masculine
-masculine
-masculine
-274815	neuter
-274823	masculine
-274832	feminine
-masculine
-masculine
-274864	feminine
-274868	masculine
-274873	feminine
-274884	masculine
-274887	masculine
-274891	feminine
-274894	masculine
-274900	feminine
-274902	neuter
-274926	neuter
-274962	masculine
-274965	masculine
-274977	feminine
-274983	feminine
+274958	neuter
+274960	masculine
+274963	masculine
+274968	masculine
+274970	masculine
+274976	masculine
+neuter
+274985	masculine
+274987	neuter
 274994	masculine
-274997	masculine
-275020	masculine
+274996	neuter
+275001	masculine
+275009	masculine
+275014	masculine
+275024	masculine
+275034	masculine
 275036	masculine
+275043	masculine
 masculine
-275053	neuter
-275056	neuter
-275064	masculine
-275070	neuter
-275086	masculine
-275094	masculine
-275097	neuter
-275103	neuter
-275106	neuter
-275120	neuter
-275125	neuter
-275129	masculine
+275046	masculine
+275067	neuter
+275088	masculine
+275090	neuter
+275095	masculine
+275104	masculine
+275127	neuter
+275130	masculine
 masculine
-275140	masculine
+275133	masculine
+275149	masculine
 masculine
-275147	masculine
-275153	masculine
-275162	masculine
-275164	neuter
-275168	neuter
-275174	feminine
+masculine
+masculine
+275161	masculine
+275168	masculine
+masculine
+275175	neuter
+masculine
+masculine
+275179	masculine
 275181	masculine
-275193	masculine
-275201	neuter
-275214	masculine
-275228	masculine
-275235	masculine
+275190	neuter
 masculine
-275240	masculine
-275243	neuter
-275245	masculine
-275253	masculine
+275209	feminine
 275255	masculine
-275262	masculine
-275279	feminine
-275281	masculine
-275286	masculine
-275290	masculine
+275272	masculine
+275284	masculine
+275287	masculine
+275291	masculine
+275310	feminine
+275326	masculine
+275328	masculine
+275332	masculine
+275335	masculine
+275339	masculine
+275345	masculine
+275355	masculine
+275367	feminine
 feminine
-275304	masculine
-275309	masculine
+275381	masculine
+275388	masculine
+275390	masculine
+275392	masculine
+275397	masculine
+275414	neuter
+275444	masculine
+275448	neuter
 masculine
-masculine
-275316	masculine
-275332	neuter
-275335	neuter
-275340	masculine
-275342	masculine
-275350	neuter
-275356	neuter
-275365	masculine
-275374	masculine
-275377	feminine
-275389	masculine
-masculine
-275395	masculine
-275397	feminine
-275406	masculine
-275411	neuter
-275425	masculine
-masculine
-275429	masculine
-masculine
-275435	masculine
-275442	masculine
-275446	masculine
-275449	neuter
-feminine
-neuter
-275454	neuter
-275460	neuter
-275466	masculine
-275469	masculine
+275458	masculine
 275474	masculine
-275486	feminine
-275488	masculine
-275511	neuter
-275528	masculine
-275547	neuter
-275550	masculine
-275560	neuter
-275582	masculine
-275590	masculine
-275599	masculine
-275602	masculine
-275627	masculine
-275632	feminine
+masculine
+275484	masculine
+275490	masculine
+275514	masculine
+275519	masculine
+275530	masculine
+275546	feminine
+feminine
+275549	neuter
+275553	neuter
+275559	masculine
+275564	masculine
+275576	masculine
+275580	masculine
+275594	neuter
+275596	feminine
+275604	masculine
+275617	masculine
+275624	feminine
 275638	masculine
-275640	masculine
 masculine
-275683	neuter
+275643	masculine
+275652	masculine
+275655	masculine
+275657	masculine
+275671	masculine
+275677	masculine
+275688	masculine
 275690	masculine
-275706	masculine
-275716	masculine
-275720	masculine
-275726	masculine
-275728	masculine
-275730	masculine
+275696	masculine
+275698	masculine
+275702	masculine
+masculine
+275706	neuter
+275710	masculine
+275713	masculine
+masculine
+275717	masculine
+275725	masculine
+275729	masculine
 275732	masculine
-275735	masculine
+275737	masculine
+275739	masculine
+275747	masculine
+275758	masculine
+275764	masculine
+neuter
+275768	masculine
+275779	neuter
 masculine
-275742	masculine
-275744	masculine
-275750	masculine
-275754	masculine
-275767	masculine
-275772	masculine
-275784	masculine
-275788	masculine
-275792	masculine
-275829	masculine
-275842	masculine
+275786	masculine
+275799	masculine
+275817	neuter
+275822	neuter
+275825	masculine
+masculine
+275833	masculine
+275838	masculine
+275843	masculine
 275845	masculine
-275849	masculine
-275887	feminine
-275900	neuter
-275930	neuter
-275937	masculine
-275943	masculine
-275950	masculine
-275967	masculine
+275850	masculine
+masculine
+275856	masculine
+275859	feminine
+275863	masculine
+275866	feminine
+275872	feminine
+275875	feminine
+275879	feminine
+275888	masculine
+275891	neuter
+feminine
+275899	masculine
+275907	feminine
+275929	masculine
+275936	masculine
+275940	masculine
+275949	masculine
+275951	masculine
+275955	masculine
+275960	masculine
+275963	masculine
 275971	masculine
-275984	feminine
-275986	masculine
-275990	masculine
-276001	masculine
-276004	masculine
-276007	masculine
-neuter
-276019	masculine
-276027	feminine
-276031	masculine
-276038	masculine
-276044	masculine
-276046	neuter
-neuter
-276051	masculine
-276053	neuter
-neuter
-276063	masculine
-276070	masculine
-276080	neuter
-276084	feminine
+275975	neuter
 masculine
-276088	masculine
-276094	feminine
-276101	feminine
-276107	feminine
+275987	masculine
+275993	neuter
+275995	masculine
+275998	masculine
+276002	feminine
+feminine
+276013	feminine
+276025	masculine
+masculine
+276040	masculine
+masculine
+masculine
+276048	masculine
+masculine
+masculine
+276054	masculine
+276056	neuter
+276058	masculine
+276064	neuter
+276075	masculine
+masculine
+276082	masculine
+276087	masculine
+masculine
+feminine
+276101	masculine
+feminine
+276108	neuter
+276113	masculine
+276120	masculine
 276123	masculine
+276125	masculine
+276138	feminine
+276140	masculine
+276144	masculine
+276149	neuter
+276154	feminine
 masculine
-276137	masculine
-276142	masculine
-276146	masculine
-276150	masculine
-276152	masculine
-276156	masculine
-276173	feminine
-276176	masculine
-276189	masculine
-276205	masculine
-276207	masculine
-276217	masculine
+276166	masculine
+masculine
+276171	feminine
+276180	feminine
+276182	feminine
+276195	feminine
+276205	neuter
+276209	masculine
+276212	neuter
 276222	neuter
-276229	masculine
-276233	masculine
-276241	masculine
-276243	masculine
-276245	masculine
-276247	masculine
+masculine
+276226	neuter
+276235	masculine
 276249	masculine
-276257	masculine
+276260	feminine
+276266	neuter
+276281	masculine
+276286	masculine
 masculine
-276265	masculine
-masculine
-masculine
-276285	neuter
-276301	neuter
-276311	masculine
+276291	masculine
+276294	masculine
+276299	masculine
+276307	masculine
+276312	masculine
 276314	masculine
-276319	masculine
-276330	masculine
-masculine
-neuter
+276317	masculine
+276321	masculine
+276324	feminine
+276333	masculine
+276337	masculine
+276348	masculine
+276352	masculine
 276354	masculine
-276359	masculine
 masculine
-276383	neuter
+276359	feminine
+276363	neuter
+276367	feminine
+276372	neuter
+276376	masculine
 masculine
-276398	masculine
-276405	masculine
-276450	masculine
-276454	masculine
-276461	feminine
-276476	feminine
-276500	masculine
-276505	masculine
-276508	neuter
-276514	masculine
+276380	masculine
+276382	masculine
 masculine
-276549	neuter
-276553	masculine
-276570	neuter
-276589	masculine
+feminine
+276393	masculine
+276396	masculine
+276400	neuter
+276404	masculine
+276420	feminine
+276434	neuter
+276437	neuter
+276446	masculine
 masculine
-276614	masculine
-276617	masculine
-276623	neuter
-276628	neuter
-276647	masculine
-276656	masculine
-276661	masculine
-276665	neuter
-276673	feminine
-276707	masculine
-276721	masculine
-276728	masculine
-276730	masculine
-276738	masculine
+masculine
+276451	masculine
+276459	masculine
+masculine
+276467	neuter
+276471	masculine
+276479	neuter
+276484	feminine
+276493	feminine
+276497	masculine
+276499	masculine
+276503	feminine
+276506	masculine
+276521	feminine
+276526	masculine
+276531	masculine
+276535	masculine
+276543	masculine
+276545	masculine
+276547	feminine
+276549	feminine
+276557	masculine
+276560	masculine
+276569	masculine
+276573	masculine
+276576	masculine
+276583	masculine
+276587	masculine
+276590	masculine
+276594	masculine
+276603	masculine
+276615	feminine
+276620	neuter
+276622	neuter
+276648	feminine
+276650	neuter
+276657	feminine
+276661	feminine
+276667	feminine
+276669	neuter
+276674	feminine
+276680	feminine
+276689	neuter
+276697	masculine
+276700	masculine
+276709	masculine
+276715	masculine
+276719	neuter
+276727	neuter
+neuter
+276740	feminine
+feminine
+feminine
+feminine
 276747	masculine
-276753	masculine
+276754	feminine
+276757	masculine
+neuter
+276767	neuter
+276770	masculine
+276774	neuter
+276783	neuter
+276802	masculine
+276812	feminine
 masculine
+276823	masculine
+276826	masculine
+276828	masculine
+276838	masculine
+276845	masculine
 masculine
-276757	neuter
-276779	masculine
-276782	masculine
-276797	masculine
-276805	masculine
-276808	neuter
-276832	feminine
-276835	feminine
-276850	masculine
-276859	masculine
-276865	masculine
-276867	neuter
-276872	neuter
-276874	masculine
-276876	neuter
-276906	masculine
-276911	neuter
-276913	masculine
+276857	masculine
+276862	feminine
+276864	feminine
+276866	masculine
+feminine
+276870	feminine
+276877	masculine
+276883	feminine
+276891	masculine
+276910	masculine
+neuter
 276915	feminine
-276921	neuter
-276932	masculine
-276934	masculine
-276946	masculine
+276934	neuter
+276942	feminine
 feminine
-feminine
-feminine
-276954	masculine
-276957	masculine
-276972	masculine
-276977	feminine
-276983	masculine
+276951	neuter
+276965	masculine
+276982	masculine
+276993	masculine
+277019	feminine
+277024	masculine
+277031	masculine
 masculine
-276986	neuter
-276988	masculine
-276991	masculine
-276996	masculine
-276999	masculine
-277005	masculine
-neuter
-277014	masculine
-277016	neuter
-277023	masculine
-277025	neuter
-277030	masculine
-277038	masculine
-277043	masculine
-277054	masculine
-277064	masculine
+277037	masculine
+277041	neuter
+277050	feminine
+277056	masculine
+277060	feminine
+277062	feminine
 277066	masculine
-277073	masculine
+277068	masculine
+277073	neuter
+277079	feminine
+277081	masculine
+277090	neuter
+277111	neuter
 masculine
-277076	masculine
-277099	neuter
-277121	masculine
-277123	neuter
-277129	masculine
-277138	masculine
-277162	neuter
-277165	masculine
-masculine
-277168	masculine
-277184	masculine
-masculine
-masculine
-masculine
-277196	masculine
-277203	masculine
-masculine
-277210	neuter
-masculine
-masculine
-277214	masculine
-277216	masculine
-277225	neuter
-masculine
-277245	feminine
-277295	masculine
-277313	masculine
-277325	masculine
-277328	masculine
-277332	masculine
-277352	feminine
-277370	masculine
-277372	masculine
-277376	masculine
-277379	masculine
-277384	masculine
-277390	masculine
-277400	masculine
-277412	feminine
+277121	feminine
+277152	masculine
+277157	masculine
 feminine
-277426	masculine
-277433	masculine
-277435	masculine
+277162	feminine
+masculine
+277167	masculine
+277175	masculine
+277188	masculine
+277199	feminine
+277201	feminine
+277208	masculine
+masculine
+277218	masculine
+277236	masculine
+277238	masculine
+277247	feminine
+277252	feminine
+277255	neuter
+277271	masculine
+277276	masculine
+277283	feminine
+masculine
+277286	masculine
+277289	masculine
+277296	masculine
+277300	neuter
+masculine
+277303	masculine
+277306	neuter
+277308	feminine
+277312	masculine
+277322	feminine
+277332	neuter
+277334	masculine
+masculine
+277342	neuter
+277349	masculine
+277354	neuter
+masculine
+277362	masculine
+277365	masculine
+277367	feminine
+277373	masculine
+277376	neuter
+277381	masculine
+277387	masculine
+277392	neuter
+277397	masculine
+neuter
+277402	masculine
+masculine
+277413	neuter
+277416	masculine
+277418	masculine
+277421	feminine
+277427	feminine
 277437	masculine
-277443	masculine
-277460	neuter
-277491	masculine
-277495	neuter
+277444	masculine
+277474	feminine
+277477	neuter
+277481	neuter
+277486	feminine
+277494	neuter
+neuter
+277497	feminine
+277500	masculine
+277507	masculine
 masculine
-277505	masculine
+277515	masculine
+277518	feminine
+masculine
 277523	masculine
+277529	masculine
+277539	neuter
+277544	masculine
+277549	masculine
 masculine
-277533	masculine
-277539	masculine
-277564	masculine
-277569	masculine
-277580	masculine
-277596	feminine
+masculine
+277553	feminine
+masculine
+masculine
+277558	neuter
+masculine
+277561	feminine
+277575	feminine
+masculine
+masculine
+277581	masculine
+277588	masculine
+277591	feminine
+277599	masculine
+277614	feminine
+277619	feminine
+277622	feminine
+277630	masculine
+277632	masculine
+277640	masculine
+277661	masculine
+277666	feminine
+277670	masculine
+277678	neuter
+masculine
+277682	feminine
+277691	masculine
+277696	neuter
+277698	feminine
+277702	masculine
+277708	masculine
 feminine
-277599	neuter
-277603	neuter
-277610	masculine
-277615	masculine
-277627	masculine
-277631	masculine
-277645	neuter
-277647	feminine
-277655	masculine
-277668	masculine
-277675	feminine
-277689	masculine
+feminine
+277712	masculine
+277714	masculine
+277719	masculine
+277726	neuter
 masculine
-277694	masculine
-277703	masculine
-277706	masculine
-277709	masculine
-277724	masculine
-277730	masculine
-277741	masculine
+277732	masculine
+277734	masculine
+277738	feminine
+277741	neuter
 277743	masculine
-277749	masculine
-277751	masculine
-277755	masculine
+277748	feminine
 masculine
-277759	neuter
-277763	masculine
-277766	masculine
 masculine
-277770	masculine
-277778	masculine
-277782	masculine
-277785	masculine
-277790	masculine
-277792	masculine
-277800	masculine
-277811	masculine
-277817	masculine
-neuter
-277821	masculine
-277832	neuter
+277762	feminine
 masculine
-277839	masculine
-277852	masculine
-277870	neuter
-277875	neuter
-277878	masculine
 masculine
-277886	masculine
-277891	masculine
+277776	feminine
+masculine
+masculine
+277780	neuter
+277787	neuter
+277795	feminine
+masculine
+masculine
+masculine
+277805	masculine
+277811	feminine
+277815	masculine
+277825	feminine
+277827	feminine
+277829	masculine
+277836	masculine
+277838	feminine
+277848	masculine
+277851	masculine
+feminine
+277861	masculine
+277864	feminine
+277868	neuter
+277871	feminine
+277876	masculine
+feminine
+277881	neuter
+277887	masculine
 277896	masculine
-277898	masculine
-277903	masculine
+277899	feminine
+277901	feminine
+277903	feminine
+277913	masculine
+277918	feminine
+277922	masculine
+277926	masculine
+277931	masculine
+277952	masculine
 masculine
-277909	masculine
-277912	feminine
-277916	masculine
-277919	feminine
-277926	feminine
-277929	feminine
-277933	feminine
-277942	masculine
-277945	neuter
-feminine
-277953	masculine
-277962	feminine
-277984	masculine
-277991	masculine
-277995	masculine
+masculine
+masculine
+277958	masculine
+277961	masculine
+277970	masculine
+277979	masculine
+277987	masculine
+277989	neuter
+277994	masculine
+278002	masculine
 278004	masculine
-278006	masculine
-278010	masculine
-278015	masculine
-278018	masculine
-278026	masculine
-278030	neuter
+278012	masculine
+278016	feminine
 masculine
-278042	masculine
-278049	neuter
-278051	masculine
-278054	masculine
-278059	feminine
+278019	masculine
 feminine
-278070	feminine
+masculine
+278032	masculine
+278043	masculine
+278049	masculine
+278053	feminine
+278056	masculine
+278065	masculine
+masculine
+278069	masculine
+278074	masculine
+278079	masculine
 278083	masculine
+278085	masculine
+278088	masculine
+278095	masculine
+278108	masculine
+278119	masculine
+278125	neuter
 masculine
-278099	masculine
-masculine
-masculine
-278107	masculine
-masculine
-masculine
-278113	masculine
-278115	neuter
-278117	masculine
-278124	neuter
-278135	masculine
-masculine
-278142	masculine
-278147	masculine
-278149	masculine
-feminine
-278162	masculine
-feminine
-278170	neuter
-278175	masculine
-278182	masculine
-278185	masculine
+278128	masculine
+278131	neuter
+278141	neuter
+278144	feminine
+278147	feminine
+neuter
+278153	masculine
+278159	feminine
+278163	neuter
+278184	masculine
 278187	masculine
-278200	feminine
-278202	masculine
+278189	masculine
+masculine
+278199	feminine
 278206	masculine
-278213	neuter
-278218	feminine
+278212	masculine
+278223	masculine
+278233	masculine
+feminine
+278239	neuter
+278242	neuter
+278250	feminine
 masculine
-278230	masculine
+278255	masculine
 masculine
-278237	feminine
-278246	feminine
-278248	feminine
-278262	feminine
-278272	neuter
-278276	masculine
-278279	neuter
-278289	neuter
+278260	neuter
+neuter
+278267	neuter
+278269	neuter
 masculine
-278293	neuter
-278303	masculine
-278317	masculine
-278328	feminine
-278334	neuter
-278350	masculine
+278283	masculine
+278291	masculine
+278299	masculine
+278307	neuter
+masculine
+278314	masculine
+278321	masculine
+masculine
+278327	masculine
+278336	masculine
+278352	neuter
 278355	masculine
+278359	neuter
+278362	masculine
+278376	neuter
+278385	masculine
 masculine
-278360	masculine
-278364	masculine
-278369	masculine
-278377	masculine
-278382	masculine
-278384	masculine
-278387	masculine
+masculine
 278391	masculine
-278394	feminine
-278403	masculine
-278407	masculine
-278420	masculine
+masculine
+278395	masculine
+278397	masculine
+278402	feminine
+278408	masculine
+278410	masculine
+neuter
+masculine
 278424	masculine
-278426	masculine
+278427	masculine
+278429	masculine
+278432	neuter
+278435	masculine
+278439	masculine
 masculine
-278431	feminine
-278436	neuter
-278440	feminine
-278445	neuter
-278449	masculine
+278447	masculine
+278465	neuter
+278467	feminine
+278474	masculine
+278480	feminine
+278482	masculine
+278516	masculine
+278522	feminine
+278524	feminine
+278532	neuter
+278536	neuter
+278552	masculine
+278555	masculine
+278562	masculine
 masculine
-278453	masculine
-278455	masculine
-masculine
-feminine
-278466	masculine
-278469	masculine
-278474	neuter
-278479	masculine
-278496	feminine
-278510	neuter
-278514	neuter
-278525	masculine
-masculine
-masculine
-278530	masculine
-278538	masculine
-masculine
-278546	neuter
-278550	masculine
-278558	neuter
-278564	feminine
-278573	feminine
-278577	masculine
-278579	masculine
-278585	feminine
-278588	masculine
-278606	feminine
-278611	masculine
-278616	masculine
-278621	masculine
+278567	neuter
+278571	masculine
+neuter
+278575	neuter
+278585	masculine
+278590	neuter
+278593	neuter
+278601	masculine
+278623	masculine
 278629	masculine
-278631	masculine
-278634	feminine
-278637	feminine
-278645	masculine
-278648	masculine
-278657	masculine
-278661	masculine
-278664	masculine
-278672	masculine
-278676	masculine
-278679	masculine
-278683	masculine
-278692	masculine
-278704	feminine
-278709	neuter
-278711	neuter
-278739	feminine
-278741	neuter
-278748	feminine
-278752	feminine
-278759	feminine
-278761	neuter
-278766	feminine
-278772	feminine
-278781	neuter
-278791	masculine
-278794	masculine
-278803	masculine
-278809	masculine
-278814	neuter
-278822	neuter
-neuter
-278835	feminine
-feminine
-feminine
-feminine
-278842	masculine
-278849	feminine
+278639	masculine
+278653	masculine
+278656	neuter
+278665	masculine
+278696	masculine
+278703	feminine
+278713	masculine
+278718	feminine
+278723	masculine
+masculine
+278728	masculine
+278731	masculine
+278735	neuter
+masculine
+278738	masculine
+278742	masculine
+278744	masculine
+278752	neuter
+278756	masculine
+278805	masculine
+masculine
+278808	masculine
+278810	masculine
+masculine
+278816	masculine
+278818	masculine
+masculine
+masculine
+masculine
+278828	masculine
+278830	neuter
+278833	masculine
+masculine
+masculine
+278845	feminine
+278847	feminine
+278850	feminine
 278852	masculine
+278865	neuter
+278876	masculine
+278893	masculine
+278896	masculine
+278899	masculine
+278907	masculine
+278917	masculine
+278926	masculine
+masculine
+masculine
+masculine
+278933	masculine
+278938	masculine
+masculine
+278942	masculine
+278951	masculine
+278957	masculine
+278960	masculine
+278967	masculine
+278970	masculine
+278973	masculine
+masculine
+278980	masculine
+278982	masculine
+278985	masculine
+278988	masculine
+278991	feminine
+279007	masculine
+masculine
+279046	masculine
+279088	feminine
+279090	masculine
+masculine
+279100	masculine
+279104	masculine
+279109	neuter
+279121	masculine
+279127	feminine
+279129	masculine
+279133	masculine
+masculine
+279145	masculine
+279169	masculine
+279173	feminine
+279175	masculine
 neuter
-278862	neuter
-278865	masculine
-278869	neuter
-278879	neuter
-278898	masculine
-278908	feminine
-masculine
-278920	masculine
-278923	masculine
-278925	masculine
-278935	masculine
-278943	masculine
-masculine
-278955	masculine
-278960	feminine
-278962	feminine
-278964	masculine
+279178	neuter
 feminine
-278968	feminine
-278975	masculine
-278981	feminine
-278989	masculine
-279008	masculine
 neuter
-279014	feminine
-279033	neuter
-279041	feminine
+279185	feminine
+279187	masculine
+279189	neuter
+279196	masculine
+279202	masculine
+279205	masculine
+279212	masculine
+279222	masculine
+279226	neuter
+279234	neuter
 feminine
-279050	neuter
-279064	masculine
-279081	masculine
-279092	masculine
-279118	feminine
-279123	masculine
-279130	masculine
+279240	masculine
+279242	feminine
+279245	neuter
+279263	masculine
+279282	feminine
+279289	masculine
+279312	feminine
+279316	masculine
+279320	masculine
+279329	masculine
+279333	neuter
+279343	feminine
+279347	feminine
+279352	neuter
+279358	feminine
+279361	masculine
 masculine
-279136	masculine
-279140	neuter
-279150	feminine
-279156	masculine
-279160	feminine
-279162	feminine
-279166	masculine
-279168	masculine
-279173	neuter
-279179	feminine
-279181	masculine
-279191	neuter
-279212	neuter
-masculine
-279222	feminine
-279253	masculine
-279258	masculine
-279260	feminine
-279264	feminine
-masculine
-279269	masculine
-279277	masculine
-279290	masculine
-279301	feminine
-279304	feminine
-279311	masculine
-masculine
-279321	masculine
-279339	masculine
-279341	masculine
-279350	feminine
-279355	feminine
-279359	neuter
-279375	masculine
-279380	masculine
-279387	feminine
-masculine
-279390	masculine
-279393	masculine
-279400	masculine
-279404	neuter
-masculine
-279407	masculine
+279365	masculine
+279369	neuter
+279372	masculine
+279374	masculine
+279378	masculine
+279395	masculine
+279406	neuter
+neuter
 279411	neuter
-279413	feminine
-279417	masculine
-279427	feminine
-279437	neuter
-279439	masculine
-masculine
-279447	neuter
-279454	masculine
-279460	neuter
-masculine
-279468	masculine
-279471	masculine
-279474	feminine
-279481	masculine
-279484	neuter
-279489	masculine
-279496	masculine
-279501	neuter
-279506	masculine
+279418	masculine
+279426	neuter
+279434	neuter
+279443	feminine
+279447	feminine
+279452	feminine
+279487	masculine
+279497	neuter
+279511	feminine
+feminine
+279515	feminine
 neuter
-279511	masculine
+279518	neuter
+279521	masculine
+279552	feminine
+279567	neuter
+279569	feminine
+279581	masculine
+feminine
+279584	masculine
+279587	feminine
+279594	feminine
+279631	feminine
+279640	masculine
+279658	neuter
+279668	masculine
+279670	masculine
+279673	feminine
+279690	feminine
 masculine
-279522	neuter
-279525	masculine
-279527	masculine
-279530	feminine
-279537	feminine
-279548	masculine
-279555	masculine
-279586	feminine
-279589	neuter
-279593	neuter
-279598	feminine
-279606	neuter
-neuter
-279609	feminine
-279612	masculine
-279619	masculine
+279694	feminine
 masculine
-279627	masculine
-279630	feminine
-masculine
-279635	masculine
-279642	masculine
-279652	neuter
-279657	masculine
-279662	masculine
+279715	masculine
 masculine
 masculine
-279666	feminine
 masculine
-masculine
-279671	neuter
-masculine
-279674	feminine
-279688	feminine
-masculine
-masculine
-279695	masculine
-279702	masculine
-279705	feminine
-279713	masculine
-279729	feminine
-279734	feminine
-279737	feminine
-279745	masculine
-279747	masculine
-279755	masculine
-279776	masculine
-279781	feminine
-279785	masculine
-279793	neuter
-masculine
-279797	feminine
+279720	masculine
+279724	masculine
+279727	masculine
+279730	masculine
+279736	masculine
+279741	masculine
+279746	masculine
+279748	masculine
+279752	masculine
+279764	masculine
+279769	masculine
+279773	feminine
+279780	feminine
+279782	feminine
+279803	feminine
+279805	masculine
 279807	masculine
-279813	neuter
-279815	feminine
+279811	masculine
+feminine
+masculine
 279819	masculine
-279825	masculine
-feminine
-feminine
-279829	masculine
-279831	masculine
-279837	masculine
-279844	neuter
-masculine
-279850	masculine
-279852	masculine
-279856	feminine
-279859	neuter
+279824	feminine
+279831	neuter
 279861	masculine
-279866	feminine
-masculine
-masculine
-279880	feminine
-masculine
-masculine
-279894	feminine
-masculine
-masculine
-279898	neuter
-279905	neuter
-279913	feminine
-masculine
-masculine
-masculine
+279864	masculine
+279870	masculine
+279893	masculine
+279905	masculine
 279923	masculine
-279929	feminine
-279933	masculine
-279943	feminine
-279945	feminine
-279947	masculine
-279954	masculine
-279956	feminine
-279966	masculine
-279969	masculine
-feminine
-279979	masculine
-279982	feminine
-279986	neuter
-279989	feminine
-279994	masculine
-feminine
-279999	neuter
-280005	masculine
-280015	masculine
-280018	feminine
-280020	feminine
-280022	feminine
-280032	masculine
-280037	feminine
-280041	masculine
-280045	masculine
-280050	masculine
-280072	masculine
+279935	masculine
+279941	masculine
+279948	masculine
+279972	masculine
+279990	masculine
+280002	masculine
+neuter
+280013	masculine
+280016	masculine
+280019	feminine
+280022	masculine
+280025	masculine
+280032	neuter
+280035	feminine
 masculine
-masculine
-masculine
+280042	feminine
+280061	masculine
 280078	masculine
-280081	masculine
-280091	masculine
-280100	masculine
-280108	masculine
-280110	neuter
-280115	masculine
-280123	masculine
-280125	masculine
-280134	masculine
-280138	feminine
 masculine
-280141	masculine
-feminine
+280082	masculine
 masculine
-280154	masculine
-280165	masculine
-280171	masculine
-280176	feminine
-280179	masculine
-280188	masculine
+280117	masculine
+280131	masculine
+280135	feminine
+280146	feminine
+280152	masculine
+280161	neuter
+280164	neuter
 masculine
-280192	masculine
-280198	masculine
-280203	masculine
-280207	masculine
-280210	masculine
-280213	masculine
-280221	masculine
-280235	masculine
-280246	masculine
+280176	neuter
+280179	neuter
+280187	masculine
+280189	masculine
+280194	masculine
+masculine
+280200	feminine
+masculine
+280216	masculine
+masculine
+280227	neuter
+280236	masculine
+280242	neuter
+280247	masculine
 280252	neuter
-masculine
-280255	masculine
-280258	neuter
-280268	neuter
-280271	feminine
-280274	feminine
-neuter
-280280	masculine
-280286	feminine
-280290	neuter
-280312	masculine
-280315	masculine
+280256	masculine
+280259	masculine
+280264	masculine
+280270	feminine
+280278	masculine
+280289	masculine
+280292	masculine
+280298	masculine
+280302	masculine
+280305	masculine
+280308	masculine
 280318	masculine
+280337	masculine
+280341	masculine
+280354	masculine
 masculine
-280328	feminine
-280335	masculine
-280342	masculine
-280353	masculine
-280363	masculine
-feminine
-280369	neuter
-280372	neuter
-280381	feminine
+280358	feminine
 masculine
-280386	masculine
 masculine
-280391	neuter
-280393	neuter
-280400	neuter
-280402	neuter
-masculine
-280416	masculine
-280424	masculine
-280432	masculine
-280440	neuter
-masculine
-280448	masculine
-280456	masculine
-masculine
-280462	masculine
+280370	masculine
+280378	masculine
+280381	masculine
+280389	masculine
+280391	masculine
+280414	neuter
+280419	neuter
+280421	masculine
+280445	masculine
+280449	masculine
+280452	masculine
+280455	masculine
+280463	masculine
 280471	masculine
-280487	neuter
-280490	masculine
-280494	neuter
-280497	masculine
-280512	neuter
-280522	masculine
+280484	masculine
+280491	masculine
 masculine
+280494	masculine
+280496	masculine
 masculine
-280529	masculine
+280506	masculine
+280509	masculine
+280527	masculine
+280532	masculine
+280535	masculine
+280539	masculine
+280541	masculine
+280544	masculine
 masculine
-280533	masculine
-280536	masculine
-280541	feminine
-280547	masculine
-280549	masculine
-neuter
-280552	masculine
-280564	masculine
-280568	masculine
+280554	feminine
+280562	masculine
+feminine
+280566	neuter
 280570	masculine
-280573	neuter
-280576	masculine
-280582	masculine
-masculine
+280574	masculine
 280590	masculine
-280608	neuter
-280610	feminine
+280594	masculine
+280606	masculine
+280613	masculine
 280618	masculine
-280625	feminine
-280627	masculine
-280662	masculine
-280668	feminine
-280670	feminine
-280679	neuter
-280683	neuter
-280700	masculine
-280703	masculine
-280710	masculine
+280624	masculine
+280633	masculine
+280645	neuter
+280647	feminine
+280651	masculine
+feminine
 masculine
-280715	neuter
-280720	masculine
+280655	neuter
+280657	neuter
+280666	neuter
+feminine
+280677	masculine
+masculine
+280683	masculine
+feminine
+280689	masculine
+280693	masculine
+masculine
+280697	masculine
+280702	masculine
+280715	masculine
+280726	masculine
+280738	feminine
+feminine
+280753	masculine
+280759	feminine
+280782	neuter
+280786	neuter
+280794	feminine
+280797	feminine
+feminine
+280802	feminine
+280805	masculine
+masculine
+feminine
+280811	feminine
+280814	feminine
+280818	masculine
+280823	masculine
+feminine
+280836	masculine
+280839	masculine
 neuter
-280724	neuter
-280734	masculine
-280739	neuter
-280742	neuter
-280750	masculine
-280772	masculine
-280778	masculine
-280790	masculine
-280804	masculine
-280807	neuter
-280816	masculine
+280843	feminine
+280845	neuter
 280847	masculine
-280854	feminine
-280864	masculine
-280870	feminine
-280875	masculine
-masculine
-280880	masculine
-280883	masculine
-280887	neuter
-masculine
-280890	masculine
+280852	feminine
+280856	masculine
+280858	feminine
+280867	neuter
+280870	masculine
+280876	neuter
+280878	feminine
+280881	feminine
 280894	masculine
-280896	masculine
-280905	neuter
+neuter
+280897	masculine
+masculine
 280909	masculine
-280960	masculine
-280962	masculine
+280926	masculine
+280930	masculine
+280942	masculine
+280945	neuter
+280948	masculine
+280954	neuter
+280956	masculine
 280964	masculine
-280966	masculine
+280970	masculine
+280977	masculine
+280979	feminine
 masculine
-280973	masculine
-280975	masculine
+280982	neuter
+280989	masculine
+280991	masculine
+281000	feminine
+281002	neuter
+281007	neuter
+281024	masculine
+281028	masculine
+281030	masculine
 masculine
-masculine
-masculine
-280985	masculine
-280987	neuter
-280990	masculine
-masculine
-masculine
-281002	feminine
-281004	feminine
-281007	feminine
-281009	masculine
-281022	neuter
-281034	masculine
-281052	masculine
-281055	masculine
+281035	masculine
+281037	masculine
+feminine
+281044	masculine
+feminine
+281047	feminine
 281058	masculine
-281066	masculine
+281062	masculine
+281067	masculine
 281076	masculine
+281083	masculine
+masculine
 281086	masculine
+281088	masculine
+281091	masculine
+281101	feminine
+281105	neuter
+281119	masculine
+281121	feminine
+281124	masculine
+281127	masculine
+281130	neuter
+281132	neuter
 masculine
+281140	masculine
+281145	masculine
+281149	feminine
+281158	masculine
+281169	masculine
+281177	feminine
+281179	neuter
+281181	neuter
+281197	masculine
+281202	masculine
+281247	neuter
+281249	neuter
+281252	masculine
+281268	masculine
+281294	feminine
+281311	masculine
+281315	masculine
+281318	masculine
+281326	masculine
+281328	masculine
 masculine
-masculine
-281094	masculine
-281099	masculine
-masculine
-281103	masculine
-281112	masculine
-281118	masculine
-281121	masculine
-281128	masculine
-281131	masculine
-281134	masculine
-masculine
-281142	masculine
-281144	masculine
-281147	masculine
-281150	masculine
-281153	feminine
-281170	masculine
-masculine
-281210	masculine
-281253	feminine
-281255	masculine
-masculine
-281265	masculine
-281269	masculine
-281274	neuter
-281288	masculine
-281295	feminine
-281297	masculine
-281301	masculine
-masculine
-281313	masculine
+281331	masculine
+281337	masculine
 281339	masculine
-281344	feminine
-281346	masculine
-neuter
-281349	neuter
+281342	feminine
+281357	masculine
+281360	masculine
+281370	masculine
+281372	masculine
+masculine
+281375	masculine
+281379	masculine
+281394	masculine
+281401	neuter
+masculine
+masculine
+281408	masculine
+281425	masculine
+281427	masculine
 feminine
-neuter
-281356	feminine
-281358	masculine
-281360	neuter
-281367	masculine
-281374	masculine
-281377	masculine
-281384	masculine
-281395	masculine
-281399	neuter
-281407	neuter
-feminine
-281413	masculine
-281415	feminine
-281418	neuter
-281436	masculine
-281455	feminine
+281446	masculine
+281449	feminine
 281462	masculine
-281485	feminine
-281489	masculine
-281493	masculine
-281502	masculine
-281506	neuter
-281516	feminine
-281520	feminine
-281526	neuter
-281532	feminine
-281535	masculine
+281494	feminine
+281498	masculine
+281514	masculine
+281525	masculine
+281555	neuter
+281570	masculine
+281574	neuter
 masculine
-281539	masculine
-281543	neuter
-281546	masculine
-281549	masculine
-281553	masculine
-281571	masculine
-281582	neuter
+281577	masculine
+281579	masculine
+281587	masculine
+281589	feminine
+281595	neuter
+281597	masculine
+281630	feminine
 neuter
-281587	neuter
-281594	masculine
-281602	neuter
-281612	neuter
-281622	feminine
-281626	feminine
-281631	feminine
-281667	masculine
-281677	neuter
-281691	feminine
+281635	masculine
+281643	masculine
+281645	feminine
+281673	masculine
+masculine
+281687	masculine
+281690	masculine
+281697	feminine
+masculine
+281707	masculine
+281718	feminine
+281720	masculine
+281726	masculine
+281729	masculine
+281732	masculine
+281735	masculine
+281739	masculine
 feminine
-281695	feminine
+281743	masculine
+281748	neuter
 neuter
-281698	neuter
-281701	masculine
-281733	feminine
-281749	neuter
-281751	feminine
-281763	masculine
+masculine
+281760	feminine
+281765	masculine
+281768	masculine
+281778	masculine
+281784	masculine
+masculine
+masculine
+masculine
+masculine
+281791	masculine
+281805	masculine
+281822	masculine
+281827	masculine
+281830	masculine
+281841	masculine
+281843	masculine
+281849	masculine
 feminine
-281766	masculine
-281769	feminine
-281776	feminine
-281814	feminine
-281823	masculine
-281842	neuter
-281852	masculine
-281854	masculine
-281857	feminine
-281874	feminine
+281853	masculine
+281855	masculine
+281859	masculine
+281871	masculine
+281879	masculine
+281881	masculine
+281885	masculine
+281889	masculine
+281896	masculine
+281898	feminine
 masculine
-281878	feminine
-masculine
-281899	masculine
-masculine
-masculine
-masculine
+281901	feminine
 281904	masculine
-281908	masculine
-281911	masculine
-281915	masculine
-281921	masculine
-281926	masculine
-281931	masculine
-281933	masculine
-281939	masculine
-281951	masculine
+281906	masculine
+281909	masculine
+masculine
+281916	masculine
+281922	neuter
+neuter
+281928	masculine
+281930	masculine
+281936	masculine
+281938	feminine
+masculine
+281945	masculine
+281949	masculine
+281952	masculine
 281956	masculine
-281960	feminine
-281967	feminine
-281969	feminine
-281991	feminine
-281994	masculine
-281996	masculine
-282000	masculine
+281959	feminine
 feminine
 masculine
+281963	masculine
+281966	masculine
+281972	masculine
+281982	neuter
+281987	masculine
+281994	feminine
+masculine
+282002	masculine
+282008	masculine
 282010	masculine
-282015	feminine
-282022	neuter
-282052	masculine
-282055	masculine
-282061	masculine
+feminine
+masculine
+masculine
+masculine
+282016	masculine
+282018	masculine
+282020	masculine
+282022	masculine
+282027	masculine
+282038	neuter
+282041	masculine
+282044	masculine
+282046	neuter
+282048	neuter
+282051	masculine
+282058	masculine
+282063	feminine
+masculine
+282067	masculine
+282072	masculine
+masculine
+282078	feminine
+feminine
 282084	masculine
-282096	masculine
-282114	masculine
-282126	masculine
-282133	masculine
-282140	masculine
-282164	masculine
-282184	masculine
-282197	masculine
+282098	masculine
+282111	neuter
 neuter
-282208	masculine
-282211	masculine
-282215	feminine
+masculine
+282119	masculine
+282125	masculine
+282127	masculine
+282135	feminine
+282139	neuter
+282146	masculine
+neuter
+masculine
+masculine
+282153	feminine
+282158	feminine
+282165	neuter
+masculine
+282177	neuter
+masculine
+282191	masculine
+282204	masculine
+282207	masculine
+feminine
+282214	masculine
+masculine
 282218	masculine
-282222	masculine
-282229	neuter
-282232	feminine
+282231	neuter
+282233	neuter
+282244	neuter
 masculine
-282239	feminine
-282258	masculine
-282275	masculine
+282261	masculine
 masculine
-282279	masculine
+282265	neuter
+neuter
+282278	feminine
+282281	masculine
+neuter
+masculine
+282287	masculine
+282295	feminine
+282306	feminine
 masculine
 282314	masculine
-282328	masculine
-282332	feminine
-282343	feminine
-282349	masculine
-282358	neuter
-282361	neuter
+282319	neuter
+neuter
+282334	masculine
 masculine
-282373	neuter
-282376	neuter
-282384	masculine
-282386	masculine
-282391	masculine
-masculine
-282397	feminine
-masculine
-282413	masculine
-masculine
-282425	neuter
-282434	masculine
-282442	neuter
-282447	masculine
-282452	neuter
-282456	masculine
-282460	masculine
-282465	masculine
-282471	feminine
-282481	masculine
-282492	masculine
-282495	masculine
-282502	masculine
-282506	masculine
-282510	masculine
-282513	masculine
-282523	masculine
-282543	masculine
+282342	masculine
+282358	masculine
+282366	neuter
+282369	neuter
+282371	neuter
+282375	neuter
+282398	feminine
+282405	neuter
+282412	feminine
+282430	neuter
+282439	feminine
+282441	feminine
+282448	neuter
+282459	feminine
+282477	masculine
+282481	feminine
+282497	feminine
+282500	masculine
+282529	masculine
+282531	masculine
+282539	neuter
 282547	masculine
-282560	masculine
+282556	masculine
 masculine
-282564	feminine
+282577	masculine
+282582	masculine
+282585	masculine
+282590	masculine
 masculine
-masculine
-282576	masculine
-282584	masculine
-282587	masculine
-282595	masculine
-282597	masculine
-282621	neuter
-282626	neuter
-282629	masculine
-282653	masculine
-282657	masculine
-282660	masculine
-282663	masculine
-282671	masculine
-282679	masculine
-282692	masculine
-282699	masculine
-masculine
-282703	masculine
-282705	masculine
-masculine
-282715	masculine
-282718	masculine
-282737	masculine
-282742	masculine
+282598	masculine
+282614	masculine
+282619	masculine
+282624	masculine
+282631	feminine
+282639	masculine
+282645	neuter
+282647	neuter
+282662	masculine
+282669	masculine
+282674	masculine
+282681	neuter
+282687	masculine
+282709	neuter
+282719	masculine
+282726	masculine
+282732	neuter
+282738	masculine
 282745	masculine
-282749	masculine
-282751	masculine
-282754	masculine
-masculine
-282765	feminine
-282774	masculine
-feminine
-282778	neuter
-282782	masculine
-282786	masculine
-282802	masculine
-282807	masculine
-282819	masculine
-282826	masculine
-282831	masculine
-282838	masculine
-282847	masculine
-282860	neuter
-282862	feminine
-282866	masculine
-feminine
-masculine
-282870	neuter
-282872	neuter
-282881	neuter
-feminine
-282892	masculine
-masculine
+282748	masculine
+282768	masculine
+282811	masculine
+282818	neuter
+282825	masculine
+282853	masculine
+282857	neuter
+282863	masculine
+282875	feminine
+282883	masculine
+282888	masculine
+282890	masculine
+282894	masculine
 282898	masculine
-feminine
 282904	masculine
-282908	masculine
+282909	masculine
+282915	neuter
+282923	neuter
+282935	feminine
+282938	feminine
 masculine
-282912	masculine
-282917	masculine
-282930	masculine
-282941	masculine
-282953	feminine
-feminine
-282969	masculine
-282975	feminine
-282999	neuter
-283003	neuter
-283012	feminine
-283015	feminine
-feminine
-283020	feminine
-283023	masculine
+282945	neuter
+282949	masculine
+282954	neuter
+282961	feminine
+282964	masculine
+282977	neuter
+282982	neuter
+282991	neuter
+282999	feminine
+283010	masculine
+283016	masculine
+283038	masculine
 masculine
-feminine
-283029	feminine
-283032	feminine
-283036	masculine
-283042	masculine
-feminine
-283055	masculine
-283058	masculine
+283046	neuter
+283052	masculine
+masculine
+283057	masculine
+283062	masculine
+283067	masculine
+283069	masculine
+masculine
+283073	masculine
+283085	masculine
+283091	feminine
+283097	masculine
+283101	masculine
+283104	masculine
+283107	masculine
 neuter
-283062	feminine
-283064	neuter
-283066	masculine
-283071	feminine
-283075	masculine
-283077	feminine
-283086	neuter
-283089	masculine
-283096	neuter
-283098	feminine
-283101	feminine
+masculine
+283112	masculine
 283114	masculine
-neuter
 283117	masculine
 masculine
-283129	masculine
-283147	masculine
-283151	masculine
-283163	masculine
-283166	neuter
-283169	masculine
-283176	neuter
-283178	masculine
-283186	masculine
-283192	masculine
-283199	masculine
-283201	feminine
-masculine
-283204	neuter
-283211	masculine
-283213	masculine
-283223	feminine
-283227	neuter
-283232	neuter
-283250	masculine
-283254	masculine
-283256	masculine
-masculine
-283263	masculine
-283265	masculine
+283120	masculine
+283140	masculine
+283143	feminine
+283159	neuter
+283172	masculine
 feminine
-283272	masculine
-feminine
-283275	feminine
-283286	masculine
-283290	masculine
-283295	masculine
-283304	masculine
-283311	masculine
+283180	masculine
+283184	feminine
+283187	feminine
+283191	masculine
+283194	masculine
+283205	masculine
+283209	neuter
+283215	neuter
+283218	masculine
+283235	masculine
+283240	masculine
+283243	masculine
+283254	feminine
+283259	masculine
+283271	masculine
+283281	feminine
 masculine
-283314	masculine
-283316	masculine
-283319	masculine
-283329	feminine
-283333	neuter
-283347	masculine
-283349	feminine
-283352	masculine
-283358	masculine
-283361	neuter
-283363	neuter
+283294	neuter
+283321	masculine
+283328	neuter
 masculine
-283373	masculine
-283379	masculine
-283384	feminine
-283394	masculine
-283405	masculine
-283415	feminine
-283417	neuter
-283419	neuter
-283436	masculine
-283443	masculine
-283491	neuter
-283493	neuter
-283496	masculine
-283512	masculine
-283538	feminine
+283334	feminine
+283339	neuter
+283353	feminine
+283366	masculine
+283369	feminine
+283372	masculine
+283378	masculine
+283388	neuter
+283391	masculine
+283412	neuter
+283416	masculine
+283422	neuter
+283431	neuter
+283435	neuter
+283449	neuter
+283452	masculine
+283455	masculine
+283463	masculine
+283473	masculine
+283479	masculine
+283483	masculine
+283501	masculine
+283503	masculine
+283513	masculine
+283521	masculine
+283527	feminine
 283555	masculine
-283559	masculine
-283563	masculine
-283571	masculine
-283573	masculine
-masculine
+283566	masculine
+283574	masculine
 283576	masculine
+masculine
 283582	masculine
-283584	masculine
-283587	feminine
-283603	masculine
-283606	masculine
-283616	masculine
+283597	masculine
+283615	masculine
 283618	masculine
+283627	masculine
+283635	feminine
+283640	feminine
+283644	masculine
+283659	feminine
+283667	masculine
+283674	masculine
+283688	feminine
+283691	masculine
+283699	masculine
 masculine
-283621	masculine
-283625	masculine
-283641	masculine
-283648	neuter
+283705	masculine
+283714	masculine
+283718	masculine
+283721	masculine
+283724	masculine
+283735	masculine
+283742	masculine
+283744	masculine
+283752	masculine
 masculine
-masculine
-283655	masculine
-283673	masculine
-283675	masculine
-feminine
-283694	masculine
-283697	feminine
-283710	masculine
-283742	feminine
-283746	masculine
-283763	masculine
-283774	masculine
-283804	neuter
-283819	masculine
-283823	neuter
-masculine
-283826	masculine
-283828	masculine
-283836	masculine
-283838	feminine
-283844	neuter
+283755	masculine
+283772	feminine
+283784	feminine
+283789	neuter
+283795	feminine
+283799	feminine
+283803	masculine
+283805	masculine
+283809	masculine
+283811	masculine
+283816	masculine
+283818	masculine
+283826	neuter
+283837	neuter
+283844	masculine
 283846	masculine
-283880	feminine
-neuter
-283885	masculine
-283893	masculine
-283896	feminine
+283866	feminine
+283869	feminine
+283879	masculine
+283888	masculine
+283890	masculine
+283892	masculine
+283898	feminine
+283905	feminine
+283919	masculine
 283924	masculine
-masculine
-283938	masculine
-283942	masculine
-283949	feminine
-masculine
-283959	masculine
-283970	feminine
-283972	masculine
-283978	masculine
+283931	neuter
+283939	masculine
+283947	feminine
+283950	feminine
+283954	neuter
+283967	neuter
+283973	neuter
+283977	masculine
 283981	masculine
-283984	masculine
-283987	masculine
-283991	masculine
-feminine
-283995	masculine
-284000	neuter
-neuter
+283989	feminine
 masculine
-284012	feminine
-284017	masculine
-284020	masculine
-284032	masculine
-284038	masculine
-masculine
-masculine
-masculine
-masculine
-284045	masculine
-284059	masculine
-284077	masculine
-284082	masculine
-284085	masculine
-284096	masculine
-284098	masculine
-284104	masculine
-feminine
-284108	masculine
-284110	masculine
-284115	masculine
-284127	masculine
-284135	masculine
-284137	masculine
-284141	masculine
-284145	masculine
+284002	feminine
+284012	masculine
+284019	masculine
+284023	masculine
+284028	masculine
+284051	feminine
+284065	masculine
+284072	neuter
+284074	neuter
+284084	masculine
+284094	masculine
+284099	feminine
+284129	masculine
+284132	feminine
+284140	feminine
+284144	masculine
+284147	feminine
 284152	masculine
 284154	feminine
-masculine
-284157	feminine
-284160	masculine
-284162	masculine
-284165	masculine
-masculine
-284172	masculine
-284178	neuter
-neuter
-284184	masculine
-284186	masculine
-284192	masculine
-284195	feminine
-masculine
-284202	masculine
-284206	masculine
-284209	masculine
-284213	masculine
-284216	feminine
-feminine
-masculine
+284161	feminine
+284176	masculine
+284178	masculine
+284180	masculine
+284187	masculine
+284191	neuter
+284197	masculine
+284200	masculine
+284205	masculine
+284208	masculine
+284211	masculine
 284220	masculine
-284223	masculine
 284230	masculine
-284240	neuter
-284245	masculine
-284252	feminine
+284234	masculine
+284237	masculine
+284239	masculine
+284246	neuter
 masculine
-284260	masculine
-284266	masculine
-284268	masculine
-feminine
+284279	masculine
+284283	masculine
+284296	masculine
 masculine
-masculine
-masculine
-284274	masculine
-284276	masculine
-284278	masculine
-284280	masculine
-284286	masculine
-284297	neuter
-284300	masculine
-284303	masculine
-284305	neuter
+284299	masculine
 284307	neuter
-284310	masculine
-284317	masculine
-284322	feminine
+284315	neuter
 masculine
-284326	masculine
-284331	masculine
-masculine
-284337	feminine
-feminine
-284343	masculine
-284357	masculine
-284370	neuter
 neuter
+284319	neuter
+284324	neuter
 masculine
-284378	masculine
-284384	masculine
-284386	masculine
-284394	feminine
-284398	neuter
-284405	masculine
-neuter
+284330	masculine
+284333	masculine
+284340	neuter
 masculine
-masculine
-284412	feminine
-284417	feminine
-284424	neuter
-masculine
-284436	neuter
-masculine
-284450	masculine
-284463	masculine
-284466	masculine
+284350	masculine
+284354	neuter
+284358	masculine
 feminine
-284473	masculine
-masculine
-284477	masculine
-284490	neuter
-284492	neuter
-284504	neuter
-masculine
+284369	neuter
+284372	masculine
+284376	masculine
+284379	masculine
+284383	masculine
+284389	masculine
+284394	masculine
+284398	masculine
+284402	masculine
+284418	feminine
+284420	neuter
+284441	feminine
+284459	masculine
+284462	masculine
+284468	masculine
+284470	masculine
+284477	feminine
+284481	masculine
+284486	feminine
+284494	masculine
+284503	masculine
+284513	masculine
+284518	masculine
+284520	neuter
 284522	masculine
 masculine
-284526	neuter
-neuter
-284539	feminine
-284542	masculine
-neuter
-masculine
-284548	masculine
-284556	feminine
+284526	masculine
+284529	masculine
+284534	masculine
+284538	masculine
+284557	masculine
+feminine
+284560	feminine
+284564	neuter
 284567	feminine
+284572	masculine
+284574	feminine
+284577	feminine
+284580	feminine
+284590	masculine
+284602	masculine
 masculine
-284575	masculine
-284580	neuter
-284582	neuter
-284596	masculine
-masculine
-284604	masculine
+284605	neuter
+284610	neuter
 284620	masculine
-284628	neuter
-284631	neuter
-284633	neuter
-284637	neuter
-284661	feminine
-284668	neuter
-284675	feminine
-284693	neuter
-284702	feminine
-284705	feminine
-284712	neuter
-284724	feminine
-284742	masculine
-284746	feminine
-284763	feminine
-284766	masculine
-284797	masculine
-284799	masculine
-284807	neuter
-284815	masculine
-284824	masculine
+284638	masculine
+284645	masculine
+284647	masculine
 masculine
-284845	masculine
-284850	masculine
-284853	masculine
-284858	masculine
+284653	feminine
+284659	neuter
+neuter
+284664	neuter
+284668	masculine
+284680	masculine
+284683	masculine
+284689	feminine
+284701	neuter
+284707	neuter
+284711	masculine
+284718	masculine
+284723	neuter
 masculine
-284867	masculine
+neuter
+284729	masculine
+284733	neuter
+284753	masculine
+284755	masculine
+284758	masculine
+neuter
+284761	masculine
+284764	masculine
+masculine
+masculine
+284772	masculine
+masculine
+284777	masculine
+284790	masculine
+284793	masculine
+masculine
+284798	masculine
+284804	masculine
+284808	masculine
+284812	masculine
+284818	masculine
+284842	feminine
+284844	masculine
+284849	neuter
+284855	masculine
+284862	masculine
+284872	neuter
+284874	masculine
+284876	masculine
+284878	masculine
 284883	masculine
-284888	masculine
-284893	masculine
-284901	feminine
-284910	masculine
-284916	neuter
-284918	neuter
-284933	masculine
-284940	masculine
-284945	masculine
-284952	neuter
-284959	masculine
-284981	neuter
-284991	masculine
+284885	neuter
+284889	masculine
+284902	masculine
+284906	masculine
+284911	neuter
+284934	masculine
+284937	masculine
+284954	masculine
+284971	masculine
+284975	masculine
+masculine
 284998	masculine
-285004	neuter
-285010	masculine
-285017	masculine
-285020	masculine
-285040	masculine
-285083	masculine
-285090	neuter
-285099	masculine
-285127	masculine
-285131	neuter
-285137	masculine
-285149	feminine
-285157	masculine
-285162	masculine
-285164	masculine
-285168	masculine
+285002	masculine
+285021	feminine
+feminine
+285042	feminine
+neuter
+285069	feminine
+285073	masculine
+285084	masculine
+masculine
+285087	masculine
+285097	feminine
+285099	neuter
+neuter
+285102	feminine
+285112	masculine
+285116	feminine
+285124	masculine
+285136	feminine
+285149	masculine
+285161	masculine
 285172	masculine
-285178	masculine
-285183	masculine
-285189	neuter
-285197	neuter
-285209	feminine
-285213	feminine
+285176	masculine
+285195	neuter
+285198	neuter
+285201	neuter
+285210	masculine
+285238	neuter
+285241	masculine
+285247	masculine
+285268	masculine
+285272	masculine
 masculine
-285220	neuter
-285224	masculine
-285230	neuter
-285237	feminine
-285240	masculine
-285254	neuter
-285259	neuter
-285268	neuter
-285276	feminine
-285288	masculine
-285294	masculine
-285317	masculine
 masculine
-285325	neuter
-285331	masculine
+285281	masculine
 masculine
-285336	masculine
-285342	masculine
-285347	masculine
-285349	masculine
-masculine
-285353	masculine
-285365	masculine
-285371	feminine
-285377	masculine
-285381	masculine
-285384	masculine
-285387	masculine
+285284	feminine
+285330	neuter
+285336	neuter
+285339	masculine
 neuter
+285342	neuter
+285346	masculine
+285348	masculine
+285354	neuter
+285367	neuter
+285373	masculine
+285375	masculine
+285386	masculine
+285393	masculine
 masculine
-285392	masculine
-285394	masculine
-285397	masculine
-masculine
-285400	masculine
+285396	masculine
+285403	neuter
+285405	neuter
 285421	masculine
-285424	feminine
-285440	neuter
-285454	masculine
+285429	masculine
+neuter
+285432	neuter
+285436	masculine
+285450	neuter
+285452	masculine
+285484	masculine
+285493	neuter
+285497	masculine
+285500	masculine
+285504	neuter
+285510	neuter
+285516	masculine
+285528	neuter
+285537	masculine
+neuter
+285540	neuter
+285544	masculine
+285546	masculine
+285549	neuter
+285552	masculine
+285560	neuter
+neuter
+masculine
+285566	masculine
+285574	neuter
+285580	masculine
+285589	masculine
+neuter
+285611	neuter
+285621	feminine
 feminine
-285462	masculine
-285466	feminine
-285470	feminine
-285474	masculine
-285477	masculine
-285488	masculine
-285492	neuter
-285498	neuter
-285501	masculine
-285518	masculine
-285523	masculine
-285526	masculine
-285537	feminine
-285542	masculine
-285555	masculine
-285565	feminine
+feminine
+285633	neuter
+285636	feminine
 masculine
-285578	neuter
-285606	masculine
-285613	neuter
-masculine
-285620	feminine
-285625	neuter
-285639	feminine
-285653	masculine
-285656	feminine
-285659	masculine
-285665	masculine
-285676	neuter
-285679	masculine
-285702	neuter
-285706	masculine
-285713	neuter
-285722	neuter
-285727	neuter
-285741	neuter
+285649	feminine
+285652	masculine
+285674	masculine
+285690	masculine
+285695	masculine
+285708	neuter
+285712	masculine
+285716	masculine
+285718	masculine
+285723	masculine
+285729	masculine
 285744	masculine
-285747	masculine
-285755	masculine
-285765	masculine
-285771	masculine
-285775	masculine
-285793	masculine
-285795	masculine
-285805	masculine
-285813	masculine
-285819	feminine
-285847	masculine
-285858	masculine
-285866	masculine
-285868	masculine
-masculine
-285874	masculine
+285748	masculine
+neuter
+285751	neuter
+285762	neuter
+285764	masculine
+285776	neuter
+285780	masculine
+285786	neuter
+285793	neuter
+285824	neuter
+285834	masculine
+285836	masculine
+285862	masculine
+neuter
+285865	neuter
+285876	neuter
+285883	masculine
+285887	masculine
 285889	masculine
-285908	masculine
-285911	masculine
-285920	masculine
-285929	feminine
-285934	feminine
-285938	masculine
-285953	feminine
-285961	masculine
-285968	masculine
-285982	feminine
-285985	masculine
-285993	masculine
+285893	masculine
+285895	masculine
+285904	feminine
+285906	masculine
+285929	masculine
 masculine
-286000	masculine
-286009	masculine
-286013	masculine
-286017	masculine
-286021	masculine
-286032	masculine
-286039	masculine
-286041	masculine
-286049	masculine
 masculine
-286052	masculine
-286070	feminine
-286082	feminine
-286087	neuter
-286094	feminine
-286098	feminine
-286103	masculine
-286105	masculine
-286109	masculine
-286111	masculine
-286117	masculine
-286119	masculine
-286127	neuter
-286138	neuter
-286145	masculine
-286147	masculine
-286169	feminine
-286172	feminine
-286182	masculine
-286191	masculine
-286193	masculine
-286195	masculine
-286202	feminine
-286209	feminine
-286223	masculine
-286228	masculine
-286235	neuter
-286243	masculine
-286251	feminine
-286255	feminine
-286260	neuter
-286274	neuter
-286281	neuter
-286286	masculine
-286290	masculine
-286298	feminine
+285940	masculine
+285968	feminine
+285974	masculine
+285978	neuter
+285980	neuter
+285983	masculine
+285987	masculine
+285989	masculine
 masculine
-286311	feminine
-286321	masculine
-286328	masculine
-286332	masculine
-286337	masculine
-286360	feminine
-286374	masculine
-286381	neuter
-286383	neuter
+286020	feminine
+286031	masculine
+neuter
+286034	neuter
+286045	neuter
+286073	masculine
+286089	masculine
+286113	neuter
+286130	neuter
+286137	masculine
+286153	masculine
+286167	masculine
+286169	masculine
+286171	masculine
+286189	masculine
+neuter
+286192	neuter
+286200	feminine
+feminine
+286208	feminine
+286212	feminine
+286214	masculine
+286221	neuter
+286230	masculine
+286238	masculine
+286241	masculine
+masculine
+feminine
+286251	masculine
+feminine
+masculine
+286265	masculine
+masculine
+286284	feminine
+286287	neuter
+286300	feminine
+masculine
+286312	neuter
+masculine
+286320	neuter
+masculine
+286325	neuter
+masculine
+286330	masculine
+286338	neuter
+286340	masculine
+286347	masculine
+286353	masculine
+286355	feminine
+286360	masculine
+286370	masculine
+286372	masculine
+286381	masculine
+286384	masculine
 286394	masculine
-286404	masculine
-286409	feminine
-286441	masculine
-286444	feminine
-286452	feminine
-286456	masculine
-286459	feminine
-286464	masculine
-286466	feminine
-286473	feminine
-286488	masculine
-286490	masculine
-286492	masculine
-286499	masculine
-286503	neuter
-286509	masculine
-286512	masculine
-286517	masculine
-286520	masculine
-286523	masculine
-286533	masculine
-286543	masculine
-286547	masculine
-286550	masculine
-286552	masculine
-286559	neuter
+286400	masculine
+286411	masculine
 masculine
-286593	masculine
-286597	masculine
-286612	masculine
+286442	masculine
+286447	neuter
+286450	neuter
+286455	masculine
+286458	masculine
 masculine
-286615	masculine
-286623	neuter
-286631	neuter
-masculine
+286484	neuter
+286487	neuter
+286496	neuter
+286537	neuter
 neuter
-286635	neuter
-286640	neuter
-286643	masculine
-286648	masculine
-286651	masculine
+286540	neuter
+masculine
+286546	masculine
+286553	masculine
+286564	masculine
+286581	masculine
+masculine
+286587	feminine
+feminine
+286596	masculine
+masculine
+286622	masculine
+286652	masculine
+286654	masculine
 286658	neuter
-masculine
-286668	masculine
-286672	neuter
-286676	masculine
-feminine
-286688	neuter
+286670	neuter
+286689	masculine
 286691	masculine
-286696	masculine
-286699	masculine
-286703	masculine
-286709	masculine
-286714	masculine
-286718	masculine
-286722	masculine
-286738	feminine
-286740	neuter
-286761	feminine
-286779	masculine
+286733	neuter
+286746	masculine
+286748	masculine
+neuter
+286753	masculine
+masculine
+286758	masculine
+286771	neuter
+286778	masculine
 286782	masculine
-286788	masculine
-286790	masculine
-286797	feminine
-286801	masculine
-286806	feminine
-286814	masculine
-286823	masculine
-286833	masculine
-286839	masculine
-286841	neuter
-286843	masculine
+286789	masculine
+286793	masculine
+286804	neuter
+286813	masculine
+286815	masculine
 masculine
-286847	masculine
-286850	masculine
-286855	masculine
-286859	masculine
-286878	masculine
+286823	feminine
+286828	feminine
+286832	neuter
+286836	neuter
+286854	neuter
+286864	masculine
+286866	neuter
+masculine
+286875	masculine
 feminine
-286881	feminine
-286885	neuter
-286888	feminine
-286893	masculine
-286895	feminine
-286898	feminine
-286901	feminine
-286912	masculine
-286924	masculine
-masculine
-286927	neuter
-286932	neuter
-286943	masculine
-286961	masculine
-286969	masculine
-286971	masculine
-masculine
-286977	feminine
-286983	neuter
+286903	masculine
+286912	feminine
+286917	masculine
+286930	masculine
+286939	masculine
+286954	masculine
+286972	masculine
+286990	feminine
+286996	feminine
+287001	neuter
 neuter
-286988	neuter
-286993	masculine
-287005	masculine
-287008	masculine
-287014	feminine
-287027	neuter
-287034	neuter
-287038	masculine
-287045	masculine
-287050	neuter
-masculine
-neuter
-287056	masculine
-287060	neuter
-287080	masculine
+287029	masculine
+287052	masculine
+287070	masculine
+287076	masculine
 287082	masculine
-287085	masculine
-neuter
-287088	masculine
-287091	masculine
-masculine
-masculine
-287099	masculine
-masculine
-287104	masculine
-287117	masculine
-287120	masculine
-masculine
-287125	masculine
-287131	masculine
-287135	masculine
-287139	masculine
+287090	masculine
+287103	masculine
+287106	masculine
+287109	masculine
+287122	masculine
 287145	masculine
-287170	feminine
-287172	masculine
-287177	neuter
-287183	masculine
+287149	masculine
+287157	masculine
 287191	masculine
-287202	neuter
-287204	masculine
-287206	masculine
-287208	masculine
-287213	masculine
-287215	neuter
-287219	masculine
-287232	masculine
-287236	masculine
-287242	neuter
-287266	masculine
-287269	masculine
+287200	masculine
+287207	masculine
+287214	masculine
+287217	masculine
+287224	masculine
+287230	masculine
+287258	masculine
 287286	masculine
-287303	masculine
-287307	masculine
-masculine
-287332	masculine
-287336	masculine
-287355	feminine
-feminine
-287376	feminine
-neuter
-287404	feminine
-287408	masculine
+287290	masculine
+287294	masculine
+287301	masculine
+287309	masculine
+287311	masculine
+287323	feminine
+287338	masculine
+287345	masculine
+287374	masculine
+287377	masculine
+287395	feminine
+287403	masculine
+287409	masculine
 287419	masculine
-masculine
-287422	masculine
-287433	feminine
-287435	neuter
+287423	masculine
+287458	masculine
+287477	masculine
+287481	masculine
+287491	neuter
+287520	neuter
 neuter
-287438	feminine
-287448	masculine
-287452	feminine
-287461	masculine
-287473	feminine
-287487	masculine
-287499	masculine
-287510	masculine
-287514	masculine
-287533	neuter
-287536	neuter
-287539	neuter
-287549	masculine
-287577	neuter
-287580	masculine
-287586	masculine
-287607	masculine
-287611	masculine
-masculine
-masculine
-287620	masculine
-masculine
-287623	feminine
-287669	neuter
-287676	neuter
-287679	masculine
-neuter
-287682	neuter
-287686	masculine
-287688	masculine
-287695	neuter
-287708	neuter
-287715	masculine
-287717	masculine
-287728	masculine
-287735	masculine
-masculine
-287738	masculine
-287745	neuter
-287747	neuter
-287763	masculine
-287771	masculine
-neuter
-287774	neuter
+287530	neuter
+287541	neuter
+feminine
+287557	masculine
+287559	feminine
+287629	masculine
+287631	masculine
+287634	masculine
+287646	masculine
+287654	masculine
+287657	masculine
+287662	masculine
+287676	masculine
+287696	feminine
+287701	masculine
+feminine
+287705	feminine
+287711	masculine
+287726	masculine
+287736	masculine
+287740	masculine
+287753	masculine
+287765	masculine
 287778	masculine
-287792	neuter
-287794	masculine
-287828	masculine
-287838	neuter
-287842	masculine
-287846	masculine
-287850	neuter
-287856	neuter
-287862	masculine
-287874	neuter
-287883	masculine
-neuter
-287886	neuter
-287890	masculine
-287892	masculine
-287895	neuter
-287898	masculine
-287907	neuter
-neuter
+287780	masculine
+287788	masculine
 masculine
-287913	masculine
-287921	neuter
-287927	masculine
-287936	masculine
-neuter
-287958	neuter
-287968	feminine
+287825	masculine
+287830	feminine
+masculine
+287850	masculine
+287854	neuter
+287856	masculine
+287884	masculine
+287888	masculine
+287894	masculine
+287905	masculine
+287933	masculine
+287935	masculine
+287971	neuter
+287991	feminine
+masculine
 feminine
 feminine
-287980	neuter
-287983	feminine
-masculine
-287996	feminine
-287999	masculine
-288021	masculine
-288039	masculine
-288044	masculine
-288057	neuter
-288061	masculine
+288002	masculine
+288033	neuter
+288062	masculine
 288065	masculine
-288067	masculine
-288072	masculine
-288078	masculine
-288093	masculine
-288097	masculine
-neuter
-288100	neuter
-288111	neuter
-288113	masculine
-288125	neuter
-288129	masculine
-288137	neuter
-288144	neuter
-288176	neuter
-288186	masculine
-288188	masculine
-288214	masculine
-neuter
-288217	neuter
-288228	neuter
+feminine
+288087	masculine
+288092	neuter
+288110	masculine
+288129	feminine
+288132	feminine
+288135	neuter
+288141	neuter
+288145	masculine
+288147	masculine
+288164	masculine
+288169	masculine
+288190	masculine
+288216	feminine
+288221	feminine
+288224	feminine
+288229	neuter
 288235	masculine
-288239	masculine
-288241	masculine
-288245	masculine
-288247	masculine
-288257	feminine
-288259	masculine
-288282	masculine
+288246	masculine
 masculine
+288259	neuter
+288270	neuter
+288272	neuter
+288283	neuter
+288291	neuter
+288295	neuter
+288314	masculine
+feminine
 masculine
-288293	masculine
-288322	feminine
 288328	masculine
-288332	neuter
-288334	neuter
-288337	masculine
-288341	masculine
-288343	masculine
+288340	feminine
+288362	masculine
 masculine
-288374	feminine
-288385	masculine
-neuter
-288388	neuter
-288399	neuter
-288428	masculine
-288445	masculine
-288469	neuter
-288486	neuter
-288493	masculine
-288510	masculine
-288524	masculine
-288526	masculine
-288528	masculine
-288546	masculine
-neuter
-288549	neuter
-288557	feminine
+masculine
+288377	masculine
+288380	masculine
+masculine
+288384	neuter
+288395	masculine
+288397	masculine
+288401	masculine
+288403	masculine
+288410	masculine
+288417	feminine
+288422	neuter
+288438	neuter
+288443	masculine
+288447	masculine
+288450	masculine
+288460	feminine
+288491	masculine
+288499	neuter
+288501	masculine
+288507	masculine
+288530	masculine
+masculine
+288537	feminine
+masculine
+288549	masculine
+288575	masculine
+288579	feminine
+288592	neuter
+288602	masculine
+288627	masculine
+288638	masculine
+288647	masculine
+288683	masculine
+288692	masculine
+288728	feminine
 feminine
-288566	feminine
-288570	feminine
-288572	masculine
-288579	neuter
-288588	masculine
-288596	masculine
-288599	masculine
+288744	feminine
+288748	feminine
+288750	feminine
+288762	masculine
+288784	masculine
+288793	feminine
+288804	masculine
+288831	masculine
+288837	feminine
+288842	masculine
+288880	masculine
+288884	masculine
+288901	feminine
+288925	masculine
 masculine
-feminine
-288609	masculine
-feminine
-masculine
-288623	masculine
-masculine
-288642	feminine
-288645	neuter
-288658	feminine
-masculine
-288670	neuter
-masculine
-288678	neuter
-masculine
-288683	neuter
-masculine
-288688	masculine
-288696	neuter
-288698	masculine
-288705	masculine
-288711	masculine
-288713	feminine
-288718	masculine
-288728	masculine
-288730	masculine
-288740	masculine
-288743	masculine
-288753	masculine
-288759	masculine
-288770	masculine
-masculine
-288801	masculine
-288806	neuter
-288809	neuter
-288814	masculine
-288817	masculine
-masculine
-288843	neuter
-288846	neuter
-288855	neuter
-288896	neuter
-neuter
-288899	neuter
-masculine
-288906	masculine
-288913	masculine
-288924	masculine
-288942	masculine
-masculine
-288948	feminine
-288950	feminine
+288933	masculine
+288935	masculine
 288958	masculine
-288960	masculine
-288985	masculine
-289016	masculine
-289018	masculine
-289022	neuter
-289035	neuter
-289054	masculine
-289056	masculine
-289099	neuter
-289112	masculine
-289114	masculine
+288968	masculine
+288970	masculine
+288984	feminine
+289021	neuter
+289023	masculine
+289025	feminine
+feminine
+289041	masculine
+289055	masculine
+289062	masculine
+289067	masculine
+289080	neuter
 neuter
-289119	masculine
-masculine
-289124	masculine
-289138	neuter
-289145	masculine
-289149	masculine
-289156	masculine
+neuter
+289100	neuter
+289103	neuter
+feminine
+289119	neuter
+289135	feminine
 289160	masculine
+289162	masculine
+masculine
+289166	masculine
 289172	neuter
-289181	masculine
-289183	masculine
-masculine
-289191	feminine
-289196	feminine
-289200	neuter
-289204	neuter
-289223	neuter
-289233	masculine
-289235	neuter
-masculine
-289244	masculine
+289174	neuter
+289179	neuter
 feminine
-289273	masculine
-289283	feminine
-289288	masculine
-289301	masculine
-289310	masculine
-289325	masculine
+289202	masculine
+289205	neuter
+289207	masculine
+289212	masculine
+289215	neuter
+feminine
+289224	masculine
+289226	masculine
+289241	neuter
+289245	masculine
+289247	neuter
+289250	masculine
+289255	masculine
+289259	masculine
+289273	neuter
+289284	masculine
+289299	masculine
+289305	neuter
+289316	neuter
+289327	masculine
+289332	neuter
+289334	neuter
+289338	masculine
+masculine
+289343	feminine
 289345	masculine
-289363	feminine
-289369	feminine
-289374	neuter
+289354	neuter
+289356	neuter
+289370	masculine
+289397	masculine
 neuter
-289402	masculine
-289426	masculine
-289444	masculine
-289450	masculine
-289456	masculine
-289464	masculine
-289477	masculine
-289480	masculine
-289483	masculine
-289497	masculine
-289521	masculine
-289525	masculine
-289534	masculine
+289412	masculine
+289420	masculine
+289435	masculine
+masculine
+289453	neuter
+289462	feminine
+289471	neuter
+289477	feminine
+289490	feminine
+289494	masculine
+masculine
+289513	masculine
+289523	masculine
+289526	masculine
+289528	masculine
+289532	feminine
+289535	masculine
+masculine
+289540	masculine
+289555	neuter
+masculine
+289561	masculine
+289563	masculine
 289568	masculine
-289578	masculine
+289577	masculine
 289585	masculine
-289592	masculine
+feminine
 289595	masculine
-289602	masculine
-289608	masculine
-289636	masculine
-289664	masculine
-289668	masculine
-289672	masculine
-289679	masculine
-289687	masculine
-289689	masculine
-289701	feminine
-289716	masculine
-289723	masculine
-289752	masculine
+289607	masculine
+289612	feminine
+289627	masculine
+masculine
+289633	masculine
+289642	neuter
+289660	masculine
+masculine
+289689	feminine
+289693	masculine
+289701	masculine
+289713	masculine
+289723	feminine
+289726	feminine
+289728	masculine
+289732	masculine
 289755	masculine
-289774	feminine
-289783	masculine
-289789	masculine
-289799	masculine
-289804	masculine
-289839	masculine
-289858	masculine
-289862	masculine
-289872	neuter
-289901	neuter
-neuter
-289911	neuter
-289922	neuter
+289759	masculine
+289774	masculine
+289777	masculine
+289796	masculine
+289815	masculine
+289824	masculine
 feminine
+289831	masculine
+289835	masculine
+289882	neuter
+289902	masculine
+289917	feminine
+neuter
+289920	masculine
+289934	masculine
 289939	masculine
-289941	feminine
+289955	masculine
+289971	masculine
+289974	masculine
+289980	masculine
+masculine
 290012	masculine
-290014	masculine
-290017	masculine
-290029	masculine
-290037	masculine
-290040	masculine
-290045	masculine
-290059	masculine
-290079	feminine
-290084	masculine
-feminine
-290088	feminine
-290094	masculine
-290111	masculine
-290121	masculine
-290125	masculine
-290138	masculine
-290150	masculine
+290018	masculine
+290022	masculine
+290037	feminine
+290042	masculine
+290050	masculine
+290061	masculine
+290078	feminine
+290110	masculine
+290115	masculine
+290152	neuter
+290158	masculine
+masculine
 290163	masculine
-290165	masculine
-290174	masculine
+290168	neuter
+290177	neuter
 masculine
-290211	masculine
-290217	feminine
+290181	masculine
+290186	masculine
+290205	masculine
+290220	masculine
+290229	masculine
+feminine
+290244	feminine
+290321	neuter
+neuter
+neuter
+290331	masculine
+290345	masculine
 masculine
-290238	masculine
-290242	neuter
-290244	masculine
-290272	masculine
-290276	masculine
-290282	masculine
-290293	masculine
-290321	masculine
-290323	masculine
-290359	neuter
-290379	feminine
 masculine
-feminine
-feminine
-290391	masculine
-290423	neuter
-290452	masculine
-290455	masculine
-feminine
+290349	masculine
+290355	masculine
+290363	masculine
+290367	masculine
+290369	neuter
+290384	feminine
+290394	masculine
+290398	masculine
+masculine
+290405	masculine
+290425	feminine
+290438	neuter
+290459	feminine
+290471	masculine
 290477	masculine
-290482	neuter
-290500	masculine
-290521	feminine
-290524	feminine
-290527	neuter
-290533	neuter
-290538	masculine
-290540	masculine
-290558	masculine
-290563	masculine
+290487	feminine
+290497	masculine
+290511	feminine
+feminine
+290517	neuter
+290519	masculine
+290527	feminine
+290531	feminine
+290536	feminine
+290542	neuter
+290555	neuter
+290570	feminine
 290584	masculine
-290611	feminine
-290616	feminine
-290619	feminine
-290625	neuter
+feminine
+290604	neuter
+feminine
+neuter
+290614	neuter
 290631	masculine
-290642	masculine
-masculine
-290655	neuter
-290666	neuter
-290668	neuter
-290679	neuter
-290687	neuter
-290691	neuter
-290711	masculine
+290644	masculine
+290656	masculine
 feminine
+290680	neuter
 masculine
-290725	masculine
-290737	feminine
-290759	masculine
-masculine
-masculine
+290686	neuter
+290693	masculine
+290705	neuter
+290709	masculine
+feminine
+290714	feminine
+290721	masculine
+290731	masculine
+290738	masculine
+290756	neuter
+290770	neuter
 290774	masculine
-290778	masculine
-masculine
-290782	neuter
-290794	masculine
-290796	masculine
-290800	masculine
-290803	masculine
-290810	masculine
-290817	feminine
-290822	neuter
-290840	neuter
-290845	masculine
+290780	feminine
+290782	feminine
+290790	feminine
+290818	feminine
+290825	feminine
+feminine
+290834	masculine
+290837	masculine
 290849	masculine
-290852	masculine
-290864	feminine
-290895	masculine
-290903	neuter
-290905	masculine
-290911	masculine
-290934	masculine
-masculine
-290941	feminine
-masculine
-290953	masculine
-290979	masculine
-290983	feminine
-290996	neuter
-291006	masculine
-291031	masculine
-291042	masculine
-291052	masculine
-291089	masculine
-291098	masculine
-291134	feminine
+290868	neuter
+290902	feminine
+290933	feminine
+290945	neuter
+290948	feminine
+neuter
+neuter
+290952	feminine
+290957	feminine
+290967	feminine
+290970	feminine
+290974	neuter
+290991	masculine
+290995	masculine
 feminine
-291150	feminine
-291154	feminine
-291156	feminine
+291015	masculine
+291021	masculine
+291048	masculine
+291112	neuter
+291117	masculine
+291127	masculine
+291129	masculine
+masculine
+291137	feminine
+291142	feminine
+291158	masculine
+291161	masculine
 291168	masculine
+291173	masculine
+feminine
+feminine
+291181	masculine
+291188	masculine
 291190	masculine
-291199	feminine
-291211	masculine
-291239	masculine
-291245	feminine
-291251	masculine
-291290	masculine
-291294	masculine
-291311	feminine
-291336	masculine
 masculine
-291344	masculine
-291346	masculine
-291369	masculine
-291380	masculine
-291382	masculine
-291397	feminine
-291435	neuter
-291437	masculine
-291439	feminine
-feminine
-291456	masculine
-291470	masculine
-291477	masculine
+291200	masculine
+291238	masculine
+291241	neuter
+291309	masculine
+291321	masculine
+291342	feminine
+291357	neuter
+291383	masculine
+291386	masculine
+291390	feminine
+291394	feminine
+291403	masculine
+masculine
+291426	masculine
+291442	masculine
+291453	feminine
+291456	feminine
+291471	masculine
+291478	masculine
 291482	masculine
-291495	neuter
+291494	masculine
+291507	masculine
+291522	masculine
+291529	masculine
+291531	masculine
+291549	masculine
+291551	neuter
 neuter
-neuter
-291516	neuter
-291519	neuter
-feminine
-291535	neuter
-291551	feminine
-291576	masculine
-291578	masculine
 masculine
-291582	masculine
-291588	neuter
-291590	neuter
-291595	neuter
-feminine
-291618	masculine
-291621	neuter
-291623	masculine
-291628	masculine
-291631	neuter
-feminine
+291557	masculine
+291559	masculine
+291561	neuter
+neuter
+291577	masculine
+291580	masculine
+291594	masculine
+291596	masculine
+291600	masculine
+291624	neuter
+291633	masculine
 291640	masculine
-291643	masculine
-291658	neuter
-291663	masculine
-291665	neuter
-291668	masculine
-291673	masculine
-291677	masculine
-291691	neuter
-291702	masculine
-291717	masculine
-291724	neuter
-291735	neuter
-291746	masculine
-291752	neuter
-291754	neuter
+291644	neuter
+291666	masculine
+291688	neuter
+291693	masculine
+291707	masculine
+291713	masculine
+291718	masculine
+291721	masculine
+291729	feminine
+291738	masculine
+291741	feminine
+291754	masculine
+masculine
 291758	masculine
-masculine
-291763	feminine
-291766	masculine
-291776	neuter
-291778	neuter
-291793	masculine
-291821	masculine
+291776	masculine
+291783	masculine
+291788	masculine
+291809	masculine
+291815	masculine
+291821	neuter
+291823	masculine
+291827	masculine
+291838	masculine
+291873	feminine
+291879	masculine
 neuter
-291837	masculine
-291845	masculine
-291860	masculine
+291890	feminine
+291930	masculine
+291956	feminine
+291959	neuter
+291964	masculine
+291968	masculine
 masculine
-291878	neuter
-291887	feminine
-291896	neuter
-291902	feminine
-291916	feminine
-291920	masculine
+291996	masculine
+292007	masculine
+292010	masculine
+292019	masculine
+292023	neuter
+292028	neuter
+292035	neuter
+292061	masculine
+292075	masculine
+292086	masculine
+292093	masculine
+292126	feminine
+292131	feminine
+292135	feminine
+292143	feminine
+292157	masculine
+292190	masculine
+292194	neuter
+292196	neuter
+292221	masculine
+292230	masculine
+292232	neuter
+292236	masculine
 masculine
-291939	masculine
-291949	masculine
-291953	masculine
-291955	masculine
-291959	feminine
-291962	masculine
-masculine
-291967	masculine
-291982	neuter
-masculine
-291988	masculine
-291990	masculine
-291995	masculine
-292004	masculine
-292013	masculine
-feminine
-292023	masculine
-292035	masculine
-292042	feminine
-292057	masculine
-masculine
-292064	masculine
-292073	neuter
-292091	masculine
-masculine
-292120	feminine
-292124	masculine
-292132	masculine
-292144	masculine
-292154	feminine
-292157	feminine
-292159	masculine
-292163	masculine
-292187	masculine
-292191	masculine
-292206	masculine
-292209	masculine
-292229	masculine
+292239	masculine
+292242	masculine
 292248	masculine
-292257	masculine
+292261	feminine
+292264	neuter
+292276	masculine
+292280	feminine
+292288	masculine
+292311	feminine
+292316	feminine
+292322	masculine
+292327	masculine
 feminine
-292264	masculine
-292268	masculine
-292316	neuter
-292336	masculine
-292351	feminine
+292331	feminine
+292339	neuter
 neuter
-292354	masculine
-292368	masculine
-292373	masculine
-292389	masculine
-292406	masculine
-292409	masculine
-292415	masculine
-masculine
-292447	masculine
-292453	masculine
-292457	masculine
-292472	feminine
-292477	masculine
-292485	masculine
-292496	masculine
+292361	masculine
+292372	masculine
+292389	feminine
+292394	neuter
+292410	neuter
+292419	neuter
+292421	masculine
+292427	feminine
+292431	neuter
+292440	masculine
+292444	feminine
+292446	feminine
+292448	masculine
+292450	masculine
+292452	masculine
+292454	neuter
+292456	masculine
+292458	masculine
+292460	neuter
+292462	masculine
+292464	masculine
+292466	feminine
+292487	masculine
 292513	feminine
-292545	masculine
-292550	masculine
-292587	neuter
-292593	masculine
-292595	masculine
-292599	masculine
-292604	neuter
-292613	neuter
-masculine
-292617	masculine
-292622	masculine
+292520	feminine
+292544	feminine
+feminine
+292566	masculine
+292571	masculine
+292587	masculine
+292607	neuter
+292611	neuter
 292641	masculine
-292656	masculine
-292665	masculine
-feminine
-292680	feminine
-292758	neuter
+292654	feminine
+292699	neuter
+292706	neuter
+masculine
+masculine
+292718	neuter
+292732	masculine
+292734	neuter
+292748	masculine
+292771	masculine
+292781	feminine
+292790	neuter
+292796	masculine
+292815	masculine
+masculine
+292848	neuter
+292855	neuter
+292879	masculine
+292883	masculine
+292885	masculine
+292892	masculine
+292900	masculine
+292908	feminine
+292914	masculine
+292938	neuter
+292943	masculine
 neuter
-neuter
-292768	masculine
-292782	masculine
-masculine
-masculine
-292786	masculine
-292792	masculine
-292800	masculine
-292804	masculine
-292806	neuter
-292821	feminine
-292832	masculine
-292836	masculine
-masculine
-292843	masculine
-292863	feminine
-292876	neuter
-292897	feminine
-292909	masculine
-292915	masculine
-292926	feminine
-292936	masculine
-292950	feminine
-feminine
-292956	neuter
-292958	masculine
-292967	feminine
-292971	feminine
-292976	feminine
-292982	neuter
-292995	neuter
-293010	feminine
-293024	masculine
-feminine
-293044	neuter
-feminine
-neuter
-293055	neuter
-293073	masculine
-293086	masculine
-293098	masculine
-feminine
-293124	neuter
-masculine
-293131	neuter
-293138	masculine
-293151	neuter
-293156	masculine
-feminine
-293161	feminine
-293168	masculine
-293178	masculine
-293186	masculine
-293206	neuter
-293221	neuter
-293225	masculine
-293231	feminine
-293233	feminine
-293241	feminine
-293270	feminine
-293277	feminine
-feminine
-293286	masculine
-293289	masculine
-293301	masculine
-293321	neuter
-293355	feminine
-293386	feminine
-293399	neuter
-293402	feminine
-neuter
-neuter
-293406	feminine
-293411	feminine
-293421	feminine
-293424	feminine
-293428	neuter
-293445	masculine
-293449	masculine
-feminine
-293470	masculine
-293476	masculine
-293504	masculine
-293568	neuter
-293573	masculine
-293583	masculine
-293585	masculine
-masculine
-293594	feminine
-293599	feminine
-293615	masculine
-293618	masculine
-293625	masculine
-293630	masculine
-feminine
-feminine
-293638	masculine
-293645	masculine
-293647	masculine
-masculine
-293659	masculine
-293697	masculine
-293700	neuter
-293770	masculine
-293782	masculine
-293805	feminine
-293820	neuter
-293846	masculine
-293849	masculine
-293853	feminine
-293857	feminine
-293866	masculine
-masculine
-293889	masculine
-293906	masculine
-293917	feminine
-293921	feminine
-293936	masculine
-293943	masculine
-293947	masculine
-293959	masculine
-293975	masculine
-293990	masculine
-293997	masculine
-293999	masculine
-294017	masculine
-294020	neuter
-neuter
-masculine
-294026	masculine
-294028	masculine
-294030	neuter
-neuter
-294046	masculine
-294049	masculine
-294063	masculine
-294065	masculine
-294069	masculine
-294093	neuter
-294102	masculine
-294109	masculine
-294113	neuter
-294137	masculine
-294159	neuter
-294164	masculine
-294178	masculine
-294184	masculine
-294189	masculine
-294192	masculine
-294200	feminine
-294209	masculine
-294212	feminine
-294225	masculine
-masculine
-294229	masculine
-294250	masculine
-294257	masculine
-294262	masculine
-294283	masculine
-294289	masculine
-294295	neuter
-294297	masculine
-294301	masculine
-294312	masculine
-294347	feminine
-294353	masculine
-neuter
-294364	feminine
-294405	masculine
-294431	feminine
-294434	neuter
-294439	masculine
-294443	masculine
-masculine
-294473	masculine
-294484	masculine
-294487	masculine
-294496	masculine
-294500	neuter
-294505	neuter
-294512	neuter
-294538	masculine
-294552	masculine
-294564	masculine
-294571	masculine
-294605	feminine
-294610	feminine
-294614	feminine
-294622	feminine
-294636	masculine
-294669	masculine
-294673	neuter
-294675	neuter
-294700	masculine
-294709	masculine
-294711	neuter
-294715	masculine
-masculine
-294718	masculine
-294721	masculine
-294727	masculine
-294740	feminine
-294743	neuter
-294755	masculine
-294759	feminine
-294767	masculine
-294791	feminine
-294796	feminine
-294802	masculine
-294807	masculine
-294809	feminine
-294812	feminine
-294821	neuter
-neuter
-294843	masculine
-294854	masculine
-294871	feminine
-294876	neuter
-294892	neuter
-294902	neuter
-294904	masculine
-294910	feminine
-294915	neuter
-294924	masculine
-294929	feminine
-294931	feminine
-294933	masculine
-294935	masculine
-294937	masculine
-294939	neuter
-294941	masculine
-294943	masculine
-294945	neuter
-294947	masculine
-294949	masculine
-294951	feminine
-294974	masculine
-295001	feminine
-295008	feminine
-295033	feminine
-feminine
-295055	masculine
-295060	masculine
-295076	masculine
-295096	neuter
-295100	neuter
-295130	masculine
-295143	feminine
-295188	neuter
-295195	neuter
-masculine
-masculine
-295207	neuter
-295222	masculine
-295224	neuter
-295240	masculine
-295263	masculine
-295273	feminine
-295282	neuter
-295288	masculine
-295307	masculine
-masculine
-295340	neuter
-295347	neuter
-295371	masculine
-295376	masculine
-295378	masculine
-295385	masculine
-295394	masculine
-295402	feminine
-295409	masculine
-295433	neuter
-295438	masculine
-neuter
-295442	neuter
+292947	neuter
 317880	feminine
 feminine
 masculine

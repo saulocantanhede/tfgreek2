@@ -9,7 +9,7 @@
 @version=0.5.2
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-08-22T19:19:18Z
+@dateWritten=2023-08-30T00:19:35Z
 
 9	s
 v
@@ -54280,13729 +54280,13852 @@ s
 170171	o
 170174	o
 170189	o
-178270	p
-178275	apposition
+170242	o2
+170250	s
+170415	adv
+170421	adv
+170556	adv
+170590	p
+170685	p
+170696	adv
+170701	adv
+170710	adv
+170715	adv
+170722	adv
+170823	s
+170878	apposition
+170885	o
+170900	s
+170902	s
+170904	s
+170908	o
+170925	adv
+171010	aux
+171015	apposition
+171093	adv
+171114	s
+171132	s
+171158	adv
+s
+171161	s
+171245	io
+171309	p
+171328	s
+171333	s
+171339	adv
+171360	o
+171458	o2
+171511	p
+171519	p
+171546	s
+171618	aux
+171672	adv
+171686	p
+171688	adv
+171690	s
+171695	s
+171739	s
+171854	s
+171893	o
+171900	aux
+171909	s
+171938	o
+171941	s
+171959	p
+171999	io
+172057	o
+172061	o
+172072	apposition
+172089	p
+s
+172103	io
+172118	s
+172137	o
+172173	s
+172183	apposition
+172196	o
+s
+172202	o
+172261	s
+172327	s
+172331	o
+172335	s
+172359	o
+172421	adv
+172461	adv
+172471	s
+172515	s
+172517	s
+172549	s
+172554	s
+172558	s
+172588	s
+172615	s
+172621	o
+172702	o
+172704	s
+172796	s
+172803	s
+172832	aux
+172849	s
+172853	adv
+172857	adv
+172876	s
+172878	s
+172925	s
+173010	s
+173056	s
+173082	s
+s
+173091	s
+173118	aux
+173153	aux
+s
+173168	o
+173212	io
+173224	apposition
+173258	o
+173265	s
+173283	aux
+173295	o
+173313	s
+173355	s
+173358	s
+173362	io
+173376	apposition
+173379	s
+173389	aux
+173396	p
+173404	p
+173412	o
+173445	o
+173488	adv
+173513	o
+173556	s
+173566	apposition
+173573	p
+173581	o
+173609	p
+173623	s
+173651	s
+173660	s
+173695	p
+173704	apposition
+173716	adv
+173746	p
+173780	s
+173863	s
+173880	o
+173932	p
+173952	aux
+173954	o
+173990	o
+174016	s
+174072	s
+174129	p
+174159	s
+174181	aux
+174218	s
+174227	p
+174245	o
+174269	p
+174277	o
+174283	o
+174289	adv
+174318	adv
+174332	o
+174378	o
+174383	o
+174386	o
+174389	o
+174415	s
+174425	s
+174443	s
+174468	o
+174489	o
+174493	s
+174507	o
+174511	o
+174575	s
+174591	aux
+174598	p
+174603	o
+aux
+174646	o
+174656	s
+174679	p
+174719	o
+174722	p
+adv
+174727	o
+174741	o
+174772	o
+174791	s
+174793	s
+174809	o
+174868	o
+174871	s
+174885	o
+174890	adv
+174899	o
+174901	o
+174979	o
+175014	s
+175034	o
+175065	p
+175113	o
+175151	o
+175166	s
+175225	s
+175257	io
+175294	p
+175330	s
+175336	s
+175364	o
+175406	o
+175422	p
+175445	p
+175496	s
+175499	adv
+175587	adv
+175614	s
+175620	s
+175635	o
+175659	o
+175679	aux
+175687	o
+175696	p
+175717	p
+175733	o
+175760	o
+175762	o
+175831	o
+175858	o
+o
+o
+175866	o
+175934	o
+175938	o
+175945	p
+175977	o
+175991	o
+176058	aux
+176090	s
+176093	s
+176280	o
+176308	o
+176314	o
+176368	s
+176513	o
+176522	aux
+176566	o
+176596	s
+176615	aux
+176633	s
+p
+176655	adv
+176665	io
+176681	s
+176728	o
+176739	s
+176743	s
+176754	adv
+176786	o
+o
+176794	o
+s
+176836	o
+176881	o
+176885	adv
+176923	o
+176949	p
+176951	io
+176956	apposition
+176970	o
+176981	o
+176990	apposition
+177008	o
+s
+177092	p
+177123	s
+177135	io
+177151	s
+177170	s
+177184	adv
+177206	s
+177234	o
+177248	o
+177287	s
+177289	o
+177293	s
+177303	io
+177308	o
+177325	s
+177330	io
+177334	s
+177369	s
+177398	s
+177441	o
+177475	o
+177480	o
+177484	adv
+177491	o
+177493	o
+177506	o
+177545	io
+177558	o
+177563	s
+177571	s
+177573	o
+177579	s
+177589	s
+177597	o
+177613	s
+177675	o
+177678	o
+177685	o
+177696	o
+177703	o
+177705	o
+177707	s
+177728	o
+177732	s
+177765	o
+177770	o
+177776	o
+o
+177791	s
+o
+177807	p
+177876	aux
+177893	o
+177925	o
+177944	aux
+177984	s
+s
+178014	adv
+178031	s
+178072	s
+178080	o
+178149	p
+178189	io
+178204	io
+178208	adv
+178210	o
+178249	p
+178251	io
+o
+178317	o
+178319	s
+178328	o
+178351	io
+178359	o
+178371	o
+178450	o
+178661	s
+178720	o
+178770	o
+178803	s
+178857	p
+178882	s
+178891	p
+178978	aux
+179016	o
+179039	o
+179107	s
+179117	adv
+179159	p
+179164	apposition
 apposition
 s
 v
 o
 s
-178282	v
+179171	v
 o
 s
-178286	v
+179175	v
 o
-178292	s
-178294	v
+179181	s
+179183	v
 o
-178299	adv
-178301	s
-178303	v
+179188	adv
+179190	s
+179192	v
 o
 s
-178307	v
+179196	v
 o
 s
-178311	v
+179200	v
 o
 s
-178315	v
-o
-s
-178319	v
-o
-s
-178323	v
-o
-adv
-178327	s
-178329	v
-o
-adv
-178333	s
-178335	v
-o
-s
-178339	v
-o
-178342	apposition
-s
-178345	v
-o
-adv
-178350	s
-178352	v
-o
-s
-178356	v
-o
-s
-178360	v
-o
-s
-178364	v
-o
-s
-178368	v
-o
-s
-178372	v
-o
-s
-178376	v
-o
-s
-178380	v
-o
-s
-178384	v
-o
-s
-178388	v
-o
-s
-178392	v
-o
-s
-178396	v
-o
-s
-178400	v
-o
-178406	adv
-178409	adv
-178413	s
-v
-o
-s
-178418	v
-o
-s
-178422	v
-o
-s
-178426	v
-o
-s
-178430	v
-o
-s
-178434	v
-o
-s
-178438	v
-o
-s
-178442	v
-o
-s
-178446	v
-o
-s
-178450	v
-o
-s
-178454	v
-o
-s
-178458	v
-o
-178461	apposition
-178464	adv
-v
-s
-vc
-p
-s
-178476	p
-178478	s
-178483	p
-178485	s
-178491	p
-s
-178497	p
-vc
-178500	v
-s
-178504	io
-178506	v
-s
-v
-adv
-v
-adv
-178513	s
-178515	apposition
-178517	adv
-p
-vc
-178521	adv
-v
-o
-v
-v
-adv
-v
-o
-o
-178531	s
-v
-aux
-s
-adv
-v
-io
-v
-o
-178541	aux
-apposition
-adv
-v
-v
-o
-o2
-178550	adv
-v
-p
-178554	vc
-178556	v
-178558	o
-178560	v
-o
-178563	o2
-s
-178566	v
-o
-178569	adv
-178573	s
-178575	v
-178577	v
-v
-adv
-adv
-178582	v
-aux
-s
-adv
-v
-178588	v
-o
-178591	v
-o
-178594	o2
-s
-vc
-p
-s
-178601	v
-178603	s
-adv
-178606	v
-178608	v
-o
-s
-178614	v
-o
-178618	adv
-v
-o
-adv
-adv
-v
-o
-178626	v
-o
-178629	o2
-178631	s
-178633	v
-adv
-178637	adv
-178640	apposition
-aux
-s
-adv
-v
-adv
-v
-o
-p
-vc
-s
-178652	v
-178655	v
-178657	o
-178659	adv
-178662	v
-v
-o
-178666	v
-178668	s
-178670	v
-178672	s
-adv
-178675	v
-o
-178682	v
-adv
-adv
-s
-v
-s
-178689	v
-io
-o
-adv
-178695	adv
-178697	v
-adv
-178702	s
-aux
-apposition
-adv
-p
-vc
-adv
-178711	adv
-178713	v
-s
-v
-s
-v
-o
-178721	apposition
-adv
-s
-adv
-v
-o
-v
-adv
-o
-178733	v
-178735	v
-o
-adv
-v
-o
-v
-v
-adv
-adv
-178749	v
-v
-io
-178753	s
-v
-v
-o
-s
-178759	v
-o
-v
-178763	aux
-s
-178766	o
-v
-adv
-178770	v
-o
-178773	v
-v
-adv
-p
-vc
-s
-v
-178781	o
-v
-adv
-adv
-178786	v
-adv
-178789	v
-o
-178794	apposition
-178797	v
-v
-o
-178801	v
-o
-178804	v
-io
-o
-apposition
-178811	v
-adv
-adv
-v
-adv
-adv
-178818	v
-adv
-178823	v
-178825	s
-aux
-s
-v
-adv
-io
-v
-o
-v
-v
-o
-178841	v
-adv
-178845	v
-adv
-178848	v
-io
-v
-178852	s
-v
-o
-v
-o
-178858	s
-178860	v
-v
-o
-178867	adv
-178869	v
-adv
-178872	vc
-p
-adv
-178878	v
-v
-adv
-adv
-178883	v
-adv
-v
-o
-178888	adv
-s
-v
-178892	v
-adv
-178895	v
-adv
-178898	v
-v
-o
-178903	apposition
-178913	adv
-178916	o
-v
-adv
-178920	adv
-v
-v
-adv
-178925	apposition
-v
-s
-adv
-v
-apposition
-178933	o
-s
-v
-adv
-178939	adv
-v
-v
-178943	adv
-v
-178946	v
-178948	s
-aux
-s
-v
-adv
-io
-adv
-v
-o
-v
-v
-o
-178965	v
-adv
-178968	v
-178970	v
-o
-178974	s
-178976	v
-v
-o
-178984	v
-adv
-178987	v
-178990	s
-v
-adv
-adv
-178997	v
-adv
-v
-v
-179002	adv
-v
-adv
-179009	v
-v
-adv
-179013	vc
-p
-179016	v
-v
-adv
-179020	p
-vc
-adv
-179026	v
-s
-apposition
-v
-adv
-179034	v
-o
-v
-v
-179039	s
-179042	s
-179044	vc
-v
-adv
-179048	apposition
-v
-s
-v
-adv
-179054	o
-v
-o
-179058	o2
-v
-o
-179063	s
-179066	v
-o
-179069	adv
-179072	o
-adv
-179076	s
-179079	vc
-p
-179083	adv
-v
-adv
-s
-179096	v
-adv
-179100	adv
-v
-o
-179104	v
-179106	o
-179111	v
-adv
-179114	v
-io
-aux
-s
-v
-io
-v
-adv
-179124	v
-v
-179127	o
-179131	adv
-v
-v
-adv
-o2
-v
-o
-v
-179140	io
-179142	v
-s
-adv
-179147	v
-o
-io
-adv
-179152	s
-adv
-179157	v
-s
-179161	adv
-v
-o
-v
-179166	adv
-v
-s
-179170	o
-v
-adv
-adv
-179175	adv
-v
-p
-adv
-vc
-adv
-adv
-vc
-p
-o
-v
-s
-o
-v
-adv
-179193	s
-179195	p
-179199	v
-o
 179204	v
 o
-179207	adv
-179209	o
-179211	v
-adv
-adv
-v
 s
-adv
-179218	adv
-179220	adv
-179222	v
-adv
-s
-179226	v
-o
-v
+179208	v
 o
 s
+179212	v
 o
-v
 adv
-v
-179236	s
-v
-adv
-v
-179241	s
-v
-io
+179216	s
+179218	v
 o
-v
 adv
+179222	s
+179224	v
+o
+s
+179228	v
+o
+179231	apposition
+s
+179234	v
+o
 adv
+179239	s
+179241	v
+o
+s
+179245	v
+o
+s
 179249	v
-vc
-adv
-v
 o
-adv
-v
+s
+179253	v
 o
-v
-179259	s
-adv
-v
-adv
-179265	aux
-v
+s
+179257	v
+o
+s
+179261	v
+o
+s
+179265	v
+o
 s
 179269	v
+o
 s
-v
-adv
-179274	v
-adv
-179277	aux
+179273	v
+o
 s
-adv
+179277	v
+o
+s
 179281	v
+o
 s
-vc
-p
-179287	apposition
-adv
-v
-adv
+179285	v
+o
 s
-v
-adv
+179289	v
+o
 179295	adv
-179297	v
-adv
-179301	v
-adv
-179306	adv
+179298	adv
+179302	s
 v
-179309	v
-v
-v
-io
 o
-179315	p
+s
+179307	v
+o
+s
+179311	v
+o
+s
+179315	v
+o
+s
+179319	v
+o
+s
+179323	v
+o
+s
+179327	v
+o
+s
+179331	v
+o
+s
+179335	v
+o
+s
+179339	v
+o
+s
+179343	v
+o
+s
+179347	v
+o
+179350	apposition
+179352	adv
+v
+s
 vc
-179318	v
-179320	s
-179322	p
-vc
-s
-179326	v
-v
-v
-o
-adv
-179332	v
-s
-179335	adv
-179338	v
-adv
-179341	adv
-v
-o
-s
-adv
-179350	v
-o
-adv
-179357	v
-io
-o
-179361	p
-vc
-179364	v
-o
-adv
-v
-179370	io
-179372	v
-adv
-179375	o2
-adv
-v
-o
-adv
-adv
-v
-adv
-o
-179385	v
-io
-s
-adv
-v
-adv
-v
-o
-apposition
-179395	adv
-v
-o
-s
-adv
-179404	v
-io
-o
-179415	v
-io
-o
-o
-io
-v
-179422	v
-v
-o
-adv
-v
-io
-s
-v
-aux
-v
-179433	o
-o
-apposition
-179437	v
-179439	o
-v
-adv
-v
-o
-s
-179446	aux
-s
-v
-179450	v
-o
-v
-179455	s
-v
-v
-adv
-179462	v
-o
-v
-v
-adv
-179468	apposition
-179475	v
-v
-adv
-179479	apposition
-v
-aux
-179491	apposition
-179493	s
-179495	v
-adv
-o
-v
-179500	v
-adv
-179505	s
-v
-adv
-adv
-v
-s
-o
-v
-179514	v
-o
-v
-v
-179519	s
-179522	v
-179524	adv
-179528	v
-s
-179531	apposition
-179533	vc
 p
-179537	apposition
-179539	v
-o
-adv
-179543	vc
-179545	p
-179547	v
-io
-o
+s
+179364	p
+179366	s
+179371	p
+179373	s
+179379	p
+s
+179385	p
+vc
+v
+s
+179391	io
+179393	v
+s
 v
 adv
-179553	v
+v
+adv
+179400	s
+179402	apposition
+179404	adv
+p
+vc
+179408	adv
+v
+o
+v
+v
+adv
+v
+o
+o
+179418	s
+v
+aux
+s
+adv
+v
+io
+v
+o
+aux
+apposition
+adv
+v
+v
 o
 o2
+179436	adv
+v
+p
+179440	vc
+179442	v
+179444	o
+179446	v
+o
+179449	o2
 s
-179558	adv
-v
+179452	v
 o
-v
-o
-179564	v
-adv
-v
-s
-179570	apposition
-179572	apposition
-179576	apposition
-179578	adv
-179580	adv
-179582	apposition
-179584	v
-o
-179588	v
-o
-s
-179592	adv
-v
-o
-179599	v
-o
-179602	v
-adv
-179606	adv
+179455	adv
+179458	s
+179460	v
+179462	v
 v
 adv
-179612	v
-o
-179617	v
-o
-179622	adv
-179625	v
+adv
+179467	v
+aux
 s
-179628	adv
-179632	v
+adv
+v
+179473	v
+o
+179476	v
+o
+179479	s
+vc
+p
+s
+179484	v
+179486	s
+adv
+179489	v
+179491	v
+o
+s
+179497	v
+o
+179501	adv
+v
+o
+adv
+adv
+v
+o
+179509	v
+o
+179512	o2
+s
+179515	v
+adv
+179519	adv
+179522	apposition
+aux
+s
+adv
+v
+adv
+v
+p
+vc
+s
+179533	v
+179536	v
+179538	o
+179540	adv
+179543	v
+v
+o
+179547	v
+179549	s
+179551	v
+179553	s
+adv
+179556	v
+o
+179563	v
+adv
+adv
+s
+v
+s
+179570	v
 io
-o
-179636	adv
-v
+adv
+179575	adv
+179577	v
+adv
+179581	s
+aux
 apposition
 adv
-179642	v
+p
+vc
+adv
+179590	adv
+179592	v
 v
+s
+v
+o
+179599	apposition
+adv
+s
+adv
+v
+o
+v
+adv
+o
+179611	v
+179613	v
+o
+adv
+v
+o
+v
+v
+adv
+adv
+179625	v
+v
+io
+179629	s
+v
+v
+o
+s
+179635	v
+o
+v
+179639	aux
+s
+o
+v
+adv
 179645	v
+o
 179648	v
-o
-179651	v
-o
+v
+adv
+p
+vc
 s
+v
+179656	o
+v
+adv
+adv
+179661	v
+adv
 179664	v
-179666	o
-v
-adv
+o
+179669	apposition
 179672	v
-s
 v
-adv
-s
+o
+179676	v
+o
 179679	v
+io
 o
-179682	v
-o
-v
-p
-s
-179690	p
-vc
-s
-179695	p
-v
-179698	s
-v
-p
-s
-179703	s
-v
-o
-p
-v
-179709	o
-179711	s
-v
-p
-s
-179716	s
-v
-p
-s
-179723	s
-o
-v
-179727	p
-s
-179730	s
-p
-vc
-p
-v
+apposition
+179686	v
 adv
-179737	p
-vc
-s
-179743	p
-vc
-179747	v
-o
-179750	v
-179752	v
-o
 adv
 v
 adv
-v
-179759	v
-179761	s
-179763	p
 adv
-179766	adv
-179768	v
-o
-179771	apposition
-179773	s
-vc
-p
-179780	s
-v
+179693	v
 adv
-v
-adv
-v
-adv
-179788	adv
-v
-adv
-v
-adv
-179794	s
-vc
-p
-179799	adv
-v
+179697	v
+179699	s
+aux
 s
 v
 adv
+io
 v
-179808	v
+v
+v
 o
-179811	v
+179714	v
+adv
+179717	v
+adv
+179720	v
+io
+v
+179724	s
+v
 o
+v
+o
+s
+179731	v
+v
+o
+179738	adv
+179740	v
 adv
-179817	adv
-179820	v
+179743	vc
+p
 adv
-179825	adv
+179749	v
+v
+adv
+adv
+179754	v
+adv
+v
+o
+179759	adv
+s
+v
+179763	v
+adv
+179766	v
+adv
+179769	v
+v
+o
+179774	apposition
+179784	adv
+179786	o
+v
+adv
+179790	adv
+v
+v
+adv
+179795	apposition
 v
 s
-179829	adv
+adv
+v
+apposition
+179803	o
+s
+v
+adv
+179809	adv
+v
+v
+179813	adv
+v
+v
+179817	s
+aux
+s
+v
+adv
+io
+adv
+v
+v
+v
+o
 179833	v
-o
+adv
+179836	v
 179838	v
 o
-179842	apposition
-179845	adv
-v
-179848	v
+179842	s
+179844	v
 v
 o
+179852	v
+adv
 179855	v
+179858	s
 v
-179858	v
-179861	v
-io
-o
+adv
+adv
 179865	v
-s
-179870	s
-179874	adv
+adv
+v
+v
+179870	adv
 v
 adv
-179879	s
+179877	v
 v
-s
-179883	v
-o
-179890	v
 adv
-o
+179881	vc
 p
+179884	v
+v
+adv
+179888	p
 vc
 adv
-179900	s
+179894	v
+s
+apposition
+v
+adv
 179902	v
-179904	v
+v
+v
+179906	s
+179909	s
+179911	vc
+v
+adv
+179915	apposition
+v
+s
+v
+adv
+179921	v
+o
+179924	o2
+v
+o
+179929	s
+179932	v
+o
+179935	adv
+179938	o
+adv
+179942	s
+179945	vc
+p
+179949	adv
+v
+adv
+s
+179962	v
+adv
+179966	adv
+v
+o
+179970	v
+179972	o
+179977	v
+adv
+179980	v
+io
+aux
+s
+v
+io
+v
+adv
+179990	v
+v
+179993	o
+179997	adv
+v
+v
+adv
+o2
+v
+o
+v
+180006	io
+180008	v
+s
+adv
+180013	v
+o
+io
+adv
+180018	s
+adv
+180023	v
+s
+180027	adv
+v
+o
+v
+180032	adv
+v
+s
+180036	o
+v
+adv
+adv
+180041	adv
+v
+p
+adv
+vc
+adv
+adv
+vc
+p
+o
+v
+s
+o
+v
+adv
+180059	s
+180061	p
+180065	v
+o
+180070	v
+o
+180073	adv
+180075	o
+180077	v
+adv
+adv
+v
+s
+adv
+180084	adv
+180086	adv
+180088	v
+adv
+s
+180092	v
+o
+v
+o
+s
+o
+v
+adv
+v
+180102	s
+v
+adv
+v
+180107	s
+v
+io
+v
+adv
+adv
+180114	v
+vc
+adv
+v
+o
+adv
+v
+o
+v
+180124	s
+adv
+v
+adv
+180130	aux
+v
+s
+180134	v
+s
+v
+adv
+180139	v
+adv
+180142	aux
+s
+adv
+180146	v
+s
+vc
+p
+180152	apposition
+adv
+v
+adv
+s
+v
+adv
+180160	adv
+180162	v
+adv
+180166	v
+adv
+180171	adv
+v
+180174	v
+v
+v
+io
+180179	p
+vc
+180182	v
+180184	s
+180186	p
+vc
+s
+180190	v
+v
+v
+o
+adv
+180196	v
+s
+180199	adv
+180202	v
+adv
+180205	adv
+v
+o
+s
+adv
+180214	v
+o
+adv
+180221	v
+io
+180224	p
+vc
+180227	v
+o
+adv
+v
+180233	io
+180235	v
+adv
+180238	adv
+v
+o
+adv
+adv
+v
+adv
+o
+180247	v
+io
+s
+adv
+v
+adv
+v
+o
+apposition
+180257	adv
+v
+o
+s
+adv
+180266	v
+io
+o
+180277	v
+io
+o
+io
+v
+180283	v
+v
+o
+adv
+v
+io
+s
+v
+aux
+v
+180294	o
+o
+apposition
+180298	v
+180300	o
+v
+adv
+v
+o
+s
+180307	aux
+s
+v
+180311	v
+o
+v
+180316	s
+v
+v
+adv
+180322	v
+o
+v
+v
+adv
+180328	apposition
+180335	v
+v
+adv
+180339	apposition
+v
+aux
+180351	apposition
+180353	s
+180355	v
+adv
+o
+v
+180360	v
+adv
+180365	s
+v
+adv
+adv
+v
+s
+o
+v
+180374	v
+v
+v
+180378	s
+180381	v
+180383	adv
+180387	v
+s
+180390	apposition
+180392	vc
+p
+180396	apposition
+180398	v
+o
+adv
+180402	vc
+180404	p
+180406	v
+io
+o
+v
+adv
+180412	v
+o
+o2
+s
+180417	adv
+v
+o
+v
+o
+180423	v
+adv
+v
+s
+180429	apposition
+180431	apposition
+180435	apposition
+180437	adv
+180439	adv
+180441	apposition
+180443	v
+o
+180447	v
+o
+s
+180451	adv
+v
+o
+180458	v
+o
+180461	v
+adv
+180465	adv
+v
+adv
+180471	v
+o
+180476	v
+o
+180481	adv
+180484	v
+s
+180487	adv
+180491	v
+io
+o
+180495	adv
+v
+apposition
+adv
+180501	v
+v
+180504	v
+180507	v
+o
+180510	v
+o
+s
+180523	v
+180525	o
+v
+adv
+180530	v
+s
+v
+adv
+s
+180537	v
+o
+180540	v
+o
+v
+p
+s
+180548	p
+vc
+s
+180553	p
+v
+180556	s
+v
+p
+s
+180561	s
+v
+o
+p
+v
+180567	o
+180569	s
+v
+p
+s
+180574	s
+v
+p
+s
+180581	s
+o
+v
+p
+s
+180587	s
+p
+vc
+p
+v
+adv
+180594	p
+vc
+s
+180599	p
+vc
+180603	v
+o
+180606	v
+180608	v
+o
+adv
+v
+adv
+v
+180615	v
+180617	s
+180619	p
+adv
+180622	adv
+180624	v
+o
+180627	apposition
+180629	s
+vc
+p
+180636	s
+v
+adv
+v
+adv
+v
+adv
+180644	adv
+v
+adv
+v
+adv
+180650	s
+vc
+p
+180655	adv
+v
+s
+v
+adv
+v
+180664	v
+o
+180667	v
+o
+adv
+180673	adv
+180676	v
+adv
+180681	adv
+v
+s
+180685	adv
+180689	v
+o
+180694	v
+o
+180698	apposition
+180701	adv
+v
+180704	v
+v
+o
+180711	v
+v
+180714	v
+180716	v
+io
+180719	v
+s
+180724	s
+180728	adv
+v
+adv
+180733	s
+v
+s
+180737	v
+o
+180744	v
+adv
+o
+p
+vc
+adv
+180753	s
+180755	v
+180757	v
 s
 p
 vc
 adv
-179912	v
-179914	io
-179917	adv
+180765	v
+180767	io
+180770	adv
 v
 s
-179921	adv
+180774	adv
 adv
-179925	adv
+180778	adv
 v
 adv
-179931	v
-179933	v
+180784	v
+180786	v
 io
 o
 adv
 v
 s
-179940	v
+180793	v
 p
 vc
 adv
 s
-179946	v
+180799	v
 io
-179949	s
+180802	s
 v
 o
-179953	p
+180806	p
 vc
 adv
 s
-179958	v
+180811	v
 io
-179961	aux
+180814	aux
 p
 vc
 adv
 s
-179967	v
+180820	v
 aux
 p
 vc
 adv
-179978	v
+180830	v
 o
-179981	adv
-179983	adv
+180833	adv
+180835	adv
 v
-179986	s
-179988	v
+180838	s
+180840	v
 o
 adv
 v
 adv
 o
-179995	adv
-179999	v
+180847	adv
+180850	v
 adv
 v
 adv
-180005	adv
+180856	adv
 v
 v
 o
-180010	v
+180861	v
 adv
-180013	adv
+180864	adv
 adv
 adv
 vc
 p
 adv
-180020	o
+180871	o
 adv
 adv
 o
 v
 s
 io
-180028	s
+180879	s
 io
-180031	adv
-v
-180034	v
-io
-o
-adv
-v
-adv
-180041	v
-o
-180044	v
-180046	v
-adv
-v
-s
-180051	v
-io
-180054	s
-v
-o
-adv
-v
-o
-adv
-v
-o
-adv
-180068	s
-180072	v
-o
-v
-o
-180077	v
-adv
-v
-180081	adv
-180083	v
-s
-180088	adv
-s
-180092	v
-adv
-180096	s
-180099	v
-o
-v
-o
-180104	v
-adv
-v
-180108	adv
-180110	v
-s
-180115	adv
-s
-180119	adv
+180882	adv
 v
 v
-180123	s
-v
-o
-180127	v
-io
-o
-s
-180132	v
-io
-180135	s
-v
-o
-180139	adv
-180141	v
-s
-v
-180145	s
-v
-v
-v
-adv
-v
-180152	v
-io
-o
-adv
-v
-v
-180159	io
-o
-180162	s
-180164	v
 io
 adv
 v
 adv
-180172	adv
-180175	p
+180890	v
+o
+180893	v
+180895	v
+adv
+v
+s
+180900	v
+io
+180903	s
+v
+o
+adv
+v
+o
+adv
+v
+o
+adv
+180917	s
+180921	v
+o
+v
+o
+180926	v
+adv
+v
+180930	adv
+180932	v
+s
+180937	adv
+s
+180941	v
+adv
+180945	s
+180948	v
+o
+v
+o
+180953	v
+adv
+v
+180957	adv
+180959	v
+s
+180964	adv
+s
+180968	adv
+v
+v
+180972	s
+v
+o
+180976	v
+io
+o
+s
+180981	v
+io
+180984	s
+v
+o
+180988	adv
+180990	v
+s
+v
+180994	s
+v
+v
+v
+adv
+v
+181001	v
+io
+o
+adv
+v
+v
+181008	io
+o
+181011	s
+181013	v
+io
+adv
+v
+adv
+181020	adv
+181023	p
 vc
-180180	adv
-180183	p
+181027	adv
+181030	p
 vc
-180189	adv
-180191	p
+181035	adv
+181037	p
 vc
-180196	adv
-180199	v
-180201	adv
+181042	adv
+181045	v
+181047	adv
 v
 o
 o2
 v
-180207	vc
-180209	s
-180211	p
-s
+181053	vc
+181055	s
+181057	s
 p
 s
 p
 s
-180219	p
-180221	vc
+181064	p
+181066	vc
 v
-180224	v
+181069	v
 o
 o
 adv
-180229	o
+181074	o
 adv
 s
-180233	v
+181078	v
 io
 adv
 v
 o
-180239	s
+181084	s
 o
 v
 adv
-180246	v
+181091	v
 io
 o
-180252	v
+181096	v
 o
 adv
 v
-180257	o
-180259	v
-v
-io
-o
-180265	s
-o
-v
-adv
-v
-adv
-adv
-v
-o
-v
-180276	v
-adv
-v
-adv
-v
-v
-180283	v
-o
-v
-o
-180289	v
-o
-180292	s
-180294	v
-io
-o
-180298	v
-o
-180302	v
-adv
-v
-o
-180307	vc
-p
-180312	apposition
-180316	o
-180318	v
-adv
-180323	v
-adv
-180329	v
-v
-o
-o
-v
-s
-180336	o
-v
-180340	v
-o
-180343	adv
-o
-v
-s
-180348	o
-v
-vc
-180352	s
-p
-180355	s
-180359	p
-vc
-v
-180363	o
-180365	adv
-v
-adv
-180369	adv
-v
-adv
-180374	adv
-o
-adv
-v
-adv
-180382	apposition
-180388	v
-o
-180391	adv
-v
-adv
-180396	s
-v
-adv
-180405	v
-adv
-180409	v
-io
-v
-o
-180416	s
-180418	v
-o
-adv
-v
-s
-180424	o
-v
-s
-180429	vc
-s
-180432	p
-180435	s
-180438	v
-adv
-180441	v
-io
-180447	v
-adv
-vc
-p
-180454	v
-adv
-180463	v
-v
-180466	v
-adv
-180469	v
-io
-v
-o
-180475	s
-180478	v
-v
-adv
-180484	v
-o
-180487	v
-io
-180491	apposition
-180495	s
-180498	v
-adv
-180501	v
-io
-180504	v
-180506	adv
-v
-180509	s
-v
-180513	adv
-180516	v
-180518	adv
-180520	v
-adv
-v
-180524	s
-180526	o
-v
-adv
-s
-v
-o
-adv
-180534	v
-s
-aux
-180538	apposition
-180541	v
-s
-180544	v
-s
-180547	v
-s
-180550	adv
-180553	adv
-180555	o
-180559	v
-io
-adv
-180563	v
-io
-o
-180568	s
-v
-io
-180574	v
-o
-adv
-180578	v
-o
-adv
-180584	v
-io
-o
-180588	v
-io
-s
-180596	adv
-v
-io
-adv
-s
-180602	v
-o
-180609	v
-adv
-vc
-180613	s
-p
-180616	v
-180618	o
-180621	v
-io
-v
-180625	v
-io
-v
-o
-180631	s
-180633	v
-v
-o
-180638	o
-180640	v
-180643	v
-io
-v
-180647	io
-180650	apposition
-180654	s
-180657	v
-adv
-180660	v
-io
-adv
+181101	o
+181103	v
 v
 io
 o
-adv
-180668	apposition
-adv
-s
-180672	v
-180674	adv
-s
-v
-180678	v
-180680	io
+181109	s
 o
-adv
-apposition
-adv
-s
-180688	v
-180690	adv
-s
+v
 adv
 v
-180696	p
-180698	vc
-s
-180701	p
-vc
-s
-180706	s
-180709	vc
-p
-180713	vc
-s
-180716	p
-s
-180720	p
-vc
-180724	s
-180726	p
-vc
-s
-180731	p
-vc
-180735	s
-180737	apposition
-180739	p
-vc
-s
-p
-180744	s
+adv
+adv
 v
 o
 v
-180752	o
-v
-180755	o
-v
-180759	o
-v
-180762	o
-v
-adv
-v
-o
-o
-v
-180770	o
-adv
-v
-io
-o
+181120	v
 adv
 v
 adv
-180779	o
-o
-v
-180783	o
-v
-180786	adv
-180788	o
-v
-s
-p
-vc
-adv
-180795	s
-adv
-v
-adv
-180805	adv
-v
-180808	v
-180810	v
-adv
-180813	s
-180817	v
-o
-s
-adv
-v
-adv
-s
-180826	v
 v
 v
-adv
-180832	o
-180834	adv
-adv
-v
-v
-o
-180841	adv
-v
-adv
-v
-180846	v
-v
-180849	io
-180851	adv
-s
-adv
-180857	v
-180859	s
-180862	o
-180865	adv
-adv
-v
-180869	adv
-adv
-v
-s
-adv
-v
-adv
-o
-aux
-adv
-180880	v
-v
-o
-o
-v
-180886	o
-v
-180889	o
-v
-o
-180893	s
-v
-v
-180897	s
-180902	v
-o
-v
-180906	adv
-o
-180913	s
-v
-io
-180917	adv
-180919	v
-adv
-180922	s
-180924	v
-o
-p
-adv
-s
-180930	adv
-v
-180933	v
-adv
-180937	v
-v
-180940	adv
-180942	v
-v
-io
-adv
-180947	v
-o
-180950	apposition
-180956	o
-180962	adv
-v
-180965	adv
-v
-io
-180969	o
-v
-v
-o
-adv
-180977	aux
-s
-p
-180982	aux
-v
-adv
-adv
-180988	o
-180990	adv
-v
-v
-o
-adv
-181000	adv
-v
-o
-io
-181005	v
-o
-181008	adv
-181010	adv
-adv
-v
-o
-adv
-181018	v
-v
-o
-181024	v
-181026	v
-io
-181029	v
-181031	v
-181033	v
-181035	v
-io
-181038	s
-181040	v
-v
-181043	v
-v
-181046	v
-v
-181049	s
-vc
-p
-181053	o
-v
-s
-181057	o2
-o
-v
-io
-181062	o
-v
-o
-v
-io
-181070	s
-p
-vc
-v
-o
-v
-io
-181078	adv
-s
-181082	apposition
-181085	v
+181127	v
 o
 v
 o
-aux
-181091	adv
-v
-181094	v
-io
-s
-adv
-s
-v
-io
-s
-181103	vc
-p
-181108	v
-adv
-181115	p
-s
-181118	p
-s
-181121	v
-adv
-181125	p
-vc
-v
-adv
-181132	p
-s
-181135	p
-s
+181133	v
+o
+181136	s
 181138	v
-adv
-181142	p
-vc
+io
 v
 o
+181144	v
+adv
 v
-adv
-181150	s
-v
-adv
-adv
-181155	adv
-181157	vc
+o
+181149	vc
 p
+181154	apposition
+181158	o
+181160	v
 adv
-181162	v
-o
+181165	v
+adv
+181171	v
 v
-adv
 o
-181168	adv
 o
-adv
-s
-181173	o
 v
 s
 181178	o
 v
-adv
-v
-s
+181182	v
 o
-v
-181186	s
+181185	adv
 o
 v
 s
-181191	adv
+181190	o
 v
-o
+vc
+181194	s
+p
+181197	s
+181201	p
+vc
 v
-181196	adv
+181205	o
+181207	adv
 v
 adv
-181201	v
-o
-181204	s
+181211	adv
 v
+adv
+181216	adv
+o
+adv
+v
+adv
+181224	apposition
+181229	v
+o
+adv
+v
+adv
+181235	s
+v
+adv
+181244	v
+adv
+181247	v
 io
-181208	aux
-aux
-v
-adv
-181216	v
-o
-181222	apposition
-181225	s
-v
-io
-adv
-181231	o2
-181233	aux
-aux
-adv
-181237	v
-181239	adv
-181241	o
-v
-181244	adv
-181246	o
-v
-181249	adv
-v
-io
-181253	adv
 v
 o
-v
+181252	s
+181254	v
+o
 adv
 v
-o
 s
-181262	s
+181260	o
 v
-o
-181268	v
-o
-v
+s
+181265	vc
+s
+181268	p
+181271	s
+181274	v
 adv
-181273	s
-v
-o
-181277	adv
+181277	v
+io
 181281	v
-s
-181284	v
-s
-181287	v
-s
-181290	v
-o
-181294	adv
+adv
+vc
+p
+181288	v
+adv
+181297	v
 v
+181300	v
+adv
 v
-181298	adv
-181301	s
-v
-o
-181307	adv
+io
 v
 o
+181307	s
+181310	v
 v
 adv
-181313	s
-v
+181316	v
 o
-181317	adv
-181320	v
-s
-181323	v
-s
-181326	v
-s
-181329	v
-o
+181319	v
+io
+181323	apposition
+181327	s
+181330	v
+adv
 181333	v
-181335	vc
-s
-181338	p
-181342	v
-181344	v
-s
-o
-181348	v
-s
-adv
-181353	v
-181355	o
-adv
-181358	o
+io
 v
-181362	s
-181365	v
-181367	s
-adv
-181370	v
-o
-s
-181374	aux
-s
+181337	adv
 v
+181340	s
+v
+181344	adv
+181347	v
+adv
+181350	v
+adv
+v
+181354	s
+181356	o
+v
+adv
+s
 v
 o
-v
+adv
+181364	v
+s
 aux
-181382	v
-v
-o
-v
-181387	v
-o
-v
-o
-v
-o
-v
-v
-181396	adv
-v
+181368	apposition
+181371	v
 s
-181401	v
+181374	v
+s
+181377	v
+s
+181380	adv
+181383	adv
+181385	o
+181389	v
 io
-s
+adv
+181393	v
+io
 o
+181398	s
 v
 io
-v
-181409	o
-v
+181404	v
 o
-v
+adv
+181408	v
+o
+adv
+181414	v
 io
-181415	v
 o
-181418	o
-v
-s
-adv
-181424	v
-181426	s
-adv
-v
-adv
-s
-adv
-v
-o
-181435	v
-aux
-s
-181439	v
-adv
-181442	adv
-adv
-v
-v
+181418	v
 io
 s
+181426	adv
 v
-v
+io
+adv
+s
+181432	v
 o
-v
-181453	s
-v
-o
-aux
+181437	v
 adv
 vc
+181441	s
 p
-181461	adv
-181464	v
-181467	adv
 v
-adv
-181471	v
-s
-181474	s
-181476	p
-181478	vc
-181480	v
-adv
-o
-181486	v
+181445	o
+181448	v
 io
 v
-181490	v
-181494	io
 v
+io
+v
+o
+181456	s
+181458	v
+v
+o
+181463	o
+181465	v
+181468	v
+io
+v
+181472	io
+181475	apposition
+181479	s
+181482	v
+adv
+181485	v
+io
+adv
+v
+io
+o
+adv
+181493	apposition
+adv
+s
 181497	v
-181501	io
+181499	adv
+s
+v
 181503	v
-o
-181506	v
-v
-181509	s
-v
-181512	v
-v
-o
-v
-io
-adv
+181505	io
 o
 adv
-181521	v
+apposition
+adv
+s
+181513	v
+181515	adv
+s
+adv
 v
-181524	io
-181526	s
-adv
-181530	v
-181532	v
-adv
-181536	adv
-181540	s
-181544	v
-adv
-181549	p
+181520	p
+181522	vc
+s
+181525	p
 vc
 s
-181558	v
+181530	s
+181533	vc
+p
+181537	vc
 s
+181540	p
+s
+181544	p
+vc
+181548	s
+181550	p
+vc
+s
+181555	p
+vc
+181559	s
+181561	apposition
+181563	p
+vc
+s
+p
+s
+v
+o
+v
+181575	o
+v
+181578	o
+v
+181582	o
+v
+181585	o
+v
+adv
+v
+o
+o
+v
+181593	o
+adv
+v
 io
 o
-v
-181565	v
+adv
 v
 adv
-181569	v
-s
-adv
-181575	v
-s
-adv
-181580	v
-s
-181583	v
-181586	v
-o
-181590	v
-o
-s
-181594	v
-181596	v
-o
-181599	s
-181601	v
-v
-io
+181602	o
 o
 v
-181607	v
-o
-adv
+181606	o
+v
+181609	adv
 181611	o
-adv
 v
-v
-181616	v
-v
-adv
-181620	apposition
-v
-o
 s
-o
-181626	v
-181628	o
-v
-v
-181632	s
-o
+p
+vc
+adv
+181618	s
 adv
 v
-v
 adv
+181628	adv
+v
+181631	v
+181633	v
+adv
+181636	s
 181640	v
+o
 s
+adv
 v
-io
+adv
+s
+181649	v
+v
+v
+adv
+181655	o
+181657	adv
+adv
+v
+v
+o
+181664	adv
+v
+adv
+v
+181669	v
+v
+181672	io
+181674	adv
+s
+adv
+181680	v
+181682	s
+181685	o
+181688	adv
+adv
+v
+181692	adv
+adv
+v
+s
+adv
+v
+adv
+o
 aux
-v
-o
 adv
-v
-181650	v
-io
-s
-o
-181655	s
-o
-v
-181659	s
-181662	o
-s
-181667	adv
-v
-adv
-o
-v
-s
-181675	v
-io
-aux
-v
-io
-o
-adv
-v
-181684	v
-o
-181687	s
-181689	v
-io
-o
+181703	v
 v
 o
-181695	v
-s
+o
+v
+181709	o
+v
+181712	o
 v
 o
-181702	v
-s
-adv
-181706	v
-o
-s
-181711	aux
-s
+181716	s
 v
-adv
-181717	s
 v
-adv
-181721	s
-181723	v
+181720	s
 181725	v
-v
 o
 v
-aux
+181729	adv
+o
+181736	s
 v
-v
-181733	v
 io
 adv
-p
-vc
-aux
+181741	v
 adv
-v
-v
-o
-181747	v
-s
-s
-181751	v
-v
+181744	s
+181746	v
 o
 p
-vc
-s
-181758	s
-181762	o
-v
-181766	v
-s
-adv
-181770	adv
-181774	v
-o
-s
-181779	v
-adv
-181782	v
-181785	adv
-v
-s
-v
-adv
-181793	aux
-v
-v
-o
-s
-p
-181800	aux
-181802	v
-adv
-adv
-v
-o
-vc
-181809	p
 adv
 s
-181814	v
-s
-181817	v
-o
+181752	adv
 v
-o
-181822	v
-o
-v
-o
+181755	v
 adv
-181831	v
+181759	v
+v
+181762	adv
+181764	v
+v
 io
-v
-s
-181836	v
-v
 adv
-181841	aux
-v
-s
-181845	adv
-181847	adv
-181850	v
-adv
-181854	v
-v
-181857	v
-adv
-181860	v
+181769	v
 o
+181772	apposition
+181778	o
+181784	adv
+v
+181787	adv
+v
+io
+181791	v
+v
+o
+adv
+181798	aux
+s
+p
+181803	aux
+v
+adv
+adv
+181809	o
+181811	adv
+v
+v
+o
+adv
+181820	adv
+v
+o
+io
+181825	v
+o
+181828	adv
+181830	adv
+adv
+v
+o
+adv
+181838	v
+v
+o
+181842	v
+181844	v
+io
+181847	v
+181849	v
+181851	v
+181853	v
+io
+181856	s
+181858	v
+v
+181861	v
+v
 181864	v
-181866	aux
-s
-181869	v
-adv
-181874	v
+v
+181867	s
+vc
+p
 o
 v
-181878	v
-adv
-181883	v
-adv
-v
-181887	v
-adv
-181892	aux
+s
+181874	o2
+o
 v
 io
-o
-adv
+181879	o
 v
-181899	v
-s
 o
-181903	v
+v
 io
+181886	s
+p
+vc
+v
 o
 v
+io
+181894	adv
+s
+181898	apposition
+181901	v
+o
+v
+o
 aux
+181907	adv
 v
+181910	v
+io
 s
-181912	aux
-s
-181915	v
 adv
 s
 v
-181920	v
+io
 s
-o
+181919	vc
+p
 181924	v
-o
 adv
-181928	v
-o
-adv
-181934	s
-181936	vc
-p
-v
-v
+181931	p
 s
-181943	v
-o
-v
-181947	v
-181950	v
-181952	o
-v
+181934	p
 s
-181957	adv
-181959	v
-o
+181937	v
 adv
-v
-io
-o
-v
-v
-o
-181970	v
-adv
-181975	v
-v
-adv
-181980	v
-181982	s
-v
-181985	v
-o
-181988	v
-o
-io
-181992	v
-s
-adv
-v
-o
-181998	v
-adv
-182001	p
+181941	p
 vc
-182004	v
-io
-v
-o
-182009	v
-v
-o
-182013	v
-s
 v
 adv
-182019	aux
+181948	p
 s
-182023	v
-v
+181951	p
+s
+181954	v
 adv
-182031	v
-s
-v
-io
-182036	adv
-adv
-182041	v
-s
-182044	s
-182046	v
-v
-o
-o
-v
-v
-182053	adv
-v
-182056	v
-182058	v
-p
+181958	p
 vc
+v
+o
+v
+adv
+181965	s
+v
+adv
+adv
+181970	adv
+181972	vc
+p
+adv
+181977	v
+o
+v
+adv
+o
+181983	adv
+o
+adv
+s
+181988	o
+v
+s
+181993	o
+v
+adv
+v
 s
 o
 v
+182001	s
+o
+v
+s
+182006	adv
+v
+o
+v
+182011	adv
+v
+adv
+182016	v
+o
+182019	s
+v
+io
+aux
+aux
+v
+adv
+182030	v
+o
+182036	apposition
+182039	s
+v
+io
+adv
+182045	aux
+aux
+adv
+182049	v
+182051	adv
+182053	o
+v
+182056	adv
+182058	o
+v
+182061	adv
+v
+io
 182065	adv
-o
-182069	v
-v
-o
-182073	o
-adv
-v
-adv
-s
-182079	v
-o
-adv
-s
-182085	v
-s
-182089	adv
-v
-182092	v
-io
-s
-v
-s
-182099	v
-adv
-adv
-p
-vc
-s
-v
-182107	s
-v
-adv
-s
-182112	adv
-v
-s
-182116	v
-o
-182119	adv
-182121	v
-182123	s
-182125	adv
-182128	s
-v
-182131	v
-o
-adv
-182137	adv
-v
-s
-182141	s
-v
-182144	s
-v
-182147	v
-o
-adv
-182152	s
-v
-o
-s
-v
-io
-aux
-s
-v
 v
 o
 v
-182165	s
-182167	adv
+adv
 v
+o
+s
+182074	s
+v
+o
+182080	v
+o
+v
+182084	s
+v
+o
+182088	adv
+182091	v
+s
+182094	v
+s
+182097	v
+s
+182100	v
+o
+182104	adv
+v
+v
+182108	adv
+182111	s
+v
+o
+182117	adv
+v
+o
+v
+182122	s
+v
+o
+182126	adv
+182129	v
+s
+182132	v
+s
+182135	v
+s
+182138	v
+o
+182142	v
+182144	vc
+s
+182147	p
+182149	v
+182151	v
+s
+o
+182155	v
+s
+adv
+182160	v
+182162	o
+adv
+182165	o
+v
+182169	s
 182171	v
-v
-o
-182175	adv
-182177	v
-182179	v
-s
-v
-o
-182184	s
-182187	aux
-s
-v
+182173	s
 adv
-v
-adv
-v
+182176	v
 o
-182198	v
-182200	adv
-o
-182203	adv
-v
-o
-182207	v
 s
-182210	adv
+182180	aux
+s
 v
-182213	v
-o
 v
 o
 v
 aux
-s
-182221	v
-o
-182224	v
-s
-adv
-182230	adv
-v
-s
-adv
-182238	v
-o
-s
-182242	s
-v
+182188	v
 v
 o
 v
-182249	v
-s
-182252	v
-182254	v
+182193	v
 o
-182258	v
-s
-v
 v
 o
-182265	v
+v
+v
+v
+182201	adv
+v
 s
-182268	v
+182206	v
+io
 s
-182271	adv
-182277	v
-adv
-s
+o
+v
+io
+v
+182214	v
+o
+v
+io
+182219	v
+o
+o
 v
 s
 adv
+182226	v
+182228	s
+adv
 v
-182285	v
+adv
+s
+adv
 v
 o
+182237	v
 aux
-182290	v
-182292	adv
-182294	v
-adv
 s
-182298	v
+182241	v
+adv
+182244	adv
+adv
+v
+v
 io
 s
 v
+v
+o
+v
+182255	s
+v
+o
+aux
+adv
+vc
+p
+182263	adv
+182266	v
+182269	adv
+v
+adv
+182273	v
+s
+182276	s
+182278	p
+182280	vc
+182282	v
+adv
+o
+182288	v
+io
+v
+182292	v
+182295	io
+v
+182298	v
+182301	io
 182303	v
 o
+182306	v
+v
+182309	s
+v
+182312	v
 v
 v
 io
-182309	aux
-aux
 adv
-v
 o
-182315	v
 adv
-182319	v
+182320	v
+v
+182323	io
+182325	s
+adv
+182329	v
+182331	v
+adv
+182335	adv
+182339	s
+182343	v
+adv
+182348	p
+vc
+s
+182357	v
+s
 io
-182322	v
-s
-182326	v
-io
-s
 v
+182362	v
 v
+adv
+182366	v
 s
-v
+adv
+182372	v
 s
-182335	v
-v
+adv
+182377	v
+s
+182380	v
+182383	v
 o
-adv
-182343	s
-182345	v
-aux
-v
-io
+182387	v
 o
-v
-182353	v
 s
-v
+182391	v
+182393	v
+o
 s
-182358	v
-s
-v
-adv
-v
-adv
-adv
-182366	s
-182368	v
-adv
-182373	v
-o
-182376	v
-s
-o
-182383	adv
-v
-adv
-182389	v
-o
-182394	v
-o
-182399	v
-182401	o
-v
-adv
-182406	v
-182409	s
-adv
-v
-o
-adv
+182397	v
 v
 io
-182417	o
-s
-182420	p
-s
-182423	p
-v
-182426	o
-182430	v
 o
+v
+182403	v
+o
+adv
+182407	o
+adv
+v
+v
+182412	v
+v
+adv
+182416	apposition
+v
+o
+s
+o
+182422	v
+182424	o
+v
+v
+182428	s
+o
+adv
+v
+v
 adv
 182436	v
-o
-182440	v
+s
+v
 io
+aux
+v
 o
+adv
+v
 182446	v
-o
-182449	v
-o
-182454	s
-182459	vc
-p
-p
-s
-vc
-p
-182466	s
-182468	apposition
-182474	apposition
-182478	apposition
-182485	apposition
-182488	apposition
-182493	apposition
-182497	apposition
-adv
-v
-o
-o
-182503	v
-s
-v
-o
-v
-o
-adv
-182511	adv
-v
-182514	adv
-182516	adv
-v
-v
-182520	adv
-adv
-182525	v
-182527	v
-182529	v
-v
-182532	v
-s
-182537	v
-v
-o
-v
-o
-v
-o
-v
-182546	adv
-v
-adv
-v
-182551	adv
-v
-o
-182556	adv
-182559	adv
-o
-182567	p
-182569	s
-adv
-182572	adv
-182577	v
-v
-s
-adv
-p
-vc
-182584	adv
-v
-182587	v
-v
-182590	adv
-182592	v
-o
-182597	vc
-s
-p
-v
-s
-182603	adv
-182606	adv
-vc
-p
-s
-182611	adv
-v
-182615	s
-adv
-v
-o
-182620	v
-o
-182623	v
-adv
-182630	v
-o
-182636	v
 io
-p
-vc
+s
+o
+182451	s
+o
+v
+182455	s
+182458	o
+s
+182463	adv
+v
 adv
-182643	adv
-182646	adv
-182648	aux
+o
+v
+s
+182471	v
+io
+aux
+v
+io
+o
+adv
+v
+182480	v
+o
+182483	s
+182485	v
+io
+o
+v
+o
+182491	v
 s
 v
 o
-182653	o
+182497	v
+s
 adv
-182656	vc
-182658	p
-182660	s
-182662	o
-p
-182665	s
+182501	v
+o
+s
+182506	aux
+s
 v
-182668	adv
-182670	v
-182672	o
 adv
-182675	adv
+182512	s
+v
+adv
+182516	s
+182518	v
+182520	v
+v
+o
+v
+aux
+v
+v
+182528	v
+io
+adv
+p
+vc
+aux
+adv
+v
+v
+o
+182542	v
+s
+s
+182546	v
+v
+p
+vc
+s
+182552	s
+182556	o
+v
+182559	v
+s
+adv
+182563	adv
+182567	v
+o
+s
+182572	v
+adv
+182575	v
+182578	adv
+v
+s
+v
+adv
+182586	aux
+v
+v
+s
+p
+182592	aux
+182594	v
+adv
+adv
+v
+o
+vc
+182601	p
+adv
+s
+182606	v
+s
+182609	v
+o
+v
+182613	v
+o
+v
+o
+adv
+182622	v
+io
+v
+s
+182627	v
+v
+adv
+182632	aux
+v
+s
+182636	adv
+182638	adv
+182641	v
+adv
+182645	v
+v
+182648	v
+adv
+182651	v
+o
+182655	v
+182657	aux
+s
+182660	v
+adv
+182665	v
+o
+v
+182669	v
+adv
+182674	v
+adv
+v
 182678	v
-o
 adv
-182685	v
-adv
-adv
-182695	v
-o
-182698	adv
+182683	aux
 v
-adv
-182702	o
-v
-v
-182706	io
-adv
-182710	o
-v
-182714	s
-vc
-v
-182718	s
-182722	v
-adv
-182725	v
-182727	s
-o
-adv
-182731	s
-o
-182735	v
-s
-adv
-182739	v
-o
-182742	v
-adv
-adv
-182748	v
-adv
-s
-v
-182754	v
-o
-adv
-182759	v
-adv
-182764	v
 io
 o
 adv
 v
+182690	v
+s
 o
-182773	v
+182694	v
+io
+v
+aux
+v
 s
-182778	adv
-vc
+182702	aux
 s
-p
-182784	s
-p
-182788	p
+182705	v
 adv
-182791	vc
+s
+v
+182710	v
+s
+o
+182714	v
+o
+adv
+182718	v
+o
+adv
+182723	s
+182725	vc
 p
-182797	s
-p
-182804	o
-o2
+v
+v
+s
+182732	v
+o
+v
+182736	v
+182739	v
+182741	o
+v
+s
+182746	adv
+182748	v
+o
+adv
+v
+io
+v
+v
+o
+182758	v
+adv
+182763	v
 v
 adv
+182768	v
+182770	s
+v
+182773	v
 o
-182810	adv
-182812	v
+182776	v
 o
-p
-182816	vc
+io
+182780	v
 s
+adv
+v
+o
+182786	v
+adv
+182789	p
+vc
+182792	v
+io
+v
+o
+182797	v
+v
+o
+182801	v
+s
+v
+adv
+182807	aux
+s
+182811	v
+v
+adv
 182819	v
 s
-adv
-v
-182825	s
-adv
-v
-o
 v
 io
+182824	adv
 adv
-182833	v
-adv
-182837	o
-adv
-182840	v
-v
-adv
-182845	adv
-v
-adv
+182829	v
+s
+182832	s
+182834	v
 v
 o
 o
+v
+v
+182841	adv
+v
+v
+182845	v
+p
+vc
+s
+o
+v
 182852	adv
-v
-v
-v
-182857	adv
+o
+182856	v
 v
 o
-182862	v
-adv
-s
+182860	o
 adv
 v
-182868	s
-182870	adv
-v
 adv
-182874	adv
-182877	s
-182884	v
-adv
-182887	v
-adv
-v
 s
-s
-182893	v
-adv
-adv
-182897	v
-s
-adv
-adv
-182904	apposition
-182908	s
-182910	v
+182866	v
 o
 adv
-182914	v
 s
+182872	v
+s
+182876	adv
+v
+182879	v
+io
+s
+v
+s
+182886	v
+adv
+adv
+p
+vc
+s
+v
+182894	s
+v
+adv
+s
+182899	adv
+v
+s
+182903	v
+o
+182906	adv
+182908	v
+182910	s
+182912	adv
+182915	s
+v
+182918	v
 o
 adv
-182921	apposition
 182924	adv
 v
-182927	v
+s
+182928	s
+v
+182931	s
+v
+182934	v
+o
+adv
+182939	s
 v
 o
-adv
-182933	v
+s
+v
+io
+aux
+s
+v
 v
 o
-182937	o
 v
-182940	adv
+182952	s
+182954	adv
+v
+182958	v
 v
 o
-adv
-182947	o
-adv
-182952	o
-adv
-182957	s
-182959	p
-182961	v
+182962	adv
+182964	v
+182966	v
+s
+v
 o
-182964	adv
+182971	s
+182974	aux
+s
+v
 adv
-vc
-adv
-p
-182970	v
-o
-182973	adv
-adv
-vc
-adv
-p
-182979	s
+v
 adv
 v
 o
 182985	v
-adv
-adv
-vc
-adv
-p
+182987	adv
+182989	adv
 v
 o
-182994	v
-o
-182997	v
-o
-183000	adv
-v
-o
-v
-o
-o
-v
-183008	o
-v
-v
-v
-o
-v
-o
-adv
-183017	o
-v
-183020	v
-o
-adv
-183024	o
-v
-183028	s
-v
-o
-183033	o2
-adv
-adv
-183037	o
-v
-io
-adv
-v
-o
-183045	v
-183048	v
+182993	v
 s
+182996	adv
 v
-io
-183054	v
-adv
-v
-183058	adv
-183061	s
-183063	v
-adv
-183066	o
-183069	v
-adv
-183073	v
-io
-o
-s
-vc
-v
-183080	o
-v
-183083	v
-s
-v
-io
-v
-v
-io
+182999	v
 o
 v
-183093	s
-v
-183096	s
-v
-s
-v
-183101	s
-v
-183104	s
-v
-183107	s
-v
-183110	p
-vc
-s
-adv
-v
-adv
-183117	s
-183119	v
-v
-s
-v
-io
-adv
-o2
-o
-v
-adv
-183130	v
-o
-adv
-v
-183135	o
-v
-v
-o
-adv
-v
-aux
-o
-v
-p
-183150	adv
-v
-o
-v
-183155	aux
-v
-io
-183159	o
-s
-vc
-adv
 v
 aux
 s
-v
+183006	v
 o
-183169	adv
-183171	s
+183009	v
+s
+adv
+183015	adv
 v
-o
-183175	adv
-183177	v
-io
+s
 adv
-v
-adv
-183183	s
-183186	s
-183193	p
-adv
-vc
-adv
-183202	apposition
-183204	s
-183207	v
-183209	s
-v
+183023	v
 o
 s
-183218	adv
+183027	s
 v
-183223	v
 v
+v
+183033	v
+s
+183036	v
+183038	v
+o
+183042	v
+s
+v
+v
+o
+183049	v
+s
+183052	v
+s
+183055	adv
+183060	v
+adv
+s
+v
+s
+adv
+v
+183068	v
+v
+o
+aux
+v
+183074	adv
+183076	v
+adv
+s
+183080	v
+io
+s
+v
+183085	v
+o
+v
+v
+io
+aux
+aux
+adv
+v
+o
+183096	v
+adv
+183100	v
+io
+183103	v
+s
+183107	v
+io
+s
+v
+v
+s
+v
+s
+183116	v
+v
+o
+adv
+183123	s
+183125	v
+aux
+v
+io
+o
+v
+183132	v
+s
+v
+s
+183137	v
+s
+v
+adv
+v
+adv
+adv
+183145	s
+183147	v
+adv
+183152	v
+o
+183155	v
+s
+o
+183162	adv
+v
+adv
+183168	v
+o
+183173	v
+o
+183178	v
+183180	o
+v
+adv
+183184	v
+183187	s
+adv
+v
+o
+adv
+v
+io
+183195	o
+s
+183198	p
+s
+183201	p
+v
+183204	o
+183208	v
+o
+adv
+183214	v
+o
+183218	v
+io
+o
+183224	v
+o
+183227	v
+o
+183232	s
+183237	vc
+p
+p
 s
 vc
 p
-v
-v
-v
-o
-v
+183244	s
+183246	apposition
+183252	apposition
+183256	apposition
+183263	apposition
+183266	apposition
+183271	apposition
+183275	apposition
 adv
-183235	v
-o
-183238	p
-vc
-adv
-183242	v
-adv
-183245	s
 v
 o
-v
-v
-io
-183252	adv
-v
-v
-183256	adv
-v
-v
-183260	s
-v
-183265	v
 o
-v
-v
+183281	v
 s
-183272	adv
 v
-183275	v
-183277	v
 o
 v
-p
-183282	apposition
-183288	v
-s
+o
 adv
-183293	adv
+183289	adv
+v
+183292	adv
+183294	adv
 v
 v
-o
 183298	adv
+adv
+183303	v
+183305	v
+183307	v
 v
+183310	v
 s
-183304	adv
+183314	v
 v
-s
-io
-aux
-s
-io
-aux
-183314	adv
-183317	v
-s
-183320	v
-adv
-adv
-adv
-183326	v
-183328	v
-io
 o
+v
+o
+v
+o
+v
 adv
-183333	p
-vc
-adv
-183338	adv
-s
-aux
+v
 adv
 v
 adv
 v
+o
+183331	adv
+183334	adv
+o
+183342	p
+183344	s
+adv
 183347	adv
+183352	v
 v
 s
-183351	v
 adv
-v
-adv
-183357	v
-io
-183360	adv
 p
 vc
 adv
-183366	adv
-adv
-183370	v
-s
 v
-o
+183361	v
 v
+183364	adv
+183366	v
 o
-aux
-apposition
-183384	v
-o
-adv
-183390	v
-o
-io
-183395	aux
-aux
-183398	adv
+183371	vc
 s
+p
+v
+s
+183377	adv
+183380	adv
 vc
 p
 s
+183385	adv
+v
+183388	s
+adv
+v
+o
+183393	v
+o
+183396	v
+adv
+183403	v
+o
+183408	v
 io
-v
-adv
-183410	s
-v
-o
-183414	adv
-s
-183417	o
-s
-v
-183421	adv
-s
-183425	io
-v
-s
-v
-183430	v
-adv
-aux
-v
-183435	v
-s
-v
-o
-v
-o
-183442	adv
-183444	v
-adv
-183448	p
-vc
-183451	adv
-183453	v
-o
-io
-183457	s
-183460	p
-183462	s
-183464	p
-vc
-adv
-183469	v
-s
-adv
-adv
-183474	s
-183477	v
-183479	v
-o
-v
-o
-183484	v
-s
-183487	v
-v
-io
-aux
-s
-183493	v
-o
-adv
-v
-v
-adv
-s
-183501	v
-io
-v
-o
-o
-v
-s
-183510	v
-183512	s
-183515	v
-adv
-183521	o
-183524	v
-o
-adv
-v
-adv
-v
-183531	adv
-183534	adv
-adv
-adv
-183538	v
-adv
-183542	adv
-s
-adv
-183546	o
-v
-183549	p
-vc
-v
-183553	io
-183555	s
-183557	vc
-p
-183562	v
 p
 vc
+adv
+183415	adv
+183418	adv
+183420	aux
 s
-o
 v
-183569	adv
+o
+183425	o
+adv
+183428	vc
+183430	p
+183432	s
+183434	p
+183436	s
+v
+183439	adv
+183441	v
+183443	o
+adv
+183446	adv
+183449	v
+o
+adv
+183456	v
+adv
+adv
+183465	v
 o
 adv
 v
+adv
+183471	o
+v
+v
+183475	io
+adv
+183479	o
+v
+183483	s
+vc
+v
+183487	s
+183491	v
+adv
+183494	v
+183496	s
 o
+adv
+183500	s
+o
+183504	v
+s
+adv
+183508	v
+o
+183511	v
+adv
+adv
+183517	v
+adv
+s
+v
+183523	v
+o
+adv
+183528	v
+adv
+183532	v
+io
+adv
+v
+o
+183540	v
+s
+183545	adv
+vc
+s
 p
-183576	vc
-183578	s
-183582	v
+183551	s
+p
+183555	p
 adv
-v
-adv
-183589	v
-s
-o
-v
+183558	vc
+p
+183564	s
+p
+183570	o
 o2
-183595	v
+v
+adv
+o
+183576	adv
+183578	v
+o
+p
+183582	vc
+s
+v
+s
+adv
+v
+183589	s
+adv
+v
 o
 v
+io
+adv
+183597	v
+adv
+183601	o
+adv
+183604	v
+v
+adv
+183609	adv
 v
 adv
 v
-183602	v
 o
+o
+183616	adv
+v
+v
+v
+183621	adv
+v
+o
+183626	v
+adv
 s
-183606	v
-io
+adv
+v
+183632	s
+183634	adv
+v
+adv
+183638	adv
+183641	s
+183648	v
+adv
+183651	v
+adv
+v
 s
+s
+183657	v
+adv
+adv
+183661	v
+s
+adv
+adv
+183668	apposition
+183671	s
+183673	v
+o
+adv
+183677	v
+s
+o
+adv
+183684	apposition
+183687	adv
+v
+183690	v
+v
+o
+adv
+183696	v
+v
+o
+183700	o
+v
+183703	adv
+v
+o
+adv
+183710	o
+adv
+183715	o
+adv
+183720	s
+183722	p
+183724	v
+o
+183727	adv
+adv
 vc
 adv
 p
-s
+183733	v
+o
+183736	adv
+adv
+vc
+adv
+p
+183742	s
+adv
 v
 o
-183617	v
-s
+183748	v
 adv
+adv
+vc
+adv
+p
+v
+o
+183757	v
+o
+183760	v
+o
+183763	adv
+v
+o
+v
+o
+o
+v
+183771	o
+v
+v
+v
+o
+v
+o
+adv
+183780	o
+v
+183783	v
+o
+adv
+183787	o
+v
+183790	s
+v
+o
+183795	o2
+adv
+adv
+183799	v
+io
 adv
 v
 o
-183624	v
-adv
-183627	v
+183806	v
+183808	v
 s
-adv
-183631	v
-adv
+v
+io
+183814	v
 adv
 v
+183818	adv
+183821	s
+183823	v
 adv
+183826	o
+183829	v
+adv
+183833	v
+io
+o
+s
+vc
+v
+183840	o
+v
+183843	v
+s
 v
 io
 v
-o
-183642	v
-183644	v
-adv
-183647	s
-v
-183650	s
-o
-v
-adv
-183655	o
-v
-s
-183659	v
-v
-adv
-183663	v
-o
-s
-183668	v
-o
-183671	v
-io
-183674	adv
-o2
-o
-v
-183679	v
-v
-adv
-183683	apposition
-v
-v
-s
-183690	o
-v
-apposition
-183695	o
-v
-s
-183699	v
-o
-183702	adv
-183704	o
-io
-v
-adv
-v
-183710	v
-183712	v
-s
-adv
-183716	o
-183718	o
-v
-adv
-v
-183723	o
-v
-adv
-v
-183728	v
-adv
-o
-183732	o
-183734	s
-v
-adv
 v
 io
-s
-v
-183743	v
 o
-183746	s
 v
-183750	v
+183853	s
+v
+183856	s
+v
 s
-183754	v
+v
+183861	s
+v
+183864	s
+v
+183867	s
+v
+183870	p
+vc
+s
+adv
+v
+adv
+s
+183878	v
+v
+s
+v
+io
+adv
+o
+v
+adv
+183888	v
+o
+adv
+v
+183893	o
+v
+v
+o
+adv
+v
+aux
+o
+v
+p
+183907	adv
+v
+o
+v
+aux
+v
+io
+183915	o
+s
+vc
+adv
+v
+aux
+s
+v
+o
+183925	adv
+183927	s
+v
+o
+183931	adv
+v
+io
+adv
+v
+adv
+183938	s
+183941	s
+183948	p
+adv
+vc
+adv
+183957	apposition
+183959	s
+183962	v
+183964	s
+v
+o
+s
+183973	adv
+v
+183977	v
+v
 s
 vc
 p
-183759	s
-183761	v
+v
+v
 v
 o
-s
-adv
 v
+adv
+183989	v
 o
-183769	adv
-adv
-183773	apposition
-183775	v
-183777	o
-183779	v
-io
-o
-s
-183784	v
-adv
-v
-183788	s
-183792	v
-adv
-adv
-v
-183798	s
-o
-v
-adv
-v
-adv
-183805	v
-s
-183810	s
-adv
-v
-o
-s
-183816	adv
-v
-adv
-s
-p
+183992	p
 vc
-183824	adv
-183826	s
+183995	v
+adv
+183998	s
 v
 o
-183830	v
-adv
+v
+v
+io
+184005	adv
+v
+v
+184009	adv
+v
+v
+184013	s
+v
+184018	v
+o
+v
+v
 s
-183837	adv
+184025	adv
 v
-s
-o
+184028	v
+184030	v
 v
-adv
-183847	o
-183849	v
-183851	adv
-adv
-v
-o
-183856	adv
-o
-183859	v
-adv
-vc
 p
-p
+184034	apposition
+184040	v
+s
+adv
+184045	adv
+v
+v
+o
+adv
+v
+s
+184055	adv
+v
+s
+io
+aux
+s
+io
+aux
+184065	adv
+184068	v
+s
+184071	v
+adv
+adv
+adv
+184077	v
+184079	v
+io
+o
+adv
+184084	p
 vc
-183866	adv
-v
 adv
-v
-adv
-v
-io
-o
+184089	adv
 s
-183877	v
-io
-s
-183883	adv
-v
-183887	s
-v
-o
-adv
-183894	v
-io
-183897	s
-183899	v
-adv
-183904	adv
-v
-io
-adv
-183914	v
-183917	v
-o
-o2
-183921	o
-183923	o2
-183926	v
-o
-o2
-183930	o
-183932	o2
-adv
-183936	s
-v
 aux
 adv
 v
-o
+adv
 v
+184098	adv
+v
+s
+184102	v
+adv
+v
+adv
+184108	v
+io
+184111	adv
 p
 vc
 adv
-183950	s
-v
-s
-183954	adv
-183957	v
-o
-183960	s
-183962	adv
-183965	v
-o
-v
-183969	io
-183971	aux
-183974	o
-v
-s
-v
+184117	adv
 adv
-o
-adv
-183982	adv
-183986	v
-183988	adv
-183991	v
-adv
-v
-io
-s
-183999	v
-aux
-v
-adv
-o
-v
-s
-184007	v
-v
-io
-o
-s
-184014	o
-v
-184017	s
-adv
-v
-io
-184022	adv
-s
-184026	apposition
-184029	vc
-s
-p
-184035	adv
-184039	adv
-vc
-s
-184044	p
-184048	adv
-184053	s
-v
-adv
-184057	adv
-184061	v
-o
-184064	v
-adv
-184069	aux
-s
-p
-184073	s
-v
-adv
-184077	adv
-184081	v
-o
-184084	v
-adv
-184089	v
-o
-184093	aux
-s
-p
-184098	s
-184100	v
-adv
-184103	v
-adv
-184106	v
-o
-184109	adv
-v
-adv
-v
-o
-adv
-184117	v
-adv
-v
 184121	v
+s
+v
 v
 o
-v
-184126	v
-184128	v
-184130	adv
-v
-184133	v
+aux
+apposition
+184134	v
+o
 adv
-o
 184140	v
-v
-adv
-184144	vc
+o
+io
+aux
+aux
+184146	adv
 s
-184149	p
-adv
-p
 vc
+p
+s
+io
+v
 adv
-184158	adv
+184158	s
+v
+o
+184162	adv
+s
+184165	o
 s
 v
-io
-aux
+184169	adv
 s
-184168	v
+184173	io
+v
+s
+v
+v
 adv
-v
-io
-v
-v
-184175	s
-io
 aux
+v
+184182	v
 s
-184184	adv
 v
+o
 v
-io
-v
-s
+o
+184189	adv
 184191	v
-v
-v
+adv
+184195	p
+vc
+184198	adv
+184200	v
+o
 io
-o
+184204	s
+184207	p
+184209	s
+184211	p
+vc
+adv
+184216	v
 s
-vc
-p
-184201	s
-vc
-p
-184206	v
-o
-184209	adv
-184212	v
-o
-v
-p
+adv
+adv
 184221	s
-184223	v
+184224	v
+184226	v
 o
-184229	apposition
-184231	s
-p
-184235	vc
-adv
-184239	v
+v
+o
+184231	v
 s
+184234	v
+v
+io
+aux
+s
+184240	v
+o
 adv
 v
-adv
-184246	v
+v
 adv
 s
-184250	s
-adv
+184248	v
+io
 v
+o
 v
-184255	s
-184257	adv
-184259	v
+s
+184256	v
+184258	s
 184261	v
-io
+adv
+184267	o
+184270	v
 o
 adv
 v
-aux
+adv
 v
-v
-v
-184271	adv
-v
+184277	adv
+184280	adv
+adv
+adv
+184284	v
+adv
+184288	adv
 s
-s
-184276	v
 adv
-184280	v
-s
+184292	o
 v
-o
-184286	s
-184288	v
-adv
-184291	adv
-adv
+184295	p
+vc
 v
-o
-184297	adv
-v
-adv
-adv
-v
-o
-184305	s
+184299	io
+184301	s
+184303	vc
+p
 184307	v
+p
+vc
+s
+o
 v
-184310	adv
+184314	adv
+o
 adv
 v
 o
-v
-184316	s
-184318	v
+p
+184321	vc
+184323	s
+184327	v
 adv
-184323	v
-s
-184326	v
-o
-184329	s
-184331	v
-adv
-184338	v
-o
-s
-184342	o
-s
-184345	o
-s
-184348	o
 v
+adv
+184334	v
+s
 o
 v
-184353	v
+o2
+184340	v
+o
+v
+v
+adv
+v
+184347	v
+o
 s
-v
-io
-adv
-adv
-v
+184351	v
 io
 s
-184363	v
-v
-184366	io
-v
-v
-o
-184374	io
-184376	adv
-v
-s
-184380	v
-v
-io
-184384	v
-s
-184387	adv
-v
-s
-o
-v
-v
-adv
-adv
-adv
-io
-v
-184400	v
-adv
-v
-184404	v
-adv
-v
-184409	v
-io
-s
-184414	v
-o
-184417	adv
-v
-184420	adv
-v
-184424	v
-v
-184427	adv
-v
-184430	v
-184432	s
-184437	adv
-adv
-v
-184441	o
-184443	v
-184445	adv
-adv
-v
-adv
-184450	adv
-v
-184453	adv
-v
-184456	v
-184458	v
-o
-184461	s
-184463	p
-184466	v
-184469	s
-184472	v
-184474	v
-io
-184478	s
-184481	v
-v
-o
-v
-184486	adv
-v
-184490	v
-o
-v
-184494	adv
-v
-s
-184498	v
-o
-184501	v
-184503	s
-v
-o
-184509	adv
-v
-v
-s
-184514	v
-v
-adv
-184519	s
 vc
 adv
-184523	v
-184525	adv
-184527	v
 s
-vc
-o
 v
-184533	adv
+o
+184361	v
+s
+adv
 adv
 v
 o
-184538	adv
-v
-184541	o
+184368	v
 adv
-184544	p
-vc
-v
-184548	s
-184550	adv
-184552	adv
-v
-184555	adv
-184557	v
+184371	v
 s
-vc
+adv
+184375	v
+adv
+adv
+v
+adv
+v
+io
+v
+o
+184386	v
+184388	v
+adv
+184391	s
+v
+184394	s
 o
 v
-184563	s
+adv
+184399	o
+v
+s
+184403	v
+v
+adv
+184407	v
+o
+s
+184412	v
+o
+184415	v
+io
+184418	adv
+o2
+o
+v
+184423	v
+v
+adv
+184427	apposition
+v
+v
+s
+184433	o
+v
+apposition
+184437	o
+v
+s
+184441	v
+o
+184444	adv
+184446	o
+io
+v
+adv
+v
+184452	v
+184454	v
+s
+adv
+184458	o
+184460	o
+v
+adv
+v
+184465	o
+v
+adv
+v
+184470	v
+adv
+o
+184474	o
+184476	s
+v
+adv
+v
+io
+s
+v
+184485	v
+o
+184488	s
+v
+184492	v
+s
+184496	v
+s
+vc
+p
+184501	s
+184503	v
+v
+s
+adv
+v
+o
+184510	adv
+adv
+184514	apposition
+184516	v
+184518	o
+184520	v
+io
+o
+s
+184525	v
+adv
+v
+184529	s
+184533	v
+adv
+adv
+v
+184539	s
+o
+v
+adv
+v
+adv
+184546	v
+s
+184551	s
+adv
+v
+o
+s
+184557	adv
+v
+adv
+s
+p
+vc
+184565	adv
+184567	s
+v
+o
 184571	v
-o
-184574	p
-vc
+adv
+s
 184577	adv
-184580	v
+v
 s
+o
+v
+adv
+184587	o
+184589	v
+184591	adv
+adv
+v
+o
+184596	adv
+o
+184599	v
+adv
 vc
 p
-o
+p
+vc
+184606	adv
 v
-184587	v
-s
+adv
 v
-184592	v
-s
-184595	o
-s
-184598	o
-s
-184601	o
-o
+adv
 v
 io
-v
-v
-s
-184610	adv
-v
 o
-adv
-184616	adv
-184618	v
 s
-v
-s
-184624	v
-o
-adv
-184630	v
-184634	v
-s
-184637	o
-v
-adv
-v
-s
-184643	v
-184645	s
-184648	v
+184617	v
 io
+s
+184623	adv
+v
+184626	s
+v
+o
+adv
+184633	v
+io
+s
+184637	v
+adv
+184642	adv
+v
+io
+adv
+184652	v
+184655	v
+o
+o2
+184659	o
+184661	o2
+184664	v
+o
+o2
+184668	o
+184670	o2
+adv
+184674	s
+v
 aux
-o
-v
-adv
-184656	adv
-184658	v
-o
-s
-184662	v
-io
-s
-o
-v
-s
-184669	io
-v
-184672	v
-184674	v
-v
-o
-s
-184679	v
-o
-adv
-adv
 adv
 v
 o
-v
-adv
-o
-v
-v
-s
-adv
-184695	adv
-184698	v
-io
-o
-184702	v
-adv
-o
-184706	v
-o
-adv
-adv
-v
-o
-o
-184714	v
-adv
-184718	o
-v
-io
 v
 p
 vc
+adv
+184688	s
+v
 s
-184727	adv
-184729	o
+184692	adv
+184695	v
+o
+184698	s
+184700	adv
+184703	v
+o
+v
+184707	io
+184709	aux
+184711	o
 v
 s
 v
 adv
-184736	s
-p
-184739	vc
+o
 adv
+184719	adv
+184723	v
+184725	adv
+184728	v
+adv
+v
+io
+s
+184736	v
+aux
+v
+adv
+o
+v
+s
 184744	v
-p
+v
+io
+o
+s
+184751	o
+v
+184754	s
 adv
+v
+io
+184759	adv
+s
+184763	apposition
+184766	vc
+s
+p
+184772	adv
+184776	adv
 vc
-184749	vc
-p
-184753	v
 s
-184758	v
-adv
-184762	o
-v
-io
-p
-vc
-s
-184770	adv
-o
-v
-s
+184781	p
+184785	adv
+184789	s
 v
 adv
-184778	adv
-adv
-v
-s
-o
-v
-s
-adv
-io
-184788	adv
-o
-v
-io
-184793	v
-v
-adv
+184793	adv
 184797	v
-v
-adv
 o
-184802	v
-v
+184800	v
 adv
-adv
-v
-o
-v
-adv
-184812	v
-adv
+184805	aux
 s
+p
+s
+v
+adv
+184812	adv
 184816	v
+o
+184819	v
+adv
+184824	v
+o
+184828	aux
+s
+p
+184833	s
+184835	v
+adv
+184838	v
+adv
+184841	v
+o
+184844	adv
+v
+adv
+v
+adv
+184851	v
+adv
+v
+184855	v
+v
+o
+v
+184860	v
+184862	v
+184864	adv
+v
+184867	v
+adv
+o
+184874	v
+v
+adv
+184878	vc
+s
+184883	p
+adv
+p
+vc
+adv
+184892	adv
+s
+v
+io
+aux
+s
+184902	v
+adv
+v
+io
+v
+v
+184909	s
+io
+aux
+s
+184918	adv
+v
+v
+io
+v
+s
+184925	v
+v
 v
 io
 o
-184824	s
-184826	v
-v
-v
+s
+vc
+p
+184935	s
+vc
+p
+184940	v
 o
-184831	vc
-p
-184835	s
-184837	vc
-p
-aux
-184842	s
-vc
-p
-184848	s
-184850	vc
-p
-184854	s
-184857	v
-o
-vc
-p
-s
-184863	p
-vc
-s
-184867	p
-vc
-184872	v
-s
-184875	adv
+184943	adv
+184946	v
 v
 p
-vc
+184954	s
+184956	v
+o
+184962	apposition
+184964	s
+p
+184968	vc
 adv
-184883	v
+184972	v
 s
-184887	o
-184891	v
 adv
-184895	o
-184899	v
-o
-184902	v
-o
+v
 adv
-184908	p
-vc
-s
-184916	adv
-s
-v
-184920	s
+184979	v
 adv
-184926	v
-o
-v
-p
-vc
 s
-184934	adv
-184936	v
+184983	s
 adv
-184939	o
 v
-s
 v
-184944	adv
-184947	v
-184949	v
-o
-v
-184953	v
-o
-184956	adv
-p
-vc
-s
-184962	adv
-v
-o
-v
-184967	o
-184969	v
-v
-o
-o
-v
-184975	v
-o
-adv
-p
-vc
-s
-184983	adv
-184985	v
-adv
-184989	adv
-184991	v
-o
+184988	s
+184990	adv
+184992	v
 184994	v
-v
-adv
-184999	v
-v
+io
 o
 adv
-o
-185005	adv
 v
-p
-vc
+aux
+v
+v
+v
+185004	adv
+v
+s
+s
+185009	v
 adv
 185013	v
 s
-185017	v
+v
 o
+185018	s
+185020	v
 adv
-185023	v
+185023	adv
+adv
+v
 o
+185029	adv
+v
 adv
-185029	p
-vc
-s
-185037	v
+adv
+v
+o
+185036	s
+185038	v
+v
+185041	adv
+adv
+v
 o
 v
-io
-aux
-s
-185044	v
-io
-adv
-s
+185047	s
 185049	v
 adv
-185053	p
-vc
+185054	v
+s
+185057	v
+o
+185060	s
+185062	v
 adv
-185057	s
-v
-adv
-185062	o
-185065	v
 185068	v
-s
 o
-185072	v
-adv
-185075	v
-adv
-185079	v
-o
-adv
-185086	v
 s
-185089	v
-adv
-io
+185072	o
 s
-185097	s
-vc
-p
-185102	s
-185104	vc
-p
-185107	s
-185109	p
-185114	aux
-185116	s
-p
-vc
-adv
-185121	io
+185075	o
 s
-185124	v
-adv
-s
-185128	v
-io
-o
-adv
-vc
-s
-p
-185136	adv
-adv
-185145	adv
+185078	o
 v
-adv
 o
-adv
-185152	adv
-185155	v
-s
-apposition
-o
-185161	v
-io
-185164	o
-s
-vc
-p
-apposition
+v
+185083	v
 s
 v
+io
 adv
+adv
+v
+io
+s
+185093	v
+v
+185096	io
+v
+v
+o
+185104	io
+185106	adv
+v
+s
+185110	v
+v
+io
+185114	v
+s
+185117	adv
+v
+s
+o
+v
+v
+adv
+adv
+adv
+io
+v
+185130	v
+adv
+v
+185134	v
+adv
+v
+185139	v
+io
+s
+185144	v
+o
+185147	adv
+v
+185150	adv
+v
+185154	v
+v
+185157	adv
+v
+v
+185161	s
+185166	adv
+adv
+v
+185170	o
+185172	v
 185174	adv
-s
+adv
 v
 adv
-s
-185180	v
+185179	adv
+v
+185182	adv
+v
+185185	v
+185187	v
 o
-v
-185184	adv
-v
-adv
-185188	apposition
-185191	apposition
-185193	v
-185195	s
+s
+185191	p
+185194	v
+185196	s
+185199	v
+185201	v
 io
-adv
-v
-adv
-v
-o
-185204	v
-o
-v
+185205	s
+185208	v
 v
 o
-185210	adv
-185212	o
 v
-185216	s
-185218	v
-185220	v
-s
-185224	adv
-185227	v
+185213	adv
+v
+185217	v
 o
-185230	adv
 v
-io
-v
-o
+185221	adv
 v
 s
-185238	v
-adv
-185242	v
-io
-v
-adv
-adv
+185225	v
 o
-185250	apposition
-185252	v
-s
-adv
-185258	v
-v
-v
-185262	v
-v
-o
-adv
-185268	v
-s
-185271	adv
-185273	v
-io
-185276	v
-io
-185280	v
-s
-185283	v
-o
-185286	v
-o
-185289	v
-v
-io
-v
-185294	s
-v
-adv
-adv
-adv
-185300	adv
-185302	v
+185228	v
 s
 v
 o
-adv
-adv
-185310	v
+185235	adv
 v
-o
-185315	v
-adv
-185318	v
-o
-185322	s
-185324	v
 v
-adv
 s
+185240	v
 v
-o
-p
+adv
+185245	s
 vc
+adv
+185249	v
+185251	adv
+185253	v
 s
-185334	s
-adv
-v
-v
-185339	o
-185341	v
-adv
-185344	v
-io
+vc
 o
+v
+185259	adv
+adv
+v
+o
+185264	adv
+v
+185267	o
+adv
+185270	p
+vc
+v
+185274	s
+185276	adv
+185278	adv
+v
+185281	adv
+185283	v
+s
+vc
+o
+v
+185289	s
+185297	v
+o
+185300	p
+vc
+185303	adv
+185306	v
+s
+vc
+o
+v
+185312	v
+s
+v
+185317	v
+s
+185320	o
+s
+185323	o
+s
+185326	o
+o
+v
+io
+v
+v
+s
+185335	adv
+v
+o
+adv
+185341	adv
+185343	v
+s
+v
 s
 185349	v
-io
 o
 adv
-o
-v
-v
-v
-io
+185355	v
+185359	v
 s
+185362	o
+v
+adv
 v
 s
-185362	v
+185368	v
+185370	s
+185373	v
 io
+aux
 o
-adv
 v
 adv
-185369	adv
+185381	adv
+185383	v
 o
-185374	s
-185376	v
-v
-io
-adv
-o
-185382	v
 s
-v
-adv
 185387	v
+io
+s
 o
-185394	v
-adv
-185397	v
-185400	v
 v
+s
+185394	io
+v
+v
+185398	v
+v
+o
+s
+185403	v
+adv
+adv
+adv
+v
+o
+v
+adv
+o
+v
+v
+s
+adv
+185418	adv
+185421	v
 io
 o
-s
-185406	io
-185409	v
-s
-185412	v
-185414	v
-o
-185418	v
-185420	apposition
-185423	v
-vc
-p
-185427	adv
-185431	adv
-v
-o
-s
-v
+185425	v
 adv
-185439	v
+o
+185429	v
 o
 adv
-185443	adv
 adv
 v
 o
-185448	v
 o
-v
+185437	v
 adv
-185453	adv
+185441	o
 v
-185456	s
-185458	v
+io
+v
 p
 vc
-adv
-185463	s
-185465	adv
-adv
-adv
-185469	v
-v
-adv
-185473	vc
-185475	p
 s
-adv
-185481	v
-adv
+185451	o
 v
-adv
-185486	s
-185488	v
 s
+v
 adv
-185492	v
-v
-v
-185496	p
+185458	s
+p
+185461	vc
+adv
+185466	v
+p
+adv
 vc
+185471	vc
+p
+185475	v
+s
+185480	v
+adv
+185484	o
+v
+io
+p
+vc
+s
+185492	o
+v
+s
+v
+adv
 185499	adv
-185501	v
 adv
-185504	v
+v
 s
+o
+v
+s
+adv
 io
-v
-o
-185510	v
-s
-vc
-adv
-v
-v
-185517	io
-s
-v
-aux
-185522	s
-vc
-v
-s
-v
-adv
-adv
-185530	s
-185532	v
-v
-185535	v
-adv
-185538	s
-v
-adv
-185543	v
-adv
-185546	v
-185548	o
-v
-185551	v
-v
-v
-v
-aux
-v
-o
-adv
-185560	s
-v
+185509	adv
 o
 v
-o
-185566	v
 io
-aux
+185514	v
+v
+adv
+185518	v
+v
+adv
+o
+185523	v
+v
+adv
 adv
 v
-185573	v
-s
-adv
-185577	v
-s
-s
-185583	v
 o
 v
 adv
+185533	v
+adv
+s
+185537	v
+v
+io
+o
+185545	s
+185547	v
+v
+v
+o
+185552	vc
+p
+185556	s
+185558	vc
+p
+aux
+185563	s
+vc
+p
+185569	s
+185571	vc
+p
+185575	s
+185578	v
+o
+vc
+p
+s
+185584	p
+vc
+s
+185588	p
+vc
+185593	v
+s
+185596	adv
+v
 p
 vc
-185590	v
-v
 adv
-185594	adv
-185597	v
-o
+185604	v
 s
-185603	v
+185608	o
+185612	v
 adv
-185609	v
-io
+185616	o
+185620	v
+o
+185623	v
 o
 adv
-v
-185615	v
-o
-185618	adv
-v
-o
-185625	s
-v
-v
-adv
-v
-adv
-adv
+185629	p
+vc
 s
-185634	v
-adv
-s
-185638	v
-o
-185642	adv
-185644	v
-o
-185647	o
-v
-s
-185651	v
-v
-io
-adv
+185637	adv
 s
 v
-o
-185660	adv
-185663	s
-185665	v
+185641	s
+adv
+185647	v
 o
 v
+p
+vc
+s
+185656	v
+adv
+185659	o
+v
+s
+v
+185664	adv
+185667	v
+185669	v
 o
+v
 185673	v
 o
 185676	adv
-v
+p
+vc
 s
-185680	v
+185682	adv
+v
+o
+v
+185687	o
+185689	v
+v
+o
+o
+v
+185695	v
+o
+adv
+p
+vc
 s
-v
-io
-185687	p
-o
+185704	v
 adv
-v
-adv
-v
+185708	adv
+185710	v
 o
-185699	v
-o
-185703	adv
-185706	aux
-adv
+185713	v
 v
 adv
-s
+185718	v
 v
 o
-s
-185715	adv
-o
-v
-s
-185721	adv
-v
 adv
-adv
-185726	v
 o
+185724	adv
 v
-o2
-o
+p
+vc
+adv
 185732	v
-o
-v
-io
-o
-v
-185739	v
-185741	v
-adv
-185744	v
-o
-185747	v
-adv
-185750	s
-v
+s
+185736	v
 o
 adv
-v
-s
-v
-io
-v
-185760	s
-v
+185742	v
 o
-v
-s
-185766	v
-v
-s
-185770	o
 adv
-v
-s
-185777	v
-v
-o
-p
+185748	p
 vc
-185783	s
-185785	o
-185787	v
 s
-adv
-v
-v
-185793	s
+185756	v
+o
 v
 io
-v
-io
-o
-s
-185801	v
-adv
-s
-p
-vc
-v
-185808	s
-v
-adv
-185812	adv
-185814	v
-185816	adv
-v
-185820	v
-adv
-185823	adv
-185825	v
-s
-v
-o
-adv
-185832	v
-s
-185836	s
-vc
-v
-o
-185841	adv
-v
-adv
-v
-o
-185847	v
-adv
-s
-v
-adv
-185857	aux
-s
-adv
-185862	v
-v
-v
-o
-v
-o
 aux
+s
+185763	v
+io
+adv
+s
+185768	v
+adv
+185772	p
+vc
+185775	s
+v
+adv
+185780	o
+185783	v
+185785	v
+s
+o
+185789	v
+adv
+185792	v
+adv
+185796	v
+o
+adv
+185803	v
+s
+185806	v
+adv
+io
+s
+185814	s
+vc
+p
+185819	s
+185821	vc
+p
+185824	s
+185826	p
+185831	aux
+185833	s
+p
+vc
+adv
+185838	io
+s
+185841	v
+adv
+s
+185845	v
+io
+adv
+vc
+s
+p
+185852	adv
+adv
+185861	adv
+v
+adv
+o
+adv
+185868	adv
+185871	v
+s
+apposition
+o
+185877	v
+io
+185880	s
+vc
+p
 apposition
 s
-185872	adv
 v
+adv
+185889	adv
 s
-185876	adv
 v
-io
-o
-185881	v
-s
-185884	v
-o
-v
-o
-v
-o
-185891	v
 adv
 s
 185895	v
-v
-o
-adv
-v
-185901	adv
-adv
-185906	v
-185908	s
-185910	v
-v
 o
 v
-aux
-v
-o
-s
-185919	v
+185899	adv
 v
 adv
-vc
-p
-v
-o
-185929	v
+185903	apposition
+185906	apposition
+185908	v
+185910	s
 io
-s
-185933	v
+adv
+v
+adv
+v
 o
-aux
-aux
-s
-185940	v
-adv
-185944	v
-adv
-185950	adv
+185918	v
+o
+v
+v
+o
+185924	adv
+185926	o
 v
 s
+185930	v
+185932	v
+s
+185936	adv
+185939	v
+o
+185942	adv
 v
 io
-o
-aux
-p
-s
-185960	o
 v
+o
+v
+s
+185950	v
+adv
+185954	v
 io
+v
+adv
+adv
+o
+185962	apposition
 185964	v
-185966	v
 s
-185969	adv
-185973	v
 adv
-s
+185970	v
 v
+v
+185974	v
+v
+o
 adv
-185982	v
-adv
+185980	v
+s
+185983	adv
 185985	v
-adv
-185989	v
-adv
+io
+185988	v
+io
+185992	v
 s
-v
-adv
+185995	v
 o
 185998	v
 o
+186001	v
+v
+io
+v
+186006	s
+v
 adv
-186004	v
-o
-186007	s
-v
-v
-o
+adv
+adv
+186012	adv
+186014	v
 s
 v
-s
-p
-186016	s
-v
-186019	s
-v
+o
+adv
+adv
 186022	v
+v
 o
-186025	s
 186027	v
-o
+adv
 186030	v
 o
-186033	v
-adv
-186038	adv
-adv
+186033	s
+186035	v
 v
 adv
-186043	adv
+s
 v
+p
+vc
+s
+186044	s
+adv
+v
+v
+186049	o
+186051	v
+adv
+186054	v
+io
+o
+s
+186059	v
+io
+adv
 o
 v
-186048	v
-o
-adv
 v
-adv
-adv
 v
-adv
-186058	v
 io
 s
-adv
-io
-adv
-s
-186066	v
-o
-186069	v
-io
-s
-o
 v
 s
-186076	v
-o
-186081	v
+186071	v
 io
+adv
 v
 adv
-186086	v
+186077	adv
 o
-186093	v
+186082	s
+186084	v
 v
-186097	v
 io
+adv
+o
+186090	v
 s
-186101	io
-186104	v
+v
+adv
+186095	v
+o
+186102	v
+adv
+186105	v
+186108	v
+v
+io
+o
 s
-186107	v
-186109	o
-186112	v
-186114	v
-apposition
-186118	v
+186114	io
+186117	v
+s
+186120	v
+186122	v
+o
+186126	v
+186128	apposition
+186131	v
 vc
 p
+186135	adv
+186139	adv
+v
+o
+s
+v
 adv
-186125	v
+186147	v
+o
+adv
+186151	adv
+adv
+v
+o
+186156	v
 o
 v
 adv
-186131	v
-adv
-186136	v
-s
-186140	v
+186161	adv
 v
 s
-o
-186146	v
-io
-s
-186150	v
-v
-io
-o
-s
-v
-v
-o
+186165	v
 p
-v
-186161	s
-186163	adv
-o
+vc
 adv
-p
-v
-186169	v
 s
-o
+186171	adv
+adv
+adv
 186175	v
 v
-o
-186181	adv
-v
+adv
+186179	vc
+186181	p
 s
-186186	o
-v
-186189	s
+adv
+186187	v
 adv
 v
-io
-186194	adv
+adv
+186192	s
+186194	v
 s
+adv
 186198	v
-o
 v
-186202	v
-s
+v
+186202	p
+vc
+186205	adv
+186207	v
 adv
-186206	v
-o
-v
+186210	v
 s
-186211	v
 io
 v
-186215	adv
-186221	s
-186223	v
-adv
-v
-186227	o
-adv
-v
-v
-186232	s
-v
-adv
-v
-adv
-aux
-186239	o
-adv
-v
-adv
-v
-o
-186247	v
-o
-186253	o
-v
-186257	o
-186262	o
-v
-adv
-adv
-v
-186268	adv
-adv
-v
-io
-v
-186274	adv
-186280	adv
-v
-186284	v
-v
-adv
-186291	adv
-186297	v
-186299	s
-adv
-186305	v
-o
-186308	v
-p
 v
 s
 vc
+adv
+v
+v
+186221	io
 s
-186316	s
+v
+aux
+186226	s
+vc
+v
+s
+v
+adv
+adv
+186234	s
+186236	v
+v
+186239	v
+adv
+186242	s
+v
+adv
+186247	v
+adv
+186250	v
+186252	o
+v
+186255	v
+v
+v
+v
+aux
+v
+o
+adv
+186264	s
+v
+o
+v
+o
+186270	v
+io
+aux
+adv
+v
+186276	v
+s
+adv
+186280	v
+s
+s
+186286	v
+o
+v
+adv
+p
+vc
+186293	v
+v
+adv
+186297	adv
+186300	v
+o
+s
+186306	v
+adv
+186312	v
+io
+o
+adv
+v
 186318	v
 o
+186321	adv
+v
+o
+186328	s
+v
+v
+adv
+v
+adv
+adv
 s
-186322	o
+186337	v
+adv
+s
+186341	v
+o
+186345	adv
+186347	v
+o
+186350	o
+v
+s
+186354	v
+v
+io
+adv
+s
+v
+o
+186363	adv
+186366	s
+186368	v
+o
+v
+o
+186376	v
+o
+186379	adv
+v
+s
+186383	v
+s
+v
+io
+186390	p
+o
+adv
+v
+adv
+v
+o
+186402	v
+o
+186406	adv
+186409	aux
+adv
+v
+adv
+s
+v
+o
+s
+186418	adv
+o
+v
+s
+186424	adv
+v
+adv
+adv
+186429	v
+o
+v
+o2
+o
+186435	v
+o
+v
+io
+v
+186441	v
+186443	v
+adv
+186446	v
+o
+186449	v
+adv
+186452	s
+v
+o
+adv
+v
+s
+v
+io
+v
+186462	s
+v
+o
+v
+s
+186468	v
+v
+s
+o
+adv
+v
+s
+186478	v
+v
+o
+p
+vc
+186484	s
+186486	o
+186488	v
+s
+adv
+v
+v
+186494	s
+v
+io
+v
+io
+o
+s
+186502	v
+adv
+s
+p
+vc
+v
+186509	s
+v
+adv
+186513	adv
+186515	v
+186517	adv
+v
+186520	v
+adv
+186523	adv
+186525	v
+s
+v
+o
+adv
+186532	v
+s
+186536	s
+vc
+v
+o
+186541	adv
+v
+adv
+v
+o
+186547	v
+adv
+s
+v
+adv
+186557	aux
+s
+adv
+186562	v
+v
+v
+v
+o
+aux
 apposition
 s
-186326	o
-s
-186329	o
-186333	v
-io
-s
-186337	p
-s
-v
-vc
-v
-186343	s
+186571	adv
 v
 s
-vc
-p
-186349	apposition
-186353	v
-v
-186356	s
+186575	adv
 v
 io
 o
-p
-vc
-aux
-186365	s
-186367	adv
-v
-io
-186371	s
-186374	apposition
-186377	s
-186379	io
-v
-186382	s
-vc
-p
-186386	adv
-186389	v
-o
-186393	s
-adv
-v
-o
-v
-io
-o
-186405	o
-v
-adv
-186409	v
-adv
-186413	o
-v
-adv
-186417	v
-adv
-186421	adv
-v
-io
-186425	io
-v
-186428	s
-vc
-p
-adv
-v
+186580	v
 s
-v
-io
-186438	v
-s
-adv
-v
-186443	o
-v
-adv
-186450	v
-186452	adv
-186454	v
-186456	v
+186583	v
 o
-s
 v
 v
 o
-v
-o
-p
-adv
-aux
-adv
-vc
-p
-s
-s
-186473	v
-v
-io
-o
-186478	v
-adv
-aux
-p
-vc
-186485	v
-o
-186489	o
-186491	adv
-s
-v
-io
-186496	o
-186498	s
-v
-adv
-v
-v
-o
-186505	v
-o
-186509	v
-o
-s
-186513	v
-o
-186516	v
-v
-o
-s
-186521	v
-o
-186524	adv
-v
-o
-o
-186529	v
-s
-186533	o
-186535	v
-o
-186539	v
-186541	o
-v
-s
-o2
-186547	v
-186549	s
-186552	v
-adv
-186558	adv
-186562	adv
-v
-io
-adv
-186568	v
-io
-186571	v
-s
-186574	adv
-v
-s
-adv
-v
-o
-186581	v
-s
-186585	v
-adv
-186590	adv
-186592	v
-s
-o
-186599	apposition
-186602	v
-o
-adv
-186606	adv
-186608	v
-adv
-186612	v
-s
-186615	adv
-186618	s
-186621	vc
-p
-adv
-186627	aux
-v
-io
-s
-186632	v
-adv
-v
-186636	s
-v
-io
-o
-aux
-p
-vc
-s
-p
-vc
-186647	v
-v
-adv
-o
-io
-o
-186654	io
-o
-186657	io
-o
+186589	v
 adv
 s
+186593	v
+v
+adv
+v
+186598	adv
+adv
+186603	v
+186605	s
+186607	v
+v
+o
 v
 aux
-s
 v
 o
-186667	aux
 s
+186616	v
+v
 adv
-186671	v
-o
-s
 vc
 p
-186678	apposition
-adv
-v
 v
 o
-186684	v
+186626	v
+io
+s
+186630	v
+aux
+aux
+s
+186636	v
+adv
+186640	v
+adv
+186646	adv
+v
+s
+v
+io
+aux
+p
+s
+186655	v
+io
+186658	v
+186660	v
+s
+186663	adv
+186667	v
+adv
 s
 v
 adv
-186690	v
+186676	v
 adv
-186693	v
+186679	v
+adv
+186683	v
+adv
 s
-186696	v
+v
+adv
 o
+186692	v
+o
+adv
+186698	v
+o
+186701	s
+v
 v
 o
+s
 v
-186702	adv
+s
+p
+186710	s
 v
+186713	s
 v
-186706	o
-186708	o
-v
-186711	adv
-o
 186716	v
-s
+o
+186719	s
+186721	v
+o
+186724	v
+o
+v
 adv
-186720	v
+186731	adv
+adv
+v
+adv
+186736	adv
+v
+o
+v
+186741	v
+o
+adv
+v
+adv
+adv
+v
+adv
+186751	v
 io
 s
+adv
+io
+adv
+s
+186759	v
+o
+186762	v
+io
+s
+o
 v
+s
+186769	v
+o
+186774	v
 io
 v
+adv
+186779	v
 o
-adv
-adv
-s
-186732	adv
+186786	v
 v
-186735	v
-o
-s
-v
-adv
-186741	s
-v
-186744	s
-v
-v
-adv
-s
-186750	v
-v
-o
-186754	s
-186756	v
-186758	v
-o
-v
-186762	io
-186765	s
-adv
-v
-186770	v
-o
-186773	v
-adv
-o
-v
-adv
-adv
-s
-186782	v
-v
-adv
-adv
-v
-s
-186789	adv
-186791	apposition
-v
+186790	v
 io
-186796	v
-adv
-186799	v
-adv
 s
-adv
-v
-o
-186806	v
-o
-aux
-v
-o
-186814	v
-186816	adv
-v
-adv
-186820	v
-adv
-186824	adv
-adv
-186828	v
-o
-io
-186833	adv
-v
-o
-v
-v
-186839	s
-v
-aux
-186844	v
-186846	adv
-p
+186794	io
+186797	v
+s
+186800	v
+186802	o
+186805	v
+186807	v
+apposition
+186811	v
 vc
+p
 adv
-v
+186818	v
 o
 v
-io
+adv
+186824	v
+adv
+186829	v
+s
+186833	v
+v
+s
 o
-adv
-186857	v
+186839	v
 io
 s
-186861	v
-adv
+186843	v
+v
+io
 s
+v
+v
+p
+v
+186852	s
+186854	adv
+adv
+p
+v
+186859	v
+s
+o
 186865	v
-s
-adv
-186870	adv
-v
-s
-adv
-adv
-v
-adv
-s
-adv
-v
 v
 o
+186871	adv
+v
 s
-186884	v
+186876	o
+v
+186879	s
+adv
+v
 io
+186884	adv
+s
+186888	v
 o
-adv
+v
 186892	v
-io
+s
+adv
 186896	v
 o
+v
+s
 186901	v
 io
-186904	v
+v
+186905	adv
+186911	s
+186913	v
 adv
+v
+186917	o
 adv
-186908	v
-186910	s
+v
+v
+186922	s
 v
 adv
-186914	v
-186916	s
+v
 adv
-186919	v
+aux
+186929	o
+adv
+v
+adv
+v
+o
+186937	v
+o
+186943	o
+v
+186947	o
+186952	o
+v
+adv
+adv
+v
+186958	adv
+adv
+v
 io
-s
-o
 v
-s
-186927	v
-adv
-186931	v
-o
-186934	adv
-186936	v
-186938	v
-adv
-186941	v
-186943	s
-adv
+186964	adv
+186970	adv
 v
-o
+186974	v
 v
 adv
-186950	v
-s
-186953	v
-o
-v
-aux
-186959	v
-adv
-186962	v
-o
-s
-v
-o
-s
-adv
-v
-aux
-o
-s
-186975	adv
-v
-o
-186979	adv
+186981	adv
 186987	v
-186989	adv
-186991	v
-io
-s
+186989	s
+adv
+186995	v
+o
+186998	v
 p
+v
+s
 vc
 s
-186999	adv
-v
+187006	s
+187008	v
 o
-v
-adv
-v
-o
-187007	o
-187009	v
-187011	v
-187013	v
-o
-187016	v
-o
-o
-v
-v
-io
-adv
-187025	adv
-187028	v
 s
-adv
+187012	o
+apposition
+s
+187016	o
+s
+187019	o
+187023	v
+io
+s
+187027	p
+s
+v
+vc
+v
+187033	s
 v
 s
-187034	p
 vc
-adv
-187041	v
-o
+p
+187039	apposition
+187043	v
 v
+187046	s
+v
+io
+p
+vc
+aux
+187054	s
+187056	adv
+v
+io
+187060	s
+187063	apposition
+187066	s
+187068	io
+v
+187071	s
+vc
+p
+187075	adv
+187078	v
 o
+187082	s
 adv
-187048	v
+v
 o
 v
 io
 o
-187055	adv
-v
-187058	vc
-p
-187062	adv
+187094	o
 v
 adv
-187068	s
-187070	v
-o
+187098	v
 adv
-187076	s
-vc
-p
-adv
-187084	s
-v
-o
-187088	adv
-187091	o
-v
-187094	s
-187096	v
-o
-187101	v
-adv
+187102	o
 v
 adv
 187106	v
-s
 adv
-187112	v
-adv
-187117	s
-io
-adv
-187121	p
-187123	v
-s
-187126	s
-io
-187129	adv
-s
+187109	adv
 v
-187134	s
-187140	v
-o
+io
+187113	io
 v
-o
-187145	v
-adv
+187116	s
+vc
 p
 adv
-vc
+v
+s
+v
+io
+187126	v
+s
+adv
+v
+187131	o
 v
 adv
-187153	adv
-187156	o
+187138	v
+187140	adv
+187142	v
+187144	v
+o
+s
+v
+v
+o
+v
+p
+adv
+aux
+adv
+vc
+p
+s
+s
 187160	v
 v
+io
+v
 adv
-187168	s
+aux
+p
+vc
 187170	v
 o
-v
-o
-187175	v
-adv
-p
-adv
-vc
-adv
-adv
-187183	v
-187185	o
-v
-v
-adv
-187192	v
-187194	v
-o
-187198	v
-187200	io
-187202	s
-187204	adv
-adv
-v
-o
-187212	apposition
-187214	s
-adv
-v
-187219	vc
-p
+187174	o
+187176	adv
 s
+v
+io
+187182	s
+v
+adv
+v
+v
+o
+187189	v
+o
+187193	v
+o
+s
+187197	v
+o
+187200	v
+v
+o
+s
+187205	v
+o
+187208	adv
+v
+o
+o
+187213	v
+s
+187217	o
+187219	v
+o
 187223	v
+187225	o
+v
 s
-187226	v
-o
-187229	adv
-187232	v
-v
-v
-187238	v
-v
-o
+o2
+187231	v
+187233	s
+187236	v
+adv
+187242	adv
+187246	adv
 v
 io
-187244	v
 adv
-adv
-187248	adv
-187252	adv
+187252	v
+io
+187255	v
+187257	adv
 v
+s
 adv
+v
+o
+187264	v
+s
+187268	v
 adv
-vc
+187273	adv
+187275	v
+s
+o
+187282	apposition
+187285	v
+o
+adv
+187289	adv
+187291	v
+adv
+187295	v
+s
+187298	adv
+187301	s
+187304	vc
 p
 adv
-187262	apposition
-187265	v
-s
-187272	v
-s
-187276	v
-v
-o
-adv
-187285	o
-v
-v
-o
-187294	adv
-v
-v
-adv
-o
-187302	adv
-187307	v
-s
-187312	v
-o
+187310	aux
 v
 io
-187318	o
-187320	v
-vc
-adv
-p
-187329	v
-io
-o
-v
-adv
-187335	v
-adv
-187338	o
-v
-adv
-187342	v
-adv
-adv
-v
-io
-187350	s
-v
-187353	adv
-187355	adv
-187358	o
-v
-v
-adv
-adv
-187366	apposition
-187368	adv
-187370	v
 s
-187373	adv
-187376	adv
-vc
-p
-187380	adv
+187315	v
+adv
 v
-s
+187319	s
 v
 io
 aux
-adv
+p
+vc
+s
+p
+vc
+187329	v
 v
 adv
-s
-187392	v
-io
-adv
-v
-io
-s
 o
-v
 io
-adv
-187403	adv
-187405	adv
-v
-s
-187410	adv
-apposition
-s
-v
-v
+o
+187336	io
+o
+187339	io
 o
 adv
-187420	v
-187422	s
-v
-v
 s
-io
-apposition
-187430	adv
 v
-187433	s
+aux
+s
+v
+o
+187349	aux
+s
+adv
+187353	v
+s
+vc
+p
+187359	apposition
+adv
 v
 v
 o
-s
+187365	v
 s
 v
-187446	o
+adv
+187371	v
+adv
+187374	v
+s
+187377	v
+o
+v
+o
+v
+187383	adv
+v
+v
+187387	o
+187389	o
+v
+187392	adv
+o
+187396	v
+s
+adv
+187400	v
+io
+s
+v
+io
+v
+o
+adv
+adv
+s
+187412	adv
+v
+187415	v
+o
+s
+v
+adv
+187421	s
+v
+187424	s
+v
+v
+adv
+s
+187430	v
+v
+o
+187434	s
+187436	v
+187438	v
+o
+v
+187442	io
+187444	s
+adv
 v
 187449	v
-v
-187452	s
-v
 o
-v
+187452	v
+adv
 o
 v
 adv
-187460	o
-v
-io
-v
-187465	s
-187469	v
-o
-187472	o
-v
-io
-v
-187477	s
-187479	v
-o
-187484	s
-v
-io
-o
-187489	v
-o
-v
-v
-o
-v
-187496	o
-v
-v
-187500	s
-187502	v
-o
-v
-o
-v
 adv
-187509	v
-io
 s
-187513	adv
+187461	v
 v
-187516	o
+adv
+adv
 v
+s
+187468	adv
+187470	apposition
+v
+io
+187474	v
+adv
+187477	v
+adv
+s
+adv
 v
 o
+187484	v
+aux
+v
+o
+187490	v
+187492	adv
+v
 adv
-187522	v
+187496	v
+adv
+187500	adv
+adv
+187504	v
+o
+io
+187509	adv
+v
+o
 v
 v
-187526	s
-187528	v
+187515	s
 v
+aux
+187520	v
+adv
+p
+vc
+adv
+v
+o
+v
+io
+o
 adv
 187532	v
-v
-io
-187536	o
-v
-adv
-v
-o
-s
-187543	v
-io
-aux
-o
-187549	v
-io
-187552	v
-o
-v
-s
-v
-o
-187560	s
-o
-v
-187564	v
-s
-187567	v
-o
-io
-adv
-adv
-v
-o
-v
-io
-adv
-s
-187582	v
-io
-187585	adv
-v
-s
-io
-187590	adv
-187594	v
-187597	v
-s
-o
-187601	v
-adv
-187605	v
-adv
-187614	v
-o
-s
-187618	v
-o
-adv
-187622	v
-adv
-s
-adv
-v
-o
-187629	v
-v
-v
-o
-187634	adv
-187636	s
-187638	v
-v
-v
-187642	v
-adv
-o2
-187646	v
-o
-187649	v
-o
-187652	adv
-v
-s
-o
-187660	v
-io
-187664	vc
-s
-p
-187670	vc
-p
-187673	p
-o
-187676	s
-v
-s
-adv
-v
-v
-io
-adv
-187685	s
-v
-o
-v
-o
-187691	v
-v
-io
-187695	s
-adv
-187699	v
-io
-v
-o
-187704	adv
-187706	adv
-v
-adv
-v
-187711	io
-187713	s
-v
-o
-187717	adv
-187720	v
-o
-v
-v
 io
 s
-o2
-187728	p
-vc
+187536	v
+adv
 s
-187736	adv
+187540	v
+s
+adv
+187545	adv
+v
+s
+adv
+adv
+v
+adv
+s
+adv
 v
 v
+o
 s
-187741	v
+187559	v
 io
+adv
+187565	v
+io
+187568	v
 o
-s
-v
-o
-187749	io
-v
-v
-187753	s
-s
+187573	v
+io
+187576	v
 adv
-187757	v
 adv
-187760	v
-s
-s
+187580	v
+187582	s
 v
 adv
-187767	v
-s
-s
 v
-o
+187587	s
 adv
-187776	v
-v
-v
-187780	adv
-v
+187590	v
 io
 s
-187786	o
-v
-io
-187790	v
-s
-187793	v
-o
-s
-187797	v
 o
 v
-o
-187802	adv
-v
 s
+187598	v
+adv
+187602	v
+o
+187605	adv
+187607	v
+187609	v
+adv
+v
+187613	s
+adv
+v
+o
 v
 adv
-p
-187809	vc
+187620	v
 s
-187814	v
+187623	v
 o
-io
-v
-adv
-187820	aux
-s
-v
-io
 v
 aux
-o
-v
-187829	v
+187628	v
+adv
+187631	v
 o
 s
-187833	v
-io
-o
-adv
-o
 v
-adv
-187841	p
-vc
 s
-o
-187847	v
-adv
-187850	v
-v
-o
-v
-io
-o
-187857	s
-187859	v
-o
 adv
 v
-adv
+aux
+s
+187642	adv
 v
-adv
-v
-adv
-v
-187870	v
 o
-187876	v
-o
-187880	o
-v
+187646	adv
+187653	v
+187655	adv
+187657	v
 io
 s
-o2
-o
-v
-o
-adv
-v
-v
-io
-s
-o2
-187895	v
 p
 vc
+s
+187665	adv
+v
+o
+v
+adv
+v
+o
+187673	o
+187675	v
+187677	v
+187679	v
+o
+187682	v
+o
+o
+v
+v
+io
+adv
+187691	adv
+187694	v
+s
+adv
+v
+s
+187700	p
+vc
+adv
+187707	v
+o
+v
+o
+adv
+187714	v
+v
+io
+187719	adv
+v
+187722	vc
+p
+187726	adv
+v
+adv
+187732	s
+187734	v
+o
+adv
+187740	s
+vc
+p
+adv
+187748	s
+v
+o
+187752	adv
+187755	o
+v
+s
+187759	v
+o
+187764	v
+adv
+v
+adv
+187769	v
+s
+adv
+187775	v
+adv
+187780	s
+io
+adv
+187784	p
+187786	v
+s
+187789	s
+io
+adv
+s
+v
+187796	s
+187802	v
+o
+v
+o
+187807	v
+adv
+p
+adv
+vc
+v
+adv
+187815	adv
+187818	o
+187822	v
+v
+adv
+187830	s
+187832	v
+o
+v
+o
+187837	v
+adv
+p
+adv
+vc
+adv
+adv
+187845	v
+187847	o
+v
+v
+adv
+187854	v
+187856	v
+o
+187860	v
+187862	io
+187864	s
+187866	adv
+adv
+v
+o
+187874	apposition
+187876	s
+adv
+v
+187881	vc
+p
+s
+187885	v
+s
+187888	v
+o
+187891	adv
+187894	v
+v
+v
 187899	v
 v
 o
 v
-187904	v
 io
-187907	v
-o
+187905	v
 adv
-187912	v
+adv
+187909	adv
+187913	adv
 v
-o
-v
-187917	s
-o
-v
-v
-v
-187923	o
-s
+adv
+adv
+vc
+p
+adv
+187923	apposition
 187926	v
-io
-187929	v
-io
-187932	s
-adv
-v
-adv
-187939	adv
-187941	v
-io
-o
-p
-vc
 s
-adv
-187949	v
-187951	s
-adv
-187956	v
-187958	s
-v
-adv
-v
+187932	v
 s
-187964	v
+187935	v
 v
-v
-187968	s
-v
-io
 o
 adv
+187943	o
+v
+v
+o
+187950	adv
+v
+v
+adv
+o
+187958	adv
+187963	v
 s
-p
+187967	v
+o
+v
+io
+187973	o
+187975	v
 vc
 adv
-187978	s
 p
+187984	v
+io
+o
+v
 adv
+187990	v
+adv
+187993	o
+v
+adv
+187997	v
+adv
+adv
+v
+io
+188004	s
+v
+188007	adv
+188009	adv
+188011	o
+v
+v
+adv
+adv
+188019	apposition
+188021	adv
+188023	v
+s
+188026	adv
+188029	adv
+vc
+p
+188033	adv
 v
 s
 v
 io
-o
 aux
-s
+adv
 v
-o
-187991	v
-o
+adv
 s
-187995	vc
-p
-s
-187999	v
+188045	v
 io
+adv
 v
 io
-188004	aux
-v
+s
 o
+v
+io
 adv
-188010	v
-s
-188014	adv
-188017	v
-s
-adv
-188021	v
-o
-188027	s
-s
-v
-o
-188037	adv
-188040	o
-v
-188043	o
-v
-s
-188047	vc
-p
-188050	s
-p
-p
-188054	vc
-s
+188056	adv
 188058	adv
-188060	s
-v
-adv
-v
-o
-adv
-188068	v
-188070	adv
-188072	adv
-adv
-v
-o
-adv
-188080	v
-adv
-188083	v
-o
-v
-adv
-188088	adv
-188090	io
-v
-o
 v
 s
-adv
-188098	s
-vc
-p
-v
-io
-s
-188105	v
-adv
-188108	v
-adv
-188112	v
-adv
-adv
-188117	v
-v
+188063	adv
 s
 v
-188122	v
+v
+o
+adv
+188071	v
+188073	s
+v
+v
+s
 io
-adv
-adv
+apposition
+188080	adv
+v
+188083	s
+v
+v
+o
+s
+s
+v
+188096	o
+v
+188099	v
+v
+188102	s
+v
+o
+v
+o
 v
 adv
-188129	adv
+188110	o
 v
 io
+v
+188115	s
+188119	v
+o
+188122	o
+v
+io
+v
+188127	s
+188129	v
 188133	s
-o
-v
 v
 io
-v
-s
-adv
-188143	s
-188145	v
-v
-s
-188150	io
-188152	o
-v
 o
-188156	v
+188138	v
 o
 v
+v
+v
+188144	o
+v
+v
+188148	s
+188150	v
+o
+v
+o
+v
 adv
+188157	v
+io
+s
 188161	adv
-188163	v
-188165	s
+v
+188164	v
+v
+o
+adv
 188169	v
+v
+v
+188173	s
+188175	v
+v
 adv
+188179	v
+v
+io
+188183	o
+v
+adv
+v
 o
-188173	v
 s
-v
-188177	o
-v
-188180	v
+188190	v
+io
+aux
 o
-188183	s
-v
-188186	v
-adv
-188189	v
+188196	v
+io
+188199	v
 o
+v
 s
-188193	adv
-v
-188196	o2
-o
-adv
-v
 v
 o
 188207	s
-188209	v
-io
+o
 v
+188211	v
+s
+188214	v
+o
+io
+adv
+adv
+v
+o
+v
+io
+adv
+s
+188229	v
+io
+188232	adv
+v
+s
+io
+188237	adv
+188241	v
+188243	v
+s
+o
+188247	v
+adv
+188251	v
+adv
+188260	v
+o
+s
+188264	v
+o
+adv
+188268	v
+adv
+s
+adv
+v
+o
+188275	v
+v
+v
+o
+188280	adv
+188282	s
+188284	v
+v
+v
+188288	v
+adv
 o2
-aux
-adv
-v
+188292	v
 o
-adv
-v
-adv
-v
-o
-188223	v
-v
-188226	io
-188228	v
-188230	io
-v
-adv
-o
-v
-v
-adv
-188239	s
-188241	p
-vc
-188244	s
-p
-vc
-adv
-vc
-s
-p
-188252	s
-p
-v
-188256	v
-s
-adv
-v
-o
-adv
-188263	adv
-188265	v
-io
-o
-aux
-v
-adv
-188274	s
-188277	v
-io
-188283	v
-o
-adv
-188287	v
-o
-io
-adv
-v
-188293	v
 188295	v
-188297	adv
-188299	v
-adv
-v
-adv
-s
-188307	adv
-188310	adv
-v
-188313	v
 o
-adv
+188298	adv
+v
 s
-188318	v
+o
+188306	v
 io
-o
-v
-v
-io
-v
-188326	v
+188310	vc
 s
-188331	adv
+p
+188316	vc
+p
+188319	p
+o
+188322	s
+v
 s
 adv
-188335	s
-adv
-188338	adv
-188341	v
-188343	s
-v
-adv
-v
-o
-v
-v
-v
-o
-188353	o
-s
-v
 v
 v
 io
+adv
+188331	s
 v
+o
+v
+o
+188337	v
 v
 io
+188341	s
+adv
+188345	v
+io
+v
 o
+188350	adv
+188352	adv
+v
+adv
+v
+188357	io
+188359	s
+v
 o
+188363	adv
 188366	v
-188369	v
-adv
-188375	adv
+o
+v
+v
+io
+s
+188373	p
 vc
 s
+188381	adv
+v
+v
+s
+188386	v
+io
 o
+s
 v
-188381	io
+o
+188394	io
 v
+v
+188398	s
 adv
-188387	v
+188401	v
+adv
+188404	v
 s
 v
 adv
-188393	s
-188395	v
-o
+188410	v
+s
 v
-v
-188400	s
-188403	v
 o
-188406	s
+adv
+188418	v
+v
 v
 adv
-188410	p
-vc
-adv
-188414	s
+v
+io
+s
+188427	o
+v
+io
+188431	v
+s
+188434	v
+o
+s
+188438	v
+v
+o
+188442	adv
+v
+s
 v
 adv
 p
-vc
-vc
-p
-188422	s
-v
-adv
-vc
-p
-vc
-p
-188430	s
-188433	adv
-v
-adv
-v
-188439	v
-188441	v
+188449	vc
+s
+188454	v
 o
-188444	o2
-188448	v
-s
+io
+v
 adv
-v
-o
+188460	aux
 s
-188455	aux
-s
-188458	v
-adv
-188461	v
-188463	s
 v
-v
+io
 v
 aux
-v
 o
-apposition
+v
+188469	v
+o
 s
 188473	v
+io
 o
-188476	v
+adv
+o
+v
+adv
+188481	p
+vc
 s
-188479	adv
+188486	v
+adv
+188489	v
+v
+o
+v
+io
+o
+s
+188497	v
+adv
+v
+adv
+v
+adv
+v
+adv
+v
+188507	v
+o
+188513	v
+o
+188517	o
+v
+io
+s
+o
+v
+o
+adv
 v
 v
+io
+s
+188530	v
+p
+vc
+188534	v
+v
+o
+v
+188539	v
+io
+188542	v
+o
+adv
+188546	v
+v
+o
+v
+188551	s
+o
+v
+v
+v
+188557	o
+s
+188560	v
+io
+188563	v
+io
+188566	s
+adv
+v
+adv
+188573	adv
+188575	v
+io
+o
+p
+vc
+s
+adv
+188583	v
+188585	s
+adv
+188590	v
+188592	s
+v
+adv
+v
+s
+188598	v
+v
+v
+188602	s
+v
+io
+o
+adv
+s
+p
+vc
+adv
+188612	s
+p
+adv
+v
+s
+v
+io
 aux
-v
-o
-apposition
-188487	v
 s
 v
 o
-188492	v
-o
-v
-v
-io
-v
-io
-aux
-188501	v
-s
-188504	v
-188506	s
-v
-o
-188512	adv
-v
-188515	v
-o
-188521	v
-adv
-188524	v
-adv
-adv
-188530	adv
-s
-v
-o
-v
-io
-o
-v
-adv
-188541	apposition
-188544	adv
-v
-o
-s
-v
-188550	s
-adv
-v
-v
-io
-188558	s
-io
-v
-o
-v
-188564	s
-o
-v
-adv
-188569	v
-o
-188572	s
-188574	v
-188576	v
-v
-adv
-188580	v
-v
-io
-188584	aux
-s
-188587	v
-adv
-adv
-188591	v
-adv
-188597	apposition
-adv
-v
-188601	s
-188604	v
-188606	v
-io
-s
-v
-o
-188615	v
-adv
-o
-188619	v
-adv
-s
 188624	v
 o
-188627	adv
-188630	s
+s
+188628	vc
+p
+s
 188632	v
-o
-adv
-188637	v
-adv
-188640	s
-188643	apposition
+io
 v
-adv
-188647	v
-v
+io
+188637	aux
 v
 o
+adv
+188643	v
 s
-p
+188647	adv
+188650	v
+s
+adv
 188654	v
+o
+188660	s
+s
+v
+o
+188670	adv
+188673	o
+v
+188676	o
+v
+s
+188680	vc
+p
+188683	s
+p
+p
+188687	vc
+s
+188692	s
 v
 adv
-188658	s
-p
-188663	v
-s
+v
+o
+adv
+188700	v
+188702	adv
+188704	adv
 adv
 v
-s
-188669	v
-p
-vc
-s
-s
-188675	v
-s
-vc
-p
-188680	apposition
-apposition
-188686	v
-s
+o
 adv
-188691	v
+188712	v
+adv
+188715	v
 o
 v
-188695	adv
-188698	o
-188702	v
-188706	v
+adv
+188720	adv
+188722	io
+v
 o
-188709	v
+v
+s
+adv
+188730	s
+vc
+p
+v
 io
-o
-v
 s
-188715	p
-vc
-s
-188719	o
-v
-o2
-188723	v
+188737	v
 adv
-s
-188727	adv
-188730	v
-o
-v
-188734	s
-188738	o
-188741	o
-v
-188746	v
+188740	v
 adv
-188750	v
+188744	v
+adv
+adv
+188749	v
+v
 s
-p
+v
 188754	v
-188756	v
 io
+adv
+adv
+v
+adv
+188761	adv
+v
+io
+188765	s
 o
 v
-o
-s
+v
+io
 v
 s
-188765	v
+adv
+188774	s
+188776	v
+v
+s
+188781	io
+188783	o
+v
+o
+188787	v
+o
+v
+adv
+188792	adv
+188794	v
+188796	s
+188800	v
+adv
+o
+188804	v
+s
+v
+188808	o
+v
+188811	v
+o
+188814	s
+v
+188817	v
+adv
+188820	v
+o
+s
+188824	adv
+v
+188827	o2
+o
+adv
+v
+v
+o
+188838	s
+188840	v
 io
+v
 aux
 adv
 v
-188771	adv
-188775	v
-v
-o
-188779	v
-o
-v
-adv
-188784	adv
-188786	v
-adv
-adv
-188790	v
-adv
-188793	v
-188796	v
-o
-188801	v
-adv
-188804	o
-v
-adv
-188808	adv
 o
 adv
-188812	v
-io
+v
 adv
+v
+o
+188853	v
+v
+188856	io
+188858	v
+188860	io
+v
 adv
+o
+v
+v
 adv
+188869	s
+188871	p
+vc
+188874	s
+p
+vc
+adv
+vc
 s
+p
+188882	s
+p
 v
-adv
-188822	v
-adv
+188886	v
 s
-188826	v
-s
-v
-v
-adv
 adv
 v
-s
-v
-188836	s
-v
+o
+adv
+188893	adv
+188895	v
 io
 o
-v
-io
-o
-188845	v
-o
-188848	adv
-v
-188851	adv
-o
-188854	v
-188857	io
-188859	v
-o
-v
-188863	v
-adv
-188866	v
-188868	o
-o
+aux
 v
 adv
-188873	v
-v
-188877	v
-s
-adv
-188881	v
-adv
-v
-s
-188890	v
-o
-adv
-188894	o
-v
-188897	s
-io
-v
-o
-188902	v
 188904	s
+188907	v
+io
+188913	v
+o
+adv
+188917	v
+o
+io
+adv
+v
+188923	v
+188925	v
+188927	adv
+188929	v
+adv
+v
+adv
+s
+188937	adv
+188940	adv
+v
+188943	v
+o
+adv
+s
+188948	v
+io
+o
+v
 v
 io
 v
-o
+188956	v
 s
-o2
-o2
-o
-188914	v
-io
+188961	adv
 s
-io
-v
 adv
-188921	o
+188965	s
+adv
+188968	adv
+188971	v
+188973	s
 v
-s
-188925	apposition
-p
-vc
-apposition
-p
-188931	p
-s
-188934	v
 adv
 v
 o
-188940	v
-p
 v
-io
-adv
-188946	adv
+v
 v
 o
-o
-188953	v
-p
-v
 o
 s
-188959	adv
-188961	v
-o
-188964	v
-io
 v
-adv
 v
 v
 io
-s
-adv
-s
+v
 v
 io
-adv
-188978	o
-v
-s
-188982	adv
-v
-s
-v
 o
-v
-adv
-v
-aux
-v
-adv
-v
-adv
-188996	s
+o
+188995	v
 188998	v
-v
+adv
+189004	adv
+vc
 s
-aux
-189003	adv
-v
-v
-189007	adv
-v
-adv
-189011	s
-189013	v
-v
-adv
-v
-adv
-v
-v
-s
-189023	v
-o
-189027	v
-s
-v
-io
-s
-o2
-v
-io
-189036	s
-189040	v
-adv
-adv
-189048	v
-189050	s
-adv
-adv
-189055	adv
-v
-o
-s
-189063	v
-o
-s
-189067	v
-adv
-v
-adv
-v
-o
 o
 v
+189010	io
+v
+adv
+189016	v
 s
+v
+adv
+189022	s
+189024	v
+o
+v
+v
+189029	s
+189032	v
+o
+189035	s
+v
+adv
+189039	p
+vc
+adv
+189043	s
+v
+adv
+p
+vc
 vc
 p
+189051	s
+v
+adv
+vc
+p
+vc
+p
+189059	s
+189062	adv
+v
+adv
+v
+189068	v
+189070	v
+o
+189073	o2
+189076	v
 s
+adv
 v
 o
-189082	o
-io
-v
+s
+189083	aux
+s
 189086	v
 adv
+189089	v
+189091	s
+v
+v
+v
+aux
+v
 o
-189090	v
-o
-189093	v
-o
-io
-189097	v
-189100	v
+apposition
 s
+189101	v
+o
 189104	v
-o
-189107	adv
-189109	v
-o
-189114	v
 s
+189107	adv
+v
+v
+aux
+v
 o
-189118	o
+apposition
+189115	v
+s
+v
+o
 189120	v
 o
-189123	v
-o
-189126	v
-adv
+v
+v
+io
+v
+io
+aux
+189129	v
+s
+189132	v
+189134	s
 v
 o
-189134	v
-io
-adv
-adv
-189139	v
-adv
-o
+189140	adv
+v
 189143	v
+o
+189148	v
+adv
+189151	v
+adv
+adv
+189157	adv
+s
 v
 o
-189147	s
-189149	v
-o
+v
+io
 v
 adv
+189167	apposition
+189170	adv
+v
 o
 s
-vc
-p
+v
+189176	s
+adv
 v
 v
+io
+189183	s
+io
+v
 o
-189161	v
-o
-189165	v
+v
+189189	s
 o
 v
 adv
-189171	v
-189174	v
+189194	v
+o
 s
-189178	o
-v
-io
-189182	v
-io
-o
-aux
-adv
-v
-o
-189190	o
-v
-io
-189194	s
-v
-io
-o
-adv
-189201	v
-io
-s
-adv
+189198	v
+189200	v
 v
 adv
+189204	v
+v
+io
 189208	aux
-o
-v
-v
 s
+189211	v
+adv
+adv
+189215	v
+adv
+189221	apposition
+adv
+v
+189225	s
+189227	v
+189229	v
+io
+s
+v
+o
+189238	v
+adv
+o
+189242	v
+adv
+s
+189247	v
+o
+189250	adv
+189253	s
+189255	v
+o
+adv
+189260	v
+adv
+189263	s
+189266	apposition
 v
 adv
-189216	adv
+189270	v
+v
 v
 s
-189220	vc
 p
+189276	v
+v
 adv
-189224	adv
-v
-io
-189228	v
-adv
-s
-189234	v
-io
-v
-o
-189240	v
-adv
-189244	v
-aux
-o
-189248	v
-v
-o
-189252	v
-s
-189257	o
-189259	v
-189261	adv
-v
-189265	v
-o
-v
-v
-o
-189271	adv
-o
-v
-189275	v
+189280	s
+p
+189284	v
 s
 adv
 v
-adv
-io
-v
-v
 s
-189286	adv
+189290	v
+p
+vc
+s
+s
+189296	v
+s
+vc
+p
+189301	apposition
 apposition
+189307	v
 s
-v
-o
-io
-189294	v
-o
-189297	v
-v
 adv
-189302	adv
-v
-v
-adv
-v
+189312	v
 o
 v
-v
-v
+189316	adv
+189319	o
+189323	v
+189327	v
 o
-aux
-o
-189315	v
-s
-189321	v
-189323	s
-p
-v
-adv
-189328	s
 189330	v
-v
-o
-s
-189335	adv
-189338	s
-189340	adv
-189343	s
-189345	v
-o
-189348	v
-189350	s
-189352	v
-189354	v
-o
-189357	v
-o
-189361	o
-189363	v
-adv
-v
 io
-189368	o
+o
+v
 s
-189371	p
+189336	p
 vc
-189374	v
+s
+189340	o
+v
+o2
+189344	v
 adv
-vc
+s
+189348	adv
+189351	v
+o
+v
+189355	s
+189359	o
+189361	o
+v
+189366	v
+adv
+189370	v
+s
 p
+189374	v
+189376	v
+io
 v
-189380	adv
-189385	o
+o
+s
 v
+s
+189384	v
+io
+aux
+adv
+v
+189390	adv
+189394	v
+v
+o
+189398	v
+o
 v
 adv
-189391	v
-s
-189394	adv
-189396	v
-o
-189399	o
-v
-apposition
+189403	adv
 189405	v
-s
-v
-v
-189410	s
-v
-v
-v
 adv
-o
 adv
-v
+189409	v
+adv
+189412	v
+189415	v
 o
 189420	v
-io
-aux
 adv
+189423	o
 v
 adv
-adv
-v
+189427	adv
 o
-s
+adv
 189431	v
+io
+adv
+adv
 adv
 s
+v
+adv
+189441	v
+adv
+s
+189445	v
+s
+v
+v
+adv
+adv
+v
+s
+v
+189455	s
 v
 io
 v
+io
+189462	v
 o
-189440	v
+189465	adv
+v
+189468	adv
 o
-adv
-189446	p
-vc
-s
-189454	p
-189456	vc
-s
-p
-189460	s
-adv
-v
-s
-o
-v
-189467	o
-v
-adv
 189471	v
-io
+189473	io
+189475	v
 o
-189475	adv
-189477	v
-aux
 v
-189481	p
-vc
+189479	v
+adv
+189482	v
 189484	o
-189487	adv
-v
-189490	adv
+o
 v
 adv
-adv
+189489	v
+v
+189492	v
+s
 adv
 189496	v
 adv
-189499	v
-189501	io
+v
 s
+189505	v
+o
 adv
+189509	o
 v
-o
-v
-v
-o
+189512	s
 io
-189511	adv
 v
-189514	s
 o
 189517	v
-adv
-o
-v
-aux
+189519	s
 v
 io
+v
 o
-189527	s
-189529	v
-io
-o
-189533	v
-io
-p
 s
-189541	v
-p
-adv
-v
-io
-v
-189548	o
-io
-189551	o
-189553	io
-189555	v
-v
-189558	v
+o2
 o
+189528	v
+io
+s
+io
 v
 adv
+189535	o
+v
+s
+189539	apposition
+p
+vc
+apposition
+p
+189545	p
+s
+189548	v
+adv
+v
+o
+189553	v
+p
+v
+io
+adv
+189559	adv
+v
+o
 189564	v
-adv
-s
+p
 v
-adv
-v
+o
 s
+189570	adv
 189572	v
 o
+189575	v
+io
+v
+adv
+v
+v
+io
+s
+adv
+s
+v
+io
+adv
+189589	o
+v
+s
+189593	adv
+v
+s
+v
+o
+v
+adv
 v
 aux
-s
-v
-o
-189580	s
 v
 adv
 v
-o
+adv
+189607	s
+189609	v
 v
 s
-189588	o
-189591	v
-o
-io
-189595	vc
-189597	p
-s
-189600	s
+aux
+189614	adv
 v
 v
-189604	adv
-v
-o
-v
-o
-189610	io
-189612	adv
-s
 189618	adv
-189620	adv
-189622	v
-s
-189625	adv
-189628	p
-189631	vc
-s
-189634	v
-o
 v
-189638	s
+adv
+s
+189623	v
+v
+adv
+v
+adv
+v
+v
+s
+189633	v
+o
+189637	v
+s
 v
 io
+s
 v
+io
+189645	s
+189649	v
 adv
 adv
-v
-o
-189647	o
-189650	adv
-189653	v
-189657	p
-189662	vc
+189657	v
+189659	s
+adv
+adv
 189664	adv
-189669	v
 v
-io
+o
+s
+189672	v
+o
+s
+189676	v
 adv
-189674	v
+v
+adv
+v
+o
+o
+v
 s
 vc
 p
-189687	vc
-p
-189691	p
-189693	v
 s
 v
-adv
-189699	s
-189701	v
-189703	v
 o
+189691	o
+io
 v
+189695	v
 adv
+o
+189699	v
+o
+189702	v
+o
+io
+189706	v
 189709	v
 s
 189713	v
 o
-aux
-p
+189716	adv
+189718	v
+o
+189722	v
 s
-189721	s
-189723	v
+o
+189726	o
+189728	v
+o
+189731	v
+o
+189734	v
+adv
+v
+o
+189742	v
+io
+adv
+adv
+189747	v
+adv
+o
+189751	v
+v
+o
+189755	s
+189757	v
+o
+v
+adv
+s
+vc
+p
+v
+v
+o
+189768	v
+o
+189772	v
+o
+v
+adv
+189778	v
+189781	v
+s
+189785	o
+v
+io
+189789	v
+io
+o
+aux
+adv
+v
+o
+189797	o
+v
+io
+s
+v
+io
+o
+adv
+189807	v
+io
+s
+adv
+v
+adv
+189814	o
+v
+v
+s
+v
+adv
+189821	adv
+v
+s
+189825	vc
+p
+adv
+189829	adv
+v
+io
+189833	v
+adv
+s
+189839	v
 io
 v
 o
+189845	v
+adv
+189849	v
+aux
+o
+189853	v
+v
+o
+189857	v
+s
+189862	o
+189864	v
+189866	adv
+v
+189869	v
+o
+v
+v
+o
+189875	adv
+o
+v
+189879	v
+s
+adv
+v
+adv
+io
+v
+v
+s
+189890	adv
+s
+v
+o
+io
+189897	v
+o
+189900	v
+v
+adv
+189905	adv
+v
+v
+adv
+v
+o
+v
+v
+v
+aux
+o
+189917	v
+s
+189923	v
+189925	s
+p
+v
+adv
+189930	s
+189932	v
+v
+o
+s
+189937	adv
+189940	s
+189942	adv
+189945	s
+189947	v
+o
+189950	v
+189952	s
+189954	v
+189956	v
+o
+189959	v
+o
+189963	o
+189965	v
+adv
+v
+io
+189970	o
+s
+189973	p
+vc
+189976	v
+adv
+vc
+p
+v
+189982	adv
+189987	o
+v
+v
+adv
+189993	v
+s
+189996	adv
+189998	v
+o
+190001	o
+v
 apposition
-189729	adv
-189744	s
-vc
-p
-189749	s
-p
-adv
-v
-o
-189756	o
-adv
-189761	s
-189763	v
-189765	s
-189767	v
-189769	s
-v
-o
+190007	v
 s
 v
-s
-adv
+v
+190012	s
+v
+v
 v
 adv
-189779	p
-vc
-v
-io
-p
-v
-io
-adv
-189788	s
+o
 adv
 v
 o
-o2
-v
-v
-s
-io
-189798	o
-v
-adv
-189803	v
-o
-189806	adv
-189812	s
-v
-o
-o2
-adv
-p
-vc
-189820	s
-v
-v
-io
-o
-189826	v
-s
-adv
-189831	v
-o
-adv
-adv
-s
-v
-io
-189842	v
-adv
-189846	v
-s
-189851	o
-189853	o
-v
-io
-v
-189858	adv
-189862	adv
-v
-v
-189867	adv
-v
-189870	v
-189872	o
-189874	v
-adv
-189879	s
-189881	adv
-189883	adv
-v
-v
-o
-o
-189891	v
-adv
-v
-adv
-189896	v
-189898	o
-189901	v
-o
-v
-189905	o
-189921	vc
-adv
-189924	p
-s
-189927	adv
-vc
-p
-189931	p
-189933	vc
-s
-189936	s
-189938	p
-vc
-189941	o2
-adv
-v
-adv
-189946	p
-189948	vc
-s
-189952	apposition
-adv
-vc
-p
-189957	s
-vc
-p
-apposition
-s
-189964	vc
-p
-s
-189968	v
-o
-v
-189972	s
-v
-o
-v
-189977	s
-189979	io
-aux
-189984	v
-o
-189988	adv
-189991	s
-189993	adv
-v
-189996	v
-v
-v
-s
+190022	v
 io
 aux
-190006	v
-o
-190011	v
-o
-o2
-190016	v
+adv
+v
+adv
+adv
 v
 o
-o2
-190022	s
+s
+190033	v
+adv
+s
+v
 io
-aux
-190026	v
-s
 v
-adv
-190031	p
-vc
-s
-190035	v
-adv
-190040	v
-aux
-190043	s
-190045	p
-vc
-apposition
-s
-190050	s
-190052	v
 o
-190055	s
-v
+190042	v
+o
 adv
-190059	p
+190048	p
 vc
 s
-190063	v
+190056	p
+190058	vc
+s
+p
+190062	s
 adv
-190067	apposition
-190069	v
-aux
+v
 s
-190073	p
-apposition
-s
-190077	s
+o
+v
+190069	o
+v
+adv
+190073	v
+io
+o
+190077	adv
 190079	v
-o
-190082	v
-adv
-190085	v
-adv
-190094	v
-adv
-190097	v
-adv
-190102	v
-adv
-190105	v
-adv
-190108	v
-adv
-190116	v
-adv
-190119	s
-io
 aux
-190126	v
-o
-190134	v
-o
-190139	apposition
-190145	o
-190147	v
 v
-o
+190083	p
+vc
+190086	o
+190089	adv
+v
+190092	adv
+v
 adv
-v
-aux
-190154	v
-o
-o
-190158	v
+adv
+adv
+190098	v
+adv
+190101	v
+190103	io
 s
+adv
+v
+o
+v
+v
+o
 io
+190113	adv
+v
+190116	s
+o
+190119	v
+adv
+o
+v
 aux
+v
+io
+o
+190129	s
+190131	v
+io
+o
+190135	v
+io
+p
+s
+190143	v
+p
+adv
+v
+io
+v
+190150	o
+io
+190153	o
+190155	io
+190157	v
+v
+190160	v
+o
+v
+adv
 190166	v
-o
-190173	adv
-190175	v
 adv
-190179	aux
+s
+v
+adv
+v
+s
+190174	v
+o
+v
+aux
+s
+v
+190181	s
+v
+adv
+v
+o
+v
+s
+190189	o
+190192	v
+o
+io
+190196	vc
+190198	p
+s
+190201	s
+v
+v
+190205	adv
+v
+o
+v
+o
+190211	io
+190213	adv
+s
+190219	adv
+190221	adv
+190223	v
+s
+adv
+190228	p
+190231	vc
+s
+190234	v
+o
+v
+190238	s
+v
+io
+v
+adv
+adv
+v
+o
+190247	o
+190250	adv
+190253	v
+190257	p
+190262	vc
+adv
+190268	v
+v
+io
+adv
+190273	v
+s
+vc
+p
+190286	vc
+p
+190290	p
+190292	v
+s
+v
+adv
+190298	s
+190300	v
+190302	v
+o
+v
+adv
+190308	v
+s
+190312	v
+o
+aux
+p
+s
+190320	s
+190322	v
+io
+v
+o
+apposition
+190328	adv
+190343	s
+vc
+p
+190348	s
+p
+adv
+v
+o
+190355	o
+adv
+190360	s
+190362	v
+190364	s
+v
+190367	s
+v
+o
+s
+v
+s
+adv
+v
+adv
+190377	p
+vc
+v
+io
+p
+v
+io
+adv
+190386	s
+adv
+v
+o
+o2
+v
+v
+s
+io
+190396	v
+adv
+190400	v
+o
+190403	adv
+190408	s
+v
+o
+o2
+adv
+p
+vc
+190416	s
+v
+v
+io
+o
+190422	v
+s
+adv
+190427	v
+o
+adv
+adv
+s
+v
+io
+190438	v
+adv
+190442	v
+s
+190447	o
+190449	o
+v
+io
+v
+190454	adv
+190458	adv
+v
+v
+190463	adv
+v
+190466	v
+190468	o
+190470	v
+adv
+190475	s
+190477	adv
+190479	adv
+v
+v
+o
+o
+190487	v
+adv
+v
+adv
+190492	v
+190494	o
+190497	v
+o
+v
+190501	o
+190517	vc
+adv
+190520	p
+s
+190523	adv
+vc
+p
+190527	p
+190529	vc
+s
+190532	s
+190534	p
+vc
+190537	o2
+adv
+v
+adv
+190542	p
+190544	vc
+s
+190548	apposition
+adv
+vc
+p
+190553	s
+vc
+p
+apposition
+s
+190560	vc
+p
+s
+190564	v
+o
+v
+190568	s
+v
+o
+v
+s
+190574	io
+aux
+190579	v
+o
+190583	adv
+190586	s
+190588	adv
+v
+190591	v
+v
+v
+s
+io
+aux
+190601	v
+o
+190606	v
+o
+o2
+190611	v
+v
+o
+o2
+190617	s
+io
+aux
+190621	v
+s
+v
+adv
+190626	p
+vc
+s
+190630	v
+adv
+190635	v
+aux
+190638	s
+190640	p
+vc
+apposition
+s
+190645	s
+190647	v
+o
+190650	s
+v
+adv
+190654	p
+vc
+s
+190658	v
+adv
+190662	apposition
+190664	v
+aux
+s
+190668	p
+apposition
+s
+190672	s
+190674	v
+o
+190677	v
+adv
+190680	v
+adv
+190689	v
+adv
+190692	v
+adv
+190697	v
+adv
+190700	v
+adv
+190703	v
+adv
+190711	v
+adv
+s
+io
+aux
+190720	v
+o
+190728	v
+o
+190733	apposition
+190739	o
+190741	v
+v
+o
+adv
+v
+aux
+190748	v
+o
+o
+190752	v
+s
+io
+aux
+190760	v
+o
+190767	adv
+190769	v
+adv
+190773	aux
 v
 adv
 o
-190186	vc
+190780	vc
 s
-190190	p
-190192	s
+190784	p
+s
 io
 aux
-190198	v
-adv
-190201	v
+190791	v
+190793	v
 s
 adv
-190205	vc
+190797	vc
 p
 adv
-190209	v
+190801	v
 o
-190214	adv
+190806	adv
 s
 p
 adv
-190219	vc
+190811	vc
 adv
 p
 adv
-190224	vc
+190816	vc
 p
 adv
-190229	s
+190820	s
 io
 aux
-190237	v
+190828	v
 o
-190242	v
+190833	v
 o
-190247	v
-o
-190250	vc
+190838	v
+190840	vc
 p
-190256	adv
+190846	adv
 vc
 p
 adv
-190264	v
+190854	v
 io
-190267	p
+190857	p
 vc
 v
 o
 s
 v
 o
-190277	aux
+190867	aux
 apposition
 adv
 v
 adv
-190285	adv
+190875	adv
 aux
 s
 v
 adv
 o
-190293	o
+190883	o
 adv
 v
-190299	adv
+190889	adv
 v
 adv
-190305	v
-adv
-190310	v
-adv
-s
-190315	v
-adv
-190318	adv
-190323	apposition
-190329	apposition
-o
-v
-adv
-190338	v
-io
-v
-s
-adv
-190346	aux
-aux
-v
-o
-190351	v
-v
-adv
-adv
-v
-v
-o
-190359	adv
-s
-v
-o
-190364	adv
-190367	adv
-v
-aux
-v
-io
-s
-190374	v
-190376	io
-o
-adv
-o
-v
-adv
-190383	v
-v
-v
-adv
-190389	v
-s
-adv
-190393	v
-190395	v
-s
-190398	v
-io
-o
-190403	s
-190405	v
-v
-io
-o
-v
-o
-190412	v
-io
-adv
-v
-adv
-s
-adv
-s
-adv
-v
-190423	v
-190425	s
-adv
-190430	v
-adv
-s
-adv
-v
-v
-io
-o
-adv
-s
-v
-190442	p
-s
-190452	v
-s
-v
-io
-o
-v
-190459	s
-o
-v
-s
-190464	v
-adv
-190468	v
-s
-vc
-p
-190473	o
-v
-v
-190477	v
-o
-190481	v
-v
-v
-190485	v
-190487	adv
-v
-s
-190491	v
-190493	s
-adv
-190496	s
-adv
-190499	v
-s
-190502	adv
-s
-190505	p
-190507	adv
-v
-o
-adv
-190512	v
-o
-190515	v
-adv
-190519	adv
-190523	adv
-v
-s
-190527	o
-v
-190530	v
-o
-190533	s
-v
-190536	v
-o
-190539	adv
-v
-s
-v
-s
-190547	v
-adv
-s
-v
-190552	v
-s
-190557	adv
-190560	adv
-io
-190564	adv
-v
-s
-190571	v
-s
-190576	v
-adv
-190579	apposition
-v
-adv
-190583	v
-v
-adv
-s
-190589	v
-adv
-190592	s
-190595	adv
-v
-v
-o
-190603	s
-190606	adv
-v
-adv
-v
-o
-190612	s
-190614	io
-adv
-v
-190618	v
-adv
-190622	v
-190625	adv
-v
-s
-190629	adv
-190631	v
-190633	adv
-s
-190636	s
-adv
-v
-adv
-190645	adv
-v
-190649	adv
-v
-s
-190653	adv
-v
-s
-adv
-190659	v
-s
-190663	adv
-190665	s
-io
-v
-aux
-p
-s
-190672	p
-adv
-v
-v
-190677	s
-190680	v
-o
-190685	v
-190687	p
-o
-190690	aux
-v
-io
-190698	v
-io
-aux
-p
-190703	vc
-adv
-v
-o
-v
-p
-190710	adv
-v
-190716	s
-v
-adv
-190720	v
-adv
-p
-vc
-s
-190729	p
-vc
-s
-adv
-v
-s
-adv
-190737	adv
-190742	s
-v
-190745	s
-adv
-v
-o
-190751	s
-v
-adv
-190756	s
-190759	v
-190761	adv
-v
-s
-190768	adv
-190770	adv
-v
-s
-190777	v
-s
-190781	v
-adv
-190786	adv
-190791	v
-o
-190794	adv
-190797	v
-o
-190800	adv
-190803	adv
-190808	adv
-190811	v
-o
-190816	adv
-s
-190819	vc
-p
-190822	o
-v
-v
-190826	p
-s
-adv
-adv
-s
-190832	v
-o
-v
-190836	p
-vc
-adv
-v
-io
-190842	adv
-v
-s
-190847	s
-v
-s
-190853	v
-s
-190857	adv
-v
-190860	adv
-190866	s
-v
-adv
-s
-190876	adv
-s
-adv
-190881	s
-190884	p
-vc
-s
 190895	v
 adv
-190900	apposition
-190906	adv
+190900	v
 adv
-v
 s
+190904	v
 adv
-190913	adv
-v
-190917	v
-s
-190920	v
+190907	adv
+190912	apposition
+190917	apposition
 o
-p
-vc
-s
-190930	adv
-vc
-s
-p
-190935	apposition
-s
-v
-190939	s
-v
-s
 v
 adv
-190945	apposition
+190925	v
+io
+v
 s
+adv
+190932	aux
+aux
 v
-190949	s
-v
-190952	v
-190955	adv
+o
+190937	v
 v
 adv
+adv
+v
+v
+o
+190945	adv
+s
+v
+o
+190950	adv
+190953	adv
+v
+aux
+v
+io
 s
 190960	v
+190962	io
+adv
 o
-190963	v
-190966	v
+v
+adv
+190968	v
+v
+v
+adv
+190974	v
 s
+adv
+190978	v
+190980	v
+s
+190983	v
+io
+o
+190988	s
+190990	v
+v
+io
+v
+o
+v
+io
+adv
+v
+adv
+adv
+s
+adv
+v
+v
+191006	s
+adv
+191011	v
+adv
+s
+adv
+v
+v
+io
+o
 adv
 s
 v
+191023	p
+s
+191033	v
+s
 v
-190973	adv
+io
 v
+191039	s
+o
 v
 s
-190979	adv
+191044	v
+adv
+191048	v
 s
 vc
 p
-190984	adv
+191053	o
+v
+v
+191057	v
+o
+191061	v
+v
+v
+191065	v
+191067	adv
+v
+s
+191071	v
+191073	s
 adv
+191076	s
+adv
+191079	v
+s
+191082	adv
+s
+191085	p
+191087	adv
+v
+o
+adv
+191092	v
+o
+191095	v
+adv
+191099	adv
+191103	adv
+v
+s
+191107	o
+v
+191110	v
+o
+191113	s
+v
+191116	v
+o
+191119	adv
+v
+s
+v
+s
+191127	v
+adv
+s
+v
+191132	v
+s
+191137	adv
+191140	adv
+io
+191144	adv
+v
+s
+191149	v
+s
+191154	v
+adv
+191157	apposition
+v
+adv
+191161	v
+v
+adv
+s
+191167	v
+adv
+191170	s
+191173	adv
+v
+v
+o
+191181	s
+191184	adv
+v
+adv
+v
+o
+191190	s
+191192	io
+adv
+v
+191196	v
+adv
+191200	v
+191203	adv
+v
+s
+191207	adv
+191209	v
+191211	adv
+191213	s
+adv
+v
+adv
+191222	adv
+v
+191226	adv
+v
+s
+191230	adv
+v
+s
+adv
+191236	v
+s
+191239	adv
+191241	s
+io
+v
+aux
+p
+s
+191248	p
+adv
+v
+v
+191253	s
+191256	v
+o
+191261	v
+191263	p
+o
+191266	aux
+v
+io
+191271	v
+io
+aux
+p
+191276	vc
+adv
+v
+v
+p
+191282	adv
+v
+191287	s
+v
+adv
+191291	v
+adv
+p
+vc
+s
+191300	p
+vc
+s
+adv
+v
+s
+adv
+191308	adv
+191313	s
+v
+191316	s
+adv
+v
+o
+191322	s
+v
+adv
+191327	s
+191330	v
+191332	adv
+v
+s
+191339	adv
+191341	adv
+v
+s
+191348	v
+s
+191352	v
+adv
+191357	adv
+191362	v
+o
+191365	adv
+191368	v
+o
+191371	adv
+191374	adv
+191379	adv
+191382	v
+o
+191386	adv
+s
+191389	vc
+p
+191392	o
+v
+v
+191396	p
+s
+adv
+adv
+s
+191402	v
+o
+v
+191406	p
+vc
+adv
+v
+io
+191412	adv
+v
+s
+191417	s
+v
+s
+191423	v
+s
+191427	adv
+v
+adv
+191435	s
+v
+adv
+s
+191445	adv
+s
+adv
+191450	s
+191453	p
+vc
+s
+191463	v
+adv
+191468	apposition
+191474	adv
+adv
+v
+s
+adv
+191481	adv
+v
+191485	v
+s
+191488	v
+o
+p
+vc
+s
+191498	adv
+vc
+s
+p
+191503	apposition
+s
+v
+191507	s
+v
+s
+v
+adv
+191513	apposition
+s
+v
+191517	s
+v
+v
+191522	adv
+v
+adv
+s
+191527	v
+o
+191530	v
+191532	v
+s
+adv
+s
+v
+v
+191539	adv
+v
+v
+s
+191544	adv
+s
+vc
+p
+191549	adv
 adv
 v
 apposition
 s
-190992	v
+191556	v
 p
-190995	vc
-s
-191000	o
+191559	vc
+191563	o
 v
 s
 adv
-191006	v
-io
-o
-adv
-p
-s
-191014	s
-v
-s
-191018	v
-adv
-v
-v
-io
-191024	adv
-191027	v
-v
-o
-191034	v
-s
-191038	adv
-191041	v
-s
-191046	v
-v
-o
-191050	v
-191053	adv
-v
-v
-s
-191060	adv
-191063	adv
-adv
-v
-191069	adv
-adv
-v
-191074	v
-o
-191077	o
-191079	adv
-191081	v
-p
-vc
-s
-191090	adv
-v
-s
-191095	adv
-191097	s
-v
-o
-191101	v
-adv
-191105	s
-191108	vc
-p
-191111	s
-p
-s
-191115	v
-o
-adv
-v
-adv
-o
-s
-191123	v
-o
-adv
-191127	adv
-191131	v
-191133	s
-v
-s
-191137	v
-adv
-191140	s
-v
-o
-v
-s
-v
-adv
-adv
-v
-s
-191153	v
-o
-191156	s
-191158	io
-v
-o2
-v
-io
-adv
-191167	s
-191169	v
-v
-191172	s
-v
-o
-adv
-adv
-adv
-v
-adv
-191181	v
-adv
-adv
-v
-191186	v
-io
-191189	v
-191191	s
-v
-v
-s
-191197	s
-v
-adv
-adv
-191203	v
-s
-adv
-191207	v
-s
-191211	v
-o
-aux
-aux
-v
-io
-s
-191219	v
-v
-o
-v
-io
-adv
-v
-o
-191228	v
-191231	adv
-v
-o
-191242	s
-v
-v
-o
-191248	v
-io
-o
-v
-191253	o
-io
-191256	v
-o
-io
-191260	o
-io
-191263	o
-io
-adv
-191269	v
-adv
-v
-o
-191274	v
-v
-adv
-191278	v
-o
-adv
-o
-v
-o
-191285	o
-v
-v
-v
-o
-191291	v
-o
-191296	adv
-191299	v
-s
-191305	v
-o
-adv
-191309	v
-o
-191312	v
-v
-o
-191316	v
-aux
-o
-io
-v
-aux
-o
-191324	v
-v
-io
-s
-191329	o2
-adv
-aux
-191333	o
-adv
-vc
-p
-adv
-o
-v
-v
-adv
-191346	v
-s
-o
-191350	v
-aux
-o
-io
-v
-aux
-o
-191358	v
-v
-io
-s
-191363	o2
-adv
-aux
-191367	o
-adv
-vc
-p
-adv
-o
-v
-v
-adv
-191380	v
-191382	s
-o
-191385	v
-v
-aux
-v
-o
-191391	p
-vc
-191394	v
-adv
-adv
-v
-191399	v
-adv
-adv
-v
-191404	v
-v
-v
-o
-191409	adv
-191411	aux
-v
-o
-v
-191416	s
-191418	v
-io
-o
-aux
-191423	v
-191425	v
-adv
-adv
-v
-191430	v
-adv
-adv
-v
-191435	v
-s
-191438	v
-o
-191441	io
-191443	v
-s
-v
-o
-adv
-v
-191450	adv
-o
-191453	v
-v
-o
-191458	io
-191460	v
-v
-191463	v
-191465	adv
-v
-s
-o
-v
-v
-adv
-191473	o
-191475	v
-adv
-191480	p
-vc
-s
-191491	v
-s
-191495	adv
-191499	s
-191501	adv
-adv
-v
-adv
-191508	v
-adv
-s
-191513	v
-o
-adv
-191518	s
-v
-o
-adv
-191525	v
-o
-191528	adv
-191530	o
-191532	adv
-adv
-v
-s
-io
-191539	o
-v
-aux
-v
-191545	v
-o
-191548	v
-io
-adv
-191554	v
-191557	v
-io
-v
-191561	v
-191563	v
-o
-191566	p
-vc
 191569	v
+io
 o
-191572	p
-191574	v
+adv
+p
+191576	s
+v
+s
+191580	v
+adv
+v
+v
+io
+191586	adv
+191589	v
+v
 o
-191577	v
-191579	v
+191595	v
+s
+191599	adv
+191602	v
+s
+191607	v
+v
 o
-191582	p
+191611	v
+191614	adv
+v
+v
+s
+191621	adv
+191623	adv
+adv
+v
+191628	adv
+adv
+v
+191633	v
+o
+191636	o
+191638	adv
+191640	v
+p
 vc
-191585	v
-adv
-adv
+s
+191649	adv
 v
-io
+s
+191654	adv
 s
 v
-aux
-191594	s
-v
-v
-191598	v
-191601	v
-191603	v
-191606	s
-v
-p
-191610	v
-191613	p
-191615	v
-191617	s
-v
-p
-v
-191624	v
+o
+191659	v
 adv
-191627	v
+191663	s
+191666	vc
+p
+191669	s
+p
 s
-v
-io
-v
-io
-adv
-adv
-v
-io
-191642	io
-v
-adv
-v
-io
-191649	v
-adv
-v
-adv
-191657	v
-io
-191665	v
-191668	adv
-v
-io
-v
 191673	v
-191675	adv
-v
-o
-191679	p
-vc
-191682	adv
-v
-o
-191686	p
-191688	adv
-v
-o
-191696	adv
-v
 o
 adv
 v
+adv
+o
+s
+191681	v
+o
+adv
+191685	adv
+191688	v
+191690	s
+v
+s
+191694	v
+adv
+191697	s
+v
+v
 s
 v
-aux
+adv
+adv
+v
 s
-v
-p
-v
 191709	v
-191716	adv
-v
 o
-adv
+191712	s
+191714	io
+v
 v
 io
+adv
+191722	s
+191724	v
 v
+191727	s
 v
-io
 adv
 adv
 adv
 v
-io
-191732	adv
+adv
+191735	v
+adv
+adv
+v
+191740	v
 io
 v
-191736	v
+191744	s
+v
+v
 s
+191750	s
+v
 adv
-191740	s
-191742	adv
-191745	v
-191748	v
-s
-o
-191753	v
-io
+adv
 191756	v
-191758	p
-191760	s
-vc
-191763	s
-191766	v
-adv
-v
-adv
-v
 s
-191777	adv
-191782	vc
-p
-191785	v
-191788	o
 adv
-v
-191792	v
-v
-191795	o
-adv
-adv
-191800	adv
+191760	v
 s
+191764	v
+aux
+aux
 v
-adv
-191806	s
-191808	vc
-p
-191814	apposition
-v
-adv
+io
 s
+191771	v
+v
+v
+io
+adv
+v
+o
+v
+191781	adv
+v
+o
+191792	s
+v
+v
+o
+191798	v
+io
+o
+v
+191803	io
+191805	v
+o
+io
+191809	o
+io
+191812	o
+io
+adv
+191818	v
+adv
 v
 o
 191823	v
+v
 adv
-191826	s
-v
-v
-191830	s
-v
-v
-p
-s
-191836	v
-191838	s
+191827	v
+o
+adv
 o
 v
+o
+191834	o
+v
+v
+v
+o
+191840	v
+o
+191845	adv
+191848	v
+s
+191854	v
+o
 adv
-191843	v
+191858	v
+o
+191861	v
+v
+o
+191865	v
+aux
+o
 io
 v
-191847	s
+aux
+o
+191873	v
 v
 io
-o
-adv
-o
-v
-io
-o
-191857	v
-adv
-adv
-191861	o
-v
-adv
-o
-191866	adv
-adv
-v
-v
-191871	s
-o
-191874	adv
-191877	adv
-v
-o
-v
-191882	v
-io
-adv
-v
 s
-191888	adv
-191891	v
-s
-o
-v
-s
-adv
-191898	adv
-v
-s
-191903	vc
-p
-adv
-191907	v
-o
-v
-io
-v
-s
-io
-v
-o
-s
-191918	v
-io
-o
-191922	adv
-v
-o
-191926	o
-v
-adv
-191932	v
-s
-adv
-v
-o
-adv
-v
-v
-io
-v
-o
-s
-191945	v
-o
-v
-adv
-191950	adv
-191953	v
-io
-s
-v
-o
-s
-191960	p
+191878	adv
+aux
+191881	adv
 vc
+p
 adv
-v
 o
+v
+v
 adv
-191970	v
+191893	v
 s
-191973	v
+o
+191897	v
+aux
+o
+io
+v
+aux
+o
+191905	v
+v
 io
 s
-191977	v
+191910	adv
+aux
+191913	adv
+vc
+p
+adv
 o
-191980	s
+v
+v
+adv
+191925	v
+191927	s
+o
+191930	v
+v
+aux
+v
+o
+191936	p
+vc
+191939	v
+adv
+adv
+v
+191944	v
+adv
+adv
+v
+191949	v
+v
+v
+o
+191954	adv
+191956	aux
+v
+o
+v
+191961	s
+191963	v
+io
+aux
+191967	v
+191969	v
+adv
+adv
+v
+191974	v
+adv
+adv
+v
+191979	v
+s
 191982	v
-v
-adv
-191989	v
+o
+191985	io
+191987	v
 s
 v
+o
+adv
 v
-io
-191995	s
+191994	adv
+o
 191997	v
+v
 o
-192000	v
+192002	io
+192004	v
+v
+192007	v
+192009	adv
+v
+s
+o
+v
+v
+adv
+192017	o
+192019	v
+adv
+192024	p
+vc
+s
+192035	v
+s
+192039	adv
+192043	s
+192045	adv
 adv
 v
+adv
+192052	v
+adv
+s
+192057	v
+o
+adv
+192062	s
 v
+o
+adv
+192069	v
+o
+192072	adv
+192074	o
+192076	adv
+adv
+v
+s
 io
-s
-s
-vc
+192083	v
 aux
-s
-192011	v
 v
-v
-adv
+192088	v
 o
+192091	v
+io
 adv
-192018	s
-o
+192096	v
+192099	v
+io
 v
-192022	s
-192026	v
-192028	v
-adv
-s
-192032	io
-192035	adv
-s
-192039	v
-p
+192103	v
+192105	v
+o
+192108	p
 vc
-adv
-192044	adv
-v
-s
-192048	v
-192050	s
-v
+192111	v
 o
-v
-s
+192114	p
+192116	v
+o
+192119	v
+192121	v
+o
+192124	p
 vc
+192127	v
+adv
+adv
+v
+io
+s
+v
 aux
+192136	s
 v
-io
-s
 v
-192062	v
-192064	s
-adv
+192140	v
+192143	v
+192145	v
+192148	s
 v
-s
-o
-192070	v
-v
-192073	v
-io
-v
-o
-192078	v
-v
-s
-vc
 p
-192085	adv
-v
-o
-192089	v
-v
-io
-v
-o
-v
-adv
-s
-s
-192099	vc
-p
-192105	adv
-v
-adv
-192109	v
-192111	io
-adv
-v
-adv
-adv
-192120	adv
-192124	o
-v
-adv
-adv
-adv
-192134	v
-v
-adv
-192140	adv
-v
-io
-s
-o
-s
-v
-adv
-adv
-192151	v
-192153	o
-v
-o
+192152	v
+192155	p
 192157	v
-s
-192161	adv
-192163	v
-s
+192159	s
 v
-adv
+p
+v
+192166	v
 adv
 192169	v
-192171	s
-v
-io
-o
-192176	s
-v
-adv
-s
-adv
-v
-v
-io
 s
 v
 io
-192188	adv
-192191	s
-v
-adv
-v
-o
 v
 io
-s
-o2
-v
-s
 adv
-v
-adv
-o
-v
-adv
-s
-192211	v
-adv
-v
-adv
-s
-adv
-192218	vc
-p
-192221	v
-io
-v
-adv
-adv
-adv
-v
-adv
-v
-192231	v
-o
-192238	v
-o
-v
-192242	v
 adv
 v
 io
+192184	io
+v
+adv
+v
+io
+192191	v
+adv
+v
+adv
+192199	v
+io
+192206	v
+192209	adv
+v
+io
+v
+192214	v
+192216	adv
+v
 o
-p
+192220	p
 vc
+192223	adv
+v
+o
+192227	p
+192229	adv
+v
+o
+192237	adv
+v
+o
+adv
+v
 s
-192251	adv
-v
-adv
-192255	v
-adv
-192258	v
-adv
-v
-adv
-192263	v
-192265	aux
-192267	p
-vc
-v
-adv
-s
-192276	s
-v
-192280	s
-192283	v
-adv
-192287	v
-s
-v
-192291	v
-io
-adv
-adv
-v
-adv
-v
-adv
-192300	v
-192302	v
-192304	adv
-v
-adv
-s
-192309	p
-s
-192312	p
-adv
-adv
-v
-v
 v
 aux
-192320	adv
-v
 s
 v
-192325	adv
-o
+p
 v
+192250	v
+192257	adv
 v
-s
-192333	v
-adv
-v
-s
-v
-v
-192340	s
-192343	v
 o
 adv
 v
-v
-adv
-o
-192351	v
-adv
-adv
-v
-adv
-192358	v
 io
-o
-192362	v
+v
+v
+io
 adv
-192365	v
-aux
+adv
+adv
+v
+io
+192273	adv
+io
+v
+192277	v
+s
+adv
+192281	s
+192283	adv
+192286	v
+192288	v
+s
+o
+192293	v
+io
+192296	v
+192298	p
+192300	s
+vc
+192303	s
+192306	v
+adv
+v
+adv
 v
 s
-192370	s
+192317	adv
+192322	vc
+p
+192325	v
+192328	o
+adv
+v
+192332	v
+v
+192335	adv
+adv
+192339	adv
+s
+v
+adv
+192344	s
+192346	vc
+p
+192352	apposition
+v
+adv
+s
+v
+o
+192360	v
+adv
+192363	s
+v
+v
+192367	s
+v
+v
+p
+s
 192373	v
-adv
-192378	v
-v
-aux
-v
-v
+192375	s
 o
-192385	adv
-s
 v
-aux
-s
-apposition
-192392	v
-192394	adv
-s
-192408	v
+adv
+192380	v
+io
+v
+192384	s
+v
+io
+adv
 o
 v
 io
 o
+192393	v
+adv
+adv
+192397	o
+v
+adv
+o
+192402	adv
+adv
+v
+v
+192407	s
+o
+192410	adv
+192413	adv
 v
 o
 v
+v
+io
+adv
+v
+s
+192423	adv
+192426	v
+s
+o
+v
+s
+adv
+192433	adv
+v
+s
+192438	vc
+p
+adv
+192442	v
+o
+v
+io
+v
+s
+io
+v
+o
+s
+192453	v
+io
+o
+192457	adv
+v
+o
+192461	o
+v
+adv
+192467	v
+s
+adv
+v
+adv
+v
+v
+io
+v
+o
+s
+192479	v
+o
+v
+adv
+192484	adv
+192487	v
+io
+s
+v
+s
+192493	p
+vc
+adv
+v
+o
+adv
+192502	v
+s
+192505	v
+io
+s
+192509	v
+o
+s
+192513	v
+v
+adv
+192519	v
+s
+v
+v
+io
+192525	s
+192527	v
+o
+192530	v
+adv
+v
+v
+io
+s
 s
 vc
-v
-o
-192421	adv
-v
-adv
-v
-v
 aux
-192428	v
-o
-s
-192432	v
-io
-aux
-adv
-v
-adv
-v
-v
-o
-adv
-192444	v
-o
-192447	aux
-s
-192451	v
-o
-v
-o
-192457	v
-o
-192461	v
-o
-192464	adv
-v
-io
-s
-o2
-v
-o
-192472	adv
-192475	s
-192477	v
-o
-adv
-v
-192482	v
-192484	adv
-v
-v
-o
-192490	v
-io
-adv
-o
-192496	adv
-192498	v
-s
-adv
-v
-v
-adv
-192506	v
-s
-io
-o
-192513	adv
-v
-adv
-192518	v
-o
-adv
-adv
-192523	v
-v
-192526	adv
-v
-o
-o
-s
-192532	v
-192534	v
-s
-192538	adv
 s
 192541	v
-o
 v
-192546	v
-o
 v
 adv
-192551	apposition
+o
 adv
+192548	s
+o
+v
 s
+192555	v
 192557	v
+adv
 s
-192560	v
-o
-adv
-adv
-192568	v
-adv
-v
-adv
-192573	v
-o
+192563	adv
 s
-192581	v
-o
+192567	v
+p
+vc
 adv
-192586	o
-v
-192589	o
-adv
+192572	adv
 v
 s
-v
-adv
-192596	v
-s
-v
-s
-v
+192576	v
+192578	s
 v
 o
 v
-o
-192608	adv
-192610	v
-192612	v
 s
+vc
+aux
 v
 io
-o
-v
-o
 s
+v
+v
+192591	s
 adv
 v
 s
-192624	v
-192626	s
+o
+192597	v
 v
+192600	v
 io
 v
-o
-adv
-192634	v
-192636	io
 v
-192639	s
+v
+s
 vc
 p
-192643	apposition
-192646	v
+192610	adv
+v
+o
+192614	v
+v
+io
+v
+v
+adv
+s
+s
+192623	vc
+p
+192629	adv
+v
+adv
+192633	v
+192635	io
+adv
+v
+adv
+adv
+192644	adv
+192647	o
+v
+adv
+adv
+adv
+192657	v
+v
+adv
+192663	adv
+v
 io
 s
 o
 s
 v
-192653	v
-io
 adv
+adv
+192674	v
+192676	o
 v
 o
+192680	v
 s
-192661	v
-adv
-192666	v
-adv
-192671	adv
+192684	adv
+192686	v
 s
 v
-o
-192676	v
-o
-v
 adv
 adv
-o
-v
-aux
-adv
-v
-o
-s
-adv
-v
-s
 192692	v
+192694	s
 v
-p
-adv
-vc
-192698	adv
+io
+192698	s
 v
 adv
-192704	v
-o
 s
-192708	v
+adv
+v
+v
+io
+s
+v
+io
+192710	adv
+192713	s
+v
+adv
 v
 o
 v
 io
-aux
+s
+v
+s
+adv
+v
+adv
+o
+v
+adv
+s
+192732	v
+adv
+v
+adv
+s
+adv
+192739	vc
 p
-vc
+192742	v
+io
 v
-o
-s
-192720	v
 adv
 adv
-192725	v
-adv
-s
-v
-s
-vc
-p
-192733	apposition
-s
-192736	v
 adv
 v
 adv
 v
-o
-v
-192744	v
-192746	adv
-192748	v
-o
-s
 192752	v
-io
-s
-vc
-p
-192758	apposition
-192760	adv
-v
-adv
-192764	adv
-v
 o
-adv
-192769	v
+192759	v
+o
 v
+192763	v
+adv
 v
 io
-o
-adv
-s
 p
 vc
 s
-192782	o2
-o
+192771	adv
 v
 adv
+192775	v
+adv
+192778	v
+adv
 v
-o
+adv
+192783	v
+192785	aux
+192787	p
+vc
 v
-192790	v
-192792	adv
+adv
+s
+192796	s
 v
-o
-192796	adv
+192800	s
+192803	v
+adv
+192807	v
 s
 v
-192800	v
-s
-o
-192805	v
-192807	s
-v
-adv
-v
-o
-192813	v
-adv
-v
-adv
-192818	s
-192820	v
-o
-v
-s
-192830	adv
-192833	v
-o
-192836	v
-o
-v
-192840	v
+192811	v
 io
-apposition
+adv
+adv
+v
+adv
+v
+adv
+v
+192821	v
+192823	adv
+v
+adv
+s
+192828	p
+s
+192831	p
+adv
+adv
+v
+v
+v
+aux
+192839	adv
+v
+s
+v
+192844	adv
+o
+v
+v
+s
+192851	v
 adv
 v
 s
 v
-o
-192849	v
 v
-v
-o
-192854	io
-192857	v
-v
-v
-o
-s
-192863	v
-o
-p
-adv
-s
-v
-192870	v
+192858	s
+192861	v
 o
 adv
-192874	v
+v
+v
+adv
+o
+192869	v
+adv
+adv
+v
+adv
 192876	v
-v
-s
-192880	v
-o
-v
-o
-adv
-v
-v
-o
-adv
-192891	p
-vc
-o
-192895	v
-v
-adv
-o
-192901	adv
-192905	vc
-s
-192908	p
-adv
-192911	adv
-v
-v
-adv
-192916	apposition
-v
-192919	v
-o
-192923	apposition
-192926	v
-o
-v
-adv
-192933	v
-o
-adv
-192940	v
 io
-s
-s
-192945	v
+v
 adv
-192949	v
-o
+192881	v
+aux
+v
 s
+192886	s
+192889	v
+adv
+192892	v
+v
+aux
+v
+v
+o
+192899	adv
+s
+v
+aux
+s
+apposition
+192906	v
+192908	adv
+s
+192922	v
+o
+v
+io
+o
+v
+o
 v
 s
 vc
-p
-192958	s
-192960	v
-s
 v
-192964	adv
-v
-s
-adv
-192971	o
+o
+192935	adv
 v
 adv
 v
+v
+aux
+192942	v
+o
+s
+192946	v
 io
-s
+aux
 adv
 v
-o2
+adv
+v
+v
+o
+adv
+192958	v
+o
+192961	aux
+s
+192965	v
 o
 v
-192983	adv
+o
+192971	v
+o
+192975	v
+o
+192978	adv
 v
 io
-adv
+s
+v
+o
+192985	adv
+192988	s
 192990	v
-s
+o
 adv
-adv
+v
 192995	v
-s
+192997	adv
+v
 v
 o
+193003	v
 io
-193001	o
-v
-v
-193005	adv
-o
-193008	vc
-p
-193012	v
-193014	s
-v
-io
-s
-o
-o
-v
-v
-io
-o
-193026	vc
-p
-v
-193031	adv
-v
-o
-193035	v
-193037	s
 adv
-193040	v
-adv
+o
+193009	adv
+193011	v
 s
+adv
+v
+v
+adv
+193019	v
+s
+io
+o
+193024	adv
+v
+adv
+193029	v
+o
+adv
+adv
+193034	v
+v
+193037	adv
+v
+o
+s
+193042	v
 193044	v
+s
+193048	adv
+s
+193051	v
 o
-p
+v
+193055	v
+o
+v
 adv
-193051	o
-193053	v
-adv
-adv
+193060	apposition
 adv
 s
-193062	v
-o
-193065	v
-o
-o
+193066	v
+s
 193069	v
-v
-193072	s
-v
-io
 o
+adv
+adv
+193077	v
+adv
 v
-193079	v
-io
+adv
+193082	v
+o
 s
-193083	v
-o
-v
-io
-s
-o
 193090	v
-adv
-vc
-p
-v
-s
-v
-s
-193099	v
 o
-193102	v
+adv
+193095	o
+v
+193098	adv
+v
 s
-193105	adv
+v
+adv
+193104	v
+s
+v
+s
 v
 v
+o
 v
-v
-193111	s
-193113	o
-v
+o
 193116	adv
+193118	v
+193120	v
 s
-v
-v
-o
-v
-o
-adv
-193125	v
-o
-p
-vc
-adv
-193132	s
-v
-193135	v
-s
-193138	v
-s
-193141	p
-193147	adv
 v
 io
 o
-o
-193153	v
 v
-193156	v
-adv
+o
 s
+adv
+v
+s
+193132	v
+193134	s
+v
+io
+v
+o
+adv
+193142	v
+193144	io
+v
+193147	s
+vc
+p
+193151	apposition
+193154	v
+io
+s
+o
+s
+v
 193161	v
-o
-adv
-193165	v
-adv
-o
-193170	v
-o
-o
-v
 io
-193176	v
-o
-adv
-v
-adv
-193184	o
-adv
-193189	v
 adv
 v
 o
+s
+193169	v
+adv
+193174	v
+adv
+193179	adv
+s
 v
+o
+193184	v
+v
+adv
+adv
+o
 v
 aux
-193198	v
 adv
 v
 o
-193203	v
-adv
-193210	v
-o
-v
-o
-o2
-193216	v
-o
-o2
-193221	v
-o
-adv
-v
-v
-193227	v
-o
-193230	adv
-p
-o
-v
-193235	v
-o
-193239	v
-adv
-193242	vc
-p
 s
-vc
+adv
+v
+s
+193199	v
+v
 p
+adv
+vc
+193205	adv
+v
+adv
+193211	v
+o
+s
+193215	v
+v
 v
 io
+aux
+p
+vc
 v
 o
+s
+193226	v
 adv
-v
-193254	v
 adv
-v
-v
-v
-193260	o
-v
-o
-193264	v
-o
-193267	v
-v
-o
+193231	v
 adv
-193272	v
-adv
-193276	o
-193279	v
+s
+v
 s
 vc
 p
+193239	apposition
+s
+193242	v
+adv
+v
+adv
+v
+o
+v
+v
+193251	adv
+193253	v
+o
+s
+193257	v
+io
+s
+vc
+p
+193263	apposition
+193265	adv
+v
+adv
+193269	adv
+v
+o
+adv
+193274	v
+v
+v
+io
+adv
+s
+p
+vc
+s
+193286	o2
+o
+v
+adv
+v
+o
+v
+193294	v
+193296	adv
+v
+o
+193300	adv
+s
+v
+193304	v
+s
+o
+193309	v
+193311	s
+v
+adv
+v
+o
+193317	v
+adv
+v
+adv
+s
+193323	v
+o
+v
+s
+193333	adv
+193336	v
+o
+193339	v
+o
+v
+193343	v
+io
 apposition
-193286	adv
-v
-adv
-s
-apposition
-s
-adv
-193294	s
-adv
-193297	v
-v
-o
-adv
-v
-o
-193305	v
-v
-o
-193309	adv
-193311	v
-193313	v
-o
-193316	p
-vc
-193320	v
-adv
-193323	adv
-s
-v
-adv
-193330	v
-o
-o
-v
-o
-adv
-v
-v
-193339	p
-vc
-v
-adv
-adv
-193346	v
-adv
-v
-adv
-193351	o
-v
-adv
-193355	v
-o
-v
-193360	p
-vc
-adv
-193364	s
-193367	v
-adv
-v
-o
-adv
-193374	s
-v
-adv
-193379	adv
-193381	adv
-193385	v
-s
-adv
-v
-o
-193392	aux
-aux
 adv
 v
 s
-vc
+v
+o
+193352	v
+v
+v
+o
+193357	io
+193360	v
+v
+v
+o
+s
+193366	v
 p
-193400	aux
-aux
 adv
-193404	o
+s
+v
+193372	v
+o
+adv
+193376	v
+193378	v
 v
 s
-193408	adv
+193382	v
+o
 v
-v
-v
-193413	o
-v
-s
-193417	adv
 adv
 v
+v
+o
+adv
+193392	p
+vc
+o
+193396	v
+v
+adv
+o
+193402	adv
+193406	vc
 s
-193423	v
+193409	p
+adv
+193412	adv
+v
+v
+adv
+193417	apposition
+v
+193420	v
+o
+193424	apposition
+193426	v
 o
 v
-193427	adv
-193429	v
-io
-v
+adv
+193432	v
 o
-s
-193435	v
-o
-v
+adv
 193439	v
-v
+io
 s
-v
+s
+193444	v
+adv
+193448	v
 o
 s
-193446	adv
 v
-adv
-v
-o
-193452	aux
 s
-193456	v
+vc
+p
+193457	s
+193459	v
+s
+v
+193463	adv
+v
+s
 adv
-193460	adv
-193462	s
+193470	o
 v
-193465	s
-v
-193468	s
-v
-193472	s
-193476	v
-v
-193479	v
 adv
+v
+io
+s
+adv
+v
+o2
+o
+v
 193482	adv
-193485	v
-adv
-193490	v
+v
 io
-s
-193496	adv
-v
-o
-v
-o
-193503	v
-v
 adv
-v
+193489	v
+s
 adv
-p
-vc
-s
-vc
-193513	p
-s
-193518	adv
-v
+adv
+193494	v
 s
 v
 o
-adv
-193525	v
+io
 o
-p
-vc
-s
-193531	apposition
-193534	apposition
-193545	s
-193547	v
 v
-s
-193554	s
+v
+193503	adv
+o
+193506	vc
 p
-s
-apposition
+v
+193510	s
 v
 io
 s
+o
+v
 v
 io
+o
+193521	vc
+p
+v
+193526	adv
 v
 o
-193567	adv
-s
 v
+193531	s
+adv
+193534	v
+adv
+s
+193538	v
+p
+adv
+193544	o
+193546	v
+adv
+adv
+adv
+s
+193555	v
+o
+193558	v
+o
+o
+193562	v
+v
+193565	s
+v
+io
+o
 v
 193572	v
+io
+s
+193576	v
 o
+v
+io
+s
+o
+193583	v
+adv
+vc
+p
+v
 s
 v
-o
-adv
-193580	v
-o
-adv
-193587	o
-v
-adv
+s
 193592	v
 o
-adv
-193597	v
-v
-193600	adv
+193595	v
 s
-193603	apposition
-193607	adv
+193598	adv
+v
+v
+v
+v
+193604	s
+193606	o
+v
 193609	adv
-193612	s
-vc
-p
-193616	v
 s
-193621	adv
 v
-aux
-v
-193626	s
-193628	v
-adv
-v
-adv
-193633	v
-v
-193636	v
-s
-adv
-193641	o
-193643	adv
-adv
-v
-s
 v
 o
-193650	v
+v
+o
+adv
+193618	v
+p
+vc
+adv
+193624	s
+v
+193627	v
+s
+193630	v
+s
+193633	p
+193639	adv
+v
 io
+o
+o
+193645	v
+v
+193648	v
+adv
+s
+193653	v
+o
+adv
+193657	v
+adv
+o
+193662	v
+o
+o
+v
+io
+193668	v
+o
+adv
 v
 adv
-193656	vc
-s
-193659	p
+193676	o
+adv
+193681	v
 adv
 v
-io
-s
+o
+v
+v
+aux
+193690	v
+adv
+v
+o
+193695	v
+adv
+193701	v
+o
+v
+o
 o2
-v
+193707	v
 o
-v
-193669	v
-193671	v
-s
-193674	v
-v
-o
-v
+o2
+193712	v
 o
 adv
-193681	adv
-193683	v
-adv
-193686	v
-s
-193689	apposition
-193693	v
+v
+v
+193718	v
 o
-193696	aux
-s
-v
-s
-193701	adv
-v
-adv
-193705	v
-v
-o
-193709	v
-adv
-vc
-193713	s
-193715	p
-193718	s
-193720	p
-adv
-193723	adv
-193727	v
-v
-193730	vc
+193721	adv
 p
-193733	v
-193735	s
-v
-io
 o
+v
+193726	v
+o
+193730	v
 adv
-v
+193733	vc
 s
-v
-193745	o
-v
-v
-193749	adv
 vc
 p
-193753	v
-193756	v
-193758	v
-v
-o
-193762	adv
-v
-193765	adv
-v
 v
 io
-193771	v
-adv
-193775	aux
 v
-adv
-adv
-193780	adv
 o
+adv
 v
-aux
+193744	v
+adv
 v
-io
+v
+v
+193750	o
+v
+o
+193754	v
+o
+193757	v
+v
+o
+adv
+193762	v
+adv
+193766	o
+193769	v
+s
+vc
+p
+apposition
+193776	adv
+v
+adv
+s
+apposition
+s
+adv
+193784	s
+adv
 193787	v
+v
+o
 adv
-adv
-193791	adv
+v
+o
 193795	v
 v
-io
-193800	aux
-s
+o
+193799	adv
+193801	v
 v
 o
-v
-v
+193805	p
+vc
+193809	v
+adv
+193812	adv
 s
-193808	v
 v
+adv
+193819	v
 o
-193813	v
+v
 o
 adv
 v
-io
-s
-o2
+v
+p
+vc
+v
+adv
+adv
+193833	v
 adv
 v
-v
-193824	v
-io
-193828	v
 adv
-193831	adv
-o
-v
-193835	v
-193837	s
-aux
-s
+193838	v
+adv
 193841	v
-adv
-193844	v
-io
 o
 v
-193849	adv
+193846	p
+vc
+adv
+193850	s
+193853	v
+adv
+v
+o
+adv
+193860	s
 v
 adv
-193853	o
-193855	v
-o
-v
-io
-v
-v
-193863	s
 193865	adv
-v
-v
-o
-s
-v
-193874	v
+193867	adv
+193871	v
 s
 adv
-193878	s
 v
-193881	o
-o2
-v
-193885	s
-193887	v
-o
-v
-193891	v
-193893	v
-s
-193896	adv
+aux
+aux
 adv
-193901	s
+v
+s
+vc
+aux
+aux
+adv
+193885	o
+v
+s
+193889	adv
+v
+v
+v
+193894	o
+v
+s
+193898	adv
+adv
+v
+s
 193904	v
-adv
-193907	adv
-193910	adv
-v
-io
-s
-193915	v
 o
 v
-s
-193920	v
-193922	v
-s
-v
+193908	adv
+193910	v
 io
 v
+o
+s
+193916	v
 v
-io
+v
+v
+s
+v
+o
+s
+193925	adv
+v
+adv
+v
+o
+193931	aux
 s
 193935	v
-193937	v
-o
-193940	v
-o
 adv
-193952	v
+193939	adv
+193941	s
+v
+193944	s
+v
+193947	s
+v
+193951	s
+193955	v
+v
+193958	v
+adv
+193961	adv
+193964	v
+adv
+193969	v
+io
+s
+193975	adv
+v
+o
+v
+o
+193982	v
+v
+adv
+v
+adv
+p
+vc
+s
+vc
+193992	p
+193995	adv
+v
 s
 v
 o
+adv
+194002	v
+o
+p
+vc
+s
+194008	apposition
+194011	apposition
+194021	s
+194023	v
+v
+194028	s
+p
+s
+apposition
+v
+io
+s
+v
+io
+v
+o
+194041	adv
+s
+v
+v
+194046	v
+o
+s
+v
+o
+adv
+194054	v
+o
+adv
+194060	o
+v
+adv
+194065	v
+o
+adv
+194070	v
+v
+194073	adv
+s
+194076	apposition
+194080	adv
+194084	s
+vc
+p
+194088	v
+s
+194093	adv
+v
+aux
+v
+194098	s
+194100	v
+adv
+v
+adv
+194105	v
+v
+194108	v
+s
+adv
+194113	o
+194115	adv
+adv
+v
+s
+v
+o
+194122	v
+io
+v
+adv
+194128	vc
+s
+194131	p
+adv
+v
+io
+s
+v
+o
+v
+v
+194141	v
+s
+194144	v
+v
+o
+v
+o
+adv
+194151	adv
+194153	v
+adv
+194156	v
+s
+194159	apposition
+194163	v
+o
+194166	aux
+s
+v
+s
+194171	adv
+v
+adv
+194175	v
+v
+o
+194179	v
+adv
+vc
+194183	s
+194185	p
+194188	s
+194190	p
+adv
+194193	adv
+194197	v
+v
+194200	vc
+p
+194203	v
+194205	s
+v
+io
+adv
+v
+s
+v
+194214	o
+v
+v
+adv
+vc
+p
+v
+194223	v
+v
+v
+o
+adv
+v
+194230	adv
+v
+v
+io
+194236	v
+adv
+194240	aux
+v
+adv
+adv
+194245	adv
+o
+v
+aux
+v
+io
+194252	v
+adv
+adv
+194256	adv
+194260	v
+v
+io
+194265	aux
+s
+v
+o
+v
+v
+s
+194273	v
+v
+o
+194278	v
+o
+adv
+v
+io
+s
+adv
+v
+v
+v
+io
+194291	v
+adv
+194294	adv
+o
+v
+v
+194299	s
+aux
+s
+194303	v
+adv
+194306	v
+io
+o
+v
+194311	adv
+v
+adv
+194315	o
+194317	v
 o
 v
 io
-193960	aux
+v
+v
+194324	s
+194326	adv
+v
+v
+o
+s
+v
+194334	v
+s
+adv
+194338	s
+v
+194341	o
+o2
+v
+s
+194346	v
+o
+v
+194350	v
+194352	v
+s
+194355	adv
+adv
+194360	s
+194363	v
+adv
+194366	adv
+194368	adv
+v
+io
+s
+194373	v
+o
+v
+s
+194378	v
+194380	v
+s
+v
+io
+v
+v
+io
+s
+194393	v
+194395	v
+o
+194398	v
+o
+adv
+194410	v
+s
+v
+o
+v
+io
+194417	aux
 s
 p
 vc
 adv
-193966	adv
-193970	p
-193975	apposition
-193978	v
+194423	adv
+194427	p
+194432	apposition
+194434	v
 adv
-193982	apposition
+194438	apposition
 aux
 v
 o
-193987	adv
-193989	s
+194443	adv
+194445	s
 v
 o
-193993	p
+194449	p
 v
 adv
-193997	o
-v
-o
-194001	o2
-v
-o
-194005	v
-s
-v
-adv
-194010	v
-o
-194016	v
-adv
-s
-194026	v
-adv
-adv
-194031	v
-o
-194035	vc
-s
-p
-194039	v
-o
-194042	o
-adv
-194047	v
-o
-194052	v
-v
-v
-s
-194057	adv
-adv
-adv
-vc
-p
-v
-v
-o
-194068	s
-v
-o
-adv
-s
-194074	v
-o
-adv
-194079	v
-adv
-194083	v
-s
-adv
-194089	v
-adv
-194092	adv
-194094	adv
-v
-adv
-194098	v
-o
-v
-s
-194103	s
-adv
-194106	v
-adv
-194109	s
-v
-adv
-194113	o
-s
-vc
-p
-194119	apposition
-adv
-v
-194123	adv
-s
-o
-v
-adv
-194131	vc
-p
-194134	adv
-v
-adv
-194140	vc
-p
-194144	s
-v
-o
-194148	adv
-v
-s
-v
-s
-adv
-194155	adv
-v
-o
-194161	v
-194164	v
-s
-194167	v
-s
-194171	v
-194173	v
-adv
-194177	v
-adv
-194182	v
-s
-194186	apposition
-194188	v
-adv
-194191	vc
-194193	p
-194195	v
-io
-s
-o
-v
-adv
-194202	v
-s
-vc
-p
-194207	adv
-v
-o
-v
-o
-194213	v
-adv
-v
-o
-194219	apposition
-194223	apposition
-194225	s
-adv
-194228	v
-o
-194231	adv
-v
-o
-194235	v
-o
-194239	adv
-194241	adv
-194243	v
-adv
-194246	v
-adv
-194249	adv
-adv
-v
-adv
-194254	v
-194256	v
-adv
-194260	v
-194262	o
-o
-194265	o
-v
-194269	s
-194272	adv
-vc
-p
-194277	s
-194281	v
-v
-o
-194285	s
-p
-194288	aux
-v
-v
-o
-v
-o
-o2
-p
-vc
-p
-194301	v
-o
-s
-o
-v
-194307	v
-adv
-194310	adv
-v
-o
-s
-194317	v
-adv
-v
-adv
-194322	v
-s
-194325	v
-s
-v
-o
-194330	p
-vc
-s
-p
-194336	io
-194340	v
-194342	v
-o
-194345	v
-s
-194348	adv
-adv
-adv
-194356	adv
-adv
-194359	v
-v
-adv
-194366	adv
-194369	s
-194372	v
-v
-194375	adv
-v
-io
-adv
-194380	v
-v
-o
-v
-o
-194386	v
-o
-s
-194390	v
-o
-194393	s
-194395	v
-194397	adv
-v
-s
-v
-adv
-o
-194404	adv
-v
-194407	v
-194409	v
-s
-194412	adv
-194415	v
-o
-adv
-v
-adv
-194422	o
-v
-194425	adv
-v
-v
-s
-194430	v
-o
-194433	adv
-adv
-v
-v
-194439	v
-adv
-194442	adv
-v
-194445	v
-o
-s
 194453	v
 o
-194456	v
-io
-194459	s
+194456	o2
 v
 o
-194463	v
-io
+194460	v
+s
+v
+adv
+194465	v
 o
-194467	v
-adv
-adv
-194472	v
-194474	adv
-v
-adv
-194478	v
-194480	v
-adv
-v
-adv
-194486	adv
-194490	o
-v
-194493	v
+194471	v
 adv
 s
+194481	v
 adv
+adv
+194486	v
+o
+194490	vc
+s
+p
+194494	v
+o
+194497	o
+adv
+194502	v
+o
+194507	v
+v
+v
+s
+194512	adv
+adv
+adv
+vc
+p
+v
 v
 o
-194500	v
-v
-io
-194505	v
+194523	s
 v
 o
-v
-194510	v
-v
-o
-194514	v
-194516	v
-io
-o
-v
-v
-194522	adv
-v
 adv
 s
-194527	v
 194529	v
 o
 adv
-v
-o
-194535	v
-io
-o
-v
-io
-o
-v
-194543	o
-v
-o
-v
-io
-194549	v
+194533	v
 adv
-194553	o
-v
+194537	v
 s
 adv
-194558	s
+194543	v
+adv
+194546	adv
+194548	adv
+v
+adv
+194552	v
+o
+v
+s
+194557	s
+adv
 194560	v
-v
-o
-v
-o
-194566	v
-o
-194569	adv
-s
+adv
+194563	s
 v
 adv
+194567	s
+vc
+p
+194572	apposition
 adv
 v
 194576	adv
+s
+o
+v
+adv
+194584	vc
 p
-194579	vc
-194581	v
-adv
-adv
-194586	v
-adv
-adv
-adv
+194587	adv
 v
-194592	p
-vc
-194595	v
-s
-194598	adv
+adv
+194593	vc
+p
+194597	s
+v
+o
+194601	adv
 v
 s
-194605	v
-io
-o
-194609	v
 v
-adv
-o
-v
-adv
-194616	adv
-v
-v
-io
-adv
-194622	v
-o
-194625	p
-vc
-194628	v
-v
-o
-194632	adv
 s
+adv
+194608	adv
 v
-194636	v
-s
 o
+194614	v
+194616	v
+s
+194619	v
+s
+194623	v
+194625	v
+adv
+194629	v
+adv
+194634	v
+s
+194638	apposition
 194640	v
+adv
+194643	vc
+194645	p
+194647	v
 io
-aux
-v
 s
-194646	vc
-194648	s
-194650	adv
-p
+o
 v
+adv
 194654	v
-adv
-194658	o
-adv
-s
-adv
-v
-v
-o
-s
-v
-v
-o
-194670	adv
-s
-apposition
-194674	adv
-v
-s
-adv
-194680	adv
-v
-adv
-v
-io
-o
-adv
-o
-v
-adv
-194692	o2
 s
 vc
 p
-194697	v
-io
+194659	adv
 v
-s
-194703	v
 o
 v
+o
+194665	v
+adv
+v
+o
+194671	apposition
+194675	apposition
+194677	s
+adv
+194680	v
+o
+194683	adv
+v
+o
+194687	v
+o
+194691	adv
+194693	adv
+194695	v
+adv
+194698	v
+adv
+194701	adv
+adv
+v
+adv
+194706	v
 194708	v
-o
+adv
 194712	v
-194715	v
+194714	o
+o
 194717	o
 v
+194721	s
+194724	adv
+vc
+p
+194729	s
+194733	v
+v
 s
-194722	v
-o
-adv
-194726	v
-io
-io
-v
-o2
+p
+194738	aux
 v
 v
 o
-194736	v
-adv
-194741	v
-194743	adv
 v
 o
-v
-adv
+p
+vc
+p
 194750	v
+o
 s
-194753	v
 o
 v
-194757	adv
+194756	v
+adv
+194759	adv
+v
+o
+s
+194766	v
 adv
 v
-194761	v
-adv
-adv
-194766	s
-194768	v
 adv
 194771	v
-o
-194774	v
-v
 s
-apposition
-194779	v
-adv
-194783	v
-io
+194774	v
+s
 v
-o
-194788	v
-v
+p
+vc
+s
+p
+194783	io
+194787	v
+194789	v
 o
 194792	v
-v
 s
+194795	adv
 adv
-194800	s
-194803	v
 adv
-194810	vc
-194812	p
-194814	v
-o
-194817	s
-194820	v
-194822	v
+194803	adv
+adv
+194806	v
+v
+adv
+194813	adv
+194816	s
+194819	v
+v
+194822	adv
+v
+io
 adv
 194827	v
-io
-194830	adv
-194834	v
-194836	v
+v
+o
+v
+o
+194833	v
+o
+s
+194837	v
+o
+s
+194841	v
+adv
+v
 s
 v
-io
+adv
 o
-o
+194849	adv
 v
-v
-194845	adv
-v
-194848	v
-v
-o
-194852	o
+194852	v
 194854	v
 s
-194861	v
-194863	v
-io
+194857	adv
+194860	v
 o
 adv
+v
+adv
+194867	o
+v
+194870	adv
+v
+v
 s
-194874	v
-s
+194875	v
+o
 194878	adv
-v
-194881	v
-io
-s
-v
-s
-194888	adv
-adv
-s
-p
-vc
-v
 adv
 v
+v
+194883	v
+adv
+194886	adv
+v
+194889	v
 o
-adv
-adv
-v
-v
-v
+s
+194897	v
+o
+194900	v
+io
 194903	s
 v
+o
+194907	v
+io
+v
+adv
+adv
+194914	v
+194916	adv
+v
+adv
+194920	v
+194922	v
+adv
+v
+adv
+194928	adv
+194932	o
+v
+194935	v
 adv
 s
-194908	adv
-v
 adv
-194913	s
-o
-194916	v
-adv
-194921	adv
-v
-s
-194925	adv
-194928	apposition
-194930	s
-v
-194934	s
 v
 o
-adv
-194941	adv
+194942	v
 v
-s
+io
+194947	v
+v
 o
-194947	s
 v
-194950	s
-194952	o
-adv
+194952	v
+v
+o
 194956	v
+194958	v
+io
+v
+v
+194963	adv
+v
+adv
 s
-adv
-194960	v
-adv
-194964	s
-194966	v
+194968	v
+194970	v
 o
-v
+adv
 v
 o
-194972	s
+194976	v
+io
+o
 v
 io
-aux
-adv
+o
 v
-adv
-s
-adv
+194984	v
+o
 v
-194983	v
 io
+194989	v
 adv
-v
-o
-o
-v
-s
 194993	o
 v
-194996	v
 s
-195002	v
 adv
-195007	adv
-195011	o
-195014	v
+194998	s
+195000	v
+v
 o
+v
+o
+195006	v
+o
+195009	adv
+s
+v
+adv
 adv
 v
-v
-195020	adv
-s
-195023	v
-io
+195016	adv
 p
-vc
-195028	v
-io
-o
-s
+195019	vc
+195021	v
 adv
+adv
+195025	v
+adv
+adv
+adv
+v
+195031	p
+vc
 195034	v
-195036	adv
 s
-adv
-195041	p
-vc
+195037	adv
+v
 s
-195049	v
+195044	v
+io
+o
+195048	v
+v
 adv
+o
+v
 adv
-195053	vc
+195055	adv
+v
+v
+io
+adv
+195061	v
+o
 p
-s
+vc
+195066	v
 v
-v
-o
-195062	v
 o
 adv
+s
 v
+195073	v
+s
 o
-195068	v
-o
-195071	v
+195077	v
 io
-195074	o
-195076	v
+aux
+v
+s
+195083	vc
+195085	s
+195087	adv
+p
+v
+195091	v
+adv
+195095	adv
+s
+adv
+v
+v
+s
+v
+v
+o
+195105	adv
+s
+apposition
+195109	adv
+v
+s
+adv
+195115	adv
 v
 adv
-195081	v
+v
+io
+o
+adv
+o
+v
+adv
+195127	s
+vc
+p
+v
 io
 v
-adv
-o
-v
-195088	v
-o
-v
-195092	v
 s
-195095	v
-195097	v
+195136	v
 o
-adv
 v
-adv
-195106	v
-io
-v
-o
-195111	v
-195113	v
-s
-195117	v
-s
-adv
-adv
-195122	o
-v
-adv
-195126	o
-v
-195129	s
-adv
-195133	v
-adv
-195137	s
 195141	v
-195143	adv
-195158	s
-v
 o
+195145	v
+195148	v
+195150	o
 v
-v
+s
+195155	v
+o
 adv
-195166	v
+195159	v
 io
-195170	s
+io
+v
+v
 v
 o
+195168	v
 adv
-195176	adv
+195173	v
+195175	adv
 v
 o
-o
-195181	v
-195183	v
+v
 adv
-195186	o
+195182	v
+s
+195185	v
+o
+v
+195189	adv
+adv
+v
+195193	v
+adv
+adv
+195198	s
+195200	v
+adv
+195203	v
+o
+195206	v
 v
 s
-v
-o
-195192	s
-195196	o
-v
-v
+apposition
+195211	v
 adv
-195201	v
-v
-195204	s
-vc
-p
-195210	adv
+195215	v
+io
 v
 o
-195214	adv
-o
-o2
-v
 195220	v
-adv
-195224	v
+v
 o
+195224	v
 v
 s
-195229	v
 adv
-195233	v
-o
-195236	vc
-p
-195240	v
-o
+195231	s
+195234	v
 adv
-v
+195241	vc
+195243	p
 195245	v
 o
+195248	s
+195251	v
+195253	v
+adv
+195258	v
+io
+195261	adv
+195265	v
+195267	v
+s
+v
+io
+o
+o
+v
+v
+195276	adv
+v
+195279	v
 v
 o
-195250	v
-o
-195254	v
-o
-io
-o2
-195260	aux
-195262	apposition
-195266	apposition
-195270	v
-io
-o
-o2
+195283	o
+195285	v
 s
-vc
+195292	v
+195294	v
+io
+o
+adv
+s
+195305	v
+s
+195309	adv
+v
+195312	v
+io
+s
+v
+s
+195319	adv
+adv
+s
 p
-195278	o
-195285	apposition
-195290	apposition
-195294	s
+vc
+v
 adv
 v
 o
-195299	v
 adv
-195302	v
+adv
+v
+v
+v
+195334	s
+v
 adv
 s
-195306	adv
+195339	adv
+v
+adv
+195344	s
+o
+195347	v
+adv
+195352	adv
 v
 s
-adv
-o
+195356	adv
+195359	apposition
+195361	s
 v
-195313	v
-s
-195316	v
+195365	s
 v
-o
-v
-195322	v
-195324	s
-195326	adv
-v
-v
-o
-195331	o
-v
-195335	adv
-195339	v
-o
-195342	v
 o
 adv
-v
-io
-adv
+195372	adv
 v
 s
 o
+195378	s
 v
-195354	s
-adv
-v
-adv
-v
-v
-s
-195364	s
-adv
-v
-adv
-v
-s
-195371	v
-195375	s
-v
-adv
-195379	v
-v
-v
+195381	s
 195383	o
+adv
+195387	v
+s
+adv
+195391	v
+adv
+195395	s
+195397	v
+o
 v
-195386	adv
+v
+o
+195403	s
+v
+io
+aux
+adv
+v
+adv
+s
+adv
+v
+195414	v
+io
+adv
+v
+o
+v
+s
+195423	o
+v
+195426	v
+s
+195432	v
+adv
+195437	adv
+195441	o
+195444	v
+o
+adv
+v
+v
+195450	adv
+s
+195453	v
+io
+p
+vc
+195458	v
+io
+o
+s
+adv
+195464	v
+195466	adv
+s
+adv
+195471	p
+vc
+s
+195479	v
+adv
+adv
+195483	vc
+p
+s
+v
+v
+o
+195490	v
+o
+adv
+v
+o
+195496	v
+o
+195499	v
+io
+195502	o
+195504	v
+v
+adv
+195509	v
+io
+v
+adv
+o
+v
+195516	v
+o
+v
+195520	v
+s
+195523	v
+195525	v
+o
+adv
+v
+adv
+195534	v
+io
+v
+o
+195539	v
+195541	v
+s
+195545	v
+s
+adv
+adv
+195550	o
+v
+adv
+195554	o
+v
+195557	s
+adv
+195561	v
+adv
+195565	s
+195569	v
+195571	adv
+195586	s
+v
+o
+v
+v
+adv
+195593	v
+io
+195597	s
+v
+o
+adv
+195603	adv
+v
+o
+o
+195608	v
+195610	v
+adv
+195613	o
+v
+s
+v
+o
+195619	s
+195623	o
+v
+v
+adv
+195628	v
+v
+195631	s
+vc
+p
+195637	adv
+v
+o
+195641	adv
+o
+o2
+v
+195647	v
+adv
+195651	v
+o
+v
+s
+195656	v
+adv
+195659	v
+o
+195662	vc
+p
+195666	v
+o
+adv
+v
+195671	v
+o
+v
+o
+195676	v
+o
+195680	v
+o
+io
+o2
+195686	aux
+195688	apposition
+195692	apposition
+195696	v
+io
+o
+s
+vc
+p
+195703	o
+195710	apposition
+195715	apposition
+195718	s
+adv
+v
+o
+195723	v
+adv
+195726	v
+adv
+s
+195730	adv
 v
 s
 adv
-195393	v
 o
-195396	v
-195398	adv
+v
+195737	v
+s
+195740	v
+v
+o
+v
+195746	v
+195748	s
+195750	adv
+v
+v
+o
+195755	o
+v
+195759	adv
+195763	v
+o
+195766	v
+o
 adv
-o
-v
-195403	adv
-o
-195406	v
 v
 io
-195410	s
-195412	v
-io
-195420	o
+adv
 v
 s
-195424	v
+o
+v
+195778	s
 adv
-195429	adv
+v
+adv
+v
+v
+s
+195788	s
+adv
+v
+adv
+v
+s
+195795	v
+195799	s
+v
+adv
+195803	v
+v
+v
+195807	o
+v
+195810	adv
+v
+s
+adv
+195817	v
+o
+195820	v
+195822	adv
+adv
+o
+v
+195827	adv
+o
+195830	v
+v
+io
+195834	s
+195836	v
+io
+195843	o
+v
+s
+195847	v
+adv
+195852	adv
 v
 o
 adv
-195435	p
+195858	p
 vc
 adv
-195439	v
+195862	v
 o
 v
-195443	v
+195866	v
 s
-195451	adv
+195874	adv
 v
 v
 adv
 v
 o
-195458	v
+195881	v
 adv
 s
-195462	v
+195885	v
 io
 aux
 s
-195474	adv
+195897	adv
 v
 o
-195478	v
+195901	v
 io
 v
 p
 vc
 s
-195489	v
+195912	v
 adv
 adv
 v
 v
-o
 v
 p
-195503	s
+195924	s
 v
 o
-195508	s
+195929	s
 p
-195513	vc
-195515	adv
+195934	vc
+195936	adv
 v
 v
 adv
-195521	v
+195942	v
 adv
 s
-195525	s
+195946	s
 adv
 v
 v
 adv
-195532	s
-195534	p
-195539	vc
-195541	v
+195953	s
+195955	p
+195960	vc
+195962	v
 o
 adv
 o2
-195546	v
+195967	v
 io
 adv
-195551	v
+195972	v
 aux
 v
 v
 v
-195557	v
+195978	v
 adv
 v
 apposition
 s
-195563	v
+195984	v
 adv
-195568	v
+195989	v
 s
-195571	v
+195992	v
 o
-195577	s
-v
-adv
-195581	adv
-adv
-v
-o
-195586	adv
-v
-adv
-adv
-v
-o
-195595	v
-s
-v
-195599	adv
-adv
-v
-o
-v
-195606	s
-v
-adv
-195613	v
-s
-195616	v
-o
-195619	o
-adv
-v
-195624	s
-v
-adv
-195632	v
-o
-v
-195637	v
-adv
-195645	v
-s
-v
-o
-v
-v
-195654	v
-adv
-v
-o
-s
-195660	adv
-195662	o2
-195664	v
-io
-o
-io
-s
-195670	v
-195674	o2
-adv
-195678	adv
-s
-v
-195684	v
-v
-195687	adv
-v
-195691	v
-v
-195694	adv
-v
-adv
-adv
-v
-195700	v
-io
-195703	v
-io
-o
-adv
-v
-o
-195711	adv
-o
-195714	v
-v
-o
-v
-p
-195720	vc
-s
-195725	adv
-v
-s
-195729	o
-195731	v
-adv
-v
-s
-195736	v
-o
-195739	v
-adv
-195742	p
-vc
-adv
-adv
-195747	v
-s
-195750	v
-o
-adv
-adv
-v
-o
-195758	adv
-v
-o
-adv
-195763	p
-vc
-adv
-v
-s
-195769	adv
-195771	adv
-v
-195774	p
-vc
-adv
-195778	v
-195780	s
-vc
-o
-v
-195786	s
-195799	v
-v
-o
-195803	p
-vc
-195806	p
-vc
-adv
-195812	v
-s
-v
-o
-195817	v
-195819	v
-adv
-195827	v
-io
-195830	v
-s
-195834	adv
-195836	v
-195838	adv
-195841	adv
-195843	v
-195845	adv
-195847	v
-s
-195851	adv
-195853	v
-195856	v
-s
-195860	v
-adv
-195864	s
-v
-o
-v
-v
-195870	v
-io
-o
-v
-o
-v
-adv
-195878	v
-v
-io
-195882	v
-io
-s
-195886	v
-v
-io
-195890	s
-adv
-v
-s
-o
-v
-v
-adv
-195899	v
-o
-p
-vc
-s
-195908	s
-v
-o
-adv
-195915	v
-195917	adv
-195921	s
-v
-195925	adv
-v
-s
-adv
-s
-v
-apposition
-adv
-o
-adv
-o
-adv
-p
-s
-adv
-195943	v
-s
-adv
-v
-o
-195949	v
-s
-195952	v
-adv
-v
-o
-195959	adv
-195961	o
-v
-p
-195967	s
-195969	v
-adv
-195972	p
-vc
-adv
-195977	apposition
-195982	v
-v
-195985	vc
-p
-adv
-195990	v
-o
-195993	v
-adv
 195997	s
-196000	v
-196002	adv
-196004	v
-io
-o
-196008	v
 v
 adv
-196012	adv
-v
-io
+196001	adv
 adv
-196017	io
-196019	v
-o
-196023	v
-io
-adv
-196028	s
-v
-v
-adv
-196034	v
-o
 v
 o
-196039	vc
-p
-196043	s
-vc
-p
-196047	v
+196006	adv
+v
+adv
+adv
+v
+o
+196015	v
 s
-196051	s
+v
+196019	adv
+adv
+v
+o
+v
+196026	s
 v
 adv
-196056	adv
-v
+196033	v
 s
-196060	s
-vc
-p
-196064	adv
-196066	v
-196068	v
+196036	v
 o
-196071	v
-io
-aux
+196039	o
+adv
+v
+196044	s
 v
 adv
-196077	v
-196079	v
+196052	v
+o
+v
+196057	v
+adv
+196065	v
+s
 v
 o
+v
+v
+196073	v
+adv
+v
+o
+s
+196079	adv
+196081	o2
 196083	v
 io
 o
-v
-v
+io
+s
 196089	v
+196093	adv
+196096	adv
 s
-196092	v
-s
-196095	v
-io
-o
-adv
-p
-vc
-adv
+v
+196102	v
+v
+196105	adv
+v
+196109	v
+v
+196112	adv
+v
 adv
 adv
 v
-o
-196107	v
-o
-196110	v
-adv
-p
-196114	s
-vc
-196117	s
+196118	v
+io
 196121	v
+io
 o
-196124	v
 adv
+v
+o
 196129	adv
-196135	v
-s
-adv
-196139	adv
-v
 o
-adv
-196144	s
-196148	s
-o
-v
-adv
-196154	adv
-adv
-s
+196132	v
 v
 o
 v
-adv
+p
+196138	vc
 s
+196142	adv
+v
+s
+196147	v
+adv
+v
+s
+196152	v
+o
+196155	v
+adv
+196158	vc
 adv
 adv
+196162	v
+s
 196165	v
-196168	v
+o
 adv
+adv
+v
+o
+196173	adv
+v
+o
+adv
+196178	p
+vc
+adv
+v
 s
-196172	s
+196184	adv
+196186	adv
 v
-196175	s
-v
-o
-v
-196180	adv
+196189	p
+vc
 adv
-196183	adv
-196189	v
-196191	v
+196193	v
+196195	s
+vc
 o
-adv
-196196	v
-o
-adv
 v
-196201	v
-o
-196205	v
-adv
+196201	s
+196214	v
 v
 o
+196218	p
+vc
+196221	vc
+adv
+196226	v
 s
-p
-196212	aux
-apposition
-196216	apposition
 v
 o
-adv
-adv
-o
-v
-v
-196225	io
-v
-aux
-196230	adv
+196231	v
 196233	v
-o
-p
-s
-196238	v
+adv
+196241	v
 io
-p
+196244	v
 s
-196243	p
-vc
-196246	v
-o
+196248	adv
+196250	v
+196252	adv
+196255	adv
+196257	v
 adv
-196250	adv
-o
-v
-adv
-196255	vc
-196257	adv
-p
-196260	s
-196263	v
+196260	v
+s
+196263	adv
 196265	v
-o
-v
-o
-v
-o
+196268	v
+s
+196272	v
 adv
-196274	adv
+196275	s
 v
-196277	v
+o
+v
+v
+196281	v
 io
-196280	v
-s
-196284	v
-adv
-196289	v
-s
-adv
-196293	adv
-196295	adv
-196297	v
-adv
-196301	v
+v
 o
 v
-196305	v
 adv
-196313	v
+196288	v
+v
+io
+196292	v
+io
+s
+196296	v
+v
+io
+196300	s
 adv
 v
+s
+o
+v
+v
+adv
+196309	v
 p
 vc
-v
-196320	v
-adv
-196325	v
 s
-v
-v
-adv
-v
-196332	v
+196317	s
 v
 o
-196336	v
-196338	v
-io
-v
 adv
+196324	v
+196326	adv
+196329	s
 v
+196333	adv
 v
-196345	adv
-196348	v
-v
+s
+adv
 s
 v
 adv
-196357	v
-s
-adv
-196361	v
 o
-v
-196365	p
-vc
-196369	v
+adv
 o
-196372	v
-io
-o
-v
 adv
-196379	adv
-196382	v
-io
-o
-s
-io
-v
-196389	v
-o
-196393	v
-196395	v
-v
-adv
-196399	o
-v
-io
-s
-196404	s
-v
-196408	v
-s
-adv
-196412	adv
-adv
-196415	v
-s
-adv
-196419	vc
 p
-196423	v
 s
-196427	adv
+adv
+196350	v
+s
+adv
+v
+o
+196356	v
+s
+196359	v
+adv
+v
+o
+196366	adv
+196368	o
+v
 p
-196431	v
-o
-v
+196373	s
+196375	v
 adv
-196438	v
-o
-adv
-v
-196443	s
-196445	p
+196378	p
 vc
-196448	v
+adv
+196383	apposition
+196388	v
+v
+196391	vc
+p
+adv
+196396	v
+o
+196399	v
+adv
+196403	s
+196406	v
+196408	adv
+196410	v
+io
+o
+196414	v
+v
+adv
+196418	adv
+v
+io
+adv
+196423	io
+196425	v
+o
+196428	v
+io
+adv
+196433	s
+v
+v
+adv
+196439	v
+o
 v
 o
-io
-196454	v
-196456	v
-196458	v
-adv
-196461	v
-o
-s
-196465	v
-o
-196468	s
+196444	vc
+p
+196448	s
 vc
 p
-196472	adv
-196474	o
+196452	v
+s
+196456	s
 v
 adv
-196479	v
-o
-196485	o
+196461	adv
 v
-196488	adv
+s
+196465	s
+vc
+p
+196469	adv
+196471	v
+196473	v
+o
+196476	v
+io
+aux
+v
 adv
-196491	v
+196482	v
+196484	v
 v
 o
+196488	v
+io
+v
+v
+196493	v
+s
 196496	v
-adv
-196499	adv
-v
-o
-196503	v
-196507	v
-o
-196511	v
-196513	adv
-v
 s
-196520	v
-adv
-196523	v
-adv
-196527	adv
-s
-v
-adv
-s
-196534	v
-v
-adv
-196538	v
-s
-o
-v
-196544	v
+196499	v
 io
-s
-196548	o
-v
-s
-v
-o
-196554	v
-s
-o
-v
-196559	v
-v
-o
-v
-s
-196565	v
-196567	v
-s
-v
 adv
-v
-196573	v
-adv
-196576	v
-io
-o
-196580	s
-196582	v
-io
-aux
-s
-196587	v
-o
-v
-adv
-196592	vc
-p
-adv
-196597	adv
-s
-v
-v
-adv
-196603	v
-196606	s
-196608	v
-adv
-adv
-v
-o
-s
-196615	v
-s
-v
-v
-io
-o
-adv
-v
-adv
-v
-196626	adv
-v
-s
-adv
-v
-196632	adv
-o
-196638	apposition
-196641	v
-adv
-196648	v
-o
-196651	v
-196653	adv
-196655	v
-v
-io
-o
-adv
-v
-196662	s
-adv
-v
-196666	v
-196668	v
-o
-s
-196672	v
-o
-v
-o
-196685	v
 p
 vc
-s
-196690	v
-o
-196694	v
-io
-aux
-v
-s
-vc
-aux
-io
-v
-v
-196706	adv
-v
-s
-196710	v
-vc
-196713	p
-196715	v
 adv
 adv
-196719	v
-io
 adv
-196723	s
 v
 o
-196727	v
+196510	v
+o
+196513	v
+adv
+p
+196517	s
+vc
+196520	s
+196524	v
+o
+196527	v
+adv
+196532	adv
+196537	v
+s
+adv
+196541	adv
 v
+o
+adv
+196549	s
+o
+v
+adv
+196555	adv
+adv
+s
+v
+o
+v
+adv
+s
+adv
+adv
+196566	v
+196569	v
+adv
+s
+196573	s
+v
+196576	s
+v
+o
+v
+196581	adv
+adv
+196584	adv
+196590	v
+196592	v
+o
+adv
+196597	v
+o
+adv
+v
+196602	v
+o
+196605	v
+adv
+v
+s
+p
+196611	aux
+apposition
+196615	apposition
+v
+o
+adv
+adv
+o
+v
+v
+196624	io
+v
+aux
+196629	adv
+196632	v
+o
+p
+s
+196637	v
 io
+p
+s
+196642	p
+vc
+196645	v
+o
+adv
+196649	adv
+o
 v
+adv
+196654	vc
+196656	adv
+p
+196659	s
+196662	v
+196664	v
+o
+v
+v
+o
+adv
+196672	adv
+v
+196675	v
+io
+196678	v
+s
+196682	v
+adv
+196687	v
+s
+adv
+196691	adv
+196693	adv
+196695	v
+adv
+196699	v
+o
+v
+196703	v
+adv
+196711	v
+v
+p
+vc
+v
+196717	v
+adv
+196722	v
+s
+v
+v
+adv
+v
+196729	v
+v
+o
 196733	v
+196735	v
+io
+v
 adv
-196736	v
+v
+v
+196742	adv
+196745	v
+v
+s
+v
 adv
-196741	v
+196753	v
+s
+adv
+196757	v
+o
+v
+196761	p
+vc
+196765	v
+o
+196768	v
+io
+o
+v
+adv
+196775	adv
+196778	v
+io
 o
 s
-196747	v
-s
+io
 v
-v
-adv
-196754	s
-v
-v
-v
+196785	v
 o
+196789	v
+196791	v
+v
 adv
+196795	o
+v
 io
 s
-196763	p
+196800	s
+v
+196803	v
 s
-196766	v
-io
-196769	s
-196771	adv
-196774	v
-s
-vc
-p
-196779	apposition
-196789	vc
-s
-196792	adv
-p
-196795	v
 adv
-196798	v
-io
-s
-196802	adv
-vc
-s
-p
 196807	adv
 adv
-196821	adv
+196810	v
+s
+adv
+196814	vc
+p
+196818	v
+s
+196822	adv
+p
+196826	v
+o
 v
 adv
-v
-o
-196827	adv
-io
-v
-o
-v
 196833	v
-adv
-196838	v
 o
 adv
 v
+196838	s
+196840	p
+vc
 196843	v
-o
-196846	v
-o
 v
-adv
+o
+io
+196849	v
 196851	v
-io
+196853	v
+adv
+196856	v
 o
-196858	v
-io
-196862	o
+s
+196860	v
+o
+196863	s
+vc
+p
+196867	adv
+196869	o
 v
 adv
-196866	adv
+196874	v
 o
-adv
-196870	adv
-o
-adv
-o
-adv
-adv
-196877	o
-196880	v
-o
+196880	o
+v
 196883	adv
+adv
+196886	v
 v
 o
-196887	v
-io
+196891	v
+adv
+196894	adv
+v
 o
-196891	adv
-v
-adv
-adv
-v
-196897	v
-adv
-196901	s
-adv
-v
+196898	v
+196902	v
 o
 196906	v
-o
+196908	adv
+v
+s
+196915	v
+adv
+196918	v
+adv
+196922	adv
+s
 v
 adv
-v
-o
-196913	apposition
-196917	adv
-196920	v
-v
-196923	v
-196925	o
-v
+s
 196929	v
+v
 adv
-o
 196933	v
-196935	v
 s
-196938	p
-196940	vc
+o
+v
+196939	v
+io
 s
-196944	v
-196946	s
+196943	o
+v
+s
+v
+o
+196949	v
+s
+o
+v
+196954	v
+v
+o
+v
+s
+196960	v
+196962	v
+s
+v
+adv
+v
+196968	v
+adv
+196971	v
+io
+o
+196975	s
+196977	v
+io
+aux
+s
+196982	v
+o
+v
+adv
+196987	vc
+p
+adv
+196992	adv
+s
 v
 v
 adv
-196951	adv
+196998	v
+197000	s
+197002	v
+adv
+adv
+v
+o
+s
+197009	v
+s
+v
+v
+io
+adv
+v
+adv
+v
+197019	adv
 v
 s
 adv
+v
+197025	adv
+o
+197031	apposition
+197034	v
+adv
+197041	v
+o
+197044	v
+197046	adv
+197048	v
+v
+io
+adv
+v
+197054	s
+adv
+v
+197058	v
+197060	v
+o
 s
-196957	v
-196959	p
+197064	v
+o
+v
+o
+197077	v
+p
 vc
 s
-196963	v
-196965	p
-196967	p
-196969	v
-196971	s
-v
+197082	v
+o
+197086	v
+io
 aux
-o
-s
-v
-apposition
-s
 v
 s
-196983	v
-v
-o
-196987	v
-o
-adv
-adv
-196992	apposition
-196995	apposition
-196998	o
-v
-v
-197002	s
+vc
+aux
 io
-197005	adv
 v
-adv
 v
-o
-197014	s
-197016	v
-o
-197019	v
-o
-v
-197023	adv
-v
-197026	s
-197028	v
-o
-v
-o
-o2
-197035	v
-o
-197039	v
-o
-adv
-v
-197044	adv
-o
-v
-197048	apposition
+197097	adv
 v
 s
-s
-adv
-197054	o
-v
-io
-197067	v
-s
-197073	v
-v
-o
-197078	v
-s
-197081	v
-io
-o
-v
-o
-o
-v
-197089	v
-io
-197092	v
-io
-197097	o
-v
-v
-io
-adv
+197101	v
+vc
+197104	p
 197106	v
-v
+adv
+adv
+197110	v
 io
-197110	o
+adv
+197114	s
 v
-s
-197114	v
 o
 197118	v
-197120	v
-adv
-adv
-adv
-197125	v
-v
-v
-197129	adv
 v
 io
+v
+197124	v
 adv
+197127	v
+adv
+197132	v
 o
-197136	apposition
-197138	p
+s
+197137	v
+s
+v
+v
+adv
+197144	s
+v
+v
+v
+o
+adv
+io
+s
+197153	p
+s
+197156	v
+io
+197159	s
+197161	adv
+197164	v
+s
+vc
+p
+197169	apposition
+197179	vc
+s
+197182	adv
+p
+197185	v
+adv
+197188	v
+io
+s
+197192	adv
 vc
 s
+p
+197197	adv
 adv
-197145	v
+197211	adv
+v
 adv
 v
-v
 o
-197151	adv
-v
-s
-o
-v
-v
-o
-197160	v
-v
-o
-adv
-197168	v
-o
-197171	adv
-197173	v
-o
+197217	adv
 io
-197177	s
 v
 o
-io
-197183	v
-s
-197186	v
-197188	v
-o
-197192	v
-o
-adv
-197196	v
-s
-adv
-197201	v
-io
-o
-o
 v
-197207	o
-v
-197211	v
-io
-o
-v
-s
+197223	v
 adv
-adv
-197220	v
-adv
-197223	vc
-197225	s
-v
 197228	v
-p
-197231	adv
+o
+adv
 v
+197233	v
+o
+197236	v
+o
 v
-197235	v
 adv
-197238	adv
-197240	adv
-197243	v
-s
+197241	v
+io
+o
+197248	v
+io
+197251	o
 v
-197247	v
-s
-197251	adv
 adv
-197255	v
+197255	adv
+o
 adv
-197258	v
 adv
-197261	v
+o
+adv
+o
+adv
+adv
+197265	o
+197268	v
+o
+197271	adv
 v
 o
-197266	v
+197275	v
+io
+o
 adv
-197269	vc
-p
-197273	adv
+v
+adv
+adv
+v
+197284	v
+adv
+197287	s
+adv
 v
 o
-197277	v
+197292	v
+o
+v
+adv
+v
+o
+197299	apposition
+197303	adv
+197306	v
+v
+197309	v
+197311	o
+v
+197315	v
+adv
+o
+197319	v
+197321	v
+s
+197324	p
+197326	vc
+s
+197330	v
+197332	s
+v
+v
+adv
+197337	adv
+v
+s
+adv
+s
+197343	v
+197345	p
+vc
+s
+197349	v
+197351	p
+197353	p
+197355	v
+197357	s
+v
+o
+s
+v
+apposition
+s
+v
+s
+197368	v
+v
+o
+197372	v
+o
+adv
+adv
+197377	apposition
+197380	apposition
+197383	o
+v
+v
+197387	s
+io
+197390	adv
+v
+adv
+v
+o
+197399	s
+197401	v
+o
+197404	v
+o
+v
+197408	adv
+v
+197411	s
+197413	v
+o
 v
 o
 o2
-197283	adv
+197420	v
+o
+197424	v
+o
+adv
+v
+197429	adv
+o
+v
+197433	apposition
+v
+s
+s
+adv
+197439	o
+v
+io
+197452	v
+s
+197458	v
+v
+o
+197463	v
+s
+197466	v
+io
+o
+v
+o
+o
+v
+197474	v
+io
+197477	v
+io
+197481	o
+v
+v
+io
+adv
+197490	v
+v
+io
+197494	o
+v
+s
+197498	v
+o
+197502	v
+197504	v
+adv
+adv
+adv
+197509	v
+v
+v
+197513	adv
+v
+io
+adv
+o
+197520	apposition
+197522	p
+vc
+s
+adv
+197529	v
+adv
+v
+v
+o
+197535	adv
+v
+s
+o
+v
+v
+o
+197544	v
+v
+o
+adv
+197552	v
+o
+197555	adv
+197557	v
+o
+io
+197561	s
+v
+o
+io
+197567	v
+s
+197570	v
+197572	v
+o
+197576	v
+o
+adv
+197580	v
+s
+adv
+197585	v
+io
+o
+o
+v
+197591	o
+v
+197594	v
+io
+o
+v
+s
+adv
+adv
+197603	v
+adv
+197606	vc
+197608	s
+v
+197611	v
+p
+197614	adv
+v
+v
+197618	v
+adv
+197621	adv
+197623	adv
+197626	v
+s
+v
+197630	v
+s
+197634	adv
+adv
+197638	v
+adv
+197641	v
+adv
+197644	v
+v
+o
+197648	v
+adv
+197651	vc
+p
+197655	adv
+v
+o
+197659	v
+v
+o
+o2
+197664	adv
 s
 p
 vc
 v
 io
 s
-197291	v
-197293	p
+197672	v
+197674	p
 vc
 s
-197297	adv
+197678	adv
 s
 p
 v
 o
-197303	v
+197684	v
 adv
-197309	v
+197690	v
 io
 o
 v
 s
-197315	v
+197696	v
 v
 io
 v
 io
 s
 v
-197323	v
+197704	v
 io
 o
 v
 v
 o
-197331	v
+197712	v
 io
 v
 s
-197336	v
+197717	v
 io
 o
+v
+v
+v
+197724	v
+v
 o
-v
-v
-v
-197344	v
-v
-o
-197350	v
+197730	v
 io
 v
 o
 adv
 adv
-197359	v
+197739	v
 adv
 adv
-197367	v
+197747	v
 o
-197374	v
+197754	v
 adv
-197377	v
-197379	v
+197757	v
+197759	v
 o
-197382	o2
-v
+197762	v
 io
-197386	v
+197765	v
 io
-197389	o
-197391	v
+197768	o
+197770	v
 io
-197394	v
+197773	v
 s
-197397	v
-197399	v
+197776	v
+197778	v
 o
 apposition
-197404	adv
-197407	vc
+197783	adv
+197786	vc
 v
 o
 p
-197412	adv
+197791	adv
 v
 o
 s
-197417	v
+197796	v
 adv
-197421	v
+197800	v
 adv
-197424	adv
-197426	s
+197803	adv
+197805	s
 v
 o
-197430	v
+197809	v
 o
 v
 adv
-197435	v
-197438	s
+197814	v
+197816	s
 v
 vc
 s
 p
-197446	s
+197824	s
 p
 adv
-197451	adv
-v
-s
-v
-adv
-v
-vc
-197459	s
-p
-adv
-adv
-197466	v
-adv
-v
-adv
-197472	v
-v
-adv
-197476	s
-197478	v
-s
-adv
-197482	v
-v
-197485	p
-vc
-197488	v
-197490	s
-197492	o
-v
-197495	v
-s
-197498	adv
-v
-adv
-197502	v
-io
-o
-197506	v
-s
-vc
-adv
-v
-197512	v
-adv
-adv
-197517	v
-s
-197521	adv
-adv
-adv
-v
-197527	v
-adv
-197531	v
-s
-197535	v
-adv
-197538	v
-adv
-197541	v
-197544	v
-s
-adv
-197548	adv
-v
-o
-v
-adv
-197556	v
-adv
-197559	adv
-v
-v
-197564	v
-197566	v
-197569	v
-adv
-197576	adv
-197578	v
-v
-197581	v
-o
-197584	adv
-o
-197589	v
-197591	s
-v
-o
-v
-197596	v
-adv
-s
-197603	adv
-v
-adv
-197607	v
-o
-197612	adv
-197614	s
-vc
-p
-v
-o
-s
-197626	adv
-adv
-v
-o
-adv
-v
-v
-o
-197637	adv
-197639	adv
-v
-adv
-v
-197644	s
-p
-vc
-o
-v
-v
-o
-197654	v
-o
-s
-197660	o
-adv
-adv
-v
-s
-197666	adv
-197671	adv
-v
-o
-s
-197676	v
-io
-adv
-v
-s
-adv
-197683	apposition
-197685	v
-197688	s
-197690	adv
-o
-v
-s
-197696	adv
-v
-adv
-adv
-197701	v
-o
-v
-o2
-o
-v
-o
-197710	v
-o
-197715	v
-io
-adv
-v
-o
-197723	o
-197725	v
-s
-197728	v
-o
-v
-o
-197738	v
-o
-197741	adv
-v
-s
-197745	v
-o
-197748	v
-s
-io
-197754	p
-s
-vc
-p
-o
-adv
-v
-adv
-v
-s
-o
-v
-io
-197770	v
-o
-197774	adv
-197777	o
-v
-197780	o
-197782	v
-197784	v
-adv
-o
-v
-io
-o
-v
-o
-s
-197794	v
-o
-p
-vc
-s
-197802	v
-adv
-s
-v
-v
-o
-197809	adv
-197811	v
-vc
-v
-o
-197818	v
-adv
-adv
-197822	v
-o
-s
-197826	o2
 197829	v
-io
-o
+s
+v
+adv
+v
+vc
+197836	s
+p
+adv
+adv
+197843	v
+adv
+v
+adv
+197849	v
+v
 adv
 s
-p
+197854	v
+s
+adv
+197858	v
+v
+197861	p
 vc
-adv
+197864	v
+197866	s
+197868	o
 v
-197840	s
-adv
-v
-adv
-197845	adv
-v
-o
-v
-197851	v
-adv
-197857	adv
-197860	adv
-197862	v
-v
-o
-197866	v
-197869	adv
 197871	v
 s
+197874	adv
+v
+adv
+197878	v
+io
+v
+s
+vc
+adv
+v
+197886	v
+adv
+adv
+197891	v
+s
+197894	adv
+adv
+adv
+v
+197900	v
+adv
+197904	v
+s
+197908	v
+adv
+197911	v
+adv
+197914	v
+197916	v
+s
+adv
+197920	adv
 v
 o
-adv
-197881	s
-197884	v
-aux
-197887	s
-197890	adv
-v
-197893	v
-o
-adv
-197897	v
 v
 adv
-197903	v
+197928	v
 adv
-s
+197931	adv
 v
 v
-197909	adv
-v
-v
-197913	adv
-v
-s
-adv
-s
-v
-197921	o
-v
-v
-adv
-197928	s
-197930	vc
-p
-p
-adv
 197935	v
-o
-197938	o
-v
+197937	v
+197940	v
 adv
-197944	v
-io
+197947	adv
+197949	v
+v
+197952	v
+o
+197955	adv
+o
+197960	v
+197962	s
+v
 o
 v
+197967	v
 adv
-v
 s
+197974	adv
+v
 adv
-197953	vc
+197978	v
+o
+197984	s
+vc
 p
 v
 o
-197960	io
-v
 s
-197964	v
-197966	v
-io
+197996	adv
+adv
+v
 o
-aux
-aux
-s
-197973	adv
-197975	v
 adv
-197981	v
-io
-adv
-197986	v
 v
-adv
-197991	s
-197993	v
-adv
-197997	v
+v
 o
-s
-v
-adv
-198004	s
-v
 198007	adv
+198009	adv
 v
 adv
-198012	v
-adv
-adv
-198018	adv
-198023	v
-io
-o
-198028	v
-o
-198031	v
-io
-o
-198035	v
-o
-adv
-198039	adv
 v
-o
-198043	adv
-198047	v
-v
-o
-198053	v
-adv
-198056	v
-198058	v
-io
-v
-s
+198014	s
+p
 vc
+o
 v
-198065	v
-s
-198070	adv
 v
+o
+198024	v
+o
 s
-198077	v
+198030	o
 adv
+adv
+v
+s
+198036	adv
+198041	adv
+v
+o
+s
+198046	v
+io
+adv
+v
+s
+adv
+198053	apposition
+198055	v
+198058	s
+198060	adv
+o
+v
+s
+198066	adv
+v
+adv
+adv
+198071	v
+o
+v
+o2
+o
+v
+o
 198080	v
+o
+198085	v
 io
-198083	io
-v
-o
-198087	io
-v
-s
 adv
 v
-198093	adv
+o
+198093	o
+198095	v
+s
+198098	v
+o
 v
+o
+198108	v
+o
+198111	adv
 v
+s
+198115	v
+198117	v
+s
+io
+198123	s
+vc
+p
 o
 adv
-o
 v
 adv
-o
+v
 s
-v
-v
-198106	s
-v
-198109	adv
-198112	adv
-s
-v
-198116	adv
-v
 o
 v
+io
+198138	v
+o
+198144	o
 v
+198147	o
+198149	v
+198151	v
+adv
 o
 v
 io
 o
 v
-adv
-198130	adv
-adv
-v
-adv
-198135	adv
-v
 o
-v
-198141	v
+s
+198161	v
 o
-adv
-198145	v
-adv
-198149	s
 p
 vc
-198153	v
-io
+198168	v
+adv
 s
-198158	adv
-o
 v
-s
-adv
 v
-adv
-adv
-198167	v
 o
-o
+198175	adv
+198177	v
+vc
 v
-s
-198173	v
 o
-198176	v
-io
-v
-adv
 198183	v
+adv
+adv
+198187	v
 o
-198186	v
-v
-198189	o
-v
+s
+198191	o2
+198193	v
 io
-198194	v
-198196	v
-io
-198199	v
-o
-198202	v
-o
+adv
+s
+p
+vc
+adv
+v
+198202	s
+adv
+v
+adv
+198207	adv
 v
 o
 v
-198209	v
-198211	v
 198213	v
-o
-198216	apposition
-vc
-198219	p
-198221	v
-o
-198224	adv
+adv
+198219	adv
+198222	adv
+198224	v
 v
-adv
-198228	adv
-198231	v
-adv
-198236	v
+o
+198228	v
+198231	adv
+198233	v
 s
-198239	v
 v
-adv
-v
-adv
 o
 adv
-198247	v
+198243	s
+198246	v
+aux
+198249	s
+198252	adv
+v
+198255	v
 o
-198250	v
 adv
-198253	v
+198259	v
+v
+adv
+198265	v
 adv
 s
-198257	v
+v
+v
+198271	adv
+v
+v
+198275	adv
+v
+adv
+s
+v
+198282	o
+v
+v
+adv
+198288	s
+198290	vc
+p
+p
+adv
+198295	v
 o
-198260	v
+198298	o
+v
+adv
+198304	v
 io
-198263	v
+v
+adv
+v
+s
+adv
+198312	vc
+p
+v
+o
+198319	io
+v
+s
+198323	v
+198325	v
 io
-198266	s
-198268	v
-o
+aux
+aux
+s
+198331	adv
+198333	v
 adv
-v
-v
-adv
-198276	v
-v
-o
-198281	adv
-o
-adv
-v
-adv
-adv
-198289	v
-io
-v
-v
-v
-adv
-198303	v
-adv
-198306	o
-adv
-v
-198310	v
-v
-io
-adv
-v
-198316	o
-adv
-v
-adv
-v
-198322	v
-v
-o
-198326	o
-v
-adv
-v
-198331	o
-v
-adv
-v
-198336	adv
-v
-198339	o
-198341	v
-adv
-198344	o
-198347	v
-v
-io
-o
-198352	o
-adv
-198355	o
-198358	v
-198360	v
-o
-198363	v
+198339	v
 io
 adv
+198344	v
 v
-198368	v
 adv
-198371	v
-io
+198349	s
+198351	v
+adv
+198355	v
 o
-198375	v
-o
-198378	o
+s
 v
+adv
+198362	s
+v
+198365	adv
+v
+adv
+198370	v
+adv
+adv
+198376	adv
 198381	v
+io
 o
-198385	v
+198386	v
+o
+198389	v
+io
+o
+198393	v
 o
 adv
-198390	v
-adv
-198394	v
+198397	adv
+v
 o
+198401	adv
+198405	v
+v
+o
+198411	v
+adv
+198414	v
+198416	v
 io
 v
-o
-o
+s
+vc
 v
-198402	v
-v
-o
-v
-o
-198408	s
-198410	v
-v
-adv
-adv
-v
-o
-adv
-198421	v
 198423	v
-198425	v
-adv
-o
-198429	v
-o
-adv
-198433	v
-adv
-adv
-198437	v
-198439	v
 s
-198445	adv
+198428	adv
+v
+s
+198435	v
+adv
+198438	v
+io
+198441	io
+v
+o
+198445	io
+v
+s
+adv
+v
 198451	adv
-198453	v
-o
-198456	v
-io
-p
-s
 v
-s
-vc
-s
-198465	v
-io
-v
-198469	o
-apposition
-198473	s
-o
-s
-198478	p
-198481	s
-v
-o
-s
-198486	p
-s
-v
-vc
-v
-s
-v
-io
-s
-vc
-p
-198498	v
-io
-198501	io
 v
 adv
-198505	v
-v
 o
-198509	v
-s
-198513	o
 v
-198517	v
 adv
-198526	v
-198528	adv
-198530	v
-198532	adv
-o
-v
-198536	v
-s
-o
-v
-v
 o
 s
-198544	adv
 v
-198547	v
+v
+198463	s
+v
+adv
+198468	adv
+s
+v
+198472	adv
+v
 o
+v
+v
+o
+v
+io
+v
+adv
+198485	adv
+adv
+v
+adv
+198490	adv
+v
+o
+v
+198496	v
+o
+adv
+198500	v
+adv
+198504	s
+p
+vc
+198508	v
+io
+s
+198513	adv
+o
+v
+s
+adv
+v
+adv
+adv
+198522	v
+o
+o
+v
+s
+198528	v
+o
+198531	v
+io
+v
+adv
+198538	v
+o
+198541	v
+v
+198544	v
+io
+198548	v
 198550	v
-o
+io
 198553	v
 o
-v
-adv
-aux
-198560	v
+198556	v
 o
-198564	o
+v
+o
+v
+198563	v
+198565	v
 198567	v
 o
+198570	apposition
+vc
+198573	p
+198575	v
+o
+198578	adv
+v
 adv
-198572	v
+198582	adv
+198585	v
+adv
+198590	v
+s
+198593	v
+v
+adv
+v
+adv
+o
+adv
+198601	v
+o
+198604	v
+adv
+198607	v
+adv
+s
+198611	v
+o
+v
 io
-o
-198576	s
-v
-adv
-v
-v
-o
-198583	v
-o
-198587	v
-o
-s
-198591	v
-o
-198594	v
-v
-o
-s
-198599	v
-o
-198602	adv
-198606	v
-o
-adv
-198610	v
-o
-v
-o
 198616	v
-o
-198619	o
+io
+198619	s
 198621	v
-s
-o2
-198627	s
+o
+adv
+v
+v
+adv
 198629	v
+v
 o
 198634	adv
-198638	apposition
-198641	o
-s
-198646	v
 o
-198649	v
-adv
-198655	adv
-198660	v
-io
-v
-io
-198665	v
-s
-198668	adv
-v
-s
 adv
 v
-o
+adv
+adv
+198642	v
+io
+v
+v
+v
+adv
+198656	v
+adv
+198659	o
+adv
+v
+198663	v
+v
+io
+adv
+v
+198669	o
+adv
+v
+adv
+v
 198675	v
-s
-198679	v
-adv
-198682	adv
-198684	v
-s
+v
 o
-198692	v
-o
-adv
-198696	adv
-adv
-198699	v
-adv
-198702	s
-198704	vc
-p
-v
-198708	adv
-s
-198712	adv
+198679	o
 v
 adv
 v
-198717	v
-io
-s
+198684	o
+v
 adv
-198722	v
+v
+198689	adv
+v
+198692	o
+198694	v
 adv
-198725	v
-s
+198697	o
+198700	v
 v
 io
-aux
+o
+198705	o
+adv
+198708	o
+198711	v
+198713	v
+o
+198716	v
+io
+adv
+v
+198721	v
+adv
+198724	v
+io
+o
+198728	v
+o
+198731	o
+v
+198734	v
+o
+198738	v
+o
+adv
+198743	v
+adv
+198747	v
+o
+io
+v
+o
+o
+v
+198755	v
+v
+v
+o
+198760	s
+198762	v
+v
+adv
+adv
+v
+o
+adv
+198773	v
+198775	v
+198777	v
+adv
+o
+198781	v
+o
+adv
+198785	v
+adv
+adv
+198789	v
+198791	v
+s
+198797	adv
+198803	adv
+198805	v
+o
+198808	v
+io
 p
+s
+v
+s
 vc
 s
-p
-vc
-198737	v
-o
+198817	v
 io
-o
-198742	io
-o
-198745	io
-o
-adv
-198749	v
-o
 v
-p
-198754	vc
-198756	v
+198821	o
+apposition
+198825	s
+o
 s
+198830	p
+198833	s
 v
 o
-198761	v
 s
-adv
-198765	o
+198838	p
+s
+v
+vc
+v
+s
+v
+io
 s
 vc
 p
-198771	apposition
-v
-o
-198775	adv
-v
-adv
-o
-v
-198781	o
-adv
-adv
-198786	v
-s
-adv
-198790	v
+198850	v
 io
-198793	io
+198853	io
+v
+adv
+198857	v
+v
 o
-v
-v
-198799	s
-198802	adv
-v
-198805	o
-v
-adv
-v
-p
-vc
-adv
-v
-198814	v
-o
-v
-adv
-v
+198861	v
 s
-198821	s
+198865	o
 v
-v
+198869	v
 adv
-s
-198827	v
-io
-o
-s
-v
-adv
-v
-o
-198836	adv
-v
-adv
-198843	o
-v
-198846	v
-198848	v
-io
-198851	s
-v
-198855	v
-io
-o
-v
-198860	v
-adv
-198863	v
-adv
-198866	v
-o
-s
-p
-198871	s
-v
-adv
-198875	adv
-s
 198878	v
-o
-v
+198880	adv
 198882	v
+198884	adv
+o
+v
+198888	v
+s
+o
+v
 v
 o
-198886	v
+s
+198896	adv
+v
+198899	v
 o
+198902	v
 o
+198905	v
 v
 adv
-198892	v
-io
-s
-198897	aux
-v
-o
-198901	adv
-v
-o
-198905	adv
-o
-v
-v
-o
-198911	v
-198913	v
-o
-198916	v
-198918	v
-io
-198922	o
-v
-198925	adv
-v
-s
-198929	v
-io
-v
 aux
-198935	adv
-p
-vc
+198911	v
+o
+198915	o
+198918	v
+o
+adv
+198923	v
+io
+198926	s
+v
 adv
 v
-o
 v
 o
-adv
-198945	v
+198933	v
 o
-adv
+198937	v
+o
+s
+198941	v
+o
+198944	v
+v
+o
+s
 198949	v
 o
-s
-adv
-v
-o
+198952	adv
 198956	v
-adv
-198959	v
-v
-198962	v
 o
-198965	o2
+adv
+198960	v
+o
+v
+o
+198966	v
+o
+198969	o
+198971	v
 s
-v
-s
-v
-adv
-s
-198973	v
-o
-adv
-198978	adv
-adv
-198981	o
-v
-198984	adv
-198986	v
-o
-198990	o
-v
-v
-o
-v
-adv
-s
-198998	v
-io
-199001	v
-s
-p
-v
-adv
-v
-s
-199010	v
-o
-v
-v
-o
-199016	v
-199018	s
-199020	v
-s
-v
-o
-199026	v
-io
-aux
-199031	s
-v
-io
-o
-v
-adv
-199038	adv
-v
-adv
-199042	adv
-v
-199045	adv
-v
-v
-199049	vc
-p
-199053	s
-v
-199056	v
-s
-199059	v
-o
-199062	v
-o
-199065	v
-199068	v
-s
-adv
-s
-199073	adv
-v
-o
-adv
-s
-adv
-v
-v
-o
-199083	v
-io
-o
-s
-199088	adv
-v
-v
-199092	adv
-adv
-adv
-v
-v
-adv
-199100	adv
-v
-199103	s
-v
-v
-199107	o
-199110	v
-io
-199113	s
-199116	v
-adv
-199120	v
-o
-199123	v
-adv
-199126	v
-s
-199129	v
-o
-199132	v
-o
-v
-199136	v
-adv
-199139	p
-199141	vc
-v
-o
-o
-adv
-199147	v
-s
-199150	v
-adv
-199153	v
-adv
-199156	s
-p
-199159	v
-v
-o
-199163	v
-io
-o
-199167	s
-v
-p
-vc
-vc
-p
-199177	v
-o
-v
-o
-adv
-199184	v
-o
-v
-io
-s
-o
-199192	v
-adv
-199196	o
-v
-199199	s
-o
-v
-adv
-o
-v
-199206	v
-o
-v
-io
-s
-aux
-v
-s
-adv
-199217	v
-o
-s
-adv
-v
-o
-199224	o2
-v
-o
-199228	adv
-v
-o
-s
-199233	v
-o
-adv
-v
-o
-p
-199240	vc
-s
-v
-o
-adv
-199248	v
-adv
-v
-o
-s
-199254	adv
-vc
-p
-p
-vc
-199260	s
-199262	v
-o
 o2
+198976	s
+198978	v
+o
+198983	adv
+198987	apposition
+198990	s
+198994	v
+o
+198997	v
 adv
-199267	p
-vc
+199003	adv
+199008	v
+io
 v
 io
-199272	adv
+199013	v
+199015	adv
+v
+s
+adv
 v
 o
-199278	s
+199022	v
+s
+199026	v
+adv
+199029	adv
+199031	v
+s
+o
+199039	v
+o
+adv
+199043	adv
+adv
+199046	v
+adv
+199049	s
+199051	vc
+p
+v
+199055	adv
+s
+199059	adv
+v
+adv
+v
+199064	v
+io
+s
+adv
+199069	v
+adv
+199072	v
+s
+v
+io
+aux
+p
+vc
+s
+p
+vc
+199083	v
+o
+io
+o
+199088	io
+o
+199091	io
+o
+adv
+199095	v
+o
+v
+p
+199100	vc
+199102	v
+s
 v
 o
-199284	v
+199107	v
+s
+adv
+199111	s
+vc
+p
+199116	apposition
+v
 o
+199120	adv
+v
+adv
+o
+v
+199126	o
+adv
+adv
+199130	v
+s
+adv
+199134	v
+io
+199137	io
+o
+v
+v
+199143	s
+199146	adv
+v
+199149	o
+v
+adv
+v
 p
 vc
 adv
+v
+199158	v
+o
+v
 adv
-199292	v
+v
+s
+199165	s
+v
+v
+adv
+s
+199171	v
+io
+o
+s
+v
+adv
+v
+o
+199180	adv
+v
+adv
+199187	o
+v
+199190	v
+199192	v
+io
+199195	s
+v
+199198	v
+io
+o
+v
+199203	v
+adv
+199206	v
+adv
+199209	v
+o
+s
+p
+199214	s
+v
+adv
+199218	adv
+s
+199221	v
+o
+v
+199225	v
+v
+o
+199229	v
+o
+o
+v
+adv
+199235	v
+io
+s
+199240	aux
+v
+o
+199244	adv
+v
+o
+199248	adv
+o
+v
+v
+o
+199254	v
+199256	v
+o
+199259	v
+199261	v
+io
+199265	o
+v
+199268	adv
+v
+s
+199272	v
+io
+v
+aux
+199277	adv
+p
+vc
+adv
+v
+o
+v
+o
+adv
+199287	v
+o
+adv
+199291	v
+o
 s
 adv
+v
+o
 199298	v
 adv
-199303	v
+199301	v
+v
+199304	v
 o
+199307	s
+v
 s
-199307	v
+v
+adv
+s
+199314	v
 o
+adv
+199319	adv
+adv
+199322	o
+v
+199325	adv
+199327	v
+o
+199331	o
+v
+v
+o
+v
+adv
+s
+199339	v
+io
+199342	v
+s
 p
-vc
+v
+adv
+v
 s
-adv
+199351	v
 v
-adv
-199317	o
-199319	v
-v
-adv
-199330	s
-199332	v
-o
 v
 o
-p
-vc
+199356	v
+199358	s
+199360	v
 s
-v
-adv
-199342	adv
-199344	o
-199346	v
-v
-adv
-199352	s
-199354	v
-o
 v
 o
-p
-s
-vc
-adv
+199366	v
+io
+aux
+199371	s
+v
+io
+o
 v
 adv
-199368	o
-v
+199378	adv
 v
 adv
-199374	adv
-s
-199377	adv
+199382	adv
 v
-199380	s
-adv
-v
-s
 199385	adv
 v
+v
+199389	vc
 p
+199393	s
+v
+199396	v
 s
-199391	s
+199399	v
+o
+199402	v
+o
+199405	v
+199407	v
+s
+adv
+s
+199412	adv
+v
+o
+adv
+s
+adv
+v
+v
+o
+199422	v
+io
+s
+199426	adv
+v
+v
+199430	adv
+adv
+adv
+v
+v
+adv
+199438	adv
+v
+199441	s
+v
+v
+199445	o
+199448	v
+io
+199451	s
+199454	v
+adv
+199458	v
+o
+199461	v
+adv
+199464	v
+s
+199467	v
+o
+199470	v
+o
+v
+199474	v
+adv
+199477	p
+199479	vc
+v
+o
+o
+adv
+199485	v
+s
+199488	v
+adv
+199491	v
+adv
+199494	s
+p
+199497	v
+v
+o
+199501	v
+io
+199504	s
+v
 p
 vc
-adv
-o
-v
-v
-adv
-o
-199401	v
-adv
-199404	adv
-v
-v
-adv
-199417	v
-adv
-s
-adv
-199424	v
-adv
-v
-o
-199430	v
-s
-v
-o
-v
-adv
-o
-v
-v
-o
-s
-199442	v
-v
-io
-o
-io
-v
-s
-s
-199451	v
-v
-s
-o
-o
-v
-199458	v
-s
-199461	v
-io
-adv
-199466	v
-io
-o
-199470	adv
-199473	o2
-199475	v
-o
-adv
-v
-s
-o
-199486	vc
-s
+vc
 p
-199492	vc
-p
-199495	p
+199514	v
 o
-199498	s
-v
-s
-adv
-v
-199504	adv
-199506	adv
-s
-adv
 v
 o
-199512	v
+adv
+199521	v
+o
+v
 io
 s
-v
-o
-199519	v
-o
-v
-adv
-199525	s
-v
 o
 199529	v
+adv
+199533	o
+v
+199536	s
 o
 v
-199533	v
-io
+adv
 o
-199537	o
+v
+199543	v
+o
+v
+io
+s
+aux
 v
 s
-199541	v
+adv
+199554	v
+o
+s
+adv
+v
+o
+199561	v
+o
+199564	adv
+v
+o
+s
+199569	v
+adv
+v
+o
+p
+199575	vc
+s
+v
+o
+adv
+199583	v
+adv
+v
+o
+s
+199589	adv
+vc
+p
+p
+vc
+s
+199596	v
+o
+o2
+adv
+199601	p
+vc
+v
+io
+199606	adv
+v
+o
+199611	s
+v
+o
+199617	v
+p
+vc
+adv
+adv
+199624	v
+s
+adv
+199630	v
+adv
+199635	v
+o
+s
+199639	v
+o
+p
+vc
+s
+adv
+v
+adv
+199649	o
+199651	v
+v
+adv
+199662	s
+199664	v
 o
 v
-199545	s
+o
+p
+vc
+s
 v
-199548	v
+adv
+199674	adv
+199676	o
+199678	v
+v
+adv
+199684	s
+199686	v
+o
+v
+o
+p
+s
+vc
+adv
+v
+adv
+199700	o
+v
+v
+adv
+199705	adv
+s
+199708	adv
+v
+199711	s
+adv
+v
+s
+199716	adv
+v
+p
+s
+199722	s
+p
+vc
+adv
+o
+v
+v
+adv
+o
+199732	v
+adv
+199735	adv
+v
+v
+adv
+199748	v
+adv
+s
+adv
+199754	v
+adv
+v
+o
+199759	v
+s
+v
+o
+v
+adv
+o
+v
+v
+o
+s
+199771	v
+v
 io
 o
-199552	v
+io
+v
+s
+s
+199780	v
+v
+s
+o
+o
+v
+199787	v
+s
+199790	v
+io
+adv
+199795	v
+io
+o
+199799	adv
+199802	o2
+199804	v
+o
+adv
+v
+s
+o
+199815	vc
+s
+p
+199821	vc
+p
+199824	p
+o
+199827	s
+v
+s
+adv
+v
+199833	adv
+199835	adv
+s
+adv
+v
+o
+199841	v
+io
+s
+v
+o
+199848	v
+o
+v
+adv
+199854	s
+v
+o
+199858	v
+o
+v
+199862	v
+io
+o
+199866	o
+v
+s
+199870	v
+o
+v
+199874	s
+v
+199877	v
+io
+v
 s
 v
 adv
@@ -68010,56 +68133,53 @@ adv
 v
 o
 p
-199561	vc
+199888	vc
 s
-199565	v
+199892	v
 io
 s
 adv
 v
 o
-199574	s
+199901	s
 adv
 v
 adv
-199579	v
+199906	v
 o
 v
 v
 o
 adv
-199587	v
+199913	v
 s
 adv
 adv
 v
 s
-199594	v
+199920	v
 o
 v
 o
 aux
 o
 v
-199602	o
+199928	o
 v
 s
-199606	v
+199932	v
 io
-o
 adv
 o
 v
 o2
-o2
 s
 p
-199617	adv
+199941	adv
 s
 apposition
 o
 v
-o
 adv
 v
 adv
@@ -68072,57 +68192,56 @@ adv
 v
 v
 o
-199639	s
-199641	v
+199962	s
+199964	v
 io
 aux
 o
 v
 adv
-199648	s
-199650	v
+199971	s
+199973	v
 o
 v
 o
-199655	v
+199978	v
 io
-o
 s
 o
 v
-199662	v
+199984	v
 o
 v
 v
-199667	v
+199989	v
 io
-199670	v
+199992	v
 o
 adv
-199675	v
+199996	v
 v
 o
 s
-199680	v
+200001	v
 adv
-199683	v
+200004	v
 v
 v
-199687	o
-199689	v
+200008	o
+200010	v
 s
 v
 io
-199694	adv
+200015	adv
 o
 v
 adv
-199701	v
+200022	v
 s
-199704	v
+200025	v
 adv
-199708	s
-199710	adv
+200029	s
+200031	adv
 v
 v
 io
@@ -68130,2709 +68249,2658 @@ aux
 p
 vc
 adv
-199721	v
+200042	v
 p
 vc
 s
 adv
-199729	v
-199731	s
+200050	v
+200052	s
 adv
-199736	v
+200057	v
 s
-199739	adv
+200060	adv
 v
 v
 adv
-199744	s
+200065	s
 v
 v
 v
 o
 s
 v
-o
 adv
 p
-199755	adv
+200075	adv
 adv
 s
-199759	p
-adv
-199762	v
-v
-s
-io
-aux
-s
-v
-o
-199771	v
-o
-v
-s
-o
-v
-io
-p
-vc
-s
-v
-o
-199789	adv
-199796	adv
-v
-o
-adv
-adv
-199803	apposition
-199809	adv
-199811	adv
-199814	v
-o
-s
-199818	vc
-p
-199821	s
-p
-199825	vc
-199827	p
-199829	v
-adv
-199832	v
-o
-s
-199837	v
-199839	v
-v
-199842	v
-adv
-o
-v
-io
-v
-v
-adv
-v
-aux
-v
-adv
-199855	s
-199858	v
-io
-199865	v
-o
-adv
-199869	v
-o
-io
-199874	v
-o
-199877	v
-o
-199880	v
-o
-199883	v
-199885	adv
-199887	v
-199889	v
-adv
-s
-199894	apposition
-199896	v
-io
-aux
-v
-199901	o2
-v
-o
-v
-io
-s
-199908	v
-io
-o
-v
-s
-v
-io
-s
-199917	v
-io
-v
-io
-199922	adv
-s
-adv
-199927	s
-adv
-v
-adv
-199933	s
-199935	v
-io
-adv
-v
-o
-v
-v
-o
-v
-o
-199946	o
-s
-v
-199950	adv
-199952	adv
-s
-v
-v
-s
-199958	v
-io
-v
-s
-199963	v
-io
-o
-199967	o
-s
-v
-v
-199972	adv
-199974	adv
-s
-v
-v
-199980	v
-adv
-199986	adv
-vc
-s
-v
-199991	io
-v
-199994	v
-s
-v
-v
-adv
-200002	v
-o
-s
-v
-io
-v
-200009	v
-v
-adv
-v
-adv
-200015	s
-200017	v
-adv
-200021	p
-200023	vc
-adv
-200026	s
-v
-p
-vc
-adv
-vc
-p
-200034	s
-v
-adv
-vc
-p
-vc
-p
-200042	s
-200047	adv
-v
-v
-200052	v
-200054	v
-o
-200057	o2
-200060	v
-adv
-200064	v
-s
-adv
-200068	s
-200073	s
-200077	apposition
-v
+200079	p
 adv
 200082	v
-200084	p
-apposition
-vc
+v
+s
+io
+aux
+s
 v
 o
-v
 200091	v
-aux
-200094	v
 o
-200097	v
-io
+v
 s
-200101	v
-s
-200104	adv
-v
-aux
-v
-o
-200110	v
-s
-v
-v
-o
-200116	v
-o
 v
 io
-o
-v
-v
-v
-o
+p
+vc
 s
-200127	v
-o
-200130	v
 v
+o
+200108	adv
+200115	adv
+v
+o
 adv
-200135	v
-io
-s
-v
+adv
+200122	apposition
+200128	adv
+200130	adv
+200133	v
 o
-io
-v
-v
 s
-200145	v
-io
-aux
-200149	v
-200151	s
-v
-io
+200137	vc
+p
+200140	s
+p
+200144	vc
+200146	p
+200148	v
+adv
+200151	v
 o
-v
 s
+200156	v
 200158	v
-o
-200161	adv
 v
-200164	v
+200161	v
+adv
 o
-adv
-200171	v
-adv
-adv
-200176	adv
-200180	v
-o
-200185	v
+v
 io
+v
+v
+adv
+v
+aux
+v
+adv
+200174	s
+200177	v
+io
+200184	v
 o
-v
 adv
-200192	apposition
-200195	adv
-v
-adv
-v
-s
-v
-adv
-s
-adv
-v
-v
+200188	v
 o
+io
+200193	v
+o
+200196	v
+o
+200199	v
+o
+200202	v
+200204	adv
+200206	v
 200208	v
-200212	s
+adv
+s
+200213	apposition
+200215	v
 io
+aux
 v
-adv
+200220	o2
 v
 o
 v
-o
+io
 s
-o
-v
-200224	adv
-o
-v
-adv
-adv
-200230	v
-200233	v
-s
-v
-adv
-adv
-adv
-200241	v
-o
-200244	s
-adv
-v
-v
+200227	v
 io
 o
 v
+s
+v
+io
+s
+200236	v
+io
+v
+io
+200241	adv
+s
+adv
+200246	s
+adv
+v
+adv
+200252	s
+200254	v
+io
+adv
 v
 o
-s
-200255	v
-io
-200258	v
-s
-200261	v
+v
+v
 o
-200264	v
+v
 o
+o
+s
+v
+200268	adv
 adv
-200270	v
-io
-o
+s
+v
+v
+s
 200275	v
-adv
-200278	s
-o
-200281	v
-adv
-200284	s
-200286	o
+io
 v
-adv
-200291	s
-v
-200294	v
-v
-aux
-v
-v
-adv
-200301	v
 s
-200304	v
-200309	s
-p
-200313	v
-adv
-adv
-200319	v
+200280	v
+io
 o
-p
+o
+s
+v
+v
+200288	adv
 adv
+s
+v
+v
+200295	v
+adv
+200301	adv
 vc
 s
 v
-adv
-adv
-200331	adv
+200306	io
 v
-s
-adv
-v
-200337	v
-s
-adv
-v
-o
-v
-o
-v
-adv
-200348	v
-adv
-o
-v
-200353	adv
-o
-s
-200357	adv
-vc
-p
-200361	v
-v
-io
-adv
-adv
-200367	adv
-s
-o
-v
-200372	v
-s
-200376	v
-adv
-200379	v
-adv
-200382	v
-v
-o
-200386	v
-200388	v
-200392	o
-200399	v
-o
-v
-200403	adv
-v
-200406	s
-v
-o
-adv
-200412	v
-200414	v
-io
-o
-v
-200419	s
-200421	p
-vc
-adv
-200425	s
-200427	v
-o
-o2
-200431	v
-s
-200437	o
-v
-adv
-o
-v
-200443	v
-200445	o
-s
-200449	v
-adv
-200455	adv
-v
-v
-adv
-200461	v
-adv
-v
+200309	v
 s
 v
+v
 adv
-200468	v
-s
-v
-io
-aux
-aux
-s
-200476	o
-v
-v
-200480	v
+200317	v
+o
 s
 v
 io
 v
-o
-v
-io
-200490	s
-v
-io
-200494	v
-200496	v
-adv
-200501	v
-adv
-200506	v
-200508	o
-v
-v
+200324	v
 v
 adv
-adv
-v
-io
-aux
-o
-v
-200520	v
-200522	v
-200524	v
-adv
-200530	v
-v
-o
-v
-200535	o
 v
 adv
-200539	s
-200543	apposition
-200546	v
-io
-o
-200551	v
+200330	s
+200332	v
 adv
+200335	p
+200337	vc
 adv
-200556	adv
-200558	v
-s
+200340	s
 v
-adv
-s
-200569	v
-io
-o
-adv
-200574	o
-v
-200577	s
-io
-v
-o
-200583	o
-v
-s
-200587	v
-io
-o
-200591	v
-o
-o2
-200595	v
-io
-200598	v
-io
-adv
-200602	o
-v
-200605	s
-200607	apposition
 p
 vc
-200611	p
-v
-io
-200615	v
 adv
-v
-o
-200621	v
-p
-v
-adv
-200626	adv
-v
-o
-200630	o
-v
-p
-o
-v
-o
-s
-200638	v
-o
-adv
-200642	p
-vc
-200645	v
-io
-v
-adv
-v
-200651	s
-v
-io
-adv
-s
-v
-io
-adv
-200660	o
-v
-200663	v
-io
-adv
-v
-o
-o
-s
-v
-200672	v
-o
-200675	v
-o
-200678	v
-o
-200681	v
-o
-io
-200685	v
-200687	v
-adv
-200690	adv
-o
-200693	adv
-200695	v
-adv
-200701	v
-o
-v
-200705	v
-adv
-200708	adv
-v
-adv
-o
-o
-v
-200715	v
-200718	o
-v
-o
-v
-200723	o
-200725	o
-200727	v
-o
-200730	v
-adv
-o
-v
-200735	v
-o
-adv
-adv
-v
-200741	v
-o
-200744	s
-200747	adv
-v
-200750	s
 vc
 p
+200348	s
+v
+adv
+vc
+p
+vc
+p
+200356	s
+200361	adv
+v
+v
+200366	v
+200368	v
+o
+200371	o2
+200374	v
+adv
+200377	v
+s
+adv
+200381	s
+200386	s
+200390	apposition
+v
+adv
+200395	v
+200397	p
 apposition
-200755	v
-v
-o
-200759	p
 vc
-s
-200763	v
 v
 o
-200767	v
+v
+200404	v
+aux
+200407	v
 o
+200410	v
+io
+s
+200414	v
+s
+200417	adv
+v
+aux
+v
+o
+200423	v
+s
+v
+v
+o
+200429	v
+o
+v
+io
+v
+v
+v
+o
+s
+200439	v
+o
+200442	v
+v
 adv
-200771	o
-v
+200447	v
+io
 s
-200777	v
-200779	v
-o
-200782	v
+v
 o
 io
-adv
-o
-200788	v
+v
+v
+s
+200457	v
+io
 aux
+200461	v
+200463	s
+v
+io
+v
+s
+200469	v
+o
+200472	adv
+v
+200475	v
+o
+adv
+200481	v
+adv
+adv
+200486	adv
+200490	v
+o
+200495	v
+io
+v
+adv
+200501	apposition
+200504	adv
+v
+adv
+v
+v
+adv
+s
+adv
+v
+v
+o
+200516	v
+200519	s
+io
+v
+adv
+v
 o
 v
+o
+s
+o
 v
+200531	adv
+o
+v
+adv
+adv
+200537	v
+200540	v
 s
 v
 adv
-200797	adv
+adv
+adv
+200548	v
+o
+200551	s
+adv
 v
+v
+io
+o
+v
+v
+o
 s
-200801	vc
+200562	v
+io
+200565	v
+s
+200568	v
+o
+200571	v
+o
+adv
+200577	v
+io
+o
+200582	v
+adv
+200585	s
+o
+200588	v
+adv
+200591	s
+200593	o
+v
+adv
+200598	s
+v
+200601	v
+v
+aux
+v
+v
+adv
+200608	v
+s
+200611	v
+200616	s
+p
+200620	v
+adv
+adv
+200625	v
+o
 p
 adv
-200807	v
+vc
+s
+v
+adv
+adv
+200636	adv
+v
+s
+adv
+v
+200642	v
+s
+adv
+v
 o
 v
-200811	v
 o
 v
-200816	adv
+adv
+200652	v
+adv
+o
+v
+200657	adv
+o
+s
+200661	adv
+vc
+p
+200665	v
+v
+io
+adv
+adv
+200671	adv
+s
+o
+v
+200676	v
+s
+200680	v
+adv
+200683	v
+adv
+200686	v
+v
+o
+200690	v
+200692	v
+200696	o
+200703	v
+o
+v
+200707	adv
+v
+200710	s
+v
+o
+adv
+200716	v
+200718	v
+io
+o
+v
+200723	s
+200725	p
+vc
+adv
+200729	s
+200731	v
+o
+o2
+200735	v
+s
+200741	v
+adv
+o
+v
+v
+200747	o
+s
+200751	v
+adv
+200757	adv
+v
+v
+adv
+200763	v
+adv
+v
+s
+v
+adv
+200770	v
+s
+v
+io
+aux
+aux
+s
+o
+v
+v
+200781	v
+s
+v
+io
+v
+o
+v
+io
+200790	s
+v
+io
+200794	v
+200796	v
+adv
+200801	v
+adv
+200806	v
+200808	o
+v
+v
+v
+adv
+adv
+v
+io
+aux
 o
 v
 200820	v
-o
-v
-200825	v
+200822	v
+200824	v
 adv
-o
-200833	o
+200828	v
+v
+v
+200832	o
 v
 adv
-200837	v
-v
+200836	s
+200840	apposition
+200843	v
 io
-aux
-v
-200843	p
-vc
-200846	adv
-v
+o
+200848	v
 adv
 adv
-200852	v
+200852	adv
+200854	v
+s
+v
 adv
-200856	adv
-o
-200860	v
-o
-v
-v
-o
+s
+200865	v
 io
-200867	adv
+o
+adv
+200870	o
 v
-200870	adv
+200873	s
+io
+v
+o
+200879	o
 v
 s
-200874	v
-o
-200877	v
-io
-o
-adv
-o
-v
-v
+200883	v
 io
 o
 200887	v
-s
-200890	v
-200892	v
-io
-p
-s
-200900	s
-200902	v
-io
-p
-s
-200907	v
-io
 o
-o
+o2
+200891	v
+io
+200894	v
+io
+adv
+200898	o
+v
+s
+200902	apposition
+p
+vc
+200906	p
 v
 io
-200914	o
-200916	io
-200918	v
-adv
-200921	v
-s
-adv
-s
-v
-s
+200910	v
 adv
 v
+o
+200915	v
+p
+v
+adv
+200920	adv
+v
+o
+200924	v
+p
+v
+o
+s
 200930	v
 o
+adv
+200934	p
+vc
+200937	v
+io
 v
-aux
+adv
+v
+200943	s
+v
+io
+adv
 s
 v
 io
-200940	s
+adv
+200952	o
 v
-200943	v
-o
-200946	adv
-v
-o
-200950	v
-s
-200953	o
 200955	v
+io
+adv
+v
+o
+o
+s
+v
+200964	v
+o
+200967	v
+o
+200970	v
+o
+200973	v
 o
 io
-200959	s
+200977	v
+200979	v
+adv
+200982	adv
+o
+200985	adv
+200987	v
+adv
+200993	v
+o
 v
-200962	s
+200997	v
+adv
+201000	adv
+v
+adv
+o
+o
+v
+201007	v
+201009	o
 v
 o
-200966	v
+v
+201015	o
+201017	v
+o
+201020	v
+adv
+o
+v
+201025	v
+o
+adv
 adv
 v
+201031	v
 o
-200971	s
+201034	s
+201037	adv
 v
-o
-200975	v
-adv
-v
-o
-200980	s
+201040	s
+vc
 p
-200983	s
-adv
+apposition
+v
 v
 o
-adv
+201048	p
+vc
 s
-200990	v
-200992	adv
-200994	v
-p
-200997	vc
-s
-201000	v
-o
-o2
-v
-io
-s
-adv
-v
-adv
-adv
+201052	v
 v
 o
-201013	o
-201018	adv
-v
-201022	v
-201024	v
-201026	vc
-p
-201032	adv
-201037	v
+201056	v
+o
 adv
-v
-adv
-201043	adv
-201046	v
-io
-s
+201060	o
 v
 s
-p
-201059	vc
-p
-201062	p
-adv
-v
 201066	v
-s
-201069	v
-s
+201068	v
+o
+201071	v
+o
+io
+adv
+o
+201077	v
+o
 v
 v
-201074	adv
+s
+v
+adv
+201085	adv
+v
+s
+201089	vc
+p
+adv
+201094	v
+o
+v
+201098	v
+o
+v
+201103	adv
+o
+v
+201107	v
+o
+v
+201111	v
+adv
+o
+201119	o
+v
+adv
+201123	v
 v
 io
+aux
+v
+201129	p
+vc
+201132	adv
+v
+adv
+adv
+201138	v
+adv
+201142	adv
+o
+201146	v
+v
 v
 o
-p
-vc
+io
+201152	adv
+v
+201155	adv
+v
 s
-201083	v
+201159	v
+o
+201162	v
+io
+adv
+o
+v
+v
+io
+o
+201171	v
 s
-201086	s
-vc
+201174	v
+201176	v
+io
 p
+s
+201184	s
+201186	v
+io
+p
+s
+201191	v
+io
+o
+o
+v
+io
+201198	o
+201200	io
+201202	v
+adv
+201205	v
+adv
+s
+v
+s
+adv
+v
+201213	v
+o
 v
 aux
 s
-apposition
-201094	p
-vc
-201097	v
-o
-apposition
-201101	adv
-201121	s
-p
-v
-o
-201127	o
-p
-adv
-s
-adv
-vc
-201134	v
-io
-s
-o2
-adv
-aux
-adv
-v
-201144	p
-vc
-201147	p
-vc
-s
-adv
-201152	s
-v
-o
-adv
-201168	v
-o
-201171	o
-p
-vc
-adv
-201179	s
-v
-o
-201183	adv
-v
 v
 io
-adv
-p
-vc
-adv
-201195	s
-adv
+201223	s
+v
+201226	v
+o
+201229	adv
 v
 o
-v
-201201	v
+201233	v
 s
-v
-v
-adv
-201207	adv
-v
-s
-201211	s
-p
-vc
-s
-v
-adv
-201220	v
-s
+201236	o
+201238	v
+o
 io
-201224	o
+201242	s
 v
-adv
-201229	v
-o
-201232	adv
-201235	s
+201245	s
 v
 o
-o2
-201240	adv
-p
-vc
-201244	s
-201246	v
-o
+201249	v
 adv
-201250	adv
-201253	v
 v
-adv
+o
+201254	s
+v
+o
 201258	v
 adv
 v
-201262	o
-201274	v
 o
-201279	adv
-o
-v
-s
-v
-o
-201287	v
+201263	s
+p
+201266	s
 adv
-201290	v
-adv
-s
 v
 o
 adv
-201298	s
+s
+201273	v
+adv
+201276	v
+p
+201279	vc
+s
+201282	v
+o
+o2
+v
+io
+s
+adv
+v
+adv
+adv
 v
 o
-201302	v
+201295	o
+201300	adv
+v
+201304	v
+201306	v
+201308	vc
+p
+201314	adv
+201318	v
+adv
+v
+adv
+201324	adv
+201327	v
+io
 s
-201305	v
+v
+s
+p
+201340	vc
+p
+201343	p
+adv
+v
+201347	v
+s
+201350	v
+s
+v
+v
+201355	adv
+v
+io
+v
 o
-201308	s
+p
 vc
-p
-201312	v
-o
-201315	v
-io
-v
-io
-201320	s
-201323	apposition
-o
-adv
-v
-v
-adv
-201330	s
-201332	adv
-v
-adv
-v
 s
-201338	adv
-201341	o
-201343	o
-v
-v
-apposition
-201351	v
+201364	v
 s
-adv
-201355	v
-io
-s
-201360	aux
-v
-p
 201367	s
-v
-io
-v
-o
-201374	adv
-v
-s
-adv
-s
-adv
-v
-201383	v
-s
-adv
-201389	adv
-201391	v
-o
-adv
-s
-201398	v
-io
-o
-adv
-s
-v
-201405	p
-s
-201408	v
-s
-v
-s
-201413	v
-v
-io
-o
-v
-201419	s
-o
-v
-s
-v
-adv
-201427	v
-201429	s
 vc
-201432	o
 v
-201437	v
+aux
+s
+apposition
+201374	p
+vc
+201377	v
 o
-201441	adv
-v
-v
-v
-201446	adv
-s
-201449	v
-201451	s
-adv
-201454	s
-adv
-201457	v
-s
-adv
-v
-s
+apposition
+201381	adv
+201401	s
 p
+v
+o
+201407	o
+p
+adv
+s
+adv
+vc
+201414	v
+io
+s
+adv
+aux
+adv
+v
+201423	p
+vc
+201426	p
+vc
+s
+adv
+201431	s
+v
+o
+adv
+201447	v
+o
+201450	o
+p
+vc
+adv
+201458	s
+v
+o
+201462	adv
+v
+v
+io
+adv
+p
+vc
+adv
+201474	s
+adv
+v
+o
+v
+201480	v
 s
 v
-201466	s
-o
 v
-o
 adv
-201472	adv
-v
-201475	adv
-201478	v
-adv
-adv
-201483	adv
 201486	adv
 v
-v
 s
-201493	v
-o
-v
-201498	v
-o
-v
-201502	o2
+201490	s
+p
+vc
 s
 v
+adv
+201499	v
+s
 io
+201503	v
 adv
-201509	o
+201507	v
+o
+201510	adv
+201513	s
 v
-201513	vc
-s
-v
-201517	s
-201522	v
-s
+o
+o2
+201518	adv
+p
+vc
+201522	s
+201524	v
 o
 adv
-201527	s
-o
+201528	adv
 201531	v
-s
-adv
-201535	v
-o
-201538	v
-adv
-adv
-201544	v
-adv
-s
 v
+adv
+201536	v
+adv
+v
+201540	o
 201552	v
+o
+201557	adv
+o
+v
 s
-201556	v
-adv
-adv
-v
-v
 v
 o
+201564	v
 adv
-s
 201567	v
 adv
-201571	s
-201574	adv
+s
 v
-201577	v
 o
-v
 adv
+201575	s
+v
+o
+201579	v
+s
+201582	v
 201584	s
-201587	adv
-v
-adv
+vc
+p
+201588	v
+o
 201591	v
+io
+v
+io
+201596	s
+201599	apposition
 o
-201594	s
-201596	io
 adv
 v
-201600	v
-adv
-201604	v
-201607	adv
 v
 adv
-vc
-201612	s
-201614	p
+201606	s
+201608	adv
+v
+adv
+v
+s
+201614	adv
+201617	o
+201619	o
+v
+v
+apposition
+201626	v
 s
 adv
-vc
+201630	v
+io
+s
+201635	aux
+v
 p
-adv
-201623	o
+201642	s
 v
-s
-201629	adv
-v
-201633	adv
-v
-s
-o
-adv
-v
-s
-201641	adv
-201644	o
-v
-v
-o
-201650	adv
-201652	s
 io
 v
-o2
-aux
+o
+201649	adv
+v
+adv
+s
+adv
+v
+201656	v
+s
+adv
+201662	adv
+201664	v
+o
+adv
+s
+201671	v
+io
+o
+adv
+s
+v
+201678	p
+s
+201681	v
+s
+v
+s
+201686	v
+v
+io
+v
+201691	s
+o
+v
+s
+v
+adv
+201699	v
+201701	s
+vc
+201704	o
+v
+201708	v
+o
+201712	adv
+v
+v
+v
+201717	adv
+s
+v
+201721	s
+adv
+201724	s
+adv
+v
+s
+adv
+v
+s
 p
 s
-201660	v
-p
+v
+201735	s
+o
+v
+o
 adv
+201741	adv
+v
+201744	adv
+201747	v
+adv
+adv
+201752	adv
+201755	adv
 v
 v
-201666	s
-201669	v
-o
-201672	adv
-v
-201675	p
-o
 s
-201679	v
+201761	v
+o
+v
+201765	v
+o
+v
+201769	s
 v
 io
+adv
+201775	o
+v
+201779	vc
+s
+v
+201783	s
+201788	v
+s
 o
-201684	adv
-201687	adv
-201690	s
-v
-201693	s
 adv
-v
+201793	s
 o
-201699	s
-v
-adv
-201704	s
-201706	apposition
-201709	v
-201711	adv
-v
+201797	v
 s
-201716	v
 adv
-adv
-201723	adv
-v
+201801	v
 o
-201727	v
-o
-201730	adv
-201733	adv
-201738	adv
-201741	v
-o
-201746	adv
-s
-201749	p
-vc
-201752	v
-o
-v
-201756	p
-s
-vc
+201804	v
 adv
-s
-201762	v
-s
-v
-v
-201767	p
-vc
 adv
-v
-io
-201773	adv
-v
-s
-201777	adv
+201810	v
 adv
 s
 v
+201816	v
 s
-201785	v
-s
-201789	adv
+201820	v
+adv
+adv
 v
-201792	adv
-201799	s
+v
 v
 adv
 s
-201809	adv
-s
-201813	v
-v
+201830	v
 adv
-v
-201818	p
-s
-vc
-201823	s
-adv
-v
-o
-201829	v
-io
-201832	o
-io
-o
-201837	io
+201834	s
+201837	adv
 v
 201840	v
-201843	v
-201845	adv
-v
-201848	adv
-s
-201852	v
-adv
-201859	v
-adv
-v
-s
-v
 o
-201866	io
 v
-io
+adv
+201847	s
+201850	adv
 v
+adv
+201854	v
+o
+201857	s
+201859	io
+adv
 v
+201863	v
+adv
+201867	v
+201870	adv
+v
+adv
 vc
-201873	s
-201877	p
-201881	v
-s
-201886	adv
-o
+201875	s
+201877	s
 adv
-v
-v
-v
-201893	o
-adv
-adv
-201897	adv
-adv
-v
-s
-201904	vc
-s
+vc
 p
-201908	adv
-201912	apposition
+adv
+201884	o
 v
 s
+201890	adv
+v
+201894	adv
 v
 s
-v
 o
-201922	v
-o
-v
-adv
-201928	v
-201930	s
-adv
-adv
-s
-201937	v
-v
-201940	s
-201942	o
-v
-adv
-201947	v
-io
-201950	v
-o
-s
-201954	v
-v
-o
-adv
-io
-o
-v
-o
-v
-adv
-201965	adv
-201967	o
-v
-adv
-201972	v
-v
-io
-adv
-v
-o
-201979	adv
-adv
-v
-o
-v
-v
-v
-v
-o
-201989	adv
-201993	v
-io
 adv
 v
 s
-adv
-202001	s
-o
+201902	adv
+201904	o
 v
+v
+o
+201909	adv
+201911	s
+io
+v
+aux
+p
 s
-v
-adv
-202009	s
-202011	apposition
-202014	v
-adv
-202018	o
-v
-io
-s
-202023	v
-v
-202026	v
-io
-o
-v
-202031	v
-adv
-o
-adv
-v
-202037	adv
-202041	o
-v
-v
-io
-s
-202047	o2
-adv
-v
-v
-v
-202053	v
-o
-202056	v
-o
-202061	v
-io
-o
-v
-adv
-202068	v
-o
-s
-o
-v
-v
-o
-202076	adv
-v
-v
-io
-202081	s
 v
 p
-vc
-s
-202088	adv
-o
 adv
+v
+v
+201923	s
+201926	v
+o
+201929	adv
+v
+201932	p
+o
+s
+201936	v
+v
+io
+o
+201941	adv
+201944	adv
+201947	s
+v
+201950	s
+adv
+v
+o
+201956	s
+v
+adv
+201961	s
+201963	apposition
+201966	v
+201968	adv
+v
+s
+201973	v
+adv
+adv
+201980	adv
+v
+o
+201984	v
+o
+201987	adv
+201990	adv
+201995	adv
+201998	v
+o
+202002	adv
+s
+202005	p
+vc
+202008	v
+o
+v
+202012	p
+s
+vc
+adv
+s
+202018	v
+s
+v
+v
+202023	p
+vc
+adv
+v
+io
+202029	adv
+v
+s
+202033	adv
+adv
+s
+v
+s
+202041	v
+s
+202045	adv
+v
+adv
+202054	s
+v
+adv
+s
+202064	adv
+s
+v
+v
+adv
+v
+202071	p
+s
+vc
+202076	s
+adv
+v
+o
+202082	v
+io
+202085	o
+io
+o
+202090	io
+v
 202093	v
-202095	s
-io
 v
-o
-202101	v
-202103	adv
+202096	adv
 v
-io
-202108	v
+202099	adv
 s
-202111	v
+202103	v
 adv
-202116	v
-202118	v
-io
-202121	v
-o
-202125	s
-v
-v
-adv
-202132	v
-s
-202135	s
-v
-v
-io
-202140	s
-202143	v
-o
-v
+202110	v
 adv
 v
-o
-v
-202151	v
-io
-adv
-202155	s
-s
-202158	v
-io
-o
-p
-202164	v
-adv
-adv
-202171	s
-202175	v
-202177	v
-adv
-s
-202181	io
-202184	adv
-s
-202188	v
-p
-adv
-202192	adv
-v
-s
-202198	v
 s
 v
 o
+202117	io
 v
-v
-202205	v
 io
-202208	v
-o
 v
-s
+v
 vc
+202124	s
+202128	p
+202131	v
+s
+202136	adv
+o
+adv
+v
+v
+v
+202143	adv
+adv
+202146	adv
+adv
+v
+s
+202152	vc
+s
 p
-202216	v
+adv
+202159	apposition
+v
+s
+v
+s
+v
+o
+202169	v
+o
+v
+adv
+202174	v
+202176	s
+adv
+adv
+s
+202183	v
+v
+202186	s
+202188	o
+v
+adv
+202193	v
+io
+202196	v
+o
+s
+202200	v
+v
+o
+adv
+io
+o
+v
+o
+v
+adv
+202211	adv
+202213	o
+v
+adv
+202218	v
+v
+io
+adv
+v
+o
+202225	adv
+adv
+v
 o
 v
 v
+v
+v
+o
+202235	adv
+202238	v
 io
-202222	v
 adv
+v
 s
-202226	v
-io
+adv
+202246	s
+o
+v
 s
-vc
-p
-202235	v
-adv
-v
-io
-202240	adv
-adv
 v
 adv
-202247	adv
-202251	o
-v
-adv
-adv
+202254	s
+202256	apposition
 202259	v
-v
 adv
-202266	v
+202263	o
+v
 io
 s
-202270	s
+202268	v
 v
-202273	v
-o
-v
-o
-202278	s
-v
-202281	adv
-v
-s
-v
-adv
-adv
-202288	s
-202290	v
+202271	v
 io
 o
-202294	s
 v
-202297	adv
+202276	v
+adv
+o
+adv
+v
+202282	adv
+202286	o
+v
+v
+io
 s
+202292	adv
+v
+v
+v
+202297	v
+o
 202300	v
+o
+202305	v
 io
-s
-v
-io
-202306	s
-adv
-adv
-202312	adv
-s
-v
-adv
 o
 v
+adv
+202312	v
+o
 s
+o
+v
+v
+o
 202320	adv
 v
-o
-202324	v
+v
+io
+202325	s
+v
+p
+vc
 s
-v
-adv
-adv
+202331	adv
 o
-v
 adv
-202333	s
-v
 202336	v
-adv
-202339	s
-202341	p
-202343	v
+202338	s
 io
-202346	o
+v
+o
+202344	v
+202346	adv
+v
+io
+202351	v
+s
+202354	v
+adv
+202358	v
+202360	v
+io
+202363	v
+o
+202366	s
+v
 v
 adv
-202350	v
-202352	v
-o
-202359	adv
-202361	v
+202372	v
+s
+202375	s
+v
+v
+io
+202380	s
+202383	v
 o
 v
-202365	v
-202367	v
-io
+adv
+v
 o
+v
+202391	v
+io
+adv
+202395	s
+s
+202398	v
+io
 p
-vc
-s
-202374	adv
-v
+202403	v
 adv
-202378	v
-202380	v
 adv
-v
-adv
-202387	v
-202390	p
-vc
-v
+202409	s
+202413	v
+202415	v
 adv
 s
-202396	v
-aux
-apposition
+202421	adv
 s
+202425	v
 p
 adv
+202429	adv
+v
+s
+202434	v
+s
 v
 o
-202405	adv
-202408	o
-s
 v
-202412	o
-s
-202416	v
-202418	v
-s
 v
-202422	v
+202441	v
 io
-aux
+202444	v
 v
-adv
-v
-adv
-v
-202431	v
-202433	v
-202435	adv
-v
-adv
 s
-202440	p
-s
-202443	p
-202445	adv
-v
-v
+vc
+p
+202451	v
 o
-202450	v
-202453	adv
 v
-v
-s
-v
-v
-202460	s
-202463	adv
-v
-o
 v
 io
-202469	v
+202457	v
 adv
-202472	v
+s
+202461	v
 io
-o
+s
+vc
+p
+202470	v
+adv
+v
+io
+202475	adv
+adv
 v
 adv
-202478	v
+202482	adv
+202485	o
 v
-202481	v
-s
-aux
-v
-s
-202488	adv
+adv
+adv
 202493	v
 v
-aux
+adv
+202500	v
+io
+s
+202504	s
 v
+202507	v
 o
 v
-202500	adv
-adv
-s
+o
+202512	s
 v
-v
-s
-202507	apposition
-202510	adv
-s
 202515	adv
-202522	v
+v
+s
+v
+adv
+adv
+202522	s
 202524	v
-o
-o
 io
+202527	s
 v
-o
-v
-p
-vc
-v
-o
-202536	v
-adv
-202539	v
-adv
-v
-adv
-v
-aux
-202546	v
-o
+202530	adv
 s
-202550	v
-o
+202533	v
 io
-202554	v
-o
-s
-202558	apposition
-v
-v
-o
-v
-o
-202567	v
-o
-202571	v
 s
 v
 io
-o
-202577	adv
+202539	s
+adv
+adv
+202545	adv
+s
 v
 adv
+o
+v
+s
+202553	adv
+v
+202556	v
+s
+v
+adv
+adv
+o
+v
+adv
+202565	s
+v
+202568	v
+adv
+s
+202572	p
+202574	v
+io
+202577	v
+adv
+202580	v
 202582	v
 o
-adv
-vc
+202589	adv
+202591	v
+o
+v
+202595	v
+202597	v
+io
 p
+vc
+s
+202603	adv
+v
 adv
-202589	v
-202591	adv
-v
-o
-202596	v
-s
-202599	v
-o
-v
-s
-202604	s
-v
-o
-v
-o
+202607	v
+202609	v
 adv
-202612	v
-o
-s
+v
+adv
 202616	v
-o
-adv
-v
-202621	v
-o
-adv
-202626	v
-s
-202635	s
-adv
-v
-o
-adv
-202647	v
-adv
-202651	v
-adv
-202654	s
-202660	v
-adv
-202663	o
-adv
-v
-o
-202668	adv
-v
-s
-202672	v
-adv
-202675	p
-s
-adv
+202619	p
 vc
-202680	s
-v
 v
 adv
-v
-202686	s
-v
 s
-v
-202691	s
-v
-o
-202696	apposition
-202698	adv
-202700	o
-v
-202703	adv
-adv
-p
-vc
-s
-202710	v
-s
-adv
-v
-o
-v
-adv
-v
-o
-o
-s
-adv
-v
-s
-202725	v
-202727	adv
-v
-o
-adv
-s
-v
-o
-202735	v
-io
-s
-vc
-p
-202741	apposition
-202744	s
-202746	v
-o
-s
-vc
-202751	v
-o
-s
-202756	adv
-202758	v
-202761	v
-adv
-202766	s
-202768	v
-o
-202771	v
-o
-adv
-adv
-o
-v
-v
-o
-s
-io
-v
-s
-202784	v
-s
-p
-vc
-adv
-202790	v
-s
-o
-v
-o
-202796	v
-o
-202800	v
-o
-202803	v
-io
-v
-202807	s
-adv
-o
-v
-202813	vc
-s
-adv
-p
-202818	v
-s
-202824	v
-s
-v
-v
-o
-v
-s
-p
-202834	vc
+202625	v
+aux
 apposition
 s
-202838	v
-v
-o
-202842	v
-202844	v
-s
-o
-v
-202849	v
-adv
-adv
-202854	s
-v
-o
-v
-adv
-v
-v
-202862	s
 p
-vc
-s
-202867	adv
-v
-202870	adv
 adv
 v
+o
+202634	adv
+202637	o
+s
 v
+202641	o
+s
+202645	v
+202647	v
+s
+v
+202651	v
 io
-o
-adv
-p
-vc
-p
-202881	vc
-s
-202884	v
-o
-v
-202888	v
-202890	adv
-v
-o
-202895	o
-v
-202898	adv
-adv
-s
-v
-202903	v
-s
-o
-202907	v
-io
-s
-202911	adv
-s
-adv
-v
-adv
-o
-v
-202919	v
-v
-202922	adv
-adv
-o
-v
-s
-adv
-202934	v
-o
-v
-202938	v
-io
-202942	v
-o
-s
-s
-vc
-p
-202950	s
-202952	v
-io
-v
-s
-v
-202958	v
-o
-s
-o2
-s
-202964	adv
-v
-o
-v
-adv
-v
-o
 aux
-o2
-o
 v
-s
-202977	adv
-o
-v
-202981	v
-s
 adv
-202985	v
-io
+v
+adv
+v
+v
+202661	v
+202663	adv
+v
+adv
+s
+202668	p
+s
+202671	p
+202673	adv
+v
+v
 o
-202989	o
+202678	v
+202680	adv
 v
 v
-202993	vc
+s
+v
+v
+202687	s
+202690	adv
+v
+o
+v
+io
+202696	v
+adv
+202699	v
+io
+v
+adv
+202704	v
+v
+v
+s
+aux
+v
+s
+202713	adv
+202717	v
+v
+aux
+v
+o
+v
+202724	adv
+adv
+s
+v
+v
+s
+202731	apposition
+202734	adv
+s
+202739	adv
+202746	v
+202748	v
+o
+o
+io
+v
+o
+v
+p
+vc
+v
+o
+202760	v
+adv
+202763	v
+adv
+v
+adv
+v
+aux
+202770	v
+o
+s
+202774	v
+o
+io
+202778	v
+o
+s
+202782	apposition
+v
+v
+o
+v
+o
+202791	v
+o
+202795	v
+s
+v
+io
+202800	adv
+v
+adv
+202805	v
+o
+adv
+vc
 p
 adv
-202998	s
+202812	v
+202814	adv
+v
+o
+202819	v
+s
+202822	v
+o
+v
+s
+202827	s
+v
+o
+v
+o
 adv
-203001	o
+202835	v
+o
+s
+202839	v
+o
+adv
 v
-203004	v
+202844	v
+o
+adv
+202849	v
+s
+202858	s
+adv
+v
+o
+adv
+202870	v
+adv
+202874	v
+adv
+202877	s
+202883	v
+adv
+202886	o
+adv
+v
+o
+202891	adv
+v
+s
+202895	v
+adv
+202898	p
+s
+adv
+vc
+202903	s
+v
+v
+adv
+v
+202909	s
+v
 s
 v
+202914	s
 v
-203009	v
+o
+202919	apposition
+202921	adv
+202923	o
+v
+202926	adv
+adv
+p
+vc
+s
+202933	v
+s
+adv
+v
+o
+v
+adv
+v
+o
+o
+s
+adv
+v
+s
+202948	v
+202950	adv
+v
+o
+adv
+s
+v
+o
+202958	v
 io
 s
-203013	v
+vc
+p
+202964	apposition
+202967	s
+202969	v
+o
+s
+vc
+202974	v
+o
+s
+202979	adv
+202981	v
+202984	v
+adv
+202989	s
+202991	v
+o
+202994	v
+adv
+adv
+o
+v
+v
+o
+s
 io
 v
+s
+203006	v
+s
+p
+vc
+adv
+203012	v
+s
+o
 v
-v
-io
+o
+203018	v
 o
 203022	v
-203025	adv
-v
 o
-s
-s
-203031	v
-o
-203034	adv
-o
-v
+203025	v
 io
+v
+203029	s
+adv
+o
+v
+203034	vc
 s
-203040	adv
-v
-v
-io
-o
-203046	v
-o
-v
-o2
-203052	s
-203054	adv
-v
-v
-o
+adv
+p
+203039	v
 s
-203060	v
-io
+203045	v
+s
+v
+v
 o
+v
+s
+p
+203055	vc
+apposition
+s
+203059	v
+v
+203062	v
 203064	v
 s
-203067	adv
-v
-v
-o
-s
-203073	v
-io
 o
 v
-v
-io
-o
-203081	v
-o
-v
-203085	v
-s
-203088	v
-o
+203069	v
 adv
-203093	s
+adv
+203074	s
+v
+o
+v
+adv
+v
+v
+203082	s
+p
+vc
+s
+203087	adv
+v
+203090	adv
+adv
+v
+v
+io
+adv
+p
 vc
 p
-203097	v
-o
-203101	v
-o
-o2
-203105	v
-io
-v
-o
-203110	v
-v
+203100	vc
+s
+203103	v
 o
 v
-aux
-203117	v
-o
-203120	adv
-203122	v
+203107	v
+203109	adv
+v
+203113	o
+v
+203116	adv
+adv
+s
+v
+203121	v
+s
 o
 203125	v
-o
-v
-o
-203132	v
-o
-v
-o
-o2
-203138	v
-o
-o2
-203143	o
-v
-o
-203147	v
-o
-203150	v
-o
-203155	v
-apposition
+io
+s
+203129	adv
+s
+adv
 v
 adv
-apposition
-203164	v
 o
-203168	v
-o
+v
+203137	v
+v
+203140	adv
 adv
-203173	apposition
+o
+v
+s
+adv
+203152	v
+o
+v
+203156	v
+io
+203159	v
+o
+s
 s
 vc
 p
-203178	v
+203167	s
+203169	v
+io
+v
+s
+v
+203175	v
+o
+s
+o2
+s
+203181	adv
+v
+o
+v
+adv
+v
+o
+aux
+o2
+o
+v
+s
+203194	adv
+o
+v
+203198	v
+s
+adv
+203202	v
+io
+203205	o
+v
+v
+203209	vc
+p
+adv
+203213	s
+adv
+203216	o
+v
+203219	v
+s
+v
+v
+203224	v
+io
+s
+203228	v
+io
+v
+v
+v
+io
+o
+203237	v
+203240	adv
+v
+o
+s
+s
+203246	v
+o
+203249	adv
+o
+v
+io
+s
+203255	adv
+v
+v
+io
+o
+203261	v
+o
+v
+o2
+203267	s
+203269	adv
+v
+v
+o
+s
+203275	v
+io
+o
+203279	v
+s
+203282	adv
+v
+v
+o
+s
+203288	v
+io
+o
+v
+v
+io
+o
+203296	v
+o
+v
+203300	v
+s
+203303	v
+o
+adv
+203307	s
+vc
+p
+203311	v
+o
+203315	v
+o
+o2
+203319	v
+io
+v
+o
+203324	v
+v
+o
+v
+aux
+203331	v
+o
+203334	adv
+203336	v
+o
+203339	v
+o
+v
+o
+203345	v
+o
+v
+o
+o2
+203351	v
+o
+o2
+203356	v
+o
+203359	v
+o
+203362	v
+o
+203367	v
+apposition
+v
+adv
+apposition
+203376	v
+o
+203380	v
+o
+adv
+203385	s
+vc
+p
+203389	v
 io
 o
 v
 s
-203184	adv
+203395	adv
 v
-203187	v
+203398	v
 o
-203191	v
+203401	v
 o
-203194	v
+203404	v
 o
 adv
 s
 o
 v
 vc
-203202	p
-203204	v
+203412	p
+203414	v
 o
-203207	v
+203417	v
 s
-203212	aux
-203216	adv
+203422	aux
+203426	adv
 v
 o
 apposition
 o
 adv
-203223	o
+203433	o
 adv
-203227	v
+203437	v
 v
 o
 adv
 v
 o
-203235	v
+203445	v
 aux
 v
 o
-203240	v
+203450	v
 adv
-203243	v
+203453	v
 o
 v
 adv
-203248	adv
+203458	adv
 s
-203251	v
+203461	v
 adv
-adv
-203255	v
-o
-o
-v
-o
-adv
-v
-v
-203264	s
-203266	apposition
-203268	v
-adv
-adv
-203274	v
-203276	v
-203278	v
-adv
-v
-o
-203284	v
-s
-s
-v
-adv
-203291	adv
-203294	adv
-203296	v
-s
-adv
-o
-203302	aux
-aux
-adv
-v
-s
-vc
-p
-203310	aux
-203312	aux
-203314	adv
-v
-o
-203318	s
-v
-v
-v
-aux
-o
-v
-adv
-v
-203328	s
-203330	v
-o
-adv
-v
-adv
-v
-o
-v
-o
-v
-203341	v
-v
-s
-v
-o
-s
-203348	v
-o
-v
-203352	s
-203355	v
-adv
-adv
-203360	v
-203362	s
-203364	v
-adv
-203368	adv
-v
-v
-adv
-s
-203374	p
-vc
-v
-203378	s
-203381	adv
-v
-p
-s
-203388	apposition
-203391	apposition
-203398	s
-203400	vc
-p
-203403	v
-o
-203406	v
-o
-203411	v
-adv
-adv
-203416	adv
-s
-v
-203421	vc
-p
-s
-vc
-p
-v
-s
-203430	apposition
-203432	apposition
-s
-apposition
-v
-o
-203439	v
-v
-adv
-203444	v
-o
-203449	s
-203451	v
-adv
-v
-203455	v
-o
-v
-o
-adv
-v
-203462	v
 adv
 203465	v
 o
-io
-203469	v
-o
 v
 o
-v
 adv
+v
+v
+s
+203474	apposition
 203476	v
-o
 adv
-203480	s
-v
 adv
+203482	v
 203484	v
-o
+203486	v
 adv
-203490	s
-203494	apposition
-203497	apposition
-v
-adv
-v
-203502	v
-s
-s
-203506	apposition
-203509	apposition
-203512	v
-o
-203515	v
 v
 o
-203520	adv
-adv
-203524	v
-adv
-203527	v
+203491	v
 s
-203530	v
-adv
 s
 v
-io
-o
 adv
-203542	v
+203498	adv
+203501	adv
+203503	v
+s
+adv
+aux
+aux
+adv
 v
-203545	v
 s
 vc
-203549	p
-203551	v
-adv
-203554	v
-s
-v
-adv
-203559	v
-o
-203562	v
-s
-203565	v
-io
-adv
+aux
+203514	aux
+203516	adv
 v
 o
-203571	v
+203520	s
+v
+v
+v
+aux
+o
+v
+adv
+v
+203530	s
+203532	v
+o
+adv
+v
+adv
+v
+o
+v
+v
+v
+v
+s
+v
+o
+s
+203548	v
+o
+v
+203552	s
+203555	v
+adv
+adv
+203560	v
+203562	s
+203564	v
+adv
+203568	adv
+v
+v
+adv
+s
+203574	p
+vc
+v
+203578	s
+203580	adv
+v
+p
+s
+203586	apposition
+203589	apposition
+203596	s
+203598	vc
+p
+203601	v
+o
+203604	v
+o
+203609	v
+adv
+adv
+203613	adv
+s
+v
+203617	vc
+s
+vc
+p
+v
+203624	apposition
+203626	apposition
+s
 apposition
 v
-203575	v
-adv
-vc
-p
-203580	v
-p
-203583	adv
-v
 o
-203587	v
+203633	v
 v
-io
-203597	v
 adv
-adv
-203601	adv
+203638	v
 o
-v
-203605	v
-io
-203609	v
-v
-adv
-203613	v
-203615	o
-s
-203619	io
-o
-v
-v
-203624	v
-203626	adv
-adv
-v
-adv
-io
-203632	apposition
-adv
-v
-o
-s
-v
-v
-p
-vc
-adv
-v
+203642	s
 203644	v
-s
+adv
 v
 203648	v
-203650	v
+o
+v
+o
 adv
 v
+203655	v
 adv
-203655	s
-203657	v
+203658	v
+o
+io
+203662	v
+o
+v
+o
 v
 adv
-203661	v
+203669	v
+o
 adv
 s
 v
-v
-io
 adv
+203676	v
 o
+adv
+203682	s
+203686	apposition
+203689	apposition
 v
 adv
-203672	v
-io
-203675	v
-203677	v
-o
-203683	v
+v
+203694	v
 s
-v
-adv
-v
-203689	v
-io
-v
-adv
-203695	v
-o
-io
-203699	v
-203701	v
-v
+s
+203698	apposition
+203701	apposition
 203704	v
+o
+203707	v
 v
-s
-203708	v
-v
+o
 203711	adv
-203714	o
-v
 adv
-v
-o
-v
-o2
-203722	o
-v
+203715	v
 adv
-o
+203718	v
+s
+203721	v
+adv
+s
 v
-203728	adv
+io
 o
+adv
+203732	v
 v
-203732	p
+203735	v
+s
 vc
-203735	s
-203739	adv
+203739	p
+203741	v
+adv
+203744	v
+s
+v
+adv
+203749	v
+o
+203752	v
+s
+203755	v
+io
+adv
+v
+o
+203761	v
+apposition
+v
+v
+adv
+vc
+p
+v
+p
+adv
+v
+o
+203774	v
+v
+io
+203782	v
+adv
+adv
+203786	adv
+o
+v
+203790	v
+io
+203793	v
+v
+adv
+203797	v
+203799	o
+s
+203803	io
+o
+v
+v
+203808	v
+203810	adv
+adv
+v
+adv
+203815	apposition
+adv
+v
+o
+s
+v
+v
+p
+vc
+adv
+v
+203827	v
+s
+v
+203831	v
+203833	v
+adv
+v
+adv
+203838	s
+203840	v
+v
+adv
+203844	v
+adv
+s
+v
+v
+io
+adv
+o
+v
+adv
+203855	v
+io
+203858	v
+203860	v
+o
+203866	v
+s
+v
+adv
+v
+203872	v
+io
+v
+adv
+203878	v
+o
+io
+203882	v
+203884	v
+v
+203887	v
+v
+s
+203891	v
+v
+adv
+203896	o
+v
+adv
+v
+o
+v
+203903	o
+v
+adv
+o
+v
+203909	adv
+o
+v
+203913	p
+vc
+203916	s
+203920	adv
 v
 io
 v
 adv
-203746	v
+203927	v
 adv
-203750	s
-203752	v
+203931	s
+203933	v
 v
 adv
 o
 s
 v
-203759	o
+203940	o
 v
 adv
-203764	v
+203945	v
 o
-203767	v
+203948	v
 io
-203771	adv
+203952	adv
 v
 adv
-203775	s
-203779	adv
-203783	v
+203956	s
+203960	adv
+203964	v
 adv
 o
-203793	s
+203973	s
 v
 v
 o
 adv
-203800	v
+203980	v
 adv
-203803	v
+203983	v
 io
 adv
 p
-203808	vc
+203988	vc
 adv
 v
 adv
@@ -70844,128 +70912,125 @@ adv
 io
 v
 aux
-203821	v
+204001	v
 o
-203824	adv
+adv
 v
 apposition
-203828	v
+204007	v
 adv
-203833	apposition
-203835	s
-203838	adv
+204012	apposition
+204016	adv
 p
 p
-203844	s
+204022	s
 adv
 p
-203850	s
-203852	p
+204028	s
+204030	p
 vc
-203855	p
+204033	p
 s
-adv
-203859	v
-adv
-203867	adv
-203869	adv
-vc
-p
-s
-203875	vc
-s
-p
-203879	s
-v
-adv
-203885	v
-203887	adv
-v
-s
-adv
-203895	adv
-203897	adv
-203901	v
-v
-v
-adv
-203909	s
-203912	v
-203914	adv
-adv
-203918	v
-203920	io
-s
-v
-adv
-203929	v
-s
-v
-203933	s
-v
-adv
-v
-203938	adv
-s
-o
-adv
-v
-aux
-203946	v
-s
-203950	s
-203953	v
-o
-io
-203957	v
-o
-203960	o2
-203962	vc
-s
-p
-203967	s
-adv
-203971	v
-vc
-203974	p
-adv
-203977	o
-203979	adv
-v
-203982	adv
-v
-adv
-203989	o
-203992	v
-adv
-203995	apposition
-203998	s
-v
-adv
-adv
-204005	adv
-v
-o
-adv
-204010	o
-adv
-204013	v
-io
-o
-v
-204018	v
-s
-adv
-204022	adv
-v
-o
-s
-204027	vc
-p
-204030	s
-204032	v
 adv
 204037	v
+adv
+204045	adv
+204047	adv
+vc
+p
+s
+204053	vc
+s
+p
+204057	s
+v
+adv
+204062	v
+204064	adv
+v
+s
+adv
+204072	adv
+204074	adv
+204078	v
+v
+v
+adv
+204086	s
+204089	v
+204091	adv
+adv
+204095	v
+204097	io
+s
+v
+adv
+204106	v
+s
+v
+204110	s
+v
+adv
+v
+204115	adv
+s
+adv
+v
+aux
+204122	v
+s
+204126	s
+204129	v
+o
+io
+204133	v
+o
+204136	o2
+204138	vc
+s
+p
+204143	s
+adv
+204147	v
+vc
+204150	p
+adv
+204153	o
+204155	adv
+v
+204158	adv
+v
+adv
+204165	o
+204168	v
+adv
+204171	apposition
+204174	s
+v
+adv
+adv
+204181	v
+o
+adv
+204185	o
+adv
+204188	v
+io
+o
+v
+204193	v
+s
+adv
+204197	adv
+v
+o
+s
+204202	vc
+p
+204205	s
+204207	v
+adv
+204212	v
 s
 v
 io
@@ -70975,18 +71040,18 @@ vc
 p
 v
 adv
-204049	v
+204224	v
 adv
 v
 adv
-204054	v
+204229	v
 io
 o
-204058	aux
+204233	aux
 vc
 p
 v
-204063	adv
+204238	adv
 v
 v
 adv
@@ -70997,133 +71062,129 @@ adv
 adv
 adv
 v
-o
-204077	s
+204251	s
 v
 adv
-204083	v
+204257	v
 s
 o
-204087	v
+204261	v
 adv
 v
 adv
-204092	s
+204266	s
 v
-204095	adv
+204269	adv
 v
 v
 io
-204100	v
-204102	o
+204274	v
+204276	o
 v
 adv
-204107	s
+204281	s
 v
 io
-204111	vc
+204285	vc
 p
-204116	v
-204118	v
+204288	v
+204290	v
 s
-204123	v
+204295	v
 adv
-204127	adv
-204131	v
+204299	adv
+204303	v
 s
 apposition
-204136	v
+204308	v
 o
 adv
 v
-204141	adv
+204313	adv
 io
 v
 s
 adv
-204147	adv
+adv
 v
 v
 o
 adv
 adv
-204157	v
+204328	v
 s
-204160	adv
-204162	adv
-204166	adv
+204331	adv
+204333	adv
+204336	adv
 s
 p
 adv
-204171	v
+204341	v
 io
-204174	adv
+adv
 s
 p
-204180	s
-204183	p
-204185	v
+204349	s
+204352	p
+204354	v
 adv
 v
-o
 v
 v
 s
 p
 s
-204195	adv
-204197	v
-204199	v
+204363	adv
+204365	v
+204367	v
 p
 vc
 s
-204205	v
+204373	v
 s
 io
-o
 adv
 v
 aux
 v
-204214	o
+204381	o
 adv
-204218	aux
-204220	v
+204385	aux
+204387	v
 adv
-204223	v
+204390	v
 o
-204226	v
+204393	v
 o
-204229	o2
+204396	o2
 s
 vc
 p
-204234	p
+204401	p
 vc
-204237	v
+204404	v
 io
 s
 apposition
 o
-204244	apposition
-204247	v
+204411	apposition
+204414	v
 adv
-204251	adv
-204254	adv
-204256	p
+204418	adv
+204421	adv
+204423	p
 vc
 s
 v
-204261	s
+204428	s
 adv
-204264	o
-adv
+204431	adv
 v
 s
-204269	o
+204435	o
 adv
 v
-204273	v
+204439	v
 s
 v
 io
@@ -71131,798 +71192,786 @@ o
 s
 v
 adv
-204282	s
+204448	s
 v
 o
-204286	s
-204289	v
+204452	s
+204455	v
 vc
 p
-204293	aux
+204459	aux
 aux
 apposition
-204297	s
+204463	s
 v
 o
 adv
-204303	s
+204469	s
 p
 vc
 adv
 vc
 p
-204310	adv
+204476	adv
 v
 adv
-204314	s
+204480	s
 v
-204317	s
-o
-204320	v
+204483	s
+v
 p
-204323	v
+204487	v
 adv
 adv
-204329	v
-adv
-s
-v
-204334	s
-adv
-204338	v
-adv
-204341	adv
-adv
-204345	v
-adv
-204350	v
-o
-204355	v
-204357	v
-o
-204361	s
-v
-s
-adv
-204368	v
-adv
-s
-204372	v
-adv
-204375	v
-o
-v
-s
-adv
-204381	v
-s
-204387	p
+204493	v
 adv
 s
 v
-s
-204395	adv
-aux
-204399	v
-s
-204404	adv
-204407	v
+204498	s
 adv
-s
-adv
-204414	p
-v
-204417	v
-s
-v
-io
-adv
-204423	v
-s
-o
-v
-s
-204429	o
-204431	v
-s
-204434	adv
-204437	apposition
-204440	v
-adv
-204446	aux
-204448	adv
-204450	v
-o
-s
-204456	v
-io
-o
-s
-204461	p
-s
-204465	s
-204467	adv
-204470	v
-o
-204473	v
-o
-adv
-204477	v
-o
-adv
-204482	v
-o
-adv
-204486	v
-o
-v
-v
-adv
-204492	v
-v
-o2
-204496	v
-o
-apposition
-v
-o
 204502	v
 adv
-204506	io
-204511	adv
-204513	v
-204515	s
+204505	adv
 adv
+204509	v
 adv
-204520	v
-adv
-204524	io
-204526	v
-s
-204529	v
-s
-204532	v
+204514	v
 o
-204535	v
-s
-204542	v
-s
+204517	v
+204519	v
 o
-204546	adv
-204548	v
-adv
-204552	v
-adv
-204557	v
+204523	s
 v
+s
+adv
+204530	v
+adv
+s
+204534	v
+adv
+204537	v
 o
+v
+s
+adv
+204543	v
+s
+204549	p
+adv
+s
+v
+s
+204557	adv
+aux
 204561	v
-o
-adv
-204568	o2
-204570	v
 s
-204573	v
-o
+204566	adv
+204569	v
 adv
-204577	vc
-p
-204580	v
+s
 adv
-204583	s
-vc
-p
-204588	s
+204576	p
 v
+204579	v
+s
+v
+io
 adv
+204585	v
+s
+v
+s
+204590	o
 204592	v
-204594	io
-204596	p
-v
-vc
 s
+204595	adv
+204598	apposition
 204601	v
-o
-v
-v
-p
-vc
-s
-204609	v
-s
-204612	v
-204614	s
-204616	adv
-204618	s
-204621	v
-v
-o
-204625	v
 adv
-204628	s
+204607	aux
+204609	adv
+204611	v
+o
+s
+204617	v
+io
+o
+s
+204622	p
+s
+204626	s
+204628	adv
+204631	v
+o
 v
 o
-204632	adv
+adv
 204637	v
-s
-204642	v
-s
+o
+adv
+204641	v
+o
+adv
+204645	v
+o
+v
 v
 adv
-204648	v
-p
-204651	s
-204653	vc
-s
-204657	vc
-p
-204660	s
-apposition
-204663	v
-adv
-204666	v
+204651	v
 v
-p
-s
+o2
+v
+o
 apposition
-204676	v
+v
+o
+204660	v
+adv
+204664	io
+204669	adv
+204671	v
+204673	s
+adv
+adv
 204678	v
+adv
+204682	io
+204684	v
+s
+204687	v
+s
+204690	v
 o
-io
-204683	v
+204693	v
+s
+204700	v
+s
 o
-io
+204704	adv
+204706	v
 adv
-204689	apposition
-204691	v
+204709	v
 adv
-204699	o
-adv
-204707	v
-o
-adv
+204714	v
 v
 o
-adv
-204716	v
+204718	v
 o
-204720	apposition
-o
-v
 adv
-204725	apposition
+204725	o2
 204727	v
-io
-adv
-adv
-204732	v
-v
+s
+204730	v
 o
 adv
-204738	adv
+204734	vc
+p
+204737	v
 adv
-204742	s
-204744	aux
+204740	vc
+p
+204744	s
+v
+adv
+204748	v
+204750	io
+204752	p
+v
+vc
+s
+204757	v
+o
+v
+v
 p
 vc
-v
-204749	adv
-v
-o
-v
-o
-io
-204756	adv
-204759	adv
-204764	adv
-v
-o
 s
-adv
-v
-adv
-204774	v
+204765	v
+s
+204768	v
+204770	s
+204772	adv
+204774	s
+204777	v
 v
 o
-204778	adv
-204781	s
-204783	v
-204785	v
+204781	v
 adv
-204788	vc
-p
-204791	adv
+204784	s
+v
+o
+204788	adv
+204793	v
+s
 204798	v
-204800	adv
-204803	v
-s
-adv
-204807	v
-s
-204810	s
-p
-vc
-v
-adv
-s
-204817	v
 s
 v
-s
 adv
-204824	v
-204826	s
-adv
-204839	s
-vc
+204804	v
 p
-adv
-vc
+204807	s
+204809	vc
 s
+204813	vc
 p
-204849	v
+204816	s
+apposition
+204819	v
 adv
-204853	v
+204822	v
+v
+p
+s
+apposition
+204830	v
+204832	v
+o
 io
-vc
-p
-204858	v
-204860	adv
-vc
-s
-p
+204837	v
+o
+io
+adv
+204843	apposition
+204845	v
+adv
+204853	o
+adv
+204861	v
+o
+adv
 v
-s
-204867	v
-s
+o
+adv
 204870	v
 o
-204876	v
-o
-204879	v
-o
-adv
-204883	adv
-vc
-p
-s
-adv
-204890	s
-vc
-p
-204895	apposition
-adv
+204874	o
 v
-204899	v
+adv
+204878	apposition
+204880	v
+io
+adv
+adv
+204885	v
+v
 o
+adv
+204891	adv
+adv
+204895	s
+204897	aux
+p
+vc
+v
 204902	adv
-204907	s
+v
+o
+v
+o
+io
+204909	adv
+204912	adv
+204916	adv
+v
+o
+s
+adv
+v
+adv
+204926	v
+v
+o
+204930	adv
+204933	s
+204935	v
+204937	v
+adv
+204940	vc
+p
+204943	adv
+204949	v
+204951	adv
+204954	v
+s
+adv
+204958	v
+s
+204961	s
+p
+vc
+v
+adv
+s
+204968	v
+s
+v
+s
+adv
+204975	v
+204977	s
+adv
+204989	s
+vc
+p
+adv
+vc
+s
+p
+204999	v
+adv
+205003	v
+io
+vc
+p
+v
+205009	adv
+vc
+s
+p
+v
+s
+205016	v
+s
+205019	v
+o
+205025	v
+o
+205028	v
+o
+adv
+205032	adv
+vc
+p
+s
+adv
+205039	s
+vc
+p
+205044	apposition
+adv
+v
+205048	v
+o
+205051	adv
+205056	s
 v
 io
-204911	s
+205060	s
 v
 o
-204915	v
+205064	v
 o
-204918	v
+205067	v
 io
 s
-o2
 adv
 v
 aux
-204926	v
+205074	v
 io
-o
-204930	s
+205077	s
 vc
 p
-204935	v
+205082	v
 io
 adv
-s
-s
-vc
-p
-adv
-204945	s
-adv
-p
-v
-o
-s
-v
-204953	v
-adv
-204956	adv
-v
-adv
-204960	s
-204962	adv
-v
-o
-204966	v
-o
-s
-adv
-p
-204972	adv
-s
-p
-204979	v
-204981	v
-adv
-adv
-204985	s
-s
-v
-adv
-v
-adv
-204992	v
-o
-204997	v
-o
-s
-v
-io
-205003	v
-v
-205006	v
-o
-205014	s
-v
-adv
-205018	v
-205020	v
-adv
-205024	v
-io
-adv
-205030	s
-v
-v
-adv
-v
-adv
-205037	adv
-s
-205040	o
-v
-205043	o
-v
-adv
-205049	v
-s
-v
-205053	o
-adv
-205056	o
-v
-205060	v
-adv
-205065	v
-s
-v
-o
-205070	vc
-s
-205073	p
-v
-adv
-205077	adv
-v
-s
-adv
-205085	v
-s
-205090	adv
-205093	v
-o
-adv
-adv
-205098	v
-io
-205101	v
-adv
-205105	s
-205107	v
-o
-p
-adv
-vc
-205113	v
-o
-adv
-v
-adv
-205120	o
-205126	aux
 s
 vc
 p
 adv
+205091	s
+adv
+p
+v
+o
+s
+v
+205099	v
+adv
+205102	adv
+v
+adv
+205106	s
+205108	adv
+v
+o
+205112	v
+o
+s
+adv
+p
+205118	adv
 s
 p
-205135	s
-205137	p
-205139	v
+205123	v
+205125	v
+adv
+adv
+205129	s
+s
+v
+adv
+v
+adv
+205136	v
+205140	v
 o
-205143	s
-vc
-p
-205147	v
+s
+v
+io
+205146	v
+v
+205149	v
+o
+205157	s
+v
+adv
+205161	v
+205163	v
+adv
+205167	v
 io
 adv
-205153	adv
+205173	s
 v
-o
-205158	v
-o
-205162	v
-adv
-205165	adv
-205168	adv
-v
-s
-o
-205173	v
-s
-adv
-205177	v
-205179	adv
-s
-205182	v
-o
-adv
-205188	v
-o
-205191	v
-adv
-v
-o
-205196	aux
-adv
-205200	adv
-205202	v
-s
-205205	o
-205209	o
 v
 adv
-205215	apposition
-205224	v
-s
-205230	adv
 v
 adv
+205180	adv
+s
+205183	o
+v
+205186	o
+v
+adv
+205192	v
+s
+v
+205196	o
+adv
+205199	o
+v
+205203	v
+adv
+205207	v
+s
+v
+o
+205212	vc
+s
+205215	p
+v
+adv
+205219	adv
+v
+s
+adv
+205226	v
+s
+205231	adv
 205234	v
 o
-s
-205238	v
 adv
-205241	apposition
-205243	aux
-s
+adv
 v
+io
+205241	v
 adv
-205257	v
-adv
-205264	v
-s
-205267	v
-adv
-205270	s
-205272	o
-v
-s
-205277	apposition
-205280	s
-v
-adv
-205284	v
-adv
-adv
-adv
-205291	s
+205245	s
+205247	v
+o
 p
 adv
-205296	s
-adv
-v
+vc
+205253	v
 o
 adv
+v
+adv
+205260	o
+205266	aux
+s
+vc
+p
+adv
+s
+p
+205275	s
+205277	p
+205279	v
+o
+205283	s
+vc
+p
+205287	v
+io
+adv
+205293	adv
+v
+o
+205298	v
+o
 205302	v
 adv
-205306	adv
-205308	v
+205305	adv
+205308	adv
+v
+s
+o
+205313	v
+s
+adv
+205317	v
+205319	adv
+s
+205322	v
+o
+adv
+205328	v
+o
+205331	v
+adv
 v
 o
-205312	v
+205336	aux
+adv
+205340	adv
+205342	v
+s
+205345	o
+205348	o
+v
+adv
+205354	apposition
+205363	v
+s
+205369	adv
+v
+adv
+205373	v
+o
+s
+205377	v
+adv
+205380	apposition
+205382	aux
+s
+v
+adv
+205396	v
+adv
+205403	v
+s
+205406	v
+adv
+205409	s
+205411	v
+s
+205415	apposition
+205418	s
+v
+adv
+205422	v
+adv
+adv
+adv
+205429	s
+p
+adv
+205434	s
+adv
+v
+o
+adv
+205440	v
+adv
+205444	adv
+205446	v
+v
+o
+205450	v
 adv
 io
-v
-o
-205320	v
-o
-205326	v
-adv
-205333	s
-205335	v
-205337	v
-v
-adv
-205341	s
-vc
-p
-205345	v
-s
-205348	adv
-adv
-adv
-205356	vc
-p
-205359	v
-s
-adv
-205366	v
-o
-adv
-v
-s
-v
-s
-apposition
-adv
-205376	adv
-v
-s
-205380	v
-205382	s
-vc
-p
-205386	v
-o
-205389	v
-o
-adv
-205397	adv
-v
-v
-adv
-v
-o
-205405	v
-adv
-205408	v
-o
-s
-adv
-205413	v
-adv
-205418	v
-o
-205421	v
-o
-v
-205425	s
-v
-o
-adv
-205435	v
-o
-v
-205439	v
-adv
-s
-205443	o
-aux
-adv
-v
-io
-adv
-aux
-s
-205453	v
 v
 o
 205457	v
-adv
 o
-p
-205462	v
-o
+205463	v
 adv
+205470	s
+205472	v
+205474	v
 v
-205467	p
-205471	v
+adv
+205478	s
 vc
+p
+205482	v
 s
-205475	s
+205485	adv
 adv
-v
-o
-205480	o
-v
-io
-205484	v
 adv
-205487	v
-adv
-205490	v
-io
-205493	s
-205495	v
-o
-205498	adv
-205502	s
-v
-adv
-205512	adv
-205519	adv
+205492	vc
+p
 v
 s
 adv
+205501	v
+o
+adv
+v
+s
+v
+s
+apposition
+adv
+205511	adv
+v
+s
+205515	v
+205517	s
+vc
+p
+205521	v
+o
 205524	v
-adv
-s
-s
-205529	apposition
-205531	v
-adv
-205537	s
-adv
-v
-adv
-205542	apposition
-205544	v
-s
-adv
-205548	apposition
-205550	adv
-205553	v
-adv
-205559	v
 o
-205565	v
 adv
-205570	apposition
-s
+205532	adv
+v
 v
 adv
-205575	o
 v
 o
-205579	o2
-v
+205539	v
+adv
+205542	v
 o
-205584	s
-v
-205587	s
-205590	v
-205593	v
 s
 adv
-205597	s
+205547	v
 adv
-205601	v
-s
+205552	v
 o
-205606	v
-205608	io
-205610	v
+205555	v
+o
 v
+205559	s
+v
+o
+adv
+205569	v
+o
+v
+205573	v
+adv
+s
+205577	aux
+adv
+v
+io
 adv
 aux
 s
+205586	v
+v
+o
+205590	v
+adv
+p
+205594	v
+o
+adv
+v
+205599	p
+205603	v
+vc
+s
+205607	s
+adv
+v
+o
+o
 v
 io
-v
+205615	v
+adv
+205618	v
 adv
 205621	v
+io
+205624	s
+205626	v
+o
+205629	adv
+205633	s
 v
-205624	o
-205628	adv
+adv
+205643	adv
+205650	adv
+v
+s
+adv
+205655	v
+adv
+s
+s
+205660	apposition
+205662	v
+adv
+205668	s
+adv
+v
+adv
+205673	apposition
+205675	v
+s
+adv
+205679	apposition
+205681	adv
+205684	v
+adv
+205690	v
+o
+205696	v
+adv
+205701	apposition
+s
+v
+adv
+205706	v
+o
+205709	o2
+v
+o
+205714	s
+v
+205717	s
+205720	v
+205723	v
+s
+adv
+205727	s
+adv
+205731	v
+s
+o
+205736	v
+205738	io
+205740	v
+v
+adv
+aux
+s
+v
+io
+v
+adv
+205751	v
+v
+205754	o
+205758	adv
 v
 v
 adv
@@ -71930,32 +71979,32 @@ o2
 v
 o
 v
-205637	io
-205639	v
+205767	io
+205769	v
 s
 adv
-205644	v
+205774	v
 o
 io
 adv
-205649	s
-205651	adv
-205655	v
+205779	s
+205781	adv
+205785	v
 s
-205659	adv
+205789	adv
 v
 o
 v
-205664	adv
+205794	adv
 v
-205667	v
+205797	v
 o
 s
 v
 o
-205673	v
+205803	v
 v
-205676	v
+205806	v
 io
 o
 v
@@ -71963,20 +72012,20 @@ o
 v
 adv
 v
-205685	v
+205815	v
 o
 adv
 v
 v
-205691	s
+205821	s
 v
-205694	v
+205824	v
 adv
 aux
 o
 v
 s
-205701	v
+205831	v
 adv
 o
 adv
@@ -71984,865 +72033,850 @@ v
 io
 v
 v
-205710	o
+205840	o
 s
 v
 v
 o
 v
 s
-205718	v
+205848	v
 io
 o
-205722	o
+205852	o
 v
-205725	v
-205727	v
+205855	v
+205857	v
 adv
-205731	v
-205733	s
-205735	v
+205860	v
+205862	s
+205864	v
 s
-adv
-205740	adv
-205742	adv
-adv
-s
-vc
-p
-v
-v
-io
-s
-o
-s
-205754	adv
-v
-o
-v
-205759	s
-205762	adv
-adv
-vc
-p
-v
-o
-205771	s
-o
-v
-adv
-205778	s
-205780	p
-205783	adv
-v
-o
-205788	v
-o
-adv
-205793	o
-205795	v
-adv
-o
-205801	v
-v
-o
-s
-205807	apposition
-v
-adv
-adv
-205813	apposition
-205820	o
-v
-s
-v
-o
-adv
-v
-o
-adv
-v
-205831	adv
-v
-s
-205835	s
-205837	v
-205839	v
-v
-s
-205843	v
-s
-205847	adv
-adv
-205850	adv
-205852	s
-adv
-v
-o
-s
-vc
-p
-205861	apposition
-adv
-v
-205865	s
-v
 adv
 205869	adv
+205871	adv
+adv
+s
 vc
 p
-205873	v
-205875	apposition
-205877	apposition
-205879	apposition
-205881	apposition
-205883	apposition
-205885	apposition
-205887	apposition
-205889	apposition
-205891	apposition
-205893	apposition
-205895	apposition
-205897	apposition
-205899	apposition
-205901	apposition
-205903	apposition
-205905	apposition
-205907	apposition
-205909	apposition
-205911	apposition
-205913	apposition
-205915	apposition
-205917	apposition
-205919	apposition
-205921	apposition
-205923	apposition
-205925	apposition
-205927	apposition
-205929	apposition
-205931	apposition
-205933	apposition
+v
+v
+io
+s
+o
+s
+205883	adv
+v
+o
+v
+205890	adv
+adv
+vc
+p
+v
+o
+205899	s
+o
+v
+adv
+205906	s
+205908	p
+205911	adv
+v
+o
+205916	v
+o
+adv
+205921	o
+205923	v
+adv
+o
+205929	v
+v
+o
+s
 205935	apposition
-205937	apposition
-205939	apposition
+v
+adv
+adv
 205941	apposition
-205943	apposition
-205945	apposition
-205947	apposition
-205949	apposition
-205951	apposition
-205953	apposition
-205955	apposition
-205957	apposition
-205959	apposition
-205961	apposition
-205963	apposition
-205965	apposition
-205967	apposition
-205969	apposition
-205971	apposition
-205973	apposition
-205975	apposition
-205977	apposition
-205979	apposition
-205981	apposition
-205983	apposition
-205985	apposition
+205947	o
+v
+s
+v
+o
+adv
+v
+o
+adv
+v
+205958	adv
+v
+s
+205962	s
+205964	v
+205966	v
+v
+s
+205970	v
+s
+205974	adv
+adv
+205977	adv
+205979	s
+adv
+v
+s
+vc
+p
 205987	apposition
-205989	apposition
-205991	apposition
-205993	apposition
-205995	apposition
-205997	apposition
-205999	apposition
-206001	apposition
-206003	apposition
-206005	apposition
-206007	apposition
-206009	apposition
-206011	apposition
-206013	apposition
-206015	apposition
-206017	apposition
-206019	apposition
-206021	apposition
-206023	apposition
-206025	apposition
-s
-206028	adv
-206030	v
 adv
-206034	v
-adv
-206037	adv
-206039	adv
+v
+205991	s
 v
 adv
-206044	adv
-v
-o
-adv
-206052	v
-s
-v
-v
-206057	io
-s
-o2
-206061	p
-vc
-206064	v
-io
-206068	vc
+205995	vc
 p
-206071	v
+205998	v
+206000	apposition
+206002	apposition
+206004	apposition
+206006	apposition
+206008	apposition
+206010	apposition
+206012	apposition
+206014	apposition
+206016	apposition
+206018	apposition
+206020	apposition
+206022	apposition
+206024	apposition
+206026	apposition
+206028	apposition
+206030	apposition
+206032	apposition
+206034	apposition
+206036	apposition
+206038	apposition
+206040	apposition
+206042	apposition
+206044	apposition
+206046	apposition
+206048	apposition
+206050	apposition
+206052	apposition
+206054	apposition
+206056	apposition
+206058	apposition
+206060	apposition
+206062	apposition
+206064	apposition
+206066	apposition
+206068	apposition
+206070	apposition
+206072	apposition
+206074	apposition
+206076	apposition
+206078	apposition
+206080	apposition
+206082	apposition
+206084	apposition
+206086	apposition
+206088	apposition
+206090	apposition
+206092	apposition
+206094	apposition
+206096	apposition
+206098	apposition
+206100	apposition
+206102	apposition
+206104	apposition
+206106	apposition
+206108	apposition
+206110	apposition
+206112	apposition
+206114	apposition
+206116	apposition
+206118	apposition
+206120	apposition
+206122	apposition
+206124	apposition
+206126	apposition
+206128	apposition
+206130	apposition
+206132	apposition
+206134	apposition
+206136	apposition
+206138	apposition
+206140	apposition
+206142	apposition
+206144	apposition
+206146	apposition
+206148	apposition
+206150	apposition
+s
+206153	adv
+206155	v
 adv
-s
-v
-206076	adv
+206159	v
 adv
-206079	v
-s
-206082	v
-o
+206162	adv
+206164	adv
 v
-io
-o
-206090	adv
-206093	v
-io
-s
-o2
-io
-v
-o
-206108	io
-v
-206111	o
-v
-v
-o
-s
-206118	v
 adv
+206169	adv
+v
+o
+adv
+206176	v
+s
+v
+v
+206181	io
+s
+206184	p
 vc
+206187	v
+io
+206191	vc
 p
-s
-206124	v
-s
-v
-io
-v
-o
-v
-o
-apposition
-206135	o
-v
-206138	v
-206140	o
+206194	v
 adv
-206143	v
-adv
-206149	v
-io
-o
-206153	p
-vc
-206156	v
-o
-adv
-adv
-v
-206162	o
-206164	io
-206166	v
-adv
-v
-o
-206173	adv
-v
-o
-adv
-adv
-v
-adv
-o
-206183	v
-v
-io
-s
-206188	v
-adv
-v
-o
-apposition
-206195	v
-o
 s
 v
-adv
+206199	adv
 adv
 206202	v
 s
-adv
-206208	adv
-206211	s
+206205	v
+o
 v
-adv
-206216	adv
-206218	s
-v
-adv
-206223	v
-adv
-206226	v
-adv
-206229	adv
-v
-206233	v
-adv
-v
-adv
-adv
-206241	adv
-206244	v
-v
-206247	v
+io
+o
+206213	adv
+206216	v
 io
 s
-206253	v
-o
+io
 v
 o
-206258	adv
+206230	io
 v
+206233	o
+v
+v
+o
 s
+206240	v
+adv
+vc
 p
-adv
-v
-o
+s
+206246	v
+s
 v
 io
 v
 o
+v
+o
+apposition
+206257	o
+v
+206260	v
+206262	o
+adv
+206265	v
 adv
 206271	v
 io
-o
-206275	io
-o
-v
-v
-adv
-v
-o
-206284	v
-o
-v
-io
-v
-206290	s
-206295	v
-o
-v
-206299	v
-adv
-206302	adv
-v
-s
-206306	adv
-206311	s
-v
-io
-206315	v
-adv
-206321	v
-adv
-206326	v
-p
+206274	p
 vc
-s
-206331	v
+206277	v
+o
 adv
 adv
+v
+206283	o
+206285	io
+206287	v
+adv
+v
+o
+206293	adv
+v
+o
+adv
+adv
+v
+adv
+o
+206303	v
 v
 io
-o
-206338	aux
+s
+206308	v
+adv
 v
+o
+apposition
+206315	v
 o
 s
 v
+adv
+adv
+206322	v
+s
+adv
+206328	adv
+206331	s
 v
+adv
+206336	adv
+206338	s
+v
+adv
+206343	v
 adv
 206346	v
 adv
 adv
-206351	v
-206353	v
+v
+206352	v
+adv
+v
+adv
+adv
+206360	adv
+206363	v
+v
+206366	v
 io
-206356	s
-p
-vc
+s
+206372	v
+o
+v
+o
 adv
-206362	adv
-206364	v
+v
+s
+p
+adv
+v
+o
+v
+io
+v
+o
+206388	v
 io
 o
-206368	s
-vc
+206392	io
+o
+v
+v
+adv
+v
+o
+206401	v
+o
+v
+io
+v
+206407	s
+206412	v
+o
+v
+206416	v
+adv
+206419	adv
+v
+s
+206423	adv
+206428	s
+v
+io
+206432	v
+adv
+206438	v
+adv
+206443	v
 p
-206373	adv
-206376	adv
-v
-s
-adv
-206384	adv
 vc
-s
-p
-206391	adv
-206393	v
-s
-206396	adv
-adv
-206400	adv
-206403	s
-vc
-adv
-206407	p
-206409	apposition
-206411	s
-v
-206414	adv
-s
-apposition
-206418	v
-s
-adv
-206423	v
-o
-206427	v
-v
-o
-adv
-206433	v
-o
-adv
-206439	adv
-s
-206442	v
-206444	v
-o
 s
 206448	v
 adv
-206451	v
-206453	v
-adv
-206456	apposition
-206459	v
-o
-adv
-206464	v
-adv
-206469	p
-vc
-s
-206475	p
-206477	vc
-s
-v
-o
-206483	v
-adv
-o
-206487	aux
-s
-p
-206491	aux
-v
-v
-o
-v
-o
-o2
-p
-vc
-p
-206504	v
-o
-s
-v
-o
-v
-206511	v
-adv
-206514	v
-o
-s
-adv
-206519	v
-adv
 adv
 v
-o
-206525	v
-s
-adv
-206529	v
-adv
-v
-p
-s
-206537	adv
-206540	v
 io
-206544	v
-206546	v
+o
+206455	aux
+v
+o
 s
-206549	adv
-206553	v
-206555	adv
-206557	v
+v
+v
 adv
-206561	s
-206564	v
+206463	v
 adv
+adv
+206468	v
+206470	v
+io
+206473	s
+p
+vc
+adv
+206479	adv
+206481	v
+io
+o
+s
+vc
+p
+206489	adv
+206491	adv
+v
+s
+adv
+206499	adv
+vc
+s
+p
+206506	adv
+206508	v
+s
+206511	adv
+adv
+206515	adv
+206518	s
+vc
+adv
+206522	p
+206524	apposition
+206526	s
+v
+206529	adv
+s
+apposition
+206533	v
+s
+adv
+206538	v
+o
+206542	v
+v
+o
+adv
+206548	v
+o
+adv
+206553	adv
+s
+206556	v
+206558	v
+o
+s
+206562	v
+adv
+206565	v
 206567	v
+adv
+206570	apposition
+206573	v
 o
 adv
-206571	v
+206578	v
 adv
-v
-o
-206576	v
-o
-adv
-206580	v
-v
-o
-v
-206585	s
+206583	p
+vc
 s
+206589	p
+206591	vc
 s
 v
-v
-adv
-v
 o
+206597	v
 adv
+aux
 s
-206596	io
-206598	o
+p
+206603	aux
 v
 v
 o
 v
-206604	s
-adv
-adv
-v
-206609	v
-206611	s
+o
+p
 vc
 p
-206617	v
-adv
-v
+206615	v
+o
 s
 v
-206623	v
+o
+v
+206622	v
+adv
+206625	v
+o
+s
+adv
+206630	v
+adv
+adv
+v
+o
+206636	v
+s
+adv
+206640	v
+adv
+v
 p
 s
-vc
-206628	v
-206630	s
-v
-v
-adv
-206637	s
-v
-o
-206641	v
-adv
-206644	v
-o
-adv
-v
-adv
-s
+206648	adv
 206651	v
-adv
-206654	io
+io
+206655	v
 206657	v
 s
+206660	adv
+206664	v
+206666	adv
+206668	v
+adv
+206672	s
+206675	v
+adv
+206678	v
+o
+adv
+206682	v
+adv
 v
 o
-206664	adv
-v
-206667	v
+206687	v
+o
 adv
-206672	v
-206674	adv
+206691	v
+v
+o
+v
+206696	s
+s
 s
 v
-o
-206679	v
-o
-206684	s
 v
 adv
-206690	v
+v
+o
+adv
 s
-v
-adv
-206695	s
-206697	adv
+206707	io
+206709	o
 v
 v
 o
 v
-206703	adv
-206707	s
-vc
-p
-v
-s
+206715	s
 adv
-206714	v
 adv
 v
-206718	adv
 206720	v
-o
-206725	v
-v
-v
+206722	s
+vc
+p
+206728	v
 adv
-206730	o
 v
-adv
-206735	v
-o
-206738	adv
-206740	v
 s
 v
-aux
+206734	v
+p
+s
+vc
+v
+206740	s
+v
+v
 adv
-206746	v
+206747	s
+v
 o
+206751	v
+adv
+206754	v
+o
+adv
 v
 adv
-206753	v
-o
-206756	o
-v
-v
-o
+s
 206761	v
-206763	s
-206766	v
-io
-206772	v
+adv
+206764	io
+206767	v
+s
 v
 o
-206776	v
-206778	v
-o
+206774	adv
+v
+206777	v
+adv
 206782	v
+206784	adv
 s
 v
-206786	s
+o
+206789	v
+o
+206794	s
 v
 adv
-206790	v
+206800	v
+s
 v
 adv
-206794	p
+206805	s
+206807	adv
+v
+v
+o
+v
+206813	adv
+206816	s
 vc
+p
+v
+s
+adv
+206823	v
+adv
+v
+206827	adv
+206829	v
+o
+206833	v
+v
+v
+adv
+206838	o
+v
+adv
+206843	v
+o
+206846	adv
+206848	v
+s
+v
 aux
-s
-206799	v
-o
-206805	adv
-206810	o
-v
 adv
-206814	o
-206819	apposition
-s
-vc
-p
-adv
-206825	v
-adv
-206828	s
-o
-adv
-v
-adv
-206834	o
-v
-206837	v
-o
-adv
-206841	v
-o
-v
-o
-206846	v
-adv
-vc
-s
-p
 206854	v
+o
+v
+adv
+206861	v
+o
+206864	o
+v
+v
+o
+206869	v
+206871	s
+206874	v
+io
+206880	v
+v
+o
+206884	v
+206886	v
+o
+206890	v
 s
-206857	v
-206859	o
+v
+206894	s
+v
+adv
+206898	v
+v
+adv
+206902	p
+vc
+aux
+s
+206907	v
+o
+206913	adv
+206917	o
+v
+adv
+206921	o
+206925	apposition
+s
+vc
+p
+adv
+206931	v
+adv
+206934	s
+adv
+v
+adv
+206939	o
+v
+206942	v
+o
+adv
+206946	v
+o
+v
+o
+206951	v
+adv
+vc
+s
+p
+206959	v
+s
+206962	v
+206964	o
 v
 adv
 v
 o
 v
 aux
-206867	v
+206972	v
 v
 o
 v
-206872	v
+206977	v
 o
 v
 o
 v
 v
 v
-206880	adv
+206985	adv
 s
 v
 adv
-206885	s
+206990	s
 v
 io
 io
 v
-206892	v
-v
-o
-io
-206897	v
-adv
-206902	v
-s
-adv
-206906	v
-206908	adv
-s
-206913	v
-s
-adv
-v
-206918	v
-adv
-206922	s
-206924	v
-adv
-206928	v
-206930	v
-adv
-206935	s
-v
-206938	v
-s
-206942	s
-v
-adv
-206951	s
-v
-adv
-v
-s
-206957	aux
-s
-v
-adv
-o
-s
-v
-206965	v
-o
-o
-v
-206970	v
-adv
-206973	adv
-v
-adv
-v
-o
-adv
-206980	v
-adv
-206983	adv
-206985	v
-o
-adv
-206989	adv
-206991	adv
-206994	v
-o
 206997	v
+v
+o
+io
+207002	v
+adv
+207007	v
+s
+adv
+207011	v
+207013	adv
+s
+207018	v
+s
+adv
+v
+207023	v
+adv
+207027	s
+207029	v
+adv
+207033	v
+207035	v
+adv
+207040	s
+v
+207043	v
+207046	s
+v
+adv
+207055	s
+v
+adv
+v
+s
+207061	aux
+s
+v
+adv
+s
+v
+207068	v
+o
+o
+v
+207073	v
+adv
+207076	adv
+v
+adv
+v
+o
+adv
+207083	v
+adv
+207086	adv
+207088	v
+o
+adv
+207092	adv
+207094	adv
+207097	v
+o
+207100	v
 aux
 v
 io
 s
-207004	v
+207107	v
 v
 s
-207010	v
+207113	v
 p
 vc
 s
-s
 v
-o
 o
 s
 v
 o
 v
-207023	adv
+207124	adv
 s
-207026	v
-207028	s
+207127	v
+207129	s
 o
-207031	v
+207132	v
 v
 adv
 o
 adv
 v
 adv
-207040	o
-s
+207141	s
 vc
 p
 v
 v
 io
 s
-207050	v
+207150	v
 o
 v
-207054	v
-207057	v
-207059	s
-207062	o
+207154	v
+207157	v
+207159	s
+207162	o
 v
 adv
-207066	v
+207166	v
 o
 v
 v
@@ -72850,11 +72884,11 @@ io
 v
 o
 v
-207075	v
+207175	v
 o
-207078	v
+207178	v
 adv
-207083	adv
+207183	adv
 v
 adv
 v
@@ -72862,498 +72896,494 @@ adv
 v
 v
 adv
-207093	v
+207193	v
 o
-207096	s
-v
-o
-207101	v
-o
-207104	v
-adv
-v
-207108	v
-o
-adv
-207112	adv
-v
-207116	v
-s
-adv
-p
-v
-adv
-207124	v
-io
+207196	s
 v
 o
-207129	v
+207201	v
 o
-v
-v
-o
-207135	v
-o
-s
-io
+207204	v
 adv
-207143	v
-s
-207149	s
 v
-adv
-207153	v
-s
-207159	adv
-207162	v
-adv
-adv
-207168	v
-207171	v
-s
-v
-adv
-o
-o
-v
-v
-207180	adv
-v
-207183	v
-v
-o
-207187	o
-adv
-s
-207191	v
-adv
-o
-207195	s
-207197	v
-adv
-207200	o
-v
-adv
-s
-207206	s
 207208	v
-207210	s
-207212	v
+o
 adv
+207212	adv
 v
+207216	v
 s
-207218	adv
 adv
-s
 p
-vc
 v
+adv
+207224	v
+io
 v
-v
-207227	s
+o
 207229	v
-adv
-s
-adv
-v
-adv
-207237	v
-207239	o
-adv
-s
-o
-adv
-207245	v
-v
-adv
-207251	adv
-207253	o
-v
-207256	adv
-adv
-v
-s
-207261	apposition
-207265	s
-v
-o
-adv
-207272	adv
-v
-s
-207277	o
-207280	s
-v
-207283	s
-v
-207286	s
-adv
-207289	p
-207292	s
-v
 o
 v
+v
+o
+207235	v
+o
+s
+io
+adv
+207243	v
+s
+207248	s
+v
+adv
+207252	v
+s
+207258	adv
+207261	v
+adv
+adv
+207267	v
+207270	v
+s
+v
+adv
+o
 o
 v
-207299	s
+v
+207279	adv
+v
+207282	v
+v
+o
+207286	o
+adv
+s
+207290	v
+adv
+o
+s
+207295	v
+adv
+207298	o
+v
+adv
+s
+207304	s
+207306	v
+207308	s
+207310	v
+adv
+v
+s
+207316	adv
+adv
+s
 p
 vc
 v
-207304	adv
 v
-s
-adv
-207309	v
-s
-207313	o
 v
-adv
-s
-207319	v
-adv
-v
-s
-adv
-v
-adv
+207325	s
 207327	v
 adv
-v
 s
 adv
+v
+adv
+207335	v
+207337	o
+adv
+s
+o
+adv
+207343	v
+v
+adv
+207349	adv
+207351	o
+v
+207354	adv
+adv
+v
+s
+207359	apposition
+207363	s
+v
+o
+adv
+207370	adv
+v
+s
+207375	o
+207378	s
+v
+207381	s
+v
+207384	s
+adv
+207387	p
+207389	s
+v
 o
 v
 o
 v
-s
-207338	v
-s
-207341	p
-vc
-207344	v
-adv
-207350	o
-207353	v
-v
-207356	v
-io
-207359	o
-adv
-v
-v
-207364	adv
-s
-207368	v
-io
+207396	s
 p
 vc
-207373	s
-207376	v
-207378	adv
-207380	v
+v
+207401	adv
+v
 s
 adv
-207385	v
-207387	vc
+207406	v
 s
-p
-207391	s
-207395	vc
-p
-207399	v
-207401	o
+207410	o
+v
+adv
 s
-207406	adv
-207408	v
-207410	v
-v
-o
-s
-207415	v
-o
-207418	v
-207420	io
-207422	o2
-v
-o
-o
-v
-207428	v
-adv
-207432	v
-v
-v
-207436	s
+207416	v
 adv
 v
-o
-v
-adv
-v
-207444	v
-o
-v
-207448	v
-207450	v
-o
-v
-io
-v
-o
-207457	s
-207459	v
-207461	v
-s
-207464	s
-207466	v
-adv
-207469	v
-adv
-o
-v
-io
-v
-207476	adv
-207479	v
 s
 adv
-207483	v
-207485	v
+v
 adv
-207493	v
+207424	v
+adv
+v
 s
-v
-o
-207499	v
-adv
-o
-207503	o
-o2
-v
-apposition
-207508	o
 adv
 v
-o2
-207514	apposition
-207526	vc
-p
-207533	s
+o
+v
+s
+207434	v
+s
+207437	p
 vc
+207440	v
+adv
+207446	o
+207449	v
+v
+207452	v
+io
+207455	o
+adv
+v
+v
+207460	adv
+s
+207464	v
+io
 p
-207537	v
+vc
+207469	s
+207472	v
+207474	adv
+207476	v
+s
 adv
+207481	v
+207483	vc
+s
+p
+207487	s
+207491	vc
+p
 v
+207495	o
+s
+207500	adv
+207502	v
+207504	v
+v
+o
+s
+207509	v
+o
+207512	v
+207514	io
+207516	o2
+v
+o
+o
+v
+207522	v
 adv
-207543	s
-207563	s
+207526	v
 v
+v
+207530	s
 adv
 v
 o
-207569	v
+v
 adv
-207574	v
+v
+207538	v
+o
+v
+207542	v
+207544	v
+o
+v
+io
+v
+o
+207551	s
+207553	v
+207555	v
+s
+207558	s
+207560	v
+adv
+207563	v
+adv
+o
+v
+io
+v
+207570	adv
+207573	v
+s
 adv
 207577	v
-207580	s
-207582	v
+207579	v
+adv
+207586	v
+s
 v
 o
-207587	s
+207592	v
+adv
+o
+o
+o2
+v
+apposition
+o
 adv
 v
-207591	v
-o
-207594	s
+o2
+207605	apposition
+207617	vc
+p
+207623	s
+vc
+p
+207627	v
+adv
+v
+adv
+207633	s
+207652	s
+v
+adv
 v
 o
-207598	adv
-207601	v
+207658	v
+adv
+207663	v
+adv
+207666	v
+207668	s
+207670	v
+v
 o
+207675	s
+adv
+v
+207679	v
+o
+207682	s
+v
+o
+207686	adv
+207689	v
 p
 s
-207606	p
+207693	p
 vc
 s
-207611	p
+207698	p
 v
 adv
-207615	v
+207702	v
 p
 v
 adv
-207620	v
-207622	p
+207707	v
+p
 vc
-207625	v
+207711	v
 o
 s
-207631	v
+207717	v
 o
-207634	v
-207636	v
+207720	v
+207722	v
 o
-207640	o
+207726	o
 adv
-207646	v
+207731	v
 adv
-207651	v
+207736	v
 aux
-207654	s
-207656	p
+207739	s
+207741	p
 adv
-207659	adv
-207662	v
+207744	adv
+207747	v
 io
 s
-207667	s
+207752	s
 io
 apposition
-207671	v
+207756	v
 o
-207674	s
+207759	s
 io
 v
 adv
-207679	v
-207681	aux
+207764	v
+aux
 v
 adv
-207686	v
-207688	v
-207690	aux
-207692	adv
-o
-v
-s
-207697	adv
-207700	v
-io
-s
-207705	io
-v
-v
-o
-v
-o
-207712	adv
-v
-v
-o
-v
-v
-o
-v
-adv
-v
-o
-v
-o
-adv
-207727	v
-o
-207731	adv
-v
-o
-207735	o
-207737	adv
-v
-io
-v
-o
-v
-207744	adv
-v
-o
-adv
-v
-207751	v
-207753	v
-io
-s
-v
-io
-adv
-207762	v
-v
-o
-s
-p
-vc
-s
-207771	v
-o
-v
+207770	v
+207772	v
+aux
 207775	adv
-207778	v
+o
+v
+s
+207780	adv
+207783	v
+io
+s
+207788	io
+v
+v
 v
 o
-s
-p
-vc
-s
-207786	o
-v
-207792	v
-adv
-adv
+207794	adv
 v
 v
-s
-p
-vc
 o
-s
+v
+v
+o
+v
+adv
+v
+o
+v
+o
+adv
+207809	v
+o
+207813	adv
+v
+o
+207817	o
+207819	adv
+v
 io
 v
-207805	v
-o
-207810	v
-o
-207814	v
-207816	v
 o
 v
-207820	vc
-s
-207823	p
-207825	vc
-p
-207828	s
-p
-vc
+207826	adv
+v
+o
 adv
-207834	vc
+v
+207833	v
+207835	v
+io
+s
+v
+io
+adv
+207843	v
+v
+o
+s
 p
-207837	s
-207839	p
 vc
-207842	adv
+s
+207852	v
+o
 v
-207845	adv
-v
-207848	adv
-v
-207851	adv
-v
-v
-207855	v
-v
+adv
 207858	v
+v
+o
+s
+p
+vc
+s
+207866	o
+v
+207870	v
+adv
+adv
+v
+v
+s
+p
+vc
+s
+io
+v
+207882	v
+o
+207887	v
+o
+207891	v
+207893	v
+o
+v
+207897	vc
+s
+207900	p
+207902	vc
+p
+207905	s
+p
+vc
+adv
+207911	vc
+p
+207914	s
+207916	p
+vc
+207919	adv
+v
+207922	adv
+v
+207925	adv
+v
+207928	adv
+v
+v
+207932	v
+v
+207935	v
 io
 o
-207862	v
+207939	v
 v
 v
 v
 adv
-207869	adv
-207871	v
+207946	adv
+207948	v
 v
 io
 v
-207876	o
+207953	o
 io
 v
 s
@@ -73362,89 +73392,89 @@ v
 s
 adv
 v
-207886	adv
+207963	adv
 vc
 s
 p
-207891	s
+207968	s
 v
-207894	vc
+207971	vc
 p
-207899	adv
-207901	v
+207976	adv
+207978	v
 o
-207904	apposition
-207910	o
-207913	apposition
-207917	adv
+207981	apposition
+207987	o
+207990	apposition
+207994	adv
 v
 adv
 v
 v
 io
-207924	aux
+208001	aux
 v
 v
 o
-207929	apposition
-207933	s
+208006	apposition
+208010	s
 o
-207939	adv
+208016	adv
 v
 aux
 v
 adv
 o
 adv
-207949	adv
+208026	adv
 v
 o
-207953	apposition
-207959	v
+208030	apposition
+208036	v
 adv
-207962	v
+208039	v
 s
 o
-207966	adv
+208043	adv
 s
 v
 o
 s
-207972	adv
-207975	v
+208049	adv
+208052	v
 adv
-207978	adv
+208055	adv
 v
 o
-207982	adv
+208059	adv
 o
 v
-207986	s
-207988	adv
-207993	v
-o
-207996	s
-adv
-207999	v
-o
-adv
-208004	v
 s
-208007	adv
-208009	o
+208064	adv
+208069	v
+o
+208072	s
+adv
+208075	v
+o
+adv
+208080	v
+s
+208083	adv
+208085	o
 v
 aux
 aux
-208014	adv
+208090	adv
 v
 o
 v
 aux
 v
 adv
-208022	v
+208098	v
 o
-208026	v
+208102	v
 o
 v
 io
@@ -73453,240 +73483,239 @@ vc
 p
 p
 vc
-adv
-208037	v
+208112	v
 o
 s
 v
-208042	v
-208044	v
+208117	v
+208119	v
 o
 adv
-208049	s
-208051	v
-v
-s
-o
-208057	adv
-v
-v
-o
-adv
-adv
-v
-s
-208066	v
-208068	adv
-v
-p
-vc
-adv
-v
-o
-adv
-208077	adv
-o
-v
-s
-208082	adv
-v
-208085	vc
-s
-208090	p
-208093	v
-o
-208097	adv
-208101	v
-adv
-s
-208106	adv
-v
-v
-v
-s
-vc
-adv
-p
-v
-208116	adv
-208118	v
-adv
-o
-208122	v
-o
+208123	s
 208125	v
 v
+s
 o
-208129	s
-208131	v
+208131	adv
+v
+v
+o
 adv
-208134	v
-o
 adv
 v
-208140	p
+s
+208140	v
+208142	adv
+v
+p
 vc
-io
+adv
 v
 o
-208146	v
-208148	o
-208151	o
-s
-v
-io
-s
-208157	v
 adv
-208160	adv
-208162	s
-adv
-v
-adv
-208167	v
+208151	adv
 o
+v
 s
+208156	adv
 v
-io
-aux
+208159	vc
+s
+208164	p
+208166	v
+o
+208170	adv
+208174	v
 adv
+s
+208179	adv
 v
-adv
-208177	p
+v
+v
+s
 vc
-208180	adv
-208183	v
-208185	adv
-o
-v
 adv
+p
 v
+208189	adv
 208191	v
 adv
-208194	v
-s
-208197	s
-208199	p
-vc
-adv
-v
-v
-adv
 o
-208209	v
+208195	v
+o
+208198	v
+v
+o
+208202	s
+208204	v
+adv
+208207	v
+o
+adv
+v
+208212	p
+vc
 io
 v
-208213	v
-208217	io
-v
-208220	v
-208224	io
-208226	v
 o
+208218	v
+208220	o
+208223	o
+s
+v
+io
+s
 208229	v
+adv
+adv
+208233	s
+adv
 v
-208232	o
+adv
+208238	v
+o
 s
 v
-o
-208237	v
 io
-208240	v
-o
-v
-v
-io
+aux
 adv
-adv
-208248	o
 v
-208251	v
 adv
+208248	p
+vc
+208251	adv
 208254	v
-v
-s
-v
-208260	v
-adv
-208263	v
-adv
-208266	vc
-p
-208269	v
-adv
-s
-208278	v
-adv
-208283	aux
-208285	v
-s
-v
-208293	s
-vc
-p
-208297	s
-208300	vc
-p
-208303	v
+208256	adv
 o
-s
 v
 adv
+v
+208262	v
+adv
+208265	v
+s
+208268	s
+208270	p
+vc
+adv
+v
+v
+adv
+o
+208280	v
+io
+v
+208284	v
+208287	io
+v
+208290	v
+208293	io
+208295	v
+o
+208298	v
+v
+208301	o
+s
+v
+o
+208306	v
+io
 208309	v
+o
+v
+v
+io
+adv
+adv
+208317	o
+v
+208320	v
+adv
+208323	v
+v
+s
+v
+208328	v
+adv
+208331	v
+adv
+208334	vc
+p
+208337	v
+adv
+s
+208346	v
+adv
+208351	aux
+208353	v
+s
+v
+208361	s
+vc
+p
+208365	s
+208368	vc
+p
+208371	v
+o
+s
+v
+adv
+208377	v
 io
 adv
 v
-208315	v
+208383	v
 v
 o
-208319	v
+208387	v
 v
-208322	v
+208390	v
 aux
 io
 v
 v
-208329	v
+208397	v
 s
-208332	v
+208400	v
 v
-208335	v
+208403	v
 o
 io
-208339	v
-208341	s
+208407	v
+208409	s
 o
-208344	v
+208412	v
 o
 v
 o
-208349	s
+208417	s
 v
 adv
-208354	v
+208422	v
 s
 o
-208359	v
+208427	v
 s
-208363	adv
-208372	v
+208431	adv
+208440	v
 io
 s
-208376	adv
-208379	v
+208444	adv
+208447	v
 o
-208384	s
+208452	s
 v
 adv
-208388	v
+208456	v
 o
 s
 vc
 v
-208394	o
+208462	o
 v
 v
-208398	adv
+208466	adv
 s
 v
 s
@@ -73699,16 +73728,16 @@ o
 s
 vc
 v
-208412	o
+208480	o
 v
 adv
-208417	v
+208485	v
 o
 adv
-208424	io
+208492	io
 v
 v
-208428	v
+208496	v
 v
 io
 v
@@ -73716,59 +73745,57 @@ v
 io
 o
 v
-208438	s
+208505	s
 v
 s
 v
 s
 v
-208446	s
+208512	s
 v
 s
 v
 s
 v
-208453	p
+208519	p
 vc
 s
 adv
 v
 adv
 v
-208461	s
-208463	v
+208527	s
+208529	v
 v
 adv
-208467	adv
-o
+208533	adv
 o
 v
 adv
-208473	v
+208538	v
 o
 adv
 v
-208478	o
+208543	o
 v
 v
 o
 adv
-208484	v
+208549	v
 aux
 s
-208491	adv
+208556	adv
 v
 p
-208495	vc
-208497	o
+208560	vc
+208562	o
 v
 v
 o
 aux
 v
 io
-o
-208506	o
+208570	o
 s
 vc
 adv
@@ -73776,136 +73803,132 @@ v
 aux
 v
 o
-208515	adv
-208517	s
+208579	adv
+208581	s
 v
 o
-208521	adv
+208585	adv
 v
 io
 p
 adv
-208527	adv
+208591	adv
 s
 vc
 s
-208537	p
+208601	p
 adv
 vc
-208541	s
-208544	v
-208547	v
-o
-v
-adv
-208552	s
-208557	o
-208560	v
-adv
-adv
-v
-adv
-adv
-208567	v
-o
-208573	adv
-vc
-p
-p
-vc
-adv
-208580	adv
-v
-208583	v
-io
-s
-v
-v
-io
-208590	adv
-v
-v
-208594	adv
-v
-v
-208598	s
-apposition
-adv
-adv
-v
-o
-208605	v
-o
+208605	s
 208608	v
+208611	v
 o
 v
+adv
+208616	s
+208621	o
+208624	v
+adv
+adv
 v
-s
-208615	adv
-v
-208618	v
-208620	v
-o
-v
-p
-208625	apposition
+adv
+adv
 208631	v
-s
-adv
-208637	v
-208639	s
 o
-208643	v
-adv
+208637	adv
+vc
+p
+p
+vc
+208643	adv
+v
 208646	v
-adv
-208651	v
-208653	v
+io
 s
+v
+v
+io
+208653	adv
+v
+v
+208657	adv
+v
+v
+208661	s
+apposition
+adv
+adv
+v
+o
+208668	v
+o
+208671	v
+o
+v
+v
+s
+208678	adv
+v
+208681	v
+208683	v
+v
+p
+208687	apposition
+208693	v
+s
+adv
+208699	v
+208701	s
+o
+208705	v
+adv
+208708	v
+adv
+208713	v
+208715	v
 s
 vc
 adv
-208659	p
-208662	v
-208664	v
+208720	p
+208723	v
+208725	v
 adv
-208669	adv
+208730	adv
 v
 o
-208673	v
+208734	v
 adv
 adv
-208678	v
-adv
-v
-v
-o
-208685	adv
-208689	v
-208691	v
-o
-208695	v
+208739	v
 adv
 v
-208699	s
-208701	v
-o
-v
-adv
 v
 o
-208708	s
-208710	vc
+208746	adv
+208750	v
+208752	v
+o
+208756	v
+adv
+v
+208760	s
+208762	v
+o
+v
+adv
+v
+s
+208769	vc
 p
 v
 p
-208715	s
-208717	s
+208774	s
+s
 v
 o
-208721	p
+208779	p
 vc
-208724	v
+208782	v
 s
 v
 adv
@@ -73914,12 +73937,11 @@ v
 io
 o
 v
-208734	s
-208736	aux
+s
+208793	aux
 v
 v
-o
-208741	s
+s
 vc
 p
 apposition
@@ -73927,85 +73949,85 @@ s
 v
 o
 s
-208750	o
-208752	adv
+208805	o
+adv
 v
 s
 v
 io
 v
 s
-208760	adv
+208814	adv
 v
 o
 v
 s
 v
 v
-208768	io
+208822	io
 o
 v
 s
-208773	v
+208827	v
 io
 adv
 v
-208778	v
+208832	v
 adv
-208781	io
+208835	io
 v
 v
 o
-208787	v
+208840	v
 adv
-208791	o
+208844	o
 io
 adv
 adv
 v
-208797	s
-208799	adv
+208850	s
+208852	adv
 v
 o
-208804	adv
-208806	v
+208857	adv
+208859	v
 o
 io
 adv
 v
 s
-208813	adv
+208866	adv
 adv
 v
 adv
 v
 v
 o
-208821	adv
+208874	adv
 o
-208824	adv
+208877	adv
 v
 s
-208828	adv
+208881	adv
 v
 o
-208832	adv
+208885	adv
 v
 io
 v
 s
-208841	v
+208894	v
 adv
 io
-208845	s
+208898	s
 v
 adv
 v
 v
-208851	io
+208904	io
 v
 s
-208856	v
+208909	v
 v
 v
 adv
@@ -74016,42 +74038,42 @@ s
 o
 v
 v
-208868	adv
-208870	s
-208872	v
+208921	adv
+208923	s
+208925	v
 o
 v
 adv
-208877	v
+208930	v
 adv
-208881	s
+208934	s
 v
 adv
-208886	v
-208888	o
-208892	s
-208894	p
-208899	s
+208939	v
+208941	o
+208945	s
+208947	p
+208951	s
 v
 adv
-208905	apposition
-208908	vc
+208957	apposition
+208959	vc
 p
 adv
 s
 v
-208915	apposition
-208917	apposition
-208922	s
+208966	apposition
+208968	apposition
+208972	s
 v
 o
 adv
 v
 adv
-208929	v
-208931	s
-208933	s
-208935	v
+v
+208980	s
+208982	s
+208984	v
 adv
 v
 adv
@@ -74059,742 +74081,729 @@ v
 v
 v
 o
-208945	adv
+208994	adv
 v
 s
 s
 adv
 v
 adv
-208954	v
-208956	s
-208959	v
+209003	v
+209005	s
+209008	v
 o
-208962	s
-v
-adv
-208967	v
-v
-adv
-adv
-v
-o
-208974	s
-v
-adv
-208980	v
-s
-v
-o
-208985	s
-v
-adv
-208992	v
-v
-o
-o
-v
-v
-v
-o
-v
-v
-v
-209004	o
-s
-209007	p
-s
-vc
 209011	s
-209013	v
+v
+adv
+209016	v
+v
+adv
+adv
+v
+o
+209023	s
+v
+adv
+209029	v
+s
+v
+o
+209034	s
+v
+adv
+209041	v
+v
+o
+o
+v
+v
+v
+o
+v
+v
+v
+209053	o
+s
+209056	p
+s
+vc
+209060	s
+209062	v
 o
 io
 v
 v
 o
-209023	io
-209025	adv
-209028	v
+209072	io
+209074	adv
+209077	v
 adv
 v
-209032	v
+209081	v
 adv
 v
 vc
-209037	p
+209086	p
 s
 s
 vc
 p
-209045	s
-209049	vc
+209093	s
+209097	vc
 v
-209052	adv
-v
-s
-209056	v
-o
-adv
-209062	adv
-v
-v
-s
-209069	s
-209071	v
-adv
-v
-o
-209076	s
-o
 adv
 v
 s
+209103	v
+o
+adv
+209109	adv
+v
+v
+s
+209116	s
+209118	v
 adv
 v
-209084	adv
-209086	v
-209089	adv
-209091	v
+o
+209123	s
+o
+adv
+v
+s
+adv
+v
+209131	adv
+209133	v
+209136	adv
+209138	v
 s
 vc
 v
-209096	adv
-209101	v
+209143	adv
+209148	v
 v
-209104	adv
+209151	adv
 v
 aux
-209111	s
+209158	s
 vc
 s
 adv
-209117	v
-o
-v
-209121	v
-adv
-209124	s
-209126	o
-v
-v
-o
-adv
-209132	adv
-v
-209135	adv
-v
-209138	v
-v
-o
-p
-209143	vc
-s
-s
-adv
-p
-vc
-209150	s
-s
-adv
-v
-209155	adv
-v
-v
-209159	adv
-v
-209162	s
 209164	v
-v
-io
-209168	s
-adv
-v
-s
 o
 v
-v
-v
+209168	v
 adv
+209171	s
+209173	o
 v
+v
+o
+adv
 209179	adv
-s
-209186	adv
 v
+209182	adv
 v
-o
-adv
-209192	v
-209194	io
-s
-209201	v
-adv
-v
+209185	v
 v
 o
+p
+209190	vc
+s
+adv
+p
+vc
+209196	s
+adv
+v
+209200	adv
+v
+v
+209204	adv
+v
 s
 209208	v
 v
+io
+209212	s
 adv
-aux
-209215	s
-vc
+v
+s
 o
-209220	v
-209222	v
-209224	adv
-209229	s
+v
+v
 v
 adv
-209233	s
+v
+209223	adv
+s
+209230	adv
+v
+v
+o
+adv
 209236	v
+209238	io
+s
+209245	v
+adv
+v
+v
+o
+s
+209252	v
+v
+adv
+aux
+209259	s
+vc
+o
+209264	v
+209266	v
+209268	adv
+209273	s
+v
+adv
+209277	s
+209280	v
 adv
 v
 adv
-209244	v
-209246	v
-209248	s
+209288	v
 v
-209251	v
+209291	s
+v
+209294	v
 s
 adv
-209257	v
-209259	v
+209300	v
+209302	v
 v
-209262	v
+209305	v
 o
 v
-o
-209267	aux
+aux
 aux
 v
 s
-209272	v
+209313	v
 v
 o
-209281	v
-209283	v
-s
-v
-209287	io
-p
-s
-209291	v
-209293	v
-v
-adv
-209297	p
-209299	s
-vc
-209303	io
-209305	v
-209309	v
-o
-209312	v
-adv
-209318	s
-vc
-p
 209322	v
-209324	o
-adv
-209327	v
+209324	v
 s
-209333	v
-o
-209336	adv
-adv
 v
-o
-209342	adv
-adv
-v
-209346	adv
-209348	v
-209350	o
-v
-v
-adv
-209355	adv
-v
-o
-s
+209328	io
 p
-209361	aux
-apposition
-209365	apposition
+s
+209332	v
+209334	v
+v
+adv
+p
+209339	s
+vc
+209343	io
+209345	v
+209349	v
+o
+209352	v
+adv
+209357	s
+vc
+p
+209361	v
+209363	o
+adv
+209366	v
+s
+209372	v
+o
+209375	adv
+adv
 v
 o
+209381	adv
 adv
-o
 v
-v
-209373	io
-209376	v
-adv
-209379	adv
-209381	v
-o
-209384	v
-adv
+209385	adv
 209387	v
-209389	v
-o
+209389	o
+v
 v
 adv
 209394	adv
-209396	v
-209398	o
+v
 s
 p
+209399	aux
+apposition
+209403	apposition
+v
+o
 adv
-s
-vc
-209405	s
-209407	v
-p
-209410	v
-s
-adv
+o
+v
+v
+209411	io
 209414	v
-o
+adv
 209417	adv
-v
-io
-adv
-209422	v
-vc
-209425	p
-s
-209429	v
-adv
-209433	v
+209419	v
 o
-209436	v
+209422	v
+adv
+209425	v
+209427	v
+o
+v
+adv
+209432	adv
+209434	v
+209436	o
+s
+p
+adv
+s
+vc
+s
+209444	v
+p
+209447	v
+s
+adv
+209451	v
+o
+209454	adv
+v
+io
+adv
+209459	v
+vc
+209462	p
+s
+209466	v
+adv
+209470	v
+o
+209473	v
 io
 adv
 v
-209441	v
+209478	v
 io
 v
-209445	s
+209482	s
 adv
-209448	v
+209485	v
 adv
-209453	v
+209490	v
 s
 adv
-209457	adv
-209460	v
+209494	adv
+209497	v
 v
-209463	v
-v
-v
-209467	v
-adv
-209475	v
-209477	v
-v
-209480	v
-adv
-209484	v
-v
-s
-209488	adv
-s
-v
-adv
-v
-209494	v
-adv
 209500	v
 v
-209503	io
 v
+209504	v
 adv
+209512	v
+209514	v
 v
-v
-209509	v
-s
-s
 209517	v
 adv
-209520	adv
+209521	v
 v
+209524	adv
 s
-209524	v
+v
+adv
+v
+209530	v
+adv
+209536	v
+v
+209539	io
+v
 adv
 v
 v
-209529	o
+209545	v
 s
-209532	adv
-v
-s
-vc
-p
-v
-209539	o
-v
-o
-v
-adv
-209547	v
-o
-io
-v
 s
 209553	v
 adv
-209557	v
+209556	adv
+v
+s
+209560	v
+adv
+v
+v
+209565	o
+s
+adv
+v
+s
+vc
+p
+v
+209574	o
+v
+o
+v
+adv
+209582	v
+o
+io
+v
+s
+209588	v
+adv
+209592	v
 o
 v
 io
 s
-209563	adv
-209565	v
+adv
+209599	v
 s
 v
 o
 s
 v
-209572	s
-o
-209575	aux
-v
-s
-adv
-s
-p
-209582	s
-p
-209585	vc
-209587	v
-adv
-209591	v
-s
-v
-adv
-209599	s
-209601	vc
-p
 209606	s
+o
+209609	aux
 v
 adv
-209610	v
 s
-s
-v
-o
-209616	s
-209618	vc
 p
-209621	adv
-209623	s
+209615	s
+p
+209618	vc
+209620	v
 adv
-v
-adv
-v
-v
-adv
-v
-o
-209636	adv
-v
+209624	v
 s
+v
+adv
+209632	s
+209634	vc
+p
+209639	s
+v
+adv
 209643	v
 s
+s
+v
+o
+209650	vc
+p
+209653	adv
+209655	s
+adv
+v
+adv
+v
+v
+adv
+v
+o
+209668	adv
+v
+s
+209675	v
+s
 p
 v
 o
 v
-209650	s
+209682	s
 v
 s
 aux
 s
 v
 o
-209658	v
+209690	v
 s
-209661	v
+209693	v
+v
 o
-v
-o
 s
 s
-209668	v
+209699	v
 s
 v
 adv
 v
-209674	s
-209676	adv
+209705	s
+209707	adv
 v
 v
 v
-209682	v
+209713	v
 adv
 adv
-209686	v
-o
-v
-adv
-209693	adv
-v
-adv
-s
-209698	v
-io
-aux
-s
-209703	v
-o
-v
-adv
-adv
-s
-v
-v
-s
-adv
-209714	v
 209717	v
+o
+v
+adv
+209724	adv
+v
+adv
 s
-209720	adv
+209729	v
+io
+aux
+s
+209734	v
+o
+v
+adv
+adv
+s
+v
+v
+s
+adv
+209745	v
+209747	v
+s
+209750	adv
 v
 o
 s
-209725	v
+209755	v
 v
 io
-o
 adv
 v
 adv
 v
-209734	v
+209763	v
 v
-209737	adv
-209739	adv
+209766	adv
+209768	adv
 v
 v
 s
 adv
-209745	adv
+209774	adv
 o
-209755	v
-209757	s
-209759	o
-s
-209762	v
-o
-adv
-v
-209767	v
-209769	v
-209771	v
-o
-v
-209775	v
-s
-209778	v
-o
-209781	v
-v
-aux
-v
-209787	v
+209784	v
+209786	s
+209788	o
 s
 209791	v
 adv
-209794	v
-io
 v
-v
+209795	v
+209797	v
 209799	v
+o
+v
+209803	v
 s
-209802	s
-209804	v
-io
-io
-v
-v
-v
-209811	o
-v
-io
+209806	v
 o
-209816	adv
-209821	o
+209809	v
 v
-209824	v
-o
+aux
+v
+209815	v
+s
+209819	v
 adv
+209822	v
+io
 v
-o
+v
+209827	v
+s
+209830	s
 209832	v
-209834	v
-adv
-o
-209838	o
+io
+io
 v
+v
+v
+209839	o
+v
+io
+o
+209844	adv
+209849	o
+v
+209852	v
+o
 adv
-209842	apposition
-209844	o
-209846	o
-209848	o
-209850	o
-209852	adv
-209854	v
-209858	adv
+v
+o
 209860	v
+209862	v
 adv
-v
-209864	adv
-v
-209868	s
-adv
-v
 o
+209866	o
 v
 adv
+209870	apposition
+209872	o
+209874	o
 209876	o
+209878	o
+209880	adv
+209882	v
+209885	adv
+209887	v
 adv
-209880	v
-adv
-209884	v
-209886	v
-adv
-209889	v
+v
 209891	adv
 v
 209894	s
+adv
+v
+o
+v
+adv
+209902	o
+adv
+209906	v
+adv
+209910	v
+209912	v
+adv
+209915	v
+209917	adv
+v
+209920	s
 apposition
 o
 v
-209899	v
+209925	v
 adv
 v
 adv
-209904	s
+209930	s
 v
 adv
 adv
-209910	s
+209936	s
 v
 adv
-209915	s
+209941	s
 apposition
-209918	v
+209944	v
 v
-209921	s
+209947	s
 o
 o
 s
 v
 p
-209928	vc
-s
+209954	vc
 adv
-v
-o
-209934	v
-v
-o
-209938	v
-s
-v
-io
-o
-v
-209945	v
-o
-v
-adv
-adv
-209951	vc
-p
-s
-209955	v
 v
 o
 209959	v
+v
 o
-v
-io
-adv
-209968	o
-v
-v
+209963	v
 s
-209973	v
-v
-v
-209977	s
 v
 io
 o
 v
+209970	v
 o
-209985	v
+v
 adv
-209991	v
-209993	v
-o
-209996	adv
+adv
+209976	vc
 p
-209999	vc
+s
+209980	v
 v
-210002	adv
+o
+209984	v
+o
+v
+io
+adv
+209993	o
+v
+v
+s
+209998	v
+v
+v
+210002	s
 v
 io
 v
-s
-s
+o
 210009	v
+adv
+210015	v
+210017	v
 o
+210020	adv
+p
+210023	vc
+v
+210026	adv
+v
+io
+v
+s
+s
+210033	v
 adv
 vc
 p
 s
-210016	s
-210021	v
-s
-v
-adv
-210028	o
-vc
-210031	p
-s
-v
-210035	adv
-210038	v
-o
-adv
+210039	s
 210044	v
-adv
-210047	v
-o
+s
 v
+adv
 210051	o
-210057	v
-adv
-210060	v
+vc
+210054	p
+s
+v
+210058	adv
+210061	v
 o
-210063	v
-210065	v
-io
-v
-io
-210071	v
-210073	v
-s
-210076	v
-s
-v
 adv
-apposition
+210067	v
+adv
+210070	v
+o
+v
+210074	o
+210080	v
+adv
 210083	v
+o
+210086	v
+210088	v
+io
+v
+io
+210094	v
+210096	v
+s
+210099	v
+s
+v
+adv
+apposition
+210106	v
 adv
 v
 s
@@ -74802,7 +74811,7 @@ adv
 v
 adv
 s
-210092	v
+210115	v
 o
 v
 p
@@ -74811,677 +74820,669 @@ s
 v
 vc
 s
-210102	v
+210125	v
 v
 o
 o
 apposition
 s
-210109	o
+210132	o
 s
-210113	s
-210116	v
+210136	s
+210139	v
 v
-210119	io
+210142	io
 s
-210122	p
+210145	p
 s
 v
 vc
 s
-210128	v
+210151	v
 v
 p
-210133	s
-210135	v
+210156	s
+210158	v
 o
 v
 io
 v
 o
 v
-210143	v
+210166	v
 s
-210147	o
+210170	o
 v
-210150	v
-adv
-210156	v
-210158	adv
-210160	v
-v
-210163	adv
-o
-210166	s
-v
-adv
-v
-v
-o
 210173	v
-o
-210176	adv
-210178	v
-o
-s
-210182	v
-o
-210185	v
+adv
+210179	v
+210181	adv
+210183	v
 v
-o
-s
-210190	v
-o
-210193	adv
-s
+210186	adv
+210188	s
 v
-o
-o
-210199	v
-s
 adv
 v
+v
 o
-210205	o
+210195	v
+o
+210198	adv
+210200	v
+o
+s
+210204	v
+o
 210207	v
-210210	s
+v
+o
+s
 210212	v
 o
-210217	o
-o
+210215	adv
 s
-210222	v
-210224	v
+v
+o
+o
+210221	v
+s
 adv
+v
+o
+210227	o
+210229	v
+210231	s
 210233	v
-210235	io
+o
+210238	o
+s
+210242	v
+210244	v
 adv
+210253	v
+210255	io
+adv
+v
+210259	adv
 v
 s
-210240	adv
-v
-s
 adv
 v
 o
-210247	v
-o
-210251	v
-210253	adv
-210256	adv
-210259	v
-o
-210263	v
-adv
 210266	v
-210268	v
-adv
-v
-s
-s
-210276	p
-210278	s
-210280	p
-v
-210283	aux
-s
-v
-adv
-s
-vc
-p
-210291	s
-v
-adv
-v
 o
-210298	o
-v
-v
-adv
-s
-210308	v
-adv
-v
-210312	v
+210270	v
+210272	adv
+210275	adv
+210278	v
 o
-210320	v
+210282	v
 adv
-210324	v
-adv
-v
-s
+210285	v
+210287	v
 adv
 v
 s
-adv
-210333	aux
-p
-vc
 s
-p
+210295	p
+210297	s
+210299	p
+v
+210302	aux
+s
+v
+adv
+s
 vc
+p
+210310	s
+v
+adv
+v
+210316	o
+v
+v
+adv
+s
+210326	v
+adv
+v
+210330	v
+o
+210338	v
+adv
 210341	v
-o
-o
-io
-210346	o
-io
-210349	o
-io
 adv
-v
-o
-v
-o
-210357	s
-v
-v
-s
-210362	v
-o
-v
-210366	adv
 v
 s
 adv
-210372	s
+v
+s
+adv
+210350	aux
+p
+vc
+s
+p
+vc
+210357	v
+o
+o
+io
+210362	o
+io
+210365	o
+io
+adv
+v
+o
+v
+o
+210373	s
+v
+v
+s
+210378	v
+o
+v
+210382	adv
+v
+s
+adv
+210388	s
 v
 adv
-210376	v
+210392	v
 s
 vc
 p
-210382	v
+210398	v
 o
 v
-210386	adv
+210402	adv
 v
 s
 v
 s
 o
-210393	s
+210409	s
 v
-210396	io
+210412	io
 v
 adv
-210401	o
+210417	o
 o
 v
-210405	v
-210407	adv
-210410	v
+v
+210422	adv
+210424	v
 s
 adv
-210414	v
+210428	v
 o
 s
-210418	aux
+210432	aux
 s
-210422	v
+210436	v
 v
 aux
 v
 o
 v
 adv
-210432	p
+210446	p
 adv
 vc
-210436	aux
+210450	aux
 s
 v
 o
-210441	adv
+210455	adv
 v
-210444	v
-o
-adv
-210448	adv
-v
-adv
-v
-o
-210454	v
-o
 210458	v
 o
-210461	adv
+adv
+210462	adv
 v
-v
-210465	s
+adv
 v
 o
+210468	v
+o
+210472	v
+o
+210475	adv
+v
+v
+210479	s
+v
 aux
-210471	v
+210484	v
 adv
 vc
 p
-210476	v
+210489	v
 o
 v
 adv
 o
-210483	adv
-210485	v
+210495	adv
+210497	v
 s
 v
 o
 s
-210491	v
+210503	v
 v
-210494	s
+210506	s
 o
-210499	v
+210511	v
 o
-210502	v
+210514	v
 o
 io
-210506	v
-210508	s
+210518	v
+210520	s
 adv
-210514	s
-210516	v
-adv
-210519	o
-v
-v
-adv
-210525	v
-s
+210525	s
+210527	v
 adv
 210530	o
-210532	s
+v
+v
+adv
 210536	v
-v
+s
 adv
-210541	s
-210543	v
-o
+210541	o
+210543	s
 210547	v
-adv
-210550	adv
 v
-o
+adv
+210552	s
 210554	v
+o
+210558	v
+adv
+210561	adv
+v
+o
+210565	v
 v
 o
 adv
-210560	v
-210562	s
+210571	v
+210573	s
 adv
 s
 vc
 p
 s
-210569	v
+210580	v
 o
-210574	v
+210585	v
 o
 v
 o
 adv
-210580	v
+210591	v
 io
 s
 v
 o
-210586	adv
-210589	o
+210597	adv
+210600	o
 v
-210592	s
+210603	s
 o
 v
 v
 v
 o
-210599	p
+210610	p
 adv
-210602	vc
+210613	vc
 s
 vc
 p
 v
-210608	s
+210619	s
 v
 aux
 v
 s
 adv
-210616	v
+210627	v
 o
-210619	v
+210630	v
 o
-210622	adv
+210633	adv
 v
 adv
 v
-210627	adv
+210638	adv
 s
-o
 adv
 v
 s
-210634	adv
+210644	adv
 vc
 p
 p
 vc
 v
-210641	adv
+210651	adv
 v
 s
-210648	s
+210658	s
 o
 v
-v
-adv
-210654	v
-o
-adv
-210659	v
 v
 adv
 210664	v
+o
+adv
+210669	v
+v
+adv
+210674	v
 io
-210667	adv
+210677	adv
 v
 o
-210671	s
-210673	v
+210681	s
+210683	v
 adv
 v
-210677	s
-210679	apposition
-210681	v
-aux
-v
-v
-o
-s
-v
-adv
+210687	s
+210689	apposition
 210691	v
+aux
+v
+v
+o
+s
+v
+adv
+210701	v
 o
 v
-210695	v
+210705	v
 o
-210698	v
+210708	v
 adv
-210703	v
+210712	v
 s
 adv
-210707	v
+210716	v
 s
 adv
 v
 o
 adv
 v
-210715	v
+210724	v
 io
 s
 o
-210720	s
+210729	s
 o
 v
-210724	s
-210727	o
+210733	s
+210736	o
 s
-210732	adv
+210741	adv
 v
 adv
 o
 v
 v
-210739	adv
+210748	adv
 v
 o
 s
-210744	v
+210753	v
 v
 io
 adv
 v
 v
 o
-210752	v
-210754	io
+210761	v
+210763	io
 o
 v
 s
 v
 o
-210761	s
-210763	v
-v
-o
-210768	v
 210770	s
-o
+210772	v
 v
 o
-aux
-adv
 210777	v
+210779	s
+o
+v
+o
+aux
+adv
+210786	v
 io
 v
 o
-210784	v
-210786	adv
+210793	v
+210795	adv
 s
 s
 adv
 v
 o
 adv
-210794	v
+210803	v
 adv
-210797	p
+210806	p
 vc
 adv
-210802	adv
-210804	v
+210811	adv
+210813	v
 s
 o
-210808	v
+210817	v
 o
 adv
 adv
-210813	adv
-210818	adv
+210822	adv
+210826	adv
 v
 s
 v
 v
-210824	adv
+210832	adv
 o
 s
-210828	p
+210836	p
 s
-210831	p
+210839	p
 v
-210834	o
-210838	o
+210842	o
+210846	o
 v
 adv
-210843	v
+210851	v
 aux
 v
 o
-210848	o
+210856	o
 adv
-210852	adv
+210859	adv
 v
 o
 adv
 o
 adv
 o
-210860	o
+210867	o
 adv
-210863	v
-210865	adv
-210868	v
+210870	v
+adv
+210874	v
 adv
 v
 s
 io
-210876	p
+210882	p
 vc
 s
 v
 adv
 s
-210885	adv
+210891	adv
 adv
 v
-210889	adv
-210893	v
-v
-210896	o
-210898	p
-210900	s
 adv
-210903	adv
+210898	v
+v
+210901	o
+210903	p
+210905	s
+adv
+210908	adv
 v
 adv
-210910	adv
-210912	v
-210914	v
+210914	adv
+210916	v
+210918	v
 o
 v
 v
 io
-210920	v
+210924	v
 o
-210925	v
+210929	v
 io
 v
 adv
 s
-210933	adv
-210936	v
-210938	adv
+210936	adv
+210939	v
+210941	adv
 v
 o
 v
 adv
-210945	v
+210948	v
 o
 o
-210950	v
+210953	v
 io
 adv
-210955	adv
-210957	v
+210958	adv
+210960	v
 io
-210960	o
+210963	o
 v
 v
 s
-210966	v
+210969	v
 io
-210969	adv
+210972	adv
 adv
-210973	p
+210976	p
 vc
-210976	adv
-210978	s
+210979	adv
+210981	s
 io
 aux
 s
 io
 aux
-210986	adv
-210989	v
-s
+210989	adv
 210992	v
+s
+210995	v
 adv
 adv
 adv
-210998	v
+211001	v
 v
-211002	adv
-211004	p
+211005	adv
+211007	p
 vc
 adv
-211009	adv
-211011	s
+211012	adv
+211014	s
 aux
 adv
 v
 adv
-211017	v
+211020	v
 v
 o
 o
 v
-211023	v
+211026	v
 o
 o
 v
-211028	o
+211031	o
 v
 v
 v
 o
 v
-211035	s
+211038	s
 adv
 v
 aux
 s
-211041	v
+211044	v
 io
 adv
-211046	v
-211048	io
+211049	v
+211051	io
 v
 s
-211052	s
+211055	s
 adv
-211055	v
+211058	v
 aux
 v
 io
 o
 v
 adv
-211072	s
+211075	s
 o
 adv
 v
-211079	adv
+211081	adv
 adv
 v
 s
 adv
 v
-211086	v
-211089	s
-211091	v
+v
+211090	s
+211092	v
 adv
-211094	adv
-211097	v
+211095	adv
+211098	v
 adv
-211102	v
-o
-211106	v
+211103	v
+v
 o
 aux
 apposition
-211116	v
+211114	v
 o
 adv
-211122	v
+211120	v
 o
 io
-o
 aux
 aux
-211129	adv
+211126	adv
 s
 v
 adv
@@ -75489,49 +75490,48 @@ s
 io
 v
 adv
-211140	s
-v
-o
-211144	p
-vc
-s
-211148	adv
-s
-211152	p
-vc
-s
-211156	adv
-s
-211160	io
-v
-s
-v
-211165	v
-adv
-211168	adv
+211137	s
 v
 o
 p
+vc
 s
-211174	v
+211144	adv
+s
+211147	p
+vc
+s
+211151	adv
+s
+211155	io
+v
+s
+v
+211160	v
+adv
+211163	adv
+v
+p
+s
+211168	v
 o
 v
 v
-211179	io
-211182	s
-211185	v
+211173	io
+211176	s
+211179	v
 v
 o
 s
 v
-211191	adv
+211185	adv
 v
-211195	v
+211189	v
 o
 v
-211199	adv
+211193	adv
 v
-211202	aux
+211196	aux
 s
 v
 v
@@ -75543,38 +75543,38 @@ v
 o
 v
 s
-211215	v
+211209	v
 adv
 adv
-211219	s
+211213	s
 v
 adv
 v
 s
-211225	v
+211219	v
 v
 o
 v
 o
 apposition
-211232	adv
-211253	o
-211256	o
+211226	adv
+211247	o
+211250	o
 v
-211259	io
+211253	io
 adv
 v
 o
 o
 v
-211266	v
+211260	v
 s
-211269	v
+211263	v
 v
 o
 v
 adv
-211276	s
+211270	s
 vc
 p
 v
@@ -75584,62 +75584,61 @@ o
 s
 v
 adv
-211289	adv
+211283	adv
 v
 s
 adv
 adv
 v
 o
-211297	o
+211291	o
 v
 v
 v
 o
 adv
-211304	s
+211298	s
 v
 adv
-211310	v
+211304	v
 o
 v
 adv
-211315	s
+211309	s
 adv
 adv
+211313	v
+211315	v
+v
+s
 211319	v
-211321	v
-v
-s
-211325	v
 v
 adv
-211329	v
+211323	v
 v
-211333	v
+211327	v
 v
 o
-211337	v
+211331	v
 o
+211335	v
+211337	o
+adv
 211341	v
-211343	o
-adv
-211347	v
 o
 adv
-211351	v
+211345	v
 o
-211354	adv
-211356	v
+211348	adv
+211350	v
 o
 v
 io
-211361	v
+211355	v
 o
 v
 o
-211366	o
-o
+211360	o
 v
 s
 adv
@@ -75648,148 +75647,143 @@ s
 v
 io
 s
-211378	p
+211371	p
 v
 adv
 vc
 v
 adv
-211385	s
-211387	v
+211378	s
+211380	v
 v
 o
 adv
 v
-211393	io
+211386	io
 s
 o
 v
-211398	s
+211391	s
 v
 adv
 adv
-211403	v
+211396	v
 s
 s
 v
 adv
-211409	s
-211412	adv
+211402	s
+211405	adv
 p
 v
 o
 adv
-211419	p
+211412	p
 vc
-s
-211423	vc
+211415	vc
 p
 s
 adv
 v
+adv
+211424	v
+o
+211427	s
+211429	v
 adv
 211432	v
-o
-211435	s
-211437	v
-adv
-211440	v
-211442	v
-o
+211434	v
 aux
 adv
 v
 adv
-211449	s
-211451	s
+211440	s
+211442	s
 v
 v
 v
-211456	io
-211458	o
+211447	io
+211449	o
 v
 v
-211462	v
+211453	v
 io
 s
-o2
-211468	aux
+aux
 aux
 v
-211472	adv
-211474	s
+211460	adv
+211462	s
+211464	v
+s
+s
+211468	o
+211470	v
+s
+adv
+v
+adv
 211476	v
-s
-s
-211480	o
-211482	v
-s
-adv
-v
-adv
-211488	v
 adv
 v
 s
 adv
-211495	v
+211483	v
 v
 s
-211500	adv
+211488	adv
 aux
 v
 s
 v
-211506	s
+211494	s
 v
 o
-211510	v
-211512	io
-o
+211498	v
+211500	io
+211502	v
+v
+aux
+v
+s
+211508	v
+s
+211511	o
 211515	v
-v
-o
-aux
-v
-s
-211522	v
-s
-211525	o
-211529	v
 io
 adv
-211535	v
+211520	v
 io
 o
-211539	s
+211524	s
+211526	v
+io
+v
+io
+211531	adv
+v
+o
+adv
+211536	v
+adv
+o
+s
 211541	v
-io
-v
-io
-211546	adv
-v
 o
-adv
-211551	v
-adv
-o
-s
-211556	v
-o
-211559	v
+211544	v
 adv
 adv
-211563	v
+211548	v
 io
 aux
 v
 io
 o
-211571	s
+211556	s
 v
 adv
 adv
-211576	adv
+211561	adv
 v
 o
 v
@@ -75798,18 +75792,17 @@ s
 adv
 v
 v
-o
 adv
 io
 o
 v
-211591	adv
+211575	adv
 s
 v
-211595	s
-211597	adv
+211579	s
+211581	adv
 p
-211600	vc
+211584	vc
 adv
 v
 v
@@ -75817,8 +75810,7 @@ v
 io
 v
 io
-o
-211610	adv
+211593	adv
 adv
 v
 io
@@ -75827,7 +75819,7 @@ adv
 vc
 p
 adv
-211621	v
+211604	v
 v
 io
 o
@@ -75835,24 +75827,23 @@ v
 s
 io
 v
-o2
+211613	v
+211615	v
+io
+211618	v
+211620	v
+211622	v
+211624	v
+io
+211627	s
+211629	v
+v
 211632	v
-211634	v
-io
-211637	v
-211639	v
-211641	v
-211643	v
-io
-211646	s
-211648	v
 v
-211651	v
-v
-211654	v
+211635	v
 v
 o
-211660	apposition
+211641	apposition
 v
 s
 o2
@@ -75860,330 +75851,328 @@ adv
 o
 io
 v
-211669	adv
+211650	adv
 v
 o
 v
 io
 o
-211678	s
+211658	s
 p
 vc
 v
 o
 v
 io
-211686	adv
+211666	adv
 s
-211689	apposition
-211691	v
+211669	apposition
+211671	v
 o
 v
 o
-211696	v
+211676	v
 o
-211699	s
+211679	s
 vc
 p
 v
-211705	s
+211684	s
 v
 v
 s
-211710	v
+211689	v
 s
 s
-211715	v
+211694	v
 adv
-211718	apposition
-211721	v
+211697	apposition
+211700	v
 o
 s
-211725	v
+211704	v
 o
-211728	v
+211707	v
 adv
 s
-211732	v
+211711	v
 o
-211735	v
+211714	v
 io
 o
 s
-211740	adv
+211719	adv
 v
 v
+211723	s
+adv
+v
+211728	s
+211730	adv
+v
+adv
+v
+s
+211737	v
+adv
+v
+s
+o
 211744	s
 adv
 v
-211751	s
-211753	adv
-v
-adv
-v
-s
-211760	v
-adv
-v
-s
-o
-211767	s
-adv
-v
 o
 s
-211773	adv
+211750	adv
 v
 adv
 s
 p
 vc
-211781	adv
-211783	s
+211758	adv
+211760	s
 v
+o
+211764	v
+adv
+s
+211770	s
+v
+v
+o
+211775	p
+vc
+s
+v
+211781	s
+v
+v
+o
 o
 211787	v
 adv
-s
-211793	s
 v
-v
-o
-211798	p
+211791	o
+211793	v
+adv
 vc
-s
+p
+p
+vc
+211800	adv
+v
+adv
 v
 211805	s
-v
-v
+211807	v
+adv
+211810	v
+adv
+211813	v
 o
-o
-211811	v
-adv
-v
-211815	o
-211817	v
-adv
-vc
-p
-p
-vc
-211824	adv
-v
-adv
-v
-211830	s
-211832	v
-adv
-211835	v
-adv
-211838	v
-o
-211841	adv
+211816	adv
 v
 v
 v
 adv
-211849	adv
+211823	adv
 v
-211852	v
+211826	v
 v
 o
 v
-211857	v
-211859	adv
+211831	v
+211833	adv
 v
-211862	v
+211836	v
 o
-211868	v
+211842	v
 v
 adv
-211872	vc
+211846	vc
 s
-211877	p
+211851	p
 adv
 v
-211881	adv
+211855	adv
 v
 s
 o
 v
 s
 o
-211891	v
+211865	v
 io
 p
 s
-211897	v
+211871	v
 o
-211901	o
+211874	o
 v
 s
-211905	v
+211878	v
 p
 s
 v
 o
-211913	v
-211915	s
-211917	v
+211886	v
+s
+211889	v
 v
 v
-o
-211922	s
-211924	p
+s
+211894	p
 vc
 o
 v
-211929	s
+211899	s
 adv
 v
 io
-211934	adv
+211904	adv
 s
-211940	vc
+211909	vc
 s
 adv
 p
 p
 vc
 s
+211919	adv
+211921	s
+v
+adv
+211925	adv
+211931	v
+o
+211934	v
+adv
+211939	v
+o
+211943	aux
+s
+p
+s
+v
+adv
 211950	adv
-211953	s
-v
-adv
-211957	adv
-211963	v
+211954	v
 o
-211966	v
+211957	v
 adv
-211971	v
-o
-211975	aux
+211962	aux
 s
 p
-211979	s
+211966	s
+o
 v
 adv
-211983	adv
-211987	v
+v
+211972	adv
+211975	adv
+211978	v
 o
-211990	v
-adv
-211995	aux
+v
 s
+211984	vc
 p
-211999	s
-o
-v
-adv
-v
-212005	adv
-212008	o
-adv
-212012	v
-o
-v
+211988	s
+211990	p
+vc
 s
-212018	vc
+211996	p
+vc
+212000	p
+vc
+s
+212005	p
+v
+212009	s
+212011	apposition
+212013	p
+vc
+212017	s
+212020	p
+adv
+v
+o
+212025	vc
 p
-212022	s
-212024	p
-vc
-s
-212030	p
-vc
-212034	p
-vc
-s
-212039	p
-212041	v
-212044	s
-212046	apposition
-212048	p
-vc
-212052	s
-212055	p
-adv
-v
-o
-212060	vc
-p
-212064	s
+212029	s
 adv
 v
 o
 adv
-212070	v
+212035	v
 v
 o
 s
-212075	v
+212040	v
 adv
 v
-212079	v
+212044	v
 s
-212082	v
+212047	v
 v
-212085	adv
+212050	adv
 adv
 v
 adv
-212090	v
-212092	s
+212055	v
+212057	s
 adv
 o
 adv
 s
 apposition
 o
-212104	v
+212069	v
 s
-212108	v
+212073	v
 o
-212111	aux
+212076	aux
 v
 o
 o
-212116	v
-212119	v
+212081	v
+212084	v
 v
 o2
-212123	aux
+212088	aux
 s
 p
 adv
 vc
-212129	s
+212094	s
 io
 apposition
-212134	v
+212099	v
 o
-212142	v
+212107	v
 adv
-212149	o
-212151	v
+212114	o
+212116	v
 v
 o
 adv
 v
-212157	s
+s
 io
 apposition
-212161	v
+212125	v
 o
-212173	s
+212136	s
 io
-212177	vc
+212140	vc
 p
-212184	s
-212186	v
+212147	s
+212149	v
 adv
 adv
 v
 v
-212192	s
-212194	v
+212155	s
+212157	v
 io
 aux
 o
@@ -76191,137 +76180,136 @@ v
 o
 v
 s
-212203	v
+212166	v
 io
-212206	apposition
+212169	apposition
 s
+212173	v
+o
+o2
+212177	s
+adv
+212181	adv
+v
+o
+s
+io
+212188	v
+o
+212192	s
+212195	v
+o
+212198	p
+vc
+212201	v
+adv
+212208	s
 212210	v
 o
-o2
-212214	s
-adv
-212218	adv
-v
-o
 s
-io
-212225	v
-o
-212229	s
-212232	v
-o
-212236	p
-vc
-212239	v
-adv
-212246	s
-212248	v
-o
-s
-212252	v
+212214	v
 adv
 s
-212258	v
+212220	v
 o
 v
 adv
 o
-212265	o2
-adv
+212227	adv
 v
-212270	v
+212231	v
 s
-212276	v
+212237	v
 adv
-212279	adv
-212282	adv
-212288	v
+212240	adv
+212243	adv
+212249	v
 adv
-212294	aux
+212255	aux
 v
 io
 v
 adv
-212301	s
+212262	s
 io
 apposition
+212266	v
+o
+212270	o
+s
+adv
+v
+212275	v
+v
+adv
+v
+s
+v
+s
+212285	o
+adv
+v
+212289	v
+o
+adv
+v
+o
+v
+o
+adv
+212299	adv
+v
+s
 212305	v
 o
-212309	o
-s
+v
+v
 adv
-v
-212314	v
-v
-212317	adv
-v
-s
-v
-s
-212325	o
-adv
-v
-212329	v
-o
-adv
-v
-o
+212312	adv
 v
 o
 adv
-212339	adv
-v
-s
-212345	v
-o
-v
-v
-adv
-212352	adv
-v
-o
-adv
-212359	s
+212318	s
 vc
 p
-212363	p
-212365	s
-212367	v
+212322	p
+212324	s
+v
 vc
 s
 adv
 v
-212374	s
+212331	s
 adv
 v
 adv
 adv
 o
 adv
-212382	v
+212339	v
 adv
-212385	v
-212387	o
+212342	v
+212344	o
 adv
-212390	v
+212347	v
 adv
-212393	v
+212350	v
 adv
-212396	v
-212398	io
+212353	v
+212355	io
 apposition
-212401	adv
+212358	adv
 v
 adv
 v
 o
-212407	adv
+212364	adv
 adv
 v
 o
 v
 v
-212414	io
+212371	io
 o
 v
 v
@@ -76331,7 +76319,7 @@ v
 o
 v
 adv
-212425	aux
+212382	aux
 v
 io
 o
@@ -76339,154 +76327,150 @@ v
 s
 v
 adv
-212434	s
-212436	adv
+212391	s
+212393	adv
 v
 adv
-212441	s
+212398	s
+212404	v
+adv
+v
+adv
+v
+v
+212411	io
+aux
+s
+v
+adv
+adv
+212418	s
+212422	v
+adv
+adv
+212429	v
+o
+adv
+212433	v
+adv
+212439	aux
+s
+v
+o
+adv
 212447	v
-adv
-v
-adv
-v
-v
-212454	io
-aux
-s
-v
-adv
-adv
-212461	s
-212465	v
-adv
-adv
-212472	v
-o
-adv
-212476	v
-adv
-212482	aux
-s
-v
-o
-adv
-212490	v
 io
-212493	adv
-212496	v
+212450	adv
+212453	v
 adv
 v
-212502	v
+212458	v
 o
 adv
-212511	adv
+212467	adv
 v
 o
 adv
-212516	o
+212472	o
 v
-212519	o
+212475	o
 v
 s
-212524	v
+212480	v
 o
 adv
-212529	o
+212485	o
 v
 v
 v
-212534	s
-212537	io
+212490	s
+212493	io
 aux
 v
 io
-212542	v
+212498	v
 adv
 o
 s
-212547	v
+212503	v
 io
 aux
 s
 o
 v
 o2
-212557	v
-212559	adv
-o
+212513	v
+212515	adv
 v
-212563	v
+212518	v
 adv
-212567	adv
+212522	adv
 adv
 v
 adv
 s
-212573	vc
+212528	vc
 p
 v
 adv
 v
-212579	o
+212534	o
 adv
 v
 s
-212585	v
-212588	v
+212540	v
+212543	v
 adv
 v
 o
-o
 v
-212595	adv
+212549	adv
 v
 adv
 v
 o
-212602	v
-o
+212556	v
 o
 v
-212608	v
+212561	v
 o
-212612	o
+212565	o
 v
-212615	v
+212568	v
 adv
 o
-212624	v
+212577	v
 io
-212627	aux
+212580	aux
 v
 o
-212631	v
+212584	v
 adv
-212634	apposition
+212587	v
 v
 v
 v
 v
-v
-212641	io
+212593	io
 s
 aux
 adv
-212646	o
-212648	v
+212598	o
+212600	v
 adv
 o
-212652	v
+212604	v
 p
 vc
 p
 v
 io
-212659	adv
+212611	adv
 adv
 v
 v
-212664	adv
-212667	adv
+212616	adv
+212619	adv
 v
 io
 o
@@ -76495,163 +76479,161 @@ v
 adv
 o
 v
-212677	adv
+212629	adv
 o
 v
 s
-212682	p
+212634	p
 vc
 adv
-212686	s
+212638	s
 adv
 v
 o
-212692	v
+212644	v
+212646	v
+p
+adv
+vc
+s
+212653	s
+v
+o
+adv
+s
+v
+adv
+s
+212663	v
+v
+adv
+212668	v
+o
+212672	adv
+o
+v
+adv
+adv
+212678	v
+v
+o
+adv
+v
+212685	v
+212687	io
+adv
+s
+adv
 212694	v
-p
-adv
-vc
-s
-212701	s
-v
-o
-adv
-s
+212696	s
+212699	o
+212702	adv
 v
 adv
-s
-212711	v
-v
-adv
-212716	v
-o
-212720	adv
-o
-v
-adv
-adv
-212726	v
-v
-o
+212706	adv
 adv
 v
-212733	v
-212735	io
-o
-adv
 s
 adv
-212743	v
+v
+adv
+o
+aux
+s
+adv
+v
+o
+o
+v
+212722	o
+v
+212725	adv
+v
+o
+212729	s
+212732	v
+s
+212736	v
+212738	v
+o
+212741	v
+o
 212745	s
-212748	o
-212751	adv
-v
-adv
-212755	adv
-adv
-v
-s
-adv
-v
-adv
-o
-aux
-s
-adv
-v
-o
-o
-v
-212771	o
-v
-212774	adv
-v
-o
-212778	s
-212781	v
-s
-212785	v
-212787	v
-o
-212790	v
-o
-212794	s
 v
 io
 adv
 v
 aux
-212802	v
+212753	v
 s
-212805	v
+212756	v
 io
 o
 v
 o
 v
-212812	v
+212763	v
 o
 v
 io
 o
-212818	adv
+212769	adv
 v
-212825	adv
+212775	adv
 s
 adv
 v
-212830	s
+212780	s
 v
-212833	p
-212835	vc
+p
+212784	vc
 s
-212838	p
+212787	p
 s
-212842	vc
-212845	vc
+212791	vc
+212793	vc
 s
-212848	v
-212850	s
+212796	v
+212798	s
 v
-212853	s
+212801	s
 p
 adv
 v
 o
-212859	adv
+212807	adv
 v
 adv
-212864	apposition
+212812	apposition
 v
-212867	v
+212815	v
 adv
 v
 io
 p
-s
-212875	s
+212822	s
 v
 s
 v
 v
 v
 io
-212883	v
-212885	v
+212830	v
+212832	v
 o
-212888	v
+212835	v
 v
 o
-212894	adv
-212901	v
-212903	v
+212840	adv
+212847	v
+212849	v
 adv
 p
 vc
 s
 o
-212910	v
-212913	v
+212856	v
+212858	v
 s
 adv
 s
@@ -76660,96 +76642,94 @@ adv
 v
 v
 s
-212924	s
+212868	s
 vc
 p
-212928	adv
+212872	adv
 adv
 v
 s
-212934	v
+212878	v
 v
-212937	s
+212881	s
 aux
 adv
 o
-212942	v
-212944	adv
+212886	v
+212888	adv
 adv
-212947	v
+212891	v
 s
 p
-212951	vc
+212895	vc
 s
-212957	o
+212900	o
 v
 s
 adv
-212963	v
+212906	v
 adv
 o
 p
-s
-212970	s
+212912	s
 v
 s
-212974	v
+212916	v
 v
 adv
 adv
 v
 io
-212981	adv
-212984	v
+212923	adv
+212926	v
 v
 o
-212991	v
+212932	v
 s
-212994	adv
-212997	v
+212935	adv
+212938	v
 s
-213000	v
-213002	v
-o
+212941	v
+212943	v
 v
 o
-213009	v
-213013	v
+212949	v
+212953	v
 s
-213018	adv
-213021	adv
+212958	adv
+212960	adv
 adv
 v
-213027	adv
+212965	adv
 adv
 v
-213032	v
+212970	v
 o
-213035	o
-213037	adv
-213039	v
+212973	o
+212975	adv
+212977	v
 s
-213044	v
+212982	v
 o
-213050	adv
+212988	adv
 v
-213053	adv
-213056	v
+212991	adv
+212994	v
 adv
-213059	adv
+212997	adv
 v
 v
-213063	o
+213001	o
 v
 adv
 aux
-213068	io
+213006	io
 v
 s
 s
 v
 adv
-213075	io
+213013	io
 v
 o
 o2
@@ -76759,2662 +76739,2602 @@ o
 v
 v
 adv
-213087	o
+213025	o
 v
-213090	adv
+213028	adv
 v
 o
-213094	v
+213032	v
 v
-213097	adv
-v
-adv
-adv
-v
-v
-213104	o
-v
+213035	adv
 v
 adv
-213109	o
+adv
+v
+v
+213042	o
+v
+v
+adv
+213047	o
 adv
 v
 io
-213116	o
+213054	o
+v
+213057	adv
+213059	s
+213062	apposition
+s
+adv
+213066	s
+adv
+213069	v
+s
+adv
+213073	s
+adv
+213076	s
+adv
+213079	s
+adv
+213083	s
+adv
+213088	s
+adv
+213091	v
+213093	io
+213095	o
+213097	v
+s
+v
+adv
+adv
+v
+213104	s
+v
+213107	v
+adv
+213111	s
+v
+v
+213115	p
+vc
 213118	v
-213120	adv
-213122	s
-213125	apposition
-s
-adv
-213129	s
-adv
-213133	v
-s
-adv
-213137	s
-adv
-213140	s
-adv
-213143	s
-adv
-213147	s
-adv
-213152	s
-adv
-213155	v
-213157	io
-213159	o
-213162	v
-s
-v
-adv
-adv
-v
-213169	s
-v
-213172	v
-adv
-213177	s
-v
-v
-213181	p
-vc
-213184	v
 aux
 o
-213192	v
+213126	v
 v
 o
-213197	adv
+213131	adv
 adv
 v
 adv
-213202	adv
-213204	adv
-v
-o
-213210	v
-adv
-213214	adv
-adv
-213217	v
-o
-v
-adv
-adv
-adv
+213136	adv
+213138	adv
 v
 o
+213143	v
 adv
-213228	s
+213147	adv
+adv
+213150	v
+o
+v
+adv
+adv
+adv
+v
+o
+adv
+213161	s
 o
 v
 io
-213233	s
+213166	s
 o
 v
 adv
 v
 io
-o
 adv
 v
 adv
-213244	o
-213247	v
+213176	o
+213179	v
 v
-213250	s
+213182	s
 adv
-213254	v
+213186	v
 io
 adv
+213190	o
+213192	s
+v
+adv
+213198	v
+v
+io
+v
+213203	s
+213205	p
+adv
+213209	vc
+213211	o
+v
+adv
+v
+io
+213218	adv
+v
+s
+adv
+v
+213227	adv
+v
+s
+213234	v
+o
+v
+213238	s
+p
+vc
+adv
+213245	v
+adv
+aux
+v
+io
+213252	adv
+v
+s
+adv
+v
+v
 213259	o
-213261	s
-v
-adv
-213267	v
-v
-io
-v
-213272	s
-213274	p
-adv
-213278	vc
-213280	o
-v
-213283	adv
-v
-io
-213288	adv
+213261	o
 v
 s
+v
 adv
+213270	v
 v
-213294	aux
-213298	adv
-v
-s
-213305	v
 o
+adv
+213275	adv
 v
-213309	s
-p
-vc
+v
+213279	adv
+213281	v
 adv
-213316	v
 adv
+adv
+v
+v
+o
+adv
+213292	adv
+v
+v
+o
+adv
+213298	o
+213300	v
+s
+213303	v
+v
+io
 aux
 v
+o
+adv
+213312	adv
+adv
+v
+adv
+213317	v
+o
+213321	v
+o
+adv
+v
+213327	adv
+v
+o
+v
+213332	adv
+213335	adv
+213338	aux
+aux
+o
+v
+adv
+213346	vc
+v
+213349	adv
+v
+v
+adv
+213354	v
+213356	o
+s
+v
+213360	v
 io
-213323	adv
-v
-s
-adv
-v
-v
-213330	o
-213332	o
-v
-s
+aux
 v
 adv
-213341	v
-v
+213367	v
+io
 o
-adv
-213346	adv
+213372	adv
 v
-v
-213350	adv
-213352	o
-v
-adv
-adv
-adv
-v
-v
-o
-adv
-213364	adv
-v
-v
-o
-adv
-213370	o
-213372	v
-s
 213375	v
-v
-io
-aux
-v
-o
-adv
-213384	adv
-adv
-v
-adv
-213389	v
-o
-213393	v
-o
-adv
-v
-213399	adv
-v
 o
 v
-213404	adv
-213407	adv
-213410	aux
-aux
-o
+213379	s
 v
-adv
-213418	vc
-v
-213421	adv
-v
-v
-adv
-213426	v
-213428	o
-s
-v
-213432	v
-io
-aux
-v
-adv
-213439	v
-io
-o
-213444	adv
-v
-213447	v
-o
-v
-213451	s
-v
-213454	adv
+213382	adv
 v
 s
 v
 io
-213461	s
+213388	s
 v
 adv
 v
 v
 adv
-213468	v
+213395	v
 v
-213471	adv
+213398	adv
 adv
-213475	v
-213477	io
+213402	v
+213404	io
 s
-213480	v
+213407	v
 aux
 s
 adv
 v
 o
-213490	adv
-213493	v
+213417	adv
+213420	v
 v
-s
-213498	p
+213424	p
 vc
 o
 v
 s
 v
 adv
-213506	adv
+213432	adv
 v
 v
 adv
-213512	adv
-213516	o
+213438	adv
+213442	o
 v
 s
 v
 s
 v
 o
-213524	s
-213526	v
+213450	s
+213452	v
 adv
-213531	v
+213457	v
 adv
 v
-213535	o
+213461	o
 adv
 p
 vc
 s
-213543	adv
+213469	adv
 v
 o
 p
 vc
-adv
-213550	o
+213475	o
 v
 s
 v
 adv
+213482	v
+213484	v
+adv
+213487	s
+213490	v
+adv
+213495	adv
+v
+adv
+v
+o
+213502	p
+vc
+o
+v
+s
+v
+adv
+213511	adv
+adv
+v
+s
+213516	v
+adv
+213520	adv
+v
+213523	o
+v
+adv
+v
+213528	s
+io
+aux
+p
+v
+s
+213535	v
+adv
+v
+v
+adv
+213543	o
+s
+v
+io
+v
+v
+213550	adv
+v
+adv
+adv
+v
+s
 213557	v
-213559	v
+o
+213560	v
+o
 adv
-213562	s
+v
 213565	v
-adv
-213570	adv
+o
 v
+aux
+v
+io
+213572	v
+v
+io
 adv
 v
 o
-213577	p
+p
 vc
 adv
+v
+v
 o
-v
-s
-v
+213585	v
 adv
-213587	adv
-adv
+213588	v
+213590	adv
+213593	v
+213595	v
 v
-s
-213592	v
-adv
-213596	adv
-v
-213599	o
-v
-adv
-v
-213604	s
 io
-aux
+adv
+v
 p
+vc
 v
+adv
+aux
+213606	p
+vc
 s
-213611	v
-adv
+213615	v
 o
-v
-v
-adv
-213620	o
 s
-v
-io
-v
-v
-213627	adv
-v
+213623	adv
+213627	s
+213629	v
 adv
+213632	v
 adv
-v
-s
-213634	v
-o
-213637	v
-o
-adv
-v
 213642	v
-o
-v
-aux
-v
-io
-213649	v
-v
-io
 adv
+213648	aux
 v
-o
-p
+s
 vc
+p
+213654	v
+s
+vc
+p
 adv
+213661	v
+s
 v
+io
 v
-o
-213662	v
-adv
-213665	v
 213667	adv
-213670	v
-213672	v
+213669	s
+v
+o
+v
+213674	v
+io
+v
 v
 io
-o
-adv
+213680	aux
 v
-p
-vc
+v
+o
+213685	o
+v
+adv
+213690	adv
+v
+213693	v
+s
+adv
+213698	v
+v
+213701	adv
+v
+s
 v
 adv
 aux
-213684	p
-vc
-s
-213693	v
-o
-s
-213701	adv
-213705	s
-213707	v
-adv
-213710	v
-adv
-213720	v
-adv
-213726	aux
+aux
 v
+o
+213711	v
+v
+adv
+adv
+v
+v
+o
+213719	adv
 s
+o
+213723	adv
+213726	adv
+v
+aux
+v
+io
 s
-vc
-p
 213733	v
+213735	io
+adv
+v
+o
+213740	v
+213742	v
+v
+v
+adv
+213748	v
+adv
+v
 s
+adv
+213758	adv
+v
+o
+213762	s
+v
+o
+213766	aux
 s
-vc
+213769	vc
 p
-adv
-213741	v
+213772	v
 s
 v
-io
-o
-v
-213748	adv
-213750	s
-v
-o
-v
-213755	v
-io
-v
-v
-io
-213761	aux
-v
-v
-o
-213766	o
-v
-adv
-213771	adv
-v
-213774	v
-s
 adv
 213779	v
 v
-213782	adv
-v
-s
-v
 adv
-213788	aux
-aux
+v
+213784	adv
+s
+213787	v
+213789	v
 v
 o
 213793	v
-v
-adv
-adv
-v
+213795	adv
 v
 o
-213801	adv
 s
-o
-213805	adv
-213808	adv
+213802	adv
 v
-aux
+213805	adv
+v
+o
+adv
+213812	adv
+v
+v
+adv
+v
+213818	adv
+v
+o
+v
+adv
+o
+v
+v
+adv
+213828	v
+adv
+adv
+adv
+v
+adv
+213836	adv
+adv
+s
+v
+adv
+213842	v
+o
+213845	v
 v
 io
-s
-213815	v
-213817	io
-o
-adv
 v
+io
 o
-213824	v
-213826	v
-v
+213852	adv
 v
 adv
-213832	v
-adv
+o
+213857	v
+213860	v
 v
-s
+v
 adv
-213842	adv
+213868	v
 v
 o
-213846	s
 v
-o
-213850	aux
-s
-213853	vc
+io
+aux
+v
+adv
+adv
+vc
 p
-213856	v
 s
-v
 adv
-213863	v
+213882	v
+adv
+213886	s
+v
 o
 v
-adv
+213891	v
+o
 v
-213869	adv
-s
-213872	v
-213874	v
+v
+213896	io
 v
 o
-213878	v
-213880	adv
-v
+213900	v
 o
-s
-213887	adv
-v
-213890	adv
-v
-o
-adv
-213897	adv
-v
-v
-adv
-v
 213903	adv
 v
 o
-v
-adv
-o
-v
-v
-adv
-o
-213915	v
-adv
-adv
-adv
-v
-adv
-213923	adv
-adv
-s
-v
-adv
-213929	v
-o
-213932	v
-v
-io
-v
-io
-o
-213939	adv
-v
-adv
-o
-213944	v
-213949	v
-v
-v
-adv
-213959	v
-v
-o
-v
-io
-aux
-v
-adv
-adv
-vc
-p
-s
-adv
-213973	v
-adv
-213977	s
-v
-o
-v
-213982	v
-o
-v
-v
-213987	io
-v
-o
-o
-213993	v
-o
-213996	adv
-v
-o
-214009	adv
+213916	adv
 adv
 s
 v
 o
-214015	vc
+213922	vc
 s
 p
-214021	o
+213927	o
 v
 v
 o
-214027	p
+213932	p
 vc
+213935	adv
+v
+v
+io
+v
+213941	io
+adv
+213946	v
+213948	s
+v
+o
+v
+io
+p
+s
+v
+o
+adv
+213961	s
+213963	v
+io
+o
+213967	s
+v
+o
+213971	v
+o
+213974	v
+o
+213977	adv
+213980	v
+v
+v
+213984	adv
+p
+vc
+213988	v
+adv
+s
+v
+s
+v
+io
+o
+v
+213998	v
+o
+v
+v
+o
+v
+o
+v
+s
+v
+214009	s
+v
+o
+214013	v
+214015	v
+v
+o
+v
+o
+v
+s
+v
+214024	s
+v
+o
+o
+v
 214030	adv
-v
-v
-io
-v
-214036	io
 adv
-214041	v
-214043	s
 v
-o
 v
-io
-p
+214035	v
 s
 v
-o
-adv
-214056	s
-214058	v
 io
-o
-214062	s
+214040	o
+adv
+v
+s
+v
+io
+214047	o
+v
+adv
+adv
+214057	o
+214061	v
+adv
+214064	v
+s
+aux
 v
 o
-214066	v
-o
-214069	v
-o
-214072	adv
+v
+214071	p
+s
+vc
 214075	v
+s
+adv
+214079	o
+v
+adv
+214086	v
+v
+214089	v
+s
+214092	v
+214094	io
+214096	s
+214100	v
+v
+o
+214104	v
+214106	adv
+s
+214109	v
+v
+adv
+214114	s
+v
+adv
+214118	adv
+v
+o
+214139	adv
+v
+vc
+p
+s
+adv
+v
+o
+214149	v
+adv
+adv
+v
+vc
+p
+s
+214158	v
+o
+v
+adv
+v
 v
 o
 v
-214080	adv
+adv
+214168	adv
+adv
+v
+s
+o
+214174	adv
+v
+v
+s
+v
+v
+o
+v
+v
+214184	s
+214186	v
+v
+214189	adv
+v
+v
+214193	s
+v
+adv
+v
+adv
+v
+adv
+v
 p
 vc
-214084	v
+adv
+214205	v
+adv
+214208	v
+adv
+214212	adv
 adv
 s
-v
-s
-v
-io
-o
-o
-v
-214095	v
+p
+vc
 o
 v
 v
 o
-v
-o
-v
-s
-v
-214106	s
-v
-o
-o
-214111	v
-214113	v
-v
-o
-v
-o
-v
-s
-v
-214122	s
-v
-o
-o
-v
-214128	adv
+214222	adv
+214226	s
 adv
 v
+o
+214232	adv
 v
-214133	v
+vc
+p
+p
+214238	s
+214241	s
+214243	v
+adv
+v
+adv
+214251	p
+vc
+adv
+v
+o
+v
+o
+v
+v
+v
+214262	adv
 s
-v
-io
-214138	o
-adv
-v
+214268	v
+o
+214271	v
 s
+214277	v
+214279	s
+o
 v
-io
-214145	o
+214283	v
+adv
 v
-adv
-adv
-214155	o
-214159	v
-adv
-214162	v
-s
+214287	adv
+o
+214290	v
 aux
-v
+214295	v
 o
-v
-214169	p
-s
-vc
-214173	v
-s
-adv
-214177	o
-v
-adv
-214184	v
-v
-214187	v
-s
-214190	v
-214192	io
-214194	s
-214198	v
-v
+214298	v
 o
-214202	v
-214204	adv
-s
-214207	v
-v
-adv
+214301	v
 o
-214213	s
-v
+214304	adv
+214307	v
 adv
-214217	adv
 v
+214311	v
 o
-214238	adv
+214314	v
 v
-vc
-p
-s
 adv
-v
+214319	v
+214321	v
+adv
+214324	v
 o
-214248	v
-adv
-adv
+214329	v
+io
 v
-vc
-p
-214255	s
-214258	v
+adv
+214334	v
 o
+214338	v
 v
-adv
-v
-v
-o
-v
-adv
-214269	adv
-adv
-v
-s
-o
-214275	adv
-v
-v
-s
-v
-v
-o
-v
-v
-214285	s
-214287	v
-v
-214290	adv
-v
-v
-214294	s
-v
-adv
-v
-adv
-v
-adv
-v
-p
-vc
-adv
-214306	v
-adv
-214309	v
-adv
-214314	adv
-214316	adv
+io
+214343	adv
 s
 p
-vc
+214347	vc
+adv
+214351	v
+214353	adv
+214356	s
+adv
 o
 v
+214361	aux
+214363	o
+v
+214366	v
+o
 v
 o
-214325	adv
-214327	s
-214330	s
+214371	v
+o
+214374	v
+adv
+adv
 adv
 v
-o
-214336	adv
-v
-vc
-p
-p
-214342	s
-214345	s
-214347	v
-adv
-v
-adv
-214355	p
-vc
-adv
+214380	v
 v
 o
+214385	v
 v
+adv
+214389	v
+o
 o
 v
+adv
 v
+io
 v
-214366	adv
 s
-214372	v
-o
-214375	v
-s
-214381	v
-214383	s
-o
-v
-214387	v
 adv
-v
-214391	adv
-o
-214394	v
-aux
-214399	v
-o
-214402	v
-o
+214402	adv
 214405	v
-o
-214408	adv
-214411	v
-adv
 v
-214415	v
-o
-214418	v
+214408	s
 v
-adv
-214423	v
-214425	v
-adv
-214428	v
 o
-214433	v
-io
-o
-v
-adv
-214439	v
-o
-214443	v
-v
-io
-214448	adv
+214412	v
 s
-p
-214452	vc
+214415	io
+aux
+v
+io
+o
+214421	v
+214424	s
+214426	v
+io
+o
+214430	adv
+214433	v
+o
+s
+214437	v
 adv
-214456	v
-214458	adv
-214462	s
+214441	adv
+v
+o
+214445	v
 adv
+v
+214449	s
 o
 v
-214467	aux
-214469	o
+s
+adv
+214457	s
 v
-214472	v
+v
+214461	v
+v
+io
+214469	v
 o
-v
+adv
+214474	v
 o
 214477	v
-o
-214480	v
-adv
-adv
-adv
-v
-214486	v
 v
 o
-214491	v
-o
-v
-adv
-214496	v
-o
-214499	o
-v
-214502	adv
-v
-io
+214481	adv
+214483	o
 v
 s
-adv
-214511	adv
-214514	v
-v
-214517	s
-v
-o
-214521	v
-s
-214524	io
-aux
-v
-io
-o
-214530	v
-214533	s
-214535	v
-io
-o
-214539	adv
-214542	v
-o
-s
-214546	v
-adv
-214550	adv
-v
-o
-214554	v
-adv
-214557	v
-214559	s
-o
-v
-s
-adv
-214567	s
-v
-v
-214571	v
-v
-io
-214579	v
-o
-adv
-214584	v
-o
-214587	v
-v
-o
-214591	adv
-214594	o
-v
-s
-214598	s
+214487	s
 v
 io
 adv
-214603	v
+214492	v
 v
 o
 s
-214610	v
+214499	v
 adv
 s
-214614	adv
+214503	adv
 adv
 v
 v
 v
 adv
-214623	v
+214512	v
 io
 aux
-214627	v
+v
 adv
-214633	adv
+214521	adv
 vc
 p
 vc
 p
-o
 v
 o
-214642	o
-214646	v
+214529	o
+214533	v
 v
 adv
-214652	adv
-214654	s
+214538	adv
+214540	s
 adv
 v
 v
 o
 s
+214548	v
+214550	v
+v
+adv
+214556	v
+o
+v
+214560	s
+io
+aux
+v
+adv
+214569	adv
+vc
+p
+vc
+p
+v
+214576	s
+adv
+214581	adv
+v
+o
+214586	v
+o
+214590	v
+o
+adv
+214596	o
+adv
+214601	v
+o
+214605	v
+214607	v
+v
+214610	s
+214613	p
+vc
+214616	v
+v
+214619	v
+214621	v
+v
+vc
+214625	s
+214629	p
+214632	v
+v
+adv
+v
+o
+214639	v
+o
+214642	v
+p
+vc
+s
+s
+214648	v
+io
+214651	s
+214653	v
+214655	v
+s
+214658	o
 214662	v
-214664	v
-v
-adv
-214670	v
 o
 v
-214674	s
+v
+214668	adv
+v
+v
+s
+214674	v
+v
+o
+s
+214679	v
+v
 io
 aux
+214684	adv
 v
+o
+214688	adv
 adv
-214683	adv
-vc
+v
+214692	io
+adv
+v
+o
+214697	adv
+214700	v
+214703	s
+214707	v
+o
+214710	adv
+v
+v
+io
+o
+214716	s
+214718	v
+io
+aux
+s
+adv
 p
 vc
-p
-v
-214690	s
-adv
-214694	o
-214696	adv
-v
-o
-214701	v
-o
-214705	v
-o
-adv
-214711	o
-adv
-214717	v
-o
-214721	v
-214723	v
-v
-214727	s
-214730	p
+214726	s
+214728	p
 vc
+v
 214733	v
 v
-214736	v
-214738	v
-v
+214738	s
+214741	p
 vc
-214742	s
-214746	p
-214750	v
+214744	v
+214747	v
+214749	v
 v
-adv
-v
-o
-214757	v
-o
-214760	v
+214752	adv
+214755	s
+vc
 p
-vc
 s
-s
+v
+o
+214762	s
+v
+io
 214766	v
+o
+v
+214770	v
+o
+v
 io
-214769	s
-214771	v
-214773	v
-s
-214776	o
-214780	v
+adv
 o
 v
-v
-214786	adv
-v
-v
-s
-214792	v
+adv
 v
 o
+214783	adv
+214785	v
+adv
+v
+v
+214790	adv
 s
+o
+v
+214795	s
 214797	v
-v
-io
-aux
-214802	adv
-v
 o
-214806	adv
 adv
 v
-214810	o
-io
 adv
 v
+v
+v
+v
 o
-214816	adv
+v
+214810	v
+adv
+214813	v
+o
+adv
 214819	v
-214822	s
+o
 214826	v
-o
-214829	adv
-v
-v
 io
 o
-214835	s
-214837	v
+v
 io
-aux
-s
+214832	s
+214834	v
+o
+214837	s
+214839	v
+io
+o
+v
+o
+214846	v
 adv
-p
-vc
-214845	s
-214847	p
-vc
-v
-214852	v
-v
-214857	s
-214860	p
-vc
-214863	v
-214866	v
-214868	v
-v
-214871	adv
-214874	s
-vc
-p
-s
 v
 o
+adv
+io
+v
+s
+214855	o
+v
+s
+214859	v
+o
+214862	v
+io
+o
+v
+o
+214869	v
+o
+214872	v
+s
+o
+214878	adv
+v
 214881	s
+214885	p
+adv
+214890	adv
+214893	apposition
+vc
+214896	s
+io
 v
 io
-214885	v
-o
 v
-214889	v
 o
-v
-io
 adv
-o
-v
-adv
-o2
+214908	v
 v
 o
-214903	adv
-214905	v
 adv
-v
-v
-214910	adv
+214914	s
+214917	adv
+214919	p
+vc
+214922	s
+214925	adv
+214927	p
+vc
+214931	adv
+214934	p
+adv
+vc
+o
 s
-o
-o
-v
-214916	s
-214918	v
-o
-adv
-214922	v
-adv
-v
-v
-v
-v
-o
-v
-214932	v
-adv
-214935	v
-o
-adv
-214941	v
-o
-214948	v
-io
-o
-v
-io
-214954	s
-214956	v
-o
-214959	s
-214961	v
-io
-o
-v
-o
-214968	v
-adv
-v
-o
-adv
 io
 v
+214943	adv
+214945	p
+adv
+vc
+o
 s
-214977	o
 v
-s
-214981	v
-o
-214984	v
 io
-o
-v
-o
-214991	v
-o
-214995	v
 s
-o
-215001	adv
 v
+o
+v
+214960	o
+v
+214963	o
+v
+214967	o
+v
+214970	o
+v
+adv
+v
+o
+o
+v
+214978	o
+v
+214981	o
+s
+p
+vc
+214986	v
+o
+214989	v
+io
+214992	s
+vc
+v
+o
+adv
+214998	s
+215000	v
+o
 215004	s
-215008	p
+215007	p
 adv
-215013	adv
-215016	apposition
-vc
-215019	s
-io
-v
-o2
-io
-v
-o
-adv
-215032	v
-v
-o
-adv
-215038	s
-215041	adv
-215043	p
-vc
-215046	s
-215049	adv
-215051	p
-vc
-215056	adv
-215059	p
-adv
-vc
-o
-s
-io
-v
-215069	adv
-215071	p
-adv
-vc
-o
-s
-v
-io
-215079	s
-v
-o
-v
-215087	o
-v
-215090	o
-v
-215094	o
-v
-215097	o
-v
-adv
-v
-o
-o
-v
-215105	o
-v
-215108	o
-s
-p
-vc
-215113	v
-o
-215116	v
-io
-o
-215120	s
-vc
-v
-o
-adv
-215126	s
-215128	v
-o
-215132	s
-215135	p
-adv
-215138	s
-215142	p
+215010	s
+215014	p
 adv
 s
-215147	v
-215149	s
+215019	v
+215021	s
 adv
 v
 p
-215154	vc
+215026	vc
 s
-215159	v
-215161	s
-215164	v
+215031	v
+215033	s
+215036	v
 s
 v
 o
-215170	v
+215042	v
 o
 v
-215174	v
+215046	v
 adv
 v
 v
 s
-215180	vc
+215052	vc
 p
-215183	v
+215055	v
 o
-215186	v
+215058	v
 adv
 adv
 s
-215192	adv
+215064	adv
 p
 v
 adv
-215198	adv
+215070	adv
 v
-215201	v
-v
-adv
+215073	v
 v
 adv
-215210	s
-215212	v
+v
+adv
+215082	s
+215084	v
 v
 o
-215216	v
-215218	v
+215088	v
+215090	v
 s
+215093	v
+s
+adv
+215097	adv
+215100	v
+215102	s
+215105	v
+215107	adv
+215109	v
+o
+215112	v
+adv
+v
+o
+adv
+215118	o
+215123	s
+v
+v
+aux
+v
+o
+215130	v
+o
+215134	v
+o
+215139	adv
+215141	v
+o
+215145	v
+adv
+215149	v
+215151	s
+aux
+v
+215155	v
+o
+215158	adv
+215162	s
+adv
+o
+adv
+215167	adv
+v
+s
+215171	v
+215173	adv
+215175	adv
+215178	s
+v
+215182	v
+v
+adv
+adv
+adv
+v
+215189	adv
+adv
+v
+v
+215194	v
+o
+215197	aux
+215199	v
+o
+adv
+215206	v
+215208	o
+215210	v
+io
+215213	adv
+s
+v
+adv
 215221	v
-s
-adv
-215225	adv
+215223	s
+v
+o
 215228	v
-215230	s
-215233	v
-215235	adv
-215237	v
 o
-215240	v
+s
+215232	v
+aux
+aux
+215237	s
 adv
 v
-o
 adv
+v
+v
+215244	io
 215246	o
-215251	s
+215249	adv
 v
-v
-aux
-v
-o
-215258	v
-o
-215262	v
-o
-215267	adv
-215269	v
-o
-215273	v
 adv
-215277	v
-215279	s
-aux
+215253	s
+adv
 v
-215283	v
-o
-215286	adv
-215290	s
+v
+v
+215259	adv
+215262	o
+p
+vc
+s
 adv
-o
-adv
-215295	adv
 v
 s
-215299	v
-215301	adv
-215303	adv
-215306	s
+215270	adv
 v
-215310	v
 v
 adv
-adv
-adv
+215276	s
 v
-215317	adv
 adv
-v
-v
-215325	v
+215282	v
+adv
+215287	v
 o
-215328	aux
+215291	v
+o
+215294	v
+s
+215297	v
+o
+215301	v
+v
+io
+215307	adv
+adv
+v
+adv
+215312	adv
+v
+adv
+v
+v
+v
+io
+215320	v
+s
+io
+v
+io
+o
+v
+215328	s
 215330	v
 o
-adv
-215337	v
-215339	o
-215341	v
+215335	v
 io
-215344	adv
+215338	o
+v
+215341	v
+adv
+215345	v
+o
+215351	o
+v
+v
+215355	v
 s
 v
 adv
-215352	v
-215354	s
-o
-v
-o
 215360	v
-o
-s
-215364	v
-aux
-aux
-215369	s
-adv
-v
+io
 adv
 v
 v
-215376	io
+215366	v
+io
 o
-215379	o
+v
+o
+v
+215373	v
+v
+o
+215378	v
+215380	v
 215382	adv
 v
+215385	s
+v
+o
+io
+215390	v
+v
 adv
-215386	s
-adv
+s
+215395	v
+o
 v
+io
 v
-v
-215392	adv
-215395	o
-p
+215401	p
 vc
-s
+o
+v
+v
+v
+215408	v
 adv
 v
-s
-215403	adv
-v
-v
 adv
-215409	s
+215413	s
 v
-adv
-215415	v
 adv
 215420	v
-o
+s
+adv
 215424	v
-o
-215428	v
 s
-215431	v
+215427	s
+v
+adv
+215431	s
+v
 o
-215434	o
-215436	v
+v
+aux
+aux
+v
+o
+215440	v
 v
 io
-215443	adv
-adv
-v
-adv
-215448	adv
-v
-adv
 v
 v
-v
+o
 io
+215448	v
+adv
+v
+s
+v
+s
 215456	v
-s
-io
-v
-io
-o
-v
-215464	s
-o
-215467	v
-o
-215472	v
-io
-215475	o
-v
-215478	v
-adv
-215482	v
-o
-s
-215489	o
-v
-v
-215493	v
-s
+215458	v
 v
 adv
-215498	v
-io
+215462	v
+o
+215465	v
 adv
-v
-v
-215504	v
-io
-o
-215508	v
-o
-v
-215512	v
-v
-o
-215517	v
-215519	v
-215521	adv
-v
-215524	s
-v
-o
-io
-215529	v
-v
 adv
-s
-215534	v
+215470	v
 o
-v
-io
-v
-215540	p
+215473	s
 vc
+p
+v
+215478	s
+v
+s
+v
+s
+215484	p
+adv
+v
+v
+v
+o
+io
+215492	adv
+s
+215496	v
+io
+v
+v
+s
+215502	v
 o
 v
+215506	adv
+215508	adv
 v
-v
-215547	v
+s
+215513	v
+io
+215516	v
 adv
 v
+s
+215522	adv
+215524	v
+aux
 adv
-215552	s
+215528	adv
+aux
+215531	s
+215534	p
+vc
 v
-adv
-215560	v
+215538	adv
+215540	v
 s
 adv
+v
+o
+215550	v
+215552	adv
+v
+215555	v
+io
+v
+adv
+v
+adv
+adv
+v
 215564	v
+215567	s
+v
+adv
+215577	v
+p
+vc
 s
-215568	s
+215583	adv
+215586	adv
+215588	v
+s
+o
+v
+215593	v
+adv
+215599	v
+adv
+215603	p
+vc
+adv
+215612	v
+v
+v
 v
 adv
-215572	s
-v
-o
-v
-o
-215578	aux
-aux
-v
-o
-215583	v
-v
-io
-v
-v
-o
-io
-215592	v
 adv
 v
 s
-v
+adv
+215624	v
 s
-215600	v
-215602	v
+215627	v
+o
+p
+215631	vc
+adv
+215635	v
+v
+v
+v
+v
 v
 adv
-215606	v
-o
-215609	v
+215643	v
+s
 adv
-adv
-215614	v
+v
 o
-215617	s
+215649	adv
+215651	v
+o
+p
+215655	vc
+adv
+s
+215660	v
+adv
+215664	s
 vc
 p
-v
-215622	s
-v
-o
-s
-v
-s
-215629	p
-adv
-v
+215669	s
+215671	p
+215673	adv
 v
 v
 o
-io
-215637	adv
-s
-215641	v
-io
-o
-v
-v
-s
-215648	v
-o
-v
-215652	adv
-215654	adv
-v
-s
-215659	v
-io
-215662	v
-o
-adv
-v
-s
-215669	adv
-215671	v
-aux
-adv
-215675	adv
-aux
 215678	s
-215681	p
-vc
+215680	adv
+adv
 v
-215685	adv
-215687	o
+adv
+215685	v
+o
+215688	s
+v
+o
+215692	v
+v
+o
+215696	s
+v
+v
+o
+v
+io
+adv
+215704	vc
+s
+p
+215708	s
+v
+215711	s
+v
 v
 s
 adv
+215717	apposition
+s
+v
+s
+215722	v
+215724	v
+v
+io
+adv
+aux
+s
+215731	v
+io
+p
+s
+adv
+s
+215738	v
+v
+215741	o
+io
+adv
+v
+adv
+v
+s
+215749	adv
+v
+v
+s
+vc
+p
+215756	adv
+o
+adv
+v
+215761	o
+adv
+v
+215765	s
+215767	vc
+p
+215772	v
+adv
+v
 v
 o
-215698	v
-215700	adv
+adv
+215781	adv
 v
-215704	v
+adv
+adv
+215786	v
+adv
+215790	o
+215792	adv
+v
+215795	o
+v
+adv
+v
 io
 o
-v
-adv
-v
-adv
-adv
-v
-215714	v
-215717	s
-v
-adv
-215727	v
-p
-vc
 s
-215733	adv
-215736	adv
-215738	v
-s
-o
-v
-215743	v
-adv
-215749	v
-adv
-215753	p
-vc
-adv
-215762	v
-v
-v
-v
-v
-adv
-adv
-v
-s
-adv
-215775	v
-s
-215778	v
-o
-p
-215782	vc
-adv
-215787	v
-v
-v
-v
-v
-v
-adv
-215795	v
-s
-adv
-v
-o
-215801	adv
 215803	v
 o
-p
-215807	vc
+215806	adv
 adv
+v
+v
+o
+v
+215813	s
+v
+o
 s
-215812	v
-adv
-215816	s
-vc
-p
-215821	s
-215823	p
-215825	adv
-v
-v
-o
-215830	s
-215832	adv
-adv
-v
-adv
-215837	v
-o
-215840	s
-v
-o
-215844	v
-v
-o
-215848	s
-v
-v
-o
-v
-io
-o
-adv
-215857	vc
+215819	v
 s
-p
-215861	s
-v
-215864	s
-v
-v
-s
-adv
-215870	apposition
-s
-v
-s
-215875	v
-215877	v
-v
+215822	v
+o
+215828	v
 io
 adv
+215833	v
+adv
+v
+io
+215838	v
+o
+215841	adv
+215843	s
+215846	v
+v
+o
+adv
+215851	v
+215853	adv
+215856	v
+adv
+215859	vc
+p
+215862	v
+o
+o
+215866	s
+v
+adv
+215870	v
+o
+s
+p
+215875	s
+p
+s
+v
+o
+adv
+v
 aux
-s
-215884	v
+v
 io
-o
-p
-s
-adv
-s
-215892	v
-v
-215895	o
-io
-adv
-v
-adv
-v
-s
-215903	adv
-v
-v
-s
+215886	adv
 vc
 p
-215910	adv
-o
+215890	s
+215893	p
+215895	s
+215899	v
 adv
-v
-215915	o
 adv
-v
-215919	s
-215921	vc
-p
-215926	v
-adv
-v
 v
 o
-adv
-215935	adv
+o
+v
+s
+215908	adv
 v
 adv
-adv
-215940	v
+v
 adv
 o
-215945	o
-215947	adv
-v
-215950	o
 v
 adv
+215918	v
+o
+215921	v
+aux
 v
 io
-o
+apposition
+v
+io
+v
 s
-215958	v
-o
-215961	adv
+v
 adv
-v
+215934	adv
+215937	s
 v
 o
 v
-215968	s
+215942	v
+o
+v
+v
+215947	io
+o
+215951	o
+v
+v
+215955	s
 v
 o
 s
-215974	v
+215960	v
+o
+v
+v
+s
+v
+adv
+215968	adv
+v
+o
+p
+215973	vc
 s
 215977	v
-o
-215983	v
 io
-adv
-215988	v
-adv
-v
-io
-215993	v
-o
-215996	adv
-215999	s
-216002	v
-v
-o
-adv
-216007	v
-216009	adv
-216012	v
-adv
-216015	vc
-p
-216018	v
-o
-o
-216022	s
-v
-adv
-216026	v
-o
 s
-p
-216031	s
-p
-s
+adv
 v
 o
+215986	s
 adv
+v
+adv
+215991	v
+s
+o
 v
 aux
-v
-io
-216042	adv
-vc
-p
-216046	s
-216049	p
-216051	s
-216056	v
-adv
-adv
-v
-o
 o
 v
+o
+v
+v
+216002	io
 s
-216065	adv
-v
-adv
-v
 adv
 o
 v
-adv
-216075	v
-o
-216078	v
-aux
-v
-io
+o2
+s
+p
+216011	adv
+s
 apposition
+o
+v
+adv
+v
+adv
+v
+adv
+v
+adv
+v
+v
+o
+216030	s
+216032	v
+o
+v
+adv
+v
+216038	s
 v
 io
-o
-v
-s
-v
 adv
-216092	adv
-216095	s
-v
-o
-v
-216100	v
-o
-v
-v
-216105	io
-o
-216109	o
-v
-v
-216113	s
-v
-o
 s
-216118	v
-o
-v
-o
-v
-s
-v
 adv
-216127	adv
 v
+o
+o
+v
+v
+216050	v
+io
+216053	v
+o
+adv
+216058	v
+v
+o
+s
+216063	v
 o
 p
-216132	vc
-s
-216136	v
-io
-s
+vc
+vc
+216069	p
 adv
 v
+216073	o
+s
+v
+adv
 o
+v
+adv
+216083	v
+216085	p
+216087	vc
+s
+adv
+216091	v
+216093	s
+adv
+216098	v
+v
+216101	v
+216103	s
+v
+v
+s
+216108	v
+s
+216112	p
+adv
+216115	vc
+v
+216118	s
+aux
+s
+v
+o
+v
+o
+s
+216127	v
+io
+v
+io
+216132	p
+vc
+s
+v
+o
+216141	adv
 216145	s
 adv
-v
 adv
-216150	v
-s
+v
+o
+adv
+216154	adv
+216157	v
 o
 v
+216161	o
+v
+adv
+o
 aux
-o
 v
-o
-v
-v
-216161	io
+adv
+216169	v
 s
-o2
+v
 adv
+216174	adv
+216180	v
+216182	io
+216184	v
+216186	v
+216188	v
+216190	v
+v
+o
+216194	adv
+216197	v
+216199	s
 o
 v
-o2
-o2
+216203	vc
 s
-p
-216172	adv
-s
-apposition
-o
-v
-o
+216206	p
 adv
-v
-adv
-v
-adv
-v
-adv
+216209	adv
 v
 v
-o
-216192	s
-216194	v
-o
 v
-adv
+216214	adv
 v
-216200	s
-v
-io
-adv
 s
 adv
+s
 v
-o
-o
-v
-v
-216212	v
-io
-216215	v
-o
 adv
-216221	v
+216222	v
 v
-o
 216225	s
-216227	v
+v
+v
+p
+vc
+s
+v
+216233	io
+216235	s
+apposition
+v
+216239	v
+v
+aux
+apposition
+v
+o
+216246	v
+v
+io
+216250	v
+s
+216253	adv
+v
+aux
+v
+o
+v
+216260	s
+v
+s
+v
+adv
+v
+216267	s
+v
+o
+o
+io
+v
+v
+s
+216276	v
+aux
+216279	v
+216281	s
+v
+io
+v
+s
+216287	v
+o
+216290	adv
+v
+216293	v
+o
+v
+o
+216298	s
+216300	v
+v
+o
+io
+216305	v
+v
+adv
+216309	aux
+s
+adv
+vc
+p
+216315	s
+vc
+p
+216319	s
+p
+216322	v
+v
 o
 p
 vc
+216328	adv
+v
+adv
+216333	adv
+p
 vc
-216233	p
+216337	v
 adv
-v
-216237	o
-s
-v
+216340	v
+adv
+216343	v
 o
+216346	adv
+v
+v
+216351	v
 adv
-o
-v
-adv
-216248	v
-216250	p
-216252	vc
-s
-adv
-216256	v
-216258	s
-adv
-216263	v
-v
-216266	v
-216268	s
-v
-v
-s
-216273	v
-s
-216277	p
-adv
-216280	vc
-v
-216283	s
-aux
-s
-v
-o
-v
-o
-s
-216292	v
-io
-v
-io
-216297	p
-vc
-s
-s
-v
-o
-216307	adv
-216311	s
-adv
-adv
-v
-o
-adv
-216320	adv
-216323	v
-o
-v
-216327	o
-v
-adv
-o
-aux
-v
-adv
-216335	v
-s
-v
-adv
-216340	adv
-216346	v
-216348	io
-216350	v
-216352	v
 216354	v
-216356	v
+s
+v
+adv
+aux
+v
+v
+adv
+216363	adv
+216366	v
+s
+v
+216370	v
+v
+216373	v
+o
+v
+216377	v
+s
+v
+v
+216382	adv
+216384	v
+v
+v
+216388	s
+v
+adv
+216392	aux
+o
+216396	v
+aux
+io
+v
+216402	adv
+o
+v
 v
 o
-216360	adv
-216363	v
-216365	s
+v
+216409	adv
+s
+216412	adv
+s
+p
+216416	vc
+216418	s
+p
+vc
+v
+216423	s
+216426	v
+216428	v
+v
+216431	s
 o
 v
-216369	vc
-s
-216372	p
+v
+o
 adv
-216375	adv
-v
-v
-216379	v
-216381	adv
-v
-s
-adv
-s
-v
-adv
-216389	v
-v
-216392	s
-v
-v
 p
 vc
 s
-v
-216400	io
-216402	s
-apposition
-v
-216406	v
-v
-aux
-apposition
-v
-o
-216413	v
-v
-io
-216417	v
+216441	v
 s
-216420	adv
-v
-aux
-v
-o
-v
-216427	s
+216444	adv
 v
 s
+216449	v
 v
+216452	s
+216454	v
 adv
-216433	v
-216435	s
-v
-o
-o
-io
-v
-v
-s
-216444	v
-aux
-216447	v
-216449	s
+216457	adv
 v
 io
 o
-v
-s
-216456	v
-o
-216459	adv
-v
 216462	v
-o
 v
-o
-216467	s
-216469	v
-v
-o
+216465	o
+216467	v
 io
-216474	v
+o
+216471	v
+adv
 v
 adv
-216478	aux
+adv
+v
 s
-adv
-vc
-p
-216484	s
-vc
-p
-216488	s
-p
-216492	v
-v
+216480	v
 o
-p
-vc
-216498	adv
-v
-adv
-216503	adv
-p
-vc
-216507	v
-adv
-216510	v
-adv
-216513	v
+216483	v
 o
-216516	adv
-v
-v
-216522	v
 adv
-216525	v
+v
+adv
+v
 s
 v
+adv
+216493	v
+adv
+v
+s
+v
+o
+216500	v
+v
+io
+216505	io
+v
+o
+216509	v
+s
+o
+v
+v
+216515	s
+v
+aux
+s
+216520	o
+v
+216523	v
+io
 adv
 aux
-v
+216528	adv
+p
+vc
+vc
+o
 v
 adv
-216534	adv
 216537	v
 s
 v
-216541	v
-v
-216544	v
-o
-v
-216548	v
 s
-v
-v
-216553	adv
-216555	v
-v
-v
-216559	s
-v
-adv
-216563	aux
-o
-216567	v
-aux
-io
-v
-216574	adv
-o
-v
+216542	aux
 v
 o
 v
-216581	adv
-s
-216584	adv
+216547	io
 s
 p
-216588	vc
+vc
+216553	s
+v
+v
+aux
+v
+216560	o
+v
+v
+adv
+v
+216566	o
+216568	p
+vc
+apposition
+v
+o
+adv
+v
+216576	v
+o
+adv
+v
+v
+io
+adv
+216585	v
+o
+aux
+v
 216590	s
 p
-vc
-v
-216595	s
-216598	v
-216600	v
-216602	v
-216604	s
-o
-v
+216593	vc
 v
 o
 adv
-p
-vc
-s
-216614	v
-s
-216617	adv
 v
-s
-216622	v
-v
-216625	s
-216627	v
+216599	v
+o
 adv
-216630	adv
+v
+216604	adv
+adv
+v
+o
+216609	adv
+s
+v
+adv
+o
+v
+216616	v
+v
+o
+v
+adv
+o
+216623	v
+o
+216626	v
+216628	v
+io
+aux
+v
+o
 v
 io
-o
-216635	v
+216636	io
 v
-216638	o
-216640	v
-io
-o
-216644	v
-adv
 v
 adv
-adv
+216641	adv
 v
 s
-216653	v
 o
-216656	v
-o
-adv
 v
-adv
+v
+216648	o
+216652	adv
 v
 s
 v
 adv
-216666	v
+v
+adv
+216660	v
+o
+adv
+216664	v
+o
+v
 adv
 v
-s
-v
-o
+adv
+216671	v
 216673	v
-v
-io
-s
-216679	io
-v
-o
-216683	v
-s
-o
-v
-v
-216689	s
-v
-aux
-s
-216694	o
-v
-216697	v
-io
-o
 adv
-aux
-216703	adv
+216677	adv
+216680	vc
 p
-vc
-vc
+v
 o
+216685	v
 v
 adv
-216712	v
-s
+216690	adv
 v
-s
-216717	aux
-v
-o
-v
-216722	io
-s
-p
-vc
-216728	s
-v
-v
-o
-aux
-v
-s
-216737	o
 v
 v
 adv
-v
-216743	o
-216745	p
-vc
-apposition
-v
-o
+s
 adv
 v
-216753	v
+216699	v
 o
+v
+216704	s
+o
+v
 adv
 v
+adv
 v
+216712	s
+o
+v
+v
+216717	v
+v
+216720	v
 io
-o
-adv
-216763	v
-o
-aux
 v
-216768	s
-p
-216771	vc
-v
+216724	s
 o
+v
+s
+216729	adv
 adv
 v
-216777	v
+o
+s
+216735	v
+216737	s
+o
+v
+216741	v
 o
 adv
+216746	v
+o
+216749	adv
+216751	v
+o
 v
+216755	s
+v
+o
+216759	adv
+216761	v
+216763	s
+adv
+adv
+216771	v
+s
+216776	v
+v
+o
+adv
+adv
 216782	o
-adv
-adv
 v
-o
-216788	adv
+apposition
+v
+v
 s
 v
+apposition
 adv
-o
-v
-216795	v
-v
-o
-v
+216792	o
+p
+s
+216796	s
+p
+216799	s
+216804	v
 adv
-o
-216802	v
-o
-216805	v
-216807	v
-io
 aux
 v
 o
+216811	v
+v
 v
 io
-216815	io
-v
-v
-adv
-216820	adv
+216816	s
 v
 s
+v
+216822	v
+v
 o
 v
-v
-216827	o
-216831	adv
-v
-s
-v
 adv
 v
+216830	v
 adv
+216834	s
+o
+216837	adv
 216839	v
-o
 adv
-216843	v
-o
-v
-adv
-v
-adv
-216852	v
-216854	v
-adv
-216858	adv
-216861	vc
-p
-v
-o
-216866	v
-v
-adv
-216871	adv
-v
+216843	o
 v
 s
-v
 adv
+216849	v
 s
-adv
-v
-216881	v
-o
-v
-216887	s
-o
-v
-adv
-v
-adv
-v
-216895	s
-o
-v
-216899	v
-216901	v
-v
-216904	v
+216852	o
 io
-216907	v
-216909	s
+216855	v
 o
-v
-s
-216914	adv
-adv
-v
-o
-s
-216920	v
-216922	s
-o
-v
-216926	v
+216858	v
 o
 adv
-216931	v
+216862	v
 o
-216934	adv
-216936	v
-o
-216939	v
-216941	s
-v
-o
-216945	adv
-216948	v
-216950	s
-adv
-adv
-216958	v
-s
-216963	v
-v
-o
-adv
-adv
-216970	o
-v
-apposition
-v
-v
-s
-v
-apposition
-adv
-216980	o
-p
-s
-216984	s
-p
-216987	s
-216992	v
-adv
-aux
-v
-o
-216999	v
-v
-v
-io
-o
-217005	s
-v
-s
-v
-217012	v
-v
-o
-v
-adv
-v
-217020	v
-adv
-217024	s
-o
-217027	adv
-217029	v
-adv
-217033	o
-v
-s
-adv
-217039	v
-s
-217042	o
-io
-217045	v
-o
-217048	v
-o
-adv
-217052	v
-o
-217060	adv
+216870	adv
 v
 o
 adv
@@ -79424,291 +79344,287 @@ adv
 adv
 v
 o
-217074	v
+216884	v
 adv
-217077	v
+216887	v
 v
 v
 v
 io
 o
 v
-217085	vc
+216895	vc
 s
-217088	p
+216898	p
 s
-217091	o
+216901	o
 v
 o2
-217095	v
+216905	v
 adv
-217098	adv
-217100	s
-217105	v
+216908	adv
+216910	s
+216915	v
 o
 v
-217109	s
-217114	adv
+216919	s
+216923	adv
 v
 o
 v
+s
+216930	v
+o
+v
+216934	v
+adv
+216938	v
+s
+o
+adv
+216944	v
+v
+s
+216950	adv
+216953	v
+v
+adv
+v
+io
+o
+adv
+216961	o
+v
+216964	p
+vc
+v
+io
+o
+216970	v
+216972	v
+adv
+o
+v
+o
+s
+o2
+216980	v
+io
+o
+s
+216985	p
+vc
+216988	p
+s
+216991	v
+adv
+v
+216996	v
+p
+v
+adv
+adv
+v
+o
+217005	v
+p
+s
+217009	v
+o
+v
+217013	s
+p
+vc
+217017	v
+adv
+v
+p
+217022	s
+v
+io
+adv
+s
+v
+io
+adv
+217031	o
+v
+v
+217035	adv
+217037	v
+o
+217040	s
+v
+o
+217044	v
+o
+io
+217048	v
+adv
+217051	adv
+v
+adv
+217055	o
+217057	adv
+217061	v
+io
+s
+217065	v
+o
+v
+o2
+217070	v
+o
+v
+s
+217075	o
+v
+217078	v
+adv
+217081	v
+o
+v
+s
+217086	o
+v
+v
+v
+217091	s
+217094	o
+v
+v
+o
+217100	apposition
+adv
+o
+v
+v
+217106	o
+s
+v
+adv
+v
+s
+vc
+p
+v
+o
+217117	p
+vc
 s
 217121	v
 o
-v
-217126	v
 adv
-217131	v
-s
+217125	v
 o
-adv
-217137	v
-v
-s
-217143	adv
-217146	v
-v
-adv
-v
+217128	v
 io
+s
+217134	v
+217136	v
 o
-adv
-217154	o
+217140	v
+o
+io
 v
-217157	p
+217145	v
+adv
+v
+s
+217150	v
+o
+v
+p
+217155	vc
+s
+v
+o
+v
+v
+s
 vc
+p
+217165	s
 v
-io
-o
-217163	v
-217165	v
 adv
-o
-v
-o
-s
-o2
+217170	v
+adv
 217173	v
-io
+v
 o
+217177	v
 s
-217178	p
-vc
-217181	p
+217182	v
+adv
+o
+adv
+217189	v
+o
+v
+217194	adv
+v
+o
+217199	v
+v
+o
+v
 s
-217184	v
-adv
-v
-217190	v
-p
-v
-adv
-adv
-v
-o
-o
-217201	v
-p
-s
-217205	v
-o
-v
-217209	s
 p
 vc
-217213	v
-adv
-v
-p
-217218	s
-v
-io
-adv
-s
-v
-io
-adv
-217227	o
-v
-v
-217231	adv
-217233	v
+217207	v
 o
-217236	s
-v
-o
-217240	v
+217210	v
 o
 io
-217244	v
-adv
-217247	adv
-v
-adv
-217251	o
-217253	adv
-217257	v
-io
-s
-217261	v
+217219	v
 o
 v
-o2
-217266	v
+aux
+v
+217225	adv
+v
+217230	v
 o
+217233	adv
+o
+217237	v
 v
 s
+io
+o
+v
+217244	adv
+v
+217247	o
+217249	v
+adv
+v
+io
+o
+o
+v
+217258	s
+217260	v
+o
+s
+217264	v
+adv
+217267	v
+o
+io
 217271	o
-v
-217274	v
-adv
-217277	v
-o
-v
-s
-217282	o
-v
-v
-v
-217287	s
-217290	o
-o
-v
-217294	v
-o
-217298	apposition
-adv
-o
-v
-v
-217304	o
-s
-v
-adv
-v
-o
-s
-vc
-p
-v
-o
-217316	p
-vc
-s
-217320	v
-o
-adv
-217324	v
-o
-217327	v
-io
-s
-217333	v
-217335	v
-o
-217339	v
-o
-io
-v
-217344	v
-adv
-v
-s
-217349	v
-o
-v
-p
-217354	vc
-s
-v
-aux
-o
-v
-v
-s
-vc
-p
-217365	s
-v
-adv
-217370	v
-adv
-217373	v
-v
-o
-217378	v
-s
-217383	v
-adv
-o
-adv
-217390	v
-o
-v
-217395	adv
-v
-o
-217401	v
-v
-o
-v
-s
-p
-vc
-217409	v
-o
-217412	v
-o
-io
-217421	v
-o
-v
-aux
-v
-217427	adv
-v
-217432	v
-o
-217435	adv
-o
-217439	v
-v
-s
-io
-o
-v
-217446	adv
-v
-217449	o
-217451	v
-adv
-v
-io
-o
-o
-v
-217460	s
-217462	v
-o
-s
-217466	v
-adv
-217469	v
-o
-io
-217473	o
-217475	io
-217477	adv
+217273	io
+217275	adv
 v
 v
 o
 adv
-217484	v
+217282	v
 adv
-217488	v
+217286	v
 v
-217491	s
-217494	v
+217289	s
+217292	v
 s
 p
 vc
@@ -79719,1334 +79635,1308 @@ aux
 s
 v
 io
-217507	s
+217305	s
 v
 v
 o
-217512	s
+217310	s
 p
 vc
-217516	v
+217314	v
 s
-217519	o
-217521	v
+217317	o
+217319	v
 o
 io
-217525	s
+217323	s
+217325	v
+217327	s
+v
+o
+v
+adv
+217333	s
+217337	v
+o
+217340	adv
+217342	s
+217344	adv
+v
+o
+217348	v
+adv
+s
+217352	v
+s
+217355	adv
+217357	p
+217359	vc
+s
+217362	v
+o
+o2
+217366	v
+io
+s
+o
+s
+217374	v
+217377	v
+o
+o
+217381	v
+217383	o
+217385	apposition
+217387	v
+217390	adv
+217392	v
+adv
+v
+217396	p
+217398	vc
+217400	p
+vc
+p
+217404	vc
+217407	v
+s
+s
+v
+adv
+217414	v
+o
+o2
+217422	s
+217424	adv
+vc
+p
+217428	p
+s
+217431	adv
+v
+v
+217435	s
+217437	v
+aux
+adv
+v
+adv
+217443	v
+v
+o
+o2
+v
+217449	adv
+adv
+v
+s
+vc
+p
+s
+217457	v
+adv
+217460	v
+s
+io
+217464	v
+adv
+217468	v
+o
+217471	o2
+217474	s
+217476	o
+o2
+v
+217480	adv
+p
+vc
+v
+217485	s
+217487	v
+io
+v
+adv
+217493	v
+v
+adv
+217497	v
+o
+217510	s
+v
+o
+217516	adv
+o
+v
+s
+v
+o
+v
+217524	v
+o
 217527	v
-217529	s
-v
-o
-v
 adv
-217535	s
-217539	v
-o
-217542	adv
-217544	s
-217546	adv
-v
-o
-217550	v
+217530	o
+217532	v
+217534	s
+217536	v
 adv
-s
-217554	v
-217556	s
-217558	adv
-217560	p
-217562	vc
-s
-217565	v
 o
-o2
-217569	v
+217540	v
+adv
+v
 io
-s
+217545	s
+217548	apposition
 o
-s
-217577	v
-217580	v
-o
-o
-217584	v
-217586	o
-217588	apposition
-217590	v
-217594	adv
-217596	v
-adv
 v
-217600	p
-217602	vc
-217604	p
-vc
-p
-217608	vc
-217611	v
 s
-s
+217553	adv
 v
 adv
-217618	v
+v
+adv
+217559	s
+217561	adv
+217564	o
+217566	o
+v
+v
+217570	s
+v
+adv
+217575	adv
+217578	v
+v
 o
-o2
-217627	s
-217629	adv
-vc
-p
-217633	p
+v
+v
 s
-217636	adv
+adv
+adv
+v
+adv
+s
+adv
 v
 v
-217640	s
-217642	v
+217593	o
+v
 aux
-adv
+p
+217598	s
+vc
+217601	p
+s
+217604	v
+s
+v
+s
+217609	v
 v
 adv
-217648	v
 v
+s
+217615	v
+adv
+217619	v
 o
-o2
-v
-217654	adv
-adv
-v
 s
 vc
-p
-s
-217662	v
-adv
-217665	v
-s
-io
-217669	o
+217624	s
 v
+adv
+v
+adv
+217631	v
+o
+217634	adv
+v
+v
+217638	s
+v
+adv
+217642	adv
+adv
+s
+adv
+v
+io
+217649	v
+s
+adv
+217653	s
+adv
+s
+217663	v
+s
+217670	v
 adv
 217674	v
+adv
 o
-217677	o2
-217680	s
-217682	o
-o2
-v
-217686	adv
-p
-vc
-217690	v
-217692	s
-217694	v
-io
+217679	v
 v
 adv
-217701	v
-v
+217685	v
 adv
+217689	adv
+217692	v
+adv
+adv
+v
+217697	adv
+217700	adv
+v
+v
+s
 217705	v
-o
-217718	s
-v
-o
-217724	adv
-o
-v
-s
-v
-o
-v
-217732	v
-o
-217735	v
-adv
-217738	o
-217740	v
-217742	s
-217744	v
-adv
-o
-217748	v
-adv
-v
 io
-217753	s
-217756	apposition
+217709	adv
+adv
+v
 o
 v
+217715	v
 s
-217761	adv
 v
-adv
-v
-adv
-217767	s
-217769	adv
-217772	o
-217775	o
-v
-v
-217780	s
-v
-adv
-217785	adv
-217788	v
-v
-aux
 o
 v
+217721	adv
+217727	v
+adv
+217730	v
+adv
+adv
+217736	s
+adv
+217740	adv
 v
+adv
+217745	v
+o
+217750	v
+v
+adv
 s
 adv
+v
+217757	v
+s
+217760	adv
+s
+217764	v
 adv
+217768	s
+217771	v
+217773	s
+217776	adv
+v
+adv
+217780	p
+s
+vc
 v
 s
-adv
+v
 s
+io
 adv
 v
-v
-217805	o
-v
-aux
+217791	v
+adv
+217796	vc
+217798	s
 p
-217810	s
-vc
-217813	p
-s
-217816	v
-s
+217802	s
+p
+217806	v
+adv
+217809	v
+adv
+217814	s
+v
+adv
+adv
+adv
 v
 s
-217821	v
+217822	vc
+s
+p
+217828	p
+217830	s
+adv
+217836	v
+s
+adv
+217842	v
+adv
+s
+217848	v
+217850	adv
+v
+s
+217855	v
+adv
+adv
+217861	v
+217863	s
+v
+v
+217867	v
 o
-v
-adv
-v
+217871	v
 s
-217828	v
-adv
-217832	v
+217875	v
 o
-s
-vc
-217837	s
-v
-adv
-v
-adv
-217845	v
-o
-217848	adv
-v
-v
-217852	s
-v
-adv
-217856	adv
-adv
-s
-adv
-v
 io
+v
 o
-217864	v
-s
-adv
-217868	s
-adv
-s
-217878	v
-s
 217885	v
 adv
-217889	v
-adv
-o
-217894	v
 v
 adv
-217900	v
-adv
-217904	adv
-217907	v
-adv
-adv
 v
-217912	adv
-217915	adv
-v
-v
-s
-217920	v
-io
-o
-217925	adv
-adv
-v
-o
-v
-217931	v
-s
-v
-o
-v
-217937	adv
-217943	v
-adv
-217946	v
-adv
-adv
-217952	s
-adv
-217956	adv
-v
-adv
-217961	v
-o
-217967	v
-v
-adv
-s
-adv
-v
-217974	v
-s
-217978	adv
-s
-217982	v
-adv
-217986	s
-217989	v
-217991	s
-217994	adv
-v
-adv
-217998	p
+217891	adv
+p
 s
 vc
-v
+adv
+s
+217898	v
 s
 v
+v
+217903	p
+vc
 s
+217908	v
+io
+217911	adv
+v
+s
+217916	s
+v
+s
+217922	v
+s
+217926	adv
+v
+v
+217930	o
+apposition
+adv
+adv
+v
+s
+217937	adv
+217942	v
+adv
+adv
+s
+217948	s
+v
+217951	adv
+217953	v
+adv
+217958	v
+217960	adv
+217962	v
+217964	v
+o
+v
+o
+217969	v
+v
+217972	v
+adv
+217977	v
+217979	adv
+adv
+217982	adv
+217984	v
+v
+adv
+217989	vc
+p
+217992	s
+217994	v
+adv
+adv
+217998	v
+o
+v
+218002	s
+218006	vc
+p
+218009	v
+s
+218014	adv
+v
+o
+v
+218019	o
+v
+218022	s
+adv
+218026	vc
+p
+vc
+p
+218034	v
+v
+io
+218039	adv
+io
+v
+o
+218044	v
+218046	v
+io
+o
+v
+218051	v
+218053	v
+o
+v
+o
+adv
+io
+v
+218061	s
+218064	adv
+v
+v
+s
+218069	v
+o
+218072	v
+v
+v
+io
+o
+218078	v
+s
+218081	v
 io
 adv
 v
-218009	v
-adv
-218014	vc
-218016	s
-p
-218020	s
-p
-218024	v
-adv
-218027	v
-adv
-218032	s
-v
-adv
-adv
-adv
 v
 s
-218042	vc
-s
-p
-218048	p
-218050	s
-adv
-218056	v
-s
-adv
-218062	v
-adv
-s
-218068	v
-218070	adv
+218088	v
+io
+aux
 v
 s
-218075	v
 adv
-adv
-218081	v
-218083	s
-v
-v
-218087	v
-o
-218091	v
-s
 218095	v
 o
+s
+o
+v
+v
+o
+adv
+218104	adv
+v
+218107	v
 io
-v
-o
-218106	v
-adv
-v
-adv
-v
-218112	adv
-p
-s
-vc
-adv
-s
-218119	v
-s
-v
-v
-218124	p
-vc
-s
-218129	v
+218111	v
 io
-218132	adv
-v
 s
-218137	s
-v
-s
-218143	v
-s
-218147	adv
-v
-v
-218151	o
-apposition
-adv
-adv
-v
-s
-218158	adv
-218163	v
-adv
-adv
-s
-218169	s
-v
-218172	adv
-218174	v
-adv
-218179	v
-218181	adv
-218183	v
-218185	v
-o
-v
-o
-218190	v
-v
-218193	v
-adv
-218198	v
-218200	adv
-adv
-218203	adv
-218205	v
-v
-adv
-218210	vc
-p
-218213	s
-218215	v
-adv
-adv
-218219	v
-o
-v
-218223	s
-218227	vc
-p
-218231	v
-s
-218236	adv
-v
-o
-v
-218241	o
-v
-218244	s
-adv
-218248	vc
 p
 vc
-p
-218256	v
-v
-io
-218261	adv
+s
+adv
+o
+adv
+218122	v
+s
 io
 v
 o
-218266	v
-218268	v
-io
-o
+218128	v
+adv
 v
-218273	v
-218275	v
+v
+218133	v
+218135	v
+io
+218138	v
 o
+218142	v
+s
+v
+218146	s
+adv
+218149	v
+adv
+adv
+v
+o
+218155	v
+adv
+adv
+s
+v
+v
+218162	io
+218164	adv
+adv
 v
 o
 adv
+adv
+v
+adv
+218176	v
+o
+v
+v
+o
+v
+o
+218184	v
+adv
+v
+218188	io
+adv
+v
+adv
+218193	adv
+218197	adv
+adv
+s
+218202	v
+218204	v
+o
+v
+v
+218209	v
 io
 v
-218283	s
-218287	adv
-v
-v
 s
-218292	v
+vc
+p
+218217	adv
+v
 o
+v
+adv
+218225	o
+adv
+adv
+v
+v
+218231	s
+218234	p
+218240	adv
+v
+218243	aux
+s
+218246	v
+o
+adv
+p
+218253	s
+218257	adv
+v
+v
+218261	s
+218264	adv
+v
+218267	s
+v
+v
+adv
+p
+218273	vc
+adv
+o
+v
+v
+v
+218280	s
+218282	adv
+s
+v
+vc
+p
+s
+218289	v
+io
+o
+s
 218295	v
+adv
+218298	v
 o
-v
-v
-io
-o
-218302	v
+p
+vc
 s
-218305	v
+218304	adv
+p
+218308	s
+218311	vc
+p
+218316	v
+p
+218319	v
+s
+218322	p
+s
+v
+218326	v
+v
+s
+218330	adv
+218332	vc
+p
+218335	v
+s
+218338	vc
+v
+adv
+adv
+218344	s
+v
 io
+218348	v
+io
+s
+218352	o
+218354	v
+218356	adv
+218359	adv
+218363	v
+adv
 o
+218368	v
+218370	aux
+aux
+aux
+s
+v
+o
+v
+218378	o
+s
+218381	v
+adv
+218384	adv
+v
+s
+218389	s
 adv
 v
 v
-s
-218313	v
+o
+218395	s
+218397	v
 io
 aux
-v
-s
 adv
-218320	v
-o
-s
-o
-v
-v
-o
-adv
-218330	adv
-v
-218333	v
-io
-218337	v
-io
-s
-o2
 p
 vc
-s
 adv
-o
-adv
-218349	v
+218408	v
 s
+218411	v
+v
 io
-v
-o
-218355	v
+aux
 adv
 v
-218359	v
-218361	v
-218363	v
+adv
+s
+218420	adv
+o
+v
+adv
+v
+218426	v
 io
-218366	v
+218429	v
 o
-218370	v
+adv
+218434	adv
+v
 s
-v
-218374	s
-adv
-218377	v
-adv
+218438	v
 adv
 v
-o
-218383	v
-adv
-adv
-s
-v
-v
-218390	io
-218392	adv
-adv
-v
-o
-adv
-adv
-v
-adv
-218404	v
-o
-v
-v
-o
-v
-o
-218412	v
-adv
-v
-218416	io
-adv
-v
-adv
-218421	adv
-218425	adv
-adv
-s
-218430	v
-218432	v
-o
-v
-v
-218437	v
-io
-v
-o
-s
-vc
-p
-218446	adv
+218442	io
+218444	adv
 v
 o
 v
 adv
-218454	o
-adv
-adv
+o
+218451	adv
 v
 v
 o
-218461	s
-218464	p
+218457	v
+o
+v
+218461	io
+218463	s
+218465	v
+v
+v
+adv
 218470	adv
 v
-218473	aux
 s
-218476	v
-o
+218476	o
+v
+s
+218480	v
+aux
+aux
+s
 adv
 p
-218483	s
-218487	adv
-v
-v
-218491	s
+s
+218488	v
 io
-218495	adv
-v
-218498	s
-v
-v
-adv
 p
-218504	vc
-adv
-o
-v
-v
-v
-218511	s
-218513	adv
-s
-v
 vc
-p
-s
-218520	v
-io
-o
-s
-218526	v
+218493	v
+v
 adv
+218497	adv
+218501	v
+218503	o
+s
+218506	v
+218508	adv
+218510	v
+io
+v
+adv
+v
+adv
+218517	s
+v
+adv
+adv
+218523	v
+o
+v
+v
+aux
 218529	v
+v
 o
-p
-vc
-s
-218535	adv
-p
+218533	adv
+218536	s
 218539	s
-218542	vc
-p
-218547	v
-p
-218550	v
-s
-218553	p
-s
 v
-218557	v
 v
+218543	io
 s
-218561	adv
-218563	vc
-p
-218566	v
-s
-218569	vc
-v
 adv
-adv
-218576	s
-v
-io
-218580	v
-io
-s
-218584	o
-218586	v
-218588	adv
-218591	adv
-218595	v
-adv
-o
-218600	v
-218604	aux
-aux
-aux
-s
 v
 o
-v
-218612	o
-s
-218615	v
-adv
-218618	adv
-v
-s
-218623	s
-adv
-v
-v
-o
-218629	s
-218631	v
-io
-aux
-adv
+218549	vc
 p
+adv
+v
+218554	vc
+s
+218557	p
+218560	v
+adv
+218565	v
+adv
+218568	v
+adv
+218571	v
+v
+s
+adv
+218577	v
+io
+adv
+v
+v
+v
+218584	adv
+v
+adv
+adv
+s
+v
+v
+s
+218594	s
 vc
+p
+apposition
+218599	v
 adv
-218642	v
-s
-218645	v
-o
+218602	v
+adv
 v
+o
+s
+218608	v
 io
 aux
-o
 adv
+o
+218615	v
+v
+218618	s
+218620	v
+v
+aux
 v
 adv
+218626	v
 s
-218656	adv
+apposition
+218630	o
+218634	v
 o
+218639	v
+218641	s
+v
 v
 adv
+218646	v
+o
 v
-218662	v
-io
 o
-218666	v
-o
+v
+218652	s
 adv
-218671	adv
+218656	v
+adv
+218663	adv
 v
+adv
+218668	adv
+vc
 s
-218675	v
+p
 adv
-v
-218679	io
-218681	adv
+218674	adv
 v
 o
-v
 adv
-o
-218688	adv
+218679	s
+vc
+p
+218688	v
+218690	o
 v
-v
-o
-218694	v
-o
-v
-218698	io
-218700	s
-218702	v
-v
-v
+218693	v
+adv
+218698	s
+218700	v
 adv
 apposition
-218708	adv
 v
-s
-218714	o
+218705	o
+adv
+218710	v
 v
-s
-218718	v
-aux
-aux
 s
 adv
-p
+adv
+v
+218717	s
 s
-218726	v
-io
+v
+adv
+218723	v
+o
+v
+s
 p
 vc
+s
 218731	v
 v
 adv
-218735	adv
-218739	v
-218741	o
+v
+o
+aux
+218738	adv
 s
-218744	v
-218746	adv
+v
+o
+v
+s
+p
+vc
+s
 218748	v
+aux
+adv
+vc
+218753	v
+s
+218756	s
+v
+v
+adv
+s
+p
+vc
+p
+218765	vc
+v
+218768	s
+aux
+adv
+v
+o
+v
+218775	adv
+adv
+v
+s
+v
+s
+218782	v
+s
+v
+o
+218787	v
+s
+o
+218792	v
+io
+s
+v
+adv
+v
+o
+adv
+218801	v
+adv
+v
+adv
+218806	s
+218808	v
+o
+v
+o
+v
+218814	v
+o
+v
+v
+v
+p
+vc
+v
+o
+218824	o
+v
+v
+adv
+218830	v
+s
+v
+s
+218840	v
+o
+adv
+218845	v
+218847	s
+vc
+p
+v
 io
 v
+218854	io
+218856	io
+v
+adv
+v
+218862	v
 adv
 v
 adv
-218755	s
-v
-adv
-adv
-218761	v
-o
-v
-v
-aux
-218768	v
-v
-o
-218772	adv
-218775	s
-218778	s
-v
-v
-218782	io
+218868	v
 s
-adv
-v
-o
-218788	vc
+218872	adv
+218877	v
+218879	s
+s
+218882	vc
 p
-adv
-v
-218793	vc
-s
-218796	p
-218799	v
-adv
-218804	v
-adv
-218807	v
-adv
-218810	v
+218886	s
+218888	adv
 v
 s
+v
+218893	s
+vc
+s
+218897	v
 adv
-218816	v
+adv
+v
+o
+s
+218904	v
+adv
+218909	v
+s
+218913	v
+o
+adv
+218917	v
+218919	v
+o
+v
+o
+s
+v
+v
+o
+218929	v
+o
 io
+v
+218934	v
+s
+p
+vc
+s
+218940	v
 o
-adv
-v
-v
-v
-218824	adv
-v
-adv
-adv
-s
-v
 v
 s
-218834	s
 vc
 p
-apposition
-218839	v
-adv
-218842	v
-adv
-v
-o
-s
-218848	v
+218948	s
+218950	v
 io
-aux
-adv
-o
-218855	v
-v
-218858	s
-218860	v
-v
-aux
-v
-adv
-218866	v
-s
-apposition
-218870	o
-218874	v
-o
-218879	v
-218881	s
-v
-v
-adv
-218886	v
-o
-v
-o
-v
-218892	s
-adv
-218896	v
-adv
-218902	o
-218904	adv
-v
-adv
-218910	adv
-vc
-s
-p
-adv
-218916	adv
-v
-o
-adv
-218921	s
-vc
-p
-218930	v
-218932	o
-v
-218935	v
-adv
-218940	s
-218942	v
-adv
-apposition
-v
-218947	o
-adv
-218952	v
 v
 s
-adv
-adv
-v
-218959	s
-s
-v
-adv
-218965	v
-o
 v
 s
-p
-vc
-s
-218973	v
-v
+218957	v
 adv
+218963	adv
 v
 o
-aux
+adv
+218969	s
+218971	v
+v
+218974	v
+o
+v
+adv
 218980	adv
-s
 v
-o
+adv
+218986	s
+218988	v
 v
 s
 p
 vc
-s
-218990	v
-aux
-adv
-vc
-218996	v
-s
-218999	s
-v
+218994	v
+218996	p
+218999	vc
 v
 o
 adv
+219004	vc
 s
 p
-vc
-p
-219009	vc
-v
-219012	s
-aux
 adv
-v
+219010	s
+219012	v
 o
 v
+adv
+219017	v
 219019	adv
+219021	v
+o
 adv
 v
-s
-v
-s
-219026	v
-s
-v
-o
-219032	v
-s
-o
-219037	v
-io
+adv
+219027	v
 s
 v
 adv
 v
-o
+v
+219034	o
 adv
-219046	v
-adv
-v
-adv
-219051	s
-219053	v
-o
-v
-o
-v
-219059	v
-o
-v
-v
-v
-p
-vc
-v
-o
-219069	o
-v
-v
-adv
-219076	v
-s
-v
-s
-219086	v
-o
-adv
-219091	v
-o
-219094	s
-vc
-p
+219037	s
+219039	o
 v
 io
 v
-219101	io
+219044	s
+219048	adv
+v
 o
-219104	io
-v
 adv
 v
-219111	v
+219054	o
+s
 adv
+219060	v
 v
-adv
-219117	v
-s
-219121	adv
-219126	v
-219128	s
-s
-219131	vc
-p
-219135	s
-219137	adv
+o
 v
-s
-v
-219142	s
+o
+io
 vc
+219068	p
 s
-219146	v
+219074	adv
+219077	adv
+vc
+219080	p
+vc
 adv
+s
+219085	v
+o
+219092	v
 adv
+o
+v
+io
+o
+219100	v
+o
+219103	aux
+s
+adv
+v
+adv
+v
+adv
+219112	o
+o
+v
+adv
+219117	adv
+s
+v
+219121	o
+adv
+219124	aux
+s
+219127	v
+adv
+v
+219131	o
+v
+v
+219135	adv
+v
+o
+v
+o
+v
+219142	io
+o
+s
+v
+adv
+219150	v
+adv
+219154	adv
+219156	adv
+219158	s
+v
+o
+v
 v
 o
 s
-219153	v
-adv
-219158	v
-s
-219162	v
-o
-adv
 219166	v
-219168	v
-o
+v
+v
 v
 o
 s
+219173	adv
 v
-v
+adv
 o
 219178	v
-o
-io
-v
-219183	v
-s
-p
-vc
-s
-219189	v
-o
-v
-s
-vc
-p
-219197	s
-219199	v
-io
-v
-s
-v
-s
-219206	v
-adv
-219212	adv
-v
-o
-adv
-219218	s
-219220	v
-v
-219223	v
-o
-v
-adv
-219229	adv
-v
-adv
-219235	s
-219237	v
-v
-s
-p
-vc
-219243	v
-219245	p
-219248	vc
-v
-o
-adv
-219253	vc
-s
-p
-adv
-219260	s
-219262	v
-o
-v
-adv
-219267	v
-219269	adv
-219271	v
-o
-adv
-v
-adv
-219277	v
-s
-v
-adv
-v
-v
-219284	o
-adv
-219287	s
-219289	o
-v
-io
-v
-219294	s
-219298	adv
-v
-o
-adv
-v
-219304	o
-s
-adv
-219310	v
-v
-o
-v
-o
-io
-219317	vc
-219319	p
-s
-219325	adv
-219328	adv
-vc
-219331	p
-vc
-adv
-s
-219336	v
-o
-219343	v
-adv
-o
-v
-io
-o
-219351	v
-o
-219354	aux
-s
-adv
-v
-adv
-v
-adv
-219363	o
-o
-v
-adv
-219368	o2
-adv
-s
-v
-219373	o
-adv
-219376	aux
-s
-219379	v
-adv
-v
-219383	o
-v
-v
-219387	adv
-v
-o
-v
-o
-v
-219394	io
-o
-s
-v
-adv
-219402	v
-adv
-219406	adv
-219408	adv
-219410	s
-v
-o
-v
-v
-o
-s
-219418	v
-v
-o
-v
-v
-o
-s
-219426	adv
-v
-adv
-o
-219431	o
-219433	v
 s
 o
-219437	v
+219182	v
 adv
 v
-219441	o
+219186	o
 v
 s
-219445	v
+219190	v
 adv
 v
 s
 v
-219451	v
+219196	v
 s
-219455	s
+219200	s
 v
 v
 s
-219460	v
-219462	o
-adv
-219466	v
+219205	v
+219207	adv
+219210	v
 adv
 o
 v
 o
-219472	v
+219216	v
 adv
-219477	v
+219221	v
 o
 v
 o
-219483	v
+219227	v
 adv
 v
 io
 o
 v
 adv
-219491	v
-219493	o
+219235	v
+219237	o
 s
-219500	s
+219243	s
 v
-219503	o
+219246	o
 v
-219506	adv
+219249	adv
 s
 v
 aux
 adv
 v
 adv
-219515	adv
+219257	adv
 v
-219518	adv
-219522	aux
+219260	adv
+219264	aux
 v
-s
 adv
 v
 p
 s
-219533	s
+219273	s
 adv
 v
-219538	s
+219277	s
 adv
 v
 adv
@@ -81056,765 +80946,752 @@ v
 io
 v
 adv
-219549	o
-io
+219288	io
 v
 o
-219555	adv
-219557	o
+219293	adv
+219295	o
 v
 adv
+219299	s
+v
+v
+219303	s
+219306	adv
+v
+219310	v
+adv
+219314	vc
+p
+adv
+v
+o
+219321	o
+219323	adv
+o
+219326	adv
+s
+219329	v
+aux
+v
+io
+adv
+219335	v
+o
+v
+v
+219340	o
+219342	v
+o
+219345	v
+s
+v
+v
+219350	s
+219352	v
+o
+v
+v
+o
+219358	s
+vc
+p
+219364	apposition
+v
+219367	o
+s
+219370	v
+adv
+o
+v
+io
+219376	v
+219378	s
+vc
+p
+219383	v
+o
+vc
+219387	s
+p
+p
+219392	s
+s
+219397	v
+v
+o
+s
+vc
+p
+v
+o
+219406	v
+219408	s
+v
+o
+v
+o
+adv
+v
+s
+o
+219418	p
+219421	vc
+219424	s
+219426	adv
+o
+219429	o
+v
+v
+s
+219434	o
+v
+219437	v
+aux
+v
+o
+219442	v
+adv
+219447	v
+io
+io
+v
+adv
+adv
+vc
+p
+219457	vc
+adv
+p
+219463	s
+v
+adv
+219468	adv
+219470	s
+v
+v
+219474	s
+219477	adv
+219479	v
+adv
+s
+v
+aux
+adv
+219486	v
+o
+219489	o
+219491	v
+v
+v
+219495	s
+v
+v
+o
+v
+adv
+s
+219503	p
+vc
+219506	s
+219509	v
+adv
+219513	v
+v
+v
+o
+v
+v
+219520	s
+219524	adv
+219527	v
+o
+adv
+219531	v
+o
+219534	aux
+219538	adv
+p
+p
+vc
+219544	s
+adv
+v
+adv
+219554	apposition
+219556	s
+v
+o
 219561	s
 v
-v
-219565	s
-219568	adv
-v
-219573	v
-adv
-219577	vc
-p
-adv
-v
-o
-219585	o
-219587	adv
-o
-219590	adv
-s
-219593	v
-aux
-v
 io
-adv
-219599	v
+v
 o
+219570	v
+v
+o
+adv
+219575	v
+o
+adv
+219579	adv
+adv
+v
+s
+adv
+219585	p
+vc
+219588	s
 v
 v
-219604	o
+219592	s
+s
+v
+adv
+219597	adv
+v
+o
+219603	v
+s
 219606	v
+219608	v
 o
-219609	v
-s
-v
-v
-219614	s
-219616	v
-o
-o
-v
-219621	v
-o
-219624	s
-vc
-p
-219630	apposition
-v
-219633	o
-s
-219636	v
+219612	adv
+219614	v
 adv
+219617	adv
+219621	adv
+adv
+219624	v
+v
 o
 v
+apposition
+v
+219631	s
+v
+adv
+219635	v
+219637	adv
+v
+o
+219644	v
+adv
+v
+s
+adv
+219650	aux
+s
+v
+adv
+adv
+219656	v
+p
+219659	vc
+s
+219662	v
+o
+adv
+219666	v
+adv
+adv
+v
+v
+adv
+219674	vc
+p
+219677	v
+v
+219680	v
 io
-219642	v
-o
-219645	s
-vc
-p
-219650	v
-o
-vc
-219654	s
-p
-p
-219659	s
-s
-219664	v
-v
-o
-o2
-s
-vc
-p
-v
-o
-219674	v
-219676	s
-v
-o
-v
-o
 adv
-v
+vc
+p
+219686	v
 s
-o
-219686	p
-219689	vc
-219693	s
-219695	adv
-o
-219698	o
+219691	v
 v
-v
-s
-219703	o
-v
-219706	v
-aux
-v
-o
-219711	v
 adv
-219716	v
-io
+219697	v
+219699	adv
+219701	v
+219703	v
+o
+219707	v
+adv
+219710	v
 o
 io
+219717	vc
+219719	p
+219725	apposition
+219730	v
+adv
+219733	o
+219735	v
+adv
+adv
+219739	s
+219742	v
+o
+s
+219746	v
 v
 adv
-adv
-vc
+219751	v
+v
+s
 p
-219727	vc
+219756	v
 adv
-p
-219734	s
 v
+v
+219761	aux
+s
+219764	adv
+219767	v
 adv
-219739	adv
-219741	s
-v
-v
-219745	s
-219748	adv
-219750	v
+219770	v
+adv
+adv
 adv
 s
-v
-aux
-adv
-219757	v
-o
-219760	o
-219762	v
-v
-v
-219766	s
-v
-v
-o
-v
-adv
-s
-219774	p
-vc
+p
 219777	s
-219780	v
+v
 adv
-219784	v
-v
-v
-o
-v
-v
-219791	s
-219795	adv
-219798	v
-o
 adv
-219802	v
+219783	v
+219785	v
+adv
+v
+s
+219790	v
+219792	s
+v
+v
+adv
+s
+219799	v
+adv
+v
 o
-219805	aux
-aux
-219811	adv
+v
+219805	adv
 p
-p
-vc
-219817	s
-adv
+219809	o
 v
 adv
-219827	apposition
-219829	s
+v
+219814	v
+adv
+v
+219818	s
+adv
+p
+v
+adv
+o
+s
+adv
 v
 o
-219834	s
+219829	adv
 v
+v
+adv
+adv
+219837	v
 io
-v
 o
-219843	v
-v
-o
-adv
-219848	v
-o
-adv
-219853	adv
-adv
-v
 s
-adv
-219859	p
+219842	v
+io
+o
+219848	apposition
+s
 vc
-219862	s
-v
-v
-219866	s
-219868	s
-v
-adv
-219872	adv
-v
+p
+apposition
+219857	adv
+219863	adv
+219865	v
 o
-219878	v
 s
-219881	v
-219883	v
+219872	adv
+219875	v
+o
+s
+219879	v
+219881	s
+vc
+v
+v
 o
 219887	adv
-219889	v
+219890	o
+219892	v
 adv
-219892	adv
-219896	adv
 adv
-219899	v
-v
-o
-o
-v
-apposition
-v
-219907	s
-v
-adv
-219911	v
-219913	adv
-v
-o
-219920	v
-adv
-v
-s
-adv
-219926	aux
 s
 v
+219898	s
+219902	v
+o
+adv
+v
 adv
 adv
+219910	adv
+v
+o
+219914	v
+v
+o
+219918	v
+s
+v
+s
+v
+219924	v
+s
+219928	adv
 219932	v
-219934	p
-219936	vc
-s
-219939	v
+adv
+219935	s
+219937	v
 o
-adv
-219943	v
-adv
-adv
+219940	adv
 v
+219943	s
 v
 adv
-219951	vc
-p
-219954	v
-v
-219957	v
-io
+aux
+219952	v
 adv
-vc
-p
+219955	adv
+v
+s
+o
+v
+v
+s
 219963	v
-s
+adv
 219968	v
+adv
+219975	v
+io
+adv
+219980	o
+219983	v
+adv
+219986	adv
+v
+219989	s
 v
 adv
-219974	v
-219976	adv
-219978	v
-219980	v
+v
+219994	v
 o
-219984	v
+v
+v
 adv
-219987	v
-o
-io
-219994	vc
-219996	p
-220002	apposition
-220007	v
+220001	p
+vc
+220004	v
 adv
-220010	o
+s
+220008	v
+v
+adv
 220012	v
 adv
+v
+s
 adv
-220016	s
-220019	v
+v
 o
-s
-220023	v
 v
-adv
-220028	v
+220021	v
 v
+io
 s
+220026	v
+220029	v
+o
+220032	s
 p
-220033	v
+vc
 adv
-v
-v
-220038	aux
+220037	v
+adv
 s
-220041	adv
+220041	v
+adv
 220044	v
+io
 adv
-220048	v
-adv
-adv
-adv
-s
-p
-220055	s
-v
-adv
-adv
-220061	v
-220063	v
-adv
-v
-s
-220068	v
-220070	s
-v
-v
-adv
-s
-220077	v
-adv
-v
-o
-v
-220083	adv
-p
-s
-220088	o
-v
-adv
-v
-220093	v
-adv
-v
-220097	s
-adv
-p
-v
-adv
-o
-s
-adv
-v
-o
-220108	adv
-v
-v
-adv
-adv
-220116	v
+220049	v
 io
 o
+220053	v
+adv
+220056	v
+adv
+220059	v
+v
 s
-220121	v
+220066	v
+220068	adv
+v
+s
+220072	v
+io
+220075	s
+v
+o
+220083	v
+adv
+adv
+220089	o
+220091	s
+v
+s
+v
+adv
+220098	v
+io
+s
+io
+adv
+v
+220106	p
+vc
+v
+o
+v
+220112	v
 io
 o
-220128	apposition
+adv
+v
+220118	adv
 s
+v
+adv
+220124	v
+o
+220132	s
 vc
 p
-apposition
-220137	adv
+v
+o
+220138	v
+220140	s
+o
 220143	adv
-220145	v
+v
+220146	s
+v
+v
+220150	o
+v
+v
+io
 o
+220158	adv
+220160	v
 s
-220152	adv
-220155	v
+adv
+220165	v
+v
+io
+v
 o
+adv
 s
-220159	v
-220161	s
+220173	v
+io
+o
+220178	v
+adv
+v
+v
+220183	adv
+p
+s
+220187	o
+v
+adv
+adv
 vc
+p
 v
-v
-o
-220167	adv
-220170	o
-220172	v
-adv
-adv
-s
-v
-220178	s
-220182	v
-o
-adv
-v
-adv
-adv
-220190	adv
-v
-o
-220194	v
-v
-o
-220198	v
-s
 v
 s
 v
-220204	v
-s
-220208	adv
+adv
+220205	adv
+adv
+v
+o
+220210	v
+o
 220213	v
-adv
-220216	s
-220218	v
-o
-220221	adv
-v
-220224	s
-v
-adv
-aux
-220233	v
-adv
-220236	adv
-v
-s
-o
-v
-v
-s
-220244	v
-adv
-220249	v
-adv
-220256	v
 io
+220216	adv
+v
+220219	v
+s
+220222	v
 adv
-220261	o
-220264	v
 adv
-220268	adv
-v
-220271	s
-v
+220227	v
 adv
-v
-220276	v
-o
-v
-o
-v
-adv
-220284	p
-vc
-220287	v
+220231	s
+220234	adv
+220237	v
 adv
 s
-220291	v
+p
+220242	aux
+s
+v
+o
+220249	adv
+s
+220252	v
+adv
+220255	adv
+adv
 v
 adv
-220296	v
+o
+v
+220262	o
+adv
+220266	v
+o
+220269	v
+o
+220272	v
 adv
 v
 s
+o
+v
 adv
+220280	v
+adv
+220284	s
 v
 o
 v
-220305	v
-v
-io
-s
-220310	v
-220313	v
-o
-220316	s
+adv
+adv
+220292	v
+adv
+adv
+220296	o
 p
 vc
-adv
-220321	v
-adv
-o
 s
-220326	v
+220301	s
+vc
+p
+220306	p
+vc
+s
+s
+vc
 adv
-220330	v
-io
+p
+220314	s
 adv
-220335	v
-io
+v
+220318	adv
+v
+adv
+s
+v
+p
+s
+vc
+220327	s
+vc
+p
+220333	s
+adv
+220336	v
+220338	s
 o
-220339	v
 adv
-220342	v
-adv
-220345	v
+v
 v
 s
-220352	v
-220354	adv
 v
+adv
 s
-220358	v
-io
-220361	s
+adv
+p
+s
 v
-o
+adv
+220353	v
+adv
+220357	s
+v
+adv
+220361	vc
+s
+p
+220366	v
+adv
 220369	v
-adv
-adv
-220375	o
-220377	s
-v
-s
-v
-adv
-220384	v
-io
-s
-io
-adv
-v
-220392	p
-vc
+220373	s
 v
 o
+adv
+220379	p
+220381	vc
+220383	s
+adv
 v
-220398	v
-io
+220387	s
 o
 adv
 v
-220404	adv
-s
-v
 adv
-220410	v
+220393	v
+220395	s
 o
-220418	s
-vc
+adv
+v
+s
+220401	v
+o
+v
+220405	o
 p
+vc
 v
-o
-220424	v
+adv
+220412	s
+adv
+220423	v
 220426	s
-o
-220429	adv
-v
-220432	s
-v
-v
-220436	o
-v
-v
-io
-o
-220445	adv
-220447	v
-s
-adv
-220452	v
-v
-io
-v
-o
-adv
-s
-220460	v
-io
-o
-220465	v
-adv
-v
-v
-220470	adv
-p
-s
-220475	o
-v
-adv
-adv
-vc
-p
-v
-v
-s
-v
-adv
-220493	adv
-adv
-v
-o
-220498	v
-o
-220501	v
-io
-220504	adv
-v
-220507	v
-s
-220510	v
-adv
-adv
-220515	v
-adv
-220519	s
-220522	adv
-220525	v
-adv
-s
-p
-220530	aux
-s
-v
-o
-220537	adv
-s
-220540	v
-adv
-220543	adv
-adv
-v
-adv
-o
-v
-220550	o
-adv
-220554	v
-o
-220557	v
-o
-220560	v
-adv
-v
-s
-o
-v
-adv
-220568	v
-adv
-220572	s
-v
-o
-v
-adv
-adv
-220580	v
-adv
-adv
-220584	o
 p
 vc
-s
-220589	s
-vc
-p
-220594	p
-vc
-s
-s
-vc
+220430	v
 adv
-p
-220602	s
-adv
-v
-220606	adv
-v
-adv
-s
-s
-v
-p
-s
-vc
-220616	s
-vc
-p
-220622	s
-adv
-220625	v
-220627	s
+220433	v
 o
-adv
-v
-220632	v
-s
+220438	apposition
+220446	s
 v
 adv
-s
-adv
-p
-220640	s
-v
-adv
-220644	v
-adv
-220648	s
-v
-adv
-220652	vc
-s
-p
-220657	v
-adv
-220660	v
-s
-220665	s
-v
-o
-adv
-220671	p
-220673	vc
-220675	s
-adv
-v
-220679	s
-o
-adv
-v
-adv
-220685	v
-220687	s
-o
-adv
-v
-s
-220693	v
-o
-v
-io
-220698	o
-p
-vc
-v
-adv
-220705	s
-adv
-220716	v
-220719	s
-p
-vc
-220723	v
-adv
-220726	v
-o
-220731	apposition
-220739	s
-v
-adv
-220743	v
+220450	v
 v
 s
 vc
@@ -81824,2289 +81701,2244 @@ adv
 v
 p
 vc
-220754	p
+220461	p
 adv
 vc
-220759	adv
-220762	s
+220465	adv
+220468	s
 v
 o
 adv
-220767	s
+220473	s
 adv
 v
 s
-220774	adv
-220776	v
+220480	adv
+220482	v
 o
 s
 v
 adv
 aux
-220783	vc
+220489	vc
 p
-220788	s
+220494	s
 v
-220791	p
+220497	p
 vc
 s
-220798	v
+220503	v
 adv
 s
 adv
 o
-220805	v
+220510	v
 o
 s
 p
 vc
-220811	v
-220813	adv
+220516	v
+220518	adv
 v
-220816	v
-220818	s
+220521	v
+220523	s
 adv
 vc
 p
+220528	v
+o
+p
+220532	s
+p
+vc
+220536	v
+adv
+vc
+p
+vc
+s
+220543	v
+adv
+v
+220547	io
+p
+vc
+220551	o
+v
+v
+o
+o
+v
+adv
+v
+s
+p
+v
+adv
+220564	v
+o
+220568	v
+s
+apposition
+220572	v
+vc
+p
+220577	v
+o
+220580	v
+io
+adv
+220584	v
+220586	s
+adv
+vc
+p
+220594	v
+io
+s
+v
+s
+v
+adv
+adv
+v
+s
+o
+s
+adv
+v
+adv
+v
+adv
+adv
+vc
+s
+p
+220616	v
+o
+220621	s
+adv
+v
+adv
+220626	adv
+v
+s
+adv
+v
+s
+v
+adv
+220635	v
+v
+p
+220641	v
+o
+220645	s
+vc
+adv
+s
+v
+adv
+v
+s
+p
+vc
+220656	p
+adv
+vc
+s
+adv
+v
+o
+220665	v
+io
+adv
+v
+s
+adv
+v
+220673	v
+s
+v
+220677	v
+s
+v
+adv
+220682	adv
+220684	v
+adv
+s
+adv
+v
+o
+220691	v
+o
+v
+adv
+s
+io
+v
+adv
+v
+s
+v
+220703	adv
+s
+vc
+v
+adv
+220709	s
+v
+220712	v
+220714	s
+vc
+p
+220719	adv
+adv
+v
+s
+220730	v
+s
+v
+v
+v
+p
+220739	v
+s
+220742	s
+v
+220745	v
+o
+adv
+v
+220750	s
+220752	v
+s
+v
+v
+io
+o
+v
+s
+220761	v
+io
+s
+vc
+v
+aux
+adv
+v
+v
+io
+o
+v
+220774	v
+220776	v
+220779	v
+adv
+v
+220783	adv
+v
+adv
+220787	s
+vc
+p
+vc
+s
+apposition
+220795	p
+220799	v
+adv
+220802	v
+o
+v
+s
+adv
+o
+220812	v
+io
+v
+o
+s
+vc
+p
+v
+o
+adv
 220823	v
 o
-o2
-p
-220828	s
-p
-vc
-220832	v
-adv
-vc
-p
-vc
 s
-220839	v
-adv
-v
-220843	io
-o
-220846	p
-vc
-220849	o
-v
-v
-o
-o
-v
-adv
 v
 s
+vc
 p
+apposition
+220832	s
+vc
+s
+vc
+p
+adv
+v
 v
 adv
+220844	v
+o
+220847	v
+io
+s
+v
+o
+vc
+220854	s
+p
 220862	v
+s
 o
 220866	v
-s
-apposition
-220870	v
-vc
-p
-220875	v
-o
-220878	v
-io
-adv
-220882	v
-220884	s
-adv
-vc
-p
-220892	v
-io
-s
-v
-o
-s
-v
-adv
-adv
-v
-s
-o
-s
-adv
-v
-apposition
-adv
-v
-adv
-adv
-vc
-s
-p
-220916	v
-o
-220921	s
-adv
-v
-adv
-220927	adv
-v
-s
-adv
-v
-s
-v
-adv
-220936	v
-o
-220940	v
-p
-220945	v
-o
-220949	s
-vc
-adv
-s
-v
-adv
-v
-s
-s
-p
-vc
-220961	p
-adv
-vc
-s
-adv
-v
-o
-220969	o2
-220971	v
-io
-adv
-v
-s
-adv
-v
-220979	v
-s
-v
-220983	v
-s
-v
-adv
-220988	adv
-220990	v
-adv
-s
-adv
-v
-o
-220997	v
-o
-v
-adv
-s
-io
-v
-o2
-adv
-v
-s
-v
-221010	adv
-s
-vc
-v
-adv
-221016	s
-v
-221019	v
-221021	s
-vc
-p
-221026	adv
-adv
-v
-s
-221037	v
-s
-v
-v
-o
-v
-p
-221047	v
-s
-221050	s
-v
-221053	v
-o
-adv
-v
-221058	s
-221060	v
-s
-v
-v
 io
 o
 v
 s
-221069	v
+adv
+220874	s
+v
+o
+220878	apposition
+220880	apposition
+220883	v
 io
+s
+p
+v
+s
+vc
+v
+io
+s
+o
+v
+220896	v
+v
+s
+s
+v
+adv
+220903	v
+adv
+aux
+adv
+p
+s
+adv
+vc
+v
+io
+s
+adv
+o
+v
+v
+s
+220920	v
+io
+adv
+o
+s
+v
+vc
+p
+220929	v
+s
+v
+io
+s
 aux
 s
 vc
-v
-aux
-adv
-v
-v
-io
-o
-v
-221083	v
-221085	v
-221088	v
-adv
-v
-221092	adv
-v
-adv
-221096	s
-vc
+p
+220940	s
 p
 vc
+220944	v
 s
-apposition
-221104	p
-221108	v
+220947	v
+io
+220950	v
+io
+220953	v
+o
 adv
-221111	v
+220957	v
 o
 v
-s
-adv
-o
-221121	v
+220961	v
+io
+v
 io
 v
 o
-221126	s
-vc
-p
+s
 v
-o
+220970	s
+220973	v
+220975	adv
+220980	adv
+220983	s
+v
 adv
-221133	v
-o
+220989	vc
+s
+220993	p
+v
+220996	s
+221002	adv
+221005	v
 s
 v
 s
-vc
-p
-apposition
-221142	s
-vc
-p
-s
-vc
-p
-adv
-v
-v
-adv
-221155	v
+221011	adv
 o
-221158	v
+adv
+v
+221016	v
+io
+s
+s
+p
+221022	aux
+adv
+v
+s
+221027	v
+s
+221030	io
+o
+v
+io
+v
+v
+221037	adv
+s
+221046	v
+adv
+221051	v
 io
 s
 v
 o
+adv
+221058	v
+o
+adv
+221062	v
+io
+o
+v
+adv
+221068	v
+io
+s
+221072	v
+221076	v
+s
+o
+221080	p
 vc
-221165	s
+221084	adv
+v
 p
+vc
+s
+221091	v
+v
+o
+v
+o
+s
+221098	v
+io
+s
+adv
+o
+221104	v
+221107	v
+o
+s
+v
+o
+221113	adv
+221115	o
+v
+221119	s
+adv
+221124	v
+o
+221128	v
+adv
+s
+221132	adv
+v
+adv
+s
+221145	adv
+v
+adv
+221150	p
+vc
+s
+221156	v
+adv
+s
+221160	v
+adv
+221163	s
+v
+o
+221170	v
 221173	v
-s
 o
-221177	v
-io
-o
-v
-s
-adv
-221185	s
-v
-o
-221189	apposition
-221191	apposition
-221194	v
-io
-s
-p
-v
-s
-vc
-v
-io
-s
-o
-v
-221207	v
-v
-s
-s
-v
-adv
-221214	v
-adv
-aux
-adv
-p
-p
-s
-adv
-vc
-v
-io
-s
 adv
 o
 v
-v
-s
-221232	v
-io
 adv
-o
-s
+221180	o
+221187	o
+221189	v
+221192	o
 v
-vc
-p
-221241	v
+221195	o
+v
+v
+v
+o
+adv
+adv
+v
+o
+221207	o2
+v
 s
+221212	v
+s
+221217	v
+o
+v
+221221	s
+221223	v
+io
+o
 v
 io
+221229	o
+v
+v
 s
-aux
-s
-vc
-p
-221252	s
-p
-vc
-221256	v
-s
-221259	v
+221234	v
 io
 o
-221263	v
-io
-221266	v
+v
 o
+221241	adv
+221243	v
+o
+v
+221247	s
+o
+adv
+221251	v
+s
+221255	s
+adv
+221258	v
+o
+s
+221262	v
 adv
 221270	v
-o
+adv
 v
-221274	v
-io
-v
-io
-v
-o
 s
+221276	o
 v
-221283	s
-221286	v
-221288	adv
-221293	adv
+221279	v
+o
+221284	o
+v
+s
+221289	vc
+p
+221292	adv
+221294	adv
 221296	s
 v
 adv
-221302	vc
-s
-221306	p
-v
-221309	s
-221315	adv
-221319	v
-s
-v
-s
-221325	adv
+221301	v
 o
-adv
+221304	o
 v
-221330	v
+s
+221308	adv
+v
+o
 io
+adv
 s
-o2
+v
+o
+221318	adv
+o
+v
+221322	s
+v
+adv
+221326	s
+221328	v
 s
+vc
 p
-221337	aux
+221333	v
+221335	s
+221339	p
+s
 adv
+apposition
+221344	s
 v
-s
-221342	v
-s
-221345	io
-o
-o
-v
+adv
+adv
+221349	v
 io
+aux
 v
+221354	adv
 v
-221353	adv
+adv
 s
+221359	v
 221362	v
-adv
-221367	v
-io
+o
 s
 v
-o
-adv
-221374	v
-o
-adv
-221378	v
-io
-o
-v
-adv
-221384	v
-io
-s
-221388	v
-221393	v
-s
-o
-221397	p
+221367	adv
 vc
-221401	adv
+s
+p
+v
+s
+221374	v
+io
+v
+io
+221379	adv
+s
+v
+adv
+adv
+v
+v
+o
+221389	v
+adv
+s
+adv
+v
+s
 v
 p
 vc
-s
+v
+o
+adv
+221405	adv
+v
 221408	v
 v
-o
-v
-o
 s
-221415	v
+v
 io
-o
-s
-adv
-o
-221422	v
-221425	v
-o
+221414	adv
 s
 v
-o
-221431	adv
-221433	o
+adv
+221420	adv
 v
-221437	s
-adv
-221442	v
-o
-221446	v
-adv
-s
-221450	adv
 v
 adv
+221427	v
+adv
+221430	p
+vc
+221433	v
+adv
+221436	p
+vc
+adv
+v
+221441	v
+io
+v
 s
+v
+adv
+s
+adv
+v
+v
+221453	o
+221455	v
+221457	adv
+v
+o
+adv
+v
 221463	adv
 v
-adv
-221468	p
+p
 vc
+s
+v
+adv
+221471	v
 s
 221474	v
-adv
-s
-221478	v
-adv
-221481	s
-v
-o
-221488	v
-221492	v
-o
-adv
-o
-v
-adv
-221499	o
-221506	o
-221508	v
-221511	o
-v
-221514	o
-v
-v
-o2
-v
-o
-adv
-adv
-v
-o
-221527	o2
-v
-s
-221532	v
-s
-221537	v
-o
-v
-221541	s
-221543	v
-io
-o
-v
-io
-221549	o
-v
-v
-s
-221554	v
-io
-o
-v
-o
-221561	adv
-221563	v
-o
-v
-221567	s
-o
-adv
-221571	v
-s
-221575	s
-adv
-221578	v
-o
-s
-221582	v
-adv
-221591	v
-adv
-v
-s
-221597	o
-v
-221600	v
-o
-221606	o
-v
-s
-221612	vc
-p
-221615	adv
-221617	adv
-221619	s
-v
-adv
-221624	v
-o
-221628	o
-v
-s
-221632	adv
-v
-o
 io
 adv
+v
 s
 v
-o
-221643	adv
-o
 v
-221647	s
-v
-adv
-221651	s
-221653	v
+s
+221483	v
+io
+o
 s
 vc
 p
-221659	v
-221661	s
-221665	p
+221492	o
+adv
+v
+v
+io
+221498	o
+v
+v
+221502	o
+v
+v
+221506	o
+221508	adv
+v
+221512	o
+v
+io
+221516	adv
+v
+adv
+221520	v
+io
+o
+v
+221525	s
+v
+adv
+221530	adv
 s
 adv
+221534	v
 apposition
-221670	s
+221540	s
+v
+o
+adv
+221545	adv
+v
+v
+s
+221552	s
+v
+adv
+v
+o
+adv
+221559	v
+s
+o
+221563	o
+221566	v
+221569	s
 v
 adv
 adv
-221675	v
+v
+221575	v
+o
+221579	v
+s
+o
+adv
+221585	v
+o
+221589	v
+s
+adv
+v
+adv
+adv
+v
+adv
+v
+adv
+v
+221601	adv
+v
+adv
+221610	p
+221612	vc
+s
+221615	s
+v
+adv
+221620	v
+s
+adv
+o
+221625	o
+vc
+221628	s
+p
+221631	s
+221633	o
+v
+v
+o
+221638	adv
+v
+adv
+221643	adv
+v
+s
+221648	v
+o
+v
+adv
+221654	v
+s
+221658	adv
+v
+adv
+v
+s
+221667	adv
+221672	adv
+v
+adv
+221676	v
+v
+221679	s
+adv
+adv
+221684	s
+p
+vc
+adv
+221690	v
+221692	v
+adv
+221695	v
+adv
+221698	s
+v
+221701	s
+adv
+221705	adv
+adv
+221708	v
+adv
+221712	v
 io
 aux
+s
+vc
+p
+adv
+221720	io
+s
 v
-221680	adv
+aux
+s
+v
+221727	s
 v
 adv
+v
 s
-221685	v
-o
-221689	v
-o
+221733	v
+adv
+v
 s
 v
-221694	adv
+o
+221740	adv
+v
+io
+adv
+221745	s
+io
+v
+221749	v
+o
+adv
 vc
 s
 p
-v
-s
-221701	v
-io
-v
-io
-o
-221707	adv
-s
-v
-adv
-adv
-v
-v
-o
-221717	v
-adv
-s
-o
-adv
-v
-s
-v
-p
-vc
-v
-o
-adv
-221734	adv
-v
-221737	v
-v
-s
-v
-io
-o
-221744	adv
-s
-v
-adv
-221750	adv
-v
-v
-adv
 221757	v
 adv
-221760	p
-vc
-221763	v
-adv
-221766	p
-vc
-221769	adv
-v
-221772	v
-io
-v
-s
-v
-adv
-s
-adv
-v
-v
-221784	o
-221786	v
-221788	adv
 v
 o
-adv
-v
-221794	adv
-v
 p
 vc
 s
-v
-adv
-221802	v
-s
-221805	v
-io
-adv
-v
-s
-v
-v
-s
-221814	v
-io
+221768	v
+221770	v
 o
+adv
+v
+adv
+221778	s
+221783	v
 s
-vc
+v
+v
+s
+221789	v
+adv
+v
 p
-221823	o
+vc
+221795	vc
+p
+221798	p
+221800	vc
+221802	adv
+221804	v
 adv
-v
-v
-io
-221829	o
-v
-v
-221833	o
-v
-v
-221837	o
-221839	adv
-v
-221844	o
-v
-io
-221848	adv
-v
-adv
-221852	v
-io
+221807	v
+p
+vc
 o
 v
-221857	s
+221813	o
 v
-adv
-221862	adv
-s
-adv
-221866	v
-apposition
-221873	s
+221816	o
+221818	s
+v
 v
 o
-adv
-221879	adv
-v
-v
-s
-221886	s
-v
-adv
-v
+221823	v
+221825	s
+p
+vc
 o
-221892	adv
-221894	v
+221830	v
 s
 o
-221899	o
+221835	v
+adv
+221838	adv
+v
+o
+s
+v
+o
+221845	o
+v
+adv
+221850	v
+adv
+221853	v
+o
+221856	v
+o
+adv
+v
+o
+221862	s
+221865	v
+adv
+221869	v
+s
+221872	v
+s
+221875	s
+o
+v
+221880	s
+221883	s
+adv
+v
+221887	s
+221889	v
+o
+221892	v
+adv
+adv
+221896	v
+221898	s
+v
+adv
 221902	v
-221905	s
-v
-adv
-adv
-v
-221911	v
-o
-221915	v
-s
-o
-adv
-221921	v
-o
-221925	v
-s
-adv
-v
-adv
-adv
-v
-adv
-v
-adv
-v
-221937	adv
-v
-adv
-221946	p
-221948	vc
-s
-221951	s
-v
-adv
-221957	v
-s
-adv
-o
-221962	o
-vc
-221965	s
+221904	adv
+221909	vc
 p
-221969	s
-221971	o
+221913	o
 v
+s
+io
+apposition
+221919	vc
+221921	p
+s
+221924	s
+221926	v
+adv
+221929	v
+adv
+adv
+221933	s
+vc
+p
 v
+s
+221940	v
 o
-221976	adv
 v
-adv
-221981	adv
+io
+s
+v
+io
 v
 s
-221987	v
-o
-v
+221951	v
 adv
-221993	v
+221955	o
+v
+v
+221959	io
 s
-221997	adv
-v
+221962	apposition
 adv
-v
 s
-222006	adv
-222011	adv
-v
-adv
-222015	v
-v
-222018	s
-adv
-adv
-222023	s
 p
 vc
 adv
-222029	v
-222031	v
-adv
-222034	v
-adv
-222037	s
+221969	v
 v
-222040	s
+apposition
+p
+vc
 adv
-222044	adv
+221976	v
+s
 adv
+v
+s
+221982	v
+io
+221985	v
+o
+221991	p
+vc
+v
+io
+v
+io
+v
+s
+v
+o
+222002	v
+io
+o
+v
+v
+io
+aux
+adv
+o
+v
+222013	s
+vc
+p
+adv
+222018	v
+o
+222021	v
+s
+p
+vc
+222028	s
+v
+io
+o
+222034	s
+adv
+v
+222038	s
+222044	v
+s
 222047	v
-adv
-222051	v
 io
+o
+s
+v
+adv
+222055	v
+adv
+s
+222059	v
+adv
+222062	o
+s
+v
+io
+adv
+v
+adv
+222071	s
+o
+v
+io
+vc
+adv
+p
+222079	v
+adv
+222082	v
+adv
+s
 aux
-s
-vc
-p
-adv
-222059	io
-s
-v
-aux
-s
-v
-222066	s
-v
-adv
-v
-s
-222072	v
-o
-adv
-v
-s
-v
-o
-222080	adv
 v
 io
+o
+222092	adv
+v
+222095	v
 adv
-222085	s
+v
+v
 io
 v
-222089	v
-o
-adv
-vc
-s
-p
-222097	v
-adv
 v
 o
-p
-vc
+222105	v
+adv
+v
 s
-222108	v
 222110	v
+adv
+v
 o
-adv
 v
-adv
-222118	s
-222123	v
+io
 s
-v
-v
-s
-222129	v
 adv
 v
-p
+222120	o
+adv
+v
+222124	o
+222126	v
+222128	adv
+o
+v
+adv
 vc
-222135	vc
 p
-222138	p
-222140	vc
-222142	adv
-222144	v
-adv
-222147	v
-p
+o
+o2
+v
+v
+io
+s
+aux
+v
+222143	p
 vc
-o
+s
+s
+222148	adv
+222151	v
+222153	s
 v
-222153	o
-v
-222156	o
-222158	s
-v
-v
-o
-222163	v
-222165	s
-p
+222156	p
 vc
-o
-222170	v
 s
-o
-222175	v
 adv
-222178	adv
 v
-o
+v
+v
+io
 s
 v
 o
-222185	o
-v
-adv
-222190	v
-adv
-222193	v
-o
-222196	v
-o
-adv
-v
-o
-222202	s
-222205	v
-adv
-222210	v
+aux
+222169	v
 s
-222213	v
+adv
+222178	v
+o
 s
-222216	s
+v
+o
+adv
+v
+s
+v
 o
 v
-222221	s
-222224	s
+222190	s
+p
+222193	vc
+222195	v
+s
+222198	p
+vc
+s
+222202	v
+o
 adv
+222207	adv
+222209	s
+o
+v
+v
+adv
+p
+s
+222217	v
+adv
+222221	v
+v
+v
+io
+s
 v
 222228	s
-222230	v
-o
-222233	v
-adv
-adv
-222237	v
-222239	s
 v
-adv
-222243	v
-222245	adv
-222250	vc
+vc
 p
-222255	o
+222233	v
+s
+v
+io
+o
+v
+io
+s
+s
+vc
+v
+io
+222246	adv
 v
 s
-io
-apposition
-222261	vc
-222263	p
+222251	v
+222253	adv
+v
 s
-222266	s
-222268	v
+222257	v
+o
+o
+v
+222262	adv
+v
 adv
-222271	v
+222266	v
+222268	o
+222270	s
+222272	v
 adv
-adv
-222275	s
+222276	v
+io
+v
+v
+s
+v
+io
+o
+o
+v
+s
 vc
 p
 v
-s
-222282	v
-o
-v
-io
-s
-v
-io
-v
-s
+adv
 222293	v
 adv
-222297	o
-v
-222300	v
-222302	io
-s
-222305	apposition
 adv
-s
-p
-vc
-adv
-222312	v
-v
-apposition
-p
-vc
-adv
-222319	v
-s
-adv
-v
-s
-222325	v
-io
+222297	v
 o
+s
+v
+aux
+v
+s
+222305	v
+io
+s
+o
+v
+v
+o
+s
+adv
+v
+v
+222317	s
+adv
+s
+v
+io
+v
+v
+io
+s
+s
+vc
 222329	v
 o
-222335	p
-vc
+222332	v
+o
+222335	v
+o
+222338	s
 v
-io
-v
-io
-v
+222341	p
 s
+vc
+222345	s
 v
-o
-222346	v
-io
-o
-v
-v
-io
 aux
-adv
-o
-v
-222357	s
-vc
-p
-adv
-222362	v
-o
-222365	v
-s
-p
-vc
-adv
-222373	s
 v
 io
 o
+v
+o
+222355	v
+o
+222358	p
+vc
+adv
+adv
+v
+o
+v
+222366	v
+o
+adv
+222371	s
+v
+adv
+v
+222376	v
+adv
 222379	s
-adv
-v
+vc
+p
 222383	s
-222389	v
-s
-222392	v
-io
-o
+vc
+v
+222387	s
+v
 s
 v
-adv
-222400	v
+o
+v
+o
 adv
 s
+v
+s
+v
+222400	s
+adv
 222404	v
 adv
-222408	o
-s
-v
-io
-adv
+222409	s
 v
 adv
-222417	s
-222419	o
-v
-io
-vc
-adv
-p
-222426	v
-adv
-222429	v
-adv
-s
-aux
-v
+222413	adv
+222418	v
+222420	v
 io
 o
-222439	adv
-v
-222442	v
-adv
-v
-v
-io
 o
 v
-v
-o
-222453	v
+222427	v
 adv
+s
 v
 s
+v
+adv
+222435	v
+adv
+adv
+222439	s
+v
+adv
+222444	io
+222446	v
+222448	adv
+adv
+222452	v
+222454	s
+222456	v
 222458	v
+222460	s
+vc
 adv
-v
-o
-v
-io
-s
-o2
-222467	adv
-v
-222470	o
+p
+222466	adv
+222470	v
 adv
-v
-222474	o
+adv
+222474	s
 222476	v
-222478	adv
+222478	s
+adv
+222482	o
+adv
+v
+222487	v
+adv
+222490	v
+o
+s
+o
+v
 o
 v
 adv
-vc
-p
+adv
+222500	s
+222502	v
+adv
+222505	v
+222507	adv
+adv
+222512	adv
+v
 o
 o2
-v
-v
-io
-s
-aux
-v
-222493	p
-vc
+222517	v
 s
 s
-222498	adv
-222501	v
-222503	s
-v
-222506	p
-vc
-s
-222510	adv
-v
-v
-v
-io
-s
-v
-o
-aux
-222520	v
-s
+222521	v
 adv
-222529	v
-o
 s
 v
-o
+222526	s
+v
 adv
-v
-s
-v
+222533	v
+adv
+222536	v
+222538	v
+222540	v
 o
+222543	v
+222545	v
 v
-222541	s
-p
-222544	vc
-222547	v
-s
-222550	p
-vc
-s
+222548	s
+adv
+222551	adv
+o
 222554	v
-o
 adv
-222559	adv
-222561	s
-o
 v
 v
 adv
-p
 s
-222569	v
-adv
-222573	v
-v
-v
-io
-s
-o2
-v
-222581	s
-v
-vc
-p
-o
-222587	v
-s
-v
-io
-o
-v
-io
-s
-s
-vc
-v
-io
-222600	adv
-v
-s
-222606	v
-222608	adv
-v
-s
-222612	v
-o
-o
-v
-222617	adv
-v
-adv
-222621	v
-222623	o
-222625	s
-222627	v
-adv
-222631	v
-io
-o
-222635	v
-v
-o
-s
-v
-io
-o
-o
-v
-s
-vc
-p
-v
-adv
-222651	v
-adv
-adv
-222655	v
-o
-s
-v
 aux
 v
+222563	v
 s
-222663	v
+222566	v
 io
 s
+v
+s
+222572	v
+v
+s
+o
 o
 v
+io
+s
+222581	v
+adv
+222584	s
+v
+s
 v
 o
+v
+222591	s
+222593	v
+v
+222596	o
+adv
+adv
+p
+vc
+v
+222603	io
+222605	adv
+adv
+v
+o
+s
+v
+222612	s
+222614	adv
+222616	adv
+v
+io
+s
+s
+222622	v
+222624	v
+s
+222630	o
+222632	adv
+222634	v
+s
+v
+adv
+222642	adv
+v
+s
+222647	v
+s
+adv
+vc
+222652	p
+222654	adv
+222656	s
+222658	vc
+adv
+p
+o
+v
+adv
+v
+s
+222667	v
+apposition
+v
+o
+222673	s
+222675	adv
+v
+adv
+222680	v
+o
+s
+222684	v
+adv
+222689	p
+vc
 s
 adv
 v
-v
-222675	s
 adv
+vc
+222697	s
+p
+adv
+222701	v
+adv
+222705	adv
 s
+v
+s
+v
+222711	v
+222713	adv
+adv
+v
 v
 io
 v
+p
+vc
 v
 io
-s
-s
-vc
-222687	v
-o
-222690	v
-o
-222693	v
-o
-222696	s
-v
-222699	p
-s
-vc
-222703	s
 v
 aux
+o
+adv
+v
+222730	v
+s
+v
+o
+adv
+222736	adv
+adv
+222739	v
+s
+s
+adv
+v
 v
 io
-o
+s
+v
 v
 o
-222713	v
-o
-222716	p
-vc
-adv
-adv
-v
-o
-v
-222724	v
-o
-adv
-222729	s
-v
-adv
-v
-222734	v
-adv
-222737	s
+222752	v
+222754	adv
 vc
 p
-222741	s
+s
+222760	v
+o
+222764	v
 vc
+222767	p
+adv
+222771	v
+222773	s
 v
-222745	s
+o
+p
+vc
+222779	adv
 v
+adv
+v
+o
 s
-v
-o
-v
-o
-adv
-s
-v
-s
-v
-222758	s
-adv
-222762	v
-adv
-222767	s
-v
-adv
-222771	adv
-222776	v
-222778	v
-io
-o
-o
-v
 222786	v
-adv
+io
+v
+o
+o2
 s
+io
 v
-s
+o
 v
-adv
-222794	v
-adv
-adv
-222798	s
+o
+222799	v
 v
-adv
-222803	io
-222805	v
-222807	adv
-adv
-222811	v
-222813	s
-222815	v
-222817	v
-222819	s
+o
+p
 vc
+s
+222806	v
+io
+o
+v
+222811	v
+222813	v
 adv
+v
+p
+vc
+s
+222820	v
+s
+vc
 p
 222825	adv
-222829	v
+v
+o
+s
 adv
-adv
-222833	s
-222835	v
-222837	s
-adv
-222841	o
+222832	v
+io
+aux
+p
+vc
 adv
 v
+222840	adv
+s
+adv
+v
+v
+s
 222847	v
-adv
-222850	v
-o
-s
-o
-v
-o
-v
-adv
-adv
-222860	s
-222862	v
-adv
-222865	v
-222867	adv
-adv
-222873	adv
+io
+222850	p
+vc
 v
 o
 o2
-222878	v
+222856	adv
+v
 s
-222881	s
-222883	v
-adv
-s
-v
-222888	s
-v
-adv
-222895	v
-adv
-222898	o
-v
-222901	v
-222903	v
 o
-222906	v
-222908	v
-v
-222911	s
-adv
-o
-222915	adv
-o
-222918	v
-adv
-v
+222861	o
 v
 adv
 s
-aux
+222866	v
+io
+s
+222870	adv
 v
+s
+v
+adv
+222876	adv
+v
+o
+s
+v
+222883	adv
+v
+o
+222887	o2
+222889	v
+o
+o2
+o
+v
+adv
+v
+222897	s
+222899	v
+io
+v
+io
+adv
+v
+s
+v
+adv
+o
+222910	adv
+o
+v
+s
+v
+o
+222917	s
+v
+o
+s
+222922	adv
+v
+222925	s
 222927	v
-s
-222930	v
-io
-s
-o2
-v
-s
-222937	v
-v
-s
 o
-222942	o
+222930	o
 v
 io
+o
 s
-222947	v
-222949	adv
-222951	s
 v
-s
+222937	o
+222939	v
+io
+222942	s
+v
+222947	s
 v
 o
+222951	v
+adv
+s
+222955	o
 v
-222958	s
-222960	v
 v
+222959	s
+v
+o
 222963	o
-adv
-adv
-p
-vc
+222965	v
+io
+222968	s
 v
-222970	io
-222972	adv
+o
+222972	v
+o
 adv
 v
 o
-s
+adv
 v
-222979	s
-222981	adv
-222984	adv
+o
+222981	v
+o
 v
 io
-s
-s
+222986	o
+222988	v
 222990	v
-222992	v
-s
-222998	o
-223000	adv
-223002	v
-s
 v
-adv
-223010	adv
+o
 v
-s
-223015	v
-s
+o
+222997	adv
 adv
+v
+223001	v
+adv
+223004	adv
+223006	v
+io
+223009	v
+s
+223012	p
 vc
-223020	p
-223022	adv
-223024	s
-223026	vc
-adv
-p
-o
-v
-223033	adv
-v
-s
-223037	v
-apposition
+223015	s
 v
 o
-223044	s
-223046	adv
+223023	v
+v
+223027	s
+v
+o
+adv
+adv
+io
+223034	v
+o
 v
 adv
+223039	o
+v
+io
+o
+v
+223045	p
+vc
+adv
+v
+o
 223051	v
-o
-223054	s
-223056	v
 adv
-223061	p
-vc
 s
-adv
+223057	v
+o
+223061	v
+o
 v
 adv
+223066	o
+v
+adv
+223070	adv
+v
+s
+v
+adv
+o
+apposition
+223078	v
+v
+223081	s
+223084	p
 vc
-223069	s
+223088	v
+o
+223093	o
+223095	v
+o
+223098	s
+v
+adv
+s
+223103	adv
+vc
 p
-adv
-223073	v
-adv
-223077	adv
-s
-v
-s
-v
-223083	v
-223085	adv
-adv
-v
-v
-io
-v
 p
 vc
 v
-io
-v
-aux
-o
-adv
-v
-223102	v
-s
-v
-o
-adv
-223108	adv
 adv
 223111	v
+223113	p
+vc
 s
-s
+o
+v
 adv
+s
 v
-v
+adv
+223123	v
 io
 s
-o2
-v
-v
-o
-223125	v
 223127	adv
+adv
+o
+v
+223132	o
+v
+223135	s
+v
+223138	s
 vc
 p
-s
-223133	v
-o
-223137	v
-vc
-223140	p
-adv
+223142	v
 223144	v
-223146	s
-v
-o
-p
-vc
-223152	adv
+s
+223147	v
 v
 adv
+adv
+223153	s
+223155	v
+o
+223160	s
+223163	o
 v
+io
+s
+223168	v
+o
+223172	o
+v
+v
+adv
+223177	s
+o
+v
+223181	aux
+223183	v
 o
 s
-223159	v
-io
 v
-o
-o2
-s
-io
-v
-o
-v
-o
-223172	v
-v
-o
-p
-vc
-s
-223179	v
-io
-o
-v
-223184	v
-223186	v
+adv
+223190	o
 adv
 v
-p
-vc
-223192	s
-223194	v
-s
-vc
-p
+223194	o
+v
+223197	s
 223199	adv
 v
+adv
+v
+223204	o
+v
+s
 o
 s
 adv
-223206	v
-io
-aux
-p
-vc
+v
+v
+o
+223214	s
+v
 adv
+o
 v
-223214	adv
-s
-adv
-v
-v
-s
-223221	v
-io
-223224	p
+223220	s
 vc
 v
-o
-o2
-223230	adv
+adv
+223225	adv
 v
-s
+v
+adv
+223230	o
+v
 o
-223235	o
+adv
+adv
+v
+223237	v
+o
+223240	o
+223243	adv
 v
 adv
 s
-223240	v
+v
+adv
+223254	adv
+v
+o
+223258	s
+v
+adv
+223264	o
+v
+adv
+v
+s
+v
+o
+adv
+v
+223274	o
+223276	apposition
+223280	adv
+v
+adv
+v
+223285	s
+v
+o
+adv
+223290	vc
+v
+o
+adv
+s
+v
+223298	v
+o
+v
+o
+adv
+223304	s
+v
+223308	o
+223310	adv
+v
+adv
+o
+223315	v
+adv
+v
+s
+adv
+223324	apposition
+v
+223327	o
+s
+223330	v
+o
+o
+v
+adv
+v
+v
+223338	adv
+223340	s
+223342	adv
+v
+adv
+223347	vc
+223349	p
+s
+223352	apposition
+223355	adv
+v
+223358	o
+s
+223361	v
+223363	s
+v
+adv
+v
+adv
+adv
+v
+o
+223372	v
+s
+o
+223376	v
+v
+o
+s
+223381	v
+o
+v
+v
+v
 io
-o
 s
-223245	adv
-v
 s
-v
-223250	adv
-223252	adv
-v
-o
-s
-v
-223259	adv
-v
-o
-223263	o2
-223265	v
-o
-o2
-o
+223390	adv
 v
 adv
-v
-223273	s
-223275	v
-io
-v
-io
-o
-adv
-v
-s
-v
-adv
-o
-223287	adv
-o
-v
-s
-v
-o
-223294	s
-v
-o
-s
-223299	adv
-v
-223302	s
-223304	v
-o
-223307	o
-v
-io
-o
-s
-v
-223314	o
-223316	v
-io
-223319	s
-v
-223325	s
-v
-o
-223329	v
-adv
-s
-223333	o
-v
-v
-223337	s
-v
-o
-223341	o
-223343	v
-io
-223346	s
-v
-o
-223350	v
-o
-adv
-v
-o
-adv
-v
-o
-223359	v
-o
-v
-io
-223364	o
-223366	v
-223368	v
-v
-o
-v
-o
-223375	adv
-adv
-v
-223379	v
-adv
-223382	adv
-223384	v
-io
-223388	v
-s
-223391	p
-vc
 223394	s
-v
-o
-223402	v
-v
-223406	s
-v
-o
-adv
-adv
-io
-223413	v
 o
 v
-adv
-223418	o
 v
 io
-o
-v
-223424	p
-vc
-223427	adv
-v
-o
-223431	v
 s
-adv
-s
-223438	v
-o
-223442	v
-o
-o
-v
-adv
-223448	o
-v
-adv
-223452	adv
-v
-s
-v
-adv
-o
+223404	apposition
 apposition
+223408	o
+vc
+s
+p
+s
+v
+o
+223420	s
+p
+vc
+adv
+v
+s
+v
+s
+v
+vc
+223431	s
+p
+223434	v
+223436	s
+adv
+p
+v
+223441	o
+s
+223444	v
+v
+v
+adv
+adv
+223452	o
+v
+223456	v
+v
+io
 223460	v
-v
-223463	s
-223466	p
-vc
-223470	v
 o
-223475	o
-223477	v
+223463	v
+223465	adv
+s
+v
+v
+223471	v
 o
-223481	s
-v
 adv
+adv
+223478	apposition
 s
-223486	adv
+v
+v
+s
+223484	v
+o
+v
+apposition
+v
+223490	s
 vc
+adv
 p
-p
-vc
-v
+223495	v
 adv
-223494	v
-223496	p
-vc
-s
-223500	o
+223498	s
+223501	v
+223503	v
+o
 v
-adv
-s
-v
-adv
 223507	v
-io
-s
-223511	adv
-adv
+o
+223510	v
 o
 v
-223516	o
+adv
+adv
+223518	s
 v
-223519	s
 v
-223522	s
-vc
-p
+s
+223523	adv
 223526	v
-223528	v
-s
-223531	v
+adv
 v
 adv
+223531	adv
+223534	s
 adv
-223537	s
-223539	v
-o
+v
+223538	adv
+v
+adv
+s
+s
 223544	s
-223548	o
 v
-io
-s
+v
+v
+223549	o
 223553	v
 o
-apposition
-223558	o
-v
-v
-adv
-223563	s
-o
-v
-223567	aux
-223569	v
-o
 s
 v
 adv
-223576	o
+223560	adv
+223562	v
+223564	v
+s
+223567	v
+io
+s
+vc
 adv
 v
-223580	o
 v
-223583	s
+223575	v
+o
+adv
+223580	adv
+vc
+s
+p
 223585	adv
 v
 adv
-v
-223590	o
-v
 s
-o
-s
+223590	v
 adv
-v
-v
-o
-223600	s
-v
-adv
-o
-v
-223606	s
-vc
-v
-adv
-223611	adv
-v
-v
-adv
-223616	o
-v
-o
-adv
-adv
-v
-223623	v
-o
-223626	o
-223629	adv
-v
-adv
-s
-v
-adv
-223640	adv
-v
-o
-223645	s
-v
-adv
-223651	o
-v
-adv
-v
-s
-v
-o
-adv
-v
-223661	o
-223663	apposition
-223667	adv
-v
-adv
-v
-223672	s
-v
-o
-adv
-223677	vc
-v
-o
-p
-adv
-s
-v
-223688	v
-o
-v
-o
-adv
-223694	s
-v
-223699	o
-223701	adv
-v
-adv
-o
-223706	v
-adv
-v
-s
-adv
-223715	apposition
-223717	v
-223719	o
-s
-223722	v
-o
-223725	o
-v
-adv
-v
-v
-223731	adv
-223733	s
-223735	adv
-v
-adv
-223740	vc
-223742	p
-s
-223745	apposition
-223748	adv
-v
-223751	o
-s
-223754	v
-223756	s
-v
-adv
-v
-adv
-o
-adv
-v
-o
-223766	v
-s
-o
-223770	v
-v
-o
-s
-223775	v
-o
-v
-v
-v
-io
-s
-o2
-s
-223785	adv
-v
-adv
-223789	s
-o
-v
-v
-io
-s
-223799	apposition
-apposition
-223803	o
-vc
-s
-p
-s
-v
-o
-223815	s
-p
-vc
-adv
-v
-s
-v
-s
-v
-vc
-223826	s
-p
-223830	v
-223832	s
-adv
-p
-223836	v
-223838	o
-s
-223841	v
-v
-v
-adv
-adv
-223849	o
-v
-223854	v
-v
-io
-223858	o
-v
-o
-223862	v
-223864	adv
-s
-v
-v
-223870	v
-o
-adv
-adv
-223877	apposition
-s
-v
-v
-s
-223883	v
-o
-o
-v
-apposition
-v
-223890	s
-vc
-adv
-p
-223895	v
-adv
-223898	s
-223901	v
-223903	v
-o
-v
-223907	v
-o
-223910	v
-o
-v
-adv
-adv
-223918	s
-v
-v
-s
-223923	adv
-223926	v
-adv
-v
-adv
-223931	adv
-223934	s
-adv
-v
-223938	adv
-v
-adv
-s
-s
-223944	s
-v
-v
-v
-223949	o
-223953	v
-o
-s
-v
-adv
-223960	adv
-223962	v
-223964	v
-s
-223967	v
-io
-o
-s
-vc
-adv
-v
-v
-223976	v
-o
-adv
-223981	adv
-vc
-s
-p
-223987	adv
-v
-223990	adv
-s
-223993	v
-adv
-223996	v
-223998	s
+223593	v
+223595	s
 adv
 vc
 p
-224003	adv
+223600	adv
 s
-224008	v
+223605	v
 adv
-224011	s
+223608	s
 adv
-224015	adv
+223612	adv
 s
-224018	v
-224020	v
+223615	v
+223617	v
 s
 adv
 adv
-224026	adv
+223622	adv
 v
 o
 v
 s
-224033	v
+223629	v
 s
-224036	s
+223632	s
 adv
 vc
 p
-224041	s
-224043	v
+223637	s
+223639	v
 s
 adv
-224048	v
+223644	v
 adv
 v
 o
-224053	v
+223649	v
 o
 adv
-224057	v
+223653	v
 io
 aux
 adv
@@ -84115,450 +83947,443 @@ v
 v
 io
 s
-224067	v
+223663	v
 v
 io
-o
 v
 o
-224075	v
+223670	v
 o
-224080	v
+223675	v
 adv
-224084	v
-224086	v
+223679	v
+v
 o
-224090	v
-224095	v
+223684	v
+223688	v
 adv
-224098	o
+223691	o
 s
-224102	io
+223695	io
 v
 o
-224106	s
-224108	v
+223699	s
+223701	v
 apposition
 v
-224112	adv
-o
+223705	adv
 o
 v
-224117	v
+223709	v
 o
-224121	v
+223713	v
 s
-224124	v
+223716	v
 io
 p
 vc
 s
-224131	v
+223723	v
 adv
 o
 v
 s
 v
-224138	io
+223730	io
 o
-o
-224142	v
+223733	v
 s
-224146	v
-224148	v
+223737	v
+223739	v
 o
 o
 v
-224153	s
+s
+223745	o
+v
+adv
+223750	v
+o
+223754	v
+io
+v
+v
+223759	io
+s
+v
+io
+o
+s
+v
+io
+o
+223772	s
+223774	v
+io
+o
+223782	s
+223786	vc
+v
+adv
+223791	o
+v
+io
+v
+223796	adv
+aux
+adv
+v
+io
+o
+223803	v
+io
+s
+s
+vc
+p
+223811	v
+adv
+adv
+v
+223816	v
+adv
+adv
+v
+adv
+223822	v
+io
+223826	v
+o
+223829	adv
+v
+s
+o
+v
+io
+s
+adv
+v
+223839	v
+adv
+adv
+v
+adv
+223845	v
+adv
+223850	v
+o
+223855	o
+223857	v
+o
+p
+223861	vc
+s
+223864	v
+o
+aux
+o
+v
+io
+adv
+v
+adv
+223874	v
+o
+adv
+223879	p
+223881	vc
+s
+223886	s
+v
+o
+223890	v
+adv
+v
+o
+223895	v
+o
+s
+adv
+223901	v
+223903	s
+adv
+223906	v
+s
+vc
+p
+223911	v
+adv
+223915	v
+s
+vc
+223919	apposition
+223921	adv
+s
+v
+o
+223928	adv
+adv
+v
+223932	adv
+223934	v
+v
+s
+223938	v
+io
+adv
+v
+adv
+s
+v
+v
+adv
+223948	adv
+s
+223951	v
+o
+v
+o
+s
+v
+o
+adv
+223961	v
+adv
+223965	vc
+s
+p
+s
+v
+adv
+223973	v
+v
+adv
+223977	o
+v
+s
+223981	vc
+p
+223984	s
+v
+o
+v
+io
+v
+v
+o
+s
+vc
+p
+223997	s
+223999	v
+adv
+224002	o
+224004	v
+s
+vc
+p
+224009	adv
+224011	v
+224014	s
+adv
+v
+224018	adv
+v
+s
+vc
+p
+224025	v
+adv
+224028	v
+224030	s
+v
+adv
+224035	v
+adv
+224038	s
+224042	o
+s
+v
+p
+224047	vc
+adv
+224052	v
+224054	adv
+s
+v
+adv
+v
+s
+io
+v
+o
+v
+v
+224066	io
+s
+v
+io
+224071	v
+o
+224078	v
+o
+224081	adv
+v
+o
+adv
+v
+o
+224089	v
+o
+224092	v
+o
+s
+v
+o
+adv
+224099	s
+224102	p
+vc
+224105	s
+224107	p
+vc
+v
+o
+224113	v
+o
+224116	adv
+v
+s
+adv
+224121	v
+o
+s
+224125	v
+s
+v
+adv
+224130	aux
+224132	v
+o
+s
+v
+adv
+s
+vc
+p
+224141	adv
+v
+224145	v
+s
+224148	v
+v
+o
+224152	v
+adv
 224155	o
 v
 adv
-224160	v
-o
-224164	v
-io
 v
-v
-224169	io
+adv
 s
-v
-io
-o
+224162	v
+224166	v
+p
+vc
 s
+224171	s
 v
-io
 o
-224182	s
+v
+v
+224177	s
+adv
+224180	v
+adv
+s
 224184	v
 io
-o
-224192	s
-224196	vc
-v
-adv
-224201	o
-v
-io
-v
-224206	adv
-aux
-adv
-v
-io
-o
-224213	v
-io
 s
+o
+v
+224191	v
+s
+224195	v
+p
+vc
+adv
 s
 vc
-p
-224221	v
-adv
-adv
-v
-224226	v
-adv
-adv
-v
-adv
-224232	v
-io
-224236	v
-o
-224239	adv
 v
 s
+adv
+v
 o
+s
+o
+s
 v
 io
+p
+vc
+224214	p
+vc
+224217	v
+224220	s
+adv
+v
+v
+224225	adv
 s
-adv
-v
-224249	v
-adv
-adv
-v
-adv
-224256	v
-adv
-224261	v
-o
-224266	o
-224268	v
 o
 p
-224272	vc
-s
-224275	v
+vc
+adv
+v
+224233	p
+vc
+v
 o
+224238	v
+adv
+v
+io
+224243	s
+v
+v
+adv
+224248	adv
+v
+io
+adv
+224253	adv
+s
+224257	v
+adv
+224261	adv
+adv
+v
+v
+224266	s
+io
+s
+v
+v
+v
+io
+s
 aux
+adv
+v
 o
+224279	v
+224282	s
 v
-io
-adv
-v
-adv
 224285	v
-o
-adv
-224290	p
-224292	vc
-s
-224297	s
-v
-o
-224301	v
-adv
-v
-o
-224306	v
-o
-s
-adv
-224312	v
-224314	s
-adv
-224317	v
-s
+224287	s
 vc
 p
-224322	v
-adv
-224326	v
-o
-s
-vc
-p
-224332	apposition
-224334	adv
-s
-v
-o
-224341	adv
-adv
-v
-224345	adv
-224347	v
-v
-s
-224351	v
-io
-adv
-v
-adv
-224357	s
-v
-v
-adv
-224362	adv
-s
-224365	v
-o
-v
-o
-s
-v
-o
-adv
-224375	v
-adv
-224379	vc
-s
-p
-s
-v
-adv
-224387	v
-v
-adv
-224391	o
-v
-s
-224395	vc
-p
-224398	s
-v
-o
-v
-io
-v
-v
-o
-s
-vc
-p
-224411	s
-224413	v
-adv
-224416	o
-224418	v
-s
-vc
-p
-224423	adv
-224425	v
-224428	s
-adv
-v
-224432	adv
-v
-s
-vc
-p
-224439	v
-adv
-224442	v
-224444	s
-v
-adv
-224449	v
-adv
-224452	s
-224457	o
-s
-v
-p
-224462	vc
-adv
-224467	v
-224469	adv
-s
-v
-adv
-v
-s
-io
-v
-o
-v
-v
-224481	io
-s
-v
-io
-o
-224487	v
-o
-224494	v
-o
-224497	adv
-v
-o
-adv
-224502	v
-o
-224506	v
-o
-224509	v
-o
-s
-v
-o
-adv
-224516	s
-224519	p
-vc
-224522	s
-224524	p
-vc
-224527	v
-o
-224531	v
-o
-224534	adv
-v
-s
-adv
-224540	v
-o
-s
-224544	v
-s
-v
-adv
-224549	aux
-224551	v
-o
-s
-v
-adv
-s
-vc
-p
-224560	adv
-v
-224564	v
-s
-224567	v
-v
-o
-224571	v
-adv
-224574	o
-v
-adv
-v
-adv
-s
-224581	v
-224585	v
-p
-vc
-s
-224590	s
-v
-o
-v
-v
-224596	s
-adv
-224599	v
-adv
-s
-224603	v
-io
-s
-o
-v
-224610	v
-s
-224614	v
-p
-vc
-adv
-224619	s
-vc
-v
-s
-adv
-v
-o
-s
-224628	o
-s
-v
-io
-p
-vc
-224635	p
-vc
-224638	v
-s
-224642	s
-adv
-v
-v
-224647	adv
-s
-o
-p
-vc
-adv
-v
-224655	p
-vc
-v
-o
-224660	v
-adv
-v
-io
-224665	s
-v
-v
-adv
-224670	adv
-v
-io
-adv
-224675	adv
-s
-224679	v
-adv
-224683	adv
-adv
-v
-v
-224688	s
-io
-s
-v
-v
-v
-io
-s
-aux
-adv
-v
-o
-224701	v
-224704	s
-v
-224707	v
-224709	s
-vc
-p
-224714	v
+224292	v
 io
 s
 o
@@ -84566,144 +84391,143 @@ s
 o
 apposition
 v
-224723	s
-224725	p
+224301	s
+224303	p
 vc
 v
-224729	o
-224733	s
-224735	v
+224307	o
+224310	s
+224312	v
 v
 o
 p
-224742	adv
+224319	adv
 v
 s
 adv
-224747	adv
-224749	v
+224324	adv
+224326	v
 adv
-224752	v
-224754	v
+224329	v
+224331	v
 o
 s
 v
 vc
-224760	p
+224337	p
 s
-224765	apposition
+224342	apposition
 v
-224768	adv
+224345	adv
 s
-224771	o
-v
+224348	v
 adv
-224775	v
+224351	v
 adv
-224779	s
-224782	v
+224355	s
+224358	v
 o
-224786	o
+224361	o
 v
 s
-224790	o
+224365	o
 adv
 v
-224794	v
+224369	v
 s
 p
 vc
-224800	o
+224374	o
 v
 v
 o
 io
 adv
-224807	s
-224809	v
+224381	s
+224383	v
 adv
 v
-224813	io
+224387	io
 s
 o
 s
-224819	adv
+224393	adv
 v
 s
-224825	adv
+224399	adv
 vc
 p
-224829	adv
+adv
 v
 s
 v
 o
 o
-224836	v
-224838	s
+224409	v
+224411	s
 v
 adv
-224842	s
-224844	p
+224415	s
+224417	p
 vc
 s
 v
 adv
-224850	s
+224423	s
 adv
 v
 adv
-224857	s
-224859	adv
+224430	s
+224432	adv
 v
 o
-224863	v
+224436	v
 io
 v
 adv
-224871	v
+224443	v
 s
-224874	adv
-224876	adv
+224446	adv
+224448	adv
 s
 v
 adv
-224884	s
-224886	v
+224456	s
+224458	v
 o
 adv
-224891	v
+224463	v
 p
 vc
 s
-224896	s
-224898	vc
+224468	s
+224470	vc
 p
 adv
-224902	s
-224904	v
-224906	p
+224474	s
+224476	v
+224478	p
 vc
 s
-224910	v
+224482	v
 o
 adv
-224914	v
+224486	v
 o
 s
-224918	adv
+224490	adv
 v
 adv
 adv
-224926	adv
-224928	s
+224497	adv
+224499	s
 v
 v
 s
 adv
-224935	v
+224506	v
 v
-224938	s
+224509	s
 v
 adv
 s
@@ -84712,41 +84536,41 @@ v
 adv
 v
 v
-224948	io
+224519	io
 s
-224951	v
+224522	v
 o
 s
-224955	adv
+224526	adv
 vc
 p
-224959	v
+224530	v
 o
-224963	s
+224533	s
 v
 o
-224967	v
+224537	v
 v
 adv
-224971	o
+224541	o
 adv
 p
-224975	vc
-224977	s
+224545	vc
+224547	s
 adv
 v
 adv
 v
 o
-224985	v
-224987	v
+224555	v
+224557	v
 o
-224990	v
+224560	v
 o
 s
 p
 vc
-224996	s
+224566	s
 p
 adv
 vc
@@ -84754,8 +84578,8 @@ s
 v
 io
 o
-225005	s
-225007	v
+224575	s
+224577	v
 o
 adv
 o
@@ -84764,7 +84588,6 @@ v
 v
 s
 o
-o
 v
 s
 o
@@ -84772,53 +84595,52 @@ v
 v
 v
 s
-225025	v
+224594	v
 io
 o
 o
 v
-225031	s
+224600	s
 v
 adv
 s
 v
 io
 o
-225040	p
-225042	vc
-225044	p
-225047	adv
+224609	p
+224611	vc
+224613	p
+224616	adv
 v
 o
-225053	o
+224620	o
 v
 s
 adv
-225058	adv
+224625	adv
 v
 s
-225062	o
-o
+224629	o
 v
-225066	o
+224632	o
 o2
 v
 adv
-225071	v
+224637	v
 adv
-225074	o
-225076	v
+224640	o
+224642	v
 v
-225079	s
-225082	s
+224645	s
+224648	s
 vc
 o
 v
 v
-225088	aux
+224654	aux
 adv
 v
-225092	o
+224658	o
 io
 v
 adv
@@ -84826,8831 +84648,8686 @@ adv
 adv
 v
 s
-225101	s
+224667	s
 vc
 p
-225105	o
+224671	o
 v
 p
 vc
 aux
-225112	v
+224678	v
 s
 v
 p
 vc
 v
+224685	adv
+224687	v
+s
+224690	v
+o
+o
+v
+224695	v
+p
+vc
+224699	adv
+adv
+v
+224703	vc
+p
+v
+o
+o
+s
+adv
+v
+s
+v
+o
+224715	p
+vc
+s
+o
+v
+v
+224722	o
+v
+224725	s
+v
+adv
+o
+224730	adv
+v
+s
+224734	adv
+224737	s
+v
+adv
+224741	v
+aux
+224744	v
+o
+v
+o
+s
+v
+v
+s
+s
+v
+adv
+o
+224757	v
+s
+224762	o
+224764	v
+o
+v
+224768	s
+o
+adv
+adv
+p
+vc
+224775	v
+adv
+v
+o
+224780	v
+o
+224783	adv
+v
+224786	p
+vc
+s
+s
+adv
+v
+v
+v
+224795	s
+adv
+adv
+s
+v
+v
+224802	s
+adv
+v
+o
+o
+adv
+224811	v
+v
+224814	v
+o
+p
+vc
+224820	o
+v
+224823	v
+o
+224826	adv
+v
+224829	p
+vc
+s
+s
+adv
+v
+v
+adv
+224841	apposition
+224844	v
+s
+224847	v
+v
+224850	s
+v
+v
+adv
+224855	v
+v
+adv
+224859	v
+s
+s
+adv
+224865	v
+224867	v
+o
+224870	v
+adv
+224873	o
+v
+v
+v
+adv
+adv
+224880	v
+s
+224883	s
+adv
+v
+s
+224889	v
+o
+224892	v
+s
+vc
+adv
+p
+s
+v
+s
+vc
+p
+s
+224904	v
+224906	adv
+224908	s
+v
+s
+v
+224913	adv
+224920	apposition
+p
+vc
+s
+v
+s
+s
+224928	v
+adv
+224931	adv
+s
+224934	v
+224936	v
+o
+224939	s
+v
+adv
+o
+v
+224945	s
+adv
+224951	v
+io
+s
+adv
+adv
+v
+o
+v
+s
+adv
+v
+adv
+s
+s
+v
+224967	v
+224969	io
+s
+s
+v
+s
+224976	v
+adv
+224979	s
+224982	s
+224985	adv
+v
+o
+p
+vc
+v
+s
+adv
+v
+adv
+adv
+p
+vc
+224999	s
+225001	v
+o
+225005	adv
+v
+adv
+adv
+225010	v
+o
+v
+v
+225015	v
+io
+s
+p
+225020	vc
+v
+225023	v
+225025	adv
+225027	s
+adv
+v
+225031	v
+s
+adv
+225036	s
+225038	v
+adv
+225043	adv
+225045	adv
+v
+adv
+225050	s
+225052	v
+adv
+225055	v
+v
+o
+v
+225060	s
+225064	adv
+o
+adv
+v
+225069	v
+o
+adv
+v
+io
+aux
+s
+225077	v
+adv
+v
+adv
+225083	s
+io
+v
+o
+v
+s
+225090	o
+v
+o
+225094	v
+v
+o
+225098	v
+v
+o
+s
+225103	adv
+v
+adv
+v
+adv
+225111	v
+v
+o
+v
+v
+adv
+s
 225119	adv
-225121	v
-s
-225124	v
 o
-o
-v
-225129	v
-p
-vc
-225133	adv
 adv
 v
-225137	vc
-p
-s
-v
-o
-o
-s
+225124	adv
 adv
 v
-225147	s
-v
-o
-225151	p
-vc
-s
-o
-v
-v
-225158	o
-v
-225161	s
 v
 adv
-o
-225166	adv
+225130	s
+225132	adv
 v
-s
-225170	adv
-225173	s
+225135	adv
+225137	v
 v
 adv
-225177	v
+v
+adv
+225143	adv
+225147	v
+adv
+s
+225151	s
+adv
+v
+adv
+v
+225157	s
+225159	o
+v
+adv
+225163	v
+io
 aux
-225180	v
+p
+vc
+s
+225171	s
 o
 v
-o
 s
+225176	v
+s
+aux
 v
-225187	v
+225181	io
 s
+adv
 s
+o
+v
+v
+225189	adv
 v
 adv
-o
-225194	o
+225193	io
 v
 s
-225200	o
+v
+s
+vc
+p
 225202	v
 o
+adv
 v
-225206	s
+adv
+225209	v
 o
-adv
-adv
-p
-vc
 225213	v
+225215	io
+s
+s
 adv
 v
-o
-225218	v
-o
-225221	adv
-v
-225224	p
+s
+225222	adv
 vc
+p
+v
 s
-s
-adv
-v
-v
-v
-225233	s
-adv
-o
-adv
+225228	v
+io
 s
 v
-v
-225241	s
 adv
-v
-o
-o
-adv
-225250	v
-v
-225253	v
-o
 p
 vc
 s
-225260	o
-v
-225263	v
+225238	v
 o
-225266	adv
+adv
 v
-225269	p
+225243	adv
+v
+s
+225247	adv
+v
+o
+adv
+v
+225253	adv
+v
+s
+adv
+225258	v
+s
+adv
+v
+o
+adv
+225265	v
+225267	s
+s
+225271	p
 vc
-s
-s
+225275	p
 adv
-v
-v
-adv
-225281	apposition
-225284	v
-s
-225287	v
-v
+vc
+225279	s
+225281	v
 o
+adv
+225289	v
 225291	s
-v
+225294	p
+vc
+225297	s
+vc
 v
 adv
-225296	v
-v
+225302	v
 adv
-225300	v
 s
-s
-adv
 225306	v
-225308	v
 o
-225311	v
-adv
-225315	o
 v
-v
-v
-adv
-adv
-225322	v
-s
-225325	s
-adv
-v
-s
-225331	v
-o
-225334	v
-s
-vc
-adv
+225310	io
 p
+vc
+s
+225315	v
+s
+o
+225319	o
+v
+225322	o
+225325	o
+v
+o
+225330	v
+o
+225333	v
+adv
+225336	v
+adv
+225340	s
+v
+o
+225344	adv
+v
+s
+225348	v
+225350	adv
+io
+s
+v
+225355	v
+o
+225358	adv
+225361	v
+adv
 s
 v
 s
+adv
+v
+v
+v
+225371	s
+v
+o
+225375	v
+adv
+s
+v
+s
+adv
+v
+v
+225384	v
+io
+s
+p
+225389	vc
+s
+p
+225393	vc
+s
+p
+225398	vc
+s
+adv
 vc
 p
-s
-225346	v
-225348	adv
-225350	s
+225405	v
+225407	io
+225409	v
+adv
+225415	adv
 v
-s
-v
-225355	adv
-225362	apposition
-225364	p
+225418	s
 vc
-s
-v
-s
-s
-225371	v
-adv
-225374	adv
-s
-225377	v
-225379	v
-o
-225382	s
 v
 adv
-o
+225424	v
+225426	io
+s
+p
+vc
 v
-225388	s
-adv
-225394	v
 io
 s
 adv
+o
 adv
 v
+io
 o
 v
-s
 adv
 v
-adv
-s
-s
-v
-225410	v
-225412	io
-s
-s
-v
-s
-225419	v
-adv
-225422	s
-225425	s
-225428	adv
-v
-o
-p
-vc
-v
-s
-adv
-v
-adv
-adv
-p
-vc
-225442	s
 225444	v
 o
-225448	adv
-v
-adv
-adv
-225453	v
-o
-v
-v
-225458	v
-io
-s
 p
-225463	vc
+vc
+s
+o
 v
+adv
+o
+v
+adv
+225456	adv
+v
+225459	o
+io
+v
+v
+225464	s
 225466	v
-225468	adv
-225470	s
-adv
+o
+225470	adv
 v
-225474	v
+225473	s
+vc
+225477	adv
+v
+o
+225482	v
+o
 s
+o
+v
+225488	v
+o
+p
+vc
 adv
-225479	s
-225481	v
+v
+o
+o2
+225497	s
+o
+225500	v
 adv
-225486	adv
-225488	adv
+o
+s
+v
+s
 v
 adv
-225493	s
-225495	v
+v
+225510	s
 adv
-225498	v
+225514	v
+o
+225517	s
+v
+adv
+225523	adv
+p
+vc
+225528	v
+o
+225531	s
 v
 o
 v
-225503	s
-225507	adv
-o
 adv
+p
+vc
+225539	o
 v
-225512	v
-o
 adv
+adv
+s
+v
+225546	p
+vc
 v
 io
-aux
 s
-225520	v
-adv
 v
-adv
-225526	s
 io
+225554	s
 v
 o
-v
-s
-225533	o
-v
-o
-225537	v
-v
-o
-225541	v
-v
-o
-s
-225546	adv
+p
+vc
+225560	s
+225562	adv
 v
 adv
-v
-adv
-225555	v
-v
-o
-v
-v
-adv
-s
-225563	adv
-o
-adv
-v
-225568	adv
-adv
-v
+225566	adv
+225568	s
 v
 adv
 225574	s
-225576	adv
-v
-225579	adv
-225581	v
+o
 v
 adv
+p
+vc
+v
+225582	p
+vc
+225585	v
+o
+v
+225589	s
+225592	adv
 v
 adv
-225587	adv
-225591	v
-adv
+o
 s
-225595	s
-adv
 v
 adv
-v
-225601	s
+225600	v
+s
 225603	o
 v
 adv
 225607	v
+v
+225610	v
 io
-aux
+s
+225614	p
+vc
+v
+io
+s
+225620	p
+225622	vc
+o
+225626	v
+adv
+225629	v
+o
+v
+s
+o
+io
+v
+o
+v
+adv
+225640	o
+s
+adv
+v
+s
+v
+o
+225650	v
+io
+s
+adv
+adv
+v
+o
+225658	v
+apposition
+v
+io
+s
+225664	s
 p
 vc
-s
-225615	s
-o
-v
-s
-225620	v
-s
-aux
-v
-225625	io
-s
-o2
-adv
-s
-o
-v
-v
-225634	adv
-v
-adv
-225638	io
-v
-s
 v
 o
-s
-vc
-p
-225648	v
-o
-adv
-v
-adv
-225655	v
-o
-225659	v
-225661	io
-s
-s
-adv
-v
-s
-225668	adv
-vc
-p
-v
-s
+225670	s
+225672	adv
 225674	v
-io
+225676	v
+225679	adv
+v
+225682	s
 o
-225678	s
 v
 adv
+o
+225689	adv
+v
+225692	adv
+v
+v
+o
+225699	s
+p
+225703	apposition
+vc
+225706	o
+225710	v
+v
+s
 p
 vc
-s
-225686	v
-o
 adv
+225717	adv
+225719	adv
 v
-225691	adv
-v
-s
-225695	adv
-v
-o
-adv
-v
-225701	adv
-v
-s
-adv
-225706	v
-s
-adv
-v
-o
-225713	adv
-225715	v
-225717	s
-s
-225721	p
+225722	adv
 vc
-225725	p
+s
+p
+225727	v
+o
 adv
-vc
-225729	s
 225731	v
-o
-adv
-225739	v
-225741	s
-225744	p
+225734	p
 vc
-225747	s
-vc
+225737	p
+225739	aux
+225742	o
 v
 adv
-225752	v
+v
+o
+s
+225749	v
+o
+adv
+225753	o
+v
 adv
 s
-225756	v
-o
+adv
 v
-225760	io
+o
+vc
 p
+225763	o
+225766	v
+adv
+s
+adv
+v
+225772	p
+225774	adv
+vc
+v
+s
+225779	v
+io
+adv
+v
+s
+225785	p
 vc
 s
-225765	v
+225789	o
+v
+v
 s
 o
-225769	o
-v
-225772	o
-225776	o
-v
+225795	s
 o
-225781	v
-o
-225784	v
 adv
-225787	v
-adv
-225791	s
 v
+225800	v
 o
-225795	adv
+225804	s
 v
-s
-225799	v
-225801	adv
-io
 o
 s
+225809	adv
 v
-225807	v
 o
-225810	adv
 225813	v
-adv
-s
 v
-s
-adv
+225816	v
 v
-v
-v
-225823	s
-o
-v
-o
-225828	v
-adv
-s
-v
-s
-adv
-v
-v
-225837	v
 io
+225820	s
 o
+225823	v
+o
+adv
+v
+adv
+225829	v
+io
+s
+adv
+v
+225835	o
+v
+225838	s
+v
 225841	s
-p
-225844	vc
-s
-p
-225848	vc
-225850	s
-p
-225854	vc
-s
+225843	s
+v
+225846	s
+o
+225849	v
 adv
+v
+o
+adv
+225855	s
+p
+vc
+225861	s
+v
+225864	s
+v
+o2
+o
+v
+v
+s
+225872	s
+v
+o
+s
+225877	p
+vc
 vc
 p
-225862	v
-225864	io
-225866	v
-adv
-225873	adv
-v
-225876	s
-vc
-v
-adv
 225882	v
-225884	io
+o
+adv
 s
-p
+v
+225888	p
 vc
+225891	adv
 v
-io
+o
 s
-p
-adv
+225896	v
 o
-adv
+225899	v
+225901	adv
 v
-io
 o
-v
-adv
-v
-225903	v
-o
-p
 vc
+p
+225909	v
+o
+225912	o
+225914	v
 s
-o
-v
-adv
-o
-v
-adv
-225915	adv
-v
-225918	o
-io
-v
-v
-225923	s
+apposition
+225918	v
+225920	v
 o
 225926	v
-o
-225930	adv
+225928	v
 v
-225933	s
-vc
-225937	adv
-v
-o
-225943	v
-o
-s
-o
-v
-225949	v
-o
-p
-vc
-adv
-v
-o
-o2
-225958	s
-o
-225961	v
+225931	s
 adv
 o
+o
+adv
+v
+225938	o
+v
+v
+io
 s
+v
+io
+225946	s
 v
 s
 v
-adv
 v
-225971	s
+225952	o
+225954	v
 adv
-225975	v
-o
-o
-225979	s
+s
+225958	v
+225960	v
+adv
+225964	v
 v
-adv
-225985	adv
-p
-vc
-225990	v
 o
+225970	v
+o
+s
+225974	v
+aux
+s
+v
+s
+225983	adv
+v
+v
+s
+o
+225990	s
+v
 225993	s
+225997	v
+s
+226001	adv
+s
+v
 v
 o
-v
-adv
+226007	v
 o
+226010	s
+v
+v
+s
+s
+v
+v
+226018	p
+226020	vc
 p
 vc
-226002	o
+226024	o
+v
 v
 adv
+226029	v
+o
 adv
-s
+226034	v
+o
+226037	adv
+226040	v
+io
 v
-226009	p
+v
+adv
+226048	s
 vc
 v
-io
+226052	v
+226055	v
+226057	v
+v
+s
+226063	v
+o
+adv
+226067	p
+vc
+v
+s
+vc
+v
+226074	v
 s
 v
-io
-226017	s
+226078	p
+vc
+s
 v
 o
+adv
+226085	p
+adv
+vc
+s
+v
+226091	s
+vc
+v
+226095	io
+adv
+226098	v
+s
+226101	v
+s
+s
+226105	vc
 p
-vc
-226024	s
-226026	adv
-v
-adv
-226030	adv
-226032	s
-v
-adv
-226038	s
 o
 v
-adv
-p
-vc
-v
-226046	p
-vc
-226050	v
+226110	v
 o
-v
-226054	s
-226057	adv
-v
-adv
-o
-s
-v
-adv
-226065	v
-s
-226068	o
-v
-adv
-226072	v
-v
-226075	v
+226114	v
 io
-s
-226079	p
-vc
-v
-io
-s
-o2
-226086	p
-226088	vc
-o
-226092	v
-adv
-226095	v
-o
-v
-apposition
-s
-o
-io
-v
-o
-v
-adv
-226107	o
-s
-adv
-v
-s
-v
-o
 226117	v
-io
-o
-s
 adv
+226121	v
 adv
 v
-o
 226126	v
-apposition
 v
+226129	v
 io
-s
-o2
-226133	s
 p
 vc
-v
-o
-226139	s
-226141	adv
-226143	v
-226145	v
-226148	adv
-v
-226151	s
-o
+s
 v
 adv
-o
-226158	adv
 v
+v
+o
+adv
+226143	vc
+226145	p
+adv
+adv
+o
+v
+s
+226152	v
+o
+226155	adv
+226157	v
+o
+s
 226161	adv
 v
-v
-o
-226168	s
-p
-226172	apposition
-vc
-226175	o
-226179	v
-v
 s
-p
-vc
-adv
-226186	adv
-226188	adv
+226165	v
+io
+o
+o
 v
-226191	adv
+adv
+226175	v
+226177	v
+v
+226180	s
+226183	adv
 vc
 s
 p
-226198	v
-o
-adv
-226202	v
-226205	p
-vc
-226208	p
-226210	aux
-226213	o
-v
+226189	o
 adv
 v
-o
 s
-226220	v
-o
-adv
-226225	o
 v
 adv
+v
 s
-adv
-v
 o
+v
+226200	s
 vc
 p
-226235	o
-226238	v
+v
+226205	io
 adv
+o
 s
+v
+adv
+226212	v
+o
+226215	s
+226217	v
+226219	p
+vc
 adv
 v
-226244	p
+226224	s
+adv
+226227	vc
+p
+226230	v
+adv
+adv
+v
+o
+226237	v
+226239	v
+o
+v
+s
+vc
 226246	adv
+s
+v
+226250	adv
+v
+adv
+226254	v
+adv
+v
+226258	s
+226261	v
+v
+o
+226265	s
 vc
-v
-s
-226251	v
-io
-adv
-v
-s
-226257	p
-vc
-s
-226261	o
-v
-v
-s
-o
-226267	s
-o
-adv
-v
-226272	v
-o
-226276	s
-v
-o
-s
-226281	adv
-v
-o
-226285	v
-v
-226288	v
-v
-io
-o
-226293	s
-o
-226296	v
-o
-adv
-v
-adv
-226302	v
-io
-s
-adv
-v
-226308	o
-v
-226311	s
-v
-226314	s
-226316	s
-v
-o
-226320	s
-o
-226323	v
-adv
-v
-o
-adv
-226329	s
 p
-vc
-adv
-226336	s
+226271	adv
 v
-226339	s
+adv
+226275	adv
+v
+adv
+v
+226280	s
+v
+o
+226284	s
+adv
+v
+o
+v
+o
+v
+s
+adv
+v
+o
+v
+s
+226299	v
+o
+adv
+226303	v
+s
+226307	s
+o
 v
 o2
-o
-v
-v
-s
-o
-226348	s
-v
-o
-s
-226353	p
+p
 vc
+adv
+s
+226316	v
+226318	p
+vc
+o
+v
+v
+226324	o
+adv
+s
 vc
 p
-226358	v
-o
-adv
-s
-v
-226364	p
-vc
-226367	adv
+226330	v
+io
 v
 o
-s
-226372	v
-o
-226376	v
-226378	adv
-v
-o
-vc
-p
-226386	v
-o
-226389	o
-226391	v
-s
-apposition
-226395	v
-226397	v
-o
-226403	v
-226405	v
-v
-226408	s
-adv
-o
-o
-adv
-v
-226415	o
-v
-v
 io
 s
 v
+226338	s
+226340	p
+vc
+v
+226344	s
+p
+vc
+adv
+v
+o
+v
+p
+vc
+adv
+v
+v
+226357	io
+o
+v
 io
-226423	s
-v
-s
-v
-v
-226429	o
-226431	v
 adv
-s
-226435	v
-226437	v
-adv
-226441	v
 v
 o
-226447	v
+226365	v
+io
+v
+io
+adv
+226371	adv
+v
+adv
+adv
+v
+v
+s
+v
+p
+vc
+226382	v
+o
+226385	v
 o
 s
-226451	v
+p
+vc
+s
+226392	p
+226394	vc
+s
+v
+226398	io
+v
+s
+o
+226403	adv
+v
+p
+vc
+v
+s
+226410	v
+io
+p
+226414	s
+vc
+s
+adv
+v
+p
+vc
+226422	v
+o
+226425	v
+226427	s
+o
+adv
+v
+226434	s
+p
+vc
+226438	o
+226440	v
+o
+v
+adv
+226445	adv
+v
+226448	v
+s
+o
+226452	v
+226454	adv
+vc
+s
+p
+adv
+v
+v
+o
+v
+226464	v
+io
+o
+adv
+s
+v
+adv
+226472	s
+v
+o
+226476	v
+o
+adv
+v
+s
+226482	v
+o
+adv
+226486	v
+o
+v
+s
+v
+adv
+226495	v
+s
+226498	v
+226500	p
+vc
 aux
-s
-v
-s
-226460	adv
-v
-v
-s
-o
-226467	s
-v
-226470	s
-226474	v
-s
-226478	adv
-s
-v
-v
-o
-226484	v
-o
-226487	s
-v
-v
-s
-s
-v
-v
-226495	p
-226497	vc
-p
-vc
-226501	o
-v
-v
+226504	v
 adv
-226506	v
-o
-adv
-226511	v
-o
-226514	adv
-226517	v
+v
 io
+s
+226510	v
 o
-v
-v
+226513	v
 adv
-226527	s
-vc
-v
-226531	v
-226534	v
-226536	v
-v
 s
-226542	v
+vc
+s
+226519	v
+v
+aux
+226523	v
 o
+226526	v
+s
 adv
-226546	p
-vc
-v
 s
-vc
-v
-226553	v
-s
-v
-226557	p
-vc
-s
-v
-o
 adv
-226564	p
-adv
-vc
-s
+226533	v
+226536	adv
 v
-226570	s
-vc
 v
-226574	io
-adv
-226577	v
-s
-226580	v
-s
-o
-s
-226585	vc
+226540	v
 p
-o
+vc
 v
-226590	v
-o
-226594	v
+s
+226547	o
+p
+vc
+226551	v
 io
-226597	v
-adv
-226601	v
-adv
+s
+p
+vc
 v
-226606	v
-v
-226609	v
 io
-p
+s
+226560	p
 vc
-s
-v
 adv
-v
 v
 o
 adv
-226623	vc
-226625	p
-adv
-adv
-o
+226567	v
+226569	v
+s
+226572	v
 v
-s
-226632	v
-o
-226635	adv
-226637	v
-o
-s
-226641	adv
-v
-s
-226645	v
 io
-o
-o
 v
 adv
-226655	v
-226657	v
+226578	adv
+226583	v
+adv
+s
+p
+vc
+226589	p
+226591	v
+adv
+226594	p
+vc
+226597	io
+s
 v
-226660	s
-226663	o
+226602	s
+o
+226605	v
+226608	o
+226610	v
+adv
+226613	v
+o
+226616	o
+226618	v
+adv
+v
+226622	s
+o
+v
+226626	v
+o
+226629	o
+226631	adv
+v
+226634	v
+adv
+226637	adv
+v
+o
+226642	o
+226644	v
+io
+s
+s
+226649	adv
+v
+p
+vc
+o
+v
+io
+v
+226658	adv
+s
+v
+io
+226663	s
+vc
+p
+226668	s
+s
+v
+adv
+p
+vc
+226675	p
+226677	adv
+v
+o
+s
+s
+vc
+p
+adv
+226686	s
+v
+v
+226692	v
+226694	v
+226696	o
+v
+s
+adv
+v
+226704	v
+226706	v
+226708	v
+s
+v
+226713	o
+v
+226716	adv
+v
+s
+vc
+p
+226723	s
+226726	o
+226728	v
+adv
+226734	adv
+vc
+p
+adv
 adv
 vc
 s
 p
-226670	o
-adv
 v
 s
 v
-adv
-v
-s
+226746	v
 o
+226749	v
+226752	s
 v
-226681	s
+o
+226756	v
+226759	p
 vc
-p
-v
-226686	io
-adv
-o
-s
+226762	adv
 v
 adv
-226693	v
-o
-226696	s
-226698	v
-226700	p
-vc
 adv
-v
-226705	s
-adv
-226708	vc
-p
-226711	v
-adv
-adv
-v
-o
-226718	v
-226720	v
-o
-v
-s
-vc
-p
-226728	adv
-s
-v
-226732	adv
-v
-adv
-226736	v
-adv
-v
-226740	s
-226743	v
-v
-o
-226747	s
-vc
-p
-226753	adv
-v
-226756	adv
-226758	adv
-v
-adv
-v
-226763	o
-s
-v
-o
 226768	s
-adv
-v
-o
-v
-o2
-o
-v
-s
-adv
-v
-226780	o
-v
-s
-226785	v
-o
-adv
-226789	v
-s
-226794	s
-o
-v
-o2
-p
-vc
-adv
-s
-226803	v
-226806	p
-vc
-o
-v
-v
-226812	o
-adv
-s
 vc
 p
-226818	v
-io
-v
+226774	v
 o
-io
+226777	v
+o
+s
+226781	v
+o
+s
 s
 v
-226826	s
-226828	p
-vc
-v
-226832	s
 o
-226835	p
-vc
+226788	o
+226790	v
 adv
+226794	o
 v
-o
-v
+s
+adv
+vc
 p
-vc
-adv
-v
-v
-226847	io
-o
-o
-v
-io
-adv
-v
-o
-226856	v
-io
-o
-226860	v
-io
-adv
-226864	adv
-v
-adv
-adv
-v
+226802	o
 v
 s
 v
+226808	o
+226810	v
+226812	vc
 p
-vc
-226875	v
+226816	adv
 o
-226878	v
-o
-s
-p
-vc
-s
-226885	p
-226887	vc
 s
 v
-226891	io
+226821	s
+v
+o
+226826	adv
+v
+o
+s
+v
+o
+adv
+226834	s
+v
+o
+adv
+o
+v
+v
+o
+226843	o
+v
+adv
+v
+o
+o
+226850	v
+adv
+226854	s
+adv
+v
+adv
+226859	adv
+226862	v
+226864	s
+226866	o
+v
+226869	v
+adv
+o
 v
 s
+v
+s
+226877	adv
+vc
+v
+s
+v
 o
+v
+v
+adv
+s
+adv
+226889	p
+vc
+226892	v
+s
+adv
 226896	adv
-v
-p
-vc
-v
+226900	v
+226902	o
 s
-226903	v
+226905	v
 io
-p
-226907	s
-vc
-s
 adv
-v
-p
+o
+226910	v
+226912	s
 vc
-226915	v
-o
-226918	v
-226920	s
-o
-adv
-v
-226925	o
-226928	s
 p
-vc
-226932	o
-226934	v
-o
 v
-adv
-226939	adv
-v
-226942	v
-s
-o
-226946	v
-226948	adv
-vc
-s
-p
-adv
-v
-v
-o
-v
-226958	v
 io
-o
 adv
+v
+io
 s
-v
-adv
-226966	s
-v
-o
-226970	v
-o
-adv
-v
-s
-226976	v
-o
-adv
-226980	v
 o
 v
-s
+io
+226925	adv
 v
-adv
-226989	v
-s
-226992	v
-226995	p
-vc
 aux
-226999	v
+o
+s
+v
+adv
+226936	s
+v
+adv
+226940	s
 adv
 v
+226944	adv
+vc
+p
+226950	s
+226953	o
+226955	v
+s
+v
+o
+226960	v
+o
+s
+v
 io
+o
+226967	adv
+v
+adv
+226972	adv
+v
+s
+o
+adv
+226979	aux
+226981	o
+v
+io
+adv
+p
+vc
+226988	s
+v
+v
+adv
+226995	s
+226998	p
+vc
+v
+adv
+o
 s
 227005	v
 o
-227008	v
-adv
-s
-vc
-s
-227014	v
 v
-aux
-227018	v
-o
-227021	v
+io
 s
 o
+227012	v
+io
 adv
+227016	adv
+227019	o
+v
+v
+io
 s
-adv
-227029	v
+o
+227026	adv
+227028	adv
+v
+o
 227032	adv
-v
-v
-227036	v
+227035	s
 p
 vc
 v
-s
-227043	o
-p
-vc
-227047	v
-io
-s
-p
-vc
-v
-io
-s
+o
 o2
-227057	p
-vc
-adv
-v
-o
-227063	adv
-227065	v
-227067	v
-s
-227070	v
 v
 io
+s
 v
 adv
-227076	adv
-227081	v
-adv
-s
+227049	s
+v
 p
 vc
-227087	p
-227089	v
+227055	o
+v
+o2
 adv
-227092	p
-vc
-227095	io
+s
+227062	v
+227064	adv
+v
+v
+s
+o
 s
 v
-227100	s
+227072	v
+adv
+227075	s
+v
+227078	v
+227080	v
+p
+227083	vc
+227085	adv
+v
 o
+227091	adv
+v
+o
+227096	v
+o
+adv
+v
+o
+v
 227103	v
-227106	o
-227108	v
-adv
-227111	v
-o
-227115	o
-227117	v
-adv
-v
-227122	s
-o
-v
-227126	v
-o
-227130	o
-227132	adv
-v
-227135	v
-adv
-227138	adv
-v
-o
-227143	o
-227145	v
-io
+227105	v
+227107	p
 s
 s
-227150	adv
-v
 p
-vc
-o
+227112	v
+227114	o
+adv
 v
-io
+227118	v
+adv
+227123	v
+adv
+adv
+227127	adv
+227129	adv
 v
-227159	adv
 s
+adv
+227134	v
+adv
+227137	s
 v
-io
-227164	s
-vc
-p
-227169	s
+adv
+227141	v
+227143	s
+227145	o
+v
 s
+227149	o
 v
+s
 adv
 p
 vc
-227176	p
-227178	adv
-v
-o
-s
-s
-vc
-p
-adv
-227187	s
-v
-v
-227193	v
-227195	v
-227197	o
-v
-s
-adv
-v
-227205	v
-227207	v
-227209	v
-s
-v
-227214	o
-v
-227217	adv
-v
-s
-vc
-p
-227224	s
-227227	o
-227229	v
-adv
-227232	s
-227236	adv
-vc
-p
-adv
-adv
-vc
-s
-p
-v
-s
-v
-227248	v
-o
-227251	v
-227254	s
-v
-o
-227258	v
-227261	p
-vc
-227264	adv
+227156	s
 v
 adv
 adv
-227270	s
-vc
-p
-227276	v
-o
-227279	v
-o
-s
-227284	v
-o
-s
-s
 v
-o
-227291	o
-227293	v
-adv
-227297	o
-v
-s
-adv
-vc
-p
-227305	o
-v
-s
-v
-227311	o
-227313	v
-227315	vc
-p
-227319	adv
-o
-s
-v
-227324	s
-v
-o
-227329	adv
-v
-o
-s
+227162	s
+227165	v
+227174	apposition
+227176	vc
+227178	s
 v
 o
 adv
-227337	s
-v
+227183	v
 o
+227186	adv
+227188	s
+227191	v
+v
+227194	s
 adv
-o
-v
-v
-o
-227346	o
-v
-adv
-v
-o
-o
-227353	v
-adv
-227357	s
-adv
-v
-adv
-227362	adv
-227365	v
-227367	s
-227369	o
-o
-v
-227373	v
-adv
-o
-v
-s
-v
-s
-227381	adv
-vc
-v
-s
-v
-o
-v
-v
-adv
-s
-adv
-227393	p
-vc
-227396	v
-s
-adv
-227400	adv
-227404	v
-227406	o
-s
-227409	v
-io
-adv
-o
-227414	v
-o2
-227417	s
-vc
-p
-v
-io
-adv
-v
-io
-s
-o
-v
-io
-227430	adv
 v
 aux
-227434	o
+aux
+o
+v
+v
+v
+227204	s
+v
 s
-v
-adv
-227442	s
-v
-adv
-227446	s
-adv
-v
-227450	adv
+227208	adv
 vc
 p
-227456	s
-227459	o
+227212	p
+227217	v
+s
+227221	adv
+v
+227224	s
+o
+227234	v
+227236	v
+adv
+v
+adv
+adv
+v
+apposition
+adv
+adv
+adv
+v
+io
+v
+adv
+227251	adv
+v
+io
+s
+aux
+adv
+v
+o
+v
+s
+227262	adv
+v
+adv
+v
+s
+s
+vc
+p
+227271	s
+v
+adv
+227275	adv
+v
+227278	o
+227282	v
+227285	s
+v
+adv
+227289	v
+227291	s
+adv
+vc
+p
+o
+v
+227298	adv
+v
+io
+o
+s
+apposition
+227305	v
+227307	v
+227309	v
+o
+v
+227313	s
+io
+aux
+227317	v
+v
+v
+227321	s
+adv
+227325	s
+227327	v
+227329	adv
+227333	v
+adv
+227336	v
+io
+s
+adv
+o
+227342	s
+v
+227345	v
+adv
+227348	v
+227350	adv
+vc
+p
+227354	v
+adv
+v
+227358	s
+vc
+p
+io
+v
+s
+227365	v
+adv
+v
+227369	s
+v
+s
+o
+adv
+v
+adv
+227377	vc
+227379	s
+p
+227382	adv
+227385	s
+227389	v
+adv
+227395	v
+o
+adv
+227399	s
+227402	v
+227404	s
+v
+v
+o
+s
+227410	adv
+227412	v
+v
+227415	s
+adv
+aux
+227419	vc
+p
+adv
+v
+s
+227425	adv
+adv
+v
+227429	o2
+v
+o
+v
+io
+s
+v
+io
+s
+v
+s
+227441	v
+io
+s
+v
+227446	v
+adv
+227449	adv
+227452	v
+io
+s
+s
+vc
+p
 227461	v
-s
+adv
 v
-o
-227466	o
 v
+227466	s
+v
+227469	v
+adv
+adv
+v
+adv
+227475	v
 o
-s
 v
 io
-o
-227474	adv
-v
-adv
-227479	adv
-v
+aux
+aux
 s
-o
-adv
-227486	aux
-227488	o
 v
-io
-adv
+227484	s
+vc
 p
-vc
-227495	s
+227489	apposition
+227492	adv
+227494	v
+227496	o
 v
 v
-adv
-227502	s
-227505	p
-vc
+227500	v
+o
+apposition
+227504	adv
 v
-adv
 o
 s
-227512	v
-o
 v
-io
-s
+227510	v
 o
+s
+227515	v
+v
+adv
 227519	v
-io
 adv
-227523	adv
-227526	o
-v
-v
-io
+227523	v
 s
-o
-227533	adv
-227535	adv
+adv
+227528	vc
+adv
+p
+227532	adv
 v
 o
-227539	adv
-227542	s
+s
+s
+227539	vc
+p
+adv
+227544	v
+o
+v
+o
+227549	adv
+v
+227552	v
+v
+o
+v
+227557	v
+adv
+227561	v
+adv
+s
+227566	v
 p
 vc
+s
 v
 o
-o2
 v
+adv
+227576	v
 io
-s
-v
-adv
-227556	s
-v
+aux
+227580	vc
 p
-vc
-227562	o
-v
-o2
 adv
 s
-227569	v
-227571	adv
 v
-v
-s
+227586	aux
+227589	v
 o
 s
 v
-227579	v
-adv
-227582	s
-v
-227585	v
-227587	v
-p
-227590	vc
-227593	adv
-v
+227594	s
+227596	v
 o
-227599	adv
 v
+227600	v
+adv
+227603	v
 o
 227606	v
-227608	o
 adv
 v
 o
 v
-227614	v
-227616	v
-227619	p
+io
+aux
+v
+227615	v
+v
 s
-s
-p
-227624	v
-227626	o
+v
+227620	s
+aux
 adv
 v
-227630	v
-adv
+o
+s
+227628	v
+v
+s
+v
+o
 227635	v
+227637	s
 adv
-adv
-227639	adv
+v
+s
 227642	adv
 v
-s
 adv
-227647	v
-adv
-227650	s
 v
 adv
-227654	v
-227656	s
-227658	o
+227648	vc
+227650	p
+227652	s
 v
-s
-227662	o
-v
-s
 adv
+v
+s
+v
+o
+v
+io
+s
+227664	v
+aux
+adv
+v
 p
-vc
-227669	s
+227670	vc
 v
-adv
-adv
+io
+s
 v
-227675	s
+io
 227678	v
-227687	apposition
-227689	vc
-227691	s
 v
+o
+227683	v
+227685	o
+s
+227688	v
 o
 adv
-227696	v
+227692	v
+aux
+227695	v
 o
-227699	adv
-227701	s
-227704	v
+227698	v
+o
+s
+227702	v
+227704	adv
+o
 v
-227707	s
+227708	adv
+227711	v
+v
+227714	v
+227716	s
+o
+v
+227720	o
+v
 adv
 v
 aux
-aux
-o
+v
+adv
 v
 v
 v
-227717	s
+adv
+227734	adv
+227736	s
+227738	adv
 v
-o
+v
+io
 s
-227722	adv
+o
+v
+o
+227747	v
+s
+v
+s
+227755	v
+adv
+227759	v
+o
+v
+v
+adv
+s
+227767	v
+adv
+227771	v
+io
+o
+v
+s
+v
+227778	s
+227782	o
+227784	v
+o
+v
+227788	s
+227790	o
+v
+227793	v
+o
+adv
+s
+v
+adv
+227801	v
+s
+227804	v
+o
+227811	s
+227816	p
 vc
-p
-227726	p
-227731	v
-s
-227735	adv
-v
-227738	s
+adv
+227820	v
+io
 o
-227749	v
-227751	v
-adv
-v
-adv
-227756	adv
-v
-apposition
-adv
-adv
-adv
-v
-io
-v
-adv
-227767	adv
-v
-io
 s
-aux
 adv
 v
 o
-v
-s
-227778	adv
+227828	v
+227830	v
+adv
+227833	s
 v
 adv
+227838	adv
+s
+227841	v
+o
+227844	adv
+adv
 v
-s
-s
+227848	p
 vc
-p
-227787	s
+adv
+227852	v
+227854	v
+s
+o
 v
 adv
-227791	adv
-v
-227794	o
-227798	v
-227801	s
+227862	adv
+227864	adv
+227867	o
+227872	v
 v
 adv
-227805	v
-227807	s
 adv
+227879	v
+227881	v
+o
+s
+227885	adv
+adv
+v
+adv
+227891	v
+adv
+adv
+227898	adv
+227900	p
 vc
-p
-o
+adv
 v
-227814	adv
-v
-io
-o
+adv
+227906	vc
+227908	p
 s
-apposition
-227821	v
-227824	v
-227826	v
-o
-v
-227830	s
-io
-aux
-227834	v
-v
-v
-227838	s
-adv
-227842	s
-227844	v
-227846	adv
-227850	v
-adv
-227853	v
-io
-s
-adv
-o
-227859	s
-v
-227862	v
-adv
-227865	v
-227867	adv
-vc
-p
-227871	v
-adv
-v
-227875	s
-vc
-p
-io
-o
-v
-s
-227883	v
-adv
-v
-227887	s
-v
-s
-o
-adv
-v
-adv
-227895	vc
-227897	s
-p
-227900	adv
-227903	s
-227907	v
-adv
 227913	v
-o
+s
 adv
-227918	s
+adv
+227918	adv
 227921	v
-227923	s
-v
-v
 o
-s
-227929	adv
+v
+227925	o
+227927	v
+adv
+adv
 227931	v
+s
 v
-227934	s
 adv
-aux
-227939	vc
+227936	adv
+v
+adv
+227940	v
+227942	s
+227946	o
+227948	s
+v
 p
-adv
-v
-s
-227945	adv
-adv
-v
-227949	o2
-v
-o
-v
-io
-s
-v
-io
-s
-v
-s
-227961	v
-io
-s
-v
-227966	v
-adv
-227969	adv
-227972	v
-io
-s
-s
 vc
-p
-227981	v
-adv
 v
-v
-227986	s
-v
-227989	v
-adv
-adv
-v
-adv
-227995	v
+227954	v
 o
-v
-io
-o
-aux
-aux
 s
-v
-228005	s
-vc
+227958	adv
+227962	v
+adv
 p
-228010	apposition
-228013	adv
-228015	v
-228017	o
-v
-v
-228021	v
+vc
 o
+v
+adv
+s
+227971	v
+227973	io
+o
+adv
+227977	s
+v
+s
+227981	p
+vc
+227984	v
+adv
+s
+227988	v
+o
+227993	v
+o
+227998	v
+adv
+228001	o
+228003	s
+228005	v
+adv
+228010	v
+228012	s
+228015	apposition
 apposition
-228025	adv
-v
-o
-s
-v
-228031	v
-o
-s
-228036	v
-v
-adv
-228040	v
-adv
-228044	v
-s
-adv
-228049	vc
-adv
-p
-228054	adv
-v
-o
-s
-s
-228061	vc
-p
-adv
-228066	v
+228019	v
 o
 v
+o
+adv
+s
+228026	adv
+v
+adv
+228030	v
+io
+v
+228034	o
+o
+228037	adv
+228039	v
+adv
+228043	p
+vc
+228046	o
+v
+v
+v
+v
+228052	s
+v
+o
+228056	adv
+228061	v
+o
+228064	o
+228066	adv
+v
+adv
 o
 228071	adv
-v
-228074	v
-v
-o
-v
-228079	v
 adv
-228083	v
-adv
-s
-228088	v
-p
+v
+v
+228076	s
+228082	p
 vc
-s
+228086	v
+adv
+adv
+228090	adv
+228093	adv
+o
 v
 o
 v
 adv
-228098	v
-io
-aux
-228102	vc
-p
+v
+228101	s
+228103	o
+228105	v
+228108	s
 adv
-s
 v
-228108	aux
-228111	v
-o
-s
-v
-228116	s
-228118	v
-o
-v
-228122	v
+228113	v
 adv
+228116	adv
+s
+228120	v
+adv
+228123	v
 228125	v
-o
-228128	v
+s
 adv
 v
 o
-v
-io
-aux
-v
+228133	v
+adv
 228137	v
-v
-s
-v
-228142	s
 aux
-adv
 v
+s
+v
+adv
+228148	v
+228150	s
 o
+v
+adv
+228155	v
+adv
+v
+aux
+aux
 s
-228150	v
+228162	v
 v
-s
-v
-o
-228157	o
-v
-228160	s
+adv
+228166	o
 adv
 v
 s
-228165	adv
-v
-adv
-v
-adv
-228171	vc
-228173	p
-228175	s
-v
-adv
-v
+228171	adv
+228174	v
 s
+adv
 v
-o
+228179	s
+v
+adv
+228183	o
 v
 io
-s
-228187	v
-aux
-adv
 v
+228188	s
+228190	vc
 p
-228193	vc
+228194	o
 v
-io
-s
-v
-io
-228202	v
-v
-o
-228207	v
-228209	o
-s
-228212	v
+adv
+228199	v
 o
 adv
-228216	v
+adv
+adv
+v
+o
+s
+228208	v
+s
+v
+o
+s
+228214	v
+adv
+v
+228218	adv
+v
+o
 aux
-228219	v
-o
-228222	v
-o
 s
-228226	v
-228228	adv
-o
-v
-228232	adv
-228235	v
-v
-228238	v
-228240	s
-o
-v
-228244	o
-v
 adv
 v
-aux
-v
-adv
-v
-v
-v
-adv
-228258	adv
-228260	s
-228262	adv
-v
-v
-io
-s
-o
-v
-o
-228271	v
-s
-v
-s
-228279	v
-adv
-228283	v
-o
-v
-v
-adv
-s
-228291	v
-adv
-228295	v
-io
-o
-v
-s
-v
-228302	s
-228306	o
-228308	v
-o
-o
-v
-228313	s
-228315	o
-v
-228319	v
-o
-adv
-s
-v
-adv
-228327	v
-s
-228330	v
-o
-228337	s
-228342	p
 vc
+228227	s
+p
+v
+228231	v
 adv
-228346	v
+228234	s
+228236	v
+adv
+apposition
+228243	v
+o
+v
+aux
+v
+o
+v
+v
+s
+228253	v
 io
+v
+s
+228259	v
+io
+s
+228263	v
+io
+v
+v
+s
+228269	v
+s
+228273	v
+io
+o
+228277	adv
+s
+228281	v
+adv
+228284	v
+s
+p
+vc
+228290	v
+o
+v
+v
+o
+228296	v
+o
+228299	v
+o
+228302	adv
+228305	adv
+228307	v
+o
+228310	o
+s
+v
+o
+v
+228316	p
+vc
+s
+p
+s
+228324	vc
+228326	s
+o
+v
+v
 o
 s
 adv
+s
+228335	v
+228337	o
+v
+aux
 v
 o
-228354	v
-228356	v
 adv
-228359	s
+228346	adv
 v
 adv
+228351	aux
+v
+o
+228355	v
+228357	s
+adv
+228360	o
+228362	v
 228364	adv
-s
-228367	v
-o
-228370	adv
-adv
 v
-228374	p
-vc
-adv
-228378	v
-228380	v
 s
-o
+228369	v
+228371	v
 v
+s
+v
+s
+v
+s
+io
+v
+v
+s
+228383	v
+o
 adv
-228388	adv
+s
+228388	v
 228390	adv
-228393	o
-228398	v
-v
-adv
-adv
-228405	v
-228407	v
-o
+p
 s
-228411	adv
-adv
-v
-adv
-228417	v
-adv
-adv
-228424	adv
-228426	p
 vc
+228396	adv
+s
+228401	v
 adv
+s
+228405	v
+adv
+228408	o
 v
 adv
-228432	vc
-228434	p
-s
-228439	v
-s
-adv
-adv
-228444	adv
-228447	v
 o
+228413	v
 v
-228451	o
-228453	v
 adv
-adv
-228457	v
+v
+v
+v
+228420	io
+s
 s
 v
 adv
-228462	adv
+228427	s
 v
 adv
-228466	v
-228468	s
-228472	o
-228476	s
+228432	adv
 v
+s
+228436	v
+v
+s
+228441	p
+vc
+s
+228447	v
+228449	io
+s
+adv
+adv
+s
 p
 vc
 v
-228482	v
-o
-s
-228486	adv
-228490	v
-adv
-228493	p
-vc
+228458	o
+v
+228461	adv
 s
 o
 v
+228466	v
 adv
-s
-228501	v
-228503	io
+228469	adv
+v
+adv
+v
+228474	o
+v
+v
+adv
+228480	p
+vc
 o
-adv
-228507	s
 v
 s
-228511	p
-vc
-228514	v
+228486	v
+v
 adv
+o
+228491	s
+v
+adv
+adv
+v
+adv
+228498	s
+228501	apposition
+v
+o
+v
+aux
 s
-228518	v
+v
 o
-228523	v
-o
-228528	v
+228511	s
+228513	io
+v
 adv
-228531	o
-228533	s
+adv
+v
+v
+228520	adv
+v
+s
+v
+o
+228527	v
+o
+228532	v
+adv
 228535	v
 adv
+228538	v
 228540	v
-228542	s
-228545	apposition
-apposition
-228549	v
+o
 o
 v
-o
-adv
 s
-228556	adv
-v
-adv
-228560	v
-io
-v
-228564	o
+228547	v
 o
+228551	v
+adv
+adv
+228555	s
+228559	v
+adv
+228562	adv
+228564	adv
+v
 228567	adv
-228569	v
-adv
-228573	p
+p
 vc
-228576	o
+v
+228572	o
+228575	adv
+228577	o
+228580	s
+228582	v
+228584	v
+o
+228587	v
+adv
+adv
+v
+adv
+228593	adv
+v
+o
+228597	v
+o
 v
 v
+o
+s
+adv
+adv
+228606	v
+228608	s
 v
+adv
+adv
+228613	adv
 v
-228582	s
+228618	s
+o
+v
+228623	adv
+v
+s
+adv
+v
+o
+228631	v
+228633	v
+o
+228637	v
 o
 v
 o
-228587	adv
-228592	v
+228642	adv
+v
 o
-228595	o
-228597	adv
-v
-adv
-o
-228602	adv
-adv
-v
-v
-228607	s
-228613	p
-vc
-228617	v
-adv
-adv
-228621	adv
-228624	adv
-o
-228627	v
-o
-v
-adv
-228632	v
-228634	s
-228636	o
-228638	v
-228641	s
-adv
-v
 228646	v
-adv
-228649	adv
-s
-228653	v
-adv
-228656	v
-228658	v
-s
-adv
 v
 o
-228666	v
-adv
-228670	v
 aux
-v
-s
-v
-adv
-228682	v
-228684	s
 o
 v
-adv
-228689	v
+s
+v
 o
 adv
+228660	s
+adv
+adv
 v
-aux
-aux
+228665	aux
+228667	v
+o
 s
-228697	v
-v
-adv
-228701	o
-adv
-v
-s
-228706	adv
-228708	o2
-228710	v
-s
-adv
-v
-228715	s
-v
-adv
-228719	o
-v
 io
+o
 v
+o
+o
+v
+228677	o
+v
+228680	v
+228682	s
+228684	p
+vc
+o
+228688	s
+v
+228691	v
+io
+s
+adv
+v
+adv
+228701	v
+s
+228704	v
+s
+228708	v
+adv
+228712	adv
+228714	v
+o
+228717	apposition
+228720	adv
+v
+o
 228724	s
-228726	vc
-p
-228730	o
 v
-adv
-228735	v
-o
-adv
-228739	adv
+s
 adv
 v
+adv
+228732	v
 o
 s
-228745	v
+228736	v
 o
-s
+228739	o
 v
-o
+io
 s
+adv
+228747	adv
+v
+228750	adv
 228752	v
+v
 adv
+228757	v
+o
+228760	v
 o
 v
-228757	adv
-v
 o
-aux
-s
 adv
 v
-vc
-228766	s
-p
-v
+o
+adv
 228770	v
-adv
-228773	s
-228775	v
-adv
-apposition
-228782	v
 o
 v
+o
+228777	v
+adv
+adv
+v
+v
+228783	adv
+228785	v
+io
 aux
-v
+s
 o
 v
-v
-s
 228792	v
-io
-v
 s
-228798	v
-io
-s
-228802	v
-io
-v
-o
-v
-s
-228809	v
-s
-228813	v
+228795	v
 io
 o
-228817	adv
-s
-228821	v
-adv
-228824	v
-s
-p
-vc
-228830	v
-o
-v
-v
-o
-228836	v
-o
-228839	v
-o
-228842	adv
-228845	adv
-228847	v
-o
-228850	o
 s
 v
-o
-v
-228857	p
-vc
-s
-p
-s
-228865	vc
-228867	s
-o
-v
-v
-o
 s
 adv
-s
-228876	v
-228878	o
 v
+adv
+v
+228806	adv
+v
+io
+s
+adv
+v
+o
+228814	adv
+228816	v
+s
+io
+228820	adv
+v
+o
+adv
+v
+o
+adv
+v
+io
+s
 aux
+o
+228833	adv
+228835	o
+228840	v
+io
+s
+o
+228845	v
+adv
 v
 o
-adv
-228887	adv
-v
-adv
-228892	aux
-v
+228850	adv
 o
-228896	v
-228898	s
+v
+228854	vc
+p
 adv
-228901	o
-228903	v
-228905	adv
-v
-s
-228910	v
-228912	v
-v
+228859	s
+p
+vc
+228863	adv
 s
 v
-s
+228867	v
+o
+adv
 v
+228872	adv
 s
+p
+vc
+228879	v
+o
+228883	v
+o
+228887	v
+adv
+v
 io
 v
+o
 v
+io
 s
+v
+o
+aux
+228903	adv
+v
+vc
+228909	s
+v
+o
+228913	apposition
+228917	s
+v
+o
+v
+228922	o
 228924	v
+io
+228928	s
+v
+io
+s
+v
+v
+io
 o
 adv
-s
-228929	v
-228931	adv
-228933	p
-s
 vc
-228938	adv
-s
-228943	v
-adv
-s
-228947	v
-adv
-228950	o
-v
-adv
-o
-228955	v
-v
-adv
-v
-v
-v
-228962	io
-s
-o2
-s
-v
-adv
-228970	s
-v
-adv
-228975	adv
-v
-s
-228979	v
-v
-s
-228984	p
-vc
-s
-228990	v
-228992	io
-s
-adv
-adv
 s
 p
+adv
+228943	s
+p
+v
+o
+228948	o
+v
+p
 vc
-v
-229001	o
-v
-229004	adv
+228953	v
+o
+adv
+adv
+228958	v
 s
+v
 o
 v
+228965	s
+v
+v
+o
+228970	v
+adv
+o
+228974	adv
+v
+io
+adv
+v
+228980	v
+228982	v
+228984	s
+vc
+v
+io
+o
+v
+o
+v
+o
+v
+228995	o
+v
+v
+v
+o
+o
+v
+s
+v
+adv
+229007	v
 229009	v
-adv
-229012	adv
+v
+io
+229013	s
+229015	v
+o
 v
 adv
-v
-229019	o
-v
+s
 v
 adv
-229025	p
+v
+v
+s
+229028	adv
+229032	o
+v
+s
+v
+229037	io
+s
+229040	v
+io
+v
+p
 vc
-o
+adv
+v
 v
 s
-229031	v
-v
-adv
-229035	o
-229037	s
-v
 adv
 adv
-v
-adv
-229044	s
-229047	apposition
-v
-o
-v
+229054	v
+io
 aux
-s
-v
-o
-229057	s
-229059	io
-v
-adv
-adv
-v
-v
-229066	adv
-v
-s
-o
-v
-o
-229074	v
-o
-229079	v
-adv
-229082	v
-adv
-229085	v
-229087	v
-o
-o
-v
-s
-229094	v
-o
-229098	v
-adv
-adv
-229102	s
-229106	v
-adv
-229109	o
-adv
-229112	adv
-v
-229115	adv
 p
 vc
 v
-229120	o
-229123	adv
-229125	o
-229128	s
-229130	v
-229132	v
-o
-229135	v
-adv
-adv
-v
-adv
-229141	adv
+229061	s
+vc
+io
+s
 v
 o
-229145	v
+229068	v
+io
+v
+229072	o
+v
+229075	v
+io
+229079	adv
+229081	adv
+v
+adv
+s
+v
+229087	io
+s
 o
 v
 v
+adv
 o
-229151	s
-adv
-adv
-229155	v
-229157	s
+229095	s
+v
 v
 adv
-adv
-229162	adv
 v
-229169	s
-o
-v
-229174	adv
+io
+s
+229103	v
+229105	o
 v
 s
+229109	v
+io
+s
+o
+v
+o
+v
+adv
+229119	io
+229121	o
+v
+v
+229125	o
+s
+v
+adv
+vc
+229131	p
+229134	v
+v
+s
+o
 adv
 v
-o
-229183	v
-229185	v
-o
-229189	v
-o
+s
+229144	s
 v
-o
-229194	adv
+adv
+229148	s
 v
+adv
+s
+229153	v
 o
-229198	v
+adv
+229157	adv
 v
 o
 aux
-229203	o
+adv
+adv
+p
+vc
 v
+o
+229169	v
+io
+229172	adv
+s
+v
+s
+adv
+v
+v
+o
+v
+adv
+o
+v
+io
+v
+o
+229188	v
+o
 s
 v
 o
 adv
-229213	s
+v
+s
+229197	p
+vc
+229200	o
+v
+adv
+v
+io
+s
+aux
+adv
+v
+v
+s
+o
+adv
+v
+adv
+v
+o
+adv
+v
+v
+229221	adv
+v
+io
+s
+aux
 adv
 adv
 v
-229218	aux
-229220	v
 o
+v
+adv
+o
+229234	adv
+v
+v
 s
+o
+229240	adv
+v
+v
+io
+adv
+s
+v
+adv
+adv
+v
+o
+adv
+adv
+v
+s
+229256	v
+adv
+229259	adv
+229261	v
+p
+229267	s
+vc
+229271	adv
+v
+io
+229275	v
+v
+o
+io
+229282	v
+229284	v
+o
+io
+adv
+v
+229290	v
+o
+adv
+229294	p
+vc
+s
+s
+vc
+229300	adv
+s
+v
+v
+o
+v
+io
+s
+aux
+adv
+v
+adv
+v
+adv
+v
+o
+v
+io
+s
+s
+vc
+p
+229327	s
+v
+adv
+229332	adv
+adv
+229335	v
+o
+o
+229340	v
+adv
+v
+o
+229345	v
+v
+io
+s
+aux
+v
 io
 o
+229354	v
+adv
+v
+io
+s
+adv
+p
+vc
+229363	adv
 v
 o
+aux
+v
 o
 v
-229230	o
+o
+adv
+s
 v
-229233	v
-229235	s
-229237	p
+v
+io
+o
+adv
+v
+229381	s
+p
+229385	s
+p
 vc
 o
-229241	s
-v
-229244	v
-io
-s
-adv
-v
-adv
-229254	v
-s
-229257	v
-s
-229261	v
-adv
-229265	adv
-229267	v
-o
-229270	apposition
-229273	adv
-v
-o
-229278	s
-v
-229281	s
-adv
-v
-adv
-229287	v
 o
 s
-229291	v
-o
-229294	o
 v
 io
-s
 adv
-229302	adv
-v
-229305	adv
-229307	v
-v
 adv
-229312	v
-o
-229315	v
-o
-v
-o
-adv
-v
-o
-adv
-229325	v
-o
-v
-o
-229332	v
-adv
-229335	adv
-v
-v
-229339	adv
-229341	v
-io
-aux
-s
-o
-v
-229348	v
-s
-229351	v
-io
-o
-s
 v
 s
-adv
+229398	adv
 v
-adv
 v
-229362	adv
-v
-io
-s
-adv
-v
-o
-229370	adv
-229372	v
-s
-io
-o
-229377	adv
-v
-o
-adv
-v
-o
-adv
-v
-io
-s
-aux
-o
-229390	adv
-229392	o
-229398	v
-io
-s
 o
 229403	v
+io
+229407	s
+p
+229411	s
+p
+229415	adv
 adv
+229419	v
+v
+io
+v
+adv
+o
+o
+s
+v
+s
+v
+229431	o
+v
+229434	s
+adv
+229437	v
+229439	o
+v
+adv
+229444	o
+v
+229447	v
+s
+adv
+229452	o2
 v
 o
-229408	adv
-o
+adv
+229458	s
 v
-229412	vc
+229461	v
+o
+o
+229466	v
+s
+v
+o
+229471	o
+v
+io
+229475	vc
 p
 adv
-229417	s
-p
+229482	o
+s
+adv
+v
+v
+229489	adv
+v
+o
+229493	v
+s
+v
+o
+229499	adv
+v
+229502	p
 vc
-229421	adv
-s
+adv
 v
-229425	v
+o
+o2
+v
+adv
+adv
+229512	s
 o
 adv
 v
-229430	adv
 s
+229518	v
+o
+229521	s
+v
+s
+v
+adv
+229528	v
+s
+229532	s
 p
-vc
-229438	v
-o
-229442	v
-o
-229446	v
-adv
-v
-io
-v
-o
-v
-io
-s
-v
-o
-aux
-229462	adv
-v
-vc
-229470	s
-v
-o
-229474	apposition
-229478	s
-v
-o
-v
-229483	o
-229485	v
-io
-229489	s
-v
-io
-s
-v
-v
-io
-o
-adv
-vc
-s
+229537	s
 p
-adv
-229504	s
+s
 p
 v
 o
-229510	o
-v
-o
-p
-vc
-229516	v
-o
-adv
-adv
-229521	v
-s
-v
-o
-v
-229528	s
-v
-v
-o
-229533	v
-adv
-o
-229537	adv
-v
-io
-adv
-v
-229543	v
 229545	v
-229547	s
+o
+s
 vc
 v
-io
 o
-v
-o
-v
-o
-v
-229558	o
-v
-v
-v
-o
-o
-v
-s
-v
-adv
-229570	v
-229572	v
-v
-io
-229576	s
-229578	v
+229552	v
 o
 v
 adv
-s
+229558	s
 v
-adv
-v
-v
-s
-229591	adv
-229595	o
-v
-s
-v
-229600	io
-s
-229603	v
+o
+229562	v
 io
+o
 v
+io
+s
+adv
 p
-vc
-adv
-v
-v
-s
-adv
-adv
-229617	v
-io
-aux
-p
-vc
-v
-229624	s
-p
-vc
-io
-s
-v
-o
-229632	v
-io
-v
-229636	o
-v
-229639	v
-io
-229643	adv
-229645	adv
-v
-adv
-s
-v
-229651	io
-s
-o
-v
-v
-adv
-o
-229659	s
-v
-v
-adv
-v
-io
-s
-229667	v
-229669	o
-v
-s
-229673	v
-io
-s
-o
-v
-o
-v
-adv
-229683	io
-229685	o
-v
-v
-229689	o
-s
-v
-adv
-vc
-229695	p
-229699	v
-v
-s
-o
-adv
-v
-s
-229709	s
-v
-adv
-229713	s
-v
-adv
-s
-229718	v
-o
-adv
-229722	adv
-v
 o
 aux
+229573	s
+v
+229576	o
+io
+v
+v
+o
+229582	adv
+io
+v
+s
+229587	v
+io
+o
+229592	s
+v
+o
+o
+229597	v
+229599	s
+229601	v
+o
+229605	adv
+v
+229608	o
 adv
+v
 adv
+v
+o
+o
+229616	adv
+v
+229619	s
+o
+v
+adv
+vc
 p
-vc
-v
+229626	p
+229628	v
 o
-229735	v
+o
+v
 io
-229738	adv
+adv
+v
+aux
+229638	apposition
+229641	o
+v
+s
+adv
+229647	s
+o
+v
+o2
+229652	v
+o
+o2
+o
+v
+io
+s
+o
+v
+io
+o
+229664	v
+io
+229667	s
+v
 s
 v
+io
+adv
+v
+s
+229677	v
+v
+229680	s
+v
+io
+o
+v
+229686	v
+adv
+229689	v
+o
+v
+229693	v
+adv
+229697	s
+p
+adv
+vc
+229702	adv
+v
+io
+v
+229708	v
+v
+adv
+o
+v
+adv
+v
+229716	s
+229720	adv
+adv
+v
+o
+229726	v
+s
+229729	v
+o
+229733	v
+io
 s
 adv
 v
 v
-o
 v
 adv
-229749	o
-v
-io
-v
-o
-229755	v
-o
-s
-v
-o
-229761	adv
-v
-s
-229765	p
+229742	s
 vc
+p
+229748	s
+229750	p
+vc
+aux
+229756	adv
+v
+o
+v
+o
+229762	aux
+o
+v
+v
+o
 229768	o
 v
 adv
+s
+p
+vc
+adv
+229776	o
 v
 io
+v
+adv
 s
-aux
 adv
-v
-v
-s
-o
-adv
-v
-adv
-v
-o
-adv
-v
-v
-229789	adv
-v
-io
-s
-aux
-adv
+229784	s
 adv
 v
 o
 v
 adv
-o
-229802	adv
+229791	adv
 v
-v
-s
-o
-229808	adv
-v
-v
-io
+adv
+229795	adv
 adv
 s
-v
-adv
-adv
-v
-o
-adv
+229799	adv
 adv
 v
 s
-229825	v
+vc
+p
+s
+p
+v
 adv
-229828	adv
+s
+adv
+s
+v
+o
+229815	adv
+adv
+v
+v
+o
+229821	adv
+s
+v
+adv
+v
+adv
+229828	s
 229830	v
+229832	v
+o
+229835	adv
+229837	v
+229839	v
+229842	v
+adv
+229845	s
+229847	adv
+v
+o
+v
+v
+229853	v
+adv
+adv
+v
+s
+229859	o
+v
+229862	vc
 p
-229836	s
+229865	v
+o
+s
+s
+o
+v
+v
+adv
+229877	o
+229879	v
+v
+adv
+229886	s
+o
+229891	v
+229893	v
+adv
+229897	o
+v
+io
+229902	s
+229905	p
 vc
-229841	adv
-v
-io
-229845	v
-v
-o
-io
-229852	v
-229854	v
-o
-io
-adv
-v
-229860	v
-o
-adv
-229864	p
-vc
-s
-s
-vc
-229870	adv
-s
-v
-v
-o
-v
-io
-s
-aux
-adv
-v
-adv
-v
-adv
-v
-o
-v
-io
-s
-s
-vc
-p
-229897	s
-v
-adv
-229902	adv
-adv
-229905	v
-o
-o
+229908	s
 229910	v
-adv
-v
-o
-229915	v
-v
-io
-s
-aux
-v
-io
-o
-229924	v
-adv
-v
-io
-s
-adv
 p
 vc
-229933	adv
-v
-o
-aux
-v
-o
-v
-o
-adv
 s
-v
-v
-io
+229916	v
 o
-adv
+229919	v
+o
+o
+229923	s
 v
-229951	s
-p
-229955	s
+229926	s
+o
+229929	v
+adv
+229933	s
 p
 vc
+229937	v
 o
-229960	o
 s
 v
 io
 adv
-adv
-v
-s
-229969	adv
-v
-v
-o
-229974	v
-io
-229978	s
-p
-229982	s
-p
-229987	adv
-adv
-229991	v
-v
-io
-o
-v
-adv
-o
-229999	o
-s
-v
-s
-v
-230005	o
-v
-230008	s
-adv
-230011	v
-230013	aux
-o
-v
-adv
-230019	o
-v
-230022	v
-s
-adv
-230028	o2
-v
-o
-adv
-230034	s
-v
-230038	v
-o
-o
-230043	v
-s
-v
-o
-230048	o
-o
-v
-io
-230053	vc
-p
-adv
-230057	o
-230061	o
-s
-adv
-v
-v
-230068	adv
-v
-o
-230072	v
-s
-v
-o
-230078	adv
-v
-230081	p
-vc
-230084	adv
 v
 o
 o2
+229947	s
+adv
+v
+o
+v
+s
+229954	o
+229956	v
+o2
+229959	o
+o
+v
+adv
+229965	v
+io
+229968	s
+o
+v
+229973	s
+v
+o
+229977	v
+o
+229981	s
+v
+229984	o
+v
+229987	s
+229989	v
+229991	o2
+v
+o
+adv
+229997	v
+io
+o
+v
+io
+v
+o
+230005	s
+o
+v
+v
+230010	o
+adv
+v
+230014	p
+230016	vc
+s
+o
+v
+230023	p
+230025	adv
+vc
+230028	s
+v
+o
+adv
+230033	adv
+v
+o
+s
+v
+o
+o
+s
+v
+io
+adv
+vc
+s
+p
+adv
+230050	o
+v
+o
+v
+230055	o
+230057	v
+o
+230060	v
+230062	o
 v
 adv
 adv
-230092	s
+230069	adv
+v
+v
+o
+230075	adv
+v
+230078	v
+io
 o
 adv
 v
-s
-230098	v
-o
-230102	s
-v
-s
+adv
+230085	o
+adv
 v
 adv
-230109	v
-s
-230113	s
-p
-230118	s
-p
-s
-p
+230091	o
 v
 o
+230096	v
+230098	o
+adv
+v
+adv
+o
+s
+v
+o
+adv
+v
+adv
+230110	v
+230113	o
+230120	v
+s
+230123	adv
 230126	v
-o
-s
-vc
 v
 o
-230134	v
-o
-v
 adv
-230140	s
-v
-o
-230144	v
-io
-o
+230131	v
+s
+230134	o
+s
 v
 io
-s
 adv
+230140	apposition
+230143	s
+adv
+230146	v
+s
+v
+adv
+s
+230152	v
+230154	adv
 p
-o
-aux
-230155	s
-v
-230158	o
-io
-v
-v
-o
-230164	adv
-io
-v
-s
-230169	v
-io
-o
-230175	s
-v
-o
-o
-230180	v
-230182	s
-230184	v
-o
-230188	adv
-v
-230191	o
-adv
-v
-adv
-v
-o
-o
-230199	adv
-v
-230202	s
-230204	o
-v
-adv
 vc
-p
-230210	p
-230212	v
-o
 o
 v
 io
+230161	adv
+v
+o2
+v
+o
+230167	v
+s
+230170	s
+v
+o
+v
+o
+v
+io
+230178	o
+v
+230182	adv
+v
+o
+230186	o
+230188	o
+v
+io
+230193	v
+s
+230196	v
+o
+230199	s
+v
+io
+o
+230204	io
+adv
 adv
 v
-aux
-230222	apposition
+230209	p
+vc
+adv
+230213	v
+adv
+v
+o
+230218	s
+230220	v
+o
+adv
+v
 230226	o
 v
-s
-adv
-230232	s
-o
-v
-o2
-230237	v
-o
-o2
-o
-v
 io
 s
-230245	o
 v
-io
 o
-230250	v
-io
-230253	s
-v
-s
-v
-io
-adv
-v
-s
-230263	v
-v
-230266	s
-v
-io
+230234	s
 o
-v
-230272	v
-adv
-230275	v
-o
-v
-230279	v
-adv
-230283	s
-p
-adv
-vc
-230288	adv
 v
 io
 v
-230295	v
-v
 adv
-o
+230241	s
 v
-adv
+230246	adv
 v
-230303	s
-230307	adv
-adv
-v
-o
-230313	v
-s
-230316	v
-o
-230321	v
-io
 s
 adv
 v
-230327	v
+adv
+230254	v
+v
+o
+adv
+230259	v
+s
+v
+o
+adv
+230269	adv
+230272	adv
 v
 adv
-230331	s
-vc
-p
-230337	s
-230339	p
-vc
-aux
-230345	adv
+adv
+230279	adv
+230281	v
+230283	adv
 v
 o
-v
+adv
+230289	s
+230293	v
+adv
 o
-230352	aux
-o
 v
+io
 v
-o
-230358	o
+230300	adv
+v
 v
 adv
+230306	v
+s
+apposition
+230311	v
+o
+adv
+230319	v
+adv
+230322	o
+v
+v
+230326	v
+v
+io
+s
+o
+v
+230334	adv
+230336	v
+230338	v
+io
+s
+o
+v
 s
 p
 vc
 adv
-230367	o
 v
+230349	adv
+230351	v
+230353	v
 io
-230371	v
-adv
-s
-adv
-230376	s
-adv
+230356	adv
+230358	adv
 v
 o
-v
+230363	adv
 adv
+230366	v
+o
+v
+230370	s
+230373	adv
+p
+vc
+o
+v
+io
+o
+230381	adv
 230383	adv
 v
+o
+230388	adv
 adv
-230387	adv
+230391	v
+o
+230395	v
 adv
-s
-230391	adv
-adv
-v
-230395	s
+230398	v
+230400	s
+p
 vc
-p
-s
-p
+o
 v
+apposition
 adv
-s
-adv
-s
 v
 o
-230408	adv
-adv
 v
 v
-o
-230414	adv
 s
+230413	v
+o
 v
+230417	v
+io
 adv
 v
 adv
-230421	s
 230423	v
-230425	v
 o
+230426	adv
 230428	adv
-230430	v
-230432	v
-230435	v
-adv
-230438	s
-230440	adv
 v
 o
-v
-v
-230446	v
+230433	adv
 adv
-adv
-v
-s
-230452	o
-v
-230455	vc
-p
-230459	v
-o
-s
-s
+230436	v
 o
 v
+io
+230442	v
+230444	v
+s
+s
+230448	v
+s
 v
+230452	s
+230454	p
+vc
+s
+230458	v
+o
+v
+230462	v
+s
+230467	v
+o
 adv
-230473	o
+v
+o
+adv
 230475	v
-v
+s
 adv
-230482	s
-o
-230487	v
+230479	s
+230481	adv
+230483	o
+v
+230487	adv
 230489	v
-adv
-230493	o
-v
-io
+o
+230492	v
+s
+230496	o
 230498	s
-230501	p
-vc
-230504	s
-230506	v
-p
-vc
-s
-230512	v
-o
-230515	v
-o
-o
-230519	s
 v
-230522	s
-o
-230525	v
 adv
+230502	adv
+230505	o
+adv
+v
+o2
+v
+io
+o2
+v
+o
+v
+io
+adv
+230519	adv
+adv
+v
+o
+adv
+230526	v
+230528	v
 230530	s
+230532	v
+o
+adv
+v
+io
+v
+s
+230540	adv
+v
+io
+230544	adv
+adv
+230547	v
+io
+adv
+230552	adv
+230555	v
+230557	adv
+v
+io
+230561	s
+v
+o
+adv
+s
+230568	v
+o
+230572	s
+o
+v
+230576	v
+230578	s
+adv
+230581	v
+v
+adv
+230586	v
+adv
+230589	adv
+v
+o
+230593	v
+adv
+230596	v
+s
+230599	aux
+adv
+adv
+v
+230604	o
+adv
+v
+adv
+v
+230610	v
+o
+230613	adv
+o
+v
+230617	s
+o
+v
+adv
+v
+230623	adv
+v
+v
+io
+s
+adv
+v
+aux
+v
+s
+230634	v
+230636	v
+s
+adv
+230640	o
+o2
+v
+230644	adv
+vc
+p
+230648	s
 p
 vc
-230534	v
 o
+v
+io
+230655	adv
+o
+v
+adv
+230660	o
+v
+230663	v
 s
 v
-io
-adv
-v
 o
-o2
-230544	s
-adv
-v
 o
 v
 s
-230551	o
-230553	v
-o2
-230556	o
+230671	v
 o
+230674	adv
+230676	v
+aux
 v
-adv
-230562	v
+s
+v
+o
+230684	s
+v
+o
+230688	v
 io
-230565	s
-o
-v
-230570	s
-v
-o
-230574	o2
-v
-o
-230580	s
-v
-230583	o
-v
-230586	s
-230588	v
-230590	o
-o2
-v
 o
 adv
-230597	v
-io
+230693	aux
 o
 v
 io
 v
-o
-230606	s
-o
-v
-v
-230611	o
-adv
-v
-230615	p
-230617	vc
-s
-o
-v
-230625	p
-230627	adv
-vc
-230630	s
-v
-o
-adv
-230635	adv
-v
-o
-s
-v
-o
-230642	o
-s
-v
 io
-adv
-vc
-s
+o
 p
+230702	vc
+s
+230705	v
+o
+230708	apposition
+230713	o
+v
+apposition
+s
+o
+v
 adv
-230653	o
+230721	o
 v
 o
 v
-230659	o
-230661	v
-o
-230664	v
-230666	o
-v
-adv
-adv
-230673	adv
-v
-v
-o
-230680	adv
-v
-230683	v
 io
-o
-adv
 v
-adv
-230690	o
-adv
-v
-adv
-230696	o
-v
-o
-230701	v
-230703	o
-adv
-v
-adv
-o
-s
-v
-o
-adv
-v
-adv
-230715	v
-230718	o
-230725	v
-s
 230728	adv
-230731	v
 v
 o
+s
+aux
 adv
-230737	v
+adv
+o
+v
+adv
 s
-230741	o
-s
+v
+adv
+v
+o
+230744	io
+o
 v
 io
 adv
-230747	apposition
-230751	s
-adv
-230754	v
-s
+230750	p
+vc
+io
+o
 v
+230756	o
+230758	v
 adv
-s
-230760	v
-230762	adv
+v
+230762	s
+o
+v
+io
 p
 vc
+230769	o
 o
 v
 io
-230769	adv
-v
-o2
-v
-o
-230775	v
-s
-230778	s
-v
-o
-v
-o
 v
 io
-230787	o
+230777	s
 v
-230791	adv
-v
-o
-230795	o
-230797	o
-v
-io
-230803	v
-s
-230806	v
-o
-230809	s
-v
-io
-o
-230814	io
+230780	v
 adv
+230783	adv
+v
+230786	v
+230788	s
+o
+v
+s
 adv
 v
-230819	p
+230795	adv
+230797	v
+230799	adv
+o
+v
+io
+230805	p
 vc
+230808	s
+230810	p
+vc
+230813	s
+p
+230816	v
 adv
-230823	v
+230820	adv
+vc
+p
+230825	s
+p
+230828	vc
+s
 adv
 v
-o
-230828	s
-230830	v
+aux
+v
 o
 adv
-v
-230837	o
+230838	o
 v
 io
-s
-v
-o
+230842	vc
+p
 230845	s
-o
-v
-io
-o2
-v
-adv
-230853	s
-v
-230858	adv
-v
-s
-adv
-v
-adv
-230866	v
-v
-o
-adv
-230871	v
+230847	vc
+p
 s
 v
 o
 adv
-230882	adv
-230885	adv
-v
-adv
-o
-adv
-230893	adv
-230895	v
-230897	adv
-v
-o
-o
-adv
-230904	s
-230908	v
-adv
-o
+230855	o
 v
 io
-v
-230915	adv
-v
-v
-adv
-230923	v
+230859	v
+230861	s
+230863	v
+230865	adv
 s
-apposition
-230928	v
-o
-adv
-230936	v
-adv
-230939	o
+230870	s
 v
+adv
+230874	adv
 v
-230943	v
+230877	o
+v
+adv
+230882	v
+s
+230886	v
+adv
+s
 v
 io
-230947	s
 o
+230894	s
 v
-230952	adv
-230954	v
+o
+230898	adv
+vc
+p
+230903	s
+adv
+vc
+p
+230909	v
+230911	v
+o
+adv
+230917	v
+o
+adv
+230921	p
+230923	adv
+vc
+230926	s
+adv
+vc
+p
+230931	v
+o
+adv
+230935	s
+230938	p
+vc
+230941	o
+v
+adv
+230945	s
+v
+o
+adv
+230951	adv
+s
+v
+o
 230956	v
-io
 s
-o
+adv
+230960	adv
+230962	v
+adv
+230965	adv
+adv
 v
-s
+adv
+230971	adv
+230973	s
 p
 vc
-adv
-v
-230967	adv
-230969	v
-230971	v
-io
-230974	adv
-230976	adv
-v
-o
-230981	adv
-adv
-230984	v
-o
-v
-230988	s
-230991	adv
+230977	s
+aux
+p
+s
+p
+230983	s
 p
 vc
+230987	s
+v
+230990	s
+o
+v
 s
+o
 o
 v
 io
-o
-231000	adv
-231002	adv
 v
-o
-231007	adv
+io
+231001	vc
+p
+231004	s
+p
+apposition
+s
+p
+231010	s
+p
+231013	v
 adv
-231010	v
-o
-231014	v
-adv
-231017	v
+231016	v
+s
 231019	s
-231021	p
-vc
 o
 v
-apposition
-adv
-v
+231023	v
 o
+231026	o
 v
-v
-s
-231033	v
-o
-v
-231037	v
-io
-adv
-v
-adv
-231043	v
-o
-231046	adv
-231048	adv
-v
-o
-231053	adv
-adv
-231056	v
+aux
 o
 v
 io
-231063	v
-231065	v
-s
-s
-231069	v
-s
 v
-231073	s
-231075	p
+231034	p
 vc
 s
-231079	v
-o
-v
-231083	v
 s
-231088	v
+vc
+adv
+231041	v
 o
-adv
-v
-o
-adv
-231096	v
-s
-adv
-231100	s
-231102	adv
-231104	o
-v
-231108	adv
-231110	v
-o
-231113	v
-s
-231117	o
-231119	s
-v
-adv
-231123	adv
-231126	o
-adv
-v
-o2
+231045	o
 v
 io
-o2
+231049	v
+o
+adv
+231053	aux
+231055	s
+231057	o
+adv
 v
+s
+231062	o
+v
+231066	s
+v
+231069	s
 o
 v
+231073	v
 io
-adv
-231140	adv
+o
+231078	v
+231080	s
 adv
 v
 o
+p
+vc
+s
+p
+o
+v
+s
+v
 adv
+231095	adv
+231099	p
+vc
+adv
+v
+s
+231107	v
+231109	s
+231111	v
+o
+o
+231115	adv
+v
+s
+adv
+adv
+231122	s
+231124	v
+o
+231135	v
+adv
+adv
+231140	s
+231142	v
+o
+v
+adv
+v
 231148	v
-231150	v
-231152	s
-231154	v
+io
 o
-adv
+v
 v
 io
-231160	v
+o
+apposition
+v
+io
 s
-231163	adv
+vc
 v
-io
-231167	adv
-adv
-231170	v
-io
-adv
-231175	adv
-231178	v
-231180	adv
-v
-io
-231184	s
-v
+231162	s
+231164	v
 o
 adv
-231189	s
-231192	v
+231169	v
+io
+s
+vc
+v
+adv
+231177	v
+adv
+adv
+231181	v
 o
-231196	s
 o
 v
-231200	v
-231202	s
-adv
+s
+231187	v
+o
+apposition
+v
+s
+v
+io
+231195	s
+vc
+231199	o
+v
+v
+s
+v
 231205	v
-231207	v
-adv
-231211	v
-adv
-231214	adv
+s
+o
 v
 o
+v
+io
+adv
+v
+o
+231216	s
 231218	v
+o
+v
+o
+231224	v
+o
+231229	v
+o
+231234	vc
+231236	p
 adv
-231221	v
 s
-231224	aux
-adv
-adv
 v
-231229	o
-adv
+231241	s
+io
 v
-adv
-v
-231235	v
 o
-231238	adv
-o
-v
-231242	s
-o
-v
 adv
-v
-231248	adv
-v
+231247	aux
+o
 v
 io
 s
-adv
 v
-aux
-v
-s
-231259	v
-231262	v
-s
-adv
-231266	o
-o2
-v
-231270	adv
-vc
-p
-231274	s
-p
-vc
 o
+s
+231263	v
+o
+231266	v
+o
+231269	v
+adv
+adv
+vc
+231274	p
+231276	s
+vc
+p
+231281	vc
+231283	s
 v
 io
-231281	adv
-o
-v
-231285	adv
-231287	o
-v
-231290	v
+231287	v
 s
 v
-o
-o
-v
+adv
+231292	v
+231294	o
 s
-231298	v
-o
-231301	adv
-231303	v
-aux
-v
-s
-v
-o
-231311	s
-v
-o
+231300	s
+231303	vc
+p
+adv
+231307	v
+adv
+adv
+231313	s
 231315	v
-io
-o
 adv
-231320	aux
+231318	adv
+231320	v
+231322	s
+231326	apposition
+231330	v
+io
+231333	v
 o
 v
-io
-v
-io
-o
+231337	io
+s
+231340	apposition
+s
 p
-231329	vc
+231345	vc
+231348	v
 s
-231332	v
-o
-231335	apposition
-231340	o
+adv
+vc
 v
-apposition
-s
+231354	s
+231358	o
+v
+231361	p
+vc
+231364	v
+v
+231367	s
+231369	adv
+231371	s
+231373	v
 o
+adv
+231383	v
+io
+s
+s
+adv
+v
+io
+s
+adv
 v
 adv
-231348	o
-231350	v
+231398	adv
+s
+231401	v
+231403	adv
+v
+o
+adv
+o
+v
+v
+v
 o
 v
 io
-v
-231356	adv
-v
-o
-s
 aux
-adv
-adv
-231364	o
-v
-adv
 s
 v
+o
+v
+s
+o
+231422	s
+v
+s
+231426	v
+231428	v
+o
+io
+v
 adv
-v
-o
-231373	io
-231375	o
-v
-io
-adv
-231381	p
-vc
-io
-o
-v
-231387	o
-231389	v
-231391	adv
-v
-231394	s
-o
-v
-io
-p
-vc
-231401	o
-231403	o
 v
 io
 v
 io
-231410	s
+s
+o
+231440	adv
 v
-231413	v
+v
 adv
-231416	adv
-v
-231419	v
-231421	s
+231447	adv
+adv
 o
 v
+v
+231453	o
 s
+v
+adv
+231458	apposition
+v
+231461	s
+231463	v
+231465	io
+s
+p
+231470	vc
+v
+s
+231474	v
+adv
+vc
+v
+s
+231484	p
+vc
 adv
 v
-231429	adv
-231431	v
-231433	adv
+s
+o
+s
+s
+v
+adv
+231495	p
+adv
+231498	v
+s
+231501	adv
+s
+v
+v
+231506	o
+adv
+231509	adv
+231511	vc
+231513	p
+231515	s
+adv
+v
+adv
+231522	adv
+v
+231525	v
+o
+v
+231529	s
+adv
+adv
+231533	v
+o
+231536	v
+231539	v
+231541	v
+io
+231544	adv
+v
+s
+o
+adv
+io
+v
+o
+v
+231554	io
+s
+o
+v
+o
+s
+231561	adv
+231564	v
 o
 v
 io
-231439	p
-vc
-231442	s
-231444	p
-vc
-231447	s
-p
-231450	v
-adv
-231455	adv
-vc
-p
-231460	s
-p
-231463	vc
 s
 adv
+adv
 v
-aux
 v
 o
+231575	s
+231578	v
+o
+v
+v
 adv
-231474	o
+v
+v
+v
+231587	adv
+adv
+231590	s
+231593	v
+o
+231596	v
+io
+s
+vc
+p
+231603	v
+s
+o
+adv
+s
+o
+v
+231611	s
 v
 io
-231478	vc
-p
-231481	s
-231484	vc
-p
-s
+adv
 v
+s
+s
+p
+vc
+s
+231626	v
 o
-adv
-231493	o
-v
-io
-231497	v
-231499	o
-231501	s
-231503	v
-231505	adv
-s
-231510	s
-v
-adv
-231514	adv
-v
-231517	o
-v
-adv
-231522	v
-s
-231526	v
-adv
-s
-v
 io
 o
-231534	o2
+v
+v
 s
-v
-o
-231539	adv
-vc
-p
-231544	s
-adv
-vc
-p
-231550	v
-231552	v
-o
-adv
-231558	v
-o
-adv
-231562	p
-231564	adv
-vc
-231567	s
-adv
-vc
-p
-231572	v
-o
-adv
-231576	s
-231579	p
-vc
-231583	o
-v
-adv
-231587	s
-v
-o
-adv
-231593	adv
 s
-v
-o
-231598	v
-s
-adv
-231604	adv
-231606	v
-adv
-231609	adv
-adv
-v
-adv
-231615	adv
-231617	s
-p
+231636	adv
 vc
-231621	s
-aux
 p
+231642	p
+231645	vc
 s
-p
-231627	s
-p
-vc
-231631	s
-v
-231634	s
-o
-v
-231640	s
-o
-231643	o
+231649	s
+231652	v
+231654	adv
 v
 io
-v
-io
-231649	vc
-p
-231652	s
-p
-apposition
-s
-p
-231658	s
-p
-231661	v
 adv
-231664	v
+231659	s
+231662	adv
+vc
+p
+v
+231667	io
 s
-231667	s
-o
-v
-231671	v
-o
-231674	o
-v
-aux
-o
-v
-io
-v
-231682	p
+231670	p
 vc
 s
+v
 s
+s
+v
+231678	p
 vc
+s
+adv
+v
+231684	adv
+v
 adv
 231689	v
-o
-231694	o
-v
 io
+s
+vc
+p
+231695	v
+o
 231698	v
-o
-adv
-231702	aux
-231704	s
-231706	o
-adv
-v
+io
 s
-231711	o
+p
+vc
+s
+231705	o
 v
-231715	s
+adv
 v
-231718	s
+adv
+231712	v
+io
+s
+adv
+v
+adv
 o
-v
-231722	o
+vc
+231721	p
+adv
+o
 v
 io
-o
+adv
 231728	v
-231730	s
-231732	adv
+231730	v
+io
+o
+231735	v
+231737	adv
 v
 o
-p
+o
+231742	o
 vc
-s
-p
-o
-v
-s
-v
-adv
-231746	adv
-231751	p
-vc
-s
-adv
-v
-s
-231760	v
-231762	s
-231764	v
-o
-o
-231768	adv
-v
-s
-adv
-adv
-231775	s
-231777	v
-o
-231788	v
-adv
-adv
-231793	s
-231795	v
-o
-v
-adv
-v
-231801	v
-io
-o
-v
-v
-io
-o
-apposition
-v
-io
-s
-vc
-v
-231815	s
-231817	v
-o
-adv
-231823	v
-io
-s
-vc
-v
-adv
-231831	v
-adv
-adv
-231835	v
-o
-o
-v
-s
-231841	v
-o
-apposition
-231845	v
-s
-o
-v
-io
-231851	s
-vc
-231855	o
-v
-v
-s
-v
-231861	v
-s
-231864	o
-v
-o
-v
-io
-adv
-v
-o
-231873	s
-231875	v
-o
-v
-o
-231881	v
-o
-231886	v
-o
-231891	vc
-231893	p
-adv
-s
-v
-231898	s
-io
-v
-o
-adv
-231904	aux
-231906	o
-v
-io
-s
-v
-o
-s
-231921	v
-o
-231924	v
-o
-231928	v
-adv
-adv
-vc
-231933	p
-231936	s
-vc
-p
-231941	vc
-231943	s
-v
-io
-231947	v
-s
-v
-adv
-231952	v
-231954	o
-s
-231960	s
-231963	vc
+231745	s
 p
 adv
-231967	v
+231749	v
+s
+o
+231753	v
+231756	s
+v
+o
 adv
+v
 adv
-231973	s
-231975	v
+231764	adv
+v
+o
+231769	v
 adv
-231978	adv
-231980	v
-231982	s
-231986	apposition
-231990	v
+231772	v
+v
+aux
+231778	v
 io
-231993	v
 o
-v
-231997	io
-s
-232000	apposition
-s
-p
-232005	vc
-232008	v
-s
+231782	v
 adv
-vc
-v
-232014	s
-232018	o
-v
-232021	p
-vc
-232024	v
-v
-232027	s
-232029	adv
-232031	s
-232033	v
-o
 adv
-232043	v
-io
 s
-s
-adv
-v
-io
-s
-adv
-v
-adv
-232059	adv
-s
-232062	v
-232064	adv
-v
-o
-adv
-o
-v
-v
-v
-o
-v
+231787	v
 io
 aux
+v
+io
+o
+adv
+231795	v
+231797	o
+v
+adv
+v
+231802	s
+adv
+v
+o
+231812	v
+io
+v
+p
+231818	v
+o
 s
+231824	v
+v
+v
+v
+v
+io
+s
+v
+o
+s
+231835	v
+s
+231838	adv
+v
+adv
+o
+v
+io
+s
+o
+s
+o
+v
+231850	adv
+231852	v
+v
+231855	o2
+o
+v
+231860	v
+s
+o
+231864	adv
+v
+231868	v
+adv
+231871	adv
+231873	v
+io
+p
+vc
+s
+s
+231880	o
+adv
+v
+io
+v
+231886	io
+s
+io
+v
+v
+231892	o
+v
+v
+o
+231897	o
+v
 v
 o
 v
 s
+adv
+v
 o
-232083	s
+adv
+231908	adv
+v
+io
+adv
+adv
+v
+o
+io
+o
+v
+adv
+s
+v
+v
+o
+s
+231925	v
+v
+231928	o
+v
+adv
+vc
+p
+231934	s
+o2
+o
+v
+v
+io
+s
+231942	v
+o
+231945	v
+adv
+o
+231949	v
+adv
+adv
+231953	vc
+p
+adv
+231957	p
+vc
+231960	p
+231962	s
+vc
+p
+231966	v
+io
+v
+p
+231971	v
+231973	s
+v
+v
+v
+o
+v
+io
+s
+o
+231983	v
 v
 s
-232087	v
+adv
+v
+o
+231990	adv
+o
+adv
+231994	v
+o
+io
+231998	v
+v
+232001	o
+232003	v
+io
+o
+v
+adv
+vc
+232010	s
+vc
+adv
+p
+adv
+o
+v
+232019	adv
+o
+adv
+232023	adv
+232025	o
+v
+232028	o
+s
+232031	v
+adv
+232034	v
+232036	aux
+232038	apposition
+apposition
+232042	o
+232045	s
+v
+232050	p
+vc
+s
+232054	adv
+v
+s
+232058	v
+adv
+v
+232062	io
+s
+232066	o
+v
+aux
+232073	s
+v
+p
+vc
+232078	v
+s
+o
+v
+v
+s
+232086	v
+o
 232089	v
 o
-io
-v
-adv
-v
-io
-v
-io
-s
+232093	v
 o
-232102	adv
-v
-v
-adv
-232107	o
-232110	adv
-adv
+io
 o
-v
-v
-232116	o
-s
-v
-adv
-232121	apposition
-v
-232124	s
-232126	v
-232128	io
-s
+232098	o
+vc
+232101	s
 p
-232133	vc
-v
-s
-232137	v
 adv
-vc
-v
-s
-232147	p
-vc
+232105	p
 adv
 v
-s
+232109	adv
+o
+v
+o
+232114	v
+adv
+p
+vc
+232119	s
+v
+o
+v
+o
+232125	io
+232127	adv
+232130	v
 o
 s
-s
+232135	o
 v
-adv
-232158	p
-adv
+v
+232139	adv
+232143	s
+232154	apposition
+232158	apposition
+s
 232161	v
 s
-232164	adv
-s
-v
-v
-232169	o
-adv
-232172	adv
-232174	vc
-232176	p
-232178	s
-adv
-v
-adv
-232185	adv
-v
-232188	v
+232166	v
 o
 v
-232192	s
-adv
-adv
-232196	v
-o
-232199	v
-232202	v
-232204	v
-io
-o
-232208	adv
-v
-s
-o
-adv
-io
-v
-o
-v
-232218	io
-s
-o
-v
-o
-s
-232225	adv
-232228	v
-o
 v
 io
-s
-adv
-adv
+aux
 v
+p
+232175	adv
 v
-o
-232239	s
-232242	v
-o
-v
-v
-adv
-v
-v
-v
-232251	adv
-adv
-232254	s
-232257	v
-o
-232260	v
 io
+v
+p
+232182	adv
+232185	v
+s
+o
+adv
+232190	adv
+v
+s
+232194	adv
+s
+v
+232198	v
+s
+v
+v
+s
+v
+232205	o
+232209	adv
+v
+v
+io
+232216	v
+o
+s
+v
+v
+232222	v
+o
+v
+o
+s
+232229	p
+vc
+232232	adv
+v
+adv
+232236	s
+adv
+232239	vc
+232241	p
+s
+232246	v
+o
+232249	v
+s
+232253	v
+v
+232256	s
+232259	o
+232264	v
+232268	v
+adv
+adv
+232273	v
+232275	v
+adv
+s
+v
+v
+o
+232284	s
+232286	adv
+o
+232289	v
+232291	v
+adv
+s
+232296	v
+v
+232299	p
 s
 vc
-p
-232267	v
-s
-o
-adv
-s
-o
+232304	s
 v
-232275	s
+232307	adv
 v
-io
-adv
-v
-s
-o
-s
-p
-vc
-232286	s
-232292	v
-o
-io
-o
+232310	s
 v
 v
-s
-o
-s
-232303	adv
-vc
-p
-232309	p
-232312	vc
-s
+232314	s
 232316	s
-232319	v
-232321	adv
 v
-io
+s
 adv
-232326	s
-232329	adv
+v
+232322	adv
+s
+v
+v
+adv
+o
+v
+adv
+232331	v
+o
+s
+232335	adv
 vc
 p
-v
-232334	io
-s
-232337	p
-vc
-s
-v
-s
+232339	v
+232341	adv
+232346	v
 o
+232351	v
 s
 v
-232346	p
-vc
+232356	v
 o
-232350	s
-adv
-v
-232354	adv
-v
-adv
 232359	v
-io
-s
-vc
-p
-232365	v
+232361	s
+232363	v
+adv
+adv
+adv
+v
 o
-232368	v
-io
-s
-p
-vc
-s
+232371	adv
+232373	v
 232375	o
-v
-adv
-v
-adv
-232382	v
-io
-s
-adv
-v
-adv
+232379	v
 o
+adv
+adv
+232385	p
 vc
-232391	p
 adv
-o
 v
-io
+232390	vc
+232392	p
+232394	adv
+v
+s
+232398	p
+232401	adv
 adv
-232398	v
-232400	v
-io
-o
-232405	v
+s
+v
+adv
 232407	adv
+232412	p
+vc
+s
 v
 o
-o
-232412	o
-vc
-232415	s
+adv
+232421	s
+apposition
+v
+adv
 p
 adv
-232419	v
+vc
+adv
+232431	v
 s
-o
-232423	v
-232426	s
-v
-o
-adv
 v
 adv
-232434	adv
-v
-o
-232439	v
+232437	v
+232440	v
 adv
-232442	v
+232448	o
 v
-aux
-232448	v
-io
-o
+s
 232452	v
-adv
-adv
-s
-232457	v
-io
-aux
-v
-io
-o
-adv
-232465	v
-232467	o
-v
-adv
-v
-232472	s
-adv
-v
-o
-232482	v
 io
 o
 v
-p
-232490	v
 o
-s
-232496	v
-v
-o
-v
-v
-v
-io
-s
-o2
-v
-o
-s
-232509	v
-s
-232512	adv
+adv
+232460	adv
 v
 adv
+v
 o
 v
-io
-s
-o
-s
-o
-v
-232524	adv
-232526	v
-v
-232529	o2
-o
-v
-232535	v
-s
-o
-232539	adv
-v
-232543	v
+232467	s
+232473	v
 adv
-232546	adv
-232548	v
-io
-p
+232476	v
+232478	s
+adv
+232482	s
+232484	v
+adv
+adv
+232488	v
+adv
+adv
+232494	v
+v
+v
+s
+adv
+232500	v
+v
+232503	s
+232505	v
+o
+232508	v
+adv
+232512	v
+o
+s
+v
+232517	aux
+s
 vc
-s
-s
-232555	o
+p
+232523	adv
+232525	v
+232527	adv
+v
 adv
+232531	adv
+232533	v
+s
+232538	v
+adv
+adv
+232544	v
+232546	v
+adv
+232549	v
+o
+v
+s
+adv
+v
+v
+232557	adv
+adv
+s
+s
+232562	v
+adv
+232565	adv
+v
+232569	v
+v
+adv
+232574	v
+s
+232578	v
+apposition
+s
+adv
+232584	s
+adv
+232587	adv
+v
+s
+232593	v
+io
+s
+aux
+adv
+v
 v
 io
-v
-232561	io
-s
-o2
-io
-v
-v
-232568	o
-v
-v
-o
-232573	o
-v
-v
-o
-v
-s
-o
-adv
-v
-o
-adv
-232585	adv
-v
-io
-adv
-adv
-v
-o
-io
-o
-v
-adv
-s
-v
-v
-o
-s
 232602	v
-v
 o
-232607	o
+232606	adv
 v
 adv
+v
+o
+o
+v
+v
+adv
+232618	v
+s
+v
+232622	adv
+v
+232625	p
 vc
-p
-232613	s
-o2
+v
+io
+s
+aux
+adv
+v
+o
+v
+s
+v
+232638	p
+vc
+v
+io
+aux
+232644	s
+v
+o
+v
+io
+adv
+v
+o
+s
 o
 v
 v
 io
 s
-232621	v
-o
-232624	v
-adv
-o
-232628	v
-adv
-adv
-232632	vc
-p
-adv
-232636	p
-232638	vc
-232640	p
-232642	s
-vc
-p
-232646	v
+aux
+v
+s
+v
 io
-o
-v
-p
-232652	v
-232654	s
-o
-232657	v
-v
-v
-o
+adv
+s
+vc
+aux
 v
 io
 s
 o
-232666	v
-v
-s
-o
 adv
+o
 v
-o
-232674	adv
-o
 adv
-232678	v
-o
+232676	v
+adv
+232680	v
+232682	adv
+232686	v
 io
-232682	v
-v
-232685	o
-232687	v
-io
-o
 v
 adv
-vc
-p
-232696	s
-vc
-adv
-p
-adv
-o
-v
-232705	adv
-o
-adv
-232709	adv
-232711	o
-v
-232714	o
+232701	v
 s
-232717	v
-adv
-232720	v
-232722	aux
-232724	apposition
 apposition
-232728	o
-232731	s
 v
-232737	p
-vc
-s
-232741	adv
+io
+232707	v
+o
+232710	o
 v
-s
-232745	v
+io
+v
+232715	s
 adv
-v
-232749	io
-s
-232753	o
-v
-aux
-232760	s
+232719	apposition
+232722	s
 v
 p
 vc
-232765	v
 s
-o
+adv
+232731	v
+s
+232735	v
+adv
+232739	v
+io
+s
+io
+232744	o
 v
 v
+o
+232752	io
+v
+232755	s
+v
+o
+v
+232760	io
 s
-232773	v
+adv
+s
+io
+232766	v
 o
-232776	v
+s
+s
+v
 o
-232781	v
+232773	o
+v
+v
+232777	v
+io
+v
 o
+o
+v
+232784	v
 io
 o
-232786	o
-232788	vc
-232790	s
-p
-adv
-232794	p
-adv
-232797	v
-232799	adv
-o
 v
-o
-232804	v
-adv
+v
+s
+232792	apposition
+232795	vc
 p
+adv
 vc
-232809	s
+p
+232801	v
+s
 v
-o
-v
-o
-232815	io
-232817	adv
-232820	v
+232805	io
+s
+232808	v
 o
 s
-232825	o
+232812	v
+io
+232816	adv
 v
-v
-232829	adv
-232833	s
-232844	apposition
-232848	apposition
-s
-232851	v
-s
-232856	v
+adv
+232821	o
+232825	v
 o
+232828	adv
+232833	v
+o
+232836	adv
+232839	adv
 v
+232842	adv
+232844	adv
+vc
+p
+s
+232850	s
+p
+v
+s
+s
+v
+232858	v
+adv
+232862	v
+s
+io
+adv
 v
 io
-aux
-v
-p
-232865	adv
-v
-io
 o
-v
-p
-232873	adv
+232871	v
+o
+232874	adv
 232876	v
+o
+232881	v
+o
+232885	v
+adv
+232891	vc
+p
+232894	p
+v
 s
+232898	v
+io
+aux
+232906	v
+io
+s
+232910	v
+o
+v
+p
+adv
+v
+232917	v
+o
+232923	v
+s
+adv
+232927	s
+adv
+v
+adv
+232933	s
+232935	v
+o
+232938	v
+232940	s
+vc
+p
+232944	apposition
+232949	v
+o
+v
+adv
+232955	adv
+v
 o
 adv
-232881	adv
-v
 s
-232885	adv
+io
+adv
+232965	v
+232967	adv
+vc
+p
+s
+232974	vc
+p
+232978	apposition
+232991	v
+io
 s
 v
-232889	v
-s
-v
-v
-s
-v
-232896	o
-232900	adv
 v
 v
 io
-232908	v
+v
+s
+adv
+233002	v
+233004	v
+adv
+233008	adv
+233011	v
 o
 s
+233015	adv
 v
 v
-232914	v
-o
-v
-o
 s
-232921	p
+adv
+233021	adv
+233023	v
+s
+233026	p
 vc
-232925	adv
 v
-adv
-232929	s
-adv
-232932	vc
-232934	p
+233030	io
 s
-232939	v
+aux
 o
-232942	v
-s
-232946	v
 v
-232949	s
-232952	o
-232957	v
-232961	v
-adv
-adv
-232966	v
-232968	v
+v
+io
 adv
 s
-v
-v
-o
-232977	s
-232979	adv
-o
-232982	v
-232984	v
-adv
-s
-232990	v
-v
-232993	p
-s
-vc
-232998	s
-v
-233001	adv
-v
-233004	s
-v
-233007	v
-233009	s
-233011	s
-v
-s
-adv
-v
-233017	adv
-s
-v
-v
-adv
+233040	v
+io
 o
 v
 adv
-233026	v
-o
-s
-233030	adv
-vc
-p
-233034	v
-233036	adv
-233041	v
-o
-233046	v
-s
-v
+233049	o
 233051	v
-o
-233054	v
-233056	s
-233058	v
-adv
-adv
-adv
 v
+233055	adv
 o
-233066	adv
-233068	v
-233070	o
-233074	v
-o
-adv
-adv
-233080	p
-vc
-adv
 v
-233085	vc
-233087	p
-233090	adv
+v
+adv
+233063	v
+233067	o
 v
 s
-233094	p
-233096	s
-233098	adv
-adv
-s
-v
-adv
-233104	adv
-233109	p
+io
+p
 vc
 s
-v
+233075	v
+233077	p
+vc
 o
-233115	adv
-233119	s
-apposition
 v
+vc
+233083	p
+233085	v
+o
 adv
+233089	s
+233092	adv
+v
+233096	vc
 p
 adv
+233101	p
+233104	v
+o
+233110	v
+adv
+233113	v
+o
+s
+v
+233118	s
+v
+233121	s
+v
+io
+s
+v
+adv
+233128	o
+v
+adv
+v
+s
+233134	v
+o
+adv
+233138	adv
+233143	p
 vc
 adv
-233129	v
-s
-v
-adv
-233135	v
-233138	v
-adv
-233147	o
 v
 s
-233151	v
+v
 io
+s
+v
+v
+s
+v
+233156	v
 o
+s
+p
+vc
 v
+233163	p
+vc
+v
+s
+233170	v
 o
+233173	v
+io
+233176	o
 adv
-233159	adv
+s
+adv
 v
-adv
+s
+io
 v
-o
-v
-233166	s
-233172	v
-adv
-233175	v
-233177	s
-adv
-233181	s
-233183	v
-adv
 adv
 233187	v
-adv
-adv
-233193	v
 v
+io
+233191	s
+aux
 v
-s
-adv
-233199	v
-v
-233202	s
-233204	v
 o
-233207	v
 adv
-233211	v
+v
+io
+aux
+aux
+s
+v
+233203	v
 o
+v
+io
+v
+o
+233210	v
+io
+adv
+adv
+aux
+v
+o
+v
+io
+aux
+aux
 s
 v
-233216	aux
-233218	s
-vc
-p
-233223	adv
-233225	v
-233227	adv
+233224	v
+o
 v
+io
+v
+o
+233231	v
+io
 adv
-233231	adv
-233233	v
+aux
+v
+o
+v
 s
-233238	v
+233240	v
+io
 adv
-adv
-233244	v
+v
+o
 233246	v
-adv
-233249	v
-o
-v
-s
-adv
-v
-v
-233257	adv
-adv
-s
-s
-233262	v
-adv
-233265	adv
-v
-233269	v
-v
-adv
-233274	v
-s
-233278	v
-apposition
-s
-adv
-233284	s
-adv
-233287	adv
-v
-s
-233293	v
 io
-s
 aux
+o
+s
+v
+s
+v
+233255	v
+o
+v
+io
+s
+v
+o
+233263	v
+io
+o
+233267	vc
+p
+v
+o
+233272	v
 adv
+v
+233277	v
+v
+o
+233282	s
+v
+o
+233286	v
+adv
+adv
+v
+o
+233292	v
+v
+adv
+v
+o
+233298	o
 v
 v
 io
-233302	v
-o
-233306	adv
-v
-adv
 v
 o
-o
 v
-v
-adv
-233318	v
 s
 v
-233322	adv
+s
+o
 v
-233325	p
+s
+v
+s
+adv
+v
+adv
+233317	adv
+233321	v
+aux
+p
 vc
 v
+o
+o
+233329	v
+s
+v
+io
+aux
+s
+233336	p
+v
 io
 s
-aux
-adv
+233341	s
 v
+v
+233345	v
+s
+p
+s
 o
 v
-s
 v
-233338	p
+233353	s
+233355	adv
+233357	s
+233359	adv
+v
+233362	v
+233364	io
+s
+233367	adv
+v
+233371	s
+v
+v
+233375	v
+s
+p
+233379	s
 vc
-v
-io
-o
-aux
-233345	s
-v
-o
-v
-io
-adv
-v
-o
-s
-o
-v
-v
-io
-s
-aux
-v
-s
-v
-io
-adv
-aux
-s
-vc
-aux
-v
-io
-s
-o
-233374	adv
-o
+p
+233383	apposition
 v
 adv
-233379	v
-adv
-233383	v
-233385	adv
-233389	v
-io
-v
-adv
-233404	v
-s
-apposition
-v
-io
-233410	v
+233387	v
 o
-233413	o
+233390	v
+233392	p
+s
+233395	vc
 v
-io
+233398	s
+233400	o
+v
+s
+s
+233405	v
+adv
+adv
+s
+v
+233411	v
+o
+233414	v
+o
 233417	v
-233419	s
 adv
-233423	apposition
-233426	s
+233420	aux
+o
 v
+s
+v
+233427	adv
+adv
+v
+io
+adv
+233433	o
+v
+v
+io
+adv
+v
+o
+v
+adv
+v
+s
+adv
+233446	adv
+adv
+233449	v
+io
+233452	v
+o
+233459	v
+v
+io
+o
+adv
+adv
+v
+233467	v
+o
+233471	o
+v
+adv
+233476	s
+233478	v
+adv
+s
+233482	adv
+233484	v
+adv
+233489	s
+233492	v
+v
+o
+v
+aux
+adv
+233500	v
+o
+io
+v
+adv
+adv
 p
 vc
+v
+233511	o
 s
+v
 adv
-233435	v
-s
-233439	v
-adv
-233443	v
-io
-s
-io
-233448	o
-v
-v
-o
-233456	io
-v
-233459	s
-v
+233518	v
 o
 v
-233464	io
 s
-adv
-o2
-s
-io
-233472	v
-o
-s
-s
-v
-o
-233479	o
-v
-v
-233483	v
-io
-v
-o
-233488	o
-v
-233491	v
-io
-o
-v
-v
-s
-233499	apposition
-233502	vc
+233523	adv
+233525	vc
 p
 adv
-vc
-p
-233508	v
+233541	o
+v
+v
 s
 v
-233512	io
-s
-233515	v
+233547	s
+v
 o
+adv
+233555	v
+adv
+233558	v
 s
-233519	v
-io
-o
-233524	adv
+aux
+s
 v
 adv
-233529	o
-233533	v
-o
-233536	adv
-233541	v
-o
-233544	adv
-233547	adv
-v
-233550	adv
-233552	adv
-vc
-p
-s
-233558	s
-p
-233561	v
-s
-s
-v
-233567	v
 adv
-233571	v
-s
-io
+233566	s
 adv
 v
-io
-o
-233580	v
-o
+aux
+aux
+adv
+v
+v
+adv
+233576	s
+233579	v
+adv
+adv
 233583	adv
-233585	v
-o
-233590	v
-o
-233594	v
+v
 adv
-233600	vc
-p
-233603	p
 v
 s
-233607	v
-io
+v
+adv
+233591	adv
+v
+adv
+adv
+233596	vc
+p
+s
+vc
+p
+o
+v
+233605	v
+adv
+233608	v
+adv
+v
+s
+233625	apposition
+233628	s
+v
+adv
+o
+adv
+233637	apposition
+233645	adv
+233648	v
+s
+adv
+233653	v
+vc
+233656	s
+233660	p
+233662	aux
 aux
-233615	v
-io
+v
+v
 s
-o2
-233621	v
 o
 v
+s
+233672	adv
+233674	adv
+233676	vc
 p
-adv
 v
-233628	v
 o
-233634	v
-s
+233682	v
 adv
-233638	s
-adv
-v
-adv
-233644	s
-233646	v
+233685	v
 o
-233649	v
-233651	s
+233690	s
+233693	v
+o
+adv
+233700	p
 vc
-p
-233655	apposition
-233660	v
-o
 v
 adv
-233666	adv
-v
-o
-adv
+233705	v
 s
-io
-adv
-233676	v
-233678	adv
+233710	p
 vc
-p
-s
-233685	vc
-p
-233689	apposition
-233702	v
-io
-s
-v
-v
-v
-io
-v
-s
 adv
-233713	v
-233715	v
+v
 adv
+233716	vc
+s
 233719	adv
-233722	v
-o
-233725	s
-233727	adv
-v
-v
-s
-adv
-233733	adv
-233735	v
-s
-233738	p
+233722	s
 vc
+p
 v
-233742	io
+233727	adv
+233729	o
+233731	vc
+s
+233734	p
+233736	adv
+v
+v
+adv
+233741	o
+233743	v
+s
+v
+233747	aux
+233749	v
+adv
+adv
+233753	adv
+v
+233756	adv
+s
+233759	v
+adv
+233763	adv
+233765	adv
+v
+adv
+p
+233771	adv
+vc
+s
+233775	v
+o
+apposition
+233779	vc
+p
+s
+vc
+p
+233786	v
+v
 s
 aux
-o
+apposition
 v
-v
-io
-adv
-s
-233752	v
-io
 o
 v
 adv
-233761	o
-233763	v
+233797	apposition
 v
-233767	adv
 o
-v
-v
-adv
-233775	v
-233777	s
-233780	o
-v
-s
-io
-p
-vc
-s
-233788	v
-233790	p
-vc
-o
-v
-vc
-233796	p
-233798	v
-o
-adv
-233802	s
 233805	adv
 v
-233809	vc
-p
+s
+v
 adv
-233814	p
-233817	v
+233815	v
 o
+io
+233819	v
+s
+adv
 233823	v
 adv
-233826	v
-o
+233828	adv
+v
 s
-v
-233831	s
-v
-233834	s
-v
-io
+233833	vc
 s
-v
 adv
-233842	o
-v
+p
+233839	v
 adv
-v
+adv
+233843	s
+233845	v
 s
 233848	v
-o
-adv
-233852	adv
-233858	p
-vc
-adv
+233851	adv
 v
-s
-v
+233855	v
 io
-s
-o2
-v
 v
 s
-v
+233860	s
+233862	v
+adv
+233868	v
+s
+adv
 233872	v
-o
-s
-p
-vc
 v
-233879	p
-vc
-v
-s
-233886	v
-o
-233889	v
-io
-233892	o
 adv
-s
-adv
-p
+233876	s
 v
-s
+v
 io
 v
+233882	adv
+s
+apposition
+233889	apposition
+233892	v
+233894	s
+233896	v
+s
+233899	v
+233901	v
+s
 adv
 233905	v
+s
 v
-io
-233909	s
+233910	v
+v
 aux
+s
+233915	vc
 v
-o
+p
+233919	adv
+s
+v
 adv
+233926	adv
 v
-io
-aux
-aux
 s
-v
-233921	v
-o
-v
-io
-v
-o
-233928	v
-io
+233932	v
 adv
+233948	apposition
+233955	v
+233960	v
+v
+s
 adv
-aux
-v
-o
-v
-io
-aux
-aux
-s
-v
-233942	v
-o
-v
-io
-v
-o
-233949	v
-io
+233965	o
+233968	v
+233970	s
+233972	v
 adv
-aux
-v
-o
-233956	v
-s
-233959	v
-io
-adv
-v
-o
-233965	v
-io
-aux
-o
-s
+233975	v
+p
 v
 s
-v
-233974	v
-o
-v
-io
+vc
 s
-v
-o
 233982	v
-io
-o
-233986	vc
-p
 v
-o
-233991	v
+233985	adv
+v
+v
+233989	s
 adv
-v
+233992	v
+o
 233996	v
-v
-o
-234001	s
-v
-o
-234005	v
-adv
-adv
-v
-o
-234011	v
-v
-adv
-v
-o
-234017	o
-v
-v
 io
-v
-o
-v
-s
-v
-s
-234028	o
-v
-s
-v
-s
-adv
-v
-adv
-234037	adv
-234041	v
 aux
+234002	v
+adv
+s
+adv
 p
 vc
-v
+234009	v
 o
-o
-234049	v
+234015	s
+v
 s
 v
-io
-aux
-s
-234056	p
+vc
+234021	p
+234025	s
+vc
 v
-io
-s
-o2
-234062	s
-v
-v
-234066	v
-s
+adv
+234032	vc
 p
+234036	v
 s
-o
 v
+adv
+234042	adv
+234046	v
+s
+234054	s
+234056	o
 v
-234074	s
-234076	adv
-234078	s
-234080	adv
+234059	s
+234061	adv
 v
+adv
+234073	adv
+234076	v
+adv
+234081	v
 234083	v
-234085	io
-s
-234088	adv
+o
+adv
+234087	adv
+234089	o
+adv
+234092	adv
+o
+234097	s
 v
-234091	o
-234093	s
-v
-v
-234097	v
-s
-p
+adv
 234101	s
-vc
-p
-234105	apposition
-v
 adv
+v
+s
 234109	v
-o
-234112	v
-234114	p
 s
-234117	vc
-234119	v
-234121	s
-234124	o
-v
-s
-234128	s
-234130	v
-adv
-adv
 s
 v
-234136	v
 o
-234139	v
-o
-234142	v
-adv
-234145	aux
-o
-v
-s
-v
-234152	adv
-adv
-v
-io
-234157	adv
-234159	o
-v
-v
-io
-adv
-v
-o
-v
-adv
-v
-s
-adv
-234172	adv
-adv
-234175	v
-io
-234178	v
-o
-234185	v
-v
-io
-o
-adv
-adv
-v
-234193	v
-o
-234198	o
-v
-adv
-234203	s
-234205	v
-adv
-s
-234209	adv
-234211	v
-adv
-234216	s
-234219	v
-v
-o
-v
+234115	v
 aux
-adv
-234227	v
+aux
+v
 o
-io
+234121	aux
+234123	apposition
+apposition
 v
 adv
+234128	adv
+234131	o
+v
 adv
-p
+s
+adv
+234138	s
+v
+o
+234145	v
+234149	adv
+234151	v
+v
+o
+s
+v
+v
+o
+234161	adv
 vc
+p
+v
+s
+adv
+s
+234169	v
+adv
 v
 o
-234239	o
+adv
+adv
+234176	p
+234178	vc
+234180	adv
+v
+234183	adv
+v
 s
+234188	v
+s
+234191	adv
+234193	s
+234196	v
+adv
+234200	adv
+v
+o
+234204	adv
+234206	v
+s
+234209	v
+o
+v
+io
+o
+v
+o
+adv
+adv
+234220	aux
+aux
+v
 v
 adv
-234247	v
-o
-v
-s
-234252	adv
-234254	vc
+adv
+adv
+234230	v
+234234	s
+234236	vc
 p
 adv
-234270	o
-v
-v
-s
-v
-234276	s
-v
-o
-adv
-234286	v
-adv
-234289	v
-s
-aux
-s
-v
-adv
-adv
-234297	s
-adv
-v
-234302	aux
-aux
-adv
-v
-v
-adv
-234309	s
-234312	v
-adv
-adv
-234316	adv
-v
-adv
-v
-s
-v
-adv
-234324	adv
-v
-adv
-adv
-234330	vc
+234241	adv
 p
+234244	vc
+234246	v
+234248	adv
+v
+io
+s
+adv
+234256	v
+adv
+234260	v
+v
+adv
+234268	v
+adv
+234271	s
+234273	v
+o
+o
+234277	v
+s
+adv
 s
 vc
 p
+adv
+adv
+234288	v
 o
+234295	v
+adv
+234298	v
+o
+s
 v
-234339	v
+234304	adv
+234306	s
+v
 adv
-234342	v
-adv
+234310	v
+234312	s
 v
 s
-234359	apposition
-234362	s
-v
+io
+234317	v
 adv
+234321	v
 o
-adv
-234371	apposition
-234380	adv
-234383	v
+234324	o2
+234327	adv
+234329	v
 s
+234333	o2
+234335	o
+234337	v
+s
+apposition
+234341	o
+s
+v
+v
+234346	v
 adv
-234388	v
-vc
-234391	s
-234395	p
-234397	o
-234399	aux
+v
+234350	adv
+234356	o
+v
 aux
-v
-v
+aux
 s
-234405	o
-v
+234362	adv
+234364	v
+234366	v
 s
-234410	adv
-234412	adv
-234414	vc
-p
-v
+adv
+234372	adv
+234377	v
 o
+234382	p
+234384	vc
+s
+234387	p
+234394	o
+v
+s
+apposition
+234399	adv
+234402	v
+234404	v
+o
+v
+v
+adv
+234415	v
+o
+234418	v
 234420	v
 adv
-234423	v
+234424	s
+234426	v
+234428	o
+234441	v
+234443	adv
+s
+s
+234449	adv
+234451	v
+s
+234454	v
+adv
+234457	v
 o
-234428	s
-234431	v
+o2
+234462	o
+234466	v
+234468	v
 o
-adv
-234438	p
-vc
+io
+234472	s
+o
 v
 adv
-234443	v
-s
-234448	p
-vc
 adv
-v
+234478	v
 adv
-234454	vc
-s
-234457	adv
-234460	p
-s
-vc
-p
-v
-234466	adv
-234468	o
-234470	vc
-s
-234473	p
-234475	adv
-v
-v
 adv
-234480	o
 234482	v
-s
+234484	adv
+o
 v
-234486	aux
-234488	v
+o
 adv
-adv
-234493	adv
+234492	adv
 v
-234496	adv
-s
-234499	v
+o
+234496	v
+o
 adv
-234503	adv
-234506	adv
+234501	s
+234503	v
 v
 adv
+adv
+234508	s
+234511	v
+adv
+234514	adv
+234519	apposition
+234521	s
+234523	p
+adv
+234527	vc
+v
+o
+v
+adv
+adv
+234537	vc
 p
-234512	adv
-vc
-s
-234516	v
-o
-apposition
-234521	vc
-p
-s
-vc
-p
-234528	v
-v
-s
-aux
-apposition
 v
 o
-o
+adv
 v
 adv
-234540	apposition
-v
-o
-234549	adv
+234545	s
 v
 s
+234549	v
 v
 adv
-234559	v
+234553	v
 o
-io
-234563	v
-s
+v
+v
+234558	s
 adv
+adv
+234562	v
+v
+adv
+s
 234567	v
-adv
-234572	adv
+o
 v
-s
-234577	vc
-s
+o
 adv
-p
+v
+v
+234575	s
+s
+234578	adv
+v
+adv
+o
 234583	v
-adv
-adv
-234587	s
-234589	v
-s
-234592	v
 o
-234596	adv
-v
-234600	v
 io
 v
-s
-234605	s
-234607	v
 adv
-234613	v
-s
+234592	apposition
+v
+234595	v
+o
 adv
+234599	v
+o
+adv
+234603	v
+s
+234612	v
+v
+234615	v
 234617	v
+adv
+adv
+234621	adv
+v
+234624	v
+234626	v
+o
+234630	v
+s
+234633	o
+s
+v
+234637	v
+o
+v
+234641	o
+234643	s
+vc
+adv
+234647	v
+adv
+234654	v
+adv
+234657	adv
 v
 adv
-234621	s
 v
-v
-io
-v
-234627	adv
+234662	s
+o
+234667	v
 s
-apposition
-234634	apposition
-234639	v
-234641	s
-234643	v
-s
-234646	v
-234648	v
-s
+234670	adv
 adv
-234652	v
-s
-v
-234657	v
-v
-aux
-s
-234662	vc
-v
+234674	vc
 p
-234666	adv
-s
+adv
+v
+234679	s
 v
 adv
+234683	aux
+aux
 adv
-234674	adv
+v
+adv
+234689	o
+adv
+v
+234693	adv
+234696	v
 v
 s
-234680	v
-adv
-234696	apposition
-234703	v
+s
+234704	apposition
 234708	v
-v
+234712	o
 s
-adv
-234713	o
+v
 234716	v
-234718	s
-234720	v
 adv
-234723	v
-p
-v
+234719	v
 s
-vc
+v
+234723	s
+234725	o
+234727	v
+234729	v
 s
-234730	v
 v
-234733	adv
-v
-v
-234737	s
-adv
-234740	v
-o
-234744	v
 io
-aux
-234750	v
-adv
-s
-adv
-p
-vc
-234757	v
 o
-234765	s
-v
+234737	v
+o
 s
 v
+adv
+adv
+s
+p
 vc
-234771	p
-234775	s
-vc
+234747	adv
+234752	o
+v
+234755	v
+s
+234759	s
+234761	apposition
+234763	v
+io
+o
+234767	adv
+234770	adv
+aux
+v
+234774	adv
+v
+234777	s
+234780	s
+234782	o
 v
 adv
-234781	o
-234784	vc
-p
 234788	v
 s
+234791	v
+adv
 v
-adv
-234794	adv
-234798	v
-s
-234806	s
-234808	o
-v
-234811	s
-234813	adv
-v
-adv
-234825	adv
-234828	v
-adv
-234833	v
-234836	v
-o
-adv
-234840	adv
-234842	o
-adv
-234845	adv
-o
-234850	s
-v
-adv
-234854	s
-adv
+234796	adv
 v
 s
-234862	v
+234801	v
 s
+adv
+234807	v
+234811	v
+io
+o
+v
 s
 v
-o
-234868	v
-234871	aux
-aux
+adv
+234820	o
 v
-o
-234876	aux
-234878	apposition
+s
+adv
+234830	s
+234832	v
+234834	o
+io
+v
+s
 apposition
+adv
+234843	o
+o
 v
 adv
-234883	adv
-adv
-234887	o
+234848	o
 v
 adv
+v
+234853	s
 s
 adv
-234894	s
 v
 o
-234901	v
-234905	adv
-234907	v
+234859	v
+adv
+234862	s
+234871	s
+v
+adv
 v
 o
-s
-v
-v
-o
-234917	adv
+234877	s
 vc
 p
+234885	o
+s
+v
+adv
+234891	v
+adv
+234894	adv
+234897	v
+s
+234902	io
+adv
 v
 s
-adv
-s
-234925	v
-adv
+o
+234908	v
 o
 v
 o
 adv
-adv
-234933	p
-234935	vc
-234937	adv
-v
-234941	adv
-v
-s
-234946	v
-s
-234949	adv
-234951	s
-234954	v
-adv
-234958	adv
 v
 o
-234962	adv
-234964	v
-s
-234967	v
+adv
+234918	v
+234920	s
+adv
+234923	v
 o
+s
+234933	v
+adv
 v
+s
+o
+234939	v
+adv
+234942	o
+234944	apposition
+234948	v
 io
 o
+234952	v
+adv
+adv
+234956	vc
+234958	p
+adv
+s
+234962	v
+o
 v
+234966	vc
+s
+234969	p
+234972	v
+234974	adv
+234976	v
+s
+234984	adv
+234986	s
+234988	apposition
+234993	s
+vc
+p
+234998	v
 o
 adv
+235002	v
 adv
-234980	aux
+235009	v
+o
+s
+adv
+s
+v
+adv
+v
+adv
 aux
+235023	s
+adv
 v
-v
 adv
-adv
-adv
-234990	v
-234994	s
-234996	vc
-p
-adv
-235001	adv
-p
-235004	vc
-235006	v
-235008	adv
-v
-io
+235029	adv
 s
+v
+p
+vc
 adv
-235016	v
-adv
-235020	v
+235041	adv
+235046	apposition
+o
+s
+v
+o
+s
 v
 adv
-235028	v
 adv
-235031	s
-235033	v
-o
-o
-235037	v
 s
+v
+adv
 adv
 s
 vc
 p
+235064	v
+adv
+235067	apposition
+vc
+p
+235072	adv
+vc
+p
+235076	s
+adv
+235081	vc
+p
+235084	v
 adv
 adv
-235048	v
-o
-235055	v
-adv
-235058	v
-o
-o
+v
+v
 s
-v
-235065	adv
-235067	s
-v
 adv
-235071	v
-235073	s
 v
-s
-io
-235078	o
-v
-adv
-235083	v
-o
-235086	o2
-235089	adv
-235091	v
-s
-235095	o2
-235097	o
+235093	o
 235099	v
-s
-apposition
-235104	o
-s
+235101	p
+vc
+235104	p
 v
 v
-235109	v
+235108	o
+235110	p
+235112	vc
+s
+235116	v
 adv
 v
-235113	adv
-235119	o
-o
 v
-235123	aux
-aux
-235126	s
-235128	adv
-235130	v
-235132	v
-s
-adv
-235138	adv
-235143	v
-o
-235148	p
-235150	vc
-s
-235153	p
-235161	o
-v
-s
-apposition
-235166	adv
-235169	v
-235171	v
 o
 v
 v
+v
+235125	s
 adv
-235182	v
+235128	v
+v
+adv
+v
 o
-235185	v
-235187	v
+v
+io
+235139	s
+v
 adv
-235191	s
-235193	v
-235195	o
-235208	v
-235210	adv
-s
-s
-235216	adv
-235218	v
-s
-235221	v
 adv
-235224	v
+v
+adv
+p
+235147	adv
+v
+v
+235152	adv
+adv
+v
+adv
+235157	v
+io
+adv
+v
+adv
+235164	io
+235166	v
 o
-o2
-235229	o
+v
+adv
+adv
+v
+235173	adv
+235177	s
+235181	v
+v
+adv
+235185	p
+vc
+adv
+235189	o
+v
+adv
+235193	o
+v
+adv
+v
+235198	s
+o
+v
+235202	adv
+v
+s
+235206	v
+v
+o
+adv
+v
+adv
+v
+o
+adv
+235217	s
+v
+o
+adv
+v
+p
+235224	vc
+235227	adv
+v
+s
 235233	v
 235235	v
+adv
+235239	v
 o
-io
-235239	s
-o
-v
 adv
-adv
-235245	v
-adv
-adv
+s
+235246	v
+s
 235249	v
-235251	adv
-o
+adv
 v
 o
 adv
-235259	adv
-v
-o
-235263	v
-o
-adv
-235268	s
-235270	v
-v
-adv
-adv
-235275	s
-235278	v
-adv
-235281	adv
-235286	apposition
-235288	s
-235290	p
-adv
-235294	vc
-v
-o
-v
-adv
-adv
-235304	vc
+235256	v
+aux
+s
 p
 v
 o
-adv
+235271	adv
+235273	adv
+235275	adv
+235277	apposition
 v
 adv
-235312	s
+235281	v
+s
+235284	s
+v
+o
 v
 s
-235316	v
+235292	s
 v
 adv
-235320	v
-o
-v
-v
-235325	s
+235296	adv
+235303	v
+235305	adv
 adv
-adv
-235329	v
+235309	adv
+235314	o
 v
-adv
 s
-235334	v
-o
-v
-o
-adv
-v
-v
-235342	s
-o
+235320	adv
+235324	v
 s
-235346	adv
+s
+235331	v
+v
+235334	adv
+aux
 v
 adv
-o
-235351	v
-o
+235341	v
 io
-v
-adv
-235360	apposition
-v
-235363	v
+235344	adv
+235346	v
 o
-adv
-235367	v
+235349	adv
 o
-adv
-235371	v
+v
 s
-235380	v
-v
-235383	v
-235385	v
 adv
+235355	s
+235357	v
 adv
-235389	adv
-v
-235392	v
-235394	v
-o
-235398	v
-s
-235401	o
+235366	v
 s
 v
-235405	v
-o
+235370	adv
 v
-235409	o
-235411	s
+235374	v
+s
+adv
+235379	v
+o
+235383	adv
+s
+235388	v
 vc
-adv
-235415	v
-adv
-235422	v
-adv
-235425	adv
+235392	p
+235395	s
+s
 v
 adv
-235429	v
-235431	s
-o
-235436	v
-s
-235439	adv
+v
+p
+vc
+235403	vc
 adv
-235443	vc
+s
+p
+235408	adv
+v
+o
+235412	s
+235417	s
+235419	vc
+p
+235422	adv
+235424	s
+vc
+p
+s
+235429	p
+235432	vc
+v
+v
+o
+235437	v
+235439	v
+adv
+235444	v
+235446	io
+235448	s
+o
+v
+aux
+235455	vc
 p
 adv
+235459	s
+vc
+p
+apposition
+235464	vc
+p
+s
 v
-235448	s
 v
+o
+235471	v
 adv
-235452	o
-235454	aux
+235477	s
+235480	p
+adv
+adv
+235484	apposition
+235486	v
+o
+235489	v
+adv
+235492	v
+s
+235496	v
+o
+adv
+235502	v
+v
+235505	s
 aux
 adv
 v
-adv
-235460	o
-adv
-v
-235464	adv
-235467	v
-v
 s
-s
-235475	apposition
-235479	v
 o
-235484	o
-s
+235512	adv
 v
-235488	v
-adv
-235491	v
 s
-v
-235495	s
-235497	o
-235499	v
-235501	v
-s
-v
-io
 o
-235509	v
-o
-s
-v
+235519	v
 adv
+235524	v
 adv
-s
-p
-vc
-235519	adv
-235524	o
-o
 v
 235528	v
-s
-235532	s
-235534	apposition
-235536	v
-io
-o
-235540	adv
-235543	adv
-aux
-v
-235547	adv
-v
-235550	s
-235553	s
-235555	o
-o
-v
+p
+235532	vc
+p
+235535	v
 adv
-235562	v
+235539	o
+235542	v
+io
+235545	io
+v
+235548	s
+o
+235551	v
+v
+235554	v
 s
+adv
+235558	v
+v
+235561	s
+v
+o
 235565	v
-adv
 v
-235570	adv
 v
+235569	s
+235573	s
+235575	adv
+v
+v
+v
+v
+235581	adv
 s
-235575	v
-s
-adv
-235581	v
-o
-235586	v
+v
 io
+adv
 o
 v
 s
-v
+235590	v
+aux
 adv
-235596	o
-v
 s
-adv
-235606	s
-235608	v
-235610	o
-io
-v
-s
-apposition
-adv
-235619	o
-o
-v
-adv
-235624	o
-v
-adv
-v
-235629	s
-235631	s
-adv
-v
-o
-235636	v
-adv
-235639	s
-235649	s
-v
-adv
-v
-o
-235655	s
-vc
+235595	adv
 p
-235664	o
+235598	v
+adv
+v
+o
+235603	aux
 s
+235606	v
+o
+235609	p
+235612	v
+o
+v
+235616	adv
+adv
+235621	v
+v
+235624	s
+v
+s
+p
+235629	v
 v
 adv
-235670	v
+235635	v
+s
 adv
-235673	adv
+235644	v
+o
+adv
+235651	v
+s
+235655	adv
+235658	vc
+adv
+s
+p
+235664	s
+235667	v
+v
+adv
+235671	v
+o
+s
+adv
 235676	v
-s
-235681	io
-adv
-v
-s
-o
-235687	v
-o
 v
 o
+s
+235683	adv
+235686	v
+o
+235689	v
 adv
+235694	v
+s
+235697	s
 v
 o
-adv
-235697	v
-235699	s
-adv
-235702	v
-o
-s
-235712	v
-adv
 v
-s
-o
-235718	v
+235702	s
+235708	v
+235711	v
 adv
-235721	o
-235723	apposition
-235727	v
-io
-o
+235714	s
+v
+v
+235718	s
+235725	vc
+p
+235728	v
+adv
 235732	v
+o
 adv
+235737	v
+o
 adv
-235736	vc
-235738	p
-adv
-s
-235742	v
+235741	s
+235743	adv
+v
+o
+235748	v
+235750	o
+v
 o
 v
-235746	vc
+235755	v
+v
+adv
+235759	io
+o
+235765	v
+235767	v
+adv
+235770	adv
+235773	v
+v
+235776	s
+235781	v
+o
+235791	v
+adv
+235794	v
 s
-235749	p
-235752	v
-235754	adv
-235756	v
 s
-235764	adv
-235766	s
-235768	apposition
-235773	s
-vc
+235799	v
+adv
+v
+o
+adv
+235805	v
+235807	v
+v
+235810	o
+s
+v
+v
+adv
+235817	s
+v
+adv
+235821	v
+235823	adv
+o
+v
+235828	v
+o
+235831	s
+235838	v
+adv
 p
-235778	v
-o
-adv
-235782	v
-adv
-235789	v
-o
-s
-adv
-s
-v
-adv
-v
-adv
-aux
-235804	s
-adv
-v
-adv
-235810	adv
-s
-v
-p
 vc
-adv
-235822	adv
-235829	apposition
-o
 s
 v
-o
-s
-v
-adv
-adv
-s
-v
-adv
-adv
-s
-vc
-p
-235847	v
-adv
-235850	apposition
-vc
-p
-235856	adv
-vc
-p
-235860	s
-adv
-235863	s
-235866	vc
-p
-235869	v
-adv
-adv
-v
-v
-s
-adv
-v
-235878	o
-235884	v
-235886	p
-vc
-235889	p
-v
-v
-235893	o
-235895	p
-235897	vc
-s
-235901	v
-adv
-v
-v
-o
-v
-v
-v
-235910	s
-adv
-235913	v
-v
-adv
-v
-o
+235845	s
 v
 io
-235924	s
+235849	aux
+s
+o
 v
+adv
+235855	v
+adv
+235859	v
+o
+adv
+v
+s
+adv
+235866	v
+o
 adv
 adv
 v
-adv
-p
-235932	adv
+235872	o
+235874	v
 v
-v
-235938	adv
-adv
+235877	o
 v
 adv
-235943	v
+235882	v
+o
+s
+v
+o
+adv
+v
 io
 adv
 v
 adv
-235950	io
-235952	v
+235896	aux
+v
 o
-v
 adv
-adv
-v
-235959	adv
-235963	s
-235967	v
+235902	v
 v
 adv
 o
-235973	p
-vc
-adv
-235977	o
-v
-adv
-235981	o
-v
-adv
-v
-235986	s
+235909	v
+235911	s
+235914	v
 o
 v
-235990	adv
 v
+o
+adv
+235921	o
 s
-235994	v
-v
+235926	v
 o
-adv
+s
+v
 v
 adv
-v
 o
+s
+o2
+235936	v
 adv
-236005	s
-v
+235939	v
 o
-adv
-v
-p
-236012	vc
-236014	s
-236016	adv
-v
-s
-236022	v
-236024	v
-adv
-236028	v
-o
-adv
-s
-236035	v
-s
-236038	v
-adv
-v
-o
-adv
-236045	v
-aux
-s
-p
-v
-o
-236060	adv
-236062	adv
-236064	adv
-236066	apposition
-v
-o
-adv
-236071	v
-s
-236074	s
-v
-o
-v
-s
-236082	s
-v
-adv
-236086	adv
-236093	v
-236095	adv
-adv
-236099	adv
-236105	o
-v
-s
-236111	adv
-236115	v
-s
-s
-236122	v
-v
-236125	adv
-aux
-v
-adv
-236132	v
 io
-236135	adv
-236137	v
-o
-236140	adv
-o
-v
-s
-adv
-236146	s
-236148	v
-adv
-236157	v
-s
-v
-s
-236162	adv
-v
-236166	v
-s
-adv
-236171	v
-o
-236175	adv
-s
-236180	v
-vc
-236184	p
-236187	s
-s
-v
-adv
-v
-p
-vc
-236195	vc
-adv
-s
-p
-236200	adv
-v
-o
-236204	s
-236209	s
-236211	vc
-p
-236214	adv
-236216	s
+235943	o
+235945	s
 vc
 p
+235954	o
+v
 s
-236221	p
-236224	vc
-v
 v
 o
-236229	v
-236231	v
-adv
-236236	v
-236238	io
-236240	s
+s
+235961	v
+v
+235964	v
+v
 o
 v
-aux
-236247	vc
-p
+235969	s
+235974	apposition
 adv
-236251	s
-vc
 p
 apposition
-236257	vc
+235981	v
+adv
+adv
+o
+v
+v
+235988	adv
+aux
+aux
+v
+o
+adv
+235996	o
+v
+v
+adv
+236003	v
+s
+v
+vc
 p
 s
+adv
+v
+s
+236014	s
+v
+236017	s
+s
+v
+o
+v
+236023	v
+adv
+adv
+v
+s
+apposition
+adv
+236034	v
+o
+adv
+s
+v
+236040	s
+s
+v
+o
+v
+236046	adv
+v
+io
+o
+v
+adv
+236055	v
+o
+236060	vc
+p
+s
+236068	v
+236071	p
+vc
+adv
 v
 v
 o
+adv
+adv
+p
+vc
+v
+236083	adv
+236086	v
+o
+v
+v
+adv
+v
+adv
+236097	v
+s
+236100	v
+v
+adv
+236106	v
+adv
+236109	v
+adv
+236112	adv
+236117	adv
+v
+o
+v
+236122	v
+s
+p
+adv
+236129	v
+s
+v
+s
+236134	adv
+236137	v
+adv
+236142	s
+236144	v
+236146	s
+o
+236150	v
+adv
+p
+vc
+s
+v
+o
+236159	v
+o
+v
+236163	aux
+236169	v
+236173	o
+v
+adv
+236178	s
+236180	o
+236186	v
+236188	v
+s
+adv
+236194	v
+236196	apposition
+236209	o
+v
+adv
+236214	v
+v
+io
+o
+236219	s
+236222	v
+236225	v
+s
+236229	adv
+adv
+s
+236235	v
+o
+s
+236239	adv
+236242	v
+o
+236246	adv
+236248	v
+236250	s
+236255	vc
+p
 236264	v
 adv
-236270	s
-236273	p
-adv
-adv
-236277	apposition
-236279	v
+236267	adv
+v
+v
 o
-236282	o2
+236274	adv
 v
 adv
-236286	v
+v
+o
+v
+236281	v
 s
-236290	v
+v
 o
 adv
-236296	v
+236289	v
+236291	o
+236299	v
 v
-236299	s
+o
+236304	v
+adv
+236307	v
+236309	o
+236311	v
+s
+236314	adv
+v
+v
+o
+adv
+236325	v
+236327	s
+v
+236330	s
+236332	apposition
+v
+o
+236337	v
+o
+o
+v
+io
+s
+236344	v
+adv
+s
+v
+adv
+236350	v
+o
+236354	o
+v
+236357	s
+s
+adv
+v
+s
+236363	v
 aux
-adv
-v
+aux
+236367	v
 s
-o
-236306	adv
-v
-s
-o
-236313	v
-adv
-236318	v
-adv
-v
-236322	v
-p
-236326	vc
-p
-236329	v
-adv
-236333	o
-236336	v
+236371	v
 io
-236339	io
-v
-236342	s
-o
-236345	v
-v
-236348	v
+236375	vc
+p
+236380	v
 s
 adv
-236352	v
-v
-236355	s
-v
-o
-236359	v
-v
-v
-236363	s
-236367	s
-236369	adv
-v
-v
-v
-v
-236375	adv
-s
-v
-io
-adv
-o
-v
-s
 236384	v
-aux
 adv
-236388	s
-236390	adv
-236392	p
-236394	v
-adv
-v
-o
-236399	aux
-s
-236402	v
-o
-236405	p
-236408	v
 o
 v
-236412	adv
 adv
-236417	v
+236396	v
+adv
+236399	o
+io
 v
-236420	s
+adv
+v
+adv
+236406	v
+adv
+adv
+adv
 v
 s
+236413	v
+o
+adv
+236418	adv
+s
+adv
+v
+236425	adv
+v
+io
+o
+adv
+236431	o
+236433	v
+o
+v
+io
+adv
+o
+236440	io
+236444	adv
+vc
 p
-236425	v
+s
 v
-adv
-236431	v
+236450	adv
 s
+236453	vc
+s
+236456	p
 adv
-236440	v
+236460	v
 o
-adv
-236447	v
-s
-236451	adv
-236454	vc
-adv
-s
-p
-236460	s
-236463	v
-v
-adv
-236467	v
-o
-s
-adv
-236472	v
-v
-o
-s
-236479	adv
-236482	v
-o
-236485	v
-adv
-236491	v
-s
-236494	s
-v
+236463	adv
+236465	o
 o
 v
+v
+s
+s
+v
+236474	adv
+v
+236477	v
+o
+adv
+236483	v
+io
+o
+236489	adv
+v
+o
+236493	v
+o
+adv
 236499	s
-236505	v
 o
-236509	v
+236502	s
+o
+236506	s
+v
+o
+v
 adv
-236512	s
-v
-v
-236516	s
-236523	vc
+236513	vc
+s
 p
-236526	v
-adv
-236530	v
+236517	v
 o
 adv
-236535	v
+236525	v
+io
 o
-adv
-236539	s
-236541	adv
-v
-o
-236546	v
-236548	o
-v
+236529	adv
+236531	apposition
+236533	v
 o
 v
-236553	v
+adv
+236543	v
+236545	s
+adv
+236552	s
+236554	adv
 v
-adv
-236557	io
 o
-236563	v
-236565	v
-adv
-236568	adv
-236571	v
-v
-236574	s
-236579	v
-o
-236589	v
-adv
-236592	v
 s
-s
-236597	v
-adv
-v
-o
-adv
-236603	v
-236605	v
-v
-236608	o
-s
-v
-v
-adv
-236615	s
-v
-adv
-236619	v
-236621	adv
-o
-v
-236627	v
-o
-236630	s
-236637	v
-adv
-p
+236559	v
+236561	s
 vc
 s
+p
 v
-236644	s
+o
+236568	adv
+236570	adv
+236572	v
+s
+io
+236577	p
+vc
+adv
+s
+236582	v
+236584	s
+v
+o
+236588	apposition
+236593	adv
+236597	v
+s
+adv
+236602	v
+s
+236608	v
+adv
+236611	v
+adv
+236614	o
+v
+s
+adv
+adv
+236621	adv
+236624	v
+s
+236628	o
+v
+s
+io
+v
+s
+236635	adv
+adv
+adv
+v
+236640	adv
+s
+adv
+v
+o
+s
+v
+o
+236649	v
+o
+v
+o
+236654	o2
+adv
+adv
+v
+adv
+236660	v
+s
+236663	vc
+p
+adv
+s
+v
+adv
+adv
+236673	v
+236675	s
+v
+o
+s
+236681	v
+o
+io
+adv
+236686	v
+s
+adv
+236690	vc
+236692	p
+adv
+236699	v
+adv
+s
+v
+adv
+236706	v
+o
+236710	apposition
+236713	v
+s
+v
+v
+236718	v
+o
+v
+v
+o
+v
+236725	v
+s
+236728	s
+adv
+236731	v
+o
+io
+s
+236736	adv
+v
+adv
+236741	v
 v
 io
-236648	aux
-s
-236651	o
 v
-adv
-236655	v
-adv
-236659	v
-o
-236663	adv
-v
-s
-adv
-236668	v
+236746	v
 o
 adv
+v
+aux
+p
+vc
 adv
+236755	v
+o
+236758	v
+o
 v
-236674	o
-236676	v
+o
 v
-236679	o
+s
+o
 v
-adv
-236684	v
+o2
+236770	v
 o
 s
 v
-o
 adv
+v
+adv
+o
+v
+236780	s
+adv
+236785	vc
+p
+adv
+236789	adv
+v
+o
+236793	v
+s
 v
 io
 adv
-v
+236802	s
 adv
-236698	aux
+236806	s
+236808	v
 v
 o
-adv
-236704	v
 v
-adv
-o
-236711	v
-236713	s
-236716	v
-o
+236813	s
 v
 v
-o
-adv
-236723	o
 s
-236728	v
-o
-o
+s
+p
+236823	apposition
+236827	p
+236829	vc
+s
+adv
+v
+v
+v
+236836	io
 s
 v
-v
-adv
 o
+236843	s
+236845	adv
+v
+p
+vc
+236850	v
+v
+o
+236857	apposition
+236860	o
+236862	v
+236864	v
+v
+o
+236868	adv
+v
+v
+o
+adv
+236875	o
+v
+v
+s
+o
+v
+o2
+236883	o
 s
 o2
-236739	v
+236888	v
 adv
-236742	v
-o
+236892	v
 io
-236746	o
-236748	s
+adv
+236896	s
+v
+o
+v
+o
+236902	adv
+236911	adv
+s
 vc
 p
-236754	s
-236758	o
+236916	v
+io
+236919	o
+io
 v
 s
-v
-o
+adv
+236927	o
 s
-236765	v
-v
-236768	v
-v
-o
-v
-236773	s
-236778	apposition
-adv
-p
-apposition
-236785	v
-adv
-adv
-o
-v
-v
-236792	adv
-o
-236795	aux
-aux
-v
-o
-adv
-236802	o
-v
-v
-adv
-236809	v
-s
-v
 vc
-p
-s
+vc
 adv
-v
-s
-236820	s
-v
-236823	s
-s
+236933	adv
+236935	p
+236939	v
+io
+adv
+236947	s
 v
 o
 v
-236829	v
-adv
-236832	adv
-v
-s
-apposition
-adv
-236841	v
-o
-adv
-s
-v
-236847	s
-s
-v
-o
-v
-236854	adv
 v
 io
-o
-v
-adv
-236863	v
-o
-236869	vc
-p
-s
-236877	v
-o
-236881	p
-vc
-adv
-v
-v
-o
 adv
 adv
-p
-vc
 v
-236893	adv
-236896	v
-o
-v
-v
-adv
-v
-adv
-236907	v
-236909	s
-236911	v
-v
-adv
-236917	v
-adv
-236920	v
-adv
-236923	adv
-236928	adv
-v
-o
-v
-236933	v
-s
-p
-236938	adv
-236942	v
-s
-v
-s
-236947	adv
-236950	v
-adv
-236955	s
-236957	v
-236959	s
-o
-236963	v
-adv
 p
 vc
 s
+236962	v
+236964	v
+adv
+236968	adv
 v
-o
-236972	v
-o
+io
 v
-236976	aux
-o
-236983	v
-236987	o
+io
+s
 v
 adv
-236992	s
-236994	o
+236979	s
+v
+o
+adv
+236984	adv
+v
+s
+v
+adv
+236991	v
+adv
+236996	v
+o
+io
 237000	v
-237002	v
-s
 adv
-237008	v
+237006	v
+237008	s
+237010	v
 o
-237011	apposition
-237024	o
 v
+o
+237017	v
 adv
-237029	v
-v
+237021	o
+237023	v
 io
+adv
+237029	aux
+237031	v
 o
-237034	s
-237037	v
-237040	v
-s
-237044	adv
+237042	apposition
+o
+v
+v
+o
+237048	v
+o
 adv
 s
-237050	v
-o
-s
-237054	adv
-237057	v
-o
-237061	adv
-237063	v
-237065	s
-237070	vc
+237054	vc
 p
-237079	v
-adv
-237082	adv
-v
-v
-o
-237090	adv
-v
-adv
-v
-o
-v
-237097	v
-s
-v
-o
-adv
-237105	v
-237107	o
-237115	v
-v
-o
-237120	v
-adv
-237123	v
-237125	o
-237127	v
-s
-237130	adv
-v
-v
-o
-adv
-237141	v
-237143	s
-v
-237146	s
-237148	apposition
-v
-o
-237153	v
-o
-237156	o
+237057	adv
+237060	v
 v
 io
-s
-237161	v
-adv
-s
 v
-adv
-237167	v
 o
-237171	o
+adv
+237067	o
 v
-237174	s
+o
+adv
+v
+v
+s
+237075	adv
+adv
+237080	o
+v
+s
+adv
+237087	adv
+237090	s
+v
+o
+adv
+237096	v
+v
+o
+io
+237101	s
+237103	v
+io
+o
+237107	adv
 s
 adv
 v
-s
-237180	v
+237112	s
+v
 o
-237183	aux
+s
+adv
+p
+s
+237120	p
+237123	o
+v
+io
+v
+s
+237129	p
+s
+237133	s
+237135	v
+o
 aux
-237186	v
+237143	s
+adv
+o
+237148	v
+237150	s
+237152	s
+o
+237155	adv
+v
 s
-237190	v
-io
-237194	vc
+237160	v
+v
+adv
+237166	adv
+adv
+s
 p
-237199	v
+237171	vc
 s
-adv
-237203	v
-adv
-o
 v
-adv
-237215	v
-adv
-237219	o
-io
-v
-adv
-v
-adv
-237226	v
-adv
-adv
-adv
-v
-s
-237233	v
 o
 adv
-237239	adv
-s
+237178	adv
+v
+v
+237182	o
+v
 adv
-v
-237246	adv
-v
-io
+237187	v
 o
 adv
-237252	o
-237254	v
-o
-v
-io
-adv
-o
-237261	io
-237265	adv
 vc
+237192	p
+adv
+v
+adv
+237197	v
+o
+237201	s
+v
+adv
+237207	v
+aux
+v
+o
+s
+v
+237214	s
+237217	adv
+237219	v
+237222	v
+237224	adv
+v
+o
+237229	v
+adv
+adv
+237233	v
+adv
+237236	v
+237238	s
+v
+o
+237242	adv
+237246	vc
 p
-s
-v
-237271	adv
-s
-237274	vc
-s
-237277	p
-adv
-237281	v
-o
-237284	adv
-237286	o
-237288	o
-v
-v
-s
-s
-v
-237296	adv
-v
-237299	v
+237249	v
 o
 adv
-237305	v
+v
+237254	v
+aux
+v
+o
+237259	v
+237261	o
+v
+adv
+aux
+adv
+v
 io
 o
-237311	adv
+237271	o
 v
+v
+s
+237276	v
+adv
+237279	v
+237281	adv
+237284	s
+adv
+237288	apposition
+237290	s
+237292	v
+adv
+237299	adv
+237301	v
+237303	o
+s
+237306	v
 o
+adv
+s
+237311	v
+o
+adv
 237315	v
-o
-adv
-237321	s
-o
-237324	s
-o
-237328	s
 v
 o
-v
+237320	v
 adv
-237335	vc
+237323	v
+v
+v
+o
 s
-p
-237339	v
-o
+237329	v
 adv
-237347	v
+237334	v
 io
 o
-237351	adv
-237353	apposition
-237355	v
+v
+237339	s
+v
+adv
+237343	adv
+adv
+v
+s
+237348	v
+o
+o
+v
+aux
+237354	v
 o
 v
 adv
-237365	v
+v
+s
+237362	v
+237364	v
+v
 237367	s
 adv
-237374	s
-237376	adv
-v
-o
-s
-237381	v
-237383	s
-vc
-s
+237371	s
+237374	adv
 p
 v
+adv
+237379	adv
+v
+237382	v
 o
-237390	adv
-237392	adv
-237394	v
-s
-io
-237399	p
+237386	v
 vc
-adv
+p
 s
-237404	v
-237406	s
-v
 o
-237410	apposition
-237415	adv
-237419	v
-s
-adv
-237424	v
-s
-237430	v
-adv
-237433	v
-adv
-237437	o
 v
 s
-adv
-adv
-237444	adv
-237448	v
+237396	v
 s
-237453	o
+vc
+p
+237403	vc
+p
 v
-s
-io
-v
-s
-237460	adv
+237407	o
 adv
 adv
-v
-s
-237466	adv
-s
 adv
 v
 o
+237415	v
+o
+v
+adv
+237427	v
 s
+237431	aux
+237433	s
+v
+237436	v
 v
 o
+v
+s
+237444	v
+v
+v
+237448	s
+237452	v
+s
+o
+237457	v
+adv
+237461	s
+v
+v
+adv
+237466	v
+o
+adv
+237470	v
+adv
+237473	adv
 237475	v
-o
+adv
+237481	adv
 v
 o
-237480	o2
-adv
-adv
-v
 adv
 237486	v
-s
-237489	vc
-p
-adv
+o
+v
+237490	s
+237492	adv
+237498	v
 s
 v
-adv
-adv
-237500	v
-237502	s
-v
-o
-s
-237508	v
-o
 io
-adv
-237513	v
+o
+v
+v
+io
+o
+237509	io
+v
+o
+v
+o
 s
+237516	v
 adv
-237517	vc
-237519	p
-adv
+s
+237520	adv
+vc
+p
+237524	o
 237527	v
 adv
-s
 v
 adv
-237534	v
-o
-237538	apposition
-237541	v
+vc
+p
 s
-v
-v
+237535	adv
+237538	s
+237541	adv
+vc
+p
+adv
 237546	v
-o
-v
-v
-o
-v
+237548	adv
 237553	v
-s
-237556	s
-adv
-237559	v
-o
-io
-s
-237564	adv
-v
-adv
-237569	v
-v
-io
-v
-237574	v
-o
-adv
-v
-aux
-p
-vc
-adv
-237583	v
-o
-237586	v
-o
-v
-o
-v
-o
-s
-o
-v
-o2
-237599	v
-o
-s
-v
-adv
-v
-adv
-o
-v
-237609	s
-adv
-237614	vc
-p
-adv
-237619	adv
-v
-o
-237624	v
-s
-v
-io
-adv
-237633	s
-adv
-237637	s
-237639	v
-v
-o
-v
-237644	s
-v
-v
-s
-s
-p
-237654	apposition
-237658	p
-237660	vc
-s
-adv
-v
-v
-v
-237667	io
-s
-o2
-v
-o
-237675	s
-237678	adv
-v
-p
-vc
-237683	v
-v
-o
-237690	apposition
-237693	o
-237695	v
-237697	v
-v
-o
-237702	adv
-v
-v
-o
-adv
-aux
-237710	o
-v
-v
-s
-o
-v
-o2
-237718	o
-s
-o2
-237723	v
-adv
-237727	v
-io
-adv
-237731	s
-v
-o
-v
-o
-237737	adv
-237746	adv
-s
-vc
-p
-237751	v
-io
-237754	o
-o
-io
-v
-s
-adv
-237763	o
-s
-vc
-p
-237768	vc
-adv
-237771	adv
-237773	p
-237777	v
-io
-adv
-237785	s
-v
-o
-v
-v
-io
-adv
-adv
-v
-p
-vc
-s
-237800	v
-237802	v
-adv
-237806	adv
-v
-io
-o
-v
-io
-o
-s
-v
-adv
-aux
-237820	s
-v
-o
-adv
-237825	adv
-v
-s
-v
-adv
-237832	v
-adv
-237837	v
-o
-io
-237841	v
-adv
-237848	v
-237850	s
-237852	v
-o
-v
-o
-237859	v
-adv
-237863	o
-237865	v
-io
-adv
-237871	aux
-237873	v
-o
-237884	apposition
-237886	o
-v
-v
-o
-237891	v
-o
-adv
-s
-237897	vc
-p
-237900	adv
-237903	v
-v
-io
-v
-o
-adv
-237911	o
-v
-o
-adv
-v
-v
-s
-237919	adv
-adv
-237925	o
-v
-s
-adv
-237932	adv
-237936	s
-v
-o
-adv
-237942	v
-v
-o
-io
-237947	s
-237949	v
-io
-o
-237954	adv
-s
-adv
-v
-237959	s
-v
-o
-s
-adv
-p
-s
-237967	p
-237971	o
-v
-io
-v
-s
-237977	p
-s
-237981	s
-237983	v
-o
-aux
-237991	s
-adv
-o
-237996	v
-237998	s
-238000	s
-o
-238003	adv
-v
-s
-238008	v
-v
-adv
-238015	adv
-adv
-s
-p
-238020	vc
-s
-v
-o
-adv
-238027	adv
-v
-v
-238031	o
-v
-adv
-238036	v
-o
-adv
-vc
-238041	p
-adv
-v
-adv
-238046	v
-o
-238050	s
-v
-adv
-238056	v
-aux
-v
-o
-s
-v
-238063	s
-238066	adv
-238068	v
-238071	v
-238073	adv
-v
-o
-238078	v
-adv
-adv
-238082	v
-adv
-238085	v
-238087	s
-v
-o
-238091	adv
-238095	vc
-p
-238098	v
-o
-adv
-v
-238103	v
-aux
-v
-o
-238108	v
-238110	o
-v
-adv
-aux
-adv
-v
-io
-o
-238120	o
-v
-v
-s
-238125	v
-adv
-238128	v
-238130	adv
-238133	s
-adv
-238137	apposition
-238139	s
-238141	v
-adv
-238148	adv
-238150	v
-238152	o
-s
-238155	v
-o
-adv
-238159	s
-238161	v
-o
-adv
-238165	v
-v
-o
-238170	v
-adv
-238173	v
-v
-v
-o
-s
-238179	v
-adv
-238184	v
-io
-o
-v
-238189	s
-v
-adv
-238193	adv
-adv
-v
-s
-238198	v
-o
-238201	o
-v
-aux
-238205	v
-o
-v
-adv
-v
-s
-238213	v
-238215	v
-v
-238218	s
-adv
-238222	s
-238225	adv
-p
-v
-adv
-238230	adv
-v
-238233	v
-o
-238237	v
-vc
-p
-s
-o
-v
-s
-238247	v
-s
-vc
-p
-238254	vc
-p
-v
-238258	o
-adv
-adv
-adv
-v
-o
-238267	v
-o
-v
-adv
-238279	v
-s
-238284	aux
-238286	s
-v
-238289	v
-v
-o
-v
-s
-238297	v
-v
-v
-238301	s
-238305	v
-s
-o
-238310	v
-adv
-o
-238315	s
-v
-v
-adv
-238320	v
-o
-adv
-238324	v
-adv
-238327	adv
-238329	v
-adv
-238335	adv
-v
-o
-adv
-238340	v
-o
-v
-238344	s
-238346	adv
-238352	v
-s
-v
-io
-o
-v
-o
-v
-io
-o
-238364	io
-v
-o
-v
-o
-s
-238371	v
-adv
-o
-s
-238376	adv
-vc
-p
-238380	o
-238383	v
-adv
-v
-238387	adv
-vc
-p
-s
-238392	adv
-238395	s
-238398	adv
-vc
-p
-adv
-238404	v
-238406	adv
-238411	v
 o
 v
 adv
 s
-238419	p
-238425	v
+237561	p
+237567	v
 s
 vc
 v
-238430	s
+237572	s
 v
 v
 s
 adv
 adv
-238438	s
+237580	s
 v
 adv
 o
 v
 s
-238445	v
-238447	o
-238450	v
+237587	v
+237589	o
+237592	v
 adv
 o
-238456	v
+237598	v
 s
-238459	v
+237601	v
 adv
 v
 o
 v
-238465	v
+237607	v
 adv
 adv
-238470	v
+237612	v
 adv
-238474	s
+237616	s
 vc
 p
-238478	v
+237620	v
 v
-238481	aux
-s
-238487	apposition
-238489	apposition
+237623	aux
+237627	apposition
+237629	apposition
 s
 vc
 p
-238496	s
+237636	s
 v
 v
 adv
 v
-238503	v
+237643	v
 adv
-238508	v
+237648	v
 o
-238511	v
-238513	s
+237651	v
+237653	s
 io
 o
 v
-238518	v
+237658	v
 io
-238521	v
-238523	s
+237661	v
+237663	s
 v
 s
 v
 o
 apposition
-238530	v
-238532	v
+237670	v
+237672	v
 o
 v
 s
-238537	v
+237677	v
 adv
-238540	v
-238542	adv
+237680	v
+237682	adv
 s
 v
 o
 v
-238548	s
+237688	s
 v
 v
 adv
 s
-238557	o
+237696	o
 v
 vc
 p
-238563	s
+237701	s
 adv
 v
-238569	s
+237706	s
 adv
 v
 o
@@ -93659,18 +93336,17 @@ adv
 adv
 v
 o
-238579	o
-adv
-238582	s
-238584	v
+237716	adv
+237718	s
+237720	v
 o
-238587	s
+237723	s
 v
-238590	v
+237726	v
 adv
-238593	s
-238595	v
-238597	s
+237729	s
+237731	v
+237733	s
 io
 v
 v
@@ -93680,37345 +93356,37669 @@ s
 v
 o
 adv
-238611	adv
+237747	adv
 v
-238614	s
+237750	s
 o
-238618	v
+237754	v
 adv
+237758	v
+io
+o
+237763	v
+adv
+237766	v
+adv
+237770	v
+s
+v
+s
+s
+v
+s
+v
+237779	v
+v
+s
+237784	v
+adv
+adv
+237788	s
+237794	v
+o
+237798	v
+adv
+237801	s
+v
+o
+237805	adv
+v
+o
+adv
+s
+v
+237812	adv
+237814	v
+s
+237817	v
+adv
+237820	v
+v
+o
+237824	adv
+v
+s
+adv
+s
+237830	adv
+v
+o
+237834	adv
+237838	v
+adv
+v
+adv
+o
+237849	o
+237851	v
+p
+vc
+apposition
+237857	v
+v
+adv
+adv
+237862	v
+v
+s
+v
+adv
+237868	adv
+237870	o
+v
+s
+adv
+237876	v
+adv
+237879	v
+s
+v
+io
+aux
+aux
+adv
+o
+v
+v
+237890	p
+vc
+aux
+s
+237895	s
+vc
+o
+s
+v
+237902	v
+237904	v
+adv
+237908	v
+io
+s
+o
+s
+v
+v
+s
+237918	v
+adv
+v
+adv
+adv
+v
+237925	o
+o
+237928	v
+v
+237931	s
+adv
+237934	v
+237936	s
+237938	o
+v
+v
+237942	o
+v
+adv
+237946	v
+adv
+adv
+237950	adv
+v
+237953	vc
+237955	s
+237957	p
+adv
+p
+237961	v
+adv
+adv
+s
+aux
+s
+237968	v
+v
+s
+aux
+s
+237974	adv
+v
+v
+adv
+237980	vc
+p
+237983	v
+adv
+237986	o
+p
+adv
+aux
+237991	v
+237993	v
+o
+s
+p
+adv
+v
+238000	v
+io
+o
+238004	v
+v
+238007	s
+aux
+v
+adv
+adv
+238014	o
+io
+238017	v
+adv
+238020	adv
+v
+o
+238025	v
+o
+v
+o
+238030	v
+238032	adv
+s
+v
+238036	p
+vc
+adv
+s
+v
+o
+238043	adv
+238049	s
+238051	v
+io
+o
+v
+s
+adv
+238059	v
+v
+238062	s
+238065	v
+adv
+238069	v
+adv
+o
+v
+aux
+s
+238076	v
+o
+apposition
+v
+io
+adv
+238083	adv
+v
+238087	v
+238089	v
+adv
+238094	adv
+v
+adv
+238100	s
+v
+238104	v
+v
+238107	v
+o
+v
+238111	vc
+238113	p
+238117	adv
+238119	adv
+adv
+238122	v
+o
+238125	s
+vc
+p
+238130	v
+238132	s
+v
+238135	v
+238137	s
+vc
+v
+adv
+v
+o
+238145	adv
+adv
+v
+238149	v
+o
+v
+adv
+238154	s
+238156	adv
+v
+238159	v
+o
+v
+adv
+v
+238165	s
+vc
+p
+238170	v
+s
+v
+s
+v
+o
+v
+238178	io
+s
+238181	v
+238183	o
+238185	adv
+238189	o
+v
+v
+238193	s
+238195	adv
+adv
+238198	v
+o
+v
+adv
+v
+238204	adv
+v
+v
+io
+238209	s
+v
+o
+adv
+v
+238215	vc
+p
+s
+238219	v
+o
+v
+adv
+238225	v
+io
+o
+238229	adv
+adv
+238232	v
+o
+238236	v
+io
+238239	adv
+adv
+v
+adv
+238246	v
+adv
+238249	adv
+v
+adv
+238255	v
+238258	adv
+238260	s
+238262	v
+v
+o
+v
+238267	s
+v
+o
+adv
+238272	v
+o
+adv
+s
+238278	adv
+238283	v
+o
+v
+238287	v
+adv
+238297	v
+v
+238300	s
+v
+adv
+v
+adv
+238308	v
+adv
+v
+238312	adv
+238316	adv
+p
+adv
+238320	v
+adv
+s
+vc
+v
+238326	v
+io
+s
+aux
+v
+o
+s
+v
+238335	v
+io
+238338	adv
+v
+238341	v
+o
+s
+v
+adv
+238348	s
+v
+adv
+238352	p
+238354	s
+vc
+238357	adv
+s
+v
+vc
+p
+s
+vc
+p
+238368	o
+v
+v
+238372	adv
+238375	v
+s
+v
+v
+238380	v
+adv
+p
+238384	vc
+s
+238387	s
+v
+238390	s
+vc
+p
+v
+o
+adv
+v
+adv
+v
+v
+adv
+v
+238403	s
+v
+adv
+o
+v
+v
+adv
+238412	v
+adv
+s
+238416	adv
+v
+238419	v
+238422	o
+v
+p
+vc
+s
+adv
+v
+238430	adv
+o
+s
+238434	v
+o
+v
+238438	v
+adv
+238441	v
+aux
+v
+s
+238446	v
+o
+238450	v
+o
+v
+v
+238455	io
+o
+v
+o
+v
+238461	o
+238465	v
+o
+v
+p
+238470	vc
+adv
+238475	v
+s
+adv
+238479	v
+238481	adv
+v
+adv
+adv
+238487	s
+238495	adv
+p
+apposition
+238500	vc
+p
+238503	v
+o
+adv
+238509	v
+o
+io
+238513	v
+o
+adv
+v
+adv
+adv
+adv
+238524	o
+s
+238527	v
+adv
+238530	v
+io
+aux
+s
+238535	adv
+v
+o
+238539	p
+vc
+v
+p
+vc
+aux
+v
+238547	io
+s
+238554	v
+adv
+adv
+238559	adv
+v
+o
+adv
+238564	v
+238566	s
+vc
+p
+s
+v
+adv
+238574	p
+vc
+s
+adv
+238580	v
+s
+238583	v
+io
+adv
+v
+o
+238593	v
+o
+238596	v
+o
+io
+v
+o
+adv
+238603	adv
+238605	adv
+v
+s
+238609	adv
+v
+v
+s
+adv
+238615	v
+adv
+238618	vc
+238620	p
 238622	v
-io
-o
-238628	v
+v
+v
+238626	s
+v
 adv
+s
 238631	v
-adv
-238635	v
-s
 o
-v
-s
 s
 v
+238636	v
 s
-v
-238645	v
-v
-s
-238650	v
+238639	s
 adv
-adv
-238654	s
-238660	v
-o
-238664	v
-adv
-238667	s
 v
-o
-238672	adv
+adv
+238644	p
+vc
+s
+238657	v
+s
+adv
+v
+aux
+v
+238664	s
+238666	v
+adv
+aux
+238670	adv
 v
 o
+238676	s
 adv
-s
-v
-238679	adv
-238681	v
-s
-238684	v
 adv
-238687	v
-v
+adv
 o
+s
+v
+s
+adv
+v
+s
+238688	v
+adv
 238691	adv
 v
 s
 adv
+238698	adv
+v
 s
-238697	adv
-v
-o
-238701	adv
-238705	v
-adv
-v
-adv
-o
-238716	o
-238718	v
 p
 vc
-apposition
-238724	v
+s
+o
 v
+aux
+s
+238709	v
 adv
+238712	v
+o
+238716	v
 adv
+238720	v
+v
+s
+vc
+p
+adv
+v
+s
 238729	v
-v
+adv
+238732	v
+s
+o
+aux
 s
 v
-adv
-238735	adv
-238737	o
+o
+238740	v
 v
-s
-adv
 238743	v
 adv
-238746	v
-s
-v
-io
 o
-238752	aux
-aux
+v
+238748	s
+v
+o
+v
+238753	s
 adv
-o
-v
-v
-238759	p
+238756	v
+aux
+s
 vc
-aux
-s
-238764	s
-vc
+o
+v
 p
+s
+adv
+v
+s
+238768	v
+s
+238771	apposition
+238773	v
+o
+v
+238777	adv
+238782	v
+adv
+238785	adv
+v
+o
+adv
+238792	v
+o
+adv
+v
+238797	o
+v
+adv
+238801	v
+v
+adv
+238805	s
+238808	apposition
+238810	v
+adv
+adv
+238814	v
+adv
+238817	s
+238819	v
+o
+v
+o
+238830	v
+v
+s
+v
 o
 s
 v
-238772	v
-238774	v
 adv
-238778	v
-io
-s
-o
-s
-v
-v
-s
-238788	v
-adv
-v
-adv
-adv
-v
-238795	o
-o
-238798	v
-v
-238801	s
-adv
-238805	v
-238807	s
-238809	o
-v
-v
-238813	o
-v
-adv
-238817	v
-adv
-adv
-238821	adv
-v
-238824	vc
-238826	s
-238828	p
-adv
-p
-238832	v
-adv
-adv
-s
-aux
-s
 238839	v
-v
 s
-aux
-238844	s
-238846	adv
-v
-v
-adv
-238852	vc
-p
-238855	v
-adv
-238858	o
-p
-adv
-aux
-238863	v
-238865	v
+238842	v
 o
+v
+v
 s
-p
+238848	p
+vc
+238852	v
 adv
 v
-238872	o
+238856	v
 v
+s
+v
+238861	adv
+s
+v
+adv
+p
+vc
+adv
+v
+238870	adv
 io
+s
+v
 o
+o2
 238877	v
+238879	adv
+adv
 v
-238880	s
-aux
 v
-adv
-adv
-238887	o
-io
-238890	v
-adv
-238893	adv
+v
+238885	adv
 v
 o
+238889	s
+v
+o
+adv
 238898	v
-o
-v
-o
-238903	v
-238905	adv
-s
-o
-238909	v
-238911	p
-vc
 adv
+adv
+238904	aux
 s
 v
-o
-238918	adv
-238924	s
-238926	v
-io
-o
-v
-s
 adv
-238934	v
-v
-238937	s
-238940	v
 adv
-238944	v
-adv
-o
-v
+238911	v
 aux
+v
 s
-238951	v
+238917	s
+238919	v
+adv
+238922	v
+238924	adv
+238926	v
+s
+vc
+p
+s
+v
+adv
+238935	adv
+adv
+238938	v
+adv
+s
+238942	adv
+v
+v
+adv
+238947	s
+adv
+238950	v
+v
 o
-apposition
 v
 io
 adv
-238959	adv
+238957	v
+238959	s
+o
 v
-238963	v
-238965	v
 adv
+v
+238966	vc
+p
+s
 238970	adv
-v
-adv
-238976	s
-v
-238980	v
-v
-238983	v
+238972	v
 o
-v
-238987	vc
-238989	p
-238993	adv
-238995	adv
-adv
-238998	v
+238975	v
 o
-239001	s
-vc
 p
-239006	v
-239008	s
-v
-239011	v
-239013	s
+adv
 vc
-v
-adv
-v
 o
-239021	o
-adv
-adv
-v
-239026	v
 o
-v
-adv
-239031	s
-239033	adv
-v
-239036	v
-o
-v
-adv
-v
-239042	s
-vc
-p
-239048	v
-s
-v
-s
-v
-o
-v
-239056	io
-s
-239059	v
-239061	o
-239063	adv
-239067	o
-v
-v
-239071	s
-239073	adv
-adv
-239076	v
-o
-v
-adv
-v
-239082	adv
-v
 v
 io
-239087	s
-v
+238985	v
 o
 adv
-v
-239093	vc
+238989	s
+vc
 p
 s
-239097	v
+v
+o
+238996	v
+adv
+239000	v
+adv
+239003	adv
+239005	o
+v
+s
+239009	apposition
+239012	v
+o
+s
+adv
+239018	s
+v
+adv
+v
+239023	v
 o
 v
 adv
-239103	v
+239029	s
+vc
+p
+239033	s
+p
+o
+v
+adv
+239044	o
+adv
+v
+v
+adv
+o
+s
+v
+adv
+239056	v
+s
+p
+vc
+adv
+239066	v
+adv
+239069	s
+v
+239072	adv
+adv
+v
+s
+adv
+239078	v
 io
 o
-239107	adv
+v
+io
+239084	v
+239086	s
+vc
+p
+239090	v
 adv
-239110	v
+239095	v
+239097	io
+s
+239100	v
+o
+v
+adv
+239106	s
+v
+adv
+adv
+v
+s
 o
 239114	v
-io
-239117	adv
-adv
-v
-adv
-239124	v
-adv
-239127	adv
-v
-adv
-239133	v
-239136	adv
-239138	s
-239140	v
-v
-o
-v
-239145	s
-v
-o
-adv
-239150	v
-o
-adv
 s
-239156	adv
+239118	adv
+239120	v
+o
+239123	v
+239127	s
+v
+adv
+239131	adv
+239134	s
+239138	v
+v
+239141	o
+s
+v
+adv
+239146	v
+o
+adv
+v
+s
+o
+v
+v
+s
+adv
+v
+s
+o
 239161	v
-o
+239163	s
 v
-239165	v
+239166	s
 adv
-239175	v
-v
-239178	s
-v
+239171	v
 adv
 v
-adv
-239186	v
+s
+v
 adv
 v
-239190	adv
-o
-239195	adv
+239179	s
+239184	vc
 p
-adv
-239199	v
-adv
+239188	s
+239190	v
+o
+239196	v
 s
-vc
+adv
 v
-239205	v
-io
+adv
 s
+239203	v
+239205	v
+adv
+239208	o
+v
+239211	v
+adv
+v
+239215	s
+v
+io
+adv
+v
+o
+s
+v
+adv
+239227	v
+adv
+o
+v
+s
+239233	s
+adv
+v
+adv
+239239	v
+adv
+adv
+v
+v
+239245	v
+o
+239258	v
+239260	adv
+s
+v
+io
+v
 aux
 v
-o
+239268	v
+239270	adv
+aux
+239273	s
+239275	adv
+v
+adv
+239280	v
+239282	adv
+s
+adv
+239286	o
 s
 v
-239214	v
-io
-239217	adv
-v
-239220	v
-o
 s
-v
 adv
-239227	s
 v
-adv
-239231	p
-239233	s
-vc
-239236	adv
-p
 s
-v
-vc
-p
-s
-vc
-p
-adv
-239249	o
-v
-v
-239253	adv
-239256	v
-s
-v
-v
-239261	v
-adv
-239264	p
-239266	vc
-s
-239269	s
-v
-239272	s
-vc
-p
-v
-o
-adv
-v
-adv
-v
-v
-adv
-v
-239285	s
-v
-adv
-o
-v
-v
-adv
 239294	v
 adv
+239297	v
+adv
 s
-239298	adv
+adv
+239303	aux
+adv
+s
 v
-239301	v
-o
-239305	o
-v
-p
+adv
+239309	p
 vc
-s
+v
+adv
 adv
 v
-239313	adv
-o
-s
-239317	v
-o
+239316	s
+io
 v
-239321	v
 adv
-239324	v
-aux
+o
 v
+v
+239324	adv
 s
-239329	v
+239330	v
+adv
+239335	v
+239337	io
+239339	v
 o
-239333	v
-o
-v
-v
-239338	io
-o
-v
-o
-v
-239344	o
-239348	v
+s
+adv
+239345	v
+239347	v
 o
 v
+adv
+239352	v
+239354	vc
 p
-239353	vc
-adv
-239358	v
 s
-adv
-239362	v
-239364	adv
 v
+o
 adv
 adv
-239370	s
+v
+s
+239367	adv
+239369	v
+s
+v
+v
+s
+239376	adv
 239378	adv
-p
-apposition
-239383	vc
-p
-239386	v
+239380	adv
+v
+239383	o
+239387	v
 o
+s
+239391	v
 adv
-239392	v
-o
+s
+239395	v
+adv
+239400	o
+239402	v
 io
-239396	v
-o
-adv
+s
+io
 v
 adv
-adv
-adv
-239407	o
+239410	apposition
 s
-239410	v
-adv
-239413	v
-io
-aux
-s
-239418	adv
-v
-o
-239422	p
+p
 vc
 v
-p
-vc
-aux
+o
 v
-239430	io
-s
+239418	o
+v
+239421	v
+o
+v
+239425	io
+239427	s
+o
+239431	v
+239433	v
+adv
 239437	v
 adv
+v
 adv
-239442	adv
+239443	io
 v
 o
+239447	adv
 adv
-239447	v
-o
-239450	s
+io
 vc
+239452	s
+239454	p
+apposition
+239457	s
+v
+adv
+v
+adv
+239464	v
+o
+239468	vc
+s
 p
 s
+239474	v
 v
 adv
-239459	p
-vc
+239478	v
+239480	s
+239482	adv
+239487	vc
+p
+239491	v
+o
+adv
 s
 adv
-239466	v
+v
+239498	v
+o
+239501	apposition
+239503	v
+239505	v
 s
-239469	v
+adv
+239510	v
+adv
+239513	vc
+p
+239521	v
+s
 io
-adv
+v
+239526	adv
 v
 o
-239479	v
+239530	v
+v
+adv
+v
+239535	adv
+239537	adv
+239539	v
+adv
+239543	v
 o
-239482	v
-o
-io
-v
-o
-adv
-239489	adv
-239491	adv
-v
-s
-239495	adv
-v
-v
-s
-adv
-239501	v
-adv
-239504	vc
-239506	p
-239508	v
-v
-239511	v
-239513	s
-v
-adv
-s
-239518	v
-o
-s
-v
-239523	v
-s
-239526	s
-adv
-v
-adv
-239531	p
 vc
-s
-239544	v
-s
+239547	adv
 adv
-v
-aux
-v
-239551	s
-239553	v
-o
-adv
-aux
-239558	adv
-v
-o
-239564	s
-adv
-adv
-adv
-o
-s
-v
-s
-adv
-v
-s
-239576	v
-adv
-239579	adv
-v
-s
-adv
-239587	adv
-v
 s
 p
-vc
-s
-239594	o
-v
-aux
-s
-239599	v
 adv
-239602	v
-o
+239555	v
+adv
+s
+adv
+v
+239561	s
+239564	adv
+p
+v
+adv
+239569	s
+v
+vc
+p
+239575	s
+v
+adv
+aux
+239581	v
+s
+v
+s
+adv
+v
+io
+239589	v
+adv
+239592	o
+adv
+v
+v
+adv
+239598	adv
+239602	adv
 239606	v
-adv
-239610	v
-v
 s
+apposition
+o
+v
+o
+239615	v
+239617	o
+apposition
+239620	adv
+o
+v
+239625	p
 vc
-p
 adv
 v
-s
-239619	v
-adv
-239622	v
-s
-o
-aux
-s
 v
 o
-239631	v
-v
-239634	v
-adv
-o
-v
-239639	s
-v
-o
-v
-239644	s
-adv
-239647	v
-aux
-s
 vc
+239633	p
+239635	o
+adv
+v
+v
+adv
+v
+io
+239643	v
 o
 v
-p
-s
-239656	adv
-v
-s
-239660	v
-s
-239663	apposition
-239665	v
+adv
+239648	v
 o
+io
+s
+239654	v
+adv
+239657	s
+239659	vc
+adv
+adv
+239663	p
+239665	adv
+239668	v
 v
-239669	adv
+o
+s
+adv
 239674	v
+s
 adv
-239677	adv
-v
-o
+239678	v
 adv
+s
+239682	adv
 239684	v
 o
-adv
+239687	aux
+s
 v
-239689	o
-v
-adv
-239693	v
+239691	s
 v
 adv
-239697	s
-239700	apposition
-239702	v
-adv
+239695	v
+239697	o
+239700	v
+o
+v
+v
 adv
 239706	v
-adv
-239709	s
+s
+239709	adv
 239711	v
-o
-v
-o
-239722	v
-v
-s
-v
-o
-s
-v
+239713	s
 adv
-239731	v
-s
-239734	v
+o
+v
+239718	v
+o
+239721	v
+239723	adv
+239725	v
+io
 o
 v
 o
+239732	v
+o
+239735	v
 v
-s
+239739	v
 239741	p
 vc
-239745	v
-adv
-v
-239749	v
-v
-s
-v
-239754	adv
-s
 v
 adv
-p
-vc
+239746	v
+239748	o
+v
+239751	v
+239753	adv
+239755	v
+adv
+239761	v
+adv
+239764	s
 adv
 v
-239763	adv
 io
+239769	v
+v
+adv
+239773	adv
+v
 s
-v
-o
-o2
-239770	v
-239772	adv
+adv
+239778	s
 adv
 v
 v
-v
-239778	adv
-v
-o
-239782	s
-v
-o
 adv
+v
+adv
+239786	v
+s
+o
 239791	v
-adv
-adv
-239797	aux
-s
-v
-adv
-adv
-239804	v
-aux
-v
-s
-239810	s
-239812	v
-adv
-239815	v
-239817	adv
-239819	v
 o
-s
-vc
+adv
+239803	v
+239805	v
+adv
+239811	apposition
+239814	vc
 p
+adv
+v
+s
+239820	v
+239822	s
+o
+239826	v
 s
 v
 adv
-239829	adv
-adv
+p
 239832	v
-adv
-s
+o
 239836	adv
-v
-v
-adv
-239841	s
-adv
-239844	v
+239838	adv
 v
 o
 v
-io
-adv
-239851	v
-239853	s
-o
+239843	v
 v
-adv
-v
-239860	vc
-p
 s
-239864	adv
+adv
+239848	s
+239850	adv
+v
+v
+s
+239855	v
+p
+vc
+s
+239860	v
+p
+vc
+adv
+s
 239866	v
+v
+v
+239870	v
 o
-239869	v
-o
-p
+239873	v
+v
+239876	io
 adv
-vc
-o
-239876	o
+v
 v
 io
-239880	v
+adv
+s
+o
+v
+adv
+239887	v
+239889	v
+io
+239893	o
+239895	v
+v
+adv
+239899	v
+239901	s
+vc
+s
+239905	p
+239907	p
+239909	s
+vc
+s
+239913	adv
+v
+o
+239917	adv
+v
+v
+o
+v
+v
+239924	v
+adv
+239929	v
+v
+239932	o
+239934	adv
+239936	v
+adv
+239939	v
+o
+apposition
+239946	v
 o
 adv
-239885	s
+v
+s
+239952	adv
+239954	adv
+239956	s
+v
+o
+v
+adv
+239962	v
+adv
+s
+239966	v
+o
+p
+239970	adv
+p
+adv
+239974	v
+o
+s
+adv
+adv
+adv
+v
+o
+io
+239984	vc
+p
+v
+s
+239991	v
+239993	s
+239996	v
+adv
+v
+o
+v
+o
 vc
 p
-s
-v
-o
-239893	v
-adv
-239897	v
-adv
-239900	adv
-239903	o
-v
-s
-239909	apposition
-239912	v
-o
-s
-adv
-239918	s
-v
-adv
-v
-239923	v
-o
-v
-adv
-239929	s
 vc
+240006	p
+adv
+240010	v
+s
+240014	apposition
+240020	vc
 p
-239933	s
-p
-239936	o
-v
-adv
-239945	o
-adv
-v
-v
-adv
+240024	apposition
+240028	apposition
+240030	apposition
+240032	v
+240034	s
 o
-s
-v
-adv
-239957	v
-s
-p
-vc
-adv
-239968	v
-adv
-239971	s
-v
-239974	adv
-adv
+240037	v
 v
 s
-adv
-239980	v
+240042	v
 io
 o
+240047	adv
+240049	adv
 v
+o
+adv
+adv
+v
+240056	v
+240058	v
+o
 io
-239986	v
-239988	s
+v
+240063	s
+240066	v
+adv
+240070	v
+adv
+adv
+240074	v
+adv
+240077	vc
+p
+v
+o
+240083	adv
+240087	v
+240089	o
+o2
+v
+240093	adv
+240095	adv
+v
+240100	apposition
+adv
+s
+p
+s
 vc
 p
-239992	v
-adv
-239997	v
-239999	io
+240110	apposition
+apposition
 s
-240002	v
+v
 o
-v
-adv
-240008	s
-v
-adv
-adv
-v
-s
-o
-240016	v
-s
-240020	adv
-240022	v
-o
-240025	v
-s
-240030	s
-v
-adv
-240034	adv
-240037	s
-240041	v
-v
-240044	o
-s
-v
-adv
-240049	v
-o
-adv
-v
-s
-o
-v
-v
-s
-adv
-v
-s
-s
-o
-240065	v
-240067	s
-v
-240070	s
-adv
-240075	v
-adv
-v
-s
-v
-adv
-v
-240083	s
-240088	vc
-p
-240092	s
-240094	v
-o
-240101	v
-s
-adv
-v
-adv
-s
-240108	v
-240110	v
-adv
-240113	o
-v
 240116	v
-adv
-v
-240120	s
-v
-io
-adv
 v
 o
+240121	v
+240123	o
+240125	apposition
+adv
+240128	v
 s
+240131	v
 v
-adv
-240132	v
-adv
 o
-v
-s
-240138	s
+adv
+240136	s
+240138	apposition
+240140	v
 adv
 v
 adv
-240144	v
-adv
-adv
-v
-v
-240150	v
-o
-240163	v
-240165	adv
-s
-v
-io
 v
 aux
-v
-240173	v
-240175	o
-adv
 aux
-240179	s
-240181	adv
+240151	aux
+aux
+240154	adv
+v
+v
+o
+240161	apposition
+240163	adv
+aux
+s
+p
+240168	vc
+p
+adv
+v
+o
+adv
+adv
+240176	v
+adv
+s
+240181	v
+v
+o
+adv
+v
+s
+v
+v
 v
 adv
-240186	v
-240188	adv
-s
-adv
-240192	o
-s
-v
-s
-adv
-v
-s
+240194	v
+240196	adv
+240198	s
 240200	v
 adv
-240203	v
+240204	s
+240206	v
 adv
-s
-adv
-240209	aux
-adv
-s
 v
 adv
-240216	p
+s
+240212	v
+adv
+240215	v
+adv
+240220	v
+adv
+240223	adv
+240226	v
+adv
+240235	v
+s
+adv
+v
+aux
+aux
+240242	s
 vc
-v
-adv
-adv
-v
-240223	s
-io
-v
-adv
-o
-v
-v
-240231	adv
-s
-240237	v
-adv
-240242	v
-240244	io
-240246	v
-o
-s
-adv
-240252	v
-240254	v
-o
-v
-adv
-240259	v
-o
-240262	vc
 p
-s
+240249	v
+adv
 v
+240253	s
+240255	v
+adv
+v
+aux
+aux
+240261	v
 o
+v
+s
+240269	v
+o
+240276	o
+v
 adv
-adv
-v
-s
-240275	adv
-240277	v
-s
-v
-v
-s
 240284	adv
-240286	adv
-240288	adv
-v
-240291	o
-240295	v
+240286	v
 o
-s
-240299	v
 adv
-s
-240303	v
+240290	adv
+240292	v
+o
 adv
-240310	o
-240312	v
+240297	v
+o
+240302	v
+o
+240305	adv
+240310	adv
+v
+o
+adv
+240315	adv
+v
+o
+240319	v
 io
 s
-io
-v
-adv
-240320	apposition
 o
-s
-p
-vc
-v
-o
-v
-240329	o
-v
-240332	v
-o
-v
-240336	io
-240338	s
-o
-240342	v
-240344	v
-adv
-240348	v
-adv
-v
-adv
-240354	io
-v
-o
-240358	adv
-adv
-io
-vc
-240363	s
-240365	p
+240325	apposition
 apposition
-240368	s
-v
-adv
-v
-adv
-240375	v
+240329	adv
+240331	v
 o
-240379	vc
-s
-p
-s
-240385	v
 v
-adv
-240389	v
-240391	s
-240393	adv
-240398	vc
-p
-240402	v
 o
-adv
-s
-adv
-v
-240409	v
-o
-240412	apposition
-240414	v
-240416	v
-s
-adv
-240421	v
-adv
-240424	vc
-p
-240432	v
-s
 io
+adv
+io
+adv
 v
-240437	adv
+v
+v
+240344	apposition
+240346	apposition
+240350	s
 v
 o
-240441	v
+240355	adv
+240357	s
+240359	adv
 v
-adv
+io
+o
 v
-240446	adv
-240448	adv
-240450	v
+s
 adv
-240454	v
+240369	o
+io
+240375	v
+s
+o
+v
+p
+s
+v
+vc
 o
 vc
-240458	adv
-adv
 s
-p
-adv
-240466	v
-adv
-s
-adv
-v
-240472	s
-240475	adv
-p
+240387	aux
 v
 adv
-240480	s
-v
+adv
+adv
 vc
 p
-240486	s
+o
+240397	v
+aux
+aux
+aux
+240407	v
+o
+io
+s
+240414	v
+s
+240417	v
+adv
+240422	adv
+o
 v
+240426	o
+240430	adv
+240432	v
+v
+v
+240436	o
+240438	v
+v
+o
+v
+s
+240445	v
+o
+adv
+v
+v
+adv
+240452	v
+adv
+s
+240456	v
+o
+adv
+s
+v
+adv
+240463	v
+adv
+adv
+240469	s
+adv
+vc
+p
+adv
+240476	s
+o
+v
+o2
+240481	adv
+240483	v
+240485	o
+s
+v
+io
+240490	v
+o
+240493	adv
+240497	v
+240499	p
+vc
+s
+s
+adv
+v
+o
+240508	v
+o
+adv
+adv
+v
+v
+adv
+adv
+v
+240518	v
+io
+o
+240523	apposition
+240525	adv
+240527	v
+adv
+v
+s
+240532	v
+o
+240535	s
+240538	adv
+v
+o
+240543	v
+240545	v
+adv
+240550	v
+o
+o
+240554	s
+v
+adv
+v
+o
+p
+240561	vc
 adv
 aux
-240492	v
-s
-v
-s
-adv
-v
-io
-240500	v
-adv
-240503	o
-adv
-v
-v
-adv
-240509	adv
-240513	adv
-240517	v
-s
-apposition
-o
-v
-o
-240526	v
-240528	o
-apposition
-240531	adv
-o
-v
-240536	p
-vc
-adv
-v
-v
-o
-vc
-240544	p
-240546	o
-adv
-v
-v
-adv
-v
-io
-240554	v
-o
-v
-adv
-240559	v
-o
+aux
+240566	adv
 io
 s
-240565	v
-adv
-240568	s
-240570	vc
-adv
-adv
-240574	p
-240576	adv
-240580	v
 v
-o
-s
+240571	adv
 adv
-240586	v
-s
 adv
-240590	v
+v
+adv
+240577	v
 adv
 s
-240594	adv
-240596	v
-o
-240599	aux
+v
+v
+v
+240585	v
+v
+adv
+240589	v
+aux
+240592	v
+240594	v
+240596	o
+v
 s
+adv
+240602	o
+adv
 v
-240603	s
+240606	s
+v
+io
+v
+240611	s
 v
 adv
-240607	v
-240609	o
-240612	v
-o
-v
-v
-adv
-240618	v
+240616	v
+io
 s
-240621	adv
-240623	v
-240625	s
-adv
-o
+240620	v
+240622	s
 v
+s
 240630	v
-o
-240633	v
-240635	adv
-240637	v
-io
-o
+240635	s
 v
-o
-240644	v
-o
+io
+v
+s
+v
+adv
+240644	adv
 240647	v
-v
+s
 240651	v
-240653	p
-vc
+v
+o
+240656	v
+240658	s
+o
 v
 adv
-240658	v
-240660	o
-v
 240663	v
-240665	adv
-240667	v
-adv
-240674	v
-adv
-240677	s
 adv
 v
+v
+v
+240669	s
+240673	v
 io
-240682	v
-v
+vc
+p
 adv
-240686	adv
 v
 s
-adv
-240691	s
-adv
+240684	v
+o
+240687	adv
+o2
 v
+o
+240693	aux
 v
 adv
-v
-adv
+240697	adv
 240699	v
+io
 s
-o
-240704	v
+v
 o
 adv
-240716	v
+240706	vc
+s
+p
+adv
+240713	v
+240715	s
+v
 240718	v
-adv
-240725	apposition
-240728	vc
-p
-adv
-v
-s
-240735	v
-240737	s
 o
-240741	v
+240723	v
 s
 v
 adv
-p
-240747	v
+240728	v
+240730	s
+240733	adv
+240736	s
+240738	v
 o
-240751	adv
-240753	adv
-v
+240742	v
+240751	v
 o
-v
+adv
 240758	v
-v
-s
+o
 adv
 240763	s
-240765	adv
+240765	v
+o
+240769	adv
 v
-v
+adv
 s
-240770	v
+240774	v
+adv
+240778	v
+240780	adv
+adv
+240783	v
+s
+adv
+240790	v
+adv
+240793	v
+s
+240798	s
+240801	v
+v
+240804	o
+240807	adv
+240809	adv
+240812	v
+v
+adv
+240817	v
+adv
+240823	v
+s
+240826	v
+adv
+240831	v
+240833	s
+240838	s
+240840	vc
 p
-vc
+240843	s
+240845	p
+240849	v
 s
-240775	v
-p
-vc
-adv
-s
-240781	v
+240858	v
+240860	o
 v
-v
-240785	v
-o
-240788	v
-v
-240791	io
-adv
-v
-v
-io
-adv
-s
-o
 v
 adv
-240802	v
-240804	v
-io
-240808	o
-240810	v
+240869	apposition
+240873	adv
 v
-adv
-240814	v
-240816	s
-vc
-s
-240820	p
-240822	p
-240824	s
-vc
-s
-240828	adv
-v
-o
-240832	adv
-v
-v
-o
-v
-v
-240839	v
-adv
-240844	v
-v
-240847	o
-240849	adv
-240851	v
-adv
-240854	v
-o
-apposition
-240861	v
-o
-adv
-v
-s
-240867	adv
-240869	adv
-240871	s
-v
-o
-v
-adv
-240877	v
-adv
-s
-240881	v
-o
-p
-240885	adv
+240876	s
 p
 adv
-240889	v
-o
-s
-adv
-adv
 adv
 v
-o
-io
-240899	vc
 p
+adv
+240885	s
+adv
 v
 s
-240906	v
-240908	s
-240911	v
+v
+s
+v
+s
 adv
 v
 o
+240897	v
+240899	v
+o
+v
+v
+adv
+v
+adv
+240908	adv
+240910	v
+240912	v
+s
+240915	v
+o
+v
+s
 v
 o
+240922	adv
+v
+s
+v
+adv
+v
+adv
+240930	v
+240932	o
+o2
+o
+240936	o2
+240938	s
 vc
 p
-vc
-240921	p
-adv
-240925	v
-s
-240929	apposition
-240935	vc
-p
-240939	apposition
-240943	apposition
-240945	apposition
-240948	v
-240950	s
-o
-240953	v
 v
-s
+240943	s
+240948	vc
+p
+240951	o
+240953	adv
+240955	v
+adv
 240958	v
-io
-o
-240963	adv
-240966	adv
 v
-o
-adv
-adv
 v
-240973	v
+240962	s
+240964	apposition
+240966	v
+o
+240969	v
+adv
+240972	adv
+v
 240975	v
+aux
+adv
 o
+v
+s
+p
+240983	vc
+v
+o
+adv
+240989	v
+adv
+240992	v
+s
+v
+o
+241005	s
+adv
+241009	v
+v
+s
+241013	v
+adv
+241017	adv
+o2
+o
+v
+v
+241023	adv
+io
+o
+v
+241028	o
+v
+adv
+241032	o
+241035	o
+v
+adv
+v
+o
+adv
+v
 io
 v
-240980	s
-240983	v
-adv
-240987	v
-adv
-adv
-240991	v
-adv
-240994	vc
-p
+241045	adv
+241048	s
+241050	adv
 v
 o
-241000	adv
-241004	v
-241006	o
-o2
-v
-241010	adv
-241012	adv
-v
+241054	v
 o
-241019	apposition
+v
 adv
-s
-p
-s
-vc
-p
-241029	apposition
-apposition
+241059	v
 s
 v
-o
-241035	v
 v
+241064	s
 o
-241040	v
-241042	o
-s
-241045	apposition
-adv
-241048	v
-s
-241051	v
 v
-o
-adv
-241056	s
-241058	apposition
-241060	v
-adv
 v
 adv
+241071	adv
 v
-o
-aux
-aux
-241072	aux
-aux
+adv
 241075	adv
+adv
 v
-v
+241079	o
+241082	v
 o
-241082	apposition
-241084	adv
-aux
-s
-p
-241089	vc
-p
-adv
 v
+adv
+241092	v
 o
-adv
-adv
-241097	v
-adv
-s
-241102	v
-v
+241096	v
 o
-adv
 v
+adv
+241102	adv
+241104	v
 s
 v
-v
-v
 adv
-241115	v
-241117	adv
-241119	s
-241121	v
+241111	v
+241113	io
 adv
-241125	s
-241127	v
-adv
+o
 v
 adv
+v
+o
+io
+adv
+v
+241124	v
+adv
+v
+adv
+241130	v
+adv
+o
+v
+adv
+adv
+v
+adv
+adv
+v
+io
+241143	adv
+241145	o
+v
+adv
+v
+241151	v
+o
+v
+o
+v
 s
-241133	v
 adv
-241136	v
+241160	v
+io
+o
+v
+241165	adv
+241167	adv
+241170	s
+v
 adv
-241141	v
+241174	v
+o
+241178	adv
+v
 adv
-241144	adv
-241147	v
+241182	apposition
 adv
-241156	v
+v
+v
+v
+241188	s
+241192	adv
+241196	adv
+v
+v
 s
+241205	adv
+241209	adv
 adv
-v
-o
-241162	aux
-aux
-241166	s
-vc
-p
-241173	v
+241213	s
+241215	v
 adv
-v
-241177	s
-241179	v
-adv
-v
-241183	aux
-aux
-241186	v
-o
-v
-241190	s
-241195	v
-o
-241202	o
-v
-adv
-241210	adv
-241212	v
-o
-adv
-241216	adv
 241218	v
-o
 adv
-241223	v
+241222	v
 o
-241228	v
+241227	v
 o
-241231	adv
-241236	adv
-v
-o
-adv
-241241	adv
-v
-o
-241245	v
 io
+241231	v
+241233	adv
+v
+adv
+241242	v
+241244	o
 s
-o
-241251	apposition
-apposition
-241255	adv
-241258	v
-o
 v
-o
-io
-adv
-io
 adv
 v
+241250	s
+241257	v
 v
+241260	v
 v
 o
-241272	apposition
-241274	apposition
+v
+241265	v
+o
+241268	v
+241270	s
+241274	v
+adv
 241278	s
-v
-o
-241283	adv
-241285	s
-241287	adv
-v
-io
-o
+241280	v
 v
 s
-adv
-241297	o
-io
-241304	v
-s
-o
-v
-p
-s
-v
-vc
-o
-vc
-s
-241316	aux
 v
 adv
-adv
-adv
-vc
-p
-o
-241326	v
-241329	aux
 aux
 aux
-241338	v
+s
+v
+241290	adv
+241292	adv
+v
+s
 o
+adv
+241299	v
+s
+o
+241305	v
+241307	s
+241309	v
 io
-s
-241345	v
-s
-241348	v
-adv
-241353	adv
+v
 o
+241316	io
+241318	o
 v
-241357	o
-241361	adv
-241363	v
+adv
+241323	adv
 v
-v
-241367	o
-241369	v
+o
+241327	adv
+241329	adv
 v
 o
 v
-s
-241377	v
 o
 adv
+241338	o
+s
+241344	v
 v
+241347	adv
+241352	v
 v
 adv
-241384	v
 adv
 s
-241388	v
+v
+241359	s
+241362	v
+s
+241365	v
+o
+v
+s
+241371	adv
+241373	adv
+adv
+241376	v
+s
+v
+s
+v
+aux
+aux
+v
+o
+s
+v
+241388	adv
+s
+v
+v
+adv
 o
 adv
+241397	adv
+v
+s
+241403	v
+adv
+v
+241409	v
+o
+241413	v
+241415	o
+v
+v
+241419	v
+o
+241422	v
+s
+241426	o
+s
+241430	adv
+v
+s
+241434	adv
+v
 s
 v
-adv
-241395	adv
-v
-adv
-adv
-241402	s
-adv
-vc
+o
 p
 adv
-241409	s
+241442	s
+v
 o
 v
-o2
-241414	adv
-241416	v
-241419	o
-s
-v
+o
+241450	v
+adv
+241454	v
 io
-241424	v
-o
-241427	adv
-241431	v
-241433	o
-p
-vc
-s
-s
-adv
 v
 o
-241443	v
-o
-adv
-adv
-v
-v
-adv
-adv
-v
-241453	v
-io
-o
-241458	apposition
-241460	adv
-241462	v
-adv
-v
-s
-241467	v
-o
-241470	s
-241473	adv
+241466	s
+241468	adv
+241470	adv
 v
 o
+v
+adv
+241476	adv
 241478	v
-241480	v
-adv
-241485	v
-o
-o
-241489	s
-v
 adv
 v
+adv
+241485	adv
+241488	v
 o
+adv
+v
+adv
+adv
+241497	o
+241500	vc
 p
-241496	vc
-adv
-241499	aux
-aux
-241502	adv
-io
-s
-v
-241507	adv
-241509	adv
-adv
+241503	apposition
 v
 adv
-241514	v
+241507	v
 adv
-s
-v
-v
-241520	v
-241523	v
-v
-adv
-241527	o
-v
-aux
-241531	v
-241533	v
-241535	o
-v
-s
-adv
-241541	o
+241510	s
+241515	io
+241522	apposition
+241524	v
+241526	v
+241528	s
+241530	v
 o
 adv
 v
-241546	s
+o
+241536	io
+adv
 v
-io
-241550	v
-241552	s
 v
 adv
-241557	v
-io
-s
-241562	v
-241564	s
-v
-s
-241572	v
-o
-241578	s
-v
-io
-v
-s
 v
 adv
-241587	adv
-241590	v
-s
-241594	v
 v
 o
-241599	v
-241601	s
+v
+adv
+adv
+241552	apposition
+241554	apposition
+v
 o
+241558	adv
+241564	apposition
+v
+241567	o
+241569	o
+241572	adv
+v
+o
+v
+241577	adv
+241582	o
+241584	v
+io
+adv
+241589	v
+o
+241594	adv
+v
+o
+adv
+v
+v
+s
+241602	v
 v
 adv
 241606	v
+o
+v
+o
+v
+241612	v
 adv
-v
-v
-v
-241612	s
-241616	v
-io
+241615	s
+241618	s
+p
 vc
+adv
+241623	v
+o
+241626	v
+v
+241629	adv
+v
+adv
+adv
+241634	adv
+v
+o
+s
+241640	v
+adv
+v
+241644	adv
+241647	o
+241650	adv
+241653	v
+adv
+s
+v
+v
+o
+adv
+241661	adv
+v
+o
+241666	p
+vc
+s
+241670	v
+v
+o
+241675	vc
 p
-adv
-v
 s
-241628	v
-o
-241631	adv
-o2
-v
-o
-241637	aux
+241679	v
 v
 adv
-241641	adv
-241643	v
-io
+adv
+241684	adv
+v
+adv
+adv
+241689	adv
+v
+o
+v
+241694	s
+241697	v
 s
-v
-o
 adv
-241650	vc
 s
-p
-adv
-241657	v
-241659	s
-v
-241662	v
-o
-241667	v
-s
-v
-adv
-241672	v
-241674	s
-241677	adv
-241680	s
-241682	v
-o
-241686	v
-241695	v
-o
-adv
 241702	v
 o
-adv
-241707	s
-241709	v
-o
-241713	adv
 v
 adv
 s
-241718	v
-adv
+241708	v
+o
+v
+v
+io
+241715	adv
+241717	v
+241719	adv
 241722	v
-241724	adv
-adv
-241727	v
-s
-adv
-241734	v
-adv
-241737	v
-s
-241742	s
-241745	v
+o
 v
-241748	o
-241751	adv
-241753	adv
-241756	v
+241726	adv
+241732	aux
+241736	vc
+p
+adv
+p
+apposition
+241746	s
 v
 adv
-241761	v
-adv
-241767	v
+241754	s
+v
 s
+adv
+v
+241760	v
+v
+o
+adv
+241766	vc
+p
 241770	v
-adv
-241775	v
-241777	s
-241782	s
-241784	vc
-p
-241787	s
-241789	p
-241794	v
+241772	s
+241774	p
 s
-241803	v
-241805	o
-o
-v
-v
-adv
-241815	apposition
-241819	adv
-v
-241822	s
-241824	p
-adv
+241777	vc
+241780	v
 adv
 v
-p
-adv
-241832	s
-adv
-v
-s
-v
-s
-v
-s
-adv
+io
 v
 o
-241844	v
+241787	v
+adv
+241793	apposition
+241795	s
+241798	v
+adv
+241801	v
+adv
+adv
+v
+241806	adv
+241810	v
+adv
+241814	v
+o
+adv
+241818	v
+241820	adv
+241822	v
+adv
+241825	v
+241827	adv
+v
+o
+s
+241832	v
+241834	adv
+v
+adv
+241838	s
+adv
+io
+v
+s
+apposition
+v
 241846	v
 o
-v
-v
-adv
+241849	v
 v
 adv
-241855	adv
-241857	v
-241859	v
-s
-241862	v
-o
-v
-s
 v
 o
-241869	adv
+241856	o
 v
+adv
+v
+v
+adv
+v
+241864	v
+s
 s
 v
-adv
+o
+v
+241871	adv
 v
 adv
-241877	v
-241879	o
-o2
-o2
-o
-241884	o2
-241886	s
+241875	v
+adv
+241878	adv
+adv
+s
 vc
 p
-v
-241891	s
-241896	vc
-p
-241899	o
-241901	adv
-241903	v
+241887	v
+241889	adv
+241892	adv
 adv
+241897	v
+adv
+241900	adv
+p
+v
+s
+vc
 241906	v
 v
-v
-241910	s
-241912	apposition
-241914	v
-o
-241917	v
-adv
-241920	adv
-v
-241923	v
-aux
-adv
+io
+241910	v
+241912	s
+241916	adv
+p
+apposition
+241920	v
 o
 v
+o
+s
+v
+241927	v
+v
+adv
+241933	v
+241935	s
+241937	v
+v
+241940	v
 s
 p
-241931	vc
+adv
+vc
+v
+adv
+241949	v
+241951	v
+o
+v
+241955	v
+s
+adv
+241959	s
+241961	v
+o
 v
 o
-adv
-241937	v
-adv
-241942	v
+s
+o
+v
+io
+241970	v
 s
 v
 o
-241955	s
-adv
-241959	v
+241976	v
 v
 s
-241963	v
-adv
-241967	adv
-o2
-o
-v
-adv
-v
-241974	adv
-io
-o
-v
-241979	o
-v
-adv
-241983	o
-241986	o
-v
-adv
-v
-o
-adv
+241980	p
+241983	apposition
+vc
+s
 v
 io
-v
-241996	adv
-241999	s
-242001	adv
-v
 o
-242005	v
 o
+241991	v
+adv
+241994	adv
 v
+241997	s
+241999	v
+io
+v
+v
+io
+adv
+242007	v
 adv
 242010	v
+adv
+242013	v
+242015	s
+242018	v
 s
-v
-242014	v
-242016	s
+242023	v
 o
-v
-v
+242028	v
 adv
-242023	adv
-v
-adv
-242027	adv
-adv
-v
-242031	o
+242031	adv
 242034	v
 o
-v
-adv
-242044	adv
+io
 v
 o
-242049	v
+s
+242041	v
 o
+242044	p
+vc
+242047	v
+o
+adv
 v
 adv
-242055	adv
+v
+242054	p
+vc
 242057	v
 s
-v
 adv
-242064	v
-242066	io
-adv
-o
-v
-adv
+242062	s
 v
 o
+242066	v
+v
+o
+242070	v
 io
-242075	adv
-v
-242078	v
-adv
 v
 adv
-242084	v
+v
+io
 adv
+v
+o
+s
 o
 v
-adv
-adv
 v
+o
+adv
+242088	o
+242090	v
 adv
 242093	adv
-v
-io
-242098	adv
-242101	o
-v
-adv
-v
-242107	v
-o
+242096	s
+242098	v
 v
 o
 v
+242103	o
 s
 adv
-242116	v
-io
-o
+242107	s
 v
-242121	adv
-242123	adv
-242126	s
-v
+242110	v
+s
+242115	v
+242117	adv
+s
+242121	s
+242123	v
 adv
+p
+242127	vc
+s
 242130	v
+v
+s
+242135	v
 o
-242135	adv
 v
-adv
-242139	apposition
-adv
+o
 v
 v
+v
+s
 v
 242145	s
-242149	adv
-242153	adv
+adv
 v
+o
 v
-s
-242162	adv
-242166	adv
-adv
-242170	s
-242172	v
-adv
-242175	v
-adv
-242179	v
-o
-242184	v
-o
 io
-242188	v
-242190	adv
+s
+242153	vc
+p
+242156	v
+242158	o
+v
+242161	p
+vc
 v
 adv
-242199	v
-242201	o
+242168	v
+o
+adv
+v
+aux
+o
 s
 v
+v
+242178	v
+s
+242181	v
+o
+v
 adv
-v
-242207	s
-242214	v
-v
+242188	v
+s
+242194	v
+io
+o
+242199	adv
+242206	v
+o
+adv
+242213	v
+adv
 242217	v
+s
+242222	adv
 v
+242225	o
+adv
+242228	v
 o
-v
-242222	v
-o
-242225	v
-242227	s
 242231	v
 adv
-242235	s
+v
+o
+s
 242237	v
 v
 s
-v
-adv
 o
-242244	aux
-aux
-s
 v
-242249	adv
-242251	adv
 v
-s
 o
+242245	v
+242247	s
+o
+242250	adv
+242252	v
+s
+242255	v
 adv
 242258	v
+v
+adv
+s
+242263	v
+adv
+v
+o
+adv
+adv
+p
+vc
+v
+adv
+242274	adv
+adv
+o
+v
+242279	adv
+242282	v
 s
 o
-242264	v
-242266	s
-242268	v
+v
+v
+242288	io
+s
+o
+242293	v
+242295	v
+242297	p
+vc
+242300	v
+v
+o
+242304	v
+v
+v
+adv
+242309	v
+242311	adv
+242313	v
+adv
+242318	v
+v
+o
+242322	v
+v
+242325	adv
+242329	v
+adv
+p
+vc
+s
+242335	adv
+242337	v
+adv
+v
+adv
+242342	adv
+242344	v
+adv
+adv
+242348	v
+242350	o
+242352	s
+v
+v
+242356	v
+adv
+242360	s
+vc
+242364	apposition
+o
+s
+v
 io
+242370	s
+242372	v
+242374	v
+io
+242379	s
+242384	v
+242391	adv
+v
+242394	s
+242397	v
+o
+242403	v
 v
 o
-242275	io
-242277	o
+242407	v
+adv
+242410	v
+o
 v
 adv
-242282	adv
+242415	adv
+v
+242418	o
 v
 o
-242286	adv
-242288	adv
+242423	adv
+242425	v
+242427	o
 v
-o
-v
-o
-adv
-242297	o
 s
-242303	v
-v
-242306	adv
-242311	v
-v
 adv
 adv
-s
 v
-242318	s
-242321	v
-s
-242324	v
-o
 o
 v
 s
-242331	adv
-242333	adv
+242437	s
 adv
-242336	v
+242441	v
+p
+v
+vc
 s
 v
-s
-v
+242448	o
+242452	v
 o
-242343	aux
-aux
-v
-o
-s
-v
-242350	adv
-s
-v
-v
-adv
+242455	v
 o
 adv
-242359	adv
-v
-s
-242365	v
+242462	v
 o
-242368	adv
-v
-242373	v
-o
-242377	v
-242379	o
-v
-v
-242383	v
-o
-242386	v
 s
-242390	o
-s
-242395	adv
-v
-s
-242399	adv
-v
-s
+242466	adv
+adv
 v
 o
+242474	adv
+s
+v
+adv
+242481	v
+s
+242484	vc
 p
 adv
-242407	s
+242488	s
 v
 o
-v
+adv
+242493	adv
+242495	v
 o
-242415	v
-adv
-242419	v
-io
-v
-o
-242431	s
-242433	adv
-242435	adv
-v
-o
-v
-adv
-242441	adv
-242443	v
-adv
-v
-adv
-242450	adv
-242453	v
-o
-adv
-v
-adv
-adv
-242462	o
-242465	vc
-p
-242468	apposition
-v
-adv
-242472	v
-adv
-242475	o
+vc
 s
-242481	io
-242488	apposition
-242490	v
-242493	v
-242495	s
-242497	v
-o
+p
+s
+242504	v
+242506	s
+242516	v
+s
+242522	adv
+242525	v
+adv
+242528	s
+242531	v
 adv
 v
-o
-242503	io
-adv
-v
-v
-adv
-v
-adv
-v
-o
-v
-adv
-adv
-242519	apposition
-242521	apposition
-v
-o
-242525	adv
-242531	apposition
-242533	v
 242535	o
-242537	o
-242540	adv
-v
-o
-v
-242545	adv
-242550	o
-242552	v
-io
 adv
-242558	v
+242538	adv
 o
-242563	adv
-v
-o
-adv
-v
 v
 s
-242571	v
 v
 adv
-242575	v
+242546	v
+242548	s
+242553	adv
+242555	v
 o
 v
-o
-v
-242581	v
 adv
-242584	s
-242587	s
+242560	v
+o
+242567	adv
+v
+adv
+v
+adv
+242574	v
+o
+s
+v
+s
+242580	adv
+v
 p
 vc
-adv
-242592	v
-o
-242595	v
-v
+s
+242586	v
+242589	adv
+242591	adv
+242594	v
+242596	adv
 242598	adv
+242600	adv
 v
+242603	s
+242610	v
 adv
-adv
-242603	adv
+242613	s
 v
 o
+v
 s
-242609	v
-adv
-v
-242613	adv
-242616	o
-242619	adv
-242622	v
-adv
+242619	v
 s
+242622	p
+242624	v
+vc
+242627	o
+242631	v
 v
-v
-o
+242634	o
 adv
-242631	adv
+242638	v
+v
+v
+v
+p
+s
+242646	apposition
+242648	adv
 v
 o
-242636	p
+v
+242653	v
+adv
+242657	v
+242659	v
+p
+v
+s
 vc
 s
-242640	v
-v
+242670	v
+adv
+242673	v
+242676	v
 o
-242645	vc
+242679	v
+o
+v
+242683	s
+adv
+242688	v
+aux
+adv
 p
 s
-242649	v
 v
 adv
-adv
-242654	adv
 v
-adv
-adv
-242659	adv
-v
+242698	v
 o
-v
-242664	s
-242667	v
-s
-adv
-s
-242672	v
+242701	v
 o
-v
 adv
-s
-242678	v
-o
-v
 v
 io
-242685	adv
-242687	v
-242689	adv
-242692	v
 o
+242708	v
 v
-242696	adv
-242702	aux
+o
 s
-242707	vc
+v
+io
+aux
+242716	v
+o
+242723	s
 p
+242727	vc
 adv
-p
-apposition
-242717	s
-v
 adv
-242725	s
-v
-s
-adv
-v
 242731	v
+242733	adv
+242735	v
 v
 o
-adv
-242737	vc
-p
-242741	v
-242743	s
-242745	p
 s
-242748	vc
-242752	v
-adv
 v
 io
+o
+242745	v
+242747	adv
+o
+242750	v
+adv
+242755	v
+o
+242758	v
+242764	v
+o
 v
 o
-242759	v
+242769	v
 adv
-242765	apposition
-242767	s
-242770	v
+p
 adv
-242773	v
+242775	vc
 adv
-adv
-v
-242778	adv
-242782	v
-adv
+242778	v
+242781	s
 242786	v
-o
-adv
-242790	v
-242792	adv
-242794	v
-adv
-242797	v
-242799	adv
-v
-o
-s
-242804	v
-242806	adv
-v
-adv
-242810	s
-adv
-io
-v
-s
-apposition
-v
-242818	v
-o
-242821	v
-v
-adv
-v
-o
-242829	o
-v
-adv
+p
+242790	vc
+p
+242793	vc
+242795	adv
 v
 v
 adv
-v
-242837	v
-s
-s
-v
-o
-v
-242844	adv
-v
-adv
-242849	v
-adv
-242852	adv
-adv
-242855	s
+242801	apposition
+242805	s
 vc
 p
-242862	v
-242864	adv
-242867	adv
-adv
-242872	v
-adv
-242875	adv
-242877	p
-v
+o
+242812	v
 s
-vc
-242882	v
+adv
 v
 io
-242886	v
-242888	s
-242892	adv
-p
-apposition
-242896	v
-o
-v
-o
 s
 v
-242903	v
-v
+242820	v
 adv
-242910	v
-242912	s
-242914	v
+v
 v
 o
-242918	v
-s
-p
 adv
-vc
-v
 adv
-242927	v
-242929	v
 o
 v
-242933	v
-s
-adv
-242937	s
-242939	v
-o
-v
-o
-s
 o
 v
 io
+v
+o
+adv
+v
+242837	o
+s
+242840	v
+s
+242843	v
+v
+o
+adv
+adv
+adv
+s
+v
+adv
+242853	s
+242855	v
+io
+v
+p
+s
+242862	apposition
+242865	adv
+p
+242870	adv
+v
+adv
+242874	v
+adv
+242877	v
+o
+242882	adv
+p
+p
+adv
+adv
+v
+adv
+242890	adv
+242893	apposition
+adv
+v
+s
+v
+s
+242900	adv
+242902	v
+adv
+242905	adv
+p
+vc
+v
+adv
+242911	v
+vc
+242914	p
+adv
+v
+242918	adv
+242920	adv
+242922	v
+o
+242928	v
+adv
+242931	s
+242936	v
+adv
+s
+v
+io
+vc
+s
+p
+v
+242946	s
 242948	v
-s
 v
 o
-242954	v
 v
+adv
 s
+242955	p
 242958	p
-242961	apposition
-vc
 s
+adv
+242962	adv
+242964	v
+242966	v
+adv
 v
-io
+adv
+242973	adv
+p
+v
 o
-o
-242969	v
-adv
-242972	adv
-v
-242975	s
-242977	v
-io
-v
-v
-io
-adv
-242985	v
-adv
-242988	v
-adv
-242991	v
-242993	s
-242996	v
 s
-243001	v
+242979	v
+adv
+s
+242983	apposition
+v
+o
+adv
+242992	s
+242994	v
+v
+242997	v
+v
+243000	s
+adv
+adv
+io
 o
 243006	v
-adv
-243009	adv
-243012	v
-o
-io
+243008	v
+243010	adv
 v
-o
-s
-243019	v
-o
-243022	p
+243014	s
 vc
-243025	v
-o
-o
-adv
+p
+243018	s
 v
-adv
+o
 v
-243033	p
+o
+243024	s
 vc
-243036	v
-s
+p
 adv
-243041	s
-v
+243030	v
+243032	adv
+243035	v
+adv
 o
+243040	s
+243042	p
+vc
 243045	v
-v
-o
-243049	v
-io
-v
 adv
-v
-io
-adv
-v
+s
 o
+243050	v
+o
+adv
+243054	v
+243056	adv
+243058	v
 s
 o
 v
-v
 o
-adv
-243067	o
-243069	v
-adv
-243072	adv
-243075	s
-243077	v
+v
+243065	s
 v
 o
 v
-243082	o
 s
 adv
-243086	s
+243072	o
+243075	vc
+p
+243080	aux
+adv
 v
-243089	v
-s
+o
+243086	p
+vc
+243092	apposition
 243094	v
-243096	adv
 s
-243100	s
+p
+s
+adv
+v
+vc
 243102	v
+o
+adv
+243106	v
+243108	s
+o
+apposition
+v
+adv
+243115	s
+adv
+v
+s
+243120	adv
+v
+adv
+o
+v
+v
+adv
+243129	p
+s
+243132	v
+adv
+o
+v
+243137	o
+v
+243140	adv
+o
+v
+adv
+s
+243146	v
+adv
+243149	v
+adv
+v
+243153	s
+adv
+243156	v
+v
+243159	adv
+v
+243162	v
+adv
+v
+adv
+s
+v
+v
+adv
+243172	v
+adv
+adv
+v
+243177	v
+o
+v
+adv
+243182	v
+o
+v
+v
+adv
+adv
+243191	v
+o
+243194	s
+243200	p
 adv
 p
-243106	vc
-s
-243109	v
+adv
+apposition
 v
-s
-243114	v
+adv
+p
+vc
+adv
+243211	s
+v
 o
-v
-o
-v
-v
-v
-s
-v
-243124	s
+243217	v
 adv
 v
+243221	adv
 o
+243225	v
+adv
 o
+243229	s
+243231	v
+v
+adv
+243236	v
+243238	o
+s
+243241	v
+o
+243244	adv
+io
+v
+o
+243250	v
+243252	s
+v
+adv
+243256	v
+s
 v
 io
+v
 s
-243133	vc
+v
+v
+adv
+v
+adv
+243268	adv
+243270	o
+v
+adv
+v
+adv
+243276	vc
+s
 p
-243136	v
-243138	o
 v
-243141	p
+243281	adv
+s
 vc
-v
-adv
-243148	v
-o
-adv
-v
-aux
-o
-s
-v
-v
-243158	v
-s
-243161	v
-o
-v
-adv
-243168	v
-s
-243174	v
-io
-o
-243179	adv
-243186	v
-o
-adv
-243193	v
-adv
-243197	v
-s
-243202	adv
-v
-243205	o
-adv
-243208	v
-o
-243211	v
-adv
-v
-o
-243216	s
-243218	v
-v
-s
-o
-v
-v
-o
-243226	v
-243228	s
-o
-243231	adv
-243234	v
-s
-243237	v
-adv
-243240	v
-v
-adv
-s
-243245	v
-adv
-o
-v
-o
-adv
-adv
 p
-vc
+s
 v
 adv
-243257	adv
-adv
-o
-v
-243262	adv
-243265	v
-s
-o
-v
-v
-243271	io
-s
-o
-243276	v
-243278	v
-243280	p
-vc
-243283	v
-v
-o
-243287	v
-v
-v
+243289	v
 adv
 243292	v
-243294	adv
-243296	v
-adv
-243301	v
-v
 o
-243305	v
 v
-243308	adv
+243296	adv
+o
+v
+v
+s
+243302	adv
+243304	adv
+s
+v
+v
+v
+243310	adv
 243312	v
-adv
-243315	p
-vc
 s
-243319	adv
-243321	v
+243315	v
 adv
+243319	v
+243321	s
+s
 v
-adv
-243326	adv
-243328	v
-adv
-adv
-243332	v
-243334	o
-243336	s
-v
-v
-243340	v
-adv
-243344	s
-vc
-p
-243349	apposition
 o
+io
+v
+adv
+v
+adv
+243331	v
 s
-v
+vc
+adv
+243336	v
+243338	v
+adv
+243345	v
 io
-243356	s
-243358	v
-243360	v
-io
-243365	s
-243370	v
-243377	adv
+s
+o
 v
+s
+243353	adv
+243355	v
+243357	adv
+243359	v
+vc
+243362	s
+243364	p
+v
+243367	adv
+243369	v
+adv
+243372	v
+243374	adv
 243380	s
+v
 243383	v
 o
-243389	v
-v
-o
-243393	v
 adv
-243396	v
+243387	v
+adv
+v
 o
+adv
 v
 adv
-243401	adv
+243396	s
+243398	v
+adv
+243402	s
 v
-243404	o
+adv
 v
 o
-243409	adv
-243411	v
-243413	o
+243409	s
+243412	o
+243414	apposition
 v
 s
-adv
-adv
 v
-o
+adv
+243423	adv
+243425	v
 v
+adv
+243430	s
+243434	v
+adv
 s
-243423	s
-adv
-243427	v
-p
-v
-vc
 s
-v
-243434	o
-243438	v
-o
 243441	v
-o
-adv
+v
+243444	s
 243448	v
-o
-s
-243452	adv
+243450	v
 adv
 v
 o
-243460	adv
-s
-v
-adv
-243467	v
-s
-243470	vc
-p
-adv
-243474	s
+243456	o
+243460	v
 v
 o
 adv
-243479	adv
-243481	v
 o
+s
+v
+v
+243469	s
+243472	apposition
+243474	o
+v
+243477	s
+243480	v
+io
+o
+243484	o
+v
+243487	o
+v
+s
+243491	p
 vc
-s
-p
-s
-243490	v
-243492	s
-243503	v
-s
-243509	adv
-243512	v
-adv
-243515	s
-243518	v
-adv
-v
-243522	o
-adv
-243525	adv
-o
-v
-s
-v
-adv
-243533	v
-243535	s
-243540	adv
-243542	v
-o
-v
-adv
-243547	v
-o
-243554	adv
-v
-adv
-v
-243559	adv
-243562	v
-o
-s
-243566	v
-s
-243569	adv
-v
+243494	v
+243496	adv
 p
 vc
 s
+243502	v
+adv
+v
+adv
+243507	adv
+243509	v
+v
+adv
+243514	s
+243516	vc
+p
+adv
+243522	v
+adv
+243526	v
+s
+adv
+243531	v
+s
+243536	s
+243538	v
+v
+v
+243542	o
+243544	s
+243546	o
+v
+v
+o
+v
+adv
+243553	v
+o
+243557	v
+o
+243560	adv
+adv
+s
+243565	v
+243569	v
+s
+v
+s
+adv
 243575	v
-243578	adv
-243580	adv
-243583	v
-243585	adv
-243587	adv
-243589	adv
-v
-243592	s
-243599	v
 adv
-243602	o
-s
-v
-o
-v
-s
-243609	v
-o
-s
-243613	p
-243615	v
-vc
-243618	o
-243622	v
-v
-243625	o
+243579	v
 adv
-243629	v
 v
-o
-v
-v
-p
-s
-243638	apposition
-243640	adv
-v
-o
-v
-243645	v
-adv
-243649	v
-243651	v
-p
-v
-s
+243583	adv
 vc
 s
-243662	v
-adv
-243665	v
-243668	v
-o
-243671	v
-o
-v
-243675	s
-adv
-243680	v
-aux
-adv
 p
+v
 s
+o
+v
+v
+243593	adv
+243595	o
+243597	v
+o
+apposition
+243601	s
 v
 adv
+adv
+243606	v
+243608	adv
+243611	s
+243616	s
+243618	p
+243620	adv
 v
-243690	v
 o
-243693	v
-o
-243696	adv
-v
+243624	v
 io
 o
-243701	v
+243628	o
 v
-o
-s
-v
-io
+243635	v
 aux
-243709	v
+v
+243639	p
+243642	s
+243644	vc
+243646	v
+243649	adv
+243655	s
+243657	v
+v
 o
-243716	s
+v
+243662	adv
+vc
 p
-243720	vc
 adv
+v
+243668	adv
+243670	s
+v
 adv
-243724	v
-243726	adv
+s
+adv
+v
+243678	s
+243684	adv
+v
+v
+243688	adv
+v
+adv
+243692	o
+s
+243698	v
+adv
+v
+243703	vc
+p
+adv
+v
+v
+p
+s
+243712	v
+s
+adv
+v
+243717	adv
+adv
+243720	v
+o
+243725	apposition
+s
 243728	v
 v
+adv
+243732	adv
+v
 o
 s
+s
+243741	vc
+adv
+p
+v
+adv
+v
+adv
+v
+o
+adv
+243752	s
+243755	o
+v
+243758	v
+243760	s
+243762	s
+adv
+v
+adv
+v
+s
+243770	v
+o
+v
+o
+s
+s
+243777	v
+o
+v
 v
 io
-o
-243738	v
-243740	adv
-o
-243743	v
-adv
-243748	v
-o
-243751	v
-243757	v
-o
 v
-o
-243762	v
-adv
-p
-adv
-243768	vc
-243770	adv
-243772	v
-243775	s
-243780	v
-p
-243784	vc
-p
-243787	vc
-243789	adv
-v
+243785	p
+vc
+s
 v
 adv
-243795	apposition
+adv
+243793	v
+p
+s
+243797	v
 243799	s
+o
+v
+aux
+p
+243805	vc
+s
+adv
+v
+s
+243811	p
 vc
-p
-o
-243806	v
-s
-adv
-v
-io
-s
-v
-243814	v
-o
-adv
-v
-v
-o
-adv
-adv
-243823	o
-v
-o
-v
-io
-v
-o
-adv
-v
-243833	o
-s
-243836	v
-s
-243839	v
-v
-o
-adv
-adv
-adv
-s
-v
-adv
-243849	s
-243851	v
-io
-v
-p
-s
-243858	apposition
-243861	adv
-p
-243866	adv
-v
-adv
-243870	v
-adv
-243874	v
-o
-243879	adv
-p
-p
-adv
-adv
-v
-adv
-243887	adv
-243890	apposition
-adv
-v
+243818	p
+243820	vc
 s
 v
 s
-243897	adv
-243899	v
-adv
-243902	adv
-p
+v
 vc
+243827	o
+v
+v
+243831	o
+243834	apposition
+243837	v
+o
+243843	s
+243848	v
+adv
+o
+s
+v
+243854	s
+v
+v
+o
+243860	o
+adv
 v
 adv
-243908	v
-vc
-243911	p
+243866	v
+adv
+243869	v
+v
+adv
+adv
+243874	s
+v
+adv
 adv
 v
-243915	adv
+v
+o
+adv
+243885	o
+v
+v
+o
+adv
+243891	v
+s
+adv
+v
+s
+o
+243898	v
+v
+v
+v
+adv
+adv
+v
+243906	adv
+243909	v
+o
+adv
+v
+adv
+243915	v
 243917	adv
-243919	v
-o
-243926	v
-adv
-243929	s
-243934	v
-adv
-s
 v
-io
-vc
 s
+adv
+adv
+243923	v
+v
+adv
+243927	vc
 p
-243943	v
-243945	s
-243947	v
-v
-o
 v
 adv
+v
+243933	adv
+s
+243949	apposition
+243951	s
+243953	v
+v
 o
-s
-243955	p
-243958	p
-s
 adv
-243962	adv
-243964	v
+s
+243959	v
+adv
+243964	adv
 243966	v
 adv
+adv
+243970	adv
+243972	adv
 v
 adv
-243974	adv
-p
-v
-o
-s
+adv
 243980	v
-adv
 s
-243984	apposition
 v
 o
-adv
-243993	s
-243995	v
+s
 v
-243998	v
+adv
 v
-244001	s
+v
 adv
+v
+243992	o
 adv
-io
-o
-244007	v
+vc
+243996	s
+p
+243999	adv
+v
+v
+244003	s
+244005	adv
+p
+adv
 244009	v
-244011	adv
-v
-244015	s
-vc
-p
-244019	s
-v
-o
-v
-o
-244025	s
-vc
-p
 adv
-244031	v
-244033	adv
-244036	v
-adv
-o
-244042	s
-244044	p
-vc
-244047	v
-adv
-s
-o
-244052	v
-o
-adv
-244056	v
-244058	adv
-244060	v
-s
-o
-v
-o
-v
-244067	s
-v
-o
 v
 s
 adv
-244074	o
-244078	vc
-p
-244083	aux
+v
+adv
+244017	v
+adv
+244020	adv
+244022	v
 adv
 v
-o
-244091	p
-vc
-244097	apposition
-244099	v
+244026	s
+v
+adv
+244030	v
+v
+adv
+v
 s
-p
-s
-adv
-v
-vc
-244107	v
-o
-adv
-244111	v
-244113	s
-o
-apposition
-v
-adv
-244120	s
-adv
-v
-244124	s
-244126	adv
-v
-adv
-o
-v
-v
-adv
-244135	p
-s
-244139	v
-adv
-o
-v
-244144	o
-244146	v
-244148	adv
-o
-v
-adv
-s
-244154	v
-adv
-244157	v
-adv
-v
-244161	s
-adv
-244164	v
-v
-244167	adv
-v
-244170	v
-o
-adv
-v
-adv
-s
-v
-v
-adv
-244181	v
-adv
-adv
-v
-244186	v
-o
-v
-adv
-244191	v
-o
-v
-v
-adv
-adv
-244200	v
-o
-244203	s
-244209	p
-adv
-p
-adv
-apposition
-v
-adv
-p
+244037	p
 vc
 adv
-244220	s
 v
+244043	v
 o
-244226	v
+244046	v
+adv
+244049	v
+adv
 adv
 v
-244230	adv
-o
-244234	v
-adv
-o
-244238	s
-244240	v
 v
+244055	o
+v
+244058	v
 adv
-244245	v
-244247	o
 s
-244250	v
-o
-244253	adv
-io
+244062	v
+adv
+244065	v
+adv
+244068	adv
+v
 v
 o
-244261	v
-244263	s
+adv
+244074	v
+v
+s
+v
+244080	v
+adv
+adv
+244084	v
+o
 v
 adv
-244267	v
-s
+adv
+v
+v
+v
+adv
+adv
+244095	v
+adv
+244098	v
+v
+adv
+v
+244103	s
+v
+adv
+244107	adv
+v
+adv
+v
+adv
+244113	v
+244116	p
+vc
+adv
+adv
+244122	vc
+p
+adv
+244127	v
+adv
+v
+o
+244135	v
+adv
 v
 io
-v
-o
 s
 v
+adv
+244143	adv
 v
 adv
-v
-adv
-244280	adv
-244282	o
-v
-adv
-v
-adv
-244288	vc
-s
+244147	adv
 p
-v
-244293	adv
-s
-vc
-p
-s
-v
 adv
-244301	v
-adv
-244304	v
-o
-v
-244308	adv
-o
-v
-v
-244313	s
-244315	adv
-244317	adv
-s
-v
-v
-v
-244323	adv
-244325	v
-s
-244328	v
-adv
-244332	v
-244334	s
-s
+244151	vc
 v
 o
+adv
+244159	v
+adv
+adv
+244166	o
+v
+v
+v
 io
-v
+244172	v
+o
 adv
-v
-adv
-244344	v
-s
-vc
-adv
-244349	v
-244351	v
-adv
-244359	v
+244177	v
 io
-s
-o
-v
-s
-244367	adv
-244369	v
-244371	adv
-244373	v
-vc
-244376	s
-244378	p
-v
-244381	adv
-244383	v
-adv
-244386	v
-244388	adv
-244395	s
-v
-244398	v
-o
-adv
-244402	v
-adv
-v
-o
-adv
-v
-adv
-244411	s
-244413	v
-adv
-244417	s
-v
-adv
-v
-o
-244424	s
-244427	o
-244429	apposition
-v
-s
-v
-adv
-244438	adv
-244440	v
-v
-adv
-244445	s
-244449	v
-adv
-s
-s
-244456	v
-v
-244459	s
-244463	v
-244465	v
-adv
-v
-o
-244471	o
-244475	v
-v
-o
-adv
-244480	o
-s
-v
-v
-244485	s
-244488	apposition
-244490	o
-v
-244493	s
-244496	v
-io
-o
-244500	o
-v
-244503	o
-v
-s
-244507	p
-vc
-244510	v
-s
-244513	adv
-p
-vc
-s
-244519	v
-adv
-v
-adv
-244524	adv
-244526	v
-v
-adv
-244531	s
-244533	vc
-p
-adv
-244539	v
-adv
-244543	v
-s
-adv
-244548	v
-s
-244553	s
-244555	v
-v
-v
-244559	o
-244561	s
-244563	o
-v
-v
-o
-v
-adv
-244570	v
-o
-244574	v
-o
-244577	adv
-adv
-s
-244582	v
-244587	v
-s
-v
-s
-adv
-244593	v
-adv
-244597	v
-adv
-v
-244601	adv
-vc
-s
-p
-v
-s
-o
-v
-v
-244611	adv
-244613	o
-244615	v
-o
-apposition
-244619	s
-v
-adv
-adv
-244624	v
-244626	adv
-244629	s
-244634	s
-244636	p
-244638	adv
-v
-o
-244642	v
-io
-o
-244646	o
-v
-244653	v
+244181	o
+244192	adv
 aux
 v
-244657	p
-244660	s
-244662	vc
-244664	v
-244667	adv
-244673	s
-244675	v
+s
+adv
+v
+adv
+adv
+v
+o
+adv
+v
+244206	s
+244209	adv
+v
+io
+v
+244214	s
+244216	o
+v
+244219	adv
+v
+o
+o2
+244224	v
+o
+244230	o
+v
+adv
+244235	v
+o
+244242	adv
+aux
+s
+v
+244247	adv
+v
+o
+244252	adv
+v
+v
+o
+244257	v
+io
+adv
+244263	p
+vc
+adv
+244268	adv
+244270	v
+adv
+v
+o
+244277	io
+v
+o
+244283	adv
+o
+s
+244288	v
+o2
+v
+o
+244294	o
+v
+adv
+244300	s
+v
+244303	v
+adv
+244307	s
+adv
+adv
+v
+o
+244313	adv
+244315	v
+s
+v
+v
+v
+o
+adv
+244323	v
+v
+244326	adv
+adv
+244329	adv
+v
+adv
+v
+o
+244335	adv
+v
+o
+io
+244346	v
+o
+v
+244350	v
+o
+adv
+244354	v
+o
+244358	v
+s
+v
+244362	o
+244366	vc
+p
+v
+s
+244371	o
+v
+io
+adv
+v
+v
+v
+v
+v
+244381	o
+244385	s
+v
+o
+p
+vc
+adv
+v
+244393	v
+244395	o
+v
+v
+o
+244400	adv
+244402	v
+p
+244405	s
+vc
+244408	v
+adv
+244413	v
+o
+v
+adv
+adv
+244419	adv
+v
+adv
+v
+o
+244425	v
+v
+244428	o
+adv
+244433	v
+v
+s
+v
+adv
+v
+v
+adv
+244442	adv
+244444	adv
+244446	adv
+adv
+244449	v
+o
+v
+adv
+v
+v
+adv
+v
+244458	o
+244460	v
+o
+adv
+v
+adv
+244466	v
+adv
+adv
+244470	s
 v
 o
 v
-244680	adv
+244475	o
+v
+adv
+adv
+s
+io
+v
+adv
+244484	adv
+v
+adv
+244489	v
+v
+s
+o
+244494	v
+v
+v
+o
+s
+adv
+244502	adv
+244506	v
+o
+adv
+244510	v
+v
+o
+244515	v
+adv
+244518	s
+244520	v
+adv
+244523	s
+244525	o
+v
+adv
+v
+adv
+244531	v
+o
+v
+adv
+adv
+adv
+244538	v
+v
+adv
+244542	v
+adv
+244548	apposition
 vc
 p
+244552	v
 adv
-v
-244686	adv
-244688	s
-v
-adv
-s
-adv
-v
-244696	s
-244702	adv
-v
-v
-244706	adv
-v
-adv
-244710	o
-s
-244716	v
-adv
-v
-244721	vc
 p
+244556	vc
+s
+244560	v
+v
+244563	adv
+v
+s
+244569	apposition
 adv
-v
-v
 p
-s
-244730	v
-s
-adv
+244573	adv
 v
-244735	adv
 adv
-244738	v
+244577	v
 o
-244743	apposition
+244581	v
+o
+244587	v
+o
+v
 s
-244746	v
+244593	o
+p
+vc
+s
+244598	adv
 v
 adv
+s
+244603	v
+adv
+244608	v
+o
+v
+s
+244615	adv
+v
+s
+adv
+adv
+v
+s
+o
+v
+adv
+v
+244627	v
+o
+244630	s
+244632	o
+adv
+v
+244636	adv
+v
+adv
+adv
+v
+adv
+244646	adv
+v
+244649	s
+v
+v
+s
+244655	v
+adv
+244660	v
+v
+adv
+v
+244665	s
+244669	adv
+v
+adv
+v
+apposition
+244675	apposition
+apposition
+v
+244679	s
+adv
+adv
+v
+o
+s
+244686	v
+v
+s
+adv
+adv
+s
+244693	v
+244696	v
+o
+v
+adv
+o
+o
+v
+s
+adv
+244706	adv
+244709	s
+244711	v
+v
+o
+v
+244716	io
+o
+v
+aux
+s
+244722	vc
+p
+244725	v
+244727	s
+p
+244730	vc
+v
+244733	adv
+244735	o2
+v
+244738	o
+244743	v
+o
+adv
+v
+s
+o
 244750	adv
 v
-o
-s
-s
-244759	vc
-adv
 p
-v
+244754	vc
 adv
 v
-adv
-v
+244758	v
 o
+244761	v
+o
+io
+v
+vc
+p
+s
+244769	o
+v
 adv
-244770	s
 244773	o
 v
-244776	v
-244778	s
-244780	s
-adv
 v
 adv
-v
-244786	s
-244789	v
+244778	v
+adv
+244781	v
 o
-v
-o
+244784	v
 s
-s
-244796	v
-o
-v
-v
-io
-v
-244804	p
-vc
-s
+244787	o
 v
 adv
-adv
-244812	adv
-v
 p
+vc
+244793	v
 s
-244817	v
-244819	s
+v
+o
+adv
+244801	v
+s
+v
+v
+v
+s
+o
+244813	adv
+s
+v
+o
+adv
+244819	v
+adv
+v
+v
+adv
+244825	v
+o
+244831	adv
+v
+adv
+244836	s
+244839	v
+s
+244842	v
+s
+244847	v
+o
+adv
+244851	v
+o
+244855	v
+adv
 o
 v
 aux
-p
-244825	vc
-s
-adv
+aux
 v
-s
-244831	p
+244863	s
 vc
-244838	p
-244840	vc
-s
-v
-s
-v
-vc
-244847	o
-v
-v
-244851	o
-244854	apposition
-244857	v
-o
-244864	s
-244869	v
-adv
-o
-244873	s
-v
-244876	s
-v
-v
-o
-o
-244883	o
-adv
-v
-adv
-244889	v
-adv
-244892	v
-v
-adv
-adv
-244897	s
-v
-adv
-adv
-v
-v
-o
-adv
-244908	o
-v
-v
-o
-adv
-244914	v
-s
-adv
-v
-s
-o
-244921	v
-v
-v
-v
-adv
-adv
-v
-244929	adv
-244932	v
-o
-adv
-v
-adv
-244938	o
-v
-244941	adv
-244943	v
-s
-adv
-adv
-244948	v
-v
-adv
-244952	vc
 p
-v
+244867	adv
+244875	o
 adv
 v
-244958	adv
+244879	adv
+244881	o
+v
+adv
+244886	v
+o
+244890	v
+244892	s
+apposition
+adv
+244896	p
+o
+v
+244900	adv
+244902	v
 s
-244974	apposition
-244976	s
-244978	v
+244905	v
+244907	s
+244911	v
+s
+244915	v
+o
 v
 o
 adv
+244922	adv
+v
 s
+v
+244927	o
+v
+v
+s
+adv
+244934	s
+v
+s
+adv
+v
+o
+244941	v
+adv
+s
+244945	v
+o
+244950	v
+v
+o
+adv
+v
+s
+v
+o
+244959	v
+v
+adv
+244963	v
+o
+p
+vc
+244968	o
+v
+s
+244972	o
+v
+adv
+244976	adv
+v
+244979	s
+v
+o
+adv
 244984	v
-adv
-244989	adv
-244992	v
-adv
-adv
-244996	adv
-244998	adv
 v
-adv
-245002	adv
-245007	v
 s
+adv
+244991	v
+adv
+244994	v
+v
+s
+adv
+244999	adv
+245003	v
+245005	s
+245008	v
 v
 o
+v
+245013	v
+adv
+245016	s
+v
+io
+v
+adv
+v
+o
+adv
 s
-v
+245026	v
 adv
 v
-v
 adv
-v
-245019	o
-adv
-vc
-245023	s
-p
-245027	adv
-v
-v
 245031	s
-245033	adv
-p
-adv
-245037	adv
-v
-adv
-v
-s
-adv
-v
-adv
-245046	v
-adv
-245049	adv
-245051	v
-adv
-v
-245055	s
-v
-adv
-245059	v
-v
-o
-adv
-v
-s
-245067	p
 vc
+p
+245035	adv
+245038	v
+245040	v
 adv
-v
-245073	v
+245043	o
+245047	v
+245049	s
 o
+s
+p
+245055	vc
+apposition
+245058	p
+245061	v
+245063	o
+v
+io
+v
+adv
+245069	v
+245071	s
+s
+v
+adv
 245076	v
 adv
-245079	v
-adv
-adv
-v
-v
-245085	o
-v
-245088	v
-adv
-245091	s
-245093	v
-adv
-245096	v
-adv
-245099	adv
-v
-v
-o
-adv
-245105	v
-v
+io
 s
+245081	v
 v
-245111	v
 adv
-adv
-245116	v
+245085	v
+aux
+aux
+245089	v
 o
-v
+245095	v
+245098	adv
+245100	v
+o
 adv
-adv
 v
-v
-v
-adv
-adv
-245127	v
-adv
-245130	v
-v
-adv
-245134	v
-245136	s
-v
-adv
-245140	adv
-v
+o
+245106	v
+s
+vc
+p
 adv
 v
 adv
-245147	v
-245150	p
+245115	v
+245117	adv
+245120	adv
+245123	v
+adv
+245128	p
+vc
+245132	s
 vc
 adv
+s
+o
+245138	v
 adv
-245156	vc
-p
+v
+245142	adv
+o
+245147	s
+245149	v
+io
+245152	s
+245154	adv
+o
+v
 adv
-245161	v
-adv
+245159	adv
+v
 v
 o
-245170	v
+p
+vc
+v
+adv
+245168	v
+v
+245171	adv
 adv
 v
-io
+245175	v
+adv
+adv
+adv
+adv
+245181	v
+s
+adv
+245185	v
+245187	adv
+245190	v
 s
 v
+io
+aux
+aux
 adv
-245179	adv
+o
 v
-adv
-245183	adv
+s
+245201	v
 p
-adv
-245187	vc
+vc
+aux
 v
+245207	adv
+s
+vc
+245211	apposition
 o
-adv
-245195	v
-adv
-adv
-245202	o
+s
 v
+245216	p
+vc
+o
+245220	v
+o
+245224	adv
 v
 v
 io
-245208	v
-o
+v
+245230	o
+v
+aux
+s
+245235	v
 adv
-245213	v
+v
+v
+adv
+adv
 io
-245217	o
-245229	adv
+v
+adv
+245245	o
+v
+io
+v
+245251	adv
+v
+adv
+245258	v
+adv
+v
+adv
+v
+adv
+s
+245267	apposition
+245272	v
+adv
+245277	v
+adv
+v
+adv
+245282	v
+v
+io
+aux
 aux
 v
 s
 adv
-v
+245291	v
 adv
-adv
-v
-o
-adv
-v
-245243	s
-245246	adv
-v
-io
-v
-245251	s
-245253	o
-v
-245256	adv
-v
-o
-o2
-245262	v
-o
-245269	o
-v
-adv
-245274	v
-o
-245282	adv
-aux
 s
-v
-245287	adv
-v
-o
-245291	s
-245293	adv
-v
-v
-o
-245299	v
-io
-adv
-245305	p
-vc
-adv
-245310	adv
-245312	v
-adv
-v
-o
-245319	io
-v
-o
-245326	adv
-o
+245295	v
 s
+245300	v
+o
+adv
+v
+o
+245307	v
+o
+245310	v
+o
+245316	vc
+p
+adv
+adv
+245321	o
+v
+245325	adv
+o
+v
+v
+v
 245331	v
-o2
-v
 o
-245338	o
-v
-adv
-245344	s
-v
-245347	v
-adv
-245351	s
-adv
-adv
-v
+245334	v
 o
-245357	adv
-245359	v
+245337	v
+245339	adv
+adv
+v
+adv
+245344	v
+s
+adv
+245348	vc
+s
+p
+245352	v
 s
 v
-v
-v
-o
-adv
-245367	v
-v
-245370	adv
-adv
-245373	adv
-v
-adv
-v
-o
-245379	adv
-v
-o
 io
-245390	v
-o
 v
-245394	v
-o
+245358	v
 adv
+adv
+245362	adv
+v
+o
+245367	s
+v
+aux
+s
+v
+245373	s
+v
+245376	adv
+245378	v
+adv
+245382	v
+s
+245386	apposition
+245388	s
+v
+245391	v
+245393	v
+245395	v
+o
 245398	v
 o
-245402	v
+245401	v
+adv
+v
+245405	s
+adv
+adv
+v
+o
+v
+245412	o
+adv
+245417	v
+o
+245420	v
+v
+adv
+245424	o
+adv
+245427	v
 s
 v
-245406	o
-245410	vc
-p
+v
+245432	s
+245435	v
+o
+245438	o
+v
+adv
+245442	v
+s
 v
 s
-245415	o
+adv
+245448	v
+adv
+v
+s
+245453	v
+adv
+245456	adv
 v
 io
+245461	v
+o
+adv
+v
+adv
+245468	v
+s
+o
+245472	v
 adv
 v
 v
+245477	s
 v
+adv
 v
-v
-245425	o
-245429	s
 v
 o
-p
-vc
-adv
 v
-245437	v
-245439	o
-v
-v
-o
-245444	adv
-245446	v
-p
-245449	s
-vc
-245452	v
-adv
-245457	v
-o
-v
-adv
-adv
-245464	adv
-v
-adv
-v
-o
-245470	v
-v
-245473	o
-adv
-245478	v
 v
 s
+245488	p
+vc
 v
-adv
+245492	s
 v
-v
-adv
-245488	adv
-245490	adv
-245492	adv
-adv
-245495	v
-o
-v
-adv
-v
-v
-adv
-v
-245504	o
-245506	v
-o
-adv
-v
-adv
-245513	v
-adv
-adv
-245517	s
-v
-o
-v
-245522	o
-v
-adv
-adv
-s
 io
 v
-adv
-245531	adv
-v
-adv
-245537	v
-v
+io
 s
-o
-245542	v
+p
+vc
+s
+245502	v
+aux
 v
-v
-o
+245506	s
 s
 adv
-245550	adv
-245554	v
 o
+245511	v
+s
+245514	v
+s
+245517	adv
+v
 adv
-245558	v
+245521	v
+adv
 v
 o
-245563	v
+v
+s
+245529	v
+v
+245532	p
+vc
+245536	o
+v
 adv
+245540	v
+v
+o
+245544	adv
+v
+adv
+245548	v
+o
+245552	v
+v
+s
+245560	v
+o
+v
+adv
+v
 245566	s
-245568	v
-adv
-245571	s
-245573	o
-v
-adv
-v
-adv
-245579	v
 o
 v
-adv
-adv
-adv
-245586	v
-v
-adv
-245590	v
-adv
-245596	apposition
-vc
-p
-245600	v
-adv
-p
-245604	vc
-s
-245608	v
-245610	v
-245612	adv
-v
-s
-245618	apposition
-adv
-p
-245622	adv
-v
-adv
-245626	v
-o
-245630	v
-o
-245636	v
-o
-v
-s
-245642	o
-245644	p
-vc
-s
-245648	adv
-v
-adv
-s
-245653	v
-adv
-245659	v
-o
-v
-s
-245666	adv
-v
-s
-adv
-adv
-v
-s
-o
-o
-v
-adv
-v
-245679	v
-o
-245682	s
-245684	o
-adv
-v
-245688	adv
-v
-adv
-adv
-v
-adv
-245698	adv
-v
-245701	s
-v
-v
-s
-245707	v
-adv
-245712	v
-v
-adv
-v
-245717	s
-245721	adv
-v
-io
-adv
-v
-apposition
-245728	apposition
-apposition
-245731	v
-245733	s
-adv
-adv
-v
-o
-s
-245740	v
-v
-s
-adv
-adv
-s
-245747	v
-245750	v
-o
-v
-adv
-o
-o
-v
-s
-adv
-245760	adv
-245763	s
-245765	v
-v
-o
-v
-245770	io
-o
-245773	v
+aux
 aux
 s
-245777	vc
-p
-245780	v
-245782	s
-p
-245785	vc
+adv
+245574	v
+adv
+adv
+245579	s
+245582	v
 v
-245788	adv
-245790	o2
+adv
 v
-245793	o
-245798	v
 o
+245588	adv
+s
+adv
+v
+v
+o
+v
+s
+aux
+v
+s
+v
+v
+o
+adv
+245605	v
+v
+s
+v
+245610	v
+v
+o
+245615	v
+v
+245618	s
+adv
+v
+aux
+245623	vc
+p
+v
+245628	o
+245631	adv
+v
+adv
+v
+245636	s
+245638	s
+245640	vc
+p
+s
+245644	p
+v
+adv
+245648	aux
+aux
+s
+p
+vc
+p
+adv
+245658	v
+o
+245661	s
+v
+v
+s
+245669	v
+s
+245672	s
+245674	v
+adv
+v
+s
+245680	s
+245682	v
+o
+v
+245686	s
+245688	v
+s
+245695	v
+v
+o
+o
+v
+adv
+245706	s
+v
+io
+245710	s
+s
+245713	v
+v
+s
+245717	v
+s
+adv
+v
+o
+s
+v
+v
+o
+adv
+245728	v
+245730	adv
+245732	adv
+245735	v
+v
+adv
+s
+v
+v
+245743	v
+o
+245746	adv
+adv
+s
+v
+adv
+245752	v
+v
+245755	s
+v
+o
+s
+v
+o
+v
+v
+245765	adv
+adv
+v
+o
+vc
+245771	p
+o
+245774	v
+s
+v
+adv
+245781	v
 adv
 v
 s
 o
-245805	adv
 v
-p
-245809	vc
+adv
 adv
 v
-245813	v
 o
-245816	v
+adv
+245793	s
+v
+io
+adv
+245799	v
 o
+adv
+245803	v
+v
+adv
+o
+245808	s
+245810	adv
+v
+s
+p
+vc
+v
+o
+v
+245819	s
+245823	o
+adv
+v
+245827	v
+adv
+245830	v
 io
 v
-vc
-p
-s
-245824	o
-v
-adv
-245828	o
-v
-v
-adv
-245833	v
-adv
-245836	v
+245834	s
 o
-245839	v
-s
-245842	o
-v
-adv
-p
-vc
-245848	v
-s
-v
+245837	v
 o
+245840	v
+adv
+245843	v
+245845	v
+o
+io
+s
+245850	v
+o
+v
 adv
 245856	v
 s
+245859	v
+o
+v
+o
+245864	v
+adv
+v
+o
+v
+io
+adv
+v
+245873	o
+245875	s
+245877	v
+adv
+v
+p
+vc
+o
 v
 v
+io
 v
+245889	s
+v
+v
+o
+245894	adv
+o
+v
+adv
+245900	v
+o
+adv
+v
+adv
 s
-o
-245868	adv
-s
-v
-o
-adv
-245874	v
-adv
-v
+245907	adv
 v
 adv
-245880	v
-o
-245886	adv
-v
-adv
-245891	s
-245895	v
-s
-245898	v
-s
-245903	v
-o
-adv
-245907	v
-o
 245911	v
+245913	o
+245918	s
+v
+s
+v
+245924	adv
 adv
-o
 v
 o
-245917	aux
-aux
-v
-245921	s
+245929	adv
 vc
 p
-245925	adv
-245933	o
-adv
 v
-245937	adv
-245939	o
-v
-adv
-245944	v
 o
+245936	s
+245939	v
+o
+v
+io
+v
+245945	o
+v
+adv
 245949	v
-245951	s
-apposition
+o
+245953	v
+o
+v
+o
+245959	v
 adv
-245955	p
+245965	adv
+245969	o
+245971	v
+245973	v
 o
-v
-245959	adv
-245961	v
-s
-245964	v
-245966	s
-245970	v
-s
-245974	v
-o
-v
-o
-adv
-245981	adv
-v
-s
-245985	v
-245987	o
-v
-v
-s
-adv
-245994	s
-v
-s
-adv
-v
-o
-246001	v
-adv
-s
-246005	v
-o
-246010	v
-v
-o
-adv
-v
-s
-v
-o
-246019	v
 v
 adv
-246023	v
+245978	apposition
+v
 o
-p
+v
+o
+245984	s
+io
+245988	v
+o
+245991	adv
+v
+adv
+245996	v
+v
+adv
+v
+adv
+246002	v
+v
+246005	p
 vc
-246028	o
 v
-s
-246032	o
-v
-adv
-246036	adv
-v
-246039	s
-v
+246009	v
 o
 adv
-246044	v
-v
-s
-adv
-246052	v
-adv
-246056	v
-v
-s
-adv
-246061	adv
-246065	v
-246067	s
-246070	v
 v
 o
 v
+adv
+246018	s
+v
+v
+adv
+246025	o
+246031	v
+v
+246034	io
+s
+adv
+246038	v
+adv
+v
+adv
+v
+io
+246045	v
+adv
+adv
+s
+246051	adv
+v
+io
+v
+o
+v
+adv
+adv
+246060	adv
+246062	v
+s
+v
+adv
+v
+adv
+246069	s
+adv
+v
+adv
 246075	v
-adv
-246078	s
-v
+o
 io
 v
-adv
-v
 o
-adv
-s
-246088	v
+246081	io
 adv
 v
-adv
-246093	s
-vc
+246086	v
 p
-246097	adv
-246100	v
-246102	v
-adv
-246105	o
-246109	v
-246111	s
+246089	vc
+246091	v
+246093	p
+v
 o
-246114	s
-p
-246118	vc
-apposition
-246121	p
-246124	v
-246126	o
+v
+246098	s
+246101	v
+v
+adv
+246107	v
+s
+adv
+246112	v
+s
+246115	adv
+246121	s
 v
 io
-v
 adv
-246133	v
-246135	s
+246126	v
+246128	s
+v
+v
 s
 v
-adv
-246140	v
-adv
-io
-s
-246145	v
-v
-adv
-246149	v
-246152	aux
-aux
-246155	v
-o
-246161	v
-246164	adv
-246166	v
-o
-adv
-v
-o
-246172	v
-s
-vc
-p
-adv
-v
-adv
-246181	v
-246183	adv
-246186	adv
-246189	v
-adv
-246194	p
-vc
-246198	s
-vc
-adv
-s
-o
-246204	v
-adv
-v
-246208	adv
-o
-246213	s
-246215	v
-io
-246218	s
-246220	adv
 o
 v
 adv
-246225	adv
-v
-v
-o
-p
-vc
+246137	s
 v
 adv
-246234	v
-v
-246237	adv
-adv
-v
-246241	v
-adv
-adv
-adv
-adv
-246247	v
-s
-adv
-246251	v
-246253	adv
-246256	v
-s
-v
-io
-o
-246262	aux
+246141	adv
+246144	adv
+246147	v
 aux
 adv
+246153	adv
+adv
 o
 v
+v
+v
 s
-246269	v
+o
+adv
+adv
+246164	v
+246166	s
+246168	p
+246170	v
+o
+io
+246175	apposition
+246183	s
+adv
+o
+v
+v
+o
+adv
+v
+adv
+v
+s
+v
+adv
+246197	v
+o2
+s
+v
+o
+v
+246204	s
+246206	v
+s
 p
 vc
-aux
 v
-246275	adv
-s
-vc
-p
-246280	apposition
-o
-s
-v
-246285	p
-vc
-o
-246289	v
-o
-246293	adv
-v
+246212	s
 v
 io
+s
 v
+adv
+246219	vc
+s
+p
+adv
+246224	v
+adv
+o
+246228	v
+v
+s
+v
+246233	adv
+p
+vc
+adv
+s
+adv
+adv
+v
+v
+adv
+246245	adv
+246249	v
+o
+s
+adv
+v
+246255	o
+v
+246264	v
+v
+io
+adv
+o2
+adv
+v
+o
+v
+246274	o
+io
+adv
+246278	o
+v
+o2
+adv
+v
+o
+246285	v
+o
+246292	adv
+246294	v
+246296	v
 246299	o
-v
-aux
 s
-246304	v
+246302	v
+s
+v
+v
+246308	adv
+s
+v
+o
+v
 adv
+246318	adv
+adv
+246322	o
+v
+adv
+246327	v
+246329	o
+adv
+v
+s
+v
+adv
+246336	adv
+246340	aux
+246345	s
+v
+adv
+v
+246351	o
+v
+adv
+246355	s
+v
 o
 v
 v
+s
+adv
+246364	adv
+246366	apposition
+o
+v
+adv
+v
+adv
+246373	s
+v
 adv
 adv
+v
+246379	o
+s
+adv
+v
+o
+246386	v
+246388	s
+apposition
+v
+v
+o
+246394	v
 io
-v
-adv
-246315	o
-v
-io
-v
-246321	adv
-v
-adv
-246328	v
-adv
-v
-adv
-v
-adv
-s
-246337	apposition
-246342	v
-adv
-246347	v
-adv
-v
-adv
-246352	v
-v
-io
 o
-246357	aux
-aux
 v
 s
-adv
-246363	v
-adv
-s
-246367	v
-s
-246372	v
-o
-adv
+246400	v
+246402	o
+246404	s
 v
+246408	v
 o
-246379	v
-o
-246382	v
-o
-246388	vc
-p
 adv
-adv
-246393	o
-v
-246397	adv
-o
-v
-v
-v
-246403	v
-o
-246406	v
-o
-246409	v
-246411	adv
-adv
-v
-adv
-246416	v
+246413	v
 s
 adv
+246418	apposition
 246420	vc
-s
 p
-246424	v
+v
+o
+246425	v
+o
+adv
+246432	v
+246434	s
+adv
+246440	v
+p
+vc
 s
+v
+o
+adv
+v
+v
+o
+246451	v
+v
+o
+adv
+adv
+v
+246458	s
 v
 io
+adv
+246464	adv
+adv
 o
 v
-246431	v
-adv
-adv
-246435	adv
 v
-o
-246440	s
-v
-aux
+adv
 s
-v
-246446	s
-v
-246449	adv
-246451	v
-adv
-246456	v
-s
-246460	apposition
-246462	s
-v
-246465	v
-246467	v
-246469	v
-o
 246472	v
-o
-246475	v
-adv
-o
-v
-246480	s
-adv
-adv
 v
 o
+s
+apposition
 v
-246487	o
+246479	o
+v
+io
+s
+v
+o
+v
+s
+246488	v
+adv
 adv
 246492	v
-o
-246495	v
-o
-v
 adv
-246500	o
 adv
-246503	v
+246496	v
+246498	io
 s
-v
-246507	v
-246509	s
-246512	v
+246505	adv
+246508	v
 o
-246515	o
 v
+o
 adv
-246519	v
-s
 v
-s
+o
 adv
+o
+v
+v
+o
+adv
+246522	s
 246525	v
+o
+v
+s
+adv
+s
+246532	v
 adv
 v
 s
-246530	v
-adv
-246533	adv
-v
-io
 246539	v
-o
-adv
 v
-adv
+246542	s
+vc
+p
 246546	v
-s
 o
-246550	v
+v
+246550	adv
+adv
+246555	v
+adv
+adv
+v
+adv
+246561	v
+s
+v
+v
+246566	s
+v
+adv
+s
+246571	adv
+v
+o
+246575	v
+o
 adv
 v
 v
-246555	s
+s
 v
-adv
-v
-v
-o
-o
-v
+246583	adv
+246594	o
 v
 s
-246567	p
-vc
+246598	v
+io
+o
 v
-246571	s
 v
 io
 v
+v
+adv
+v
+adv
+adv
+v
+adv
+v
+246614	s
+v
+adv
+246619	adv
+s
+v
+v
+o
+adv
+v
+s
+adv
+v
+246633	v
+246635	o
+246637	v
+adv
+v
+v
+246643	p
+vc
+o2
+s
+v
+o
+s
+o
+v
 io
+v
+o
+v
+adv
 s
+v
+adv
+246661	v
+o
+v
+adv
+v
+s
+246668	v
+s
+246671	apposition
+246673	v
+adv
+v
+o
+246679	adv
+v
+adv
+s
+io
+v
+o
+246688	v
+s
+vc
 p
+v
+adv
+adv
 vc
 s
-246581	v
-aux
-v
-246585	s
-s
-adv
-o
-246590	v
-s
-246593	v
-s
-246596	adv
-v
-adv
-246600	v
-adv
-v
-o
-v
-s
-246608	v
-v
-246611	p
-vc
-246615	o
-v
-adv
-246619	v
-v
-o
-246623	adv
-v
-adv
-246627	v
-o
-246631	v
-v
-s
-246639	v
-o
-v
-adv
-v
-246645	s
-o
-v
-o
-246650	aux
-aux
-s
-adv
-246655	v
-adv
-adv
-246660	s
-246663	v
-v
-adv
-v
-o
-246669	adv
-s
-adv
-v
-o
-v
-o
-v
-s
-aux
-v
-s
-v
-v
-o
-adv
-246687	v
-v
-s
-v
-246692	v
-v
-o
-246697	v
-v
-246700	s
-o
-adv
-v
-aux
-246706	vc
 p
 v
-246711	o
-246714	adv
-v
-adv
-v
-246719	s
-246721	s
-246723	vc
-p
 s
-246727	p
-v
+246705	v
 adv
-246731	o
-246733	aux
-aux
-246737	s
-p
+o
+adv
+v
+246711	adv
 vc
 p
 adv
-246745	v
-246748	o
-246750	s
 v
+o
+246720	v
+adv
+v
+o
+o
+246726	v
+adv
+246729	v
+246731	adv
+o
+v
+adv
+v
+adv
+246738	v
 v
 s
-246758	v
+adv
+v
 s
-246761	s
+o
+246746	v
+o
+s
+v
+apposition
+246752	o
+246754	adv
+246757	v
+adv
+246760	adv
 246763	v
-adv
+s
 v
 s
-246769	s
-246771	v
+v
+v
+246770	s
+o
+246774	v
+v
 o
 v
-246775	s
-246777	v
+adv
+246780	v
+adv
 s
 246784	v
 v
-o
-o
-v
+s
 adv
-246795	s
+246791	v
 v
-io
-246799	s
 s
-246802	v
 adv
-v
-s
-246807	v
-s
 adv
 v
 o
-s
-v
-v
-o
-adv
-246818	v
-246820	adv
-246822	adv
-246825	v
-v
 adv
 s
-v
+246801	adv
+246803	v
+s
 o
 v
-246835	v
-o
-246838	adv
 adv
+v
+v
+o
+246812	adv
+246814	v
+s
+246819	adv
+246822	v
+adv
+246825	adv
+246832	apposition
+246834	v
+s
+v
+s
+246839	v
+s
+aux
+246847	v
+adv
+v
+adv
+s
+246855	v
+o
+adv
+246860	v
+adv
+v
 s
 v
 adv
-246844	v
-246846	v
-246848	s
-v
-o
 s
-v
-o
-v
-v
-246858	adv
-adv
-v
-o
-vc
-246864	p
-s
-o
 246868	v
-s
+o
+246871	s
 v
-adv
+s
 246875	v
-adv
-v
-s
 o
 v
-adv
-adv
 v
-o
 adv
-246887	s
+o
 v
 io
 adv
-246893	v
+v
+246886	v
 o
 adv
-246897	v
+246893	aux
+246895	s
 v
-adv
+v
 o
-246902	s
-246904	adv
 v
-s
 p
+246902	adv
 vc
 v
 o
-v
-246913	s
-246917	o
 adv
-v
-246921	v
-adv
-246924	v
-io
-v
-246928	s
 o
-246931	v
-o
-o
-246935	v
-adv
-246938	v
-246940	v
-o
-io
+246911	v
 s
-246945	v
-o
-v
-adv
-246951	v
-s
-246954	v
-o
-v
-o
-246959	v
-adv
-v
-o
+246914	adv
+246916	v
 v
 io
 adv
 v
-246968	o
-246970	s
-246972	v
+adv
+s
+v
+o
+v
+adv
+246928	o
+v
+adv
+aux
+v
+o
+o2
 adv
 v
+adv
+v
+adv
 p
 vc
-o
-v
-v
-io
-v
-246984	s
-v
-v
-o
-246989	adv
-o
-v
+s
+246950	v
 adv
+v
+o
+o
+246961	adv
+vc
+p
+246969	v
+s
+v
+o
+adv
+246975	v
+v
+246978	adv
+246984	v
+adv
+246987	adv
+adv
+246992	adv
 246995	v
-o
 adv
+246998	v
 v
 adv
 s
-247002	adv
-v
+247003	adv
 adv
 247006	v
-247008	o
-s
-247014	s
+v
+v
+adv
+247011	v
+adv
+aux
+adv
+p
+vc
+adv
+247019	s
+o
 v
 s
+247025	v
+adv
+adv
+247031	apposition
 v
-247020	adv
+o
+v
+o
 adv
 v
-o
-247025	adv
-vc
-p
-v
-o
-247032	s
-247035	v
-o
-v
-io
-v
+adv
 247041	o
-v
+247044	s
 adv
-247046	v
-o
-247050	v
-o
 v
 o
-247056	v
-adv
+247051	v
+247053	v
+247055	s
+v
+o
+247059	adv
 247062	adv
-247066	o
-247068	v
-247070	v
-o
-v
-adv
-247075	apposition
 v
 o
 v
+v
+adv
+247069	v
+adv
+v
+adv
+247077	err_clause-complex-met-no-conditionsClCl2
+adv
+v
+adv
+247082	adv
+247086	apposition
+247088	adv
+adv
+247091	v
+aux
+adv
+adv
+247098	v
 o
-247082	s
-io
-247086	v
-o
-247089	adv
-v
-adv
-247094	v
-v
-adv
-v
-adv
-247100	v
-v
-247103	p
-vc
-v
-247107	v
-o
-247110	adv
-v
-o
-v
-adv
-247117	s
-v
-v
-adv
-247124	o
-247130	v
-v
-247133	io
 s
-adv
-247137	v
-adv
+247102	adv
 v
-adv
-v
-io
-247144	v
-adv
-adv
 s
-247150	adv
-v
-io
-v
-o
-v
+247106	v
 adv
-adv
-247159	adv
-247161	v
+247109	v
 s
 v
 adv
-v
 adv
-247168	s
+247115	aux
+aux
 adv
-v
-adv
-247174	v
 o
-io
 v
-o
-247180	io
-247182	adv
-v
-247186	v
 p
-247189	vc
-247191	v
-247193	p
-o
-v
-o
-v
-247199	s
-247202	v
-v
 adv
-247208	v
-s
 adv
-247213	v
-s
-247216	adv
-247222	s
 v
+s
+247126	v
+p
+vc
+aux
+s
+247132	v
+s
+vc
+o
+s
+v
+247139	v
+247141	v
+adv
+247145	adv
+247147	v
 io
+v
+o
+o2
+247154	adv
+247156	v
+o
 adv
-247227	v
-247229	s
+247160	v
+io
 v
-v
+o
+adv
+247170	adv
 s
 v
 o
 v
-adv
-247238	s
+o
 v
 adv
-247242	adv
+247188	v
+s
+o
+247195	v
+adv
+apposition
+247200	aux
+vc
+p
+adv
+247206	io
+247220	v
+o
+v
+247224	v
+adv
+247227	o
+247230	v
+adv
+o
+s
+v
+adv
+247237	v
+v
+o
+247241	v
 247245	adv
 247248	v
+v
+io
+247253	o
+adv
+v
+s
+s
+247260	v
+v
+v
+247264	p
+s
+p
+adv
+247269	o
+v
+v
+io
+247277	o
+247279	s
+v
+s
+adv
+247284	v
+v
 aux
-adv
-247255	adv
-adv
-o
-v
-v
-v
 s
-o
-adv
-adv
-247266	v
-247268	s
-247270	p
-247272	v
-o
-io
-247277	apposition
-247285	s
-adv
-o
-v
-v
-o
-adv
-v
+247289	o
 adv
 v
 s
+247294	v
+v
+aux
+247298	o
+247301	v
+v
+247304	adv
+s
+adv
+adv
+v
+v
+v
+247312	o
+adv
+adv
 v
 adv
-247299	v
-o2
+adv
+247319	v
+adv
 s
 v
+aux
 o
 v
-247306	s
-247308	v
-s
-p
-vc
-247313	v
-247315	s
-v
-io
-s
-v
-adv
-247322	vc
-s
-p
-adv
 247327	v
-adv
+s
+247330	adv
+247332	adv
 o
-247331	v
+v
+o
 v
 s
-v
-247336	adv
+247339	v
+io
+adv
+247346	s
+247351	v
+o
+adv
+vc
 p
+s
 vc
 adv
+247361	v
 s
+247372	v
 adv
+247375	v
+v
 adv
 v
-v
-adv
-247348	adv
-247352	v
-o
+247380	o
+247384	v
 s
-adv
+247387	s
+247389	io
 v
-247358	o
 v
-247367	v
 v
-io
-adv
-o2
-adv
-v
-o
-v
-247377	o
-io
-adv
-247382	o
-v
-o2
-adv
-v
-o
-247389	v
-o
+s
 247396	adv
-247398	v
-o
-247402	v
-247405	o
-s
-247408	v
-s
-v
-v
-247414	adv
-s
 v
 o
-v
-adv
-247424	adv
-adv
-247428	o
-v
-adv
-247433	v
-247435	o
-adv
-v
-s
-v
-adv
-247442	adv
-247446	aux
-247451	s
-v
-adv
-v
-247457	o
-v
-adv
-247461	s
-v
-o
-o
-v
+247401	v
 v
 s
 adv
-247471	adv
-247473	apposition
-247475	o
-v
-adv
-v
-adv
-247481	s
-v
-adv
-adv
-v
-247487	o
-s
-adv
-v
+247406	v
 o
-247494	v
-o
-247497	s
-apposition
-v
-v
-o
-247503	v
-io
-o
-v
-s
-247509	v
-247511	o
-247513	s
-v
-247517	v
-o
-adv
-247522	v
-s
-adv
-247527	apposition
-247529	vc
+247413	io
+247415	adv
 p
+247418	v
+247420	adv
+247422	v
+v
+adv
+247429	v
+vc
+p
+s
+apposition
+adv
+247436	v
+adv
+adv
+247440	s
+o
+v
+v
+adv
+247446	v
+o
+v
+adv
+v
+v
+adv
+adv
+s
+vc
+p
+adv
+247460	apposition
+247465	v
+v
+adv
+247470	adv
+v
+s
+o
+247475	v
+adv
+247478	v
+o
+adv
+adv
+247484	v
+247486	adv
+v
+adv
+247490	adv
 v
 o
-247534	v
-o
+s
+v
 adv
-247541	v
-247543	s
 adv
-247549	v
+adv
+247499	v
+adv
+v
+adv
+247505	vc
+p
 p
 vc
 s
-v
-o
+s
+247512	v
+247514	vc
 adv
-v
-v
-o
-247560	v
-v
-o
+p
+s
 adv
-adv
+s
+247521	adv
 v
-247567	s
+v
+s
 v
 io
+aux
+v
+247530	p
+247545	v
+vc
+s
+s
+247550	io
+247554	adv
+v
+247557	adv
+v
+p
+247561	s
+vc
 adv
-247573	adv
-adv
+s
+v
 o
 v
+adv
+v
 v
 adv
-247580	s
+247573	v
+apposition
+247577	v
+adv
 247582	v
+247584	s
 v
 o
+v
+v
+adv
+v
+adv
+adv
+247595	v
+adv
 s
+247599	vc
+p
 apposition
 v
-247589	o
-v
-io
-s
-v
-o
-v
-s
-247598	v
-adv
-adv
-247602	v
-adv
-adv
-247606	v
-247608	io
-s
-247615	adv
-247618	v
-o
-v
-o
-adv
-v
-o
-adv
-o
+247604	s
+247606	adv
 v
 v
 o
-adv
-247632	s
-247635	v
-o
 v
-s
-adv
-s
-247642	v
-adv
 v
-s
-247649	v
-v
-247652	s
+adv
+247615	v
 vc
 p
-247656	v
+v
+adv
+p
+vc
+adv
 o
 v
-247660	adv
-adv
-247665	v
-adv
-adv
+o
 v
-adv
-247671	v
-s
-v
-247676	v
-247678	s
-v
-adv
-s
-247683	adv
 v
 o
-247687	v
+v
+247632	adv
+247634	v
+v
 o
 adv
 v
+adv
+247641	v
+s
+adv
+o
+v
+247647	adv
+adv
+o
+247652	v
+apposition
+s
+247658	v
+adv
+247661	s
+247664	v
+adv
+v
+s
+247669	v
+s
+s
+247673	v
+adv
+v
+s
+adv
+247679	v
+v
+247682	aux
+v
+o
+adv
+v
+adv
+247689	v
+247691	o
+247697	adv
 v
 s
 v
-247695	adv
-247706	o
-v
 s
-247710	v
+247703	p
+vc
+adv
+adv
+247708	v
+247710	adv
+adv
+247713	s
+247715	p
+vc
+o
+adv
+v
+v
+adv
+v
+aux
+adv
+s
+v
+v
+247729	aux
+v
 io
+s
 o
 v
+adv
+247737	v
+aux
+v
+247741	o
+247743	p
+vc
+adv
+adv
 v
 io
-v
-v
 adv
-v
-adv
-adv
-v
-adv
-v
-247726	s
-o
-v
-adv
-247732	adv
-s
-v
-v
-247737	o
-adv
-v
-s
-adv
-v
-247748	v
-247750	o
 247752	v
+s
+v
+247757	s
+v
+v
+s
+adv
+247763	adv
+247766	v
+s
+v
+s
+adv
+247772	v
+v
+o
+adv
+adv
+247778	v
+247780	adv
+v
+v
+o
+v
+247787	adv
+adv
+247790	v
 adv
 v
-v
-247759	p
-vc
-o2
-s
-v
-o
-s
 o
 v
+s
+v
+s
+247799	v
+v
+adv
+247804	v
+o
+adv
+247808	adv
+247810	adv
+o
+v
+v
+v
+s
 io
-v
-o
-v
-adv
+247821	adv
 s
 v
 adv
-247777	v
-o
-o
+247826	s
 v
 adv
 v
-247784	s
-247786	v
+adv
+v
 s
-247789	apposition
-247791	v
+o
+247837	v
+s
+v
+adv
+247842	adv
+s
+v
+v
+v
+s
+s
+v
+o
+v
+o
+adv
+v
 adv
 v
 o
-247798	adv
+v
+247860	v
+s
+v
+o
+s
+247866	p
+247869	vc
+s
+247873	adv
+247875	v
+adv
+v
+247879	o
+247881	v
+o
+v
+o
+adv
+247887	v
+v
+v
+p
+247892	vc
+s
+s
+v
+o
+vc
+247899	s
+247904	p
+v
+247907	o
+v
+o
+v
+o
+adv
+247916	s
+v
+o
+adv
+v
+o
+247924	v
+v
+o
+adv
+v
+v
+v
+o
+247933	o
+v
+v
+adv
+247938	adv
+v
+o
+247944	v
+o
+v
+v
+adv
+247950	v
+247952	adv
+247954	v
+o
+247958	s
+247960	v
 v
 adv
 s
-io
+247965	v
+adv
+247968	s
+247971	vc
+247973	o
+v
+247976	s
+v
+v
+s
+247981	v
 v
 o
-247807	v
+v
+o
+adv
+v
+247989	o
+v
+v
+v
+adv
+adv
+247996	v
+247998	s
+s
+248001	adv
+s
+248004	adv
+248010	adv
+v
+s
+v
+adv
+248017	v
+adv
+v
+248021	p
 s
 vc
-p
-v
-adv
-adv
-vc
 s
-p
-v
-s
-247824	v
-adv
+248026	v
 o
-adv
-v
-247830	adv
-vc
-p
-adv
-v
-o
-247839	v
-adv
-v
-o
-o
-247845	v
-adv
-247848	v
-247850	adv
-o
-v
-adv
-v
-adv
-247857	v
-v
-s
-adv
-v
-s
-o
-247865	v
-247867	o
-s
-v
-apposition
-247872	o
-247874	adv
-247877	v
-adv
-247880	adv
-247884	v
-s
-v
-s
-v
-v
-247891	s
-o
-247895	v
-v
-o
-v
-adv
-247901	v
-adv
-247904	s
-247906	v
-v
-s
-adv
-247913	v
-v
-s
-adv
-adv
-v
-o
-adv
-247922	s
-247924	adv
-247926	v
-s
-o
-v
-adv
-v
-v
-o
-247936	adv
-247938	v
-s
-247943	adv
-247946	v
-adv
-247949	adv
-247956	apposition
-247958	v
-s
-v
-s
-247963	v
-s
-aux
-247971	v
-adv
-v
-o
-adv
-s
-247980	v
-o
-adv
-247985	v
-adv
-v
-s
-v
-adv
-s
-247993	v
-o
-247996	s
-v
-s
-248000	v
-o
-v
-v
-adv
-o
-v
-io
-adv
-v
-248012	v
-o
-adv
-248019	aux
-248022	s
-v
-v
-o
-v
-p
 248029	adv
-vc
-v
-o
-adv
-o
-248038	v
-s
-248041	adv
-248043	v
 v
 io
-adv
 v
+248034	o
+v
+o
 adv
+248041	v
+248045	apposition
+v
+248048	s
+o
+248052	v
+adv
+248055	s
+adv
+248058	v
+v
+o
+248064	v
 s
 v
-o
-v
-o
+s
 adv
-248056	o
-v
-adv
-aux
-v
-o
-o2
-adv
-v
-adv
+248071	adv
 v
 adv
 p
 vc
-s
-248078	v
+248078	s
+v
+adv
+248082	s
+v
 adv
 v
+s
+248089	v
 o
+adv
+248093	v
 o
-248089	adv
-vc
-p
+s
 248097	v
+o
 s
 v
-o
-adv
-248103	v
 v
-248106	adv
-248112	v
+248103	v
 adv
-248115	adv
 adv
-248120	adv
-248123	v
+adv
+248108	s
+v
+248111	v
+s
+adv
+v
+v
+v
+s
+vc
+p
 adv
 248126	v
-v
-adv
 s
-248131	adv
-adv
-248134	v
-v
-v
-adv
-248139	v
-adv
-aux
-adv
+248132	adv
 p
-vc
-adv
-248147	s
-o
-v
 s
+v
+o
+adv
+adv
+v
+v
+248142	s
+248145	adv
+248147	v
+v
+adv
+s
+v
 248153	v
-adv
-adv
-248159	apposition
 v
 o
-v
-o
-adv
-v
-adv
-248169	o
-248172	s
-adv
-v
-o
-248179	v
-248182	v
-248184	s
-v
-o
-248188	adv
-248191	adv
-v
-o
-v
-v
-adv
-248198	v
-adv
-v
-adv
-248206	err_clause-complex-met-no-conditionsClCl2
-adv
-v
-adv
-248211	adv
-248215	apposition
-248217	adv
-adv
-248220	v
-aux
-adv
-adv
-248227	v
-o
-s
-248231	adv
-v
-248234	s
-248236	v
-adv
-248239	v
-s
-v
-adv
-adv
-248245	o
-248247	aux
-aux
-248250	adv
-o
-v
-p
-adv
-adv
-v
-s
-248259	v
-p
-vc
-aux
-s
-248265	v
-s
-vc
-p
-o
-s
-v
-248273	v
-248275	v
-adv
-248279	adv
-248281	v
 io
 v
 o
+s
+248161	v
+s
+248165	adv
+248167	v
+o
+v
+248171	v
+s
+adv
+adv
+v
+o
+248178	v
+v
+o
+248183	adv
+248186	v
+adv
+248191	v
+adv
+248194	p
+s
+248197	v
+adv
+v
+adv
+adv
+v
+v
+adv
+248206	adv
+248208	v
+s
+adv
+v
+adv
+adv
+v
+o
+v
+adv
+v
+adv
+248221	adv
+adv
+248224	v
+adv
+s
+v
+o
+248230	v
+adv
+248233	adv
+248238	o
+v
+s
+v
+o
+v
+o
+248247	v
+adv
+v
+io
+v
+adv
+adv
+248256	v
+o
+v
+248260	adv
+248262	v
+s
+vc
+p
+248267	v
+248269	s
+v
+adv
+s
+aux
+aux
+o
+v
+io
+248283	adv
+adv
+v
+adv
+248290	s
+v
+o
+v
+v
+adv
+s
+248298	vc
+p
+v
+248302	s
+v
+v
+o
+248307	o
+248309	v
 o2
-248288	adv
-248290	v
-o
-adv
-248294	v
-io
-v
-o
-adv
-248304	adv
-s
-v
-o
-v
-o
 v
 adv
-248322	v
-s
+248316	v
 o
+adv
+v
+248321	v
+adv
+248327	o
 248329	v
+s
+248332	adv
+v
+o
+s
+248337	o
+248339	v
 adv
-apposition
-248334	aux
+248343	v
+s
+248346	v
+248348	o
+248351	v
+248353	adv
+v
+o
+v
+adv
+248361	p
+adv
 vc
-p
-adv
-248340	io
-248354	v
+248365	adv
+v
+v
+248369	io
 o
 v
-248358	v
 adv
-248361	o
-248364	v
 adv
-o
-s
-v
-adv
-248371	v
-v
-o
-248375	v
-248379	adv
-248382	v
-v
+248375	s
 io
-248387	o
+v
 adv
 v
-s
-s
-248394	v
-v
-v
-248398	o2
-p
-s
-248402	p
-adv
-248405	o
-v
-v
-io
-248413	o
-248415	s
-v
-s
-adv
-248420	v
 o
+248383	v
+248385	o
+adv
+248388	adv
+248395	adv
+248399	s
+248401	v
 v
-aux
 s
-248426	o
+248405	v
+p
+248408	vc
 adv
+v
 v
 s
-248431	o
-v
-v
-aux
-248436	o
-248439	v
-v
-248442	adv
+o
+adv
 s
-248445	adv
+248418	v
 adv
-v
-v
-v
-248451	o
+248421	apposition
 adv
-adv
+248425	v
 v
 adv
+248431	v
+248433	adv
+v
+248436	adv
+v
+248440	v
+v
+248443	adv
+v
+v
+248447	s
+248452	adv
 adv
+v
+248456	o
 248458	v
+248460	adv
 adv
-s
 v
-aux
-o
-v
-248466	v
-248468	s
-248470	adv
-248472	adv
-o
-v
-o
-v
-s
-248479	v
-io
 adv
+248465	adv
+v
+248468	adv
+v
+248471	v
+248473	v
+o
+p
+248477	vc
+adv
+248480	io
+v
+s
 248486	s
-248491	v
+adv
+v
+v
+248491	adv
+adv
+248495	v
 o
-adv
-vc
-p
-p
-s
-vc
-adv
-248502	v
-s
-248513	v
-adv
-248516	v
 v
 adv
-v
-248521	o
-248525	v
-s
-248528	s
-248530	io
-v
-o2
-v
-v
-s
-248538	adv
+adv
 v
 o
-248544	v
-v
-s
-adv
-248549	v
+248505	v
 o
-248556	io
-248558	adv
-p
-248562	v
-248564	adv
-248566	v
+248510	apposition
+adv
+248513	adv
+s
+248517	apposition
+248519	apposition
 v
 adv
-248573	v
-vc
+248523	o
+v
+adv
+248528	adv
+248530	adv
+248536	vc
 p
+248539	adv
+v
+o
+adv
+adv
+248545	adv
+248547	apposition
+248549	apposition
+248551	adv
+v
+o
+248555	adv
+248557	adv
+248560	adv
+248563	adv
+vc
 s
+p
+248568	io
+248570	vc
+p
 apposition
-adv
-248580	v
-adv
-adv
-248584	s
-o
-v
-v
-adv
-248590	v
-o
-v
-adv
-v
-v
-adv
-adv
+248574	apposition
 s
-vc
-p
+io
+248578	adv
+248581	apposition
+248584	apposition
 adv
-248604	apposition
-248609	v
-v
+248587	v
+o
+248590	adv
+248592	adv
+248595	s
+248597	v
 adv
-248614	adv
-v
+248601	p
+248603	vc
 s
 o
-248619	v
+v
+adv
+248610	adv
+248615	adv
+o
+v
+adv
 adv
 248622	v
+248624	adv
+adv
+v
+adv
+248631	v
+adv
+v
+248635	v
 o
-adv
-248626	adv
-248629	v
-248631	adv
+248638	o
 v
+248641	io
 adv
-248636	adv
-v
-o
-s
-v
-adv
-adv
-adv
-248645	v
-adv
-v
-adv
-248652	vc
-p
-p
-vc
-s
-248658	s
-248660	v
-248662	vc
-adv
-p
-s
-adv
-s
-248669	adv
-v
 v
 s
+s
+248647	vc
 v
-io
+adv
+adv
+248657	adv
+v
+248660	s
+v
 aux
+248664	adv
 v
-248678	p
-248693	v
+v
+adv
+248669	v
+adv
+248673	o
+v
+adv
+248678	adv
+248682	adv
+248687	p
 vc
-s
-s
-248698	io
-248702	adv
-v
-248705	adv
-v
-248708	p
-248710	s
-vc
 adv
 s
-v
+248693	io
+248695	apposition
+248697	v
+adv
+248700	v
 o
-v
-adv
-v
-v
-adv
-248722	v
-apposition
-248726	v
-adv
-248732	v
-248734	s
-v
-o
-v
-v
-adv
-v
-adv
-adv
-248745	v
-adv
-s
-248749	vc
 p
+248704	vc
+adv
+adv
+248708	v
 apposition
+248713	s
+248715	adv
 v
-248754	s
+adv
+248721	v
+s
+248724	adv
+v
+v
+248728	s
+adv
+adv
+248736	o
+adv
+v
+248740	s
+248743	p
+vc
+adv
+s
+248748	io
+v
+s
+248754	adv
 248756	adv
 v
 v
-o
-v
-v
-adv
-248765	v
-vc
-p
-v
-adv
-p
-vc
-adv
-o
-v
-o
-v
-v
-o
-adv
-v
-248783	adv
-248785	v
-v
-o
-adv
-v
-248791	adv
-248793	v
-s
-adv
-o
-v
-248799	adv
-adv
-o
-248804	v
 apposition
-s
-248810	v
-adv
-248813	s
-248816	v
-adv
-v
-s
-248821	v
-s
-248824	s
-248826	v
-adv
-v
-s
-adv
-248832	v
-v
-248835	aux
-v
-o
-adv
-v
-adv
-248842	v
-248844	o
-248850	adv
-v
-s
-v
-s
-248856	p
+248764	adv
 vc
+s
+p
+248771	v
+o
 adv
 adv
-248861	v
-248863	adv
+248776	v
+248779	v
 adv
-248866	s
-248870	p
+248784	v
+s
+248788	v
 vc
+p
+v
+248793	v
 o
-adv
-v
-v
+248798	adv
+248806	v
 o
+s
 adv
+248814	adv
 v
-aux
-adv
+s
+248818	adv
 s
 v
+o
+248824	adv
+248827	v
+248829	o
+adv
 v
-248885	aux
-v
-io
 s
+vc
+p
+adv
+248837	aux
+adv
+v
+o
+s
+adv
+248844	s
+248848	v
+o
+248851	adv
+248854	adv
+248856	s
+248858	v
+o
+248863	v
+adv
+248867	adv
+adv
+s
+adv
 o
 v
+248874	o
+248876	s
+v
+248880	adv
+v
+248884	adv
+v
+o
+v
+adv
+v
+o
+s
 adv
 248894	v
-aux
+adv
 v
-248898	o
+v
+adv
 248900	p
-vc
 adv
-adv
-v
-io
-adv
+p
+248905	s
+o
 248909	v
-s
-v
-248915	s
-v
-248918	v
-s
-adv
-248922	adv
-248925	v
-s
-v
-s
-adv
-248931	v
-v
 o
-adv
-adv
-248937	v
-248939	adv
-v
-v
-o
-adv
-v
-248947	adv
-adv
-248950	v
-adv
-v
-o
-v
-s
-v
-248958	s
-248960	v
-v
-adv
-248965	v
-o
-adv
-248969	adv
-248971	adv
-o
-v
-v
-v
-s
-io
-248981	o
-248983	adv
-s
-v
-adv
-248988	s
-v
-adv
-v
-adv
-v
-s
-o
-248999	v
-s
-v
-adv
-249004	adv
-s
-v
-v
-v
-s
-s
-v
-o
-v
-o
-adv
-v
-adv
-v
-o
-v
-249023	v
-s
-v
-o
-s
-249029	p
-249032	vc
-s
-249036	adv
-249038	v
-adv
-v
-249042	o
-249044	v
-o
-v
-o
-adv
-249050	v
-v
 v
 p
-249055	vc
-s
-s
-v
-o
+adv
 vc
-249062	s
-249067	p
-v
-249070	o
-v
+adv
+adv
 o
 v
-o
-adv
-249080	s
-v
-o
-adv
-v
-o
-249088	v
-v
-o
-adv
+248920	adv
 v
 v
-v
-o
-249097	o
-v
-v
-adv
-249102	adv
-v
-o
-249108	v
-o
-v
-v
-adv
-249114	v
-249116	adv
-249118	v
-o
-249122	s
-249124	v
-v
-adv
-s
-249129	v
-adv
-249132	s
-249135	vc
-249137	o
-v
-249140	s
-v
-v
-s
-249145	v
-v
-o
-v
-o
-adv
-v
-249153	o
-v
-v
-v
-adv
-adv
-249160	v
-249162	s
-s
-249165	adv
-s
-249168	adv
-249174	adv
-v
-s
-v
-adv
-249181	v
-adv
-v
-249185	p
-s
+248924	p
 vc
-249189	s
-249191	v
+aux
+248928	apposition
+v
+adv
+adv
+248933	v
 o
-249194	adv
+o
+v
+o
+248939	v
+v
+v
+248944	s
+248947	vc
+p
+adv
+o
+v
+v
+248954	o
+aux
+aux
+v
+o
+v
+248961	v
+o
+s
+v
+o
+248969	o
+248978	v
+v
+248981	s
+248984	adv
+o
+v
+adv
+248994	v
+io
+o
+adv
+249004	s
 v
 io
+adv
+249011	adv
+249014	o
+249017	v
+o
+249020	adv
+249023	v
+o
 v
+249027	o
+s
+249030	s
+249032	adv
+249037	v
+o
+apposition
+249043	s
+249047	io
+249049	v
+o
+apposition
+249055	adv
+249057	vc
+s
+p
+249061	s
+249063	adv
+v
+adv
+adv
+v
+249069	s
+adv
+v
+adv
+v
+249076	s
+249078	p
+adv
+249082	s
+249084	v
+249087	s
+adv
+o
+v
+adv
+o
+249094	v
+s
+o
+adv
+v
+adv
+vc
+p
+s
+v
+o
+249107	o2
+249111	adv
+v
+s
+249117	adv
+s
+v
+249121	adv
+v
+adv
+v
+s
+o
+249129	adv
+249132	adv
+249137	s
+p
+vc
+249141	v
+adv
+249144	v
+adv
+249147	v
+o
+249150	v
+v
+v
+adv
+249155	v
+249157	s
+p
+249160	vc
+249166	v
+o
+249173	adv
+249176	v
+o
+o
+adv
+v
+v
+adv
+v
+v
+v
+adv
+v
+v
+v
+o
+v
+s
+adv
+v
+adv
 249199	o
 v
-o
-adv
-249206	v
-249210	apposition
-v
-249213	s
-o
-249217	v
-adv
-249220	s
-adv
-249223	v
-v
-o
-249230	v
 s
+249205	adv
 v
+adv
+249210	v
 s
-adv
-249237	adv
+249214	v
+249216	o
 v
-adv
-p
+249220	p
 vc
 s
-249245	s
-v
-adv
-249249	s
-v
-adv
-v
-s
-249256	v
-o
-adv
-249260	v
-o
-s
-249264	v
-o
-s
-v
-v
-249270	v
-adv
-adv
-249274	adv
-249276	s
-v
-249279	v
-s
-adv
-v
-v
-v
-s
+249224	p
 vc
+249228	s
+o
+249232	v
+s
+249235	adv
+v
+249238	v
+s
+249242	o
+v
+o
+apposition
+249254	s
+249257	p
+vc
+249260	s
+249265	p
+249267	s
+249270	p
+249272	s
 p
 adv
-249294	v
+249277	s
+249279	p
+249284	p
+249286	s
+249290	p
 s
+249294	p
 adv
-249301	adv
+249297	p
+249300	v
+o
+249304	adv
+249307	v
+s
+s
+249311	o
+249314	v
+adv
+v
+vc
+249319	s
 p
 s
-v
-o
+249323	p
+249325	v
+249328	v
 adv
+249333	v
 adv
 v
-v
-249311	s
-249314	adv
-249316	v
-v
-adv
 s
-v
-249322	v
-v
-o
-io
+249339	s
+249341	o
 v
 o
-s
-249330	v
-s
-249334	adv
-249336	v
-o
 v
-249340	v
+p
 s
-adv
+249348	v
+o
 adv
 v
-o
-249347	v
+adv
 v
-o
-249352	adv
-249355	v
-adv
-249360	v
-adv
-249363	p
+249355	adv
+v
 s
+o
+249361	s
+249364	adv
 249367	v
 adv
-v
-adv
-adv
-v
-v
-adv
-249378	adv
-249380	v
-s
-adv
-v
-adv
-adv
-v
-o
-v
-adv
-v
-adv
-249393	adv
-adv
-249396	v
+249371	adv
 adv
 s
-v
-o
-249402	v
 adv
-249405	adv
-249410	o
-v
+249376	v
+249379	v
+249382	v
+s
 s
 v
+249387	v
 o
-v
-o
-249419	v
-adv
-v
-io
-v
-adv
-adv
-249428	v
-o
-v
-249432	adv
-249434	v
+249390	v
 s
+s
+249394	p
 vc
+o
+249398	v
+adv
+adv
+v
+249403	s
+249406	p
+vc
+249409	v
+249411	adv
+v
+s
+adv
+s
+adv
+v
+v
+adv
+v
+v
+o
+s
+v
+adv
+v
+adv
+v
+v
+o
+adv
+v
+adv
 p
+v
+s
+249438	adv
 249440	v
-249442	s
-v
-adv
-o
 s
-249448	aux
-aux
-o
-v
-io
-249458	adv
-adv
-v
-adv
-249465	s
-v
-o
-v
-v
-adv
-s
-249473	vc
 p
-v
-249477	s
-v
-v
-o
-249482	o
-249484	v
-o2
-v
-adv
-249491	v
-o
-adv
-v
-249496	v
-adv
-249502	o
-249504	v
+249445	s
+249447	o
+249449	v
+p
 s
-249507	adv
-v
+249453	v
 o
 s
-249512	o
-249514	v
+249457	p
+249461	o
 adv
-249518	v
-s
-249521	v
-249523	o
-249526	v
-249528	adv
 v
-o
-v
-adv
-249536	p
 adv
 vc
-249540	adv
+s
+p
+249470	v
+249473	o
+s
 v
-v
-249544	io
-o
-v
-adv
-adv
-249550	s
 io
+249479	v
+249482	s
 v
-adv
-v
-o
-249558	v
-249560	o
-adv
-249563	adv
-249570	adv
-249574	s
-249576	v
+249485	p
+vc
+s
+249489	adv
+249491	adv
+249493	adv
 v
 s
-249580	v
+adv
+adv
+249499	p
+adv
+249502	adv
+s
+v
+v
+adv
+249511	s
+249517	adv
+249519	v
+adv
+249522	v
+s
+s
+249526	v
+249528	v
+o
+249532	v
+adv
+adv
+249536	adv
+249539	apposition
+249542	o
+v
+s
+o2
+adv
+249561	v
+249575	vc
+s
 p
-249583	vc
+249579	v
+o
+249583	p
+249585	s
+v
 adv
-v
-v
+249589	adv
+adv
+249592	adv
+249594	v
+249596	v
+adv
 s
-o
 adv
+249602	p
 s
-249593	v
 adv
-249596	apposition
-adv
-249600	v
-o
-v
-adv
-249607	v
-249609	adv
-v
-249612	adv
-v
-249616	v
-v
-249619	adv
-v
-249622	v
-249624	s
-249629	adv
-adv
-v
-249633	o
-249635	v
-249637	adv
-adv
-v
-adv
-249642	adv
-v
-249645	adv
-v
-249648	v
-249650	v
-o
 p
-249654	vc
-adv
-249658	io
-v
-s
-249664	s
-adv
-v
-v
-249669	adv
-adv
-249673	v
-o
-v
-adv
-adv
-v
-o
-249683	v
-o
-249688	apposition
-adv
-249691	adv
-s
-249695	apposition
-249697	apposition
-v
-adv
-249702	o
-v
-adv
-249707	adv
-249709	adv
-249716	vc
 p
-249719	adv
+249608	p
+249610	s
 v
 o
 adv
+249615	o
 adv
-249725	adv
-249727	apposition
-249729	apposition
-249731	adv
+249618	o
+249620	v
+adv
+249623	adv
+v
+249626	o
 v
 o
-249735	adv
-249737	adv
-249740	adv
+249630	v
+v
+s
+apposition
+249635	adv
+249638	s
+adv
+v
+v
+o
+249644	adv
+adv
+o
+249648	s
+v
+v
+249652	s
+o
+249655	v
+io
+adv
+249659	v
+s
+adv
+v
+249667	v
+v
+249670	adv
+v
+o
+v
+s
+249676	adv
+249678	s
+v
+o
+249683	io
+s
+v
+o
+adv
+p
+s
+s
+v
+249694	s
+v
+249697	p
+adv
+adv
+v
+s
+o
+s
+249706	p
+249713	v
+249715	v
+io
+s
+adv
+adv
+249721	v
+p
+249724	vc
+249728	p
+249730	p
+249732	o
+249734	v
+apposition
+249740	apposition
 249743	adv
 vc
 s
 p
-249748	io
-249750	vc
-p
-apposition
-249754	apposition
-s
+249748	v
+adv
+adv
+v
 io
-249758	adv
-249761	apposition
-249764	apposition
-adv
-249767	v
-o
-249770	adv
-249772	adv
-249775	s
-249777	v
-adv
-249781	p
-249783	vc
 s
-249786	o
-v
-adv
-249791	adv
-249796	adv
-o
-v
+249755	p
 adv
 adv
-249803	v
-249805	adv
-adv
-v
-adv
-249812	v
-adv
-249815	v
-249817	v
-o
-249820	o
-v
-249823	io
-adv
-v
-s
-s
-249829	vc
-v
-adv
-adv
-249839	adv
-v
-249842	s
-v
-aux
-249847	adv
-v
-v
-adv
-249852	v
-adv
-249856	o
-v
-adv
-249861	adv
-249865	adv
-249870	p
-vc
-adv
-s
-249876	io
-249878	apposition
-249880	v
-adv
-249883	v
-o
 p
-249887	vc
 adv
+249762	v
 adv
-249891	v
-apposition
-249896	s
-249898	adv
-v
-adv
-249904	v
+249774	adv
 s
-249907	adv
-v
-v
-249911	s
-adv
-adv
-249919	o
-adv
-v
-249923	s
-249926	p
+249777	io
+249782	p
+s
 vc
+249786	adv
+249790	s
+249792	p
+v
+s
+249796	v
+s
+s
+249800	o
+v
+adv
+249804	adv
+v
+s
 adv
 s
-249931	io
-v
+adv
+adv
+249812	adv
+adv
+vc
+p
 s
-249937	adv
-249939	adv
-v
+adv
+249820	apposition
+249830	s
+vc
+p
+249835	v
+249837	o2
+249839	v
+o
+adv
+o
 v
 apposition
-249947	adv
+v
+o
+249848	v
+adv
+v
+adv
+249853	v
+s
+adv
+adv
+v
+adv
 vc
 s
 p
-249954	v
+249863	adv
+v
+p
+vc
+s
+249871	adv
+v
+adv
+v
 o
+249877	v
+p
+adv
+vc
+249882	o
+249887	adv
+249892	adv
+v
+adv
+249896	v
 adv
 adv
-249959	v
+v
+o
+io
+249903	v
+249905	o
+v
+vc
+adv
+v
+249911	adv
+v
+io
+adv
+249916	v
+249918	adv
+adv
+249921	v
+io
+249924	adv
+249927	io
+v
+v
+v
+adv
+v
+249934	apposition
+249936	adv
+s
+v
+adv
+249943	v
+adv
+249947	v
+249949	adv
+o
+v
+adv
+249954	adv
+249958	apposition
+adv
+o
 249962	v
 adv
-249967	v
-s
-249971	v
-vc
-p
-v
-249976	v
-o
-249981	adv
-249989	v
-o
-s
 adv
+249967	adv
+v
+249970	v
+adv
+249977	adv
+249980	adv
+v
+adv
+249984	v
+249986	s
+o
+v
+s
+249991	o
+s
+249994	o
+s
 249997	adv
 v
-s
-250001	adv
-250003	s
-v
-o
-250008	adv
-250011	v
-250013	o
+250000	s
+250003	v
 adv
-250016	v
-s
-vc
-p
-adv
-250022	aux
-adv
-v
-o
-s
-adv
-250029	s
-250033	v
-o
-250036	adv
-250039	adv
-250041	s
-250043	v
-o
-250048	v
-adv
-250052	adv
-adv
-s
-adv
-o
-v
-250059	o
-250062	s
-v
-250066	adv
-v
-250071	adv
-v
-o
-v
-adv
-v
-o
-s
-adv
-250081	v
-adv
-v
-adv
-v
-adv
-250088	p
-adv
-p
-250093	s
-o
-250097	v
-o
-v
-p
-adv
-vc
-adv
-adv
-o
-v
-250108	adv
-v
-v
-250112	p
-vc
-aux
-250116	apposition
-v
-adv
-adv
-250121	v
-o
-o
-v
-o
-250127	v
-v
-v
-250132	s
-250135	vc
-p
-adv
-o
-v
-v
-250142	o
-aux
-aux
-v
-o
-v
-250149	v
-o
-s
-v
-o
-250157	o
-250166	v
-v
-250169	s
-250172	adv
-o
-v
-adv
-250182	v
+250007	adv
+250010	v
 io
-o
+250013	s
+vc
+s
+p
 adv
-250193	s
+adv
+adv
+v
+adv
+250023	adv
+s
+v
+adv
+250029	adv
+s
+adv
+v
+v
+v
+250036	o
+250038	adv
+s
+250041	adv
+p
+vc
+s
+s
+adv
+v
+adv
+250050	v
+adv
+adv
+250055	v
+adv
+adv
+250061	p
+vc
 v
 io
 adv
-250200	adv
-250203	o
-250206	v
-o
-250209	adv
-250212	v
+250070	adv
+v
+v
+adv
+250077	adv
+250080	adv
+v
+adv
+250084	adv
+250088	apposition
+adv
+adv
 o
 v
-250216	o
+adv
+250096	adv
+250098	s
+adv
+250101	v
+250103	adv
+250105	s
+adv
+adv
+250109	s
+v
+adv
+adv
 s
-250219	s
-250221	adv
-250226	v
-o
-apposition
-250232	s
-250236	io
-250238	v
-o
-apposition
-250244	adv
-250246	vc
-s
-p
-250250	s
-250252	adv
 v
-adv
-adv
-v
-250258	s
-adv
-v
-adv
-v
-250265	s
-250267	p
-adv
-250271	s
-250273	v
-250277	s
-adv
-o
-v
-adv
-o
-250284	v
-s
-o
-adv
-v
-adv
+250116	adv
+250118	s
 vc
 p
 s
-v
-o
-250297	o2
-250301	adv
-v
-s
-250307	adv
-s
-v
-250311	adv
+250123	adv
 v
 adv
-adv
 v
 s
-o
-250320	adv
-250323	adv
-250329	s
+250129	v
+s
+adv
+250134	adv
+250136	adv
+v
+adv
+250143	s
+vc
 p
-vc
-250333	v
-adv
-250336	v
-adv
-250339	v
-o
-250342	v
 v
+250149	s
+adv
+s
+250155	adv
+250158	s
 v
 adv
-250347	v
-250349	s
+s
+250170	apposition
+250174	apposition
+adv
+250177	v
+250179	adv
 p
-250352	vc
-250358	v
-o
-250365	adv
-250368	v
-o
-o
-adv
-v
-v
-adv
-v
-v
-v
-adv
-v
-v
-v
-o
-v
+250184	v
 s
-adv
-v
-adv
-250391	o
-v
 s
-250397	adv
+250189	p
+adv
+s
+250193	p
+250195	adv
+250198	adv
+250201	s
 v
 adv
-250402	v
-250404	s
-250407	v
-250409	o
-v
+250205	adv
 o
-250414	p
+250214	v
+adv
+v
+adv
+250220	apposition
+250224	adv
+250226	adv
+250228	adv
+adv
+adv
+250233	adv
+250235	adv
+250239	adv
+250244	p
 vc
 s
-250418	p
+adv
+adv
+250253	p
 vc
-250423	s
-o
-250427	v
 s
-250430	adv
+s
+250258	v
+250260	v
+s
+adv
+250264	v
+s
 v
+s
+250270	v
+s
+adv
+250274	adv
+s
+250277	v
+adv
+adv
+250281	adv
+250284	apposition
+250286	o
+250288	v
+v
+adv
+250292	s
+v
+adv
+v
+s
+v
+adv
+adv
+adv
+v
+adv
+250304	v
+250306	s
+v
+adv
+250310	adv
+250313	v
+v
+250316	adv
+adv
+250319	adv
+250323	v
+s
+adv
+adv
+250330	adv
+s
+adv
+250334	v
+250337	p
+vc
+adv
+250344	adv
+250346	vc
+o
+v
+s
+250352	v
+250354	v
+s
+250358	adv
+v
+s
+o
+250363	v
+v
+adv
+250369	v
+adv
+v
+250373	adv
+v
+adv
+v
+250378	s
+v
+adv
+adv
+v
+s
+adv
+adv
+v
+adv
+250389	v
+adv
+v
+adv
+adv
+250395	v
+v
+adv
+adv
+s
+v
+s
+vc
+p
+p
+250406	adv
+v
+250409	adv
+adv
+250413	adv
+250415	v
+s
+adv
+250421	adv
+v
+o
+250426	v
+o
+250429	o2
+io
 250433	v
+o
+io
+adv
+250438	adv
+v
+250441	o
+250443	o2
+io
 s
-250437	o
+250447	adv
+adv
+v
+250452	vc
+p
+250455	p
+o
+250458	v
+250461	vc
+p
+250464	p
+adv
+v
+adv
+v
+250470	io
 v
 o
-apposition
-250449	s
-250452	p
+o2
+adv
+p
 vc
-250455	s
-250460	p
-250462	s
-250465	p
-250467	s
-p
-adv
-250472	s
-250474	p
-250479	p
-250481	s
-250485	p
-s
-250489	p
-adv
-250492	p
-250495	v
 o
+v
+250480	p
+adv
+250483	p
+adv
+s
+250487	io
+250489	vc
+p
+250492	v
+250494	adv
+adv
+v
+apposition
+v
 250500	adv
-250503	v
-s
-s
-250507	o
-250510	v
-adv
-v
-250514	vc
-250516	s
-p
-s
-250520	p
-250522	v
-250525	v
-adv
-250530	v
-adv
-v
-s
-250537	s
-250539	o
-v
+250502	v
+io
 o
 v
-p
-s
-250546	v
+adv
+250513	v
+o
+250516	o2
+io
+250521	adv
+250523	adv
+adv
+v
+o
+250528	o2
+io
+adv
+250533	p
+vc
+250536	p
+vc
+adv
+o
+250541	v
+adv
+adv
 o
 adv
 v
+s
+250550	p
 adv
-v
 250553	adv
 v
-s
+adv
+250557	v
+250559	io
+v
 o
-250560	s
 250563	adv
-250566	v
-adv
-250570	adv
-adv
-s
-adv
-250575	v
-250578	v
-250581	v
-s
-s
-v
-250586	v
 o
-250589	v
+250567	apposition
 s
+250572	p
 s
-250593	p
+250577	p
+adv
+250581	apposition
+250584	v
+aux
+v
+250588	o
+v
+250591	s
+v
+adv
+adv
+adv
+v
+s
+250600	io
+250602	v
+v
+adv
+250607	v
+s
+v
+adv
+250616	v
+s
+p
 vc
-250596	o
-250598	v
-250600	adv
-adv
-v
-250604	s
-250607	p
+250621	vc
+p
+250625	v
+s
+p
 vc
-250610	v
-250614	adv
-v
-s
 adv
-s
-adv
-v
-v
-adv
-v
-v
-o
-s
-v
-adv
-v
 250631	adv
-v
-v
-o
-adv
-v
-adv
-250640	p
-v
-s
-250644	adv
-250646	v
-s
-p
-250651	s
-250653	o
-250655	v
-250657	p
-s
-250660	v
-o
-s
-250664	p
-250668	o
-adv
-v
-adv
 vc
 s
 p
-250677	v
-250680	o
+vc
+p
+250638	aux
 s
+v
+adv
+adv
+250646	adv
+vc
+s
+p
+adv
+v
+250653	v
+io
+250657	vc
+p
+250660	s
+250664	apposition
+250667	v
+adv
+250671	adv
 v
 io
-250686	v
-250689	s
+adv
+250676	v
+adv
+250679	v
+adv
+adv
 v
-250692	p
-vc
-s
-250696	adv
-250698	adv
-250700	adv
-v
+250684	v
 s
 adv
+250692	o
+250694	v
+s
+p
 adv
-250706	p
+v
+250700	o
 adv
+v
+250704	adv
+adv
+o
 250709	adv
+v
+250712	adv
 s
 v
+adv
 v
-adv
-250718	s
-250724	adv
-250726	v
-adv
-250729	v
-s
-s
-250733	v
-250735	v
 o
-250739	v
+250719	v
+s
+adv
+250723	v
+adv
+o
+adv
+250728	s
+p
+s
+250732	v
 adv
 adv
-250743	adv
-250746	apposition
-250749	o
+v
+250737	s
+s
 v
 s
-o2
+250742	v
+250744	v
 adv
-250768	v
+s
+250749	apposition
+250751	adv
+s
+250754	o
+v
+adv
+250758	v
+o
+250761	adv
+v
+250764	s
+250766	p
+250768	s
+p
+250772	s
+250774	adv
+vc
+p
+adv
+v
+250780	s
 250782	vc
-s
 p
-250786	v
-o
-250791	p
-250793	s
-v
-250796	adv
-250798	adv
 adv
-250801	adv
-250803	v
-250805	v
-adv
-s
-adv
-250811	p
-s
-adv
-p
-250816	p
-250818	p
-s
-250821	s
+250786	io
 v
 o
-adv
-250826	o
-adv
-250829	o
-250831	v
-adv
-250834	adv
-v
-250837	o
-v
-o
-250841	v
-v
-s
-apposition
-250846	adv
-250849	s
-adv
-v
-v
-o
-250855	adv
-adv
-o
-250859	s
-v
-v
-250863	s
-o
-250866	v
-io
-adv
-250870	v
-s
-adv
-v
-250878	v
-v
-250881	adv
-v
-o
-v
-s
-250887	adv
-250889	s
-v
-o
-250895	io
-s
-v
-o
+250790	vc
 adv
 p
 s
-s
-v
-250906	s
-v
-250909	p
-s
 adv
+250796	v
+250799	s
+p
+vc
+s
+250804	p
+vc
+v
+adv
+250809	o
+250811	v
+adv
+v
+250816	o
+v
+o
+v
+250821	o
+v
+o
+v
+250827	o
+adv
+v
+o
+v
+v
+adv
+250835	p
+250838	s
+v
+o
+250842	s
+250844	v
+adv
+v
+250849	adv
+v
+adv
+s
+vc
+p
+250857	s
+250859	v
+v
+adv
+250863	v
+o
+adv
+250868	o
+o
+v
+v
+250873	aux
+o
+adv
+v
+o
+v
+250881	o
 adv
 v
 s
 o
+v
 s
-250919	p
+v
+o
+250891	s
+250893	v
+adv
+v
+250897	o
+adv
+v
+v
+o
+adv
+s
+v
+v
+250907	adv
+250910	adv
+250913	v
+250915	o
+s
+adv
+250920	v
+adv
 250926	v
-250928	v
+o
+adv
+250933	vc
+p
+250937	p
+s
+s
+o
+v
+adv
+250947	s
 io
+adv
+250952	apposition
+250956	s
+adv
+250959	v
+o
+adv
+250963	o
+s
+250966	adv
+p
+250970	s
+250976	adv
+250978	v
+o
+adv
+250991	adv
+v
+adv
+250995	s
+o
+250998	v
+adv
+251005	v
+o
+adv
+251010	s
+251013	v
+adv
+251016	adv
+251018	v
+251022	p
+vc
+o
+251026	v
+251028	p
+o
+251031	s
+251035	p
+s
+251040	p
+251043	s
+251046	p
+adv
+io
+251052	adv
+v
+adv
+251056	v
+251058	p
+vc
+o
+v
+adv
+v
+s
+251066	p
+vc
+251072	s
+v
+adv
+251077	s
+o
+adv
+v
 s
 adv
-adv
-250934	v
+vc
 p
-250937	vc
-250941	p
-250943	p
-250945	o
-250947	v
+251087	s
+p
+s
+251091	p
+adv
+s
+251095	p
+adv
+251099	s
+251101	v
+o
+adv
+v
+adv
+v
+adv
+o
+v
+o
+251114	adv
+251117	v
+251119	adv
+251122	aux
+p
+vc
+adv
+adv
+adv
+v
+251131	adv
+v
+v
+v
+251137	adv
+o
+251141	v
+v
+s
+251145	adv
+v
+s
+p
+vc
+251152	v
+o
+adv
+adv
+251157	v
+251159	adv
+v
+aux
 apposition
-250953	apposition
-250956	adv
-vc
 s
-p
-250961	v
-adv
-adv
-v
-io
-s
-250968	p
-adv
-adv
-p
-adv
-250975	v
-adv
-250987	adv
-s
-250990	io
-250995	p
-s
-vc
-250999	adv
-251004	s
-251006	p
-v
-s
-251010	v
-s
-s
-251014	o
-v
-adv
-251018	adv
-v
-s
-adv
-s
-adv
-adv
-251026	adv
-adv
-vc
-p
-s
-adv
-251034	apposition
-251045	s
-vc
-p
-251050	v
-251052	o2
-251054	v
-o
-adv
-251058	o
-v
-apposition
-v
-o
-251064	v
-adv
-v
-adv
-251069	v
-s
-adv
-adv
-v
-adv
-vc
-s
-p
-251079	adv
-v
-p
-vc
-s
-251087	adv
-v
-adv
-v
-o
-251093	v
-p
-adv
-vc
-251098	o
-251103	adv
-251108	adv
-v
-adv
-251112	v
-adv
-adv
-v
-o
-io
-251119	v
-251121	o
-v
-vc
-adv
-v
-251127	adv
-v
-io
-adv
-251132	v
-251134	adv
-adv
-251137	v
-io
-251140	adv
-251144	io
-v
-v
-v
-adv
-v
-o
-251152	apposition
-251154	adv
-s
-v
-adv
-251161	v
-adv
 251165	v
-251167	adv
-o
+adv
+251169	vc
+p
+251173	p
+p
+p
+251177	p
+251180	v
+251182	adv
 v
-adv
-251172	adv
-251177	apposition
-adv
-o
-251181	v
-adv
-adv
+v
 251187	adv
+p
+s
+251193	adv
+251196	v
 v
-251190	v
 adv
-251197	adv
-251200	adv
+s
+251203	o
+251208	v
+io
+251211	s
 v
 adv
-251204	v
-251206	s
-o
-v
-s
-251211	o
-s
-251214	o
-s
-251217	adv
-v
-251220	s
-251223	v
+251216	v
+adv
+251219	s
+251222	v
 adv
 251227	adv
-251230	v
-io
-251233	s
-vc
-s
-p
-adv
-adv
-adv
-v
-adv
-251243	adv
-s
-v
-adv
-251249	adv
-s
+251235	v
+251238	s
+251240	v
+251242	adv
+251245	adv
+251248	s
+251251	o
+251254	v
+251256	apposition
 adv
 v
-v
-v
-251256	o
-251258	adv
-s
-251262	adv
-p
-vc
-s
-s
-adv
-v
-adv
-251271	v
-adv
-adv
-251276	v
-adv
-adv
-251282	p
-vc
-v
-io
-adv
-251291	adv
-v
-v
-adv
-251298	adv
-251301	adv
-v
-adv
-251305	adv
-251310	apposition
-adv
-adv
 o
 v
-251316	adv
-251321	adv
-251323	s
-adv
-251326	v
-251328	adv
-251330	s
-adv
-adv
-251334	s
-v
-adv
-adv
+apposition
+251265	adv
+251267	v
 s
-v
-251341	adv
-251343	s
+251270	v
+adv
 vc
 p
+o
+251276	v
 s
-251348	adv
+adv
+v
+251282	o
+adv
+v
 v
 adv
 v
-s
-251354	v
-s
 adv
-251359	adv
-251361	adv
+251290	s
+251292	v
+adv
+251296	o
 v
+251299	v
+adv
+v
+251303	s
+251305	v
+adv
+251308	v
+o
+v
+p
+s
+251316	adv
+v
+adv
+v
+251322	v
+o
+s
+v
+adv
+adv
+p
+vc
+251331	o
+v
+adv
+v
+o2
+251340	adv
+vc
+s
+p
+adv
+251346	o
+251348	v
+o
+adv
+v
+251353	o
+v
+o
+adv
+v
+o
+251360	v
+o
+adv
+v
+o
+251366	v
 adv
 251369	s
-vc
 p
-v
-251375	s
-adv
 s
-251381	adv
-251384	s
+p
+s
+o
+251376	adv
+v
+251379	adv
+251381	v
+o
+adv
+adv
+adv
+251387	o
+io
+v
+s
 v
 adv
+251394	s
+v
 s
-251396	apposition
-251400	apposition
+v
+251400	v
 adv
 251403	v
-251405	adv
+s
+vc
 p
-251410	v
-s
-s
-251415	p
+251409	s
 adv
-s
-251419	p
-251421	adv
-251424	adv
-251427	s
 v
 adv
-251431	adv
+s
 o
-251440	v
-adv
 v
 adv
-251446	apposition
-251450	adv
-251452	adv
-251454	adv
-adv
-adv
-251459	adv
-251461	adv
-251465	adv
-251470	p
-vc
-s
-adv
-adv
-251479	p
-vc
-s
-s
-251484	v
-251486	v
-s
-adv
-251490	v
-s
+251420	s
+251428	v
+251430	adv
 v
+adv
+251434	v
+adv
+251439	adv
+251441	v
+adv
+v
+o
+v
+251448	s
+251454	v
+251456	v
+251463	v
+o
+v
+adv
+251471	apposition
+251475	apposition
+251477	o
+v
+adv
+adv
+v
+v
+adv
 s
+251486	adv
+251488	s
+adv
+vc
+p
+251493	s
+p
 251496	v
-s
-adv
-251500	adv
-s
-251503	v
-adv
-adv
-251507	adv
-251510	apposition
-251512	o
-251514	v
-v
-adv
-251518	s
-v
-adv
-v
-s
-v
-adv
-adv
-adv
-v
-adv
-251530	v
-251532	s
-v
-adv
-251536	adv
-251539	v
-v
-251542	adv
-adv
-251545	adv
-251549	v
-s
-adv
-adv
-251556	adv
-s
-adv
-251560	v
-251563	p
+251498	p
 vc
-adv
-251570	adv
-251572	vc
-o
-v
-s
-251578	v
-251580	v
-s
-251584	adv
-v
-s
-o
-251589	v
-v
-adv
-251596	v
-adv
-v
-251600	adv
-v
-adv
-v
-251606	s
-v
-adv
-adv
-v
 s
 adv
-adv
-v
-adv
-251617	v
-adv
-v
-adv
-adv
-251623	v
-v
-adv
-adv
-s
-v
-s
+251503	adv
+251507	apposition
+251511	s
 vc
 p
+s
+251526	p
+s
+251529	p
+s
+251532	apposition
+251534	s
+251536	vc
 p
-251634	adv
-v
-251637	adv
+p
 adv
-251641	adv
+251541	aux
+adv
+s
+251545	v
+s
+251552	aux
+251555	s
+p
+251559	vc
+p
+s
+p
+251564	adv
+v
+io
+s
+s
+vc
+251571	aux
+251574	s
+p
+251578	s
+251581	v
+adv
+s
+251586	p
+o
+adv
+251591	v
+251593	vc
+p
+s
+251597	adv
+251600	s
+adv
+251603	o
+v
+apposition
+apposition
+251608	adv
+251610	v
+251612	v
+o
+251616	s
+251621	v
+adv
+251626	v
+v
+io
+251630	s
+v
+o
+251634	v
+o
+o
+v
+o
+251640	v
+o
 251643	v
 s
-adv
-251649	adv
+p
+251647	adv
+v
+io
+251651	v
+o
 v
 o
-251654	v
-o
-251657	o2
-io
-251661	v
-o
-io
-adv
-251666	adv
 v
-251669	o
-251671	o2
+251657	v
+o
+v
+251662	p
+251664	v
+251666	v
+251670	v
+v
+251673	s
 io
-251674	s
 251676	adv
-adv
-v
-251681	vc
-p
-251684	p
+251678	v
 o
-251688	v
-251691	vc
-p
-251694	p
+251681	v
 adv
+o
+251687	v
+s
+251690	adv
+251695	o
 v
-adv
-v
-251700	io
 v
 o
-o2
+251700	v
+v
+v
+io
+251705	adv
 adv
+v
+o
+251711	s
+v
+aux
+s
 p
 vc
-o
 v
-251710	p
-adv
-251713	p
-adv
+io
+v
 s
-251717	io
-251719	vc
-p
-251722	v
-251724	adv
-o
+v
 adv
+o
 v
-apposition
-v
+adv
+251727	v
+o
+s
 251731	adv
-251733	v
-io
+251734	v
 o
-v
-adv
+251737	adv
+o
+251740	adv
 251744	v
-o
-251747	o2
-io
-251752	adv
-251754	adv
-adv
-v
-o
-251759	o2
-io
-adv
-251764	p
-vc
-251767	p
-vc
-adv
-o
-251772	v
-adv
-adv
-o
-adv
-v
 s
-251781	p
-adv
-251784	adv
-v
-adv
-251788	v
-251790	io
+o
 v
 o
+251750	v
+o
+251753	v
+adv
+251756	o
+251758	v
+adv
+251762	v
+o
+251767	adv
+251770	o
+v
+adv
+o
+adv
+v
+adv
+251783	adv
+251786	v
+o
+v
+o
+251792	o2
 251794	adv
-o
-251798	apposition
-s
-251803	p
-s
-251808	p
+v
+v
+251798	vc
+p
+251801	adv
+v
+io
 adv
-251812	apposition
-251815	v
+p
+s
+adv
+vc
+p
+251811	v
+s
+251814	v
+adv
+251818	vc
+s
+251823	p
+251828	s
+v
+o
+251832	v
+251834	v
+s
+adv
+251840	v
+s
+251843	adv
+s
+v
+io
+o
+p
+251850	vc
+251852	adv
+251854	v
+o
+251857	v
+251859	s
+adv
+v
+o
+v
+o
+251867	apposition
+251869	s
+251871	v
+o
+adv
+adv
+v
+adv
+251879	adv
+251882	adv
+v
+adv
+251888	v
 aux
 v
-251819	o
-v
-251822	s
-v
 adv
+o
+251897	v
 adv
 adv
 v
+aux
 s
-251831	io
-251833	v
+251915	p
 v
-adv
-251839	v
-s
+251918	io
+251920	o
 v
+251923	adv
 adv
-251849	v
-s
-p
-vc
-251854	vc
-p
-251859	v
-s
-p
-vc
-adv
-251865	adv
-vc
-s
-p
-vc
-p
-251872	aux
-s
-v
-adv
-adv
-251880	adv
-vc
-s
-p
 adv
 v
-251887	v
-io
-251892	vc
-p
-251895	s
-251899	apposition
-251902	v
-adv
-251906	adv
+251928	o
+251932	o
+v
 v
 io
-adv
-251911	v
-adv
-251914	v
-adv
-adv
+251938	adv
 v
-251919	v
-s
-adv
-251927	o
-251929	v
-s
 p
+251942	s
+adv
 adv
 v
-251936	o
-adv
-v
-251940	adv
-adv
-o
-251945	adv
-v
-251948	adv
 s
+251948	v
+251950	aux
+251952	apposition
+251954	s
+251956	v
 v
 adv
-v
-o
-251955	v
 s
+251963	adv
+v
 adv
-251959	v
+v
 adv
+251970	s
+v
+adv
+251974	s
+vc
+o
+v
+251979	s
+v
+adv
+251983	s
+vc
 o
 adv
-251964	s
+v
+251989	o
+v
 p
 s
-251968	v
-adv
-adv
-v
-251973	s
-s
-v
-s
-251978	v
-251980	v
-adv
-s
-251985	apposition
-251987	adv
-s
-251990	o
-v
-adv
-251994	v
-o
-251997	adv
-v
-252000	s
-252002	p
-252004	s
-p
-252008	s
-252010	adv
 vc
 p
-adv
-v
-252018	s
-252020	vc
+252002	s
+vc
 p
-adv
-252024	io
+252007	o
 v
+252012	v
+adv
+252016	o
+252018	v
+adv
+252023	s
 o
-252028	vc
+v
 adv
-p
-s
+v
+adv
+252030	v
+adv
 adv
 252034	v
-252037	s
-p
-vc
+adv
+v
+252038	s
 s
-252042	p
-vc
 v
 adv
-252047	o
-252049	v
 adv
 v
-252054	o
+adv
+252046	v
+s
+252050	s
+252053	p
+v
+adv
+252057	v
+o
+s
+252061	s
 v
 o
-v
-252059	o
-v
+252065	v
+adv
+252068	v
+adv
 o
-v
-252066	o
 adv
 v
-o
-v
-v
 adv
-252074	p
-252077	s
-v
+252075	v
 o
-252081	s
-252083	v
 adv
 v
+adv
+252081	v
+adv
+v
+adv
+252086	v
 252088	adv
 v
+252091	v
 adv
-252092	s
+p
+s
+252096	v
+o
+252099	adv
+s
+v
+o
+s
+252105	v
+aux
+s
+v
+o
+252113	s
+adv
+s
+252117	adv
+252120	v
+adv
+v
+adv
+252126	v
+s
+252130	adv
+252134	s
+252137	v
+s
+adv
+v
+adv
+s
+v
+s
+v
+o
+adv
+252149	adv
+252151	v
+o
+s
+252155	v
+252157	v
+v
+o
+adv
+v
+p
 vc
-p
-252097	s
-252099	v
-v
-adv
-252103	v
-o
-adv
-252108	o
-o
-v
-v
-252113	aux
 o
 adv
 v
-o
-v
-252121	o
 adv
+252170	v
+adv
+252173	v
+o
+252176	adv
+252178	v
+252180	v
 v
+252183	v
 s
 o
+252187	adv
 v
 s
-v
-o
-252131	s
-252133	v
+252191	p
+vc
 adv
+252197	adv
 v
-252137	o
-adv
-v
-v
-o
-adv
 s
+252202	o
 v
+252205	adv
 v
-252147	adv
-252150	adv
-252153	v
-252155	o
-s
 adv
-252160	v
-adv
-252166	v
-o
-adv
-252173	vc
-p
-252177	p
-s
-s
 o
 v
+s
+252212	v
+o
 adv
-252187	s
+252216	aux
+o
+252219	v
+o
+252222	v
+252224	s
+v
+adv
+252228	v
+o
+252232	o
+v
+io
+s
+v
+io
+252239	s
+adv
+v
+o
 io
 adv
-252192	apposition
-252196	s
+252246	adv
+252250	s
 adv
-252199	v
-o
+252253	v
+252256	adv
 adv
-252203	o
-s
-252206	adv
-p
-252210	s
-252216	adv
-252218	v
-o
 adv
-252227	aux
-252232	adv
-v
+252260	s
 adv
-252236	s
-o
-252239	v
-adv
-252246	v
-o
-adv
-252251	s
-252254	v
-adv
-252257	adv
-252259	v
-252263	p
 vc
+p
 o
-252267	v
-252269	p
-o
-252272	s
-252276	p
+252266	o
+v
 s
-252281	p
-252286	s
-252289	p
+o
 adv
+v
+s
+252274	v
+s
+252277	v
+252279	v
+v
 io
-252295	adv
-v
-adv
-252299	v
-252301	p
-vc
+s
 o
+252288	adv
+v
+252293	adv
 v
 adv
+252299	s
 v
-s
-252309	p
-vc
-252315	s
-v
-adv
-252320	s
 o
+vc
+s
+252305	p
+252314	v
+s
+252317	adv
+v
+252320	o
+252322	adv
+v
+v
+252326	v
+252328	v
 adv
 v
-s
-adv
-vc
+252332	adv
+252334	s
 p
-252330	s
-p
-s
-252334	p
 adv
-s
-252338	p
-adv
+v
+o
 252342	s
-252344	v
-o
+252344	p
+252346	s
+252348	p
 adv
-v
+s
+252352	io
+252354	v
+apposition
 adv
-v
 adv
-o
-v
-o
-252357	adv
-252360	v
-252362	adv
-252365	aux
+252359	vc
+s
 p
-vc
-adv
-adv
-adv
+o
+252364	v
 v
-252374	adv
-v
-v
-v
+o
+252369	v
+o
+252374	s
+252376	p
+p
+s
 252380	adv
-o
-252384	v
-v
-s
-252388	adv
-v
 s
 p
-vc
-252395	v
-o
-adv
-adv
+252385	s
+p
+s
+252391	s
+p
+s
+252398	s
 252400	v
+252402	s
+252404	p
+vc
+v
+adv
+252409	p
+252415	vc
+adv
+v
+adv
+252421	v
+252423	s
 o
-252403	adv
+v
+252427	s
+o
+v
+252431	v
+s
+252434	s
+v
+adv
+adv
+v
+s
+252441	adv
+v
+252444	o
+v
+252447	v
+252450	s
+o
+252454	adv
+v
+adv
+o
+v
+v
+252461	o
+252464	p
+252466	v
+s
+p
+252470	s
+252472	v
+adv
+252475	s
+v
+s
+252480	adv
+v
+adv
+v
+p
+252486	vc
+s
+adv
+v
+o
+252494	s
+adv
+252499	v
+252501	adv
+v
+adv
+adv
+s
+252508	v
+adv
+252511	adv
+252513	v
+s
 v
 aux
-apposition
-s
-252409	v
-adv
-252413	vc
-p
-252417	p
-p
-p
-252421	p
-252424	v
-252426	adv
-v
-v
-252431	adv
-p
-s
-252437	adv
-252440	v
-v
-adv
-s
-252447	o
-252452	v
-252454	io
-252456	s
-v
-adv
-252461	v
-adv
-252464	s
-252467	v
-adv
-252472	adv
-252480	v
-252483	s
-252485	v
-252487	adv
-252490	adv
-252493	s
-252496	o
-252499	v
-252501	apposition
-adv
-v
 o
-v
-apposition
-252510	adv
-252512	v
-s
-252515	v
-adv
+252520	adv
 vc
+adv
 p
-o
-252521	v
 s
 adv
-v
-252527	o
-adv
-v
-v
 adv
 v
 adv
-252535	s
-252537	v
 adv
-252541	o
+s
+252533	v
+252535	adv
+s
 v
-252544	v
+252539	v
+v
 adv
 v
-252548	s
-252550	v
+v
+o
 adv
+252547	s
+adv
+p
 252553	v
 o
-v
-p
-s
-252561	adv
-v
+252556	adv
+252559	p
 adv
-252565	v
-252569	v
+adv
+252564	p
+adv
+252567	p
+252569	s
+252578	s
+adv
+v
 o
-s
-v
 adv
+252584	v
 adv
-p
-vc
-252578	o
-v
-adv
-v
-o2
 252587	adv
+s
+adv
+v
+adv
+252594	s
+adv
+v
+v
+252599	s
+o
+adv
+252603	o
+v
+aux
+252610	p
+s
+252614	p
+s
+252617	s
+252619	v
+o
+252622	s
+p
 vc
-s
-p
-adv
-252593	o
-252595	v
-o
-adv
+252626	s
 v
-252600	o
-v
-o
-adv
-v
-o
-252607	v
-o
-adv
-v
-o
-252613	v
-adv
-252616	s
-p
-s
-p
-s
-o
-252623	adv
-v
-252626	adv
-252628	v
-o
-adv
-adv
-adv
-252634	o
 io
-v
+252630	v
+io
+252633	p
+252639	s
+io
 s
-v
 adv
-252641	s
+252644	aux
 v
-s
-v
-p
-252649	v
+252647	s
+aux
 adv
-252652	v
-s
-vc
-p
-252658	s
-adv
-v
-adv
-252663	s
+252653	v
 o
-v
+252656	o2
+252659	v
+252662	o
+252667	v
 adv
-252671	s
-252679	v
-252682	adv
-v
+252671	v
 adv
+252675	adv
+v
+s
+p
+s
 252686	v
-adv
-252691	adv
-252693	v
-adv
-v
-o
-v
-252700	s
-252706	v
-252708	v
-252715	v
+252688	adv
+252691	v
+io
+io
+vc
+p
 o
 v
 adv
-252723	apposition
-252727	apposition
-252730	o
-v
-adv
-adv
+o
 v
 v
+252703	v
 adv
-s
-252739	adv
-252741	s
-adv
-vc
-p
-252746	s
-p
-252749	v
-252751	p
-vc
-s
-adv
-252756	adv
-252761	apposition
-252765	s
-vc
-p
-p
-s
-252781	p
-s
-252784	p
-s
-252787	apposition
-252789	s
-252791	vc
-p
-p
-adv
-252796	aux
-adv
-s
-252800	v
-s
-252807	aux
-252810	s
-p
-252814	vc
-p
-s
-p
-252819	adv
 v
 io
+252708	s
+v
+o
+252714	adv
+252716	o
+v
 s
-252824	s
-vc
-252827	aux
-252830	s
+252721	adv
+o
+252724	v
+adv
+s
 p
-252834	s
+vc
+adv
+s
+252733	p
+v
+252736	o
+adv
+252740	v
+io
+252743	o
+adv
+252749	o
+adv
+252753	v
+adv
+252757	v
+adv
+252760	v
+adv
+v
+adv
+v
+adv
+s
+p
+v
+o
+v
+io
+adv
+adv
+p
+adv
+o
+v
+adv
+adv
+p
+adv
+v
+o
+v
+adv
+v
+adv
+v
+o
+v
+adv
+252794	v
+o
+v
+v
+v
+o
+v
+252802	adv
+v
+v
+adv
+v
+v
+adv
+v
+o
+adv
+v
+apposition
+o
+v
+252817	adv
+v
+adv
+vc
+p
+adv
+io
+o
+adv
+v
+v
+o
+adv
+252832	p
+adv
+252835	adv
 252837	v
-adv
-s
-252842	p
-o
-adv
-252847	v
-252849	vc
-p
-s
-252853	adv
-252856	s
-adv
-252859	o
+252839	o
 v
-apposition
-apposition
-252866	adv
-252868	v
-252870	v
+aux
+252843	v
 o
-252874	s
-252879	v
-adv
-252884	v
-v
 io
-252888	s
+v
+252848	p
+s
+s
+v
+v
+s
+252856	v
+s
+252859	v
+o
+252862	v
 v
 o
-252892	v
 o
+252867	v
 o
 v
-o
+adv
+252873	adv
+v
+adv
+252878	v
+adv
+252881	o
+s
+io
+v
+v
+adv
+252888	v
+s
+252891	adv
+adv
+252894	v
+adv
+v
 252898	v
 o
-252901	v
-s
-p
-252905	adv
-v
+o
+252903	v
+252905	v
 io
-252909	v
 o
 v
-o
-v
-252915	v
-o
-v
-252920	p
-252922	v
-252924	v
-252928	v
-v
-252931	s
-io
-252935	adv
-252937	v
-o
-252940	v
-adv
-o
-252946	v
 s
-252949	adv
-252954	o
-v
-v
-o
-252959	v
-v
-v
-io
-252964	adv
-adv
-v
-o
-252970	s
-v
-aux
-s
-p
+252911	adv
 vc
+p
+252918	v
+252920	adv
+v
+o
+o
+v
+252926	v
+o
+adv
+p
+252931	vc
+adv
+adv
+252937	o
+v
+v
+adv
+252942	o
+v
+p
+252946	vc
+p
+adv
+o
+v
+252952	p
+v
+adv
+252962	adv
+252964	o
+v
+p
+252968	vc
+adv
+252971	v
 v
 io
+o
+io
+252977	o
+io
+252980	o
+io
+252983	o
+io
+252986	o
+io
+o
 v
+252991	adv
+o
+v
+252995	v
+o
+o
+v
+253001	adv
+v
+adv
+v
+adv
+v
+adv
+v
+253011	s
+253013	adv
+253016	v
+adv
+v
+o
+253022	o
 s
+io
+o
+adv
 v
-adv
-o
-v
-adv
-252986	v
-o
-s
-252990	adv
-252993	v
-o
-o
-252997	adv
-o
-253000	adv
-253004	v
-s
-o
-v
-o
-253010	v
-o
-253013	v
-adv
-253016	o
-253018	v
-adv
-253022	v
-o
-253027	adv
+p
+253030	s
 253032	o
 v
+253035	p
 adv
-o
+s
 adv
 v
 adv
-253045	adv
-253048	v
-o
+253042	p
+s
+253047	v
+s
 v
-o
-253054	o2
-253056	adv
+s
+253052	v
 v
-v
-253060	vc
-p
+253055	o
+253058	v
+253060	o
 253064	adv
+adv
 v
-io
 adv
-p
-s
 adv
-vc
-p
-253074	v
-s
+253070	adv
+adv
+253073	adv
+adv
 253077	v
-adv
-253080	o
-253082	vc
-s
-253087	p
-253092	s
-v
 o
+253080	apposition
+253082	o
+253084	adv
+v
+adv
+253088	v
+adv
+v
+adv
+adv
+253094	s
 253096	v
-253098	v
-s
-adv
-253104	v
-s
-o
-253108	adv
-s
 v
-io
 o
+253100	v
+o
+v
+v
+adv
+v
+adv
+v
+253109	adv
+v
+v
+adv
+v
+s
+253116	o
+v
+s
 p
-253115	vc
-253117	adv
-253119	v
-o
-253122	v
-253124	s
-adv
+vc
 v
 o
+adv
+253125	v
+253127	v
+253129	v
+253131	s
 v
 o
-253132	apposition
-253134	s
-253136	v
-o
-adv
-adv
-v
-253142	adv
-253145	adv
-253148	adv
-253150	v
-adv
-253155	v
-aux
-v
-adv
-o
-253164	v
-adv
-adv
-v
-aux
 s
-253182	p
+253137	v
+o
+adv
+s
+253142	v
+o
+s
+adv
+253148	v
 v
-253185	io
-253187	o
+o
+adv
 v
-253190	adv
+253154	v
+adv
+v
+v
+253159	o
+253161	adv
+v
 adv
 adv
 v
-253195	o
-253199	o
+253167	v
+o
+s
+253171	adv
 v
+253174	s
+adv
 v
-io
-253205	adv
+253180	v
+adv
 v
+253185	v
+adv
+v
+apposition
+253192	v
+253195	v
 p
-253209	s
+vc
 adv
-adv
+253200	s
+v
+253204	adv
+253207	v
 v
 s
-253215	v
-253217	aux
-253219	apposition
+253211	adv
+v
+o
+253216	s
+adv
+v
+o
 253221	s
 253223	v
-v
 adv
-s
-253230	adv
-v
-adv
-v
-adv
-253237	o
+253227	v
+253229	v
 s
 v
+s
+253234	adv
+v
+s
+253238	s
+v
+o
+253243	s
 adv
-253242	s
-vc
 o
 v
-253248	s
+io
+adv
+253250	o
+v
+253253	o
 v
 adv
-253252	s
-vc
+adv
+v
 o
+io
+253261	v
+253263	adv
+253266	s
+p
 adv
-v
-253258	o
-v
-o2
-253262	p
+253270	v
 s
-vc
 p
-253273	s
 vc
+adv
 p
-253279	o
+253278	adv
+s
+253281	v
+adv
+adv
 v
-253285	v
 adv
-253289	o
-253291	v
 adv
+253288	o
+v
+adv
+s
+v
+adv
+v
 253296	s
-o
-v
-adv
-v
-adv
-253303	v
-adv
-adv
-253307	v
-adv
-v
-253311	s
+253300	vc
 s
+253304	p
+253307	p
+253314	adv
 v
+o
+p
 adv
+253320	p
+adv
+253324	o
+253327	v
+253332	apposition
+253334	adv
 adv
 v
-253318	adv
-253320	v
+o
+253340	s
+253342	p
+253344	p
+adv
+253347	adv
+v
+p
+adv
+v
+o
+253354	v
+o
+253357	adv
 s
-253324	s
-253327	p
-v
-adv
-253331	v
-o
-s
-253335	s
-v
-o
-253339	v
-adv
-253342	v
-adv
-o
-adv
-v
-adv
-253349	v
-o
-adv
-v
-adv
-253355	v
-adv
-v
-adv
 253360	v
-253362	adv
+s
+o
 v
-253365	v
 adv
+v
+adv
+253368	p
+adv
+v
+o
+adv
+o
+v
+253376	v
+253378	v
+v
+253381	adv
 p
 s
-253370	v
-o
-253373	adv
-s
-v
-o
-s
-253379	v
-aux
-s
-v
-o
-253387	s
+253385	s
 adv
-s
-253391	adv
-253394	v
-adv
-v
-adv
-253400	v
-s
-253404	adv
-253408	s
-253411	v
-s
-adv
-v
-adv
-s
-v
-o
-s
-v
-o
-adv
-253424	adv
-253426	v
-o
-s
-253430	v
-253432	v
-o
-v
-o
-adv
-v
+p
 p
 vc
-o
-adv
 v
-adv
-253446	v
-adv
-253449	v
-o
-253452	adv
-253454	v
-253456	v
-v
-253459	v
-s
-o
-253463	adv
-v
-s
-253467	p
-vc
-adv
-253473	adv
-v
-s
-o
-253479	o
-v
-253482	adv
-v
-adv
-o
-v
-s
-253489	v
-o
-adv
-253493	aux
-o
-253496	v
-o
-253499	v
-253501	s
-v
-adv
-253505	v
-o
-253509	o
-v
-io
-s
-v
-io
-o
-253517	s
-adv
-v
-o
-io
-adv
-253524	adv
-253528	s
-adv
-253531	v
-253534	adv
-adv
-adv
-253538	s
-adv
-vc
-p
-o
-253544	o
-v
-s
-o
-adv
-v
-s
-253552	v
-253554	s
-253556	v
-253558	v
-v
-io
-s
-o
-253567	adv
-v
-253572	adv
-v
-adv
-253578	s
-v
-o
-vc
-s
-253584	p
-253593	v
-s
-253596	adv
-v
-253599	o
-253601	adv
-v
-v
-253606	v
-253608	v
-adv
-v
-253612	adv
-253614	s
-p
-adv
-v
-o
-253622	s
-253624	p
-253626	s
-253628	p
-adv
-s
-253632	io
-253634	v
+253392	s
 apposition
-adv
-adv
-253639	vc
-s
-p
 o
-253644	v
+o
+253398	v
+253400	adv
+o
 v
+s
 o
-253649	v
+v
+adv
+253408	adv
+s
+253412	adv
 o
-253654	s
-253656	p
-p
+v
+253417	v
 s
-253660	adv
+253420	v
+o
+v
+adv
 s
-p
-253665	s
-p
+253426	v
+adv
+253430	v
+253432	adv
+253440	o
+v
 s
-253671	s
+253449	v
+io
+o
+v
+adv
+adv
+253457	adv
+adv
+253460	v
+o
+253468	apposition
+253470	v
+o
+253473	s
+253475	v
+o
+adv
+253480	v
+253482	s
 p
-s
-253679	s
-253681	v
-253683	s
-253685	p
 vc
+adv
+253487	adv
 v
-adv
-253690	p
-253696	vc
-adv
-v
-adv
-253703	v
-253705	s
 o
+253492	s
+253494	adv
 v
-253709	s
 o
+253498	v
+o
+adv
 v
-253713	o
+o
+adv
+253505	io
+253507	v
+253509	adv
+v
+v
+aux
+adv
+253517	adv
+v
+aux
+253521	o
+253523	v
+o
+s
+253528	adv
+s
+v
 v
 s
-253717	s
+253536	apposition
+253538	v
 v
-253720	adv
+adv
+adv
+s
+v
+s
+253548	v
+o
+adv
+253553	adv
+v
 adv
 v
 s
-253725	adv
+adv
+253560	adv
+253563	v
+253565	aux
+s
+253568	adv
+253570	s
+p
+vc
+adv
 v
-253728	o
+adv
+253577	v
+o
 v
-253731	v
+adv
+253582	v
+io
+adv
+253586	v
+o
+adv
+253591	v
+io
+adv
+253595	adv
+vc
+s
+p
+253600	adv
+253602	v
+o
+253607	vc
+s
+253611	p
+v
+adv
+253615	v
+253617	o
+253622	apposition
+253627	v
+o
+v
+o
+adv
+v
+s
+adv
+adv
+253637	adv
+253639	adv
+253648	s
+adv
+253655	v
+o
+253659	adv
+253661	v
+v
+adv
+adv
+v
+s
+253669	adv
+253671	v
+253674	v
+o
+v
+io
+adv
+v
+adv
+253682	s
+adv
+v
+v
+253687	adv
+v
+adv
+v
+adv
+adv
+253694	adv
+o
+v
+adv
+253700	o
+253702	v
+v
+adv
+adv
+253708	v
+adv
+253711	v
+253713	v
+o
+v
+o
+253718	adv
+v
+adv
+253722	adv
+adv
+adv
+v
+adv
+253728	v
+adv
+v
+o
+v
 253734	s
-o
-253738	adv
+253736	o
 v
 adv
-o
-v
-v
-253745	o
+253743	apposition
+253745	v
 253748	p
-253750	v
-s
-p
-253754	s
-253756	v
+vc
 adv
-253759	s
-v
+253753	adv
+253755	v
 s
-253764	adv
 v
 adv
-v
-p
-253770	vc
-s
 adv
-v
+253761	v
 o
-253778	s
+adv
+o
+253766	v
+253768	v
+io
+o
+253772	v
+adv
+adv
+v
+253778	v
+adv
 adv
 253783	v
-253785	adv
 v
-adv
-adv
-s
-253792	v
-adv
-253795	adv
-253797	v
-s
-v
-aux
-o
-253804	adv
-vc
-adv
-p
-s
-adv
-adv
-v
-adv
-adv
-s
-253817	v
-253819	adv
-s
-v
-253823	v
-o
-v
-adv
-v
-v
-o
-adv
-253832	s
-adv
-p
-253838	v
-o
-253841	adv
-253844	p
-adv
-adv
-253849	p
-adv
-253852	p
-253854	s
-253863	s
-adv
-v
-o
-adv
-253869	v
-adv
-253872	adv
-s
-adv
-v
-adv
-253879	s
-adv
-v
-v
-253884	s
-o
-adv
-253888	o
-v
-253891	aux
-253896	p
-s
-253900	p
-s
-253903	s
-253905	v
-o
-253908	s
-p
-vc
-253912	s
-v
-io
-253916	v
-io
-253919	p
-253925	s
-io
-s
-adv
-253930	aux
-v
-253933	s
+253786	s
 aux
 adv
-253939	v
-o
-253942	o2
-253945	v
-253948	o
-253953	v
+253793	apposition
+253799	v
 adv
-253957	v
 adv
-253961	adv
+253803	adv
+adv
+253807	v
+adv
+253810	v
+253814	s
+253817	apposition
+253819	p
+adv
+vc
+253823	adv
 v
+adv
+adv
+253828	v
+adv
 s
+253834	p
+253836	aux
+v
+253839	io
+o
+apposition
+253843	vc
 p
+253847	apposition
+253851	o
+v
+adv
+adv
+253857	v
+adv
+adv
+adv
+o
+v
+apposition
 s
-253972	v
-253974	adv
-253977	v
-io
-io
+253866	p
+253868	vc
+253871	v
+o
+253876	apposition
+253881	s
+adv
+253885	o
+253887	v
+o
+s
+253891	v
+253903	v
+253905	apposition
+253907	s
 vc
 p
-o
-v
-adv
-o
-v
-v
-253989	v
-adv
-v
-io
-253994	s
-v
-o
-254000	adv
-254002	o
-v
+253913	v
 s
-254007	adv
 o
-254010	v
+v
 adv
-s
-p
+v
+253922	apposition
+253927	s
 vc
+p
 adv
+253932	s
+p
+253935	vc
+adv
+v
+o
+apposition
+253943	v
+o
+253946	apposition
+253952	apposition
+253954	v
+o
+apposition
+253959	v
+o
+253963	v
+o
+apposition
+253967	v
+o
+253972	vc
+p
+v
+o
+253978	v
+adv
+v
+253982	apposition
 s
-254019	p
+o
+v
+adv
+v
+o
+253990	apposition
+253998	v
+o
+254005	v
+o
 254021	v
-254023	o
+o
 adv
-254027	v
-io
-254032	o
-adv
-254037	o
-254039	o
-adv
-254043	v
-adv
+254025	v
+o
+s
+254031	v
+254033	s
+aux
+v
+o
+254040	adv
+254042	o
+s
+v
+v
 254047	v
 adv
-254050	v
-adv
+254050	s
+254052	o
+254055	adv
+v
+254058	o
+254061	adv
+254065	v
+o
+254069	s
+254072	adv
 v
 adv
+254076	v
 v
-adv
+254079	o
 s
 p
-254059	v
-o
-v
-io
-254064	adv
-adv
-p
-adv
-o
-v
-adv
-adv
-p
-adv
-v
-o
-v
-adv
-v
-adv
-v
-o
-v
-adv
-254086	v
-o
-v
-v
-v
-o
-v
-254094	adv
-v
-254097	v
-adv
-v
-v
-adv
-v
-o
-adv
-v
-apposition
-o
-v
-254110	adv
-v
-adv
 vc
-p
 adv
-io
+254085	p
+254087	adv
+254089	s
+254093	v
+o
+adv
+254098	adv
+s
+254104	p
+v
+o
+s
+254109	apposition
+254115	apposition
+254117	v
+o
+s
+apposition
+v
 o
 adv
 v
-v
 o
-adv
-254125	p
-adv
-254128	adv
-254130	v
-254132	o
-v
+s
+apposition
+254133	v
+o
+s
+254137	apposition
+254142	apposition
 aux
-254136	v
-o
-io
-v
-254141	o
-254143	p
-s
-s
-v
-v
-s
-254151	v
-s
-254154	v
-o
-254157	v
-v
-o
-o
-254162	v
+254145	v
 o
 v
+adv
+254156	adv
+254160	adv
+v
+v
+254164	adv
 adv
 254168	adv
-v
-adv
-254173	v
-adv
-254176	o
+254172	adv
+254174	adv
+254177	v
+apposition
+254180	adv
+254182	io
 s
+adv
+254188	aux
+s
+254191	apposition
+254199	apposition
 io
-v
+254206	vc
+p
 v
 adv
-254183	v
-s
-254186	adv
-adv
-254189	v
-adv
-v
-254193	v
+254211	apposition
+254215	v
 o
-o
-254198	v
-254200	v
+254221	apposition
+adv
+254224	p
+254226	s
 io
-o
-v
-s
-254206	adv
-vc
-p
-254213	v
-254215	adv
+254229	adv
+254232	apposition
+254235	apposition
 v
 o
-o
-v
-254221	v
-o
-adv
-p
-254226	vc
 adv
 adv
-254232	o
-v
+adv
+254245	v
+io
+adv
+254250	adv
 v
 adv
-254237	o
-v
-254240	p
-254242	vc
-p
 adv
-o
-v
-254248	p
+254259	s
+254262	v
+adv
+254265	s
+adv
 v
 adv
-254259	adv
-254261	o
-v
-p
-254265	vc
-adv
-254268	v
 254270	v
-io
 o
-254274	io
-254276	o
-io
-254279	o
-io
-254282	o
-io
-254285	o
-io
-o
-v
-254290	adv
-o
-v
-254294	v
-o
-o
-v
-254301	adv
-v
-adv
-v
-adv
-v
-adv
-v
-254311	s
-254313	adv
-254316	v
+254277	s
 adv
 v
 o
-254322	o
-s
-io
-o
 adv
-v
+o2
+adv
+254289	apposition
 p
-254330	s
-254333	o
-v
-254336	p
-adv
 s
 adv
 v
 adv
-254343	p
-s
-254348	v
-s
-v
-s
-254353	v
-v
-254356	o
-254359	v
-254361	o
-254365	adv
+254299	apposition
+254301	apposition
+254303	v
+254305	o
+aux
 adv
-v
-adv
-adv
-254371	adv
-adv
-254374	adv
-adv
-254378	v
-o
-254381	apposition
-254383	o
-254385	adv
-v
-adv
-254389	v
-adv
-v
-adv
-adv
-254395	s
-254397	v
-v
-o
-254401	v
-o
-v
-254405	v
-adv
-v
-adv
-v
-254411	adv
-v
-v
-adv
+254313	apposition
+254315	o
 v
 s
-254418	o
-v
+254320	adv
+vc
+p
 s
+v
+254326	adv
+254334	v
+254336	io
+adv
+aux
+adv
+254342	s
 p
 vc
 v
-o
-adv
-254427	v
-254430	v
-254432	v
-254434	s
+254347	o
+s
 v
 o
 s
-254440	v
-o
-adv
+254353	vc
+p
 s
-254445	v
+254357	p
+s
+254360	p
+s
+254363	p
+v
+s
+s
+v
+adv
+254370	adv
+254373	v
+v
+254376	o
+v
+254379	adv
+o
+254383	adv
+s
+v
+254387	adv
+254390	v
+v
+254393	o
+254396	adv
+adv
+v
+o
+v
+adv
+254403	v
 o
 s
-adv
-254451	v
 v
-o
-adv
-v
-254458	v
-adv
-v
-v
-254463	o
-254465	adv
-v
+254408	v
 adv
 adv
+254413	adv
 v
-254471	v
-o
 s
-254475	adv
-v
-254478	s
+254418	s
+254421	apposition
+254424	v
+p
+vc
 adv
+254429	v
+p
+vc
 v
-254485	v
+254434	o
+v
+o
+254440	o
+254443	v
+p
+s
+p
+s
+p
+s
+254452	v
+s
+o
+254459	adv
+254463	adv
+v
+s
 adv
+254468	o
 v
-254491	v
+s
 adv
+254475	v
 v
+254480	s
+o
+v
+254484	s
+o
+v
+s
+254489	v
+o
+v
+o
+io
+254495	o
+io
+254498	o
+io
+254502	apposition
 apposition
-254498	v
-254501	v
-p
+254506	o
+apposition
+254513	s
+254516	p
+adv
 vc
+254520	s
+254523	p
 adv
-254506	s
 v
-254510	adv
-254513	v
-v
+254527	o
+254529	aux
+adv
+p
 s
-254517	adv
-v
-o
-254522	s
 adv
-v
-o
-254527	s
-254529	v
 adv
-254533	v
-254535	v
+p
 s
-v
-s
-254540	adv
-v
-s
-254544	s
-v
-o
-254549	s
 adv
+p
+s
+254541	o
+254544	v
+s
+254547	v
 o
-v
-io
-adv
-254556	o
-v
+254550	o
+254553	v
+s
+254556	v
+o
 254559	o
+254565	v
 v
-adv
-adv
-v
-o
-io
-254567	v
-254569	adv
-254573	s
-p
-adv
-254577	v
 s
-p
+adv
+v
+254571	v
+v
+254574	adv
+v
+s
+adv
+254579	adv
+254581	s
 vc
-adv
 p
-254585	adv
-s
-254588	v
+254585	s
+vc
+p
 adv
 adv
+254595	v
 v
 adv
-adv
-254595	o
 v
-adv
 s
 v
 adv
+aux
 v
-254603	s
-254607	vc
-s
-254611	p
-254614	p
+adv
+adv
+254609	v
+io
+o
+254614	adv
+254616	v
+o
+v
+adv
 254621	adv
-v
 o
-p
-adv
-254627	p
-adv
-254631	o
-254634	v
-254639	apposition
-254641	adv
-adv
-v
-o
-254647	s
-254649	p
-254651	p
-adv
-254654	adv
-v
-p
-adv
-v
-o
-254661	v
-o
-254664	adv
+254626	v
 s
-254667	v
-s
-o
-o
-v
-adv
-v
-adv
-254676	p
-adv
-v
-o
-adv
-o
-v
-254686	v
-254688	v
-v
-254691	adv
 p
-s
-254695	s
+254635	vc
 adv
-p
-p
+254638	s
+254644	p
+254654	s
+254656	p
 vc
-v
-254702	s
-apposition
-o
-o
-254708	v
-254710	adv
-o
-v
-s
-o
-v
+254663	o
+254665	v
 adv
-254718	adv
+254668	o
+254670	adv
+254680	v
+254682	v
+254687	v
+o
+v
 s
+adv
+254693	adv
+254695	o
+s
+254701	v
+254704	v
+adv
+o
+254709	v
+254712	v
+o
+s
+adv
+v
+254718	s
+adv
+v
 254722	adv
+254724	adv
+v
 o
 v
-254727	v
 s
-254730	v
+v
 o
-v
-adv
+io
+254733	v
 s
-254736	v
 adv
-254740	v
-254742	adv
-254750	o
+254737	s
+254739	o
 v
-254753	s
-254760	v
+o
+254745	s
+254747	v
+o
+254751	adv
+s
+254756	apposition
+254758	adv
+o
+254762	s
+v
+254765	adv
+s
+254770	s
+254772	o
+254775	v
+254777	o
+254779	apposition
+254783	v
+adv
+254786	v
 io
 o
+adv
 v
-adv
-adv
-254768	adv
-adv
-254771	v
-o
-254779	apposition
-254782	v
-o
-254785	s
-254787	v
-o
-adv
-254792	v
-254794	s
-p
-vc
 adv
 254799	adv
+o
+v
+s
+254804	adv
 v
 o
-254804	s
-254806	adv
+254810	p
+254812	adv
+vc
+254815	adv
 v
-o
-254810	v
-o
+v
+254819	adv
+v
+s
+254823	v
 adv
+o
+s
+254828	adv
+v
+s
+254832	v
+o
+s
 v
 o
-adv
-254817	io
-254819	v
-254821	adv
+s
+254839	o
 v
-v
+s
 aux
-adv
-254830	adv
-v
-aux
-254834	o
-254836	v
 o
-s
-254841	adv
-s
 v
 v
-s
-254849	apposition
-254851	v
+io
+adv
+254850	adv
+254856	o2
+o
 v
 adv
-adv
-s
-v
-s
-254861	v
 o
 adv
-254866	adv
-v
+254863	v
+254865	adv
+adv
 adv
 v
-s
 adv
-254873	adv
-254876	v
-254878	aux
+254871	p
+vc
+254875	p
 s
+254878	p
+vc
 254881	adv
-254883	s
+v
+254886	v
+s
+s
+254890	vc
+p
+s
+254894	s
+p
 p
 vc
-adv
-v
-adv
-254890	v
-o
-v
-adv
-254895	v
-io
-adv
-254899	v
-o
-adv
-254904	v
-io
-adv
-254908	adv
-vc
+p
+254900	vc
 s
 p
-254913	adv
-254915	v
-o
-254920	vc
-s
-254924	p
-v
-adv
-254928	v
-254930	o
-254935	apposition
-254940	v
-o
-v
-o
-adv
-v
+254904	vc
 s
 adv
+v
+io
+254910	s
+v
+s
+v
+s
+v
+254917	s
+v
+254923	v
+vc
+p
+254927	v
+254929	s
+254931	v
+s
+v
+254936	v
+p
+vc
+s
+254941	o
+254943	v
 adv
-254950	adv
-254952	adv
-254961	s
+254947	p
+254949	vc
+p
+254953	vc
 adv
+254959	v
+io
+adv
+254964	o
+v
+s
 254968	v
-o
-254972	adv
-254974	v
-v
+s
+254971	v
 adv
+v
+o
+254976	s
+v
+v
 adv
 v
 s
-254982	adv
-254984	v
-254987	v
+vc
+p
+254986	s
+v
+adv
+254990	o
+254992	s
+254994	p
+vc
+s
+254998	v
+255001	adv
+v
+255004	s
+255006	p
+vc
+s
 o
 v
-io
-adv
-v
-adv
-254995	s
-adv
-v
-v
-255000	adv
-v
-adv
-v
-adv
-255006	adv
-255008	adv
+255012	s
+255014	v
 o
 v
-adv
-255014	o
-255016	v
+o
 v
-adv
-adv
+255020	s
 255022	v
-adv
-255025	v
+v
+255025	s
 255027	v
-o
-v
-o
-255032	adv
-v
 adv
-255036	adv
-adv
+255031	adv
 adv
 v
-adv
-255042	v
-adv
-v
-o
-v
-255048	s
-255050	o
-v
-adv
-255057	apposition
-255059	v
-255062	p
+255035	p
 vc
-adv
-255067	adv
-255069	v
+255038	s
+255041	adv
+v
+255044	s
+o
+255048	v
+v
+o
 s
-v
-adv
-adv
-255075	v
-o
-adv
-o
-255080	v
-255082	v
-io
-o
-255086	v
-adv
-adv
-v
-255092	v
-adv
-adv
-255097	v
-v
-255100	s
-aux
-adv
-255107	apposition
-255113	v
-adv
-adv
-255117	adv
-adv
-255121	v
-adv
-255124	v
-255128	s
-255131	apposition
-255133	p
-adv
+s
+255056	p
 vc
-255137	adv
-v
-adv
-adv
-255142	v
-adv
-s
-255148	p
-255150	aux
-255152	v
-255154	io
-o
-apposition
-255158	vc
 p
-255162	apposition
+vc
+s
+s
+o
+v
+255065	s
+v
+p
+vc
+adv
+adv
+255073	p
+vc
+255076	vc
+p
+s
+255083	p
+adv
+255086	vc
+v
+255089	v
+o
+adv
+255095	adv
+s
+v
+o
+255102	vc
+p
+255105	s
+v
+adv
+s
+255110	p
+vc
+s
+255120	v
+255122	v
+p
+255125	s
+255127	p
+s
+255130	p
+adv
+o
+v
+s
+255136	o
+255141	adv
+adv
+v
+adv
+255147	o
+s
+v
+adv
+255152	p
+vc
+255155	adv
+255157	v
+255162	adv
+o
+v
 255166	o
+255168	adv
 v
+255171	adv
 adv
+v
+255175	v
+o
+p
+vc
+255180	adv
 adv
-255172	v
-adv
-adv
-255176	adv
 o
 v
+255185	v
+s
+s
+v
+255190	v
+o
+255195	v
+o
+255200	adv
+s
+v
+adv
+adv
+255206	o
+255208	aux
+v
+adv
+255213	adv
+255215	adv
+v
+adv
+adv
+s
+v
+255222	adv
+s
+adv
+255226	v
+adv
+255229	s
+255231	o
+v
+255234	v
+o
+adv
+v
+255240	adv
+v
+adv
+v
+255245	adv
+v
+adv
+v
+adv
+v
+adv
+v
+255254	v
+v
+255257	s
+adv
+v
+v
+255262	s
+o
 apposition
-s
-255182	p
-255184	vc
-255187	v
-o
-255194	apposition
-255199	s
 adv
-255203	o
-255205	v
-o
+v
+adv
+255270	p
+vc
+adv
+255276	s
+p
+adv
 s
-255209	v
-255221	v
+255281	p
+adv
+s
+p
+s
+255287	p
+s
+p
+s
+255292	p
+adv
+255296	v
+255303	v
+v
+adv
+255307	v
+v
+v
+v
+v
+v
+p
+255318	vc
+apposition
+adv
+adv
+v
 o
-255224	apposition
-255226	s
+v
+o
+255327	adv
+255331	v
+255334	o
+v
+adv
+255338	adv
+o
+adv
+255343	adv
+255345	s
+o
+v
+v
+255350	o
+p
+vc
+adv
+255355	v
+io
+s
 vc
 p
-255232	v
-o
-s
+255364	s
 o
 v
+o2
+255370	apposition
+255374	adv
 adv
-v
-o
-255244	apposition
-255249	s
-vc
-p
-adv
-255254	s
-p
-255257	vc
-adv
-v
-o
-apposition
-255265	v
-o
-255268	apposition
-255274	apposition
-255276	v
-o
-apposition
-255281	v
-o
-255285	v
-o
-apposition
-255289	v
-o
-255294	vc
-p
-v
-o
-255300	v
-adv
-v
-o
-255305	apposition
-s
-o
-v
-adv
-v
-o
-255313	apposition
-255321	v
-o
-255328	v
-o
-255344	v
-o
-adv
-255348	v
-o
-s
-255354	v
-255356	s
-aux
-v
-o
-255363	adv
-255366	o
-s
-v
-v
-255371	v
-adv
-255374	s
-255376	o
+255377	v
 255379	adv
 v
-255382	o
-255385	adv
-255389	v
+255382	s
+adv
+v
+s
+v
+255388	adv
+adv
+255391	s
+v
+255394	v
 o
-255393	s
-255396	adv
+255398	v
+255403	p
+s
+255408	p
+o
 v
 adv
-255400	v
 v
-255403	o
+adv
+255415	adv
+255419	adv
+v
+adv
 s
+255425	s
+adv
 p
-vc
-adv
-255409	p
-255411	adv
-255413	s
-255417	v
-o
-adv
-255422	adv
+255430	o
 s
-255428	p
+255433	v
+255435	s
 v
-o
-s
-255433	apposition
-255439	apposition
-255441	v
-o
-s
-apposition
-v
-o
+255438	adv
 adv
 v
-o
+255442	v
+adv
+255445	o
+255447	v
 s
-apposition
-255457	v
-o
-s
-255461	apposition
-255466	apposition
-aux
-255469	v
+adv
+255451	v
+adv
+v
+255455	adv
+adv
+v
+255459	v
+adv
 o
 v
 adv
-255480	adv
-255484	adv
+255468	v
+s
+255473	adv
+255479	v
+o
+io
+adv
+255486	s
 v
-v
-255488	adv
 adv
 255492	adv
+p
+s
 255496	adv
-255498	adv
-255501	v
-apposition
-255504	adv
-255506	io
-s
-adv
-255512	aux
-s
-255515	apposition
-255523	apposition
-io
-255530	vc
+v
+255499	s
+o
+255502	v
+v
+o
+255507	vc
 p
+255510	vc
+p
+s
+255517	v
+255519	v
+adv
+255533	v
+io
+adv
+255537	adv
 v
 adv
-255535	apposition
-255539	v
-o
-255545	apposition
 adv
-255548	p
-255550	s
-io
+adv
+255551	v
 255553	adv
-255556	apposition
-255559	apposition
-v
-o
+255555	v
 adv
-adv
-adv
-255569	v
+255558	v
 io
 adv
-255574	adv
 v
-adv
-adv
-255583	s
-255586	v
-adv
-255589	s
-adv
-v
-adv
-255594	v
-o
-255602	s
-adv
-v
-o
-adv
-o2
-adv
-255614	apposition
+255563	s
 p
+vc
+vc
+p
+255573	adv
+adv
+v
+p
+255578	adv
+o
+v
+o
 s
-255618	adv
+v
+o
+255586	s
+v
+v
+o
+adv
+255592	v
+s
+o
 v
 adv
-255625	apposition
-255627	apposition
-255629	v
-255631	o
-aux
+255598	o
+v
 adv
-255639	apposition
-255641	o
+255603	adv
+adv
+255607	adv
+v
+255610	s
+o
+v
+255615	adv
 v
 s
-255646	adv
+p
+vc
+adv
+adv
+v
+255624	o
+v
+o
+o
+255630	v
+v
+adv
+255634	o
+v
+adv
+io
+v
+adv
 vc
 p
 s
+s
 v
-255652	adv
-255660	v
-255662	io
+v
 adv
-aux
+255651	s
 adv
-255668	s
+v
+255655	adv
+adv
+adv
+255660	adv
 p
+adv
 vc
+255665	o
 v
-255673	o
-s
+adv
+adv
+adv
+adv
 v
+adv
+adv
+adv
+v
+255677	s
+v
+255681	adv
 o
+255684	adv
+v
+255687	s
+o
+adv
+v
+adv
+v
 s
-255679	vc
+255701	o
+v
+255704	p
+s
+vc
+255708	v
+255710	v
+255712	v
+adv
+255719	apposition
+255726	s
+adv
+v
+255730	adv
+s
+v
+s
+adv
+v
+255737	adv
+s
+v
+adv
+255742	s
+p
+255745	s
 p
 s
-255683	p
-s
-255686	p
-s
-255689	p
-v
-s
-s
-v
-adv
-255696	adv
-255699	v
-v
-255704	o
-v
-255707	adv
-o
-255711	adv
-s
-v
-255715	adv
-255718	v
-v
-255721	o
-255724	adv
-adv
-v
-o
-v
-adv
-255731	v
-o
-s
-v
-255736	v
-adv
-adv
-255741	adv
-v
-s
-255746	s
-255749	apposition
+255749	o
 255752	v
+255754	s
+255756	p
+255761	s
+p
+s
+255765	v
+255767	o
+v
+255770	o
+v
+adv
+255775	adv
+v
+255778	s
+255780	p
+vc
+v
+255784	o
+255787	v
+o
+adv
+v
+255792	adv
+v
+255795	v
+io
 p
 vc
-adv
-255757	v
+vc
+255801	v
+s
+p
+255806	v
+io
 p
 vc
 v
-255762	o
-v
 o
-255768	o
-255771	v
-p
+s
+o
+v
 s
 p
-s
-p
-s
-255780	v
-s
-o
-255789	adv
-255793	adv
-v
-s
-adv
-255798	o
-v
-s
-adv
-255805	v
-v
-255810	s
-o
-v
-255814	s
-o
-v
-255818	s
+255818	vc
 255820	v
-o
-v
-o
-io
-255826	o
-io
-255829	o
-io
-255833	apposition
-apposition
-255837	o
-apposition
-255844	s
-255847	p
 adv
-vc
-255851	s
-255854	p
+255824	v
+255826	adv
+v
+255829	s
+255831	p
+255836	vc
 adv
 v
-255858	o
-255860	aux
-255862	adv
-p
-s
 adv
-adv
-p
-s
-adv
-p
-s
-255874	o
-255877	v
-s
-255880	v
-o
-255883	o
-255886	v
-s
-255889	v
-o
-255892	o
-255898	v
-v
-s
-adv
-v
-255904	v
-v
-255907	adv
-v
-s
-adv
-255912	adv
-255914	s
+255841	adv
 vc
 p
-255919	s
-vc
+v
+255846	adv
+v
+o
+adv
+255852	adv
+255854	o
+v
 p
 adv
+o
 adv
-255929	v
+v
+adv
+255864	s
+o
+255867	v
+255869	s
+o
+255872	v
+io
+s
+o
+v
+adv
+255879	s
+255881	io
+s
+adv
+255885	adv
+v
+255888	s
+255890	s
+255892	adv
+255894	adv
+v
+255897	s
+adv
+v
+o
+255902	adv
+adv
+255906	v
+adv
+255909	adv
+p
+255912	vc
+255914	adv
+v
+o
+s
+adv
+255921	o
+255923	v
+adv
+adv
+adv
+v
+255929	s
+vc
+p
+255935	s
+o
+v
+adv
+s
+255941	adv
+s
+255944	adv
+v
+255947	io
+255951	p
+adv
+255954	v
+adv
+255959	adv
+v
+v
+255963	p
+255965	vc
+v
+255968	v
+255970	v
+v
+s
+255975	o
+255977	s
+adv
+adv
+v
+255983	adv
+v
+vc
+p
+255988	adv
+v
+255991	s
+o
+adv
+v
+io
+255997	v
+s
+256003	s
+o
+v
+256007	s
+v
+v
+adv
+adv
+v
+o
+256015	s
+v
+o
+256019	s
+v
+v
+adv
+adv
+v
+o
+v
+256028	s
+256031	adv
+256034	v
+s
+256038	adv
+256043	s
+256045	p
+vc
+adv
+256049	p
+vc
+256053	s
+v
 v
 adv
 v
 s
-v
-adv
+256062	adv
+256064	adv
+256066	v
+o
+s
+o
+256071	v
 aux
-v
-adv
-adv
-255943	v
-io
-o
-255948	adv
-255950	v
 o
 v
-adv
-255955	adv
-o
-255960	v
-s
-p
-255969	vc
-adv
-255972	s
-255978	p
-255988	s
-255990	p
-vc
-255997	o
-255999	v
-adv
-256002	o
-256004	adv
-256014	v
-256016	v
-o
-256023	v
+256076	o
+v
+aux
 o
 v
+256082	io
+256084	v
 s
-adv
-256029	adv
-256031	o
-s
-256037	v
-256041	v
-adv
 o
-256046	v
-256049	v
-o
+256088	v
 s
 adv
 v
-256055	s
+256093	adv
+adv
+256097	v
+v
+s
+v
 adv
 v
-256059	adv
-256061	adv
+adv
 v
-o
-v
-s
-v
-o
-io
-256070	v
 s
 adv
-256075	s
-256077	o
 v
-o
-256083	s
-256085	v
-o
-256089	adv
-s
-256094	apposition
-256096	adv
-o
-256100	s
-v
-256103	adv
-s
 256109	s
-256111	o
-256114	v
-256116	o
-256118	apposition
-256122	v
-o
-adv
-256126	v
-io
-o
-adv
-v
-adv
-256139	adv
-o
-v
-s
-256144	adv
-v
-o
-256150	p
-256152	adv
+p
 vc
-256155	adv
-v
-v
-256159	adv
-v
-s
-256163	v
+256113	s
+p
+vc
+256117	s
+256119	s
 adv
-o
-s
-256168	adv
+256122	adv
+v
+adv
+v
+p
+v
+adv
+adv
+v
+256133	adv
+v
+p
+vc
+adv
 v
 s
-256172	v
-o
-s
+256142	adv
 v
-o
+p
+vc
 s
-256179	o
+256148	v
+p
+vc
+adv
 v
+adv
+vc
+p
 s
+adv
+v
 aux
+adv
+v
+adv
+adv
+256166	o
+adv
+v
 o
-v
-v
-io
+256171	v
 adv
-256190	adv
-256198	o2
-o
-v
+256174	v
 adv
-o
-adv
-256205	v
-256208	adv
-adv
-adv
-v
-adv
-256214	p
-vc
-256219	p
-s
-256222	p
-vc
-256225	adv
-v
-256231	v
-s
-s
-256235	vc
-p
-o
-s
-256240	s
-p
 p
 vc
+v
+256180	s
 p
-256246	vc
-s
-p
-256250	vc
-s
+vc
+adv
+256186	v
 p
 adv
+p
+vc
 v
-io
-256257	s
+adv
+adv
+v
+o
+v
+adv
+adv
+v
+o
+256203	adv
+v
+adv
+v
+256209	v
+s
+adv
+v
+o
+256215	adv
+v
+s
+s
+256220	o
+v
+o
+256224	v
+aux
+s
+v
+adv
+256230	s
+v
+o
+256234	adv
+v
+vc
+256238	v
+256240	adv
+v
+256243	v
+256245	adv
+v
+256248	v
+256250	adv
+v
+256253	v
+o
+256256	adv
+v
 v
 256260	s
-v
-s
-v
-256265	s
-v
-256271	v
-vc
-p
-256275	v
-256277	s
-256279	v
-s
-v
-256284	v
+256264	v
+256266	s
 p
 vc
 s
-256289	o
-256291	v
-adv
-256296	p
-256298	vc
+v
+o
+256273	adv
+v
+o
+256277	v
+v
+o
+256281	adv
+v
+o
+256285	v
+s
+256290	apposition
+256293	v
+o
+256297	vc
 p
-256302	vc
 adv
-256308	v
+256305	v
+v
+o
+256309	adv
+v
+o
+o
+256314	adv
+256318	v
+o
+256321	o
 io
+v
+256325	adv
+256328	adv
 adv
-256313	o
-v
-s
-256317	v
-256319	s
-256321	v
-adv
-v
-o
-256326	s
-v
+apposition
+256333	s
 v
 adv
-256331	v
-s
-vc
+256338	v
+256340	vc
 p
-256339	s
+256343	adv
+v
+v
+o
+v
 v
 adv
-256343	o
-256345	s
-256347	p
-vc
-s
-256351	v
-256354	adv
 v
-256357	o
-s
-256360	p
-vc
-s
-o
 v
-256366	s
-256369	v
-o
+s
+256354	v
+adv
+256358	adv
+adv
 v
 o
+256363	o
+256365	v
+adv
+256370	o
 v
-256375	s
-256377	v
+adv
+256375	v
+o
+256378	adv
 v
-256380	s
 256382	v
-adv
-256386	adv
-adv
-v
-256390	p
-vc
-256393	s
-256396	adv
-v
-256399	s
 o
-256403	v
+256385	adv
+v
+256388	adv
 v
 o
+v
 s
+v
+adv
+adv
+v
 s
-256411	p
-vc
+256401	v
+s
 p
 vc
-s
-s
 o
 v
-256422	s
+v
+adv
+adv
+p
+256412	vc
+256414	adv
+v
+adv
+256419	v
+256421	s
+o
+v
+adv
+256427	v
+256429	s
+o
+v
+s
+v
+s
+256436	v
+256438	s
+v
+v
+o
+adv
+v
+256445	v
+v
+256449	s
+v
+o
+s
+v
+adv
+adv
+256460	v
+o
+256463	p
+s
+adv
+256468	p
+s
+256471	adv
+p
+adv
+256476	vc
+s
 v
 p
-vc
-adv
-adv
-256430	p
-vc
-256433	vc
+256486	vc
+s
+p
+256490	s
+p
+256494	adv
+p
+256497	apposition
 p
 s
-256440	p
-adv
-256443	vc
-v
-256446	v
-o
-adv
-256453	adv
-s
-v
-o
-256460	vc
+256501	s
 p
-256463	s
-v
-adv
-256467	s
-256469	p
-vc
-s
-256479	v
-256481	v
+256504	p
+256506	apposition
 p
-256484	s
-256486	p
 s
-256489	p
-adv
-o
-v
-s
-256495	o
-256500	adv
-adv
-v
-adv
-256506	o
-s
-v
-adv
-256511	p
-vc
-256514	adv
-256516	v
-256521	adv
-o
-v
-256525	o
-256527	adv
-v
-256530	adv
-adv
-v
-256534	v
-o
+256510	s
 p
+256513	adv
+p
+s
+256517	s
+256519	p
+adv
+adv
+256523	o
+v
+256526	s
+256528	p
 vc
+v
+s
+256533	o
+adv
+v
+io
 256539	adv
-adv
-o
+v
 v
 256544	v
-s
-256547	s
 v
-256550	v
-o
-256555	v
-o
-256560	adv
-s
 v
+256549	s
+256552	p
+vc
 adv
-adv
-256567	o
-256569	aux
+256557	s
 v
-adv
-256574	adv
-256576	adv
-v
-adv
-adv
 s
 v
-256583	adv
-s
-adv
-256587	v
-adv
-256590	s
-256592	o
-v
-o
-256596	v
 o
 adv
 v
+s
+256566	p
+vc
+v
+adv
+o
+v
+v
+256574	s
+v
+adv
+256579	apposition
+adv
+s
+v
+adv
+adv
+256586	v
+adv
+256590	v
+o
+256594	v
+adv
+v
+256599	s
+v
+o
 256603	adv
 v
+o
 adv
-v
-256608	adv
-v
-adv
-v
-adv
-v
-adv
-v
-256617	v
-v
-256620	s
-adv
-v
-v
-256625	s
+256609	adv
+o
+256612	v
+vc
+p
+vc
+p
 o
 apposition
-adv
-v
-adv
-256633	p
+256620	v
+p
+256623	s
 vc
 adv
+256627	adv
+adv
+vc
+p
+256632	adv
+vc
+p
 256639	s
-p
-adv
-s
-256644	p
-adv
-s
-p
-s
-256650	p
-s
-p
-s
-256655	p
-adv
-256659	v
-256666	v
-v
-adv
-256671	v
-v
-v
-v
-v
-v
-p
-256682	vc
-apposition
-adv
-256686	adv
-v
-o
-v
-o
-256692	adv
-256696	v
-256700	o
-v
-adv
-256704	adv
-o
-adv
-256709	adv
-256711	s
-o
-v
-v
-256716	o
-p
 vc
 adv
-256721	v
+s
+256644	o
+v
+vc
+p
+adv
+v
+o
+v
+256653	adv
+v
+o
+o
+v
+256659	s
+256669	adv
+s
+256672	adv
+v
+o
+adv
+v
+s
+v
+adv
+adv
+s
+v
+o
+256685	o
+256687	adv
+v
+256690	s
+v
+o
+256694	adv
+256698	adv
+v
+adv
+o
+v
+256704	s
+256706	o
+adv
+v
+adv
+256713	v
+adv
+v
+o
+v
+adv
+v
+adv
+256722	adv
+adv
+v
+adv
+256727	v
+256730	v
+adv
+v
+v
+256735	v
+adv
+v
+256739	s
 io
 o
-256725	s
-vc
+v
 p
-256732	s
+256745	s
 o
-v
-o2
-256738	apposition
-256742	adv
-adv
-256745	v
-256747	adv
-v
+256748	v
 256750	s
+o
+256753	v
 adv
-v
 s
-256755	v
 256757	adv
-adv
-256760	s
 v
-256763	v
 o
-256767	v
-256772	p
-s
-256777	p
+256762	o
+v
+256765	adv
 o
 v
+io
+256771	adv
+v
+256774	o
+v
+o
+256779	v
 adv
 v
 adv
-256784	adv
-256788	adv
 v
 adv
 s
-256796	s
+256787	v
+o
+v
 adv
-p
+256792	v
+s
+256795	adv
+v
+o
+adv
+v
 256801	o
-s
-256804	v
-256806	s
+256803	adv
 v
+adv
+256807	p
 256809	adv
 adv
 v
-256813	v
-adv
-256816	o
-256818	v
-s
-adv
-256822	v
-adv
+256813	o
+256815	s
 v
+256819	v
+adv
+vc
+p
+s
+s
 256826	adv
-adv
 v
-256830	v
-adv
+s
+256830	p
+vc
+256833	adv
+v
+256837	adv
 o
 v
-adv
-256839	v
-s
+o
+v
 256844	adv
-256850	v
 o
+v
+p
+256849	s
+vc
+256853	v
+adv
+v
+o
+adv
+adv
+v
+o
+256862	adv
+256864	p
+256866	vc
+adv
 io
-adv
-256857	s
-v
-adv
-256863	adv
-p
-s
-256867	adv
-v
-256870	s
 o
-256873	v
 v
-o
-256878	vc
-p
-256881	vc
-p
-s
-256888	v
-256890	v
+256872	o
+v
+256875	vc
 adv
+p
+256880	o
+v
+adv
+256884	p
+256887	adv
+vc
+s
+p
+256892	o
+256894	v
+adv
+p
+256898	adv
+vc
+p
+256902	p
 256904	v
-io
-adv
-256908	o
-adv
-v
-adv
-adv
-adv
-256923	v
-256925	adv
-256927	v
-adv
-256930	v
-io
 o
-256934	adv
-v
-256937	s
-p
 vc
+adv
+p
+256910	o
+v
+adv
 vc
 p
-256947	adv
+256916	adv
+o
+v
+o
+256921	v
+adv
+256925	p
+vc
 adv
 v
-p
-256952	adv
-o
+256930	adv
 v
-o
 s
-v
-o
-256960	s
-v
-v
-o
-adv
-256966	v
+256934	v
 s
+256937	v
+o
+adv
+v
+256942	v
+s
+256945	v
+adv
+v
+s
+256952	o
+v
+s
+256956	o
+s
+256959	adv
+v
+256962	adv
+adv
+adv
+v
+256967	adv
 o
 v
-adv
-256972	o
-v
-adv
-256977	adv
-adv
-256981	adv
-v
-256984	s
+256971	v
 o
-v
-256989	adv
+256975	v
+256977	io
 v
 s
 p
 vc
 adv
+v
+256985	s
+v
+aux
+256990	s
+256993	p
+256995	vc
+256997	s
 adv
-v
-256998	o
-v
+257000	v
+257002	s
+adv
+257005	v
+adv
+257014	s
 o
+257018	v
+257020	s
 o
-257004	v
+257024	v
 v
-adv
-257008	o
-v
-adv
-io
-v
-adv
-vc
-p
+257027	adv
+257030	v
 s
-257018	s
-v
-v
-adv
-257026	s
-adv
-v
-257030	adv
-adv
-adv
-257035	adv
+257033	vc
 p
+257036	adv
+adv
+257040	v
+s
+v
+257044	adv
+257046	s
+257048	p
+vc
+adv
 adv
 vc
-257040	o
+s
+p
+257056	s
 v
-adv
-adv
-adv
-adv
-v
-adv
-adv
-adv
-v
-257052	s
-v
-257056	adv
-o
-257059	adv
-v
+257059	p
+vc
 257062	s
+257064	v
+o
+v
+s
+v
+257071	v
+v
+257074	v
+257077	s
+v
+257080	v
+adv
+s
+257084	v
+o
+257088	s
+v
+257091	adv
+257093	v
+257095	v
+257098	s
+v
+257101	v
+adv
+257104	s
+257106	adv
+v
+adv
+v
+257111	adv
+257113	adv
+s
+257117	v
+257119	v
+v
+v
+257123	v
+s
 o
 adv
 v
-adv
+257129	adv
+s
+p
+257133	s
+s
+v
 v
 s
-257076	o
 v
-257079	p
+adv
+o
+v
+257143	v
+adv
+257146	o
+257148	v
+v
+257151	aux
+v
+adv
+257156	io
+v
+v
+s
+o
+v
+s
+257165	o
+v
+adv
+p
+vc
+257173	s
+o
+v
+adv
+p
+257181	vc
+257183	p
+s
+p
 s
 vc
-257083	v
-257085	v
-257087	v
-adv
-257094	apposition
-257101	s
-adv
-v
-257105	adv
 s
+257190	adv
+257193	v
 v
-s
-adv
-v
-257112	adv
-s
-v
-adv
-257117	s
-p
-257120	s
-p
-s
-257124	o
-257127	v
-257129	s
-257131	p
-257136	s
-p
-s
-257140	v
-257142	o
-v
-257145	o
-v
-adv
-257150	adv
-v
-257153	s
-257155	p
-vc
-v
-257159	o
-257162	v
 o
-adv
-v
-257167	adv
-v
-257170	v
-io
+257198	v
+o
+p
+257202	vc
+o
+257205	v
+257207	s
 p
 vc
-vc
-257176	v
-s
-p
-257181	v
-io
+257212	s
 p
 vc
-v
-o
-s
-257189	o
-v
-s
-p
-257194	vc
-257196	v
-adv
-257200	v
-257202	adv
-v
-257205	s
-257207	p
-257212	vc
-adv
-v
-adv
-257217	adv
-vc
-p
-v
-257222	adv
-v
-o
-adv
-257228	adv
-257230	o
-v
-p
-adv
-o
-adv
-v
-adv
-257240	s
-o
-257243	v
-257245	s
-o
-257248	v
-io
-s
-o
-v
-adv
-257255	s
-257257	io
-s
-adv
-257261	adv
-v
-257264	s
-257266	s
-257268	adv
-257270	adv
-v
-257273	s
-257276	adv
-v
-o
-257280	adv
-adv
-257284	v
-adv
-257287	adv
-p
-257290	vc
-257292	adv
-v
-o
-s
-adv
-257299	o
-257301	v
-adv
-adv
-adv
-v
-257307	s
-vc
-p
-257314	s
-o
-v
-adv
-s
-257320	adv
-s
-257323	adv
-v
-257326	io
-257330	o
-p
-adv
-257334	v
-adv
-257340	adv
-v
-v
-257344	p
-257346	vc
-v
-257349	v
-257351	v
-v
-s
-257356	o
-257358	s
-adv
-adv
-v
-257364	adv
-v
-vc
-p
-257369	adv
-v
-257372	s
-o
-adv
+257217	o
 v
 io
-257378	v
-s
-257385	s
-o
-v
-257389	s
-v
-v
+257222	v
 adv
+v
+257226	s
+p
+257229	vc
 adv
 v
 o
-257397	aux
-s
-v
 o
-257402	s
 v
-v
-adv
+257236	o
 adv
 v
 o
+o
 v
-257411	s
-257414	adv
-257417	v
-s
-257421	adv
-257426	s
-257428	p
+257243	o
+257245	v
+o
+p
+adv
 vc
-adv
-257432	p
-vc
-257436	s
+s
 v
-v
-adv
+257253	adv
+s
 v
 s
-257445	adv
-257447	adv
-257449	v
-o
+v
+257259	adv
+s
+v
 s
 o
-257454	v
-aux
+v
+257266	o
+257268	o
+adv
+v
+v
 o
 v
-257459	o
+adv
+257276	p
+257278	s
+257285	s
 v
-aux
+o
+257290	v
+v
 o
 v
-257467	io
-257469	v
-s
+io
+v
 o
-257473	v
-s
-adv
 v
-257478	adv
 adv
-257482	v
+257302	s
+io
 v
 s
-v
-adv
-v
-adv
-v
-s
-adv
-v
-257494	s
 p
 vc
-257498	s
+adv
+v
+adv
+257313	v
+257316	o
+257318	v
+apposition
+257324	adv
+257327	s
+257329	v
+adv
+257333	s
+adv
+v
+adv
+v
+adv
+adv
+s
+v
+257344	v
+257346	v
+257348	o
+v
+o
+adv
+257353	v
+p
+adv
+257357	vc
+257364	s
+adv
+o
+v
+o
+v
+257376	v
 p
 vc
-257502	s
-257504	s
+257380	s
+p
+v
+257384	o
+257387	adv
+o
+v
+257392	v
+io
+o
+v
+v
+257398	s
+v
+257402	p
+257405	s
+vc
+p
+257409	s
+p
+257413	s
+s
+v
+257417	adv
+v
+v
+o
+257422	s
+257424	v
+257426	adv
+257428	v
+o
+257431	p
+257433	vc
+257436	v
+257439	adv
+v
+s
 adv
+v
+257446	p
+adv
+v
+257450	v
+s
+257454	adv
+v
+v
+o
+p
+257461	vc
+s
+257464	p
+vc
+257468	vc
+s
+p
+257472	s
+p
+257477	v
+s
+adv
+257482	s
+adv
+257485	adv
+v
+s
+o
+v
+adv
+257492	adv
+257496	s
+p
+257499	s
+p
+adv
+257505	s
+p
 257508	adv
-v
-adv
-v
-p
-v
-adv
-adv
-v
-257520	adv
-v
-p
-vc
-adv
-v
 s
-257529	adv
+257511	p
+257513	s
+257515	p
+257517	adv
+257519	v
 v
-p
 vc
 s
-257535	v
-p
-vc
-adv
+io
 v
 adv
-vc
-p
 s
-adv
-v
-aux
-adv
-v
-adv
-adv
-257553	o
-adv
-v
+257528	v
 o
-257558	v
+257531	s
+257534	v
+p
 adv
-257561	v
+vc
+s
+257541	v
+p
 adv
+vc
+257546	s
+adv
+v
+io
+257552	s
+v
 p
 vc
-v
-257567	s
-p
-vc
-adv
-257573	v
-p
-adv
-p
-vc
-v
-adv
-adv
-v
+s
 o
-v
-adv
 adv
 v
-o
-257590	adv
-v
+257561	s
+257564	o
+257566	v
 adv
 v
-257596	v
+257570	adv
+257576	v
+257579	v
 s
 adv
 v
-o
-257602	adv
+s
+adv
 v
-s
-s
-257607	o
+257587	o
+v
+v
+257591	s
+p
+vc
+257595	s
+257597	p
+vc
+adv
+v
+257602	s
+adv
+257605	adv
 v
 o
-257611	v
-aux
+v
+257610	s
+257612	o
+257614	v
+adv
+v
+257619	s
+257621	v
 s
+257624	v
+257626	o
+adv
 v
 adv
-257617	s
+v
+257633	o
+257636	v
+257638	v
+adv
 v
 o
-257621	adv
 v
-vc
-257625	v
-257627	adv
+io
 v
-257630	v
-257632	adv
-v
-257635	v
-257637	adv
-v
-257640	v
 o
-257643	adv
+adv
+adv
 v
-v
-257647	s
+s
 257651	v
-257653	s
+adv
+257654	o
+adv
+v
+io
+s
+257660	adv
+257662	adv
+v
+v
+o
+257667	v
+v
+257670	v
+s
+p
+257674	vc
+257676	apposition
+257678	o
+v
+adv
+257683	o
+257685	adv
+v
+v
+s
+257690	p
+257692	vc
+adv
+257696	o
+v
+257699	v
+adv
+257705	v
+o
+257709	o
+v
+o
+257714	v
+adv
+adv
+v
+257719	s
+v
+v
+o
+257724	v
+o
+257728	adv
 p
 vc
-257657	s
-v
-o
-257661	adv
-v
-o
-257666	v
-v
-o
-257670	adv
-v
-o
-257674	v
-s
-257679	apposition
-257682	v
-o
-257686	vc
-p
 adv
-257695	v
-v
+257737	v
+257739	s
 o
-257699	adv
-v
-o
-o
-257704	adv
-257708	v
-o
-257711	o
-io
-v
-257715	adv
-257718	adv
+257743	adv
 adv
-apposition
-257724	s
-v
-adv
-257729	v
-257731	vc
-p
-257734	adv
-v
-v
-o
-v
-v
-257741	adv
-v
-v
-s
 257746	v
-adv
-257750	adv
-adv
+257748	adv
+257750	v
+257752	v
+257754	o
+io
+v
+257758	adv
 v
 o
-257755	o
-257757	v
 adv
-257762	o
-v
 adv
+s
+p
 257767	v
-o
-257770	adv
+s
+257771	o
 v
-257774	v
-o
+adv
+v
+v
 257777	adv
+257779	v
+257781	adv
+adv
+257784	v
+257786	aux
 v
-257780	adv
+adv
 v
 o
 v
-s
+257793	s
 v
 adv
+v
+257798	adv
+adv
+v
+o
+257804	v
+v
+adv
+257809	aux
 adv
 v
 s
-257793	v
-s
-p
+v
+v
+257817	p
 vc
-o
-v
-v
 adv
+257824	v
+v
+257827	v
+io
+257830	s
 adv
-257803	p
-257805	vc
-257807	adv
-v
-adv
-257812	v
-257814	s
-o
-v
-adv
-257820	v
-257822	s
-o
-v
-s
-v
-s
-257829	v
-257832	s
-v
-v
-o
-adv
-v
-257839	v
-v
-257844	s
-v
-o
-s
-v
-adv
-adv
-257855	v
-o
-257858	p
-s
-adv
-257863	p
-s
-257866	adv
-p
-adv
-257871	vc
-s
+257833	v
 v
 p
-257881	vc
 s
-p
-257885	s
-p
-257889	adv
+257838	s
+v
+v
 p
 s
-257893	apposition
-p
+257844	adv
+adv
+257847	s
+257849	v
 s
+257854	s
+v
+257857	s
+257860	s
+v
+s
+257866	v
+o
+adv
+io
+257871	v
+s
+257875	adv
+v
+io
+257880	adv
+257882	v
+s
+io
+257886	s
+adv
+257890	io
+s
+adv
+257895	io
 257897	s
-p
-257900	p
+adv
+257901	io
+257903	s
+io
+257906	s
+io
+257909	s
+io
 s
-257903	apposition
-p
-s
-257907	s
-p
-257910	adv
-p
-s
+io
 257914	s
-257916	p
-adv
-adv
-257920	o
-v
-257923	s
-257925	p
+o
+257917	v
+s
+257923	v
+io
+257926	v
+257931	s
+p
 vc
+257935	o
 v
 s
-257930	o
+257942	p
+vc
+p
+vc
 adv
+s
+257949	adv
+257953	s
+adv
+257956	v
+s
+257963	s
+o
+v
+s
+257969	p
+vc
+257974	v
+s
+257977	adv
+vc
+p
+adv
+vc
+p
+257984	adv
+adv
+vc
+p
+257991	v
+s
+257994	adv
+vc
+p
+adv
+vc
+p
+258001	adv
+adv
+vc
+p
+258007	s
+258009	p
+p
+s
+258013	s
+p
+p
+s
+adv
+258019	s
+v
+o
+258023	apposition
+258025	adv
+258028	v
+258031	vc
+s
+p
+p
+s
+adv
+258038	p
+258040	s
+p
+258043	s
+adv
+v
+258047	s
 v
 io
-257936	adv
-v
-v
-257941	v
-v
-257944	v
-257947	s
-257950	p
-vc
+o
 adv
-257956	s
 v
+258054	adv
 s
-v
+io
 o
 adv
 v
+258062	adv
 s
-257965	p
-vc
-v
-adv
-o
-v
-v
-257973	s
-v
-adv
-257978	apposition
-257980	adv
-s
-v
-adv
-adv
-257986	v
-adv
-257990	v
-o
-257994	v
-adv
-v
-257999	s
-v
-o
-258003	adv
-v
-o
-adv
-258009	adv
-o
-258012	v
+258065	v
+258068	p
 vc
 p
 vc
+258073	s
+v
 p
+vc
+258078	io
 o
-apposition
-258020	v
-p
-258023	s
-vc
-adv
-258027	adv
-adv
-vc
-p
-258032	adv
-vc
-p
-258039	s
-vc
-adv
+v
+258082	s
+258084	o
+v
 s
-258044	o
+258089	adv
+o
 v
+258093	s
+v
+o
+v
+o
+v
+258101	adv
 vc
-p
-adv
-v
-o
-v
-258053	adv
-v
-o
-o
-v
-258059	s
-258069	adv
 s
-258072	adv
-v
-o
+p
+258107	o
 adv
 v
 s
-v
-adv
-adv
-s
-v
-o
-258085	o
-258087	adv
-v
-258090	s
-v
-o
-258094	adv
-258098	adv
-v
-adv
-o
-v
-258104	s
-258106	o
-adv
-v
-adv
 258113	v
-adv
+s
 v
-o
+s
+258119	v
+s
 v
-adv
-v
-adv
-258122	adv
-adv
-v
-adv
-258127	v
-258130	v
-adv
-v
-v
-258135	v
-adv
-v
-258139	s
-io
-o
-v
+s
+258124	s
+258126	vc
 p
-258145	s
-o
-258148	v
-258151	s
-o
-258154	v
-adv
+258133	o
+v
 s
-258159	adv
-v
+adv
+258138	adv
 o
-258164	o
-v
-258167	adv
+adv
+o
+adv
+o
+adv
+o
+adv
+o
+258150	s
+p
+s
+p
+s
+p
+s
+p
+s
 o
 v
+s
+adv
+v
+s
+v
+v
+258168	o
+258172	adv
+258174	o
 io
-258173	adv
 v
-258177	o
+258179	adv
+258183	v
+258186	o
+258188	adv
 v
+vc
+p
+258193	v
+258196	v
+258201	v
 o
-258182	v
-adv
-v
-adv
-v
-adv
-s
-258190	v
+258204	v
 o
-v
-adv
-258195	v
-s
-258198	adv
-v
+258213	v
 o
-258202	adv
-v
-258205	o
-258207	adv
-v
-adv
-258211	p
-258213	adv
-adv
-v
 258217	o
-258219	s
-v
-258224	v
-adv
-vc
-p
-s
-s
-258231	adv
-v
-258234	s
-258236	p
-vc
-258239	adv
-v
-258243	adv
-o
 v
 o
-v
-258250	adv
-o
+258221	adv
 v
 p
-258255	s
 vc
-258259	v
+258226	apposition
+258229	v
+o
+258232	v
+258235	v
+o
+258239	v
+o
+258242	adv
+v
+o
+v
+s
+v
+v
+s
+adv
+v
+s
+adv
+v
+adv
+v
+adv
+v
 adv
 v
 o
 adv
+v
 adv
 v
 o
-258268	adv
-258270	p
-258272	vc
+258268	v
+adv
+258271	v
+258273	adv
+o
+v
+o
+v
+o
+v
+o
+v
+s
+adv
+v
+258287	s
+v
+258290	s
+v
+258293	s
+v
+adv
+258297	v
+258299	adv
+v
+258303	v
+s
+s
+258307	v
+258309	vc
+p
+v
+adv
+258314	v
+adv
+258317	v
+adv
+258321	vc
+p
+v
+o
+258326	v
+258328	adv
+adv
+adv
+adv
+258333	o
+adv
+adv
+v
+adv
+adv
+258340	v
+258342	adv
+v
+adv
+258346	v
+s
+258349	apposition
+258351	p
+258353	adv
+s
+258356	v
+o
+v
+258360	o
+adv
+258364	v
+258366	v
+adv
 adv
 io
+v
+258372	io
+258374	s
+258376	v
+io
+258379	v
 o
-v
-258278	o
-v
-258283	vc
-adv
-p
-258288	o
-v
-adv
-258292	p
-258295	adv
-vc
-s
-p
-258300	o
-258302	v
-adv
-p
-258306	adv
-vc
-p
-258310	p
-258312	v
-o
-vc
-adv
-p
-258318	o
-v
-adv
-vc
-p
-258324	adv
-o
-v
-o
-258329	v
-adv
-258333	p
-vc
-adv
-v
-258338	adv
-v
-s
-258342	v
-s
-258345	v
-o
-adv
-v
-258350	v
-258352	s
-258354	v
-adv
-v
-s
-258361	o
-v
-258364	s
-258366	o
-s
-258369	adv
-v
-258372	adv
-adv
-adv
-v
-258377	adv
-o
-v
 258382	v
-o
-258386	v
-258388	io
+io
 v
-s
+o
+258388	v
+adv
+o
+v
+258393	v
+o
+v
+v
+258398	s
+v
+adv
+adv
+258404	v
 p
-vc
+258407	v
+258409	v
+adv
+adv
+258413	adv
+v
+258416	s
+o
+v
+adv
+258421	aux
+258423	v
+adv
 adv
 v
-258396	s
+o2
+o
 v
+258431	adv
+io
+v
+adv
+258443	aux
+258445	o
+v
+s
+258451	o
+adv
+adv
+v
+adv
+v
+s
+v
+258460	v
+s
+258464	o
+v
+s
+v
+adv
+s
+adv
+258473	adv
+o
+v
+adv
+v
+v
+v
+258481	adv
+s
+258484	v
+258486	vc
+p
+258489	s
+p
+258493	adv
+v
+o
+258498	vc
+v
+p
+258502	v
+adv
+p
 aux
-258401	s
-258404	p
-258406	vc
-258408	s
-adv
-258411	v
-258413	s
-adv
-258416	v
-adv
-258425	s
-o
-258429	v
-258431	s
-o
-258435	v
-v
-258438	adv
-258441	v
-s
-258444	vc
-p
-258448	adv
-adv
-258452	v
-s
-v
-258456	adv
-258458	s
-258460	p
+258507	p
 vc
 adv
-adv
-vc
-s
-p
-258468	s
-v
-258473	p
-vc
-258476	s
-258478	v
-o
-v
-s
-v
-258485	v
-v
-258488	v
-258491	s
-v
-258494	v
-adv
-s
-258498	v
-o
-258502	s
-v
-258505	adv
-258507	v
-258509	v
-258512	s
-v
+258513	v
 258515	v
-adv
-258518	s
-258520	adv
-v
+258517	v
 adv
 v
-258525	adv
-258528	adv
+258521	v
+258524	v
+adv
 s
-258532	v
-258534	v
-v
-v
-258538	v
+258528	v
 s
-o
-adv
-v
-258544	adv
-s
-p
-258548	s
-258550	s
-v
-v
-s
-v
-adv
-o
-v
-258559	v
-adv
-258562	o
-258564	v
-v
-258567	aux
-v
-adv
-258572	io
-v
-v
-s
-o
-v
-s
-258582	o
-v
-adv
-p
+258532	p
 vc
-258590	s
-258592	o
+p
+258536	vc
 v
 adv
-p
-258599	vc
-258602	p
-s
-p
-s
-vc
-s
-258609	adv
-258612	v
+v
+258541	adv
+258543	v
+adv
+v
+258547	adv
+258551	v
+adv
 v
 o
+258557	adv
+v
+o
+adv
+258564	o
+v
+adv
+v
+s
+258571	adv
+v
+258574	s
+adv
+v
+v
+o
+adv
+adv
+adv
+v
+258584	adv
+v
+o
+adv
+258589	v
+258591	o
+v
+258594	o
+adv
+aux
+258598	p
+vc
+adv
+258602	adv
+v
+adv
+258606	p
+vc
+adv
+258610	v
+258612	adv
 258617	v
+io
+258621	adv
+adv
+v
 o
-p
-258621	vc
-o
-258624	v
-258626	s
+v
+s
+258628	s
 p
 vc
-258631	s
+adv
+v
+258635	s
+258637	adv
+258640	v
+258645	v
+s
+258648	adv
+258651	s
+v
+adv
+v
+258656	s
+258658	v
+258660	v
+258664	s
+v
+v
+258668	s
+258671	v
+adv
+v
+adv
+s
+258679	p
+vc
+258682	adv
+v
+adv
+v
+o
+v
+258689	adv
+s
 p
 vc
-258636	o
+p
+258695	vc
+aux
+258698	v
+s
+o
+v
+o
+v
+o
+v
+o
+v
+o
+v
+s
+p
+vc
+258714	adv
+s
+v
+adv
+258726	s
+v
+258730	adv
+v
+s
+v
+adv
+io
+258737	v
+258740	s
+258744	v
+258746	s
+v
+258750	io
+v
+v
+s
+v
+v
+258757	adv
+s
+v
+258762	s
+v
+258765	s
+v
+258768	s
+io
+v
+258773	vc
+p
+s
+258777	p
+258779	adv
+258784	s
+adv
+258787	v
+adv
+258790	v
+io
+v
+258794	v
+258796	s
+258798	v
+258801	o
+v
+v
+adv
+o
+258807	v
+p
+258810	vc
+adv
+v
+adv
+258815	adv
+s
+258819	v
+258821	adv
+adv
+v
+258825	s
+v
+p
+vc
+258830	v
+o
 v
 io
-258641	v
-adv
-v
-258645	s
-p
-258648	vc
-adv
-v
-o
-o
-v
-258655	o
-adv
-v
-o
-o
-v
-258662	o
-258664	v
-o
-p
-adv
+258835	p
 vc
-s
-v
-258672	adv
-s
-v
-s
-v
-258678	adv
-s
-v
-s
-o
-v
-258685	o
-258688	o
-adv
-v
-v
-o
-v
-adv
-258696	p
-258698	s
-258706	s
-v
-o
-258711	v
-v
-o
-v
-io
-v
-o
-v
-adv
-258724	s
-io
-v
-s
-p
-vc
-adv
-v
-adv
-258735	v
-258738	o
-258740	v
-apposition
-258746	adv
-258749	s
-258751	v
-adv
-258756	s
-adv
-v
-adv
-v
-adv
-adv
-s
-v
-258768	v
-258770	v
-258772	o
-v
-o
-adv
-258777	v
-p
-adv
-258781	vc
-258789	s
-adv
-o
-v
-o
-v
-258801	v
-p
-vc
-258805	s
-p
-v
-258809	o
-258812	adv
-o
-v
-258818	v
-io
-o
-v
-v
-258824	s
-v
-258828	p
-258831	s
-vc
-p
-258835	s
-p
 258839	s
-s
-v
-258843	adv
 v
 v
-o
-258848	s
-258850	v
-258852	adv
-258854	v
-o
-258857	p
-258859	vc
-258862	v
-258865	adv
+258843	aux
 v
-s
+v
+258847	v
 adv
 v
-258872	p
+adv
+s
+258853	adv
+258856	v
+v
+258859	io
+aux
+o
+o
+v
+io
+o
 adv
 v
-258876	v
-s
+adv
+adv
+v
+adv
+adv
+v
+adv
+v
+io
+258878	v
 258880	adv
+adv
 v
+v
+258885	io
+adv
+o
+adv
 v
 o
-p
-258887	vc
 s
-258890	p
-vc
-258894	vc
-s
-p
-258898	s
-p
-258903	v
-s
-adv
-258908	s
-adv
-258911	adv
-v
-s
-o
 v
 adv
-258918	adv
-258922	s
-p
-258925	s
-p
+258896	adv
+258899	v
+258901	v
 adv
-258931	s
-p
-258934	adv
-s
-258937	p
-258939	s
-258941	p
-258943	adv
-258945	v
-v
-vc
-s
+258905	adv
+258908	v
 io
+adv
+io
+adv
 v
-258952	adv
-s
-258955	v
-o
-258958	s
-258961	v
-p
 adv
-vc
-s
-258968	v
-p
+258916	adv
 adv
-vc
-258973	s
+s
+v
+adv
+s
+258923	v
 adv
 v
 io
-258980	s
+adv
+io
+258930	adv
+258933	io
 v
+io
+s
+258938	vc
+p
+258942	s
+adv
+vc
 p
 vc
-s
+p
+258949	v
 o
+258954	adv
+258956	vc
+p
+vc
+258960	s
+258963	apposition
+258965	adv
+p
+vc
+258970	adv
 adv
 v
-258989	s
-258992	o
-258994	v
-adv
-v
-258998	adv
-259004	v
-259008	v
 s
+258981	s
+258985	adv
+v
+258988	adv
+v
+258992	s
+v
+258995	adv
+v
 adv
 v
 s
+259002	s
 adv
 v
-259016	o
+259007	s
+adv
 v
-259019	v
+adv
+s
+v
+259015	s
+adv
+v
+259019	p
 259021	s
+259023	p
+s
+259027	vc
+259029	p
+259033	v
+adv
+259037	v
+259039	o
+adv
+v
+259044	s
+adv
+v
+259049	s
+adv
+v
+adv
+s
+v
+259057	s
+adv
+v
 p
+s
+259063	adv
 vc
-259025	s
-259027	p
+p
+259069	s
+v
+adv
+v
+259074	adv
+259077	adv
+v
+adv
+p
+adv
 vc
 adv
-259032	v
-259034	s
-adv
-259037	adv
-v
-o
-v
-259042	s
-259044	o
-259046	v
-adv
-v
-259051	s
-259053	v
-s
-259056	v
-259058	o
-adv
+259085	s
 v
 adv
+apposition
 v
-259065	o
-259068	v
-259070	v
-adv
-v
-o
-v
-io
-v
-o
-adv
-adv
-v
-s
-259083	v
-adv
-259086	o
-adv
-v
-io
-s
-259092	adv
-259095	adv
-v
-v
-o
-259100	v
-v
-259103	v
-o
+259092	p
 s
 p
-259108	vc
-259110	apposition
-259112	o
+259096	s
+259099	adv
+259101	s
 v
 adv
-259117	o
+adv
+259107	s
+v
+s
+259111	adv
+259114	p
+s
+adv
+s
 259119	adv
+259122	adv
+s
+v
+o
+io
+259128	v
+o
+259135	v
+259137	s
+v
+adv
+adv
+v
+o
+259144	adv
+259147	s
+259149	v
+apposition
+o
+259153	v
+adv
+259159	v
+259161	s
+v
+p
+259165	adv
+v
+io
+o
+259171	v
+io
+s
+adv
+s
+259178	v
+v
+io
+o
+259183	vc
+s
+p
+adv
+259188	o
+v
+v
+adv
+259194	adv
+s
+adv
+v
+adv
+adv
+v
+adv
+adv
+s
+v
+adv
+adv
+v
+adv
+259211	aux
+o
+v
+adv
+259217	apposition
+259220	adv
+v
+adv
+p
+adv
+s
+259227	s
+adv
+v
+v
+259232	v
+adv
+259235	v
+adv
 v
 v
 o
 s
-259125	p
-259127	vc
-adv
-259131	o
 v
-259134	v
 adv
-259141	v
-o
-259145	o
+259244	adv
 v
 o
-259150	v
-adv
-adv
+259248	s
 v
-259155	s
-v
-v
-o
-259160	v
-o
-259164	adv
-p
-vc
 adv
-259173	v
-259175	s
-o
-259179	adv
-adv
-259182	v
-259184	adv
-259186	v
-259188	v
-259190	o
 io
 v
-259194	adv
-v
-o
-adv
-adv
+259254	v
 s
-p
-259203	v
-s
-259208	o
-v
-adv
-v
-v
-259214	adv
-259216	v
-259218	adv
-adv
-259221	v
-259223	aux
-v
-adv
-v
 o
-v
-259230	s
-v
-adv
-v
-259235	adv
-adv
-v
-o
-259241	v
-v
-adv
-259246	aux
 adv
 v
 s
-v
-v
-259255	p
-vc
 adv
 259262	v
-v
-259265	v
-io
-259268	s
-adv
-259271	v
-v
-p
+aux
 s
-259276	s
-v
-v
-p
-s
-259282	adv
-adv
-259285	s
-259287	v
-s
-259292	s
-v
-259295	s
-259298	s
-v
-s
-259304	v
 o
-adv
-io
-259309	v
-s
-259313	adv
 v
-io
-259318	adv
-259320	v
-s
-io
-259324	s
 adv
-259328	io
-s
-adv
-259333	io
-259335	s
-adv
-259339	io
-259341	s
+v
+259270	adv
+v
+259273	o
+v
+259276	o
+259278	v
+v
+259281	o
+259283	v
+o
+259288	s
+259290	v
 io
-259344	s
-io
-259347	s
-io
-s
-io
-259352	s
-259354	o
-259356	v
-s
-259362	v
-io
-259365	v
-259370	s
+o
+259294	v
+259296	io
+259298	o
+259300	s
 p
-vc
-259374	o
+259305	p
+259307	s
+p
+259310	s
+p
+259313	s
+p
+259316	s
+259318	s
+259323	p
+259325	s
+259328	p
+259330	s
+259332	p
+s
+259335	p
+s
+259338	p
+s
+s
+259342	adv
+v
+adv
+adv
+s
+259350	v
+adv
+v
+adv
+v
+adv
+v
+adv
+v
+adv
+v
+adv
 v
 s
-259381	p
-vc
-p
-vc
-adv
+v
 s
+259367	v
+s
+v
+s
+adv
+adv
+v
+v
+s
+259378	adv
+259380	v
+s
+259383	adv
+259385	v
 259388	adv
-259392	s
+s
+259391	s
 adv
-259395	v
 s
-259402	s
-o
-v
 s
-259408	p
-vc
+259396	adv
+p
+s
+259400	p
+p
+s
+p
+s
+259407	p
+s
+p
+s
 259414	v
-s
 o
-259418	adv
-vc
-p
-adv
-vc
-p
-259425	adv
-adv
-vc
-p
-259433	v
-s
+259418	v
 o
-259437	adv
-vc
-p
-adv
-vc
-p
-259444	adv
-adv
-vc
-p
-259450	s
-259452	p
-p
+259423	o
+259425	v
+aux
 s
-259456	s
-p
-p
-s
-adv
-259462	s
+259429	o
 v
-o
-259466	apposition
-259468	adv
-259471	v
-259474	vc
-s
-p
-p
-s
-adv
-259481	p
-259483	s
-p
-259486	s
 adv
 v
-259490	s
+259434	s
+o
 v
+v
+o
 io
+v
+s
+adv
+v
+s
+259446	v
+adv
+259454	v
+259457	s
+v
+adv
+259461	s
+v
+v
+259465	s
+259467	v
+o
+259470	s
+259472	v
+o
+259477	s
+259479	v
+o
+259482	s
+259484	v
 o
 adv
 v
-259497	o2
-adv
 s
-io
-o
-adv
+259490	v
 v
-259506	adv
 s
-259509	v
+adv
+p
+s
+aux
+259498	p
+s
+aux
+259503	s
+259507	p
+s
 259512	p
+io
+259516	s
+v
+io
+o
+adv
+259524	apposition
+259526	aux
+259528	p
+vc
+v
+adv
+259535	adv
+v
+259538	s
+259540	adv
 vc
 p
+adv
+adv
+259548	apposition
+259552	v
+io
+259556	adv
+s
+v
+adv
+259561	s
+adv
+v
+v
+o
+v
+259568	adv
+259570	v
+adv
+s
+v
+259576	v
+o
+v
+adv
+o
+v
+v
+o
+259585	adv
+259588	p
 vc
-259517	s
+s
 v
+adv
+v
+v
+259596	adv
+259598	adv
+v
+adv
+259602	v
+adv
+259605	v
+v
+259608	adv
+v
+259611	s
+o
+v
+adv
+v
+adv
+v
+259619	o
+adv
+adv
+v
+v
+259625	o
+v
+adv
+259629	s
+v
+v
+259633	adv
+adv
+259636	s
+259638	adv
+v
+259642	v
+p
+259646	v
+s
+v
+259650	p
+vc
+adv
+o
+259656	v
+adv
+259659	adv
+s
+259662	o
+v
+v
+259666	o
+adv
+259669	v
+adv
+v
+259673	o
+adv
+259677	adv
+259680	apposition
+adv
+v
+o
+259685	v
+adv
+adv
+259690	adv
+adv
+v
+s
+259695	adv
+v
+v
+259700	v
+v
+v
+adv
+259705	v
+v
+s
 p
 vc
-259522	io
-o
 v
-259526	s
-259528	o
+259712	o
+aux
 v
-s
-259533	adv
-o
-v
-259537	s
-v
-o
-v
-o
-v
-259545	adv
-vc
-s
+259718	vc
 p
-259551	o
-adv
-v
-s
-259559	v
-s
-v
-s
-259566	v
-s
-v
-s
-259571	s
-259573	vc
-p
-259580	o
-v
-s
-adv
-259585	p
-adv
-o
-adv
-o
-adv
-o
-adv
-o
-adv
-o
-259598	s
-p
-s
-p
-s
-p
-s
-p
-s
-o
-v
-s
-adv
-v
-s
-v
-v
-259616	o
-259620	adv
-259622	o
+259722	adv
 io
 v
-259628	adv
-259632	v
-259635	o
-259637	adv
+o
+259727	s
 v
-vc
-p
-259642	v
-259645	v
-259651	v
-o
-259654	v
-o
-259663	v
-o
-259667	o
+io
+259733	v
+259735	v
 v
-o
-259671	adv
+259738	adv
+259744	o
+259746	s
 v
-p
-vc
-259676	apposition
-259679	v
-o
-259682	v
-259685	v
-o
-259689	v
-o
-259692	adv
+v
+259750	o
+259755	v
+259757	o
 v
 o
-v
-259697	s
-v
-v
-s
-adv
-v
-s
-adv
-v
-adv
-v
-adv
-v
-adv
-v
-o
-adv
-v
-adv
-v
-o
-259719	v
-adv
-259722	v
-259724	adv
-259726	o
-v
-o
-v
-o
-v
-o
-v
-s
-adv
-v
-259741	s
-v
-o
-259745	s
-v
-o
-259749	s
-v
-adv
-259753	v
-259755	adv
-v
-259759	v
-s
 s
 259763	v
-259766	vc
-p
-259769	v
-adv
-259772	v
-adv
-259775	v
-adv
-259779	vc
-p
-v
 o
-259784	v
-259786	adv
 adv
 adv
-adv
-259791	o
-adv
-adv
-v
-adv
-adv
-259798	v
-259800	adv
-v
-adv
-259804	v
 s
-259807	apposition
-259809	p
-259811	adv
+259769	adv
+259774	v
+o
 s
-259814	v
+259778	v
 o
+adv
+259782	s
+adv
+259787	s
+adv
 v
-259818	o
-adv
-259822	v
-259825	v
-adv
-adv
+o
+vc
+p
+aux
+v
+s
+259799	p
+s
+259802	p
+259804	adv
+259806	s
+259808	apposition
+259815	apposition
 io
-v
-259831	io
-259833	s
-259835	v
+259820	vc
+p
+adv
+259826	vc
+p
+259830	s
 io
-259838	v
+259833	adv
+259836	apposition
+259839	apposition
+p
+s
+259846	apposition
+259849	apposition
+259858	v
 o
-259841	v
-io
+adv
+259864	adv
+v
+s
 v
 o
-259847	v
-adv
-o
-v
-259852	v
-o
-v
-v
-259857	s
-v
-adv
-adv
-259863	v
-259865	p
-259867	v
-259869	v
-adv
-adv
+259871	adv
 259873	adv
 v
-259876	s
-o
-v
-259880	adv
-259882	aux
-259884	v
-adv
-adv
-v
-o2
-o
-v
-259892	adv
-io
-v
-adv
-259905	aux
-259907	o
-v
 s
-259914	o
+adv
+259880	v
+s
+259884	adv
 adv
 adv
-v
+259888	v
+s
+259894	v
 adv
-v
+259901	v
+adv
+259906	v
+adv
+259911	o
 s
 v
-259923	v
+259915	s
+259917	p
+adv
+v
+259922	p
+vc
+259925	adv
+adv
+259928	adv
+259930	v
 s
-259927	o
 v
-s
-v
-adv
-259933	s
-adv
-259937	adv
-o
-v
-adv
-v
-v
-v
-259945	adv
-259947	s
-259949	v
-259951	vc
-p
-259954	s
-p
-259959	adv
-v
-o
-259964	vc
-v
-p
-259968	v
-adv
-p
 aux
-259973	p
-vc
 adv
-259979	v
-259981	v
-259983	v
-adv
-v
-259987	v
-259991	v
-adv
-s
-259995	v
-s
-259999	p
-vc
+259938	vc
 p
-260003	vc
-260006	v
+259942	adv
 adv
 v
-260010	adv
-260012	v
+259946	v
+s
 adv
 v
-260016	adv
-260022	v
+259951	s
 adv
-v
 o
+259956	v
+259959	v
+adv
+259962	adv
+259965	v
+o
+s
+adv
+259970	v
+o
+259973	v
+adv
+v
+259977	adv
+v
+v
+s
+adv
+adv
+259984	adv
+259986	s
+259989	adv
+v
+adv
+s
+259996	vc
+p
+260002	adv
+260007	adv
+260013	v
+adv
+260016	adv
+260018	adv
+o
+260021	v
+io
+260025	o
+v
 260028	adv
 v
-o
-adv
-260035	o
 v
-adv
+260033	adv
 v
-s
-260042	adv
-v
-260045	s
-adv
-v
+260036	adv
 v
 o
 adv
-adv
-adv
-v
-260055	adv
-v
-o
-adv
-260060	v
-260062	o
-v
-260065	o
-adv
-aux
-260069	p
+260041	p
 vc
+260044	s
+p
 adv
-260073	adv
-v
+260053	adv
+260055	v
 adv
-260077	p
-vc
-adv
-260081	v
-260084	adv
-260089	v
-io
-260093	adv
 adv
 v
-o
+260060	o
 v
+260063	adv
+v
+adv
+260067	adv
+adv
+v
+adv
+260072	adv
+v
+adv
+260076	o
+260078	v
+260080	adv
+v
+260083	o
+v
+adv
+v
+260088	vc
+p
 s
+260096	p
+260098	s
 260100	s
-p
+260103	apposition
+260105	adv
 vc
+p
+260109	s
+260115	apposition
+adv
 adv
 v
-260107	s
-260109	adv
-260112	v
-260118	v
+adv
+260122	adv
+vc
+p
+260127	p
+adv
+vc
 s
-260121	adv
-260124	s
-v
-adv
-v
-260129	s
-260131	v
-260133	v
+260133	adv
+p
+260136	adv
 260138	s
-v
-v
-260142	s
-260146	v
-adv
-v
-adv
-s
-260154	p
-vc
-260157	adv
-v
-adv
-v
-o
-v
-260164	adv
-s
-p
-vc
-p
-260170	vc
-aux
-260174	v
-260176	s
-o
-v
-o
-v
-o
-v
-o
-v
-o
-v
-s
-p
-vc
-260192	adv
-s
-v
-adv
-260204	s
-v
-260209	adv
-v
-s
-v
-adv
 io
-260216	v
-260219	s
-260223	v
-260225	s
-v
-260230	io
-v
-v
-s
-v
-v
-260237	adv
-s
-v
-260242	s
-v
-260245	s
-v
-260248	s
-io
-v
-260253	vc
+adv
+adv
+260143	v
+o
+adv
+adv
+260148	v
+o
 p
+260152	v
+o
+260155	v
+o
+260159	adv
+260162	s
+260164	o2
+o
+v
+adv
+260171	v
+o
+adv
+v
+adv
+260178	v
+adv
+260182	p
+vc
+adv
+260186	adv
+260188	v
+v
+260191	adv
+o
+adv
+adv
+adv
+v
+260199	s
+v
+o
 s
-260257	p
-260261	adv
-260266	s
+v
+o
+260206	adv
+v
 adv
-260269	v
+260210	v
+o
+260213	adv
+v
+o
+v
 adv
-260272	v
+adv
+v
+s
+v
+v
+adv
+260226	s
+260228	p
+vc
+adv
+260236	v
 io
+adv
+260240	o
+260242	v
+260244	o
+260246	v
+o
 v
-260277	v
-260279	s
-260281	v
-260286	o
+adv
+adv
+260253	s
 v
+o
+v
+260258	adv
+260260	adv
+v
+o
+p
+adv
+s
+260268	apposition
+260272	adv
+s
+v
+260277	adv
+260279	v
+s
+260282	v
+s
 v
 adv
 o
+adv
+260289	adv
+v
 260292	v
-p
-260295	vc
-adv
-v
-adv
-260300	adv
-s
-260304	v
-260306	adv
-adv
-v
-260311	s
-v
+o
+260296	adv
 p
 vc
-260316	v
-o
-v
 io
-260321	p
-vc
-260326	s
+260301	o
 v
-v
-260330	aux
-v
-v
-260334	v
-adv
-v
-adv
 s
-260340	adv
-260343	v
+s
+260306	o
 v
-260346	io
-aux
-o
-260350	o
+260309	o
 v
+adv
+adv
+260315	adv
+v
+adv
+260319	adv
+260321	o
+260323	v
+v
+260326	adv
+260328	adv
+260333	s
 io
+v
+adv
+adv
+v
 o
 adv
+260342	adv
+v
+s
+o
+apposition
+260349	v
+o
 v
 adv
-adv
-v
-adv
-adv
-v
-o2
-adv
-v
 io
+260356	s
+adv
+v
+o
+adv
+260363	o
 260367	v
-260369	adv
 adv
-v
-v
-260374	io
 adv
-o
+260372	p
+vc
 adv
-v
-o
-s
-v
 adv
-260385	adv
-260388	v
-260390	v
+260377	v
+260380	v
 adv
+260383	p
+260387	adv
+260389	p
 260394	adv
-260398	v
-io
-adv
-io
-adv
-v
-adv
-260406	adv
-adv
 s
-v
-adv
-s
-260413	v
-260415	adv
-v
-io
-adv
-io
-260421	adv
-260424	io
-v
-io
-s
-260429	vc
 p
-260434	s
-adv
-vc
-p
-vc
-p
-260441	v
+260399	v
+260401	s
 o
-260446	adv
-260448	vc
-p
-vc
-260452	s
-260455	apposition
-260457	adv
-p
-vc
-260462	adv
+260407	adv
+260410	adv
+adv
 adv
 v
-s
-260473	s
-260477	adv
-v
-260480	adv
-v
-260485	s
-v
-260488	adv
 v
 adv
-v
-s
-260495	s
-adv
-v
-260500	s
-adv
-v
-adv
-s
-v
-260509	s
-adv
-v
-260513	p
-260515	s
-260517	p
-s
-260521	vc
-260523	p
-260527	v
-adv
-260531	v
 o
-260534	o
-adv
 v
-260539	s
+260419	v
 adv
-v
-260544	s
+260422	o
 adv
-v
-adv
-s
-v
-260553	s
-adv
-v
-p
-s
-260559	adv
+260427	p
+260429	s
 vc
+v
+adv
+260435	v
+260437	adv
+260439	v
+260441	vc
 p
-260565	s
 v
 adv
 v
-260570	adv
-260573	adv
-v
 adv
+260450	v
+adv
+260457	apposition
+o
+260460	v
+adv
+260463	adv
+260467	adv
 p
-adv
 vc
-adv
-260581	s
-v
-adv
-apposition
-v
-260588	p
-s
-p
-260592	s
-260595	adv
-260597	s
-v
-adv
-adv
-260603	s
-v
-s
-260607	adv
-260611	p
-s
-adv
-s
-260616	adv
-260619	adv
-s
 v
 o
-io
-260625	v
-o
-260632	v
-260634	s
-v
 adv
+260476	s
+260478	p
+260480	s
 adv
 v
 o
-260641	adv
-260644	s
-260646	v
-apposition
-o
-260650	v
+o2
+260489	s
+260491	v
+s
+260494	v
+260497	s
+260500	adv
+v
 adv
+v
+adv
+260506	adv
+v
+v
+s
+260511	adv
+260514	adv
+260520	v
+adv
+adv
+s
+260526	v
+adv
+260530	s
+260533	p
+adv
+v
+s
+260539	adv
+adv
+260542	adv
+v
+v
+adv
+260548	adv
+260551	v
+260554	v
+adv
+adv
+v
+adv
+v
+260561	o
+adv
+v
+260566	s
+v
+o
+adv
+260572	adv
+adv
+v
+s
+260577	adv
+260580	v
+260582	v
+s
+260585	adv
+260589	s
+260591	adv
+260596	v
+adv
+v
+260600	adv
+v
+260603	adv
+260605	v
+s
+s
+adv
+260611	v
+260614	v
+adv
+v
+s
+s
+260620	p
+vc
+adv
+260624	s
+260626	s
+s
+260629	adv
+v
+o
+260633	v
+adv
+260636	v
+adv
+adv
+260640	adv
+260642	adv
+v
+o
+260647	v
+260649	v
+260651	v
+o
+260655	adv
 260657	v
-260659	s
+adv
+260660	v
+o
+260665	adv
+260668	v
+o
+adv
+260673	adv
+260677	adv
 v
+s
+260681	adv
+v
+v
+adv
+s
+260689	v
+o
+260693	adv
+adv
+v
+s
+260703	s
+vc
 p
-260663	adv
+260709	o
 v
-io
+260713	o
+o2
 o
-260669	v
-io
-s
+260717	o2
+adv
+260720	p
+v
 adv
 s
-260676	v
 v
-io
-o
-260681	vc
 s
+v
+adv
+260730	adv
+260737	adv
+260739	v
+260741	o
+260743	adv
+260747	s
+260750	vc
 p
-adv
-260686	o
-v
-v
-adv
-260692	adv
-s
-adv
-v
-adv
-adv
-v
-adv
-adv
-s
-v
-adv
-adv
-v
-adv
-260710	aux
-o
-v
-adv
-260716	apposition
-260719	adv
-v
-adv
+260753	adv
 p
-adv
-s
-260727	s
-adv
+260756	adv
 v
+260759	adv
 v
-260732	v
+260762	v
+260764	adv
+v
+260767	v
+260769	adv
+v
+260772	v
+260774	adv
+v
 adv
-260735	v
-adv
-v
-v
 o
-s
-260742	v
-adv
-260745	adv
-v
-o
-260749	s
-v
-adv
-io
-v
-260755	v
-s
-o
-adv
-v
-s
-adv
-260763	v
-aux
-s
-o
-v
-adv
-v
-260771	adv
-v
-260774	o
-v
-260777	o
-260779	v
-v
-260782	o
-260784	v
-o
-260789	s
+260780	adv
+260782	v
+260784	s
+260788	adv
 260791	v
-io
+adv
+260794	s
+v
+adv
+v
+adv
+260800	s
+260804	v
+adv
+260810	s
+adv
+v
+s
+260815	adv
+v
+260818	o
+260822	adv
+v
+v
+260826	v
+s
+v
+260830	adv
+v
+v
+260834	v
 o
-260795	v
-260797	io
-260799	o
-260801	s
-p
-260806	p
-260808	s
-p
-260811	s
-p
-260814	s
-p
-260817	s
-260819	s
-260824	p
-260826	s
-260829	p
-260831	s
-260833	p
-s
-260836	p
-s
-260839	p
-s
-s
-260843	adv
-v
-adv
-adv
-s
-260852	v
+260837	o
 adv
 v
+260841	v
 adv
-260857	v
-adv
+s
+260845	p
+260847	s
 v
 adv
-260862	v
-adv
+260851	o
 v
 adv
+260858	adv
+v
+260863	s
 260867	v
-s
-v
-s
-260872	v
-s
-v
-s
+260869	s
+260871	v
 adv
-adv
+260874	s
+260879	adv
+260882	o
+260884	v
+io
+260887	v
+s
 v
+260891	adv
+v
+260894	v
+p
+260897	adv
+v
+p
+v
+260904	s
+260909	v
 o
-v
-s
-260884	adv
-260886	v
-s
-260889	adv
-260891	v
-260894	adv
-s
-260898	s
 adv
-s
-260902	s
-260904	adv
-p
-s
-260908	p
-p
-s
-p
-s
-260915	p
-s
-p
-s
-260922	v
+v
+apposition
+260915	adv
+260917	adv
+260920	v
 o
+260924	apposition
 260926	v
-o
-260931	o
-260933	v
-aux
-s
-260937	o
+v
+260929	adv
 v
 adv
-v
-260942	s
-o
-v
-260946	v
-o
-io
-v
-s
-adv
-v
-s
-260955	v
-adv
-260963	v
-260966	s
-v
-adv
-260970	s
-v
-v
-260974	s
-260976	v
-o
-260979	s
-260981	v
-o
-260987	s
-260989	v
-o
-260992	s
-260994	v
-o
-adv
-v
-s
-261000	v
-o
-v
-s
-adv
-261006	p
-s
-aux
-261010	p
-s
-aux
-261015	s
-261019	p
-s
-261024	p
-io
-261028	s
-v
-io
-o
-adv
-261036	apposition
-261038	aux
-261040	p
-vc
-v
-adv
-261047	adv
-v
-261050	s
-261052	adv
-vc
 p
+vc
+s
+260936	vc
+p
+260939	v
+v
 adv
-261057	adv
-261061	apposition
+adv
+v
+v
+260947	v
+s
+adv
+260952	v
+o
+adv
+260956	p
+v
+io
+o
+260963	v
+260965	adv
+260967	v
+260969	v
+adv
+260972	v
+adv
+260975	adv
+260977	v
+adv
+260981	v
+260984	v
+adv
+o
+v
+adv
+260991	v
+adv
+260995	adv
+v
+v
+261000	p
+adv
+vc
+s
+261006	v
+v
+adv
+261013	v
+s
+o
+261018	adv
+o
+v
+ellipsis
+261023	o
+261025	o
+v
+261028	o
+261031	o
+v
+adv
+261035	v
+v
+261038	adv
+261042	v
+261044	adv
+o
+v
+io
+261049	o
+v
+io
+adv
+261054	v
+adv
+adv
+v
+261059	adv
+adv
+261063	v
+io
 261066	v
 io
-261070	adv
 s
-v
-adv
-261075	s
-adv
-v
+261072	v
+o
 v
 o
-o
+s
+adv
+v
+261080	s
 v
 261083	adv
-261085	v
+v
+261086	v
 adv
+v
+261090	adv
+v
+261094	s
+adv
+261097	o
+v
+adv
+261101	adv
+v
+adv
+o
+261106	adv
+adv
+v
+261111	s
+p
+p
 s
 v
-261092	v
-261094	o
+aux
 v
-adv
-o
-v
-v
-o
-261102	adv
-261105	p
-vc
 s
-v
-adv
-v
-261112	v
-261114	adv
-261116	adv
-v
-adv
-261120	v
-adv
-261123	v
-v
-261126	adv
-v
-261129	s
+s
+261121	p
+261124	v
 o
+io
+adv
+261129	v
+io
+o
+261135	s
 v
 adv
-v
-261135	adv
-v
-261138	o
+o
+io
 adv
 adv
 v
-v
-261144	o
-v
+io
+o
+261147	v
 adv
-261148	s
-v
-v
+o
 261152	adv
+261154	v
+261156	s
+v
 adv
-261155	s
-261157	adv
 v
-261161	v
-p
-261166	v
-s
+adv
 v
-261170	p
+adv
+adv
+v
+o
+adv
+o2
+v
+261170	s
 vc
-adv
-o
-261176	v
-adv
-261179	adv
-s
-261182	o
-v
-261186	v
-261188	o
-adv
-261191	v
-adv
-v
-261195	o
-adv
-261199	adv
-261202	apposition
-adv
-v
-o
-261207	v
-adv
-adv
-261212	adv
-adv
-v
-s
-261217	adv
-v
-o
-v
-261223	v
-261225	v
-v
-adv
-261229	v
-v
-s
 p
-vc
+adv
 v
-261236	o
+261176	adv
+v
+adv
+adv
+o
+261183	v
+s
+v
+261187	o
+adv
+v
+o
+261192	adv
+261194	v
+o
 aux
-v
-o
-261243	vc
 p
-261247	adv
-io
+s
+aux
+p
+s
+o
+adv
+v
+261206	adv
+v
+s
+261210	adv
 v
 o
-261252	s
+adv
+261216	adv
+261256	p
+261258	p
+261261	v
+261263	v
+261266	v
+261268	v
 v
-io
-261258	v
-261260	v
-261262	v
-261264	adv
-261270	o
-261272	s
+261272	v
+261274	adv
 v
-v
-261276	o
+261278	v
+adv
 261281	v
-261283	o
+261284	p
+o
+261287	v
+261290	o
 v
-o
+261293	o
+v
 s
-261289	v
-o
+261297	v
 adv
-adv
+aux
 s
-261295	adv
-261300	v
-o
-s
-261304	v
-o
-adv
-261308	s
-adv
-261314	s
+261302	v
 adv
 v
-o
+adv
+v
+261308	adv
+261311	o
+261315	io
+v
+v
+s
+adv
+v
+adv
+s
+261324	p
+adv
+261328	s
+p
+adv
+adv
+s
+261334	p
+adv
+261337	s
+p
+adv
+adv
+s
+261343	p
+adv
+adv
+s
+261348	p
+261350	vc
+v
+261353	v
+s
+261357	v
+adv
+261360	v
+261363	vc
+p
+261366	s
 vc
 p
-aux
+261371	v
+adv
+261375	v
 v
 s
-261326	p
-s
-261329	p
-261331	adv
-261333	s
-261335	apposition
-261342	apposition
-io
-261347	vc
-p
+261379	o
 adv
-261353	vc
-p
-261357	s
-io
-261360	adv
-261363	apposition
-261366	apposition
-p
-s
-261373	apposition
-261376	apposition
-261385	v
-o
-adv
-261391	adv
 v
 s
 v
 o
-261398	adv
-261401	adv
-v
-s
+261386	vc
 adv
-261408	v
-s
-261412	adv
-adv
-adv
-261416	v
-s
-261422	v
-adv
-261429	v
-adv
-261434	v
-adv
-261440	o
-s
-v
-261444	s
-261446	p
-adv
-v
-261451	p
+p
+261390	s
 vc
-261454	adv
 adv
-261457	adv
-261459	v
-s
-v
-aux
-adv
-261467	vc
 p
-261471	adv
+261396	v
+s
+o
+261400	v
+261402	aux
+v
+o
+adv
+261410	v
+o
+adv
+261414	v
+o
+o
+v
+o
+v
+o
+v
+adv
 adv
 v
-261475	v
+v
+261428	p
+261431	vc
+adv
+v
+261435	p
+adv
+s
+adv
+p
+adv
 s
 adv
 v
-261481	s
 adv
-o
-261486	v
-261489	v
+v
 adv
-261492	adv
-261497	v
-o
+adv
+261451	adv
+261453	v
 s
 adv
-261502	v
+261457	v
 o
-261505	v
-adv
-v
-261511	adv
-v
-v
 s
+261462	adv
+v
+p
+s
+p
+s
+261469	s
+v
+o
+v
+o
+apposition
 adv
+261478	adv
+261488	adv
+v
 adv
-261518	adv
+v
+io
+o
+261503	s
+adv
+v
+261508	adv
+v
+o
+adv
+261513	adv
+v
+261516	adv
+v
+v
 261520	s
 261523	adv
+adv
+v
+o
+adv
+v
+261531	v
+261534	v
+adv
+v
+261538	adv
+261540	adv
 v
 adv
 s
-261530	vc
-p
-261536	adv
-261541	adv
-261547	v
-adv
-261550	adv
-261552	adv
+261547	o
+261550	v
+s
+261555	o
+v
+aux
+261559	s
+261561	adv
+v
 o
-261555	v
+v
 io
-261559	o
-v
-261562	adv
-v
-v
-261567	adv
-v
-261570	adv
+261572	adv
 v
 o
-adv
-261575	p
-vc
-261578	s
 p
+vc
 adv
-261587	adv
+261580	adv
+v
+io
+adv
+261586	v
 261589	v
-o
-adv
-adv
-v
-261595	o
-v
+261592	v
+s
+261596	apposition
 261598	adv
-v
 adv
-261602	adv
-adv
+261601	adv
 v
 adv
 261607	adv
 v
 adv
-261611	o
 261613	v
-261615	adv
-v
-261618	o
-v
-adv
-v
-261623	vc
-p
 s
-261631	p
-261633	s
-261635	s
-261638	apposition
-261640	adv
-vc
-p
-261644	s
-261650	apposition
-adv
-adv
-v
-adv
-261657	adv
-vc
-p
-261662	p
-adv
-vc
-s
-261668	adv
-p
-261671	adv
-261673	s
+261616	adv
+261620	o
 io
 adv
-adv
-261678	v
-o
-adv
-adv
-261683	v
-o
-p
-261687	v
-o
-261690	v
-o
-261694	adv
-261697	s
-261699	o2
-o
 v
-adv
-261706	v
-o
+261625	v
+261628	o
 adv
 v
-adv
-261714	v
-adv
-261718	p
-vc
-adv
-261722	adv
-261724	v
-v
-261727	adv
-o
-adv
-adv
-adv
-v
-261735	s
-v
-o
-s
-v
-o
-261742	adv
-v
-adv
-261746	v
-o
-261749	adv
-v
-o
-v
-adv
-adv
-v
-s
-v
-v
-adv
-261762	s
-261764	p
-vc
-adv
-261772	v
 io
 adv
-261776	o
-261778	v
-261780	o
-261783	v
-o
-v
-adv
-adv
-261790	s
-v
-o
-v
-261795	adv
-261797	adv
-v
-o
-p
-adv
 s
-261805	apposition
-261809	adv
-s
-v
-261814	adv
-261816	v
-s
-261819	v
-s
-v
-adv
-o
-adv
-261826	adv
-v
-261829	v
-o
-261833	adv
-p
+261638	p
 vc
-io
-261838	o
-v
-s
-261843	s
-261845	o
-v
-261848	o
-v
+261641	s
+261643	p
 adv
-adv
-261854	adv
-v
-adv
-261858	adv
-261860	o
-261862	v
-261864	v
-261866	adv
-261868	adv
-261873	s
-io
-v
-adv
-adv
-v
-o
-adv
-261882	adv
-v
-s
-o
-apposition
-261889	v
-o
-v
-adv
-io
-261896	s
-adv
-v
-o
-adv
-261903	o
-261907	v
-adv
-adv
-261913	p
-vc
-adv
-adv
-261918	v
-261921	v
-adv
-261924	p
-261928	adv
-261930	p
-261935	adv
-s
-p
-261940	v
-261942	s
-o
-261947	o
-261949	adv
-261952	adv
-adv
-adv
-v
-v
-adv
-o
-v
-261961	v
-adv
-261964	o
-adv
-261969	p
-261971	s
-vc
-v
-adv
-261977	v
-261979	adv
-261981	v
-261983	vc
-p
-adv
-v
-adv
-v
-adv
-261993	v
-adv
-262000	apposition
-o
-262003	v
-adv
-262006	adv
-262010	adv
-p
 vc
 v
 o
-adv
-262019	s
-262021	p
-262024	s
+261651	adv
+261654	v
+o
+v
+261658	adv
+v
 adv
 v
+261663	io
+aux
+o
+261669	v
+adv
+261675	adv
+261678	s
+261688	v
+adv
+261695	adv
+261697	v
+261700	adv
+adv
+261703	v
 o
 o2
-262033	s
-262035	v
-s
-262038	v
-262042	s
-262045	adv
+261712	apposition
+261717	adv
+261719	v
+261721	o
 v
-adv
-v
-adv
-262051	adv
-v
+io
+261727	adv
+261729	adv
 v
 s
-262056	adv
-262059	adv
-262065	v
+o
+261735	v
 adv
 adv
-s
-262071	v
+v
 adv
-262075	s
-262078	p
+o
+261745	adv
+v
+adv
+261759	adv
+261763	v
+261765	adv
+v
+261768	adv
+261771	o
+261776	v
+v
+261779	o
+261784	apposition
+adv
+v
+p
+vc
+261790	s
+adv
+261793	v
+261795	o
 adv
 v
 s
-262084	adv
-adv
-262087	adv
+261800	adv
 v
-v
-adv
-262093	adv
-262096	v
-262099	v
-adv
-adv
+s
+o
+261805	v
+261808	v
 v
 adv
+adv
+261813	o
 v
-262106	o
+v
+261818	s
+261820	v
+adv
+s
+v
 adv
 v
-262111	s
+261828	s
 v
+261831	v
+p
+adv
+261835	adv
+v
+261840	adv
+s
+adv
+s
+261845	p
+adv
+261849	s
+261851	adv
+261855	s
+261858	v
+adv
+261863	v
+s
+261866	v
+o
 o
 adv
-262117	adv
+v
+261872	o
 adv
 v
 s
-262122	adv
-262125	v
-262127	v
+261877	io
+261879	v
+o
+261882	adv
+adv
+261888	o
+261890	v
+p
+261893	vc
+adv
+v
+adv
+v
+261899	adv
+o
 s
-262130	adv
-262134	s
-262136	adv
+261906	p
+261909	adv
+adv
+261913	adv
+v
+adv
+261917	p
+adv
+261922	v
+adv
+adv
+261932	v
+o
+261935	s
+o
+v
+adv
+261942	v
+adv
+v
+261946	o
+adv
+261953	v
+261955	adv
+o
+261958	o
+v
+adv
+adv
+adv
+p
+vc
+adv
+261967	adv
+p
+adv
+261971	apposition
+261974	adv
+p
+261981	aux
+p
+261985	o
+261995	adv
+v
+adv
+262000	adv
+262005	apposition
+262008	p
+adv
+vc
+v
+io
+262014	v
+262016	o
+262018	o
+adv
+v
+io
+s
+v
+adv
+262026	s
+262028	v
+o
+v
+262032	o
+262034	adv
+s
+262038	apposition
+262040	v
+adv
+262046	v
+v
+262051	v
+adv
+s
+262055	v
+s
+p
+v
+s
+262061	adv
+v
+s
+adv
+262067	o2
+262069	v
+v
+o
+262073	v
+adv
+262076	v
+o
+262079	v
+262081	s
+p
+vc
+adv
+adv
+262092	o
+262094	apposition
+v
+adv
+adv
+adv
+v
+262101	v
+adv
+adv
+adv
+v
+s
+262108	v
+adv
+adv
+adv
+262115	o
+262117	v
+s
+v
+262121	s
+o
+v
+adv
+262126	adv
+adv
+o
+v
+v
+adv
+262135	v
+v
+v
+io
+s
 262141	v
 adv
+262145	v
+o
 v
-262145	adv
-v
-262149	adv
-262152	v
-s
-s
-adv
-262158	v
-262162	v
+262149	o
 adv
 v
-s
-s
-262168	p
-vc
+262153	o
+262156	v
+o
+262161	adv
+v
 adv
+262165	s
+v
+adv
+o
+io
 262172	s
-262174	s
-s
-262177	adv
+262176	adv
+adv
 v
 o
-262181	v
+262183	adv
+v
 adv
-262184	v
+262187	adv
 adv
-adv
-262188	adv
-262191	adv
 262193	v
 o
-262198	v
-262200	v
-262202	v
-o
-262206	adv
-262208	v
 adv
-262211	v
-o
-262216	adv
-262219	v
+262214	s
+adv
+262217	v
 o
 adv
-262224	adv
-262229	adv
-v
-s
-262233	adv
-v
-v
+262222	v
+262227	s
+io
 adv
-s
-262241	v
+262233	s
+262236	v
 o
-262245	adv
 adv
-v
-s
-262256	s
-vc
+262244	s
 p
-262263	o
+adv
+262248	p
+adv
 v
-262267	o
-o2
+262252	v
+adv
+v
+262256	adv
+v
+v
+adv
+adv
+v
+v
+adv
+262265	v
 o
-262271	o2
-adv
-262274	p
-s
+262268	adv
 v
 adv
-s
-v
-s
-v
+262272	v
 adv
-262285	adv
-262292	adv
+adv
+v
+262277	s
+262282	adv
+p
+262285	p
+adv
+adv
+262289	o
+v
 262294	v
-262296	o
-262298	adv
-262302	s
-262305	vc
-p
-262308	adv
-p
-262313	adv
-v
-262316	adv
-v
-262319	v
-262321	adv
-v
-262324	v
-262326	adv
-v
-262329	v
-262331	adv
-v
+adv
+262300	v
 o
 adv
+262307	adv
+v
+v
 o
-262338	adv
-262340	v
-262342	s
-262346	adv
-262349	v
-262351	adv
-262353	s
+262312	v
+s
+262315	o
+262317	v
+262319	s
 v
 adv
+p
+vc
+o
 v
 adv
-262359	s
-262363	v
 adv
-262369	s
+262329	s
+p
+adv
+s
+262336	adv
+v
+adv
+262341	o
+v
+s
+adv
+262350	adv
+v
+262353	adv
+v
+262356	v
+o
+adv
+262361	o
+s
+262364	v
+p
+262368	s
+262372	p
+262374	s
+v
+o
+v
+s
+p
+vc
+adv
+262384	v
+p
+adv
+v
+adv
+adv
+262391	v
+v
+262394	o
+adv
+o
+v
+262399	s
+adv
+adv
+o
+v
+262405	v
+o
+adv
 adv
 v
 s
-262374	adv
-v
-262377	o
-262381	adv
-v
-v
-262385	v
-s
-v
-262389	adv
-v
-v
-262393	v
-o
-262396	o
+262412	adv
 adv
+262415	v
+262417	adv
+262421	o
 v
-262400	v
-adv
-262403	s
-262405	p
-262407	s
-v
-adv
-262411	o
-v
-adv
-262418	adv
-v
-262423	s
-262427	v
-262429	s
-262431	v
-adv
-262435	s
-262440	adv
-262443	o
-262445	v
 io
+s
+o2
+v
+adv
+262429	adv
+262432	adv
+v
+adv
+v
+o
+adv
+262440	v
+adv
+262445	adv
+adv
 262448	v
+adv
+262451	o
+262453	v
+v
 s
-v
-262452	adv
-v
-262455	v
-p
-262458	adv
-v
-p
-v
-262465	s
-262470	v
-o
-adv
-v
-apposition
-262476	adv
-262478	adv
-262481	v
-o
-262485	apposition
-262487	v
-v
-262490	adv
+262457	adv
 v
 adv
-p
+262462	adv
+adv
+262466	v
+adv
+adv
+262470	adv
+262472	v
+262474	v
+adv
+v
+262479	o
+v
+s
 vc
-s
-262497	vc
 p
-262500	v
-v
-adv
-adv
-v
-v
-262508	v
+262485	o
 s
-adv
-262513	v
-o
-adv
-262517	p
 v
+v
+v
+o
+o2
+262494	adv
+v
+o
+v
+262499	o
+adv
+v
+262503	o
 io
-o
-262524	v
-262526	adv
-262529	v
-262531	v
-adv
-262534	v
-adv
-262537	adv
-262539	v
-adv
-262543	v
-262546	v
-adv
-o
-v
-adv
-262553	v
-adv
-262557	adv
-v
-v
-262562	p
-adv
-vc
-s
-262568	v
-v
-adv
-262575	v
-s
-o
-262580	adv
-o
-v
-ellipsis
-262585	o
-262587	o
-v
-262590	o
-262593	o
-v
-adv
-262597	v
-v
-262600	adv
-262604	v
-262607	adv
 o
 v
 io
-262612	o
 v
-io
-adv
-262617	v
-adv
-adv
+262512	s
 v
-262622	adv
+o
 adv
-262626	v
-io
-262629	v
-io
+262518	v
 s
-262635	v
+262521	adv
+262527	apposition
+262533	v
 o
+v
+o
+adv
+v
+262540	o
+262542	v
+o
+adv
+v
+262548	o
+adv
+v
+adv
+v
+v
+262555	o
+v
+adv
+262563	p
+adv
+262566	adv
+adv
+262569	adv
+v
+adv
+adv
+262574	o
+v
+o
+v
+262579	s
+v
+262582	adv
+o
+262586	v
+io
+o
+v
+v
+o
+adv
+262596	adv
+v
+adv
+262600	v
+adv
+v
+adv
+o
+262607	v
+s
+v
+adv
+262612	adv
+o2
+o
+io
+v
+262618	vc
+s
+p
+s
+262623	adv
+v
+adv
+adv
+262630	adv
+262632	adv
 v
 o
 s
-adv
 v
-262643	s
-v
-262646	adv
-v
-262649	v
-adv
-v
-262653	adv
-v
-262657	s
-adv
-262660	o
-v
-adv
-262665	adv
-v
-adv
 o
-262670	adv
+262639	v
 adv
 v
+262643	v
+o
+262646	v
+o
+262649	adv
+o
+v
+v
+262654	s
+s
+262657	p
+262659	v
+adv
+262663	adv
+p
+s
+262668	v
+adv
+262671	adv
+p
 262675	s
+262678	v
+adv
+262682	s
+262684	vc
 p
-p
-262679	s
+262688	adv
 v
-aux
-v
+adv
 s
-262685	s
-262687	p
-262690	v
-o
-io
-adv
-262695	v
-io
-o
-262701	s
+s
 v
-adv
-o
-io
-adv
-adv
-v
-io
-o
-262713	v
-adv
-o
-262719	adv
-262721	v
-262723	s
-v
-adv
-v
-adv
-v
-adv
-adv
-v
-o
-adv
-o2
-v
-262737	s
+p
 vc
+262698	adv
+262700	o
+v
+o
+262704	s
+o
+v
+o
+v
+adv
+adv
+v
+262714	adv
+adv
+262721	s
+v
+adv
+262725	s
+v
+adv
+262729	v
+o
+p
+vc
+v
+262736	s
+o
+v
+262740	s
+v
+262743	s
+v
+262746	s
+v
+262749	s
+adv
+o
+v
+adv
+v
+262757	s
+v
+adv
+262761	s
+v
+adv
+v
+v
+s
+p
+vc
+s
+p
+vc
+s
+p
+vc
+s
+p
+vc
+v
+v
+adv
+s
+adv
+adv
+adv
+adv
+adv
+adv
+adv
+adv
+adv
+adv
+o
+262794	v
+adv
+v
+adv
+v
+adv
+v
+adv
+adv
+262804	v
 p
 adv
-v
-262743	adv
-v
-adv
-adv
-o
-262750	v
-s
-v
-262754	o
-adv
-v
-o
-262759	adv
-262761	v
-o
-aux
 p
-s
-aux
 p
+p
+adv
+p
+adv
+p
+adv
+p
+adv
+p
+adv
+p
+adv
+p
+262823	p
+adv
+p
+262828	p
+adv
+p
+262833	adv
+262835	s
+adv
+p
+262840	apposition
+262844	s
+v
+262847	adv
+v
 s
-262770	o
-adv
 v
-262774	adv
-v
+262852	adv
 s
-262778	adv
 v
-o
-adv
-262784	adv
-262825	p
-262827	p
-262830	v
-262832	v
-262835	v
-262837	v
-v
-262841	v
-262843	adv
-v
-262847	v
-adv
-262850	v
-262853	p
-o
 262856	v
-262859	o
 v
-262862	o
-v
+o
+262861	v
 s
-262866	v
+262869	v
+vc
+p
 adv
+262875	adv
+v
+adv
+s
+262881	apposition
+v
+o
+262885	v
+o
+262889	adv
+adv
+v
+adv
+262895	v
+o
+262898	v
+v
+adv
+v
+262903	v
+262905	adv
+262909	v
 aux
+262912	adv
+262915	adv
+adv
+v
+262919	adv
+262921	adv
+v
 s
-262871	v
+v
+v
+s
+adv
+262930	v
+aux
+262934	adv
+262936	adv
+262938	adv
+v
+s
+v
+262943	v
+adv
+262947	v
+262949	o
 adv
 v
 adv
 v
-262877	adv
-262881	o
-262886	io
+adv
+262956	v
+adv
+262959	adv
 v
+262962	adv
+adv
+262967	v
 v
-s
 adv
-v
-adv
-s
-262895	p
-adv
-262899	s
-p
-adv
-adv
-s
-262905	p
-adv
-262908	s
-p
-adv
-adv
-s
-262914	p
-adv
-adv
-262918	s
-262920	p
-262922	vc
-v
-262925	v
-s
-262929	v
-adv
-262932	v
-262935	vc
-p
-262938	s
 vc
 p
-262945	v
-adv
-262949	v
+o
+262974	v
 v
-s
-262953	o
+262978	s
 adv
 v
+adv
 o
-s
 v
+adv
+262986	v
+adv
+adv
+262995	adv
+v
+v
+io
+s
+adv
+s
+263003	o
+v
+263006	adv
+v
+adv
+adv
 o
-262961	vc
+v
+263013	v
+adv
+263016	v
+io
+v
+adv
+s
+263022	s
+263024	adv
+v
+adv
+263028	adv
+v
+adv
+263033	v
+adv
+s
+263039	v
+adv
+263047	adv
+263050	v
 adv
 p
-262965	s
 vc
-adv
-p
-262971	v
-s
-o
-262975	v
-262977	aux
-v
-o
-adv
-262985	v
-o
-adv
-262989	v
-o
-262992	o
-v
-o
-v
-o
-v
-adv
-adv
-v
-v
-263004	p
-263007	vc
-adv
-v
-263012	p
-adv
-s
-adv
-p
-adv
-s
-adv
-263021	v
-adv
-v
-adv
-adv
-263030	adv
-263032	v
-s
-adv
-263036	v
-o
-s
-263042	adv
-v
+vc
 p
 s
-p
+o
+v
 s
-263049	s
-v
-o
-v
-o
-apposition
+263061	v
 adv
-263058	adv
-263069	adv
+v
+o
+263066	v
+adv
+263070	p
+vc
+s
+263075	v
+adv
+adv
+263079	adv
+263083	p
+263085	vc
+adv
+v
+adv
+263093	s
+adv
 v
 adv
 v
 io
 o
-263084	s
-adv
-v
-263091	adv
-v
+263101	aux
 o
 adv
-263096	adv
-v
-o
-263101	adv
 v
 v
-263105	s
+adv
 263108	adv
-adv
 v
+263112	v
 o
-o
-adv
-v
-263117	v
-263120	v
-adv
-v
-263124	adv
-263126	adv
-v
-adv
+263115	o
+263118	v
 s
-263133	o
-263136	v
-s
-263141	o
-v
-aux
-263145	s
-263147	adv
-v
-o
-v
 io
-263158	adv
+v
+263123	s
+io
+s
+263127	adv
+v
+263130	adv
+263134	adv
+o
+v
+adv
+v
+v
+263141	s
+adv
 v
 o
+263146	vc
+p
+adv
+o
+v
+o
+v
+adv
+adv
+v
+o
+v
+o
+263160	v
+o
+v
+o
+s
+adv
+263167	v
+adv
+263170	adv
+v
+263173	io
+v
+adv
+adv
+v
+s
+263180	aux
+p
+263184	v
+263187	v
+adv
+o
+v
+v
+o
+s
+v
+adv
+o
+adv
+v
+263200	s
+263202	adv
+v
+s
+v
+o
+s
+263209	adv
+263211	v
+o
+v
+263215	adv
+v
+adv
+263221	o
+v
+adv
+v
+adv
+adv
+263231	v
+s
+v
+263235	adv
+263237	v
+adv
+263240	v
+adv
+io
+v
+263249	v
+adv
+263252	adv
+v
+263255	o
+v
+263259	adv
+v
+s
+adv
+adv
+v
+263266	v
+adv
+adv
+263270	v
+adv
+263273	v
+adv
+263276	s
+263278	v
+adv
+263281	v
+adv
+adv
+263285	adv
+o
+v
+vc
+p
+263291	o
+v
+263294	adv
+v
+o
+263298	s
+p
+263301	p
+vc
+v
+263306	v
+263308	s
+adv
+vc
+p
+v
+263314	adv
+263316	adv
+v
+s
+o
+o
+263322	s
 p
 vc
-adv
-263167	adv
+263327	s
+o
 v
-io
-adv
-263173	v
-263176	v
-263179	v
 s
-263183	apposition
-263185	adv
-adv
-263188	adv
-v
+263332	p
+263334	vc
+263337	v
 o
 adv
-263195	adv
+263342	adv
+263344	v
+263348	s
 v
-adv
-263201	v
 s
-263204	adv
-263209	o
-io
-adv
-v
-263214	v
-263218	o
-adv
-v
-io
-adv
-s
-263228	p
+263352	p
 vc
-263231	s
-263233	p
-adv
-vc
-v
 o
-263241	adv
-263244	v
-o
-263247	v
-263249	adv
-v
 adv
 v
-263254	io
+apposition
+263359	adv
+o
+v
+v
+263364	v
+adv
+adv
+v
+adv
+263370	o
+s
+v
+io
+adv
+263379	adv
 aux
+v
+v
+v
 o
-263260	v
-adv
-263266	adv
-263269	s
-263279	v
-adv
-263286	adv
-263288	v
-263291	adv
-adv
-263294	v
-o
-o2
-263303	apposition
-263309	adv
-263311	v
-263313	o
 v
-io
-263319	adv
-263321	adv
 v
-s
-o
-263327	v
-adv
-adv
-v
-adv
-o
-263337	adv
-v
-adv
-263351	adv
-263355	v
-263357	adv
-v
-263360	adv
-263363	o
-263368	v
-v
-263371	o
-263376	apposition
-adv
-v
+263388	s
+263393	vc
 p
-vc
-263382	s
-adv
-263385	v
-263387	o
-adv
 v
-s
-263392	adv
-v
-s
 o
-263397	v
-263400	v
-v
 adv
-adv
-263405	o
-v
-v
-263410	s
-263412	v
-adv
+263399	v
+o
 s
-v
-adv
-v
+263403	s
+263408	apposition
+263418	p
 263420	s
-v
-263423	v
-p
-adv
-263427	adv
-v
-263434	adv
-s
-adv
-s
-263439	p
-adv
-263443	s
-263445	adv
-263449	s
-263452	v
-adv
-263457	v
-s
-263460	v
-o
+263422	apposition
+263434	v
 o
 adv
+263442	io
+263445	s
+io
+263448	adv
+263451	apposition
+263455	apposition
 v
-263466	o
-adv
-v
-s
-263471	io
-263473	v
 o
-263476	adv
 adv
-263482	o
-263484	v
-p
-263487	vc
+263462	v
+o
+adv
+263468	v
+adv
+263476	io
+s
+adv
+263482	aux
+v
+263485	adv
 adv
 v
 adv
 v
+o
+adv
 263493	adv
-o
-263496	s
-263501	p
-263504	adv
+263495	s
 adv
-263508	adv
+vc
+p
+263500	adv
+s
+vc
 v
-adv
-263512	p
-adv
+o
+263506	v
+v
+o
+263513	s
 263517	v
+io
 adv
-adv
-263527	adv
-v
 o
+v
+io
+p
+vc
+263526	v
+adv
+adv
+v
 263531	s
 o
 v
 adv
-263538	v
-adv
-v
-263542	o
-adv
-263549	v
-263551	adv
 o
-263555	o
 v
-adv
-adv
-adv
 p
 vc
 adv
-263564	adv
-p
-adv
-263568	apposition
-263572	adv
-p
-263580	aux
-p
-263584	o
-263594	adv
+263541	o
 v
-adv
-263599	adv
-263604	apposition
-263607	p
+263546	v
+o
+v
+263550	adv
+o
+v
+p
 adv
 vc
 v
-io
-263613	v
-263615	o
-263618	o
+263558	io
+aux
 adv
-v
-io
-s
-v
+263562	v
 adv
-263626	s
-263628	v
-o
-263633	v
-263635	o
-263637	adv
-s
-263641	apposition
-263643	v
-adv
-263650	v
-v
-263656	v
-adv
-s
-263660	v
-s
+263565	adv
+vc
 p
-v
-s
-263666	adv
-v
-s
+263571	s
 adv
-263672	o2
-263674	v
 v
 o
-263678	v
-adv
-263681	v
+263576	v
+263578	adv
+263581	v
+263583	o
+263589	adv
+v
 o
-263684	v
-263686	s
+263595	v
+o
+263598	v
+adv
+263601	adv
+263607	adv
 p
+vc
+263615	v
+v
+o
+adv
+263622	v
+adv
+263626	v
+o
+263629	adv
+263631	v
+o
+adv
+263635	adv
+v
+v
+io
+263640	adv
+v
+adv
+adv
+263649	v
+adv
+263652	adv
+v
+adv
+adv
+adv
+263658	v
+adv
+v
+o
+263663	v
+adv
+adv
+o
+263669	adv
+v
+263672	adv
+o
+apposition
+263677	o
+263679	v
+io
+v
+adv
+263685	adv
+v
+adv
+v
+adv
+263696	v
+263698	adv
+adv
+263703	apposition
+263705	adv
+263707	v
+263709	v
+o
+adv
+adv
+v
+263715	o
+adv
+v
+263719	v
+adv
+o
+adv
+adv
+263725	adv
+v
+adv
+adv
+v
+o
+v
+263733	adv
+263735	v
+io
+o
+o
+v
+adv
+263742	adv
+263744	v
+263746	adv
+v
+263750	adv
+s
+apposition
+263754	p
+vc
+v
+v
+adv
+263762	s
+v
+v
+o
+263767	o
+v
+adv
+263772	o
+v
+adv
+adv
+adv
+v
+adv
+263780	s
+263783	v
+adv
+adv
+263787	v
+vc
+p
+p
+adv
 vc
 adv
 adv
-263697	o
-263699	apposition
 v
-adv
-adv
-adv
-v
-263706	v
-adv
-adv
-adv
-v
-263714	s
-263716	v
-adv
-adv
-adv
-263723	o
-263725	v
+o
 s
-263729	v
-263731	s
+adv
+v
+io
+263802	v
 o
 v
+263806	adv
 adv
-263736	adv
-adv
+v
+263810	v
 o
-v
-v
-adv
-263745	v
+263815	s
 o
-v
-v
+263818	v
+adv
+adv
+263823	v
+adv
+adv
+263828	v
+o
+263831	v
 io
 s
-263752	v
-adv
-263756	v
+263836	v
+p
+vc
 o
 v
-263760	o
-adv
-v
-263764	o
-263767	v
-o
-263772	adv
-v
-adv
-263777	s
-v
-adv
-o
 io
-263784	s
-263788	adv
-adv
-v
-o
-263795	adv
-v
-adv
-263799	adv
-adv
-263805	v
-o
-adv
-263826	s
-adv
-263829	v
-o
-adv
-263834	v
-263839	s
-io
-adv
 263845	s
-263848	v
+adv
+263848	s
+263850	adv
+263852	adv
 o
+263855	v
 adv
-263856	s
-p
-adv
-263860	p
 adv
 v
-263864	v
+o
+v
+263863	v
+s
 adv
-v
-263868	adv
-v
-v
 adv
-263873	adv
+o
 v
-v
+263870	v
+adv
+263873	v
+s
+adv
 adv
 263878	v
+263881	v
+v
+263884	v
 o
-263881	adv
-v
-263885	adv
-263887	v
-adv
-adv
-v
-263892	s
-263897	adv
-p
-263900	p
-adv
-adv
-263904	o
-v
-263909	v
-adv
-263915	v
-o
-adv
-263922	o2
-adv
-v
 v
 o
-263928	v
+263890	v
+adv
 s
-263931	o
-263933	v
-263936	s
+263896	s
 v
 adv
+263902	v
+263904	adv
+v
+adv
+263910	v
+io
+adv
+263914	s
 p
 vc
-o
-v
 adv
+263920	v
+adv
+s
+v
+v
+263926	s
+adv
+p
+263930	adv
+adv
+p
+v
+263936	adv
+v
+s
+adv
+263942	adv
 adv
 263946	s
-p
 adv
+263949	v
+263952	v
+adv
+263956	adv
+adv
+263960	adv
+263962	adv
+v
 s
-263955	adv
+263967	v
 v
 adv
-263961	o
 v
 s
-adv
-263970	adv
-v
-263973	adv
-v
-263976	v
 o
-adv
-263981	o
-s
-263984	v
-p
-263988	s
-263992	p
-263994	s
-v
-o
-v
-s
-p
-vc
-adv
-264004	v
+263974	s
 p
 adv
 v
-adv
-adv
-264011	v
+263980	o
 v
-264014	o
-adv
-o
-v
-264019	s
-adv
-adv
-o
-v
-264025	v
 o
 adv
-adv
+v
+o2
+o
 v
 s
-264032	adv
+263990	adv
 adv
-264035	v
-264037	adv
-264042	o
+v
+263994	adv
+v
+adv
+v
+v
+264000	adv
+s
+v
+264004	adv
+s
+o
+264008	adv
+v
+adv
+adv
+264013	v
+apposition
+264019	v
+o
+264022	v
+o
+adv
+adv
+v
+o
+264032	p
+s
+adv
+s
+adv
+v
+aux
+264040	s
+o
 v
 io
+adv
 s
-o2
+v
+v
+o
+v
 v
 adv
-264051	adv
-264054	adv
+adv
+264055	o
 v
+264060	adv
+p
+vc
+v
+adv
+adv
 adv
 v
 o
-adv
-264062	v
-adv
-264067	adv
-adv
-264070	v
-adv
-264073	o
-264075	v
-v
-s
-264079	adv
-adv
 v
 adv
-264085	adv
+264072	adv
 adv
-264089	v
+p
+264076	v
+io
+o
+264080	v
+o
 adv
 adv
-264093	adv
+264091	s
+v
+o
 264095	v
-264097	v
+io
 adv
 v
-264102	o
+264101	aux
+264103	s
+p
+vc
+v
+264108	s
+264110	adv
+v
+o
+s
+v
+io
+264117	v
+adv
+s
+264122	s
+264124	v
+adv
+264128	s
+264130	p
+264132	vc
+p
+vc
+v
+264138	p
+s
+s
+adv
+v
+adv
+v
+adv
+264149	v
+o
+264153	adv
+s
+v
+adv
+264158	p
+264160	s
+adv
 v
 s
+264165	adv
 vc
 p
-264108	o
+264169	v
+o
+v
+adv
+s
+o
+v
+adv
+264180	vc
+adv
+p
+264184	v
+p
 s
 v
-264112	v
-v
-o
-o2
-264118	adv
-v
-o
-264122	v
-264124	o
+adv
+264190	adv
+264192	s
+264195	v
+adv
+264199	o
+264202	v
+adv
+264205	aux
 adv
 v
-264128	o
-io
-o
-v
-io
-264134	v
-264139	s
-v
-o
 adv
-264145	v
+o
+264211	v
 s
-264148	adv
-264154	apposition
-264161	v
-o
-264164	v
-o
-adv
 v
-264169	o
-264172	v
-o
-adv
-v
-264179	o
-adv
-v
-adv
-v
-v
-264186	o
-v
-adv
-264194	p
-adv
-264197	adv
-adv
-264200	adv
-v
-adv
-adv
-264206	o
-v
-o
-v
-264211	s
-v
-264214	adv
-o
+264215	io
 264218	v
+s
+264224	v
+aux
+264229	adv
+264232	adv
+aux
+264237	s
+vc
+p
+o
+264242	v
+o
+v
+adv
+264247	s
+264249	adv
+264253	v
+adv
+v
+adv
+v
+o
+264261	p
+s
+adv
+p
 io
-o
+264267	adv
 v
-v
-o
+s
 adv
-264228	adv
-v
+264272	s
 adv
-264232	v
+264275	v
 adv
 v
+264279	io
+v
+v
 adv
-o
-264239	v
+adv
+264285	s
+264287	p
+adv
+vc
+s
+264292	p
+vc
+s
+264296	p
+264300	adv
+v
+264304	v
 s
 v
-adv
-264244	adv
-o2
-o
-io
-v
-264251	vc
-s
-p
-s
-264256	adv
 v
 adv
-adv
-264263	adv
-264265	adv
-v
-o
-s
-v
-o
-264272	v
-adv
-v
-264276	v
-o
-264279	v
-o
-264282	adv
-o
-v
-v
-264287	s
-s
-264290	p
-264292	v
-adv
-264297	adv
-p
-s
-264302	v
-adv
-264305	adv
-p
-264309	s
-264312	v
-adv
-264316	s
-264318	vc
-p
-264322	adv
-v
-adv
-s
-s
-v
 p
 vc
-264334	adv
-264337	o
-v
+s
+264313	v
+s
 o
-264341	s
-o
-v
-o
+adv
+264318	s
+adv
+264322	v
 v
 adv
+264326	v
+s
 adv
 v
-264351	adv
+v
+adv
+264334	v
+v
+264337	s
+p
+vc
+adv
+264342	adv
+v
+v
+264346	s
+adv
+p
+vc
+s
+264352	p
+vc
 adv
 264359	s
+264361	adv
 v
-adv
-264363	s
-v
-adv
-264367	v
 o
+v
 p
 vc
-v
-264375	s
-o
-v
-264379	s
-v
-264382	s
-v
+s
+264369	p
+vc
+s
+264373	p
+vc
+s
+264377	s
+264379	p
+vc
+adv
 264385	s
-v
-264388	s
+p
+264388	p
+264390	vc
 adv
-o
+p
 v
-adv
-v
-264396	s
-v
-264399	adv
-264401	s
-v
-adv
-v
-v
-s
-264408	p
-vc
-s
-264412	p
-vc
-s
-264416	p
-vc
-s
+264395	adv
+264397	s
 p
 vc
-v
-v
-adv
-s
-264426	adv
-adv
-adv
-adv
-adv
-adv
-adv
-adv
-264435	adv
-adv
 o
-264439	v
+v
+adv
+p
+vc
+264406	p
+264408	vc
+264410	adv
+264414	adv
+s
+264417	vc
+p
+adv
+264423	v
+264426	v
+s
+264430	v
+s
+o
+264434	v
 adv
 v
 adv
+264439	o
+264441	v
+264443	o
 v
-adv
+264447	vc
+p
 v
-adv
-adv
-264449	v
-264451	p
-adv
+s
+o
+264455	adv
+264458	v
+aux
 apposition
-p
-p
-p
-adv
-p
-adv
+264462	p
+vc
+264467	p
 p
 adv
-p
-adv
-p
-adv
-p
-adv
-264469	p
-264471	p
-adv
-p
-264476	p
-adv
-p
-264481	adv
-264483	s
-adv
-p
-264488	apposition
-264492	s
-v
-264495	adv
-v
-s
-v
-264500	adv
-s
-v
-264505	v
+264471	adv
+264473	adv
 v
 o
-264510	v
-s
-264518	v
+v
+adv
+adv
 vc
 p
 adv
-264524	adv
-v
-adv
-s
-264530	apposition
+264483	adv
 v
 o
-264534	v
+adv
+264488	v
+adv
+adv
+v
+adv
+adv
+264497	o
+adv
+v
+v
 o
-264538	adv
-adv
 v
+264506	v
 adv
-264544	v
-o
-264547	v
+264509	adv
 v
 adv
 v
-264552	v
-264554	adv
-264558	v
+264514	s
+264516	s
+264518	s
 aux
-264561	adv
-264567	adv
-adv
 v
 o
-264572	adv
-264574	adv
-v
-s
-v
-v
-s
 adv
-264583	v
-aux
-264586	o
-264589	adv
-264591	adv
-264593	adv
-v
-s
-v
-264598	v
-adv
-264602	v
 o
-264605	o
-adv
 v
-adv
 v
+264528	adv
+264531	v
+io
 adv
-264612	v
-adv
-264615	adv
+264536	o
+264542	v
+264546	o
 v
-264618	adv
-adv
-264625	v
-v
-adv
-vc
+o
+264550	o
 p
+264553	s
+264555	v
+264557	io
+264560	p
 o
-264632	v
-264634	v
-264637	s
-adv
-v
-adv
-o
-v
-adv
-264645	v
-adv
-adv
-264654	adv
-v
+264563	v
 v
 io
-s
-adv
-s
-264662	o
+264567	p
+vc
 v
-264665	adv
+io
 v
+o
 adv
 adv
+264576	v
 o
 v
-264672	v
+264580	o
+v
+p
+264584	v
+adv
+adv
+264588	adv
+adv
+adv
+v
+s
+adv
+264595	o
+adv
+v
+adv
+adv
+v
+s
+adv
+v
+264605	o
+v
+adv
+adv
+264610	v
+o
+264614	v
+adv
+v
+io
+p
+v
+vc
+o
+adv
+v
+v
+264627	s
+o
+264630	v
+apposition
+264640	s
+264644	adv
+v
+s
+264650	adv
+264652	s
+vc
+v
+s
+264657	vc
+p
+264660	s
+264662	p
+264664	adv
+v
+s
+vc
+p
+s
+264671	p
+vc
 adv
 264675	v
-io
+264677	adv
+264679	v
+264681	adv
+264684	s
+264687	p
+vc
+s
+vc
+p
+v
+264694	v
+aux
+adv
+v
+v
+264700	v
+adv
+v
+264705	p
+s
+264709	adv
+264711	v
 o
-v
-adv
 s
-264682	s
-264684	adv
-v
-adv
-264688	adv
-v
-adv
-264693	v
-adv
-s
-264699	v
-adv
-264707	adv
-264710	v
+264715	aux
 adv
 p
 vc
-vc
+264721	adv
+adv
+v
+v
+o
+264727	adv
+adv
+adv
+264731	o
+v
+s
+v
+o
+264740	adv
+264742	v
+s
+264746	adv
+264751	aux
 p
-s
-o
-v
-s
-264721	v
-adv
-v
-o
-264726	v
-adv
-264730	p
 vc
+264757	adv
+o
 s
-264735	v
-adv
-adv
-264739	adv
-264743	p
-264745	vc
-adv
-v
-adv
-264753	s
-adv
-v
-adv
-v
-io
-o
-264761	aux
-o
-adv
 v
 v
+264764	adv
 adv
-264768	adv
-v
-264773	v
-o
-264776	o
-264779	v
-s
-io
-v
-264784	s
-io
-s
-264788	adv
-v
-264791	adv
-264795	adv
-o
-v
 adv
-v
-264801	v
-264803	s
-adv
-v
-o
-264808	vc
-p
-adv
-o
 v
 aux
-o
-v
-adv
-adv
-v
-o
-v
-o
-264823	v
-o
-v
-o
 s
-264829	adv
-264831	v
-adv
-264834	adv
 v
-264837	io
+io
+264774	v
+s
+o
+adv
+v
+v
+264781	adv
+io
+264784	v
+264786	p
+vc
+o
+264790	v
+v
+adv
+s
+adv
+v
+adv
+v
+s
+264800	adv
+adv
+o
+v
+adv
+264807	v
+264809	s
+o
+v
+264814	s
+adv
+v
+v
+adv
+s
+s
 v
 adv
 adv
 v
 s
-264844	aux
+adv
 p
-264850	v
-264854	v
-adv
+v
 o
+s
+o
+264833	v
+s
+v
+adv
+adv
+264839	o
+v
+264842	v
+o
+v
+o
+p
+vc
+s
+264850	aux
+264852	o
+adv
+v
+adv
+adv
+v
+264859	v
+s
+264863	v
+adv
 v
 v
 o
 s
-v
-adv
-o
-adv
-v
-264867	s
 264870	adv
 v
-s
-v
+aux
+264875	o
+adv
+264880	adv
+264882	v
 o
 s
-264877	adv
-264879	v
+264887	adv
+264890	v
+264892	v
 o
+264896	o
+264899	o
 v
-264883	adv
-v
-adv
-264890	o
-v
-adv
-v
-adv
-adv
-264900	v
-s
-v
+264902	v
 264904	adv
-264906	v
-adv
-264909	v
-adv
-io
 v
-264920	v
-adv
-264923	adv
 v
+264908	o
+adv
+v
+264912	o
+adv
+v
+s
+264917	v
+adv
+264920	s
+264922	adv
+264924	s
 264926	o
 v
-264931	adv
-v
-s
-adv
-adv
-v
-264938	v
-adv
-adv
-264942	v
-adv
-264945	v
-adv
-264948	s
-264950	v
-adv
-264953	v
-adv
-adv
-264957	adv
-264960	o
-v
-vc
-p
-264965	o
-v
-264968	adv
+264929	o
 v
 o
-264972	s
-p
-264975	p
-vc
 v
-264980	v
-264982	s
+264935	adv
+v
 adv
 vc
 p
-v
-264988	adv
-264990	adv
-v
-s
-o
-o
-264996	s
 p
+264942	vc
+264946	s
 vc
-265001	s
-o
-v
-s
-265006	p
-265008	vc
-265011	v
-o
-adv
-265016	adv
-265019	v
-265023	s
-v
-s
-265027	p
-vc
-o
-adv
-v
-apposition
-265034	adv
-o
-v
-v
-265039	v
-adv
-adv
-v
-adv
-265046	o
-s
+264951	o
 v
 io
-adv
-265055	adv
-aux
-265058	v
-v
+264955	v
+264957	o
 v
 o
+adv
 v
-v
-265065	s
-265070	vc
+s
+264966	vc
 p
+p
+264970	adv
+vc
+s
+s
+264977	o
+v
+adv
+264985	v
+adv
+adv
+adv
+v
+adv
+vc
+p
+o
+v
+o
+v
+aux
+264999	adv
+v
+s
+adv
+265004	s
+apposition
 v
 o
 adv
+265010	v
+o
+265013	s
+v
+o
+265017	v
+265019	adv
+v
+o
+265026	v
+s
+vc
+p
+p
+vc
+v
+o
+o
+265037	v
+s
+265041	adv
+adv
+adv
+o
+v
+265047	adv
+adv
+265050	s
+265052	o
+265054	v
+v
+265057	v
+o
+v
+adv
+265062	adv
+v
+s
+adv
+v
+o
+265069	v
+s
+o
+adv
+v
 265076	v
+adv
+265080	adv
+265082	v
 o
-s
-265080	s
-265085	apposition
-265095	p
-265097	s
-265099	apposition
-265111	v
+265085	v
+adv
+265088	adv
+265090	v
+o
+o
+265094	v
+adv
+v
+adv
+265099	v
+adv
+v
+265105	o
+v
+v
 o
 adv
-265119	io
+adv
+265112	adv
+265116	v
+adv
+io
+v
+adv
 265122	s
-io
-265125	adv
-265128	apposition
-265132	apposition
 v
-o
+v
 adv
-265139	v
-o
-adv
-265145	v
-adv
-265154	io
 s
-adv
-265160	aux
-265162	v
-265164	adv
-adv
 v
-adv
-v
-o
-adv
-265172	adv
-265175	s
-adv
-vc
-p
-265180	adv
 s
-vc
+v
+adv
+265132	adv
+265135	adv
+v
+265139	s
 v
 o
-265186	v
 v
-o
-265195	s
-265199	v
+265144	v
+s
+v
+265148	adv
+265151	v
+adv
+265154	adv
+v
+v
+265158	adv
+adv
+265165	apposition
+adv
 io
-adv
-o
+s
 v
+s
 io
-p
+s
+265176	p
 vc
-265209	v
+265182	s
 adv
-adv
-v
-o
-265215	s
-o
-v
-adv
-o
-v
+265185	v
+s
 p
-vc
-adv
-265225	o
-v
-265230	v
+265195	adv
 o
+io
+s
 v
-265234	adv
-o
-v
+s
+265202	o
+265205	adv
+265208	v
+s
+265214	apposition
 p
-adv
-vc
-v
-265242	io
+265218	aux
 aux
-adv
-265246	v
-adv
-265249	adv
-vc
+s
+apposition
+265226	io
+265229	vc
 p
-265255	s
-adv
+265235	s
+io
+265238	adv
+265241	apposition
+265244	apposition
+p
+s
+265254	apposition
 v
 o
-265260	v
+adv
+265260	adv
 265262	adv
-265265	v
-265267	o
+265264	v
+o
+adv
+adv
+265269	vc
+s
+p
 265273	adv
-v
-o
-265279	v
-o
-265282	v
 adv
-265285	adv
-265291	adv
-p
-vc
-265300	v
 v
 o
 adv
-265307	v
 adv
-265311	v
-o
-265314	adv
-265316	v
+265280	adv
+adv
+265286	adv
+265291	o2
+v
 o
 adv
-265320	adv
 v
+adv
 v
+o
+265304	apposition
+265307	adv
+265312	o
+v
+adv
+adv
+265319	v
 io
+o
 265325	adv
+265328	o
 v
 adv
 adv
-265334	v
-adv
-265337	adv
-v
-adv
-adv
-adv
-265343	v
-adv
-v
-o
-265348	v
-adv
-adv
-o
-265354	adv
-v
-265357	adv
-o
-apposition
-265362	o
-265364	v
-io
-v
-adv
-265370	adv
-v
-adv
-v
-adv
-265381	v
-265383	adv
-adv
-265388	apposition
-265390	adv
-265392	v
-265394	v
+265336	v
 o
 adv
-adv
-v
-o
-265401	o
-adv
-v
-265405	v
-adv
-o
-adv
-adv
-265411	adv
-v
+265340	o
+265348	adv
 adv
 adv
 v
-o
-v
-265419	adv
-265421	v
-io
-o
-265425	o
 v
 adv
-265429	adv
-265431	v
-265433	adv
+265355	o
 v
-265437	adv
+adv
+265362	adv
+v
 s
-apposition
-265441	p
-vc
-v
-v
 adv
-265451	s
-v
+265368	v
+adv
+265371	adv
+s
 v
 o
-265457	o
-v
-adv
-265462	o
-v
-adv
-adv
+265378	apposition
+265382	adv
 adv
 v
+v
+265391	s
+vc
+p
+265396	adv
+265399	adv
+265403	adv
+s
+v
+o
+265417	apposition
+265421	adv
+v
+v
 adv
-265470	s
-265473	v
+o
+v
 adv
-265476	adv
+265431	s
+265437	apposition
+apposition
+265441	v
+io
+o
+265446	adv
+265448	v
+s
+265453	adv
+v
+s
+o
+p
+vc
+s
+265463	p
+s
+265474	p
+s
 265478	v
-vc
-p
-265483	p
+265484	v
 adv
-vc
+265492	o
+v
 adv
-adv
+265496	adv
 v
 o
-s
 adv
-v
-io
-265495	v
-o
-v
-265499	adv
+265501	v
 adv
-265502	v
-265504	v
-o
-265509	s
-o
-265512	v
+265504	adv
+265506	adv
+265515	v
 adv
-adv
-265517	v
-adv
-adv
-265522	v
-o
-265525	v
-io
-s
-265530	v
-p
-vc
-o
-v
-io
-265539	s
-adv
-265542	s
-265544	adv
-265546	adv
-265548	o
-265550	v
-adv
-adv
-v
-o
-v
-265560	v
-s
-adv
-adv
-o
-v
-265567	v
-adv
-265570	v
-s
-adv
-adv
-265575	v
-265578	v
-v
-265581	v
-o
-v
-o
-265588	v
-adv
-s
-265594	s
+265524	v
+265526	o
 v
 adv
-265601	v
-265603	adv
+265532	o
 v
-adv
-265609	v
-io
-adv
 o2
-265614	s
+265537	s
+vc
 p
+265542	apposition
+265544	o
+adv
+v
+265548	s
+vc
+p
+adv
+265556	adv
+adv
+v
+adv
+265564	adv
+265571	apposition
+265573	adv
+v
+adv
+265579	adv
+s
+265582	v
+adv
+adv
+265589	v
+o
+265597	vc
+p
+adv
+265601	s
+265603	s
+265605	p
 vc
 adv
-265620	v
 adv
+265612	adv
+v
+o
+adv
+vc
 s
-v
-v
-265626	s
-adv
 p
+adv
+v
+adv
+adv
+v
+265625	v
+265627	v
+adv
 265630	adv
+265633	v
 adv
-p
-265634	v
-265637	adv
-v
-s
-adv
-265643	adv
-adv
-265647	s
-adv
-265650	v
+265637	v
+o
+265641	v
+265651	adv
 265653	v
 adv
-265657	adv
+s
 adv
-265661	adv
+p
+p
+265660	adv
+p
 265663	adv
-v
 s
-265668	v
+v
+p
+265668	vc
 v
 adv
+265672	adv
+265674	o
 v
 s
-o
-265675	s
+265678	adv
+v
+265681	v
+265683	adv
+s
+265686	apposition
+265689	vc
 p
 adv
+vc
+p
+265697	vc
+adv
+265700	adv
+p
 v
-265682	o
-v
-o
+adv
+265711	o
 adv
 v
+265718	adv
+265720	adv
+265722	s
+adv
+vc
+p
+vc
+p
+adv
+265732	s
+265734	vc
+p
+265738	v
+o
 o2
-o
-v
-s
-265692	adv
-adv
-v
-265696	adv
-v
-adv
-v
-v
-265702	adv
-s
-v
-265706	adv
-s
-o
-265710	adv
-v
-adv
-adv
-265715	v
+265742	o
+265746	v
 apposition
-265721	v
-o
-265724	v
-o
 adv
-adv
-v
-o
-265735	p
-s
-adv
-s
-adv
-v
-aux
-265743	s
-o
-v
-io
-adv
-s
-v
-v
-265752	o
-v
-v
-adv
-adv
+265751	o
+265756	v
 265759	o
 v
-265764	adv
-p
-vc
-v
 adv
 adv
+265765	v
+o
+265768	v
+o
 adv
+265772	io
+adv
+265775	v
+o
+adv
+265779	v
 v
 o
-v
-adv
-265776	adv
-adv
-p
-265780	v
 io
-o
-265784	v
-o
-adv
-adv
-265795	s
-v
-o
-265799	v
+apposition
+265785	o
 io
-adv
-v
-265805	aux
-265807	s
-p
-vc
-v
-265812	s
-265814	adv
+265788	adv
 v
 o
 s
-v
-io
-265821	v
 adv
-s
-265826	s
-265828	v
-adv
-265832	s
-265834	p
-265836	vc
-p
+265794	adv
+265798	v
 vc
-v
-265842	p
+p
+265803	vc
+p
+265810	v
+adv
+265817	vc
+p
+265821	adv
 s
+v
+v
+adv
+265827	adv
+adv
 s
-adv
 v
 adv
-v
+265834	adv
 adv
+s
+p
+265844	apposition
+265846	v
+o
 265853	v
-o
-265857	adv
-s
-v
-adv
-265862	p
-265864	s
-adv
-v
-s
-265869	adv
-vc
-p
-265873	v
-o
-v
-adv
-265879	s
-o
-v
-adv
-265886	vc
-adv
-p
-265890	v
-p
-s
-v
-adv
-265896	adv
-265898	s
-265901	v
-adv
-265905	o
-265908	v
-adv
-265911	aux
-adv
-v
-adv
-o
-265917	v
-s
-v
-265921	io
-265924	v
-s
-265931	v
-aux
-265936	adv
-265939	adv
-aux
-265944	s
-vc
-p
-o
-265949	v
-o
-v
-adv
-265954	s
-265956	adv
-265960	v
-adv
-v
-adv
-v
-o
-265969	p
-s
-adv
-p
 io
-265975	adv
-v
-s
 adv
-265980	s
+adv
+v
+io
+s
+265861	v
+adv
+adv
+v
+v
+v
+o
+265874	s
+adv
+adv
+v
+io
+265882	adv
+v
+io
+265889	adv
+vc
+s
+p
+265897	adv
+265899	adv
+265901	p
+vc
+adv
+265910	v
+io
+adv
+265917	io
+apposition
+265921	v
+s
+265924	adv
+io
+v
+o
+265932	v
+p
+s
+265938	v
+adv
+265941	adv
+265944	o
+v
+265947	v
+adv
+io
+265956	adv
+265958	s
+265962	adv
+265965	o
+v
+adv
+265971	apposition
+265973	adv
+v
+o
+265978	adv
 adv
 265983	v
 adv
 v
-s
-265988	io
-v
-v
 adv
-adv
-265994	s
-265996	p
-adv
+265991	s
 vc
-s
-266001	p
-vc
-s
-266005	p
-266009	adv
-v
-266014	v
-s
-v
-v
-adv
 p
-vc
+adv
+v
+o
+265998	adv
+266000	adv
 s
+266006	v
+266008	v
+io
+adv
+266015	adv
+v
+adv
+266020	adv
 266023	v
 s
-o
 adv
-266028	s
-adv
-266032	v
+266027	adv
+266030	adv
 v
-adv
-266036	v
-s
-adv
-v
-v
-adv
-266044	v
-v
-266047	s
-p
-vc
-adv
-266052	adv
-v
-v
-266056	s
-adv
-p
-vc
-s
-266062	p
-vc
-adv
-266069	s
-266071	adv
-v
-o
-v
-266076	p
-vc
-s
-266080	p
-vc
-s
-266084	p
-vc
-s
-266088	s
-266090	p
-vc
-adv
-266097	s
-p
-266101	p
-266103	vc
-adv
-p
-v
-266108	adv
-266110	s
-p
-vc
+266034	v
 o
 v
 adv
-p
-vc
+266040	p
+s
+266045	v
+266047	o
+266049	v
+adv
+266054	v
+adv
+266061	v
+adv
+266064	v
+adv
+o
+v
+266069	adv
+266072	v
+adv
+io
+s
+adv
+266082	adv
+266089	aux
+v
+266092	o
+s
+apposition
+266097	adv
+v
+adv
+adv
+v
+adv
+266106	adv
+v
+o
+adv
+v
+v
+o
+266115	adv
 266119	p
-266121	vc
-266123	adv
-266127	adv
-s
-266130	vc
-p
+266124	adv
+v
 adv
-266136	v
-266140	v
-s
-266145	v
-s
-o
+266131	p
+266140	apposition
+266146	io
 266149	v
-adv
-v
-adv
-266154	o
-266156	v
-266158	o
-v
-266163	vc
-p
-v
 s
-o
-266171	adv
-266174	v
-aux
-apposition
-266178	p
-vc
-266183	p
-p
 adv
-266187	adv
-266189	adv
+266158	v
+v
+adv
 v
 o
 v
-adv
-adv
-vc
-p
-adv
-266199	adv
-v
 o
-adv
-266204	v
-adv
-adv
-v
-adv
-adv
-266214	o
-adv
-v
-v
-o
-v
-266223	v
-adv
-266226	adv
-v
-adv
-266232	v
-266234	s
-266237	s
-266239	s
-aux
-v
-o
-adv
-o
-v
-v
-266249	adv
-266252	v
 io
-adv
-266257	o
-266263	v
-266267	o
-v
-o
-266271	o
+266167	v
 p
-266274	s
-266276	v
-266278	io
-266281	p
-o
-266284	v
+vc
+266172	adv
 v
+adv
+266179	s
+v
+vc
+p
+v
+adv
+266188	v
+o
+266191	s
+v
+o
+266204	adv
+266218	v
+s
+adv
+266242	adv
+vc
+p
+v
+266247	adv
+266250	adv
+266261	v
+266263	adv
+v
+adv
+266267	adv
+s
+vc
+p
+adv
+s
+266274	v
+266276	adv
+266279	apposition
+adv
+266286	o
+266289	v
+adv
+266294	o
+266296	v
+266298	v
+adv
+adv
+s
+v
+266304	adv
+s
+v
+adv
+266311	v
+adv
+v
+adv
+266317	adv
+266320	vc
+p
+adv
+266327	s
+v
+o
+v
+adv
+adv
+266337	s
+266339	adv
+adv
+v
+o
+266344	o
+v
+266347	adv
+v
+266350	vc
+s
+p
+266354	o
+v
+s
+adv
+266360	o
+266363	v
+adv
+266368	v
+266370	adv
+266375	v
+o
+266379	adv
+v
+adv
+266387	v
+o
+v
+o
+adv
+adv
+266396	vc
+p
+v
+266400	adv
+v
+s
+adv
+v
+adv
+266407	adv
+v
+o
 io
-266288	p
-vc
 v
-io
+adv
+v
+adv
+266416	v
+v
+adv
+266420	o
+266422	v
 v
 o
-adv
-adv
-266297	v
-o
 v
-266301	o
+s
+266428	adv
+266431	adv
 v
+266435	s
 p
-266305	v
 adv
-adv
-266309	adv
-adv
-adv
-v
-s
-adv
-aux
-266317	o
-adv
-v
-adv
-adv
-v
-s
-adv
-266326	v
-266328	o
-v
-adv
-adv
-266333	v
+266441	v
 o
-266337	v
+v
+266445	adv
+v
+266449	apposition
+266452	adv
+v
 adv
-266340	v
-io
+266456	s
+266461	v
+adv
+adv
+266465	vc
+266467	adv
 p
 v
-vc
 o
-adv
-v
-v
-266351	s
-o
-266354	v
-apposition
-266364	s
-266368	adv
-v
-s
-266374	adv
-266376	s
-vc
-v
-s
-266381	vc
-p
-266384	s
-266386	p
-266388	adv
-v
-s
-vc
-p
-266394	s
-266396	p
-vc
-adv
-266400	v
-266402	adv
-266404	v
-266406	adv
-266409	s
-266412	p
-vc
-s
-vc
-p
-v
-266419	o
-266421	v
-aux
-adv
-v
-v
-266427	v
-adv
-v
-266432	p
-s
-266436	adv
-266438	v
-o
-s
-266442	aux
-adv
-p
-vc
-266448	adv
-adv
-v
-v
-o
-266454	adv
-adv
-adv
-266458	o
-v
-s
-o2
-v
-o
-266468	adv
-266470	v
-s
+266472	s
 266474	adv
-266479	aux
-p
+v
+o
 vc
-266485	adv
+266479	p
+266482	s
+266484	v
+adv
+266488	s
+266490	v
 o
-s
-v
-v
-266492	adv
-adv
-adv
-v
-aux
-s
-v
-io
-266502	v
-s
+266493	v
 o
 adv
-v
-v
+o2
+266504	s
 266509	adv
-io
-266512	v
-266514	p
+v
+adv
+266513	v
+adv
+266518	s
+adv
+v
+266522	adv
+s
+o
+266526	v
+v
+266531	s
 vc
-o
-266518	v
-v
-adv
-s
-adv
-v
-adv
-v
-s
-266528	adv
-adv
-o
-v
-adv
-266535	v
-266537	s
-o
-v
-266542	s
-adv
-v
-v
-adv
-s
-s
-v
-adv
-adv
-v
-s
-adv
 p
+adv
 v
 o
-s
+adv
+266543	s
 o
-266561	v
-s
 v
 adv
 adv
-266567	o
-v
-266570	v
-o
-v
-o
+266549	v
+s
+266553	adv
+266557	adv
+266559	vc
 p
 vc
+266563	adv
+p
+adv
+266567	p
+adv
+266570	s
+v
 s
-266578	aux
-266580	o
-adv
-v
-adv
-adv
-v
-266587	v
+266576	p
+266580	v
 s
-266592	v
+vc
+p
+adv
+266586	adv
+v
+adv
+266590	apposition
+266593	adv
+266595	adv
+v
+266598	adv
+v
+adv
+p
+vc
 adv
 v
-v
+s
+266607	v
+adv
+266610	v
+s
+266613	v
+p
+vc
+266617	v
 o
-s
-266599	adv
 v
-aux
-266604	o
-adv
-266609	adv
-266611	v
-o
-s
-266616	adv
-266619	v
+v
 266622	v
-o
-266626	o
-266629	o
-v
-266632	v
-266634	adv
-v
-v
-266638	o
 adv
-v
-266642	o
+266626	v
 adv
-v
 s
-266647	v
-adv
-266650	s
-266652	adv
-266654	s
-266656	o
 v
-266659	o
+266631	adv
+adv
+v
+266636	s
+266639	s
 v
 o
-v
-266666	adv
-v
+266643	s
+p
+vc
+adv
 adv
 vc
 p
+266651	v
 p
-266673	vc
 s
-266678	s
-vc
+266658	v
 p
-266684	o
+vc
+s
+266663	v
+adv
 v
 io
-266688	v
-266690	o
+adv
+266671	v
+266673	adv
+266675	io
 v
+adv
+adv
+adv
+266684	apposition
 o
+266687	v
+io
 adv
-v
-266696	s
-266700	vc
-p
-p
-266704	adv
-vc
-s
-s
-266711	o
-v
-adv
-266719	v
-adv
-adv
-adv
-v
-adv
+266691	aux
+io
+266695	io
+266697	s
 vc
 p
-o
+266702	s
+266704	p
+266706	s
+p
+266711	s
 v
-o
-v
+io
+adv
+s
+266717	io
+adv
 aux
-266733	adv
 v
-s
+o
+266724	s
+266726	v
+o
+266729	o
+v
 adv
-266738	s
-apposition
+266733	o
 v
-o
+v
 adv
-266744	v
-o
-266747	s
-v
-o
-266751	v
-266753	adv
-v
-o
-266761	v
+266739	adv
+266741	v
 s
-vc
-p
-p
-vc
+io
+o2
+o
+v
 v
 o
-o
-266772	v
+266755	vc
+p
+266758	adv
+v
 s
+266762	v
+o
+266766	o
+266768	v
+o
+266771	o
+v
+266774	s
 266776	adv
-adv
-adv
 o
-v
-266782	adv
-adv
+266779	v
+266781	v
+266783	o
 266785	s
 266787	o
-266789	v
-v
-266792	v
-o
-v
-adv
-266797	adv
-v
-s
-adv
-v
-o
-266804	v
-s
-o
-adv
-v
-266811	v
-adv
-266815	adv
-266817	v
-o
-266820	v
-adv
-266823	adv
-266825	v
-o
-o
-266829	v
-adv
-v
-adv
-266834	v
-adv
-v
-266841	o
-v
-v
-o
-adv
-adv
-266848	adv
-266853	v
-adv
-io
-v
-adv
-266859	s
-v
-v
-adv
-s
-v
-s
-v
-adv
-266869	adv
-266872	adv
-v
-266876	s
-v
-o
-v
-266881	o2
-v
-s
-v
-266886	adv
-266889	v
-adv
-266892	adv
-v
-v
-266896	adv
-adv
-266903	apposition
-adv
-io
-s
-v
-s
-io
-s
-266914	p
+266789	p
 vc
-266920	s
-adv
-266923	v
-s
-p
-266934	adv
-o
-io
-s
+266794	adv
 v
 s
-266941	o
-266944	adv
-266947	v
+o
+266802	v
+adv
+266807	vc
 s
-266953	apposition
 p
-266957	aux
+266811	s
+266813	p
+vc
+s
+266817	v
+adv
+266824	s
+266826	apposition
+266828	adv
+o
+266831	adv
+v
+266834	o
+s
+266838	v
+o
 aux
+v
+o
+266844	adv
 s
-apposition
-266965	io
-266968	vc
+266847	vc
 p
-266974	s
-io
-266977	adv
-266980	apposition
-266983	apposition
+v
+o
+266855	s
+vc
 p
+266862	p
+adv
+vc
+266866	vc
+p
+adv
+266871	aux
+v
+v
+o
+266877	v
+o
+adv
+266883	aux
+v
+o
+266888	adv
+266891	adv
+266896	o
+266898	adv
+266900	s
+266903	s
+v
+o
+266908	adv
+adv
+v
+266913	o
+266915	adv
+o
+v
+266919	s
+266921	o
+v
+o
+v
+adv
+266927	p
+266929	p
+266931	aux
+o
+v
+adv
+v
+o
+v
+266939	s
+266943	vc
+p
+266946	s
+adv
+vc
+p
+adv
+v
+adv
+266960	v
+o
+266964	adv
+v
 s
-266993	apposition
 v
-o
 adv
-266999	adv
-267001	adv
-267003	v
-o
-adv
-adv
-267008	vc
+266973	p
+vc
 s
+266998	adv
+v
+o
+267004	v
+o
+v
+adv
+267012	o
+v
+v
+v
+267017	adv
+v
+o
+267021	adv
+267023	v
+o
+267028	v
+o
+adv
+267035	adv
+v
+267040	adv
+v
+o
+267047	v
+v
+267054	v
+267059	s
+vc
 p
-267012	adv
 adv
+adv
+267067	v
+adv
+267070	adv
+267072	adv
 v
-o
-adv
-adv
-267019	adv
-adv
-267025	adv
-267031	o2
-v
-o
-adv
-v
-adv
-v
-o
-267044	apposition
-267047	adv
-267053	o
-v
-adv
-adv
-267060	v
-io
-o
-267066	adv
-267070	o
-v
-adv
 adv
 267078	adv
-v
-o
-adv
-267083	o
-267091	adv
-adv
-adv
-v
-v
-adv
-267098	o
-v
-adv
-267105	adv
+267085	io
 v
 s
 adv
-267111	v
-adv
-267114	adv
-s
+267092	adv
 v
 o
-267121	apposition
-267125	adv
-adv
-v
+267097	adv
 v
 adv
-267135	s
-vc
-p
-267140	adv
+267101	adv
+v
+267104	v
+s
+v
+267109	v
+s
+267113	o
+v
+o
+v
+io
+267119	apposition
+267126	o
+v
+adv
+adv
+267133	v
+o
+267137	v
+o
+267140	s
+io
 267143	adv
-267147	adv
-s
-v
-o
-267161	apposition
-267165	adv
-v
-v
 adv
+267149	apposition
+s
+p
+267153	v
 o
-v
+267157	apposition
+adv
+s
+267162	apposition
+267164	io
+267170	vc
+p
 adv
 267175	s
+io
+267178	adv
 267181	apposition
-apposition
-267185	v
-io
-o
-267190	adv
-267192	v
-s
-267197	adv
+267184	apposition
 v
-s
 o
+267188	adv
+267192	adv
+adv
+267199	adv
+o
+v
+adv
+267215	v
+o
+s
+v
+adv
+o
+v
+adv
+267226	vc
 p
-vc
-s
-267207	p
-s
-267218	p
-s
-267222	v
-267228	v
 adv
-267236	o
+o
 v
 adv
-267240	adv
+267233	adv
+v
+s
+adv
+267238	o
+adv
+267251	p
+267254	s
+vc
+p
+267258	s
 v
 o
 adv
-267245	v
+267265	o
+v
+s
+267269	adv
 adv
-267248	adv
-267250	adv
-267259	v
+267272	v
 adv
-267268	v
-267270	o
+267277	adv
+v
+s
+v
+267282	vc
+p
+267285	adv
+267287	v
+adv
+267290	apposition
+267293	adv
+267297	v
+267299	s
+v
+aux
+267303	s
+267305	adv
+adv
+267309	v
+267312	s
+267314	p
+adv
+vc
+adv
+267325	s
+267328	adv
 v
 adv
-267276	o
+267332	adv
 v
+adv
+o
+267338	v
+s
+267341	adv
+267345	s
+267347	adv
+267349	o
+v
+s
+267353	adv
+v
+267356	adv
+267359	v
+s
+267362	adv
+o
+v
+adv
+adv
+v
+o
+v
+adv
+267372	s
+267376	adv
+adv
+267380	s
+v
+267383	adv
+v
+267386	adv
+v
+v
+267391	s
+adv
+v
+adv
+adv
+267404	adv
+267411	adv
+v
+267414	adv
+267416	adv
+267418	adv
+adv
+v
+s
+adv
+267425	adv
+267430	adv
+267432	v
+p
+267435	v
+p
+267439	v
+adv
+s
+adv
+p
+267445	o
+v
+adv
+v
+v
+267451	adv
+267453	o
+v
+adv
+v
+267458	p
+vc
+adv
+267462	adv
+p
+267465	v
+adv
+p
+adv
+267470	o
+v
+v
+267474	v
+267476	adv
+adv
+267485	s
+267487	v
+adv
+267490	adv
+adv
+267497	adv
+adv
+adv
+267502	v
+267504	adv
+267507	v
+267509	v
+o
+267512	v
+v
+o
+267516	v
+adv
+267519	adv
+adv
+v
+adv
+267526	adv
+v
+adv
+adv
+v
+s
+vc
+adv
+p
+p
+267538	s
+p
+267541	io
+v
+s
+267546	apposition
+267548	adv
+v
+267552	adv
+v
+267556	v
+o
+v
+adv
+267561	adv
+v
+adv
+267565	s
+267567	p
+267569	s
+267572	s
+267575	s
+267578	v
+o
+267582	o
+v
+o
+267586	v
+adv
+o
+v
+o
+adv
+267596	adv
+o
+v
+v
+adv
+o
+o
+adv
+v
+267606	o
+267608	adv
+o
+v
+adv
+s
+adv
+p
+267616	s
+adv
+267619	v
+adv
 o2
-267280	io
-267282	s
-vc
-p
-267287	apposition
-267289	o
-adv
 v
-267293	s
 vc
 p
 adv
-267301	adv
-adv
-v
-adv
-267309	adv
-267316	apposition
-267318	adv
-v
-adv
-267324	adv
-s
-267327	v
-adv
-adv
-267334	v
-o
-267342	vc
-p
-adv
-267346	s
-267349	s
-267351	p
-vc
-adv
-adv
-267359	adv
+267627	o
 v
 o
-adv
-vc
-s
+v
 p
-adv
+267633	vc
+267635	adv
 v
-adv
-adv
+267638	s
 v
-267373	v
-267375	v
-adv
-267378	adv
-267381	v
-adv
-267385	v
 o
-267389	v
-267399	adv
-267401	v
-adv
-267404	s
-adv
-p
-p
-267410	adv
-p
-267413	adv
-s
-v
-p
-267418	vc
-v
-adv
-267422	adv
-267425	o
-v
-s
-267429	adv
-v
-267433	v
-267435	adv
-s
-267438	apposition
-267441	vc
-p
-adv
-vc
-p
-267449	vc
-adv
-267452	adv
-p
-v
-adv
-267463	o
-adv
-v
-267470	adv
-267472	adv
-267474	s
-adv
-vc
-p
 vc
 p
 adv
-267484	s
-267486	vc
-p
-267490	v
-o
-o2
-267494	o
-267498	v
-apposition
-adv
-267503	o
-267508	v
-267511	o
+267648	s
+267650	o
 v
-adv
-adv
-267517	v
-o
-267520	v
-o
-adv
-267524	io
-adv
-267527	v
-o
-adv
-267532	v
-v
-o
+267653	v
 io
-apposition
-267538	o
-io
-267541	adv
-v
 o
-s
-adv
-267547	adv
-267551	v
-vc
-p
-267556	vc
-p
-267563	v
-adv
-267570	vc
-p
-s
-267575	adv
-s
-v
-v
-adv
-267581	adv
-267583	adv
-s
-v
-adv
-267589	adv
-adv
-s
-p
-267599	apposition
-267602	v
-o
-267609	v
-io
-adv
-adv
-v
-io
-s
-267617	v
-adv
-adv
-v
-v
-v
-o
-267631	s
-adv
-adv
-v
-io
-267639	adv
-v
-io
-267646	adv
-vc
-s
-p
-267654	adv
-267656	adv
-267658	p
-vc
-adv
+267657	apposition
+267662	adv
+267665	s
 267667	v
-io
-adv
-267674	io
-apposition
-267678	v
-s
-267681	adv
-io
+267671	s
 v
-o
-267689	v
+267674	p
+s
+adv
+267680	aux
+267682	adv
+v
+267686	p
+267689	adv
+267691	adv
+adv
 p
+267696	adv
+267699	o
+267701	v
 s
-267695	v
-adv
-267698	adv
-267701	o
-v
-267704	v
-adv
-io
-267713	adv
-267715	s
-267719	adv
-267723	o
+267704	vc
 v
 adv
-267730	apposition
-267732	adv
-v
 o
-267737	adv
+267709	v
+267711	v
 adv
-267742	v
-adv
+267714	o
 v
 adv
-267751	s
-vc
+267720	vc
 p
+267723	apposition
+267725	adv
+267728	v
 adv
+v
+267732	s
+adv
+o
+v
+adv
+267738	adv
+267741	adv
+v
+267744	adv
+v
+267748	adv
+v
+adv
+267757	v
+267759	v
+adv
+adv
+267763	s
+v
+267766	v
+adv
+v
+267770	adv
+267772	o
+adv
+v
+io
+267777	s
+v
 v
 o
-267758	adv
-267761	adv
-s
-267767	v
-267769	v
-io
-adv
-267776	adv
-v
-adv
-267781	adv
+267782	o
 267784	v
 s
 adv
-267788	adv
-267791	adv
-v
-267795	v
 o
+267789	v
+s
+267792	o
 v
 adv
-267801	p
+o
+267797	o
+267800	v
+267802	adv
 s
-267806	v
+adv
+v
+adv
 267808	o
-267810	v
-adv
-267815	v
-adv
-267822	v
-adv
-267825	v
-adv
+267811	v
+v
+267814	v
 o
+267817	adv
 v
-267830	adv
-267833	v
-adv
-io
-s
-adv
-267843	adv
-267850	aux
-v
-267853	o
-s
-apposition
-267858	adv
-v
-adv
-267862	adv
-v
-adv
-267868	adv
-v
-o
+267820	adv
+267822	s
 adv
 v
-v
-o
-267877	adv
-267882	p
-267887	adv
-v
-adv
-267894	p
-267903	apposition
-267909	io
-267912	v
-s
-adv
-267921	v
-o
-v
-adv
-v
-o
-v
-o
-io
-267931	v
-p
-vc
-267936	adv
-v
-adv
-267943	s
-v
-vc
-p
-v
-adv
-267952	v
-o
-267955	s
-v
-o
-267968	adv
-267982	v
-s
-adv
-268006	adv
-vc
-p
-v
-268011	adv
-268014	adv
-268025	v
-268027	adv
-v
-adv
-268033	adv
-s
-vc
-p
-adv
-s
-268040	v
-268042	adv
-268045	apposition
-adv
-268052	o
-268055	v
-adv
-268060	o
-268062	v
-268064	v
-adv
-o
-adv
-s
-v
-268071	adv
-s
-v
-adv
-268078	v
-adv
-v
-adv
-268084	adv
-268087	vc
-p
-adv
-268095	s
-v
-o
-v
-adv
-adv
-268106	s
-268108	adv
-adv
-v
-o
-268113	o
-v
-268116	adv
-v
-268119	vc
-s
-p
-268123	o
-v
-s
-adv
-268129	o
-268132	v
-adv
-268137	v
-268139	adv
-268144	v
-o
-268148	adv
-v
-adv
-268156	v
-o
-v
-o
-adv
-adv
-268165	vc
-p
-v
-268169	adv
-v
-268172	s
-adv
-v
-adv
-268177	adv
-v
-o
-io
-v
-adv
-v
-268185	adv
-268187	v
-v
-adv
-268191	o
-268193	v
-v
-o
-v
-s
-268199	adv
-268202	adv
-v
-268205	o
-268207	s
-p
-adv
-268213	v
-o
-v
-268217	adv
-v
-o
-268222	apposition
-268225	adv
-v
-adv
-268229	s
-268234	v
-adv
-adv
-268238	vc
-268240	adv
-p
-v
-o
-268245	s
-268247	adv
-v
-o
-vc
-268252	p
-268255	s
-268257	v
-adv
-268261	s
-268263	v
-o
-268266	v
-o
-adv
 o2
-268277	s
-268282	adv
-v
-adv
-268286	v
-adv
-268289	s
-268292	s
-adv
-v
-268296	adv
-s
+267827	v
 o
-268300	v
-v
-s
-268306	s
-vc
-p
+apposition
+267840	v
 adv
+267844	v
+o
+267847	v
+267849	v
+267851	v
+adv
+267854	v
+adv
+267857	s
 v
 o
-adv
-268318	s
-o
-v
-adv
-adv
-268324	v
-s
-268328	adv
-268332	adv
-268334	vc
-p
-vc
-268338	adv
-p
-adv
-268342	p
-adv
-268345	s
-v
-s
-268351	p
-268355	v
-s
-vc
-p
-adv
-268362	adv
-v
-adv
-268366	apposition
-268369	adv
-268371	adv
-v
-268374	adv
-v
-adv
-p
-vc
-adv
-v
-s
-268383	v
-adv
-268386	v
-s
-268389	v
-p
-vc
-268393	v
-o
-v
-v
-268398	v
-adv
-268402	v
-adv
-s
-v
-268407	adv
+267866	adv
 o
 adv
 v
-268413	s
-268416	s
+adv
+267872	v
+o
+267875	v
+o
+adv
+v
+s
+p
+vc
+v
+267884	o
+adv
+adv
+267889	o
+o2
+v
+267893	adv
+267896	adv
+v
+v
+adv
+267901	v
+o
+267908	adv
+aux
+v
+adv
+o
+v
+io
+p
+adv
+267918	adv
+p
+adv
+267922	p
 v
 o
-268420	s
-p
-vc
-adv
-adv
-vc
-p
-268428	v
-p
+v
+o
+267928	v
+o
 s
-268435	v
+267932	vc
+p
+adv
+v
+267937	v
+adv
+267941	adv
+adv
+v
+267945	s
+v
+o
+adv
+267951	s
+v
+v
+adv
+s
+adv
 adv
 p
-vc
-s
-268441	v
+p
+267961	p
+p
+267964	adv
+p
 adv
+v
+o
+adv
+267971	apposition
+267973	vc
+p
+267976	s
+vc
+adv
+p
+o
+v
+adv
+267984	o2
+267987	adv
+v
+s
+p
+vc
+adv
+267994	v
+267999	apposition
+268001	adv
+o
+v
+268005	v
+o2
+268009	o
+v
+268012	v
+adv
+o
+v
+268018	apposition
+268025	apposition
+268031	v
+o
+268041	v
+adv
+268044	v
+adv
+268048	apposition
+268052	adv
+v
+268055	adv
+v
+v
+268059	adv
+v
+adv
+adv
+v
+adv
+268066	aux
+s
+s
+adv
+v
+v
+o
+268074	adv
+o
+268077	v
+adv
+268080	v
+adv
+v
+adv
+268093	s
+268095	p
+o
+v
+268100	o
+adv
+v
+o
+s
+io
+v
+268108	adv
+o
+v
+adv
+v
+p
+vc
+aux
+268117	v
+adv
+v
+268121	v
+o2
+o
+s
+268126	v
+o
 adv
 v
 io
 adv
-268450	v
-268452	adv
-268454	io
+268133	adv
 v
-adv
-adv
-adv
-268463	apposition
-o
-268466	v
-io
-adv
-268470	aux
-io
-268474	io
-268476	s
-vc
-p
-268482	s
-268484	p
-268486	s
-p
-268491	s
 v
-io
-adv
+p
+268141	s
+268143	p
 s
-268497	io
+268146	p
+268148	s
+p
+268152	o
+v
+s
+268157	adv
+v
+adv
+adv
+268162	v
+apposition
+apposition
+s
+v
+o
+268171	o2
+268176	adv
+268179	v
+s
+adv
+v
+io
+o
+268186	aux
+268190	apposition
+268193	adv
+v
+adv
+aux
+o
+v
+268200	o
+v
+o
+v
 adv
 aux
 v
 o
-268504	s
-268506	v
+aux
+v
+s
+adv
+268213	v
+adv
+adv
+268221	s
+268223	p
+268225	v
+adv
+adv
+adv
+v
+v
+s
+268233	v
+io
+s
+p
 o
-268510	o
+v
+268240	adv
+adv
+268245	adv
+s
+268248	v
+adv
+268252	s
+268255	apposition
 v
 adv
-268514	o
 v
+o
+268265	adv
+268268	aux
+aux
+s
+vc
+p
+s
+p
+s
+p
+s
+p
+s
+p
+s
+p
+268284	s
+p
+268288	s
+p
+o
+v
+o
+v
+268298	adv
+o
+v
+268302	s
+268305	vc
+p
+v
+268309	adv
+adv
+268312	adv
+adv
+v
+adv
+v
+adv
+adv
+v
+v
+268322	p
+268324	adv
+v
+s
+268328	v
+p
+vc
+p
+vc
+v
+adv
+v
+v
+adv
+v
+adv
+268343	v
+268345	v
+268347	v
+268349	v
+268351	v
+o
+v
+adv
+v
+o
+268358	adv
+v
+v
+adv
+268363	v
+268365	s
+aux
+268368	adv
+268371	v
+adv
+s
+adv
+v
+adv
+268381	adv
+s
+268384	adv
+268386	adv
+268389	adv
+268392	v
+268395	v
+o
+268398	v
+o
+268401	v
+adv
+268404	v
+268406	o
+268408	v
+v
+v
+adv
+o
+268415	apposition
+268420	s
+268423	v
+o
+268426	adv
+268434	io
+268439	s
+adv
+268444	aux
+v
+o
+adv
+268449	v
+o
+s
+268454	v
+o
+s
+268458	adv
+268460	s
+268464	s
+268468	apposition
+p
+268472	s
+268474	apposition
+268481	apposition
+io
+268489	s
+io
+268492	adv
+268494	apposition
+v
+o
+268498	apposition
+268502	apposition
+adv
+adv
+v
+v
+o
+268515	o
 v
 adv
 268520	adv
-268522	v
-s
-io
-o2
-o
+268523	v
+adv
+adv
+268527	o
 v
-v
-o
-268536	vc
-p
+adv
+268534	apposition
+268536	v
+adv
 268539	adv
-v
-s
 268543	v
-o
-268547	o
+268546	adv
+268548	adv
 268550	v
+268552	v
 o
-268553	o
-v
-268556	s
-268558	adv
-o
-268561	v
-268563	v
-268565	o
-268567	s
-268569	o
-268571	p
-vc
-268576	adv
-v
-s
-o
-268584	v
+268556	adv
+268558	v
 adv
-268589	vc
-s
+268561	apposition
+268564	s
+vc
 p
-268593	s
-268595	p
-vc
+268572	adv
+v
+io
+o
+268579	adv
 s
-268599	v
 adv
-268606	s
-268608	apposition
-268610	adv
-o
-268613	adv
+adv
 v
-268616	o
-s
-268620	v
-o
-268623	aux
+adv
 v
-o
+adv
+v
+268590	v
+adv
+268595	adv
+268600	v
+adv
+adv
+adv
+268606	adv
+268609	v
+268611	v
+adv
+268615	adv
+268617	v
+adv
+268623	adv
 268627	adv
+v
+268631	v
+o
+adv
+268639	adv
+268641	s
+v
+o
+adv
+268649	v
+adv
+268657	adv
+v
+o
+268661	apposition
+268664	s
+vc
+p
+268671	apposition
+268674	adv
+v
 s
-268630	vc
-p
-268633	v
-o
-268639	s
+268685	apposition
+268690	apposition
+268695	s
+adv
+268700	v
+268702	s
 vc
 p
-268646	p
-adv
-vc
-268650	vc
-p
-adv
-268655	aux
-v
-v
-o
-268661	v
-o
-adv
-268667	aux
-268669	v
-o
-268673	adv
-268676	adv
-268681	o
-268684	adv
-268686	s
-268690	s
-v
-o
-268695	adv
-adv
-v
-268700	o
-268702	adv
-o
-v
 268706	s
-268708	o
-v
-o
-v
-adv
-268714	p
-268716	p
-268718	aux
-o
-v
 adv
 v
-o
-v
-268726	s
-268730	vc
+268710	s
+vc
 p
-268733	s
+268716	apposition
+s
+vc
+p
+apposition
+268724	vc
+adv
+s
+v
+268729	o
+adv
+v
+s
+268734	v
+268736	adv
+v
+o
+adv
+v
+adv
+268746	adv
+o
+268757	s
 adv
 vc
 p
+v
+268763	adv
+adv
+268768	adv
+268770	v
+adv
+268776	adv
+268778	v
+o
+o2
+268783	adv
+268785	v
+adv
 adv
 v
-adv
-268747	v
-o
-268751	adv
-v
-s
-v
-adv
-268760	p
-vc
-s
-268785	adv
-v
-o
-268791	v
-o
+268790	p
+268792	adv
 v
 adv
 268799	o
 v
 v
-v
-268804	adv
-v
-o
-268808	adv
-268810	v
-o
-268815	v
-o
 adv
-268822	adv
-v
-o
-268828	adv
-v
-o
-268835	v
-v
-268838	o
-268843	v
-268848	s
+268805	apposition
+268808	p
 vc
-p
-adv
-adv
-268856	v
-adv
-268859	adv
-268861	adv
-v
-adv
-268867	adv
-268874	io
-v
 s
 adv
-268881	adv
-v
-o
-268887	adv
 v
 adv
-268891	adv
+268815	adv
+268817	v
+o
+268823	adv
+268826	adv
+268829	s
+vc
+268832	p
+vc
+s
+adv
+268840	v
+io
+adv
 v
+o
+268848	apposition
+268850	v
+adv
+268857	adv
+268859	v
+268862	adv
+v
+s
+v
+p
+s
+268873	adv
+268875	s
+vc
+s
+268879	p
+268882	o
+s
+v
+v
+v
+o
+268889	v
+o
+adv
 268894	v
-s
-v
-268900	v
-s
 o
-268905	o
-v
-o
-v
-io
-s
-268912	apposition
-268919	o
-v
+o2
 adv
 adv
-268926	v
+adv
+v
+v
+adv
+268906	v
+adv
+adv
+v
+268911	s
+v
 o
+v
+adv
+268920	s
+adv
+v
+o
+268925	adv
+268927	v
+s
 268930	v
+adv
+268940	adv
+268946	adv
+vc
+s
+268954	p
 o
-268933	s
+v
+268958	s
+o
+v
+adv
+268964	adv
+268966	v
+268968	adv
+p
+vc
+adv
+v
+268974	v
+o
+268987	v
+o
+268990	o2
+adv
+v
+adv
+v
+268996	adv
+268998	v
+adv
+269001	v
+v
+adv
+v
+269006	s
+o
+vc
+v
+adv
+269015	adv
+269029	adv
+v
+s
+269035	adv
+269037	v
+adv
+s
+vc
+p
+269046	adv
+adv
+v
+adv
+adv
+269061	v
+adv
+adv
+269065	adv
+adv
+v
+adv
+269075	v
+o
+adv
+269079	s
+p
+vc
+adv
+269089	v
+o
+adv
+v
 io
-268936	adv
-adv
-268942	apposition
-s
-p
-268946	v
 o
-268950	apposition
-adv
-s
-268955	apposition
-268957	io
-268963	vc
+269096	v
+269102	s
+vc
 p
+269106	o
+v
 adv
-268968	s
+269110	v
+o
 io
-268971	adv
-268974	apposition
-268977	apposition
 v
 o
-268981	adv
-268985	adv
+269118	v
 adv
-268992	adv
-o
 v
-adv
-269008	v
 o
-s
-v
 adv
+adv
+269125	s
 o
 v
 adv
-269019	vc
-p
-adv
-o
-v
-adv
-269026	adv
-v
-s
-adv
-269031	o
-adv
-269044	p
-269047	s
+269137	s
 vc
 p
-269051	s
 v
+s
+269143	p
+s
 o
-adv
-269058	o
 v
+v
+adv
+269153	o
+v
+v
+269157	adv
+v
+adv
+269165	adv
+v
+269168	adv
 s
-269062	adv
+269171	adv
+269175	v
+269177	v
 adv
-269065	v
+269182	v
 adv
-269070	adv
+adv
+269188	adv
+269190	v
+adv
 v
-s
+adv
 v
-269075	vc
-p
-269078	adv
-269080	v
-adv
-269083	apposition
-269086	adv
-269090	v
-269092	s
-v
-aux
-269096	s
-269098	adv
-adv
-269102	v
-269105	s
-269107	p
-adv
+269197	s
 vc
-adv
-269118	s
-269121	adv
-v
-adv
-269125	adv
-v
-adv
-o
-269131	v
-s
-269134	adv
-269138	s
-269140	adv
-269142	o
-v
-s
-269146	adv
-v
-269149	adv
-269152	v
-s
-269155	adv
-o
-v
-adv
-adv
-v
-o
-v
-adv
-269165	s
-269169	adv
-adv
-269173	s
-v
-269176	adv
-v
-269180	adv
-v
-v
-269185	s
-adv
-v
-adv
-adv
-269198	adv
-269205	adv
-v
-269208	adv
-269210	adv
-269212	adv
-adv
-v
-s
-adv
-269219	adv
-269224	adv
-269226	v
 p
-269229	v
-p
-269233	v
-adv
-s
-adv
-p
-269239	o
-v
-adv
-v
-269244	v
-269246	adv
-269248	o
-v
-adv
-v
-269253	p
+269203	adv
+269209	s
 vc
+o
+v
 adv
+269217	adv
+p
+269220	adv
+269225	v
+adv
+o
+v
+adv
+s
+v
+adv
+269235	o
+v
+adv
+o
+269241	v
+269244	s
+269246	v
+adv
+269249	adv
+269252	s
+269254	v
+apposition
 269257	adv
-p
-269260	v
+s
 adv
-p
-adv
-269265	o
 v
+adv
 v
-269269	v
-269271	adv
+269264	o
+269267	apposition
+269273	s
+vc
+p
 adv
-269280	s
-269282	v
+v
+s
+269281	adv
 adv
-269285	adv
+s
+v
 adv
-269293	adv
+v
 adv
 adv
-269298	v
-269300	adv
-269303	v
-269305	v
+269290	v
+s
 o
-269308	v
+269294	apposition
+adv
+269298	adv
 v
+adv
+adv
+v
+o
+269305	adv
+269309	v
 o
 269312	v
 adv
-269315	adv
+adv
+269316	v
+o
+269320	p
+vc
+s
+269331	p
+269333	p
+s
+v
+269337	adv
+269343	v
+o
+269346	adv
+v
+o
+269350	v
+o
+269353	s
 adv
 v
+o
+269358	s
+269360	v
+o
 adv
-269322	adv
-v
+s
 adv
-adv
-v
+269367	o
 s
 vc
-adv
 p
-p
-269334	s
-p
-269337	io
-v
-s
-269342	apposition
-269344	adv
-v
-269348	adv
-v
-o
-269353	v
-o
-v
+269373	s
+269376	v
 adv
-269358	adv
-v
-adv
-269364	s
-269366	p
-269368	s
-269371	s
-269374	s
-269377	v
-o
-269382	o
-v
-o
-269386	v
-adv
-o
-v
-o
-adv
-269396	adv
-o
-v
-v
-adv
-o
-o
+269380	adv
 adv
 v
-269406	o
-269408	adv
-o
-v
 adv
-s
-adv
-p
-269416	s
-adv
-269419	v
-adv
-o2
-v
+269386	p
 vc
-p
-adv
-269427	o
-v
-o
-v
-p
-269433	vc
-269435	adv
-v
-269438	s
-v
-o
-vc
-p
-adv
-269449	s
-269451	o
-v
-269454	v
-io
-o
-269458	apposition
-269463	adv
-269466	s
-269468	v
-269472	s
-v
-269475	p
 s
+269391	v
 adv
-269481	aux
-269483	adv
-v
-269487	p
-269490	adv
-269492	adv
 adv
-p
-269497	adv
-269500	o
-269502	v
-s
-269505	vc
-v
 adv
-o
-269510	v
-269512	v
+269396	v
+269398	o
 adv
-269515	o
-v
+269401	adv
+269403	v
 adv
-269521	vc
-p
-269524	apposition
-269526	adv
-269530	v
-adv
-v
-269534	s
-adv
+269407	io
+269409	aux
 o
 v
 adv
-269540	adv
-269543	adv
-v
-269546	adv
-v
-269551	adv
-v
+269416	o
 adv
-269560	v
-269562	v
-adv
-adv
-269566	s
-v
-269569	v
-adv
-v
-269573	adv
-269575	o
-adv
+269420	v
+o
+269423	adv
+aux
 v
 io
-269580	s
-v
+269428	v
+adv
+aux
 v
 o
-269586	o
-269588	v
+269434	adv
+v
+adv
+aux
+v
+o
+adv
 s
-adv
-o
-269593	v
-269595	s
-269597	o
-v
-adv
-o
-269602	o
-269605	v
-269608	adv
-s
-adv
-v
-adv
-269614	o
-269617	v
-v
-269620	v
-o
-269623	adv
-v
-269626	adv
-269628	s
-adv
-v
-o2
-269633	v
-o
-apposition
-269646	v
-adv
-269650	v
-o
-269654	v
-269656	v
-269658	v
-adv
-269661	v
-adv
-269664	s
-v
-o
-269673	adv
-o
-adv
-v
-adv
-269679	v
-o
-269683	v
-o
-adv
-v
-s
-p
+269443	p
 vc
-269691	v
-269693	o
 adv
+aux
 adv
-269698	o
-o2
 v
-269702	adv
-269705	adv
-v
-v
-adv
-269710	v
 o
-269717	adv
+269452	adv
+v
 aux
 v
 adv
 o
+269460	apposition
+adv
+269463	s
+269465	adv
+269467	v
+o
+o
 v
+adv
+v
+adv
+269479	v
+269481	adv
+v
+o
+269486	o
+269488	v
+269490	v
+v
+o
+v
+269495	p
+vc
+s
+aux
+o
+269503	io
+v
+v
+269507	s
+v
+o
+adv
+o
+v
+v
+adv
+adv
+v
+adv
+adv
+269521	s
+v
+adv
+o
+269526	v
+269530	adv
+adv
+v
+269534	v
+o
+269537	v
+s
+v
+adv
+v
+adv
+269544	o
+v
+s
+269548	adv
+p
+adv
+v
+v
+adv
+v
+s
 io
-p
-adv
-269727	adv
-p
-adv
-269731	p
-269733	v
-o
 v
 o
+269561	v
+io
+269564	apposition
+269571	o
+v
+adv
+adv
+269578	v
+o
+269582	v
+o
+269585	adv
+269587	apposition
+269590	s
+vc
+p
+o
+io
+v
+269597	v
+o
+s
+269601	apposition
+269605	apposition
+269607	adv
+v
+o
+269611	v
+adv
+v
+o
+269617	vc
+p
+vc
+p
+s
+p
+adv
+269627	s
+vc
+adv
+p
+v
+o
+s
+269635	apposition
+269637	apposition
+269639	adv
+v
+adv
+adv
+269645	v
+adv
+269648	v
+adv
+269653	v
+269655	io
+269657	v
+o
+adv
+269666	v
+o
+s
+269670	apposition
+269674	v
+o
+269687	v
+adv
+s
+v
+269692	adv
+269696	v
+269698	o
+269701	s
+v
+269704	v
+io
+v
+o
+o
+v
+adv
+269712	o
+v
+s
+adv
+269718	v
+o
+269721	s
+p
+s
+269726	io
+269734	apposition
+s
+io
 269738	v
 o
-s
-269742	vc
-p
 adv
+adv
+269743	o
 v
-269747	v
 adv
-269751	adv
-adv
-v
-269755	s
+269748	adv
 v
 o
+269767	apposition
 adv
-269762	s
-v
-v
-adv
-s
-adv
-269769	adv
-p
-p
-269773	p
-p
-269776	adv
-p
-adv
-v
-o
-adv
-269783	apposition
-269785	vc
-p
-269788	s
-vc
-adv
-p
-o
-v
-adv
-269796	o2
-269800	adv
-v
-s
-p
-vc
-adv
-269807	v
-269813	apposition
-269815	adv
-o
-v
-269819	v
-o2
-269823	o
-v
-269826	v
-adv
-o
-v
-269832	apposition
-269839	apposition
-269845	v
-o
-269855	v
-adv
-269858	v
-adv
-269862	apposition
-269866	adv
-v
-269869	adv
-v
-v
-269873	adv
-v
-adv
-adv
-v
-adv
-269880	aux
-s
-s
-adv
-v
-v
-269887	o
-269889	adv
-o
-269892	v
-adv
-269895	v
-adv
-v
-adv
-269908	s
-269910	p
-o
-v
-269916	o
-adv
-v
-o
-s
-io
-v
-269924	adv
-o
-v
-adv
-v
-p
-vc
+269773	v
 aux
-269933	v
+v
 adv
+269778	o
+269781	s
+269783	adv
 v
-269937	v
-o2
-o
-269941	s
-269943	v
-o
 adv
-v
-io
-adv
-269950	adv
-v
-v
+269798	v
 p
-269958	s
-269960	p
-s
-269963	p
-269965	s
+vc
+adv
+adv
+269804	s
 p
-269969	o
-v
+269807	vc
+269810	v
+o
+adv
+269814	adv
+269818	vc
 s
-269974	adv
-v
+p
+adv
+269823	v
+269830	adv
+269832	v
+s
+269836	adv
 adv
 adv
+269843	adv
+269845	s
+269848	apposition
+269851	v
+269853	adv
 o
-269980	v
-apposition
-apposition
+v
 s
 v
 o
-269989	o2
+s
+269861	adv
+v
+o
+o
+v
+adv
+269868	adv
+v
+adv
+269872	adv
+269874	adv
+v
+o
+v
+269880	v
+o
+269884	adv
+269886	o
+v
+adv
+269890	apposition
+v
+o
+adv
+269896	v
+s
+269899	v
+aux
+o
+269904	apposition
+269908	p
+vc
+269911	v
+269914	v
+adv
+v
+adv
+269920	v
+adv
+o
+269925	adv
+269927	s
+269930	adv
+p
+269939	v
+adv
+269942	v
+o
+adv
+v
+o
+269948	v
+269951	v
+o
+269958	adv
+p
+269961	vc
+269963	v
+269965	p
+269967	s
+p
+269970	v
+adv
+o
+adv
+269978	v
+p
+vc
+269982	s
+269984	vc
+p
+adv
+269990	s
+v
+o
 269994	adv
-269997	v
-s
-adv
+v
+o
+v
 v
 io
 o
-270004	aux
-270008	apposition
-270011	adv
-v
+270010	p
 adv
-aux
-270016	o
-v
-270019	o
-v
-o
-v
-adv
-aux
-v
-o
-aux
-v
-adv
-s
-adv
-270033	v
-adv
-adv
-270042	s
-270044	p
-270046	v
-adv
-adv
-adv
-v
-v
-s
-270054	v
-io
-s
-p
-o
-v
-270061	adv
-adv
-270066	adv
-s
-270069	v
-adv
-270073	s
-270076	apposition
-v
-adv
-v
-o
-270086	adv
-270089	aux
-aux
-s
-vc
-p
-s
-p
-s
-p
-s
-p
-s
-p
-s
-p
-270105	s
-p
-270109	s
-p
-o
-v
-o
-v
-270119	adv
-o
-v
-270123	s
-270126	vc
-p
-v
-270130	adv
-adv
-270133	adv
-adv
-v
-adv
-v
-adv
-adv
-v
-v
-270143	p
-270145	adv
-v
-s
-270149	v
-p
-vc
-p
 vc
 v
+270015	aux
+o
+270021	adv
+270023	v
+adv
 adv
 v
-v
-adv
-v
-adv
-270164	v
-adv
-270167	v
-270169	v
-270171	v
-270173	v
 o
 v
 adv
-v
 o
-270180	adv
-v
-v
-adv
-270185	v
-270187	s
-aux
-270191	adv
-270194	v
-adv
-s
-adv
-v
-adv
-270204	adv
-s
-270207	adv
-270209	adv
-270212	adv
-270215	v
-270218	v
-o
-270221	v
-o
-270224	v
-adv
-270227	v
-270229	o
-270231	v
-v
-v
-adv
-o
-270238	apposition
-270243	s
-270246	v
-o
-270249	adv
-270257	io
-270262	s
-adv
-270267	aux
-v
-o
-adv
-270272	v
-o
-s
-270277	v
-o
-s
-270281	adv
-270283	s
-270287	s
-270291	apposition
+270033	s
 p
-270295	s
-270297	apposition
-270304	apposition
-io
-270312	s
-io
-270315	adv
-270317	apposition
+270037	p
+270040	adv
 v
-o
-270321	apposition
-270325	apposition
-adv
-adv
-v
-v
-o
-270339	o
-v
-adv
-270344	adv
-270348	v
-adv
-adv
-270352	o
-v
-adv
-270359	apposition
-270361	v
-adv
-270365	adv
-270369	v
-270372	adv
-270374	adv
-270377	v
-270379	v
-o
-270383	adv
-270385	v
-adv
-270389	apposition
-270392	s
 vc
-p
-270400	adv
-v
-io
+270044	v
+270046	o
+270049	s
 o
-270407	adv
+v
+o
+270055	adv
+v
 s
 adv
 adv
-v
-adv
-v
-adv
-v
-270418	v
-adv
-270423	adv
-270428	v
-adv
-adv
-adv
-270433	adv
-270435	adv
-270438	v
-270440	v
-adv
-270444	adv
-270446	v
-adv
-270452	adv
-270456	adv
-v
-o
-270461	v
+270061	v
 o
 adv
-270469	adv
-270471	s
-v
-o
-adv
-270479	v
-adv
-270489	adv
-v
-o
-270493	apposition
-270496	s
-vc
-p
-270503	apposition
-270506	adv
-v
+270069	adv
 s
-270517	apposition
-270522	apposition
-270527	s
-adv
-270532	v
-270534	s
-vc
-p
-270538	s
-adv
 v
-270542	s
+o
+adv
+270075	v
+o
+270081	v
+o
+270086	p
 vc
-p
-270548	apposition
-s
-vc
-p
 apposition
-270556	vc
-adv
 s
-v
-270561	o
 adv
 v
+adv
+270094	v
 s
-270566	v
+270097	p
+vc
+aux
+270104	vc
+p
+270107	adv
+270110	o
+v
+s
+270114	adv
+270118	s
+adv
+270122	o
+270126	v
+270130	o
+v
+270133	o
+adv
+v
+270137	adv
+p
+v
+s
+io
+v
+270144	v
+adv
+v
+o
+270149	adv
+v
+270152	adv
+s
+adv
+s
+270157	aux
+v
+adv
+adv
+270162	adv
+270164	adv
+v
+o
+270168	v
+adv
+270172	v
+v
+adv
+s
+adv
+270180	v
+o
+s
+s
+270185	p
+270190	s
+p
+270195	adv
+270198	s
+270200	vc
+p
+270207	adv
+v
+v
+v
+adv
+adv
+270214	v
+o
+apposition
+270227	adv
+270229	v
+o
+270232	adv
+270235	s
+v
+adv
+270240	s
+270242	v
+270244	adv
+v
+270248	p
+vc
+v
+io
+270253	v
+v
+270256	v
+270258	v
+adv
+s
+adv
+v
+v
+adv
+v
+o
+270269	v
+o
+v
+270273	adv
+v
+s
+270277	adv
+270279	v
+s
+adv
+adv
+270284	v
+io
+o
+270293	v
+o
+270296	adv
+v
+o
+v
+270301	s
+o
+adv
+v
+aux
+adv
+adv
+270313	adv
+270317	adv
+v
+270320	s
+v
+adv
+o
+270325	v
+io
+v
+adv
+adv
+270332	adv
+v
+adv
+adv
+270338	adv
+270340	adv
+v
+adv
+v
+o
+270347	v
+o
+270352	s
+270363	v
+o
+270366	adv
+o
+270369	s
+v
+270372	adv
+270378	s
+adv
+adv
+v
+o
+270384	o2
+adv
+adv
+270391	adv
+270402	adv
+270404	aux
+v
+o
+270408	adv
+270412	v
+adv
+adv
+v
+s
+v
+270419	v
+o
+270422	adv
+v
+270425	v
+adv
+v
+270429	o
+v
+io
+adv
+270435	p
+270437	vc
+s
+270442	v
+s
+adv
+270446	v
+s
+o
+270450	v
+adv
+270454	adv
+p
+270458	s
+270461	adv
+v
+o
+adv
+v
+270467	adv
+270469	o
+270472	p
+s
+adv
+270478	adv
+v
+io
+270482	v
+270485	v
+o
+s
+adv
+270490	adv
+270492	v
+o
+v
+270498	adv
+v
+o
+270504	adv
+adv
+270508	adv
+o
+v
+v
+io
+s
+270515	p
+vc
+adv
+v
+o
+adv
+270522	v
+o
+adv
+270531	v
+270533	o
+s
+aux
+v
+adv
+270539	v
+v
+270542	v
+o
+270545	v
+adv
+270549	io
+v
+270553	v
+adv
+adv
+270558	o
+v
+adv
+v
+270563	s
+v
+aux
+adv
+v
 270569	adv
 v
-o
-adv
-v
-adv
-270579	adv
-o
-270590	s
-adv
-vc
-p
-v
-270596	adv
-adv
-270601	adv
-270603	v
-adv
-270609	adv
-270611	v
-o
-o2
-270616	adv
-270618	v
-adv
-adv
-v
-270623	p
-270625	adv
-v
-adv
-270634	o
-v
-v
-adv
-270640	apposition
-270643	p
-vc
-s
-adv
-v
-adv
-270650	adv
-270652	v
-o
-270658	adv
-270661	adv
-270665	s
-vc
-p
-270669	p
-vc
-s
-adv
-270677	v
-io
-adv
+270572	s
+270575	adv
 v
 o
-270685	apposition
-270687	v
-adv
-270694	adv
-270696	v
-io
-270700	adv
+270580	v
+270582	s
 v
-s
-v
-p
-s
-270711	adv
-270713	s
-vc
-s
-270717	p
-270720	o
-s
-v
-v
-v
-o
-270727	v
-o
-adv
-270732	v
-o
-o2
-adv
-adv
-adv
-v
-v
-adv
-270744	v
-adv
-adv
-v
-270749	s
-v
-o
-v
-adv
-270758	s
-adv
-v
-o
-270763	adv
-270765	v
-s
-270768	v
-adv
-270778	adv
-270784	apposition
-adv
-vc
-s
-270793	p
-o
-v
-270797	s
-o
-v
-adv
-270804	adv
-270806	v
-270808	adv
-p
-vc
-adv
-v
-270814	v
-o
-270828	v
-o
-270831	o2
-adv
-v
-adv
-v
-270837	adv
-270839	v
-adv
-270842	v
-v
-adv
-270847	v
-270849	s
-o
-vc
-v
-adv
-270858	adv
-270872	adv
-v
-s
-270878	adv
-270880	v
-adv
-270884	s
-vc
-p
-270891	adv
-adv
-v
-adv
-adv
-270906	v
-adv
-adv
-270911	adv
-adv
-v
-adv
-270921	v
-o
-adv
-270925	s
-p
-vc
-adv
-270935	v
-o
-adv
-v
-io
-o
-270942	v
-o
-270949	s
-vc
-p
-270953	o
-v
-adv
-270957	v
-o
-io
-v
-o
-270965	v
-adv
-v
-o
-adv
-adv
-270972	s
-o
-v
-adv
-270985	s
-vc
-p
-v
-s
-270991	p
-s
-o
-v
-adv
-v
-adv
-271002	o
-v
-v
-271006	adv
-v
-adv
-271014	adv
-v
-o
-271018	adv
-s
-271021	adv
-271025	v
-271027	v
-adv
-271034	v
-adv
-adv
-271040	adv
-271042	v
-adv
-v
-adv
-v
-271049	s
-vc
-p
-271055	adv
-271061	s
-vc
-o
-v
-adv
-271069	adv
-p
-271072	adv
-271077	v
-adv
-o
-v
+270585	adv
 adv
 s
 v
 adv
-271087	o
-v
+270591	v
 adv
 o
-271093	v
-271096	s
-271098	v
+270595	io
+v
 adv
-271101	adv
-271104	s
-271106	v
+270599	s
 apposition
-271109	adv
+v
+v
+adv
+270607	adv
+v
+v
+270612	s
+270614	adv
+270621	v
+adv
+270624	s
+270627	v
+adv
+adv
+s
+apposition
+v
+v
+adv
+adv
+v
+adv
+adv
+270644	adv
+adv
+p
+vc
+270649	v
+o
+adv
+270654	adv
+270660	aux
+adv
+o
+v
+io
+v
+s
+270668	adv
+v
+270671	s
+270673	s
+adv
+adv
+v
+270678	v
+o
+270681	adv
 s
 adv
 v
+270686	s
 adv
 v
-271116	o
-271119	apposition
-271122	apposition
-271127	s
+270690	adv
+v
+s
+270694	aux
+adv
 vc
 p
+270699	s
+o
+270702	s
+v
+s
+270706	p
+270708	vc
+270711	adv
+vc
+p
+270718	v
+270720	s
+270723	v
+270725	v
+270727	v
+adv
+v
+270731	v
 adv
 v
 s
+270736	p
+vc
+v
+v
+o
+270748	v
+o
+s
+adv
+270753	adv
+270755	adv
+270760	apposition
+v
+adv
+270765	v
+270767	v
+adv
+adv
+v
+270772	v
+o
+270775	v
+adv
+o
+270779	adv
+v
+v
+270783	o
+s
+aux
+v
+v
+adv
+270790	v
+o
+adv
+270794	v
+o
+270797	v
+o
+adv
+adv
+adv
+270804	v
+adv
+v
+270808	o
+aux
+v
+o
+v
+o
+v
+o
+v
+adv
+v
+apposition
+270821	s
+o
+adv
+io
+v
+270827	adv
+o
+v
+adv
+270834	adv
+v
+adv
+v
+adv
+v
+s
+270842	p
+adv
+270845	adv
+o
+adv
+v
+o
+adv
+v
+o
+270854	v
+o
+v
+adv
+270860	v
+s
+270866	v
+o
+adv
+270870	s
+270878	adv
+adv
+270885	apposition
+v
+p
+v
+o
+s
+adv
+v
+aux
+v
+adv
+v
+o
+270899	adv
+270901	v
+o
+adv
+v
+s
+io
+270908	s
+270913	apposition
+p
+s
+270918	io
+270924	apposition
+270927	apposition
+s
+io
+270931	adv
+270936	apposition
+v
+v
+o
+adv
+adv
+aux
+270944	p
+vc
+270947	v
+s
+270951	v
+s
+270960	s
+adv
+v
+adv
+270967	adv
+270980	adv
+v
+p
+270987	adv
+v
+s
+adv
+270993	adv
+adv
+v
+270997	p
+adv
+v
+v
+o
+o
+271004	io
+v
+o
+adv
+adv
+271022	v
+o
+271025	adv
+v
+o
+271029	adv
+v
+o
+271036	s
+o
+v
+apposition
+adv
+271051	v
+adv
+v
+adv
+271058	v
+adv
+271061	v
+271063	v
+s
+271066	adv
+adv
+271070	adv
+adv
+v
+adv
+adv
+271076	o
+v
+adv
+s
+271082	v
+o
+271088	adv
+271091	v
+s
+271097	adv
+271099	s
+adv
+adv
+271109	apposition
+v
+271112	o
+aux
+adv
+271121	apposition
+271126	adv
+v
+adv
+adv
+v
+s
+adv
 271135	adv
-adv
+271147	v
 s
-v
-adv
-v
-adv
-adv
-271144	v
+271151	adv
 s
 o
-271148	apposition
-adv
-271152	adv
 v
 adv
+271159	v
+s
 adv
-v
-o
-271159	adv
 271163	v
-o
-271166	v
-adv
-adv
-271170	v
-o
-271174	p
-vc
 s
-271185	p
-271187	p
-s
-v
-271191	adv
-271197	v
+271169	apposition
+271172	v
+271174	adv
+271176	v
 o
-271200	adv
+271180	s
+adv
+271185	v
 v
 o
-271204	v
-o
-271207	s
+271189	vc
+p
 adv
 v
-o
-271212	s
-271214	v
-o
-adv
-s
-adv
-271221	o
-271223	s
+271194	adv
 vc
 p
-271228	s
-271231	v
-adv
-271235	adv
-adv
-v
-adv
-271241	p
-vc
-s
-271246	v
-adv
-adv
-adv
-271251	v
-271253	o
-adv
-271256	adv
-271258	v
-adv
-271262	io
-271264	aux
-271266	o
-v
-adv
-271272	o
-adv
-271276	v
 o
-271279	adv
-aux
 v
 io
-271284	v
-adv
-aux
+271201	adv
 v
-o
-271290	adv
 v
 adv
-271294	aux
+v
+s
+adv
+271210	s
+271213	adv
+v
+271216	adv
+v
+adv
+271220	adv
+v
+271223	adv
+v
+271226	o
+s
+271229	v
+adv
+271235	v
+adv
+271240	s
+vc
+271243	p
+271246	adv
+271256	v
+adv
+adv
+o
+271262	adv
+v
+adv
+v
+s
+271268	adv
+v
+io
+s
+o
+adv
+v
+s
+o
+271278	v
+s
 v
 o
+271283	v
 adv
 s
-271300	p
-vc
+271287	v
+v
+o
+adv
 adv
 aux
-adv
-v
-o
-271309	adv
-v
-aux
 v
 adv
+271296	v
 o
-271317	apposition
-adv
-271320	s
-271322	adv
-271324	v
-o
-o
-v
-adv
-v
-adv
-271336	v
-271338	adv
-v
-o
-271343	o
-271345	v
-271347	v
-v
-o
-v
-271352	p
-vc
 s
+adv
+adv
+adv
+271306	adv
+adv
+v
+o
+adv
+271313	adv
+271319	apposition
+271322	aux
+v
+271325	v
+o
+o
+v
+adv
+271335	s
+271341	apposition
+271346	apposition
+271348	v
+o
+271351	v
+o
+271356	adv
+v
+o
+271361	v
+adv
+271367	adv
+v
 aux
-o
-271360	io
-v
-v
-271364	s
-v
-o
 adv
 o
-v
-v
-adv
-adv
-adv
-v
-adv
-adv
-271379	s
-v
-adv
-o
+271373	s
+271376	v
+271378	v
+271380	adv
 271384	v
-o
+adv
 271389	adv
-adv
-v
-271393	v
-o
-271396	v
+271391	p
 s
-v
-adv
-v
-adv
-271403	o
-v
-s
-271407	adv
 p
+271395	vc
+271397	s
+v
+o
+271401	v
 adv
+271404	v
+271406	adv
+adv
+271409	o
 v
 v
+271414	s
+271416	v
+o
+271419	adv
+271429	v
+271431	io
+aux
 adv
+271437	apposition
 v
 s
+adv
+271443	adv
+v
+271446	adv
+adv
+271449	o
+v
+adv
+s
+271454	v
+adv
+v
+v
+o
+271462	v
+adv
+271465	adv
+o
+v
+adv
+271470	adv
+271473	adv
+271475	v
+adv
+adv
+v
+o
+271482	adv
+v
+o
+271487	o
+o2
+v
 io
+adv
 v
 o
-271420	v
+271496	vc
+p
+o
+v
 io
-s
-271424	apposition
-271431	o
+271502	s
+adv
+v
+v
+adv
+v
+v
+271510	s
 v
 adv
 adv
-271438	v
-o
-271442	v
-o
-271445	adv
-271448	apposition
-271451	s
-vc
-p
-o
+adv
+v
+271517	v
 io
+271520	v
+271522	adv
+271524	apposition
+271526	adv
 v
-271458	v
 o
+271530	v
 s
-271462	apposition
-271467	apposition
-271469	adv
-v
-o
-271473	v
+271533	aux
 adv
 v
-o
-271479	vc
-p
-vc
-p
-s
-p
+v
+271539	s
 adv
-271489	s
-vc
-adv
-p
 v
 o
-s
-271497	apposition
-271499	apposition
-271501	adv
+271547	o
 v
 adv
-adv
-271507	v
-adv
-271510	v
-adv
-271515	v
-271517	io
-271519	v
-o
-adv
-271528	v
-o
-s
-271532	apposition
-271536	v
-o
-271550	v
-adv
-s
-o
 v
-271556	adv
+adv
+271553	v
+271557	o
+v
 271560	v
 271562	o
-271565	s
-v
+s
 271568	v
 io
 o
-v
-o
-271574	o
-v
 adv
-271578	o
-v
-s
 adv
-271584	v
-o
-271587	s
+271574	s
 p
+271577	s
+adv
+271581	s
+vc
+p
+adv
+271586	adv
+v
 s
-271592	io
-271600	apposition
+271593	apposition
+p
+271596	s
+apposition
+271604	apposition
+271608	apposition
+271610	io
+apposition
+271614	s
+adv
+271621	apposition
+271624	v
 s
+v
+adv
+v
+adv
+271631	v
 io
-271605	v
 o
 adv
-adv
-271610	o
 v
-adv
-271615	adv
-v
+271637	v
+271641	s
 o
-271634	apposition
-adv
-271640	v
-aux
 v
 adv
-271645	o
-271648	s
-271650	adv
-v
-adv
-271665	v
+271646	o
+271648	apposition
+271650	s
+271654	vc
 p
+271662	adv
+s
+v
+v
+adv
+v
 vc
-adv
-adv
-271671	s
-p
-271674	vc
-271677	v
-o
-adv
-271681	adv
-271685	vc
-s
 p
 adv
-271690	v
-271697	adv
-271699	v
+v
+o
+271674	o
+v
+271677	adv
+v
+v
+271682	p
 s
-271703	adv
-adv
-adv
-271710	adv
-271712	s
-271715	apposition
-271718	v
-271720	adv
+271685	s
 o
+adv
 v
+v
+o
+271692	adv
 s
 v
+271696	adv
+271708	s
 o
+271711	v
+271713	v
+271721	o
+v
 s
-271728	adv
+o
+v
+io
 v
 o
+apposition
+271731	apposition
+271734	o2
 o
+v
 v
 adv
-271735	adv
-v
 adv
-271739	adv
-271741	adv
-v
-o
-v
+vc
+p
+271745	v
 271747	v
-o
-271752	adv
-271754	o
 v
 adv
-271758	apposition
 v
-o
-adv
-271764	v
+271752	s
+271756	adv
+271760	apposition
+271763	p
 s
-271767	v
-aux
-o
-271772	apposition
-271776	p
+271768	s
+v
+adv
+271772	o
+v
+p
 vc
-271779	v
-271782	v
+s
+271778	adv
+v
+271781	adv
+271783	v
+s
+o
+271787	adv
+271789	v
+v
+adv
+adv
+271794	io
+271799	apposition
+271801	s
+271803	adv
+271807	aux
+o
+271810	v
+io
+aux
+adv
+271816	v
 adv
 v
 adv
-271788	v
-adv
 o
-271793	adv
-271795	s
-271798	adv
-p
-271806	o
-271808	v
-adv
-271811	v
+271822	v
 o
-adv
+271826	o
+s
 v
-o
-271817	v
-271820	v
-o
-271827	adv
+adv
+271831	v
 p
-271830	vc
-271832	v
-271834	o
-p
-271837	s
-p
+vc
+271836	o
+v
+io
 271840	v
 adv
-o
+v
+v
+271845	adv
+v
+s
 adv
-271848	v
-p
+271855	p
 vc
-271852	s
-271854	vc
-p
+271858	o
+271860	v
 adv
-271862	s
+271865	s
+p
+271868	adv
+271872	s
+s
+v
+v
+v
+271878	adv
+271880	v
+p
+271883	s
+p
+s
+271890	apposition
+271892	apposition
 v
 o
-271866	adv
-v
-o
-v
-v
-io
-o
-271882	p
+o2
+adv
+s
+adv
 adv
 vc
-v
-271887	aux
-o
-271893	adv
-271895	v
-adv
-adv
-v
-o
-v
-adv
-o
-271906	s
+s
 p
-271910	p
-271913	adv
+271905	o
 v
-vc
-271917	v
-271919	o
-271922	s
-o
+adv
 v
+apposition
+271914	v
+271916	v
+s
+adv
+271920	v
 o
+adv
+271925	s
+adv
 271928	adv
-v
-s
-adv
-adv
-271934	v
+271931	v
 o
 adv
-271942	adv
-s
+271941	s
+v
+adv
 v
 o
+apposition
+s
 adv
-271948	v
-o
+v
+adv
+271952	o
 271954	v
+271956	s
+v
+271959	v
 o
-271961	p
-vc
-apposition
+271962	vc
+p
 s
-adv
+271966	adv
 v
 adv
-271969	v
 s
-271972	p
-vc
-aux
-271979	vc
-p
+271972	s
+adv
+v
+s
+271977	v
+adv
+v
+v
 271982	adv
-271986	o
-v
-s
-271990	adv
-271994	s
+271985	v
 adv
-271998	o
-272002	v
-272006	o
-v
-272009	o
-adv
-v
-272014	adv
+271989	adv
 p
-v
 s
-io
-v
-272021	v
-adv
+271993	s
+o
 v
 o
-272026	adv
 v
-272029	adv
-s
-adv
-s
-272034	aux
+v
+272000	s
+p
+vc
+apposition
+272010	o
+272012	adv
+v
+o
 v
 adv
 adv
-272039	adv
+272021	s
+o
+272024	v
+adv
+v
+adv
+o
+v
+adv
+p
+272033	adv
+v
+adv
+272037	v
+272039	v
 272041	adv
-v
 o
-272045	v
-adv
-272049	v
 v
 adv
-s
+272047	adv
 adv
-272057	v
-o
-s
-s
-272062	p
-272067	s
+272050	v
+272054	s
+adv
 p
-272072	adv
-272075	s
-272077	vc
-p
-272084	adv
-v
-v
-v
+272058	adv
 adv
-adv
-272091	v
+v
+272062	v
 o
+272066	adv
+272068	s
+272070	v
+adv
+adv
+v
+p
+vc
+s
+adv
+p
+272082	s
+vc
+p
+272086	o
+adv
+v
+272093	adv
+v
+o
+io
+v
+272099	o
+adv
+272102	apposition
+272105	o
+io
+v
+v
+v
+adv
+adv
+272114	v
+272116	v
+adv
+v
+adv
+272121	v
+s
+vc
+p
+272127	v
 apposition
-272104	adv
-272106	v
-o
-272109	adv
-272112	s
-v
-adv
-272117	s
-272119	v
-272121	adv
-v
-272126	p
-vc
-272129	v
-io
-272132	v
-v
-272135	v
-272137	v
-adv
-s
-adv
-v
-v
-adv
-v
-o
-272148	v
-o
-v
-272152	adv
-v
-s
-272158	adv
-272160	v
-s
-adv
-adv
-272165	v
-io
-o
-272174	v
-o
-272177	adv
-v
-o
-v
-272182	s
-o
-adv
-v
-aux
-adv
-adv
-272194	adv
-272198	adv
-v
-272201	s
-v
-adv
-o
-272206	v
-io
-v
-adv
-adv
-272214	adv
-v
-adv
-adv
-272220	adv
-272222	adv
-v
-adv
-v
-o
-272229	v
-o
-272234	s
-272245	v
-o
-272248	adv
-o
-272251	s
-v
-272254	adv
-272260	s
-adv
-adv
-v
-o
-272266	o2
-adv
-adv
-272273	adv
-272284	adv
-272286	aux
-v
-o
-272290	adv
-272294	v
-adv
-adv
-v
-s
-v
-272301	v
-o
-272304	adv
-v
-272307	v
-adv
-v
-272311	o
-v
-io
-adv
-272318	p
-272320	vc
-s
-272323	p
-272327	v
-s
-adv
-272331	v
-s
-o
-o
-272336	v
-adv
-272341	adv
+272133	adv
 p
-272345	s
-272348	adv
-v
-o
-adv
-v
-272354	adv
-272356	o
-272360	p
+vc
 s
+272139	s
+v
 adv
-272366	adv
+v
+adv
 v
 io
-272370	v
-272373	v
-o
+v
+adv
+v
+adv
+v
+adv
+s
+272154	adv
+v
+272157	adv
+272159	v
 s
 adv
-272378	adv
-272380	v
-o
 v
-272386	adv
-v
-o
-272392	adv
 adv
-272396	adv
-o
+272167	adv
+272170	v
+adv
+272173	v
 v
+v
+o
+s
+v
+adv
+272186	v
+o
+272189	s
+272191	p
+272193	s
+p
+adv
+v
+v
+272199	adv
+272203	o
 v
 io
+p
+vc
+272210	v
+adv
+272218	adv
+v
+o
+272224	v
+v
+272227	o
+adv
 s
-272403	p
+272232	adv
+vc
+p
+s
+272237	adv
+p
+vc
+o
+v
+272246	v
+p
+s
+272252	adv
+272254	v
+272257	v
+adv
+272260	v
+s
+vc
+p
+272267	v
+o
+272270	s
+o
+272273	v
+272275	p
+vc
+272278	adv
+272285	v
+v
+adv
+272291	adv
+v
+272296	s
+v
+io
+adv
+adv
+272305	o
+v
+p
+vc
+272310	s
+272312	p
 vc
 adv
 v
+adv
+272319	v
+adv
+o
+272323	v
+o
+272326	v
+272328	v
+o
 o
 adv
-272410	v
-o
+v
+272334	v
 adv
-272419	v
-272421	o
+272337	o
+adv
+272340	o
+adv
+272343	o
+adv
+272346	adv
+272348	o
+v
+apposition
+272354	s
+o
+272357	v
+v
+adv
+o
+o
+272363	v
+272365	o
+v
+io
 s
-aux
+272370	vc
+p
+adv
+272374	s
+272379	v
 v
 adv
-272427	v
+272383	v
+adv
+272388	adv
+272391	v
 v
-272430	v
+v
 o
+v
+272397	p
+vc
+272401	s
+o
+272406	adv
+v
+o
+v
+272411	vc
+adv
+p
+s
+v
+adv
+272419	vc
+p
+272422	adv
+272424	v
+272426	v
+272428	v
+272430	o
+v
 272433	v
-adv
-272437	io
 v
+272436	adv
+272438	v
+o
 272441	v
-adv
-adv
-272446	o
-v
+272444	v
 adv
 v
-272451	s
 v
-aux
-adv
-v
-272457	adv
-v
-272460	s
-272463	adv
 v
 o
-272469	v
-272471	s
-v
-272474	adv
+272451	o
+272453	v
 adv
+272456	adv
+v
+v
+adv
+272461	adv
+272463	p
+272465	p
+272467	v
+adv
+v
+v
+272472	s
+v
+v
+v
+o
+v
+v
+adv
+adv
+272482	s
+v
+adv
+272487	s
+v
+o
+v
+o
+272493	adv
+v
 s
+272497	o
+272499	v
+s
+272502	adv
 v
 adv
-272480	v
-adv
-272483	o
-272485	io
 v
 adv
-272489	s
-apposition
-v
 v
 adv
-272497	adv
-v
-v
-272502	s
-272504	adv
 272511	v
-adv
-272514	o
-s
-272518	v
-adv
-adv
-s
-apposition
-v
-v
-adv
-adv
-v
-adv
-adv
-272535	adv
-adv
-p
-vc
-272540	v
+272513	s
 o
-adv
-272545	adv
-272551	aux
-adv
 o
 v
-io
-v
-s
-272559	adv
-v
-272562	s
-272564	s
-adv
 adv
 v
-272570	v
-o
-272573	adv
+272520	p
 s
 adv
-v
-272578	s
-adv
-v
-272582	adv
-v
-s
-272586	aux
-adv
-vc
-p
-272591	s
-o
-272594	s
-v
-s
-272598	p
-272600	vc
-272603	adv
-vc
-p
-272611	v
-272613	s
-272616	v
-272618	v
-272620	v
-adv
-v
-272624	v
-adv
-v
-s
-272629	p
-vc
-v
-v
-o
-272641	v
-o
-s
-adv
-272646	adv
-272648	adv
-272653	apposition
-v
-adv
-272659	v
-272661	v
-adv
-adv
-v
-272666	v
-o
-272669	v
-adv
-o
-272673	adv
-v
-v
-272677	o
-s
-aux
-v
-v
-adv
-272684	v
+272524	adv
 o
 adv
-272688	v
-o
-272691	v
-o
+v
+272529	adv
 adv
-adv
-adv
-272698	v
+272534	v
 adv
 v
-272702	o
-aux
-o
+272538	s
+272540	o
 v
-o
 v
-o
+adv
+272552	o
 v
+adv
 o
 v
 adv
-v
-apposition
-272716	s
 o
 adv
 io
 v
-272722	adv
-o
-v
-adv
-272730	adv
-v
-adv
-v
-adv
-v
-s
-272738	p
-adv
-272741	adv
-272743	o
-adv
-v
-o
-adv
-v
-272750	o
-272752	v
-o
-v
-adv
-272758	v
-s
-272764	v
-o
-adv
-272768	s
-272776	adv
-adv
-272783	apposition
-v
-p
-s
-v
-o
-s
-adv
-v
-aux
-v
-adv
-v
-o
-272798	adv
-272800	v
-o
-adv
-v
-s
-io
-272807	s
-272812	apposition
-p
-s
-272817	io
-272823	apposition
-272826	apposition
-s
-io
-272830	adv
-272835	apposition
-v
-v
-o
-adv
-adv
-aux
-272843	p
-vc
-272847	v
-s
-272851	v
-s
-272860	s
-adv
-v
-adv
-272867	adv
-272881	adv
-v
-p
-272888	adv
-v
-s
-adv
-272895	adv
-adv
-v
-272900	p
-adv
-v
-v
-o
-o
-272907	io
-v
-o
-adv
-adv
-272925	v
-o
-io
-272929	adv
-v
-o
-272933	adv
-v
-o
-272940	s
-o
-v
-apposition
-adv
-272955	v
-adv
-v
-adv
-272962	v
-adv
-272965	v
-272967	v
-s
-272970	adv
-adv
-272974	adv
-adv
-v
-adv
-adv
-272980	o
-v
-adv
-s
-272986	v
-o
-272992	adv
-272995	v
-s
-273001	adv
-273003	s
-adv
-adv
-273013	apposition
-v
-273016	o
-aux
-adv
-273025	apposition
-273030	adv
-v
-adv
-adv
-v
-s
-adv
-273039	adv
-273051	v
-s
-273055	adv
-s
-o
-v
-adv
-273063	v
-s
-adv
-273067	v
-s
-273073	apposition
-273076	v
-273078	adv
-273080	v
-o
-273084	s
-adv
-273089	v
-v
-o
-273093	vc
-p
-adv
-v
-273098	adv
-vc
-p
-o
-v
-io
-273105	adv
-v
-v
-adv
-v
-s
-adv
-273114	s
-273117	adv
-v
-273120	o
-adv
-v
-adv
-273125	adv
-v
-273128	adv
-v
-s
-273133	o
-s
-273136	v
-adv
-273142	v
-adv
-273147	s
-vc
-273150	p
-273153	adv
-273163	v
-adv
+272563	v
 adv
 o
-273169	adv
-v
-adv
-v
-s
-273175	adv
-v
-io
-s
-o
-adv
-v
-s
-o
-273185	v
-s
-v
-o
-273190	v
-adv
-273193	s
-273195	v
-v
-o
-adv
-adv
-aux
-v
-adv
-273204	v
-o
-s
-adv
-adv
-adv
-273214	adv
-adv
-v
-o
-adv
-273221	adv
-273227	apposition
-273230	aux
-v
-273233	v
-o
-273236	o
-v
-adv
-273244	s
-273250	apposition
-273255	apposition
-273257	v
-o
-273260	v
-o
-273265	adv
-v
-o
-273270	v
-adv
-273276	adv
-v
-aux
-adv
-o
-273283	s
-273286	v
-273288	v
-273290	adv
-273294	v
-adv
-273299	adv
-273301	p
-s
-p
-273305	vc
-s
-273308	s
-v
-o
-273312	v
-adv
-273315	v
-273317	adv
-adv
-273320	o
-v
-v
-273325	s
-273327	v
-o
-273330	adv
-273340	v
-273342	io
-aux
-adv
-273348	apposition
-v
-s
-adv
-273354	adv
-v
-273357	adv
-adv
-273361	o
-v
-adv
-273365	s
-273367	v
-adv
-v
-v
-o
-273375	v
-adv
-273378	adv
-o
-v
-adv
-273383	adv
-273386	adv
-273388	v
-adv
-adv
-v
-o
-273395	adv
-v
-o
-273400	o
 o2
 v
-io
+272569	v
+272571	o
+v
+adv
+272580	s
+272583	p
+vc
+v
+adv
+adv
+272589	adv
+v
+s
+272595	p
+272597	adv
+v
+v
 adv
 v
-o
-273410	vc
+s
+vc
+adv
 p
 o
-v
-io
-273416	s
-adv
-v
-v
-adv
-v
-v
-273424	s
-v
-adv
-adv
-adv
-v
-273431	v
-io
-273434	v
-273436	adv
-273438	apposition
-273440	adv
-v
-o
-273444	v
+272608	o2
+272610	v
+272612	adv
 s
-273447	aux
+272619	v
+272621	o
+v
 adv
 v
+272626	p
+vc
+272629	adv
 v
-273455	s
+272632	p
+vc
+272635	o
+v
+o
+v
+272642	s
+v
+272645	adv
+v
+adv
+272650	v
+apposition
+272655	apposition
+272660	v
+adv
+o
+v
+272665	v
+adv
+272669	adv
+v
+s
+272675	v
+adv
+272678	v
+adv
+v
+p
+vc
+s
+vc
+272686	p
+s
+272690	o
+272692	v
+adv
+272696	adv
+v
+o
+v
+v
+272702	o
+272704	adv
+v
+272707	v
+v
+v
+adv
+272716	s
+v
+o
+adv
+272722	p
+272726	vc
+272728	o
+s
+v
+v
+adv
+272735	o
+v
+adv
+s
+272740	aux
+272742	o
+v
+v
+272746	o
+v
+o
+272752	v
+272755	adv
+v
+v
+272759	v
+o
+272762	adv
+272764	v
+adv
+272769	v
+o
+272774	v
+adv
+272777	o
+272779	v
+s
+o
+adv
+adv
+272789	apposition
+o
+adv
+v
+272798	apposition
+272801	v
+272804	v
+apposition
+272807	v
+o
 adv
 v
 o
-273463	o
+v
+s
+272815	v
+v
+io
+s
+272821	aux
+io
+272827	v
+272830	v
+272832	v
+adv
+272836	adv
+272838	v
+io
+o
+adv
+adv
+v
 v
 adv
+272847	p
+vc
+p
+v
+io
+o
+adv
+v
+272856	v
+o
+272859	aux
+o
+v
+v
+o
+272870	o
+s
+v
+adv
+272875	v
+s
+p
+s
+apposition
+272888	apposition
+272891	io
+apposition
+s
+adv
+272900	apposition
+272902	o
+v
+272905	o
+v
+adv
+adv
+272910	adv
+v
+o
+272915	adv
+272918	adv
+272920	v
+o
+v
+v
+o
+272927	adv
+v
+o
+v
+272935	s
+v
+adv
+adv
+272947	v
+272950	adv
+272952	adv
+272954	v
+s
+v
+272960	s
+vc
+p
+adv
+272970	v
+io
+s
+o
+272975	o
+272980	v
+o
+272988	apposition
+272991	v
+adv
+adv
+272996	v
+o
+272999	v
+adv
+adv
+273011	v
+io
+adv
+273015	adv
+273017	v
+273019	adv
+adv
+273026	apposition
+273028	v
+273030	o
+v
+273033	o
+273035	adv
+273037	adv
+vc
+s
+p
+273043	adv
+273045	o
+v
+273048	adv
+v
+273051	v
+273053	o
+v
+273056	v
+273058	vc
+o
+273061	v
+adv
+273065	o
+v
+273068	v
+o
+adv
+v
+adv
+273076	apposition
+273079	o
+273081	v
+adv
+273085	v
+adv
+v
+o
+v
+o
+273095	p
+vc
+s
+273099	v
+o
+s
+io
+273106	adv
+o
+v
+273111	o
+273113	v
+273116	vc
+p
+adv
+v
+o
+273122	v
+v
+io
+s
+v
+o
+adv
+adv
+273133	o
+adv
+v
+adv
+s
+v
+s
+273141	aux
+v
+adv
+273146	apposition
+273150	o
+v
+adv
+adv
+273155	o
+v
+273158	s
+p
+vc
+o
+v
+v
+adv
+273169	s
+v
+v
+adv
+273176	v
+v
+273180	adv
+v
+s
+adv
+v
+273186	adv
+adv
+v
+s
+273191	v
+v
+adv
+o
+v
+v
+o
+v
+v
+273201	io
+s
+o
+adv
+v
+o
+apposition
+273210	v
+adv
+273217	adv
+v
+adv
+273221	s
+273223	s
+273226	adv
+v
+adv
+o
+v
+adv
+273234	s
+o
+v
+apposition
+273240	adv
+273242	p
+s
+273246	v
+adv
+v
+273250	v
+adv
+v
+273254	v
+s
+v
+o
+273259	v
+s
+p
+vc
+v
+273265	o
+adv
+v
+o
+v
+v
+adv
+273273	v
+adv
+273276	adv
+273278	v
+v
+o
+o2
+273283	v
+273285	apposition
+273287	v
+o
+273291	o
+273294	v
+adv
+273298	v
+273300	s
+273302	adv
+273304	o
+v
+p
+vc
+273310	s
+adv
+273313	v
+v
+s
+adv
+v
+273319	v
+o
+273322	s
+273327	v
+v
+o
+273331	o
+v
+s
+vc
+p
+273337	v
+adv
+s
+v
+o
+273343	p
+273346	s
+vc
+273356	s
+273358	p
+s
+273361	p
+273364	s
+v
+o
+adv
+vc
+p
+273374	v
+273377	adv
+273380	v
+o
+273384	v
+v
+273387	o
+adv
+v
+o
+adv
+273393	o
+273397	v
+v
+273400	v
+o
+s
+273404	adv
+v
+v
+273408	p
+273410	vc
+273412	adv
+v
+v
+o
+adv
+adv
+v
+io
+s
+o
+adv
+273425	v
+adv
+273430	v
+adv
+adv
+273435	o
+273437	v
+adv
+273440	v
+s
+vc
+273444	s
+p
+273447	o
+v
+p
+adv
+273452	p
+v
+o
+o
+273458	v
+o
+273461	v
+p
+273464	vc
 v
 adv
 273469	v
-273474	o
+o
+273472	v
+adv
 v
-273477	v
-273479	o
-s
-273485	v
-io
+adv
+adv
+v
+273479	adv
+adv
+273482	v
+v
+adv
+273486	s
+273488	v
 o
 adv
 adv
-273491	s
+s
+v
+o
 p
-273494	s
-adv
-273498	s
-vc
-p
+273497	v
 adv
 273503	adv
 v
+adv
 s
-273510	apposition
-p
+273509	p
+vc
+adv
 273513	s
-apposition
-273521	apposition
-273525	apposition
-273527	io
-apposition
-273531	s
-adv
-273538	apposition
-273542	v
+273515	v
 s
-v
+273518	v
 adv
-v
+273532	s
 adv
+vc
+p
+273539	o
+v
+273542	adv
+o
+v
+s
+s
 273549	v
-io
-o
-adv
-v
-273555	v
-adv
-273560	s
-o
 v
 adv
-273565	o
-273567	apposition
-273569	s
-273573	vc
-p
-273582	adv
+adv
+273554	v
 s
+273559	v
+adv
+273562	v
+273564	s
+273566	v
+adv
+o
 v
-v
+273571	v
+o
 adv
 v
+273577	adv
+o
+273580	v
+v
+o
+v
+adv
+adv
+273587	apposition
+273590	s
+p
+273600	apposition
+273603	p
 vc
-p
+s
+273608	adv
+273611	v
+v
+adv
+273620	v
+v
+o
+v
+273632	v
+o
+v
+adv
+v
+v
+v
+adv
+273643	v
+273645	s
+273648	o
+273650	v
+v
+273653	adv
+273656	io
+v
+o
+v
+o
+273663	adv
+273666	o
+v
+adv
+273671	v
+s
+273674	v
 adv
 v
 o
-273594	o
 v
-273597	adv
-v
-v
-273602	p
-s
-273605	s
 o
+273681	v
+s
+273684	adv
+v
+273687	s
+273691	v
+o
+273694	v
+o
+v
+o
+v
 adv
 v
-v
-o
-273612	adv
-s
-v
-273616	adv
-273628	s
-o
-273631	v
-273633	v
-273642	o
-v
-s
-o
+adv
+273705	o
 v
 io
+s
+273710	adv
+273713	apposition
+273715	io
+273721	v
+o
+273724	v
+v
+adv
+adv
+273729	s
+273731	o
+v
 v
 o
+273737	v
+adv
+s
+adv
+s
+adv
+s
+vc
+adv
+p
+o
+v
+v
+adv
+vc
+273753	adv
+p
+adv
+o
+273758	v
+adv
+o
+o
+v
+adv
+adv
+v
+v
+273768	o
+273772	s
 apposition
-273652	apposition
-273655	o2
 o
-v
-v
-adv
-adv
-vc
-p
-273667	v
-273669	v
-v
-adv
-v
-273674	s
-273678	adv
-273682	apposition
-273685	p
-s
-273690	s
-v
-adv
-273694	o
-v
-p
-vc
-s
-273700	adv
-v
-273703	adv
-273705	v
-s
-o
-273709	adv
-273711	v
-v
-adv
-adv
-273716	io
-273721	apposition
-273723	s
-273725	adv
-273729	aux
-o
-273732	v
 io
-aux
-adv
-273738	v
-adv
 v
-adv
-o
-273744	v
-o
-273749	o
-s
-v
-adv
-273754	v
-p
-vc
-s
-273760	o
 v
 io
-273764	v
-adv
-v
-v
-273769	adv
-v
 s
 adv
-273779	p
-vc
-273782	o
-273784	v
+273783	o
+s
+v
 adv
-273789	s
-p
-273792	adv
-273797	s
+273788	v
+o
+273791	adv
+273795	s
+adv
+v
+273799	s
+o
+v
+adv
+io
+v
+s
+273807	adv
+v
+273810	v
+o
+273814	adv
 s
 v
-v
-v
-273803	adv
-273805	v
-273807	p
-273809	s
-p
+273818	v
 s
-273816	apposition
-273818	apposition
+273822	v
+adv
+273825	adv
 v
 o
-o2
-adv
 s
 adv
+273833	v
 adv
-vc
+273839	io
 s
-p
-273831	o
+adv
+273845	aux
 v
-adv
-v
-apposition
-273840	v
-273842	v
-s
-adv
-273846	v
 o
+273852	s
+v
 adv
-273851	s
-adv
-273854	adv
+o
 273857	v
-o
 adv
-273868	s
+v
 v
 adv
 v
+v
 o
+s
+273872	s
+p
+273876	s
+p
+s
 apposition
+273884	adv
+273891	apposition
+273893	adv
+273896	o
+v
 s
-adv
-v
-adv
-273879	o
-273881	v
-273883	s
-v
-273886	v
+273900	adv
+273902	v
+273904	adv
 o
-273889	vc
-p
-273892	s
-273894	adv
-v
-adv
-s
-273900	s
-adv
-v
-s
-273905	v
-adv
-v
-273909	v
-273911	adv
-273914	v
-adv
-273918	adv
-p
-s
-273922	s
+273907	adv
 o
 v
+s
+adv
+273916	io
+apposition
+273921	s
+273923	adv
+273929	apposition
+273931	adv
+v
 o
+adv
+273937	v
 v
+273940	v
+adv
+o
+273944	s
+io
 v
-273929	s
-p
+273948	s
 vc
-apposition
-273939	adv
-o
-273942	adv
-v
-o
-v
-adv
-adv
-273952	s
-o
+p
+273953	o
 273955	v
-adv
-v
-adv
-o
-v
-adv
-p
-273964	adv
-v
-adv
-273968	v
-273970	v
-273972	adv
-o
-v
-adv
-273978	adv
-adv
-273981	v
-273985	s
-adv
-p
-273989	adv
-adv
-v
-273993	v
-o
-273997	adv
-274000	s
-274002	v
-adv
-adv
-v
+273959	v
+273961	s
 p
 vc
+adv
+273971	adv
+p
+273976	v
+o
+273983	vc
+273985	v
+adv
+273989	v
+273991	v
+v
+vc
+273995	p
+274004	o
+v
+v
+s
+o
+v
+v
 s
 adv
-p
-274014	s
-vc
-p
-274018	o
+v
 adv
-v
-274025	adv
-v
+274016	v
+s
+274020	apposition
+274022	s
+adv
+p
+274027	s
+274029	vc
+p
+adv
+274033	v
 o
-io
-v
-274031	o
 adv
-274034	apposition
-274037	o
-io
-v
-v
-v
+274037	v
 adv
+274040	adv
+v
 adv
 274047	v
-274049	v
-adv
-v
-adv
-274055	v
+o
 s
-vc
 p
-274061	v
-apposition
-274067	adv
+adv
+adv
+274054	v
+274056	s
+p
+274059	v
+s
+274066	o
+v
+v
+adv
+274071	v
 p
 vc
+274080	s
+274082	v
 s
-274073	s
 v
 adv
-v
-adv
-v
-io
-v
-adv
-v
-adv
-v
-adv
+274087	v
 s
-274088	adv
-v
-274091	adv
-274093	v
-s
-adv
+p
+vc
 v
 adv
+274096	s
+adv
+adv
+p
 274101	adv
-274104	v
-adv
-274107	v
-v
-v
-o
-o
-s
-v
-adv
-274121	v
-o
-274125	s
-274127	p
-274129	s
-p
-adv
-v
-v
-274135	adv
-274139	o
-v
 io
+v
+274105	v
+s
 p
 vc
-274146	v
-adv
-274155	adv
 v
+io
+274113	adv
+s
+274117	v
 o
-274161	v
+adv
 v
-274164	o
+v
+adv
+o
+v
+o2
+274127	adv
+274129	o
+274133	s
+274135	v
+o
+v
+v
 adv
 s
+io
+v
+adv
+p
+vc
+adv
+adv
+v
+adv
+v
+274152	o
+274154	v
+274156	o
+274158	apposition
+274162	v
+adv
+v
+274166	s
 274169	adv
-vc
-p
-s
-274174	adv
-p
-vc
+274171	v
 o
-v
+274174	v
+o
+274180	adv
 274183	v
-p
-s
-274189	adv
-274191	v
-274194	v
 adv
-274198	v
+274187	v
+o
+274201	apposition
 s
-vc
-p
-274205	v
-o
-274208	s
-o
-274211	v
-274213	p
-vc
-274216	adv
-274224	v
 v
+o
 adv
-274230	adv
-v
+274208	v
 o
-274236	s
-v
+adv
+274213	v
 io
+o
+274217	apposition
+274219	o
+v
+274222	v
+274224	adv
+274226	s
+o
+v
+v
+o
+io
+v
+v
 adv
-adv
-274246	o
+274237	p
+vc
+o
 v
 p
 vc
-274251	s
-274253	p
-vc
+p
+o
+v
 adv
-274257	v
-adv
+274248	vc
+274250	adv
+s
+p
+v
+v
+o
+274258	adv
 274261	v
-adv
-o
-274265	v
-o
-274268	v
-274270	v
-o
-274273	o
-adv
 v
-274277	v
-adv
-274281	o
-adv
-274284	o
-adv
-274287	o
-adv
-274290	adv
-274292	o
-v
-apposition
-274298	s
 o
-274301	v
+274266	s
+274271	v
+274275	adv
+274278	apposition
+274280	o
 v
-adv
-o
-o
-274307	v
-274309	o
-v
-io
 s
-274314	vc
-p
-adv
-274318	s
-274323	v
-v
-adv
-274327	v
-adv
-274332	adv
-274335	v
-v
-v
+274287	v
 o
+adv
+274295	o
 v
-274341	p
+adv
+adv
+adv
+274302	apposition
+274305	v
+adv
+274308	p
 vc
-274346	s
-o
-274351	adv
-v
-o
-v
-274356	vc
 adv
-p
+274313	p
+s
+274316	adv
+v
 s
 v
-adv
-274364	vc
-p
-274367	adv
-274369	v
-o
-274372	v
-274374	v
-274376	o
-v
-274379	v
-v
-274382	adv
-274384	v
-o
-274387	v
-274391	v
-adv
-v
-v
-adv
-v
-o
-274399	o
-274401	v
-adv
-274404	adv
-v
-v
-adv
-274409	adv
-274411	p
-274413	p
-274415	v
-adv
-v
-v
-274420	s
-v
-v
-v
-v
+274321	v
 o
 v
 v
-adv
-adv
-274431	s
-v
-adv
-274436	s
-v
 o
-v
-o
-274442	adv
-v
 s
-274446	o
-274448	v
-274450	s
-274452	adv
+vc
+p
+274330	adv
+o
+274338	v
+vc
+274341	p
+274343	o
+adv
+274347	v
+v
+274350	v
+s
+274353	vc
+p
+274356	v
+o
+adv
+274360	v
 v
 adv
+adv
+adv
+274366	v
 v
+o
+274370	apposition
+274372	adv
+v
+274375	s
 adv
 v
+v
+274380	s
+274382	o
+v
 adv
-274461	v
+274388	adv
+vc
+p
+v
+o
+s
+274396	v
+v
+o
+adv
+s
+p
+274403	s
+274405	apposition
+274409	apposition
+io
+274412	apposition
+274417	apposition
+274420	apposition
+274427	s
+io
+274430	adv
+274433	apposition
+274436	apposition
+v
+o
+274440	adv
+o
+v
+adv
+274446	v
+274452	o
+v
+adv
 274463	s
-o
-o
+274467	p
+vc
+adv
+274473	apposition
+274477	o
+274480	v
+274482	adv
+274486	s
+274489	v
+adv
+aux
+274493	o
+274496	v
 v
-adv
-v
-274470	p
-s
-adv
-274474	adv
-o
-adv
-v
-274479	adv
-adv
-274484	v
-adv
-v
-274488	s
-274490	o
-v
-v
-adv
-274502	o
-v
-adv
-o
-v
-adv
-o
-adv
 io
 v
-274513	v
 adv
+274502	adv
+v
+adv
+p
+vc
+adv
+274510	adv
+274512	p
+274515	v
 o
+adv
+274520	o
+v
+adv
+274525	apposition
+274533	o
+v
+io
+s
+vc
+p
+274540	o
+s
+v
+adv
+v
+274546	adv
+o
+v
+adv
+274553	adv
+274557	o
+v
+v
+274562	p
+274565	s
+274567	vc
+274569	p
+adv
+274572	adv
+v
+adv
+274576	adv
+o
+v
+adv
+274584	o2
+apposition
+adv
+io
+adv
+274590	io
+adv
+274598	o
+v
 o2
 v
-274519	v
-274521	o
-v
-adv
-274530	s
-274533	p
-vc
-v
-adv
-adv
-274539	adv
-v
-s
-274545	p
-274547	adv
-v
-v
-adv
-v
-s
-vc
-adv
-p
 o
-274558	o2
-274560	v
-274562	adv
-s
-274569	v
-274571	o
-v
-adv
-v
-274576	p
-vc
-274580	adv
-v
-274583	p
-vc
-274586	o
+274604	o
+274608	adv
 v
 o
-v
-274594	s
-v
-274597	adv
-v
-adv
-274602	v
-apposition
-274607	apposition
 274612	v
-adv
 o
-v
-274617	v
-adv
-274622	adv
+io
 v
 s
-274628	v
+v
 adv
-274631	v
+274620	s
+v
+274623	adv
+v
+io
+274627	o
+io
+v
+aux
+aux
+s
 adv
 v
+adv
+v
+o
+274639	adv
+v
+adv
+274643	v
+io
+v
+274647	adv
+274649	o
+v
+v
+adv
+274654	v
+io
+o
+v
+274660	adv
+274663	v
+io
+v
+o
+s
+274669	apposition
+274676	apposition
+274678	s
+274682	apposition
 p
-vc
+274686	adv
+274688	adv
 s
-vc
-274639	p
-s
-274643	o
-274645	v
-adv
-274649	adv
-v
-o
-v
-v
-274655	o
-274657	adv
-v
-274660	v
-v
-v
-adv
-274670	s
-v
-o
-adv
-274676	p
-274680	vc
-s
-274683	o
-s
-v
-v
-adv
-274690	o
-v
-adv
-s
-274695	aux
-274697	o
-v
-274700	v
-274702	o
-v
-o
-274708	v
-o
-274712	adv
-v
-v
-274716	v
-o
-274719	adv
-274721	v
-adv
-274726	v
-o
-274731	v
-adv
-274734	o
-274736	v
-s
-o
-adv
-adv
-274747	apposition
-o
-adv
-v
-s
-274758	apposition
-274761	v
-274764	v
-apposition
-274767	v
-o
-adv
-v
-o
-v
-s
-274775	v
 v
 io
+adv
+274694	adv
+274698	v
+io
+adv
+o
+v
+o2
+adv
+adv
+v
+o
 s
-274781	aux
-io
-274787	v
-o
-274791	v
-274793	v
 adv
-274797	adv
-274799	v
-io
-o
-adv
-adv
-v
-v
-adv
-274808	p
 vc
 p
-v
-io
-o
+274718	v
+274720	o
 adv
-v
-274817	v
-o
-274820	aux
-o
-v
-v
-o
-274832	o
-s
+274725	o
+274727	v
 v
 adv
-274837	v
-s
+274732	adv
+adv
 p
-s
-apposition
-274850	apposition
-274853	io
-apposition
-s
+vc
 adv
-274862	apposition
-274864	o
+adv
+o
+adv
 v
 io
-274868	o
+274743	v
+adv
+274746	p
+vc
+s
+s
+adv
+v
+o
+274754	adv
+apposition
+s
+vc
+adv
+p
+274761	s
+vc
+adv
+p
+274767	adv
+v
+o
+adv
+274772	v
+274774	v
+o
+s
+274779	adv
+274782	v
+v
+o
+274786	o2
+274788	o
+274790	o2
+adv
+274794	s
+274796	aux
+p
+274802	p
+274805	s
+274808	v
+o
+274811	v
+o
+adv
+v
+o
+s
+274818	apposition
+274820	adv
+adv
+274825	s
+adv
+aux
+o
+v
+274831	p
+274834	vc
+s
+s
+v
+s
+274840	v
+274842	s
+274844	s
+v
+274848	o
+v
+o
+274852	s
+adv
+v
+274856	s
+274858	p
+vc
+274861	s
+274863	adv
+v
+adv
+274869	v
+adv
+v
+adv
+274875	v
+o
+274878	o2
+274881	s
+vc
+p
+274885	adv
+v
+adv
+v
+v
+o
+adv
+v
+adv
+v
+s
 v
 adv
 adv
-274873	adv
 v
+274903	s
+274905	adv
+v
+vc
+p
+274910	s
+274913	v
 o
-274878	adv
-274881	adv
-274883	adv
-v
-o
-v
-v
-o
-274891	adv
-v
-o
-v
-274900	s
-v
 adv
-adv
-274912	v
-274915	adv
-274917	adv
+s
+v
 274919	v
 s
+adv
+v
+v
+adv
+274926	adv
+v
+adv
+v
+v
+s
+adv
+274940	adv
+274943	adv
+274945	io
+v
+274949	v
+adv
+v
+v
+274954	adv
+s
 v
 o
-274926	s
-vc
 p
-adv
-274936	v
-io
+vc
 s
-o
-274941	o
-274946	v
-o
-274954	apposition
-274957	v
-adv
-adv
 274962	v
 o
-274965	v
+274965	s
+274967	v
+o
+v
+o
 adv
 adv
-274977	v
+adv
+274975	v
+o
+o
+v
+adv
+274982	adv
+274984	v
 io
-adv
-274981	adv
-274983	v
-274985	adv
-adv
-274992	apposition
-274994	v
-274996	o
-v
-274999	o
-275001	adv
-275004	adv
-vc
-s
-p
-275010	adv
-275012	o
-v
-275015	adv
-v
-275018	v
-275020	o
-v
-275023	v
-275025	vc
 o
-275028	v
-adv
-275032	o
-v
-275036	v
-o
-adv
-v
-adv
-275044	apposition
-275047	o
-275049	v
-adv
-275053	v
-adv
-v
 o
 v
-o
-s
-275064	p
-vc
-s
-275069	v
-o
-s
-io
-275076	adv
-o
-v
-275081	o
-275083	v
-275086	vc
-p
-adv
-v
-o
-275092	v
-v
-io
-s
-v
-o
-adv
-adv
-275103	o
-adv
-v
-adv
-s
-v
-s
-275111	aux
-v
-adv
-275116	apposition
-275120	o
-v
-adv
-adv
-275125	o
-v
-io
-275129	s
-p
-vc
-o
-v
-v
-adv
-275140	s
-v
-v
-adv
-275147	v
-v
-275151	adv
-v
-s
-adv
-v
-275157	adv
-adv
-v
-s
-275162	v
-v
-adv
-o
-v
-v
-o
-v
-v
-275172	io
-s
-o
-adv
-v
-o
-apposition
-275181	v
-adv
-275189	adv
-v
-adv
-275193	s
-275195	s
-275198	adv
-v
-adv
-o
-v
-adv
-275206	s
-o
-v
-apposition
-275212	adv
-275214	p
-s
-275218	v
-adv
-v
-275222	v
-adv
-v
-275227	v
-s
-v
-o
-275234	v
-s
-p
-vc
-v
-275240	o
-adv
-v
-o
-v
-v
-adv
-275248	v
-adv
-275251	adv
-275253	v
-v
-o
 o2
-275258	v
-275260	apposition
-275262	v
-o
-275266	o
-275269	v
 adv
-275273	v
-275275	s
-275277	adv
-275279	o
-v
-p
-vc
-s
-275286	s
-adv
-275289	v
-v
-s
-adv
-v
-275295	v
-o
-275298	s
-275303	v
-v
-o
-275307	o
-v
-s
-vc
-p
-275313	v
-adv
-s
-v
-o
-275319	p
-275322	s
-vc
-275332	s
-275334	p
-s
-275337	p
-275340	s
-v
-o
-adv
-vc
-p
-275350	v
-275353	adv
-275356	v
-o
-275360	v
-v
-275363	o
-adv
-v
-o
-adv
-275369	o
-275373	v
-v
-275376	v
-o
-s
-275380	adv
-v
-v
-275384	p
-275386	vc
-275388	adv
-v
-v
-o
-adv
-adv
+274992	adv
 v
 io
 s
+v
+s
+274999	adv
+adv
+v
+v
+adv
+275007	adv
+275009	v
+275011	adv
+adv
+v
+o
+v
+275017	adv
+s
+275020	adv
+s
 o
 adv
+v
+o
+275029	adv
+v
+s
+275034	v
+275036	v
+p
+275039	adv
+275041	adv
+v
+o2
+o
+v
+v
+v
+o
+275050	io
+275052	adv
+275054	v
+o
+275057	adv
+s
+v
+adv
+275062	adv
+v
+s
+275067	o
+io
+v
+s
+275073	s
+v
+o
+275077	s
+adv
+v
+o
+275083	adv
+275085	v
+o
+275088	v
+275090	s
+vc
+p
+275094	v
+s
+adv
+adv
+275099	v
+p
+vc
+275104	o
+v
+275107	o
+v
+275110	v
+adv
+adv
+v
+275115	p
+vc
+275118	adv
+275121	adv
+v
+o
+275126	adv
+o
+275129	v
+s
+v
+v
+v
+v
+275136	aux
+275138	apposition
+275140	v
+o
+275148	apposition
+p
+vc
+v
+o
+275154	s
+adv
+275159	o
+275161	s
+adv
+v
+adv
+o
+v
+adv
+v
+o
+s
+275172	v
+adv
+275175	o
+v
+p
+275179	s
+275181	p
+adv
+275186	adv
+275188	adv
+275190	v
+s
+275193	adv
+275195	adv
+275198	p
+vc
+s
+275202	o
+275208	adv
+adv
+v
+275213	v
+s
+275217	adv
+275219	o
+275221	v
+adv
+v
+o
+275227	adv
+275229	adv
+275233	adv
+275235	adv
+v
+s
+275239	adv
+275241	v
+o
+275244	adv
+275246	v
+o
+275250	v
+o
+adv
+v
+adv
+s
+275257	adv
+v
+o
+275262	v
+adv
+275267	v
+adv
+275271	v
+aux
+adv
+adv
+vc
+p
+275278	s
+275280	adv
+v
+adv
+275284	v
+275286	v
+o
+adv
+275290	adv
+adv
+p
+vc
+275295	adv
+v
+s
+275299	adv
+275301	p
+275304	vc
+275306	o
+275309	adv
+adv
+v
+adv
+v
+adv
+275316	o
+275318	v
+adv
+v
+o
+275324	adv
+275326	s
+275328	v
+v
+275331	s
+v
+adv
+adv
+o
+275337	v
+adv
+v
+s
+275342	v
+adv
+275345	io
+275347	v
+adv
+v
+adv
+275354	adv
+v
+275357	v
+275359	adv
+v
+v
+adv
+v
+275365	adv
+adv
+v
+s
+v
+adv
+275373	v
+s
+275376	v
+adv
+275379	v
+275381	s
+275383	adv
+v
+s
+275388	o
+adv
+v
+adv
+v
+v
+275395	adv
+275397	v
+275399	v
 275401	v
 adv
 275406	v
 adv
+275411	s
 adv
-275411	o
-275413	v
+275414	v
+v
+275417	adv
 adv
-275416	v
+275420	adv
+275422	v
 s
-275419	vc
-275421	s
-p
-275424	o
-v
-p
 adv
-275429	p
-v
-o
-o
-275435	v
-o
-275438	v
-p
-275441	vc
-v
+275428	adv
+275433	adv
 adv
-275446	v
-o
-275449	v
+275436	v
 adv
-v
-adv
-adv
-v
-275456	adv
-adv
-275459	v
-v
-adv
-275463	s
-275465	v
-o
-adv
-adv
+275443	v
 s
 v
-o
-p
-275474	v
 adv
-275480	adv
+275448	adv
 v
 adv
+v
+adv
+adv
+o
+275456	v
+adv
+v
+adv
+275462	v
+adv
+275465	o
+275467	v
+adv
+v
+o
+275474	o
 s
-275486	p
-vc
+v
 adv
-275490	s
-275492	v
+adv
+275480	v
+adv
+275483	v
 s
-275495	v
+io
+275488	s
+275490	v
 adv
-275511	s
-adv
-vc
-p
-275518	o
-v
-275521	adv
-o
-v
-s
-s
-275528	v
+275494	apposition
 v
 adv
-adv
-275533	v
-s
-275538	v
-adv
-275541	v
-275543	s
-275545	v
-adv
-o
+275500	adv
+275502	s
 v
-275550	v
-o
+275505	v
 adv
-v
-275556	adv
-o
-275559	v
-v
-o
-v
+275510	adv
 adv
+275514	s
+275516	v
+275518	p
+v
+275521	s
+275530	v
 adv
-275566	apposition
-275569	s
-p
-275579	apposition
-275582	p
+275544	adv
 vc
 s
+p
+adv
+s
+275551	p
+275553	v
+adv
+275556	p
+adv
+s
+v
+275561	o
+275564	v
+adv
+apposition
+apposition
+275570	v
+o
+o
+275574	v
+adv
+v
+v
+adv
+275580	v
+275582	adv
+adv
+adv
+v
 275587	adv
-275590	v
+adv
+275593	v
+o
+275596	o
 v
 adv
-275599	v
-v
-o
-v
-275612	v
-o
+275600	s
+275603	adv
 v
 adv
 v
-v
-v
-v
 adv
-275625	v
-275627	s
-275630	o
-275632	v
+275611	v
+o
+275615	adv
 v
-275635	adv
-275638	io
+v
+v
+275622	s
 v
 o
+275626	adv
+v
+275629	adv
+275631	adv
+adv
+275634	v
+adv
+275638	adv
+s
 v
 o
-275645	adv
-275648	o
-v
+275643	v
 adv
-275653	v
-275655	s
+275647	s
+adv
+s
+275651	adv
+o
+v
+vc
+p
 275657	v
 adv
-v
-o
-v
-o
-275664	v
+p
+vc
 s
+s
+adv
+v
+o
 275667	adv
-v
-275670	s
-275674	v
-275676	o
-275678	v
-o
-v
-o
-v
-adv
-v
-adv
+275669	v
 s
-275690	o
-v
-io
-s
-275695	adv
-275698	apposition
-275700	io
-275706	v
-o
-275709	v
-v
+p
+adv
+275674	adv
+275677	s
 adv
 adv
-275716	s
-275718	o
+275684	o
+275687	adv
 v
 v
 o
-275724	v
 adv
-s
 adv
-s
+275696	v
+275698	v
 adv
-s
+275702	vc
+p
+v
+adv
+o
+v
+o
+275710	v
 vc
 adv
+v
+o
 p
-275735	o
-v
-v
+275717	v
 adv
-vc
-275741	adv
+275720	o
+275724	adv
 p
 adv
-o
-275746	v
-adv
-o
-275750	o
-v
-adv
-adv
-v
-v
-275757	o
-275761	s
-apposition
-o
-io
-v
-v
-io
 s
-adv
-275772	o
-s
+275729	p
 v
-adv
-275777	v
-o
-275780	adv
-275784	s
-adv
-v
-275788	s
-o
-v
-adv
-io
-v
-275795	s
-275797	adv
-v
-275800	v
-o
-275804	adv
-s
-v
-275808	v
-s
-275812	v
-adv
-275815	adv
-v
-o
-s
-adv
-275823	v
-adv
-275829	io
-s
-adv
-275835	aux
-v
-o
-275842	s
-v
-adv
-o
-275847	v
-adv
-v
-v
-adv
-v
-v
-o
-s
-275862	s
-p
-275866	s
-p
-s
-apposition
-275874	adv
-275881	apposition
-275883	adv
-275887	o
-v
-s
-275891	adv
-275893	v
-275895	adv
-o
-275898	adv
-275900	o
-v
-s
-adv
-275908	io
-apposition
-275913	s
-275915	adv
-275921	apposition
-275924	adv
-v
-o
-adv
-275930	v
-v
-275935	v
-adv
-o
-275939	s
-io
-v
-275943	s
-vc
-p
-275948	o
-275950	v
-275954	v
-275956	s
-p
+275732	p
 vc
 adv
-275966	adv
-p
-275971	v
-o
-275978	vc
-275980	v
 adv
-275984	v
-275986	v
-v
+275737	v
 vc
-275990	p
-s
-276001	o
-v
-v
-s
+p
+adv
+275742	adv
 o
 v
 v
-s
-adv
-v
-adv
-276013	v
-s
-276017	apposition
-276019	s
-adv
-p
-276024	s
-276026	vc
-p
-adv
-276030	v
-o
-adv
-276034	v
-adv
-276037	adv
-v
-adv
-276044	v
 o
 s
-p
-adv
-adv
-276051	v
-276053	s
-p
-276056	v
-s
-276063	o
-v
-v
-adv
-276068	v
-p
-vc
-276077	s
-276079	v
-s
-v
-adv
-276084	v
-s
-p
-vc
-v
-adv
-276094	s
-adv
-adv
-p
-276099	adv
-io
-v
-276103	v
-s
-p
-vc
-v
-io
-276111	adv
-s
-276115	v
-o
-adv
-v
-v
-276122	adv
-o
-v
 o2
-276127	adv
-276129	o
-276133	s
-276135	v
+275756	vc
 o
 v
-v
-adv
-276142	s
-io
-v
-adv
+275762	s
+275764	v
+o
 p
-vc
-adv
-adv
-v
-adv
-v
-276154	o
-276156	v
-276158	o
-276160	apposition
-276164	v
-adv
-v
-276168	s
-276171	adv
-276173	v
-o
-276176	v
-o
-276182	adv
-276185	v
-adv
-276189	v
-o
-276204	apposition
+275768	p
+275770	vc
+p
+275773	vc
 s
-v
-o
-adv
-276211	v
-o
-adv
-276216	v
-io
-o
-276220	apposition
-276222	o
-v
-276225	v
-276227	adv
-276229	s
-o
-v
-v
-o
-o2
-io
+275776	adv
+275778	o
 v
 v
 adv
-276241	p
-vc
+275786	v
 o
-v
-p
-vc
-p
-o
-v
+275792	adv
+275794	v
 adv
-276252	vc
-276254	adv
+adv
+o
+275799	v
+275807	apposition
+275817	o
+v
+275820	v
 s
 p
+275824	adv
 v
 v
+275828	o
+275832	o
+v
+275836	o
+275838	v
+275843	v
+275845	v
+adv
+v
+adv
+adv
+v
+adv
 o
-276262	adv
-276265	v
-v
-o
-276270	s
-276275	v
-276279	adv
-276283	apposition
-276285	o
-v
+275856	v
 s
-276292	v
+275859	v
 o
-adv
-276301	o
+275862	adv
 v
 adv
+275866	v
+o
 adv
 adv
-276308	apposition
-276311	v
+v
+v
+o
 adv
-276314	p
-vc
-adv
-276319	p
+275875	v
+275877	o
+275879	p
+275881	p
 s
-276322	adv
+275884	p
 v
-s
-v
-276327	v
-o
-v
-v
-o
-s
-vc
-p
-276336	adv
-o
-276344	v
-vc
-276347	p
-276349	o
-adv
-276353	v
-v
-276356	v
-s
-276359	vc
-p
-276364	v
-o
-adv
-276368	v
-v
-adv
-adv
-adv
-276374	v
-v
-o
-276378	apposition
-276380	adv
-v
-276383	s
-adv
-v
-v
-276388	s
-276390	o
-v
-adv
-276396	adv
-vc
-p
-v
-o
-s
-276404	v
-v
-o
-adv
-s
-p
-276411	s
-276413	apposition
-276417	apposition
-io
-276420	apposition
-276425	apposition
-276428	apposition
-276435	s
-io
-276438	adv
-276441	apposition
-276444	apposition
-v
-o
-276448	adv
-o
-v
-adv
-276454	v
-o
-276461	o
-v
-adv
-276472	s
-276476	p
-vc
-adv
-276482	apposition
-276486	o
-276489	v
-276491	adv
-276495	s
-276498	v
-adv
+275887	adv
 aux
-276502	o
-276505	v
-v
-io
+o
+275891	v
+adv
+275894	adv
+adv
 v
 adv
-276511	adv
+275899	p
+s
+v
+o
+275907	o
 v
 adv
+275912	v
+o
+275915	v
+275917	s
+o
+275920	v
+adv
+275925	adv
+275928	adv
 p
 vc
+p
+275933	adv
+275936	v
+o
+io
+275940	v
+s
+275943	adv
+275945	v
+v
+v
 adv
-276519	adv
-276521	p
-276524	v
+v
+275951	v
+v
+o
+275955	v
+v
+o
+275959	adv
+v
+v
+o
+s
+275965	adv
+275967	v
+275969	p
+275971	adv
+adv
+s
+adv
+adv
+v
+s
+v
+io
+275982	o
+275986	v
+adv
+275989	adv
+275992	adv
+p
+v
+s
+o
+v
+v
+v
+276002	v
 o
 adv
-276530	o
+276008	v
+276013	v
+adv
+276018	adv
+s
+adv
 v
 adv
-276537	apposition
-276545	o
+276025	p
+vc
+adv
+276035	apposition
+apposition
+276039	apposition
 v
+o
+v
+adv
+276048	v
+o
 io
-276549	s
+o
+adv
+v
+s
+adv
+adv
+276058	vc
+p
+adv
+276062	p
+276064	s
 vc
 p
-276553	o
+adv
+276070	o
+276075	v
+v
+276078	adv
+276081	vc
+p
+adv
+276085	v
+276087	p
+io
+o
 s
 v
 adv
+276094	apposition
+276097	adv
+276100	o
 v
-276559	adv
 o
 v
+v
+276106	adv
+276108	s
+vc
+p
+276113	v
+adv
+276119	adv
+v
+adv
+v
+o
+276125	v
+o
+v
+adv
+276131	s
+adv
+276134	v
+276136	adv
+276138	o
+s
+v
+v
+adv
+276144	v
+276146	v
+276149	o
+v
+adv
+s
+276154	o
+v
+v
+adv
+276159	p
+276163	vc
+276165	v
+o
+s
+276171	s
+adv
+276175	v
+s
+276178	adv
+v
+p
+adv
+s
+adv
+adv
+276187	s
+v
+276190	adv
+adv
+276194	v
+v
+276197	s
+adv
+s
+276201	v
+adv
+276204	v
+s
+o
+v
+adv
+s
+v
+adv
+p
+276215	adv
+v
+s
+276219	adv
+276221	adv
+o
+s
+v
+276226	adv
+p
+vc
+276230	adv
+276233	v
+276235	s
+adv
+276240	v
+276245	v
+276248	s
+p
+adv
+276252	adv
+276255	s
+276258	v
+276260	v
+adv
+276266	o
+276268	v
+s
+s
+276273	adv
+v
+adv
+276277	adv
+adv
+adv
+276281	s
+276284	adv
+vc
+p
+s
+276289	adv
+adv
+v
+adv
+v
+s
+276296	adv
+v
+s
+p
+adv
+276302	adv
+p
+276306	vc
+s
+276309	s
+276311	vc
+p
+adv
+adv
+v
+v
+s
+276319	adv
+v
+s
+adv
+276324	adv
+v
+o
+276328	adv
+v
+adv
+276332	v
+v
+adv
+adv
+adv
+v
+adv
+v
+adv
+276343	adv
+adv
+v
+276348	v
+adv
+276352	p
+adv
+vc
+s
+adv
+v
+adv
+o
+adv
+276363	adv
+adv
+276367	o
+v
+adv
+adv
+276372	o
+276374	v
+adv
+o
+v
+s
+276380	o
+v
+o2
+v
+o
+s
+276390	apposition
+276393	o
+adv
+276396	v
+s
+276400	v
+o
+v
+276404	s
+v
+adv
+276411	adv
+276413	apposition
+276420	o
+v
+s
+276425	s
+276427	adv
+v
+o
+276432	v
+276434	p
+v
+s
+o
+v
+276442	vc
+p
+adv
+vc
+p
+v
+v
+adv
+o
+s
+o
+276455	v
+276458	v
+s
+v
+v
+o
+v
+276465	v
+v
+o
+adv
+276471	v
+io
+adv
+276475	adv
+276477	o
+v
+adv
+adv
+p
+276483	vc
+s
+adv
+276487	v
+276490	s
+276492	vc
+p
+adv
+s
+v
+v
+276499	o
+v
+o
+v
+s
+v
+v
+s
+276508	v
+adv
+276517	o
+adv
+adv
+276521	o
+v
+adv
+276525	adv
+v
+s
+o
+276530	v
+o
+adv
+276535	s
+adv
+v
+adv
+276541	s
+v
+o
+v
+s
+276547	p
+s
+o
+v
+adv
+276553	adv
+276556	v
+s
+o
+276560	v
+o
 adv
 276566	adv
-276570	o
-v
-v
-276575	p
-276578	s
-276580	vc
-276582	p
-adv
-276585	adv
-v
-adv
-276589	adv
+276568	v
 o
+276572	vc
+adv
+p
+276576	s
+vc
+adv
+p
+276581	adv
 v
 adv
-276597	o2
-apposition
-adv
-io
-adv
-276603	io
-adv
-276612	o
-v
-o2
 o
+276587	adv
+o
+276590	v
 v
 o
-276619	o
-276623	adv
+276594	s
 v
 o
-276627	v
-o
-io
+adv
+276603	p
+vc
+adv
+276608	o
+276610	adv
 v
+adv
+adv
+v
+o
+v
+o
 s
+276620	v
+276622	v
+p
 v
-adv
-276635	o
+276627	s
+276629	o
+276636	v
+276638	p
 s
-v
-276639	adv
-v
-io
-276643	o
-io
-v
-aux
-aux
+276648	s
+vc
+p
+p
+276655	s
+276657	vc
+p
+o
+276661	v
+276667	v
+adv
+adv
+p
 s
-adv
-v
-adv
-v
+276674	v
 o
-276655	adv
-v
-adv
-276659	v
-io
-v
-276663	adv
-276665	o
-v
-v
-276669	adv
-276671	v
-io
-o
-v
-276677	adv
 276680	v
-io
+276685	p
+276687	s
+276689	v
+o
+adv
+adv
+vc
+p
 v
+adv
+s
+276699	adv
+v
+adv
+276705	adv
+v
+s
+o
+v
+adv
+276713	adv
+276715	adv
+s
+adv
+276719	o
+v
+adv
+276727	o
+v
+s
+276732	adv
+v
+s
+276737	adv
+s
+276740	v
 o
 s
-276686	apposition
-276693	apposition
-276695	s
-276699	apposition
 p
-276703	adv
-276705	adv
+adv
+276747	v
+adv
 s
+276752	v
+adv
 v
-io
 adv
-276711	adv
-276715	v
-io
+v
+v
 adv
-276721	o
+adv
+276763	p
+276765	adv
+276767	v
+s
+276770	v
+apposition
+276774	v
+adv
+276783	s
+vc
+adv
+p
+276797	v
+adv
+adv
+276801	o
+v
+276805	s
+276812	v
+v
+v
+adv
+276819	adv
+s
+276823	s
+adv
+276826	o
 v
 o2
-adv
-adv
-v
-o
-s
-adv
-vc
-p
-276738	v
-276740	o
-adv
-276745	o
-276747	v
-v
-adv
-276752	adv
-adv
-p
-vc
-adv
-adv
-o
-adv
-v
 io
-276763	v
-adv
-276766	o2
+v
+o
+276833	adv
+276835	adv
+v
+o
+v
+276840	adv
 p
-vc
+276843	vc
+276845	s
+v
+adv
+276854	o
+276856	v
+v
+276860	p
+276862	s
 s
+p
+v
+v
+s
+276869	adv
+p
+276872	adv
+adv
+v
+276876	v
+v
+276879	adv
 s
 adv
 v
+v
+276885	s
+adv
+276888	adv
+io
+276891	v
 o
-276775	adv
+276898	adv
+276902	o
+276909	v
+v
+s
+p
+276915	o
+v
+adv
+s
+o
+276928	adv
+adv
+v
+276932	adv
+adv
+s
+v
+adv
+276939	adv
+adv
+v
+s
+p
+276945	s
+276951	adv
+v
+s
+276956	adv
+276959	adv
+276964	v
+s
 apposition
-s
-vc
+276972	adv
+v
 adv
-p
-276782	s
-vc
+276977	adv
 adv
-p
-276789	adv
+276980	adv
 v
 o
+276984	s
+v
 adv
-276794	v
-276796	v
-o
+276988	adv
+adv
+276992	v
 s
-276801	adv
-276804	v
+adv
+v
+adv
+276998	adv
+277000	adv
+adv
+277004	adv
+277007	adv
+277010	v
+277012	adv
+v
+adv
+adv
+v
+adv
+277019	s
+adv
+s
+277023	adv
+v
+adv
+o
+v
+adv
+adv
 v
 o
-276808	o2
-276810	o
-276812	o2
-o
+v
 adv
-276817	s
-276819	aux
+o
+277037	v
+s
+277041	v
+277047	adv
+adv
+277050	o
+v
+adv
+277054	adv
+v
+v
+v
+277059	v
+v
+adv
+adv
+v
+adv
+o
+v
+adv
+v
+277070	p
+s
+adv
 p
-276825	p
-276828	s
-276831	v
+277075	s
+277078	v
 o
-276834	v
-o
+277081	v
 adv
+277084	v
+277086	o
+277088	adv
 v
 o
-s
-276841	apposition
-276843	adv
+277092	v
+io
+o
+277097	adv
+v
 adv
-276848	s
+v
+aux
+v
 adv
+277105	v
+adv
+v
 aux
 o
+277111	adv
 v
-276854	p
-276857	vc
-s
-s
-v
-s
-276863	v
-276865	s
-276867	s
-v
-276872	o
-v
-o
-276876	s
+277114	o
+277119	v
+277121	s
 adv
 v
-276880	s
-276882	p
-vc
-276885	s
-276887	adv
+adv
 v
-adv
-276893	v
-adv
-o
-v
-adv
-276900	v
-o
-276903	o2
-276906	s
-vc
-p
-276910	adv
-v
-adv
+aux
 v
 v
 o
-adv
-v
-adv
-v
-s
-v
-adv
-adv
-v
-276929	s
-276931	adv
-v
-vc
-p
-276936	s
-276939	v
+277131	v
 o
-adv
-s
-v
-o
-276946	v
-s
-adv
-v
+277134	o
 v
 adv
-276953	adv
-v
+277138	v
 adv
-v
-v
-s
-adv
-276967	adv
-276970	adv
-276972	io
-v
-o
-276977	v
-adv
-v
-v
-276982	adv
-s
-v
-o
-p
-vc
-s
-276990	v
-o
-276993	s
-276995	v
-o
-276998	v
-o
-adv
-adv
-adv
-277004	v
-o
-o
-v
-adv
-277011	adv
-277013	v
-io
-o
-o
-v
-o2
-adv
-277021	adv
-v
-io
-s
-v
-s
-277028	adv
-adv
-v
-v
-adv
-277036	adv
-277038	v
-277040	adv
-adv
-v
-o
-v
-277046	adv
-adv
-s
-277050	adv
-s
-o
-adv
-v
-o
-277059	adv
-v
-s
-277064	v
-277066	v
-p
-277069	adv
-277071	adv
-v
-o2
-o
-v
-v
-v
-o
-277080	io
-277082	adv
-277084	v
-o
-277088	adv
-s
-v
-adv
-277093	adv
-v
-s
-277099	o
-io
-v
-s
-277105	s
-v
-o
-277109	s
-adv
-v
-o
-277115	adv
-277117	v
-o
-o
-277121	v
-277123	s
-vc
-p
-277127	v
-o
-s
-adv
-adv
-277133	v
-p
-vc
-277138	o
-v
-277141	o
-v
-277145	v
+277145	adv
+277147	s
+277149	v
 adv
 adv
 v
-277150	p
-vc
-277153	adv
+277154	o
 277156	adv
 v
-o
-277161	adv
-o
-277164	v
 s
+adv
 v
 v
-v
-v
-277171	aux
-277173	apposition
-277175	v
 o
-277183	apposition
+s
+277165	o
+adv
+v
+adv
+277170	v
+adv
+277174	adv
+v
+277177	v
+s
+277180	adv
+277183	adv
+277185	v
+adv
+277188	v
+v
+277191	io
+s
+277196	adv
+277198	v
 p
-vc
-v
-o
-277189	s
-adv
-277194	o
-277196	s
-adv
-v
-adv
-o
-v
-adv
-v
-o
 s
+o
+v
+adv
+adv
 277207	v
-adv
-277210	o
+s
 v
+o
+adv
+277213	adv
+277217	v
+o
+277220	o
+277226	adv
+v
+adv
 p
-277214	s
-277216	p
+277231	s
 adv
-277221	adv
-277223	adv
-277225	v
 s
-277228	adv
-277230	adv
-277234	p
-vc
-s
-277238	o
+277235	adv
+v
+277238	aux
+o
 277244	adv
+277247	o
+v
+adv
+adv
+277252	v
+adv
+277255	s
+vc
+p
+277260	o
+adv
+277265	v
+adv
+277268	adv
+277270	adv
+v
+adv
+adv
+277276	v
+adv
 adv
 v
-277249	v
-s
-277253	o
-adv
-277256	o
-277258	v
-o
-adv
-v
-o
-277265	adv
-277267	adv
-277271	adv
-277274	adv
-v
-s
-277278	adv
-277280	v
 o
 277283	adv
-277285	v
+p
+277286	v
+277288	v
 o
-277290	v
+adv
+277295	adv
+v
 o
+277300	p
+adv
+277303	v
+adv
+adv
 adv
 v
-adv
+v
 s
-277297	adv
-v
-o
-277302	v
-adv
-277307	v
 adv
 277312	v
-aux
+s
 adv
-adv
-vc
-p
-277319	s
-277321	adv
 v
-adv
-277325	v
-277327	v
 o
+277319	adv
 adv
-277331	adv
-adv
-p
-vc
-277336	adv
 v
 s
-277340	adv
-277343	p
-277346	vc
-277348	o
-277351	adv
+s
+277331	v
+v
+o
+v
+s
+o
+adv
+adv
+277341	v
 adv
 v
 adv
 v
 o
+277349	v
+277354	o2
+v
 adv
+v
 277359	o
-277361	v
-o
-adv
+277362	v
 v
-o
-277368	adv
-277370	s
-277372	v
+277365	v
+adv
+s
+s
 v
-277375	s
+277371	adv
+v
+s
+o
+277376	p
 v
 adv
-adv
-o
 277381	v
-adv
+v
+277386	adv
+v
 o
+277390	v
+adv
+adv
+277394	adv
+277397	v
+adv
+277400	p
+adv
+v
+vc
+adv
+277407	v
+277409	o
+277413	v
+adv
+v
+v
 v
 s
-277387	v
-adv
-277390	io
-277392	v
-adv
-v
-adv
-277399	adv
-v
-277402	v
-277404	adv
-v
-v
-adv
-v
-277410	adv
-adv
-v
-s
-v
-adv
-277418	v
-s
+o
 277421	v
 adv
-277424	v
-277426	s
-277428	adv
 v
-s
-277433	o
-adv
-v
-adv
-v
-277439	v
-277441	adv
-277443	v
-277445	v
-277447	v
-adv
-277452	v
-adv
-277457	s
-adv
-277460	v
-v
-277463	adv
-adv
-277466	adv
-277468	v
-s
-adv
-277474	adv
-277479	adv
-adv
-277482	v
-adv
-277490	v
-s
-v
-adv
-277495	adv
-v
-adv
-v
-adv
-adv
-o
-277503	v
-adv
-v
-adv
-277509	v
-o
-adv
-277513	o
-277515	v
-adv
+277427	s
 v
 o
-277523	o
+o
+277432	v
+277434	o
+277437	v
+v
+o
+adv
+277442	adv
+277444	v
+v
+277447	adv
+v
 s
+277452	adv
 v
+277456	v
 adv
-adv
-277529	v
-adv
-277532	v
+v
 s
-io
-277537	s
-277539	v
-adv
-277543	apposition
-v
-adv
-277549	adv
-277551	s
-277553	v
-277555	v
-adv
-277560	adv
-adv
-277564	s
-277566	v
-277568	p
-v
-277571	s
-277580	v
-adv
-277594	adv
+277461	adv
+s
+277464	p
 vc
-s
+277472	vc
+277474	s
 p
+277477	v
+277480	adv
+v
 adv
+277484	v
 s
-277601	p
-277603	v
 adv
-277607	p
+v
+v
+s
+adv
+adv
+adv
+adv
+v
+v
+v
+adv
+o
+277500	s
+277502	v
+io
+adv
+v
+vc
+p
+v
+adv
+277512	s
+277514	adv
+v
+adv
+v
 adv
 s
 v
-277612	o
-277615	v
 adv
-apposition
-apposition
-277621	v
+v
 o
+277525	adv
+v
+277528	v
 o
+s
+adv
+277534	v
+v
+o
+adv
+277539	p
+v
+v
+277543	v
+v
+adv
+277547	v
+277549	v
+o
+p
+vc
+adv
+v
+s
+adv
+adv
+v
+v
+v
+o
+adv
+277566	adv
+v
+o
+277570	p
+277574	vc
+adv
+v
+s
+v
+v
+adv
+o
+v
+v
+adv
+277586	v
+adv
+v
+adv
+v
+adv
+v
+adv
+277596	adv
+277598	adv
+v
+adv
+277604	apposition
+277609	v
+277613	o
+v
+p
+277618	s
+adv
+adv
+277622	o
+adv
 277625	v
 adv
+277630	o2
 v
 v
-adv
-277631	v
-277633	adv
-adv
-adv
-v
-277638	adv
-adv
-277644	v
-o
-277647	o
-v
-adv
-277651	s
-277654	adv
-v
-adv
-v
-adv
-277662	v
-o
-277666	adv
-v
-v
-v
-277673	s
-v
-o
-277677	adv
-v
-277680	adv
-277682	adv
-adv
-277685	v
-adv
-277689	adv
+277634	adv
+277637	v
 s
-v
-o
-277694	v
-adv
-277698	s
-adv
-s
-277702	adv
-o
-v
-vc
-p
-277709	v
-adv
-o
-p
-vc
-s
-s
-adv
-v
-o
-277720	adv
-277722	v
-s
-p
-adv
-277727	adv
-277730	s
-adv
-adv
-277737	o
-277740	adv
-v
-v
-o
-adv
-adv
-277749	v
-277751	v
-adv
-277755	vc
-p
-v
-adv
-o
-v
-o
-277763	v
-vc
-adv
-v
-o
-p
-277770	v
-adv
-277773	o
-277777	adv
-p
-adv
-s
-277782	p
-v
-277785	p
-vc
-adv
-adv
-277790	v
-vc
-p
-adv
-277795	adv
-o
-v
-v
-o
-s
-o2
-277809	vc
-o
-v
-277815	s
-277817	v
-o
-p
-277821	p
-277823	vc
-p
-277826	vc
-s
-277829	adv
-277831	o
-v
-v
-adv
-277839	v
-o
-277845	adv
-277847	v
-adv
-adv
-o
-277852	v
-277860	apposition
-277870	o
-v
-277873	v
-s
-p
-277877	adv
-v
-v
-277881	o
-277885	o
-v
-277889	o
-277891	v
-277896	v
-277898	v
-adv
-v
-adv
-adv
-v
-adv
-o
-277909	v
-s
-277912	v
-o
-277915	adv
-v
-adv
-277919	v
-o
-io
-adv
-adv
-v
-v
-o
-adv
-277929	v
-277931	o
-277933	p
-277935	p
-s
-277938	p
-v
-277941	adv
-aux
-o
-277945	v
-adv
-277948	adv
-adv
-v
-adv
-277953	p
-s
-v
-o
-277962	o
-v
-adv
-277967	v
-o
-277970	v
-277972	s
-o
-277975	v
-adv
-277980	adv
-277983	adv
-p
-vc
-p
-277988	adv
-277991	v
-o
-io
-277995	v
-s
-277998	adv
-278000	v
-v
-v
-adv
-v
-278006	v
-v
-o
-278010	v
-v
-o
-278014	adv
-v
-v
-o
-s
-278020	adv
-278022	v
-278024	p
-278026	adv
-adv
-s
-adv
-adv
-v
-s
-v
-io
-278037	o
-278041	v
-adv
-278044	adv
-278048	adv
-p
-v
-s
-o
-v
-v
-v
-o
-278059	v
-o
-adv
-278065	v
-278070	v
-adv
-278076	adv
-s
-adv
-v
-adv
-278083	p
-vc
-adv
-278087	s
-278094	apposition
+277640	v
 apposition
-278098	apposition
+277643	s
+277646	adv
+277649	s
+277651	apposition
+277656	p
+adv
+v
+s
+adv
+v
+o
+277665	adv
+o
+v
+277670	v
+277672	p
+277674	vc
+adv
+277678	o
+v
+v
+277682	o
+v
+277687	v
+adv
+v
 v
 o
 v
 adv
+277695	v
+s
+vc
+p
+277700	adv
+v
+o
+s
+p
+vc
+v
+277708	io
+o
+adv
+v
+s
+o
+v
+277716	o
+v
+o
+v
+adv
+v
+277723	adv
+v
+io
+s
+v
+277729	adv
+277731	v
+p
+s
+o
+adv
+277737	v
+adv
+adv
+277741	v
+v
+s
+o
+277748	adv
+s
+v
+o
+277754	v
+277756	v
+adv
+277762	adv
+s
+v
+adv
+277770	v
+277772	adv
+277775	v
+adv
+s
+v
+v
+adv
+adv
+277786	v
+p
+s
+277790	adv
+v
+o
+277795	adv
+s
+p
+vc
+v
+vc
+p
+277803	o
+adv
+v
+v
+adv
+277811	adv
+v
+o
+o2
+v
+adv
+277818	o
+277821	v
+277823	adv
+277825	adv
+v
+o
+adv
+v
+o
+277833	o
+277836	v
+v
+adv
+v
+o
+277847	adv
+v
+o
+v
+o
+adv
+v
+o
+277856	adv
+277860	o
+v
+s
+v
+adv
+s
+277867	v
+v
+adv
+277871	adv
+s
+apposition
+adv
+v
+v
+v
+o
+adv
+277881	o
+adv
+v
+v
+s
+277887	v
+s
+adv
+277896	s
+adv
+v
+o
+v
+o
+v
+o
+v
+o
+v
+o
+v
+o
+v
+adv
+vc
+p
+adv
+o
+v
+v
+s
+adv
+o
+277922	s
+277924	v
+adv
+v
+o
+277929	o
+v
+s
+277933	o
+277936	v
+o
+277941	v
+v
+v
+adv
+277946	v
+v
+adv
+277952	v
+v
+v
+adv
+adv
+vc
+p
+s
+adv
+v
+277969	s
+v
+adv
+277973	adv
+v
+o
+s
+adv
+o
+v
+277981	adv
+adv
+v
+277985	s
+o
+v
+277989	v
+adv
+277992	o
+277994	v
+277998	adv
+v
+o
+278002	v
+adv
+v
+adv
+278012	s
+adv
+278016	v
+adv
+v
+o
+o
+v
+adv
+278028	v
+v
+278031	o
+v
+278039	adv
+v
+adv
+278043	v
+adv
+adv
+v
+adv
+278049	v
+278051	v
+278053	s
+io
+278056	io
+v
+aux
+adv
+v
+o
+278063	v
+adv
+v
+o
+278068	v
+s
+v
+v
+278073	o
+o
+v
+adv
+v
+278079	io
+io
+v
+s
+p
+278085	o
+adv
+v
+s
+278091	p
+vc
+p
+vc
+s
+278097	p
+278100	vc
+adv
+o
 278107	v
-o
+o2
+278110	v
+adv
+adv
+v
 io
-o
+278118	v
+s
+278122	adv
+278124	adv
+v
 adv
 v
 s
-adv
-adv
-278117	vc
-p
-adv
-278121	p
-278124	s
-vc
-p
-adv
-278130	o
-278135	v
+278130	adv
 v
-278138	adv
-278141	vc
-p
 adv
-278145	v
+v
+o
+278136	s
+278138	p
+adv
+278141	v
+o
+v
+p
+vc
 278147	p
-s
+adv
+278150	o
+278152	adv
+v
+v
+278156	o
+278159	v
+278163	v
+v
+278166	o
+v
 io
-o
+278172	adv
 s
 v
-adv
-278155	apposition
-278158	adv
-278161	o
 v
-o
-v
-v
-o
-278168	adv
-278170	s
-vc
-p
-278175	v
-adv
-278181	adv
-v
-adv
-v
-o
-278187	v
+278177	adv
 o
 v
 adv
-278193	s
+278183	adv
+s
+v
+o
+v
+278189	s
+v
 adv
-278196	v
+278196	s
 278198	adv
-278200	o
+v
+v
+278202	adv
+v
 s
-v
-v
-adv
-278206	v
-278208	v
-278213	o
-v
-adv
-s
-278218	o
-v
-v
-adv
-278223	p
-278227	vc
-278229	v
-o
-s
-278237	s
-adv
-278241	v
-s
-278244	adv
-v
+278206	s
 p
+278212	s
 adv
-s
-adv
-adv
-278253	s
-v
-278256	adv
-adv
-278260	v
-278262	v
-278264	s
-adv
-s
-278268	v
-adv
-278271	v
-s
+278215	v
 o
-v
+278218	v
+278221	adv
 adv
-s
-v
-adv
-p
-278282	adv
-v
-s
-278286	adv
-278288	adv
-o
-s
-v
-278293	adv
-p
-vc
-278297	adv
-278300	v
-s
-278303	s
-adv
-278308	v
-278313	v
-278316	s
-p
-adv
-278320	adv
-278323	s
-278326	v
-278328	v
-adv
-278334	o
-278336	v
-s
-s
-278342	adv
-v
-adv
-278346	adv
-adv
-adv
-278350	s
-278353	adv
-vc
-p
-s
-278358	adv
-adv
-v
-adv
-o
-v
-s
-278366	adv
-v
-s
-p
-adv
-278372	adv
-p
-278376	vc
-s
-278379	s
-278381	vc
-p
-adv
-adv
-v
-v
-s
-278389	adv
-v
-s
-adv
-278394	adv
-v
-o
-278398	adv
-v
-adv
-278402	v
-v
-adv
-adv
-adv
-v
-adv
-v
-adv
-278412	s
-278415	adv
-adv
-v
-278420	v
-adv
-278424	p
-adv
-vc
-s
-adv
-v
-adv
-o
-adv
-278435	adv
-adv
-adv
-278440	o
-v
-adv
-adv
-278445	o
-278447	v
-adv
-o
-v
-s
-278453	o
-v
-o2
-v
-o
-s
-278463	apposition
-278466	o
-adv
-278469	v
-278471	s
-278474	v
-o
-v
-278479	s
-v
-adv
-278486	adv
-278488	apposition
-278496	o
-v
-s
-278501	s
-278503	adv
-v
-o
-278508	v
-278510	p
-v
-o
-s
-o
-v
-278520	vc
-p
-278523	adv
-vc
-p
-v
-v
-adv
-o
-s
-o
-278534	v
-278537	v
-s
 v
 v
 o
 v
-278544	v
+o
+278229	adv
+v
+278232	adv
 v
 o
 adv
-278550	v
+278237	v
+adv
+v
+278242	v
+278250	adv
+v
+v
+adv
+v
 io
-adv
-278554	adv
-278556	o
-v
-adv
-adv
-p
-278563	vc
 s
 adv
-278567	v
-278570	s
-278572	vc
-p
-adv
+v
+278260	v
 s
-v
-v
-278579	o
 v
 o
-278584	v
+v
+278266	adv
+p
+vc
+v
 s
 v
-v
-s
-278590	o
+p
+vc
+278276	v
+adv
+278283	v
+apposition
+278291	v
+adv
+278299	v
+278307	o
 v
 adv
-278600	o
-o2
+278311	v
+278313	v
+v
+278317	s
 adv
-adv
-278606	o
 v
 adv
-278610	adv
 v
+v
+adv
 s
 o
+278327	v
+s
+278330	o
+v
+adv
+adv
+278335	v
+v
+adv
+s
+v
+o
+278346	s
+278349	v
+o
+278352	v
+adv
+278355	v
+278357	v
+adv
+v
+278361	o
+v
+v
+adv
+v
+adv
+o
+adv
+278371	s
+278375	p
+v
+s
+v
+o
+adv
+v
+adv
+278384	v
+s
+v
+o
+v
+o
+278391	v
+v
+278394	s
+vc
+p
+p
+s
+adv
+278401	s
+p
+o
+278406	v
+s
+p
+s
+v
+v
+s
+278414	v
+o
+adv
+o
+v
+278420	adv
+o
+v
+278424	v
+s
+v
+s
+adv
+p
+adv
+v
+o
+v
+io
+s
+v
+278439	v
+s
+v
+io
+o
+278446	o
+v
+278451	v
+o
+278454	s
+adv
+278457	p
+278459	adv
+278461	adv
+278463	adv
+v
+p
+278467	adv
+v
+s
+adv
+adv
+adv
+v
+v
+v
+adv
+v
+adv
+v
+o
+o
+v
+s
+278486	v
+278488	adv
+adv
+278491	adv
+278493	s
+278495	v
+adv
+278499	s
+278501	v
+adv
+278505	o
+adv
+278508	v
+278510	v
+adv
+adv
+278514	o
+278516	v
+278519	v
+adv
+o
+v
+278524	v
+v
+adv
+278528	v
+278530	adv
+io
+s
+vc
+p
+278536	v
+io
+278539	o
+278543	adv
+v
+adv
+278547	v
+s
+v
+o
+278552	v
+278554	v
+s
+278557	v
+adv
+278562	o
+v
+278566	adv
+o
+v
+278570	adv
+v
+p
+278574	adv
+s
+v
+adv
+v
+278581	o
+v
+adv
+adv
+v
+v
+adv
+278589	v
+o
+v
+278593	adv
+v
+io
+s
+278601	v
+adv
+o
+278609	adv
+278612	apposition
 278615	v
 o
 adv
-278621	s
-adv
-v
-adv
-278627	s
+278619	adv
 v
 o
+278623	v
+adv
+o
+adv
+adv
+278629	io
+s
+adv
+278635	aux
+v
+278638	o
+aux
+v
+o
+278644	adv
+278647	v
+io
 v
 s
-278634	p
-s
-278637	o
+278653	v
+adv
+278656	adv
 v
-adv
-278641	adv
-278644	v
+v
+o
+v
+o
+278665	v
+278669	v
+o
 s
-o
-278648	v
-o
+278674	s
 adv
-278654	adv
-278656	v
+278677	s
+apposition
+278682	apposition
+io
+278686	apposition
+278689	v
 o
-278660	vc
-adv
+v
+aux
+278694	adv
+v
+v
+278698	s
+278702	v
+o
+s
+278706	o
+v
+278709	vc
 p
-278664	s
-vc
-adv
-p
-278670	adv
-v
-adv
-o
-278676	adv
-o
-278679	v
-v
-o
-278683	s
-v
-o
-adv
-278692	p
-vc
-adv
-278697	o
-278699	adv
-v
-adv
-adv
-v
-o
-v
-o
-s
-278709	v
-278711	v
-p
+278712	adv
 v
 278716	s
-278718	o
-278723	s
-278727	v
-278729	p
-s
-278739	s
-vc
-p
-p
-278746	s
-278748	vc
-p
-o
-278752	v
-278759	v
-adv
-adv
-p
-s
-278766	v
-o
-278772	v
-278777	p
-278779	s
-278781	v
-o
-adv
-adv
-vc
-p
 v
-adv
-278791	s
-278793	adv
-v
-adv
-278799	adv
-v
-s
 o
 v
 adv
-278807	adv
-278809	adv
-s
+278723	v
+io
 adv
-278814	o
+278727	adv
 v
-adv
-278822	o
-v
-s
-278827	adv
-v
-s
-278832	adv
-s
-278835	v
-o
-s
-p
-adv
-278842	v
-adv
-s
-278847	v
-adv
-v
-adv
-v
-v
-adv
-adv
-278858	p
-278860	adv
-278862	v
-s
-278865	v
-apposition
-278869	v
-adv
-278879	s
-vc
-adv
-p
-278893	v
-adv
-adv
-278897	o
-v
-278901	s
-278908	v
-v
-v
-adv
-278915	adv
-s
-278920	s
-adv
-278923	o
-v
-o2
+278730	v
 io
 v
-o
-278930	adv
-278932	adv
-v
+278734	adv
 o
 v
+278738	v
+v
+adv
+278742	v
+278744	v
+adv
+278747	v
+s
+278751	v
+o
+adv
+278755	s
+p
+adv
+278761	v
+278763	s
+278766	adv
+278769	s
+278771	adv
+278776	s
+v
+278779	v
+278781	s
+adv
+278785	v
+o
+278789	s
+278791	v
+278793	s
+278797	v
+adv
+s
+278801	adv
+278804	v
+p
+s
+v
+o
+278810	p
+vc
+v
+278816	o
+v
+v
+o
+s
+v
+v
+278824	adv
+v
+s
+278828	p
+vc
+adv
+v
+278833	s
+o
+s
+278837	v
+adv
+278841	v
+278843	adv
+s
+v
+v
+o
+s
+278850	v
+v
+o
+adv
+v
+aux
+278857	s
+278863	p
+vc
+v
+adv
+278870	p
+adv
+vc
+s
+278876	v
+v
+o
+adv
+adv
+vc
+s
+p
+278887	v
+aux
+278890	vc
+278892	s
+p
+adv
+v
+p
+adv
+v
+p
+adv
+s
+278903	o
+adv
+v
+278907	v
+o
+278912	adv
+v
+o
+278917	v
+v
+o
+278921	vc
+278923	p
+278925	adv
+p
+adv
+v
+o
+278933	s
+p
+vc
 278937	adv
 p
-278940	vc
-278943	s
-v
-adv
-278952	o
-278954	v
-v
-278958	p
-278960	s
-s
-p
-v
-v
-s
-278967	adv
-p
-278970	adv
-adv
-v
-278974	v
-v
-278977	adv
-s
-adv
-v
-v
-278983	s
-adv
-278986	adv
-io
-278989	v
-o
-278996	adv
-279000	o
-279007	v
-v
-s
-p
-279014	o
-v
-adv
-s
-o
-279027	adv
-adv
-v
-279031	adv
-adv
 s
 v
 adv
-279038	adv
-adv
-v
-s
-p
-279044	s
-279050	adv
-v
-s
-279055	adv
-279058	adv
-279063	v
-s
-apposition
-279071	adv
-v
-adv
-279076	adv
-adv
-279079	adv
 v
 o
-279083	s
+278947	adv
+278949	v
+278951	o
+278953	v
+278955	adv
 v
+p
+vc
+278960	v
 adv
-279087	adv
+278964	apposition
+278967	v
+p
+278970	vc
+278973	s
+p
 adv
-279091	v
+278978	vc
+278980	s
+v
+p
+vc
+adv
+v
+o
+278988	v
+o
 s
-adv
+p
+278993	s
+279000	vc
+v
+o
+279004	adv
+279007	o2
+o
 v
 adv
-279097	adv
-279099	adv
+279012	aux
 adv
-279103	adv
-279106	adv
+adv
+v
+o
+279022	apposition
+279028	v
+adv
+279031	s
+279035	v
+279037	s
+279043	v
+279045	adv
+v
+o
+279051	v
+s
+v
+adv
+adv
+279057	io
+v
+o
+s
+v
+adv
+279064	v
+adv
+279068	v
+adv
+279071	vc
+p
+279074	v
+aux
+279077	s
+v
+o
+279082	o2
+279088	o
+v
+v
+o
+s
+279094	v
+o
+s
+v
+o
+279100	s
+v
+o
+adv
+s
+v
+o
 279109	v
-279111	adv
+adv
+279113	o
 v
 adv
+279117	v
+o
+279121	o
 adv
 v
+279126	v
+o
+v
+v
 adv
-279118	s
-adv
+279133	s
 s
-279122	adv
+279136	o
+279138	v
 v
-adv
-o
-v
-adv
-adv
-v
-o
-v
-adv
-o
-279136	v
-s
-279140	v
-279146	adv
-adv
-279150	o
-v
-adv
-279154	adv
-v
-v
-v
-279159	v
-v
-adv
-adv
-v
-adv
-o
-v
-adv
-v
-279170	p
-s
-adv
+279141	adv
+vc
 p
-279175	s
-279178	v
-o
-279181	v
+279145	v
 adv
-279184	v
-o
-279187	o
-279189	adv
+v
+v
+adv
+adv
+v
+279155	adv
+v
+v
+279159	vc
+p
+adv
+v
+279164	adv
+v
+279167	adv
+279169	v
+v
+s
+279173	p
+adv
 v
 o
-279193	v
+v
+s
+o
+p
+s
+aux
+279185	o
+v
+s
+v
+o
+279191	adv
+v
+v
+s
+v
+o
+279200	s
+279202	p
+vc
+279205	v
+o
+279209	v
+279211	s
 io
+279214	v
+adv
+v
+279218	v
+adv
+v
+279222	io
 o
-279198	adv
-v
+279226	p
+s
 adv
-v
-aux
-v
-adv
-279206	v
-adv
-v
-aux
-o
-279212	adv
-v
-279215	o
-279220	v
-279222	s
-adv
-v
-adv
-v
-aux
-v
+s
+279232	adv
 v
 o
-279232	v
-o
-279235	o
-v
+p
+vc
 adv
 279239	v
-adv
-279246	adv
-279248	s
-279250	v
-adv
-adv
-v
-279255	o
-279257	adv
-v
-279260	s
-adv
-v
-v
-o
 s
-279267	o
-adv
+s
+o
+v
+s
+o
+v
+v
+io
+o
+279251	adv
+279253	s
+io
 v
 adv
+279259	o
+s
+v
+279263	p
+vc
+s
+adv
+v
+s
+279270	v
 279272	v
-adv
-279276	adv
 v
-279279	v
-s
-279282	adv
-279285	adv
-279287	v
+279275	v
+aux
+279279	s
 adv
-279290	v
-v
-279293	io
-s
-279298	adv
-279300	v
-p
-s
-279304	o
-v
-adv
-adv
-279310	v
-s
-v
-o
-adv
-279316	adv
-279320	v
-o
-279323	o
-279329	adv
-v
-adv
-p
-279334	s
-adv
-s
-279338	adv
-v
-279341	aux
-o
-279347	adv
-279350	o
-v
-adv
-adv
-279355	v
-adv
-279359	s
+279282	p
 vc
-p
-279364	o
-adv
-279369	v
-adv
-279372	adv
-279374	adv
+aux
+apposition
+279287	adv
+v
+v
+o
+apposition
+279293	adv
+279295	v
+279298	s
 v
 adv
+279303	adv
+279305	s
+v
+279309	v
+s
+279312	v
+o
+v
+279316	s
+o
+279319	v
+io
 adv
-279380	v
+279323	p
+vc
+v
+279327	adv
+v
+s
+279331	adv
 adv
+adv
+adv
+279336	s
+279338	apposition
+adv
+279341	v
 adv
 v
 o
-279387	adv
+279346	adv
+v
+279350	s
+adv
 p
-279390	v
+vc
+adv
+adv
+s
+adv
+p
+vc
+adv
+s
+p
+vc
+aux
+v
+279367	o
+v
+adv
+279371	v
+s
+279374	s
+adv
+adv
+v
+s
+p
+279381	v
+o
+279387	o
+279390	adv
 279392	v
-o
-adv
-279399	adv
-v
-o
-279404	p
-adv
-279407	v
-adv
-279410	adv
-adv
-v
-v
-s
-adv
-279417	v
-s
-adv
-v
-o
-279424	adv
-adv
-v
-s
-s
-279436	v
-v
-o
-v
-s
-o
-adv
-adv
-279446	v
-adv
-v
-adv
-v
-o
-279454	v
-279456	o
-279460	o2
-v
-adv
-v
-279465	o
-279468	v
-v
-279471	v
-o
-adv
-s
-s
-v
-279478	o
 adv
 v
 s
 o
-279484	p
-v
-adv
-279489	v
-v
-279492	o
-279495	adv
-v
 o
-279499	v
-adv
-adv
-279503	adv
-279506	v
-adv
-279509	p
-adv
-v
-vc
-adv
-279516	v
-279518	o
-279522	v
-adv
-v
-v
-v
+279401	v
+aux
 s
-o
-279530	v
-adv
-v
-279534	o
-279537	s
-v
-o
-279541	o
-279543	v
-279545	o
-279548	v
-v
-o
-adv
-279553	adv
-279555	v
-v
-279558	adv
-v
-s
-279563	adv
-v
-279566	o
-279568	v
-adv
-v
-s
-279573	adv
-s
-279576	p
-vc
-279584	vc
-279586	s
+279405	adv
 p
-279589	v
-279592	adv
+vc
+279409	adv
+279411	v
 v
 adv
-279596	v
+279415	adv
+s
+279418	v
+v
+adv
+s
+279423	p
+vc
+279426	o
+v
+aux
+s
+o
+v
+279433	s
+p
+p
+279438	s
+v
+adv
+279443	v
+o
+279447	v
+o
+279452	v
+adv
+279455	s
+279462	v
+279464	adv
+279467	o
+279469	s
+v
+v
+p
+279475	adv
+v
+o
+279481	adv
+v
+o
+279485	adv
+279487	v
+adv
+279491	v
+s
+279494	adv
+v
+aux
+s
+p
+vc
 s
 adv
+279504	v
+o
+279509	v
+aux
+s
+o
 v
+279515	s
+o
+279518	s
+o
 v
 s
+p
+279524	adv
+v
 adv
+279529	o
+279531	adv
+279535	o
+279537	v
+279539	adv
+279542	v
+279544	v
 adv
+279548	vc
+s
+279551	adv
+v
+279554	p
+p
+279557	s
+279559	p
+s
+279564	s
+279567	adv
+adv
+p
+vc
+adv
+p
+279577	s
+279579	adv
+v
+v
+o
+p
+s
+279586	p
+s
+adv
+p
+279594	v
+adv
+279598	v
+279600	adv
+v
+279603	v
+279605	v
+279607	adv
+v
+v
+v
+279612	v
+adv
+v
 adv
 adv
 v
+s
 v
+279621	adv
+v
+279624	adv
+v
+279627	adv
+279630	v
+aux
+v
+279634	s
+279637	p
+279639	vc
+s
+279642	v
+p
+vc
+279646	o
+279648	v
+279650	v
+279652	adv
+s
+v
+adv
+v
+o
+o
 v
 adv
 o
-279612	s
-279614	v
+279663	v
+279665	v
+o
+s
+o
+v
 io
-adv
+279672	v
+o
 v
-vc
-p
-v
-adv
-279624	s
-279626	adv
-v
+279676	o
+279678	v
+279680	o
+279682	v
 adv
 v
 adv
-s
-v
+279687	v
 adv
 v
 o
-279637	o
-adv
-v
-279641	v
+aux
+279693	v
 o
-s
-adv
-279647	v
+aux
 v
-o
-adv
-279652	p
-v
-v
-279656	v
-v
-adv
-279660	v
-279662	v
-o
-p
-vc
-adv
-v
-s
-adv
-adv
-v
-v
-v
-o
-adv
-279679	adv
-v
-o
-279683	p
-279687	vc
-adv
-v
-s
-v
-v
-adv
-279695	o
-v
-v
-adv
+279698	v
 279700	v
+s
+279703	adv
+v
+279706	s
 adv
 v
 adv
-v
+279711	v
+o
 adv
 v
-adv
-279710	adv
-279712	adv
+o
+aux
 v
-adv
-279718	apposition
+o
+279720	v
+o
 279723	v
-279725	o
-279728	o
-v
-p
-279733	s
-adv
-adv
-279737	o
-adv
-279740	v
-adv
-279745	o2
-v
-v
-279749	adv
-279752	v
-s
-279755	v
-apposition
-279758	s
-279761	adv
-279764	s
-279766	apposition
-279771	p
-adv
-v
-s
-adv
-v
 o
-279780	adv
+279726	v
 o
+279730	o
 v
-279785	v
-279787	p
-279789	vc
-adv
-279793	o
-v
-v
-279797	o
-v
-279802	o
-v
-adv
-v
-v
-o
-v
-adv
-279811	o
-v
-s
-vc
-p
-279817	adv
-v
-o
-s
 p
 vc
-v
-279825	io
-o
-adv
-v
+279736	p
+vc
 s
-o
+279741	v
 v
-279833	o
-v
-s
-o
-v
-adv
-v
-279841	adv
-v
-io
-s
-v
-279847	adv
-279849	v
-p
-s
-o
-adv
-279855	v
-adv
-adv
-279859	v
-v
-s
-o
-279866	adv
-s
-v
-o
-279872	v
-279874	v
-adv
-279880	adv
-s
-v
-adv
-279888	v
-279890	adv
-279893	v
-adv
-s
-v
-v
-adv
-adv
-279904	v
-p
-s
-279908	adv
-v
-o
-279913	adv
-s
-p
+279744	s
+279746	p
 vc
 v
-vc
-p
-279921	o
-adv
-v
-v
-adv
-279929	adv
-v
 o
-o2
-v
-adv
-279936	o
-279939	v
-279941	adv
-279943	adv
-v
-o
-adv
-v
-o
-279951	o
-279954	v
 v
 adv
 v
 o
-279965	adv
-v
-o
-v
-o
 adv
-v
-o
-279974	adv
-279978	o
-v
-s
-v
+279756	v
 adv
-s
-279985	v
-v
+279762	v
 adv
-279989	adv
-s
-apposition
 adv
-v
-v
-v
-o
-adv
-279999	o
-adv
-v
-v
-s
-280005	v
+279766	v
+279768	v
 s
 adv
-280015	s
-adv
 v
 o
-v
-o
-v
-o
-v
-o
-v
-o
-v
-o
-v
-adv
-vc
-p
-adv
-o
-v
-v
-s
-adv
-o
-280041	s
-280043	v
-adv
-v
-o
-280048	o
-v
-s
-280052	o
-280055	v
-o
-280060	v
-v
-v
-adv
-280065	v
-v
-adv
-280071	adv
-v
-v
-v
-adv
-adv
-vc
 p
 s
+279776	p
+279778	vc
 adv
 v
-280090	s
+adv
 v
 adv
-280094	adv
 v
+s
+279787	s
+v
+279790	v
+279792	v
 o
+279795	adv
+279797	v
+adv
+279801	s
+279803	p
+vc
+v
+279807	o
+v
+279810	adv
+v
 s
 adv
+v
+v
+adv
+aux
+v
+v
+adv
+279824	v
+s
+279827	v
+279829	s
+279831	p
+vc
+s
+279838	v
+279841	s
+279843	p
+adv
+vc
+279847	v
+o
+279850	adv
+279852	v
+adv
+279855	aux
+s
+279861	v
+o
+279864	v
+adv
+v
+279868	s
+279870	v
+adv
+279875	v
+v
+adv
+279880	v
+v
+o
+279884	adv
+279886	v
+o
+adv
+v
 o
 v
-280102	adv
+279893	aux
 adv
-v
-280106	s
-o
-v
-280110	v
-adv
-280113	o
-280115	v
-280119	adv
+279898	aux
+s
 v
 o
-280123	v
+279905	v
 adv
-v
-adv
-280134	s
-adv
-280138	v
-adv
+279908	v
+o
+279911	v
+s
 v
 o
-o
-v
+279917	s
+279920	v
 adv
-280150	v
-v
-280153	o
-v
-280161	adv
-v
-adv
-280165	v
-adv
-adv
-v
-adv
-280171	v
-280173	v
-o
-280176	s
-io
-280179	io
 v
 aux
 adv
+279926	adv
 v
-o
-280186	v
+aux
+s
 adv
-v
-o
-280191	v
-s
-v
-v
-280196	o
-280198	o
-v
-adv
-v
-280203	io
-io
-v
-s
-p
-280209	s
-o
-adv
-v
-s
-280216	p
-vc
-280219	p
-vc
-s
-280223	p
-280226	vc
-280228	adv
-o
-280234	v
+279932	v
 o2
-280237	v
-adv
-adv
 v
-io
-280245	v
-s
-280249	adv
-280251	adv
+aux
+279941	s
 v
 adv
+279946	aux
 v
-s
-280257	adv
-v
-adv
 v
 o
-280263	s
-280265	p
-adv
-280268	v
-o
-v
+279951	v
+279953	o
+279955	v
 p
 vc
-280274	p
+s
+279960	adv
+279962	aux
 adv
-280277	o
-280279	adv
+v
+adv
+279972	o
+vc
+279975	s
+279977	p
+279979	s
+p
+279982	adv
+adv
 v
 v
-280283	o
-280286	v
-280290	v
+s
+279988	v
 v
-280293	o
+s
+v
+v
+s
+279995	v
+o
+280000	v
+adv
+v
+adv
+adv
+280009	s
+280012	v
+v
+280015	v
+o
+s
+280019	o
+v
 v
 io
-280299	adv
+v
+280025	io
+o
+280028	v
+adv
+280031	v
+adv
+v
 s
 v
-v
-280304	adv
-o
+s
+p
+vc
+280042	adv
 v
 adv
-280311	adv
+v
+280047	adv
+v
+adv
+280051	adv
+280056	adv
+v
+280060	s
+o
+v
+280064	s
+v
+o
+280068	aux
+280071	s
+280073	v
+adv
+280077	v
+s
+o
+v
+280082	v
+o
+adv
+280087	v
+o
+adv
+280091	v
+o
+s
+apposition
+280096	io
+280113	s
+io
+280116	v
+p
+s
+280126	apposition
+adv
+280131	v
+o
+adv
+280135	v
+adv
+280141	adv
+280146	v
+adv
+adv
+280150	adv
+280152	v
+adv
+adv
+280156	v
+adv
+280159	adv
+v
+adv
+adv
+280164	v
+v
+adv
+280169	s
+280176	v
+adv
+280179	v
+v
+adv
+280184	adv
+280187	o
+adv
+v
+v
+adv
+adv
+adv
+v
+v
+280197	v
+adv
+280200	v
+v
+o
+280206	apposition
+adv
+280209	v
+280211	s
+adv
+280216	v
+v
+adv
+280222	v
+s
+280227	v
+o
+280236	io
+v
+280239	io
+280241	v
+s
+adv
+v
+io
+adv
+v
+o
+adv
+280252	v
+adv
+adv
+v
 s
 v
+280259	v
 o
-v
-o
-280318	s
+280264	v
+adv
 v
 adv
-280325	s
-280327	adv
+280270	v
+io
+adv
+280276	p
+280278	v
+adv
+280286	adv
+280289	v
+o
+s
+p
+adv
+280295	vc
+280297	v
+p
+vc
+280301	s
+p
+280305	o2
 v
+adv
 v
+adv
+280312	adv
+adv
+280317	v
+v
+280321	adv
+280324	v
+adv
 280331	adv
+280333	adv
+280336	apposition
 v
-s
-280335	s
-p
-280342	s
-adv
-280345	v
-o
-280348	v
-280351	adv
-adv
-v
-v
-o
-v
-o
-280359	adv
-v
-280362	adv
-v
+280339	adv
+280341	v
+280343	adv
+280346	adv
+280348	apposition
+280354	v
 o
 adv
-280367	v
-adv
-v
-280372	v
-280381	adv
-v
-v
-adv
-v
+280358	o
 io
-s
+v
+280362	s
+280366	vc
+p
+o
+280370	v
+adv
+280375	adv
+280377	adv
+o
+v
 adv
 v
+adv
+280386	adv
+280389	v
 280391	v
-o
-s
-v
-o
-v
-280399	adv
+280393	s
 p
-vc
+280397	s
+280399	p
+280403	v
+s
+280406	s
 v
 s
-v
-p
-vc
-280409	v
+280411	v
 adv
-280416	v
+280414	s
+280416	vc
+p
+280419	v
+adv
+v
+280423	o
+280431	adv
+280434	o
+280437	v
+280439	adv
+v
+adv
+280443	v
+280445	p
+s
+adv
+280449	v
 apposition
-280424	v
+280452	v
 adv
-280432	v
-280440	o
-v
+280455	v
 adv
-280445	v
-280447	v
-v
-280452	s
-adv
-v
-adv
-v
-v
-adv
+280458	p
 s
+adv
+280463	v
+v
+adv
+adv
+280468	v
 o
-280462	v
-s
-280465	o
+280471	io
+adv
+280475	v
+adv
+aux
 v
 adv
-adv
-280470	v
-v
-adv
-s
-v
 o
-280481	s
 280484	v
-o
-280487	v
 adv
-280490	v
-280492	v
-adv
-v
-280496	o
-v
-v
-o
 adv
 v
 adv
-o
-adv
-280507	s
-280511	p
+280490	s
+v
+v
+280494	o
+v
 v
 s
 v
-280516	o
 adv
+280502	p
+280506	s
+v
+o
 v
 adv
-280521	v
+adv
+v
 s
-v
+280515	p
+280522	o
+280524	v
+adv
 o
-280526	v
-o
-280529	v
 v
+adv
 280532	s
-vc
+adv
+adv
 p
-280536	p
+adv
+280538	p
 s
 adv
-280540	s
-p
-o
-280545	v
-s
-p
-s
 v
-v
-280552	s
-280554	v
-o
 adv
-o
+280544	v
+aux
 v
+adv
+280551	v
+o
+280554	s
+v
+adv
+280558	o
 280560	adv
-o
-v
-280564	v
-s
-v
-o
-s
-adv
-p
+280562	v
+o2
+280565	adv
 adv
 v
 o
+280570	o
+adv
+280574	v
 v
+o
+adv
+280579	v
 io
+280583	adv
+280585	apposition
+280590	v
+280593	adv
+v
+adv
+280601	adv
+vc
 s
+280606	v
 v
 o
-280582	v
-s
+280613	p
+280617	o2
 v
-io
-o
-280589	o
-v
-280594	v
-o
-280597	s
-adv
-280600	p
-280602	adv
-280604	adv
-280606	adv
-v
-p
-280610	adv
-v
-s
-adv
-280615	adv
-adv
-v
-v
-v
-o
-adv
-v
-adv
-v
-o
+280620	o
+280623	p
 o
 v
-280629	s
-280632	v
-280634	adv
+o
+v
+o
+v
+o
+v
+aux
+v
 adv
-280637	adv
-280639	s
-280641	v
-adv
+280636	io
+280638	apposition
 280645	s
-280647	v
+280647	p
 adv
-280651	o
+280650	v
+s
+o
+v
 adv
-280654	v
-280656	v
-adv
-adv
-280660	o
-280662	v
+p
+280657	s
+v
+280660	v
+280663	v
 280665	v
-adv
-o
-v
-280670	v
-v
-adv
-280674	v
-o
-280677	adv
-io
 s
-vc
 p
-280683	v
-io
-280687	o
-280691	adv
+adv
+adv
+280671	v
+280673	s
 v
 adv
-280695	v
-s
+io
 v
 o
-280700	v
+280680	v
+adv
+280683	s
+o
+adv
+v
+280688	v
+s
+adv
+280693	s
+v
+adv
+v
+v
+adv
+v
+v
 280702	v
-s
-280705	v
 adv
-280710	o
-v
+s
+o
+280707	v
+adv
+280711	adv
 280714	adv
-o
-v
-280719	adv
-v
-p
-280723	adv
-s
 v
 adv
 v
-280730	o
-v
 adv
-adv
-v
-v
-adv
-280738	v
-o
-v
-280742	adv
-v
-io
-s
-280750	v
-adv
-o
-280758	adv
-280761	apposition
-280764	v
-o
-adv
-280768	adv
-v
-o
-280772	v
-adv
-o
-adv
-adv
-280778	io
-s
-adv
-280784	aux
-280787	v
-280789	o
-aux
-v
-o
-280795	adv
-280798	v
-io
-v
-s
-280804	v
-adv
-280807	adv
-v
-v
-o
-v
-o
-280816	v
-280820	v
-o
-s
-280825	s
-adv
-280828	s
-apposition
-280833	apposition
-io
-280837	apposition
-280840	v
-o
-v
-aux
-280845	adv
-v
-v
-280849	s
-280853	v
-o
-s
-280857	o
-v
-280860	vc
-p
-280863	adv
-v
-280868	s
-v
-o
-v
-adv
-280875	v
-io
-adv
-280879	adv
-v
-280882	v
-io
-v
-280886	adv
-o
-v
-280890	v
-v
-adv
-280894	v
-280896	v
-280898	adv
-280900	v
-s
-280904	v
-o
-adv
-280908	s
-p
-adv
-280914	v
-280916	s
-280919	adv
-280922	o
-s
-280925	adv
-280930	s
-v
-280933	v
-280935	s
-adv
-280939	v
-o
-280943	s
-280945	v
-280947	s
-280951	v
-adv
-s
-280955	adv
-280958	v
-280960	p
-s
-s
-v
-o
-280966	p
+280720	v
 vc
+280723	p
+280726	v
+280728	v
+adv
+adv
+280737	adv
+aux
+v
+io
+280743	s
+280745	v
+o
+adv
+280751	adv
+v
 v
 o
+280759	adv
+vc
+p
+280782	s
+vc
+adv
+280786	p
+adv
+280789	adv
+s
+280794	v
+adv
+v
+o
+v
+io
+280802	s
+v
+o
+o2
+o
+v
+p
+vc
+adv
+v
+280813	adv
+v
+o
+aux
+adv
+v
+adv
+280821	io
+io
+v
+o
+280826	io
+280829	adv
+adv
+v
+s
+280834	adv
+280836	s
+p
+280839	v
+o
+adv
+280843	o
+adv
+adv
+280847	v
+280849	adv
+v
+280852	o
+v
+280856	v
+o
+o
+v
+280861	v
+o
+v
+o
+adv
+280867	o
+adv
+v
+o
+v
+280873	adv
+280875	v
+o
+v
+o
+280880	v
+o
+280885	s
+p
+280888	s
+p
+280891	s
+280893	p
+v
+o
+280897	p
+v
+o
+280901	p
+280903	vc
+280906	adv
+v
+adv
+p
+280912	adv
+280915	adv
+v
+280918	v
+o
+280921	apposition
+v
+adv
+280926	p
+adv
+adv
+adv
+v
+o
+o2
+280938	adv
+280941	o
+v
+280944	adv
+adv
+v
+v
+v
+o
+280954	p
+280956	v
+280958	v
+s
+280962	v
+280964	v
+280966	s
+adv
+adv
+v
+s
+adv
 280973	o
 v
-v
-o
-s
-v
-v
-280981	adv
-v
-s
-280985	p
-vc
+io
 adv
 v
-280990	s
-o
-s
+280979	adv
+v
+280982	adv
+adv
+io
+280989	v
+v
+v
+adv
 280994	v
-adv
-280998	v
-281000	adv
 s
+280998	adv
+281000	v
+adv
+s
+vc
+p
 v
-v
+adv
+adv
 o
 s
-281007	v
+adv
 v
+apposition
+apposition
+281021	adv
+281024	s
+vc
+p
+281028	v
+adv
+v
+io
+s
+281035	s
+281037	v
+adv
+s
 o
+281042	v
+281044	v
 adv
 v
-aux
-281014	s
-281020	p
-vc
-v
 adv
-281028	p
 adv
-vc
-s
-281034	v
-v
+adv
+281053	o
+281057	v
+p
+281060	s
+281062	v
 o
-adv
-adv
-vc
-s
-p
-281045	v
-aux
-281049	vc
-281051	s
-p
-adv
-v
-p
-adv
-v
-p
-adv
-s
-281062	o
-adv
-v
 281066	v
-o
-281071	adv
 v
-o
-281076	v
+adv
+281073	adv
 v
-o
-281081	vc
-281083	p
-281085	adv
-p
 adv
 v
-o
-281094	s
-p
-vc
-281098	adv
-p
+s
+adv
+281083	v
 s
 v
+o
 adv
+v
 v
 o
-281108	adv
-281110	v
-281112	o
-281114	v
-281116	adv
 v
-p
-vc
-281121	v
-adv
-281125	apposition
-281128	v
-p
-281131	vc
-281134	s
-p
-adv
-281139	vc
-281142	s
+281093	adv
+281095	io
 v
-p
-vc
+281098	v
+281100	adv
 adv
 v
-o
-281150	v
-o
+281104	adv
+adv
 s
+281109	v
+v
+281113	adv
+adv
+o
+281119	v
+281121	s
+v
+o
 p
-281155	s
-281162	p
+adv
+adv
+s
+281129	v
+o
+adv
+o
+v
+281135	s
+281140	s
+v
+281143	o
+281145	s
+v
+281148	adv
+o
+v
+s
+281153	adv
+v
+s
+adv
+281158	adv
 vc
-v
-o
-281167	adv
-281170	o2
-o
-v
+s
+281164	p
+281168	aux
+aux
+281171	v
 adv
-281175	aux
-adv
+281175	adv
 adv
 v
-o
-281185	apposition
-281192	v
+281179	s
 adv
-281195	s
+v
+281184	v
+adv
+281188	v
+281190	adv
+281196	v
+v
 281199	v
-281201	s
-281207	v
-281209	adv
+adv
+281202	p
+281204	s
+281211	adv
 v
-o
-281215	v
+adv
+281215	s
+v
+adv
+281227	adv
+281230	v
+v
+281233	o
+adv
+281238	s
+v
 s
-v
 adv
-adv
-281221	io
-v
-o
-s
-v
-adv
-281228	v
-adv
-281232	v
-adv
-281235	vc
+281247	adv
 p
-281238	v
-aux
-281241	s
-v
-o
-281246	o2
-281253	o
-v
-v
-o
+p
 s
-281259	v
+281252	v
 o
+281258	s
+adv
+v
 s
+281264	adv
 v
-o
-281265	s
+281267	s
 v
-o
 adv
+281273	io
+v
+o
+281277	adv
+o
+281281	v
 s
-v
-o
-281274	v
-adv
-281279	o
-v
-adv
-281284	v
-o
-281288	o
-adv
-v
 281294	v
+v
+v
 o
-v
-v
+281302	adv
+281304	adv
 adv
-281301	s
-s
-281304	o
-281306	v
-v
-281309	adv
+281308	adv
+281311	v
+adv
+281314	p
 vc
-p
-281313	v
-adv
-v
-v
-adv
-adv
-v
-281324	adv
-v
-v
-281328	vc
-p
-281331	adv
-v
-281334	adv
-v
-281337	adv
-281339	v
-v
-281342	s
-281344	p
-adv
+281318	v
+s
 v
 o
-v
-s
-o
-p
-s
+281325	adv
 aux
-281356	o
 v
-s
-v
-o
-281362	adv
-v
-v
-s
-v
-o
-281372	s
-281374	p
-vc
-281377	v
-o
-281381	v
-281383	s
 io
-281386	o2
-v
-adv
-v
-281391	v
-adv
-v
-281395	io
+s
+281331	io
 o
-281399	p
+v
+281336	s
+o
+v
+io
+281341	v
+o
+v
+281345	adv
+281351	o
+v
+adv
+o
+281357	v
+adv
+281360	adv
+v
+adv
+v
+v
+s
+281369	s
+v
+v
+v
+o
+v
+o
+v
+adv
+281379	v
+s
+281383	adv
+281388	v
+aux
+281394	v
+o
+adv
+281400	adv
+adv
+v
+s
+v
+v
+v
+v
+io
 s
 adv
-s
-281405	adv
+281414	aux
+adv
+281417	io
+apposition
+281421	v
+adv
 v
-o
+adv
+v
+281427	v
+s
+vc
 p
-vc
-adv
-281412	v
-s
-s
+281433	adv
+v
+v
 o
-v
 s
-o
-v
-v
-io
-o
-281424	adv
-281426	s
-io
-v
-adv
-281432	o
-s
-v
-281436	p
-vc
-s
-adv
-v
-s
-281443	v
+281443	apposition
 281445	v
-v
-281448	v
-aux
-281452	s
+o
 adv
-281455	p
-vc
-aux
-apposition
-281460	adv
-v
-v
-o
-apposition
-281466	adv
-281468	v
-281471	s
-v
-adv
-281476	adv
-281478	s
-v
-281482	v
-s
-281485	v
-o
-v
-281489	s
-o
-281492	v
+281449	s
 io
+apposition
+281454	s
+281456	apposition
+281460	o
 adv
-281496	p
-vc
 v
-281500	adv
-v
+adv
+281470	apposition
 s
-281504	adv
+io
+281474	v
 adv
+281481	apposition
+281484	o
+281486	io
+s
+281490	apposition
+281494	v
 adv
-adv
-281509	s
-281511	apposition
-adv
+281498	v
+o
+281503	adv
+o
+281507	io
+v
+281510	adv
+vc
+p
 281514	v
+o
+281521	adv
+281524	o
+v
+v
 adv
+281530	o
+adv
+281534	o
+adv
+281538	o
+adv
+281542	o
+adv
+281546	o
+adv
+281550	o
+adv
+281554	o
+s
+281557	adv
+v
+281560	o2
+281562	v
+adv
+281569	apposition
+adv
+281572	adv
+v
+s
+p
+vc
 v
 o
-281519	adv
 v
-281524	s
-adv
-p
-vc
-adv
-adv
-s
-adv
-p
-vc
-adv
-s
-p
-vc
+281586	adv
 aux
 v
-281541	o
-v
-adv
-281545	v
-s
-281549	s
-adv
-adv
-v
-s
-p
-281556	v
+o2
 o
-281563	o
-281566	adv
-281568	v
-adv
-v
-s
-o
-o
-281577	v
-aux
-s
-281581	adv
-p
-vc
-281585	adv
-281587	v
-v
-adv
-281591	adv
-s
 281594	v
+o
+281597	v
+adv
 v
 adv
+adv
+281603	adv
+v
+io
 s
-281599	p
+281617	apposition
+281619	v
+adv
+o
+v
+adv
+281625	v
+281627	adv
+281630	v
+o2
+281633	v
+adv
+adv
 vc
-281602	o
+p
+281640	v
+o
+adv
 v
-aux
+281645	p
+vc
 s
-o
+281652	s
+281656	apposition
 v
-281611	s
-p
-p
-281617	s
+io
 v
-adv
-281622	v
-o
-281626	v
-o
-281631	v
-adv
-281634	s
-281641	v
-281643	adv
-281647	o
-281649	s
-v
-v
-p
-281655	adv
-v
-o
 281661	adv
 v
-o
-281665	adv
-281667	v
-adv
-281671	v
-s
-281674	adv
-v
-aux
-s
-p
-vc
 s
 adv
-281684	v
-o
-281689	v
-aux
-s
-o
-v
-281695	s
-o
-281698	s
-o
-v
-s
-p
-281704	adv
-v
-adv
-281709	o
-281711	adv
-281716	o
-281718	v
-281720	adv
-281723	v
-281725	v
-adv
-281729	vc
-s
-281732	adv
-v
-281735	p
-281737	p
-281739	s
-281741	p
-s
-281746	s
-281749	adv
-adv
-p
-vc
-adv
-p
-281759	s
-281761	adv
+281667	o
+281669	v
+281672	o
 v
 v
-o
-p
-s
-281768	p
-s
-adv
-p
-281776	v
-adv
-281780	v
-281782	adv
-v
-281785	v
-281787	v
-281789	adv
-v
-v
-v
-281794	v
-adv
-v
-adv
-adv
-v
-s
-281802	v
-281804	adv
-v
-281807	adv
-v
-281810	adv
-281813	v
-aux
-v
-281817	s
-281820	p
-281822	vc
-s
-281825	v
-p
-vc
-281829	o
-281831	v
-281833	v
-281835	adv
-s
-v
-adv
-v
-o
-281842	o
-v
-adv
-o
-281847	v
-281849	v
-o
-s
-o
 v
 io
-281856	v
+o
+281682	apposition
+281686	p
+vc
+281690	v
+281692	adv
+281694	o
+281696	s
+v
+io
+adv
+281702	p
+281705	apposition
+281707	s
+vc
+adv
+s
+v
+281713	o
+281715	s
+v
+adv
+v
+adv
+vc
+p
+281725	v
+o2
+o
+281729	o
+adv
+v
+v
+281734	o
+v
+adv
+281738	adv
+adv
+s
+v
+281743	s
+v
+adv
+281748	o
+adv
+v
+s
+281753	adv
+adv
+v
+281758	adv
+v
+s
+adv
+281763	adv
+281765	v
+v
+adv
+s
+vc
+281771	s
+p
+281775	p
+281777	vc
+s
+v
+o
+o
+281784	v
 o
 v
-281860	o
-281862	v
-281864	o
+v
+io
+o
+281791	s
+v
+o
+281795	adv
+s
+281799	v
+281801	adv
+adv
+o
+v
+adv
+s
+adv
+adv
+v
+281811	s
+281813	adv
+v
+281820	s
+o
+v
+adv
+v
+281826	adv
+v
+v
+adv
+v
+281833	o
+adv
+v
+281837	o
+apposition
+apposition
+v
+o
+io
+v
+281846	o
+281849	v
+adv
+v
+o2
+v
+v
+v
+281857	o
+281859	v
+adv
 281866	v
 adv
+281870	s
 v
 adv
-281871	v
+adv
+281875	o
 adv
 v
-o
-aux
-281877	v
-o
-aux
 v
-281882	v
-281884	v
 s
+o
+o
+adv
+v
+281885	o
 281887	adv
-v
-281890	s
-adv
+281889	v
 v
 adv
-281895	v
-o
+281893	adv
 adv
+281896	v
+281898	o
 v
-o
-aux
-v
-o
-281904	v
-o
-281907	v
-o
-281910	v
-o
-281915	o
-v
-p
-vc
-281921	p
-vc
 s
-281926	v
+o
+adv
 v
-281929	s
-281931	p
+v
+adv
+s
+adv
+281909	p
 vc
+adv
+v
+adv
+adv
+o
+s
+281918	p
+281922	v
+adv
+adv
+281927	adv
+o
+v
+v
+adv
+281934	adv
+v
+v
+adv
+o2
 v
 o
-281936	v
-adv
-aux
-v
-o
-adv
-281943	v
+281943	p
+281945	v
 adv
 281949	v
 adv
-adv
-281953	v
-281955	v
-s
+o
+v
+281956	v
+o
+o
+v
 adv
 v
-o
 p
-s
-281963	p
-281965	vc
-adv
 v
-adv
+o
 v
-adv
 v
+o
+281971	apposition
 s
 o
-281975	s
 v
-281978	v
-281980	v
 o
-281983	adv
-281985	v
+281977	v
+281979	s
 adv
-281989	s
-281991	p
+281982	v
+v
+o
+281987	s
 vc
-281994	v
-281996	o
+p
+281993	adv
 v
-281999	adv
+io
+s
+281999	v
+o
+282002	v
+v
+adv
+282007	adv
+v
+adv
+v
+o
+io
 v
 s
-adv
-v
-282006	v
-adv
-aux
-v
-v
-adv
-282015	v
-s
-282018	v
+p
+vc
+282018	adv
 282020	s
-282022	p
-vc
-s
-282029	v
-282032	s
-282034	p
-adv
-vc
-282038	v
+v
+io
+v
+282026	adv
+v
 o
-282041	adv
-282043	v
+282031	adv
+282037	apposition
 adv
-282046	aux
+282040	adv
+v
+v
+vc
+adv
 s
-282052	v
-o
-282055	v
+p
+adv
+p
+282050	vc
+adv
 adv
 v
-282059	s
-282061	v
+o
+282058	v
+v
 adv
+282063	v
+io
 282066	v
-v
 adv
-282071	v
-v
-o
-282075	adv
-282077	v
-o
-adv
-v
-o
-v
-282084	aux
-adv
-282089	aux
+s
+282071	o
 s
 v
-o
-282096	v
 adv
-282099	v
+282078	s
+v
+adv
+282082	o
+adv
+aux
+282086	io
+v
+adv
+v
 o
-282102	v
+adv
+282094	v
+o
+282098	v
+adv
+282111	o
+adv
+v
+v
+adv
+282118	adv
 s
-v
-o
-282108	s
-282111	v
 adv
-v
-aux
 adv
-282117	adv
-v
-aux
-s
-adv
-282123	v
-o2
-v
-aux
-282131	o
-282133	s
-v
-adv
-282138	aux
-v
-v
-o
-282143	v
-282145	o
-282147	v
+282125	v
+282127	v
 p
 vc
 s
-282152	adv
-282154	aux
+282134	adv
+adv
+282137	s
+v
+s
 adv
 v
 adv
-282164	o
+282144	v
+282146	o
+o
+v
+s
 vc
-282167	s
-282169	p
-282171	s
 p
+282153	s
+adv
+282158	v
+adv
+282162	adv
+s
+282165	adv
+v
+v
+s
 282174	adv
+282176	v
 adv
 v
-282178	v
-s
-282181	v
-282183	v
-s
+adv
+282186	s
+282188	adv
 v
-282187	v
-s
-282190	v
 o
-282195	v
-adv
-v
-adv
-adv
-282204	s
-282207	v
-v
-282210	v
-o
+aux
 s
-282215	o
-v
-v
-io
-282220	v
-282222	io
-o
-282225	v
 adv
-282228	v
-adv
-v
-s
-v
-s
 p
+282198	s
+p
+282203	v
+s
+adv
+282207	s
+o
+v
+282211	v
+adv
+o
+v
+s
+v
+282218	s
+adv
+v
+v
+282223	s
+adv
+282226	adv
+s
+adv
+v
+282231	s
+282233	v
+v
+282236	s
+282241	v
+s
+adv
+v
+p
+v
 vc
-282239	adv
-v
-adv
-v
-282244	adv
-v
-adv
-282248	adv
-282253	adv
-v
-282257	s
-o
-v
-282261	s
-v
-o
-282265	aux
-282268	s
-282270	v
-adv
-282274	v
 s
+adv
+282253	v
+282255	o
+282260	adv
+s
+v
+v
+282265	s
+v
+v
+o
+282273	adv
+282276	v
+adv
+s
+v
+282281	aux
 o
 v
-282279	v
-o
-adv
-282284	v
-o
-adv
-282288	v
-o
-s
-apposition
-282293	io
-282310	s
-io
-282313	v
+v
 p
-s
-282323	apposition
+282287	adv
+vc
 adv
-282328	v
+282291	o
+282295	o2
+v
+282298	s
+282303	adv
+282306	v
+io
+v
+io
+282311	adv
+282314	v
+adv
+adv
+adv
+vc
+p
 o
-adv
-282332	v
-adv
+s
+282323	v
+282325	o
+282328	adv
+282332	s
+282334	aux
+v
+v
 282338	adv
-282343	v
 adv
-adv
-282347	adv
-282349	v
-adv
-adv
-282353	v
-adv
-282356	adv
+282342	v
 v
 adv
-adv
-282361	v
-v
-adv
-282366	s
-282373	v
-adv
-282376	v
-v
-adv
-282381	adv
-282384	o
-adv
-v
-v
-adv
-adv
-adv
-v
-v
-282394	v
-adv
-282397	v
-v
-o
-282403	apposition
-adv
-282406	v
-282408	s
-adv
-282413	v
-v
-adv
-282420	v
-s
-282425	v
-o
-282434	io
-v
-282437	io
-282439	v
-o
-282442	s
-adv
-v
+282346	v
+282348	adv
+282357	apposition
 io
+s
 adv
+282365	s
+s
+vc
+p
+o
 v
 o
+v
 adv
-282452	v
+282375	o
+v
+282378	s
+282380	v
+p
+282386	s
+v
+282389	v
+282391	v
+282393	v
+io
+282398	s
+vc
+p
+282403	v
+io
+o
+v
+282408	v
+io
+282411	s
+o
+v
 adv
-adv
+s
+282420	p
+282428	apposition
+282430	o
 v
 s
-v
-282459	adv
-v
+282434	s
+282436	v
+282438	vc
+p
+s
 o
+v
+adv
+282445	v
+io
+s
+p
+vc
+282451	s
+p
+adv
+vc
+282457	v
+282459	o
+v
+adv
+282463	adv
 282465	v
-adv
+v
+282468	adv
+v
+o
+282473	adv
+282475	v
+282477	s
+vc
+p
+282481	o
 v
 adv
-282471	v
-io
-adv
-282479	p
-282481	v
-adv
-282489	adv
-282492	v
+282485	s
+282488	apposition
+282490	v
 o
-s
+adv
+282495	v
+282497	o
+adv
+v
+o
+v
+282503	s
+adv
+vc
 p
-adv
-282498	vc
-282500	v
+282508	v
 o
+282511	p
+vc
+282516	v
+io
+o
+282520	v
+o
+adv
+282525	v
+282527	adv
+v
+o2
+v
+o
+282533	s
+282535	adv
+vc
+p
+aux
+o
+v
+io
+282543	adv
+v
+282547	s
+v
+o
+v
+adv
+282553	apposition
+282556	s
 p
 vc
-282505	s
-p
-282510	o2
+adv
+282562	adv
+282573	adv
 v
-adv
-v
-adv
-282517	adv
-adv
-282522	v
-v
-282526	adv
-282529	v
-adv
-282536	o
-adv
-282539	adv
-282542	apposition
-v
-282545	adv
-282547	v
-282549	adv
-282552	adv
-282554	apposition
-282560	v
-o
-adv
-282564	o
-io
-v
-282568	s
-282572	vc
-p
-o
 282576	v
-adv
-282581	adv
-282583	adv
 o
+282579	o
+282581	v
 v
-adv
+282584	v
+o
+282587	o
+282589	adv
 v
-adv
-282592	adv
-282595	v
-282597	v
-282600	s
 p
-282604	s
-282606	p
-282610	v
+vc
+282594	p
 s
-282613	s
+adv
+vc
+s
+282600	v
+o
+282603	adv
+adv
+s
+282608	v
+adv
+v
+282612	p
+vc
+v
+adv
+v
+v
+282619	s
 v
 s
-282618	v
 adv
-282621	s
-282623	vc
-p
-282626	v
-adv
-282629	v
+v
+aux
+o
+282627	v
+io
 282631	o
-282639	adv
-282642	o
-282645	v
-282647	adv
 v
 adv
-282651	v
-282653	p
 s
-adv
-282657	v
-apposition
-282660	v
-adv
-282663	v
-adv
-282666	p
-s
-adv
-282671	v
-v
-adv
-adv
-282676	v
+282637	vc
+p
 o
-282679	io
+v
 adv
-282683	v
+o
+v
+io
+s
+vc
+p
 adv
+282654	s
+v
+282657	s
+282660	adv
+v
+v
+p
+282665	vc
+282667	o
+282669	v
+p
+282672	vc
+adv
+v
+o
+282677	adv
+282679	v
+282681	s
+p
+adv
+vc
+282687	v
+o
+282690	p
+282692	vc
+282694	adv
+282696	v
+282698	adv
+v
+adv
+v
+282703	s
+v
+o
+282707	v
+io
 aux
-v
-adv
-o
-282692	v
-adv
-adv
-v
-adv
-282698	s
-v
-v
-282702	aux
-o
-v
-v
+282711	v
+io
 s
-v
 adv
-282711	p
-282715	s
-v
+282717	v
+io
+aux
+282721	v
+o
+282724	v
+io
+aux
+282728	v
 o
 v
-adv
-adv
-v
-282723	s
-282725	p
-282732	o
+io
+aux
 282734	v
-adv
 o
 v
-adv
-282742	s
-adv
-adv
-p
-adv
+io
+aux
+282740	v
+o
+282743	v
+io
+aux
 282748	p
+vc
+282751	s
+282754	adv
+v
+282757	v
+o
+adv
+v
+o
+282768	s
+v
+o
+adv
+vc
+s
+282776	p
+282779	s
+282784	apposition
+282796	vc
+p
+282800	p
+282802	vc
+282804	s
+282806	v
+282811	v
+o
+282815	v
+adv
+282818	aux
+p
+vc
+282823	v
+282825	s
+v
+adv
+s
+v
+282831	v
+282833	p
+vc
+adv
+v
+282838	adv
+vc
+p
+282843	p
+vc
+v
+adv
+282849	v
+282851	adv
+vc
+s
+p
+282856	s
+o
+v
+adv
+282862	v
 s
 adv
 v
+io
+282868	adv
+v
+o
+282874	v
+o
+282878	s
+p
+282881	adv
+vc
+p
+vc
+s
+282887	adv
+v
+282890	s
 adv
-282754	v
+vc
+p
+s
+vc
+p
+282898	v
+o
+282903	s
+v
+o
+adv
+o
+v
+v
+o
+o
+282913	v
+aux
+o
+v
+adv
+adv
+v
+282921	adv
+v
+o
+adv
+v
+s
+adv
+282933	v
+282935	p
+vc
+s
+o
+s
+v
+io
+p
+282945	o
+v
+io
+adv
+v
+o
+282952	aux
+s
+o
+v
+adv
+v
+adv
+282960	adv
+o
+v
+282964	s
+v
+o
+282970	s
+282972	v
+o
+adv
+282977	p
+vc
+282980	adv
+vc
+p
+282985	v
+o
+v
+adv
+282990	adv
 aux
 v
 adv
-282761	v
-o
-282765	s
-v
-adv
-282770	o
-282772	adv
-282774	v
-o2
-282777	adv
-adv
+282997	v
 v
 o
-282782	o
-adv
-282786	v
-v
-o
-adv
-282791	v
-io
-282795	adv
-282797	apposition
-282802	v
-282806	adv
+283001	adv
 v
 adv
-282814	adv
+adv
+283008	v
+283010	p
 vc
-s
-282819	v
 v
-o
-282826	p
-282830	o2
-v
-282833	o
-282836	p
-282838	o
-v
-o
-v
-o
-v
-o
-v
-aux
-v
-adv
-282850	io
-282852	apposition
-282860	s
-282862	p
-adv
-282865	v
-s
-o
-v
-adv
-p
-282872	s
-v
-282875	v
-282878	v
-282880	v
-s
-p
-adv
-adv
-282886	v
-282888	s
-v
-adv
-io
-v
-o
-282895	v
-adv
-282898	s
+283014	s
+283016	v
 o
 adv
 v
-282903	v
-s
-adv
-282908	s
-v
-adv
-v
-v
-adv
-v
-v
-282917	v
-adv
-s
-o
-282922	v
-adv
-282926	adv
-282929	adv
-v
-adv
-v
-adv
-282935	v
-vc
-282938	p
-282941	v
-282943	v
-adv
-adv
-282952	adv
-aux
-v
-io
-282959	s
-282961	v
-o
-adv
-282967	adv
-v
-v
-o
-282975	adv
-vc
-p
-282999	s
-vc
-adv
-283003	p
-283005	adv
-283007	adv
-s
-283012	v
-adv
 v
 o
 v
 io
-283020	s
-v
-o
-o2
-o
-v
-p
+s
+283026	p
 vc
+283029	vc
+adv
+s
 adv
 v
-283031	adv
+o
+283036	adv
 v
 o
 aux
 adv
+p
+vc
+283044	adv
 v
+p
+vc
+v
+283051	v
+p
 adv
+vc
+283056	v
 o
-283040	io
-io
+283059	v
+283061	s
 v
 o
-283045	io
-283048	adv
+283065	adv
+v
+o
+283069	s
+p
+vc
+s
+v
+o
+o
+283077	v
+283079	s
+vc
+p
+283083	v
+283085	s
+v
+283088	o
+v
+283091	s
+p
+adv
+vc
+s
+adv
+v
 adv
 v
 s
-283053	adv
-283055	s
+v
+adv
+v
+o
+283106	v
+o
+aux
+s
+v
+o
+v
+o
 p
-283058	v
-o
-adv
-283062	o
-adv
-adv
-283066	v
-283068	adv
-v
-283071	o
-v
-283075	v
-o
-o
-v
-283080	v
-o
-v
-o
-adv
-283086	o
-adv
-v
-o
-o
-v
-283093	adv
-283095	v
-o
-v
-o
-283100	v
-o
-283105	s
+vc
+283117	s
 p
-283108	s
+vc
+v
+o
 p
-283111	s
-283113	p
-v
-o
-283117	p
-v
-o
-283121	p
-283123	vc
+283124	vc
 283126	adv
+s
 v
+adv
+v
+s
+283135	v
+o
+283139	s
+v
+adv
+283143	o
+adv
+v
+283147	s
+adv
+v
+283151	adv
+v
+v
+283155	adv
+283157	v
 adv
 p
-283133	adv
-283136	adv
+vc
+s
+283170	s
+adv
 v
-283139	v
 o
-283142	apposition
+adv
+vc
+p
+283179	adv
+v
+o
+283184	p
+vc
+s
+o
 v
 adv
-283147	p
+v
+o
+283194	s
+p
+283197	vc
+283199	v
+o
+283203	adv
+v
+o
+283207	s
+283209	p
+vc
+s
+283215	p
+adv
+v
+aux
+283220	v
+o
+s
+s
+v
+283226	v
+adv
+283229	adv
+283232	v
+o
+adv
+v
+v
+adv
+283239	s
+v
+o
+283243	p
+vc
+283246	v
+283248	s
+adv
+v
+o
+283253	adv
+v
+adv
+v
+o
+283259	s
+adv
+o
+283263	v
+283265	s
+v
+adv
+283269	o
+v
+s
+283273	v
+o
+283278	v
+s
+283281	o
+v
+283284	v
+o
+283287	adv
+adv
+s
+283292	v
+adv
+aux
+adv
+v
+283304	adv
+v
+283307	p
+283309	vc
+283311	adv
+v
+o
+283317	v
+s
+283321	p
+vc
+s
+adv
+283327	v
+o
+aux
+283331	s
+adv
+v
+o
+v
+adv
+283339	o
+v
+v
+adv
+283345	o
+283347	v
+283349	o
+adv
+v
+283353	p
+vc
+s
+283357	v
+o
+283363	apposition
+283365	v
+o
+283368	v
+o
+io
+283372	v
+o
+283375	adv
+v
+283378	s
+adv
+283381	adv
+v
+283384	v
 adv
 adv
+283388	o
+io
+v
+aux
+283393	o
+v
+283396	v
+o
+p
+283400	vc
+283402	s
+v
 adv
+283406	adv
+v
+o
+283411	s
+s
+v
+s
+adv
+v
+p
+283419	vc
+283421	s
+s
+adv
+v
+o
+p
+283428	adv
+vc
+283431	s
+vc
+283435	adv
+v
+283438	v
+283440	adv
+p
+283443	vc
+adv
+s
+p
+283448	vc
+aux
+283451	v
+o
+283455	p
+vc
+s
+283460	s
+283463	s
+p
+283466	vc
+adv
+adv
+283470	v
+283472	s
+o
+v
+s
+p
+283478	vc
+v
+o
+v
+o
+s
+adv
+vc
+p
+283488	adv
+v
+o
+adv
+v
+o
+283501	aux
+v
+o
+283506	s
+p
+283509	vc
+283512	s
+v
+adv
+283516	v
+283518	v
+o
+adv
+v
+adv
+v
+o
+283526	s
+p
+vc
+adv
+v
+s
+283534	adv
+283536	o
+283540	v
+s
+adv
+283545	v
+adv
+p
+vc
+s
+apposition
+s
+v
+o
+283555	s
+v
+o
+283559	v
+o
+283562	o2
+283566	aux
+283568	adv
+s
+v
+o
+s
+v
+o
+v
+o
+s
+adv
+v
+283581	v
+o
+s
+adv
+v
+283587	s
+283589	v
+adv
+adv
+v
+283594	adv
+v
+283597	s
+adv
+283600	o
+283603	v
+io
+283606	s
+v
+283610	s
 v
 o
 o2
-283159	adv
-283162	o
-v
-283165	adv
-adv
-v
-v
-v
-o
-283176	p
-283178	v
-283180	v
-s
-283184	v
-283186	v
-283188	s
-adv
-adv
-v
-s
-adv
-283195	o
-v
-io
-adv
-v
-283201	adv
-v
-283204	adv
-adv
-io
-283211	v
-v
-v
-adv
-283217	v
-s
-283221	adv
-283223	v
-s
-adv
-s
-s
-vc
-p
-v
-adv
-adv
-o
-s
-adv
-v
-apposition
-apposition
-283246	adv
-283250	s
-vc
-p
-283254	v
-adv
-v
-io
-s
-283263	s
-283265	v
-adv
-s
-o
-283270	v
-283272	v
-adv
-v
-adv
-adv
-adv
-283281	o
-283285	v
-p
-283288	s
-283290	v
-o
-283294	v
-v
-adv
-283301	adv
-v
-adv
-v
-s
-adv
-283311	v
-s
-v
-o
-adv
-v
-v
-o
-v
-283321	adv
-283323	io
-v
-283326	v
-283328	adv
-adv
-v
-283332	adv
-adv
-s
-283337	v
-v
-283341	adv
-adv
-o
-283347	v
-283349	s
-v
-o
-p
-adv
-adv
-283358	s
-283360	v
-o
-adv
-o
-v
-283366	s
-283373	s
-v
-283376	o
-o
-283379	s
-v
-283382	adv
-283384	o
-v
-s
-283388	adv
-v
-s
-adv
-283394	adv
-vc
-s
-283400	p
-283404	aux
-aux
-283409	v
-adv
-283413	adv
-adv
-v
-283417	s
-adv
-v
-283421	o
-283423	v
-adv
-283427	v
-283429	adv
-283435	v
-v
-283440	v
-adv
-283443	p
-283445	s
-283452	adv
-v
-283455	adv
-283457	s
-v
-adv
-283470	adv
-283473	v
-v
-283476	o
-adv
-283481	s
-v
-s
-adv
-283491	adv
-p
-p
-s
-283496	v
-o
-283502	s
-adv
-v
-s
-283508	adv
-v
-283511	s
-v
-adv
-283517	io
-v
-o
-283521	adv
-o
-283525	v
-s
-283538	v
-v
-v
-o
-283546	adv
-283548	adv
-adv
-283552	adv
-283555	v
-adv
-283558	p
-vc
-283563	v
-s
-v
-o
-283570	adv
-aux
-v
-io
-s
-283576	io
-o
-v
-283581	s
-o
-v
-io
-283586	v
-o
-v
-283590	adv
-283596	o
-v
-adv
-adv
-o
-283603	v
-adv
-283606	adv
-v
-adv
-v
-v
-s
 283615	s
 v
-v
-v
-o
-v
-o
-v
+283618	s
+vc
+p
+283623	s
 adv
-283625	v
-s
-283629	adv
-283634	v
-283636	aux
-283641	v
+v
+283627	s
+adv
+283631	s
+v
+283634	o
 o
+v
+s
+adv
+s
+p
+vc
+283644	v
 adv
 283647	adv
+283649	v
+283651	s
+adv
+v
 adv
 v
 s
-v
-v
-v
-v
-io
-s
 adv
-283661	aux
-adv
-283664	io
-apposition
-283669	v
-adv
+283659	o
 v
 adv
-v
-283675	v
+283667	s
+vc
 s
 vc
 p
-283681	adv
-v
-v
-o
-s
-283691	apposition
-283693	v
-o
+283674	s
 adv
-283697	s
-io
-apposition
-283702	s
-283704	apposition
-283708	o
-adv
-v
-adv
-283718	apposition
-s
-io
-283722	v
-adv
-283729	apposition
-283732	o
-283734	io
-s
-283738	apposition
-283742	v
-adv
-283746	v
-o
-adv
-283752	adv
-o
-283756	io
-v
-283759	adv
 vc
 p
-283763	v
+283680	s
+283682	adv
+v
 o
-283770	adv
-283773	o
+283687	s
+o
 v
+283691	v
+adv
 v
 adv
-283779	o
-adv
-283783	o
-adv
-283787	o
-adv
-283791	o
-adv
-283795	o
-adv
-283799	o
-adv
-283803	o
-s
-283806	adv
+283696	s
 v
-283809	o2
-283811	v
+283699	s
 adv
-283818	apposition
-adv
-283821	adv
 v
-s
+o
+283705	s
+v
+283708	v
+o
+283711	o
+283713	v
 p
+vc
+283717	adv
+v
+o
+283721	o
+v
+o
+o
+adv
+v
+adv
+v
+v
+283731	o
+283733	v
+adv
+v
+o
+v
+o
+283741	s
+v
+283744	s
+vc
+p
+adv
+283749	v
+283751	s
+v
+v
+v
+v
+adv
+adv
+v
+283760	v
+o
+283766	o
+v
+283769	o
+283771	v
+p
+283774	vc
+s
+283778	o
+283780	v
+283782	s
+283784	p
+adv
+vc
+283788	s
+v
+adv
+283792	v
+o
+283795	p
+vc
+s
+283799	v
+o
+p
+283803	p
 vc
 v
 o
+283808	adv
 v
-283835	adv
-aux
-v
-o2
-o
-283843	v
-o
-283846	v
-adv
+283811	s
+vc
+p
+283816	p
+vc
 v
 adv
-adv
-283852	adv
+283822	p
+283824	adv
+283826	adv
+283828	adv
+283835	p
+vc
 v
-io
+283839	s
+vc
+p
+283844	p
+vc
+v
+p
+283854	s
+p
+283857	vc
+283859	o
+283862	v
 s
-283866	apposition
-283869	v
-adv
-o
-v
-adv
+283866	p
+vc
+283869	p
+vc
+s
 283875	v
-283877	adv
-283880	v
+adv
+283879	v
+adv
+283884	v
+o
+adv
+adv
+v
+o
 o2
-283883	v
+v
+o
+283894	adv
+v
 adv
+283898	o
+v
+s
 adv
+283905	p
 vc
+s
+o
+v
+s
+io
+283913	s
+283915	p
+283918	vc
+v
+o
+v
+o
+adv
+v
+o
+283928	o
+adv
+v
+o
+v
+io
+283935	v
+283937	o
+v
+v
+adv
+283947	p
+vc
+s
+o
+v
+adv
+283954	o
+v
+adv
+283959	v
+o
+283963	v
+283965	v
+o
+o
+v
+v
+283971	v
+o
+o
+v
+adv
+283977	s
+v
+s
+283981	v
+o
+283985	v
+283987	v
+io
+o
+v
+o
+283993	v
+s
+283996	adv
+adv
+v
+284000	v
+s
 p
-283890	v
-o
-adv
-v
-283896	p
 vc
+284005	v
 s
-283903	s
-283907	apposition
+284009	v
+284011	s
 v
-io
-v
-283912	adv
-v
-s
-adv
-283918	o
-283920	v
-283923	o
-v
-v
-v
-io
-o
-283933	apposition
-283937	p
-vc
-283942	v
-283944	adv
-283946	o
-283948	s
-v
-io
-adv
-283954	p
-283957	apposition
-283959	s
-vc
-adv
-s
-v
-283965	o
-283967	s
-v
-adv
-v
-adv
-vc
-p
-283977	v
-o2
-o
-283981	o
-adv
-v
-v
-283986	o
-v
-adv
-283990	adv
-adv
-s
-v
-283995	s
-v
-adv
-284000	o
-adv
-v
-s
-284005	adv
-adv
-v
-284010	adv
-v
-s
 adv
 284015	adv
-284017	v
 v
+284019	v
 adv
-s
-284022	vc
-284024	s
-p
-284028	p
-284030	vc
-s
-s
+284022	v
+o
+284025	s
+adv
 v
 o
-o
-284038	v
-o
 v
+284032	p
+284034	vc
+284036	s
+284038	adv
+284040	v
 v
+284044	s
+284047	v
+284049	v
 io
 o
-284045	s
-v
-o
-284049	adv
-s
 284053	v
-284055	adv
-adv
 o
-v
-adv
+284056	vc
+p
+284064	apposition
 s
-adv
-adv
-v
-284065	s
-284067	adv
-v
-284075	s
-o
-v
-adv
-v
-284081	adv
-v
-v
-adv
-v
-284088	o
-adv
-v
-284092	o
-apposition
-apposition
+vc
+p
+284072	aux
 v
 o
-io
-v
-284101	o
-284104	v
 adv
+284078	s
+284084	o
+s
 v
-o2
-v
-v
-v
-284113	o
-284115	v
 adv
+284094	v
+o
+adv
+284099	v
+adv
+284102	p
+vc
+adv
+284106	vc
+p
+s
+284116	apposition
+284119	adv
 284122	v
 adv
-284126	s
+284125	v
+adv
+284129	v
+adv
+284132	o
 v
 adv
-adv
-284131	o
-adv
-v
-v
-s
-o
-o
-adv
-v
-284141	o
-284143	adv
-284145	v
-v
-adv
-284149	adv
-adv
-284152	v
-284154	o
-v
-s
-o
-adv
-v
-v
-adv
-s
-adv
-284165	p
-vc
-adv
-v
-adv
-adv
-o
-s
-284174	p
-284178	v
-adv
-adv
-284183	adv
-o
-v
-v
-adv
-284190	adv
-v
-v
-adv
-adv
-o2
-v
-o
-284200	p
-284202	v
-adv
-284206	v
-adv
-o
-v
-284213	v
-o
-o
-v
-adv
-v
-p
-v
-o
-v
-v
-o
-284229	apposition
-s
-o
-v
-o
-284235	v
-284237	s
-adv
-284240	v
-v
-o
-284245	s
-vc
-p
-284251	adv
-v
-io
-s
-284257	v
-o
-284260	v
-v
-adv
-284265	adv
-v
-adv
-v
-o
-io
-v
-s
-p
-vc
-284276	adv
-284278	s
-v
-io
-v
-284285	adv
-v
-o
-284290	adv
-284296	apposition
-adv
-284299	adv
-v
-v
-vc
-adv
-s
-p
-adv
-p
-284309	vc
-adv
-adv
-v
-o
-284317	v
-v
-adv
-284322	v
-io
-284325	v
-adv
-s
-284330	o
-s
-v
-adv
-284337	s
-v
-adv
-284341	o
-adv
-aux
-284345	io
-v
-adv
-v
-o
-adv
-284353	v
-o
-284357	v
-adv
-284370	o
-adv
-v
-v
-adv
-284377	adv
-s
-adv
-adv
-284384	v
-284386	v
-p
-vc
-s
-284393	adv
-adv
-284396	s
-v
-s
-adv
-v
-adv
-284403	v
-284405	o
-o
-v
-s
-vc
-p
-284412	s
-adv
-284417	v
-adv
-284421	adv
-s
-284424	adv
-v
-v
-s
-284433	adv
-284435	v
-adv
-v
-adv
-284445	s
-284447	adv
+284137	adv
 v
 o
 aux
-s
 adv
-p
-284457	s
-p
-284462	v
-s
+284143	o
+v
+io
+284147	o
+v
 adv
-284466	s
+284151	v
+o
+284154	p
+vc
+s
+v
+adv
+284161	p
+s
+vc
+284165	v
+adv
+adv
+v
+284170	s
+284172	v
+adv
+284175	adv
+v
+s
+v
+adv
+s
+vc
+p
+284186	v
+o
+284190	v
 o
 v
-284470	v
-adv
-o
+284194	o
 v
 s
 v
-284477	s
+284199	adv
+v
+adv
+284205	o
 adv
 v
 v
-284482	s
+adv
+284211	s
+o
+284217	v
+284220	s
+v
+adv
+284224	o
+284226	adv
+v
+adv
+v
+o
+adv
+284233	v
+io
+adv
+v
+v
+284239	io
+v
+v
+adv
+284246	o
+v
+io
+v
+adv
+v
+adv
+284256	v
+o
+vc
+p
+284261	adv
+284263	v
+284265	s
+284267	v
+v
+o
+s
+284276	s
+284279	o
+s
+v
+adv
+aux
+adv
+v
+s
+v
+284290	v
+s
+284293	v
+284295	adv
+v
+s
+284299	v
+adv
+284303	s
+adv
+v
+o
+adv
+adv
+v
+v
+s
+284313	adv
+284315	v
+aux
+o
+v
+o
+v
+adv
+284324	o
+s
+v
+adv
+284329	adv
+adv
+adv
+v
+v
+adv
+adv
+adv
+284339	v
+o
+v
+adv
+284344	s
+284346	v
+v
+o
+284350	p
+vc
+adv
+v
+o
+io
+284357	s
+v
+adv
+adv
+v
+o
+adv
+284365	v
+v
+284369	o
+v
+adv
+v
+o
+284375	adv
+v
+adv
+284379	s
+v
+o
+284383	v
+v
+284386	adv
+284388	v
+aux
+v
+o
+284393	o
+v
+p
+284397	vc
+v
+adv
+v
+o
+adv
+v
+adv
+284410	s
+284412	v
+284414	v
+284416	s
+284418	p
+vc
+o
+v
+v
+io
+284425	adv
+v
+adv
+284430	io
+v
+v
+284434	adv
+o
+v
+284438	adv
+284440	v
+s
+io
+v
+o
+s
+v
+o
+adv
+s
+apposition
+284455	io
+284457	adv
+284459	v
+284461	adv
+v
+s
+io
+284467	v
+aux
+o
+v
+v
+io
+adv
+284477	o
+v
+v
+io
+v
+v
 adv
 284485	adv
-s
-adv
+v
+io
 v
 284490	s
-284492	v
+284493	adv
 v
-284495	s
-284500	v
-284502	s
 adv
-v
-p
-v
-vc
-s
+284498	adv
+o
+284503	v
 adv
-284513	v
-284515	o
-284521	adv
-s
+284506	o
+284512	apposition
 v
 v
-284526	s
+284516	o
+v
+v
+adv
+o
+284522	s
+o
+adv
+284526	v
+adv
+adv
 v
 v
 o
-284534	adv
-284537	v
-adv
-s
+284533	adv
 v
-284542	aux
 o
-v
-v
-p
-284548	adv
-vc
+284538	v
+o
+284541	adv
+284544	adv
 adv
-284552	o
-284556	o2
 v
-284559	s
-284564	adv
+284548	s
+284554	adv
+o
+284557	adv
+v
+284560	v
+adv
+284563	v
+o
+o
 284567	v
-io
+adv
+284570	s
+284572	v
 v
+o
+284576	v
+o
+284579	v
+o
+284582	v
+284584	s
+284587	apposition
+284589	adv
+v
+v
+adv
+284595	v
+o
+v
+284599	v
+v
+o
+s
+s
+284605	o
+284607	adv
+v
+v
+o
+284612	adv
+284614	s
+284616	v
+adv
+v
+s
 io
-284572	adv
-284575	v
-adv
-adv
-adv
+284623	adv
+284626	v
+284628	adv
+284632	v
+284634	adv
+284637	v
+s
 vc
 p
-s
+284645	v
+adv
 o
+v
+p
+284652	adv
+v
+284658	adv
+v
+v
+284664	v
+o
+284668	io
 s
-284585	v
-284587	o
-284590	adv
-284594	s
-284596	aux
+284672	adv
 v
 v
-284600	adv
-adv
-284604	v
+284676	io
+s
+284680	v
+aux
 v
-adv
-284608	v
-284610	adv
-284619	apposition
-io
 s
 adv
-284627	s
+284687	adv
+v
+o
+adv
+284692	v
+o
+284695	adv
+284701	adv
+v
+284707	o
+v
+adv
+s
 s
 vc
 p
-o
-v
-o
-v
-adv
-284637	o
-v
-284640	s
-284642	v
-p
-284648	s
-v
-284651	v
-284653	v
-284655	v
-io
-o
-284661	s
-vc
-p
-284666	v
-io
-o
-v
-284671	v
-io
-284674	s
-o
-v
-adv
-s
-284683	p
-284691	apposition
-284693	o
-v
-s
-284697	s
-284699	v
-284701	vc
-p
-s
-284705	o
-v
-adv
-284709	v
-io
-s
-p
-vc
-284715	s
-p
-adv
-vc
+284715	adv
+284718	v
+284720	s
 284722	v
-284724	o
-v
-adv
-284728	adv
-284730	v
-v
-284733	adv
-v
-o
-284738	adv
-284740	v
-284742	s
-vc
-p
-284746	o
-v
-adv
-284750	s
-284753	apposition
-284755	v
-o
-adv
-284761	v
-284763	o
-adv
-v
 o
 v
-284769	s
-adv
-vc
-p
-284775	v
 o
-284778	p
-vc
-284783	v
+adv
+s
+284729	aux
+v
+o
+284733	v
+adv
+284740	apposition
+284742	v
 io
-o
-284787	v
+p
+284747	vc
+s
+adv
+284753	v
+284755	s
+vc
+p
+v
 o
 adv
-284793	v
-284795	adv
 v
+s
+284764	aux
+v
+o
+adv
+284770	adv
+284772	v
+o
+adv
+284776	v
+v
+o
+284783	apposition
+adv
+284787	o
+284789	v
+v
+v
+adv
+v
+o
+284796	v
+adv
+v
+o
+284802	adv
+284804	v
+io
+284808	v
+o
+v
+o
 o2
-v
-o
-284801	s
-284803	adv
-vc
-p
-aux
-o
-v
-io
-284811	adv
-v
-284815	s
-v
-o
-v
+284814	v
 adv
-284821	apposition
-284824	s
-p
-vc
+284818	o2
 adv
+apposition
+284822	apposition
+adv
+284826	apposition
+284828	s
 284830	adv
-284841	adv
+284839	aux
+284842	o
 v
-284844	v
-o
-284847	o
-284849	v
+io
+s
 v
-284852	v
-o
-284855	o
-284857	adv
+io
+284849	s
+v
+v
+adv
+284854	v
+v
+adv
+284862	s
+v
+284872	o
 v
 p
-vc
-284862	p
 s
-adv
-vc
-284867	s
-284869	v
+v
+284878	v
 o
-284872	adv
+284883	v
 adv
-s
-284877	v
-adv
-v
-284881	p
-vc
-v
-adv
-v
-v
-284888	s
 v
 s
+284888	p
+s
+io
+284893	apposition
+284896	s
+io
+284899	adv
+284902	v
+284904	v
+284906	v
+284911	s
+p
+284920	apposition
+284923	apposition
+284934	v
+o
+284937	v
+o
 adv
-v
+284942	adv
+284946	v
+o
+o2
+284954	io
+s
+284959	adv
+284963	aux
 aux
-o
-284896	v
-io
-284901	o
 v
 adv
+284970	v
+o
 s
-284907	vc
-p
-284910	o
-v
-adv
-o
-v
-io
-s
-vc
-p
-adv
-284925	s
-v
-284928	s
-284931	adv
-v
-v
-p
-284936	vc
-284938	o
-284940	v
-p
-284943	vc
-adv
-v
-o
-284948	adv
-284950	v
-284952	s
-p
-adv
-vc
-284959	v
-o
-284962	p
-284964	vc
-284966	adv
-284968	v
-284970	adv
-v
-adv
-v
 284975	s
-v
 o
+v
 284979	v
-io
-aux
-284983	v
-io
+adv
 s
-adv
-284989	v
-io
+284985	aux
 aux
-284993	v
-o
-284996	v
-io
-aux
-285000	v
-o
-v
-io
-aux
-285006	v
-o
-v
-io
-aux
-285012	v
-o
-285015	v
-io
-aux
-285020	p
-vc
-285023	s
-285026	adv
-v
-285029	v
-o
-adv
-v
-o
-285040	s
-v
-o
-adv
-vc
 s
-285048	p
-285051	s
-285056	apposition
-285068	vc
+vc
 p
-285072	p
-285074	vc
-285076	s
-285078	v
-285083	v
+284993	v
+s
+apposition
+p
+284998	v
+285000	v
+285002	v
+apposition
+s
+285006	apposition
+285017	v
+adv
+285021	vc
+p
+adv
+285031	v
+adv
+adv
+285037	v
+adv
+o
+adv
+285042	v
+o
+v
+v
+adv
+285048	v
+io
+285066	v
+v
+o
+s
+v
+adv
+285073	v
+v
+o
+285078	adv
+285081	o
+285084	v
 o
 285087	v
 adv
-285090	aux
-p
-vc
-285097	v
+285090	o
+s
+285097	p
 285099	s
-v
-adv
-s
-v
-285105	v
-285107	p
-vc
-adv
-v
-285112	adv
-vc
 p
-285117	p
-vc
-v
+285102	s
+285104	s
+285106	p
+285110	s
+285112	p
 adv
-285123	v
-285125	adv
-vc
-s
-p
-285130	s
-o
+285115	adv
 v
+285118	s
+285121	s
+285124	v
 adv
+285129	o
+285131	adv
+285134	s
 285136	v
-s
+285138	s
+285141	s
+v
 adv
-v
-io
-285142	adv
-v
-o
 285148	v
 o
-285152	s
-p
-285155	adv
-vc
-p
-vc
-s
-285161	adv
 v
-285164	s
 adv
-vc
-p
-s
+285154	adv
+285157	v
+o
+285160	adv
+v
+adv
+v
+285165	s
 vc
 p
 285172	v
-o
-285177	s
-v
-o
-adv
-o
-v
-v
-o
-o
-285187	v
-aux
-o
-v
-adv
-adv
-v
-285195	adv
-v
-o
-adv
-v
-s
-adv
-285207	v
-285209	p
-vc
-s
-285213	o
-s
-v
-io
+285175	vc
 p
-285220	o
-v
-io
-adv
-v
-o
-285227	aux
-s
-285230	o
+285178	aux
 v
 adv
+285185	v
+o
+285192	v
+285194	o
+o
+v
+285198	s
+v
+285201	s
+v
 v
 adv
-285236	adv
-o
-v
-285240	s
-v
-o
-285247	s
-285249	v
-o
-adv
-285254	p
-vc
-285257	adv
-vc
-p
-285262	v
-o
-v
-adv
-285267	adv
 aux
+285210	o
 v
 adv
-285274	v
-v
-o
-285278	adv
-v
-adv
-adv
-285286	v
-285288	p
+285220	s
+285222	p
+285225	vc
+285227	s
+285230	p
 vc
-v
-285292	s
-285294	v
-o
-adv
-v
-285299	v
-o
-v
 io
+285237	v
+o
+v
 s
-285305	p
+v
+o
+285244	adv
+285247	v
+adv
+285254	v
+o
+285265	adv
+v
+v
+o
+285271	v
+v
+o
+o2
+285277	adv
 vc
-285308	vc
-adv
+285280	v
 s
-adv
-v
-o
-285315	adv
-v
-o
-aux
-adv
 p
-vc
+285284	o
+v
+285288	v
+adv
+285293	adv
+v
+285296	v
+adv
+285299	o
+285303	v
+v
+285306	adv
+v
+285309	v
+285311	o
+285313	v
+285316	adv
+v
+adv
+285320	v
+o
 285323	adv
+285327	adv
 v
-p
-vc
+285330	o
 v
-285330	v
-p
+v
+285336	o
+s
+v
+v
+o
+v
+o
+s
+v
+io
+v
+v
+io
+v
 adv
+285354	s
 vc
-285335	v
+p
+285361	io
+285366	v
 o
-285338	v
-285341	s
 v
+285373	s
+vc
+p
+285377	v
+285379	v
 o
-285345	adv
-v
-o
-285349	s
+285386	p
+vc
+285390	o
+285393	v
 p
 vc
 s
+285399	v
+285401	p
+285403	adv
 v
 o
-o
-285357	v
-285359	s
-vc
-p
-285363	v
-285365	s
 v
-285368	o
 v
-285371	s
-p
-adv
-vc
-s
-adv
-v
-adv
-v
-s
-v
-adv
-v
-o
-285386	v
-o
 aux
+v
+v
 s
-v
 o
-v
-o
-p
-vc
-285397	s
-p
-vc
-v
-o
-p
-285404	vc
-285406	adv
-s
-v
 adv
-v
-s
 285415	v
+285417	v
 o
-285420	s
-v
-adv
-285424	o
-adv
-v
-285428	s
-adv
-v
-285432	adv
-v
-v
-285436	adv
-285438	v
-adv
+285420	vc
 p
-vc
-s
-285452	s
 adv
-v
-o
-adv
-vc
-p
-285461	adv
-v
-o
-285466	p
-vc
-s
-285470	o
-v
-adv
-v
-o
-285477	s
-p
-285480	vc
-285482	v
-o
-285486	adv
-v
-o
-285490	s
-285492	p
-vc
-s
-285498	p
-adv
-v
-aux
-285503	v
-o
-s
-s
-v
-285509	v
-adv
-285512	adv
-285515	v
-o
-adv
-v
-v
-adv
-285522	s
-v
-o
-285526	p
-vc
-285529	v
-285531	s
-adv
-v
-o
-285536	adv
-v
-adv
-v
-o
-285542	s
-adv
-o
-285546	v
-285548	s
-v
-adv
-285552	o
-v
-285555	s
-285557	v
-o
-285562	v
-s
-285565	o
-v
-285568	v
-o
-285571	adv
-adv
-s
-285576	v
-adv
-aux
-adv
-v
-285588	adv
-v
-285591	p
-285593	vc
-285595	o
-adv
-v
-o
-285602	v
-s
-285606	p
-vc
-s
-adv
-285612	v
-o
-aux
-285617	s
-adv
-v
-o
-v
-adv
-285625	o
-v
-v
-adv
-285631	o
-285633	v
-285635	o
-adv
-v
-285639	p
-vc
-s
-285643	v
-o
-285649	apposition
-285651	o2
-v
-o
-285655	v
-o
+285424	v
 io
-285659	v
 o
-285662	adv
+285429	v
+o
 v
-285665	s
-adv
-285668	adv
+o
+s
 v
-285671	v
-adv
-adv
-285676	o
 io
 v
-aux
-285681	o
-v
-285684	o2
-v
-o
-p
-285689	vc
-285691	s
+adv
 v
 adv
-285695	adv
+285444	io
+285449	v
+o
+v
 v
 o
-285700	s
-285702	s
+285458	v
+adv
+v
+p
+s
+285466	v
+o
+285470	adv
+v
+o
+285474	adv
+285479	apposition
+285482	apposition
+285484	s
+v
+adv
+adv
+s
+v
+285491	v
+adv
+o
+285495	v
+adv
+v
+o
+285500	s
+v
+io
+v
+o
+adv
+285508	apposition
+v
+o
+285512	v
+adv
 v
 s
-adv
 v
-p
-285709	vc
-285711	s
-285713	s
+o
+285520	adv
+v
+285525	adv
+v
+adv
+adv
+285530	v
+adv
+adv
+285537	v
+o
+v
+o
+s
+v
+io
+v
+v
+io
+o
+285549	v
+285551	v
+io
+o
+285557	adv
+285560	v
+o
+s
+v
+285565	adv
+v
+285568	io
+285573	v
+o
+v
+s
+285580	v
+o
+285583	o2
+285587	s
+285589	p
 adv
 v
 o
-p
-285719	adv
+285607	s
+285611	p
+adv
+285614	v
+adv
+285617	v
+o
+285621	v
+o
+o2
+285625	v
+285627	s
+285629	v
+v
+285632	v
+o
+285635	v
+io
+o
+285639	v
+285641	adv
+v
+v
+adv
+285647	aux
+v
+o
+adv
+285652	v
+adv
+adv
+285657	adv
+v
+adv
+285663	o
+285665	v
+adv
+285668	v
+s
+285672	s
 vc
-285722	s
-vc
-p
-285727	adv
-v
-285730	v
-285732	adv
-p
-285735	vc
-adv
-s
-p
-285740	vc
-aux
-285743	v
-o
-285747	p
-vc
-s
-285752	s
-285755	s
-p
-285758	vc
-adv
-adv
-285762	v
-285764	s
-o
-v
-s
-p
-285770	vc
 v
 o
-v
-o
-s
+285678	v
+io
 adv
-vc
-p
-285780	adv
-v
-o
-adv
-v
-o
-285793	aux
-v
-o
-285798	s
-p
-285801	vc
-285804	s
-v
-adv
-285808	v
-285810	v
-o
-adv
-v
-adv
-v
-o
-285818	s
-p
-vc
-adv
-v
-s
-285826	adv
-285828	o
-285832	v
-s
-adv
-285837	v
-adv
-p
-vc
-s
+285685	v
 apposition
+285688	apposition
+285690	s
+adv
+v
+o
+285695	s
+adv
+v
+o
+285702	v
+adv
+v
+adv
+o
+285708	o
+v
+v
+adv
+adv
+v
+285715	aux
+v
+285718	v
+adv
+o
+285722	v
+io
+o
+285728	v
+o
+adv
+285733	s
+285736	v
 s
 v
+adv
+285743	v
+io
 o
-285847	s
+285748	v
+o
 v
 o
+s
+v
+io
+285756	io
+285761	v
+o
+v
+v
+o
+285773	v
+o
+285776	o
+v
+v
+285780	p
+vc
+v
+285784	v
+285786	s
+v
+v
+adv
+285791	v
+s
+v
+adv
+285797	v
+285799	adv
+v
+285804	v
+285806	v
+285809	adv
+v
+v
+adv
+285815	adv
+v
+adv
+v
+adv
+285821	v
+o
+adv
+s
+adv
+v
+o
+285830	v
+adv
+adv
+285834	p
+vc
+v
+adv
+v
+adv
+285842	adv
+v
+o
+285846	adv
 285851	v
 o
-285854	o2
-285858	aux
-285860	adv
-s
-v
-o
-s
-v
+285854	adv
+285862	v
 o
 v
 o
 s
-adv
 v
-285873	v
-o
-s
-adv
-v
-285879	s
-285881	v
-adv
-adv
-v
-285886	adv
-v
-285889	s
-adv
-285892	o
-285895	v
 io
-285898	s
+285870	io
+285875	v
+o
 v
-285902	s
+s
+285882	apposition
+v
+o
+285887	v
+285889	s
+v
+285893	v
+285895	s
+v
+v
+o
+285900	aux
+v
+adv
+285904	v
+o
+s
+v
+v
+285911	o
+v
+285914	v
+o
+285918	adv
+v
+o
+285922	aux
+v
+o
+285929	v
+s
+p
+vc
+285935	v
+285937	v
+v
+v
+o
+285942	v
+285944	v
+adv
+285949	v
+285951	s
+v
+o
+285955	v
+o
+285960	s
+o
+v
+adv
+285968	v
+v
+adv
+285973	v
+v
+adv
+285977	v
+adv
+v
+o
+v
+285983	s
+v
+o
+285987	v
 v
 o
 o2
-285908	s
-v
-285911	s
-vc
-p
-285916	s
+adv
+285997	adv
 adv
 v
-285920	s
 adv
-285924	s
+286002	v
+adv
+o
+286018	apposition
+286020	v
+adv
+286023	adv
+286031	v
+o
 v
-285927	o
-285929	o
+o
+s
+v
+io
+286039	io
+286044	v
+o
 v
 s
+286050	apposition
+286054	apposition
+286059	v
+o
+286062	p
+286064	vc
+286066	v
+p
+vc
+286070	adv
+286073	p
+vc
+286076	p
+286079	v
+o
+v
 adv
+286087	v
+286089	p
+vc
+286092	v
+286094	o
+v
+286097	adv
+v
+286100	s
+vc
+p
+286107	v
+io
+o
+v
+adv
+o
+v
+adv
+286116	v
+286118	o
+286121	v
+286123	adv
+v
 s
-p
-vc
-285938	v
-adv
-285941	adv
-285943	v
-285945	s
-adv
+286130	o
 v
-adv
-v
+o
+286135	v
 s
-adv
-285953	o
-v
-adv
-285961	s
-vc
-s
-vc
-p
-285968	s
-adv
-vc
-p
-285974	s
-285976	adv
-v
-o
-285981	s
 o
 v
-285985	v
-adv
+v
+286141	v
+286144	v
+aux
 v
 adv
-285990	s
-v
-285993	s
-adv
+286150	v
+286153	s
 v
 o
-286000	s
-v
-286003	v
+286158	v
 o
-286006	o
-286008	v
-p
-vc
-286012	adv
 v
-o
-286017	o
-v
-o
-286021	o
 adv
-v
+286164	v
+adv
+286167	s
 adv
 v
 v
-286028	o
-286030	v
-adv
-v
-o
-v
-o
-286038	s
-v
-286041	s
-vc
-p
-adv
-286046	v
-286048	s
-v
-v
-v
+io
 v
 adv
-286055	adv
-v
-286058	v
-o
-286064	o
-v
-286067	o
-286069	v
-p
-286072	vc
-s
-286076	o
-286078	v
-286080	s
-286082	p
 adv
-vc
-286086	s
+286179	s
 v
-adv
-286090	v
-o
-286094	p
-vc
-s
-286098	v
-o
-p
-286103	p
-vc
-v
-o
-286108	adv
-v
-286111	s
-vc
-p
-286117	p
-vc
-v
-adv
-286123	p
-286125	adv
-286127	adv
-286129	adv
-286136	p
-vc
-v
-286140	s
-vc
-p
-286145	p
-vc
-v
-p
-286155	s
-p
-286158	vc
-286162	o
-286165	v
-s
-286169	p
-vc
-286172	p
-vc
-s
-286178	v
-adv
 286182	v
 adv
-286187	v
+286186	adv
+286189	v
 o
-adv
-adv
-v
-o
-o2
 v
 o
-286197	adv
-v
-adv
-286202	o
-v
 s
-adv
-286209	p
-vc
-s
-o
-v
-s
-io
-286217	s
-286219	p
-286222	vc
-v
-o
-v
-o
-adv
-v
-o
-286232	o
-adv
-v
-o
 v
 io
-286239	v
-286241	o
+adv
+v
+286199	aux
+s
+v
+adv
+286205	s
+286208	o
+v
+adv
+286212	v
+adv
+v
+o
+v
+adv
+286219	v
+io
+s
 v
 v
 adv
+adv
+v
+adv
+286229	aux
+s
+v
+adv
+286236	adv
+286238	v
+286241	v
+p
+adv
+adv
+apposition
+286248	s
 286251	p
-vc
-s
-286255	o
-v
 adv
-286260	o
-v
 adv
+286256	p
+286258	s
+286261	adv
+286263	s
 286265	v
-o
-286270	v
-286272	v
-o
-o
-v
-v
-286278	v
-o
-286281	o
 v
 adv
-286286	s
-v
+286270	p
+286273	s
+286275	adv
+286277	v
 s
-286290	v
-o
-286294	v
-286296	v
-io
-o
-v
-o
-286302	v
-s
-286305	adv
+286282	s
+286284	v
 adv
-v
-286309	v
-s
-p
-vc
-286314	v
-s
-286318	v
-286320	s
-v
-adv
-286324	adv
-v
-286328	v
-adv
-286331	v
-o
-286334	s
-adv
-v
-o
-v
-286341	p
-286343	vc
-286345	s
-286347	adv
-286349	v
-v
-286353	s
-286356	v
-286358	v
-io
-o
-286362	v
-o
-286365	vc
-p
-286373	apposition
-s
+286287	s
 vc
 p
-286381	aux
-v
+286294	p
+286296	s
+286300	p
+adv
+286303	p
+286310	s
+286312	v
 o
 adv
-286387	s
-io
-286394	o
-s
-v
+286317	s
+286320	p
 adv
-286404	v
+286323	s
+286325	p
+adv
+286328	s
+286330	v
+o
+286336	s
+286338	p
+adv
+v
+286342	s
+286344	adv
+286347	v
+adv
 o
 adv
-286409	v
+286352	v
+o
+286355	o
 adv
-286412	p
-vc
+v
 adv
-286416	vc
+286360	v
 p
 s
-286426	apposition
-286429	adv
-286433	v
-adv
-286436	v
+286364	apposition
+286366	apposition
+apposition
+v
+286370	v
+286372	v
+286375	v
+s
 o
-adv
-286441	v
-adv
-286444	o
+286380	io
 v
 adv
-286449	adv
+286384	v
+adv
+286389	v
+s
+286393	adv
 v
+adv
+286399	v
+v
+adv
+286406	v
 o
+286409	adv
+286411	v
+p
+vc
 aux
-adv
-286455	o
-v
-io
-286459	o
-v
-adv
-286463	v
+286419	v
 o
-286466	p
-vc
+286428	s
+v
+o
+286432	adv
+286435	v
+286438	v
+adv
+286442	v
+adv
+286445	o
+286447	v
+adv
+286450	v
+adv
+286453	v
 s
 v
 adv
-286473	p
-s
-vc
-286477	v
-adv
+286458	s
+p
 adv
 v
-286482	s
-286484	v
+o
+286464	v
+o
+286468	s
+v
+286479	o
+v
+o
+286483	v
+o
+286486	v
 adv
-286487	adv
+286489	s
+v
+adv
+v
+o
+286495	v
+o
+286498	s
+286501	v
+io
+adv
+v
+aux
 v
 s
-v
+286510	apposition
+286514	apposition
+286516	v
+o
+286524	v
 adv
-s
+286537	s
+v
+286540	v
+v
+o
+286546	s
 vc
 p
-286498	v
-o
-286502	v
-o
-v
-286506	o
-v
-s
-v
-286511	adv
-v
+286553	v
 adv
-286517	o
+286558	v
+286560	v
 adv
-v
-v
-adv
-286523	s
-o
-286529	v
-286533	s
-v
-adv
-286537	o
-286539	adv
-v
-adv
-v
-o
-adv
-286546	v
-io
-adv
-v
-v
-286552	io
-v
-v
-adv
-286559	o
-v
-io
-v
-adv
-v
+286564	v
 adv
 286569	v
 o
+s
+286578	v
+adv
+286581	v
+adv
+o
+286587	v
+s
 vc
 p
-286574	adv
-286576	v
-286578	s
-286580	v
+286594	v
+o
+v
+p
+vc
+adv
 v
 o
-s
-286589	s
-io
-286593	o
-s
-v
-adv
-aux
-adv
-v
-s
-v
-286604	v
-s
+286603	v
+o
 286608	v
-286610	adv
-286612	v
-s
-286615	v
+286610	v
+io
 adv
-286619	s
-adv
-v
-o
-adv
-adv
-v
-v
-s
-286629	adv
-286631	v
-aux
-o
-v
-o
-v
-adv
-286640	o
-adv
-286643	s
-v
-adv
-286647	adv
-adv
-adv
-v
-v
-adv
-adv
-adv
-286657	v
-o
-v
-adv
-286662	s
-286664	v
-v
-o
-286668	p
-vc
-adv
-v
+286615	o
+286621	v
 o
 io
-286675	s
-v
+286625	o2
+286628	v
 adv
+286632	v
+286634	v
+o
+286637	adv
+286645	vc
+s
+286648	p
+286652	v
 adv
-v
-o
-adv
-286683	v
-v
-o
-286688	o
-v
-adv
-v
-o
-286695	adv
-v
-adv
-286699	s
-v
-o
-286703	v
-v
-286706	adv
-286708	v
-aux
-v
-o
-286713	o
-v
 p
-286717	vc
-v
-adv
-v
-o
-adv
-v
-adv
-286730	s
-286732	v
-286734	v
-286736	s
-286738	p
 vc
-o
+s
+286658	v
 v
+o
+286668	s
+286670	s
+p
+286683	vc
+286688	v
 v
 io
-286745	adv
 v
 adv
-286750	io
-v
-v
-286754	adv
-o
-v
-286758	adv
-286760	v
-s
-io
-v
-o
-s
-v
-o
-adv
-s
-apposition
-286775	io
-286777	adv
-286779	v
-286781	adv
-v
-s
-io
-286787	v
+286696	s
+286704	adv
+286709	s
+286711	v
 aux
+286714	s
+v
+286717	v
+286719	v
+286721	v
+s
 o
+286728	v
+s
+286733	v
+adv
+286737	v
+286739	v
+286743	v
+s
+286746	v
+adv
 v
-v
+o
+286752	v
 io
+s
+286757	v
+v
+286761	v
+286764	v
+o
+286768	v
+s
+286771	v
+v
+286774	v
+s
+286778	v
 adv
-286797	o
-v
-v
+286781	v
 io
 v
-v
+o
 adv
-286805	adv
+286789	o
 v
+286792	v
 io
-v
-286810	s
-286813	adv
-v
-adv
-286818	adv
+s
+286797	v
 o
-286823	v
-adv
-286826	o
-286832	apposition
+286801	v
+s
+286804	v
 v
-o
-v
-286837	o
-v
-v
-adv
-o
-286843	s
-o
-adv
-286847	v
-adv
+286807	v
+286810	v
+s
+286813	v
 adv
 v
-v
 o
-286854	adv
-v
-o
-286859	v
-o
-286862	adv
-286865	adv
 adv
-v
-286869	s
-286875	adv
+286821	v
+286823	s
+adv
+286828	v
 o
-286878	adv
+286831	s
+p
+286834	s
+286836	p
+286838	o
+286842	adv
 v
+286846	v
+o
+286850	v
+s
+286854	v
+v
+286857	v
+286860	v
+s
+286864	v
+adv
+p
+adv
+s
+286870	s
+v
+adv
+286874	v
+io
+s
+adv
 286881	v
 adv
-286884	v
+286895	v
 o
-o
-286888	v
+286898	v
 adv
-286891	s
-286893	v
-v
-o
-286897	v
-o
-286900	v
-o
+286901	o
 286903	v
-286906	s
-286909	apposition
-286911	adv
+adv
+286912	o
 v
+286915	v
+adv
 v
 adv
-286917	v
-o
+aux
+286923	adv
 v
-286921	v
-v
+286926	v
 o
-s
-s
-286927	o
 286929	adv
 v
-v
-o
-286934	adv
-286936	s
+adv
+286934	v
+io
+s
 286938	v
-adv
-v
-286942	s
 io
-286946	adv
-286949	v
-286951	adv
-286955	v
-286957	adv
-286960	v
+286941	v
+adv
+adv
+286945	v
 s
+286954	v
+v
+286957	s
+286959	v
+286961	v
+o
+286967	s
+v
+286970	s
 vc
 p
-286968	adv
-v
 adv
-o
-v
-p
-286976	adv
-v
-286982	adv
-v
-v
-286988	v
-o
-286993	io
-s
-286997	adv
-v
-v
-287001	io
-s
-287005	v
-aux
-v
-s
+286977	s
+286979	v
 adv
-287012	adv
+286983	s
+286986	v
+adv
+286990	s
 v
+o
+286994	adv
+286996	v
+286998	s
+v
+287001	s
+v
+287004	s
+287007	adv
+287010	v
+287012	s
+287028	v
 o
 adv
-287017	v
-o
-287020	adv
-287027	adv
-v
-287034	o
-v
-adv
-s
-s
-vc
-p
-287042	adv
-287045	v
-287047	s
-287049	v
-o
-v
-o
-adv
-s
-287056	aux
-v
-o
-287060	v
-adv
-287067	apposition
-287069	v
+287039	v
 io
-p
-287074	vc
+287044	v
+adv
+287047	v
+o
+adv
+287052	v
+adv
+287062	v
+s
+287070	s
+v
+v
+adv
+v
+s
+v
+adv
+287082	v
+o
+287088	adv
+v
 s
 adv
-287080	v
-287082	s
-vc
-p
-v
-o
-adv
-v
+287101	v
 s
-287091	aux
-v
-o
-adv
-287097	adv
-287099	v
-o
-adv
-287103	v
-v
-o
-287110	apposition
-adv
-287114	o
-287116	v
-v
 v
 adv
-v
+287106	v
 o
-287123	v
+287109	v
+287111	v
 adv
-v
-o
-287129	adv
-287131	v
 io
-287135	v
-o
+287115	io
+v
 v
 o
-o2
+287122	v
+adv
+v
+o
+287132	v
+o
+287137	adv
 287141	v
-adv
-287145	o2
-adv
+o
+287145	v
 apposition
-287149	apposition
+287149	v
 adv
-287153	apposition
-287155	s
-287157	adv
-287166	aux
+287154	adv
+287156	s
+v
+adv
+287160	s
+adv
+287163	s
+adv
+287166	s
+adv
+287169	s
+adv
+287172	s
+adv
+287175	s
+adv
+287178	s
+adv
+287181	s
+adv
+287184	s
+adv
+287187	s
+adv
+287190	s
+v
+adv
+v
+287195	aux
+s
+287198	o
+v
+s
+v
+287207	v
+adv
+287214	v
+o
+287217	s
 p
-287170	o
-v
-io
-s
-v
-io
-287177	s
-v
-v
-adv
-287182	v
-v
-adv
-287187	io
-287191	s
-v
-o
-287202	o
-v
-p
-s
-v
-287208	v
-o
-287213	v
+287222	v
 adv
 v
 s
-287218	p
-s
 io
-287223	apposition
-287226	s
-io
-287229	adv
-287232	v
-287234	v
-287236	v
-287242	s
-p
-287251	apposition
-287254	apposition
-287266	v
-o
-287269	v
-o
+287230	v
 adv
-287274	adv
-287278	v
+287236	s
+287238	v
+adv
+287249	v
+adv
+287252	adv
+287256	v
 o
-o2
-287286	io
-s
-287291	adv
-287295	aux
+v
 aux
-v
-adv
-287302	v
+s
+287274	io
+287276	adv
+287280	aux
+287282	v
+s
+287286	v
+io
 o
 s
-287307	s
-o
 v
-287311	v
-adv
-s
-287317	aux
+o
+287294	p
+vc
+287297	adv
+v
+287300	v
+io
 aux
-287321	s
+s
+v
+287306	v
+io
+o
+s
+vc
+v
+adv
+287318	v
+o
+287322	v
+o
+adv
+287330	adv
 vc
 p
-287327	v
-s
-apposition
-p
-287332	v
-287334	v
-287336	v
-apposition
-s
-287340	apposition
-287351	v
-adv
-287355	vc
-p
-adv
-287365	v
-adv
-adv
-287371	v
-adv
+287337	v
 o
 adv
+287341	adv
+287345	v
+adv
+287348	v
+adv
+adv
+v
+adv
+287354	v
+adv
+287357	adv
+v
+adv
+s
+287367	s
+287369	apposition
+287373	v
+o
 287376	v
 o
-v
-v
 adv
 287382	v
-io
-287400	v
-v
+s
 o
-287404	s
-v
 adv
-287408	v
-v
+287390	v
 o
-287413	adv
-287416	o
+287394	v
+s
+adv
+287398	adv
+287400	v
+o
+287403	s
+adv
+287406	v
+287408	v
+io
+s
+287412	s
+v
+287416	v
+adv
 287419	v
 o
 287422	v
-adv
-287425	o
-287427	s
-287433	p
-287435	s
-p
-287438	s
-287440	s
-287442	p
-287446	s
-287448	p
-adv
-287451	adv
-v
-287455	s
-287458	s
-287461	v
-adv
-287466	o
-287468	adv
-287471	s
-287473	v
-287475	o2
+io
 s
-287479	s
-v
+287426	v
 adv
-287486	v
+287431	adv
+287436	apposition
+287440	v
+s
+287444	adv
+287447	adv
+287450	adv
+287453	v
+s
 o
-v
-adv
-287492	adv
-287495	v
+287457	v
 o
-287498	adv
-v
 adv
+287464	v
+adv
+287468	v
+s
+287474	s
+287477	v
+o
+287480	v
+o
+287483	v
+287485	s
 v
+287488	v
+s
+287491	v
+adv
+287494	v
+adv
+287498	s
+287501	v
 287503	s
-vc
-p
+287506	v
+287508	s
 287510	v
-287513	vc
-p
-287516	aux
+287512	s
+287514	v
+287516	s
+287520	adv
+v
 v
 adv
-287523	v
+287526	vc
+s
+287530	p
+287532	v
+s
+287538	apposition
+287541	v
 o
-287530	v
-287532	o
-o
-v
-287536	s
-v
-287539	s
-v
-v
+287544	s
+287547	v
+287549	s
+287551	v
+287553	v
 adv
-aux
-287549	o
+287556	s
 v
-adv
 287559	s
-287561	p
-287564	vc
-287566	s
-287569	p
-vc
-io
-287576	v
-o
-v
-s
-v
-o
-287583	adv
-287586	v
+287561	v
 adv
-287593	v
-o
-287604	adv
-v
-v
-o
-287610	v
-v
-o
-o2
-287616	adv
-vc
-287619	v
-s
+287573	s
+287576	vc
 p
-287623	o
+287579	vc
+s
+287583	p
+287585	s
+287587	v
+adv
+287591	v
+287593	s
+287595	v
+287597	v
+s
+287611	v
+s
+287616	s
+adv
 v
+adv
+287622	s
+adv
+287625	v
 287627	v
-adv
-287632	adv
-v
-287635	v
-adv
-287638	o
-287642	v
-v
-287645	adv
-v
-287648	v
-287650	o
-287652	v
-287655	adv
-v
-adv
-287659	v
-o
-287662	adv
-287666	adv
-v
-287669	o
-v
-v
-o
-287676	o
 s
 v
+adv
 v
-o
-v
-o
+adv
 s
 v
+adv
+287637	adv
+287646	v
+v
+287649	s
+287651	v
+287653	v
+s
+adv
+287657	v
+adv
+287661	v
 io
-v
-v
-io
-v
-adv
-287695	s
-vc
-p
-287702	io
-287707	v
-o
-v
 s
-287715	s
-vc
-p
-287719	v
-287721	v
+287670	v
 o
-287728	p
-vc
-287732	o
+287675	v
+s
+adv
+287680	s
+287683	v
+s
+287688	adv
+287693	adv
+287695	v
+s
+adv
+287700	v
+io
+s
+287704	v
+o
+s
+287710	v
+io
+287713	adv
+v
+o
+287724	adv
+o
+s
+adv
+v
+o
+287732	adv
 287735	v
-p
-vc
-s
-287741	v
-287743	p
-287745	adv
-v
+io
+287739	v
 o
-v
-v
-aux
-v
-v
-s
-o
+287743	v
 adv
-287757	v
+287746	s
+287748	p
+287752	v
+o
+287756	adv
 287759	v
+s
 o
-287762	vc
-p
-adv
-287766	v
-io
+287763	adv
+v
 o
+287768	v
+v
 287771	v
-o
-v
-o
 s
-v
-io
-v
+adv
+287775	s
+287778	p
 adv
 v
 adv
-287786	io
-287791	v
-o
-v
-v
-o
-287800	v
-o
+287783	p
+287786	s
+287788	p
 adv
-v
-p
-s
+287791	s
+287793	p
+287797	v
+o
+287803	s
+287805	p
+287807	vc
 287809	v
 o
-287813	adv
-v
+287815	s
+287819	p
+287825	v
+adv
+287828	v
 o
-287817	adv
-287823	apposition
-287826	apposition
-287828	s
-v
+p
 adv
-adv
-s
-v
-287836	v
-adv
-o
-287840	v
-adv
-v
-o
-287846	s
-v
-io
-v
+287834	p
+287837	s
+287839	v
 o
 adv
-287854	apposition
-v
-o
-287858	v
-adv
-v
-s
-v
-o
-287866	adv
-v
-287871	adv
 v
 adv
-adv
-287876	v
-adv
-adv
-287883	v
 o
-v
-o
-s
-v
-io
-v
-v
-io
-o
-287895	v
-287897	v
-io
-o
-287904	adv
-287907	v
-o
-s
-v
-287912	adv
-v
-287915	io
-287920	v
-o
-v
-s
-287927	v
-o
-287930	o2
-287934	s
-287936	p
-adv
-v
-o
-287954	s
-287958	p
-adv
-287961	v
-adv
-287964	v
-o
-287968	v
-o
-o2
-287972	v
-287974	s
-287976	v
-v
-287979	v
-o
-287982	v
-io
-o
-287986	v
-287988	adv
-v
-v
-adv
-287994	aux
-v
-o
-adv
-287999	v
-adv
-adv
-288004	adv
-v
-adv
-288010	o
-288012	v
-adv
-288015	v
-s
-288019	s
-vc
-v
-o
-288025	v
-io
-adv
-288030	io
-288034	v
 apposition
-288037	apposition
-288039	s
+287848	s
 adv
+p
+287852	adv
+287854	o
 v
-o
-288044	s
-adv
-v
-o
-288051	v
-adv
-v
-adv
-o
-288057	o
-v
-v
-adv
-adv
-v
-288064	aux
-v
-288067	v
-adv
-o
-288071	v
-io
-o
-288077	v
-o
-adv
-288082	s
-288085	v
+o2
 s
+287860	v
+aux
 v
 adv
-288092	v
-io
-o
-288097	v
-o
-v
-o
 s
-v
+adv
+287867	s
+287869	v
+287871	v
+o
+adv
+287881	apposition
+287884	v
 io
-288105	io
-288110	v
+287888	v
 o
 v
+o
+287894	v
+adv
+287901	v
+s
+287905	v
+adv
+287912	v
+o
+287917	s
+287922	p
 v
 o
+287927	adv
+v
+o
+adv
+287933	v
+adv
+v
+o
+287940	s
+287943	p
+287947	adv
+287950	v
+s
+287954	adv
+287959	v
+s
+287971	v
+adv
+287975	s
+287979	p
+287983	vc
+287988	s
+287991	p
+adv
+v
+o
+287996	adv
+v
+287999	s
+288002	s
+adv
+v
+adv
+288008	adv
+v
+adv
+288016	adv
+v
+o
+288033	s
+v
+288036	v
+288040	adv
+v
+adv
+288059	v
+s
+288062	v
+adv
+288065	v
+o
+288070	s
+p
+288075	s
+288077	p
+288081	s
+288083	p
+288087	v
+adv
+288091	o
+v
+288095	v
+o
+288100	adv
+288102	o
+288104	adv
+288107	v
+adv
+288110	s
+v
+288114	v
+v
+s
+288118	o
 288122	v
-o
-288125	o
+s
+288125	v
 v
-v
-288129	p
-vc
+288128	v
+s
+adv
 288132	v
-288134	v
 o
-288137	s
 v
+o
 v
-adv
-288142	v
+s
+288140	adv
+o
+v
+288144	s
 s
 v
-adv
-288148	v
-288150	adv
-v
-288155	v
-288157	v
-288161	adv
-v
 v
 adv
-288167	adv
-v
-adv
-v
-adv
-288173	v
+288154	v
 o
+288159	adv
+288162	v
 adv
-s
+v
 adv
+288169	s
 v
 o
-288182	v
-adv
-adv
-288186	p
-vc
-v
+288190	s
 adv
 v
-adv
 288194	adv
-v
-o
-288198	adv
-288203	v
-o
-288206	adv
-288214	v
-o
-v
-o
-s
-v
-io
-288222	io
-288227	v
-o
-v
-s
-288234	apposition
-v
-o
-288239	v
-288241	s
-v
-288245	v
-288247	s
-v
-v
-o
-288252	aux
+288201	v
 v
 adv
-o
-288257	v
-o
+v
 s
-v
-v
-288264	o
-v
-288267	v
+288209	v
 o
-288271	adv
+288213	apposition
+288215	s
+o
+v
+adv
+288220	adv
+v
+adv
+288224	v
+v
 v
 o
-288275	aux
+288229	v
+adv
+288235	v
+adv
+288243	v
+adv
+288246	v
+io
 v
+io
 o
+288252	v
+io
+o
+288256	v
+288258	v
+o
+288262	v
+o
+288266	adv
+288269	vc
+p
+288272	s
+288275	v
+o
+adv
 288282	v
+o
+288285	vc
+adv
+288289	adv
+288291	p
+288294	v
+o
+v
 s
-p
-vc
-288288	v
-288290	v
-v
-v
-o
-288295	v
-288297	v
-adv
-288302	v
-288304	s
-v
-o
-288309	v
-o
-288314	s
-o
-v
-adv
-288322	v
-v
-adv
-288327	v
-v
-adv
-288331	v
-adv
-v
-o
-v
-288337	s
-v
-o
-288341	v
-v
-o
-o2
-adv
-288351	adv
-adv
-v
-adv
-288356	v
-adv
-o
-288372	apposition
-288374	v
-adv
-288377	adv
-288385	v
-o
-v
-o
-s
-v
+288300	v
 io
-288393	io
-288398	v
-o
 v
 s
-288404	apposition
-288408	apposition
-288413	v
+adv
+v
+adv
+288312	v
+io
+p
+adv
+v
 o
-288416	p
-288418	vc
+v
+288320	v
+o
+288328	v
+adv
+288331	o
+288333	apposition
+288336	v
+adv
+288339	adv
+o
+v
+288344	v
+io
+288347	o
+288350	v
+adv
+288354	v
+io
+288359	v
+adv
+288362	v
+o
+s
+vc
+p
+288373	adv
+288377	v
+288380	s
+o
+v
+v
+s
+v
+adv
+288390	v
+o
+288395	s
+v
+o
+v
+adv
+v
+s
+v
+s
+v
+o
+v
+o
+288409	adv
+s
+v
+adv
+288417	o
+v
+adv
 288421	v
+o
+adv
+288425	v
+o
+adv
+288430	v
+288433	v
+o
+288436	s
+288438	v
+adv
+288441	v
+adv
+o
+288446	v
+o
+288449	v
+o
+288452	s
+288454	p
+288460	s
+vc
+adv
 p
-vc
-288425	adv
-288428	p
-vc
-288431	p
-288434	v
-o
-v
-adv
-288443	v
-288445	p
-vc
-288448	v
-288450	o
-v
-288453	adv
-v
-288456	s
-vc
-p
-288463	v
-io
-o
-v
-adv
-o
-v
-adv
-288472	v
-288474	o
-288477	v
-288479	adv
-v
+288465	adv
 s
-288486	o
+288469	v
+288471	v
+s
+288478	o
+288480	adv
+288483	s
+288485	adv
 v
-o
+v
+adv
 288491	v
-s
-o
-v
-v
+adv
+288494	v
+adv
 288497	v
-288500	v
-aux
+288499	o
 v
-adv
+io
+288503	s
 288506	v
-288510	s
+v
+adv
+288512	adv
+288516	s
+adv
+288519	v
+adv
+288522	v
+adv
+288527	s
+v
+adv
 v
 o
-288515	v
-o
-v
+288533	v
+s
 adv
-288521	v
-adv
-288524	s
-adv
-v
-v
+288537	v
 io
 v
 adv
+288542	v
 adv
-288536	s
-v
-288539	v
-adv
-288543	adv
-288546	v
-o
-v
+288545	adv
+288548	v
 o
 s
-v
-io
-adv
-v
-288556	aux
+288553	adv
+288556	v
 s
-v
+288560	s
+288563	v
+288566	v
 adv
-288562	s
-288566	o
-v
-adv
-288570	v
-adv
-v
-o
-v
-adv
-288577	v
-io
-s
-v
-v
-adv
-adv
-v
-adv
-288587	aux
-s
-v
-adv
-288594	adv
-288596	v
-288599	v
-p
-adv
-adv
-apposition
-288606	s
-288609	p
-adv
-adv
-288614	p
-288616	s
-288619	adv
-288621	s
-288623	v
-v
-adv
-288628	p
-288631	s
-288633	adv
-288635	v
-s
-288640	s
-288642	v
-adv
-288645	s
-vc
-p
-288652	p
-288654	s
-288658	p
-adv
-288661	p
-288668	s
-288670	v
-o
-adv
-288675	s
-288678	p
-adv
-288681	s
-288683	p
-adv
-288686	s
-288688	v
-o
-288694	s
-288696	p
-adv
-v
-288700	s
-288702	adv
-288705	v
-adv
-o
-adv
-288710	v
-o
-288713	o
-adv
-v
-adv
-288718	v
-p
-s
-288722	apposition
-288724	apposition
-apposition
-v
-288728	v
-288730	v
-288734	v
-s
-o
-288739	io
-v
-adv
-288743	v
-adv
-288748	v
-s
-288752	adv
-v
-adv
-288758	v
-v
-adv
-288765	v
-o
-288768	adv
-288770	v
+288569	s
+288571	apposition
+288574	s
 p
 vc
+288578	v
+o
+io
+288583	s
+288586	v
 aux
-288778	v
+s
+288591	v
+adv
+288594	s
+288596	v
+288598	v
+s
+adv
+288602	v
 o
-288787	s
+vc
+s
+288608	p
+288615	v
+adv
+288621	s
+288625	adv
+288627	v
+adv
+288631	v
+adv
+288636	v
+o
+v
 v
 o
-288791	adv
-288794	v
+aux
+288643	apposition
+288645	apposition
+apposition
+v
+288649	v
+288652	v
+o
+288658	v
+288660	s
+v
+288664	v
+s
+288668	s
+288671	v
+288673	v
+o
+io
+288678	apposition
+288683	v
+o
+288686	adv
+288691	v
+v
+o
+288695	v
+s
+288700	apposition
+288704	v
+s
+288709	adv
+288713	v
+s
+288721	s
+v
+adv
+288725	o
+288728	s
+v
+o
+288732	s
+p
+288737	p
+288740	s
+288743	adv
+v
+288746	v
+adv
+v
+288750	v
+v
+288753	v
+s
+adv
+288759	aux
+s
+288762	v
+o
+288768	p
+288771	s
+288774	s
+288776	v
+o
+288783	v
+o
+adv
+288788	s
+v
+adv
+288793	v
+v
 288797	v
-adv
-288801	v
-adv
-288804	o
-288806	v
-adv
-288809	v
-adv
+o
+288800	v
+288802	v
+288804	s
+v
+v
+o
+288809	adv
 288812	v
 s
+288815	adv
+288823	s
 v
 adv
-288817	s
+288827	adv
+v
+adv
+o
+v
+adv
+288835	adv
+v
+o
+adv
+288841	v
+s
+adv
+288845	s
+288850	v
+adv
+288854	s
+288856	v
+288861	adv
+v
+adv
+s
+v
+adv
+adv
+288870	v
+s
+288877	apposition
+288880	vc
 p
-adv
-v
+288884	v
 o
-288823	v
-o
-288827	s
-v
-288838	o
-v
-o
-288842	v
-o
-288845	v
-adv
-288848	s
+288887	o
 v
 adv
+288892	s
+288894	adv
+v
+288897	v
+s
+adv
+288901	v
+adv
+v
+s
+288919	v
+s
+288925	v
+o
+adv
+288930	adv
+288933	s
 v
 o
-288854	v
+adv
+288948	adv
+v
 o
-288857	s
-288860	v
-io
+288952	adv
 adv
 v
 aux
+288957	adv
 v
 s
-288869	apposition
-288873	apposition
-288875	v
-o
-288883	v
 adv
-288896	s
-v
-288899	v
+288965	v
+s
+adv
 v
 o
-288906	s
-vc
-p
-288913	v
+v
+288972	o
+v
+288976	v
+s
+288979	v
 adv
-288918	v
-288920	v
-adv
-288924	v
-adv
-288930	v
+288982	v
 o
 s
-288939	v
-adv
-288942	v
-adv
-o
-288948	v
-o
-s
-vc
-p
-288956	v
-o
 v
 o
-p
-vc
-adv
-v
-o
-288966	v
-o
-288971	v
-288973	v
+288988	v
 io
-adv
-288978	o
-288984	v
-o
-io
-288988	o2
-288991	v
-adv
-288995	v
-288998	v
-o
-289001	adv
-289009	vc
 s
-289012	p
-289016	v
+288997	v
 adv
-p
-vc
-s
-289022	v
+289000	adv
+289003	adv
 v
+adv
+adv
+289010	adv
+289014	v
+s
+adv
+289019	adv
+289021	o
+289023	o
+289025	o
+o2
+v
+289029	v
+s
 o
-289032	s
-289035	s
-p
-289048	vc
+289034	v
+s
+o
+289039	v
+o
+o
+v
+s
+adv
+289048	v
+s
+adv
 289053	v
 v
-io
-v
-adv
-289061	s
-289069	adv
-289074	s
-289076	v
-aux
-289079	s
-v
-289082	v
-289085	v
-289087	v
-s
 o
-289094	v
-s
-289099	v
 adv
-289103	v
-289105	v
-289109	v
-s
-289112	v
+289062	v
+o
+289067	v
+o
+289071	v
 adv
+289077	v
+adv
+289080	s
+v
 v
 o
+289089	p
+289092	s
+289094	p
+289097	s
+289099	s
+o
+v
+vc
+p
+adv
+289107	s
+289109	p
+289112	s
+289114	p
 289118	v
 io
 s
-289123	v
-v
-289127	v
-289131	v
 o
+289130	o
 289135	v
-s
-289138	v
-v
-289141	v
-s
+adv
+289138	s
+289142	v
 289145	v
-adv
-289148	v
+s
+289148	adv
+289151	v
+o
+289154	v
+o
 io
+289158	v
+o
 v
 o
+s
+p
 adv
-289156	o
+289166	s
 v
-289159	v
+v
+adv
+289171	v
 io
 s
-289165	v
-o
-289169	v
-s
-289172	v
 v
-289175	v
+o
 289178	v
+io
 s
-289181	v
+v
 adv
+289185	v
+o
+289188	adv
+289192	v
+o
+289200	adv
+289202	v
+289204	v
+io
 v
 o
 adv
-289189	v
-289191	s
-adv
-289196	v
+289211	v
 o
-289199	s
-p
-289202	s
-289204	p
-289206	o
-289210	adv
-v
-289215	v
-o
-289219	v
+289214	v
+io
 s
+adv
 289223	v
-v
-289226	v
-289229	v
+o
 s
-289233	v
+v
 adv
+289229	s
+adv
+v
+289234	adv
+289241	v
+adv
+289245	s
+v
+o
+v
+289250	s
+adv
+adv
+v
+289255	s
+adv
+v
+v
+s
+adv
+v
 p
-adv
+vc
 s
-289239	s
+289271	v
+s
 v
 adv
-289243	v
-io
-s
-adv
-289250	v
-adv
-289265	v
+289278	v
 o
-289268	v
+o2
+289282	v
+289284	s
+289286	o
+289291	v
 adv
-289271	o
-289273	v
-adv
-289283	o
-v
-289286	v
-adv
-v
-adv
-aux
-289294	adv
-v
-289297	v
+289294	v
 o
-289300	adv
+289298	adv
 v
-adv
-289305	v
-io
+289301	v
+289305	adv
+v
 s
-289309	v
-io
 289312	v
-adv
-adv
-289316	v
+o
+289315	adv
 s
-289325	v
-o
 v
-289329	s
-289332	v
-289334	v
-o
-289340	s
-v
-289343	s
-vc
-p
 adv
-289350	s
-289352	v
+289320	v
 adv
-289356	s
-289359	v
+289323	adv
+289326	v
+v
 adv
-289363	s
+289330	adv
+289332	s
 v
-o
-289367	adv
-289369	v
-289371	s
-v
-289374	s
-v
-289377	s
-289380	adv
-289383	v
-289385	s
-289401	v
-o
-adv
-289412	v
 io
-289417	o
 v
 adv
-289421	v
+289338	v
+v
+adv
+289342	v
 o
-adv
-289426	v
-adv
-289436	v
-s
-289444	s
-v
-v
-adv
-v
-s
-v
-adv
-289456	v
-o
-289462	adv
-v
-s
-adv
-289475	v
-s
-v
-adv
-289480	v
-o
-289483	v
-289485	v
-adv
 io
-289490	io
-v
+s
 v
 o
-289497	v
+289351	v
+289353	v
+io
+v
 o
+io
+289362	adv
+v
+s
+289368	v
+289370	s
 adv
 v
 o
-289508	v
+289376	v
+289378	v
 o
-289513	adv
-289517	v
-o
-289521	v
 apposition
-289525	v
-adv
-289531	adv
-289533	s
-v
-adv
-289537	s
-adv
-289540	s
-adv
-289543	s
-adv
-289546	s
-adv
-289549	s
-adv
-289552	s
-adv
-289555	s
-adv
-289558	s
-adv
-289561	s
-adv
-289564	s
-adv
-289567	s
-v
-adv
-v
-289572	aux
-s
-289576	o
-v
-s
-v
-289585	v
-adv
-289592	v
-o
-289595	s
-p
-289600	v
-adv
-v
-s
+289396	v
 io
-289608	v
+o
 adv
-289614	s
-289616	v
-adv
-289627	v
-adv
-289630	adv
-289634	v
+289411	adv
+s
+v
 o
 v
-aux
+289417	v
+289419	adv
+v
+o
+289423	apposition
+289432	p
 s
-289652	io
-289654	adv
-289658	aux
+vc
+v
+o
+v
+o
+289441	p
+289443	vc
+289445	s
+289447	p
+289449	v
+289451	aux
+s
+v
+adv
+289458	p
+s
+289462	v
+s
+289471	v
+adv
+289476	v
+o
+adv
+289480	o
+289482	o
+289486	o
+289489	s
+o
+v
+p
+289494	s
+v
+adv
+289500	v
+o
+adv
+289513	s
+v
+v
+o
+289518	adv
+s
+289523	v
+adv
+289526	s
+vc
+s
+adv
+adv
+v
+p
+289534	vc
+s
+v
+o
+adv
+v
+s
+v
+adv
+289544	adv
+289550	adv
+289553	adv
+v
+s
+p
+vc
+289559	v
+s
+v
+adv
+v
+o
+v
+adv
+289568	v
+adv
+289577	v
+adv
+289580	o
+v
+o
+289584	v
+io
+o
+289588	v
+s
+289594	v
+v
+o
+289604	s
+289606	v
+v
+v
+v
+289612	s
+adv
+289620	v
+o
+289624	s
+289626	v
+o
+v
+adv
+289633	s
+v
+o
+289641	v
+o
+adv
+289651	s
+v
+adv
 289660	v
-s
-289664	v
-io
-o
-s
-v
-o
-289672	p
-vc
-289675	adv
-v
-289678	v
-io
-aux
-s
-v
-289684	v
-io
-o
-s
-vc
-v
 adv
-289696	v
-o
-289700	v
+adv
+289668	v
+adv
+289672	adv
+289679	s
+289683	adv
+289685	v
+289687	adv
+v
 o
 adv
-289708	adv
-vc
-p
-289715	v
+289692	s
+v
 o
-adv
-289719	adv
-289723	v
+289701	s
+v
+o
+289707	p
+s
+289712	vc
+v
+o
+289722	v
+s
 adv
 289726	v
-adv
-adv
+v
+p
+s
+289731	adv
 v
 adv
-289732	v
+aux
+v
+s
+289738	v
 adv
-289735	adv
+289742	s
+289745	v
+adv
+289748	v
+289750	aux
+s
+289753	adv
+289755	v
+s
+289758	apposition
 v
 adv
-s
-289745	s
-289747	apposition
-289751	v
-o
-289754	v
-o
+289763	o
+289765	adv
+289768	o
+289770	s
+v
 adv
-289760	v
-s
-o
+289774	v
 adv
-289769	v
-o
-289773	v
-s
+289777	v
 adv
-289777	adv
-289779	v
+289780	v
 o
-289783	s
-adv
+289784	v
 289786	v
-289788	v
-io
 s
-289792	s
 v
-289796	v
-adv
-289799	v
-o
-289803	v
-io
+289790	v
 s
-289807	v
+289795	v
+v
 adv
-289812	adv
-289817	apposition
+289799	o
+289801	adv
+289804	v
+s
+289807	s
+v
+adv
+289812	apposition
+289815	v
+s
+o
+289819	s
 289821	v
-s
-289825	adv
-289828	adv
-289831	adv
-289834	v
-s
-o
-289838	v
+adv
+289824	v
 o
 adv
-289845	v
+289829	v
 adv
+v
+o
+289835	v
+v
+o
+289842	v
+o
 289849	v
 s
-289855	s
-289858	v
+289853	v
+s
 o
+289857	adv
 289861	v
 o
-289864	v
-289866	s
-v
-289869	v
+289866	v
+adv
+289876	v
 s
-289872	v
 adv
-289875	v
-adv
-289879	s
-289882	v
-289884	s
-289887	v
-289889	s
-289891	v
-289893	s
-289895	v
-289897	s
-289901	adv
-v
-v
-adv
-289907	vc
+289881	v
 s
-289911	p
+adv
+289885	adv
+289889	adv
+289893	v
+o
+289901	s
+v
+o
+289907	adv
+v
+s
 289913	v
 s
-289919	apposition
-289922	v
-o
-289925	s
-289928	v
-289930	s
-289932	v
+289917	v
+adv
+289920	v
+adv
 289934	v
 adv
-289937	s
-adv
-v
-289941	s
+289939	v
+o
 289943	v
-adv
-289955	s
-289958	vc
+o
+289948	apposition
+289955	v
 p
-289961	vc
-s
-289965	p
-289968	s
-289970	v
-adv
-289974	v
-289976	s
-289978	v
-289980	v
-s
-289994	v
-s
-289999	s
+289958	s
+289960	aux
+apposition
+289963	apposition
+p
+289966	s
+289968	aux
+289971	s
 adv
 v
+aux
+289976	v
+o
+289980	adv
+p
+289983	s
+289985	v
+289987	v
 adv
-290005	s
-adv
+289990	s
+289992	v
+289994	adv
+v
+289998	v
+s
 290008	v
-290010	v
 s
-v
-adv
-v
-adv
-s
-v
-adv
-290020	adv
-290029	v
-v
-290032	s
-290034	v
-290036	v
-s
-adv
-290040	v
-adv
-290044	v
-io
-s
-290053	v
+290012	v
 o
-290058	v
+290015	adv
+290017	adv
+v
+o
+290022	v
+adv
+290025	o
+290027	s
+290031	v
+io
+290034	o
+290037	v
+o
+290042	v
+adv
+290048	v
 s
 adv
-290063	s
-290066	v
+adv
+290061	s
+v
+v
+adv
+290067	v
 s
-290071	adv
-290076	adv
+290074	v
+s
+adv
 290078	v
-s
-adv
-290083	v
 io
-s
-290087	v
+290081	o
+v
+290084	v
 o
+290091	adv
+290094	v
 s
-290093	v
-io
-290097	adv
+290097	v
+o
+290100	adv
+290103	v
+s
+290106	adv
+290109	apposition
 v
 o
-290108	adv
+290115	v
 o
-290111	s
-adv
+290119	s
 v
 o
-290117	adv
-290120	v
-io
-290124	v
-o
-290128	v
-adv
+290123	adv
+290126	vc
+p
 290131	s
-290133	p
-290137	v
-o
-290141	adv
-290144	v
-s
-o
-290148	adv
-v
-o
-290153	v
-v
-290156	v
-s
-adv
-290160	s
-290163	p
-adv
-v
-adv
-290168	p
-290171	s
-290174	p
-adv
-290177	s
-290179	p
-290183	v
-o
-290189	s
-290191	p
-290193	vc
-290195	v
-o
-290201	s
-290205	p
-290211	v
-adv
-290214	v
-o
-290217	p
-adv
-290221	p
-290224	s
-290227	v
-o
-adv
-v
-adv
-o
+290134	v
 apposition
-290236	s
-adv
-p
-290240	adv
-290242	o
+290139	s
 v
-o2
+o
+290143	adv
+290151	vc
+p
+290154	v
 s
+290158	v
+p
+vc
+aux
+290163	v
+290165	v
+apposition
+290168	o
+v
+290172	o
+290175	v
+290177	o
+io
+v
+v
+p
+vc
+290184	v
+s
+v
+aux
+aux
+apposition
+290191	apposition
+p
+290194	s
+290197	s
+v
+o
+290201	adv
+290204	v
+io
+v
+o
+adv
+290210	v
+s
+adv
+290215	v
+o
+290220	v
+o
+adv
+290226	adv
+v
+v
+io
+o
+290232	s
+v
+o
+290236	adv
+290241	vc
+s
+290244	v
 290248	v
-aux
+o
+290251	adv
+290254	v
+o
+290258	adv
+290267	adv
 v
 adv
+290273	s
+v
+o
+290277	adv
+290280	apposition
+290283	v
 s
-adv
-290255	s
-290257	v
-290259	v
-o
-adv
-290269	apposition
-290272	v
-io
-290276	v
-o
-v
-o
-290282	v
-adv
-290289	v
+290287	v
 s
-290293	v
+290292	apposition
+290296	v
 adv
-290300	v
-o
-290305	s
-290310	p
-v
-o
-290315	adv
-v
-o
-adv
+290312	s
+290317	vc
 290321	v
-adv
-v
 o
-290328	s
-290331	p
-290335	adv
-290338	v
 s
-290342	adv
-290347	v
-s
-290359	v
-adv
-290363	s
-290367	p
-290371	vc
-290376	s
-290379	p
-adv
 v
+adv
+290330	v
 o
-290384	adv
-v
-290387	s
-290391	s
 adv
+290341	apposition
+aux
 v
-adv
-290397	adv
-v
-adv
-290405	adv
-v
-o
-290423	s
-v
-290426	v
-290430	adv
-v
-adv
-290449	v
-s
-290452	v
-adv
-290455	v
-o
-290460	s
+290345	s
 p
-290465	s
-290467	p
-290471	s
-290473	p
-290477	v
-adv
-290481	o
 v
-290485	v
+290349	v
 o
+290354	adv
+adv
+v
+290358	v
+o
+290362	v
+o
+adv
+290367	vc
+adv
+p
+290371	s
+v
+o
+290375	adv
+290378	v
+s
+adv
+290382	adv
+290384	v
+v
+290387	v
+s
+290392	s
+v
+s
+adv
+v
+adv
+adv
+s
+v
+adv
+290403	s
+adv
+p
+290407	v
+s
+290411	adv
+290414	s
+290417	v
+290419	s
+290421	v
+adv
+290424	v
+io
+o
+290435	s
+v
+290438	s
+adv
+v
+290442	s
+290445	v
+adv
+290448	adv
+290451	v
+s
+o
+adv
+290459	p
+vc
+s
+290463	adv
+290465	v
+s
+290471	v
+o
+290475	v
+adv
+v
+v
+v
+io
+o
+290487	v
+adv
 290490	adv
-290492	o
-290494	adv
-290497	v
-adv
-290500	s
 v
+s
+290496	v
+v
+adv
+adv
 290505	v
+o
+adv
+adv
+290510	v
+s
 v
-s
-290509	o
-290514	v
-s
+adv
 290517	v
+o
 v
-290520	v
-s
+o
+290525	s
+vc
+v
+o
+290531	v
 adv
-290524	v
+290536	v
 o
-v
+290539	adv
+290542	v
 o
-v
-s
-290532	adv
-o
-v
-290536	s
-290538	s
-v
-v
-adv
-290547	v
-o
-290552	adv
+290550	adv
+290553	s
 290555	v
-adv
-290558	v
-adv
-290563	s
-v
-o
-290584	s
-adv
-v
-290588	adv
-290595	v
-v
-adv
-v
-s
-290603	v
-o
-290607	apposition
-290609	s
-290611	o
-v
-adv
-290615	adv
-v
-adv
-290619	v
-o
-v
-v
-o
-290625	v
-adv
-290631	v
-adv
-290639	v
-adv
-290642	v
-io
-v
-io
-o
-290648	v
-io
-o
-290652	v
-290654	v
-o
-290658	v
-o
-290662	adv
-290665	vc
-p
-290668	s
-290671	v
-o
-adv
-290678	v
-o
-290681	vc
-adv
-290685	adv
-290687	p
-290690	v
-o
-v
-s
-290696	v
-io
-v
-s
-adv
-v
-adv
-290708	v
-io
-s
-p
-adv
-v
-o
-v
-290717	v
-o
-290725	v
-adv
-290728	o
-290730	apposition
-290733	v
-adv
-290736	adv
-o
-v
-290741	v
-io
-290744	o
-290747	v
-adv
-290751	v
-io
-290756	v
-adv
-290759	v
-o
-s
-vc
-p
-290770	adv
-290774	v
-290778	s
-o
-v
-v
-s
-v
-adv
-290788	v
-o
-290794	s
-v
-o
-v
-adv
-v
-s
-v
-290803	s
-v
-o
-v
-o
-290809	adv
-s
-v
-adv
-290817	o
-v
-adv
-290821	v
-o
-adv
-290825	o2
-v
-o
-adv
-290831	v
-290835	v
-o
-290838	s
-290840	v
-adv
-290843	v
-adv
-o
-290848	v
-o
-290851	v
-o
-290854	s
-290856	p
-290864	s
-vc
-adv
-p
-290869	adv
-s
-290873	v
-290875	v
-s
-290882	o
-290884	adv
-290887	s
-290889	adv
-v
-v
-adv
-290895	v
-adv
-290898	v
-adv
-290901	v
-290903	o
-v
-io
-290907	s
-290910	v
-v
-adv
-290916	adv
-290920	s
-adv
-290923	v
-adv
-290926	v
-adv
-290931	s
-v
-adv
-v
-o
-290937	v
-s
-adv
-290941	v
-io
-v
-adv
-290946	v
-adv
-290949	adv
-290952	v
-o
-s
-290957	adv
-290960	v
-s
-290964	s
-290967	v
-290970	v
-adv
-290973	s
-290975	apposition
-290978	s
-p
-vc
-290982	v
-o
-io
-290987	s
-290990	v
-aux
-s
-290995	v
-adv
-290998	s
-291000	v
-291002	v
-s
-adv
-291006	v
-o
-vc
-s
-291012	p
-291019	v
-adv
-291025	s
-291029	adv
-291031	v
-adv
-291035	v
-adv
-291040	v
-o
-v
-o
-v
-o
-aux
-291048	apposition
-291050	apposition
 apposition
-v
-291054	v
-291057	v
-o
-291063	v
-291065	s
-v
-291069	v
+290559	apposition
+290568	v
 s
-291073	s
-291077	v
-291079	v
+v
+adv
+290583	v
+v
 o
+o
+290588	v
 io
-291084	apposition
-291089	v
+s
+adv
+v
+s
+v
+io
 o
-291092	adv
-291097	v
+290604	v
+o
 v
 o
-291101	v
-s
-291106	apposition
-291110	v
-s
-291115	adv
-291119	v
-s
-291127	s
+290613	s
+o
+v
+v
+290618	adv
+v
+290622	v
 v
 adv
-291131	o
-291134	s
+290627	adv
 v
+290630	v
+v
+adv
+290634	s
+adv
+v
+290638	adv
+290642	adv
+290644	v
 o
-291138	s
+290647	v
+290649	adv
+v
+290652	v
 p
-291143	p
-291146	s
-291149	adv
-v
-291152	v
-adv
-v
-291156	v
-v
-291159	v
 s
-adv
-291165	aux
+290656	v
+o
 s
-291168	v
-o
-291174	p
-291177	s
-291180	s
-291182	v
-o
-291189	v
-o
-adv
-291194	s
-v
-adv
-291199	v
-v
-291203	v
-o
-291206	v
-291208	v
-o
-291211	s
-v
-v
-o
-291216	adv
-291219	v
-s
-291222	adv
-291230	s
-v
-adv
-291235	adv
-v
-adv
-o
-v
-adv
-291243	adv
-v
-o
-adv
-291250	v
-s
-adv
-291254	s
-291259	v
-adv
-291263	s
-291265	v
-291271	adv
-v
+290660	p
+vc
 adv
 s
 v
 adv
-adv
-291280	v
+290667	p
+vc
 s
-291287	apposition
+v
+s
+v
+290674	s
+adv
+v
+290679	v
+adv
+s
+v
+v
+290685	aux
+s
+v
+290689	adv
+v
+290692	s
+p
+vc
+290696	p
+290698	vc
+290700	adv
+v
+290703	s
+290705	o
+v
+290708	vc
+s
+o
+adv
+v
+290714	o
+adv
+290717	adv
+v
+adv
+290721	s
+o
+v
+290725	o
+290729	io
+v
+s
+adv
+290734	v
+290736	s
+v
+o
+290741	p
+290743	vc
+290747	s
+290749	p
+290753	v
+io
+s
+o
+v
+adv
+s
+v
+p
+290763	vc
+290767	aux
+290770	o
+v
+290774	s
+v
+o
+290779	o2
+v
+v
+o
+290786	o
+290788	v
+290790	o
+v
+adv
+s
+290795	v
+adv
+290799	o
+v
+o
+290804	v
+o
+290807	v
+o
+290810	io
+290812	v
+s
+290817	s
+o
+v
+vc
+p
+290825	v
+o
+adv
+290831	adv
+v
+s
+v
+adv
+290837	v
+o
+290840	s
+v
+adv
+290846	v
+adv
+290849	v
+o
+v
+v
+s
+290856	vc
+p
+290868	v
+290871	adv
+290878	v
+s
+290882	s
+290885	adv
+v
+290888	s
+290891	adv
+290896	v
+290898	v
+s
+adv
+290902	v
+v
+aux
+290906	adv
+apposition
+290909	adv
+v
+adv
+290914	adv
+290918	adv
+v
+290922	v
+s
+290925	adv
+290928	v
+s
+o
+290932	v
+io
+290935	s
+v
+290938	v
+o
+adv
+290943	adv
+290945	adv
+v
+v
+io
+o
+adv
+v
+o
+290954	v
+o
+v
+io
+290961	adv
+290964	v
+290966	v
+adv
+290970	p
+adv
+vc
+290974	o
+adv
+v
+adv
+adv
+290980	v
+s
+290984	apposition
+290988	adv
+v
+290991	p
+s
+290994	apposition
+v
+o
+290998	v
+291000	adv
+s
+291005	adv
+v
+291009	v
+o
+291014	adv
+v
+adv
+291021	v
+aux
+aux
+aux
+291028	apposition
+apposition
+291033	adv
+v
+s
+291038	s
+291041	v
+291043	adv
+291045	o
+291048	s
+v
+adv
+apposition
+291093	s
+291099	v
+adv
+291102	s
+291107	v
+adv
+291110	adv
+adv
+o
+v
+s
+291117	v
+adv
+adv
+v
+adv
+291126	adv
+v
+291129	v
+v
+aux
+aux
+aux
+291137	v
+o
+291142	v
+adv
+291148	adv
+v
+s
+291153	s
+291157	adv
+v
+291161	s
+adv
+v
+adv
+v
+291167	v
+v
+o
+291173	v
+s
+p
+adv
+291180	v
+o
+adv
+291186	v
+adv
+v
+291190	v
+v
+aux
+aux
+291197	adv
+v
+s
+v
+o
+adv
+291204	adv
+291208	adv
+v
+v
+adv
+aux
+291221	v
+s
+o
+291225	adv
+291227	v
+s
+291230	o
+291235	v
+adv
+291238	v
+o
+adv
+adv
+v
+s
+apposition
+291247	adv
+v
+adv
+291251	s
+291255	adv
+v
+adv
+adv
+291260	s
+291263	adv
+v
+adv
+adv
+291268	s
+adv
+v
+adv
+adv
+291274	s
+adv
+v
+adv
+adv
+291280	s
+291283	adv
+v
+adv
+adv
+291288	s
 291290	vc
 p
-291294	v
-o
-291297	o
-v
-adv
-291302	s
-291304	adv
-v
-291307	v
+291296	adv
+291299	v
 s
+291303	adv
+s
+291306	v
+291309	v
 adv
-291311	v
-o
-adv
+291312	adv
 v
 s
-291330	v
-s
-291336	v
-o
-adv
-291341	adv
-291344	s
-v
-o
-adv
-291359	adv
-v
-o
-291363	adv
-adv
-v
+291319	adv
+291321	v
 aux
-291368	adv
-v
-291371	s
-adv
-291377	v
 s
-adv
+291329	p
+291332	p
+291334	s
+291338	v
+o
+291342	s
 v
 o
-v
-291384	o
-v
-291388	v
-s
-291391	v
 adv
-291394	v
+291349	v
 o
-291397	s
+291354	adv
+291357	adv
 v
 o
-291401	v
-io
+aux
+291362	s
+291364	v
+adv
+291370	v
 s
+291380	v
+o
+291383	v
+adv
+291386	v
+aux
+aux
+291390	s
+adv
+291393	v
+v
+v
+o
+291398	aux
+291403	v
+o
+apposition
 291410	v
-adv
-291413	adv
-291417	adv
-v
-adv
-adv
-291424	adv
-291428	v
 s
-adv
-291433	adv
-291435	o
-291437	o
-291439	o
-o2
-v
-291443	v
+291426	v
+aux
+291429	v
 s
+291432	apposition
+291434	apposition
+291436	v
+291438	v
+291440	v
 o
-291448	v
+io
+291445	v
 s
+291450	s
+291452	v
 o
-291453	v
+291455	v
+io
+291458	v
 o
-291456	o
-v
-s
-adv
-291463	v
-s
-adv
+291461	s
+291463	p
+291466	vc
 291468	v
+io
 v
-o
-adv
-291477	v
-o
-291482	v
-o
-291486	v
-adv
-291492	v
-adv
-291495	s
-v
-v
-o
-291504	p
-291507	s
-291509	p
-291512	s
-291514	s
-291516	o
-v
-vc
 p
 adv
-291523	s
-291525	p
-291528	s
-291530	p
-291534	v
+291478	v
+291480	v
 io
 s
+p
+291487	vc
+291489	v
+adv
+291493	v
 o
-291546	o
+291496	v
+io
+v
+adv
+p
+291502	vc
+291507	v
+o
+291510	o
+v
+s
+291515	vc
+p
+291520	v
+s
+v
+291525	v
+s
+291529	v
+adv
+vc
+p
+291535	adv
+v
+291539	s
+291542	p
+291544	p
+291547	s
+adv
+v
 291551	v
-adv
-291554	s
-291558	v
-291561	v
-s
-291564	adv
-291567	v
-o
-291570	v
-o
-io
-291574	v
-o
-v
 o
 s
-p
-adv
-291582	s
 v
+291556	adv
+s
+291559	v
+o
 v
 adv
+291564	vc
+s
+291567	p
+291571	s
+291573	apposition
+291576	v
+o
+adv
+291580	v
+o
+291584	adv
 291587	v
-io
 s
+291590	adv
 v
 o
-291594	v
-io
-s
-v
-adv
-291601	v
-o
-291604	adv
-291608	v
-o
-291616	adv
-291618	v
-291620	v
-io
+291594	s
 v
 o
 adv
-291627	v
+291600	s
+v
 o
+291612	apposition
+291614	v
+adv
+291622	o
+291624	v
+apposition
 291630	v
+o
+s
+v
+adv
+291637	v
+adv
+291640	v
 io
-s
-adv
-291639	v
-o
-s
-291643	v
-adv
-291646	s
+291644	v
 adv
 v
-291651	adv
-291658	v
+v
 adv
-291663	s
+291655	v
+o
+291666	v
+adv
+291678	v
+s
+291688	v
 v
 o
-v
-291668	s
 adv
+291693	v
 adv
-v
-291673	s
-adv
-v
-v
+291701	v
 s
-adv
-v
-p
-vc
+291704	adv
 s
-291689	v
-s
-v
-adv
-291696	v
+291707	v
 o
-o2
-291700	v
-291702	s
-291704	o
-291709	v
 adv
-291712	v
-o
-291716	adv
+adv
 v
-291719	v
 o
-291724	adv
+v
+o
+291718	v
+o
+291721	v
 v
 s
-291731	v
-o
-291734	adv
+adv
+291729	v
+adv
+291732	s
+v
+adv
+291738	v
+adv
+291741	v
+adv
+291746	s
+291748	v
+adv
+291753	v
 s
-v
-adv
-291739	v
-adv
-291742	adv
-291745	v
-v
-adv
-291749	adv
-291752	s
-v
-io
 v
 adv
 291758	v
-v
-adv
-291762	v
 o
-io
-291766	s
-v
-o
-291772	v
-291775	v
-io
-v
-o
-io
-291784	adv
-v
-s
-291790	o
-v
-291793	s
-adv
-v
-o
-291799	v
-291802	v
-o
-apposition
-291820	v
-io
-o
-adv
-291836	adv
-s
-v
-o
-v
-291842	v
-291844	adv
-v
-o
-291848	apposition
-291857	p
-s
+291765	adv
+291770	v
+291773	apposition
+291776	s
 vc
-v
-o
-v
-o
-291866	p
-291868	vc
-291870	s
-291872	p
-291874	v
-291876	aux
-s
-v
-adv
-291883	p
-s
-291887	v
-s
-291896	v
-adv
-291901	v
-o
-adv
-291905	o
-291907	o
-291911	o
-291914	s
-291916	o
-v
 p
-291920	s
-v
-adv
-291926	v
+291782	v
 o
 adv
-291939	s
+291787	v
+o
+adv
+291793	v
+291795	v
+adv
+291798	adv
 v
+adv
+o
+291803	v
+s
+291806	adv
+v
+v
+s
+adv
+291814	v
+o
+291818	v
+adv
+291821	s
+v
+io
+291825	o
+291827	v
+adv
+291838	s
+adv
 v
 o
-291944	adv
-s
-291949	v
-adv
-291953	s
-vc
-s
-adv
-adv
+291847	adv
 v
+o
+adv
+291858	v
+291860	v
+adv
+291863	adv
+s
+291867	adv
+v
+291870	v
+s
+291873	s
 p
-291961	vc
-s
-v
+291877	p
+291879	v
 o
 adv
-v
+291885	adv
 s
+291888	adv
 v
-adv
-291971	adv
-291977	adv
-291980	adv
-v
-s
+o
+291893	vc
 p
-vc
-291986	v
+291900	v
+adv
+adv
+291906	v
 s
-v
+291909	v
+s
 adv
+291915	v
 v
+o
+291920	apposition
+291926	apposition
+291929	v
+o
+adv
+291933	s
+291936	p
+291942	v
+adv
+291948	v
+o
+291956	v
+291958	v
+s
+adv
+291963	v
+o
+291966	s
+291968	v
 o
 v
 adv
-291995	v
+291977	p
+s
+291983	v
 adv
-292004	v
-adv
-292007	o
-292009	v
+291986	adv
+291991	v
 o
+291996	v
+adv
+adv
+292001	v
+s
+292007	s
+adv
+v
+io
 292012	v
-io
-o
-292016	v
 s
-292022	v
+292015	apposition
+292019	v
+adv
+292023	s
 v
-o
-292032	s
-292034	v
-v
-o
-v
+292026	s
 v
 s
-292042	s
-adv
-292050	v
-o
-292054	s
-292056	v
-o
-v
-adv
-292061	o
-292064	s
-v
-o
-292072	v
-o
-adv
-292082	s
-v
-adv
-292091	v
-adv
-adv
-292099	v
-adv
-292103	adv
-292110	s
-292114	adv
-292116	v
-292118	adv
-v
-o
-adv
-292123	s
-v
-o
-292132	s
-v
-o
-292138	p
-s
-292143	vc
-v
-o
-292153	v
-s
-adv
-292157	v
-v
+vc
 p
+292032	v
 s
-292162	adv
+adv
 v
 adv
-aux
-v
+292038	adv
+292043	v
 s
-292170	v
+o
+292047	apposition
+292050	s
+292054	v
+o
+292057	apposition
+292060	v
+s
+adv
+292066	s
+292070	v
+adv
+292075	s
+p
+292080	vc
+apposition
+292086	s
+adv
+v
+adv
+292093	v
+v
+adv
+292100	v
+o
+292106	s
+292113	v
+292115	s
+adv
+v
+adv
+292120	s
+292124	apposition
+v
+v
+adv
+292129	adv
+292131	v
+adv
+292135	v
+io
+292139	v
+s
+adv
+292143	v
+aux
+292147	s
+292150	p
+292153	v
+adv
+292157	s
+p
+vc
+292161	s
+292163	p
+vc
+292167	v
+o
 adv
 292174	s
-292177	v
 adv
-292180	v
-292182	aux
-s
-292185	adv
-292187	v
-s
-292190	apposition
 v
 adv
-292195	o
-292197	adv
-292200	o
-292202	s
+292179	s
+292182	adv
 v
 adv
-292206	v
+292186	s
+v
+292189	v
+v
 adv
-292209	v
-adv
-292212	o
+292193	aux
+o2
 v
 o
-292217	v
-292219	v
-s
+292198	v
 v
-292223	v
+292201	s
+292203	p
+292205	vc
+292207	v
+io
+v
 s
-292228	v
+p
+292216	apposition
+292220	s
+v
 v
 adv
-292232	o
-292234	adv
-292237	v
-s
-292240	s
+292229	adv
 v
+v
+o
+292235	vc
 adv
-292245	apposition
+p
+292239	s
+vc
+adv
+p
+aux
 292248	v
+292256	s
+292258	p
+292261	v
+adv
+292264	s
+vc
+p
+292270	v
 s
-o
-292252	s
-292254	v
-adv
-292257	v
-o
-adv
-292262	v
-adv
-v
-o
-292268	v
-o
-v
-o
 292276	v
 o
-292283	v
-s
-292287	v
-s
+292280	v
 o
-292291	adv
-292295	v
+292286	v
+adv
+v
+v
+v
+io
 o
-292300	v
+292294	apposition
+292298	v
+o
 adv
-292310	v
+adv
+292305	v
+io
 s
+292311	v
 adv
-292315	v
-s
+292314	adv
+292316	v
+o
+292320	s
+292322	p
 adv
-292319	adv
-292323	adv
+292325	adv
 292327	v
-o
-292335	s
 v
 o
-292341	adv
-v
-s
-292347	v
-s
-292351	v
-adv
-292354	v
-adv
-292368	v
-adv
-292373	v
+292331	v
 o
-292377	v
-o
-292382	apposition
-292389	v
+292335	p
+292337	s
+292339	v
+s
+vc
 p
-292392	s
-292394	aux
+292346	p
+s
+292349	p
+s
+292352	p
+s
+292355	p
+s
+292358	s
+292361	v
+o
+292364	p
+s
+292372	v
+adv
+v
+o
 apposition
-292397	apposition
+292378	v
+o
+292388	s
 p
-292400	s
-292402	aux
-292406	s
-adv
-v
-aux
-292411	v
+vc
+292392	s
+292394	p
+s
+292397	v
 o
-292415	adv
+adv
+adv
+292402	apposition
+s
+292410	p
+vc
+292413	v
+o
+292416	adv
+292419	s
+vc
 p
-292418	s
-292420	v
-292422	v
+292423	s
+292427	p
+292429	s
+p
+p
 adv
-292425	s
-292427	v
-292429	adv
+s
+292438	adv
+292440	v
+s
+292444	p
+s
+p
+s
+p
+s
+p
+s
+p
+s
+p
+s
+p
+s
+p
+s
+p
+s
+p
+s
+p
+s
+p
+292468	s
+292470	p
+adv
+s
+292475	vc
+p
+292479	s
+292482	p
+adv
+292487	o
+adv
 v
-292433	v
+adv
 s
-292443	v
-s
-292447	v
+292495	apposition
+292497	apposition
+p
+vc
+292503	s
+adv
 o
-292450	adv
-292452	adv
 v
-o
-292457	v
+292512	v
 adv
-292460	o
-292462	s
-292466	v
-io
-292469	o
-292472	v
-o
-292477	v
-adv
-292483	v
-s
-adv
-adv
-292496	s
-v
-v
-adv
-292502	v
-s
-292509	v
-s
-adv
-292513	v
-io
-292516	o
-v
+292515	s
 292519	v
 o
-292526	adv
-292529	v
+292522	s
+292524	p
+292526	v
 s
-292532	v
+adv
+292532	s
+292535	v
 o
-292535	adv
-292538	v
+292538	adv
+292540	s
+292542	adv
+v
+adv
 s
-292541	adv
-292544	apposition
-v
-o
-292550	v
-o
-292554	s
-v
+292547	adv
+vc
+p
+292551	v
 o
 292558	adv
-292561	vc
-p
-292566	s
-292569	v
-apposition
-292574	s
+292560	adv
 v
-o
-292578	adv
-292586	vc
-p
-292589	v
+adv
 s
-292593	v
+292566	v
 o
-p
-vc
-aux
-292599	v
-292601	v
-apposition
-292604	o
+292570	adv
 v
-292608	o
+adv
+292579	v
+io
+s
+292587	v
+adv
+292595	p
+292602	adv
+292604	s
+292607	v
+o
+adv
 292611	v
-292613	o
-io
-v
-v
-p
-vc
-292620	v
-s
-v
-aux
-aux
-apposition
-292627	apposition
-p
-292630	s
-292633	s
-v
 o
-292637	adv
+292615	s
+292618	p
+292622	s
+adv
+v
+adv
+292627	s
+292633	p
+vc
+292638	s
 292640	v
+o
+292643	v
+o
+292647	s
+292649	p
+292654	s
+adv
+v
+adv
+292659	adv
+v
+o
+292667	s
+apposition
+v
+adv
+292672	v
+adv
+292678	v
 io
-v
 o
-adv
-292646	v
 s
-adv
-292651	v
+292683	p
+292686	s
+292688	apposition
+292693	v
 o
-292656	v
-o
-adv
-292662	adv
-v
-v
+292696	v
 io
-o
-292668	s
+292699	s
 v
-o
-292672	adv
-292677	vc
-s
-292680	v
-292684	v
-o
-292687	adv
-292690	v
-o
-292694	adv
-292703	adv
 v
 adv
-292709	s
+292704	aux
+v
+adv
+p
 v
 o
-292713	adv
-292716	apposition
-292719	v
-s
-292723	v
-s
-292728	apposition
+292715	s
+v
+292718	o
+292722	v
+292724	v
+v
+v
+adv
 292732	v
-adv
-292748	s
-292753	vc
-292755	p
-292758	v
-o
-s
-v
-adv
-292767	v
-o
-adv
-292778	apposition
-aux
-v
-292782	s
-p
-v
-292786	v
-o
-292791	adv
-adv
-v
-292795	v
-o
-292799	v
-o
-adv
-292804	vc
-adv
-p
-292808	s
-v
-o
-292812	adv
-292815	v
-s
-adv
-292819	adv
-292821	v
-v
-292824	v
-s
-292830	s
-v
-s
-adv
-v
-adv
-adv
-s
-v
-adv
-292841	s
-adv
-p
-292845	v
-s
-292849	adv
-292852	s
-292855	v
-292857	s
-292859	v
-adv
-292862	v
 io
 o
-292873	s
+292736	v
+io
 v
-292876	s
+adv
+p
+vc
+292746	apposition
+292748	v
+o
+292753	o
+v
+292756	v
+io
 adv
 v
-292880	s
+o
+292766	s
+292768	p
+vc
+292771	v
+v
+adv
+292775	s
+v
+adv
+292780	s
+o
+v
+adv
+292785	s
+v
+adv
+aux
+v
+adv
+292792	s
+292794	p
+v
+io
+292798	s
+292800	v
+s
+p
+292815	p
+v
+o
+292821	vc
+s
+292824	p
+292829	adv
+v
+adv
+292833	p
+s
+292846	v
+292848	o
+s
+v
+o
+292853	v
+io
+o
+adv
+292858	s
+vc
+p
+292872	s
+292876	v
+v
+292879	v
+v
+v
 292883	v
-adv
-292886	adv
-292889	v
-s
-o
-adv
-292897	p
-vc
-s
-292901	adv
-292903	v
-s
-292909	v
-o
-292913	v
-adv
-v
-o
 v
 v
+v
+o
+adv
+v
+s
 io
-o
-292926	v
-adv
-292929	adv
-v
-s
-292935	v
-v
-adv
-adv
-292944	v
-o
-adv
-adv
-292949	v
-s
-v
-adv
-292956	v
-o
 v
 o
-292965	s
-vc
+292900	s
 v
-o
-292971	v
-adv
-292976	v
-o
-292979	adv
-292982	v
-o
-292990	adv
-292993	s
-292995	v
-apposition
-292999	apposition
-293008	v
-s
-v
-adv
-293023	v
-v
-o
-o
-293028	v
-io
-s
 adv
 v
 s
-v
-io
+adv
 o
-293044	v
-o
-v
-o
-293053	s
-293055	o
-v
-v
-293059	adv
-v
-293063	v
+292908	v
+adv
+292914	s
 v
 adv
-293068	adv
-v
-293071	v
-s
-v
-adv
-293076	s
-adv
-v
-293080	adv
-293084	adv
-293086	v
-o
-293089	v
-293091	adv
-v
-293094	v
-p
-s
-293098	v
-o
-293101	s
-293103	p
-vc
-adv
-s
-v
-adv
-293110	p
-vc
-293113	s
-v
-s
-v
-293118	s
-adv
-v
-293123	v
-adv
-s
-v
-v
-293129	aux
-293131	s
-v
-293134	adv
-v
-293137	s
-p
-vc
-293141	p
-293143	vc
-293145	adv
-v
-293148	s
-293151	o
-v
-p
-293155	vc
+292923	v
 s
 o
+292927	adv
+292938	v
 adv
-v
-293161	o
-adv
-293164	adv
-v
-adv
-293168	s
-o
-v
-293172	o
-293176	io
-v
-s
-adv
-293181	v
-293184	s
+292942	v
 v
 o
-293189	p
-293191	vc
-293195	s
-293197	p
-293201	v
-io
-s
-293206	o
+aux
 v
 adv
-s
-v
-p
-293213	vc
-293217	aux
-293221	o
-v
-293225	s
-v
-o
-293230	o2
-v
-v
-o
-293237	o
-293239	v
-293241	o
-v
-adv
-s
-293246	v
-adv
-293250	o
-v
-o
-293255	v
-o
-293258	v
-o
-293261	io
-293263	v
-s
-293268	s
-293270	o
-v
-vc
-p
-293277	v
-o
-adv
-293283	adv
-v
-s
-v
-adv
-293289	v
-o
-293292	s
-v
-adv
-293298	v
-adv
-293301	v
-o
-293304	v
-v
-s
-293309	vc
-p
-293321	v
-293324	adv
-293331	v
-s
-293335	s
-293338	adv
-v
-293341	s
-293344	adv
-293349	v
-293351	v
-s
-adv
-293355	v
+aux
 v
 aux
-293359	adv
+s
+292955	p
+292965	apposition
+292973	adv
+292981	s
+adv
+292987	s
+292996	o
+293004	o
+293006	adv
+293028	o
+293034	adv
+293040	s
+293046	s
+adv
+293051	o
+293054	s
+293060	o
+293064	adv
+s
+s
+293069	o
+293073	p
+o
+293086	adv
+o
+293095	s
+293099	adv
+293104	o
+293119	s
+o
+293122	o
+293127	o
+293131	adv
+293133	o2
+293137	o
+293146	o
+293151	s
 apposition
-293362	adv
-v
+aux
+293155	o
+293159	apposition
+293191	adv
+293193	s
 adv
-293367	adv
-293371	adv
-v
-293375	v
-s
-293378	adv
-293381	v
-s
-o
-293385	v
-io
-293388	s
-v
-293391	v
-o
+293196	adv
+293198	s
 adv
-293396	adv
-293399	adv
-v
-v
-io
-o
+293201	adv
+293203	adv
+293208	s
 adv
-v
+293220	adv
+293222	adv
+293227	adv
+293229	adv
+293235	o
+293238	adv
+293248	adv
+adv
+293251	adv
+293254	adv
+293259	adv
+293261	o
+293267	o
+293271	o
+293274	o
+293282	s
+293289	s
+293295	adv
+293299	adv
+293309	adv
+293312	p
+293316	adv
+293324	io
+293329	io
 o
-293408	v
+293332	adv
+293335	o
+293343	adv
 o
-v
-io
+293349	adv
+293354	adv
+293360	adv
+293379	apposition
+293386	adv
+293397	apposition
+293401	adv
+293403	o
 293415	adv
-293418	v
-293420	v
-adv
-293424	p
-adv
-vc
-293428	o
-adv
-v
-adv
-adv
-293434	v
-s
-293438	apposition
-293442	adv
-v
-293445	p
-s
-293448	apposition
-v
-o
-293453	v
-293455	adv
-s
-293460	adv
-v
-293464	v
-o
+293420	adv
+293423	adv
+293429	adv
+293443	apposition
+293453	adv
+293456	adv
+293459	adv
 293469	adv
-v
+293481	adv
 adv
-293476	v
-o
-aux
-aux
-aux
-293484	apposition
+293493	o
+293503	adv
+293513	o
+293524	s
+io
+293528	o
+293533	io
+293539	adv
 apposition
-293489	adv
-v
 s
-293494	s
-293497	v
-293499	adv
-293501	o
-293504	s
-v
 adv
 apposition
-293549	s
-293555	v
-adv
-293558	s
-293563	v
-adv
-293566	adv
-adv
-o
-v
 s
-293573	v
-adv
-adv
-v
-adv
-293582	adv
-v
-293585	v
-v
-o
+293561	s
+293563	o2
+293569	o
 aux
-aux
-aux
-293594	v
+293602	o
+293607	o
+293615	o
+293624	io
 o
-293599	v
-adv
-293605	adv
-v
-s
-293610	s
-293614	adv
-v
-293618	s
-adv
-v
-adv
-v
-293624	v
-v
-o
-293630	v
-s
-p
-adv
-293637	v
-o
-adv
-293643	v
-adv
-v
-293647	v
-v
-o
-aux
-aux
-aux
-293656	adv
-v
-s
-v
-o
-adv
-293663	adv
-293667	adv
-v
-v
-adv
-aux
-293680	v
-s
-o
-293684	adv
-293686	v
-s
-293689	o
-293694	v
-adv
-293697	v
-o
-adv
-adv
-v
-s
-apposition
-293706	adv
-v
-adv
+293629	adv
+293637	o
+293659	s
+293675	adv
+293686	o
+293695	o
+293700	o
 293711	s
 293715	adv
-v
-adv
-adv
-293720	s
-293723	adv
-v
-adv
-adv
-293728	s
-adv
-v
-adv
-adv
-293734	s
-adv
-v
-adv
-adv
-293740	s
-293743	adv
-v
-adv
-adv
-293749	s
-293751	vc
-p
-293757	adv
-293760	v
+293723	o
+293728	adv
+293732	o
+293734	o
+293741	apposition
+293755	s
 s
-293764	adv
-s
-293767	v
-293770	v
-adv
-293773	adv
-v
-s
-293780	adv
-293782	v
-aux
-o
-s
-293791	p
-293794	p
-293796	s
-293800	v
-o
-293805	s
-v
-o
-adv
-293812	v
-o
-293817	adv
-293820	adv
-v
-o
-aux
-293825	s
-293827	v
-adv
-293833	v
-s
-293843	v
-o
-293846	v
-adv
-293849	v
-aux
-aux
-293853	s
-adv
-293856	v
-v
-v
-o
-293861	aux
-293866	v
-o
+293765	o
+293769	adv
+293779	adv
+293784	adv
+293793	o
+293797	o
+293802	o
+293818	o
+293842	adv
+293849	adv
+293852	adv
+293857	apposition
 apposition
-293873	v
-s
-293889	v
-aux
-293892	v
-s
-293895	apposition
-293897	apposition
-293900	v
-293902	v
-293904	v
+293862	apposition
+293865	o
+293876	adv
+293886	adv
+adv
+293897	adv
+293901	adv
 o
-io
-293909	v
-s
-293914	s
-293916	v
-o
-293920	v
-io
-293923	v
-o
-293926	s
-293928	p
-293931	vc
-293933	v
-io
-v
+293921	p
 p
-adv
-293943	v
-293945	v
-io
+293930	aux
+293933	adv
+293938	o
+293943	s
+293959	o
+293976	o
+293982	s
+293985	s
+293990	s
 s
-p
-293952	vc
-293954	v
-adv
-293958	v
-o
-293961	v
-io
-o
-293966	v
-adv
-p
-293970	vc
-293975	v
-o
-293978	o
-v
+293994	s
 s
-293983	vc
-p
-293988	v
+o
+293999	s
 s
-v
-293993	v
-s
-293997	v
+294005	o
+294012	adv
+294015	p
+294025	o2
+294029	s
+294035	adv
+294049	apposition
+294051	s
+294062	o
+294066	adv
+294068	adv
 adv
-vc
-p
-294003	adv
-v
-294007	s
-294010	p
-294012	p
-294015	s
-adv
-v
-o
-294020	v
-o
-s
-v
-294025	adv
-s
-294028	v
-o
-v
-adv
-294033	vc
-s
-294036	p
-294040	s
-294042	apposition
-294045	v
-o
-adv
-294049	v
-o
-294053	adv
-294056	v
-s
-294059	adv
-v
-o
-294063	s
-v
-o
-adv
-294069	s
-v
-o
-294081	apposition
-294083	v
-adv
-294091	o
-294093	v
 apposition
-294099	v
+294078	adv
+apposition
+294082	adv
+294085	o
+294093	adv
+adv
+294111	adv
 o
+294114	o
+294119	adv
+294123	o
+294137	o
+adv
+294141	adv
+294151	adv
+294154	adv
+294160	o
+294163	s
+294177	adv
+294181	o
+294184	o
+294190	adv
+294195	adv
+294199	adv
+294208	s
 s
-v
-adv
-294106	v
-adv
-294109	v
-io
-294113	v
-adv
-o
-294117	v
-v
-adv
-294126	v
-o
-294137	v
-adv
-294149	v
-s
-294159	v
-v
-o
-adv
-294164	v
-adv
-294172	v
-s
-294175	adv
-s
-294178	v
-o
-adv
-adv
-v
-o
-v
-o
-294189	v
-o
-294192	v
-v
-s
-adv
-294200	v
-adv
-294203	s
-v
-adv
-294209	v
-adv
-294212	v
-adv
-294217	s
-294219	v
-adv
-294224	v
-s
-v
-adv
-294229	v
-o
-294236	adv
-294243	v
-o
-294247	apposition
-294250	s
-vc
-p
-294256	v
-o
-adv
-294261	v
-o
-adv
-294267	v
-294269	v
-adv
+294231	adv
+294238	adv
+294241	adv
+294256	o
+294266	io
+294269	o
 294272	adv
-v
+294278	adv
+294281	s
 adv
-o
-294277	v
-s
-294280	adv
-v
-v
-s
-adv
-294288	v
-o
-294292	v
-adv
-294295	s
-v
-io
-294299	o
-294301	v
-adv
-294312	s
-adv
-v
-o
+294293	s
+294298	adv
+294303	adv
+294306	apposition
 294321	adv
-v
-o
-adv
-294332	v
-294334	v
-adv
-294337	adv
-s
-294341	adv
-v
-294344	v
-s
-294347	s
+294330	o
+294332	p
+294335	aux
 p
-294351	p
-294353	v
-o
-adv
-294359	adv
-s
-294362	adv
-v
-o
-294367	vc
+294342	aux
 p
-294374	v
-adv
-adv
-294381	v
+294346	aux
+294355	adv
+294364	adv
+294368	o
+294376	adv
+294382	adv
 s
-294384	v
-s
-adv
-294390	v
-v
-o
-294395	apposition
-294401	apposition
-294404	v
-o
-adv
-294408	s
-294411	p
-294417	v
-adv
-294423	v
-o
-294431	v
-294433	v
-s
-adv
-294438	v
-o
-294441	s
-294443	v
-o
-v
-adv
-294453	p
-s
-294459	v
-adv
-294462	adv
-294467	v
-o
-294473	v
-adv
-adv
-294478	v
-s
-294484	s
-adv
-v
-io
-294489	v
-s
-294492	apposition
-294496	v
-adv
-294500	s
-v
-294503	s
-v
-s
-vc
-p
-294509	v
-s
-adv
-v
-adv
-294515	adv
-294520	v
-s
-o
-294524	apposition
-294527	s
-294531	v
-o
-294534	apposition
-294537	v
-s
-adv
-294543	s
-294547	v
-adv
-294552	s
-p
-294557	vc
-apposition
-294564	s
-adv
-v
-adv
-294571	v
-v
-adv
-294579	v
-o
-294585	s
-294592	v
-294594	s
-adv
-v
-adv
-294599	s
-294603	apposition
-v
-v
-adv
-294608	adv
-294610	v
-adv
-294614	v
-io
-294618	v
-s
-adv
-294622	v
+294389	s
+294396	apposition
+294402	adv
+294408	adv
+294410	s
+294417	adv
+294433	adv
+294447	o
+294453	o
+294492	o
+294495	adv
+294498	o
+294501	o
+294513	s
+294530	o
+294533	o
+294560	o
+294566	adv
+294571	s
+294581	o
+294583	s
 aux
-294626	s
-294629	p
-294632	v
-adv
-294636	s
-p
-vc
-294640	s
-294642	p
-vc
-294646	v
-o
-adv
-294653	s
-adv
-v
-adv
-294658	s
-294661	adv
-v
-adv
-294665	s
-v
-294668	v
-v
-adv
-294672	aux
-o2
-v
-o
-294677	v
-v
-294680	s
-294682	p
-294684	vc
-294686	v
-io
-v
+294586	o
+294593	adv
+294600	adv
+294606	s
+294610	p
 s
-p
-294695	apposition
-294699	s
-v
-v
-adv
+294616	o
+294621	o
+294625	o
+294627	apposition
+294634	o
+294636	apposition
+294638	o
+o
+294649	adv
+294658	adv
+294671	s
+294679	o
+o
+294684	o
+294690	adv
+294699	o
+294702	o
+294705	adv
 294708	adv
-v
-v
+294714	adv
+294717	apposition
+294720	o
+294724	adv
+294731	o
+294733	adv
+294737	o
+294740	o
+294744	o
+294752	adv
+294757	adv
+294770	o
+adv
+294774	o
+294783	adv
+294789	adv
 o
-294714	vc
-adv
-p
-294718	s
-vc
-adv
-p
-aux
-294727	v
-294735	s
-294737	p
-294740	v
-adv
-294743	s
-vc
-p
-294749	v
+294793	adv
+294797	o
+294801	o
+294822	o
+294839	s
+o
+294845	o
+o
+294850	adv
+294853	adv
+294856	adv
+294860	o
+294862	o
+294872	apposition
 s
-294755	v
-o
-294759	v
-o
-294765	v
+294890	o
+294893	o
+294896	adv
+294898	o
+294903	adv
+294905	apposition
+294907	s
+294928	adv
+294931	adv
+294953	o
+294960	o
+294962	o
+294966	o
+294972	adv
+294977	adv
+294989	o
+294992	adv
 adv
-v
-o
-v
-v
-io
-o
-294774	apposition
-294778	v
-o
-adv
-adv
-294785	v
-io
 s
-294791	v
-adv
-294794	adv
-294796	v
-o
-294800	s
-294802	p
-adv
-294805	adv
-294807	v
-294809	v
-o
-294812	v
-o
-294816	p
-294818	s
-294820	s
-v
-s
-vc
-p
-294828	p
-s
-294831	p
-s
-294834	p
-s
-294837	p
-s
-294840	s
-294843	v
-o
-294846	p
-s
-294854	v
-adv
-v
-o
+295002	adv
+295004	adv
+295008	adv
+295010	o2
+295018	s
+295026	o
+295036	o
+295042	adv
+295044	o2
+295046	o2
+295055	adv
+295058	o
+295063	adv
+295067	o
+295071	adv
 apposition
-294860	v
+adv
+295096	adv
+295105	o
+295110	apposition
+295113	o2
+295119	adv
+295124	adv
+295135	adv
+295140	s
+295145	adv
+295153	o
+295156	adv
+295170	o
+295176	o
+295183	s
+295196	o
+s
+295214	apposition
 o
-294870	s
-p
-vc
-294874	s
-294876	p
-s
-294879	v
+295218	adv
+295227	adv
+295234	o
+295236	o
+295247	o2
+295254	adv
 o
+295277	o2
 adv
-adv
-294884	apposition
-s
-294892	p
-vc
-294895	v
+295281	adv
+295286	adv
+295297	o
+295305	adv
+295308	s
+295310	adv
+295315	s
+295318	o
+295328	o
+295330	io
 o
-294898	adv
-294900	adv
-294902	s
-vc
-p
-294906	s
-294910	p
-294913	s
-p
-p
-adv
-s
-294922	adv
-294924	v
-294926	s
-294929	p
-s
-p
-s
-p
-s
-p
-s
-p
-s
-p
-s
-p
-s
-p
-s
-p
-s
-p
-s
-p
-s
-p
-294954	s
-294956	p
-adv
-s
-294961	vc
-p
-294965	s
-294968	p
-adv
-294974	o
-adv
-v
-adv
-s
-294982	apposition
-294984	apposition
-p
-vc
-294991	s
-adv
+295340	s
+295350	o
+295361	adv
+295364	adv
+295366	adv
+295377	adv
+295384	o
+295408	o
+295421	adv
+295429	adv
 o
-v
-295000	v
+295457	adv
+295460	adv
+295462	adv
+295470	adv
+295472	s
+295474	adv
 adv
-295003	s
-295007	v
+295477	apposition
+295479	apposition
+295483	apposition
+295486	s
+295489	s
+295493	s
+295501	apposition
+295503	adv
+295513	o
+295518	o
+295530	aux
 o
-295010	s
-295012	p
-295014	v
+295536	o
+295539	s
+295545	o
+295554	o
+295562	o
+295584	aux
+295593	apposition
 s
+295602	adv
+295607	adv
+295616	adv
 adv
-295020	s
-295023	v
+295625	o
+295628	adv
+adv
+295644	o
+295646	adv
 o
-295026	adv
-295029	s
-295031	adv
-v
+295649	adv
 adv
-s
-295036	adv
-vc
-p
-295040	v
-o
-295047	adv
-295049	adv
-v
-adv
-s
-295055	v
-o
-295059	adv
-v
-adv
-295068	v
-io
-s
-295076	v
-adv
-295084	p
-295091	adv
-295093	s
-295096	v
-o
-adv
-295100	v
-o
-295104	s
-295107	p
-295111	s
-adv
-v
-adv
-295116	s
-295122	p
-vc
-295127	s
-295129	v
-o
-295132	v
-o
-295136	s
-295138	p
-295143	s
-adv
-v
-adv
-295148	adv
-v
-o
-295156	s
-apposition
-v
-adv
-295161	v
-adv
-295167	v
-io
-o
-s
-295172	p
-295175	s
-295177	apposition
-295182	v
-o
-295185	v
-io
-295188	s
-v
-v
-adv
-295193	aux
-v
-adv
-p
-v
-o
-295204	s
-v
-295207	o
-295212	v
-295214	v
-v
-v
-adv
-295222	v
-io
-o
-295226	v
-io
-o
-295230	v
-adv
-p
-vc
-295238	apposition
-295240	v
-o
-295245	o
-v
-295248	v
-io
-adv
-v
-o
-295258	s
-295260	p
-vc
-295263	v
-v
-adv
-295267	s
-v
-adv
-295272	s
-o
-v
-adv
-295277	s
-v
-adv
-aux
-v
-adv
-295284	s
-295286	p
-v
-io
-295290	s
-295292	v
-s
-p
-295307	p
-v
-o
-295313	vc
-s
-295316	p
-295321	adv
-v
-adv
-295325	p
-s
-295338	v
-295340	o
-s
-v
-o
-295345	v
-io
-o
-adv
-295350	s
-vc
-p
-295364	s
-295368	v
-v
-295371	v
-v
-v
-295376	v
-v
-v
-v
-o
-adv
-v
-s
-io
-v
-o
-295394	s
-v
-adv
-v
-s
-adv
-o
-295402	v
-adv
-295409	s
-v
-adv
-295418	v
-s
-o
-295422	adv
-295433	v
-adv
-295437	v
-v
-o
-aux
-v
-adv
-aux
-v
-aux
-s
-295450	p
-295460	apposition
-295467	adv
-295474	s
-adv
-295479	s
-295494	adv
-295516	adv
-295521	s
-295527	s
-adv
-295533	s
-295539	o
-295543	adv
-s
-s
-295551	p
-295563	adv
-o
-295572	s
-295576	adv
-295595	s
-295597	o
-295605	adv
-295618	o
-295622	s
-apposition
-aux
-295629	apposition
 295660	adv
-295662	s
-adv
-295665	adv
-295667	s
-adv
-295670	adv
-295672	adv
-295676	s
-adv
-295687	adv
-295689	adv
-295694	adv
-295696	adv
-295703	adv
-295712	adv
-adv
-295715	adv
-295718	adv
-295723	adv
-o
+295667	adv
+295676	adv
+295688	adv
+295691	o
+295714	o
+295719	o2
+295723	o
 295731	o
 295734	o
-295742	s
-295749	s
-295755	adv
-295759	adv
-295766	adv
-295772	adv
-295779	io
-295784	io
-o
-295787	adv
-295796	adv
-o
+295744	o
+295748	s
+295750	s
+295754	s
+295760	s
+295762	o2
+295764	o
+295768	o2
+295770	o
+295775	adv
+295778	o
+295780	adv
+295787	io
+295792	aux
+295798	adv
 295802	adv
-295807	adv
-295813	adv
-295826	apposition
-295831	adv
-295840	apposition
-295843	adv
-295845	o
-295856	adv
-295861	adv
-295864	adv
-295868	adv
-295879	apposition
-295888	adv
-295891	adv
-295894	adv
-295903	adv
-295915	adv
+295804	o
+295819	apposition
+295834	adv
+295839	apposition
 adv
+295843	o
+295856	o
+295868	apposition
+295873	adv
+295876	o
+295879	o
+295891	o
+295896	aux
+295902	adv
+295905	apposition
+295911	o
+295915	o
+295917	apposition
+295923	adv
 295927	o
-295936	adv
-295953	s
-io
-295957	o
-295961	io
-295967	adv
-apposition
-s
+295930	o
 adv
-apposition
-s
-295988	s
-295994	o
-aux
-296033	o
-296040	io
-296044	adv
-296071	s
-296086	adv
-296118	s
-296122	adv
-296134	adv
-296137	o
-296145	apposition
-296159	s
-s
-296168	o
-296172	adv
-296182	adv
-296187	adv
-296216	o
-296237	adv
-296243	adv
-296246	adv
-296251	apposition
-apposition
-296256	apposition
-296259	o
-296267	adv
-296276	adv
-adv
-296285	adv
-296289	adv
-296306	p
-p
-296315	aux
-296318	adv
-296326	s
-296341	o
-296357	o
-296363	s
-296366	s
-296371	s
-s
-296375	s
-s
+295933	o2
+295941	o
+295945	adv
+295959	adv
+295968	o
+295973	s
+295978	s
+295989	o2
+295994	adv
+295998	o
+296004	o
+296010	s
+296017	adv
 o
-296380	s
+296027	apposition
+o
+adv
+296032	o
+296037	o
 s
-296390	adv
-296393	p
-296405	s
-296409	adv
-296421	apposition
-296423	s
-296437	adv
-296439	adv
+296051	o
+296054	s
+o
+296058	o
+296063	o
 adv
+296070	adv
+296075	apposition
+o
+296079	o
+296085	o
+296092	s
+adv
+296110	o
+296119	o
 apposition
-296449	adv
+296122	o
+296126	o
+296130	adv
+296137	adv
 apposition
-296453	adv
-296461	adv
+296142	adv
+296147	o
+296149	o
+296154	adv
+296169	adv
+296182	s
+aux
+296187	o
+296192	o
+296196	o
+296199	apposition
+296204	o
+296207	p
+296212	o
+296217	o
+296245	o2
+296253	adv
+296265	s
+296268	o
+296270	o
+apposition
+296281	aux
+296292	o2
+296295	o
+296302	o
+296329	o
+apposition
+296348	o
+296356	adv
+296379	adv
+296385	o
+296387	o2
+296394	adv
+o
+296421	adv
+296429	o
+296432	o
+296440	adv
 adv
-296478	adv
-296480	o
-296485	adv
-296489	o
-296502	o
+296445	o
+296452	o
+296457	adv
+296463	o
+296467	adv
+296477	o
+o
+296482	o
+o2
+296487	o
+296489	o2
+296494	adv
+o
+296513	o
 adv
-296506	adv
-296516	adv
-296519	adv
-296525	o
-296528	s
-296542	adv
-296546	o
-296554	adv
-296559	adv
-296563	adv
-296571	s
+296517	s
 s
-296592	adv
-296599	adv
-296602	adv
-296624	io
+296527	o
+296532	adv
+296548	o
+296570	apposition
+296584	adv
+296594	o
+296598	adv
+adv
+296603	adv
+o
+296607	adv
+296626	adv
 296629	adv
-296635	adv
-296638	s
+o
+296633	apposition
+296640	adv
+296643	adv
+296650	adv
+296653	adv
+296666	o
+o
+296676	adv
+296681	s
+296687	adv
+296697	o2
 adv
-296647	s
-296652	adv
-296657	adv
-296660	apposition
-296672	adv
-296680	o
-296682	p
-296685	aux
-p
-296692	aux
-p
-296696	aux
-296705	adv
-296714	adv
-296724	adv
-296730	adv
+296703	s
+296707	o
+296710	apposition
+296713	s
+adv
+296718	s
+296720	p
+296723	s
+296726	adv
+296728	adv
+296735	adv
+296744	o
+296750	o
+296755	apposition
+296758	adv
+adv
+296762	adv
+adv
+adv
+296767	adv
+296777	adv
+296781	adv
+296787	s
+296791	o
+296797	o
+296801	adv
+adv
+296819	o
+296825	adv
+296828	adv
+296833	o
+296843	s
+296846	adv
 s
-296737	s
-296744	apposition
-296750	adv
-296756	adv
-296758	s
-296765	adv
-296780	adv
-296835	adv
-296851	s
-296866	o
-296893	o
-296899	adv
-296904	s
-296915	s
-aux
-296918	o
-296925	adv
-296932	adv
-296937	s
-296941	p
-s
-296955	apposition
-296963	apposition
+296852	apposition
+296856	s
+adv
+296863	s
+adv
+296877	adv
+adv
+adv
+296889	adv
+adv
+296894	o
+296901	o
+296910	o
+296914	o
+296917	adv
+296921	o
+296940	o
+296949	apposition
+296960	adv
+adv
+296964	adv
 296974	adv
-296982	adv
-296995	s
-297011	adv
-297020	o
-297023	o
-297026	adv
+296976	adv
+296983	adv
+296990	adv
+296994	adv
+adv
+296997	apposition
+297000	o
+297003	o
+adv
+297010	adv
+297013	o
+297023	adv
 297029	adv
-297035	adv
-297038	apposition
-297044	adv
-297050	o
-297052	adv
-297067	adv
-297072	adv
-297085	adv
-297096	adv
-297101	adv
-o
-297105	adv
-297108	o
-297141	s
-o
-297148	adv
-297151	adv
-297154	adv
-297167	apposition
-s
-297185	o
-297188	o
-297191	adv
-297193	o
-297197	adv
-297199	apposition
-297201	s
-297216	adv
-297219	adv
-297245	o
-297249	o
-297255	adv
-297260	adv
-297271	o
-297274	adv
+297036	apposition
+297039	o
+297073	adv
+297076	adv
+297083	o
+297093	o2
+297103	s
+297106	adv
+297115	adv
+297124	o
+297129	o
+297145	o
+297152	o
 adv
-s
-297284	adv
-297286	adv
-297290	adv
-297299	s
-297319	adv
-297329	adv
-297332	o
-297337	adv
-297344	adv
-apposition
+297158	o2
+297162	adv
 adv
-297369	adv
-297377	o
-297382	apposition
-297390	adv
-297395	adv
-297406	adv
-297411	s
-297416	adv
-297423	o
-297426	adv
-297443	o
-297449	s
-297461	s
-297477	apposition
-297480	adv
-297489	adv
-297510	adv
-297530	adv
-297533	adv
-297538	adv
-297555	adv
-297558	s
-297560	adv
-297565	s
-297568	o
-297577	o
-297579	io
-297588	s
-297598	o
-297609	adv
-297612	adv
-297614	adv
-297625	adv
-297653	o
-297666	adv
-297673	adv
-297699	adv
-297702	adv
-297704	adv
-297711	adv
-297713	s
-297715	adv
+297169	adv
 adv
-297718	apposition
-297720	apposition
-297724	apposition
-297727	s
-297730	s
-297734	s
-297741	apposition
-297743	adv
-297755	o
-297765	aux
-o
-297773	s
-297792	o
-297814	aux
-297821	apposition
-s
-297830	adv
-297835	adv
-297843	adv
-adv
-297850	adv
-adv
-297865	o
-297867	adv
-o
-297870	adv
-adv
-297880	adv
-297886	adv
-297894	adv
-297904	adv
-297907	o
-297954	s
-297956	s
-297960	s
-297966	s
-297977	adv
-297981	adv
-297988	io
-297993	aux
-297999	adv
-298003	adv
-298018	apposition
-298031	adv
-298036	apposition
-adv
-298060	apposition
-298065	adv
-298078	o
-298083	aux
-298088	adv
-298091	apposition
-298099	apposition
-298105	adv
-298111	o
-adv
-298124	adv
-298137	adv
-298146	s
-298151	s
-298166	adv
-298170	o
-298178	s
-298185	adv
-298194	apposition
-o
-adv
-298203	s
-298215	o
-298218	s
-298221	o
-298226	o
-adv
-298232	adv
-298237	apposition
-o
-298252	s
-adv
-298269	o
-298276	apposition
-298278	o
-298284	adv
-298291	adv
-apposition
-298296	adv
-298301	o
-298307	adv
-298321	adv
-298334	s
-aux
-298344	o
-298347	apposition
-298355	o
-298391	adv
-298403	s
-298407	o
-apposition
-298415	aux
-298427	o
-298433	o
-298456	apposition
-298480	adv
-298502	adv
-298514	adv
-298537	adv
-298544	o
-298553	adv
-adv
-298568	adv
-298573	o
-298577	adv
-298590	o
-298593	o
-298599	adv
-o
-298617	o
-adv
-298621	s
-s
-298631	o
-298636	adv
-298671	apposition
-298685	adv
-298694	o
-298698	adv
-adv
-298703	adv
-o
-298707	adv
-298725	adv
-298728	adv
-o
-298732	apposition
-298739	adv
-298742	adv
-298749	adv
-298752	adv
-298765	o
-298773	adv
-298778	s
-298783	adv
-298792	adv
-298797	s
-298803	apposition
-298806	s
-adv
-298811	s
-298813	p
-298816	s
-298819	adv
-298821	adv
-298827	adv
-298844	adv
-adv
-298848	adv
-adv
-adv
-298853	adv
-298862	adv
-298866	adv
-298872	s
-298884	adv
-adv
-298905	adv
-298908	adv
-298922	s
-298925	s
-298930	apposition
-298934	s
-adv
-298940	s
-adv
-298953	adv
-adv
-adv
-298965	adv
-adv
-298970	o
-298977	o
-298986	o
-298991	adv
-299012	o
-299020	apposition
-299031	adv
-adv
-299035	adv
-299045	adv
-adv
-299051	adv
-299057	adv
-299061	adv
-adv
-299064	apposition
-299067	o
-299070	o
-adv
-299077	adv
-299080	o
-299090	adv
-299096	adv
-299102	apposition
-299105	o
-299136	adv
-299139	adv
-299164	s
-299167	adv
-299182	o
-299199	o
-299205	o
-adv
-299211	o2
-299215	adv
-adv
-299222	adv
-adv
-299228	adv
-299231	s
-299239	s
+297175	adv
+297178	s
+297181	o
+297187	s
 p
-299246	adv
-299251	o
+297196	o
+adv
+297203	o
 aux
-299267	o
-299283	o
-299292	o
-299302	adv
-299307	o
-299344	adv
-299349	o
-299352	o
-299359	adv
-299362	adv
-299372	o
-299376	o
-299390	adv
-299392	o
-299395	adv
-299399	o
-299402	adv
-299429	adv
-299446	adv
-299455	o
+297220	o
+297223	o
+297228	o
+297238	o
+297247	o
+297252	o
+297256	o
+297260	adv
+297265	o
+297275	o
+297304	adv
+297309	o
+297312	o
+297319	adv
+297322	adv
+297332	o
+297336	o
+297339	o
+297351	adv
+297353	o
+297356	adv
+297360	o
+297363	adv
+297371	o
+297375	o
+297390	o
+297394	adv
+297412	adv
+297416	o
+297423	o
 adv
-299461	s
-299464	o
-299468	adv
-299472	adv
-299490	o
-299504	adv
-299507	aux
+297429	s
+297432	o
+297436	adv
+297440	adv
+297459	o
+297470	o2
+297475	adv
+297478	aux
 adv
-299512	o
-299518	adv
+297481	o
+297484	o
+297490	adv
 o
-299530	o
-299534	adv
-299545	adv
-299553	o
-299564	o
-299568	apposition
-299572	adv
-299577	adv
-299582	adv
-299590	adv
-299599	o
-299618	adv
-299621	adv
-299645	adv
-299648	s
-299656	adv
-299663	adv
+297500	o
+297504	o
+297508	adv
+297519	adv
+297523	o
+297528	o
+297530	o2
+297534	o
+297542	o
+297547	apposition
+o
+297552	adv
+297557	adv
+297562	adv
+297570	adv
+297581	o
+297600	adv
+297603	adv
+297609	o
+297621	o
+o2
+297624	o
+297630	o
+297635	adv
+297638	s
+297646	adv
+297648	o
+297653	o
+297655	adv
 apposition
-299670	s
-299673	o
+297662	s
+297665	o
 aux
-299682	o
-299690	s
-299695	adv
-299697	s
-299708	o
-299711	o
-299746	adv
-299759	s
-299769	adv
-299771	adv
-299785	o
-299790	o
-299798	adv
-299805	adv
-299807	o
-299809	o
-299820	adv
-299828	adv
-299830	o2
-299839	adv
-299852	o
-299855	adv
-299863	s
-299868	o
-299876	adv
-299878	adv
-299883	adv
-299897	adv
-adv
-299913	adv
-299916	adv
-299922	adv
-299928	adv
-299931	adv
-299935	adv
-299939	adv
-299946	o
-299956	apposition
-aux
-299966	o
-299979	o
-299985	o
-300006	p
-300014	aux
-300018	s
-300026	o
-300031	adv
-300041	adv
-300057	o
-300059	adv
+297674	o
+297682	s
+297687	adv
+297689	s
+297702	o
+297705	o
+297712	o
+297721	o
+297730	o
+297745	adv
+297758	s
+297770	adv
+297773	adv
+297787	o
+297792	o
+297796	o
+297802	adv
+297809	adv
+297812	o
+297814	o
+297820	o
+297829	adv
+297839	adv
 o
-300062	o
-300072	o
-300101	adv
-300109	adv
-300117	adv
+o
+297843	o2
+297852	adv
+297866	o
+297869	adv
+297878	s
+297884	o
+297893	adv
+297895	adv
+o
+297901	o
 adv
-300124	o
-300137	o
+297916	adv
+adv
+297933	adv
+297936	adv
+297942	adv
+297948	adv
+p
+297952	adv
+297956	o2
+adv
+297961	adv
+297968	o
+297970	o
+297979	apposition
+aux
+297990	o
+298005	o
+298008	o
+298012	o
+298036	o2
+298039	p
+298047	aux
+298053	s
+o
+298062	o
+298067	adv
+298074	o2
+298080	adv
+298097	o
+298099	adv
+o
+298102	o
+298115	o
+298131	o
+298151	adv
+298160	adv
+298168	adv
+o2
+adv
+298176	o
+298192	o
 apposition
-300140	o
-300143	apposition
-300147	adv
-300156	apposition
-300158	o
-300163	adv
-300165	adv
-300173	adv
+298195	o
+298198	o
+apposition
+298204	adv
+298209	o
+298215	apposition
+298217	o
+298222	adv
+298224	adv
+298228	o
+298233	adv
 adv
-300192	o
+298238	o
+298245	o
+298250	o
+298255	o
 adv
-300219	s
-300225	s
-300264	adv
+298280	o
+298287	s
+298293	s
+298306	o
+298333	adv
 adv
-300295	io
+298349	o
+298361	o
+298367	io
 o
-300301	s
-300305	o
-300310	adv
+298373	s
 o
-300327	adv
-300332	s
-300335	adv
-300340	o
-300343	adv
-300346	adv
-300351	adv
-300357	adv
-300377	adv
-300395	s
+298378	o
+298383	adv
+o
+298401	adv
+298406	s
+298409	adv
+298414	o
+298417	adv
+298420	adv
+298425	adv
+298431	adv
+298449	o
+298453	adv
+298472	s
 aux
-300402	s
-300419	apposition
+298475	o
+298481	s
+298487	o
+298490	p
+298497	o
+298506	apposition
+o
+298511	adv
+apposition
+298524	o
+298534	adv
+298543	o
+298551	apposition
+298559	o
+298569	adv
+298573	io
+298575	adv
+298583	adv
+o
+298589	s
+s
+298593	o
+298596	o2
+298612	adv
+s
+298621	adv
+298626	adv
+298636	o
+298647	adv
+298656	apposition
+298666	o
+298679	o
+298685	o
+298691	o
+298699	o
+298708	apposition
+298712	o
+298727	o
+298733	s
+o
+adv
+298738	o
+298745	p
+298765	o
+298774	o
+298777	o
+298790	adv
+adv
+298795	adv
+298801	adv
+298804	adv
+adv
+io
+adv
+298820	apposition
+298837	o2
+298839	o
+298849	adv
+298851	apposition
+298857	apposition
+298870	adv
+298872	p
+298880	o
+aux
+298887	adv
+298896	adv
+298898	adv
+298910	o
+298945	o
+298948	o
+s
+o
+298965	adv
+o
+298977	adv
+o
+298986	adv
+298989	s
+io
+s
+299015	o
+299018	adv
+299029	o2
+299031	o
+299034	o
+299039	o2
+299043	adv
+299049	o
+299054	adv
+299059	o
+299075	adv
+299082	o
+299086	apposition
+o
+299092	o
+299097	adv
+299101	adv
+299105	adv
+299114	adv
+299117	o
+299119	o2
+299127	adv
+299146	o
+299149	adv
+299156	adv
+299159	adv
+adv
+299183	adv
+299187	adv
+299190	adv
+299196	o
+299212	adv
+299236	o
+299240	o
+299244	io
+299250	o
+299264	s
+s
+299273	o
+299277	adv
+299280	o
+299283	adv
+299303	adv
+299319	apposition
+299324	adv
+299335	adv
+299344	apposition
+299350	s
+299357	o
+299360	s
+adv
+299363	s
+adv
+299370	adv
+299379	adv
+299381	aux
+adv
+299385	aux
+299392	apposition
+o
+io
+o
+299399	io
+299406	adv
+o
+299411	adv
+o
+299414	o
+299418	adv
+o
+299425	o
+299434	adv
+299485	s
+299493	adv
+299496	adv
+299505	o
+299521	s
+299536	s
+299551	p
+299554	p
+299568	o
+299575	o
+299588	apposition
+299596	o
+299601	o
+299607	o
+299610	apposition
+o
+299622	o
+299627	o
+299647	s
+299654	apposition
+299660	s
+adv
+299677	s
+299682	adv
+299689	p
+299696	adv
+299699	aux
+p
+299708	adv
+s
+299720	adv
+299728	p
+299743	o
+299754	adv
+299767	o
+299781	o
+299786	o
+299795	s
+o
+299800	o
+299803	s
+s
+299807	adv
+299823	adv
+299831	s
+299836	o
+299844	o
+299848	o
+299852	adv
+299857	o
+299860	o
+299870	o
+299888	o
+o
+o
+299904	o
+299909	o
+adv
+299916	o
+299939	o
+299942	adv
+299947	adv
+299951	o
+299958	adv
+299965	o
+299984	apposition
+299998	apposition
+300011	adv
+300015	o
+300018	o
+300032	adv
+300036	adv
+300039	apposition
+300043	o
+aux
+300051	o
+300058	adv
+300061	adv
+300064	adv
+300093	adv
+300096	adv
+300106	adv
+300120	o
+300125	apposition
+o
+300128	adv
+300131	adv
+adv
+apposition
+300141	s
+s
+300145	s
+o
+300151	adv
+300153	adv
+300162	o
+300166	o
+300175	o
+apposition
+300178	adv
+300186	adv
+300191	adv
+300209	s
+300223	o
+o
+300226	o
+300229	o2
+300238	adv
+300241	o
+300243	o
+300253	adv
+300255	o
+300257	o
+300262	o2
+300266	s
+io
+300271	o
+300276	io
+300300	adv
+300304	adv
+300306	adv
+300315	s
+s
+300328	apposition
+300331	adv
+300335	o
+300338	adv
+300354	o
+300356	s
+300359	adv
+300362	adv
+300369	adv
+adv
+300375	adv
+300380	adv
+300384	s
+300387	o
+300390	adv
+300399	apposition
+300404	adv
+300406	adv
+300413	o2
+300415	apposition
+apposition
+300419	adv
 o
 300424	adv
+300433	o
+300448	s
+300453	io
+300466	o
+300475	o
+300479	o
+300481	apposition
+300485	s
+300493	adv
+300500	adv
+300504	o
+300515	o
+300520	adv
+300531	adv
+300534	adv
+300541	adv
+300552	adv
+adv
+300556	o
+300562	o
+300566	apposition
+300569	s
+300574	adv
+300579	o
+300589	o
+300595	o
+300602	adv
+300605	o
+300611	o
+adv
+300615	adv
+adv
+300619	o
 apposition
-300434	o
-300444	adv
-300451	o
-300459	apposition
-300465	o
-300472	adv
-300476	io
-300478	adv
-300486	adv
-o
-300492	s
-s
-300496	o
-300512	adv
-s
-300521	adv
-300525	adv
-300553	apposition
-300563	o
-300574	o
-300600	apposition
-300615	o
-300621	s
-o
+300622	adv
 adv
-300632	p
-300649	o
-300657	o
-300660	o
-300673	adv
+300630	o
+300640	adv
+300653	o
 adv
-300678	adv
-300682	adv
-300685	adv
+300669	apposition
+300680	s
+300683	o
+300689	o
+300691	adv
+300698	o
+300705	adv
+300708	aux
+o
+300714	o
+300718	s
+300727	o
+300742	o
+300746	s
+300756	s
+300761	s
+300765	o
+300776	adv
+300783	io
+o
+300789	o
+300793	o
+300805	adv
+300808	o
+apposition
+300813	o
+300820	o
+300825	adv
+300830	o
+o
+300843	adv
+300847	s
+300852	adv
+300858	adv
+300862	o
+300864	apposition
+300866	adv
+300874	o
+300902	o
+300914	o
+300930	o
+300933	adv
+300935	adv
+300943	o
+300947	adv
+apposition
+300953	adv
+300956	adv
+300960	o2
+300964	o
+300969	adv
 adv
-io
-adv
-300700	apposition
-300717	o
-300725	adv
-300727	apposition
-300733	apposition
-300745	adv
-300747	p
-300753	o
-aux
-300760	adv
-300769	adv
-300771	adv
-300815	s
-o
-300831	adv
-300842	adv
-o
-300851	adv
-300854	s
-io
-s
-300891	o
-300894	o
-300902	adv
-300912	adv
-300916	o
-300938	o
-300942	apposition
-o
-300948	o
-300951	adv
-300955	adv
-300959	adv
-300968	adv
 300978	adv
-300997	o
-301000	adv
-301006	adv
-301009	adv
-adv
-301032	adv
-301036	adv
-301039	adv
-301060	adv
-301090	io
-301096	o
-301110	s
-s
-301118	o
-301122	adv
-301125	o
-301128	adv
-301147	adv
-301161	apposition
-301166	adv
-301177	adv
-301185	apposition
-301191	s
-301199	s
-adv
-301202	s
-adv
-301208	adv
-301216	adv
-301218	aux
-adv
-301221	aux
-301227	apposition
-io
-o
-301233	io
-301240	adv
-o
-301244	adv
-o
-301247	o
-301250	adv
-o
-301263	adv
-301312	s
-301319	adv
-301322	adv
-301329	o
-301343	s
-301357	s
-301372	p
-301375	p
-301405	apposition
-301417	o
-301423	o
-301426	apposition
-301437	o
-301456	s
-301463	apposition
-301468	s
-adv
-301485	s
-301490	adv
-301496	p
-301502	adv
-301505	aux
+300985	o
+300989	o2
+300991	adv
+301011	o
 p
-301514	adv
+301023	s
+301042	adv
+301046	o
+301053	adv
 s
-301525	adv
-301533	p
-301556	adv
-301580	o
-301585	o
-301594	s
+301057	adv
+301064	adv
+301067	o
+301070	adv
+301073	o
+301075	adv
+301078	s
+301081	adv
+301088	o
+301098	o
+301108	adv
+301111	adv
 o
-301599	o
-301602	s
+301114	adv
+301116	o
+301125	o
+301136	o
+301141	o
+301144	adv
+301147	o
+301151	o
+301156	o
+301161	o
+301165	adv
+301170	adv
+301173	v
+301186	o
+301193	o
+301202	o
+301205	adv
+301213	apposition
+301215	o
+301223	o
+301226	adv
+301235	o
+301238	s
+301241	adv
+301246	o
+301254	o2
+o2
+301257	o
+301269	o
 s
-301606	adv
-301621	adv
-301629	s
-301641	o
-301647	adv
-301654	o
-301664	o
-301680	o
-o
-o
-301696	o
-301701	adv
-301729	o
-301732	adv
-301737	adv
-301747	adv
-301771	apposition
-301783	apposition
-301794	adv
-301798	o
-301812	adv
-301816	adv
-301819	apposition
-301823	o
-aux
-301837	adv
-301840	adv
-301843	adv
-301871	adv
-301874	adv
-301882	adv
-301894	o
-301898	apposition
-o
-301901	adv
-301904	adv
+301274	s
 adv
+301282	adv
 apposition
-301914	s
-s
-301918	s
+301287	adv
+301291	o
+301300	o
+301305	s
 o
-301924	adv
-301926	adv
-301940	apposition
-301942	adv
-301950	adv
-301955	adv
-301973	s
-301987	o
-301989	o
-301998	adv
-302010	adv
-302019	s
+301318	o
+301332	adv
+301335	adv
+adv
+301347	o
+301355	adv
+adv
+301359	o
+301364	o
+301377	adv
+301382	o
+301390	o
+301392	adv
+301394	o
+301396	adv
+o
+301401	io
 io
-302024	o
-302028	io
-302049	adv
-302053	adv
-302055	adv
-302063	s
-s
-302075	apposition
-302078	adv
-302082	adv
-302096	s
-302099	adv
-302102	adv
-302108	adv
+301406	adv
+301413	apposition
+301421	apposition
+301426	o
+301430	s
+301437	o
+301452	o
+301458	adv
+301461	adv
+301464	o
 adv
-302114	adv
-302119	adv
-302123	s
-302126	o
-302129	adv
-302136	apposition
-302141	adv
-302143	adv
-302150	apposition
-apposition
-302154	adv
+301474	o
+301482	s
+301487	adv
+301491	o
+301505	adv
+301518	o
+301522	o
+adv
+301534	adv
+301536	s
+301538	adv
+301544	o
+301549	adv
+301552	adv
+301561	adv
+301568	apposition
+adv
+301585	s
+301592	o
+adv
+301608	o
+301617	apposition
+301623	o
+301631	adv
+301635	o
+301638	o
+301650	o
+301657	adv
+301670	o
+301675	adv
+301695	adv
+301702	o
+301704	adv
 o
-302158	adv
-302167	o
-302182	s
-302187	io
-302214	s
-302222	adv
-302229	adv
-302243	o
-302248	adv
-302257	adv
-302260	adv
-302266	adv
-302275	adv
+301707	adv
 adv
-302279	o
-302287	apposition
-302290	s
-302295	adv
-302300	o
-302307	o
-302312	o
-302318	adv
-302326	o
+301715	adv
+301721	adv
+apposition
+301726	apposition
+301731	apposition
+301735	o
+301739	apposition
+301742	o
+301749	adv
+301754	o
+301758	o
+301764	o2
+301780	o
+301788	o
+apposition
+301793	o
+apposition
+301800	o
+s
+301804	apposition
+301807	s
+301811	s
+301818	s
+301824	p
+301828	adv
+301833	adv
+301837	o
+301844	o
+o
+301849	o
+301857	adv
+301859	s
+301861	s
+301864	adv
+301891	o
 adv
-302329	adv
+301899	o
+301910	o
+301934	o
+301945	o
 adv
+301952	apposition
+s
+301961	o
+301965	o
+301975	adv
+301978	o
+301981	adv
+301994	adv
+301997	o
+302000	o
+302020	o2
+302032	o
+302035	o
+302050	adv
+302061	o
+302064	adv
+302071	apposition
+302081	o
+302086	o
+302092	o2
+302096	adv
+302101	adv
+302104	o
+302116	o
+302119	o
+302122	apposition
+302148	o
+302151	adv
+302166	o
+302175	adv
+302182	o
+302189	o
+p
+302212	o
+302216	adv
+302229	o
+302237	adv
+302248	o2
+302251	adv
+302264	adv
+302267	adv
+302270	adv
+302299	adv
+302309	apposition
+302316	s
+302327	adv
 302333	o
-apposition
-302336	adv
+302336	o2
+302345	o
+302348	io
+302350	adv
+302356	adv
 adv
-302353	adv
-302366	o
-adv
-302381	apposition
-302392	s
-302401	adv
-302414	adv
-302416	aux
-o
-302424	s
-302449	s
-302455	s
-302460	s
-302471	adv
-302478	io
-302497	adv
-302500	o
-apposition
-302510	o
+302359	o
+302364	o
+302367	apposition
+302369	o2
+302373	adv
+302377	aux
+o2
+302380	p
+302383	o
+302386	o
+302400	apposition
+302424	o
+302426	o
+302430	adv
+302442	o2
+302457	apposition
+302459	o
+302461	adv
+302474	io
+o2
+302480	adv
+302509	o
+302511	adv
 302514	adv
+302516	o
 302519	o
-o
-302530	adv
-302534	s
-302539	adv
-302545	adv
-302550	apposition
-302552	adv
-302606	o
-302609	adv
-302611	adv
-302622	adv
-apposition
-302628	adv
-302631	adv
-302641	adv
-adv
-302650	adv
-302656	o
-302661	adv
-302678	p
-302689	s
-302708	adv
-302712	o
-302719	adv
+302522	adv
+302524	o
+302528	s
 s
-302723	adv
-302727	adv
-302732	adv
-302736	adv
-302739	s
-302742	adv
-302764	adv
-302767	adv
-o
-302770	adv
-302772	o
-302788	o
-302795	adv
-302811	adv
-302816	adv
-302846	adv
-302854	apposition
-302856	o
-302863	o
-302866	adv
-302876	s
-302879	adv
-302901	s
-302905	s
+302544	adv
+302548	adv
+302551	adv
+302569	adv
+302572	s
+302574	s
 adv
-302913	adv
+302578	adv
+302592	s
+302594	adv
+302600	adv
+302610	o
+302613	adv
+302616	s
+302619	apposition
+302624	s
+302626	s
+302628	s
+302631	s
+o
+302638	s
+302642	s
+302647	adv
+302663	adv
+302670	o
+302672	s
+302679	apposition
+302686	adv
+302688	o
+302693	o2
+302695	o
+302698	o
+302700	o
+302702	o
+adv
+302706	adv
+302712	o2
+302715	s
+302717	o2
+o
+apposition
+o
+302723	apposition
+302734	o
+302744	o
+302746	p
+302751	adv
+302754	o2
+302756	s
+302762	adv
+p
+p
+302770	o
+302780	adv
+adv
+o
+302787	o
+302791	adv
+302799	o
+o
+adv
+302806	o
+302809	adv
+302811	o2
+302817	o
+302822	o
+302826	o
+302833	apposition
+302847	o
+302849	s
+adv
+adv
+302853	o2
+302862	io
+302865	aux
+302867	apposition
+302870	s
+adv
+302875	adv
+302878	o
+s
+302882	adv
+302885	o
+302893	adv
+302895	o
+302899	adv
+302903	adv
+302911	adv
+302913	s
 apposition
 302918	adv
-302922	o
-302930	o
-302935	s
+302920	s
 o
-302959	adv
-302962	adv
+302925	adv
+302929	s
+302932	adv
+302935	adv
+302939	o
+s
+s
+302943	adv
 adv
-302973	o
-302980	adv
-adv
-302984	o
+302951	s
+o
+302958	adv
+302960	apposition
+302963	adv
+302968	adv
+302970	adv
+302973	p
+302976	adv
+302979	o
 302988	o
-303001	adv
-303014	adv
-303017	adv
-303021	io
-io
-303026	adv
-303033	apposition
-303039	apposition
-303043	o
-303046	s
-303052	o
-303069	adv
-303072	adv
-303075	o
-adv
-303084	o
-303090	s
-303095	adv
-303110	adv
-303125	adv
-303136	adv
-303138	s
-303140	adv
-303145	o
-303149	adv
-303152	adv
-303161	adv
-303168	apposition
-adv
-303184	s
-303190	o
-adv
-303212	apposition
-303218	o
-303225	adv
-303229	o
-303248	adv
-303260	o
-303264	adv
-303282	adv
-303288	o
-303290	adv
+302990	s
+303015	o
 o
-303293	adv
-adv
-303301	adv
-303307	adv
+303020	adv
+303022	o2
+303035	io
+303040	o
+303044	adv
+303047	o
 apposition
-303312	apposition
-303317	apposition
-303320	o
-303324	apposition
-303327	o
-303334	adv
-303361	o
-303369	apposition
-303373	apposition
-303379	o
-s
-303383	apposition
-303386	s
-303390	s
-303397	s
-303403	p
-303406	adv
-303409	adv
-303413	o
-303430	adv
-303432	s
-303434	s
-303437	adv
-303463	adv
-303470	o
-303511	o
+303051	adv
 adv
-303518	apposition
+303065	o
+303071	apposition
+303074	adv
+303081	o
+303087	adv
+303089	o
+303094	apposition
+apposition
+303099	o
+303105	o
+303107	adv
+303113	adv
+303117	p
+303123	s
 s
-303537	adv
+303127	adv
+303130	o
+303137	adv
+303140	adv
+303146	adv
+apposition
+o
+303150	o
+303155	adv
+apposition
+303158	adv
+303164	adv
+303166	aux
+303170	s
+303175	apposition
+adv
+303178	apposition
+apposition
+303181	adv
+303188	adv
+303190	o
+303196	s
+303202	s
+303204	adv
+303208	apposition
+adv
+303212	s
+303218	o
+303224	p
+303228	adv
+s
+s
+303233	adv
+adv
+303239	adv
+303242	o
+303247	adv
+303252	adv
+303257	o
+303274	o
+303277	adv
+303291	o
+303303	p
+303308	s
+303311	aux
+303319	o
+303324	adv
+303330	o
+303335	o
+303339	o
+303353	adv
+303357	adv
+303366	o
+303375	o
+303383	o
+303387	aux
+303391	s
+adv
+adv
+303399	adv
+303403	adv
+303413	adv
+303416	adv
+303422	apposition
+303424	apposition
+adv
+adv
+303429	adv
+303432	o
+303449	adv
+303467	o2
+303471	o
+303473	s
+303478	o
+303494	o
+303496	p
+303507	adv
+303510	o
+303514	o
+303519	o
+303525	o
+303529	o
+303535	s
+303537	o
 303540	o
-303543	adv
-303556	adv
+303542	adv
+303548	s
+adv
+303553	o
+303557	o
 303559	o
-303562	o
-303606	adv
+303561	o
+303563	o
+303570	adv
+303572	o
+303583	o2
+303589	o
+303591	o2
+adv
+adv
+303595	adv
+303599	adv
+303613	s
+303615	adv
 303618	adv
-303624	apposition
-303645	adv
-303649	adv
-303662	o
-303665	o
-303668	apposition
-303693	o
-303696	adv
-303711	o
-303720	adv
-303727	o
-303734	o
+adv
+303625	s
+303629	o
+303632	o
+303635	o
+303643	o
+303646	s
+303654	o
+303657	adv
+303661	o
+303663	adv
+303666	adv
+303679	adv
+303681	adv
+303683	adv
+303686	o
+303693	adv
 p
-303759	adv
-303777	adv
-303788	o2
-303791	adv
-303803	adv
-303806	adv
-303809	adv
-303836	adv
-303846	apposition
-303853	s
-303863	adv
-303868	o
-303880	io
-303882	adv
+303696	o
+303699	o
+303702	adv
+303704	o
+303706	apposition
+adv
+303722	o
+303729	adv
+303732	o
+303735	o
+303737	apposition
+adv
+303748	o
+303750	o2
+303753	adv
+303755	adv
+303759	o
+303764	o
+303767	o
+303770	o
+303773	o
+303775	o
+303784	o
+303787	adv
+303791	o
+o
+303795	o
+303797	adv
+303804	o
+303807	adv
+303811	adv
+303813	p
+303820	o
+303822	s
+s
+303826	apposition
+adv
+303829	o2
+303835	o
+303839	aux
+303842	s
+303861	o
+303863	o
+303868	adv
+303870	adv
+303874	adv
 303888	adv
 adv
-303895	apposition
-303900	adv
-303904	aux
-303906	p
-303909	o
-303925	apposition
-303950	o
-303954	adv
-303978	apposition
+303898	o
+303901	o
+303908	o2
+303912	adv
+303915	o
+303920	adv
+303925	o
+o
+303928	adv
+303940	apposition
+303952	adv
+303960	p
+303965	o
+303974	o
+303979	o
 303981	adv
-303993	io
-303998	adv
-304023	o
-304025	adv
-304028	adv
-304034	adv
-304039	s
-s
-304054	adv
-304057	adv
-304060	adv
-304074	adv
-304077	s
-304079	s
 adv
-304083	adv
-304094	s
-304096	adv
-304102	adv
-304114	adv
-304117	s
-304120	apposition
-304125	s
-304127	s
-304129	s
-304132	s
+303985	adv
+adv
+303993	adv
+303998	o
+304002	o
+304005	apposition
 o
-304139	s
-304143	s
-304147	adv
-304163	adv
-304170	s
-304177	apposition
-304184	adv
-304190	o
-304193	o
-304195	o
-304197	o
+304014	adv
+304019	o
+304027	adv
+304030	o
+304034	s
 adv
-304201	adv
-304206	o2
-304209	s
-304211	o
-apposition
-304215	apposition
-304233	o
-304235	p
-304240	adv
-304243	o2
-304245	s
-304251	adv
-p
-p
-304259	o
-304268	adv
-adv
+304039	o
 o
-304275	o
-304278	adv
-304286	o
-adv
-304294	adv
-304300	o
-304305	o
-304309	o
-304316	apposition
-304326	o
-304328	s
-adv
-adv
-304340	io
-304343	aux
-304345	apposition
-304348	s
-adv
-304352	adv
-304355	o
-s
-304359	adv
-304368	adv
-304373	adv
-304377	adv
-304384	adv
-304386	s
 apposition
-304391	adv
-304393	s
-o
-304398	adv
-304401	s
-304404	adv
-304407	adv
-304410	s
-s
-304413	adv
-adv
-304420	s
-o
-304427	adv
-304429	apposition
-304432	adv
-304437	adv
-304439	adv
-304442	p
-304445	adv
-304448	o
-304456	o
-304458	s
-304479	o
-304483	adv
-304495	io
-304502	adv
-304505	o
-apposition
-304509	adv
-adv
-304527	apposition
-304530	adv
-304537	o
-304543	adv
-304548	apposition
-apposition
-304559	adv
-304564	adv
-304568	p
-304574	s
-s
-304578	adv
-304581	o
-304587	adv
-304590	adv
-304596	adv
-apposition
-304599	o
-304603	adv
-apposition
-304606	adv
-304612	adv
-304614	aux
-304618	s
-304623	apposition
-adv
-304626	apposition
-apposition
-304629	adv
-304636	adv
-304642	s
-304647	s
-304649	adv
-304652	apposition
-adv
-304656	s
-304662	o
-304667	p
-304671	adv
-s
-s
-304676	adv
-adv
-304682	adv
-304685	o
-304690	adv
-304694	adv
-304713	o
-304716	adv
-304729	o
-304740	p
-304744	s
-304747	aux
-304759	adv
-304767	o
-304771	o
-304784	adv
-304788	adv
-304814	aux
-304818	s
-adv
-adv
-304826	adv
-304830	adv
-304840	adv
-304843	adv
-304849	apposition
-304851	apposition
-adv
-adv
-304856	adv
-304859	o
-304876	adv
-304897	s
-304914	o
-304916	p
-304926	adv
-304938	o
-304941	o
-304947	s
-304949	o
-304953	adv
-304958	s
-adv
-304967	o
-304969	o
-304971	o
-304977	adv
-304979	o
-304995	adv
-adv
-304998	adv
-305002	adv
-305013	s
-305015	adv
-305018	adv
-adv
-305025	s
-305031	o
-305043	s
-305050	o
-305053	adv
-305057	o
-305059	adv
-305062	adv
-305075	adv
-305077	adv
-305079	adv
-305088	adv
-p
-305091	o
-305094	o
-305097	adv
-305100	apposition
-adv
-305122	adv
-305125	o
-305128	o
-305130	apposition
-adv
-305142	adv
-305144	adv
-305147	o
-305151	o
-305155	o
-305166	o
-305169	adv
-305173	o
-305176	o
-305178	adv
-305185	o
-305188	adv
-305191	adv
-305193	p
-305201	s
-s
-305205	apposition
-adv
-305212	o
-305216	aux
-305219	s
-305235	o
-305237	o
-305242	adv
-305244	adv
-305248	adv
-305261	adv
-adv
-305273	o
-305283	adv
-305290	adv
-305295	o
-o
-305298	adv
-305306	apposition
-305317	adv
-305325	p
-305337	o
-305342	o
-305344	adv
-adv
-305348	adv
-adv
-305355	adv
-305360	o
-305364	o
-305367	apposition
-305375	adv
-305379	o
-305386	adv
-305389	o
-305393	s
-adv
-305398	o
-apposition
-305406	adv
-305411	apposition
+304048	adv
+304053	apposition
 o2
-305414	o
+304056	o
 adv
-305418	adv
+304060	adv
 adv
-305430	adv
-305443	adv
+304072	adv
+304074	o
+304086	adv
 adv
-305451	adv
+304095	adv
 o
 apposition
 adv
 o
-305460	s
-305464	apposition
-305477	adv
+304104	s
+304108	apposition
+304115	o
+304123	adv
 s
-305483	adv
-305485	apposition
-305488	o
-305495	adv
-305499	o
-305502	adv
-305518	apposition
-305524	o
-305527	adv
-305532	o
-305536	adv
-305540	apposition
+304129	adv
+304131	apposition
+304134	o
+304141	adv
+304145	o
+304148	adv
+304166	apposition
+304172	o
+304175	o
+adv
+304181	o
+304186	adv
+304190	apposition
 o
-305552	apposition
+304197	o
+304200	o2
+304205	apposition
 adv
-305558	o
-305576	adv
+304212	o
+o
+304227	o
+304232	adv
 adv
-305580	s
+304236	s
 s
-305584	adv
-305586	adv
-305598	apposition
-305604	adv
-305610	o
+304240	adv
+304243	adv
+304255	apposition
+304262	adv
+304267	o2
+304269	o
 o
-305616	adv
-305619	s
-305629	adv
-305635	adv
-305639	adv
-305641	o
-305645	s
-305647	s
+304275	adv
+304278	s
+304291	adv
 o
-305659	s
-o
-305663	o
-305669	o
+304298	adv
+304302	o
 adv
-305674	adv
-305690	s
-adv
-305693	o
+304305	o
+304309	s
+304311	s
 o
-305700	adv
-305705	adv
+304327	s
+o
+304331	o
+304337	o
 adv
-305710	adv
-305719	s
-305722	adv
-305724	o
-305728	s
+304344	adv
+304357	o
+304362	s
+adv
+304365	o
+o
+304373	adv
+304380	adv
+adv
+304385	adv
+304389	o
+304396	s
+304399	adv
+304401	o
+304405	s
 s
 o
-305733	o
-305735	o
-305756	adv
+304410	o
+304412	o
+304433	adv
 o
-305772	o
-305774	o
+304451	o
+304454	o
 adv
-305777	o
-305794	o
-305798	adv
-305804	adv
+304458	o
+304477	o
+304481	adv
+304487	adv
+304489	adv
+304495	s
+304498	adv
+304503	adv
+304511	o
+aux
+304524	o
+304527	adv
+304535	adv
+304537	aux
+p
+304542	s
+304550	s
+304559	adv
+304565	adv
+adv
+adv
+304570	adv
+adv
+304575	adv
+304580	adv
+304596	adv
+adv
+adv
+304602	aux
+adv
+304605	adv
+adv
+304610	o
+304622	adv
+304624	o
+adv
+304627	o2
+304632	adv
+304635	adv
+304637	o2
+304643	adv
+304647	o
+304649	adv
+304656	adv
+304662	adv
+o
+304670	s
+304672	adv
+304678	apposition
+o
+304685	adv
+304687	adv
+304698	adv
+304703	adv
+304714	o2
+s
+304717	adv
+adv
+304725	o
+304727	o
+304737	o
+304742	adv
+304753	o
+304757	adv
+304762	adv
+adv
+304766	adv
+adv
+304787	o
+304792	o
+304799	adv
+304802	o
+304805	apposition
+304809	adv
+304811	adv
+304818	adv
+adv
+adv
+304823	o
+304834	o
+304836	o
+o
+304846	adv
+adv
+304853	o
+304860	adv
+304863	o2
+304865	adv
+304867	o
+304870	adv
+304878	adv
+304885	adv
+adv
+304888	o
+304894	adv
+304897	adv
+304899	adv
+304901	o
+304903	o
+o
+304910	apposition
+adv
+304923	apposition
+304935	o
+o
+304938	adv
+304955	p
+o
+304967	adv
+304972	adv
+304983	o
+304990	o
+304999	adv
+305003	o
+305014	adv
+305020	o
+305033	o
+305037	o
+305039	adv
+adv
+305043	adv
+305045	o
+o
+o
+305058	s
+adv
+305076	o
+305081	o
+305086	o
+305088	o2
+305092	adv
+305102	o2
+305105	adv
+305108	o
+adv
+s
+305114	o
+305126	o
+305129	o
+305133	o
+305137	adv
+305150	adv
+305173	o
+305177	adv
+adv
+305190	adv
+adv
+305194	adv
+305199	apposition
+305205	s
+o
+305216	o
+305224	apposition
+305228	adv
+305233	adv
+305257	apposition
+305260	o
+305271	adv
+305275	o
+305278	o
+o
+305287	adv
+305300	o2
+305308	adv
+adv
+305312	apposition
+o
+305317	o
+305329	o2
+305332	s
+305337	o
+305343	apposition
+305353	o
+305367	o
+adv
+305374	adv
+305382	o2
+305384	o
+305393	o
+305397	o
+305405	o
+305411	adv
+305417	s
+305421	o2
+adv
+adv
+305426	o
+305429	o
+o
+305432	adv
+305436	o
+305446	adv
+305467	apposition
+305469	apposition
+305472	adv
+305479	o
+305481	apposition
+adv
+adv
+305491	adv
+305494	s
+305499	apposition
+305511	adv
+305515	adv
+adv
+305528	apposition
+305542	o
+305553	p
+o
+305576	o
+305578	adv
+305587	adv
+305591	o
+adv
+305600	o
+305605	adv
+305609	o
+305624	s
+305634	adv
+305640	o
+305645	apposition
+adv
+305654	o
+305664	o2
+p
+305670	apposition
+305673	o
+305676	adv
+adv
+305689	adv
+adv
+305696	adv
+305701	o
+adv
+305709	adv
+305728	o
+305730	apposition
+apposition
+305736	apposition
+305740	adv
+305742	o2
+305745	apposition
+305752	s
+305762	o
+305768	o
+adv
+305780	apposition
+o
 305806	adv
-305812	s
-305815	adv
-305820	adv
-305827	aux
-305839	adv
-305845	adv
-305847	aux
-p
-305851	s
-305858	s
+305810	apposition
+305815	o2
+305822	s
+305835	o
+305838	o
+305845	s
 305866	adv
-305872	adv
+305875	apposition
+305889	adv
+305895	adv
+305898	aux
+305903	o
+305912	adv
+305916	io
+305923	o
+305937	o
 adv
-adv
-305877	adv
-adv
-305881	adv
-305886	adv
-305898	adv
-adv
-adv
-305903	aux
-adv
-305906	adv
-adv
-305911	o
-305920	adv
-305922	o
-adv
-305925	o2
-305929	adv
-305932	adv
-305938	adv
-305941	o
-305943	adv
-305949	adv
-305954	adv
-o
-305961	s
-305963	adv
-305969	apposition
-o
+305973	apposition
 305975	adv
-305977	adv
-305987	adv
-305991	adv
-306001	s
+305979	adv
+adv
+305985	adv
+305988	o
+305991	o
+305995	adv
 306003	adv
-adv
-306018	o
-306022	adv
-306033	o
-306037	adv
-306041	adv
-adv
-306045	adv
-adv
-306064	o
-306068	o
-306074	adv
-306077	o
-306080	apposition
-306083	adv
-306085	adv
-306091	adv
-adv
-adv
-306096	o
-306105	o
-306107	o
+306036	adv
+306053	io
+306057	o
+306063	s
 o
-306115	adv
-adv
-306126	adv
-306130	adv
-306132	o
-306135	adv
-306142	adv
-306147	adv
-adv
-306150	o
-306153	adv
-306156	adv
-306158	adv
-306160	o
-306162	o
-306168	apposition
-adv
-306181	apposition
+306081	o2
+306089	apposition
+306092	apposition
+o
+306097	apposition
+o
+306113	adv
+s
+306127	adv
+306131	o
+306164	s
+306167	o
+306177	apposition
 306191	o
-306193	adv
-306209	p
+306199	o
 o
-306221	adv
-306226	adv
-306237	o
-306251	adv
-306255	o
-306266	adv
-306287	adv
+306204	o
+306219	adv
+306226	apposition
+306237	adv
+306241	adv
 adv
-306291	adv
-306293	o
-306303	s
+306253	o
 adv
-306321	o
-306333	adv
-306344	adv
+306264	o
+306271	adv
+306280	adv
+adv
+306286	o
+306297	apposition
+306316	apposition
+306319	o
+306326	o
+306329	adv
+306335	apposition
+306339	adv
+306342	o
 306347	adv
-s
-306368	adv
-306381	adv
-306403	adv
-adv
-306415	adv
-adv
-306418	adv
-306423	apposition
-306428	s
-o
-306438	o
-306446	apposition
-306450	adv
-306455	adv
-306478	apposition
-306481	o
-306492	adv
-306496	o
-306499	o
-306506	adv
-306523	adv
-adv
-306527	apposition
-o
-306543	s
-306548	o
-306554	apposition
-306563	o
-306577	o
-adv
-306584	adv
-306592	o
-306600	o
-306604	o
-306611	o
-306617	adv
-306623	s
-306627	adv
-adv
-306631	o
-306634	o
-306636	adv
-306640	o
-306648	adv
-306664	apposition
-306666	apposition
-306669	adv
-306675	apposition
-adv
-adv
-306685	adv
-306688	s
-306693	apposition
-306705	adv
-306709	adv
-adv
-306720	apposition
-306734	o
-306743	p
-306762	adv
-306768	adv
-306772	o
-adv
-306785	adv
-306801	s
-306811	adv
-306817	o
-306822	apposition
-adv
-306840	o2
 p
-306845	apposition
-306849	adv
-adv
-306862	adv
-adv
-306869	adv
-306874	o
-adv
-306882	adv
-306899	o
-306901	apposition
+o
+o
+306355	apposition
+o
+306365	adv
+306372	o
+306392	apposition
+306413	o
+306432	apposition
+306447	apposition
+306458	adv
+306463	o
+306474	o
 apposition
-306906	apposition
-306910	adv
-306912	o2
-306915	apposition
-306922	s
-306935	o
+o
+apposition
+306499	adv
 adv
-306947	apposition
-306972	adv
-306976	apposition
-306986	s
-306999	o
-307002	o
-307007	s
-307028	adv
-307036	apposition
-307050	adv
-307055	adv
-307058	aux
-307061	o
-307070	adv
-307074	io
-307090	adv
-307122	apposition
+306503	o
+306526	adv
+s
+306534	apposition
+306538	adv
+306545	adv
+306549	adv
+adv
+306556	apposition
+adv
+306562	adv
+306566	adv
+306572	o
+306588	adv
+apposition
+306593	adv
+306596	adv
+306603	o
+p
+306608	adv
+306612	s
+apposition
+306615	adv
+306621	apposition
+306625	apposition
+306647	o
+306671	o
+s
+306677	apposition
+306680	adv
+306684	apposition
+306710	adv
+306731	apposition
+306734	apposition
+306739	adv
+306754	o
+306761	o
+306771	o
+306781	aux
+306804	apposition
+306815	adv
+306818	o
+306821	o
+o
+306831	o
+306838	s
+o
+306853	io
+306861	adv
+306875	adv
+306882	apposition
+306888	o
+306892	adv
+306900	o2
+306903	apposition
+306909	adv
+306912	adv
+306923	adv
+306938	adv
+306953	adv
+306958	o
+306960	adv
+306964	adv
+306976	o
+306979	adv
+306982	adv
+o
+306986	apposition
+306992	adv
+306995	o
+306997	apposition
+o
+307003	o
+307025	adv
+307028	apposition
+307031	aux
+307034	adv
+307044	apposition
+adv
+o
+307051	apposition
+307070	o
+307075	adv
+307083	o
+307088	o
+307104	o
+307114	adv
+307119	o
 307124	adv
-307128	adv
+307137	adv
+307139	adv
+307143	o
+307151	o
+307172	adv
+aux
+307183	o
+307199	s
+o
+307210	o
+307212	adv
+o
+307215	o
 adv
-307134	adv
-307137	o
-307142	adv
-307150	adv
-307182	adv
-307197	io
-307201	o
-307207	s
-307229	apposition
-307232	apposition
-307236	apposition
-307250	adv
+307228	apposition
+307231	adv
+307235	adv
+307240	adv
+307247	adv
+307271	o
+307279	adv
+adv
+adv
+307288	o
+307315	o
+307330	adv
+307336	o
+307341	o
+307344	adv
+307349	o
+307367	adv
+307372	adv
+307383	adv
+307388	apposition
+307403	adv
+307412	o
+adv
+o
 s
-307262	adv
-307266	o
-307298	s
-307301	o
-307311	apposition
-307323	o
-307331	o
-307347	adv
-307354	apposition
-307365	adv
-307369	adv
+307430	adv
+307438	o
 adv
-307379	adv
-307394	adv
-307402	adv
+307453	o
+307465	o
+307467	apposition
+307485	adv
+307489	o
+307502	adv
+307504	adv
 adv
-307417	apposition
-307434	apposition
-307444	adv
-307450	apposition
-307454	adv
-307457	o
-307462	adv
-p
-o
-307469	apposition
-o
-307478	adv
-307485	o
-307505	apposition
-307525	o
-307544	apposition
-307558	apposition
-307568	adv
-307582	o
-apposition
-o
-apposition
-307606	adv
+307509	adv
+307520	apposition
+307524	adv
+307529	o
 adv
-307632	adv
-s
-307640	apposition
+307532	adv
+307535	adv
+307540	o
+307544	o
+307546	adv
+307549	adv
+307551	adv
+307556	apposition
+307561	adv
+307564	adv
+o
+adv
+307608	adv
+307610	o
+307624	adv
+307634	adv
+307638	o
 307644	adv
-307651	adv
-307655	adv
 adv
-307662	apposition
-adv
-307667	adv
-307671	adv
-307692	adv
+307654	o
+307657	apposition
+307661	o
+307668	o
+307685	o
+307688	adv
 apposition
-307697	adv
-307700	adv
-307705	p
-307709	adv
-307713	s
-apposition
-307716	adv
-307722	apposition
-307726	apposition
-307748	o
-307771	o
-s
-307777	apposition
-307780	adv
-307784	apposition
-307809	adv
-307830	apposition
-307833	apposition
-307837	adv
-307858	o
-307874	aux
-307892	apposition
-307902	adv
-307906	o
+307703	o
+307706	adv
+307708	adv
+307712	o
+307721	s
+307727	o
+307730	adv
+307734	o
+307739	adv
+307746	o
+307750	adv
+307752	o
+307760	o
+307765	o
+307771	adv
+307776	adv
+307780	o
+307790	adv
+307793	s
+307796	adv
+307803	apposition
+307806	o
+307810	io
+307812	o
+307816	s
+307819	o
 o
-307915	o
-307921	s
-307933	io
-307940	adv
-307954	adv
-307961	apposition
-307969	adv
-307979	apposition
-307987	adv
-308011	adv
-308025	adv
-308030	adv
-308034	adv
-308047	adv
-308050	adv
+307822	o
+307825	adv
+307827	o
+307843	adv
+307847	o
+307860	adv
+adv
+307863	adv
+307868	o
+307878	o
+o
+adv
+adv
+307884	adv
+307888	o
+307892	adv
+adv
+307897	o
+307912	o
+o
+307934	adv
+307945	o
+307948	o
+307956	apposition
+adv
+o
+307968	adv
+307974	adv
+307983	o
+307988	o
+307997	o
+308002	o
+308012	s
+308017	o
+308046	o
 308052	apposition
-308058	adv
-308061	o
-308063	apposition
-308067	o
-308088	adv
-308091	apposition
-308094	aux
-308097	adv
-308107	apposition
 adv
 o
-308113	apposition
-308131	o
-308135	adv
-308143	o
-308162	o
-308172	adv
+308059	adv
+308068	o
+308081	adv
+adv
+308090	o2
+308096	o
+308099	o
+308101	adv
+adv
+308105	o
+308111	adv
+308116	adv
+308119	o2
+308125	s
+308146	adv
+308150	io
+308154	adv
+308161	apposition
+308167	adv
 308181	adv
-308193	adv
-adv
-308205	o
-308225	adv
-aux
-308236	o
-308251	s
+308184	o
+308191	o
+308204	adv
+308210	adv
 o
-308261	adv
-308263	adv
-308275	apposition
-308278	adv
-308282	adv
-308286	adv
-308293	adv
-308321	adv
-adv
-adv
-308329	o
-308362	adv
-308368	o
-308372	o
-308375	adv
-308380	o
-308396	adv
-308401	adv
-308412	adv
-308417	apposition
-308431	adv
-308440	o
-adv
+308220	adv
+308239	io
+308245	p
 o
+308250	s
+308259	apposition
+308282	apposition
+308297	adv
+308300	o
+308304	o
+308309	adv
+308313	adv
+308318	adv
+308320	s
+308326	adv
+308329	adv
+o
+308340	s
+308347	apposition
+308353	adv
+308356	adv
+adv
+308366	adv
+308370	adv
+308377	adv
+308381	adv
+adv
+308385	apposition
+adv
+308400	adv
+308410	o
+adv
+308413	o
 s
-308458	adv
-308465	o
-308488	apposition
-308518	adv
 adv
-adv
-308523	adv
-308532	apposition
-308536	adv
-308540	o
-adv
-308543	adv
-308546	adv
-308549	o
-308552	o
-308554	adv
-308557	adv
-308559	adv
-308564	apposition
-308569	adv
-308572	adv
+308421	s
+308424	o
+308428	apposition
 o
+o
+308432	o
+308437	io
+io
+308441	apposition
+308453	apposition
+308459	o
+308461	aux
+308463	aux
+308465	aux
+308467	aux
+308471	adv
+308477	o
+308495	s
+308508	adv
+308517	apposition
+308532	o
 adv
-308611	adv
-308625	adv
-308634	adv
-308638	o
-308644	adv
+308541	adv
 adv
-308654	apposition
-308657	o
-308663	o
-308678	o
-308681	adv
+308545	s
+s
+308550	s
+308560	adv
+308563	adv
+308600	adv
+308610	io
+308613	io
+308615	adv
+308634	apposition
+308645	adv
+308647	o
 apposition
-308692	o
-308695	adv
-308697	adv
-308708	s
-308716	adv
-308723	adv
-308733	adv
-308735	o
-308750	adv
-308754	adv
-308767	adv
-308770	s
-308773	adv
-308780	apposition
-308785	io
-308790	s
-308793	o
-308795	o
-308798	adv
+o
+308656	adv
+p
+308662	o
+apposition
+308669	adv
+308673	adv
+apposition
+308684	o
+308690	adv
+308705	adv
+308709	adv
+308717	adv
+s
+308722	adv
+308725	adv
+308728	adv
+308731	adv
+adv
+308736	adv
+308741	o
+308744	adv
+adv
+308748	adv
+308750	o
+adv
+adv
+308755	s
+308760	adv
+308762	o
+308782	o
+308785	adv
+308790	adv
+308793	adv
+308806	adv
+o
+308818	adv
 308823	adv
+308827	apposition
 adv
-308826	adv
-308840	o
+308836	adv
+308844	adv
+308847	adv
+308875	adv
+308886	o
+308892	o
+308896	s
+s
+308905	apposition
 o
-adv
-adv
-308846	adv
-308850	o
-308853	adv
-adv
-308857	o
-308871	o
-308890	adv
 308910	apposition
-adv
-o
-308921	adv
-308927	adv
-308934	o
-308945	o
+308925	apposition
+308929	s
+s
+308942	s
+308945	adv
+308948	adv
+308951	adv
+308954	adv
 308956	s
-308961	o
-308990	apposition
+308960	adv
+308964	adv
 adv
-o
-308997	adv
-309014	adv
+308971	o
+308974	adv
+308976	adv
 adv
-309030	adv
+308980	o
+308990	adv
+309001	adv
+309007	o
 adv
-309034	o
-309039	adv
-309044	adv
-309051	s
-309068	adv
-309072	io
-309075	adv
-309081	apposition
-309098	adv
-309106	o
-309121	adv
-309129	adv
-309147	io
-309153	p
-o
-309158	s
-309166	apposition
-309187	apposition
-309199	adv
-309202	o
-309208	adv
-309212	adv
-309217	adv
-309219	s
-309225	adv
-309228	adv
-309237	s
-309243	apposition
-309249	adv
-309252	adv
+309011	s
 adv
-309261	adv
-309264	adv
-309271	adv
-309275	adv
-adv
-309279	apposition
-adv
-309294	adv
-309303	o
-309305	o
-s
-adv
-309313	s
-309316	o
-309320	apposition
-o
-o
-309324	o
-309329	io
+309016	o
+309018	io
 io
-309333	apposition
-309344	apposition
-309349	o
-309351	aux
-309353	aux
-309355	aux
-309357	aux
-309361	adv
-309382	s
-309393	adv
-309401	apposition
-309415	o
+309025	adv
+309030	p
+309032	p
+309034	apposition
+309039	o
+309046	adv
+309053	adv
+309062	adv
+309077	o
+309094	adv
+309104	adv
+309106	apposition
+309109	io
+309119	o
+309124	o
+309131	o
+309140	apposition
+309150	s
+309154	adv
+309163	o
+309166	o
+309172	o2
+309177	o
+309200	adv
+309212	o
+309218	o
+309220	o
+309224	o
 adv
-309422	adv
 adv
+309232	o
+309239	adv
+309247	adv
+adv
+309257	adv
+309260	o
+309269	adv
+309279	adv
+adv
+309283	adv
+309286	adv
+309297	o
+309305	adv
+309310	adv
+adv
+309314	adv
+309319	adv
+309322	adv
+o
+309327	o
+s
+309331	adv
+309338	adv
+adv
+309342	adv
+309366	apposition
+309369	adv
+309376	apposition
+309380	o
+309383	s
+309385	s
 s
 s
-309428	s
-309435	adv
+s
+309395	o
+309403	adv
+309406	o
+309410	adv
+309412	adv
+309421	adv
+s
+309426	s
+s
 309438	adv
-309472	adv
-309482	io
-309485	io
-309487	adv
-309506	apposition
-309516	adv
-309518	o
-apposition
+309444	adv
+309455	adv
 o
-309527	adv
-p
-309533	o
-apposition
-309540	adv
-309544	adv
-apposition
-309555	o
-309560	adv
-309572	adv
-309576	adv
-309584	adv
+309459	s
+309463	aux
+309466	adv
+309473	o
+309475	adv
+309489	o
+309492	s
+309496	s
+o
 s
-309589	adv
-309592	adv
-309595	adv
-309598	adv
-adv
-309603	adv
-309608	o
-309611	adv
-adv
-309615	adv
-309617	o
-adv
-adv
-309622	s
-309626	adv
-309628	o
-309645	o
-309648	adv
-309653	adv
-309656	adv
-309669	adv
 o
+309502	aux
+309513	s
+309517	s
+309522	s
+309539	adv
+309548	o
+309557	aux
+309559	o
+309563	aux
+309566	adv
+309575	s
+309583	apposition
+309585	s
+309588	s
+309594	s
+309620	adv
+309636	adv
+309639	adv
+apposition
+309642	adv
+309647	adv
+adv
+309652	adv
+309657	adv
+adv
+309661	adv
+309671	adv
+309676	o
 309679	adv
-309683	adv
-309687	apposition
+309686	adv
+309699	apposition
+309701	apposition
+309710	o
+309724	apposition
+309731	apposition
+309735	apposition
 adv
-309695	adv
-309702	adv
-309705	adv
-309731	adv
-309741	o
-309747	o
-309751	s
-s
-309760	apposition
+adv
+309741	adv
+309745	o
+309748	adv
+309758	o
+309762	o
+309765	adv
+309769	adv
+309783	o
+309791	o
+309797	adv
+adv
+309800	apposition
+adv
 o
-309765	apposition
-309780	apposition
-309784	s
+309806	adv
+309808	s
+309812	adv
+309815	adv
+309819	apposition
+309822	apposition
+309829	io
+309837	adv
+309839	adv
+309848	adv
+adv
+309876	o
+309888	s
 s
-309795	s
-309798	adv
-309801	adv
-309804	adv
-309807	adv
-309809	s
-309813	adv
-309817	adv
+309900	apposition
+309913	adv
+o
+309916	adv
+309919	adv
+309922	adv
+309925	adv
+309938	p
+309942	o
+309951	adv
+309953	o
+309961	s
+309964	adv
+309972	o
+309982	adv
+309988	adv
 adv
-309824	o
-309827	adv
-309829	adv
-adv
-309833	o
-309842	adv
-309853	adv
-309859	o
-adv
-309863	s
-adv
-309867	o
-io
-io
-309875	adv
-309880	p
-309882	p
-309884	apposition
-309887	o
-309893	adv
-309899	adv
-309908	adv
-309920	o
-309937	adv
-309946	adv
-309948	apposition
-309951	io
-309961	o
-309980	apposition
-309988	s
 309992	adv
-310001	o
-310010	o
-310032	adv
-310044	o
-310050	o
-310055	adv
-adv
-310062	o
-310069	adv
-310077	adv
-adv
-310086	adv
-310089	o
-310097	adv
-310107	adv
-adv
-310111	adv
-310114	adv
-310129	adv
-310134	adv
-adv
-310138	adv
-310143	adv
-310146	adv
+310018	adv
+310025	adv
+310033	adv
+s
+310037	adv
 o
-310151	s
-310154	adv
+adv
+310042	o
+310044	adv
+adv
+310052	o
+adv
+310057	o
+310070	o
+310073	adv
+310075	o
+adv
+310080	adv
+aux
+310091	s
+310099	o
+310118	o
+310124	o
+s
+310130	s
+310133	s
+310136	adv
 310161	adv
+310173	o
+310178	adv
+310182	io
+310199	adv
+310205	o
+310208	o
+310233	adv
+310242	o
+s
+310250	adv
+310253	adv
+310260	o
+310263	p
+s
+p
+s
+p
+s
+p
+s
+p
+310282	s
+310284	adv
+310288	s
+310305	s
+s
+310310	adv
+310318	o
+310324	adv
+310333	adv
+310338	adv
+310343	adv
+310348	adv
 adv
-310165	adv
-310188	apposition
-310191	adv
-310197	apposition
-310201	s
-310203	s
+310359	apposition
+310369	adv
+adv
+310380	adv
+310385	adv
+310390	adv
+310410	adv
 s
 s
+adv
+310415	adv
+adv
+310427	o
+310429	s
 s
-310211	o
-310218	adv
-310223	adv
-310225	adv
-310234	adv
-s
-310239	s
-s
-310251	adv
-310256	adv
-310264	adv
-o
-310268	s
-310271	aux
-310274	adv
-310280	o
-310282	adv
-310296	o
-310299	s
-310302	s
-o
-s
-o
-310308	aux
-310318	s
-310321	s
-310326	s
-310341	adv
-310350	o
-310359	aux
-310361	o
-310364	aux
-310367	adv
-310376	s
-310384	apposition
-310386	s
-310389	s
-310393	s
-310417	adv
-310432	adv
-310435	adv
-apposition
+310432	io
 310438	adv
-310443	adv
-adv
-310448	adv
 310452	adv
-adv
-310456	adv
-310466	adv
-310471	o
-310474	adv
+310455	adv
+310463	adv
+310469	adv
+310471	adv
+310473	adv
+310475	adv
+310478	adv
 310480	adv
-310493	apposition
-310495	apposition
-310504	o
-310518	apposition
-310525	apposition
-310529	apposition
+aux
+310483	adv
+310490	adv
+310494	adv
 adv
-adv
-310535	adv
-310539	o
-310542	adv
-310550	o
-310554	o
-310557	adv
-310561	adv
-310573	o
-310580	o
-310584	adv
-adv
-310587	apposition
-adv
+310504	adv
+310516	adv
+310525	adv
+310528	adv
+310531	adv
+310537	s
 o
-310593	adv
-310595	s
-310599	adv
-310602	adv
-310606	apposition
-310609	apposition
-310615	io
-310622	adv
+310540	adv
+310543	adv
+310553	adv
+310558	s
+310594	adv
+310603	adv
+310607	adv
+310610	adv
+310615	adv
+310621	adv
 310624	adv
-310632	adv
-adv
-310665	s
+310627	adv
 s
-310676	apposition
-310686	adv
-310688	adv
-310691	adv
-310694	adv
-310697	adv
-310708	p
-310711	o
-310719	adv
-310721	o
-310729	s
-310732	adv
-310739	o
-310748	adv
-310754	adv
+310642	adv
+310647	adv
+310649	adv
 adv
-310758	adv
-310781	adv
+310659	adv
+310683	o
+310689	adv
+310691	o
+310695	o
+adv
+310711	s
+310721	adv
+310726	adv
+adv
+310730	adv
+310735	adv
+310738	adv
+310742	adv
+310744	adv
+310754	apposition
+310767	adv
+310776	o
+310783	o
 310787	adv
+310789	adv
+310792	adv
 310795	adv
+310802	o2
+310808	io
+adv
+310822	p
+310850	adv
+310856	adv
+310867	o
+310869	o
+310876	adv
+310882	adv
+310888	adv
+310899	s
+310903	s
+310905	s
+310908	s
+310917	s
 s
-310799	adv
-o
-adv
-310804	o
-310806	adv
-adv
-310814	adv
-310829	o
-310832	adv
-310834	o
-adv
-310839	adv
-aux
-310850	s
-310858	o
-310877	o
-310883	o
-s
-310889	s
-310892	s
-310895	adv
-310918	adv
-310932	adv
-310936	io
+310920	adv
+310935	adv
+310940	s
 310952	adv
-310958	o
-310961	o
-310983	adv
-310992	o
 s
-311000	adv
-311003	adv
-311010	o
-311013	p
-s
-p
-s
-p
-s
-p
-s
-p
-311030	s
-311032	adv
-311035	s
-311050	s
-s
-311055	adv
-311062	o
-311067	adv
-311075	adv
-311080	adv
-311085	adv
+310957	o
+310960	s
+adv
+310978	s
+310988	adv
+310991	adv
+311004	o
+311011	o
+311038	adv
+311061	o
+311068	o
+o
+311074	o2
+adv
 311090	adv
-adv
-311099	apposition
-311109	adv
-adv
-311120	adv
-311125	adv
-311130	adv
-311150	adv
-s
-s
-adv
-311155	adv
-adv
-311165	o
-s
-s
-311169	io
-311174	adv
-311186	adv
-311189	adv
-311197	adv
-311201	adv
-311203	adv
-311205	adv
-311207	adv
-311210	adv
-311212	adv
-aux
-311215	adv
-311221	adv
-311224	adv
-adv
-311233	adv
-311244	adv
-311251	adv
-311254	adv
-311257	adv
-311263	s
+311103	o
 o
-311266	adv
-311269	adv
-311278	adv
-311283	s
-311316	adv
-311323	adv
-311326	adv
-311329	adv
-311333	adv
-311339	adv
-311342	adv
-311345	adv
+311107	adv
+311113	adv
+adv
+311118	adv
+311127	adv
+311133	adv
+311136	adv
+311142	adv
+adv
+311153	o
 s
-311360	adv
-311364	adv
-311366	adv
-adv
-311375	adv
-311395	o
-311401	adv
-311406	adv
-311420	s
-311429	adv
-311434	adv
-adv
-311438	adv
-311443	adv
-311445	adv
-311449	adv
-311451	adv
-311461	apposition
-311473	adv
-311489	adv
-311491	adv
-311494	adv
-311497	adv
-311509	io
-adv
-311545	adv
-311551	adv
-311565	adv
-311569	adv
-311575	adv
-311585	s
-311589	s
-311591	s
-311594	s
-311602	s
-s
-311605	adv
-311617	adv
-311621	s
-311631	adv
-s
-311636	o
-311639	s
-adv
-311652	s
-311662	adv
-311665	adv
-311676	o
-311681	o
-311703	adv
-311720	o
-311726	o
-o
-311732	adv
-311745	adv
-311757	o
-o
-311761	adv
-311766	adv
-adv
-311771	adv
-311779	adv
-311785	adv
-311788	adv
-311793	adv
-adv
-311803	o
-s
-311808	adv
+311158	adv
 io
 adv
-311813	s
-311815	adv
-311819	adv
-311834	apposition
+311163	s
+311165	adv
+311169	adv
+311186	apposition
 adv
-311839	adv
-311856	adv
-311864	adv
-311867	o
-311880	apposition
-311885	apposition
-311888	adv
-311893	adv
+311191	adv
+311212	adv
+311214	o
+311223	adv
+311226	o
+311241	apposition
+o
+311248	apposition
+311251	adv
+311258	adv
 adv
-311901	adv
+311268	adv
 s
-311905	adv
-311913	adv
-311922	adv
+311273	adv
+311282	adv
+311292	adv
 o
-311934	o
+311306	o
 o
-311942	o
-311947	adv
-311962	apposition
+o
+311316	o
+311322	adv
+311338	apposition
 apposition
-311966	apposition
-311968	adv
+311342	apposition
+311344	adv
 adv
-311972	adv
-311974	adv
+311348	adv
+311350	adv
 apposition
-311978	adv
+311354	adv
 adv
-311982	apposition
+311358	apposition
 adv
 adv
-311989	apposition
-311993	adv
-311998	adv
+311366	apposition
+311372	adv
+311377	adv
 o
 adv
-312003	adv
-312012	adv
-312016	apposition
-312024	s
+311382	o
+adv
+311392	adv
+311396	apposition
+311404	s
 apposition
-312028	o
-312034	apposition
-312037	adv
+311408	o
+311415	apposition
+311418	adv
 p
 adv
 p
+311424	adv
+o
+311433	adv
+311435	adv
+o
+311442	adv
+adv
+311450	adv
+311458	adv
+311461	apposition
+adv
+311471	adv
+o
+311482	adv
+adv
+311495	adv
+apposition
+311499	adv
+311502	s
+311505	adv
+s
+s
+311519	adv
+311537	adv
+311556	adv
+311560	o
+311565	apposition
+311573	adv
+adv
+adv
+311577	s
+311589	o
+o
+311594	s
+s
+311598	adv
+adv
+311602	adv
+311607	adv
+311610	s
+apposition
+311616	o
+311622	adv
+311637	adv
+311639	adv
+adv
+s
+311651	adv
+311657	apposition
+311666	o
+adv
+311670	adv
+311707	adv
+311714	o
+311722	adv
+adv
+311738	adv
+311742	o
+311745	adv
+adv
+o
+311752	adv
+311759	apposition
+311772	o
+311780	o2
+311786	apposition
+adv
+311790	adv
+311794	adv
+adv
+311798	adv
+311802	o
+adv
+311813	adv
+adv
+311820	adv
+adv
+311823	adv
+311829	adv
+adv
+311833	s
+s
+311837	apposition
+adv
+311841	apposition
+adv
+311844	apposition
+311858	s
+adv
+311873	adv
+311876	adv
+311880	s
+s
+311894	o
+311898	s
+io
+311909	o
+311911	adv
+311918	o2
+311924	adv
+adv
+311933	adv
+311938	adv
+311950	adv
+311954	adv
+311957	s
+311960	aux
+311981	s
+311990	adv
+312002	adv
+312015	adv
 312043	adv
+312063	apposition
+312074	apposition
 o
-312052	adv
-312054	adv
-o
-312061	adv
-adv
-312067	adv
-312074	adv
-312077	apposition
-adv
-312086	adv
+312086	o
+312090	o
 312096	adv
-312107	adv
-apposition
-312111	adv
-312114	s
-312117	adv
-s
-s
-312131	adv
-312146	adv
-312160	adv
-312165	apposition
-312173	adv
+312109	adv
 adv
 adv
-312177	s
-312187	o
-o
-312192	s
-s
-312196	adv
-adv
-312200	adv
-312205	adv
-312208	s
-apposition
+312113	o
+312116	o
+312120	adv
+312125	adv
+312132	adv
+312137	adv
+312149	adv
+312166	o
+312190	adv
+312207	o
 312213	o
-312219	adv
-312233	adv
-312235	adv
+312227	adv
+312236	apposition
+312238	apposition
+312240	apposition
+312245	p
+312255	o
+312261	adv
+312264	apposition
+o
+312270	adv
+312276	s
 adv
+312282	adv
+312292	o
 s
-312246	adv
-312250	apposition
-312258	o
+312300	io
 adv
-312262	adv
-312294	adv
-312305	adv
+312307	adv
+312315	s
+312319	adv
+312321	s
+apposition
+312324	apposition
 adv
-312317	adv
-312320	adv
+312339	adv
+312348	o2
+312353	adv
 adv
-312326	adv
-312333	apposition
-312350	o2
-312355	apposition
 adv
 312359	adv
-312362	adv
+312367	adv
+312374	apposition
+312386	adv
+312389	s
 adv
-312366	adv
-312370	o
+312393	o
+312396	o
+o
+312404	o
+312406	adv
+312409	s
 adv
-312381	adv
-adv
-312388	adv
-adv
-312391	adv
-312395	adv
-adv
-312399	s
-s
-312403	apposition
-adv
-312407	apposition
-312409	apposition
-312421	s
-adv
-312431	adv
-312434	adv
-312438	s
-s
-312450	s
+312414	s
+312418	adv
+312452	apposition
+312456	adv
 io
-312461	o
 312463	adv
-312472	adv
+312483	adv
+312489	adv
+312499	adv
+312503	o
+312507	o
+312520	adv
+312522	adv
 adv
-312479	adv
-312484	adv
-312495	adv
-312501	s
-312504	aux
-312520	s
-312528	adv
-312539	adv
-312551	adv
-312574	adv
-312595	apposition
-o
-312611	adv
-312621	adv
+312528	o
 adv
-adv
-312625	o
-312631	adv
-312636	adv
-312643	adv
-312648	adv
-312659	adv
-312674	o
-312694	adv
-312707	o
-312713	o
-312726	adv
-312734	apposition
-312736	apposition
-312738	apposition
-312742	p
-312754	adv
-312757	apposition
-o
-312763	adv
-312768	s
-adv
-312774	adv
-312784	o
-s
-312792	io
-adv
-312799	adv
-312804	s
-312807	adv
-312809	s
-apposition
-312812	apposition
-adv
-312824	adv
-312834	adv
-adv
-adv
-312840	adv
-312847	adv
-312854	apposition
-312864	adv
-312867	s
-adv
-312871	o
-312874	o
-o
-312882	o
-312884	adv
-312887	s
-adv
-312892	s
-312894	adv
-312925	apposition
-312929	adv
-io
-312936	adv
-312953	adv
-312957	adv
-312966	adv
-312970	o
-312974	o
-312983	adv
-312985	adv
-adv
-312991	o
-adv
-312997	adv
-313005	aux
-313008	adv
-313019	apposition
+312534	adv
+312544	aux
+312547	adv
+312559	o
+312561	apposition
 aux
-313022	s
-313027	adv
+312564	s
+312569	adv
 s
-313039	adv
+312573	o2
+312582	adv
 adv
-313043	o
-313055	o
-313058	s
+312586	o
+312598	o
+312601	s
 adv
-313066	s
-313072	adv
-313075	adv
-313084	adv
-313086	adv
-313093	o
+312610	s
+312616	adv
+312619	adv
+312628	adv
+312630	adv
+312638	o
 s
-313100	adv
-313104	adv
-313117	s
+312646	adv
+312650	adv
+312664	s
 adv
-313122	adv
+312669	adv
 adv
 s
 s
-313143	adv
-313152	apposition
-313155	apposition
-313162	apposition
-313165	adv
-313167	apposition
-313177	apposition
-313179	adv
-313185	apposition
-313196	o
+312689	o2
+312693	adv
+312703	apposition
+312706	apposition
+312710	adv
+312714	apposition
+312717	adv
+312719	apposition
+312729	apposition
+312731	adv
+312739	apposition
+312753	o
 apposition
-313203	apposition
-313206	apposition
+312760	apposition
+312763	apposition
 adv
-313218	apposition
-313220	adv
+312777	apposition
+312779	adv
 apposition
-313223	apposition
+312782	apposition
 apposition
 adv
-313230	adv
+312789	adv
 adv
-313233	adv
-313236	aux
+312792	adv
+312795	aux
 apposition
-313250	s
+312808	o
+312811	s
 adv
-313257	adv
-313260	adv
+312818	adv
+312821	adv
 adv
-313266	apposition
-313272	adv
+312826	o
+312828	apposition
+312835	adv
 apposition
 apposition
-313277	adv
-313283	s
-313285	io
-313290	io
-313297	adv
-313301	adv
+312840	adv
+312847	s
+312850	io
+312853	o
+312856	io
+312863	adv
+312867	adv
 adv
-313306	adv
-313310	adv
-313313	adv
-313320	adv
-313327	s
-313330	adv
-313334	aux
-313339	adv
-313345	adv
+312872	adv
+312876	adv
+312879	adv
+312886	adv
+312894	s
+312897	adv
+312901	aux
+312904	o
+312907	adv
+312912	adv
+312914	adv
 adv
 adv
-313350	adv
-313354	adv
-313357	adv
-313359	s
-313361	adv
+312920	adv
+312925	adv
+312928	adv
+312931	s
+312933	adv
 adv
-313370	adv
+312942	adv
 o
-313382	adv
+312959	adv
 adv
+adv
+312965	adv
+312971	adv
+312973	adv
+312976	apposition
+312979	adv
+adv
+adv
+312990	apposition
+312993	o
+adv
+312998	adv
+313001	adv
+313003	o
+adv
+313007	adv
+adv
+313013	o
+313024	adv
+313028	s
+s
+313032	adv
+s
+313043	s
+313046	adv
+adv
+313050	adv
+adv
+313067	o
+313070	adv
+313077	o
+313080	adv
+adv
+313084	p
+313088	adv
+313091	adv
+313102	adv
+313110	adv
+313116	adv
+313118	adv
+313122	adv
+313125	o
+313130	adv
+313133	adv
+313140	adv
+313147	apposition
+adv
+313163	adv
+adv
+313170	adv
+313184	o
+313189	p
+313209	apposition
+313219	adv
+o
+313222	s
+adv
+313226	adv
+313235	adv
+313238	adv
+313242	apposition
+313260	apposition
+apposition
+adv
+313266	adv
+apposition
+313269	adv
+adv
+apposition
+313282	adv
+313284	apposition
+313287	apposition
+apposition
+313291	apposition
+313295	adv
+313297	adv
+313307	adv
+313312	p
+313314	apposition
+313324	adv
+313329	adv
+adv
+313334	adv
+313340	adv
+313347	apposition
+313349	adv
+313353	adv
+313355	adv
+313366	adv
+313372	adv
+313374	adv
+313376	o
+313381	s
+313383	adv
+313385	adv
 adv
 313388	adv
-313394	adv
-313396	adv
+313393	adv
 313399	apposition
-313402	adv
+apposition
+313403	adv
+313406	adv
+313414	o
+313420	o
+313431	adv
+313434	adv
+313439	adv
+313443	apposition
+apposition
+313447	adv
 adv
-adv
-313412	apposition
-313415	o
-adv
-313420	adv
-313423	adv
-313425	o
-adv
-313429	adv
-adv
-313435	o
-313445	adv
-313449	s
-s
-313453	adv
-s
-313463	s
-313466	adv
-adv
-313469	adv
-adv
-313483	o
-313486	adv
-313492	o
-313495	adv
-adv
-313499	p
-313503	adv
-313506	adv
-313516	adv
-313522	adv
-313527	adv
-313529	adv
-313533	adv
-313535	o
-313540	adv
-313543	adv
-313548	adv
-313554	apposition
-adv
-313567	adv
-adv
-313574	adv
-313586	o
-313590	p
-313609	apposition
-313619	adv
+313452	o
+313454	adv
+apposition
+313458	adv
 o
-313622	s
 adv
-313634	adv
-313636	adv
-313640	apposition
-313658	apposition
-apposition
+313474	apposition
+313476	adv
 adv
-313663	adv
+313479	apposition
+313483	apposition
+313486	apposition
+313490	apposition
+313492	adv
+313500	adv
+313516	o
+313523	o
+313529	adv
+313532	s
+313538	adv
+313540	adv
+313549	adv
+313553	adv
+adv
+o
+adv
+313563	o
+313566	apposition
+adv
+313575	s
 apposition
-313666	adv
+313579	adv
+313585	adv
+313590	adv
+adv
 apposition
-313677	adv
-313679	apposition
-313682	apposition
+313597	adv
+o
+313602	o
+313604	apposition
+o
+313607	o
+313609	apposition
+313616	adv
+o
+adv
+313623	adv
+adv
+313627	adv
+adv
+313639	s
+s
+313643	adv
 apposition
-313686	apposition
-313690	adv
+313653	o
+313657	o
+313679	adv
+313686	adv
+313688	io
+apposition
 313692	adv
 313700	adv
-313703	p
-313705	apposition
-313717	adv
-adv
-313722	adv
-313728	adv
-313735	apposition
-313737	adv
-313741	adv
-313743	adv
-313754	adv
-313759	adv
-313761	adv
-313763	o
-313768	s
-313770	adv
-313772	adv
-313774	adv
-313779	adv
-313785	apposition
-apposition
-313789	adv
-313792	adv
-313813	adv
-313816	adv
-313821	adv
-313825	apposition
-apposition
-313829	adv
-adv
-313835	adv
-apposition
-313839	adv
-adv
-313851	apposition
-313853	adv
-adv
-313856	apposition
-313860	apposition
-313863	apposition
-313866	apposition
-adv
-313875	adv
-313891	o
-313896	o
-313902	adv
-313905	s
-313909	adv
-313911	adv
-313920	adv
-313924	adv
+313703	adv
+313707	apposition
 adv
 o
-adv
-313933	apposition
-adv
-313941	s
-apposition
-313945	adv
-313951	adv
-313956	adv
-adv
-apposition
-313962	adv
-o
-313966	o
-313968	apposition
-o
-313972	apposition
-313979	adv
-o
-adv
-313985	adv
-adv
-313989	adv
-adv
-314000	s
+313713	o
+313717	o
 s
-314004	adv
-apposition
-314013	o
-314035	adv
-314041	adv
+313723	adv
+313728	adv
+313740	apposition
+313754	adv
+313773	adv
+adv
+313779	o
+313792	adv
+313810	adv
+adv
+313815	adv
+313822	o
+313829	adv
+313833	adv
+313839	apposition
+313843	adv
+313859	adv
+313862	adv
+313868	adv
+313871	adv
+313881	s
+313893	adv
+313931	adv
+313939	s
+313941	adv
+313948	o
+313960	adv
+313966	o
+313969	v
 io
+313975	adv
+313978	s
+313982	adv
+313985	o
+adv
+313988	o
+313998	s
+314002	s
+adv
+314008	s
+314017	adv
+314022	s
+314033	apposition
 apposition
-314046	adv
-314054	adv
-314057	adv
-314061	apposition
-adv
-o
-314067	o
-314071	s
-314076	adv
-314081	adv
-314092	apposition
-314105	adv
-314122	adv
-adv
-314128	o
-314138	adv
-314155	adv
-adv
-314160	adv
-314166	o
-314173	adv
-314177	adv
-314182	apposition
-314186	adv
-314200	adv
-314207	adv
-314210	adv
-314219	s
-314230	adv
-314262	adv
-314270	s
-314272	adv
-314293	o
-314296	io
-314301	adv
-314303	s
-314307	adv
-314310	o
-adv
-314313	o
-314323	s
-314327	s
-adv
-314332	s
-314340	adv
-314345	s
-314355	apposition
+314039	o
 apposition
-314361	apposition
-314363	adv
-314369	adv
-314371	adv
-314377	apposition
+314042	adv
+314048	adv
+adv
+314051	adv
+314057	apposition
 apposition
-314380	o
+314060	o
 p
-314384	apposition
-314386	adv
-314396	adv
+314064	apposition
+314066	adv
+314077	adv
 o
+314081	adv
+adv
+314089	adv
+314093	adv
+314095	adv
+314105	o
+314114	o
+314123	adv
+314131	o
+314134	o
+314137	o
+314145	s
+314152	adv
+314164	apposition
+314166	adv
+314168	apposition
+314171	v
+314223	o
+314232	adv
+p
+314235	apposition
+o
+314254	adv
+314267	adv
+314272	o2
+314277	adv
+314281	o
+s
+314286	adv
+314289	adv
+314296	adv
+314299	adv
+314302	o
+314308	adv
+314311	adv
+314314	o
+314321	adv
+314324	adv
+314329	o
+314333	adv
+314335	o
+314337	adv
+314341	adv
+314351	o2
+314358	adv
+314362	p
+o
+314374	adv
+314376	adv
+adv
+314382	o
+314389	adv
+314397	apposition
 314400	adv
 adv
-314408	adv
 314412	adv
-314414	adv
-314421	o
-314430	o
-314439	adv
-314447	o
-314450	o
-314453	o
-314460	s
-314467	adv
-314479	apposition
-314481	adv
-314483	apposition
-314528	o
-314535	adv
-p
-314538	apposition
-o
-314556	adv
-314565	adv
-314574	adv
-314578	o
-s
-314583	adv
-314586	adv
-314591	adv
-314594	adv
-314597	o
-314603	adv
-314606	adv
-314609	o
-314616	adv
-314619	adv
-314626	adv
-314629	adv
-314633	adv
-314647	adv
-314651	p
-314662	adv
+314427	adv
 adv
+314442	o
+314445	adv
 adv
-314675	adv
-314682	apposition
-314685	adv
-adv
-314696	adv
-314710	adv
-adv
-314724	o
-314727	adv
-adv
-314731	s
-314735	s
-314749	adv
-314753	adv
-314773	adv
+314449	s
+314453	s
+314461	o
+314463	o
+314470	adv
+314475	adv
+314481	o
+314483	o
+314498	adv
 io
+314508	adv
+adv
+314513	s
+adv
+adv
+adv
+314520	adv
+314523	adv
+314528	s
+adv
+o
+314542	adv
+314559	adv
+314562	adv
+adv
+adv
+adv
+314568	adv
+314571	s
+o
+314576	adv
+314581	adv
+314590	adv
+apposition
+314597	adv
+314600	o
+314603	apposition
+314607	adv
+314612	adv
+314616	adv
+adv
+314626	s
+314631	apposition
+314637	s
+adv
+s
+o
+314646	o
+314652	apposition
+314654	adv
+314669	s
+314672	adv
+314675	o
+314679	adv
+314683	o
+314692	o
+314697	adv
+314718	s
+adv
+apposition
+314723	adv
+314728	o
+o2
+314754	apposition
+apposition
+314762	apposition
+o
+314770	adv
+o
+314775	adv
+314777	s
 314783	adv
 adv
-314787	s
-adv
-adv
-adv
-314794	adv
-314797	adv
-314801	s
-adv
-314813	adv
-314829	adv
-314832	adv
-adv
-adv
-adv
-314838	adv
-314840	s
-314844	adv
-314849	adv
-314858	adv
-apposition
-314865	adv
-314868	o
-314871	apposition
-314875	adv
-314880	adv
-314884	adv
-adv
-314894	s
-314899	apposition
-314905	s
-adv
 s
+314801	adv
+adv
+adv
+314809	io
+314812	o
+adv
+314817	s
+314824	o
+adv
+314827	adv
+adv
+314830	adv
+314837	adv
+314840	o
+314850	adv
+s
+314854	adv
+314861	s
+314864	o
 o
-314914	o
-314918	apposition
-314920	adv
+o
+314868	s
+314885	s
+314889	o
+314899	s
+314903	adv
+o
+314909	adv
+s
+adv
+314913	adv
+314922	adv
+o
+314929	adv
 314932	s
-314935	adv
-314938	o
-314942	adv
-314954	o
-314975	s
+o
+314937	adv
+314945	adv
+314954	adv
+314956	adv
+314958	adv
 adv
-apposition
+314961	adv
+s
+314966	adv
+314975	adv
 314980	adv
-315004	apposition
+314990	o
+adv
+314995	adv
+315000	adv
+315005	adv
+315020	io
+315025	o
+315032	adv
+adv
+adv
+315037	s
+315040	o
+o
+315046	s
+315052	o
+315057	o
 apposition
-315010	apposition
+315063	adv
+s
+315075	adv
 o
-315018	adv
+adv
+315084	adv
+315089	o
+315096	s
+315098	s
+315104	adv
+315109	o
+315119	adv
+adv
+315124	adv
 o
-315023	adv
-s
-315030	adv
-adv
-s
-315048	adv
-adv
-adv
-315056	io
-315059	o
-adv
-315064	s
-315071	adv
-315073	adv
-adv
-315076	adv
-315083	adv
-315086	o
-315096	adv
-s
-315100	adv
-315107	s
-315110	o
-315112	s
-315128	s
-315141	s
+315128	adv
+315131	apposition
+315139	adv
 315145	adv
-315150	adv
-s
-adv
-315154	adv
-315163	adv
 o
+315149	adv
+315159	s
+315164	o
+315168	o
 315170	adv
-315173	s
-o
-315178	adv
-315186	adv
-315195	adv
-315197	adv
-315199	adv
-adv
-315202	adv
-s
-315207	adv
-315216	adv
-315229	o
-adv
-315234	adv
-315239	adv
-315244	adv
-315258	io
-315269	adv
-adv
-adv
-315274	s
-315277	o
-315281	s
-315286	o
-315290	o
-apposition
-315296	adv
-s
-315306	adv
-o
-adv
-315314	adv
-315324	s
-315326	s
-315331	adv
-315336	o
-315345	adv
-adv
-315349	adv
-o
-315353	adv
-315356	apposition
-315362	adv
-315368	adv
-o
-315372	adv
+315178	io
+315180	o
+315202	apposition
+315210	adv
+315213	aux
+315230	io
+315238	apposition
+315248	adv
+315253	s
+315265	adv
+315273	o2
+315276	adv
+315281	o
+315287	o
+315291	apposition
+315294	adv
+315303	o
+315325	p
+315333	apposition
+315358	adv
+315363	apposition
+315376	adv
+315378	o
 315381	s
-315385	o
-315390	adv
-315397	io
-315399	o
-315420	apposition
-315426	adv
-315429	aux
-315444	io
-315452	apposition
-315460	adv
-315465	s
-315474	adv
-315483	adv
-315488	o
-315494	o
-315498	apposition
-315501	adv
-315509	o
-315526	p
-315533	apposition
-315556	adv
-315561	apposition
-315573	adv
-315575	o
-315578	s
-315581	o
-315602	s
-315607	apposition
-315610	aux
-315613	apposition
-315624	apposition
-315631	apposition
+315384	o
+315405	s
+315411	apposition
+315414	aux
+315418	apposition
+315420	o
+315433	apposition
+315440	apposition
 apposition
-315642	adv
-315644	adv
-315646	adv
-315650	o
-315652	apposition
-315665	o
-315675	adv
-315682	s
-315687	apposition
-315689	apposition
-315691	apposition
-315696	apposition
-315708	o
+315451	adv
+315453	adv
+315455	adv
+315459	o
+315461	apposition
+315477	o
+315489	adv
+315496	s
+315501	apposition
+315503	apposition
+315505	apposition
+315510	apposition
+315515	adv
+315521	o
+315527	o
 adv
-315712	apposition
+o
+315532	apposition
 adv
-315722	apposition
-315725	adv
-315727	o
-315731	s
-315734	apposition
-315737	s
-315740	adv
-315763	adv
+315543	apposition
+315547	adv
+315549	o
+315553	s
+315556	apposition
+315559	s
+315563	adv
+315589	adv
 adv
-315767	adv
+315593	adv
 adv
-315771	io
-315785	apposition
-315789	adv
-315793	adv
+315597	io
+315613	apposition
+315616	o
+315618	adv
+315622	adv
 adv
-315798	s
+315627	s
 adv
-315806	s
+o
+315636	s
 adv
-315810	adv
-315816	s
-315820	adv
-315822	adv
-315824	o
-315829	s
-315833	io
+315640	adv
+315647	s
+315652	adv
+315654	adv
+315656	o
+315664	s
+315668	io
+315671	adv
+315678	adv
+315684	adv
+315690	o
+315698	o
+315714	adv
+315722	adv
+315736	adv
+315739	adv
+adv
+315744	adv
+315748	apposition
+315754	io
+315779	adv
+315792	adv
+o
+315811	o
+315816	adv
+315822	o
+o
 315836	adv
-315843	adv
-315846	adv
-315866	adv
-315873	adv
-315886	adv
+adv
+315840	adv
+315845	o2
+315848	adv
+315857	adv
+adv
+315860	adv
+315863	adv
+315876	adv
+315879	adv
+315884	o
 315889	adv
-315893	adv
-315896	apposition
-315902	io
-315926	adv
-315937	adv
-o
-315953	o
-315963	o
-o
-315976	adv
+315893	o
+315898	adv
+315902	o
+315905	adv
+315908	adv
+315914	o
 adv
-315980	adv
-315985	o2
-315988	adv
-315996	adv
-adv
-315999	adv
-316002	adv
-316015	adv
-316018	adv
-316022	o
-316027	adv
-316030	o
-316034	adv
-316037	o
-316040	adv
-316043	adv
-316049	o
-adv
-316053	s
+315918	s
 o
-316059	o
-316061	aux
-316067	s
-316070	s
-316073	s
-316076	adv
-316078	adv
-316080	adv
-316082	adv
-316084	adv
-316086	adv
-316089	adv
-316095	s
-316098	o
-316100	o
-316105	adv
-316109	o
-316118	adv
+315925	o
+315927	aux
+315933	s
+315936	s
+315940	s
+315943	adv
+315945	adv
+315947	adv
+315949	adv
+315951	adv
+315953	adv
+315956	adv
+315962	s
+315967	o
+315969	o
+315974	adv
+315978	o
+315987	adv
 p
 o
-316122	apposition
-316126	s
-316129	adv
-316143	adv
+315991	apposition
+315995	s
+315998	adv
+316013	adv
 adv
-316147	o
+316018	o
 adv
-316154	adv
-316157	adv
+316026	adv
+316029	adv
 adv
 adv
 adv
-316170	adv
-316172	adv
-316180	s
+316043	adv
+316045	adv
+316053	s
 adv
-316183	s
+316056	s
 adv
-316186	adv
-316192	adv
-316196	s
-316198	o
-316208	adv
-316210	o
+316059	adv
+316066	adv
+316071	s
+316073	o
+316083	adv
+316085	o
 adv
-316213	s
-316217	o
-316219	o
-316228	o
+316088	s
+316092	o
+316094	o
+316104	o
+o
 adv
-316236	adv
-316242	s
-316245	o
-316260	s
-316266	s
+316114	adv
+316116	o2
+316121	s
+316124	o
+316126	o2
+316140	s
+316146	s
 adv
-316269	o
+316149	o
 adv
-316276	adv
-316281	adv
-316283	o
-316286	o
-316294	s
-316297	o
+316156	adv
+316161	adv
+316163	o
+316166	o
+316175	s
+316178	o
 adv
-316301	s
-316303	adv
-316306	o
-316309	s
-316312	adv
+316182	s
+316184	adv
+316188	o
+316191	s
+316194	adv
 s
-316317	o
-316319	o
+316199	o
+316201	o
 o
-316322	o
-316328	adv
-316332	apposition
-316334	s
-316336	p
+316205	o
+316211	adv
+316216	apposition
+316219	s
+316221	p
 o
-316339	s
-316343	s
+316225	s
+316229	s
 adv
-316347	s
-316351	o
-316353	s
-316355	s
+316233	s
+316239	o
+316241	s
+316243	s
 adv
-316359	adv
+316247	adv
+316250	s
+316252	s
+316254	adv
+o
+apposition
+316265	adv
+o
+316271	apposition
+316274	o
+316278	adv
+316281	s
+316283	adv
+316286	adv
+316288	adv
+316295	apposition
+316301	o
+316306	adv
+316310	adv
+o
+316314	apposition
+316317	adv
+316321	aux
+316328	s
+316331	adv
+316335	adv
+316348	adv
+316354	adv
+316359	o
 316362	s
 316364	s
-316366	adv
-o
-apposition
-316375	adv
-o
-316380	apposition
-316383	o
-316387	adv
-316390	s
-316392	adv
-316395	adv
-316397	adv
-316404	apposition
-316413	adv
-316417	adv
-o
-316421	apposition
-316424	adv
-316428	aux
-316434	s
-316437	adv
-316441	adv
-316452	adv
-316458	adv
-316462	o
-316465	s
-316467	s
-316472	o
-316486	apposition
-316490	o
+316369	o
+316383	apposition
+316386	o
+316388	o
 apposition
 adv
-316501	adv
-316511	apposition
-316527	o
+316400	adv
+316405	adv
+316412	apposition
+316428	o
 adv
-316535	aux
-316545	apposition
+316437	aux
+316449	apposition
+316462	adv
+316466	o2
+316470	adv
+316481	apposition
+316486	o
+316492	o
+316499	adv
+adv
+316503	o2
+316505	s
+316507	aux
+316516	adv
+316520	s
+316522	s
+316526	s
+316540	s
+316542	aux
+apposition
+s
+316548	apposition
+316553	apposition
 316557	adv
-316563	adv
-316574	apposition
-316579	o
-316585	o
-316592	adv
+316559	o
 adv
-316596	o2
-316598	s
-316600	aux
-316609	adv
-316613	s
-316615	s
-316619	s
-316632	s
-316634	aux
-apposition
-s
-316640	apposition
-316645	apposition
-316649	adv
-316651	o
-adv
-316658	adv
+316566	adv
 p
-316668	adv
-316671	s
-316675	s
-316677	adv
-316679	o
-316693	adv
-316696	s
-316698	s
-316702	apposition
+316576	adv
+316579	s
+316583	s
+316585	adv
+316587	o
+316603	adv
+316606	s
+316608	s
+316612	apposition
 apposition
-316707	apposition
-316711	o2
-316713	o
-316716	apposition
+316617	apposition
+316621	o2
+316623	o
+316627	apposition
 o
-316720	adv
-316722	aux
+316631	adv
+316633	aux
 apposition
-316725	s
-316731	adv
-316734	adv
-316737	adv
-316739	adv
-316741	adv
+316636	s
+316642	adv
+316646	adv
+316650	adv
+316652	adv
+316654	adv
 adv
 adv
-316753	aux
+316667	aux
 adv
-316756	s
-316762	s
-316786	apposition
-316789	o
-316800	adv
-316806	adv
-316822	apposition
-316839	s
-316847	aux
-316855	s
-316858	o
-316865	aux
-316879	s
+316670	s
+316676	s
+316701	apposition
+316704	o
+316715	adv
+316721	adv
+316732	o
+316740	apposition
+316758	s
+316767	aux
+316776	s
+316779	o
+316787	aux
+316802	s
 adv
 apposition
-316887	adv
+o
+316812	adv
 adv
-316897	adv
-316911	apposition
-316917	apposition
-316922	p
-316924	s
-316926	adv
-316946	apposition
+316818	o
+316823	adv
+316827	o
+316839	apposition
+316845	apposition
+316850	p
+316852	s
+316854	adv
+316876	apposition
 adv
-316963	apposition
-316981	adv
-316985	adv
+316893	apposition
+316899	adv
+316913	adv
+316917	adv
 apposition
+316927	adv
+316931	adv
+316934	s
+316939	s
+316943	adv
+316962	apposition
+apposition
+316966	apposition
+316968	adv
+316975	s
+316981	apposition
 316995	adv
-316999	adv
-317002	s
-317006	s
-317010	adv
-317029	apposition
-apposition
-317033	apposition
-317035	adv
-317042	s
-317048	apposition
-317062	adv
-317074	adv
-317076	adv
+317009	adv
+317011	adv
 adv
-317080	apposition
+317015	o
 apposition
-317086	adv
-317092	adv
-317106	apposition
-317123	apposition
-317132	s
-317134	o
-317157	apposition
-317165	o
-317178	apposition
-adv
-adv
-317187	adv
-317190	adv
-317196	apposition
 apposition
-317201	apposition
-317209	o
-317212	adv
+317022	adv
+317028	adv
+317042	apposition
+317056	o2
+317064	apposition
+317073	s
+317075	o
+317098	apposition
 o
-317216	adv
-317219	adv
+317107	o
+317120	apposition
 adv
-317227	apposition
-317243	adv
-317249	apposition
-317257	apposition
-317261	adv
-317263	adv
-317268	adv
-317274	adv
-317277	adv
-317280	o
+adv
+317129	adv
+317133	adv
+317140	apposition
+apposition
+317144	o
+317146	apposition
+317155	o
+317158	adv
+o
+317162	adv
+317165	adv
+adv
+317173	apposition
+317189	adv
+317195	apposition
+317203	apposition
+317208	adv
+317210	adv
+317215	adv
+317221	adv
+317224	adv
+317227	o
 io
-317292	s
-317295	s
+317233	o
+317243	s
+317246	s
 adv
+317262	adv
+apposition
+317268	p
+317279	o
+317282	o
+317285	o
+317288	apposition
+317294	apposition
+317297	apposition
+317299	o
+317307	io
+o
 317311	adv
-apposition
-317316	p
-317326	o
-317333	apposition
-317339	apposition
-317342	apposition
-317344	o
-317351	io
-317354	adv
-317358	s
-317364	apposition
+317315	s
+317321	apposition
 io
-317377	adv
-317382	s
-317389	adv
-317394	apposition
+o
+317335	adv
+317340	s
+317348	adv
+317353	apposition
+317356	apposition
+317360	adv
+317382	o
+317386	adv
 317397	apposition
-317401	adv
-317426	adv
-317437	apposition
-317447	adv
-317455	s
+317407	adv
+317415	s
 adv
-317459	apposition
+317419	apposition
+317440	adv
+317444	apposition
+o
+apposition
+s
+317463	apposition
+apposition
+317469	o2
+317472	apposition
 317479	adv
-317483	apposition
-apposition
-s
-317500	apposition
-apposition
-317506	o2
-317509	apposition
+317496	adv
+317499	apposition
+317506	adv
+317511	adv
 317514	adv
-317530	adv
-317533	apposition
-317539	adv
-317544	adv
-317547	adv
-317550	adv
-317554	apposition
-317557	apposition
-317562	adv
-317573	apposition
+317517	adv
+317521	apposition
+317525	apposition
+317527	o
+317531	adv
+317542	apposition
+o
 apposition
-317586	adv
-317600	adv
-317606	apposition
-317609	apposition
-317617	s
-317621	s
+317553	o
+317557	adv
+317572	o
+317574	adv
+317580	apposition
+317583	apposition
+317593	s
+317597	s
+317604	o
+317607	apposition
+317612	s
+317621	adv
 317628	apposition
-317633	s
-317642	adv
+o
+317640	apposition
+317644	apposition
 317649	apposition
-317659	apposition
-317663	apposition
-317668	apposition
-317685	adv
-317688	s
-317698	apposition
-317705	apposition
-317737	s
-317740	adv
-317745	io
-317748	s
-317751	apposition
-317755	apposition
+317668	adv
+317671	s
+317682	apposition
+317689	apposition
+317723	s
+317726	adv
+317731	io
+317734	s
+317737	apposition
+317741	apposition
 apposition
-317762	adv
-317773	s
+o
+317749	adv
+317761	s
 adv
-317797	adv
-317811	adv
+317790	adv
+317805	adv
 s
-317825	adv
-317831	s
-317833	p
-317837	apposition
-317844	adv
-317847	s
-317850	adv
-317853	s
-317862	s
-317865	s
+317819	adv
+317825	s
+317827	p
+317832	apposition
+317835	o
+317841	adv
+317844	s
+317847	adv
+317850	s
+317859	s
+317863	s
 s
-317871	apposition
+317870	apposition
 317875	apposition
 317877	s
 398670	p

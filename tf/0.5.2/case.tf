@@ -9,7 +9,7 @@
 @version=0.5.2
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-08-22T19:19:12Z
+@dateWritten=2023-08-30T00:19:21Z
 
 nominative
 genitive
@@ -79529,20918 +79529,20918 @@ genitive
 genitive
 genitive
 137779	genitive
-178277	nominative
-178280	nominative
-178284	nominative
-178292	nominative
-178301	nominative
-178305	nominative
-178309	nominative
-178313	nominative
-178317	nominative
-178321	nominative
-178327	nominative
-178333	nominative
-178337	nominative
-178343	nominative
-178350	nominative
-178354	nominative
-178358	nominative
-178362	nominative
-178366	nominative
-178370	nominative
-178374	nominative
-178378	nominative
-178382	nominative
-178386	nominative
-178390	nominative
-178394	nominative
-178398	nominative
-178413	nominative
-178416	nominative
-178420	nominative
-178424	nominative
-178428	nominative
-178432	nominative
-178436	nominative
-178440	nominative
-178444	nominative
-178448	nominative
-178452	nominative
-178456	nominative
-178467	nominative
-nominative
-178500	genitive
-178507	accusative
-178510	nominative
-178518	nominative
-nominative
-178522	nominative
-accusative
-178528	accusative
-accusative
-178531	genitive
-genitive
-178537	dative
-nominative
-178546	accusative
-178551	nominative
-178558	accusative
-178563	accusative
-nominative
-178578	nominative
-178582	genitive
-178589	accusative
-178595	nominative
-178601	nominative
-178609	dative
-178620	accusative
-178622	genitive
-178624	accusative
-178629	accusative
-178633	genitive
-178642	nominative
-178646	nominative
-178652	nominative
-178664	dative
-178666	nominative
-178675	nominative
-178687	nominative
-178690	dative
-178702	nominative
-178706	nominative
-178715	nominative
-nominative
-178723	nominative
-178725	nominative
-178733	genitive
-178735	nominative
-accusative
-178740	nominative
-178751	dative
-178753	nominative
-nominative
-178756	dative
-nominative
-178759	nominative
-178766	accusative
-178771	accusative
-178773	nominative
-178779	nominative
-178786	nominative
-178797	nominative
-178799	dative
-178801	nominative
-178805	dative
-178811	nominative
-178823	genitive
-178825	genitive
-178831	nominative
-178833	nominative
-178849	dative
-178852	nominative
-178856	accusative
-178858	nominative
-178860	nominative
-178867	genitive
-178879	nominative
-178883	genitive
-178889	nominative
-nominative
-178898	nominative
-178916	accusative
-178922	nominative
-178926	genitive
-178934	nominative
-nominative
-178946	genitive
-178955	nominative
-178957	nominative
-178970	nominative
-178974	nominative
-178976	nominative
-178987	nominative
-178990	nominative
-179000	nominative
-179009	nominative
-179013	accusative
-accusative
-179017	nominative
-179020	nominative
-179029	nominative
-179034	nominative
-179042	nominative
-179045	nominative
-179049	genitive
-179051	genitive
-179058	accusative
-179101	nominative
-179104	nominative
-179111	accusative
-179115	dative
-179117	nominative
-179119	dative
-179124	genitive
-179135	accusative
-179140	dative
-179148	accusative
-179162	nominative
-179168	nominative
-179170	accusative
-179176	nominative
-nominative
-genitive
-179180	genitive
-179183	nominative
-179186	nominative
-accusative
-179224	nominative
-179227	accusative
-nominative
-179230	nominative
-accusative
-179236	nominative
+179166	nominative
+179169	nominative
+179173	nominative
+179181	nominative
+179190	nominative
+179194	nominative
+179198	nominative
+179202	nominative
+179206	nominative
+179210	nominative
+179216	nominative
+179222	nominative
+179226	nominative
+179232	nominative
 179239	nominative
-179243	dative
-179249	nominative
-179251	dative
-179256	accusative
-nominative
-179260	nominative
-179271	accusative
-179274	accusative
-179278	nominative
-179281	nominative
-nominative
-179301	nominative
-179306	accusative
+179243	nominative
+179247	nominative
+179251	nominative
+179255	nominative
+179259	nominative
+179263	nominative
+179267	nominative
+179271	nominative
+179275	nominative
+179279	nominative
+179283	nominative
+179287	nominative
+179302	nominative
+179305	nominative
 179309	nominative
+179313	nominative
+179317	nominative
+179321	nominative
+179325	nominative
+179329	nominative
+179333	nominative
+179337	nominative
+179341	nominative
+179345	nominative
+179355	nominative
 nominative
-179312	dative
-179322	nominative
-179324	nominative
-179326	nominative
-179338	dative
-179343	accusative
-179351	accusative
-179358	dative
-179365	accusative
-179378	accusative
-179386	dative
-179397	accusative
-179405	dative
-179416	dative
-179419	dative
-179422	nominative
+179387	genitive
+179394	accusative
+179397	nominative
+179405	nominative
+nominative
+179409	nominative
+accusative
+179415	accusative
+accusative
+179418	genitive
+genitive
 179424	dative
-179427	dative
-179430	vocative
-179443	accusative
-179447	nominative
-179451	dative
 nominative
-179455	nominative
-179462	nominative
-179464	nominative
-179476	nominative
-179480	genitive
-179495	nominative
-179500	dative
-179505	nominative
-179507	dative
-179522	nominative
-179533	accusative
-accusative
-179539	accusative
-accusative
-179545	nominative
-179548	dative
-179554	accusative
+179432	accusative
+179437	nominative
+179444	accusative
+179449	accusative
+nominative
+179463	nominative
+179467	genitive
+179474	accusative
+179479	nominative
+179484	nominative
+179492	dative
+179503	accusative
+179505	genitive
+179507	accusative
+179512	accusative
+179515	genitive
+179524	nominative
+179528	nominative
+179533	nominative
+179545	dative
+179547	nominative
 179556	nominative
-179559	nominative
-179562	dative
-179564	nominative
-179584	accusative
-179589	accusative
-nominative
+179568	nominative
+179571	dative
+179581	nominative
+179585	nominative
 179593	nominative
-179600	dative
-179607	nominative
-179612	nominative
-179617	nominative
-179633	dative
-179637	accusative
-179642	accusative
+nominative
+179601	nominative
+179603	nominative
+179611	genitive
+179613	nominative
 accusative
-179645	accusative
-179649	accusative
-179652	dative
-179664	nominative
-179672	genitive
-genitive
-179675	dative
-179679	nominative
-179683	accusative
+179618	nominative
+179627	dative
+179629	nominative
 nominative
+179632	dative
 nominative
-179690	genitive
-179695	nominative
+179635	nominative
+179641	accusative
+179646	accusative
+179648	nominative
+179654	nominative
+179661	nominative
+179672	nominative
+179674	dative
+179676	nominative
+179680	dative
+179686	nominative
+179697	genitive
+179699	genitive
+179705	nominative
 nominative
-179698	nominative
-179700	nominative
-179703	nominative
-179706	nominative
-179711	nominative
-179713	nominative
-179716	nominative
-179718	nominative
-179723	nominative
-179727	nominative
-179730	nominative
-179733	nominative
+179721	dative
+179724	nominative
+179728	accusative
 nominative
-179737	genitive
-179743	nominative
-179748	accusative
-179755	nominative
-179763	nominative
-179773	nominative
-179789	nominative
-179794	nominative
-179801	nominative
+179731	nominative
+179738	genitive
+179750	nominative
+179754	genitive
+179760	nominative
+nominative
+179769	nominative
+179786	accusative
+179792	nominative
+179796	genitive
 179804	nominative
-179809	accusative
-179812	accusative
-179862	dative
-179879	nominative
-179881	nominative
-179893	nominative
-179900	nominative
-179905	nominative
 nominative
-179914	dative
-179921	accusative
-179938	nominative
-179941	nominative
-179944	nominative
-179947	dative
-179950	nominative
-179953	nominative
-179956	nominative
-179961	vocative
+179815	genitive
+179824	nominative
 nominative
-179965	nominative
-179968	vocative
-nominative
-179989	accusative
-180000	accusative
-180006	nominative
-180013	accusative
-180015	genitive
-180023	accusative
-180035	dative
-180049	nominative
-180052	dative
-180055	nominative
+179838	nominative
+179842	nominative
+179844	nominative
+179855	nominative
+179858	nominative
+179868	nominative
+179877	nominative
+179881	accusative
 accusative
-180059	accusative
-180062	accusative
-180073	accusative
-180075	accusative
-180081	dative
-180100	accusative
-180102	accusative
-180108	dative
-180123	nominative
-180128	dative
-accusative
+179885	nominative
+179888	nominative
+179897	nominative
+179902	nominative
+179909	nominative
+179912	nominative
+179916	genitive
+179918	genitive
+179924	accusative
+179967	nominative
+179970	nominative
+179977	accusative
+179981	dative
+179983	nominative
+179985	dative
+179990	genitive
+180001	accusative
+180006	dative
+180014	accusative
+180028	nominative
+180034	nominative
+180036	accusative
+180042	nominative
 nominative
-180133	dative
-180136	nominative
-180142	accusative
-180145	nominative
-accusative
-180162	nominative
-180165	dative
-180226	accusative
-180229	accusative
-180231	nominative
-180234	dative
-180239	nominative
-accusative
-180247	dative
-180252	dative
-180254	dative
-180261	dative
-180265	nominative
-accusative
-180272	dative
-accusative
-180276	accusative
-180292	nominative
-180295	dative
-180304	genitive
-accusative
-180330	accusative
-accusative
-180343	accusative
-180352	nominative
-nominative
-180359	nominative
-180371	dative
-180375	accusative
-180389	accusative
-180410	dative
-180416	genitive
-180418	genitive
-accusative
-180424	accusative
-180438	nominative
-180442	dative
-180463	nominative
-180470	dative
-180475	nominative
-180484	nominative
-180498	nominative
-180502	dative
-180504	nominative
-180521	dative
-180529	accusative
-180531	accusative
-180535	nominative
-180560	dative
-180564	dative
-180575	accusative
-180579	accusative
-180614	nominative
-180623	nominative
-180626	dative
-180631	nominative
-180633	nominative
-180645	nominative
-180657	nominative
-180661	dative
-180664	dative
-accusative
-180675	nominative
-180680	dative
-accusative
-180691	nominative
-180716	nominative
-180720	nominative
-180726	nominative
-180731	nominative
-180739	nominative
-180742	nominative
-180744	nominative
-180759	genitive
-180767	dative
-180770	dative
-180773	dative
-180780	accusative
-180783	accusative
-180788	accusative
-180791	nominative
-180818	accusative
-nominative
-180822	genitive
-180826	nominative
-180835	accusative
-180849	dative
-180852	nominative
-180867	accusative
-180871	accusative
-180876	accusative
-vocative
-180881	nominative
-180883	accusative
-180886	accusative
-180889	accusative
-180906	accusative
-180915	dative
-180925	genitive
-nominative
-180944	dative
-accusative
-180982	vocative
-180984	accusative
-181013	accusative
-181018	nominative
-181020	accusative
-181027	dative
-181036	dative
-181040	nominative
-181043	nominative
-181046	dative
-181053	accusative
-181057	accusative
-accusative
-181060	dative
-181064	accusative
-181066	dative
-181070	nominative
-nominative
-nominative
-181086	accusative
-dative
-accusative
-181091	accusative
-181095	dative
-181100	dative
-nominative
-181115	nominative
-181118	nominative
-181121	nominative
-181125	nominative
-181127	nominative
-181132	nominative
-181135	nominative
-181138	nominative
-181142	nominative
-181144	nominative
-accusative
-181150	nominative
-181163	accusative
-181166	accusative
-181169	accusative
-181192	nominative
-181202	accusative
-181205	nominative
-dative
-181208	vocative
-vocative
-181216	nominative
-181225	nominative
-181227	dative
-181233	vocative
-vocative
-181241	accusative
-181251	dative
-181255	accusative
-181258	nominative
-181262	nominative
-181269	accusative
-181273	nominative
-181302	nominative
-181308	nominative
-accusative
-181313	nominative
-181338	nominative
-181355	accusative
-181358	accusative
-nominative
-181365	genitive
-181367	genitive
-181371	dative
-181375	nominative
-nominative
-181378	dative
-nominative
-vocative
-181384	accusative
-181387	nominative
-181390	genitive
-nominative
-181402	dative
-181406	dative
-181411	accusative
-181418	accusative
-181420	nominative
-181424	genitive
-181426	genitive
-181429	dative
-nominative
-181432	nominative
-accusative
-181435	nominative
-vocative
-181442	nominative
-181444	nominative
-181446	dative
-nominative
-nominative
-181450	accusative
-nominative
-181456	vocative
-181459	nominative
-181467	accusative
-181469	dative
-181480	nominative
-181482	accusative
-181487	dative
-181494	dative
-181504	accusative
-181507	nominative
-181513	dative
-181516	dative
-181524	dative
-181526	nominative
-181567	dative
-181575	nominative
-181591	accusative
-181597	dative
-181599	genitive
-181601	genitive
-181603	dative
-181605	accusative
-181609	dative
-181613	accusative
-181617	nominative
-181621	genitive
-181623	nominative
-181630	nominative
-181633	accusative
-181640	nominative
-181643	dative
-vocative
-181646	dative
-181651	dative
-181656	accusative
-181662	accusative
-181676	dative
-vocative
-181679	dative
-181681	accusative
-181690	dative
-181693	dative
-181702	dative
-dative
-181707	dative
-181721	nominative
-181725	nominative
-181727	accusative
-nominative
-vocative
-181734	dative
-nominative
-nominative
-181738	vocative
-181740	nominative
-181752	nominative
-181754	nominative
-181756	nominative
-181762	dative
-181766	genitive
 genitive
-181775	dative
-181779	nominative
-181782	nominative
-181787	accusative
-181795	nominative
-181797	nominative
-181806	accusative
-181809	accusative
-181814	nominative
-181818	accusative
-nominative
-181823	accusative
-181825	accusative
-181832	dative
-181834	nominative
-181836	nominative
-181854	nominative
-181857	nominative
-181864	genitive
-181874	nominative
+180046	genitive
+180049	nominative
+180052	nominative
 accusative
-181883	nominative
-181894	dative
-181897	accusative
-181899	nominative
-181907	vocative
-181917	nominative
-181920	nominative
-181929	accusative
+180090	nominative
+180093	accusative
+nominative
+180096	nominative
+accusative
+180102	nominative
+180105	nominative
+180109	dative
+180114	nominative
+180116	dative
+180121	accusative
+nominative
+180125	nominative
+180136	accusative
+180139	accusative
+180143	nominative
+180146	nominative
+nominative
+180166	nominative
+180171	accusative
+180174	nominative
+nominative
+180177	dative
+180186	nominative
+180188	nominative
+180190	nominative
+180202	dative
+180207	accusative
+180215	accusative
+180222	dative
+180228	accusative
+180240	accusative
+180248	dative
+180259	accusative
+180267	dative
+180278	dative
+180280	dative
+180283	nominative
+180285	dative
+180288	dative
+180291	vocative
+180304	accusative
+180308	nominative
+180312	dative
+nominative
+180316	nominative
+180322	nominative
+180324	nominative
+180336	nominative
+180340	genitive
+180355	nominative
+180360	dative
+180365	nominative
+180367	dative
+180381	nominative
+180392	accusative
+accusative
+180398	accusative
+accusative
+180404	nominative
+180407	dative
+180413	accusative
+180415	nominative
+180418	nominative
+180421	dative
+180423	nominative
+180443	accusative
+180448	accusative
+nominative
+180452	nominative
+180459	dative
+180466	nominative
+180471	nominative
+180476	nominative
+180492	dative
+180496	accusative
+180501	accusative
+accusative
+180504	accusative
+180508	accusative
+180511	dative
+180523	nominative
+180530	genitive
+genitive
+180533	dative
+180537	nominative
+180541	accusative
+nominative
+nominative
+180548	genitive
+180553	nominative
+nominative
+180556	nominative
+180558	nominative
+180561	nominative
+180564	nominative
+180569	nominative
+180571	nominative
+180574	nominative
+180576	nominative
+180581	nominative
+180584	nominative
+180587	nominative
+180590	nominative
+nominative
+180594	genitive
+180599	nominative
+180604	accusative
+180611	nominative
+180619	nominative
+180629	nominative
+180645	nominative
+180650	nominative
+180657	nominative
+180660	nominative
+180665	accusative
+180668	accusative
+180717	dative
+180733	nominative
+180735	nominative
+180747	nominative
+180753	nominative
+180758	nominative
+nominative
+180767	dative
+180774	accusative
+180791	nominative
+180794	nominative
+180797	nominative
+180800	dative
+180803	nominative
+180806	nominative
+180809	nominative
+180814	vocative
+nominative
+180818	nominative
+180821	vocative
+nominative
+180841	accusative
+180851	accusative
+180857	nominative
+180864	accusative
+180866	genitive
+180874	accusative
+180885	dative
+180898	nominative
+180901	dative
+180904	nominative
+accusative
+180908	accusative
+180911	accusative
+180922	accusative
+180924	accusative
+180930	dative
+180949	accusative
+180951	accusative
+180957	dative
+180972	nominative
+180977	dative
+accusative
+nominative
+180982	dative
+180985	nominative
+180991	accusative
+180994	nominative
+accusative
+181011	nominative
+181014	dative
+181071	accusative
+181074	accusative
+181076	nominative
+181079	dative
+181084	nominative
+accusative
+181092	dative
+181096	dative
+181098	dative
+181105	dative
+181109	nominative
+accusative
+181116	dative
+accusative
+181120	accusative
+181136	nominative
+181139	dative
+181146	genitive
+accusative
+181172	accusative
+accusative
+181185	accusative
+181194	nominative
+nominative
+181201	nominative
+181213	dative
+181217	accusative
+181230	accusative
+181248	dative
+181252	genitive
+181254	genitive
+accusative
+181260	accusative
+181274	nominative
+181278	dative
+181297	nominative
+181303	dative
+181307	nominative
+181316	nominative
+181330	nominative
+181334	dative
+nominative
+181351	dative
+181359	accusative
+181361	accusative
+181365	nominative
+181390	dative
+181394	dative
+181405	accusative
+181409	accusative
+181442	nominative
+181450	nominative
+181452	dative
+181456	nominative
+181458	nominative
+181470	nominative
+181482	nominative
+181486	dative
+181489	dative
+accusative
+181500	nominative
+181505	dative
+accusative
+181516	nominative
+181540	nominative
+181544	nominative
+181550	nominative
+181555	nominative
+181563	nominative
+181566	nominative
+nominative
+181582	genitive
+181590	dative
+181593	dative
+181596	dative
+181603	accusative
+181606	accusative
+181611	accusative
+181614	nominative
+181641	accusative
+nominative
+181645	genitive
+181649	nominative
+181658	accusative
+181672	dative
+181675	nominative
+181690	accusative
+181694	accusative
+181699	accusative
+vocative
+181704	nominative
+181706	accusative
+181709	accusative
+181712	accusative
+181729	accusative
+181738	dative
+181747	genitive
+nominative
+181766	dative
+accusative
+181803	vocative
+181805	accusative
+181833	accusative
+181838	nominative
+181840	accusative
+181845	dative
+181854	dative
+181858	nominative
+181861	nominative
+181864	dative
+181870	accusative
+181874	accusative
+accusative
+181877	dative
+181881	accusative
+181883	dative
+181886	nominative
+nominative
+nominative
+181902	accusative
+dative
+accusative
+181907	accusative
+181911	dative
+181916	dative
+nominative
+181931	nominative
 181934	nominative
 181937	nominative
-181952	accusative
-181960	accusative
-181975	nominative
-181980	nominative
-181988	accusative
-181992	nominative
-181998	accusative
-182001	accusative
+181941	nominative
+181943	nominative
+181948	nominative
+181951	nominative
+181954	nominative
+181958	nominative
+181960	nominative
 accusative
-182005	dative
-182007	dative
-182009	nominative
-182011	dative
-182014	genitive
-genitive
-182023	nominative
-182031	nominative
-182044	nominative
-182046	nominative
-182051	nominative
-182054	nominative
-182056	nominative
-182059	nominative
-182062	accusative
-182066	accusative
-182071	accusative
-182073	accusative
-182076	dative
-182079	nominative
-182093	dative
-182101	accusative
-182107	nominative
-182114	nominative
-182152	nominative
-182154	accusative
-genitive
-genitive
+181965	nominative
+181978	accusative
+181981	accusative
+181984	accusative
+182007	nominative
+182017	accusative
+182020	nominative
 dative
-182160	nominative
-182162	dative
-nominative
-182171	nominative
-182179	nominative
-182182	dative
-182189	nominative
-182191	nominative
-182203	accusative
-182211	nominative
-182213	nominative
+vocative
+vocative
+182030	nominative
+182039	nominative
+182041	dative
+182045	vocative
+vocative
+182053	accusative
+182063	dative
+182067	accusative
+182070	nominative
+182074	nominative
+182081	accusative
+182084	nominative
+182112	nominative
+182118	nominative
 accusative
-182218	vocative
-182222	accusative
-182231	nominative
-182238	nominative
-182243	accusative
-182255	genitive
-182260	nominative
-182277	dative
-182283	nominative
-182285	nominative
-182287	accusative
-182290	dative
+182122	nominative
+182147	nominative
+182162	accusative
+182165	accusative
+nominative
+182171	genitive
+182173	genitive
+182177	dative
+182181	nominative
+nominative
+182184	dative
+nominative
+vocative
+182190	accusative
+182193	nominative
+182196	genitive
+nominative
+182207	dative
+182211	dative
+182215	accusative
+182221	accusative
+182223	nominative
+182226	genitive
+182228	genitive
+182231	dative
+nominative
+182234	nominative
+accusative
+182237	nominative
+vocative
+182244	nominative
+182246	nominative
+182248	dative
+nominative
+nominative
+182252	accusative
+nominative
+182258	vocative
+182261	nominative
+182269	accusative
+182271	dative
+182282	nominative
+182284	accusative
+182289	dative
 182295	dative
-182299	dative
 182304	accusative
-182307	dative
-182310	vocative
-182315	nominative
-182320	dative
-182327	dative
-182329	nominative
-182331	nominative
-182333	nominative
-182335	nominative
-182337	accusative
-182343	genitive
-182345	genitive
-182348	dative
-182350	accusative
-182353	genitive
-182360	nominative
-182384	nominative
-182389	nominative
-182394	nominative
-182399	nominative
-182411	nominative
-accusative
-182420	nominative
-182423	nominative
-182431	accusative
+182307	nominative
+182313	dative
+182315	dative
+182323	dative
+182325	nominative
+182364	dative
+182372	nominative
+182388	accusative
+182394	dative
+genitive
+182397	genitive
+182399	dative
+182401	accusative
+182405	dative
+182409	accusative
+182413	nominative
+182417	genitive
+182419	nominative
+182426	nominative
+182429	accusative
 182436	nominative
-182441	dative
-182447	accusative
-182460	nominative
-nominative
-182463	nominative
-nominative
-182499	nominative
-accusative
-182505	nominative
+182439	dative
+vocative
+182442	dative
+182447	dative
+182452	accusative
+182458	accusative
+182472	dative
+vocative
+182475	dative
+182477	accusative
+182486	dative
+182489	dative
+182497	dative
 dative
+182502	dative
+182516	nominative
+182520	nominative
+182522	accusative
 nominative
-182525	accusative
-182527	nominative
-182530	nominative
-182537	accusative
-182539	accusative
-182541	accusative
-182543	accusative
-182567	nominative
-182579	nominative
-182581	nominative
+vocative
+182529	dative
+nominative
+nominative
+182533	vocative
+182535	nominative
+182547	nominative
+nominative
+182550	nominative
+182556	dative
+182559	genitive
+genitive
+182568	dative
+182572	nominative
+182575	nominative
+182580	accusative
 182588	nominative
-182593	accusative
-182599	nominative
-182608	nominative
-182615	nominative
-182618	accusative
-182623	nominative
-182637	dative
 nominative
-182649	nominative
-182651	accusative
-182653	accusative
-182658	nominative
-182663	nominative
-182672	accusative
-182679	accusative
-182696	accusative
-182702	accusative
-182706	dative
-182710	accusative
-182714	nominative
-182716	nominative
-182722	nominative
-182727	nominative
+182598	accusative
+182601	accusative
+182606	nominative
+182610	accusative
+nominative
+182614	accusative
+182616	accusative
+182623	dative
+182625	nominative
+182627	nominative
+182645	nominative
+182648	nominative
+182655	genitive
+182665	nominative
 accusative
-182731	nominative
-accusative
-182736	nominative
-182740	accusative
-182748	nominative
-182750	nominative
-182755	accusative
-182765	dative
+182674	nominative
+182685	dative
+182688	accusative
+182690	nominative
+182697	vocative
+182707	nominative
+182710	nominative
+182719	accusative
+182723	nominative
+182726	nominative
+182741	accusative
+182749	accusative
+182763	nominative
+182768	nominative
+182776	accusative
 182780	nominative
-182784	nominative
-182788	nominative
-182805	accusative
-182813	accusative
-nominative
+182786	accusative
+182789	accusative
+accusative
+182793	dative
+182795	dative
+182797	nominative
+182799	dative
+182802	genitive
+genitive
+182811	nominative
 182819	nominative
+182832	nominative
+182834	nominative
+182839	nominative
+182842	nominative
 nominative
-182825	nominative
-182828	accusative
-182830	dative
-182837	accusative
-182848	genitive
-182853	genitive
+182846	nominative
+182849	accusative
+182853	accusative
 182858	accusative
-182865	genitive
-182890	nominative
-182898	nominative
-182908	nominative
-182911	accusative
-182915	nominative
-accusative
-182929	accusative
-182935	accusative
-182937	accusative
-182942	accusative
-182947	accusative
-182952	accusative
-182961	nominative
-182967	genitive
+182860	accusative
+182863	dative
+182866	nominative
+182880	dative
+182888	accusative
+182894	nominative
+182901	nominative
+182939	nominative
+182941	accusative
+genitive
+genitive
+dative
+182947	nominative
+182949	dative
 nominative
-182970	nominative
-182976	genitive
-nominative
-182979	nominative
-182989	genitive
-nominative
-nominative
-182995	accusative
+182958	nominative
+182966	nominative
+182969	dative
+182976	nominative
+182978	nominative
+182989	accusative
 182997	nominative
-183002	accusative
-nominative
+182999	nominative
 accusative
-accusative
-183008	accusative
-nominative
-183011	accusative
-accusative
-nominative
-accusative
-183020	nominative
-accusative
-183028	nominative
-183039	dative
-183050	nominative
-183063	nominative
-183069	nominative
-183074	dative
-183076	nominative
-183078	nominative
-183080	accusative
-183083	nominative
-183086	dative
-nominative
+183003	vocative
+183007	accusative
+183016	nominative
+183023	nominative
+183028	accusative
+183039	genitive
+183044	nominative
+183060	dative
+183066	nominative
+183068	nominative
+183070	accusative
+183072	dative
+183077	dative
+183081	dative
+183086	accusative
 183089	dative
-accusative
-183093	nominative
+183091	vocative
 183096	nominative
-183098	nominative
-183101	nominative
-183104	nominative
-183107	nominative
+183101	dative
+183108	dative
 183110	nominative
 183112	nominative
-183117	genitive
-183119	genitive
-183126	accusative
-183133	accusative
-183135	accusative
-183140	accusative
-183143	nominative
-183150	accusative
-183152	accusative
-183157	dative
-183160	nominative
-183165	nominative
-183171	nominative
-183178	dative
-183193	nominative
-genitive
-183209	nominative
-183211	accusative
-183225	nominative
-183228	nominative
-183230	nominative
+183114	nominative
+183116	nominative
+183118	accusative
+183123	genitive
+183125	genitive
+183128	dative
+183130	accusative
+183132	genitive
+183139	nominative
+183163	nominative
+183168	nominative
+183173	nominative
+183178	nominative
+183189	nominative
 accusative
-183233	dative
+183198	nominative
+183201	nominative
+183209	accusative
+183214	nominative
+183219	dative
+183225	accusative
 183238	nominative
-183242	dative
-183245	nominative
 nominative
-183248	dative
-183250	dative
-183260	nominative
-183266	accusative
-183273	nominative
-183275	nominative
-183307	dative
-vocative
-183310	dative
-vocative
-183320	nominative
-183329	dative
-183333	nominative
-183338	dative
+183241	nominative
 nominative
-vocative
-183351	nominative
-183358	dative
-183361	nominative
-183366	dative
-183370	nominative
-183375	dative
-183385	accusative
+183277	nominative
+accusative
+183283	nominative
+dative
+nominative
+183303	accusative
+183305	nominative
+183308	nominative
+183314	accusative
+183316	accusative
+183318	accusative
+183320	accusative
+183342	nominative
+183354	nominative
+183356	nominative
+183362	nominative
+183367	accusative
+183373	nominative
+183382	nominative
+183388	nominative
 183391	accusative
-dative
-183399	nominative
-183402	nominative
-dative
-183410	nominative
-183418	nominative
-183425	dative
-183433	nominative
-183435	nominative
+183396	nominative
+183409	dative
 nominative
-183438	accusative
-183454	accusative
-183460	nominative
-183464	nominative
-183482	accusative
-183487	nominative
-183489	dative
-183494	accusative
-183499	nominative
-183502	dative
-183505	accusative
-183507	nominative
-183525	nominative
-183528	dative
-183536	dative
-183549	nominative
-183553	dative
-183563	nominative
-183566	accusative
-183570	accusative
-183582	nominative
-183591	accusative
-nominative
+183421	nominative
+183423	accusative
+183425	accusative
+183430	nominative
+183434	nominative
+183443	accusative
+183450	accusative
+183466	accusative
+183471	accusative
+183475	dative
+183479	accusative
+183483	nominative
+183485	nominative
+183491	nominative
+183496	nominative
 accusative
-183596	accusative
+183500	nominative
+accusative
+183505	nominative
+183509	accusative
+183517	nominative
+183519	nominative
+183524	accusative
+183533	dative
+183547	nominative
+183551	nominative
+183555	nominative
+183571	accusative
+183579	accusative
 nominative
-183603	genitive
+183584	nominative
 nominative
-183607	dative
-nominative
-183612	nominative
-183618	nominative
+183589	nominative
+183592	accusative
+183594	dative
+183601	accusative
+183612	genitive
+183617	genitive
 183622	accusative
-183625	dative
-183628	nominative
-genitive
-183645	nominative
-183648	nominative
-183651	accusative
-183655	accusative
-183659	nominative
-183664	dative
-nominative
-183672	dative
-183675	accusative
+183629	genitive
+183654	nominative
+183662	nominative
+183671	nominative
+183674	accusative
+183678	nominative
 accusative
-183680	nominative
-183684	genitive
-183690	accusative
-183695	accusative
-183704	accusative
-183713	nominative
-183719	accusative
-183724	accusative
-183734	nominative
-183738	dative
-183740	nominative
-183744	accusative
-183755	nominative
-183761	nominative
-183764	nominative
-183775	nominative
-183780	dative
-183784	nominative
-183792	nominative
+183692	accusative
+183698	accusative
+183700	accusative
+183705	accusative
+183710	accusative
+183715	accusative
+183724	nominative
+183730	genitive
+nominative
+183733	nominative
+183739	genitive
+nominative
+183742	nominative
+183752	genitive
+nominative
+nominative
+183758	accusative
+183760	nominative
+183765	accusative
+nominative
+accusative
+accusative
+183771	accusative
+nominative
+183774	accusative
+accusative
+nominative
+accusative
+183783	nominative
+accusative
+183790	nominative
+183800	dative
 183810	nominative
-183819	nominative
-183826	nominative
-183839	nominative
-183852	accusative
+183823	nominative
+183829	nominative
+183834	dative
+183836	nominative
+183838	nominative
+183840	accusative
+183843	nominative
+183846	dative
+nominative
+183849	dative
+accusative
+183853	nominative
+183856	nominative
+183858	nominative
 183861	nominative
+183864	nominative
 183867	nominative
-183872	dative
-183887	nominative
-183889	accusative
-183895	dative
-183897	nominative
-183906	dative
-183914	dative
-183919	accusative
-183923	accusative
-183928	accusative
-183932	accusative
-183941	accusative
-183943	nominative
-nominative
-183958	accusative
+183870	nominative
+183872	nominative
+183876	genitive
+183878	genitive
+183884	accusative
+183891	accusative
+183893	accusative
+183898	accusative
+183901	nominative
+183907	accusative
+183909	accusative
+183913	dative
+183916	nominative
+183921	nominative
+183927	nominative
+183933	dative
+183948	nominative
+genitive
+183964	nominative
 183966	accusative
-183969	dative
-183974	accusative
-183979	accusative
-183994	dative
-183999	nominative
-vocative
-184003	accusative
-184005	nominative
-184007	nominative
-184009	dative
-184014	accusative
-184017	nominative
-184020	dative
-184030	nominative
-184062	accusative
-184082	accusative
-184106	nominative
+183979	nominative
+183982	nominative
+183984	nominative
 accusative
+183987	dative
+183992	nominative
+183995	dative
+183998	nominative
+nominative
+184001	dative
+184003	dative
+184013	nominative
+184019	accusative
+184026	nominative
+184028	nominative
+184058	dative
+vocative
+184061	dative
+vocative
+184071	nominative
+184080	dative
+184084	nominative
+184089	dative
+nominative
+vocative
+184102	nominative
+184109	dative
+184112	nominative
+184117	dative
 184121	nominative
-184124	accusative
-184126	accusative
-184128	accusative
-184140	nominative
-184149	nominative
-184159	genitive
+184125	dative
+184135	accusative
+184141	accusative
+dative
+184147	nominative
+184150	nominative
+dative
+184158	nominative
+184166	nominative
+184173	dative
+184180	nominative
+184182	nominative
+nominative
+184185	accusative
+184201	accusative
+184207	nominative
+184211	nominative
+184229	accusative
+184234	nominative
+184236	dative
+184241	accusative
+184246	nominative
+184249	dative
+184251	accusative
+184253	nominative
+184271	nominative
+184274	dative
+184282	dative
+184295	nominative
+184299	dative
+184308	nominative
+184311	accusative
+184315	accusative
+184327	nominative
+184336	accusative
+nominative
+accusative
+184341	accusative
+nominative
+184348	genitive
+nominative
+184352	dative
+nominative
+184356	nominative
+184362	nominative
+184366	accusative
+184369	dative
+184372	nominative
 genitive
-184170	nominative
-dative
-184175	nominative
-dative
-184186	nominative
-dative
-184189	nominative
-184191	nominative
-184193	dative
-dative
-184196	nominative
-184201	nominative
-184206	nominative
-184221	nominative
-184231	nominative
-184239	nominative
-184250	accusative
-184252	accusative
-184262	dative
+184389	nominative
+184392	nominative
+184395	accusative
+184399	accusative
+184403	nominative
+184408	dative
+nominative
+184416	dative
+184419	accusative
 accusative
-184265	nominative
-184268	nominative
-184273	accusative
-nominative
-184280	nominative
-184283	accusative
-184286	nominative
-184305	genitive
-184307	genitive
-184313	accusative
-184316	nominative
-184327	accusative
-184329	nominative
-184339	accusative
-nominative
-184343	nominative
-184346	nominative
-184349	nominative
-accusative
-184353	nominative
-184356	dative
-184360	dative
-nominative
-184363	nominative
-184366	dative
-184374	dative
-184378	nominative
-184382	dative
-184385	nominative
-184390	accusative
-184396	dative
-184400	nominative
-184404	nominative
-184410	dative
-184414	nominative
-184417	dative
 184424	nominative
-184459	accusative
-184463	nominative
-184475	dative
-184483	accusative
-184491	accusative
-184496	nominative
-184501	genitive
-184503	genitive
-genitive
-184510	genitive
-184515	accusative
-184519	nominative
-184523	nominative
-184527	nominative
-nominative
-184531	nominative
+184428	genitive
+184433	accusative
+184437	accusative
+184446	accusative
+184455	nominative
+184461	accusative
+184466	accusative
+184476	nominative
+184480	dative
+184482	nominative
+184486	accusative
+184497	nominative
+184503	nominative
+184505	nominative
+184516	nominative
+184521	dative
+184525	nominative
 184533	nominative
-184535	nominative
-accusative
-184541	accusative
-184544	nominative
-184546	genitive
-184552	nominative
-184557	nominative
+184551	nominative
+184560	nominative
+184567	nominative
+184579	nominative
+184592	accusative
+184601	nominative
+184607	nominative
+184612	dative
+184626	nominative
+184628	accusative
+184634	dative
 nominative
-184561	nominative
-184574	nominative
-184580	nominative
+184644	dative
+184652	dative
+184657	accusative
+184661	accusative
+184666	accusative
+184670	accusative
+184679	accusative
+184681	nominative
 nominative
-184585	nominative
-184587	nominative
-nominative
-184593	accusative
-184596	accusative
-184599	accusative
-184604	dative
-nominative
-184611	dative
-184625	accusative
-184637	accusative
-184643	nominative
-184649	dative
-vocative
-184659	accusative
-nominative
-184663	dative
-184665	accusative
-184669	dative
-184674	nominative
-184676	accusative
-nominative
-184684	nominative
-184691	accusative
-184703	accusative
-184707	accusative
+184696	accusative
+184704	accusative
+184707	dative
 184711	accusative
-184720	dative
-nominative
-nominative
-184729	accusative
-nominative
-nominative
+184716	accusative
+184731	dative
 184736	nominative
-nominative
-184745	nominative
-184750	nominative
-184764	dative
-nominative
-184771	accusative
-nominative
-nominative
-184779	genitive
-184781	nominative
-184789	accusative
-184791	dative
-184794	nominative
-184797	genitive
-184803	accusative
-184806	nominative
-184813	dative
-184816	nominative
-184818	dative
-184824	nominative
-184826	nominative
-184828	nominative
-184842	nominative
-184857	nominative
-accusative
-184867	nominative
-184875	dative
-184899	accusative
-184903	accusative
-184926	nominative
-accusative
-184929	nominative
-184936	dative
-184939	accusative
-nominative
-nominative
-184950	accusative
-184957	nominative
-184963	dative
-184965	nominative
-184969	nominative
-184972	accusative
-184976	accusative
-184978	nominative
-184985	dative
-184991	dative
-accusative
-184995	nominative
-184999	nominative
-185024	accusative
-185040	dative
-185042	nominative
-185045	dative
-185049	nominative
-185053	nominative
-185057	nominative
-185075	nominative
-185080	accusative
-185087	accusative
-185091	dative
-185097	nominative
-185105	nominative
-185116	nominative
-185121	dative
-185129	dative
-185133	nominative
-nominative
-185165	nominative
-185169	nominative
-185180	nominative
-185196	dative
-185199	dative
-185201	accusative
-185204	nominative
-accusative
-185212	accusative
-185218	dative
-185232	dative
-185234	accusative
-185236	nominative
-185238	nominative
-185243	dative
-185252	nominative
-185258	accusative
-185262	nominative
-185264	accusative
-185280	nominative
-185287	accusative
-185289	nominative
-185292	nominative
-185302	nominative
-185305	dative
-185310	nominative
-185322	genitive
-185324	genitive
-185326	dative
-185328	nominative
-185330	nominative
-185341	nominative
-185345	dative
-accusative
-185350	dative
-185353	accusative
-185357	dative
-nominative
-185360	nominative
-185363	dative
-185374	nominative
-185378	dative
-185380	accusative
-185382	nominative
-185387	nominative
-185394	nominative
-185400	nominative
-185410	nominative
-185418	accusative
-185423	nominative
-185440	accusative
-185444	genitive
-185448	nominative
-185456	genitive
-185458	genitive
-nominative
-185470	nominative
-185475	nominative
-185483	nominative
-185488	nominative
-accusative
-185492	accusative
-185494	nominative
-185496	nominative
-185502	nominative
-185506	dative
-nominative
-185511	nominative
-185515	nominative
-185517	dative
-185520	vocative
-185522	nominative
-185525	accusative
-185530	nominative
-185535	nominative
-185538	nominative
-185546	nominative
-185551	nominative
-185554	nominative
 vocative
-185557	accusative
-185561	nominative
-185564	genitive
-185567	dative
-vocative
-185573	genitive
+184740	accusative
+184742	nominative
+184744	nominative
+184746	dative
+184751	accusative
+184754	nominative
+184757	dative
+184767	nominative
+184798	accusative
+184817	accusative
+184841	nominative
+accusative
+184855	nominative
+184858	accusative
+184860	accusative
+184862	accusative
+184874	nominative
+184883	nominative
+184893	genitive
 genitive
-185584	dative
-nominative
-185590	nominative
-185597	nominative
+184904	nominative
+dative
+184909	nominative
+dative
+184920	nominative
+dative
+184923	nominative
+184925	nominative
+184927	dative
+dative
+184930	nominative
+184935	nominative
+184940	nominative
+184954	nominative
+184964	nominative
+184972	nominative
+184983	accusative
+184985	accusative
+184995	dative
 accusative
-185610	dative
-185613	accusative
-185616	accusative
-185618	accusative
-185625	nominative
-185634	nominative
-185647	accusative
-185649	nominative
-185651	nominative
-185653	dative
-185673	nominative
-185676	dative
-185678	nominative
-185681	nominative
-185687	nominative
+184998	nominative
+185001	nominative
+185006	accusative
+nominative
+185013	nominative
+185016	accusative
+185018	nominative
+185036	genitive
+185038	genitive
+185044	accusative
+185047	nominative
+185058	accusative
+185060	nominative
+185069	accusative
+nominative
+185073	nominative
+185076	nominative
+185079	nominative
 accusative
-185706	vocative
-185710	nominative
+185083	nominative
+185086	dative
+185090	dative
 nominative
-185716	accusative
-185727	accusative
+185093	nominative
+185096	dative
+185104	dative
+185108	nominative
+185112	dative
+185115	nominative
+185120	accusative
+185126	dative
+185130	nominative
+185134	nominative
+185140	dative
+185144	nominative
+185147	dative
+185154	nominative
+185188	accusative
+185191	nominative
+185202	dative
+185210	accusative
+185218	accusative
+185223	nominative
+185228	genitive
+genitive
+genitive
+185236	genitive
+185241	accusative
+185245	nominative
+185249	nominative
+185253	nominative
 nominative
+185257	nominative
+185259	nominative
+185261	nominative
 accusative
-185732	nominative
-185735	dative
-185741	nominative
-185747	nominative
-185750	nominative
-185754	nominative
-185757	dative
-185761	nominative
-185764	nominative
-185766	nominative
-185770	accusative
-185779	accusative
-185783	nominative
-185785	accusative
-185788	nominative
-185791	nominative
-185795	dative
-185797	dative
-185799	nominative
-185802	accusative
-185804	nominative
-185809	nominative
-185820	nominative
-185826	nominative
-185836	nominative
-185838	nominative
-185847	nominative
-185862	nominative
-185864	nominative
-185867	accusative
-185874	nominative
-185878	dative
-accusative
-185881	nominative
-185885	accusative
+185267	accusative
+185270	nominative
+185272	genitive
+185278	nominative
+185283	nominative
 nominative
-185889	accusative
-185893	nominative
-185895	nominative
-185906	accusative
-185908	nominative
-185910	nominative
-185912	dative
+185287	nominative
+185300	nominative
+185306	nominative
 nominative
+185310	nominative
+185312	nominative
+nominative
+185318	accusative
+185321	accusative
+185324	accusative
+185329	dative
+nominative
+185336	dative
+185350	accusative
+185362	accusative
+185368	nominative
+185374	dative
 vocative
-185916	dative
+185384	accusative
 nominative
-185919	nominative
-185923	nominative
-185931	nominative
-185936	vocative
-185944	genitive
-185951	nominative
-185954	dative
-185957	nominative
-185962	dative
-185973	nominative
-185982	nominative
-185990	dative
+185388	dative
+185390	accusative
+185394	dative
+185398	nominative
+185400	accusative
+nominative
+185407	nominative
+185414	accusative
+185426	accusative
+185430	accusative
+185434	accusative
+185443	dative
+nominative
+nominative
+185451	accusative
+nominative
+nominative
+185458	nominative
+nominative
+185467	nominative
+185472	nominative
+185486	dative
+nominative
+185492	accusative
+nominative
+nominative
+185500	genitive
+185502	nominative
+185510	accusative
+185512	dative
+185515	nominative
+185518	genitive
+185524	accusative
+185527	nominative
+185534	dative
+185537	nominative
+185539	dative
+185545	nominative
+185547	nominative
+185549	nominative
+185563	nominative
+185578	nominative
+accusative
+185588	nominative
+185596	dative
+185620	accusative
+185624	accusative
+185647	nominative
+accusative
+185650	nominative
+185656	dative
+185659	accusative
+nominative
+nominative
+185670	accusative
+185677	nominative
+185683	dative
+185685	nominative
+185689	nominative
+185692	accusative
+185696	accusative
+185698	nominative
+185704	dative
+185710	dative
+accusative
+185714	nominative
+185718	nominative
+185743	accusative
+185759	dative
+185761	nominative
+185764	dative
+185768	nominative
+185772	nominative
+185775	nominative
+185792	nominative
+185797	accusative
+185804	accusative
+185808	dative
+185814	nominative
+185822	nominative
+185833	nominative
+185838	dative
+185846	dative
+185849	nominative
+nominative
+185880	nominative
+185884	nominative
+185895	nominative
+185911	dative
+185914	dative
+185916	accusative
+185918	nominative
+accusative
+185926	accusative
+185930	dative
+185944	dative
+185946	accusative
+185948	nominative
+185950	nominative
+185955	dative
+185964	nominative
+185970	accusative
+185974	nominative
+185976	accusative
 185992	nominative
 185999	accusative
-186005	accusative
-186009	accusative
-186011	accusative
-accusative
-accusative
+186001	nominative
+186004	nominative
+186014	nominative
+186017	dative
+186022	nominative
+186033	genitive
+186035	genitive
+186037	dative
+186039	nominative
 nominative
-186016	accusative
+186051	nominative
+186055	dative
 accusative
-186019	accusative
-accusative
-186027	nominative
-186041	dative
-186045	accusative
-186059	dative
-186062	dative
-186070	dative
-186074	nominative
-186081	nominative
-186093	nominative
-186105	nominative
-186112	accusative
+186060	dative
+186062	accusative
+186066	dative
+nominative
+186069	nominative
+186072	dative
+186082	nominative
+186086	dative
+186088	accusative
+186090	nominative
+186095	nominative
+186102	nominative
+186108	nominative
 186118	nominative
-186125	nominative
-186136	nominative
-186140	nominative
-186142	accusative
-186147	dative
+186126	accusative
+186131	nominative
+186148	accusative
+186152	genitive
+186156	nominative
+186163	genitive
+186165	genitive
 nominative
-186150	nominative
-186152	dative
-186154	genitive
-genitive
-186158	nominative
-186166	nominative
-186169	nominative
-186186	accusative
+186176	nominative
+186181	nominative
 186189	nominative
-186192	dative
-186198	nominative
+186194	nominative
 accusative
+186198	accusative
+186200	nominative
 186202	nominative
-186207	accusative
+186208	nominative
 186212	dative
-186221	nominative
-186225	nominative
-186227	accusative
-186230	nominative
-186234	accusative
-186237	vocative
-186239	accusative
+nominative
+186215	nominative
+186219	nominative
+186221	dative
+186224	vocative
+186226	nominative
+186229	accusative
+186234	nominative
+186239	nominative
+186242	nominative
+186250	nominative
+186255	nominative
+186258	nominative
+vocative
+186261	accusative
+186265	nominative
+186268	genitive
 186271	dative
-186297	nominative
-186308	nominative
+vocative
+186276	genitive
+genitive
+186287	dative
+nominative
+186293	nominative
+186300	nominative
 accusative
-186316	nominative
-186320	nominative
-186324	nominative
-186326	accusative
-nominative
-186334	dative
-nominative
-186337	accusative
-accusative
-186341	nominative
-186345	nominative
-186353	genitive
-nominative
-186358	dative
-186360	nominative
-186369	dative
-186377	nominative
+186313	dative
+186316	accusative
+186319	accusative
+186321	accusative
+186328	nominative
+186337	nominative
+186350	accusative
+186352	nominative
+186354	nominative
+186356	dative
+186376	nominative
 186379	dative
-186382	nominative
+186381	nominative
 186384	nominative
-186396	genitive
-186398	dative
-186405	accusative
-186413	accusative
-186425	dative
-186428	nominative
-186439	accusative
-186443	accusative
+186390	nominative
+accusative
+186409	vocative
+186413	nominative
+nominative
+186419	accusative
+186430	accusative
+nominative
+accusative
+186435	nominative
+186438	dative
+186443	nominative
+186449	nominative
+186452	nominative
 186456	nominative
-accusative
-186461	dative
-nominative
-186464	nominative
-dative
-vocative
-186469	dative
-nominative
-nominative
-186473	nominative
-186480	vocative
-186498	nominative
+186459	dative
+186463	nominative
+186466	nominative
+186468	nominative
+186471	accusative
+186480	accusative
+186484	nominative
+186486	accusative
+186489	nominative
+186492	nominative
+186496	dative
+186498	dative
+186500	nominative
 186503	accusative
-186510	dative
-nominative
-186518	accusative
-nominative
-186526	accusative
+186505	nominative
+186510	nominative
+186520	nominative
+186526	nominative
+186536	nominative
+186538	nominative
+186547	nominative
+186562	nominative
+186564	nominative
+186566	accusative
+186573	nominative
+186577	dative
 accusative
-186530	nominative
-186541	accusative
-186543	nominative
-186564	dative
-186569	dative
-186575	genitive
+186580	nominative
+186584	accusative
 nominative
-186579	genitive
-186585	accusative
+186587	accusative
+186591	nominative
+186593	nominative
 186603	accusative
-186622	nominative
-186629	dative
-186632	nominative
-186634	nominative
-186640	vocative
+186605	nominative
+186607	nominative
+186609	dative
 nominative
-186643	accusative
-186651	dative
-accusative
-186654	dative
-accusative
-186657	dative
-accusative
-186660	genitive
-genitive
-186665	accusative
-186668	nominative
-186671	nominative
-186673	nominative
-186682	genitive
-186684	nominative
-186696	nominative
-genitive
-186704	nominative
-186708	accusative
-186716	genitive
-genitive
-186721	dative
-186723	nominative
-dative
-186728	genitive
-186736	accusative
-186738	nominative
-accusative
-186744	accusative
-186747	accusative
+vocative
+186613	dative
 nominative
-186750	nominative
-186754	nominative
-186759	accusative
-186762	dative
-186765	nominative
-186771	accusative
-186775	accusative
-186793	dative
-186796	genitive
-186800	dative
-nominative
-186803	nominative
+186616	nominative
+186620	nominative
+186628	nominative
+186632	vocative
+186640	genitive
+186647	nominative
+186650	dative
+186652	nominative
+186656	dative
+186667	nominative
+186676	nominative
+186684	dative
+186686	nominative
+186693	accusative
+186699	accusative
+186703	accusative
+186705	accusative
 accusative
-186806	nominative
-186808	vocative
-186829	accusative
+accusative
+nominative
+186710	accusative
+accusative
+186713	accusative
+accusative
+186721	nominative
+186734	dative
+186738	accusative
+186752	dative
+186755	dative
+186763	dative
+186767	nominative
+186774	nominative
+186786	nominative
+186798	nominative
+186805	accusative
+186811	nominative
+186818	nominative
+186829	nominative
+186833	nominative
 186835	accusative
-186837	nominative
-186844	nominative
-186851	genitive
-186853	dative
+186840	dative
+nominative
+186843	nominative
+186845	dative
+genitive
+genitive
+186849	nominative
+186856	nominative
+186859	nominative
+186876	accusative
+186879	nominative
+186882	dative
+186888	nominative
 accusative
-186858	dative
-186871	nominative
-186877	nominative
-186881	accusative
-nominative
-186885	dative
-186893	dative
-186910	nominative
-186912	dative
-186914	genitive
-186916	genitive
-186920	dative
-186932	accusative
-186941	genitive
-186943	genitive
-186947	nominative
-186954	accusative
-186959	accusative
-186963	accusative
-186965	nominative
-186967	nominative
-dative
-186970	vocative
-186987	genitive
-186992	dative
-186994	nominative
-187001	accusative
-nominative
-187005	accusative
-187009	accusative
-187013	nominative
-187017	accusative
+186892	nominative
+186897	accusative
+186902	dative
+186911	nominative
+186915	nominative
+186917	accusative
+186920	nominative
+186924	accusative
+186927	vocative
+186929	accusative
+186961	dative
+186987	nominative
+186998	nominative
 accusative
+187006	nominative
+187010	nominative
+187014	nominative
+187016	accusative
 nominative
-187021	dative
+187024	dative
+nominative
+187027	accusative
+accusative
 187031	nominative
+187035	nominative
+187043	genitive
 nominative
-187034	nominative
-187041	nominative
+187048	dative
+nominative
+187058	dative
+187066	nominative
+187068	dative
+187071	nominative
+187073	nominative
+187085	genitive
+187087	dative
+187094	accusative
+187102	accusative
+187113	dative
+187116	nominative
+187127	accusative
+187131	accusative
+187144	nominative
 accusative
-187044	accusative
-187051	dative
-187068	nominative
-187071	accusative
-187076	nominative
-187084	nominative
-187091	accusative
-187094	nominative
-187101	genitive
-187104	dative
-187121	nominative
-187141	accusative
-187143	accusative
-187147	nominative
+187149	dative
+nominative
+nominative
 dative
-187160	accusative
-187171	accusative
-187173	accusative
-187177	nominative
-dative
-187180	accusative
-187186	accusative
-187200	dative
+vocative
+187156	dative
+nominative
+nominative
+187160	nominative
+187165	vocative
+187182	nominative
+187187	accusative
+187194	dative
+nominative
+187202	accusative
+nominative
+187210	accusative
+accusative
 187214	nominative
-dative
-187232	nominative
-187234	accusative
-187240	accusative
-187242	dative
+187225	accusative
+187227	nominative
+187248	dative
 187253	dative
-187257	nominative
-187278	accusative
-187285	genitive
-187313	genitive
-187322	dative
-187330	dative
+187258	genitive
+nominative
+187262	genitive
+187268	accusative
+187286	accusative
+187305	nominative
+187312	dative
+187315	nominative
+187317	nominative
+187322	vocative
+nominative
+187325	accusative
+187333	dative
 accusative
-187338	accusative
-187346	dative
-187358	genitive
-187361	dative
-187381	nominative
-187384	dative
-vocative
-187393	dative
-187396	dative
-187400	dative
-187412	nominative
-187415	accusative
-187420	genitive
-187422	genitive
-187426	dative
-187431	genitive
-187433	genitive
-187446	accusative
-187450	nominative
-187454	dative
+187336	dative
+accusative
+187339	dative
+accusative
+187342	genitive
+genitive
+187347	accusative
+187350	nominative
+187353	nominative
 nominative
-187460	accusative
-187462	dative
+187363	genitive
+187365	nominative
+187377	nominative
+genitive
+187385	nominative
+187389	accusative
+187396	genitive
+genitive
+187401	dative
+187403	nominative
+dative
+187408	genitive
+187416	accusative
+187418	nominative
+accusative
+187424	accusative
+187427	accusative
 nominative
-187470	accusative
-187474	dative
+187430	nominative
+187434	nominative
+187439	accusative
+187442	dative
+187444	nominative
+187450	accusative
+187454	accusative
+187472	dative
+187474	genitive
+187478	dative
 nominative
+187481	nominative
+accusative
 187484	nominative
-187486	dative
-187489	nominative
+vocative
+187505	accusative
+187511	accusative
+187513	nominative
+187520	nominative
+187526	genitive
+187528	dative
 accusative
-187492	nominative
-187496	accusative
-187498	nominative
-187503	accusative
+187533	dative
+187546	nominative
+187552	nominative
+187556	accusative
 nominative
-187510	dative
-nominative
-187517	nominative
-187519	accusative
-187523	accusative
-nominative
-187528	accusative
-187532	nominative
-187537	accusative
-187539	nominative
-accusative
-187544	dative
-187550	dative
-187553	accusative
-187560	nominative
-accusative
-187564	nominative
-187568	accusative
-187571	genitive
-187574	accusative
-dative
-187583	dative
-187587	nominative
-187615	dative
-187619	accusative
-187623	dative
-nominative
-187626	nominative
-accusative
-187629	nominative
-187636	nominative
-187638	nominative
-187642	nominative
-187647	accusative
-187654	nominative
-187674	accusative
-187678	nominative
-187682	dative
-accusative
-187685	nominative
-187693	dative
-187695	nominative
-187700	dative
-187711	dative
-187713	nominative
-187721	accusative
-187724	dative
-187739	nominative
-187742	dative
-187744	nominative
-187749	dative
-187754	nominative
-187762	nominative
-187769	nominative
-187771	accusative
-187776	nominative
-187782	dative
-nominative
-187788	dative
-187794	dative
-187804	accusative
-187814	nominative
-187816	dative
-187821	nominative
+187560	dative
+187566	dative
+187582	nominative
+187584	dative
+genitive
+187587	genitive
+187591	dative
+187603	accusative
+187611	genitive
+187613	genitive
+187617	nominative
+187624	accusative
+187628	accusative
+187632	accusative
+187634	nominative
 nominative
 dative
-187825	vocative
-187831	nominative
-187834	dative
-187836	accusative
+187638	vocative
+187653	genitive
+187658	dative
+187660	nominative
+187667	accusative
+nominative
+187671	accusative
+187675	accusative
+187679	nominative
+187683	accusative
 accusative
-187841	nominative
-187854	dative
+nominative
+187687	dative
+187697	nominative
+nominative
+187700	nominative
+187707	nominative
 accusative
-187880	accusative
-187882	dative
-187887	accusative
-187891	dative
-187896	nominative
-187902	accusative
-187905	dative
-187908	accusative
+187710	accusative
+187716	dative
+187732	nominative
+187735	accusative
+187740	nominative
+187748	nominative
+187755	accusative
+187757	nominative
+187764	genitive
+187767	dative
+187784	nominative
+187803	accusative
+187805	accusative
+187809	nominative
+dative
+187822	accusative
+187833	accusative
+187835	accusative
+187839	nominative
+dative
+187842	accusative
+187848	accusative
+187862	dative
+187876	nominative
+dative
+187894	nominative
+187896	accusative
+187901	accusative
+187903	dative
 187914	dative
-nominative
-187920	nominative
-187930	dative
-187932	nominative
-187942	dative
-187944	nominative
-187946	accusative
-187951	accusative
-187956	nominative
-187961	nominative
-nominative
-187966	nominative
-187970	dative
-187973	nominative
-nominative
-187978	nominative
-nominative
-187981	nominative
-187984	dative
-187987	nominative
-187989	accusative
-187992	dative
-nominative
-187996	dative
-188000	dative
-188002	dative
-188005	nominative
-dative
-188021	nominative
-188028	nominative
-188040	accusative
-188048	nominative
-188050	nominative
-nominative
-nominative
-188060	nominative
-188064	accusative
-188068	nominative
-188075	accusative
-188080	nominative
-188085	accusative
-188088	accusative
-188090	dative
-188098	accusative
+187918	nominative
+187937	accusative
+187943	genitive
+187968	genitive
+187977	dative
+187985	dative
+accusative
+187993	accusative
+188001	dative
+188011	genitive
+188014	dative
+188034	nominative
+188037	dative
+vocative
+188046	dative
+188049	dative
+188053	dative
+188064	nominative
+188067	accusative
+188071	genitive
+188073	genitive
+188077	dative
+188081	genitive
+188083	genitive
+188096	accusative
 188100	nominative
-188102	dative
+188104	dative
 nominative
-188108	nominative
-188117	nominative
-188119	accusative
-accusative
-188123	dative
-accusative
-188129	nominative
-188131	dative
+188110	accusative
+188112	dative
+nominative
+188120	accusative
+188124	dative
+nominative
 188133	nominative
+188135	dative
+188138	nominative
 accusative
-188137	dative
-188143	genitive
-188145	genitive
-188158	nominative
-188163	nominative
-188171	accusative
-188173	nominative
-188177	accusative
-188184	nominative
-188189	nominative
-188196	accusative
+188141	nominative
+188144	accusative
+188146	nominative
+188151	accusative
+nominative
+188158	dative
+nominative
+188164	nominative
+188166	accusative
+188170	accusative
+nominative
+188175	accusative
+188179	nominative
+188184	accusative
+188186	nominative
 accusative
-188200	dative
+188191	dative
+188197	dative
+188200	accusative
 188207	nominative
-188209	nominative
-188213	vocative
-188216	accusative
-genitive
-188219	dative
-188232	dative
 accusative
-188241	nominative
-188244	nominative
+188211	nominative
+188215	accusative
+188218	genitive
+188221	accusative
+dative
+188230	dative
+188234	nominative
+188261	dative
+188265	accusative
+188269	dative
 nominative
-188250	nominative
-188253	nominative
-nominative
-188257	nominative
-188266	dative
-188284	accusative
-188288	accusative
-188302	dative
-188311	nominative
-188313	nominative
+188272	nominative
 accusative
-188316	nominative
-188319	dative
+188275	nominative
+188282	nominative
+188284	nominative
+188288	nominative
+188293	accusative
+188300	nominative
+188320	accusative
+188324	nominative
+188328	dative
 accusative
-188323	dative
-188332	nominative
-188335	nominative
+188331	nominative
+188339	dative
 188341	nominative
-188347	accusative
-188353	accusative
+188346	dative
+188357	dative
+188359	nominative
+188367	accusative
+188370	dative
+188384	nominative
+188387	dative
+188389	nominative
+188394	dative
+188398	nominative
+188405	nominative
+188411	nominative
+188413	accusative
+188418	nominative
+188423	dative
 nominative
-188358	dative
-188361	dative
-188377	nominative
-accusative
-188381	dative
-188387	nominative
-188395	nominative
-accusative
-188404	genitive
-188408	genitive
-188414	nominative
-188417	nominative
-188422	nominative
-188426	nominative
-188448	genitive
-genitive
-188452	dative
-188458	nominative
+188429	dative
+188435	dative
+188444	accusative
+188454	nominative
+188456	dative
 188461	nominative
-188463	nominative
-188466	nominative
-188469	accusative
+nominative
+dative
+188465	vocative
+188471	nominative
 188474	dative
-188477	nominative
-188479	accusative
+188476	accusative
+accusative
 188481	nominative
-188484	accusative
-188487	nominative
-188490	accusative
-188493	accusative
-188496	dative
-188498	dative
-vocative
-188504	nominative
-188516	dative
+188493	dative
+accusative
+188517	accusative
+188519	dative
+188523	accusative
+188527	dative
 188531	nominative
-188534	nominative
+188537	accusative
+188540	dative
+188543	accusative
+188548	dative
+nominative
+188554	nominative
+188564	dative
+188566	nominative
+188576	dative
+188578	nominative
+188580	accusative
+188585	accusative
+188590	nominative
+188595	nominative
+nominative
+188600	nominative
+188604	dative
+188607	nominative
+nominative
+188612	nominative
+nominative
+188615	nominative
+188618	dative
+188620	nominative
+188622	accusative
+188625	dative
+nominative
+188629	dative
+188633	dative
+188635	dative
+188638	nominative
 dative
-188547	accusative
-accusative
-188550	accusative
-188552	nominative
-188554	dative
-188558	nominative
-dative
-188561	accusative
-188567	nominative
-188570	accusative
-188572	nominative
-188577	nominative
-188580	genitive
-188588	dative
-188591	nominative
-188599	nominative
-188604	nominative
-188607	dative
-188630	nominative
-188633	accusative
-188644	nominative
-accusative
-188647	nominative
-188649	nominative
 188654	nominative
+188661	nominative
+188673	accusative
+188681	nominative
+188683	nominative
 nominative
-188663	genitive
-genitive
-188669	nominative
 nominative
-188672	nominative
-188676	nominative
-188687	nominative
-188706	genitive
-188710	dative
-188717	nominative
-188719	accusative
-188724	dative
-188731	accusative
+188692	nominative
+188696	accusative
+188700	nominative
+188707	accusative
+188712	nominative
+188717	accusative
+188720	accusative
+188722	dative
+188730	accusative
+188732	nominative
+188734	dative
 nominative
-188741	accusative
-188746	accusative
-188750	accusative
-188757	dative
-188760	accusative
-nominative
-188766	dative
-188775	genitive
-188777	accusative
-188779	nominative
+188740	nominative
+188749	nominative
+188751	accusative
 accusative
-188790	nominative
-188796	nominative
-188804	accusative
-188809	accusative
+188755	dative
 accusative
-188813	dative
-188817	nominative
-188826	nominative
-188829	nominative
-188834	nominative
-188838	dative
-188841	dative
+188761	nominative
+188763	dative
+188765	nominative
+accusative
+188769	dative
+188774	genitive
+188776	genitive
+188789	nominative
+188794	nominative
+188802	accusative
+188804	nominative
+188808	accusative
+188815	nominative
+188820	nominative
+188827	accusative
+accusative
+188831	dative
+188838	nominative
+188840	nominative
+188843	vocative
 188846	accusative
-188851	accusative
-188869	accusative
-188873	nominative
-188877	genitive
 genitive
-188882	dative
-dative
-188890	nominative
-188894	accusative
-188897	nominative
-dative
-188902	nominative
-188906	dative
-188908	accusative
+188849	dative
+188862	dative
+accusative
+188871	nominative
+188874	nominative
 nominative
-188912	accusative
-188915	dative
+188880	nominative
+188883	nominative
 nominative
-dative
-188921	accusative
-188932	nominative
-188936	nominative
-188943	dative
-188948	dative
-188957	nominative
-188964	nominative
-188970	dative
-188973	nominative
-188975	dative
-188978	accusative
-188980	nominative
-188982	dative
-188984	nominative
-188987	nominative
-188990	vocative
-188996	nominative
-188998	nominative
-189000	nominative
-vocative
-189005	nominative
-189011	nominative
-189013	nominative
-189018	nominative
-189030	dative
-189034	dative
-189041	accusative
-189050	nominative
-189057	dative
-189064	dative
+188887	nominative
+188896	dative
+188914	accusative
+188918	accusative
+188932	dative
+188941	nominative
+188943	nominative
+accusative
+188946	nominative
+188949	dative
+accusative
+188953	dative
+188962	nominative
+188965	nominative
+188971	nominative
+188977	accusative
+188982	accusative
 nominative
-189067	nominative
-189070	accusative
-189072	dative
-189075	nominative
-189077	nominative
-nominative
-189080	accusative
-189082	accusative
-dative
-189088	accusative
-189091	accusative
-189094	accusative
-dative
-189114	nominative
+188987	dative
+188990	dative
+189006	nominative
+accusative
+189010	dative
+189016	nominative
+189024	nominative
+accusative
+189033	genitive
+189037	genitive
+189043	nominative
+189046	nominative
+189051	nominative
+189055	nominative
+189076	genitive
+genitive
+189080	dative
+189086	nominative
+189089	nominative
+189091	nominative
+189094	nominative
+189097	accusative
+189102	dative
+189105	nominative
+189107	accusative
+189109	nominative
+189112	accusative
+189115	nominative
 189118	accusative
 189121	accusative
-189124	accusative
-189135	dative
-189137	accusative
-189143	nominative
-189149	nominative
-189154	nominative
-189159	accusative
-189165	nominative
+189124	dative
+189126	dative
+vocative
+189132	nominative
+189144	dative
+189158	nominative
+189161	nominative
+dative
+189173	accusative
 accusative
-189178	accusative
-189183	dative
-189185	accusative
-189188	accusative
-189194	nominative
-189196	dative
-189202	dative
-189209	accusative
-189211	nominative
+189176	accusative
+189178	nominative
+189180	dative
+189183	nominative
+dative
+189186	accusative
+189192	nominative
+189195	accusative
 nominative
-189218	nominative
-189221	nominative
-189226	dative
-189236	dative
-189240	nominative
-189246	accusative
-189250	accusative
-189252	nominative
-189265	nominative
+189201	nominative
+189204	genitive
+189212	dative
+189215	nominative
+189223	nominative
+189227	nominative
+189230	dative
+189253	nominative
+189256	accusative
+189267	nominative
 accusative
-189272	accusative
-189275	nominative
-189280	dative
+189270	nominative
+189272	nominative
+189276	nominative
 nominative
-189288	nominative
-189290	accusative
-189298	accusative
+189284	genitive
+genitive
+189290	nominative
+nominative
+189293	nominative
+189297	nominative
 189308	nominative
-189310	dative
-189321	nominative
-189323	nominative
-nominative
-189328	nominative
-189330	nominative
-189333	nominative
+189327	genitive
+189331	dative
 189338	nominative
-189345	nominative
-189354	nominative
-189371	nominative
-189374	nominative
-189377	nominative
-189385	accusative
-189391	nominative
-189399	accusative
-189407	genitive
+189340	accusative
+189345	dative
+189352	accusative
 nominative
-189412	accusative
-189417	accusative
-189421	dative
-vocative
-189427	nominative
-189429	nominative
+189361	accusative
+189366	accusative
+189370	accusative
+189377	dative
+189379	accusative
+nominative
+189385	dative
+189394	genitive
+189396	accusative
+189398	nominative
+accusative
+189409	nominative
+189415	nominative
+189423	accusative
+189428	accusative
+accusative
+189432	dative
 189436	nominative
-189441	accusative
-189454	nominative
-189457	nominative
-nominative
-189460	nominative
-189462	nominative
-189464	accusative
-189467	accusative
-189472	dative
-189477	accusative
-vocative
-189481	nominative
-189492	dative
-189501	dative
-nominative
+189445	nominative
+189448	nominative
+189453	nominative
+189457	dative
+189459	dative
+189463	accusative
+189468	accusative
+189485	accusative
+189489	nominative
+189492	genitive
+genitive
+189497	dative
 dative
-189508	accusative
-dative
+189505	nominative
+189509	accusative
 189512	nominative
-189518	accusative
-accusative
-189521	vocative
-189523	dative
-189527	nominative
-189530	dative
-accusative
-189534	dative
-genitive
-189542	genitive
-189545	dative
-189549	dative
-189555	nominative
-189558	nominative
-accusative
-189565	dative
-189567	nominative
-189570	accusative
-189573	accusative
+dative
+189517	nominative
+189521	dative
+189523	accusative
 nominative
+189526	accusative
+189529	dative
+nominative
+dative
+189535	accusative
+189546	nominative
+189550	nominative
+189556	dative
+189561	dative
+189568	nominative
+189575	nominative
+189581	dative
+189584	nominative
+189586	dative
+189589	accusative
+189591	nominative
+189593	dative
+189595	nominative
+189598	nominative
+189601	vocative
+189607	nominative
+189609	nominative
+189611	nominative
 vocative
-nominative
-189580	nominative
-189583	nominative
-accusative
-189592	accusative
-189601	nominative
-189605	nominative
-accusative
-189632	nominative
-189635	accusative
-nominative
+189616	nominative
+189621	nominative
+189623	nominative
+189628	nominative
 189640	dative
-189644	nominative
-189670	accusative
-dative
-189674	genitive
+189643	dative
+189650	accusative
+189659	nominative
+189666	dative
+189673	dative
 nominative
-189691	genitive
-189693	nominative
-189701	nominative
-189713	nominative
+189676	nominative
+189679	accusative
+189681	dative
+189684	nominative
+189686	nominative
+nominative
+189689	accusative
+189691	accusative
+dative
+189697	accusative
+189700	accusative
+189703	accusative
+dative
+189722	nominative
+189726	accusative
+189729	accusative
+189732	accusative
+189743	dative
+189745	accusative
+189751	nominative
+189757	nominative
+189761	nominative
+189766	accusative
+189772	nominative
 accusative
-vocative
-nominative
-189721	nominative
-189724	dative
-189744	nominative
-189749	nominative
-nominative
-dative
-189756	accusative
-189767	genitive
-189771	accusative
-189773	nominative
-nominative
-dative
-189782	dative
-189785	dative
-189788	nominative
-189791	accusative
-accusative
-nominative
-189795	nominative
-189812	nominative
+189785	accusative
+189790	dative
+189792	accusative
+189795	accusative
+189800	nominative
+189802	dative
+189808	dative
 189814	accusative
+189816	nominative
+nominative
+189823	nominative
+189826	nominative
+189831	dative
+189841	dative
+189845	nominative
+189851	accusative
+189855	accusative
+189857	nominative
+189869	nominative
 accusative
-189820	nominative
-189823	dative
-accusative
-189827	nominative
-189832	accusative
-189842	nominative
-189853	accusative
-189855	dative
+189876	accusative
 189879	nominative
-189886	accusative
-189924	nominative
+189884	dative
 nominative
-189929	nominative
-189931	nominative
-189938	nominative
-189946	nominative
-189955	nominative
-189966	nominative
-189969	accusative
-189972	nominative
-189974	accusative
-189979	dative
-189991	nominative
-189996	accusative
-190000	dative
-190012	accusative
-accusative
-190018	accusative
+189891	nominative
+189893	accusative
+189901	accusative
+189911	nominative
+189913	dative
+189923	nominative
+189925	nominative
+nominative
+189930	nominative
+189932	nominative
+189935	nominative
+189940	nominative
+189947	nominative
+189956	nominative
+189973	nominative
+189976	nominative
+189979	nominative
+189987	accusative
+189993	nominative
+190001	accusative
+190009	genitive
+nominative
+190014	accusative
+190019	accusative
 190023	dative
-190026	nominative
-nominative
+vocative
+190029	nominative
 190031	nominative
-190033	nominative
-190043	nominative
-190045	nominative
-190052	nominative
-190055	nominative
+190038	nominative
+190043	accusative
+190056	nominative
 190059	nominative
-190061	nominative
-190070	vocative
 nominative
-190073	nominative
-190079	nominative
-190082	nominative
-190094	nominative
-190102	dative
+190062	nominative
+190064	nominative
+190066	accusative
+190069	accusative
+190074	dative
+190079	accusative
+vocative
+190083	nominative
+190094	dative
+190103	dative
+nominative
+dative
+190110	accusative
+dative
+190114	nominative
+190120	accusative
 accusative
-190105	nominative
-190116	dative
-190120	dative
-190145	accusative
-190149	accusative
-190154	nominative
-190158	nominative
-190160	dative
-190181	accusative
-190190	nominative
-190193	dative
-190201	dative
+190123	vocative
+190125	dative
+190129	nominative
+190132	dative
+accusative
+190136	dative
+genitive
+190144	genitive
+190147	dative
+190151	dative
+190157	nominative
+190160	nominative
+accusative
+190167	dative
+190169	nominative
+190172	accusative
+190175	accusative
 nominative
+vocative
+nominative
+190181	nominative
+190184	nominative
+accusative
+190193	accusative
+190202	nominative
 190206	nominative
-190221	nominative
-190225	nominative
-190230	dative
-190265	dative
-190269	genitive
-190271	nominative
-190287	nominative
-190315	nominative
-190330	accusative
-190339	dative
-190346	vocative
+accusative
+190232	nominative
+190235	accusative
+nominative
+190240	dative
+190244	nominative
+190269	accusative
+dative
+190273	genitive
+nominative
+190290	genitive
+190292	nominative
+190300	nominative
+190312	nominative
+accusative
 vocative
 nominative
-190351	nominative
-accusative
-190360	nominative
-190371	dative
-190376	dative
-190379	accusative
-190384	nominative
+190320	nominative
+190323	dative
+190343	nominative
+190348	nominative
 nominative
-190389	nominative
-190399	dative
-190403	nominative
-190405	nominative
-190407	dative
-190413	dative
-190419	nominative
-190423	genitive
-190425	genitive
-190431	dative
-190434	nominative
-190436	dative
-190439	nominative
-190442	nominative
-190452	nominative
-190455	dative
-190459	nominative
-accusative
-190462	nominative
-190468	nominative
+dative
+190355	accusative
+190365	genitive
+190369	accusative
+190371	nominative
 nominative
-190473	accusative
-190493	nominative
-190496	nominative
-190509	accusative
-190513	accusative
+dative
+190380	dative
+190383	dative
+190386	nominative
+190389	accusative
+accusative
+nominative
+190393	nominative
+190408	nominative
+190410	accusative
+accusative
+190416	nominative
+190419	dative
+accusative
+190423	nominative
+190428	accusative
+190438	nominative
+190449	accusative
+190451	dative
+190475	nominative
+190482	accusative
+190520	nominative
+nominative
 190525	nominative
-190527	accusative
-190531	accusative
-190537	accusative
-190547	nominative
-190549	nominative
-190576	accusative
-190580	accusative
-190583	nominative
-190616	dative
+190527	nominative
+190534	nominative
+190542	nominative
+190551	nominative
+190562	nominative
+190565	accusative
+190568	nominative
+190570	accusative
+190574	dative
+190586	nominative
+190591	accusative
+190595	dative
+190607	accusative
+accusative
+190613	accusative
 190618	dative
-190636	nominative
-190665	nominative
-dative
-190687	nominative
-190692	dative
-190699	dative
-190781	accusative
-190820	nominative
-190830	nominative
-190840	dative
-190866	nominative
-190878	nominative
-190909	nominative
-190921	accusative
-190936	nominative
-190939	nominative
-190942	nominative
+190621	nominative
+nominative
+190626	nominative
+190628	nominative
+190638	nominative
+190640	nominative
+190647	nominative
+190650	nominative
+190654	nominative
+190656	nominative
+190665	vocative
+nominative
+190668	nominative
+190674	nominative
+190677	nominative
+190689	nominative
+190697	dative
+accusative
+190700	nominative
+190711	dative
+190714	dative
+190739	accusative
+190743	accusative
+190748	nominative
+190752	nominative
+190754	dative
+190775	accusative
+190784	nominative
+190786	dative
+190793	dative
+nominative
+190798	nominative
+190813	nominative
+190817	nominative
+190821	dative
+190855	dative
+190859	genitive
+190861	nominative
+190877	nominative
+190904	nominative
+190918	accusative
+190926	dative
+190932	vocative
+vocative
+nominative
+190937	nominative
+accusative
 190946	nominative
-190949	nominative
-190961	accusative
-190982	nominative
-190985	dative
-190988	dative
-190993	nominative
-191000	accusative
-191007	dative
-191010	nominative
-191014	accusative
+190957	dative
+190962	dative
+190964	accusative
+190969	nominative
 nominative
-191020	accusative
-191022	dative
-191027	dative
-191029	accusative
-191054	genitive
-191063	dative
-191069	dative
-191075	accusative
-191097	nominative
+190974	nominative
+190984	dative
+190988	nominative
+190990	nominative
+190992	dative
+190996	dative
+191001	nominative
+191004	genitive
+191006	genitive
+191012	dative
+191015	nominative
+191017	dative
+191020	nominative
+191023	nominative
+191033	nominative
+191036	dative
+191039	nominative
+accusative
+191042	nominative
+191048	nominative
 nominative
-191109	nominative
-191112	nominative
-191115	nominative
-191120	accusative
-191124	accusative
-191131	genitive
-191135	nominative
-191140	nominative
-191162	dative
-191173	nominative
-191184	accusative
-191187	dative
-191189	genitive
-191191	genitive
-191205	accusative
-191211	nominative
-191213	vocative
-vocative
-191216	dative
-nominative
-191219	nominative
-191223	dative
-191226	accusative
-191242	nominative
-nominative
-191249	dative
-191251	accusative
-191254	dative
-191258	dative
-191261	dative
-191263	accusative
+191053	accusative
+191073	nominative
+191076	nominative
+191089	accusative
+191093	accusative
+191105	nominative
+191107	accusative
+191111	accusative
+191117	accusative
+191127	nominative
+191129	nominative
+191154	accusative
+191158	accusative
+191161	nominative
+191194	dative
+191196	dative
+191213	nominative
+191241	nominative
 dative
-191271	nominative
-191274	nominative
-191286	nominative
+191263	nominative
+191268	dative
+191272	dative
+191352	accusative
+191390	nominative
+191400	nominative
+191410	dative
+191435	nominative
+191447	nominative
+191477	nominative
+191489	accusative
+191504	nominative
+191507	nominative
+191510	nominative
+191514	nominative
+191517	nominative
+191528	accusative
+191547	nominative
+191549	dative
+191552	dative
+191557	nominative
+191563	accusative
+191570	dative
+191573	nominative
+191576	accusative
 nominative
-191289	accusative
-191306	accusative
-191309	nominative
-191312	nominative
-191316	nominative
-vocative
-191319	dative
-191326	dative
-191336	nominative
-191338	accusative
-191346	nominative
-191351	vocative
-191353	dative
-191360	dative
-191370	nominative
-191372	accusative
-191380	nominative
-191385	nominative
-191387	vocative
-191389	accusative
-191394	nominative
-191399	nominative
-191404	nominative
-nominative
-191414	nominative
-191419	dative
-191436	accusative
-191443	nominative
-nominative
-191454	dative
-191460	dative
-191466	genitive
-191468	accusative
-191514	accusative
-191542	nominative
-191548	accusative
-dative
-191558	dative
-191564	accusative
-191566	nominative
-191570	accusative
-191572	nominative
-191575	accusative
-191580	accusative
+191582	accusative
+191584	dative
 191589	dative
-191591	nominative
-vocative
-191594	accusative
-191596	accusative
-191601	accusative
-191606	accusative
-191608	accusative
-191613	accusative
-191617	accusative
-191620	accusative
-191627	nominative
-191630	dative
-191632	dative
+191591	accusative
+191615	genitive
+191623	dative
+191628	dative
 191634	accusative
-191642	dative
-191651	nominative
-191657	accusative
-191670	dative
-191677	accusative
-191679	nominative
-191684	accusative
-191686	nominative
-191690	accusative
-191698	accusative
-191702	nominative
+191655	nominative
+nominative
+191667	nominative
+191670	nominative
+191673	nominative
+191678	accusative
+191682	accusative
+191688	genitive
+191692	nominative
+191697	nominative
+191717	dative
+191728	nominative
+191738	accusative
+191741	dative
+genitive
+191744	genitive
+191758	accusative
+191764	nominative
 vocative
-accusative
-191707	accusative
-191709	accusative
-191718	dative
-191721	dative
+vocative
+191768	dative
 nominative
-191724	dative
-191726	accusative
-191733	dative
-191737	nominative
-191782	genitive
-genitive
-191789	dative
-191801	nominative
-191808	genitive
-191816	dative
+191771	nominative
+191774	dative
+191777	accusative
+191792	nominative
 nominative
-nominative
-191826	genitive
-genitive
-nominative
-191832	nominative
-191838	nominative
-191841	genitive
-191844	dative
-nominative
-191849	dative
-191851	accusative
-accusative
-191864	accusative
-191869	nominative
-191871	nominative
-191879	accusative
-191883	dative
-191893	accusative
-191895	nominative
-191899	nominative
-191903	nominative
-191908	accusative
-191910	dative
-191912	nominative
+191799	dative
+191801	accusative
+191803	dative
+191807	dative
+191810	dative
+191812	accusative
 dative
-191915	accusative
+191820	nominative
+191823	nominative
+191835	nominative
 nominative
-191919	dative
-191924	accusative
-191926	accusative
-191935	nominative
-191940	dative
-191943	nominative
-191954	dative
-191974	dative
-191980	genitive
-191982	genitive
-191989	genitive
-genitive
-191993	dative
-191998	accusative
-192000	nominative
+191838	accusative
+191855	accusative
+191858	nominative
+191861	nominative
+191865	nominative
+vocative
+191868	dative
+191875	dative
+191883	nominative
+191885	accusative
+191893	nominative
+191898	vocative
+191900	dative
+191907	dative
+191915	nominative
+191917	accusative
+191925	nominative
+191930	nominative
+191932	vocative
+191934	accusative
+191939	nominative
+191944	nominative
+191949	nominative
+nominative
+191959	nominative
+191964	dative
+191980	accusative
+191987	nominative
+nominative
+191998	dative
 192004	dative
-192006	nominative
-192008	vocative
-nominative
-192011	nominative
-192013	nominative
-192018	nominative
-accusative
-192040	nominative
-192042	dative
-192048	nominative
-192051	nominative
-accusative
-192054	nominative
-192056	vocative
-192058	dative
-nominative
-192062	genitive
-192064	genitive
-192066	nominative
-192068	accusative
-192070	nominative
-192073	nominative
-192080	nominative
-192086	nominative
-accusative
-192089	nominative
-192091	dative
-nominative
-192096	nominative
-nominative
-192106	nominative
-192111	dative
-192124	accusative
-192127	accusative
-192134	nominative
-192142	dative
-192164	accusative
-192166	accusative
+192010	genitive
+192012	accusative
+192058	accusative
+192085	nominative
+192091	accusative
+dative
+192100	dative
+192106	accusative
+192108	nominative
+192112	accusative
+192114	nominative
+192117	accusative
+192122	accusative
+192131	dative
+192133	nominative
+vocative
+192136	accusative
+192138	accusative
+192143	accusative
+192148	accusative
+192150	accusative
+192155	accusative
+192159	accusative
+192162	accusative
 192169	nominative
-192173	dative
-192176	nominative
-192179	nominative
-192183	dative
-192186	dative
-192191	accusative
-192195	accusative
-192197	dative
-192201	accusative
-192205	accusative
+192172	dative
+192174	dative
+192176	accusative
+192184	dative
+192193	nominative
+192199	accusative
+192211	dative
 192218	accusative
-accusative
-192226	genitive
-nominative
-192231	nominative
-192245	dative
-192247	nominative
-192258	nominative
-accusative
-192267	nominative
-192276	nominative
-192280	nominative
-192288	accusative
-accusative
-192309	nominative
-192312	nominative
-192315	nominative
-192317	nominative
-192322	nominative
-192326	accusative
-192333	nominative
-192336	accusative
-accusative
-192343	nominative
-accusative
-192346	nominative
-192351	nominative
-192359	dative
-192363	accusative
-192382	nominative
-accusative
-192386	genitive
-genitive
-192408	nominative
-accusative
-192411	dative
-accusative
-nominative
-accusative
-192416	nominative
-192419	accusative
-192422	nominative
-192426	vocative
-192429	accusative
-192433	dative
+192220	nominative
+192225	accusative
+192227	nominative
+192231	accusative
+192239	accusative
+192243	nominative
 vocative
+accusative
+192248	accusative
+192250	accusative
+192259	dative
+192262	dative
+nominative
+192265	dative
+192267	accusative
+192274	dative
+192278	nominative
+192322	genitive
+genitive
+192329	dative
+192340	nominative
+192346	genitive
+192354	dative
+nominative
+nominative
+192363	genitive
+genitive
+nominative
+192369	nominative
+192375	nominative
+192378	genitive
+192381	dative
+nominative
+192386	dative
+accusative
+accusative
+192400	accusative
+192405	nominative
+192407	nominative
+192415	accusative
+192418	dative
+192428	accusative
+192430	nominative
+192434	nominative
 192438	nominative
-192445	accusative
-192451	nominative
-192457	nominative
-192466	dative
+192443	accusative
+192445	dative
+192447	nominative
+dative
+192450	accusative
+nominative
+192454	dative
+192459	accusative
+192461	accusative
+192470	nominative
+192474	dative
 192477	nominative
-accusative
-192491	dative
-192519	accusative
-192524	nominative
+192488	dative
+192506	dative
+192511	genitive
+192513	genitive
+192519	genitive
+genitive
+192523	dative
 192528	accusative
+192530	nominative
+192534	dative
+192536	nominative
+192538	vocative
+nominative
 192541	nominative
+192543	nominative
+192548	nominative
 accusative
-192546	nominative
-192561	dative
 192568	nominative
-192582	accusative
-192586	accusative
-192593	genitive
+192570	dative
+192576	nominative
+192579	nominative
 accusative
-192596	nominative
-192599	nominative
-192612	nominative
-192615	dative
-accusative
-192618	accusative
+192582	nominative
+192584	vocative
+192586	dative
 nominative
-genitive
-192628	dative
-192630	accusative
-192634	genitive
-192636	dative
-192639	nominative
-192647	dative
-192650	nominative
-192654	dative
-192661	accusative
-192666	accusative
-192676	nominative
-192679	accusative
-192687	nominative
-dative
-192690	nominative
+192589	genitive
+192591	genitive
+192593	nominative
+192595	accusative
+192597	nominative
+192600	nominative
+192605	nominative
+192611	nominative
+accusative
+192614	nominative
+192616	dative
+nominative
+192620	nominative
+nominative
+192630	nominative
+192635	dative
+192647	accusative
+192650	accusative
+192657	nominative
+192665	dative
+192687	accusative
+192689	accusative
 192692	nominative
-192694	nominative
-genitive
-192705	accusative
-nominative
-192709	nominative
-192712	dative
-vocative
-nominative
-192716	nominative
+192696	dative
+192698	nominative
+192701	nominative
+192705	dative
+192708	dative
+192713	accusative
+192717	accusative
+192719	dative
+192722	accusative
+192726	accusative
+192739	accusative
 accusative
-192726	dative
-192728	nominative
-192734	nominative
-192738	nominative
-192741	accusative
-192744	accusative
-192749	accusative
+192747	genitive
 nominative
-192754	nominative
-192769	nominative
+192752	nominative
+192766	dative
 nominative
-192782	accusative
+192778	nominative
 accusative
-192797	nominative
-192805	genitive
-192807	accusative
-192811	accusative
-192813	nominative
-192818	genitive
-192820	genitive
+192787	nominative
+192796	nominative
+192800	nominative
+192808	accusative
 accusative
-192834	accusative
+192828	nominative
+192831	nominative
+192834	nominative
 192836	nominative
+192841	nominative
+192845	accusative
+192851	nominative
+192854	accusative
 accusative
-192844	nominative
-192846	nominative
-accusative
-192850	nominative
-192857	nominative
-192859	nominative
 192861	nominative
-192865	nominative
-192867	nominative
-192870	nominative
-192876	nominative
-192880	nominative
-192887	accusative
-192893	accusative
-192895	nominative
-192913	nominative
-192917	genitive
-192926	genitive
 accusative
-192934	accusative
-192941	dative
+192864	nominative
+192869	nominative
+192877	dative
+192879	accusative
+192896	nominative
+accusative
+192900	genitive
+genitive
+192922	nominative
+accusative
+192925	dative
+accusative
 nominative
-192950	accusative
+accusative
+192930	nominative
+192933	accusative
+192936	nominative
+192940	vocative
+192943	accusative
+192947	dative
+vocative
 192952	nominative
-nominative
-192961	nominative
-192966	accusative
-192971	accusative
-192975	dative
-192979	accusative
-genitive
-192985	dative
-193001	accusative
-193008	accusative
+192959	accusative
+192965	nominative
+192971	nominative
+192980	dative
+192990	nominative
 accusative
-193012	genitive
-193014	genitive
-193016	dative
-193019	accusative
-193022	dative
-193026	accusative
+193004	dative
+193030	accusative
+193035	nominative
+193039	accusative
+193051	nominative
 accusative
-193033	accusative
-193035	genitive
-193037	genitive
-193044	nominative
-193046	nominative
-193051	accusative
-193070	nominative
-193074	dative
-193080	dative
-nominative
-193086	dative
-193088	accusative
-193092	accusative
+193055	nominative
+193070	dative
+193077	nominative
+193091	accusative
+193095	accusative
+193101	genitive
 accusative
-193095	nominative
-193097	nominative
-193103	nominative
+193104	nominative
 193107	nominative
-193109	nominative
-193113	accusative
-193117	nominative
-193119	nominative
+193120	nominative
+193123	dative
 accusative
-193125	nominative
-193127	nominative
-193132	nominative
-193135	nominative
-193149	dative
-193153	nominative
-193161	nominative
-193170	nominative
-accusative
-193174	dative
-193176	nominative
-accusative
-193184	accusative
-193189	nominative
-193192	dative
+193126	accusative
 nominative
-193198	nominative
-193211	dative
-193213	accusative
-193217	accusative
-193222	accusative
-193225	nominative
-193230	dative
+genitive
+193136	dative
+193138	accusative
+193142	genitive
+193144	dative
+193147	nominative
+193155	dative
+193158	nominative
+193162	dative
+193169	accusative
+193174	accusative
+193184	nominative
+193186	accusative
+193194	nominative
+dative
+193197	nominative
+193199	nominative
+193201	nominative
+genitive
+193212	accusative
+nominative
+193216	nominative
+193218	dative
+vocative
+nominative
+193222	nominative
 accusative
-accusative
-193239	nominative
-193242	accusative
+193232	dative
+193234	nominative
+193240	nominative
 193244	nominative
-193248	dative
-193252	accusative
-193254	nominative
-193258	nominative
-193260	accusative
-193264	nominative
-accusative
-193267	nominative
-193269	accusative
-193279	accusative
+193247	accusative
+193249	accusative
+193254	accusative
 nominative
-193291	nominative
-193294	nominative
-193297	nominative
-193299	accusative
+193259	nominative
+193274	nominative
+nominative
+193286	accusative
+accusative
 193301	nominative
-193305	nominative
-nominative
-193311	nominative
-193314	accusative
-193325	nominative
-193332	accusative
-193334	accusative
-193356	accusative
+193309	genitive
+193311	accusative
+193315	accusative
+193317	nominative
+193321	genitive
+193323	genitive
+accusative
+193337	accusative
+193339	nominative
+accusative
+193347	nominative
+193349	nominative
+accusative
+193353	nominative
+193360	nominative
+193362	nominative
+193364	nominative
 193367	nominative
-193370	accusative
-193374	nominative
-193388	nominative
-193392	vocative
-vocative
+193369	nominative
+193372	nominative
+193378	nominative
+193382	nominative
+193388	accusative
+193394	accusative
 193396	nominative
-193404	accusative
-193409	genitive
-nominative
-193413	accusative
-193415	nominative
-193419	nominative
-193423	nominative
+193414	nominative
+193418	genitive
+193426	genitive
 accusative
+193433	accusative
+193440	dative
 nominative
-193427	genitive
-193429	nominative
-dative
-193432	accusative
-193441	nominative
+193449	accusative
+193451	nominative
 nominative
+193460	nominative
+193465	accusative
+193470	accusative
+193474	dative
+193478	accusative
+genitive
+193484	dative
+193499	accusative
+193506	accusative
 accusative
-193447	nominative
-193476	genitive
-193479	nominative
-193491	dative
-193497	nominative
-193499	nominative
-193503	accusative
-193506	nominative
-193510	nominative
-193519	nominative
+genitive
+193510	genitive
+193512	dative
+193514	accusative
+193517	dative
+193521	accusative
+accusative
+193528	accusative
+genitive
+193531	genitive
+193538	nominative
 nominative
-193525	nominative
-dative
-193545	genitive
-193547	genitive
-193554	accusative
+193544	accusative
+193563	nominative
+193567	dative
+193573	dative
 nominative
-193560	nominative
-nominative
-193572	nominative
-193576	accusative
+193579	dative
 193581	accusative
-193587	accusative
-193592	nominative
+193585	accusative
+accusative
+193588	nominative
+193590	nominative
+193596	nominative
+193600	nominative
+193602	nominative
+193606	accusative
+193610	nominative
 193612	nominative
-193622	nominative
-vocative
-193630	nominative
+accusative
+193618	nominative
+nominative
+193624	nominative
+193627	nominative
+193641	dative
 193645	nominative
-193648	accusative
-193659	nominative
-193662	dative
-193666	accusative
-193672	nominative
-193674	nominative
-193677	nominative
-193683	dative
-193702	nominative
-193705	nominative
-193720	nominative
-193728	nominative
-193733	nominative
-193741	nominative
-193746	accusative
-193765	accusative
+193653	nominative
+193662	nominative
+accusative
+193666	dative
+193668	nominative
+accusative
+193676	accusative
+193681	nominative
+193684	dative
 nominative
-193777	accusative
-193781	accusative
-193785	dative
+193690	nominative
+193702	dative
+193704	accusative
+193708	accusative
+193713	accusative
+193716	nominative
+193721	dative
+accusative
+accusative
+193730	nominative
+193733	accusative
+nominative
+193738	dative
+193742	accusative
+193744	nominative
+193748	nominative
+193750	accusative
+193754	nominative
+accusative
+193757	nominative
+193759	accusative
+193769	accusative
+nominative
+193781	nominative
+193784	nominative
 193787	nominative
-accusative
+193789	accusative
+193791	nominative
+193795	nominative
+nominative
 193801	nominative
-193803	dative
+193803	accusative
+193814	nominative
+193820	accusative
+193822	accusative
+193842	accusative
+193853	nominative
+193856	accusative
+193860	nominative
+193874	nominative
+vocative
+vocative
+193879	nominative
+193885	accusative
+193890	genitive
 nominative
-193806	nominative
-193808	nominative
-193814	dative
-193817	dative
-193832	accusative
-193835	genitive
-193837	genitive
-193841	nominative
-193847	accusative
-193850	nominative
-193853	accusative
-193855	nominative
-193859	nominative
-193865	genitive
+193894	accusative
+193896	nominative
+193900	nominative
+193904	nominative
+accusative
 nominative
-193868	accusative
-genitive
-genitive
-193875	nominative
-193878	nominative
-193881	accusative
-accusative
-193885	nominative
-193887	nominative
-accusative
-193912	dative
-193915	nominative
-accusative
-193918	nominative
-193922	nominative
-193925	dative
-nominative
-193928	dative
-193935	nominative
-193940	nominative
-accusative
-193952	nominative
-accusative
-193956	accusative
-193958	dative
-193961	nominative
-193989	nominative
-193994	genitive
-194001	accusative
-194007	nominative
-194010	nominative
-194031	nominative
-194039	nominative
-194047	nominative
-194053	nominative
-194058	genitive
-194061	nominative
-nominative
-194068	nominative
-194070	accusative
+193908	genitive
+193910	nominative
 dative
+193913	accusative
+193920	nominative
 nominative
-194075	accusative
+accusative
+193926	nominative
+193955	genitive
+193958	nominative
+193970	dative
+193976	nominative
+193978	nominative
+193982	accusative
+193985	nominative
+193989	nominative
+193996	nominative
+nominative
+194002	nominative
+dative
+194021	genitive
+194023	genitive
+194028	accusative
+nominative
+194034	nominative
+nominative
+194046	nominative
+194050	accusative
+194055	accusative
+194060	accusative
+194065	nominative
 194084	nominative
 194094	nominative
+vocative
+194102	nominative
+194117	nominative
+194120	accusative
+194131	nominative
+194134	dative
+194137	accusative
+194142	nominative
+194144	nominative
+194147	nominative
+194153	dative
+194172	nominative
+194175	nominative
+194190	nominative
+194198	nominative
+194203	nominative
+194210	nominative
+194215	accusative
+194230	accusative
 nominative
-194100	accusative
-194106	accusative
-194109	nominative
-194114	nominative
-194123	nominative
-194125	accusative
-194135	nominative
-194146	dative
-194156	nominative
-194161	nominative
-194177	nominative
-194188	accusative
-194193	nominative
-194196	dative
-194203	accusative
-194207	nominative
-nominative
-194211	dative
-194213	nominative
+194242	accusative
+194246	accusative
+194250	dative
+194252	nominative
 accusative
-194225	accusative
-194228	accusative
-194231	nominative
-194233	accusative
-194235	nominative
-194249	nominative
-194251	nominative
-194262	accusative
-194265	accusative
+194266	nominative
+194268	dative
 nominative
-194272	nominative
-194282	nominative
-194285	nominative
-194291	accusative
-194293	accusative
-194295	nominative
-194302	dative
-194311	nominative
-accusative
+194271	nominative
+194273	nominative
+194279	dative
+194282	dative
+194295	accusative
+194297	genitive
+194299	genitive
+194303	nominative
+194309	accusative
+194312	nominative
+194315	accusative
 194317	nominative
-194323	nominative
-194326	accusative
+194321	nominative
+194326	genitive
+nominative
+194329	accusative
+genitive
+genitive
+194335	nominative
+194338	nominative
+194341	accusative
 accusative
-194330	nominative
-194332	nominative
-194343	dative
-194348	nominative
-194356	nominative
-194359	nominative
+194344	nominative
+194346	nominative
+accusative
+194370	dative
 194373	nominative
-194375	nominative
-194377	dative
+accusative
+194376	nominative
 194380	nominative
-194382	accusative
+194383	dative
 nominative
-194387	accusative
-194391	dative
-194393	genitive
-194395	genitive
-194405	accusative
-194407	accusative
-194418	accusative
-194431	accusative
-194435	nominative
-194446	accusative
-194454	accusative
-194457	dative
-194459	nominative
-194461	accusative
-194464	dative
-194472	accusative
-194482	nominative
-194491	nominative
-194495	nominative
-194497	nominative
+194386	dative
+194393	nominative
+194398	nominative
 accusative
-194500	nominative
+194410	nominative
+accusative
+194413	accusative
+194415	dative
+194418	nominative
+194445	nominative
+194450	genitive
+194456	accusative
+194462	nominative
+194465	nominative
+194486	nominative
+194494	nominative
+194502	nominative
+194508	nominative
+194513	genitive
+194516	nominative
 nominative
-dative
-194507	accusative
-194510	nominative
-nominative
-194517	dative
-194522	nominative
-194529	nominative
+194523	nominative
+194525	accusative
 dative
 nominative
-194533	accusative
-194536	dative
-194539	dative
-accusative
-194545	accusative
-194553	accusative
-194555	nominative
-194558	nominative
-194560	nominative
-194564	accusative
-194570	accusative
-194586	nominative
-194596	nominative
-194606	dative
-194610	nominative
-194613	accusative
-194617	nominative
-194619	dative
-194628	nominative
-194636	nominative
-194642	vocative
-194652	nominative
-194654	nominative
-194659	accusative
+194530	accusative
+194538	nominative
+194548	nominative
 nominative
+194554	accusative
+194560	accusative
+194563	nominative
+194567	nominative
+194576	nominative
+194578	accusative
+194588	nominative
+194599	dative
+194609	nominative
+194614	nominative
+194629	nominative
+194640	accusative
+194645	nominative
+194648	dative
+194655	accusative
+194659	nominative
+nominative
+194663	dative
 194665	nominative
-194668	accusative
-194674	nominative
-nominative
-194684	dative
-194686	accusative
 accusative
-194693	nominative
-194695	nominative
+194677	accusative
+194680	accusative
+194683	nominative
+194685	accusative
+194687	nominative
+194701	nominative
+194703	nominative
+194714	accusative
 194717	accusative
-194723	accusative
-194728	dative
-194743	nominative
 nominative
-194751	accusative
-194755	accusative
-194772	accusative
-194774	nominative
-194779	accusative
-194784	dative
-194786	dative
-194788	nominative
+194724	nominative
+194734	nominative
+nominative
+194741	accusative
+194743	accusative
+nominative
+194751	dative
+194760	nominative
+accusative
+194766	nominative
+194772	nominative
+194775	accusative
+accusative
+nominative
+194779	nominative
 194790	dative
-194794	accusative
-194812	nominative
-194815	dative
+194795	nominative
+194803	nominative
+194806	nominative
 194820	nominative
-194836	nominative
-194839	dative
-194843	nominative
-194846	nominative
+194822	nominative
+194824	dative
+194827	nominative
+194829	accusative
+nominative
+194834	accusative
+194838	dative
+genitive
+194841	genitive
 194850	accusative
 194852	accusative
-194864	dative
-194882	dative
-194889	dative
+194863	accusative
+194876	accusative
+194880	nominative
+194890	accusative
+194898	accusative
+194901	dative
 194903	nominative
-194913	nominative
-194934	nominative
-194957	accusative
-194967	accusative
-194969	nominative
-194974	dative
-194976	accusative
-194979	accusative
-194984	dative
-194988	accusative
-194990	nominative
+194905	accusative
+194908	dative
+194914	accusative
+194924	nominative
+194933	nominative
+194937	nominative
+194939	nominative
+accusative
+194942	nominative
+nominative
+dative
+194949	accusative
+194952	nominative
+nominative
+194959	dative
+194963	nominative
+194970	nominative
+dative
+nominative
+194974	accusative
+194977	dative
+194980	dative
+accusative
+194985	accusative
 194993	accusative
-195015	accusative
-195026	dative
-195029	dative
-195056	accusative
+194995	nominative
+194998	nominative
+195000	nominative
+195004	accusative
+195010	accusative
+195025	nominative
+195035	nominative
+195045	dative
+195049	nominative
+195052	accusative
+195056	nominative
+195058	dative
+195066	nominative
+195073	nominative
+195079	vocative
+195089	nominative
+195091	nominative
+195095	accusative
 nominative
-195063	accusative
-195066	accusative
-195069	genitive
-195076	dative
-195082	dative
-195085	accusative
-195089	accusative
-195093	nominative
-195097	nominative
-accusative
 195100	nominative
-195117	nominative
-195119	nominative
-195122	accusative
-195126	accusative
-195159	nominative
+195103	accusative
+195109	nominative
+nominative
+195119	dative
+195121	accusative
 accusative
-195170	nominative
-195172	dative
-195178	accusative
-accusative
-195184	dative
-195186	genitive
-195188	nominative
-195190	accusative
-195196	accusative
-195199	dative
-195202	nominative
-195204	nominative
-195210	accusative
-195212	dative
-195215	accusative
-accusative
-195225	accusative
-195227	nominative
-195241	accusative
-195246	accusative
-195255	accusative
-195257	accusative
-195271	dative
-accusative
+195127	nominative
+195129	nominative
+195150	accusative
+195156	accusative
+195161	dative
+195175	nominative
+nominative
+195183	accusative
+195187	accusative
+195204	accusative
+195206	nominative
+195211	accusative
+195216	dative
+195218	dative
+195220	nominative
+195222	dative
+195226	accusative
+195243	nominative
+195246	dative
+195251	nominative
+195267	nominative
+195270	dative
 195274	nominative
-195294	nominative
-195297	accusative
-195308	accusative
-195310	accusative
-195313	nominative
-195318	accusative
-195327	nominative
-195331	accusative
-195342	nominative
+195277	nominative
+195281	accusative
+195283	accusative
+195295	dative
+195313	dative
+195320	dative
+195334	nominative
+195344	nominative
+195365	nominative
+195388	accusative
+195398	accusative
+195400	nominative
+195405	dative
+195407	accusative
+195410	accusative
+195415	dative
+195418	accusative
+195420	nominative
+195423	accusative
+195445	accusative
+195456	dative
+195459	dative
+195486	accusative
+nominative
+195491	accusative
+195494	accusative
+195497	genitive
+195504	dative
+195510	dative
+195513	accusative
+195517	accusative
+195521	nominative
+195525	nominative
 accusative
-195346	dative
-195349	nominative
+195528	nominative
+195545	nominative
+195547	nominative
+195550	accusative
+195554	accusative
+195587	nominative
 accusative
-195354	nominative
-195364	nominative
-195383	accusative
-195388	nominative
-195393	nominative
-195399	accusative
-195408	dative
-195420	accusative
-195422	nominative
-195431	accusative
-195435	nominative
-195452	nominative
-195455	nominative
+195597	nominative
+195599	dative
+195605	accusative
 accusative
-195460	nominative
-195463	dative
-195476	accusative
-195478	nominative
-dative
-195481	nominative
-195489	nominative
-195491	dative
-accusative
-195503	nominative
-195508	nominative
-195525	accusative
-195527	accusative
-195542	accusative
-195544	accusative
-195547	dative
-195554	nominative
-195561	nominative
-195572	accusative
-195577	nominative
-195586	nominative
-195602	accusative
-195606	nominative
+195611	dative
+195613	genitive
+195615	nominative
 195617	accusative
-195619	accusative
-195624	nominative
-195633	accusative
-195646	nominative
-195648	accusative
-195657	accusative
-195665	dative
-195667	dative
-195684	nominative
-195691	nominative
-195701	dative
-195704	dative
-195715	nominative
+195623	accusative
+195626	dative
+195629	nominative
+195631	nominative
+195637	accusative
+195639	dative
+195642	accusative
+accusative
+195652	accusative
+195654	nominative
+195667	accusative
+195672	accusative
+195681	accusative
+195683	accusative
+195697	dative
+accusative
+nominative
 195718	nominative
-195732	nominative
-195739	accusative
-195747	nominative
-nominative
-195752	nominative
+195721	accusative
+195732	accusative
+195734	accusative
+195737	nominative
+195742	accusative
+195751	nominative
 195755	accusative
-195760	accusative
-195763	nominative
-195766	genitive
-195771	nominative
-195774	nominative
+195766	nominative
+accusative
+195770	dative
+195773	nominative
+accusative
 195778	nominative
-195780	nominative
-195783	nominative
-195799	nominative
-195803	nominative
+195788	nominative
+195807	accusative
 195812	nominative
-nominative
-195828	dative
-195857	nominative
-195864	nominative
-195866	accusative
-195871	dative
-195874	accusative
-195880	dative
-195883	dative
-nominative
-195888	dative
-195890	nominative
-195894	accusative
-195908	nominative
-195927	nominative
-nominative
-195932	accusative
+195817	nominative
+195823	accusative
+195832	dative
+195843	accusative
+195845	nominative
+195854	accusative
+195858	nominative
+195875	nominative
+195878	nominative
 accusative
-195935	accusative
-195937	nominative
-nominative
-195945	nominative
-195961	accusative
-195967	nominative
-195972	nominative
-nominative
-195986	nominative
-196005	dative
-196014	dative
-196020	accusative
-196024	dative
-196028	genitive
-genitive
-196034	nominative
+195883	nominative
+195886	dative
+195899	accusative
+195901	nominative
+dative
+195904	nominative
+195912	nominative
+195914	dative
+accusative
+195924	nominative
+195929	nominative
+195946	accusative
+195948	accusative
+195963	accusative
+195965	accusative
+195968	dative
+195975	nominative
+195982	nominative
+195993	accusative
+195997	nominative
+196006	nominative
+196022	accusative
+196026	nominative
 196037	accusative
-196060	nominative
+196039	accusative
+196044	nominative
+196053	accusative
 196066	nominative
-196069	accusative
-196072	dative
-vocative
-196075	dative
-196079	nominative
-196096	dative
-196098	nominative
-nominative
-196105	accusative
-196112	nominative
-196114	nominative
+196068	accusative
+196076	accusative
+196084	dative
+196086	dative
+196102	nominative
+196109	nominative
+196119	dative
 196122	dative
-196135	genitive
-genitive
-196139	nominative
-196141	dative
+196133	nominative
+196136	nominative
 196148	nominative
-196156	nominative
-196158	accusative
-196161	accusative
-196175	nominative
-196177	accusative
-196191	nominative
-accusative
-dative
-196196	nominative
-196202	accusative
-196205	nominative
-196209	nominative
-196218	accusative
-196221	accusative
-196225	dative
-196234	accusative
+196155	accusative
+196162	nominative
 nominative
-196239	dative
+196167	nominative
+196170	accusative
+196175	accusative
+196178	nominative
+196181	genitive
+196186	nominative
+196189	nominative
+196193	nominative
+196195	nominative
+196198	nominative
+196214	nominative
+196218	nominative
+196226	nominative
 nominative
-196243	nominative
-196247	accusative
-accusative
-196251	accusative
-196263	nominative
-196266	accusative
+196242	dative
+196269	nominative
+196275	nominative
+196277	accusative
+196282	dative
+196284	accusative
+196290	dative
+196293	dative
 nominative
-196270	accusative
-196278	dative
-196280	nominative
-196301	nominative
-accusative
-196316	nominative
-196318	nominative
-196327	accusative
-accusative
-196330	accusative
-196332	accusative
-accusative
-196339	dative
+196298	dative
+196300	nominative
+196304	accusative
+196317	nominative
+196335	nominative
 nominative
-196343	dative
-196350	accusative
-196357	genitive
+196339	accusative
+accusative
+196342	accusative
+196344	nominative
+nominative
+196352	nominative
+196368	accusative
+196373	nominative
+196378	nominative
+nominative
+196392	nominative
+196411	dative
+196420	dative
+196426	accusative
+196429	dative
+196433	genitive
 genitive
-196362	accusative
-nominative
-196370	accusative
-196373	dative
-196383	dative
-accusative
-196386	dative
-196390	accusative
-196399	accusative
-196401	dative
-196404	nominative
-196408	genitive
-196427	dative
-nominative
-196431	nominative
-accusative
-196439	accusative
-accusative
-nominative
-196448	nominative
-196451	dative
-196462	dative
-196466	accusative
-196469	nominative
+196439	nominative
+196442	accusative
+196465	nominative
+196471	nominative
 196474	accusative
-nominative
-196479	nominative
-196485	accusative
-nominative
-196491	nominative
-nominative
-196496	nominative
-196513	nominative
-196527	nominative
-196529	nominative
-196534	accusative
-nominative
-196539	nominative
-196545	dative
-196551	accusative
-accusative
-196555	nominative
-genitive
-196561	accusative
-accusative
-196567	nominative
-nominative
-196570	dative
-196574	dative
-196577	dative
-196580	nominative
-196583	dative
+196477	dative
 vocative
-196588	accusative
-196593	nominative
-196598	genitive
+196480	dative
+196484	nominative
+196500	dative
+nominative
+nominative
+196508	accusative
+196515	nominative
+196517	nominative
+196525	dative
+196537	genitive
 genitive
-196603	nominative
-196609	accusative
-196615	nominative
+196541	nominative
+196543	dative
+196549	nominative
+196557	nominative
+196559	accusative
+196562	accusative
+196576	nominative
+196578	accusative
+196592	nominative
+accusative
+dative
+196597	nominative
+196603	accusative
+196605	nominative
+196608	nominative
 196617	accusative
-196623	accusative
-196628	accusative
-196653	accusative
-196655	nominative
-196657	dative
-196659	accusative
-196669	genitive
+196620	accusative
+196624	dative
+196633	accusative
 nominative
-196672	nominative
+196638	dative
+nominative
+196642	nominative
+196646	accusative
 accusative
-196690	nominative
-196695	dative
-vocative
-196698	nominative
-196701	dative
-196706	nominative
-196716	nominative
-196720	dative
+196650	accusative
+196662	nominative
+196665	accusative
+nominative
+196668	accusative
+196676	dative
+196678	nominative
+196699	nominative
 accusative
-196723	nominative
-196725	accusative
-196729	dative
-196742	dative
-196747	genitive
+196713	nominative
+196715	nominative
+196724	accusative
+accusative
+196727	accusative
+196729	accusative
+accusative
+196736	dative
+nominative
+196740	dative
+196747	accusative
+196753	genitive
 genitive
-196755	nominative
-196757	nominative
-196760	dative
+196758	accusative
 nominative
-196763	nominative
-196766	nominative
-dative
-196774	nominative
-nominative
-196799	dative
-196804	nominative
-nominative
-196829	nominative
-196840	dative
-nominative
-196847	accusative
-196852	dative
-196859	dative
-196862	accusative
-196867	accusative
+196766	accusative
+196769	dative
+196779	dative
 accusative
-196871	accusative
-196873	accusative
-196877	accusative
+196782	dative
+196786	accusative
+196795	accusative
+196797	dative
+196800	nominative
+196803	genitive
+196822	dative
+nominative
+196826	nominative
+accusative
+196834	accusative
+accusative
+nominative
+196843	nominative
+196846	dative
+196857	dative
+196861	accusative
+196864	nominative
+196869	accusative
+nominative
+196874	nominative
 196880	accusative
+nominative
+196886	nominative
+nominative
+196891	nominative
+196908	nominative
+196922	nominative
+196924	nominative
+196929	accusative
+nominative
+196934	nominative
+196940	dative
+196946	accusative
 accusative
-196888	dative
-196904	accusative
-196907	genitive
-nominative
-196920	nominative
-196930	dative
-196938	nominative
-196947	nominative
-196955	nominative
-196959	nominative
-196961	nominative
-196965	nominative
-196969	nominative
-196974	accusative
-nominative
-196977	accusative
-nominative
-196983	nominative
-196988	accusative
-196998	accusative
-197007	dative
-197017	dative
-197020	accusative
-197030	nominative
-accusative
-197036	accusative
-197039	nominative
+196950	nominative
 genitive
+196956	accusative
 accusative
-197045	genitive
-197049	genitive
-197051	nominative
-197054	accusative
-197067	genitive
-197073	genitive
-197078	dative
-197085	accusative
+196962	nominative
+nominative
+196965	dative
+196969	dative
+196972	dative
+196975	nominative
+196978	dative
+vocative
+196983	accusative
+196988	nominative
+196993	genitive
+genitive
+196998	nominative
+197003	accusative
+197009	nominative
+197011	accusative
+197016	accusative
+197021	accusative
+197046	accusative
+197048	nominative
+197050	dative
 accusative
-197090	dative
+197061	genitive
+nominative
+197064	nominative
+accusative
+197082	nominative
+197087	dative
+vocative
+197090	nominative
 197093	dative
-197097	accusative
-197100	dative
-197106	nominative
-197110	accusative
-197112	nominative
-197118	genitive
-197120	nominative
-nominative
-197126	nominative
-197131	dative
-197138	nominative
-nominative
-197145	accusative
-197149	accusative
-197151	nominative
-nominative
-197154	accusative
-197160	nominative
-197162	accusative
-197174	accusative
-197179	accusative
-197183	nominative
-197193	accusative
-197202	dative
-197204	accusative
-197207	accusative
-197212	dative
-197221	accusative
-197226	nominative
-197228	nominative
-nominative
-197244	accusative
+197097	nominative
+197107	nominative
+197111	dative
 accusative
-197248	nominative
+197114	nominative
+197116	accusative
+197120	dative
+197133	dative
+197137	genitive
+genitive
+197145	nominative
+197147	nominative
+197150	dative
+nominative
+197153	nominative
+197156	nominative
+dative
+197164	nominative
+nominative
+197189	dative
+197194	nominative
+nominative
+197219	nominative
+197230	dative
+nominative
+197237	accusative
+197242	dative
+197249	dative
+197251	accusative
+197256	accusative
+accusative
 197259	accusative
-197261	nominative
-197274	nominative
+197261	accusative
+197265	accusative
+197268	accusative
 accusative
-197279	accusative
-accusative
-197284	genitive
-genitive
-genitive
+197276	dative
+197290	accusative
+197293	genitive
 nominative
-dative
-197293	nominative
-197298	nominative
+197306	nominative
+197316	dative
+197324	nominative
+197333	nominative
+197341	nominative
+197345	nominative
+197347	nominative
+197351	nominative
+197355	nominative
+197359	accusative
 nominative
-197301	accusative
-197303	nominative
-197310	dative
-accusative
-197313	nominative
-197315	nominative
-197317	dative
-197319	dative
+197362	accusative
 nominative
-197324	dative
-197326	nominative
-197332	dative
-197334	nominative
-197337	dative
-197344	nominative
-197351	dative
-197353	accusative
-197367	nominative
-197374	nominative
-197387	dative
+197368	nominative
+197373	accusative
+197383	accusative
 197392	dative
-197395	nominative
-197408	nominative
-197412	nominative
-197426	nominative
-197430	nominative
-dative
-197438	genitive
+197402	dative
+197405	accusative
+197415	nominative
+accusative
+197421	accusative
+197424	nominative
 genitive
-197446	nominative
-nominative
-197452	nominative
 accusative
+197430	genitive
+197434	genitive
+197436	nominative
+197439	accusative
+197452	genitive
+197458	genitive
+197463	dative
+197470	accusative
 accusative
-197460	nominative
-dative
-197468	nominative
-197474	accusative
-197476	nominative
-197478	nominative
-accusative
-197482	accusative
-197485	nominative
+197475	dative
+197478	dative
+197481	accusative
+197484	dative
 197490	nominative
-197492	accusative
+197494	accusative
 197496	nominative
-197498	nominative
-197503	dative
-197507	nominative
+197502	genitive
+197504	nominative
+nominative
+197510	nominative
+197515	dative
+197522	nominative
+nominative
+197529	accusative
+197533	accusative
 197535	nominative
-197544	genitive
-genitive
-197548	nominative
 nominative
+197538	accusative
+197544	nominative
+197546	accusative
+197558	accusative
+197563	accusative
+197567	nominative
+197577	accusative
+197586	dative
+197588	accusative
+197591	accusative
+197595	dative
+197604	accusative
+197609	nominative
+197611	nominative
+nominative
+197627	accusative
 accusative
-197560	accusative
-197579	accusative
-197582	accusative
-197591	nominative
-197593	genitive
-197604	nominative
-197607	nominative
-197614	nominative
-197616	dative
-197627	dative
-197632	nominative
+197631	nominative
+197642	accusative
 197644	nominative
+197656	nominative
+accusative
+197661	accusative
+accusative
+197665	genitive
+genitive
+genitive
 nominative
-197647	accusative
-197655	accusative
+dative
 197674	nominative
-197677	dative
-197680	nominative
-197691	accusative
-197702	accusative
+197679	nominative
+nominative
+197682	accusative
+197684	nominative
+197691	dative
+accusative
+197694	nominative
+197696	nominative
+197698	dative
+197700	dative
+nominative
+197705	dative
+197707	nominative
+197713	dative
+197715	nominative
+197718	dative
+197724	nominative
+197731	dative
+197733	accusative
+197747	nominative
+197754	nominative
+197766	dative
+197771	dative
+197774	nominative
+197787	nominative
+197791	nominative
+197805	nominative
+197809	nominative
+dative
+197816	genitive
+genitive
+197824	nominative
+nominative
+197829	nominative
+accusative
+accusative
+197837	nominative
+dative
+197845	nominative
+197851	accusative
+nominative
+197854	nominative
+accusative
+197858	accusative
+197861	nominative
+197866	nominative
+197868	accusative
+197872	nominative
+197874	nominative
+197879	dative
+197881	nominative
+197908	nominative
+197916	genitive
+genitive
+197920	nominative
 nominative
 accusative
-197706	nominative
-197716	dative
-197726	nominative
-197738	nominative
-197741	dative
-197743	nominative
-197749	nominative
-197755	nominative
-197757	nominative
-accusative
-197763	accusative
-accusative
-197770	nominative
-197777	dative
-197784	nominative
-197788	dative
-197791	genitive
-nominative
-197796	nominative
-197802	nominative
-197804	nominative
-197807	accusative
-197811	nominative
-197813	nominative
-197823	accusative
-197830	dative
-197834	nominative
-197842	nominative
-197847	accusative
-197863	nominative
-197871	nominative
-nominative
-197897	nominative
-197903	nominative
-197905	accusative
-197913	nominative
-nominative
-197922	nominative
-197931	nominative
-nominative
-197936	accusative
-197945	dative
-197948	accusative
-197954	nominative
+197932	accusative
+197950	accusative
+197953	accusative
 197962	nominative
-197967	dative
-197970	vocative
-197982	dative
-197993	nominative
-198000	accusative
-198005	accusative
-198008	nominative
-198024	dative
-198029	accusative
-198032	dative
-198035	nominative
+197964	genitive
+197975	nominative
+197978	nominative
+197984	nominative
+197986	dative
+197997	dative
+198002	nominative
+198014	nominative
+nominative
+198017	accusative
+198025	accusative
+198044	nominative
+198047	dative
+198050	nominative
+198061	accusative
+198072	accusative
+nominative
 accusative
-198047	nominative
-198053	nominative
-198059	dative
-198061	nominative
-198081	dative
-198083	dative
-198085	accusative
-198087	dative
-198089	nominative
-198095	nominative
-198098	accusative
-198106	accusative
-198114	genitive
-198117	genitive
+198076	nominative
+198086	dative
+198096	nominative
+198108	nominative
+198111	dative
+198113	nominative
+198118	nominative
+198123	nominative
+198125	nominative
 accusative
-198120	nominative
-198123	dative
-198133	dative
-198137	accusative
-198154	dative
-198159	accusative
-198161	nominative
-198164	genitive
-198168	accusative
-198171	nominative
-198183	nominative
-198186	nominative
-198202	nominative
+198131	accusative
 accusative
-198222	accusative
-198224	nominative
+198138	nominative
+198144	dative
+198151	nominative
+198155	dative
+198158	genitive
 nominative
-198241	dative
+198163	nominative
+198168	nominative
+198170	nominative
+198173	accusative
+198177	nominative
+198179	nominative
+198188	accusative
+198194	dative
+198197	nominative
+198204	nominative
+198209	accusative
+198225	nominative
+198233	nominative
 nominative
-198244	accusative
-198247	nominative
+198259	nominative
+198265	nominative
+198267	accusative
+198275	nominative
+nominative
+198283	nominative
+198291	nominative
+nominative
+198296	accusative
+198305	dative
+198307	accusative
+198313	nominative
+198321	nominative
+198326	dative
+198328	vocative
+198340	dative
+198351	nominative
+198358	accusative
+198363	accusative
+198366	nominative
+198382	dative
+198387	accusative
+198390	dative
+198393	nominative
 accusative
-198250	nominative
-198254	accusative
-198258	accusative
-198261	dative
-198266	accusative
-198268	nominative
+198405	nominative
+198411	nominative
+198417	dative
+198419	nominative
+198439	dative
+198441	dative
+198443	accusative
+198445	dative
+198447	nominative
+198453	nominative
+198455	accusative
+198463	accusative
+198470	genitive
+198473	genitive
 accusative
-198271	nominative
-198278	accusative
-198290	dative
-nominative
-198306	accusative
-198310	nominative
-198312	dative
+198476	nominative
+198479	dative
+198488	dative
+198492	accusative
+198509	dative
+198514	accusative
+198516	nominative
+198519	genitive
+198523	accusative
+198526	nominative
+198538	nominative
+198541	nominative
+198556	nominative
 accusative
-198316	accusative
-198322	accusative
-198326	accusative
+198576	accusative
+198578	nominative
 nominative
-198331	accusative
+198595	dative
 nominative
-198349	dative
-198364	dative
-198372	dative
+198598	accusative
+198601	nominative
 accusative
-198376	accusative
-198378	genitive
-198381	nominative
-198386	accusative
-198390	nominative
-198394	nominative
-198396	dative
-198398	accusative
-accusative
-198402	nominative
-198411	accusative
-198427	accusative
-198430	accusative
-198433	nominative
-198456	nominative
-dative
-accusative
-accusative
-198463	nominative
-198466	dative
-nominative
-198473	nominative
-accusative
-nominative
-198481	nominative
-198483	accusative
-nominative
-198486	accusative
-accusative
-198490	nominative
-198493	dative
-nominative
-198499	dative
-198501	dative
-198507	accusative
-198513	accusative
-198532	dative
-198536	nominative
-198538	accusative
-198541	dative
-nominative
-198545	nominative
-198547	nominative
-198551	dative
-198557	vocative
-198567	nominative
-198573	dative
-198576	nominative
-198581	accusative
-198588	dative
-nominative
-198596	accusative
-nominative
-198607	accusative
-nominative
-198611	accusative
+198604	nominative
+198608	accusative
+198612	accusative
+198614	dative
 198619	accusative
-198622	nominative
-198627	nominative
-198647	accusative
-198661	dative
-198663	dative
-198669	genitive
+198621	nominative
+accusative
+198624	nominative
+198631	accusative
+198643	dative
 nominative
-198673	genitive
+198659	accusative
+198663	nominative
+198665	dative
+accusative
+198669	accusative
+198675	accusative
 198679	accusative
-198693	accusative
-198697	accusative
-198706	nominative
-198708	accusative
-198718	dative
 nominative
-198725	nominative
-198729	vocative
+198684	accusative
 nominative
-198732	accusative
-198739	dative
+198702	dative
+198717	dative
+198725	dative
 accusative
-198742	dative
+198729	accusative
+198731	genitive
+198734	nominative
+198739	accusative
+198743	nominative
+198747	nominative
+198749	dative
+198751	accusative
 accusative
-198745	dative
-accusative
-198750	accusative
-198752	nominative
-198757	nominative
-nominative
-dative
-198762	nominative
-198766	nominative
-198773	genitive
-198776	nominative
-198778	accusative
+198755	nominative
+198763	accusative
+198779	accusative
 198782	accusative
-198786	genitive
-genitive
-198791	dative
-198793	dative
-accusative
+198785	nominative
 198808	nominative
+dative
+accusative
+accusative
+198815	nominative
+198818	dative
 nominative
-198815	accusative
+198825	nominative
+accusative
 nominative
-198821	accusative
-198824	accusative
+198833	nominative
+198835	accusative
 nominative
-198828	dative
-198830	nominative
+198838	accusative
+accusative
+198842	nominative
+198845	dative
 nominative
-accusative
-198834	accusative
-198843	accusative
-198849	dative
-198856	dative
-accusative
-198863	nominative
-198871	accusative
-accusative
-198875	nominative
-198878	nominative
-accusative
-198882	nominative
-198884	accusative
-198887	accusative
-accusative
+198851	dative
+198853	dative
+198859	accusative
+198865	accusative
+198884	dative
+198888	nominative
+198890	accusative
 198893	dative
-198897	vocative
-198902	accusative
-198906	accusative
-198909	accusative
-198922	accusative
-198927	nominative
-198929	nominative
-dative
-198940	genitive
-198942	accusative
+nominative
+198897	nominative
+198899	nominative
+198903	dative
+198908	vocative
+198918	nominative
+198924	dative
+198926	nominative
+198931	accusative
+198938	dative
+nominative
 198946	accusative
-198949	nominative
+nominative
+198957	accusative
+nominative
+198961	accusative
+198969	accusative
+198972	nominative
+198976	nominative
+198995	accusative
+199009	dative
+199011	dative
+199016	genitive
+nominative
+199020	genitive
+199026	accusative
+199040	accusative
+199044	accusative
+199053	nominative
+199055	accusative
+199065	dative
+nominative
+199072	nominative
+199076	vocative
+nominative
+199079	accusative
+199085	dative
 accusative
-198952	nominative
-198954	accusative
-198956	nominative
-198960	nominative
-198968	nominative
-198970	dative
-nominative
-198981	accusative
-198987	accusative
-198990	accusative
-198993	dative
-nominative
-198999	dative
-199002	nominative
-nominative
-dative
-nominative
-nominative
-199016	nominative
-199021	nominative
-199026	nominative
-dative
-199031	nominative
-199033	dative
-199043	nominative
-199045	nominative
-nominative
-199059	nominative
-199063	accusative
-199068	genitive
-genitive
-199075	accusative
-199077	nominative
-199081	accusative
-199084	dative
-199095	nominative
+199088	dative
+accusative
+199091	dative
+accusative
+199096	accusative
+199098	nominative
 199103	nominative
-199111	dative
-199121	accusative
-199123	nominative
-199127	nominative
-199133	accusative
-199141	nominative
-199143	accusative
-accusative
-199148	nominative
-199156	nominative
 nominative
-199159	nominative
-199164	dative
-199167	nominative
-199169	nominative
-199177	nominative
-accusative
-199180	accusative
-199184	nominative
-accusative
-199187	dative
-nominative
-199196	accusative
-199199	nominative
-accusative
-199203	accusative
-199206	accusative
-accusative
-199209	dative
-199211	vocative
-199213	accusative
-199217	accusative
-accusative
-nominative
-199222	dative
-199226	accusative
-199230	dative
-199237	accusative
-nominative
-199241	nominative
-199243	accusative
-199249	accusative
-199251	accusative
-nominative
-199260	nominative
-199263	accusative
-199267	genitive
-199270	dative
-199278	nominative
-199284	genitive
-199286	nominative
-199288	dative
-199304	accusative
-199308	accusative
-nominative
-199311	accusative
-accusative
-199319	accusative
-199333	accusative
-199335	accusative
-nominative
-199338	accusative
-199342	accusative
-199346	accusative
-199355	accusative
-199357	accusative
-nominative
-accusative
-199361	accusative
-199369	accusative
-199383	nominative
-199385	dative
-199387	nominative
-199392	nominative
-199395	accusative
-199399	accusative
-199405	nominative
-199419	nominative
-199427	accusative
-199430	nominative
-nominative
-199433	accusative
-199435	dative
-accusative
-199438	nominative
-accusative
-nominative
-199442	nominative
-199444	dative
-accusative
 dative
-199448	nominative
-nominative
-199453	nominative
-199462	dative
-199467	dative
-199476	accusative
-199479	nominative
-199496	accusative
-199500	nominative
-199510	accusative
-199513	dative
-nominative
-199520	accusative
-199525	nominative
-nominative
-199530	accusative
-199534	dative
-accusative
-199537	genitive
-199542	dative
-nominative
-199549	dative
-199558	accusative
-199566	dative
-nominative
-199574	nominative
-199579	nominative
-accusative
-199582	nominative
-199587	genitive
+199108	nominative
+199111	nominative
+199118	genitive
+199121	nominative
+199123	accusative
+199127	accusative
+199130	genitive
 genitive
-199591	nominative
+199135	dative
+199137	dative
+accusative
+199152	nominative
+nominative
+199159	accusative
+nominative
+199165	accusative
+199168	accusative
+nominative
+199172	dative
+199174	nominative
+nominative
+accusative
+199178	accusative
+199187	accusative
+199193	dative
+199199	dative
+accusative
+199206	nominative
+199214	accusative
+accusative
+199218	nominative
+199221	nominative
+accusative
+199225	nominative
+199227	accusative
+199230	accusative
+accusative
+199236	dative
+199240	vocative
+199245	accusative
+199249	accusative
+199252	accusative
+199265	accusative
+199270	nominative
+199272	nominative
+dative
+199282	genitive
+199284	accusative
+199288	accusative
+199291	nominative
+accusative
+199294	nominative
+199296	accusative
+199298	nominative
+199302	nominative
+199309	nominative
+199311	dative
+nominative
+199322	accusative
+199328	accusative
+199331	accusative
+199334	dative
+nominative
+199340	dative
+199343	nominative
+nominative
+dative
+nominative
+nominative
+199356	nominative
+199361	nominative
+199366	nominative
+dative
+199371	nominative
+199373	dative
+199383	nominative
+199385	nominative
+nominative
+199399	nominative
+199403	accusative
+199407	genitive
+genitive
+199414	accusative
+199416	nominative
+199420	accusative
+199423	dative
+199433	nominative
+199441	nominative
+199449	dative
+199459	accusative
+199461	nominative
+199465	nominative
+199471	accusative
+199479	nominative
+199481	accusative
+accusative
+199486	nominative
+199494	nominative
+nominative
+199497	nominative
+199502	dative
+199504	nominative
+199506	nominative
+199514	nominative
+accusative
+199517	accusative
+199521	nominative
+accusative
+199524	dative
+nominative
+199533	accusative
+199536	nominative
+accusative
+199540	accusative
+199543	accusative
+accusative
+199546	dative
+199548	vocative
+199550	accusative
+199554	accusative
+accusative
+nominative
+199559	dative
+199562	accusative
+199566	dative
+199572	accusative
+nominative
+199576	nominative
+199578	accusative
+199584	accusative
+199586	accusative
 nominative
 199594	nominative
-accusative
 199597	accusative
-199599	accusative
-199607	dative
-199609	accusative
-accusative
-199612	accusative
-199614	nominative
+199601	genitive
+199604	dative
+199611	nominative
+199617	genitive
 nominative
-199639	nominative
-199642	dative
-vocative
-199650	nominative
-dative
-199653	accusative
-199656	dative
-199658	nominative
-accusative
-199663	accusative
-199671	accusative
-199677	dative
+199620	dative
+199636	accusative
+199640	accusative
 nominative
-199680	nominative
-199684	nominative
-199689	nominative
-199696	nominative
-199711	nominative
-199713	dative
-vocative
-199722	nominative
-199724	accusative
-199731	accusative
-199737	nominative
-199741	nominative
-199744	nominative
-199747	nominative
-dative
-199753	nominative
-199757	nominative
+199643	accusative
+accusative
+199651	accusative
+199665	accusative
+199667	accusative
+nominative
+199670	accusative
+199674	accusative
+199678	accusative
+199687	accusative
+199689	accusative
+nominative
+accusative
+199693	accusative
+199701	accusative
+199714	nominative
+199716	dative
+199718	nominative
+199723	nominative
+199726	accusative
+199730	accusative
+199736	nominative
+199750	nominative
+199757	accusative
 199759	nominative
-199765	dative
+nominative
+199762	accusative
+199764	dative
+accusative
 199767	nominative
-199769	accusative
-199772	dative
-199777	dative
+accusative
 nominative
-199780	nominative
-199814	dative
-199819	nominative
-199822	nominative
+199771	nominative
+199773	dative
+accusative
+dative
+199777	nominative
+nominative
+199782	nominative
+199791	dative
+199796	dative
+199805	accusative
+199808	nominative
+199825	accusative
 199829	nominative
-199833	accusative
-199839	nominative
-199842	nominative
-199846	dative
-199848	accusative
-dative
-199866	accusative
-dative
-199870	accusative
-199875	dative
+199839	accusative
+199842	dative
+nominative
+199849	accusative
+199854	nominative
+nominative
+199859	accusative
+199863	dative
+accusative
+199866	genitive
+199871	dative
+nominative
 199878	dative
-199881	accusative
-199890	dative
-199896	nominative
-dative
-vocative
-199901	accusative
-199903	accusative
-199905	dative
+199885	accusative
+199893	dative
 nominative
-199909	dative
+199901	nominative
+199906	nominative
 accusative
-199912	accusative
-199914	dative
-nominative
-199918	dative
-199920	dative
-199923	nominative
-199927	nominative
-199936	dative
-199939	accusative
-199946	accusative
-nominative
-199952	accusative
-nominative
-199956	nominative
-199959	dative
-199964	dative
-199967	accusative
-nominative
-199974	accusative
-nominative
-199988	nominative
-199991	dative
-199994	nominative
-200002	nominative
-accusative
-200006	dative
-200009	nominative
-200013	genitive
-200018	genitive
-200026	nominative
-200028	nominative
-200034	nominative
-200038	nominative
-200064	genitive
+199909	nominative
+199913	genitive
 genitive
-200082	nominative
-200095	accusative
-200098	dative
+199917	nominative
 nominative
-200102	nominative
-200108	accusative
-200110	nominative
-200114	accusative
-200118	nominative
-dative
-200124	accusative
+199920	nominative
+accusative
+199923	accusative
+199925	accusative
+199933	dative
+accusative
+accusative
+199937	accusative
 nominative
-200127	nominative
-200130	nominative
-200135	nominative
-dative
-200139	accusative
-dative
-200146	dative
+nominative
+199962	nominative
+199965	dative
 vocative
-200153	dative
-200159	accusative
+199973	nominative
+dative
+199976	accusative
+199979	dative
+nominative
+accusative
+199985	accusative
+199993	accusative
+199998	dative
+nominative
+200001	nominative
+200005	nominative
+200010	nominative
+200017	nominative
+200032	nominative
+200034	dative
+vocative
+200043	nominative
+200045	accusative
+200052	accusative
+200058	nominative
+200062	nominative
+200065	nominative
+200068	nominative
+dative
+200073	nominative
+200077	nominative
+200079	nominative
+200085	dative
+200087	nominative
+200089	accusative
+200092	dative
+200096	dative
+nominative
+200099	nominative
+200133	dative
+200138	nominative
+200141	nominative
+200148	nominative
+200152	accusative
+200158	nominative
 200161	nominative
 200165	dative
-200186	dative
-200195	nominative
-nominative
+200167	accusative
+dative
+200185	accusative
+dative
+200189	accusative
+200194	dative
+200197	dative
 200200	accusative
-200206	accusative
-200212	nominative
+200209	dative
+200215	nominative
 dative
-200215	accusative
-200217	accusative
-200224	nominative
-accusative
-200234	accusative
-accusative
-200242	accusative
-200246	genitive
-200248	dative
-accusative
-200251	nominative
-200253	nominative
-200256	dative
-200262	accusative
-200271	dative
-200278	nominative
-200284	nominative
-200286	accusative
+vocative
+200220	accusative
+200222	accusative
+200224	dative
 nominative
-200292	nominative
-200294	nominative
-200297	nominative
+200228	dative
+accusative
+200231	accusative
+200233	dative
 nominative
-200301	nominative
-200304	nominative
-200319	nominative
+200237	dative
+200239	dative
+200242	nominative
+200246	nominative
+200255	dative
+200258	accusative
+200264	accusative
+nominative
+200269	accusative
+nominative
+200273	nominative
+200276	dative
+200281	dative
+200283	accusative
+nominative
+200289	accusative
+nominative
+200303	nominative
+200306	dative
+200309	nominative
+200317	nominative
 accusative
-genitive
-200323	genitive
-200332	genitive
-genitive
-200337	nominative
-accusative
-200340	accusative
-accusative
-200343	accusative
+200321	dative
+200324	nominative
+200328	genitive
+200333	genitive
+200340	nominative
+200342	nominative
 200348	nominative
-200350	accusative
-200354	accusative
-200359	genitive
-200361	nominative
-200363	dative
-200368	nominative
-accusative
-200379	nominative
-200386	accusative
-200388	accusative
-200399	genitive
-200406	nominative
+200352	nominative
+200377	genitive
+genitive
+200395	nominative
 200408	accusative
-200415	dative
-200425	nominative
-200428	accusative
-200440	accusative
-200445	accusative
-200461	nominative
-200465	accusative
-200468	nominative
-200471	dative
+200411	dative
+nominative
+200415	nominative
+200421	accusative
+200423	nominative
+200427	accusative
+200431	nominative
+dative
+200436	accusative
+nominative
+200439	nominative
+200442	nominative
+200447	nominative
+dative
+200451	accusative
+dative
+200458	dative
 vocative
-200476	accusative
-200480	nominative
-200483	dative
-200487	dative
-200490	nominative
+200465	dative
+200470	accusative
+200472	nominative
+200476	dative
+200496	dative
+200504	nominative
+nominative
 200508	accusative
-200512	dative
-200515	dative
-200517	accusative
-200525	dative
+200514	accusative
+200519	nominative
+dative
+200522	accusative
+200524	accusative
 200531	nominative
-200535	accusative
-200547	dative
-200558	genitive
+accusative
+200541	accusative
+accusative
+200549	accusative
+200553	genitive
+200555	dative
+accusative
+200558	nominative
+200560	nominative
+200563	dative
+200569	accusative
+200578	dative
+200585	nominative
+200591	nominative
+200593	accusative
+nominative
+200599	nominative
+200601	nominative
+200604	nominative
+nominative
+200608	nominative
+200611	nominative
+200625	nominative
+accusative
 genitive
-200570	dative
-200574	accusative
-200577	nominative
-dative
-200583	accusative
-200588	dative
-200592	accusative
-200596	dative
-200599	dative
-200602	accusative
-200613	dative
-200617	nominative
-200628	dative
-200636	nominative
+200629	genitive
+200637	genitive
+genitive
 200642	nominative
-200645	nominative
-200653	dative
-200655	nominative
-200657	dative
-200660	accusative
-200664	dative
-200668	accusative
-nominative
-200673	accusative
-200676	accusative
-200679	accusative
-200682	accusative
-dative
-200691	accusative
-200701	nominative
 accusative
-200706	accusative
+200645	accusative
+accusative
+200648	accusative
+200652	nominative
+200654	accusative
+200658	accusative
+200663	genitive
+200665	nominative
+200667	dative
+200672	nominative
+accusative
+200683	nominative
+200690	accusative
+200692	accusative
+200703	genitive
+200710	nominative
 200712	accusative
-200718	accusative
-200720	accusative
-200725	accusative
-200727	nominative
-accusative
-200730	nominative
-200736	accusative
-accusative
-200739	nominative
-200750	nominative
-200757	accusative
-200759	genitive
+200719	dative
+200729	nominative
+200732	accusative
+200743	accusative
+200747	accusative
 200763	nominative
-200765	accusative
-200768	accusative
-200771	accusative
+200767	accusative
+200770	nominative
+200773	dative
+vocative
+200777	accusative
+200781	nominative
 200784	dative
-200790	accusative
-200792	nominative
-nominative
-200799	nominative
-200802	nominative
+200788	dative
+200790	nominative
 200808	accusative
-200820	nominative
-accusative
-200833	accusative
-200835	dative
-200837	nominative
-200839	dative
-vocative
-200843	nominative
-200848	dative
-200864	accusative
+200812	dative
+200815	dative
+200817	accusative
+200825	dative
+200829	nominative
+200832	accusative
+200844	dative
+200854	genitive
+genitive
+200866	dative
+200870	accusative
+200873	nominative
 dative
-200872	nominative
-200874	nominative
-200878	dative
-200880	accusative
-accusative
+200879	accusative
 200884	dative
-accusative
-200888	nominative
-200893	dative
-genitive
-200900	nominative
-200903	dative
-genitive
+200888	accusative
+200892	dative
+200895	dative
+200898	accusative
 200908	dative
-200912	dative
-200924	nominative
-200926	accusative
-200931	accusative
+200912	nominative
+200922	dative
+200928	nominative
+200934	nominative
+200937	nominative
+200945	dative
+200947	nominative
+200949	dative
+200952	accusative
+200956	dative
+200960	accusative
 nominative
-vocative
-nominative
-200936	dative
-200944	accusative
-200948	accusative
-200956	accusative
-200964	accusative
-200966	nominative
-200969	accusative
-200973	accusative
-200977	nominative
+200965	accusative
+200968	accusative
+200971	accusative
+200974	accusative
+dative
+200983	accusative
+200993	nominative
 accusative
-200986	accusative
-201001	accusative
+200998	accusative
+201004	accusative
+201009	accusative
+201011	accusative
+201015	accusative
+201017	nominative
 accusative
-201004	dative
-201010	nominative
-201047	dative
-201049	nominative
-nominative
-201062	genitive
+201020	nominative
+201026	accusative
 accusative
-201066	nominative
-201069	nominative
-genitive
-genitive
-nominative
-201076	dative
+201029	nominative
+201040	nominative
+201046	accusative
+201048	genitive
+201052	nominative
+201054	accusative
+201057	accusative
+201060	accusative
+201073	dative
 201078	accusative
+201080	nominative
 nominative
-201086	nominative
-201090	vocative
-201121	nominative
-nominative
-201127	accusative
-nominative
+201087	nominative
+201090	nominative
+201095	accusative
+201107	nominative
+accusative
+201119	accusative
+201121	dative
+201123	nominative
+201125	dative
+vocative
+201129	nominative
+201134	dative
+201149	accusative
+dative
+201157	nominative
+201159	nominative
+201163	dative
+accusative
+accusative
+201168	dative
+accusative
+201172	nominative
+201177	dative
 genitive
-201135	dative
-201139	vocative
-201144	nominative
-201149	nominative
-201154	accusative
-201171	accusative
+201184	nominative
+201187	dative
+genitive
+201192	dative
+201196	dative
+201207	nominative
+201209	accusative
+201214	accusative
 nominative
-201180	nominative
-accusative
-201186	dative
-201188	accusative
-201195	nominative
-201198	accusative
-201201	nominative
-201204	nominative
-201221	nominative
-201237	accusative
-accusative
-201247	genitive
-201258	genitive
-201274	nominative
-201279	dative
-accusative
+vocative
 nominative
-nominative
-201287	nominative
-201294	accusative
-201300	accusative
-201302	nominative
-201308	nominative
-201310	nominative
-201312	nominative
-201316	dative
-201318	dative
-201324	accusative
-201327	genitive
+201219	dative
+201227	accusative
+201231	accusative
+201239	accusative
+201247	accusative
+201249	nominative
+201252	accusative
+201256	accusative
+201260	nominative
+accusative
+201269	accusative
+201283	accusative
+accusative
+201286	dative
+201292	nominative
+201328	dative
 201330	nominative
-201333	genitive
-dative
-201336	nominative
-201343	accusative
-201351	genitive
+nominative
+201343	genitive
+accusative
+201347	nominative
+201350	nominative
 genitive
-201356	dative
-201360	vocative
-201369	dative
-201378	nominative
-201383	genitive
 genitive
-201392	accusative
-201399	dative
-201402	nominative
-201405	nominative
+nominative
+201357	dative
+201359	accusative
+nominative
+201367	nominative
+201370	vocative
+201401	nominative
+nominative
+201407	accusative
+nominative
+genitive
 201415	dative
-201419	nominative
-accusative
-201422	nominative
-201427	nominative
-201429	nominative
-201432	accusative
-201451	nominative
-201454	nominative
-201458	nominative
-201461	nominative
-201463	nominative
-201466	nominative
-accusative
-201469	accusative
-201486	accusative
-201494	accusative
+201418	vocative
+201423	nominative
+201428	nominative
+201433	accusative
+201450	accusative
 nominative
-201499	accusative
-201503	accusative
-201505	dative
-201509	accusative
-201514	nominative
+201459	nominative
+accusative
+201465	dative
+201467	accusative
+201474	nominative
+201477	accusative
+201480	nominative
+201483	nominative
+201500	nominative
+201515	accusative
+accusative
+201525	genitive
+201536	genitive
+201552	nominative
+201557	dative
+accusative
 nominative
-201523	nominative
-accusative
-201527	nominative
-accusative
-201532	nominative
-201536	accusative
-201544	nominative
-201546	nominative
-201556	accusative
-201560	nominative
-201578	accusative
-201598	dative
-201600	dative
+nominative
+201564	nominative
+201571	accusative
+201577	accusative
+201579	nominative
+201584	nominative
+201586	nominative
+201588	nominative
+201592	dative
+201594	dative
+201600	accusative
+201603	genitive
+201606	nominative
 201609	genitive
-201615	nominative
-201618	nominative
-201623	accusative
-201635	nominative
-201644	accusative
+dative
+201612	nominative
+201619	accusative
+201626	genitive
+genitive
+201631	dative
+201635	vocative
+201644	dative
 201652	nominative
-dative
+201656	genitive
+genitive
+201665	accusative
+201672	dative
 201675	nominative
-201677	nominative
-201681	dative
+201678	nominative
+201688	dative
+201691	nominative
 accusative
-201716	accusative
-201749	nominative
-201763	accusative
+201694	nominative
+201699	nominative
+201701	nominative
+201704	accusative
+201721	nominative
+201724	nominative
+201727	nominative
+201730	nominative
+201732	nominative
+201735	nominative
 accusative
+201738	accusative
+201755	accusative
+201762	accusative
+nominative
+201766	accusative
+201769	accusative
 201771	dative
-201778	genitive
-201799	nominative
-201825	nominative
-201829	nominative
-201833	dative
-201859	nominative
-201862	accusative
-accusative
-accusative
-201866	dative
-201868	dative
-201887	accusative
-201889	nominative
-201904	genitive
-genitive
-201913	genitive
-genitive
-201916	nominative
+201775	accusative
+201780	nominative
 nominative
-201922	nominative
-201930	nominative
-201951	dative
-201956	accusative
+201789	nominative
 accusative
+201793	nominative
+accusative
+201798	nominative
+201802	accusative
+201810	nominative
+201812	nominative
+201820	accusative
+201824	nominative
+201841	accusative
+201861	dative
+201863	dative
+201872	genitive
+201877	nominative
+201880	nominative
+201884	accusative
+201896	nominative
+201904	accusative
+201911	nominative
 dative
+201932	nominative
+201934	nominative
+201938	dative
 accusative
-201974	dative
-201977	accusative
-201982	accusative
-201994	dative
-202002	accusative
-202004	nominative
-202018	accusative
-202020	dative
-nominative
-202023	nominative
+201973	accusative
+202005	nominative
+202019	accusative
+accusative
 202027	dative
+202034	genitive
+202054	nominative
+202078	nominative
+202082	nominative
+202086	dative
+202110	nominative
+202113	accusative
 accusative
-202033	accusative
-202044	dative
-202050	nominative
-202062	dative
-202069	dative
-202072	nominative
-202074	dative
-202095	nominative
-dative
-202101	accusative
-202105	dative
+accusative
+202117	dative
 202119	dative
-202125	genitive
+202137	accusative
+202139	nominative
+202152	genitive
 genitive
-202133	genitive
-202138	dative
-202144	accusative
+202160	genitive
+genitive
+202163	nominative
 nominative
-202152	dative
-202155	nominative
-nominative
-202159	dative
-202164	nominative
-202189	nominative
+202169	nominative
+202176	nominative
+202197	dative
+202202	accusative
+accusative
 dative
-202198	genitive
-genitive
-nominative
 accusative
-nominative
-202206	dative
-202211	nominative
-202216	nominative
-accusative
-nominative
 202220	dative
-202224	nominative
-202227	dative
+202223	accusative
+202228	accusative
+202239	dative
+202247	accusative
+202249	nominative
+202263	accusative
+202265	dative
 nominative
-202235	nominative
-202238	dative
-202251	accusative
-202253	accusative
-202259	nominative
-202267	dative
-202270	nominative
-202283	accusative
-202285	accusative
-202291	dative
-202298	nominative
-202301	dative
-202304	dative
-202306	nominative
-202313	accusative
-202316	accusative
-202318	nominative
-202325	accusative
-202327	dative
-202329	accusative
-202341	nominative
-202368	dative
-202370	nominative
-202380	nominative
+202268	nominative
+202272	dative
 accusative
-202390	nominative
-202399	nominative
-nominative
+202278	accusative
+202289	dative
+202294	nominative
+202306	dative
+202313	dative
+202316	nominative
+202318	dative
+202338	nominative
 dative
-202408	accusative
+202344	accusative
+202348	dative
+202361	dative
+202366	genitive
+genitive
+202373	genitive
+202378	dative
+202384	accusative
 nominative
-202412	accusative
+202392	dative
+202395	nominative
 nominative
-202419	accusative
+202399	dative
+202403	nominative
+202426	nominative
+dative
+202434	genitive
+genitive
+nominative
 accusative
-202424	vocative
-202440	nominative
-202443	nominative
+nominative
+202442	dative
 202446	nominative
-202450	nominative
-202454	nominative
-202456	accusative
+202451	nominative
 accusative
-202465	accusative
-202467	dative
+nominative
+202455	dative
+202459	nominative
+202462	dative
+nominative
+202470	nominative
 202473	dative
-202496	nominative
-accusative
-202500	nominative
-202502	genitive
-genitive
-202524	nominative
-accusative
-accusative
-dative
-nominative
-accusative
+202485	accusative
+202487	accusative
+202493	nominative
+202501	dative
+202504	nominative
+202517	accusative
+202519	accusative
+202525	dative
 202531	nominative
-202534	accusative
+202534	dative
+202537	dative
 202539	nominative
+202546	accusative
+202549	accusative
+202551	nominative
+202557	accusative
+202559	dative
+202561	accusative
+202572	nominative
+202598	dative
 nominative
+202609	nominative
+accusative
+202619	nominative
+202628	nominative
 nominative
 dative
-202544	vocative
-202547	accusative
+202637	accusative
 nominative
-202552	dative
-202555	accusative
-202559	genitive
+202641	accusative
 nominative
-202571	nominative
-202574	dative
-202583	accusative
-202589	nominative
-202593	accusative
-202599	nominative
+202648	accusative
 accusative
-202602	nominative
-202606	dative
-nominative
+202653	vocative
+202668	nominative
+202671	nominative
+202674	nominative
+202678	nominative
+202681	nominative
+202683	accusative
 accusative
-202613	accusative
-nominative
-202616	nominative
-202618	nominative
-202638	dative
-202651	nominative
-202663	accusative
-202666	accusative
-202670	nominative
-202675	nominative
-202680	nominative
-nominative
-202684	nominative
-202686	nominative
-202688	genitive
+202692	accusative
+202694	dative
+202700	dative
+202720	nominative
+accusative
+202724	nominative
+202726	genitive
 genitive
-202691	nominative
-202705	nominative
-202710	nominative
-202715	nominative
-202718	accusative
-accusative
-nominative
-genitive
-202723	nominative
-202729	accusative
-202733	accusative
-202736	dative
-nominative
 202748	nominative
+accusative
+accusative
+dative
+nominative
+accusative
+202755	nominative
 202758	accusative
-202761	accusative
-202768	nominative
-202773	accusative
-202779	nominative
-dative
-202785	accusative
-accusative
-202788	genitive
-202791	nominative
-202794	dative
-202801	accusative
-202804	dative
-202808	dative
-accusative
-202813	genitive
-202824	nominative
-202826	accusative
+202763	nominative
+nominative
 nominative
 dative
-202836	nominative
+202768	vocative
+202771	accusative
+nominative
+202776	dative
+202779	accusative
+202783	genitive
+nominative
+202795	nominative
+202798	dative
+202806	accusative
+202812	nominative
+202816	accusative
+202822	nominative
+accusative
+202825	nominative
+202829	dative
+nominative
+accusative
+202836	accusative
+nominative
 202839	nominative
-202845	nominative
-accusative
-202855	nominative
-accusative
-202860	dative
-202862	nominative
-202865	nominative
-202872	nominative
-202882	nominative
-202895	accusative
+202841	nominative
+202861	dative
+202874	nominative
+202886	accusative
+202889	accusative
+202893	nominative
 202898	nominative
-202900	nominative
-202908	dative
-202912	accusative
-202916	accusative
-202919	nominative
-202922	nominative
-202924	accusative
+202903	nominative
 nominative
-202934	nominative
-202939	dative
-202943	accusative
-202945	nominative
-202950	nominative
-202952	nominative
-dative
-202955	nominative
-202959	genitive
-202961	accusative
-202966	accusative
-nominative
-202970	accusative
-202972	accusative
+202907	nominative
+202909	nominative
+202911	genitive
 genitive
-202978	accusative
-202986	dative
-202989	accusative
-202993	nominative
-nominative
-202998	nominative
-203001	accusative
-203004	nominative
-203010	dative
-203014	dative
-nominative
-203018	dative
-203027	accusative
-203037	dative
-203041	nominative
-203043	dative
+202914	nominative
+202928	nominative
+202933	nominative
+202938	nominative
+202941	accusative
 accusative
+nominative
+genitive
+202946	nominative
+202952	accusative
+202956	accusative
+202959	dative
+nominative
+202971	nominative
+202981	accusative
+202984	accusative
+202991	nominative
+202995	accusative
+203001	nominative
+dative
+203007	accusative
+accusative
+203010	genitive
+203013	nominative
+203016	dative
+203023	accusative
+203026	dative
+203030	dative
+accusative
+203034	genitive
+203045	nominative
 203047	accusative
-203052	nominative
-203057	accusative
-203061	dative
+nominative
+dative
+203057	nominative
+203060	nominative
 203065	nominative
-203070	accusative
-203073	nominative
-203078	dative
-203083	nominative
-203089	accusative
-203093	nominative
-203095	nominative
-203102	accusative
 accusative
-203106	dative
+203075	nominative
+accusative
+203080	dative
+203082	nominative
+203085	nominative
+203092	nominative
+203101	nominative
+203113	accusative
+203116	nominative
+203118	nominative
+203126	dative
+203130	accusative
+203134	accusative
+203137	nominative
+203140	nominative
+203142	accusative
 nominative
-203112	accusative
-203120	dative
-203123	dative
-203125	nominative
-203128	dative
-203133	dative
-203135	accusative
-203139	accusative
-203145	accusative
-203148	accusative
-203155	accusative
-203157	accusative
-203169	accusative
-203174	nominative
-203179	dative
-203181	accusative
+203152	nominative
+203157	dative
+203160	accusative
+203162	nominative
+203167	nominative
+203169	nominative
+dative
+203172	nominative
+203176	genitive
+203178	accusative
+203183	accusative
 nominative
-203188	accusative
-203194	nominative
-accusative
-203197	nominative
-accusative
+203187	accusative
+203189	accusative
+genitive
+203195	accusative
+203203	dative
 203205	accusative
-203220	accusative
-203223	accusative
-203227	nominative
-203229	accusative
-203231	nominative
-203235	nominative
-203237	nominative
-203240	nominative
-203244	accusative
+203209	nominative
 nominative
-203251	nominative
-203257	accusative
-203259	accusative
-203278	nominative
-203281	accusative
-203284	genitive
-203286	nominative
-203302	vocative
-vocative
-203306	nominative
+203213	nominative
+203216	accusative
+203219	nominative
+203225	dative
+203229	dative
+nominative
+203233	dative
+203242	accusative
+203252	dative
+203256	nominative
+203258	dative
+accusative
+203262	accusative
+203267	nominative
+203272	accusative
+203276	dative
+203280	nominative
+203285	accusative
+203288	nominative
+203293	dative
+203298	nominative
+203304	accusative
+203307	nominative
+203309	nominative
 203316	accusative
-203319	genitive
-nominative
-203323	accusative
-203326	nominative
-203328	nominative
-203330	nominative
 accusative
-genitive
+203320	dative
 nominative
-dative
-203336	accusative
+203326	accusative
+203334	dative
+203337	dative
+203339	nominative
+203342	dative
+203346	dative
+203348	accusative
+203352	accusative
+203357	accusative
+203360	accusative
+203367	accusative
+203369	accusative
+203381	accusative
+203385	nominative
+203390	dative
+203392	accusative
 nominative
-203343	nominative
-203345	accusative
-203348	nominative
-203360	nominative
-203364	nominative
-203382	nominative
-203398	nominative
-203404	dative
-203407	dative
-203411	nominative
-dative
-203417	genitive
-genitive
-203423	nominative
-203425	nominative
-nominative
-203439	nominative
-203455	nominative
-203458	accusative
-203462	nominative
-203469	nominative
+203399	accusative
+203404	nominative
 accusative
-nominative
+203407	nominative
 accusative
-203477	accusative
-203480	nominative
-203485	accusative
-203502	genitive
-203513	accusative
-203515	nominative
-203517	accusative
-203527	genitive
+203415	accusative
+203430	accusative
+203433	accusative
+203437	nominative
+203439	accusative
+203441	nominative
+203445	nominative
+203447	nominative
+203450	nominative
+203454	accusative
+nominative
+203461	nominative
+203466	accusative
+203468	accusative
+203486	nominative
+203489	accusative
+203491	genitive
+203493	nominative
+203506	vocative
+vocative
+203510	nominative
+203518	accusative
+203521	genitive
+nominative
+203525	accusative
+203528	nominative
+203530	nominative
 203532	nominative
-203534	dative
-203542	nominative
-203551	nominative
-203555	accusative
 accusative
-203559	accusative
-203563	nominative
-203566	dative
-203573	accusative
-203585	accusative
-203598	accusative
-203602	accusative
-203606	dative
+genitive
+nominative
+dative
+203538	accusative
+nominative
+203543	nominative
+203545	accusative
+203548	nominative
+203560	nominative
+203564	nominative
+203581	nominative
+203596	nominative
+203602	dative
+203605	dative
 203609	nominative
-203615	accusative
-203619	dative
+dative
+203614	genitive
+genitive
+203618	nominative
+203620	nominative
+nominative
+203633	nominative
+203648	nominative
+203651	accusative
+203655	nominative
+203662	nominative
 accusative
-203624	nominative
-203629	accusative
-203636	nominative
 nominative
-203640	dative
-203642	dative
-203644	dative
-nominative
-nominative
-203657	dative
-203661	dative
-203663	nominative
-nominative
-203668	dative
+accusative
 203670	accusative
-203672	dative
-203683	dative
+203672	nominative
+203677	accusative
+203694	genitive
+203705	accusative
+203707	nominative
+203709	accusative
+203718	genitive
+203723	nominative
+203725	dative
+203732	nominative
+203741	nominative
+203745	accusative
 accusative
-accusative
-203690	dative
-nominative
-203699	nominative
-203701	nominative
-203704	nominative
-203708	dative
-203714	accusative
-203718	accusative
-203725	accusative
-203729	accusative
-203741	dative
-203750	nominative
-203752	nominative
-203757	genitive
-203760	genitive
-203764	genitive
-203767	accusative
+203749	accusative
+203753	nominative
+203756	dative
+203763	accusative
+203772	accusative
+203783	accusative
+203787	accusative
+203791	dative
 203793	nominative
-203796	accusative
-203800	genitive
-203804	dative
+203799	accusative
+203803	dative
+accusative
 203808	nominative
-203811	dative
-dative
-203814	dative
-203817	dative
-203826	genitive
-203838	dative
+203813	accusative
+203819	nominative
 nominative
-203844	nominative
-dative
-203852	nominative
-203855	nominative
+203823	dative
+203825	dative
+203827	dative
 nominative
-203859	nominative
-203867	nominative
-203871	dative
 nominative
-203877	nominative
-203879	nominative
-203889	accusative
-203903	nominative
-203920	dative
-203922	nominative
-203930	nominative
+203840	dative
+203844	dative
+203846	nominative
 nominative
+203851	dative
+203853	accusative
+203855	dative
+203866	dative
+accusative
+accusative
+203873	dative
+nominative
+203882	nominative
+203884	nominative
+203887	nominative
+203891	dative
+203896	accusative
+203900	accusative
+203906	accusative
+203910	accusative
+203922	dative
+203931	nominative
 203933	nominative
-203943	vocative
-203954	accusative
+203938	genitive
+203941	genitive
+203945	genitive
+203948	accusative
+203973	nominative
+203976	accusative
+203980	genitive
+203984	dative
+203988	nominative
+203991	dative
 dative
-203960	accusative
-203964	dative
-203967	nominative
-203974	nominative
-203998	nominative
-204010	accusative
-204014	dative
-204016	accusative
-204019	nominative
-204024	accusative
+203994	dative
+203997	dative
+204005	genitive
+204016	dative
 nominative
-204028	nominative
-204032	nominative
+204022	nominative
+dative
+204030	nominative
+204033	nominative
+nominative
 204037	nominative
-204040	dative
-204042	nominative
 204045	nominative
-204055	dative
-accusative
-204061	nominative
-204064	nominative
-204069	nominative
-204071	genitive
-204077	nominative
-204092	accusative
+204049	dative
 nominative
-204098	dative
-204102	accusative
+204055	nominative
+204057	nominative
+204066	accusative
+204080	nominative
+204097	dative
+204099	nominative
 204107	nominative
-204109	dative
-204112	nominative
-204137	accusative
-204139	nominative
-204142	dative
-204144	nominative
-204147	dative
-204166	dative
 nominative
-nominative
-204171	accusative
-204174	dative
-nominative
-nominative
-204183	nominative
-204185	nominative
-204190	nominative
-204193	nominative
-204200	nominative
-204207	dative
-204211	vocative
-204214	accusative
-204224	accusative
-204229	accusative
-nominative
-204232	nominative
-204238	dative
-204258	nominative
-204261	nominative
-204267	nominative
-204269	accusative
-204273	nominative
-204276	dative
-204284	dative
-204289	nominative
-204299	accusative
-204303	nominative
-204307	dative
+204110	nominative
+204119	vocative
+204130	accusative
 dative
-204317	nominative
-204324	dative
-204332	nominative
-204334	nominative
-204377	nominative
+204136	accusative
+204140	dative
+204143	nominative
+204150	nominative
+204174	nominative
+204185	accusative
+204189	dative
+204191	accusative
+204194	nominative
+204199	accusative
 nominative
-204381	nominative
-204388	dative
+204203	nominative
+204207	nominative
+204212	nominative
+204215	dative
+204217	nominative
+204220	nominative
+204230	dative
+accusative
+204236	nominative
+204239	nominative
+204244	nominative
+204246	genitive
+204251	nominative
+204266	accusative
 nominative
-204414	nominative
+204272	dative
+204276	accusative
+204281	nominative
+204283	dative
+204286	nominative
+204309	accusative
+204311	nominative
+204314	dative
+204316	nominative
+204318	dative
+204336	dative
 nominative
-204418	nominative
+nominative
+204341	accusative
+204343	dative
+nominative
+nominative
+204352	nominative
+204354	nominative
+204358	nominative
+204361	nominative
+204368	nominative
+204375	dative
+204378	vocative
+204381	accusative
+204391	accusative
+204396	accusative
+nominative
+204399	nominative
+204405	dative
+204425	nominative
+204428	nominative
+204433	nominative
+204435	accusative
+204439	nominative
+204442	dative
+204450	dative
+204455	nominative
+204465	accusative
+204469	nominative
+204473	dative
 dative
-dative
-204424	nominative
-204451	accusative
-204457	dative
-accusative
-204461	accusative
-204470	dative
-accusative
-204474	accusative
-204478	accusative
-204483	accusative
-204487	accusative
-accusative
-204490	genitive
-204492	accusative
-204494	accusative
-204500	genitive
-204515	nominative
-204530	accusative
-204533	accusative
+204483	nominative
+204488	dative
+204496	nominative
+204498	nominative
+204539	nominative
+nominative
 204543	nominative
-204549	dative
-204562	accusative
-204568	accusative
-204570	nominative
-204578	nominative
-204588	nominative
-204596	accusative
-204599	accusative
-204601	nominative
-accusative
-204604	nominative
+204550	dative
 nominative
-204610	nominative
-204622	nominative
-204628	nominative
+204576	nominative
+nominative
+204580	nominative
+dative
+dative
+204586	nominative
+204612	accusative
+204618	dative
+accusative
+204622	accusative
+204631	dative
+accusative
+204634	accusative
+204638	accusative
+204642	accusative
+204646	accusative
+accusative
+204649	genitive
+204651	accusative
+204653	accusative
+204658	genitive
+204673	nominative
+204688	accusative
+204691	accusative
+204701	nominative
+204707	dative
+204719	accusative
+204725	accusative
+204727	nominative
+204735	nominative
+204744	nominative
+204752	accusative
+204755	accusative
+204757	nominative
+accusative
+204760	nominative
+nominative
+204766	nominative
+204778	nominative
+204784	nominative
 accusative
 accusative
-204644	nominative
-204648	nominative
-nominative
-204667	nominative
-nominative
-204679	accusative
-204685	dative
-204699	accusative
-204707	genitive
-accusative
-204711	accusative
-204721	accusative
-204728	dative
-204732	accusative
-204734	dative
-204744	vocative
-204766	accusative
-nominative
-204774	dative
-204786	dative
+204800	nominative
 204804	nominative
-204810	nominative
-204813	genitive
-204815	genitive
-204818	nominative
-204820	nominative
-204839	nominative
-204841	nominative
-204844	accusative
-204853	dative
-dative
-dative
-dative
-204862	accusative
-204868	accusative
-204877	accusative
-204880	accusative
-204885	dative
 nominative
-204890	nominative
-204897	nominative
-204899	nominative
-204909	dative
-204913	accusative
-204919	dative
-204927	dative
-204930	nominative
-204936	dative
-204939	nominative
-204945	nominative
-dative
+204823	nominative
 nominative
-204950	accusative
+204833	accusative
+204839	dative
+204853	accusative
+204861	genitive
 accusative
-204953	accusative
-204963	genitive
+204865	accusative
+204874	accusative
+204881	dative
+204885	accusative
+204887	dative
+204897	vocative
+204918	accusative
+nominative
+204926	dative
+204938	dative
+204955	nominative
+204961	nominative
+204964	genitive
 204966	genitive
-204968	nominative
-204970	dative
-204973	nominative
-204997	accusative
-accusative
-205001	dative
-205004	nominative
-205015	accusative
-205018	nominative
-205024	genitive
+204969	nominative
+204971	nominative
+204989	nominative
+204991	nominative
+204994	accusative
+205003	dative
 dative
-205031	nominative
-205034	genitive
-205043	accusative
+dative
+dative
+205011	accusative
+205017	accusative
+205026	accusative
+205029	accusative
+205034	dative
 nominative
-205056	dative
-205068	accusative
-205073	nominative
+205039	nominative
+205046	nominative
+205048	nominative
+205058	dative
+205062	accusative
+205068	dative
+205075	dative
+205077	nominative
+205083	dative
+205085	nominative
+205091	nominative
+dative
 nominative
-205079	accusative
-205094	accusative
-205107	nominative
+205096	accusative
 accusative
+205099	accusative
+205109	genitive
+205112	genitive
+205114	nominative
+205116	dative
+205119	nominative
+205140	accusative
 accusative
-205114	accusative
-205116	accusative
-205127	nominative
-205130	dative
+205144	dative
+205147	nominative
+205158	accusative
+205161	nominative
+205167	genitive
+dative
+205174	nominative
+205177	genitive
+205186	accusative
 nominative
+205199	dative
+205210	accusative
+205215	nominative
 nominative
-205139	nominative
-205148	dative
-205155	accusative
-205174	accusative
-205177	accusative
-205183	accusative
-205196	vocative
-205209	accusative
-205231	dative
+205221	accusative
 205235	accusative
+205247	nominative
+accusative
+accusative
+205254	accusative
+205256	accusative
+205267	nominative
+205270	dative
 nominative
-205244	nominative
-205257	accusative
-205265	nominative
-205270	nominative
-205280	nominative
 nominative
-205284	nominative
-205291	nominative
+205279	nominative
+205288	dative
+205295	accusative
+205314	accusative
+205317	accusative
+205323	accusative
+205336	vocative
+205348	accusative
+205370	dative
+205374	accusative
 nominative
-205296	nominative
-205302	nominative
-205308	nominative
-205315	dative
-205338	nominative
-dative
-205359	genitive
-genitive
-205366	genitive
-205370	accusative
-205380	nominative
-205382	accusative
-205390	accusative
-205398	nominative
-205401	nominative
-accusative
-205410	accusative
-205413	accusative
-205418	accusative
-genitive
-205421	accusative
-accusative
-205426	nominative
-genitive
-205435	nominative
-accusative
-205444	vocative
-accusative
-205447	dative
-205453	nominative
-205455	accusative
-205460	nominative
-205463	accusative
-205473	accusative
+205383	nominative
+205396	accusative
+205404	nominative
+205409	nominative
+205418	nominative
+nominative
+205422	nominative
+205429	nominative
+nominative
+205434	nominative
+205440	nominative
+205446	nominative
+205453	dative
 205475	nominative
-205480	accusative
-205482	dative
-205491	dative
-205502	nominative
-205520	genitive
-205524	genitive
-205526	genitive
-205531	genitive
-205537	genitive
-205539	genitive
-205559	nominative
-205572	genitive
-205579	accusative
-205610	dative
-205614	nominative
-205616	dative
-205621	genitive
-205632	accusative
-205637	dative
-205645	accusative
-205660	nominative
-205668	accusative
-205670	nominative
-accusative
-205674	nominative
-205677	dative
-205679	nominative
-205683	dative
-205685	nominative
-accusative
-205696	vocative
-accusative
-205699	nominative
-205705	accusative
 dative
-205710	accusative
-205712	nominative
-nominative
-accusative
-205719	dative
-205722	accusative
-205731	genitive
-205735	genitive
+205494	genitive
 genitive
+205501	genitive
+205505	accusative
+205515	nominative
+205517	accusative
+205525	accusative
+205533	nominative
+205536	nominative
+accusative
+205544	accusative
+205547	accusative
+205552	accusative
+genitive
+205555	accusative
+accusative
+205560	nominative
+genitive
+205569	nominative
+accusative
+205577	vocative
+accusative
+205580	dative
+205586	nominative
+205588	accusative
+205592	nominative
+205595	accusative
+205605	accusative
+205607	nominative
+205611	accusative
+205613	dative
+205622	dative
+205633	nominative
+205651	genitive
+205655	genitive
+205657	genitive
+205662	genitive
+205668	genitive
+205670	genitive
+205690	nominative
+205703	genitive
+205709	accusative
+205740	dative
 205744	nominative
-205748	nominative
-dative
-205752	nominative
-205754	dative
-205756	accusative
-205762	genitive
-205765	nominative
-205771	nominative
+205746	dative
+205751	genitive
+205762	accusative
+205767	dative
+205775	accusative
+205790	nominative
+205798	accusative
+205800	nominative
 accusative
-205801	nominative
-205808	nominative
-205837	genitive
-205839	genitive
+205804	nominative
+205807	dative
+205809	nominative
+205813	dative
+205815	nominative
+accusative
+205826	vocative
+accusative
+205829	nominative
+205835	accusative
+dative
+205840	accusative
+205842	nominative
+nominative
+accusative
+205849	dative
 205852	accusative
-205856	nominative
-205870	nominative
-206026	nominative
-206040	nominative
-206046	accusative
-206052	genitive
+205860	genitive
+205864	genitive
 genitive
-206057	dative
-206069	nominative
-206082	nominative
-accusative
-206085	dative
-206094	dative
-206097	dative
-206108	dative
-206111	dative
-206114	accusative
-nominative
-206121	genitive
-nominative
-206124	nominative
-206127	dative
-206140	accusative
-206150	dative
-206157	accusative
-206169	accusative
-206175	accusative
-206183	nominative
-206185	dative
-206195	nominative
-206211	nominative
-206218	nominative
-206223	nominative
-206235	accusative
+205873	nominative
+205877	nominative
 dative
-206248	dative
-206253	nominative
-206264	accusative
-206266	dative
-206268	accusative
+205881	nominative
+205883	dative
+205885	accusative
+205890	genitive
+205893	nominative
+205899	nominative
+accusative
+205929	nominative
+205936	nominative
+205964	genitive
+205966	genitive
+205979	accusative
+205982	nominative
+205995	nominative
+206151	nominative
+206165	nominative
+206171	accusative
+206176	genitive
+genitive
+206181	dative
+206192	nominative
+206205	nominative
+accusative
+206208	dative
+206217	dative
+206219	dative
+206230	dative
+206233	dative
+206236	accusative
+nominative
+206243	genitive
+nominative
+206246	nominative
+206249	dative
+206262	accusative
 206272	dative
-accusative
-206275	dative
-accusative
 206278	accusative
-206284	nominative
-206286	nominative
-206296	dative
-206311	nominative
-206313	dative
-206321	dative
-206329	nominative
-206335	dative
-206338	vocative
-206340	accusative
+206290	accusative
+206295	accusative
+206303	nominative
+206305	dative
+206315	nominative
+206331	nominative
+206338	nominative
+206343	nominative
+206354	accusative
+dative
+206367	dative
+206372	nominative
+206382	accusative
+206384	dative
+206386	accusative
+206389	dative
 accusative
-206343	accusative
-206354	dative
-206357	nominative
-206365	dative
-206394	nominative
-206420	genitive
-206423	nominative
+206392	dative
 accusative
-206427	nominative
-206429	accusative
-206434	accusative
-206445	accusative
-nominative
-206448	nominative
+206395	accusative
+206401	nominative
+206403	nominative
+206413	dative
+206428	nominative
+206430	dative
+206438	dative
+206446	nominative
+206452	dative
+206455	vocative
+206457	accusative
+accusative
 206460	accusative
-206479	nominative
-206488	nominative
-206494	accusative
-206496	accusative
-206498	nominative
-206505	dative
-206507	nominative
-206514	nominative
+206471	dative
+206474	nominative
+206482	dative
+206509	nominative
+206535	genitive
+206538	nominative
 accusative
-206521	accusative
+206542	nominative
+206544	accusative
+206549	accusative
+206559	accusative
+nominative
+206562	nominative
+206574	accusative
+206593	nominative
+206600	nominative
+206606	accusative
+206608	accusative
+nominative
+206616	dative
+206618	nominative
+206625	nominative
+accusative
+206632	accusative
 nominative
 accusative
-206526	nominative
-206531	nominative
+206637	nominative
+206642	nominative
 nominative
-206553	nominative
-206568	accusative
-206571	nominative
-206577	accusative
-206580	nominative
-206582	dative
+206664	nominative
+206679	accusative
+206682	nominative
+206688	accusative
+206691	nominative
+206693	dative
 genitive
-206587	nominative
-206589	accusative
-206592	accusative
-206594	nominative
-206599	nominative
-206601	accusative
-206607	nominative
-206609	nominative
-206611	nominative
-206617	nominative
-206620	accusative
-206625	accusative
-206628	genitive
-206630	genitive
-nominative
-206639	accusative
-206645	accusative
-206649	nominative
-206658	accusative
-206677	dative
-206684	nominative
-206692	accusative
 206698	nominative
-206701	nominative
-206707	nominative
-206709	genitive
-206711	accusative
-206715	accusative
+206700	accusative
+206703	accusative
+206705	nominative
+206710	nominative
+206712	accusative
+206718	nominative
+206720	nominative
+206722	nominative
+206728	nominative
+206731	accusative
+206736	accusative
+206738	genitive
+206740	genitive
 nominative
-206726	nominative
-206740	nominative
+206749	accusative
+206755	accusative
+206759	nominative
+206768	accusative
+206787	dative
+206794	nominative
+206802	accusative
+206808	nominative
+206811	nominative
+206816	nominative
+206818	genitive
+206820	accusative
+206824	accusative
 nominative
-206743	vocative
-206746	nominative
+206834	nominative
+206848	nominative
+nominative
+206851	vocative
+206854	nominative
 accusative
-206756	accusative
+206864	accusative
 nominative
-206772	accusative
-206774	dative
-206783	accusative
+206880	accusative
+206882	dative
+206891	accusative
 nominative
-206790	nominative
-206796	vocative
+206898	nominative
+206904	vocative
 nominative
-206810	dative
-206820	nominative
-206822	nominative
-206834	accusative
-206837	nominative
-206841	nominative
-accusative
-206844	dative
-206849	accusative
-206857	nominative
-206860	nominative
-206863	genitive
-nominative
-vocative
-206869	accusative
-206872	nominative
-206875	genitive
-nominative
-206885	nominative
-206887	dative
-dative
-206892	nominative
-206894	accusative
-206903	nominative
-206922	nominative
+206917	dative
+206926	nominative
 206928	nominative
-206935	nominative
+206939	accusative
 206942	nominative
-206955	accusative
-206958	nominative
-nominative
+206946	nominative
+accusative
+206949	dative
+206954	accusative
 206962	nominative
-206967	accusative
-206974	nominative
+206965	nominative
+206968	genitive
+nominative
+vocative
+206974	accusative
+206977	nominative
+206980	genitive
+nominative
+206990	nominative
+206992	dative
+dative
+206997	nominative
+206999	accusative
+207008	nominative
+207027	nominative
+207033	nominative
+207040	nominative
+207046	nominative
+207059	accusative
+207062	nominative
+nominative
+207065	nominative
+207070	accusative
+207077	nominative
 genitive
-206977	accusative
-206980	nominative
-206986	accusative
-206994	nominative
-206998	vocative
-207000	dative
-207010	nominative
+207080	accusative
+207083	nominative
+207089	accusative
+207097	nominative
+207101	vocative
+207103	dative
+207113	nominative
 nominative
-207014	nominative
-207016	accusative
-207018	nominative
-207020	accusative
-207026	nominative
-207031	nominative
-207035	accusative
-207041	nominative
-207043	nominative
-207046	dative
-207062	accusative
-207067	accusative
-207069	dative
+207116	nominative
+207118	accusative
+nominative
+207121	accusative
+207127	nominative
+207132	nominative
+207136	accusative
+207141	nominative
+207143	nominative
+207146	dative
+207162	accusative
+207167	accusative
+207169	dative
 dative
-207075	nominative
-207084	nominative
-207086	nominative
-207093	nominative
-207096	nominative
-207098	accusative
-207105	genitive
-nominative
-207109	accusative
-207118	dative
-accusative
-accusative
-207125	dative
-207127	dative
-207129	nominative
-accusative
-nominative
-207133	dative
-207137	nominative
-dative
-207149	nominative
-207162	nominative
-207171	nominative
-207178	nominative
-207181	nominative
-207185	accusative
-207187	accusative
-207189	nominative
+207175	nominative
+207184	nominative
+207186	nominative
+207193	nominative
+207196	nominative
 207198	accusative
-207200	accusative
-207219	dative
-207227	nominative
-207241	nominative
+207205	genitive
+nominative
+207209	accusative
+207218	dative
 accusative
-207245	nominative
-207265	nominative
+accusative
+207225	dative
+207227	dative
+207229	nominative
+accusative
+nominative
+207233	dative
+207237	nominative
+dative
+207248	nominative
+207261	nominative
+207270	nominative
+207277	nominative
 207280	nominative
-207289	nominative
-207292	nominative
-nominative
-accusative
+207284	accusative
+207286	accusative
+207288	nominative
 207296	accusative
-207300	nominative
-207306	accusative
-207314	nominative
-207320	accusative
-207322	accusative
-207327	nominative
-207334	accusative
-207336	nominative
-207342	nominative
-207353	nominative
-207359	accusative
-207369	dative
-207381	accusative
-207388	nominative
-207396	nominative
-207401	accusative
-207412	genitive
+207298	accusative
+207317	dative
+207325	nominative
+207339	nominative
+accusative
+207343	nominative
+207363	nominative
+207378	nominative
+207387	nominative
+207389	nominative
 nominative
-207422	accusative
-dative
+accusative
+207393	accusative
+207397	nominative
+207403	accusative
+207411	nominative
+207417	accusative
+207419	accusative
+207424	nominative
+207430	accusative
 207432	nominative
-207439	accusative
-207445	accusative
-207450	nominative
-207453	dative
-207457	nominative
-207464	nominative
-207467	genitive
-207471	accusative
-207480	accusative
-207494	nominative
-207499	nominative
-207503	accusative
-207508	accusative
-207511	accusative
-207526	accusative
-accusative
-207533	nominative
-207535	nominative
-207537	nominative
-207563	nominative
-207567	genitive
-207574	nominative
-207584	genitive
+207438	nominative
+207449	nominative
+207455	accusative
+207465	dative
+207477	accusative
+207484	nominative
+207492	nominative
+207495	accusative
+207506	genitive
+nominative
+207516	accusative
+dative
+207526	nominative
+207533	accusative
+207539	accusative
+207544	nominative
+207547	dative
+207551	nominative
+207558	nominative
+207561	genitive
+207565	accusative
+207574	accusative
 207587	nominative
-207592	accusative
-207594	nominative
-nominative
-207603	nominative
-207606	nominative
-207611	nominative
-nominative
-207616	nominative
-nominative
-207622	nominative
-207626	accusative
-207632	accusative
-207640	accusative
-207656	nominative
-207675	dative
-nominative
+207592	nominative
+207595	accusative
+207599	accusative
+207602	accusative
+207617	accusative
+accusative
+207623	nominative
+207625	nominative
+207627	nominative
+207652	nominative
+207656	genitive
+207663	nominative
+207672	genitive
+207675	nominative
+207680	accusative
 207682	nominative
-207693	accusative
-207707	dative
-207714	dative
+nominative
+207690	nominative
+207693	nominative
+207698	nominative
+nominative
+207703	nominative
+nominative
+207708	nominative
+207712	accusative
+207718	accusative
+207726	accusative
+207741	nominative
+207760	dative
+nominative
+207766	nominative
+207776	accusative
+207790	dative
+207796	dative
 accusative
-207717	accusative
+207799	accusative
 accusative
-207721	genitive
+207803	genitive
 accusative
 dative
 accusative
-207732	genitive
-207740	dative
+207814	genitive
+207822	dative
 accusative
-207745	genitive
-207754	dative
-207757	dative
-207763	accusative
+207827	genitive
+207836	dative
+207839	dative
+207844	accusative
 accusative
-207766	dative
-207771	accusative
+207847	dative
+207852	accusative
 accusative
-207779	accusative
+207859	accusative
 accusative
-207782	dative
-207794	genitive
-207798	dative
-207802	dative
-207817	accusative
+207862	dative
+207872	genitive
+207876	dative
+207879	dative
+207894	accusative
 nominative
-207823	nominative
-207828	nominative
+207900	nominative
+207905	nominative
 nominative
-207835	nominative
-207839	nominative
-207859	dative
-207862	accusative
+207912	nominative
+207916	nominative
+207936	dative
+207939	accusative
 accusative
 accusative
-207873	dative
-207877	dative
-207879	nominative
+207950	dative
+207954	dative
+207956	nominative
 accusative
-207882	nominative
-207888	nominative
-207892	nominative
-207899	accusative
-207924	vocative
-207933	nominative
-207940	nominative
+207959	nominative
+207965	nominative
+207969	nominative
+207976	accusative
+208001	vocative
+208010	nominative
+208017	nominative
 vocative
-207943	accusative
-207968	nominative
-207980	accusative
-207983	accusative
-208007	accusative
-208009	accusative
-208011	vocative
-vocative
-208016	accusative
-208019	nominative
-208022	nominative
-208026	nominative
-accusative
-208029	dative
-dative
-208032	nominative
-nominative
-208037	dative
-accusative
-nominative
-208045	accusative
-208049	genitive
-208051	genitive
+208020	accusative
+208045	nominative
+208057	accusative
 208060	accusative
-208064	accusative
-208066	nominative
-208069	nominative
-nominative
-208073	dative
+208083	accusative
+208085	accusative
+208087	vocative
+vocative
+208092	accusative
+208095	nominative
+208098	nominative
+208102	nominative
 accusative
-208078	dative
-208082	nominative
-208090	nominative
-208107	nominative
-208110	nominative
+208105	dative
+dative
+208108	nominative
+nominative
 208112	dative
-nominative
-nominative
-208122	nominative
 accusative
-208125	nominative
-208129	nominative
-208131	nominative
-208135	accusative
-208137	nominative
+nominative
+208120	accusative
+208123	genitive
+208125	genitive
+208134	accusative
+208138	accusative
 208140	nominative
-208142	dative
-208144	accusative
-208152	nominative
-208154	dative
-208162	genitive
-208164	genitive
-208168	accusative
-208170	nominative
-dative
-vocative
-208177	nominative
-208186	accusative
-208192	dative
+208143	nominative
+nominative
+208147	dative
+accusative
+208152	dative
+208156	nominative
+208164	nominative
+208180	nominative
+208183	nominative
+208185	dative
+nominative
+nominative
+208195	nominative
+accusative
+208198	nominative
 208202	nominative
-nominative
-208205	accusative
-208210	dative
-208217	dative
-208227	accusative
-208230	nominative
-208232	accusative
-208235	accusative
-208237	nominative
-208240	dative
+208204	nominative
+208208	accusative
+208210	nominative
+208212	nominative
+208214	dative
+208216	accusative
+208224	nominative
+208226	dative
+208233	genitive
+208235	genitive
+208239	accusative
+208241	nominative
 dative
-208244	dative
-208251	nominative
-208254	nominative
+vocative
+208248	nominative
 208257	accusative
-208266	accusative
-accusative
-208270	dative
-208287	nominative
-208293	nominative
-208295	nominative
-208303	nominative
-accusative
-208310	dative
-208315	nominative
-208319	nominative
-208323	vocative
+208263	dative
+208273	nominative
+nominative
+208276	accusative
+208281	dative
+208287	dative
+208296	accusative
+208299	nominative
+208301	accusative
+208304	accusative
+208306	nominative
+208309	dative
 dative
-208336	accusative
-208341	nominative
+208313	dative
+208320	nominative
+208323	nominative
+208326	accusative
+208334	accusative
 accusative
-208346	nominative
-208373	dative
-208379	nominative
-208388	nominative
-208390	nominative
-208392	nominative
-208394	accusative
-208396	nominative
+208338	dative
+208355	nominative
+208361	nominative
+208363	nominative
+208371	nominative
+accusative
+208378	dative
+208383	nominative
+208387	nominative
+208391	vocative
+dative
 208404	accusative
-208406	nominative
-208408	nominative
-208410	nominative
-208412	accusative
-208418	accusative
-208428	nominative
-208430	dative
-nominative
-208433	dative
+208409	nominative
 accusative
-208438	nominative
-208440	nominative
-208442	nominative
-208446	nominative
-208448	nominative
-208450	nominative
-208453	nominative
-208455	nominative
-208459	genitive
-208469	accusative
-208476	accusative
-208478	accusative
-208484	accusative
-208491	dative
+208414	nominative
+208441	dative
+208447	nominative
+208456	nominative
+208458	nominative
+208460	nominative
+208462	accusative
+208464	nominative
+208472	accusative
+208474	nominative
+208476	nominative
+208478	nominative
+208480	accusative
+208486	accusative
+208496	nominative
+208498	dative
 nominative
-208497	accusative
-208500	accusative
-208503	dative
+208501	dative
+accusative
+208505	nominative
 208507	nominative
-208517	nominative
-208523	dative
+208509	nominative
+208512	nominative
+208514	nominative
+208516	nominative
+208519	nominative
+208521	nominative
+208525	genitive
+208534	accusative
+208541	accusative
+208543	accusative
+208549	accusative
+208556	dative
 nominative
-208527	genitive
+208562	accusative
+208565	accusative
+208568	dative
+208571	nominative
+208581	nominative
+208587	dative
 nominative
-208537	nominative
+208591	genitive
+nominative
+208601	nominative
 genitive
-208544	nominative
-208549	nominative
-208563	nominative
-208565	dative
-208573	dative
-208575	nominative
+208608	nominative
+208613	nominative
+208627	nominative
+208629	dative
+208637	dative
+208639	nominative
 nominative
-208581	dative
-208583	dative
+208644	dative
+208646	dative
 dative
 nominative
-208588	dative
-208602	nominative
+208651	dative
+208665	nominative
 accusative
-208605	nominative
+208668	nominative
 accusative
-208609	accusative
-208616	nominative
-208618	nominative
-208640	accusative
-208646	nominative
-208655	nominative
-208659	nominative
-208662	nominative
-208670	nominative
-208673	nominative
-208678	nominative
-208697	nominative
-208701	nominative
-accusative
-208705	nominative
+208672	accusative
+208679	nominative
+208681	nominative
+208702	accusative
 208708	nominative
-208711	nominative
-208717	nominative
-208719	genitive
-208721	nominative
-208724	nominative
-208728	vocative
-208730	dative
-accusative
+208716	nominative
+208720	nominative
+208723	nominative
+208731	nominative
 208734	nominative
-208736	vocative
-208753	genitive
+208739	nominative
+208758	nominative
+208762	nominative
+accusative
+208766	nominative
+nominative
+208770	nominative
+208775	nominative
+208777	genitive
+208779	nominative
+208782	nominative
+208786	vocative
+208788	dative
+accusative
+208791	nominative
+208793	vocative
+208807	genitive
 genitive
-208756	dative
-208760	accusative
-208762	accusative
+208810	dative
+208814	accusative
+208816	accusative
 nominative
 nominative
-208768	dative
-208771	nominative
-208774	dative
-208778	nominative
-208791	accusative
-dative
-208797	nominative
-208807	accusative
-dative
-208811	nominative
-208814	genitive
-208818	nominative
-208821	dative
-208826	nominative
+208822	dative
+208825	nominative
 208828	dative
-208834	dative
-208842	accusative
+208832	nominative
+208844	accusative
 dative
-208845	nominative
-208847	accusative
-208851	dative
-208857	nominative
-208860	nominative
-nominative
-208863	nominative
-208873	accusative
-208881	nominative
-208899	nominative
-208908	nominative
-nominative
-208922	nominative
-208924	dative
-208926	genitive
+208850	nominative
+208860	accusative
 dative
-208929	genitive
-208935	genitive
-208940	nominative
-208947	accusative
+208864	nominative
+208867	genitive
+208871	nominative
+208874	dative
+208879	nominative
+208881	dative
+208887	dative
+208895	accusative
+dative
+208898	nominative
+208900	accusative
+208904	dative
+208910	nominative
+208913	nominative
 nominative
-208960	accusative
-208962	nominative
-208967	nominative
-208972	accusative
-208974	nominative
-208980	nominative
-208983	accusative
-208985	nominative
-208992	nominative
-208995	accusative
+208916	nominative
+208926	accusative
+208934	nominative
+208951	nominative
+208959	nominative
 nominative
-208998	nominative
-accusative
-209004	accusative
-209007	nominative
+208972	nominative
+208974	dative
+208976	genitive
+dative
+genitive
+208984	genitive
+208989	nominative
+208996	accusative
+nominative
+209009	accusative
 209011	nominative
-209015	dative
-209028	nominative
-209032	nominative
-209037	nominative
-209050	nominative
-209063	nominative
-209069	nominative
-209076	nominative
+209016	nominative
+209021	accusative
+209023	nominative
+209029	nominative
+209032	accusative
+209034	nominative
+209041	nominative
+209044	accusative
+nominative
+209047	nominative
 accusative
-209080	nominative
-209091	nominative
-nominative
-209094	nominative
-209101	nominative
-209111	nominative
-209113	nominative
-209117	nominative
-209124	nominative
-209126	accusative
-nominative
-209129	accusative
-dative
+209053	accusative
+209056	nominative
+209060	nominative
+209064	dative
+209077	nominative
+209081	nominative
+209086	nominative
+209098	nominative
+209110	nominative
+209116	nominative
+209123	nominative
+accusative
+209127	nominative
 209138	nominative
-209145	nominative
-209147	nominative
-209151	nominative
-209162	nominative
-209166	dative
-209168	nominative
-209172	accusative
-209189	dative
-209194	dative
-209204	nominative
+nominative
+209141	nominative
+209148	nominative
+209158	nominative
+209160	nominative
+209164	nominative
+209171	nominative
+209173	accusative
+nominative
+209176	accusative
+dative
+209185	nominative
+209191	nominative
+209193	nominative
+209196	nominative
+209206	nominative
+209210	dative
+209212	nominative
+209216	accusative
+209233	dative
+209238	dative
+209248	nominative
 accusative
 nominative
-209208	nominative
-209215	nominative
-209229	nominative
-209246	genitive
-209248	genitive
-209260	nominative
-209263	accusative
+209252	nominative
+209259	nominative
+209273	nominative
+209289	genitive
+209291	genitive
+209303	nominative
+209306	accusative
 nominative
-209267	vocative
 vocative
-209270	nominative
-209272	nominative
-209284	nominative
-209287	dative
-209291	nominative
-209294	nominative
-209297	nominative
-209299	nominative
-209310	dative
-209318	nominative
-209322	dative
-209324	dative
-209333	nominative
+vocative
+209311	nominative
+209313	nominative
+209325	nominative
+209328	dative
+209332	nominative
+209335	nominative
+209337	nominative
+209339	nominative
+209350	dative
+209357	nominative
+209361	dative
+209363	dative
+209372	nominative
 accusative
-209339	accusative
-209348	nominative
-209351	nominative
-209353	dative
-209358	nominative
-209367	genitive
-209369	accusative
-209382	accusative
+209378	accusative
 209387	nominative
-209389	nominative
-209398	accusative
-209400	nominative
+209390	nominative
+209392	dative
+209396	nominative
+209405	genitive
+209407	accusative
+209420	accusative
+209425	nominative
+209427	nominative
+209436	accusative
+209438	nominative
 dative
 nominative
-209405	nominative
-209408	nominative
-209415	accusative
-209419	dative
-209429	nominative
-209434	accusative
-209437	dative
-209442	dative
+209442	nominative
+209445	nominative
+209452	accusative
+209456	dative
+209466	nominative
+209471	accusative
+209474	dative
+209479	dative
 nominative
-209461	nominative
-209463	nominative
+209498	nominative
+209500	nominative
 accusative
-209478	accusative
-209485	accusative
-209492	accusative
-209494	accusative
-209503	dative
+209515	accusative
+209522	accusative
+209528	accusative
+209530	accusative
+209539	dative
 nominative
-209507	nominative
-209510	accusative
-209522	nominative
-209524	nominative
-209529	genitive
-209539	accusative
+209543	nominative
+209546	accusative
+209558	nominative
+209560	nominative
+209565	genitive
+209574	accusative
 nominative
-209548	accusative
+209583	accusative
 dative
-209557	nominative
+209592	nominative
 accusative
-209560	dative
-209568	accusative
-209572	nominative
-accusative
-209578	dative
-nominative
-nominative
-209582	nominative
-209587	nominative
-209592	accusative
-209602	dative
+209595	dative
+209602	accusative
 209606	nominative
-209611	accusative
-209614	accusative
-209618	nominative
-209623	nominative
-209628	nominative
-209645	nominative
-nominative
-genitive
-genitive
-209650	genitive
-209653	vocative
-209656	accusative
-209664	genitive
-nominative
-nominative
-209669	accusative
 accusative
-209672	nominative
-209678	nominative
-209682	nominative
-dative
-209687	genitive
-209696	nominative
-209699	dative
-vocative
-209704	accusative
-209708	genitive
+209611	dative
+nominative
+nominative
+209615	nominative
+209620	nominative
+209625	accusative
+209635	dative
+209639	nominative
+209644	accusative
+209647	accusative
+209650	nominative
+209655	nominative
+209660	nominative
+209677	nominative
+nominative
 genitive
-209711	nominative
-209714	nominative
-209725	nominative
-209727	dative
-209731	accusative
-209735	nominative
-209742	accusative
-209757	nominative
-209759	accusative
+genitive
+209682	genitive
+209685	vocative
+209688	accusative
+209695	genitive
 nominative
-209772	genitive
 nominative
-209776	nominative
-209778	nominative
-209782	nominative
-209795	dative
-209802	nominative
-209805	dative
+209700	accusative
+accusative
+209703	nominative
+209709	nominative
+209713	nominative
 dative
-209808	accusative
+209718	genitive
+209727	nominative
+209730	dative
+vocative
+209735	accusative
+209739	genitive
+genitive
+209742	nominative
+209745	nominative
+209755	nominative
+209757	dative
+209760	accusative
+209764	nominative
+209771	accusative
+209786	nominative
+209788	accusative
 nominative
-209813	dative
-209821	accusative
-209825	accusative
-209838	accusative
-209844	accusative
-209846	accusative
-209848	accusative
-209850	accusative
-209868	nominative
-209871	accusative
+209800	genitive
 nominative
-209884	nominative
+209804	nominative
+209806	nominative
+209810	nominative
+209823	dative
+209830	nominative
+209833	dative
+dative
+209836	accusative
+nominative
+209841	dative
+209849	accusative
+209853	accusative
+209866	accusative
+209872	accusative
+209874	accusative
+209876	accusative
+209878	accusative
+209894	nominative
 209897	accusative
-209904	nominative
+nominative
 209910	nominative
-209912	genitive
-209921	nominative
 209923	accusative
+209930	nominative
+209936	nominative
+209938	genitive
+209947	nominative
+209949	accusative
 nominative
-209926	nominative
-209932	accusative
-209936	accusative
-209938	nominative
-209941	dative
+209952	nominative
+209957	accusative
+209961	accusative
+209963	nominative
+209966	dative
 accusative
-209945	nominative
+209970	nominative
 accusative
-209951	accusative
+209976	accusative
 accusative
-209955	nominative
-209957	dative
-209959	nominative
+209980	nominative
+209982	dative
+209984	nominative
 accusative
-209962	dative
-209969	accusative
-209975	nominative
-209979	dative
-209985	nominative
+209987	dative
 209994	accusative
+210000	nominative
 210004	dative
-210006	nominative
+210009	nominative
+210018	accusative
+210028	dative
+210030	nominative
 nominative
-210013	dative
+210036	dative
 nominative
-210021	nominative
+210044	nominative
 nominative
-210028	accusative
-210032	nominative
-210039	accusative
-210048	accusative
+210051	accusative
+210055	nominative
+210062	accusative
+210071	accusative
 nominative
-210057	nominative
-210061	accusative
-210074	nominative
-210078	nominative
+210080	nominative
+210084	accusative
+210097	nominative
+210101	nominative
 dative
-210086	accusative
-210089	dative
-210093	accusative
-nominative
-accusative
-accusative
-210100	nominative
-210102	nominative
-210107	nominative
 210109	accusative
+210112	dative
+210116	accusative
 nominative
-210119	dative
-nominative
-210122	accusative
 accusative
-210126	nominative
-210128	nominative
-210133	nominative
-210135	nominative
+accusative
+210123	nominative
+210125	nominative
+210130	nominative
+210132	accusative
+nominative
+210142	dative
+nominative
+210145	accusative
+accusative
+210149	nominative
+210151	nominative
+210156	nominative
+210158	nominative
 dative
-210138	dative
-210140	accusative
+210161	dative
+210163	accusative
 nominative
-210147	accusative
-210166	nominative
-210171	accusative
-210179	dative
+210170	accusative
+210188	nominative
+210193	accusative
+210201	dative
 nominative
-210187	accusative
+210209	accusative
 nominative
-210194	nominative
-210196	accusative
-accusative
-210200	nominative
-210202	nominative
-210205	accusative
-210210	nominative
+210216	nominative
 210218	accusative
-210235	dative
-210241	genitive
-nominative
-210245	genitive
-210259	nominative
-210271	accusative
-210276	nominative
-210280	nominative
-nominative
-210286	dative
-nominative
-210291	nominative
-nominative
-210298	accusative
-210309	dative
-nominative
-210320	accusative
-dative
-210327	accusative
-210333	vocative
-nominative
-210336	accusative
-210343	accusative
-dative
-210346	accusative
-dative
-210349	accusative
-dative
-210352	nominative
 accusative
-210355	accusative
-210357	genitive
+210222	nominative
+210224	nominative
+210227	accusative
+210231	nominative
+210238	accusative
+210255	dative
+210260	genitive
+nominative
+210264	genitive
+210278	nominative
+210290	accusative
+210295	nominative
+210299	nominative
+nominative
+210305	dative
+nominative
+210310	nominative
+nominative
+210316	accusative
+210327	dative
+nominative
+210338	accusative
+dative
+210344	accusative
+210350	vocative
+nominative
+210353	accusative
+210359	accusative
+dative
+210362	accusative
+dative
+210365	accusative
+dative
+210368	nominative
+accusative
+210371	accusative
+210373	genitive
 genitive
-210360	nominative
-210363	accusative
-210368	accusative
-210372	nominative
 210376	nominative
+210379	accusative
+210384	accusative
+210388	nominative
+210392	nominative
 nominative
-210382	nominative
+210398	nominative
 genitive
-210390	nominative
+210406	nominative
 nominative
-210393	nominative
-210396	dative
-210402	genitive
-210410	genitive
+210409	nominative
+210412	dative
+210418	genitive
+210424	genitive
 genitive
-210415	dative
-210423	nominative
-vocative
-210426	genitive
-210432	nominative
-dative
+210429	dative
 210437	nominative
-210439	accusative
-210445	accusative
+vocative
+210440	genitive
+210446	nominative
+dative
 210451	nominative
-accusative
+210453	accusative
 210459	accusative
-210463	nominative
-210471	nominative
-210477	genitive
-210485	genitive
+210465	nominative
+accusative
+210473	accusative
+210477	nominative
+210484	nominative
+210490	genitive
+210497	genitive
 genitive
-210488	accusative
-210503	accusative
-210508	nominative
-210514	genitive
-210516	genitive
-210519	dative
-210526	nominative
-210541	nominative
-210552	accusative
-210556	accusative
-210566	nominative
-210569	nominative
-210574	nominative
+210500	accusative
+210515	accusative
+210520	nominative
+210525	genitive
+210527	genitive
+210530	dative
+210537	nominative
+210552	nominative
+210563	accusative
+210567	accusative
+210577	nominative
+210580	nominative
+210585	nominative
 accusative
-210577	accusative
-210581	dative
+210588	accusative
+210592	dative
 nominative
-210589	accusative
-210592	nominative
+210600	accusative
+210603	nominative
 accusative
-210596	accusative
+210607	accusative
 accusative
-210599	nominative
-210602	nominative
+210610	nominative
+210613	nominative
 nominative
-210605	nominative
+210616	nominative
 nominative
-210610	vocative
-210612	accusative
-210616	accusative
+210621	vocative
+210623	accusative
+210627	accusative
 accusative
-210620	accusative
-210628	nominative
-210632	nominative
-210648	nominative
-210655	accusative
-210659	nominative
-210665	dative
-210669	accusative
-210675	nominative
-210682	vocative
-210686	accusative
-210692	accusative
+210631	accusative
+210639	nominative
+210642	nominative
+210658	nominative
+210665	accusative
+210669	nominative
+210675	dative
+210679	accusative
+210685	nominative
+210692	vocative
+210696	accusative
+210702	accusative
 nominative
-210696	dative
-210703	genitive
+210706	dative
+210712	genitive
 genitive
-210708	nominative
-210711	dative
-210716	dative
-210721	accusative
-210727	accusative
-210741	dative
+210717	nominative
+210720	dative
+210725	dative
+210730	accusative
+210736	accusative
+210750	dative
 nominative
-210746	dative
-210748	dative
-210754	dative
-210761	nominative
-210763	nominative
-210773	dative
+210755	dative
+210757	dative
+210763	dative
+210770	nominative
+210772	nominative
+210782	dative
 vocative
 accusative
-210778	dative
-210788	nominative
-210790	nominative
-210794	nominative
+210787	dative
 210797	nominative
-210809	accusative
-210820	nominative
+210799	nominative
+210803	nominative
+210806	nominative
+210818	accusative
 210828	nominative
-210831	nominative
-210838	accusative
+210836	nominative
+210839	nominative
 210846	accusative
-210848	accusative
 210854	accusative
 210856	accusative
-210858	accusative
-210860	accusative
-210869	accusative
-210871	nominative
-210898	nominative
-210915	accusative
-210917	accusative
+210861	accusative
+210863	accusative
+210865	accusative
+210867	accusative
+210875	accusative
+210877	nominative
+210903	nominative
+210919	accusative
+210921	accusative
 dative
-210926	dative
-210940	accusative
+210930	dative
+210943	accusative
 nominative
-210950	accusative
+210953	accusative
 dative
-210958	dative
-210960	accusative
-210967	dative
-210969	dative
-210973	nominative
-210979	dative
-vocative
+210961	dative
+210963	accusative
+210970	dative
+210972	dative
+210976	nominative
 210982	dative
 vocative
-210992	nominative
-210998	nominative
-211004	nominative
-211009	dative
-211011	nominative
+210985	dative
 vocative
-211018	nominative
+210995	nominative
+211001	nominative
+211007	nominative
+211012	dative
+211014	nominative
+vocative
+211021	nominative
 genitive
 genitive
-211023	nominative
+211026	nominative
 accusative
 accusative
-211028	accusative
-nominative
 211031	accusative
+nominative
+211034	accusative
 accusative
-211037	nominative
+211040	nominative
 vocative
-211042	dative
-211048	dative
-211052	accusative
+211045	dative
+211051	dative
 211055	accusative
-211058	dative
-211072	accusative
+211058	accusative
+211061	dative
+211075	accusative
 accusative
-211083	dative
-211107	dative
-211117	accusative
-211123	accusative
+211085	dative
+211105	dative
+211115	accusative
+211121	accusative
 dative
+211127	nominative
 211130	nominative
-211133	nominative
 dative
+211137	nominative
 211140	nominative
-211144	nominative
-211152	nominative
-211160	dative
+211147	nominative
+211155	dative
+211160	nominative
 211165	nominative
-211171	nominative
-211174	nominative
+211168	nominative
 accusative
-211179	dative
-211187	accusative
+211173	dative
+211181	accusative
 nominative
-211196	accusative
-211205	nominative
+211190	accusative
+211199	nominative
 accusative
 nominative
 vocative
 accusative
 nominative
+211207	nominative
 211213	nominative
+211217	nominative
 211219	nominative
-211223	nominative
-211225	nominative
-211256	accusative
-211259	dative
-211263	accusative
-211267	nominative
-211269	nominative
-211271	accusative
-211276	nominative
-211279	nominative
-211289	dative
-211291	nominative
+211250	accusative
+211253	dative
+211257	accusative
+211261	nominative
+211263	nominative
+211265	accusative
+211270	nominative
+211273	nominative
+211283	dative
+211285	nominative
+211288	nominative
+accusative
+211291	accusative
+nominative
 211294	nominative
 accusative
-211297	accusative
-nominative
-211300	nominative
+211304	nominative
 accusative
-211310	nominative
-accusative
+211313	nominative
+211315	nominative
 211319	nominative
-211321	nominative
-211325	nominative
-211329	nominative
-211333	nominative
-211337	nominative
-211341	nominative
-211343	accusative
-211348	accusative
-211352	genitive
-211356	nominative
-211364	genitive
-211367	accusative
-211369	nominative
-211372	accusative
-211374	dative
-211380	dative
-211382	genitive
-211385	nominative
-211388	nominative
-211393	dative
-211398	nominative
-211404	accusative
+211323	nominative
+211327	nominative
+211331	nominative
+211335	nominative
+211337	accusative
+211342	accusative
+211346	genitive
+211350	nominative
+211358	genitive
+211360	accusative
+211362	nominative
+211365	accusative
+211367	dative
+211373	dative
+211375	genitive
+211378	nominative
+211381	nominative
+211386	dative
+211391	nominative
+211397	accusative
 nominative
+211405	dative
+nominative
+211408	accusative
 211412	dative
-nominative
-211415	accusative
-211419	dative
-211423	nominative
+211415	nominative
 nominative
 nominative
-211427	nominative
-211440	nominative
-211444	vocative
+211419	nominative
+211432	nominative
+211435	vocative
+211438	dative
 211447	dative
-211456	dative
-211458	dative
-211460	nominative
-211463	dative
-211468	vocative
+211449	dative
+211451	nominative
+211454	dative
+211456	vocative
 vocative
-211477	genitive
+211465	genitive
 nominative
-211483	nominative
-211486	genitive
+211471	nominative
+211474	genitive
+211479	accusative
+211489	vocative
 211491	accusative
-211501	vocative
-211503	accusative
-211512	dative
-211518	vocative
-211530	dative
-211536	dative
-211543	dative
+211500	dative
+211504	vocative
+211516	dative
+211521	dative
+211528	dative
 dative
-211548	accusative
-211557	accusative
-211561	genitive
-211564	dative
+211533	accusative
+211542	accusative
+211546	genitive
+211549	dative
 vocative
-211567	dative
-211578	accusative
-211580	dative
+211552	dative
+211563	accusative
+211565	dative
 nominative
-211583	nominative
-211587	dative
+211568	nominative
+211571	dative
 accusative
-211603	nominative
-211605	dative
-211607	dative
-211613	dative
+211587	nominative
+211589	dative
+211591	dative
+211596	dative
 nominative
-211621	nominative
-211623	dative
+211604	nominative
+211606	dative
 genitive
-211626	nominative
+211609	nominative
 dative
+211616	dative
+211625	dative
+211629	nominative
+211632	nominative
 211635	dative
-211644	dative
-211648	nominative
-211651	nominative
-211654	dative
-211663	accusative
-211665	accusative
+211644	accusative
+211646	accusative
 dative
-211671	accusative
+211652	accusative
+211654	dative
+accusative
+211658	nominative
+nominative
+nominative
 211673	dative
 accusative
-211678	nominative
-nominative
-nominative
-211693	dative
-accusative
-211697	accusative
-211699	nominative
-211701	accusative
-211706	genitive
+211677	accusative
+211679	nominative
+211681	accusative
+211685	genitive
+211702	nominative
+211704	nominative
+211709	nominative
+211711	nominative
+211715	dative
+211720	nominative
 211723	nominative
-211725	nominative
-211730	nominative
-211732	nominative
-211736	dative
-211741	nominative
+211740	accusative
 211744	nominative
-211763	accusative
-211767	nominative
-211776	nominative
-211783	nominative
-211794	nominative
+211753	nominative
+211760	nominative
+211771	nominative
+211778	nominative
+211782	nominative
+211784	accusative
+211795	nominative
 211801	nominative
-211806	nominative
-211808	accusative
-211819	nominative
-211825	nominative
-211838	nominative
+211813	nominative
 accusative
+211817	nominative
+211826	nominative
+211829	accusative
+211831	accusative
 211842	nominative
-211852	nominative
-211855	accusative
+211851	nominative
 211857	accusative
-211868	nominative
-211877	nominative
-211883	accusative
 accusative
 nominative
-211887	accusative
-211892	dative
+211861	accusative
+211866	dative
 nominative
-211897	nominative
+211871	nominative
 accusative
-211901	accusative
-211903	nominative
-211906	nominative
-211908	nominative
-211913	nominative
-211917	genitive
-211926	accusative
-211929	nominative
-211932	dative
-211941	nominative
-211943	nominative
-211964	accusative
-211988	accusative
-211999	nominative
+211874	accusative
+211876	nominative
+211879	nominative
+211881	nominative
+211886	nominative
+211889	genitive
+211896	accusative
+211899	nominative
+211902	dative
+211910	nominative
+211912	nominative
+211932	accusative
+211955	accusative
+211966	nominative
 accusative
 nominative
-212012	nominative
-212024	nominative
-212030	nominative
-212034	nominative
-212039	nominative
-212048	nominative
-212055	nominative
-212057	nominative
-212067	accusative
-212072	accusative
+211978	nominative
+211990	nominative
+211996	nominative
+212000	nominative
+212005	nominative
+212013	nominative
+212020	nominative
+212022	nominative
+212032	accusative
+212037	accusative
 nominative
-212077	nominative
-212082	nominative
+212042	nominative
+212047	nominative
+212051	accusative
+212076	vocative
+nominative
+212084	accusative
 212086	accusative
-212111	vocative
-nominative
-212119	accusative
-212121	accusative
-212124	nominative
+212089	nominative
 nominative
 dative
-212149	accusative
-212153	accusative
-212174	dative
-212186	nominative
-212190	nominative
-212195	dative
+212114	accusative
+212118	accusative
+212137	dative
+212149	nominative
+212153	nominative
+212158	dative
 vocative
 accusative
 nominative
-212201	nominative
-212214	nominative
-212222	dative
-212233	accusative
-212236	nominative
-212246	nominative
-212249	accusative
+212164	nominative
+212177	nominative
+212185	dative
+212196	accusative
+212198	nominative
+212208	nominative
+212211	accusative
 nominative
-212276	nominative
-212288	genitive
-212296	dative
-212310	nominative
-212314	accusative
-212318	genitive
+212237	nominative
+212249	genitive
+212257	dative
+212271	nominative
+212275	accusative
+212278	genitive
 genitive
-212330	accusative
-212332	nominative
+212290	accusative
+212292	nominative
 accusative
-212335	accusative
-212340	genitive
-212346	accusative
-212352	accusative
-212354	dative
-212359	nominative
-212361	nominative
-212363	nominative
-212367	nominative
-212369	nominative
-212374	nominative
-212378	genitive
+212295	accusative
+212300	genitive
+212306	accusative
+212312	accusative
+212314	dative
+212318	nominative
+212320	nominative
+212322	nominative
+212325	nominative
+212327	nominative
+212331	nominative
+212335	genitive
 accusative
-212387	accusative
-212404	genitive
-212409	genitive
-212414	dative
+212344	accusative
+212361	genitive
+212366	genitive
+212371	dative
 accusative
-212420	accusative
+212377	accusative
 accusative
-212427	dative
+212384	dative
 accusative
-212454	dative
-212456	nominative
-212472	nominative
+212411	dative
+212413	nominative
+212429	nominative
 accusative
-212483	nominative
+212440	nominative
+212442	accusative
+212448	dative
+212453	dative
+212459	accusative
+212472	accusative
+212475	accusative
+212481	accusative
 212485	accusative
-212491	dative
-212496	dative
-212503	accusative
-212516	accusative
-212519	accusative
-212525	accusative
-212529	accusative
-212537	dative
+212493	dative
 vocative
-212545	nominative
-212548	dative
+212501	nominative
+212504	dative
 vocative
 nominative
 accusative
-212570	dative
-212575	genitive
+212525	dative
+212530	genitive
 dative
-212579	accusative
-212581	nominative
-212590	nominative
-212592	accusative
-212604	accusative
-212612	accusative
-212627	vocative
-212631	accusative
-212641	dative
-212643	vocative
-212650	accusative
-212653	dative
-212656	nominative
+212534	accusative
+212536	nominative
+212545	nominative
+accusative
+212557	accusative
+212565	accusative
+212580	vocative
+212584	accusative
+212593	dative
+212595	vocative
+212602	accusative
+212605	dative
+212608	nominative
 dative
-212661	nominative
-212669	dative
-212674	accusative
-212678	accusative
-212682	nominative
-212695	dative
+212613	nominative
+212621	dative
+212626	accusative
+212630	accusative
+212634	nominative
+212647	dative
+212655	accusative
+212657	nominative
+212663	nominative
+212669	accusative
+212673	accusative
+212675	accusative
+212687	dative
+212689	nominative
 212703	accusative
-212705	nominative
-212711	nominative
-212717	accusative
-212721	accusative
-212723	accusative
-212735	dative
-212738	nominative
-212752	accusative
-212757	accusative
-212762	accusative
+212708	accusative
+212713	accusative
 vocative
-212768	accusative
-212771	accusative
-212788	genitive
-212794	nominative
-212796	dative
-212806	dative
-212810	accusative
-212813	accusative
-212815	dative
-212819	accusative
-212826	nominative
-212830	nominative
-212848	nominative
+212719	accusative
+212722	accusative
+212739	genitive
+212745	nominative
+212747	dative
+212757	dative
+212761	accusative
+212764	accusative
+212766	dative
+212770	accusative
+212776	nominative
+212780	nominative
+212796	nominative
+212799	nominative
+212801	nominative
+nominative
+212804	dative
+212813	genitive
+212815	genitive
+212818	dative
+nominative
+212822	accusative
+nominative
+212826	accusative
+212828	dative
+212833	accusative
+212835	nominative
+212837	dative
 212851	nominative
 212853	nominative
-nominative
-212856	dative
-212865	genitive
-212867	genitive
-212870	dative
-nominative
-212875	accusative
-nominative
-212879	accusative
-212881	dative
-212886	accusative
-212888	nominative
-212890	dative
-212905	nominative
-212907	nominative
 accusative
-212926	nominative
-212938	vocative
-212949	nominative
-212957	accusative
-212966	nominative
-212970	accusative
+212870	nominative
+212882	vocative
+212893	nominative
+212900	accusative
+212909	nominative
+212912	accusative
 nominative
-212975	accusative
-212979	dative
-212984	dative
-212986	accusative
-213021	dative
-213027	dative
-213033	accusative
-213044	nominative
-213057	accusative
-213060	nominative
+212917	accusative
+212921	dative
+212926	dative
+212928	accusative
+212960	dative
+212965	dative
+212971	accusative
+212982	nominative
+212995	accusative
+212998	nominative
 nominative
-213065	accusative
-213068	dative
+213003	accusative
+213006	dative
+213008	nominative
+nominative
+213013	dative
+213015	accusative
+accusative
+213018	accusative
+accusative
+213025	accusative
+213030	accusative
+213038	genitive
+213042	accusative
+213050	dative
+213054	accusative
+213063	nominative
 213070	nominative
+213073	nominative
+213076	nominative
+213079	nominative
+213083	nominative
+213088	nominative
+213098	accusative
+accusative
+213104	nominative
+213111	accusative
+accusative
+213115	nominative
+213119	vocative
+213134	accusative
+213151	accusative
+213157	accusative
+213162	accusative
+213167	accusative
+213171	dative
+213182	nominative
+213186	nominative
+dative
+213192	nominative
+213198	nominative
+213200	dative
+213205	nominative
+213211	accusative
+213215	dative
+213220	nominative
+213235	accusative
+213238	nominative
 nominative
-213075	dative
-213077	accusative
+213245	accusative
 accusative
-213080	accusative
-accusative
-213087	accusative
-213092	accusative
-213100	genitive
-213104	accusative
-213112	dative
-213116	accusative
-213126	nominative
-213134	nominative
-213137	nominative
-213140	nominative
-213143	nominative
-213147	nominative
-213152	nominative
-213163	accusative
-accusative
-213169	nominative
-213177	accusative
-accusative
-213181	nominative
-213185	vocative
-213200	accusative
-213218	accusative
-213224	accusative
-213229	accusative
-213234	accusative
-213238	dative
-213250	nominative
+213249	dative
 213254	nominative
+213261	accusative
+213263	nominative
+accusative
+213271	nominative
+accusative
+213284	genitive
+213286	nominative
+accusative
+213295	accusative
+213301	nominative
+213303	nominative
+213305	dative
+vocative
+213308	accusative
+213313	genitive
+213318	accusative
+213322	accusative
+213324	accusative
+213329	accusative
+213341	nominative
+213347	nominative
+213350	nominative
+213354	nominative
+213356	accusative
+213361	dative
+vocative
+213368	dative
+213377	nominative
+213380	nominative
+213395	nominative
+213404	dative
+213408	vocative
+213420	nominative
+213425	accusative
+accusative
+213442	accusative
+genitive
+genitive
+213447	nominative
 dative
-213261	nominative
-213267	nominative
-213269	dative
-213274	nominative
-213280	accusative
-213285	dative
-213290	nominative
-213306	accusative
-213309	nominative
+213457	dative
+213462	dative
 nominative
-213316	accusative
-accusative
-213320	dative
-213325	nominative
-213332	accusative
-213334	nominative
-accusative
-213342	nominative
-accusative
-213356	genitive
-213358	nominative
-accusative
-213367	accusative
-213373	nominative
-213375	nominative
-213377	dative
-vocative
-213380	accusative
-213385	genitive
-213390	accusative
-213394	accusative
-213396	accusative
-213401	accusative
-213413	nominative
-213419	nominative
-213422	nominative
-213426	nominative
-213428	accusative
-213433	dative
-vocative
-213440	dative
-213449	nominative
-213452	nominative
-213468	nominative
-213477	dative
-213481	vocative
-213493	nominative
-213499	accusative
-accusative
-213516	accusative
-genitive
-genitive
+213469	dative
+213471	accusative
+nominative
+213475	accusative
+nominative
+nominative
+213497	dative
+213502	nominative
+213504	accusative
+nominative
+nominative
+213512	genitive
+213514	nominative
 213521	nominative
-dative
-213531	dative
-213536	dative
+213523	accusative
 nominative
-213543	dative
-213545	accusative
-nominative
-213550	accusative
-nominative
-nominative
-213572	dative
-213577	nominative
-213580	accusative
-nominative
-nominative
-213588	genitive
-213590	nominative
-213597	nominative
-213599	accusative
-nominative
-213604	nominative
+213528	nominative
 dative
 vocative
 nominative
 nominative
 nominative
-213621	nominative
-213623	dative
-213630	genitive
-213644	nominative
+213544	nominative
+213546	dative
+213553	genitive
+213567	nominative
 vocative
-213647	dative
-213649	nominative
-213651	dative
-213654	accusative
-213673	nominative
+213570	dative
+213572	nominative
+213574	dative
+213577	accusative
+213596	nominative
 dative
-213705	accusative
-213707	accusative
-213729	nominative
-213731	nominative
-213735	nominative
-213737	nominative
+213627	accusative
+213629	accusative
+213650	nominative
+213652	nominative
+213655	nominative
+213657	nominative
+213663	nominative
+dative
+213669	nominative
+213671	accusative
+213675	dative
+nominative
+213683	accusative
+213685	accusative
+213694	accusative
+213698	dative
+213703	accusative
+213706	vocative
+vocative
+nominative
+213711	nominative
+accusative
+213720	nominative
+213730	dative
+213735	dative
+213738	accusative
 213743	nominative
-dative
-213750	nominative
-213752	accusative
-213756	dative
 nominative
+213751	accusative
+213758	dative
+213760	accusative
+213762	nominative
 213764	accusative
-213766	accusative
-213775	accusative
-213779	dative
-213784	accusative
-213788	vocative
+213772	nominative
+213779	nominative
+213785	nominative
+213789	nominative
+213791	accusative
+213807	accusative
+213819	accusative
+accusative
+nominative
+213825	nominative
+213842	nominative
+213845	nominative
+213847	dative
+213849	dative
+accusative
+213861	nominative
+213869	nominative
+accusative
+213872	dative
 vocative
+213875	accusative
+213878	dative
 nominative
-213793	nominative
+213882	genitive
+dative
+213887	nominative
 accusative
-213802	nominative
-213812	dative
-213817	dative
-213821	accusative
-213827	nominative
-nominative
-213835	accusative
-213842	dative
-213844	accusative
-213846	nominative
-213848	accusative
-213856	nominative
-213863	nominative
-213870	nominative
-213874	nominative
-213876	accusative
-213892	accusative
-213904	accusative
+213891	nominative
 accusative
-nominative
-213910	nominative
-213929	nominative
+213897	dative
+accusative
+213920	accusative
+213923	accusative
+dative
+213927	accusative
 213932	nominative
-213934	dative
-213936	dative
+213938	dative
+213941	dative
+213946	nominative
+213949	genitive
 accusative
-213950	nominative
-213960	nominative
-accusative
-213963	dative
-vocative
-213966	accusative
-213969	dative
+213952	dative
 nominative
-213973	genitive
-dative
-213978	nominative
+nominative
+213956	accusative
+213961	nominative
+213964	dative
+213972	accusative
+213981	dative
+213985	nominative
+213990	nominative
+213994	dative
 accusative
-213982	nominative
+213999	accusative
+nominative
+214002	accusative
+214004	accusative
+214006	accusative
 accusative
-213988	dative
-accusative
-214013	accusative
-214016	accusative
-dative
+214009	nominative
+214017	accusative
+214019	accusative
 214021	accusative
-214027	nominative
-214033	dative
-214036	dative
-214041	nominative
-214044	genitive
 accusative
-214047	dative
-nominative
-nominative
-214051	accusative
-214056	nominative
-214059	dative
-214067	accusative
-214076	dative
-214081	nominative
-214086	nominative
-214090	dative
-214092	accusative
-214096	accusative
-nominative
-214099	accusative
-214101	accusative
-214103	accusative
+214024	nominative
+214027	accusative
+214035	nominative
+214040	accusative
+214042	nominative
+214066	vocative
+214068	accusative
+214072	nominative
+214094	dative
+214100	genitive
+214106	dative
+214109	nominative
+214114	nominative
+214143	nominative
+214158	nominative
 accusative
-214106	nominative
-214115	accusative
-214117	accusative
-214119	accusative
-accusative
-214122	nominative
-214125	accusative
-214133	nominative
-214138	accusative
-214140	nominative
-214164	vocative
-214166	accusative
-214170	nominative
-214192	dative
-214198	genitive
-214204	dative
-214207	nominative
-214213	nominative
-214242	nominative
-214258	nominative
-accusative
-214261	accusative
+214161	accusative
 nominative
-214271	genitive
+214170	genitive
 genitive
 accusative
-214276	genitive
+214175	genitive
+214178	nominative
+214180	dative
+214182	nominative
+214194	nominative
+214198	nominative
+accusative
+214201	nominative
+214208	dative
+214214	genitive
+214216	genitive
+accusative
+nominative
+214226	nominative
+214236	nominative
+214251	nominative
+214255	accusative
+nominative
+accusative
+214262	dative
+214269	genitive
+214277	nominative
 214279	nominative
-214281	dative
-214283	nominative
+accusative
+214284	dative
+214290	nominative
 214295	nominative
-214299	nominative
-accusative
-214302	nominative
-214309	dative
-214317	genitive
-214319	genitive
-accusative
-nominative
-214330	nominative
-214340	nominative
-214355	nominative
-214359	accusative
-nominative
-accusative
-214366	dative
-214373	genitive
-214381	nominative
-214383	nominative
-accusative
-214388	dative
-214394	nominative
-214399	nominative
-214402	nominative
-214413	accusative
-214416	accusative
-214418	nominative
-214423	nominative
-214425	nominative
-214433	nominative
+214298	nominative
+214309	accusative
+214312	accusative
+214314	nominative
+214319	nominative
+214321	nominative
+214329	nominative
 dative
-214437	dative
-214443	accusative
-214445	dative
-214449	nominative
-214456	dative
-214462	nominative
-214470	nominative
+214332	dative
+214338	accusative
+214340	dative
+214344	nominative
+214351	dative
+214356	nominative
+214364	nominative
+214369	accusative
+214377	genitive
+214380	nominative
+214385	nominative
+214387	dative
+214391	accusative
+214395	dative
+214397	nominative
+214405	dative
+214416	vocative
+214418	dative
+214421	accusative
+214424	nominative
+214427	dative
+214433	nominative
+accusative
+214445	nominative
+214447	genitive
+214449	genitive
+accusative
+214457	nominative
+214461	nominative
+214470	accusative
 214475	accusative
 214483	genitive
-214486	nominative
-214491	nominative
-214494	dative
-214499	accusative
-214504	dative
+214487	nominative
+214489	dative
+214492	nominative
+214500	genitive
+nominative
+214503	dative
 214506	nominative
-214514	dative
-214525	vocative
-214527	dative
-214530	accusative
+214513	dative
+vocative
+214523	nominative
+214527	accusative
 214533	nominative
-214536	dative
-214542	nominative
+214540	genitive
 accusative
-214554	nominative
-214557	genitive
-214559	genitive
-accusative
-214567	nominative
+genitive
+214544	accusative
+214550	nominative
+214557	accusative
+214561	dative
+vocative
 214571	nominative
-214580	accusative
-214585	accusative
-214594	genitive
-214598	nominative
-214600	dative
-214603	nominative
-214611	genitive
+214581	accusative
+214587	accusative
+214591	accusative
+214596	accusative
+214607	nominative
+214613	nominative
+214632	nominative
+214639	nominative
+214643	nominative
+214645	nominative
 nominative
-214614	dative
-214617	nominative
-214624	dative
-vocative
-214635	nominative
-214640	accusative
-214646	nominative
-214654	genitive
+214649	dative
+214662	accusative
 accusative
-genitive
-214658	accusative
-214664	nominative
-214671	accusative
-214675	dative
+214674	nominative
+214676	accusative
+nominative
+214679	nominative
+214686	dative
+214692	dative
+214695	accusative
+214707	nominative
+214713	dative
+214716	nominative
+214719	dative
 vocative
-214685	nominative
-214696	accusative
-214702	accusative
-214706	accusative
-214711	accusative
-214723	nominative
-214730	nominative
-214750	nominative
+nominative
+214728	nominative
+214741	nominative
+214747	nominative
 214757	nominative
-214761	nominative
-214763	nominative
 nominative
-214767	dative
-214780	accusative
+214760	accusative
+214762	nominative
+214764	dative
+214766	nominative
+214768	accusative
+214770	nominative
 accusative
-214792	nominative
-214794	accusative
-nominative
-214797	nominative
-214804	dative
-214811	dative
+214773	dative
+accusative
+accusative
+214792	accusative
+214806	accusative
 214814	accusative
-214826	nominative
-214832	dative
-214835	nominative
-214838	dative
-vocative
-nominative
-214847	nominative
-214860	nominative
-214866	nominative
-214876	nominative
-nominative
-214879	accusative
-214881	nominative
-214883	dative
+214819	nominative
+214828	accusative
+214832	nominative
+214837	nominative
+214840	dative
+214846	nominative
+214851	dative
+214853	nominative
+214855	accusative
+214857	nominative
+214863	dative
 214885	nominative
-214887	accusative
-214889	nominative
-accusative
-214892	dative
-accusative
-accusative
-214913	accusative
-214928	accusative
-214936	accusative
-214941	nominative
-214950	accusative
-214954	nominative
-214959	nominative
-214962	dative
-214968	nominative
-214973	dative
-214975	nominative
-214977	accusative
-214979	nominative
-214985	dative
-215008	nominative
-215019	nominative
+214896	nominative
 dative
-215023	dative
-215025	accusative
-215034	accusative
-215043	nominative
-215051	nominative
-215059	nominative
-215063	nominative
+214899	dative
+214901	accusative
+214910	accusative
+214919	nominative
+214927	nominative
+214934	nominative
+214938	nominative
 dative
+214945	nominative
+214949	nominative
+214951	dative
+214967	genitive
+214975	dative
+214978	dative
+214983	nominative
+nominative
+214987	accusative
+214990	dative
+214992	nominative
+214994	nominative
+accusative
+215007	nominative
+215021	nominative
+215024	nominative
+215038	nominative
+215042	nominative
+accusative
+215046	accusative
+215048	nominative
+215053	nominative
+215058	nominative
+215064	dative
+nominative
 215071	nominative
-215075	nominative
-215077	dative
-215094	genitive
-215102	dative
-215105	dative
-215110	nominative
+215073	nominative
+215076	genitive
+215084	nominative
+215094	accusative
+215109	nominative
+215112	nominative
+215115	accusative
+215123	nominative
 nominative
-215114	accusative
-215117	dative
-215120	nominative
-215122	nominative
-accusative
-215135	nominative
-215149	nominative
-215152	nominative
-215166	nominative
-215170	nominative
-accusative
-215174	accusative
-215176	nominative
-215181	nominative
-215186	nominative
-215192	dative
+215128	accusative
+215131	accusative
+215139	genitive
+215151	nominative
+vocative
+215162	nominative
+215169	nominative
+215182	nominative
+215195	accusative
+215197	vocative
+215200	accusative
+215211	dative
+215223	nominative
+215229	genitive
 nominative
-215199	nominative
-215201	nominative
-215204	genitive
-215212	nominative
-215222	accusative
 215237	nominative
-215240	nominative
-215243	accusative
-215251	nominative
-nominative
-215256	accusative
-215259	accusative
-215267	genitive
-215279	nominative
-vocative
-215290	nominative
-215297	nominative
-215310	nominative
-215326	accusative
-215328	vocative
-215331	accusative
-215342	dative
-215354	nominative
-215361	genitive
-nominative
-215369	nominative
-215376	dative
-215386	nominative
-215396	nominative
-215406	dative
-215425	dative
-215432	dative
-215438	dative
-215451	nominative
-215454	dative
-215460	dative
+215244	dative
+215253	nominative
+215263	nominative
+215273	dative
+215292	dative
+215298	dative
+215303	dative
+215315	nominative
+215318	dative
+215324	dative
 accusative
-215483	dative
-215490	nominative
+215346	dative
+215352	nominative
 accusative
-215493	accusative
+215355	accusative
 nominative
 dative
-215499	dative
-215501	nominative
-215505	dative
-215509	accusative
-215512	nominative
+215361	dative
+215363	nominative
+215367	dative
+215370	accusative
+215373	nominative
+215375	dative
+215385	nominative
+215387	accusative
+215391	accusative
+215397	accusative
+dative
+215403	accusative
+215413	nominative
+215420	genitive
+genitive
+215427	nominative
+215431	nominative
+215433	accusative
+nominative
+vocative
+vocative
+215438	accusative
+215440	nominative
+215442	dative
+nominative
+215445	accusative
+215451	accusative
+215456	nominative
+215462	nominative
+215470	nominative
+dative
+215473	nominative
+215475	nominative
+nominative
+215487	nominative
+215489	accusative
+215497	dative
+nominative
+215503	accusative
+nominative
 215514	dative
-215524	nominative
-215526	accusative
-215530	accusative
-215536	accusative
-dative
-215542	accusative
-215552	nominative
-215560	genitive
-genitive
+215541	nominative
+215556	dative
 215568	nominative
-215572	nominative
-215574	accusative
-nominative
-215578	vocative
-vocative
-215581	accusative
-215583	nominative
-215585	dative
-nominative
-215588	accusative
-215595	accusative
-215600	nominative
-215606	nominative
-215614	nominative
-dative
-215617	nominative
+215586	accusative
+215589	accusative
+accusative
 215619	nominative
-nominative
-215632	nominative
-215634	accusative
-215642	dative
+215628	accusative
 215644	nominative
-215649	accusative
+215652	accusative
+215664	nominative
+215676	accusative
+215688	nominative
+215694	accusative
+215696	nominative
+215699	accusative
+215701	dative
+215724	nominative
+215726	dative
+215728	vocative
 nominative
-215660	dative
-215689	nominative
-215705	dative
-215718	nominative
-215736	accusative
-215739	accusative
+215732	dative
+215741	accusative
+dative
+215747	accusative
+215751	nominative
+215759	nominative
+215761	accusative
+215763	nominative
+215765	nominative
+215774	nominative
+215776	accusative
+215795	accusative
+215799	dative
 accusative
-215770	nominative
-215779	accusative
-215796	nominative
 215804	accusative
-215816	nominative
-215828	accusative
-215840	nominative
-215846	accusative
-215848	nominative
-215851	accusative
-215853	dative
-215877	nominative
-215879	dative
-215881	vocative
-nominative
-215885	dative
-215895	accusative
+215808	nominative
+215810	accusative
+215815	accusative
+215828	genitive
 dative
-215901	accusative
-215905	nominative
-215913	nominative
-215915	accusative
-215917	nominative
-215919	nominative
-215928	nominative
-215930	accusative
-215950	accusative
-215954	dative
+215836	dative
+215846	nominative
+215856	accusative
+215860	nominative
+215862	accusative
+215873	nominative
+215876	nominative
+215878	nominative
 accusative
-215959	accusative
-215963	nominative
-215965	accusative
+215884	dative
+215904	accusative
+215909	nominative
+215921	nominative
+215927	dative
+215929	nominative
+nominative
+215938	nominative
+accusative
+215942	nominative
+accusative
+215947	dative
+215951	genitive
+215953	nominative
+215957	dative
+215961	accusative
+nominative
 215970	accusative
-215983	genitive
-dative
-215991	dative
-216002	nominative
-216012	accusative
-216016	nominative
-216018	accusative
-216029	nominative
-216032	nominative
-216034	nominative
+215978	dative
+nominative
+215986	nominative
+215993	accusative
+nominative
+215996	accusative
+nominative
+216002	dative
+216004	accusative
 accusative
+216007	accusative
+nominative
+nominative
+216030	nominative
+216036	nominative
 216040	dative
-216061	accusative
-216066	nominative
+216042	nominative
+dative
+216046	accusative
+216051	dative
+216054	accusative
+216060	dative
+nominative
+216063	nominative
+accusative
+nominative
+216069	nominative
+216071	nominative
+216073	accusative
 216078	nominative
-216084	dative
-216087	nominative
+216085	nominative
+216088	accusative
+216093	accusative
+216101	nominative
+216103	nominative
+216106	nominative
+216112	nominative
+216120	nominative
 nominative
-216096	nominative
-accusative
-216100	nominative
-accusative
-216105	dative
-216109	genitive
-216111	nominative
-216115	dative
-216119	accusative
+216124	dative
 nominative
-216129	accusative
-216137	dative
-nominative
+216128	dative
+216130	dative
+216132	nominative
+216134	nominative
 216145	nominative
-216152	accusative
-nominative
-216155	accusative
-nominative
-216161	dative
-216164	accusative
-accusative
-216167	accusative
-216169	nominative
-nominative
-216192	nominative
-216198	nominative
-216202	dative
-216204	nominative
-dative
-216208	accusative
-216213	dative
+216149	accusative
+216157	dative
+216159	nominative
+216171	nominative
+216190	nominative
+216192	accusative
+216199	nominative
+216206	nominative
+216211	accusative
 216216	accusative
-216223	dative
-216225	nominative
-216227	nominative
+216222	nominative
+nominative
+216225	genitive
+genitive
+216228	nominative
+216230	nominative
+216233	dative
+216240	nominative
+216244	accusative
+216246	nominative
+216248	dative
+216251	nominative
+216257	accusative
+nominative
+216262	accusative
+216265	genitive
+216267	genitive
+216269	accusative
 accusative
+dative
+216274	nominative
+216277	vocative
+216283	dative
+216288	accusative
+216294	dative
 nominative
-216233	nominative
-216235	nominative
-216237	accusative
-216243	nominative
-216250	nominative
-216253	accusative
-216258	accusative
-216266	nominative
-216268	nominative
-216271	nominative
-216277	nominative
-216285	nominative
-nominative
-216289	dative
-nominative
-216293	dative
-216295	dative
-216297	nominative
 216300	nominative
-216311	nominative
-216315	accusative
-216323	dative
+216302	accusative
+216305	nominative
+216311	dative
+nominative
+nominative
+216315	nominative
+216317	nominative
+216319	nominative
+nominative
 216325	nominative
+216334	nominative
 216337	nominative
-216356	nominative
-216358	accusative
-216365	nominative
-216372	nominative
-216377	accusative
-216383	accusative
-216389	nominative
+216344	accusative
+216346	genitive
+216354	nominative
+216358	vocative
 nominative
-216392	genitive
-genitive
-216395	nominative
-216397	nominative
-216400	dative
-216407	nominative
-216411	accusative
+216367	accusative
+216370	nominative
+216374	accusative
+nominative
+216377	nominative
+nominative
+216380	nominative
+216386	nominative
+216388	nominative
+216396	genitive
+vocative
+216402	genitive
+accusative
+216406	accusative
 216413	nominative
-216415	dative
-216418	nominative
-216424	accusative
-nominative
-216429	accusative
-216433	genitive
-216435	genitive
-216437	accusative
+216428	accusative
+genitive
+216431	genitive
 accusative
-dative
-216442	nominative
-216445	vocative
-216451	dative
-216457	accusative
-216463	dative
 nominative
-216469	nominative
-216471	accusative
-216474	nominative
-216480	dative
-nominative
-nominative
-216484	nominative
+216435	accusative
+216439	accusative
+216442	accusative
+216459	dative
+accusative
+216463	nominative
+216468	dative
+216475	dative
+216481	accusative
+216484	accusative
 216486	nominative
-216488	nominative
-nominative
-216495	nominative
-216504	nominative
-216507	nominative
-216514	accusative
-216516	genitive
-216525	nominative
-216529	vocative
-nominative
-216538	accusative
-216541	nominative
-216545	accusative
-nominative
-216548	nominative
-nominative
-216551	nominative
-216557	nominative
-216559	nominative
-216567	genitive
+216489	accusative
+216496	accusative
+accusative
+216502	dative
+216505	dative
+216510	nominative
+accusative
+216516	nominative
 vocative
-216574	genitive
-accusative
-216578	accusative
-216585	nominative
-216600	accusative
-216602	genitive
-216604	genitive
-accusative
+216524	dative
+216529	nominative
+216532	accusative
 nominative
-216608	accusative
-216612	accusative
-216615	accusative
-216632	dative
-accusative
-216636	nominative
-216641	dative
-216648	dative
-216654	accusative
-216657	accusative
-216659	nominative
-216662	accusative
-216669	accusative
-accusative
-216675	dative
-216679	dative
-216684	nominative
-accusative
-216690	nominative
+216539	nominative
+216542	vocative
+216555	nominative
 vocative
-216698	dative
+216560	accusative
+216562	accusative
+216566	accusative
+216572	accusative
+216577	accusative
+216581	dative
+216586	accusative
+216590	nominative
+216594	nominative
+accusative
+216599	nominative
+accusative
+216610	nominative
+nominative
+216613	accusative
+216616	dative
+216626	dative
+216629	dative
+vocative
+216634	dative
+216637	dative
+216642	genitive
+216644	accusative
+216653	accusative
+accusative
+216661	accusative
+216664	nominative
+accusative
+216668	nominative
+216680	accusative
+genitive
+216685	nominative
+216691	nominative
+216693	accusative
+216699	nominative
+accusative
 216704	nominative
-216707	accusative
-nominative
-216714	nominative
-216717	vocative
-216730	nominative
-216732	vocative
-216737	accusative
-216739	accusative
-216743	accusative
-216749	accusative
-216754	accusative
-216758	dative
-216764	accusative
-216768	nominative
-216772	nominative
 accusative
-216777	nominative
-accusative
-216789	nominative
-nominative
-216792	accusative
-216795	dative
-216805	dative
-216808	dative
-vocative
-216813	dative
-216816	dative
-216821	genitive
-216823	accusative
-216832	accusative
-accusative
-216840	accusative
-216843	nominative
-accusative
-216847	nominative
-216861	accusative
+216715	nominative
+216717	nominative
+216721	dative
 genitive
-216866	nominative
-216872	nominative
-216875	accusative
-216881	nominative
-accusative
-216887	nominative
-accusative
+216724	genitive
+216730	accusative
+216733	nominative
+216742	accusative
+216746	nominative
+216753	genitive
+216755	genitive
+216761	genitive
+216763	genitive
+216776	nominative
+216782	genitive
+216784	genitive
+nominative
+nominative
+216788	nominative
+216794	nominative
+216796	nominative
+216806	vocative
+216811	nominative
+216814	dative
+216816	nominative
+216823	nominative
+216827	nominative
+216845	nominative
+216852	accusative
+dative
+216856	accusative
+216859	accusative
+216872	accusative
+216876	genitive
+216884	nominative
+216889	accusative
+nominative
+dative
 216899	nominative
-216901	nominative
-216905	dative
-216907	genitive
-216909	genitive
-216915	accusative
-216918	nominative
-216927	accusative
-216931	nominative
-216939	genitive
-216941	genitive
-216948	genitive
-216950	genitive
-216963	nominative
-216970	genitive
-216972	genitive
+216901	accusative
+216916	accusative
+216924	nominative
+accusative
+216931	genitive
 nominative
+216938	genitive
+genitive
+216944	genitive
+216954	nominative
+216957	dative
+216961	accusative
+216964	nominative
+216966	nominative
+dative
+216970	nominative
+216976	accusative
 nominative
-216976	nominative
-216982	nominative
-216984	nominative
-216994	vocative
-216999	nominative
+accusative
+216981	dative
+216989	nominative
+216993	nominative
 217002	dative
-217005	nominative
-217013	nominative
-217017	nominative
-217035	nominative
+217010	accusative
+217013	accusative
+accusative
+217024	dative
+217026	nominative
+217028	dative
+217031	accusative
+217040	nominative
 217042	accusative
+217045	accusative
 dative
-217046	accusative
-217049	accusative
-217062	accusative
-217066	genitive
-217074	nominative
+217051	dative
+217055	accusative
+217062	dative
+217066	accusative
+nominative
+accusative
+217073	nominative
+217075	accusative
 217079	accusative
-nominative
-dative
-217089	nominative
-217091	accusative
+217082	accusative
+217084	nominative
+217087	nominative
+217094	accusative
+217102	accusative
+217104	nominative
 217106	accusative
-217115	nominative
-accusative
-217122	genitive
+217110	nominative
 nominative
-217131	genitive
-genitive
-217137	genitive
-217147	nominative
-217150	dative
-217154	accusative
+217115	accusative
+217117	genitive
+217121	nominative
+accusative
+217126	accusative
+217129	dative
+217142	dative
+nominative
+217148	nominative
+217150	nominative
+dative
+217153	nominative
 217157	nominative
-217159	nominative
-dative
-217163	nominative
-217169	accusative
+accusative
+217160	nominative
 nominative
+217166	nominative
+217175	accusative
+217199	nominative
+217202	accusative
 accusative
-217174	dative
-217182	nominative
-217186	nominative
-217196	dative
-217206	accusative
-217209	accusative
 accusative
-217220	dative
-217222	nominative
-217224	dative
-217227	accusative
-217236	nominative
-217238	accusative
-217241	accusative
-dative
-217247	dative
-217251	accusative
-217258	dative
-217262	accusative
+217211	accusative
+217220	accusative
 nominative
+vocative
+217231	accusative
+217239	accusative
+dative
 accusative
-217269	nominative
-217271	accusative
-217275	accusative
-217278	accusative
-217280	nominative
-217283	nominative
-217291	accusative
-217300	accusative
-217302	nominative
-217304	accusative
-217308	nominative
+217245	nominative
+217252	dative
+accusative
+217258	nominative
+217261	genitive
+nominative
+217269	dative
+217282	nominative
+217287	nominative
+217292	nominative
+accusative
+217297	accusative
+nominative
+vocative
+nominative
+217302	dative
+217307	nominative
+accusative
 217310	nominative
-217314	accusative
-217316	genitive
-217320	nominative
-accusative
-217325	accusative
-217328	dative
-217341	dative
 nominative
-217347	nominative
-217349	nominative
+217320	accusative
+217328	nominative
+accusative
+217331	nominative
+217338	accusative
+217346	accusative
+217349	accusative
+217363	accusative
+accusative
+217367	dative
+217377	nominative
+217396	nominative
+217404	nominative
+217415	accusative
+217422	nominative
+217426	genitive
+217428	genitive
+nominative
+217431	dative
+217433	nominative
+217438	vocative
+217445	accusative
+accusative
+217461	nominative
+217474	nominative
+217476	accusative
+accusative
+217483	genitive
+217493	genitive
+217497	genitive
+217510	nominative
+217516	dative
+accusative
+217519	nominative
+217522	nominative
+217527	accusative
+217536	accusative
+217543	dative
+217554	genitive
 dative
-217352	nominative
-217356	nominative
-217358	accusative
-217360	nominative
-nominative
-217366	nominative
-217375	accusative
-217401	nominative
-217404	accusative
-accusative
-accusative
-217413	accusative
-217422	accusative
-nominative
-vocative
-217433	accusative
-217441	accusative
-dative
-accusative
-217447	nominative
-217454	dative
-accusative
-217460	nominative
-217463	genitive
-nominative
-217471	dative
-217484	nominative
-217489	nominative
-217494	nominative
-accusative
-217499	accusative
-nominative
-vocative
-nominative
-217504	dative
-217509	nominative
-accusative
-217512	nominative
-nominative
-217522	accusative
-217530	nominative
-accusative
-217533	nominative
-217540	accusative
-217548	accusative
-217551	accusative
+217559	nominative
 217566	accusative
-accusative
-217570	dative
-217580	nominative
-217600	nominative
-217608	nominative
-217619	accusative
-217627	nominative
-217631	genitive
-217633	genitive
+217570	genitive
+genitive
+217580	accusative
+217583	nominative
+217588	nominative
+217593	accusative
 nominative
-217636	dative
-217638	nominative
-217643	vocative
-217650	accusative
-accusative
-217666	nominative
+vocative
+217598	nominative
+217601	nominative
+217605	nominative
+217607	nominative
+217613	nominative
+217619	nominative
+217621	nominative
+217638	accusative
+217640	accusative
+217647	dative
+217650	nominative
+217653	nominative
 217680	nominative
-217682	accusative
-accusative
-217690	genitive
-217701	genitive
-217705	genitive
-217718	nominative
-217724	dative
-accusative
-217727	nominative
-217730	nominative
-217735	accusative
-217744	accusative
-217751	dative
-217762	genitive
+217685	accusative
+217693	dative
+217703	nominative
+217706	dative
+217709	dative
+217717	nominative
 dative
-217767	nominative
-217775	accusative
-217780	genitive
+217736	nominative
+217751	accusative
+217753	accusative
+217781	nominative
+217785	accusative
+217789	dative
+217791	dative
+217802	nominative
+217814	nominative
+217818	genitive
+217823	nominative
+217836	genitive
 genitive
-217791	accusative
-217794	nominative
-217800	nominative
-217805	accusative
+217842	genitive
+217855	accusative
+217861	genitive
+217863	genitive
+217876	accusative
+dative
+217887	nominative
+217899	accusative
+accusative
+217909	dative
+217916	nominative
+217930	dative
+217944	nominative
+217948	nominative
+217953	accusative
+217962	nominative
+217969	accusative
+217984	nominative
+217989	accusative
+genitive
+217999	genitive
+218006	nominative
 nominative
-vocative
-217810	nominative
-217813	nominative
-217817	nominative
-217819	nominative
-217826	nominative
-217832	nominative
-217834	nominative
-217852	accusative
-217854	accusative
-217861	dative
-217865	nominative
-217868	nominative
-217895	nominative
-217900	accusative
-217908	dative
-217918	nominative
-217921	dative
-217925	dative
-217933	nominative
-dative
-217952	nominative
-217968	accusative
-217970	accusative
-217999	nominative
-218003	accusative
-218007	dative
-218009	dative
-218020	nominative
-218032	nominative
-218036	genitive
-218043	nominative
-218056	genitive
-genitive
-218062	genitive
-218075	accusative
-218081	genitive
-218083	genitive
-218096	accusative
-dative
-218108	nominative
-218120	accusative
+218016	accusative
+218022	nominative
+218026	accusative
 accusative
-218130	dative
-218137	nominative
+accusative
+218034	nominative
+218040	dative
+218042	accusative
+218047	dative
+accusative
+218054	accusative
+218056	accusative
+218058	dative
+218064	dative
+218072	nominative
+nominative
+218075	dative
+218079	nominative
+218082	dative
+218086	nominative
+218089	dative
+218091	genitive
+genitive
+218096	dative
+218099	nominative
+218101	dative
+218112	dative
+218123	nominative
+dative
+218128	accusative
+218131	nominative
+218136	dative
 218151	dative
-218165	nominative
-218169	nominative
-218174	accusative
-218183	nominative
-218190	accusative
-218205	nominative
-218210	accusative
-genitive
-218220	genitive
-218227	nominative
+218158	accusative
+218162	dative
+218167	accusative
+218169	genitive
+218176	nominative
+accusative
 nominative
-218238	accusative
-218244	nominative
-218248	accusative
+218182	accusative
+218188	dative
+218198	genitive
+218204	nominative
 accusative
+nominative
+218210	dative
+nominative
+nominative
+218218	nominative
 accusative
-218256	nominative
-218262	dative
-218264	accusative
-218269	dative
+218229	nominative
+218241	nominative
+218246	genitive
 accusative
-218276	accusative
-218278	accusative
-218280	dative
-218287	dative
-218295	nominative
-218297	nominative
-218299	dative
-218303	nominative
-218306	dative
-218311	nominative
-218314	dative
-218316	genitive
+218258	accusative
+218267	nominative
+218271	nominative
+218275	accusative
+nominative
+218286	nominative
+nominative
+218290	dative
+218296	genitive
+218298	nominative
 genitive
-218321	dative
+nominative
+218302	nominative
+218316	nominative
+218319	nominative
+nominative
+218322	nominative
 218324	nominative
-218326	dative
-218338	dative
-218350	nominative
-dative
-218355	accusative
-218359	nominative
-218364	dative
-218379	dative
-218386	accusative
-218390	dative
-218395	accusative
-218397	genitive
-218404	nominative
-accusative
+218326	nominative
 nominative
-218410	accusative
-218416	dative
-218426	genitive
-218432	nominative
-accusative
 nominative
-218438	dative
+218335	nominative
 nominative
-218441	nominative
-218447	nominative
+218339	nominative
+218344	nominative
+218346	dative
+218349	dative
+218352	accusative
+218368	nominative
+218370	vocative
+vocative
+218375	accusative
+218379	nominative
+218389	nominative
+218391	nominative
+218395	nominative
+218398	dative
+vocative
+218401	nominative
+218409	nominative
+218413	dative
+vocative
+218418	nominative
+218421	accusative
+218427	dative
+218430	accusative
+218434	genitive
+218436	nominative
+218439	genitive
+218442	dative
+218445	nominative
 accusative
-218458	nominative
-218471	nominative
-218476	genitive
-accusative
-218488	accusative
-218498	nominative
-218502	nominative
-218506	accusative
+218452	nominative
+218458	accusative
+218461	dative
+218465	accusative
+218476	accusative
+218478	nominative
+218481	vocative
+218483	nominative
+218486	nominative
+218489	dative
 nominative
+218493	nominative
+218503	dative
+218506	nominative
+218511	dative
 218517	nominative
+218523	nominative
+218526	nominative
+vocative
+218543	dative
 nominative
-218521	dative
-218527	genitive
-218529	nominative
-genitive
-nominative
-218533	nominative
-218547	nominative
-218550	nominative
-nominative
-218553	nominative
-218555	nominative
-218557	nominative
-nominative
-nominative
-218566	nominative
-nominative
-218570	nominative
-218576	nominative
+218546	nominative
+accusative
+218549	nominative
+218551	accusative
+218560	nominative
+218565	nominative
+218568	nominative
+218572	accusative
+accusative
 218578	dative
-218581	dative
-218584	accusative
-218600	nominative
-218604	vocative
-vocative
-218609	accusative
-218613	nominative
-218623	nominative
-218625	nominative
-218629	nominative
-218632	dative
-vocative
-218635	nominative
-218643	nominative
-218648	dative
-vocative
-218654	nominative
-218657	accusative
-218663	dative
-218667	accusative
-218671	genitive
-218673	nominative
-218676	genitive
-218679	dative
-218682	nominative
 accusative
-218689	nominative
-218695	accusative
-218698	dative
-218702	accusative
-218714	accusative
-218716	nominative
-218719	vocative
-218721	nominative
-218724	nominative
-218727	dative
+218581	nominative
+218588	genitive
+genitive
+218591	nominative
+218595	nominative
 nominative
-218731	nominative
-218741	dative
-218744	nominative
-218749	dative
-218755	nominative
-218761	nominative
-218764	nominative
-vocative
-218782	dative
+218600	accusative
+218605	accusative
 nominative
-218785	nominative
+218609	dative
+vocative
+dative
+218616	nominative
+218620	accusative
+218622	vocative
+218639	nominative
+218646	nominative
+218649	accusative
+218652	nominative
+218656	accusative
+218669	genitive
+genitive
+218679	nominative
+218688	nominative
+218690	accusative
+218703	genitive
+218705	accusative
+218710	genitive
+218715	nominative
+218717	accusative
+218719	accusative
+218723	nominative
+dative
+218729	nominative
+218732	nominative
+218735	accusative
+vocative
+218739	nominative
+nominative
 accusative
-218788	nominative
-218790	accusative
-218799	nominative
-218804	nominative
-218807	nominative
-218811	accusative
+218749	vocative
+218753	genitive
+218758	nominative
+218769	vocative
+218772	accusative
+218777	genitive
+genitive
+218780	nominative
+218782	nominative
+218793	dative
 accusative
-218817	dative
-218819	accusative
+218798	accusative
+218801	nominative
+218808	nominative
+accusative
+218811	dative
+nominative
+218814	nominative
+accusative
+218817	nominative
+218819	nominative
 218821	nominative
-218828	genitive
-genitive
+accusative
+218825	nominative
 218831	nominative
-218835	nominative
-nominative
-218840	accusative
-218845	accusative
-nominative
-218849	dative
-vocative
-dative
-218856	nominative
-218860	accusative
-218862	vocative
+218841	accusative
+218845	nominative
+218847	nominative
+218851	dative
+218854	dative
+218856	dative
 218879	nominative
+nominative
 218886	nominative
-218889	accusative
-218892	nominative
-218896	accusative
-218911	genitive
-genitive
-218921	nominative
-218930	nominative
-218932	accusative
-218945	genitive
-218947	accusative
-218952	genitive
-218957	nominative
-218959	accusative
-218961	accusative
-218965	nominative
+218890	nominative
+218893	nominative
+218895	nominative
+218898	accusative
+218902	nominative
+218909	nominative
+218914	accusative
+218920	genitive
+nominative
+218923	accusative
+218925	accusative
+218929	accusative
+accusative
 dative
-218971	nominative
-218974	nominative
-218977	accusative
-vocative
+218934	accusative
+accusative
+218941	accusative
+nominative
+nominative
+218948	nominative
+218950	nominative
+dative
+218953	nominative
+218963	accusative
+218965	accusative
+218969	nominative
+218972	nominative
+218976	nominative
 218981	nominative
-nominative
-accusative
-218991	vocative
-218996	genitive
-219001	nominative
-219013	vocative
-219016	accusative
-219021	genitive
+218986	nominative
+218988	nominative
+218991	nominative
+218994	nominative
+219001	accusative
+219004	accusative
+219012	nominative
+219022	accusative
+219031	accusative
+219034	accusative
+219037	nominative
+219039	accusative
+219041	dative
+219049	nominative
 genitive
-219024	nominative
-219026	nominative
-219038	dative
-accusative
-219043	accusative
-219046	nominative
-219053	nominative
-accusative
-219056	dative
+219052	nominative
+219054	accusative
+219060	nominative
 nominative
-219059	nominative
+219064	accusative
+219068	nominative
+219081	nominative
+219083	nominative
+219085	nominative
+219096	dative
+219100	accusative
+219104	nominative
+219106	nominative
 accusative
-219062	nominative
-219064	nominative
-219066	nominative
-accusative
-219070	nominative
-219077	nominative
-219087	accusative
-219091	nominative
-219094	nominative
-219098	dative
-219101	dative
-219104	dative
-219128	nominative
+219113	genitive
+219118	nominative
+219121	accusative
+219128	dative
 nominative
-219135	nominative
-219139	nominative
-219142	nominative
+219131	accusative
+219136	nominative
+219139	accusative
+219142	dative
 219144	nominative
-219147	accusative
-219151	nominative
-219158	nominative
-219163	accusative
-219169	genitive
+219150	accusative
+219160	dative
 nominative
-219172	accusative
-219174	accusative
-219178	accusative
+219164	nominative
+219167	nominative
+219170	accusative
+nominative
+219173	accusative
+219179	nominative
+219184	nominative
+219186	accusative
+219188	nominative
+219192	nominative
 accusative
-dative
-219183	accusative
-accusative
-219190	accusative
-nominative
-nominative
-219197	nominative
-219199	nominative
-dative
-219202	nominative
+219200	nominative
+219210	accusative
 219212	accusative
-219214	accusative
-219218	nominative
-219221	nominative
-219225	nominative
-219230	nominative
-219235	nominative
-219237	nominative
-219240	nominative
+219222	accusative
+nominative
+219227	accusative
+219230	dative
+219237	dative
 219243	nominative
-219250	accusative
-219253	accusative
-219262	nominative
-219272	accusative
-219281	accusative
-219284	accusative
-219287	nominative
-219289	accusative
-219291	dative
+219246	accusative
+nominative
+219250	nominative
+219268	nominative
+219273	nominative
+219277	nominative
+219290	accusative
+219295	accusative
 219299	nominative
-genitive
-219302	nominative
-219304	accusative
-219310	nominative
-nominative
 219314	accusative
-219319	nominative
-219332	nominative
-219334	nominative
-219336	nominative
-219347	dative
-219351	accusative
-219355	nominative
-219357	nominative
 accusative
-219364	genitive
+219321	accusative
+219324	accusative
+219330	vocative
+219332	dative
+219336	accusative
+219338	nominative
+219343	accusative
+219347	nominative
+219352	nominative
+accusative
+219356	accusative
+219358	nominative
+219367	dative
 219370	nominative
-219373	accusative
-219380	dative
+219372	accusative
 nominative
-219383	accusative
-219388	nominative
-219391	accusative
-219394	dative
-219396	nominative
-219402	accusative
-219412	dative
+dative
+219376	nominative
+219378	nominative
+219384	accusative
+219392	nominative
+219397	genitive
+219399	accusative
 nominative
-219416	nominative
-219419	nominative
-219423	accusative
-nominative
-219426	accusative
-219434	nominative
-219439	nominative
-219441	accusative
-219443	nominative
-219447	nominative
+219406	nominative
+219409	nominative
+dative
+219415	nominative
+219424	nominative
+219429	genitive
+219432	nominative
+219438	vocative
+219440	genitive
+219448	dative
+dative
+219463	nominative
+219471	genitive
+219477	accusative
+219479	nominative
+219483	vocative
+219489	accusative
+219491	nominative
+219493	nominative
+219496	accusative
+219499	nominative
+219503	nominative
+219509	nominative
+219513	nominative
 accusative
-219455	nominative
-219466	accusative
-219468	accusative
-219478	accusative
 nominative
-219483	accusative
-219486	dative
-219493	dative
-219500	nominative
-219503	accusative
-nominative
-219507	nominative
 219527	nominative
-219533	nominative
-219538	nominative
-219552	accusative
-219557	accusative
+dative
+219531	nominative
+accusative
+219538	dative
+nominative
+219541	nominative
+219544	nominative
+219556	nominative
 219561	nominative
-219577	accusative
-accusative
-219585	accusative
-219588	accusative
-219594	vocative
-219596	dative
-219600	accusative
-219602	nominative
-219607	accusative
-219611	nominative
-219616	nominative
-219618	accusative
-219622	accusative
-219624	nominative
-219633	dative
-219636	nominative
-219638	accusative
 nominative
+219570	nominative
+219572	accusative
 dative
-219642	nominative
-219645	nominative
-219651	accusative
-219659	nominative
-219664	genitive
-219666	accusative
-219668	nominative
-219674	nominative
-219677	nominative
-dative
+219576	accusative
+219582	nominative
+219588	nominative
+219590	nominative
+219593	nominative
+219597	dative
+219606	nominative
+219625	nominative
+accusative
+219628	accusative
+219632	accusative
+219635	nominative
+219647	accusative
+219653	dative
+219656	dative
+genitive
+219659	genitive
+genitive
+219662	genitive
+219668	accusative
+219670	accusative
+219681	dative
 219683	nominative
-219693	nominative
-219698	genitive
-219701	nominative
-219707	vocative
-219709	genitive
-219717	dative
-219719	dative
-219734	nominative
-219742	genitive
-219748	accusative
-219750	nominative
-219754	vocative
-219760	accusative
-219762	nominative
-219764	nominative
-219767	accusative
-219770	nominative
-219774	nominative
-219780	nominative
-219784	nominative
+219686	nominative
+219707	nominative
+219733	accusative
+219743	dative
+219746	nominative
+219751	nominative
+219754	accusative
+219758	nominative
+accusative
+219770	accusative
+219773	dative
+nominative
+nominative
+219777	nominative
+219783	genitive
+219788	accusative
+219793	nominative
+219795	dative
+219802	accusative
+219806	nominative
+219809	accusative
+219812	nominative
+219815	nominative
+nominative
+219819	dative
+nominative
+219824	nominative
+nominative
+219827	accusative
+219831	accusative
+219838	dative
 accusative
 nominative
-219798	nominative
-dative
-219802	nominative
-accusative
-219811	dative
+219843	dative
+219849	nominative
+219866	accusative
+219876	accusative
 nominative
-219814	nominative
-219817	nominative
-219829	nominative
-219834	nominative
-nominative
-219843	nominative
-219845	accusative
-dative
-219849	accusative
-219856	nominative
-219862	nominative
-219864	nominative
-219868	nominative
-219872	dative
 219881	nominative
-219900	nominative
-219902	accusative
-219904	accusative
-219908	accusative
+219883	nominative
+219894	genitive
+nominative
+219903	accusative
+219905	nominative
+nominative
 219911	nominative
-219923	accusative
-219929	dative
-219932	dative
-219934	genitive
-219936	genitive
-genitive
-219939	genitive
-219945	accusative
-219947	accusative
-219958	dative
-219960	nominative
-219963	nominative
-219984	nominative
-220010	accusative
-220020	dative
-220023	nominative
-220028	nominative
-220031	accusative
-220035	nominative
-accusative
-220048	accusative
-220051	dative
+219915	nominative
+219919	nominative
+219921	accusative
+219938	accusative
+219943	nominative
+219955	dative
+219958	accusative
+219968	nominative
+219976	dative
+219989	nominative
+219995	accusative
 nominative
+220015	accusative
+220017	nominative
+220021	nominative
+220023	dative
+220030	accusative
+220032	nominative
 nominative
-220055	nominative
-220061	genitive
+220045	dative
+220050	dative
+220053	nominative
+220060	accusative
 220066	accusative
-220071	nominative
 220073	dative
-220080	accusative
-220084	nominative
-220088	accusative
-220091	nominative
-220094	nominative
+220075	nominative
+220084	dative
+220089	accusative
+220091	genitive
+genitive
 nominative
-220098	dative
+220099	dative
 nominative
+dative
 220103	nominative
+220106	nominative
 nominative
-220106	accusative
-220110	accusative
-220117	dative
-accusative
-nominative
-220122	dative
-220129	nominative
+220109	accusative
+220113	dative
+220115	nominative
+220119	nominative
+220132	nominative
+220134	nominative
+220136	accusative
+220140	nominative
 220146	accusative
-220156	accusative
+220148	accusative
+220150	accusative
 nominative
-220161	nominative
-220163	nominative
-220174	genitive
-nominative
-220183	accusative
-220185	nominative
-nominative
+220153	dative
+220160	genitive
+genitive
+220165	genitive
+220167	dative
+220171	nominative
+220174	dative
+220178	nominative
+220184	nominative
+220187	accusative
 220191	nominative
-220195	nominative
-220199	nominative
-220201	accusative
-220219	accusative
-220224	nominative
-220236	dative
-220239	accusative
-220249	nominative
-220257	dative
-220271	nominative
-220277	accusative
-nominative
-220299	accusative
-220301	nominative
-220305	nominative
-220307	dative
-220314	accusative
-220316	nominative
-nominative
-220331	dative
-220336	dative
-220339	nominative
-220346	accusative
-220352	accusative
-220359	dative
-220361	nominative
-220370	dative
-220375	accusative
-220377	genitive
-genitive
-nominative
-220385	dative
-nominative
-dative
-220389	nominative
-220392	nominative
-nominative
-220395	accusative
-220399	dative
-220401	nominative
-220405	nominative
-220418	nominative
-220420	nominative
-220422	accusative
-220426	nominative
-220432	accusative
-220434	accusative
-220436	accusative
-nominative
-220439	dative
-220447	genitive
-genitive
-220452	genitive
-220454	dative
-220458	nominative
-220461	dative
-220465	nominative
-220471	nominative
-220475	accusative
-220479	nominative
-220484	accusative
-220502	dative
-220525	nominative
-220527	nominative
-220531	nominative
-220538	nominative
-220544	genitive
-220547	accusative
-220550	accusative
-220554	nominative
-220558	accusative
-220563	accusative
+220196	accusative
+220214	dative
+220237	nominative
+220239	nominative
+220243	nominative
+220250	nominative
+220256	genitive
+220259	accusative
+220262	accusative
+220266	nominative
+220270	accusative
+220275	accusative
 accusative
+220284	nominative
+nominative
+accusative
+220306	nominative
+220309	nominative
+220314	nominative
+220321	nominative
+220324	nominative
+220339	accusative
+220344	nominative
+220346	nominative
+dative
+nominative
+nominative
+220357	nominative
+220362	nominative
+220373	nominative
+220388	accusative
+220396	accusative
+220399	nominative
+220402	accusative
+220405	accusative
+220408	dative
+220412	nominative
+220427	nominative
+220446	nominative
+220451	nominative
+nominative
+220454	accusative
+220457	nominative
+220461	nominative
+genitive
+220483	accusative
+nominative
+220489	nominative
+220494	nominative
+220497	nominative
+220511	accusative
+nominative
+nominative
+220523	nominative
+220529	accusative
+nominative
+220532	nominative
+nominative
+220541	nominative
+220547	dative
+nominative
+220551	accusative
+220553	dative
+accusative
+accusative
+220559	nominative
+220561	genitive
 220572	nominative
-nominative
+220578	accusative
+220581	dative
 accusative
-220594	nominative
+220586	nominative
+220595	dative
 220597	nominative
-220602	nominative
-220610	nominative
+nominative
+220604	accusative
+nominative
+220609	nominative
+genitive
 220613	nominative
-220628	accusative
-220634	nominative
-220636	nominative
-dative
 nominative
-220640	nominative
+220621	nominative
+220632	accusative
+220641	nominative
+220645	nominative
 220648	nominative
-220653	nominative
-220665	nominative
-220680	accusative
-220688	accusative
+220652	nominative
+220656	nominative
+genitive
+220659	nominative
+220662	accusative
+220669	nominative
+220671	nominative
+220674	nominative
+nominative
+220679	accusative
+220686	nominative
+220689	accusative
 220691	nominative
-220694	accusative
-220698	accusative
-220701	dative
-220705	nominative
-220720	nominative
-220739	nominative
-220744	nominative
-nominative
-220747	accusative
-220750	nominative
-220754	nominative
+accusative
+220695	nominative
+dative
+220704	nominative
+220706	nominative
+220709	nominative
+220714	nominative
+220730	nominative
+220732	dative
+220742	genitive
 genitive
-220777	accusative
+220748	nominative
+220752	nominative
+accusative
+accusative
+220756	dative
+accusative
+220759	nominative
+220762	dative
 nominative
-220783	nominative
-220788	nominative
-220791	nominative
-220806	accusative
-nominative
-nominative
+220765	nominative
+vocative
+220770	dative
+220787	nominative
+220799	genitive
+220802	genitive
+dative
+220805	nominative
+accusative
+220813	dative
+220816	nominative
 220818	nominative
-220824	accusative
-220826	nominative
-220828	nominative
-nominative
-220837	nominative
-220843	dative
-220846	nominative
-220849	accusative
+220820	accusative
+220823	nominative
+dative
+220827	nominative
+220832	nominative
+220834	nominative
+220836	nominative
+220845	accusative
+220848	dative
 220851	dative
+220863	nominative
+220867	dative
 accusative
-accusative
-220857	nominative
-220859	genitive
 220870	nominative
-220876	accusative
-220879	dative
+220884	dative
+nominative
+220891	dative
+220898	nominative
+220900	accusative
+220908	nominative
+220912	dative
+nominative
+220915	accusative
+220918	nominative
+220921	dative
+220923	accusative
 accusative
-220884	nominative
-220893	dative
-220895	nominative
-220897	nominative
-220903	accusative
+220926	accusative
+220930	accusative
+220932	dative
 nominative
-220909	nominative
-genitive
-220913	nominative
+vocative
 nominative
-220921	nominative
-220933	accusative
+220940	nominative
 220945	nominative
-220949	nominative
-220952	nominative
-220957	nominative
-220961	nominative
+220948	dative
+220951	dative
+220954	accusative
+220962	dative
+220964	dative
+220968	accusative
+220983	nominative
+221005	genitive
 genitive
-220964	nominative
-220967	accusative
-220975	nominative
-220977	nominative
-220980	nominative
-nominative
-220985	accusative
-220992	nominative
-220995	accusative
-220997	nominative
+221012	accusative
+221017	dative
+221019	nominative
+221022	vocative
+221031	nominative
+221033	dative
+221046	nominative
+221052	dative
+221056	genitive
+221059	accusative
+221063	dative
+221070	nominative
+221080	accusative
 accusative
-221001	nominative
-dative
-221011	nominative
-221013	nominative
-221016	nominative
-221021	nominative
-221037	nominative
-221039	dative
-221050	genitive
-genitive
-221056	nominative
-221060	nominative
+221092	nominative
+221099	dative
+221101	accusative
+221109	nominative
+221164	accusative
+221170	accusative
+221173	nominative
 accusative
-accusative
-221064	dative
-accusative
-221067	nominative
-221070	dative
-221072	nominative
-221074	nominative
-vocative
-221079	dative
-221096	nominative
-221108	genitive
-221111	genitive
-dative
-221114	nominative
-accusative
-221122	dative
-221126	nominative
-221128	nominative
-221130	accusative
-221133	nominative
-dative
-221137	nominative
-221142	nominative
-221145	nominative
-221147	nominative
-221156	accusative
-221159	dative
-221162	dative
-221174	nominative
-221178	dative
-accusative
-221181	nominative
-221195	dative
-nominative
-221202	dative
-221209	nominative
-221211	accusative
-221220	nominative
+221176	accusative
+221196	dative
+221199	accusative
+221218	accusative
 221224	dative
+221227	dative
+221229	accusative
+221232	nominative
+221235	dative
+221244	accusative
+221255	nominative
+221259	accusative
 nominative
-221227	accusative
-221230	nominative
-221233	dative
-221235	accusative
-accusative
-221238	accusative
-221242	accusative
-221244	dative
-nominative
-vocative
-nominative
-221252	nominative
-221257	nominative
-221260	dative
-221264	dative
-221267	accusative
-221275	dative
-221277	dative
-221281	accusative
+221276	accusative
+221284	accusative
 221296	nominative
-221319	genitive
-genitive
-221326	accusative
-221331	dative
-221334	nominative
-221337	vocative
-221347	nominative
-221349	dative
-221362	nominative
-221368	dative
-221372	genitive
-221375	accusative
-221379	dative
-221386	nominative
-221397	accusative
-accusative
-221409	nominative
-221416	dative
-221419	accusative
+221301	nominative
+221304	accusative
+221310	accusative
+dative
+221313	accusative
+221315	accusative
+221319	accusative
+221322	nominative
+221326	nominative
+221329	nominative
+221339	nominative
+nominative
+dative
+221344	nominative
+221347	genitive
+221350	dative
+vocative
+221356	nominative
+nominative
+221363	accusative
+nominative
+221372	nominative
+221375	dative
+221377	dative
+221380	nominative
+221394	nominative
+221396	nominative
+nominative
+221405	accusative
+221410	nominative
+221412	dative
+221415	nominative
 221427	nominative
-221482	accusative
-221488	accusative
-221492	nominative
-accusative
-221495	accusative
-221515	dative
-221519	accusative
-221538	accusative
-221544	dative
-221547	dative
-221549	accusative
-221552	nominative
-221555	dative
-221564	accusative
-221575	nominative
-221579	accusative
+221430	nominative
+221433	nominative
+221436	nominative
+221442	dative
+221444	accusative
+221468	nominative
+221472	nominative
+221475	dative
+221478	nominative
+221481	nominative
+221484	dative
+221486	nominative
+221492	accusative
+221496	dative
+221498	accusative
+221502	accusative
+221514	dative
+221521	dative
+221525	nominative
+221534	nominative
+221540	nominative
+221553	nominative
+221570	nominative
+221592	nominative
+221597	nominative
+221610	nominative
+221629	nominative
+221633	accusative
 nominative
-221597	accusative
-221606	accusative
-221619	nominative
-221624	nominative
-221628	accusative
-221634	accusative
-dative
-221637	accusative
-221639	accusative
-221644	accusative
-221647	nominative
-221651	nominative
-221654	nominative
-221665	nominative
+221648	nominative
+221684	nominative
 nominative
-dative
-221670	nominative
-221673	genitive
-221676	dative
+221698	nominative
+221701	nominative
+221713	dative
 vocative
-221682	nominative
 nominative
-221690	accusative
+221720	dative
 nominative
-221699	nominative
-221702	dative
-221704	dative
-221708	nominative
-221723	nominative
-221725	nominative
-nominative
-221734	accusative
-221739	nominative
-221741	dative
-221745	nominative
-221757	nominative
-221760	nominative
-221763	nominative
-221766	nominative
-221773	dative
-221775	accusative
-221799	nominative
-221803	nominative
-221806	dative
-221809	nominative
-221812	nominative
-221815	dative
-221817	nominative
-221823	accusative
-221827	dative
-221829	accusative
-221833	accusative
-221846	dative
-221853	dative
-221857	nominative
-221866	nominative
-221873	nominative
-221887	nominative
-221906	nominative
-221928	nominative
+221724	nominative
+221727	nominative
+221731	nominative
+221736	nominative
+221738	accusative
+221742	dative
+221746	dative
+221753	nominative
+221759	nominative
+221761	nominative
+221768	nominative
+221770	nominative
+genitive
+dative
+221784	accusative
+221787	accusative
+221791	nominative
+221795	nominative
+221807	nominative
+221810	accusative
+221813	accusative
+221818	nominative
+221820	nominative
+221826	nominative
+221828	accusative
+221845	accusative
+221850	nominative
+221856	nominative
+221860	accusative
+221875	nominative
+221880	nominative
+221898	accusative
+221909	accusative
+accusative
+221913	accusative
+221915	nominative
+221926	nominative
 221933	nominative
-221946	nominative
-221966	nominative
-221971	accusative
+221941	accusative
+221943	dative
+221946	dative
+221955	accusative
+221959	dative
+221965	nominative
 nominative
-221987	nominative
-222023	nominative
-nominative
-222037	nominative
-222040	nominative
-222052	dative
-vocative
-nominative
-222059	dative
-nominative
-222063	nominative
-222066	nominative
-222070	nominative
-222076	nominative
-222078	accusative
-222082	dative
-222086	dative
-222093	nominative
-222099	nominative
-222101	nominative
-222108	nominative
-222110	nominative
+221972	genitive
 genitive
+221977	nominative
 dative
-222124	accusative
-222127	accusative
-222131	nominative
-222135	nominative
-222147	nominative
-222150	accusative
-222153	accusative
-222158	nominative
-222160	nominative
-222166	nominative
-222168	accusative
-222185	accusative
-222190	nominative
+221980	nominative
+221983	dative
+221991	nominative
+221993	nominative
+dative
+221996	dative
+221998	nominative
+222000	accusative
+222003	dative
+222005	accusative
+222007	dative
+vocative
+222010	accusative
+222015	nominative
+222021	accusative
+nominative
+nominative
+222028	nominative
+222030	dative
+222034	nominative
+222045	nominative
+222048	dative
+222051	nominative
+222057	nominative
+222062	genitive
+nominative
+222065	dative
+222072	accusative
+222074	dative
+222079	genitive
+222085	vocative
+222087	dative
+222099	dative
+222113	accusative
+222115	dative
+222120	accusative
+222129	accusative
+222134	accusative
+accusative
+222138	dative
+222140	vocative
+222143	nominative
+222145	nominative
+222153	nominative
+222163	dative
+222166	dative
+vocative
+222170	nominative
+222180	nominative
+222182	accusative
+222185	nominative
+222187	accusative
 222196	nominative
-222200	accusative
-222216	nominative
-222221	nominative
-222239	accusative
-222250	accusative
+222210	accusative
+222212	accusative
 accusative
-222255	accusative
-222257	nominative
-222268	nominative
-222275	nominative
-222283	accusative
-222285	dative
-222288	dative
-222297	accusative
-222302	dative
-222308	nominative
 nominative
-222315	genitive
-genitive
-222320	nominative
+222217	accusative
+222224	dative
+222230	nominative
+nominative
+222234	nominative
+222236	dative
+accusative
+222239	dative
+222243	nominative
 dative
-222323	nominative
-222326	dative
-222335	nominative
-222337	nominative
-dative
-222340	dative
+222255	nominative
+222259	accusative
+222262	accusative
+222280	nominative
+222282	dative
+222284	accusative
+222286	nominative
+222298	accusative
+222300	nominative
+vocative
+222303	nominative
+222306	dative
+nominative
+accusative
+222311	accusative
+nominative
+222319	nominative
+222321	dative
+222324	dative
+222332	genitive
+accusative
+222338	nominative
 222342	nominative
-222344	accusative
-222347	dative
-222349	accusative
-222351	dative
-vocative
-222354	accusative
-222359	nominative
-222365	accusative
+222349	dative
+222358	nominative
+222362	nominative
+accusative
+222367	accusative
+222372	nominative
+222376	nominative
+222381	nominative
+222383	nominative
+222385	nominative
+222387	nominative
 nominative
 nominative
-222373	nominative
-222375	dative
-222379	nominative
-222390	nominative
-222393	dative
-222396	nominative
-222402	nominative
-222408	genitive
-nominative
-222411	dative
-222419	accusative
+222391	accusative
+222393	accusative
+222395	nominative
+222397	nominative
+222400	nominative
+222418	genitive
 222421	dative
-222426	genitive
-222432	vocative
-222434	dative
-222446	dative
-222461	accusative
-222463	dative
-222470	accusative
-222479	accusative
-222484	accusative
+222423	accusative
+222431	accusative
+222454	nominative
+222460	nominative
+222478	nominative
+222482	accusative
+222491	accusative
+222494	nominative
 accusative
-222488	dative
-222490	vocative
-222493	nominative
-222495	nominative
-222503	nominative
-222514	dative
-222517	dative
-vocative
-222521	nominative
-222531	nominative
-222533	accusative
-222536	nominative
-222538	accusative
-222548	nominative
-222562	accusative
-222564	accusative
-accusative
+222515	accusative
+222523	nominative
 nominative
-222569	accusative
-222576	dative
-222583	nominative
+222526	nominative
+222560	vocative
+222567	dative
+222576	accusative
+222578	dative
+222584	genitive
+genitive
+222588	dative
 nominative
-222588	nominative
-222590	dative
-accusative
-222593	dative
-222597	nominative
-dative
-222610	nominative
-222614	accusative
-222617	accusative
-222638	nominative
-222640	dative
-222642	accusative
-222644	nominative
-222656	accusative
+222599	accusative
+222603	dative
+222608	accusative
+222618	dative
+222636	nominative
+222648	nominative
 222658	nominative
+222660	nominative
+222662	nominative
+222667	genitive
+222669	genitive
+222673	nominative
+222684	nominative
+222689	nominative
+222691	dative
+222694	dative
+222701	nominative
+222706	accusative
+nominative
+222709	accusative
+222711	nominative
+222717	dative
+222719	nominative
+222722	dative
+nominative
 vocative
-222661	nominative
-222664	dative
+accusative
+222733	accusative
+222737	dative
+222740	nominative
+nominative
+222745	dative
+222756	nominative
+222767	nominative
+222774	dative
+222776	nominative
+222781	dative
+222784	nominative
+222787	dative
 nominative
 accusative
-222669	accusative
-nominative
-222677	nominative
-222679	dative
-222682	dative
-222690	genitive
 accusative
-222696	nominative
-222700	nominative
-222707	dative
-222716	nominative
-222720	nominative
-accusative
-222725	accusative
-222730	nominative
-222734	nominative
-222739	nominative
-222741	nominative
-222743	nominative
-222745	nominative
 nominative
+dative
+222801	accusative
 nominative
-222749	accusative
-222751	accusative
-222753	nominative
-222755	nominative
-222758	nominative
-222776	genitive
-222779	dative
-222781	accusative
-222790	accusative
+222806	nominative
+dative
 222813	nominative
-222819	nominative
-222837	nominative
-222841	accusative
-222851	accusative
-222854	nominative
-accusative
-222876	accusative
-222885	nominative
-nominative
-222888	nominative
-222924	vocative
-222931	dative
-222942	accusative
-222944	dative
-222951	genitive
+222816	nominative
+222821	genitive
 genitive
-222955	dative
-nominative
-222966	accusative
-222970	dative
-222975	accusative
-222986	dative
-223004	nominative
-223016	nominative
-223026	nominative
-223028	nominative
-223030	nominative
-223037	genitive
-223039	genitive
-223044	nominative
-223056	nominative
-223061	nominative
-223063	dative
-223066	dative
-223073	nominative
-223078	accusative
-nominative
-223081	accusative
-223083	nominative
-223089	dative
-223091	nominative
-223094	dative
-nominative
-vocative
-accusative
-223105	accusative
-223109	dative
-223112	nominative
-nominative
-223117	dative
-223129	nominative
-223140	nominative
-223147	dative
-223149	nominative
-223154	dative
-223157	nominative
-223160	dative
-nominative
+222827	accusative
+222833	dative
+222835	nominative
+222842	dative
+222850	nominative
+222852	nominative
 accusative
 accusative
+222861	accusative
+222864	nominative
+222867	dative
+222872	nominative
+222878	accusative
+222883	accusative
+222891	accusative
+accusative
 nominative
+222900	dative
+222902	dative
+222908	accusative
+222911	accusative
+222914	accusative
+accusative
+222917	nominative
+222919	accusative
+222932	dative
+accusative
+nominative
+222940	dative
+222942	nominative
+222955	accusative
+222961	accusative
+222968	nominative
+222975	nominative
+222981	accusative
+accusative
+222984	dative
+222988	nominative
+222990	nominative
 dative
-223174	accusative
+accusative
+223007	dative
+223010	nominative
+223023	nominative
+223029	accusative
+223035	accusative
+223039	accusative
+223041	dative
+accusative
+223049	accusative
+223063	nominative
+223067	nominative
+223072	nominative
+223075	accusative
+223084	nominative
+223095	genitive
+accusative
+223098	nominative
+223105	nominative
 nominative
-223179	nominative
+223108	nominative
+223113	nominative
+223116	accusative
+223119	nominative
+223125	nominative
+223132	accusative
+223135	nominative
+223138	nominative
+223142	nominative
+223144	nominative
+nominative
+223153	nominative
+223163	accusative
+223165	dative
+223169	accusative
+223172	accusative
+223178	accusative
+223183	nominative
+accusative
+nominative
+223202	accusative
+223204	accusative
+223206	nominative
 dative
-223186	nominative
-223189	nominative
-223195	genitive
+nominative
+223214	nominative
+223220	nominative
+223222	nominative
+223230	accusative
+223232	accusative
+223238	accusative
+223246	nominative
+223256	accusative
+223258	nominative
+223264	accusative
+223268	nominative
+223270	accusative
+223272	nominative
+223285	nominative
+223287	genitive
+223291	nominative
 genitive
-223201	accusative
-223207	dative
-223209	nominative
-223216	dative
-223224	nominative
-223226	nominative
-accusative
-accusative
-223235	accusative
-223238	nominative
-223241	dative
-223247	nominative
-223254	accusative
-223259	accusative
-223267	accusative
-accusative
-nominative
-223276	dative
-223278	dative
-223285	accusative
-223288	accusative
-223291	accusative
-accusative
 223294	nominative
-223296	accusative
-223309	dative
+223299	dative
+223301	dative
+223304	nominative
+223327	dative
+223332	accusative
+223335	genitive
+223340	nominative
+223356	nominative
+223361	nominative
+223370	accusative
+223373	nominative
+accusative
+223377	nominative
 accusative
 nominative
-223317	dative
-223319	nominative
-223333	accusative
-223339	accusative
-223346	nominative
-223353	nominative
-223359	accusative
-accusative
-223362	dative
-223366	nominative
-223368	nominative
-dative
-accusative
-223385	dative
-223389	nominative
-223402	nominative
-223408	accusative
-223414	accusative
-223418	accusative
-223420	dative
-accusative
-223429	accusative
-223445	nominative
-223449	nominative
-223454	nominative
-223457	accusative
+223382	accusative
+223386	dative
+223392	dative
+223394	nominative
+223398	dative
+223410	nominative
+223412	nominative
+223420	nominative
+nominative
+223444	nominative
+223446	dative
+223452	accusative
+223463	accusative
 223466	nominative
-223477	genitive
+223473	genitive
+223479	accusative
+223481	dative
+223484	nominative
 accusative
-223481	nominative
-223488	nominative
-nominative
-223491	nominative
-223496	nominative
-223500	accusative
-223503	nominative
-223509	nominative
-223516	accusative
-223519	nominative
-223522	nominative
+223487	accusative
+223490	nominative
+223495	nominative
+223501	nominative
+223508	accusative
+223511	accusative
+223518	nominative
 223526	nominative
-223528	nominative
+223534	nominative
+223545	genitive
+223547	nominative
+223556	accusative
+223562	accusative
+223565	nominative
+223568	dative
 nominative
-223537	nominative
-223548	accusative
-223550	dative
-223554	accusative
-223558	accusative
-223564	accusative
-223569	nominative
-accusative
-nominative
-223588	accusative
-223590	accusative
-223592	nominative
-dative
-nominative
-223600	nominative
-223606	nominative
-223608	nominative
-223616	accusative
+223576	accusative
+223590	nominative
+223601	nominative
+223612	nominative
 223618	accusative
-223624	accusative
+223625	genitive
 223632	nominative
-223642	accusative
-223645	nominative
-223651	accusative
-223655	nominative
-223657	accusative
-223659	nominative
-223672	nominative
-223674	genitive
-223678	nominative
-genitive
-223682	nominative
-223689	dative
-223691	dative
-223694	nominative
-223719	dative
-223725	accusative
-223728	genitive
-223733	nominative
-223749	nominative
-223754	nominative
-223764	accusative
-223767	nominative
+223640	nominative
+223646	nominative
+223649	nominative
 accusative
-223771	nominative
-accusative
-nominative
-223776	accusative
-223780	dative
-223787	dative
-223789	nominative
-223793	dative
-223805	nominative
-223807	nominative
-223815	nominative
-nominative
-223841	nominative
-223843	dative
-223849	accusative
-223862	accusative
-223865	nominative
-223872	genitive
-223878	accusative
-223880	dative
-223883	nominative
-223885	accusative
-223887	accusative
-223890	nominative
-223895	nominative
-223901	nominative
-223908	accusative
-223911	accusative
-223918	nominative
-223926	nominative
-223934	nominative
-223945	genitive
-223947	nominative
-223956	accusative
-223962	accusative
-223965	nominative
-223968	dative
-223970	nominative
-223977	accusative
-223993	nominative
-224004	nominative
-224015	nominative
-224021	accusative
-224029	genitive
-224036	nominative
-224044	nominative
-224050	nominative
-224053	nominative
-accusative
-224058	dative
+223654	dative
 vocative
-224064	dative
+223660	dative
+223665	dative
+223667	accusative
+223671	accusative
+223684	accusative
+223688	accusative
+223691	accusative
+223695	dative
+223697	accusative
+223706	accusative
+223714	nominative
+223717	dative
+nominative
+223725	accusative
+223727	nominative
+223730	dative
+223734	nominative
+223740	dative
+accusative
+223755	dative
+223759	dative
+223762	dative
+223764	nominative
+223766	dative
+223775	dative
+223787	nominative
+223791	accusative
+nominative
+223797	vocative
+223800	dative
+223804	dative
+223806	nominative
+223811	nominative
+223816	nominative
+223823	dative
+223827	accusative
+223832	accusative
+223834	dative
+223839	accusative
+223857	genitive
+accusative
+nominative
+223864	genitive
+accusative
+223867	accusative
+223869	dative
+223875	accusative
+223879	nominative
+223887	nominative
+223890	nominative
+223896	accusative
+nominative
+223907	nominative
+223911	nominative
+223916	nominative
+223921	genitive
+nominative
+223936	nominative
+223939	dative
+223943	nominative
+223951	nominative
+accusative
+223954	accusative
+nominative
+223957	accusative
+223966	nominative
+223969	nominative
+223973	nominative
+223979	nominative
+223981	nominative
+223984	nominative
+223988	dative
+nominative
+223992	nominative
+224005	nominative
+224011	nominative
+224014	nominative
+224020	nominative
+224025	nominative
+224028	nominative
+224030	nominative
+224042	accusative
+nominative
+224056	nominative
+224059	nominative
+dative
+224066	dative
 224069	dative
-224072	accusative
-224076	accusative
-224090	accusative
-224095	accusative
-224098	accusative
-224102	dative
-224104	accusative
-224114	accusative
-224122	nominative
-224125	dative
+224083	accusative
+224085	nominative
+224089	nominative
+224094	nominative
+224096	accusative
+224109	nominative
+224113	nominative
+224118	nominative
+224122	accusative
+224125	nominative
 nominative
-224133	accusative
-224135	nominative
-224138	dative
-224143	nominative
-224149	dative
+224132	nominative
 accusative
-224165	dative
-224169	dative
-224172	dative
-224174	nominative
-224176	dative
+nominative
+224137	nominative
+224142	nominative
+224149	nominative
+224155	accusative
+224158	nominative
+224162	nominative
+224167	nominative
+224171	nominative
+224173	genitive
+224175	nominative
 224185	dative
-224197	nominative
-224201	accusative
 nominative
-224207	vocative
+accusative
+224195	accusative
+224201	nominative
+224205	accusative
+224207	accusative
+nominative
 224210	dative
-224214	dative
-224216	nominative
-224221	nominative
-224226	nominative
-224233	dative
-224237	accusative
-224242	accusative
-224244	dative
-224249	accusative
-224268	genitive
+nominative
+224214	nominative
+224220	nominative
+224228	nominative
+224231	nominative
+224233	nominative
+224235	nominative
 accusative
-nominative
-224275	genitive
+224241	dative
+224243	nominative
+224250	dative
+224272	dative
+224274	vocative
+224282	nominative
+224287	nominative
+224293	dative
+224296	nominative
+224303	nominative
+224310	nominative
+224314	accusative
+224332	accusative
+224361	accusative
+224363	nominative
+224365	accusative
+224370	nominative
+224374	accusative
+224377	accusative
+224387	dative
+224401	nominative
+224406	accusative
 accusative
-224278	accusative
-224280	dative
-224286	accusative
-224290	nominative
-224298	nominative
-224301	nominative
-224307	accusative
-nominative
-224318	nominative
-224322	nominative
-224328	nominative
-224334	genitive
-nominative
-224349	nominative
-224352	dative
-224357	nominative
-224365	nominative
-accusative
-224368	accusative
-nominative
-224371	accusative
-224380	nominative
-224383	nominative
-224387	nominative
-224393	nominative
-224395	nominative
-224398	nominative
-224402	dative
-nominative
-224406	nominative
+224411	nominative
+224417	nominative
 224419	nominative
-224425	nominative
-224428	nominative
-224434	nominative
-224439	nominative
-224442	nominative
-224444	nominative
-224457	accusative
-nominative
+224423	nominative
+224434	accusative
+224436	nominative
+dative
+224459	accusative
+224466	nominative
 224471	nominative
 224474	nominative
-dative
-224481	dative
-224484	dative
-224499	accusative
+224478	nominative
+224480	nominative
+224488	nominative
+224490	dative
+224500	genitive
 224502	nominative
-224506	nominative
-224511	nominative
-224513	accusative
-224527	nominative
-224531	nominative
-224536	nominative
-224541	accusative
-224544	nominative
+224510	nominative
+224512	nominative
+accusative
+224516	nominative
+224519	dative
 nominative
+224528	nominative
+224530	genitive
+accusative
+224533	nominative
+224547	nominative
 224551	nominative
+224557	nominative
+224560	genitive
 accusative
 nominative
-224556	nominative
-224561	nominative
-224568	nominative
-224574	accusative
-224577	nominative
-224581	nominative
-224586	nominative
-224590	nominative
-224592	genitive
-224594	nominative
-224604	dative
 nominative
+224566	nominative
+224570	nominative
+224572	dative
+224579	accusative
 accusative
-224614	accusative
-224621	nominative
-224625	accusative
-224628	accusative
-nominative
-224631	dative
-nominative
-224635	nominative
-224642	nominative
-224650	nominative
-224653	nominative
-224655	nominative
-224657	nominative
+224585	accusative
+224587	nominative
 accusative
-224663	dative
-224665	nominative
-224672	dative
-224694	dative
-224696	vocative
-224704	nominative
-224709	nominative
-224715	dative
-224718	nominative
-224725	nominative
-224733	nominative
-224737	accusative
-224755	accusative
-224786	accusative
-224788	nominative
-224790	accusative
-224795	nominative
-224800	accusative
-224803	accusative
-224813	dative
-224827	nominative
-224833	accusative
-accusative
-224838	nominative
-224844	nominative
-224846	nominative
-224850	nominative
-224861	accusative
-224863	nominative
+224592	nominative
+224595	dative
+224600	nominative
+224603	nominative
+224605	dative
+224618	accusative
+224620	accusative
+224622	nominative
+224629	dative
+224633	accusative
+224648	nominative
+224650	accusative
+224655	dative
+224658	accusative
 dative
-224887	accusative
-224894	nominative
+224667	nominative
+224671	accusative
+224679	nominative
+224687	nominative
+224690	nominative
+224692	accusative
+224704	nominative
+nominative
+accusative
+accusative
+nominative
+224711	nominative
+224713	accusative
+224717	nominative
+accusative
+224722	accusative
+224725	nominative
+224737	nominative
+224747	genitive
+nominative
+224753	genitive
+224755	accusative
+224762	accusative
+224765	accusative
+224777	accusative
+accusative
+224781	accusative
+224788	nominative
+nominative
+224798	nominative
+224802	nominative
+224805	accusative
+224816	nominative
+224820	accusative
+224824	accusative
+224831	nominative
+nominative
+224848	nominative
+224850	nominative
+224856	nominative
+224867	genitive
+accusative
+224873	genitive
+224876	nominative
+224881	nominative
+224883	nominative
+224889	nominative
+224893	nominative
+224897	nominative
 224899	nominative
 224902	nominative
-224906	nominative
-224908	nominative
-224916	nominative
-224918	dative
-224929	genitive
-224931	nominative
+224923	nominative
+224926	nominative
+224937	accusative
 224939	nominative
-224941	nominative
-accusative
-224945	nominative
-224948	dative
+224952	dative
 nominative
-224957	nominative
-224959	genitive
-accusative
+224957	accusative
 224963	nominative
-224977	nominative
-224981	nominative
-224987	nominative
-224990	genitive
-accusative
-nominative
-nominative
-224996	nominative
-225000	nominative
-225002	dative
-225009	accusative
-accusative
-225016	accusative
-225018	nominative
-accusative
-225023	nominative
-225026	dative
-225031	nominative
-225034	nominative
-225036	dative
-225049	accusative
-225053	accusative
+224969	dative
+224986	nominative
+224988	nominative
+224993	nominative
+224995	accusative
+224997	nominative
+225007	accusative
+225011	accusative
+225016	dative
+225027	nominative
+225032	nominative
+225036	nominative
+225043	genitive
 225055	nominative
-225063	dative
+225057	accusative
 225067	accusative
-225082	nominative
-225084	accusative
-225089	dative
+225069	nominative
+accusative
+225073	dative
+vocative
+225078	dative
+nominative
+225083	nominative
+dative
+225088	nominative
+225090	accusative
 225092	accusative
-dative
-225101	nominative
-225105	accusative
-225113	nominative
-225121	nominative
-225124	nominative
-225126	accusative
-225138	nominative
+225095	nominative
+accusative
+225100	genitive
+225104	nominative
+225112	nominative
+accusative
+nominative
+225119	nominative
+225126	nominative
+225130	nominative
+225133	nominative
+225137	nominative
 225140	nominative
-accusative
-accusative
-nominative
-225147	nominative
-225149	accusative
+225148	nominative
 225153	nominative
-accusative
-225158	accusative
-225161	nominative
-225173	nominative
-225183	genitive
+225155	nominative
+225159	accusative
 nominative
-225190	genitive
-225192	accusative
-225200	accusative
-225203	accusative
-225215	accusative
+225164	dative
+225171	nominative
 accusative
-225219	accusative
+225174	nominative
+225177	nominative
+vocative
+225181	dative
+225184	nominative
+accusative
+225193	dative
+225196	nominative
+nominative
+225202	nominative
+dative
+225215	dative
+225217	nominative
+225224	nominative
 225226	nominative
+225229	dative
 nominative
-225237	nominative
-225241	nominative
-225244	accusative
+225233	nominative
+225245	nominative
 225255	nominative
-225260	accusative
-225264	accusative
+225259	nominative
+225262	accusative
+225267	nominative
 225271	nominative
-nominative
-225288	nominative
-225291	nominative
+225275	nominative
+225281	nominative
+accusative
+225294	nominative
 225297	nominative
-225308	genitive
+225299	nominative
+225306	nominative
 accusative
-225315	genitive
-225318	nominative
-225323	nominative
-225325	nominative
-225331	nominative
-225335	nominative
-225339	nominative
-225341	nominative
-225344	nominative
-225366	nominative
-225369	nominative
-225380	accusative
-225382	nominative
-225395	dative
+225310	dative
+225316	nominative
+225319	accusative
+225325	accusative
+225336	nominative
+225340	nominative
+225342	accusative
+225351	dative
 nominative
-225400	accusative
-225406	nominative
-225412	dative
-225429	nominative
-225431	nominative
-225436	nominative
-225438	accusative
-225440	nominative
-225450	accusative
-225454	accusative
-225459	dative
-225470	nominative
-225475	nominative
-225479	nominative
-225486	genitive
-225498	nominative
-225500	accusative
-225510	accusative
-225512	nominative
+225356	accusative
+225363	nominative
+225365	nominative
+225373	accusative
+225377	nominative
+225379	nominative
+225385	dative
+nominative
+225390	nominative
+225394	nominative
+225399	nominative
+225407	dative
+225418	nominative
+225426	dative
+nominative
+nominative
+225431	dative
+225434	accusative
+225437	dative
 accusative
-225516	dative
-vocative
-225521	dative
+225444	nominative
+accusative
 nominative
-225526	nominative
+225448	nominative
+accusative
+225452	accusative
+225460	dative
+225473	nominative
+225479	accusative
+225483	accusative
+225485	accusative
+225488	nominative
+accusative
+225494	accusative
+accusative
+225497	nominative
+225502	accusative
+genitive
+genitive
+nominative
+225514	accusative
 dative
-225531	nominative
+225517	nominative
 225533	accusative
-225535	accusative
-225538	nominative
-accusative
-225543	genitive
-225547	nominative
-225556	nominative
-accusative
+225539	dative
+225543	nominative
+225546	nominative
+225549	dative
+225552	dative
+225555	nominative
+225575	accusative
+225578	nominative
+225586	accusative
+225595	accusative
 nominative
-225563	nominative
-225570	nominative
-225574	nominative
-225577	nominative
-225581	nominative
-225584	nominative
-225592	nominative
-225597	nominative
-225599	nominative
 225603	accusative
+225611	dative
+225614	nominative
+225617	dative
+225632	nominative
+225634	dative
+225636	accusative
+225640	accusative
 nominative
-225608	dative
-225615	nominative
-accusative
-225618	nominative
-225621	nominative
-vocative
-225625	dative
-225629	nominative
-accusative
-225638	dative
-225641	nominative
-225643	nominative
-225648	nominative
-dative
+225644	nominative
+225651	dative
+nominative
 225661	dative
-225663	nominative
+225668	accusative
 225670	nominative
-225672	nominative
-225675	dative
-225678	nominative
-225681	nominative
-225693	nominative
-225703	nominative
-225707	nominative
-225710	accusative
-225717	nominative
-225721	nominative
-225725	nominative
-225731	nominative
+225682	nominative
 accusative
-225744	nominative
-225747	nominative
-225749	nominative
+225699	nominative
+225712	nominative
+nominative
+225724	nominative
+225734	nominative
+225739	nominative
+225746	dative
+225750	accusative
+225753	accusative
 225756	nominative
-accusative
-225760	dative
-225766	nominative
-225769	accusative
-225776	accusative
+225759	dative
+nominative
+225768	nominative
+225780	dative
+225783	nominative
+225785	nominative
 225787	nominative
-225791	nominative
-225793	accusative
-225802	dative
+225789	accusative
+225792	nominative
+225795	nominative
+accusative
 225804	nominative
-225808	accusative
-225815	nominative
-225817	nominative
-225826	accusative
-225830	nominative
-225832	nominative
-225838	dative
-225841	nominative
-225845	nominative
-225850	nominative
+225806	accusative
+nominative
+225814	nominative
+225816	nominative
+225818	dative
+225820	nominative
+225824	accusative
+225830	dative
+225835	accusative
+225838	nominative
+225843	nominative
+225846	nominative
+225852	genitive
 225855	nominative
-225864	dative
-225876	nominative
-225884	dative
 nominative
+225861	nominative
+225866	accusative
+accusative
+225870	nominative
+225872	nominative
+225874	accusative
+225877	nominative
+225882	nominative
+accusative
+accusative
 nominative
-225889	dative
 225893	accusative
-225896	dative
-accusative
-225903	nominative
-accusative
 nominative
-225907	nominative
-accusative
-225911	accusative
-225919	dative
-225933	nominative
-225939	accusative
-225944	accusative
+225897	accusative
+225903	accusative
+225910	accusative
+225938	accusative
+225941	dative
+nominative
+225944	dative
 225946	accusative
-225949	nominative
-accusative
-225955	accusative
-accusative
-225958	nominative
-225963	accusative
-genitive
-genitive
-nominative
-225975	accusative
-dative
-225979	nominative
-225995	accusative
-226002	dative
-226006	nominative
-226009	nominative
-226012	dative
-226015	dative
-226018	nominative
-226039	accusative
-226042	nominative
-226051	accusative
-226060	accusative
-nominative
-226068	accusative
-226076	dative
-226079	nominative
-226082	dative
-226099	nominative
-226101	dative
-226103	accusative
-226107	accusative
-nominative
-226111	nominative
-226118	dative
-226120	nominative
-226129	dative
-226137	accusative
-226139	nominative
-226151	nominative
-accusative
-226168	nominative
-226181	nominative
-nominative
-226193	nominative
-226205	nominative
-226210	nominative
-226217	dative
-226221	accusative
-226225	accusative
-226228	nominative
-226231	dative
-nominative
-226240	nominative
-226252	dative
-226255	nominative
-226257	nominative
-226259	nominative
-226261	accusative
-226264	nominative
-226267	nominative
-accusative
-226276	nominative
-226278	accusative
-nominative
-226286	nominative
-226288	nominative
-226290	dative
-226293	nominative
-226297	accusative
-226303	dative
-226308	accusative
-226311	nominative
-226316	nominative
-226320	nominative
-226326	genitive
-226329	nominative
-nominative
-226336	nominative
-226341	accusative
-accusative
-226345	nominative
-226348	nominative
-226350	accusative
-226353	nominative
-226358	nominative
-accusative
-accusative
-nominative
-226369	accusative
-nominative
-226373	accusative
-226380	accusative
-226387	accusative
-226415	accusative
-226418	dative
-nominative
-226421	dative
-226423	accusative
-226425	nominative
-226429	accusative
-226433	nominative
-226441	nominative
-226448	accusative
-226451	nominative
+225948	nominative
+225952	accusative
+225956	nominative
+225964	nominative
+225971	accusative
+225974	nominative
 vocative
 nominative
-226460	nominative
-226463	nominative
-226467	nominative
-226479	accusative
-226484	genitive
+225983	nominative
+225986	nominative
+225990	nominative
+226002	accusative
+226007	genitive
 accusative
-226487	nominative
-226490	nominative
+226010	nominative
+226013	nominative
 nominative
-226501	accusative
+226024	accusative
 nominative
-226507	accusative
-226518	dative
-226527	nominative
+226030	accusative
+226041	dative
+226048	nominative
+226050	nominative
+226058	nominative
+226063	nominative
+accusative
+226067	nominative
+226070	nominative
+226072	nominative
+226074	nominative
+nominative
+226078	nominative
+226080	nominative
+226085	nominative
+dative
+226088	nominative
+226091	nominative
+226095	dative
+226102	nominative
+226105	nominative
+nominative
+accusative
+226115	dative
+226123	nominative
+226126	nominative
+226130	dative
+226133	nominative
+226145	nominative
+226158	accusative
+226163	nominative
+226166	dative
+226168	accusative
+226192	nominative
+226200	nominative
+226207	accusative
+nominative
+226215	nominative
+226219	nominative
+226228	nominative
+226232	genitive
+226237	genitive
+226240	accusative
+nominative
+nominative
+226246	accusative
+nominative
+226250	nominative
+226265	nominative
+226271	nominative
+226280	nominative
+226284	nominative
+226287	accusative
+226289	accusative
+226291	nominative
+226294	accusative
+226307	nominative
+accusative
+226310	accusative
+nominative
+226318	accusative
+226320	accusative
+226326	nominative
+226328	nominative
+226331	dative
+226333	accusative
+226335	nominative
+226340	nominative
+226344	nominative
+nominative
+226349	accusative
+226351	nominative
+nominative
+226357	dative
+accusative
+226360	dative
+226366	dative
+226368	dative
+226373	accusative
+226383	accusative
+226387	nominative
+226390	nominative
+226395	nominative
+226398	dative
+226401	accusative
+226411	dative
+226416	nominative
+226428	genitive
+226434	nominative
+nominative
+226441	genitive
+226449	nominative
+226452	genitive
+226456	nominative
+226461	accusative
+226465	dative
+226468	nominative
+226470	nominative
+226472	nominative
+226474	accusative
+226477	accusative
+226480	nominative
+226483	accusative
+226486	nominative
+accusative
+226489	nominative
+226496	nominative
+226500	nominative
+226502	vocative
+226507	dative
+226511	accusative
+226513	nominative
+226515	nominative
+226517	nominative
+226521	vocative
+226524	dative
 226529	nominative
 226537	nominative
-226542	nominative
-accusative
-226546	nominative
-226549	nominative
-226551	nominative
-226553	nominative
+226540	nominative
 nominative
-226557	nominative
-226559	nominative
-226564	nominative
-dative
-226567	nominative
-226570	nominative
+226547	accusative
+226549	nominative
+226552	dative
+226554	nominative
+226557	dative
+226560	nominative
+226564	accusative
 226574	dative
-226581	nominative
+nominative
+226583	nominative
 226585	nominative
 nominative
-accusative
-226595	dative
-226603	nominative
-226606	nominative
-226610	dative
-226613	nominative
-226625	nominative
-226638	accusative
-226643	nominative
-226646	dative
-226648	accusative
-226673	nominative
+226589	nominative
+226591	nominative
+226597	dative
+226614	accusative
+226623	dative
+226629	dative
+226645	dative
+226647	nominative
+226651	nominative
+226653	accusative
+226655	dative
+226661	dative
+226663	nominative
+226669	nominative
+226672	nominative
+226675	nominative
+226679	genitive
 226681	nominative
-226688	accusative
-nominative
-226696	nominative
-226700	nominative
+226686	nominative
+226696	accusative
 226709	nominative
-226713	genitive
-226718	genitive
-226721	accusative
+226713	accusative
+226716	accusative
+226718	nominative
+226735	nominative
 nominative
-nominative
-226728	accusative
-nominative
-226732	nominative
-226747	nominative
-226753	nominative
-226764	nominative
+genitive
+226741	nominative
+226744	accusative
+226754	accusative
+226759	nominative
+226764	dative
 226768	nominative
-226771	accusative
-226774	accusative
-226776	nominative
-226780	accusative
-226794	nominative
-accusative
-226797	accusative
+226778	accusative
+226782	accusative
+226784	nominative
+226796	nominative
+226802	accusative
+226804	accusative
+226817	accusative
+226821	nominative
+226828	accusative
 nominative
-226806	accusative
-226808	accusative
-226814	nominative
-226816	nominative
-226819	dative
-226821	accusative
-226823	nominative
-226828	nominative
-226832	nominative
-226835	nominative
-226839	accusative
-226841	nominative
-nominative
-226847	dative
-226849	accusative
-226851	dative
-226857	dative
-226861	dative
+226831	accusative
+226834	nominative
+226836	accusative
+226838	accusative
+226841	accusative
+226843	accusative
+226847	accusative
+226854	nominative
 226866	accusative
-226876	accusative
-226880	nominative
-226883	nominative
-226888	nominative
-226891	dative
-226894	accusative
-226904	dative
-226909	nominative
-226921	genitive
-226928	nominative
+226870	accusative
+genitive
+226873	nominative
+226879	genitive
 nominative
-226935	genitive
-226943	nominative
-226946	genitive
-226950	nominative
-226955	accusative
-226959	dative
-226962	nominative
-226964	nominative
-226966	nominative
-226968	accusative
-226971	accusative
+226889	nominative
+226902	accusative
+226906	dative
+226912	nominative
+226916	dative
+dative
+226919	dative
+226923	dative
+226928	accusative
+nominative
+226936	nominative
+226940	nominative
+226956	nominative
+226958	accusative
+226961	dative
+nominative
+226964	dative
 226974	nominative
-226977	accusative
-226980	nominative
 accusative
-226983	nominative
-226990	nominative
-226995	nominative
-226997	vocative
-227002	dative
+226981	accusative
+226983	dative
+genitive
+nominative
+226988	nominative
+226998	nominative
+227002	accusative
 227006	accusative
-227008	nominative
-227010	nominative
-227012	nominative
-227016	vocative
-227019	dative
-227025	nominative
-227033	nominative
-227036	nominative
+227008	dative
+227013	dative
+227019	accusative
+227022	dative
+227030	accusative
+227035	nominative
 nominative
-227043	accusative
-227045	nominative
-227048	dative
-227050	nominative
-227053	dative
-227057	nominative
-227061	accusative
-227072	dative
 nominative
-227081	nominative
-227083	nominative
+227039	accusative
+accusative
+227042	dative
+227049	nominative
+227051	nominative
+227055	accusative
+227057	accusative
+227068	accusative
+227075	nominative
+227093	dative
+227097	dative
+227109	nominative
+227114	accusative
+227131	nominative
+227137	nominative
+227143	nominative
+227149	accusative
+227151	nominative
+227153	nominative
+227156	nominative
+227165	nominative
+227178	nominative
 nominative
-227087	nominative
-227089	nominative
-227095	dative
-227112	accusative
-227123	dative
-227130	dative
-227146	dative
-227148	nominative
-227152	nominative
-227154	accusative
-227156	dative
-227162	dative
-227164	nominative
-227170	nominative
-227173	nominative
-227176	nominative
-227180	genitive
-227182	nominative
-227187	nominative
-227197	accusative
-227210	nominative
-227214	accusative
-227217	accusative
-227219	nominative
-227237	nominative
+227181	dative
+227183	nominative
+227196	nominative
+vocative
+227199	accusative
+227202	nominative
+227240	dative
+227242	dative
+227253	dative
+227255	vocative
+227258	accusative
+227266	nominative
+227271	nominative
+227285	nominative
+227295	accusative
+227300	dative
+227310	accusative
+227314	dative
+vocative
+227325	nominative
+227337	dative
+227339	dative
+227342	nominative
+227359	nominative
 nominative
-genitive
-227243	nominative
-227246	accusative
-227256	accusative
-227261	nominative
-227266	dative
-227270	nominative
-227280	accusative
-227285	accusative
-227287	nominative
-227299	nominative
-227305	accusative
-227307	accusative
-227320	accusative
-227324	nominative
-227331	accusative
-nominative
-227334	accusative
-227337	nominative
-227339	accusative
-227341	accusative
-227344	accusative
-227346	accusative
-227350	accusative
-227357	nominative
-227370	accusative
+227367	nominative
+227371	accusative
 227374	accusative
-genitive
-227377	nominative
-227383	genitive
+227379	nominative
+227396	accusative
+227404	nominative
+227407	dative
 nominative
-227393	nominative
-227406	accusative
-227410	dative
-227417	nominative
-227421	dative
-dative
-227424	dative
-227428	dative
-227434	accusative
+227417	vocative
+227429	accusative
+227433	dative
+227436	dative
+227442	dative
+227453	dative
+227455	nominative
+227461	nominative
+227467	nominative
+227469	nominative
+227476	accusative
+227478	dative
+227480	vocative
 nominative
-227442	nominative
-227446	nominative
-227462	nominative
-227464	accusative
-227468	dative
+227484	nominative
+227494	nominative
+227496	accusative
 nominative
-227471	dative
-227481	nominative
-accusative
-227488	accusative
-227490	dative
-genitive
-nominative
-227495	nominative
 227505	nominative
-227509	accusative
-227513	accusative
-227515	dative
-227520	dative
-227526	accusative
-227529	dative
-227537	accusative
-227542	nominative
+227511	accusative
 nominative
-nominative
-227546	accusative
+227517	accusative
+227534	dative
+227539	nominative
+227544	nominative
 accusative
-227549	dative
-227556	nominative
-227558	nominative
-227562	accusative
-227564	accusative
-227575	accusative
-227582	nominative
-227601	dative
-227608	dative
-227621	nominative
-227626	accusative
-227644	nominative
+nominative
+227554	dative
+nominative
+227569	nominative
+nominative
+accusative
+227576	nominative
+dative
+vocative
+227586	nominative
+227591	accusative
+accusative
+227596	accusative
+dative
+accusative
+227604	accusative
+227609	accusative
+227611	dative
+vocative
+227624	accusative
+227631	nominative
+227640	nominative
+227643	nominative
 227650	nominative
-227656	nominative
-227662	accusative
-227664	nominative
-227666	nominative
-227669	nominative
-227678	nominative
-227691	nominative
-nominative
-227694	dative
-227696	nominative
-227709	nominative
+227652	nominative
+227660	dative
+227664	genitive
 vocative
-227712	accusative
-227715	nominative
-227756	dative
-227758	dative
-227769	dative
-227771	vocative
-227774	accusative
-227782	nominative
-227787	nominative
-227801	nominative
-227811	accusative
-227816	dative
-227827	accusative
+227668	nominative
+227672	dative
+227675	dative
+227693	vocative
+227696	dative
+227699	genitive
+nominative
+227705	genitive
+227711	accusative
+227716	nominative
+accusative
+227720	accusative
+nominative
+227724	vocative
+227728	nominative
+nominative
+227734	dative
+227738	dative
+227741	dative
+227745	accusative
+227748	accusative
+227755	nominative
+227759	nominative
+accusative
+227772	dative
+accusative
+227775	nominative
+227782	accusative
+227785	accusative
+227794	accusative
+227796	nominative
+227816	nominative
+nominative
+227821	dative
+227823	nominative
+227826	accusative
 227831	dative
-vocative
-227842	nominative
-227854	dative
-227856	dative
-227859	nominative
-227876	nominative
+227842	accusative
+227848	nominative
 nominative
-227885	nominative
-227889	accusative
-227892	accusative
-227897	nominative
-227914	accusative
-227923	nominative
-227926	dative
+227855	nominative
+227864	accusative
+227872	accusative
+227882	accusative
+227886	dative
+227900	accusative
+accusative
+227914	nominative
+227922	accusative
+227931	nominative
 nominative
-227936	vocative
-227949	accusative
-227953	dative
-227956	dative
-227962	dative
+227934	dative
+227946	accusative
+227948	nominative
+227955	accusative
+227966	accusative
+227969	nominative
 227973	dative
-227975	nominative
-227981	nominative
-227987	nominative
-227989	nominative
-227996	accusative
-227998	dative
-228001	vocative
-nominative
-228005	nominative
-228015	nominative
-228017	accusative
-nominative
-228026	nominative
-228032	accusative
-nominative
-228038	accusative
-228056	dative
-228061	nominative
-228066	nominative
 accusative
-nominative
-228076	dative
-nominative
-228091	nominative
-nominative
+227984	genitive
+227988	nominative
+228019	nominative
 accusative
-228098	nominative
-dative
-vocative
-228108	nominative
-228113	accusative
+228031	dative
+228034	accusative
+228040	dative
+228043	nominative
+228047	nominative
 accusative
-228118	accusative
-dative
-accusative
-228126	accusative
-228131	accusative
-228133	dative
-vocative
-228146	accusative
-228153	nominative
+228054	accusative
+228062	accusative
+228069	accusative
+228090	accusative
+228096	accusative
+228120	nominative
+228123	nominative
+228126	nominative
+228139	nominative
+228141	nominative
+228148	nominative
+228151	accusative
 228163	nominative
-228166	nominative
-228173	nominative
+228166	accusative
 228175	nominative
-228183	dative
-228187	genitive
-vocative
-228191	nominative
-228195	dative
-228198	dative
-228217	vocative
-228220	dative
-228223	genitive
-nominative
+228179	nominative
+228183	accusative
+228185	dative
+228190	nominative
+228200	accusative
+228205	dative
+228209	accusative
+228220	accusative
 228229	genitive
-228235	accusative
-228240	nominative
-accusative
+228234	nominative
 228244	accusative
 nominative
-228248	vocative
-228252	nominative
+vocative
+228264	dative
 nominative
-228258	dative
-228262	dative
-228265	dative
-228269	accusative
-228272	accusative
-228279	nominative
-228283	nominative
-accusative
-228296	dative
-accusative
+228274	dative
+228281	nominative
+228285	nominative
+nominative
+228293	nominative
+228297	accusative
 228299	nominative
-228306	accusative
-228310	accusative
-228320	accusative
-228322	nominative
-228342	nominative
+228308	accusative
+228310	dative
 nominative
-228347	dative
-228349	nominative
-228352	accusative
-228357	dative
-228368	accusative
-228374	nominative
-nominative
+228313	dative
+228318	nominative
+228326	nominative
+dative
+228330	accusative
+228337	accusative
+228339	vocative
+228341	accusative
+228351	vocative
+228357	nominative
+228369	nominative
+228371	nominative
+228373	accusative
+228375	nominative
+228377	nominative
+dative
 228381	nominative
-228390	accusative
-228398	accusative
+228403	nominative
 228408	accusative
-228412	dative
-228426	accusative
+228411	accusative
+228414	nominative
+228420	dative
+228422	nominative
+228434	nominative
+228441	nominative
+228449	dative
+228462	nominative
 accusative
-228440	nominative
-228448	accusative
-228457	nominative
+228466	nominative
+228482	accusative
+228484	nominative
+228486	nominative
+228491	genitive
+genitive
+228503	accusative
+228505	vocative
 nominative
-228460	dative
-228472	accusative
-228476	nominative
-228483	accusative
-228496	accusative
-228499	nominative
-228503	dative
+228513	dative
+228522	nominative
+228541	accusative
 accusative
-228514	genitive
-228518	nominative
-228549	nominative
+228544	nominative
+228568	nominative
+228580	nominative
+228587	nominative
+228594	accusative
 accusative
-228561	dative
-228564	accusative
-228570	dative
-228573	nominative
-228577	nominative
+228597	nominative
 accusative
-228585	accusative
-228593	accusative
 228600	accusative
-228621	accusative
+accusative
+nominative
+nominative
+228609	nominative
+228618	nominative
+228625	nominative
 228628	accusative
-228653	nominative
-228656	nominative
-228659	nominative
-228672	nominative
-228674	nominative
-228682	nominative
-228685	accusative
-228698	nominative
-228701	accusative
-228711	nominative
-228715	nominative
-228719	accusative
-228721	dative
-228726	nominative
-228736	accusative
-228742	dative
-228747	accusative
-228759	accusative
-228768	genitive
-228773	nominative
-228783	accusative
+228639	nominative
+accusative
+228643	nominative
+228647	accusative
+accusative
+228650	accusative
+228652	nominative
+228654	accusative
+228660	nominative
+228667	nominative
+accusative
 nominative
+dative
+accusative
+228674	accusative
+228677	accusative
+228686	accusative
+228688	nominative
+228692	dative
+228701	nominative
+228714	nominative
+228722	accusative
+228724	genitive
+genitive
+228728	genitive
+228733	accusative
+228736	nominative
+228739	accusative
+228741	dative
+228760	nominative
+accusative
+228763	accusative
+228766	accusative
+228779	dative
+228786	dative
 vocative
-228803	dative
 nominative
-228814	dative
-228821	nominative
-228825	nominative
+228793	nominative
+228796	dative
+accusative
 nominative
-228833	nominative
-228837	accusative
-228839	nominative
+228800	nominative
+228808	dative
+nominative
+228817	nominative
+dative
+228822	accusative
+228825	accusative
+228828	dative
+228830	vocative
+228833	accusative
+228841	dative
+nominative
+228845	nominative
 228848	accusative
-228850	dative
+228855	nominative
 nominative
-228853	dative
 228859	nominative
-228867	nominative
-dative
-228871	accusative
-228878	accusative
-228880	vocative
-228882	accusative
-228892	vocative
-228898	nominative
-228910	nominative
-228912	nominative
-228914	accusative
-228916	nominative
-228918	nominative
-dative
-228922	nominative
-228945	nominative
-228950	accusative
-228953	accusative
-228956	nominative
-228962	dative
-228965	nominative
-228977	nominative
+nominative
+228864	nominative
+228867	accusative
+accusative
+228873	nominative
+nominative
+228890	dative
+228892	accusative
+228894	dative
+nominative
+228897	accusative
+228922	accusative
+228925	dative
+228928	nominative
+228930	dative
+228934	dative
+228938	nominative
+nominative
+228943	nominative
+nominative
+genitive
+accusative
+228948	accusative
+228950	nominative
+228954	accusative
+228959	nominative
+228961	accusative
+228967	nominative
+228976	dative
 228984	nominative
-228992	dative
-229005	nominative
+228987	dative
+228989	nominative
 accusative
-229009	nominative
-229027	accusative
-229029	nominative
-229031	nominative
-229037	genitive
-genitive
-229049	accusative
-229051	vocative
+228992	accusative
+228995	accusative
 nominative
-229059	dative
-229068	nominative
-229088	accusative
+228998	accusative
 accusative
-229091	nominative
-229116	nominative
-229128	nominative
-229135	nominative
-229142	accusative
-accusative
-229145	nominative
-accusative
-229148	accusative
-accusative
-229151	nominative
-nominative
-229158	nominative
-229169	nominative
-229176	nominative
-229179	accusative
-229191	nominative
-accusative
-229195	nominative
-229199	accusative
-accusative
-229203	accusative
-229205	nominative
-229207	accusative
-229213	nominative
-229220	nominative
 accusative
 nominative
-dative
-accusative
-229227	accusative
-229230	accusative
-229239	accusative
-229241	nominative
-229245	dative
-229254	nominative
-229267	nominative
-229275	accusative
-229278	genitive
-genitive
-229283	genitive
-229288	accusative
-229291	nominative
-229294	accusative
-229296	dative
-229315	nominative
-accusative
-229318	accusative
-229321	accusative
-229335	dative
-229342	dative
+nominative
+229011	dative
+229016	accusative
+229020	nominative
+229032	accusative
+229037	dative
+229041	dative
+229043	nominative
+229047	nominative
+nominative
+229055	dative
 vocative
 nominative
-229349	nominative
-229352	dative
+229063	dative
+nominative
+229069	dative
+nominative
+229087	dative
+nominative
 accusative
+229092	accusative
+accusative
+229097	genitive
+229100	dative
 nominative
-229356	nominative
-229364	dative
+229107	nominative
+229110	dative
 nominative
-229373	nominative
+229121	accusative
+229123	nominative
+229126	nominative
+229128	nominative
+229131	nominative
+229136	nominative
+229154	accusative
+229157	nominative
+229159	accusative
+vocative
+229162	accusative
+229166	accusative
+229173	nominative
+229175	nominative
+229184	dative
+229186	accusative
+229189	accusative
+229192	accusative
+229195	nominative
+229200	accusative
+229204	dative
+229206	vocative
+229210	nominative
+229216	dative
+229221	accusative
+229223	dative
+nominative
+vocative
+229229	dative
+229237	nominative
+229243	dative
+229245	nominative
+229248	genitive
+229250	accusative
+229273	dative
+229277	accusative
 dative
-229379	accusative
-229382	accusative
-229385	dative
-229387	vocative
-229390	accusative
-229399	dative
+229285	accusative
+dative
+229291	accusative
+229296	nominative
+229301	nominative
+229306	dative
 nominative
-229403	nominative
-229406	accusative
-229413	nominative
+vocative
+229317	dative
 nominative
-229417	nominative
 nominative
-229422	nominative
+229327	nominative
+229336	accusative
+229343	accusative
+229347	dative
+nominative
+vocative
+229351	dative
+229355	dative
+229357	dative
+229365	accusative
+vocative
+nominative
+accusative
+229372	nominative
+229375	dative
+229381	nominative
+229389	accusative
+nominative
+229392	dative
+229399	nominative
+229404	dative
+229407	nominative
+229421	dative
+nominative
 229425	accusative
+nominative
+229428	nominative
+229434	nominative
+229439	accusative
+229444	accusative
+229452	accusative
+229454	accusative
+229458	nominative
+229462	accusative
+229467	nominative
+229473	dative
+229482	accusative
+229491	accusative
+229494	nominative
+229496	accusative
+229506	accusative
 accusative
-229431	nominative
-nominative
-229449	dative
-229451	accusative
-229453	dative
-nominative
-229456	accusative
-229483	accusative
-229486	dative
-229489	nominative
-229491	dative
-229495	dative
-229499	nominative
-nominative
-229504	nominative
-nominative
-genitive
+229513	accusative
+229516	nominative
+229519	accusative
+229521	nominative
+229529	nominative
+229532	nominative
+229537	nominative
+229539	nominative
+229541	nominative
+229545	nominative
 accusative
-229510	accusative
-229513	nominative
-229517	accusative
-229522	nominative
-229524	accusative
-229530	nominative
-229539	dative
-229547	nominative
-229550	dative
+nominative
+229549	nominative
+accusative
 229552	nominative
 accusative
-229555	accusative
-229558	accusative
-nominative
-229561	accusative
+229558	nominative
+229560	accusative
+229563	dative
+accusative
+229566	dative
+229571	vocative
+229573	nominative
+229577	dative
+229580	accusative
+229585	nominative
+229588	dative
+229592	nominative
+229594	accusative
+229602	accusative
+229608	accusative
+229612	nominative
+accusative
+229620	accusative
+229624	nominative
+229628	genitive
 accusative
 accusative
-nominative
-nominative
-229574	dative
-229579	accusative
-229583	nominative
-229595	accusative
-229600	dative
-229604	dative
-229606	nominative
-229610	nominative
-nominative
-229618	dative
-vocative
-nominative
-229627	dative
-nominative
-229633	dative
-nominative
-229651	dative
+229632	dative
+229634	nominative
+229641	accusative
+229647	nominative
+accusative
+229650	accusative
+229653	accusative
+229655	accusative
+229657	dative
 nominative
 accusative
-229656	accusative
-accusative
-229661	genitive
-229664	dative
-nominative
-229671	nominative
-229674	dative
-nominative
-229685	accusative
-229687	nominative
-229690	nominative
-229692	nominative
-229695	nominative
-229701	nominative
-229719	accusative
-229722	nominative
-229724	accusative
-vocative
-229727	accusative
-229731	accusative
-229739	nominative
-229741	nominative
-229751	dative
-229753	accusative
-229756	accusative
-229759	accusative
-229763	nominative
-229768	accusative
-229772	dative
-229774	vocative
-229778	nominative
-229784	dative
-229789	accusative
-229791	dative
-nominative
-vocative
-229797	dative
-229805	nominative
-229811	dative
-229813	nominative
-229816	genitive
-229818	accusative
-229843	dative
-229847	accusative
-dative
-229855	accusative
-dative
-229861	accusative
-229866	nominative
-229871	nominative
-229876	dative
-nominative
-vocative
-229887	dative
-nominative
-nominative
-229897	nominative
-229906	accusative
-229913	accusative
-229917	dative
-nominative
-vocative
-229921	dative
-229925	dative
-229927	dative
-229935	accusative
-vocative
-nominative
-accusative
-229942	nominative
-229945	dative
-229951	nominative
-229960	accusative
-nominative
-229963	dative
-229970	nominative
-229975	dative
-229978	nominative
-229993	dative
-229995	nominative
-229999	accusative
-nominative
-230002	nominative
-230008	nominative
-230014	accusative
-230019	accusative
-230028	accusative
-230030	accusative
-230034	nominative
-230039	accusative
-230044	nominative
-230051	dative
-230061	accusative
-230070	accusative
-230073	nominative
-230075	accusative
-230086	accusative
-accusative
-230093	accusative
-230096	nominative
-230099	accusative
-230102	nominative
-230110	nominative
-230113	nominative
-230118	nominative
-230120	nominative
-230122	nominative
-230126	nominative
-accusative
-nominative
-230130	nominative
-accusative
-230134	nominative
-accusative
-230140	nominative
-230142	accusative
-230145	dative
-accusative
-230148	dative
-230153	vocative
-230155	nominative
-230159	dative
-230162	accusative
-230167	nominative
-230170	dative
-230175	nominative
-230177	accusative
-230185	accusative
-230191	accusative
-230195	nominative
-accusative
-230204	accusative
-230208	nominative
-230212	genitive
-accusative
-accusative
-230216	dative
-230218	nominative
-230226	accusative
-230232	nominative
-accusative
-230235	accusative
-230238	accusative
-230240	accusative
-230242	dative
-nominative
-230245	accusative
-230247	dative
-230251	dative
-230255	nominative
-230257	dative
-230266	nominative
-230268	dative
-230276	accusative
-230284	nominative
+229661	dative
+229665	dative
+229669	nominative
+229671	dative
+229680	nominative
+229682	dative
+229690	accusative
+229698	nominative
 genitive
-230290	dative
-230298	accusative
-230310	accusative
-230322	dative
-230331	nominative
-230346	accusative
+229704	dative
+229711	accusative
+229723	accusative
+229734	dative
+229742	nominative
+229757	accusative
 accusative
-230349	accusative
-230353	accusative
+229760	accusative
+229763	accusative
 accusative
+229766	accusative
+229771	nominative
+nominative
+229776	accusative
+229778	dative
+229781	nominative
+229787	accusative
+229797	nominative
+229802	nominative
+229805	nominative
+229807	nominative
+229809	nominative
+229811	nominative
+229819	accusative
+229822	nominative
+229833	accusative
+229849	accusative
+229854	dative
+229866	accusative
+229868	nominative
+accusative
+229886	nominative
+229897	accusative
+229899	dative
+229911	nominative
+229917	accusative
+229920	accusative
+229923	nominative
+229926	nominative
+229933	nominative
+229938	accusative
+nominative
+229941	dative
+229944	accusative
+accusative
+229950	accusative
+229954	accusative
+229957	accusative
+229960	accusative
+229966	dative
+229968	nominative
+accusative
+229973	nominative
+229975	accusative
+229978	accusative
+229981	nominative
+229984	accusative
+229991	accusative
+229998	dative
+accusative
+230001	dative
+230003	accusative
+230006	accusative
+230010	accusative
+230028	nominative
+230030	accusative
+230035	accusative
+230039	genitive
+nominative
+230042	dative
+230045	nominative
+nominative
+230050	accusative
+230071	accusative
+accusative
+230079	dative
+accusative
+230085	accusative
+230091	accusative
+nominative
+230102	accusative
+230105	accusative
+230126	nominative
+230128	accusative
+230134	accusative
+nominative
+230137	dative
+230143	nominative
+230147	nominative
+230157	accusative
+230159	dative
+230163	accusative
+230165	accusative
+230168	nominative
+230171	nominative
+accusative
+230174	accusative
+230178	accusative
+230186	accusative
+230188	accusative
+230190	dative
+230197	genitive
+230199	nominative
+230201	dative
+accusative
+230204	dative
+230215	accusative
+accusative
+230221	accusative
+230226	accusative
+230228	dative
+230234	nominative
+230237	dative
+230239	dative
+230241	nominative
+230256	accusative
+230259	nominative
+nominative
+230285	accusative
+230295	accusative
+230297	dative
+230312	accusative
+230322	accusative
+230326	accusative
+230328	dative
+nominative
+accusative
+230339	dative
+230341	accusative
+230344	nominative
+230354	dative
 230356	accusative
-230361	nominative
-nominative
+230360	accusative
+230364	accusative
 230367	accusative
-230369	dative
-230373	nominative
-230379	accusative
-230389	nominative
-230395	nominative
-230398	nominative
-230400	nominative
-230402	nominative
-230404	nominative
-230412	accusative
-230415	nominative
+230374	nominative
+230376	accusative
+230378	dative
+230381	accusative
+230385	accusative
+230389	accusative
+230392	accusative
+230401	nominative
+230403	accusative
+230408	accusative
+230411	nominative
+230414	accusative
+230418	dative
 230426	accusative
-230442	accusative
-230447	dative
-230460	accusative
-230462	nominative
+230430	accusative
+230434	accusative
+230437	accusative
+230439	dative
+230445	nominative
+230449	nominative
+230459	accusative
+230476	nominative
+230483	accusative
+230490	accusative
+230498	nominative
+230505	accusative
+230508	accusative
+230510	dative
 accusative
-230482	nominative
-230493	accusative
-230495	dative
-230507	nominative
-230513	accusative
-230516	accusative
-230519	nominative
-230522	nominative
-230530	nominative
-230535	accusative
-nominative
-230538	dative
-230541	accusative
+230515	dative
+230522	accusative
+230533	accusative
+230536	dative
+230538	nominative
+230542	dative
+230544	dative
+230548	dative
+230559	dative
+230561	nominative
+230569	accusative
+230572	nominative
 accusative
-230547	accusative
-230551	accusative
-230554	accusative
-230557	accusative
-230563	dative
-230565	nominative
+230578	nominative
+230604	accusative
 accusative
-230570	nominative
-230572	accusative
-230576	accusative
-230580	nominative
-230583	accusative
-230591	accusative
-230598	dative
-accusative
-230601	dative
-230603	accusative
-230607	accusative
 230611	accusative
-230630	nominative
-230632	accusative
-230637	accusative
-230642	genitive
+230614	accusative
+230617	nominative
+accusative
+230626	dative
 nominative
-230645	dative
-230648	nominative
+230632	nominative
+230637	nominative
+230640	accusative
+accusative
+230646	nominative
+230651	accusative
+230653	dative
+230656	accusative
+230660	accusative
+230664	nominative
+230667	accusative
+230669	nominative
+230671	nominative
+230677	vocative
+230686	accusative
+230689	dative
+accusative
+230694	accusative
+230696	dative
+230698	dative
+230700	nominative
+230713	accusative
+230716	nominative
+accusative
+230722	nominative
+accusative
+230725	dative
+230730	accusative
 nominative
-230653	accusative
-230675	accusative
+vocative
+230735	dative
+230745	accusative
+230747	dative
+230750	nominative
+230752	dative
 accusative
-230684	dative
+230763	accusative
+230765	dative
+230770	accusative
+230772	dative
+230774	dative
+230777	nominative
+230788	nominative
 accusative
-230690	accusative
-230696	accusative
-nominative
-230707	accusative
-230710	accusative
-230731	nominative
-230733	accusative
-230741	accusative
-nominative
-230744	dative
-230751	nominative
-230755	nominative
-230765	accusative
-230767	dative
-230771	accusative
-230773	accusative
-230776	nominative
-230779	nominative
-accusative
-230782	accusative
-230787	accusative
-230795	accusative
-230797	accusative
-230799	dative
-230807	genitive
-230809	nominative
-230811	dative
-accusative
-230814	dative
-230825	accusative
-accusative
-230831	accusative
-230837	accusative
-230839	dative
+230791	nominative
+230800	genitive
+230802	dative
+230805	nominative
+230810	nominative
+230814	nominative
+230825	nominative
+230829	nominative
+230834	accusative
+230838	dative
+230840	dative
+230843	nominative
 230845	nominative
-230848	dative
-230851	dative
-230853	nominative
-230868	accusative
-230871	nominative
+230849	nominative
+230851	accusative
+230855	dative
+230857	dative
+230877	accusative
+230886	accusative
+230888	nominative
+230890	dative
+230896	accusative
+230903	nominative
+230912	accusative
+230918	accusative
+230926	nominative
+230932	accusative
+230938	nominative
+230941	accusative
+230945	nominative
+230947	accusative
+230952	nominative
+230954	accusative
+230963	accusative
+230967	genitive
+230973	nominative
 nominative
-230899	accusative
-230910	accusative
-230912	dative
-230929	accusative
-230939	accusative
-230943	accusative
-230945	dative
-230947	nominative
+230977	nominative
+nominative
+230980	nominative
+230990	nominative
 accusative
-230957	dative
-230959	accusative
-230962	nominative
-230972	dative
-230974	accusative
-230978	accusative
-230982	accusative
-230985	accusative
-230992	nominative
+230993	nominative
 230995	accusative
 230997	dative
-231000	accusative
-231004	accusative
-231008	accusative
-231011	accusative
-231021	nominative
-231023	accusative
-231028	accusative
-231031	nominative
-231034	accusative
-231038	dative
-231046	accusative
-231050	accusative
-231054	accusative
-231057	accusative
-231059	dative
-231066	nominative
-231070	nominative
-231080	accusative
-231097	nominative
-231104	accusative
-231111	accusative
-231119	nominative
-231126	accusative
-231129	accusative
-231131	dative
-accusative
-231136	dative
-231143	accusative
-231155	accusative
-231158	dative
-231161	nominative
-231165	dative
-231167	dative
-231171	dative
-231182	dative
-231184	nominative
-231193	accusative
-231196	nominative
-accusative
-231202	nominative
-231229	accusative
-accusative
-231236	accusative
-231239	accusative
-231242	nominative
-accusative
-231251	dative
+230999	dative
+231002	nominative
+231004	nominative
 nominative
-231257	nominative
-231263	nominative
-231266	accusative
+231007	nominative
+231010	nominative
+231019	nominative
 accusative
-231272	nominative
-231277	accusative
-231279	dative
-231282	accusative
-231287	accusative
-231291	nominative
-231294	accusative
-231296	nominative
-231298	nominative
-231304	vocative
-231313	accusative
-231316	dative
+231024	accusative
+231026	accusative
+231028	nominative
 accusative
-231321	accusative
-231323	dative
-231325	dative
-231327	nominative
-231340	accusative
-231343	nominative
+231031	dative
+231036	nominative
+nominative
+231045	accusative
+231047	dative
+231050	accusative
+231057	accusative
+231060	nominative
+231062	accusative
+231066	nominative
+231069	nominative
 accusative
-231350	nominative
+231074	dative
+231081	accusative
+231083	accusative
+231086	nominative
+231088	accusative
+nominative
+nominative
+231111	nominative
 accusative
-231353	dative
+231117	nominative
+231124	nominative
+231140	nominative
+231142	nominative
+231144	accusative
+231149	dative
+accusative
+231153	dative
+231157	dative
+nominative
+231164	nominative
+accusative
+231170	dative
+nominative
+231182	accusative
+accusative
+231185	nominative
+231191	nominative
+231193	dative
+231195	nominative
+231199	accusative
+231202	accusative
+231207	accusative
+231209	accusative
+231211	dative
+231218	nominative
+accusative
+231221	accusative
+231236	nominative
+231238	nominative
+231248	accusative
+231250	dative
+231253	accusative
+231267	accusative
+231271	accusative
+231276	nominative
+231283	nominative
+nominative
+231304	nominative
+231349	nominative
 231358	accusative
 nominative
-vocative
-231364	dative
-231375	accusative
-231377	dative
-231381	nominative
-231383	dative
+231361	nominative
+231384	dative
+nominative
+nominative
+dative
+231390	nominative
+231405	accusative
 accusative
-231395	accusative
-231397	dative
-231403	accusative
-231405	dative
-231407	dative
-231410	nominative
-231421	nominative
 accusative
-231424	nominative
-231434	genitive
+231410	accusative
+accusative
+231413	dative
+231415	nominative
+231417	accusative
+231419	nominative
+accusative
+231422	genitive
+genitive
+231426	nominative
+231429	accusative
+231431	nominative
 231436	dative
-231439	nominative
-231444	nominative
-231448	nominative
-231460	nominative
-231464	nominative
-231469	accusative
-231474	dative
-231476	dative
-231479	nominative
-231481	nominative
-231486	nominative
-231488	accusative
-231493	dative
-231495	dative
-231517	accusative
-231526	accusative
-231528	nominative
-231530	dative
-231537	accusative
-231544	nominative
-231553	accusative
-231559	accusative
-231567	nominative
+nominative
+231448	accusative
+accusative
+231453	accusative
+231455	accusative
+231465	dative
+231472	nominative
+231485	nominative
+genitive
+231488	nominative
+231490	nominative
+accusative
+231499	nominative
+231502	nominative
+231515	nominative
+231542	dative
+231546	nominative
+accusative
+231549	dative
+231551	accusative
+231554	dative
+231558	accusative
+nominative
+231565	accusative
+231567	dative
+231569	dative
 231573	accusative
-231579	nominative
-231583	accusative
-231587	nominative
-231589	accusative
-231594	nominative
-231596	accusative
-231607	accusative
-231611	genitive
+231579	accusative
+231581	nominative
+231597	dative
+nominative
+231604	nominative
+231607	nominative
+accusative
+231611	nominative
+231613	dative
 231617	nominative
 nominative
-231621	nominative
+231627	accusative
+dative
+accusative
+231632	nominative
+231667	dative
+231670	nominative
+231672	nominative
+231675	nominative
+231678	nominative
+231680	nominative
+231692	nominative
+231699	dative
+231701	nominative
+231703	nominative
+231705	accusative
 nominative
-231624	nominative
-231634	nominative
-accusative
-231640	nominative
-231643	accusative
-231645	dative
-231647	dative
-231650	nominative
-231652	nominative
+231713	dative
 nominative
-231655	nominative
-231658	nominative
-231667	nominative
 accusative
-231672	accusative
-231674	accusative
-231676	nominative
+231718	accusative
+231721	nominative
+dative
 accusative
-231679	dative
-231684	nominative
+231725	dative
+231731	dative
+231738	nominative
+231740	accusative
+231746	nominative
+231757	nominative
+accusative
+231766	accusative
+231779	dative
+accusative
+231788	dative
+231791	dative
+accusative
+231804	nominative
+231813	dative
+231819	accusative
+231825	nominative
+231829	dative
+231832	accusative
 nominative
-231694	accusative
-231696	dative
-231699	accusative
-231706	accusative
-231709	nominative
-231711	accusative
-231715	nominative
-231718	nominative
-accusative
-231724	dative
-231732	accusative
-231734	accusative
-231737	nominative
-231739	accusative
-nominative
-nominative
-231764	nominative
-accusative
-231770	nominative
-231777	nominative
-231793	nominative
-231795	nominative
-231797	accusative
-231802	dative
-accusative
-231806	dative
-231810	dative
-nominative
-231817	nominative
-accusative
-231824	dative
-nominative
-231836	accusative
-accusative
-231839	nominative
+231836	nominative
+231841	accusative
+231843	dative
 231846	nominative
-231849	dative
-231851	nominative
-231855	accusative
-231858	accusative
-231864	accusative
-231866	accusative
-231868	dative
-231875	nominative
 accusative
-231878	accusative
-231893	nominative
-231895	nominative
-231906	accusative
-231908	dative
-231911	accusative
-231925	accusative
-231930	accusative
-231936	nominative
-231943	nominative
-nominative
-231964	nominative
-232009	nominative
-232018	accusative
-nominative
-232021	nominative
-232044	dative
-nominative
-nominative
+231856	accusative
+231877	nominative
+231880	accusative
+231883	dative
+231886	dative
+231888	dative
+231892	accusative
+231895	accusative
+231897	accusative
+231900	accusative
+231902	nominative
+231910	dative
+231913	nominative
+accusative
 dative
-232050	nominative
-232066	accusative
+231922	accusative
+231926	nominative
+231928	accusative
+231935	accusative
 accusative
-accusative
-232071	accusative
-accusative
-232074	dative
-232076	nominative
-232078	accusative
-232080	nominative
-accusative
-232083	genitive
-genitive
-232087	nominative
-232090	accusative
-232092	nominative
-232097	dative
 nominative
-232111	accusative
+231942	nominative
+231953	accusative
 accusative
-232116	accusative
-232118	accusative
-232128	dative
-232135	nominative
-232148	nominative
-genitive
-232151	nominative
-232153	nominative
-accusative
-232162	nominative
-232165	nominative
-232178	nominative
-232205	dative
-232210	nominative
-accusative
-232213	dative
-232215	accusative
-232218	dative
-232222	accusative
-nominative
-232229	accusative
-232231	dative
-232233	dative
-232237	accusative
-232243	accusative
-232245	nominative
-232261	dative
-nominative
-232268	nominative
-232271	nominative
-accusative
-232275	nominative
-232277	dative
-232282	nominative
-nominative
-232293	accusative
+231957	accusative
+231962	nominative
+231973	nominative
+231977	accusative
+231979	dative
+231988	accusative
+231991	accusative
+231995	accusative
 dative
+232003	nominative
+dative
+232008	accusative
+232010	nominative
+232013	nominative
+232015	accusative
+232023	accusative
+232073	nominative
+232080	accusative
+232096	nominative
+232102	nominative
+232105	nominative
+232112	accusative
+232116	genitive
+232125	dative
+232131	accusative
+232135	accusative
+232159	nominative
+232161	nominative
+232166	accusative
 accusative
-232298	nominative
-232334	dative
-232337	nominative
+232171	vocative
+232187	accusative
+232191	nominative
+232195	nominative
+232209	dative
+nominative
+232222	nominative
+232229	nominative
+232241	nominative
+232268	genitive
+dative
+232273	nominative
+232277	accusative
+accusative
+232286	dative
+232292	nominative
+232296	nominative
+232299	nominative
+232304	nominative
+232307	accusative
+232314	nominative
+232327	accusative
+232336	nominative
 232339	nominative
-232343	nominative
-232346	nominative
-232350	nominative
-232362	nominative
-232369	dative
-232371	nominative
-232373	nominative
-232375	accusative
-nominative
-232383	dative
-nominative
-accusative
-232388	accusative
-232391	nominative
+232363	nominative
+232365	genitive
+232367	nominative
+232380	accusative
 dative
-accusative
-232395	dative
-232401	dative
-232408	nominative
-232410	accusative
-232416	nominative
-232427	nominative
-accusative
-232436	accusative
-232449	dative
-accusative
-232458	dative
-232461	dative
-accusative
-232474	nominative
-232483	dative
-232491	accusative
-232497	nominative
-232502	dative
-232506	accusative
-nominative
-232510	nominative
+232385	nominative
+232396	nominative
+232403	nominative
+232425	genitive
+232427	genitive
+232433	accusative
+232448	accusative
+232453	dative
+232464	accusative
+232485	accusative
+232489	nominative
+232494	nominative
+232496	accusative
+232505	nominative
+dative
 232515	accusative
-232517	dative
-232520	nominative
+232518	nominative
+232525	accusative
+232528	accusative
+232538	nominative
+nominative
+232552	accusative
+232560	nominative
+232566	nominative
+232578	accusative
+232580	accusative
+232584	accusative
+232594	dative
+nominative
+vocative
 accusative
-232530	accusative
-232552	nominative
-232555	accusative
-232558	dative
-232561	dative
-232564	dative
-232568	accusative
-232571	accusative
-232573	accusative
-232576	accusative
-232578	nominative
-232587	dative
-232590	nominative
-accusative
-dative
-232599	accusative
-232603	nominative
-232607	accusative
-232614	accusative
+232600	dative
+232610	accusative
 accusative
 nominative
-232621	nominative
-232632	accusative
+232620	accusative
+232625	nominative
+232628	dative
+nominative
+vocative
 accusative
-232636	accusative
-232642	nominative
-232654	nominative
-232660	accusative
+232633	accusative
+232635	nominative
+nominative
+232641	dative
+vocative
+232644	nominative
+232646	accusative
+232648	dative
+232651	accusative
+nominative
+accusative
+232656	dative
+nominative
+vocative
+nominative
+nominative
 232662	dative
-232672	accusative
-232675	accusative
-232679	accusative
+232664	nominative
+232666	vocative
+232668	dative
+nominative
+232672	genitive
+232687	dative
+232704	nominative
+232710	accusative
+232712	dative
+genitive
+232715	genitive
+232723	genitive
+232740	dative
+nominative
 dative
-232687	nominative
+232744	accusative
+nominative
+232752	dative
+232756	nominative
+232760	dative
+232763	nominative
 dative
-232692	accusative
-232696	nominative
-232699	nominative
-232701	accusative
-232709	accusative
-232760	nominative
 232767	accusative
-232784	nominative
-232791	nominative
-232794	nominative
-232802	accusative
-232806	genitive
-232815	dative
-232821	accusative
-232825	accusative
-232849	nominative
-232851	nominative
-232856	accusative
-accusative
-232861	vocative
-232878	accusative
-232882	nominative
-232886	nominative
-232900	dative
+232769	nominative
+232771	accusative
+232773	accusative
 nominative
-232914	nominative
-232921	nominative
-232934	nominative
-232961	genitive
+232778	dative
+232785	dative
+genitive
+232795	nominative
+nominative
+232802	nominative
+232805	dative
+232810	nominative
+232813	dative
+232850	nominative
+232855	genitive
+232863	nominative
 dative
-232966	nominative
-232970	accusative
+232892	nominative
+232894	nominative
+232896	nominative
+232899	dative
+232907	dative
+232911	accusative
+232913	nominative
+232915	nominative
+232917	nominative
+232927	nominative
+232933	nominative
+232940	nominative
+232949	nominative
 accusative
-232979	dative
-232985	nominative
-232990	nominative
-232993	nominative
-232998	nominative
-233001	accusative
-233009	nominative
-233022	accusative
-233031	nominative
-233034	nominative
-233058	nominative
-233060	genitive
-233062	nominative
-233075	accusative
-dative
-233080	nominative
-233092	nominative
-233100	nominative
-233123	genitive
-233125	genitive
-233131	accusative
-233147	accusative
-233152	dative
-233163	accusative
-233184	accusative
-233188	nominative
-233193	nominative
-233195	accusative
-233204	nominative
-dative
-233214	accusative
-233218	nominative
+232957	accusative
+232959	nominative
+232974	nominative
+nominative
+232992	dative
+232997	dative
+233012	accusative
+genitive
+233016	genitive
+233018	nominative
+233026	nominative
+233030	dative
+nominative
+vocative
+233036	dative
+233038	nominative
+233041	dative
+233056	accusative
+233067	accusative
+233075	nominative
+233083	nominative
+233086	accusative
+233097	accusative
+233104	nominative
+233115	accusative
+accusative
+233118	accusative
+accusative
+233121	accusative
+233123	dative
+233128	genitive
+233143	genitive
+genitive
+233149	dative
+233157	accusative
+nominative
+nominative
+233161	nominative
+233166	nominative
+233174	dative
+233178	nominative
+233181	nominative
+233183	nominative
+233194	accusative
+233197	dative
+233199	vocative
+nominative
+233204	accusative
+233206	dative
+233211	dative
+233216	accusative
+233218	dative
+233220	vocative
+nominative
 233225	accusative
-233228	accusative
-233238	nominative
+233227	dative
+233232	dative
+233236	accusative
+233241	dative
+233244	accusative
+233247	dative
+vocative
+accusative
 nominative
-233252	accusative
-233260	nominative
-233266	nominative
-233278	accusative
-233280	accusative
+233252	nominative
+233256	accusative
+233258	dative
+nominative
+233264	dative
+233268	nominative
+233270	accusative
+233282	nominative
 233284	accusative
-233294	dative
+233290	accusative
+233293	nominative
+233298	accusative
 nominative
-vocative
-accusative
-233300	dative
-233310	accusative
-accusative
+233301	dative
+233303	dative
 nominative
-233320	accusative
+233308	accusative
+233311	accusative
+nominative
+233322	vocative
+nominative
 233325	nominative
-233328	dative
+accusative
+accusative
+233329	nominative
+233333	vocative
+nominative
+233336	nominative
+233338	dative
+233341	accusative
+233346	nominative
+233348	nominative
+dative
+233364	dative
+233371	accusative
+233376	nominative
+233379	nominative
+233384	nominative
+233387	nominative
+accusative
+233392	nominative
+233400	accusative
+233403	nominative
+233414	accusative
+233421	genitive
+233429	nominative
+233433	accusative
+233436	dative
+233439	accusative
+accusative
+233443	accusative
+233449	nominative
+dative
+233452	nominative
+233459	nominative
+233461	dative
+233471	accusative
+233473	genitive
+233476	nominative
+233479	dative
+nominative
+233489	nominative
+233492	nominative
+233494	accusative
 nominative
 vocative
-accusative
-233333	accusative
-233335	nominative
-nominative
-233341	dative
-233343	vocative
-233345	nominative
-233347	accusative
-233349	dative
-233352	accusative
-nominative
-accusative
-233357	dative
-nominative
-vocative
-nominative
-nominative
-233363	dative
-233366	nominative
-233368	vocative
-233370	dative
-nominative
-233375	genitive
-233390	dative
-233407	nominative
-233413	accusative
-233415	dative
-233417	genitive
-233419	genitive
-233427	genitive
-233444	dative
-nominative
-dative
-233448	accusative
-nominative
-233456	dative
-233460	nominative
-233464	dative
-233468	nominative
-dative
-233473	accusative
-233475	nominative
-233477	accusative
-233479	accusative
-nominative
-233484	dative
-233492	dative
+233506	genitive
+233511	accusative
+233519	accusative
 genitive
-233502	nominative
+233541	accusative
 nominative
-233509	nominative
-233512	dative
-233517	nominative
-233520	dative
-233558	nominative
-233564	genitive
-233572	nominative
-dative
-233601	nominative
-233603	nominative
-233605	nominative
-233608	dative
-233616	dative
-233622	accusative
-233624	nominative
-233626	nominative
-233628	nominative
-233638	nominative
-233644	nominative
-233651	nominative
-233660	nominative
+genitive
+genitive
+233547	nominative
+233549	accusative
+233558	genitive
+genitive
+233563	dative
+233566	nominative
+233569	vocative
+vocative
 accusative
-233668	accusative
-233670	nominative
-233685	nominative
+233573	nominative
+233579	nominative
+233587	accusative
+accusative
+233596	genitive
+genitive
 nominative
-233703	dative
-233708	dative
-233723	accusative
-233725	genitive
-233728	genitive
-233730	nominative
+233602	accusative
+233648	nominative
+nominative
+233662	vocative
+vocative
+233667	accusative
+233676	genitive
+genitive
+dative
+accusative
+233690	nominative
+233694	accusative
+233700	nominative
+nominative
+233703	nominative
+233710	nominative
+233713	dative
+accusative
+233722	nominative
+233734	nominative
 233738	nominative
-233742	dative
-nominative
-vocative
-233748	dative
-233750	nominative
+233744	nominative
+233749	genitive
+dative
 233753	dative
-233768	accusative
-233780	accusative
+233759	nominative
+233765	genitive
+233779	accusative
+accusative
+nominative
+233783	nominative
+233786	nominative
 233788	nominative
-233796	nominative
-233799	accusative
-233810	accusative
-233817	nominative
-233828	accusative
-accusative
-233831	accusative
-accusative
-233834	accusative
-233836	dative
-233842	genitive
-233858	genitive
+233792	accusative
+233797	accusative
+233807	nominative
+233816	accusative
+dative
+233834	nominative
+233843	nominative
+233845	genitive
+233856	dative
+nominative
+nominative
+233860	genitive
+233869	nominative
+233879	dative
+233892	genitive
+233905	genitive
 genitive
-233864	dative
-233873	accusative
+233911	nominative
+233916	nominative
 nominative
+233920	nominative
+233922	nominative
+233932	nominative
+233955	nominative
+233961	genitive
+genitive
+233970	nominative
+233975	nominative
 nominative
-233877	nominative
-233882	nominative
-233890	dative
-233894	nominative
-233898	nominative
-233900	nominative
-233912	accusative
-233915	dative
-233917	vocative
-nominative
-233922	accusative
-233924	dative
-233929	dative
-233934	accusative
-233936	dative
-233938	vocative
-nominative
-233943	accusative
-233945	dative
-233950	dative
-233954	accusative
-233960	dative
-233963	accusative
-233966	dative
-vocative
-accusative
-nominative
-233971	nominative
-233975	accusative
-233977	dative
-nominative
-233983	dative
+233978	nominative
+233980	nominative
+233982	nominative
+233985	genitive
 233987	nominative
-233989	accusative
-234001	nominative
-234003	accusative
-234009	accusative
-234012	nominative
-234017	accusative
-nominative
-234020	dative
-234022	dative
-nominative
-234028	accusative
-234031	accusative
-nominative
-234042	vocative
-nominative
-234045	nominative
+233997	dative
+234002	nominative
 accusative
-accusative
-234049	nominative
-234053	vocative
 nominative
-234056	nominative
-234058	dative
-234062	accusative
-234067	nominative
-234069	nominative
 dative
-234085	dative
-234093	accusative
-234098	nominative
-234101	nominative
-234106	nominative
-234109	nominative
-accusative
-234114	nominative
-234124	accusative
-234128	nominative
-234139	accusative
-234146	genitive
-234154	nominative
-234159	accusative
-234162	dative
+nominative
+234015	nominative
+234017	nominative
+234025	nominative
+234027	nominative
+234056	accusative
+234061	dative
+234084	accusative
+234089	accusative
+234111	nominative
+234116	vocative
+vocative
+234125	accusative
+234131	dative
+234138	nominative
+234145	dative
+234151	nominative
+234153	accusative
+234156	nominative
+234163	nominative
 234165	accusative
-accusative
-234169	accusative
-234175	nominative
-dative
-234178	nominative
-234185	nominative
-234187	dative
-234198	accusative
-234200	genitive
-234203	nominative
-234206	dative
-nominative
-234216	nominative
-234219	nominative
-234221	accusative
-nominative
+234167	nominative
+234210	accusative
+234212	dative
+234215	accusative
+genitive
+234220	vocative
 vocative
-234233	genitive
-234239	accusative
-234248	accusative
-genitive
-234270	accusative
 nominative
-genitive
-genitive
-234276	nominative
-234278	accusative
-234289	genitive
-genitive
-234294	dative
-234297	nominative
-234302	vocative
-vocative
-accusative
+234242	nominative
+234244	nominative
+234246	nominative
+234248	dative
+234250	dative
+234260	nominative
+234274	accusative
+234279	genitive
+234282	nominative
+234288	nominative
+234295	nominative
+234299	accusative
+nominative
 234306	nominative
 234312	nominative
-234320	accusative
-accusative
-234330	genitive
-genitive
+234314	nominative
+234341	accusative
 nominative
-234336	accusative
-234383	nominative
-nominative
-234399	vocative
+234344	nominative
+234356	accusative
+234358	vocative
 vocative
+nominative
+234382	dative
+234394	accusative
 234405	accusative
-234414	genitive
-genitive
-dative
-accusative
-234428	nominative
-234432	accusative
-234438	nominative
 nominative
-234441	nominative
-234448	nominative
-234451	dative
+234415	nominative
+234444	nominative
+234454	nominative
+234458	accusative
 accusative
-234461	nominative
-234473	nominative
-234477	nominative
-234483	nominative
-234488	genitive
+234469	accusative
 dative
-234493	dative
-234499	nominative
-234506	genitive
-234521	accusative
+234472	nominative
 accusative
-nominative
-234525	nominative
-234528	nominative
-234530	nominative
-234535	accusative
+234478	nominative
+234482	nominative
+234485	accusative
+234487	genitive
+234493	nominative
+234496	nominative
+accusative
+234504	accusative
+234523	nominative
+234527	nominative
+234529	accusative
+234537	accusative
+accusative
 234540	accusative
-234551	nominative
-234560	accusative
+234542	genitive
+234545	nominative
+nominative
+234549	accusative
+234554	accusative
+234556	nominative
+234558	nominative
+234565	nominative
+234568	dative
+nominative
+accusative
+234575	nominative
+234580	dative
+accusative
+234584	accusative
 dative
-234578	nominative
-234587	nominative
-234589	genitive
-234601	dative
-nominative
-nominative
-234605	genitive
-234614	nominative
-234624	dative
-234639	genitive
-234652	genitive
+234595	nominative
+accusative
+234600	accusative
+234612	nominative
+234622	nominative
+234624	nominative
+234626	nominative
+234634	accusative
+accusative
+234637	accusative
+234641	accusative
+234643	nominative
+234647	nominative
+234658	dative
+dative
 genitive
-234658	nominative
-234663	nominative
-nominative
-234667	nominative
-234669	nominative
-234680	nominative
-234703	nominative
-234709	genitive
+234662	genitive
+234674	dative
 genitive
-234718	nominative
+nominative
+nominative
+234683	vocative
+vocative
+accusative
+234689	dative
+accusative
+234696	dative
+234698	accusative
+234712	accusative
+nominative
+234719	genitive
+genitive
 234723	nominative
+234732	dative
+234738	accusative
+234742	genitive
 nominative
-234726	nominative
-234728	nominative
-234730	nominative
-234733	genitive
-234735	nominative
-234745	dative
-234750	nominative
-accusative
 nominative
+234752	accusative
+234764	dative
+234771	vocative
+234782	accusative
+234811	accusative
 dative
-nominative
-234765	nominative
-234767	nominative
-234775	nominative
-234777	nominative
-234808	accusative
-234813	dative
-234837	accusative
-234842	accusative
-234864	nominative
-234871	vocative
-vocative
-234880	accusative
-234887	dative
-234894	nominative
-234901	dative
-234907	nominative
-234909	accusative
-234912	nominative
-234919	nominative
-234921	accusative
-234923	nominative
-234968	accusative
-234970	dative
-234973	accusative
+accusative
+234815	accusative
+234820	genitive
+234830	nominative
+234834	accusative
+dative
+234843	accusative
 genitive
-234980	vocative
-vocative
+234848	accusative
+234854	nominative
+234871	nominative
+234877	nominative
+234885	genitive
+234891	nominative
+234902	dative
+accusative
 nominative
-235002	nominative
-235004	nominative
-235006	nominative
-235008	dative
-235010	dative
-235020	nominative
-235034	accusative
-235039	genitive
-235042	nominative
-235048	nominative
+234909	accusative
+accusative
+accusative
+234914	accusative
+234918	genitive
+234920	genitive
+234924	dative
+234933	nominative
+234936	accusative
+234949	dative
+234958	nominative
+234962	genitive
+234993	nominative
+234998	nominative
+accusative
+235010	accusative
+nominative
+235013	nominative
+nominative
+235023	nominative
+235030	nominative
+235032	nominative
+235047	accusative
+nominative
+235050	accusative
 235055	nominative
-235060	accusative
+235058	nominative
 nominative
-235067	nominative
-235073	nominative
-235075	nominative
-235104	accusative
-nominative
-235107	nominative
-235120	accusative
-235123	vocative
-vocative
-235126	nominative
-235148	dative
-235161	accusative
-235172	accusative
-nominative
-235182	nominative
-235211	nominative
-235221	nominative
-235225	accusative
+235064	nominative
+235068	nominative
+235084	nominative
+235089	accusative
+235091	nominative
+235099	nominative
+235104	nominative
+235108	accusative
+235116	nominative
+235118	accusative
 accusative
-235236	accusative
-dative
-235239	nominative
 accusative
-235245	nominative
+235123	nominative
+235125	accusative
+235131	nominative
+accusative
+235143	dative
+accusative
+nominative
+235158	dative
+235166	nominative
+accusative
+235181	nominative
+235185	nominative
+235189	genitive
+235198	nominative
+accusative
+235204	nominative
+235206	nominative
+235208	accusative
+accusative
+nominative
+235213	accusative
+235217	nominative
+235221	dative
+235233	nominative
+235240	accusative
+235247	nominative
 235249	nominative
 235252	accusative
-235254	genitive
+235257	vocative
+nominative
 235260	nominative
-235263	nominative
-accusative
-235271	accusative
-235290	nominative
-235294	nominative
-235296	accusative
-235304	accusative
-accusative
-235307	accusative
-235309	genitive
-235312	nominative
-nominative
-235316	accusative
-235321	accusative
-235323	nominative
-235325	nominative
-235332	nominative
-235335	dative
-nominative
-accusative
-235342	nominative
-235348	dative
-accusative
+235278	nominative
+235282	nominative
+235284	nominative
+235286	accusative
+235314	accusative
+235325	accusative
+235335	vocative
 235352	accusative
-dative
-235363	nominative
-accusative
-235368	accusative
-235380	nominative
-235390	nominative
+235366	genitive
+genitive
+235375	nominative
+235388	genitive
 235392	nominative
-235394	nominative
-235402	accusative
-accusative
-235405	accusative
-235409	accusative
-235411	nominative
-235415	nominative
-235426	dative
+235395	nominative
+235397	genitive
 dative
-235429	genitive
-235431	genitive
-235443	dative
+235400	accusative
+235404	dative
+nominative
+nominative
+235427	nominative
+235433	nominative
+235437	genitive
+235446	dative
+235448	nominative
+accusative
+235455	nominative
+nominative
+235459	nominative
+235464	genitive
+dative
 genitive
 nominative
+235480	nominative
+dative
+235487	accusative
+235492	genitive
+235496	nominative
+235506	vocative
+235514	accusative
+235524	nominative
+dative
+235528	nominative
+235533	nominative
+235543	dative
+235546	nominative
+235551	nominative
+235558	accusative
 nominative
-235454	vocative
+235563	accusative
+235565	nominative
+235576	nominative
+accusative
+235582	nominative
+235584	dative
+genitive
+235588	nominative
+235592	genitive
+235596	nominative
+235599	dative
+235606	genitive
+235613	accusative
+235622	nominative
+235626	accusative
+accusative
+235629	nominative
+235644	accusative
+accusative
+235660	nominative
+235669	dative
+235672	accusative
+235677	nominative
+235694	genitive
+genitive
+235708	nominative
+235711	accusative
+235716	nominative
+235725	nominative
+235729	genitive
+235738	accusative
+235748	nominative
+235750	accusative
+235755	nominative
+235765	nominative
+235774	nominative
+235795	accusative
+235799	nominative
+235802	accusative
+235805	nominative
+235808	nominative
+235813	accusative
+235818	accusative
+235821	nominative
+235824	accusative
+235840	nominative
+235842	nominative
+nominative
+235845	nominative
+235847	dative
+235851	accusative
+235859	nominative
+235862	nominative
+235867	accusative
+235875	nominative
+235877	accusative
+235883	accusative
+235885	nominative
+235887	dative
+235889	dative
+235909	nominative
+235918	dative
+235921	dative
+235927	accusative
+nominative
+235930	nominative
+235932	accusative
+235940	accusative
+235945	nominative
+235954	accusative
+235957	dative
+dative
+nominative
+235961	nominative
+235966	accusative
+nominative
+235975	dative
+nominative
+235983	accusative
+235989	vocative
 vocative
-accusative
-235460	dative
-accusative
-235467	dative
-235469	accusative
-235484	accusative
-nominative
-235491	genitive
-genitive
-235495	nominative
-235504	dative
-235510	accusative
-235514	genitive
-nominative
-nominative
-235525	accusative
-235537	dative
-235544	vocative
-235556	accusative
-235586	accusative
-dative
-accusative
-235590	accusative
-235596	genitive
-235606	nominative
-235610	accusative
-dative
-235619	accusative
-genitive
-235624	accusative
-235631	nominative
-235649	nominative
-235655	nominative
-235664	genitive
-235670	nominative
-235681	dative
-accusative
-nominative
-235688	accusative
-accusative
-accusative
-235693	accusative
-235697	genitive
-235699	genitive
-235703	dative
-235712	nominative
-235715	accusative
-235728	dative
-235738	nominative
-235742	genitive
-235773	nominative
-235778	nominative
-accusative
-235790	accusative
-nominative
-235793	nominative
-nominative
-235804	nominative
-235811	nominative
-235813	nominative
-235830	accusative
-nominative
-235833	accusative
-235838	nominative
-235841	nominative
-nominative
-235847	nominative
-235851	nominative
-235869	nominative
-235874	accusative
-235876	nominative
-235884	nominative
-235889	nominative
-235893	accusative
-235901	nominative
-235903	accusative
-accusative
-accusative
-235908	nominative
-235910	accusative
-235916	nominative
-accusative
-235928	dative
-accusative
-nominative
-235944	dative
-235952	nominative
-accusative
-235967	nominative
-235973	nominative
-235977	genitive
-235986	nominative
-accusative
-235992	nominative
-235994	nominative
+235992	dative
 235996	accusative
+236004	nominative
+nominative
+236007	accusative
 accusative
-nominative
-236001	accusative
-236005	nominative
-236009	dative
-236022	nominative
-236029	accusative
-236036	nominative
-236038	nominative
-236041	accusative
-236046	vocative
-nominative
-236049	nominative
-236067	nominative
-236072	nominative
-236074	nominative
+dative
+236014	nominative
+236018	nominative
+236020	dative
+236035	accusative
+236037	nominative
+236041	nominative
+236043	dative
+236048	dative
+236056	accusative
 236076	accusative
-236105	accusative
-236116	accusative
-236126	vocative
-236143	accusative
-236157	genitive
+236083	dative
+236086	nominative
+236088	nominative
+236098	nominative
+236101	nominative
+236120	nominative
+236122	nominative
+236124	accusative
+236129	genitive
+236144	nominative
+236152	nominative
+236154	accusative
+accusative
+236160	dative
+236163	vocative
+236169	accusative
+236173	accusative
+236178	nominative
+236209	accusative
+236214	nominative
+236216	dative
+236237	nominative
+236255	genitive
 genitive
-236167	nominative
-236180	genitive
-236184	nominative
-236187	nominative
-236189	genitive
-dative
-236192	accusative
-236196	dative
-nominative
-nominative
-236219	nominative
-236225	nominative
-236229	genitive
-236238	dative
-236240	nominative
+236264	nominative
+236274	dative
+236279	accusative
+236282	genitive
+genitive
+236299	nominative
+236301	accusative
+236311	accusative
+236316	nominative
 accusative
-236247	nominative
+236327	genitive
+genitive
+236339	accusative
+236341	dative
 nominative
-236251	nominative
-236257	genitive
+236344	nominative
+236347	nominative
+236358	nominative
+236361	nominative
+236364	vocative
+236375	dative
+236381	accusative
+236399	accusative
+dative
+236403	nominative
+236414	accusative
+236419	nominative
+236427	dative
+accusative
+236436	dative
+236438	accusative
+236445	genitive
 dative
 genitive
-nominative
-236273	nominative
-dative
-236280	accusative
-236286	genitive
-236290	nominative
-236300	vocative
-236308	accusative
-236318	nominative
-dative
-236322	nominative
-236327	nominative
-236337	dative
-236340	nominative
-236345	nominative
-236352	accusative
-nominative
-236357	accusative
-236359	nominative
-236370	nominative
-accusative
-236376	nominative
-236378	dative
-genitive
-236382	nominative
-236386	genitive
-236392	nominative
-236395	dative
-236402	genitive
-236409	accusative
-236418	nominative
-236422	accusative
-accusative
-236425	nominative
-236440	accusative
-accusative
 236456	nominative
-236465	dative
-236468	accusative
-236473	nominative
-236491	genitive
-genitive
-236505	nominative
-236509	accusative
-236514	nominative
-236523	nominative
-236527	genitive
-236536	accusative
-236546	nominative
-236548	accusative
-236553	nominative
-236563	nominative
-236572	nominative
-236593	accusative
-236597	nominative
-236600	accusative
-236603	nominative
-236606	nominative
-236611	accusative
-236616	accusative
-236619	nominative
-236622	accusative
-236639	nominative
+236461	accusative
+236466	dative
+236469	nominative
+236478	dative
+236484	dative
+236494	accusative
+236499	nominative
+236502	nominative
+236507	nominative
+236518	accusative
+236526	dative
+236534	accusative
+accusative
+236545	nominative
+236556	accusative
+236559	nominative
+236561	nominative
+accusative
+accusative
+236568	accusative
+236573	nominative
+236577	nominative
+236582	nominative
+236584	nominative
+236598	nominative
+236614	dative
+236616	nominative
+236628	genitive
+236637	genitive
 236641	nominative
+236645	nominative
 nominative
-236644	nominative
-236646	dative
-236651	accusative
-236659	nominative
+236654	accusative
+236661	nominative
 236664	nominative
-236669	accusative
-236677	nominative
-236679	accusative
-236685	accusative
+236666	nominative
+236673	genitive
+236675	genitive
+236677	accusative
+236682	accusative
+dative
 236687	nominative
-236689	dative
-236691	dative
-236711	nominative
-236720	dative
-236723	dative
-236730	accusative
-nominative
-236733	nominative
-236735	accusative
-236743	accusative
-236748	nominative
-236758	accusative
-236761	dative
-dative
-nominative
-236765	nominative
-236770	accusative
-nominative
-236779	dative
-nominative
-236787	accusative
-236795	vocative
-vocative
-236798	dative
-236802	accusative
-236810	nominative
-nominative
-236813	accusative
+236692	nominative
+236700	dative
+236713	nominative
 accusative
+accusative
+236719	accusative
 dative
-236820	nominative
-236824	nominative
-236826	dative
-236842	accusative
-236844	nominative
-236848	nominative
-236850	dative
-236856	dative
-236864	accusative
-236886	accusative
-236893	dative
+nominative
+236732	accusative
+dative
+nominative
+236741	dative
+236743	dative
+dative
+236747	accusative
+236749	nominative
+vocative
+nominative
+236756	accusative
+236758	nominative
+236761	accusative
+nominative
+nominative
+accusative
+236771	accusative
+nominative
+236780	nominative
+236786	nominative
+236793	genitive
+236796	dative
+236802	nominative
+236808	nominative
+236811	genitive
+236813	genitive
+236817	nominative
+236827	nominative
+236829	nominative
+nominative
+236836	dative
+236850	nominative
+236866	accusative
+236871	accusative
+236875	accusative
+236877	nominative
+nominative
+accusative
+236883	accusative
+236892	genitive
+dative
 236896	nominative
-236898	nominative
-236909	nominative
+236898	accusative
+nominative
 236912	nominative
-236931	nominative
-236933	nominative
-236935	accusative
-236942	genitive
-236957	nominative
-236965	nominative
-236967	accusative
-accusative
-236973	dative
-236976	vocative
-236983	accusative
-236987	accusative
-236992	nominative
-237024	accusative
-237029	nominative
-237031	dative
-237052	nominative
-237070	genitive
-genitive
-237079	nominative
-237090	dative
-237095	accusative
-237098	genitive
-genitive
-237115	nominative
-237117	accusative
-237127	accusative
-237132	nominative
-accusative
-237143	genitive
-genitive
-237156	accusative
-237158	dative
+236916	nominative
+236919	accusative
+dative
+236927	accusative
 nominative
-237161	nominative
-237164	nominative
-237175	nominative
-237178	nominative
-237183	vocative
-237194	dative
-237200	accusative
+236930	nominative
+236939	genitive
+dative
+236947	nominative
+236950	accusative
+236952	dative
+dative
+236956	nominative
+236969	nominative
+236972	dative
+nominative
+236975	genitive
+236979	nominative
+236981	accusative
+236986	nominative
+236988	dative
+236997	accusative
+237011	accusative
+237024	dative
+237043	accusative
+237046	dative
+237049	accusative
+237061	nominative
+237064	accusative
+237067	accusative
+237069	accusative
+237072	nominative
+237080	genitive
+237090	nominative
+237092	accusative
+237098	accusative
+237101	nominative
+237104	dative
+accusative
+237116	dative
+nominative
+237125	dative
+237127	nominative
+237129	nominative
+237143	nominative
+237161	accusative
+237166	genitive
+237168	nominative
+237172	nominative
+237180	nominative
+237182	accusative
+237190	nominative
+237192	nominative
+237194	nominative
+237201	accusative
+accusative
+237212	accusative
 237219	accusative
-dative
-237223	nominative
-237234	accusative
-237240	nominative
-237248	dative
-accusative
-237257	dative
-237259	accusative
-237266	genitive
-dative
+237222	nominative
+237233	nominative
+237246	genitive
 genitive
-237277	nominative
-237282	accusative
-237288	dative
-237291	nominative
-237300	dative
-237306	dative
-237316	accusative
-237321	nominative
-237324	nominative
+237252	accusative
+237254	accusative
+237259	nominative
+237264	vocative
+237267	dative
+237271	accusative
+nominative
+237274	nominative
+237290	nominative
+237309	nominative
+237315	nominative
+nominative
+237323	nominative
+237325	nominative
+237327	nominative
 237329	nominative
-237340	accusative
-237348	dative
-237356	accusative
-accusative
-237367	nominative
-237378	accusative
-237381	nominative
-237383	nominative
-accusative
-accusative
-237390	accusative
-237395	nominative
-237399	nominative
-237404	nominative
-237406	nominative
-237420	nominative
-237437	dative
+237335	dative
+237340	dative
+237346	accusative
+237350	accusative
+237354	genitive
+237356	nominative
+237362	nominative
+237374	dative
+nominative
+237380	nominative
+237382	nominative
+237386	nominative
+237389	accusative
+dative
+237396	nominative
+nominative
+237403	nominative
+nominative
+237407	dative
+237412	accusative
+237417	dative
+237436	nominative
 237439	nominative
-237453	genitive
-237462	genitive
-237467	nominative
-237471	nominative
+237444	accusative
+237446	nominative
+237461	nominative
 nominative
-237480	accusative
-237487	nominative
-237490	nominative
-237492	nominative
-237500	genitive
-237502	genitive
-237504	accusative
-237509	accusative
-dative
+237473	accusative
+237488	nominative
+237501	dative
+accusative
+nominative
+237505	dative
+237509	dative
 237514	nominative
-237519	nominative
-237528	dative
-237541	nominative
+237532	dative
+237543	nominative
+237556	dative
+237568	accusative
 accusative
-accusative
-237547	accusative
-dative
 nominative
-237560	accusative
-dative
-nominative
-237569	dative
-237571	dative
-dative
-237575	accusative
-237577	nominative
-vocative
-nominative
-237584	accusative
-237586	nominative
-237589	accusative
-nominative
-237592	nominative
-accusative
-237600	accusative
-nominative
-237609	nominative
-237615	nominative
-237624	genitive
-237627	dative
-237633	nominative
-237639	nominative
-237642	genitive
-237644	genitive
-237648	nominative
-237658	nominative
-237660	nominative
-nominative
-237667	dative
+237575	nominative
+237583	genitive
+237585	nominative
+237603	nominative
+237612	accusative
+237616	nominative
+237618	nominative
+237620	nominative
+237630	nominative
+237636	nominative
+237638	nominative
+237643	nominative
+237661	nominative
+237665	genitive
+genitive
+237673	accusative
+237675	nominative
 237683	nominative
-237699	accusative
-237705	accusative
-237710	accusative
-237712	nominative
-nominative
+237685	accusative
+237689	accusative
+237696	accusative
+237699	nominative
+237701	nominative
+237706	nominative
+237708	genitive
 accusative
-237718	accusative
-237727	genitive
-dative
+nominative
+237723	nominative
 237731	nominative
-237733	accusative
+237737	genitive
+237741	accusative
+237748	nominative
+237754	nominative
+237759	dative
+237773	nominative
 nominative
-237747	nominative
-237751	nominative
-237755	accusative
-dative
-237763	accusative
-nominative
-237768	nominative
-237777	genitive
-dative
+237776	accusative
 237785	nominative
-237788	accusative
-237790	dative
-dative
-237794	nominative
-237807	nominative
-237811	dative
-237813	nominative
-237815	genitive
+237795	accusative
+237807	accusative
+237814	nominative
+nominative
 237820	nominative
-237822	accusative
-237827	nominative
-237829	dative
-237838	accusative
+237826	accusative
+237831	nominative
+237838	nominative
 237853	accusative
-237866	dative
-237886	accusative
-237889	dative
-237892	accusative
-237904	nominative
-237907	accusative
+237857	accusative
+237864	accusative
+237870	accusative
+237872	nominative
+237876	nominative
+237880	accusative
+accusative
+dative
+vocative
+vocative
+accusative
+accusative
+237890	nominative
+237892	vocative
+nominative
+237895	nominative
+237897	accusative
+nominative
+237909	dative
 237911	accusative
-237913	accusative
-237916	nominative
-237925	genitive
-237936	nominative
+accusative
+237918	nominative
+dative
+237921	nominative
+237923	nominative
+237926	accusative
+237928	nominative
+237931	nominative
+237934	genitive
 237938	accusative
-237944	accusative
-237947	nominative
-237950	dative
-accusative
-237963	dative
+237940	nominative
+237942	accusative
+237958	dative
 nominative
-237973	dative
+237965	vocative
+nominative
+237970	nominative
+vocative
 237975	nominative
-237977	nominative
-237991	nominative
-238009	accusative
-238015	genitive
-238017	nominative
-238021	nominative
-238029	nominative
-238031	accusative
-238039	nominative
-238041	nominative
-238043	nominative
-238050	accusative
+237980	accusative
 accusative
-238061	accusative
-238068	accusative
-238071	nominative
-238082	nominative
-238095	genitive
-genitive
-238101	accusative
-238103	accusative
-238108	nominative
-238113	vocative
-238116	dative
-238120	accusative
+237987	accusative
+dative
+237996	accusative
+dative
+accusative
+238000	accusative
+dative
+accusative
+238007	nominative
+vocative
+238027	accusative
+238038	dative
 nominative
-238123	nominative
+238049	nominative
+238052	dative
+accusative
+238055	accusative
+238062	nominative
+238069	nominative
+238077	accusative
+238079	nominative
+dative
+238083	dative
+238100	nominative
+238104	nominative
+238107	nominative
+accusative
+238125	nominative
+238133	nominative
+238137	nominative
 238139	nominative
-238159	nominative
+238141	accusative
+238149	accusative
+accusative
+238154	nominative
+238161	accusative
+238163	nominative
 238165	nominative
+238175	accusative
+238189	accusative
+238191	nominative
+238195	genitive
+238199	accusative
 nominative
-238173	nominative
-238175	nominative
-238177	nominative
-238179	nominative
-238185	dative
-238190	dative
-238196	accusative
-238201	accusative
-238205	genitive
-238207	nominative
+238202	nominative
+238209	nominative
+238211	accusative
 238213	nominative
-238225	dative
+238216	nominative
 nominative
-238231	nominative
-238233	nominative
-238237	nominative
-238240	accusative
-dative
-238247	nominative
+238219	nominative
+accusative
+238226	dative
+238237	dative
+238250	nominative
+238260	nominative
+238264	accusative
 nominative
-238254	nominative
+238269	accusative
+238273	accusative
+238284	accusative
 nominative
-238258	dative
-238263	accusative
-238269	dative
-238289	nominative
-238292	nominative
-238297	accusative
-238299	nominative
-238315	nominative
+238287	nominative
+238300	accusative
+accusative
+238308	accusative
+accusative
+238316	dative
+accusative
+238320	accusative
+238322	nominative
+238324	nominative
+238327	dative
+238329	vocative
+238331	accusative
+238336	dative
+238342	accusative
+238344	nominative
+238348	nominative
+238357	dative
 nominative
-238327	accusative
-238342	nominative
-238355	dative
+nominative
+238361	nominative
+nominative
+238364	nominative
+238368	genitive
+238375	accusative
+accusative
+238378	nominative
+238384	genitive
+genitive
+238388	nominative
+238390	nominative
+238396	nominative
+238401	nominative
+238403	nominative
+238405	dative
+accusative
+accusative
+238413	dative
+238417	nominative
+238419	nominative
+238422	accusative
+238425	nominative
+238428	nominative
+238431	accusative
+238434	nominative
+238438	nominative
+238442	vocative
+238444	nominative
+238450	nominative
+238453	nominative
+238455	dative
+accusative
+238458	accusative
+nominative
+238466	accusative
 accusative
 nominative
-238360	dative
-238364	dative
-238369	nominative
-238389	dative
-238400	nominative
-238414	dative
-238426	accusative
-accusative
-nominative
-238433	nominative
-238441	genitive
-238443	nominative
-238461	nominative
-238470	accusative
-238474	nominative
 238476	nominative
-238478	nominative
-238490	nominative
-238496	nominative
-238498	nominative
+238495	dative
+nominative
+238500	genitive
+genitive
 238503	nominative
-238521	nominative
-238525	genitive
-genitive
-238533	accusative
-238535	nominative
-238543	nominative
-238545	accusative
-238549	accusative
-238557	accusative
-238560	nominative
-238563	nominative
-238569	nominative
-238571	genitive
-accusative
+238509	nominative
+238513	nominative
+238527	accusative
+238530	accusative
+dative
+vocative
 nominative
-238587	nominative
-238595	nominative
-238601	genitive
-238605	accusative
+238536	nominative
+dative
+238539	nominative
+nominative
+238542	nominative
+238544	vocative
+238547	dative
+238561	accusative
+238566	nominative
+238568	nominative
+nominative
+238574	dative
+238576	nominative
+238583	nominative
+dative
+238586	nominative
+238593	genitive
+dative
+238596	nominative
+accusative
+dative
+238600	accusative
+238606	genitive
+genitive
+238610	genitive
 238612	nominative
-238618	nominative
-238623	dative
-238639	nominative
-nominative
-238642	accusative
-238651	nominative
-238661	accusative
-238674	accusative
-238681	nominative
-nominative
-238687	nominative
-238693	accusative
-238698	nominative
-238705	nominative
-238720	accusative
-238724	accusative
-238731	accusative
-238737	accusative
-238739	nominative
-238743	nominative
-238747	accusative
-accusative
-dative
-238752	vocative
+238620	nominative
+238624	genitive
+238626	genitive
+238629	nominative
+238634	accusative
+238636	accusative
+238641	accusative
+238658	nominative
+238660	nominative
 vocative
-accusative
-accusative
-238759	nominative
-238761	vocative
+238668	vocative
+238676	nominative
+238680	accusative
+238683	nominative
+238686	nominative
+238691	nominative
+238701	nominative
+238704	accusative
+238709	nominative
+238712	nominative
+238720	nominative
+238723	nominative
 nominative
-238764	nominative
-238767	accusative
-nominative
-238779	dative
-238781	accusative
+238729	genitive
+238737	nominative
 accusative
-238788	nominative
-dative
-238791	nominative
-238793	nominative
-238796	accusative
-238798	nominative
+238740	nominative
+238745	accusative
+nominative
+238748	nominative
+238750	accusative
+nominative
+238753	nominative
+238758	nominative
+238760	accusative
+238762	nominative
+238766	nominative
+238773	nominative
+238775	nominative
+238787	accusative
+238793	accusative
+238795	nominative
+238797	accusative
 238801	nominative
-238805	genitive
-238809	accusative
-238811	nominative
-238813	accusative
-238829	dative
+238811	dative
+238820	accusative
 nominative
-238836	vocative
+238833	nominative
+dative
+238836	nominative
+238843	accusative
 nominative
-238841	nominative
-vocative
-238847	nominative
-238852	accusative
-accusative
-238859	accusative
+238848	nominative
+238852	nominative
 dative
-238868	accusative
-dative
+238857	accusative
 accusative
-238873	accusative
+238862	nominative
+238865	nominative
+238870	dative
 dative
-accusative
-238880	nominative
-vocative
-238900	accusative
-238913	dative
+238882	nominative
+238887	accusative
+238905	nominative
+238912	vocative
+238927	nominative
+238929	nominative
 nominative
-238924	nominative
-238927	dative
-accusative
-238930	accusative
-238937	nominative
+238940	nominative
 238944	nominative
-238952	accusative
-238954	nominative
+238953	accusative
 dative
-238959	dative
-238976	nominative
-238980	nominative
-238983	nominative
+238957	nominative
+238959	nominative
+238967	nominative
+238972	nominative
 accusative
-239001	nominative
-239009	nominative
-239013	nominative
-239015	nominative
-239017	accusative
-239026	accusative
+238975	nominative
 accusative
-239031	nominative
-239038	accusative
-239040	nominative
-239042	nominative
-239053	accusative
-239067	accusative
+nominative
+dative
+238981	accusative
+238985	nominative
+accusative
+238989	nominative
+238992	nominative
+238996	accusative
+239000	nominative
+239005	accusative
+239007	nominative
+239013	accusative
+239018	nominative
+239021	nominative
+239023	nominative
+239025	accusative
+239033	nominative
+239035	genitive
+239044	accusative
+239047	nominative
+239049	accusative
+239057	accusative
+accusative
+239066	dative
 239069	nominative
-239073	genitive
-239077	accusative
-nominative
-239080	nominative
-239087	nominative
-239089	accusative
-239091	nominative
-239094	nominative
-nominative
-239097	nominative
-accusative
-239104	dative
-239115	dative
-239128	nominative
-239138	nominative
-239142	accusative
-nominative
-239147	accusative
-239151	accusative
-239162	accusative
-nominative
-239165	nominative
-239178	accusative
-accusative
-239186	accusative
-accusative
-239195	dative
-accusative
-239199	accusative
-239201	nominative
+239072	dative
+239075	accusative
+239079	dative
+239086	nominative
+239090	nominative
+239095	genitive
+239097	dative
+239107	accusative
+239110	genitive
+239120	accusative
+239127	nominative
+239142	genitive
+genitive
+dative
+239146	genitive
+239150	nominative
+239154	nominative
+239157	nominative
+239166	accusative
+239174	accusative
+239184	nominative
+239197	nominative
 239203	nominative
-239206	dative
-239208	vocative
-239210	accusative
-239215	dative
-239221	accusative
-239223	nominative
-239227	nominative
-239236	dative
-239238	nominative
-nominative
-239241	nominative
-nominative
-239244	nominative
-239249	genitive
-239256	accusative
+239208	accusative
 accusative
-239259	nominative
-239266	genitive
+239212	dative
+nominative
+239215	nominative
+239217	dative
+239219	nominative
+239221	nominative
+239230	accusative
+239235	accusative
+239242	nominative
+239261	genitive
 genitive
-239270	nominative
-239272	nominative
-239278	nominative
+dative
+nominative
+vocative
+239271	vocative
 239283	nominative
-239285	nominative
-239287	dative
-accusative
-accusative
-239295	dative
+239286	accusative
+239289	nominative
+239292	nominative
 239299	nominative
-239301	nominative
-239305	accusative
-239308	nominative
 239311	nominative
-239314	accusative
-239317	nominative
-239321	nominative
-239325	vocative
-239327	nominative
-239333	nominative
-239336	nominative
-239338	dative
+239317	dative
+239319	dative
 accusative
-239341	accusative
-nominative
-239349	accusative
+accusative
+239337	dative
+239345	accusative
+239347	accusative
+239354	accusative
 accusative
 nominative
-239359	nominative
-239378	dative
+239358	accusative
+239370	accusative
+239389	nominative
+239392	dative
 nominative
-239383	genitive
-genitive
-239386	nominative
-239392	nominative
-239396	nominative
-239410	accusative
-239413	accusative
-dative
-vocative
+239403	dative
+239406	dative
+239411	nominative
 nominative
-239419	nominative
-dative
-239422	nominative
+239416	nominative
+239418	accusative
+239423	nominative
+239433	nominative
+239437	genitive
+239443	dative
 nominative
-239425	nominative
-239427	vocative
-239430	dative
-239444	accusative
-239450	nominative
-239452	nominative
+239448	accusative
+dative
+239457	nominative
 nominative
-239459	dative
-239461	nominative
-239469	nominative
-dative
-239472	nominative
-239479	genitive
-dative
-239482	nominative
-accusative
-dative
-239486	accusative
-239492	genitive
-genitive
-239496	genitive
+239464	nominative
+239474	nominative
+239487	genitive
+239492	accusative
+239494	nominative
+239496	nominative
 239498	nominative
-239506	nominative
-239511	genitive
-239513	genitive
-239516	nominative
-239521	accusative
-239523	accusative
+239506	accusative
 239528	accusative
-239545	nominative
-239547	nominative
-vocative
-239556	vocative
-239564	nominative
-239568	accusative
-239571	nominative
-239574	nominative
-239579	nominative
-239590	nominative
-239594	accusative
-239599	nominative
-239602	nominative
-239610	nominative
-239613	nominative
+239530	nominative
+239535	dative
+239550	accusative
+239557	nominative
+239559	nominative
+239564	dative
 nominative
-239619	genitive
-239627	nominative
-accusative
-239631	nominative
-239636	accusative
+239575	nominative
+239582	nominative
+239589	dative
+239592	accusative
+239595	nominative
+239620	dative
+239622	nominative
+239625	nominative
+239635	accusative
+239637	nominative
+239640	nominative
+239644	accusative
 nominative
-239639	nominative
-239641	accusative
+239649	accusative
+239657	nominative
+239670	accusative
+239678	nominative
+239680	nominative
+239691	nominative
+239695	nominative
+239701	accusative
 nominative
-239644	nominative
-239649	nominative
-239651	accusative
-239653	nominative
-239658	nominative
-239665	nominative
-239667	nominative
-239679	accusative
-239685	accusative
-239687	nominative
-239689	accusative
-239693	nominative
-239703	dative
-239712	accusative
-nominative
-239725	nominative
-dative
-239728	nominative
-239735	accusative
-nominative
+239726	dative
+239733	dative
+239735	nominative
 239741	nominative
-239745	nominative
-dative
-239750	accusative
-accusative
-239755	nominative
-239758	nominative
-239763	dative
-dative
-239775	nominative
-239780	accusative
-239798	nominative
-239805	vocative
-239821	nominative
-239823	nominative
+239743	nominative
+239748	accusative
+239751	nominative
+239761	accusative
+239764	nominative
 nominative
-239834	nominative
-239838	nominative
-239847	accusative
-dative
-239851	nominative
+239767	dative
+239769	nominative
+239780	nominative
+239792	accusative
+239803	nominative
+239814	genitive
+genitive
+239818	nominative
+239820	genitive
+239822	genitive
+239829	dative
+nominative
+239832	nominative
+239841	nominative
+239848	nominative
 239853	nominative
-239861	nominative
-239866	nominative
-accusative
-239869	nominative
-accusative
+239858	nominative
+239863	genitive
+239867	nominative
 nominative
-dative
-239876	accusative
-239880	nominative
-accusative
-239885	nominative
-239888	nominative
+239871	accusative
+239874	nominative
+239876	dative
+239880	dative
+239883	accusative
 239893	accusative
-239897	nominative
-239903	accusative
-239905	nominative
-239913	accusative
+239895	nominative
+239899	genitive
+239901	genitive
+239907	nominative
+239911	nominative
+239914	nominative
+accusative
 239918	nominative
-239921	nominative
-239923	nominative
-239925	accusative
-239933	nominative
-239936	genitive
-239945	accusative
-239948	nominative
-239950	accusative
-239958	accusative
-accusative
-239968	dative
-239971	nominative
-239974	dative
-239977	accusative
-239981	dative
-239988	nominative
-239992	nominative
-239997	genitive
-239999	dative
-240009	accusative
-240012	genitive
-240022	accusative
-240030	nominative
-240045	genitive
-genitive
-dative
-240049	genitive
-240053	nominative
-240057	nominative
-240061	nominative
-240070	accusative
-240078	accusative
-240088	nominative
-240102	nominative
-240108	nominative
-240113	accusative
-accusative
-240117	dative
 nominative
-240120	nominative
-240122	dative
-240124	nominative
-240126	nominative
-240135	accusative
-240140	accusative
-240147	nominative
-240166	genitive
-genitive
-dative
+239924	nominative
+239939	nominative
+239947	accusative
+239957	nominative
+239959	nominative
+239971	genitive
+239975	accusative
+239978	genitive
+239984	nominative
 nominative
-vocative
-240177	vocative
+239998	nominative
+240000	nominative
+240002	accusative
+accusative
+240010	accusative
+240020	nominative
+nominative
+240032	genitive
+240034	genitive
+240037	genitive
+240043	dative
+240049	accusative
+240051	accusative
+240054	nominative
+240056	nominative
+240058	nominative
+240060	dative
+240063	nominative
+240066	nominative
+240077	nominative
+240090	accusative
+nominative
+240101	dative
+nominative
+nominative
+nominative
+240112	nominative
+nominative
+240123	dative
+240131	nominative
+240140	nominative
+240142	nominative
+240156	nominative
+240169	nominative
+240171	nominative
+240181	nominative
+240183	accusative
+240185	nominative
+240187	accusative
 240189	nominative
-240192	accusative
-240195	nominative
-240198	nominative
-240205	nominative
-240218	nominative
-240224	dative
-240226	dative
-accusative
-accusative
-240244	dative
-240252	accusative
-240254	accusative
-240262	accusative
-accusative
-nominative
-240266	accusative
-240278	accusative
+240194	nominative
+240204	nominative
+240206	nominative
+240210	nominative
+240212	nominative
+240220	nominative
+240238	nominative
+vocative
+vocative
+240251	nominative
+240253	nominative
+240255	nominative
+240258	vocative
+vocative
+240261	nominative
+240287	accusative
+240293	accusative
 240297	nominative
-240300	dative
-nominative
-240313	dative
-240316	dative
-240322	nominative
-nominative
-240327	nominative
-240329	accusative
-240334	nominative
-240344	nominative
-240348	genitive
-240354	dative
-nominative
-240359	accusative
-dative
-240368	nominative
-nominative
-240375	nominative
-240385	nominative
-240398	genitive
-240403	accusative
-240405	nominative
-240407	nominative
-240409	nominative
-240417	accusative
-240439	accusative
-240441	nominative
-240446	dative
-240461	accusative
-240468	nominative
-240470	nominative
-240475	dative
-nominative
-240486	nominative
-240493	nominative
-240500	dative
-240503	accusative
-240506	nominative
-240531	dative
-240533	nominative
-240536	nominative
-240546	accusative
-240548	nominative
-240551	nominative
-240555	accusative
-nominative
-240560	accusative
-240568	nominative
-240582	accusative
-240590	nominative
-240592	nominative
-240603	nominative
-240607	nominative
-240613	accusative
-nominative
-240638	dative
-240645	dative
-240647	nominative
-240653	nominative
-240655	nominative
-240660	accusative
-240663	nominative
-240674	accusative
-240677	nominative
-nominative
-240680	dative
-240682	nominative
-240693	nominative
-240705	accusative
-240716	nominative
-240728	genitive
+240312	accusative
+240317	accusative
+240320	dative
+240331	nominative
+accusative
+240335	dative
+240337	dative
+240340	nominative
+240350	nominative
+240363	genitive
 genitive
-240732	nominative
-240735	genitive
-240737	genitive
-240744	dative
+240376	nominative
+240379	accusative
+accusative
+240385	nominative
+240390	genitive
+240393	nominative
+240398	vocative
+vocative
+240407	nominative
+240409	dative
+240417	nominative
+240423	accusative
 nominative
-240747	nominative
-240756	nominative
+240432	accusative
+nominative
+240438	nominative
+240440	accusative
+240442	accusative
+240448	accusative
+nominative
+240457	accusative
+240459	nominative
+240463	dative
+dative
+240469	nominative
+240476	nominative
+accusative
+240483	accusative
+240485	accusative
+240490	nominative
+accusative
+240501	nominative
+nominative
+240505	accusative
+240509	accusative
+240512	accusative
+240519	dative
+240533	accusative
+240535	nominative
+240539	nominative
+240551	accusative
+accusative
+240558	accusative
+nominative
+240562	dative
+vocative
+vocative
+240567	dative
+240572	genitive
+240580	nominative
+240586	nominative
+240596	accusative
+240598	nominative
+240602	accusative
+240606	nominative
+240608	dative
+genitive
+240611	genitive
+240617	dative
+240620	genitive
+240630	genitive
+240635	nominative
+nominative
+dative
+240639	accusative
+240647	dative
+240656	nominative
+240661	genitive
+240665	dative
+nominative
+nominative
+240674	dative
+240676	nominative
+accusative
+240685	accusative
+240690	accusative
+240700	dative
+240703	accusative
+240707	accusative
+240713	nominative
+240724	nominative
+240742	accusative
+240752	accusative
+240759	accusative
 240763	nominative
-240768	nominative
-240773	nominative
-240778	genitive
-240782	nominative
+240765	nominative
+240784	accusative
+240801	nominative
+240813	nominative
+240817	dative
+240823	dative
+240838	nominative
+240843	nominative
+240860	accusative
 nominative
-240786	accusative
-240789	nominative
-240791	dative
-240795	dative
-240798	accusative
-240808	accusative
-240810	nominative
-240814	genitive
-240816	genitive
-240822	nominative
-240826	nominative
-240829	nominative
-accusative
-240833	nominative
+240877	nominative
+240881	nominative
+240885	nominative
+240888	nominative
+240891	genitive
 nominative
-240839	nominative
-240854	nominative
-240862	accusative
-240872	nominative
-240874	nominative
-240886	genitive
-240890	accusative
-240893	genitive
-240899	nominative
-nominative
-240913	nominative
+240894	nominative
+dative
+240897	nominative
+240900	accusative
+240908	nominative
 240915	nominative
-240917	accusative
 accusative
-240925	accusative
-240935	nominative
-nominative
+240918	nominative
+240923	nominative
+240925	nominative
+dative
+240933	accusative
+240936	accusative
+240938	nominative
+240941	nominative
 240948	genitive
-240950	genitive
-240953	genitive
-240959	dative
-240966	accusative
-240968	accusative
-240971	nominative
+240955	nominative
+240960	nominative
+240966	nominative
 240973	nominative
 240975	nominative
-240977	dative
-240980	nominative
-240983	nominative
-240994	nominative
-241007	accusative
+vocative
+accusative
+accusative
+240984	nominative
+accusative
+240992	accusative
 nominative
-241020	dative
+241005	nominative
+241009	dative
+241018	accusative
+accusative
+241021	nominative
+241024	dative
+accusative
 nominative
-nominative
-nominative
-241031	nominative
+241029	nominative
+241035	accusative
 nominative
 241042	dative
+241048	nominative
 241051	nominative
-241060	nominative
-241062	nominative
+241054	nominative
+241059	nominative
+accusative
+241062	genitive
+241065	accusative
+nominative
 241077	nominative
-241090	nominative
+241082	nominative
+accusative
 241092	nominative
-241102	nominative
-241104	accusative
-241106	nominative
-241108	accusative
-241110	nominative
-241115	nominative
-241125	nominative
-241127	nominative
-241131	nominative
-241133	nominative
-241141	nominative
-241159	nominative
-241162	vocative
-vocative
-241175	nominative
-241177	nominative
-241179	nominative
-241183	vocative
-vocative
-241186	nominative
-241213	accusative
-241219	accusative
-241223	nominative
-241238	accusative
-241243	accusative
-241246	dative
-241258	nominative
-accusative
-241262	dative
-241264	dative
-241267	nominative
-241278	nominative
-241291	genitive
-genitive
-241305	nominative
-241308	accusative
-accusative
-241314	nominative
-241319	genitive
-241322	nominative
-241329	vocative
-vocative
-241338	nominative
-241340	dative
-241348	nominative
-241354	accusative
+241096	nominative
+241105	accusative
+241111	nominative
+241113	dative
+241115	accusative
 nominative
-241363	accusative
+241119	accusative
+241124	nominative
+241130	nominative
+241145	accusative
+241148	nominative
+241151	nominative
+241154	accusative
+241170	nominative
 nominative
-241369	nominative
-241371	accusative
-241373	accusative
-241380	accusative
+241186	genitive
+241213	nominative
+241215	nominative
+241222	nominative
+241231	nominative
+241244	accusative
+241257	nominative
 nominative
-241389	accusative
-241391	nominative
-241396	dative
-dative
-241402	nominative
-241409	nominative
+241262	accusative
+241280	genitive
+nominative
+nominative
+241285	vocative
+vocative
+nominative
+241310	dative
+nominative
+241318	accusative
+241324	nominative
+241329	accusative
+241333	accusative
+241338	accusative
+241356	nominative
+241365	genitive
 accusative
+241377	accusative
+241379	nominative
+nominative
+vocative
+vocative
+241384	genitive
+nominative
+241388	accusative
+241393	accusative
+241397	dative
+241413	accusative
 241416	accusative
-241419	accusative
-241424	nominative
+241420	accusative
+241437	nominative
+241439	accusative
+241442	nominative
+241450	dative
+241455	dative
+241466	nominative
+241471	accusative
 accusative
-241436	nominative
-nominative
-241440	accusative
-241444	accusative
-241447	accusative
-241454	dative
-241468	accusative
-241470	nominative
-241474	nominative
-241486	accusative
+241478	nominative
+241488	accusative
 accusative
-241493	accusative
-nominative
-241497	dative
-241499	vocative
-vocative
-241503	dative
-241509	genitive
-241517	nominative
-241524	nominative
-241535	accusative
-241537	nominative
-241542	accusative
-241546	nominative
-241548	dative
-241550	genitive
-241552	genitive
-241558	dative
-241562	genitive
-241572	genitive
-241578	nominative
-nominative
+241500	accusative
+accusative
+241504	accusative
+241507	nominative
+241531	accusative
 dative
-241582	accusative
-241590	dative
-241599	nominative
-241604	genitive
-241608	dative
 nominative
-nominative
-241617	dative
+241536	dative
+241540	dative
+dative
+241543	accusative
+accusative
+241555	dative
+241573	accusative
+241585	dative
+241595	nominative
+accusative
+241600	nominative
+241602	nominative
+241606	nominative
+241610	nominative
 241619	nominative
-accusative
+nominative
+241627	nominative
 241629	accusative
-241634	accusative
-241644	dative
-241647	accusative
-241651	accusative
-241657	nominative
+241635	accusative
+accusative
+241655	nominative
+nominative
 241668	nominative
-241686	accusative
-241696	accusative
-241703	accusative
-241707	nominative
-241709	nominative
-241728	accusative
-241745	nominative
-241757	nominative
-241761	dative
-241767	dative
-241782	nominative
-241787	nominative
-241805	accusative
-241807	nominative
-241824	nominative
-241828	nominative
+241675	accusative
+accusative
+nominative
+241680	accusative
+241685	accusative
+dative
+241691	accusative
+241694	nominative
+241698	accusative
+241702	accusative
+241706	nominative
+241708	nominative
+accusative
+241711	nominative
+241722	nominative
+241738	dative
+nominative
+241746	nominative
+241754	accusative
+241760	nominative
+241762	accusative
+241766	accusative
+241772	nominative
+241774	nominative
+241783	dative
+241787	accusative
+241810	nominative
+241818	nominative
+241829	accusative
 241832	nominative
-241835	nominative
-241838	genitive
+241838	nominative
+241846	nominative
+accusative
+241849	nominative
 nominative
-241841	nominative
-dative
-241844	nominative
-241847	accusative
-241855	nominative
+241853	dative
 241862	nominative
-accusative
-241865	nominative
-241870	nominative
-241872	nominative
-dative
-241880	accusative
-241884	accusative
-241886	nominative
-241889	nominative
-241896	genitive
-241903	nominative
-241908	nominative
-241914	nominative
-241921	nominative
-241923	nominative
-vocative
-accusative
-accusative
-241932	nominative
-accusative
-241942	accusative
+241865	accusative
+241868	accusative
 nominative
-241955	nominative
-241959	dative
-241968	accusative
-accusative
-241972	nominative
-241975	dative
-accusative
+241875	dative
+241880	nominative
+241903	accusative
+241906	nominative
+241910	dative
+241916	dative
 nominative
-241980	nominative
-241986	accusative
+241920	nominative
+241928	dative
+241938	nominative
+241941	accusative
+accusative
+241945	nominative
+241952	accusative
+241955	genitive
+genitive
+241961	accusative
+241964	dative
 nominative
-241993	dative
+241970	nominative
+nominative
+nominative
+241977	nominative
+241985	nominative
+241987	dative
+241989	accusative
+241995	nominative
+241997	nominative
 241999	nominative
-242002	nominative
-242005	nominative
-242010	nominative
-accusative
-242014	genitive
-242017	accusative
-nominative
-242029	nominative
+242003	dative
+242013	nominative
+242023	nominative
 242034	nominative
 accusative
-242045	nominative
-242049	nominative
-242058	accusative
-242064	nominative
-242066	dative
-242068	accusative
+242044	nominative
 nominative
-242072	accusative
-242078	nominative
-242084	nominative
-242101	accusative
-242104	nominative
-242107	nominative
-242110	accusative
-242126	nominative
+242048	accusative
+242051	dative
+242054	dative
+dative
+242063	nominative
+242070	nominative
+dative
+242074	nominative
+242078	accusative
 nominative
-242143	genitive
-242170	nominative
-242172	nominative
+242081	nominative
+242083	accusative
+242098	nominative
+242103	genitive
+242125	nominative
+242127	nominative
+242130	nominative
+accusative
+242135	nominative
+242138	accusative
+242140	nominative
+242145	nominative
+242147	nominative
+242150	dative
+nominative
+242156	nominative
+242158	accusative
+242161	nominative
+nominative
+242168	nominative
+accusative
+242172	vocative
+accusative
+accusative
 242179	nominative
-242188	nominative
-242201	accusative
-242214	nominative
-nominative
-242219	accusative
+242195	dative
+242206	nominative
+accusative
+242223	nominative
+242225	accusative
+242229	accusative
+242233	nominative
+242235	genitive
 242237	genitive
+242241	nominative
+242258	nominative
+242265	nominative
+accusative
+dative
+accusative
+242270	accusative
+242276	accusative
+242282	nominative
 nominative
-nominative
-242244	vocative
-vocative
-nominative
-242269	dative
-nominative
-242277	accusative
-242283	nominative
-242288	accusative
-242292	accusative
-242297	accusative
-242315	nominative
-242324	genitive
-242326	accusative
+accusative
+242295	nominative
+242297	nominative
+242300	nominative
+242302	accusative
+242304	nominative
+242309	nominative
+242318	nominative
+242323	nominative
 242337	accusative
-242339	nominative
+242345	dative
+242360	nominative
+242365	accusative
 nominative
-242343	vocative
-vocative
-242346	genitive
-nominative
-242350	accusative
-242355	accusative
-242359	dative
-242377	accusative
-242380	accusative
-242384	accusative
-242402	nominative
-242404	accusative
+242368	dative
+242384	genitive
+242392	nominative
+242397	nominative
+242403	nominative
 242407	nominative
-242415	dative
-242420	dative
-242431	nominative
-242436	accusative
-accusative
+242411	accusative
+242416	nominative
+242418	accusative
+242425	nominative
+242428	nominative
+nominative
+242433	accusative
+242435	nominative
 242443	nominative
-242453	accusative
+242445	accusative
+242452	accusative
 accusative
-242465	accusative
-accusative
-242469	accusative
-242472	nominative
-242498	accusative
-dative
+242455	nominative
+242463	accusative
+242475	nominative
 nominative
-242503	dative
-242507	dative
-dative
-242510	accusative
+242482	nominative
+242485	nominative
+242488	nominative
+242495	nominative
+242498	nominative
+242555	nominative
+242560	nominative
+242574	genitive
 accusative
-242522	dative
-242541	accusative
-242553	dative
-242564	nominative
+242581	genitive
 accusative
-242569	nominative
-242571	nominative
-242575	nominative
-242579	nominative
-242588	nominative
-nominative
-242596	nominative
-242598	accusative
-242604	accusative
 accusative
-242624	nominative
-nominative
-242638	nominative
-242645	accusative
-accusative
-nominative
-242650	accusative
-242655	accusative
-dative
-242661	accusative
-242664	nominative
-242668	accusative
-242672	accusative
-242676	nominative
-242678	nominative
-accusative
+242594	dative
+242601	accusative
+242611	dative
+242613	nominative
+242615	accusative
+242620	nominative
+242632	nominative
+242634	genitive
+242639	nominative
+242642	nominative
+242649	nominative
+242651	accusative
+242660	nominative
+242662	nominative
+242670	nominative
+242677	accusative
 242681	nominative
-242692	nominative
-242709	dative
+242683	nominative
+242692	accusative
+242695	nominative
+242698	nominative
+242706	accusative
+242708	nominative
+242710	accusative
 nominative
-242717	nominative
-242725	accusative
-242731	nominative
-242733	accusative
-242737	accusative
-242743	nominative
-242745	nominative
-242755	dative
-242759	accusative
-242782	nominative
-242790	nominative
-242801	accusative
-242804	nominative
-242810	nominative
-242818	nominative
+242713	dative
+242716	nominative
+242723	nominative
+242727	nominative
+242736	nominative
+genitive
+nominative
+nominative
+dative
+242755	nominative
+242758	accusative
+242767	accusative
+242775	accusative
+242793	nominative
+242807	accusative
+242812	nominative
+242827	dative
+242829	accusative
+nominative
+dative
+nominative
 accusative
-242821	nominative
-nominative
-242825	dative
 242835	nominative
-242838	accusative
-242841	accusative
-nominative
-242849	dative
+242838	nominative
+242841	nominative
+242845	genitive
 242855	nominative
-242879	accusative
-242882	nominative
-242886	dative
-242892	dative
+dative
+242865	dative
 nominative
-242896	nominative
-242904	dative
-242915	nominative
-242919	accusative
+242871	nominative
+242877	nominative
+242882	dative
 accusative
-242923	nominative
-242930	accusative
-242933	genitive
+accusative
+242887	accusative
+242896	accusative
+242903	dative
+242906	accusative
+242914	nominative
+242939	nominative
+242943	accusative
 genitive
-242939	accusative
-242942	dative
+242946	genitive
+242948	genitive
 nominative
-242948	nominative
+242958	nominative
 nominative
-nominative
-242955	nominative
-242963	nominative
-242965	dative
-242967	accusative
-242973	nominative
-242975	nominative
-242977	nominative
-242981	dative
-242991	nominative
-243001	nominative
-243012	nominative
-accusative
-243022	nominative
-nominative
-243027	accusative
-243030	dative
-243033	dative
-dative
-243042	nominative
-243049	nominative
-dative
-243053	nominative
-243057	accusative
-nominative
-243060	nominative
-243062	accusative
-243077	nominative
-243082	genitive
-243104	nominative
+242966	nominative
+242973	dative
+242975	genitive
+242994	nominative
+243014	nominative
+243018	nominative
+243020	dative
+243022	accusative
+243026	dative
+243035	nominative
+243040	genitive
+243043	genitive
+243051	accusative
+243054	nominative
+243059	nominative
+243063	genitive
+243083	genitive
+243095	nominative
+243097	nominative
+243103	accusative
 243106	nominative
-243109	nominative
-accusative
-243114	nominative
-243117	accusative
-243119	nominative
+243108	nominative
+243121	nominative
 243124	nominative
-243126	nominative
-243130	dative
-nominative
-243136	nominative
-243138	accusative
-243141	nominative
-nominative
-243148	nominative
-accusative
-243152	vocative
-accusative
-accusative
-243159	nominative
-243175	dative
-243186	nominative
-accusative
-243203	nominative
-243205	accusative
-243209	accusative
-243213	nominative
-243216	genitive
-243218	genitive
-243222	nominative
-243240	nominative
-243248	nominative
-accusative
+243132	nominative
+243137	accusative
+243141	accusative
+243144	nominative
+243146	nominative
+243151	genitive
+243153	genitive
+243160	nominative
+243162	nominative
+243167	genitive
+243172	nominative
+243175	nominative
+243177	nominative
+243182	nominative
+243185	nominative
+243191	nominative
+243200	nominative
 dative
-accusative
-243253	accusative
-243259	accusative
-243265	nominative
 nominative
+243207	nominative
+nominative
+243211	nominative
+243217	nominative
+243225	nominative
 accusative
-243278	nominative
-243280	nominative
-243283	nominative
+243229	nominative
+243236	nominative
+243238	genitive
+243242	accusative
+243244	accusative
+dative
+243250	genitive
+243252	genitive
+243256	nominative
+243261	nominative
+nominative
+243264	accusative
+dative
+243272	dative
+nominative
+243278	accusative
 243285	accusative
-243287	nominative
-243292	nominative
-243301	nominative
-243306	nominative
-243321	accusative
-243329	dative
-243344	nominative
-243350	accusative
+accusative
+243299	nominative
 nominative
-243353	dative
-243370	genitive
-243378	nominative
+243313	nominative
+243321	nominative
+nominative
+243326	nominative
+243328	accusative
+243332	nominative
+243336	nominative
+243345	genitive
+dative
+243348	accusative
+243357	dative
+243365	nominative
+243380	nominative
 243383	nominative
-243389	nominative
-243393	nominative
-243397	accusative
-243402	nominative
-243404	accusative
-243411	nominative
-243414	nominative
+243387	nominative
+243392	nominative
+243396	nominative
+243403	accusative
+243415	accusative
+243425	accusative
+243448	genitive
+243452	accusative
+243460	nominative
+243462	accusative
+243464	accusative
 nominative
-243419	accusative
-243421	nominative
-243429	nominative
-243431	accusative
-243438	accusative
-accusative
-243441	nominative
-243449	accusative
-243461	nominative
+243474	accusative
 nominative
-243468	nominative
-243471	nominative
-243474	nominative
-243481	nominative
-243484	nominative
-243542	nominative
-243547	nominative
-243562	genitive
-accusative
-243570	genitive
-accusative
-accusative
-243583	dative
-243590	accusative
-243600	dative
-243603	nominative
-243605	accusative
-243611	nominative
-243623	nominative
-243625	genitive
-243630	nominative
-243634	nominative
-243641	nominative
-243643	accusative
-243652	nominative
-243654	nominative
-243662	nominative
-243669	accusative
-243673	nominative
-243675	nominative
-243684	accusative
-243687	nominative
-243690	nominative
-243699	accusative
-243701	nominative
-243703	accusative
+243481	dative
+243489	nominative
+243491	nominative
+243494	nominative
+243502	nominative
+genitive
+243509	accusative
+243514	nominative
+243517	nominative
+243522	dative
+243527	nominative
+243538	genitive
+243547	genitive
 nominative
-243706	dative
-243709	nominative
-243716	nominative
+243570	nominative
+243575	nominative
+243581	nominative
+243585	accusative
+243588	accusative
+243591	nominative
+243597	genitive
+dative
+243601	nominative
+243603	accusative
+243618	nominative
+243620	dative
+nominative
+243629	nominative
+243636	vocative
+243657	nominative
+243660	nominative
+243664	nominative
+243666	nominative
+243668	accusative
+243670	nominative
+243672	dative
+243692	accusative
+243700	nominative
+243703	nominative
+nominative
+genitive
+243707	nominative
+nominative
 243720	nominative
-243729	nominative
-genitive
-nominative
-nominative
+243726	genitive
+243728	genitive
+243734	accusative
+243741	nominative
 dative
-243748	nominative
-243751	accusative
-243760	accusative
-243768	accusative
-243787	nominative
-243801	accusative
+nominative
+nominative
+243749	accusative
+243752	nominative
+243771	accusative
+genitive
+accusative
+243777	nominative
+243782	nominative
+243785	nominative
+243793	nominative
+nominative
+243797	nominative
 243806	nominative
-243823	dative
-243825	accusative
+243812	accusative
+243818	genitive
+243820	genitive
+genitive
+243823	accusative
+accusative
+243837	accusative
+243850	accusative
 nominative
+243854	nominative
+243857	dative
+243860	accusative
+243871	genitive
+243875	genitive
+243880	accusative
+243885	accusative
+nominative
+243894	nominative
+243898	nominative
+nominative
+243904	nominative
+243909	nominative
+accusative
+243915	nominative
+243918	genitive
+genitive
 dative
+243923	dative
+243933	dative
+243951	nominative
+243953	nominative
+243955	accusative
+243957	nominative
+243980	genitive
+genitive
+243983	accusative
+243986	dative
 nominative
+244001	nominative
+244005	dative
+nominative
+244009	nominative
+244011	genitive
+244014	nominative
+244023	nominative
+nominative
+244028	dative
+244030	nominative
+244040	nominative
+244043	nominative
+244046	nominative
+244049	nominative
+244056	accusative
+244060	nominative
+244062	nominative
+244069	nominative
+244075	nominative
+nominative
+244081	dative
+244084	nominative
 accusative
-243831	nominative
-243834	nominative
-243837	nominative
-243841	genitive
-243851	nominative
+244089	nominative
 dative
-243861	dative
-nominative
-243867	nominative
-243874	nominative
-243879	dative
-accusative
-accusative
-243884	accusative
-243893	accusative
-243900	dative
-243903	accusative
-243911	nominative
-243937	nominative
-243941	accusative
-243943	genitive
-243945	genitive
-243947	genitive
-nominative
-243958	nominative
-nominative
-243966	nominative
-243974	dative
-243976	genitive
-243995	nominative
-244015	nominative
-244019	nominative
-244021	dative
-244023	accusative
-244027	dative
-244036	nominative
-244042	genitive
-244045	genitive
-244053	accusative
-244056	nominative
-244061	nominative
-244065	genitive
-244086	genitive
-244100	nominative
-244102	nominative
-244108	accusative
-244111	nominative
-244113	nominative
+244098	dative
+244109	dative
+244116	nominative
+244118	dative
 244127	nominative
-244130	nominative
-244139	nominative
-244144	accusative
-244149	accusative
+244138	dative
+nominative
 244152	nominative
-244154	nominative
 244159	genitive
-244161	genitive
-244168	nominative
-244170	nominative
-244176	genitive
-244181	nominative
-244184	nominative
-244186	nominative
-244191	nominative
+dative
+244168	genitive
+244170	dative
+244173	accusative
+244177	nominative
 244194	nominative
-244200	nominative
-244209	nominative
+nominative
+244200	accusative
 dative
+244203	nominative
+244211	dative
 nominative
-244216	nominative
+244216	accusative
+244230	accusative
+244244	nominative
+244254	nominative
+244258	dative
+244263	nominative
+244277	dative
+244284	accusative
+244289	accusative
+244294	accusative
+244300	nominative
+244310	nominative
+244316	nominative
 nominative
-244220	nominative
-244226	nominative
-244234	nominative
 accusative
-244238	nominative
-244245	nominative
-244247	genitive
-244251	accusative
-244253	accusative
-dative
-244261	genitive
-244263	genitive
-244267	nominative
-244273	nominative
+244324	nominative
+244326	accusative
+244332	nominative
+244337	accusative
+244346	dative
+244354	dative
+244359	nominative
+244366	dative
+244371	accusative
+244373	dative
+244375	accusative
+244378	genitive
+244385	nominative
+244388	nominative
+244395	accusative
 nominative
-244276	accusative
-dative
-244284	dative
 nominative
-244290	accusative
-244297	accusative
+244403	nominative
+244408	nominative
+244414	accusative
+nominative
+244419	dative
+244428	accusative
+244435	accusative
 accusative
-244311	nominative
-244313	nominative
-244326	nominative
-244334	nominative
-nominative
-244339	nominative
-244341	accusative
-244345	nominative
-244349	nominative
-244359	genitive
-dative
-244362	accusative
-244371	dative
-244379	nominative
-244395	nominative
-244398	nominative
-244402	nominative
-244407	nominative
-244411	nominative
-244418	accusative
-244430	accusative
-244440	accusative
-244463	genitive
-244467	accusative
-244475	nominative
-244477	accusative
-244480	accusative
-nominative
-244490	accusative
-nominative
-244497	dative
-244505	nominative
-244507	nominative
+244438	nominative
+244449	nominative
+244451	accusative
+244453	nominative
+244456	nominative
+244460	nominative
+accusative
+accusative
+244473	nominative
+244479	nominative
+244491	accusative
+244494	nominative
+244496	genitive
+accusative
+genitive
+244506	nominative
 244510	nominative
-244519	nominative
-genitive
-244526	accusative
+244512	accusative
+244518	nominative
+244523	nominative
+244526	nominative
 244531	nominative
-244534	nominative
-244539	dative
-244544	nominative
-244555	genitive
-244564	genitive
-nominative
-244588	nominative
-244593	nominative
-244599	nominative
-244603	accusative
-244606	accusative
-244609	nominative
-244615	genitive
-dative
-244619	nominative
-244621	accusative
-244636	nominative
-244638	dative
-nominative
-244647	nominative
-244654	vocative
-244675	nominative
-244678	nominative
-244682	nominative
-244684	nominative
-244686	accusative
-244688	nominative
-244690	dative
-244710	accusative
-244718	nominative
-244721	nominative
-nominative
+244538	nominative
+244542	nominative
+244549	genitive
+244554	dative
+244560	nominative
 genitive
-244725	nominative
+244570	dative
 nominative
-244738	nominative
-244744	genitive
-244746	genitive
-244752	accusative
-244759	nominative
-dative
-nominative
-nominative
-244767	accusative
-244770	nominative
-244790	accusative
-genitive
+244574	nominative
+244577	nominative
+244581	nominative
+244588	accusative
+244594	genitive
+244609	accusative
+244617	accusative
+244622	accusative
+244625	nominative
+244627	nominative
+244630	nominative
+244633	accusative
+244647	genitive
+244649	genitive
+244651	nominative
+244660	nominative
+244670	nominative
+244677	genitive
+244679	genitive
+244683	accusative
+244686	dative
+244696	nominative
 accusative
-244796	nominative
-244801	nominative
+244701	genitive
+244709	nominative
+244711	nominative
+244716	dative
+244719	vocative
+244725	genitive
+244727	nominative
+244743	nominative
+244747	accusative
+244752	nominative
+244759	accusative
+244762	accusative
+dative
+244766	dative
+244769	accusative
+nominative
+244773	accusative
+nominative
+244785	nominative
+244787	genitive
+244790	nominative
+244795	nominative
+244801	genitive
+nominative
 244804	nominative
-244813	nominative
-nominative
-244817	nominative
-244826	nominative
-244832	accusative
-244838	genitive
-244840	genitive
-genitive
-244843	accusative
+244806	accusative
+244815	nominative
+244819	dative
+244821	nominative
+244825	nominative
+244847	nominative
 accusative
-244857	accusative
-244871	accusative
-244873	nominative
-244876	nominative
-244879	dative
-244883	accusative
-244894	genitive
-244898	genitive
-244903	accusative
-244908	accusative
-nominative
-244917	nominative
-244921	nominative
-nominative
-244927	nominative
-244932	nominative
-accusative
-244939	nominative
-244943	genitive
-genitive
-dative
-244948	dative
-244958	dative
-244976	nominative
-244978	nominative
-244980	accusative
-244982	nominative
-245007	genitive
-genitive
-245010	accusative
-245013	dative
-nominative
-245029	nominative
-245033	dative
-nominative
-245038	nominative
-245040	genitive
-245043	nominative
-245052	nominative
-nominative
-245057	dative
-245059	nominative
-245070	nominative
-245073	nominative
-245076	nominative
-245079	nominative
-245086	accusative
-245091	nominative
-245093	nominative
-245100	nominative
-245106	nominative
-nominative
-245112	dative
-245116	nominative
-accusative
-245121	nominative
-dative
-245130	dative
-245142	dative
-245150	nominative
-245152	dative
-245161	nominative
-245173	dative
-nominative
-245188	nominative
-245195	genitive
-dative
-245204	genitive
-245206	dative
-245209	accusative
-245213	nominative
-245231	nominative
-nominative
-245237	accusative
-dative
-245240	nominative
-245248	dative
-nominative
-245253	accusative
-245269	accusative
-245284	nominative
-245295	nominative
-245300	dative
-245305	nominative
-245319	dative
-245327	accusative
-245332	accusative
-245338	accusative
-245344	nominative
-245354	nominative
-245360	nominative
-nominative
-accusative
-245368	nominative
-245370	accusative
-245376	nominative
-245381	accusative
-245390	dative
-245398	dative
-245403	nominative
-245410	dative
-245415	accusative
-245417	dative
-245419	accusative
-245422	genitive
-245429	nominative
-245432	nominative
-245439	accusative
-nominative
-nominative
-245447	nominative
-245452	nominative
-245458	accusative
-nominative
-245464	dative
-245473	accusative
-245480	accusative
-accusative
-245483	nominative
-245495	nominative
-245497	accusative
-245499	nominative
-245502	nominative
-245506	nominative
-accusative
-accusative
-245520	nominative
-245526	nominative
-245539	accusative
-245542	nominative
-245544	genitive
-accusative
-genitive
-245554	nominative
-245558	nominative
-245560	accusative
-245566	nominative
-245571	nominative
-245574	nominative
-245579	nominative
-245586	nominative
-245590	nominative
-245597	genitive
-245602	dative
-245608	nominative
-245610	genitive
-245619	dative
-nominative
-245623	nominative
-245626	nominative
-245630	nominative
-245637	accusative
-245644	genitive
-245660	accusative
-245668	accusative
-245674	accusative
-245677	nominative
-245679	nominative
-245682	nominative
-245685	accusative
-245699	genitive
-245701	genitive
-245703	nominative
-245712	nominative
-245722	nominative
-245731	genitive
-245733	genitive
-245737	accusative
-245740	dative
-245750	nominative
-accusative
-245755	genitive
-245763	nominative
-245765	nominative
-245770	dative
-245774	vocative
-245780	genitive
-245782	nominative
-245798	nominative
-245802	accusative
-245807	nominative
-245814	accusative
-245817	accusative
-dative
-245821	dative
-245824	accusative
-nominative
-245828	accusative
-nominative
-245840	nominative
-245842	genitive
-245845	nominative
-245850	nominative
-245856	genitive
-nominative
-245859	nominative
-245861	accusative
-245870	nominative
-245874	dative
-245876	nominative
-245880	nominative
-245903	nominative
-accusative
-245914	nominative
-245917	vocative
+244858	nominative
 vocative
-245921	nominative
-245933	accusative
-245935	nominative
-245956	accusative
-245974	nominative
-245977	accusative
-245985	genitive
-245987	accusative
-245990	nominative
-245996	nominative
-245998	nominative
+vocative
+244863	nominative
+244875	accusative
+244877	nominative
+244897	accusative
+244915	nominative
+244918	accusative
+244925	genitive
+244927	accusative
+244930	nominative
+244936	nominative
+244938	nominative
+244943	nominative
+244945	nominative
+244951	nominative
+244954	nominative
+244957	genitive
+244965	nominative
+244968	nominative
+244970	nominative
+244977	genitive
+244979	genitive
+244986	accusative
+244996	accusative
+245008	nominative
+245010	accusative
+nominative
+245020	dative
+245022	accusative
+245024	nominative
+245031	nominative
+245038	nominative
+245040	nominative
+245051	nominative
+245063	genitive
+245065	dative
+245069	genitive
+245071	genitive
+245073	nominative
+245081	genitive
+245085	nominative
+vocative
+245095	nominative
+245101	dative
+245104	accusative
+245107	nominative
+245111	nominative
+245115	nominative
+245123	nominative
+245129	nominative
+245135	nominative
+245150	dative
+245156	nominative
+245161	nominative
+245164	accusative
+accusative
+245171	dative
+245173	dative
+245175	dative
+245191	genitive
+genitive
+dative
+vocative
+vocative
+accusative
+accusative
+245199	nominative
+245202	nominative
+245204	vocative
+245208	nominative
+245212	accusative
+nominative
+245217	nominative
+245226	genitive
+dative
+245230	accusative
+245232	vocative
+245237	nominative
+245241	dative
+245245	genitive
+245247	dative
+245258	nominative
+245260	genitive
+dative
+245272	nominative
+245277	genitive
+245279	nominative
+245282	nominative
+245284	dative
+vocative
+vocative
+245288	nominative
+245293	nominative
+245301	accusative
+245318	dative
+245321	genitive
+245326	accusative
+245328	nominative
+245334	nominative
+245339	dative
+245341	dative
+245344	genitive
+genitive
+245349	accusative
+245353	accusative
+accusative
+dative
+245367	nominative
+245369	vocative
+nominative
+245373	nominative
+245378	accusative
+245391	nominative
+245393	nominative
+245395	nominative
+245398	genitive
+accusative
+245405	nominative
+245407	accusative
+245409	accusative
+245412	genitive
+245420	nominative
+245428	accusative
+245430	genitive
+245432	genitive
+245435	genitive
+245438	accusative
+genitive
+245445	accusative
+245448	nominative
+dative
+245451	accusative
+245458	dative
+245462	accusative
+245468	accusative
+245473	dative
+245475	nominative
+245478	nominative
+245481	nominative
+accusative
+245488	nominative
+245490	nominative
+245494	dative
+245496	dative
+nominative
+nominative
+245500	nominative
+245507	nominative
+245515	nominative
+245523	nominative
+accusative
+245530	nominative
+245532	nominative
+245536	accusative
+245540	nominative
+245544	accusative
+245549	accusative
+245560	nominative
+245564	nominative
+245569	vocative
+vocative
+nominative
+245583	dative
+dative
+245593	accusative
+245597	vocative
+245600	nominative
+accusative
+245605	nominative
+245607	accusative
+245610	nominative
+245621	vocative
+245624	nominative
+245634	nominative
+245641	genitive
+245644	genitive
+245648	vocative
+vocative
+nominative
+nominative
+245659	accusative
+245661	genitive
+genitive
+245672	nominative
+245680	nominative
+245688	nominative
+245696	nominative
+245706	nominative
+245708	dative
+245710	nominative
+245713	genitive
+nominative
+245723	accusative
+245725	accusative
+245735	dative
+nominative
+dative
+245748	accusative
+245753	genitive
+245755	genitive
+nominative
+accusative
+245760	accusative
+nominative
+245766	genitive
+245774	nominative
+nominative
+nominative
+245782	dative
+245784	accusative
+genitive
+245788	genitive
+245793	nominative
+245800	accusative
+245803	accusative
+245805	accusative
+245808	nominative
+245812	accusative
+nominative
+245816	accusative
+nominative
+245825	nominative
+245827	nominative
+245832	nominative
+245846	accusative
+dative
+nominative
+245850	nominative
+accusative
+245859	nominative
+accusative
+245866	accusative
+accusative
+245869	dative
+245871	nominative
+245877	nominative
+245880	nominative
+245882	accusative
+245885	dative
+245892	accusative
+245900	nominative
+accusative
+245905	nominative
+245909	dative
+245913	accusative
+245918	nominative
+245920	accusative
+245925	genitive
+245927	accusative
+245931	nominative
+nominative
+245941	nominative
+dative
+245945	accusative
+245949	nominative
+245969	accusative
+245973	nominative
+245979	nominative
+245981	accusative
+245992	accusative
+245996	accusative
+245999	nominative
 246003	nominative
 246005	nominative
-246011	nominative
-246014	nominative
-246017	genitive
-246025	nominative
-246028	nominative
-246030	nominative
-246037	genitive
-246039	genitive
-246046	accusative
-246058	accusative
-246070	nominative
-246072	accusative
+246007	nominative
+246013	dative
+246018	accusative
+246020	accusative
+246031	accusative
+genitive
+246034	dative
+genitive
+246042	nominative
+246052	accusative
+dative
 nominative
-246082	dative
-246084	accusative
+246062	nominative
+246069	nominative
+246071	nominative
+246075	nominative
+246081	dative
+246083	nominative
 246086	nominative
-246093	nominative
-246100	nominative
+246091	nominative
+246095	genitive
 246102	nominative
-246114	nominative
+246108	accusative
+246121	nominative
 246126	genitive
-246128	dative
-246133	genitive
-246135	genitive
-246137	nominative
-246145	genitive
-246149	nominative
-246152	vocative
-246161	nominative
-246167	dative
+246128	genitive
+246132	nominative
+246134	nominative
+246137	genitive
+genitive
+246155	accusative
+246159	accusative
+genitive
+246164	nominative
 246170	accusative
-246173	nominative
-246177	nominative
-246181	nominative
-246189	nominative
-246195	nominative
-246201	nominative
-246216	dative
-246222	nominative
-246227	nominative
-246230	accusative
 accusative
-246237	dative
-246239	dative
-246241	dative
-246257	genitive
-genitive
-dative
-246262	vocative
-vocative
-accusative
-accusative
-246267	nominative
-246270	nominative
-246272	vocative
-246276	nominative
-246281	accusative
+246183	nominative
+246188	accusative
+246193	nominative
 nominative
-246286	nominative
-246295	genitive
+246198	genitive
+nominative
+246201	genitive
+246206	nominative
+accusative
+246213	genitive
 dative
+246219	accusative
+accusative
+accusative
+246224	nominative
+246229	genitive
+genitive
+246234	nominative
+246236	dative
+246239	genitive
+246241	nominative
+246251	accusative
+246253	accusative
+246256	accusative
+246266	dative
+246268	genitive
+246271	genitive
+246274	accusative
+dative
+246278	accusative
+246280	accusative
+246285	nominative
+246294	dative
+246296	nominative
 246299	accusative
-246301	vocative
-246307	nominative
-246311	dative
-246315	genitive
-246317	dative
-246328	nominative
-246330	genitive
-dative
-246342	nominative
-246347	genitive
-246349	nominative
-246352	nominative
-246354	dative
-246357	vocative
-vocative
-246360	nominative
-246365	nominative
-246373	accusative
-246390	dative
-246393	genitive
+246322	accusative
+nominative
+246329	accusative
+246332	accusative
+accusative
+246345	accusative
+246351	accusative
+246359	genitive
+genitive
+246367	genitive
+246370	nominative
+246373	nominative
+246379	accusative
+246381	accusative
+nominative
+246386	nominative
+246394	nominative
 246398	accusative
-246400	nominative
-246406	nominative
-246411	dative
-246413	dative
-246416	genitive
-genitive
-246421	accusative
-246425	accusative
-accusative
+246402	accusative
+246409	dative
+246413	nominative
+246420	dative
 dative
-246440	nominative
-246442	vocative
+246426	genitive
+246432	genitive
+246434	genitive
+246440	genitive
 nominative
-246446	nominative
-246451	accusative
-246465	nominative
-246467	nominative
-246469	nominative
+nominative
+246447	accusative
+246449	accusative
+246451	nominative
+246453	accusative
+246456	nominative
+246458	accusative
+246460	dative
+246465	accusative
+accusative
+nominative
+246469	dative
+genitive
 246472	genitive
+246477	nominative
+246479	accusative
+246485	accusative
+nominative
+246488	nominative
+246498	dative
+246509	accusative
+nominative
 accusative
-246480	nominative
-246482	accusative
-246484	accusative
-246487	genitive
-246495	nominative
-246504	accusative
-246507	genitive
-246509	genitive
-246512	genitive
-246515	accusative
-genitive
-246522	accusative
-246525	nominative
-dative
-246528	accusative
-246535	dative
-246540	accusative
-246546	accusative
-246551	dative
-246553	nominative
-246556	nominative
-246559	nominative
-246561	accusative
-246567	nominative
-246569	nominative
-246573	dative
-246575	dative
+246514	accusative
+246516	accusative
 nominative
+246519	accusative
+246530	accusative
+246540	nominative
+246547	genitive
 nominative
-246579	nominative
-246586	nominative
-246594	nominative
+246555	nominative
+246558	nominative
+246564	genitive
+246566	genitive
+246568	accusative
+246572	nominative
+246575	nominative
+accusative
+246581	genitive
+246594	accusative
+246598	nominative
+246600	accusative
 246602	nominative
-accusative
-246609	nominative
-246611	nominative
-246615	accusative
-246619	nominative
+246607	nominative
+246620	accusative
 246623	accusative
-246628	accusative
-246639	nominative
+accusative
+246627	accusative
 246643	nominative
-246650	vocative
-vocative
+246645	genitive
 nominative
-246664	dative
-dative
-246675	accusative
-246679	vocative
-246682	nominative
+246648	genitive
+nominative
 accusative
-246687	nominative
-246689	accusative
+246652	dative
+246654	accusative
+246658	nominative
+246662	accusative
+246668	genitive
+246675	nominative
+246688	nominative
 246692	nominative
-246704	vocative
-246707	nominative
-246717	nominative
-246724	genitive
-246727	genitive
-246733	vocative
-vocative
-246737	nominative
+246695	genitive
+genitive
+246705	nominative
+246707	accusative
+246713	nominative
+dative
+246720	nominative
+246729	genitive
+246733	nominative
+246735	nominative
+246742	nominative
+246747	genitive
 nominative
-246748	accusative
 246750	genitive
-genitive
-246761	nominative
-246769	nominative
-246777	nominative
-246785	nominative
-246795	nominative
-246797	dative
+246763	genitive
+accusative
+246768	nominative
+246770	nominative
+246784	genitive
+246786	accusative
+246793	accusative
+246795	genitive
+246797	accusative
 246799	nominative
-246802	genitive
-246804	nominative
-246813	accusative
-246815	accusative
-246825	dative
-nominative
+246810	genitive
+246814	genitive
+246822	genitive
+246834	genitive
+246847	nominative
 dative
-246840	accusative
-246846	genitive
-246848	genitive
-nominative
+246856	dative
+246860	nominative
+246863	accusative
+246866	nominative
+246871	accusative
+246875	genitive
+246887	accusative
+246896	genitive
+246898	accusative
+246900	nominative
+246902	dative
+246904	accusative
 accusative
-246853	accusative
-nominative
-246859	genitive
-246868	nominative
-nominative
-nominative
-246876	dative
-246878	accusative
-genitive
-246882	genitive
-246887	nominative
-246894	accusative
-246897	accusative
-246899	accusative
-246902	nominative
-246906	accusative
-nominative
-246910	accusative
-nominative
-246919	nominative
-246921	nominative
-246926	nominative
+246912	nominative
+246918	dative
+246923	nominative
+246928	genitive
+246933	accusative
+accusative
+246936	nominative
 246941	accusative
+accusative
+246953	genitive
+246962	accusative
+246971	nominative
+accusative
+246985	nominative
+246995	genitive
+246999	nominative
+247006	nominative
+247013	vocative
+accusative
+accusative
+247020	accusative
+247022	nominative
+247026	dative
+247035	accusative
+247044	nominative
+247051	nominative
+247053	genitive
+247055	genitive
+247057	accusative
+247063	nominative
+accusative
+247069	nominative
 dative
-nominative
-246945	nominative
+247079	nominative
+247092	vocative
+247098	accusative
+247100	accusative
+247103	accusative
+247106	genitive
+247110	accusative
 accusative
-246954	nominative
+247115	vocative
+vocative
 accusative
-246961	accusative
 accusative
-246964	dative
-246966	nominative
-246972	nominative
-246975	nominative
-246977	accusative
-246980	dative
-246987	accusative
-246995	nominative
-accusative
-247000	nominative
-247004	dative
-247008	accusative
-247014	nominative
-247016	accusative
-247021	genitive
-247023	accusative
-247027	nominative
-nominative
-247037	nominative
+247120	nominative
 dative
-247041	accusative
-247046	nominative
-247066	accusative
-247070	nominative
-247076	nominative
-247078	accusative
-247090	accusative
-247094	accusative
-247097	nominative
-247101	nominative
-247103	nominative
-247105	nominative
-247112	dative
-247117	accusative
-247119	accusative
-247130	accusative
-genitive
-247133	dative
-genitive
-247141	nominative
-247151	accusative
-dative
+247124	nominative
+247127	nominative
+247129	vocative
+247133	nominative
+247135	accusative
 nominative
-247161	nominative
-247168	nominative
-247170	nominative
-247174	nominative
-247180	dative
-247183	nominative
-247186	nominative
-247191	nominative
-247196	genitive
-247203	nominative
-247209	accusative
-247222	nominative
-247227	genitive
-247229	genitive
-247233	nominative
-247235	nominative
-247238	genitive
+247148	dative
+247150	accusative
+247154	genitive
+247157	accusative
 genitive
-247257	accusative
-247261	accusative
+247161	dative
+nominative
+accusative
+247171	nominative
+247173	accusative
+247189	accusative
+247195	dative
+247202	nominative
+247230	accusative
+247232	accusative
+nominative
+nominative
+247241	nominative
+247249	nominative
+247253	accusative
+247255	nominative
 genitive
+247261	genitive
+247264	nominative
 247266	nominative
-247272	accusative
-accusative
-247285	nominative
-247290	accusative
-247295	nominative
-nominative
-247300	genitive
-nominative
-247303	genitive
+247269	accusative
+247277	accusative
+247279	genitive
+genitive
+247286	vocative
+247289	accusative
 247308	nominative
-accusative
-247316	genitive
-dative
-247322	accusative
-accusative
-accusative
-247327	nominative
-247332	genitive
+247312	accusative
 genitive
-247337	nominative
-247339	dative
-247342	genitive
-247344	nominative
-247354	accusative
-247356	accusative
-247359	accusative
-247369	dative
-247371	genitive
-247374	genitive
-247377	accusative
-dative
-247382	accusative
-247384	accusative
-247389	nominative
-247398	dative
-247402	nominative
-247405	accusative
-247428	accusative
-nominative
-247435	accusative
-247438	accusative
-accusative
-247451	accusative
-247457	accusative
-247466	genitive
+247316	accusative
+247321	nominative
+247333	accusative
+247335	accusative
+247351	accusative
 genitive
-247475	genitive
-247478	nominative
-247481	nominative
-247487	accusative
-247489	accusative
-nominative
-247494	nominative
-247503	nominative
-247507	accusative
-247511	accusative
-247518	dative
-247522	nominative
-247529	dative
+247355	nominative
+247372	nominative
 dative
-247535	genitive
-247541	genitive
-247543	genitive
-247549	genitive
-nominative
-nominative
-247556	accusative
-247558	accusative
-247560	nominative
-247562	accusative
-247565	nominative
-247567	accusative
-247569	dative
-247574	accusative
+247375	nominative
+247378	nominative
+247387	nominative
+247398	accusative
+247403	accusative
+247415	dative
+dative
+247418	nominative
+247422	dative
+247430	genitive
+247442	nominative
+247446	dative
+genitive
+247450	nominative
+247456	accusative
+247465	nominative
+247471	nominative
+247475	accusative
+247479	accusative
+247484	nominative
+247487	nominative
+247491	genitive
 accusative
-nominative
-247578	dative
-247580	genitive
+247499	nominative
+accusative
+247505	accusative
+247512	genitive
+247514	genitive
+247516	genitive
+247525	nominative
+dative
+vocative
+247558	dative
+genitive
+247562	genitive
+247566	accusative
+247570	nominative
+247577	accusative
 247582	genitive
-247587	nominative
-247589	accusative
-247595	accusative
+247584	genitive
 nominative
-247598	nominative
-247608	dative
-247619	accusative
+247588	nominative
+247599	nominative
 nominative
+247602	genitive
+247607	genitive
+247610	nominative
+247615	nominative
 accusative
-247624	accusative
-247626	accusative
-nominative
-247629	accusative
-247640	accusative
-247650	nominative
-247657	genitive
-nominative
-247665	nominative
-247668	nominative
-247676	genitive
-247678	genitive
-247680	accusative
-247684	nominative
-247687	nominative
 accusative
-247693	genitive
-247706	accusative
-247710	nominative
-247712	accusative
-247714	nominative
-247719	nominative
-247733	accusative
-247737	accusative
-accusative
-247741	accusative
-247759	nominative
-247761	genitive
+247620	nominative
+247623	accusative
 nominative
-247764	genitive
-nominative
-accusative
-247768	dative
-247770	accusative
-247774	nominative
-247779	accusative
-247786	genitive
-247793	nominative
-247807	nominative
-247811	nominative
-247814	genitive
-genitive
-247824	nominative
-247826	accusative
-247832	nominative
 dative
-247839	nominative
-247848	genitive
-247852	nominative
+247627	nominative
+247629	nominative
+247635	nominative
+247641	genitive
+genitive
+247644	accusative
+247648	nominative
+247658	genitive
+247664	genitive
+accusative
+247670	accusative
+247673	genitive
+247675	nominative
+247683	accusative
+dative
+247699	accusative
+247703	nominative
+247710	dative
+247715	genitive
+247717	dative
+247720	nominative
+247723	vocative
+dative
+accusative
+247731	dative
+247734	accusative
+247738	vocative
+247748	dative
+247753	accusative
+247759	genitive
+genitive
+247770	dative
+247772	nominative
+247776	accusative
+247778	nominative
+247781	nominative
+247784	nominative
+247792	nominative
+247795	accusative
+247799	genitive
+247804	genitive
+247808	dative
+247811	accusative
+genitive
+247822	nominative
+247826	nominative
+247838	accusative
+247842	genitive
+nominative
+247848	accusative
+247850	genitive
+nominative
 247854	nominative
-247861	nominative
-247867	genitive
 nominative
-247870	genitive
-247884	genitive
+247857	accusative
+nominative
+247861	accusative
+247863	genitive
+nominative
+247877	nominative
+247879	accusative
+247881	nominative
 accusative
-247889	nominative
-247891	nominative
-247906	genitive
-247908	accusative
-247915	accusative
-247917	genitive
-247919	accusative
-247922	nominative
-247933	genitive
-247938	genitive
-247946	genitive
-247958	genitive
-247971	nominative
+247887	nominative
+247890	nominative
+247892	nominative
+nominative
+247896	genitive
+247905	nominative
+247907	genitive
+247910	nominative
+247916	nominative
+247925	accusative
+accusative
+247934	nominative
+247939	nominative
+247944	nominative
+247946	dative
+247950	nominative
+247960	nominative
+247962	nominative
+247976	nominative
+nominative
+247981	nominative
+247985	accusative
+247990	accusative
+247992	accusative
+accusative
+247999	accusative
+248002	accusative
+248012	accusative
+248017	nominative
+248021	nominative
+248030	accusative
 dative
-247981	dative
-247985	nominative
-247988	accusative
-247991	nominative
-247996	accusative
-248000	genitive
-248013	accusative
-248023	genitive
-248025	accusative
-248027	nominative
-248029	dative
-248031	accusative
+nominative
+248034	accusative
+248041	accusative
+248046	genitive
+248052	genitive
+248055	nominative
+248058	nominative
+248066	accusative
+248074	nominative
+248078	accusative
 accusative
-248039	nominative
-248045	dative
-248050	nominative
-248056	genitive
-248061	accusative
-accusative
-248064	nominative
-248069	accusative
-accusative
-248081	genitive
-248090	accusative
-248099	nominative
-accusative
-248113	nominative
-248123	genitive
+248086	nominative
+248089	nominative
+248095	nominative
+248099	accusative
+248105	accusative
+248108	genitive
+genitive
+248111	genitive
+248114	accusative
+nominative
+248117	accusative
+248119	accusative
 248127	nominative
-248134	nominative
-248141	vocative
+248132	dative
+dative
+nominative
+nominative
 accusative
+248147	accusative
+248151	nominative
+248153	nominative
+nominative
+248156	dative
+248158	accusative
+genitive
+248161	genitive
+248167	nominative
 accusative
-248148	accusative
-248150	nominative
-248154	dative
-248163	accusative
 248172	nominative
-248179	nominative
-248182	genitive
-248184	genitive
-248186	accusative
-248192	nominative
-accusative
-248198	nominative
+248176	accusative
+248178	dative
+248191	dative
+248194	dative
 dative
-248208	nominative
-248221	vocative
-248227	accusative
-248229	accusative
-248232	accusative
-248236	genitive
-248240	accusative
-accusative
-248247	vocative
-vocative
-248250	accusative
-accusative
-248253	nominative
-dative
-248257	nominative
-248260	nominative
-248262	vocative
-248266	nominative
-248269	accusative
-nominative
-248282	dative
-248284	accusative
-248288	genitive
-248291	accusative
+248197	nominative
+248202	nominative
+248208	genitive
 genitive
-248295	dative
+nominative
+248214	nominative
+accusative
+248227	nominative
+248238	accusative
+nominative
+248241	nominative
+248244	accusative
+248256	dative
+accusative
+248263	accusative
+accusative
+248267	genitive
+248269	genitive
+248272	nominative
+vocative
+vocative
+248276	nominative
+248283	nominative
+248290	nominative
 nominative
 accusative
-248305	nominative
-248307	accusative
-248323	accusative
-248329	dative
-248336	nominative
-248364	accusative
-248366	accusative
-nominative
-nominative
+248300	genitive
+248305	accusative
+248309	nominative
+accusative
+248317	accusative
+248330	nominative
+248335	nominative
+248343	nominative
+248355	accusative
+248361	nominative
+dative
+248367	nominative
+248369	dative
+accusative
 248375	nominative
+dative
+248379	nominative
 248383	nominative
-248387	accusative
-248389	nominative
-genitive
-248395	genitive
+248385	accusative
 248399	nominative
-248402	nominative
-248405	accusative
-248413	accusative
-248415	genitive
-genitive
-248423	vocative
-248426	accusative
-248447	nominative
-248451	accusative
-genitive
-248455	accusative
-248460	nominative
-248473	accusative
-248475	accusative
-248491	accusative
-genitive
-248496	nominative
-248513	nominative
-dative
-248516	nominative
-248519	nominative
-248528	nominative
-248540	accusative
-248546	accusative
-248558	dative
-dative
-248562	nominative
-248566	dative
-248574	genitive
-248586	nominative
-248590	dative
-genitive
-248594	nominative
-248600	accusative
-248609	nominative
-248615	nominative
-248619	accusative
-248623	accusative
-248629	nominative
-248632	nominative
-248637	genitive
-accusative
-248645	nominative
-accusative
-248652	accusative
-248660	genitive
-248662	genitive
-248664	genitive
-248673	nominative
-dative
-vocative
-248706	dative
-248708	genitive
-248711	genitive
-248715	accusative
-248719	nominative
-248726	accusative
-248732	genitive
-248734	genitive
+248402	dative
 nominative
-248738	nominative
-248749	nominative
+248406	nominative
+248408	nominative
+248411	genitive
+248425	nominative
+248433	dative
+248440	nominative
+248474	accusative
 nominative
-248752	genitive
-248757	genitive
-248760	nominative
-248765	nominative
-accusative
-accusative
-248770	nominative
-248773	accusative
+248478	dative
+248486	nominative
+248497	accusative
+248500	nominative
+248505	nominative
+248520	nominative
+248523	accusative
+248536	genitive
+248540	genitive
+248570	dative
+248576	dative
+248585	accusative
+248605	dative
+248622	nominative
+248636	accusative
+248641	dative
+248644	accusative
 nominative
-dative
-248777	nominative
-248780	nominative
-248786	nominative
-248793	genitive
-genitive
-248796	accusative
-248800	nominative
-248810	genitive
-248816	genitive
+248660	accusative
+248662	vocative
+248687	nominative
+248708	dative
+248738	genitive
+248743	nominative
+248748	dative
+248757	nominative
+248766	accusative
 accusative
-248822	accusative
-248826	genitive
-248828	nominative
-248836	accusative
-dative
-248852	accusative
-248856	nominative
-248863	dative
-248870	genitive
-248872	dative
-248875	nominative
-248879	vocative
-dative
-accusative
-248887	dative
+248771	nominative
+248788	nominative
+248790	nominative
+248807	accusative
+248819	nominative
+248831	accusative
+nominative
+248834	nominative
+248840	accusative
+248858	nominative
+248869	nominative
+248872	nominative
+248876	accusative
+248881	nominative
 248890	accusative
-248895	vocative
-248905	dative
-248910	accusative
-248918	genitive
+248896	accusative
+accusative
+248900	accusative
+248905	nominative
+248909	nominative
+248911	nominative
+nominative
 genitive
-248929	dative
-248931	nominative
+248916	accusative
+accusative
+248922	dative
+248924	nominative
+248929	nominative
+248931	dative
 248935	accusative
-248937	nominative
 248940	nominative
-248944	nominative
-248952	nominative
-248955	accusative
-248960	genitive
-248965	genitive
-248969	dative
-248972	accusative
-genitive
-248984	nominative
-248988	nominative
-249000	accusative
-249004	genitive
-nominative
-249010	accusative
-249012	genitive
-nominative
-249016	nominative
-nominative
-249019	accusative
-nominative
-249024	accusative
-249026	genitive
-nominative
-249040	nominative
-249042	accusative
-249044	nominative
+248951	accusative
+248954	accusative
+248957	nominative
+248959	accusative
+248961	nominative
 accusative
-249050	nominative
-249053	nominative
-249055	nominative
 nominative
-249059	genitive
-249068	nominative
-249070	genitive
-249073	nominative
-249080	nominative
+248979	nominative
+248985	accusative
+248995	dative
+accusative
+249004	nominative
+249006	dative
+249017	dative
+249023	dative
+249025	dative
+249037	genitive
+249049	dative
+249058	nominative
+249061	nominative
+249069	nominative
+249078	nominative
 249089	accusative
-accusative
-249098	nominative
-249103	nominative
-249108	nominative
-249110	dative
-249114	nominative
-249124	nominative
-249126	nominative
-249140	nominative
 nominative
-249145	nominative
-249149	accusative
-249154	accusative
-249156	accusative
-accusative
-249163	accusative
+dative
+249096	accusative
+249098	nominative
+dative
+249101	nominative
+nominative
+249112	genitive
+249119	genitive
+249122	genitive
+249137	nominative
+nominative
+249142	dative
+249151	accusative
+nominative
+249157	accusative
 249166	accusative
-249176	accusative
+249176	nominative
+accusative
+accusative
 249181	nominative
 249185	nominative
-249195	accusative
-dative
-nominative
-249199	accusative
-249206	accusative
-249211	genitive
-249217	genitive
-249220	nominative
-249223	nominative
-249232	accusative
-249240	nominative
-249245	accusative
-accusative
-249253	nominative
-249256	nominative
-249262	nominative
-249266	accusative
-249272	accusative
-249276	genitive
+249189	nominative
+249192	nominative
+249211	nominative
+249216	accusative
+249224	nominative
+249243	nominative
+249257	nominative
+249265	nominative
+249270	nominative
+249272	nominative
 genitive
-249279	genitive
-249282	accusative
-nominative
-249285	accusative
-249287	accusative
-249295	nominative
-249301	dative
-dative
-nominative
-nominative
-accusative
-249316	accusative
+249284	nominative
+249290	nominative
+249294	nominative
+249297	accusative
+249304	nominative
+249308	nominative
 249320	nominative
-249322	nominative
-nominative
-249325	dative
-249327	accusative
-genitive
-249330	genitive
-249336	nominative
+249323	nominative
+249336	accusative
+249343	accusative
+249345	nominative
+249348	nominative
+249371	accusative
+249373	nominative
+249383	nominative
 accusative
-249341	nominative
-249345	accusative
-249347	dative
-249360	dative
-249363	dative
-dative
-249367	nominative
-249372	nominative
-249380	genitive
-genitive
-nominative
-249386	nominative
-accusative
-249399	nominative
-249410	accusative
-nominative
+249394	nominative
+249396	nominative
 249413	nominative
-249416	accusative
-249428	dative
+249415	nominative
+249418	nominative
+249421	nominative
+249423	nominative
+249429	nominative
 accusative
-249435	accusative
-accusative
-249440	genitive
-249442	genitive
-249446	nominative
-249448	vocative
-vocative
-249451	nominative
-249458	nominative
-249465	nominative
-nominative
-accusative
-249475	genitive
-249480	accusative
-249484	nominative
-accusative
-249492	accusative
+249435	nominative
+249450	nominative
+249454	accusative
+249473	accusative
+249485	nominative
 249505	nominative
-249510	nominative
-249518	nominative
-249530	accusative
-249536	nominative
-dative
-249542	nominative
-249544	dative
+249519	accusative
+249523	nominative
+nominative
+249532	nominative
+249542	accusative
+249545	accusative
+249561	genitive
+249576	accusative
+249579	accusative
+249597	dative
 accusative
-249550	nominative
+249602	genitive
+249604	accusative
+249608	nominative
+249610	nominative
+249612	accusative
+249615	accusative
+249618	accusative
+249626	accusative
+249628	accusative
+249638	nominative
+249642	accusative
+249646	accusative
+249652	nominative
+249656	dative
+249659	dative
+249667	dative
 dative
-249554	nominative
-249558	nominative
-249560	accusative
-249574	nominative
-249577	dative
-nominative
-249581	nominative
-249583	nominative
-249586	genitive
-249600	nominative
-249609	dative
-249616	nominative
-249651	accusative
-nominative
-249655	dative
-249664	nominative
-249675	accusative
-249678	nominative
-249683	nominative
-249698	nominative
-249702	accusative
-249716	genitive
-249720	genitive
-249750	dative
-249756	dative
-249765	accusative
-249786	dative
-249803	nominative
-249818	accusative
-249823	dative
-249826	accusative
-nominative
-249842	accusative
-249844	vocative
-249870	nominative
-249891	dative
-249921	genitive
-249926	nominative
-249931	dative
-249940	nominative
-249949	accusative
+249671	accusative
+249683	dative
+249686	accusative
+249688	nominative
+249697	nominative
+genitive
+249701	nominative
 accusative
-249954	nominative
-249971	nominative
-249973	nominative
-249990	accusative
-250003	nominative
-250016	accusative
+249724	dative
+249745	accusative
+249748	genitive
+249752	dative
+249759	accusative
+249762	dative
+249783	accusative
+249792	nominative
+249800	accusative
+249806	nominative
+249808	nominative
+249815	accusative
+249830	nominative
+249840	accusative
+249842	genitive
+249845	genitive
+249848	genitive
+249850	accusative
+249853	accusative
 nominative
-250019	nominative
-250025	accusative
-250043	nominative
-250054	nominative
-250057	nominative
-250062	accusative
-250067	nominative
+249860	accusative
+249864	accusative
+249872	nominative
+249877	accusative
+nominative
+249880	nominative
+249899	nominative
+accusative
+249903	nominative
+249905	accusative
+249913	dative
+249919	accusative
+249922	dative
+249927	dative
+249930	dative
+249932	accusative
+249937	nominative
+249947	nominative
+249950	accusative
+249977	accusative
+249984	nominative
+249987	accusative
+249991	accusative
+249994	accusative
+250010	genitive
+dative
+250013	nominative
+genitive
+genitive
+genitive
+250024	nominative
+250030	nominative
+250042	genitive
+genitive
+genitive
+nominative
+250050	nominative
+250061	nominative
+nominative
+250071	nominative
 250077	accusative
-250083	accusative
-250085	accusative
-250088	accusative
-250093	nominative
-250097	nominative
-250099	nominative
+250081	nominative
+250112	dative
 nominative
+250118	nominative
+250121	nominative
+250126	genitive
 genitive
-250104	accusative
-accusative
-250110	dative
-250112	nominative
-250117	nominative
-250119	dative
-250123	accusative
-250128	nominative
-250139	accusative
-250142	accusative
-250145	nominative
-250147	accusative
-250149	nominative
-accusative
-nominative
-250167	nominative
-250173	accusative
-250183	dative
-accusative
-250193	nominative
-250195	dative
-250206	dative
-250212	dative
-250214	dative
-250226	genitive
-250238	dative
-250247	nominative
-250250	nominative
-250258	nominative
-250267	nominative
-250279	accusative
-nominative
-dative
+250137	accusative
+250143	nominative
+250146	genitive
+250184	genitive
+250214	nominative
+250244	nominative
+250253	nominative
+250256	nominative
 250286	accusative
-250288	nominative
-dative
-250291	nominative
+250296	nominative
+250306	nominative
+250316	dative
+250324	nominative
+250337	nominative
+250347	accusative
 nominative
-250302	genitive
-250309	genitive
-250312	genitive
-250329	nominative
+250360	accusative
+250363	nominative
+250375	dative
 nominative
-250334	dative
-250343	accusative
+250378	nominative
 nominative
-250349	accusative
-250358	accusative
-250368	nominative
-accusative
-accusative
-250373	nominative
-250377	nominative
-250381	nominative
-250384	nominative
-250404	nominative
-250409	accusative
-250418	nominative
-250438	nominative
-250452	nominative
-250460	nominative
-250465	nominative
-250467	nominative
+250383	nominative
 genitive
-250479	nominative
+250387	accusative
+250393	accusative
+250401	accusative
+250404	accusative
+250407	accusative
+250434	accusative
+250439	accusative
+250445	nominative
+250447	genitive
+250456	nominative
+250470	dative
+250472	accusative
+accusative
+250475	nominative
+250477	dative
+250480	genitive
+250483	genitive
 250485	nominative
-250489	nominative
-250492	accusative
-250500	nominative
-250504	nominative
-250517	nominative
-250520	nominative
-250533	accusative
-250541	accusative
-250543	nominative
-250546	nominative
-250570	accusative
+250498	nominative
+250504	accusative
+250516	accusative
+250528	accusative
+250536	nominative
+250544	dative
+250550	nominative
+250554	nominative
+250557	nominative
 250572	nominative
-250582	nominative
-accusative
-250593	nominative
-250596	nominative
-250616	nominative
+250585	vocative
+dative
+250588	accusative
+250602	dative
+250604	dative
+250616	genitive
 250618	nominative
-250621	nominative
-250624	nominative
-250626	nominative
-250633	nominative
+250627	nominative
+250633	accusative
 accusative
-250641	nominative
-250657	nominative
-250661	accusative
-250680	accusative
-250692	nominative
-250712	nominative
-250726	accusative
-250730	nominative
+accusative
+250648	accusative
+250651	dative
+250679	nominative
+250681	dative
+250685	accusative
+250692	accusative
+250696	nominative
+250717	accusative
+250719	nominative
+250728	nominative
 nominative
-250739	nominative
-250749	accusative
-250752	accusative
-250768	genitive
-250783	accusative
-250786	accusative
-250806	dative
+nominative
+250735	genitive
+250740	nominative
+250745	dative
+250754	accusative
+nominative
+250759	accusative
+250766	nominative
+250774	dative
+250776	nominative
+250783	nominative
+250786	dative
+nominative
 accusative
-250811	genitive
-250813	accusative
-250818	nominative
-250821	nominative
+250792	nominative
+250800	nominative
+250802	nominative
+250804	nominative
+250806	nominative
+250809	accusative
+250816	accusative
+250818	accusative
+250821	accusative
 250823	accusative
-250826	accusative
-250829	accusative
-250837	accusative
-250839	accusative
-250849	nominative
-250853	accusative
-250857	accusative
-250863	nominative
-250867	dative
-250870	dative
-250878	dative
+250827	accusative
+250830	accusative
+250835	nominative
+250838	nominative
+250840	accusative
+250844	nominative
+250852	nominative
+250857	nominative
+250861	dative
+250869	accusative
+250874	accusative
+250877	accusative
+250881	accusative
+250884	nominative
+accusative
+250887	nominative
+250889	accusative
+250893	nominative
+250899	dative
+250902	dative
+250920	accusative
+250926	accusative
+accusative
+250933	dative
+250938	nominative
+nominative
+accusative
+250947	nominative
+250979	accusative
+250998	nominative
+251018	dative
+251023	nominative
+251035	nominative
+251046	nominative
+251059	nominative
 dative
-250882	accusative
-250895	dative
-250898	accusative
-250900	nominative
-250909	nominative
-250911	genitive
-250914	nominative
-accusative
-250937	dative
-250958	accusative
-250961	genitive
-250965	dative
-250972	accusative
-250975	dative
-250996	accusative
-251006	nominative
-251014	accusative
-251020	nominative
-251022	nominative
-251029	accusative
-251045	nominative
-251055	accusative
-251058	genitive
-251061	genitive
-251064	genitive
-251066	accusative
-251069	accusative
+251064	nominative
+251077	nominative
+251081	nominative
+251084	genitive
+251087	nominative
+251091	nominative
+251095	nominative
+251101	genitive
+251106	nominative
+251117	genitive
+251122	vocative
 nominative
-251076	accusative
-251080	accusative
-251088	nominative
-251093	accusative
-nominative
-251096	nominative
-251115	nominative
+251137	dative
+251143	nominative
+251147	nominative
+251173	nominative
+251188	nominative
+251196	accusative
+251216	accusative
+251245	accusative
+251254	nominative
+251260	nominative
+251270	nominative
+251273	nominative
 accusative
-251119	nominative
-251121	accusative
-251129	dative
-251135	accusative
-251138	dative
-251144	dative
-251147	dative
-251149	accusative
-251155	nominative
-251165	nominative
-251168	accusative
-251197	accusative
-251204	nominative
-251207	accusative
-251211	accusative
-251214	accusative
-251230	genitive
+251277	nominative
+accusative
+251282	accusative
+251296	accusative
+251308	nominative
+251311	nominative
+251322	dative
+251324	accusative
+251328	dative
 dative
-251233	nominative
-genitive
-genitive
-genitive
-251244	nominative
-251250	nominative
-251263	genitive
-genitive
-genitive
-nominative
-251271	nominative
-251282	nominative
-nominative
-251292	nominative
-251298	accusative
-251302	nominative
-251337	dative
-nominative
-251343	nominative
-251346	nominative
-251351	genitive
-genitive
-251362	accusative
-251369	nominative
-251372	genitive
-251410	genitive
-251440	nominative
-251470	nominative
-251479	nominative
-251482	nominative
-251512	accusative
-251522	nominative
-251532	nominative
-251542	dative
-251550	nominative
-251563	nominative
-251573	accusative
-nominative
-251586	accusative
-251589	nominative
-251602	dative
-nominative
-251606	nominative
-nominative
-251611	nominative
-genitive
-251615	accusative
-251621	accusative
-251629	accusative
-251632	accusative
-251635	accusative
-251662	accusative
-251667	accusative
-251674	nominative
-251676	genitive
-251685	nominative
-251700	dative
-251702	accusative
+251331	accusative
+251342	accusative
 accusative
-251705	nominative
-251707	dative
-251710	genitive
-251713	genitive
+251346	accusative
+251349	accusative
+251353	accusative
+251355	accusative
+251358	accusative
+251361	accusative
+251364	accusative
+251371	nominative
+251373	nominative
+251382	accusative
+251388	dative
+251390	nominative
+251394	nominative
+nominative
+nominative
+nominative
+251400	nominative
+251403	nominative
+nominative
+251409	nominative
+251413	nominative
+accusative
+251443	genitive
+accusative
+251454	nominative
+251456	nominative
+251464	accusative
+251477	accusative
+251482	genitive
+dative
+251488	nominative
+dative
+251491	nominative
+251498	nominative
+251511	nominative
+251513	genitive
+251526	genitive
+251536	nominative
+251538	nominative
+251543	nominative
+251555	nominative
+nominative
+251561	nominative
+nominative
+251566	dative
+nominative
+nominative
+251574	nominative
+251586	nominative
+251595	nominative
+251597	accusative
+251603	accusative
+nominative
+251610	genitive
+251612	genitive
+251626	genitive
+251628	dative
+251641	accusative
+251644	nominative
+251654	accusative
+251658	accusative
+251664	genitive
+251666	genitive
+251670	genitive
+251679	accusative
+251695	accusative
+251698	accusative
+251703	dative
+251705	accusative
+251711	nominative
 251715	nominative
-251729	nominative
+251717	nominative
+251721	dative
+accusative
+accusative
 251735	accusative
-251747	accusative
-251759	accusative
-251767	nominative
-251775	dative
-251781	nominative
-251785	nominative
-251788	nominative
-251803	nominative
-251816	vocative
-dative
-251819	accusative
-251833	dative
-251835	dative
-251849	genitive
-251851	nominative
+251738	accusative
+251744	nominative
+251758	accusative
+251770	accusative
+251773	accusative
+251795	accusative
+accusative
+251803	dative
+251806	nominative
+251811	genitive
+nominative
+251830	accusative
+251835	nominative
+251841	nominative
+251846	dative
+accusative
+251855	accusative
 251861	nominative
-251867	accusative
 accusative
-accusative
-251882	accusative
-251885	dative
-251914	nominative
-251916	dative
-251920	accusative
-251927	accusative
-251931	nominative
-251953	accusative
-251955	nominative
-251964	nominative
+251869	nominative
+251871	nominative
+251897	nominative
+251901	vocative
+251918	dative
+251926	nominative
+251933	nominative
+251942	nominative
+251945	dative
 nominative
-nominative
-251971	genitive
-251976	nominative
-251981	dative
-251990	accusative
-nominative
-251995	accusative
+251956	nominative
+251970	nominative
+251974	nominative
+251976	accusative
+251979	nominative
+251983	nominative
+251985	accusative
+251989	accusative
 252002	nominative
-252010	dative
-252012	nominative
-252021	nominative
-252024	dative
-nominative
-accusative
-252030	nominative
-252038	nominative
+252007	accusative
+252024	accusative
+252028	dative
+252032	dative
 252040	nominative
-252042	nominative
-252044	nominative
-252047	accusative
-252054	accusative
-252056	accusative
-252059	accusative
-252061	accusative
-252066	accusative
-252069	accusative
-252074	nominative
-252077	nominative
-252079	accusative
-252083	nominative
-252092	nominative
-252097	nominative
-252101	dative
-252109	accusative
-252114	accusative
-252117	accusative
-252121	accusative
-252124	nominative
-accusative
-252127	nominative
-252129	accusative
-252133	nominative
-252139	dative
-252142	dative
-252160	accusative
-252166	accusative
-accusative
-252173	dative
-252178	nominative
+252053	genitive
 nominative
+252057	accusative
 accusative
-252187	nominative
-252219	accusative
+252061	nominative
+252070	accusative
+252076	genitive
+252083	genitive
+252093	nominative
+252096	genitive
+accusative
+252100	nominative
+252103	nominative
+252106	vocative
+nominative
+252138	nominative
+252141	nominative
+nominative
+252144	nominative
+252146	accusative
+252152	accusative
+nominative
+252159	accusative
+252161	dative
+nominative
+252164	accusative
+252166	dative
+252178	accusative
+252180	accusative
+252191	nominative
+252202	accusative
+252208	accusative
+252216	vocative
+252224	nominative
+252226	nominative
+252232	accusative
+252234	dative
+252237	dative
 252239	nominative
-252259	dative
-252264	nominative
-252276	nominative
-252289	nominative
-252302	nominative
-dative
-252307	nominative
-252320	nominative
-252324	nominative
-252327	genitive
-252330	nominative
-252334	nominative
-252338	nominative
-252344	genitive
-252349	nominative
-252360	genitive
-252365	vocative
+252242	accusative
+252250	nominative
+252256	dative
+252263	nominative
 nominative
-252380	dative
+252266	accusative
+252268	nominative
+accusative
+252281	dative
+252299	nominative
+252338	accusative
+252357	accusative
+252360	nominative
+252377	nominative
+252381	nominative
 252386	nominative
-252390	nominative
-252417	nominative
+252392	nominative
+252402	nominative
+252404	nominative
+nominative
+252423	nominative
+252428	accusative
 252432	nominative
-252440	accusative
-252461	accusative
+252434	nominative
+252439	nominative
+252444	accusative
+252457	genitive
+252466	accusative
+nominative
+252477	nominative
+252484	nominative
 252490	accusative
-252499	nominative
-252505	nominative
-252515	nominative
-252518	nominative
-accusative
-252522	nominative
-accusative
-252527	accusative
-252541	accusative
-252553	nominative
-252556	nominative
-252569	dative
-252571	accusative
-252575	dative
+252494	nominative
+252514	accusative
+252516	vocative
+252523	nominative
+nominative
+252529	genitive
+252542	nominative
+252544	accusative
+252547	nominative
 dative
-252578	accusative
-252589	accusative
-accusative
-252593	accusative
-252596	accusative
-252600	accusative
-252602	accusative
-252605	accusative
-252608	accusative
-252611	accusative
-252618	nominative
-252620	nominative
-252629	accusative
-252635	dative
-252637	nominative
-252641	nominative
+252559	nominative
+252564	nominative
+252567	nominative
+252578	nominative
+252610	nominative
+252614	nominative
+252617	nominative
+252622	nominative
+252626	nominative
+252628	dative
+252631	dative
+252640	dative
+252647	accusative
+vocative
+252659	accusative
+252677	accusative
 nominative
-nominative
-nominative
-252649	nominative
-252652	nominative
-nominative
-252658	nominative
-252663	nominative
-accusative
-252695	genitive
-accusative
-252706	nominative
-252708	nominative
-252716	accusative
-252730	accusative
-252735	genitive
+252691	genitive
 dative
-252741	nominative
+252694	dative
+252699	accusative
+252706	dative
+252734	nominative
+252740	accusative
 dative
-252744	nominative
-252751	nominative
-252765	nominative
-252768	genitive
-252781	genitive
-252791	nominative
-252793	nominative
-252798	nominative
-252810	nominative
+252743	accusative
+252749	accusative
+252753	nominative
+252757	nominative
+252760	nominative
+252762	nominative
+252764	nominative
+252767	nominative
 nominative
-252816	nominative
+252770	nominative
+252774	nominative
+252776	accusative
 nominative
-252821	dative
+252780	nominative
+252782	nominative
+252784	nominative
+252786	nominative
+252788	nominative
+252790	nominative
+252794	nominative
+252796	nominative
+252798	accusative
+252806	genitive
+252809	genitive
+252812	nominative
+252815	nominative
+252818	nominative
+252821	nominative
+252823	dative
+accusative
+252826	nominative
 nominative
-252824	nominative
-252830	nominative
-252842	nominative
-252851	nominative
-252853	accusative
-252859	accusative
+accusative
+252832	nominative
+252837	nominative
+252839	accusative
 nominative
-252868	genitive
-252870	genitive
-252884	genitive
-252886	dative
-252899	accusative
-252902	nominative
-252912	accusative
-252916	accusative
-252922	genitive
-252924	genitive
-252928	genitive
-252938	accusative
-252954	accusative
-252957	accusative
-252962	dative
-252964	accusative
-252970	nominative
-252974	nominative
-252976	nominative
-252980	dative
-accusative
-accusative
-252995	accusative
-252998	accusative
-253004	nominative
-253018	accusative
-253032	accusative
-253035	accusative
-253057	accusative
-accusative
-253066	dative
-253069	nominative
-253074	genitive
+vocative
+252844	accusative
+252848	dative
 nominative
-253094	accusative
-253099	nominative
-253105	nominative
-253111	dative
+nominative
+252853	nominative
+252860	accusative
+252864	accusative
 accusative
-253120	accusative
-253126	nominative
+252867	nominative
+252884	dative
+252889	nominative
+252894	nominative
+252898	nominative
+252905	nominative
+dative
 accusative
-253134	nominative
-253136	nominative
-253164	nominative
-253168	vocative
-253185	dative
-253193	nominative
+252913	nominative
+252927	accusative
+252932	dative
+252947	nominative
+252950	dative
+252952	nominative
+252971	nominative
+252973	dative
+252987	dative
+accusative
+252992	accusative
+252995	nominative
+252997	accusative
+253022	accusative
+253025	accusative
+253033	nominative
+253035	nominative
+253037	accusative
+253088	accusative
+253094	nominative
+253098	accusative
+253100	nominative
+accusative
+253103	nominative
+253105	accusative
+253110	nominative
+accusative
+253116	accusative
+253118	nominative
+nominative
+253121	nominative
+253133	accusative
+nominative
+253138	accusative
+253140	nominative
+253144	nominative
+253149	nominative
+253151	dative
+253154	nominative
+dative
+253162	nominative
+dative
+253171	dative
+253174	nominative
+dative
 253200	nominative
+253207	genitive
 253209	nominative
-253212	dative
+253211	accusative
+253217	accusative
+253221	nominative
+253230	nominative
+253232	nominative
+253234	dative
+253245	accusative
+253250	accusative
+253253	accusative
+253266	nominative
 nominative
-253223	nominative
-253238	nominative
-253242	nominative
-253244	accusative
-253248	nominative
-253252	nominative
-253254	accusative
-253258	accusative
-253273	nominative
-253279	accusative
-253297	accusative
-253301	dative
-253305	dative
-253313	nominative
-253327	genitive
+253270	dative
 nominative
-253331	accusative
+nominative
+253274	dative
+nominative
+253288	accusative
+253291	nominative
+253315	nominative
+253317	nominative
+253320	nominative
+253340	nominative
+253342	nominative
+253344	nominative
+253348	dative
+nominative
+253352	accusative
+253355	accusative
+253361	nominative
 accusative
-253335	nominative
-253344	accusative
-253350	genitive
-253357	genitive
-253367	nominative
-253370	genitive
+253368	nominative
+253370	nominative
 accusative
-253374	nominative
-253377	nominative
-253380	vocative
-nominative
-253412	nominative
-253415	nominative
-nominative
-253419	nominative
-253421	accusative
-253427	accusative
-nominative
-253435	accusative
-253437	dative
-nominative
-253440	accusative
-253442	dative
-253454	accusative
-253456	accusative
-253467	nominative
-253479	accusative
-253485	accusative
-253493	vocative
-253501	nominative
-253503	nominative
-253509	accusative
-253511	dative
-253514	dative
-253517	nominative
-253520	accusative
-253528	nominative
-253534	dative
-253541	nominative
-nominative
-253544	accusative
-253546	nominative
+253373	dative
+253376	nominative
+253385	nominative
+253388	nominative
+253401	dative
+253413	dative
+253420	genitive
 accusative
-253560	dative
-253578	nominative
-253618	accusative
-253637	accusative
-253640	nominative
-253657	nominative
-253661	nominative
+253424	nominative
+253450	dative
+253471	accusative
+253476	accusative
+253482	accusative
+253502	dative
+253512	vocative
+253524	accusative
+253529	nominative
+253538	nominative
+253540	genitive
+253542	nominative
+253549	accusative
+253557	accusative
+253571	nominative
+253573	genitive
+nominative
+253577	nominative
+253583	dative
+253586	nominative
+accusative
+253591	accusative
+dative
+253597	accusative
+253602	accusative
+253611	nominative
+nominative
+253630	genitive
+253633	nominative
+253648	accusative
+253661	accusative
 253666	nominative
-253672	nominative
-253683	nominative
-253685	nominative
+253677	dative
+253682	nominative
+253695	accusative
 nominative
-253705	nominative
-253710	accusative
-253715	nominative
-253717	nominative
-253723	nominative
-253728	accusative
-253741	genitive
-253750	accusative
-nominative
-253761	nominative
+253700	accusative
+253702	nominative
+253713	nominative
+253716	accusative
+253722	genitive
+accusative
+253730	nominative
+253748	nominative
+253750	genitive
+253762	dative
+253764	accusative
+253766	nominative
 253768	nominative
-253774	accusative
+dative
 253778	nominative
-253798	accusative
-253800	vocative
-253807	nominative
-nominative
-253813	genitive
-253827	nominative
-253829	accusative
-253832	nominative
-dative
-253844	nominative
-253849	nominative
-253852	nominative
-253863	nominative
-253896	nominative
-253900	nominative
-253903	nominative
-253908	nominative
-253912	nominative
-253914	dative
-253917	dative
-253926	dative
-253933	accusative
+253786	accusative
 vocative
-253945	accusative
-253963	accusative
-nominative
-253977	genitive
-dative
-253980	dative
-253985	accusative
-253992	dative
-254021	nominative
-254027	accusative
-dative
-254032	accusative
-254039	accusative
-254043	nominative
-254047	nominative
-254050	nominative
-254052	nominative
-254054	nominative
-254057	nominative
-254059	nominative
-254061	nominative
-254066	nominative
-254068	accusative
-nominative
-254072	nominative
-254074	nominative
-254076	nominative
-254078	nominative
-254080	nominative
-254082	nominative
-254086	nominative
-254088	nominative
-254090	accusative
-254099	genitive
-254102	genitive
-254105	nominative
-254108	nominative
-254111	nominative
-254114	nominative
-254116	dative
+253800	dative
+253810	genitive
+253819	nominative
+253824	nominative
+253829	dative
+253839	dative
+253843	accusative
+253851	accusative
+253858	dative
+253860	dative
+genitive
+253863	dative
+253881	nominative
+253888	dative
+253907	nominative
+253914	nominative
 accusative
-254119	nominative
-nominative
+253927	nominative
+253929	nominative
+253932	nominative
+253972	accusative
+253978	accusative
+253983	nominative
 accusative
-254125	nominative
-254130	nominative
-254132	accusative
-nominative
+254022	accusative
+254026	accusative
+254033	accusative
 vocative
-254137	accusative
-254143	dative
+254042	accusative
 nominative
-nominative
-254148	nominative
-254155	accusative
-254159	accusative
+254045	accusative
+254080	accusative
 accusative
-254162	nominative
-254179	dative
-254184	nominative
-254189	nominative
-254193	nominative
-254200	nominative
-dative
+254085	accusative
+254106	accusative
+254118	accusative
+254121	nominative
+254125	accusative
+254134	accusative
+254145	dative
 accusative
-254208	nominative
-254222	accusative
+254161	genitive
+genitive
+254177	genitive
+254182	dative
+254206	dative
+254208	dative
+254215	dative
 254227	dative
-254243	nominative
-254246	dative
-254248	nominative
-254268	nominative
-254271	dative
-254286	dative
-accusative
-254291	accusative
-254294	nominative
-254296	accusative
-254322	accusative
-254325	accusative
-254334	nominative
-254336	nominative
-254338	accusative
-254389	accusative
-254395	nominative
-254399	accusative
-254401	nominative
-accusative
-254405	nominative
-254407	accusative
-254412	nominative
-accusative
-254418	accusative
-254420	nominative
+254245	dative
+dative
+254265	accusative
+254270	accusative
+254277	nominative
+254280	accusative
+254282	accusative
+254290	nominative
+254305	accusative
+vocative
+254317	nominative
+254323	nominative
+254336	dative
+254342	nominative
+254347	accusative
+254351	nominative
+254354	genitive
 nominative
-254423	nominative
-254436	accusative
+254357	genitive
 nominative
-254441	accusative
-254443	nominative
+254360	genitive
+nominative
+254363	genitive
+254366	nominative
+254384	nominative
+254396	accusative
+254404	accusative
+nominative
+254424	dative
+nominative
+254429	dative
+254445	nominative
 254447	nominative
-254452	nominative
-254454	dative
-254458	nominative
+254476	accusative
+254480	nominative
+accusative
+254484	nominative
+accusative
+254487	nominative
+254491	accusative
+254493	dative
+254495	accusative
 dative
-254466	nominative
-dative
-254475	dative
-254478	nominative
-dative
-254506	nominative
-254513	genitive
-254515	nominative
-254517	accusative
-254523	accusative
-254527	nominative
-254536	nominative
+254498	accusative
+254516	nominative
+254523	nominative
+254529	vocative
+254531	nominative
+nominative
+254535	nominative
+nominative
 254538	nominative
-254540	dative
-254551	accusative
-254556	accusative
-254559	accusative
-254573	nominative
 nominative
-254577	dative
+254565	accusative
+254569	accusative
+254571	accusative
+254581	nominative
+254585	nominative
+254588	dative
+254596	nominative
+254599	nominative
 nominative
-nominative
-254581	dative
-nominative
-254595	accusative
-254598	nominative
-254622	nominative
-254624	nominative
-254627	nominative
-254647	nominative
-254649	nominative
-254651	nominative
-254655	dative
-nominative
-254659	accusative
-254662	accusative
-254668	nominative
-254670	accusative
-254676	nominative
-254678	nominative
-accusative
-254681	dative
-254686	nominative
-254695	nominative
-254698	nominative
-254711	dative
-254723	dative
-254730	genitive
-accusative
-254734	nominative
-254761	dative
-254783	accusative
-254788	accusative
-254794	accusative
-254814	dative
-254824	vocative
-254837	accusative
-254842	nominative
-254851	nominative
-254853	genitive
-254855	nominative
-254862	accusative
-254870	accusative
-254884	nominative
-254886	genitive
-nominative
-254890	nominative
-254896	dative
-254899	nominative
-accusative
-254904	accusative
+254602	vocative
+254609	nominative
 dative
-254910	accusative
-254915	accusative
-254924	nominative
+254617	accusative
+254626	accusative
 nominative
-254943	genitive
-254946	nominative
-254961	accusative
-254974	accusative
-254979	nominative
-254990	dative
-254995	nominative
-255009	accusative
-nominative
-255014	accusative
-255016	nominative
-255027	nominative
-255030	accusative
-255036	genitive
+254663	accusative
+254680	genitive
+254687	accusative
 accusative
+254695	accusative
+254713	accusative
+nominative
+254718	nominative
+254726	accusative
+254729	dative
+accusative
+dative
+254739	accusative
+254762	nominative
+254770	nominative
+254786	accusative
+dative
+accusative
+254799	dative
+accusative
+nominative
+254810	nominative
+254812	dative
+254825	accusative
+nominative
+254830	nominative
+254834	nominative
+254836	accusative
+nominative
+254841	nominative
+vocative
+254846	dative
+254856	accusative
+accusative
+254860	accusative
+254871	nominative
+254878	nominative
+254887	nominative
+nominative
+254891	genitive
+nominative
+254894	nominative
+genitive
+nominative
+254898	nominative
+254901	nominative
+nominative
+254905	nominative
+254912	nominative
+254914	nominative
+254923	nominative
+254925	nominative
+254927	nominative
+254931	nominative
+254933	nominative
+254936	nominative
+nominative
+254939	nominative
+254959	accusative
+dative
+254964	accusative
+254966	nominative
+254969	nominative
+254976	nominative
+254980	accusative
+nominative
+254986	nominative
+254994	nominative
+255006	nominative
+255009	nominative
+255015	accusative
+255017	accusative
+255025	nominative
 255044	nominative
-255062	nominative
-255064	genitive
-255076	dative
-255078	accusative
-255080	nominative
-255082	nominative
-dative
-255092	nominative
-255100	accusative
-vocative
-255114	dative
-255124	genitive
-255133	nominative
-255138	nominative
-255143	dative
-255154	dative
-255158	accusative
+255050	accusative
+255056	nominative
+255058	nominative
+255060	nominative
+nominative
+accusative
+255065	nominative
+255067	nominative
+255073	nominative
+255077	nominative
+255083	nominative
+255089	nominative
+255096	nominative
+255103	nominative
+255105	nominative
+255108	nominative
+255110	genitive
+255120	nominative
+255122	nominative
+genitive
+255125	nominative
+255127	genitive
+nominative
+255130	genitive
+255132	accusative
+255134	nominative
+255142	accusative
+255147	nominative
+nominative
+255150	dative
+255163	accusative
 255166	accusative
-255173	dative
-255176	dative
-genitive
-255179	dative
-255199	nominative
-255206	dative
-255226	nominative
-255234	nominative
+255168	dative
+255175	nominative
 accusative
-255249	nominative
-255251	nominative
-255254	nominative
-255294	accusative
-255300	accusative
-255306	nominative
-accusative
-255345	accusative
-255349	accusative
-255356	accusative
-vocative
-255366	accusative
 nominative
-255369	accusative
-255404	accusative
+255182	accusative
+255187	nominative
+255203	dative
+255206	accusative
+255208	vocative
+255219	nominative
+255223	nominative
+255229	nominative
+255231	accusative
+255235	accusative
+255242	accusative
+255246	nominative
+255258	dative
+255265	accusative
+255270	nominative
+255276	nominative
+nominative
+255279	nominative
+255281	nominative
+255283	nominative
+nominative
+nominative
+255287	nominative
+nominative
+nominative
+nominative
+255292	nominative
+255304	nominative
+255307	nominative
+255309	nominative
+255311	nominative
+255322	nominative
 accusative
+255325	accusative
+255331	nominative
+255345	nominative
+accusative
+255350	accusative
+255356	dative
+nominative
+255364	nominative
+accusative
+255380	genitive
+255382	genitive
+255385	nominative
+255398	genitive
 255409	accusative
-255430	accusative
-255442	accusative
-255445	nominative
-255449	accusative
-255458	accusative
-255469	dative
+255425	nominative
+255431	accusative
+255435	nominative
+255447	nominative
+nominative
+255451	nominative
+255453	nominative
+255459	nominative
+255461	accusative
 accusative
-255485	genitive
-genitive
-255501	genitive
-255506	dative
-255530	dative
-255532	dative
+255468	genitive
+255493	nominative
+255511	nominative
+255534	dative
 255539	dative
-255551	dative
-255569	dative
-dative
-255589	accusative
+255559	dative
+255564	nominative
+nominative
+255576	nominative
+255578	dative
+255582	nominative
 255594	accusative
-255602	nominative
-255605	accusative
-255607	accusative
-255615	nominative
+nominative
+255618	nominative
+255624	accusative
+255626	accusative
 255631	accusative
-vocative
+255634	accusative
+255637	dative
 255643	nominative
-255649	nominative
-255662	dative
-255668	nominative
-255673	accusative
+255651	nominative
+255655	nominative
+255661	nominative
+dative
+255665	accusative
 255677	nominative
-255680	genitive
-nominative
-255683	genitive
-nominative
-255686	genitive
-nominative
-255689	genitive
-255692	nominative
-255712	nominative
-255724	accusative
-255732	accusative
-nominative
-255752	dative
-nominative
-255757	dative
-255773	nominative
-255775	nominative
-255806	accusative
-255810	nominative
+255681	accusative
 accusative
-255814	nominative
-accusative
-255818	nominative
-255822	accusative
-255824	dative
-255826	accusative
+255687	nominative
+255704	nominative
+nominative
+255726	nominative
 dative
-255829	accusative
-255847	nominative
-255854	nominative
-255860	vocative
-255863	nominative
-nominative
-255867	nominative
-nominative
-255870	nominative
-nominative
-255898	accusative
-255902	accusative
-255904	accusative
-255914	nominative
-255919	nominative
-255922	dative
-255930	nominative
-255933	nominative
-nominative
-255936	vocative
-255943	nominative
+255731	nominative
+255733	nominative
 dative
-255951	accusative
-255960	accusative
-nominative
-255997	accusative
-256014	genitive
-256023	accusative
-accusative
-256031	accusative
-256050	accusative
-nominative
-256055	nominative
-256063	accusative
-256066	dative
-accusative
+255738	nominative
+255770	accusative
+255782	nominative
+255795	nominative
+255806	nominative
+255813	accusative
+255815	nominative
+255820	nominative
+255837	genitive
+255843	genitive
+255846	genitive
+255854	genitive
+255856	nominative
 dative
-256077	accusative
-256100	nominative
-256109	nominative
-256126	accusative
+genitive
+255864	nominative
+255869	nominative
+255900	accusative
+255916	accusative
+255921	accusative
+255935	nominative
+255939	nominative
+255942	nominative
+255951	nominative
 dative
+255963	nominative
+255970	dative
+255977	accusative
+255986	nominative
+255991	accusative
 accusative
-256139	dative
-accusative
+256007	nominative
+256013	accusative
+256015	nominative
+256019	nominative
+256045	nominative
+256049	nominative
+256067	accusative
+256069	accusative
+256072	vocative
+256076	accusative
+256078	vocative
+256082	dative
+256086	accusative
+256098	nominative
 nominative
-256150	nominative
-256152	dative
-256165	accusative
-nominative
-256170	nominative
+256105	nominative
+256110	nominative
+256114	nominative
+256119	nominative
+256122	dative
+256126	nominative
+256129	dative
+256135	nominative
+256143	nominative
+256148	nominative
+256151	genitive
+256156	nominative
+256159	vocative
+256169	accusative
 256174	nominative
-256176	accusative
-nominative
-256181	nominative
-vocative
-256186	dative
-256198	accusative
+256176	nominative
+256180	accusative
 accusative
-256202	accusative
-256214	nominative
-256222	nominative
-256232	nominative
+256186	accusative
 nominative
-256236	genitive
-256238	nominative
-256240	nominative
-genitive
-nominative
-256244	nominative
-256247	nominative
-nominative
-256251	nominative
-256260	nominative
-256262	nominative
-256271	nominative
-256273	nominative
-256275	nominative
-256279	nominative
-256281	nominative
-256284	nominative
-nominative
-256287	nominative
-256308	accusative
 dative
-256313	accusative
-256315	nominative
-256319	nominative
-256326	nominative
-256331	accusative
-nominative
-256339	nominative
-256347	nominative
+256192	dative
+256195	accusative
+256200	accusative
+256213	accusative
+256218	nominative
+256220	genitive
+256222	accusative
+256225	vocative
+256231	nominative
+accusative
+256235	nominative
+256238	nominative
+256241	nominative
+256243	nominative
+256246	nominative
+256248	nominative
+256251	nominative
+256253	nominative
+256257	nominative
+256266	accusative
+accusative
+256277	nominative
+256298	nominative
+256305	nominative
+256312	accusative
+256321	accusative
+dative
+256333	nominative
+256341	nominative
+256346	accusative
+256352	nominative
+256358	nominative
 256360	nominative
-256363	nominative
+accusative
+256363	accusative
 256370	accusative
-256372	accusative
-256380	nominative
-256399	nominative
-256405	accusative
-256411	nominative
-256413	nominative
-256415	nominative
-nominative
+256382	nominative
+256389	nominative
 accusative
-256422	nominative
-256424	nominative
-256430	nominative
-256434	nominative
-256440	nominative
-256446	nominative
-256454	nominative
-256461	nominative
+256392	nominative
+256403	nominative
+256405	dative
+256408	accusative
+256410	nominative
+256421	nominative
+256429	nominative
+accusative
+256438	nominative
+256441	accusative
+256449	nominative
+256452	nominative
 256463	nominative
-256467	nominative
-256469	genitive
-256479	nominative
-256481	nominative
+nominative
+256468	nominative
+nominative
+256472	nominative
+256478	nominative
+256487	nominative
+nominative
+256490	nominative
+nominative
+256494	dative
+nominative
+256501	nominative
+256504	nominative
+256510	nominative
+256517	nominative
+256523	accusative
+256528	nominative
+nominative
+256531	nominative
+256533	accusative
+256552	nominative
+256557	nominative
+256560	accusative
+accusative
+256563	accusative
+256566	genitive
 genitive
-256484	nominative
-256486	genitive
-nominative
-256489	genitive
-256491	accusative
-256493	nominative
-256501	accusative
-256506	nominative
-nominative
-256509	dative
-256522	accusative
-256525	accusative
-256527	dative
-256534	nominative
-accusative
-nominative
-256541	accusative
-256547	nominative
-256563	dative
-256567	accusative
-256569	vocative
-256580	nominative
-256584	nominative
+256575	nominative
+256581	nominative
+256586	nominative
 256590	nominative
-256592	accusative
-256597	accusative
+256594	accusative
+256599	nominative
 256605	accusative
-256609	nominative
-256621	dative
-256628	accusative
-256633	nominative
+256614	nominative
+256616	nominative
+256623	nominative
+256627	dative
+256630	nominative
+256632	dative
 256639	nominative
-nominative
-256642	nominative
-256644	nominative
-256646	nominative
-nominative
-nominative
-256650	nominative
-nominative
-nominative
-nominative
-256655	nominative
-256667	nominative
-256671	nominative
-256673	nominative
-256675	nominative
-256687	nominative
-accusative
-256690	accusative
-256696	nominative
-256711	nominative
-accusative
-256716	accusative
-256722	dative
-256725	nominative
+256644	accusative
+dative
+256647	nominative
+256650	accusative
+256655	accusative
+256669	nominative
+256674	accusative
+256677	nominative
+256681	nominative
+256683	accusative
+256690	nominative
+256692	accusative
+256701	accusative
+256706	accusative
+256717	accusative
 256732	nominative
-accusative
-256748	genitive
-256750	genitive
-256753	nominative
-256767	genitive
-256778	accusative
-256796	nominative
-256802	accusative
-256806	nominative
-256818	nominative
+256735	nominative
+256739	nominative
+dative
+256743	nominative
+256745	nominative
+256750	nominative
+256755	nominative
+256762	accusative
+256775	nominative
+256781	nominative
+256789	dative
+256793	nominative
+256801	accusative
+256807	nominative
+256809	dative
+256815	nominative
+256822	dative
 nominative
-256822	nominative
-256824	nominative
-256830	nominative
-256832	accusative
+nominative
+256826	dative
+256830	dative
+256837	nominative
 accusative
-256839	genitive
+256840	accusative
+256844	nominative
+accusative
+256847	nominative
+256853	nominative
+accusative
 256864	nominative
-256882	nominative
-256905	dative
-256911	dative
-256931	dative
-256938	nominative
+256866	nominative
+256868	dative
+accusative
+256880	accusative
+256888	nominative
 nominative
-256950	nominative
-256952	dative
-256956	nominative
+256899	nominative
+256908	nominative
+256914	nominative
+256917	accusative
+256919	accusative
+256931	nominative
+nominative
+256935	nominative
+256945	nominative
+accusative
+256948	nominative
+256954	nominative
+256956	accusative
+nominative
 256968	accusative
 nominative
-256992	nominative
-256998	accusative
-257000	accusative
-257005	accusative
-257008	accusative
-257011	dative
-257018	nominative
-257026	nominative
-257030	nominative
-257036	nominative
-dative
-257040	accusative
-257052	nominative
-257056	accusative
-accusative
-257062	nominative
-257079	nominative
+256977	dative
 nominative
-257101	nominative
-dative
-257106	nominative
-257108	nominative
-dative
-257113	nominative
-257145	accusative
-257157	nominative
-257170	nominative
-257181	nominative
-257189	accusative
-257191	nominative
-257196	nominative
-257213	genitive
-257219	genitive
-257222	genitive
-257230	genitive
-257232	nominative
-dative
+nominative
+nominative
+256985	accusative
+256987	vocative
+256997	nominative
+257002	nominative
+257014	nominative
+257020	nominative
+257030	genitive
+257046	nominative
+257053	accusative
+257056	nominative
+257059	nominative
+257104	nominative
+257108	dative
+257119	nominative
+257124	nominative
+accusative
+257130	nominative
+nominative
+257134	nominative
+257137	accusative
+257140	accusative
+257156	dative
+257159	nominative
+accusative
+257165	accusative
+257174	accusative
+257183	nominative
+nominative
+257198	nominative
+257203	accusative
+257207	nominative
+nominative
+257212	nominative
+nominative
+257217	accusative
+257226	accusative
+257247	nominative
 genitive
-257240	nominative
-257245	nominative
-257278	accusative
-257294	accusative
-257299	accusative
-257314	nominative
-257318	nominative
-257321	nominative
-257331	nominative
-dative
-257344	nominative
-257351	dative
-257358	accusative
-257367	nominative
-257372	accusative
-accusative
-257389	nominative
-257395	accusative
-257398	nominative
-257402	nominative
-257428	nominative
-257432	nominative
-257450	accusative
-257452	accusative
-257455	vocative
-257459	accusative
-257461	vocative
-257467	dative
-257471	accusative
-257483	nominative
+257250	nominative
+257254	nominative
+257256	nominative
+257260	nominative
+257262	nominative
+257270	accusative
+257272	accusative
 nominative
-257490	nominative
-257495	nominative
+257287	accusative
+257293	accusative
+dative
+257296	accusative
+nominative
+257302	nominative
+dative
+257305	nominative
+nominative
+257313	accusative
+257333	nominative
+dative
+257336	accusative
+257339	genitive
+nominative
+257348	accusative
+257350	accusative
+257354	nominative
+257364	nominative
+accusative
+dative
+257369	nominative
+257380	nominative
+genitive
+257384	accusative
+257387	accusative
+genitive
+257393	dative
+257398	accusative
+257418	nominative
+257436	dative
+257441	nominative
+257446	nominative
+dative
+257451	nominative
+257461	nominative
+257469	nominative
+257472	nominative
+257478	nominative
+257482	nominative
+257488	accusative
+257496	nominative
 257499	nominative
-257504	nominative
-257508	dative
-257512	nominative
-257515	dative
-257522	nominative
-257530	nominative
+257520	nominative
+257529	accusative
+257531	nominative
 257535	nominative
-257538	genitive
-257543	nominative
-257546	vocative
-257556	accusative
-257561	nominative
-257563	nominative
-257567	accusative
-accusative
-257573	accusative
-nominative
 dative
-257579	dative
-257582	accusative
-257587	accusative
-257600	accusative
-257605	nominative
-257607	genitive
-257609	accusative
-257612	vocative
-257618	nominative
-accusative
+257538	nominative
+257542	nominative
+dative
+257549	dative
+257552	nominative
+257554	nominative
+257556	nominative
+257564	accusative
+257566	nominative
+257579	genitive
+genitive
+257583	accusative
+257597	nominative
+257600	genitive
+257602	genitive
+257610	nominative
+257619	nominative
 257622	nominative
-257625	nominative
-257628	nominative
-257630	nominative
-257633	nominative
-257635	nominative
-257638	nominative
-257640	nominative
-257644	nominative
-257653	accusative
+257626	accusative
+257640	accusative
 accusative
-257666	nominative
+257643	dative
+257645	accusative
+257649	nominative
+257654	accusative
+257657	dative
+257662	dative
+257665	accusative
+257667	nominative
+257671	nominative
+257678	accusative
 257687	nominative
-257695	nominative
-257702	accusative
-257711	accusative
+257696	accusative
+257716	genitive
+257719	nominative
+257729	nominative
+257739	nominative
+accusative
+257754	accusative
 dative
-257724	nominative
-257732	nominative
-257737	accusative
-257744	nominative
-257750	nominative
-257752	nominative
-accusative
-257755	accusative
-257762	accusative
-257774	nominative
-257781	nominative
-accusative
-257784	nominative
-257795	nominative
-257797	dative
-257800	accusative
-257803	nominative
-257814	nominative
-257822	nominative
-accusative
-257832	nominative
-257835	accusative
-257844	nominative
-257847	nominative
-257858	nominative
+257759	nominative
+257763	nominative
+257768	nominative
+257771	accusative
+257775	nominative
+257787	nominative
+257790	accusative
+257793	nominative
+257809	vocative
+257812	accusative
+257817	nominative
+257825	nominative
+257828	dative
+257833	nominative
+257835	nominative
 nominative
-257863	nominative
+257838	nominative
+257841	nominative
 nominative
-257867	nominative
-257873	nominative
-257882	nominative
-nominative
-257885	nominative
-nominative
-257889	dative
-nominative
-257897	nominative
-257900	nominative
-257907	nominative
-257914	nominative
-257920	accusative
-257925	nominative
-nominative
-257928	nominative
-257930	accusative
-257950	nominative
-257956	nominative
-257959	accusative
-accusative
-257962	accusative
-257965	genitive
-genitive
-257974	nominative
-257981	nominative
-257986	nominative
-257990	nominative
-257994	accusative
-257999	nominative
-258005	accusative
-258014	nominative
-258016	nominative
-258023	nominative
-258027	dative
-258030	nominative
-258032	dative
-258039	nominative
-258044	accusative
+257866	nominative
+257869	dative
+257876	accusative
 dative
-258047	nominative
-258050	accusative
-258055	accusative
-258069	nominative
-258074	accusative
-258077	nominative
-258081	nominative
-258083	accusative
-258090	nominative
-258092	accusative
-258101	accusative
-258106	accusative
-258117	accusative
-258132	nominative
-258135	nominative
-258139	nominative
+257884	dative
+257890	dative
+nominative
+257895	dative
+257901	dative
+257904	dative
+257906	nominative
 dative
-258143	nominative
-258145	nominative
-258151	nominative
-258156	nominative
-258164	accusative
-258178	nominative
-258184	nominative
-258192	dative
+257910	dative
+257912	dative
+257923	nominative
+257932	nominative
+257942	nominative
+nominative
+257963	nominative
+257979	nominative
+257996	nominative
+258009	nominative
+258013	nominative
+nominative
+258038	nominative
+258040	nominative
+nominative
+258043	nominative
+258065	nominative
+258068	nominative
+258070	nominative
+258073	accusative
+258078	dative
+258090	accusative
+258096	dative
+258098	nominative
+258103	nominative
+258120	nominative
+258124	nominative
+258133	accusative
+258138	accusative
+accusative
+accusative
+accusative
+accusative
+accusative
+258145	accusative
+258150	nominative
+nominative
+nominative
+nominative
+nominative
+nominative
+nominative
+nominative
+nominative
+258161	nominative
+dative
+258164	nominative
+258174	accusative
+dative
+258186	accusative
+258193	nominative
 258196	nominative
-258205	accusative
-258211	nominative
-258213	dative
-258219	nominative
-258227	dative
-nominative
-nominative
-258231	dative
-258236	dative
-258243	nominative
-accusative
-258246	accusative
-258250	nominative
-accusative
-258253	nominative
-258259	nominative
-accusative
-258270	nominative
-258272	nominative
-258274	dative
-accusative
-258288	accusative
-258296	nominative
-nominative
-258307	nominative
-258316	nominative
+258202	accusative
+258217	accusative
+258219	accusative
+258223	nominative
+258232	accusative
+258240	accusative
+258244	accusative
+258274	accusative
+258276	accusative
+258278	accusative
+258280	accusative
+258287	nominative
+258290	nominative
+258293	nominative
+258310	nominative
 258322	nominative
-258325	accusative
-258327	accusative
-258339	nominative
-nominative
-258343	nominative
-258354	nominative
+258333	accusative
+258351	nominative
+258353	genitive
+258366	nominative
+dative
+258369	dative
+258372	dative
+258374	nominative
+258377	dative
+258380	accusative
+258382	nominative
+dative
+258388	nominative
+dative
 accusative
-258357	nominative
-258364	nominative
-258366	accusative
+258393	nominative
+accusative
+258400	dative
+258405	nominative
+258407	nominative
+258409	nominative
+dative
+258417	accusative
+258421	vocative
+258425	dative
 nominative
-258378	accusative
+accusative
+accusative
+258432	dative
+258445	accusative
 nominative
-258388	dative
-nominative
-nominative
-nominative
-258396	accusative
-258398	vocative
-258408	nominative
-258413	nominative
-258425	nominative
-258431	nominative
-258441	genitive
+258451	accusative
 258458	nominative
-258465	accusative
-258468	nominative
-258473	nominative
-258518	nominative
-258522	dative
+258460	nominative
+258466	nominative
+258478	nominative
+258489	nominative
+nominative
+258499	dative
+nominative
+258502	nominative
+258504	nominative
+258517	nominative
+dative
+258525	dative
+258532	nominative
 258534	nominative
-258539	nominative
-accusative
-258545	nominative
+258552	dative
 nominative
-258550	nominative
-258553	accusative
-258556	accusative
-258572	dative
-258575	nominative
-accusative
-258582	accusative
-258592	accusative
-258602	nominative
-nominative
-258617	nominative
-258622	accusative
+258564	accusative
+258568	nominative
+258581	dative
+258596	vocative
+258598	nominative
+258606	nominative
+258624	genitive
 258626	nominative
-nominative
-258631	nominative
-nominative
-258636	accusative
-258645	accusative
-258666	nominative
-genitive
-258669	nominative
-258673	nominative
-258675	nominative
+258632	dative
+258640	dative
+258651	nominative
+258653	dative
+258664	nominative
 258679	nominative
-258681	nominative
-258690	accusative
-258692	accusative
-nominative
+258683	nominative
+258687	nominative
+258693	nominative
+258696	vocative
+258699	nominative
+accusative
+258702	accusative
+258704	accusative
+258706	accusative
 258708	accusative
-258714	accusative
-dative
-258717	accusative
+258710	nominative
+258714	dative
 nominative
-258724	nominative
-dative
-258727	nominative
+258726	nominative
+258732	nominative
+258752	dative
+258758	nominative
+258762	nominative
+258765	nominative
+258769	dative
+258774	genitive
+258777	genitive
+258791	dative
+258801	accusative
+258808	nominative
+258811	dative
+258822	accusative
+258825	nominative
+258831	accusative
+258833	dative
+258839	nominative
+258850	dative
 nominative
-258735	accusative
-258756	nominative
-dative
-258759	accusative
-258762	genitive
+258859	dative
+vocative
+258862	accusative
+258864	dative
+accusative
+258876	dative
+258885	dative
+258887	accusative
+258891	nominative
+258909	dative
+258921	nominative
+258926	dative
+258935	dative
 nominative
-258772	accusative
-258774	accusative
-258778	nominative
-258789	nominative
-accusative
+258942	nominative
+258945	nominative
+258947	nominative
+258957	nominative
+258966	nominative
+258970	accusative
+258992	nominative
+259011	nominative
+259015	nominative
+259019	nominative
+259023	nominative
+259039	accusative
+259044	nominative
+259049	nominative
+259053	nominative
+259057	nominative
+259060	nominative
+259070	nominative
+259079	accusative
+nominative
+259089	genitive
+259093	nominative
+259101	nominative
+259107	nominative
+259109	nominative
+259114	nominative
+nominative
+259137	accusative
+259140	genitive
+259151	accusative
+259161	nominative
+259163	nominative
+259166	genitive
 dative
-258794	nominative
-258805	nominative
-genitive
-258809	accusative
-258812	accusative
-genitive
-258819	dative
-258824	accusative
-258844	nominative
-258862	dative
-258867	nominative
-258872	nominative
+259172	dative
+259179	dative
 dative
-258877	nominative
-258887	nominative
-258895	nominative
-258898	nominative
-258904	nominative
-258908	nominative
-258914	accusative
-258922	nominative
-258925	nominative
-258946	nominative
-258956	accusative
-258958	nominative
-258962	nominative
-dative
-258965	nominative
-258969	nominative
-dative
-258976	dative
-258980	nominative
-258982	nominative
-258984	nominative
-258992	accusative
-258994	nominative
-259008	genitive
-genitive
-259012	accusative
-259027	nominative
-259032	genitive
-259034	genitive
-259042	nominative
-259051	nominative
-259054	nominative
-259058	accusative
-259072	accusative
-accusative
-259075	dative
-259077	accusative
-259081	nominative
-259086	accusative
-259089	dative
-259095	dative
-259098	accusative
-259100	nominative
-259105	nominative
-259112	accusative
-259121	nominative
-259131	accusative
-259152	genitive
-259155	nominative
-259165	nominative
-259175	nominative
-accusative
-259190	accusative
-dative
+259185	nominative
+259188	accusative
+259190	nominative
 259195	nominative
-259199	nominative
-259204	nominative
-259208	accusative
-259212	nominative
-259224	nominative
-259227	accusative
-259230	nominative
-259246	vocative
-259249	accusative
+259198	accusative
+259202	accusative
+259211	vocative
+accusative
+259223	nominative
+dative
+259227	nominative
+259248	nominative
+259251	dative
 259255	nominative
-259263	nominative
-259266	dative
-259271	nominative
-259273	nominative
+259263	vocative
 nominative
-259276	nominative
-259279	nominative
+accusative
+259273	accusative
+259278	accusative
+259291	dative
+accusative
+259305	nominative
+259307	genitive
 nominative
-259304	nominative
-259307	dative
-259314	accusative
+259311	nominative
+259314	nominative
+259316	genitive
+259323	nominative
+259328	nominative
+259332	nominative
+259335	nominative
+259338	nominative
+259340	nominative
+259342	genitive
+259380	accusative
+259385	accusative
+259388	nominative
+259397	nominative
+259401	nominative
+259403	nominative
+259407	nominative
+259409	nominative
+259423	accusative
+259426	vocative
+259438	accusative
 dative
-259322	dative
-259328	dative
-nominative
-259333	dative
-259339	dative
-259342	dative
-259344	nominative
+259441	nominative
+259444	nominative
+259459	nominative
+259461	nominative
+259468	accusative
+259473	accusative
+259480	accusative
+259485	accusative
+259490	nominative
+259496	vocative
+259500	vocative
+259516	nominative
 dative
-259348	dative
-259350	dative
-259362	nominative
-259371	nominative
-259381	nominative
-nominative
-259402	nominative
-259420	nominative
-259439	nominative
-259452	nominative
-259456	nominative
-nominative
-259481	nominative
-259483	nominative
-nominative
-259486	nominative
-259509	nominative
-259512	nominative
-259514	nominative
-259517	accusative
-259522	dative
-259534	accusative
-259540	dative
+dative
+259530	nominative
+259536	nominative
 259542	nominative
-259547	nominative
-259567	nominative
-259571	nominative
+259564	nominative
+accusative
+259572	nominative
+259577	accusative
 259580	accusative
-259586	accusative
+259588	nominative
+259590	accusative
+259598	accusative
+259600	accusative
+259605	accusative
+259611	nominative
 accusative
-accusative
-accusative
-accusative
-accusative
-259593	accusative
-259598	nominative
-nominative
-nominative
-nominative
-nominative
-nominative
-nominative
-nominative
-nominative
-259609	nominative
-dative
-259612	nominative
-259622	accusative
-dative
-259635	accusative
+259619	accusative
+259638	dative
 259642	nominative
-259645	nominative
-259652	accusative
-259667	accusative
-259669	accusative
-259673	nominative
-259682	accusative
-259690	accusative
-259694	accusative
-259726	accusative
-259728	accusative
-259730	accusative
-259732	accusative
-259741	nominative
-259745	nominative
-259749	nominative
-259767	nominative
-259780	nominative
-259791	accusative
-259809	nominative
-259811	genitive
-259825	nominative
-dative
-259828	dative
+nominative
+259647	nominative
+259660	nominative
+259662	accusative
+259666	accusative
+259673	accusative
+259681	accusative
+259683	accusative
+259693	nominative
+259712	accusative
+vocative
+259725	accusative
+259733	dative
+259735	dative
+259746	nominative
+259759	accusative
+259764	accusative
+259766	accusative
+259775	accusative
+259779	accusative
+259787	nominative
+259792	nominative
+vocative
+259820	dative
+259826	dative
 259831	dative
-259833	nominative
-259836	dative
-259839	accusative
-259841	nominative
-dative
-259847	nominative
-dative
+259840	nominative
+259858	nominative
 accusative
-259852	nominative
-accusative
-259859	dative
-259865	nominative
-259867	nominative
-259869	nominative
-dative
-259877	accusative
-259882	vocative
-259886	dative
-nominative
-accusative
-accusative
-259893	dative
-259907	accusative
-nominative
-259914	accusative
-259921	nominative
-259923	nominative
-259929	nominative
-259942	nominative
-259954	nominative
-nominative
+259866	accusative
+259873	genitive
+259875	nominative
+259906	genitive
+259911	genitive
+259917	nominative
+259919	nominative
+259931	accusative
+259933	vocative
+259938	genitive
+259947	accusative
+259951	nominative
 259965	dative
-nominative
-259968	nominative
-259970	nominative
-259983	nominative
-dative
-259992	dative
-259999	nominative
-260001	nominative
-260023	dative
-nominative
-260035	accusative
-260039	nominative
-260052	dative
-260067	vocative
-260069	nominative
-260077	nominative
-260096	genitive
-260098	nominative
-260104	dative
-260112	dative
-260124	nominative
-260126	dative
-260138	nominative
-260154	nominative
-260158	nominative
+259967	nominative
+259971	accusative
+259979	genitive
+260022	dative
+260025	accusative
+260038	accusative
+260045	genitive
+260056	accusative
+260076	accusative
+260078	nominative
+260083	accusative
+260096	nominative
+260118	nominative
+260143	nominative
+accusative
+260148	nominative
+accusative
+260152	nominative
+accusative
+260155	nominative
 260162	nominative
-260168	nominative
-260171	vocative
-260176	nominative
+260164	accusative
+260171	nominative
+genitive
+260182	nominative
+260191	dative
+260199	nominative
+260201	accusative
+260203	nominative
 accusative
-260179	accusative
-260181	accusative
-260183	accusative
-260185	accusative
-260187	nominative
-260192	dative
-nominative
-260204	nominative
-260211	nominative
-260232	dative
-260238	nominative
-260242	nominative
-260245	nominative
-260249	dative
-260254	genitive
-260257	genitive
-260273	dative
+260207	nominative
+260214	nominative
+accusative
+260218	genitive
+260220	accusative
+260222	nominative
+260237	dative
+260247	accusative
+260253	nominative
+260255	accusative
+260263	nominative
+260273	accusative
+260283	accusative
 260286	accusative
-260293	nominative
-260296	dative
-260307	accusative
-260311	nominative
-260317	accusative
-260319	dative
-260326	nominative
-260337	dative
-nominative
-260346	dative
-vocative
-260350	accusative
-260352	dative
+260297	nominative
+260299	dative
+260301	accusative
+260303	nominative
+260306	accusative
+260309	accusative
+260324	nominative
+260333	genitive
+dative
+genitive
+260339	accusative
+260344	accusative
+260349	nominative
+dative
+260356	nominative
+260358	dative
 accusative
-260365	dative
-260374	dative
-260376	accusative
-260380	nominative
-260399	dative
-260411	nominative
-260417	dative
-260426	dative
+260367	dative
+260377	dative
+260380	dative
+dative
+260387	dative
+260395	nominative
 nominative
-260434	nominative
-260437	nominative
+260416	accusative
+260429	nominative
+260431	nominative
 260439	nominative
-260449	nominative
-260458	nominative
-260462	accusative
-260485	nominative
-260504	nominative
-260509	nominative
-260513	nominative
-260517	nominative
-260534	accusative
-260539	nominative
+260443	nominative
+260445	nominative
+260450	genitive
+260468	nominative
+260471	accusative
+260480	nominative
+260483	accusative
+260501	nominative
+dative
+260520	accusative
+260533	nominative
+260539	dative
 260544	nominative
-260548	nominative
-260553	nominative
-260556	nominative
+260551	genitive
+260554	nominative
+260557	nominative
+260559	nominative
 260566	nominative
-260575	accusative
+260568	accusative
+260580	genitive
+260598	nominative
+260606	nominative
 nominative
-260585	genitive
-260589	nominative
-260597	nominative
-260603	nominative
-260605	nominative
-260611	nominative
-nominative
-260634	accusative
-260637	genitive
-260648	accusative
-260659	nominative
-260661	nominative
-260664	genitive
-dative
-260670	dative
-260677	dative
-dative
-260683	nominative
-260686	accusative
-260688	nominative
-260693	nominative
-260696	accusative
-260700	accusative
-260710	vocative
+260626	nominative
+260630	dative
+260633	nominative
+260643	nominative
+260657	nominative
+260660	nominative
+260668	nominative
 accusative
-260722	nominative
-dative
-260727	nominative
-260749	nominative
-260752	dative
-260756	nominative
-260764	vocative
-nominative
+260682	dative
+260703	nominative
+260709	accusative
+260714	accusative
 accusative
-260774	accusative
-260779	accusative
-260792	dative
+260721	nominative
+260723	nominative
+260725	nominative
+260757	nominative
+260760	nominative
+260762	nominative
+260765	nominative
+260767	nominative
+260770	nominative
+260772	nominative
+260775	nominative
+260782	nominative
+260795	nominative
+260816	nominative
+260823	accusative
+260832	nominative
+260834	nominative
+260848	nominative
+260885	dative
+260887	genitive
+genitive
 accusative
-260806	nominative
-260808	genitive
-nominative
-260812	nominative
-260815	nominative
-260817	genitive
-260824	nominative
-260829	nominative
-260833	nominative
-260836	nominative
-260839	nominative
-260841	nominative
-260843	genitive
-260886	accusative
-260891	accusative
+260892	accusative
 260894	nominative
-260905	nominative
-260909	nominative
-260911	nominative
-260915	nominative
-260917	nominative
-260931	accusative
-260934	vocative
-260947	accusative
+nominative
+260898	nominative
+nominative
+260927	nominative
+260930	nominative
+260932	nominative
+260936	nominative
+260940	nominative
+260942	dative
+260952	nominative
+accusative
+260957	nominative
 dative
-260950	nominative
-260953	nominative
-260968	nominative
-260970	nominative
-260977	accusative
-260982	accusative
-260990	accusative
-260995	accusative
+260963	nominative
+260967	nominative
+260969	nominative
 261000	nominative
-261008	vocative
-261012	vocative
-261028	nominative
 dative
+261014	nominative
+261019	accusative
+261023	accusative
+261025	accusative
+nominative
+261031	accusative
+261033	dative
+261045	accusative
+261047	dative
+261050	nominative
 dative
-261042	nominative
-261048	nominative
-261054	nominative
-261078	nominative
-261080	accusative
-261087	nominative
-261094	accusative
+261057	accusative
+261064	dative
+261067	dative
+261073	accusative
+accusative
+accusative
+nominative
+261086	nominative
+261094	nominative
 261097	accusative
-261105	nominative
-261107	accusative
-261116	accusative
-261118	accusative
-261123	accusative
-261129	nominative
+261104	accusative
+261111	nominative
+261118	nominative
+261124	genitive
 accusative
+dative
+261129	genitive
+dative
+261135	nominative
 261138	accusative
-261157	dative
-261161	nominative
-nominative
-261167	nominative
-261180	nominative
-261182	accusative
-261188	accusative
-261195	accusative
-261203	accusative
-261205	accusative
-261215	nominative
-261236	accusative
-vocative
-261250	accusative
-261258	dative
-261260	dative
+dative
+261142	nominative
+dative
+261147	nominative
+261157	genitive
+261164	accusative
+accusative
+261167	accusative
+261170	nominative
+261174	nominative
+261184	accusative
+261190	genitive
+261195	dative
+261204	nominative
+261211	nominative
+accusative
+261256	nominative
+261258	nominative
+261261	nominative
+261263	nominative
+261266	nominative
 261272	nominative
-261285	accusative
+261275	nominative
+261278	nominative
+261281	nominative
+261284	nominative
+accusative
+261287	nominative
 261290	accusative
-261292	accusative
-261301	accusative
-261305	accusative
-261314	nominative
-261319	nominative
-vocative
-261347	dative
-261353	dative
-261358	dative
-261367	nominative
-261385	nominative
+nominative
+261293	accusative
+nominative
+261299	vocative
+261315	dative
+261321	dative
+nominative
+261324	nominative
+261328	nominative
+nominative
+dative
+261332	nominative
+261337	nominative
+nominative
+dative
+261341	nominative
+261343	nominative
+261346	nominative
+261351	genitive
+261366	nominative
+261377	nominative
+261379	genitive
+261382	nominative
+261384	accusative
+261387	dative
+261390	nominative
+261392	dative
+261400	nominative
+261402	vocative
+261404	accusative
+261410	nominative
 accusative
-261393	accusative
-261401	genitive
-261403	nominative
-261434	genitive
-261440	genitive
-261446	nominative
-261448	nominative
-261460	accusative
-261462	vocative
-261467	genitive
-261476	accusative
-261481	nominative
-261497	dative
-261499	nominative
+261415	accusative
+accusative
+261418	accusative
+261420	accusative
+261435	nominative
+dative
+nominative
+261439	nominative
+dative
+nominative
+261453	genitive
+genitive
+261458	accusative
+261463	nominative
+261465	nominative
+261467	nominative
+261470	nominative
+261473	accusative
+261488	dative
+261491	nominative
+dative
 261503	accusative
-261513	genitive
-261556	dative
-261559	accusative
-261572	accusative
-261579	genitive
-261591	accusative
-261611	accusative
-261613	nominative
-261618	accusative
-261631	nominative
-261653	nominative
-261678	nominative
+261510	accusative
+261526	accusative
+261555	accusative
+261565	dative
+261574	accusative
 accusative
-261683	nominative
-accusative
-261687	nominative
-accusative
-261690	nominative
-261697	nominative
-261699	accusative
-261706	nominative
-genitive
-261718	nominative
-261727	dative
-261735	nominative
-261737	accusative
-261739	nominative
-accusative
-261743	nominative
-261750	nominative
-accusative
-261754	genitive
-261756	accusative
-261758	nominative
-261773	dative
-261784	accusative
-261790	nominative
-261792	accusative
-261800	nominative
-261810	accusative
-261820	accusative
-261823	accusative
-261834	nominative
-261836	dative
-261838	accusative
-261840	nominative
-261845	accusative
-261848	accusative
-261864	nominative
-261873	genitive
+261582	dative
+261586	genitive
+261589	genitive
+261620	accusative
 dative
-genitive
-261879	accusative
-261884	accusative
-261889	nominative
-dative
-261896	nominative
-261898	dative
-accusative
-261907	dative
-261918	dative
-261921	dative
-dative
-261928	dative
-261936	nominative
-nominative
-261958	accusative
-261971	nominative
-261973	nominative
-261981	nominative
-261986	nominative
-261988	nominative
-261993	genitive
-262011	nominative
-262014	accusative
-262024	nominative
-262027	accusative
-262046	nominative
-dative
-262065	accusative
-262078	nominative
-262084	dative
-262089	nominative
-262096	genitive
-262099	nominative
-262102	nominative
-262104	nominative
-262111	nominative
-262113	accusative
-262125	genitive
-262143	nominative
-262153	nominative
-nominative
-262174	nominative
-262178	dative
-262181	nominative
-262193	nominative
-262208	nominative
-262211	nominative
-262219	nominative
-accusative
-262234	dative
-262256	nominative
-262263	accusative
-262268	accusative
-accusative
-262276	nominative
-262278	nominative
-262280	nominative
-262314	nominative
-262317	nominative
-262319	nominative
-262322	nominative
-262324	nominative
-262327	nominative
-262329	nominative
-262332	nominative
-262340	nominative
-262354	nominative
-262375	nominative
-262382	accusative
-262391	nominative
-262393	nominative
-262408	nominative
-262446	dative
-262448	genitive
-genitive
-accusative
-262453	accusative
-262455	nominative
-nominative
-262459	nominative
-nominative
-262488	nominative
-262491	nominative
-262493	nominative
-262497	nominative
-262501	nominative
-262503	dative
-262513	nominative
-accusative
-262518	nominative
-dative
-262524	nominative
-262529	nominative
-262531	nominative
-262562	nominative
-dative
-262576	nominative
-262581	accusative
-262585	accusative
-262587	accusative
-nominative
-262593	accusative
-262595	dative
-262608	accusative
-262610	dative
-262613	nominative
-dative
-262620	accusative
-262627	dative
-262630	dative
-262636	accusative
-accusative
-accusative
-nominative
-262649	nominative
-262657	nominative
-262660	accusative
-262668	accusative
-262675	nominative
-262683	nominative
-262690	genitive
-accusative
-dative
-262695	genitive
-dative
-262701	nominative
-262704	accusative
-dative
-262708	nominative
-dative
-262713	nominative
-262724	genitive
-262731	accusative
-accusative
-262734	accusative
-262737	nominative
-262741	nominative
-262751	accusative
-262757	genitive
-262762	dative
-262772	nominative
-262779	nominative
-accusative
-262825	nominative
-262827	nominative
-262830	nominative
-262832	nominative
-262835	nominative
-262841	nominative
-262844	nominative
-262847	nominative
-262850	nominative
-262853	nominative
-accusative
-262856	nominative
-262859	accusative
-nominative
-262862	accusative
-nominative
-262868	vocative
-262886	dative
-262892	dative
-nominative
-262895	nominative
-262899	nominative
-nominative
-dative
-262903	nominative
-262908	nominative
-nominative
-dative
-262912	nominative
-262914	nominative
-262918	nominative
-262923	genitive
-262938	nominative
-262951	nominative
-262953	genitive
-262957	nominative
-262959	accusative
-262962	dative
-262965	nominative
-262967	dative
-262975	nominative
-262977	vocative
-262979	accusative
-262985	nominative
-accusative
-262990	accusative
-262992	accusative
-262994	accusative
-262996	accusative
-263012	nominative
-dative
-nominative
-263016	nominative
-dative
-nominative
-263032	genitive
-genitive
-263037	accusative
-263043	nominative
-263045	nominative
-263047	nominative
-263050	nominative
-263053	accusative
-263069	dative
-263072	nominative
-dative
-263084	accusative
-263093	accusative
-263111	accusative
-263141	accusative
-263151	dative
-263160	accusative
-accusative
-263169	dative
-263173	genitive
-263176	genitive
-263209	accusative
-dative
-263218	accusative
-263221	dative
-263228	nominative
-263236	genitive
-263245	accusative
-263254	dative
+261628	accusative
+261631	dative
+261638	nominative
+261646	genitive
+261655	accusative
+261663	dative
 vocative
-263260	accusative
-263291	nominative
-263294	nominative
+261669	accusative
+261700	nominative
+261703	nominative
 genitive
-263313	accusative
-263323	accusative
+261721	accusative
+261731	accusative
 accusative
-263368	nominative
-263379	nominative
+261776	nominative
+261787	nominative
 nominative
-263382	nominative
-263387	accusative
-263390	nominative
-263392	dative
-263394	nominative
-263424	nominative
-263434	dative
+261790	nominative
+261795	accusative
+261798	nominative
+261800	dative
+261802	nominative
+261832	nominative
+261840	dative
 nominative
 dative
 nominative
-263458	nominative
-263469	nominative
-263473	dative
-263485	nominative
-263487	nominative
+261864	nominative
+261875	nominative
+261879	dative
+261891	nominative
+261893	nominative
 nominative
-263505	accusative
-263509	nominative
-263517	dative
-263528	nominative
+261910	accusative
+261914	nominative
+261922	dative
+261932	nominative
 accusative
+261935	nominative
+accusative
+261942	dative
+261946	accusative
+261955	dative
+261958	accusative
+261963	accusative
+accusative
+261967	accusative
+accusative
+261996	nominative
+262008	nominative
+dative
+262012	dative
+262018	accusative
+262021	dative
+nominative
+262053	nominative
+262056	accusative
+accusative
+262059	nominative
+262063	nominative
+262067	accusative
+262079	accusative
+262081	accusative
+accusative
+262092	accusative
+262095	nominative
+262101	nominative
+262106	nominative
+262129	nominative
+262145	nominative
+accusative
+dative
+262149	accusative
+262162	nominative
+262165	nominative
+262168	accusative
+262177	accusative
+262184	nominative
+262193	nominative
+262214	genitive
+262217	genitive
+accusative
+262222	accusative
+262227	nominative
+262237	accusative
+262244	nominative
+262248	nominative
+262250	nominative
+262257	nominative
+262260	dative
+262265	accusative
+accusative
+262269	accusative
+262272	nominative
+262283	nominative
+262285	nominative
+262290	nominative
+262294	accusative
+262300	nominative
+262308	nominative
+262319	nominative
+262321	dative
+genitive
+262324	accusative
+262329	nominative
+genitive
+262341	genitive
+262357	accusative
+262372	nominative
+262375	nominative
+accusative
+262379	nominative
+262384	nominative
+nominative
+262387	nominative
+262394	accusative
+262396	accusative
+genitive
+262399	nominative
+262402	accusative
+nominative
+262405	nominative
+accusative
+dative
+262410	nominative
+262421	genitive
+262423	dative
+262425	genitive
+262433	nominative
+262436	accusative
+262448	nominative
+262451	accusative
+262453	nominative
+genitive
+262474	nominative
+262479	accusative
+nominative
+nominative
+262483	nominative
+262485	accusative
+262490	genitive
+262496	genitive
+262499	accusative
+262503	accusative
+262514	accusative
+262533	nominative
+262536	accusative
+262543	accusative
+262548	accusative
+262555	accusative
+262570	nominative
+262574	accusative
+262576	accusative
+nominative
+262579	nominative
+262587	dative
+262590	nominative
+accusative
+262597	nominative
+262600	nominative
+262603	genitive
+262609	nominative
+262613	accusative
+accusative
+dative
+262634	accusative
+262637	accusative
+262646	genitive
+accusative
+262650	dative
+262659	nominative
+262664	nominative
+262672	nominative
+262691	nominative
+accusative
+262694	accusative
+262700	accusative
+262702	accusative
+262704	nominative
+262707	accusative
+262721	nominative
+262725	nominative
+262731	nominative
+nominative
+262736	nominative
+accusative
+262740	nominative
+262743	nominative
+262746	nominative
+262749	nominative
+262751	accusative
+262757	nominative
+262761	nominative
+262766	nominative
+nominative
+262769	nominative
+nominative
+262772	nominative
+262775	nominative
+262778	nominative
+262781	nominative
+262801	accusative
+262805	dative
+262809	dative
+262811	dative
+262813	dative
+262815	dative
+262817	dative
+262819	dative
+262836	dative
+262844	nominative
+262849	nominative
+262853	nominative
+262870	nominative
+nominative
+262886	accusative
+262901	accusative
+262925	accusative
+262949	accusative
+262951	nominative
+dative
+262971	nominative
+accusative
+262978	nominative
+262982	accusative
+262984	accusative
+262998	dative
+nominative
+263003	accusative
+263017	dative
+263019	dative
+263026	accusative
+263052	nominative
+263055	nominative
+nominative
+accusative
+263059	nominative
+263064	accusative
+263083	nominative
+263086	accusative
+263096	genitive
+263098	dative
+263115	accusative
+263125	nominative
+263127	accusative
+263135	accusative
+263137	accusative
+263141	nominative
+263144	accusative
+263146	nominative
+nominative
+dative
+accusative
+263151	genitive
+263156	accusative
+263158	accusative
+263163	accusative
+nominative
+263173	dative
+263180	vocative
+263187	nominative
+263189	accusative
+263192	accusative
+nominative
+263195	dative
+accusative
+263203	genitive
+genitive
+263206	accusative
+263213	genitive
+263216	genitive
+263221	dative
+263237	nominative
+263240	nominative
+263243	dative
+263260	genitive
+nominative
+263286	accusative
+263291	accusative
+263296	accusative
+263301	nominative
+263308	nominative
+263311	nominative
+263318	accusative
+263322	nominative
+nominative
+263327	nominative
+263330	nominative
+263338	accusative
+263348	nominative
+263350	nominative
+263352	nominative
+263360	accusative
+nominative
+263364	nominative
+263370	accusative
+263373	dative
+263379	accusative
+vocative
+263396	accusative
+263400	accusative
+263434	genitive
+accusative
+263446	dative
+263456	genitive
+accusative
+263463	accusative
+263468	genitive
+263476	dative
+263489	genitive
+accusative
+263495	nominative
+263498	nominative
+263501	nominative
+263503	nominative
+accusative
+263506	nominative
+263518	dative
+263520	accusative
+263522	dative
+nominative
 263531	nominative
 accusative
-263538	dative
-263542	accusative
+263535	accusative
+263537	nominative
+263547	dative
 263551	dative
-263555	accusative
-263560	accusative
+263558	dative
+vocative
+263562	accusative
+263571	nominative
+263574	accusative
+263596	accusative
+263609	nominative
+263616	nominative
 accusative
-263564	accusative
-accusative
-263595	nominative
-263607	nominative
-dative
-263611	dative
-263618	accusative
-263621	dative
-nominative
-263658	nominative
+263622	nominative
+263632	accusative
 263661	accusative
+263677	accusative
+263680	dative
+263705	accusative
+263709	nominative
 accusative
-263664	nominative
-263668	nominative
-263672	accusative
-263684	accusative
-263686	accusative
-accusative
-263697	accusative
-263700	nominative
-263706	nominative
-263714	nominative
-263739	nominative
-263756	nominative
-accusative
-dative
-263760	accusative
-263773	nominative
-263777	nominative
-263780	accusative
+263715	accusative
+263729	nominative
+263736	dative
+263738	accusative
+263744	dative
+263754	nominative
+nominative
+263762	nominative
+263767	accusative
+263772	accusative
+263774	dative
+263787	genitive
 263789	accusative
-263796	nominative
-263805	nominative
-263826	genitive
-263829	genitive
-accusative
-263834	accusative
-263839	nominative
-263849	accusative
-263856	nominative
-263860	nominative
-263862	nominative
-263869	nominative
-263873	dative
-263878	accusative
-accusative
-263882	accusative
-263887	nominative
-263898	nominative
-263900	nominative
-263905	nominative
-263909	accusative
-263915	nominative
-263924	nominative
-263936	nominative
-263938	dative
-genitive
-263941	accusative
-263946	nominative
-genitive
-263961	genitive
-263977	accusative
-263992	nominative
-263995	nominative
-accusative
-263999	nominative
-264004	nominative
 nominative
-264007	nominative
-264014	accusative
-264016	accusative
-genitive
-264019	nominative
-264022	accusative
-nominative
-264025	nominative
-accusative
+263793	accusative
 dative
-264030	nominative
-264042	genitive
-264044	dative
-264046	genitive
-264055	nominative
-264058	accusative
-264070	nominative
-264073	accusative
-264075	nominative
-genitive
-264097	nominative
-264102	accusative
+263800	dative
+263802	nominative
+accusative
+263806	accusative
+263808	nominative
+263815	nominative
+263818	nominative
+dative
+263828	nominative
+263831	accusative
+dative
+263836	nominative
+nominative
+263845	nominative
+263848	nominative
+263852	accusative
+263856	accusative
+263864	nominative
+263867	dative
+263874	accusative
+263885	accusative
+nominative
+263891	dative
+263914	nominative
 nominative
 nominative
+263926	nominative
+dative
+nominative
+263932	nominative
+nominative
+263938	nominative
+263967	nominative
+263972	nominative
+263974	nominative
+263980	accusative
+263982	accusative
+263985	accusative
+accusative
+263988	nominative
+263991	dative
+263994	dative
+263996	dative
+264001	nominative
+264005	nominative
+accusative
+264019	genitive
+accusative
+264022	genitive
+accusative
+264033	nominative
+264035	nominative
+264040	nominative
+accusative
+264043	dative
+264047	nominative
+264061	nominative
+264063	nominative
+dative
+264066	dative
+264068	accusative
+264076	nominative
+dative
+264080	nominative
+accusative
+264091	nominative
+264096	dative
+264103	nominative
 264106	nominative
-264108	accusative
-264114	genitive
-264120	genitive
-264124	accusative
-264128	accusative
-264141	accusative
-264161	nominative
-264165	accusative
-264173	accusative
-264179	accusative
-264186	accusative
-264201	nominative
-264206	accusative
-264208	accusative
+264128	nominative
+264138	nominative
+264140	nominative
+264144	dative
+264150	accusative
+264154	nominative
+264158	nominative
+264169	nominative
+accusative
+264173	nominative
+accusative
+264180	nominative
+264182	nominative
+264185	nominative
+264187	nominative
+264205	vocative
+264211	accusative
 nominative
-264211	nominative
-264219	dative
-264222	nominative
+264237	nominative
+264239	nominative
 accusative
-264229	nominative
-264232	nominative
-264235	genitive
-264241	nominative
-264245	accusative
-accusative
-dative
-264267	accusative
-264270	accusative
-264279	genitive
-accusative
-264283	dative
+264244	accusative
+264253	nominative
+264270	nominative
+264279	dative
+264281	nominative
+264287	genitive
 264292	nominative
-264298	nominative
 264306	nominative
-264325	nominative
-accusative
-264328	accusative
-264337	accusative
-264339	accusative
-264341	nominative
-264344	accusative
+264323	dative
+264330	nominative
+264334	accusative
+264344	genitive
+264350	nominative
 264359	nominative
-264363	nominative
-264369	nominative
-nominative
-264375	nominative
-accusative
+264363	accusative
 264379	nominative
-264382	nominative
 264385	nominative
-264388	nominative
-264390	accusative
-264396	nominative
-264401	nominative
-264406	nominative
-264408	nominative
-264410	nominative
-264412	nominative
-264414	nominative
+genitive
+264392	nominative
+264398	nominative
+264400	accusative
+264402	genitive
+264404	nominative
 264418	nominative
-264421	nominative
-264424	nominative
-264446	accusative
-264451	dative
-264456	dative
-264458	dative
-264460	dative
-264462	dative
-264464	dative
-264466	dative
-264484	dative
-264492	nominative
-264497	nominative
-264501	nominative
-264519	nominative
-nominative
-264535	accusative
-264550	accusative
-264578	accusative
-264605	accusative
-264607	nominative
+264434	accusative
+264436	accusative
+264448	nominative
+264458	accusative
+264467	nominative
+264474	nominative
+accusative
+264477	dative
+264479	dative
 dative
-264629	nominative
+264484	nominative
 accusative
-264637	nominative
-264641	accusative
-264643	accusative
-264657	dative
-nominative
-264662	accusative
-264676	dative
-264679	dative
-264686	accusative
-264712	nominative
-264715	nominative
-nominative
+264488	nominative
+264497	dative
+264507	accusative
+264514	nominative
+264516	nominative
+264518	nominative
+vocative
+264521	genitive
 accusative
-264719	nominative
-264724	accusative
-264743	nominative
-264746	accusative
-264756	genitive
-264758	dative
-264776	accusative
+accusative
+264532	dative
+264548	accusative
+264557	dative
+264560	nominative
+264563	nominative
+264565	dative
+264569	nominative
+dative
+264572	accusative
+264577	accusative
+264580	accusative
+264582	nominative
+264589	accusative
+264592	accusative
+264595	accusative
+264599	genitive
+264601	nominative
+264617	dative
+264619	nominative
+264627	nominative
+264652	nominative
+264654	nominative
+nominative
+264660	nominative
+264665	nominative
+nominative
+264668	nominative
+264687	nominative
+264689	nominative
+264697	nominative
+264702	nominative
+264705	nominative
+264711	genitive
+264713	nominative
+264715	vocative
+264723	nominative
+264731	accusative
+264751	vocative
+264758	accusative
+nominative
+264771	dative
+264775	nominative
+accusative
+accusative
+264784	dative
 264786	nominative
-264788	accusative
-264796	accusative
-264798	accusative
-264803	nominative
-264806	accusative
-264808	nominative
+264793	nominative
+264798	nominative
+264800	dative
+264810	accusative
+264816	nominative
+264819	nominative
+accusative
+264822	dative
+264828	genitive
+accusative
+264834	nominative
+264842	nominative
+accusative
+264846	nominative
+264848	nominative
+264850	vocative
+264852	accusative
+264855	accusative
+264866	nominative
+accusative
+nominative
+264872	vocative
+264883	dative
+264896	accusative
+264899	accusative
+264909	dative
+264924	nominative
+264926	dative
+264929	accusative
+264931	accusative
+264935	dative
+264940	nominative
+264946	nominative
+264951	accusative
+264953	dative
+264958	nominative
+264972	nominative
+264986	dative
+dative
+264992	nominative
+accusative
 nominative
 dative
-accusative
-264814	genitive
-264819	accusative
-264821	accusative
-264826	accusative
 nominative
-264837	dative
-264844	vocative
-264854	nominative
-264856	accusative
-264859	accusative
-nominative
-264862	dative
-accusative
-264871	genitive
-genitive
-264874	accusative
-264881	genitive
-264884	genitive
-264890	dative
-264906	nominative
-264909	nominative
-264912	dative
-264932	genitive
-nominative
-264960	accusative
-264965	accusative
-264970	accusative
-264975	nominative
-264982	nominative
-264985	nominative
-264992	accusative
-264996	nominative
-nominative
+vocative
 265001	nominative
-265004	nominative
-265012	accusative
-265023	nominative
-265025	nominative
+265010	nominative
+accusative
 265027	nominative
-265035	accusative
+265029	nominative
 nominative
-265039	nominative
-265046	accusative
-265049	dative
-265055	accusative
-vocative
-265073	accusative
-265077	accusative
-265111	genitive
-accusative
-265123	dative
-265133	genitive
-accusative
-265140	accusative
-265145	genitive
-265154	dative
-265168	genitive
-accusative
-265175	nominative
-265178	nominative
-265181	nominative
-265183	nominative
-accusative
-265186	nominative
-265200	dative
-265202	accusative
-265204	dative
 nominative
-265215	nominative
+265033	accusative
+265038	nominative
+265043	accusative
+265050	nominative
+265057	nominative
+265059	dative
+265064	nominative
+265067	accusative
+265070	nominative
 accusative
-265219	accusative
-265221	nominative
-265231	dative
-265235	dative
-265242	dative
-vocative
-265246	accusative
+265076	nominative
+265083	accusative
+265085	nominative
+265094	nominative
+265101	nominative
+265105	accusative
+265118	dative
+265122	nominative
+265126	nominative
+265128	accusative
+265130	accusative
+265140	nominative
+accusative
+265145	accusative
+265152	dative
+265167	dative
+nominative
+265170	nominative
+dative
+265176	nominative
+265182	nominative
+265196	accusative
+dative
+nominative
+265200	nominative
+265218	vocative
+265229	dative
+265236	dative
+265245	nominative
 265255	nominative
-265258	accusative
-265280	accusative
-265293	nominative
-265301	nominative
 accusative
-265307	nominative
-265317	accusative
-265346	accusative
-265362	accusative
-265365	dative
-265390	accusative
-265394	nominative
+265265	accusative
+265270	accusative
+265275	nominative
 accusative
-265401	accusative
-265415	nominative
-265422	dative
+265291	genitive
+265293	accusative
+265295	dative
+265312	genitive
+265319	nominative
+dative
+265328	accusative
+265352	nominative
+265356	genitive
+265368	accusative
+265373	nominative
+265384	nominative
+265391	nominative
+265404	nominative
+nominative
+265423	nominative
 265425	accusative
-265431	dative
-265441	nominative
 nominative
-265451	nominative
-265457	accusative
-265462	accusative
-265464	dative
-265478	genitive
-265480	accusative
-265483	nominative
-265486	accusative
-dative
-265493	dative
-265495	nominative
+265442	dative
+265448	accusative
+265455	accusative
+265457	nominative
+265463	nominative
+265474	nominative
+265478	nominative
+265484	accusative
+265492	accusative
+265497	nominative
 accusative
-265499	accusative
-265502	nominative
-265509	nominative
-265512	nominative
-dative
-265522	nominative
-265525	accusative
-dative
-265530	nominative
-nominative
-265539	nominative
-265542	nominative
-265546	accusative
-265551	accusative
-265561	nominative
-265564	dative
-265571	accusative
-265582	accusative
-nominative
-265589	dative
-265614	nominative
-nominative
-nominative
-265626	nominative
-dative
-nominative
-265632	nominative
-265634	nominative
-265639	nominative
-265668	nominative
-265673	nominative
-265675	nominative
-265682	accusative
-265684	accusative
-265687	accusative
+265501	nominative
+265515	genitive
+265524	dative
+265526	accusative
+265532	accusative
+265537	nominative
+265546	genitive
+265548	accusative
 accusative
-265690	nominative
-265693	dative
-265696	dative
-265698	dative
-265703	nominative
-265707	nominative
 accusative
-265721	genitive
+265574	genitive
+265589	nominative
+265599	dative
+265605	nominative
+nominative
+265612	accusative
+265614	accusative
+265616	accusative
 accusative
-265724	genitive
 accusative
-265736	nominative
+265622	dative
+265637	dative
+265641	accusative
+265655	nominative
+265664	nominative
+265669	nominative
+265674	dative
+265689	nominative
+nominative
+265692	genitive
+265702	nominative
+265711	accusative
+265713	nominative
+265724	nominative
+accusative
+265732	nominative
 265738	nominative
-265743	nominative
-accusative
-265746	dative
-265750	nominative
+265740	accusative
+265746	nominative
+265756	nominative
 265765	nominative
-265767	nominative
-dative
-265770	dative
-265772	accusative
-265780	nominative
-dative
-265784	nominative
 accusative
-265795	nominative
-265800	dative
-265807	nominative
+265775	nominative
+265779	nominative
+265781	accusative
+265785	accusative
 265810	nominative
-265832	nominative
-265842	nominative
-265844	nominative
-265848	dative
-265854	accusative
-265858	nominative
-265862	nominative
-265873	nominative
-accusative
-265879	nominative
-accusative
-265886	nominative
-265888	nominative
-265891	nominative
-265893	nominative
-265911	vocative
-265917	accusative
-nominative
-265944	nominative
-265946	nominative
-accusative
-265951	accusative
-265960	nominative
-265978	nominative
-265988	dative
-265990	nominative
-265996	genitive
-266001	nominative
-266016	nominative
-266033	dative
+265817	genitive
+genitive
+265823	nominative
+265853	genitive
+dative
+265858	dative
+265865	nominative
+265874	nominative
+265910	genitive
+dative
+265933	nominative
+265938	genitive
+265945	dative
+265965	accusative
+265991	nominative
+266009	dative
+266015	dative
 266040	nominative
-266044	accusative
-266054	genitive
-266060	nominative
-266069	nominative
-266073	accusative
-266090	nominative
-266097	nominative
+266049	accusative
+266061	dative
+266066	genitive
+266072	accusative
+266074	dative
+266092	accusative
+266100	genitive
+266107	nominative
 genitive
-266105	nominative
-266111	nominative
-266113	accusative
-266115	genitive
-266117	nominative
-266131	nominative
-266149	accusative
-266151	accusative
-266164	nominative
-266174	accusative
+266110	nominative
+266159	nominative
+266162	accusative
+266164	accusative
+266168	nominative
+266180	nominative
 266183	nominative
-266190	nominative
-accusative
-266193	dative
-266195	dative
-dative
-266200	nominative
-accusative
-266204	nominative
-266214	dative
-266224	accusative
-266234	nominative
-266237	nominative
-266239	nominative
-vocative
-266242	genitive
-accusative
-accusative
-266253	dative
-266269	accusative
-266278	dative
-266281	nominative
-266284	nominative
-266286	dative
-266290	nominative
-dative
-266293	accusative
-266298	accusative
+266191	nominative
+266261	nominative
+266268	nominative
+266294	accusative
 266301	accusative
-266303	nominative
-266310	accusative
-266313	accusative
-266317	accusative
-266321	genitive
-266323	nominative
-266341	dative
-266343	nominative
+266313	nominative
+266320	accusative
+266327	nominative
+nominative
+accusative
+266337	nominative
+266344	accusative
 266351	nominative
-266376	nominative
-266378	nominative
+266356	accusative
+266363	accusative
+266380	accusative
+266387	nominative
+266390	accusative
 nominative
-266384	nominative
-266389	nominative
+266409	accusative
+266411	nominative
+266417	nominative
+266424	accusative
+dative
+266435	nominative
 nominative
-266392	nominative
-266412	nominative
-266414	nominative
-266424	nominative
-266429	nominative
-266432	nominative
-266438	genitive
-266440	nominative
-266442	vocative
-266450	nominative
-266458	accusative
-266479	vocative
-266486	accusative
+266442	accusative
+dative
+266469	nominative
+dative
+266476	dative
+266491	accusative
+266494	accusative
+266514	dative
+266518	nominative
+266523	nominative
+accusative
+266527	nominative
+266531	nominative
+266533	nominative
+266536	accusative
+266543	nominative
+accusative
+266564	nominative
+266567	nominative
+266580	nominative
 nominative
-266499	dative
-266503	nominative
-accusative
-accusative
-266512	dative
-266514	nominative
-266521	nominative
-266526	nominative
-266528	dative
-266538	accusative
-266544	nominative
-266547	nominative
-accusative
-266550	dative
-266556	genitive
-accusative
-266562	nominative
-266570	nominative
-accusative
-266574	nominative
-266576	nominative
-266578	vocative
-266580	accusative
-266583	accusative
-266595	nominative
-accusative
+266583	nominative
+266599	accusative
+266601	nominative
+266607	nominative
+266613	nominative
 nominative
-266601	vocative
-266612	dative
-266626	accusative
-266629	accusative
-266639	dative
-266654	nominative
-266656	dative
-266659	accusative
-266661	accusative
-266666	dative
-266671	nominative
-266678	nominative
-266684	accusative
-266686	dative
-266691	nominative
+266620	nominative
+266627	dative
+266636	nominative
+266639	nominative
+nominative
+266644	nominative
+266649	nominative
+266652	nominative
+266661	nominative
+266665	nominative
+dative
+266676	nominative
+266687	nominative
+dative
+266697	nominative
 266706	nominative
-266720	dative
-dative
-266726	nominative
-accusative
-nominative
-dative
-nominative
-vocative
+266729	accusative
+266733	accusative
 266735	nominative
-266744	nominative
-accusative
-266762	nominative
-266764	nominative
-nominative
-nominative
-266768	accusative
-266773	nominative
-266778	accusative
-266785	nominative
-266792	nominative
-266794	dative
-266799	nominative
-266802	accusative
-266805	nominative
-accusative
-266811	nominative
-266818	accusative
-266820	nominative
-266829	nominative
-266836	nominative
-266841	accusative
-266855	dative
-266859	nominative
-266863	nominative
-266865	accusative
-266867	accusative
-266877	nominative
-accusative
-266883	accusative
-266890	dative
-266905	dative
-nominative
-266908	nominative
+266742	nominative
 dative
-266914	nominative
-266920	nominative
-266935	accusative
-dative
+266747	accusative
+266768	nominative
+266771	accusative
+266774	nominative
+266783	accusative
+266796	nominative
+266813	nominative
+266815	nominative
+266828	nominative
+266834	accusative
+266845	nominative
+266848	nominative
+266855	nominative
+266863	dative
+266867	nominative
+266878	accusative
+266900	nominative
+266904	nominative
+266910	nominative
+266916	dative
 nominative
-266939	nominative
-266957	vocative
-266968	dative
-266975	dative
-266984	nominative
-266994	nominative
-accusative
-267004	accusative
-267009	accusative
-267014	nominative
-accusative
-267031	genitive
-267033	accusative
-267035	dative
-267053	genitive
-267060	nominative
-dative
-267070	accusative
-267095	nominative
-267099	genitive
-267111	accusative
-267116	nominative
-267127	nominative
-267135	nominative
-267148	nominative
+266919	nominative
+266923	accusative
+266927	nominative
+266929	nominative
+266935	nominative
+266937	nominative
+266946	nominative
+266966	accusative
+267012	accusative
 nominative
-267167	nominative
-267169	accusative
-nominative
-267186	dative
-267192	accusative
-267199	accusative
+267018	nominative
+267023	nominative
+267028	nominative
+267036	nominative
+267047	accusative
+267059	nominative
+267067	nominative
+267073	nominative
+267085	dative
+267087	nominative
+267105	accusative
+267113	accusative
+267115	accusative
+267117	dative
+267126	accusative
+267153	genitive
+267170	dative
+267176	dative
 267201	nominative
-267207	nominative
+267215	nominative
 267218	nominative
-267222	nominative
-267228	accusative
-267236	accusative
-267241	nominative
+267227	nominative
+dative
 accusative
-267245	nominative
-267259	genitive
-267268	dative
-267270	accusative
-267276	accusative
-267282	nominative
-267291	genitive
-267293	accusative
+267235	accusative
+267238	accusative
+267255	accusative
+267265	accusative
+267279	accusative
 accusative
-accusative
-267319	genitive
-267334	nominative
-267344	dative
+267287	nominative
+267299	accusative
+267301	vocative
+267314	accusative
+267329	accusative
+267339	nominative
+267345	nominative
 267351	nominative
-nominative
-267359	accusative
-267361	accusative
-267363	accusative
+267354	nominative
+267360	nominative
+267367	nominative
 accusative
-accusative
-267369	dative
-267385	dative
-267389	accusative
-267404	nominative
-267414	nominative
-267419	nominative
-267425	dative
+267372	nominative
+267380	nominative
+267391	nominative
+dative
+267421	nominative
+267430	dative
+267433	nominative
+267436	nominative
 267441	nominative
-nominative
-267444	genitive
+dative
+267445	accusative
 267454	nominative
-267463	accusative
-267465	nominative
-267476	nominative
+267460	dative
+267463	nominative
+267467	nominative
+267470	accusative
+nominative
+267497	accusative
+267507	nominative
+267509	nominative
 accusative
-267484	nominative
-267490	nominative
-267492	accusative
-267498	nominative
-267508	nominative
-267517	nominative
-accusative
+267512	nominative
+267521	nominative
 267527	nominative
-267532	nominative
-267534	accusative
-267538	accusative
-267563	nominative
-267570	genitive
+267530	genitive
+nominative
+267533	dative
+267538	nominative
+267541	dative
+267556	nominative
+accusative
+267586	nominative
+nominative
+267589	nominative
+accusative
+267597	accusative
+nominative
+accusative
 genitive
-267577	nominative
-267609	genitive
+267603	nominative
+nominative
+267608	nominative
+accusative
+267612	nominative
+267616	nominative
+267619	nominative
+267621	accusative
+267624	accusative
 dative
-267614	dative
-267621	nominative
-267631	nominative
-267667	genitive
+267627	accusative
+267630	nominative
+267633	nominative
+267635	dative
+nominative
+267638	nominative
+267640	accusative
+nominative
+nominative
+267650	accusative
+267654	dative
+267674	nominative
+267689	accusative
+267702	nominative
+267705	nominative
+267714	accusative
+267728	genitive
+267732	nominative
+267735	nominative
+267767	dative
+267772	accusative
+267775	dative
+267777	nominative
+267779	nominative
+267785	nominative
+267802	dative
+nominative
+267808	accusative
+267825	accusative
+267847	nominative
+267867	accusative
+267873	accusative
+267875	nominative
+accusative
+267879	nominative
+nominative
+267884	accusative
+267890	accusative
+267898	nominative
+267914	dative
+267916	dative
+267919	nominative
 dative
-267690	nominative
-267695	genitive
-267702	dative
-267723	accusative
-267751	nominative
-267770	dative
-267776	dative
-267801	nominative
-267810	accusative
-267822	dative
-267827	genitive
-267833	accusative
-267835	dative
-267853	accusative
-267862	genitive
-267869	nominative
-genitive
-267872	nominative
-267923	nominative
-267926	accusative
-267928	accusative
-267932	nominative
-267944	nominative
-267947	nominative
+267922	nominative
+267935	nominative
+267937	nominative
+267943	nominative
+267945	nominative
+nominative
+accusative
 267955	nominative
-268025	nominative
-268034	nominative
-268060	accusative
-268068	accusative
+267957	dative
+nominative
+267965	nominative
+267967	nominative
+267973	nominative
+nominative
+267976	nominative
+267978	dative
+nominative
+accusative
+267984	accusative
+267989	accusative
+accusative
+267994	accusative
+268006	accusative
+268009	accusative
+268015	nominative
+268041	nominative
+268066	vocative
+nominative
+accusative
+268072	accusative
+268077	nominative
 268080	nominative
-268087	accusative
+268093	nominative
 268095	nominative
+accusative
+268100	accusative
+268105	dative
+268109	accusative
+268115	vocative
+268119	accusative
+268122	accusative
+accusative
+nominative
+268127	accusative
+268130	dative
+268134	nominative
+268143	nominative
+268153	nominative
+268165	nominative
+268180	accusative
+268183	dative
+268196	vocative
+accusative
+268200	accusative
+268210	nominative
+268214	dative
+268237	accusative
+268256	nominative
+268268	vocative
+268270	nominative
+268272	nominative
+nominative
+nominative
+nominative
+nominative
+nominative
+nominative
+nominative
+nominative
+nominative
+nominative
+268284	nominative
+nominative
+268288	nominative
 nominative
 accusative
-268106	nominative
-268113	accusative
-268120	nominative
-268125	accusative
-268132	accusative
-268149	accusative
-268156	nominative
-268159	accusative
-nominative
-268179	accusative
-268181	nominative
-268188	nominative
-268195	accusative
-dative
-268207	nominative
-nominative
-268214	accusative
-dative
-268242	nominative
-dative
-268249	dative
-268264	accusative
-268267	accusative
-268287	dative
-268292	nominative
-268297	nominative
+268292	accusative
+268299	accusative
+268326	nominative
+268331	nominative
+268352	accusative
+268355	dative
 accusative
-268301	nominative
-268306	nominative
-268308	nominative
-268311	accusative
-268318	nominative
-accusative
-268339	nominative
-268342	nominative
-268355	nominative
+268360	nominative
+268366	vocative
+268374	dative
+268401	accusative
+268406	accusative
+268410	nominative
+268450	accusative
+268455	accusative
+268490	dative
+268505	nominative
 nominative
-268358	nominative
-268375	accusative
-268377	nominative
-268383	nominative
-268389	nominative
-nominative
-268396	nominative
-268403	dative
-268413	nominative
-268416	nominative
-nominative
-268421	nominative
-268426	nominative
-268429	nominative
-268439	nominative
-268444	nominative
+268515	accusative
+268523	accusative
 dative
-268455	nominative
-268466	nominative
+268527	accusative
+268536	genitive
+268564	nominative
+268573	nominative
 dative
-268476	nominative
-268486	nominative
-268510	accusative
-268514	accusative
-268516	nominative
-268523	nominative
-dative
-268528	accusative
-268550	nominative
-268553	accusative
-268556	nominative
-268565	accusative
-268578	nominative
-268595	nominative
-268597	nominative
-268610	nominative
-268616	accusative
+268609	nominative
+268611	nominative
+268617	nominative
 268628	nominative
-268631	nominative
-268639	nominative
-268647	dative
-268651	nominative
-268662	accusative
-268686	nominative
-268691	nominative
-268697	nominative
-268703	dative
+268631	dative
+accusative
+268641	nominative
+268643	accusative
+268664	nominative
+268702	nominative
+268710	nominative
+268717	nominative
+268726	nominative
 nominative
-268706	nominative
-268710	accusative
-268714	nominative
-268716	nominative
-268722	nominative
-268724	nominative
-268733	nominative
-268753	accusative
-268799	accusative
-nominative
-268805	nominative
-268810	nominative
-268815	nominative
-268823	nominative
-268835	accusative
-268848	nominative
-268856	nominative
-268862	nominative
-268874	dative
-268876	nominative
-268895	accusative
-268905	accusative
-268907	accusative
-268909	dative
-268919	accusative
-268946	genitive
-268963	dative
-268969	dative
-268994	nominative
-269008	nominative
-269011	nominative
-269020	nominative
+268740	nominative
+268757	accusative
+268759	accusative
+268761	accusative
+268779	accusative
+268788	nominative
+268790	nominative
+268793	nominative
+268799	genitive
+268801	genitive
+268829	nominative
+268834	nominative
+268840	accusative
 dative
+268850	accusative
+268862	dative
+268866	nominative
+268875	nominative
+268882	accusative
+nominative
+268886	nominative
+268889	nominative
+268896	accusative
+268901	nominative
+268906	accusative
+268911	accusative
+268920	nominative
+268930	nominative
+268954	nominative
 accusative
-269028	accusative
-269031	accusative
-269048	accusative
-269058	accusative
-269072	accusative
+268958	nominative
 accusative
-269080	nominative
-269092	accusative
-269094	vocative
-269107	accusative
-269122	accusative
-269132	nominative
-269138	nominative
+268972	nominative
+268974	nominative
+268998	nominative
+269002	nominative
+269006	nominative
+accusative
+269009	nominative
+269039	nominative
+269061	nominative
+dative
+269075	genitive
+accusative
+269079	accusative
+accusative
+accusative
+269090	accusative
+269092	nominative
+dative
+269096	nominative
+269102	nominative
+269106	accusative
+269110	nominative
+accusative
+269113	nominative
+269120	nominative
+accusative
+269125	nominative
+accusative
+269137	nominative
+269140	genitive
 269144	nominative
+accusative
 269147	nominative
-269153	nominative
-269160	nominative
+269153	accusative
+269155	nominative
+269158	nominative
+269166	nominative
+269188	accusative
+269190	nominative
+269197	nominative
+269209	nominative
+269212	nominative
+269273	nominative
+269275	nominative
+269282	dative
+269302	nominative
+269309	nominative
+269312	accusative
+269316	genitive
 accusative
-269165	nominative
-269173	nominative
-269185	nominative
-dative
-269215	nominative
-269224	dative
-269227	nominative
-269230	nominative
-269235	nominative
-dative
-269239	accusative
-269249	nominative
-269255	dative
-269258	nominative
-269262	nominative
-269265	accusative
-nominative
-269293	accusative
-269303	nominative
-269305	nominative
-accusative
-269308	nominative
-269317	nominative
-269323	nominative
-269326	genitive
-nominative
-269329	dative
+269331	nominative
 269334	nominative
-269337	dative
+269343	nominative
+269347	nominative
+genitive
+269350	nominative
+dative
 269353	nominative
-accusative
+269356	accusative
+269361	dative
+269368	nominative
 269386	nominative
-nominative
-269389	nominative
-accusative
-269397	accusative
-nominative
-accusative
-genitive
+269398	accusative
 269403	nominative
+269410	accusative
+269416	accusative
+269420	nominative
+269441	nominative
+269443	nominative
+269463	nominative
+269467	nominative
+269469	accusative
+269479	nominative
+269490	nominative
+269492	accusative
+269497	nominative
+269505	nominative
+269509	accusative
+269513	nominative
+269516	nominative
+269523	dative
+269535	accusative
+269538	accusative
+269545	nominative
+269550	dative
 nominative
-269408	nominative
-accusative
-269412	nominative
-269416	nominative
-269419	nominative
-269421	accusative
-269424	accusative
-dative
-269427	accusative
-269430	nominative
-269433	nominative
-269435	dative
-nominative
-269438	nominative
-269440	accusative
-nominative
-nominative
-269451	accusative
-269455	dative
-269475	nominative
-269490	accusative
-269503	nominative
-269506	nominative
-269515	accusative
-269530	genitive
-269534	nominative
-269537	nominative
-269570	dative
-269575	accusative
-269578	dative
-269580	nominative
-269582	nominative
-269589	nominative
-269608	dative
-nominative
+269555	accusative
+269562	dative
+269571	accusative
+269590	nominative
+269594	dative
+269598	accusative
+269609	accusative
 269614	accusative
-269631	accusative
-269654	nominative
-269674	accusative
-269680	accusative
-269683	nominative
+269617	nominative
+nominative
+nominative
+269621	nominative
+269627	nominative
+269629	dative
+nominative
+269632	accusative
+269640	nominative
+269646	nominative
+269648	nominative
+269655	dative
+269667	accusative
+269705	dative
+269708	accusative
+269712	accusative
+269736	dative
+269743	accusative
+nominative
+269749	nominative
+269773	nominative
+269775	nominative
+269799	nominative
+269804	nominative
+269810	nominative
+269819	accusative
 accusative
-269687	nominative
+269823	dative
+269837	accusative
+269854	accusative
+269856	accusative
+269858	accusative
 nominative
-269693	accusative
-269699	accusative
-269707	nominative
-269723	dative
-269725	dative
-269728	nominative
-dative
-269731	nominative
-269745	nominative
-269747	nominative
-269753	nominative
-269755	nominative
-nominative
+269877	dative
+269886	accusative
+269891	accusative
 accusative
-269766	nominative
-269769	dative
+269896	genitive
 nominative
-269777	nominative
-269779	nominative
-269785	nominative
-nominative
-269788	nominative
-269790	dative
-nominative
-accusative
-269796	accusative
-269802	accusative
-accusative
-269807	accusative
-269820	accusative
-269823	accusative
-269829	nominative
-269855	nominative
-269880	vocative
-nominative
-accusative
-269887	accusative
-269892	nominative
-269895	nominative
+269900	vocative
 269908	nominative
-269910	nominative
-accusative
-269916	accusative
-269921	dative
-269925	accusative
-269931	vocative
-269935	accusative
-269938	accusative
-accusative
-269941	nominative
-269944	accusative
-269947	dative
-269951	nominative
-269960	nominative
+269948	nominative
+269951	dative
+269967	nominative
+nominative
 269970	nominative
-269983	nominative
-269998	accusative
-270001	dative
-270014	vocative
-270016	accusative
-270019	accusative
-270030	nominative
-270034	dative
-270058	accusative
-270077	nominative
-270089	vocative
-270091	nominative
-270093	nominative
-nominative
-nominative
-nominative
-nominative
-nominative
-nominative
-nominative
-nominative
-nominative
-nominative
-270105	nominative
-nominative
-270109	nominative
-nominative
-accusative
-270113	accusative
-270120	accusative
-270147	nominative
-270152	nominative
-270174	accusative
-270177	dative
-accusative
-270182	nominative
-270188	vocative
-270197	dative
-270224	accusative
-270229	accusative
-270233	nominative
-270273	accusative
-270278	accusative
-270313	dative
-270328	nominative
-nominative
-270339	accusative
-270348	accusative
+269972	accusative
+269978	nominative
+269985	nominative
+269990	nominative
+269995	nominative
+genitive
+269999	dative
+270010	nominative
 dative
-270352	accusative
-270361	genitive
-270392	nominative
-270401	nominative
-dative
-270438	nominative
-270440	nominative
-270446	nominative
-270457	nominative
-270461	dative
+270015	vocative
+270023	nominative
+270034	nominative
+270041	dative
+270049	nominative
+270052	accusative
+270057	accusative
+270061	genitive
 accusative
-270471	nominative
-270473	accusative
-270496	nominative
-270534	nominative
-270542	nominative
-270549	nominative
-270558	nominative
+270075	nominative
+270089	nominative
+270094	dative
 nominative
-270573	nominative
-270590	accusative
-270592	accusative
-270594	accusative
-270612	accusative
-270621	nominative
-270623	nominative
-270626	nominative
-270634	genitive
-270636	genitive
-270665	nominative
-270671	nominative
-270677	accusative
+270099	vocative
+270104	genitive
+270126	genitive
+270130	accusative
+genitive
+270133	dative
+270135	genitive
+270138	genitive
+genitive
+accusative
+270155	nominative
+270157	vocative
+nominative
+270181	accusative
+270183	nominative
+270198	nominative
+270208	nominative
+270212	nominative
+270230	accusative
+270235	accusative
+270240	nominative
+270251	dative
+270260	nominative
+270262	nominative
+270270	accusative
+nominative
+270279	genitive
+genitive
+270284	genitive
 dative
-270687	accusative
-270700	dative
-270704	nominative
-270713	nominative
-270720	accusative
+270297	nominative
+accusative
+270302	accusative
+270305	vocative
+270320	nominative
+270332	dative
+270341	nominative
+270367	accusative
+270384	accusative
+270402	accusative
+270404	vocative
+270406	accusative
+270416	accusative
+270420	dative
+270431	dative
+270435	nominative
+270443	accusative
+270462	nominative
+270472	nominative
 nominative
-270724	nominative
+270480	dative
+270486	accusative
+270492	nominative
+270499	accusative
+270509	accusative
+270512	dative
+270515	nominative
+270519	accusative
+270523	accusative
+270534	accusative
+vocative
+270549	dative
+270563	accusative
+270565	vocative
+270567	genitive
+270576	nominative
+accusative
+270582	nominative
+270588	accusative
+270593	accusative
+270595	dative
+270601	nominative
+nominative
+270609	accusative
+270628	accusative
+270632	nominative
+nominative
+270650	accusative
+270660	vocative
+270662	accusative
+270664	dative
+270666	nominative
+270673	nominative
+270683	dative
+270688	dative
+270692	nominative
+270694	vocative
+270700	accusative
+270702	nominative
 270727	nominative
-270734	accusative
+genitive
+270731	nominative
+genitive
+270734	nominative
+270736	genitive
+nominative
 270739	nominative
-270744	accusative
 270749	accusative
-270758	nominative
-270768	nominative
-270793	nominative
-accusative
-270797	nominative
-accusative
-270812	nominative
-270814	nominative
-270839	nominative
-270843	nominative
-270849	nominative
-accusative
-270852	nominative
-270884	nominative
-270906	nominative
-dative
-270921	genitive
-accusative
-270925	accusative
-accusative
-accusative
-270936	accusative
-270938	nominative
-dative
-270942	nominative
-270949	nominative
-270953	accusative
-270957	nominative
-accusative
-270960	nominative
-270967	nominative
-accusative
-270972	nominative
-accusative
-270985	nominative
-270988	genitive
-270992	nominative
-accusative
-270996	nominative
-271002	accusative
-271004	nominative
-271007	nominative
-271015	nominative
-271040	accusative
-271042	nominative
-271049	nominative
-271061	nominative
-271064	nominative
-271127	nominative
-271129	nominative
-271136	dative
-271156	nominative
-271163	nominative
-271166	accusative
-271170	genitive
-accusative
-271185	nominative
-271188	nominative
-271197	nominative
-271201	nominative
+270761	genitive
+270773	accusative
+270776	nominative
+270784	accusative
+vocative
+270787	accusative
+270790	accusative
 genitive
-271204	nominative
-dative
-271207	nominative
-271210	accusative
-271215	dative
-271223	nominative
-271241	nominative
-271253	accusative
-271258	nominative
+270794	accusative
+accusative
+270798	accusative
+270808	accusative
+vocative
+270821	nominative
+accusative
+270824	dative
+270840	nominative
+270849	accusative
+270852	accusative
+270867	accusative
+accusative
+270887	nominative
+nominative
+accusative
+nominative
+270893	vocative
+270902	accusative
+270929	dative
+270942	vocative
+270944	nominative
+270980	dative
+270989	accusative
+270997	nominative
+271000	dative
+accusative
+accusative
+271005	dative
+accusative
+271022	genitive
+accusative
+271026	dative
+accusative
+271030	dative
+271036	nominative
+271061	dative
+271076	accusative
+271099	nominative
+271112	accusative
+vocative
+271131	accusative
+271152	nominative
+accusative
+271161	accusative
+271176	accusative
+271180	accusative
+271186	accusative
+accusative
+271190	nominative
+271195	nominative
+271197	accusative
+271199	dative
+271202	accusative
+271206	accusative
+271216	accusative
+nominative
+271226	accusative
+271256	dative
+271258	genitive
 271266	accusative
-271272	accusative
-271276	nominative
-271298	nominative
-271300	nominative
-271320	nominative
-271324	nominative
-271326	accusative
-271336	nominative
-271347	nominative
-271349	accusative
-271354	nominative
-271362	nominative
-271366	accusative
-271370	nominative
-271374	nominative
-271381	dative
-271394	accusative
-271397	accusative
-271404	nominative
-271409	dative
-nominative
-271414	accusative
-271421	dative
-271431	accusative
-271451	nominative
-271455	dative
-271459	accusative
-271471	accusative
-271476	accusative
-271479	nominative
-nominative
-nominative
-271483	nominative
-271489	nominative
-271491	dative
-nominative
-271494	accusative
+271270	dative
+271275	accusative
+271280	nominative
+271283	nominative
+271285	nominative
+271293	nominative
+271297	accusative
+271309	accusative
+271322	vocative
+271327	accusative
+271348	nominative
+accusative
+271351	nominative
+271369	vocative
+271391	genitive
+271393	nominative
+271397	nominative
+271399	accusative
+271409	accusative
+271431	dative
+vocative
+271439	accusative
+271444	genitive
+271449	accusative
+271452	nominative
+271458	accusative
+271466	accusative
+271475	nominative
+271484	accusative
+271487	accusative
+accusative
+271490	dative
+271493	accusative
+271498	accusative
+271500	dative
 271502	nominative
-271508	nominative
-271510	nominative
-271517	dative
-271529	accusative
+271510	accusative
+accusative
+271515	accusative
+271517	accusative
+271527	nominative
+271531	nominative
+271533	vocative
+271536	nominative
+271539	nominative
+271547	accusative
+271551	dative
+271557	accusative
+271562	accusative
 271569	dative
-271574	accusative
-271578	accusative
-271602	dative
-271610	accusative
+271581	nominative
+271583	nominative
+271625	accusative
+271628	nominative
+271632	dative
+271641	nominative
+accusative
+271662	genitive
 nominative
-271616	nominative
-271640	nominative
-271642	nominative
-271666	nominative
+nominative
+271667	nominative
+271669	nominative
 271671	nominative
-271677	nominative
-271686	accusative
+271674	accusative
+271682	nominative
+271685	nominative
+dative
+271689	nominative
 accusative
-271690	dative
-271704	accusative
+271692	dative
+nominative
+271711	dative
 271721	accusative
-271723	accusative
-271725	accusative
-nominative
-271744	dative
-271754	accusative
-271759	accusative
+271723	nominative
 accusative
-271764	genitive
-nominative
-271768	vocative
+271727	dative
+accusative
+271734	accusative
+accusative
+271737	nominative
+271740	accusative
+271747	nominative
+271772	accusative
 271776	nominative
-271817	nominative
-271820	dative
-271837	nominative
+271789	genitive
+271811	dative
+271816	accusative
+271822	nominative
+271826	accusative
 nominative
-271840	nominative
-271842	accusative
-271848	nominative
-271855	nominative
-271862	nominative
-271867	nominative
-genitive
-271871	dative
-271882	nominative
-dative
-271887	vocative
-271895	nominative
-271907	nominative
-271914	dative
-271922	nominative
+nominative
+271832	genitive
+271836	accusative
+271856	genitive
+271865	nominative
+271872	nominative
+271881	nominative
+271883	nominative
+nominative
+271893	nominative
+accusative
+accusative
+271901	nominative
+271905	accusative
+271920	accusative
 271925	accusative
-271930	accusative
-271934	genitive
+271932	accusative
+271941	nominative
+271944	dative
 accusative
-271948	nominative
+271947	nominative
+271956	dative
+271960	genitive
 271964	nominative
-271969	dative
-nominative
-271974	vocative
-271979	genitive
-272002	genitive
-272006	accusative
+271966	nominative
+271969	nominative
+271972	nominative
+271977	nominative
+271990	nominative
+271993	nominative
 genitive
-272009	dative
-272011	genitive
-272015	genitive
-genitive
+272013	accusative
 accusative
-272032	nominative
-272034	vocative
+accusative
+272021	nominative
+272031	accusative
+272034	nominative
+272054	accusative
+272060	accusative
+272062	accusative
+272071	accusative
+272074	nominative
 nominative
-272058	accusative
-272060	nominative
-272075	nominative
-272085	nominative
-272089	nominative
-272107	accusative
-272112	accusative
-272117	nominative
-272130	dative
+accusative
+272082	nominative
+272088	nominative
+272094	nominative
+272096	dative
+272105	accusative
+dative
+272108	nominative
+272111	dative
+272122	nominative
+272127	genitive
+272134	nominative
 272139	nominative
-272141	nominative
-272149	accusative
+272145	dative
+272160	nominative
+272162	nominative
+272170	genitive
+272173	genitive
+272176	accusative
+272186	dative
+272191	nominative
+272193	nominative
 nominative
-272160	genitive
-genitive
-272165	genitive
-dative
-272178	nominative
+272196	nominative
+272203	accusative
+nominative
+272210	nominative
+272218	dative
+272227	accusative
+272234	nominative
+272238	nominative
+272241	nominative
+272246	genitive
+272260	dative
+nominative
+272268	accusative
+272270	nominative
+272296	nominative
+272298	dative
+272305	accusative
+272312	nominative
+272314	dative
+272320	dative
 accusative
-272183	accusative
-272186	vocative
-272201	nominative
-272214	dative
-272223	nominative
-272249	accusative
-272266	accusative
-272284	accusative
-272286	vocative
-272288	accusative
-272298	accusative
-272302	dative
-272313	dative
-272318	nominative
+272323	nominative
 272328	accusative
-272349	nominative
-272360	nominative
+genitive
+dative
+272337	accusative
+272340	accusative
+272343	accusative
+272365	accusative
+272368	nominative
+272371	nominative
+272379	nominative
+272391	nominative
 nominative
-272368	dative
-272374	accusative
-272380	nominative
-272387	accusative
-272397	accusative
-272400	dative
-272403	nominative
-272407	accusative
-272411	accusative
-272422	accusative
-vocative
-272437	dative
-272451	accusative
-272453	vocative
-272455	genitive
-272464	nominative
+272397	nominative
+272401	nominative
+272412	genitive
+nominative
+nominative
+272419	nominative
+272424	nominative
+272433	dative
+272448	nominative
 accusative
-272471	nominative
-272477	accusative
-272483	accusative
-272485	dative
-272491	nominative
+272458	nominative
+272461	accusative
+272463	nominative
+272467	nominative
+272469	accusative
+272472	accusative
+272478	dative
+272482	nominative
+272489	accusative
+272491	dative
+272503	nominative
+272507	nominative
+272516	accusative
+272520	nominative
+272525	accusative
+272534	accusative
+272540	accusative
+272552	accusative
+272555	accusative
 nominative
-272499	accusative
-272519	accusative
-272523	nominative
-nominative
-272541	accusative
-272551	vocative
-272553	accusative
-272555	dative
-272557	nominative
-272564	nominative
-272575	dative
-272580	dative
-272584	nominative
-272586	vocative
-272592	accusative
-272594	nominative
-272620	nominative
-genitive
-272624	nominative
-genitive
-272627	nominative
-272629	genitive
-nominative
-272632	nominative
-272642	accusative
-272654	genitive
-272667	accusative
-272670	nominative
-272678	accusative
-vocative
-272681	accusative
-272684	accusative
-genitive
-272688	accusative
+272558	accusative
+272560	dative
+272565	accusative
 accusative
-272692	accusative
-272702	accusative
-vocative
+272583	nominative
+272585	nominative
+272587	dative
+272595	nominative
+272598	nominative
+272602	nominative
+272605	nominative
+272622	nominative
+272626	nominative
+272636	nominative
+accusative
+272642	nominative
+272650	dative
+272662	accusative
+nominative
+272665	nominative
+272675	genitive
+272678	genitive
+272680	genitive
+accusative
+272690	accusative
+272698	accusative
+272700	nominative
+272704	dative
+272707	nominative
 272716	nominative
-accusative
-272719	dative
-272736	nominative
-272746	accusative
-272750	accusative
-272765	accusative
-accusative
-272785	nominative
-272787	nominative
-accusative
+272728	genitive
 nominative
-272792	vocative
-272801	accusative
-272828	dative
-272841	vocative
-272843	nominative
-272881	dative
-272890	accusative
-272900	nominative
-272903	dative
+nominative
+272735	accusative
+272738	nominative
+272742	accusative
+272769	genitive
+272774	genitive
+272780	accusative
+272790	accusative
+272801	genitive
+272804	genitive
+272807	nominative
 accusative
+272810	nominative
 accusative
-272908	dative
+272817	dative
+272838	dative
+dative
 accusative
-272925	genitive
+272847	accusative
+272849	accusative
 accusative
-272930	dative
+dative
+272854	accusative
+272862	nominative
+272870	accusative
+nominative
+nominative
+272902	accusative
+272905	dative
+272910	accusative
+272920	nominative
 accusative
-272934	dative
-272940	nominative
-272965	dative
-272980	accusative
-273003	nominative
-273016	accusative
-vocative
-273035	accusative
-273056	nominative
+272923	nominative
+272927	genitive
+272930	nominative
+272935	nominative
+272937	accusative
+272955	accusative
+272960	nominative
+272971	dative
+272996	genitive
 accusative
-273065	accusative
-273080	accusative
-273084	accusative
+272999	genitive
+273011	accusative
+dative
+273017	accusative
+273028	genitive
+273031	genitive
+273039	nominative
+273053	dative
+273068	genitive
+genitive
+273085	genitive
+273088	accusative
 273090	accusative
-accusative
-273094	nominative
-273099	nominative
-273101	accusative
-273103	dative
-273106	accusative
-273110	accusative
-273121	accusative
-nominative
+273095	genitive
+273100	accusative
+273107	accusative
+273116	nominative
+273120	accusative
+273124	dative
+273127	accusative
 273133	accusative
-273163	dative
-273165	genitive
-273173	accusative
-273177	dative
-273182	accusative
-273187	nominative
-273190	nominative
-273193	nominative
-273201	nominative
-273205	accusative
-273217	accusative
-273230	vocative
-273236	accusative
-273257	nominative
-accusative
+273136	accusative
+nominative
+273139	nominative
+273150	accusative
+273155	accusative
+273158	nominative
+nominative
+273169	nominative
+nominative
+273176	dative
+273182	nominative
+273191	accusative
+273193	accusative
+273197	accusative
+273201	dative
+273203	accusative
+273210	accusative
+273221	nominative
+273229	accusative
+273242	nominative
+273255	nominative
+273257	accusative
 273260	nominative
-273278	vocative
-273301	genitive
-273303	nominative
-273308	nominative
-273310	accusative
-273320	accusative
-273342	dative
-vocative
-273350	accusative
-273355	genitive
-273361	accusative
-273365	nominative
-273371	accusative
-273379	accusative
-273388	nominative
-273397	accusative
-273400	accusative
+nominative
+273265	accusative
+273268	accusative
+273270	nominative
+273278	genitive
+273280	accusative
+273287	accusative
+273304	accusative
+273306	genitive
+273310	nominative
+273314	nominative
 accusative
-273403	dative
-273406	accusative
-273412	accusative
-273414	dative
-273416	nominative
-273424	accusative
+273328	nominative
+273333	nominative
 accusative
-273429	accusative
-273431	accusative
-273441	nominative
-273445	nominative
-273447	vocative
-273450	nominative
-273455	nominative
-273463	accusative
-273467	dative
-273474	accusative
-273479	accusative
-273486	dative
-273498	nominative
-273500	nominative
+genitive
+273340	nominative
+273356	nominative
+273359	nominative
+273364	nominative
+273366	accusative
+273374	nominative
+273380	nominative
+273389	genitive
+273398	nominative
+273401	accusative
+273413	accusative
+accusative
+273419	dative
+273421	accusative
+273430	nominative
+273435	accusative
+273448	nominative
+nominative
+273452	nominative
+nominative
+273458	nominative
+273465	nominative
+273469	nominative
+273472	accusative
+dative
+accusative
+273477	accusative
+273483	accusative
+273489	dative
+273492	nominative
+273497	nominative
+273509	nominative
+273511	dative
+273516	nominative
+273532	nominative
+dative
 273543	accusative
-273546	nominative
-273550	dative
-273560	nominative
+273549	nominative
+273564	nominative
+273568	dative
+273571	nominative
+273581	accusative
 accusative
-273582	genitive
+273603	nominative
+273611	nominative
+273620	genitive
+273623	accusative
+273645	nominative
+273650	genitive
+273656	dative
+273658	accusative
 nominative
+273672	nominative
+273682	nominative
+273699	accusative
+273701	dative
+273705	accusative
+273707	dative
+273721	dative
+273729	nominative
+273731	accusative
+273733	nominative
+273739	nominative
+273741	nominative
+273743	nominative
+273745	nominative
+273747	accusative
 nominative
-273587	nominative
-273589	nominative
-273591	nominative
-273594	accusative
-273602	nominative
-273605	nominative
+273753	dative
+nominative
+273756	accusative
+273761	accusative
+273765	nominative
+273775	dative
+273778	dative
+273783	accusative
+273795	nominative
 dative
-273609	nominative
+273799	nominative
 accusative
-273612	dative
-nominative
-273631	dative
-273642	accusative
-273644	nominative
-accusative
-273648	dative
-accusative
-273655	accusative
-accusative
-273658	nominative
-273661	accusative
-273669	nominative
-273694	accusative
-273698	nominative
-273711	genitive
-273733	dative
-273738	accusative
-273744	nominative
-273749	accusative
-nominative
-nominative
-273755	genitive
-273760	accusative
-273780	genitive
-273789	nominative
-273797	nominative
-273807	nominative
-273809	nominative
-nominative
-273819	nominative
-accusative
-accusative
-273827	nominative
-273831	accusative
-273846	accusative
-273851	accusative
-273858	accusative
-273868	nominative
-273871	dative
-accusative
-273874	nominative
-273883	dative
-273887	genitive
-273892	nominative
-273894	nominative
-273897	nominative
-273900	nominative
-273905	nominative
-273919	nominative
-273922	nominative
-genitive
-273943	accusative
-accusative
-accusative
-273952	nominative
-273962	accusative
-273965	nominative
-273985	accusative
+273803	dative
+273807	dative
+273811	accusative
+273827	accusative
+273839	dative
+273852	nominative
+273855	accusative
+273859	accusative
+273864	accusative
+273896	accusative
+273908	accusative
+273910	nominative
+273933	accusative
+273937	accusative
+273942	accusative
+273944	nominative
+dative
+273948	nominative
+273955	nominative
+273972	accusative
+273976	accusative
+273989	dative
 273991	accusative
-273993	accusative
-274003	accusative
-274006	nominative
-nominative
+273995	nominative
+274004	accusative
+274007	nominative
+274010	nominative
 accusative
-274014	nominative
-274020	nominative
-274026	nominative
-274028	dative
-274037	accusative
-dative
-274040	nominative
-274043	dative
+274022	nominative
+274030	nominative
+274034	accusative
+274041	nominative
+274047	genitive
+274049	nominative
+nominative
+274054	dative
 274056	nominative
-274061	genitive
-274068	nominative
+nominative
+274066	accusative
 274073	nominative
-274079	dative
-274094	nominative
-274096	nominative
-274104	genitive
-274107	genitive
-274111	accusative
-274121	dative
-274127	nominative
-274129	nominative
+274080	nominative
+274083	nominative
+274087	dative
+accusative
+274091	accusative
+274096	accusative
+274103	accusative
+274109	accusative
+274123	accusative
 nominative
-274132	nominative
-274139	accusative
-nominative
-274146	nominative
-274155	dative
-274164	accusative
+274137	nominative
+274140	accusative
+274144	accusative
+274148	accusative
+274150	accusative
+274154	accusative
 274171	nominative
-274175	nominative
-274178	nominative
-274183	genitive
-274198	dative
-nominative
-274206	accusative
-274208	nominative
-274236	nominative
-274238	dative
-274246	accusative
+accusative
+274174	nominative
+274187	nominative
+274202	nominative
+274204	accusative
+274209	accusative
+274214	dative
+274219	accusative
+274226	nominative
+genitive
+274230	accusative
+274237	accusative
+274239	accusative
+274241	accusative
+274243	accusative
+274245	accusative
 274253	nominative
-274255	dative
-274262	dative
+nominative
+274261	nominative
+nominative
 accusative
-274265	nominative
-274270	accusative
+274280	accusative
+274282	nominative
+274288	accusative
+274295	genitive
+274305	nominative
+274308	nominative
+274313	nominative
+274318	accusative
+274324	nominative
+dative
+nominative
+274348	nominative
+274353	nominative
+nominative
+274375	nominative
+dative
+274390	nominative
+274392	accusative
+274397	accusative
+accusative
+274428	dative
+274442	nominative
+274446	nominative
+274452	accusative
+274467	nominative
+274491	vocative
+274496	nominative
+274498	dative
+accusative
+274505	nominative
+nominative
+274516	accusative
+274535	dative
+nominative
+274540	accusative
+nominative
+274547	dative
+274557	accusative
+274576	accusative
+accusative
+274587	dative
+274590	dative
+274598	accusative
+274600	accusative
+274602	accusative
+274604	accusative
+274608	accusative
+274610	accusative
+274613	accusative
+dative
+274620	nominative
+274625	dative
+274628	dative
+274631	vocative
+nominative
 genitive
-274273	dative
-274281	accusative
-274284	accusative
-274287	accusative
-274309	accusative
-274312	nominative
-274315	nominative
-274323	nominative
-274335	nominative
+274640	nominative
+274644	dative
 nominative
-274341	nominative
-274346	nominative
-274357	genitive
-nominative
-nominative
-274364	nominative
-274369	nominative
-274379	dative
-274396	nominative
+274649	accusative
+274655	dative
 accusative
-274406	nominative
-274409	accusative
-274411	nominative
-274415	nominative
-274417	accusative
-274420	accusative
-274427	dative
-274431	nominative
-274438	accusative
-274440	dative
-274453	nominative
-274457	nominative
-274466	accusative
-274470	nominative
-274475	accusative
-274484	accusative
-274490	accusative
-274502	accusative
-274505	accusative
-nominative
-274508	accusative
-274510	dative
-274515	accusative
-accusative
-274533	nominative
-274535	nominative
-274537	dative
-274545	nominative
-274548	nominative
-274552	nominative
-274555	nominative
-274572	nominative
-274576	nominative
-274587	nominative
-accusative
-274594	nominative
-274602	dative
-274614	accusative
-nominative
-274617	nominative
-274628	genitive
-274631	genitive
-274633	genitive
-accusative
-274643	accusative
-274651	accusative
-274653	nominative
-274657	dative
-274660	nominative
-274670	nominative
-274683	genitive
+274664	dative
+274666	accusative
+274690	nominative
+274699	dative
+274701	accusative
+274708	nominative
+274710	nominative
+274718	nominative
+274727	nominative
+274733	dative
 nominative
 nominative
-274690	accusative
-274693	nominative
-274697	accusative
-274726	genitive
-274731	genitive
-274737	accusative
-274748	accusative
-274761	genitive
-274764	genitive
-274767	nominative
-accusative
-274770	nominative
-accusative
-274777	dative
-274799	dative
-dative
-accusative
-274808	accusative
-274810	accusative
-accusative
-dative
+274737	dative
+274748	nominative
+nominative
+274752	accusative
+274756	nominative
+274758	dative
+274761	nominative
+274763	dative
+274775	dative
+274783	nominative
+274786	accusative
+274809	accusative
+274812	accusative
 274815	accusative
-274823	nominative
-274832	accusative
-nominative
-nominative
-274864	accusative
-274868	dative
-274873	accusative
-274884	nominative
-accusative
-274887	nominative
-274891	genitive
-274894	nominative
-274900	nominative
-274902	accusative
-274920	accusative
-274926	nominative
-274937	dative
-274962	genitive
-accusative
-274965	genitive
-274977	accusative
+274825	nominative
+274827	vocative
+274836	nominative
+274838	nominative
+274842	nominative
+274844	nominative
+274848	accusative
+274850	accusative
+274852	accusative
+274856	nominative
+274881	nominative
+274886	nominative
+274888	accusative
+274890	accusative
+274895	accusative
 dative
-274983	accusative
-274994	genitive
-274997	genitive
-275006	nominative
-275020	dative
-275036	genitive
-genitive
-275053	genitive
-275056	accusative
-275058	accusative
-275064	genitive
-275070	accusative
-275077	accusative
-275086	nominative
-275090	accusative
-275094	dative
-275097	accusative
-275103	accusative
-275106	accusative
+274906	nominative
+274908	nominative
+274916	nominative
+274919	nominative
 nominative
-275109	nominative
-275120	accusative
-275125	accusative
-275129	nominative
-nominative
-275140	nominative
-nominative
-275147	dative
-275153	nominative
-275162	accusative
-275164	accusative
-275168	accusative
-275172	dative
-275174	accusative
-275181	accusative
-275193	nominative
-275201	accusative
-275214	nominative
-275228	nominative
-275230	accusative
-275235	nominative
-nominative
-275240	accusative
-275243	accusative
-275245	nominative
-275253	genitive
-275255	accusative
-275262	accusative
-275279	accusative
-275281	genitive
-275286	nominative
-275290	nominative
 accusative
-275304	nominative
-275309	nominative
+nominative
+274927	genitive
+274930	genitive
+274945	dative
+274949	accusative
+274955	nominative
+nominative
+274958	nominative
+274960	nominative
+274963	genitive
+274968	accusative
+274970	accusative
+274976	accusative
 accusative
-genitive
-275316	nominative
+274985	dative
+274987	accusative
+274994	dative
+274996	accusative
+275001	accusative
+275009	accusative
+275014	genitive
+275024	accusative
+275034	nominative
+275036	nominative
+275043	accusative
+accusative
+275046	nominative
+275055	accusative
+275058	nominative
+275067	accusative
+dative
+275088	accusative
+275090	nominative
+275095	nominative
+275104	genitive
+275127	dative
+275130	nominative
+nominative
+275133	dative
+275149	accusative
+accusative
+dative
+accusative
+275161	nominative
+275168	nominative
+accusative
+275175	accusative
+nominative
+nominative
+275179	nominative
+275181	nominative
+275190	genitive
+nominative
+275200	nominative
+275209	accusative
+275255	nominative
+275272	vocative
+275284	genitive
+275287	accusative
+275291	genitive
+275310	accusative
+275326	nominative
+275328	nominative
 275332	nominative
-275335	nominative
-275340	nominative
-275342	accusative
-275350	nominative
-275356	nominative
-275365	genitive
-275374	nominative
-275377	accusative
-275389	accusative
-accusative
-275395	dative
-275397	accusative
-275406	nominative
-275411	accusative
-275425	nominative
+275335	dative
+275339	dative
+275345	dative
+275355	dative
+275367	genitive
+genitive
+275381	nominative
+275388	accusative
+275390	nominative
+275392	dative
+275397	nominative
+275414	genitive
+275444	accusative
+275448	accusative
 nominative
-275429	nominative
+275458	nominative
+275474	accusative
 nominative
-275435	nominative
-275442	nominative
-275446	nominative
-275449	accusative
-dative
-accusative
-275454	accusative
-275460	accusative
-275466	dative
-275469	nominative
-275474	nominative
-275486	nominative
-275488	dative
-275493	nominative
-275511	nominative
-dative
-275522	accusative
-275528	nominative
-275543	nominative
-275547	dative
-275550	nominative
-275560	accusative
-accusative
-275582	nominative
-275590	nominative
-275599	genitive
-275602	accusative
-275627	nominative
-275632	genitive
+275484	nominative
+275490	nominative
+275514	nominative
+275519	nominative
+275530	nominative
+275546	nominative
+nominative
+275549	nominative
+275553	nominative
+275557	dative
+275559	nominative
+275564	accusative
+275576	accusative
+275580	accusative
+275594	accusative
+275596	accusative
+275604	nominative
+275617	nominative
+275624	accusative
 275638	dative
-275640	accusative
 nominative
-275655	nominative
-275665	nominative
-275683	accusative
-275685	dative
+275643	nominative
+275652	accusative
+275655	accusative
+275657	nominative
+275661	nominative
+nominative
+275665	accusative
+275670	nominative
+nominative
+275677	nominative
+275688	accusative
 275690	accusative
-275692	dative
-275706	dative
-275716	nominative
-275718	accusative
-275720	nominative
-275726	nominative
-275728	nominative
-275730	nominative
+275696	nominative
+275698	nominative
+275702	nominative
+nominative
+275706	genitive
+275710	nominative
+275713	dative
+dative
+275717	nominative
+275725	nominative
+dative
+275729	nominative
 275732	nominative
-275735	accusative
-nominative
-275741	dative
-nominative
-275744	accusative
-275750	accusative
-275754	nominative
-275764	dative
-275767	dative
-275772	accusative
-275784	nominative
-dative
-275788	nominative
+275737	nominative
+275739	nominative
+275746	accusative
 accusative
-275792	dative
-275797	dative
-275801	accusative
+275758	nominative
+275764	nominative
+genitive
+275768	nominative
+275779	accusative
+genitive
+275786	nominative
+275799	nominative
 275817	accusative
-275829	dative
-275842	nominative
+275822	nominative
+275825	accusative
+accusative
+275833	accusative
+275838	accusative
+275843	genitive
 275845	accusative
-275849	accusative
-275854	accusative
-275887	accusative
-275900	accusative
-275902	nominative
-275926	accusative
-275930	accusative
-275937	accusative
-275939	nominative
+275850	accusative
 dative
-275943	nominative
-275950	nominative
-275967	accusative
-275971	accusative
-275984	dative
-275986	accusative
-275990	nominative
-276001	accusative
-276004	nominative
-276007	nominative
-accusative
-276019	nominative
-276027	nominative
-276031	accusative
-276038	nominative
-276044	genitive
-276046	nominative
+275856	accusative
+275859	nominative
+275863	accusative
+275866	nominative
+275872	genitive
+275875	nominative
+275879	nominative
+275888	vocative
+275891	accusative
+genitive
+275899	nominative
+275907	genitive
+275929	nominative
+275936	genitive
+275940	nominative
+275949	nominative
+275951	nominative
+275953	accusative
+275955	nominative
+275957	accusative
+275960	nominative
+275963	nominative
+275971	dative
+275975	accusative
 nominative
-276051	dative
-276053	nominative
-nominative
-276063	accusative
-276070	nominative
-276077	nominative
-276080	nominative
-276084	dative
+275987	dative
+275993	nominative
+275995	accusative
+275998	nominative
+276002	genitive
 accusative
-276088	accusative
-276094	accusative
-276101	accusative
-276107	accusative
+276013	accusative
+276025	nominative
+nominative
+276040	nominative
+dative
+dative
+276048	nominative
+accusative
+dative
+276054	nominative
+276056	accusative
+276058	nominative
+276064	nominative
+276075	nominative
+nominative
+276082	nominative
+276087	nominative
+dative
+accusative
+276101	nominative
+accusative
+276108	nominative
+276113	accusative
+276120	nominative
 276123	accusative
+276125	accusative
+276138	accusative
+276140	nominative
+276144	nominative
+276149	accusative
+276154	accusative
 nominative
-276137	nominative
-276142	accusative
-276146	accusative
-276150	accusative
-276152	accusative
-276156	accusative
-276173	nominative
-accusative
-276176	nominative
-276189	nominative
+276166	dative
+nominative
+276171	nominative
+276180	nominative
+276182	nominative
+276195	genitive
 276205	nominative
-276207	accusative
-276212	accusative
-276217	dative
+276209	nominative
+276212	nominative
 276222	accusative
-276229	nominative
-genitive
-276233	accusative
-276241	accusative
-276243	accusative
-276245	accusative
-276247	accusative
-276249	accusative
-276257	nominative
 nominative
-276265	nominative
+276226	nominative
+276235	nominative
+276248	nominative
 nominative
-accusative
-276285	accusative
-276287	nominative
-276293	accusative
-276301	genitive
-276311	nominative
-276314	nominative
-276319	nominative
+276260	genitive
+276266	accusative
+276281	nominative
+276286	nominative
+nominative
+276291	genitive
+276294	nominative
+276298	nominative
+nominative
+276307	nominative
+276312	nominative
+276314	dative
+276317	nominative
+276321	accusative
 276324	accusative
-276330	nominative
-dative
-nominative
+276333	accusative
+276337	nominative
+276343	dative
+276348	nominative
+276352	nominative
 276354	nominative
-276359	nominative
 nominative
-276383	nominative
-dative
-276398	nominative
-276400	accusative
-276405	accusative
+276359	accusative
+276363	accusative
+276367	accusative
+276372	accusative
+276376	accusative
+nominative
+276380	accusative
+276382	accusative
 accusative
-276436	dative
-276450	nominative
-276454	nominative
-276461	accusative
-276476	nominative
-276500	vocative
-276505	nominative
-276507	dative
 accusative
-276514	nominative
-nominative
-276525	accusative
-276547	dative
-276549	nominative
-276553	accusative
-nominative
-276560	dative
-276570	accusative
-276589	accusative
-accusative
-276600	dative
-276603	dative
-276612	accusative
-276614	accusative
-276617	accusative
-276619	accusative
-276623	accusative
-276625	accusative
-276628	accusative
-dative
-276636	nominative
-276641	dative
-276644	dative
-276647	vocative
-nominative
+276393	accusative
+276396	accusative
+276400	dative
+276404	nominative
+276420	accusative
+276434	nominative
+276437	accusative
+276446	nominative
 genitive
-276656	nominative
-276660	dative
+genitive
+276451	nominative
+276459	nominative
 nominative
-276665	accusative
-276672	dative
-accusative
-276681	dative
-276683	accusative
-276707	nominative
-276716	dative
-276721	accusative
-276728	nominative
-276730	nominative
-276738	nominative
-276747	nominative
-276753	dative
-nominative
-nominative
-276757	dative
-276769	nominative
-nominative
-276773	accusative
-276777	nominative
-276779	dative
-276782	nominative
-276784	dative
-276797	dative
-276805	nominative
-276808	accusative
-276832	accusative
-276835	accusative
-276838	accusative
-276848	nominative
-276850	vocative
-276859	nominative
-276861	nominative
-276865	nominative
-276867	nominative
-276872	accusative
-276874	accusative
-276876	accusative
-276880	nominative
-276906	nominative
-276911	nominative
-276913	accusative
-276915	accusative
-276920	accusative
+276467	accusative
+276471	accusative
 dative
-276932	nominative
+276479	dative
+276484	nominative
+276493	nominative
+276497	nominative
+276499	accusative
+276503	nominative
+276506	nominative
+276521	accusative
+276526	genitive
+genitive
+276531	accusative
+276535	nominative
+276541	nominative
+276543	genitive
+276545	nominative
+276547	nominative
+276549	accusative
+276557	nominative
+276560	nominative
+276569	accusative
+276573	dative
+276576	nominative
+276578	dative
+276583	nominative
+276587	nominative
+276590	nominative
+276594	nominative
+276596	accusative
+276603	nominative
+276615	accusative
+276620	nominative
+276622	nominative
+276648	nominative
+276650	nominative
+276657	nominative
+276661	nominative
+276667	accusative
+276669	dative
+276674	nominative
+276680	nominative
+276689	nominative
+276697	genitive
+276700	genitive
+276709	nominative
+276715	nominative
+276719	accusative
+276727	accusative
+genitive
+276740	genitive
+accusative
+nominative
+nominative
+276747	accusative
+276754	nominative
+276757	accusative
+accusative
+276767	nominative
+276770	nominative
+276774	genitive
+276783	nominative
+276802	nominative
+276812	nominative
+accusative
+276823	nominative
+276826	accusative
+276828	accusative
+276838	dative
+276845	genitive
+genitive
+276857	nominative
+276862	nominative
+276864	nominative
+276866	genitive
+nominative
+276870	nominative
+276877	nominative
+276883	genitive
+276891	nominative
+276910	nominative
+nominative
+276915	genitive
 276934	nominative
 276942	nominative
-276946	nominative
 nominative
-accusative
-nominative
-276954	genitive
-276957	genitive
-276972	dative
-276977	accusative
-276983	nominative
-nominative
-276986	nominative
-276988	nominative
-276991	genitive
-276996	accusative
-276999	accusative
-277005	accusative
-accusative
-277014	dative
-277016	accusative
-277023	dative
-277025	accusative
-277030	accusative
-277038	accusative
-277043	genitive
-277054	accusative
-277064	nominative
-277066	nominative
-277073	accusative
-accusative
-277076	nominative
-277085	accusative
-277089	nominative
-277099	accusative
+276951	dative
+276965	nominative
+276982	accusative
+276993	accusative
+277019	nominative
+277024	nominative
+277031	accusative
 dative
-277121	accusative
-277123	nominative
-277129	nominative
-277138	genitive
-277162	dative
-277165	nominative
+277037	nominative
+277041	genitive
+277050	accusative
+277056	accusative
+277060	nominative
+277062	accusative
+277066	accusative
+277068	accusative
+277073	nominative
+277079	accusative
+277081	nominative
+277090	accusative
+277093	dative
+277111	accusative
 nominative
-277168	dative
-277184	accusative
-accusative
-dative
-accusative
-277196	nominative
-277203	nominative
-accusative
-277210	accusative
+277121	nominative
+277152	nominative
+277157	nominative
 nominative
+277162	accusative
 nominative
-277214	nominative
-277216	nominative
-277225	genitive
+277167	nominative
+277175	nominative
+277188	accusative
+277191	dative
+277199	nominative
+277201	accusative
+277208	nominative
 nominative
+277218	accusative
 277236	nominative
-277245	accusative
-277295	nominative
-277313	vocative
-277325	genitive
-277328	accusative
+277238	vocative
+277247	accusative
+277249	dative
+277252	accusative
+277255	nominative
+277271	nominative
+277276	nominative
+277283	accusative
+nominative
+277286	nominative
+277289	accusative
+277296	nominative
+277300	nominative
+dative
+277303	nominative
+277306	dative
+277308	accusative
+277312	genitive
+genitive
+277322	nominative
 277332	genitive
-277352	accusative
-277370	nominative
-277372	nominative
+277334	nominative
+nominative
+277342	dative
+277349	nominative
+277354	accusative
+nominative
+277362	nominative
+277365	accusative
+dative
+nominative
+nominative
+277373	nominative
 277376	nominative
-277379	dative
-277384	dative
-277390	dative
-277400	dative
-277412	genitive
-genitive
-277426	nominative
-277433	accusative
-277435	nominative
-277437	dative
-277443	nominative
-277460	genitive
-277491	accusative
-277495	accusative
+277381	genitive
+277387	nominative
+277392	accusative
+277397	nominative
+accusative
+277402	genitive
 nominative
-277505	nominative
+277413	genitive
+277416	nominative
+277418	accusative
+277421	accusative
+277427	nominative
+277437	nominative
+277444	nominative
+277462	nominative
+277474	nominative
+277477	genitive
+277481	genitive
+277486	dative
+277494	genitive
+accusative
+277497	dative
+277500	nominative
+277507	nominative
+genitive
+277515	nominative
+277518	dative
+nominative
 277523	accusative
-nominative
-277533	nominative
+277529	accusative
 277539	nominative
-277564	nominative
-277569	nominative
-277580	nominative
-277596	nominative
+277544	accusative
+277549	dative
+accusative
 nominative
+277553	dative
+nominative
+nominative
+277558	genitive
+nominative
+277561	accusative
+277575	dative
+nominative
+nominative
+277581	accusative
+277588	nominative
+277591	dative
 277599	nominative
-277603	nominative
-277608	dative
-277610	nominative
-277615	accusative
-277627	accusative
-277631	accusative
-277645	accusative
-277647	accusative
-277655	nominative
-277668	nominative
-277675	accusative
-277689	dative
+277614	accusative
+277619	dative
+277622	accusative
+277630	accusative
+277632	accusative
+277640	genitive
+277661	nominative
+277666	accusative
+277670	nominative
+277678	accusative
 nominative
-277694	nominative
-277703	accusative
-277706	accusative
-277709	nominative
+277682	accusative
+277691	accusative
+277696	nominative
+277698	genitive
+277702	accusative
+277708	dative
+accusative
+dative
+277712	nominative
 277714	nominative
+277719	nominative
+277725	dative
 nominative
-277718	accusative
-277723	nominative
 nominative
-277730	nominative
-277741	accusative
-277743	accusative
-277749	nominative
-277751	nominative
-277755	nominative
+277732	nominative
+277734	accusative
+277738	dative
+277741	genitive
+277743	nominative
+277748	dative
 nominative
-277759	genitive
-277763	nominative
-277766	dative
+nominative
+277762	dative
+nominative
+nominative
+277776	dative
+nominative
+nominative
+277780	accusative
+277787	accusative
+277795	dative
+nominative
+nominative
+nominative
+277805	nominative
+277811	accusative
+277815	nominative
+277825	dative
+277827	accusative
+277829	nominative
+277836	nominative
+277838	dative
+277848	nominative
+277851	genitive
 dative
-277770	nominative
-277778	nominative
-dative
-277782	nominative
-277785	nominative
-277790	nominative
-277792	nominative
-277799	accusative
-accusative
-277811	nominative
-277817	nominative
-genitive
-277821	nominative
-277832	accusative
-genitive
-277839	nominative
-277852	nominative
-277870	accusative
-277875	nominative
-277878	accusative
-accusative
-277886	accusative
-277891	accusative
-277896	genitive
-277898	accusative
-277903	accusative
-dative
-277909	accusative
-277912	nominative
-277916	accusative
-277919	nominative
-277926	genitive
-277929	nominative
-277933	nominative
-277942	vocative
-277945	accusative
-genitive
-277953	nominative
-277962	genitive
-277984	nominative
-277991	genitive
-277995	nominative
-278004	nominative
-278006	nominative
-278008	accusative
-278010	nominative
-278012	accusative
-278015	nominative
-278018	nominative
-278026	dative
-278030	accusative
+277861	nominative
+277864	dative
+277868	nominative
+277871	dative
+277876	dative
 nominative
-278042	dative
+277881	accusative
+277885	accusative
+277887	accusative
+277896	nominative
+277899	accusative
+277901	accusative
+277903	genitive
+277913	nominative
+277918	nominative
+277922	nominative
+277926	nominative
+277931	nominative
+277952	nominative
+nominative
+nominative
+genitive
+277958	nominative
+277961	nominative
+277970	nominative
+277979	genitive
+277987	nominative
+277989	accusative
+dative
+277994	nominative
+278002	accusative
+dative
+nominative
+278012	nominative
+278016	genitive
+dative
+278019	accusative
+genitive
+nominative
+278032	accusative
+278043	nominative
 278049	nominative
-278051	accusative
-278054	nominative
-278059	genitive
+278053	nominative
+dative
+278056	dative
+278065	nominative
 accusative
-278070	accusative
+278069	nominative
+278074	accusative
+278079	dative
+dative
 278083	nominative
+278085	accusative
+278088	nominative
+278095	nominative
+278108	accusative
+278119	nominative
+278125	accusative
+dative
+278128	nominative
+278131	accusative
+278141	accusative
+278144	genitive
+278147	genitive
+accusative
+278153	dative
+278159	accusative
+278163	accusative
+278184	nominative
+278187	nominative
+278189	nominative
 nominative
-278099	nominative
-dative
-dative
-278107	nominative
-accusative
-dative
-278113	nominative
-278115	accusative
-278117	nominative
-278124	nominative
-278135	nominative
-nominative
-278142	nominative
-278147	nominative
-278149	dative
-accusative
-278162	nominative
-accusative
-278170	nominative
-278175	accusative
-278182	nominative
-278185	accusative
-278187	accusative
-278200	accusative
-278202	nominative
+278199	nominative
 278206	nominative
-278213	accusative
-278218	accusative
-nominative
-278230	dative
-nominative
-278237	nominative
-278246	nominative
-278248	nominative
-278262	genitive
-278272	nominative
-278276	nominative
-278279	nominative
-278289	accusative
-nominative
-278293	nominative
-278303	nominative
-278316	nominative
-nominative
-278328	genitive
-278334	accusative
-278350	nominative
-278355	nominative
-nominative
-278360	genitive
-278364	nominative
-278368	nominative
-nominative
-278377	nominative
-278382	nominative
-278384	dative
-278387	nominative
-278391	accusative
-278394	accusative
-278403	accusative
-278407	nominative
-278415	dative
-278420	nominative
-278424	nominative
-278426	nominative
-nominative
-278431	accusative
-278436	accusative
-278440	accusative
-278445	accusative
-278449	accusative
-nominative
-278453	accusative
-278455	accusative
+278212	nominative
+278223	nominative
+278233	nominative
 accusative
-accusative
-278466	accusative
-278469	accusative
-278474	dative
-278479	nominative
-278496	accusative
-278510	nominative
-278514	accusative
-278525	nominative
-genitive
-genitive
-278530	nominative
-278538	nominative
+278239	dative
+278242	dative
+278250	genitive
 nominative
-278546	accusative
-278550	accusative
+278255	dative
+accusative
+278260	accusative
+nominative
+278267	nominative
+278269	nominative
+nominative
+278283	genitive
+278291	genitive
+278299	genitive
+278307	accusative
 dative
-278558	dative
-278564	nominative
-278573	nominative
-278577	nominative
-278579	accusative
+278314	accusative
+278321	nominative
+accusative
+278327	nominative
+278336	nominative
+278338	nominative
+278352	genitive
+278355	genitive
+278359	nominative
+278362	nominative
+278376	nominative
+278385	nominative
+nominative
+accusative
+278391	nominative
+genitive
+278395	nominative
+278397	nominative
+278402	nominative
+278408	nominative
+278410	nominative
+dative
+nominative
+278417	accusative
+278421	accusative
+278424	accusative
+accusative
+278427	nominative
+dative
+nominative
+278432	accusative
+278434	dative
+nominative
+278439	genitive
+nominative
+278442	dative
+278447	nominative
+278465	nominative
+278467	dative
+278474	nominative
+278480	accusative
+278482	nominative
+278516	nominative
+278522	accusative
+278524	accusative
+278532	nominative
+278536	genitive
+278552	dative
+278555	nominative
+278562	accusative
+nominative
+278567	accusative
+278571	nominative
+nominative
+278574	dative
+nominative
 278585	nominative
-278588	nominative
-278606	accusative
-278611	genitive
-genitive
+278590	accusative
+278593	accusative
+278595	dative
+278601	nominative
 278616	accusative
-278621	nominative
-278627	nominative
-278629	genitive
-278631	nominative
-278634	nominative
-278637	accusative
-278645	nominative
-278648	nominative
-278657	accusative
-278661	dative
-278664	nominative
-278666	dative
-278672	nominative
-278676	nominative
-278679	nominative
-278683	nominative
-278685	accusative
-278692	nominative
-278704	accusative
-278709	nominative
-278711	nominative
-278739	nominative
-278741	nominative
-278748	nominative
-278752	nominative
-278759	accusative
-278761	dative
-278766	nominative
-278772	nominative
-278781	nominative
-278791	genitive
-278794	genitive
-278803	nominative
-278809	nominative
-278814	accusative
-278822	accusative
-genitive
-278835	genitive
+278623	nominative
+278629	dative
+278638	accusative
+vocative
+278648	dative
+278653	accusative
+278656	accusative
+278659	accusative
+278665	accusative
+278670	accusative
+278696	nominative
+278703	accusative
+278713	nominative
+278718	genitive
+278723	genitive
+dative
+278728	genitive
+278731	dative
+278735	accusative
+nominative
+278738	nominative
+278742	dative
+278744	dative
+278752	accusative
+278756	nominative
+278805	nominative
+nominative
+278808	accusative
+278810	nominative
+nominative
+278816	accusative
+278818	dative
 accusative
 nominative
 nominative
-278842	accusative
-278849	nominative
+278828	nominative
+278830	genitive
+278833	nominative
+accusative
+nominative
+278845	nominative
+278847	accusative
+278850	nominative
 278852	accusative
-accusative
-278862	nominative
 278865	nominative
-278869	genitive
-278879	nominative
-278898	nominative
-278908	nominative
+278876	nominative
+278878	accusative
+278882	accusative
+278893	nominative
+278896	nominative
+278899	nominative
+278907	nominative
+278917	accusative
+278926	nominative
+nominative
+nominative
 accusative
-278920	nominative
-278923	accusative
-278925	accusative
-278935	dative
-278943	genitive
-genitive
-278955	nominative
+278933	nominative
+278938	nominative
+nominative
+278942	dative
+278951	accusative
+278957	nominative
 278960	nominative
-278962	nominative
-278964	genitive
+278967	nominative
+278970	nominative
+278973	nominative
 nominative
-278968	nominative
-278975	nominative
-278981	genitive
-278989	nominative
-279008	nominative
+278980	nominative
+278982	nominative
+278985	nominative
+278988	nominative
+278991	nominative
+279007	accusative
+accusative
+279046	accusative
+279052	nominative
+279060	nominative
+279088	genitive
+279090	dative
+accusative
 nominative
-279014	genitive
-279033	nominative
-279041	nominative
+279098	genitive
+279100	nominative
+279102	accusative
+279104	nominative
+279109	accusative
+279121	accusative
+279127	accusative
+279129	nominative
+279133	nominative
 nominative
-279050	dative
-279064	nominative
-279081	accusative
-279092	accusative
-279118	nominative
-279123	nominative
-279130	accusative
-dative
-279136	nominative
-279140	genitive
-279150	accusative
-279156	accusative
-279160	nominative
-279162	accusative
-279166	accusative
-279168	accusative
+279145	nominative
+279169	nominative
 279173	nominative
-279179	accusative
-279181	nominative
-279191	accusative
-279194	dative
-279212	accusative
+279175	dative
+accusative
+279178	nominative
+genitive
 nominative
-279222	nominative
+279185	accusative
+279187	nominative
+279189	accusative
+279196	accusative
+279202	nominative
+279205	nominative
+279212	dative
+279222	dative
+279226	nominative
+279234	accusative
+nominative
+279240	nominative
+nominative
+accusative
+279244	nominative
+accusative
+279248	dative
 279253	nominative
-279258	nominative
+dative
 279260	nominative
-279264	accusative
+279263	nominative
+279282	nominative
+279289	nominative
+279312	nominative
+279316	nominative
+279320	dative
+279329	nominative
+279333	accusative
+279343	nominative
+279347	nominative
+279352	nominative
+279358	nominative
+279361	nominative
 nominative
-279269	nominative
-279277	nominative
-279290	accusative
-279293	dative
-279301	nominative
-279304	accusative
-279311	nominative
-nominative
-279321	accusative
-279339	nominative
-279341	vocative
-279350	accusative
-279352	dative
-279355	accusative
-279359	nominative
-279375	nominative
-279380	nominative
-279387	accusative
-nominative
-279390	nominative
-279393	accusative
-279400	nominative
-279404	nominative
+279365	nominative
+279369	accusative
+279372	nominative
+279374	nominative
+279378	nominative
+279395	accusative
 dative
-279407	nominative
-279411	dative
-279413	accusative
-279417	genitive
-genitive
-279427	nominative
-279437	genitive
-279439	nominative
+279406	nominative
 nominative
-279447	dative
-279454	nominative
-279460	accusative
-nominative
-279468	nominative
-279471	accusative
-279473	dative
-nominative
-nominative
-279481	nominative
-279484	nominative
-279489	genitive
-279496	nominative
-279501	accusative
-279506	nominative
+279411	nominative
+279418	genitive
+279426	accusative
+279434	nominative
+279443	nominative
+279447	nominative
+279452	nominative
+279487	accusative
+279497	nominative
+279511	nominative
 accusative
-279511	genitive
-nominative
-279522	genitive
-279525	nominative
-279527	accusative
-279530	accusative
-279537	nominative
-279548	nominative
-279555	nominative
-279574	nominative
-279586	nominative
-279589	genitive
-279593	genitive
-279598	dative
-279606	genitive
+279515	nominative
 accusative
-279609	dative
-279612	nominative
-279619	nominative
-genitive
-279627	nominative
-279630	dative
-nominative
-279635	accusative
-279642	accusative
-279652	nominative
-279657	accusative
-279662	dative
+279518	accusative
+279521	nominative
+279552	nominative
+279567	accusative
+279569	nominative
+279581	dative
 accusative
-nominative
-279666	dative
-nominative
-nominative
-279671	genitive
-nominative
-279674	accusative
+279584	nominative
+279587	nominative
+279594	genitive
+279618	accusative
+279631	vocative
+279640	nominative
+279658	accusative
+279668	dative
+279670	dative
+279673	accusative
 279688	dative
+279690	accusative
+vocative
+279694	accusative
+vocative
+279712	accusative
+279715	genitive
+vocative
 nominative
-nominative
-279695	accusative
-279702	nominative
-279705	dative
-279713	nominative
-279729	accusative
-279734	dative
-279737	accusative
-279745	accusative
-279747	accusative
-279755	genitive
-279776	nominative
-279781	accusative
-279785	nominative
-279793	accusative
-nominative
-279797	accusative
+genitive
+279720	nominative
+279724	genitive
+279727	accusative
+279730	accusative
+279736	nominative
+279741	nominative
+279744	nominative
+279746	nominative
+279748	nominative
+279752	nominative
+279764	accusative
+279769	nominative
+279773	nominative
+279780	nominative
+279782	nominative
+279785	accusative
+279803	nominative
+279805	dative
 279807	accusative
-279813	nominative
-279815	genitive
-279819	accusative
-279825	dative
-accusative
+279811	dative
+nominative
 dative
-279829	nominative
+279819	nominative
+279824	dative
 279831	nominative
-279837	nominative
-279843	dative
-nominative
-nominative
-279850	nominative
-279852	accusative
-279856	dative
-279859	genitive
-279861	nominative
-279866	dative
-nominative
-nominative
-279880	dative
-nominative
-nominative
-279894	dative
-nominative
-nominative
-279898	accusative
-279905	accusative
-279913	dative
-nominative
-nominative
-nominative
-279923	nominative
-279929	accusative
-279933	nominative
-279943	dative
-279945	accusative
-279947	nominative
-279954	nominative
-279956	dative
-279966	nominative
-279969	genitive
+279844	dative
+279861	genitive
+279864	nominative
+279870	genitive
+279890	dative
+279893	vocative
+279905	nominative
+279923	vocative
+279935	vocative
+279941	nominative
+279948	accusative
+279972	accusative
+279990	nominative
+280002	nominative
 dative
-279979	nominative
-279982	dative
-279986	nominative
-279989	dative
-279994	dative
+280013	accusative
+280016	accusative
+280019	accusative
+280022	dative
+280025	dative
+280032	accusative
+280035	nominative
 nominative
-279999	accusative
-280003	accusative
-280005	accusative
-280015	nominative
-280018	accusative
-280020	accusative
-280022	genitive
-280032	nominative
-280037	nominative
-280041	nominative
-280045	nominative
-280050	nominative
-280072	nominative
-nominative
-nominative
-genitive
+280042	dative
+280061	accusative
 280078	nominative
-280081	nominative
-280091	nominative
-280100	genitive
-280108	nominative
-280110	accusative
-dative
-280115	nominative
-280123	accusative
-dative
-nominative
-280134	nominative
-280138	genitive
-dative
-280141	accusative
-genitive
-nominative
-280154	accusative
-280165	nominative
-280171	nominative
-280176	nominative
-dative
-280179	dative
-280188	nominative
 accusative
-280192	nominative
-280198	accusative
-280203	dative
-dative
-280207	nominative
-280210	accusative
-280213	nominative
-280221	nominative
-280235	accusative
-280246	nominative
-280252	accusative
-dative
-280255	nominative
-280258	accusative
-280268	accusative
-280271	genitive
-280274	genitive
+280082	nominative
 accusative
-280280	dative
-280286	accusative
-280290	accusative
-280312	nominative
-280315	nominative
+280114	dative
+280117	nominative
+280131	nominative
+accusative
+280135	accusative
+280146	accusative
+280152	accusative
+280161	accusative
+280164	nominative
+nominative
+280176	genitive
+280179	genitive
+280187	accusative
+280189	nominative
+280194	nominative
+nominative
+280200	dative
+nominative
+280216	nominative
+nominative
+280227	nominative
+280236	dative
+280242	accusative
+280245	dative
+280247	genitive
+accusative
+280252	dative
+280256	nominative
+280259	nominative
+280264	nominative
+280270	accusative
+dative
+280278	nominative
+280289	accusative
+accusative
+280292	nominative
+280298	nominative
+280301	nominative
+nominative
+280305	accusative
+280308	accusative
 280318	nominative
-nominative
-280328	nominative
-280335	nominative
-280342	nominative
-280353	nominative
-280363	nominative
+280337	genitive
+280341	genitive
+280354	accusative
 accusative
-280369	dative
-280372	dative
-280381	genitive
-nominative
-280386	dative
-accusative
-280391	accusative
-280393	nominative
-280400	nominative
-280402	nominative
-nominative
-280416	genitive
-280424	genitive
-280432	genitive
-280440	accusative
+280358	accusative
 dative
-280448	accusative
-280456	nominative
 accusative
-280462	nominative
-280471	nominative
-280473	nominative
-280487	genitive
-280490	genitive
-280494	nominative
-280497	nominative
-280512	nominative
-280522	nominative
+280370	nominative
+280378	accusative
+280381	nominative
+280389	genitive
+280391	genitive
+280414	nominative
+280419	nominative
+280421	nominative
+280445	nominative
+280449	nominative
+280452	accusative
+280455	accusative
+280463	nominative
+280471	dative
+280484	nominative
+280491	dative
+dative
+280494	accusative
+280496	nominative
 nominative
-accusative
-280529	nominative
+280506	nominative
+280509	nominative
+280513	nominative
+280526	accusative
 genitive
-280533	nominative
-280536	nominative
+280532	nominative
+280535	nominative
+280539	nominative
 280541	nominative
-280547	nominative
-280549	nominative
-dative
-280552	nominative
-280557	accusative
-280561	accusative
-280564	accusative
+280544	nominative
+vocative
+280554	nominative
+280562	nominative
 accusative
-280568	nominative
-dative
-nominative
-280573	accusative
-280575	dative
-nominative
-280582	genitive
-nominative
-280585	dative
-280590	nominative
-280608	nominative
-280610	dative
+280566	dative
+280568	genitive
+280570	genitive
+280574	nominative
+280590	dative
+280594	dative
+280606	accusative
+280613	nominative
 280618	nominative
-280625	accusative
-280627	nominative
-280662	nominative
-280668	accusative
-280670	accusative
-280679	nominative
-280683	genitive
-280700	dative
-280703	nominative
-280710	accusative
+280624	accusative
+280633	nominative
+280645	nominative
+280647	nominative
+280651	nominative
+accusative
 nominative
-280715	accusative
-280720	nominative
+280655	nominative
+280657	nominative
+280666	nominative
 nominative
-280723	dative
+280676	dative
 nominative
-280734	nominative
-280739	accusative
-280742	accusative
-280744	dative
-280750	nominative
-280765	accusative
-280772	nominative
-280778	dative
-280789	accusative
-vocative
-280799	dative
-280804	accusative
-280807	accusative
-280810	accusative
-280816	accusative
-280821	accusative
+accusative
+280683	nominative
+accusative
+280689	nominative
+280693	nominative
+nominative
+280697	nominative
+280702	dative
+280715	nominative
+280726	nominative
+280738	nominative
+nominative
+280753	nominative
+280759	genitive
+280782	nominative
+280786	nominative
+280794	nominative
+280797	accusative
+nominative
+280802	nominative
+280805	accusative
+accusative
+nominative
+280811	nominative
+280814	nominative
+280818	nominative
+280823	nominative
+accusative
+280836	nominative
+280839	nominative
+accusative
+280843	accusative
+280845	accusative
 280847	nominative
-280854	accusative
-280864	nominative
-280870	genitive
-280875	genitive
-dative
-280880	genitive
-280883	dative
-280887	accusative
+280852	accusative
+280856	nominative
+280858	accusative
+280867	accusative
+280870	accusative
+280876	accusative
+280878	accusative
+280881	accusative
+280894	accusative
+accusative
+280897	nominative
 nominative
-280890	nominative
-280894	dative
-280896	dative
-280905	accusative
+accusative
 280909	nominative
-280960	nominative
-280962	nominative
+280926	nominative
+280930	dative
+accusative
+280942	nominative
+280945	dative
+280948	nominative
+280954	nominative
+280956	accusative
 280964	accusative
-280966	nominative
-nominative
+280970	nominative
 280973	accusative
-280975	dative
-accusative
+280977	nominative
+280979	dative
 nominative
-nominative
-280985	nominative
-280987	genitive
-280990	nominative
-accusative
-nominative
+280982	dative
+280989	nominative
+280991	dative
+281000	genitive
 281002	nominative
-281004	accusative
 281007	nominative
-281009	accusative
-281022	nominative
-281034	nominative
-281036	accusative
-281040	accusative
-281052	nominative
-281055	nominative
+281024	nominative
+281028	nominative
+281030	genitive
+dative
+281035	genitive
+281037	genitive
+dative
+281044	nominative
+dative
+281047	accusative
 281058	nominative
-281066	nominative
-281076	accusative
-281086	nominative
+281062	nominative
+281067	accusative
+281076	genitive
+genitive
+281083	nominative
 nominative
-nominative
-accusative
-281094	nominative
-281099	nominative
-nominative
-281103	dative
-281112	accusative
-281118	nominative
+281086	accusative
+281088	dative
+281091	accusative
+281101	dative
+281105	dative
+281119	nominative
 281121	nominative
-281128	nominative
-281131	nominative
-281134	nominative
+281124	nominative
+281127	nominative
+281130	accusative
+281132	accusative
 nominative
-281142	nominative
-281144	nominative
-281147	nominative
-281150	nominative
-281153	nominative
-281170	accusative
-accusative
-281210	accusative
-281216	nominative
-281224	nominative
-281253	genitive
-281255	dative
-accusative
-nominative
-281263	genitive
-281265	nominative
-281267	accusative
-281269	nominative
-281274	accusative
-281288	accusative
-281295	accusative
-281297	nominative
-281301	nominative
-nominative
-281313	nominative
-281339	nominative
-281344	nominative
-281346	dative
-accusative
-281349	nominative
+281140	nominative
+281145	nominative
+281149	genitive
+281158	dative
+281169	vocative
+281176	dative
+dative
+281179	genitive
+dative
 genitive
+281197	nominative
+281202	nominative
+281247	accusative
+281249	nominative
+281252	genitive
+281268	nominative
+281294	genitive
+281311	nominative
+281315	nominative
+281318	genitive
+281326	nominative
+281328	dative
 nominative
-281356	accusative
-281358	nominative
-281360	accusative
-281367	accusative
-281374	nominative
-281377	nominative
-281384	dative
-281395	dative
-281399	nominative
-281407	accusative
-nominative
-281413	nominative
-nominative
+281331	dative
+281337	dative
+281339	dative
+281342	accusative
+281351	accusative
+281357	nominative
+281360	dative
+281370	nominative
+281372	nominative
 accusative
-281417	nominative
+281375	dative
+281379	nominative
+281394	nominative
 accusative
-281421	dative
-281426	nominative
+281401	accusative
+accusative
+nominative
+281408	dative
+281417	dative
+281425	nominative
+281427	nominative
+accusative
+281436	accusative
+281446	accusative
+281449	nominative
+281461	dative
 dative
-281433	nominative
-281436	nominative
-281455	nominative
-281462	nominative
-281485	nominative
-281489	nominative
-281493	dative
-281502	nominative
-281506	accusative
-281516	nominative
-281520	nominative
-281526	nominative
-281532	nominative
-281535	nominative
+281472	dative
+281486	dative
+281494	genitive
+281498	genitive
+accusative
+281507	dative
+281514	nominative
+281525	nominative
+281555	nominative
+281557	dative
+281570	dative
+281574	accusative
 nominative
-281539	nominative
-281543	accusative
-281546	nominative
-281549	nominative
-281553	nominative
-281571	accusative
+281577	nominative
+281579	nominative
+281587	vocative
+281589	accusative
+281595	accusative
+281597	nominative
+281605	dative
+281621	accusative
+281630	dative
+accusative
+281635	accusative
+281641	accusative
+281643	nominative
+281645	nominative
+281658	dative
+281663	accusative
+281673	dative
+nominative
+281676	dative
+281687	nominative
+281690	nominative
+281697	genitive
 dative
-281582	nominative
+281707	nominative
+281710	nominative
+281715	nominative
+281718	accusative
+281720	nominative
+281726	accusative
+281729	dative
+281732	nominative
+281735	dative
+281739	genitive
 nominative
-281587	nominative
-281594	genitive
-281602	accusative
-281612	nominative
-281622	nominative
-281626	nominative
-281631	nominative
-281667	accusative
-281677	nominative
-281691	nominative
+281743	nominative
+281748	accusative
 accusative
-281695	nominative
+nominative
+281760	nominative
+281765	nominative
+281768	nominative
+281778	nominative
+281784	accusative
 accusative
-281698	accusative
-281701	nominative
-281733	nominative
-281749	accusative
-281751	nominative
-281763	dative
-accusative
-281766	nominative
-281769	nominative
-281776	genitive
-281800	accusative
-281814	vocative
-281823	nominative
-281842	accusative
-281852	dative
-281854	dative
-281857	accusative
-281872	dative
-281874	accusative
-vocative
-281878	accusative
-vocative
+nominative
+nominative
+dative
+281791	nominative
+281803	accusative
+281805	dative
+281822	genitive
+281827	nominative
+281830	accusative
+281841	accusative
+281843	nominative
+281849	nominative
+dative
+281853	genitive
+281855	nominative
+281859	accusative
+281871	nominative
+281879	nominative
+281881	accusative
+281885	accusative
+281889	accusative
 281896	accusative
-281899	genitive
-vocative
-nominative
-genitive
+281898	genitive
+accusative
+281901	accusative
 281904	nominative
-281908	genitive
-281911	accusative
-281915	accusative
-281921	nominative
-281926	nominative
-281929	nominative
-281931	nominative
-281933	nominative
-281939	nominative
-281951	accusative
+281906	nominative
+281909	nominative
+nominative
+281916	nominative
+281922	nominative
+nominative
+281928	dative
+281930	nominative
+281936	nominative
+281938	accusative
+nominative
+281945	nominative
+281949	nominative
+dative
+281952	nominative
 281956	nominative
-281960	nominative
-281967	nominative
-281969	nominative
-281972	accusative
-281991	nominative
-281994	dative
-281996	accusative
-282000	dative
-nominative
-dative
-282010	nominative
-282015	dative
-282022	nominative
-282035	dative
-282052	genitive
-282055	nominative
-282061	genitive
-282081	dative
-282084	vocative
-282096	nominative
-282114	vocative
-282126	vocative
-282133	nominative
-282140	accusative
-282164	accusative
-282184	nominative
-282197	nominative
-dative
-282208	accusative
-282211	accusative
-282215	accusative
-282218	dative
-282222	dative
-282229	accusative
-282232	nominative
-nominative
-282239	dative
-282258	accusative
-282275	nominative
-accusative
-282279	nominative
-accusative
-282311	dative
-282314	nominative
-282328	nominative
-accusative
-282332	accusative
-282343	accusative
-282349	accusative
-282358	accusative
-282361	nominative
-nominative
-282373	genitive
-282376	genitive
-282384	accusative
-282386	nominative
-282391	nominative
-nominative
-282397	dative
-nominative
-282413	nominative
-nominative
-282425	nominative
-282434	dative
-282442	accusative
-282445	dative
-282447	genitive
-accusative
-282452	dative
-282456	nominative
-282460	nominative
-282465	nominative
-282471	accusative
-dative
-282481	nominative
-282492	accusative
-accusative
-282495	nominative
-282502	nominative
-282505	nominative
-nominative
-282510	accusative
-282513	accusative
-282523	nominative
-282543	genitive
-282547	genitive
-282560	accusative
-accusative
-282564	accusative
-dative
-accusative
-282576	nominative
-282584	accusative
-282587	nominative
-282595	genitive
-282597	genitive
-282621	nominative
-282626	nominative
-282629	nominative
-282653	nominative
-282657	nominative
-282660	accusative
-282663	accusative
-282671	nominative
-282679	dative
-282692	nominative
-282699	dative
-dative
-282703	accusative
-282705	nominative
-nominative
-282715	nominative
-282718	nominative
-282723	nominative
-282736	accusative
+281959	accusative
 genitive
-282742	nominative
-282745	nominative
-282749	nominative
-282751	nominative
-282754	nominative
+nominative
+281963	nominative
+281966	nominative
+281972	nominative
+281982	nominative
+281987	nominative
+281994	nominative
+dative
+282002	nominative
+282008	accusative
+282010	accusative
+accusative
+dative
+nominative
+nominative
+282016	nominative
+282018	dative
+282020	nominative
+282022	dative
+282027	nominative
+282038	dative
+282041	nominative
+282044	dative
+282046	nominative
+282048	nominative
+282051	dative
+282058	dative
+282063	genitive
+dative
+282067	dative
+282072	nominative
+nominative
+282078	nominative
+nominative
+282084	vocative
+282086	dative
+282098	genitive
+282111	accusative
+accusative
+nominative
+282119	nominative
+282125	nominative
+282127	nominative
+282135	genitive
+282139	nominative
+282146	accusative
+nominative
+accusative
+nominative
+282153	nominative
+282158	nominative
+282165	dative
+nominative
+282177	dative
+nominative
+282190	accusative
 vocative
-282765	nominative
-282774	nominative
+282204	nominative
+282207	nominative
 accusative
-282778	dative
-282780	genitive
-282782	genitive
-282786	nominative
-282802	dative
-282807	dative
-282819	accusative
-282826	nominative
-282831	nominative
-282838	accusative
-282847	nominative
-282860	nominative
-282862	nominative
-282866	nominative
+282214	nominative
+accusative
+282218	accusative
+282231	nominative
+282233	nominative
+282244	genitive
+accusative
+282248	accusative
+282261	nominative
+nominative
+282265	nominative
+nominative
+282278	nominative
+282281	vocative
 accusative
 nominative
-282870	nominative
-282872	nominative
-282881	nominative
-nominative
-282891	dative
-nominative
+282287	dative
+282295	accusative
+282306	accusative
+dative
+282309	dative
+282314	nominative
+282319	nominative
 accusative
+282332	nominative
+282334	vocative
+nominative
+282342	nominative
+282358	dative
+282366	nominative
+282369	accusative
+282371	accusative
+282375	accusative
+282394	dative
+282398	nominative
+282404	dative
+accusative
+282412	accusative
+282430	accusative
+282432	nominative
+282439	nominative
+282441	accusative
+282446	dative
+282448	nominative
+282459	accusative
+282477	nominative
+282481	accusative
+282491	accusative
+282497	accusative
+282500	accusative
+282517	dative
+282521	accusative
+282529	accusative
+282531	accusative
+282539	accusative
+282541	dative
+282547	nominative
+282556	nominative
+nominative
+282577	accusative
+282582	nominative
+282585	accusative
+282590	nominative
+nominative
+282598	nominative
+282614	nominative
+282619	nominative
+282624	vocative
+282628	dative
+282631	accusative
+282639	accusative
+282644	dative
+nominative
+282647	nominative
+282662	nominative
+282669	nominative
+282674	nominative
+282681	nominative
+282687	nominative
+282708	dative
+vocative
+282712	dative
+282718	dative
+vocative
+282725	dative
+vocative
+282731	dative
+vocative
+282737	dative
+vocative
+282744	dative
+vocative
+282748	nominative
+282768	nominative
+282811	nominative
+282818	vocative
+282825	nominative
+282853	nominative
+282856	nominative
+accusative
+282863	nominative
+282866	dative
+282875	accusative
+282883	nominative
+282888	nominative
+282890	nominative
+282894	nominative
 282898	nominative
-accusative
 282904	nominative
-282908	nominative
-nominative
-282912	nominative
-282917	dative
-282930	nominative
-282941	nominative
-282953	nominative
-nominative
-282969	nominative
-282975	genitive
-282999	nominative
-283003	nominative
-283012	nominative
-283015	accusative
-nominative
-283020	nominative
-283023	accusative
+282909	nominative
+282914	nominative
 accusative
+282923	accusative
+282935	nominative
+282938	accusative
 nominative
-283029	nominative
-283032	nominative
-283036	nominative
-283042	nominative
+282941	dative
+282945	accusative
+282947	dative
+282949	genitive
 accusative
-283055	nominative
-283058	nominative
-accusative
-283062	accusative
-283064	accusative
-283066	nominative
-283071	accusative
-283075	nominative
-283077	accusative
-283086	accusative
-283089	accusative
-283096	accusative
-283098	accusative
-283101	accusative
-283114	accusative
-accusative
+282952	nominative
+282954	accusative
+282961	accusative
+282964	nominative
+282966	accusative
+282973	accusative
+282977	nominative
+282982	nominative
+282986	accusative
+282991	vocative
+282999	accusative
+283010	nominative
+283016	nominative
+283023	dative
+283034	accusative
+283038	accusative
+vocative
+283046	nominative
+283052	nominative
+dative
+283057	accusative
+283062	nominative
+283067	accusative
+283069	nominative
+nominative
+283073	nominative
+283085	nominative
+283091	nominative
+283097	nominative
+283101	nominative
+283104	accusative
+283107	accusative
+vocative
+nominative
+283111	accusative
+nominative
+283114	nominative
 283117	nominative
 nominative
+283120	nominative
+283140	nominative
+283143	accusative
+283159	nominative
+283172	nominative
 accusative
-283129	nominative
-283147	nominative
-283151	dative
+283180	nominative
+283184	nominative
+283187	accusative
+283191	accusative
+283194	nominative
+283205	accusative
+283209	nominative
+283215	nominative
+283218	vocative
+283221	accusative
+283223	nominative
+283235	nominative
+283240	nominative
+283243	nominative
+283254	accusative
+283259	nominative
+283265	nominative
+283271	nominative
+283281	accusative
 accusative
-283163	nominative
-283166	dative
-283169	nominative
-283176	nominative
-283178	accusative
-283186	accusative
-283192	nominative
-283195	accusative
-283199	nominative
-283201	dative
+283294	vocative
+283321	nominative
+283328	accusative
+vocative
+283334	accusative
+283339	accusative
+283353	nominative
+283366	accusative
+283369	accusative
+dative
+283372	nominative
+283378	nominative
+283388	genitive
+dative
+283391	vocative
+283412	nominative
+283416	accusative
+283422	nominative
+283431	nominative
+283435	nominative
+283445	nominative
+283449	vocative
+283452	accusative
+283455	nominative
+283463	nominative
+283473	genitive
+283475	nominative
+283479	nominative
+283482	genitive
 nominative
-283204	dative
-283211	nominative
-283213	dative
-283223	genitive
-283227	nominative
-283232	nominative
-283250	nominative
-283254	nominative
-283256	genitive
-dative
-283263	genitive
-283265	genitive
-dative
-283272	nominative
-dative
-283275	accusative
-283286	nominative
-283290	nominative
-283295	accusative
-283304	genitive
-genitive
-283311	nominative
-nominative
-283314	accusative
-283316	dative
-283319	accusative
-283329	dative
-283333	dative
-283347	nominative
-283349	nominative
-283352	nominative
-283358	nominative
-283361	accusative
-283363	accusative
-nominative
-283373	nominative
-283379	nominative
-283384	genitive
-283394	dative
-283405	vocative
-283414	dative
-dative
-283417	genitive
-dative
-genitive
-283436	nominative
-283443	nominative
-283491	accusative
-283493	nominative
-283496	genitive
-283512	nominative
-283538	genitive
+283490	genitive
+283501	vocative
+283503	accusative
+283513	nominative
+283521	nominative
+283527	nominative
+283551	nominative
 283555	nominative
-283559	nominative
-283563	genitive
-283571	nominative
-283573	dative
+283557	accusative
+283566	vocative
+283571	accusative
+283574	accusative
+283576	accusative
 nominative
-283576	dative
-283582	dative
-283584	dative
-283587	accusative
-283596	accusative
-283603	nominative
-283606	dative
-283616	nominative
+283582	accusative
+283597	nominative
+283604	dative
+283606	nominative
+283615	nominative
 283618	nominative
-accusative
-283621	dative
-283625	nominative
-283641	nominative
-accusative
-283648	accusative
-accusative
+283627	nominative
+283631	nominative
+283635	accusative
+283640	nominative
+283644	nominative
+283659	accusative
+283667	nominative
+283674	nominative
+283688	accusative
+283691	nominative
+283696	nominative
+283699	nominative
 nominative
-283655	dative
-283664	dative
-283673	nominative
-283675	nominative
+283702	accusative
+283705	nominative
+283714	nominative
+283718	nominative
+283721	accusative
+283724	accusative
+283735	nominative
+283742	nominative
+283744	nominative
+283752	nominative
 accusative
-283684	accusative
-283694	accusative
-283697	nominative
-283709	dative
-dative
-283720	dative
-283734	dative
-283742	genitive
-283746	genitive
-accusative
-283756	dative
-283763	nominative
-283774	nominative
-283804	nominative
-283806	dative
-283819	dative
-283823	accusative
-nominative
-283826	nominative
-283828	nominative
-283836	vocative
-283838	accusative
-283844	accusative
+283755	accusative
+283772	nominative
+283784	nominative
+283789	nominative
+283795	nominative
+283799	nominative
+283803	nominative
+283805	nominative
+283809	nominative
+283811	nominative
+283816	nominative
+283818	nominative
+283826	accusative
+283837	nominative
+283844	nominative
 283846	nominative
-283854	dative
-283871	accusative
-283880	dative
+283866	nominative
+283869	nominative
+283879	nominative
+283888	nominative
+283890	accusative
+283892	accusative
+283898	accusative
+283905	nominative
+283911	dative
+283919	nominative
+283924	nominative
+283931	accusative
+283939	dative
+283947	nominative
+283950	accusative
+283954	accusative
+283960	genitive
+283966	genitive
 accusative
-283885	accusative
-283891	accusative
-283893	nominative
-283896	nominative
-283909	dative
-283914	accusative
-283924	dative
-nominative
-283927	dative
-283938	nominative
-283942	nominative
-283949	genitive
+283973	accusative
+283977	nominative
+283981	accusative
+283989	accusative
 dative
-283959	nominative
-283962	nominative
-283967	nominative
-283970	accusative
-283972	nominative
-283978	accusative
-283981	dative
-283984	nominative
-283987	dative
-283991	genitive
-nominative
-283995	nominative
-284000	accusative
-accusative
-nominative
+284002	nominative
 284012	nominative
-284017	nominative
-284020	nominative
-284032	nominative
-284038	accusative
+284019	nominative
+284023	accusative
+284028	genitive
+284050	dative
 accusative
-nominative
-nominative
+284065	nominative
+284072	vocative
+284074	accusative
+284084	accusative
+284094	nominative
+284099	accusative
+284129	accusative
+284132	accusative
+284139	accusative
+vocative
+284144	nominative
 dative
-284045	nominative
-284057	accusative
-284059	dative
-284077	genitive
-284082	nominative
-284085	accusative
-284096	accusative
-284098	nominative
-284104	nominative
-dative
-284108	genitive
-284110	nominative
-284115	accusative
-284127	nominative
-284135	nominative
-284137	accusative
-284141	accusative
-284145	accusative
+284147	accusative
 284152	accusative
-284154	genitive
-accusative
-284157	accusative
-284160	nominative
-284162	nominative
-284165	nominative
-nominative
-284172	nominative
-284178	nominative
-nominative
-284184	dative
-284186	nominative
-284192	nominative
-284195	accusative
-nominative
-284202	nominative
-284206	nominative
-dative
-284209	nominative
-284213	nominative
-284216	accusative
-genitive
-nominative
+284154	nominative
+284161	nominative
+284176	nominative
+284178	accusative
+284180	nominative
+284187	accusative
+284191	accusative
+284197	nominative
+284200	nominative
+284205	accusative
+284208	nominative
+284211	nominative
 284220	nominative
-284223	nominative
-284230	nominative
-284240	nominative
-284245	nominative
-284252	nominative
+284230	accusative
+284234	dative
+284237	nominative
+284239	dative
+284246	accusative
+nominative
 dative
-284260	nominative
-284266	accusative
-284268	accusative
+284269	accusative
+284279	accusative
+nominative
+284283	vocative
+284286	accusative
+284296	genitive
+genitive
+284299	genitive
+284303	nominative
+284307	genitive
+284315	accusative
+vocative
 accusative
-dative
+284319	accusative
+284324	accusative
 nominative
+284330	accusative
+284333	nominative
+284340	accusative
 nominative
-284274	nominative
-284276	dative
-284278	nominative
-284280	dative
-284286	nominative
-284297	dative
-284300	nominative
-284303	dative
-284305	nominative
-284307	nominative
-284310	dative
-284317	dative
-284322	genitive
-dative
-284326	dative
-284331	nominative
-nominative
-284337	nominative
-nominative
-284343	vocative
-284345	dative
-284357	genitive
-284370	accusative
+284344	nominative
+284350	nominative
+284354	accusative
+284358	nominative
+genitive
+284362	accusative
+284369	accusative
+284372	nominative
 accusative
-nominative
-284378	nominative
-284384	nominative
-284386	nominative
-284394	genitive
+284376	nominative
+284379	nominative
+284383	accusative
+284389	vocative
+284394	nominative
 284398	nominative
-284405	accusative
-nominative
-accusative
-nominative
-284412	nominative
-284417	nominative
-284424	dative
-nominative
-284436	dative
-nominative
-284449	accusative
-vocative
-284463	nominative
-284466	nominative
-accusative
-284473	nominative
-accusative
+284402	dative
+284418	nominative
+284420	accusative
+284423	dative
+284430	dative
+284435	accusative
+284441	nominative
+dative
+284444	accusative
+284459	dative
+284462	dative
+284464	dative
+284468	vocative
+284470	nominative
+284472	dative
 284477	accusative
-284490	nominative
-284492	nominative
-284504	genitive
-accusative
-284508	accusative
+284480	dative
+nominative
+284486	dative
+284494	nominative
+284503	nominative
+284513	nominative
+284516	accusative
+284518	accusative
+284520	accusative
 284522	nominative
-nominative
+accusative
 284526	nominative
+284529	accusative
+284534	accusative
+284538	accusative
+284557	dative
 nominative
-284539	nominative
-284542	vocative
-accusative
+284560	nominative
+284564	accusative
+284567	nominative
+284572	nominative
+284574	accusative
+284577	accusative
+284580	accusative
+284590	nominative
+284601	dative
 nominative
-284548	dative
-284556	accusative
-284567	accusative
-dative
-284570	dative
-284575	nominative
-284580	nominative
-284582	accusative
-284594	nominative
-284596	vocative
 nominative
-284604	nominative
+284605	accusative
+284610	accusative
 284620	dative
-284628	nominative
-284631	accusative
-284633	accusative
-284637	accusative
-284656	dative
-284661	nominative
-284667	dative
+284638	nominative
+284645	nominative
+284647	accusative
+nominative
+284653	nominative
+284659	nominative
+nominative
+284664	nominative
+284668	dative
+284680	nominative
+284683	nominative
+284689	accusative
+284701	genitive
+284707	genitive
+284711	nominative
+284718	nominative
+284723	accusative
+nominative
 accusative
-284675	accusative
-284693	accusative
-284695	nominative
-284702	nominative
-284705	accusative
-284710	dative
-284712	nominative
-284724	accusative
-284742	nominative
-284746	accusative
-284756	accusative
-284763	accusative
-284766	accusative
-284784	dative
-284788	accusative
-284797	accusative
-284799	accusative
-284807	accusative
-284809	dative
-284815	nominative
-284824	nominative
+284727	nominative
+284729	vocative
+284733	genitive
+284743	dative
+284753	nominative
+284755	nominative
+284758	nominative
+accusative
+284761	nominative
 nominative
-284845	accusative
-284850	nominative
-284853	accusative
-284858	nominative
+284764	vocative
 nominative
-284867	nominative
+accusative
+284772	nominative
+accusative
+284777	nominative
+284790	accusative
+284793	nominative
+accusative
+284798	nominative
+284804	accusative
+284808	dative
+284811	accusative
+accusative
+284818	accusative
+284842	accusative
+284844	dative
+284849	accusative
+284855	nominative
+284862	nominative
+284872	accusative
+284874	nominative
+284876	nominative
+284878	nominative
 284883	nominative
-284888	nominative
-284893	vocative
+284885	accusative
+284889	nominative
 284897	dative
-284901	accusative
-284910	accusative
-284915	dative
-nominative
-284918	nominative
-284933	nominative
-284940	nominative
-284945	nominative
-284952	nominative
-284959	nominative
-284980	dative
-vocative
-284984	dative
-284990	dative
-vocative
-284997	dative
-vocative
-285003	dative
-vocative
-285009	dative
-vocative
-285016	dative
-vocative
-285020	nominative
-285040	nominative
-285083	nominative
-285090	vocative
+284902	nominative
+284906	nominative
+284911	nominative
+284934	dative
+accusative
+284937	dative
+accusative
+284947	accusative
+284954	dative
+284971	accusative
+284975	nominative
+accusative
+284987	nominative
+284998	nominative
+285002	nominative
+285021	dative
+dative
+285042	genitive
+accusative
+285069	nominative
+285073	nominative
+285084	accusative
+accusative
+285087	accusative
+285097	nominative
 285099	nominative
-285127	nominative
-285130	nominative
-accusative
-285137	nominative
-285140	dative
+nominative
+285102	nominative
+285112	nominative
+285116	genitive
+285124	nominative
+285136	nominative
 285149	accusative
-285157	nominative
-285162	nominative
-285164	nominative
-285168	nominative
+285161	nominative
+285165	nominative
 285172	nominative
-285178	nominative
-285183	nominative
-285188	nominative
+285176	nominative
+285195	accusative
+285198	nominative
+285201	nominative
+285210	accusative
+285238	accusative
+285241	nominative
+285247	nominative
+285268	accusative
+285272	accusative
 accusative
-285197	accusative
-285209	nominative
-285213	accusative
-nominative
-285216	dative
-285220	accusative
-285222	dative
-285224	genitive
 accusative
-285227	nominative
-285230	accusative
-285237	accusative
-285240	nominative
-285242	accusative
-285250	accusative
-285254	nominative
-285259	nominative
-285263	accusative
-285268	vocative
-285276	accusative
-285288	nominative
-285294	nominative
-285302	dative
-285313	accusative
-285317	accusative
-vocative
-285325	nominative
-285331	nominative
-dative
+285281	accusative
+accusative
+285284	accusative
+285318	dative
+285330	accusative
 285336	accusative
-285342	nominative
-285347	accusative
-285349	nominative
 nominative
-285353	nominative
-285365	nominative
-285371	nominative
-285377	nominative
-285381	nominative
-285384	accusative
-285387	accusative
-vocative
-nominative
-285391	accusative
-nominative
-285394	nominative
-285397	nominative
-nominative
-285400	nominative
+285339	nominative
+accusative
+285342	accusative
+285346	dative
+285348	dative
+285354	nominative
+285367	accusative
+285373	nominative
+285375	nominative
+285386	nominative
+285393	genitive
+accusative
+285396	accusative
+285403	accusative
+285405	accusative
 285421	nominative
-285424	accusative
-285440	nominative
-285454	nominative
+285425	dative
+285429	nominative
 accusative
-285462	nominative
-285466	nominative
-285470	accusative
-285474	accusative
-285477	nominative
-285488	accusative
-285492	nominative
-285498	nominative
-285501	vocative
+285432	accusative
+285436	nominative
+285450	accusative
+285452	nominative
+285484	nominative
+285493	accusative
+285497	accusative
+285500	nominative
 285504	accusative
-285506	nominative
-285518	nominative
-285523	nominative
-285526	nominative
-285537	accusative
-285542	nominative
-285548	nominative
-285555	nominative
-285565	accusative
+285510	accusative
+285516	accusative
+285527	dative
 accusative
-285578	vocative
-285606	nominative
-285613	accusative
-vocative
-285620	accusative
-285625	accusative
-285639	nominative
-285653	accusative
-285656	accusative
+285537	nominative
+accusative
+285540	accusative
+285544	dative
+285546	dative
+285549	genitive
+285552	dative
+285560	nominative
+accusative
+nominative
+285566	nominative
+285574	accusative
+285580	nominative
+285589	nominative
 dative
-285659	nominative
-285665	nominative
-285676	genitive
-dative
-285679	vocative
-285702	nominative
-285706	accusative
-285713	nominative
-285722	nominative
-285727	nominative
+285611	accusative
+285621	nominative
+accusative
+accusative
+285633	accusative
+285636	dative
+accusative
+285649	accusative
+285652	accusative
+285672	nominative
+285674	nominative
+285690	nominative
+285695	nominative
+285708	accusative
+285712	genitive
+285716	nominative
+285718	nominative
+285723	dative
+285729	accusative
 285737	nominative
-285741	vocative
-285744	accusative
-285747	nominative
-285755	nominative
-285765	genitive
-285767	nominative
-285771	nominative
-285774	genitive
-nominative
-285782	genitive
-285793	vocative
-285795	accusative
-285805	nominative
-285813	nominative
-285819	nominative
-285843	nominative
-285847	nominative
-285849	accusative
-285858	vocative
-285863	accusative
-285866	accusative
-285868	accusative
-nominative
-285874	accusative
+285744	dative
+285748	nominative
+accusative
+285751	accusative
+285762	accusative
+285764	nominative
+285776	accusative
+285780	nominative
+285786	nominative
+285793	accusative
+285824	nominative
+285834	nominative
+285836	nominative
+285862	nominative
+accusative
+285865	accusative
+285876	accusative
+285883	nominative
+285887	nominative
 285889	nominative
-285896	dative
-285898	nominative
-285908	nominative
-285911	nominative
-285920	nominative
-285924	nominative
-285929	accusative
-285934	nominative
-285938	nominative
+285893	nominative
+285895	nominative
+285904	accusative
+285906	nominative
+285929	genitive
+accusative
+accusative
+285940	accusative
+285951	nominative
 285953	accusative
-285961	nominative
-285968	nominative
-285982	accusative
-285985	nominative
-285990	nominative
-285993	nominative
-nominative
-285996	accusative
-286000	nominative
-286009	nominative
-286013	nominative
-286017	accusative
-286021	accusative
-286032	nominative
-286039	nominative
-286041	nominative
-286049	nominative
+285960	nominative
 accusative
-286052	accusative
-286070	nominative
-286082	nominative
-286087	nominative
-286094	nominative
-286098	nominative
-286103	nominative
-286105	nominative
-286109	nominative
-286111	nominative
-286117	nominative
-286119	nominative
-286127	accusative
-286138	nominative
-286145	nominative
-286147	nominative
+285968	genitive
+285974	accusative
+285978	accusative
+285980	accusative
+285983	nominative
+285987	nominative
+285989	accusative
+accusative
+286020	nominative
+286031	nominative
+accusative
+286034	accusative
+286045	accusative
+286073	nominative
+286080	accusative
+286089	nominative
+286100	nominative
+286108	dative
+286113	accusative
+286130	accusative
+286136	nominative
+accusative
+286153	nominative
+286167	nominative
 286169	nominative
-286172	nominative
-286182	nominative
-286191	nominative
-286193	accusative
-286195	accusative
-286202	accusative
-286209	nominative
-286215	dative
-286223	nominative
-286228	nominative
-286235	accusative
-286243	dative
+286171	dative
+286179	nominative
+286189	nominative
+accusative
+286192	accusative
+286200	nominative
+nominative
+286208	accusative
+286212	genitive
+286214	nominative
+286220	dative
+accusative
+286230	nominative
+286238	nominative
+286241	nominative
+nominative
+dative
 286251	nominative
-286255	accusative
-286260	accusative
-286266	genitive
-286273	genitive
+dative
+dative
+286265	accusative
 accusative
-286281	accusative
-286286	nominative
-286290	accusative
-286298	accusative
+286284	nominative
+286287	nominative
+286300	nominative
 dative
-286311	nominative
-286321	nominative
-286328	nominative
-286332	accusative
-286337	genitive
-286359	dative
-accusative
-286374	nominative
-286381	vocative
-286383	accusative
-286394	accusative
-286404	nominative
-286409	accusative
-286441	accusative
-286444	accusative
-286451	accusative
-vocative
-286456	nominative
-dative
-286459	accusative
-286464	accusative
-286466	nominative
-286473	nominative
-286488	nominative
-286490	accusative
-286492	nominative
-286499	accusative
-286503	accusative
-286509	nominative
-286512	nominative
-286517	accusative
-286520	nominative
-286523	nominative
-286533	nominative
-286543	accusative
-286547	dative
-286550	nominative
-286552	dative
-286559	accusative
-nominative
-dative
-286582	accusative
-286593	accusative
-nominative
-286597	vocative
-286600	accusative
-286612	genitive
+286312	nominative
 genitive
-286615	genitive
-286619	nominative
-286623	genitive
-286631	accusative
-vocative
-accusative
-286635	accusative
-286640	accusative
-286643	nominative
-286648	accusative
-286651	nominative
-286658	accusative
-nominative
-286662	nominative
-286668	nominative
-286672	accusative
-286676	nominative
-genitive
-286680	accusative
-286688	accusative
-286691	nominative
-accusative
-286696	nominative
-286699	nominative
-286703	accusative
-286709	vocative
-286714	nominative
-286718	nominative
-286722	dative
-286738	nominative
-286740	accusative
-286743	dative
-286750	dative
-286755	accusative
-286761	nominative
+286320	nominative
 dative
-286764	accusative
-286779	dative
+286325	nominative
+dative
+286330	nominative
+286338	nominative
+286340	dative
+286347	nominative
+286353	genitive
+286355	accusative
+286360	nominative
+286370	nominative
+286372	nominative
+286381	dative
+286384	dative
+286394	genitive
+286400	dative
+286411	nominative
+nominative
+286428	nominative
+286442	genitive
+286447	accusative
+286450	accusative
+286455	accusative
+286458	nominative
+nominative
+286484	accusative
+286487	accusative
+286496	accusative
+286502	dative
+286537	accusative
+accusative
+286540	accusative
+nominative
+286546	nominative
+286553	nominative
+286564	genitive
+286581	nominative
+nominative
+286587	accusative
+nominative
+286596	nominative
+nominative
+286622	accusative
+286652	nominative
+286654	nominative
+286658	nominative
+286670	nominative
+286689	accusative
+286691	dative
+286733	genitive
+286746	nominative
+286748	nominative
+accusative
+286753	dative
+nominative
+286758	nominative
+286771	genitive
+286778	dative
 286782	dative
-286784	dative
-286788	vocative
-286790	nominative
-286792	dative
-286797	accusative
-286800	dative
-nominative
-286806	dative
-286814	nominative
-286823	nominative
-286833	nominative
-286837	accusative
-286839	accusative
-286841	accusative
-286843	nominative
+286789	accusative
+286793	dative
+286804	genitive
+286813	nominative
+286815	nominative
 accusative
-286847	nominative
-286850	accusative
-286855	accusative
-286859	accusative
-286878	dative
+286823	accusative
+286828	accusative
+286832	genitive
+286836	genitive
+286854	genitive
+286864	nominative
+286866	nominative
+dative
+286875	dative
 nominative
-286881	nominative
-286885	accusative
-286888	nominative
-286893	nominative
-286895	accusative
-286898	accusative
-286901	accusative
-286912	nominative
-286923	dative
+286903	genitive
+286912	accusative
+286917	nominative
+286930	genitive
+286939	dative
+286954	nominative
+286972	nominative
+286990	nominative
+286996	nominative
+287001	nominative
 nominative
-nominative
-286927	accusative
-286932	accusative
-286943	dative
-286961	nominative
-286969	nominative
-286971	accusative
-nominative
-286977	nominative
-286983	nominative
-nominative
-286988	nominative
-286993	dative
-287005	nominative
-287008	nominative
-287014	accusative
-287027	genitive
-287034	genitive
-287038	nominative
-287045	nominative
-287050	accusative
-nominative
-accusative
-287054	nominative
-287056	vocative
-287060	genitive
-287070	dative
-287080	nominative
-287082	nominative
-287085	nominative
-accusative
-287088	nominative
-nominative
-287091	vocative
-nominative
-accusative
-287099	nominative
-accusative
-287104	nominative
-287117	accusative
-287120	nominative
-accusative
-287125	nominative
-287131	accusative
-287135	dative
-287138	accusative
-accusative
-287145	accusative
-287170	accusative
-287172	dative
-287177	accusative
-287183	nominative
+287029	accusative
+287048	accusative
+287052	genitive
+287070	nominative
+287076	accusative
+287082	accusative
+287090	nominative
+287103	accusative
+287106	accusative
+287109	genitive
+287122	nominative
+287145	genitive
+287149	nominative
+287157	nominative
 287191	nominative
-287202	accusative
-287204	nominative
-287206	nominative
-287208	nominative
-287213	nominative
-287215	accusative
-287219	nominative
-287227	dative
-287232	nominative
-287236	nominative
-287242	nominative
-287266	dative
-accusative
-287269	dative
-accusative
-287279	accusative
-287286	dative
-287303	accusative
-287307	nominative
-accusative
-287321	nominative
-287332	nominative
-287336	nominative
-287355	dative
+287200	nominative
+287207	nominative
+287214	accusative
+287217	nominative
+287224	nominative
+287230	dative
+287258	nominative
+287286	nominative
 dative
-287376	genitive
-accusative
-287404	nominative
-287408	nominative
-287419	accusative
-accusative
-287422	accusative
-287433	nominative
-287435	nominative
+287290	nominative
+287294	nominative
+287301	dative
+287303	nominative
+287307	dative
+287309	nominative
+287311	nominative
+287323	accusative
+287338	dative
+287345	nominative
+287374	accusative
+287377	accusative
+287395	nominative
+287403	nominative
+287409	dative
+287419	nominative
+287423	dative
+287458	accusative
+287477	nominative
+287481	accusative
+287491	nominative
+287520	dative
 nominative
-287438	nominative
-287448	nominative
-287452	genitive
-287461	nominative
-287473	nominative
-287487	accusative
-287499	nominative
-287503	nominative
-287510	nominative
-287514	nominative
-287533	accusative
-287536	nominative
-287539	nominative
-287549	accusative
-287577	accusative
-287580	nominative
-287586	nominative
-287607	accusative
-287611	accusative
+287530	nominative
+287541	nominative
 accusative
-accusative
-287620	accusative
-accusative
-287623	accusative
-287657	dative
-287669	accusative
-287676	accusative
+287557	nominative
+287559	nominative
+287629	genitive
+287631	genitive
+287634	accusative
+287646	genitive
+287654	accusative
+287657	accusative
+287662	dative
+287676	nominative
+287696	nominative
+287701	dative
 nominative
-287679	nominative
-accusative
-287682	accusative
-287686	dative
-287688	dative
-287695	nominative
-287708	accusative
-287715	nominative
-287717	nominative
-287728	nominative
-287735	genitive
-accusative
-287738	accusative
-287745	accusative
-287747	accusative
-287763	nominative
-287767	dative
-287771	nominative
-accusative
-287774	accusative
+287705	accusative
+287711	dative
+287726	nominative
+287736	dative
+287740	accusative
+287753	accusative
+287765	accusative
 287778	nominative
-287792	accusative
-287794	nominative
-287828	nominative
-287838	accusative
-287842	accusative
-287846	nominative
-287850	accusative
-287856	accusative
-287862	accusative
-287873	dative
-accusative
-287883	nominative
-accusative
-287886	accusative
-287890	dative
-287892	dative
-287895	genitive
-287898	dative
-287907	nominative
-accusative
-nominative
-287913	nominative
-287921	accusative
-287927	nominative
-287936	nominative
+287780	dative
+287788	nominative
 dative
-287958	accusative
-287968	nominative
+287825	genitive
+287830	accusative
+dative
+287850	nominative
+287854	accusative
+287856	nominative
+287884	accusative
+287888	nominative
+287894	accusative
+287905	nominative
+287933	accusative
+287935	accusative
+287971	genitive
+287991	nominative
+dative
+nominative
 accusative
+288002	nominative
+288033	accusative
+288062	accusative
+288065	accusative
 accusative
-287980	accusative
-287983	dative
-accusative
-287996	accusative
-287999	accusative
-288019	nominative
-288021	nominative
-288039	nominative
-288044	nominative
-288057	accusative
-288061	genitive
-288065	nominative
-288067	nominative
-288072	dative
-288078	accusative
-288086	nominative
-288093	dative
-288097	nominative
-accusative
-288100	accusative
-288111	accusative
-288113	nominative
-288125	accusative
-288129	nominative
-288137	nominative
-288144	accusative
-288176	nominative
-288186	nominative
-288188	nominative
-288214	nominative
-accusative
-288217	accusative
-288228	accusative
-288235	nominative
-288239	nominative
-288241	nominative
-288245	nominative
-288247	nominative
-288257	accusative
-288259	nominative
-288282	genitive
-accusative
-accusative
-288293	accusative
-288304	nominative
-288306	accusative
-288314	nominative
-accusative
-288322	genitive
+288087	nominative
+288092	accusative
+288110	nominative
+288129	accusative
+288132	accusative
+288135	accusative
+288141	accusative
+288145	accusative
+288147	accusative
+288164	dative
+288169	nominative
+288190	nominative
+288216	accusative
+288221	accusative
+288224	accusative
+288229	accusative
+288235	genitive
+288246	nominative
+dative
+288249	dative
+288253	dative
+288259	accusative
+288270	nominative
+288272	nominative
+288283	accusative
+288291	nominative
+288295	accusative
+288301	dative
+288303	accusative
+288313	dative
+nominative
+dative
+nominative
 288328	accusative
-288332	accusative
-288334	accusative
-288337	nominative
-288341	nominative
-288343	accusative
+288340	accusative
+288362	nominative
 accusative
-288374	nominative
-288385	nominative
+nominative
+288377	nominative
+288380	nominative
 accusative
-288388	accusative
-288399	accusative
-288428	nominative
-288435	accusative
-288445	nominative
-288456	nominative
-288464	dative
-288469	accusative
-288486	accusative
-288492	nominative
+288384	nominative
+288395	nominative
+288397	accusative
+288401	accusative
+288403	nominative
+288410	nominative
+288417	accusative
+288422	accusative
+288438	nominative
+288443	accusative
+288447	accusative
+288450	accusative
+288460	nominative
+288491	nominative
+288499	accusative
+288501	dative
+288507	accusative
+288530	accusative
 accusative
-288510	nominative
-288524	nominative
-288526	nominative
-288528	dative
-288536	nominative
-288546	nominative
-accusative
+288537	genitive
+dative
 288549	accusative
-288557	nominative
-nominative
-288566	accusative
-288570	genitive
-288572	nominative
-288578	dative
-accusative
-288588	nominative
-288596	nominative
-288599	nominative
-nominative
-dative
-288609	nominative
-dative
-dative
-288623	accusative
-accusative
-288642	nominative
-288645	nominative
-288658	nominative
-dative
-288670	nominative
-genitive
-288678	nominative
-dative
-288683	nominative
-dative
-288688	nominative
-288696	nominative
-288698	dative
-288705	nominative
-288711	genitive
-288713	accusative
-288718	nominative
+288575	nominative
+288579	accusative
+288592	accusative
+288602	nominative
+288627	nominative
+288638	nominative
+288640	dative
+288647	nominative
+288683	dative
+288692	accusative
 288728	nominative
-288730	nominative
-288740	dative
-288743	dative
-288753	genitive
-288759	dative
-288770	nominative
 nominative
-288787	nominative
-288801	genitive
-288806	accusative
-288809	accusative
-288814	accusative
-288817	nominative
-nominative
-288843	accusative
-288846	accusative
-288855	accusative
-288861	dative
-288896	accusative
+288744	nominative
+288748	nominative
+288750	nominative
+288762	nominative
+288784	accusative
+288793	genitive
+288804	nominative
+288831	accusative
+288837	accusative
+288842	nominative
+288880	nominative
+288884	nominative
+288901	accusative
+288925	nominative
 accusative
-288899	accusative
-nominative
-288906	nominative
-288913	nominative
-288924	genitive
-288942	nominative
-nominative
-288948	accusative
-288950	nominative
+288933	nominative
+288935	accusative
 288958	nominative
-288960	nominative
-288985	accusative
-289016	nominative
-289018	nominative
-289022	nominative
-289035	nominative
-289054	accusative
-289056	dative
-289099	genitive
-289112	nominative
-289114	nominative
+288968	nominative
+288970	nominative
+288984	nominative
+289021	accusative
+289023	accusative
+289025	accusative
 accusative
+289041	accusative
+289055	accusative
+289062	genitive
+289067	genitive
+289080	accusative
+accusative
+accusative
+289100	accusative
+289103	nominative
+dative
 289119	dative
+289135	accusative
+289160	nominative
+289162	nominative
 nominative
-289124	nominative
-289138	genitive
-289145	dative
-289149	dative
-289156	accusative
-289160	dative
-289172	genitive
-289181	nominative
-289183	nominative
-accusative
-289191	accusative
-289196	accusative
-289200	genitive
-289204	genitive
-289223	genitive
-289233	nominative
-289235	nominative
+289166	nominative
+289172	dative
+289174	nominative
+289179	dative
+nominative
+289202	accusative
+289205	dative
+289207	accusative
+289212	accusative
+289215	dative
+nominative
+289224	accusative
+289226	nominative
+289241	genitive
+289245	nominative
+289247	accusative
+289250	nominative
+289255	nominative
+289259	accusative
+289273	accusative
+289284	nominative
+289299	accusative
+289305	genitive
+289316	accusative
+289327	accusative
+289332	nominative
+289334	dative
+289338	nominative
 dative
-289244	dative
-nominative
-289273	genitive
-289283	accusative
-289288	nominative
-289301	genitive
-289310	dative
-289325	nominative
+289343	accusative
 289345	nominative
-289363	nominative
-289369	nominative
-289374	nominative
-nominative
-289402	accusative
-289422	accusative
-289426	genitive
-289444	nominative
-289450	accusative
-289456	accusative
-289464	nominative
+289354	dative
+289356	accusative
+289370	nominative
+289397	dative
+accusative
+289412	nominative
+289420	nominative
+289435	nominative
+accusative
+289453	nominative
+289462	nominative
+289471	accusative
 289477	accusative
-289480	accusative
-289483	genitive
-289497	nominative
-289521	genitive
-289525	nominative
-289534	nominative
-289568	nominative
-289578	nominative
-289585	nominative
-289592	accusative
-289595	nominative
-289602	nominative
-289608	dative
-289636	nominative
-289664	nominative
-dative
-289668	nominative
-289672	nominative
-289679	dative
-289681	nominative
-289685	dative
-289687	nominative
-289689	nominative
-289701	accusative
-289716	dative
-289723	nominative
-289752	accusative
+289490	accusative
+289494	genitive
+genitive
+289513	nominative
+289523	nominative
+289526	nominative
+289528	nominative
+289532	nominative
+289535	nominative
+nominative
+289540	nominative
+289555	nominative
+nominative
+289561	accusative
+289563	accusative
+289568	accusative
+289577	nominative
+289585	dative
+accusative
+289595	dative
+289607	nominative
+289612	nominative
+289627	dative
+nominative
+289633	nominative
+289642	accusative
+289660	genitive
+genitive
+289689	accusative
+289693	nominative
+289701	nominative
+289713	nominative
+289723	genitive
+289726	genitive
+289728	nominative
+289732	nominative
 289755	accusative
+289759	nominative
 289774	nominative
-289783	nominative
-289789	dative
-289799	nominative
-289804	dative
-289839	accusative
-289858	nominative
-289862	accusative
-289872	nominative
-289901	dative
-nominative
-289911	nominative
-289922	nominative
+289777	dative
+289796	nominative
+289815	nominative
+289824	nominative
 accusative
-289939	nominative
-289941	nominative
-290012	genitive
-290014	genitive
-290017	accusative
-290029	genitive
+289831	dative
+289835	nominative
+289882	nominative
+289902	accusative
+289917	accusative
+dative
+289920	accusative
+289934	accusative
+289939	accusative
+289955	nominative
+289971	nominative
+289974	vocative
+289980	nominative
+nominative
+290012	nominative
+290018	nominative
+290022	nominative
 290037	accusative
-290040	accusative
-290045	dative
-290059	nominative
-290079	nominative
-290084	dative
+290042	genitive
+290050	genitive
+290061	nominative
+290078	genitive
+290110	accusative
+290115	accusative
+290152	nominative
+290158	genitive
 nominative
-290088	accusative
-290094	dative
-290111	nominative
-290121	dative
-290125	accusative
-290138	accusative
-290150	accusative
 290163	nominative
-290165	dative
-290174	nominative
+290168	accusative
+290177	accusative
 dative
-290211	genitive
-290217	accusative
-dative
-290238	nominative
-290242	accusative
+290181	nominative
+290186	genitive
+290205	dative
+290220	genitive
+290229	dative
+accusative
 290244	nominative
-290272	accusative
-290276	nominative
-290282	accusative
-290293	nominative
-290321	accusative
-290323	accusative
-290359	genitive
-290379	nominative
-dative
+290321	nominative
+accusative
 nominative
-accusative
-290391	nominative
-290423	accusative
-290452	accusative
-290455	accusative
-accusative
+290331	accusative
+290345	nominative
+nominative
+nominative
+290349	nominative
+290355	nominative
+290363	accusative
+290367	accusative
+290369	accusative
+290384	nominative
+290394	nominative
+290398	genitive
+nominative
+290405	nominative
+290425	dative
+290438	nominative
+290459	nominative
+290471	genitive
 290477	nominative
-290482	accusative
-290500	nominative
-290521	accusative
-290524	accusative
-290527	accusative
-290533	accusative
-290538	accusative
-290540	accusative
-290558	dative
-290563	nominative
+290480	dative
+290487	genitive
+290497	nominative
+290506	accusative
+290511	accusative
+accusative
+290517	accusative
+290519	nominative
+290527	nominative
+290531	nominative
+290536	nominative
+290542	accusative
+290555	nominative
+290570	accusative
 290584	nominative
-290611	accusative
-290616	accusative
-290619	accusative
-290625	accusative
-290631	genitive
-290642	nominative
-dative
-290645	dative
-290649	dative
-290655	accusative
-290666	nominative
-290668	nominative
-290679	accusative
-290687	nominative
-290691	accusative
-290697	dative
-290699	accusative
-290709	dative
-290711	nominative
-dative
-nominative
-290725	accusative
-290737	accusative
-290759	nominative
 accusative
-nominative
+290589	dative
+290593	nominative
+290595	dative
+290604	genitive
+accusative
+genitive
+290614	accusative
+290631	nominative
+290644	genitive
+290656	nominative
+accusative
+290680	accusative
+accusative
+290686	nominative
+290693	nominative
+290705	accusative
+290709	nominative
+accusative
+290714	accusative
+290721	nominative
+290731	nominative
+290738	accusative
+290754	dative
+290756	accusative
+290770	accusative
 290774	nominative
-290778	nominative
+290780	accusative
+290782	accusative
+290790	accusative
+290818	accusative
+290825	nominative
 accusative
-290782	nominative
-290794	nominative
-290796	accusative
-290800	accusative
-290803	nominative
-290810	nominative
-290817	accusative
-290822	accusative
-290840	nominative
-290845	accusative
-290849	accusative
-290852	accusative
-290864	nominative
-290895	nominative
-290903	accusative
-290905	dative
-290911	accusative
-290934	accusative
+290834	accusative
+290837	accusative
+290849	nominative
+290868	genitive
+290902	accusative
+290933	dative
+290945	dative
+290948	dative
 accusative
-290941	genitive
-dative
-290953	accusative
-290979	nominative
-290983	accusative
-290996	accusative
-291006	nominative
-291031	nominative
-291042	nominative
-291045	dative
-291052	nominative
-291089	dative
-291098	accusative
-291134	nominative
+accusative
+290952	accusative
+290957	dative
+290967	nominative
+290970	nominative
+290974	accusative
+290991	nominative
+290995	nominative
+accusative
+291015	nominative
+291021	nominative
+291048	nominative
+291112	accusative
+291117	nominative
+291127	nominative
+291129	nominative
 nominative
-291150	nominative
-291154	nominative
-291156	nominative
+291137	nominative
+291142	nominative
+291158	nominative
+291161	nominative
 291168	nominative
-291190	accusative
-291199	genitive
-291211	nominative
-291239	accusative
-291245	accusative
-291251	nominative
-291290	nominative
-291294	nominative
-291311	accusative
-291336	nominative
+291173	nominative
+nominative
+nominative
+291181	accusative
+291188	nominative
+291190	nominative
+nominative
+291200	nominative
+291238	nominative
+291241	dative
+291309	genitive
+291321	genitive
+291342	nominative
+291357	accusative
+291383	dative
+291386	nominative
+291390	nominative
+291394	nominative
+291403	nominative
 accusative
-291344	nominative
-291346	accusative
-291369	nominative
-291380	nominative
-291382	nominative
-291397	nominative
-291435	accusative
-291437	accusative
-291439	accusative
-accusative
-291456	accusative
-291470	accusative
-291477	genitive
-291482	genitive
-291495	accusative
-accusative
-accusative
-291516	accusative
-291519	nominative
-dative
-291535	dative
+291426	genitive
+291442	dative
+291453	accusative
+291456	dative
+291469	dative
+291471	nominative
+291478	nominative
+291481	dative
+nominative
+291494	dative
+291497	dative
+291507	genitive
+291522	accusative
+291529	nominative
+291531	nominative
+291549	nominative
 291551	accusative
-291576	nominative
-291578	nominative
+accusative
 nominative
-291582	nominative
-291588	dative
-291590	nominative
-291595	dative
-nominative
-291618	accusative
-291621	dative
-291623	accusative
-291628	accusative
-291631	dative
-nominative
-291640	accusative
-291643	nominative
-291658	genitive
-291663	nominative
-291665	accusative
-291668	nominative
-291673	nominative
-291677	accusative
-291691	accusative
-291702	nominative
-291717	accusative
-291724	genitive
-291735	accusative
-291746	accusative
-291752	nominative
-291754	dative
-291758	nominative
+291557	nominative
+291559	nominative
+291561	accusative
 dative
-291763	accusative
-291766	nominative
-291776	dative
-291778	accusative
-291793	nominative
-291821	dative
+291577	dative
+291580	nominative
+291594	nominative
+291596	accusative
+291600	nominative
+291624	accusative
+291633	accusative
+291640	nominative
+291644	dative
+291666	genitive
+291688	accusative
+291693	genitive
+291707	nominative
+291713	accusative
+291718	accusative
+291721	nominative
+291729	genitive
+291738	genitive
+291741	dative
+291754	accusative
 accusative
-291837	nominative
-291845	nominative
-291860	nominative
+291758	accusative
+291776	nominative
+291783	accusative
+291788	accusative
+291809	accusative
+291815	accusative
+291821	nominative
+291823	dative
+291827	genitive
+291838	nominative
+291873	nominative
+291879	nominative
 accusative
-291878	nominative
-291887	nominative
-291896	accusative
-291902	accusative
-291916	accusative
-291920	genitive
-genitive
-291939	nominative
-291949	nominative
-291953	nominative
-291955	nominative
+291890	accusative
+291930	accusative
+291956	accusative
 291959	nominative
-291962	nominative
-nominative
-291967	nominative
-291982	nominative
-nominative
-291988	accusative
-291990	accusative
-291995	accusative
-292004	nominative
-292013	dative
+291964	accusative
+291968	nominative
 accusative
-292023	dative
-292035	nominative
-292042	nominative
-292057	dative
-nominative
-292064	nominative
-292073	accusative
-292091	genitive
-genitive
-292120	accusative
-292124	nominative
-292132	nominative
-292144	nominative
-292154	genitive
-292157	genitive
-292159	nominative
-292163	nominative
-292187	accusative
-292191	nominative
-292206	nominative
-292209	dative
-292229	nominative
-292248	nominative
-292257	nominative
-accusative
-292264	dative
-292268	nominative
-292316	nominative
-292336	accusative
-292351	accusative
+291996	accusative
+292007	nominative
+292010	dative
+292019	accusative
+292023	nominative
+292028	nominative
+292035	genitive
+292061	nominative
+292075	nominative
+292086	nominative
+292093	nominative
+292126	accusative
+292131	accusative
+292135	accusative
+292143	genitive
+292157	nominative
+292190	nominative
+292194	accusative
+292196	accusative
+292208	dative
+292210	nominative
+292220	nominative
 dative
-292354	accusative
-292368	accusative
-292373	accusative
+292230	nominative
+292232	accusative
+292236	dative
+nominative
+292239	nominative
+292241	dative
+nominative
+292248	dative
+292261	dative
+292264	nominative
+292276	genitive
+292280	genitive
+292288	nominative
+292291	dative
+292299	accusative
+292306	dative
+292311	accusative
+292316	accusative
+292322	nominative
+292327	dative
+nominative
+292331	nominative
+292339	accusative
+nominative
+292361	nominative
+292372	nominative
 292389	nominative
-292406	nominative
-292409	vocative
-292415	nominative
+292394	nominative
+292410	nominative
+292419	nominative
+292421	genitive
+292427	nominative
+292431	nominative
+292440	nominative
+292444	nominative
+292446	nominative
+292448	nominative
+292450	nominative
+292452	nominative
+292454	nominative
+292456	nominative
+292458	nominative
+292460	nominative
+292462	nominative
+292464	nominative
+292466	nominative
+292487	accusative
+292513	dative
+292520	accusative
+292544	genitive
 nominative
-292447	nominative
-292453	nominative
-292457	nominative
-292472	accusative
-292477	genitive
-292485	genitive
-292496	nominative
-292513	genitive
-292545	accusative
-292550	accusative
-292587	nominative
-292593	genitive
-292595	nominative
-292599	nominative
-292604	accusative
-292613	accusative
-dative
-292617	nominative
-292622	genitive
+292566	nominative
+292571	nominative
+292580	dative
+292587	accusative
+292607	nominative
+292611	nominative
 292641	dative
-292656	genitive
-292665	dative
-accusative
-292680	nominative
-292758	nominative
-accusative
-nominative
-292768	accusative
-292782	nominative
+292654	nominative
+292679	dative
+292699	accusative
+292706	accusative
 nominative
 nominative
-292786	nominative
-292792	nominative
-292800	accusative
-292804	accusative
-292806	accusative
-292821	nominative
-292832	nominative
-292836	genitive
-nominative
-292843	nominative
-292863	dative
-292876	nominative
-292897	nominative
-292909	genitive
-292915	nominative
-292919	dative
-292926	genitive
-292936	nominative
-292945	accusative
-292950	accusative
-accusative
-292956	accusative
-292958	nominative
-292967	nominative
-292971	nominative
-292976	nominative
-292982	accusative
-292995	nominative
-293010	accusative
-293024	nominative
-accusative
-293029	dative
-293033	nominative
-293035	dative
-293044	genitive
-accusative
-genitive
-293055	accusative
-293073	nominative
-293086	genitive
-293098	nominative
-accusative
-293124	accusative
-accusative
-293131	nominative
-293138	nominative
-293151	accusative
-293156	nominative
-accusative
-293161	accusative
-293168	nominative
-293178	nominative
-293186	accusative
-293202	dative
-293206	accusative
-293221	accusative
-293225	nominative
-293231	accusative
-293233	accusative
-293241	accusative
-293270	accusative
-293277	nominative
-accusative
-293286	accusative
-293289	accusative
-293301	nominative
-293321	genitive
-293355	accusative
-293386	dative
-293399	dative
-293402	dative
-accusative
-accusative
-293406	accusative
-293411	dative
-293421	nominative
-293424	nominative
-293428	accusative
-293445	nominative
-293449	nominative
-accusative
-293470	nominative
-293476	nominative
-293504	nominative
-293568	accusative
-293573	nominative
-293583	nominative
-293585	nominative
-nominative
-293594	nominative
-293599	nominative
-293615	nominative
-293618	nominative
-293625	nominative
-293630	nominative
-nominative
-nominative
-293638	accusative
-293645	nominative
-293647	nominative
-nominative
-293659	nominative
-293697	nominative
-293700	dative
-293770	genitive
-293782	genitive
-293805	nominative
-293820	accusative
-293846	dative
-293849	nominative
-293853	nominative
-293857	nominative
-293866	nominative
-accusative
-293889	genitive
-293906	dative
-293917	accusative
-293921	dative
-293934	dative
-293936	nominative
-293943	nominative
-293946	dative
-nominative
-293959	dative
-293962	dative
-293975	genitive
-293990	accusative
-293997	nominative
-293999	nominative
-294017	nominative
-294020	accusative
-accusative
-nominative
-294026	nominative
-294028	nominative
-294030	accusative
-dative
-294046	dative
-294049	nominative
-294063	nominative
-294065	accusative
-294069	nominative
-294093	accusative
-294102	accusative
-294109	nominative
-294113	dative
-294137	genitive
-294159	accusative
-294164	genitive
-294178	nominative
-294184	accusative
-294189	accusative
-294192	nominative
-294200	genitive
-294209	genitive
-294212	dative
-294225	accusative
-accusative
-294229	accusative
-294250	nominative
-294257	accusative
-294262	accusative
-294283	accusative
-294289	accusative
-294295	nominative
-294297	dative
-294301	genitive
-294312	nominative
-294347	nominative
-294353	nominative
-accusative
-294364	accusative
-294405	accusative
-294431	accusative
-294434	nominative
-294439	accusative
-294443	nominative
-accusative
-294473	accusative
-294484	nominative
-294487	dative
-294496	accusative
-294500	nominative
-294505	nominative
-294512	genitive
-294538	nominative
-294552	nominative
-294564	nominative
-294571	nominative
-294605	accusative
-294610	accusative
-294614	accusative
-294622	genitive
-294636	nominative
-294669	nominative
-294673	accusative
-294675	accusative
-294687	dative
-294689	nominative
-294699	nominative
-dative
-294709	nominative
-294711	accusative
-294715	dative
-nominative
-294718	nominative
-294720	dative
-nominative
-294727	dative
-294740	dative
-294743	nominative
-294755	genitive
-294759	genitive
-294767	nominative
-294771	dative
-294779	accusative
-294786	dative
-294791	accusative
-294796	accusative
-294802	nominative
-294807	dative
-294809	nominative
-294812	nominative
-294821	accusative
-nominative
-294843	nominative
-294854	nominative
-294871	nominative
-294876	nominative
-294892	nominative
-294902	nominative
-294904	genitive
-294910	nominative
-294915	nominative
-294924	nominative
-294929	nominative
-294931	nominative
-294933	nominative
-294935	nominative
-294937	nominative
-294939	nominative
-294941	nominative
-294943	nominative
-294945	nominative
-294947	nominative
-294949	nominative
-294951	nominative
-294974	accusative
-295001	dative
-295008	accusative
-295033	genitive
-nominative
-295055	nominative
-295060	nominative
-295069	dative
-295076	accusative
-295096	nominative
-295100	nominative
-295130	dative
-295143	nominative
-295168	dative
-295188	accusative
-295195	accusative
-nominative
-nominative
-295207	accusative
-295222	genitive
+292718	accusative
+292732	genitive
 dative
 accusative
-295227	dative
-295240	genitive
-295249	dative
-295263	nominative
-295273	accusative
-295282	accusative
-295288	dative
-295293	nominative
-295307	nominative
+292737	dative
+292748	genitive
+292757	dative
+292771	nominative
+292781	accusative
+292790	accusative
+292796	dative
+292801	nominative
+292815	nominative
 nominative
-295340	accusative
-295346	dative
+292848	accusative
+292854	dative
 accusative
-295350	nominative
-295371	nominative
-295376	nominative
-295378	nominative
-295383	nominative
-295385	dative
-295394	nominative
-295402	accusative
-295409	nominative
-295433	genitive
-295438	nominative
+292858	nominative
+292879	nominative
+292883	nominative
+292885	nominative
+292890	nominative
+292892	dative
+292900	nominative
+292908	accusative
+292914	nominative
+292938	genitive
+292943	nominative
 accusative
-295442	accusative
+292947	accusative
 317880	nominative
 genitive
 genitive

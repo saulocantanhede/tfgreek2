@@ -9,7 +9,7 @@
 @version=0.5.2
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-08-22T19:19:11Z
+@dateWritten=2023-08-30T00:19:19Z
 
 Matthew
 Matthew
@@ -138311,7 +138311,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-138302	Matthew
 Matthew
 Matthew
 Matthew
@@ -138496,9 +138495,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-138489	Matthew
 Matthew
-138492	Matthew
 Matthew
 Matthew
 Matthew
@@ -138508,15 +138505,12 @@ Matthew
 Matthew
 Matthew
 Matthew
-138503	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-138509	Matthew
 Matthew
 Matthew
-138513	Matthew
 Matthew
 Matthew
 Matthew
@@ -138558,13 +138552,11 @@ Matthew
 Matthew
 Matthew
 Matthew
-138556	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-138563	Matthew
 Matthew
 Matthew
 Matthew
@@ -138766,7 +138758,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-138766	Matthew
 Matthew
 Matthew
 Matthew
@@ -138811,7 +138802,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-138813	Matthew
 Matthew
 Matthew
 Matthew
@@ -138827,7 +138817,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-138830	Matthew
 Matthew
 Matthew
 Matthew
@@ -138860,7 +138849,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-138864	Matthew
 Matthew
 Matthew
 Matthew
@@ -138870,7 +138858,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-138875	Matthew
 Matthew
 Matthew
 Matthew
@@ -138977,7 +138964,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-138983	Matthew
 Matthew
 Matthew
 Matthew
@@ -139264,7 +139250,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-139271	Matthew
 Matthew
 Matthew
 Matthew
@@ -139321,7 +139306,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-139329	Matthew
 Matthew
 Matthew
 Matthew
@@ -139352,7 +139336,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-139361	Matthew
 Matthew
 Matthew
 Matthew
@@ -139393,7 +139376,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-139403	Matthew
 Matthew
 Matthew
 Matthew
@@ -139491,11 +139473,9 @@ Matthew
 Matthew
 Matthew
 Matthew
-139502	Matthew
 Matthew
 Matthew
 Matthew
-139507	Matthew
 Matthew
 Matthew
 Matthew
@@ -139523,7 +139503,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-139536	Matthew
 Matthew
 Matthew
 Matthew
@@ -139550,7 +139529,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-139564	Matthew
 Matthew
 Matthew
 Matthew
@@ -139648,7 +139626,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-139663	Matthew
 Matthew
 Matthew
 Matthew
@@ -139724,7 +139701,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-139740	Matthew
 Matthew
 Matthew
 Matthew
@@ -139753,11 +139729,9 @@ Matthew
 Matthew
 Matthew
 Matthew
-139770	Matthew
 Matthew
 Matthew
 Matthew
-139775	Matthew
 Matthew
 Matthew
 Matthew
@@ -139805,7 +139779,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-139824	Matthew
 Matthew
 Matthew
 Matthew
@@ -139821,9 +139794,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-139841	Matthew
 Matthew
-139845	Matthew
 Matthew
 Matthew
 Matthew
@@ -139917,7 +139888,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-139940	Matthew
 Matthew
 Matthew
 Matthew
@@ -139931,10 +139901,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-139955	Matthew
 Matthew
-139958	Matthew
-139960	Matthew
 Matthew
 Matthew
 Matthew
@@ -139990,7 +139957,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-140017	Matthew
 Matthew
 Matthew
 Matthew
@@ -140127,9 +140093,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-140155	Matthew
 Matthew
-140158	Matthew
 Matthew
 Matthew
 Matthew
@@ -140204,7 +140168,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-140234	Matthew
 Matthew
 Matthew
 Matthew
@@ -140339,17 +140302,13 @@ Matthew
 Matthew
 Matthew
 Matthew
-140370	Matthew
-140372	Matthew
 Matthew
-140375	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-140383	Matthew
 Matthew
 Matthew
 Matthew
@@ -140373,11 +140332,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-140408	Matthew
-140410	Matthew
 Matthew
 Matthew
-140414	Matthew
 Matthew
 Matthew
 Matthew
@@ -140537,7 +140493,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-140575	Matthew
 Matthew
 Matthew
 Matthew
@@ -140599,14 +140554,10 @@ Matthew
 Matthew
 Matthew
 Matthew
-140638	Matthew
-140640	Matthew
 Matthew
-140643	Matthew
 Matthew
 Matthew
 Matthew
-140648	Matthew
 Matthew
 Matthew
 Matthew
@@ -140714,7 +140665,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-140758	Matthew
 Matthew
 Matthew
 Matthew
@@ -140759,7 +140709,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-140804	Matthew
 Matthew
 Matthew
 Matthew
@@ -140814,7 +140763,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-140860	Matthew
 Matthew
 Matthew
 Matthew
@@ -140830,7 +140778,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-140877	Matthew
 Matthew
 Matthew
 Matthew
@@ -140885,7 +140832,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-140933	Matthew
 Matthew
 Matthew
 Matthew
@@ -140924,11 +140870,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-140973	Matthew
-140975	Matthew
 Matthew
 Matthew
-140979	Matthew
 Matthew
 Matthew
 Matthew
@@ -141021,7 +140964,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141073	Matthew
 Matthew
 Matthew
 Matthew
@@ -141059,7 +141001,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141112	Matthew
 Matthew
 Matthew
 Matthew
@@ -141127,7 +141068,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141181	Matthew
 Matthew
 Matthew
 Matthew
@@ -141165,7 +141105,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141220	Matthew
 Matthew
 Matthew
 Matthew
@@ -141176,7 +141115,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141233	Matthew
 Matthew
 Matthew
 Matthew
@@ -141219,7 +141157,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141277	Matthew
 Matthew
 Matthew
 Matthew
@@ -141349,8 +141286,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141408	Matthew
-141410	Matthew
 Matthew
 Matthew
 Matthew
@@ -141372,7 +141307,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141433	Matthew
 Matthew
 Matthew
 Matthew
@@ -141390,21 +141324,14 @@ Matthew
 Matthew
 Matthew
 Matthew
-141452	Matthew
-141454	Matthew
-141456	Matthew
 Matthew
-141459	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-141467	Matthew
-141469	Matthew
 Matthew
-141472	Matthew
 Matthew
 Matthew
 Matthew
@@ -141424,10 +141351,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-141493	Matthew
 Matthew
 Matthew
-141497	Matthew
 Matthew
 Matthew
 Matthew
@@ -141441,7 +141366,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141512	Matthew
 Matthew
 Matthew
 Matthew
@@ -141473,7 +141397,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141545	Matthew
 Matthew
 Matthew
 Matthew
@@ -141553,7 +141476,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141626	Matthew
 Matthew
 Matthew
 Matthew
@@ -141753,7 +141675,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141827	Matthew
 Matthew
 Matthew
 Matthew
@@ -141905,7 +141826,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-141980	Matthew
 Matthew
 Matthew
 Matthew
@@ -141980,7 +141900,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-142056	Matthew
 Matthew
 Matthew
 Matthew
@@ -142075,7 +141994,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-142152	Matthew
 Matthew
 Matthew
 Matthew
@@ -142347,7 +142265,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-142425	Matthew
 Matthew
 Matthew
 Matthew
@@ -142535,6 +142452,177 @@ Matthew
 Matthew
 Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Mark
 Mark
 Mark
@@ -142848,7 +142936,6 @@ Mark
 Mark
 Mark
 Mark
-142927	Mark
 Mark
 Mark
 Mark
@@ -142934,10 +143021,7 @@ Mark
 Mark
 Mark
 Mark
-143014	Mark
 Mark
-143017	Mark
-143019	Mark
 Mark
 Mark
 Mark
@@ -142972,7 +143056,6 @@ Mark
 Mark
 Mark
 Mark
-143055	Mark
 Mark
 Mark
 Mark
@@ -143021,7 +143104,6 @@ Mark
 Mark
 Mark
 Mark
-143105	Mark
 Mark
 Mark
 Mark
@@ -143036,7 +143118,6 @@ Mark
 Mark
 Mark
 Mark
-143121	Mark
 Mark
 Mark
 Mark
@@ -143055,12 +143136,9 @@ Mark
 Mark
 Mark
 Mark
-143141	Mark
 Mark
 Mark
-143145	Mark
 Mark
-143148	Mark
 Mark
 Mark
 Mark
@@ -143081,7 +143159,6 @@ Mark
 Mark
 Mark
 Mark
-143170	Mark
 Mark
 Mark
 Mark
@@ -143133,7 +143210,6 @@ Mark
 Mark
 Mark
 Mark
-143223	Mark
 Mark
 Mark
 Mark
@@ -143201,7 +143277,6 @@ Mark
 Mark
 Mark
 Mark
-143292	Mark
 Mark
 Mark
 Mark
@@ -143226,7 +143301,6 @@ Mark
 Mark
 Mark
 Mark
-143318	Mark
 Mark
 Mark
 Mark
@@ -143348,7 +143422,6 @@ Mark
 Mark
 Mark
 Mark
-143441	Mark
 Mark
 Mark
 Mark
@@ -143372,7 +143445,6 @@ Mark
 Mark
 Mark
 Mark
-143466	Mark
 Mark
 Mark
 Mark
@@ -143398,7 +143470,6 @@ Mark
 Mark
 Mark
 Mark
-143493	Mark
 Mark
 Mark
 Mark
@@ -143432,7 +143503,6 @@ Mark
 Mark
 Mark
 Mark
-143528	Mark
 Mark
 Mark
 Mark
@@ -143540,15 +143610,12 @@ Mark
 Mark
 Mark
 Mark
-143637	Mark
 Mark
 Mark
-143641	Mark
 Mark
 Mark
 Mark
 Mark
-143647	Mark
 Mark
 Mark
 Mark
@@ -143585,7 +143652,6 @@ Mark
 Mark
 Mark
 Mark
-143685	Mark
 Mark
 Mark
 Mark
@@ -143642,7 +143708,6 @@ Mark
 Mark
 Mark
 Mark
-143743	Mark
 Mark
 Mark
 Mark
@@ -143811,7 +143876,6 @@ Mark
 Mark
 Mark
 Mark
-143913	Mark
 Mark
 Mark
 Mark
@@ -143835,12 +143899,9 @@ Mark
 Mark
 Mark
 Mark
-143938	Mark
 Mark
 Mark
-143942	Mark
 Mark
-143945	Mark
 Mark
 Mark
 Mark
@@ -143925,7 +143986,6 @@ Mark
 Mark
 Mark
 Mark
-144031	Mark
 Mark
 Mark
 Mark
@@ -143960,7 +144020,6 @@ Mark
 Mark
 Mark
 Mark
-144067	Mark
 Mark
 Mark
 Mark
@@ -144021,10 +144080,6 @@ Mark
 Mark
 Mark
 Mark
-144129	Mark
-144131	Mark
-144133	Mark
-144135	Mark
 Mark
 Mark
 Mark
@@ -144038,7 +144093,6 @@ Mark
 Mark
 Mark
 Mark
-144150	Mark
 Mark
 Mark
 Mark
@@ -144072,7 +144126,6 @@ Mark
 Mark
 Mark
 Mark
-144185	Mark
 Mark
 Mark
 Mark
@@ -144108,8 +144161,6 @@ Mark
 Mark
 Mark
 Mark
-144222	Mark
-144225	Mark
 Mark
 Mark
 Mark
@@ -144127,7 +144178,6 @@ Mark
 Mark
 Mark
 Mark
-144244	Mark
 Mark
 Mark
 Mark
@@ -144160,7 +144210,6 @@ Mark
 Mark
 Mark
 Mark
-144278	Mark
 Mark
 Mark
 Mark
@@ -144233,7 +144282,6 @@ Mark
 Mark
 Mark
 Mark
-144352	Mark
 Mark
 Mark
 Mark
@@ -144253,7 +144301,6 @@ Mark
 Mark
 Mark
 Mark
-144374	Mark
 Mark
 Mark
 Mark
@@ -144272,11 +144319,8 @@ Mark
 Mark
 Mark
 Mark
-144394	Mark
-144396	Mark
 Mark
 Mark
-144400	Mark
 Mark
 Mark
 Mark
@@ -144419,7 +144463,6 @@ Mark
 Mark
 Mark
 Mark
-144544	Mark
 Mark
 Mark
 Mark
@@ -144430,7 +144473,6 @@ Mark
 Mark
 Mark
 Mark
-144556	Mark
 Mark
 Mark
 Mark
@@ -144490,7 +144532,6 @@ Mark
 Mark
 Mark
 Mark
-144617	Mark
 Mark
 Mark
 Mark
@@ -144511,7 +144552,6 @@ Mark
 Mark
 Mark
 Mark
-144639	Mark
 Mark
 Mark
 Mark
@@ -144588,7 +144628,6 @@ Mark
 Mark
 Mark
 Mark
-144717	Mark
 Mark
 Mark
 Mark
@@ -144644,12 +144683,10 @@ Mark
 Mark
 Mark
 Mark
-144774	Mark
 Mark
 Mark
 Mark
 Mark
-144780	Mark
 Mark
 Mark
 Mark
@@ -144743,7 +144780,6 @@ Mark
 Mark
 Mark
 Mark
-144875	Mark
 Mark
 Mark
 Mark
@@ -144840,7 +144876,6 @@ Mark
 Mark
 Mark
 Mark
-144973	Mark
 Mark
 Mark
 Mark
@@ -144863,7 +144898,6 @@ Mark
 Mark
 Mark
 Mark
-144997	Mark
 Mark
 Mark
 Mark
@@ -144914,7 +144948,6 @@ Mark
 Mark
 Mark
 Mark
-145049	Mark
 Mark
 Mark
 Mark
@@ -145002,7 +145035,6 @@ Mark
 Mark
 Mark
 Mark
-145138	Mark
 Mark
 Mark
 Mark
@@ -145209,7 +145241,6 @@ Mark
 Mark
 Mark
 Mark
-145346	Mark
 Mark
 Mark
 Mark
@@ -145256,7 +145287,6 @@ Mark
 Mark
 Mark
 Mark
-145394	Mark
 Mark
 Mark
 Mark
@@ -145347,7 +145377,6 @@ Mark
 Mark
 Mark
 Mark
-145486	Mark
 Mark
 Mark
 Mark
@@ -145371,92 +145400,126 @@ Mark
 Mark
 Mark
 Mark
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
-Luke
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 Luke
 Luke
 Luke
@@ -145567,7 +145630,6 @@ Luke
 Luke
 Luke
 Luke
-145707	Luke
 Luke
 Luke
 Luke
@@ -145856,7 +145918,6 @@ Luke
 Luke
 Luke
 Luke
-145997	Luke
 Luke
 Luke
 Luke
@@ -145867,10 +145928,8 @@ Luke
 Luke
 Luke
 Luke
-146009	Luke
 Luke
 Luke
-146013	Luke
 Luke
 Luke
 Luke
@@ -145897,7 +145956,6 @@ Luke
 Luke
 Luke
 Luke
-146041	Luke
 Luke
 Luke
 Luke
@@ -146051,14 +146109,12 @@ Luke
 Luke
 Luke
 Luke
-146196	Luke
 Luke
 Luke
 Luke
 Luke
 Luke
 Luke
-146204	Luke
 Luke
 Luke
 Luke
@@ -146270,7 +146326,6 @@ Luke
 Luke
 Luke
 Luke
-146417	Luke
 Luke
 Luke
 Luke
@@ -146288,7 +146343,6 @@ Luke
 Luke
 Luke
 Luke
-146436	Luke
 Luke
 Luke
 Luke
@@ -146412,7 +146466,6 @@ Luke
 Luke
 Luke
 Luke
-146561	Luke
 Luke
 Luke
 Luke
@@ -146446,19 +146499,16 @@ Luke
 Luke
 Luke
 Luke
-146596	Luke
 Luke
 Luke
 Luke
 Luke
 Luke
-146603	Luke
 Luke
 Luke
 Luke
 Luke
 Luke
-146610	Luke
 Luke
 Luke
 Luke
@@ -146467,10 +146517,8 @@ Luke
 Luke
 Luke
 Luke
-146620	Luke
 Luke
 Luke
-146624	Luke
 Luke
 Luke
 Luke
@@ -146505,7 +146553,6 @@ Luke
 Luke
 Luke
 Luke
-146660	Luke
 Luke
 Luke
 Luke
@@ -146588,7 +146635,6 @@ Luke
 Luke
 Luke
 Luke
-146744	Luke
 Luke
 Luke
 Luke
@@ -146623,7 +146669,6 @@ Luke
 Luke
 Luke
 Luke
-146780	Luke
 Luke
 Luke
 Luke
@@ -146788,7 +146833,6 @@ Luke
 Luke
 Luke
 Luke
-146946	Luke
 Luke
 Luke
 Luke
@@ -146800,7 +146844,6 @@ Luke
 Luke
 Luke
 Luke
-146959	Luke
 Luke
 Luke
 Luke
@@ -146941,7 +146984,6 @@ Luke
 Luke
 Luke
 Luke
-147101	Luke
 Luke
 Luke
 Luke
@@ -147034,7 +147076,6 @@ Luke
 Luke
 Luke
 Luke
-147195	Luke
 Luke
 Luke
 Luke
@@ -147115,7 +147156,6 @@ Luke
 Luke
 Luke
 Luke
-147277	Luke
 Luke
 Luke
 Luke
@@ -147126,7 +147166,6 @@ Luke
 Luke
 Luke
 Luke
-147289	Luke
 Luke
 Luke
 Luke
@@ -147237,16 +147276,12 @@ Luke
 Luke
 Luke
 Luke
-147401	Luke
 Luke
 Luke
 Luke
 Luke
 Luke
-147408	Luke
-147410	Luke
 Luke
-147413	Luke
 Luke
 Luke
 Luke
@@ -147287,7 +147322,6 @@ Luke
 Luke
 Luke
 Luke
-147455	Luke
 Luke
 Luke
 Luke
@@ -147339,14 +147373,12 @@ Luke
 Luke
 Luke
 Luke
-147508	Luke
 Luke
 Luke
 Luke
 Luke
 Luke
 Luke
-147516	Luke
 Luke
 Luke
 Luke
@@ -147411,7 +147443,6 @@ Luke
 Luke
 Luke
 Luke
-147582	Luke
 Luke
 Luke
 Luke
@@ -147477,7 +147508,6 @@ Luke
 Luke
 Luke
 Luke
-147649	Luke
 Luke
 Luke
 Luke
@@ -147643,7 +147673,6 @@ Luke
 Luke
 Luke
 Luke
-147816	Luke
 Luke
 Luke
 Luke
@@ -147702,7 +147731,6 @@ Luke
 Luke
 Luke
 Luke
-147876	Luke
 Luke
 Luke
 Luke
@@ -147757,13 +147785,11 @@ Luke
 Luke
 Luke
 Luke
-147932	Luke
 Luke
 Luke
 Luke
 Luke
 Luke
-147939	Luke
 Luke
 Luke
 Luke
@@ -147782,11 +147808,9 @@ Luke
 Luke
 Luke
 Luke
-147960	Luke
 Luke
 Luke
 Luke
-147965	Luke
 Luke
 Luke
 Luke
@@ -147838,7 +147862,6 @@ Luke
 Luke
 Luke
 Luke
-148018	Luke
 Luke
 Luke
 Luke
@@ -147888,7 +147911,6 @@ Luke
 Luke
 Luke
 Luke
-148069	Luke
 Luke
 Luke
 Luke
@@ -147951,13 +147973,9 @@ Luke
 Luke
 Luke
 Luke
-148133	Luke
 Luke
 Luke
-148137	Luke
 Luke
-148140	Luke
-148142	Luke
 Luke
 Luke
 Luke
@@ -148021,7 +148039,6 @@ Luke
 Luke
 Luke
 Luke
-148208	Luke
 Luke
 Luke
 Luke
@@ -148047,7 +148064,6 @@ Luke
 Luke
 Luke
 Luke
-148235	Luke
 Luke
 Luke
 Luke
@@ -148100,7 +148116,6 @@ Luke
 Luke
 Luke
 Luke
-148289	Luke
 Luke
 Luke
 Luke
@@ -148126,8 +148141,6 @@ Luke
 Luke
 Luke
 Luke
-148316	Luke
-148320	Luke
 Luke
 Luke
 Luke
@@ -148183,7 +148196,6 @@ Luke
 Luke
 Luke
 Luke
-148377	Luke
 Luke
 Luke
 Luke
@@ -148320,7 +148332,6 @@ Luke
 Luke
 Luke
 Luke
-148515	Luke
 Luke
 Luke
 Luke
@@ -148371,7 +148382,6 @@ Luke
 Luke
 Luke
 Luke
-148567	Luke
 Luke
 Luke
 Luke
@@ -148508,7 +148518,6 @@ Luke
 Luke
 Luke
 Luke
-148705	Luke
 Luke
 Luke
 Luke
@@ -148591,7 +148600,6 @@ Luke
 Luke
 Luke
 Luke
-148789	Luke
 Luke
 Luke
 Luke
@@ -148608,7 +148616,6 @@ Luke
 Luke
 Luke
 Luke
-148807	Luke
 Luke
 Luke
 Luke
@@ -148684,7 +148691,6 @@ Luke
 Luke
 Luke
 Luke
-148884	Luke
 Luke
 Luke
 Luke
@@ -148773,7 +148779,6 @@ Luke
 Luke
 Luke
 Luke
-148974	Luke
 Luke
 Luke
 Luke
@@ -148799,16 +148804,12 @@ Luke
 Luke
 Luke
 Luke
-149001	Luke
 Luke
 Luke
 Luke
 Luke
-149007	Luke
-149009	Luke
 Luke
 Luke
-149013	Luke
 Luke
 Luke
 Luke
@@ -148825,7 +148826,6 @@ Luke
 Luke
 Luke
 Luke
-149031	Luke
 Luke
 Luke
 Luke
@@ -148855,7 +148855,6 @@ Luke
 Luke
 Luke
 Luke
-149062	Luke
 Luke
 Luke
 Luke
@@ -148899,7 +148898,6 @@ Luke
 Luke
 Luke
 Luke
-149107	Luke
 Luke
 Luke
 Luke
@@ -148922,7 +148920,6 @@ Luke
 Luke
 Luke
 Luke
-149133	Luke
 Luke
 Luke
 Luke
@@ -148952,7 +148949,6 @@ Luke
 Luke
 Luke
 Luke
-149164	Luke
 Luke
 Luke
 Luke
@@ -149062,7 +149058,6 @@ Luke
 Luke
 Luke
 Luke
-149275	Luke
 Luke
 Luke
 Luke
@@ -149123,7 +149118,6 @@ Luke
 Luke
 Luke
 Luke
-149337	Luke
 Luke
 Luke
 Luke
@@ -149157,7 +149151,6 @@ Luke
 Luke
 Luke
 Luke
-149372	Luke
 Luke
 Luke
 Luke
@@ -149305,7 +149298,6 @@ Luke
 Luke
 Luke
 Luke
-149521	Luke
 Luke
 Luke
 Luke
@@ -149403,10 +149395,8 @@ Luke
 Luke
 Luke
 Luke
-149620	Luke
 Luke
 Luke
-149624	Luke
 Luke
 Luke
 Luke
@@ -149425,7 +149415,6 @@ Luke
 Luke
 Luke
 Luke
-149644	Luke
 Luke
 Luke
 Luke
@@ -149625,7 +149614,6 @@ Luke
 Luke
 Luke
 Luke
-149845	Luke
 Luke
 Luke
 Luke
@@ -149658,7 +149646,6 @@ Luke
 Luke
 Luke
 Luke
-149879	Luke
 Luke
 Luke
 Luke
@@ -149690,7 +149677,6 @@ Luke
 Luke
 Luke
 Luke
-149912	Luke
 Luke
 Luke
 Luke
@@ -149885,7 +149871,6 @@ Luke
 Luke
 Luke
 Luke
-150108	Luke
 Luke
 Luke
 Luke
@@ -149953,7 +149938,6 @@ Luke
 Luke
 Luke
 Luke
-150177	Luke
 Luke
 Luke
 Luke
@@ -150022,7 +150006,6 @@ Luke
 Luke
 Luke
 Luke
-150247	Luke
 Luke
 Luke
 Luke
@@ -150037,7 +150020,6 @@ Luke
 Luke
 Luke
 Luke
-150263	Luke
 Luke
 Luke
 Luke
@@ -150065,7 +150047,6 @@ Luke
 Luke
 Luke
 Luke
-150292	Luke
 Luke
 Luke
 Luke
@@ -150090,7 +150071,6 @@ Luke
 Luke
 Luke
 Luke
-150318	Luke
 Luke
 Luke
 Luke
@@ -150111,7 +150091,6 @@ Luke
 Luke
 Luke
 Luke
-150340	Luke
 Luke
 Luke
 Luke
@@ -150133,10 +150112,8 @@ Luke
 Luke
 Luke
 Luke
-150363	Luke
 Luke
 Luke
-150367	Luke
 Luke
 Luke
 Luke
@@ -150172,7 +150149,6 @@ Luke
 Luke
 Luke
 Luke
-150404	Luke
 Luke
 Luke
 Luke
@@ -150213,7 +150189,6 @@ Luke
 Luke
 Luke
 Luke
-150446	Luke
 Luke
 Luke
 Luke
@@ -150232,149 +150207,399 @@ Luke
 Luke
 Luke
 Luke
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
-John
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
 John
 John
 John
 John
 John
-150608	John
 John
 John
 John
@@ -150386,7 +150611,6 @@ John
 John
 John
 John
-150621	John
 John
 John
 John
@@ -150408,7 +150632,6 @@ John
 John
 John
 John
-150644	John
 John
 John
 John
@@ -150456,7 +150679,6 @@ John
 John
 John
 John
-150693	John
 John
 John
 John
@@ -150585,7 +150807,6 @@ John
 John
 John
 John
-150824	John
 John
 John
 John
@@ -150641,7 +150862,6 @@ John
 John
 John
 John
-150881	John
 John
 John
 John
@@ -150657,11 +150877,9 @@ John
 John
 John
 John
-150898	John
 John
 John
 John
-150903	John
 John
 John
 John
@@ -150670,7 +150888,6 @@ John
 John
 John
 John
-150913	John
 John
 John
 John
@@ -150737,15 +150954,12 @@ John
 John
 John
 John
-150981	John
 John
 John
 John
 John
 John
 John
-150989	John
-150991	John
 John
 John
 John
@@ -151034,7 +151248,6 @@ John
 John
 John
 John
-151281	John
 John
 John
 John
@@ -151053,7 +151266,6 @@ John
 John
 John
 John
-151301	John
 John
 John
 John
@@ -151080,7 +151292,6 @@ John
 John
 John
 John
-151329	John
 John
 John
 John
@@ -151217,7 +151428,6 @@ John
 John
 John
 John
-151467	John
 John
 John
 John
@@ -151265,7 +151475,6 @@ John
 John
 John
 John
-151516	John
 John
 John
 John
@@ -151280,7 +151489,6 @@ John
 John
 John
 John
-151532	John
 John
 John
 John
@@ -151291,12 +151499,10 @@ John
 John
 John
 John
-151544	John
 John
 John
 John
 John
-151550	John
 John
 John
 John
@@ -151319,7 +151525,6 @@ John
 John
 John
 John
-151574	John
 John
 John
 John
@@ -151353,13 +151558,11 @@ John
 John
 John
 John
-151609	John
 John
 John
 John
 John
 John
-151616	John
 John
 John
 John
@@ -151391,7 +151594,6 @@ John
 John
 John
 John
-151649	John
 John
 John
 John
@@ -151869,7 +152071,6 @@ John
 John
 John
 John
-152128	John
 John
 John
 John
@@ -151956,7 +152157,6 @@ John
 John
 John
 John
-152216	John
 John
 John
 John
@@ -151983,7 +152183,6 @@ John
 John
 John
 John
-152244	John
 John
 John
 John
@@ -152006,7 +152205,6 @@ John
 John
 John
 John
-152268	John
 John
 John
 John
@@ -152125,7 +152323,6 @@ John
 John
 John
 John
-152388	John
 John
 John
 John
@@ -152149,7 +152346,6 @@ John
 John
 John
 John
-152414	John
 John
 John
 John
@@ -152169,7 +152365,6 @@ John
 John
 John
 John
-152436	John
 John
 John
 John
@@ -152223,8 +152418,6 @@ John
 John
 John
 John
-152491	John
-152493	John
 John
 John
 John
@@ -152260,7 +152453,6 @@ John
 John
 John
 John
-152530	John
 John
 John
 John
@@ -152290,7 +152482,6 @@ John
 John
 John
 John
-152561	John
 John
 John
 John
@@ -152364,7 +152555,6 @@ John
 John
 John
 John
-152636	John
 John
 John
 John
@@ -152376,7 +152566,6 @@ John
 John
 John
 John
-152649	John
 John
 John
 John
@@ -152398,7 +152587,6 @@ John
 John
 John
 John
-152672	John
 John
 John
 John
@@ -152480,7 +152668,6 @@ John
 John
 John
 John
-152755	John
 John
 John
 John
@@ -152599,7 +152786,6 @@ John
 John
 John
 John
-152875	John
 John
 John
 John
@@ -152642,7 +152828,6 @@ John
 John
 John
 John
-152919	John
 John
 John
 John
@@ -152725,12 +152910,10 @@ John
 John
 John
 John
-153003	John
 John
 John
 John
 John
-153009	John
 John
 John
 John
@@ -152770,7 +152953,6 @@ John
 John
 John
 John
-153050	John
 John
 John
 John
@@ -152832,7 +153014,6 @@ John
 John
 John
 John
-153113	John
 John
 John
 John
@@ -152858,7 +153039,6 @@ John
 John
 John
 John
-153140	John
 John
 John
 John
@@ -152988,7 +153168,6 @@ John
 John
 John
 John
-153272	John
 John
 John
 John
@@ -153019,7 +153198,6 @@ John
 John
 John
 John
-153304	John
 John
 John
 John
@@ -153043,14 +153221,12 @@ John
 John
 John
 John
-153329	John
 John
 John
 John
 John
 John
 John
-153337	John
 John
 John
 John
@@ -153105,7 +153281,6 @@ John
 John
 John
 John
-153393	John
 John
 John
 John
@@ -153121,7 +153296,6 @@ John
 John
 John
 John
-153410	John
 John
 John
 John
@@ -153157,7 +153331,6 @@ John
 John
 John
 John
-153447	John
 John
 John
 John
@@ -153304,7 +153477,6 @@ John
 John
 John
 John
-153595	John
 John
 John
 John
@@ -153358,7 +153530,6 @@ John
 John
 John
 John
-153650	John
 John
 John
 John
@@ -153379,7 +153550,6 @@ John
 John
 John
 John
-153672	John
 John
 John
 John
@@ -153518,7 +153688,6 @@ John
 John
 John
 John
-153812	John
 John
 John
 John
@@ -153712,7 +153881,6 @@ John
 John
 John
 John
-154007	John
 John
 John
 John
@@ -153735,7 +153903,6 @@ John
 John
 John
 John
-154031	John
 John
 John
 John
@@ -153870,7 +154037,6 @@ John
 John
 John
 John
-154167	John
 John
 John
 John
@@ -153922,7 +154088,6 @@ John
 John
 John
 John
-154220	John
 John
 John
 John
@@ -153988,7 +154153,6 @@ John
 John
 John
 John
-154287	John
 John
 John
 John
@@ -154119,9 +154283,7 @@ John
 John
 John
 John
-154419	John
 John
-154422	John
 John
 John
 John
@@ -154156,6 +154318,263 @@ John
 John
 John
 John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -154242,7 +154661,6 @@ Acts
 Acts
 Acts
 Acts
-154544	Acts
 Acts
 Acts
 Acts
@@ -154331,12 +154749,10 @@ Acts
 Acts
 Acts
 Acts
-154634	Acts
 Acts
 Acts
 Acts
 Acts
-154640	Acts
 Acts
 Acts
 Acts
@@ -154400,7 +154816,6 @@ Acts
 Acts
 Acts
 Acts
-154705	Acts
 Acts
 Acts
 Acts
@@ -154476,7 +154891,6 @@ Acts
 Acts
 Acts
 Acts
-154783	Acts
 Acts
 Acts
 Acts
@@ -154502,16 +154916,13 @@ Acts
 Acts
 Acts
 Acts
-154810	Acts
 Acts
 Acts
 Acts
 Acts
 Acts
-154817	Acts
 Acts
 Acts
-154821	Acts
 Acts
 Acts
 Acts
@@ -154525,7 +154936,6 @@ Acts
 Acts
 Acts
 Acts
-154836	Acts
 Acts
 Acts
 Acts
@@ -154590,7 +155000,6 @@ Acts
 Acts
 Acts
 Acts
-154902	Acts
 Acts
 Acts
 Acts
@@ -154629,7 +155038,6 @@ Acts
 Acts
 Acts
 Acts
-154942	Acts
 Acts
 Acts
 Acts
@@ -154646,7 +155054,6 @@ Acts
 Acts
 Acts
 Acts
-154960	Acts
 Acts
 Acts
 Acts
@@ -154654,7 +155061,6 @@ Acts
 Acts
 Acts
 Acts
-154969	Acts
 Acts
 Acts
 Acts
@@ -154792,7 +155198,6 @@ Acts
 Acts
 Acts
 Acts
-155108	Acts
 Acts
 Acts
 Acts
@@ -154816,8 +155221,6 @@ Acts
 Acts
 Acts
 Acts
-155133	Acts
-155135	Acts
 Acts
 Acts
 Acts
@@ -154909,7 +155312,6 @@ Acts
 Acts
 Acts
 Acts
-155228	Acts
 Acts
 Acts
 Acts
@@ -154924,9 +155326,7 @@ Acts
 Acts
 Acts
 Acts
-155244	Acts
 Acts
-155247	Acts
 Acts
 Acts
 Acts
@@ -154965,7 +155365,6 @@ Acts
 Acts
 Acts
 Acts
-155288	Acts
 Acts
 Acts
 Acts
@@ -155028,7 +155427,6 @@ Acts
 Acts
 Acts
 Acts
-155352	Acts
 Acts
 Acts
 Acts
@@ -155044,7 +155442,6 @@ Acts
 Acts
 Acts
 Acts
-155369	Acts
 Acts
 Acts
 Acts
@@ -155052,7 +155449,6 @@ Acts
 Acts
 Acts
 Acts
-155378	Acts
 Acts
 Acts
 Acts
@@ -155076,7 +155472,6 @@ Acts
 Acts
 Acts
 Acts
-155403	Acts
 Acts
 Acts
 Acts
@@ -155095,8 +155490,6 @@ Acts
 Acts
 Acts
 Acts
-155423	Acts
-155425	Acts
 Acts
 Acts
 Acts
@@ -155143,7 +155536,6 @@ Acts
 Acts
 Acts
 Acts
-155473	Acts
 Acts
 Acts
 Acts
@@ -155192,7 +155584,6 @@ Acts
 Acts
 Acts
 Acts
-155523	Acts
 Acts
 Acts
 Acts
@@ -155345,7 +155736,6 @@ Acts
 Acts
 Acts
 Acts
-155677	Acts
 Acts
 Acts
 Acts
@@ -155463,7 +155853,6 @@ Acts
 Acts
 Acts
 Acts
-155796	Acts
 Acts
 Acts
 Acts
@@ -155631,7 +156020,6 @@ Acts
 Acts
 Acts
 Acts
-155965	Acts
 Acts
 Acts
 Acts
@@ -155641,7 +156029,6 @@ Acts
 Acts
 Acts
 Acts
-155976	Acts
 Acts
 Acts
 Acts
@@ -155704,7 +156091,6 @@ Acts
 Acts
 Acts
 Acts
-156040	Acts
 Acts
 Acts
 Acts
@@ -155773,7 +156159,6 @@ Acts
 Acts
 Acts
 Acts
-156110	Acts
 Acts
 Acts
 Acts
@@ -155785,7 +156170,6 @@ Acts
 Acts
 Acts
 Acts
-156123	Acts
 Acts
 Acts
 Acts
@@ -155946,7 +156330,6 @@ Acts
 Acts
 Acts
 Acts
-156285	Acts
 Acts
 Acts
 Acts
@@ -156124,7 +156507,6 @@ Acts
 Acts
 Acts
 Acts
-156464	Acts
 Acts
 Acts
 Acts
@@ -156226,7 +156608,6 @@ Acts
 Acts
 Acts
 Acts
-156567	Acts
 Acts
 Acts
 Acts
@@ -156249,7 +156630,6 @@ Acts
 Acts
 Acts
 Acts
-156591	Acts
 Acts
 Acts
 Acts
@@ -156311,7 +156691,6 @@ Acts
 Acts
 Acts
 Acts
-156654	Acts
 Acts
 Acts
 Acts
@@ -156362,7 +156741,6 @@ Acts
 Acts
 Acts
 Acts
-156706	Acts
 Acts
 Acts
 Acts
@@ -156477,7 +156855,6 @@ Acts
 Acts
 Acts
 Acts
-156822	Acts
 Acts
 Acts
 Acts
@@ -156559,7 +156936,6 @@ Acts
 Acts
 Acts
 Acts
-156905	Acts
 Acts
 Acts
 Acts
@@ -156817,7 +157193,6 @@ Acts
 Acts
 Acts
 Acts
-157164	Acts
 Acts
 Acts
 Acts
@@ -156965,7 +157340,6 @@ Acts
 Acts
 Acts
 Acts
-157313	Acts
 Acts
 Acts
 Acts
@@ -157068,7 +157442,6 @@ Acts
 Acts
 Acts
 Acts
-157417	Acts
 Acts
 Acts
 Acts
@@ -157120,7 +157493,6 @@ Acts
 Acts
 Acts
 Acts
-157470	Acts
 Acts
 Acts
 Acts
@@ -157189,7 +157561,6 @@ Acts
 Acts
 Acts
 Acts
-157540	Acts
 Acts
 Acts
 Acts
@@ -157244,7 +157615,6 @@ Acts
 Acts
 Acts
 Acts
-157596	Acts
 Acts
 Acts
 Acts
@@ -157315,7 +157685,6 @@ Acts
 Acts
 Acts
 Acts
-157668	Acts
 Acts
 Acts
 Acts
@@ -157411,7 +157780,6 @@ Acts
 Acts
 Acts
 Acts
-157765	Acts
 Acts
 Acts
 Acts
@@ -157629,7 +157997,6 @@ Acts
 Acts
 Acts
 Acts
-157984	Acts
 Acts
 Acts
 Acts
@@ -157831,7 +158198,6 @@ Acts
 Acts
 Acts
 Acts
-158187	Acts
 Acts
 Acts
 Acts
@@ -157841,7 +158207,6 @@ Acts
 Acts
 Acts
 Acts
-158198	Acts
 Acts
 Acts
 Acts
@@ -157924,7 +158289,6 @@ Acts
 Acts
 Acts
 Acts
-158283	Acts
 Acts
 Acts
 Acts
@@ -158109,7 +158473,6 @@ Acts
 Acts
 Acts
 Acts
-158469	Acts
 Acts
 Acts
 Acts
@@ -158259,7 +158622,6 @@ Acts
 Acts
 Acts
 Acts
-158620	Acts
 Acts
 Acts
 Acts
@@ -158267,7 +158629,6 @@ Acts
 Acts
 Acts
 Acts
-158629	Acts
 Acts
 Acts
 Acts
@@ -158359,6 +158720,70 @@ Acts
 Acts
 Acts
 Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -158379,7 +158804,6 @@ Romans
 Romans
 Romans
 Romans
-158742	Romans
 Romans
 Romans
 Romans
@@ -158416,7 +158840,6 @@ Romans
 Romans
 Romans
 Romans
-158780	Romans
 Romans
 Romans
 Romans
@@ -158436,7 +158859,6 @@ Romans
 Romans
 Romans
 Romans
-158801	Romans
 Romans
 Romans
 Romans
@@ -158455,7 +158877,6 @@ Romans
 Romans
 Romans
 Romans
-158821	Romans
 Romans
 Romans
 Romans
@@ -158467,7 +158888,6 @@ Romans
 Romans
 Romans
 Romans
-158834	Romans
 Romans
 Romans
 Romans
@@ -158475,7 +158895,6 @@ Romans
 Romans
 Romans
 Romans
-158843	Romans
 Romans
 Romans
 Romans
@@ -158621,7 +159040,6 @@ Romans
 Romans
 Romans
 Romans
-158990	Romans
 Romans
 Romans
 Romans
@@ -158637,7 +159055,6 @@ Romans
 Romans
 Romans
 Romans
-159007	Romans
 Romans
 Romans
 Romans
@@ -158655,7 +159072,6 @@ Romans
 Romans
 Romans
 Romans
-159026	Romans
 Romans
 Romans
 Romans
@@ -158678,7 +159094,6 @@ Romans
 Romans
 Romans
 Romans
-159050	Romans
 Romans
 Romans
 Romans
@@ -158706,11 +159121,9 @@ Romans
 Romans
 Romans
 Romans
-159079	Romans
 Romans
 Romans
 Romans
-159084	Romans
 Romans
 Romans
 Romans
@@ -158800,7 +159213,6 @@ Romans
 Romans
 Romans
 Romans
-159175	Romans
 Romans
 Romans
 Romans
@@ -158934,7 +159346,6 @@ Romans
 Romans
 Romans
 Romans
-159310	Romans
 Romans
 Romans
 Romans
@@ -158958,7 +159369,6 @@ Romans
 Romans
 Romans
 Romans
-159335	Romans
 Romans
 Romans
 Romans
@@ -159049,7 +159459,6 @@ Romans
 Romans
 Romans
 Romans
-159427	Romans
 Romans
 Romans
 Romans
@@ -159062,7 +159471,6 @@ Romans
 Romans
 Romans
 Romans
-159441	Romans
 Romans
 Romans
 Romans
@@ -159070,7 +159478,6 @@ Romans
 Romans
 Romans
 Romans
-159450	Romans
 Romans
 Romans
 Romans
@@ -159094,7 +159501,6 @@ Romans
 Romans
 Romans
 Romans
-159475	Romans
 Romans
 Romans
 Romans
@@ -159131,9 +159537,7 @@ Romans
 Romans
 Romans
 Romans
-159513	Romans
 Romans
-159516	Romans
 Romans
 Romans
 Romans
@@ -159142,7 +159546,6 @@ Romans
 Romans
 Romans
 Romans
-159526	Romans
 Romans
 Romans
 Romans
@@ -159158,7 +159561,6 @@ Romans
 Romans
 Romans
 Romans
-159543	Romans
 Romans
 Romans
 Romans
@@ -159174,7 +159576,6 @@ Romans
 Romans
 Romans
 Romans
-159560	Romans
 Romans
 Romans
 Romans
@@ -159244,7 +159645,6 @@ Romans
 Romans
 Romans
 Romans
-159631	Romans
 Romans
 Romans
 Romans
@@ -159526,7 +159926,6 @@ Romans
 Romans
 Romans
 Romans
-159914	Romans
 Romans
 Romans
 Romans
@@ -159632,7 +160031,6 @@ Romans
 Romans
 Romans
 Romans
-160021	Romans
 Romans
 Romans
 Romans
@@ -159665,7 +160063,6 @@ Romans
 Romans
 Romans
 Romans
-160055	Romans
 Romans
 Romans
 Romans
@@ -159809,10 +160206,41 @@ Romans
 Romans
 Romans
 Romans
-160200	Romans
 Romans
 Romans
 Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -159927,7 +160355,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-160319	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -160123,7 +160550,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-160516	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -160219,8 +160645,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-160613	1Corinthians
-160615	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -160276,7 +160700,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-160672	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -160387,7 +160810,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-160784	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -160427,10 +160849,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-160825	1Corinthians
 1Corinthians
 1Corinthians
-160829	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -160638,7 +161058,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-161038	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -160780,7 +161199,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-161181	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -161125,7 +161543,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-161527	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -161140,7 +161557,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-161543	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -161280,7 +161696,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-161684	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -161299,7 +161714,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-161704	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -161324,7 +161738,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-161730	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -161342,7 +161755,6 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-161749	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -161375,10 +161787,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-161783	1Corinthians
 1Corinthians
 1Corinthians
-161787	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -161395,6 +161805,38 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -161427,7 +161869,6 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-161837	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -161438,7 +161879,6 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-161849	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -161467,9 +161907,7 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-161879	2Corinthians
 2Corinthians
-161882	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -161521,7 +161959,6 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-161935	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -161695,7 +162132,6 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-162110	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -161717,7 +162153,6 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-162133	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -161904,7 +162339,6 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-162321	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -161963,7 +162397,6 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-162381	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -162106,7 +162539,6 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-162525	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -162205,7 +162637,6 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-162625	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -162250,7 +162681,6 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-162671	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -162271,7 +162701,6 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-162693	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -162284,7 +162713,6 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-162707	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -162328,10 +162756,25 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 Galatians
-162755	Galatians
 Galatians
 Galatians
 Galatians
@@ -162342,7 +162785,6 @@ Galatians
 Galatians
 Galatians
 Galatians
-162767	Galatians
 Galatians
 Galatians
 Galatians
@@ -162372,7 +162814,6 @@ Galatians
 Galatians
 Galatians
 Galatians
-162798	Galatians
 Galatians
 Galatians
 Galatians
@@ -162386,7 +162827,6 @@ Galatians
 Galatians
 Galatians
 Galatians
-162813	Galatians
 Galatians
 Galatians
 Galatians
@@ -162486,7 +162926,6 @@ Galatians
 Galatians
 Galatians
 Galatians
-162914	Galatians
 Galatians
 Galatians
 Galatians
@@ -162504,7 +162943,6 @@ Galatians
 Galatians
 Galatians
 Galatians
-162933	Galatians
 Galatians
 Galatians
 Galatians
@@ -162558,7 +162996,6 @@ Galatians
 Galatians
 Galatians
 Galatians
-162988	Galatians
 Galatians
 Galatians
 Galatians
@@ -162592,7 +163029,6 @@ Galatians
 Galatians
 Galatians
 Galatians
-163023	Galatians
 Galatians
 Galatians
 Galatians
@@ -162650,7 +163086,6 @@ Galatians
 Galatians
 Galatians
 Galatians
-163082	Galatians
 Galatians
 Galatians
 Galatians
@@ -162832,11 +163267,18 @@ Galatians
 Galatians
 Galatians
 Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Ephesians
 Ephesians
 Ephesians
 Ephesians
 Ephesians
-163269	Ephesians
 Ephesians
 Ephesians
 Ephesians
@@ -162881,7 +163323,6 @@ Ephesians
 Ephesians
 Ephesians
 Ephesians
-163315	Ephesians
 Ephesians
 Ephesians
 Ephesians
@@ -162916,7 +163357,6 @@ Ephesians
 Ephesians
 Ephesians
 Ephesians
-163351	Ephesians
 Ephesians
 Ephesians
 Ephesians
@@ -162975,7 +163415,6 @@ Ephesians
 Ephesians
 Ephesians
 Ephesians
-163411	Ephesians
 Ephesians
 Ephesians
 Ephesians
@@ -163218,6 +163657,14 @@ Ephesians
 Ephesians
 Ephesians
 Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Philippians
 Philippians
 Philippians
 Philippians
@@ -163261,7 +163708,6 @@ Philippians
 Philippians
 Philippians
 Philippians
-163698	Philippians
 Philippians
 Philippians
 Philippians
@@ -163274,7 +163720,6 @@ Philippians
 Philippians
 Philippians
 Philippians
-163712	Philippians
 Philippians
 Philippians
 Philippians
@@ -163292,14 +163737,12 @@ Philippians
 Philippians
 Philippians
 Philippians
-163732	Philippians
 Philippians
 Philippians
 Philippians
 Philippians
 Philippians
 Philippians
-163740	Philippians
 Philippians
 Philippians
 Philippians
@@ -163318,7 +163761,6 @@ Philippians
 Philippians
 Philippians
 Philippians
-163760	Philippians
 Philippians
 Philippians
 Philippians
@@ -163400,7 +163842,6 @@ Philippians
 Philippians
 Philippians
 Philippians
-163843	Philippians
 Philippians
 Philippians
 Philippians
@@ -163420,7 +163861,6 @@ Philippians
 Philippians
 Philippians
 Philippians
-163864	Philippians
 Philippians
 Philippians
 Philippians
@@ -163451,7 +163891,6 @@ Philippians
 Philippians
 Philippians
 Philippians
-163896	Philippians
 Philippians
 Philippians
 Philippians
@@ -163460,7 +163899,6 @@ Philippians
 Philippians
 Philippians
 Philippians
-163906	Philippians
 Philippians
 Philippians
 Philippians
@@ -163494,7 +163932,6 @@ Philippians
 Philippians
 Philippians
 Philippians
-163941	Philippians
 Philippians
 Philippians
 Philippians
@@ -163509,7 +163946,6 @@ Philippians
 Philippians
 Philippians
 Philippians
-163957	Philippians
 Philippians
 Philippians
 Philippians
@@ -163551,6 +163987,30 @@ Philippians
 Philippians
 Philippians
 Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Colossians
+Colossians
 Colossians
 Colossians
 Colossians
@@ -163577,7 +164037,6 @@ Colossians
 Colossians
 Colossians
 Colossians
-164026	Colossians
 Colossians
 Colossians
 Colossians
@@ -163670,7 +164129,6 @@ Colossians
 Colossians
 Colossians
 Colossians
-164120	Colossians
 Colossians
 Colossians
 Colossians
@@ -163729,7 +164187,6 @@ Colossians
 Colossians
 Colossians
 Colossians
-164181	Colossians
 Colossians
 Colossians
 Colossians
@@ -163751,7 +164208,6 @@ Colossians
 Colossians
 Colossians
 Colossians
-164204	Colossians
 Colossians
 Colossians
 Colossians
@@ -163813,6 +164269,14 @@ Colossians
 Colossians
 Colossians
 Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -163895,7 +164359,6 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
-164349	1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -163937,7 +164400,6 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
-164392	1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -163949,7 +164411,6 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
-164405	1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -163960,7 +164421,6 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
-164417	1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -163968,7 +164428,6 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
-164426	1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -164065,7 +164524,6 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
-164524	1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -164099,6 +164557,22 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -164114,7 +164588,6 @@ Colossians
 2Thessalonians
 2Thessalonians
 2Thessalonians
-164574	2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -164159,7 +164632,6 @@ Colossians
 2Thessalonians
 2Thessalonians
 2Thessalonians
-164620	2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -164168,7 +164640,6 @@ Colossians
 2Thessalonians
 2Thessalonians
 2Thessalonians
-164630	2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -164182,7 +164653,6 @@ Colossians
 2Thessalonians
 2Thessalonians
 2Thessalonians
-164645	2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -164193,7 +164663,6 @@ Colossians
 2Thessalonians
 2Thessalonians
 2Thessalonians
-164657	2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -164202,7 +164671,6 @@ Colossians
 2Thessalonians
 2Thessalonians
 2Thessalonians
-164667	2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -164244,6 +164712,22 @@ Colossians
 2Thessalonians
 2Thessalonians
 2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
 1Timothy
 1Timothy
 1Timothy
@@ -164252,7 +164736,6 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
-164718	1Timothy
 1Timothy
 1Timothy
 1Timothy
@@ -164378,7 +164861,6 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
-164845	1Timothy
 1Timothy
 1Timothy
 1Timothy
@@ -164387,7 +164869,6 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
-164855	1Timothy
 1Timothy
 1Timothy
 1Timothy
@@ -164531,7 +165012,6 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
-165000	1Timothy
 1Timothy
 1Timothy
 1Timothy
@@ -164546,7 +165026,6 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
-165016	1Timothy
 1Timothy
 1Timothy
 1Timothy
@@ -164564,9 +165043,7 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
-165035	1Timothy
 1Timothy
-165038	1Timothy
 1Timothy
 1Timothy
 1Timothy
@@ -164589,6 +165066,22 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -164599,7 +165092,6 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-165072	2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -164609,15 +165101,11 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-165083	2Timothy
 2Timothy
-165086	2Timothy
 2Timothy
-165089	2Timothy
 2Timothy
 2Timothy
 2Timothy
-165094	2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -164665,7 +165153,6 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-165143	2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -164694,7 +165181,6 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-165173	2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -164718,7 +165204,6 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-165198	2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -164735,11 +165220,8 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-165216	2Timothy
 2Timothy
-165219	2Timothy
 2Timothy
-165222	2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -164795,7 +165277,6 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-165279	2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -164810,7 +165291,6 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-165295	2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -164839,8 +165319,24 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+Titus
+Titus
 Titus
-165326	Titus
 Titus
 Titus
 Titus
@@ -164851,7 +165347,6 @@ Titus
 Titus
 Titus
 Titus
-165338	Titus
 Titus
 Titus
 Titus
@@ -164965,6 +165460,10 @@ Titus
 Titus
 Titus
 Titus
+Titus
+Titus
+Philemon
+Philemon
 Philemon
 Philemon
 Philemon
@@ -164985,7 +165484,6 @@ Philemon
 Philemon
 Philemon
 Philemon
-165473	Philemon
 Philemon
 Philemon
 Philemon
@@ -165021,6 +165519,34 @@ Philemon
 Philemon
 Philemon
 Philemon
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165042,7 +165568,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-165531	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165108,7 +165633,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-165598	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165166,7 +165690,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-165657	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165253,7 +165776,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-165745	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165293,7 +165815,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-165786	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165316,7 +165837,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-165810	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165324,8 +165844,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-165819	Hebrews
-165821	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165375,7 +165893,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-165872	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165449,7 +165966,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-165947	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165529,7 +166045,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-166028	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165588,7 +166103,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-166088	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165599,7 +166113,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-166100	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165651,7 +166164,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-166153	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165690,12 +166202,10 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-166193	Hebrews
 Hebrews
 Hebrews
 Hebrews
 Hebrews
-166199	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165737,7 +166247,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-166242	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165760,7 +166269,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-166266	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165850,7 +166358,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-166357	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165886,7 +166393,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-166394	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165904,7 +166410,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-166413	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -165982,7 +166487,6 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-166492	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -166086,6 +166590,38 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
 James
 James
 James
@@ -166098,7 +166634,6 @@ James
 James
 James
 James
-166609	James
 James
 James
 James
@@ -166169,7 +166704,6 @@ James
 James
 James
 James
-166681	James
 James
 James
 James
@@ -166178,7 +166712,6 @@ James
 James
 James
 James
-166691	James
 James
 James
 James
@@ -166204,7 +166737,6 @@ James
 James
 James
 James
-166718	James
 James
 James
 James
@@ -166212,7 +166744,6 @@ James
 James
 James
 James
-166727	James
 James
 James
 James
@@ -166304,7 +166835,6 @@ James
 James
 James
 James
-166820	James
 James
 James
 James
@@ -166391,7 +166921,6 @@ James
 James
 James
 James
-166908	James
 James
 James
 James
@@ -166403,7 +166932,6 @@ James
 James
 James
 James
-166921	James
 James
 James
 James
@@ -166412,7 +166940,6 @@ James
 James
 James
 James
-166931	James
 James
 James
 James
@@ -166509,6 +167036,22 @@ James
 James
 James
 James
+James
+James
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
 1Peter
 1Peter
 1Peter
@@ -166523,9 +167066,7 @@ James
 1Peter
 1Peter
 1Peter
-167043	1Peter
 1Peter
-167046	1Peter
 1Peter
 1Peter
 1Peter
@@ -166563,9 +167104,7 @@ James
 1Peter
 1Peter
 1Peter
-167085	1Peter
 1Peter
-167088	1Peter
 1Peter
 1Peter
 1Peter
@@ -166588,7 +167127,6 @@ James
 1Peter
 1Peter
 1Peter
-167112	1Peter
 1Peter
 1Peter
 1Peter
@@ -166601,8 +167139,6 @@ James
 1Peter
 1Peter
 1Peter
-167126	1Peter
-167128	1Peter
 1Peter
 1Peter
 1Peter
@@ -166611,7 +167147,6 @@ James
 1Peter
 1Peter
 1Peter
-167138	1Peter
 1Peter
 1Peter
 1Peter
@@ -166629,7 +167164,6 @@ James
 1Peter
 1Peter
 1Peter
-167157	1Peter
 1Peter
 1Peter
 1Peter
@@ -166655,9 +167189,7 @@ James
 1Peter
 1Peter
 1Peter
-167184	1Peter
 1Peter
-167187	1Peter
 1Peter
 1Peter
 1Peter
@@ -166694,7 +167226,6 @@ James
 1Peter
 1Peter
 1Peter
-167225	1Peter
 1Peter
 1Peter
 1Peter
@@ -166847,7 +167378,6 @@ James
 1Peter
 1Peter
 1Peter
-167379	1Peter
 1Peter
 1Peter
 1Peter
@@ -166855,6 +167385,22 @@ James
 1Peter
 1Peter
 1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+2Peter
+2Peter
+2Peter
+2Peter
 2Peter
 2Peter
 2Peter
@@ -166913,7 +167459,6 @@ James
 2Peter
 2Peter
 2Peter
-167446	2Peter
 2Peter
 2Peter
 2Peter
@@ -166929,7 +167474,6 @@ James
 2Peter
 2Peter
 2Peter
-167463	2Peter
 2Peter
 2Peter
 2Peter
@@ -166953,7 +167497,6 @@ James
 2Peter
 2Peter
 2Peter
-167488	2Peter
 2Peter
 2Peter
 2Peter
@@ -166977,7 +167520,6 @@ James
 2Peter
 2Peter
 2Peter
-167513	2Peter
 2Peter
 2Peter
 2Peter
@@ -167037,7 +167579,6 @@ James
 2Peter
 2Peter
 2Peter
-167574	2Peter
 2Peter
 2Peter
 2Peter
@@ -167045,7 +167586,6 @@ James
 2Peter
 2Peter
 2Peter
-167583	2Peter
 2Peter
 2Peter
 2Peter
@@ -167070,17 +167610,31 @@ James
 2Peter
 2Peter
 2Peter
+2Peter
+2Peter
+2Peter
+2Peter
+2Peter
+2Peter
+2Peter
+2Peter
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
 1John
 1John
 1John
 1John
-167613	1John
 1John
 1John
 1John
 1John
 1John
-167620	1John
 1John
 1John
 1John
@@ -167090,7 +167644,6 @@ James
 1John
 1John
 1John
-167631	1John
 1John
 1John
 1John
@@ -167127,7 +167680,6 @@ James
 1John
 1John
 1John
-167669	1John
 1John
 1John
 1John
@@ -167153,7 +167705,6 @@ James
 1John
 1John
 1John
-167696	1John
 1John
 1John
 1John
@@ -167335,7 +167886,6 @@ James
 1John
 1John
 1John
-167879	1John
 1John
 1John
 1John
@@ -167355,7 +167905,6 @@ James
 1John
 1John
 1John
-167900	1John
 1John
 1John
 1John
@@ -167376,13 +167925,11 @@ James
 1John
 1John
 1John
-167922	1John
 1John
 1John
 1John
 1John
 1John
-167929	1John
 1John
 1John
 1John
@@ -167534,7 +168081,6 @@ James
 1John
 1John
 1John
-168082	1John
 1John
 1John
 1John
@@ -167565,6 +168111,18 @@ James
 1John
 1John
 1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
 2John
 2John
 2John
@@ -167596,7 +168154,6 @@ James
 2John
 2John
 2John
-168145	2John
 2John
 2John
 2John
@@ -167617,6 +168174,10 @@ James
 2John
 2John
 2John
+2John
+2John
+3John
+3John
 3John
 3John
 3John
@@ -167634,7 +168195,6 @@ James
 3John
 3John
 3John
-168184	3John
 3John
 3John
 3John
@@ -167679,7 +168239,6 @@ James
 3John
 3John
 Jude
-168230	Jude
 Jude
 Jude
 Jude
@@ -167702,7 +168261,6 @@ Jude
 Jude
 Jude
 Jude
-168254	Jude
 Jude
 Jude
 Jude
@@ -167774,8 +168332,71 @@ Jude
 Jude
 Jude
 Jude
+Jude
+Jude
+Jude
+Jude
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
 Revelation
-168328	Revelation
 Revelation
 Revelation
 Revelation
@@ -167785,7 +168406,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-168339	Revelation
 Revelation
 Revelation
 Revelation
@@ -167796,7 +168416,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-168351	Revelation
 Revelation
 Revelation
 Revelation
@@ -167818,7 +168437,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-168374	Revelation
 Revelation
 Revelation
 Revelation
@@ -167827,14 +168445,12 @@ Revelation
 Revelation
 Revelation
 Revelation
-168384	Revelation
 Revelation
 Revelation
 Revelation
 Revelation
 Revelation
 Revelation
-168392	Revelation
 Revelation
 Revelation
 Revelation
@@ -167858,7 +168474,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-168417	Revelation
 Revelation
 Revelation
 Revelation
@@ -167899,7 +168514,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-168459	Revelation
 Revelation
 Revelation
 Revelation
@@ -167963,7 +168577,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-168524	Revelation
 Revelation
 Revelation
 Revelation
@@ -167997,7 +168610,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-168559	Revelation
 Revelation
 Revelation
 Revelation
@@ -168046,7 +168658,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-168609	Revelation
 Revelation
 Revelation
 Revelation
@@ -168119,7 +168730,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-168683	Revelation
 Revelation
 Revelation
 Revelation
@@ -168535,7 +169145,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169100	Revelation
 Revelation
 Revelation
 Revelation
@@ -168564,7 +169173,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169130	Revelation
 Revelation
 Revelation
 Revelation
@@ -168575,7 +169183,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169142	Revelation
 Revelation
 Revelation
 Revelation
@@ -168682,7 +169289,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169250	Revelation
 Revelation
 Revelation
 Revelation
@@ -168761,7 +169367,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169330	Revelation
 Revelation
 Revelation
 Revelation
@@ -168769,13 +169374,11 @@ Revelation
 Revelation
 Revelation
 Revelation
-169339	Revelation
 Revelation
 Revelation
 Revelation
 Revelation
 Revelation
-169346	Revelation
 Revelation
 Revelation
 Revelation
@@ -168793,7 +169396,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169365	Revelation
 Revelation
 Revelation
 Revelation
@@ -168828,14 +169430,12 @@ Revelation
 Revelation
 Revelation
 Revelation
-169401	Revelation
 Revelation
 Revelation
 Revelation
 Revelation
 Revelation
 Revelation
-169409	Revelation
 Revelation
 Revelation
 Revelation
@@ -168870,7 +169470,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169445	Revelation
 Revelation
 Revelation
 Revelation
@@ -168900,7 +169499,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169476	Revelation
 Revelation
 Revelation
 Revelation
@@ -169036,7 +169634,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169613	Revelation
 Revelation
 Revelation
 Revelation
@@ -169067,7 +169664,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169645	Revelation
 Revelation
 Revelation
 Revelation
@@ -169076,7 +169672,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169655	Revelation
 Revelation
 Revelation
 Revelation
@@ -169090,7 +169685,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169671	Revelation
 Revelation
 Revelation
 Revelation
@@ -169115,14 +169709,12 @@ Revelation
 Revelation
 Revelation
 Revelation
-169698	Revelation
 Revelation
 Revelation
 Revelation
 Revelation
 Revelation
 Revelation
-169706	Revelation
 Revelation
 Revelation
 Revelation
@@ -169135,7 +169727,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169720	Revelation
 Revelation
 Revelation
 Revelation
@@ -169177,7 +169768,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169763	Revelation
 Revelation
 Revelation
 Revelation
@@ -169210,10 +169800,8 @@ Revelation
 Revelation
 Revelation
 Revelation
-169797	Revelation
 Revelation
 Revelation
-169801	Revelation
 Revelation
 Revelation
 Revelation
@@ -169227,7 +169815,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169816	Revelation
 Revelation
 Revelation
 Revelation
@@ -169366,7 +169953,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169956	Revelation
 Revelation
 Revelation
 Revelation
@@ -169395,7 +169981,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-169986	Revelation
 Revelation
 Revelation
 Revelation
@@ -169570,7 +170155,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-170162	Revelation
 Revelation
 Revelation
 Revelation
@@ -169603,6 +170187,71 @@ Revelation
 Revelation
 Revelation
 Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -170704,6 +171353,70 @@ Matthew
 Matthew
 Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -171410,6 +172123,70 @@ Mark
 Mark
 Mark
 Mark
+Mark
+Mark
+Mark
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -172539,6 +173316,135 @@ Luke
 Luke
 Luke
 Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
 John
 John
 John
@@ -173324,6 +174230,134 @@ John
 John
 John
 John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -174467,6 +175501,70 @@ Acts
 Acts
 Acts
 Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -174786,6 +175884,38 @@ Romans
 Romans
 Romans
 Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -175185,6 +176315,39 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -175384,6 +176547,22 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 Galatians
@@ -175471,6 +176650,22 @@ Galatians
 Galatians
 Galatians
 Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
 Ephesians
 Ephesians
 Ephesians
@@ -175599,6 +176794,22 @@ Ephesians
 Ephesians
 Ephesians
 Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
 Philippians
 Philippians
 Philippians
@@ -175702,6 +176913,22 @@ Philippians
 Philippians
 Philippians
 Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
 Colossians
 Colossians
 Colossians
@@ -175791,6 +177018,30 @@ Colossians
 Colossians
 Colossians
 Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -175883,6 +177134,14 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -176033,6 +177292,38 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -176104,6 +177395,14 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
+2Timothy
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
 Titus
 Titus
 Titus
@@ -176163,6 +177462,62 @@ Philemon
 Philemon
 Philemon
 Philemon
+Philemon
+Philemon
+Philemon
+Philemon
+Philemon
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -176422,6 +177777,22 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+James
 James
 James
 James
@@ -176541,6 +177912,22 @@ James
 James
 James
 James
+James
+James
+James
+James
+James
+James
+James
+James
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
 1Peter
 1Peter
 1Peter
@@ -176627,6 +178014,14 @@ James
 1Peter
 1Peter
 1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+2Peter
+2Peter
+2Peter
 2Peter
 2Peter
 2Peter
@@ -176689,6 +178084,14 @@ James
 2Peter
 2Peter
 2Peter
+2Peter
+2Peter
+1John
+1John
+1John
+1John
+1John
+1John
 1John
 1John
 1John
@@ -176785,6 +178188,18 @@ James
 1John
 1John
 1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+2John
 2John
 2John
 2John
@@ -176810,6 +178225,11 @@ James
 3John
 3John
 3John
+3John
+3John
+3John
+3John
+Jude
 Jude
 Jude
 Jude
@@ -176837,6 +178257,8 @@ Jude
 Jude
 Jude
 Jude
+Jude
+Jude
 Revelation
 Revelation
 Revelation
@@ -177678,1373 +179100,258 @@ Revelation
 Revelation
 Revelation
 Revelation
-178287	Matthew
-178295	Matthew
-178401	Matthew
-178678	Matthew
-178835	Matthew
-178862	Matthew
-178930	Matthew
-178959	Matthew
-178978	Matthew
-179080	Matthew
-179109	Matthew
-179190	Matthew
-179302	Matthew
-179406	Matthew
-179472	Matthew
-179484	Matthew
-179503	Matthew
-179531	Matthew
-179570	Matthew
-179594	Matthew
-179618	Matthew
-179640	Matthew
-179850	Matthew
-179866	Matthew
-179870	Matthew
-179923	Matthew
-180320	Matthew
-180325	Matthew
-180670	Matthew
-180907	Matthew
-181104	Matthew
-181528	Matthew
-181551	Matthew
-181742	Matthew
-181798	Matthew
-181861	Matthew
-182021	Matthew
-182025	Matthew
-182039	Matthew
-182082	Matthew
-182378	Matthew
-182395	Matthew
-182450	Matthew
-182466	Matthew
-182472	Matthew
-182480	Matthew
-182482	Matthew
-182486	Matthew
-182491	Matthew
-182575	Matthew
-182626	Matthew
-182641	Matthew
-182682	Matthew
-182689	Matthew
-182817	Matthew
-182962	Matthew
-182971	Matthew
-183214	Matthew
-183282	Matthew
-183285	Matthew
-183315	Matthew
-183324	Matthew
-183331	Matthew
-183378	Matthew
-183387	Matthew
-183422	Matthew
-183790	Matthew
-183875	Matthew
-183997	Matthew
-184011	Matthew
-184035	Matthew
-184048	Matthew
-184163	Matthew
-184178	Matthew
-184215	Matthew
-184479	Matthew
-184548	Matthew
-184563	Matthew
-184896	Matthew
-184910	Matthew
-185031	Matthew
-185062	Matthew
-185092	Matthew
-185255	Matthew
-185370	Matthew
-185388	Matthew
-185428	Matthew
-185632	Matthew
-185668	Matthew
-185674	Matthew
-185683	Matthew
-185693	Matthew
-185854	Matthew
-186077	Matthew
-186087	Matthew
-186122	Matthew
-186138	Matthew
-186183	Matthew
-186219	Matthew
-186278	Matthew
-186295	Matthew
-186329	Matthew
-186365	Matthew
-186630	Matthew
-186977	Matthew
-187023	Matthew
-187134	Matthew
-187156	Matthew
-187281	Matthew
-187299	Matthew
-187325	Matthew
-187371	Matthew
-187644	Matthew
-187655	Matthew
-187871	Matthew
-188201	Matthew
-188279	Matthew
-188610	Matthew
-188643	Matthew
-188698	Matthew
-188725	Matthew
-188734	Matthew
-188738	Matthew
-188773	Matthew
-188884	Matthew
-189036	Matthew
-189058	Matthew
-189253	Matthew
-189316	Matthew
-189438	Matthew
-189448	Matthew
-189536	Matthew
-189837	Matthew
-189847	Matthew
-189981	Matthew
-190002	Matthew
-190007	Matthew
-190122	Matthew
-190162	Matthew
-190169	Matthew
-190177	Matthew
-190195	Matthew
-190210	Matthew
-190226	Matthew
-190232	Matthew
-190333	Matthew
-190445	Matthew
-190478	Matthew
-190500	Matthew
-190614	Matthew
-190629	Matthew
-190677	Matthew
-190681	Matthew
-190788	Matthew
-190849	Matthew
-190864	Matthew
-190869	Matthew
-191084	Matthew
-191179	Matthew
-191233	Matthew
-191482	Matthew
-191658	Matthew
-191771	Matthew
-192232	Matthew
-192399	Matthew
-192403	Matthew
-192516	Matthew
-192553	Matthew
-192575	Matthew
-192824	Matthew
-192855	Matthew
-192969	Matthew
-193023	Matthew
-193047	Matthew
-193057	Matthew
-193328	Matthew
-193492	Matthew
-193500	Matthew
-193537	Matthew
-193601	Matthew
-193617	Matthew
-193687	Matthew
-193792	Matthew
-194018	Mark
-194048	Mark
-194183	Mark
-194216	Mark
-Mark
-194286	Mark
-194364	Mark
-194367	Mark
-194403	Mark
-194447	Mark
-194801	Mark
-194804	Mark
-194824	Mark
-194832	Mark
-194855	Mark
-194867	Mark
-194997	Mark
-195156	Mark
-195260	Mark
-195410	Mark
-195444	Mark
-195483	Mark
-195496	Mark
-195767	Mark
-195917	Mark
-196163	Mark
-196181	Mark
-196210	Mark
-196649	Mark
-196780	Mark
-197075	Mark
-197142	Mark
-197225	Mark
-197307	Mark
-197346	Mark
-197368	Mark
-197598	Mark
-197619	Mark
-197656	Mark
-197731	Mark
-197739	Mark
-197750	Mark
-197766	Mark
-198295	Mark
-198440	Mark
-198603	Mark
-198630	Mark
-198638	Mark
-199172	Mark
-199473	Mark
-199480	Mark
-199634	Mark
-199859	Mark
-199892	Mark
-199999	Mark
-200068	Mark
-200174	Mark
-200291	Mark
-200385	Mark
-200392	Mark
-200432	Mark
-200828	Mark
-200895	Mark
-201152	Mark
-201176	Mark
-201362	Mark
-201438	Mark
-201476	Mark
-201596	Mark
-201666	Mark
-201670	Mark
-201719	Mark
-201781	Mark
-201794	Mark
-201802	Mark
-201873	Mark
-201882	Mark
-202513	Mark
-202580	Mark
-202654	Mark
-203161	Mark
-203384	Mark
-203393	Mark
-203490	Mark
-203589	Mark
-203616	Mark
-203678	Mark
-203806	Luke
-203864	Luke
-203963	Luke
-203977	Luke
-204003	Luke
-204468	Luke
-204506	Luke
-204536	Luke
-204736	Luke
-204771	Luke
-204847	Luke
-205007	Luke
-205120	Luke
-205215	Luke
-205225	Luke
-205249	Luke
-205300	Luke
-205303	Luke
-205392	Luke
-205430	Luke
-205510	Luke
-205534	Luke
-205542	Luke
-205588	Luke
-205775	Luke
-205797	Luke
-206099	Luke
-206380	Luke
-206489	Luke
-206538	Luke
-206800	Luke
-206817	Luke
-206940	Luke
-207006	Luke
-207147	Luke
-207154	Luke
-207166	Luke
-207339	Luke
-207402	Luke
-207543	Luke
-207561	Luke
-208271	Luke
-208364	Luke
-208487	Luke
-208541	Luke
-208552	Luke
-208625	Luke
-208628	Luke
-208713	Luke
-208884	Luke
-208902	Luke
-209180	Luke
-209195	Luke
-209211	Luke
-209274	Luke
-209359	Luke
-209385	Luke
-209814	Luke
-209989	Luke
-210016	Luke
-210051	Luke
-210213	Luke
-210289	Luke
-210302	Luke
-210313	Luke
-210679	Luke
-210814	Luke
-210987	Luke
-210996	Luke
-211002	Luke
-211063	Luke
-211110	Luke
-211119	Luke
-211157	Luke
-211183	Luke
-211338	Luke
-211894	Luke
-212100	Luke
-212109	Luke
-212143	Luke
-212162	Luke
-212262	Luke
-212290	Luke
-212321	Luke
-212365	Luke
-212554	Luke
-212619	Luke
-212698	Luke
-213005	Luke
-213188	Luke
-213485	Luke
-213594	Luke
-213686	Luke
-213713	Luke
-213717	Luke
-213768	Luke
-213861	Luke
-213885	Luke
-213930	Luke
-213994	Luke
-214151	Luke
-214181	Luke
-214219	Luke
-214368	Luke
-214429	Luke
-214489	Luke
-214754	Luke
-215138	Luke
-215155	Luke
-215184	Luke
-215304	Luke
-215357	Luke
-215379	Luke
-215556	Luke
-215799	Luke
-215985	Luke
-216187	Luke
-216856	Luke
-217053	Luke
-217100	Luke
-217139	Luke
-217379	Luke
-217414	Luke
-217458	Luke
-217535	Luke
-217785	Luke
-217846	Luke
-217876	Luke
-217898	Luke
-217902	Luke
-217923	Luke
-218005	Luke
-218054	Luke
-218059	Luke
-218079	Luke
-218099	Luke
-218139	Luke
-218232	Luke
-218259	Luke
-218293	Luke
-218554	Luke
-218907	Luke
-218923	Luke
-219208	Luke
-219294	Luke
-219399	Luke
-219464	Luke
-219496	Luke
-219581	Luke
-219672	Luke
-219791	Luke
-219821	Luke
-219874	Luke
-219884	Luke
-219989	Luke
-220123	Luke
-220135	Luke
-220138	Luke
-220147	Luke
-220228	Luke
-220347	Luke
-220363	Luke
-220411	Luke
-220427	Luke
-220440	Luke
-220486	Luke
-220491	Luke
-220737	John
-220770	John
-220802	John
-221029	John
-221171	John
-221310	John
-221335	John
-221481	John
-221601	John
-221748	John
-222001	John
-222330	John
-222383	John
-222557	John
-222571	John
-222729	John
-222916	John
-222993	John
-223809	John
-224337	John
-225196	John
-225390	John
-225503	John
-225729	John
-226455	John
-226538	John
-227234	John
-227502	John
-227684	John
-227910	John
-227977	John
-228254	John
-228302	John
-228468	John
-228673	John
-228795	John
-229393	John
-229457	John
-229474	John
-231333	John
-231756	John
-231778	John
-231955	John
-232014	John
-232286	John
-232475	John
-232492	John
-232834	John
-232842	John
-232852	John
-232954	John
-232986	John
-233064	John
-233166	John
-233394	John
-John
-233400	John
-233609	John
-234105	John
-234237	Acts
-234263	Acts
-234352	Acts
-234354	Acts
-234368	Acts
-234518	Acts
-234546	Acts
-234685	Acts
-234690	Acts
-234706	Acts
-234746	Acts
-234799	Acts
-234899	Acts
-235114	Acts
-235153	Acts
-235196	Acts
-235202	Acts
-235214	Acts
-235229	Acts
-235256	Acts
-235275	Acts
-235314	Acts
-235344	Acts
-235372	Acts
-235423	Acts
-235432	Acts
-235465	Acts
-235646	Acts
-235659	Acts
-235798	Acts
-235815	Acts
-235880	Acts
-235965	Acts
-236031	Acts
-236112	Acts
-236117	Acts
-236146	Acts
-236182	Acts
-236222	Acts
-236449	Acts
-236487	Acts
-236507	Acts
-236516	Acts
-236574	Acts
-236580	Acts
-236713	Acts
-236737	Acts
-236871	Acts
-236985	Acts
-236994	Acts
-237013	Acts
-237055	Acts
-237059	Acts
-237077	Acts
-237085	Acts
-237102	Acts
-237135	Acts
-237184	Acts
-237208	Acts
-237349	Acts
-237359	Acts
-237371	Acts
-237408	Acts
-237425	Acts
-237522	Acts
-237596	Acts
-237716	Acts
-237735	Acts
-237774	Acts
-237863	Acts
-237875	Acts
-237988	Acts
-238018	Acts
-238047	Acts
-238146	Acts
-238212	Acts
-238271	Acts
-238313	Acts
-238390	Acts
-238421	Acts
-238699	Acts
-238919	Acts
-239166	Acts
-239224	Acts
-239246	Acts
-239303	Acts
-239344	Acts
-239431	Acts
-239473	Acts
-239535	Acts
-239537	Acts
-239561	Acts
-239714	Acts
-239915	Acts
-239996	Acts
-240083	Acts
-240270	Acts
-240366	Acts
-240428	Acts
-240511	Acts
-240707	Acts
-240805	Acts
-240847	Acts
-240908	Acts
-240927	Acts
-240940	Acts
-240961	Acts
-241033	Acts
-241068	Acts
-241099	Acts
-241152	Acts
-241331	Acts
-241346	Acts
-241567	Acts
-241574	Acts
-241612	Acts
-241683	Acts
-241699	Acts
-241719	Acts
-241768	Acts
-241810	Acts
-241815	Acts
-241899	Acts
-241912	Acts
-241981	Acts
-241997	Acts
-242146	Acts
-242149	Acts
-242164	Acts
-242227	Acts
-242322	Acts
-242329	Acts
-242446	Acts
-242460	Acts
-242463	Acts
-242477	Acts
-242519	Acts
-242535	Acts
-242545	Acts
-242606	Acts
-242689	Acts
-242712	Acts
-242723	Acts
-242763	Acts
-242779	Acts
-242951	Acts
-243002	Acts
-243075	Acts
-243144	Acts
-243169	Acts
-243198	Acts
-243308	Acts
-243361	Acts
-243406	Acts
-243434	Acts
-243444	Acts
-243493	Acts
-243550	Acts
-243580	Acts
-243618	Acts
-243656	Acts
-243710	Acts
-243718	Acts
-243749	Acts
-243797	Acts
-244033	Acts
-244079	Acts
-244136	Acts
-244197	Acts
-244248	Acts
-244445	Acts
-244595	Acts
-244617	Acts
-244646	Acts
-244711	Acts
-244741	Acts
-244833	Acts
-244864	Acts
-244959	Acts
-Acts
-244965	Acts
-244968	Acts
-Acts
-244974	Acts
-245218	Acts
-245251	Acts
-245263	Acts
-245321	Acts
-245371	Acts
-245382	Acts
-245406	Acts
-245548	Acts
-245632	Acts
-245999	Acts
-246006	Acts
-246153	Acts
-246633	Acts
-246742	Acts
-246755	Acts
-246871	Acts
-247128	Acts
-247217	Acts
-247391	Acts
-247420	Acts
-247609	Acts
-247787	Acts
-247818	Acts
-247939	Acts
-247965	Acts
-248132	Acts
-248213	Acts
-248228	Acts
-248285	Acts
-248324	Acts
-248437	Acts
-248505	Acts
-248509	Acts
-248523	Acts
-248607	Acts
-248680	Acts
-248685	Acts
-248698	Acts
-248844	Acts
-248977	Acts
-249314	Acts
-249406	Acts
-249452	Acts
-249733	Romans
-249755	Romans
-249759	Romans
-249916	Romans
-250178	Romans
-250187	Romans
-250217	Romans
-250219	Romans
-250361	Romans
-250443	Romans
-250653	Romans
-250662	Romans
-250714	Romans
-250784	Romans
-250901	Romans
-250969	Romans
-250990	Romans
-251387	Romans
-251432	Romans
-251748	Romans
-251922	Romans
-252223	Romans
-252281	Romans
-252921	Romans
-253129	Romans
-253159	Romans
-253169	Romans
-253564	Romans
-253746	Romans
-253854	Romans
-254369	Romans
-254372	Romans
-254375	Romans
-254564	Romans
-254611	Romans
-254631	Romans
-254756	Romans
-254774	Romans
-254864	Romans
-254950	Romans
-254955	Romans
-255048	Romans
-255183	Romans
-255188	Romans
-255192	Romans
-255242	Romans
-255245	Romans
-255266	Romans
-255298	Romans
-255311	Romans
-255319	Romans
-255322	Romans
-255329	Romans
-Romans
-255332	Romans
-255334	Romans
-255359	Romans
-255387	Romans
-255453	Romans
-255459	Romans
-255473	Romans
-255513	1Corinthians
-255548	1Corinthians
-255550	1Corinthians
-255554	1Corinthians
-255578	1Corinthians
-255708	1Corinthians
-255838	1Corinthians
-255893	1Corinthians
-255940	1Corinthians
-255956	1Corinthians
-255972	1Corinthians
-255985	1Corinthians
-256005	1Corinthians
-256220	1Corinthians
-256280	1Corinthians
-256495	1Corinthians
-256572	1Corinthians
-256785	1Corinthians
-256791	1Corinthians
-256840	1Corinthians
-256897	1Corinthians
-256902	1Corinthians
-257326	1Corinthians
-257441	1Corinthians
-258070	1Corinthians
-258638	1Corinthians
-258698	1Corinthians
-258733	1Corinthians
-258857	1Corinthians
-258885	1Corinthians
-259168	1Corinthians
-259357	1Corinthians
-259574	1Corinthians
-259630	1Corinthians
-259640	1Corinthians
-259655	1Corinthians
-259902	1Corinthians
-259920	1Corinthians
-260129	1Corinthians
-260143	1Corinthians
-260197	1Corinthians
-260214	1Corinthians
-260313	1Corinthians
-260624	1Corinthians
-260626	1Corinthians
-260630	1Corinthians
-260785	1Corinthians
-260819	1Corinthians
-260935	1Corinthians
-261254	1Corinthians
-261276	1Corinthians
-261293	1Corinthians
-261333	2Corinthians
-261357	2Corinthians
-261361	2Corinthians
-261371	2Corinthians
-261379	2Corinthians
-261426	2Corinthians
-261538	2Corinthians
-261625	2Corinthians
-261642	2Corinthians
-261659	2Corinthians
-261769	2Corinthians
-262432	2Corinthians
-262814	2Corinthians
-262817	2Corinthians
-262820	2Corinthians
-262896	2Corinthians
-262969	2Corinthians
-262983	2Corinthians
-263242	2Corinthians
-263269	2Corinthians
-263296	2Corinthians
-263315	2Corinthians
-263521	2Corinthians
-263573	2Corinthians
-263587	2Corinthians
-263809	2Corinthians
-263853	2Corinthians
-263904	2Corinthians
-264150	2Corinthians
-264169	2Corinthians
-264469	2Corinthians
-264474	2Corinthians
-264479	2Corinthians
-264514	2Corinthians
-264556	2Corinthians
-264705	2Corinthians
-264897	2Corinthians
-264911	2Corinthians
-265068	2Corinthians
-265097	Galatians
-265106	Galatians
-265122	Galatians
-265126	Galatians
-265152	Galatians
-265195	Galatians
-265225	Galatians
-265323	Galatians
-265377	Galatians
-265535	Galatians
-265921	Galatians
-266078	Galatians
-266082	Galatians
-266086	Galatians
-266120	Galatians
-266355	Galatians
-266463	Galatians
-266537	Galatians
-266714	Galatians
-266913	Galatians
-266924	Galatians
-266966	Ephesians
-266974	Ephesians
-266978	Ephesians
-266988	Ephesians
-267058	Ephesians
-267083	Ephesians
-267150	Ephesians
-267188	Ephesians
-267251	Ephesians
-267297	Ephesians
-267337	Ephesians
-267553	Ephesians
-267557	Ephesians
-267568	Ephesians
-267642	Ephesians
-267707	Ephesians
-267735	Ephesians
-267866	Ephesians
-267882	Ephesians
-267900	Ephesians
-267966	Ephesians
-267988	Ephesians
-268152	Ephesians
-268271	Ephesians
-268316	Ephesians
-268465	Ephesians
-268579	Ephesians
-268634	Ephesians
-268665	Ephesians
-268674	Ephesians
-268765	Ephesians
-268839	Ephesians
-268854	Ephesians
-268865	Ephesians
-268913	Ephesians
-268933	Ephesians
-268938	Ephesians
-268953	Philippians
-268966	Philippians
-268968	Philippians
-268972	Philippians
-269041	Philippians
-269067	Philippians
-269088	Philippians
-269111	Philippians
-269136	Philippians
-269190	Philippians
-269202	Philippians
-269273	Philippians
-269375	Philippians
-269444	Philippians
-269498	Philippians
-269518	Philippians
-269556	Philippians
-269666	Philippians
-270009	Philippians
-270062	Philippians
-270080	Philippians
-270201	Philippians
-270260	Philippians
-270295	Colossians
-270312	Colossians
-270330	Colossians
-270425	Colossians
-270454	Colossians
-270518	Colossians
-270791	Colossians
-270815	Colossians
-270855	Colossians
-270889	Colossians
-270928	Colossians
-270961	Colossians
-270998	Colossians
-271023	Colossians
-271058	Colossians
-271177	Colossians
-271179	Colossians
-271332	Colossians
-271356	Colossians
-271530	Colossians
-271596	1Thessalonians
-271601	1Thessalonians
-271638	1Thessalonians
-271660	1Thessalonians
-271673	1Thessalonians
-271706	1Thessalonians
-271888	1Thessalonians
-271893	1Thessalonians
-271906	1Thessalonians
-271939	1Thessalonians
-272078	1Thessalonians
-272093	1Thessalonians
-272192	1Thessalonians
-272220	1Thessalonians
-272234	1Thessalonians
-272239	1Thessalonians
-272271	1Thessalonians
-272338	1Thessalonians
-272547	1Thessalonians
-272571	1Thessalonians
-272598	1Thessalonians
-272605	1Thessalonians
-272633	1Thessalonians
-272635	1Thessalonians
-272821	2Thessalonians
-272827	2Thessalonians
-272831	2Thessalonians
-272868	2Thessalonians
-272876	2Thessalonians
-272928	2Thessalonians
-272988	2Thessalonians
-273009	2Thessalonians
-273019	2Thessalonians
-273081	2Thessalonians
-273210	2Thessalonians
-273244	2Thessalonians
-273261	2Thessalonians
-273274	2Thessalonians
-273384	2Thessalonians
-273386	2Thessalonians
-273519	1Timothy
-273533	1Timothy
-273557	1Timothy
-273617	1Timothy
-273620	1Timothy
-273622	1Timothy
-273624	1Timothy
-273680	1Timothy
-273723	1Timothy
-273745	1Timothy
-273758	1Timothy
-273776	1Timothy
-273787	1Timothy
-273814	1Timothy
-273829	1Timothy
-273838	1Timothy
-273849	1Timothy
-273855	1Timothy
-273980	1Timothy
-274018	1Timothy
-274063	1Timothy
-274097	1Timothy
-274119	1Timothy
-274136	1Timothy
-274149	1Timothy
-274180	1Timothy
-274258	1Timothy
-274299	1Timothy
-274321	1Timothy
-274328	1Timothy
-274332	1Timothy
-274348	1Timothy
-274459	1Timothy
-274524	1Timothy
-274563	1Timothy
-274583	1Timothy
-274599	1Timothy
-274620	1Timothy
-274655	1Timothy
-274674	1Timothy
-274723	1Timothy
-274759	1Timothy
-274778	1Timothy
-274825	1Timothy
-274857	2Timothy
-274881	2Timothy
-274904	2Timothy
-274947	2Timothy
-274974	2Timothy
-274999	2Timothy
-275042	2Timothy
-275066	2Timothy
-275284	2Timothy
-275463	2Timothy
-275534	2Timothy
-275594	2Timothy
-275601	2Timothy
-275605	2Timothy
-275622	2Timothy
-275869	Titus
-275875	Titus
-275913	Titus
-275916	Titus
-275995	Titus
-276039	Titus
-276177	Titus
-276191	Titus
-276202	Titus
-276260	Titus
-276263	Titus
-276271	Titus
-276295	Titus
-276365	Titus
-276376	Titus
-276411	Philemon
-276435	Philemon
-276439	Philemon
-276457	Philemon
-276486	Philemon
-276731	Hebrews
-276937	Hebrews
-277002	Hebrews
-277036	Hebrews
-277095	Hebrews
-277107	Hebrews
-277179	Hebrews
-277238	Hebrews
-277584	Hebrews
-277591	Hebrews
-277746	Hebrews
-277853	Hebrews
-277862	Hebrews
-277865	Hebrews
-277889	Hebrews
-277931	Hebrews
-277956	Hebrews
-277989	Hebrews
-278332	Hebrews
-278489	Hebrews
-278532	Hebrews
-278718	Hebrews
-278750	Hebrews
-278817	Hebrews
-278887	Hebrews
-278901	Hebrews
-278904	Hebrews
-278992	Hebrews
-279176	Hebrews
-279187	Hebrews
-279195	Hebrews
-279323	Hebrews
-279396	Hebrews
-279428	Hebrews
-279716	Hebrews
-279731	Hebrews
-279787	Hebrews
-279862	Hebrews
-279958	Hebrews
-280053	Hebrews
-280058	Hebrews
-280113	Hebrews
-280132	Hebrews
-280223	Hebrews
-280283	Hebrews
-280305	Hebrews
-280336	Hebrews
-280505	Hebrews
-280542	Hebrews
-280689	Hebrews
-280812	Hebrews
-280830	James
-281014	James
-281031	James
-281068	James
-281160	James
-281165	James
-281246	James
-281372	James
-281658	James
-281672	James
-281685	James
-281716	James
-281739	James
-281742	James
-281756	James
-281924	James
-281981	James
-282024	James
-282100	James
-282127	James
-282248	James
-282305	1Peter
-282310	1Peter
-282318	1Peter
-282417	1Peter
-282426	1Peter
-282527	1Peter
-282569	1Peter
-282711	1Peter
-282759	1Peter
-282809	1Peter
-282948	1Peter
-283160	1Peter
-283297	1Peter
-283318	1Peter
-283396	1Peter
-283445	1Peter
-283506	1Peter
-283526	1Peter
-283528	1Peter
-283685	1Peter
-283705	2Peter
-283715	2Peter
-283719	2Peter
-283725	2Peter
-283740	2Peter
-283750	2Peter
-283841	2Peter
-283863	2Peter
-283934	2Peter
-283946	2Peter
-284102	2Peter
-284123	2Peter
-284163	2Peter
-284181	2Peter
-284200	2Peter
-284247	2Peter
-284294	2Peter
-284354	2Peter
-284368	2Peter
-284427	2Peter
-284441	2Peter
-284495	2Peter
-284510	2Peter
-284529	2Peter
-284612	2Peter
-284616	2Peter
-285033	1John
-285076	1John
-285173	1John
-285442	1John
-285581	1John
-285586	1John
-285785	1John
-286121	1John
-286376	1John
-286389	2John
-286395	2John
-286430	2John
-286494	2John
-286566	2John
-286748	3John
-286770	Jude
-286827	Jude
-287194	Revelation
-287205	Revelation
-287226	Revelation
-287254	Revelation
-287284	Revelation
-287287	Revelation
-287304	Revelation
-287323	Revelation
-287341	Revelation
-287358	Revelation
-287427	Revelation
-287526	Revelation
-287543	Revelation
-287711	Revelation
-287723	Revelation
-287899	Revelation
-287939	Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
 Revelation
-288022	Revelation
-288064	Revelation
-288114	Revelation
-288603	Revelation
-288716	Revelation
-288774	Revelation
-288876	Revelation
-288887	Revelation
-288901	Revelation
-288932	Revelation
-288944	Revelation
-288988	Revelation
-289012	Revelation
-289032	Revelation
-289055	Revelation
-289206	Revelation
-289319	Revelation
-289378	Revelation
-289399	Revelation
-289413	Revelation
-289493	Revelation
-289604	Revelation
-289717	Revelation
-289738	Revelation
-289870	Revelation
-290067	Revelation
-290215	Revelation
-290407	Revelation
-290566	Revelation
-290572	Revelation
-290578	Revelation
-290764	Revelation
-290867	Revelation
-291012	Revelation
-291051	Revelation
-291092	Revelation
-291169	Revelation
-291254	Revelation
-291263	Revelation
-291291	Revelation
-291341	Revelation
-291366	Revelation
-291372	Revelation
-291498	Revelation
-291591	Revelation
-291609	Revelation
-291683	Revelation
-291713	Revelation
-291805	Revelation
-291810	Revelation
-291815	Revelation
-291848	Revelation
-291888	Revelation
-291933	Revelation
-291972	Revelation
-292066	Revelation
-292101	Revelation
-292121	Revelation
-292123	Revelation
-292125	Revelation
-292145	Revelation
-292378	Revelation
-292544	Revelation
-292579	Revelation
-292598	Revelation
-292609	Revelation
-292959	Revelation
-292983	Revelation
-293001	Revelation
-293038	Revelation
-293047	Revelation
-293174	Revelation
-293189	Revelation
-293217	Revelation
-293412	Revelation
-293559	Revelation
-293671	Revelation
-293741	Revelation
-293834	Revelation
-293868	Revelation
-293969	Revelation
-294094	Revelation
-294135	Revelation
-294142	Revelation
-294146	Revelation
-294183	Revelation
-294230	Revelation
-294252	Revelation
-294315	Revelation
-294369	Revelation
-294402	Revelation
-294424	Revelation
-294451	Revelation
-294460	Revelation
-294468	Revelation
-294479	Revelation
-294492	Revelation
-294527	Revelation
-294543	Revelation
-294580	Revelation
-294585	Revelation
-294691	Revelation
-294695	Revelation
-294741	Revelation
-294978	Revelation
-294995	Revelation
-295042	Revelation
-295053	Revelation
-295056	Revelation
-295080	Revelation
-295086	Revelation
-295118	Revelation
-295151	Revelation
-295295	Revelation
-295299	Revelation
-295303	Revelation
-295354	Revelation
-295364	Revelation
-295451	Matthew
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+292956	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -182046,6 +182353,263 @@ Matthew
 Matthew
 Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -184103,6 +184667,520 @@ Mark
 Mark
 Mark
 Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -187417,6 +188495,263 @@ Luke
 Luke
 Luke
 Luke
+Luke
+Luke
+Luke
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
 John
 John
 John
@@ -190237,6 +191572,263 @@ John
 John
 John
 John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+John
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -192835,6 +194427,198 @@ Acts
 Acts
 Acts
 Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -194117,6 +195901,71 @@ Romans
 Romans
 Romans
 Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -195554,6 +197403,263 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -196325,6 +198431,70 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 Galatians
@@ -196744,6 +198914,22 @@ Galatians
 Galatians
 Galatians
 Galatians
+Galatians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
 Ephesians
 Ephesians
 Ephesians
@@ -197004,6 +199190,22 @@ Ephesians
 Ephesians
 Ephesians
 Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Ephesians
+Philippians
+Philippians
+Philippians
+Philippians
 Philippians
 Philippians
 Philippians
@@ -197247,6 +199449,38 @@ Philippians
 Philippians
 Philippians
 Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Philippians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
+Colossians
 Colossians
 Colossians
 Colossians
@@ -197401,6 +199635,22 @@ Colossians
 Colossians
 Colossians
 Colossians
+Colossians
+Colossians
+Colossians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -197625,6 +199875,22 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
+2Thessalonians
+2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -197738,6 +200004,38 @@ Colossians
 2Thessalonians
 2Thessalonians
 2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
+1Timothy
 1Timothy
 1Timothy
 1Timothy
@@ -197959,6 +200257,22 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
+1Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -198192,6 +200506,18 @@ Titus
 Titus
 Titus
 Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Titus
+Philemon
 Philemon
 Philemon
 Philemon
@@ -198232,6 +200558,43 @@ Philemon
 Philemon
 Philemon
 Philemon
+Philemon
+Philemon
+Philemon
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -198959,6 +201322,70 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
+James
 James
 James
 James
@@ -199276,6 +201703,38 @@ James
 James
 James
 James
+James
+James
+James
+James
+James
+James
+James
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
 1Peter
 1Peter
 1Peter
@@ -199494,6 +201953,22 @@ James
 1Peter
 1Peter
 1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+2Peter
+2Peter
+2Peter
 2Peter
 2Peter
 2Peter
@@ -199599,6 +202074,22 @@ James
 2Peter
 2Peter
 2Peter
+2Peter
+2Peter
+2Peter
+2Peter
+2Peter
+2Peter
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
 1John
 1John
 1John
@@ -199995,6 +202486,26 @@ James
 1John
 1John
 1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
+1John
 2John
 2John
 2John
@@ -200032,6 +202543,10 @@ James
 2John
 2John
 2John
+2John
+2John
+2John
+3John
 3John
 3John
 3John
@@ -200074,6 +202589,10 @@ James
 3John
 3John
 3John
+3John
+3John
+Jude
+Jude
 Jude
 Jude
 Jude
@@ -200116,6 +202635,107 @@ Jude
 Jude
 Jude
 Jude
+Jude
+Jude
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 Revelation
@@ -209424,10 +212044,8 @@ Matthew
 Matthew
 398683	Matthew
 Matthew
-Matthew
 398687	Matthew
 398690	Matthew
-Matthew
 Matthew
 398694	Matthew
 398698	Matthew
@@ -209477,7 +212095,6 @@ Matthew
 Matthew
 398774	Matthew
 Matthew
-Matthew
 398778	Matthew
 398784	Matthew
 Matthew
@@ -209504,7 +212121,8 @@ Matthew
 Matthew
 398821	Matthew
 Matthew
-398828	Matthew
+398827	Matthew
+Matthew
 398831	Matthew
 Matthew
 Matthew
@@ -209516,7 +212134,8 @@ Matthew
 Matthew
 398860	Matthew
 Matthew
-398867	Matthew
+398866	Matthew
+Matthew
 398872	Matthew
 Matthew
 Matthew
@@ -209533,7 +212152,8 @@ Matthew
 Matthew
 Matthew
 398896	Matthew
-398899	Matthew
+398898	Matthew
+Matthew
 Matthew
 398903	Matthew
 398906	Matthew
@@ -209547,7 +212167,8 @@ Matthew
 398920	Matthew
 Matthew
 398927	Matthew
-398929	Matthew
+Matthew
+Matthew
 398931	Matthew
 Matthew
 Matthew
@@ -209559,11 +212180,13 @@ Matthew
 Matthew
 Matthew
 Matthew
-398950	Matthew
+398949	Matthew
+Matthew
 398952	Matthew
 398955	Matthew
 Matthew
-398959	Matthew
+398958	Matthew
+Matthew
 Matthew
 398964	Matthew
 Matthew
@@ -209575,10 +212198,12 @@ Matthew
 Matthew
 Matthew
 398981	Matthew
-398983	Matthew
+Matthew
+Matthew
 398992	Matthew
 398995	Matthew
-398997	Matthew
+Matthew
+Matthew
 399000	Matthew
 399003	Matthew
 Matthew
@@ -209595,20 +212220,22 @@ Matthew
 399024	Matthew
 Matthew
 Matthew
-399029	Matthew
-Matthew
+399030	Matthew
 399034	Matthew
 399036	Matthew
 Matthew
-399039	Matthew
+Matthew
+Matthew
 399043	Matthew
 Matthew
 399047	Matthew
-399049	Matthew
+Matthew
+Matthew
 Matthew
 399056	Matthew
 Matthew
-399060	Matthew
+399059	Matthew
+Matthew
 Matthew
 399066	Matthew
 Matthew
@@ -209620,7 +212247,9 @@ Matthew
 399081	Matthew
 Matthew
 399085	Matthew
-399088	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -209633,7 +212262,8 @@ Matthew
 399099	Matthew
 Matthew
 Matthew
-399104	Matthew
+399103	Matthew
+Matthew
 399107	Matthew
 Matthew
 399110	Matthew
@@ -209657,10 +212287,11 @@ Matthew
 Matthew
 399145	Matthew
 399152	Matthew
-399154	Matthew
+Matthew
+Matthew
 Matthew
 399159	Matthew
-399161	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -209668,7 +212299,8 @@ Matthew
 399169	Matthew
 Matthew
 399172	Matthew
-399174	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -209678,7 +212310,7 @@ Matthew
 399182	Matthew
 Matthew
 Matthew
-399186	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -209705,14 +212337,14 @@ Matthew
 399231	Matthew
 399236	Matthew
 399238	Matthew
-399242	Matthew
+399241	Matthew
+Matthew
 399245	Matthew
 Matthew
 Matthew
 399251	Matthew
 Matthew
-399255	Matthew
-Matthew
+399256	Matthew
 399259	Matthew
 399262	Matthew
 Matthew
@@ -209720,10 +212352,11 @@ Matthew
 Matthew
 Matthew
 Matthew
-399269	Matthew
+Matthew
+Matthew
 399271	Matthew
 399276	Matthew
-399278	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -209735,7 +212368,6 @@ Matthew
 Matthew
 Matthew
 399297	Matthew
-Matthew
 Matthew
 Matthew
 Matthew
@@ -209766,7 +212398,8 @@ Matthew
 Matthew
 399351	Matthew
 399356	Matthew
-399358	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 399364	Matthew
@@ -209776,7 +212409,8 @@ Matthew
 399371	Matthew
 Matthew
 399374	Matthew
-399378	Matthew
+399377	Matthew
+Matthew
 399381	Matthew
 399384	Matthew
 Matthew
@@ -209785,8 +212419,7 @@ Matthew
 Matthew
 399400	Matthew
 Matthew
-399404	Matthew
-Matthew
+399405	Matthew
 399407	Matthew
 Matthew
 399411	Matthew
@@ -209797,8 +212430,7 @@ Matthew
 399428	Matthew
 Matthew
 Matthew
-399434	Matthew
-Matthew
+399435	Matthew
 Matthew
 399439	Matthew
 Matthew
@@ -209833,9 +212465,9 @@ Matthew
 399495	Matthew
 Matthew
 399498	Matthew
-399500	Matthew
 399502	Matthew
-399504	Matthew
+Matthew
+Matthew
 399510	Matthew
 Matthew
 399514	Matthew
@@ -209855,7 +212487,8 @@ Matthew
 399546	Matthew
 Matthew
 Matthew
-399551	Matthew
+399550	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -209881,14 +212514,14 @@ Matthew
 399596	Matthew
 Matthew
 Matthew
-Matthew
 399601	Matthew
 399603	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-399609	Matthew
+Matthew
+Matthew
 Matthew
 399613	Matthew
 Matthew
@@ -209906,7 +212539,8 @@ Matthew
 399642	Matthew
 399647	Matthew
 Matthew
-399650	Matthew
+Matthew
+Matthew
 Matthew
 399654	Matthew
 Matthew
@@ -209915,7 +212549,8 @@ Matthew
 Matthew
 Matthew
 399663	Matthew
-399665	Matthew
+Matthew
+Matthew
 399667	Matthew
 399671	Matthew
 399673	Matthew
@@ -209924,11 +212559,11 @@ Matthew
 Matthew
 399684	Matthew
 399686	Matthew
-Matthew
 399692	Matthew
 399695	Matthew
 Matthew
-399698	Matthew
+Matthew
+Matthew
 399700	Matthew
 Matthew
 Matthew
@@ -209953,11 +212588,11 @@ Matthew
 Matthew
 Matthew
 399732	Matthew
-399734	Matthew
+Matthew
+Matthew
 Matthew
 399737	Matthew
-399744	Matthew
-Matthew
+399745	Matthew
 Matthew
 Matthew
 Matthew
@@ -209965,7 +212600,6 @@ Matthew
 399753	Matthew
 Matthew
 Matthew
-399759	Matthew
 399761	Matthew
 399768	Matthew
 399771	Matthew
@@ -209975,20 +212609,19 @@ Matthew
 Matthew
 Matthew
 Matthew
-399782	Matthew
-Matthew
+399783	Matthew
 Matthew
 399788	Matthew
 Matthew
 Matthew
-399792	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 399798	Matthew
 Matthew
 Matthew
 399805	Matthew
-399808	Matthew
 399810	Matthew
 Matthew
 Matthew
@@ -210006,10 +212639,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-399839	Matthew
 399843	Matthew
 399855	Matthew
-Matthew
 Matthew
 Matthew
 Matthew
@@ -210022,7 +212653,6 @@ Matthew
 Matthew
 399880	Matthew
 Matthew
-Matthew
 399884	Matthew
 399888	Matthew
 Matthew
@@ -210032,8 +212662,7 @@ Matthew
 399900	Matthew
 Matthew
 399903	Matthew
-399905	Matthew
-Matthew
+399906	Matthew
 Matthew
 Matthew
 Matthew
@@ -210051,7 +212680,8 @@ Matthew
 Matthew
 Matthew
 399933	Matthew
-399935	Matthew
+Matthew
+Matthew
 Matthew
 399939	Matthew
 Matthew
@@ -210080,7 +212710,8 @@ Matthew
 Matthew
 399980	Matthew
 Matthew
-399984	Matthew
+399983	Matthew
+Matthew
 399986	Matthew
 Matthew
 399989	Matthew
@@ -210088,7 +212719,8 @@ Matthew
 Matthew
 399993	Matthew
 Matthew
-399999	Matthew
+399998	Matthew
+Matthew
 Matthew
 400002	Matthew
 Matthew
@@ -210132,33 +212764,36 @@ Matthew
 Matthew
 Matthew
 Matthew
-Matthew
 400094	Matthew
 400097	Matthew
 Matthew
 Matthew
 Matthew
-400102	Matthew
 Matthew
-400105	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
 400110	Matthew
 400112	Matthew
-Matthew
 400115	Matthew
 400120	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-400127	Matthew
+Matthew
+Matthew
+Matthew
 400133	Matthew
 Matthew
 400140	Matthew
-400142	Matthew
-400144	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -210168,15 +212803,15 @@ Matthew
 Matthew
 Matthew
 Matthew
-400161	Matthew
-Matthew
+400162	Matthew
 400168	Matthew
 Matthew
 Matthew
 400173	Matthew
 Matthew
 Matthew
-400177	Matthew
+Matthew
+Matthew
 400179	Matthew
 Matthew
 Matthew
@@ -210186,22 +212821,26 @@ Matthew
 Matthew
 400190	Matthew
 Matthew
-400193	Matthew
+Matthew
+Matthew
 400196	Matthew
 400198	Matthew
 Matthew
-400201	Matthew
+Matthew
+Matthew
 Matthew
 400207	Matthew
 Matthew
 Matthew
-400211	Matthew
+Matthew
+Matthew
 400216	Matthew
 Matthew
 Matthew
 400222	Matthew
 400227	Matthew
-400229	Matthew
+Matthew
+Matthew
 Matthew
 400233	Matthew
 Matthew
@@ -210213,9 +212852,11 @@ Matthew
 Matthew
 400255	Matthew
 Matthew
-400259	Matthew
+400258	Matthew
 Matthew
-400262	Matthew
+Matthew
+Matthew
+Matthew
 400264	Matthew
 Matthew
 Matthew
@@ -210262,7 +212903,8 @@ Matthew
 400337	Matthew
 Matthew
 Matthew
-400341	Matthew
+Matthew
+Matthew
 400344	Matthew
 Matthew
 Matthew
@@ -210273,7 +212915,8 @@ Matthew
 400356	Matthew
 Matthew
 Matthew
-400360	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -210285,15 +212928,18 @@ Matthew
 Matthew
 Matthew
 400377	Matthew
-400379	Matthew
+Matthew
+Matthew
 400382	Matthew
 Matthew
 400386	Matthew
-400388	Matthew
+Matthew
+Matthew
 400391	Matthew
 Matthew
 400396	Matthew
-400398	Matthew
+Matthew
+Matthew
 400400	Matthew
 Matthew
 400405	Matthew
@@ -210304,7 +212950,8 @@ Matthew
 400415	Matthew
 Matthew
 Matthew
-400421	Matthew
+400420	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -210321,7 +212968,8 @@ Matthew
 Matthew
 Matthew
 400451	Matthew
-400453	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 400457	Matthew
@@ -210348,7 +212996,9 @@ Matthew
 Matthew
 400491	Matthew
 Matthew
-400495	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 400499	Matthew
 Matthew
@@ -210358,12 +213008,10 @@ Matthew
 Matthew
 400512	Matthew
 400514	Matthew
-400518	Matthew
+400519	Matthew
 Matthew
 Matthew
-Matthew
-400523	Matthew
-Matthew
+400524	Matthew
 Matthew
 Matthew
 Matthew
@@ -210392,19 +213040,25 @@ Matthew
 Matthew
 Matthew
 400578	Matthew
-400580	Matthew
 Matthew
-400583	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 400585	Matthew
-400587	Matthew
+Matthew
+Matthew
 400592	Matthew
 400595	Matthew
 Matthew
-400600	Matthew
+400599	Matthew
+Matthew
 Matthew
 Matthew
 400605	Matthew
-400608	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 400612	Matthew
 400615	Matthew
@@ -210414,7 +213068,9 @@ Matthew
 400626	Matthew
 Matthew
 400630	Matthew
-400633	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 400638	Matthew
@@ -210424,11 +213080,13 @@ Matthew
 400645	Matthew
 400650	Matthew
 Matthew
-400654	Matthew
+400653	Matthew
+Matthew
 Matthew
 Matthew
 400659	Matthew
-400661	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -210440,7 +213098,8 @@ Matthew
 400684	Matthew
 Matthew
 400688	Matthew
-400690	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -210449,7 +213108,8 @@ Matthew
 Matthew
 Matthew
 400702	Matthew
-400704	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 400709	Matthew
@@ -210479,21 +213139,26 @@ Matthew
 Matthew
 Matthew
 400778	Matthew
-400781	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 400787	Matthew
-400789	Matthew
+Matthew
+Matthew
 400792	Matthew
 Matthew
 400795	Matthew
-400797	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 400802	Matthew
-400804	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 400809	Matthew
@@ -210508,8 +213173,7 @@ Matthew
 Matthew
 400834	Matthew
 400838	Matthew
-Matthew
-Matthew
+400840	Matthew
 Matthew
 Matthew
 400844	Matthew
@@ -210522,7 +213186,8 @@ Matthew
 Matthew
 400856	Matthew
 Matthew
-400859	Matthew
+Matthew
+Matthew
 400862	Matthew
 400866	Matthew
 400871	Matthew
@@ -210537,7 +213202,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-400899	Matthew
+400898	Matthew
+Matthew
 Matthew
 400902	Matthew
 400904	Matthew
@@ -210621,12 +213287,12 @@ Matthew
 401040	Matthew
 Matthew
 Matthew
-Matthew
 401045	Matthew
 401048	Matthew
 Matthew
 401051	Matthew
-401053	Matthew
+Matthew
+Matthew
 401056	Matthew
 Matthew
 401059	Matthew
@@ -210635,7 +213301,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-401069	Matthew
+Matthew
+Matthew
 Matthew
 401073	Matthew
 Matthew
@@ -210648,7 +213315,8 @@ Matthew
 401096	Matthew
 Matthew
 Matthew
-401102	Matthew
+401101	Matthew
+Matthew
 Matthew
 401108	Matthew
 Matthew
@@ -210658,13 +213326,16 @@ Matthew
 401121	Matthew
 Matthew
 Matthew
-401131	Matthew
+401130	Matthew
+Matthew
 Matthew
 401135	Matthew
 Matthew
 401141	Matthew
 Matthew
 401146	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 401152	Matthew
@@ -210690,7 +213361,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-401182	Matthew
+401181	Matthew
+Matthew
 Matthew
 Matthew
 401187	Matthew
@@ -210698,7 +213370,8 @@ Matthew
 401190	Matthew
 Matthew
 Matthew
-401194	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -210707,11 +213380,12 @@ Matthew
 Matthew
 Matthew
 Matthew
-401216	Matthew
+Matthew
+401215	Matthew
+Matthew
 Matthew
 Matthew
 401221	Matthew
-Matthew
 Matthew
 401225	Matthew
 401227	Matthew
@@ -210736,7 +213410,9 @@ Matthew
 Matthew
 Matthew
 Matthew
-401271	Matthew
+401269	Matthew
+Matthew
+Matthew
 401275	Matthew
 Matthew
 401278	Matthew
@@ -210765,13 +213441,16 @@ Matthew
 401324	Matthew
 401326	Matthew
 Matthew
-401329	Matthew
+Matthew
+Matthew
 Matthew
 401335	Matthew
 Matthew
 Matthew
 401346	Matthew
-401352	Matthew
+401350	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -210790,12 +213469,15 @@ Matthew
 Matthew
 401378	Matthew
 Matthew
-401382	Matthew
+401381	Matthew
+Matthew
 401386	Matthew
+Matthew
 Matthew
 401390	Matthew
 401395	Matthew
-401397	Matthew
+Matthew
+Matthew
 Matthew
 401400	Matthew
 Matthew
@@ -210810,8 +213492,10 @@ Matthew
 401416	Matthew
 Matthew
 401419	Matthew
-401421	Matthew
+Matthew
+Matthew
 401425	Matthew
+Matthew
 Matthew
 401429	Matthew
 401434	Matthew
@@ -210828,7 +213512,9 @@ Matthew
 Matthew
 Matthew
 401454	Matthew
-401457	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 401463	Matthew
@@ -210841,7 +213527,8 @@ Matthew
 Matthew
 Matthew
 401480	Matthew
-401482	Matthew
+Matthew
+Matthew
 401485	Matthew
 401487	Matthew
 Matthew
@@ -210857,7 +213544,8 @@ Matthew
 Matthew
 Matthew
 401501	Matthew
-401503	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -210866,14 +213554,17 @@ Matthew
 401513	Matthew
 Matthew
 Matthew
-401517	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 401521	Matthew
 Matthew
-401525	Matthew
+401524	Matthew
+Matthew
 401528	Matthew
-401530	Matthew
+Matthew
+Matthew
 401532	Matthew
 401534	Matthew
 Matthew
@@ -210905,12 +213596,14 @@ Matthew
 Matthew
 Matthew
 Matthew
-401585	Matthew
+401584	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-401592	Matthew
+Matthew
+401591	Matthew
+Matthew
 401595	Matthew
 Matthew
 Matthew
@@ -210922,7 +213615,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-401608	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 401615	Matthew
@@ -210930,8 +213624,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-401621	Matthew
-Matthew
+401622	Matthew
 Matthew
 Matthew
 401626	Matthew
@@ -210940,12 +213633,13 @@ Matthew
 401633	Matthew
 Matthew
 401642	Matthew
-Matthew
 401645	Matthew
 401649	Matthew
 Matthew
-401654	Matthew
-401656	Matthew
+401653	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -210966,7 +213660,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-401692	Matthew
+Matthew
+Matthew
 Matthew
 401695	Matthew
 Matthew
@@ -210993,7 +213688,8 @@ Matthew
 Matthew
 401732	Matthew
 Matthew
-401735	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 401741	Matthew
@@ -211016,7 +213712,8 @@ Matthew
 Matthew
 Matthew
 401778	Matthew
-401780	Matthew
+Matthew
+Matthew
 401783	Matthew
 401786	Matthew
 Matthew
@@ -211039,20 +213736,21 @@ Matthew
 Matthew
 Matthew
 Matthew
-Matthew
 401815	Matthew
 401817	Matthew
 Matthew
 401820	Matthew
 Matthew
 401823	Matthew
-401825	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 401829	Matthew
 401831	Matthew
 401833	Matthew
-401835	Matthew
+Matthew
+Matthew
 401842	Matthew
 401846	Matthew
 Matthew
@@ -211063,9 +213761,9 @@ Matthew
 401858	Matthew
 Matthew
 Matthew
-401862	Matthew
 Matthew
 Matthew
+401864	Matthew
 Matthew
 401868	Matthew
 401870	Matthew
@@ -211075,7 +213773,8 @@ Matthew
 Matthew
 Matthew
 401881	Matthew
-401883	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 401890	Matthew
@@ -211097,8 +213796,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-401921	Matthew
-Matthew
+401922	Matthew
 401924	Matthew
 Matthew
 Matthew
@@ -211121,7 +213819,8 @@ Matthew
 401957	Matthew
 Matthew
 Matthew
-401965	Matthew
+401964	Matthew
+Matthew
 Matthew
 Matthew
 401970	Matthew
@@ -211132,7 +213831,8 @@ Matthew
 Matthew
 401983	Matthew
 401988	Matthew
-401990	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -211148,7 +213848,8 @@ Matthew
 Matthew
 402012	Matthew
 Matthew
-402016	Matthew
+402015	Matthew
+Matthew
 Matthew
 Matthew
 402021	Matthew
@@ -211183,17 +213884,14 @@ Matthew
 Matthew
 402069	Matthew
 Matthew
-402072	Matthew
-Matthew
-Matthew
+402073	Matthew
 Matthew
 402077	Matthew
 402080	Matthew
 Matthew
 Matthew
 402086	Matthew
-402090	Matthew
-Matthew
+402091	Matthew
 402094	Matthew
 Matthew
 Matthew
@@ -211204,7 +213902,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-402107	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 402111	Matthew
@@ -211217,8 +213916,7 @@ Matthew
 Matthew
 402122	Matthew
 402124	Matthew
-402126	Matthew
-Matthew
+402127	Matthew
 402129	Matthew
 Matthew
 402133	Matthew
@@ -211281,7 +213979,8 @@ Matthew
 402229	Matthew
 402234	Matthew
 Matthew
-402238	Matthew
+402237	Matthew
+Matthew
 Matthew
 402242	Matthew
 Matthew
@@ -211289,7 +213988,8 @@ Matthew
 402247	Matthew
 Matthew
 Matthew
-402251	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 402256	Matthew
@@ -211302,7 +214002,8 @@ Matthew
 402274	Matthew
 402276	Matthew
 Matthew
-402280	Matthew
+402279	Matthew
+Matthew
 Matthew
 402283	Matthew
 402285	Matthew
@@ -211319,7 +214020,8 @@ Matthew
 402300	Matthew
 Matthew
 402308	Matthew
-402310	Matthew
+Matthew
+Matthew
 402312	Matthew
 402315	Matthew
 Matthew
@@ -211327,7 +214029,8 @@ Matthew
 Matthew
 Matthew
 402321	Matthew
-402323	Matthew
+Matthew
+Matthew
 402326	Matthew
 Matthew
 402329	Matthew
@@ -211337,7 +214040,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-402338	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 402343	Matthew
@@ -211353,11 +214057,13 @@ Matthew
 Matthew
 Matthew
 402365	Matthew
-402367	Matthew
+Matthew
+Matthew
 Matthew
 402370	Matthew
 Matthew
-402373	Matthew
+Matthew
+Matthew
 402375	Matthew
 402377	Matthew
 Matthew
@@ -211368,20 +214074,19 @@ Matthew
 402387	Matthew
 402393	Matthew
 Matthew
-402396	Matthew
 402399	Matthew
 402402	Matthew
 402406	Matthew
 Matthew
 402411	Matthew
 Matthew
-Matthew
 402415	Matthew
 402417	Matthew
 Matthew
 Matthew
 402422	Matthew
-402424	Matthew
+Matthew
+Matthew
 402426	Matthew
 Matthew
 Matthew
@@ -211403,7 +214108,6 @@ Matthew
 402462	Matthew
 Matthew
 Matthew
-Matthew
 402467	Matthew
 402469	Matthew
 Matthew
@@ -211413,17 +214117,11 @@ Matthew
 Matthew
 Matthew
 Matthew
-Matthew
 402486	Matthew
-402488	Matthew
 402492	Matthew
-402496	Matthew
-Matthew
-Matthew
-Matthew
-402502	Matthew
+402497	Matthew
+402499	Matthew
 402506	Matthew
-Matthew
 402510	Matthew
 402514	Matthew
 Matthew
@@ -211443,14 +214141,17 @@ Matthew
 Matthew
 Matthew
 Matthew
-402549	Matthew
+402548	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-402555	Matthew
 Matthew
-402558	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 402560	Matthew
 Matthew
 402565	Matthew
@@ -211463,11 +214164,11 @@ Matthew
 Matthew
 Matthew
 Matthew
-402584	Matthew
+402585	Matthew
 Matthew
 Matthew
+402589	Matthew
 Matthew
-402590	Matthew
 Matthew
 Matthew
 Matthew
@@ -211485,20 +214186,21 @@ Matthew
 Matthew
 Matthew
 402616	Matthew
-402618	Matthew
-402620	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 402625	Matthew
 Matthew
-402629	Matthew
 402631	Matthew
-402638	Matthew
+402637	Matthew
 Matthew
 Matthew
 Matthew
-402643	Matthew
 Matthew
+402644	Matthew
 402647	Matthew
 Matthew
 402651	Matthew
@@ -211510,7 +214212,8 @@ Matthew
 Matthew
 Matthew
 402662	Matthew
-402664	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 402668	Matthew
@@ -211522,14 +214225,14 @@ Matthew
 Matthew
 402681	Matthew
 Matthew
-402685	Matthew
-Matthew
-402690	Matthew
-Matthew
+402686	Matthew
+402691	Matthew
 402693	Matthew
-402695	Matthew
 Matthew
-402698	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -211565,9 +214268,11 @@ Matthew
 Matthew
 Matthew
 402757	Matthew
-402759	Matthew
 Matthew
-402762	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 402767	Matthew
 Matthew
 402773	Matthew
@@ -211579,18 +214284,20 @@ Matthew
 Matthew
 402789	Matthew
 Matthew
-402796	Matthew
+402795	Matthew
+Matthew
 Matthew
 402799	Matthew
 402803	Matthew
 Matthew
 Matthew
 Matthew
+402808	Matthew
 Matthew
-402809	Matthew
 Matthew
 Matthew
-402813	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 402820	Matthew
@@ -211599,7 +214306,8 @@ Matthew
 402827	Matthew
 Matthew
 402830	Matthew
-402832	Matthew
+Matthew
+Matthew
 402834	Matthew
 Matthew
 Matthew
@@ -211623,7 +214331,8 @@ Matthew
 Matthew
 Matthew
 402887	Matthew
-402889	Matthew
+Matthew
+Matthew
 Matthew
 402893	Matthew
 402901	Matthew
@@ -211646,17 +214355,16 @@ Matthew
 402935	Matthew
 Matthew
 Matthew
-Matthew
-Matthew
+402939	Matthew
 402941	Matthew
 Matthew
 Matthew
 Matthew
-Matthew
-Matthew
+402946	Matthew
 402948	Matthew
 Matthew
-402951	Matthew
+Matthew
+Matthew
 402954	Matthew
 Matthew
 402957	Matthew
@@ -211686,15 +214394,18 @@ Matthew
 Matthew
 Matthew
 402994	Matthew
-402996	Matthew
 Matthew
-403005	Matthew
+Matthew
+Matthew
+403004	Matthew
+Matthew
 Matthew
 Matthew
 403011	Matthew
 Matthew
 Matthew
-403015	Matthew
+Matthew
+Matthew
 Matthew
 403018	Matthew
 403022	Matthew
@@ -211730,12 +214441,15 @@ Matthew
 Matthew
 Matthew
 Matthew
-403072	Matthew
+Matthew
+Matthew
 403074	Matthew
-403076	Matthew
+Matthew
+Matthew
 Matthew
 403079	Matthew
-403083	Matthew
+403082	Matthew
+Matthew
 Matthew
 403087	Matthew
 403089	Matthew
@@ -211748,9 +214462,11 @@ Matthew
 Matthew
 Matthew
 403106	Matthew
-403108	Matthew
 Matthew
-403111	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -211758,7 +214474,8 @@ Matthew
 Matthew
 Matthew
 403124	Matthew
-403129	Matthew
+403128	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -211771,10 +214488,10 @@ Matthew
 Matthew
 Matthew
 Matthew
-403164	Matthew
 403166	Matthew
 403169	Matthew
-403171	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -211787,6 +214504,7 @@ Matthew
 Matthew
 Matthew
 403186	Matthew
+Matthew
 403189	Matthew
 403192	Matthew
 Matthew
@@ -211815,17 +214533,17 @@ Matthew
 Matthew
 Matthew
 Matthew
-403226	Matthew
 Matthew
-403230	Matthew
 Matthew
-403233	Matthew
 Matthew
+403231	Matthew
+403234	Matthew
 Matthew
 Matthew
 403241	Matthew
 Matthew
-403245	Matthew
+403244	Matthew
+Matthew
 403250	Matthew
 Matthew
 Matthew
@@ -211837,18 +214555,15 @@ Matthew
 Matthew
 Matthew
 Matthew
-403262	Matthew
-Matthew
+403263	Matthew
 403266	Matthew
 Matthew
 403269	Matthew
-403271	Matthew
-Matthew
+403272	Matthew
 Matthew
 Matthew
 403276	Matthew
-Matthew
-Matthew
+403278	Matthew
 403281	Matthew
 Matthew
 Matthew
@@ -211872,17 +214587,18 @@ Matthew
 Matthew
 Matthew
 403317	Matthew
-403320	Matthew
+403319	Matthew
 Matthew
-403324	Matthew
+Matthew
 403326	Matthew
 403328	Matthew
 403330	Matthew
-403332	Matthew
+403333	Matthew
 Matthew
 Matthew
 Matthew
-403338	Matthew
+Matthew
+Matthew
 Matthew
 403341	Matthew
 Matthew
@@ -211896,14 +214612,16 @@ Matthew
 Matthew
 403359	Matthew
 Matthew
-Matthew
 403363	Matthew
-403365	Matthew
 Matthew
-403369	Matthew
+Matthew
+Matthew
+403368	Matthew
+Matthew
 403371	Matthew
 403373	Matthew
-403375	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -211940,7 +214658,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-403440	Matthew
+Matthew
+Matthew
 Matthew
 403443	Matthew
 Matthew
@@ -211951,7 +214670,8 @@ Matthew
 403455	Matthew
 Matthew
 403460	Matthew
-403462	Matthew
+Matthew
+Matthew
 Matthew
 403465	Matthew
 Matthew
@@ -211969,7 +214689,8 @@ Matthew
 Matthew
 Matthew
 403492	Matthew
-403494	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 403498	Matthew
@@ -211997,7 +214718,9 @@ Matthew
 Matthew
 Matthew
 Matthew
-403537	Matthew
+403535	Matthew
+Matthew
+Matthew
 403539	Matthew
 Matthew
 Matthew
@@ -212044,7 +214767,9 @@ Matthew
 403597	Matthew
 Matthew
 Matthew
+403602	Matthew
 403604	Matthew
+403606	Matthew
 403608	Matthew
 403611	Matthew
 Matthew
@@ -212086,7 +214811,8 @@ Matthew
 403669	Matthew
 Matthew
 403672	Matthew
-403674	Matthew
+Matthew
+Matthew
 403676	Matthew
 Matthew
 403683	Matthew
@@ -212096,8 +214822,7 @@ Matthew
 403692	Matthew
 403694	Matthew
 Matthew
-403698	Matthew
-Matthew
+403699	Matthew
 Matthew
 403702	Matthew
 Matthew
@@ -212116,7 +214841,8 @@ Matthew
 Matthew
 403732	Matthew
 403737	Matthew
-403739	Matthew
+Matthew
+Matthew
 403741	Matthew
 403746	Matthew
 Matthew
@@ -212134,16 +214860,17 @@ Matthew
 Matthew
 403768	Matthew
 403771	Matthew
-403773	Matthew
-Matthew
+403774	Matthew
 403776	Matthew
 Matthew
 403781	Matthew
-403783	Matthew
+Matthew
+Matthew
 Matthew
 403789	Matthew
 Matthew
-403792	Matthew
+Matthew
+Matthew
 Matthew
 403798	Matthew
 403800	Matthew
@@ -212175,6 +214902,8 @@ Matthew
 Matthew
 Matthew
 Matthew
+Matthew
+403862	Matthew
 403864	Matthew
 403869	Matthew
 Matthew
@@ -212182,8 +214911,7 @@ Matthew
 403875	Matthew
 Matthew
 403880	Matthew
-403883	Matthew
-Matthew
+403884	Matthew
 Matthew
 Matthew
 Matthew
@@ -212192,7 +214920,6 @@ Matthew
 Matthew
 Matthew
 403894	Matthew
-Matthew
 403897	Matthew
 Matthew
 Matthew
@@ -212202,12 +214929,11 @@ Matthew
 Matthew
 Matthew
 Matthew
-403914	Matthew
 403916	Matthew
-403925	Matthew
 403927	Matthew
 403929	Matthew
-403931	Matthew
+Matthew
+Matthew
 Matthew
 403939	Matthew
 Matthew
@@ -212216,7 +214942,8 @@ Matthew
 403946	Matthew
 Matthew
 403949	Matthew
-403951	Matthew
+Matthew
+Matthew
 Matthew
 403959	Matthew
 Matthew
@@ -212234,7 +214961,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-403989	Matthew
+Matthew
+Matthew
 403993	Matthew
 Matthew
 Matthew
@@ -212256,10 +214984,8 @@ Matthew
 404023	Matthew
 404029	Matthew
 Matthew
-404032	Matthew
 404034	Matthew
 404037	Matthew
-Matthew
 Matthew
 Matthew
 Matthew
@@ -212279,7 +215005,7 @@ Matthew
 404064	Matthew
 Matthew
 Matthew
-404073	Matthew
+404072	Matthew
 Matthew
 Matthew
 404078	Matthew
@@ -212314,19 +215040,22 @@ Matthew
 404133	Matthew
 Matthew
 Matthew
-404137	Matthew
+Matthew
+Matthew
 404140	Matthew
 Matthew
 Matthew
 404144	Matthew
-404147	Matthew
+404146	Matthew
+Matthew
 404150	Matthew
 404152	Matthew
 404154	Matthew
 404156	Matthew
 Matthew
 404159	Matthew
-404162	Matthew
+404161	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -212341,7 +215070,8 @@ Matthew
 Matthew
 404182	Matthew
 404187	Matthew
-404189	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -212366,13 +215096,15 @@ Matthew
 404219	Matthew
 Matthew
 Matthew
-404223	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-404230	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 404233	Matthew
 404235	Matthew
@@ -212396,7 +215128,8 @@ Matthew
 Matthew
 Matthew
 404267	Matthew
-404269	Matthew
+Matthew
+Matthew
 Matthew
 404275	Matthew
 Matthew
@@ -212414,11 +215147,13 @@ Matthew
 Matthew
 Matthew
 Matthew
-404299	Matthew
+Matthew
+Matthew
 404302	Matthew
 Matthew
 Matthew
-404306	Matthew
+Matthew
+Matthew
 404309	Matthew
 Matthew
 Matthew
@@ -212427,8 +215162,7 @@ Matthew
 Matthew
 Matthew
 404317	Matthew
-404319	Matthew
-Matthew
+404320	Matthew
 Matthew
 Matthew
 Matthew
@@ -212442,7 +215176,8 @@ Matthew
 Matthew
 404335	Matthew
 Matthew
-404338	Matthew
+Matthew
+Matthew
 Matthew
 404343	Matthew
 Matthew
@@ -212461,7 +215196,8 @@ Matthew
 Matthew
 Matthew
 404367	Matthew
-404369	Matthew
+Matthew
+Matthew
 404371	Matthew
 Matthew
 404374	Matthew
@@ -212472,8 +215208,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-Matthew
-Matthew
+404385	Matthew
 404388	Matthew
 Matthew
 Matthew
@@ -212484,7 +215219,6 @@ Matthew
 Matthew
 404399	Matthew
 Matthew
-Matthew
 404405	Matthew
 404410	Matthew
 Matthew
@@ -212493,11 +215227,15 @@ Matthew
 Matthew
 Matthew
 Matthew
-404421	Matthew
-404423	Matthew
+404420	Matthew
+Matthew
+Matthew
+Matthew
 404425	Matthew
 Matthew
-404429	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 404432	Matthew
 Matthew
@@ -212538,12 +215276,14 @@ Matthew
 404496	Matthew
 Matthew
 404499	Matthew
-404501	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-404507	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 404513	Matthew
@@ -212560,6 +215300,7 @@ Matthew
 404539	Matthew
 404541	Matthew
 Matthew
+404546	Matthew
 404548	Matthew
 Matthew
 404553	Matthew
@@ -212578,7 +215319,8 @@ Matthew
 Matthew
 404577	Matthew
 404579	Matthew
-404584	Matthew
+404583	Matthew
+Matthew
 Matthew
 404590	Matthew
 Matthew
@@ -212631,14 +215373,12 @@ Matthew
 Matthew
 404694	Matthew
 404696	Matthew
-404701	Matthew
 404703	Matthew
 Matthew
 Matthew
 404707	Matthew
 Matthew
 404713	Matthew
-Matthew
 404716	Matthew
 404720	Matthew
 404722	Matthew
@@ -212647,8 +215387,10 @@ Matthew
 Matthew
 Matthew
 Matthew
+404737	Matthew
 404739	Matthew
-404743	Matthew
+404742	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -212668,11 +215410,15 @@ Matthew
 Matthew
 Matthew
 Matthew
-404782	Matthew
+404779	Matthew
+404781	Matthew
+Matthew
 404785	Matthew
 Matthew
-404790	Matthew
-404792	Matthew
+404789	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 404797	Matthew
@@ -212687,7 +215433,6 @@ Matthew
 404819	Matthew
 Matthew
 404825	Matthew
-Matthew
 404828	Matthew
 404832	Matthew
 404834	Matthew
@@ -212696,13 +215441,14 @@ Matthew
 Matthew
 Matthew
 404842	Matthew
+404846	Matthew
 404848	Matthew
-404852	Matthew
+404853	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-404858	Matthew
+Matthew
 Matthew
 404863	Matthew
 Matthew
@@ -212710,7 +215456,6 @@ Matthew
 Matthew
 404873	Matthew
 404875	Matthew
-Matthew
 Matthew
 Matthew
 Matthew
@@ -212735,7 +215480,8 @@ Matthew
 Matthew
 404915	Matthew
 Matthew
-404919	Matthew
+404918	Matthew
+Matthew
 Matthew
 Matthew
 404925	Matthew
@@ -212745,7 +215491,8 @@ Matthew
 Matthew
 404944	Matthew
 Matthew
-404949	Matthew
+404948	Matthew
+Matthew
 404952	Matthew
 Matthew
 404956	Matthew
@@ -212761,21 +215508,25 @@ Matthew
 404980	Matthew
 Matthew
 Matthew
-404984	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 404988	Matthew
 Matthew
 404991	Matthew
-404993	Matthew
-404995	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 404998	Matthew
 405004	Matthew
 Matthew
 405007	Matthew
 Matthew
 405010	Matthew
-405012	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -212784,7 +215535,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-405031	Matthew
 405033	Matthew
 Matthew
 Matthew
@@ -212823,10 +215573,12 @@ Matthew
 405091	Matthew
 Matthew
 405095	Matthew
-405097	Matthew
+Matthew
+Matthew
 Matthew
 405100	Matthew
-405102	Matthew
+Matthew
+Matthew
 Matthew
 405105	Matthew
 Matthew
@@ -212837,13 +215589,14 @@ Matthew
 Matthew
 405116	Matthew
 Matthew
-405120	Matthew
+405119	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-405127	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -212857,7 +215610,6 @@ Matthew
 Matthew
 Matthew
 405145	Matthew
-Matthew
 405149	Matthew
 405152	Matthew
 405155	Matthew
@@ -212877,8 +215629,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-405187	Matthew
-Matthew
+405188	Matthew
 Matthew
 Matthew
 405192	Matthew
@@ -212890,10 +215641,12 @@ Matthew
 Matthew
 405210	Matthew
 Matthew
-405213	Matthew
 Matthew
 Matthew
-405217	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 405222	Matthew
 405225	Matthew
 Matthew
@@ -212913,7 +215666,9 @@ Matthew
 405252	Matthew
 Matthew
 405255	Matthew
-405258	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -212954,7 +215709,8 @@ Matthew
 Matthew
 Matthew
 405312	Matthew
-405314	Matthew
+Matthew
+Matthew
 405317	Matthew
 405319	Matthew
 Matthew
@@ -212979,8 +215735,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-405365	Matthew
-Matthew
+405366	Matthew
 Matthew
 Matthew
 405375	Matthew
@@ -212994,23 +215749,21 @@ Matthew
 405392	Matthew
 Matthew
 405396	Matthew
-Matthew
 405399	Matthew
 405401	Matthew
 Matthew
 Matthew
 Matthew
+405406	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-Matthew
-405411	Matthew
 Matthew
 Matthew
 405415	Matthew
-405418	Matthew
-405421	Matthew
+405417	Matthew
+Matthew
 405424	Matthew
 405427	Matthew
 Matthew
@@ -213026,7 +215779,8 @@ Matthew
 405453	Matthew
 Matthew
 Matthew
-405458	Matthew
+405457	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -213047,7 +215801,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-405491	Matthew
+405490	Matthew
+Matthew
 405496	Matthew
 Matthew
 405500	Matthew
@@ -213071,7 +215826,8 @@ Matthew
 405527	Matthew
 Matthew
 405530	Matthew
-405532	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 405539	Matthew
@@ -213087,13 +215843,13 @@ Matthew
 405558	Matthew
 Matthew
 Matthew
-405565	Matthew
-Matthew
+405566	Matthew
 Matthew
 Matthew
 405570	Matthew
 405574	Matthew
-405576	Matthew
+Matthew
+Matthew
 Matthew
 405580	Matthew
 405583	Matthew
@@ -213102,13 +215858,15 @@ Matthew
 Matthew
 Matthew
 405590	Matthew
-405592	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 405596	Matthew
 Matthew
 Matthew
-405600	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 405607	Matthew
@@ -213123,12 +215881,14 @@ Matthew
 Matthew
 Matthew
 Matthew
-405621	Matthew
+Matthew
+Matthew
 405625	Matthew
 Matthew
 405628	Matthew
 Matthew
-405631	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -213136,9 +215896,11 @@ Matthew
 Matthew
 405647	Matthew
 Matthew
-405651	Matthew
+405650	Matthew
 Matthew
-405657	Matthew
+Matthew
+405656	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -213173,7 +215935,8 @@ Matthew
 405713	Matthew
 Matthew
 405716	Matthew
-405721	Matthew
+405720	Matthew
+Matthew
 405724	Matthew
 405726	Matthew
 405728	Matthew
@@ -213194,14 +215957,12 @@ Matthew
 405752	Matthew
 Matthew
 Matthew
-Matthew
-Matthew
+405756	Matthew
 405758	Matthew
 Matthew
 Matthew
 Matthew
 405763	Matthew
-405766	Matthew
 405769	Matthew
 405771	Matthew
 Matthew
@@ -213222,8 +215983,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-405803	Matthew
-Matthew
+405804	Matthew
 Matthew
 Matthew
 Matthew
@@ -213233,21 +215993,23 @@ Matthew
 405817	Matthew
 Matthew
 Matthew
-405821	Matthew
-Matthew
+405822	Matthew
 Matthew
 Matthew
 405828	Matthew
 Matthew
 Matthew
-405832	Matthew
 Matthew
-405835	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 405839	Matthew
 Matthew
-405842	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -213258,7 +216020,6 @@ Matthew
 405854	Matthew
 Matthew
 405859	Matthew
-Matthew
 Matthew
 405863	Matthew
 Matthew
@@ -213276,8 +216037,7 @@ Matthew
 Matthew
 405883	Matthew
 405885	Matthew
-405890	Matthew
-Matthew
+405891	Matthew
 Matthew
 Matthew
 405895	Matthew
@@ -213305,15 +216065,13 @@ Matthew
 Matthew
 405934	Matthew
 Matthew
-405940	Matthew
-Matthew
+405941	Matthew
 Matthew
 Matthew
 405945	Matthew
 Matthew
 405951	Matthew
-405956	Matthew
-Matthew
+405957	Matthew
 Matthew
 Matthew
 Matthew
@@ -213328,8 +216086,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-Matthew
-Matthew
+405988	Matthew
 405991	Matthew
 Matthew
 Matthew
@@ -213343,12 +216100,12 @@ Matthew
 Matthew
 Matthew
 Matthew
-406013	Matthew
+406012	Matthew
+Matthew
 Matthew
 406016	Matthew
 406018	Matthew
-Matthew
-Matthew
+406020	Matthew
 Matthew
 Matthew
 406029	Matthew
@@ -213363,12 +216120,16 @@ Matthew
 406044	Matthew
 Matthew
 406051	Matthew
-406053	Matthew
-406055	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 406061	Matthew
 Matthew
-406064	Matthew
-406071	Matthew
+Matthew
+Matthew
+406070	Matthew
+Matthew
 406073	Matthew
 Matthew
 Matthew
@@ -213377,7 +216138,8 @@ Matthew
 406081	Matthew
 406084	Matthew
 Matthew
-406087	Matthew
+Matthew
+Matthew
 406089	Matthew
 Matthew
 406093	Matthew
@@ -213392,20 +216154,24 @@ Matthew
 Matthew
 406106	Matthew
 Matthew
-406109	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 406113	Matthew
 Matthew
 Matthew
-406119	Matthew
+406117	Matthew
+Matthew
+Matthew
 406121	Matthew
 Matthew
 406124	Matthew
 406126	Matthew
 406129	Matthew
 406132	Matthew
-406137	Matthew
+406136	Matthew
+Matthew
 Matthew
 Matthew
 406141	Matthew
@@ -213415,12 +216181,15 @@ Matthew
 406147	Matthew
 Matthew
 Matthew
-406151	Matthew
-406153	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 406157	Matthew
 Matthew
-406160	Matthew
+Matthew
+Matthew
 406164	Matthew
 Matthew
 Matthew
@@ -213437,6 +216206,7 @@ Matthew
 406196	Matthew
 Matthew
 406201	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -213463,13 +216233,13 @@ Matthew
 Matthew
 406256	Matthew
 Matthew
-Matthew
-Matthew
+406259	Matthew
 Matthew
 406262	Matthew
 Matthew
 Matthew
-406268	Matthew
+406267	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -213488,7 +216258,8 @@ Matthew
 406286	Matthew
 Matthew
 406290	Matthew
-406292	Matthew
+Matthew
+Matthew
 406297	Matthew
 406299	Matthew
 Matthew
@@ -213512,7 +216283,8 @@ Matthew
 406325	Matthew
 Matthew
 406329	Matthew
-406331	Matthew
+Matthew
+Matthew
 406334	Matthew
 406336	Matthew
 Matthew
@@ -213535,7 +216307,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-406368	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 406372	Matthew
@@ -213547,15 +216320,18 @@ Matthew
 406384	Matthew
 Matthew
 406389	Matthew
-406391	Matthew
+Matthew
+Matthew
 406394	Matthew
 406396	Matthew
 Matthew
 Matthew
-406400	Matthew
+Matthew
+Matthew
 Matthew
 406404	Matthew
-406406	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -213578,7 +216354,8 @@ Matthew
 406435	Matthew
 Matthew
 Matthew
-406439	Matthew
+Matthew
+Matthew
 406442	Matthew
 406444	Matthew
 Matthew
@@ -213594,12 +216371,15 @@ Matthew
 406466	Matthew
 Matthew
 Matthew
-406470	Matthew
+Matthew
+Matthew
 406474	Matthew
-406476	Matthew
 Matthew
 Matthew
-406480	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 406485	Matthew
 Matthew
@@ -213609,7 +216389,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-406496	Matthew
+Matthew
+Matthew
 406499	Matthew
 406502	Matthew
 406506	Matthew
@@ -213620,7 +216401,8 @@ Matthew
 406515	Matthew
 Matthew
 Matthew
-406519	Matthew
+Matthew
+Matthew
 406521	Matthew
 Matthew
 Matthew
@@ -213632,18 +216414,21 @@ Matthew
 406533	Matthew
 Matthew
 Matthew
-406537	Matthew
+Matthew
+Matthew
 406540	Matthew
 406542	Matthew
-406544	Matthew
 Matthew
-406547	Matthew
-406552	Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+406553	Matthew
 Matthew
 406559	Matthew
 406562	Matthew
-406564	Matthew
+Matthew
+Matthew
 Matthew
 406568	Matthew
 406570	Matthew
@@ -213663,8 +216448,7 @@ Matthew
 Matthew
 406592	Matthew
 Matthew
-406595	Matthew
-Matthew
+406596	Matthew
 Matthew
 406603	Matthew
 Matthew
@@ -213675,9 +216459,11 @@ Matthew
 Matthew
 406616	Matthew
 Matthew
-406619	Matthew
 Matthew
-406622	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 406624	Matthew
 Matthew
 Matthew
@@ -213687,9 +216473,11 @@ Matthew
 Matthew
 406646	Matthew
 Matthew
-406649	Matthew
+Matthew
+Matthew
 406655	Matthew
-406657	Matthew
+Matthew
+Matthew
 Matthew
 406663	Matthew
 Matthew
@@ -213706,9 +216494,9 @@ Matthew
 Matthew
 406689	Matthew
 Matthew
-406693	Matthew
-406696	Matthew
+406692	Matthew
 Matthew
+406696	Matthew
 Matthew
 Matthew
 Matthew
@@ -213720,7 +216508,6 @@ Matthew
 Matthew
 Matthew
 406716	Matthew
-Matthew
 Matthew
 Matthew
 Matthew
@@ -213759,7 +216546,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-406796	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -213775,52 +216563,60 @@ Matthew
 406820	Matthew
 Matthew
 406825	Matthew
-406827	Matthew
 Matthew
-406832	Matthew
 Matthew
-406836	Matthew
 Matthew
-406839	Matthew
+406831	Matthew
+Matthew
+Matthew
+406837	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 406844	Matthew
-406847	Matthew
 Matthew
 Matthew
-406852	Matthew
 Matthew
+Matthew
+Matthew
+406853	Matthew
 Matthew
 Matthew
 406861	Matthew
-406863	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 406867	Matthew
 Matthew
 Matthew
 Matthew
-406874	Matthew
 406876	Matthew
 406878	Matthew
 Matthew
-406881	Matthew
-406883	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 406888	Matthew
 Matthew
-406891	Matthew
+Matthew
+Matthew
 406896	Matthew
 Matthew
 Matthew
-406900	Matthew
 Matthew
-406910	Matthew
+Matthew
+Matthew
+406908	Matthew
+Matthew
+Matthew
 Matthew
 406918	Matthew
 Matthew
 Matthew
-406922	Matthew
-Matthew
+406923	Matthew
 406929	Matthew
 Matthew
 406932	Matthew
@@ -213834,14 +216630,17 @@ Matthew
 Matthew
 406948	Matthew
 406951	Matthew
-406958	Matthew
+406957	Matthew
+Matthew
 Matthew
 406963	Matthew
-406965	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 406971	Matthew
-406973	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 406977	Matthew
@@ -213868,12 +216667,14 @@ Matthew
 Matthew
 Matthew
 Matthew
+407016	Matthew
 407020	Matthew
 407022	Matthew
 Matthew
 Matthew
 Matthew
-407027	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -213887,7 +216688,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-407046	Matthew
+Matthew
+Matthew
 Matthew
 407049	Matthew
 Matthew
@@ -213928,7 +216730,8 @@ Matthew
 407114	Matthew
 Matthew
 Matthew
-407118	Matthew
+Matthew
+Matthew
 Matthew
 407123	Matthew
 Matthew
@@ -213956,12 +216759,10 @@ Matthew
 Matthew
 Matthew
 Matthew
-407165	Matthew
-Matthew
+407166	Matthew
 Matthew
 Matthew
 407171	Matthew
-407173	Matthew
 407175	Matthew
 407177	Matthew
 Matthew
@@ -213990,11 +216791,14 @@ Matthew
 Matthew
 Matthew
 Matthew
-407222	Matthew
+Matthew
+Matthew
+Matthew
 407227	Matthew
 Matthew
 Matthew
-407232	Matthew
+407231	Matthew
+Matthew
 Matthew
 407240	Matthew
 Matthew
@@ -214005,18 +216809,22 @@ Matthew
 Matthew
 Matthew
 Matthew
-407253	Matthew
+Matthew
+Matthew
 407256	Matthew
 Matthew
-407259	Matthew
+Matthew
+Matthew
 407262	Matthew
 Matthew
-407265	Matthew
+Matthew
+Matthew
 407270	Matthew
 Matthew
 Matthew
 Matthew
-407275	Matthew
+Matthew
+Matthew
 Matthew
 407278	Matthew
 407280	Matthew
@@ -214025,7 +216833,8 @@ Matthew
 Matthew
 407285	Matthew
 Matthew
-407289	Matthew
+407288	Matthew
+Matthew
 Matthew
 407292	Matthew
 Matthew
@@ -214048,31 +216857,36 @@ Matthew
 407319	Matthew
 407322	Matthew
 407324	Matthew
-407326	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 407331	Matthew
 407333	Matthew
 Matthew
 Matthew
-407337	Matthew
+Matthew
+Matthew
 407339	Matthew
-407342	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
 407347	Matthew
-Matthew
 407350	Matthew
 407352	Matthew
 Matthew
 407356	Matthew
 Matthew
 Matthew
-407361	Matthew
+407360	Matthew
+Matthew
 407363	Matthew
 Matthew
-407367	Matthew
+407366	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214087,7 +216901,8 @@ Matthew
 Matthew
 Matthew
 407384	Matthew
-407386	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214122,7 +216937,8 @@ Matthew
 Matthew
 407442	Matthew
 Matthew
-407446	Matthew
+407445	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214141,7 +216957,8 @@ Matthew
 Matthew
 407476	Matthew
 407481	Matthew
-407483	Matthew
+Matthew
+Matthew
 407485	Matthew
 407487	Matthew
 Matthew
@@ -214158,6 +216975,7 @@ Matthew
 Matthew
 Matthew
 Matthew
+407510	Matthew
 407512	Matthew
 407514	Matthew
 407518	Matthew
@@ -214172,7 +216990,8 @@ Matthew
 407540	Matthew
 407544	Matthew
 Matthew
-407547	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214194,7 +217013,8 @@ Matthew
 Matthew
 Matthew
 407577	Matthew
-407579	Matthew
+Matthew
+Matthew
 Matthew
 407587	Matthew
 407589	Matthew
@@ -214219,12 +217039,12 @@ Matthew
 Matthew
 407629	Matthew
 Matthew
-Matthew
 407635	Matthew
 407637	Matthew
 Matthew
 Matthew
-407642	Matthew
+407641	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214259,14 +217079,14 @@ Matthew
 407690	Matthew
 407692	Matthew
 407695	Matthew
-407700	Matthew
-Matthew
+407701	Matthew
 Matthew
 407704	Matthew
 407706	Matthew
 Matthew
 407710	Matthew
-407712	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214294,7 +217114,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-407765	Matthew
+407764	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214323,12 +217144,15 @@ Matthew
 Matthew
 407813	Matthew
 407815	Matthew
-407817	Matthew
-407819	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 407823	Matthew
 Matthew
-407826	Matthew
+Matthew
+Matthew
 Matthew
 407830	Matthew
 407835	Matthew
@@ -214337,7 +217161,8 @@ Matthew
 Matthew
 Matthew
 407845	Matthew
-407847	Matthew
+Matthew
+Matthew
 407849	Matthew
 407851	Matthew
 Matthew
@@ -214378,13 +217203,15 @@ Matthew
 Matthew
 Matthew
 Matthew
-407907	Matthew
+Matthew
+Matthew
 407909	Matthew
 407911	Matthew
 Matthew
 407918	Matthew
 407920	Matthew
-407922	Matthew
+Matthew
+Matthew
 Matthew
 407929	Matthew
 Matthew
@@ -214394,7 +217221,8 @@ Matthew
 407936	Matthew
 Matthew
 Matthew
-407940	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214402,7 +217230,8 @@ Matthew
 407947	Matthew
 Matthew
 Matthew
-407951	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214418,10 +217247,10 @@ Matthew
 Matthew
 407978	Matthew
 407980	Matthew
-407982	Matthew
 Matthew
 Matthew
-407986	Matthew
+Matthew
+Matthew
 407988	Matthew
 407990	Matthew
 Matthew
@@ -214436,21 +217265,22 @@ Matthew
 Matthew
 408015	Matthew
 Matthew
-408019	Matthew
+408020	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-408027	Matthew
+Matthew
 408030	Matthew
 Matthew
 Matthew
 Matthew
 408036	Matthew
 408039	Matthew
-408041	Matthew
+Matthew
+Matthew
 408043	Matthew
 408046	Matthew
 Matthew
@@ -214467,7 +217297,6 @@ Matthew
 408070	Matthew
 408073	Matthew
 Matthew
-Matthew
 408079	Matthew
 408082	Matthew
 Matthew
@@ -214480,27 +217309,27 @@ Matthew
 408096	Matthew
 Matthew
 Matthew
-Matthew
-Matthew
+408100	Matthew
 408103	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-Matthew
 408111	Matthew
-408113	Matthew
-408116	Matthew
+408115	Matthew
+Matthew
 Matthew
 408120	Matthew
-408122	Matthew
+Matthew
+Matthew
 408125	Matthew
 Matthew
 Matthew
 408130	Matthew
 Matthew
-408133	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214508,8 +217337,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-408144	Matthew
-Matthew
+408145	Matthew
 Matthew
 Matthew
 Matthew
@@ -214541,14 +217369,17 @@ Matthew
 408192	Matthew
 Matthew
 Matthew
-408197	Matthew
+408196	Matthew
 Matthew
-408200	Matthew
+Matthew
+Matthew
+Matthew
 408202	Matthew
 Matthew
 Matthew
 408206	Matthew
-408210	Matthew
+408209	Matthew
+Matthew
 Matthew
 408215	Matthew
 Matthew
@@ -214556,12 +217387,13 @@ Matthew
 408220	Matthew
 Matthew
 Matthew
-408225	Matthew
+408224	Matthew
+Matthew
 408228	Matthew
 Matthew
-408231	Matthew
-408234	Matthew
 Matthew
+Matthew
+408234	Matthew
 Matthew
 408238	Matthew
 408242	Matthew
@@ -214572,7 +217404,8 @@ Matthew
 Matthew
 Matthew
 408255	Matthew
-408258	Matthew
+408257	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214583,14 +217416,17 @@ Matthew
 408274	Matthew
 Matthew
 408277	Matthew
-408280	Matthew
+408279	Matthew
+Matthew
 Matthew
 Matthew
 408284	Matthew
 Matthew
 Matthew
 408288	Matthew
-408291	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 408295	Matthew
@@ -214624,7 +217460,8 @@ Matthew
 Matthew
 Matthew
 408337	Matthew
-408339	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214633,7 +217470,7 @@ Matthew
 408351	Matthew
 Matthew
 408354	Matthew
-408357	Matthew
+408356	Matthew
 Matthew
 Matthew
 Matthew
@@ -214646,7 +217483,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-Matthew
 408383	Matthew
 408385	Matthew
 Matthew
@@ -214655,7 +217491,8 @@ Matthew
 Matthew
 Matthew
 408392	Matthew
-408394	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214672,7 +217509,8 @@ Matthew
 Matthew
 408417	Matthew
 408420	Matthew
-408422	Matthew
+Matthew
+Matthew
 408426	Matthew
 Matthew
 Matthew
@@ -214691,7 +217529,8 @@ Matthew
 408450	Matthew
 Matthew
 408453	Matthew
-408457	Matthew
+408456	Matthew
+Matthew
 408459	Matthew
 Matthew
 Matthew
@@ -214713,12 +217552,15 @@ Matthew
 Matthew
 Matthew
 Matthew
-408493	Matthew
+408492	Matthew
+Matthew
 408498	Matthew
 408500	Matthew
 408503	Matthew
 Matthew
-408507	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 408512	Matthew
@@ -214738,7 +217580,8 @@ Matthew
 Matthew
 408541	Matthew
 Matthew
-408546	Matthew
+Matthew
+408545	Matthew
 Matthew
 Matthew
 Matthew
@@ -214747,7 +217590,8 @@ Matthew
 408556	Matthew
 Matthew
 408559	Matthew
-408561	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 408565	Matthew
@@ -214757,7 +217601,8 @@ Matthew
 Matthew
 408573	Matthew
 Matthew
-408580	Matthew
+408579	Matthew
+Matthew
 408583	Matthew
 Matthew
 Matthew
@@ -214772,10 +217617,10 @@ Matthew
 Matthew
 Matthew
 Matthew
-408603	Matthew
+Matthew
+Matthew
 Matthew
 408607	Matthew
-Matthew
 408611	Matthew
 408613	Matthew
 Matthew
@@ -214811,7 +217656,8 @@ Matthew
 Matthew
 408673	Matthew
 Matthew
-408676	Matthew
+Matthew
+Matthew
 408679	Matthew
 Matthew
 Matthew
@@ -214838,10 +217684,8 @@ Matthew
 Matthew
 408717	Matthew
 Matthew
-408720	Matthew
-Matthew
+408721	Matthew
 408726	Matthew
-Matthew
 408729	Matthew
 408733	Matthew
 Matthew
@@ -214885,7 +217729,6 @@ Matthew
 Matthew
 Matthew
 Matthew
-Matthew
 408798	Matthew
 408800	Matthew
 Matthew
@@ -214911,7 +217754,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-408833	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -214933,7 +217777,8 @@ Matthew
 408870	Matthew
 Matthew
 408874	Matthew
-408876	Matthew
+Matthew
+Matthew
 408882	Matthew
 Matthew
 Matthew
@@ -214951,7 +217796,8 @@ Matthew
 Matthew
 Matthew
 408911	Matthew
-408913	Matthew
+Matthew
+Matthew
 408918	Matthew
 Matthew
 Matthew
@@ -214992,7 +217838,8 @@ Matthew
 409008	Matthew
 Matthew
 409011	Matthew
-409013	Matthew
+Matthew
+Matthew
 409015	Matthew
 409017	Matthew
 Matthew
@@ -215004,12 +217851,14 @@ Matthew
 Matthew
 409030	Matthew
 Matthew
-409035	Matthew
+409034	Matthew
+Matthew
 409038	Matthew
 Matthew
 Matthew
 409046	Matthew
-409048	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 409052	Matthew
@@ -215020,15 +217869,15 @@ Matthew
 Matthew
 409061	Matthew
 Matthew
-409064	Matthew
 409066	Matthew
 409069	Matthew
 Matthew
-409074	Matthew
 409076	Matthew
 409078	Matthew
-409080	Matthew
-409083	Matthew
+Matthew
+Matthew
+409082	Matthew
+Matthew
 409085	Matthew
 Matthew
 Matthew
@@ -215076,16 +217925,17 @@ Matthew
 409178	Matthew
 Matthew
 409183	Matthew
-409185	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-409192	Matthew
 Matthew
-409195	Matthew
 Matthew
+Matthew
+Matthew
+Matthew
+409196	Matthew
 Matthew
 Matthew
 409204	Matthew
@@ -215097,11 +217947,9 @@ Matthew
 Matthew
 Matthew
 Matthew
-409215	Matthew
-Matthew
+409216	Matthew
 Matthew
 409219	Matthew
-Matthew
 409222	Matthew
 409224	Matthew
 Matthew
@@ -215109,13 +217957,17 @@ Matthew
 Matthew
 Matthew
 409232	Matthew
+Matthew
 409236	Matthew
 Matthew
-409239	Matthew
-409241	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 409244	Matthew
 Matthew
-409247	Matthew
+Matthew
+Matthew
 409252	Matthew
 Matthew
 409255	Matthew
@@ -215126,11 +217978,14 @@ Matthew
 409264	Matthew
 Matthew
 409267	Matthew
-409269	Matthew
-409271	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 409274	Matthew
 Matthew
-409277	Matthew
+Matthew
+Matthew
 409283	Matthew
 Matthew
 Matthew
@@ -215158,10 +218013,10 @@ Matthew
 409332	Matthew
 409334	Matthew
 Matthew
-409338	Matthew
+409337	Matthew
 Matthew
-409341	Matthew
 Matthew
+409342	Matthew
 Matthew
 409345	Matthew
 409348	Matthew
@@ -215172,38 +218027,38 @@ Matthew
 409362	Matthew
 409364	Matthew
 Matthew
-409367	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 409372	Matthew
-409374	Matthew
+Matthew
+Matthew
 409376	Matthew
 Matthew
 409379	Matthew
 Matthew
-409382	Matthew
-Matthew
+409383	Matthew
 Matthew
 409386	Matthew
-409389	Matthew
 409391	Matthew
 409393	Matthew
 Matthew
-409396	Matthew
-Matthew
+409397	Matthew
 Matthew
 Matthew
 409401	Matthew
 409405	Matthew
 Matthew
-409411	Matthew
+409410	Matthew
 Matthew
-409414	Matthew
+Matthew
+409415	Matthew
 Matthew
 Matthew
 Matthew
 409420	Matthew
-409422	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -215214,19 +218069,19 @@ Matthew
 Matthew
 409436	Matthew
 Matthew
+409439	Matthew
 Matthew
 Matthew
-409441	Matthew
 Matthew
-409444	Matthew
-Matthew
+409445	Matthew
 Matthew
 409449	Matthew
 409453	Matthew
 Matthew
 409458	Matthew
 Matthew
-409461	Matthew
+Matthew
+Matthew
 Matthew
 409468	Matthew
 Matthew
@@ -215252,19 +218107,23 @@ Matthew
 Matthew
 409521	Matthew
 Matthew
+409525	Matthew
 409527	Matthew
+409539	Matthew
 409542	Matthew
-409544	Matthew
 409546	Matthew
-409549	Matthew
-Matthew
-Matthew
-409557	Matthew
+409548	Matthew
 Matthew
 Matthew
 Matthew
+409556	Matthew
 Matthew
-409563	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 409565	Matthew
 Matthew
 Matthew
@@ -215278,7 +218137,8 @@ Matthew
 Matthew
 409586	Matthew
 Matthew
-409589	Matthew
+Matthew
+Matthew
 409592	Matthew
 Matthew
 Matthew
@@ -215296,26 +218156,30 @@ Matthew
 409616	Matthew
 Matthew
 Matthew
-409620	Matthew
-Matthew
-409624	Matthew
 Matthew
 Matthew
+Matthew
+409623	Matthew
+Matthew
+Matthew
+Matthew
+409628	Matthew
 409630	Matthew
 Matthew
-409633	Matthew
+Matthew
+Matthew
 409638	Matthew
 409641	Matthew
 Matthew
 409644	Matthew
 Matthew
 Matthew
-409649	Matthew
 409652	Matthew
 409655	Matthew
 Matthew
 Matthew
-409660	Matthew
+409659	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -215328,8 +218192,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-Matthew
-Matthew
+409678	Matthew
 409680	Matthew
 Matthew
 Matthew
@@ -215346,8 +218209,7 @@ Matthew
 Matthew
 409698	Matthew
 Matthew
-Matthew
-Matthew
+409701	Matthew
 409703	Matthew
 Matthew
 409707	Matthew
@@ -215383,7 +218245,9 @@ Matthew
 409763	Matthew
 Matthew
 409766	Matthew
-409769	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 409776	Matthew
@@ -215400,8 +218264,7 @@ Matthew
 409807	Matthew
 409810	Matthew
 Matthew
-Matthew
-Matthew
+409813	Matthew
 Matthew
 409816	Matthew
 Matthew
@@ -215410,11 +218273,12 @@ Matthew
 Matthew
 Matthew
 Matthew
-409828	Matthew
+409829	Matthew
 Matthew
 Matthew
 Matthew
-409835	Matthew
+409834	Matthew
+Matthew
 409841	Matthew
 Matthew
 409844	Matthew
@@ -215424,7 +218288,8 @@ Matthew
 409850	Matthew
 409852	Matthew
 Matthew
-409859	Matthew
+409858	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -215434,9 +218299,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-Matthew
-Matthew
-Matthew
+409871	Matthew
 Matthew
 Matthew
 409876	Matthew
@@ -215446,15 +218309,20 @@ Matthew
 Matthew
 409883	Matthew
 Matthew
-409888	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 409893	Matthew
 Matthew
-409896	Matthew
+Matthew
+Matthew
 Matthew
 409900	Matthew
-409902	Matthew
+Matthew
+Matthew
 Matthew
 409905	Matthew
 409908	Matthew
@@ -215479,8 +218347,7 @@ Matthew
 409960	Matthew
 Matthew
 Matthew
-409972	Matthew
-Matthew
+409973	Matthew
 Matthew
 Matthew
 Matthew
@@ -215488,7 +218355,8 @@ Matthew
 Matthew
 409993	Matthew
 Matthew
-409999	Matthew
+409998	Matthew
+Matthew
 410001	Matthew
 410004	Matthew
 Matthew
@@ -215509,15 +218377,13 @@ Matthew
 Matthew
 410029	Matthew
 Matthew
-Matthew
 410033	Matthew
 410035	Matthew
 Matthew
 410040	Matthew
-410042	Matthew
-410046	Matthew
 Matthew
 Matthew
+410047	Matthew
 Matthew
 410053	Matthew
 410055	Matthew
@@ -215527,7 +218393,8 @@ Matthew
 Matthew
 Matthew
 410070	Matthew
-410072	Matthew
+Matthew
+Matthew
 410074	Matthew
 410084	Matthew
 Matthew
@@ -215550,14 +218417,16 @@ Matthew
 Matthew
 Matthew
 Matthew
-410124	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
 410131	Matthew
 Matthew
 Matthew
-410135	Matthew
+Matthew
+Matthew
 Matthew
 410138	Matthew
 410141	Matthew
@@ -215567,11 +218436,14 @@ Matthew
 Matthew
 Matthew
 Matthew
-410151	Matthew
+410150	Matthew
+Matthew
 410154	Matthew
 Matthew
-410157	Matthew
+Matthew
+Matthew
 410161	Matthew
+Matthew
 Matthew
 410166	Matthew
 Matthew
@@ -215579,6 +218451,7 @@ Matthew
 410173	Matthew
 Matthew
 410177	Matthew
+Matthew
 410181	Matthew
 Matthew
 Matthew
@@ -215589,7 +218462,8 @@ Matthew
 410193	Matthew
 Matthew
 Matthew
-410197	Matthew
+Matthew
+Matthew
 410199	Matthew
 410206	Matthew
 410209	Matthew
@@ -215602,18 +218476,20 @@ Matthew
 Matthew
 Matthew
 Matthew
-410231	Matthew
+410230	Matthew
 Matthew
-410235	Matthew
+Matthew
+410234	Matthew
+Matthew
 Matthew
 410238	Matthew
 Matthew
 Matthew
 410245	Matthew
-Matthew
 410248	Matthew
 410252	Matthew
-410258	Matthew
+410257	Matthew
+Matthew
 Matthew
 410265	Matthew
 Matthew
@@ -215626,14 +218502,16 @@ Matthew
 410278	Matthew
 Matthew
 410286	Matthew
-410288	Matthew
+Matthew
+Matthew
 410290	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-410298	Matthew
+410297	Matthew
+Matthew
 Matthew
 410301	Matthew
 410303	Matthew
@@ -215642,22 +218520,24 @@ Matthew
 Matthew
 410312	Matthew
 Matthew
-410317	Matthew
+410316	Matthew
+Matthew
 410321	Matthew
 Matthew
 410325	Matthew
 Matthew
 410328	Matthew
-410330	Matthew
-410332	Matthew
 Matthew
+Matthew
+410333	Matthew
 Matthew
 410336	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-410342	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 410346	Matthew
@@ -215667,17 +218547,19 @@ Matthew
 410356	Matthew
 Matthew
 410361	Matthew
-410363	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-410370	Matthew
 Matthew
 Matthew
 Matthew
-410375	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -215691,7 +218573,8 @@ Matthew
 410394	Matthew
 Matthew
 Matthew
-410398	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 410402	Matthew
@@ -215735,11 +218618,13 @@ Matthew
 Matthew
 410467	Matthew
 410470	Matthew
-410474	Matthew
+410473	Matthew
+Matthew
 Matthew
 410477	Matthew
 Matthew
-410480	Matthew
+Matthew
+Matthew
 410482	Matthew
 410484	Matthew
 410490	Matthew
@@ -215751,11 +218636,13 @@ Matthew
 Matthew
 410501	Matthew
 410504	Matthew
-410508	Matthew
+410507	Matthew
+Matthew
 Matthew
 410511	Matthew
 Matthew
-410514	Matthew
+Matthew
+Matthew
 410516	Matthew
 410518	Matthew
 410524	Matthew
@@ -215769,7 +218656,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-410541	Matthew
+410540	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -215782,7 +218670,8 @@ Matthew
 410556	Matthew
 Matthew
 Matthew
-410562	Matthew
+410561	Matthew
+Matthew
 Matthew
 410565	Matthew
 Matthew
@@ -215823,7 +218712,6 @@ Matthew
 410615	Matthew
 Matthew
 410623	Matthew
-Matthew
 410626	Matthew
 410630	Matthew
 Matthew
@@ -215844,13 +218732,15 @@ Matthew
 410672	Matthew
 Matthew
 410676	Matthew
-410682	Matthew
+410681	Matthew
+Matthew
 Matthew
 410685	Matthew
 Matthew
 410689	Matthew
 410692	Matthew
 410695	Matthew
+Matthew
 410698	Matthew
 Matthew
 Matthew
@@ -215916,9 +218806,9 @@ Matthew
 410787	Matthew
 410793	Matthew
 Matthew
-Matthew
 410797	Matthew
 410800	Matthew
+Matthew
 410803	Matthew
 Matthew
 Matthew
@@ -215965,7 +218855,8 @@ Matthew
 410864	Matthew
 Matthew
 Matthew
-410868	Matthew
+Matthew
+Matthew
 Matthew
 410874	Matthew
 410877	Matthew
@@ -215975,7 +218866,6 @@ Matthew
 410884	Matthew
 Matthew
 410890	Matthew
-Matthew
 Matthew
 Matthew
 Matthew
@@ -215990,16 +218880,19 @@ Matthew
 Matthew
 Matthew
 Matthew
-410918	Matthew
+Matthew
+Matthew
 410921	Matthew
 Matthew
 410925	Matthew
-410927	Matthew
+Matthew
+Matthew
 410935	Matthew
 Matthew
 Matthew
 410940	Matthew
-410942	Matthew
+Matthew
+Matthew
 410945	Matthew
 Matthew
 Matthew
@@ -216014,7 +218907,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-410966	Matthew
+410965	Matthew
+Matthew
 410968	Matthew
 Matthew
 410972	Matthew
@@ -216027,10 +218921,12 @@ Matthew
 Matthew
 410988	Matthew
 Matthew
-410991	Matthew
 Matthew
 Matthew
-410995	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 411002	Matthew
 411005	Matthew
 Matthew
@@ -216048,7 +218944,8 @@ Matthew
 Matthew
 Matthew
 411033	Matthew
-411035	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 411039	Matthew
@@ -216057,20 +218954,24 @@ Matthew
 411047	Matthew
 Matthew
 Matthew
-411052	Matthew
+411051	Matthew
+Matthew
 411055	Matthew
 411061	Matthew
 Matthew
-411064	Matthew
+Matthew
+Matthew
 411066	Matthew
 Matthew
 411069	Matthew
 Matthew
 411072	Matthew
-411074	Matthew
+Matthew
+Matthew
 Matthew
 411079	Matthew
-411081	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -216092,10 +218993,12 @@ Matthew
 Matthew
 411108	Matthew
 Matthew
-411111	Matthew
+Matthew
+Matthew
 411115	Matthew
 Matthew
 411118	Matthew
+Matthew
 Matthew
 411123	Matthew
 411128	Matthew
@@ -216112,7 +219015,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-411146	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 411150	Matthew
@@ -216121,7 +219025,9 @@ Matthew
 Matthew
 Matthew
 Matthew
-411160	Matthew
+411158	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 411165	Matthew
@@ -216130,7 +219036,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-411173	Matthew
+Matthew
+Matthew
 411175	Matthew
 Matthew
 411182	Matthew
@@ -216138,7 +219045,9 @@ Matthew
 411187	Matthew
 Matthew
 Matthew
-411202	Matthew
+411198	Matthew
+411201	Matthew
+Matthew
 411209	Matthew
 Matthew
 Matthew
@@ -216156,7 +219065,8 @@ Matthew
 411242	Matthew
 Matthew
 Matthew
-411247	Matthew
+411246	Matthew
+Matthew
 Matthew
 411250	Matthew
 Matthew
@@ -216167,7 +219077,8 @@ Matthew
 411260	Matthew
 Matthew
 Matthew
-411265	Matthew
+411264	Matthew
+Matthew
 Matthew
 Matthew
 411269	Matthew
@@ -216183,13 +219094,13 @@ Matthew
 Matthew
 Matthew
 Matthew
-Matthew
 411294	Matthew
 411299	Matthew
 Matthew
 Matthew
 Matthew
-411304	Matthew
+Matthew
+Matthew
 411308	Matthew
 Matthew
 Matthew
@@ -216219,7 +219130,8 @@ Matthew
 Matthew
 411348	Matthew
 Matthew
-411353	Matthew
+411352	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -216242,7 +219154,8 @@ Matthew
 Matthew
 Matthew
 411382	Matthew
-411384	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -216256,7 +219169,9 @@ Matthew
 Matthew
 411404	Matthew
 Matthew
-411408	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -216264,7 +219179,9 @@ Matthew
 Matthew
 411415	Matthew
 Matthew
-411424	Matthew
+411422	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -216275,10 +219192,8 @@ Matthew
 Matthew
 411436	Matthew
 Matthew
-411443	Matthew
-Matthew
-411447	Matthew
-Matthew
+411444	Matthew
+411448	Matthew
 411451	Matthew
 Matthew
 Matthew
@@ -216286,7 +219201,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-411459	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -216312,7 +219228,8 @@ Matthew
 Matthew
 Matthew
 411501	Matthew
-411504	Matthew
+411503	Matthew
+Matthew
 411510	Matthew
 Matthew
 411513	Matthew
@@ -216331,11 +219248,12 @@ Matthew
 Matthew
 Matthew
 Matthew
-411544	Matthew
+411542	Matthew
+Matthew
+Matthew
 Matthew
 411547	Matthew
-411549	Matthew
-Matthew
+411550	Matthew
 Matthew
 Matthew
 Matthew
@@ -216343,17 +219261,18 @@ Matthew
 Matthew
 Matthew
 Matthew
-411562	Matthew
+Matthew
+Matthew
 411564	Matthew
 Matthew
 411569	Matthew
 411572	Matthew
 Matthew
-411575	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 411582	Matthew
-Matthew
 411585	Matthew
 411587	Matthew
 Matthew
@@ -216365,12 +219284,12 @@ Matthew
 411603	Matthew
 Matthew
 Matthew
-Matthew
 411608	Matthew
 411613	Matthew
 Matthew
 Matthew
-411617	Matthew
+Matthew
+Matthew
 Matthew
 411620	Matthew
 Matthew
@@ -216406,7 +219325,8 @@ Matthew
 Matthew
 411683	Matthew
 411687	Matthew
-411689	Matthew
+Matthew
+Matthew
 Matthew
 411692	Matthew
 Matthew
@@ -216421,7 +219341,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-411711	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -216438,7 +219359,8 @@ Matthew
 Matthew
 Matthew
 Matthew
-411738	Matthew
+Matthew
+Matthew
 411741	Matthew
 Matthew
 Matthew
@@ -216453,7 +219375,8 @@ Matthew
 411759	Matthew
 Matthew
 Matthew
-411764	Matthew
+411763	Matthew
+Matthew
 411767	Matthew
 Matthew
 411772	Matthew
@@ -216475,9 +219398,9 @@ Matthew
 Matthew
 Matthew
 Matthew
-411798	Matthew
 Matthew
-411801	Matthew
+Matthew
+Matthew
 411803	Matthew
 411809	Matthew
 Matthew
@@ -216494,14 +219417,14 @@ Matthew
 Matthew
 Matthew
 Matthew
-411830	Matthew
-Matthew
+411831	Matthew
 Matthew
 Matthew
 Matthew
 411836	Matthew
 Matthew
-411839	Matthew
+Matthew
+Matthew
 411841	Matthew
 Matthew
 Matthew
@@ -216513,7 +219436,8 @@ Matthew
 Matthew
 Matthew
 411855	Matthew
-411858	Matthew
+411857	Matthew
+Matthew
 Matthew
 411862	Matthew
 Matthew
@@ -216529,11 +219453,13 @@ Matthew
 Matthew
 Matthew
 Matthew
-411898	Matthew
+411897	Matthew
+Matthew
 Matthew
 Matthew
 411903	Matthew
-411905	Matthew
+Matthew
+Matthew
 411910	Matthew
 Matthew
 Matthew
@@ -216549,8 +219475,7 @@ Matthew
 Matthew
 411932	Matthew
 Matthew
-411936	Matthew
-Matthew
+411937	Matthew
 Matthew
 411940	Matthew
 Matthew
@@ -216561,18 +219486,21 @@ Matthew
 411950	Matthew
 Matthew
 411954	Matthew
-411958	Matthew
+411957	Matthew
+Matthew
 Matthew
 Matthew
 411963	Matthew
 Matthew
-411967	Matthew
 Matthew
-411970	Matthew
-411972	Matthew
 Matthew
 Matthew
 Matthew
+411970	Matthew
+Matthew
+Matthew
+Matthew
+411975	Matthew
 411977	Matthew
 Matthew
 Matthew
@@ -216580,16 +219508,16 @@ Matthew
 Matthew
 Matthew
 411984	Matthew
-411986	Matthew
+Matthew
+Matthew
 411989	Matthew
 411993	Matthew
-411995	Matthew
 Matthew
 Matthew
+411997	Matthew
 412000	Matthew
 Matthew
 412004	Matthew
-Matthew
 Matthew
 412008	Matthew
 412011	Matthew
@@ -216630,7 +219558,8 @@ Matthew
 Matthew
 Matthew
 412062	Matthew
-412064	Matthew
+Matthew
+Matthew
 412068	Matthew
 Matthew
 Matthew
@@ -216668,7 +219597,8 @@ Matthew
 Matthew
 412139	Matthew
 Matthew
-412142	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -216689,7 +219619,8 @@ Matthew
 Matthew
 Matthew
 412172	Matthew
-412174	Matthew
+Matthew
+Matthew
 412177	Matthew
 412179	Matthew
 412181	Matthew
@@ -216722,28 +219653,32 @@ Matthew
 Matthew
 Matthew
 Matthew
-412232	Matthew
+Matthew
+Matthew
 412234	Matthew
 Matthew
-412239	Matthew
+412238	Matthew
+Matthew
 Matthew
 Matthew
 412244	Matthew
 Matthew
 412248	Matthew
 412250	Matthew
-412253	Matthew
-Matthew
-412256	Matthew
+412254	Matthew
 Matthew
 Matthew
 Matthew
-412261	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 412263	Matthew
 412266	Matthew
 Matthew
 412269	Matthew
-412273	Matthew
+412272	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -216759,11 +219694,16 @@ Matthew
 412299	Matthew
 Matthew
 412306	Matthew
-412310	Matthew
 Matthew
 Matthew
 Matthew
-412316	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 412318	Matthew
 412320	Matthew
 412322	Matthew
@@ -216784,8 +219724,10 @@ Matthew
 Matthew
 Matthew
 Matthew
-412346	Matthew
-412348	Matthew
+412345	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -216811,12 +219753,10 @@ Matthew
 Matthew
 Matthew
 Matthew
-Matthew
 412402	Matthew
 Matthew
 Matthew
 412407	Matthew
-Matthew
 412410	Matthew
 Matthew
 Matthew
@@ -216824,16 +219764,20 @@ Matthew
 Matthew
 412416	Matthew
 Matthew
+Matthew
+Matthew
 412422	Matthew
 412424	Matthew
 412428	Matthew
 Matthew
 412434	Matthew
-412439	Matthew
-Matthew
+412440	Matthew
 Matthew
 412446	Matthew
-412448	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 412455	Matthew
 Matthew
@@ -216847,18 +219791,18 @@ Matthew
 Matthew
 412477	Matthew
 Matthew
+412480	Matthew
 412484	Matthew
 412487	Matthew
 Matthew
 Matthew
 412494	Matthew
 Matthew
-412497	Matthew
 412500	Matthew
 412505	Matthew
 Matthew
+Matthew
 412509	Matthew
-412512	Matthew
 412514	Matthew
 412516	Matthew
 412518	Matthew
@@ -216878,10 +219822,12 @@ Matthew
 412546	Matthew
 Matthew
 412551	Matthew
-412554	Matthew
+412553	Matthew
 Matthew
 Matthew
-412558	Matthew
+Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -216892,7 +219838,6 @@ Matthew
 Matthew
 412572	Matthew
 Matthew
-412576	Matthew
 412579	Matthew
 412582	Matthew
 412584	Matthew
@@ -216920,21 +219865,26 @@ Matthew
 412622	Matthew
 Matthew
 Matthew
-412628	Matthew
+412627	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
 Matthew
 412634	Matthew
 Matthew
-412637	Matthew
-Matthew
-412640	Matthew
 Matthew
 Matthew
-412644	Matthew
 Matthew
-412648	Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+Matthew
+412647	Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -216949,8 +219899,7 @@ Matthew
 Matthew
 Matthew
 Matthew
-412672	Matthew
-Matthew
+412673	Matthew
 412675	Matthew
 412678	Matthew
 Matthew
@@ -216963,15 +219912,18 @@ Matthew
 412688	Matthew
 Matthew
 Matthew
-412693	Matthew
+412692	Matthew
 Matthew
 Matthew
-412697	Matthew
+Matthew
+Matthew
+Matthew
 412700	Matthew
 Matthew
 412704	Matthew
 Matthew
-412707	Matthew
+Matthew
+Matthew
 Matthew
 412711	Matthew
 412716	Matthew
@@ -216984,18 +219936,21 @@ Matthew
 412728	Matthew
 Matthew
 Matthew
-412732	Matthew
+Matthew
+Matthew
 412735	Matthew
 Matthew
 Matthew
-412739	Matthew
+Matthew
+Matthew
 Matthew
 412743	Matthew
 Matthew
 Matthew
 Matthew
 Matthew
-412749	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 Matthew
@@ -217004,7 +219959,8 @@ Matthew
 412761	Matthew
 Matthew
 412764	Matthew
-412772	Matthew
+412771	Matthew
+Matthew
 412774	Matthew
 Matthew
 Matthew
@@ -217025,18 +219981,21 @@ Matthew
 412805	Matthew
 412808	Matthew
 Matthew
-412811	Matthew
+Matthew
+Matthew
 Matthew
 Matthew
 412821	Mark
-412829	Mark
+412828	Mark
+Mark
 Mark
 412835	Mark
 Mark
 412841	Mark
 412844	Mark
 412846	Mark
-412850	Mark
+412849	Mark
+Mark
 412853	Mark
 412856	Mark
 412858	Mark
@@ -217045,7 +220004,6 @@ Mark
 412867	Mark
 Mark
 Mark
-412871	Mark
 412875	Mark
 412878	Mark
 Mark
@@ -217057,8 +220015,7 @@ Mark
 Mark
 412900	Mark
 Mark
-Mark
-Mark
+412903	Mark
 412905	Mark
 Mark
 Mark
@@ -217071,7 +220028,8 @@ Mark
 Mark
 Mark
 412924	Mark
-412926	Mark
+Mark
+Mark
 412930	Mark
 Mark
 412935	Mark
@@ -217084,7 +220042,8 @@ Mark
 Mark
 412953	Mark
 Mark
-412958	Mark
+412957	Mark
+Mark
 412963	Mark
 412965	Mark
 Mark
@@ -217103,7 +220062,8 @@ Mark
 413001	Mark
 Mark
 Mark
-413005	Mark
+Mark
+Mark
 Mark
 413008	Mark
 Mark
@@ -217115,8 +220075,7 @@ Mark
 Mark
 Mark
 413026	Mark
-Mark
-Mark
+413028	Mark
 413034	Mark
 Mark
 Mark
@@ -217129,8 +220088,6 @@ Mark
 Mark
 Mark
 413050	Mark
-Mark
-Mark
 Mark
 Mark
 Mark
@@ -217162,14 +220119,16 @@ Mark
 413115	Mark
 Mark
 Mark
-413120	Mark
 Mark
 Mark
+Mark
+413122	Mark
 Mark
 413125	Mark
 Mark
 Mark
-413129	Mark
+Mark
+Mark
 Mark
 413134	Mark
 Mark
@@ -217186,7 +220145,9 @@ Mark
 Mark
 Mark
 Mark
-413160	Mark
+Mark
+Mark
+Mark
 Mark
 413165	Mark
 Mark
@@ -217197,10 +220158,8 @@ Mark
 413182	Mark
 Mark
 Mark
-413190	Mark
-Mark
-413193	Mark
-Mark
+413191	Mark
+413194	Mark
 Mark
 Mark
 Mark
@@ -217217,11 +220176,12 @@ Mark
 413213	Mark
 Mark
 Mark
-413217	Mark
-413219	Mark
-413221	Mark
-413224	Mark
 Mark
+Mark
+Mark
+Mark
+413221	Mark
+413225	Mark
 Mark
 Mark
 Mark
@@ -217244,13 +220204,13 @@ Mark
 Mark
 413257	Mark
 Mark
-413260	Mark
+Mark
+Mark
 413263	Mark
 Mark
 Mark
 Mark
-Mark
-Mark
+413268	Mark
 413271	Mark
 413273	Mark
 Mark
@@ -217259,7 +220219,9 @@ Mark
 Mark
 Mark
 Mark
-413282	Mark
+Mark
+Mark
+Mark
 413286	Mark
 Mark
 Mark
@@ -217288,7 +220250,8 @@ Mark
 Mark
 413326	Mark
 Mark
-413329	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -217304,7 +220267,8 @@ Mark
 413345	Mark
 Mark
 Mark
-413349	Mark
+Mark
+Mark
 Mark
 Mark
 413353	Mark
@@ -217325,7 +220289,8 @@ Mark
 413378	Mark
 Mark
 413381	Mark
-413383	Mark
+Mark
+Mark
 413386	Mark
 Mark
 Mark
@@ -217345,11 +220310,13 @@ Mark
 Mark
 Mark
 Mark
-413418	Mark
+413417	Mark
 Mark
 Mark
 Mark
-413424	Mark
+Mark
+413423	Mark
+Mark
 413426	Mark
 Mark
 Mark
@@ -217360,9 +220327,11 @@ Mark
 413442	Mark
 Mark
 Mark
-413449	Mark
+413448	Mark
 Mark
-413452	Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -217372,9 +220341,11 @@ Mark
 413464	Mark
 Mark
 413468	Mark
-413473	Mark
+413472	Mark
 Mark
-413476	Mark
+Mark
+Mark
+Mark
 413478	Mark
 413481	Mark
 Mark
@@ -217391,7 +220362,8 @@ Mark
 413500	Mark
 413503	Mark
 413505	Mark
-413507	Mark
+Mark
+Mark
 Mark
 Mark
 413512	Mark
@@ -217432,10 +220404,9 @@ Mark
 Mark
 Mark
 413569	Mark
-413571	Mark
-413573	Mark
 Mark
 Mark
+413574	Mark
 413577	Mark
 413580	Mark
 413582	Mark
@@ -217446,12 +220417,10 @@ Mark
 413590	Mark
 Mark
 Mark
-413594	Mark
 413596	Mark
 413599	Mark
 Mark
-413603	Mark
-Mark
+413604	Mark
 Mark
 Mark
 Mark
@@ -217466,7 +220435,6 @@ Mark
 Mark
 Mark
 Mark
-413624	Mark
 413627	Mark
 413629	Mark
 Mark
@@ -217474,7 +220442,6 @@ Mark
 Mark
 Mark
 413635	Mark
-413637	Mark
 413640	Mark
 413644	Mark
 Mark
@@ -217531,13 +220498,13 @@ Mark
 Mark
 Mark
 Mark
-413749	Mark
+Mark
+Mark
 Mark
 413752	Mark
 Mark
 Mark
-Mark
-Mark
+413756	Mark
 413759	Mark
 Mark
 Mark
@@ -217565,7 +220532,9 @@ Mark
 413811	Mark
 Mark
 413814	Mark
-413817	Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 413821	Mark
@@ -217578,7 +220547,8 @@ Mark
 413834	Mark
 Mark
 Mark
-413839	Mark
+413838	Mark
+Mark
 Mark
 Mark
 Mark
@@ -217613,12 +220583,12 @@ Mark
 413899	Mark
 413902	Mark
 413905	Mark
-413907	Mark
-Mark
+413908	Mark
 413910	Mark
 Mark
 413913	Mark
-413915	Mark
+Mark
+Mark
 413918	Mark
 Mark
 413922	Mark
@@ -217653,7 +220623,8 @@ Mark
 Mark
 Mark
 413963	Mark
-413965	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -217671,11 +220642,11 @@ Mark
 413985	Mark
 413987	Mark
 413989	Mark
-Mark
 413994	Mark
 413999	Mark
 Mark
-414002	Mark
+Mark
+Mark
 414004	Mark
 Mark
 414007	Mark
@@ -217686,6 +220657,7 @@ Mark
 414015	Mark
 Mark
 414019	Mark
+Mark
 414022	Mark
 Mark
 Mark
@@ -217748,19 +220720,21 @@ Mark
 Mark
 Mark
 Mark
-Mark
 414122	Mark
-414126	Mark
+414124	Mark
 Mark
 Mark
-414130	Mark
-414132	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 414139	Mark
 Mark
 414142	Mark
 Mark
 414145	Mark
-Mark
 Mark
 Mark
 414151	Mark
@@ -217780,18 +220754,18 @@ Mark
 Mark
 Mark
 Mark
-Mark
 414182	Mark
 414184	Mark
 Mark
 Mark
 Mark
 Mark
-414191	Mark
+414190	Mark
 Mark
 Mark
 414196	Mark
-414200	Mark
+414199	Mark
+Mark
 Mark
 414205	Mark
 414208	Mark
@@ -217822,13 +220796,15 @@ Mark
 414252	Mark
 Mark
 414255	Mark
-414257	Mark
+Mark
+Mark
 414260	Mark
 414262	Mark
 414264	Mark
 Mark
 Mark
-414270	Mark
+414269	Mark
+Mark
 414273	Mark
 414275	Mark
 Mark
@@ -217866,14 +220842,16 @@ Mark
 Mark
 Mark
 Mark
-414334	Mark
+Mark
+Mark
 Mark
 414337	Mark
 414343	Mark
 Mark
 414346	Mark
 414352	Mark
-414354	Mark
+Mark
+Mark
 414359	Mark
 414362	Mark
 Mark
@@ -217899,9 +220877,11 @@ Mark
 414390	Mark
 Mark
 Mark
-414397	Mark
+414396	Mark
+Mark
 414399	Mark
-414401	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -217911,9 +220891,11 @@ Mark
 Mark
 414413	Mark
 Mark
-414416	Mark
 Mark
-414421	Mark
+Mark
+Mark
+414420	Mark
+Mark
 Mark
 Mark
 414426	Mark
@@ -217922,8 +220904,7 @@ Mark
 Mark
 Mark
 Mark
-Mark
-Mark
+414435	Mark
 414438	Mark
 Mark
 Mark
@@ -217940,9 +220921,11 @@ Mark
 Mark
 Mark
 Mark
-414472	Mark
 Mark
-414479	Mark
+Mark
+Mark
+414478	Mark
+Mark
 414481	Mark
 Mark
 Mark
@@ -217962,50 +220945,59 @@ Mark
 Mark
 Mark
 414511	Mark
-414513	Mark
+Mark
+Mark
 414515	Mark
-414517	Mark
+Mark
+Mark
 Mark
 Mark
 414521	Mark
 Mark
 Mark
-414526	Mark
+414525	Mark
 Mark
 Mark
 Mark
 Mark
 Mark
-414533	Mark
 Mark
-414536	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 414540	Mark
 Mark
 Mark
-414544	Mark
 Mark
 Mark
-414548	Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 414551	Mark
 414553	Mark
 Mark
-414556	Mark
+Mark
+Mark
 414560	Mark
 414562	Mark
 414566	Mark
 414568	Mark
 414570	Mark
+414572	Mark
 Mark
 Mark
 Mark
-414575	Mark
 414578	Mark
 Mark
 Mark
 Mark
-414584	Mark
+414583	Mark
+Mark
 Mark
 Mark
 414589	Mark
@@ -218021,7 +221013,9 @@ Mark
 414605	Mark
 Mark
 414609	Mark
-414614	Mark
+414611	Mark
+414613	Mark
+Mark
 Mark
 Mark
 414625	Mark
@@ -218047,7 +221041,8 @@ Mark
 414658	Mark
 Mark
 414663	Mark
-414665	Mark
+Mark
+Mark
 414669	Mark
 Mark
 414673	Mark
@@ -218084,7 +221079,8 @@ Mark
 Mark
 414721	Mark
 Mark
-414725	Mark
+414724	Mark
+Mark
 Mark
 Mark
 Mark
@@ -218093,7 +221089,8 @@ Mark
 Mark
 414734	Mark
 Mark
-414737	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -218109,17 +221106,19 @@ Mark
 414755	Mark
 Mark
 414765	Mark
-414767	Mark
+Mark
+Mark
 414770	Mark
+414773	Mark
 414777	Mark
 414781	Mark
 Mark
 Mark
 414785	Mark
 414787	Mark
-414789	Mark
 Mark
 Mark
+414791	Mark
 Mark
 414794	Mark
 414797	Mark
@@ -218130,8 +221129,7 @@ Mark
 Mark
 Mark
 Mark
-414807	Mark
-Mark
+414808	Mark
 414812	Mark
 414816	Mark
 Mark
@@ -218142,11 +221140,12 @@ Mark
 414825	Mark
 Mark
 Mark
-414829	Mark
-Mark
-414833	Mark
 Mark
 Mark
+Mark
+414832	Mark
+Mark
+414835	Mark
 Mark
 414842	Mark
 414844	Mark
@@ -218172,7 +221171,8 @@ Mark
 Mark
 Mark
 Mark
-414882	Mark
+Mark
+Mark
 414885	Mark
 Mark
 414888	Mark
@@ -218195,7 +221195,8 @@ Mark
 414922	Mark
 414925	Mark
 Mark
-414928	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -218229,7 +221230,8 @@ Mark
 Mark
 Mark
 414972	Mark
-414974	Mark
+Mark
+Mark
 414977	Mark
 Mark
 Mark
@@ -218241,7 +221243,8 @@ Mark
 414988	Mark
 414994	Mark
 Mark
-414997	Mark
+Mark
+Mark
 414999	Mark
 Mark
 Mark
@@ -218255,7 +221258,8 @@ Mark
 Mark
 Mark
 Mark
-415017	Mark
+Mark
+Mark
 415023	Mark
 415026	Mark
 Mark
@@ -218287,7 +221291,8 @@ Mark
 Mark
 Mark
 Mark
-415073	Mark
+415072	Mark
+Mark
 415077	Mark
 Mark
 415081	Mark
@@ -218352,13 +221357,15 @@ Mark
 Mark
 415189	Mark
 Mark
-415192	Mark
+Mark
+Mark
 415195	Mark
 415197	Mark
 Mark
 415200	Mark
 Mark
-415205	Mark
+415204	Mark
+Mark
 Mark
 Mark
 Mark
@@ -218372,14 +221379,14 @@ Mark
 Mark
 415227	Mark
 415229	Mark
-Mark
-Mark
+415231	Mark
 Mark
 415234	Mark
 Mark
 Mark
 Mark
-415239	Mark
+Mark
+Mark
 415241	Mark
 Mark
 Mark
@@ -218406,7 +221413,8 @@ Mark
 Mark
 415279	Mark
 Mark
-415282	Mark
+Mark
+Mark
 Mark
 415285	Mark
 Mark
@@ -218431,7 +221439,8 @@ Mark
 415311	Mark
 Mark
 415315	Mark
-415317	Mark
+Mark
+Mark
 Mark
 Mark
 415322	Mark
@@ -218447,7 +221456,6 @@ Mark
 Mark
 415342	Mark
 Mark
-415347	Mark
 415350	Mark
 415352	Mark
 Mark
@@ -218488,11 +221496,13 @@ Mark
 415416	Mark
 Mark
 Mark
-415420	Mark
+Mark
+Mark
 415422	Mark
 Mark
 Mark
-415426	Mark
+Mark
+Mark
 Mark
 Mark
 415431	Mark
@@ -218501,15 +221511,18 @@ Mark
 Mark
 415437	Mark
 Mark
-415441	Mark
+415440	Mark
+Mark
 Mark
 415444	Mark
 Mark
 Mark
 Mark
 Mark
-415450	Mark
-415452	Mark
+Mark
+Mark
+Mark
+Mark
 415454	Mark
 Mark
 Mark
@@ -218554,7 +221567,9 @@ Mark
 Mark
 Mark
 415520	Mark
-415523	Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -218600,20 +221615,21 @@ Mark
 415602	Mark
 415607	Mark
 Mark
-Mark
 415611	Mark
 Mark
 Mark
 Mark
 Mark
 415619	Mark
-415621	Mark
 Mark
 Mark
 Mark
 Mark
 Mark
-415628	Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 415635	Mark
@@ -218635,7 +221651,6 @@ Mark
 415664	Mark
 Mark
 Mark
-415669	Mark
 415671	Mark
 Mark
 Mark
@@ -218667,18 +221682,19 @@ Mark
 Mark
 415722	Mark
 Mark
-415726	Mark
+415725	Mark
 Mark
 Mark
 Mark
-415731	Mark
+Mark
+Mark
+Mark
 415733	Mark
 415738	Mark
 Mark
 Mark
 415742	Mark
-Mark
-Mark
+415744	Mark
 Mark
 Mark
 Mark
@@ -218703,7 +221719,8 @@ Mark
 Mark
 Mark
 415779	Mark
-415781	Mark
+Mark
+Mark
 415783	Mark
 Mark
 415787	Mark
@@ -218711,7 +221728,8 @@ Mark
 Mark
 Mark
 Mark
-415793	Mark
+Mark
+Mark
 Mark
 Mark
 415798	Mark
@@ -218723,8 +221741,7 @@ Mark
 Mark
 Mark
 Mark
-415811	Mark
-Mark
+415812	Mark
 Mark
 Mark
 Mark
@@ -218740,15 +221757,15 @@ Mark
 Mark
 Mark
 Mark
-415832	Mark
+Mark
+Mark
 415834	Mark
 Mark
 Mark
 Mark
 Mark
 Mark
-Mark
-Mark
+415841	Mark
 415843	Mark
 Mark
 Mark
@@ -218759,13 +221776,13 @@ Mark
 Mark
 415860	Mark
 Mark
-Mark
 415865	Mark
 415868	Mark
 415871	Mark
 Mark
 415874	Mark
-415876	Mark
+Mark
+Mark
 415878	Mark
 Mark
 Mark
@@ -218796,14 +221813,16 @@ Mark
 Mark
 415926	Mark
 Mark
-415929	Mark
+Mark
+Mark
 Mark
 Mark
 415936	Mark
 Mark
 415940	Mark
 Mark
-415943	Mark
+Mark
+Mark
 Mark
 415946	Mark
 Mark
@@ -218814,7 +221833,8 @@ Mark
 Mark
 Mark
 Mark
-415964	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -218831,7 +221851,9 @@ Mark
 Mark
 415983	Mark
 Mark
-415987	Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -218840,7 +221862,8 @@ Mark
 415996	Mark
 Mark
 415999	Mark
-416001	Mark
+Mark
+Mark
 416004	Mark
 416006	Mark
 416009	Mark
@@ -218851,7 +221874,8 @@ Mark
 416020	Mark
 Mark
 Mark
-416024	Mark
+Mark
+Mark
 416027	Mark
 Mark
 Mark
@@ -218860,13 +221884,16 @@ Mark
 Mark
 416038	Mark
 Mark
-416042	Mark
 Mark
 Mark
 Mark
 Mark
 Mark
-416049	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 416053	Mark
 416055	Mark
@@ -218878,19 +221905,19 @@ Mark
 Mark
 416069	Mark
 Mark
-416072	Mark
 Mark
 Mark
-416076	Mark
+Mark
+Mark
 416078	Mark
 416082	Mark
 416084	Mark
 Mark
 416089	Mark
 Mark
+Mark
 416093	Mark
 416095	Mark
-Mark
 Mark
 Mark
 416100	Mark
@@ -218906,7 +221933,6 @@ Mark
 Mark
 Mark
 416120	Mark
-Mark
 Mark
 Mark
 Mark
@@ -218938,28 +221964,28 @@ Mark
 416184	Mark
 Mark
 416187	Mark
-Mark
 416191	Mark
 416194	Mark
 Mark
 Mark
 Mark
+416199	Mark
 Mark
 Mark
 Mark
-Mark
-416203	Mark
 Mark
 Mark
 416207	Mark
 416209	Mark
-416211	Mark
-416213	Mark
-416215	Mark
 Mark
+Mark
+Mark
+Mark
+416215	Mark
 Mark
 416219	Mark
 416221	Mark
+416225	Mark
 416228	Mark
 Mark
 Mark
@@ -218970,6 +221996,7 @@ Mark
 Mark
 Mark
 416242	Mark
+Mark
 416247	Mark
 416249	Mark
 Mark
@@ -218980,15 +222007,19 @@ Mark
 416257	Mark
 Mark
 416260	Mark
-416262	Mark
+Mark
+Mark
 Mark
 416267	Mark
 416271	Mark
-416273	Mark
-416275	Mark
+Mark
+Mark
+Mark
+Mark
 416277	Mark
 Mark
-416280	Mark
+Mark
+Mark
 416282	Mark
 Mark
 416286	Mark
@@ -219026,10 +222057,12 @@ Mark
 Mark
 Mark
 Mark
+Mark
 416355	Mark
 416360	Mark
 416364	Mark
-416366	Mark
+Mark
+Mark
 416368	Mark
 416370	Mark
 Mark
@@ -219037,11 +222070,13 @@ Mark
 Mark
 416378	Mark
 Mark
-416381	Mark
+Mark
+Mark
 Mark
 416384	Mark
 Mark
-416387	Mark
+Mark
+Mark
 416391	Mark
 Mark
 416394	Mark
@@ -219049,7 +222084,8 @@ Mark
 Mark
 Mark
 Mark
-416400	Mark
+Mark
+Mark
 Mark
 Mark
 416411	Mark
@@ -219105,19 +222141,22 @@ Mark
 416511	Mark
 Mark
 Mark
-416515	Mark
+Mark
+Mark
 Mark
 416518	Mark
 416520	Mark
 Mark
-416523	Mark
+Mark
+Mark
 Mark
 416529	Mark
 Mark
 Mark
 Mark
 Mark
-416536	Mark
+416535	Mark
+Mark
 416539	Mark
 416541	Mark
 416543	Mark
@@ -219149,7 +222188,8 @@ Mark
 Mark
 416587	Mark
 Mark
-416590	Mark
+Mark
+Mark
 416593	Mark
 Mark
 Mark
@@ -219186,7 +222226,8 @@ Mark
 Mark
 Mark
 416650	Mark
-416654	Mark
+416653	Mark
+Mark
 Mark
 Mark
 Mark
@@ -219207,7 +222248,6 @@ Mark
 Mark
 Mark
 Mark
-416684	Mark
 416688	Mark
 416691	Mark
 Mark
@@ -219267,7 +222307,8 @@ Mark
 Mark
 Mark
 Mark
-416777	Mark
+Mark
+Mark
 416779	Mark
 Mark
 Mark
@@ -219284,7 +222325,6 @@ Mark
 416800	Mark
 Mark
 416804	Mark
-Mark
 Mark
 416808	Mark
 416816	Mark
@@ -219321,7 +222361,8 @@ Mark
 Mark
 Mark
 Mark
-416864	Mark
+Mark
+Mark
 416868	Mark
 416870	Mark
 416874	Mark
@@ -219344,7 +222385,8 @@ Mark
 Mark
 416901	Mark
 Mark
-416904	Mark
+Mark
+Mark
 416906	Mark
 Mark
 416909	Mark
@@ -219352,7 +222394,8 @@ Mark
 416915	Mark
 Mark
 Mark
-416923	Mark
+416922	Mark
+Mark
 Mark
 Mark
 416927	Mark
@@ -219363,31 +222406,34 @@ Mark
 Mark
 Mark
 Mark
-416938	Mark
+Mark
+Mark
 Mark
 416942	Mark
 Mark
-416945	Mark
-416949	Mark
 Mark
+Mark
+416950	Mark
 416952	Mark
 Mark
-416955	Mark
+Mark
+Mark
 416958	Mark
 Mark
 416962	Mark
 Mark
 416967	Mark
-416969	Mark
 Mark
 Mark
 Mark
-416979	Mark
+416972	Mark
 416981	Mark
-416983	Mark
+Mark
+Mark
 416988	Mark
 Mark
 416999	Mark
+Mark
 Mark
 Mark
 Mark
@@ -219428,7 +222474,8 @@ Mark
 Mark
 Mark
 Mark
-417070	Mark
+Mark
+Mark
 417072	Mark
 Mark
 Mark
@@ -219446,7 +222493,8 @@ Mark
 Mark
 Mark
 Mark
-417092	Mark
+417091	Mark
+Mark
 417097	Mark
 Mark
 Mark
@@ -219455,7 +222503,8 @@ Mark
 Mark
 Mark
 417106	Mark
-417108	Mark
+Mark
+Mark
 417111	Mark
 Mark
 Mark
@@ -219495,7 +222544,8 @@ Mark
 Mark
 Mark
 417163	Mark
-417165	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -219523,7 +222573,8 @@ Mark
 417207	Mark
 Mark
 Mark
-417211	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -219542,7 +222593,8 @@ Mark
 Mark
 Mark
 Mark
-417236	Mark
+417235	Mark
+Mark
 417239	Mark
 417241	Mark
 417243	Mark
@@ -219557,7 +222609,8 @@ Mark
 417256	Mark
 Mark
 Mark
-417262	Mark
+417261	Mark
+Mark
 417264	Mark
 Mark
 Mark
@@ -219580,12 +222633,14 @@ Mark
 417291	Mark
 Mark
 Mark
-417295	Mark
 Mark
 Mark
 Mark
 Mark
-417304	Mark
+Mark
+Mark
+417303	Mark
+Mark
 Mark
 417308	Mark
 Mark
@@ -219618,13 +222673,15 @@ Mark
 417351	Mark
 Mark
 Mark
-417355	Mark
+Mark
+Mark
 417357	Mark
 417361	Mark
 Mark
 Mark
 Mark
-417366	Mark
+Mark
+Mark
 417370	Mark
 Mark
 Mark
@@ -219671,7 +222728,7 @@ Mark
 Mark
 417436	Mark
 Mark
-417439	Mark
+Mark
 Mark
 Mark
 Mark
@@ -219684,11 +222741,15 @@ Mark
 417453	Mark
 Mark
 Mark
-417457	Mark
-417459	Mark
+Mark
+Mark
+Mark
+Mark
 417466	Mark
-417468	Mark
-417470	Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -219700,15 +222761,18 @@ Mark
 Mark
 417484	Mark
 Mark
-417487	Mark
 Mark
 Mark
 Mark
 Mark
-417494	Mark
 Mark
 Mark
-417498	Mark
+417493	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 417502	Mark
 Mark
 Mark
@@ -219716,7 +222780,8 @@ Mark
 Mark
 Mark
 417510	Mark
-417512	Mark
+Mark
+Mark
 Mark
 Mark
 417517	Mark
@@ -219725,11 +222790,13 @@ Mark
 Mark
 Mark
 417525	Mark
-417527	Mark
+Mark
+Mark
 Mark
 417533	Mark
 Mark
-417536	Mark
+Mark
+Mark
 Mark
 417539	Mark
 417544	Mark
@@ -219764,7 +222831,9 @@ Mark
 417602	Mark
 Mark
 Mark
-417610	Mark
+417607	Mark
+417609	Mark
+Mark
 417613	Mark
 Mark
 417616	Mark
@@ -219786,11 +222855,13 @@ Mark
 417644	Mark
 417646	Mark
 417648	Mark
-417650	Mark
 Mark
 Mark
 Mark
-417655	Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -219811,11 +222882,9 @@ Mark
 417676	Mark
 417682	Mark
 Mark
-417686	Mark
+417687	Mark
 Mark
 Mark
-Mark
-417691	Mark
 417694	Mark
 417696	Mark
 Mark
@@ -219829,8 +222898,11 @@ Mark
 Mark
 417716	Mark
 Mark
-417719	Mark
-417722	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 417725	Mark
 Mark
 417728	Mark
@@ -219850,7 +222922,9 @@ Mark
 Mark
 417747	Mark
 Mark
-417751	Mark
+Mark
+Mark
+Mark
 Mark
 417755	Mark
 Mark
@@ -219858,7 +222932,8 @@ Mark
 417762	Mark
 Mark
 Mark
-417766	Mark
+Mark
+Mark
 Mark
 417771	Mark
 417774	Mark
@@ -219866,7 +222941,8 @@ Mark
 Mark
 Mark
 417780	Mark
-417782	Mark
+Mark
+Mark
 417784	Mark
 417786	Mark
 Mark
@@ -219878,12 +222954,14 @@ Mark
 Mark
 417796	Mark
 Mark
-417800	Mark
-417802	Mark
+417799	Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 417807	Mark
-417810	Mark
+417809	Mark
 Mark
 Mark
 Mark
@@ -219901,17 +222979,20 @@ Mark
 417832	Mark
 Mark
 Mark
-417836	Mark
+Mark
+Mark
 Mark
 417839	Mark
-417841	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
 417846	Mark
 Mark
 417849	Mark
-417851	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -219947,7 +223028,8 @@ Mark
 Mark
 Mark
 Mark
-417921	Mark
+417920	Mark
+Mark
 Mark
 417924	Mark
 Mark
@@ -219960,7 +223042,8 @@ Mark
 Mark
 Mark
 Mark
-417941	Mark
+417940	Mark
+Mark
 Mark
 Mark
 Mark
@@ -220010,7 +223093,6 @@ Mark
 Mark
 418017	Mark
 Mark
-418022	Mark
 418024	Mark
 418026	Mark
 418028	Mark
@@ -220028,14 +223110,14 @@ Mark
 Mark
 418045	Mark
 Mark
-418048	Mark
-Mark
+418049	Mark
 418052	Mark
 Mark
 Mark
 Mark
 Mark
-418058	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -220054,20 +223136,26 @@ Mark
 Mark
 Mark
 418085	Mark
-418088	Mark
-Mark
-Mark
-418093	Mark
+418087	Mark
 Mark
 Mark
 Mark
+418092	Mark
 Mark
 Mark
-418102	Mark
-418105	Mark
 Mark
 Mark
-418110	Mark
+Mark
+Mark
+418100	Mark
+Mark
+Mark
+418104	Mark
+Mark
+Mark
+Mark
+418109	Mark
+Mark
 Mark
 418113	Mark
 Mark
@@ -220080,8 +223168,7 @@ Mark
 Mark
 Mark
 418128	Mark
-418130	Mark
-Mark
+418131	Mark
 Mark
 Mark
 Mark
@@ -220095,13 +223182,17 @@ Mark
 418144	Mark
 Mark
 418148	Mark
+Mark
 418151	Mark
-418154	Mark
-418156	Mark
+418153	Mark
+Mark
+Mark
+Mark
 Mark
 418160	Mark
 Mark
-418163	Mark
+Mark
+Mark
 Mark
 418167	Mark
 418169	Mark
@@ -220113,10 +223204,10 @@ Mark
 418184	Mark
 Mark
 418187	Mark
-418189	Mark
+Mark
+Mark
 Mark
 418192	Mark
-Mark
 Mark
 418197	Mark
 418199	Mark
@@ -220145,7 +223236,8 @@ Mark
 Mark
 Mark
 418240	Mark
-418242	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -220164,7 +223256,8 @@ Mark
 Mark
 Mark
 Mark
-418269	Mark
+418268	Mark
+Mark
 Mark
 418273	Mark
 Mark
@@ -220172,27 +223265,30 @@ Mark
 Mark
 Mark
 418280	Mark
-418282	Mark
 Mark
-418286	Mark
 Mark
+Mark
+418287	Mark
 418292	Mark
 Mark
 418297	Mark
 Mark
-418300	Mark
+Mark
+Mark
 Mark
 418307	Mark
 Mark
 Mark
 418311	Mark
-418313	Mark
+Mark
+Mark
 418316	Mark
 Mark
 Mark
 Mark
 Mark
-418322	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -220234,8 +223330,7 @@ Mark
 Mark
 418385	Mark
 Mark
-Mark
-Mark
+418388	Mark
 Mark
 Mark
 Mark
@@ -220253,11 +223348,13 @@ Mark
 418413	Mark
 Mark
 418418	Mark
-418420	Mark
+Mark
+Mark
 Mark
 Mark
 418427	Mark
-418429	Mark
+Mark
+Mark
 418432	Mark
 Mark
 Mark
@@ -220268,7 +223365,8 @@ Mark
 Mark
 Mark
 418443	Mark
-418445	Mark
+Mark
+Mark
 Mark
 418448	Mark
 Mark
@@ -220287,14 +223385,12 @@ Mark
 Mark
 Mark
 418473	Mark
-418475	Mark
-Mark
+418476	Mark
 Mark
 Mark
 Mark
 Mark
 418483	Mark
-Mark
 Mark
 418489	Mark
 418492	Mark
@@ -220317,13 +223413,14 @@ Mark
 418519	Mark
 Mark
 Mark
-Mark
 418524	Mark
 418526	Mark
-418528	Mark
 Mark
 Mark
-418532	Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 418540	Mark
@@ -220339,7 +223436,8 @@ Mark
 Mark
 418556	Mark
 Mark
-418560	Mark
+418559	Mark
+Mark
 Mark
 Mark
 Mark
@@ -220347,8 +223445,10 @@ Mark
 418567	Mark
 Mark
 Mark
-418571	Mark
-418573	Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 418577	Mark
 Mark
@@ -220362,6 +223462,7 @@ Mark
 Mark
 Mark
 418595	Mark
+Mark
 418598	Mark
 418600	Mark
 Mark
@@ -220370,10 +223471,13 @@ Mark
 Mark
 Mark
 Mark
-418609	Mark
 Mark
 Mark
-418613	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 418617	Mark
@@ -220381,7 +223485,8 @@ Mark
 418628	Mark
 Mark
 418631	Mark
-418633	Mark
+Mark
+Mark
 418636	Mark
 Mark
 418641	Mark
@@ -220401,7 +223506,8 @@ Mark
 Mark
 Mark
 Mark
-418672	Mark
+418671	Mark
+Mark
 Mark
 418678	Mark
 Mark
@@ -220409,16 +223515,19 @@ Mark
 Mark
 Mark
 418685	Mark
-418688	Mark
+418687	Mark
+Mark
 Mark
 Mark
 418692	Mark
 Mark
 Mark
 418696	Mark
-418698	Mark
 Mark
-418702	Mark
+Mark
+Mark
+418701	Mark
+Mark
 418704	Mark
 Mark
 418707	Mark
@@ -220463,11 +223572,14 @@ Mark
 Mark
 Mark
 Mark
-418767	Mark
 Mark
 Mark
 Mark
-418774	Mark
+Mark
+Mark
+Mark
+418773	Mark
+Mark
 Mark
 Mark
 Mark
@@ -220480,7 +223592,8 @@ Mark
 Mark
 418793	Mark
 Mark
-418798	Mark
+418797	Mark
+Mark
 Mark
 Mark
 Mark
@@ -220500,14 +223613,17 @@ Mark
 418824	Mark
 418827	Mark
 Mark
-418831	Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 418836	Mark
 418838	Mark
 Mark
 418842	Mark
-418844	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -220520,8 +223636,8 @@ Mark
 Mark
 Mark
 Mark
-418861	Mark
-418864	Mark
+Mark
+Mark
 418866	Mark
 418868	Mark
 Mark
@@ -220539,7 +223655,7 @@ Mark
 418882	Mark
 418884	Mark
 418887	Mark
-418893	Mark
+418892	Mark
 Mark
 Mark
 Mark
@@ -220551,7 +223667,8 @@ Mark
 Mark
 Mark
 Mark
-418908	Mark
+Mark
+418907	Mark
 Mark
 Mark
 Mark
@@ -220573,6 +223690,7 @@ Mark
 418936	Mark
 Mark
 418939	Mark
+Mark
 Mark
 Mark
 418944	Mark
@@ -220612,7 +223730,8 @@ Mark
 418989	Mark
 Mark
 418992	Mark
-418997	Mark
+418996	Mark
+Mark
 419000	Mark
 Mark
 419004	Mark
@@ -220635,7 +223754,9 @@ Mark
 Mark
 419036	Mark
 Mark
-419042	Mark
+419039	Mark
+419041	Mark
+Mark
 419048	Mark
 Mark
 419051	Mark
@@ -220657,7 +223778,8 @@ Mark
 419078	Mark
 419080	Mark
 Mark
-419083	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -220673,7 +223795,8 @@ Mark
 Mark
 419124	Mark
 Mark
-419128	Mark
+419127	Mark
+Mark
 Mark
 Mark
 419132	Mark
@@ -220683,8 +223806,7 @@ Mark
 Mark
 419139	Mark
 Mark
-Mark
-Mark
+419142	Mark
 Mark
 419148	Mark
 419152	Mark
@@ -220693,8 +223815,7 @@ Mark
 Mark
 419160	Mark
 Mark
-419164	Mark
-Mark
+419165	Mark
 Mark
 Mark
 419169	Mark
@@ -220713,7 +223834,8 @@ Mark
 Mark
 419193	Mark
 419199	Mark
-419203	Mark
+419202	Mark
+Mark
 419206	Mark
 Mark
 Mark
@@ -220727,7 +223849,8 @@ Mark
 Mark
 419229	Mark
 419233	Mark
-419235	Mark
+Mark
+Mark
 Mark
 419238	Mark
 Mark
@@ -220736,11 +223859,13 @@ Mark
 419252	Mark
 Mark
 Mark
-419256	Mark
+Mark
+Mark
 419260	Mark
 Mark
 419263	Mark
-419265	Mark
+Mark
+Mark
 Mark
 419269	Mark
 419273	Mark
@@ -220748,6 +223873,7 @@ Mark
 419276	Mark
 Mark
 Mark
+419281	Mark
 419283	Mark
 Mark
 Mark
@@ -220767,10 +223893,10 @@ Mark
 Mark
 419315	Mark
 419319	Mark
-419321	Mark
+Mark
+Mark
 419324	Mark
 419328	Mark
-Mark
 Mark
 Mark
 Mark
@@ -220779,9 +223905,11 @@ Mark
 Mark
 419339	Mark
 419343	Mark
+419345	Mark
 419347	Mark
 419349	Mark
-419351	Mark
+Mark
+Mark
 419358	Mark
 419361	Mark
 Mark
@@ -220796,7 +223924,8 @@ Mark
 Mark
 Mark
 419377	Mark
-419379	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -220807,10 +223936,10 @@ Mark
 Mark
 Mark
 Mark
-419394	Mark
 Mark
 Mark
 Mark
+419397	Mark
 419399	Mark
 Mark
 Mark
@@ -220818,11 +223947,13 @@ Mark
 Mark
 Mark
 419406	Mark
-419408	Mark
+Mark
+Mark
 Mark
 419411	Mark
 Mark
-419415	Mark
+419414	Mark
+Mark
 419417	Mark
 Mark
 419420	Mark
@@ -220833,18 +223964,20 @@ Mark
 Mark
 419428	Mark
 Mark
-419431	Mark
-Mark
+419432	Mark
 419436	Mark
 Mark
 Mark
 419443	Mark
-419445	Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 419450	Mark
 Mark
-419453	Mark
+Mark
+Mark
 Mark
 419458	Mark
 Mark
@@ -220869,14 +224002,17 @@ Mark
 Mark
 Mark
 419494	Mark
-419497	Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 419503	Mark
 Mark
 Mark
 Mark
-419508	Mark
+Mark
+Mark
 419514	Mark
 419516	Mark
 419520	Mark
@@ -220887,8 +224023,7 @@ Mark
 419533	Mark
 419536	Mark
 Mark
-Mark
-Mark
+419539	Mark
 Mark
 419542	Mark
 Mark
@@ -220899,8 +224034,11 @@ Mark
 Mark
 Mark
 Mark
-419558	Mark
-419563	Mark
+419556	Mark
+Mark
+Mark
+419562	Mark
+Mark
 419567	Mark
 Mark
 419570	Mark
@@ -220910,23 +224048,25 @@ Mark
 419575	Mark
 419577	Mark
 Mark
-419582	Mark
+419581	Mark
+Mark
 419584	Mark
-419586	Mark
-Mark
-419589	Mark
-419592	Mark
 Mark
 Mark
 Mark
 Mark
+Mark
+419591	Mark
 Mark
 Mark
 Mark
 Mark
 Mark
 Mark
+419599	Mark
 Mark
+Mark
+419603	Mark
 419605	Mark
 Mark
 Mark
@@ -220946,7 +224086,6 @@ Mark
 419641	Mark
 Mark
 Mark
-419649	Mark
 419651	Mark
 Mark
 Mark
@@ -220955,7 +224094,8 @@ Mark
 Mark
 419668	Mark
 Mark
-419674	Mark
+419673	Mark
+Mark
 419676	Mark
 419679	Mark
 Mark
@@ -220975,20 +224115,20 @@ Mark
 419702	Mark
 419704	Mark
 Mark
-Mark
 419708	Mark
 419710	Mark
 Mark
 419714	Mark
-419716	Mark
-419718	Mark
+Mark
+Mark
 419721	Mark
 419723	Mark
-Mark
 419728	Mark
 419730	Mark
 Mark
-419735	Mark
+419733	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -221003,7 +224143,9 @@ Mark
 419759	Mark
 Mark
 Mark
-419764	Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -221021,27 +224163,30 @@ Mark
 Mark
 Mark
 Mark
-Mark
 419788	Mark
 419792	Mark
-419794	Mark
+Mark
 Mark
 419797	Mark
 419799	Mark
 Mark
 419802	Mark
 Mark
-419805	Mark
+Mark
+Mark
 419808	Mark
 419811	Mark
-419813	Mark
-419816	Mark
+Mark
+Mark
+419815	Mark
+Mark
 419822	Mark
 Mark
 419828	Mark
 Mark
 419833	Mark
-419835	Mark
+Mark
+Mark
 419838	Mark
 419844	Mark
 Mark
@@ -221070,10 +224215,12 @@ Mark
 Mark
 Mark
 419886	Mark
-419888	Mark
 Mark
 Mark
-419892	Mark
+Mark
+Mark
+Mark
+Mark
 419898	Mark
 419901	Mark
 Mark
@@ -221093,7 +224240,8 @@ Mark
 Mark
 419928	Mark
 Mark
-419934	Mark
+419933	Mark
+Mark
 Mark
 Mark
 Mark
@@ -221111,10 +224259,12 @@ Mark
 Mark
 Mark
 Mark
-419962	Mark
+Mark
+Mark
 419964	Mark
 Mark
 419967	Mark
+419969	Mark
 419971	Mark
 419976	Mark
 Mark
@@ -221127,16 +224277,19 @@ Mark
 419989	Mark
 Mark
 419993	Mark
-419995	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
 Mark
 420001	Mark
-420003	Mark
+Mark
+Mark
 Mark
 420007	Mark
-420009	Mark
+Mark
+Mark
 420011	Mark
 Mark
 420014	Mark
@@ -221153,22 +224306,24 @@ Mark
 Mark
 Mark
 Mark
-420036	Mark
+Mark
+Mark
 420040	Mark
 Mark
 420045	Mark
 420047	Mark
-420049	Mark
+Mark
+Mark
 420053	Mark
 Mark
 420056	Mark
+Mark
 Mark
 420061	Mark
 420066	Mark
 Mark
 Mark
 420071	Mark
-420073	Mark
 Mark
 Mark
 Mark
@@ -221177,7 +224332,10 @@ Mark
 Mark
 Mark
 Mark
-420083	Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 420087	Mark
 Mark
@@ -221195,7 +224353,9 @@ Mark
 Mark
 Mark
 Mark
-420120	Mark
+420116	Mark
+420119	Mark
+Mark
 420125	Mark
 Mark
 Mark
@@ -221215,7 +224375,8 @@ Mark
 Mark
 420153	Mark
 Mark
-420157	Mark
+420156	Mark
+Mark
 Mark
 420160	Mark
 Mark
@@ -221230,7 +224391,8 @@ Mark
 Mark
 Mark
 Mark
-420177	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -221239,10 +224401,12 @@ Mark
 420185	Mark
 Mark
 Mark
-420190	Mark
+420189	Mark
+Mark
 420193	Mark
 Mark
-420198	Mark
+420197	Mark
+Mark
 Mark
 Mark
 Mark
@@ -221257,7 +224421,8 @@ Mark
 Mark
 Mark
 Mark
-420220	Mark
+Mark
+Mark
 420224	Mark
 Mark
 Mark
@@ -221292,7 +224457,8 @@ Mark
 Mark
 Mark
 Mark
-420273	Mark
+420272	Mark
+Mark
 Mark
 Mark
 Mark
@@ -221309,7 +224475,8 @@ Mark
 Mark
 420293	Mark
 Mark
-420296	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -221322,14 +224489,17 @@ Mark
 Mark
 420311	Mark
 Mark
-420314	Mark
+Mark
+Mark
 Mark
 420317	Mark
 Mark
 Mark
-420321	Mark
+Mark
+Mark
 420323	Mark
-420332	Mark
+420331	Mark
+Mark
 Mark
 Mark
 Mark
@@ -221340,8 +224510,7 @@ Mark
 Mark
 420345	Mark
 Mark
-420350	Mark
-Mark
+420351	Mark
 420355	Mark
 420357	Mark
 420359	Mark
@@ -221351,7 +224520,8 @@ Mark
 Mark
 Mark
 Mark
-420367	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -221379,11 +224549,11 @@ Mark
 420401	Mark
 Mark
 Mark
-420406	Mark
+420405	Mark
+Mark
 Mark
 420409	Mark
-420411	Mark
-Mark
+420412	Mark
 Mark
 Mark
 Mark
@@ -221420,7 +224590,6 @@ Mark
 420475	Mark
 Mark
 420479	Mark
-Mark
 Mark
 Mark
 420484	Mark
@@ -221474,7 +224643,8 @@ Mark
 420571	Mark
 Mark
 420574	Mark
-420578	Mark
+420577	Mark
+Mark
 420580	Mark
 420582	Mark
 Mark
@@ -221494,7 +224664,8 @@ Mark
 Mark
 Mark
 420604	Mark
-420606	Mark
+Mark
+Mark
 420610	Mark
 Mark
 420616	Mark
@@ -221506,7 +224677,8 @@ Mark
 420628	Mark
 Mark
 Mark
-420632	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -221528,12 +224700,14 @@ Mark
 Mark
 420657	Mark
 Mark
-420661	Mark
+420660	Mark
+Mark
 420663	Mark
 Mark
 420666	Mark
 Mark
 420669	Mark
+Mark
 Mark
 Mark
 Mark
@@ -221561,7 +224735,8 @@ Mark
 420708	Mark
 Mark
 Mark
-420712	Mark
+Mark
+Mark
 420714	Mark
 420718	Mark
 Mark
@@ -221580,12 +224755,14 @@ Mark
 Mark
 420737	Mark
 Mark
+420740	Mark
 420742	Mark
 Mark
 Mark
 420746	Mark
 Mark
-420751	Mark
+420750	Mark
+Mark
 420754	Mark
 Mark
 Mark
@@ -221634,7 +224811,8 @@ Mark
 Mark
 Mark
 Mark
-420827	Mark
+420826	Mark
+Mark
 Mark
 Mark
 420832	Mark
@@ -221658,27 +224836,29 @@ Mark
 Mark
 420857	Mark
 Mark
-420860	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
 420865	Mark
 Mark
 420869	Mark
-420871	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
 Mark
 420880	Mark
 420882	Mark
-420886	Mark
-Mark
+420887	Mark
 Mark
 Mark
 420892	Mark
 Mark
-420898	Mark
+420897	Mark
+Mark
 420901	Mark
 Mark
 Mark
@@ -221689,7 +224869,8 @@ Mark
 Mark
 Mark
 Mark
-420913	Mark
+Mark
+Mark
 420916	Mark
 420918	Mark
 Mark
@@ -221716,16 +224897,19 @@ Mark
 Mark
 Mark
 Mark
-420962	Mark
+Mark
+Mark
 420964	Mark
 Mark
 420968	Mark
 420971	Mark
 420974	Mark
-420979	Mark
+420978	Mark
 Mark
 Mark
-420983	Mark
+Mark
+Mark
+Mark
 420990	Mark
 420992	Mark
 Mark
@@ -221735,15 +224919,21 @@ Mark
 Mark
 Mark
 421000	Mark
-421002	Mark
+Mark
+Mark
 421004	Mark
 421010	Mark
 Mark
-421019	Mark
+421016	Mark
 Mark
 Mark
 Mark
-421026	Mark
+Mark
+Mark
+Mark
+421024	Mark
+Mark
+Mark
 421029	Mark
 421032	Mark
 421034	Mark
@@ -221759,8 +224949,10 @@ Mark
 Mark
 Mark
 Mark
-421050	Mark
-421052	Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -221779,16 +224971,17 @@ Mark
 Mark
 421085	Mark
 Mark
+421088	Mark
 421090	Mark
 421092	Mark
-421094	Mark
-421096	Mark
+421095	Mark
+Mark
 Mark
 421100	Mark
-421104	Mark
 421107	Mark
 Mark
-421110	Mark
+Mark
+Mark
 Mark
 Mark
 421115	Mark
@@ -221797,10 +224990,14 @@ Mark
 421120	Mark
 Mark
 421123	Mark
-421125	Mark
-421127	Mark
 Mark
-421130	Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -221810,7 +225007,8 @@ Mark
 Mark
 421155	Mark
 Mark
-421158	Mark
+Mark
+Mark
 421160	Mark
 Mark
 Mark
@@ -221828,11 +225026,11 @@ Mark
 Mark
 421181	Mark
 Mark
-421185	Mark
+421184	Mark
+Mark
 421188	Mark
 Mark
 421194	Mark
-Mark
 Mark
 421200	Mark
 421203	Mark
@@ -221845,13 +225043,15 @@ Mark
 Mark
 Mark
 Mark
-421221	Mark
+Mark
+Mark
 421228	Mark
 421230	Mark
 Mark
 421233	Mark
 421239	Mark
-421241	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -221871,11 +225071,13 @@ Mark
 Mark
 421269	Mark
 Mark
-421272	Mark
 Mark
-421275	Mark
 Mark
-421279	Mark
+Mark
+Mark
+Mark
+Mark
+421278	Mark
 Mark
 Mark
 Mark
@@ -221883,15 +225085,19 @@ Mark
 Mark
 421287	Mark
 421289	Mark
-421292	Mark
+Mark
+Mark
+Mark
 421295	Mark
 Mark
 Mark
 Mark
-421300	Mark
+Mark
+Mark
 Mark
 421304	Mark
 Mark
+421307	Mark
 Mark
 Mark
 Mark
@@ -221899,8 +225105,7 @@ Mark
 Mark
 Mark
 Mark
-Mark
-Mark
+421316	Mark
 421319	Mark
 421322	Mark
 Mark
@@ -221929,7 +225134,6 @@ Mark
 Mark
 421359	Mark
 Mark
-Mark
 421364	Mark
 Mark
 Mark
@@ -221943,7 +225147,8 @@ Mark
 421380	Mark
 Mark
 Mark
-421384	Mark
+Mark
+Mark
 Mark
 Mark
 Mark
@@ -221954,10 +225159,12 @@ Mark
 Mark
 421394	Mark
 Mark
-421397	Mark
+Mark
+Mark
 421401	Mark
 421403	Mark
-421405	Mark
+Mark
+Mark
 Mark
 421408	Mark
 421411	Mark
@@ -221987,7 +225194,8 @@ Mark
 421461	Mark
 421466	Mark
 Mark
-421472	Luke
+421471	Luke
+Luke
 Luke
 Luke
 Luke
@@ -221996,17 +225204,18 @@ Luke
 Luke
 Luke
 Luke
-421486	Luke
-Luke
+421487	Luke
 421489	Luke
 Luke
 Luke
 Luke
 421494	Luke
 Luke
-421498	Luke
+421497	Luke
+Luke
 421501	Luke
 Luke
+421509	Luke
 421512	Luke
 Luke
 421516	Luke
@@ -222016,8 +225225,7 @@ Luke
 421526	Luke
 Luke
 421530	Luke
-421535	Luke
-Luke
+421536	Luke
 421538	Luke
 Luke
 Luke
@@ -222025,7 +225233,8 @@ Luke
 421544	Luke
 Luke
 421550	Luke
-421552	Luke
+Luke
+Luke
 421554	Luke
 Luke
 421563	Luke
@@ -222045,7 +225254,8 @@ Luke
 Luke
 421601	Luke
 Luke
-421606	Luke
+421605	Luke
+Luke
 Luke
 Luke
 421610	Luke
@@ -222055,8 +225265,7 @@ Luke
 Luke
 421622	Luke
 Luke
-Luke
-Luke
+421625	Luke
 Luke
 Luke
 421631	Luke
@@ -222064,17 +225273,16 @@ Luke
 Luke
 421635	Luke
 Luke
-Luke
-Luke
+421638	Luke
 421640	Luke
 Luke
 421647	Luke
 Luke
 421656	Luke
 Luke
-421661	Luke
+421662	Luke
 Luke
-421664	Luke
+Luke
 Luke
 421668	Luke
 Luke
@@ -222107,6 +225315,7 @@ Luke
 Luke
 421717	Luke
 421720	Luke
+Luke
 421724	Luke
 421728	Luke
 Luke
@@ -222130,7 +225339,9 @@ Luke
 421756	Luke
 Luke
 Luke
-421761	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 421768	Luke
@@ -222141,20 +225352,24 @@ Luke
 421783	Luke
 Luke
 Luke
-421788	Luke
+421787	Luke
+Luke
 Luke
 421792	Luke
 Luke
 Luke
+421804	Luke
 421807	Luke
 421810	Luke
-421813	Luke
+421812	Luke
+Luke
 421816	Luke
 Luke
 421821	Luke
 Luke
 Luke
-421826	Luke
+421825	Luke
+Luke
 Luke
 Luke
 421831	Luke
@@ -222165,7 +225380,8 @@ Luke
 Luke
 421841	Luke
 Luke
-421845	Luke
+421844	Luke
+Luke
 Luke
 Luke
 Luke
@@ -222188,7 +225404,8 @@ Luke
 Luke
 421887	Luke
 Luke
-421892	Luke
+421891	Luke
+Luke
 Luke
 Luke
 Luke
@@ -222213,7 +225430,9 @@ Luke
 Luke
 421935	Luke
 Luke
-421939	Luke
+Luke
+Luke
+Luke
 Luke
 421943	Luke
 421947	Luke
@@ -222227,7 +225446,9 @@ Luke
 421968	Luke
 Luke
 421971	Luke
-421974	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 421981	Luke
@@ -222262,7 +225483,8 @@ Luke
 Luke
 422042	Luke
 Luke
-422045	Luke
+Luke
+Luke
 Luke
 422050	Luke
 Luke
@@ -222276,13 +225498,14 @@ Luke
 Luke
 422080	Luke
 Luke
-422085	Luke
+422086	Luke
 Luke
 Luke
 Luke
-422090	Luke
+Luke
 422093	Luke
-422097	Luke
+422096	Luke
+Luke
 Luke
 422100	Luke
 Luke
@@ -222292,11 +225515,11 @@ Luke
 Luke
 Luke
 Luke
-422109	Luke
+Luke
+Luke
 422112	Luke
 Luke
 Luke
-422118	Luke
 422120	Luke
 422125	Luke
 Luke
@@ -222313,14 +225536,14 @@ Luke
 Luke
 Luke
 Luke
-Luke
 422151	Luke
 422154	Luke
 Luke
 422159	Luke
 Luke
 Luke
-422163	Luke
+Luke
+Luke
 422168	Luke
 Luke
 Luke
@@ -222336,11 +225559,13 @@ Luke
 Luke
 422191	Luke
 Luke
+Luke
 422197	Luke
 422200	Luke
 Luke
 422204	Luke
-422206	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -222381,7 +225606,9 @@ Luke
 Luke
 Luke
 422280	Luke
-422283	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -222396,13 +225623,13 @@ Luke
 422316	Luke
 422320	Luke
 Luke
-422326	Luke
+422325	Luke
+Luke
 422331	Luke
 Luke
 Luke
 Luke
-422338	Luke
-Luke
+422339	Luke
 422344	Luke
 Luke
 422347	Luke
@@ -222411,12 +225638,12 @@ Luke
 422352	Luke
 422354	Luke
 Luke
+422363	Luke
 422367	Luke
 422370	Luke
 Luke
 Luke
-422374	Luke
-Luke
+422375	Luke
 422377	Luke
 Luke
 422383	Luke
@@ -222427,7 +225654,8 @@ Luke
 Luke
 Luke
 422400	Luke
-422402	Luke
+Luke
+Luke
 422406	Luke
 422409	Luke
 422412	Luke
@@ -222438,17 +225666,18 @@ Luke
 Luke
 422423	Luke
 Luke
+422436	Luke
 422438	Luke
 422440	Luke
 Luke
-422444	Luke
-Luke
+422445	Luke
 Luke
 422450	Luke
 Luke
 Luke
 Luke
-422455	Luke
+Luke
+Luke
 422457	Luke
 Luke
 Luke
@@ -222478,13 +225707,16 @@ Luke
 Luke
 422507	Luke
 Luke
-422511	Luke
+422510	Luke
+Luke
+Luke
 Luke
 Luke
 422516	Luke
 422519	Luke
 Luke
-422522	Luke
+Luke
+Luke
 422526	Luke
 Luke
 Luke
@@ -222500,7 +225732,9 @@ Luke
 422548	Luke
 Luke
 422553	Luke
-422556	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 422563	Luke
@@ -222509,11 +225743,11 @@ Luke
 Luke
 422570	Luke
 Luke
+Luke
 422576	Luke
 Luke
 Luke
 422580	Luke
-Luke
 Luke
 Luke
 Luke
@@ -222546,7 +225780,8 @@ Luke
 422640	Luke
 Luke
 422643	Luke
-422645	Luke
+Luke
+Luke
 Luke
 422648	Luke
 Luke
@@ -222558,10 +225793,12 @@ Luke
 422660	Luke
 Luke
 422664	Luke
-422666	Luke
+Luke
+Luke
 Luke
 422675	Luke
-422679	Luke
+422678	Luke
+Luke
 422681	Luke
 Luke
 422685	Luke
@@ -222574,7 +225811,6 @@ Luke
 422696	Luke
 Luke
 422701	Luke
-Luke
 422704	Luke
 422707	Luke
 Luke
@@ -222612,12 +225848,11 @@ Luke
 422775	Luke
 422780	Luke
 Luke
+422785	Luke
 422788	Luke
-422793	Luke
 422797	Luke
 422801	Luke
 Luke
-422804	Luke
 422807	Luke
 422810	Luke
 Luke
@@ -222629,8 +225864,7 @@ Luke
 422822	Luke
 Luke
 Luke
-422828	Luke
-Luke
+422829	Luke
 422833	Luke
 422836	Luke
 Luke
@@ -222640,7 +225874,8 @@ Luke
 Luke
 422848	Luke
 Luke
-422851	Luke
+Luke
+Luke
 422858	Luke
 Luke
 Luke
@@ -222648,10 +225883,8 @@ Luke
 422869	Luke
 Luke
 422875	Luke
-Luke
-Luke
-Luke
-Luke
+422877	Luke
+422879	Luke
 Luke
 Luke
 Luke
@@ -222661,7 +225894,8 @@ Luke
 422891	Luke
 Luke
 422894	Luke
-422896	Luke
+Luke
+Luke
 Luke
 422903	Luke
 422910	Luke
@@ -222675,9 +225909,11 @@ Luke
 422921	Luke
 Luke
 422930	Luke
-422932	Luke
 Luke
-422936	Luke
+Luke
+Luke
+422935	Luke
+Luke
 Luke
 422942	Luke
 Luke
@@ -222694,14 +225930,14 @@ Luke
 Luke
 422965	Luke
 Luke
-422968	Luke
 422970	Luke
 422972	Luke
 Luke
 Luke
 422976	Luke
 Luke
-422979	Luke
+Luke
+Luke
 422982	Luke
 422984	Luke
 422990	Luke
@@ -222712,7 +225948,6 @@ Luke
 Luke
 422997	Luke
 Luke
-423001	Luke
 423003	Luke
 423005	Luke
 Luke
@@ -222720,13 +225955,15 @@ Luke
 Luke
 Luke
 Luke
-423015	Luke
+423014	Luke
+Luke
 Luke
 Luke
 423021	Luke
 Luke
 Luke
-423026	Luke
+423025	Luke
+Luke
 Luke
 Luke
 Luke
@@ -222735,7 +225972,8 @@ Luke
 Luke
 423037	Luke
 Luke
-423041	Luke
+423040	Luke
+Luke
 Luke
 Luke
 Luke
@@ -222750,8 +225988,7 @@ Luke
 423065	Luke
 Luke
 Luke
-423070	Luke
-Luke
+423071	Luke
 Luke
 Luke
 423081	Luke
@@ -222759,12 +225996,10 @@ Luke
 Luke
 423087	Luke
 Luke
-423094	Luke
+423095	Luke
 Luke
 Luke
-Luke
-423101	Luke
-Luke
+423102	Luke
 423110	Luke
 Luke
 423117	Luke
@@ -222772,14 +226007,14 @@ Luke
 Luke
 423129	Luke
 423131	Luke
-423135	Luke
+423134	Luke
+Luke
 423138	Luke
 423141	Luke
 423143	Luke
 423145	Luke
 Luke
-423148	Luke
-Luke
+423149	Luke
 Luke
 423152	Luke
 423155	Luke
@@ -222856,7 +226091,8 @@ Luke
 Luke
 Luke
 423276	Luke
-423278	Luke
+Luke
+Luke
 Luke
 423281	Luke
 Luke
@@ -222867,12 +226103,13 @@ Luke
 Luke
 Luke
 Luke
+Luke
 423301	Luke
 Luke
 423307	Luke
-423309	Luke
 423311	Luke
-423313	Luke
+Luke
+Luke
 423320	Luke
 423323	Luke
 Luke
@@ -222882,32 +226119,36 @@ Luke
 Luke
 Luke
 Luke
-Luke
-Luke
+423338	Luke
 423340	Luke
 Luke
 423345	Luke
 423354	Luke
-423357	Luke
+423356	Luke
+Luke
 423362	Luke
 423365	Luke
 Luke
 423368	Luke
-423370	Luke
+Luke
+Luke
 423373	Luke
 Luke
 423376	Luke
 Luke
-423379	Luke
+Luke
+Luke
 423381	Luke
 Luke
 423389	Luke
 Luke
-423393	Luke
+423392	Luke
+Luke
 423398	Luke
 423400	Luke
 Luke
-423407	Luke
+423406	Luke
+Luke
 423409	Luke
 Luke
 423563	Luke
@@ -222920,11 +226161,13 @@ Luke
 Luke
 Luke
 423586	Luke
-423588	Luke
 Luke
 Luke
 Luke
-423594	Luke
+Luke
+Luke
+423593	Luke
+Luke
 Luke
 423598	Luke
 423601	Luke
@@ -222939,14 +226182,15 @@ Luke
 Luke
 423622	Luke
 Luke
-423626	Luke
+423625	Luke
 Luke
 423631	Luke
 423634	Luke
 423636	Luke
 Luke
 Luke
-423640	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -222965,7 +226209,8 @@ Luke
 Luke
 423670	Luke
 Luke
-423673	Luke
+Luke
+Luke
 Luke
 423677	Luke
 Luke
@@ -222976,7 +226221,8 @@ Luke
 Luke
 Luke
 Luke
-423691	Luke
+Luke
+Luke
 423693	Luke
 423697	Luke
 Luke
@@ -222997,7 +226243,8 @@ Luke
 423736	Luke
 Luke
 Luke
-423741	Luke
+423740	Luke
+Luke
 423743	Luke
 423745	Luke
 423747	Luke
@@ -223011,11 +226258,13 @@ Luke
 423764	Luke
 Luke
 Luke
-423770	Luke
+423769	Luke
+Luke
 423772	Luke
 Luke
 423776	Luke
 423778	Luke
+Luke
 423781	Luke
 Luke
 Luke
@@ -223060,9 +226309,10 @@ Luke
 Luke
 423863	Luke
 Luke
-423868	Luke
-423876	Luke
-423879	Luke
+423867	Luke
+Luke
+423875	Luke
+Luke
 423881	Luke
 423883	Luke
 423888	Luke
@@ -223085,7 +226335,8 @@ Luke
 Luke
 423928	Luke
 Luke
-423934	Luke
+423933	Luke
+Luke
 423938	Luke
 Luke
 Luke
@@ -223104,15 +226355,17 @@ Luke
 423972	Luke
 423975	Luke
 Luke
-423980	Luke
+423978	Luke
 Luke
 Luke
 Luke
+423983	Luke
 Luke
 423986	Luke
 Luke
 Luke
-423990	Luke
+Luke
+Luke
 Luke
 423995	Luke
 Luke
@@ -223133,8 +226386,7 @@ Luke
 Luke
 424023	Luke
 424025	Luke
-424027	Luke
-Luke
+424028	Luke
 424031	Luke
 Luke
 Luke
@@ -223179,7 +226431,8 @@ Luke
 Luke
 Luke
 424106	Luke
-424108	Luke
+Luke
+Luke
 Luke
 Luke
 424113	Luke
@@ -223204,7 +226457,8 @@ Luke
 Luke
 Luke
 424152	Luke
-424154	Luke
+Luke
+Luke
 424156	Luke
 Luke
 424161	Luke
@@ -223217,15 +226471,18 @@ Luke
 Luke
 424177	Luke
 424180	Luke
-424182	Luke
 Luke
+Luke
+Luke
+424185	Luke
 424188	Luke
 Luke
 424192	Luke
 Luke
 Luke
 424198	Luke
-424200	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -223270,17 +226527,18 @@ Luke
 Luke
 Luke
 Luke
-Luke
-Luke
+424276	Luke
+424282	Luke
 424285	Luke
 Luke
 Luke
-424291	Luke
-Luke
+424289	Luke
+424292	Luke
 424294	Luke
 424296	Luke
 Luke
-424302	Luke
+424301	Luke
+Luke
 Luke
 424307	Luke
 Luke
@@ -223346,8 +226604,8 @@ Luke
 Luke
 424405	Luke
 Luke
-424409	Luke
-Luke
+424408	Luke
+424410	Luke
 Luke
 424417	Luke
 Luke
@@ -223359,7 +226617,8 @@ Luke
 Luke
 Luke
 Luke
-424431	Luke
+424430	Luke
+Luke
 424433	Luke
 Luke
 424436	Luke
@@ -223378,12 +226637,13 @@ Luke
 424466	Luke
 Luke
 Luke
-Luke
 424471	Luke
 424473	Luke
 Luke
-424476	Luke
-424478	Luke
+Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -223392,7 +226652,8 @@ Luke
 Luke
 424490	Luke
 424493	Luke
-424498	Luke
+424497	Luke
+Luke
 Luke
 Luke
 Luke
@@ -223449,17 +226710,15 @@ Luke
 Luke
 424584	Luke
 Luke
-424589	Luke
-Luke
+424588	Luke
+424590	Luke
 Luke
 424594	Luke
-Luke
 Luke
 424598	Luke
 424604	Luke
 Luke
-424609	Luke
-Luke
+424610	Luke
 424612	Luke
 Luke
 Luke
@@ -223475,7 +226734,8 @@ Luke
 Luke
 424631	Luke
 Luke
-424636	Luke
+424635	Luke
+Luke
 Luke
 424640	Luke
 Luke
@@ -223524,7 +226784,8 @@ Luke
 424724	Luke
 Luke
 424729	Luke
-424731	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -223545,11 +226806,11 @@ Luke
 Luke
 Luke
 424764	Luke
-424766	Luke
 Luke
 Luke
 Luke
 Luke
+424770	Luke
 Luke
 Luke
 424774	Luke
@@ -223570,7 +226831,8 @@ Luke
 424805	Luke
 Luke
 Luke
-424809	Luke
+Luke
+Luke
 424814	Luke
 Luke
 Luke
@@ -223579,7 +226841,8 @@ Luke
 Luke
 Luke
 424825	Luke
-424828	Luke
+Luke
+Luke
 Luke
 424831	Luke
 424833	Luke
@@ -223605,7 +226868,8 @@ Luke
 424865	Luke
 Luke
 Luke
-424870	Luke
+424869	Luke
+Luke
 Luke
 Luke
 Luke
@@ -223637,14 +226901,17 @@ Luke
 Luke
 Luke
 424918	Luke
-424920	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
 424926	Luke
 Luke
-424931	Luke
-424935	Luke
+424930	Luke
+Luke
+424934	Luke
+Luke
 Luke
 424940	Luke
 Luke
@@ -223658,6 +226925,7 @@ Luke
 Luke
 Luke
 424954	Luke
+Luke
 424957	Luke
 Luke
 Luke
@@ -223665,12 +226933,11 @@ Luke
 Luke
 424965	Luke
 Luke
-Luke
 424971	Luke
+Luke
 424981	Luke
 Luke
-424985	Luke
-Luke
+424986	Luke
 Luke
 424989	Luke
 Luke
@@ -223680,7 +226947,8 @@ Luke
 Luke
 Luke
 425001	Luke
-425003	Luke
+Luke
+Luke
 425006	Luke
 Luke
 425009	Luke
@@ -223689,7 +226957,8 @@ Luke
 Luke
 Luke
 Luke
-425022	Luke
+425021	Luke
+Luke
 425024	Luke
 Luke
 425029	Luke
@@ -223702,7 +226971,8 @@ Luke
 Luke
 Luke
 Luke
-425040	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -223715,7 +226985,8 @@ Luke
 Luke
 425055	Luke
 Luke
-425062	Luke
+425061	Luke
+Luke
 Luke
 425067	Luke
 Luke
@@ -223733,7 +227004,8 @@ Luke
 Luke
 Luke
 Luke
-425097	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -223741,7 +227013,8 @@ Luke
 425103	Luke
 Luke
 Luke
-425107	Luke
+Luke
+Luke
 Luke
 Luke
 425112	Luke
@@ -223750,7 +227023,8 @@ Luke
 Luke
 425122	Luke
 Luke
-425125	Luke
+Luke
+Luke
 425128	Luke
 Luke
 Luke
@@ -223782,7 +227056,8 @@ Luke
 Luke
 Luke
 425172	Luke
-425174	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -223792,19 +227067,23 @@ Luke
 425184	Luke
 Luke
 Luke
-425188	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
 Luke
 425194	Luke
 425198	Luke
-425201	Luke
+Luke
+Luke
+Luke
 Luke
 425204	Luke
 Luke
 Luke
-425209	Luke
+425208	Luke
+Luke
 425211	Luke
 Luke
 425214	Luke
@@ -223845,7 +227124,8 @@ Luke
 Luke
 Luke
 Luke
-425268	Luke
+425267	Luke
+Luke
 Luke
 Luke
 425274	Luke
@@ -223891,7 +227171,8 @@ Luke
 Luke
 425374	Luke
 Luke
-425378	Luke
+425377	Luke
+Luke
 Luke
 425388	Luke
 Luke
@@ -223900,7 +227181,8 @@ Luke
 425400	Luke
 Luke
 Luke
-425404	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -223908,22 +227190,26 @@ Luke
 Luke
 Luke
 425412	Luke
-425414	Luke
+Luke
+Luke
 425416	Luke
 Luke
 425420	Luke
 Luke
 Luke
 Luke
+Luke
 425426	Luke
-425428	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
 Luke
 425435	Luke
 Luke
-425438	Luke
+Luke
+Luke
 Luke
 425443	Luke
 Luke
@@ -223933,16 +227219,19 @@ Luke
 Luke
 Luke
 Luke
-425453	Luke
+Luke
+Luke
 Luke
 Luke
 425457	Luke
-425462	Luke
+425461	Luke
+Luke
 425464	Luke
 Luke
 Luke
 Luke
-425473	Luke
+425472	Luke
+Luke
 Luke
 425482	Luke
 425484	Luke
@@ -223962,7 +227251,8 @@ Luke
 Luke
 425510	Luke
 Luke
-425513	Luke
+Luke
+Luke
 Luke
 Luke
 425517	Luke
@@ -223971,7 +227261,8 @@ Luke
 425523	Luke
 Luke
 425527	Luke
-425529	Luke
+Luke
+Luke
 425533	Luke
 425535	Luke
 Luke
@@ -223992,7 +227283,8 @@ Luke
 425557	Luke
 Luke
 Luke
-425563	Luke
+425562	Luke
+Luke
 425565	Luke
 425567	Luke
 425570	Luke
@@ -224000,12 +227292,14 @@ Luke
 Luke
 Luke
 Luke
-425577	Luke
+425576	Luke
 Luke
 Luke
 Luke
 Luke
-425584	Luke
+Luke
+425583	Luke
+Luke
 425587	Luke
 Luke
 Luke
@@ -224026,11 +227320,11 @@ Luke
 Luke
 Luke
 425615	Luke
-425617	Luke
+Luke
+Luke
 425620	Luke
 Luke
 425624	Luke
-Luke
 Luke
 Luke
 425630	Luke
@@ -224087,7 +227381,6 @@ Luke
 Luke
 425711	Luke
 Luke
-425717	Luke
 425721	Luke
 425724	Luke
 Luke
@@ -224126,21 +227419,25 @@ Luke
 Luke
 425784	Luke
 Luke
-425787	Luke
-Luke
-Luke
-Luke
-425792	Luke
 Luke
 Luke
 Luke
 Luke
-425798	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
 425800	Luke
 Luke
 Luke
 425805	Luke
-425810	Luke
+425809	Luke
+Luke
 Luke
 425814	Luke
 425816	Luke
@@ -224150,7 +227447,6 @@ Luke
 Luke
 425823	Luke
 425826	Luke
-425828	Luke
 425831	Luke
 Luke
 425835	Luke
@@ -224159,7 +227455,8 @@ Luke
 Luke
 Luke
 Luke
-425842	Luke
+Luke
+Luke
 Luke
 425845	Luke
 Luke
@@ -224171,12 +227468,10 @@ Luke
 Luke
 425869	Luke
 Luke
-Luke
 425874	Luke
 Luke
 425878	Luke
 425881	Luke
-Luke
 Luke
 425885	Luke
 425891	Luke
@@ -224186,8 +227481,10 @@ Luke
 425900	Luke
 Luke
 Luke
+Luke
 425905	Luke
-425907	Luke
+Luke
+Luke
 425909	Luke
 Luke
 Luke
@@ -224216,12 +227513,11 @@ Luke
 Luke
 Luke
 Luke
-425945	Luke
 Luke
-425949	Luke
 Luke
-425952	Luke
 Luke
+425950	Luke
+425953	Luke
 Luke
 Luke
 425961	Luke
@@ -224235,7 +227531,8 @@ Luke
 Luke
 Luke
 Luke
-425980	Luke
+Luke
+Luke
 425983	Luke
 425985	Luke
 Luke
@@ -224258,14 +227555,16 @@ Luke
 426024	Luke
 Luke
 426027	Luke
-426030	Luke
 Luke
 Luke
 Luke
 Luke
 Luke
 Luke
-426039	Luke
+Luke
+426036	Luke
+426038	Luke
+Luke
 Luke
 Luke
 Luke
@@ -224275,15 +227574,19 @@ Luke
 Luke
 Luke
 Luke
-426052	Luke
 Luke
 Luke
 Luke
-426058	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
 426062	Luke
 426065	Luke
 Luke
-426069	Luke
+426068	Luke
+Luke
 Luke
 Luke
 Luke
@@ -224300,7 +227603,8 @@ Luke
 Luke
 Luke
 426090	Luke
-426094	Luke
+426093	Luke
+Luke
 426098	Luke
 Luke
 426101	Luke
@@ -224345,27 +227649,29 @@ Luke
 426169	Luke
 Luke
 Luke
-426173	Luke
-Luke
+426174	Luke
 Luke
 426177	Luke
 426181	Luke
 Luke
 426186	Luke
+426188	Luke
 426190	Luke
-426193	Luke
 426195	Luke
+426197	Luke
 426199	Luke
 Luke
 Luke
 426204	Luke
 426209	Luke
 Luke
+Luke
 426213	Luke
 426215	Luke
 Luke
 Luke
-426219	Luke
+Luke
+Luke
 Luke
 426222	Luke
 Luke
@@ -224429,10 +227735,12 @@ Luke
 Luke
 426320	Luke
 426325	Luke
-426327	Luke
+Luke
+Luke
 426331	Luke
 Luke
-426334	Luke
+Luke
+Luke
 Luke
 426337	Luke
 Luke
@@ -224469,7 +227777,8 @@ Luke
 Luke
 Luke
 Luke
-426395	Luke
+426394	Luke
+Luke
 Luke
 426399	Luke
 Luke
@@ -224490,10 +227799,13 @@ Luke
 426421	Luke
 Luke
 Luke
-426425	Luke
 Luke
 Luke
-426430	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
 426432	Luke
 Luke
 426435	Luke
@@ -224501,7 +227813,8 @@ Luke
 Luke
 Luke
 Luke
-426441	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -224513,13 +227826,11 @@ Luke
 426452	Luke
 Luke
 Luke
-426456	Luke
 426458	Luke
 426461	Luke
 Luke
 Luke
 426466	Luke
-Luke
 Luke
 Luke
 426472	Luke
@@ -224529,7 +227840,6 @@ Luke
 Luke
 Luke
 426481	Luke
-Luke
 Luke
 426485	Luke
 426487	Luke
@@ -224549,7 +227859,8 @@ Luke
 426517	Luke
 Luke
 Luke
-426521	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -224562,7 +227873,8 @@ Luke
 Luke
 Luke
 Luke
-426540	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -224583,7 +227895,8 @@ Luke
 Luke
 Luke
 426567	Luke
-426569	Luke
+Luke
+Luke
 Luke
 426572	Luke
 426574	Luke
@@ -224592,6 +227905,7 @@ Luke
 Luke
 Luke
 Luke
+426584	Luke
 426587	Luke
 426590	Luke
 Luke
@@ -224611,9 +227925,9 @@ Luke
 426618	Luke
 Luke
 Luke
-426623	Luke
+426622	Luke
 Luke
-Luke
+426625	Luke
 Luke
 426632	Luke
 Luke
@@ -224625,8 +227939,7 @@ Luke
 Luke
 426646	Luke
 Luke
-Luke
-Luke
+426649	Luke
 Luke
 Luke
 Luke
@@ -224635,7 +227948,8 @@ Luke
 Luke
 426662	Luke
 Luke
-426665	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -224684,6 +227998,7 @@ Luke
 426740	Luke
 Luke
 Luke
+Luke
 426745	Luke
 426749	Luke
 Luke
@@ -224707,7 +228022,8 @@ Luke
 Luke
 426782	Luke
 Luke
-426786	Luke
+426785	Luke
+Luke
 426789	Luke
 426791	Luke
 Luke
@@ -224721,7 +228037,8 @@ Luke
 Luke
 426809	Luke
 426811	Luke
-426813	Luke
+Luke
+Luke
 426815	Luke
 Luke
 426819	Luke
@@ -224729,7 +228046,8 @@ Luke
 426822	Luke
 Luke
 Luke
-426826	Luke
+Luke
+Luke
 Luke
 Luke
 426831	Luke
@@ -224745,7 +228063,9 @@ Luke
 426853	Luke
 Luke
 426856	Luke
-426858	Luke
+Luke
+Luke
+Luke
 426861	Luke
 426866	Luke
 Luke
@@ -224767,7 +228087,8 @@ Luke
 Luke
 Luke
 Luke
-426900	Luke
+426899	Luke
+Luke
 Luke
 Luke
 Luke
@@ -224793,12 +228114,14 @@ Luke
 Luke
 426937	Luke
 Luke
-426940	Luke
+Luke
+Luke
 426943	Luke
 426945	Luke
 Luke
 426948	Luke
-426950	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -224818,7 +228141,8 @@ Luke
 426976	Luke
 Luke
 Luke
-426980	Luke
+Luke
+Luke
 426982	Luke
 Luke
 Luke
@@ -224852,8 +228176,7 @@ Luke
 Luke
 Luke
 Luke
-427024	Luke
-Luke
+427025	Luke
 427030	Luke
 Luke
 Luke
@@ -224875,14 +228198,16 @@ Luke
 Luke
 Luke
 427062	Luke
-427065	Luke
+427064	Luke
+Luke
 Luke
 427069	Luke
 Luke
 Luke
 Luke
 Luke
-427075	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -224899,7 +228224,8 @@ Luke
 Luke
 Luke
 427108	Luke
-427110	Luke
+Luke
+Luke
 427112	Luke
 Luke
 427115	Luke
@@ -224915,7 +228241,8 @@ Luke
 427130	Luke
 Luke
 Luke
-427134	Luke
+Luke
+Luke
 427136	Luke
 Luke
 Luke
@@ -224944,12 +228271,12 @@ Luke
 Luke
 Luke
 Luke
-427177	Luke
+427176	Luke
+Luke
 427179	Luke
 427181	Luke
 Luke
-427186	Luke
-Luke
+427187	Luke
 Luke
 Luke
 Luke
@@ -224960,7 +228287,7 @@ Luke
 Luke
 Luke
 Luke
-427202	Luke
+Luke
 Luke
 Luke
 Luke
@@ -224976,7 +228303,6 @@ Luke
 Luke
 427226	Luke
 427230	Luke
-Luke
 Luke
 Luke
 Luke
@@ -225038,7 +228364,8 @@ Luke
 Luke
 Luke
 Luke
-427320	Luke
+Luke
+Luke
 427324	Luke
 Luke
 427328	Luke
@@ -225050,7 +228377,8 @@ Luke
 Luke
 427337	Luke
 Luke
-427341	Luke
+427340	Luke
+Luke
 Luke
 Luke
 427345	Luke
@@ -225061,7 +228389,8 @@ Luke
 Luke
 Luke
 Luke
-427357	Luke
+Luke
+Luke
 Luke
 427361	Luke
 Luke
@@ -225074,17 +228403,19 @@ Luke
 Luke
 427377	Luke
 Luke
-427380	Luke
 Luke
 Luke
 Luke
-427387	Luke
+427383	Luke
+427386	Luke
+Luke
 427391	Luke
 Luke
 427396	Luke
 Luke
 427399	Luke
 427402	Luke
+Luke
 Luke
 Luke
 427407	Luke
@@ -225114,25 +228445,24 @@ Luke
 Luke
 Luke
 427453	Luke
+427455	Luke
 Luke
 Luke
-Luke
-Luke
+427459	Luke
 427462	Luke
 Luke
 427465	Luke
 Luke
-Luke
 427469	Luke
 427473	Luke
-Luke
 Luke
 Luke
 427479	Luke
 427483	Luke
 Luke
 Luke
-427487	Luke
+Luke
+Luke
 427489	Luke
 Luke
 427492	Luke
@@ -225141,7 +228471,8 @@ Luke
 Luke
 Luke
 Luke
-427502	Luke
+Luke
+Luke
 427504	Luke
 Luke
 Luke
@@ -225178,8 +228509,10 @@ Luke
 Luke
 427552	Luke
 Luke
-427555	Luke
-427559	Luke
+Luke
+Luke
+427558	Luke
+Luke
 427562	Luke
 427564	Luke
 Luke
@@ -225210,7 +228543,8 @@ Luke
 Luke
 Luke
 Luke
-427605	Luke
+427604	Luke
+Luke
 Luke
 427609	Luke
 Luke
@@ -225220,7 +228554,8 @@ Luke
 Luke
 Luke
 427620	Luke
-427622	Luke
+Luke
+Luke
 Luke
 Luke
 427626	Luke
@@ -225235,7 +228570,8 @@ Luke
 427642	Luke
 Luke
 427648	Luke
-427650	Luke
+Luke
+Luke
 427653	Luke
 Luke
 427658	Luke
@@ -225255,7 +228591,8 @@ Luke
 427690	Luke
 Luke
 427694	Luke
-427696	Luke
+Luke
+Luke
 427698	Luke
 Luke
 Luke
@@ -225264,11 +228601,14 @@ Luke
 427709	Luke
 Luke
 Luke
-427713	Luke
-427715	Luke
+Luke
+Luke
+Luke
+Luke
 427721	Luke
 Luke
-427724	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -225289,7 +228629,8 @@ Luke
 Luke
 427750	Luke
 Luke
-427754	Luke
+427753	Luke
+Luke
 Luke
 Luke
 Luke
@@ -225317,8 +228658,7 @@ Luke
 427796	Luke
 Luke
 Luke
-427801	Luke
-Luke
+427802	Luke
 Luke
 Luke
 Luke
@@ -225332,10 +228672,12 @@ Luke
 Luke
 Luke
 427820	Luke
-427822	Luke
+Luke
+Luke
 427825	Luke
 427827	Luke
-427829	Luke
+Luke
+Luke
 Luke
 Luke
 427835	Luke
@@ -225377,9 +228719,9 @@ Luke
 Luke
 427909	Luke
 Luke
-427915	Luke
 427917	Luke
-427919	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -225397,13 +228739,15 @@ Luke
 Luke
 Luke
 427948	Luke
-427950	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
 Luke
 427957	Luke
-427959	Luke
+Luke
+Luke
 Luke
 427963	Luke
 Luke
@@ -225415,15 +228759,18 @@ Luke
 Luke
 Luke
 427979	Luke
-427981	Luke
+Luke
+Luke
 427985	Luke
 427987	Luke
 427990	Luke
 Luke
 427995	Luke
 427999	Luke
-428001	Luke
-428003	Luke
+Luke
+Luke
+Luke
+Luke
 428006	Luke
 Luke
 Luke
@@ -225436,8 +228783,10 @@ Luke
 Luke
 Luke
 428024	Luke
-428026	Luke
-428028	Luke
+Luke
+Luke
+Luke
+Luke
 428031	Luke
 Luke
 Luke
@@ -225464,18 +228813,15 @@ Luke
 Luke
 Luke
 Luke
-428078	Luke
-Luke
+428079	Luke
 428082	Luke
 Luke
 428085	Luke
 Luke
-428088	Luke
-Luke
+428089	Luke
 Luke
 428092	Luke
-Luke
-Luke
+428094	Luke
 428097	Luke
 Luke
 Luke
@@ -225512,34 +228858,37 @@ Luke
 Luke
 428145	Luke
 Luke
-428149	Luke
-Luke
+428150	Luke
 Luke
 428157	Luke
 Luke
 428160	Luke
-428163	Luke
+428162	Luke
+Luke
 428165	Luke
 Luke
 428168	Luke
-428170	Luke
+Luke
+Luke
 Luke
 Luke
 428177	Luke
 Luke
 428185	Luke
 Luke
-428190	Luke
 Luke
-428194	Luke
+Luke
+Luke
+Luke
+Luke
 428196	Luke
 428198	Luke
 428200	Luke
-428202	Luke
+428203	Luke
 Luke
 Luke
 Luke
-428207	Luke
+Luke
 Luke
 428210	Luke
 Luke
@@ -225547,21 +228896,24 @@ Luke
 Luke
 428218	Luke
 Luke
-428222	Luke
+428221	Luke
+Luke
 428224	Luke
 Luke
 428227	Luke
-428229	Luke
+Luke
+Luke
 428231	Luke
 Luke
-Luke
 428235	Luke
-428237	Luke
+Luke
+Luke
 Luke
 428240	Luke
 Luke
 Luke
-428247	Luke
+428246	Luke
+Luke
 428250	Luke
 Luke
 Luke
@@ -225570,8 +228922,7 @@ Luke
 Luke
 Luke
 428258	Luke
-428260	Luke
-Luke
+428261	Luke
 Luke
 Luke
 Luke
@@ -225647,8 +228998,7 @@ Luke
 428386	Luke
 Luke
 428390	Luke
-Luke
-Luke
+428392	Luke
 Luke
 428395	Luke
 Luke
@@ -225663,7 +229013,9 @@ Luke
 428414	Luke
 Luke
 Luke
-428419	Luke
+Luke
+Luke
+Luke
 428421	Luke
 Luke
 Luke
@@ -225689,6 +229041,7 @@ Luke
 428458	Luke
 428461	Luke
 Luke
+Luke
 428465	Luke
 Luke
 Luke
@@ -225697,7 +229050,8 @@ Luke
 428479	Luke
 Luke
 Luke
-428483	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -225709,7 +229063,10 @@ Luke
 Luke
 Luke
 Luke
-428502	Luke
+428499	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -225736,15 +229093,18 @@ Luke
 Luke
 428544	Luke
 Luke
-428547	Luke
 Luke
 Luke
-428551	Luke
+Luke
+Luke
+Luke
+Luke
 Luke
 428555	Luke
 428558	Luke
 428565	Luke
-428567	Luke
+Luke
+Luke
 428570	Luke
 Luke
 428574	Luke
@@ -225766,7 +229126,8 @@ Luke
 Luke
 Luke
 Luke
-428605	Luke
+Luke
+Luke
 428607	Luke
 428609	Luke
 Luke
@@ -225774,7 +229135,8 @@ Luke
 Luke
 Luke
 Luke
-428621	Luke
+Luke
+Luke
 Luke
 Luke
 428625	Luke
@@ -225782,6 +229144,8 @@ Luke
 428628	Luke
 Luke
 428633	Luke
+Luke
+Luke
 Luke
 Luke
 428639	Luke
@@ -225814,7 +229178,8 @@ Luke
 Luke
 Luke
 Luke
-428680	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -225829,7 +229194,8 @@ Luke
 Luke
 Luke
 Luke
-428706	Luke
+Luke
+Luke
 428708	Luke
 428710	Luke
 Luke
@@ -225847,7 +229213,9 @@ Luke
 428741	Luke
 Luke
 428744	Luke
-428747	Luke
+Luke
+Luke
+Luke
 Luke
 428752	Luke
 428755	Luke
@@ -225870,7 +229238,8 @@ Luke
 428793	Luke
 Luke
 Luke
-428797	Luke
+Luke
+Luke
 Luke
 428800	Luke
 Luke
@@ -225886,7 +229255,8 @@ Luke
 Luke
 Luke
 Luke
-428823	Luke
+428822	Luke
+Luke
 Luke
 428829	Luke
 Luke
@@ -225895,6 +229265,7 @@ Luke
 Luke
 Luke
 Luke
+428840	Luke
 428842	Luke
 Luke
 Luke
@@ -225918,23 +229289,27 @@ Luke
 Luke
 Luke
 428880	Luke
-Luke
 428884	Luke
 Luke
 Luke
-428888	Luke
 Luke
 Luke
 Luke
 Luke
-428895	Luke
+Luke
+Luke
+428894	Luke
+Luke
 428899	Luke
 Luke
 Luke
-428903	Luke
+Luke
+Luke
 428905	Luke
 Luke
-428909	Luke
+Luke
+Luke
+Luke
 428913	Luke
 Luke
 Luke
@@ -225942,11 +229317,13 @@ Luke
 Luke
 Luke
 428921	Luke
-428923	Luke
+Luke
+Luke
 Luke
 428926	Luke
 428933	Luke
-428935	Luke
+Luke
+Luke
 Luke
 428945	Luke
 Luke
@@ -225956,7 +229333,8 @@ Luke
 428956	Luke
 Luke
 428959	Luke
-428961	Luke
+Luke
+Luke
 Luke
 428969	Luke
 Luke
@@ -225970,7 +229348,8 @@ Luke
 428984	Luke
 Luke
 428988	Luke
-428990	Luke
+Luke
+Luke
 428993	Luke
 Luke
 Luke
@@ -225984,7 +229363,8 @@ Luke
 Luke
 Luke
 429020	Luke
-429022	Luke
+Luke
+Luke
 Luke
 Luke
 429029	Luke
@@ -226012,12 +229392,10 @@ Luke
 429064	Luke
 Luke
 429069	Luke
-429074	Luke
 429076	Luke
 429078	Luke
 Luke
-429082	Luke
-Luke
+429083	Luke
 Luke
 Luke
 Luke
@@ -226037,18 +229415,19 @@ Luke
 429110	Luke
 429112	Luke
 Luke
-Luke
 429116	Luke
 429120	Luke
 Luke
-429123	Luke
 Luke
-429126	Luke
+Luke
+Luke
+Luke
+Luke
 429129	Luke
 Luke
-Luke
 429136	Luke
-429142	Luke
+429141	Luke
+Luke
 Luke
 429145	Luke
 429150	Luke
@@ -226074,7 +229453,8 @@ Luke
 429189	Luke
 Luke
 429193	Luke
-429195	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -226085,10 +229465,10 @@ Luke
 Luke
 Luke
 429216	Luke
-429218	Luke
+429219	Luke
 Luke
 Luke
-429222	Luke
+Luke
 429225	Luke
 Luke
 Luke
@@ -226096,7 +229476,6 @@ Luke
 Luke
 429246	Luke
 Luke
-429249	Luke
 429251	Luke
 429253	Luke
 Luke
@@ -226109,7 +229488,7 @@ Luke
 Luke
 Luke
 Luke
-429274	Luke
+Luke
 Luke
 Luke
 429278	Luke
@@ -226124,16 +229503,19 @@ Luke
 Luke
 Luke
 429302	Luke
-429307	Luke
+429306	Luke
+Luke
 429309	Luke
 Luke
+429312	Luke
 Luke
-429313	Luke
 Luke
 Luke
-429317	Luke
 Luke
-429321	Luke
+Luke
+Luke
+429320	Luke
+Luke
 Luke
 429327	Luke
 Luke
@@ -226142,7 +229524,8 @@ Luke
 Luke
 429341	Luke
 429343	Luke
-429345	Luke
+Luke
+Luke
 429347	Luke
 Luke
 429350	Luke
@@ -226169,12 +229552,15 @@ Luke
 429389	Luke
 Luke
 Luke
-429395	Luke
+Luke
+429394	Luke
+Luke
 429408	Luke
 Luke
 Luke
 Luke
 429418	Luke
+Luke
 Luke
 429422	Luke
 429427	Luke
@@ -226182,7 +229568,8 @@ Luke
 Luke
 Luke
 429434	Luke
-429436	Luke
+Luke
+Luke
 Luke
 429441	Luke
 429443	Luke
@@ -226205,11 +229592,11 @@ Luke
 Luke
 Luke
 Luke
-429478	Luke
-Luke
+429479	Luke
 429481	Luke
 Luke
-429485	Luke
+429484	Luke
+Luke
 Luke
 Luke
 Luke
@@ -226226,27 +229613,29 @@ Luke
 429510	Luke
 Luke
 429513	Luke
-429515	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
 429521	Luke
 Luke
-429524	Luke
+Luke
+Luke
 Luke
 429528	Luke
 429531	Luke
 Luke
 Luke
 Luke
-429537	Luke
 429539	Luke
 429541	Luke
 Luke
 429545	Luke
 Luke
 429549	Luke
-429553	Luke
+429552	Luke
+Luke
 Luke
 Luke
 Luke
@@ -226260,7 +229649,8 @@ Luke
 Luke
 Luke
 Luke
-429574	Luke
+Luke
+Luke
 Luke
 Luke
 429578	Luke
@@ -226285,8 +229675,7 @@ Luke
 Luke
 Luke
 Luke
-Luke
-Luke
+429613	Luke
 Luke
 Luke
 429617	Luke
@@ -226304,7 +229693,8 @@ Luke
 Luke
 Luke
 Luke
-429644	Luke
+Luke
+Luke
 429649	Luke
 Luke
 429652	Luke
@@ -226347,13 +229737,17 @@ Luke
 Luke
 Luke
 429716	Luke
-429723	Luke
+429720	Luke
+429722	Luke
 Luke
 Luke
 Luke
-429728	Luke
+Luke
+Luke
+Luke
 429731	Luke
-429736	Luke
+429735	Luke
+Luke
 429738	Luke
 429741	Luke
 Luke
@@ -226366,6 +229760,7 @@ Luke
 429755	Luke
 Luke
 429758	Luke
+Luke
 Luke
 Luke
 Luke
@@ -226382,7 +229777,8 @@ Luke
 Luke
 Luke
 Luke
-429780	Luke
+Luke
+Luke
 429782	Luke
 429786	Luke
 429790	Luke
@@ -226391,13 +229787,15 @@ Luke
 Luke
 Luke
 Luke
-429797	Luke
+Luke
+Luke
 Luke
 429800	Luke
 429803	Luke
 Luke
 Luke
-429809	Luke
+429808	Luke
+Luke
 429811	Luke
 Luke
 Luke
@@ -226412,10 +229810,12 @@ Luke
 Luke
 429833	Luke
 Luke
+429836	Luke
 429840	Luke
 429845	Luke
 Luke
 429849	Luke
+Luke
 429853	Luke
 Luke
 Luke
@@ -226425,13 +229825,14 @@ Luke
 429864	Luke
 Luke
 Luke
-429868	Luke
+Luke
+Luke
 429870	Luke
 429876	Luke
 429879	Luke
 Luke
 Luke
-429883	Luke
+Luke
 Luke
 429886	Luke
 429888	Luke
@@ -226440,9 +229841,11 @@ Luke
 Luke
 Luke
 Luke
-429902	Luke
+429901	Luke
 Luke
-429906	Luke
+Luke
+429905	Luke
+Luke
 Luke
 429909	Luke
 Luke
@@ -226450,18 +229853,22 @@ Luke
 429916	Luke
 Luke
 429921	Luke
-429923	Luke
+Luke
+Luke
 429928	Luke
 Luke
 429931	Luke
 429935	Luke
 Luke
 Luke
-429939	Luke
+Luke
+Luke
 Luke
 Luke
 429943	Luke
-429945	Luke
+Luke
+Luke
+Luke
 429948	Luke
 429950	Luke
 Luke
@@ -226489,10 +229896,12 @@ Luke
 Luke
 429981	Luke
 Luke
-429984	Luke
+Luke
+Luke
 429992	Luke
 429994	Luke
 Luke
+429997	Luke
 429999	Luke
 430001	Luke
 Luke
@@ -226504,7 +229913,8 @@ Luke
 Luke
 430020	Luke
 Luke
-430026	Luke
+430025	Luke
+Luke
 Luke
 Luke
 430030	Luke
@@ -226514,7 +229924,6 @@ Luke
 Luke
 Luke
 Luke
-430038	Luke
 Luke
 Luke
 Luke
@@ -226525,14 +229934,16 @@ Luke
 Luke
 Luke
 Luke
-430051	Luke
+Luke
+Luke
 430053	Luke
 430055	Luke
 Luke
 430059	Luke
 Luke
 430064	Luke
-430066	Luke
+Luke
+Luke
 Luke
 Luke
 430075	Luke
@@ -226543,13 +229954,15 @@ Luke
 430085	Luke
 Luke
 430089	Luke
-430091	Luke
+Luke
+Luke
 430093	Luke
 Luke
 430098	Luke
 Luke
 430103	Luke
-430107	Luke
+430106	Luke
+Luke
 430113	Luke
 Luke
 Luke
@@ -226558,7 +229971,6 @@ Luke
 Luke
 430124	Luke
 Luke
-430127	Luke
 Luke
 Luke
 Luke
@@ -226566,7 +229978,12 @@ Luke
 Luke
 Luke
 Luke
-430141	Luke
+Luke
+Luke
+Luke
+Luke
+430140	Luke
+Luke
 430147	Luke
 Luke
 Luke
@@ -226591,7 +230008,8 @@ Luke
 Luke
 Luke
 Luke
-430185	Luke
+430184	Luke
+Luke
 Luke
 Luke
 430190	Luke
@@ -226605,7 +230023,8 @@ Luke
 Luke
 Luke
 Luke
-430212	Luke
+430211	Luke
+Luke
 430214	Luke
 Luke
 Luke
@@ -226652,7 +230071,8 @@ Luke
 Luke
 Luke
 430283	Luke
-430285	Luke
+Luke
+Luke
 430287	Luke
 430289	Luke
 Luke
@@ -226670,9 +230090,9 @@ Luke
 Luke
 Luke
 Luke
-430312	Luke
 430315	Luke
 430319	Luke
+Luke
 Luke
 Luke
 Luke
@@ -226699,7 +230119,9 @@ Luke
 430366	Luke
 Luke
 Luke
-430372	Luke
+Luke
+430371	Luke
+Luke
 Luke
 430376	Luke
 Luke
@@ -226711,13 +230133,13 @@ Luke
 Luke
 Luke
 430395	Luke
-430397	Luke
+Luke
+Luke
 Luke
 430403	Luke
 Luke
 Luke
-430407	Luke
-Luke
+430408	Luke
 430410	Luke
 Luke
 Luke
@@ -226730,7 +230152,8 @@ Luke
 Luke
 Luke
 Luke
-430425	Luke
+430424	Luke
+Luke
 Luke
 430430	Luke
 Luke
@@ -226738,8 +230161,12 @@ Luke
 Luke
 Luke
 Luke
-430438	Luke
-430443	Luke
+Luke
+Luke
+430440	Luke
+Luke
+Luke
+Luke
 430445	Luke
 Luke
 430448	Luke
@@ -226765,12 +230192,12 @@ Luke
 430476	Luke
 Luke
 Luke
-430480	Luke
+Luke
+Luke
 Luke
 Luke
 430484	Luke
 430487	Luke
-Luke
 430490	Luke
 430494	Luke
 Luke
@@ -226783,23 +230210,24 @@ Luke
 Luke
 Luke
 Luke
-430515	Luke
+430516	Luke
 Luke
-Luke
-430519	Luke
-Luke
+430520	Luke
 Luke
 Luke
 430527	Luke
 Luke
 Luke
-430531	Luke
 Luke
 Luke
-430535	Luke
+Luke
+Luke
+Luke
+Luke
 Luke
 430541	Luke
-430543	Luke
+Luke
+Luke
 430545	Luke
 Luke
 Luke
@@ -226813,8 +230241,7 @@ Luke
 430558	Luke
 Luke
 Luke
-Luke
-Luke
+430562	Luke
 Luke
 Luke
 430566	Luke
@@ -226827,12 +230254,14 @@ Luke
 Luke
 Luke
 Luke
-430579	Luke
+430578	Luke
 Luke
 Luke
 Luke
 Luke
-430585	Luke
+Luke
+Luke
+Luke
 430587	Luke
 Luke
 Luke
@@ -226846,9 +230275,11 @@ Luke
 Luke
 430608	Luke
 Luke
-430611	Luke
+Luke
+Luke
 430613	Luke
-430615	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -226868,10 +230299,10 @@ Luke
 430645	Luke
 Luke
 Luke
-430651	Luke
+430652	Luke
 Luke
 Luke
-430655	Luke
+Luke
 Luke
 430658	Luke
 Luke
@@ -226886,8 +230317,7 @@ Luke
 Luke
 Luke
 430672	Luke
-430675	Luke
-Luke
+430676	Luke
 430678	Luke
 Luke
 Luke
@@ -226901,7 +230331,9 @@ Luke
 Luke
 Luke
 430696	Luke
-430700	Luke
+430698	Luke
+Luke
+Luke
 Luke
 430704	Luke
 430707	Luke
@@ -226911,19 +230343,22 @@ Luke
 Luke
 Luke
 Luke
-Luke
-Luke
+430719	Luke
 Luke
 Luke
 Luke
 430724	Luke
 430727	Luke
-430730	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 Luke
 430737	Luke
-430740	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -226945,10 +230380,11 @@ Luke
 Luke
 430765	Luke
 Luke
-430769	Luke
 Luke
 Luke
 Luke
+Luke
+430772	Luke
 Luke
 430777	Luke
 430780	Luke
@@ -226958,11 +230394,13 @@ Luke
 430788	Luke
 Luke
 Luke
-430792	Luke
+Luke
+Luke
 Luke
 Luke
 430796	Luke
-430798	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -226985,14 +230423,15 @@ Luke
 430836	Luke
 Luke
 Luke
-430840	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
 Luke
 430846	Luke
 Luke
-430850	Luke
+430849	Luke
 Luke
 Luke
 Luke
@@ -227003,7 +230442,9 @@ Luke
 Luke
 Luke
 Luke
-430862	Luke
+Luke
+Luke
+Luke
 Luke
 430866	Luke
 Luke
@@ -227023,8 +230464,7 @@ Luke
 430886	Luke
 Luke
 430892	Luke
-430896	Luke
-Luke
+430897	Luke
 430899	Luke
 Luke
 430902	Luke
@@ -227042,8 +230482,7 @@ Luke
 Luke
 Luke
 430921	Luke
-430924	Luke
-Luke
+430925	Luke
 Luke
 Luke
 Luke
@@ -227061,10 +230500,10 @@ Luke
 430949	Luke
 Luke
 Luke
-430954	Luke
+430953	Luke
+Luke
 430956	Luke
 430958	Luke
-Luke
 Luke
 430964	Luke
 430966	Luke
@@ -227075,12 +230514,14 @@ Luke
 430979	Luke
 Luke
 430982	Luke
-430984	Luke
+Luke
+Luke
 430987	Luke
 Luke
 430990	Luke
 430992	Luke
-430994	Luke
+Luke
+Luke
 Luke
 430998	Luke
 Luke
@@ -227088,7 +230529,8 @@ Luke
 431002	Luke
 Luke
 431005	Luke
-431007	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -227117,12 +230559,15 @@ Luke
 431041	Luke
 Luke
 431046	Luke
-431048	Luke
 Luke
-431051	Luke
+Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 431056	Luke
+Luke
 Luke
 431061	Luke
 431065	Luke
@@ -227142,7 +230587,6 @@ Luke
 Luke
 Luke
 Luke
-431092	Luke
 431094	Luke
 431096	Luke
 Luke
@@ -227160,7 +230604,8 @@ Luke
 431115	Luke
 Luke
 Luke
-431123	Luke
+431122	Luke
+Luke
 431125	Luke
 Luke
 431129	Luke
@@ -227179,10 +230624,10 @@ Luke
 Luke
 Luke
 Luke
-431155	Luke
 431157	Luke
 431159	Luke
-431161	Luke
+Luke
+Luke
 Luke
 Luke
 431167	Luke
@@ -227193,7 +230638,8 @@ Luke
 431178	Luke
 Luke
 Luke
-431185	Luke
+431184	Luke
+Luke
 431187	Luke
 Luke
 Luke
@@ -227211,14 +230657,16 @@ Luke
 Luke
 Luke
 Luke
-431211	Luke
+431212	Luke
 Luke
 Luke
-431215	Luke
 Luke
 Luke
-431220	Luke
-431222	Luke
+Luke
+431219	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 431232	Luke
@@ -227241,7 +230689,8 @@ Luke
 431268	Luke
 Luke
 Luke
-431272	Luke
+Luke
+Luke
 Luke
 431278	Luke
 Luke
@@ -227257,7 +230706,8 @@ Luke
 Luke
 Luke
 Luke
-431305	Luke
+431304	Luke
+Luke
 431307	Luke
 Luke
 Luke
@@ -227273,11 +230723,13 @@ Luke
 Luke
 Luke
 Luke
-431332	Luke
+Luke
+Luke
 431336	Luke
 431338	Luke
 Luke
-431342	Luke
+431341	Luke
+Luke
 Luke
 Luke
 431348	Luke
@@ -227285,7 +230737,8 @@ Luke
 Luke
 431354	Luke
 Luke
-431357	Luke
+Luke
+Luke
 Luke
 431361	Luke
 Luke
@@ -227304,7 +230757,8 @@ Luke
 Luke
 431385	Luke
 Luke
-431392	Luke
+431391	Luke
+Luke
 431394	Luke
 431397	Luke
 Luke
@@ -227313,13 +230767,15 @@ Luke
 431405	Luke
 Luke
 431409	Luke
-431412	Luke
+431411	Luke
+Luke
 431416	Luke
 Luke
 Luke
 Luke
 Luke
-431422	Luke
+Luke
+Luke
 Luke
 431427	Luke
 Luke
@@ -227334,12 +230790,12 @@ Luke
 Luke
 431444	Luke
 Luke
-431447	Luke
+Luke
+Luke
 Luke
 Luke
 431451	Luke
-Luke
-Luke
+431453	Luke
 Luke
 Luke
 Luke
@@ -227372,7 +230828,8 @@ Luke
 431497	Luke
 Luke
 431500	Luke
-431502	Luke
+Luke
+Luke
 Luke
 Luke
 431508	Luke
@@ -227390,7 +230847,8 @@ Luke
 Luke
 431533	Luke
 Luke
-431536	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -227416,16 +230874,19 @@ Luke
 Luke
 Luke
 Luke
-431575	Luke
+431574	Luke
+Luke
 431580	Luke
 Luke
 Luke
 Luke
 Luke
-431588	Luke
+431587	Luke
 Luke
 Luke
-431596	Luke
+Luke
+431595	Luke
+Luke
 Luke
 Luke
 Luke
@@ -227459,14 +230920,16 @@ Luke
 431651	Luke
 Luke
 Luke
-431655	Luke
+Luke
+Luke
 431660	Luke
 Luke
 Luke
 Luke
 431676	Luke
 Luke
-431679	Luke
+Luke
+Luke
 431684	Luke
 Luke
 Luke
@@ -227476,14 +230939,17 @@ Luke
 431698	Luke
 Luke
 431705	Luke
-431707	Luke
+Luke
+Luke
 Luke
 431712	Luke
 431714	Luke
-431716	Luke
+Luke
+Luke
 Luke
 431720	Luke
-431723	Luke
+431722	Luke
+Luke
 431725	Luke
 431727	Luke
 431729	Luke
@@ -227506,6 +230972,7 @@ Luke
 Luke
 Luke
 Luke
+Luke
 431759	Luke
 Luke
 Luke
@@ -227514,7 +230981,6 @@ Luke
 431769	Luke
 Luke
 431776	Luke
-Luke
 431779	Luke
 431782	Luke
 Luke
@@ -227524,14 +230990,14 @@ Luke
 Luke
 Luke
 Luke
-Luke
 431797	Luke
 431799	Luke
 Luke
 431804	Luke
 Luke
 431807	Luke
-431809	Luke
+Luke
+Luke
 431812	Luke
 Luke
 Luke
@@ -227544,8 +231010,7 @@ Luke
 Luke
 431824	Luke
 Luke
-Luke
-Luke
+431827	Luke
 Luke
 431830	Luke
 Luke
@@ -227561,7 +231026,8 @@ Luke
 431854	Luke
 431857	Luke
 Luke
-431860	Luke
+Luke
+Luke
 431862	Luke
 Luke
 431869	Luke
@@ -227606,8 +231072,7 @@ Luke
 Luke
 Luke
 Luke
-431943	Luke
-Luke
+431944	Luke
 431946	Luke
 431948	Luke
 Luke
@@ -227618,7 +231083,10 @@ Luke
 431956	Luke
 Luke
 Luke
-431962	Luke
+Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -227630,9 +231098,9 @@ Luke
 Luke
 431984	Luke
 Luke
-431987	Luke
 Luke
 Luke
+431989	Luke
 431991	Luke
 Luke
 Luke
@@ -227644,10 +231112,10 @@ Luke
 Luke
 432003	Luke
 Luke
-432006	Luke
 Luke
 Luke
 Luke
+432009	Luke
 432011	Luke
 Luke
 Luke
@@ -227670,15 +231138,18 @@ Luke
 Luke
 432048	Luke
 Luke
-432051	Luke
+Luke
+Luke
 Luke
 432055	Luke
 Luke
-432058	Luke
 Luke
 Luke
 Luke
-432063	Luke
+Luke
+Luke
+Luke
+Luke
 432065	Luke
 432068	Luke
 Luke
@@ -227690,7 +231161,8 @@ Luke
 432078	Luke
 Luke
 Luke
-432083	Luke
+432082	Luke
+Luke
 Luke
 432088	Luke
 Luke
@@ -227702,7 +231174,9 @@ Luke
 Luke
 Luke
 Luke
-432104	Luke
+Luke
+Luke
+Luke
 432109	Luke
 432111	Luke
 Luke
@@ -227715,7 +231189,8 @@ Luke
 Luke
 Luke
 Luke
-432126	Luke
+432125	Luke
+Luke
 Luke
 Luke
 Luke
@@ -227750,17 +231225,20 @@ Luke
 Luke
 432168	Luke
 Luke
-432172	Luke
+432173	Luke
 Luke
 Luke
 Luke
-432177	Luke
+Luke
 432180	Luke
+432182	Luke
 432184	Luke
 Luke
 Luke
 Luke
-432190	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -227769,7 +231247,8 @@ Luke
 Luke
 Luke
 432199	Luke
-432201	Luke
+Luke
+Luke
 432203	Luke
 Luke
 Luke
@@ -227788,7 +231267,8 @@ Luke
 Luke
 Luke
 Luke
-432232	Luke
+432231	Luke
+Luke
 Luke
 Luke
 432236	Luke
@@ -227800,7 +231280,8 @@ Luke
 Luke
 432247	Luke
 Luke
-432250	Luke
+Luke
+Luke
 Luke
 Luke
 432255	Luke
@@ -227810,7 +231291,8 @@ Luke
 432261	Luke
 432265	Luke
 Luke
-432268	Luke
+Luke
+Luke
 Luke
 432274	Luke
 Luke
@@ -227822,15 +231304,18 @@ Luke
 Luke
 432286	Luke
 Luke
-432291	Luke
+432290	Luke
+Luke
 Luke
 Luke
 Luke
 432301	Luke
 Luke
 Luke
-432305	Luke
-432307	Luke
+Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -227845,7 +231330,8 @@ Luke
 432320	Luke
 432335	Luke
 Luke
-432338	Luke
+Luke
+Luke
 Luke
 Luke
 432344	Luke
@@ -227854,7 +231340,8 @@ Luke
 Luke
 432358	Luke
 Luke
-432361	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -227865,7 +231352,8 @@ Luke
 Luke
 Luke
 Luke
-432382	Luke
+432381	Luke
+Luke
 Luke
 Luke
 Luke
@@ -227875,29 +231363,33 @@ Luke
 Luke
 Luke
 432393	Luke
-Luke
-Luke
+432395	Luke
 432397	Luke
 Luke
 Luke
 432402	Luke
 432407	Luke
 Luke
-432413	Luke
+432412	Luke
+Luke
 432416	Luke
 Luke
 432422	Luke
 Luke
 Luke
 432429	Luke
-432433	Luke
-432435	Luke
+432432	Luke
+Luke
+Luke
+Luke
 Luke
 432439	Luke
 Luke
-432442	Luke
 Luke
-432445	Luke
+Luke
+Luke
+Luke
+Luke
 432450	Luke
 Luke
 432453	Luke
@@ -227913,13 +231405,15 @@ Luke
 Luke
 Luke
 Luke
-432474	Luke
+Luke
+Luke
 432476	Luke
 432479	Luke
 Luke
 432482	Luke
 Luke
-432485	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -227938,7 +231432,8 @@ Luke
 Luke
 432516	Luke
 Luke
-432521	Luke
+432520	Luke
+Luke
 432523	Luke
 432526	Luke
 Luke
@@ -227960,21 +231455,22 @@ Luke
 Luke
 432558	Luke
 Luke
-Luke
-Luke
+432561	Luke
 Luke
 Luke
 432565	Luke
 Luke
 Luke
 432571	Luke
-432573	Luke
+Luke
+Luke
 432577	Luke
 Luke
 432582	Luke
 Luke
 432587	Luke
-432589	Luke
+Luke
+Luke
 432591	Luke
 Luke
 Luke
@@ -227995,7 +231491,8 @@ Luke
 432625	Luke
 Luke
 Luke
-432632	Luke
+432631	Luke
+Luke
 432634	Luke
 432636	Luke
 Luke
@@ -228009,7 +231506,8 @@ Luke
 Luke
 Luke
 432656	Luke
-432658	Luke
+Luke
+Luke
 Luke
 432664	Luke
 432666	Luke
@@ -228029,7 +231527,8 @@ Luke
 432684	Luke
 Luke
 432687	Luke
-432689	Luke
+Luke
+Luke
 Luke
 Luke
 432694	Luke
@@ -228039,7 +231538,8 @@ Luke
 432702	Luke
 Luke
 Luke
-432706	Luke
+Luke
+Luke
 Luke
 432711	Luke
 432714	Luke
@@ -228050,12 +231550,14 @@ Luke
 432721	Luke
 432723	Luke
 Luke
-432727	Luke
-432729	Luke
+432726	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 432734	Luke
-432737	Luke
+432736	Luke
 Luke
 Luke
 Luke
@@ -228069,24 +231571,30 @@ Luke
 Luke
 Luke
 432756	Luke
-432760	Luke
+Luke
+Luke
+Luke
+Luke
 432762	Luke
 Luke
 Luke
 Luke
 Luke
 432769	Luke
-432771	Luke
-Luke
-Luke
-432775	Luke
 Luke
 Luke
 Luke
 Luke
 Luke
 Luke
-432784	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+432783	Luke
+Luke
 432786	Luke
 Luke
 432793	Luke
@@ -228114,12 +231622,14 @@ Luke
 Luke
 Luke
 Luke
-432833	Luke
+Luke
+Luke
 432835	Luke
 Luke
 Luke
 Luke
-432844	Luke
+432843	Luke
+Luke
 432848	Luke
 Luke
 432853	Luke
@@ -228155,7 +231665,8 @@ Luke
 Luke
 Luke
 Luke
-432909	Luke
+Luke
+Luke
 432911	Luke
 Luke
 432914	Luke
@@ -228189,7 +231700,6 @@ Luke
 Luke
 432953	Luke
 432955	Luke
-432957	Luke
 Luke
 Luke
 Luke
@@ -228200,7 +231710,10 @@ Luke
 Luke
 Luke
 Luke
-432970	Luke
+Luke
+Luke
+432969	Luke
+Luke
 Luke
 432974	Luke
 Luke
@@ -228224,7 +231737,8 @@ Luke
 Luke
 Luke
 Luke
-433003	Luke
+Luke
+Luke
 Luke
 433006	Luke
 Luke
@@ -228240,7 +231754,8 @@ Luke
 Luke
 Luke
 Luke
-433027	Luke
+Luke
+Luke
 Luke
 433031	Luke
 Luke
@@ -228274,7 +231789,8 @@ Luke
 Luke
 Luke
 433075	Luke
-433077	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -228290,11 +231806,13 @@ Luke
 Luke
 Luke
 Luke
-433104	Luke
+Luke
+Luke
 Luke
 Luke
 433108	Luke
-433110	Luke
+Luke
+Luke
 433112	Luke
 Luke
 Luke
@@ -228331,6 +231849,7 @@ Luke
 433164	Luke
 Luke
 Luke
+Luke
 433170	Luke
 433172	Luke
 Luke
@@ -228342,7 +231861,8 @@ Luke
 Luke
 433184	Luke
 Luke
-433187	Luke
+Luke
+Luke
 Luke
 Luke
 433191	Luke
@@ -228360,7 +231880,9 @@ Luke
 433214	Luke
 Luke
 433217	Luke
-433219	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 433225	Luke
@@ -228375,19 +231897,22 @@ Luke
 Luke
 Luke
 Luke
-433241	Luke
+Luke
+Luke
 433245	Luke
 433247	Luke
 Luke
 Luke
 Luke
-433254	Luke
+433253	Luke
 Luke
 Luke
 Luke
 Luke
 Luke
-433261	Luke
+Luke
+Luke
+Luke
 433266	Luke
 Luke
 Luke
@@ -228428,39 +231953,45 @@ Luke
 Luke
 Luke
 433322	Luke
-433325	Luke
 Luke
 Luke
-433329	Luke
 Luke
+Luke
+Luke
+433330	Luke
 433334	Luke
 Luke
 Luke
 433339	Luke
 Luke
-433345	Luke
+433344	Luke
+Luke
 Luke
 433348	Luke
-433350	Luke
+Luke
+Luke
 433353	Luke
 Luke
 Luke
 Luke
-433358	Luke
+Luke
+Luke
 Luke
 Luke
 433362	Luke
 Luke
 Luke
 433367	Luke
-433369	Luke
 Luke
 Luke
 Luke
 Luke
 Luke
 Luke
-433377	Luke
+Luke
+Luke
+Luke
+Luke
 433379	Luke
 433383	Luke
 433385	Luke
@@ -228474,14 +232005,17 @@ Luke
 Luke
 Luke
 433404	Luke
-433406	Luke
+Luke
+Luke
 Luke
 433412	Luke
-433414	Luke
+Luke
+Luke
 433421	Luke
 433426	Luke
 Luke
-433433	Luke
+433432	Luke
+Luke
 Luke
 Luke
 Luke
@@ -228498,11 +232032,13 @@ Luke
 Luke
 Luke
 Luke
-433466	Luke
+Luke
+Luke
 Luke
 Luke
 433470	Luke
-433472	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -228524,8 +232060,7 @@ Luke
 Luke
 Luke
 Luke
-Luke
-Luke
+433510	Luke
 433515	Luke
 Luke
 433520	Luke
@@ -228546,24 +232081,25 @@ Luke
 433551	Luke
 Luke
 Luke
-Luke
 433556	Luke
 433558	Luke
 Luke
 Luke
 433564	Luke
-433566	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
 Luke
 433573	Luke
 Luke
-433576	Luke
-433581	Luke
+Luke
+Luke
+433580	Luke
+Luke
 Luke
 433586	Luke
-Luke
 Luke
 Luke
 Luke
@@ -228591,13 +232127,16 @@ Luke
 433630	Luke
 Luke
 Luke
-433634	Luke
+Luke
+Luke
 Luke
 Luke
 433638	Luke
 Luke
 433641	Luke
-433644	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 433648	Luke
@@ -228643,14 +232182,17 @@ Luke
 Luke
 433710	Luke
 Luke
-433716	Luke
-433718	Luke
+433715	Luke
+Luke
+Luke
+Luke
 433723	Luke
 Luke
 Luke
 Luke
 433729	Luke
-433731	Luke
+Luke
+Luke
 433733	Luke
 Luke
 Luke
@@ -228678,7 +232220,9 @@ Luke
 Luke
 Luke
 Luke
-433773	Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 433778	Luke
@@ -228689,7 +232233,7 @@ Luke
 Luke
 Luke
 433790	Luke
-433792	Luke
+Luke
 Luke
 Luke
 433796	Luke
@@ -228701,14 +232245,14 @@ Luke
 Luke
 Luke
 433814	Luke
-433816	Luke
+Luke
+Luke
 Luke
 433819	Luke
 Luke
 Luke
 Luke
 433824	Luke
-Luke
 Luke
 433828	Luke
 433832	Luke
@@ -228734,8 +232278,7 @@ Luke
 Luke
 433862	Luke
 Luke
-433865	Luke
-Luke
+433866	Luke
 Luke
 Luke
 Luke
@@ -228780,7 +232323,6 @@ Luke
 Luke
 Luke
 Luke
-Luke
 433936	Luke
 433938	Luke
 433940	Luke
@@ -228788,7 +232330,8 @@ Luke
 Luke
 Luke
 433948	Luke
-433950	Luke
+Luke
+Luke
 433956	Luke
 Luke
 433959	Luke
@@ -228805,7 +232348,8 @@ Luke
 433985	Luke
 Luke
 Luke
-433989	Luke
+Luke
+Luke
 Luke
 Luke
 433993	Luke
@@ -228822,7 +232366,8 @@ Luke
 434013	Luke
 434015	Luke
 434017	Luke
-434019	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -228843,7 +232388,8 @@ Luke
 434042	Luke
 Luke
 434047	Luke
-434051	Luke
+434050	Luke
+Luke
 434054	Luke
 Luke
 Luke
@@ -228853,17 +232399,21 @@ Luke
 Luke
 Luke
 434068	Luke
-434070	Luke
+Luke
+Luke
 434073	Luke
 434075	Luke
+434077	Luke
 434080	Luke
-434082	Luke
+Luke
+Luke
 Luke
 434085	Luke
 Luke
 434091	Luke
 434095	Luke
-434100	Luke
+434099	Luke
+Luke
 434104	Luke
 Luke
 Luke
@@ -228887,17 +232437,21 @@ Luke
 Luke
 434144	Luke
 Luke
-434152	Luke
+434151	Luke
 Luke
-434155	Luke
+Luke
+Luke
+Luke
 434158	Luke
-Luke
 Luke
 434162	Luke
 Luke
 Luke
-434167	Luke
 Luke
+Luke
+Luke
+Luke
+434170	Luke
 434172	Luke
 Luke
 Luke
@@ -228913,7 +232467,8 @@ Luke
 Luke
 Luke
 Luke
-434189	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -228923,10 +232478,10 @@ Luke
 Luke
 434202	Luke
 434204	Luke
-434206	Luke
 Luke
 Luke
 Luke
+434209	Luke
 Luke
 Luke
 Luke
@@ -228935,14 +232490,14 @@ Luke
 Luke
 Luke
 434218	Luke
+Luke
 434221	Luke
 434223	Luke
 Luke
 434226	Luke
 434228	Luke
 434230	Luke
-434233	Luke
-Luke
+434234	Luke
 Luke
 434237	Luke
 Luke
@@ -228952,11 +232507,9 @@ Luke
 434250	Luke
 Luke
 Luke
-434255	Luke
+434256	Luke
 Luke
-Luke
-434259	Luke
-Luke
+434260	Luke
 434264	Luke
 434266	Luke
 Luke
@@ -228964,8 +232517,8 @@ Luke
 Luke
 Luke
 Luke
-434276	Luke
 Luke
+434277	Luke
 Luke
 434280	Luke
 Luke
@@ -228987,13 +232540,15 @@ Luke
 Luke
 434311	Luke
 434317	Luke
-434319	Luke
+Luke
+Luke
 Luke
 Luke
 434323	Luke
 Luke
 Luke
-434329	Luke
+434328	Luke
+Luke
 Luke
 434336	Luke
 Luke
@@ -229006,8 +232561,7 @@ Luke
 434353	Luke
 Luke
 Luke
-Luke
-Luke
+434357	Luke
 Luke
 434360	Luke
 Luke
@@ -229024,18 +232578,18 @@ Luke
 Luke
 434389	Luke
 434391	Luke
-434394	Luke
+Luke
+Luke
+Luke
 Luke
 434397	Luke
 Luke
 Luke
 Luke
 Luke
-434408	Luke
+434409	Luke
 Luke
-Luke
-434412	Luke
-Luke
+434413	Luke
 434415	Luke
 Luke
 434418	Luke
@@ -229043,8 +232597,7 @@ Luke
 434423	Luke
 Luke
 Luke
-434432	Luke
-Luke
+434433	Luke
 Luke
 Luke
 Luke
@@ -229058,9 +232611,9 @@ Luke
 434448	Luke
 Luke
 Luke
-Luke
 434453	Luke
-434457	Luke
+434456	Luke
+Luke
 Luke
 Luke
 Luke
@@ -229077,7 +232630,6 @@ Luke
 Luke
 Luke
 434482	Luke
-Luke
 Luke
 Luke
 Luke
@@ -229126,7 +232678,7 @@ Luke
 434574	Luke
 Luke
 Luke
-434578	Luke
+Luke
 Luke
 434581	Luke
 434583	Luke
@@ -229141,8 +232693,7 @@ Luke
 434600	Luke
 Luke
 Luke
-434604	Luke
-Luke
+434605	Luke
 Luke
 Luke
 Luke
@@ -229160,20 +232711,22 @@ Luke
 Luke
 434622	Luke
 Luke
+434625	Luke
 434628	Luke
 Luke
 434631	Luke
 Luke
+434634	Luke
 Luke
 Luke
 Luke
-434637	Luke
 Luke
 434640	Luke
 Luke
 Luke
 Luke
-434645	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -229182,18 +232735,21 @@ Luke
 434653	Luke
 434655	Luke
 434657	Luke
-434661	Luke
+434660	Luke
+Luke
 434663	Luke
 Luke
 434668	Luke
-434671	Luke
+434670	Luke
+Luke
 434673	Luke
 434678	Luke
 434681	Luke
 Luke
 Luke
 Luke
-434686	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -229236,13 +232792,15 @@ Luke
 Luke
 Luke
 Luke
-434758	Luke
+Luke
+Luke
 434762	Luke
 Luke
 434765	Luke
 434769	Luke
 Luke
 434773	Luke
+Luke
 Luke
 Luke
 434778	Luke
@@ -229259,12 +232817,14 @@ Luke
 Luke
 Luke
 Luke
+Luke
 434815	Luke
 434817	Luke
 Luke
 Luke
 434821	Luke
-434823	Luke
+Luke
+Luke
 434825	Luke
 Luke
 Luke
@@ -229294,8 +232854,7 @@ Luke
 Luke
 Luke
 Luke
-Luke
-Luke
+434870	Luke
 Luke
 Luke
 Luke
@@ -229313,7 +232872,8 @@ Luke
 Luke
 Luke
 434894	Luke
-434896	Luke
+Luke
+Luke
 Luke
 Luke
 434901	Luke
@@ -229322,11 +232882,14 @@ Luke
 434911	Luke
 Luke
 434914	Luke
-434921	Luke
+434919	Luke
+Luke
+Luke
 Luke
 Luke
 434925	Luke
-434927	Luke
+Luke
+Luke
 Luke
 Luke
 434931	Luke
@@ -229344,15 +232907,18 @@ Luke
 434952	Luke
 434954	Luke
 Luke
-434957	Luke
-Luke
-434960	Luke
 Luke
 Luke
 Luke
 Luke
 Luke
-434967	Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
+Luke
 Luke
 434970	Luke
 Luke
@@ -229384,7 +232950,9 @@ Luke
 Luke
 435003	Luke
 Luke
-435008	Luke
+435006	Luke
+Luke
+Luke
 435010	Luke
 Luke
 435015	Luke
@@ -229413,7 +232981,8 @@ Luke
 435053	Luke
 Luke
 Luke
-435057	Luke
+Luke
+Luke
 Luke
 Luke
 435063	Luke
@@ -229436,7 +233005,8 @@ Luke
 435097	Luke
 435100	Luke
 Luke
-435103	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -229482,15 +233052,15 @@ Luke
 435175	Luke
 Luke
 435179	Luke
-435181	Luke
+Luke
+Luke
 Luke
 435184	Luke
-435186	Luke
+435187	Luke
 Luke
-435189	Luke
+Luke
 435194	Luke
 435197	Luke
-Luke
 Luke
 435202	Luke
 435206	Luke
@@ -229527,10 +233097,12 @@ Luke
 435258	Luke
 Luke
 Luke
-435262	Luke
+Luke
+Luke
 435265	Luke
 435267	Luke
-435269	Luke
+Luke
+Luke
 435273	Luke
 Luke
 435276	Luke
@@ -229546,7 +233118,8 @@ Luke
 Luke
 Luke
 435291	Luke
-435293	Luke
+Luke
+Luke
 435298	Luke
 Luke
 Luke
@@ -229574,7 +233147,8 @@ Luke
 Luke
 435326	Luke
 435328	Luke
-435330	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -229583,16 +233157,19 @@ Luke
 Luke
 Luke
 435345	Luke
-435347	Luke
+Luke
+Luke
 Luke
 435350	Luke
 Luke
 Luke
-435354	Luke
+Luke
+Luke
 Luke
 Luke
 435358	Luke
-435360	Luke
+Luke
+Luke
 Luke
 Luke
 435364	Luke
@@ -229636,7 +233213,6 @@ Luke
 Luke
 Luke
 Luke
-435439	Luke
 435441	Luke
 435443	Luke
 435447	Luke
@@ -229658,7 +233234,8 @@ Luke
 Luke
 435478	Luke
 435484	Luke
-435486	Luke
+Luke
+Luke
 435488	Luke
 435490	Luke
 435492	Luke
@@ -229675,7 +233252,6 @@ Luke
 Luke
 Luke
 Luke
-Luke
 435517	Luke
 435519	Luke
 Luke
@@ -229685,7 +233261,8 @@ Luke
 Luke
 Luke
 435533	Luke
-435535	Luke
+Luke
+Luke
 435537	Luke
 435539	Luke
 435545	Luke
@@ -229697,14 +233274,16 @@ Luke
 435555	Luke
 435557	Luke
 435561	Luke
-435565	Luke
+435564	Luke
+Luke
 435567	Luke
 Luke
 Luke
 Luke
 435576	Luke
 435578	Luke
-435580	Luke
+Luke
+Luke
 Luke
 Luke
 435584	Luke
@@ -229719,7 +233298,6 @@ Luke
 Luke
 Luke
 435600	Luke
-435603	Luke
 435606	Luke
 435609	Luke
 435612	Luke
@@ -229729,12 +233307,15 @@ Luke
 435618	Luke
 Luke
 Luke
-435622	Luke
 Luke
 Luke
 Luke
-435628	Luke
-435630	Luke
+Luke
+Luke
+435627	Luke
+Luke
+Luke
+Luke
 435632	Luke
 435636	Luke
 Luke
@@ -229752,10 +233333,10 @@ Luke
 435654	Luke
 Luke
 Luke
-435658	Luke
 Luke
-435661	Luke
 Luke
+Luke
+435662	Luke
 435664	Luke
 Luke
 Luke
@@ -229768,9 +233349,9 @@ Luke
 435681	Luke
 435684	Luke
 Luke
-435688	Luke
 435690	Luke
-435692	Luke
+Luke
+Luke
 435694	Luke
 Luke
 Luke
@@ -229778,23 +233359,28 @@ Luke
 435699	Luke
 Luke
 435703	Luke
-435705	Luke
+Luke
+Luke
 Luke
 435708	Luke
 Luke
 435713	Luke
 Luke
-435716	Luke
+Luke
+Luke
 Luke
 435721	Luke
-435724	Luke
+435723	Luke
 Luke
-435727	Luke
+Luke
+Luke
+Luke
 Luke
 435730	Luke
 435732	Luke
 435734	Luke
-435736	Luke
+Luke
+Luke
 435738	Luke
 Luke
 Luke
@@ -229804,14 +233390,16 @@ Luke
 Luke
 435753	Luke
 Luke
-435756	Luke
+Luke
+Luke
 Luke
 435761	Luke
 Luke
 Luke
+435765	Luke
 Luke
+435768	Luke
 Luke
-435769	Luke
 Luke
 435772	Luke
 Luke
@@ -229832,8 +233420,10 @@ Luke
 Luke
 Luke
 435797	Luke
-435799	Luke
-435801	Luke
+Luke
+Luke
+Luke
+Luke
 Luke
 Luke
 435809	Luke
@@ -229842,7 +233432,8 @@ Luke
 435815	Luke
 Luke
 Luke
-435819	Luke
+Luke
+Luke
 Luke
 435824	Luke
 Luke
@@ -229851,11 +233442,11 @@ Luke
 435833	Luke
 Luke
 435838	Luke
-435840	Luke
+Luke
+Luke
 Luke
 435843	Luke
-Luke
-Luke
+435845	Luke
 Luke
 Luke
 Luke
@@ -229865,7 +233456,8 @@ Luke
 Luke
 435859	Luke
 435861	Luke
-435863	Luke
+Luke
+Luke
 Luke
 Luke
 435867	Luke
@@ -229879,14 +233471,16 @@ Luke
 Luke
 435880	Luke
 Luke
-435883	Luke
+Luke
+Luke
 Luke
 Luke
 435889	Luke
 Luke
 Luke
 435894	Luke
-435897	Luke
+435896	Luke
+Luke
 435903	Luke
 435905	Luke
 Luke
@@ -229914,19 +233508,20 @@ Luke
 Luke
 435949	Luke
 Luke
-Luke
 435956	Luke
 435958	Luke
 Luke
 435962	Luke
 Luke
 Luke
+Luke
+Luke
+435968	Luke
 435971	Luke
 Luke
 435975	Luke
 Luke
 Luke
-435980	Luke
 435982	Luke
 435988	Luke
 435992	Luke
@@ -229936,6 +233531,7 @@ Luke
 Luke
 Luke
 Luke
+436005	Luke
 436007	Luke
 436009	Luke
 Luke
@@ -229946,22 +233542,23 @@ Luke
 Luke
 Luke
 Luke
-436021	Luke
-436025	Luke
+436020	Luke
+Luke
 436027	Luke
-436029	Luke
+Luke
+Luke
 436032	Luke
 Luke
 Luke
-Luke
-Luke
+436036	Luke
 Luke
 Luke
 Luke
 436043	Luke
 Luke
 436051	Luke
-436053	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -229978,7 +233575,8 @@ Luke
 Luke
 436080	Luke
 Luke
-436083	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -229995,7 +233593,8 @@ Luke
 436106	Luke
 Luke
 Luke
-436110	Luke
+Luke
+Luke
 436117	Luke
 Luke
 Luke
@@ -230006,7 +233605,6 @@ Luke
 436128	Luke
 Luke
 Luke
-436134	Luke
 436136	Luke
 436139	Luke
 Luke
@@ -230035,6 +233633,7 @@ Luke
 Luke
 Luke
 Luke
+436192	Luke
 436194	Luke
 436197	Luke
 Luke
@@ -230045,7 +233644,8 @@ Luke
 Luke
 Luke
 436210	Luke
-436212	Luke
+Luke
+Luke
 Luke
 Luke
 Luke
@@ -230059,6 +233659,7 @@ Luke
 Luke
 Luke
 436229	Luke
+Luke
 436233	Luke
 436235	Luke
 Luke
@@ -230077,14 +233678,12 @@ Luke
 Luke
 Luke
 Luke
-Luke
+436262	Luke
 436265	Luke
-436270	Luke
-Luke
-436273	Luke
+436271	Luke
 436275	Luke
 436278	Luke
-436280	Luke
+Luke
 Luke
 436283	Luke
 436288	Luke
@@ -230114,7 +233713,8 @@ Luke
 Luke
 Luke
 436337	Luke
-436340	Luke
+436339	Luke
+Luke
 Luke
 Luke
 436345	Luke
@@ -230122,13 +233722,14 @@ Luke
 Luke
 Luke
 436350	Luke
-436353	Luke
 Luke
+436354	Luke
 436358	Luke
 Luke
 436362	Luke
 436364	Luke
-436366	Luke
+Luke
+Luke
 436368	Luke
 Luke
 436373	Luke
@@ -230138,14 +233739,16 @@ Luke
 436387	Luke
 Luke
 Luke
-436393	Luke
+436392	Luke
 Luke
 Luke
 Luke
 Luke
 Luke
 Luke
-436401	Luke
+Luke
+Luke
+Luke
 436403	Luke
 436405	Luke
 436407	Luke
@@ -230155,7 +233758,8 @@ Luke
 Luke
 Luke
 436415	Luke
-436417	Luke
+Luke
+Luke
 436419	Luke
 Luke
 436422	Luke
@@ -230173,9 +233777,11 @@ Luke
 Luke
 436439	Luke
 Luke
-436443	Luke
+436442	Luke
 Luke
-436450	Luke
+Luke
+436449	Luke
+Luke
 Luke
 436454	Luke
 Luke
@@ -230184,7 +233790,6 @@ Luke
 Luke
 Luke
 436464	Luke
-Luke
 Luke
 Luke
 436469	Luke
@@ -230196,9 +233801,9 @@ Luke
 Luke
 Luke
 Luke
-Luke
 436485	Luke
-436487	Luke
+Luke
+Luke
 436492	Luke
 Luke
 Luke
@@ -230218,7 +233823,6 @@ Luke
 436513	Luke
 Luke
 436519	Luke
-Luke
 436523	Luke
 436526	Luke
 Luke
@@ -230228,9 +233832,7 @@ Luke
 Luke
 Luke
 Luke
-Luke
-Luke
-Luke
+436535	Luke
 Luke
 Luke
 Luke
@@ -230239,7 +233841,8 @@ Luke
 Luke
 436544	Luke
 436546	Luke
-436548	Luke
+Luke
+Luke
 Luke
 436552	Luke
 Luke
@@ -230253,6 +233856,7 @@ Luke
 436565	Luke
 Luke
 436568	Luke
+436570	Luke
 436572	Luke
 436574	Luke
 436576	Luke
@@ -230260,14 +233864,13 @@ Luke
 Luke
 436580	Luke
 Luke
-436583	Luke
 436586	Luke
-436588	Luke
-Luke
+436589	Luke
 436591	Luke
 436594	Luke
 Luke
 436597	Luke
+Luke
 Luke
 Luke
 Luke
@@ -230314,7 +233917,8 @@ John
 John
 436694	John
 John
-436698	John
+436697	John
+John
 John
 John
 436702	John
@@ -230324,10 +233928,12 @@ John
 John
 436714	John
 John
-436718	John
+436717	John
+John
 436720	John
 436722	John
-436724	John
+John
+John
 436726	John
 John
 436730	John
@@ -230336,6 +233942,7 @@ John
 436736	John
 John
 436740	John
+436742	John
 436746	John
 436751	John
 436754	John
@@ -230347,6 +233954,7 @@ John
 436765	John
 John
 436768	John
+John
 John
 John
 436773	John
@@ -230363,8 +233971,7 @@ John
 John
 436799	John
 John
-436810	John
-John
+436811	John
 John
 John
 436815	John
@@ -230379,11 +233986,11 @@ John
 436826	John
 John
 John
-436830	John
+John
+John
 436837	John
 John
 436841	John
-John
 436844	John
 436848	John
 John
@@ -230393,9 +234000,9 @@ John
 436859	John
 John
 436864	John
-436866	John
-436870	John
 John
+John
+436871	John
 John
 John
 John
@@ -230410,7 +234017,8 @@ John
 John
 436885	John
 John
-436888	John
+John
+John
 John
 John
 John
@@ -230422,7 +234030,9 @@ John
 John
 John
 John
-436903	John
+John
+John
+John
 John
 John
 John
@@ -230450,35 +234060,43 @@ John
 John
 436942	John
 436944	John
-436946	John
+John
+John
 436948	John
 436951	John
-436953	John
+John
+John
 John
 436956	John
 John
 John
 436963	John
-436968	John
+436967	John
+John
 436971	John
 John
 436974	John
 436977	John
 John
-436982	John
+John
+John
+John
+John
 John
 436988	John
 John
 436993	John
 John
 John
-436999	John
+436998	John
+John
 John
 437002	John
 John
 John
 John
-437007	John
+John
+John
 John
 437010	John
 437012	John
@@ -230499,7 +234117,8 @@ John
 John
 John
 John
-437037	John
+437036	John
+John
 John
 437040	John
 437043	John
@@ -230514,13 +234133,13 @@ John
 John
 437059	John
 John
-437062	John
 437064	John
 437069	John
 John
 John
 John
-437075	John
+437074	John
+John
 John
 437080	John
 John
@@ -230538,7 +234157,9 @@ John
 John
 John
 John
-437103	John
+John
+John
+John
 John
 John
 John
@@ -230556,7 +234177,8 @@ John
 437123	John
 437125	John
 437134	John
-437136	John
+John
+John
 437138	John
 John
 John
@@ -230564,13 +234186,15 @@ John
 437146	John
 John
 John
-437151	John
+437150	John
+John
 437153	John
 437156	John
 John
 437159	John
 437163	John
-437165	John
+John
+John
 John
 John
 437169	John
@@ -230581,15 +234205,15 @@ John
 437178	John
 John
 John
-437187	John
-John
+437188	John
 John
 John
 437192	John
 John
 John
 John
-437197	John
+John
+John
 437200	John
 John
 437209	John
@@ -230606,7 +234230,8 @@ John
 437226	John
 John
 437229	John
-437231	John
+John
+John
 437233	John
 John
 John
@@ -230626,7 +234251,8 @@ John
 John
 John
 John
-437261	John
+John
+John
 John
 John
 John
@@ -230649,22 +234275,24 @@ John
 John
 437304	John
 John
-437307	John
 437309	John
 437314	John
-437316	John
+John
+John
 John
 437322	John
 John
 John
-437327	John
+437326	John
 John
-John
+437329	John
 John
 John
 437334	John
 437338	John
-437341	John
+John
+John
+John
 John
 John
 437353	John
@@ -230680,7 +234308,8 @@ John
 437371	John
 John
 John
-437375	John
+John
+John
 437377	John
 437381	John
 John
@@ -230694,7 +234323,8 @@ John
 John
 437397	John
 John
-437400	John
+John
+John
 John
 437405	John
 John
@@ -230723,14 +234353,14 @@ John
 John
 John
 437465	John
-John
-John
+437467	John
 John
 437470	John
 John
 John
 437474	John
-437477	John
+437476	John
+John
 John
 437482	John
 437484	John
@@ -230743,7 +234373,8 @@ John
 John
 John
 John
-437503	John
+437502	John
+John
 John
 437510	John
 John
@@ -230774,7 +234405,8 @@ John
 437557	John
 John
 437564	John
-437566	John
+John
+John
 John
 437569	John
 John
@@ -230782,15 +234414,17 @@ John
 437574	John
 John
 John
-John
 437579	John
-437582	John
+437581	John
+John
 437584	John
-437586	John
+John
+John
 John
 437594	John
 437598	John
-437602	John
+437601	John
+John
 John
 John
 John
@@ -230798,14 +234432,16 @@ John
 John
 John
 John
-437613	John
+John
+John
 John
 John
 437618	John
 John
 John
 437623	John
-437625	John
+John
+John
 437630	John
 437633	John
 John
@@ -230819,6 +234455,7 @@ John
 437644	John
 John
 John
+John
 437650	John
 John
 John
@@ -230829,12 +234466,14 @@ John
 John
 John
 John
-437663	John
+John
+John
 John
 John
 John
 437670	John
-437674	John
+437673	John
+John
 John
 John
 John
@@ -230846,10 +234485,10 @@ John
 John
 John
 John
-437693	John
 John
-437696	John
 John
+John
+437697	John
 John
 John
 437704	John
@@ -230860,7 +234499,8 @@ John
 John
 John
 John
-437717	John
+437716	John
+John
 John
 John
 John
@@ -230895,14 +234535,17 @@ John
 John
 John
 John
-437766	John
 John
 John
 John
 John
 John
 John
-437776	John
+John
+John
+John
+437775	John
+John
 437778	John
 437780	John
 John
@@ -230916,18 +234559,22 @@ John
 437793	John
 John
 437800	John
-437802	John
 John
-437808	John
+John
+John
+437807	John
+John
 John
 437813	John
 John
 437816	John
 John
 437820	John
-437822	John
+John
+John
 437825	John
-437827	John
+John
+John
 437831	John
 437833	John
 437835	John
@@ -230954,14 +234601,16 @@ John
 John
 John
 437880	John
-437882	John
+John
+John
 John
 437886	John
 John
 437889	John
 John
 437893	John
-437895	John
+John
+John
 John
 437898	John
 John
@@ -230970,7 +234619,8 @@ John
 437905	John
 John
 437909	John
-437911	John
+John
+John
 John
 John
 437917	John
@@ -230979,7 +234629,6 @@ John
 John
 437925	John
 John
-437928	John
 437930	John
 437936	John
 437938	John
@@ -231005,7 +234654,8 @@ John
 John
 John
 John
-437979	John
+John
+John
 437983	John
 John
 John
@@ -231014,7 +234664,8 @@ John
 John
 John
 John
-437993	John
+John
+John
 John
 John
 John
@@ -231031,13 +234682,15 @@ John
 438016	John
 John
 438022	John
-438024	John
+John
+John
 John
 John
 438031	John
 John
 438037	John
-438039	John
+John
+John
 John
 John
 John
@@ -231051,7 +234704,8 @@ John
 438058	John
 John
 John
-438065	John
+438064	John
+John
 John
 438068	John
 John
@@ -231081,7 +234735,8 @@ John
 438113	John
 John
 438119	John
-438121	John
+John
+John
 John
 John
 438125	John
@@ -231105,7 +234760,8 @@ John
 438155	John
 John
 438162	John
-438166	John
+438165	John
+John
 438170	John
 John
 438174	John
@@ -231122,7 +234778,8 @@ John
 438199	John
 John
 John
-438203	John
+John
+John
 438207	John
 438209	John
 438212	John
@@ -231133,7 +234790,7 @@ John
 John
 John
 John
-438222	John
+John
 John
 John
 438228	John
@@ -231162,11 +234819,12 @@ John
 John
 John
 John
-438263	John
+John
+438262	John
+John
 438265	John
 438267	John
 438269	John
-John
 John
 438274	John
 438277	John
@@ -231177,12 +234835,16 @@ John
 438284	John
 John
 438289	John
-438291	John
-438293	John
-438297	John
+John
+John
+John
+John
+438296	John
+John
 438301	John
 John
-438305	John
+438304	John
+John
 438309	John
 438312	John
 438315	John
@@ -231193,7 +234855,8 @@ John
 John
 John
 John
-438327	John
+John
+John
 John
 John
 438332	John
@@ -231204,7 +234867,9 @@ John
 John
 John
 John
-438344	John
+438342	John
+John
+John
 John
 John
 John
@@ -231225,7 +234890,8 @@ John
 John
 John
 John
-438377	John
+438376	John
+John
 John
 John
 438381	John
@@ -231243,14 +234909,14 @@ John
 John
 John
 438404	John
-438406	John
 John
 John
 John
 John
 John
-438416	John
 John
+John
+438417	John
 John
 John
 438421	John
@@ -231262,15 +234928,16 @@ John
 John
 John
 John
-438432	John
+438433	John
 John
+438436	John
 John
-438437	John
 John
 John
 438441	John
 John
-438444	John
+John
+John
 John
 John
 John
@@ -231281,7 +234948,8 @@ John
 John
 John
 438459	John
-438461	John
+John
+John
 John
 John
 438465	John
@@ -231296,9 +234964,12 @@ John
 John
 438483	John
 John
-438488	John
+438486	John
 John
-438491	John
+John
+John
+John
+John
 438493	John
 John
 John
@@ -231350,8 +235021,7 @@ John
 John
 438565	John
 John
-John
-John
+438568	John
 John
 John
 John
@@ -231380,7 +235050,8 @@ John
 John
 438613	John
 John
-438616	John
+John
+John
 John
 438620	John
 John
@@ -231406,7 +235077,8 @@ John
 438661	John
 John
 438666	John
-438668	John
+John
+John
 John
 John
 438674	John
@@ -231415,17 +235087,20 @@ John
 John
 438685	John
 John
+438689	John
 438692	John
 438694	John
 John
-438698	John
+438697	John
+John
 438702	John
 John
 John
 John
 John
 438713	John
-438715	John
+John
+John
 John
 John
 John
@@ -231436,10 +235111,10 @@ John
 John
 John
 John
-438731	John
+438730	John
 John
 John
-John
+438734	John
 John
 438737	John
 438740	John
@@ -231447,15 +235122,18 @@ John
 John
 John
 438746	John
-438749	John
+438748	John
+John
 John
 438753	John
 John
-438758	John
+438757	John
+John
 438760	John
 John
 John
-438764	John
+John
+John
 John
 438767	John
 John
@@ -231472,12 +235150,12 @@ John
 John
 438788	John
 John
-438793	John
+438792	John
+John
 John
 438799	John
 John
-John
-John
+438802	John
 438806	John
 John
 438811	John
@@ -231490,17 +235168,21 @@ John
 438833	John
 John
 John
-438839	John
+438837	John
+John
+John
 438843	John
 John
 438846	John
 438850	John
-438852	John
+John
+John
 John
 438857	John
 John
 438860	John
-438862	John
+John
+John
 438864	John
 438869	John
 John
@@ -231531,7 +235213,8 @@ John
 John
 438908	John
 438910	John
-438913	John
+438912	John
+John
 John
 John
 438918	John
@@ -231575,7 +235258,8 @@ John
 John
 John
 John
-438976	John
+John
+John
 438978	John
 438981	John
 John
@@ -231599,10 +235283,12 @@ John
 John
 439012	John
 John
-439015	John
+John
+John
 439019	John
 John
-439022	John
+John
+John
 439024	John
 439026	John
 439028	John
@@ -231616,7 +235302,8 @@ John
 John
 John
 John
-439046	John
+John
+John
 439048	John
 439050	John
 John
@@ -231636,7 +235323,8 @@ John
 439074	John
 John
 John
-439078	John
+John
+John
 439080	John
 439083	John
 John
@@ -231662,7 +235350,8 @@ John
 John
 John
 John
-439119	John
+John
+John
 439122	John
 John
 John
@@ -231675,7 +235364,8 @@ John
 John
 John
 John
-439142	John
+John
+John
 John
 John
 John
@@ -231695,13 +235385,17 @@ John
 John
 John
 John
-439176	John
+439175	John
 John
 John
-439181	John
+John
+John
+John
+John
 439189	John
 John
-439192	John
+John
+John
 John
 John
 439198	John
@@ -231719,7 +235413,8 @@ John
 439222	John
 439225	John
 John
-439228	John
+John
+John
 John
 439231	John
 439234	John
@@ -231730,7 +235425,8 @@ John
 John
 John
 John
-439245	John
+439244	John
+John
 439247	John
 John
 439250	John
@@ -231744,7 +235440,8 @@ John
 John
 439263	John
 439266	John
-439268	John
+John
+John
 John
 John
 John
@@ -231755,9 +235452,11 @@ John
 439284	John
 John
 John
-439290	John
+439289	John
+John
 John
 439293	John
+John
 439297	John
 439299	John
 439301	John
@@ -231798,7 +235497,8 @@ John
 John
 439361	John
 John
-439364	John
+John
+John
 John
 439370	John
 John
@@ -231813,24 +235513,30 @@ John
 439389	John
 John
 John
-439393	John
+John
+John
 439395	John
-439398	John
+John
+John
+John
 John
 John
 John
 John
 John
 439405	John
-439407	John
+John
+John
 John
 439411	John
 439414	John
 439423	John
-439425	John
+John
+John
 439427	John
 John
-439431	John
+439430	John
+John
 439433	John
 John
 John
@@ -231847,7 +235553,7 @@ John
 John
 John
 John
-439466	John
+439465	John
 John
 John
 John
@@ -231858,12 +235564,13 @@ John
 John
 John
 John
-439479	John
+John
+439478	John
+John
 439482	John
 John
 439485	John
 439496	John
-John
 John
 439501	John
 439503	John
@@ -231874,10 +235581,12 @@ John
 439511	John
 John
 439516	John
-439518	John
+John
+John
 439520	John
 439523	John
-439525	John
+John
+John
 John
 439529	John
 John
@@ -231887,10 +235596,12 @@ John
 John
 439538	John
 John
-439541	John
 John
 John
-439547	John
+John
+John
+439546	John
+John
 439550	John
 John
 John
@@ -231905,7 +235616,8 @@ John
 John
 John
 439570	John
-439572	John
+John
+John
 John
 John
 439577	John
@@ -231949,7 +235661,8 @@ John
 John
 John
 John
-439648	John
+John
+John
 John
 John
 John
@@ -231957,8 +235670,10 @@ John
 John
 439656	John
 John
-439662	John
-439665	John
+439661	John
+John
+439664	John
+John
 439669	John
 John
 439673	John
@@ -231972,7 +235687,9 @@ John
 439688	John
 439691	John
 John
-439698	John
+439696	John
+John
+John
 439700	John
 439702	John
 John
@@ -231999,15 +235716,18 @@ John
 John
 John
 John
-439738	John
+John
+John
 439740	John
 John
 John
 439744	John
 439747	John
 John
-439750	John
+John
+John
 439754	John
+John
 John
 439759	John
 John
@@ -232016,7 +235736,8 @@ John
 John
 439772	John
 John
-439776	John
+439775	John
+John
 John
 John
 439782	John
@@ -232029,14 +235750,16 @@ John
 439793	John
 John
 John
-439797	John
+John
+John
 John
 439800	John
 439802	John
 John
 John
 John
-439807	John
+John
+John
 439813	John
 John
 439816	John
@@ -232051,7 +235774,8 @@ John
 439842	John
 John
 439847	John
-439849	John
+John
+John
 439852	John
 John
 439855	John
@@ -232077,13 +235801,15 @@ John
 John
 John
 John
-439890	John
+John
+John
 439892	John
 439895	John
 John
 John
 John
-439902	John
+439901	John
+John
 439906	John
 John
 439911	John
@@ -232092,6 +235818,7 @@ John
 John
 John
 439920	John
+John
 John
 John
 John
@@ -232105,7 +235832,8 @@ John
 John
 John
 439944	John
-439946	John
+John
+John
 439948	John
 John
 439952	John
@@ -232120,10 +235848,11 @@ John
 John
 439971	John
 John
-439974	John
+John
+John
+John
 John
 439980	John
-John
 439983	John
 439985	John
 John
@@ -232133,7 +235862,8 @@ John
 John
 John
 John
-439997	John
+439996	John
+John
 John
 440000	John
 John
@@ -232145,7 +235875,8 @@ John
 John
 440017	John
 440019	John
-440021	John
+John
+John
 440024	John
 John
 440027	John
@@ -232185,7 +235916,8 @@ John
 John
 440091	John
 John
-440096	John
+440095	John
+John
 440103	John
 John
 440107	John
@@ -232197,16 +235929,19 @@ John
 440115	John
 John
 John
-440119	John
+John
+John
 John
 John
 John
 440128	John
 John
 440132	John
-440135	John
+440134	John
 John
-440138	John
+John
+John
+John
 440141	John
 John
 440146	John
@@ -232215,15 +235950,18 @@ John
 John
 440155	John
 John
-440161	John
+440160	John
 John
-440164	John
+John
+John
+John
 440167	John
 John
 440172	John
 440174	John
 John
-440177	John
+John
+John
 440180	John
 John
 440184	John
@@ -232259,12 +235997,16 @@ John
 John
 John
 440243	John
-440246	John
+440245	John
+John
 440248	John
 John
 John
-440253	John
-440256	John
+440252	John
+John
+440255	John
+John
+John
 John
 John
 John
@@ -232316,7 +236058,8 @@ John
 440340	John
 John
 440345	John
-440347	John
+John
+John
 John
 John
 440353	John
@@ -232332,12 +236075,14 @@ John
 John
 440376	John
 John
-440382	John
+440381	John
+John
 John
 John
 John
 440388	John
 John
+440394	John
 440396	John
 John
 John
@@ -232345,7 +236090,8 @@ John
 440401	John
 John
 John
-440406	John
+440405	John
+John
 John
 John
 440410	John
@@ -232355,7 +236101,8 @@ John
 440419	John
 440423	John
 John
-440429	John
+440428	John
+John
 John
 440432	John
 John
@@ -232372,7 +236119,8 @@ John
 John
 John
 440458	John
-440460	John
+John
+John
 John
 440466	John
 440471	John
@@ -232396,7 +236144,8 @@ John
 440498	John
 John
 440505	John
-440507	John
+John
+John
 440509	John
 John
 440513	John
@@ -232416,7 +236165,8 @@ John
 John
 John
 John
-440535	John
+John
+John
 John
 John
 440540	John
@@ -232443,7 +236193,8 @@ John
 440578	John
 John
 John
-440583	John
+440582	John
+John
 John
 John
 John
@@ -232460,11 +236211,14 @@ John
 440604	John
 440607	John
 John
-440611	John
-440613	John
+440610	John
+John
+John
+John
 440615	John
 John
-440620	John
+440619	John
+John
 John
 John
 440626	John
@@ -232509,10 +236263,12 @@ John
 John
 440680	John
 John
-440683	John
 John
 John
-440687	John
+John
+John
+John
+John
 John
 John
 440691	John
@@ -232537,10 +236293,11 @@ John
 John
 440720	John
 John
-440723	John
+John
+John
 440725	John
 440728	John
-440730	John
+John
 John
 440733	John
 440735	John
@@ -232562,7 +236319,8 @@ John
 John
 John
 John
-440763	John
+440762	John
+John
 John
 John
 John
@@ -232572,6 +236330,7 @@ John
 440775	John
 John
 440778	John
+John
 440782	John
 John
 440785	John
@@ -232587,7 +236346,8 @@ John
 440803	John
 John
 John
-440807	John
+John
+John
 John
 John
 John
@@ -232603,7 +236363,8 @@ John
 440828	John
 John
 John
-440834	John
+440833	John
+John
 John
 John
 John
@@ -232627,7 +236388,8 @@ John
 440866	John
 John
 440872	John
-440877	John
+440876	John
+John
 440879	John
 John
 440884	John
@@ -232639,7 +236401,6 @@ John
 440894	John
 John
 John
-440899	John
 440901	John
 John
 John
@@ -232699,7 +236460,6 @@ John
 John
 John
 John
-John
 441005	John
 441009	John
 441011	John
@@ -232723,7 +236483,8 @@ John
 John
 441037	John
 441041	John
-441043	John
+John
+John
 John
 John
 John
@@ -232758,7 +236519,8 @@ John
 John
 John
 John
-441107	John
+441106	John
+John
 John
 John
 John
@@ -232766,7 +236528,8 @@ John
 John
 John
 441115	John
-441117	John
+John
+John
 441121	John
 John
 John
@@ -232781,7 +236544,9 @@ John
 John
 John
 John
-441147	John
+John
+John
+John
 John
 441150	John
 441153	John
@@ -232797,15 +236562,16 @@ John
 John
 441168	John
 John
-441172	John
+John
+John
+John
 John
 John
 441178	John
 441180	John
 John
 John
-John
-John
+441184	John
 John
 John
 John
@@ -232826,7 +236592,8 @@ John
 John
 John
 John
-441224	John
+441223	John
+John
 John
 John
 John
@@ -232838,7 +236605,8 @@ John
 John
 441245	John
 John
-441248	John
+John
+John
 John
 John
 John
@@ -232849,7 +236617,7 @@ John
 John
 John
 John
-441264	John
+441263	John
 John
 John
 John
@@ -232858,16 +236626,22 @@ John
 John
 John
 John
-441275	John
+John
+John
+John
+John
 441278	John
-441282	John
+441281	John
+John
 441286	John
 441290	John
-441292	John
+John
+John
 John
 John
 441298	John
-441300	John
+John
+John
 John
 John
 John
@@ -232877,7 +236651,8 @@ John
 John
 John
 441313	John
-441315	John
+John
+John
 441317	John
 John
 John
@@ -232893,7 +236668,8 @@ John
 John
 441336	John
 John
-441340	John
+441339	John
+John
 John
 441345	John
 John
@@ -232902,7 +236678,8 @@ John
 John
 441351	John
 441353	John
-441355	John
+John
+John
 John
 441358	John
 John
@@ -232917,7 +236694,8 @@ John
 441372	John
 John
 441378	John
-441380	John
+John
+John
 John
 441386	John
 John
@@ -232926,7 +236704,8 @@ John
 441393	John
 John
 441396	John
-441399	John
+441398	John
+John
 John
 441402	John
 John
@@ -232942,7 +236721,8 @@ John
 441415	John
 John
 441420	John
-441422	John
+John
+John
 441428	John
 441432	John
 John
@@ -232952,7 +236732,8 @@ John
 John
 John
 441441	John
-441443	John
+John
+John
 John
 John
 John
@@ -232967,21 +236748,25 @@ John
 John
 John
 441468	John
-441471	John
+441470	John
+John
 John
 441475	John
 441479	John
 John
 John
-441484	John
+441483	John
+John
 John
 441489	John
 John
 441495	John
-441497	John
+John
+John
 441499	John
 441503	John
-441506	John
+441505	John
+John
 John
 John
 441511	John
@@ -233006,7 +236791,9 @@ John
 John
 441555	John
 John
-441560	John
+441558	John
+John
+John
 John
 441563	John
 441566	John
@@ -233020,7 +236807,8 @@ John
 John
 441579	John
 John
-441585	John
+441584	John
+John
 John
 John
 441589	John
@@ -233050,13 +236838,15 @@ John
 John
 441629	John
 John
-441632	John
 John
 John
 John
 John
 John
-441639	John
+John
+John
+John
+John
 John
 441643	John
 441647	John
@@ -233069,17 +236859,20 @@ John
 John
 441658	John
 John
-441661	John
+John
+John
 John
 441665	John
 441669	John
+John
 John
 441675	John
 John
 John
 441679	John
 John
-441682	John
+John
+John
 John
 John
 441687	John
@@ -233094,7 +236887,8 @@ John
 John
 John
 John
-441703	John
+John
+John
 John
 John
 John
@@ -233142,8 +236936,7 @@ John
 John
 John
 John
-John
-John
+441776	John
 441779	John
 John
 John
@@ -233176,14 +236969,15 @@ John
 John
 441829	John
 John
-441832	John
 John
-441839	John
+John
+John
+441838	John
+John
 John
 John
 John
 441844	John
-John
 John
 John
 John
@@ -233199,7 +236993,8 @@ John
 John
 John
 John
-441864	John
+John
+John
 John
 John
 John
@@ -233217,7 +237012,8 @@ John
 John
 John
 441884	John
-441886	John
+John
+John
 John
 441890	John
 John
@@ -233243,7 +237039,8 @@ John
 John
 441922	John
 John
-441926	John
+441925	John
+John
 441930	John
 John
 441934	John
@@ -233258,7 +237055,8 @@ John
 John
 John
 John
-441957	John
+441956	John
+John
 441961	John
 John
 441964	John
@@ -233282,8 +237080,10 @@ John
 John
 John
 John
-441996	John
+441995	John
+John
 442000	John
+John
 John
 John
 John
@@ -233307,26 +237107,32 @@ John
 John
 John
 John
-442033	John
 John
 John
-442037	John
+John
+John
+John
+John
 442040	John
 John
-442043	John
 John
-442047	John
+John
+John
+442046	John
+John
 442050	John
 John
 442053	John
 John
 442056	John
-442058	John
+John
+John
 John
 John
 John
 442065	John
-442067	John
+John
+John
 John
 John
 John
@@ -233340,7 +237146,6 @@ John
 John
 442084	John
 John
-442088	John
 John
 John
 John
@@ -233349,10 +237154,16 @@ John
 John
 John
 John
-442098	John
+John
+John
+John
+John
+John
 John
 442102	John
-442105	John
+John
+John
+John
 John
 John
 John
@@ -233393,7 +237204,8 @@ John
 John
 John
 442158	John
-442160	John
+John
+John
 442162	John
 John
 John
@@ -233428,7 +237240,8 @@ John
 John
 John
 John
-442210	John
+John
+John
 John
 John
 John
@@ -233448,7 +237261,8 @@ John
 John
 John
 John
-442235	John
+442234	John
+John
 442240	John
 442242	John
 John
@@ -233466,12 +237280,14 @@ John
 John
 John
 442262	John
-442265	John
+442264	John
 John
 John
 John
 John
-442271	John
+John
+John
+John
 John
 John
 John
@@ -233481,7 +237297,8 @@ John
 John
 John
 John
-442284	John
+John
+John
 442291	John
 John
 John
@@ -233499,15 +237316,18 @@ John
 442318	John
 John
 John
-442322	John
+John
+John
 John
 442326	John
 442328	John
-442330	John
+John
+John
 442332	John
 John
 442336	John
-442338	John
+John
+John
 John
 442341	John
 John
@@ -233525,7 +237345,9 @@ John
 John
 John
 John
-442370	John
+442368	John
+John
+John
 442372	John
 442374	John
 John
@@ -233559,9 +237381,11 @@ John
 John
 442415	John
 442423	John
-442426	John
-442429	John
 John
+John
+John
+John
+442430	John
 John
 John
 442434	John
@@ -233583,7 +237407,8 @@ John
 442462	John
 John
 442465	John
-442467	John
+John
+John
 442469	John
 442471	John
 John
@@ -233616,7 +237441,8 @@ John
 442524	John
 442530	John
 John
-442535	John
+442534	John
+John
 John
 John
 John
@@ -233638,15 +237464,19 @@ John
 442568	John
 John
 John
-442575	John
+442574	John
+John
 John
 442578	John
 John
 442582	John
 John
 John
-442586	John
-442590	John
+John
+John
+John
+442589	John
+John
 442597	John
 John
 John
@@ -233655,7 +237485,8 @@ John
 John
 442612	John
 John
-442615	John
+John
+John
 John
 442618	John
 John
@@ -233669,8 +237500,7 @@ John
 John
 John
 442641	John
-John
-John
+442643	John
 442645	John
 442647	John
 John
@@ -233700,19 +237530,24 @@ John
 John
 442698	John
 John
-442701	John
+John
+John
 442703	John
 John
 442707	John
 John
 John
-442713	John
+442712	John
+John
 John
 442719	John
 John
-442723	John
 John
-442726	John
+John
+John
+John
+John
+John
 John
 John
 442730	John
@@ -233721,7 +237556,8 @@ John
 John
 John
 John
-442737	John
+John
+John
 442740	John
 442743	John
 John
@@ -233731,7 +237567,8 @@ John
 442751	John
 John
 John
-442759	John
+442758	John
+John
 442762	John
 John
 John
@@ -233751,12 +237588,12 @@ John
 442783	John
 John
 442788	John
-442794	John
-John
+442795	John
 442799	John
 John
 John
-442803	John
+John
+John
 442805	John
 John
 442811	John
@@ -233769,7 +237606,8 @@ John
 John
 John
 John
-442828	John
+442827	John
+John
 John
 442833	John
 John
@@ -233780,13 +237618,15 @@ John
 442850	John
 442853	John
 442855	John
-442857	John
 John
 John
 John
 John
 John
-442865	John
+John
+John
+442864	John
+John
 442867	John
 442870	John
 442873	John
@@ -233816,7 +237656,8 @@ John
 John
 442914	John
 442918	John
-442920	John
+John
+John
 John
 John
 John
@@ -233847,7 +237688,8 @@ John
 John
 442964	John
 John
-442968	John
+442967	John
+John
 442970	John
 John
 442973	John
@@ -233858,12 +237700,12 @@ John
 John
 442988	John
 John
-442995	John
-John
+442996	John
 John
 John
 443001	John
-443003	John
+John
+John
 443005	John
 John
 John
@@ -233874,14 +237716,16 @@ John
 John
 443017	John
 John
-443020	John
+John
+John
 John
 John
 John
 443026	John
 John
 John
-443030	John
+John
+John
 443033	John
 443035	John
 443038	John
@@ -233890,7 +237734,6 @@ John
 John
 443048	John
 443050	John
-John
 443053	John
 443055	John
 John
@@ -233901,12 +237744,14 @@ John
 John
 John
 443065	John
-443067	John
+John
+John
 John
 John
 443074	John
 John
-443077	John
+John
+John
 John
 John
 John
@@ -233933,11 +237778,13 @@ John
 443115	John
 443117	John
 443121	John
-443125	John
+443124	John
+John
 443127	John
 John
 443131	John
-443133	John
+John
+John
 443137	John
 John
 John
@@ -233995,7 +237842,8 @@ John
 John
 443211	John
 John
-443217	John
+443216	John
+John
 John
 John
 443221	John
@@ -234020,7 +237868,8 @@ John
 443250	John
 John
 John
-443254	John
+John
+John
 John
 John
 443260	John
@@ -234057,7 +237906,6 @@ John
 John
 John
 John
-John
 443304	John
 443306	John
 John
@@ -234069,7 +237917,8 @@ John
 John
 John
 443323	John
-443325	John
+John
+John
 443328	John
 John
 John
@@ -234082,14 +237931,15 @@ John
 John
 John
 John
-John
 443347	John
 443349	John
 John
-443352	John
 John
 John
-443359	John
+John
+John
+443358	John
+John
 John
 John
 John
@@ -234156,10 +238006,8 @@ John
 John
 443488	John
 John
-John
 443492	John
 443494	John
-443497	John
 John
 John
 John
@@ -234167,8 +238015,13 @@ John
 John
 John
 John
-443512	John
-443514	John
+John
+John
+John
+443511	John
+John
+John
+John
 443516	John
 John
 443519	John
@@ -234208,7 +238061,8 @@ John
 John
 John
 John
-443596	John
+443595	John
+John
 John
 John
 443604	John
@@ -234225,9 +238079,11 @@ John
 443626	John
 John
 John
-443631	John
+443630	John
+John
 443633	John
-443635	John
+John
+John
 443637	John
 John
 443641	John
@@ -234248,23 +238104,25 @@ John
 John
 John
 John
-John
-John
+443678	John
 John
 443682	John
 443686	John
-443688	John
+John
+John
 John
 443692	John
 John
-443696	John
+443695	John
+John
 John
 443699	John
 443702	John
 443705	John
 John
 443710	John
-443712	John
+John
+John
 John
 John
 John
@@ -234280,20 +238138,24 @@ John
 443731	John
 443735	John
 John
-443739	John
+443738	John
+John
 443742	John
 John
-443745	John
+John
+John
 443747	John
 John
-443752	John
+443751	John
+John
 John
 John
 John
 443758	John
 John
 443762	John
-443764	John
+John
+John
 John
 John
 443769	John
@@ -234311,14 +238173,14 @@ John
 John
 443790	John
 John
-John
-John
+443793	John
 John
 John
 443797	John
 John
 443800	John
-443802	John
+John
+John
 443804	John
 John
 443809	John
@@ -234345,7 +238207,8 @@ John
 John
 John
 John
-443850	John
+John
+John
 John
 443856	John
 John
@@ -234368,7 +238231,8 @@ John
 John
 John
 443893	John
-443895	John
+John
+John
 John
 John
 John
@@ -234380,7 +238244,8 @@ John
 John
 443906	John
 443910	John
-443913	John
+443912	John
+John
 443917	John
 443922	John
 John
@@ -234392,7 +238257,8 @@ John
 443933	John
 John
 John
-443938	John
+443937	John
+John
 John
 443942	John
 John
@@ -234416,7 +238282,9 @@ John
 John
 John
 443980	John
-443983	John
+John
+John
+John
 John
 443986	John
 443989	John
@@ -234427,7 +238295,8 @@ John
 John
 John
 443998	John
-444000	John
+John
+John
 John
 444005	John
 John
@@ -234441,7 +238310,8 @@ John
 444023	John
 John
 John
-444027	John
+John
+John
 John
 444031	John
 John
@@ -234464,7 +238334,8 @@ John
 John
 John
 444065	John
-444067	John
+John
+John
 444070	John
 John
 John
@@ -234489,33 +238360,40 @@ John
 John
 John
 John
-444106	John
+John
+John
 444109	John
 John
 444112	John
 John
 444117	John
-444120	John
+John
+John
+John
 444122	John
 444125	John
 John
 John
 John
-444131	John
+444130	John
+John
 John
 John
 444135	John
 John
 444138	John
 John
-444141	John
+John
+John
 John
 John
 444146	John
 John
 John
 John
-444153	John
+John
+444152	John
+John
 444158	John
 444160	John
 John
@@ -234544,8 +238422,10 @@ John
 444203	John
 444210	John
 John
-444213	John
-444215	John
+John
+John
+John
+John
 444219	John
 John
 444223	John
@@ -234570,7 +238450,8 @@ John
 444255	John
 444259	John
 John
-444263	John
+444262	John
+John
 444265	John
 John
 444269	John
@@ -234580,14 +238461,16 @@ John
 John
 John
 John
-444279	John
+John
+John
 John
 John
 John
 444284	John
 John
 444291	John
-444293	John
+John
+John
 John
 John
 444297	John
@@ -234595,9 +238478,9 @@ John
 John
 John
 444304	John
-444306	John
 444308	John
-444311	John
+444310	John
+John
 444314	John
 John
 John
@@ -234617,12 +238500,12 @@ John
 444333	John
 John
 John
-444337	John
+John
+John
 444339	John
 444342	John
 John
 444346	John
-John
 John
 John
 John
@@ -234636,9 +238519,10 @@ John
 John
 John
 John
-444365	John
 John
-444370	John
+John
+John
+John
 444372	John
 444374	John
 444376	John
@@ -234656,9 +238540,11 @@ John
 John
 John
 John
-444398	John
 John
-444401	John
+John
+John
+John
+John
 John
 John
 John
@@ -234686,7 +238572,8 @@ John
 444437	John
 John
 John
-444441	John
+John
+John
 John
 John
 John
@@ -234725,7 +238612,9 @@ John
 John
 John
 444503	John
-444506	John
+John
+John
+John
 444508	John
 John
 John
@@ -234762,7 +238651,8 @@ John
 444557	John
 John
 John
-444561	John
+John
+John
 John
 John
 444565	John
@@ -234779,21 +238669,24 @@ John
 444587	John
 John
 John
-444591	John
+John
+John
 John
 444594	John
 John
 John
 John
 John
-444601	John
+444600	John
+John
 444603	John
 John
 John
 John
 John
 John
-444611	John
+444610	John
+John
 444613	John
 John
 444616	John
@@ -234820,11 +238713,13 @@ John
 John
 444650	John
 John
-444655	John
+444654	John
+John
 444658	John
 444661	John
 444668	John
-444670	John
+John
+John
 John
 John
 John
@@ -234889,7 +238784,8 @@ John
 444757	John
 John
 444761	John
-444764	John
+444763	John
+John
 444766	John
 John
 444769	John
@@ -234899,18 +238795,21 @@ John
 444779	John
 John
 444783	John
-444785	John
+John
+John
 John
 John
 444791	John
 John
 John
-444795	John
+John
+John
 John
 John
 John
 444800	John
-444803	John
+444802	John
+John
 John
 John
 444807	John
@@ -234918,21 +238817,28 @@ John
 444811	John
 John
 John
-444817	John
+John
+John
+John
+John
 444821	John
-444826	John
+444825	John
+John
 John
 444831	John
-444833	John
+John
+John
 John
 John
 444839	John
 John
 444842	John
 John
-444845	John
+John
+John
 444847	John
 John
+444852	John
 444856	John
 John
 John
@@ -234944,7 +238850,8 @@ John
 444867	John
 444869	John
 John
-444873	John
+444872	John
+John
 John
 444876	John
 John
@@ -234952,7 +238859,8 @@ John
 444881	John
 John
 John
-444885	John
+John
+John
 John
 444888	John
 444892	John
@@ -234963,13 +238871,15 @@ John
 444903	John
 John
 John
-444907	John
+John
+John
 444910	John
 John
 John
 John
 John
-444916	John
+John
+John
 John
 John
 444922	John
@@ -234990,7 +238900,8 @@ John
 John
 John
 John
-444948	John
+444947	John
+John
 John
 John
 444953	John
@@ -235003,8 +238914,10 @@ John
 John
 John
 444969	John
-444971	John
-444974	John
+John
+John
+444973	John
+John
 John
 John
 444979	John
@@ -235012,12 +238925,15 @@ John
 John
 444983	John
 John
+John
+444989	John
 444992	John
 444997	John
 John
 John
 445001	John
-445003	John
+John
+John
 John
 445007	John
 John
@@ -235046,7 +238962,8 @@ John
 John
 John
 John
-445043	John
+John
+John
 John
 John
 John
@@ -235062,10 +238979,12 @@ John
 John
 John
 445065	John
-445067	John
+John
+John
 John
 445070	John
-445072	John
+John
+John
 John
 445075	John
 445079	John
@@ -235075,15 +238994,18 @@ John
 John
 445091	John
 John
-445094	John
+John
+John
 John
 445097	John
 John
 John
 John
 445102	John
-445106	John
-445108	John
+445105	John
+John
+John
+John
 445110	John
 445112	John
 John
@@ -235093,12 +239015,14 @@ John
 John
 445122	John
 John
-445126	John
+445125	John
+John
 445128	John
 445130	John
 John
 John
-445134	John
+John
+John
 445136	John
 445139	John
 John
@@ -235123,7 +239047,8 @@ John
 445166	John
 John
 445171	John
-445173	John
+John
+John
 John
 John
 John
@@ -235132,11 +239057,14 @@ John
 John
 445184	John
 John
-445188	John
+445187	John
+John
 John
 445191	John
 John
-445199	John
+445197	John
+John
+John
 John
 445203	John
 445207	John
@@ -235156,7 +239084,8 @@ John
 John
 445242	John
 John
-445250	John
+445249	John
+John
 445252	John
 John
 John
@@ -235172,9 +239101,11 @@ John
 445272	John
 445274	John
 John
-445277	John
 John
-445280	John
+John
+John
+John
+John
 445282	John
 John
 John
@@ -235182,11 +239113,14 @@ John
 John
 445289	John
 John
-445293	John
+John
+John
+John
 445298	John
 John
 John
-445302	John
+John
+John
 John
 445305	John
 John
@@ -235196,18 +239130,21 @@ John
 John
 445314	John
 445317	John
-445319	John
+John
+John
 445321	John
 445324	John
 John
 445328	John
 445331	John
-445334	John
+445333	John
+John
 John
 445338	John
 John
 John
-445343	John
+445342	John
+John
 John
 445347	John
 445350	John
@@ -235216,7 +239153,8 @@ John
 John
 John
 John
-445362	John
+John
+John
 445364	John
 John
 John
@@ -235243,9 +239181,12 @@ John
 John
 445406	John
 John
-445409	John
 John
-445414	John
+John
+John
+445413	John
+John
+445418	John
 445421	John
 445424	John
 445426	John
@@ -235264,7 +239205,8 @@ John
 John
 John
 445446	John
-445448	John
+John
+John
 John
 445451	John
 445453	John
@@ -235272,7 +239214,8 @@ John
 John
 John
 John
-445459	John
+John
+John
 John
 445463	John
 John
@@ -235290,12 +239233,14 @@ John
 John
 445482	John
 John
-445485	John
+John
+John
 John
 John
 445491	John
 John
-445495	John
+445494	John
+John
 John
 John
 John
@@ -235313,17 +239258,20 @@ John
 445519	John
 445521	John
 John
-445524	John
+John
+John
 445526	John
 John
 445529	John
-445531	John
+John
+John
 445533	John
 445535	John
 445538	John
 John
 John
-445542	John
+John
+John
 445544	John
 John
 445550	John
@@ -235333,7 +239281,9 @@ John
 John
 John
 John
-445559	John
+John
+John
+John
 John
 445565	John
 445569	John
@@ -235344,7 +239294,8 @@ John
 John
 John
 John
-445581	John
+John
+John
 John
 445584	John
 445587	John
@@ -235368,7 +239319,8 @@ John
 John
 John
 445618	John
-445620	John
+John
+John
 445623	John
 John
 John
@@ -235382,7 +239334,8 @@ John
 445636	John
 John
 John
-445641	John
+445640	John
+John
 445643	John
 John
 John
@@ -235406,7 +239359,8 @@ John
 John
 John
 John
-445672	John
+John
+John
 445674	John
 John
 John
@@ -235443,16 +239397,19 @@ John
 John
 John
 John
-445735	John
+John
+John
 445740	John
-445746	John
+445745	John
+John
 John
 John
 John
 John
 John
 445755	John
-445758	John
+445757	John
+John
 John
 445761	John
 445763	John
@@ -235463,14 +239420,16 @@ John
 John
 John
 445780	John
-445782	John
+John
+John
 445785	John
 445787	John
 John
 John
 John
 John
-445795	John
+445794	John
+John
 John
 445799	John
 John
@@ -235501,7 +239460,8 @@ John
 John
 John
 John
-445839	John
+John
+John
 445842	John
 John
 John
@@ -235510,7 +239470,8 @@ John
 445849	John
 John
 John
-445854	John
+445853	John
+John
 John
 445858	John
 John
@@ -235529,39 +239490,46 @@ John
 John
 445883	John
 John
+John
 445887	John
 445889	John
 John
 445893	John
 John
-John
 445900	John
 445902	John
 445904	John
 445907	John
-445910	John
+445909	John
 John
 John
 John
 John
 John
-445919	John
+John
+445918	John
+John
 445921	John
 John
 445925	John
-445930	John
-445934	John
+445929	John
+John
+445933	John
 John
 John
 John
 John
-445942	John
+John
+445941	John
+John
 John
 John
 445946	John
 445948	John
-445950	John
-445953	John
+John
+John
+445952	John
+John
 John
 445956	John
 John
@@ -235573,6 +239541,7 @@ John
 John
 John
 John
+445968	John
 445970	John
 445973	John
 445975	John
@@ -235585,27 +239554,33 @@ John
 445986	John
 John
 445989	John
+John
 445992	John
 445995	John
 John
 445999	John
 446001	John
 John
+446006	John
 446008	John
 John
 John
 John
 John
 John
-446015	John
+John
+John
 John
 446018	John
 John
+446022	John
 446024	John
 John
 John
 John
-446030	John
+John
+John
+John
 446033	John
 John
 446038	John
@@ -235621,7 +239596,8 @@ John
 446056	John
 John
 446060	John
-446062	John
+John
+John
 446064	John
 John
 446068	John
@@ -235636,7 +239612,8 @@ John
 John
 446089	John
 446092	John
-446097	John
+446096	John
+John
 John
 446101	John
 446104	John
@@ -235644,6 +239621,8 @@ John
 446107	John
 John
 446112	John
+John
+John
 446116	John
 446118	John
 446120	John
@@ -235661,8 +239640,12 @@ John
 John
 446142	John
 John
-446147	John
-446150	John
+John
+John
+John
+John
+446149	John
+John
 John
 John
 John
@@ -235690,6 +239673,7 @@ John
 John
 John
 446184	John
+446186	John
 446189	John
 John
 446193	John
@@ -235702,20 +239686,23 @@ John
 John
 John
 John
-446209	John
+John
+John
 John
 446213	John
 John
 John
 John
 John
-446220	John
+446219	John
+John
 446223	John
 John
-446233	John
-446235	John
-446237	John
+446232	John
 John
+John
+John
+446238	John
 446241	John
 John
 446245	John
@@ -235725,7 +239712,6 @@ John
 446253	John
 John
 446256	John
-John
 446259	John
 446264	John
 446268	John
@@ -235749,7 +239735,8 @@ John
 446292	John
 John
 446295	John
-446297	John
+John
+John
 John
 John
 John
@@ -235762,8 +239749,7 @@ John
 John
 John
 John
-446315	John
-446317	John
+446314	John
 John
 John
 John
@@ -235773,7 +239759,11 @@ John
 John
 John
 John
-446329	John
+John
+John
+John
+446328	John
+John
 John
 John
 John
@@ -235791,7 +239781,9 @@ John
 John
 446359	John
 446363	John
-446367	John
+John
+446366	John
+John
 446369	John
 John
 John
@@ -235802,10 +239794,12 @@ John
 446383	John
 John
 John
-446387	John
+John
+John
 446389	John
 John
-446394	John
+446393	John
+John
 446398	John
 John
 John
@@ -235815,7 +239809,6 @@ John
 John
 446409	John
 John
-446412	John
 446414	John
 446416	John
 John
@@ -235840,7 +239833,6 @@ John
 John
 John
 John
-John
 446473	John
 446475	John
 John
@@ -235859,6 +239851,7 @@ John
 446503	John
 John
 446507	John
+446509	John
 446511	John
 446514	John
 John
@@ -235876,11 +239869,13 @@ John
 446532	John
 John
 446535	John
-446538	John
+446537	John
+John
 John
 John
 446543	John
-446545	John
+John
+John
 John
 John
 John
@@ -235929,7 +239924,8 @@ John
 John
 John
 John
-446631	John
+John
+John
 John
 446634	John
 John
@@ -235960,14 +239956,16 @@ John
 446680	John
 John
 446683	John
-446686	John
+446685	John
 John
-446689	John
+John
+John
 John
 446694	John
 446696	John
 John
-446699	John
+John
+John
 446706	John
 John
 John
@@ -235982,10 +239980,13 @@ John
 446731	John
 John
 John
-446736	John
+446735	John
 John
 John
-446741	John
+John
+John
+John
+John
 John
 446744	John
 John
@@ -236050,23 +240051,25 @@ John
 446841	John
 John
 446844	John
-John
 446848	John
 446851	John
 John
-446854	John
+John
+John
 John
 446857	John
-446859	John
+John
 John
 John
 446863	John
 446865	John
 John
-446868	John
 John
 John
-446873	John
+John
+John
+446872	John
+John
 John
 John
 John
@@ -236080,7 +240083,8 @@ John
 John
 John
 446892	John
-446894	John
+John
+John
 John
 446899	John
 John
@@ -236093,7 +240097,7 @@ John
 John
 446913	John
 John
-446917	John
+446916	John
 John
 John
 John
@@ -236105,7 +240109,9 @@ John
 John
 John
 John
-446930	John
+John
+John
+John
 446933	John
 John
 446936	John
@@ -236116,7 +240122,9 @@ John
 John
 John
 446948	John
-446951	John
+John
+John
+John
 John
 John
 446956	John
@@ -236128,25 +240136,31 @@ John
 446965	John
 446969	John
 John
-446975	John
+446974	John
 John
 John
 John
-446980	John
+John
+John
+John
 446983	John
 446985	John
 John
-446989	John
+446988	John
+John
 John
 446993	John
 John
-446997	John
+John
+John
+John
 John
 John
 John
 447002	John
 447005	John
-447008	John
+447007	John
+John
 John
 John
 John
@@ -236160,8 +240174,11 @@ John
 John
 447023	John
 John
+John
+John
 447028	John
-447030	John
+John
+John
 John
 447033	John
 447037	John
@@ -236178,7 +240195,8 @@ John
 447060	John
 John
 447066	John
-447069	John
+447068	John
+John
 447073	John
 447075	John
 John
@@ -236198,15 +240216,18 @@ John
 John
 447107	John
 447110	John
-447112	John
+John
+John
 447114	John
 447116	John
 John
 447119	John
-447121	John
+John
+John
 447123	John
 447127	John
-447129	John
+John
+John
 447132	John
 John
 447135	John
@@ -236221,12 +240242,9 @@ John
 John
 447153	John
 John
-447160	John
 447163	John
-447168	John
 447172	John
 447175	John
-John
 John
 John
 John
@@ -236237,7 +240255,8 @@ John
 John
 John
 447191	John
-447194	John
+447193	John
+John
 John
 447198	John
 John
@@ -236253,7 +240272,8 @@ John
 John
 John
 447227	John
-447229	John
+John
+John
 John
 447232	John
 447234	John
@@ -236265,7 +240285,8 @@ John
 447243	John
 John
 John
-447247	John
+John
+John
 447253	John
 John
 447260	John
@@ -236279,7 +240300,6 @@ John
 447271	John
 447273	John
 John
-447277	John
 447279	John
 447282	John
 John
@@ -236293,10 +240313,10 @@ John
 447296	John
 447301	John
 John
+447304	John
 John
 John
 John
-447307	John
 John
 John
 John
@@ -236309,7 +240329,8 @@ John
 John
 John
 447322	John
-447324	John
+John
+John
 John
 John
 447328	John
@@ -236336,8 +240357,7 @@ John
 447371	John
 John
 447375	John
-447377	John
-John
+447378	John
 447381	John
 John
 John
@@ -236348,9 +240368,11 @@ John
 447394	John
 John
 447397	John
-447401	John
+447400	John
 John
 John
+John
+447406	John
 447408	John
 447411	John
 John
@@ -236358,7 +240380,8 @@ John
 John
 447421	John
 John
-447424	John
+John
+John
 447430	John
 447433	John
 John
@@ -236369,12 +240392,12 @@ John
 John
 John
 447448	John
+447450	John
 447453	John
 447455	John
 John
 447458	John
 447462	John
-John
 John
 John
 John
@@ -236407,7 +240430,9 @@ John
 447512	John
 447514	John
 John
-447519	John
+John
+447518	John
+John
 447523	John
 447526	John
 447529	John
@@ -236471,7 +240496,7 @@ John
 John
 John
 John
-447624	John
+447623	John
 John
 John
 John
@@ -236482,10 +240507,14 @@ John
 John
 John
 John
-447637	John
 John
 John
-447642	John
+John
+John
+John
+John
+447641	John
+John
 John
 John
 447647	John
@@ -236493,11 +240522,8 @@ John
 447653	John
 John
 John
-447658	John
-John
 447661	John
 447663	John
-John
 447666	John
 447668	John
 447671	John
@@ -236507,7 +240533,8 @@ John
 447677	John
 John
 John
-447681	John
+John
+John
 John
 447688	John
 John
@@ -236529,8 +240556,10 @@ John
 447719	John
 447721	John
 John
-447725	John
-447727	John
+447724	John
+John
+John
+John
 John
 447730	John
 John
@@ -236540,7 +240569,8 @@ John
 John
 John
 John
-447740	John
+447739	John
+John
 John
 John
 447745	John
@@ -236558,7 +240588,8 @@ John
 447765	John
 447767	John
 John
-447770	John
+John
+John
 447772	John
 447779	John
 John
@@ -236571,7 +240602,8 @@ John
 447803	John
 John
 447806	John
-447808	John
+John
+John
 447810	John
 447812	John
 447814	John
@@ -236594,15 +240626,17 @@ John
 John
 John
 John
-John
 447854	John
 447857	John
-447861	John
+447859	John
 John
 John
 John
 John
-447867	John
+John
+John
+John
+John
 John
 John
 John
@@ -236642,7 +240676,8 @@ John
 447950	John
 John
 447955	John
-447957	John
+John
+John
 John
 447961	John
 John
@@ -236667,6 +240702,7 @@ John
 John
 John
 447996	John
+John
 John
 448001	John
 448004	John
@@ -236698,16 +240734,19 @@ John
 John
 John
 448054	John
-448058	John
+448057	John
+John
 John
 John
 448062	John
 John
 448071	John
-448073	John
+John
+John
 John
 448076	John
-448079	John
+448078	John
+John
 John
 John
 448084	John
@@ -236724,10 +240763,12 @@ John
 John
 John
 448102	John
-448104	John
+John
+John
 448106	John
 448108	John
-448110	John
+John
+John
 John
 John
 448116	John
@@ -236754,7 +240795,8 @@ John
 448144	John
 448146	John
 John
-448150	John
+448149	John
+John
 448152	John
 John
 448155	John
@@ -236797,9 +240839,12 @@ John
 John
 John
 John
-448204	John
-448207	John
-448210	John
+448203	John
+John
+448206	John
+John
+448209	John
+John
 448216	John
 John
 John
@@ -236813,7 +240858,8 @@ John
 John
 John
 John
-448233	John
+448232	John
+John
 John
 John
 John
@@ -236828,15 +240874,15 @@ John
 448253	John
 448255	John
 John
-448258	John
+John
+John
 John
 John
 John
 John
 John
 448266	John
-448269	John
-John
+448270	John
 John
 448273	John
 John
@@ -236846,9 +240892,12 @@ John
 John
 John
 448282	John
-448284	John
+John
+John
+448286	John
 448288	John
-448291	John
+448290	John
+John
 John
 448294	John
 John
@@ -236863,6 +240912,7 @@ Acts
 448316	Acts
 Acts
 448319	Acts
+448321	Acts
 448324	Acts
 Acts
 448327	Acts
@@ -236876,6 +240926,7 @@ Acts
 448346	Acts
 448348	Acts
 Acts
+448351	Acts
 448354	Acts
 Acts
 448357	Acts
@@ -236893,20 +240944,20 @@ Acts
 448380	Acts
 448382	Acts
 Acts
-448385	Acts
 Acts
+448386	Acts
 Acts
 448392	Acts
 Acts
-448395	Acts
+Acts
+Acts
 Acts
 448400	Acts
 Acts
 448404	Acts
 Acts
 448407	Acts
-448411	Acts
-Acts
+448412	Acts
 Acts
 448417	Acts
 Acts
@@ -236916,14 +240967,18 @@ Acts
 Acts
 Acts
 448427	Acts
-448429	Acts
-448431	Acts
+Acts
+Acts
+Acts
+Acts
 448435	Acts
 Acts
 Acts
 Acts
 448442	Acts
-448445	Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -236933,6 +240988,7 @@ Acts
 448460	Acts
 448462	Acts
 448465	Acts
+448468	Acts
 448470	Acts
 Acts
 Acts
@@ -236947,28 +241003,29 @@ Acts
 448489	Acts
 Acts
 Acts
-Acts
-Acts
-Acts
-Acts
+448493	Acts
+448495	Acts
 Acts
 448498	Acts
 448501	Acts
 448503	Acts
-448509	Acts
-Acts
+448510	Acts
 448515	Acts
 448519	Acts
-448521	Acts
+Acts
+Acts
 Acts
 448526	Acts
 448530	Acts
 Acts
-448540	Acts
+448538	Acts
 Acts
 Acts
 Acts
-448546	Acts
+Acts
+Acts
+448545	Acts
+Acts
 448554	Acts
 Acts
 Acts
@@ -236992,7 +241049,8 @@ Acts
 Acts
 Acts
 Acts
-448598	Acts
+448597	Acts
+Acts
 448600	Acts
 Acts
 448606	Acts
@@ -237005,14 +241063,17 @@ Acts
 448618	Acts
 Acts
 Acts
+Acts
 448624	Acts
-448628	Acts
+448627	Acts
+Acts
 448630	Acts
 448634	Acts
-448641	Acts
+448640	Acts
+Acts
 448648	Acts
 Acts
-448651	Acts
+448652	Acts
 448654	Acts
 Acts
 Acts
@@ -237022,9 +241083,10 @@ Acts
 Acts
 Acts
 Acts
-448666	Acts
+448665	Acts
+Acts
 448670	Acts
-448675	Acts
+448673	Acts
 448677	Acts
 Acts
 448680	Acts
@@ -237046,6 +241108,7 @@ Acts
 Acts
 448716	Acts
 Acts
+Acts
 448721	Acts
 448723	Acts
 Acts
@@ -237066,7 +241129,9 @@ Acts
 Acts
 Acts
 448760	Acts
-448763	Acts
+Acts
+Acts
+Acts
 448766	Acts
 Acts
 448769	Acts
@@ -237086,6 +241151,7 @@ Acts
 Acts
 Acts
 Acts
+Acts
 448795	Acts
 448797	Acts
 448799	Acts
@@ -237097,20 +241163,17 @@ Acts
 448807	Acts
 Acts
 Acts
-Acts
-Acts
+448811	Acts
 448813	Acts
 Acts
 Acts
-Acts
-Acts
+448817	Acts
 448824	Acts
 448829	Acts
 Acts
 Acts
 Acts
-Acts
-Acts
+448834	Acts
 Acts
 448841	Acts
 Acts
@@ -237133,7 +241196,6 @@ Acts
 Acts
 Acts
 Acts
-Acts
 448872	Acts
 448874	Acts
 Acts
@@ -237141,7 +241203,9 @@ Acts
 Acts
 Acts
 448881	Acts
-448885	Acts
+448883	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -237149,14 +241213,15 @@ Acts
 448893	Acts
 Acts
 Acts
-448901	Acts
+448899	Acts
+Acts
+Acts
 Acts
 448906	Acts
 448908	Acts
 Acts
 448915	Acts
 448917	Acts
-Acts
 448921	Acts
 448924	Acts
 Acts
@@ -237168,7 +241233,8 @@ Acts
 448949	Acts
 Acts
 Acts
-448953	Acts
+Acts
+Acts
 Acts
 448957	Acts
 Acts
@@ -237186,19 +241252,23 @@ Acts
 Acts
 Acts
 Acts
-448986	Acts
-448991	Acts
+448985	Acts
+Acts
+448989	Acts
+Acts
+Acts
 Acts
 Acts
 448996	Acts
+Acts
 449002	Acts
-449007	Acts
+449006	Acts
+Acts
 Acts
 Acts
 Acts
 Acts
 449016	Acts
-449020	Acts
 449022	Acts
 Acts
 449028	Acts
@@ -237209,12 +241279,14 @@ Acts
 Acts
 449039	Acts
 Acts
-449043	Acts
+449042	Acts
+Acts
 449047	Acts
 Acts
 449051	Acts
 Acts
-449054	Acts
+Acts
+Acts
 449056	Acts
 449060	Acts
 Acts
@@ -237227,7 +241299,9 @@ Acts
 Acts
 449081	Acts
 449083	Acts
-449089	Acts
+449087	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -237261,7 +241335,8 @@ Acts
 449153	Acts
 449157	Acts
 Acts
-449167	Acts
+449166	Acts
+Acts
 449169	Acts
 Acts
 Acts
@@ -237270,7 +241345,8 @@ Acts
 449176	Acts
 Acts
 Acts
-449182	Acts
+449181	Acts
+Acts
 449185	Acts
 Acts
 Acts
@@ -237280,20 +241356,23 @@ Acts
 Acts
 449200	Acts
 449202	Acts
-449207	Acts
+449206	Acts
+Acts
 Acts
 Acts
 Acts
 Acts
 449213	Acts
 Acts
-449216	Acts
 449218	Acts
-449222	Acts
-449224	Acts
+449221	Acts
 Acts
 Acts
-449228	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
 449230	Acts
 449232	Acts
 Acts
@@ -237305,9 +241384,10 @@ Acts
 Acts
 449254	Acts
 Acts
-Acts
 449259	Acts
-449265	Acts
+449261	Acts
+449264	Acts
+Acts
 449269	Acts
 Acts
 Acts
@@ -237325,17 +241405,14 @@ Acts
 Acts
 449298	Acts
 Acts
-449302	Acts
 449306	Acts
-449308	Acts
 449312	Acts
 449314	Acts
 Acts
 Acts
 449318	Acts
 Acts
-449321	Acts
-Acts
+449322	Acts
 449325	Acts
 Acts
 Acts
@@ -237343,7 +241420,6 @@ Acts
 Acts
 449333	Acts
 449335	Acts
-Acts
 449338	Acts
 449340	Acts
 Acts
@@ -237355,8 +241431,7 @@ Acts
 449348	Acts
 449352	Acts
 Acts
-449356	Acts
-Acts
+449357	Acts
 449360	Acts
 449362	Acts
 Acts
@@ -237366,8 +241441,7 @@ Acts
 Acts
 449375	Acts
 Acts
-Acts
-Acts
+449378	Acts
 449387	Acts
 Acts
 Acts
@@ -237381,8 +241455,7 @@ Acts
 449411	Acts
 Acts
 Acts
-Acts
-Acts
+449415	Acts
 Acts
 449419	Acts
 Acts
@@ -237395,10 +241468,10 @@ Acts
 Acts
 449433	Acts
 Acts
-449436	Acts
 Acts
 Acts
 Acts
+449439	Acts
 Acts
 Acts
 Acts
@@ -237407,7 +241480,6 @@ Acts
 Acts
 Acts
 449455	Acts
-Acts
 Acts
 Acts
 449461	Acts
@@ -237437,12 +241509,11 @@ Acts
 Acts
 449506	Acts
 Acts
-Acts
-Acts
+449509	Acts
 449511	Acts
 Acts
 Acts
-449515	Acts
+Acts
 Acts
 449518	Acts
 449520	Acts
@@ -237451,7 +241522,9 @@ Acts
 Acts
 Acts
 Acts
-449537	Acts
+449535	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -237459,15 +241532,17 @@ Acts
 Acts
 Acts
 Acts
-449547	Acts
-Acts
+449548	Acts
 Acts
 Acts
 Acts
 449555	Acts
 Acts
 Acts
-449568	Acts
+449562	Acts
+449566	Acts
+Acts
+Acts
 Acts
 Acts
 449573	Acts
@@ -237487,7 +241562,8 @@ Acts
 449595	Acts
 Acts
 Acts
-449604	Acts
+449603	Acts
+Acts
 449606	Acts
 449609	Acts
 Acts
@@ -237500,7 +241576,8 @@ Acts
 Acts
 449630	Acts
 Acts
-449634	Acts
+449633	Acts
+Acts
 449639	Acts
 449642	Acts
 Acts
@@ -237513,9 +241590,12 @@ Acts
 Acts
 449659	Acts
 Acts
+Acts
 449665	Acts
 Acts
-449668	Acts
+Acts
+Acts
+449670	Acts
 449673	Acts
 449682	Acts
 Acts
@@ -237524,20 +241604,23 @@ Acts
 449691	Acts
 Acts
 Acts
-449697	Acts
+449696	Acts
+Acts
 449699	Acts
 Acts
 Acts
-449705	Acts
+449703	Acts
+Acts
+Acts
 449710	Acts
 Acts
-449718	Acts
-Acts
+449713	Acts
+449719	Acts
 449721	Acts
 449724	Acts
-449727	Acts
 449729	Acts
-449732	Acts
+449731	Acts
+Acts
 449737	Acts
 449739	Acts
 Acts
@@ -237554,13 +241637,15 @@ Acts
 449772	Acts
 449774	Acts
 449776	Acts
-449778	Acts
+Acts
+Acts
 449780	Acts
 Acts
 449788	Acts
 449790	Acts
 449792	Acts
-449794	Acts
+Acts
+Acts
 449798	Acts
 Acts
 Acts
@@ -237592,16 +241677,17 @@ Acts
 Acts
 449856	Acts
 Acts
-Acts
 449861	Acts
 Acts
-449864	Acts
+Acts
+Acts
 449868	Acts
 449870	Acts
-Acts
 449873	Acts
 449877	Acts
 Acts
+Acts
+449883	Acts
 Acts
 449888	Acts
 Acts
@@ -237611,8 +241697,10 @@ Acts
 449903	Acts
 Acts
 449907	Acts
-449909	Acts
+Acts
+Acts
 449913	Acts
+Acts
 Acts
 449920	Acts
 Acts
@@ -237622,7 +241710,6 @@ Acts
 Acts
 Acts
 449930	Acts
-449933	Acts
 449935	Acts
 Acts
 Acts
@@ -237660,7 +241747,8 @@ Acts
 Acts
 Acts
 Acts
-449987	Acts
+Acts
+Acts
 Acts
 449992	Acts
 Acts
@@ -237671,12 +241759,14 @@ Acts
 450003	Acts
 450008	Acts
 Acts
-450011	Acts
+450012	Acts
+Acts
+450015	Acts
 Acts
 Acts
-450017	Acts
 Acts
-450022	Acts
+450021	Acts
+Acts
 Acts
 Acts
 450026	Acts
@@ -237697,6 +241787,7 @@ Acts
 Acts
 Acts
 Acts
+450051	Acts
 450053	Acts
 450059	Acts
 Acts
@@ -237705,7 +241796,6 @@ Acts
 450065	Acts
 Acts
 Acts
-450069	Acts
 450071	Acts
 450073	Acts
 Acts
@@ -237722,7 +241812,8 @@ Acts
 450092	Acts
 450096	Acts
 Acts
-450106	Acts
+450105	Acts
+Acts
 Acts
 450109	Acts
 Acts
@@ -237733,13 +241824,12 @@ Acts
 450124	Acts
 450128	Acts
 Acts
+450135	Acts
 450140	Acts
 450142	Acts
 Acts
-450146	Acts
-Acts
+450147	Acts
 450149	Acts
-Acts
 Acts
 Acts
 450155	Acts
@@ -237751,12 +241841,13 @@ Acts
 Acts
 450169	Acts
 450175	Acts
-450177	Acts
+Acts
+Acts
 450180	Acts
 Acts
-Acts
-Acts
+450183	Acts
 450191	Acts
+Acts
 Acts
 Acts
 Acts
@@ -237770,8 +241861,7 @@ Acts
 Acts
 450217	Acts
 Acts
-Acts
-Acts
+450220	Acts
 Acts
 450223	Acts
 Acts
@@ -237786,10 +241876,10 @@ Acts
 450245	Acts
 Acts
 450249	Acts
-450251	Acts
 Acts
-450254	Acts
 Acts
+Acts
+450255	Acts
 Acts
 450259	Acts
 Acts
@@ -237802,10 +241892,12 @@ Acts
 Acts
 Acts
 Acts
+Acts
 450278	Acts
 Acts
 450282	Acts
-450288	Acts
+450287	Acts
+Acts
 Acts
 Acts
 450292	Acts
@@ -237815,7 +241907,8 @@ Acts
 450301	Acts
 450304	Acts
 450309	Acts
-450311	Acts
+Acts
+Acts
 450314	Acts
 450317	Acts
 Acts
@@ -237872,8 +241965,10 @@ Acts
 Acts
 Acts
 Acts
-450415	Acts
-450419	Acts
+Acts
+Acts
+450418	Acts
+Acts
 Acts
 Acts
 Acts
@@ -237903,8 +241998,7 @@ Acts
 Acts
 Acts
 Acts
-450476	Acts
-Acts
+450477	Acts
 450480	Acts
 Acts
 450485	Acts
@@ -237924,21 +242018,20 @@ Acts
 Acts
 450509	Acts
 Acts
-450512	Acts
+450513	Acts
 Acts
 Acts
-450516	Acts
+Acts
 Acts
 Acts
 450521	Acts
 Acts
 450529	Acts
-450531	Acts
 Acts
+450532	Acts
 Acts
 450536	Acts
 450538	Acts
-Acts
 Acts
 Acts
 Acts
@@ -237969,9 +242062,7 @@ Acts
 Acts
 Acts
 Acts
-Acts
 450603	Acts
-450606	Acts
 450608	Acts
 450614	Acts
 Acts
@@ -237993,7 +242084,8 @@ Acts
 Acts
 Acts
 Acts
-450648	Acts
+Acts
+Acts
 Acts
 450653	Acts
 450657	Acts
@@ -238006,10 +242098,13 @@ Acts
 Acts
 Acts
 Acts
-450671	Acts
+450670	Acts
+Acts
 450677	Acts
 Acts
-450682	Acts
+450680	Acts
+Acts
+Acts
 Acts
 450687	Acts
 450689	Acts
@@ -238033,26 +242128,27 @@ Acts
 450723	Acts
 Acts
 Acts
-Acts
-Acts
+450727	Acts
 450730	Acts
 Acts
 Acts
 Acts
 Acts
-450740	Acts
+450739	Acts
+Acts
 Acts
 450743	Acts
-450745	Acts
-Acts
+450746	Acts
 450749	Acts
-450751	Acts
+Acts
+Acts
 450753	Acts
 Acts
 450756	Acts
 Acts
 Acts
 450762	Acts
+Acts
 Acts
 450768	Acts
 450770	Acts
@@ -238072,7 +242168,9 @@ Acts
 450794	Acts
 450796	Acts
 Acts
-450801	Acts
+450799	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -238082,13 +242180,16 @@ Acts
 450814	Acts
 Acts
 Acts
-450821	Acts
+450820	Acts
 Acts
-450824	Acts
+Acts
+Acts
+Acts
 450826	Acts
 Acts
 Acts
-450831	Acts
+450830	Acts
+Acts
 Acts
 450840	Acts
 Acts
@@ -238098,18 +242199,20 @@ Acts
 Acts
 450848	Acts
 Acts
-450851	Acts
+Acts
+Acts
 450854	Acts
 450858	Acts
 Acts
 Acts
-450863	Acts
+450862	Acts
 Acts
-450866	Acts
+Acts
 450869	Acts
 450872	Acts
 Acts
-450875	Acts
+Acts
+Acts
 Acts
 Acts
 450879	Acts
@@ -238126,7 +242229,8 @@ Acts
 Acts
 Acts
 Acts
-450901	Acts
+Acts
+Acts
 Acts
 450906	Acts
 Acts
@@ -238139,7 +242243,9 @@ Acts
 Acts
 Acts
 450925	Acts
-450928	Acts
+Acts
+Acts
+Acts
 450933	Acts
 450938	Acts
 Acts
@@ -238152,12 +242258,11 @@ Acts
 450959	Acts
 Acts
 Acts
-450968	Acts
-450970	Acts
 Acts
+450968	Acts
+450971	Acts
 Acts
 450976	Acts
-Acts
 Acts
 450980	Acts
 450984	Acts
@@ -238165,9 +242270,9 @@ Acts
 Acts
 450991	Acts
 Acts
-450994	Acts
-450998	Acts
 Acts
+Acts
+450999	Acts
 451001	Acts
 Acts
 Acts
@@ -238187,10 +242292,8 @@ Acts
 Acts
 451035	Acts
 Acts
-451038	Acts
-Acts
-451041	Acts
-Acts
+451039	Acts
+451042	Acts
 451045	Acts
 Acts
 Acts
@@ -238200,22 +242303,20 @@ Acts
 Acts
 Acts
 Acts
-451061	Acts
-Acts
+451062	Acts
 Acts
 451065	Acts
 Acts
 Acts
-Acts
 451070	Acts
-451073	Acts
+451072	Acts
+Acts
 Acts
 451076	Acts
 Acts
 Acts
 Acts
-451082	Acts
-Acts
+451083	Acts
 451085	Acts
 Acts
 Acts
@@ -238231,7 +242332,6 @@ Acts
 451107	Acts
 Acts
 451111	Acts
-451113	Acts
 451117	Acts
 451119	Acts
 Acts
@@ -238241,7 +242341,8 @@ Acts
 Acts
 451130	Acts
 Acts
-451134	Acts
+451133	Acts
+Acts
 Acts
 Acts
 Acts
@@ -238255,10 +242356,11 @@ Acts
 Acts
 Acts
 Acts
-451158	Acts
 Acts
 Acts
 Acts
+Acts
+451161	Acts
 Acts
 Acts
 Acts
@@ -238269,17 +242371,19 @@ Acts
 451178	Acts
 Acts
 451182	Acts
-451184	Acts
 451187	Acts
 451190	Acts
 Acts
-451196	Acts
+451194	Acts
+Acts
+Acts
 Acts
 Acts
 451202	Acts
 Acts
 451205	Acts
 Acts
+451210	Acts
 451213	Acts
 451215	Acts
 451218	Acts
@@ -238300,9 +242404,12 @@ Acts
 Acts
 451248	Acts
 451250	Acts
-451252	Acts
 Acts
-451257	Acts
+Acts
+Acts
+451255	Acts
+Acts
+Acts
 451259	Acts
 451261	Acts
 451263	Acts
@@ -238328,18 +242435,15 @@ Acts
 Acts
 451307	Acts
 451309	Acts
-Acts
-Acts
+451311	Acts
 451315	Acts
 Acts
 Acts
-451319	Acts
-Acts
+451320	Acts
 451324	Acts
 Acts
 451327	Acts
-451331	Acts
-Acts
+451332	Acts
 Acts
 Acts
 451336	Acts
@@ -238357,27 +242461,29 @@ Acts
 Acts
 Acts
 Acts
-Acts
 451367	Acts
 451373	Acts
 Acts
 451376	Acts
 Acts
 451379	Acts
-Acts
-Acts
+451381	Acts
 451384	Acts
 Acts
 451387	Acts
 Acts
-451392	Acts
-451398	Acts
-451400	Acts
+451391	Acts
 Acts
-451406	Acts
+451398	Acts
+Acts
+Acts
+Acts
+451405	Acts
+Acts
 451409	Acts
 451412	Acts
 451415	Acts
+Acts
 451419	Acts
 451421	Acts
 Acts
@@ -238385,12 +242491,15 @@ Acts
 Acts
 451431	Acts
 Acts
-451435	Acts
+Acts
+Acts
+Acts
 451438	Acts
 Acts
 451441	Acts
 451447	Acts
-451449	Acts
+Acts
+Acts
 Acts
 Acts
 451454	Acts
@@ -238400,10 +242509,10 @@ Acts
 Acts
 451462	Acts
 Acts
-451466	Acts
+451467	Acts
 Acts
 Acts
-451470	Acts
+Acts
 Acts
 451473	Acts
 451477	Acts
@@ -238442,9 +242551,9 @@ Acts
 Acts
 Acts
 451527	Acts
-451529	Acts
-451531	Acts
 Acts
+Acts
+451532	Acts
 451534	Acts
 Acts
 Acts
@@ -238454,9 +242563,11 @@ Acts
 Acts
 451546	Acts
 Acts
+451549	Acts
 451551	Acts
 451553	Acts
-451555	Acts
+Acts
+Acts
 451557	Acts
 451566	Acts
 Acts
@@ -238475,10 +242586,12 @@ Acts
 Acts
 Acts
 Acts
-451595	Acts
+451594	Acts
+Acts
 451600	Acts
 Acts
-451604	Acts
+451603	Acts
+Acts
 451607	Acts
 451609	Acts
 Acts
@@ -238488,49 +242601,57 @@ Acts
 Acts
 Acts
 Acts
-451627	Acts
+Acts
+Acts
 Acts
 451630	Acts
+Acts
+Acts
 451635	Acts
 Acts
 Acts
-Acts
-Acts
+451639	Acts
 451642	Acts
 Acts
 451647	Acts
 Acts
 451651	Acts
 Acts
-Acts
-Acts
+451654	Acts
 451658	Acts
 451661	Acts
 451665	Acts
 451668	Acts
 Acts
-451673	Acts
+451672	Acts
+Acts
 451678	Acts
 Acts
 Acts
-451683	Acts
 Acts
-451690	Acts
+Acts
+Acts
+Acts
 451693	Acts
 Acts
 451698	Acts
 451701	Acts
 451703	Acts
 Acts
-451706	Acts
+Acts
+Acts
 Acts
 451710	Acts
 451712	Acts
 Acts
 Acts
 451719	Acts
-451722	Acts
-451724	Acts
+451721	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 451731	Acts
@@ -238543,7 +242664,8 @@ Acts
 451745	Acts
 Acts
 451752	Acts
-451754	Acts
+Acts
+Acts
 Acts
 451757	Acts
 Acts
@@ -238552,14 +242674,13 @@ Acts
 Acts
 451768	Acts
 Acts
-Acts
-Acts
+451771	Acts
 451776	Acts
 451778	Acts
 Acts
-451781	Acts
 451785	Acts
-451792	Acts
+451791	Acts
+Acts
 Acts
 Acts
 Acts
@@ -238569,25 +242690,31 @@ Acts
 Acts
 Acts
 451810	Acts
-451814	Acts
+451813	Acts
 Acts
 Acts
-451825	Acts
-451836	Acts
+Acts
+451824	Acts
+Acts
+451834	Acts
+Acts
+Acts
 451839	Acts
 Acts
 Acts
 451844	Acts
 Acts
 Acts
-451848	Acts
+Acts
+Acts
 451851	Acts
 Acts
 451855	Acts
 451857	Acts
 Acts
 451863	Acts
-451865	Acts
+Acts
+Acts
 451867	Acts
 Acts
 Acts
@@ -238596,8 +242723,7 @@ Acts
 451878	Acts
 Acts
 451881	Acts
-451883	Acts
-Acts
+451884	Acts
 451889	Acts
 Acts
 Acts
@@ -238606,10 +242732,12 @@ Acts
 Acts
 Acts
 Acts
-451910	Acts
+451908	Acts
 Acts
 Acts
-451914	Acts
+451912	Acts
+Acts
+Acts
 451918	Acts
 Acts
 Acts
@@ -238623,7 +242751,6 @@ Acts
 Acts
 Acts
 451935	Acts
-451938	Acts
 451940	Acts
 Acts
 451945	Acts
@@ -238665,15 +242792,15 @@ Acts
 Acts
 452025	Acts
 Acts
-452031	Acts
-Acts
+452032	Acts
 452035	Acts
 Acts
 Acts
 452040	Acts
 Acts
 452044	Acts
-452046	Acts
+Acts
+Acts
 452048	Acts
 452051	Acts
 Acts
@@ -238694,10 +242821,12 @@ Acts
 452076	Acts
 Acts
 452081	Acts
-452083	Acts
 Acts
 Acts
-452088	Acts
+Acts
+Acts
+452087	Acts
+Acts
 Acts
 Acts
 Acts
@@ -238707,8 +242836,7 @@ Acts
 452097	Acts
 452099	Acts
 Acts
-452102	Acts
-Acts
+452103	Acts
 Acts
 Acts
 Acts
@@ -238730,16 +242858,17 @@ Acts
 452144	Acts
 Acts
 452148	Acts
-452150	Acts
+Acts
+Acts
 Acts
 452153	Acts
-452155	Acts
 452159	Acts
 452163	Acts
 452165	Acts
 Acts
 Acts
-452169	Acts
+Acts
+Acts
 Acts
 Acts
 452174	Acts
@@ -238755,8 +242884,8 @@ Acts
 Acts
 452192	Acts
 Acts
-452200	Acts
-Acts
+452199	Acts
+452201	Acts
 Acts
 Acts
 Acts
@@ -238776,23 +242905,27 @@ Acts
 452233	Acts
 Acts
 452242	Acts
-452244	Acts
+Acts
+Acts
 452247	Acts
 Acts
-452250	Acts
+Acts
+Acts
 452253	Acts
 Acts
-452257	Acts
+452256	Acts
+Acts
 452262	Acts
 Acts
 Acts
-452270	Acts
+452269	Acts
 Acts
-Acts
+452272	Acts
 452276	Acts
 Acts
 452282	Acts
-452284	Acts
+Acts
+Acts
 Acts
 452290	Acts
 Acts
@@ -238802,7 +242935,6 @@ Acts
 452300	Acts
 Acts
 Acts
-452304	Acts
 452306	Acts
 452308	Acts
 Acts
@@ -238828,6 +242960,8 @@ Acts
 452350	Acts
 Acts
 452355	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -238873,18 +243007,22 @@ Acts
 452427	Acts
 Acts
 Acts
+452431	Acts
 452434	Acts
 Acts
-452437	Acts
+Acts
+Acts
 Acts
 Acts
 452441	Acts
-452443	Acts
+Acts
+Acts
 Acts
 452446	Acts
 Acts
 Acts
-452452	Acts
+452451	Acts
+Acts
 452457	Acts
 452460	Acts
 Acts
@@ -238901,13 +243039,15 @@ Acts
 452488	Acts
 Acts
 452494	Acts
-452496	Acts
+Acts
+Acts
 Acts
 452500	Acts
 Acts
 452504	Acts
 Acts
-452508	Acts
+452507	Acts
+Acts
 Acts
 Acts
 Acts
@@ -238927,7 +243067,8 @@ Acts
 Acts
 Acts
 452538	Acts
-452540	Acts
+Acts
+Acts
 452542	Acts
 Acts
 452546	Acts
@@ -238942,8 +243083,7 @@ Acts
 452560	Acts
 Acts
 452563	Acts
-Acts
-Acts
+452565	Acts
 452570	Acts
 452578	Acts
 Acts
@@ -238965,7 +243105,6 @@ Acts
 Acts
 Acts
 452609	Acts
-452612	Acts
 Acts
 Acts
 Acts
@@ -238975,7 +243114,11 @@ Acts
 Acts
 Acts
 Acts
-452623	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 452627	Acts
@@ -238997,7 +243140,8 @@ Acts
 Acts
 Acts
 452654	Acts
-452656	Acts
+Acts
+Acts
 452659	Acts
 Acts
 Acts
@@ -239021,7 +243165,8 @@ Acts
 Acts
 Acts
 Acts
-452693	Acts
+Acts
+Acts
 452696	Acts
 Acts
 Acts
@@ -239038,14 +243183,16 @@ Acts
 452716	Acts
 452718	Acts
 Acts
-452721	Acts
 Acts
 Acts
 Acts
 Acts
 Acts
 Acts
-452733	Acts
+Acts
+Acts
+452732	Acts
+Acts
 452738	Acts
 Acts
 452743	Acts
@@ -239053,15 +243200,16 @@ Acts
 Acts
 452749	Acts
 Acts
-452755	Acts
+452753	Acts
+Acts
+Acts
 Acts
 Acts
 452759	Acts
 Acts
 452764	Acts
 Acts
-Acts
-Acts
+452767	Acts
 Acts
 452770	Acts
 Acts
@@ -239080,7 +243228,8 @@ Acts
 452793	Acts
 452797	Acts
 Acts
-452802	Acts
+452801	Acts
+Acts
 452804	Acts
 Acts
 Acts
@@ -239117,7 +243266,8 @@ Acts
 452858	Acts
 Acts
 452862	Acts
-452864	Acts
+Acts
+Acts
 452866	Acts
 Acts
 Acts
@@ -239132,7 +243282,8 @@ Acts
 Acts
 Acts
 452884	Acts
-452886	Acts
+Acts
+Acts
 Acts
 452889	Acts
 452891	Acts
@@ -239197,13 +243348,13 @@ Acts
 Acts
 Acts
 Acts
-Acts
 452998	Acts
 453003	Acts
 Acts
 Acts
 Acts
 453012	Acts
+Acts
 Acts
 Acts
 Acts
@@ -239227,15 +243378,15 @@ Acts
 Acts
 453044	Acts
 Acts
-Acts
-Acts
+453047	Acts
 453051	Acts
 Acts
 453056	Acts
-453058	Acts
 Acts
 Acts
-453062	Acts
+Acts
+Acts
+Acts
 453064	Acts
 Acts
 Acts
@@ -239246,7 +243397,8 @@ Acts
 Acts
 Acts
 453077	Acts
-453079	Acts
+Acts
+Acts
 453082	Acts
 453084	Acts
 Acts
@@ -239257,15 +243409,16 @@ Acts
 453094	Acts
 Acts
 Acts
-453098	Acts
+Acts
+Acts
 Acts
 453102	Acts
 Acts
 453107	Acts
 Acts
 Acts
-453111	Acts
 Acts
+453112	Acts
 Acts
 Acts
 453117	Acts
@@ -239286,7 +243439,6 @@ Acts
 Acts
 Acts
 453142	Acts
-Acts
 Acts
 Acts
 Acts
@@ -239329,24 +243481,25 @@ Acts
 Acts
 Acts
 Acts
-Acts
 453231	Acts
 453237	Acts
 Acts
 Acts
 453241	Acts
 Acts
+Acts
 453245	Acts
 Acts
+453248	Acts
 453251	Acts
 453253	Acts
-453255	Acts
+Acts
+Acts
 Acts
 453259	Acts
 Acts
 Acts
 453263	Acts
-Acts
 453267	Acts
 453270	Acts
 Acts
@@ -239365,7 +243518,8 @@ Acts
 Acts
 Acts
 Acts
-453297	Acts
+Acts
+Acts
 Acts
 Acts
 453301	Acts
@@ -239377,9 +243531,7 @@ Acts
 Acts
 453312	Acts
 453316	Acts
-453320	Acts
-453322	Acts
-Acts
+453323	Acts
 453325	Acts
 453328	Acts
 Acts
@@ -239389,12 +243541,12 @@ Acts
 453335	Acts
 Acts
 Acts
-453340	Acts
+453339	Acts
 Acts
 Acts
 Acts
-453345	Acts
 Acts
+453346	Acts
 Acts
 Acts
 453351	Acts
@@ -239405,11 +243557,13 @@ Acts
 453358	Acts
 Acts
 453363	Acts
-453365	Acts
+Acts
+Acts
 Acts
 453369	Acts
 Acts
-453373	Acts
+453372	Acts
+Acts
 Acts
 Acts
 453378	Acts
@@ -239427,7 +243581,8 @@ Acts
 Acts
 453404	Acts
 453406	Acts
-453408	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -239442,7 +243597,8 @@ Acts
 Acts
 Acts
 Acts
-453428	Acts
+453427	Acts
+Acts
 453430	Acts
 Acts
 Acts
@@ -239468,7 +243624,6 @@ Acts
 453478	Acts
 Acts
 453482	Acts
-Acts
 453486	Acts
 453489	Acts
 Acts
@@ -239481,7 +243636,8 @@ Acts
 453501	Acts
 Acts
 453504	Acts
-453506	Acts
+Acts
+Acts
 Acts
 453510	Acts
 Acts
@@ -239523,7 +243679,8 @@ Acts
 Acts
 453579	Acts
 Acts
-453582	Acts
+Acts
+Acts
 Acts
 453588	Acts
 Acts
@@ -239544,19 +243701,26 @@ Acts
 453614	Acts
 453616	Acts
 453619	Acts
-453621	Acts
 Acts
 Acts
 Acts
 Acts
-453628	Acts
+Acts
+Acts
+453627	Acts
+Acts
 453631	Acts
+453633	Acts
 453635	Acts
-453640	Acts
+453639	Acts
+Acts
 453644	Acts
-453650	Acts
-453657	Acts
-453659	Acts
+453649	Acts
+Acts
+Acts
+Acts
+453656	Acts
+Acts
 453661	Acts
 Acts
 Acts
@@ -239568,7 +243732,8 @@ Acts
 453673	Acts
 453676	Acts
 Acts
-453680	Acts
+453679	Acts
+Acts
 453682	Acts
 453687	Acts
 Acts
@@ -239578,6 +243743,7 @@ Acts
 453697	Acts
 Acts
 Acts
+453703	Acts
 453706	Acts
 Acts
 453710	Acts
@@ -239592,8 +243758,7 @@ Acts
 Acts
 Acts
 453728	Acts
-453732	Acts
-Acts
+453733	Acts
 Acts
 Acts
 453738	Acts
@@ -239604,6 +243769,7 @@ Acts
 453757	Acts
 Acts
 453760	Acts
+Acts
 Acts
 453766	Acts
 453768	Acts
@@ -239619,7 +243785,8 @@ Acts
 Acts
 453789	Acts
 Acts
-453792	Acts
+Acts
+Acts
 Acts
 453797	Acts
 453799	Acts
@@ -239629,14 +243796,14 @@ Acts
 Acts
 453809	Acts
 Acts
-Acts
 453813	Acts
 453816	Acts
 Acts
 453820	Acts
 Acts
 453827	Acts
-453829	Acts
+Acts
+Acts
 Acts
 453832	Acts
 453836	Acts
@@ -239658,7 +243825,8 @@ Acts
 Acts
 453867	Acts
 Acts
-453871	Acts
+453870	Acts
+Acts
 Acts
 453874	Acts
 Acts
@@ -239674,7 +243842,8 @@ Acts
 453895	Acts
 Acts
 Acts
-453899	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -239690,7 +243859,8 @@ Acts
 Acts
 453924	Acts
 Acts
-453930	Acts
+453929	Acts
+Acts
 453932	Acts
 453935	Acts
 Acts
@@ -239711,12 +243881,12 @@ Acts
 453967	Acts
 453969	Acts
 Acts
+Acts
 453973	Acts
 Acts
 Acts
 Acts
-453979	Acts
-Acts
+453980	Acts
 453984	Acts
 Acts
 453987	Acts
@@ -239733,12 +243903,15 @@ Acts
 Acts
 Acts
 454013	Acts
-454015	Acts
-454017	Acts
+Acts
+Acts
+Acts
+Acts
 454021	Acts
 Acts
 454024	Acts
-454030	Acts
+454029	Acts
+Acts
 Acts
 Acts
 Acts
@@ -239767,8 +243940,7 @@ Acts
 Acts
 Acts
 Acts
-454076	Acts
-Acts
+454077	Acts
 Acts
 454083	Acts
 454086	Acts
@@ -239786,7 +243958,8 @@ Acts
 454113	Acts
 Acts
 Acts
-454118	Acts
+454117	Acts
+Acts
 454120	Acts
 Acts
 Acts
@@ -239796,7 +243969,6 @@ Acts
 454134	Acts
 454136	Acts
 Acts
-454139	Acts
 454141	Acts
 Acts
 Acts
@@ -239808,6 +243980,7 @@ Acts
 Acts
 Acts
 454155	Acts
+Acts
 Acts
 454159	Acts
 454164	Acts
@@ -239833,8 +244006,7 @@ Acts
 454207	Acts
 454210	Acts
 Acts
-454216	Acts
-Acts
+454217	Acts
 Acts
 Acts
 454226	Acts
@@ -239861,7 +244033,8 @@ Acts
 454268	Acts
 Acts
 454276	Acts
-454278	Acts
+Acts
+Acts
 Acts
 Acts
 454282	Acts
@@ -239911,6 +244084,7 @@ Acts
 Acts
 454361	Acts
 Acts
+454364	Acts
 454369	Acts
 Acts
 454373	Acts
@@ -239928,18 +244102,19 @@ Acts
 Acts
 454394	Acts
 Acts
-454397	Acts
 454399	Acts
 454406	Acts
 Acts
 Acts
+454411	Acts
 454418	Acts
 Acts
 Acts
 454422	Acts
 Acts
 Acts
-454426	Acts
+Acts
+Acts
 454430	Acts
 454432	Acts
 Acts
@@ -239978,8 +244153,7 @@ Acts
 454482	Acts
 Acts
 Acts
-Acts
-Acts
+454486	Acts
 454488	Acts
 Acts
 Acts
@@ -240001,8 +244175,7 @@ Acts
 Acts
 454520	Acts
 Acts
-454523	Acts
-Acts
+454524	Acts
 Acts
 Acts
 Acts
@@ -240032,8 +244205,7 @@ Acts
 454580	Acts
 Acts
 Acts
-Acts
-Acts
+454584	Acts
 454586	Acts
 454588	Acts
 454590	Acts
@@ -240041,27 +244213,26 @@ Acts
 Acts
 Acts
 454598	Acts
-454600	Acts
-Acts
+454601	Acts
 454603	Acts
 454606	Acts
 454608	Acts
 Acts
 Acts
 454613	Acts
-Acts
 454619	Acts
 Acts
-454622	Acts
+Acts
+Acts
 Acts
 454625	Acts
 Acts
 Acts
 454631	Acts
 Acts
-454634	Acts
+454635	Acts
+454638	Acts
 Acts
-454639	Acts
 Acts
 454642	Acts
 Acts
@@ -240083,26 +244254,29 @@ Acts
 454675	Acts
 Acts
 Acts
+454681	Acts
+Acts
 454687	Acts
 Acts
 454695	Acts
 Acts
-Acts
-Acts
+454698	Acts
 Acts
 454703	Acts
 Acts
-454709	Acts
+Acts
+454708	Acts
+Acts
 454712	Acts
 Acts
 454717	Acts
 Acts
 454722	Acts
 454724	Acts
-454727	Acts
+454726	Acts
 Acts
 Acts
-454731	Acts
+Acts
 454733	Acts
 454735	Acts
 454737	Acts
@@ -240118,8 +244292,7 @@ Acts
 454758	Acts
 Acts
 Acts
-454762	Acts
-Acts
+454763	Acts
 Acts
 Acts
 Acts
@@ -240143,12 +244316,14 @@ Acts
 Acts
 454809	Acts
 Acts
-454814	Acts
 454816	Acts
 454820	Acts
-454823	Acts
 Acts
-454826	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
 Acts
 454834	Acts
 Acts
@@ -240158,14 +244333,16 @@ Acts
 Acts
 454842	Acts
 Acts
-454845	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
 Acts
 Acts
 454852	Acts
-454854	Acts
+Acts
+Acts
 Acts
 454863	Acts
 454867	Acts
@@ -240184,16 +244361,19 @@ Acts
 Acts
 Acts
 454916	Acts
-454918	Acts
+Acts
+Acts
 Acts
 454922	Acts
+Acts
 Acts
 Acts
 454934	Acts
 454938	Acts
 454946	Acts
 454955	Acts
-454957	Acts
+Acts
+Acts
 Acts
 454960	Acts
 Acts
@@ -240202,7 +244382,8 @@ Acts
 Acts
 454967	Acts
 Acts
-454974	Acts
+454972	Acts
+Acts
 Acts
 Acts
 Acts
@@ -240212,8 +244393,7 @@ Acts
 454991	Acts
 Acts
 Acts
-Acts
-Acts
+454995	Acts
 Acts
 454998	Acts
 455002	Acts
@@ -240227,7 +244407,8 @@ Acts
 Acts
 455019	Acts
 Acts
-455022	Acts
+Acts
+Acts
 Acts
 455025	Acts
 Acts
@@ -240236,18 +244417,21 @@ Acts
 455033	Acts
 Acts
 Acts
-455041	Acts
+455040	Acts
+Acts
 Acts
 455047	Acts
 455051	Acts
 Acts
 455055	Acts
 455058	Acts
-455060	Acts
+Acts
+Acts
 455064	Acts
 Acts
 Acts
-455073	Acts
+455072	Acts
+Acts
 455075	Acts
 Acts
 Acts
@@ -240276,24 +244460,28 @@ Acts
 455119	Acts
 Acts
 Acts
-455123	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
 Acts
 455130	Acts
 Acts
-455134	Acts
+455133	Acts
+Acts
 Acts
 455140	Acts
 Acts
 Acts
-455144	Acts
 Acts
 Acts
 Acts
 Acts
-455152	Acts
+Acts
+Acts
+455151	Acts
+Acts
 Acts
 Acts
 455156	Acts
@@ -240303,20 +244491,22 @@ Acts
 Acts
 Acts
 Acts
-455167	Acts
+455166	Acts
+Acts
 Acts
 455170	Acts
 Acts
-455173	Acts
+Acts
+Acts
 Acts
 Acts
 455181	Acts
-455183	Acts
+Acts
+Acts
 455185	Acts
-455187	Acts
 455189	Acts
 455192	Acts
-455194	Acts
+Acts
 455196	Acts
 455198	Acts
 Acts
@@ -240337,11 +244527,11 @@ Acts
 Acts
 Acts
 Acts
-Acts
 455233	Acts
 455235	Acts
 Acts
-455241	Acts
+455240	Acts
+Acts
 455243	Acts
 Acts
 Acts
@@ -240365,13 +244555,11 @@ Acts
 455289	Acts
 Acts
 Acts
-455293	Acts
 455296	Acts
 455299	Acts
 455303	Acts
 455305	Acts
-455308	Acts
-Acts
+455309	Acts
 Acts
 Acts
 455315	Acts
@@ -240380,11 +244568,11 @@ Acts
 Acts
 455324	Acts
 Acts
-455327	Acts
-Acts
+455328	Acts
 455330	Acts
 Acts
-455334	Acts
+455333	Acts
+Acts
 455341	Acts
 Acts
 Acts
@@ -240405,8 +244593,7 @@ Acts
 Acts
 455378	Acts
 Acts
-Acts
-Acts
+455381	Acts
 455385	Acts
 455387	Acts
 455391	Acts
@@ -240415,23 +244602,24 @@ Acts
 455397	Acts
 Acts
 455401	Acts
-455403	Acts
+Acts
+Acts
 Acts
 455408	Acts
 Acts
 Acts
 455414	Acts
 455416	Acts
-455418	Acts
 Acts
-455421	Acts
-455426	Acts
 Acts
+Acts
+455427	Acts
 Acts
 455430	Acts
 455432	Acts
 Acts
-455436	Acts
+455435	Acts
+Acts
 455439	Acts
 455443	Acts
 Acts
@@ -240461,7 +244649,8 @@ Acts
 Acts
 455481	Acts
 455483	Acts
-455485	Acts
+Acts
+Acts
 455487	Acts
 Acts
 455490	Acts
@@ -240471,14 +244660,12 @@ Acts
 455499	Acts
 Acts
 455503	Acts
-Acts
-Acts
+455505	Acts
 455510	Acts
 Acts
 Acts
 Acts
-455516	Acts
-Acts
+455517	Acts
 Acts
 455524	Acts
 Acts
@@ -240487,6 +244674,8 @@ Acts
 Acts
 Acts
 455533	Acts
+Acts
+455539	Acts
 Acts
 455542	Acts
 Acts
@@ -240498,13 +244687,13 @@ Acts
 Acts
 455564	Acts
 Acts
-455567	Acts
+Acts
+Acts
 455569	Acts
 Acts
 Acts
 455573	Acts
-Acts
-Acts
+455575	Acts
 455578	Acts
 Acts
 Acts
@@ -240513,8 +244702,7 @@ Acts
 Acts
 Acts
 Acts
-455588	Acts
-Acts
+455589	Acts
 Acts
 Acts
 455593	Acts
@@ -240523,7 +244711,8 @@ Acts
 455600	Acts
 Acts
 Acts
-455604	Acts
+Acts
+Acts
 455606	Acts
 Acts
 455610	Acts
@@ -240535,7 +244724,8 @@ Acts
 Acts
 455627	Acts
 455629	Acts
-455632	Acts
+455631	Acts
+Acts
 455636	Acts
 455638	Acts
 455640	Acts
@@ -240546,7 +244736,8 @@ Acts
 Acts
 Acts
 455654	Acts
-455658	Acts
+455657	Acts
+Acts
 455660	Acts
 Acts
 Acts
@@ -240555,14 +244746,17 @@ Acts
 Acts
 Acts
 455673	Acts
-455676	Acts
-455684	Acts
+455675	Acts
+Acts
+455683	Acts
+Acts
 Acts
 Acts
 455688	Acts
 Acts
 Acts
-455693	Acts
+455692	Acts
+Acts
 455696	Acts
 Acts
 Acts
@@ -240572,22 +244766,20 @@ Acts
 Acts
 Acts
 455713	Acts
-455715	Acts
+Acts
+Acts
 Acts
 455720	Acts
 Acts
 Acts
 Acts
 Acts
-455726	Acts
-Acts
-455729	Acts
+455727	Acts
 455731	Acts
 455734	Acts
 455736	Acts
 Acts
-455743	Acts
-Acts
+455744	Acts
 455749	Acts
 Acts
 Acts
@@ -240614,12 +244806,12 @@ Acts
 Acts
 Acts
 Acts
-455800	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
 455806	Acts
-Acts
 Acts
 455810	Acts
 455812	Acts
@@ -240627,7 +244819,9 @@ Acts
 Acts
 Acts
 455820	Acts
-455824	Acts
+455822	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -240664,17 +244858,18 @@ Acts
 455897	Acts
 Acts
 Acts
+455901	Acts
 Acts
 Acts
-455903	Acts
-455905	Acts
-Acts
+455906	Acts
 455910	Acts
 Acts
 455913	Acts
 Acts
 Acts
-455918	Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -240685,7 +244880,9 @@ Acts
 Acts
 455934	Acts
 Acts
-455938	Acts
+Acts
+Acts
+Acts
 Acts
 455941	Acts
 455944	Acts
@@ -240701,7 +244898,8 @@ Acts
 Acts
 Acts
 Acts
-455969	Acts
+455968	Acts
+Acts
 455974	Acts
 455976	Acts
 455978	Acts
@@ -240721,27 +244919,26 @@ Acts
 Acts
 Acts
 456015	Acts
-Acts
 456018	Acts
-456024	Acts
-Acts
-456030	Acts
+456023	Acts
 Acts
 Acts
-456034	Acts
+456031	Acts
+Acts
 456036	Acts
 Acts
 Acts
 456040	Acts
 456043	Acts
-456047	Acts
-456049	Acts
+456046	Acts
+Acts
 456051	Acts
 456058	Acts
 Acts
 Acts
 456063	Acts
-456065	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -240751,20 +244948,19 @@ Acts
 Acts
 Acts
 Acts
-456085	Acts
-Acts
+456086	Acts
 456088	Acts
 456098	Acts
-456100	Acts
 Acts
 Acts
+456102	Acts
 Acts
 456106	Acts
 456109	Acts
 Acts
-Acts
 456115	Acts
 Acts
+456120	Acts
 456123	Acts
 456125	Acts
 Acts
@@ -240797,8 +244993,7 @@ Acts
 Acts
 Acts
 Acts
-Acts
-Acts
+456172	Acts
 456174	Acts
 456176	Acts
 456183	Acts
@@ -240806,6 +245001,7 @@ Acts
 456188	Acts
 Acts
 Acts
+456193	Acts
 456195	Acts
 456200	Acts
 Acts
@@ -240818,7 +245014,8 @@ Acts
 Acts
 Acts
 Acts
-456215	Acts
+Acts
+Acts
 456218	Acts
 Acts
 456222	Acts
@@ -240835,7 +245032,6 @@ Acts
 Acts
 456244	Acts
 Acts
-Acts
 456248	Acts
 Acts
 456251	Acts
@@ -240844,12 +245040,11 @@ Acts
 456256	Acts
 456258	Acts
 Acts
+Acts
 456264	Acts
-456266	Acts
 456269	Acts
 456271	Acts
-456276	Acts
-Acts
+456277	Acts
 Acts
 Acts
 Acts
@@ -240863,14 +245058,14 @@ Acts
 Acts
 Acts
 456300	Acts
-456302	Acts
+Acts
+Acts
 Acts
 456305	Acts
 Acts
 456309	Acts
 Acts
-456314	Acts
-Acts
+456315	Acts
 456318	Acts
 Acts
 Acts
@@ -240879,8 +245074,7 @@ Acts
 Acts
 456328	Acts
 Acts
-456331	Acts
-Acts
+456332	Acts
 456334	Acts
 456338	Acts
 456342	Acts
@@ -240904,7 +245098,8 @@ Acts
 Acts
 Acts
 456376	Acts
-456378	Acts
+Acts
+Acts
 Acts
 456381	Acts
 Acts
@@ -240917,17 +245112,20 @@ Acts
 Acts
 Acts
 456395	Acts
-456397	Acts
+Acts
+Acts
 Acts
 Acts
 456402	Acts
-456405	Acts
+456404	Acts
+Acts
 456411	Acts
 Acts
 456418	Acts
 Acts
 Acts
-456428	Acts
+456427	Acts
+Acts
 Acts
 Acts
 Acts
@@ -240942,13 +245140,15 @@ Acts
 Acts
 Acts
 456455	Acts
-456457	Acts
+Acts
+Acts
 456459	Acts
 Acts
 Acts
 456464	Acts
 Acts
-456467	Acts
+Acts
+Acts
 Acts
 Acts
 456471	Acts
@@ -240962,7 +245162,6 @@ Acts
 456486	Acts
 456488	Acts
 456492	Acts
-Acts
 Acts
 Acts
 456497	Acts
@@ -240987,7 +245186,6 @@ Acts
 456535	Acts
 Acts
 456541	Acts
-Acts
 456544	Acts
 456550	Acts
 Acts
@@ -240996,7 +245194,8 @@ Acts
 456560	Acts
 Acts
 Acts
-456564	Acts
+Acts
+Acts
 Acts
 456567	Acts
 Acts
@@ -241012,15 +245211,15 @@ Acts
 Acts
 456587	Acts
 456589	Acts
-456591	Acts
+Acts
+Acts
 Acts
 456597	Acts
 Acts
 456603	Acts
 Acts
 Acts
-456608	Acts
-Acts
+456609	Acts
 Acts
 456612	Acts
 Acts
@@ -241046,13 +245245,13 @@ Acts
 456650	Acts
 Acts
 456653	Acts
-456655	Acts
+Acts
+Acts
 456657	Acts
 Acts
 Acts
 Acts
 456662	Acts
-Acts
 Acts
 Acts
 Acts
@@ -241071,8 +245270,7 @@ Acts
 456681	Acts
 456685	Acts
 Acts
-Acts
-Acts
+456688	Acts
 456691	Acts
 Acts
 456702	Acts
@@ -241081,8 +245279,7 @@ Acts
 Acts
 456713	Acts
 Acts
-Acts
-Acts
+456716	Acts
 456719	Acts
 Acts
 Acts
@@ -241090,14 +245287,16 @@ Acts
 Acts
 Acts
 456728	Acts
-456730	Acts
+Acts
+Acts
 Acts
 456734	Acts
 Acts
 456738	Acts
 Acts
 456745	Acts
-456747	Acts
+Acts
+Acts
 456749	Acts
 Acts
 Acts
@@ -241105,7 +245304,8 @@ Acts
 Acts
 456755	Acts
 Acts
-456760	Acts
+456759	Acts
+Acts
 Acts
 Acts
 Acts
@@ -241143,9 +245343,9 @@ Acts
 Acts
 Acts
 Acts
-Acts
 456816	Acts
-456820	Acts
+456819	Acts
+Acts
 456823	Acts
 Acts
 Acts
@@ -241157,18 +245357,20 @@ Acts
 456839	Acts
 456841	Acts
 Acts
-456844	Acts
+Acts
+Acts
 456846	Acts
 Acts
 456849	Acts
 Acts
 Acts
+Acts
 456856	Acts
 Acts
-456859	Acts
+Acts
+Acts
 Acts
 456863	Acts
-Acts
 Acts
 456867	Acts
 456869	Acts
@@ -241190,8 +245392,7 @@ Acts
 456906	Acts
 Acts
 Acts
-Acts
-Acts
+456910	Acts
 456914	Acts
 Acts
 Acts
@@ -241206,13 +245407,11 @@ Acts
 456931	Acts
 Acts
 Acts
-Acts
 456936	Acts
 456938	Acts
 Acts
 Acts
 Acts
-456944	Acts
 456946	Acts
 456948	Acts
 Acts
@@ -241232,10 +245431,10 @@ Acts
 Acts
 456984	Acts
 Acts
-456987	Acts
 456992	Acts
 456994	Acts
-456996	Acts
+Acts
+Acts
 Acts
 Acts
 457003	Acts
@@ -241257,20 +245456,20 @@ Acts
 457039	Acts
 Acts
 Acts
-457044	Acts
 457046	Acts
 457048	Acts
 Acts
 457052	Acts
-457054	Acts
-457059	Acts
+Acts
+Acts
+457058	Acts
+Acts
 457063	Acts
 Acts
 457066	Acts
 Acts
 Acts
 457070	Acts
-457073	Acts
 457075	Acts
 Acts
 Acts
@@ -241283,24 +245482,26 @@ Acts
 457092	Acts
 457094	Acts
 457096	Acts
-457098	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
 Acts
 457105	Acts
-457107	Acts
+Acts
+Acts
 Acts
 Acts
 457112	Acts
-Acts
 Acts
 457116	Acts
 457118	Acts
 Acts
 Acts
 457124	Acts
-457126	Acts
+Acts
+Acts
 Acts
 Acts
 457134	Acts
@@ -241308,7 +245509,6 @@ Acts
 Acts
 457139	Acts
 457143	Acts
-Acts
 Acts
 Acts
 Acts
@@ -241333,7 +245533,8 @@ Acts
 457181	Acts
 Acts
 Acts
-457188	Acts
+457187	Acts
+Acts
 457190	Acts
 457192	Acts
 Acts
@@ -241343,12 +245544,10 @@ Acts
 Acts
 457200	Acts
 Acts
-Acts
 457204	Acts
 457208	Acts
 Acts
-457211	Acts
-Acts
+457212	Acts
 457215	Acts
 Acts
 457219	Acts
@@ -241359,7 +245558,6 @@ Acts
 Acts
 457230	Acts
 457235	Acts
-Acts
 457238	Acts
 Acts
 457244	Acts
@@ -241373,7 +245571,8 @@ Acts
 Acts
 Acts
 457259	Acts
-457261	Acts
+Acts
+Acts
 457264	Acts
 Acts
 Acts
@@ -241388,8 +245587,7 @@ Acts
 457285	Acts
 Acts
 Acts
-457290	Acts
-Acts
+457291	Acts
 457293	Acts
 Acts
 Acts
@@ -241397,9 +245595,11 @@ Acts
 457303	Acts
 457305	Acts
 Acts
-457308	Acts
+Acts
+Acts
 457310	Acts
-457315	Acts
+457314	Acts
+Acts
 Acts
 Acts
 457319	Acts
@@ -241422,7 +245622,8 @@ Acts
 457350	Acts
 457352	Acts
 457356	Acts
-457358	Acts
+Acts
+Acts
 Acts
 Acts
 457365	Acts
@@ -241445,7 +245646,8 @@ Acts
 457401	Acts
 Acts
 Acts
-457405	Acts
+Acts
+Acts
 Acts
 457410	Acts
 457412	Acts
@@ -241453,18 +245655,21 @@ Acts
 457417	Acts
 457419	Acts
 457421	Acts
-457423	Acts
 Acts
 Acts
 Acts
 Acts
 Acts
-457432	Acts
+Acts
+Acts
+457431	Acts
+Acts
 457438	Acts
 Acts
 457444	Acts
 Acts
 Acts
+457449	Acts
 457452	Acts
 457454	Acts
 457456	Acts
@@ -241492,11 +245697,11 @@ Acts
 Acts
 457505	Acts
 Acts
-Acts
-Acts
+457508	Acts
 457510	Acts
 457515	Acts
-457517	Acts
+Acts
+Acts
 457520	Acts
 Acts
 457524	Acts
@@ -241510,7 +245715,7 @@ Acts
 Acts
 457540	Acts
 457546	Acts
-457548	Acts
+Acts
 Acts
 Acts
 457552	Acts
@@ -241518,7 +245723,9 @@ Acts
 Acts
 457557	Acts
 457559	Acts
-457562	Acts
+Acts
+Acts
+Acts
 Acts
 457566	Acts
 Acts
@@ -241534,19 +245741,21 @@ Acts
 457587	Acts
 Acts
 457591	Acts
-457593	Acts
+Acts
+Acts
 Acts
 457596	Acts
 457598	Acts
 457602	Acts
 Acts
-457605	Acts
+457606	Acts
 Acts
-457608	Acts
+Acts
 457611	Acts
 Acts
 Acts
-457615	Acts
+Acts
+Acts
 457617	Acts
 Acts
 Acts
@@ -241561,7 +245770,8 @@ Acts
 457634	Acts
 Acts
 Acts
-457638	Acts
+Acts
+Acts
 457640	Acts
 457644	Acts
 Acts
@@ -241574,7 +245784,6 @@ Acts
 Acts
 Acts
 457659	Acts
-457661	Acts
 457663	Acts
 Acts
 457667	Acts
@@ -241596,17 +245805,19 @@ Acts
 457706	Acts
 457708	Acts
 Acts
-Acts
-Acts
+457711	Acts
 Acts
 Acts
 457717	Acts
-457720	Acts
+Acts
+Acts
+Acts
 Acts
 457724	Acts
 Acts
 457728	Acts
-457730	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -241619,7 +245830,8 @@ Acts
 Acts
 457748	Acts
 Acts
-457753	Acts
+457752	Acts
+Acts
 Acts
 457758	Acts
 Acts
@@ -241629,7 +245841,8 @@ Acts
 Acts
 457767	Acts
 Acts
-457770	Acts
+Acts
+Acts
 457772	Acts
 Acts
 Acts
@@ -241655,7 +245868,8 @@ Acts
 Acts
 Acts
 457812	Acts
-457814	Acts
+Acts
+Acts
 457816	Acts
 Acts
 457822	Acts
@@ -241670,7 +245884,8 @@ Acts
 457839	Acts
 457841	Acts
 457846	Acts
-457848	Acts
+Acts
+Acts
 Acts
 457851	Acts
 Acts
@@ -241694,8 +245909,7 @@ Acts
 457894	Acts
 457897	Acts
 Acts
-457902	Acts
-Acts
+457903	Acts
 Acts
 457906	Acts
 457909	Acts
@@ -241708,7 +245922,8 @@ Acts
 Acts
 457933	Acts
 Acts
-457937	Acts
+457936	Acts
+Acts
 Acts
 Acts
 457946	Acts
@@ -241718,6 +245933,7 @@ Acts
 457956	Acts
 Acts
 457959	Acts
+Acts
 Acts
 Acts
 Acts
@@ -241759,13 +245975,13 @@ Acts
 458032	Acts
 458038	Acts
 Acts
-458041	Acts
+Acts
+Acts
 Acts
 Acts
 458047	Acts
 Acts
-458050	Acts
-Acts
+458051	Acts
 458053	Acts
 Acts
 Acts
@@ -241777,8 +245993,7 @@ Acts
 Acts
 458068	Acts
 Acts
-Acts
-Acts
+458071	Acts
 458074	Acts
 Acts
 458084	Acts
@@ -241788,8 +246003,7 @@ Acts
 458095	Acts
 Acts
 Acts
-Acts
-Acts
+458099	Acts
 458104	Acts
 Acts
 Acts
@@ -241813,7 +246027,6 @@ Acts
 Acts
 Acts
 458154	Acts
-Acts
 458158	Acts
 458160	Acts
 Acts
@@ -241828,8 +246041,7 @@ Acts
 458175	Acts
 Acts
 458179	Acts
-458182	Acts
-Acts
+458183	Acts
 458185	Acts
 Acts
 Acts
@@ -241848,7 +246060,8 @@ Acts
 Acts
 458216	Acts
 458218	Acts
-458220	Acts
+Acts
+Acts
 458223	Acts
 458225	Acts
 Acts
@@ -241859,7 +246072,8 @@ Acts
 Acts
 Acts
 Acts
-458243	Acts
+458242	Acts
+Acts
 Acts
 458247	Acts
 Acts
@@ -241869,12 +246083,12 @@ Acts
 458255	Acts
 458257	Acts
 Acts
-458262	Acts
 458265	Acts
 458267	Acts
 Acts
 Acts
-458272	Acts
+458271	Acts
+Acts
 Acts
 Acts
 Acts
@@ -241886,17 +246100,19 @@ Acts
 458288	Acts
 Acts
 Acts
-458292	Acts
 Acts
 Acts
 Acts
-458301	Acts
+458295	Acts
+458300	Acts
 Acts
 Acts
 Acts
 Acts
 Acts
-458308	Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 458314	Acts
@@ -241924,8 +246140,10 @@ Acts
 458353	Acts
 Acts
 458358	Acts
-458360	Acts
-458363	Acts
+Acts
+Acts
+458362	Acts
+Acts
 458366	Acts
 Acts
 458370	Acts
@@ -241933,18 +246151,12 @@ Acts
 Acts
 458375	Acts
 Acts
-Acts
-Acts
 458381	Acts
-458383	Acts
-Acts
-Acts
-Acts
+458384	Acts
 Acts
 458389	Acts
 Acts
-458392	Acts
-Acts
+458393	Acts
 Acts
 Acts
 Acts
@@ -241952,10 +246164,12 @@ Acts
 Acts
 Acts
 458406	Acts
-458408	Acts
+Acts
+Acts
 458414	Acts
 458416	Acts
-458418	Acts
+Acts
+Acts
 458423	Acts
 Acts
 Acts
@@ -241965,13 +246179,15 @@ Acts
 Acts
 458434	Acts
 Acts
-458440	Acts
+458439	Acts
+Acts
 458442	Acts
 Acts
 Acts
 Acts
 458448	Acts
-458452	Acts
+458451	Acts
+Acts
 458454	Acts
 458457	Acts
 458462	Acts
@@ -241983,7 +246199,8 @@ Acts
 458469	Acts
 Acts
 Acts
-458473	Acts
+Acts
+Acts
 Acts
 Acts
 458479	Acts
@@ -242002,7 +246219,8 @@ Acts
 Acts
 Acts
 458500	Acts
-458502	Acts
+Acts
+Acts
 Acts
 458508	Acts
 Acts
@@ -242014,7 +246232,8 @@ Acts
 Acts
 Acts
 Acts
-458523	Acts
+458522	Acts
+Acts
 Acts
 458526	Acts
 Acts
@@ -242027,13 +246246,15 @@ Acts
 Acts
 Acts
 458540	Acts
-458542	Acts
+Acts
+Acts
 458544	Acts
 458546	Acts
 Acts
 Acts
 458551	Acts
-458553	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -242041,11 +246262,13 @@ Acts
 Acts
 Acts
 458570	Acts
-458572	Acts
+Acts
+Acts
 Acts
 458575	Acts
 Acts
 Acts
+458579	Acts
 458581	Acts
 458588	Acts
 458591	Acts
@@ -242058,7 +246281,8 @@ Acts
 458605	Acts
 Acts
 Acts
-458609	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -242066,10 +246290,10 @@ Acts
 458616	Acts
 458618	Acts
 Acts
-458621	Acts
 458624	Acts
 458630	Acts
-458632	Acts
+Acts
+Acts
 Acts
 Acts
 458637	Acts
@@ -242081,25 +246305,28 @@ Acts
 458648	Acts
 Acts
 Acts
-Acts
-Acts
+458652	Acts
 Acts
 Acts
 458658	Acts
-458660	Acts
+Acts
 Acts
 458664	Acts
-458667	Acts
+458666	Acts
+Acts
 458671	Acts
 458677	Acts
-458679	Acts
 Acts
 Acts
 Acts
+Acts
+Acts
+458685	Acts
 458687	Acts
 458689	Acts
 458691	Acts
-458693	Acts
+Acts
+Acts
 458697	Acts
 Acts
 458702	Acts
@@ -242107,10 +246334,11 @@ Acts
 Acts
 Acts
 458710	Acts
+458712	Acts
+458715	Acts
 Acts
-Acts
-458716	Acts
 458721	Acts
+458723	Acts
 458726	Acts
 458731	Acts
 Acts
@@ -242128,12 +246356,10 @@ Acts
 Acts
 Acts
 Acts
-Acts
-Acts
+458758	Acts
 Acts
 458762	Acts
 Acts
-458765	Acts
 458767	Acts
 458773	Acts
 Acts
@@ -242149,7 +246375,6 @@ Acts
 Acts
 Acts
 Acts
-Acts
 458795	Acts
 Acts
 Acts
@@ -242157,7 +246382,8 @@ Acts
 Acts
 Acts
 Acts
-458806	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -242179,7 +246405,8 @@ Acts
 Acts
 Acts
 458841	Acts
-458845	Acts
+458844	Acts
+Acts
 Acts
 Acts
 Acts
@@ -242194,7 +246421,8 @@ Acts
 458862	Acts
 Acts
 458866	Acts
-458868	Acts
+Acts
+Acts
 458872	Acts
 458874	Acts
 Acts
@@ -242208,7 +246436,8 @@ Acts
 458887	Acts
 Acts
 458890	Acts
-458892	Acts
+Acts
+Acts
 458894	Acts
 Acts
 458899	Acts
@@ -242217,15 +246446,15 @@ Acts
 Acts
 458908	Acts
 458910	Acts
-458912	Acts
+Acts
+Acts
 Acts
 Acts
 458916	Acts
 458918	Acts
 Acts
 Acts
-458922	Acts
-Acts
+458923	Acts
 458927	Acts
 Acts
 Acts
@@ -242253,7 +246482,8 @@ Acts
 Acts
 458980	Acts
 Acts
-458983	Acts
+Acts
+Acts
 458985	Acts
 Acts
 458992	Acts
@@ -242263,15 +246493,17 @@ Acts
 458998	Acts
 Acts
 Acts
-459005	Acts
 459007	Acts
 459009	Acts
-459014	Acts
-459017	Acts
+459013	Acts
+Acts
+459016	Acts
+Acts
 459022	Acts
 Acts
 459026	Acts
-459028	Acts
+Acts
+Acts
 Acts
 Acts
 459032	Acts
@@ -242279,7 +246511,8 @@ Acts
 459035	Acts
 Acts
 459038	Acts
-459041	Acts
+459040	Acts
+Acts
 459043	Acts
 Acts
 Acts
@@ -242298,9 +246531,11 @@ Acts
 459074	Acts
 Acts
 459081	Acts
-459083	Acts
+Acts
+Acts
 459089	Acts
-459091	Acts
+Acts
+Acts
 459093	Acts
 459095	Acts
 Acts
@@ -242319,7 +246554,8 @@ Acts
 Acts
 459124	Acts
 Acts
-459128	Acts
+459127	Acts
+Acts
 Acts
 Acts
 459135	Acts
@@ -242354,7 +246590,8 @@ Acts
 459184	Acts
 Acts
 Acts
-459188	Acts
+Acts
+Acts
 Acts
 459191	Acts
 Acts
@@ -242375,7 +246612,8 @@ Acts
 459221	Acts
 459227	Acts
 459233	Acts
-459235	Acts
+Acts
+Acts
 Acts
 459239	Acts
 Acts
@@ -242384,7 +246622,9 @@ Acts
 459251	Acts
 Acts
 459255	Acts
-459258	Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -242398,7 +246638,8 @@ Acts
 459282	Acts
 Acts
 459287	Acts
-459289	Acts
+Acts
+Acts
 459291	Acts
 459297	Acts
 Acts
@@ -242414,17 +246655,16 @@ Acts
 459320	Acts
 Acts
 459323	Acts
-459325	Acts
+Acts
+Acts
 Acts
 Acts
 459331	Acts
 Acts
 459334	Acts
 Acts
-Acts
-Acts
+459337	Acts
 459339	Acts
-Acts
 Acts
 Acts
 459344	Acts
@@ -242448,9 +246688,11 @@ Acts
 Acts
 459375	Acts
 459378	Acts
-459380	Acts
 Acts
-459385	Acts
+Acts
+Acts
+459384	Acts
+Acts
 Acts
 459393	Acts
 Acts
@@ -242469,30 +246711,34 @@ Acts
 Acts
 Acts
 459419	Acts
-459421	Acts
+Acts
+Acts
 459425	Acts
 Acts
 459433	Acts
 Acts
 459437	Acts
-459439	Acts
+Acts
+Acts
 459444	Acts
 459448	Acts
 Acts
 Acts
 Acts
 459454	Acts
-459456	Acts
+Acts
+Acts
 Acts
 459459	Acts
 459464	Acts
 Acts
 Acts
 459470	Acts
-459473	Acts
 Acts
 Acts
 Acts
+Acts
+459476	Acts
 Acts
 459483	Acts
 Acts
@@ -242539,7 +246785,9 @@ Acts
 459572	Acts
 Acts
 Acts
-459577	Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -242549,6 +246797,7 @@ Acts
 Acts
 Acts
 459587	Acts
+Acts
 459591	Acts
 Acts
 Acts
@@ -242566,7 +246815,8 @@ Acts
 Acts
 Acts
 Acts
-459615	Acts
+459614	Acts
+Acts
 Acts
 459618	Acts
 459621	Acts
@@ -242585,7 +246835,9 @@ Acts
 459653	Acts
 459655	Acts
 Acts
-459659	Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -242614,11 +246866,13 @@ Acts
 459709	Acts
 459711	Acts
 Acts
-459716	Acts
+459715	Acts
+Acts
 459718	Acts
 Acts
 Acts
-459722	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -242634,7 +246888,8 @@ Acts
 459743	Acts
 Acts
 459746	Acts
-459748	Acts
+Acts
+Acts
 Acts
 459755	Acts
 459759	Acts
@@ -242646,7 +246901,8 @@ Acts
 Acts
 Acts
 Acts
-459772	Acts
+459771	Acts
+Acts
 Acts
 Acts
 459776	Acts
@@ -242655,12 +246911,14 @@ Acts
 459782	Acts
 Acts
 459786	Acts
-459788	Acts
+Acts
+Acts
 459792	Acts
 Acts
 Acts
 Acts
-459797	Acts
+Acts
+Acts
 Acts
 Acts
 459801	Acts
@@ -242674,7 +246932,8 @@ Acts
 Acts
 Acts
 459819	Acts
-459821	Acts
+Acts
+Acts
 Acts
 459824	Acts
 459828	Acts
@@ -242688,7 +246947,8 @@ Acts
 Acts
 459840	Acts
 459842	Acts
-459844	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -242732,7 +246992,6 @@ Acts
 459902	Acts
 459904	Acts
 Acts
-Acts
 459908	Acts
 459911	Acts
 Acts
@@ -242740,7 +246999,9 @@ Acts
 459916	Acts
 Acts
 Acts
-459923	Acts
+459921	Acts
+Acts
+Acts
 Acts
 Acts
 459932	Acts
@@ -242749,7 +247010,8 @@ Acts
 Acts
 Acts
 459941	Acts
-459945	Acts
+459944	Acts
+Acts
 Acts
 459948	Acts
 459950	Acts
@@ -242767,7 +247029,8 @@ Acts
 Acts
 459969	Acts
 Acts
-459973	Acts
+459972	Acts
+Acts
 Acts
 Acts
 Acts
@@ -242783,19 +247046,23 @@ Acts
 Acts
 459993	Acts
 Acts
-460000	Acts
+459998	Acts
 Acts
-460004	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
 Acts
 460007	Acts
-460009	Acts
-Acts
+460010	Acts
 460012	Acts
-460015	Acts
 Acts
 Acts
-460020	Acts
 Acts
+Acts
+Acts
+460021	Acts
 Acts
 Acts
 460025	Acts
@@ -242821,7 +247088,8 @@ Acts
 Acts
 Acts
 Acts
-460066	Acts
+460065	Acts
+Acts
 460068	Acts
 Acts
 460073	Acts
@@ -242832,14 +247100,17 @@ Acts
 Acts
 460086	Acts
 Acts
-460090	Acts
+460089	Acts
 Acts
-460093	Acts
+Acts
+Acts
+Acts
 Acts
 460098	Acts
 Acts
 460102	Acts
-460104	Acts
+Acts
+Acts
 Acts
 Acts
 460108	Acts
@@ -242849,10 +247120,10 @@ Acts
 460114	Acts
 460116	Acts
 Acts
-460120	Acts
+460119	Acts
+Acts
 Acts
 460124	Acts
-Acts
 Acts
 Acts
 460129	Acts
@@ -242881,7 +247152,8 @@ Acts
 460171	Acts
 Acts
 Acts
-460178	Acts
+460177	Acts
+Acts
 460183	Acts
 Acts
 Acts
@@ -242920,6 +247192,7 @@ Acts
 Acts
 Acts
 460238	Acts
+Acts
 460244	Acts
 Acts
 460247	Acts
@@ -242936,7 +247209,8 @@ Acts
 Acts
 Acts
 460267	Acts
-460269	Acts
+Acts
+Acts
 Acts
 460275	Acts
 460278	Acts
@@ -242950,7 +247224,8 @@ Acts
 Acts
 460298	Acts
 460300	Acts
-460304	Acts
+460303	Acts
+Acts
 460309	Acts
 Acts
 460314	Acts
@@ -242965,13 +247240,14 @@ Acts
 Acts
 Acts
 Acts
-460333	Acts
+460332	Acts
+Acts
 460338	Acts
-460340	Acts
+Acts
+Acts
 460345	Acts
 Acts
-460350	Acts
-Acts
+460351	Acts
 Acts
 Acts
 Acts
@@ -242993,7 +247269,8 @@ Acts
 460391	Acts
 Acts
 460397	Acts
-460399	Acts
+Acts
+Acts
 460401	Acts
 Acts
 Acts
@@ -243002,14 +247279,14 @@ Acts
 Acts
 Acts
 Acts
-460413	Acts
+460412	Acts
+Acts
 Acts
 Acts
 460419	Acts
 Acts
 460425	Acts
 Acts
-460432	Acts
 460434	Acts
 460437	Acts
 460441	Acts
@@ -243027,7 +247304,8 @@ Acts
 Acts
 Acts
 460467	Acts
-460469	Acts
+Acts
+Acts
 Acts
 460472	Acts
 Acts
@@ -243049,7 +247327,8 @@ Acts
 460510	Acts
 Acts
 Acts
-460514	Acts
+Acts
+Acts
 460516	Acts
 460518	Acts
 Acts
@@ -243078,13 +247357,15 @@ Acts
 Acts
 Acts
 Acts
-460569	Acts
+460568	Acts
+Acts
 460572	Acts
-460574	Acts
 460578	Acts
 Acts
 Acts
 460583	Acts
+Acts
+Acts
 460589	Acts
 460592	Acts
 460594	Acts
@@ -243093,7 +247374,6 @@ Acts
 Acts
 Acts
 460601	Acts
-460604	Acts
 460606	Acts
 460609	Acts
 Acts
@@ -243113,11 +247393,13 @@ Acts
 460642	Acts
 Acts
 Acts
-460647	Acts
+460646	Acts
+Acts
 460649	Acts
 460652	Acts
 Acts
-460658	Acts
+460657	Acts
+Acts
 Acts
 Acts
 460662	Acts
@@ -243125,7 +247407,8 @@ Acts
 Acts
 460669	Acts
 460673	Acts
-460675	Acts
+Acts
+Acts
 Acts
 460679	Acts
 460682	Acts
@@ -243165,7 +247448,8 @@ Acts
 Acts
 Acts
 Acts
-460747	Acts
+Acts
+Acts
 Acts
 460752	Acts
 Acts
@@ -243178,7 +247462,6 @@ Acts
 Acts
 460769	Acts
 460771	Acts
-Acts
 460774	Acts
 460780	Acts
 Acts
@@ -243209,7 +247492,9 @@ Acts
 460826	Acts
 460830	Acts
 460832	Acts
-460835	Acts
+Acts
+Acts
+Acts
 Acts
 460839	Acts
 460841	Acts
@@ -243233,16 +247518,19 @@ Acts
 Acts
 460876	Acts
 Acts
-460880	Acts
+460879	Acts
+Acts
 460885	Acts
 Acts
-460888	Acts
+Acts
+Acts
 Acts
 Acts
 460892	Acts
 Acts
 Acts
-460896	Acts
+Acts
+Acts
 460898	Acts
 Acts
 Acts
@@ -243250,7 +247538,8 @@ Acts
 Acts
 Acts
 Acts
-460908	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -243258,16 +247547,18 @@ Acts
 Acts
 Acts
 460916	Acts
-460920	Acts
+460919	Acts
+Acts
 Acts
 460923	Acts
-460925	Acts
-460927	Acts
 Acts
+Acts
+460927	Acts
 460931	Acts
 460933	Acts
 460935	Acts
-460937	Acts
+Acts
+Acts
 Acts
 460940	Acts
 460946	Acts
@@ -243276,12 +247567,12 @@ Acts
 460951	Acts
 460953	Acts
 460955	Acts
-460957	Acts
 460959	Acts
 460963	Acts
 460965	Acts
 460967	Acts
-460969	Acts
+Acts
+Acts
 460971	Acts
 Acts
 460974	Acts
@@ -243296,13 +247587,16 @@ Acts
 Acts
 460990	Acts
 460994	Acts
-460997	Acts
+460996	Acts
+Acts
 460999	Acts
-461004	Acts
+461003	Acts
+Acts
 Acts
 461007	Acts
 461013	Acts
 Acts
+461016	Acts
 461019	Acts
 Acts
 Acts
@@ -243315,21 +247609,23 @@ Acts
 461034	Acts
 Acts
 461037	Acts
-461039	Acts
+Acts
+Acts
 461041	Acts
 461046	Acts
 Acts
 461049	Acts
 461051	Acts
-461053	Acts
+Acts
+Acts
 461056	Acts
 461058	Acts
 461060	Acts
 Acts
 Acts
-461064	Acts
+Acts
+Acts
 461066	Acts
-461068	Acts
 461070	Acts
 461074	Acts
 Acts
@@ -243343,10 +247639,10 @@ Acts
 Acts
 461095	Acts
 Acts
-Acts
 461099	Acts
 461103	Acts
-461105	Acts
+Acts
+Acts
 461112	Acts
 Acts
 Acts
@@ -243365,11 +247661,13 @@ Acts
 Acts
 461133	Acts
 461136	Acts
-461138	Acts
+Acts
+Acts
 461141	Acts
 461144	Acts
 461146	Acts
-461148	Acts
+Acts
+Acts
 461150	Acts
 Acts
 Acts
@@ -243382,7 +247680,8 @@ Acts
 Acts
 461167	Acts
 461169	Acts
-461172	Acts
+461171	Acts
+Acts
 Acts
 461176	Acts
 461178	Acts
@@ -243413,8 +247712,7 @@ Acts
 Acts
 Acts
 461242	Acts
-461244	Acts
-Acts
+461245	Acts
 Acts
 461250	Acts
 Acts
@@ -243425,13 +247723,16 @@ Acts
 Acts
 Acts
 Acts
-461269	Acts
+461267	Acts
+Acts
+Acts
 461271	Acts
 461273	Acts
 Acts
 461278	Acts
 461283	Acts
-461286	Acts
+461285	Acts
+Acts
 Acts
 Acts
 Acts
@@ -243442,21 +247743,23 @@ Acts
 Acts
 461304	Acts
 Acts
-461311	Acts
-Acts
+461312	Acts
 461318	Acts
 Acts
-461324	Acts
-Acts
+461325	Acts
 Acts
 Acts
 461329	Acts
-461331	Acts
+Acts
+Acts
 461335	Acts
 Acts
-461342	Acts
+461340	Acts
 Acts
-461345	Acts
+Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 461349	Acts
@@ -243466,7 +247769,8 @@ Acts
 Acts
 Acts
 461356	Acts
-461358	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -243475,8 +247779,7 @@ Acts
 461367	Acts
 Acts
 461370	Acts
-Acts
-Acts
+461372	Acts
 461374	Acts
 Acts
 Acts
@@ -243490,7 +247793,6 @@ Acts
 Acts
 461396	Acts
 461403	Acts
-Acts
 Acts
 461407	Acts
 461410	Acts
@@ -243524,9 +247826,11 @@ Acts
 461473	Acts
 461475	Acts
 Acts
-461478	Acts
 Acts
-461482	Acts
+Acts
+Acts
+461481	Acts
+Acts
 Acts
 461486	Acts
 Acts
@@ -243535,20 +247839,22 @@ Acts
 461493	Acts
 Acts
 Acts
-461500	Acts
+461499	Acts
+Acts
 Acts
 Acts
 461506	Acts
 Acts
-461510	Acts
+461509	Acts
+Acts
 Acts
 Acts
 461514	Acts
-461516	Acts
+461517	Acts
 Acts
 Acts
+461522	Acts
 Acts
-461523	Acts
 461525	Acts
 Acts
 Acts
@@ -243561,7 +247867,8 @@ Acts
 Acts
 Acts
 Acts
-461542	Acts
+Acts
+Acts
 461546	Acts
 461548	Acts
 Acts
@@ -243573,14 +247880,13 @@ Acts
 461560	Acts
 461565	Acts
 Acts
-461568	Acts
+Acts
+Acts
 461573	Acts
 Acts
 461576	Acts
-Acts
 461579	Acts
 461581	Acts
-Acts
 461584	Acts
 Acts
 Acts
@@ -243590,16 +247896,17 @@ Acts
 461591	Acts
 Acts
 Acts
-461596	Acts
-Acts
+461597	Acts
 461600	Acts
 Acts
-461604	Acts
+461603	Acts
+Acts
 Acts
 461608	Acts
 Acts
 Acts
-461612	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -243608,7 +247915,8 @@ Acts
 461622	Acts
 461627	Acts
 461629	Acts
-461631	Acts
+Acts
+Acts
 Acts
 461635	Acts
 Acts
@@ -243629,26 +247937,29 @@ Acts
 461668	Acts
 Acts
 Acts
-461676	Acts
-Acts
+461677	Acts
 461681	Acts
 Acts
 461686	Acts
 461690	Acts
-461692	Acts
+Acts
+Acts
 Acts
 461696	Acts
 Acts
-461701	Acts
+461700	Acts
+Acts
 461703	Acts
 Acts
 461707	Acts
 Acts
 Acts
+461711	Acts
 461714	Acts
 461716	Acts
 461719	Acts
-461721	Acts
+Acts
+Acts
 Acts
 461724	Acts
 Acts
@@ -243661,21 +247972,19 @@ Acts
 Acts
 Acts
 Acts
-461742	Acts
-Acts
-461747	Acts
+461743	Acts
 461749	Acts
 461755	Acts
 Acts
 Acts
-461759	Acts
 461761	Acts
 461763	Acts
 Acts
 Acts
 Acts
 461768	Acts
-461770	Acts
+Acts
+Acts
 461773	Acts
 461775	Acts
 Acts
@@ -243686,7 +247995,8 @@ Acts
 461786	Acts
 461789	Acts
 461791	Acts
-461793	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -243713,12 +248023,14 @@ Acts
 Acts
 461832	Acts
 Acts
-461835	Acts
+Acts
+Acts
 Acts
 Acts
 461840	Acts
 461842	Acts
-461844	Acts
+Acts
+Acts
 Acts
 Acts
 461848	Acts
@@ -243733,16 +248045,17 @@ Acts
 461869	Acts
 Acts
 Acts
-461873	Acts
+Acts
+Acts
 461875	Acts
 Acts
 461880	Acts
 Acts
 Acts
-461885	Acts
+461884	Acts
+Acts
 Acts
 461889	Acts
-Acts
 Acts
 461894	Acts
 461896	Acts
@@ -243752,10 +248065,13 @@ Acts
 Acts
 461906	Acts
 Acts
-461914	Acts
+461912	Acts
 Acts
 Acts
-461918	Acts
+Acts
+Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -243765,7 +248081,8 @@ Acts
 461927	Acts
 Acts
 461930	Acts
-461932	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -243776,9 +248093,11 @@ Acts
 Acts
 Acts
 461947	Acts
-461949	Acts
 Acts
-461953	Acts
+Acts
+Acts
+461952	Acts
+Acts
 461956	Acts
 461961	Acts
 461963	Acts
@@ -243792,13 +248111,15 @@ Acts
 Acts
 461975	Acts
 Acts
-461978	Acts
+Acts
+Acts
 Acts
 Acts
 461983	Acts
 461986	Acts
 Acts
-461989	Acts
+Acts
+Acts
 Acts
 461992	Acts
 461995	Acts
@@ -243807,9 +248128,9 @@ Acts
 Acts
 Acts
 462004	Acts
-462006	Acts
 462008	Acts
-462011	Acts
+462010	Acts
+Acts
 Acts
 462015	Acts
 Acts
@@ -243828,7 +248149,8 @@ Acts
 Acts
 462037	Acts
 Acts
-462040	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -243854,7 +248176,8 @@ Acts
 Acts
 462082	Acts
 462086	Acts
-462088	Acts
+Acts
+Acts
 Acts
 Acts
 Acts
@@ -243920,7 +248243,8 @@ Acts
 Acts
 Acts
 462194	Acts
-462196	Acts
+Acts
+Acts
 462200	Acts
 Acts
 Acts
@@ -243935,11 +248259,13 @@ Acts
 Acts
 462225	Acts
 462230	Acts
-462232	Acts
+Acts
+Acts
 Acts
 462235	Acts
 462240	Acts
 462242	Acts
+Acts
 462246	Acts
 Acts
 Acts
@@ -243954,7 +248280,8 @@ Acts
 Acts
 Acts
 Acts
-462269	Acts
+Acts
+Acts
 Acts
 462272	Acts
 Acts
@@ -243964,6 +248291,7 @@ Acts
 Acts
 Acts
 Acts
+462287	Acts
 462292	Acts
 Acts
 Acts
@@ -243972,9 +248300,9 @@ Acts
 Acts
 Acts
 462303	Acts
+462305	Acts
 Acts
 Acts
-462307	Acts
 462310	Acts
 Acts
 Acts
@@ -243987,7 +248315,8 @@ Acts
 Acts
 462326	Acts
 Acts
-462329	Acts
+Acts
+Acts
 462331	Acts
 Acts
 Acts
@@ -243996,12 +248325,15 @@ Acts
 462345	Acts
 462348	Acts
 Acts
-462351	Acts
+Acts
+Acts
 Acts
 462355	Acts
 Acts
 462358	Acts
-462361	Acts
+Acts
+Acts
+Acts
 462364	Acts
 462366	Acts
 Acts
@@ -244010,7 +248342,6 @@ Acts
 Acts
 462375	Acts
 462377	Acts
-462383	Acts
 462385	Acts
 462387	Acts
 Acts
@@ -244027,14 +248358,16 @@ Acts
 Acts
 Acts
 462413	Acts
-462415	Acts
-Acts
-462419	Acts
-Acts
-462422	Acts
 Acts
 Acts
-462426	Acts
+Acts
+462418	Acts
+Acts
+Acts
+Acts
+Acts
+Acts
+Acts
 462428	Acts
 462437	Acts
 Acts
@@ -244096,7 +248429,8 @@ Acts
 462547	Acts
 Acts
 462558	Acts
-462560	Acts
+Acts
+Acts
 Acts
 462565	Acts
 Acts
@@ -244110,7 +248444,8 @@ Acts
 Acts
 Acts
 462580	Acts
-462582	Acts
+Acts
+Acts
 Acts
 462588	Acts
 Acts
@@ -244129,7 +248464,8 @@ Acts
 Acts
 Acts
 Acts
-462613	Acts
+Acts
+Acts
 462619	Acts
 Acts
 Acts
@@ -244143,21 +248479,20 @@ Acts
 Acts
 462646	Romans
 462653	Romans
+462655	Romans
 462657	Romans
+462664	Romans
 462670	Romans
 Romans
 462675	Romans
 Romans
 462687	Romans
 Romans
-462690	Romans
-Romans
+462691	Romans
 462706	Romans
 Romans
 462712	Romans
-Romans
-Romans
-462716	Romans
+462714	Romans
 462719	Romans
 462722	Romans
 Romans
@@ -244165,7 +248500,8 @@ Romans
 Romans
 462737	Romans
 Romans
-462742	Romans
+462741	Romans
+Romans
 462751	Romans
 Romans
 462754	Romans
@@ -244173,12 +248509,14 @@ Romans
 Romans
 462761	Romans
 462767	Romans
-462769	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
 462776	Romans
-462778	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -244190,7 +248528,8 @@ Romans
 Romans
 Romans
 Romans
-462797	Romans
+Romans
+Romans
 Romans
 Romans
 462801	Romans
@@ -244224,8 +248563,7 @@ Romans
 Romans
 462861	Romans
 Romans
-462868	Romans
-Romans
+462869	Romans
 462871	Romans
 Romans
 462875	Romans
@@ -244262,11 +248600,14 @@ Romans
 Romans
 462948	Romans
 Romans
-462955	Romans
+462953	Romans
+Romans
+Romans
 462961	Romans
 Romans
 462964	Romans
-462968	Romans
+462967	Romans
+Romans
 Romans
 Romans
 462973	Romans
@@ -244281,19 +248622,23 @@ Romans
 463004	Romans
 463007	Romans
 Romans
-463012	Romans
+463011	Romans
+Romans
 463016	Romans
-463018	Romans
+Romans
+Romans
 Romans
 Romans
 463023	Romans
 463027	Romans
 Romans
 Romans
-463031	Romans
+Romans
+Romans
 463034	Romans
 463036	Romans
-463041	Romans
+463040	Romans
+Romans
 Romans
 463046	Romans
 Romans
@@ -244325,7 +248670,8 @@ Romans
 Romans
 Romans
 463090	Romans
-463092	Romans
+Romans
+Romans
 Romans
 Romans
 463096	Romans
@@ -244342,10 +248688,9 @@ Romans
 Romans
 463122	Romans
 Romans
-463126	Romans
 463128	Romans
-463132	Romans
-Romans
+463133	Romans
+463136	Romans
 463138	Romans
 463142	Romans
 Romans
@@ -244357,17 +248702,16 @@ Romans
 463154	Romans
 Romans
 Romans
-463158	Romans
+Romans
+Romans
 463160	Romans
 463162	Romans
 463164	Romans
 Romans
-463167	Romans
+463168	Romans
 Romans
 Romans
-Romans
-Romans
-Romans
+463172	Romans
 463178	Romans
 Romans
 463182	Romans
@@ -244383,7 +248727,8 @@ Romans
 Romans
 Romans
 463203	Romans
-463205	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -244392,7 +248737,8 @@ Romans
 463214	Romans
 463219	Romans
 463222	Romans
-463224	Romans
+Romans
+Romans
 Romans
 463227	Romans
 Romans
@@ -244404,9 +248750,11 @@ Romans
 463248	Romans
 463251	Romans
 Romans
-463254	Romans
+Romans
+Romans
 463265	Romans
-463267	Romans
+Romans
+Romans
 463269	Romans
 Romans
 Romans
@@ -244423,7 +248771,6 @@ Romans
 Romans
 Romans
 463295	Romans
-463298	Romans
 463300	Romans
 463304	Romans
 Romans
@@ -244453,23 +248800,25 @@ Romans
 Romans
 Romans
 Romans
-463346	Romans
 Romans
 Romans
 Romans
-463351	Romans
+Romans
+Romans
+Romans
+Romans
 Romans
 463354	Romans
 463357	Romans
-463359	Romans
+Romans
+Romans
 Romans
 463365	Romans
 Romans
 463370	Romans
 Romans
 463375	Romans
-463381	Romans
-Romans
+463382	Romans
 463384	Romans
 463387	Romans
 463391	Romans
@@ -244491,14 +248840,16 @@ Romans
 Romans
 Romans
 463437	Romans
-463439	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
 Romans
 463449	Romans
 Romans
-463452	Romans
+Romans
+Romans
 Romans
 463455	Romans
 Romans
@@ -244512,7 +248863,8 @@ Romans
 463470	Romans
 Romans
 Romans
-463474	Romans
+Romans
+Romans
 Romans
 463479	Romans
 Romans
@@ -244524,7 +248876,8 @@ Romans
 Romans
 Romans
 463494	Romans
-463496	Romans
+Romans
+Romans
 Romans
 463507	Romans
 463509	Romans
@@ -244542,9 +248895,11 @@ Romans
 Romans
 463524	Romans
 463527	Romans
-463529	Romans
 Romans
-463532	Romans
+Romans
+Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -244554,7 +248909,9 @@ Romans
 463541	Romans
 Romans
 Romans
-463546	Romans
+Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -244564,23 +248921,25 @@ Romans
 Romans
 463555	Romans
 Romans
-463558	Romans
 Romans
 Romans
 Romans
-463565	Romans
+Romans
+Romans
+463563	Romans
+Romans
+Romans
 463567	Romans
 463570	Romans
 463573	Romans
 463578	Romans
-463581	Romans
+463582	Romans
 Romans
 Romans
-463585	Romans
+Romans
 463588	Romans
 Romans
-Romans
-Romans
+463591	Romans
 463595	Romans
 Romans
 463598	Romans
@@ -244601,7 +248960,6 @@ Romans
 Romans
 Romans
 463636	Romans
-463638	Romans
 463640	Romans
 463642	Romans
 Romans
@@ -244619,13 +248977,14 @@ Romans
 463689	Romans
 463703	Romans
 Romans
+463706	Romans
 Romans
+463711	Romans
 Romans
-Romans
-463712	Romans
 Romans
 463715	Romans
-463717	Romans
+Romans
+Romans
 463720	Romans
 463722	Romans
 Romans
@@ -244638,11 +248997,14 @@ Romans
 Romans
 463736	Romans
 Romans
-463740	Romans
+463739	Romans
+Romans
 Romans
 463743	Romans
 Romans
-463748	Romans
+Romans
+463747	Romans
+Romans
 463750	Romans
 Romans
 463754	Romans
@@ -244674,20 +249036,22 @@ Romans
 463795	Romans
 Romans
 Romans
-463799	Romans
+Romans
+Romans
 Romans
 463802	Romans
 Romans
 463808	Romans
 Romans
-463815	Romans
+463814	Romans
+Romans
 463818	Romans
-Romans
-Romans
+463820	Romans
 463823	Romans
 Romans
 463827	Romans
-463829	Romans
+Romans
+Romans
 463831	Romans
 Romans
 463838	Romans
@@ -244703,28 +249067,28 @@ Romans
 463860	Romans
 Romans
 463873	Romans
-463875	Romans
+Romans
+Romans
 463878	Romans
 Romans
 463882	Romans
 Romans
 463885	Romans
 Romans
-463888	Romans
-Romans
+463889	Romans
 Romans
 463892	Romans
 463894	Romans
 Romans
 463905	Romans
 463907	Romans
-463911	Romans
 463913	Romans
 463916	Romans
 Romans
 463919	Romans
 463922	Romans
-463924	Romans
+Romans
+Romans
 Romans
 463928	Romans
 Romans
@@ -244740,14 +249104,17 @@ Romans
 Romans
 463947	Romans
 Romans
-463963	Romans
+463962	Romans
+Romans
 Romans
 463967	Romans
 Romans
 Romans
-463974	Romans
+463973	Romans
+Romans
 463976	Romans
-463978	Romans
+Romans
+Romans
 463980	Romans
 Romans
 Romans
@@ -244786,19 +249153,25 @@ Romans
 464044	Romans
 Romans
 Romans
-464051	Romans
+464050	Romans
+Romans
 Romans
 Romans
 Romans
 464056	Romans
 Romans
-464064	Romans
+Romans
+464063	Romans
+Romans
 464068	Romans
 Romans
 464073	Romans
 Romans
 Romans
-464086	Romans
+464080	Romans
+464085	Romans
+Romans
+464092	Romans
 464095	Romans
 464097	Romans
 Romans
@@ -244831,7 +249204,8 @@ Romans
 Romans
 Romans
 464157	Romans
-464159	Romans
+Romans
+Romans
 Romans
 464162	Romans
 Romans
@@ -244845,9 +249219,13 @@ Romans
 464188	Romans
 464190	Romans
 Romans
+464195	Romans
 464200	Romans
-464204	Romans
-464208	Romans
+464203	Romans
+Romans
+464206	Romans
+Romans
+Romans
 464210	Romans
 464216	Romans
 Romans
@@ -244862,7 +249240,8 @@ Romans
 Romans
 464244	Romans
 Romans
-464252	Romans
+464251	Romans
+Romans
 464254	Romans
 Romans
 Romans
@@ -244874,7 +249253,6 @@ Romans
 Romans
 Romans
 Romans
-464273	Romans
 464277	Romans
 464289	Romans
 Romans
@@ -244890,7 +249268,6 @@ Romans
 Romans
 Romans
 464320	Romans
-Romans
 Romans
 464326	Romans
 464335	Romans
@@ -244949,18 +249326,21 @@ Romans
 Romans
 Romans
 464466	Romans
-464468	Romans
+Romans
+Romans
 Romans
 464471	Romans
 Romans
 Romans
 Romans
 Romans
-464477	Romans
+Romans
+Romans
 Romans
 464480	Romans
 Romans
-464483	Romans
+Romans
+Romans
 Romans
 464486	Romans
 Romans
@@ -244985,13 +249365,15 @@ Romans
 464530	Romans
 Romans
 464536	Romans
-464538	Romans
+Romans
+Romans
 Romans
 464541	Romans
 464543	Romans
 464545	Romans
 Romans
-464548	Romans
+Romans
+Romans
 Romans
 464551	Romans
 464553	Romans
@@ -245013,7 +249395,8 @@ Romans
 Romans
 464577	Romans
 Romans
-464581	Romans
+464580	Romans
+Romans
 464584	Romans
 Romans
 Romans
@@ -245022,7 +249405,6 @@ Romans
 Romans
 Romans
 Romans
-464602	Romans
 464604	Romans
 464612	Romans
 Romans
@@ -245059,17 +249441,20 @@ Romans
 Romans
 464682	Romans
 Romans
-464685	Romans
+Romans
+Romans
 Romans
 464688	Romans
 464693	Romans
 Romans
-464696	Romans
+Romans
+Romans
 464698	Romans
 Romans
 Romans
 464702	Romans
-464704	Romans
+Romans
+Romans
 Romans
 464707	Romans
 464710	Romans
@@ -245085,7 +249470,8 @@ Romans
 464731	Romans
 Romans
 464734	Romans
-464736	Romans
+Romans
+Romans
 Romans
 464740	Romans
 464752	Romans
@@ -245096,14 +249482,14 @@ Romans
 464761	Romans
 Romans
 Romans
-464765	Romans
 464767	Romans
 464770	Romans
 Romans
 Romans
 464774	Romans
 Romans
-464777	Romans
+Romans
+Romans
 464779	Romans
 Romans
 464782	Romans
@@ -245146,7 +249532,9 @@ Romans
 Romans
 464845	Romans
 Romans
-464849	Romans
+Romans
+Romans
+Romans
 464851	Romans
 Romans
 Romans
@@ -245168,7 +249556,8 @@ Romans
 Romans
 Romans
 Romans
-464883	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -245183,7 +249572,8 @@ Romans
 Romans
 Romans
 Romans
-464905	Romans
+464904	Romans
+Romans
 464909	Romans
 Romans
 Romans
@@ -245196,6 +249586,7 @@ Romans
 464919	Romans
 464921	Romans
 464923	Romans
+Romans
 Romans
 464927	Romans
 Romans
@@ -245237,9 +249628,10 @@ Romans
 Romans
 465016	Romans
 Romans
-465028	Romans
 465030	Romans
 465032	Romans
+Romans
+Romans
 Romans
 465039	Romans
 465043	Romans
@@ -245263,10 +249655,11 @@ Romans
 Romans
 465090	Romans
 Romans
-465095	Romans
+465096	Romans
 Romans
 Romans
-465100	Romans
+Romans
+Romans
 465105	Romans
 Romans
 465110	Romans
@@ -245325,6 +249718,7 @@ Romans
 465199	Romans
 465201	Romans
 465204	Romans
+Romans
 465207	Romans
 465209	Romans
 465212	Romans
@@ -245352,7 +249746,8 @@ Romans
 465250	Romans
 Romans
 465260	Romans
-465262	Romans
+Romans
+Romans
 465267	Romans
 Romans
 465270	Romans
@@ -245399,16 +249794,19 @@ Romans
 465360	Romans
 Romans
 465364	Romans
-465366	Romans
 Romans
-465369	Romans
+Romans
+Romans
+Romans
+Romans
 Romans
 Romans
 465374	Romans
 Romans
 Romans
 465378	Romans
-465380	Romans
+Romans
+Romans
 Romans
 465388	Romans
 Romans
@@ -245428,7 +249826,8 @@ Romans
 Romans
 465410	Romans
 Romans
-465413	Romans
+Romans
+Romans
 465416	Romans
 Romans
 465423	Romans
@@ -245439,14 +249838,19 @@ Romans
 Romans
 Romans
 Romans
+Romans
+Romans
 465437	Romans
-465439	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
 465446	Romans
-465449	Romans
-465455	Romans
+465448	Romans
+Romans
+465454	Romans
+Romans
 465457	Romans
 Romans
 Romans
@@ -245456,7 +249860,8 @@ Romans
 Romans
 Romans
 Romans
-465467	Romans
+Romans
+Romans
 465471	Romans
 465474	Romans
 Romans
@@ -245483,7 +249888,8 @@ Romans
 Romans
 Romans
 465504	Romans
-465517	Romans
+465516	Romans
+Romans
 465519	Romans
 Romans
 465525	Romans
@@ -245494,8 +249900,11 @@ Romans
 465533	Romans
 Romans
 Romans
+465540	Romans
 465548	Romans
-465551	Romans
+Romans
+Romans
+Romans
 465554	Romans
 465556	Romans
 465558	Romans
@@ -245519,7 +249928,8 @@ Romans
 Romans
 Romans
 465601	Romans
-465604	Romans
+465603	Romans
+Romans
 465606	Romans
 Romans
 465613	Romans
@@ -245532,7 +249942,9 @@ Romans
 465632	Romans
 Romans
 465640	Romans
-465643	Romans
+Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -245558,15 +249970,16 @@ Romans
 Romans
 Romans
 465686	Romans
-465688	Romans
-Romans
-Romans
-465692	Romans
 Romans
 Romans
 Romans
-465697	Romans
 Romans
+Romans
+Romans
+Romans
+Romans
+Romans
+465698	Romans
 Romans
 Romans
 Romans
@@ -245575,7 +249988,8 @@ Romans
 Romans
 Romans
 465710	Romans
-465712	Romans
+Romans
+Romans
 465715	Romans
 Romans
 Romans
@@ -245584,7 +249998,8 @@ Romans
 Romans
 465729	Romans
 Romans
-465732	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -245608,7 +250023,9 @@ Romans
 Romans
 Romans
 465764	Romans
-465770	Romans
+465768	Romans
+Romans
+Romans
 Romans
 465773	Romans
 Romans
@@ -245623,6 +250040,8 @@ Romans
 465795	Romans
 Romans
 Romans
+465804	Romans
+Romans
 465807	Romans
 465809	Romans
 465815	Romans
@@ -245635,13 +250054,16 @@ Romans
 Romans
 Romans
 Romans
-465837	Romans
+465835	Romans
+Romans
+Romans
 Romans
 465840	Romans
 465843	Romans
 Romans
 Romans
-465849	Romans
+465848	Romans
+Romans
 Romans
 465859	Romans
 465861	Romans
@@ -245651,7 +250073,8 @@ Romans
 465868	Romans
 Romans
 Romans
-465872	Romans
+Romans
+Romans
 Romans
 465875	Romans
 Romans
@@ -245665,29 +250088,28 @@ Romans
 Romans
 465888	Romans
 Romans
-Romans
-Romans
+465891	Romans
 465895	Romans
 Romans
 Romans
-465901	Romans
+465900	Romans
+Romans
 465903	Romans
 465905	Romans
 465907	Romans
 Romans
-465911	Romans
+465910	Romans
+Romans
 465915	Romans
 Romans
 Romans
 Romans
-465920	Romans
 465922	Romans
 465924	Romans
 Romans
 Romans
 Romans
 465929	Romans
-Romans
 Romans
 Romans
 465937	Romans
@@ -245717,22 +250139,28 @@ Romans
 465988	Romans
 Romans
 465993	Romans
-465998	Romans
+465997	Romans
+Romans
 466001	Romans
 Romans
 Romans
-466005	Romans
+Romans
+Romans
 466008	Romans
 Romans
 466011	Romans
 Romans
-466015	Romans
+Romans
+Romans
+Romans
 466018	Romans
 466023	Romans
 466027	Romans
+466029	Romans
 466032	Romans
 Romans
-466035	Romans
+Romans
+Romans
 466037	Romans
 466042	Romans
 Romans
@@ -245750,7 +250178,8 @@ Romans
 466064	Romans
 Romans
 466067	Romans
-466069	Romans
+Romans
+Romans
 466071	Romans
 Romans
 Romans
@@ -245761,7 +250190,8 @@ Romans
 Romans
 Romans
 Romans
-466087	Romans
+466086	Romans
+Romans
 466090	Romans
 Romans
 466093	Romans
@@ -245804,14 +250234,16 @@ Romans
 Romans
 Romans
 Romans
-466157	Romans
+Romans
+Romans
 466160	Romans
 466163	Romans
 Romans
 Romans
 Romans
 Romans
-466169	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -245832,6 +250264,7 @@ Romans
 Romans
 Romans
 466205	Romans
+466207	Romans
 466210	Romans
 Romans
 Romans
@@ -245848,6 +250281,7 @@ Romans
 466235	Romans
 Romans
 466238	Romans
+Romans
 466241	Romans
 466243	Romans
 Romans
@@ -245865,11 +250299,11 @@ Romans
 Romans
 Romans
 466267	Romans
-466269	Romans
+Romans
+Romans
 466271	Romans
 Romans
 Romans
-466277	Romans
 466280	Romans
 Romans
 466284	Romans
@@ -245887,7 +250321,8 @@ Romans
 466313	Romans
 Romans
 Romans
-466317	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -245928,7 +250363,8 @@ Romans
 Romans
 Romans
 466393	Romans
-466395	Romans
+Romans
+Romans
 466397	Romans
 466400	Romans
 466402	Romans
@@ -245937,16 +250373,19 @@ Romans
 Romans
 466413	Romans
 466415	Romans
-466417	Romans
+Romans
+Romans
 Romans
 466420	Romans
 466422	Romans
 466424	Romans
 Romans
-466427	Romans
 Romans
 Romans
-466431	Romans
+Romans
+Romans
+Romans
+Romans
 Romans
 Romans
 466435	Romans
@@ -245959,8 +250398,7 @@ Romans
 Romans
 466449	Romans
 Romans
-466452	Romans
-Romans
+466453	Romans
 Romans
 Romans
 Romans
@@ -245999,7 +250437,8 @@ Romans
 Romans
 466520	Romans
 Romans
-466523	Romans
+Romans
+Romans
 466525	Romans
 Romans
 Romans
@@ -246014,7 +250453,6 @@ Romans
 Romans
 466550	Romans
 Romans
-Romans
 466554	Romans
 466558	Romans
 Romans
@@ -246028,7 +250466,8 @@ Romans
 Romans
 466579	Romans
 Romans
-466583	Romans
+466582	Romans
+Romans
 Romans
 466587	Romans
 Romans
@@ -246091,13 +250530,17 @@ Romans
 466707	Romans
 Romans
 466712	Romans
-466714	Romans
+Romans
+Romans
 466719	Romans
 Romans
-466723	Romans
 Romans
 Romans
-466731	Romans
+Romans
+Romans
+Romans
+466730	Romans
+Romans
 Romans
 Romans
 466736	Romans
@@ -246118,9 +250561,11 @@ Romans
 Romans
 Romans
 466760	Romans
-466763	Romans
+466762	Romans
+Romans
 466765	Romans
-466768	Romans
+466767	Romans
+Romans
 466771	Romans
 466773	Romans
 466775	Romans
@@ -246136,7 +250581,8 @@ Romans
 466795	Romans
 Romans
 Romans
-466799	Romans
+Romans
+Romans
 466801	Romans
 Romans
 466804	Romans
@@ -246155,7 +250601,9 @@ Romans
 Romans
 466833	Romans
 Romans
-466837	Romans
+Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -246210,7 +250658,8 @@ Romans
 466921	Romans
 Romans
 466925	Romans
-466927	Romans
+Romans
+Romans
 466929	Romans
 466931	Romans
 Romans
@@ -246218,12 +250667,15 @@ Romans
 Romans
 Romans
 466944	Romans
-466946	Romans
+Romans
+Romans
 466949	Romans
 Romans
 466952	Romans
-466956	Romans
-466959	Romans
+466955	Romans
+Romans
+466958	Romans
+Romans
 466963	Romans
 466967	Romans
 466971	Romans
@@ -246237,9 +250689,11 @@ Romans
 Romans
 Romans
 466985	Romans
+Romans
 466988	Romans
 Romans
-466991	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -246255,7 +250709,8 @@ Romans
 467014	Romans
 Romans
 467018	Romans
-467020	Romans
+Romans
+Romans
 467023	Romans
 Romans
 Romans
@@ -246277,14 +250732,11 @@ Romans
 Romans
 Romans
 467055	Romans
+467057	Romans
 Romans
+467060	Romans
 Romans
-Romans
-Romans
-Romans
-Romans
-Romans
-Romans
+467063	Romans
 Romans
 Romans
 Romans
@@ -246303,7 +250755,8 @@ Romans
 Romans
 Romans
 Romans
-467092	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -246324,7 +250777,8 @@ Romans
 467112	Romans
 467116	Romans
 Romans
-467119	Romans
+Romans
+Romans
 Romans
 Romans
 467123	Romans
@@ -246339,7 +250793,8 @@ Romans
 Romans
 Romans
 467140	Romans
-467142	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -246359,11 +250814,13 @@ Romans
 Romans
 Romans
 Romans
-467166	Romans
+Romans
+Romans
 Romans
 Romans
 467170	Romans
-467172	Romans
+Romans
+Romans
 Romans
 Romans
 467176	Romans
@@ -246408,12 +250865,12 @@ Romans
 Romans
 Romans
 Romans
-Romans
 467239	Romans
 Romans
 467242	Romans
 467245	Romans
-467247	Romans
+Romans
+Romans
 467249	Romans
 Romans
 Romans
@@ -246431,8 +250888,7 @@ Romans
 Romans
 467273	Romans
 467275	Romans
-467279	Romans
-Romans
+467280	Romans
 Romans
 467283	Romans
 Romans
@@ -246446,7 +250902,6 @@ Romans
 467299	Romans
 Romans
 Romans
-Romans
 467305	Romans
 467311	Romans
 467316	Romans
@@ -246458,19 +250913,23 @@ Romans
 Romans
 467326	Romans
 Romans
-467329	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
 Romans
 467337	Romans
-467339	Romans
+Romans
+Romans
 467343	Romans
 Romans
 Romans
 467347	Romans
 Romans
-467351	Romans
+Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -246501,23 +250960,24 @@ Romans
 467401	Romans
 467405	Romans
 467411	Romans
-467413	Romans
-467416	Romans
+Romans
+Romans
 467418	Romans
 467420	Romans
 467425	Romans
 Romans
-467431	Romans
-Romans
+467432	Romans
 467437	Romans
-467439	Romans
+Romans
+Romans
 Romans
 Romans
 467447	Romans
 Romans
 Romans
 467454	Romans
-467456	Romans
+Romans
+Romans
 467460	Romans
 Romans
 467465	Romans
@@ -246530,7 +250990,8 @@ Romans
 Romans
 Romans
 467482	Romans
-467484	Romans
+Romans
+Romans
 Romans
 Romans
 Romans
@@ -246545,8 +251006,7 @@ Romans
 Romans
 467508	Romans
 Romans
-467514	Romans
-Romans
+467515	Romans
 467517	Romans
 Romans
 467520	Romans
@@ -246577,10 +251037,8 @@ Romans
 467586	Romans
 Romans
 467589	Romans
-467593	Romans
-Romans
-467598	Romans
-Romans
+467594	Romans
+467599	Romans
 467603	Romans
 Romans
 467607	Romans
@@ -246601,7 +251059,8 @@ Romans
 467635	Romans
 Romans
 467638	Romans
-467640	Romans
+Romans
+Romans
 Romans
 467645	Romans
 Romans
@@ -246623,8 +251082,7 @@ Romans
 467671	Romans
 467673	Romans
 Romans
-Romans
-Romans
+467676	Romans
 Romans
 467686	Romans
 Romans
@@ -246665,39 +251123,41 @@ Romans
 Romans
 467772	Romans
 Romans
-467775	Romans
+Romans
+Romans
 467779	Romans
 467785	Romans
 467787	Romans
 467791	Romans
 Romans
-467795	Romans
+467794	Romans
 Romans
 Romans
 Romans
-467801	Romans
 Romans
+467802	Romans
 467804	Romans
+467806	Romans
 Romans
-467809	Romans
-Romans
+467810	Romans
 467816	Romans
 467822	Romans
 467830	Romans
 467835	Romans
+Romans
 467840	Romans
 467845	Romans
-467847	Romans
-467849	Romans
-467853	Romans
 Romans
-467856	Romans
+Romans
+467849	Romans
+Romans
+Romans
+467854	Romans
 467858	Romans
 467860	Romans
 467863	Romans
 467867	Romans
 467873	Romans
-Romans
 467880	Romans
 467884	Romans
 467889	Romans
@@ -246706,27 +251166,20 @@ Romans
 467902	Romans
 Romans
 467905	Romans
-467907	Romans
-Romans
+467908	Romans
 Romans
 Romans
 467912	Romans
+Romans
 467916	Romans
 467918	Romans
-Romans
 467924	Romans
-467927	Romans
-Romans
-Romans
+467928	Romans
 Romans
 467932	Romans
 467936	Romans
-Romans
-Romans
-467940	Romans
-Romans
-Romans
-Romans
+467941	Romans
+467943	Romans
 467946	Romans
 Romans
 467952	Romans
@@ -246738,9 +251191,9 @@ Romans
 Romans
 Romans
 Romans
-Romans
 467969	Romans
-467974	Romans
+467973	Romans
+Romans
 Romans
 Romans
 467978	Romans
@@ -246750,8 +251203,7 @@ Romans
 Romans
 467990	Romans
 Romans
-467994	Romans
-Romans
+467995	Romans
 467999	Romans
 Romans
 468004	Romans
@@ -246773,10 +251225,8 @@ Romans
 468049	Romans
 Romans
 468053	Romans
-468057	Romans
-Romans
+468058	Romans
 468061	Romans
-Romans
 468067	Romans
 468070	Romans
 Romans
@@ -246784,15 +251234,14 @@ Romans
 468074	Romans
 Romans
 Romans
-468078	Romans
 468081	Romans
+468088	Romans
 468090	Romans
 468092	Romans
 Romans
 Romans
 Romans
 468116	Romans
-1Corinthians
 1Corinthians
 468126	1Corinthians
 468135	1Corinthians
@@ -246801,28 +251250,26 @@ Romans
 468145	1Corinthians
 1Corinthians
 468155	1Corinthians
+468157	1Corinthians
 1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-1Corinthians
-468162	1Corinthians
+468160	1Corinthians
 468165	1Corinthians
 468168	1Corinthians
 1Corinthians
 468177	1Corinthians
 1Corinthians
 468181	1Corinthians
-468185	1Corinthians
 468187	1Corinthians
 468189	1Corinthians
 1Corinthians
 468195	1Corinthians
 1Corinthians
 468199	1Corinthians
+468202	1Corinthians
 468207	1Corinthians
 468216	1Corinthians
-468219	1Corinthians
+468218	1Corinthians
+1Corinthians
 468230	1Corinthians
 1Corinthians
 1Corinthians
@@ -246859,11 +251306,12 @@ Romans
 1Corinthians
 468294	1Corinthians
 1Corinthians
-468298	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 468300	1Corinthians
 1Corinthians
-1Corinthians
-1Corinthians
+468303	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -246901,7 +251349,9 @@ Romans
 468367	1Corinthians
 1Corinthians
 468373	1Corinthians
-468376	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 468386	1Corinthians
 468392	1Corinthians
@@ -246913,7 +251363,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-468403	1Corinthians
+1Corinthians
+1Corinthians
 468405	1Corinthians
 468407	1Corinthians
 1Corinthians
@@ -246923,7 +251374,6 @@ Romans
 1Corinthians
 468417	1Corinthians
 1Corinthians
-468420	1Corinthians
 468422	1Corinthians
 468424	1Corinthians
 468426	1Corinthians
@@ -246933,11 +251383,13 @@ Romans
 1Corinthians
 468441	1Corinthians
 1Corinthians
-468444	1Corinthians
+1Corinthians
+1Corinthians
 468446	1Corinthians
 1Corinthians
 1Corinthians
-468450	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 468456	1Corinthians
 1Corinthians
@@ -246947,7 +251399,6 @@ Romans
 1Corinthians
 468468	1Corinthians
 1Corinthians
-468471	1Corinthians
 468475	1Corinthians
 1Corinthians
 1Corinthians
@@ -246961,6 +251412,7 @@ Romans
 1Corinthians
 468490	1Corinthians
 1Corinthians
+468494	1Corinthians
 468496	1Corinthians
 468499	1Corinthians
 1Corinthians
@@ -246975,13 +251427,11 @@ Romans
 1Corinthians
 468512	1Corinthians
 1Corinthians
-468515	1Corinthians
 468517	1Corinthians
 468521	1Corinthians
 1Corinthians
 1Corinthians
 468525	1Corinthians
-1Corinthians
 1Corinthians
 468529	1Corinthians
 468531	1Corinthians
@@ -246991,10 +251441,8 @@ Romans
 468538	1Corinthians
 468542	1Corinthians
 1Corinthians
-1Corinthians
 468547	1Corinthians
-468556	1Corinthians
-1Corinthians
+468557	1Corinthians
 1Corinthians
 1Corinthians
 468567	1Corinthians
@@ -247002,9 +251450,10 @@ Romans
 1Corinthians
 468572	1Corinthians
 1Corinthians
-468575	1Corinthians
 468578	1Corinthians
 468584	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247013,7 +251462,8 @@ Romans
 1Corinthians
 468602	1Corinthians
 1Corinthians
-468610	1Corinthians
+468609	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247021,7 +251471,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-468622	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247032,7 +251483,8 @@ Romans
 1Corinthians
 1Corinthians
 468638	1Corinthians
-468640	1Corinthians
+1Corinthians
+1Corinthians
 468642	1Corinthians
 468647	1Corinthians
 1Corinthians
@@ -247042,11 +251494,13 @@ Romans
 468664	1Corinthians
 1Corinthians
 468669	1Corinthians
+1Corinthians
 468672	1Corinthians
 468676	1Corinthians
 468682	1Corinthians
 1Corinthians
-468685	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 468689	1Corinthians
 468697	1Corinthians
@@ -247074,31 +251528,34 @@ Romans
 1Corinthians
 468730	1Corinthians
 468732	1Corinthians
-468740	1Corinthians
+468738	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-468746	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-468751	1Corinthians
 1Corinthians
-468754	1Corinthians
 1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+468755	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 468762	1Corinthians
-468764	1Corinthians
+1Corinthians
+1Corinthians
 468766	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-468771	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247107,11 +251564,15 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-468781	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 468784	1Corinthians
 468787	1Corinthians
-468789	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247130,8 +251591,7 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-1Corinthians
-1Corinthians
+468814	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247139,7 +251599,8 @@ Romans
 1Corinthians
 1Corinthians
 468826	1Corinthians
-468828	1Corinthians
+1Corinthians
+1Corinthians
 468830	1Corinthians
 468834	1Corinthians
 1Corinthians
@@ -247148,16 +251609,20 @@ Romans
 468845	1Corinthians
 1Corinthians
 1Corinthians
-468849	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-468857	1Corinthians
+1Corinthians
+1Corinthians
+468856	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 468861	1Corinthians
-468864	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 468870	1Corinthians
 468873	1Corinthians
@@ -247165,12 +251630,14 @@ Romans
 468876	1Corinthians
 468878	1Corinthians
 468880	1Corinthians
-468882	1Corinthians
+1Corinthians
+1Corinthians
 468885	1Corinthians
 468887	1Corinthians
 1Corinthians
 1Corinthians
-468893	1Corinthians
+468892	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247193,7 +251660,9 @@ Romans
 1Corinthians
 468930	1Corinthians
 1Corinthians
-468934	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 468941	1Corinthians
@@ -247207,7 +251676,8 @@ Romans
 1Corinthians
 1Corinthians
 468961	1Corinthians
-468963	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 468968	1Corinthians
 1Corinthians
@@ -247215,7 +251685,8 @@ Romans
 1Corinthians
 468973	1Corinthians
 1Corinthians
-468976	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 468979	1Corinthians
 1Corinthians
@@ -247230,7 +251701,6 @@ Romans
 1Corinthians
 1Corinthians
 468992	1Corinthians
-1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247261,7 +251731,8 @@ Romans
 469034	1Corinthians
 1Corinthians
 1Corinthians
-469039	1Corinthians
+469038	1Corinthians
+1Corinthians
 469041	1Corinthians
 1Corinthians
 469046	1Corinthians
@@ -247270,10 +251741,10 @@ Romans
 1Corinthians
 469056	1Corinthians
 1Corinthians
-469059	1Corinthians
 1Corinthians
-469062	1Corinthians
 1Corinthians
+1Corinthians
+469063	1Corinthians
 469065	1Corinthians
 1Corinthians
 469068	1Corinthians
@@ -247285,9 +251756,11 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-469083	1Corinthians
 1Corinthians
-469086	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247330,20 +251803,23 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-469147	1Corinthians
+469146	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-469161	1Corinthians
+1Corinthians
+469160	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 469169	1Corinthians
-469171	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 469176	1Corinthians
@@ -247354,7 +251830,9 @@ Romans
 1Corinthians
 1Corinthians
 469189	1Corinthians
-469194	1Corinthians
+469192	1Corinthians
+1Corinthians
+1Corinthians
 469198	1Corinthians
 1Corinthians
 469201	1Corinthians
@@ -247366,7 +251844,8 @@ Romans
 1Corinthians
 469217	1Corinthians
 1Corinthians
-469220	1Corinthians
+1Corinthians
+1Corinthians
 469222	1Corinthians
 1Corinthians
 469225	1Corinthians
@@ -247381,13 +251860,14 @@ Romans
 1Corinthians
 469247	1Corinthians
 1Corinthians
-469250	1Corinthians
-1Corinthians
+469251	1Corinthians
 469253	1Corinthians
-469255	1Corinthians
+469256	1Corinthians
+1Corinthians
 1Corinthians
 469260	1Corinthians
-469264	1Corinthians
+469263	1Corinthians
+1Corinthians
 469267	1Corinthians
 1Corinthians
 1Corinthians
@@ -247409,8 +251889,7 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-469301	1Corinthians
-1Corinthians
+469302	1Corinthians
 469316	1Corinthians
 1Corinthians
 469323	1Corinthians
@@ -247428,12 +251907,11 @@ Romans
 1Corinthians
 469349	1Corinthians
 469352	1Corinthians
-469355	1Corinthians
+469356	1Corinthians
+469360	1Corinthians
 1Corinthians
-469359	1Corinthians
+469364	1Corinthians
 1Corinthians
-1Corinthians
-469365	1Corinthians
 1Corinthians
 469373	1Corinthians
 469375	1Corinthians
@@ -247444,7 +251922,9 @@ Romans
 1Corinthians
 469383	1Corinthians
 1Corinthians
-469387	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 469391	1Corinthians
@@ -247491,7 +251971,8 @@ Romans
 469457	1Corinthians
 469459	1Corinthians
 1Corinthians
-469464	1Corinthians
+469463	1Corinthians
+1Corinthians
 1Corinthians
 469470	1Corinthians
 1Corinthians
@@ -247583,8 +252064,11 @@ Romans
 1Corinthians
 1Corinthians
 469615	1Corinthians
-469618	1Corinthians
-469622	1Corinthians
+469617	1Corinthians
+1Corinthians
+469620	1Corinthians
+1Corinthians
+1Corinthians
 469625	1Corinthians
 1Corinthians
 1Corinthians
@@ -247625,7 +252109,9 @@ Romans
 1Corinthians
 469699	1Corinthians
 1Corinthians
-469704	1Corinthians
+469702	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247643,7 +252129,8 @@ Romans
 1Corinthians
 1Corinthians
 469736	1Corinthians
-469738	1Corinthians
+1Corinthians
+1Corinthians
 469741	1Corinthians
 1Corinthians
 1Corinthians
@@ -247651,13 +252138,14 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-1Corinthians
 469750	1Corinthians
-469753	1Corinthians
+469752	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 469757	1Corinthians
-469759	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247681,7 +252169,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-469795	1Corinthians
+469794	1Corinthians
+1Corinthians
 469797	1Corinthians
 469800	1Corinthians
 1Corinthians
@@ -247690,7 +252179,9 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-469810	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 469812	1Corinthians
 1Corinthians
 1Corinthians
@@ -247709,7 +252200,6 @@ Romans
 1Corinthians
 1Corinthians
 469845	1Corinthians
-1Corinthians
 469848	1Corinthians
 469852	1Corinthians
 1Corinthians
@@ -247723,9 +252213,11 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-469869	1Corinthians
+469868	1Corinthians
 1Corinthians
-469872	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 469875	1Corinthians
 1Corinthians
@@ -247744,12 +252236,14 @@ Romans
 469897	1Corinthians
 1Corinthians
 469901	1Corinthians
-469905	1Corinthians
+469904	1Corinthians
+1Corinthians
 469907	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-469912	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247837,11 +252331,13 @@ Romans
 470029	1Corinthians
 1Corinthians
 1Corinthians
-470033	1Corinthians
+1Corinthians
+1Corinthians
 470037	1Corinthians
 470039	1Corinthians
 1Corinthians
-470042	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 470047	1Corinthians
@@ -247855,7 +252351,8 @@ Romans
 470064	1Corinthians
 470066	1Corinthians
 470068	1Corinthians
-470070	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 470075	1Corinthians
@@ -247868,7 +252365,8 @@ Romans
 1Corinthians
 470092	1Corinthians
 1Corinthians
-470096	1Corinthians
+470095	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 470102	1Corinthians
@@ -247877,11 +252375,13 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-470109	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-470114	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 470118	1Corinthians
 1Corinthians
 470121	1Corinthians
@@ -247909,7 +252409,8 @@ Romans
 1Corinthians
 470160	1Corinthians
 1Corinthians
-470163	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 470169	1Corinthians
@@ -247923,7 +252424,7 @@ Romans
 1Corinthians
 470182	1Corinthians
 1Corinthians
-470186	1Corinthians
+470185	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -247931,7 +252432,9 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-470195	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 470198	1Corinthians
 470200	1Corinthians
@@ -247956,12 +252459,16 @@ Romans
 1Corinthians
 1Corinthians
 470233	1Corinthians
-470238	1Corinthians
+1Corinthians
+470237	1Corinthians
+1Corinthians
 470241	1Corinthians
 1Corinthians
 470244	1Corinthians
 1Corinthians
-470250	1Corinthians
+1Corinthians
+470249	1Corinthians
+1Corinthians
 470253	1Corinthians
 1Corinthians
 470256	1Corinthians
@@ -247985,12 +252492,14 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-470287	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 470295	1Corinthians
-470297	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 470301	1Corinthians
@@ -248004,7 +252513,8 @@ Romans
 1Corinthians
 470316	1Corinthians
 1Corinthians
-470323	1Corinthians
+470322	1Corinthians
+1Corinthians
 470325	1Corinthians
 1Corinthians
 470328	1Corinthians
@@ -248048,8 +252558,7 @@ Romans
 470401	1Corinthians
 1Corinthians
 1Corinthians
-1Corinthians
-1Corinthians
+470405	1Corinthians
 1Corinthians
 1Corinthians
 470409	1Corinthians
@@ -248092,12 +252601,14 @@ Romans
 1Corinthians
 470468	1Corinthians
 1Corinthians
-470473	1Corinthians
+470472	1Corinthians
+1Corinthians
 1Corinthians
 470477	1Corinthians
 1Corinthians
 1Corinthians
-470481	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 470485	1Corinthians
 1Corinthians
@@ -248105,7 +252616,8 @@ Romans
 1Corinthians
 470493	1Corinthians
 1Corinthians
-470496	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 470503	1Corinthians
@@ -248118,7 +252630,8 @@ Romans
 470517	1Corinthians
 1Corinthians
 470520	1Corinthians
-470522	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 470526	1Corinthians
@@ -248127,13 +252640,15 @@ Romans
 1Corinthians
 1Corinthians
 470534	1Corinthians
-470536	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-470543	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -248157,7 +252672,9 @@ Romans
 470573	1Corinthians
 1Corinthians
 470576	1Corinthians
-470579	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 470582	1Corinthians
 1Corinthians
 1Corinthians
@@ -248193,7 +252710,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-470639	1Corinthians
+1Corinthians
+1Corinthians
 470641	1Corinthians
 1Corinthians
 1Corinthians
@@ -248203,7 +252721,6 @@ Romans
 1Corinthians
 1Corinthians
 470650	1Corinthians
-470652	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -248213,7 +252730,10 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-470663	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 470667	1Corinthians
 1Corinthians
@@ -248242,7 +252762,8 @@ Romans
 1Corinthians
 1Corinthians
 470720	1Corinthians
-470722	1Corinthians
+1Corinthians
+1Corinthians
 470727	1Corinthians
 1Corinthians
 470731	1Corinthians
@@ -248252,7 +252773,9 @@ Romans
 470738	1Corinthians
 1Corinthians
 1Corinthians
-470743	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 470747	1Corinthians
@@ -248286,7 +252809,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-470797	1Corinthians
+470796	1Corinthians
+1Corinthians
 470802	1Corinthians
 1Corinthians
 1Corinthians
@@ -248299,7 +252823,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-470816	1Corinthians
+470815	1Corinthians
+1Corinthians
 470818	1Corinthians
 1Corinthians
 470821	1Corinthians
@@ -248315,10 +252840,13 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
+470842	1Corinthians
 470845	1Corinthians
 470850	1Corinthians
-470853	1Corinthians
-470859	1Corinthians
+470852	1Corinthians
+1Corinthians
+470858	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 470864	1Corinthians
@@ -248338,10 +252866,10 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-470892	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
+470895	1Corinthians
 470897	1Corinthians
 1Corinthians
 1Corinthians
@@ -248369,15 +252897,16 @@ Romans
 1Corinthians
 470932	1Corinthians
 1Corinthians
-470937	1Corinthians
+470936	1Corinthians
+1Corinthians
 470939	1Corinthians
 1Corinthians
 470942	1Corinthians
 470945	1Corinthians
 1Corinthians
-470948	1Corinthians
 470950	1Corinthians
-470954	1Corinthians
+470953	1Corinthians
+1Corinthians
 470956	1Corinthians
 470959	1Corinthians
 1Corinthians
@@ -248387,12 +252916,12 @@ Romans
 1Corinthians
 1Corinthians
 470969	1Corinthians
-470971	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-470977	1Corinthians
+1Corinthians
+1Corinthians
 470979	1Corinthians
 1Corinthians
 1Corinthians
@@ -248400,12 +252929,14 @@ Romans
 1Corinthians
 470990	1Corinthians
 1Corinthians
-470998	1Corinthians
+470997	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 471002	1Corinthians
 1Corinthians
-471005	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -248418,7 +252949,8 @@ Romans
 1Corinthians
 1Corinthians
 471023	1Corinthians
-471025	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 471032	1Corinthians
 1Corinthians
@@ -248430,7 +252962,8 @@ Romans
 1Corinthians
 471042	1Corinthians
 1Corinthians
-471045	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 471049	1Corinthians
@@ -248452,8 +252985,7 @@ Romans
 471082	1Corinthians
 471087	1Corinthians
 1Corinthians
-1Corinthians
-1Corinthians
+471090	1Corinthians
 471092	1Corinthians
 1Corinthians
 1Corinthians
@@ -248473,8 +253005,7 @@ Romans
 1Corinthians
 1Corinthians
 471112	1Corinthians
-471114	1Corinthians
-1Corinthians
+471115	1Corinthians
 1Corinthians
 1Corinthians
 471120	1Corinthians
@@ -248501,7 +253032,8 @@ Romans
 471172	1Corinthians
 1Corinthians
 1Corinthians
-471178	1Corinthians
+471177	1Corinthians
+1Corinthians
 471181	1Corinthians
 1Corinthians
 1Corinthians
@@ -248515,7 +253047,8 @@ Romans
 1Corinthians
 1Corinthians
 471195	1Corinthians
-471197	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -248530,19 +253063,23 @@ Romans
 471218	1Corinthians
 1Corinthians
 1Corinthians
-471222	1Corinthians
+1Corinthians
+1Corinthians
 471224	1Corinthians
 1Corinthians
 1Corinthians
 471228	1Corinthians
 1Corinthians
 471231	1Corinthians
-471233	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 471237	1Corinthians
 1Corinthians
 471242	1Corinthians
-471245	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 471248	1Corinthians
 1Corinthians
 471251	1Corinthians
@@ -248576,26 +253113,30 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-471300	1Corinthians
+471299	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-471307	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 471313	1Corinthians
 471317	1Corinthians
 1Corinthians
 471322	1Corinthians
 1Corinthians
 1Corinthians
-471326	1Corinthians
+1Corinthians
+1Corinthians
 471334	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 471341	1Corinthians
-471343	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -248605,11 +253146,11 @@ Romans
 471357	1Corinthians
 1Corinthians
 1Corinthians
-471361	1Corinthians
+1Corinthians
+1Corinthians
 471363	1Corinthians
 471365	1Corinthians
 1Corinthians
-471371	1Corinthians
 471373	1Corinthians
 471376	1Corinthians
 1Corinthians
@@ -248631,7 +253172,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-471408	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -248662,7 +253204,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-471451	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 471458	1Corinthians
@@ -248721,8 +253264,8 @@ Romans
 471549	1Corinthians
 1Corinthians
 471552	1Corinthians
-471554	1Corinthians
-471556	1Corinthians
+1Corinthians
+1Corinthians
 471558	1Corinthians
 471561	1Corinthians
 471563	1Corinthians
@@ -248748,17 +253291,21 @@ Romans
 1Corinthians
 471603	1Corinthians
 1Corinthians
-471610	1Corinthians
+471609	1Corinthians
 1Corinthians
-471614	1Corinthians
+1Corinthians
+471613	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 471619	1Corinthians
 1Corinthians
 471624	1Corinthians
-471626	1Corinthians
 1Corinthians
-471630	1Corinthians
+1Corinthians
+1Corinthians
+471629	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 471635	1Corinthians
@@ -248789,7 +253336,8 @@ Romans
 471678	1Corinthians
 471680	1Corinthians
 471682	1Corinthians
-471684	1Corinthians
+1Corinthians
+1Corinthians
 471687	1Corinthians
 471689	1Corinthians
 1Corinthians
@@ -248814,21 +253362,24 @@ Romans
 471729	1Corinthians
 1Corinthians
 471734	1Corinthians
-471737	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 471740	1Corinthians
-471744	1Corinthians
+471743	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 471749	1Corinthians
-1Corinthians
 1Corinthians
 471753	1Corinthians
 471756	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-471764	1Corinthians
+471763	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -248851,22 +253402,21 @@ Romans
 1Corinthians
 471792	1Corinthians
 1Corinthians
-471797	1Corinthians
+471796	1Corinthians
+1Corinthians
 471799	1Corinthians
-471802	1Corinthians
 471804	1Corinthians
 471806	1Corinthians
-1Corinthians
 1Corinthians
 1Corinthians
 471811	1Corinthians
 1Corinthians
 471814	1Corinthians
 1Corinthians
-471817	1Corinthians
+1Corinthians
+1Corinthians
 471819	1Corinthians
 471821	1Corinthians
-1Corinthians
 1Corinthians
 1Corinthians
 471827	1Corinthians
@@ -248891,7 +253441,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-471860	1Corinthians
+1Corinthians
+1Corinthians
 471862	1Corinthians
 471864	1Corinthians
 1Corinthians
@@ -248902,19 +253453,24 @@ Romans
 1Corinthians
 471875	1Corinthians
 471878	1Corinthians
-471881	1Corinthians
+471880	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 471887	1Corinthians
-471890	1Corinthians
 1Corinthians
 1Corinthians
-471894	1Corinthians
 1Corinthians
 1Corinthians
-471898	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -248926,9 +253482,11 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-471916	1Corinthians
+471915	1Corinthians
 1Corinthians
-471919	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 471921	1Corinthians
 471923	1Corinthians
 471925	1Corinthians
@@ -248958,7 +253516,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-471967	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -248989,7 +253548,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-472002	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249003,7 +253563,8 @@ Romans
 1Corinthians
 472015	1Corinthians
 1Corinthians
-472018	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 472022	1Corinthians
@@ -249013,19 +253574,19 @@ Romans
 472027	1Corinthians
 472029	1Corinthians
 472031	1Corinthians
-472033	1Corinthians
+472034	1Corinthians
 1Corinthians
 1Corinthians
-472037	1Corinthians
+1Corinthians
 472040	1Corinthians
 1Corinthians
 472043	1Corinthians
 1Corinthians
-472046	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 472049	1Corinthians
-1Corinthians
-1Corinthians
+472051	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249035,7 +253596,8 @@ Romans
 1Corinthians
 1Corinthians
 472063	1Corinthians
-472065	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 472071	1Corinthians
 1Corinthians
@@ -249043,13 +253605,15 @@ Romans
 1Corinthians
 1Corinthians
 472078	1Corinthians
-472080	1Corinthians
+1Corinthians
+1Corinthians
 472082	1Corinthians
 1Corinthians
 472086	1Corinthians
 1Corinthians
 1Corinthians
-472090	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 472095	1Corinthians
 1Corinthians
@@ -249075,14 +253639,17 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-472127	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 472132	1Corinthians
 1Corinthians
 472136	1Corinthians
 1Corinthians
-472140	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 472143	1Corinthians
 1Corinthians
@@ -249091,7 +253658,9 @@ Romans
 472150	1Corinthians
 1Corinthians
 472154	1Corinthians
-472157	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249123,7 +253692,8 @@ Romans
 1Corinthians
 472208	1Corinthians
 472211	1Corinthians
-472213	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 472217	1Corinthians
 472222	1Corinthians
@@ -249139,12 +253709,14 @@ Romans
 472239	1Corinthians
 1Corinthians
 1Corinthians
-472243	1Corinthians
+1Corinthians
+1Corinthians
 472246	1Corinthians
 472251	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
+472256	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249152,14 +253724,13 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-472263	1Corinthians
 472265	1Corinthians
 1Corinthians
 1Corinthians
-472269	1Corinthians
+472270	1Corinthians
 1Corinthians
 1Corinthians
-472273	1Corinthians
+1Corinthians
 472275	1Corinthians
 472277	1Corinthians
 472282	1Corinthians
@@ -249171,39 +253742,42 @@ Romans
 472292	1Corinthians
 1Corinthians
 1Corinthians
-472296	1Corinthians
-1Corinthians
-472299	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-472307	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-472313	1Corinthians
 1Corinthians
+1Corinthians
+472306	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+472314	1Corinthians
 472317	1Corinthians
 472319	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-472324	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 472328	1Corinthians
 1Corinthians
-1Corinthians
-1Corinthians
+472331	1Corinthians
 472333	1Corinthians
 1Corinthians
 1Corinthians
 472338	1Corinthians
 1Corinthians
 472341	1Corinthians
-472343	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 472346	1Corinthians
 1Corinthians
@@ -249220,18 +253794,23 @@ Romans
 472362	1Corinthians
 472364	1Corinthians
 472366	1Corinthians
-472369	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 472376	1Corinthians
 472380	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-472385	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 472390	1Corinthians
-472393	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249243,17 +253822,18 @@ Romans
 1Corinthians
 472411	1Corinthians
 1Corinthians
-472415	1Corinthians
+472414	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-1Corinthians
+472419	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 472425	1Corinthians
-472427	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249272,11 +253852,14 @@ Romans
 472446	1Corinthians
 1Corinthians
 1Corinthians
-472452	1Corinthians
+472450	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 472456	1Corinthians
-472459	1Corinthians
+472458	1Corinthians
+1Corinthians
 472461	1Corinthians
 1Corinthians
 1Corinthians
@@ -249295,13 +253878,16 @@ Romans
 1Corinthians
 472489	1Corinthians
 1Corinthians
-472492	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 472495	1Corinthians
-472499	1Corinthians
+472498	1Corinthians
+1Corinthians
 472503	1Corinthians
 1Corinthians
-472506	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 472510	1Corinthians
 1Corinthians
@@ -249309,6 +253895,7 @@ Romans
 1Corinthians
 472516	1Corinthians
 1Corinthians
+472519	1Corinthians
 472522	1Corinthians
 1Corinthians
 1Corinthians
@@ -249331,7 +253918,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-472564	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249343,7 +253931,8 @@ Romans
 1Corinthians
 1Corinthians
 472580	1Corinthians
-472582	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 472586	1Corinthians
@@ -249354,6 +253943,7 @@ Romans
 1Corinthians
 472602	1Corinthians
 1Corinthians
+1Corinthians
 472606	1Corinthians
 1Corinthians
 1Corinthians
@@ -249363,7 +253953,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-472616	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 472621	1Corinthians
@@ -249388,19 +253979,17 @@ Romans
 1Corinthians
 472664	1Corinthians
 1Corinthians
-472670	1Corinthians
+472669	1Corinthians
+1Corinthians
 1Corinthians
 472677	1Corinthians
 472679	1Corinthians
 1Corinthians
-472683	1Corinthians
-1Corinthians
-1Corinthians
+472684	1Corinthians
 1Corinthians
 1Corinthians
 472689	1Corinthians
-472691	1Corinthians
-1Corinthians
+472692	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249409,7 +253998,8 @@ Romans
 472707	1Corinthians
 1Corinthians
 472712	1Corinthians
-472714	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249435,12 +254025,13 @@ Romans
 1Corinthians
 472750	1Corinthians
 472753	1Corinthians
-472759	1Corinthians
+472758	1Corinthians
+1Corinthians
 1Corinthians
 472766	1Corinthians
 1Corinthians
 1Corinthians
-472773	1Corinthians
+472772	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249450,7 +254041,9 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-472786	1Corinthians
+1Corinthians
+472785	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249477,8 +254070,7 @@ Romans
 472819	1Corinthians
 1Corinthians
 1Corinthians
-1Corinthians
-1Corinthians
+472823	1Corinthians
 472826	1Corinthians
 1Corinthians
 1Corinthians
@@ -249494,7 +254086,6 @@ Romans
 472848	1Corinthians
 1Corinthians
 472851	1Corinthians
-1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249514,29 +254105,37 @@ Romans
 472879	1Corinthians
 1Corinthians
 472882	1Corinthians
-472888	1Corinthians
+472887	1Corinthians
+1Corinthians
 472890	1Corinthians
-472893	1Corinthians
+472892	1Corinthians
+1Corinthians
 472895	1Corinthians
-472898	1Corinthians
+472897	1Corinthians
+1Corinthians
 472900	1Corinthians
-472903	1Corinthians
+472902	1Corinthians
+1Corinthians
 472905	1Corinthians
 472907	1Corinthians
 1Corinthians
 1Corinthians
 472912	1Corinthians
-472914	1Corinthians
+1Corinthians
+1Corinthians
 472920	1Corinthians
 1Corinthians
 472926	1Corinthians
 1Corinthians
 472929	1Corinthians
-472932	1Corinthians
+472931	1Corinthians
+1Corinthians
 472934	1Corinthians
-472937	1Corinthians
+472936	1Corinthians
+1Corinthians
 472941	1Corinthians
-472946	1Corinthians
+472945	1Corinthians
+1Corinthians
 1Corinthians
 472951	1Corinthians
 1Corinthians
@@ -249551,12 +254150,12 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-1Corinthians
-1Corinthians
+472975	1Corinthians
 1Corinthians
 472978	1Corinthians
 1Corinthians
-472983	1Corinthians
+472982	1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249571,19 +254170,23 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-473007	1Corinthians
+1Corinthians
+1Corinthians
 473010	1Corinthians
 1Corinthians
 473014	1Corinthians
-473016	1Corinthians
+1Corinthians
+1Corinthians
 473018	1Corinthians
 473021	1Corinthians
 1Corinthians
 473025	1Corinthians
 473028	1Corinthians
 1Corinthians
-473031	1Corinthians
-473035	1Corinthians
+1Corinthians
+1Corinthians
+473034	1Corinthians
+1Corinthians
 473037	1Corinthians
 473039	1Corinthians
 473041	1Corinthians
@@ -249603,21 +254206,27 @@ Romans
 1Corinthians
 1Corinthians
 473085	1Corinthians
-473087	1Corinthians
-473095	1Corinthians
+1Corinthians
+1Corinthians
+473094	1Corinthians
+1Corinthians
 1Corinthians
 473100	1Corinthians
 473102	1Corinthians
 473107	1Corinthians
-473110	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-473117	1Corinthians
 1Corinthians
-473120	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 473124	1Corinthians
@@ -249628,7 +254237,8 @@ Romans
 1Corinthians
 1Corinthians
 473135	1Corinthians
-473137	1Corinthians
+1Corinthians
+1Corinthians
 473139	1Corinthians
 1Corinthians
 1Corinthians
@@ -249641,9 +254251,11 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-473153	1Corinthians
 1Corinthians
-473156	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 473159	1Corinthians
 1Corinthians
@@ -249661,7 +254273,8 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-473183	1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
@@ -249671,7 +254284,9 @@ Romans
 473194	1Corinthians
 1Corinthians
 1Corinthians
-473199	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 473201	1Corinthians
 1Corinthians
 473204	1Corinthians
@@ -249686,10 +254301,12 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-473226	1Corinthians
 1Corinthians
 1Corinthians
-473230	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 1Corinthians
 473234	1Corinthians
 1Corinthians
@@ -249699,20 +254316,23 @@ Romans
 1Corinthians
 1Corinthians
 1Corinthians
-473248	1Corinthians
+1Corinthians
+473247	1Corinthians
+1Corinthians
 1Corinthians
 473252	1Corinthians
 1Corinthians
 473256	1Corinthians
 1Corinthians
-473259	1Corinthians
 473261	1Corinthians
 473263	1Corinthians
-473265	1Corinthians
 1Corinthians
 1Corinthians
 1Corinthians
-473270	1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
+1Corinthians
 473274	1Corinthians
 1Corinthians
 1Corinthians
@@ -249720,18 +254340,17 @@ Romans
 1Corinthians
 473281	1Corinthians
 1Corinthians
-1Corinthians
 473286	1Corinthians
 473288	1Corinthians
 1Corinthians
 473291	1Corinthians
 473295	1Corinthians
-473297	1Corinthians
-1Corinthians
+473298	1Corinthians
 473304	1Corinthians
 473307	1Corinthians
 473310	1Corinthians
-473316	1Corinthians
+473315	1Corinthians
+1Corinthians
 1Corinthians
 473319	1Corinthians
 1Corinthians
@@ -249739,28 +254358,24 @@ Romans
 1Corinthians
 473328	1Corinthians
 473335	2Corinthians
-2Corinthians
 473343	2Corinthians
 473350	2Corinthians
 2Corinthians
 473357	2Corinthians
 2Corinthians
 473362	2Corinthians
-2Corinthians
-2Corinthians
-473366	2Corinthians
+473364	2Corinthians
 473369	2Corinthians
 473372	2Corinthians
-473376	2Corinthians
-2Corinthians
-473384	2Corinthians
+473377	2Corinthians
 473387	2Corinthians
 473390	2Corinthians
 2Corinthians
 473397	2Corinthians
 2Corinthians
 2Corinthians
-473406	2Corinthians
+473405	2Corinthians
+2Corinthians
 473409	2Corinthians
 2Corinthians
 2Corinthians
@@ -249769,14 +254384,14 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-473429	2Corinthians
-2Corinthians
+473430	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 473438	2Corinthians
 2Corinthians
-473445	2Corinthians
+473444	2Corinthians
+2Corinthians
 473447	2Corinthians
 2Corinthians
 473452	2Corinthians
@@ -249797,18 +254412,24 @@ Romans
 473480	2Corinthians
 2Corinthians
 2Corinthians
-473484	2Corinthians
+2Corinthians
+2Corinthians
 473489	2Corinthians
 473491	2Corinthians
 473494	2Corinthians
+473496	2Corinthians
+2Corinthians
 473500	2Corinthians
 2Corinthians
-473504	2Corinthians
+473503	2Corinthians
+2Corinthians
 473507	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
-473514	2Corinthians
+473512	2Corinthians
+2Corinthians
+2Corinthians
 473516	2Corinthians
 473520	2Corinthians
 2Corinthians
@@ -249817,14 +254438,14 @@ Romans
 473538	2Corinthians
 2Corinthians
 2Corinthians
-473543	2Corinthians
-2Corinthians
+473544	2Corinthians
 473553	2Corinthians
 2Corinthians
 473556	2Corinthians
 2Corinthians
 2Corinthians
-473561	2Corinthians
+473560	2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -249840,7 +254461,8 @@ Romans
 2Corinthians
 473585	2Corinthians
 2Corinthians
-473590	2Corinthians
+473589	2Corinthians
+2Corinthians
 473592	2Corinthians
 2Corinthians
 473595	2Corinthians
@@ -249860,14 +254482,12 @@ Romans
 2Corinthians
 2Corinthians
 473620	2Corinthians
-473622	2Corinthians
 473625	2Corinthians
 473628	2Corinthians
 2Corinthians
 473631	2Corinthians
 2Corinthians
-473638	2Corinthians
-2Corinthians
+473639	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -249876,8 +254496,7 @@ Romans
 473654	2Corinthians
 2Corinthians
 2Corinthians
-2Corinthians
-2Corinthians
+473658	2Corinthians
 2Corinthians
 2Corinthians
 473662	2Corinthians
@@ -249887,11 +254506,13 @@ Romans
 473676	2Corinthians
 2Corinthians
 2Corinthians
-473680	2Corinthians
+2Corinthians
+2Corinthians
 473683	2Corinthians
 2Corinthians
 473686	2Corinthians
-473688	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -249901,6 +254522,7 @@ Romans
 2Corinthians
 2Corinthians
 473708	2Corinthians
+2Corinthians
 473711	2Corinthians
 473714	2Corinthians
 473717	2Corinthians
@@ -249931,13 +254553,13 @@ Romans
 2Corinthians
 473757	2Corinthians
 2Corinthians
-473761	2Corinthians
-2Corinthians
+473762	2Corinthians
 473767	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
-473773	2Corinthians
+473772	2Corinthians
+2Corinthians
 473775	2Corinthians
 2Corinthians
 2Corinthians
@@ -249966,7 +254588,9 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-473824	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 473826	2Corinthians
 2Corinthians
 473831	2Corinthians
@@ -249974,7 +254598,8 @@ Romans
 473835	2Corinthians
 2Corinthians
 473839	2Corinthians
-473841	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 473849	2Corinthians
 2Corinthians
@@ -249988,11 +254613,13 @@ Romans
 473865	2Corinthians
 2Corinthians
 473869	2Corinthians
-473871	2Corinthians
+2Corinthians
+2Corinthians
 473874	2Corinthians
 2Corinthians
 473883	2Corinthians
-473885	2Corinthians
+2Corinthians
+2Corinthians
 473890	2Corinthians
 2Corinthians
 2Corinthians
@@ -250009,7 +254636,8 @@ Romans
 473914	2Corinthians
 473916	2Corinthians
 2Corinthians
-473923	2Corinthians
+473922	2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 473927	2Corinthians
@@ -250029,7 +254657,8 @@ Romans
 473957	2Corinthians
 2Corinthians
 2Corinthians
-473962	2Corinthians
+473961	2Corinthians
+2Corinthians
 473964	2Corinthians
 473968	2Corinthians
 473975	2Corinthians
@@ -250038,14 +254667,16 @@ Romans
 2Corinthians
 473986	2Corinthians
 473989	2Corinthians
-473995	2Corinthians
+473994	2Corinthians
+2Corinthians
 474000	2Corinthians
 2Corinthians
 2Corinthians
 474004	2Corinthians
 2Corinthians
 474007	2Corinthians
-474009	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 474014	2Corinthians
 474017	2Corinthians
@@ -250091,13 +254722,16 @@ Romans
 2Corinthians
 2Corinthians
 474115	2Corinthians
-474117	2Corinthians
-474120	2Corinthians
+2Corinthians
+2Corinthians
+474119	2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 474127	2Corinthians
-474129	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 474133	2Corinthians
@@ -250112,9 +254746,12 @@ Romans
 2Corinthians
 474156	2Corinthians
 2Corinthians
-474161	2Corinthians
-474164	2Corinthians
-474168	2Corinthians
+474160	2Corinthians
+2Corinthians
+474163	2Corinthians
+2Corinthians
+474167	2Corinthians
+2Corinthians
 2Corinthians
 474171	2Corinthians
 2Corinthians
@@ -250123,7 +254760,8 @@ Romans
 2Corinthians
 474185	2Corinthians
 474194	2Corinthians
-474196	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 474201	2Corinthians
 474203	2Corinthians
@@ -250131,15 +254769,18 @@ Romans
 474206	2Corinthians
 474216	2Corinthians
 2Corinthians
-474226	2Corinthians
+474225	2Corinthians
+2Corinthians
 474229	2Corinthians
+2Corinthians
 474232	2Corinthians
 474234	2Corinthians
 474236	2Corinthians
 2Corinthians
 474240	2Corinthians
 2Corinthians
-474244	2Corinthians
+474243	2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 474248	2Corinthians
@@ -250148,6 +254789,8 @@ Romans
 474267	2Corinthians
 474269	2Corinthians
 474274	2Corinthians
+2Corinthians
+474277	2Corinthians
 2Corinthians
 474280	2Corinthians
 474282	2Corinthians
@@ -250161,11 +254804,13 @@ Romans
 474293	2Corinthians
 2Corinthians
 2Corinthians
-474297	2Corinthians
+2Corinthians
+2Corinthians
 474303	2Corinthians
 2Corinthians
 474312	2Corinthians
-474314	2Corinthians
+2Corinthians
+2Corinthians
 474316	2Corinthians
 2Corinthians
 474320	2Corinthians
@@ -250194,7 +254839,8 @@ Romans
 474365	2Corinthians
 2Corinthians
 474368	2Corinthians
-474370	2Corinthians
+2Corinthians
+2Corinthians
 474373	2Corinthians
 2Corinthians
 474376	2Corinthians
@@ -250206,10 +254852,10 @@ Romans
 2Corinthians
 474395	2Corinthians
 2Corinthians
-474399	2Corinthians
+474400	2Corinthians
 2Corinthians
 2Corinthians
-474403	2Corinthians
+2Corinthians
 474414	2Corinthians
 2Corinthians
 2Corinthians
@@ -250258,7 +254904,8 @@ Romans
 2Corinthians
 474493	2Corinthians
 2Corinthians
-474496	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -250296,12 +254943,14 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
+474566	2Corinthians
 474568	2Corinthians
 2Corinthians
 474572	2Corinthians
 2Corinthians
 474575	2Corinthians
-474577	2Corinthians
+2Corinthians
+2Corinthians
 474579	2Corinthians
 2Corinthians
 474582	2Corinthians
@@ -250331,7 +254980,8 @@ Romans
 474615	2Corinthians
 2Corinthians
 2Corinthians
-474622	2Corinthians
+474621	2Corinthians
+2Corinthians
 2Corinthians
 474625	2Corinthians
 2Corinthians
@@ -250339,12 +254989,15 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-474634	2Corinthians
+474633	2Corinthians
+2Corinthians
 474636	2Corinthians
 2Corinthians
-474639	2Corinthians
+2Corinthians
+2Corinthians
 474644	2Corinthians
-474646	2Corinthians
+2Corinthians
+2Corinthians
 474648	2Corinthians
 2Corinthians
 474653	2Corinthians
@@ -250354,7 +255007,8 @@ Romans
 474662	2Corinthians
 2Corinthians
 474668	2Corinthians
-474670	2Corinthians
+2Corinthians
+2Corinthians
 474672	2Corinthians
 2Corinthians
 474676	2Corinthians
@@ -250376,16 +255030,15 @@ Romans
 474705	2Corinthians
 474707	2Corinthians
 474709	2Corinthians
-474711	2Corinthians
+2Corinthians
+2Corinthians
 474714	2Corinthians
 2Corinthians
 474717	2Corinthians
 2Corinthians
-474752	2Corinthians
-2Corinthians
-474755	2Corinthians
-2Corinthians
-474758	2Corinthians
+474753	2Corinthians
+474756	2Corinthians
+474759	2Corinthians
 2Corinthians
 474762	2Corinthians
 2Corinthians
@@ -250424,16 +255077,17 @@ Romans
 474808	2Corinthians
 2Corinthians
 474813	2Corinthians
-474815	2Corinthians
-474819	2Corinthians
+2Corinthians
+2Corinthians
+474818	2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 474823	2Corinthians
 474825	2Corinthians
 2Corinthians
 2Corinthians
-2Corinthians
-2Corinthians
+474829	2Corinthians
 2Corinthians
 2Corinthians
 474833	2Corinthians
@@ -250444,7 +255098,8 @@ Romans
 474841	2Corinthians
 2Corinthians
 474845	2Corinthians
-474847	2Corinthians
+2Corinthians
+2Corinthians
 474850	2Corinthians
 2Corinthians
 2Corinthians
@@ -250458,31 +255113,33 @@ Romans
 474865	2Corinthians
 2Corinthians
 474868	2Corinthians
-474871	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 474873	2Corinthians
 474876	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
-474882	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 474887	2Corinthians
 2Corinthians
-474890	2Corinthians
-2Corinthians
+474891	2Corinthians
 2Corinthians
 474894	2Corinthians
 2Corinthians
 2Corinthians
 474899	2Corinthians
-474903	2Corinthians
-2Corinthians
+474904	2Corinthians
 2Corinthians
 474908	2Corinthians
-474910	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -250493,14 +255150,18 @@ Romans
 474923	2Corinthians
 2Corinthians
 474926	2Corinthians
-474928	2Corinthians
+2Corinthians
+2Corinthians
 474930	2Corinthians
-474933	2Corinthians
+474932	2Corinthians
+2Corinthians
 474935	2Corinthians
 474941	2Corinthians
-474943	2Corinthians
+2Corinthians
+2Corinthians
 474946	2Corinthians
-474950	2Corinthians
+474949	2Corinthians
+2Corinthians
 474952	2Corinthians
 2Corinthians
 2Corinthians
@@ -250510,21 +255171,27 @@ Romans
 474964	2Corinthians
 2Corinthians
 2Corinthians
-474976	2Corinthians
+474975	2Corinthians
+2Corinthians
 474978	2Corinthians
 474988	2Corinthians
 2Corinthians
-474992	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 474996	2Corinthians
-474998	2Corinthians
-475000	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 475006	2Corinthians
 2Corinthians
-475010	2Corinthians
+475009	2Corinthians
+2Corinthians
 475012	2Corinthians
 2Corinthians
 2Corinthians
@@ -250551,7 +255218,8 @@ Romans
 2Corinthians
 475054	2Corinthians
 475056	2Corinthians
-475058	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 475064	2Corinthians
@@ -250564,13 +255232,16 @@ Romans
 475081	2Corinthians
 475083	2Corinthians
 2Corinthians
-475086	2Corinthians
+2Corinthians
+2Corinthians
 475094	2Corinthians
 2Corinthians
-475101	2Corinthians
+475100	2Corinthians
+2Corinthians
 2Corinthians
 475105	2Corinthians
-475107	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 475110	2Corinthians
 475116	2Corinthians
@@ -250578,9 +255249,9 @@ Romans
 475121	2Corinthians
 475125	2Corinthians
 2Corinthians
-475128	2Corinthians
+475129	2Corinthians
 2Corinthians
-475131	2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 475136	2Corinthians
@@ -250590,7 +255261,6 @@ Romans
 2Corinthians
 475149	2Corinthians
 2Corinthians
-475154	2Corinthians
 475159	2Corinthians
 475169	2Corinthians
 2Corinthians
@@ -250598,10 +255268,9 @@ Romans
 2Corinthians
 475175	2Corinthians
 475177	2Corinthians
-475180	2Corinthians
 475182	2Corinthians
 475190	2Corinthians
-475193	2Corinthians
+475192	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -250667,8 +255336,10 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
+2Corinthians
 475312	2Corinthians
-475314	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 475318	2Corinthians
@@ -250697,16 +255368,18 @@ Romans
 2Corinthians
 475370	2Corinthians
 2Corinthians
-475376	2Corinthians
+475374	2Corinthians
+2Corinthians
+2Corinthians
 475385	2Corinthians
 2Corinthians
 475388	2Corinthians
 2Corinthians
 475397	2Corinthians
 2Corinthians
-475402	2Corinthians
 475406	2Corinthians
-475409	2Corinthians
+475408	2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 475416	2Corinthians
@@ -250715,22 +255388,23 @@ Romans
 2Corinthians
 475426	2Corinthians
 2Corinthians
+475429	2Corinthians
 475431	2Corinthians
 475434	2Corinthians
 2Corinthians
 2Corinthians
 475441	2Corinthians
 2Corinthians
-475444	2Corinthians
-475446	2Corinthians
 2Corinthians
+2Corinthians
+475446	2Corinthians
 475449	2Corinthians
 475452	2Corinthians
-475454	2Corinthians
+2Corinthians
+2Corinthians
 475456	2Corinthians
 475460	2Corinthians
 2Corinthians
-475464	2Corinthians
 475467	2Corinthians
 475475	2Corinthians
 2Corinthians
@@ -250739,22 +255413,28 @@ Romans
 2Corinthians
 2Corinthians
 475488	2Corinthians
+475490	2Corinthians
 475492	2Corinthians
 2Corinthians
 475495	2Corinthians
 475497	2Corinthians
 2Corinthians
 475502	2Corinthians
-475506	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 475508	2Corinthians
 2Corinthians
 475518	2Corinthians
-475520	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 475524	2Corinthians
 2Corinthians
-475527	2Corinthians
+2Corinthians
+2Corinthians
 475529	2Corinthians
 475531	2Corinthians
 2Corinthians
@@ -250783,7 +255463,10 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-475576	2Corinthians
+475573	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 475580	2Corinthians
@@ -250791,21 +255474,25 @@ Romans
 475585	2Corinthians
 2Corinthians
 475589	2Corinthians
-475592	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 475594	2Corinthians
 475597	2Corinthians
 2Corinthians
 475600	2Corinthians
 475605	2Corinthians
 2Corinthians
-475608	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 475611	2Corinthians
 475616	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
-475621	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -250814,14 +255501,14 @@ Romans
 475631	2Corinthians
 2Corinthians
 475637	2Corinthians
-475642	2Corinthians
+475641	2Corinthians
+2Corinthians
 2Corinthians
 475647	2Corinthians
 475656	2Corinthians
 2Corinthians
 475661	2Corinthians
 2Corinthians
-475671	2Corinthians
 475680	2Corinthians
 475684	2Corinthians
 475686	2Corinthians
@@ -250831,8 +255518,7 @@ Romans
 475700	2Corinthians
 475706	2Corinthians
 2Corinthians
-475713	2Corinthians
-2Corinthians
+475714	2Corinthians
 475716	2Corinthians
 475718	2Corinthians
 2Corinthians
@@ -250844,14 +255530,17 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-475733	2Corinthians
+475732	2Corinthians
+2Corinthians
 2Corinthians
 475737	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 475742	2Corinthians
-475745	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 475749	2Corinthians
 475751	2Corinthians
@@ -250859,18 +255548,19 @@ Romans
 2Corinthians
 475761	2Corinthians
 2Corinthians
-2Corinthians
-2Corinthians
+475764	2Corinthians
 475767	2Corinthians
 475772	2Corinthians
 2Corinthians
 475779	2Corinthians
-475781	2Corinthians
+2Corinthians
+2Corinthians
 475783	2Corinthians
 475785	2Corinthians
 2Corinthians
 475789	2Corinthians
-475793	2Corinthians
+475792	2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -250879,9 +255569,12 @@ Romans
 2Corinthians
 2Corinthians
 475803	2Corinthians
-475806	2Corinthians
 2Corinthians
 2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+475812	2Corinthians
 475814	2Corinthians
 475818	2Corinthians
 475822	2Corinthians
@@ -250922,10 +255615,12 @@ Romans
 2Corinthians
 475879	2Corinthians
 2Corinthians
-475886	2Corinthians
+475885	2Corinthians
+2Corinthians
 475888	2Corinthians
 475891	2Corinthians
-475893	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 475897	2Corinthians
@@ -250935,7 +255630,8 @@ Romans
 475911	2Corinthians
 2Corinthians
 2Corinthians
-475917	2Corinthians
+475916	2Corinthians
+2Corinthians
 475923	2Corinthians
 475927	2Corinthians
 475932	2Corinthians
@@ -250948,35 +255644,41 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-475946	2Corinthians
+475945	2Corinthians
+2Corinthians
 2Corinthians
 475950	2Corinthians
 2Corinthians
 2Corinthians
-475954	2Corinthians
+2Corinthians
+2Corinthians
 475956	2Corinthians
 2Corinthians
 475959	2Corinthians
 475962	2Corinthians
-475964	2Corinthians
 2Corinthians
 2Corinthians
-475968	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 475974	2Corinthians
-475979	2Corinthians
 475981	2Corinthians
 475985	2Corinthians
 2Corinthians
-475988	2Corinthians
+2Corinthians
+2Corinthians
 475990	2Corinthians
 2Corinthians
 2Corinthians
-475995	2Corinthians
+475994	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
+475999	2Corinthians
 476001	2Corinthians
+2Corinthians
 2Corinthians
 476005	2Corinthians
 2Corinthians
@@ -250991,7 +255693,8 @@ Romans
 476022	2Corinthians
 2Corinthians
 476027	2Corinthians
-476029	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -251011,7 +255714,8 @@ Romans
 476059	2Corinthians
 2Corinthians
 476063	2Corinthians
-476065	2Corinthians
+2Corinthians
+2Corinthians
 476068	2Corinthians
 2Corinthians
 476077	2Corinthians
@@ -251034,7 +255738,8 @@ Romans
 2Corinthians
 476104	2Corinthians
 476107	2Corinthians
-476109	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 476116	2Corinthians
@@ -251046,20 +255751,25 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-476137	2Corinthians
-2Corinthians
-476140	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
-476148	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+476147	2Corinthians
+2Corinthians
 2Corinthians
 476151	2Corinthians
 2Corinthians
 2Corinthians
-476161	2Corinthians
+476160	2Corinthians
+2Corinthians
 2Corinthians
 476165	2Corinthians
 2Corinthians
@@ -251068,7 +255778,8 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-476174	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -251083,31 +255794,39 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-476192	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 476195	2Corinthians
 476197	2Corinthians
-476199	2Corinthians
 2Corinthians
-476202	2Corinthians
 2Corinthians
-476205	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 476207	2Corinthians
 2Corinthians
 476210	2Corinthians
 2Corinthians
 2Corinthians
-476214	2Corinthians
+2Corinthians
+2Corinthians
 476216	2Corinthians
 476218	2Corinthians
 476220	2Corinthians
-476223	2Corinthians
+476222	2Corinthians
+2Corinthians
 476227	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
-476234	2Corinthians
-476236	2Corinthians
+476233	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 476238	2Corinthians
 476240	2Corinthians
 476242	2Corinthians
@@ -251115,17 +255834,15 @@ Romans
 476246	2Corinthians
 476248	2Corinthians
 476250	2Corinthians
-476253	2Corinthians
+476252	2Corinthians
 2Corinthians
-2Corinthians
+476255	2Corinthians
 2Corinthians
 476258	2Corinthians
-476260	2Corinthians
-2Corinthians
+476261	2Corinthians
 2Corinthians
 476264	2Corinthians
-476266	2Corinthians
-2Corinthians
+476267	2Corinthians
 2Corinthians
 476279	2Corinthians
 2Corinthians
@@ -251135,13 +255852,13 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-476288	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 476295	2Corinthians
-476299	2Corinthians
-2Corinthians
+476300	2Corinthians
 476303	2Corinthians
 2Corinthians
 476307	2Corinthians
@@ -251160,16 +255877,19 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-476339	2Corinthians
-2Corinthians
+476340	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 476346	2Corinthians
-476352	2Corinthians
+476349	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 476355	2Corinthians
-476357	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 476361	2Corinthians
 2Corinthians
@@ -251177,7 +255897,9 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-476375	2Corinthians
+476373	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 476379	2Corinthians
@@ -251188,6 +255910,7 @@ Romans
 2Corinthians
 476390	2Corinthians
 2Corinthians
+2Corinthians
 476394	2Corinthians
 2Corinthians
 2Corinthians
@@ -251197,17 +255920,21 @@ Romans
 476403	2Corinthians
 2Corinthians
 476407	2Corinthians
-476410	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
-476418	2Corinthians
 2Corinthians
 2Corinthians
-476424	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+476423	2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 476432	2Corinthians
@@ -251224,7 +255951,8 @@ Romans
 2Corinthians
 476449	2Corinthians
 2Corinthians
-476452	2Corinthians
+2Corinthians
+2Corinthians
 476455	2Corinthians
 2Corinthians
 476459	2Corinthians
@@ -251233,8 +255961,7 @@ Romans
 2Corinthians
 476469	2Corinthians
 2Corinthians
-476476	2Corinthians
-2Corinthians
+476477	2Corinthians
 476479	2Corinthians
 2Corinthians
 2Corinthians
@@ -251267,6 +255994,7 @@ Romans
 476527	2Corinthians
 2Corinthians
 2Corinthians
+2Corinthians
 476532	2Corinthians
 476534	2Corinthians
 2Corinthians
@@ -251280,21 +256008,25 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-476556	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
-476565	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 476568	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 476573	2Corinthians
 2Corinthians
-476576	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 476580	2Corinthians
 2Corinthians
@@ -251306,10 +256038,13 @@ Romans
 2Corinthians
 476593	2Corinthians
 476597	2Corinthians
-476600	2Corinthians
 2Corinthians
 2Corinthians
-476604	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
@@ -251318,22 +256053,24 @@ Romans
 2Corinthians
 2Corinthians
 476613	2Corinthians
-476615	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 476621	2Corinthians
 2Corinthians
 476624	2Corinthians
-476626	2Corinthians
 2Corinthians
 2Corinthians
-476632	2Corinthians
+2Corinthians
+2Corinthians
+476631	2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 476639	2Corinthians
-476642	2Corinthians
 476644	2Corinthians
 476646	2Corinthians
 476648	2Corinthians
@@ -251341,18 +256078,21 @@ Romans
 2Corinthians
 476653	2Corinthians
 2Corinthians
-2Corinthians
-2Corinthians
+476656	2Corinthians
 2Corinthians
 2Corinthians
 476661	2Corinthians
-476664	2Corinthians
+2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 476668	2Corinthians
 2Corinthians
 2Corinthians
+476672	2Corinthians
 476675	2Corinthians
-476678	2Corinthians
+476677	2Corinthians
+2Corinthians
 476680	2Corinthians
 2Corinthians
 476683	2Corinthians
@@ -251365,7 +256105,9 @@ Romans
 2Corinthians
 476696	2Corinthians
 2Corinthians
-476704	2Corinthians
+476702	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 476709	2Corinthians
@@ -251396,7 +256138,8 @@ Romans
 476743	2Corinthians
 476746	2Corinthians
 476749	2Corinthians
-476751	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 476754	2Corinthians
 2Corinthians
@@ -251407,85 +256150,88 @@ Romans
 2Corinthians
 2Corinthians
 2Corinthians
-476770	2Corinthians
+476769	2Corinthians
+2Corinthians
 476774	2Corinthians
 476777	2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
-476782	2Corinthians
+2Corinthians
+2Corinthians
 2Corinthians
 2Corinthians
 2Corinthians
 476787	2Corinthians
 2Corinthians
 2Corinthians
-476793	2Corinthians
-2Corinthians
+476794	2Corinthians
 476796	2Corinthians
 476799	2Corinthians
 476802	2Corinthians
 476809	2Corinthians
 476813	2Corinthians
 476820	Galatians
-Galatians
 476825	Galatians
 476827	Galatians
-476830	Galatians
 476832	Galatians
 476835	Galatians
 Galatians
 476838	Galatians
 476846	Galatians
-Galatians
-Galatians
-476850	Galatians
+476848	Galatians
 476853	Galatians
 476857	Galatians
-476859	Galatians
+Galatians
+Galatians
 476863	Galatians
 Galatians
 476869	Galatians
 Galatians
-476877	Galatians
-Galatians
+476874	Galatians
+476878	Galatians
 Galatians
 476885	Galatians
-476887	Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 476891	Galatians
 Galatians
+476896	Galatians
 476898	Galatians
 Galatians
 Galatians
 Galatians
-476903	Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 Galatians
 476910	Galatians
-476913	Galatians
 Galatians
 Galatians
 Galatians
 Galatians
+Galatians
+476917	Galatians
 476921	Galatians
 Galatians
 Galatians
-476925	Galatians
 Galatians
 Galatians
 Galatians
-476930	Galatians
+Galatians
+Galatians
+Galatians
+Galatians
 Galatians
 476933	Galatians
 Galatians
 Galatians
 Galatians
 Galatians
-Galatians
-Galatians
+476939	Galatians
 476941	Galatians
 Galatians
 Galatians
@@ -251516,10 +256262,12 @@ Galatians
 Galatians
 476998	Galatians
 477003	Galatians
-477005	Galatians
 Galatians
 Galatians
-477009	Galatians
+Galatians
+Galatians
+Galatians
+Galatians
 477013	Galatians
 Galatians
 477018	Galatians
@@ -251527,8 +256275,7 @@ Galatians
 Galatians
 477026	Galatians
 477028	Galatians
-Galatians
-Galatians
+477030	Galatians
 Galatians
 477038	Galatians
 477040	Galatians
@@ -251543,14 +256290,14 @@ Galatians
 477057	Galatians
 Galatians
 477063	Galatians
-477065	Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 Galatians
 Galatians
 477072	Galatians
 Galatians
-477077	Galatians
 477079	Galatians
 477081	Galatians
 Galatians
@@ -251558,6 +256305,7 @@ Galatians
 Galatians
 Galatians
 477095	Galatians
+Galatians
 Galatians
 Galatians
 Galatians
@@ -251571,7 +256319,8 @@ Galatians
 477116	Galatians
 Galatians
 Galatians
-477121	Galatians
+477120	Galatians
+Galatians
 477124	Galatians
 Galatians
 477127	Galatians
@@ -251586,8 +256335,11 @@ Galatians
 Galatians
 Galatians
 Galatians
+477146	Galatians
+Galatians
 477149	Galatians
 Galatians
+477152	Galatians
 477154	Galatians
 477157	Galatians
 Galatians
@@ -251595,11 +256347,14 @@ Galatians
 Galatians
 477163	Galatians
 477168	Galatians
-477170	Galatians
+Galatians
+Galatians
 477172	Galatians
 Galatians
 Galatians
-477177	Galatians
+Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 477182	Galatians
@@ -251608,7 +256363,8 @@ Galatians
 Galatians
 Galatians
 Galatians
-477190	Galatians
+477189	Galatians
+Galatians
 Galatians
 Galatians
 477196	Galatians
@@ -251627,19 +256383,21 @@ Galatians
 Galatians
 Galatians
 Galatians
-477223	Galatians
-Galatians
+477224	Galatians
 Galatians
 477227	Galatians
 477230	Galatians
 Galatians
 477234	Galatians
-477236	Galatians
+Galatians
+Galatians
 Galatians
 477239	Galatians
 Galatians
 477242	Galatians
-477245	Galatians
+Galatians
+Galatians
+Galatians
 Galatians
 477248	Galatians
 477250	Galatians
@@ -251657,16 +256415,19 @@ Galatians
 Galatians
 Galatians
 477272	Galatians
-477274	Galatians
+Galatians
+Galatians
 477278	Galatians
 Galatians
 477283	Galatians
-477285	Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 Galatians
 477293	Galatians
-477297	Galatians
+477296	Galatians
+Galatians
 Galatians
 Galatians
 477301	Galatians
@@ -251677,7 +256438,8 @@ Galatians
 Galatians
 Galatians
 477312	Galatians
-477314	Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 Galatians
@@ -251698,7 +256460,8 @@ Galatians
 477350	Galatians
 477352	Galatians
 Galatians
-477355	Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 Galatians
@@ -251716,19 +256479,22 @@ Galatians
 Galatians
 Galatians
 477382	Galatians
-477384	Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 477388	Galatians
 477392	Galatians
-477394	Galatians
+Galatians
+Galatians
 Galatians
 477397	Galatians
 Galatians
 Galatians
 477402	Galatians
 477405	Galatians
-477407	Galatians
+Galatians
+Galatians
 Galatians
 477411	Galatians
 477416	Galatians
@@ -251741,7 +256507,8 @@ Galatians
 Galatians
 Galatians
 Galatians
-477429	Galatians
+Galatians
+Galatians
 477431	Galatians
 Galatians
 477437	Galatians
@@ -251788,7 +256555,9 @@ Galatians
 Galatians
 Galatians
 Galatians
-477521	Galatians
+477519	Galatians
+Galatians
+Galatians
 477526	Galatians
 477528	Galatians
 Galatians
@@ -251806,9 +256575,9 @@ Galatians
 477559	Galatians
 Galatians
 Galatians
-Galatians
 477565	Galatians
-477570	Galatians
+477569	Galatians
+Galatians
 Galatians
 477573	Galatians
 477575	Galatians
@@ -251827,7 +256596,8 @@ Galatians
 477602	Galatians
 Galatians
 477605	Galatians
-477607	Galatians
+Galatians
+Galatians
 Galatians
 477611	Galatians
 477613	Galatians
@@ -251835,7 +256605,9 @@ Galatians
 477618	Galatians
 Galatians
 477621	Galatians
-477626	Galatians
+477625	Galatians
+Galatians
+Galatians
 477629	Galatians
 Galatians
 477634	Galatians
@@ -251847,7 +256619,8 @@ Galatians
 Galatians
 477648	Galatians
 Galatians
-477651	Galatians
+Galatians
+Galatians
 Galatians
 477654	Galatians
 Galatians
@@ -251879,39 +256652,41 @@ Galatians
 477708	Galatians
 Galatians
 Galatians
-477713	Galatians
+477712	Galatians
 Galatians
+477715	Galatians
 Galatians
+477718	Galatians
 Galatians
-Galatians
-Galatians
-Galatians
-Galatians
-Galatians
+477721	Galatians
 Galatians
 Galatians
 477727	Galatians
-477729	Galatians
 Galatians
 Galatians
-477733	Galatians
+Galatians
+Galatians
+Galatians
+Galatians
 477736	Galatians
 477738	Galatians
 Galatians
-477741	Galatians
+Galatians
+Galatians
 Galatians
 477746	Galatians
 477748	Galatians
 Galatians
-477751	Galatians
-Galatians
+477752	Galatians
 477757	Galatians
 477759	Galatians
 Galatians
 477766	Galatians
-477768	Galatians
 Galatians
-477774	Galatians
+Galatians
+Galatians
+477773	Galatians
+Galatians
 477778	Galatians
 477780	Galatians
 477782	Galatians
@@ -251919,7 +256694,8 @@ Galatians
 477786	Galatians
 Galatians
 477789	Galatians
-477791	Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 477802	Galatians
@@ -251942,6 +256718,7 @@ Galatians
 477825	Galatians
 Galatians
 Galatians
+477830	Galatians
 477833	Galatians
 Galatians
 Galatians
@@ -251954,11 +256731,15 @@ Galatians
 Galatians
 Galatians
 Galatians
-477851	Galatians
+477848	Galatians
 Galatians
 Galatians
 Galatians
-477856	Galatians
+Galatians
+Galatians
+Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 Galatians
@@ -252003,16 +256784,20 @@ Galatians
 Galatians
 477921	Galatians
 Galatians
+477924	Galatians
+Galatians
 477927	Galatians
 477929	Galatians
 477931	Galatians
-477933	Galatians
+Galatians
+Galatians
 477935	Galatians
 477937	Galatians
 Galatians
 477941	Galatians
 Galatians
-477945	Galatians
+477944	Galatians
+Galatians
 Galatians
 Galatians
 Galatians
@@ -252022,7 +256807,6 @@ Galatians
 Galatians
 Galatians
 Galatians
-477959	Galatians
 477963	Galatians
 477967	Galatians
 Galatians
@@ -252040,7 +256824,8 @@ Galatians
 477993	Galatians
 477995	Galatians
 Galatians
-477998	Galatians
+Galatians
+Galatians
 Galatians
 478004	Galatians
 Galatians
@@ -252051,7 +256836,9 @@ Galatians
 478017	Galatians
 478019	Galatians
 Galatians
-478023	Galatians
+Galatians
+Galatians
+Galatians
 Galatians
 478026	Galatians
 Galatians
@@ -252079,7 +256866,7 @@ Galatians
 Galatians
 478060	Galatians
 Galatians
-478064	Galatians
+478063	Galatians
 Galatians
 478067	Galatians
 478070	Galatians
@@ -252112,8 +256899,7 @@ Galatians
 478120	Galatians
 Galatians
 478125	Galatians
-Galatians
-Galatians
+478127	Galatians
 Galatians
 478130	Galatians
 478132	Galatians
@@ -252140,7 +256926,8 @@ Galatians
 Galatians
 Galatians
 Galatians
-478169	Galatians
+478168	Galatians
+Galatians
 Galatians
 Galatians
 Galatians
@@ -252151,7 +256938,8 @@ Galatians
 478184	Galatians
 478187	Galatians
 Galatians
-478196	Galatians
+478195	Galatians
+Galatians
 478199	Galatians
 Galatians
 Galatians
@@ -252180,13 +256968,16 @@ Galatians
 Galatians
 Galatians
 Galatians
-478239	Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 478243	Galatians
 Galatians
+Galatians
 478249	Galatians
-478251	Galatians
+Galatians
+Galatians
 Galatians
 478255	Galatians
 Galatians
@@ -252195,12 +256986,12 @@ Galatians
 Galatians
 Galatians
 Galatians
-478265	Galatians
+478264	Galatians
+Galatians
 Galatians
 478271	Galatians
 478274	Galatians
 Galatians
-478281	Galatians
 478283	Galatians
 478285	Galatians
 Galatians
@@ -252221,7 +257012,8 @@ Galatians
 478311	Galatians
 Galatians
 478316	Galatians
-478318	Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 Galatians
@@ -252263,13 +257055,15 @@ Galatians
 478382	Galatians
 Galatians
 Galatians
-478386	Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 Galatians
 478392	Galatians
 Galatians
-478399	Galatians
+478398	Galatians
+Galatians
 Galatians
 478404	Galatians
 Galatians
@@ -252281,7 +257075,8 @@ Galatians
 478416	Galatians
 478418	Galatians
 Galatians
-478421	Galatians
+Galatians
+Galatians
 Galatians
 Galatians
 Galatians
@@ -252294,52 +257089,50 @@ Galatians
 Galatians
 478443	Galatians
 Galatians
-478446	Galatians
-Galatians
+478447	Galatians
 478449	Galatians
 Galatians
 Galatians
-478454	Galatians
 478457	Galatians
 Galatians
-478464	Galatians
+478463	Galatians
+Galatians
 478466	Galatians
 Galatians
 478474	Galatians
 478484	Galatians
 Galatians
 Ephesians
-478494	Ephesians
 478496	Ephesians
 Ephesians
 478499	Ephesians
 478503	Ephesians
-Ephesians
-Ephesians
-478507	Ephesians
+478505	Ephesians
 478510	Ephesians
 478513	Ephesians
-478517	Ephesians
-Ephesians
+478518	Ephesians
 478523	Ephesians
-478525	Ephesians
+Ephesians
+Ephesians
 478532	Ephesians
 Ephesians
 478537	Ephesians
 478539	Ephesians
 478542	Ephesians
+478556	Ephesians
 478558	Ephesians
 478560	Ephesians
 Ephesians
 Ephesians
+478577	Ephesians
 478579	Ephesians
-478583	Ephesians
+478584	Ephesians
 Ephesians
-Ephesians
+478592	Ephesians
 478594	Ephesians
-478602	Ephesians
-478606	Ephesians
+478601	Ephesians
 Ephesians
+478606	Ephesians
 478611	Ephesians
 478616	Ephesians
 478618	Ephesians
@@ -252352,17 +257145,16 @@ Ephesians
 478640	Ephesians
 478643	Ephesians
 478652	Ephesians
+478654	Ephesians
 478660	Ephesians
 478671	Ephesians
 478673	Ephesians
-Ephesians
 478682	Ephesians
 478689	Ephesians
 478691	Ephesians
 478695	Ephesians
 Ephesians
-478708	Ephesians
-Ephesians
+478709	Ephesians
 478712	Ephesians
 478718	Ephesians
 Ephesians
@@ -252377,7 +257169,6 @@ Ephesians
 478760	Ephesians
 478762	Ephesians
 Ephesians
-478769	Ephesians
 478771	Ephesians
 Ephesians
 Ephesians
@@ -252391,19 +257182,19 @@ Ephesians
 Ephesians
 478794	Ephesians
 Ephesians
+478798	Ephesians
 478800	Ephesians
 478806	Ephesians
 Ephesians
 478810	Ephesians
 Ephesians
 Ephesians
-478814	Ephesians
 478816	Ephesians
 478833	Ephesians
 Ephesians
-478840	Ephesians
+478839	Ephesians
+Ephesians
 478849	Ephesians
-478852	Ephesians
 478854	Ephesians
 478856	Ephesians
 Ephesians
@@ -252411,13 +257202,16 @@ Ephesians
 Ephesians
 478863	Ephesians
 Ephesians
-478866	Ephesians
+Ephesians
+Ephesians
 478868	Ephesians
+478872	Ephesians
 478875	Ephesians
 Ephesians
 478879	Ephesians
 478881	Ephesians
-478883	Ephesians
+Ephesians
+Ephesians
 Ephesians
 Ephesians
 Ephesians
@@ -252429,19 +257223,23 @@ Ephesians
 478911	Ephesians
 Ephesians
 478916	Ephesians
-478918	Ephesians
+Ephesians
+Ephesians
 478920	Ephesians
-478924	Ephesians
+478923	Ephesians
+Ephesians
 478926	Ephesians
 Ephesians
 Ephesians
 Ephesians
 478931	Ephesians
+478935	Ephesians
 478937	Ephesians
 Ephesians
 478940	Ephesians
 478942	Ephesians
-478944	Ephesians
+Ephesians
+Ephesians
 Ephesians
 Ephesians
 Ephesians
@@ -252463,7 +257261,8 @@ Ephesians
 478993	Ephesians
 Ephesians
 478998	Ephesians
-479000	Ephesians
+Ephesians
+Ephesians
 479002	Ephesians
 Ephesians
 479012	Ephesians
@@ -252474,7 +257273,8 @@ Ephesians
 Ephesians
 479035	Ephesians
 479038	Ephesians
-479040	Ephesians
+Ephesians
+Ephesians
 Ephesians
 Ephesians
 479045	Ephesians
@@ -252485,21 +257285,21 @@ Ephesians
 Ephesians
 Ephesians
 479061	Ephesians
-Ephesians
-Ephesians
-Ephesians
+479063	Ephesians
 Ephesians
 479068	Ephesians
 479071	Ephesians
-479076	Ephesians
+479077	Ephesians
 Ephesians
 Ephesians
 479082	Ephesians
 479085	Ephesians
-479090	Ephesians
+479089	Ephesians
+Ephesians
 479097	Ephesians
 Ephesians
-479110	Ephesians
+479109	Ephesians
+Ephesians
 Ephesians
 Ephesians
 479119	Ephesians
@@ -252511,10 +257311,10 @@ Ephesians
 479129	Ephesians
 479131	Ephesians
 Ephesians
+479137	Ephesians
 479141	Ephesians
 Ephesians
 479147	Ephesians
-479149	Ephesians
 479152	Ephesians
 479154	Ephesians
 479157	Ephesians
@@ -252533,17 +257333,19 @@ Ephesians
 Ephesians
 479212	Ephesians
 Ephesians
-479215	Ephesians
 479217	Ephesians
+479228	Ephesians
 479231	Ephesians
+479233	Ephesians
 479239	Ephesians
-479242	Ephesians
-Ephesians
+479243	Ephesians
 479248	Ephesians
 Ephesians
 Ephesians
+479252	Ephesians
 479257	Ephesians
 479259	Ephesians
+479264	Ephesians
 479266	Ephesians
 479270	Ephesians
 479272	Ephesians
@@ -252568,7 +257370,8 @@ Ephesians
 Ephesians
 479327	Ephesians
 Ephesians
-479330	Ephesians
+Ephesians
+Ephesians
 Ephesians
 Ephesians
 479335	Ephesians
@@ -252580,20 +257383,19 @@ Ephesians
 Ephesians
 Ephesians
 479365	Ephesians
-479368	Ephesians
+479367	Ephesians
 Ephesians
-479372	Ephesians
 Ephesians
+479373	Ephesians
 479376	Ephesians
 Ephesians
-479386	Ephesians
+479385	Ephesians
 Ephesians
 479389	Ephesians
 479391	Ephesians
 Ephesians
 479398	Ephesians
-479405	Ephesians
-Ephesians
+479406	Ephesians
 479409	Ephesians
 479411	Ephesians
 479413	Ephesians
@@ -252601,7 +257403,8 @@ Ephesians
 Ephesians
 479426	Ephesians
 Ephesians
-479429	Ephesians
+Ephesians
+Ephesians
 Ephesians
 479432	Ephesians
 479434	Ephesians
@@ -252625,11 +257428,9 @@ Ephesians
 479465	Ephesians
 479467	Ephesians
 479469	Ephesians
-479471	Ephesians
-Ephesians
+479472	Ephesians
 479486	Ephesians
 Ephesians
-479493	Ephesians
 479495	Ephesians
 479509	Ephesians
 479511	Ephesians
@@ -252638,6 +257439,8 @@ Ephesians
 479530	Ephesians
 Ephesians
 Ephesians
+479535	Ephesians
+479537	Ephesians
 479539	Ephesians
 479541	Ephesians
 479545	Ephesians
@@ -252647,17 +257450,20 @@ Ephesians
 Ephesians
 Ephesians
 Ephesians
-479572	Ephesians
+479571	Ephesians
+Ephesians
 Ephesians
 Ephesians
 479580	Ephesians
 479583	Ephesians
 479590	Ephesians
 Ephesians
-479599	Ephesians
+479598	Ephesians
+Ephesians
 Ephesians
 479607	Ephesians
-479609	Ephesians
+Ephesians
+Ephesians
 479611	Ephesians
 Ephesians
 Ephesians
@@ -252675,8 +257481,7 @@ Ephesians
 Ephesians
 479647	Ephesians
 Ephesians
-479652	Ephesians
-Ephesians
+479653	Ephesians
 479655	Ephesians
 Ephesians
 Ephesians
@@ -252686,14 +257491,16 @@ Ephesians
 Ephesians
 Ephesians
 Ephesians
-479670	Ephesians
+Ephesians
+Ephesians
 479674	Ephesians
 479676	Ephesians
 Ephesians
 Ephesians
 Ephesians
 Ephesians
-479682	Ephesians
+Ephesians
+Ephesians
 Ephesians
 479687	Ephesians
 Ephesians
@@ -252703,9 +257510,11 @@ Ephesians
 Ephesians
 Ephesians
 479699	Ephesians
-479701	Ephesians
+Ephesians
+Ephesians
 Ephesians
 479706	Ephesians
+Ephesians
 Ephesians
 Ephesians
 Ephesians
@@ -252734,8 +257543,7 @@ Ephesians
 479755	Ephesians
 479758	Ephesians
 Ephesians
-479763	Ephesians
-Ephesians
+479764	Ephesians
 479768	Ephesians
 Ephesians
 479771	Ephesians
@@ -252745,7 +257553,9 @@ Ephesians
 Ephesians
 Ephesians
 Ephesians
-479782	Ephesians
+Ephesians
+Ephesians
+Ephesians
 Ephesians
 Ephesians
 Ephesians
@@ -252760,8 +257570,7 @@ Ephesians
 Ephesians
 Ephesians
 Ephesians
-479803	Ephesians
-Ephesians
+479804	Ephesians
 Ephesians
 479807	Ephesians
 Ephesians
@@ -252784,7 +257593,8 @@ Ephesians
 Ephesians
 Ephesians
 479844	Ephesians
-479846	Ephesians
+Ephesians
+Ephesians
 Ephesians
 479853	Ephesians
 Ephesians
@@ -252812,7 +257622,8 @@ Ephesians
 Ephesians
 479886	Ephesians
 Ephesians
-479889	Ephesians
+Ephesians
+Ephesians
 479891	Ephesians
 Ephesians
 Ephesians
@@ -252827,16 +257638,17 @@ Ephesians
 Ephesians
 479909	Ephesians
 479911	Ephesians
-479913	Ephesians
+Ephesians
+Ephesians
 479915	Ephesians
-479918	Ephesians
+479917	Ephesians
+Ephesians
 479920	Ephesians
 Ephesians
 479923	Ephesians
 479925	Ephesians
 479929	Ephesians
-479938	Ephesians
-Ephesians
+479939	Ephesians
 Ephesians
 479943	Ephesians
 Ephesians
@@ -252845,7 +257657,8 @@ Ephesians
 479951	Ephesians
 Ephesians
 479955	Ephesians
-479957	Ephesians
+Ephesians
+Ephesians
 479962	Ephesians
 479965	Ephesians
 Ephesians
@@ -252857,7 +257670,8 @@ Ephesians
 479980	Ephesians
 479982	Ephesians
 479986	Ephesians
-479988	Ephesians
+Ephesians
+Ephesians
 479990	Ephesians
 Ephesians
 Ephesians
@@ -252874,7 +257688,8 @@ Ephesians
 480016	Ephesians
 480019	Ephesians
 Ephesians
-480024	Ephesians
+480023	Ephesians
+Ephesians
 Ephesians
 Ephesians
 480029	Ephesians
@@ -252888,7 +257703,6 @@ Ephesians
 Ephesians
 480048	Ephesians
 480050	Ephesians
-480052	Ephesians
 480054	Ephesians
 480056	Ephesians
 Ephesians
@@ -252908,11 +257722,12 @@ Ephesians
 Ephesians
 480091	Ephesians
 Ephesians
-480095	Ephesians
+480094	Ephesians
+Ephesians
 Ephesians
 480101	Ephesians
 Ephesians
-480104	Ephesians
+Ephesians
 Ephesians
 Ephesians
 480109	Ephesians
@@ -252925,19 +257740,20 @@ Ephesians
 Ephesians
 480126	Ephesians
 480129	Ephesians
-480132	Ephesians
+480133	Ephesians
 Ephesians
 Ephesians
+480137	Ephesians
 Ephesians
-480138	Ephesians
-480143	Ephesians
-Ephesians
+480144	Ephesians
 480149	Ephesians
 Ephesians
-480154	Ephesians
+480153	Ephesians
+Ephesians
 480156	Ephesians
 Ephesians
-480159	Ephesians
+Ephesians
+Ephesians
 Ephesians
 480162	Ephesians
 Ephesians
@@ -252978,8 +257794,7 @@ Ephesians
 Ephesians
 480232	Ephesians
 Ephesians
-480238	Ephesians
-Ephesians
+480239	Ephesians
 480257	Ephesians
 480262	Ephesians
 Ephesians
@@ -252995,38 +257810,40 @@ Ephesians
 480285	Ephesians
 Ephesians
 480293	Ephesians
+480295	Ephesians
 480299	Ephesians
 480301	Ephesians
 480307	Ephesians
 Ephesians
 Ephesians
 Ephesians
-480312	Ephesians
+Ephesians
 480316	Ephesians
 480320	Ephesians
 480323	Ephesians
-480326	Ephesians
-Ephesians
+480327	Ephesians
 480331	Ephesians
 Ephesians
-480336	Ephesians
-Ephesians
+480337	Ephesians
 480342	Ephesians
 480344	Ephesians
 Ephesians
 480350	Ephesians
-480356	Ephesians
+480355	Ephesians
+Ephesians
 480359	Ephesians
 Ephesians
 480362	Ephesians
 Ephesians
 Ephesians
 Ephesians
-480367	Ephesians
 Ephesians
+Ephesians
+Ephesians
+480370	Ephesians
 480373	Ephesians
 Ephesians
-480378	Ephesians
+Ephesians
 480380	Ephesians
 480384	Ephesians
 Ephesians
@@ -253034,24 +257851,18 @@ Ephesians
 480393	Ephesians
 Ephesians
 480397	Ephesians
-Ephesians
 480400	Ephesians
-480403	Ephesians
 480405	Ephesians
 480408	Ephesians
 480412	Ephesians
 Ephesians
 480419	Philippians
-480421	Philippians
-Philippians
+480422	Philippians
 480431	Philippians
 Philippians
-480435	Philippians
+480436	Philippians
 Philippians
-Philippians
-Philippians
-Philippians
-480441	Philippians
+480439	Philippians
 480444	Philippians
 480447	Philippians
 480454	Philippians
@@ -253066,8 +257877,7 @@ Philippians
 Philippians
 480498	Philippians
 480502	Philippians
-480506	Philippians
-Philippians
+480507	Philippians
 480509	Philippians
 480514	Philippians
 Philippians
@@ -253078,8 +257888,7 @@ Philippians
 Philippians
 Philippians
 480531	Philippians
-480533	Philippians
-Philippians
+480534	Philippians
 480537	Philippians
 Philippians
 Philippians
@@ -253088,8 +257897,7 @@ Philippians
 Philippians
 480544	Philippians
 480547	Philippians
-480555	Philippians
-Philippians
+480556	Philippians
 Philippians
 Philippians
 Philippians
@@ -253098,7 +257906,6 @@ Philippians
 Philippians
 480568	Philippians
 480570	Philippians
-480575	Philippians
 480578	Philippians
 480581	Philippians
 Philippians
@@ -253107,8 +257914,7 @@ Philippians
 480594	Philippians
 Philippians
 Philippians
-480599	Philippians
-Philippians
+480600	Philippians
 Philippians
 Philippians
 480606	Philippians
@@ -253133,14 +257939,14 @@ Philippians
 Philippians
 Philippians
 480638	Philippians
-480640	Philippians
 Philippians
 Philippians
 Philippians
 Philippians
-480647	Philippians
+Philippians
+Philippians
 480650	Philippians
-480659	Philippians
+480660	Philippians
 Philippians
 480663	Philippians
 480665	Philippians
@@ -253166,10 +257972,12 @@ Philippians
 Philippians
 Philippians
 Philippians
-480700	Philippians
+Philippians
+Philippians
 480703	Philippians
 480706	Philippians
-480708	Philippians
+Philippians
+Philippians
 Philippians
 Philippians
 480712	Philippians
@@ -253184,11 +257992,11 @@ Philippians
 Philippians
 Philippians
 480726	Philippians
-480729	Philippians
 480732	Philippians
 480735	Philippians
 Philippians
-480749	Philippians
+480748	Philippians
+Philippians
 480753	Philippians
 Philippians
 480756	Philippians
@@ -253204,7 +258012,9 @@ Philippians
 Philippians
 480779	Philippians
 Philippians
-480783	Philippians
+Philippians
+Philippians
+Philippians
 480785	Philippians
 Philippians
 480788	Philippians
@@ -253216,11 +258026,15 @@ Philippians
 480802	Philippians
 Philippians
 480805	Philippians
-480810	Philippians
+Philippians
+480809	Philippians
+Philippians
 480812	Philippians
 Philippians
 480815	Philippians
-480818	Philippians
+Philippians
+Philippians
+Philippians
 Philippians
 480822	Philippians
 Philippians
@@ -253228,11 +258042,11 @@ Philippians
 Philippians
 480830	Philippians
 Philippians
-480833	Philippians
+480834	Philippians
 Philippians
 Philippians
+480839	Philippians
 Philippians
-480840	Philippians
 480842	Philippians
 480845	Philippians
 480847	Philippians
@@ -253246,7 +258060,8 @@ Philippians
 480863	Philippians
 Philippians
 480866	Philippians
-480870	Philippians
+480869	Philippians
+Philippians
 Philippians
 480874	Philippians
 Philippians
@@ -253260,10 +258075,10 @@ Philippians
 Philippians
 Philippians
 Philippians
-480890	Philippians
-Philippians
+480891	Philippians
 480893	Philippians
-480895	Philippians
+Philippians
+Philippians
 Philippians
 480899	Philippians
 Philippians
@@ -253284,8 +258099,7 @@ Philippians
 Philippians
 480934	Philippians
 480938	Philippians
-480944	Philippians
-Philippians
+480945	Philippians
 480948	Philippians
 Philippians
 Philippians
@@ -253297,12 +258111,12 @@ Philippians
 Philippians
 Philippians
 480962	Philippians
-480964	Philippians
-Philippians
+480965	Philippians
 Philippians
 Philippians
 480969	Philippians
 Philippians
+480974	Philippians
 480976	Philippians
 Philippians
 Philippians
@@ -253314,10 +258128,10 @@ Philippians
 480992	Philippians
 480994	Philippians
 480996	Philippians
-480998	Philippians
 Philippians
-481003	Philippians
 Philippians
+Philippians
+481004	Philippians
 481007	Philippians
 Philippians
 Philippians
@@ -253334,15 +258148,18 @@ Philippians
 Philippians
 Philippians
 481029	Philippians
-481031	Philippians
+Philippians
+Philippians
 481033	Philippians
 481036	Philippians
-481038	Philippians
+Philippians
+Philippians
 481041	Philippians
 481044	Philippians
 Philippians
 481048	Philippians
-481050	Philippians
+Philippians
+Philippians
 Philippians
 Philippians
 481056	Philippians
@@ -253368,7 +258185,8 @@ Philippians
 481089	Philippians
 481091	Philippians
 481094	Philippians
-481096	Philippians
+Philippians
+Philippians
 Philippians
 Philippians
 Philippians
@@ -253377,18 +258195,19 @@ Philippians
 Philippians
 481104	Philippians
 Philippians
-481107	Philippians
-Philippians
+481108	Philippians
 481112	Philippians
 Philippians
 481115	Philippians
 Philippians
 Philippians
-481119	Philippians
 Philippians
 Philippians
 Philippians
-481124	Philippians
+Philippians
+Philippians
+Philippians
+Philippians
 Philippians
 481129	Philippians
 Philippians
@@ -253405,24 +258224,28 @@ Philippians
 Philippians
 Philippians
 Philippians
-481162	Philippians
+Philippians
+Philippians
 481164	Philippians
 481167	Philippians
 481169	Philippians
 Philippians
 481173	Philippians
-481175	Philippians
+Philippians
+Philippians
 481177	Philippians
 Philippians
 481181	Philippians
 Philippians
 481184	Philippians
 Philippians
-481189	Philippians
+481188	Philippians
+Philippians
 Philippians
 481192	Philippians
 481194	Philippians
-481196	Philippians
+Philippians
+Philippians
 Philippians
 481200	Philippians
 481202	Philippians
@@ -253437,11 +258260,14 @@ Philippians
 Philippians
 Philippians
 Philippians
-481226	Philippians
+Philippians
+Philippians
 Philippians
 481230	Philippians
 Philippians
-481240	Philippians
+481234	Philippians
+481239	Philippians
+Philippians
 481243	Philippians
 Philippians
 Philippians
@@ -253470,7 +258296,8 @@ Philippians
 Philippians
 Philippians
 Philippians
-481307	Philippians
+Philippians
+Philippians
 Philippians
 481310	Philippians
 Philippians
@@ -253480,7 +258307,8 @@ Philippians
 Philippians
 Philippians
 Philippians
-481332	Philippians
+Philippians
+Philippians
 Philippians
 Philippians
 481337	Philippians
@@ -253493,11 +258321,13 @@ Philippians
 Philippians
 Philippians
 Philippians
-481351	Philippians
 Philippians
 Philippians
 Philippians
-481356	Philippians
+Philippians
+Philippians
+Philippians
+Philippians
 Philippians
 Philippians
 Philippians
@@ -253505,7 +258335,8 @@ Philippians
 Philippians
 Philippians
 481368	Philippians
-481372	Philippians
+481371	Philippians
+Philippians
 481376	Philippians
 Philippians
 481382	Philippians
@@ -253514,6 +258345,7 @@ Philippians
 481386	Philippians
 Philippians
 481391	Philippians
+481393	Philippians
 481397	Philippians
 481410	Philippians
 Philippians
@@ -253523,10 +258355,10 @@ Philippians
 Philippians
 481420	Philippians
 Philippians
-481423	Philippians
-Philippians
+481424	Philippians
 481426	Philippians
-481428	Philippians
+Philippians
+Philippians
 Philippians
 Philippians
 Philippians
@@ -253536,10 +258368,12 @@ Philippians
 Philippians
 481439	Philippians
 481441	Philippians
-481443	Philippians
+Philippians
+Philippians
 481447	Philippians
 Philippians
 Philippians
+481452	Philippians
 481454	Philippians
 481459	Philippians
 481461	Philippians
@@ -253550,16 +258384,15 @@ Philippians
 Philippians
 Philippians
 Philippians
-481474	Philippians
 481476	Philippians
 481483	Philippians
 Philippians
 481489	Philippians
 Philippians
-481492	Philippians
 481495	Philippians
 481500	Philippians
 481502	Philippians
+Philippians
 Philippians
 481506	Philippians
 Philippians
@@ -253588,7 +258421,8 @@ Philippians
 Philippians
 Philippians
 Philippians
-481542	Philippians
+481541	Philippians
+Philippians
 481544	Philippians
 Philippians
 Philippians
@@ -253604,7 +258438,8 @@ Philippians
 Philippians
 Philippians
 481562	Philippians
-481565	Philippians
+481564	Philippians
+Philippians
 Philippians
 Philippians
 Philippians
@@ -253625,11 +258460,11 @@ Philippians
 Philippians
 481588	Philippians
 Philippians
-481591	Philippians
+Philippians
+Philippians
 481595	Philippians
 Philippians
-481601	Philippians
-Philippians
+481602	Philippians
 Philippians
 Philippians
 481606	Philippians
@@ -253652,8 +258487,7 @@ Philippians
 Philippians
 481657	Philippians
 Philippians
-481661	Philippians
-Philippians
+481662	Philippians
 481668	Philippians
 Philippians
 481673	Philippians
@@ -253663,35 +258497,37 @@ Philippians
 Philippians
 481687	Philippians
 481696	Colossians
-Colossians
 481704	Colossians
 481712	Colossians
 Colossians
 481715	Colossians
-Colossians
-Colossians
+481717	Colossians
 481721	Colossians
 481729	Colossians
 481731	Colossians
-Colossians
 481738	Colossians
-481741	Colossians
+481740	Colossians
+Colossians
+481746	Colossians
 481749	Colossians
 Colossians
 481753	Colossians
 481761	Colossians
 Colossians
 481764	Colossians
-481766	Colossians
+Colossians
+Colossians
 481772	Colossians
 Colossians
 Colossians
 Colossians
+481779	Colossians
 481781	Colossians
 481783	Colossians
 Colossians
 481789	Colossians
 Colossians
+481792	Colossians
 481797	Colossians
 481804	Colossians
 Colossians
@@ -253701,27 +258537,29 @@ Colossians
 481819	Colossians
 Colossians
 Colossians
-481828	Colossians
-Colossians
+481829	Colossians
 481831	Colossians
+481835	Colossians
 481837	Colossians
 481841	Colossians
 Colossians
 481846	Colossians
-481856	Colossians
+481857	Colossians
 Colossians
-Colossians
+481860	Colossians
 481863	Colossians
 Colossians
-481874	Colossians
+481873	Colossians
+Colossians
 481879	Colossians
+Colossians
+481884	Colossians
 Colossians
 481890	Colossians
 481897	Colossians
 Colossians
 481906	Colossians
 481914	Colossians
-481918	Colossians
 481920	Colossians
 481923	Colossians
 Colossians
@@ -253746,7 +258584,8 @@ Colossians
 481960	Colossians
 481962	Colossians
 481966	Colossians
-481968	Colossians
+Colossians
+Colossians
 481972	Colossians
 481978	Colossians
 481981	Colossians
@@ -253769,7 +258608,9 @@ Colossians
 Colossians
 Colossians
 Colossians
-482031	Colossians
+482027	Colossians
+482030	Colossians
+Colossians
 Colossians
 Colossians
 482040	Colossians
@@ -253777,7 +258618,9 @@ Colossians
 Colossians
 482048	Colossians
 Colossians
+482059	Colossians
 482062	Colossians
+Colossians
 482065	Colossians
 482072	Colossians
 Colossians
@@ -253786,6 +258629,7 @@ Colossians
 Colossians
 482087	Colossians
 482090	Colossians
+Colossians
 Colossians
 482095	Colossians
 482097	Colossians
@@ -253815,24 +258659,25 @@ Colossians
 Colossians
 482158	Colossians
 482161	Colossians
-482175	Colossians
-482181	Colossians
+482174	Colossians
 Colossians
+482182	Colossians
 Colossians
 Colossians
 Colossians
 482187	Colossians
-482189	Colossians
+Colossians
+Colossians
 Colossians
 482193	Colossians
 Colossians
 482198	Colossians
 Colossians
 Colossians
-Colossians
 482204	Colossians
 482211	Colossians
-482213	Colossians
+Colossians
+Colossians
 Colossians
 482218	Colossians
 482221	Colossians
@@ -253842,23 +258687,26 @@ Colossians
 482228	Colossians
 Colossians
 Colossians
-482234	Colossians
+482232	Colossians
 Colossians
 Colossians
 Colossians
 Colossians
-482241	Colossians
 Colossians
+Colossians
+482242	Colossians
 482253	Colossians
 482256	Colossians
 482258	Colossians
 482264	Colossians
 Colossians
-482270	Colossians
-482274	Colossians
+482268	Colossians
 Colossians
+Colossians
+482275	Colossians
 Colossians
 482290	Colossians
+482292	Colossians
 482294	Colossians
 482303	Colossians
 Colossians
@@ -253866,16 +258714,15 @@ Colossians
 Colossians
 Colossians
 Colossians
-Colossians
 482312	Colossians
 482318	Colossians
 482321	Colossians
+Colossians
 482328	Colossians
 482330	Colossians
 Colossians
 482334	Colossians
 482336	Colossians
-Colossians
 Colossians
 482340	Colossians
 482343	Colossians
@@ -253883,29 +258730,33 @@ Colossians
 Colossians
 482349	Colossians
 482351	Colossians
-482355	Colossians
+482354	Colossians
 Colossians
 Colossians
-482359	Colossians
+Colossians
+Colossians
+Colossians
 482361	Colossians
 Colossians
 Colossians
 Colossians
 482367	Colossians
-482369	Colossians
-482371	Colossians
 Colossians
+Colossians
+482372	Colossians
 482375	Colossians
 Colossians
 482378	Colossians
 482384	Colossians
 Colossians
+Colossians
 482388	Colossians
 482392	Colossians
-482395	Colossians
-Colossians
+482396	Colossians
 482398	Colossians
-482404	Colossians
+482402	Colossians
+Colossians
+Colossians
 Colossians
 482411	Colossians
 Colossians
@@ -253914,8 +258765,7 @@ Colossians
 Colossians
 482418	Colossians
 Colossians
-482427	Colossians
-Colossians
+482428	Colossians
 482430	Colossians
 Colossians
 Colossians
@@ -253940,9 +258790,11 @@ Colossians
 Colossians
 482484	Colossians
 Colossians
-482493	Colossians
+482492	Colossians
+Colossians
 482495	Colossians
-482498	Colossians
+482497	Colossians
+Colossians
 Colossians
 482505	Colossians
 Colossians
@@ -253959,10 +258811,8 @@ Colossians
 Colossians
 Colossians
 482541	Colossians
-482543	Colossians
-Colossians
-Colossians
-Colossians
+482544	Colossians
+482546	Colossians
 482549	Colossians
 482551	Colossians
 Colossians
@@ -253982,7 +258832,8 @@ Colossians
 Colossians
 482579	Colossians
 Colossians
-482585	Colossians
+482584	Colossians
+Colossians
 482588	Colossians
 Colossians
 Colossians
@@ -253994,7 +258845,10 @@ Colossians
 482614	Colossians
 482621	Colossians
 Colossians
-482627	Colossians
+Colossians
+482625	Colossians
+Colossians
+Colossians
 482630	Colossians
 482635	Colossians
 482639	Colossians
@@ -254006,7 +258860,8 @@ Colossians
 482649	Colossians
 482651	Colossians
 Colossians
-482655	Colossians
+482654	Colossians
+Colossians
 Colossians
 482660	Colossians
 Colossians
@@ -254022,8 +258877,8 @@ Colossians
 Colossians
 482685	Colossians
 482687	Colossians
-482689	Colossians
-482692	Colossians
+Colossians
+Colossians
 482694	Colossians
 482696	Colossians
 Colossians
@@ -254039,17 +258894,18 @@ Colossians
 Colossians
 Colossians
 Colossians
-482717	Colossians
 482719	Colossians
 482722	Colossians
 Colossians
 Colossians
 482727	Colossians
 482729	Colossians
-482733	Colossians
+482732	Colossians
+Colossians
 482736	Colossians
 Colossians
 482741	Colossians
+Colossians
 482746	Colossians
 482748	Colossians
 Colossians
@@ -254064,6 +258920,7 @@ Colossians
 Colossians
 Colossians
 482768	Colossians
+482772	Colossians
 482776	Colossians
 482778	Colossians
 482780	Colossians
@@ -254072,6 +258929,7 @@ Colossians
 482788	Colossians
 482791	Colossians
 Colossians
+482796	Colossians
 482800	Colossians
 Colossians
 Colossians
@@ -254079,6 +258937,7 @@ Colossians
 482807	Colossians
 482809	Colossians
 482813	Colossians
+Colossians
 482818	Colossians
 Colossians
 482821	Colossians
@@ -254105,15 +258964,16 @@ Colossians
 Colossians
 482869	Colossians
 482872	Colossians
-Colossians
 482878	Colossians
 Colossians
 482884	Colossians
 Colossians
 482890	Colossians
-482892	Colossians
 Colossians
-482897	Colossians
+Colossians
+Colossians
+482896	Colossians
+Colossians
 Colossians
 Colossians
 Colossians
@@ -254122,8 +258982,10 @@ Colossians
 Colossians
 482911	Colossians
 Colossians
-482914	Colossians
-482917	Colossians
+Colossians
+Colossians
+482916	Colossians
+Colossians
 482919	Colossians
 Colossians
 Colossians
@@ -254132,18 +258994,16 @@ Colossians
 482932	1Thessalonians
 482934	1Thessalonians
 1Thessalonians
-482940	1Thessalonians
 482942	1Thessalonians
 482945	1Thessalonians
+482947	1Thessalonians
 1Thessalonians
 1Thessalonians
-482949	1Thessalonians
 482953	1Thessalonians
 482957	1Thessalonians
 482963	1Thessalonians
 482967	1Thessalonians
-482979	1Thessalonians
-1Thessalonians
+482980	1Thessalonians
 1Thessalonians
 1Thessalonians
 482984	1Thessalonians
@@ -254151,15 +259011,13 @@ Colossians
 1Thessalonians
 482998	1Thessalonians
 483000	1Thessalonians
-483002	1Thessalonians
 483004	1Thessalonians
 483006	1Thessalonians
 1Thessalonians
 1Thessalonians
 483011	1Thessalonians
 1Thessalonians
-483014	1Thessalonians
-1Thessalonians
+483015	1Thessalonians
 483017	1Thessalonians
 483024	1Thessalonians
 1Thessalonians
@@ -254169,7 +259027,6 @@ Colossians
 483036	1Thessalonians
 1Thessalonians
 1Thessalonians
-483044	1Thessalonians
 483046	1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -254187,6 +259044,7 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
+483083	1Thessalonians
 483087	1Thessalonians
 483091	1Thessalonians
 1Thessalonians
@@ -254209,7 +259067,8 @@ Colossians
 483133	1Thessalonians
 483135	1Thessalonians
 483137	1Thessalonians
-483139	1Thessalonians
+1Thessalonians
+1Thessalonians
 1Thessalonians
 483143	1Thessalonians
 483145	1Thessalonians
@@ -254222,7 +259081,8 @@ Colossians
 483160	1Thessalonians
 1Thessalonians
 1Thessalonians
-483164	1Thessalonians
+1Thessalonians
+1Thessalonians
 483167	1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -254233,7 +259093,9 @@ Colossians
 483179	1Thessalonians
 1Thessalonians
 483182	1Thessalonians
-483187	1Thessalonians
+483185	1Thessalonians
+1Thessalonians
+1Thessalonians
 1Thessalonians
 1Thessalonians
 483192	1Thessalonians
@@ -254244,17 +259106,15 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
-1Thessalonians
 483211	1Thessalonians
 483213	1Thessalonians
 1Thessalonians
-1Thessalonians
-1Thessalonians
+483216	1Thessalonians
 483218	1Thessalonians
 1Thessalonians
-483226	1Thessalonians
+483225	1Thessalonians
 1Thessalonians
-1Thessalonians
+483228	1Thessalonians
 483230	1Thessalonians
 483232	1Thessalonians
 1Thessalonians
@@ -254274,14 +259134,15 @@ Colossians
 1Thessalonians
 483256	1Thessalonians
 1Thessalonians
-483261	1Thessalonians
-1Thessalonians
+483262	1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
 483269	1Thessalonians
 1Thessalonians
-483280	1Thessalonians
+483278	1Thessalonians
+1Thessalonians
+1Thessalonians
 1Thessalonians
 483283	1Thessalonians
 483286	1Thessalonians
@@ -254293,11 +259154,13 @@ Colossians
 483297	1Thessalonians
 1Thessalonians
 483303	1Thessalonians
-483305	1Thessalonians
+1Thessalonians
+1Thessalonians
 483311	1Thessalonians
 1Thessalonians
 483317	1Thessalonians
-483319	1Thessalonians
+1Thessalonians
+1Thessalonians
 483321	1Thessalonians
 483324	1Thessalonians
 483326	1Thessalonians
@@ -254305,7 +259168,8 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
-483332	1Thessalonians
+1Thessalonians
+1Thessalonians
 483334	1Thessalonians
 1Thessalonians
 483337	1Thessalonians
@@ -254340,7 +259204,6 @@ Colossians
 1Thessalonians
 483396	1Thessalonians
 1Thessalonians
-1Thessalonians
 483401	1Thessalonians
 483403	1Thessalonians
 1Thessalonians
@@ -254349,7 +259212,6 @@ Colossians
 1Thessalonians
 483409	1Thessalonians
 1Thessalonians
-483412	1Thessalonians
 483415	1Thessalonians
 483425	1Thessalonians
 1Thessalonians
@@ -254361,10 +259223,12 @@ Colossians
 1Thessalonians
 1Thessalonians
 483442	1Thessalonians
-483444	1Thessalonians
 1Thessalonians
 1Thessalonians
-483449	1Thessalonians
+1Thessalonians
+1Thessalonians
+483448	1Thessalonians
+1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -254387,21 +259251,23 @@ Colossians
 1Thessalonians
 1Thessalonians
 483478	1Thessalonians
-483481	1Thessalonians
+1Thessalonians
+1Thessalonians
+1Thessalonians
 1Thessalonians
 483485	1Thessalonians
 1Thessalonians
 483489	1Thessalonians
 483492	1Thessalonians
-483494	1Thessalonians
+1Thessalonians
+1Thessalonians
 483497	1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
 483502	1Thessalonians
 483504	1Thessalonians
-483510	1Thessalonians
-1Thessalonians
+483511	1Thessalonians
 483515	1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -254409,19 +259275,18 @@ Colossians
 483520	1Thessalonians
 1Thessalonians
 1Thessalonians
-483530	1Thessalonians
+483529	1Thessalonians
+1Thessalonians
 483535	1Thessalonians
-1Thessalonians
-1Thessalonians
+483537	1Thessalonians
 483539	1Thessalonians
-483541	1Thessalonians
+1Thessalonians
+1Thessalonians
 483544	1Thessalonians
 1Thessalonians
 483550	1Thessalonians
 1Thessalonians
-1Thessalonians
-483556	1Thessalonians
-1Thessalonians
+483557	1Thessalonians
 1Thessalonians
 483565	1Thessalonians
 1Thessalonians
@@ -254432,8 +259297,7 @@ Colossians
 1Thessalonians
 483581	1Thessalonians
 1Thessalonians
-483589	1Thessalonians
-1Thessalonians
+483590	1Thessalonians
 483602	1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -254444,7 +259308,8 @@ Colossians
 1Thessalonians
 483614	1Thessalonians
 1Thessalonians
-483617	1Thessalonians
+1Thessalonians
+1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -254454,14 +259319,19 @@ Colossians
 1Thessalonians
 1Thessalonians
 483630	1Thessalonians
-483632	1Thessalonians
-483635	1Thessalonians
-483641	1Thessalonians
-483644	1Thessalonians
-483647	1Thessalonians
-483651	1Thessalonians
 1Thessalonians
-483654	1Thessalonians
+1Thessalonians
+483635	1Thessalonians
+1Thessalonians
+483639	1Thessalonians
+1Thessalonians
+1Thessalonians
+483644	1Thessalonians
+483646	1Thessalonians
+1Thessalonians
+483652	1Thessalonians
+1Thessalonians
+1Thessalonians
 483657	1Thessalonians
 1Thessalonians
 483662	1Thessalonians
@@ -254470,7 +259340,8 @@ Colossians
 1Thessalonians
 483668	1Thessalonians
 483673	1Thessalonians
-483675	1Thessalonians
+1Thessalonians
+1Thessalonians
 483678	1Thessalonians
 483680	1Thessalonians
 1Thessalonians
@@ -254524,7 +259395,8 @@ Colossians
 483764	1Thessalonians
 1Thessalonians
 1Thessalonians
-483768	1Thessalonians
+1Thessalonians
+1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -254533,7 +259405,8 @@ Colossians
 483776	1Thessalonians
 1Thessalonians
 483781	1Thessalonians
-483783	1Thessalonians
+1Thessalonians
+1Thessalonians
 483786	1Thessalonians
 1Thessalonians
 483790	1Thessalonians
@@ -254546,7 +259419,8 @@ Colossians
 483803	1Thessalonians
 483810	1Thessalonians
 483814	1Thessalonians
-483816	1Thessalonians
+1Thessalonians
+1Thessalonians
 483820	1Thessalonians
 483823	1Thessalonians
 1Thessalonians
@@ -254558,7 +259432,6 @@ Colossians
 1Thessalonians
 483842	1Thessalonians
 1Thessalonians
-483845	1Thessalonians
 483847	1Thessalonians
 483849	1Thessalonians
 1Thessalonians
@@ -254568,10 +259441,10 @@ Colossians
 1Thessalonians
 483856	1Thessalonians
 1Thessalonians
-483860	1Thessalonians
+483859	1Thessalonians
 1Thessalonians
 1Thessalonians
-1Thessalonians
+483863	1Thessalonians
 1Thessalonians
 1Thessalonians
 483867	1Thessalonians
@@ -254590,14 +259463,13 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
-483889	1Thessalonians
 483891	1Thessalonians
 483893	1Thessalonians
+483895	1Thessalonians
 1Thessalonians
 1Thessalonians
+483899	1Thessalonians
 1Thessalonians
-1Thessalonians
-483900	1Thessalonians
 1Thessalonians
 1Thessalonians
 483905	1Thessalonians
@@ -254616,9 +259488,7 @@ Colossians
 1Thessalonians
 1Thessalonians
 1Thessalonians
-1Thessalonians
-483923	1Thessalonians
-1Thessalonians
+483924	1Thessalonians
 1Thessalonians
 483928	1Thessalonians
 1Thessalonians
@@ -254627,7 +259497,8 @@ Colossians
 483942	1Thessalonians
 1Thessalonians
 483945	1Thessalonians
-483947	1Thessalonians
+1Thessalonians
+1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -254645,7 +259516,8 @@ Colossians
 483965	1Thessalonians
 1Thessalonians
 1Thessalonians
-483969	1Thessalonians
+1Thessalonians
+1Thessalonians
 483971	1Thessalonians
 1Thessalonians
 483974	1Thessalonians
@@ -254656,7 +259528,8 @@ Colossians
 483984	1Thessalonians
 1Thessalonians
 1Thessalonians
-483988	1Thessalonians
+1Thessalonians
+1Thessalonians
 483990	1Thessalonians
 483992	1Thessalonians
 483994	1Thessalonians
@@ -254664,16 +259537,19 @@ Colossians
 483998	1Thessalonians
 484000	1Thessalonians
 484004	1Thessalonians
-484007	1Thessalonians
+484006	1Thessalonians
+1Thessalonians
 1Thessalonians
 1Thessalonians
 484011	1Thessalonians
 1Thessalonians
 484017	1Thessalonians
-484019	1Thessalonians
+1Thessalonians
+1Thessalonians
 484021	1Thessalonians
 1Thessalonians
-484024	1Thessalonians
+1Thessalonians
+1Thessalonians
 1Thessalonians
 484027	1Thessalonians
 484031	1Thessalonians
@@ -254684,7 +259560,8 @@ Colossians
 484044	1Thessalonians
 484046	1Thessalonians
 484055	1Thessalonians
-484057	1Thessalonians
+1Thessalonians
+1Thessalonians
 1Thessalonians
 1Thessalonians
 1Thessalonians
@@ -254696,12 +259573,9 @@ Colossians
 484082	2Thessalonians
 484084	2Thessalonians
 2Thessalonians
-484090	2Thessalonians
 484093	2Thessalonians
 484096	2Thessalonians
-2Thessalonians
-2Thessalonians
-484100	2Thessalonians
+484098	2Thessalonians
 484102	2Thessalonians
 484105	2Thessalonians
 2Thessalonians
@@ -254710,24 +259584,27 @@ Colossians
 2Thessalonians
 2Thessalonians
 2Thessalonians
-484115	2Thessalonians
+2Thessalonians
+2Thessalonians
 2Thessalonians
 484119	2Thessalonians
 2Thessalonians
 484128	2Thessalonians
 2Thessalonians
-484137	2Thessalonians
 484140	2Thessalonians
-484145	2Thessalonians
+484143	2Thessalonians
 484148	2Thessalonians
 484150	2Thessalonians
 2Thessalonians
 484158	2Thessalonians
 2Thessalonians
+484161	2Thessalonians
 484164	2Thessalonians
 484166	2Thessalonians
-484168	2Thessalonians
-484171	2Thessalonians
+2Thessalonians
+2Thessalonians
+484170	2Thessalonians
+2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -254735,8 +259612,8 @@ Colossians
 484177	2Thessalonians
 2Thessalonians
 484194	2Thessalonians
-484196	2Thessalonians
 2Thessalonians
+484197	2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -254759,17 +259636,14 @@ Colossians
 2Thessalonians
 484251	2Thessalonians
 2Thessalonians
-484254	2Thessalonians
 484256	2Thessalonians
 484260	2Thessalonians
 484267	2Thessalonians
 2Thessalonians
-484274	2Thessalonians
 484276	2Thessalonians
 484279	2Thessalonians
 2Thessalonians
 2Thessalonians
-484283	2Thessalonians
 484290	2Thessalonians
 484295	2Thessalonians
 2Thessalonians
@@ -254793,8 +259667,7 @@ Colossians
 2Thessalonians
 484340	2Thessalonians
 484343	2Thessalonians
-2Thessalonians
-2Thessalonians
+484345	2Thessalonians
 2Thessalonians
 2Thessalonians
 484352	2Thessalonians
@@ -254812,14 +259685,18 @@ Colossians
 2Thessalonians
 484370	2Thessalonians
 2Thessalonians
-484376	2Thessalonians
+484375	2Thessalonians
+2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
 484382	2Thessalonians
 2Thessalonians
-484388	2Thessalonians
+2Thessalonians
+2Thessalonians
+484387	2Thessalonians
+2Thessalonians
 484395	2Thessalonians
 2Thessalonians
 484401	2Thessalonians
@@ -254839,16 +259716,17 @@ Colossians
 484437	2Thessalonians
 2Thessalonians
 484440	2Thessalonians
-484442	2Thessalonians
+2Thessalonians
+2Thessalonians
 484444	2Thessalonians
 484446	2Thessalonians
-484448	2Thessalonians
+2Thessalonians
+2Thessalonians
 2Thessalonians
 484452	2Thessalonians
 484454	2Thessalonians
 484456	2Thessalonians
 2Thessalonians
-484462	2Thessalonians
 484464	2Thessalonians
 484466	2Thessalonians
 484478	2Thessalonians
@@ -254858,28 +259736,28 @@ Colossians
 2Thessalonians
 2Thessalonians
 2Thessalonians
-484487	2Thessalonians
+484486	2Thessalonians
+2Thessalonians
 484489	2Thessalonians
 484491	2Thessalonians
 484494	2Thessalonians
 2Thessalonians
 2Thessalonians
-2Thessalonians
 484503	2Thessalonians
 484509	2Thessalonians
-484511	2Thessalonians
+2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
 484516	2Thessalonians
 484521	2Thessalonians
 2Thessalonians
-484526	2Thessalonians
-2Thessalonians
+484527	2Thessalonians
 2Thessalonians
 484530	2Thessalonians
 484533	2Thessalonians
-484535	2Thessalonians
+2Thessalonians
+2Thessalonians
 2Thessalonians
 484540	2Thessalonians
 2Thessalonians
@@ -254894,7 +259772,9 @@ Colossians
 2Thessalonians
 484557	2Thessalonians
 2Thessalonians
-484562	2Thessalonians
+2Thessalonians
+484561	2Thessalonians
+2Thessalonians
 2Thessalonians
 2Thessalonians
 484567	2Thessalonians
@@ -254911,12 +259791,15 @@ Colossians
 2Thessalonians
 2Thessalonians
 484600	2Thessalonians
-484605	2Thessalonians
+484604	2Thessalonians
 2Thessalonians
 2Thessalonians
-484611	2Thessalonians
+2Thessalonians
+484610	2Thessalonians
+2Thessalonians
 484613	2Thessalonians
-484615	2Thessalonians
+2Thessalonians
+2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -254924,10 +259807,8 @@ Colossians
 484623	2Thessalonians
 2Thessalonians
 484626	2Thessalonians
-484628	2Thessalonians
-2Thessalonians
-2Thessalonians
-2Thessalonians
+484629	2Thessalonians
+484631	2Thessalonians
 484633	2Thessalonians
 2Thessalonians
 484637	2Thessalonians
@@ -254937,7 +259818,8 @@ Colossians
 484642	2Thessalonians
 2Thessalonians
 2Thessalonians
-484646	2Thessalonians
+2Thessalonians
+2Thessalonians
 2Thessalonians
 2Thessalonians
 484650	2Thessalonians
@@ -254962,14 +259844,17 @@ Colossians
 2Thessalonians
 2Thessalonians
 2Thessalonians
-484684	2Thessalonians
+2Thessalonians
+2Thessalonians
+2Thessalonians
 2Thessalonians
 484691	2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
-484698	2Thessalonians
+484697	2Thessalonians
+2Thessalonians
 2Thessalonians
 2Thessalonians
 2Thessalonians
@@ -254983,12 +259868,11 @@ Colossians
 484726	2Thessalonians
 2Thessalonians
 484736	1Timothy
-484743	1Timothy
 484746	1Timothy
 484755	1Timothy
-484758	1Timothy
 484760	1Timothy
-484766	1Timothy
+484765	1Timothy
+1Timothy
 1Timothy
 1Timothy
 484770	1Timothy
@@ -254997,14 +259881,16 @@ Colossians
 484775	1Timothy
 1Timothy
 1Timothy
-484779	1Timothy
 1Timothy
-484783	1Timothy
+484780	1Timothy
+484782	1Timothy
+1Timothy
 1Timothy
 1Timothy
 484790	1Timothy
 1Timothy
-484798	1Timothy
+484797	1Timothy
+1Timothy
 484800	1Timothy
 484802	1Timothy
 484804	1Timothy
@@ -255026,18 +259912,15 @@ Colossians
 1Timothy
 484826	1Timothy
 484828	1Timothy
-484830	1Timothy
-1Timothy
-1Timothy
-1Timothy
-1Timothy
-1Timothy
-1Timothy
-1Timothy
+484831	1Timothy
+484833	1Timothy
+484835	1Timothy
+484837	1Timothy
 1Timothy
 1Timothy
 1Timothy
 484844	1Timothy
+484847	1Timothy
 484854	1Timothy
 1Timothy
 484857	1Timothy
@@ -255050,14 +259933,14 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
-484875	1Timothy
+1Timothy
+1Timothy
 1Timothy
 1Timothy
 1Timothy
 484880	1Timothy
 1Timothy
-484888	1Timothy
-1Timothy
+484889	1Timothy
 484893	1Timothy
 484896	1Timothy
 484899	1Timothy
@@ -255073,8 +259956,7 @@ Colossians
 1Timothy
 484925	1Timothy
 1Timothy
-484933	1Timothy
-1Timothy
+484934	1Timothy
 484939	1Timothy
 1Timothy
 484943	1Timothy
@@ -255082,13 +259964,13 @@ Colossians
 484950	1Timothy
 1Timothy
 484955	1Timothy
-1Timothy
+484957	1Timothy
 1Timothy
 484960	1Timothy
 1Timothy
 1Timothy
-484966	1Timothy
-1Timothy
+484965	1Timothy
+484967	1Timothy
 1Timothy
 1Timothy
 484971	1Timothy
@@ -255096,53 +259978,49 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
-484982	1Timothy
-1Timothy
+484983	1Timothy
 484985	1Timothy
 1Timothy
 484988	1Timothy
 1Timothy
 484991	1Timothy
 1Timothy
-484995	1Timothy
-1Timothy
+484996	1Timothy
 1Timothy
 484999	1Timothy
+485001	1Timothy
 485005	1Timothy
 1Timothy
 485009	1Timothy
 1Timothy
 1Timothy
 485014	1Timothy
-485016	1Timothy
 1Timothy
-485021	1Timothy
 1Timothy
+1Timothy
+485022	1Timothy
 485026	1Timothy
 1Timothy
 485029	1Timothy
 485032	1Timothy
 1Timothy
-485036	1Timothy
+485037	1Timothy
 1Timothy
-1Timothy
-485042	1Timothy
-1Timothy
+485043	1Timothy
 1Timothy
 1Timothy
 1Timothy
 485050	1Timothy
-485053	1Timothy
+485054	1Timothy
 1Timothy
 1Timothy
-1Timothy
-485060	1Timothy
-1Timothy
+485061	1Timothy
 485064	1Timothy
 1Timothy
 1Timothy
 1Timothy
-485071	1Timothy
+485070	1Timothy
+1Timothy
 485073	1Timothy
 485075	1Timothy
 485079	1Timothy
@@ -255153,7 +260031,8 @@ Colossians
 1Timothy
 485088	1Timothy
 1Timothy
-485091	1Timothy
+1Timothy
+1Timothy
 1Timothy
 1Timothy
 485095	1Timothy
@@ -255161,7 +260040,8 @@ Colossians
 1Timothy
 485099	1Timothy
 485101	1Timothy
-485103	1Timothy
+1Timothy
+1Timothy
 485106	1Timothy
 1Timothy
 485109	1Timothy
@@ -255174,10 +260054,12 @@ Colossians
 485119	1Timothy
 1Timothy
 1Timothy
-485131	1Timothy
+485130	1Timothy
+1Timothy
 485134	1Timothy
 485138	1Timothy
-485140	1Timothy
+1Timothy
+1Timothy
 1Timothy
 1Timothy
 485145	1Timothy
@@ -255190,22 +260072,21 @@ Colossians
 1Timothy
 485160	1Timothy
 1Timothy
-485163	1Timothy
-1Timothy
+485164	1Timothy
 485167	1Timothy
 1Timothy
 485171	1Timothy
 485174	1Timothy
 485180	1Timothy
-485182	1Timothy
+1Timothy
+1Timothy
 485184	1Timothy
 1Timothy
 1Timothy
 1Timothy
 485192	1Timothy
 485195	1Timothy
-1Timothy
-1Timothy
+485197	1Timothy
 485200	1Timothy
 1Timothy
 1Timothy
@@ -255217,19 +260098,21 @@ Colossians
 1Timothy
 1Timothy
 485218	1Timothy
-485220	1Timothy
 1Timothy
 1Timothy
 1Timothy
 1Timothy
 1Timothy
+1Timothy
+1Timothy
+485227	1Timothy
 485229	1Timothy
 485233	1Timothy
-485235	1Timothy
-1Timothy
+485236	1Timothy
 485238	1Timothy
 1Timothy
-485244	1Timothy
+485243	1Timothy
+1Timothy
 485246	1Timothy
 485248	1Timothy
 1Timothy
@@ -255240,31 +260123,31 @@ Colossians
 485258	1Timothy
 1Timothy
 485263	1Timothy
-1Timothy
 485266	1Timothy
-485272	1Timothy
+485271	1Timothy
+1Timothy
 485275	1Timothy
 1Timothy
 1Timothy
-485279	1Timothy
-1Timothy
-485287	1Timothy
 1Timothy
 1Timothy
-485292	1Timothy
+1Timothy
+485288	1Timothy
+1Timothy
+485291	1Timothy
+1Timothy
 1Timothy
 485296	1Timothy
 1Timothy
 1Timothy
 485300	1Timothy
 1Timothy
-485303	1Timothy
 485305	1Timothy
 1Timothy
 1Timothy
 485312	1Timothy
-485315	1Timothy
 485317	1Timothy
+1Timothy
 485321	1Timothy
 1Timothy
 1Timothy
@@ -255278,7 +260161,6 @@ Colossians
 485337	1Timothy
 1Timothy
 485341	1Timothy
-485344	1Timothy
 485346	1Timothy
 1Timothy
 1Timothy
@@ -255289,6 +260171,7 @@ Colossians
 1Timothy
 485360	1Timothy
 1Timothy
+485363	1Timothy
 485365	1Timothy
 1Timothy
 485371	1Timothy
@@ -255297,18 +260180,21 @@ Colossians
 1Timothy
 485378	1Timothy
 1Timothy
-485389	1Timothy
+485388	1Timothy
+1Timothy
 1Timothy
 1Timothy
 485396	1Timothy
+1Timothy
 485401	1Timothy
-485409	1Timothy
+485408	1Timothy
+1Timothy
 1Timothy
 485412	1Timothy
 1Timothy
-485417	1Timothy
+485416	1Timothy
 1Timothy
-1Timothy
+485419	1Timothy
 485421	1Timothy
 1Timothy
 1Timothy
@@ -255317,11 +260203,13 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
-485431	1Timothy
 1Timothy
 1Timothy
 1Timothy
-485437	1Timothy
+1Timothy
+1Timothy
+485436	1Timothy
+1Timothy
 485439	1Timothy
 485441	1Timothy
 485445	1Timothy
@@ -255329,8 +260217,7 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
-485454	1Timothy
-1Timothy
+485455	1Timothy
 485457	1Timothy
 485460	1Timothy
 1Timothy
@@ -255339,15 +260226,12 @@ Colossians
 485467	1Timothy
 1Timothy
 1Timothy
-485472	1Timothy
-1Timothy
+485473	1Timothy
 1Timothy
 485476	1Timothy
 1Timothy
-1Timothy
 485480	1Timothy
-485482	1Timothy
-1Timothy
+485483	1Timothy
 1Timothy
 1Timothy
 1Timothy
@@ -255357,10 +260241,10 @@ Colossians
 485491	1Timothy
 1Timothy
 1Timothy
-485495	1Timothy
 1Timothy
-485498	1Timothy
 1Timothy
+1Timothy
+485499	1Timothy
 485501	1Timothy
 1Timothy
 485504	1Timothy
@@ -255368,7 +260252,8 @@ Colossians
 1Timothy
 485510	1Timothy
 485513	1Timothy
-485517	1Timothy
+485516	1Timothy
+1Timothy
 1Timothy
 1Timothy
 1Timothy
@@ -255382,11 +260267,13 @@ Colossians
 485531	1Timothy
 1Timothy
 485534	1Timothy
-485536	1Timothy
+1Timothy
+1Timothy
 1Timothy
 485539	1Timothy
 1Timothy
-485542	1Timothy
+1Timothy
+1Timothy
 1Timothy
 1Timothy
 485547	1Timothy
@@ -255404,7 +260291,8 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
-485567	1Timothy
+1Timothy
+1Timothy
 1Timothy
 1Timothy
 1Timothy
@@ -255420,13 +260308,13 @@ Colossians
 1Timothy
 485587	1Timothy
 1Timothy
-485592	1Timothy
+485591	1Timothy
+1Timothy
 485595	1Timothy
 485597	1Timothy
 1Timothy
 1Timothy
-485601	1Timothy
-1Timothy
+485602	1Timothy
 1Timothy
 1Timothy
 485607	1Timothy
@@ -255455,7 +260343,6 @@ Colossians
 485650	1Timothy
 485652	1Timothy
 1Timothy
-485656	1Timothy
 485658	1Timothy
 485662	1Timothy
 1Timothy
@@ -255474,7 +260361,6 @@ Colossians
 1Timothy
 1Timothy
 485691	1Timothy
-1Timothy
 485696	1Timothy
 485698	1Timothy
 1Timothy
@@ -255483,18 +260369,18 @@ Colossians
 485703	1Timothy
 1Timothy
 1Timothy
-485707	1Timothy
 1Timothy
 1Timothy
 1Timothy
 1Timothy
+485711	1Timothy
 1Timothy
 1Timothy
 485715	1Timothy
 485717	1Timothy
-485719	1Timothy
-485721	1Timothy
 1Timothy
+1Timothy
+485721	1Timothy
 1Timothy
 1Timothy
 485727	1Timothy
@@ -255503,10 +260389,11 @@ Colossians
 485739	1Timothy
 1Timothy
 1Timothy
-485744	1Timothy
+485743	1Timothy
+485745	1Timothy
 1Timothy
+485752	1Timothy
 1Timothy
-485753	1Timothy
 485755	1Timothy
 1Timothy
 485758	1Timothy
@@ -255521,24 +260408,25 @@ Colossians
 1Timothy
 1Timothy
 1Timothy
+485778	1Timothy
 1Timothy
 1Timothy
 1Timothy
 1Timothy
 1Timothy
+485785	1Timothy
 1Timothy
-1Timothy
-485786	1Timothy
 1Timothy
 1Timothy
 485791	1Timothy
 1Timothy
 1Timothy
-485796	1Timothy
+485797	1Timothy
 1Timothy
 1Timothy
+485803	1Timothy
+485805	1Timothy
 1Timothy
-485806	1Timothy
 1Timothy
 485810	1Timothy
 1Timothy
@@ -255546,41 +260434,46 @@ Colossians
 1Timothy
 1Timothy
 485818	1Timothy
-485820	1Timothy
+1Timothy
+1Timothy
 485822	1Timothy
 485827	1Timothy
+1Timothy
 485831	1Timothy
 485834	1Timothy
 1Timothy
 1Timothy
 485841	1Timothy
-485843	1Timothy
 485846	1Timothy
 1Timothy
 485849	1Timothy
 485852	1Timothy
 1Timothy
 485858	1Timothy
+485862	1Timothy
 485869	1Timothy
+485871	1Timothy
+1Timothy
 485877	1Timothy
 1Timothy
-485880	1Timothy
 485882	1Timothy
 1Timothy
 1Timothy
 485886	1Timothy
 1Timothy
-485891	1Timothy
+485890	1Timothy
 1Timothy
-485895	1Timothy
+1Timothy
+485894	1Timothy
+1Timothy
 485897	1Timothy
 1Timothy
 1Timothy
 1Timothy
-1Timothy
-1Timothy
+485902	1Timothy
 485904	1Timothy
 1Timothy
+485911	1Timothy
 485914	1Timothy
 1Timothy
 1Timothy
@@ -255599,29 +260492,30 @@ Colossians
 485940	1Timothy
 1Timothy
 485944	1Timothy
-485946	1Timothy
 485948	1Timothy
+485951	1Timothy
 485953	1Timothy
 1Timothy
 485957	1Timothy
 485960	2Timothy
 485976	2Timothy
-485979	2Timothy
 485981	2Timothy
 485986	2Timothy
+2Timothy
 485989	2Timothy
 485993	2Timothy
 2Timothy
-486001	2Timothy
+486002	2Timothy
 2Timothy
-486004	2Timothy
+2Timothy
 2Timothy
 2Timothy
 486009	2Timothy
 2Timothy
 2Timothy
-486019	2Timothy
-486021	2Timothy
+486016	2Timothy
+486018	2Timothy
+2Timothy
 486025	2Timothy
 486029	2Timothy
 2Timothy
@@ -255629,6 +260523,7 @@ Colossians
 2Timothy
 486035	2Timothy
 486038	2Timothy
+2Timothy
 486043	2Timothy
 486050	2Timothy
 486052	2Timothy
@@ -255637,30 +260532,32 @@ Colossians
 2Timothy
 2Timothy
 486061	2Timothy
-2Timothy
 486067	2Timothy
 486071	2Timothy
 486076	2Timothy
-486078	2Timothy
 2Timothy
 2Timothy
-486088	2Timothy
 2Timothy
+2Timothy
+486089	2Timothy
 486091	2Timothy
-486093	2Timothy
+2Timothy
+2Timothy
 486098	2Timothy
 2Timothy
-486109	2Timothy
+486108	2Timothy
+2Timothy
 2Timothy
 486112	2Timothy
 2Timothy
-2Timothy
-2Timothy
+486115	2Timothy
+486117	2Timothy
 486119	2Timothy
 486122	2Timothy
 2Timothy
 2Timothy
-486126	2Timothy
+2Timothy
+2Timothy
 486130	2Timothy
 2Timothy
 486133	2Timothy
@@ -255672,20 +260569,21 @@ Colossians
 2Timothy
 2Timothy
 486146	2Timothy
+486148	2Timothy
 486150	2Timothy
 2Timothy
-486155	2Timothy
-2Timothy
+486156	2Timothy
 486160	2Timothy
 486166	2Timothy
 2Timothy
 486169	2Timothy
 2Timothy
 2Timothy
+2Timothy
 486177	2Timothy
+486179	2Timothy
 2Timothy
 2Timothy
-486181	2Timothy
 486185	2Timothy
 486187	2Timothy
 2Timothy
@@ -255706,6 +260604,7 @@ Colossians
 486221	2Timothy
 2Timothy
 2Timothy
+486227	2Timothy
 486229	2Timothy
 2Timothy
 486232	2Timothy
@@ -255730,7 +260629,9 @@ Colossians
 2Timothy
 486264	2Timothy
 486269	2Timothy
-486278	2Timothy
+486274	2Timothy
+486277	2Timothy
+2Timothy
 2Timothy
 486282	2Timothy
 2Timothy
@@ -255746,10 +260647,13 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-486311	2Timothy
 2Timothy
 2Timothy
-486316	2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
+2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -255772,9 +260676,10 @@ Colossians
 486354	2Timothy
 2Timothy
 486359	2Timothy
-486361	2Timothy
 2Timothy
-486364	2Timothy
+486362	2Timothy
+2Timothy
+2Timothy
 486367	2Timothy
 2Timothy
 2Timothy
@@ -255823,7 +260728,8 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-486458	2Timothy
+2Timothy
+2Timothy
 486460	2Timothy
 2Timothy
 486465	2Timothy
@@ -255838,7 +260744,8 @@ Colossians
 2Timothy
 2Timothy
 486492	2Timothy
-486494	2Timothy
+2Timothy
+2Timothy
 486499	2Timothy
 2Timothy
 2Timothy
@@ -255851,12 +260758,15 @@ Colossians
 486512	2Timothy
 2Timothy
 486515	2Timothy
-486517	2Timothy
+2Timothy
+2Timothy
 486520	2Timothy
 2Timothy
-486525	2Timothy
+486524	2Timothy
 2Timothy
-486529	2Timothy
+2Timothy
+486528	2Timothy
+2Timothy
 2Timothy
 2Timothy
 2Timothy
@@ -255864,8 +260774,7 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-486540	2Timothy
-2Timothy
+486541	2Timothy
 486545	2Timothy
 486550	2Timothy
 2Timothy
@@ -255875,6 +260784,8 @@ Colossians
 2Timothy
 486561	2Timothy
 2Timothy
+2Timothy
+486574	2Timothy
 2Timothy
 486579	2Timothy
 486584	2Timothy
@@ -255886,7 +260797,6 @@ Colossians
 2Timothy
 2Timothy
 486599	2Timothy
-2Timothy
 2Timothy
 486603	2Timothy
 486606	2Timothy
@@ -255909,27 +260819,26 @@ Colossians
 2Timothy
 486652	2Timothy
 486656	2Timothy
-486659	2Timothy
 486661	2Timothy
 486664	2Timothy
 2Timothy
 2Timothy
-2Timothy
-2Timothy
-2Timothy
+486668	2Timothy
 2Timothy
 2Timothy
 486674	2Timothy
-486678	2Timothy
+486677	2Timothy
+2Timothy
 486680	2Timothy
 486682	2Timothy
-486684	2Timothy
 2Timothy
 2Timothy
-486689	2Timothy
 2Timothy
 2Timothy
-486693	2Timothy
+486690	2Timothy
+2Timothy
+2Timothy
+2Timothy
 2Timothy
 486697	2Timothy
 486700	2Timothy
@@ -255941,7 +260850,8 @@ Colossians
 486714	2Timothy
 2Timothy
 486718	2Timothy
-486720	2Timothy
+2Timothy
+2Timothy
 486722	2Timothy
 2Timothy
 486725	2Timothy
@@ -255950,11 +260860,14 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-486738	2Timothy
+486737	2Timothy
+2Timothy
 486741	2Timothy
 486743	2Timothy
 486745	2Timothy
-486751	2Timothy
+2Timothy
+486750	2Timothy
+2Timothy
 486759	2Timothy
 2Timothy
 486765	2Timothy
@@ -255962,6 +260875,8 @@ Colossians
 486769	2Timothy
 2Timothy
 486772	2Timothy
+2Timothy
+2Timothy
 486776	2Timothy
 2Timothy
 486780	2Timothy
@@ -255969,14 +260884,17 @@ Colossians
 486783	2Timothy
 486785	2Timothy
 486787	2Timothy
-486790	2Timothy
+486789	2Timothy
+2Timothy
 2Timothy
 486793	2Timothy
 2Timothy
 486796	2Timothy
 2Timothy
-486800	2Timothy
-486803	2Timothy
+486799	2Timothy
+2Timothy
+486802	2Timothy
+2Timothy
 486806	2Timothy
 2Timothy
 2Timothy
@@ -255992,7 +260910,8 @@ Colossians
 2Timothy
 2Timothy
 2Timothy
-486840	2Timothy
+2Timothy
+2Timothy
 2Timothy
 486843	2Timothy
 2Timothy
@@ -256025,32 +260944,35 @@ Colossians
 486902	2Timothy
 486907	2Timothy
 486910	Titus
-486912	Titus
 486914	Titus
-486918	Titus
 486921	Titus
-486931	Titus
+486928	Titus
+486930	Titus
+Titus
 486936	Titus
 Titus
-486943	Titus
+486942	Titus
+Titus
 486954	Titus
-Titus
-Titus
-486958	Titus
+486956	Titus
 486960	Titus
-486966	Titus
+486965	Titus
+Titus
 486969	Titus
 486971	Titus
 Titus
 Titus
 Titus
-486977	Titus
+Titus
+Titus
+Titus
 486979	Titus
 Titus
 Titus
 Titus
 486986	Titus
-486990	Titus
+486989	Titus
+Titus
 486993	Titus
 Titus
 Titus
@@ -256073,8 +260995,9 @@ Titus
 Titus
 Titus
 Titus
-487037	Titus
 Titus
+Titus
+487038	Titus
 487043	Titus
 Titus
 Titus
@@ -256087,7 +261010,6 @@ Titus
 Titus
 487068	Titus
 487071	Titus
-Titus
 487074	Titus
 487077	Titus
 487079	Titus
@@ -256115,7 +261037,8 @@ Titus
 487115	Titus
 Titus
 487118	Titus
-487124	Titus
+487123	Titus
+Titus
 487128	Titus
 487130	Titus
 Titus
@@ -256125,13 +261048,17 @@ Titus
 Titus
 487143	Titus
 487145	Titus
-487148	Titus
+Titus
+Titus
+Titus
 487152	Titus
 487158	Titus
 Titus
 487162	Titus
 Titus
-487168	Titus
+487166	Titus
+Titus
+Titus
 487171	Titus
 487173	Titus
 Titus
@@ -256145,15 +261072,13 @@ Titus
 Titus
 Titus
 Titus
-Titus
 487201	Titus
 487205	Titus
 Titus
 487210	Titus
-487212	Titus
 487214	Titus
-487223	Titus
-Titus
+487218	Titus
+487224	Titus
 487226	Titus
 Titus
 487230	Titus
@@ -256166,7 +261091,8 @@ Titus
 487244	Titus
 487247	Titus
 Titus
-487250	Titus
+Titus
+Titus
 487252	Titus
 Titus
 487257	Titus
@@ -256177,22 +261103,20 @@ Titus
 Titus
 487268	Titus
 Titus
-487271	Titus
+487272	Titus
 Titus
-Titus
-487275	Titus
-Titus
+487276	Titus
 Titus
 Titus
 Titus
 Titus
 Titus
-487283	Titus
 487285	Titus
 487290	Titus
+487293	Titus
 487297	Titus
-487302	Titus
 487304	Titus
+487306	Titus
 487308	Titus
 487315	Titus
 Titus
@@ -256223,14 +261147,14 @@ Titus
 Titus
 487361	Titus
 Titus
-487365	Titus
+Titus
+Titus
 Titus
 Titus
 487369	Titus
 Titus
 Titus
 487374	Titus
-Titus
 Titus
 Titus
 Titus
@@ -256248,7 +261172,6 @@ Titus
 Titus
 487403	Titus
 487407	Philemon
-Philemon
 487412	Philemon
 487419	Philemon
 Philemon
@@ -256256,21 +261179,18 @@ Philemon
 487424	Philemon
 487428	Philemon
 487433	Philemon
-Philemon
-Philemon
-487437	Philemon
+487435	Philemon
 487440	Philemon
 487443	Philemon
 487446	Philemon
 487451	Philemon
-487454	Philemon
+Philemon
 487456	Philemon
 487458	Philemon
 487463	Philemon
 487467	Philemon
 Philemon
 487481	Philemon
-Philemon
 Philemon
 487485	Philemon
 487489	Philemon
@@ -256286,15 +261206,20 @@ Philemon
 487511	Philemon
 Philemon
 487516	Philemon
+487518	Philemon
 487521	Philemon
+487525	Philemon
+Philemon
 487529	Philemon
 487532	Philemon
 487535	Philemon
 Philemon
 Philemon
 Philemon
-487541	Philemon
-487545	Philemon
+487540	Philemon
+Philemon
+487544	Philemon
+Philemon
 Philemon
 487548	Philemon
 Philemon
@@ -256314,9 +261239,11 @@ Philemon
 487586	Philemon
 487588	Philemon
 487590	Philemon
-487592	Philemon
 Philemon
-487595	Philemon
+Philemon
+Philemon
+Philemon
+Philemon
 Philemon
 Philemon
 Philemon
@@ -256326,7 +261253,8 @@ Philemon
 Philemon
 Philemon
 Philemon
-487610	Philemon
+487609	Philemon
+Philemon
 Philemon
 Philemon
 Philemon
@@ -256342,7 +261270,8 @@ Philemon
 Philemon
 487633	Philemon
 Philemon
-487636	Philemon
+Philemon
+Philemon
 487638	Philemon
 Philemon
 Philemon
@@ -256352,12 +261281,14 @@ Philemon
 487666	Hebrews
 Hebrews
 487669	Hebrews
-487682	Hebrews
+487679	Hebrews
+Hebrews
+Hebrews
+Hebrews
 487684	Hebrews
 487687	Hebrews
 Hebrews
 487690	Hebrews
-Hebrews
 487694	Hebrews
 487698	Hebrews
 Hebrews
@@ -256365,7 +261296,8 @@ Hebrews
 487712	Hebrews
 487716	Hebrews
 Hebrews
-487721	Hebrews
+487720	Hebrews
+Hebrews
 487723	Hebrews
 Hebrews
 Hebrews
@@ -256373,7 +261305,8 @@ Hebrews
 487729	Hebrews
 Hebrews
 487732	Hebrews
-487734	Hebrews
+Hebrews
+Hebrews
 Hebrews
 487739	Hebrews
 Hebrews
@@ -256384,11 +261317,13 @@ Hebrews
 Hebrews
 487750	Hebrews
 Hebrews
-487753	Hebrews
+Hebrews
+Hebrews
 487756	Hebrews
 Hebrews
 487761	Hebrews
-487763	Hebrews
+Hebrews
+Hebrews
 487766	Hebrews
 Hebrews
 487770	Hebrews
@@ -256415,7 +261350,8 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-487821	Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -256427,7 +261363,8 @@ Hebrews
 Hebrews
 487835	Hebrews
 Hebrews
-487841	Hebrews
+487840	Hebrews
+Hebrews
 487844	Hebrews
 Hebrews
 Hebrews
@@ -256443,14 +261380,15 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-487870	Hebrews
+Hebrews
+Hebrews
 487872	Hebrews
 487875	Hebrews
 487877	Hebrews
 Hebrews
-487880	Hebrews
-Hebrews
+487881	Hebrews
 487883	Hebrews
+Hebrews
 Hebrews
 487887	Hebrews
 Hebrews
@@ -256463,6 +261401,7 @@ Hebrews
 Hebrews
 487903	Hebrews
 487909	Hebrews
+Hebrews
 Hebrews
 487914	Hebrews
 Hebrews
@@ -256477,10 +261416,10 @@ Hebrews
 Hebrews
 487928	Hebrews
 Hebrews
-487931	Hebrews
+Hebrews
+Hebrews
 487934	Hebrews
-Hebrews
-Hebrews
+487936	Hebrews
 Hebrews
 487941	Hebrews
 Hebrews
@@ -256494,13 +261433,14 @@ Hebrews
 Hebrews
 487956	Hebrews
 Hebrews
-487964	Hebrews
-Hebrews
+487965	Hebrews
 Hebrews
 Hebrews
 487970	Hebrews
 Hebrews
-487974	Hebrews
+Hebrews
+Hebrews
+Hebrews
 487977	Hebrews
 Hebrews
 487981	Hebrews
@@ -256519,29 +261459,31 @@ Hebrews
 Hebrews
 488011	Hebrews
 488014	Hebrews
-488016	Hebrews
+Hebrews
+Hebrews
 Hebrews
 488020	Hebrews
 Hebrews
 Hebrews
 Hebrews
+488025	Hebrews
+488027	Hebrews
 Hebrews
-Hebrews
-488028	Hebrews
 488030	Hebrews
 Hebrews
 Hebrews
 Hebrews
-488035	Hebrews
-Hebrews
+488036	Hebrews
 488039	Hebrews
 488041	Hebrews
-488045	Hebrews
+488044	Hebrews
+Hebrews
 Hebrews
 488050	Hebrews
 488052	Hebrews
 Hebrews
-488055	Hebrews
+Hebrews
+Hebrews
 488059	Hebrews
 Hebrews
 488062	Hebrews
@@ -256549,7 +261491,8 @@ Hebrews
 Hebrews
 Hebrews
 488068	Hebrews
-488070	Hebrews
+Hebrews
+Hebrews
 Hebrews
 488074	Hebrews
 Hebrews
@@ -256567,8 +261510,7 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-488106	Hebrews
-Hebrews
+488107	Hebrews
 488111	Hebrews
 Hebrews
 Hebrews
@@ -256594,27 +261536,32 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-488160	Hebrews
+488159	Hebrews
+Hebrews
 Hebrews
 488163	Hebrews
-Hebrews
 488166	Hebrews
 488171	Hebrews
 Hebrews
 Hebrews
-488178	Hebrews
+488177	Hebrews
 Hebrews
-488183	Hebrews
+Hebrews
+488182	Hebrews
+Hebrews
 488186	Hebrews
 Hebrews
-488198	Hebrews
+488195	Hebrews
+488197	Hebrews
+Hebrews
 488202	Hebrews
 Hebrews
 488207	Hebrews
 Hebrews
 Hebrews
 488212	Hebrews
-488214	Hebrews
+Hebrews
+Hebrews
 488216	Hebrews
 488218	Hebrews
 Hebrews
@@ -256623,7 +261570,8 @@ Hebrews
 488227	Hebrews
 Hebrews
 488232	Hebrews
-488234	Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 488242	Hebrews
@@ -256635,14 +261583,17 @@ Hebrews
 488254	Hebrews
 Hebrews
 488260	Hebrews
-488262	Hebrews
+Hebrews
+Hebrews
 488265	Hebrews
 Hebrews
 488272	Hebrews
 Hebrews
-488275	Hebrews
 Hebrews
-488280	Hebrews
+Hebrews
+Hebrews
+488279	Hebrews
+Hebrews
 488283	Hebrews
 Hebrews
 488287	Hebrews
@@ -256657,7 +261608,8 @@ Hebrews
 Hebrews
 488301	Hebrews
 Hebrews
-488304	Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 488311	Hebrews
@@ -256690,7 +261642,8 @@ Hebrews
 488352	Hebrews
 Hebrews
 Hebrews
-488356	Hebrews
+Hebrews
+Hebrews
 488359	Hebrews
 Hebrews
 Hebrews
@@ -256710,7 +261663,8 @@ Hebrews
 488396	Hebrews
 Hebrews
 488401	Hebrews
-488403	Hebrews
+Hebrews
+Hebrews
 488405	Hebrews
 Hebrews
 488408	Hebrews
@@ -256721,11 +261675,13 @@ Hebrews
 488416	Hebrews
 488420	Hebrews
 Hebrews
-488423	Hebrews
+Hebrews
+Hebrews
 Hebrews
 488427	Hebrews
 488430	Hebrews
-488432	Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -256738,7 +261694,8 @@ Hebrews
 488456	Hebrews
 Hebrews
 488461	Hebrews
-488463	Hebrews
+Hebrews
+Hebrews
 Hebrews
 488468	Hebrews
 Hebrews
@@ -256749,14 +261706,12 @@ Hebrews
 Hebrews
 488488	Hebrews
 Hebrews
-488493	Hebrews
+488494	Hebrews
 Hebrews
 Hebrews
 Hebrews
 Hebrews
-Hebrews
-488501	Hebrews
-Hebrews
+488502	Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -256764,14 +261719,16 @@ Hebrews
 Hebrews
 488510	Hebrews
 Hebrews
-488515	Hebrews
+488514	Hebrews
+Hebrews
 488518	Hebrews
 Hebrews
 Hebrews
 488524	Hebrews
 488531	Hebrews
 Hebrews
-488535	Hebrews
+488534	Hebrews
+Hebrews
 Hebrews
 488539	Hebrews
 488543	Hebrews
@@ -256808,10 +261765,12 @@ Hebrews
 Hebrews
 488607	Hebrews
 Hebrews
-488610	Hebrews
 Hebrews
 Hebrews
-488615	Hebrews
+Hebrews
+Hebrews
+488614	Hebrews
+Hebrews
 488617	Hebrews
 Hebrews
 Hebrews
@@ -256823,7 +261782,6 @@ Hebrews
 488640	Hebrews
 Hebrews
 Hebrews
-488645	Hebrews
 488647	Hebrews
 Hebrews
 Hebrews
@@ -256837,7 +261795,8 @@ Hebrews
 488662	Hebrews
 Hebrews
 488666	Hebrews
-488674	Hebrews
+488673	Hebrews
+Hebrews
 488677	Hebrews
 Hebrews
 Hebrews
@@ -256872,11 +261831,8 @@ Hebrews
 Hebrews
 Hebrews
 488743	Hebrews
-488746	Hebrews
 488750	Hebrews
-488755	Hebrews
-Hebrews
-488758	Hebrews
+488756	Hebrews
 488760	Hebrews
 488762	Hebrews
 Hebrews
@@ -256886,13 +261842,13 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-488772	Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 488778	Hebrews
 Hebrews
 488782	Hebrews
-Hebrews
 Hebrews
 488787	Hebrews
 488790	Hebrews
@@ -256902,19 +261858,21 @@ Hebrews
 488799	Hebrews
 Hebrews
 Hebrews
-488803	Hebrews
+Hebrews
+Hebrews
 488805	Hebrews
-488807	Hebrews
+Hebrews
+Hebrews
 488810	Hebrews
 488812	Hebrews
 Hebrews
-488816	Hebrews
+488815	Hebrews
+Hebrews
 488820	Hebrews
 Hebrews
 Hebrews
 Hebrews
-Hebrews
-Hebrews
+488825	Hebrews
 Hebrews
 Hebrews
 488829	Hebrews
@@ -256929,9 +261887,9 @@ Hebrews
 Hebrews
 Hebrews
 488846	Hebrews
-Hebrews
 488850	Hebrews
-488853	Hebrews
+488852	Hebrews
+Hebrews
 488857	Hebrews
 488860	Hebrews
 Hebrews
@@ -256943,8 +261901,7 @@ Hebrews
 Hebrews
 488878	Hebrews
 Hebrews
-488881	Hebrews
-Hebrews
+488882	Hebrews
 488884	Hebrews
 Hebrews
 Hebrews
@@ -256973,9 +261930,11 @@ Hebrews
 Hebrews
 488924	Hebrews
 488932	Hebrews
+488934	Hebrews
 488937	Hebrews
 488939	Hebrews
 488941	Hebrews
+Hebrews
 Hebrews
 Hebrews
 488947	Hebrews
@@ -256986,12 +261945,15 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
+488960	Hebrews
 488964	Hebrews
 488967	Hebrews
 488973	Hebrews
 Hebrews
+Hebrews
 488986	Hebrews
-488988	Hebrews
+Hebrews
+Hebrews
 Hebrews
 488994	Hebrews
 Hebrews
@@ -257000,6 +261962,7 @@ Hebrews
 Hebrews
 489003	Hebrews
 Hebrews
+489006	Hebrews
 489008	Hebrews
 489013	Hebrews
 489015	Hebrews
@@ -257009,7 +261972,8 @@ Hebrews
 489026	Hebrews
 Hebrews
 Hebrews
-489030	Hebrews
+Hebrews
+Hebrews
 489035	Hebrews
 Hebrews
 Hebrews
@@ -257017,6 +261981,7 @@ Hebrews
 Hebrews
 Hebrews
 489045	Hebrews
+Hebrews
 489050	Hebrews
 489053	Hebrews
 Hebrews
@@ -257040,7 +262005,9 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-489089	Hebrews
+Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 489095	Hebrews
@@ -257051,8 +262018,10 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-489108	Hebrews
-489110	Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
 489114	Hebrews
 Hebrews
 489118	Hebrews
@@ -257060,7 +262029,8 @@ Hebrews
 489125	Hebrews
 Hebrews
 489130	Hebrews
-489132	Hebrews
+Hebrews
+Hebrews
 489134	Hebrews
 489138	Hebrews
 Hebrews
@@ -257075,6 +262045,7 @@ Hebrews
 Hebrews
 489160	Hebrews
 Hebrews
+489165	Hebrews
 489167	Hebrews
 489175	Hebrews
 Hebrews
@@ -257085,12 +262056,12 @@ Hebrews
 Hebrews
 Hebrews
 489190	Hebrews
-489194	Hebrews
-Hebrews
+489195	Hebrews
 Hebrews
 Hebrews
 489199	Hebrews
 Hebrews
+489202	Hebrews
 489204	Hebrews
 489207	Hebrews
 Hebrews
@@ -257102,7 +262073,8 @@ Hebrews
 Hebrews
 489222	Hebrews
 Hebrews
-489226	Hebrews
+489225	Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -257127,12 +262099,16 @@ Hebrews
 489266	Hebrews
 Hebrews
 489269	Hebrews
-489271	Hebrews
-489277	Hebrews
+Hebrews
+Hebrews
+Hebrews
+489276	Hebrews
+Hebrews
 489280	Hebrews
 Hebrews
 489283	Hebrews
-489288	Hebrews
+489287	Hebrews
+Hebrews
 489292	Hebrews
 489295	Hebrews
 Hebrews
@@ -257145,13 +262121,15 @@ Hebrews
 Hebrews
 489312	Hebrews
 489315	Hebrews
-489317	Hebrews
+Hebrews
+Hebrews
 489320	Hebrews
 Hebrews
 Hebrews
-489326	Hebrews
-489335	Hebrews
+489325	Hebrews
+Hebrews
 489337	Hebrews
+489339	Hebrews
 489342	Hebrews
 489346	Hebrews
 Hebrews
@@ -257162,21 +262140,23 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
+Hebrews
 489360	Hebrews
 Hebrews
 Hebrews
 Hebrews
-489365	Hebrews
+Hebrews
+Hebrews
 Hebrews
 489368	Hebrews
-489370	Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
 489376	Hebrews
 Hebrews
-489379	Hebrews
-Hebrews
+489380	Hebrews
 489382	Hebrews
 Hebrews
 Hebrews
@@ -257189,6 +262169,7 @@ Hebrews
 489397	Hebrews
 Hebrews
 Hebrews
+489402	Hebrews
 489404	Hebrews
 489407	Hebrews
 Hebrews
@@ -257198,23 +262179,31 @@ Hebrews
 489415	Hebrews
 Hebrews
 Hebrews
-489421	Hebrews
+489419	Hebrews
 Hebrews
 Hebrews
 Hebrews
-489426	Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
 489431	Hebrews
-489437	Hebrews
-489441	Hebrews
+489436	Hebrews
+Hebrews
+489440	Hebrews
+Hebrews
 Hebrews
 489448	Hebrews
 489451	Hebrews
-489453	Hebrews
+Hebrews
+Hebrews
 489457	Hebrews
 Hebrews
 Hebrews
-489461	Hebrews
-489464	Hebrews
+Hebrews
+Hebrews
+489463	Hebrews
+Hebrews
 489470	Hebrews
 489473	Hebrews
 489478	Hebrews
@@ -257224,7 +262213,8 @@ Hebrews
 489486	Hebrews
 Hebrews
 489489	Hebrews
-489491	Hebrews
+Hebrews
+Hebrews
 Hebrews
 489496	Hebrews
 Hebrews
@@ -257248,9 +262238,10 @@ Hebrews
 489532	Hebrews
 Hebrews
 Hebrews
-489537	Hebrews
 489539	Hebrews
 489542	Hebrews
+Hebrews
+Hebrews
 Hebrews
 489548	Hebrews
 489551	Hebrews
@@ -257262,10 +262253,11 @@ Hebrews
 489567	Hebrews
 Hebrews
 489570	Hebrews
-Hebrews
 489573	Hebrews
+Hebrews
 489579	Hebrews
-489581	Hebrews
+Hebrews
+Hebrews
 489586	Hebrews
 489588	Hebrews
 489592	Hebrews
@@ -257277,16 +262269,18 @@ Hebrews
 489605	Hebrews
 489607	Hebrews
 489609	Hebrews
-489612	Hebrews
+Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
 489621	Hebrews
 489623	Hebrews
 Hebrews
-489633	Hebrews
-489635	Hebrews
+489632	Hebrews
 Hebrews
+489636	Hebrews
 489640	Hebrews
 489644	Hebrews
 489648	Hebrews
@@ -257310,25 +262304,24 @@ Hebrews
 Hebrews
 489682	Hebrews
 489686	Hebrews
+489691	Hebrews
 489694	Hebrews
 Hebrews
 489697	Hebrews
 489700	Hebrews
-489703	Hebrews
-Hebrews
+489704	Hebrews
 Hebrews
 489711	Hebrews
 489713	Hebrews
 Hebrews
 Hebrews
 Hebrews
-Hebrews
-489720	Hebrews
-Hebrews
+489721	Hebrews
 Hebrews
 489724	Hebrews
 Hebrews
 Hebrews
+489734	Hebrews
 489736	Hebrews
 489745	Hebrews
 Hebrews
@@ -257336,7 +262329,8 @@ Hebrews
 Hebrews
 Hebrews
 489754	Hebrews
-489756	Hebrews
+Hebrews
+Hebrews
 489764	Hebrews
 489767	Hebrews
 Hebrews
@@ -257360,7 +262354,6 @@ Hebrews
 Hebrews
 Hebrews
 489800	Hebrews
-489803	Hebrews
 489805	Hebrews
 489808	Hebrews
 Hebrews
@@ -257369,7 +262362,8 @@ Hebrews
 489816	Hebrews
 489819	Hebrews
 Hebrews
-489825	Hebrews
+489824	Hebrews
+Hebrews
 489828	Hebrews
 Hebrews
 489831	Hebrews
@@ -257381,7 +262375,8 @@ Hebrews
 Hebrews
 489848	Hebrews
 Hebrews
-489851	Hebrews
+Hebrews
+Hebrews
 Hebrews
 489858	Hebrews
 Hebrews
@@ -257400,7 +262395,8 @@ Hebrews
 Hebrews
 489908	Hebrews
 Hebrews
-489911	Hebrews
+Hebrews
+Hebrews
 489914	Hebrews
 Hebrews
 Hebrews
@@ -257413,7 +262409,8 @@ Hebrews
 Hebrews
 Hebrews
 489938	Hebrews
-489948	Hebrews
+489947	Hebrews
+Hebrews
 489951	Hebrews
 Hebrews
 Hebrews
@@ -257432,19 +262429,17 @@ Hebrews
 489971	Hebrews
 Hebrews
 Hebrews
-489975	Hebrews
+489976	Hebrews
 Hebrews
 Hebrews
 Hebrews
-Hebrews
+489982	Hebrews
 489984	Hebrews
+489986	Hebrews
 Hebrews
 Hebrews
 Hebrews
-Hebrews
-Hebrews
-Hebrews
-Hebrews
+489991	Hebrews
 489993	Hebrews
 Hebrews
 Hebrews
@@ -257473,7 +262468,8 @@ Hebrews
 490043	Hebrews
 490045	Hebrews
 Hebrews
-490050	Hebrews
+490049	Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -257488,16 +262484,17 @@ Hebrews
 Hebrews
 Hebrews
 490084	Hebrews
-490086	Hebrews
+Hebrews
+Hebrews
 Hebrews
 490089	Hebrews
 Hebrews
 Hebrews
-490094	Hebrews
+490093	Hebrews
+Hebrews
 490099	Hebrews
 Hebrews
 490108	Hebrews
-Hebrews
 Hebrews
 490113	Hebrews
 490117	Hebrews
@@ -257511,6 +262508,7 @@ Hebrews
 490138	Hebrews
 Hebrews
 Hebrews
+490142	Hebrews
 490144	Hebrews
 490147	Hebrews
 Hebrews
@@ -257524,13 +262522,13 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-490179	Hebrews
-Hebrews
+490180	Hebrews
 490183	Hebrews
 490186	Hebrews
 Hebrews
 Hebrews
-490191	Hebrews
+490190	Hebrews
+Hebrews
 Hebrews
 490194	Hebrews
 Hebrews
@@ -257539,7 +262537,6 @@ Hebrews
 Hebrews
 490203	Hebrews
 490205	Hebrews
-Hebrews
 Hebrews
 490211	Hebrews
 490214	Hebrews
@@ -257551,8 +262548,10 @@ Hebrews
 Hebrews
 Hebrews
 490228	Hebrews
-490230	Hebrews
+Hebrews
+Hebrews
 490234	Hebrews
+Hebrews
 Hebrews
 490240	Hebrews
 490242	Hebrews
@@ -257560,16 +262559,20 @@ Hebrews
 490247	Hebrews
 Hebrews
 Hebrews
-490251	Hebrews
-490253	Hebrews
 Hebrews
 Hebrews
-490257	Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
 Hebrews
 490261	Hebrews
 Hebrews
 Hebrews
 490267	Hebrews
+Hebrews
 Hebrews
 Hebrews
 490273	Hebrews
@@ -257595,9 +262598,11 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
+Hebrews
 490313	Hebrews
 490315	Hebrews
-490317	Hebrews
+Hebrews
+Hebrews
 490319	Hebrews
 Hebrews
 Hebrews
@@ -257612,7 +262617,8 @@ Hebrews
 Hebrews
 Hebrews
 490341	Hebrews
-490343	Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 490349	Hebrews
@@ -257631,7 +262637,8 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-490386	Hebrews
+490385	Hebrews
+Hebrews
 Hebrews
 490389	Hebrews
 490394	Hebrews
@@ -257642,7 +262649,8 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-490404	Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 490408	Hebrews
@@ -257669,14 +262677,16 @@ Hebrews
 490435	Hebrews
 Hebrews
 Hebrews
-490443	Hebrews
+490442	Hebrews
+Hebrews
 490446	Hebrews
 Hebrews
 490452	Hebrews
 Hebrews
 Hebrews
 Hebrews
-490458	Hebrews
+490457	Hebrews
+Hebrews
 Hebrews
 490461	Hebrews
 Hebrews
@@ -257684,14 +262694,13 @@ Hebrews
 Hebrews
 Hebrews
 490470	Hebrews
-490474	Hebrews
-Hebrews
+490475	Hebrews
 490481	Hebrews
+Hebrews
 Hebrews
 490486	Hebrews
 490488	Hebrews
-490490	Hebrews
-Hebrews
+490491	Hebrews
 490493	Hebrews
 490501	Hebrews
 Hebrews
@@ -257713,8 +262722,7 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-Hebrews
-Hebrews
+490545	Hebrews
 490548	Hebrews
 Hebrews
 Hebrews
@@ -257727,12 +262735,14 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-490561	Hebrews
+Hebrews
+Hebrews
 490563	Hebrews
 Hebrews
 Hebrews
 Hebrews
-490568	Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 490572	Hebrews
@@ -257743,7 +262753,8 @@ Hebrews
 490579	Hebrews
 Hebrews
 Hebrews
-490584	Hebrews
+490583	Hebrews
+Hebrews
 Hebrews
 490587	Hebrews
 Hebrews
@@ -257756,7 +262767,6 @@ Hebrews
 Hebrews
 490603	Hebrews
 490606	Hebrews
-Hebrews
 490609	Hebrews
 490611	Hebrews
 Hebrews
@@ -257792,7 +262802,6 @@ Hebrews
 490685	Hebrews
 Hebrews
 Hebrews
-Hebrews
 490690	Hebrews
 490694	Hebrews
 Hebrews
@@ -257812,11 +262821,13 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
+490730	Hebrews
 490733	Hebrews
 Hebrews
 Hebrews
 Hebrews
-490739	Hebrews
+490738	Hebrews
+Hebrews
 490741	Hebrews
 Hebrews
 Hebrews
@@ -257834,19 +262845,18 @@ Hebrews
 490766	Hebrews
 Hebrews
 Hebrews
-490770	Hebrews
+490771	Hebrews
 Hebrews
 Hebrews
-Hebrews
-490775	Hebrews
-Hebrews
+490776	Hebrews
 Hebrews
 Hebrews
 Hebrews
 Hebrews
 Hebrews
 490784	Hebrews
-490790	Hebrews
+490789	Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -257856,7 +262866,8 @@ Hebrews
 Hebrews
 Hebrews
 490804	Hebrews
-490806	Hebrews
+Hebrews
+Hebrews
 490808	Hebrews
 490812	Hebrews
 490816	Hebrews
@@ -257866,13 +262877,13 @@ Hebrews
 490822	Hebrews
 490825	Hebrews
 490827	Hebrews
-Hebrews
 490830	Hebrews
 490836	Hebrews
 Hebrews
-490844	Hebrews
+490839	Hebrews
+490845	Hebrews
 Hebrews
-490847	Hebrews
+Hebrews
 490851	Hebrews
 Hebrews
 Hebrews
@@ -257888,6 +262899,7 @@ Hebrews
 490877	Hebrews
 490880	Hebrews
 Hebrews
+Hebrews
 490884	Hebrews
 Hebrews
 Hebrews
@@ -257898,28 +262910,32 @@ Hebrews
 Hebrews
 Hebrews
 490896	Hebrews
-490898	Hebrews
 Hebrews
 Hebrews
 Hebrews
-490904	Hebrews
+Hebrews
+Hebrews
+490903	Hebrews
+Hebrews
 Hebrews
 490907	Hebrews
 Hebrews
 Hebrews
 490911	Hebrews
 Hebrews
-490914	Hebrews
 Hebrews
 Hebrews
 Hebrews
 Hebrews
-490921	Hebrews
+Hebrews
+Hebrews
+490920	Hebrews
+Hebrews
 490923	Hebrews
-Hebrews
-Hebrews
+490925	Hebrews
 490927	Hebrews
-490929	Hebrews
+Hebrews
+Hebrews
 Hebrews
 490935	Hebrews
 Hebrews
@@ -257954,7 +262970,6 @@ Hebrews
 490983	Hebrews
 Hebrews
 Hebrews
-Hebrews
 490989	Hebrews
 Hebrews
 490993	Hebrews
@@ -257965,11 +262980,12 @@ Hebrews
 491003	Hebrews
 Hebrews
 Hebrews
-Hebrews
 491008	Hebrews
+Hebrews
 491011	Hebrews
 491014	Hebrews
-491016	Hebrews
+Hebrews
+Hebrews
 Hebrews
 491022	Hebrews
 Hebrews
@@ -257979,9 +262995,9 @@ Hebrews
 Hebrews
 491032	Hebrews
 Hebrews
+491035	Hebrews
+491038	Hebrews
 Hebrews
-Hebrews
-491039	Hebrews
 491044	Hebrews
 Hebrews
 Hebrews
@@ -258002,6 +263018,7 @@ Hebrews
 Hebrews
 Hebrews
 491069	Hebrews
+Hebrews
 491072	Hebrews
 Hebrews
 Hebrews
@@ -258010,11 +263027,13 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-491081	Hebrews
+Hebrews
+Hebrews
 Hebrews
 491084	Hebrews
 Hebrews
-491087	Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -258033,13 +263052,15 @@ Hebrews
 Hebrews
 491123	Hebrews
 491126	Hebrews
-491130	Hebrews
+491129	Hebrews
 Hebrews
 Hebrews
 Hebrews
 Hebrews
 Hebrews
-491137	Hebrews
+Hebrews
+Hebrews
+Hebrews
 Hebrews
 491140	Hebrews
 Hebrews
@@ -258047,7 +263068,8 @@ Hebrews
 491144	Hebrews
 491147	Hebrews
 Hebrews
-491152	Hebrews
+491151	Hebrews
+Hebrews
 491156	Hebrews
 Hebrews
 Hebrews
@@ -258064,18 +263086,20 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-491185	Hebrews
-491189	Hebrews
+491184	Hebrews
 Hebrews
+491190	Hebrews
 Hebrews
 Hebrews
 491197	Hebrews
 Hebrews
-491201	Hebrews
+491200	Hebrews
+Hebrews
 491203	Hebrews
 Hebrews
 491206	Hebrews
-491208	Hebrews
+Hebrews
+Hebrews
 491210	Hebrews
 Hebrews
 Hebrews
@@ -258083,27 +263107,31 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-491220	Hebrews
+491219	Hebrews
+Hebrews
 Hebrews
 491224	Hebrews
 Hebrews
 491227	Hebrews
 Hebrews
-Hebrews
-Hebrews
+491230	Hebrews
 491232	Hebrews
 491234	Hebrews
 Hebrews
 Hebrews
 Hebrews
-491239	Hebrews
+Hebrews
+Hebrews
 491241	Hebrews
 491243	Hebrews
 Hebrews
 491246	Hebrews
 Hebrews
 Hebrews
-491250	Hebrews
+Hebrews
+Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -258121,16 +263149,19 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
-491290	Hebrews
+491289	Hebrews
+Hebrews
 491292	Hebrews
 Hebrews
 Hebrews
-491296	Hebrews
+Hebrews
+Hebrews
 Hebrews
 491299	Hebrews
 Hebrews
 491302	Hebrews
-491304	Hebrews
+Hebrews
+Hebrews
 491313	Hebrews
 491318	Hebrews
 Hebrews
@@ -258147,12 +263178,13 @@ Hebrews
 Hebrews
 Hebrews
 Hebrews
+491348	Hebrews
 491352	Hebrews
 491355	Hebrews
 491358	Hebrews
-491360	Hebrews
-491362	Hebrews
 Hebrews
+Hebrews
+491363	Hebrews
 Hebrews
 Hebrews
 491368	Hebrews
@@ -258168,7 +263200,8 @@ Hebrews
 Hebrews
 491385	Hebrews
 491387	Hebrews
-491389	Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 Hebrews
@@ -258194,7 +263227,9 @@ Hebrews
 491442	Hebrews
 491448	Hebrews
 Hebrews
-491452	Hebrews
+Hebrews
+Hebrews
+Hebrews
 Hebrews
 Hebrews
 491458	Hebrews
@@ -258205,14 +263240,12 @@ Hebrews
 491469	Hebrews
 Hebrews
 Hebrews
-Hebrews
 491476	Hebrews
 Hebrews
 491480	Hebrews
 491484	Hebrews
 491488	James
-491491	James
-James
+491492	James
 491501	James
 James
 491504	James
@@ -258228,11 +263261,13 @@ James
 491523	James
 James
 491526	James
-491528	James
+James
+James
 James
 491531	James
 James
-491537	James
+491536	James
+James
 James
 James
 James
@@ -258249,7 +263284,8 @@ James
 James
 James
 James
-491558	James
+James
+James
 491561	James
 James
 491565	James
@@ -258257,7 +263293,8 @@ James
 James
 James
 491580	James
-491582	James
+James
+James
 491587	James
 James
 James
@@ -258272,8 +263309,11 @@ James
 491607	James
 James
 491613	James
-491620	James
-491622	James
+491619	James
+James
+James
+James
+James
 James
 James
 James
@@ -258302,12 +263342,11 @@ James
 James
 James
 491664	James
-James
 491668	James
 491671	James
+491673	James
 491677	James
-491679	James
-James
+491680	James
 491682	James
 James
 491686	James
@@ -258315,7 +263354,8 @@ James
 491692	James
 James
 491696	James
-491698	James
+James
+James
 491701	James
 James
 James
@@ -258327,19 +263367,20 @@ James
 491713	James
 James
 James
-491717	James
-James
+491718	James
 491724	James
 James
 James
 491729	James
-491731	James
+James
+James
 James
 491734	James
 James
 James
 James
-491739	James
+James
+James
 491741	James
 491743	James
 James
@@ -258356,11 +263397,13 @@ James
 James
 James
 James
-491766	James
+James
+James
 491772	James
 James
 James
-491782	James
+491781	James
+James
 James
 James
 491786	James
@@ -258369,16 +263412,17 @@ James
 491793	James
 491796	James
 James
-491800	James
-James
-491804	James
+491801	James
 James
 James
+James
+491806	James
 491810	James
 491813	James
 James
 491825	James
-491827	James
+James
+James
 491830	James
 491837	James
 James
@@ -258403,9 +263447,9 @@ James
 James
 491878	James
 James
-491884	James
 491887	James
-491891	James
+491890	James
+James
 James
 James
 James
@@ -258419,15 +263463,19 @@ James
 James
 491909	James
 James
-491913	James
+491912	James
 James
 James
-491921	James
+James
+491919	James
+James
+James
 491924	James
 James
 James
 James
-491929	James
+James
+James
 James
 James
 James
@@ -258435,7 +263483,8 @@ James
 James
 James
 James
-491940	James
+James
+James
 491943	James
 James
 491947	James
@@ -258445,12 +263494,14 @@ James
 James
 James
 James
-491955	James
+James
+James
 491957	James
 James
 James
 James
-491963	James
+491962	James
+James
 James
 James
 James
@@ -258458,7 +263509,8 @@ James
 James
 James
 491972	James
-491974	James
+James
+James
 491976	James
 James
 James
@@ -258473,15 +263525,16 @@ James
 James
 James
 491993	James
-491995	James
+James
+James
 491998	James
-James
-James
+492000	James
 James
 James
 492005	James
 492007	James
-492011	James
+492010	James
+James
 492013	James
 James
 James
@@ -258544,7 +263597,8 @@ James
 492127	James
 James
 492130	James
-492132	James
+James
+James
 James
 492136	James
 492139	James
@@ -258554,13 +263608,15 @@ James
 James
 492146	James
 James
-492149	James
+James
+James
 James
 492152	James
 492155	James
 James
 492160	James
-492162	James
+James
+James
 James
 492170	James
 James
@@ -258578,12 +263634,16 @@ James
 James
 James
 492203	James
-492206	James
+James
+James
+James
 492208	James
-492213	James
+492212	James
+James
 492218	James
 James
-492221	James
+James
+James
 492224	James
 James
 492229	James
@@ -258598,26 +263658,24 @@ James
 James
 492244	James
 492248	James
-492250	James
+James
+James
 James
 492254	James
 492258	James
 James
-492262	James
-James
+492263	James
 James
 James
 492269	James
 James
 492273	James
-492277	James
-James
+492278	James
 James
 James
 492282	James
 James
 James
-492289	James
 492291	James
 492293	James
 James
@@ -258632,7 +263690,7 @@ James
 492306	James
 492308	James
 492316	James
-492318	James
+James
 James
 James
 492322	James
@@ -258645,17 +263703,15 @@ James
 492337	James
 James
 492340	James
-492342	James
 James
 James
+492344	James
 James
-James
-James
+492347	James
 492350	James
 James
 492354	James
-492357	James
-James
+492358	James
 492360	James
 James
 492364	James
@@ -258686,7 +263742,8 @@ James
 James
 492401	James
 James
-492404	James
+James
+James
 James
 James
 James
@@ -258709,7 +263766,8 @@ James
 James
 James
 492439	James
-492443	James
+492442	James
+James
 492445	James
 James
 492448	James
@@ -258753,18 +263811,19 @@ James
 James
 James
 James
-492503	James
+James
+James
 James
 James
 492508	James
 James
 James
-492512	James
+James
+James
 James
 James
 492517	James
-492519	James
-James
+492520	James
 James
 James
 James
@@ -258774,8 +263833,11 @@ James
 James
 James
 James
-492533	James
-492536	James
+492532	James
+James
+James
+James
+James
 James
 492539	James
 492541	James
@@ -258790,31 +263852,35 @@ James
 James
 492558	James
 492560	James
-492562	James
+James
+James
 492564	James
 492566	James
 492568	James
 James
-492571	James
+James
+James
 James
 492574	James
 James
 James
 James
 James
-James
-James
+492580	James
 James
 James
 492586	James
 492589	James
-492591	James
 James
 James
 James
 James
 James
-492599	James
+James
+James
+James
+James
+James
 James
 492602	James
 James
@@ -258825,7 +263891,6 @@ James
 492614	James
 James
 492618	James
-James
 James
 492623	James
 492625	James
@@ -258857,8 +263922,7 @@ James
 492691	James
 492693	James
 James
-James
-James
+492696	James
 James
 James
 492700	James
@@ -258871,8 +263935,8 @@ James
 James
 492717	James
 492719	James
-James
 492722	James
+492724	James
 492726	James
 492730	James
 James
@@ -258897,11 +263961,14 @@ James
 James
 492766	James
 James
-492770	James
-492773	James
-492775	James
+492769	James
 James
-492778	James
+492773	James
+James
+James
+James
+James
+James
 492781	James
 James
 492786	James
@@ -258914,11 +263981,13 @@ James
 James
 James
 James
-492806	James
+492805	James
+James
 James
 492809	James
 James
-492812	James
+James
+James
 James
 492815	James
 James
@@ -258934,7 +264003,6 @@ James
 James
 James
 James
-492836	James
 492838	James
 492840	James
 James
@@ -258960,14 +264028,11 @@ James
 492878	1Peter
 492886	1Peter
 1Peter
-492895	1Peter
-1Peter
+492896	1Peter
 492900	1Peter
+492902	1Peter
 1Peter
-1Peter
-1Peter
-492907	1Peter
-1Peter
+492908	1Peter
 492913	1Peter
 1Peter
 492921	1Peter
@@ -258985,13 +264050,15 @@ James
 1Peter
 492955	1Peter
 492963	1Peter
-492965	1Peter
+1Peter
+1Peter
 1Peter
 1Peter
 492970	1Peter
 1Peter
 1Peter
-492977	1Peter
+492976	1Peter
+1Peter
 1Peter
 1Peter
 1Peter
@@ -259006,16 +264073,17 @@ James
 493000	1Peter
 1Peter
 493006	1Peter
-493009	1Peter
-1Peter
+493008	1Peter
+493010	1Peter
 493012	1Peter
 493017	1Peter
-1Peter
 493022	1Peter
 493026	1Peter
 1Peter
 1Peter
-493032	1Peter
+493030	1Peter
+1Peter
+1Peter
 493034	1Peter
 1Peter
 493039	1Peter
@@ -259023,21 +264091,26 @@ James
 1Peter
 493044	1Peter
 1Peter
-493047	1Peter
+1Peter
+1Peter
 493052	1Peter
 493056	1Peter
-493062	1Peter
+493060	1Peter
+1Peter
+1Peter
 1Peter
 493066	1Peter
 493073	1Peter
 493077	1Peter
 493081	1Peter
 1Peter
-493084	1Peter
 1Peter
 1Peter
 1Peter
-493089	1Peter
+1Peter
+1Peter
+1Peter
+1Peter
 1Peter
 1Peter
 1Peter
@@ -259045,24 +264118,25 @@ James
 493102	1Peter
 1Peter
 493105	1Peter
-493107	1Peter
+493108	1Peter
+493114	1Peter
 1Peter
-493115	1Peter
 493117	1Peter
 1Peter
 493121	1Peter
 1Peter
-493125	1Peter
+493124	1Peter
+1Peter
 1Peter
 493129	1Peter
 1Peter
 493142	1Peter
-493144	1Peter
+1Peter
+1Peter
 493146	1Peter
 1Peter
 1Peter
 1Peter
-493151	1Peter
 493153	1Peter
 493155	1Peter
 1Peter
@@ -259072,7 +264146,8 @@ James
 1Peter
 1Peter
 1Peter
-493179	1Peter
+1Peter
+1Peter
 1Peter
 493183	1Peter
 1Peter
@@ -259087,7 +264162,8 @@ James
 493206	1Peter
 1Peter
 493209	1Peter
-493211	1Peter
+1Peter
+1Peter
 1Peter
 493215	1Peter
 493217	1Peter
@@ -259102,7 +264178,8 @@ James
 493235	1Peter
 1Peter
 493241	1Peter
-493243	1Peter
+1Peter
+1Peter
 1Peter
 493246	1Peter
 1Peter
@@ -259123,24 +264200,28 @@ James
 1Peter
 1Peter
 1Peter
-493287	1Peter
-493290	1Peter
+1Peter
+1Peter
+1Peter
+1Peter
+1Peter
 1Peter
 1Peter
 493295	1Peter
-1Peter
 1Peter
 493299	1Peter
 493301	1Peter
 1Peter
 1Peter
 493306	1Peter
-493308	1Peter
+1Peter
+1Peter
 493315	1Peter
 1Peter
 493319	1Peter
 1Peter
-493327	1Peter
+493326	1Peter
+1Peter
 1Peter
 1Peter
 493331	1Peter
@@ -259152,10 +264233,11 @@ James
 1Peter
 1Peter
 1Peter
-493341	1Peter
-1Peter
+493342	1Peter
+493344	1Peter
 493346	1Peter
-493350	1Peter
+493349	1Peter
+1Peter
 493355	1Peter
 1Peter
 493358	1Peter
@@ -259166,8 +264248,9 @@ James
 493375	1Peter
 493378	1Peter
 1Peter
-493382	1Peter
-493385	1Peter
+1Peter
+1Peter
+1Peter
 493387	1Peter
 493389	1Peter
 1Peter
@@ -259181,7 +264264,8 @@ James
 1Peter
 493410	1Peter
 1Peter
-493414	1Peter
+493413	1Peter
+1Peter
 1Peter
 493417	1Peter
 493419	1Peter
@@ -259190,7 +264274,8 @@ James
 493431	1Peter
 1Peter
 493435	1Peter
-493437	1Peter
+1Peter
+1Peter
 1Peter
 1Peter
 493442	1Peter
@@ -259214,10 +264299,12 @@ James
 493466	1Peter
 1Peter
 1Peter
-493472	1Peter
+493471	1Peter
 1Peter
 1Peter
-493479	1Peter
+1Peter
+493478	1Peter
+1Peter
 1Peter
 1Peter
 1Peter
@@ -259236,13 +264323,13 @@ James
 493509	1Peter
 1Peter
 1Peter
-493515	1Peter
-1Peter
+493516	1Peter
 493519	1Peter
 1Peter
 1Peter
 493524	1Peter
-493526	1Peter
+1Peter
+1Peter
 1Peter
 493530	1Peter
 493536	1Peter
@@ -259250,11 +264337,13 @@ James
 493547	1Peter
 493549	1Peter
 493551	1Peter
+493561	1Peter
 493564	1Peter
 1Peter
 1Peter
 493569	1Peter
-493571	1Peter
+1Peter
+1Peter
 493576	1Peter
 1Peter
 493579	1Peter
@@ -259267,7 +264356,8 @@ James
 1Peter
 493593	1Peter
 1Peter
-493598	1Peter
+493597	1Peter
+1Peter
 1Peter
 493601	1Peter
 493603	1Peter
@@ -259276,6 +264366,7 @@ James
 1Peter
 493613	1Peter
 1Peter
+493617	1Peter
 493619	1Peter
 493621	1Peter
 1Peter
@@ -259297,7 +264388,8 @@ James
 1Peter
 1Peter
 1Peter
-493649	1Peter
+1Peter
+1Peter
 1Peter
 493652	1Peter
 1Peter
@@ -259323,7 +264415,8 @@ James
 1Peter
 1Peter
 493687	1Peter
-493689	1Peter
+1Peter
+1Peter
 493692	1Peter
 493695	1Peter
 1Peter
@@ -259334,15 +264427,15 @@ James
 1Peter
 493714	1Peter
 1Peter
-493717	1Peter
-1Peter
+493718	1Peter
 493720	1Peter
 1Peter
 493723	1Peter
 1Peter
 1Peter
 493731	1Peter
-493733	1Peter
+1Peter
+1Peter
 1Peter
 1Peter
 1Peter
@@ -259364,18 +264457,24 @@ James
 493766	1Peter
 1Peter
 1Peter
-493770	1Peter
+1Peter
+1Peter
 493776	1Peter
-493778	1Peter
-493781	1Peter
+1Peter
+1Peter
+493780	1Peter
+1Peter
 493784	1Peter
+493797	1Peter
 493799	1Peter
 1Peter
 493803	1Peter
 493806	1Peter
 1Peter
 1Peter
-493811	1Peter
+1Peter
+1Peter
+1Peter
 1Peter
 493816	1Peter
 1Peter
@@ -259389,7 +264488,6 @@ James
 1Peter
 493839	1Peter
 1Peter
-493842	1Peter
 493844	1Peter
 493847	1Peter
 493853	1Peter
@@ -259397,8 +264495,7 @@ James
 1Peter
 1Peter
 1Peter
-1Peter
-1Peter
+493859	1Peter
 1Peter
 1Peter
 1Peter
@@ -259417,54 +264514,67 @@ James
 493888	1Peter
 1Peter
 493891	1Peter
-493897	1Peter
+493894	1Peter
+1Peter
+1Peter
+1Peter
 1Peter
 1Peter
 493901	1Peter
 1Peter
-493909	1Peter
+493907	1Peter
 1Peter
 1Peter
 1Peter
-493915	1Peter
+1Peter
+1Peter
+493914	1Peter
 1Peter
 1Peter
 1Peter
-493921	1Peter
+1Peter
+493920	1Peter
+1Peter
 493923	1Peter
 1Peter
+493928	1Peter
 493930	1Peter
-1Peter
 493933	1Peter
 493939	1Peter
 1Peter
 1Peter
-493945	1Peter
+493943	1Peter
+1Peter
+1Peter
 493949	1Peter
 493951	1Peter
 1Peter
-493954	1Peter
+1Peter
+1Peter
 1Peter
 493959	1Peter
 1Peter
 1Peter
 493968	1Peter
-493971	1Peter
+1Peter
+1Peter
+1Peter
 1Peter
 493975	1Peter
 1Peter
 1Peter
-1Peter
 493981	1Peter
 493986	1Peter
-493988	1Peter
+1Peter
+1Peter
 1Peter
 493993	1Peter
 1Peter
 1Peter
 1Peter
 493998	1Peter
-494000	1Peter
+1Peter
+1Peter
 1Peter
 494004	1Peter
 1Peter
@@ -259473,7 +264583,8 @@ James
 494013	1Peter
 1Peter
 494020	1Peter
-494022	1Peter
+1Peter
+1Peter
 1Peter
 494025	1Peter
 494028	1Peter
@@ -259482,17 +264593,14 @@ James
 1Peter
 1Peter
 1Peter
-494039	1Peter
-1Peter
+494040	1Peter
 1Peter
 1Peter
 494044	1Peter
 1Peter
 494054	1Peter
 1Peter
-494058	1Peter
-494060	1Peter
-1Peter
+494061	1Peter
 494066	1Peter
 494071	1Peter
 1Peter
@@ -259501,7 +264609,8 @@ James
 1Peter
 494086	1Peter
 494089	1Peter
-494091	1Peter
+1Peter
+1Peter
 494093	1Peter
 494098	1Peter
 1Peter
@@ -259515,7 +264624,8 @@ James
 1Peter
 494116	1Peter
 1Peter
-494120	1Peter
+494119	1Peter
+1Peter
 494125	1Peter
 1Peter
 494128	1Peter
@@ -259530,7 +264640,8 @@ James
 494143	1Peter
 1Peter
 494153	1Peter
-494155	1Peter
+1Peter
+1Peter
 1Peter
 494161	1Peter
 1Peter
@@ -259542,37 +264653,33 @@ James
 1Peter
 494179	1Peter
 1Peter
-494187	1Peter
+494184	1Peter
+494186	1Peter
+1Peter
 494190	1Peter
 1Peter
 1Peter
 1Peter
 494197	1Peter
 494199	1Peter
-1Peter
 494204	1Peter
 494208	1Peter
 494211	1Peter
 494216	2Peter
-494220	2Peter
-2Peter
+494221	2Peter
 494223	2Peter
 2Peter
-494230	2Peter
 494232	2Peter
 494234	2Peter
-2Peter
-2Peter
-494239	2Peter
+494236	2Peter
 494241	2Peter
 494245	2Peter
 2Peter
-494254	2Peter
-2Peter
+494255	2Peter
 494259	2Peter
 2Peter
-494263	2Peter
 2Peter
+494264	2Peter
 2Peter
 2Peter
 494270	2Peter
@@ -259608,17 +264715,16 @@ James
 2Peter
 2Peter
 2Peter
-494354	2Peter
-2Peter
+494355	2Peter
 2Peter
 2Peter
 2Peter
 494360	2Peter
 2Peter
-494370	2Peter
 494372	2Peter
 494374	2Peter
-494376	2Peter
+2Peter
+2Peter
 2Peter
 494379	2Peter
 2Peter
@@ -259630,7 +264736,8 @@ James
 494394	2Peter
 494396	2Peter
 2Peter
-494399	2Peter
+2Peter
+2Peter
 494404	2Peter
 2Peter
 494411	2Peter
@@ -259641,14 +264748,13 @@ James
 494423	2Peter
 2Peter
 494426	2Peter
-494433	2Peter
-2Peter
+494434	2Peter
 2Peter
 494439	2Peter
 2Peter
-494442	2Peter
-494445	2Peter
 2Peter
+2Peter
+494446	2Peter
 2Peter
 494452	2Peter
 494458	2Peter
@@ -259663,7 +264769,8 @@ James
 2Peter
 2Peter
 494480	2Peter
-494485	2Peter
+494484	2Peter
+2Peter
 2Peter
 2Peter
 494491	2Peter
@@ -259674,10 +264781,12 @@ James
 494501	2Peter
 2Peter
 494506	2Peter
-494508	2Peter
+2Peter
+2Peter
 494512	2Peter
 2Peter
-494517	2Peter
+494516	2Peter
+2Peter
 494519	2Peter
 494523	2Peter
 2Peter
@@ -259686,11 +264795,13 @@ James
 2Peter
 494535	2Peter
 2Peter
-494540	2Peter
+494539	2Peter
+2Peter
 494542	2Peter
 2Peter
 494546	2Peter
-494548	2Peter
+2Peter
+2Peter
 494552	2Peter
 494555	2Peter
 2Peter
@@ -259705,18 +264816,17 @@ James
 494573	2Peter
 494575	2Peter
 2Peter
-494578	2Peter
-2Peter
+494579	2Peter
 2Peter
 494582	2Peter
 2Peter
 2Peter
-494586	2Peter
+2Peter
+2Peter
 494589	2Peter
 494596	2Peter
 2Peter
-2Peter
-2Peter
+494599	2Peter
 494601	2Peter
 494607	2Peter
 494609	2Peter
@@ -259726,29 +264836,28 @@ James
 494617	2Peter
 2Peter
 2Peter
-494621	2Peter
+2Peter
+2Peter
 494625	2Peter
 2Peter
 2Peter
 494629	2Peter
 2Peter
 2Peter
-2Peter
-2Peter
+494633	2Peter
 494637	2Peter
 2Peter
 494642	2Peter
-494644	2Peter
-2Peter
+494645	2Peter
 2Peter
 494648	2Peter
 2Peter
 494653	2Peter
 494655	2Peter
-494657	2Peter
+2Peter
+2Peter
 494661	2Peter
-2Peter
-2Peter
+494663	2Peter
 2Peter
 494668	2Peter
 2Peter
@@ -259760,13 +264869,14 @@ James
 2Peter
 494682	2Peter
 494684	2Peter
-494692	2Peter
+494687	2Peter
+494691	2Peter
+2Peter
 494694	2Peter
 2Peter
 494698	2Peter
 494700	2Peter
 494706	2Peter
-2Peter
 494709	2Peter
 494711	2Peter
 494713	2Peter
@@ -259783,11 +264893,11 @@ James
 2Peter
 2Peter
 2Peter
-494738	2Peter
+2Peter
+2Peter
 2Peter
 494741	2Peter
-494749	2Peter
-2Peter
+494750	2Peter
 494752	2Peter
 2Peter
 2Peter
@@ -259808,11 +264918,9 @@ James
 494788	2Peter
 494790	2Peter
 494796	2Peter
-2Peter
 494800	2Peter
 494804	2Peter
-494811	2Peter
-2Peter
+494812	2Peter
 2Peter
 2Peter
 2Peter
@@ -259836,11 +264944,9 @@ James
 494859	2Peter
 2Peter
 2Peter
-2Peter
 494865	2Peter
 494870	2Peter
-494874	2Peter
-2Peter
+494875	2Peter
 494878	2Peter
 2Peter
 494881	2Peter
@@ -259858,24 +264964,25 @@ James
 2Peter
 494906	2Peter
 2Peter
-494911	2Peter
+494910	2Peter
+2Peter
 494914	2Peter
 494916	2Peter
 2Peter
 2Peter
 2Peter
+494921	2Peter
+494925	2Peter
 2Peter
-2Peter
-494926	2Peter
 494928	2Peter
 2Peter
-494931	2Peter
 494933	2Peter
 2Peter
 494936	2Peter
-494944	2Peter
-494946	2Peter
+494940	2Peter
+494943	2Peter
 2Peter
+494946	2Peter
 2Peter
 2Peter
 2Peter
@@ -259898,7 +265005,8 @@ James
 2Peter
 2Peter
 494994	2Peter
-494997	2Peter
+494996	2Peter
+2Peter
 494999	2Peter
 2Peter
 2Peter
@@ -259912,16 +265020,15 @@ James
 2Peter
 495022	2Peter
 2Peter
-495026	2Peter
-2Peter
-495030	2Peter
+495027	2Peter
 495032	2Peter
 495034	2Peter
 495039	1John
 495041	1John
 495043	1John
 1John
-495048	1John
+495047	1John
+1John
 1John
 1John
 495057	1John
@@ -259933,7 +265040,9 @@ James
 1John
 1John
 1John
-495072	1John
+1John
+495071	1John
+1John
 495075	1John
 1John
 1John
@@ -259950,7 +265059,9 @@ James
 1John
 495108	1John
 1John
-495113	1John
+495111	1John
+1John
+1John
 495115	1John
 1John
 1John
@@ -259958,7 +265069,8 @@ James
 1John
 495121	1John
 1John
-495126	1John
+495125	1John
+1John
 495128	1John
 1John
 1John
@@ -259977,7 +265089,7 @@ James
 495151	1John
 495153	1John
 1John
-495163	1John
+495162	1John
 1John
 1John
 1John
@@ -259985,7 +265097,9 @@ James
 1John
 1John
 1John
-495174	1John
+1John
+495173	1John
+1John
 1John
 495178	1John
 495180	1John
@@ -259993,7 +265107,8 @@ James
 495183	1John
 495185	1John
 1John
-495190	1John
+495189	1John
+1John
 1John
 1John
 1John
@@ -260023,7 +265138,8 @@ James
 495240	1John
 1John
 1John
-495244	1John
+1John
+1John
 1John
 1John
 1John
@@ -260031,7 +265147,8 @@ James
 495251	1John
 1John
 495255	1John
-495257	1John
+1John
+1John
 1John
 495261	1John
 495266	1John
@@ -260048,9 +265165,11 @@ James
 495281	1John
 1John
 1John
+495286	1John
 495288	1John
 495290	1John
-495296	1John
+495295	1John
+1John
 1John
 495299	1John
 1John
@@ -260060,7 +265179,8 @@ James
 1John
 495313	1John
 1John
-495316	1John
+1John
+1John
 1John
 495320	1John
 1John
@@ -260071,6 +265191,7 @@ James
 495335	1John
 1John
 495338	1John
+1John
 495341	1John
 1John
 1John
@@ -260110,7 +265231,6 @@ James
 495401	1John
 1John
 495404	1John
-1John
 495407	1John
 495411	1John
 1John
@@ -260123,7 +265243,6 @@ James
 495444	1John
 1John
 1John
-1John
 495449	1John
 495452	1John
 1John
@@ -260133,7 +265252,9 @@ James
 1John
 1John
 495465	1John
-495468	1John
+1John
+1John
+1John
 1John
 1John
 1John
@@ -260179,7 +265300,6 @@ James
 495529	1John
 495532	1John
 1John
-1John
 495536	1John
 495538	1John
 495540	1John
@@ -260197,7 +265317,8 @@ James
 495565	1John
 495568	1John
 1John
-495572	1John
+495571	1John
+1John
 1John
 495577	1John
 495579	1John
@@ -260206,13 +265327,15 @@ James
 1John
 1John
 1John
-495587	1John
+495586	1John
+1John
 495590	1John
 1John
 1John
 1John
 1John
-495596	1John
+1John
+1John
 1John
 495599	1John
 495603	1John
@@ -260232,7 +265355,8 @@ James
 1John
 1John
 1John
-495629	1John
+495628	1John
+1John
 1John
 1John
 1John
@@ -260241,7 +265365,8 @@ James
 1John
 495638	1John
 1John
-495643	1John
+495642	1John
+1John
 1John
 1John
 495648	1John
@@ -260266,7 +265391,8 @@ James
 1John
 1John
 1John
-495675	1John
+1John
+1John
 495677	1John
 1John
 495682	1John
@@ -260310,7 +265436,8 @@ James
 495737	1John
 495742	1John
 1John
-495748	1John
+495747	1John
+1John
 495750	1John
 1John
 495754	1John
@@ -260321,8 +265448,8 @@ James
 1John
 1John
 495765	1John
-495767	1John
 495771	1John
+495775	1John
 495777	1John
 495779	1John
 1John
@@ -260332,7 +265459,8 @@ James
 1John
 495789	1John
 1John
-495793	1John
+495792	1John
+1John
 495795	1John
 1John
 1John
@@ -260375,8 +265503,10 @@ James
 1John
 495868	1John
 495870	1John
-495872	1John
-495874	1John
+1John
+1John
+1John
+1John
 495878	1John
 1John
 1John
@@ -260385,16 +265515,15 @@ James
 495888	1John
 495893	1John
 1John
-495896	1John
-1John
-495900	1John
-1John
+495897	1John
+495901	1John
 1John
 1John
 495905	1John
 1John
 495909	1John
-495911	1John
+1John
+1John
 495915	1John
 1John
 1John
@@ -260405,13 +265534,15 @@ James
 1John
 1John
 1John
-495931	1John
+1John
+1John
 1John
 495934	1John
 495937	1John
 1John
 1John
-495941	1John
+1John
+1John
 495944	1John
 495947	1John
 1John
@@ -260421,7 +265552,8 @@ James
 1John
 1John
 495964	1John
-495966	1John
+1John
+1John
 1John
 1John
 1John
@@ -260436,25 +265568,32 @@ James
 495983	1John
 1John
 495986	1John
-495990	1John
+495989	1John
+1John
 1John
 1John
 495994	1John
-495997	1John
+495996	1John
+1John
 495999	1John
 1John
 496003	1John
 1John
 496008	1John
-496014	1John
-496017	1John
+496013	1John
+1John
+496016	1John
+1John
 1John
 496023	1John
 1John
-496027	1John
+496026	1John
+1John
 496031	1John
 1John
-496037	1John
+1John
+496036	1John
+1John
 1John
 1John
 1John
@@ -260480,7 +265619,6 @@ James
 496079	1John
 1John
 496083	1John
-496085	1John
 496089	1John
 496093	1John
 1John
@@ -260536,7 +265674,8 @@ James
 496193	1John
 1John
 1John
-496201	1John
+496200	1John
+1John
 1John
 1John
 1John
@@ -260547,7 +265686,8 @@ James
 496216	1John
 1John
 496219	1John
-496222	1John
+496221	1John
+1John
 496225	1John
 1John
 496228	1John
@@ -260577,7 +265717,8 @@ James
 496279	1John
 1John
 1John
-496283	1John
+1John
+1John
 496285	1John
 1John
 1John
@@ -260588,9 +265729,11 @@ James
 1John
 1John
 1John
+496299	1John
 496301	1John
 1John
-496305	1John
+496304	1John
+1John
 1John
 1John
 496311	1John
@@ -260611,7 +265754,8 @@ James
 1John
 1John
 1John
-496340	1John
+496339	1John
+1John
 496342	1John
 1John
 496347	1John
@@ -260629,11 +265773,13 @@ James
 496371	1John
 1John
 496376	1John
-496378	1John
+1John
+1John
 496381	1John
 1John
 496384	1John
-496388	1John
+496387	1John
+1John
 1John
 1John
 496392	1John
@@ -260642,11 +265788,11 @@ James
 1John
 1John
 1John
-496402	1John
+496401	1John
 1John
 1John
-496406	1John
 1John
+496407	1John
 1John
 496411	1John
 496414	1John
@@ -260666,7 +265812,9 @@ James
 496440	1John
 496442	1John
 1John
-496449	1John
+496447	1John
+1John
+1John
 1John
 496454	1John
 496458	1John
@@ -260681,7 +265829,8 @@ James
 1John
 496481	1John
 1John
-496486	1John
+496485	1John
+1John
 496491	1John
 1John
 496494	1John
@@ -260705,22 +265854,28 @@ James
 496533	1John
 1John
 1John
-496538	1John
-496541	1John
+496537	1John
+1John
+496540	1John
+1John
 1John
 496546	1John
 1John
-496549	1John
 1John
 1John
 1John
-496554	1John
 1John
 1John
 1John
-496560	1John
+1John
+1John
+1John
+1John
+496559	1John
+1John
 496562	1John
-496564	1John
+1John
+1John
 1John
 1John
 496572	1John
@@ -260765,15 +265920,13 @@ James
 496639	1John
 1John
 496649	1John
-1John
 496653	1John
 496655	1John
 1John
 496660	2John
-496663	2John
+496662	2John
 496665	2John
 496668	2John
-2John
 496671	2John
 496676	2John
 2John
@@ -260784,12 +265937,13 @@ James
 496690	2John
 496694	2John
 496697	2John
-496705	2John
-2John
-496708	2John
+496706	2John
 2John
 2John
-496712	2John
+2John
+2John
+2John
+2John
 496717	2John
 2John
 496721	2John
@@ -260816,7 +265970,6 @@ James
 2John
 2John
 496760	2John
-2John
 496763	2John
 496765	2John
 2John
@@ -260825,7 +265978,8 @@ James
 2John
 496772	2John
 496774	2John
-496776	2John
+2John
+2John
 2John
 2John
 496783	2John
@@ -260834,7 +265988,8 @@ James
 2John
 496790	2John
 496792	2John
-496795	2John
+496794	2John
+2John
 496797	2John
 496799	2John
 2John
@@ -260852,8 +266007,7 @@ James
 2John
 2John
 2John
-496823	2John
-2John
+496824	2John
 2John
 2John
 496828	2John
@@ -260863,6 +266017,7 @@ James
 2John
 496839	2John
 496846	3John
+496848	3John
 496851	3John
 496853	3John
 3John
@@ -260871,8 +266026,10 @@ James
 3John
 3John
 496863	3John
-496865	3John
-496867	3John
+3John
+3John
+3John
+3John
 3John
 3John
 3John
@@ -260885,10 +266042,13 @@ James
 496885	3John
 3John
 3John
-496889	3John
+3John
+3John
 496892	3John
 3John
-496896	3John
+3John
+3John
+3John
 496900	3John
 3John
 496903	3John
@@ -260907,10 +266067,12 @@ James
 3John
 496926	3John
 3John
+3John
 496931	3John
 3John
 496934	3John
-496936	3John
+3John
+3John
 496938	3John
 3John
 3John
@@ -260945,8 +266107,7 @@ James
 3John
 3John
 3John
-496989	3John
-3John
+496990	3John
 3John
 3John
 3John
@@ -260957,9 +266118,9 @@ James
 3John
 497002	3John
 497005	Jude
-497007	Jude
 497010	Jude
-497015	Jude
+497014	Jude
+Jude
 497018	Jude
 Jude
 497021	Jude
@@ -260980,11 +266141,11 @@ Jude
 497052	Jude
 497058	Jude
 Jude
-497061	Jude
 497063	Jude
 497067	Jude
 Jude
-497070	Jude
+Jude
+Jude
 Jude
 Jude
 Jude
@@ -260995,7 +266156,8 @@ Jude
 Jude
 Jude
 497084	Jude
-497086	Jude
+Jude
+Jude
 497089	Jude
 Jude
 497098	Jude
@@ -261010,6 +266172,7 @@ Jude
 Jude
 497121	Jude
 497123	Jude
+Jude
 Jude
 Jude
 Jude
@@ -261033,7 +266196,8 @@ Jude
 Jude
 Jude
 Jude
-497161	Jude
+497160	Jude
+Jude
 Jude
 497164	Jude
 497168	Jude
@@ -261041,13 +266205,15 @@ Jude
 497174	Jude
 Jude
 497179	Jude
-497186	Jude
+497185	Jude
+Jude
 Jude
 Jude
 497192	Jude
 497198	Jude
 Jude
 497203	Jude
+497206	Jude
 497208	Jude
 497213	Jude
 Jude
@@ -261056,9 +266222,11 @@ Jude
 497225	Jude
 497227	Jude
 Jude
+497235	Jude
 497238	Jude
 Jude
-497244	Jude
+497243	Jude
+Jude
 497247	Jude
 Jude
 497251	Jude
@@ -261106,24 +266274,27 @@ Jude
 Jude
 497365	Jude
 Revelation
-497371	Revelation
+Revelation
+497370	Revelation
+Revelation
 497373	Revelation
 497376	Revelation
 Revelation
 497379	Revelation
 Revelation
 Revelation
+497385	Revelation
 497389	Revelation
-497391	Revelation
+Revelation
 497395	Revelation
 497399	Revelation
 Revelation
+497402	Revelation
 Revelation
 Revelation
 Revelation
 Revelation
 Revelation
-497407	Revelation
 497411	Revelation
 Revelation
 Revelation
@@ -261132,8 +266303,7 @@ Revelation
 Revelation
 497419	Revelation
 497426	Revelation
-Revelation
-Revelation
+497428	Revelation
 497432	Revelation
 Revelation
 Revelation
@@ -261143,20 +266313,20 @@ Revelation
 Revelation
 Revelation
 Revelation
+497443	Revelation
 497445	Revelation
 497449	Revelation
-497457	Revelation
 497461	Revelation
+497467	Revelation
 497469	Revelation
 Revelation
-497472	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 497481	Revelation
 Revelation
-497487	Revelation
-Revelation
-Revelation
+497488	Revelation
 Revelation
 497492	Revelation
 497498	Revelation
@@ -261164,14 +266334,14 @@ Revelation
 Revelation
 497503	Revelation
 497505	Revelation
-Revelation
 497508	Revelation
 Revelation
 Revelation
 Revelation
 497517	Revelation
 Revelation
-497521	Revelation
+Revelation
+Revelation
 Revelation
 497524	Revelation
 497526	Revelation
@@ -261185,21 +266355,20 @@ Revelation
 Revelation
 Revelation
 497541	Revelation
-497545	Revelation
 497547	Revelation
 497552	Revelation
 Revelation
 Revelation
 497559	Revelation
 Revelation
-497562	Revelation
 497566	Revelation
 497569	Revelation
 Revelation
 497575	Revelation
 Revelation
 497580	Revelation
-497582	Revelation
+Revelation
+Revelation
 Revelation
 497585	Revelation
 Revelation
@@ -261213,19 +266382,21 @@ Revelation
 497604	Revelation
 Revelation
 Revelation
-497609	Revelation
+497608	Revelation
+Revelation
 497611	Revelation
 Revelation
 Revelation
 Revelation
 497617	Revelation
 Revelation
-497626	Revelation
+497625	Revelation
+Revelation
 Revelation
 Revelation
 497632	Revelation
 Revelation
-497635	Revelation
+Revelation
 Revelation
 497639	Revelation
 497641	Revelation
@@ -261236,9 +266407,11 @@ Revelation
 Revelation
 497651	Revelation
 Revelation
-497657	Revelation
+497656	Revelation
+Revelation
 497659	Revelation
-497661	Revelation
+Revelation
+Revelation
 497664	Revelation
 Revelation
 497668	Revelation
@@ -261246,7 +266419,8 @@ Revelation
 497675	Revelation
 Revelation
 497682	Revelation
-497684	Revelation
+Revelation
+Revelation
 497687	Revelation
 Revelation
 497693	Revelation
@@ -261269,7 +266443,6 @@ Revelation
 Revelation
 497728	Revelation
 Revelation
-497732	Revelation
 497734	Revelation
 497736	Revelation
 Revelation
@@ -261280,7 +266453,8 @@ Revelation
 Revelation
 Revelation
 497746	Revelation
-497748	Revelation
+Revelation
+497752	Revelation
 497754	Revelation
 497758	Revelation
 497763	Revelation
@@ -261342,6 +266516,7 @@ Revelation
 Revelation
 Revelation
 Revelation
+Revelation
 497876	Revelation
 Revelation
 Revelation
@@ -261352,18 +266527,19 @@ Revelation
 Revelation
 Revelation
 Revelation
+497890	Revelation
 497893	Revelation
 497898	Revelation
 Revelation
 497905	Revelation
-497907	Revelation
+Revelation
 497909	Revelation
-497912	Revelation
+497911	Revelation
+Revelation
 Revelation
 Revelation
 Revelation
 497917	Revelation
-497919	Revelation
 497921	Revelation
 497923	Revelation
 Revelation
@@ -261403,20 +266579,24 @@ Revelation
 Revelation
 497992	Revelation
 Revelation
-497995	Revelation
+Revelation
+Revelation
 Revelation
 498000	Revelation
 Revelation
 498004	Revelation
 Revelation
+498012	Revelation
 498019	Revelation
 Revelation
 498023	Revelation
-498025	Revelation
+Revelation
+Revelation
 498027	Revelation
 Revelation
 Revelation
-498033	Revelation
+498032	Revelation
+Revelation
 498035	Revelation
 498040	Revelation
 Revelation
@@ -261445,8 +266625,8 @@ Revelation
 Revelation
 Revelation
 Revelation
-Revelation
 498083	Revelation
+Revelation
 498086	Revelation
 498090	Revelation
 Revelation
@@ -261457,12 +266637,11 @@ Revelation
 Revelation
 498102	Revelation
 498107	Revelation
-498109	Revelation
+Revelation
+Revelation
 498114	Revelation
 Revelation
 498118	Revelation
-Revelation
-Revelation
 498123	Revelation
 498126	Revelation
 498128	Revelation
@@ -261508,11 +266687,12 @@ Revelation
 Revelation
 Revelation
 Revelation
-Revelation
-Revelation
+498203	Revelation
 Revelation
 Revelation
 498210	Revelation
+Revelation
+Revelation
 Revelation
 498219	Revelation
 498222	Revelation
@@ -261522,12 +266702,12 @@ Revelation
 498231	Revelation
 Revelation
 Revelation
-498236	Revelation
+498235	Revelation
 Revelation
 Revelation
 Revelation
 Revelation
-Revelation
+498241	Revelation
 Revelation
 Revelation
 Revelation
@@ -261551,7 +266731,6 @@ Revelation
 498286	Revelation
 Revelation
 Revelation
-Revelation
 498294	Revelation
 498297	Revelation
 498300	Revelation
@@ -261561,9 +266740,11 @@ Revelation
 Revelation
 Revelation
 Revelation
-498308	Revelation
+Revelation
+Revelation
 Revelation
 498311	Revelation
+Revelation
 Revelation
 498315	Revelation
 Revelation
@@ -261580,7 +266761,8 @@ Revelation
 Revelation
 Revelation
 Revelation
-498337	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 Revelation
@@ -261614,6 +266796,7 @@ Revelation
 498408	Revelation
 Revelation
 498412	Revelation
+Revelation
 498415	Revelation
 Revelation
 Revelation
@@ -261624,6 +266807,7 @@ Revelation
 Revelation
 498426	Revelation
 Revelation
+498429	Revelation
 498431	Revelation
 Revelation
 Revelation
@@ -261654,7 +266838,8 @@ Revelation
 Revelation
 Revelation
 Revelation
-498478	Revelation
+Revelation
+Revelation
 Revelation
 498484	Revelation
 498490	Revelation
@@ -261695,7 +266880,8 @@ Revelation
 Revelation
 498585	Revelation
 Revelation
-498588	Revelation
+Revelation
+Revelation
 Revelation
 498591	Revelation
 Revelation
@@ -261707,7 +266893,8 @@ Revelation
 498600	Revelation
 Revelation
 Revelation
-498607	Revelation
+498606	Revelation
+Revelation
 498609	Revelation
 Revelation
 Revelation
@@ -261742,7 +266929,8 @@ Revelation
 498654	Revelation
 Revelation
 Revelation
-498658	Revelation
+Revelation
+Revelation
 498660	Revelation
 Revelation
 Revelation
@@ -261753,7 +266941,8 @@ Revelation
 Revelation
 498670	Revelation
 Revelation
-498673	Revelation
+Revelation
+Revelation
 498675	Revelation
 498678	Revelation
 Revelation
@@ -261783,6 +266972,7 @@ Revelation
 Revelation
 498725	Revelation
 Revelation
+498728	Revelation
 498731	Revelation
 498734	Revelation
 498736	Revelation
@@ -261800,8 +266990,7 @@ Revelation
 498756	Revelation
 Revelation
 Revelation
-498760	Revelation
-Revelation
+498761	Revelation
 Revelation
 Revelation
 498767	Revelation
@@ -261843,8 +267032,7 @@ Revelation
 498863	Revelation
 Revelation
 Revelation
-Revelation
-Revelation
+498867	Revelation
 Revelation
 Revelation
 498877	Revelation
@@ -261856,7 +267044,8 @@ Revelation
 Revelation
 Revelation
 Revelation
-498887	Revelation
+Revelation
+Revelation
 Revelation
 498891	Revelation
 Revelation
@@ -261878,7 +267067,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-498934	Revelation
 498936	Revelation
 498938	Revelation
 498941	Revelation
@@ -261921,19 +267109,17 @@ Revelation
 499018	Revelation
 Revelation
 499029	Revelation
-Revelation
 499032	Revelation
 499036	Revelation
 Revelation
 Revelation
-499042	Revelation
 499044	Revelation
 499047	Revelation
 499051	Revelation
 Revelation
 Revelation
-Revelation
 499056	Revelation
+Revelation
 499059	Revelation
 499065	Revelation
 499069	Revelation
@@ -261944,20 +267130,21 @@ Revelation
 499077	Revelation
 Revelation
 499081	Revelation
-499083	Revelation
+Revelation
+Revelation
 Revelation
 499086	Revelation
-Revelation
 499090	Revelation
 499096	Revelation
-Revelation
-Revelation
+499098	Revelation
 499101	Revelation
-499103	Revelation
+Revelation
+Revelation
 499107	Revelation
 Revelation
 499110	Revelation
-499112	Revelation
+Revelation
+Revelation
 499114	Revelation
 499116	Revelation
 Revelation
@@ -261971,21 +267158,20 @@ Revelation
 Revelation
 Revelation
 Revelation
-499139	Revelation
-Revelation
+499140	Revelation
 Revelation
 Revelation
 499145	Revelation
 Revelation
 Revelation
 Revelation
-499150	Revelation
+Revelation
+Revelation
 Revelation
 499157	Revelation
 499159	Revelation
 499161	Revelation
 Revelation
-499165	Revelation
 499167	Revelation
 499169	Revelation
 499171	Revelation
@@ -262003,14 +267189,13 @@ Revelation
 Revelation
 Revelation
 Revelation
+499191	Revelation
 Revelation
-499192	Revelation
 499196	Revelation
 499199	Revelation
 499202	Revelation
 499205	Revelation
-499209	Revelation
-Revelation
+499210	Revelation
 Revelation
 499214	Revelation
 499218	Revelation
@@ -262026,7 +267211,8 @@ Revelation
 Revelation
 Revelation
 Revelation
-499242	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 499250	Revelation
@@ -262052,7 +267238,8 @@ Revelation
 Revelation
 Revelation
 Revelation
-499286	Revelation
+Revelation
+Revelation
 Revelation
 499291	Revelation
 Revelation
@@ -262073,7 +267260,8 @@ Revelation
 Revelation
 Revelation
 499319	Revelation
-499321	Revelation
+Revelation
+Revelation
 Revelation
 499326	Revelation
 Revelation
@@ -262097,10 +267285,10 @@ Revelation
 Revelation
 499363	Revelation
 Revelation
-Revelation
 499367	Revelation
 499369	Revelation
-499371	Revelation
+Revelation
+Revelation
 Revelation
 499376	Revelation
 Revelation
@@ -262125,13 +267313,15 @@ Revelation
 499413	Revelation
 499415	Revelation
 499420	Revelation
-499422	Revelation
+Revelation
+Revelation
 Revelation
 499426	Revelation
 499431	Revelation
 Revelation
 499438	Revelation
-499442	Revelation
+499441	Revelation
+Revelation
 Revelation
 Revelation
 499446	Revelation
@@ -262153,16 +267343,17 @@ Revelation
 Revelation
 499475	Revelation
 Revelation
-499479	Revelation
 499482	Revelation
 499485	Revelation
 Revelation
-499488	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 499492	Revelation
 Revelation
-499495	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 499501	Revelation
@@ -262182,8 +267373,7 @@ Revelation
 Revelation
 Revelation
 Revelation
-499537	Revelation
-Revelation
+499538	Revelation
 499542	Revelation
 Revelation
 499548	Revelation
@@ -262191,14 +267381,13 @@ Revelation
 499552	Revelation
 499554	Revelation
 499556	Revelation
-499558	Revelation
-Revelation
+499559	Revelation
 499563	Revelation
 499568	Revelation
 Revelation
-Revelation
 499572	Revelation
-499575	Revelation
+499574	Revelation
+Revelation
 Revelation
 499578	Revelation
 Revelation
@@ -262225,12 +267414,13 @@ Revelation
 499639	Revelation
 Revelation
 Revelation
+499644	Revelation
 499646	Revelation
 499648	Revelation
-Revelation
 499651	Revelation
 499653	Revelation
-499655	Revelation
+Revelation
+Revelation
 499658	Revelation
 499660	Revelation
 499662	Revelation
@@ -262240,7 +267430,8 @@ Revelation
 499676	Revelation
 Revelation
 499681	Revelation
-499687	Revelation
+499686	Revelation
+Revelation
 499691	Revelation
 499695	Revelation
 499699	Revelation
@@ -262257,6 +267448,7 @@ Revelation
 499738	Revelation
 Revelation
 Revelation
+499742	Revelation
 499744	Revelation
 Revelation
 499749	Revelation
@@ -262271,7 +267463,6 @@ Revelation
 Revelation
 499769	Revelation
 Revelation
-499772	Revelation
 499776	Revelation
 Revelation
 499780	Revelation
@@ -262318,8 +267509,7 @@ Revelation
 499874	Revelation
 499880	Revelation
 Revelation
-Revelation
-Revelation
+499883	Revelation
 499887	Revelation
 Revelation
 Revelation
@@ -262330,7 +267520,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-499901	Revelation
 499903	Revelation
 499905	Revelation
 499908	Revelation
@@ -262339,12 +267528,14 @@ Revelation
 499920	Revelation
 Revelation
 499927	Revelation
-499929	Revelation
+Revelation
+Revelation
 Revelation
 499934	Revelation
 499938	Revelation
 Revelation
 Revelation
+499942	Revelation
 499944	Revelation
 499947	Revelation
 Revelation
@@ -262355,7 +267546,8 @@ Revelation
 499956	Revelation
 499959	Revelation
 499961	Revelation
-499963	Revelation
+Revelation
+Revelation
 499965	Revelation
 Revelation
 499979	Revelation
@@ -262383,8 +267575,7 @@ Revelation
 500027	Revelation
 Revelation
 Revelation
-Revelation
-Revelation
+500031	Revelation
 Revelation
 500034	Revelation
 Revelation
@@ -262414,7 +267605,8 @@ Revelation
 500092	Revelation
 Revelation
 Revelation
-500099	Revelation
+500098	Revelation
+Revelation
 Revelation
 Revelation
 Revelation
@@ -262426,7 +267618,8 @@ Revelation
 Revelation
 Revelation
 500127	Revelation
-500129	Revelation
+Revelation
+Revelation
 500134	Revelation
 Revelation
 Revelation
@@ -262472,7 +267665,6 @@ Revelation
 Revelation
 500230	Revelation
 Revelation
-Revelation
 500234	Revelation
 500240	Revelation
 Revelation
@@ -262484,12 +267676,14 @@ Revelation
 500254	Revelation
 Revelation
 Revelation
-500258	Revelation
+Revelation
+Revelation
 500263	Revelation
 500265	Revelation
 500267	Revelation
 Revelation
-500271	Revelation
+500270	Revelation
+Revelation
 500277	Revelation
 Revelation
 Revelation
@@ -262516,7 +267710,8 @@ Revelation
 500320	Revelation
 500322	Revelation
 Revelation
-500329	Revelation
+500328	Revelation
+Revelation
 Revelation
 Revelation
 500336	Revelation
@@ -262531,11 +267726,12 @@ Revelation
 500364	Revelation
 Revelation
 Revelation
-Revelation
-500369	Revelation
-Revelation
+500368	Revelation
 Revelation
 Revelation
+Revelation
+Revelation
+500377	Revelation
 500379	Revelation
 500382	Revelation
 500388	Revelation
@@ -262599,12 +267795,14 @@ Revelation
 Revelation
 Revelation
 500542	Revelation
-500544	Revelation
 Revelation
+Revelation
+Revelation
+500547	Revelation
 500550	Revelation
 500559	Revelation
-Revelation
 500562	Revelation
+500564	Revelation
 500568	Revelation
 500570	Revelation
 500572	Revelation
@@ -262643,11 +267841,13 @@ Revelation
 500654	Revelation
 Revelation
 Revelation
-500658	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 500665	Revelation
-500667	Revelation
+Revelation
+Revelation
 Revelation
 500671	Revelation
 Revelation
@@ -262659,22 +267859,22 @@ Revelation
 500683	Revelation
 Revelation
 Revelation
-500687	Revelation
-500690	Revelation
+Revelation
+Revelation
+500689	Revelation
+Revelation
 Revelation
 500695	Revelation
 500704	Revelation
 Revelation
-500708	Revelation
+500707	Revelation
+Revelation
 Revelation
 500714	Revelation
-500716	Revelation
 500718	Revelation
 500721	Revelation
-Revelation
 500724	Revelation
 500727	Revelation
-Revelation
 500730	Revelation
 500733	Revelation
 Revelation
@@ -262687,11 +267887,14 @@ Revelation
 500751	Revelation
 Revelation
 500757	Revelation
-500759	Revelation
-500762	Revelation
+Revelation
+Revelation
+500761	Revelation
+Revelation
 500766	Revelation
 Revelation
-500769	Revelation
+Revelation
+Revelation
 Revelation
 500773	Revelation
 Revelation
@@ -262734,7 +267937,8 @@ Revelation
 Revelation
 Revelation
 Revelation
-500850	Revelation
+Revelation
+Revelation
 Revelation
 500853	Revelation
 Revelation
@@ -262759,12 +267963,12 @@ Revelation
 Revelation
 500897	Revelation
 Revelation
-500900	Revelation
 500903	Revelation
 500906	Revelation
 Revelation
 500912	Revelation
-500914	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 Revelation
@@ -262772,13 +267976,15 @@ Revelation
 500922	Revelation
 Revelation
 500926	Revelation
-500928	Revelation
 Revelation
 Revelation
 Revelation
 Revelation
 Revelation
-500935	Revelation
+Revelation
+Revelation
+Revelation
+Revelation
 500937	Revelation
 500939	Revelation
 Revelation
@@ -262786,12 +267992,14 @@ Revelation
 Revelation
 500949	Revelation
 500951	Revelation
-500953	Revelation
+Revelation
+Revelation
 500957	Revelation
 Revelation
 Revelation
 Revelation
-500962	Revelation
+Revelation
+Revelation
 Revelation
 500966	Revelation
 Revelation
@@ -262803,9 +268011,10 @@ Revelation
 Revelation
 Revelation
 Revelation
+500988	Revelation
+Revelation
 500992	Revelation
-Revelation
-Revelation
+500994	Revelation
 Revelation
 500999	Revelation
 Revelation
@@ -262870,7 +268079,6 @@ Revelation
 Revelation
 501130	Revelation
 501132	Revelation
-501136	Revelation
 501139	Revelation
 501142	Revelation
 Revelation
@@ -262882,10 +268090,10 @@ Revelation
 501165	Revelation
 Revelation
 501168	Revelation
-501170	Revelation
 Revelation
-501177	Revelation
 Revelation
+Revelation
+501178	Revelation
 Revelation
 Revelation
 Revelation
@@ -262901,14 +268109,15 @@ Revelation
 501198	Revelation
 501201	Revelation
 Revelation
-501208	Revelation
+501204	Revelation
+501207	Revelation
+Revelation
 Revelation
 Revelation
 501217	Revelation
 501219	Revelation
 Revelation
 Revelation
-501224	Revelation
 501226	Revelation
 501228	Revelation
 Revelation
@@ -262946,7 +268155,6 @@ Revelation
 501299	Revelation
 501301	Revelation
 Revelation
-501305	Revelation
 501307	Revelation
 501309	Revelation
 Revelation
@@ -262965,6 +268173,7 @@ Revelation
 Revelation
 501344	Revelation
 Revelation
+Revelation
 501348	Revelation
 Revelation
 501354	Revelation
@@ -262972,31 +268181,31 @@ Revelation
 501361	Revelation
 501365	Revelation
 Revelation
+501369	Revelation
 501371	Revelation
 501373	Revelation
 501376	Revelation
 Revelation
 501380	Revelation
-501382	Revelation
-501385	Revelation
 Revelation
+Revelation
+501385	Revelation
 501388	Revelation
 501391	Revelation
 Revelation
 501395	Revelation
 Revelation
 Revelation
-Revelation
 501400	Revelation
 501403	Revelation
-501405	Revelation
+Revelation
+Revelation
 Revelation
 501410	Revelation
 Revelation
 501421	Revelation
 Revelation
-Revelation
-Revelation
+501424	Revelation
 501426	Revelation
 Revelation
 501431	Revelation
@@ -263005,7 +268214,8 @@ Revelation
 501439	Revelation
 Revelation
 Revelation
-501446	Revelation
+501445	Revelation
+Revelation
 501449	Revelation
 501451	Revelation
 501456	Revelation
@@ -263013,8 +268223,7 @@ Revelation
 Revelation
 501468	Revelation
 Revelation
-501473	Revelation
-Revelation
+501474	Revelation
 Revelation
 Revelation
 Revelation
@@ -263023,11 +268232,10 @@ Revelation
 Revelation
 501494	Revelation
 501496	Revelation
+501498	Revelation
 Revelation
 Revelation
-Revelation
-Revelation
-501503	Revelation
+501502	Revelation
 Revelation
 501506	Revelation
 501508	Revelation
@@ -263042,11 +268250,13 @@ Revelation
 Revelation
 501523	Revelation
 Revelation
-501529	Revelation
+501528	Revelation
+Revelation
 501531	Revelation
 Revelation
 501540	Revelation
 Revelation
+501545	Revelation
 501548	Revelation
 501550	Revelation
 Revelation
@@ -263063,7 +268273,8 @@ Revelation
 501575	Revelation
 501579	Revelation
 Revelation
-501583	Revelation
+501582	Revelation
+Revelation
 501588	Revelation
 Revelation
 Revelation
@@ -263071,7 +268282,8 @@ Revelation
 Revelation
 Revelation
 501603	Revelation
-501605	Revelation
+Revelation
+Revelation
 501609	Revelation
 Revelation
 501613	Revelation
@@ -263081,15 +268293,16 @@ Revelation
 Revelation
 Revelation
 501625	Revelation
-Revelation
 501628	Revelation
 501630	Revelation
 501632	Revelation
 501637	Revelation
 Revelation
 501643	Revelation
-501645	Revelation
-501648	Revelation
+Revelation
+Revelation
+501647	Revelation
+Revelation
 Revelation
 501651	Revelation
 501655	Revelation
@@ -263101,7 +268314,8 @@ Revelation
 501672	Revelation
 Revelation
 Revelation
-501680	Revelation
+501679	Revelation
+Revelation
 501682	Revelation
 Revelation
 501688	Revelation
@@ -263122,22 +268336,21 @@ Revelation
 Revelation
 Revelation
 501718	Revelation
-Revelation
-Revelation
+501720	Revelation
 Revelation
 Revelation
 Revelation
 501726	Revelation
 Revelation
 501734	Revelation
-Revelation
 501738	Revelation
 501742	Revelation
 Revelation
 501746	Revelation
 Revelation
 Revelation
-501750	Revelation
+Revelation
+Revelation
 501753	Revelation
 Revelation
 Revelation
@@ -263148,12 +268361,14 @@ Revelation
 Revelation
 Revelation
 Revelation
-501767	Revelation
+501766	Revelation
+Revelation
 Revelation
 501771	Revelation
 501782	Revelation
 Revelation
-501787	Revelation
+501786	Revelation
+Revelation
 Revelation
 Revelation
 Revelation
@@ -263164,7 +268379,6 @@ Revelation
 Revelation
 501799	Revelation
 501801	Revelation
-501803	Revelation
 501805	Revelation
 501808	Revelation
 Revelation
@@ -263180,11 +268394,11 @@ Revelation
 Revelation
 501832	Revelation
 Revelation
-Revelation
 501836	Revelation
 Revelation
 Revelation
 501840	Revelation
+Revelation
 Revelation
 501846	Revelation
 501851	Revelation
@@ -263196,34 +268410,38 @@ Revelation
 Revelation
 Revelation
 Revelation
-501872	Revelation
+501871	Revelation
+Revelation
 Revelation
 501876	Revelation
 Revelation
 Revelation
 501881	Revelation
-501885	Revelation
+501883	Revelation
+Revelation
+Revelation
 501889	Revelation
 Revelation
 Revelation
-501893	Revelation
+Revelation
+Revelation
 Revelation
 501898	Revelation
 501900	Revelation
 501904	Revelation
-501906	Revelation
 Revelation
 Revelation
-501910	Revelation
+Revelation
+Revelation
+Revelation
+Revelation
 501914	Revelation
-501916	Revelation
-501919	Revelation
+Revelation
+Revelation
 501921	Revelation
 501923	Revelation
-Revelation
 501926	Revelation
 501928	Revelation
-Revelation
 501931	Revelation
 501933	Revelation
 Revelation
@@ -263231,7 +268449,8 @@ Revelation
 501942	Revelation
 501946	Revelation
 Revelation
-501949	Revelation
+Revelation
+Revelation
 501951	Revelation
 Revelation
 Revelation
@@ -263239,7 +268458,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-501960	Revelation
 501964	Revelation
 501969	Revelation
 501971	Revelation
@@ -263259,7 +268477,6 @@ Revelation
 Revelation
 502001	Revelation
 Revelation
-Revelation
 502006	Revelation
 502014	Revelation
 Revelation
@@ -263271,12 +268488,12 @@ Revelation
 Revelation
 502029	Revelation
 Revelation
-502033	Revelation
+502032	Revelation
+Revelation
 502035	Revelation
 502039	Revelation
 Revelation
 502045	Revelation
-502047	Revelation
 502050	Revelation
 502052	Revelation
 Revelation
@@ -263285,17 +268502,18 @@ Revelation
 Revelation
 502062	Revelation
 Revelation
-502067	Revelation
+502066	Revelation
+Revelation
 Revelation
 502070	Revelation
 Revelation
 Revelation
 Revelation
 Revelation
-502077	Revelation
+502076	Revelation
 Revelation
 Revelation
-502083	Revelation
+Revelation
 502085	Revelation
 502087	Revelation
 Revelation
@@ -263313,7 +268531,8 @@ Revelation
 Revelation
 Revelation
 Revelation
-502119	Revelation
+502118	Revelation
+Revelation
 Revelation
 502122	Revelation
 Revelation
@@ -263329,15 +268548,17 @@ Revelation
 502141	Revelation
 Revelation
 502145	Revelation
-502147	Revelation
+Revelation
+Revelation
+Revelation
 Revelation
 502152	Revelation
 502162	Revelation
 Revelation
 502166	Revelation
-502170	Revelation
-502172	Revelation
+502169	Revelation
 Revelation
+502172	Revelation
 502175	Revelation
 502178	Revelation
 Revelation
@@ -263348,26 +268569,22 @@ Revelation
 Revelation
 502205	Revelation
 Revelation
-502208	Revelation
-Revelation
+502209	Revelation
 502213	Revelation
 502216	Revelation
 Revelation
 Revelation
 502225	Revelation
 Revelation
-Revelation
-Revelation
-Revelation
-Revelation
-Revelation
+502228	Revelation
+502230	Revelation
 Revelation
 502234	Revelation
 502237	Revelation
-502239	Revelation
+Revelation
+Revelation
 502244	Revelation
 502249	Revelation
-Revelation
 Revelation
 502255	Revelation
 502258	Revelation
@@ -263380,7 +268597,8 @@ Revelation
 502270	Revelation
 Revelation
 502273	Revelation
-502275	Revelation
+Revelation
+Revelation
 502279	Revelation
 Revelation
 502284	Revelation
@@ -263399,7 +268617,8 @@ Revelation
 502314	Revelation
 502317	Revelation
 Revelation
-502322	Revelation
+502321	Revelation
+Revelation
 Revelation
 502326	Revelation
 Revelation
@@ -263428,7 +268647,8 @@ Revelation
 502377	Revelation
 Revelation
 502382	Revelation
-502384	Revelation
+Revelation
+Revelation
 Revelation
 502390	Revelation
 Revelation
@@ -263467,7 +268687,6 @@ Revelation
 502491	Revelation
 502494	Revelation
 Revelation
-Revelation
 502503	Revelation
 502507	Revelation
 Revelation
@@ -263476,7 +268695,8 @@ Revelation
 502518	Revelation
 502520	Revelation
 502523	Revelation
-502528	Revelation
+502527	Revelation
+Revelation
 Revelation
 502531	Revelation
 Revelation
@@ -263531,8 +268751,7 @@ Revelation
 Revelation
 502665	Revelation
 Revelation
-502670	Revelation
-Revelation
+502671	Revelation
 Revelation
 502676	Revelation
 Revelation
@@ -263546,17 +268765,16 @@ Revelation
 Revelation
 502701	Revelation
 Revelation
-502707	Revelation
 502709	Revelation
 502713	Revelation
 Revelation
 Revelation
 Revelation
 Revelation
-502722	Revelation
+502721	Revelation
 Revelation
-502725	Revelation
 Revelation
+502726	Revelation
 Revelation
 Revelation
 Revelation
@@ -263565,8 +268783,7 @@ Revelation
 Revelation
 Revelation
 502736	Revelation
-502738	Revelation
-Revelation
+502739	Revelation
 Revelation
 Revelation
 Revelation
@@ -263619,6 +268836,7 @@ Revelation
 502869	Revelation
 502878	Revelation
 Revelation
+Revelation
 502883	Revelation
 Revelation
 502890	Revelation
@@ -263628,7 +268846,8 @@ Revelation
 Revelation
 Revelation
 Revelation
-502908	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 502913	Revelation
@@ -263651,7 +268870,8 @@ Revelation
 502947	Revelation
 Revelation
 Revelation
-502951	Revelation
+Revelation
+Revelation
 502953	Revelation
 502955	Revelation
 502958	Revelation
@@ -263682,11 +268902,13 @@ Revelation
 503027	Revelation
 Revelation
 503030	Revelation
-503032	Revelation
+Revelation
+Revelation
 Revelation
 503040	Revelation
 Revelation
-503045	Revelation
+503044	Revelation
+Revelation
 503050	Revelation
 Revelation
 Revelation
@@ -263698,11 +268920,12 @@ Revelation
 Revelation
 503071	Revelation
 503073	Revelation
-Revelation
 503076	Revelation
 503078	Revelation
-503080	Revelation
-503083	Revelation
+Revelation
+Revelation
+503082	Revelation
+Revelation
 503085	Revelation
 Revelation
 Revelation
@@ -263711,11 +268934,9 @@ Revelation
 Revelation
 Revelation
 503099	Revelation
-Revelation
-Revelation
+503101	Revelation
 503106	Revelation
 Revelation
-503118	Revelation
 503120	Revelation
 503124	Revelation
 Revelation
@@ -263728,16 +268949,17 @@ Revelation
 Revelation
 503146	Revelation
 503148	Revelation
-503151	Revelation
 503153	Revelation
 503157	Revelation
 Revelation
 Revelation
 Revelation
-Revelation
 503164	Revelation
-503169	Revelation
-503172	Revelation
+503167	Revelation
+Revelation
+Revelation
+503171	Revelation
+Revelation
 Revelation
 Revelation
 Revelation
@@ -263747,7 +268969,8 @@ Revelation
 Revelation
 503184	Revelation
 Revelation
-503187	Revelation
+Revelation
+Revelation
 Revelation
 503191	Revelation
 503200	Revelation
@@ -263761,11 +268984,13 @@ Revelation
 Revelation
 503212	Revelation
 Revelation
-503215	Revelation
+Revelation
+Revelation
 503219	Revelation
 503222	Revelation
 Revelation
-503226	Revelation
+503225	Revelation
+Revelation
 503228	Revelation
 503231	Revelation
 503233	Revelation
@@ -263775,7 +269000,10 @@ Revelation
 Revelation
 Revelation
 Revelation
-503244	Revelation
+Revelation
+503242	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 503248	Revelation
@@ -263785,23 +269013,25 @@ Revelation
 Revelation
 503257	Revelation
 Revelation
+503260	Revelation
 503262	Revelation
-503266	Revelation
+Revelation
+503265	Revelation
+Revelation
 Revelation
 Revelation
 503273	Revelation
 Revelation
 503276	Revelation
 Revelation
-503280	Revelation
-Revelation
+503281	Revelation
 503283	Revelation
 Revelation
 503287	Revelation
-503289	Revelation
+Revelation
+Revelation
 503291	Revelation
 503293	Revelation
-Revelation
 503296	Revelation
 503298	Revelation
 Revelation
@@ -263810,14 +269040,17 @@ Revelation
 Revelation
 Revelation
 Revelation
-503311	Revelation
+503309	Revelation
+Revelation
+Revelation
 Revelation
 503315	Revelation
 Revelation
 Revelation
 Revelation
 Revelation
-503321	Revelation
+Revelation
+503323	Revelation
 503325	Revelation
 Revelation
 503328	Revelation
@@ -263840,7 +269073,8 @@ Revelation
 Revelation
 503367	Revelation
 Revelation
-503371	Revelation
+503370	Revelation
+Revelation
 503376	Revelation
 Revelation
 503382	Revelation
@@ -263852,7 +269086,8 @@ Revelation
 503397	Revelation
 Revelation
 503401	Revelation
-503404	Revelation
+503403	Revelation
+Revelation
 Revelation
 503408	Revelation
 Revelation
@@ -263888,14 +269123,15 @@ Revelation
 503490	Revelation
 Revelation
 503496	Revelation
-503500	Revelation
+503499	Revelation
 Revelation
 Revelation
-503504	Revelation
 Revelation
 Revelation
-503508	Revelation
 Revelation
+Revelation
+Revelation
+503509	Revelation
 Revelation
 503514	Revelation
 Revelation
@@ -263915,7 +269151,8 @@ Revelation
 503542	Revelation
 Revelation
 Revelation
-503546	Revelation
+Revelation
+Revelation
 503548	Revelation
 503554	Revelation
 Revelation
@@ -263924,7 +269161,8 @@ Revelation
 Revelation
 503565	Revelation
 503572	Revelation
-503574	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 503585	Revelation
@@ -263973,7 +269211,6 @@ Revelation
 503652	Revelation
 503660	Revelation
 Revelation
-503663	Revelation
 503665	Revelation
 503668	Revelation
 Revelation
@@ -263984,11 +269221,13 @@ Revelation
 Revelation
 Revelation
 Revelation
-503690	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 503697	Revelation
-503699	Revelation
+Revelation
+Revelation
 503701	Revelation
 Revelation
 Revelation
@@ -263999,7 +269238,8 @@ Revelation
 Revelation
 Revelation
 503715	Revelation
-503717	Revelation
+Revelation
+Revelation
 503720	Revelation
 503722	Revelation
 Revelation
@@ -264020,7 +269260,10 @@ Revelation
 Revelation
 Revelation
 Revelation
-503756	Revelation
+Revelation
+Revelation
+Revelation
+Revelation
 Revelation
 503763	Revelation
 503766	Revelation
@@ -264029,8 +269272,7 @@ Revelation
 Revelation
 503777	Revelation
 503779	Revelation
-Revelation
-Revelation
+503781	Revelation
 503784	Revelation
 503786	Revelation
 503788	Revelation
@@ -264045,7 +269287,8 @@ Revelation
 503812	Revelation
 Revelation
 503815	Revelation
-503817	Revelation
+Revelation
+Revelation
 Revelation
 503820	Revelation
 Revelation
@@ -264059,10 +269302,10 @@ Revelation
 Revelation
 503843	Revelation
 Revelation
-503846	Revelation
-Revelation
+503847	Revelation
 503850	Revelation
-503852	Revelation
+Revelation
+Revelation
 503858	Revelation
 503860	Revelation
 503866	Revelation
@@ -264075,7 +269318,8 @@ Revelation
 503878	Revelation
 503880	Revelation
 503887	Revelation
-503889	Revelation
+Revelation
+Revelation
 503892	Revelation
 503894	Revelation
 503898	Revelation
@@ -264083,6 +269327,7 @@ Revelation
 503901	Revelation
 503904	Revelation
 503906	Revelation
+503908	Revelation
 503911	Revelation
 503916	Revelation
 Revelation
@@ -264092,7 +269337,6 @@ Revelation
 Revelation
 Revelation
 503936	Revelation
-Revelation
 Revelation
 Revelation
 503944	Revelation
@@ -264110,7 +269354,6 @@ Revelation
 503966	Revelation
 503972	Revelation
 Revelation
-Revelation
 503976	Revelation
 503978	Revelation
 Revelation
@@ -264120,7 +269363,8 @@ Revelation
 503993	Revelation
 Revelation
 Revelation
-504002	Revelation
+504001	Revelation
+Revelation
 504004	Revelation
 Revelation
 Revelation
@@ -264131,7 +269375,8 @@ Revelation
 504016	Revelation
 Revelation
 504020	Revelation
-504022	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 504027	Revelation
@@ -264150,11 +269395,13 @@ Revelation
 504057	Revelation
 Revelation
 Revelation
-504063	Revelation
 Revelation
 Revelation
-504067	Revelation
 Revelation
+Revelation
+Revelation
+Revelation
+504068	Revelation
 504072	Revelation
 Revelation
 504076	Revelation
@@ -264181,6 +269428,7 @@ Revelation
 504115	Revelation
 Revelation
 504122	Revelation
+Revelation
 504125	Revelation
 Revelation
 Revelation
@@ -264206,7 +269454,6 @@ Revelation
 Revelation
 504185	Revelation
 504191	Revelation
-Revelation
 504194	Revelation
 504196	Revelation
 Revelation
@@ -264216,25 +269463,24 @@ Revelation
 504207	Revelation
 504211	Revelation
 Revelation
-504216	Revelation
+504214	Revelation
+Revelation
+Revelation
 Revelation
 504224	Revelation
 Revelation
 504228	Revelation
 504230	Revelation
 504232	Revelation
-504234	Revelation
-Revelation
+504235	Revelation
 Revelation
 Revelation
 504239	Revelation
-504242	Revelation
+504243	Revelation
 Revelation
 Revelation
 Revelation
-Revelation
-Revelation
-Revelation
+504248	Revelation
 Revelation
 Revelation
 Revelation
@@ -264252,8 +269498,7 @@ Revelation
 504282	Revelation
 Revelation
 504286	Revelation
-504288	Revelation
-Revelation
+504289	Revelation
 Revelation
 504294	Revelation
 Revelation
@@ -264275,14 +269520,15 @@ Revelation
 Revelation
 Revelation
 504339	Revelation
-Revelation
 504344	Revelation
 504349	Revelation
-504352	Revelation
+Revelation
+Revelation
+Revelation
 504354	Revelation
+Revelation
 504361	Revelation
-Revelation
-Revelation
+504363	Revelation
 504365	Revelation
 Revelation
 504368	Revelation
@@ -264310,7 +269556,7 @@ Revelation
 Revelation
 504411	Revelation
 504416	Revelation
-504418	Revelation
+Revelation
 Revelation
 504421	Revelation
 504424	Revelation
@@ -264333,27 +269579,25 @@ Revelation
 Revelation
 504468	Revelation
 504470	Revelation
-504472	Revelation
 504474	Revelation
 504476	Revelation
 Revelation
 504481	Revelation
-504483	Revelation
+Revelation
+Revelation
 Revelation
 504487	Revelation
 Revelation
 504493	Revelation
 Revelation
 Revelation
-504506	Revelation
-Revelation
+504507	Revelation
 Revelation
 504511	Revelation
 504519	Revelation
 Revelation
 Revelation
 504526	Revelation
-Revelation
 Revelation
 504532	Revelation
 504535	Revelation
@@ -264368,21 +269612,20 @@ Revelation
 Revelation
 504549	Revelation
 Revelation
-504556	Revelation
-Revelation
+504553	Revelation
+504557	Revelation
 Revelation
 504562	Revelation
 Revelation
-Revelation
-Revelation
+504565	Revelation
 504570	Revelation
 Revelation
-Revelation
 504575	Revelation
-504577	Revelation
 Revelation
-504581	Revelation
-504585	Revelation
+Revelation
+Revelation
+504580	Revelation
+Revelation
 504587	Revelation
 504589	Revelation
 Revelation
@@ -264390,7 +269633,6 @@ Revelation
 Revelation
 Revelation
 Revelation
-504597	Revelation
 504599	Revelation
 504603	Revelation
 Revelation
@@ -264406,27 +269648,25 @@ Revelation
 504624	Revelation
 504630	Revelation
 Revelation
-Revelation
 504634	Revelation
 504640	Revelation
 Revelation
 504645	Revelation
 Revelation
-Revelation
 504649	Revelation
 504655	Revelation
 504663	Revelation
-504665	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 504672	Revelation
 504677	Revelation
-504679	Revelation
+Revelation
 Revelation
 504682	Revelation
 504684	Revelation
 504686	Revelation
-Revelation
 504690	Revelation
 504693	Revelation
 Revelation
@@ -264471,9 +269711,7 @@ Revelation
 Revelation
 Revelation
 Revelation
-504781	Revelation
 504783	Revelation
-504785	Revelation
 504787	Revelation
 504789	Revelation
 Revelation
@@ -264499,8 +269737,7 @@ Revelation
 Revelation
 504827	Revelation
 Revelation
-Revelation
-Revelation
+504830	Revelation
 Revelation
 504835	Revelation
 Revelation
@@ -264512,7 +269749,8 @@ Revelation
 504854	Revelation
 Revelation
 504857	Revelation
-504859	Revelation
+Revelation
+Revelation
 Revelation
 504866	Revelation
 Revelation
@@ -264527,7 +269765,8 @@ Revelation
 504893	Revelation
 Revelation
 504897	Revelation
-504899	Revelation
+Revelation
+Revelation
 504901	Revelation
 Revelation
 Revelation
@@ -264536,7 +269775,8 @@ Revelation
 504908	Revelation
 504912	Revelation
 Revelation
-504915	Revelation
+Revelation
+Revelation
 504920	Revelation
 Revelation
 504924	Revelation
@@ -264571,15 +269811,18 @@ Revelation
 504992	Revelation
 504994	Revelation
 Revelation
+505000	Revelation
 505002	Revelation
 Revelation
 Revelation
 Revelation
 505010	Revelation
-505012	Revelation
+Revelation
+Revelation
 505015	Revelation
 505017	Revelation
-505026	Revelation
+505025	Revelation
+Revelation
 505030	Revelation
 505032	Revelation
 505034	Revelation
@@ -264592,19 +269835,20 @@ Revelation
 505048	Revelation
 505050	Revelation
 505052	Revelation
-505054	Revelation
+Revelation
+Revelation
 505058	Revelation
 505064	Revelation
 Revelation
 505072	Revelation
-505074	Revelation
-505076	Revelation
 Revelation
+Revelation
+505076	Revelation
 Revelation
 505085	Revelation
 505087	Revelation
-505089	Revelation
-505092	Revelation
+Revelation
+Revelation
 505094	Revelation
 505096	Revelation
 Revelation
@@ -264617,21 +269861,19 @@ Revelation
 505115	Revelation
 Revelation
 505123	Revelation
-505125	Revelation
+Revelation
+Revelation
 505129	Revelation
 Revelation
 Revelation
 Revelation
-505134	Revelation
 505136	Revelation
 505140	Revelation
 Revelation
-505145	Revelation
+505146	Revelation
 Revelation
 Revelation
-Revelation
-Revelation
-Revelation
+505150	Revelation
 Revelation
 Revelation
 Revelation
@@ -264639,11 +269881,9 @@ Revelation
 505161	Revelation
 Revelation
 Revelation
-505172	Revelation
 505174	Revelation
 505176	Revelation
 Revelation
-505180	Revelation
 505183	Revelation
 505186	Revelation
 505190	Revelation
@@ -264655,7 +269895,6 @@ Revelation
 505208	Revelation
 Revelation
 Revelation
-505213	Revelation
 505215	Revelation
 505218	Revelation
 505221	Revelation
@@ -264668,7 +269907,6 @@ Revelation
 505238	Revelation
 Revelation
 Revelation
-505242	Revelation
 505244	Revelation
 505246	Revelation
 Revelation
@@ -264693,7 +269931,8 @@ Revelation
 Revelation
 505298	Revelation
 Revelation
-505301	Revelation
+Revelation
+Revelation
 505303	Revelation
 Revelation
 Revelation
@@ -264703,7 +269942,9 @@ Revelation
 Revelation
 Revelation
 Revelation
-505319	Revelation
+Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 505323	Revelation
@@ -264735,15 +269976,13 @@ Revelation
 Revelation
 Revelation
 505377	Revelation
-505379	Revelation
 505381	Revelation
-505383	Revelation
 505385	Revelation
-505387	Revelation
 505389	Revelation
 505391	Revelation
 Revelation
-505394	Revelation
+Revelation
+Revelation
 505397	Revelation
 505399	Revelation
 505406	Revelation
@@ -264759,10 +269998,8 @@ Revelation
 Revelation
 505431	Revelation
 505434	Revelation
-505437	Revelation
 505439	Revelation
 505446	Revelation
-Revelation
 Revelation
 505450	Revelation
 505452	Revelation
@@ -264772,7 +270009,8 @@ Revelation
 Revelation
 Revelation
 Revelation
-505460	Revelation
+Revelation
+Revelation
 Revelation
 Revelation
 Revelation
@@ -264781,13 +270019,15 @@ Revelation
 505467	Revelation
 505469	Revelation
 Revelation
-505478	Revelation
+505477	Revelation
+Revelation
 Revelation
 505481	Revelation
 505486	Revelation
 Revelation
 505491	Revelation
-505493	Revelation
+Revelation
+Revelation
 Revelation
 505502	Revelation
 505512	Revelation
