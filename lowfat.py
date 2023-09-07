@@ -88,9 +88,11 @@ def convertTaskCustom(self):
     slotType = "word"
     otext = {
         "fmt:text-orig-full": "{before}{text}{after}",
-        "fmt:text-orig-clean": "{text}{punctuation}",
+        "fmt:text-orig-plain": "{text}{punctuation}",
         "sectionTypes": "book,chapter,verse",
         "sectionFeatures": "book,chapter,verse",
+        #"levels": "book, chapter, verse, sentence, group, clause, phrase, subphrase",
+        "levelConstraints": "clause < group",
     }
     monoAtts = {"appositioncontainer", "articular", "discontinuous"}
 
@@ -187,7 +189,6 @@ def convertTaskCustom(self):
         intFeatures=intFeatures,
         featureMeta=featureMeta,
         generateTf=True,
-        warn=False,
     )
 
 def getDirector(self):
@@ -216,6 +217,7 @@ def getDirector(self):
         xml
         p
         milestone
+        sentence
         """.strip().split()
     )
 
@@ -377,6 +379,9 @@ def getDirector(self):
             if len(cur['superSib']):
                 cur['superSib'].pop()
         
+        if cur[TNEST] == []:
+            cv.terminate(curNode)
+
         cur[XNEST].pop()
         afterTag(cv, cur, xnode, tag)
 
@@ -713,6 +718,9 @@ def getDirector(self):
                 curNode = cv.node(tag)
                 cv.feature(curNode, **atts)
 
+            if len(cur['superParentNode']) == 1 and extraType != "sentence": #defining the sentence container at the beginning of the root
+                extraType = "sentence"
+
             if extraType is not None:
                 extraNode = cv.node(extraType)
                 if len(atts):
@@ -751,7 +759,8 @@ def getDirector(self):
 
             if len(cur[TNEST]):
                 curNode = cur[TNEST][-1]
-                cv.terminate(curNode)
+                if curNode[0] != 'book':
+                    cv.terminate(curNode)
                 
     def afterTag(cv, cur, xnode, tag):
         """Node actions after dealing with the children and after the end tag.
