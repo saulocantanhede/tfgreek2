@@ -91,7 +91,6 @@ def convertTaskCustom(self):
         "fmt:text-orig-plain": "{text}{punctuation}",
         "sectionTypes": "book,chapter,verse",
         "sectionFeatures": "book,chapter,verse",
-        #"levels": "book, chapter, verse, sentence, group, clause, phrase, subphrase",
         "levelConstraints": "clause < group",
     }
     monoAtts = {"appositioncontainer", "articular", "discontinuous"}
