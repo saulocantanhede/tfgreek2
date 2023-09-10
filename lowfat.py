@@ -88,9 +88,10 @@ def convertTaskCustom(self):
     slotType = "word"
     otext = {
         "fmt:text-orig-full": "{before}{text}{after}",
-        "fmt:text-orig-clean": "{text}{punctuation}",
+        "fmt:text-orig-plain": "{text}{punctuation}",
         "sectionTypes": "book,chapter,verse",
         "sectionFeatures": "book,chapter,verse",
+        "levelConstraints": "clause < group",
     }
     monoAtts = {"appositioncontainer", "articular", "discontinuous"}
 
@@ -215,6 +216,7 @@ def getDirector(self):
         xml
         p
         milestone
+        sentence
         """.strip().split()
     )
 
@@ -275,16 +277,16 @@ def getDirector(self):
             superNode = curNode
 
         if superNode is not None:
-            nest = superNode[0] in {"phrase", "clause", "word"}
+            nest = superNode[0] in {"phrase", "clause", "word", "sentence", "group"}
         else:
             nest = False
 
         #condition for nesting extraNode phrase and clause
-        if extraNode is not None:
+        '''if extraNode is not None:
             nestablePhraseClause = extraNode[0] in {"phrase", "clause"}
         else:
-            nestablePhraseClause = False
-        
+            nestablePhraseClause = False'''
+
         if curNode is not None:
             #parent features for curNode word and wg
             if len(cur[TNEST]):
@@ -293,12 +295,12 @@ def getDirector(self):
                     cv.edge(curNode, parentNode, parent=None)
             
             #parent features for extraNode phrase and clause
-            if len(cur['extraParent']):
+            '''if len(cur['extraParent']):
                 if nestablePhraseClause:
                     parentNode = cur['extraParent'][-1]
-                    cv.edge(extraNode, parentNode, parent=None)
+                    cv.edge(extraNode, parentNode, parent=None)'''
 
-            #parent features for extraNode phrase and clause
+            #parent features for superNode phrase, clause, word, sentence and group
             if len(cur['superParentNode']):
                 if nest:
                     parentNode = cur['superParentNode'][-1]
@@ -307,12 +309,12 @@ def getDirector(self):
             cur[TNEST].append(curNode) #gleaning all the previous curNodes
 
             #gleaning all the previous extraNode
-            if curNode[0] == 'wg':
+            '''if curNode[0] == 'wg':
                 Node = extraNode
             else:
                 Node = curNode
 
-            cur['extraParent'].append(Node)
+            cur['extraParent'].append(Node)'''
 
             cur['superParentNode'].append(superNode) #gleaning all the previous superNodes
             
@@ -324,7 +326,7 @@ def getDirector(self):
                         cv.edge(sib, curNode, sibling=nSiblings - i)
                     siblings.append(curNode)
 
-            if len(cur['extraSib']):
+            '''if len(cur['extraSib']):
                 if nestablePhraseClause:
                     siblings = cur['extraSib'][-1]
                     nSiblings = len(siblings)
@@ -334,9 +336,19 @@ def getDirector(self):
                         else:
                             Node = curNode
                         cv.edge(sib, Node, sibling=nSiblings - i)
-                    siblings.append(Node)       
+                    siblings.append(Node)'''
+
+            if len(cur['superSib']):
+                if nest:
+                    siblings = cur['superSib'][-1]
+                    nSiblings = len(siblings)
+                    for (i, sib) in enumerate(siblings):
+                        cv.edge(sib, superNode, sibling=nSiblings - i)
+                    siblings.append(superNode)
+
+            cur['superSib'].append([])        
             
-            cur['extraSib'].append([])
+            '''cur['extraSib'].append([])'''
 
             cur[TSIB].append([])
 
@@ -354,16 +366,21 @@ def getDirector(self):
             if len(cur[TSIB]):
                 cur[TSIB].pop()
         
-        if extraNode is not None:
+        '''if extraNode is not None:
             if len(cur['extraParent']):
                 cur['extraParent'].pop()
             if len(cur['extraSib']):
-                cur['extraSib'].pop()
+                cur['extraSib'].pop()'''
 
-        if  superNode is not None:
+        if superNode is not None:
             if len(cur['superParentNode']):
                 cur['superParentNode'].pop()
+            if len(cur['superSib']):
+                cur['superSib'].pop()
         
+        if cur[TNEST] == []:
+            cv.terminate(curNode)
+
         cur[XNEST].pop()
         afterTag(cv, cur, xnode, tag)
 
@@ -609,7 +626,7 @@ def getDirector(self):
                         cur["clNum"] += 1 #counting the number of the clauses
                         atts["num"] = cur["clNum"]
                         atts['book'] = cur['book']
-                        
+                            
                     else:
                         extraType = "phrase" #generate phrase container for the words within the wg tag
                         
@@ -626,48 +643,60 @@ def getDirector(self):
                             atts["rela"] = "Appo"
 
                 else:
-                    if clauseType == "nominalized":
-                        extraType = "clause" #generate clause container from the clauseType attribute
+                    if rule == "NpaNp":
+                        extraType = "phrase"
+
+                        cur["phraseNum"] += 1 #counting the number of the phrases
+                        atts["num"] = cur["phraseNum"]
+                    
+                    #generate clause container for specific attributes
+                    elif clauseType == "nominalized" or cltype is not None or crule is not None:
+                        extraType = "clause"
                         
-                        cur["clNum"] += 1 #counting the number of the clauses
+                        cur["clNum"] += 1
                         atts["num"] = cur["clNum"]
+                        atts['book'] = cur['book']
                     
-                    elif type == "wrapper-clause-scope":
-                        extraType = "clause" #generate clause container from the wrapper-clause-scope type of the word group
+                    #generate sentence container for specific attributes
+                    elif type == "wrapper-clause-scope" or type == "modifier-clause-scope":
+                        extraType = "sentence"
 
-                        cur["clNum"] += 1 #counting the number of the clauses
-                        atts["num"] = cur["clNum"]
+                        cur["sentNum"] += 1 
+                        atts["num"] = cur["sentNum"]
+                        atts['book'] = cur['book']
                     
-                    elif type == "modifier-clause-scope":
-                        extraType = "clause" #generate clause container from the wrapper-clause-scope type of the word group
+                    elif rule in ["ClaCl", "ClCl", "ClClCl", "ClClClCl", "ClClClClCl", "ClClClClClCl", 
+                                  "ClClClClClClCl", "ClClClClClClClCl", "ClClClClClClClClCl",
+                                  "ClClClClClClClClCl", "ClClClClClClClClClCl", "ClClClClClClClClClClClCl", "ClCl2"]:
+                        extraType = "sentence"
 
-                        cur["clNum"] += 1 #counting the number of the clauses
-                        atts["num"] = cur["clNum"]
+                        cur["sentNum"] += 1 
+                        atts["num"] = cur["sentNum"]
+                        atts['book'] = cur['book']
 
+                    elif rule is not None and len(atts) == 1:
+                        extraType = "sentence"
+
+                        cur["sentNum"] += 1
+                        atts["num"] = cur["sentNum"]
+                        atts['book'] = cur['book']
+
+                    #generate group container for specific attributes
                     elif type == "conjuncted-wg":
-                        extraType = "clause" #generate clause container from the conjuncted type of the word group
+                        extraType = "group"
                         atts["typ"] = "conjuncted"
 
-                        cur["clNum"] += 1 #counting the number of the clauses
-                        atts["num"] = cur["clNum"]
+                        cur["groupNum"] += 1
+                        atts["num"] = cur["groupNum"]
+                        atts['book'] = cur['book']
 
-                    elif rule == "ClaCl":
-                        extraType = "clause" #generate clause container from the clause-a-clause type of the word group
+                    elif type == "apposition-group":
+                        extraType = "group"
+                        atts["typ"] = "apposition"
 
-                        cur["clNum"] += 1 #counting the number of the clauses
-                        atts["num"] = cur["clNum"]
-
-                    elif cltype is not None:
-                        extraType = "clause" #generate clause container from if there is a clytype attribute for the word group
-
-                        cur["clNum"] += 1 #counting the number of the clauses
-                        atts["num"] = cur["clNum"]
-                    
-                    elif crule is not None:
-                        extraType = "clause" #generate clause container from if there is a crule attribute for the word group
-
-                        cur["clNum"] += 1 #counting the number of the clauses
-                        atts["num"] = cur["clNum"]
+                        cur["groupNum"] += 1
+                        atts["num"] = cur["groupNum"]
+                        atts['book'] = cur['book']
                     
                     else:
                         extraType = "phrase" #generate phrase container for the words that the clause feature is None
@@ -687,6 +716,9 @@ def getDirector(self):
             if len(atts):
                 curNode = cv.node(tag)
                 cv.feature(curNode, **atts)
+
+            if len(cur['superParentNode']) == 1 and extraType != "sentence": #defining the sentence container at the beginning of the root
+                extraType = "sentence"
 
             if extraType is not None:
                 extraNode = cv.node(extraType)
@@ -726,8 +758,9 @@ def getDirector(self):
 
             if len(cur[TNEST]):
                 curNode = cur[TNEST][-1]
-                cv.terminate(curNode)
-
+                if curNode[0] != 'book':
+                    cv.terminate(curNode)
+                
     def afterTag(cv, cur, xnode, tag):
         """Node actions after dealing with the children and after the end tag.
 
@@ -787,7 +820,8 @@ def getDirector(self):
                     cur['book'] = None
                     cur["chapter"] = None
                     cur["verse"] = None
-                    cur["sentNum"] = 0
+                    cur["sentNum"] = 0 #define number of the sentence
+                    cur["groupNum"] = 0 #define number of the group
                     cur["clNum"] = 0 #define number of the clause
                     cur["phraseNum"] = 0 #define number of the phrase
                     cur["subphraseNum"] = 0 #define number of the subphrase
@@ -796,7 +830,8 @@ def getDirector(self):
                     cur["frameEdges"] = []
                     cur["extraParent"] = [] #define dictionary that carries all the previous extraNodes
                     cur["extraSib"] = [] #define dictionary that carries all the siblings with extraNodes
-                    cur["superParentNode"] = []
+                    cur["superParentNode"] = [] #define dictionary that carries all the previous superNodes
+                    cur['superSib'] = [] #define dictionary that carries all the siblings with superNodes
                     walkNode(cv, cur, root)
 
                 xIdIndex = cur["xIdIndex"]
