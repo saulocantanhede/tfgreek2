@@ -23,7 +23,7 @@ provenanceSpec:
   webBase: https://public.{org}.org/{repo}
   webHint: Show this on the website
   webLang: en
-  webUrl: '{webBase}/<1>/<2>/<3>&version={version}'
+  webUrl: "https://learner.bible/text/show_text/nestle1904/<1>/<2>/<3>"
   webUrlLex: '{webBase}/word?version={version}&id=<lid>'
 typeDisplay: {}
 writing: ''
