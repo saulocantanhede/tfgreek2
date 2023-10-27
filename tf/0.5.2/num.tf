@@ -2,14 +2,14 @@
 @author=Evangelists and apostles
 @converters=Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda
 @description=generated number (not in xml): book: (Matthew=1, Mark=2, ..., Revelation=27); sentence: numbered per chapter; word: numbered per verse.
-@institute=ETCBC (Eep Talstra Centre for Bible and Computer)
+@institute=ETCBC (Eep Talstra Centre for Bible and Computer), Andrews University
 @sourceFormat=XML lowfat
 @title=Greek New Testament
 @valueType=int
 @version=0.5.2
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-09-07T14:32:40Z
+@dateWritten=2023-10-27T02:25:06Z
 
 1
 2
