@@ -19,11 +19,11 @@ provenanceSpec:
   corpus: '{org} - {repo}{relative}'
   doi: 10.5281/zenodo.notyet
   moduleSpecs: []
-  version: 0.4.0
+  version: 0.5.2
   webBase: https://public.{org}.org/{repo}
   webHint: Show this on the website
   webLang: en
-  webUrl: '{webBase}/<1>/<2>/<3>&version={version}'
+  webUrl: "https://learner.bible/text/show_text/nestle1904/<1>/<2>/<3>"
   webUrlLex: '{webBase}/word?version={version}&id=<lid>'
 typeDisplay: {}
 writing: ''
