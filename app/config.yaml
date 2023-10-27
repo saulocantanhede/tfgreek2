@@ -15,7 +15,6 @@ docs:
 interfaceDefaults:
   fmt: text-orig-full
 provenanceSpec:
-  branch: main
   corpus: '{org} - {repo}{relative}'
   doi: 10.5281/zenodo.notyet
   moduleSpecs: []
