@@ -5,6 +5,7 @@ This Text-Fabric dataset contains the following node types:
 * [`w` (word) nodes](#word-nodes)
 * [`wg` (wordgroup) nodes](#wordgroup-nodes)
 * [`phrase` nodes](#phrase-nodes)
+* [`subphrase` nodes](#subphrase-nodes)
 * [`clause` nodes](#clause-nodes)
 * [`sentence` nodes](#sentence-nodes)
 * [`verse` nodes](#verse-nodes)
@@ -70,6 +71,13 @@ Feature | Feature group | Data type | Short description | Examples
 [junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Junction |
 [num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Clause number inside book |
 [rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Syntactic rule | `ClCl` `ClCl2`
+
+## Group nodes
+Feature | Feature group | Data type | Short description | Examples
+--- | --- | --- | --- | ---
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |  Book name (abbriviated) | 
+[num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Clause number inside book |
+[type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of group | `conjuncted`
 
 ## Phrase nodes
 Feature | Feature group | Data type | Short description | Examples
