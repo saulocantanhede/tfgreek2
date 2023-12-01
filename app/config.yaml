@@ -25,13 +25,28 @@ provenanceSpec:
   webUrl: https://learner.bible/text/show_text/nestle1904/<1>/<2>/<3>
   webUrlLex: '{webBase}/word?version={version}&id=<lid>'
 typeDisplay:
+  sentence:
+    label: '#{num}: {rule}'
+    style: ''
+  group:
+    label: '#{num}: '
+    style: ''
+  wg:
+    label: '#{num}: {type} {role} {rule} {junction}'
+    style: ""
+    condense: true
   clause:
-    label: '{typ} {function} {rela}'
+    label: '#{num}: {cls} {rule} {junction}'
     style: ''
+    condense: true
   phrase:
-    label: '{typ} {function} {rela}'
+    label: '#{num}: {function} {role} {rule} {type}'
     style: ''
+    condense: true
   verse:
-    label: '{book} {chapter} {verse}'
+    label: '{book} {chapter}:{verse}'
     style: ''
-writing: ''
+    condense: true
+  word:
+    base: true
+writing: grc
