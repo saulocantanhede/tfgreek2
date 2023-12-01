@@ -54,7 +54,7 @@ Feature | Feature group |Data type | Description | Examples
 Feature | Feature group |  Data type | Description | Examples
 --- | --- | --- | --- | ---
 [appositioncontainer](appositioncontainer.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  appositioncontainer |
-[articular](articular.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `Integer` | Indicates if wordgroup contains an article | 
+[articular](articular.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `Integer` | Indicates if wordgroup contains an article | `1`
 [clauseType](clauseType.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause type information | `normalized`)
 [cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup class | `np` `cl`
 [type](type.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Clause type | `Verbless` `VerbElided`
