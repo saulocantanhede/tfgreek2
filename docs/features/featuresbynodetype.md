@@ -44,7 +44,7 @@ Feature | Feature group |Data type | Description | Examples
 [punctuation](punctuation.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Punctuation | ` ` `.`
 [strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Strongs number
 [unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Unicode text |
-[subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String` | Subject reference (to nodeID in XML source data) |
+[subjrefspec](subjrefspec.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String` | Subject reference (to nodeID in XML source data) |
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical tense of the verb | `present` `aorist`
 [text](text.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Word as it appears in the text |
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun | `common` `personal`
