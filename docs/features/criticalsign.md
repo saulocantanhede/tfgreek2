@@ -7,6 +7,7 @@ Feature group | Feature type | Data type | Available for node types
 ## Feature description 
 
 This feature provides the text-critical marks pressent before or after a word.
+
 ## Feature values 
 
 Value | Description | Unicode codepoint | Frequency
