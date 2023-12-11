@@ -12,8 +12,8 @@ This feature indicates details coordinating and subordinating clauses.
 
 value | description | Frequency
 ---  | --- | --- 
-`coordinate` | coordinate | 300
-`subordinate` |  subordinate | 303
+`coordinate` | coordinate | 18734
+`subordinate` |  subordinate | 17108
 ` `  | empty | 
 
 ## Note
