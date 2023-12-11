@@ -11,7 +11,7 @@ The features of this Text-Fabric dataset:
 
 Name | Feature group | Description | Examples
 ---|---|---| ---
-[after](after.md#README) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) |Space or punctuation after word | ` ` `.`
+[after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) |Space or punctuation after word | ` ` `.`
 [appostioncontainer](appositioncontainer.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Appostioncontainer information | `1` 
 [articular](articular.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Articular information | `1`
 [before](before.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | text-critical characters before word | `(` `[`
