@@ -12,8 +12,8 @@ clause rule (from xml attribute rule)
 
 value | explanation | Frequency
 --- | --- | ---
-ClCl | subordinate clause follows the main clause | 334
-‎ClCl2 | subordinate clause precedes the main clause | 484
+ClCl | subordinate clause follows the main clause | 8616
+‎ClCl2 | subordinate clause precedes the main clause | 2500
 
 ## Note
 
