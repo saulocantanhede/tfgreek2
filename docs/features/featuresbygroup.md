@@ -46,7 +46,8 @@ Name| Feature type | Description | Examples
 Name | Feature type | Description | Examples
 --- | --- | --- | ---
 [after](after.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Space or punctuation after word | ` ` `.`
-[before](before.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | text-critical characters before word | `(` `[`
+[before](before.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features)) | text-critical characters before word | `(` `[`
+[criticalsign](criticalsign.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | text-critical signs | `(` `[` `)` `]`
 [normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations |
 [text](text.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | 
 
