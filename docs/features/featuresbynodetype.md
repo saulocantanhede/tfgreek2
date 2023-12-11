@@ -48,6 +48,7 @@ Feature | Feature group |Data type | Description | Examples
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical tense of the verb | `present` `aorist`
 [text](text.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Word as it appears in the text |
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun | `common` `personal`
+[unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Word in unicode format | `Λόγος` `Θεόν,`
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Verse number inside chapter |
 [voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical voice of the verb |
 
