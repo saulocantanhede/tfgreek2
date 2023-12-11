@@ -1,4 +1,4 @@
-# Feature: Before
+# Feature: before
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | --- 
