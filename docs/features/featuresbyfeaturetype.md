@@ -50,7 +50,7 @@ Name | Feature group | Description | Examples
 [referent](referent.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Referent | `n40001011005`
 [role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Syntactic role | 
 [strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Strongs number | `5547`
-[subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Subject reference |
+[subjrefspec](subjrefspec.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Subject reference | `n46003022002`
 [text](text.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word as it appears in the text | 
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical tense of the verb | `present` `aorist`
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) [`Syntactic`](featuresbygroup.md#syntactic-features) | Gramatical type of noun or pronoun | `common` `personal`
