@@ -8,9 +8,15 @@ Feature group | Feature type | Data type | Available for node types
 
 Annotation of linguistic nature
 
+## Feature values 
+
+Value | Frequency
+--- | ---
+`discontinuous discourse` | 2
+
 ## Source description
 
-TBD.
+From XML tag ....
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
