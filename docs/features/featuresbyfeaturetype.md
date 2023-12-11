@@ -51,7 +51,7 @@ Name | Feature group | Description | Examples
 [role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Syntactic role | 
 [strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Strongs number | `5547`
 [subjrefspec](subjrefspec.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Subject reference | `n46003022002`
-[text](text.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word as it appears in the text | 
+[text](text.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word as it appears in the text | `Λόγος` `καὶ`
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical tense of the verb | `present` `aorist`
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) [`Syntactic`](featuresbygroup.md#syntactic-features) | Gramatical type of noun or pronoun | `common` `personal`
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Sequence number  | `1` `2` ...   Verse number inside chapter | `1` `2`
