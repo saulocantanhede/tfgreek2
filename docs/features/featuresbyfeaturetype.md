@@ -22,6 +22,7 @@ Name | Feature group | Description | Examples
 [clauseType](clauseType.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Clause type information | `normalized`
 [cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Word and WordGroup class (Part of Speech) | `noun` `verb` / `np` `cl`
 [cltype](cltype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Clause type | `Verbless` `VerbElided`
+[criticalsign](criticalsign.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | text-critical signs | `(` `[` `)` `]`
 [crule](crule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Clause rule | `ClCl` `ClCl2`
 [degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Degree of an comparative or superlative adjective | `superlative` `comparative`
 [discontinuous](discontinuous.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Discontinuous information | `1`
