@@ -12,8 +12,8 @@ This feature indicates if a wordgroup contains an article.
 
 value | description | Frequency
 ---  | --- | --- 
-` ` | no articular in wg | ?
-`1` |  articular wg | ?
+` ` | no articular in wg | 
+`1` |  articular wg | 57544
 
 ## Source description
 
