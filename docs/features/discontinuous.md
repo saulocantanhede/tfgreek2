@@ -12,8 +12,8 @@ Set to 1 if the word is out of sequence in the XML source data in relation to th
 
 value | description | Frequency
 ---  | --- | --- 
-` ` | no discontinuation | ?
-`1` |  discontinuation | ?
+` ` | no discontinuation | 
+`1` |  discontinuation | 12068
 
 ## Source description
 
