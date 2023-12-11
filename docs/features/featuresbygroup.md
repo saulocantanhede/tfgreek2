@@ -92,5 +92,5 @@ Name | Feature type |Description | Example
 [note](note.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Notes |
 [parent](parent.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Parent | 
 [referent](referent.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Referent | `n40001011005`
-[subjrefspec](subjrefspec.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Subject reference |
+[subjrefspec](subjrefspec.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Subject reference | `n46003022002`
 [sibling](sibling.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Sibling | 
