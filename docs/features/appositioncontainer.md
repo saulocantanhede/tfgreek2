@@ -17,7 +17,7 @@ Value | Description | Frequency
 
 ## Note
 
-See also related feature [rela](rela.md#readme)
+See also related feature [rela](rela.md#readme).
 
 ## Source description
 
