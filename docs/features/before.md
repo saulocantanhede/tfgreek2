@@ -6,9 +6,9 @@ This feature provides the text-critical marks pressent before a word.
 Value | Description | Unicode codepoint | Frequency
 --- |  --- | --- | ---
 `—` | Em Dash | [`&#8212`](https://www.codetable.net/decimal/8212) | 32
-`(` |	 | | 20
-`[[` |	 | | 14
-`[` |	 |  | 2
+`(` |	Left Parenthesis | [`&#40`](https://www.codetable.net/decimal/40)| 20
+`[[` | Left Square Bracket (2x) | [`&#91`](https://www.codetable.net/decimal/91) (2x) | 14
+`[` |	Left Square Bracket | [`&#91`](https://www.codetable.net/decimal/91) | 2
 
 ## Source description
 
