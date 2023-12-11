@@ -61,7 +61,7 @@ Feature | Feature group |  Data type | Description | Examples
 [cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup class | `np` `cl`
 [type](type.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Clause type | `Verbless` `VerbElided`
 [parent](parent.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `link` | Link to parent node |
-[rela](rela.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Appostion information | `Appo` 
+[rela](rela.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Appostion information | `Appo` 
 [rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Syntactic rule | `ClCl` `ClCl2`
 [role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Role wordgroup | `s` `o` `apposition`
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun | `common` `personal`
