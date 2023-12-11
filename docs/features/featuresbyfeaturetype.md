@@ -46,6 +46,7 @@ Name | Feature group | Description | Examples
 [number](number.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical number| `singular` `plural`
 [otype](otype.md) | [`Grid`](featuresbygroup.md#grid-features) | node type data | 
 [person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical person | `first` `second` `third`
+[punctuation](punctuation.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Punctations after the word | `.` `;`
 [referent](referent.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Referent | `n40001011005`
 [role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Syntactic role | 
 [strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Strongs number | `5547`
