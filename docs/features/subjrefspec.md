@@ -1,4 +1,4 @@
-# Feature: subj_ref
+# Feature: subjrefspec
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
