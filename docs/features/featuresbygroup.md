@@ -50,7 +50,7 @@ Name | Feature type | Description | Examples
 [criticalsign](criticalsign.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | text-critical signs | `(` `[` `)` `]`
 [normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations |
 [punctuation](punctuation.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Punctations after the word | `.` `;`
-[text](text.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | 
+[text](text.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | `Λόγος` `καὶ`
 
 ## Morphological features
 
