@@ -48,9 +48,10 @@ Name | Feature type | Description | Examples
 [after](after.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Space or punctuation after word | ` ` `.`
 [before](before.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | text-critical characters before word | `(` `[`
 [criticalsign](criticalsign.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | text-critical signs | `(` `[` `)` `]`
-[normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations |
+[normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations | `πρὸς`
 [punctuation](punctuation.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Punctations after the word | `.` `;`
-[text](text.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | `Λόγος` `καὶ`
+[text](text.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | `Λόγος` `Θεόν,`
+[unicode](unicode.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word in unicode format | `Λόγος` `Θεόν,`
 
 ## Morphological features
 
