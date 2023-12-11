@@ -15,6 +15,10 @@ Value | Description | Frequency
 ` ` | this `wg` is no appositioncontainer | 
 `1` | the `wg` is an appositioncontainer | 3816
 
+## Note
+
+See also related feature [rela](rela.md#readme)
+
 ## Source description
 
 Taken from (optional) XML attribute `appositioncontainer` of tag `wg` (wordgroup).
