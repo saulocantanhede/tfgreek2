@@ -24,6 +24,7 @@ Feature | Feature group |Data type | Description | Examples
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical case | `nominative` `genitive` `vocative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Chapter number inside book |
 [cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features)  | `String` | Word class: Part of Speech | `noun` `verb`
+[criticalsign](criticalsign.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | text-critical signs | `(` `[` `)` `]`
 [degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Degree of an comparative or superlative adjective |
 [discontinuous](discontinuous.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) |`String` | Discontinuous information
 [domain](domain.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG |
