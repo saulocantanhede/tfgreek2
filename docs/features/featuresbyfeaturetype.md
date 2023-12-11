@@ -15,7 +15,8 @@ Name | Feature group | Description | Examples
 [appostioncontainer](appositioncontainer.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Appostioncontainer information | `1` 
 [articular](articular.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Articular information | `1`
 [before](before.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | text-critical characters before word | `(` `[`
-[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Short book name | `MAT` `MAR` ... `REV`
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Full book name | `Matthew` `Mark` ... `Revelation`
+[book_short](book_short.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Short book name | `MAT` `MAR` ... `REV`
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical case | `nominative` `genitive` `dative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Chapter number inside book | `1` `2` ...
 [clauseType](clauseType.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Clause type information | `normalized`
