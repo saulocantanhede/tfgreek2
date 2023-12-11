@@ -6,7 +6,7 @@ Feature group |Feature type | Data type | Available for node types
 
 ## Feature description
 
-Verbal voice of the verb.
+Gramatical voice of the verb.
 
 ## Feature values
 
