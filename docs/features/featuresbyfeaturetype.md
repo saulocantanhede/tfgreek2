@@ -14,7 +14,7 @@ Name | Feature group | Description | Examples
 [after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) |Space or punctuation after word | ` ` `.`
 [appostioncontainer](appositioncontainer.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Appostioncontainer information | `1` 
 [articular](articular.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Articular information | `1`
-[before](before.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | text-critical characters before word
+[before](before.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | text-critical characters before word | `(` `[`
 [book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Short book name | `MAT` `MAR` ... `REV`
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical case | `nominative` `genitive` `dative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Chapter number inside book | `1` `2` ...
