@@ -17,7 +17,7 @@ Value | Description | Frequency
 
 ## Note
 
-See also related feature [appositioncontainer](appositioncontainer.md#readme)
+See also related feature [appositioncontainer](appositioncontainer.md#readme).
 
 ## Source description
 
