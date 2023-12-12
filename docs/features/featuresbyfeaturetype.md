@@ -67,7 +67,7 @@ Name | Feature group | Data type | Description | Example
 [framespec](framespec.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String` | Framespec |
 [parent](parent.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String` | Parent | 
 [referent](referent.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String` | Referent | `n40001011005`
-[subj_ref](subj_ref.md#readme) |  [`Relational`](featuresbygroup.md#relational-features)  `String` | |Subject reference |
+[subj_ref](subj_ref.md#readme) |  [`Relational`](featuresbygroup.md#relational-features) | `String` | Subject reference |
 [sibling](sibling.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String` | Sibling | 
 
 ## Config features
