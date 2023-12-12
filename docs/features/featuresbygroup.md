@@ -23,13 +23,13 @@ Name | Feature type | Available on node | Description| Examples
 
 Name | Feature type | Available on node | Description | Examples
 ---|---|---|---|---
-[book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Short book name | `MAT` `MAR` ... `REV`
-[chapter](chapter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Chapter number inside book | `1` `2` ...
-[id](id.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Unique identity of a word | `n40001003006`
-[monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Monad | *to be added?*
-[nodeId](nodeId.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Node Id  | `n56001015007`
-[num](num.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Sequence number  | `1` `2` ...   
-[verse](verse.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Verse number inside chapter | `1` `2`
+[book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`group`](featuresbynodetype.md#group-nodes) [`wg`](featuresbynodetype.md#wg-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`verse`](featuresbynodetype.md#verse-nodes)  [`book`](featuresbynodetype.md#book-notes) | Short book name | `MAT` `MAR` ... `REV`
+[chapter](chapter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) [`chapter`](featuresbynodetype.md#chapter-nodes) | Chapter number inside book | `1` `2` ...
+[id](id.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) | Unique identity of a word | `n40001003006`
+[monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) |  | Monad | *to be added?*
+[nodeId](nodeId.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) | Node Id  | `n56001015007`
+[num](num.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) [`chapter`](featuresbynodetype.md#chapter-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`book`](featuresbynodetype.md#book-nodes) | Sequence number  | `1` `2` ...   
+[verse](verse.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) [`verse`](featuresbynodetype.md#verse-nodes) | Verse number inside chapter | `1` `2`
 
 ## Lexical features
 
