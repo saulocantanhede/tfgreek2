@@ -19,7 +19,7 @@ Below are all node features listed:
 Feature | Feature group | Data type | Description | Examples
 --- | --- | --- | --- | ---
 [after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | spaces and punctuation after word | `. ` `; ` ` `
-[before](before.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | text-critical characters before word | 
+[before](before.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | text-critical characters before word | `[` `(` `—`
 [book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |  Book name (full) | `Matthew` `Mark` ... `Revelation`
 [book_short](book_short.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |  Book name (abbreviated) | `MAT` `MAR` ... `REV`
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical case | `nominative` `genitive` `vocative`
