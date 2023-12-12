@@ -10,13 +10,13 @@ Book name (full)
 
 ## Feature values
 
-Value (feature: [book_short](book_short.md#readme)) | book (this feature) | feature [num](num.md#readme)
+book (this feature) | feature: [book_short](book_short.md#readme)) | [num](num.md#readme)
 --- | --- | ---
-MAT | Matthew | 1
-MRK | Mark | 2
-LUK | Luke | 3
-JHN | John | 4
-ACT | Acts | 5
+Matthew | MAT | 1
+Mark | MRK | 2
+Luke | LUK | 3
+John | JHN | 4
+Acts | ACT | 5
 ... | ... | 
 
 ## See also
