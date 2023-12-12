@@ -21,9 +21,9 @@ Name | Feature type | Available on node | Description| Examples
 
 ## Sectional features
 
-Name | Feature type | Description | Examples
----|---|---|---
-[book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Short book name | `MAT` `MAR` ... `REV`
+Name | Feature type | Available on node | Description | Examples
+---|---|---|---|---
+[book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Short book name | `MAT` `MAR` ... `REV`
 [chapter](chapter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Chapter number inside book | `1` `2` ...
 [id](id.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Unique identity of a word | `n40001003006`
 [monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Monad | *to be added?*
