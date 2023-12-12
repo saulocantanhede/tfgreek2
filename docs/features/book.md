@@ -17,28 +17,28 @@ Mark | MRK | 2
 Luke | LUK | 3
 John | JHN | 4
 Acts | ACT | 5
-Romans | | 6
-I_Corinthians | | 7
-II_Corinthians | | 8
-Galatians | | 9
-Ephesians | | 10
-Philippians | | 11
-Colossians | | 12
-I_Thessalonians | | 13
-II_Thessalonians | | 14
-I_Timothy | | 15
-II_Timothy | | 16
-Titus | | 17
-Philemon | | 18
-Hebrews | | 19
-James | | 20
-I_Peter | | 21
-II_Peter | | 22
-I_John | | 23
-II_John | | 24
-III_John | | 25
-Jude | | 26
-Revelation | | 27
+Romans | ROM | 6
+I_Corinthians | 1CO | 7
+II_Corinthians | 2CO | 8
+Galatians | GAL | 9
+Ephesians | EPH | 10
+Philippians | PHP | 11
+Colossians | COL | 12
+I_Thessalonians | 1TH | 13
+II_Thessalonians | 2TH | 14
+I_Timothy | 1TI | 15
+II_Timothy | 2TI | 16
+Titus | TIT | 17
+Philemon | PHM | 18
+Hebrews | HEB | 19
+James | JAS | 20
+I_Peter | 1PE | 21
+II_Peter | 2PE | 22
+I_John | 1JN | 23
+II_John | 2JN | 24
+III_John | 3JN | 25
+Jude | JUD | 26
+Revelation | REV | 27
 
 ## See also
 
