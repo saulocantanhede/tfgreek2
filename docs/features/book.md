@@ -10,7 +10,7 @@ Book name (full)
 
 ## Feature values
 
-book (this feature) | feature: [book_short](book_short.md#readme)) | [num](num.md#readme)
+book (this feature) | feature: [book_short](book_short.md#readme) | [num](num.md#readme)
 --- | --- | ---
 Matthew | MAT | 1
 Mark | MRK | 2
