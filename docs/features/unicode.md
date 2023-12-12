@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Lexical`](home.md#lexical-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`w`](wordnodefeatures.md#readme)
+[`Lexical`](home.md#lexical-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`w`](featuresbynodetype.md#word-nodes)
 
 ## Feature description
 surface greek form of the word in unicode, contains material after it.
