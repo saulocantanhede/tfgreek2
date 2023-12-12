@@ -2,15 +2,16 @@
 ###### *(or browse by [feature type](featuresbyfeaturetype.md#readme) or [feature group](featuresbygroup.md#readme))*
 
 This Text-Fabric dataset contains the following node types:
-* [`w` (word) nodes](#word-nodes)
-* [`wg` (wordgroup) nodes](#wordgroup-nodes)
-* [`phrase` nodes](#phrase-nodes)
-* [`subphrase` nodes](#subphrase-nodes)
-* [`clause` nodes](#clause-nodes)
-* [`sentence` nodes](#sentence-nodes)
-* [`verse` nodes](#verse-nodes)
-* [`chapter`nodes](#chapter-nodes)
-* [`book` nodes](#book-nodes)
+* [27 `book` nodes](#book-nodes)
+* [260 `chapter`nodes](#chapter-nodes)
+* [7944 `verse` nodes](#verse-nodes)
+* [18609 `sentence` nodes](#sentence-nodes)
+* [8964 `group` nodes](#group-nodes)
+* [30479 `clause` nodes](#clause-nodes)
+* [106868 `wg` (wordgroup) nodes](#wordgroup-nodes)
+* [113750 `phrase` nodes](#phrase-nodes)
+* [72845 `subphrase` nodes](#subphrase-nodes)
+* [137779	`word` nodes](#word-nodes)
 
 Below are all node features listed: 
 
@@ -67,6 +68,12 @@ Feature | Feature group |  Data type | Description | Examples
 [rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Syntactic rule | `ClCl` `ClCl2`
 [role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Role wordgroup | `s` `o` `apposition`
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun | `common` `personal`
+
+## Group nodes
+
+Feature | Feature group |  Data type | Description | Examples
+--- | --- | --- | --- | ---
+
 
 ## Clause nodes
 Feature | Feature group | Data type | Short description | Examples
