@@ -55,7 +55,7 @@ Name | Feature group | Data type | Description | Examples
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical tense of the verb | `present` `aorist`
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Gramatical type of noun or pronoun | `common` `personal`
 [unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Unicode presentation of the surface text |  `Λόγος` `καὶ`
-[verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sequence number  | `1` `2` ...   Verse number inside chapter | `1` `2`
+[verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Verse number inside chapter | `1` `2`
 [voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical voice of the verb | `active` `passive`
 
 
