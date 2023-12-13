@@ -127,8 +127,10 @@ Feature | Feature group | Data type | Description
 
 Feature | Feature group | Data type | Description | Examples
 --- | --- | --- | --- | ---
-[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (abbreviated)
-[num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sequence number (here: book number)
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (full) | `Luke` `Matthew`
+[book_short](book_short.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (abbreviated) | `LUK` `ACT`
+[lang](lang.md#readme) |  [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Language of the corpus | `el`
+[num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sequence number (here: book number) | `1` `2`
 
 
 
