@@ -2,11 +2,11 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`relational`](featuresbygroup.md#relational-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`w`](featuresbynodetype.md#word-nodes)
+[`relational`](featuresbygroup.md#relational-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) 
 
 ## Feature description
 
-A uniqe identifier for each word in the corpus.
+A uniqe identifier for each individual word in the corpus.
 
 ```
 The letter 'n' followed by a 11-digit unique id in the format
