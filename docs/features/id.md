@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types
 A uniqe identifier for each word in the corpus.
 
 ```
-The letter 'n' followe by a 11-digit unique id in the format
+The letter 'n' followed by a 11-digit unique id in the format
 
     BBCCCVVVWWW
     BB          => zero-padded book, the first NT book (Matthew) starts at 40
