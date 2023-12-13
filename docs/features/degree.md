@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`w`](featuresbynodetype.md#word-nodes)
+[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)
 
 ## Feature description
 Grammatical degree of an comparative or superlative adjective.
@@ -11,9 +11,9 @@ Grammatical degree of an comparative or superlative adjective.
 
 Value | Description | Frequency
 --- | --- | ---
-comparitative | Comparitative adjective | 313
-superlative | Superlative adjective | 200
-'' | Empty for any other adjectives or other wordtypes | 137266
+comparitative | Comparitative adjective | 626
+superlative | Superlative adjective | 400
+'' | Empty for any other adjectives or other wordtypes | -
 
 ## Source description
 
