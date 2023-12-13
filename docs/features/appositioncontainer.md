@@ -2,18 +2,18 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | --- 
-[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `Integer` | [`wg`](featuresbynodetype.md#wordgroup-nodes)
+[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `Integer` | [`wg`](featuresbynodetype.md#wordgroup-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)
 
 ## Feature description 
 
-This feature indicates if a wordgroup is the containing wordgroup of an apposition.
+This feature indicates if a wordgroup or phrase contains an apposition.
 
 ## Feature values 
 
 Value | Description | Frequency
 ---  | --- | --- 
-` ` | this `wg` is no appositioncontainer | 
-`1` | the `wg` is an appositioncontainer | 3816
+` ` | this is no appositioncontainer | -
+`1` | the is an appositioncontainer | 3816
 
 ## Note
 
