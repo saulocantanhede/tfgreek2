@@ -10,9 +10,9 @@ Clause type for verbless, verb-elided, and minor clauses.
 
 value | description | Frequency
 ---  | --- | --- 
-`Verbless` | Verbless claus | ?
-`VerbElided` |  Verb-elided clause type | ?
-`Minor` |  Minor clause type | ?
+`Verbless` | Verbless clause type| 1922
+`VerbElided` |  Verb-elided clause type | 2100
+`Minor` |  Minor clause type | 1664
 
 ## Source description
 

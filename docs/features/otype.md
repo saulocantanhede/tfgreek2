@@ -10,14 +10,15 @@ Types for text objects as they are represented by nodes.
  
 type | kind | description
 --- |--- |---
-[`w`](wordnodefeatures.md#readme) | slot | single word, fills a *slot*;
-[`wg`](wordgroupnodefeatures.md#readme) | functional | wordgroup, maybe with gaps
-[`Phrase`](phrasenodefeatures.md#readme) | functional | phrase, maybe with gaps
-[`Clause`](clausenodefeatures.md#readme) |functional | clause, maybe with gaps
-[`Sentence`](sentencenodefeatures.md#readme) |functional| clause, maybe with gaps
-[`verse`](versenodefeatures.md#readme) |section | numbered unit of a chapter
-[`chapter`](chapternodefeatures.md#readme) | section | numbered unit of a book
-[`Book`](booknodefeatures.md#readme) | section | named part of the Greek New Testament
+[`w`](featuresbynodetype.md#word-nodes) | slot | single word, fills a *slot*;
+[`wg`](featuresbynodetype.md#wordgroup-nodes) | functional | wordgroup, maybe with gaps
+[`Phrase`](featuresbynodetype.md#phrase-nodes) | functional | phrase, maybe with gaps
+[`subphrase`](featuresbynodetype.md#subphrase-nodes) | functional | subphrase, maybe with gaps
+[`Clause`](featuresbynodetype.md#clause-nodes) | functional | clause, maybe with gaps
+[`Sentence`](featuresbynodetype.md#sentence-nodes) |functional| clause, maybe with gaps
+[`verse`](featuresbynodetype.md#verse-nodes) |section | numbered unit of a chapter
+[`chapter`](featuresbynodetype.md#chapter-nodes) | section | numbered unit of a book
+[`Book`](featuresbynodetype.md#book-nodes) | section | named part of the Greek New Testament
 
 All objects have a type, which is just a label.
 Objects and their slots are represented in Text-Fabric as *nodes*.

@@ -12,7 +12,7 @@ Clause type information.
 
 value | Description | Frequency
 --- | --- | ---
-nominalized | | 
+nominalized | | 10592
 ' ' | | 
 
 ## Source description

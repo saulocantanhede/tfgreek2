@@ -6,7 +6,7 @@ Feature group |Feature type | Data type | Available for node types
 
 ## Feature description
 
-Verbal voice of the verb.
+Gramatical voice of the verb.
 
 ## Feature values
 
@@ -20,7 +20,7 @@ passive | The subject of the verb is being acted upon | 3493
 
 ## Notes
 
-Planned for future version? active, middle, passive, middle_or_passive, middle_deponent, passive_deponent, middle_or_passive_deponent, impersonal_active, and no_voice. Possibly by just adding a feature 'deponent'?
+The BOL dataset contians additional details.
 
 ## Source description
 

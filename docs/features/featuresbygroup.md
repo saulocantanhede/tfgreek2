@@ -13,23 +13,24 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 
 ## Grid features
 
-Name | Feature type | Description| Examples
----|---|---| ---
-[oslots](oslots.md) | [`Config`](featuresbyfeaturetype.md#config-features)  | slot containment | `1` `1-11` `2010-2015,2020-2030`
-[otext](otext.md) | [`Config`](featuresbyfeaturetype.md#config-features) | configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
-[otype](otype.md) | [`Node`](featuresbyfeaturetype.md#node-features) | node type | `book` `verse` `clause` `phrase` `word`
+Name | Feature type | Available on node | Description| Examples
+---|---|---| ---|---
+[oslots](oslots.md#readme) | [`Config`](featuresbyfeaturetype.md#config-features) |   | slot containment | `1` `1-11` `2010-2015,2020-2030`
+[otext](otext.md#readme) | [`Config`](featuresbyfeaturetype.md#config-features) | | configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
+[otype](otype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | | node type | `book` `verse` `clause` `phrase` `word`
 
 ## Sectional features
 
-Name | Feature type | Description | Examples
----|---|---|---
-[book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Short book name | `MAT` `MAR` ... `REV`
-[chapter](chapter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Chapter number inside book | `1` `2` ...
-[id](id.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Unique identity of a word | `n40001003006`
-[monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Monad | *to be added?*
-[nodeId](nodeId.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Node Id  | `n56001015007`
-[num](num.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Sequence number  | `1` `2` ...   
-[verse](verse.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Verse number inside chapter | `1` `2`
+Name | Feature type | Available on node | Description | Examples
+---|---|---|---|---
+[book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`group`](featuresbynodetype.md#group-nodes) [`wg`](featuresbynodetype.md#wg-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`verse`](featuresbynodetype.md#verse-nodes)  [`book`](featuresbynodetype.md#book-notes) | Full book name | `Matthew` `Mark` ... `Revelation`
+[book_short](book_short.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`group`](featuresbynodetype.md#group-nodes) [`wg`](featuresbynodetype.md#wg-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`verse`](featuresbynodetype.md#verse-nodes)  [`book`](featuresbynodetype.md#book-notes) | Short book name | `MAT` `MAR` ... `REV`
+[chapter](chapter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) [`chapter`](featuresbynodetype.md#chapter-nodes) | Chapter number inside book | `1` `2` ...
+[id](id.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) | Unique identity of a word | `n40001003006`
+[monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) |  | Monad | *to be added?*
+[nodeId](nodeId.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) | Node Id  | `n56001015007`
+[num](num.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) [`chapter`](featuresbynodetype.md#chapter-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`book`](featuresbynodetype.md#book-nodes) | Sequence number  | `1` `2` ...   
+[verse](verse.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`w`](featuresbynodetype.md#word-nodes) [`verse`](featuresbynodetype.md#verse-nodes) | Verse number inside chapter | `1` `2`
 
 ## Lexical features
 
@@ -45,9 +46,13 @@ Name| Feature type | Description | Examples
 
 Name | Feature type | Description | Examples
 --- | --- | --- | ---
-[after](after.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Space or punctuation after word | ` ` `.`
-[normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations |
-[text](text.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | 
+[after](after.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Space or punctuation after word | ` ` `. ` `; `
+[before](before.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | text-critical characters before word | `(` `[`
+[criticalsign](criticalsign.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | text-critical signs | `(` `[` `)` `]`
+[normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations | `πρὸς`
+[punctuation](punctuation.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Punctations after the word | `.` `;`
+[text](text.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | `Λόγος` `Θεόν,`
+[unicode](unicode.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word in unicode format | `Λόγος` `Θεόν,`
 
 ## Morphological features
 
@@ -76,6 +81,7 @@ Name | Feature type | Description | Examples
 [crule](crule.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause rule | `ClCl` `ClCl2`
 [discontinuous](discontinuous.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Discontinuous information | `1`
 [junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Junction information | `1`
+[rela](rela.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Appostion information | `Appo` 
 [role](role.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Role of word or wordgroup | `s` `o` `apposition`
 [type](type.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Syntactical type of wordgroup | `conjuncted-wg` `apposition-group`
 
@@ -88,5 +94,5 @@ Name | Feature type |Description | Example
 [note](note.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Notes |
 [parent](parent.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Parent | 
 [referent](referent.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Referent | `n40001011005`
-[subj_ref](subj_ref.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Subject reference |
+[subjrefspec](subjrefspec.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Subject reference | `n46003022002`
 [sibling](sibling.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Sibling | 

@@ -2,27 +2,31 @@
 ###### *(or browse by [feature type](featuresbyfeaturetype.md#readme) or [feature group](featuresbygroup.md#readme))*
 
 This Text-Fabric dataset contains the following node types:
-* [`w` (word) nodes](#word-nodes)
-* [`wg` (wordgroup) nodes](#wordgroup-nodes)
-* [`phrase` nodes](#phrase-nodes)
-* [`subphrase` nodes](#subphrase-nodes)
-* [`clause` nodes](#clause-nodes)
-* [`sentence` nodes](#sentence-nodes)
-* [`verse` nodes](#verse-nodes)
-* [`chapter`nodes](#chapter-nodes)
-* [`book` nodes](#book-nodes)
+* [27 `book` nodes](#book-nodes)
+* [260 `chapter`nodes](#chapter-nodes)
+* [7944 `verse` nodes](#verse-nodes)
+* [18609 `sentence` nodes](#sentence-nodes)
+* [8964 `group` nodes](#group-nodes)
+* [30479 `clause` nodes](#clause-nodes)
+* [106868 `wg` (wordgroup) nodes](#wordgroup-nodes)
+* [113750 `phrase` nodes](#phrase-nodes)
+* [72845 `subphrase` nodes](#subphrase-nodes)
+* [137779	`word` nodes](#word-nodes)
 
 Below are all node features listed: 
 
 ## Word nodes 
 
-Feature | Feature group |Data type | Description | Examples
+Feature | Feature group | Data type | Description | Examples
 --- | --- | --- | --- | ---
-[after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | space or punctuation after word
-[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |  Book name (abbriviated)
+[after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | spaces and punctuation after word | `. ` `; ` ` `
+[before](before.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | text-critical characters before word | `[` `(` `—`
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |  Book name (full) | `Matthew` `Mark` ... `Revelation`
+[book_short](book_short.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |  Book name (abbreviated) | `MAT` `MAR` ... `REV`
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical case | `nominative` `genitive` `vocative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Chapter number inside book |
 [cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features)  | `String` | Word class: Part of Speech | `noun` `verb`
+[criticalsign](criticalsign.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | text-critical signs | `(` `[` `)` `]`
 [degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Degree of an comparative or superlative adjective |
 [discontinuous](discontinuous.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) |`String` | Discontinuous information
 [domain](domain.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG |
@@ -39,13 +43,14 @@ Feature | Feature group |Data type | Description | Examples
 [number](number.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical number of the verb
 [parent](parent.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `link` | Link to parent node
 [person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical person of the verb (first, second, third)
-[punctuation](punctuation.md#readme)  | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Punctuation | ` ` `.`
+[punctuation](punctuation.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Punctuation | ` ` `.`
 [strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Strongs number
 [unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Unicode text |
-[subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String` | Subject reference (to nodeID in XML source data) |
+[subjrefspec](subjrefspec.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String` | Subject reference (to nodeID in XML source data) |
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical tense of the verb | `present` `aorist`
 [text](text.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Word as it appears in the text |
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun | `common` `personal`
+[unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Word in unicode format | `Λόγος` `Θεόν,`
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Verse number inside chapter |
 [voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical voice of the verb |
 
@@ -59,9 +64,16 @@ Feature | Feature group |  Data type | Description | Examples
 [cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup class | `np` `cl`
 [type](type.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Clause type | `Verbless` `VerbElided`
 [parent](parent.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `link` | Link to parent node |
+[rela](rela.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Appostion information | `Appo` 
 [rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Syntactic rule | `ClCl` `ClCl2`
 [role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Role wordgroup | `s` `o` `apposition`
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun | `common` `personal`
+
+## Group nodes
+
+Feature | Feature group |  Data type | Description | Examples
+--- | --- | --- | --- | ---
+
 
 ## Clause nodes
 Feature | Feature group | Data type | Short description | Examples

@@ -12,8 +12,12 @@ This feature indicates if a wordgroup is the containing wordgroup of an appositi
 
 Value | Description | Frequency
 ---  | --- | --- 
-` ` | no appositioncontainer | 
-`1` |  appositioncontainer | 
+` ` | this `wg` is no appositioncontainer | 
+`1` | the `wg` is an appositioncontainer | 3816
+
+## Note
+
+See also related feature [rela](rela.md#readme).
 
 ## Source description
 

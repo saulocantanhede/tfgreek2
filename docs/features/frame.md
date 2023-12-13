@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Relational`](featuresbygroup.md#relational-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | `String`  | [`w`](wordnodefeatures.md#readme)
+[`Relational`](featuresbygroup.md#relational-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | `String`  |  [`w`](featuresbynodetype.md#word-nodes)
 
 ## Feature description
 
