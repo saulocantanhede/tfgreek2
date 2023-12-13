@@ -2,11 +2,11 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | --- 
-[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `Integer` | [`wg`](featuresbynodetype.md#wordgroup-nodes)
+[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `Integer` | [`sentence`](featuresbynodetype.md#sentence-nodes) [`group`](featuresbynodetype.md#group-nodes)  [`wg`](featuresbynodetype.md#wordgroup-nodes) [`clause`](featuresbynodetype.md#clause-nodes)
 
 ## Feature description 
 
-This feature indicates if a wordgroup contains an article.
+This feature indicates if a syntact unit contains an article.
 
 ## Feature values 
 
