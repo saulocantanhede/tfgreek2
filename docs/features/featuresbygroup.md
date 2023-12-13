@@ -33,8 +33,8 @@ Name | Data type | Feature type | Available on nodes | Description | Examples
 
 ## Lexical features
 
-Name | Feature type | Data type | Available on nodes | Description | Examples
----|---|---|--- | ---| ---
+Name |  Data type |Feature type | Data type | Available on nodes | Description | Examples
+---|---|---|--- | ---| ---|---
 [gloss](gloss.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | English gloss | 
 [lemma](lemma.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Lexical lemma (cf. BDAG) |
 [domain](domain.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Lexical domain according to SDBG | `092004`
@@ -43,30 +43,30 @@ Name | Feature type | Data type | Available on nodes | Description | Examples
 
 ## Orthograpic features
 
-Name | Feature type | Description | Examples
---- | --- | --- | ---
-[after](after.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Space or punctuation after word | ` ` `. ` `; `
-[before](before.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | text-critical characters before word | `(` `[`
-[criticalsign](criticalsign.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | text-critical signs | `(` `[` `)` `]`
-[normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations | `πρὸς`
-[punctuation](punctuation.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Punctations after the word | `.` `;`
-[text](text.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | `Λόγος` `Θεόν,`
-[unicode](unicode.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word in unicode format | `Λόγος` `Θεόν,`
+Name |  Data type |Feature type | Description | Examples
+--- | --- | --- | --- | ---
+[after](after.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Space or punctuation after word | ` ` `. ` `; `
+[before](before.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | text-critical characters before word | `(` `[`
+[criticalsign](criticalsign.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | text-critical signs | `(` `[` `)` `]`
+[normalized](normalized.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations | `πρὸς`
+[punctuation](punctuation.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Punctations after the word | `.` `;`
+[text](text.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | `Λόγος` `Θεόν,`
+[unicode](unicode.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Word in unicode format | `Λόγος` `Θεόν,`
 
 ## Morphological features
 
-Name | Feature type |Description | Examples
---- | --- | --- | ---
-[case](case.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical case | `nominative` `genitive` `dative`
-[degree](degree.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Degree of an comparative or superlative adjective | `superlative` `comparative`
-[gender](gender.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical gender | `masculine` `feminine` `neuter`
-[mood](mood.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical mood of a verb | `indicative` `optative `
-[morph](morph.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Morphological tag | `V-AAI-3S` `N-GSF`
-[number](number.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical number | `singular` `plural`
-[person](person.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical person | `first` `second` `third`
-[tense](tense.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical tense of the verb | `present` `aorist`
-[type](type.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical type of noun or pronoun | `common` `personal`
-[voice](voice.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical voice of the verb | `active` `passive`
+Name |  Data type | Feature type |Description | Examples
+--- | --- | --- | --- | ---
+[case](case.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical case | `nominative` `genitive` `dative`
+[degree](degree.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Degree of an comparative or superlative adjective | `superlative` `comparative`
+[gender](gender.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical gender | `masculine` `feminine` `neuter`
+[mood](mood.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical mood of a verb | `indicative` `optative `
+[morph](morph.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Morphological tag | `V-AAI-3S` `N-GSF`
+[number](number.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical number | `singular` `plural`
+[person](person.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical person | `first` `second` `third`
+[tense](tense.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical tense of the verb | `present` `aorist`
+[type](type.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical type of noun or pronoun | `common` `personal`
+[voice](voice.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical voice of the verb | `active` `passive`
 
 ## Syntactic features
 
