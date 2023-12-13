@@ -44,7 +44,7 @@ Feature | Feature group | Data type | Description | Examples
 [parent](parent.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `link` | Link to parent node
 [person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical person of the verb (first, second, third)
 [punctuation](punctuation.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Punctuation | ` ` `.`
-[strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Strongs number
+[strong](strong.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Strong's number
 [unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Unicode text |
 [subjrefspec](subjrefspec.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String` | Subject reference (to nodeID in XML source data) |
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical tense of the verb | `present` `aorist`
