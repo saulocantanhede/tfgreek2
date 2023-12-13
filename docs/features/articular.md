@@ -12,7 +12,7 @@ This feature indicates if a syntact unit contains an article.
 
 value | description | Frequency
 ---  | --- | --- 
-` ` | no articular in wg | 
+` ` | no articular in syntactic unit | -
 `1` |  articular wg | 57544
 
 ## Source description
