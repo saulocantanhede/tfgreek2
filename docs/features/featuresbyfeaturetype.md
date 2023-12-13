@@ -49,7 +49,7 @@ Name | Feature group | Data type | Description | Examples
 [punctuation](punctuation.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Punctations after the word | `.` `;`
 [referent](referent.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String` | Referent | `n40001011005`
 [role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Syntactic role | 
-[strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Strongs number | `5547`
+[strong](strong.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Strong's number | `5547`
 [subjrefspec](subjrefspec.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String` | Subject reference | `n46003022002`
 [text](text.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Word as it appears in the text | `Λόγος` `καὶ`
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical tense of the verb | `present` `aorist`
