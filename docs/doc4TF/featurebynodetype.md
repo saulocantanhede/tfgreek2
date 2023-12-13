@@ -1,4 +1,4 @@
-<p>N1904 Greek New Testament Text-Fabric dataset (saulocantanhede/tfgreek2)</p>
+<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.2</a></p>
 
 <h1>Features per node type</h1>
 

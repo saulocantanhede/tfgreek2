@@ -1,4 +1,4 @@
-<p>N1904 Greek New Testament Text-Fabric dataset (saulocantanhede/tfgreek2)</p>
+<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.2</a></p>
 
 <h1>Feature: chapter</h1>
 
@@ -12,7 +12,7 @@
 <tbody>
 <tr>
   <td><code>integer</code></td>
-  <td><A HREF="featurebynodetype.md#word"><code>word</code></A> <A HREF="featurebynodetype.md#chapter"><code>chapter</code></A> <A HREF="featurebynodetype.md#verse"><code>verse</code></A></td>
+  <td><A HREF="featurebynodetype.md#verse"><code>verse</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A> <A HREF="featurebynodetype.md#chapter"><code>chapter</code></A></td>
 </tr>
 </tbody>
 </table>
