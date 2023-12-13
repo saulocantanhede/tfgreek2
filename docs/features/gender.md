@@ -2,9 +2,10 @@
 
 Feature group |Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`w`](featuresbynodetype.md#word-nodes)
+[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`word`](featuresbynodetype.md#word-nodes) [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)
 
 ## Feature description
+
 Gramatical gender for wordtypes nouns, adjectives, pronouns, participles, and definite articles.
 
 ## Feature values
