@@ -2,10 +2,11 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Lexical`](home.md#lexical-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`w`](featuresbynodetype.md#word-nodes)
+[`Lexical`](home.md#lexical-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)
 
 ## Feature description
-surface greek form of the word in unicode, contains material after it.
+
+Surface greek form of the word in unicode, contains material after it.
 
 ## Source description
 
