@@ -6,11 +6,13 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
+A uniqe identifier for each word in the corpus.
+
 ```
 The letter 'n' followe by a 11-digit unique id in the format
 
     BBCCCVVVWWW
-    BB          => zero-padded book, NT starts at 40
+    BB          => zero-padded book, the first NT book (Matthew) starts at 40
       CCC       => zero-padded chapter
          VVV    => zero-padded verse
             WWW => zero-padded word index (instance within the verse)
