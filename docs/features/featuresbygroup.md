@@ -39,34 +39,34 @@ Name |  Data type |Feature type | Available on nodes | Description | Examples
 [lemma](lemma.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Lexical lemma (cf. BDAG) |
 [domain](domain.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Lexical domain according to SDBG | `092004`
 [ln](ln.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Louw-Nida lexical classification | `93.169a`
-[strong](strong.md#readme) | `string` |  [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)| Strong's number | `5547`
+[strong](strong.md#readme) | `string` |  [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Strong's number | `5547`
 
 ## Orthograpic features
 
 Name |  Data type |Feature type | Available on nodes| Description | Examples
 --- | --- | --- | --- | --- | ---
-[after](after.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Space or punctuation after word | ` ` `. ` `; `
-[before](before.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | text-critical characters before word | `(` `[`
-[criticalsign](criticalsign.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | text-critical signs | `(` `[` `)` `]`
-[normalized](normalized.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Surface word stripped of punctations | `πρὸς`
-[punctuation](punctuation.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Punctations after the word | `.` `;`
-[text](text.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Word as it appears in the text | `Λόγος` `Θεόν,`
-[unicode](unicode.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Word in unicode format | `Λόγος` `Θεόν,`
+[after](after.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Space or punctuation after word | ` ` `. ` `; `
+[before](before.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | text-critical characters before word | `(` `[`
+[criticalsign](criticalsign.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | text-critical signs | `(` `[` `)` `]`
+[normalized](normalized.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Surface word stripped of punctations | `πρὸς`
+[punctuation](punctuation.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Punctations after the word | `.` `;`
+[text](text.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Word as it appears in the text | `Λόγος` `Θεόν,`
+[unicode](unicode.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Word in unicode format | `Λόγος` `Θεόν,`
 
 ## Morphological features
 
 Name |  Data type | Feature type | Available on nodes |Description | Examples
 --- | --- | --- | --- | --- | ---
-[case](case.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Gramatical case | `nominative` `genitive` `dative`
-[degree](degree.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Degree of an comparative or superlative adjective | `superlative` `comparative`
-[gender](gender.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Gramatical gender | `masculine` `feminine` `neuter`
-[mood](mood.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Gramatical mood of a verb | `indicative` `optative `
-[morph](morph.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Morphological tag | `V-AAI-3S` `N-GSF`
-[number](number.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Gramatical number | `singular` `plural`
-[person](person.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Gramatical person | `first` `second` `third`
-[tense](tense.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Gramatical tense of the verb | `present` `aorist`
-[type](type.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Gramatical type of noun or pronoun | `common` `personal`
-[voice](voice.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | | Gramatical voice of the verb | `active` `passive`
+[case](case.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Gramatical case | `nominative` `genitive` `dative`
+[degree](degree.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Degree of an comparative or superlative adjective | `superlative` `comparative`
+[gender](gender.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Gramatical gender | `masculine` `feminine` `neuter`
+[mood](mood.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Gramatical mood of a verb | `indicative` `optative `
+[morph](morph.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)| Morphological tag | `V-AAI-3S` `N-GSF`
+[number](number.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Gramatical number | `singular` `plural`
+[person](person.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Gramatical person | `first` `second` `third`
+[tense](tense.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Gramatical tense of the verb | `present` `aorist`
+[type](type.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`group`](featuresbynodetype.md#group-nodes) [`wg`](featuresbynodetype.md#wg-nodes) | Gramatical type of noun or pronoun | `common` `personal`
+[voice](voice.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Gramatical voice of the verb | `active` `passive`
 
 ## Syntactic features
 
