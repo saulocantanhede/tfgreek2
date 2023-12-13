@@ -49,7 +49,6 @@ Name | Feature type | Description | Examples
 [after](after.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Space or punctuation after word | ` ` `. ` `; `
 [before](before.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | text-critical characters before word | `(` `[`
 [criticalsign](criticalsign.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | text-critical signs | `(` `[` `)` `]`
-[lang](lang.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | language the text is in | `el`
 [normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations | `πρὸς`
 [punctuation](punctuation.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Punctations after the word | `.` `;`
 [text](text.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | `Λόγος` `Θεόν,`
@@ -82,6 +81,7 @@ Name | Feature type | Description | Examples
 [crule](crule.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause rule | `ClCl` `ClCl2`
 [discontinuous](discontinuous.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Discontinuous information | `1`
 [junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Junction information | `1`
+[lang](lang.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | language the text is in | `el`
 [rela](rela.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Appostion information | `Appo` 
 [role](role.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Role of word or wordgroup | `s` `o` `apposition`
 [type](type.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Syntactical type of wordgroup | `conjuncted-wg` `apposition-group`
