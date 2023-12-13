@@ -2,19 +2,13 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`w`](featuresbynodetype.md#word-nodes)
+[`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  |  [`wg`](featuresbynodetype.md#wordgroup-nodes) [`clause`](featuresbynodetype.md#clause-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes)
 
 ## Feature description 
-Node ID in the format like `n56001015007`.
+Node ID in the format like `400010200010490`.
 
 ```
-The letter 'n' followe by a 11-digit unique id in the format
-
-    BBCCCVVVWWW
-    BB          => zero-padded book, NT starts at 40
-      CCC       => zero-padded chapter
-         VVV    => zero-padded verse
-            WWW => zero-padded word index (instance within the verse)
+NEED TO DECODE
 ```
 
 ## Source description
