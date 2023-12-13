@@ -13,7 +13,7 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 
 ## Grid features
 
-Name |  Feature type | Available on node | Description| Examples
+Name |  Feature type | Available on nodes | Description| Examples
 ---|---| ---|--- | ---
 [oslots](oslots.md#readme) | [`Config`](featuresbyfeaturetype.md#config-features) |   | slot containment | `1` `1-11` `2010-2015,2020-2030`
 [otext](otext.md#readme) |  [`Config`](featuresbyfeaturetype.md#config-features) | | configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
@@ -21,7 +21,7 @@ Name |  Feature type | Available on node | Description| Examples
 
 ## Sectional features
 
-Name | Data type | Feature type | Available on node | Description | Examples
+Name | Data type | Feature type | Available on nodes | Description | Examples
 ---|---|---|---|---|---
 [book](book.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`group`](featuresbynodetype.md#group-nodes) [`wg`](featuresbynodetype.md#wg-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`verse`](featuresbynodetype.md#verse-nodes)  [`book`](featuresbynodetype.md#book-notes) | Full book name | `Matthew` `Mark` ... `Revelation`
 [book_short](book_short.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`group`](featuresbynodetype.md#group-nodes) [`wg`](featuresbynodetype.md#wg-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`verse`](featuresbynodetype.md#verse-nodes)  [`book`](featuresbynodetype.md#book-notes) | Short book name | `MAT` `MAR` ... `REV`
@@ -33,13 +33,13 @@ Name | Data type | Feature type | Available on node | Description | Examples
 
 ## Lexical features
 
-Name| Feature type | Available on node |Description | Examples
----|---|---|--- | ---
-[gloss](gloss.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | English gloss | 
-[lemma](lemma.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Lexical lemma (cf. BDAG) |
-[domain](domain.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Lexical domain according to SDBG | `092004`
-[ln](ln.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Louw-Nida lexical classification | `93.169a`
-[strongs](strongs.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Strongs number | `5547`
+Name | Feature type | Data type | Available on nodes | Description | Examples
+---|---|---|--- | ---| ---
+[gloss](gloss.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | English gloss | 
+[lemma](lemma.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Lexical lemma (cf. BDAG) |
+[domain](domain.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Lexical domain according to SDBG | `092004`
+[ln](ln.md#readme) | `string` | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Louw-Nida lexical classification | `93.169a`
+[strong](strong.md#readme) | `string` |  [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)| Strong's number | `5547`
 
 ## Orthograpic features
 
