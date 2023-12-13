@@ -2,11 +2,11 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String` | [`w`](featuresbynodetype.md#word-nodes) [`wg`](featuresbynodetype.md#wordgroup-nodes)
+[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String` | [`word`](featuresbynodetype.md#word-nodes) [`wg`](featuresbynodetype.md#wordgroup-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)
 
 ## Feature description
 
-For `w` (word) nodes: Part of Speech. For `wg` (wordgroup) nodes: phrase catagory.
+For `word` nodes: Part of Speech. For `wg` (wordgroup) nodes: phrase catagory.
 
 ## Feature values
 
@@ -46,7 +46,9 @@ See also the description in [MACULA Greek Treebank for the Nestle 1904 Greek New
 
 ## Source description
 
-Taken from XML attribute `class` of tag `w` (word). Note that XML attribute `class` of tag `wg` (wordgroup) is mapped to Text-Fabric feature [`class`](class.md).
+Taken from XML attribute `cls` of tag `w` (word).
+
+CHECK: Note that XML attribute `class` of tag `wg` (wordgroup) is mapped to Text-Fabric feature [`class`](class.md).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
