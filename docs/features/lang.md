@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | --- 
-[`Syntactic`](home.md#sytactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String` | [`book`](bookgroupnodefeatures.md#readme)
+[`Syntactic`](home.md#sytactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`book`](bookgroupnodefeatures.md#readme)
 
 ## Feature description 
 

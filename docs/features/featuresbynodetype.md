@@ -19,55 +19,55 @@ Below are all node features listed:
 
 Feature | Feature group | Data type | Description | Examples
 --- | --- | --- | --- | ---
-[after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `string` | spaces and punctuation after word | `. ` `; ` ` `
-[before](before.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `string` | text-critical characters before word | `[` `(` `—`
-[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `string` |  Book name (full) | `Matthew` `Mark` ... `Revelation`
-[book_short](book_short.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `string` |  Book name (abbreviated) | `MAT` `MAR` ... `REV`
-[case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | Gramatical case | `nominative` `genitive` `vocative`
+[after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | spaces and punctuation after word | `. ` `; ` ` `
+[before](before.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | text-critical characters before word | `[` `(` `—`
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (full) | `Matthew` `Mark` ... `Revelation`
+[book_short](book_short.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (abbreviated) | `MAT` `MAR` ... `REV`
+[case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical case | `nominative` `genitive` `vocative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `integer` | Chapter number inside book |
-[cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features)  | `string` | Word class: Part of Speech | `noun` `verb`
-[criticalsign](criticalsign.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `string` | text-critical signs | `(` `[` `)` `]`
-[degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | Degree of an comparative or superlative adjective |
-[discontinuous](discontinuous.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) |`string` | Discontinuous information
-[domain](domain.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `string` | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG |
-[gender](gender.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | Gramatical gender | `masculine` `feminine` `neuter`
-[gloss](gloss.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `string` | English gloss |
-[lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `string` | Lexeme (lemma) | 
-[ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `string` | Louw-Nida lexical classification | 
-[morph](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | Morphological tag (Sandborg-Petersen morphology) |
+[cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features)  | [`string`](featuresbydatatype.md#string-datatype) | Word class: Part of Speech | `noun` `verb`
+[criticalsign](criticalsign.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | text-critical signs | `(` `[` `)` `]`
+[degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Degree of an comparative or superlative adjective |
+[discontinuous](discontinuous.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) |[`string`](featuresbydatatype.md#string-datatype) | Discontinuous information
+[domain](domain.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`string`](featuresbydatatype.md#string-datatype) | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG |
+[gender](gender.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical gender | `masculine` `feminine` `neuter`
+[gloss](gloss.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`string`](featuresbydatatype.md#string-datatype) | English gloss |
+[lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`string`](featuresbydatatype.md#string-datatype) | Lexeme (lemma) | 
+[ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`string`](featuresbydatatype.md#string-datatype) | Louw-Nida lexical classification | 
+[morph](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Morphological tag (Sandborg-Petersen morphology) |
 [monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `integer` | {possibly to be added: monad} | 
-[mood](mood.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | Gramatical mood of a verb | `indicative` `optative`
-[nodeId](nodeId.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `string` | Node Id | 
-[normalized](normalized.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `string` | Surface word stripped of punctations
+[mood](mood.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical mood of a verb | `indicative` `optative`
+[nodeId](nodeId.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) | Node Id | 
+[normalized](normalized.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Surface word stripped of punctations
 [num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `integer` | Sequence number (here: word in verse)
-[number](number.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | Gramatical number of the verb
+[number](number.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical number of the verb
 [parent](parent.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `link` | Link to parent node
-[person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | Gramatical person of the verb (first, second, third)
-[punctuation](punctuation.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `string` | Punctuation | ` ` `.`
+[person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical person of the verb (first, second, third)
+[punctuation](punctuation.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Punctuation | ` ` `.`
 [strong](strong.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `integer` | Strong's number
-[unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `string` | Unicode text |
-[subjrefspec](subjrefspec.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `string` | Subject reference (to nodeID in XML source data) |
-[tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | Gramatical tense of the verb | `present` `aorist`
-[text](text.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `string` | Word as it appears in the text |
-[type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | Gramatical type of noun or pronoun | `common` `personal`
-[unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `string` | Word in unicode format | `Λόγος` `Θεόν,`
+[unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Unicode text |
+[subjrefspec](subjrefspec.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | Subject reference (to nodeID in XML source data) |
+[tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical tense of the verb | `present` `aorist`
+[text](text.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Word as it appears in the text |
+[type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical type of noun or pronoun | `common` `personal`
+[unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Word in unicode format | `Λόγος` `Θεόν,`
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `integer` | Verse number inside chapter |
-[voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | Gramatical voice of the verb |
+[voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical voice of the verb |
 
 ## Wordgroup nodes 
 
 Feature | Feature group |  Data type | Description | Examples
 --- | --- | --- | --- | ---
-[appositioncontainer](appositioncontainer.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `string` |  appositioncontainer |
+[appositioncontainer](appositioncontainer.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) |  appositioncontainer |
 [articular](articular.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `integer` | Indicates if wordgroup contains an article | `1`
-[clauseType](clauseType.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `string` | Clause type information | `normalized`)
-[cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `string` | WordGroup class | `np` `cl`
-[type](type.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `string` |Clause type | `Verbless` `VerbElided`
+[clauseType](clauseType.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Clause type information | `normalized`)
+[cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | WordGroup class | `np` `cl`
+[type](type.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) |Clause type | `Verbless` `VerbElided`
 [parent](parent.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `link` | Link to parent node |
-[rela](rela.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `string` | Appostion information | `Appo` 
-[rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `string` | Syntactic rule | `ClCl` `ClCl2`
-[role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `string` | Role wordgroup | `s` `o` `apposition`
-[type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | Gramatical type of noun or pronoun | `common` `personal`
+[rela](rela.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Appostion information | `Appo` 
+[rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Syntactic rule | `ClCl` `ClCl2`
+[role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Role wordgroup | `s` `o` `apposition`
+[type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical type of noun or pronoun | `common` `personal`
 
 ## Group nodes
 
@@ -78,18 +78,18 @@ Feature | Feature group |  Data type | Description | Examples
 ## Clause nodes
 Feature | Feature group | Data type | Short description | Examples
 --- | --- | --- | --- | ---
-[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `string` |  Book name (abbriviated) | 
-[cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `string` |  Class of the clause  | `np` `cl`
-[junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `string` | Junction |
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (abbriviated) | 
+[cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) |  Class of the clause  | `np` `cl`
+[junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Junction |
 [num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `integer` | Clause number inside book |
-[rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `string` | Syntactic rule | `ClCl` `ClCl2`
+[rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Syntactic rule | `ClCl` `ClCl2`
 
 ## Group nodes
 Feature | Feature group | Data type | Short description | Examples
 --- | --- | --- | --- | ---
-[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `string` |  Book name (abbriviated) | 
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (abbriviated) | 
 [num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `integer` | Clause number inside book |
-[type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | Gramatical type of group | `conjuncted`
+[type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical type of group | `conjuncted`
 
 ## Phrase nodes
 Feature | Feature group | Data type | Short description | Examples
@@ -104,10 +104,10 @@ Feature | Feature group | Data type | Short description | Examples
 ## Sentence nodes 
 Feature | Feature group | Data type | Short description | Examples
 --- | --- | --- | --- | ---
-[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `string` |  Book name (abbriviated)
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (abbriviated)
 [num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `integer` | Sentence number inside book
 [parent](parent.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `link` | Link to parent node
-[rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `string` | Sentence rule
+[rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Sentence rule
 
 ## Verse nodes 
 Feature | Feature group | Data type | Short description | Examples
@@ -119,17 +119,17 @@ Feature | Feature group | Data type | Short description | Examples
 
 Feature | Feature group | Data type | Description
 --- | --- | --- | --- 
-[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `string` |  Book name (abbriviated)
-[chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `string` | Chapter
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (abbriviated)
+[chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) | Chapter
 [num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `integer` | Chapter number inside book
 
 ## Book nodes 
 
 Feature | Feature group | Data type | Description | Examples
 --- | --- | --- | --- | ---
-[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `string` | Book name (full) | `Luke` `Matthew`
-[book_short](book_short.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `string` | Book name (abbreviated) | `LUK` `ACT`
-[lang](lang.md#readme) |  [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `string` | Language of the corpus | `el`
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) | Book name (full) | `Luke` `Matthew`
+[book_short](book_short.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) | Book name (abbreviated) | `LUK` `ACT`
+[lang](lang.md#readme) |  [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Language of the corpus | `el`
 [num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `integer` | Sequence number (here: book number) | `1` `2`
 
 
