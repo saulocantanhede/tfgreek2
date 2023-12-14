@@ -12,11 +12,17 @@ This feature includes either a regular space character or a punctuation mark fol
 
 Value | Description | Unicode codepoint | Frequency
 ---  |  --- | --- | ---
-` ` | Space | [`&#32`](https://www.codetable.net/decimal/32)  |  238528
-`, ` | Comma |  [`&#44`](https://www.codetable.net/decimal/44)   | 18924
-`. ` | Full Stop | [`&#46`](https://www.codetable.net/decimal/46) | 11434
-`· ` | Midle Dot | [`&#183`](https://www.codetable.net/decimal/183) | 4718
-`; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) | 1942
+` ` | Space | [`&#32`](https://www.codetable.net/decimal/32)  |  238522
+`, ` | Comma |  [`&#44`](https://www.codetable.net/decimal/44)   | 18878
+`. ` | Full Stop | [`&#46`](https://www.codetable.net/decimal/46) | 11408
+`· ` | Midle Dot | [`&#183`](https://www.codetable.net/decimal/183) | 4710
+`; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) | 1938
+`,— ` |  | 36
+`— ` |  | 14
+`). ` | | 12
+`.]] ` | | 8
+`·— ` | | 8
+etc.. | | another 11
 
 ## Notes
 
