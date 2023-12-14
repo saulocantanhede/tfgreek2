@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-This feature includes either a regular space character or a punctuation mark followed by a regular space character, occurring after a word.
+This feature includes all material found after a word: regular space character,  punctuation marks followed by a regular space character, and text-critical markers. 
 
 ## Feature values 
 
