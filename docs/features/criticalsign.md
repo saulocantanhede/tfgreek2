@@ -20,6 +20,17 @@ Value | Description | Unicode codepoint | Frequency
 `[` |	Left Square Bracket | [`&#91`](https://www.codetable.net/decimal/91) | 2
 `]` |	Right Square Bracket | [`&#93`](https://www.codetable.net/decimal/93) | 2
 
+## Notes
+
+See also the following related features:
+   * [after](after.md#start): spaces and punctuation after word
+   * [before](before.md#start): critical signs before word
+   * [punctuation](punctuation.md#start): punctuations
+
+The following image shows the relation between these features.
+
+<img src="images/details_surface_features.png" width="400" >
+
 ## Source description
 
 Taken from XML of tag `w` (word).
