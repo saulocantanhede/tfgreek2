@@ -18,6 +18,16 @@ Value | Description | Unicode codepoint | Frequency
 `· ` | Midle Dot | [`&#183`](https://www.codetable.net/decimal/183) | 4718
 `; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) | 1942
 
+## Notes
+
+See also the following related features:
+   * [after](after.md#start): spaces and punctuation after word
+   * [before](before.md#start): critical signs before word
+   * [criticalsign](criticalsign.md#start): text-critical signs
+
+The following image shows the relation between these features.
+
+<img src="images/details_surface_features.png" width="400" >
 
 ## Source description
 
