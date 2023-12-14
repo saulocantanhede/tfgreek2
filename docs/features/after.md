@@ -27,7 +27,7 @@ See also the following related features:
    * [punctuation](punctuation.md#start): punctuations
 
 The following image shows the relation between these features.
-<img src="image/details_surface_features.png">
+<img src="images/details_surface_features.png">
 
 ## Source description
 
