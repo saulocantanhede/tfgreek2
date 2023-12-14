@@ -18,7 +18,7 @@ Name | Feature group | Data type | Description | Examples
 [book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) | Full book name | `Matthew` `Mark` ... `Revelation`
 [book_short](book_short.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) |[`string`](featuresbydatatype.md#string-datatype) | Short book name | `MAT` `MAR` ... `REV`
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical case | `nominative` `genitive` `dative`
-[chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) |`Integer` | Chapter number inside book | `1` `2` ...
+[chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) |[`integer`](featuresbydatatype.md#integer-datatype) | Chapter number inside book | `1` `2` ...
 [clauseType](clauseType.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Clause type information | `normalized`
 [cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) |Word and WordGroup class (Part of Speech) | `noun` `verb` / `np` `cl`
 [cltype](cltype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) |[`string`](featuresbydatatype.md#string-datatype) | Clause type | `Verbless` `VerbElided`
@@ -36,13 +36,13 @@ Name | Feature group | Data type | Description | Examples
 [lang](lang.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`string`](featuresbydatatype.md#string-datatype) | Language (ISO code) | `el`
 [lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`string`](featuresbydatatype.md#string-datatype) | Lexical lemma (cf. BDAG) |
 [ln](ln.md#readme) |  [`Lexical`](featuresbygroup.md#lexical-features) | [`string`](featuresbydatatype.md#string-datatype) | Louw-Nida lexical classification | `93.169a`
-[monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features)| `Integer` | Monad | *to be added?*
+[monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features)| [`integer`](featuresbydatatype.md#integer-datatype) | Monad | *to be added?*
 [mood](mood.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical mood of a verb | `indicative` `optative `
 [morhp](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Morphological tag | `V-AAI-3S` `N-GSF`
 [nodeId](nodeId.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) | Node Id | `n56001015007`
 [normalized](normalized.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Surface word stripped of punctations |
 [note](note.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`string`](featuresbydatatype.md#string-datatype) | Linguistic annotation |
-[num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sequence number  | `1` `2` ...   
+[num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Sequence number  | `1` `2` ...   
 [number](number.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical number| `singular` `plural`
 [otype](otype.md) | [`Grid`](featuresbygroup.md#grid-features) | [`string`](featuresbydatatype.md#string-datatype) | node type data | 
 [person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical person | `first` `second` `third`
@@ -55,7 +55,7 @@ Name | Feature group | Data type | Description | Examples
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical tense of the verb | `present` `aorist`
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical type of noun or pronoun | `common` `personal`
 [unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Unicode presentation of the surface text |  `Λόγος` `καὶ`
-[verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Verse number inside chapter | `1` `2`
+[verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Verse number inside chapter | `1` `2`
 [voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical voice of the verb | `active` `passive`
 
 
