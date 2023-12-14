@@ -13,16 +13,16 @@ This feature includes all material found after a word: regular space character, 
 Value | Description | Unicode codepoint | Frequency
 ---  |  --- | --- | ---
 ` ` | Space | [`&#32`](https://www.codetable.net/decimal/32)  |  238522
-`, ` | Comma |  [`&#44`](https://www.codetable.net/decimal/44)   | 18878
-`. ` | Full Stop | [`&#46`](https://www.codetable.net/decimal/46) | 11408
-`· ` | Midle Dot | [`&#183`](https://www.codetable.net/decimal/183) | 4710
-`; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) | 1938
-`,— ` |  | 36
-`— ` |  | 14
-`). ` | | 12
-`.]] ` | | 8
-`·— ` | | 8
-etc.. | | another 11
+`, ` | Comma | [`&#44`](https://www.codetable.net/decimal/44) & [`&#32`](https://www.codetable.net/decimal/32)   | 18878
+`. ` | Full Stop | [`&#46`](https://www.codetable.net/decimal/46) & [`&#32`](https://www.codetable.net/decimal/32)| 11408
+`· ` | Midle Dot | [`&#183`](https://www.codetable.net/decimal/183) & [`&#32`](https://www.codetable.net/decimal/32) | 4710
+`; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) & [`&#32`](https://www.codetable.net/decimal/32) | 1938
+`,— ` | Comma, Em Dash & Space | [`&#44`](https://www.codetable.net/decimal/44) & [`&#8212`](https://www.codetable.net/decimal/8212)  & [`&#32`](https://www.codetable.net/decimal/32) |  36
+`— ` | Em Dash & Space | [`&#8212`](https://www.codetable.net/decimal/8212) + [`&#32`](https://www.codetable.net/decimal/32) | 14
+`). ` | | | 12
+`.]] ` | | | 8
+`·— ` | | | 8
+etc.. | various | various | another 11
 
 ## Notes
 
