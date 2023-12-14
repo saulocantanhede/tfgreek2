@@ -19,6 +19,16 @@ Value | Description | Unicode codepoint | Frequency
 `; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) | 969
 `— ` | Em Dash | [`&#8212`](https://www.codetable.net/decimal/8212) | 30
 
+## Notes
+
+See also the following related features:
+   * [before](before.md#start): critical signs before word
+   * [criticalsign](criticalsign.md#start): text-critical signs
+   * [punctuation](punctuation.md#start): punctuations
+
+The following image shows the relation between these features.
+<img src="image/details_surface_features.png">
+
 ## Source description
 
 Taken from XML attribute `after` of tag `w` (word).
