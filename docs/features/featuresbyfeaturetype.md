@@ -1,4 +1,4 @@
-# Text-Fabric features Nestle 1904 (sorted by feature type)
+# Features sorted by feature type
 ###### *(or browse by [node type](featuresbynodetype.md#readme) or [feature group](featuresbygroup.md#readme))*
 
 The features of this Text-Fabric dataset:
