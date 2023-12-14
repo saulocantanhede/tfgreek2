@@ -10,19 +10,21 @@ This feature includes all material found after a word: regular space character, 
 
 ## Feature values 
 
-Value | Description | Unicode codepoint | Frequency
+Value | Description | Unicode codepoint | Frequency<sup>1</sup>
 ---  |  --- | --- | ---
-` ` | Space | [`&#32`](https://www.codetable.net/decimal/32)  |  238522
-`, ` | Comma | [`&#44`](https://www.codetable.net/decimal/44) & [`&#32`](https://www.codetable.net/decimal/32)   | 18878
-`. ` | Full Stop | [`&#46`](https://www.codetable.net/decimal/46) & [`&#32`](https://www.codetable.net/decimal/32)| 11408
-`· ` | Midle Dot | [`&#183`](https://www.codetable.net/decimal/183) & [`&#32`](https://www.codetable.net/decimal/32) | 4710
-`; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) & [`&#32`](https://www.codetable.net/decimal/32) | 1938
-`,— ` | Comma, Em Dash & Space | [`&#44`](https://www.codetable.net/decimal/44) & [`&#8212`](https://www.codetable.net/decimal/8212)  & [`&#32`](https://www.codetable.net/decimal/32) |  36
-`— ` | Em Dash & Space | [`&#8212`](https://www.codetable.net/decimal/8212) + [`&#32`](https://www.codetable.net/decimal/32) | 14
-`). ` | | | 12
-`.]] ` | | | 8
-`·— ` | | | 8
+` ` | Space | [`&#32`](https://www.codetable.net/decimal/32)  |  119261
+`, ` | Comma | [`&#44`](https://www.codetable.net/decimal/44) & [`&#32`](https://www.codetable.net/decimal/32)   | 9439
+`. ` | Full Stop | [`&#46`](https://www.codetable.net/decimal/46) & [`&#32`](https://www.codetable.net/decimal/32)| 5704
+`· ` | Midle Dot | [`&#183`](https://www.codetable.net/decimal/183) & [`&#32`](https://www.codetable.net/decimal/32) | 2355
+`; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) & [`&#32`](https://www.codetable.net/decimal/32) | 969
+`,— ` | Comma, Em Dash & Space | [`&#44`](https://www.codetable.net/decimal/44) & [`&#8212`](https://www.codetable.net/decimal/8212)  & [`&#32`](https://www.codetable.net/decimal/32) | 18
+`— ` | Em Dash & Space | [`&#8212`](https://www.codetable.net/decimal/8212) + [`&#32`](https://www.codetable.net/decimal/32) | 7
+`). ` | | | 6
+`.]] ` | | | 4
+`·— ` | | | 4
 etc.. | various | various | another 11
+
+<sup>1</sup> Frequency figures are listed for word nodes only. 
 
 ## Notes
 
