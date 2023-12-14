@@ -10,15 +10,17 @@ This feature provides the text-critical marks pressent before or after a word.
 
 ## Feature values 
 
-Value | Description | Unicode codepoint | Frequency
+Value | Description | Unicode codepoint | Frequency<sup>1</sup>
 --- |  --- | --- | ---
-`—` | Em Dash | [`&#8212`](https://www.codetable.net/decimal/8212) | 50
-`(` |	Left Parenthesis | [`&#40`](https://www.codetable.net/decimal/40)| 22
-`)` |	Right Parenthesis | [`&#41`](https://www.codetable.net/decimal/41)| 22
-`[[` | Left Square Bracket (2x) | [`&#91`](https://www.codetable.net/decimal/91) (2x) | 14
-`]]` | Right Square Bracket (2x) | [`&#93`](https://www.codetable.net/decimal/91) (2x) | 14
-`[` |	Left Square Bracket | [`&#91`](https://www.codetable.net/decimal/91) | 2
-`]` |	Right Square Bracket | [`&#93`](https://www.codetable.net/decimal/93) | 2
+`—` | Em Dash | [`&#8212`](https://www.codetable.net/decimal/8212) | 25
+`(` |	Left parenthesis | [`&#40`](https://www.codetable.net/decimal/40)| 11
+`)` |	Right parenthesis | [`&#41`](https://www.codetable.net/decimal/41)| 11
+`[[` | Left square bracket (2x) | [`&#91`](https://www.codetable.net/decimal/91) (2x) | 7
+`]]` | Right square bracket (2x) | [`&#93`](https://www.codetable.net/decimal/91) (2x) | 7
+`[` |	Left square bracket | [`&#91`](https://www.codetable.net/decimal/91) | 1
+`]` |	Right square bracket | [`&#93`](https://www.codetable.net/decimal/93) | 1
+
+<sup>1</sup> Frequency figures are listed for word nodes only. 
 
 ## Notes
 
