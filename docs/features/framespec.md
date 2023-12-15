@@ -1,5 +1,5 @@
 
-# Feature: framespec
+# Feature: framespec <a name="start"></a>
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
@@ -8,11 +8,11 @@ Feature group | Feature type | Data type | Available for node types
 ## Feature description
 
 this is XML attribute frame of word. 
-Subject reference (to [nodeID](nodeID.md#readme)?
+Subject reference (to [nodeID](nodeID.md#start)?
 
 ## Note
 
-See also related edge feature [frame](frame.md#readme).
+See also related edge feature [frame](frame.md#start).
 
 ## Source description
 
