@@ -76,29 +76,29 @@ Name |  Data type | Feature type | Available on nodes | Description | Examples
 
 ## Syntactic features
 
-Name | Feature type | Description | Examples
---- | --- | --- | ---
-[appostioncontainer](appositioncontainer.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | Appostioncontainer information | `1` 
-[articular](articular.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | Articular information | `1`
-[clauseType](clauseType.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type information | `normalized`
-[cls](cls.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | Word and WordGroup class (Part of Speech) | `noun` `verb` / `np` `cl`
-[cltype](cltype.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type | `Verbless` `VerbElided`
-[crule](crule.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause rule | `ClCl` `ClCl2`
-[discontinuous](discontinuous.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | Discontinuous information | `1`
-[junction](junction.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | Junction information | `coordinate` `subordinate`
-[lang](lang.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | language the text is in | `el`
-[rela](rela.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | Appostion information | `Appo` 
-[role](role.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | Role of word or wordgroup | `s` `o` `apposition`
-[type](type.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | Syntactical type of wordgroup | `conjuncted-wg` `apposition-group`
+Name | Data type | Feature type | Description | Examples
+--- | --- | --- | --- | ---
+[appostioncontainer](appositioncontainer.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | Appostioncontainer information | `1` 
+[articular](articular.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | Articular information | `1`
+[clauseType](clauseType.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type information | `normalized`
+[cls](cls.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | Word and WordGroup class (Part of Speech) | `noun` `verb` / `np` `cl`
+[cltype](cltype.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type | `Verbless` `VerbElided`
+[crule](crule.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause rule | `ClCl` `ClCl2`
+[discontinuous](discontinuous.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | Discontinuous information | `1`
+[junction](junction.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | Junction information | `coordinate` `subordinate`
+[lang](lang.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | language the text is in | `el`
+[rela](rela.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | Appostion information | `Appo` 
+[role](role.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | Role of word or wordgroup | `s` `o` `apposition`
+[type](type.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | Syntactical type of wordgroup | `conjuncted-wg` `apposition-group`
 
 ## Relational features
 
-Name | Feature type | Available on nodes |Description | Example
---- | --- | --- | --- | ---
-[frame](frame.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes) | Frame |
-[framespec](framespec.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes) | Framespec |
-[note](note.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Notes |
-[parent](parent.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  | Parent | 
-[referent](referent.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes) | Referent | `n40001011005`
-[subjrefspec](subjrefspec.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes)  | Subject reference | `n46003022002`
-[sibling](sibling.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes) | Sibling | 
+Name | Data type | Feature type | Available on nodes |Description | Example
+--- | --- | --- | --- | --- | ---
+[frame](frame.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes) | Frame |
+[framespec](framespec.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes) | Framespec |
+[note](note.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Notes |
+[parent](parent.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  | Parent | 
+[referent](referent.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes) | Referent | `n40001011005`
+[subjrefspec](subjrefspec.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes)  | Subject reference | `n46003022002`
+[sibling](sibling.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes) | Sibling | 
