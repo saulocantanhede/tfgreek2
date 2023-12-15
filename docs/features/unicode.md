@@ -19,7 +19,7 @@ See also the following related features:
 
 The following image shows the relation between these features.
 
-<img src="images/details_surface_features.png" width="400" >
+<img src="images/details_surface_features.png" width="400">
 
 
 ## Source description
@@ -27,4 +27,4 @@ The following image shows the relation between these features.
 Taken from XML attribute `unicode` of tag `w` (word).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
