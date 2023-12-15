@@ -1,4 +1,4 @@
-# Feature: unicode
+# Feature: unicode <a name="start"></a>
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
@@ -6,7 +6,21 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Surface greek form of the word in unicode, contains material after it.
+Surface greek form of the word in unicode, contains all the material before and after it.
+
+## Notes
+
+See also the following related features:
+   * [after](after.md#start): All material found after a word.
+   * [before](before.md#start): All material found before a word.
+   * [criticalsign](criticalsign.md#start): Text-critical signs.
+   * [punctuation](punctuation.md#start): Punctuations found after a word.
+   * [text](text.md#start): Word without punctuations and text-critical signs.
+
+The following image shows the relation between these features.
+
+<img src="images/details_surface_features.png" width="400" >
+
 
 ## Source description
 
