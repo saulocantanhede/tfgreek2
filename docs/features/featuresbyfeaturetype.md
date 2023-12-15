@@ -3,9 +3,9 @@
 
 The features of this Text-Fabric dataset:
 
-* [Node features](#node-features):
-* [Edge features](#edge-features):
-* [Config features](#config-features):
+* [Node features](#node-features): the fundamental units or entities in the data model.
+* [Edge features](#edge-features): relationships or links, establishing connections between nodes in the data model.
+* [Config features](#config-features): contains the configuration or settings that define the behavior and parameters of the data processing or analysis.
 
 ## Node features
 
