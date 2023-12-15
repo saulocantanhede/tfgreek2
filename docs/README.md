@@ -3,11 +3,11 @@
 In Text-Fabric, a "feature" refers to attributes associated with nodes, which represent linguistic elements in the text, including words, word groups, sentences, and verses. These features contain additional information specific to these nodes, facilitating diverse linguistic analyses and data extraction.
 
 The full featureset of this Text-Fabric dataset can be viewed by different grouping methods:
-* [Grouped by feature type](features/featuresbyfeaturetype.md#readme)
+* [Grouped by feature type](features/featuresbyfeaturetype.md#start)
      * [`Node`](features/featuresbyfeaturetype.md#node-features): the fundamental units or entities in the data model.
      * [`Edge`](features/featuresbyfeaturetype.md#edge-features): relationships or links, establishing connections between nodes in the data model.
      * [`Config`](features/featuresbyfeaturetype.md#config-features): contains the configuration or settings that define the behavior and parameters of the data processing or analysis.
-* [Grouped by feature group](features/featuresbygroup.md#readme):
+* [Grouped by feature group](features/featuresbygroup.md#start):
      * [`Grid`](features/featuresbygroup.md#grid-features): pertains to the arrangement and organization of the data.
      * [`Sectional`](features/featuresbygroup.md#sectional-features): encompasses attributes or elements related to divisions within the text.
      * [`Lexical`](features/featuresbygroup.md#lexical-features): focuses on aspects related to individual words, their meanings, and lexical properties.
@@ -15,7 +15,7 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      * [`Morphological`](features/featuresbygroup.md#morphological-features):  involves attributes that describe the internal structure and form of words.
      * [`Syntactic`](features/featuresbygroup.md#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases. 
      * [`Relational`](features/featuresbygroup.md#relational-features):  encompasses attributes that describe various relationships or connections between elements in the text.
-* [Grouped by node type](features/featuresbynodetype.md#readme):
+* [Grouped by node type](features/featuresbynodetype.md#start):
      * [`word`](features/featuresbynodetype.md#word-nodes): represents individual words in the text.
      * [`wg`](features/featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit.
      * [`clause`](features/featuresbynodetype.md#clause-nodes): represents a clausal unit in the text.
