@@ -10,7 +10,7 @@ Syntactic role of word or wordgroup.
 
 ## Feature values
 
-For `w` (word) or `wg` (wordgroup) nodes:
+For `word` or `wg` (wordgroup) nodes:
 
 Value | Description | Frequency
 --- | --- | ---
