@@ -1,4 +1,4 @@
-# Feature: voice  <a name="start"></a>
+# Feature: voice <a name="start"></a>
 
 Feature group |Feature type | Data type | Available for node types
 ---  | --- | --- | ---
@@ -27,4 +27,4 @@ The BOL dataset contians additional details.
 Taken from XML attribute `voice` of tag `w` (word).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
