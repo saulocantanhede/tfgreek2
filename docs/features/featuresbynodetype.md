@@ -98,7 +98,7 @@ Feature | Feature group | Data type | Short description | Examples
 [junction](junction.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Junction |  `coordinate` `subordinate`
 [num](num.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Phrase number inside book
 
-## Subhrase nodes
+## Subphrase nodes
 Feature | Feature group | Data type | Short description | Examples
 --- | --- | --- | --- | ---
 [num](num.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Subphrase number inside book
