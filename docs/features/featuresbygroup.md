@@ -1,7 +1,7 @@
 # Features sorted by feature group <a name="start"></a>
 ###### *(or browse by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), or [feature type](featuresbyfeaturetype.md#start))*
 
-This is the key to the meaning of the features in this TextFabric dataset. The available features can be taken together in the following groups: 
+This is the key to the meaning of the features in this TextFabric dataset. The available features can be grouped together as following: 
 
 * [Grid features](#grid-features): pertains to the arrangement and organization of the data.
 * [Sectional features](#sectional-features): encompasses attributes or elements related to divisions within the text.
