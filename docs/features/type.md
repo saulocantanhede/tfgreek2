@@ -9,7 +9,7 @@ TO DO: distribute following nodes: 	sentence group wg clause word subphrase phra
 
 ## Feature description
 
-For `w` (word) nodes: Gramatical type of noun or pronoun. For `wg`(wordgroup) nodes: syntactical type.
+For `word` (word) nodes: Gramatical type of noun or pronoun. For `wg`(wordgroup) nodes: syntactical type.
 
 ## Feature values
 
