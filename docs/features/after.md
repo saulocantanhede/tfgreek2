@@ -31,6 +31,7 @@ See also the following related features:
    * [before](before.md#start): critical signs before word
    * [criticalsign](criticalsign.md#start): text-critical signs
    * [punctuation](punctuation.md#start): punctuations
+   * [text](text.md#start): The word as it appears in the text.
 
 The following image shows the relation between these features.
 
