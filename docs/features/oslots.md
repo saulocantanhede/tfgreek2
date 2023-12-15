@@ -1,8 +1,8 @@
-# Feature: oslots
+# Feature: oslots <a name="start"></a>
 
 Feature group | Feature type |  Data type | Available for node types
 ---  | --- | --- | ---
-[`Grid`](featuresbygroup.md#grid-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`string`](featuresbydatatype.md#string-datatype)  | All node types
+[`Grid`](featuresbygroup.md#grid-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`string`](featuresbydatatype.md#string-datatype)  | -
 
 
 ## Feature description 
