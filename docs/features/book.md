@@ -49,4 +49,5 @@ Feature [num](num.md#readme) for nodetype 'book' contains the sequence number of
 Based upon XML attribute `id` of tag `book`.
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
+
