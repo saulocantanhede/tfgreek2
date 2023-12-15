@@ -3,14 +3,14 @@
 
 This is the key to the meaning of the features in this TextFabric dataset. The available features can be taken together in the following groups: 
 
-* [Grid features](#grid-features)
-* [Sectional features](#sectional-features)
-* [Lexical features](#lexical-features)
-* [Orthograpic features](#orthograpic-features)
-* [Textcritical_features](#textcritical-features)
-* [Morphological features](#morphological-features)
-* [Syntactic features](#syntactic-features)
-* [Relational features](#relational-features)
+* [Grid features](#grid-features): pertains to the arrangement and organization of the data.
+* [Sectional features](#sectional-features): encompasses attributes or elements related to divisions within the text.
+* [Lexical features](#lexical-features): focuses on aspects related to individual words, their meanings, and lexical properties.
+* [Orthograpic features](#orthograpic-features): deals with features related to the visual representation of the text.
+* [Textcritical_features](#textcritical-features): deals with features related to textual critical issue.
+* [Morphological features](#morphological-features): involves attributes that describe the internal structure and form of words.
+* [Syntactic features](#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases.
+* [Relational features](#relational-features): encompasses attributes that describe various relationships or connections between elements in the text.
 
 ## Grid features
 
