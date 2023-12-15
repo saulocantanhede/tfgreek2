@@ -8,6 +8,19 @@ Feature group | Feature type | Data type | Available for node types
 
 The word as it appears in the text.
 
+## Notes
+
+See also the following related features:
+   * [after](after.md#start): All material found after a word.
+   * [before](before.md#start): critical signs before word
+   * [criticalsign](criticalsign.md#start): text-critical signs
+   * [punctuation](punctuation.md#start): punctuations
+
+
+The following image shows the relation between these features.
+
+<img src="images/details_surface_features.png" width="400" >
+
 ## Source description
 
 Taken from the data of XML tag `w`.
