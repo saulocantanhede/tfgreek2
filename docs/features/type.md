@@ -11,7 +11,7 @@ For `w` (word) nodes: Gramatical type of noun or pronoun. For `wg`(wordgroup) no
 
 ## Feature values
 
-For `w` (word) nodes:
+For `word` nodes:
 
 Value | Description | Frequency
 ---- | ---- | ---
