@@ -1,4 +1,4 @@
-# Feature: text
+# Feature: text  <a name="start"></a>
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
@@ -15,7 +15,6 @@ See also the following related features:
    * [before](before.md#start): All material found before a word.
    * [criticalsign](criticalsign.md#start): Text-critical signs.
    * [punctuation](punctuation.md#start): Punctuations found after a word.
-   * [text](text.md#start): Word without punctuations and text-critical signs.
    * [unicode](unicode.md#start): Unicode presentation including all material before and after word.
 
 
