@@ -51,4 +51,4 @@ Taken from XML attribute `cls` of tag `w` (word).
 CHECK: Note that XML attribute `class` of tag `wg` (wordgroup) is mapped to Text-Fabric feature [`class`](class.md).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
