@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-This feature provides the text-critical marks pressent before a word.
+This feature provides all the material pressent before a word.
 
 ## Feature values 
 
@@ -20,9 +20,11 @@ Value | Description | Unicode codepoint | Frequency
 ## Notes
 
 See also the following related features:
-   * [after](after.md#start): spaces and punctuation after word
-   * [criticalsign](criticalsign.md#start): text-critical signs
-   * [punctuation](punctuation.md#start): punctuations
+   * [after](after.md#start): All material found after a word.
+   * [criticalsign](criticalsign.md#start): Text-critical signs.
+   * [punctuation](punctuation.md#start): Punctuations found after a word.
+   * [text](text.md#start): Word without punctuations and text-critical signs.
+   * [unicode](unicode.md#start): Unicode presentation including all material before and after word.
 
 The following image shows the relation between these features.
 
