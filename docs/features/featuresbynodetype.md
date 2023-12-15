@@ -17,8 +17,8 @@ Below are all node features listed:
 
 ## Word nodes 
 
-Feature | Feature group | Data type | Description | Examples
---- | --- | --- | --- | ---
+Feature | Feature group | Feature type | Data type | Short description | Examples
+--- | --- | --- | --- | --- | ---
 [after](after.md#start) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | All material found after a word | `. ` `; ` ` `
 [before](before.md#start) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Text-critical signs before word | `[` `(` `—`
 [book](book.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (full) | `Matthew` `Mark` ... `Revelation`
@@ -56,8 +56,8 @@ Feature | Feature group | Data type | Description | Examples
 
 ## Wordgroup nodes 
 
-Feature | Feature group |  Data type | Description | Examples
---- | --- | --- | --- | ---
+Feature | Feature group | Feature type | Data type | Short description | Examples
+--- | --- | --- | --- | --- | ---
 [appositioncontainer](appositioncontainer.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) |  appositioncontainer |
 [articular](articular.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Indicates if wordgroup contains an article | `1`
 [clauseType](clauseType.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Clause type information | `normalized`)
@@ -70,15 +70,10 @@ Feature | Feature group |  Data type | Description | Examples
 [role](role.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Role wordgroup | `s` `o` `apposition`
 [type](type.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical type of noun or pronoun | `common` `personal`
 
-## Group nodes
-
-Feature | Feature group |  Data type | Description | Examples
---- | --- | --- | --- | ---
-
-
 ## Clause nodes
-Feature | Feature group | Data type | Short description | Examples
---- | --- | --- | --- | ---
+
+Feature | Feature group | Feature type | Data type | Short description | Examples
+--- | --- | --- | --- | --- | ---
 [book](book.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (abbriviated) | 
 [cls](cls.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) |  Class of the clause  | `np` `cl`
 [junction](junction.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Junction |  `coordinate` `subordinate`
@@ -86,49 +81,54 @@ Feature | Feature group | Data type | Short description | Examples
 [rule](rule.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Syntactic rule | `ClCl` `ClCl2`
 
 ## Group nodes
-Feature | Feature group | Data type | Short description | Examples
---- | --- | --- | --- | ---
+
+Feature | Feature group | Feature type | Data type | Short description | Examples
+--- | --- | --- | --- | --- | ---
 [book](book.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (abbriviated) | 
 [num](num.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Clause number inside book |
 [type](type.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical type of group | `conjuncted`
 
 ## Phrase nodes
-Feature | Feature group | Data type | Short description | Examples
---- | --- | --- | --- | ---
+
+Feature | Feature group | Feature type | Data type | Short description | Examples
+--- | --- | --- | --- | --- | ---
 [junction](junction.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Junction |  `coordinate` `subordinate`
 [num](num.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Phrase number inside book
 
 ## Subphrase nodes
-Feature | Feature group | Data type | Short description | Examples
---- | --- | --- | --- | ---
+
+Feature | Feature group | Feature type | Data type | Short description | Examples
+--- | --- | --- | --- | --- | ---
 [num](num.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Subphrase number inside book
 
 ## Sentence nodes 
-Feature | Feature group | Data type | Short description | Examples
---- | --- | --- | --- | ---
-[book](book.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (abbriviated)
-[num](num.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Sentence number inside book
-[parent](parent.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | `link` | Link to parent node
-[rule](rule.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Sentence rule
+
+Feature | Feature group | Feature type | Data type | Short description | Examples
+--- | --- | --- | --- | --- | ---
+[book](book.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (abbriviated)
+[num](num.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Sentence number inside book
+[parent](parent.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`Edge`](featuresbyfeaturetype.md#edge-features)  | `link` | Link to parent node
+[rule](rule.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | Sentence rule
 
 ## Verse nodes 
-Feature | Feature group | Data type | Short description | Examples
---- | --- | --- | --- | ---
+
+Feature | Feature group | Feature type | Data type | Short description | Examples
+--- | --- | --- | --- | --- | ---
 [verse](verse.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Verse number inside chapter
 [chapter](chapter.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Chapter number inside book
 
 ## Chapter nodes 
 
-Feature | Feature group | Data type | Description
---- | --- | --- | --- 
+Feature | Feature group | Feature type | Data type | Short description | Examples
+--- | --- | --- | --- | --- | ---
 [book](book.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (abbriviated)
 [chapter](chapter.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) | Chapter
 [num](num.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Chapter number inside book
 
 ## Book nodes 
 
-Feature | Feature group | Data type | Description | Examples
---- | --- | --- | --- | ---
+Feature | Feature group | Feature type | Data type | Short description | Examples
+--- | --- | --- | --- | --- | ---
 [book](book.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) | Book name (full) | `Luke` `Matthew`
 [book_short](book_short.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) | Book name (abbreviated) | `LUK` `ACT`
 [lang](lang.md#start) |  [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Language of the corpus | `el`
