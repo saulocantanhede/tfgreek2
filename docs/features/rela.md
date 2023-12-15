@@ -17,11 +17,11 @@ Value | Description | Frequency
 
 ## Note
 
-See also related feature [appositioncontainer](appositioncontainer.md#readme).
+See also related feature [appositioncontainer](appositioncontainer.md#start).
 
 ## Source description
 
 Taken from (optional) XML attribute `appositioncontainer` of tag `wg` (wordgroup).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
