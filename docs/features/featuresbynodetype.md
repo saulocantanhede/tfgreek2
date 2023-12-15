@@ -1,5 +1,5 @@
-# Features sorted per node type
-###### *(or browse by [feature type](featuresbyfeaturetype.md#start) or [feature group](featuresbygroup.md#start))*
+# Features sorted per node type <a name="start"></a>
+###### *(or browse by [feature type](featuresbyfeaturetype.md#start), [data type](featuresbydatatype.md#start), or [feature group](featuresbygroup.md#start))*
 
 This Text-Fabric dataset contains the following node types:
 * [27 `book` nodes](#book-nodes)
