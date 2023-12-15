@@ -28,10 +28,11 @@ etc.. | various | various | another 15
 ## Notes
 
 See also the following related features:
-   * [before](before.md#start): critical signs before word
-   * [criticalsign](criticalsign.md#start): text-critical signs
-   * [punctuation](punctuation.md#start): punctuations
-   * [text](text.md#start): The word as it appears in the text.
+   * [before](before.md#start): All material found before a word.
+   * [criticalsign](criticalsign.md#start): Text-critical signs.
+   * [punctuation](punctuation.md#start): Punctuations found after a word.
+   * [text](text.md#start): Word without punctuations and text-critical signs.
+   * [unicode](unicode.md#start): Unicode presentation including all material before and after word.
 
 The following image shows the relation between these features.
 
