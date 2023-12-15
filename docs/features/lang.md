@@ -1,4 +1,4 @@
-# Feature: lang
+# Feature: lang  <a name="start"></a>
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | --- 
@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-Language indicator (c.f. ISO 639.2).
+Language indicator (c.f. [ISO 639.2](https://www.loc.gov/standards/iso639-2/php/code_list.php)).
 
 ## Feature values 
 
