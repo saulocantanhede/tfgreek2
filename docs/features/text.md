@@ -12,8 +12,8 @@ The word as it appears in the text.
 
 See also the following related features:
    * [after](after.md#start): All material found after a word.
-   * [before](before.md#start): critical signs before word
-   * [criticalsign](criticalsign.md#start): text-critical signs
+   * [before](before.md#start): Text-critical signs before word.
+   * [criticalsign](criticalsign.md#start): Text-critical signs after word
    * [punctuation](punctuation.md#start): punctuations
 
 
