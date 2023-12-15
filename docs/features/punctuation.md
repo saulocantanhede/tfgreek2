@@ -27,9 +27,11 @@ etc.. | | another 11
 ## Notes
 
 See also the following related features:
-   * [after](after.md#start): spaces and punctuation after word
-   * [before](before.md#start): critical signs before word
-   * [criticalsign](criticalsign.md#start): text-critical signs
+   * [after](after.md#start): All material found after a word.
+   * [before](before.md#start): All material found before a word.
+   * [criticalsign](criticalsign.md#start): Text-critical signs.
+   * [text](text.md#start): Word without punctuations and text-critical signs.
+   * [unicode](unicode.md#start): Unicode presentation including all material before and after word.
 
 The following image shows the relation between these features.
 
