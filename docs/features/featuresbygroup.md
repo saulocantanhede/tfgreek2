@@ -61,7 +61,7 @@ Name |  Data type |Feature type | Available on nodes | Description | Examples
 
 ## Morphological features
 
-Name |  Data type | Feature type | Available on nodes |Description | Examples
+Name |  Data type | Feature type | Available on nodes | Description | Examples
 --- | --- | --- | --- | --- | ---
 [case](case.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Gramatical case | `nominative` `genitive` `dative`
 [degree](degree.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Degree of an comparative or superlative adjective | `superlative` `comparative`
@@ -93,12 +93,12 @@ Name | Feature type | Description | Examples
 
 ## Relational features
 
-Name | Feature type |Description | Example
---- | --- | --- | ---
-[frame](frame.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Frame |
-[framespec](framespec.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Framespec |
-[note](note.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | Notes |
-[parent](parent.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Parent | 
-[referent](referent.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Referent | `n40001011005`
-[subjrefspec](subjrefspec.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Subject reference | `n46003022002`
-[sibling](sibling.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Sibling | 
+Name | Feature type | Available on nodes |Description | Example
+--- | --- | --- | --- | ---
+[frame](frame.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes) | Frame |
+[framespec](framespec.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes) | Framespec |
+[note](note.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Notes |
+[parent](parent.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  | Parent | 
+[referent](referent.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes) | Referent | `n40001011005`
+[subjrefspec](subjrefspec.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes)  | Subject reference | `n46003022002`
+[sibling](sibling.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes) | Sibling | 
