@@ -1,4 +1,4 @@
-# Features sorted by feature type <a name="start"></a>
+# Features grouped by feature type <a name="start"></a>
 ###### *(or browse by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), or [feature group](featuresbygroup.md#start))*
 
 The features of this Text-Fabric dataset:
