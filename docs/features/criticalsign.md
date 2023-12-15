@@ -25,9 +25,12 @@ Value | Description | Unicode codepoint | Frequency<sup>1</sup>
 ## Notes
 
 See also the following related features:
-   * [after](after.md#start): spaces and punctuation after word
-   * [before](before.md#start): critical signs before word
-   * [punctuation](punctuation.md#start): punctuations
+   * [after](after.md#start): All material found after a word.
+   * [before](before.md#start): All material found before a word.
+   * [punctuation](punctuation.md#start): Punctuations found after a word.
+   * [text](text.md#start): Word without punctuations and text-critical signs.
+   * [unicode](unicode.md#start): Unicode presentation including all material before and after word.
+
 
 The following image shows the relation between these features.
 
