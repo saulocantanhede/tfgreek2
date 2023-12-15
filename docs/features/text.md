@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-The word as it appears in the text.
+The word as it apears in the text without punctuations and text-critical signs.
 
 ## Notes
 
