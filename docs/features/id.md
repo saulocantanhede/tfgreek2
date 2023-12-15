@@ -22,4 +22,4 @@ The letter 'n' followed by a 11-digit unique id in the format
 Taken from XML tag `xml:id` of `w` (word) node.
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
