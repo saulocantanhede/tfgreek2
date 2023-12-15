@@ -79,7 +79,7 @@ Name | Feature type | Description | Examples
 [cltype](cltype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type | `Verbless` `VerbElided`
 [crule](crule.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause rule | `ClCl` `ClCl2`
 [discontinuous](discontinuous.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Discontinuous information | `1`
-[junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Junction information | `1`
+[junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Junction information | `coordinate` `subordinate`
 [lang](lang.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | language the text is in | `el`
 [rela](rela.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Appostion information | `Appo` 
 [role](role.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Role of word or wordgroup | `s` `o` `apposition`
