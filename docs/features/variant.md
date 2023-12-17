@@ -11,7 +11,11 @@ The variant of the lemma. Associated with BOL lemma.
 
 ## Feature values
 
-either absent, 1 or 2.
+Value | Description | Frequency
+---|---|---
+1 | | 36
+2 | | 302
+
 
 ## Source description
 
