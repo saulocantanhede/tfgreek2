@@ -29,9 +29,9 @@ See also the following related features:
    * [id](id.md#start): id.
    * [subjrefspec](subjrefspec.md#start): subjrefspec.
  
-Please note that the value of referent is often crossing the boundaries of sentences and verses. The following image demonstrates how feature [referent](referent.md#start) links back to [id](id.md#start):
+Please note that the value of referent is often crossing the boundaries of sentences and verses. The following image demonstrates how feature [referent](referent.md#start) links back to [id](id.md#start). In this example the ὑμῖν and ἡμῶν in  Philippians 1:2 refers back to the ἁγίοις in verse 1:
 
-<img src="images/referent.png" width="550">
+<img src="images/referent.png" width="650">
 
 ## Source description
 
