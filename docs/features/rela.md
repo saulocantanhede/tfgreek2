@@ -17,7 +17,9 @@ Value | Description | Frequency
 
 ## Note
 
-See also related feature [appositioncontainer](appositioncontainer.md#start).
+The following image presents a nested apposition demonstrating this feature and the related feature [appositioncontainer](appositioncontainer.md#start).
+
+<img src="images/appositioncontainer.png" width="600">
 
 ## Source description
 
