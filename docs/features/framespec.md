@@ -12,7 +12,7 @@ Subject reference (to [id](id.md#start).
 
 ## Note
 
-See also related edge feature [frame](frame.md#start).
+See also related edge feature [frame](frame.md#start)).
 
 ## Source description
 
