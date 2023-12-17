@@ -64,9 +64,7 @@ Name | Feature group | Data type | Description | Examples
 Name | Feature group | Data type | Description | Example
 ---|---|---|---|---
 [frame](frame.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | Frame |
-[framespec](framespec.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | Framespec |
 [parent](parent.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | Parent | 
-[referent](referent.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | Referent | `n40001011005`
 [subj_ref](subj_ref.md#start) |  [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | Subject reference |
 [sibling](sibling.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | Sibling | 
 
