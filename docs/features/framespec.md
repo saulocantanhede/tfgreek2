@@ -11,6 +11,26 @@ Subject reference (to [id](id.md#start)). It's functional equivalent edge featur
 
 ## Feature values
 
+This feature contains one or more refernces to [`id`](id.md#start)'s,  like in following example:
+
+```
+A0:n63001005005;n63001001007 A1:n63001010014
+```
+In this:
+   * A0 = reference(s) to a subject.
+   * A1 = referemce(s) to an object.
+   * A2 = 
+
+The values  are according to following format:
+
+```
+An 'n' followed by a 11-digit unique id in the format
+    BBCCCVVVWWW
+    BB          => zero-padded book, NT starts at 40
+      CCC       => zero-padded chapter
+         VVV    => zero-padded verse
+            WWW => zero-padded word index (instance within the verse)
+```
 
 ## Notes
 
