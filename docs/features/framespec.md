@@ -18,10 +18,10 @@ A0:n63001005005;n63001001007 A1:n63001010014
 ```
 In this:
    * A0 = reference(s) to a subject.
-   * A1 = referemce(s) to an object.
-   * A2 = 
+   * A1 = reference(s) to an object.
+   * A2 = reference(s) to the indirect object
 
-The values  are according to following format:
+The values behind these identifires are in the following format:
 
 ```
 An 'n' followed by a 11-digit unique id in the format
@@ -33,6 +33,11 @@ An 'n' followed by a 11-digit unique id in the format
 ```
 
 ## Notes
+
+The following syntactical graphs from Matthew 1:2 and 1:20 serve as demonstration of this feature:
+
+<img src="images/framespecA0A1.png" width="550">
+<img src="images/framespecA0A2.png" width="550">
 
 See also the following related features:
    * [frame](frame.md#start): Edge feature that links nodes that are part of the frame; labelled as A0, A1 etc.
