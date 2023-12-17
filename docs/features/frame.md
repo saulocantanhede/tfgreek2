@@ -18,6 +18,14 @@ In this:
 
 ## Note
 
+The following image shows the query that will return the node ids of the verb and the its indirect object.
+
+<img src="images/indirectobjectquery.png" width="600">
+
+The following image shows the first returned clause (from Matthew 1:18):
+
+<img src="images/indirectobjecttree.png" width="600">
+
 See also related node feature [framespec](framespec.md#start).
 
 ## Source description
