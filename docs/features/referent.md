@@ -6,7 +6,11 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Number of referent according to following format:
+This feature stores information about the referent (person, item, etc) the current node is refering to.  
+
+## Feature values
+
+The [id](id.md#start) of the referent according to following format:
 
 ```
 An 'n' followed by a 11-digit unique id in the format
@@ -17,7 +21,21 @@ An 'n' followed by a 11-digit unique id in the format
             WWW => zero-padded word index (instance within the verse)
 ```
 
+## Notes
+
+See also the following related features:
+   * [framespec](framespec.md#start): framespec
+   * [frame](frame.md#start): Edge feature that links nodes that are part of the frame; labelled as A0, A1 etc.
+   * [id](id.md#start): id.
+   * [subjrefspec](subjrefspec.md#start): subjrefspec.
+ 
+Please note that the value of referent is often crossing the boundaries of sentences and verses. The following image demonstrates how feature [referent](referent.md#start) links back to [id](id.md#start):
+
+<img src="images/referent.png" width="550">
+
 ## Source description
+
+Taken from the optional XML tag `referent` of node `w`.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
