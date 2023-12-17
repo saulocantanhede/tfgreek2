@@ -17,7 +17,9 @@ Value | Description | Frequency
 
 ## Note
 
-See also related feature [rela](rela.md#readme).
+The following image presents a nested apposition demonstrating this feature and the related feature [rela](rela.md#readme).
+
+<img src="images/appositioncontainer.png" width="600">
 
 ## Source description
 
