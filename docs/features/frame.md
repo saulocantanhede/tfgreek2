@@ -30,7 +30,7 @@ See also related node feature [framespec](framespec.md#start).
 
 ## Source description
 
-Calculated based on (optional) XML attribute `frame` of tag `w` (word).
+Based on (optional) XML attribute `frame` of tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
