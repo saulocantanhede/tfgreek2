@@ -6,7 +6,15 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Edge feature that links nodes that are part of the frame; labelled as A0, A1 etc. 
+Edge feature that links nodes that are part of the frame; labelled as A0, A1 or A2. 
+
+## Feature values:
+
+In this:
+
+   * A0 = reference(s) to a subject.
+   * A1 = reference(s) to an object.
+   * A2 = reference(s) to the indirect object
 
 ## Note
 
