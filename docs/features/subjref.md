@@ -9,7 +9,8 @@ Subject reference to [nodeId](nodeId.md#start).
 
 ## Source description
 
-TBD.
+Based upon (optional) XML attribute `subjref` of tag `w` (word).
+
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
