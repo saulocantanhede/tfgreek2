@@ -19,7 +19,7 @@ Value | Description | Frequency
 
 The following image presents a nested apposition demonstrating this feature and the related feature [rela](rela.md#readme).
 
-<img src="images/appositioncontainer.png" width="500" >
+<img src="images/appositioncontainer.png" width="600">
 
 ## Source description
 
