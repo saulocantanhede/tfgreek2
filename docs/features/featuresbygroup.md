@@ -7,7 +7,7 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 * [Sectional features](#sectional-features): encompasses attributes or elements related to divisions within the text.
 * [Lexical features](#lexical-features): focuses on aspects related to individual words, their meanings, and lexical properties.
 * [Orthograpic features](#orthograpic-features): deals with features related to the visual representation of the text.
-* [Textcritical_features](#textcritical-features): deals with features related to textual critical issue.
+* [Textcritical features](#textcritical-features): deals with features related to textual critical issue.
 * [Morphological features](#morphological-features): involves attributes that describe the internal structure and form of words.
 * [Syntactic features](#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases.
 * [Relational features](#relational-features): encompasses attributes that describe various relationships or connections between elements in the text.
