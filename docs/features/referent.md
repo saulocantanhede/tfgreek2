@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-This feature stores information about the referent (person, item, etc) the current node is refering to. The value of referent is often crossing the boundaries of sentences and verses and is to a certain degree a discourse feature more than a syntactic.
+This feature stores information about the referent (mainly a pronoun) the current node is refering to. The value of referent is often crossing the boundaries of sentences and verses and is to a certain degree a discourse feature more than a syntactic.
 
 ## Feature values
 
