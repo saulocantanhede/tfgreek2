@@ -1,4 +1,4 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.2</a></p>
+<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
 
 <h1>Feature: normalized</h1>
 
@@ -12,7 +12,7 @@
 <tbody>
 <tr>
   <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#word"><code>word</code></A> <A HREF="featurebynodetype.md#subphrase"><code>subphrase</code></A> <A HREF="featurebynodetype.md#phrase"><code>phrase</code></A></td>
+  <td><A HREF="featurebynodetype.md#subphrase"><code>subphrase</code></A> <A HREF="featurebynodetype.md#phrase"><code>phrase</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A></td>
 </tr>
 </tbody>
 </table>
@@ -32,7 +32,7 @@
 </thead>
 <tbody>
 <tr>
-  <td><code>καί</code></td>
+  <td><code>καί</code></td>
   <td>17152</td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@
   <td>5538</td>
 </tr>
 <tr>
-  <td><code>δέ</code></td>
+  <td><code>δέ</code></td>
   <td>5528</td>
 </tr>
 <tr>
@@ -56,15 +56,15 @@
   <td>3510</td>
 </tr>
 <tr>
-  <td><code>τό</code></td>
+  <td><code>τό</code></td>
   <td>3328</td>
 </tr>
 <tr>
-  <td><code>τόν</code></td>
+  <td><code>τόν</code></td>
   <td>3124</td>
 </tr>
 <tr>
-  <td><code>τήν</code></td>
+  <td><code>τήν</code></td>
   <td>3046</td>
 </tr>
 <tr>

@@ -1,4 +1,4 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.2</a></p>
+<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
 
 <h1>Feature: lemma</h1>
 
@@ -12,7 +12,7 @@
 <tbody>
 <tr>
   <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#word"><code>word</code></A> <A HREF="featurebynodetype.md#subphrase"><code>subphrase</code></A> <A HREF="featurebynodetype.md#phrase"><code>phrase</code></A></td>
+  <td><A HREF="featurebynodetype.md#subphrase"><code>subphrase</code></A> <A HREF="featurebynodetype.md#phrase"><code>phrase</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A></td>
 </tr>
 </tbody>
 </table>
@@ -36,19 +36,19 @@
   <td>39566</td>
 </tr>
 <tr>
-  <td><code>καί</code></td>
+  <td><code>καί</code></td>
   <td>17956</td>
 </tr>
 <tr>
-  <td><code>αὐτός</code></td>
+  <td><code>αὐτός</code></td>
   <td>11122</td>
 </tr>
 <tr>
-  <td><code>σύ</code></td>
+  <td><code>σύ</code></td>
   <td>5784</td>
 </tr>
 <tr>
-  <td><code>δέ</code></td>
+  <td><code>δέ</code></td>
   <td>5574</td>
 </tr>
 <tr>
@@ -56,15 +56,15 @@
   <td>5486</td>
 </tr>
 <tr>
-  <td><code>ἐγώ</code></td>
+  <td><code>ἐγώ</code></td>
   <td>5134</td>
 </tr>
 <tr>
-  <td><code>εἰμί</code></td>
+  <td><code>εἰμί</code></td>
   <td>4914</td>
 </tr>
 <tr>
-  <td><code>λέγω</code></td>
+  <td><code>λέγω</code></td>
   <td>4510</td>
 </tr>
 <tr>

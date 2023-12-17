@@ -1,6 +1,6 @@
 <p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
 
-<h1>Feature: mood</h1>
+<h1>Feature: variant</h1>
 
 <table>
 <thead>
@@ -19,7 +19,7 @@
 
 <h2>Description</h2>
 
-<p>verbal mood</p>
+<p>this is XML attribute variant</p>
 
 <h2>Values</h2>
 
@@ -32,28 +32,12 @@
 </thead>
 <tbody>
 <tr>
-  <td><code>indicative</code></td>
-  <td>31234</td>
+  <td><code>2</code></td>
+  <td>302</td>
 </tr>
 <tr>
-  <td><code>participle</code></td>
-  <td>13306</td>
-</tr>
-<tr>
-  <td><code>infinitive</code></td>
-  <td>4570</td>
-</tr>
-<tr>
-  <td><code>imperative</code></td>
-  <td>3754</td>
-</tr>
-<tr>
-  <td><code>subjunctive</code></td>
-  <td>3712</td>
-</tr>
-<tr>
-  <td><code>optative</code></td>
-  <td>138</td>
+  <td><code>1</code></td>
+  <td>36</td>
 </tr>
 </tbody>
 </table>

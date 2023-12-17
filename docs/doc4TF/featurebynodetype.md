@@ -1,4 +1,4 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.2</a></p>
+<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
 
 <h1>Features per node type</h1>
 
@@ -522,6 +522,12 @@
   <td><code>—</code> <code>(</code></td>
 </tr>
 <tr>
+  <td><A HREF="bol_lemma.md#readme">bol_lemma</A></td>
+  <td><code>string</code></td>
+  <td>lexical lemma provided by Bible Online Learner</td>
+  <td><code>ὁ</code> <code>καί</code></td>
+</tr>
+<tr>
   <td><A HREF="case.md#readme">case</A></td>
   <td><code>string</code></td>
   <td>grammatical case</td>
@@ -597,7 +603,7 @@
   <td><A HREF="lemma.md#readme">lemma</A></td>
   <td><code>string</code></td>
   <td>lexical lemma</td>
-  <td><code>ὁ</code> <code>καί</code></td>
+  <td><code>ὁ</code> <code>καί</code></td>
 </tr>
 <tr>
   <td><A HREF="ln.md#readme">ln</A></td>
@@ -621,7 +627,7 @@
   <td><A HREF="normalized.md#readme">normalized</A></td>
   <td><code>string</code></td>
   <td>lemma normalized</td>
-  <td><code>καί</code> <code>ὁ</code></td>
+  <td><code>καί</code> <code>ὁ</code></td>
 </tr>
 <tr>
   <td><A HREF="note.md#readme">note</A></td>
@@ -732,6 +738,12 @@
   <td><code>καὶ</code> <code>ὁ</code></td>
 </tr>
 <tr>
+  <td><A HREF="variant.md#readme">variant</A></td>
+  <td><code>string</code></td>
+  <td>this is XML attribute variant</td>
+  <td><code>2</code> <code>1</code></td>
+</tr>
+<tr>
   <td><A HREF="voice.md#readme">voice</A></td>
   <td><code>string</code></td>
   <td>verbal voice</td>
@@ -763,6 +775,12 @@
   <td><code>string</code></td>
   <td>this is XML attribute before</td>
   <td><code>—</code> <code>(</code></td>
+</tr>
+<tr>
+  <td><A HREF="bol_lemma.md#readme">bol_lemma</A></td>
+  <td><code>string</code></td>
+  <td>lexical lemma provided by Bible Online Learner</td>
+  <td><code>ὁ</code> <code>καί</code></td>
 </tr>
 <tr>
   <td><A HREF="case.md#readme">case</A></td>
@@ -828,7 +846,7 @@
   <td><A HREF="lemma.md#readme">lemma</A></td>
   <td><code>string</code></td>
   <td>lexical lemma</td>
-  <td><code>ὁ</code> <code>καί</code></td>
+  <td><code>ὁ</code> <code>καί</code></td>
 </tr>
 <tr>
   <td><A HREF="ln.md#readme">ln</A></td>
@@ -852,7 +870,7 @@
   <td><A HREF="normalized.md#readme">normalized</A></td>
   <td><code>string</code></td>
   <td>lemma normalized</td>
-  <td><code>καί</code> <code>ὁ</code></td>
+  <td><code>καί</code> <code>ὁ</code></td>
 </tr>
 <tr>
   <td><A HREF="num.md#readme">num</A></td>
@@ -933,6 +951,12 @@
   <td><code>καὶ</code> <code>ὁ</code></td>
 </tr>
 <tr>
+  <td><A HREF="variant.md#readme">variant</A></td>
+  <td><code>string</code></td>
+  <td>this is XML attribute variant</td>
+  <td><code>2</code> <code>1</code></td>
+</tr>
+<tr>
   <td><A HREF="voice.md#readme">voice</A></td>
   <td><code>string</code></td>
   <td>verbal voice</td>
@@ -964,6 +988,12 @@
   <td><code>string</code></td>
   <td>this is XML attribute before</td>
   <td><code>—</code> <code>(</code></td>
+</tr>
+<tr>
+  <td><A HREF="bol_lemma.md#readme">bol_lemma</A></td>
+  <td><code>string</code></td>
+  <td>lexical lemma provided by Bible Online Learner</td>
+  <td><code>ὁ</code> <code>καί</code></td>
 </tr>
 <tr>
   <td><A HREF="book.md#readme">book</A></td>
@@ -1053,7 +1083,7 @@
   <td><A HREF="lemma.md#readme">lemma</A></td>
   <td><code>string</code></td>
   <td>lexical lemma</td>
-  <td><code>ὁ</code> <code>καί</code></td>
+  <td><code>ὁ</code> <code>καί</code></td>
 </tr>
 <tr>
   <td><A HREF="ln.md#readme">ln</A></td>
@@ -1077,7 +1107,7 @@
   <td><A HREF="normalized.md#readme">normalized</A></td>
   <td><code>string</code></td>
   <td>lemma normalized</td>
-  <td><code>καί</code> <code>ὁ</code></td>
+  <td><code>καί</code> <code>ὁ</code></td>
 </tr>
 <tr>
   <td><A HREF="note.md#readme">note</A></td>
@@ -1174,6 +1204,12 @@
   <td><code>string</code></td>
   <td>word in unicode characters plus material after it</td>
   <td><code>καὶ</code> <code>ὁ</code></td>
+</tr>
+<tr>
+  <td><A HREF="variant.md#readme">variant</A></td>
+  <td><code>string</code></td>
+  <td>this is XML attribute variant</td>
+  <td><code>2</code> <code>1</code></td>
 </tr>
 <tr>
   <td><A HREF="verse.md#readme">verse</A></td>

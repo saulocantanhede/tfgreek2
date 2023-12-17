@@ -1,6 +1,6 @@
 <p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
 
-<h1>Feature: mood</h1>
+<h1>Feature: bol_lemma</h1>
 
 <table>
 <thead>
@@ -19,7 +19,7 @@
 
 <h2>Description</h2>
 
-<p>verbal mood</p>
+<p>lexical lemma provided by Bible Online Learner</p>
 
 <h2>Values</h2>
 
@@ -32,28 +32,44 @@
 </thead>
 <tbody>
 <tr>
-  <td><code>indicative</code></td>
-  <td>31234</td>
+  <td><code>ὁ</code></td>
+  <td>39566</td>
 </tr>
 <tr>
-  <td><code>participle</code></td>
-  <td>13306</td>
+  <td><code>καί</code></td>
+  <td>17956</td>
 </tr>
 <tr>
-  <td><code>infinitive</code></td>
-  <td>4570</td>
+  <td><code>αὐτός</code></td>
+  <td>11122</td>
 </tr>
 <tr>
-  <td><code>imperative</code></td>
-  <td>3754</td>
+  <td><code>σύ</code></td>
+  <td>5784</td>
 </tr>
 <tr>
-  <td><code>subjunctive</code></td>
-  <td>3712</td>
+  <td><code>δέ</code></td>
+  <td>5574</td>
 </tr>
 <tr>
-  <td><code>optative</code></td>
-  <td>138</td>
+  <td><code>ἐν</code></td>
+  <td>5486</td>
+</tr>
+<tr>
+  <td><code>ἐγώ</code></td>
+  <td>5134</td>
+</tr>
+<tr>
+  <td><code>εἰμί</code></td>
+  <td>4914</td>
+</tr>
+<tr>
+  <td><code>λέγω</code></td>
+  <td>4510</td>
+</tr>
+<tr>
+  <td><code>εἰς</code></td>
+  <td>3532</td>
 </tr>
 </tbody>
 </table>

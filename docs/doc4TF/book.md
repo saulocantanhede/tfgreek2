@@ -1,4 +1,4 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.2</a></p>
+<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
 
 <h1>Feature: book</h1>
 
@@ -12,7 +12,7 @@
 <tbody>
 <tr>
   <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#verse"><code>verse</code></A> <A HREF="featurebynodetype.md#group"><code>group</code></A> <A HREF="featurebynodetype.md#sentence"><code>sentence</code></A> <A HREF="featurebynodetype.md#wg"><code>wg</code></A> <A HREF="featurebynodetype.md#clause"><code>clause</code></A> <A HREF="featurebynodetype.md#book"><code>book</code></A> <A HREF="featurebynodetype.md#chapter"><code>chapter</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A></td>
+  <td><A HREF="featurebynodetype.md#verse"><code>verse</code></A> <A HREF="featurebynodetype.md#clause"><code>clause</code></A> <A HREF="featurebynodetype.md#chapter"><code>chapter</code></A> <A HREF="featurebynodetype.md#wg"><code>wg</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A> <A HREF="featurebynodetype.md#book"><code>book</code></A> <A HREF="featurebynodetype.md#group"><code>group</code></A> <A HREF="featurebynodetype.md#sentence"><code>sentence</code></A></td>
 </tr>
 </tbody>
 </table>
@@ -56,7 +56,7 @@
   <td>17798</td>
 </tr>
 <tr>
-  <td><code>1Corinthians</code></td>
+  <td><code>I_Corinthians</code></td>
   <td>13504</td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@
   <td>9204</td>
 </tr>
 <tr>
-  <td><code>2Corinthians</code></td>
+  <td><code>II_Corinthians</code></td>
   <td>8367</td>
 </tr>
 </tbody>
