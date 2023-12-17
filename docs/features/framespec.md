@@ -7,7 +7,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Reference to the [id](id.md#start) of subject, object or idirect object. This feature is populated for most verbs (24690 out of 24767), with the addition of a small number of references for other wordtypes.  It's functional equivalent edge feature is [frame](frame.md#start)).
+Reference to the [id](id.md#start) of subject, object or idirect object. This feature is populated for most verbs (24690 out of 24767), with the addition of a small number of references for other wordtypes.  It's functional equivalent edge feature is [frame](frame.md#start).
 
 ## Feature values
 
