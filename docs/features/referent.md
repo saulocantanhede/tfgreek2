@@ -23,7 +23,7 @@ An 'n' followed by a 11-digit unique id in the format
 
 ## Notes
 
- The following image demonstrates how feature [referent](referent.md#start) links back to [id](id.md#start). In this example the ὑμῖν and ἡμῶν in  Philippians 1:2 refers back to the ἁγίοις in verse 1:
+The following image demonstrates how feature `referent` links back to [`id`](id.md#start). In this example the ὑμῖν and ἡμῶν in Philippians 1:2 refers back to the ἁγίοις in verse 1:
 
 <img src="images/referent.png" width="650">
 
