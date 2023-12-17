@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-This feature stores information about the referent (person, item, etc) the current node is refering to.  
+This feature stores information about the referent (person, item, etc) the current node is refering to. The value of referent is often crossing the boundaries of sentences and verses and is to a certain degree a discourse feature more than a syntactic.
 
 ## Feature values
 
@@ -23,15 +23,16 @@ An 'n' followed by a 11-digit unique id in the format
 
 ## Notes
 
+The following image demonstrates how feature `referent` links back to [`id`](id.md#start). In this example the ὑμῖν and ἡμῶν in Philippians 1:2 refers back to the ἁγίοις in verse 1:
+
+<img src="images/referent.png" width="650">
+
 See also the following related features:
    * [framespec](framespec.md#start): framespec
    * [frame](frame.md#start): Edge feature that links nodes that are part of the frame; labelled as A0, A1 etc.
    * [id](id.md#start): id.
    * [subjrefspec](subjrefspec.md#start): subjrefspec.
  
-Please note that the value of referent is often crossing the boundaries of sentences and verses. The following image demonstrates how feature [referent](referent.md#start) links back to [id](id.md#start):
-
-<img src="images/referent.png" width="550">
 
 ## Source description
 
