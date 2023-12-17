@@ -7,11 +7,18 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Subject reference (to [id](id.md#start)).
+Subject reference (to [id](id.md#start)). It's functional equivalent edge feature is [frame](frame.md#start)).
 
-## Note
+## Feature values
 
-See also related edge feature [frame](frame.md#start)).
+
+## Notes
+
+See also the following related features:
+   * [frame](frame.md#start): Edge feature that links nodes that are part of the frame; labelled as A0, A1 etc.
+   * [id](id.md#start): id.
+   * [referent](referent.md#start): referent.
+   * [subjrefspec](subjrefspec.md#start): subjrefspec.
 
 ## Source description
 
