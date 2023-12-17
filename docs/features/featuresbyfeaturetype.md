@@ -15,6 +15,7 @@ Name | Feature group | Data type | Description | Examples
 [appostioncontainer](appositioncontainer.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Appostioncontainer information | `1` 
 [articular](articular.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Articular information | `1`
 [before](before.md#start) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Text-critical signs before word | `(` `[`
+[bol_lemma](bol_lemma.md#start) |  [`Lexical`](featuresbygroup.md#lexical-features) | [`string`](featuresbydatatype.md#string-datatype)  | lexical lemma provided by Bible Online Learner | `ὁ` `καί`
 [book](book.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) | Full book name | `Matthew` `Mark` ... `Revelation`
 [book_short](book_short.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) |[`string`](featuresbydatatype.md#string-datatype) | Short book name | `MAT` `MAR` ... `REV`
 [case](case.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical case | `nominative` `genitive` `dative`
