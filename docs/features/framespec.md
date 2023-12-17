@@ -8,7 +8,7 @@ Feature group | Feature type | Data type | Available for node types
 ## Feature description
 
 this is XML attribute frame of word. 
-Subject reference (to [nodeID](nodeID.md#start)?
+Subject reference (to [id](id.md#start).
 
 ## Note
 
