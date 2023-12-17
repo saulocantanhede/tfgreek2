@@ -18,11 +18,19 @@ In this:
 
 ## Note
 
+The following image shows the query that will return the node ids of the verb and the its indirect object.
+
+<img src="images/indirectobjectquery.png" width="600">
+
+The following image shows the first returned clause (from Matthew 1:18):
+
+<img src="images/indirectobjecttree.png" width="600">
+
 See also related node feature [framespec](framespec.md#start).
 
 ## Source description
 
-Calculated based on (optional) XML attribute `frame` of tag `w` (word).
+Based on (optional) XML attribute `frame` of tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

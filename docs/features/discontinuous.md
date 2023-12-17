@@ -15,6 +15,10 @@ value | description | Frequency
 ` ` | no discontinuation | 
 `1` |  discontinuation | 12068
 
+## Notes
+
+In Ancient Greek, postpositive conjunctions such as δέ and γάρ commonly occupy the second position in a clause or subclause, immediately following the first significant word. This syntactic placement not only organizes the structure of sentences but also subtly influences the meaning and rhythm of the text. Given that the source data was represented using an XML file structure, which cannot accommodate overlapping structures, these conjunctions had to be repositioned in the LowFat tree representation.
+
 ## Source description
 
 Taken from (optional) XML attribute `discontinuous` of tag `w` (word).
