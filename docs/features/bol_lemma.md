@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Lexical lemma provided by [Bible Online Learner](http://www.dadel.org/). 
+Lexical lemma provided by [Bible Online Learner](http://www.dadel.org/). This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
 
 ## Notes
 
