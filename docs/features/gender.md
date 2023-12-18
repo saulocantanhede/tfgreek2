@@ -6,7 +6,7 @@ Feature group |Feature type | Data type | Available for node types
 
 ## Feature description
 
-Gramatical gender for wordtypes nouns, adjectives, pronouns, participles, and definite articles.
+Gramatical gender for wordtypes nouns, adjectives, pronouns, participles, and definite articles. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
 
 ## Feature values
 
