@@ -10,7 +10,7 @@ Subject reference to one or more node IDs.
 
 ## Feature values
 
-The values are formated like `n64001001002`; see also [nodeId](nodeId.md#start).
+The values are formated like `n64001001002`; see also [id](id.md#start).
 
 ## Notes
 
