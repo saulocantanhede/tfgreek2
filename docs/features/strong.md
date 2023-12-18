@@ -5,7 +5,8 @@ Feature group | Feature type | Data type | Available for node types
 [`Lexical`](featuresbygroup.md#lexical-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`integer`](featuresbydatatype.md#integer-datatype) |  [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)
 
 ## Feature description
-Strongs number (optionaly additional TVM number) 
+
+Strongs number. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`. 
 
 ## Notes
 Note from [biblicalhumanities/Nestle1904](https://github.com/biblicalhumanities/Nestle1904/tree/master/morph) regarding absent strongs information:
