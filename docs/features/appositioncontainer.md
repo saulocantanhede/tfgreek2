@@ -12,8 +12,8 @@ This feature indicates if a wordgroup or phrase contains an apposition.
 
 Value | Description | Frequency
 ---  | --- | --- 
-` ` | this is no appositioncontainer | -
-`1` | the is an appositioncontainer | 3816
+` ` | this entity has no appositioncontainer | -
+`1` | this entity has an appositioncontainer | 3816
 
 ## Note
 
