@@ -6,7 +6,9 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Morphological tag according to Sandborg-Petersen morphology.
+Morphological tag according to Sandborg-Petersen morphology.This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
+
+## Notes
 
 See [biblicalhumanities/Nestle1904/morph/parsing.txt](https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/parsing.txt) for detailed information.
 
