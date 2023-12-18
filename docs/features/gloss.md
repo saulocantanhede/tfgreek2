@@ -6,11 +6,11 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-English gloss.
+English gloss based upon the Berean Interlinear Bible.
 
 ## Source description
 
-Taken from XML attribute `gloss` of tag `w` (word).
+Taken from XML attribute `gloss` of tag `w` (word). The source of this data is the [Berean Interlinear Bible](https://interlinearbible.com/). The Berean Bible and Majority Bible texts are officially placed into the public domain as of April 30, 2023.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
