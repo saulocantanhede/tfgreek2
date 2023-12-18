@@ -7,7 +7,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-The variant of the lemma. Associated with BOL lemma.
+The variant of the lemma (associated with feature [bol_lemma](bol_lemma.md#start)). This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
 
 ## Feature values
 
