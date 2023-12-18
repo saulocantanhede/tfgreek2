@@ -12,8 +12,8 @@ Aposition details.
 
 Value | Description | Frequency
 ---  | --- | --- 
-` ` |  This entity contains no apposition | 
-`Appo` | This entity contains an apposition | 1958
+` ` |  This entity forms no apposition | 
+`Appo` | This entity forms an apposition | 1958
 
 ## Note
 
