@@ -15,3 +15,18 @@ A compound string indicating book, chapter, verse and sequence number of the wor
 <pre>
   MAT 1:2!11
 </pre>
+
+From this feature value the word sequence number inside the verse can be easily obtained by means of following Python code:
+<pre>
+ref = "MAT 1:2!11"
+print ('word sequence number: ', ref.split("!")[1])
+word sequence number:  11
+</pre>
+
+
+## Source description
+
+Based upon XML attribute `ref` of tag `w` (word).
+
+---
+###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
