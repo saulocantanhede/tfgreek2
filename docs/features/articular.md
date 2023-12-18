@@ -8,6 +8,12 @@ Feature group | Feature type | Data type | Available for node types
 
 This feature indicates if a syntact unit contains an article.
 
+## Notes
+
+The following example from John 1:1 demonstrates the function of this feature.
+
+<img src="images/articular.png" width="600">
+
 ## Feature values 
 
 value | description | Frequency
