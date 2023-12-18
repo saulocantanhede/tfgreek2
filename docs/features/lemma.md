@@ -10,7 +10,7 @@ Lexical lemma according to Bible Dictionary of Ancient Greek (BDAG) and/or ANLEX
 
 ## Notes
 
-See also the related feature [bol_lemma](bol_lemma.md#start): lexical lemma provided by [Bible Online Learner](http://www.dadel.org/).
+When using the [Bible Online Learner](http://www.dadel.org/) as an aid in exploring text and creating Text-Fabric queries, it is advisable to use the [bol_lemma](bol_lemma.md#start) feature instead of this one to circumvent potential issues arising from a slightly different handling of Unicode codepoints.
 
 ## Source description
 
