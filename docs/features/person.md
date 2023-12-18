@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Gramatical person of a verb.
+Gramatical person of a verb. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
 
 ## Feature values
 
