@@ -15,7 +15,7 @@ Value | Description | Frequency
 A0 | Agent or subject of the action | 25654
 A1 | Direct object or the entity directly affected by the action | 15570
 A2 | Indirect object or secondary entity affected by the action | 2577
-AA2 | | 92
+AA2 | Adverbial roles in a sentence | 92
 
 ## Note
 
