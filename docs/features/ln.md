@@ -22,11 +22,10 @@ Lookup of values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/
 ## Note
 
 See also related feature [domain](domain.md#readme) (Lexical Domain).
-The word sense data was compiled by the United Bible Societies MARBLE project. See [Macula-Greek Licence](https://github.com/Clear-Bible/macula-greek/blob/main/LICENSE.md).
 
 ## Source description
 
-Taken from XML attribute `domain` of tag `w` (word).
+Taken from XML attribute `domain` of tag `w` (word). The word sense data for this feature was compiled by the United Bible Societies MARBLE project. See [Macula-Greek Licence](https://github.com/Clear-Bible/macula-greek/blob/main/LICENSE.md).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
