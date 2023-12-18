@@ -11,6 +11,10 @@ Subject reference to one or more node IDs in the format `n64001001002`.  [nodeId
 
 The values is format `n64001001002`, 
 
+## Notes
+
+See also related feature [subjref](subjref.md#start)
+
 ## Source description
 
 Based upon (optional) XML attribute `subjref` of tag `w` (word).
