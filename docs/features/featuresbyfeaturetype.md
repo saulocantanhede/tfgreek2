@@ -20,8 +20,8 @@ Name | Feature group | Data type | Description | Examples
 [book_short](book_short.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) |[`string`](featuresbydatatype.md#string-datatype) | Short book name | `MAT` `MAR` ... `REV`
 [case](case.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical case | `nominative` `genitive` `dative`
 [chapter](chapter.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) |[`integer`](featuresbydatatype.md#integer-datatype) | Chapter number inside book | `1` `2` ...
-[clausetype](clausetype.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Clause type information | `normalized`
-[cls](cls.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) |Word and WordGroup class (Part of Speech) | `noun` `verb` / `np` `cl`
+[clauseType](clauseType.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Clause type information | `normalized`
+[cls](cls.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Word and WordGroup class (Part of Speech) | `noun` `verb` / `np` `cl`
 [cltype](cltype.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) |[`string`](featuresbydatatype.md#string-datatype) | Clause type | `Verbless` `VerbElided`
 [criticalsign](criticalsign.md#start) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) |[`string`](featuresbydatatype.md#string-datatype) | text-critical signs | `(` `[` `)` `]`
 [crule](crule.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) |Clause rule | `ClCl` `ClCl2`
