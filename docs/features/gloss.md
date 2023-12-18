@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-English gloss based upon the Berean Interlinear Bible.
+English gloss based upon the Berean Interlinear Bible offering a word-for-word translation of the Greek text, focusing on a direct correspondence between Greek and English words, while also making adjustments for English grammar and punctuation to enhance readability. It prioritizez literal accuracy over idiomatic or contextual fluency.
 
 ## Source description
 
