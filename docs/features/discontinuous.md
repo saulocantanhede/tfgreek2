@@ -19,7 +19,7 @@ value | description | Frequency
 
 In Ancient Greek, postpositive conjunctions such as δέ and γάρ commonly occupy the second position in a clause or subclause, immediately following the first significant word. This syntactic placement not only organizes the structure of sentences but also subtly influences the meaning and rhythm of the text. Given that the source data was represented using an XML file structure, which cannot accommodate overlapping structures, these conjunctions had to be repositioned in the LowFat tree representation.
 
-The following image compares the handling of these postpositive conjunctions in Text-Fabric and the [Low Fat Tree browser](https://ibiblio.org/bgreek/resources/syntax-trees/reader/).
+The following image compares the handling of these postpositive conjunctions in Text-Fabric and the [Lowfat Syntax Tree Browser](https://ibiblio.org/bgreek/resources/syntax-trees/reader/). Note the asterisk behind the γάρ in the Lowfat Syntax Tree Browser, indicating this word is out of sequence in respect to the surface text.
 
 <img src="images/discontinuous.png" width="500">
 
