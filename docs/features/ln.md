@@ -22,6 +22,7 @@ Lookup of values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/
 ## Note
 
 See also related feature [domain](domain.md#readme) (Lexical Domain).
+The word sense data was compiled by the United Bible Societies MARBLE project. See [Macula-Greek Licence](https://github.com/Clear-Bible/macula-greek/blob/main/LICENSE.md).
 
 ## Source description
 
