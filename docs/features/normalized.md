@@ -12,8 +12,10 @@ This feature is also populated for `phrase` or `subphrase` only in case these co
 ## Notes
 
 See also the following related features:
+
+   * [text](text.md#start): Word without punctuations and text-critical signs.
    * [unicode](unicode.md#start): Word as it appears in the text (in unicode)
-   * [text](text.md#start): Word as it appears in the text
+
 
 ## Source description
 
