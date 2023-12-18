@@ -6,15 +6,15 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Edge feature that links nodes that are part of the frame; labelled as A0, A1 or A2. 
+Edge feature providing 'semantic role labeling' (SRL; Who does what to whom?) 
 
 ## Feature values:
 
-In this:
+The roles are labelled as A0, A1 or A2:
 
-   * A0 = reference(s) to a subject.
-   * A1 = reference(s) to an object.
-   * A2 = reference(s) to the indirect object
+   * A0 = Agent or subject of the action.
+   * A1 = Direct object or the entity directly affected by the action.
+   * A2 = Indirect object or secondary entity affected by the action.
 
 ## Note
 
