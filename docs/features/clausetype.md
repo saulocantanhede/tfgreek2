@@ -1,4 +1,4 @@
-# Feature: clausetype <a name="start"></a>
+# Feature: clauseType <a name="start"></a>
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
