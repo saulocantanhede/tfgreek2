@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-This feature includes all material found after a word: regular space character,  punctuation marks followed by a regular space character, and text-critical markers. This feature is populated for `phrase` and `subphrase` only in case these contain only one `word`.
+This feature includes all material found after a word: regular space character,  punctuation marks followed by a regular space character, and text-critical markers. This feature is also populated for `phrase` or `subphrase` only in case these contain only one `word`.
 
 ## Feature values 
 
