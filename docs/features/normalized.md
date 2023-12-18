@@ -7,7 +7,7 @@ Feature group | Feature type | Data type | Available for node types
 ## Feature description
 
 Normalized Greek text (changed accents and diacritics to their standard forms). Also trailing punctuations are removed.
-This feature is also populated for `phrase` or `subphrase` only in case these contain only one `word`.
+This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
 
 ## Notes
 
