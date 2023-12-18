@@ -9,6 +9,12 @@ Feature group | Feature type | Data type | Available for node types
 Normalized Greek text (changed accents and diacritics to their standard forms). Also trailing punctuations are removed.
 This feature is also populated for `phrase` or `subphrase` only in case these contain only one `word`.
 
+## Notes
+
+See also the following related features:
+   * [unicode](unicode.md#start): Word as it appears in the text (in unicode)
+   * [text](text.md#start): Word as it appears in the text
+
 ## Source description
 
 Taken from XML attribute `normalized` of tag `w` (word).
