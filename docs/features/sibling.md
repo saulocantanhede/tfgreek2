@@ -8,6 +8,10 @@ Feature group | Feature type | Data type | Available for node types
 
 edge between a node and its preceding sibling nodes;  labelled with the distance between them.
 
+## Notes
+
+Due to the size of the `.tf` file, this feature is not pressent on the usual location at GitHub (i.e. the tf/{version} directory). If this feature is required, please extract it from the `complete.zip` file which is part of [the release](https://github.com/saulocantanhede/tfgreek2/releases).
+
 ## Source description
 
 Calculated.
