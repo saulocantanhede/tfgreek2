@@ -10,7 +10,7 @@ Lexical lemma provided by [Bible Online Learner](http://www.dadel.org/).
 
 ## Notes
 
-This feature is required to enhance compatibility between the Bible Online Learner and Text-Fabric. 
+This feature is essential for enhancing compatibility between the Bible Online Learner and Text-Fabric, allowing for the direct copy-paste of lemmata from BOL into TF. However, due to different usages of Unicode codepoints, such copying and pasting may not always yield the expected results when running queries in Text-Fabric. For a detailed technical explanation of this issue, see the explanatory notes on pages 33 and 34 in the [Bible Online Learner: Technical Documentation](https://github.com/EzerIT/BibleOL/blob/master/techdoc/techdoc.pdf). 
 
 <img src="images/bol_lexeme.png" width="500">
 
