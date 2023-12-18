@@ -11,7 +11,7 @@ This feature is populated for `phrase` and `subphrase` only in case these contai
 
 ## Feature values
 
-A compound string indicating book, chapter, verse and sequence number of the word *inside the verse* according to following format:
+A compound string indicating book (following the format of feature [book-short](book_short.md#start)), chapter, verse and sequence number of the word *inside the verse* according to following format:
 
 <pre>
   MAT 1:2!11
