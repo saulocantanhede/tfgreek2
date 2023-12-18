@@ -28,8 +28,8 @@ Name | Feature group | Data type | Description | Examples
 [degree](degree.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Degree of an comparative or superlative adjective | `superlative` `comparative`
 [discontinuous](discontinuous.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) |Discontinuous information | `1`
 [domain](domain.md#start) | [`Lexical`](featuresbygroup.md#lexical-features) | [`string`](featuresbydatatype.md#string-datatype) |Lexical domain according to SDBG | `092004`
-[frame](frame.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | Frame |
-[framespec](framespec.md#start) | [`Relational`](featuresbygroup.md#relational-features) |[`string`](featuresbydatatype.md#string-datatype) | Framespec |
+[frame](frame.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Frame |
+[framespec](framespec.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) |[`string`](featuresbydatatype.md#string-datatype) | Framespec |
 [gender](gender.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) |  [`string`](featuresbydatatype.md#string-datatype) | Gramatical gender | `masculine` `feminine` `neuter`
 [gloss](gloss.md#start) | [`Lexical`](featuresbygroup.md#lexical-features) | [`string`](featuresbydatatype.md#string-datatype) | English gloss | 
 [id](id.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) |[`string`](featuresbydatatype.md#string-datatype) | Unique identity of a word | `n40001003006`
@@ -48,10 +48,10 @@ Name | Feature group | Data type | Description | Examples
 [otype](otype.md) | [`Grid`](featuresbygroup.md#grid-features) | [`string`](featuresbydatatype.md#string-datatype) | node type data | 
 [person](person.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical person | `first` `second` `third`
 [punctuation](punctuation.md#start) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Punctations after the word | `.` `;`
-[referent](referent.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | Referent | `n40001011005`
+[referent](referent.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Referent | `n40001011005`
 [role](role.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Syntactic role | 
 [strong](strong.md#start) | [`Lexical`](featuresbygroup.md#lexical-features) | [`string`](featuresbydatatype.md#string-datatype) | Strong's number | `5547`
-[subjrefspec](subjrefspec.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | Subject reference | `n46003022002`
+[subjrefspec](subjrefspec.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Subject reference | `n46003022002`
 [text](text.md#start) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | Word as it appears in the text | `Λόγος` `καὶ`
 [tense](tense.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical tense of the verb | `present` `aorist`
 [type](type.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical type of noun or pronoun | `common` `personal`
@@ -64,9 +64,9 @@ Name | Feature group | Data type | Description | Examples
 
 Name | Feature group | Data type | Description | Example
 ---|---|---|---|---
-[frame](frame.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | Frame |
+[frame](frame.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Frame |
 [parent](parent.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | parent relationship between words | 
-[subjref](subjref.md#start) |  [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | Node number of subject reference |
+[subjref](subjref.md#start) |  [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Node number of subject reference |
 [sibling](sibling.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Sibling | 
 
 ## Config features
