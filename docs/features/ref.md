@@ -7,6 +7,7 @@ Feature group | Feature type | Data type | Available for node types
 ## Feature description
 
 Unique identifier of a word inside the New Testament corpus.
+This feature is populated for `phrase` and `subphrase` only in case these contain only one `word`.
 
 ## Feature values
 
