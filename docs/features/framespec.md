@@ -47,7 +47,7 @@ See also the following related features:
 
 ## Source description
 
-Taken from (optional) XML attribute `frame` of tag `w` (word).
+Taken from (optional) XML attribute `frame` of tag `w` (word). Annotation data originates from [Clear Bible](https://github.com/Clear-Bible/macula-greek/tree/main/sources/Clear/annotations).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
