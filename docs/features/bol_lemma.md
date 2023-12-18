@@ -6,11 +6,26 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Lexical lemma provided by Bible Online Learner
+Lexical lemma provided by [Bible Online Learner](http://www.dadel.org/). 
+
+## Notes
+
+This feature is required to enhance compatibility between the Bible Online Learner and Text-Fabric. 
+
+<img src="images/bol_lexeme.png" width="500">
+
+The highligted value can be copy-pasted into a TF queries like:
+<pre>
+   BolQuery = '''
+   word bol_lemma=ἀρχή
+   '''
+   BolQueryResults = A.search(BolQuery)
+</pre>
+
 
 ## Source description
 
-External (from Bible Online Learner)
+External (from Bible Online Learner).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
