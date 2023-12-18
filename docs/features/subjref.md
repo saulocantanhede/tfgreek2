@@ -1,4 +1,4 @@
-# Feature: subjrefspec <a name="start"></a>
+# Feature: subjref <a name="start"></a>
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
@@ -13,7 +13,7 @@ The values is format `n64001001002`,
 
 ## Notes
 
-See also related feature [subjref](subjref.md#start)
+See also related feature [subjrefspec](subjrefspec.md#start)
 
 ## Source description
 
