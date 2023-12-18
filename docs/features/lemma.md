@@ -8,6 +8,10 @@ Feature group | Feature type | Data type | Available for node types
 
 Lexical lemma according to Bible Dictionary of Ancient Greek (BDAG) and/or ANLEX by Friberg, Friberg, and Miller.
 
+## Notes
+
+See also the related feature [bol_lemma](bol_lemma.md#start): lexical lemma provided by [Bible Online Learner](http://www.dadel.org/).
+
 ## Source description
 
 Taken from XML attribute `lemma` of tag `w` (word).
