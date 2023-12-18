@@ -41,7 +41,7 @@ The following syntactical graphs from Matthew 1:2 and 1:20 serve as demonstratio
 
 See also the following related features:
    * [frame](frame.md#start): Edge feature that links nodes that are part of the frame; labelled as A0, A1 etc.
-   * [id](id.md#start): id.
+   * [id](id.md#start): A uniqe identifier for each individual word in the corpus.
    * [referent](referent.md#start): referent.
    * [subjrefspec](subjrefspec.md#start): subjrefspec.
 
