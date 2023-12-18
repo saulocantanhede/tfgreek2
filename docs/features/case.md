@@ -5,7 +5,7 @@ Feature group | Feature type | Data type | Available for node types
 [`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype)  | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)
 
 ## Feature description
-Gramatical case for wordtypes noun, pronoun, adjective, article, or participle.
+Gramatical case for wordtypes noun, pronoun, adjective, article, or participle. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
 
 ## Feature values
 
