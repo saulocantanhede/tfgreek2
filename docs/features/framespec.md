@@ -16,10 +16,14 @@ This feature contains one or more refernces to [`id`](id.md#start)'s,  like in f
 ```
 A0:n63001005005;n63001001007 A1:n63001010014
 ```
-In this:
-   * A0 = reference(s) to a subject.
-   * A1 = reference(s) to an object.
-   * A2 = reference(s) to the indirect object
+The labels can be decoded using the following table.
+
+Value | Description | Frequency
+---|---|---
+A0 | Agent or subject of the action | 25654
+A1 | Direct object or the entity directly affected by the action | 15570
+A2 | Indirect object or secondary entity affected by the action | 2577
+AA2 | Adverbial roles in a sentence | 92
 
 The values behind these identifires are in the following format:
 
