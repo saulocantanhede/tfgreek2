@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-This feature stores information about the referent (mainly a pronoun) the current node is refering to. The value of referent is often crossing the boundaries of sentences and verses and is to a certain degree a discourse feature more than a syntactic.
+This feature stores information about the referent (usually a pronoun) to which the current node refers. The value of the referent often crosses sentence and verse boundaries and is, to a certain extent, more of a discourse feature than a syntactic one.
 
 ## Feature values
 
@@ -36,7 +36,7 @@ See also the following related features:
 
 ## Source description
 
-Taken from the optional XML tag `referent` of node `w`.
+Taken from the optional XML tag `referent` of node `w`. Annotation data originates from [Clear Bible](https://github.com/Clear-Bible/macula-greek/tree/main/sources/Clear/annotations).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
