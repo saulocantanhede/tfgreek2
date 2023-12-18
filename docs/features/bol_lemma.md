@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Lexical lemma provided by [Bible Online Learner](http://www.dadel.org/). This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
+Lexical lemma (lexime) provided by [Bible Online Learner](http://www.dadel.org/). This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
 
 ## Notes
 
@@ -24,6 +24,7 @@ The highligted value can be copy-pasted into a TF queries like:
    BolQueryResults = A.search(BolQuery)
 </pre>
 
+See also related feature [variant](variant.md#start).
 
 ## Source description
 
