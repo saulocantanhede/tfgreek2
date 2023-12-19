@@ -29,9 +29,9 @@ The following image demonstrates how feature `referent` links back to [`id`](id.
 
 See also the following related features:
    * [framespec](framespec.md#start): Reference to the id of subject, object or idirect object.
-   * [frame](frame.md#start): Edge feature that links nodes that are part of the frame; labelled as A0, A1 etc.
-   * [id](id.md#start): id.
-   * [subjrefspec](subjrefspec.md#start): subjrefspec.
+   * [frame](frame.md#start): Edge feature that links nodes that are part of the frame; labelled as A0, A1, etc.
+   * [id](id.md#start): A uniqe identifier for each individual word in the corpus.
+   * [subjrefspec](subjrefspec.md#start): Subject reference to a node id.
  
 
 ## Source description
