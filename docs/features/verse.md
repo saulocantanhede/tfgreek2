@@ -12,6 +12,11 @@ Verse number in chapter.
 
 An integer.
 
+## Notes
+
+Please note that it is not save to assume verse number within a chapter is sequential without gaps (i.e. there are some 'missing' verses).
+
+
 ## Source description
 
 Calculated from XML attribute `ref` of tag `w` (word).
