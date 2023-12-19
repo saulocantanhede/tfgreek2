@@ -8,6 +8,10 @@ Feature group | Feature type | Data type | Available for node types
 
 A uniqe identifier for each individual word in the corpus.
 
+## Feature values
+
+Id in the following format:
+
 ```
 The letter 'n' followed by a 11-digit unique id in the format
 
