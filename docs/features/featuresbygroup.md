@@ -16,7 +16,7 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 
 Name |  Feature type | Available on nodes | Description| Examples
 ---|---| ---|--- | ---
-[oslots](oslots.md#start) | [`Config`](featuresbyfeaturetype.md#config-features) |   | slot containment | `1` `1-11` `2010-2015,2020-2030`
+[oslots](oslots.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) |   | slot containment | `1` `1-11` `2010-2015,2020-2030`
 [otext](otext.md#start) |  [`Config`](featuresbyfeaturetype.md#config-features) | | configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
 [otype](otype.md#start)| [`Node`](featuresbyfeaturetype.md#node-features) | | node type | `book` `verse` `clause` `phrase` `word`
 
