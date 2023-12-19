@@ -9,7 +9,16 @@ Subject reference to [id](id.md#start).
 
 ## Feature values
 
-Node ID in the format like `n40006028008`.
+Id in the format like `n40006028008`, A uniqe identifier for each individual word in the corpus.
+
+```
+The letter 'n' followed by a 11-digit unique id in the format
+
+    BBCCCVVVWWW
+    BB          => zero-padded book, the first NT book (Matthew) starts at 40
+      CCC       => zero-padded chapter
+         VVV    => zero-padded verse
+            WWW => zero-padded word index (instance within the verse)
 
 ## Notes
 
