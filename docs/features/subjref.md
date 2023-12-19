@@ -10,7 +10,7 @@ Subject reference to one or more nodes.
 
 ## Feature values
 
-Node values.
+`word` node values.
 
 ## Notes
 
