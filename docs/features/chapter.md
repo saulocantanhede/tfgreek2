@@ -8,6 +8,10 @@ Feature group | Feature type | Data type | Available for node types
 
 Chapter number inside book.
 
+## Feature value
+
+An integer.
+
 ## Source description
 
 Calculated from XML attribute `ref` of tag `w` (word).
