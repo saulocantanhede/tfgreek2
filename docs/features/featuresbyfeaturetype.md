@@ -54,7 +54,6 @@ Name | Feature group | Data type | Available on node | Description | Examples
 [rela](rela.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | [`wg`](featuresbynodetype.md#wordgroup-nodes) [`word`](featuresbynodetype.md#word-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Aposition details | `Appo`
 [role](role.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`wg`](featuresbynodetype.md#wordgroup-nodes)  [`group`](featuresbynodetype.md#group-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`clause`](featuresbynodetype.md#clause-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes) | Syntactic role | 
 [strong](strong.md#start) | [`Lexical`](featuresbygroup.md#lexical-features) | [`integer`](featuresbydatatype.md#integer-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Strong's number | `5547`
-[subjref](subjref.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Subject reference | `n46003022002`
 [subjrefspec](subjrefspec.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Subject reference | `n46003022002`
 [tense](tense.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Gramatical tense of the verb | `present` `aorist`
 [text](text.md#start) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Word as it appears in the text | `Λόγος` `καὶ`
@@ -68,18 +67,18 @@ Name | Feature group | Data type | Available on node | Description | Examples
 
 ## Edge features
 
-Name | Feature group | Data type | Description | Example
----|---|---|---|---
-[frame](frame.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Frame |
-[parent](parent.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) | parent relationship between words | 
-[subjref](subjref.md#start) |  [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | Node number of subject reference |
-[sibling](sibling.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Sibling | 
+Name | Feature group | Data type | Available on node | Description | Examples
+---|---|---|---|---|---
+[frame](frame.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) | Providing 'semantic role labeling' | `A0` `A1` `A2`
+[oslots](oslots.md) | [`Grid`](featuresbygroup.md#grid-features) | | | slot containment | `1` `1-11` `2010-2015,2020-2030`
+[parent](parent.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) |  |parent relationship between words | 
+[sibling](sibling.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`integer`](featuresbydatatype.md#integer-datatype) | | Sibling | 
+[subjref](subjref.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | | Subject reference | `n46003022002`
 
 ## Config features
 
 Name | Feature group |Data type| Description| Examples
 ---|---|---|---|---
-[oslots](oslots.md) | [`Grid`](featuresbygroup.md#grid-features) | | slot containment | `1` `1-11` `2010-2015,2020-2030`
 [otext](otext.md) | [`Grid`](featuresbygroup.md#grid-features) | | configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
 
 
