@@ -5,7 +5,12 @@ Feature group | Feature type | Data type | Available for node types
 [`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`integer`](featuresbydatatype.md#integer-datatype)  | [`word`](featuresbynodetype.md#word-nodes) [`verse`](featuresbynodetype.md#verse-nodes) 
 
 ## Feature description
+
 Verse number in chapter.
+
+## Feature value
+
+An integer.
 
 ## Source description
 
