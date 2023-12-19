@@ -14,6 +14,22 @@ The values are formated like `n64001001002`; see also [id](id.md#start).
 
 ## Notes
 
+The usage of this feature can be demonstrated by means of the following query:
+<pre>
+SubQuery = '''
+clause
+  w1:word 
+  w2:word 
+  w1 -subjref> w2
+'''
+SubResults = PLAY.search(SubQuery)
+  0.17s 7755 results
+</pre>
+
+This will deliver results like the following:
+
+<img src="images/subjref.png" width="600">
+
 See also related feature [subjrefspec](subjrefspec.md#start)
 
 ## Source description
