@@ -30,7 +30,6 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
 * [Grouped by datatype](featuresbydatatype.md#start):
      * [`string`](featuresbydatatype.md#string-datatype): Datatype of feature is string.
      * [`integer`](featuresbydatatype.md#integer-datatype): Datatype of feature is integer.
-     * [`link`](featuresbydatatype.md#link-datatype): Datatype of feature is link.
      * [`configuration`](featuresbydatatype.md#configuration-data): Configuration data.
 
 ## The concept 'features' in Text-Fabric
