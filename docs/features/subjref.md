@@ -41,14 +41,11 @@ One example syntactical tree:
 
 <img src="images/subjref.png" width="600">
 
-
-
-See also related feature [subjrefspec](subjrefspec.md#start)
+See also related feature [subjrefspec](subjrefspec.md#start).
 
 ## Source description
 
 Based upon (optional) XML attribute `subjref` of tag `w` (word).
-
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
