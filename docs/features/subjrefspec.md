@@ -19,6 +19,7 @@ The letter 'n' followed by a 11-digit unique id in the format
       CCC       => zero-padded chapter
          VVV    => zero-padded verse
             WWW => zero-padded word index (instance within the verse)
+```
 
 ## Notes
 
