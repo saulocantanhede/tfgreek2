@@ -70,10 +70,10 @@ Name | Feature group | Data type | Available on node | Description | Examples
 Name | Feature group | Data type | Available on node | Description | Examples
 ---|---|---|---|---|---
 [frame](frame.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) | Providing 'semantic role labeling' | `A0` `A1` `A2`
-[oslots](oslots.md) | [`Grid`](featuresbygroup.md#grid-features) | | | slot containment | `1` `1-11` `2010-2015,2020-2030`
+[oslots](oslots.md) | [`Grid`](featuresbygroup.md#grid-features) | [`string`](featuresbydatatype.md#string-datatype) | | The set of slots associated with an object | `1` `1-11` `2010-2015,2020-2030`
 [parent](parent.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`string`](featuresbydatatype.md#string-datatype) |  |parent relationship between words | 
 [sibling](sibling.md#start) | [`Relational`](featuresbygroup.md#relational-features) | [`integer`](featuresbydatatype.md#integer-datatype) | | Sibling | 
-[subjref](subjref.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | | Subject reference | `n46003022002`
+[subjref](subjref.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Subject reference to one or more node IDs | `n46003022002`
 
 ## Config features
 
