@@ -7,6 +7,10 @@ Feature group | Feature type | Data type | Available for node types
 ## Feature description
 Subject reference to [nodeId](nodeId.md#start).
 
+## Feature values
+
+Node ID in the format like `n40006028008`.
+
 ## Notes
 
 See also related feature [subjref](subjref.md#start)
