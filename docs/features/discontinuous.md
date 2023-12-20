@@ -6,7 +6,9 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-Set to 1 if the word is out of sequence in the XML source data in relation to the running text. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
+Set to 1 if the word is out of sequence in the XML source data in relation to the running text. 
+
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values 
 
