@@ -17,7 +17,7 @@ A node value.
 The following query demonstrates a typical use of this feature. Here the parent feature is used twice in order to make sure wg2 is child of wg1 and w1 is child of wg1:
 
 <pre>
-Query2 = '''
+Query = '''
 wg1:wg type=modifier-scope
   w1:word lemma=ἐλπίς
   wg2:wg rule=DetNP
@@ -27,13 +27,21 @@ w1 -parent> wg1
 Results = A.search(Query)
  0.24s 6 results</pre>
 
-Part of the results is shown in the following image:
+Part of the results is shown in the following image when using the 'WordGroup' vieuw:
 
-<img src="images/parent_query.png" width="650">
+<img src="images/parent_query_wg_view.png.png" width="500">
 
+The same section is shown in the following image using the 'WordGroup' vieuw:
 
+<img src="images/parent_query_phrase_view.png" width="500">
 
+The parent-child relation can be checked using the following functions using the node numbers printed above
 
+<pre>
+ E.parent.f(82843)
+</pre>
+
+Node has two parents which are 'content&feature-wise' identical: phrase 246649 and wg:454459 
 
 
 ## Source description
