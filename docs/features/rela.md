@@ -8,6 +8,8 @@ Feature group | Feature type | Data type | Available for node types
 
 Aposition details.
 
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
+
 ## Feature values 
 
 Value | Description | Frequency
