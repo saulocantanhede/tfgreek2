@@ -12,7 +12,7 @@ In the context of a corpus, the term "monad" refers to a unit of textual analysi
 
 ## Source description
 
-Computed (based on reconstruction of the running text).
+Computed (based on reconstruction of the surface text).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
