@@ -6,7 +6,9 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-The word as it apears in the text without punctuations and text-critical signs. This feature is also populated for `phrase` or `subphrase` only in case these contain only one `word`.
+The word as it apears in the text without punctuations and text-critical signs. 
+
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Notes
 
