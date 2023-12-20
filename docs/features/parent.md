@@ -29,7 +29,7 @@ Results = A.search(Query)
 
 Part of the results is shown in the following image when using the 'WordGroup' vieuw:
 
-<img src="images/parent_query_wg_view.png.png" width="500">
+<img src="images/parent_query_wg_view.png" width="500">
 
 The same section is shown in the following image using the 'WordGroup' vieuw:
 
@@ -39,9 +39,14 @@ The parent-child relation can be checked using the following functions using the
 
 <pre>
  E.parent.f(82843)
+   (454458, 246648)
+ F.otype.v(246648)
+   'phrase'
+ F.otype.v(454458)
+   'wg'
 </pre>
 
-Node has two parents which are 'content&feature-wise' identical: phrase 246649 and wg:454459 
+This output shows the word node has two parents phrase 246649 and wg:454459 
 
 
 ## Source description
