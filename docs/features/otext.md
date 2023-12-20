@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Textformatting and corpus segmenting configuration. 
+Textformatting and corpus segmenting configuration used by the text API. 
 
 ## Notes 
 
