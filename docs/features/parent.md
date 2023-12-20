@@ -10,7 +10,10 @@ Edge between a node and its parent node.
 
 ## Feature value
 
-A node value.
+Any of the following:
+   * Zero node value - node has no parent
+   * One node value - node has one parent
+   * Two node values - node has two parents
 
 ## Notes
 
