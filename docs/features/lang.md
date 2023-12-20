@@ -16,7 +16,7 @@ Value | Description | Frequency
 
 ## Note
 
-The current datasource containded `el`, which is according to ISO 639.2 Modern Greek (after 1453), while the actual language indicator should have been `grc` (i.e. Ancient Greek to 1453).
+The current datasource containded `el`, which is according to ISO 639.2 Modern Greek (after 1453), while the actual language indicator should have been `grc` (i.e. Ancient Greek before 1453).
 
 ## Source description
 
