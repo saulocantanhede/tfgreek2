@@ -62,6 +62,18 @@ Linguistic types correspond to syntactical entities such as sentences, clauses a
 The functional object types are `sentence`, `clause`, and `phrase`.
 They correspond to possibly discontinuous stretches of text that function as a unit.
 
+## Notes
+
+This feature can be very usefull to generate a list of nodes of a certain type, e.g. `verse` nodes:
+<pre>
+for verse in F.otype.s('verse'):
+    "do something with verse nodes"
+ </pre>
+
+ ## Source description
+
+ Calculated during datacreation.
+
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
 
