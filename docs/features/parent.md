@@ -50,8 +50,8 @@ The parent-child relation can be checked using the following functions using the
 </pre>
 
 This output shows the word node has two parents: a `phrase` and a `wg` node. This dual parent relation is consequence of the implementation of two viewtypes:
-   * WordGroup-view
-   * Clause/phrase-view
+   * WordGroup-view: A.show() with option hiddenTypes={"clause","group","subphrase","phrase"}
+   * Clause/phrase-view: A.show() with option hiddenTypes={"wg"}
 
 The following image shows how feature parent operates on the various node types. The node type 'subphrase' is not part of this parent-child relation schema.
 
