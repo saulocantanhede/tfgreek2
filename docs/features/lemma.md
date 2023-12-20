@@ -6,7 +6,9 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Lexical lemma according to Bible Dictionary of Ancient Greek (BDAG) and/or ANLEX by Friberg, Friberg, and Miller. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
+Lexical lemma according to Bible Dictionary of Ancient Greek (BDAG) and/or ANLEX by Friberg, Friberg, and Miller. 
+
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Notes
 
