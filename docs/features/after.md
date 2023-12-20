@@ -42,7 +42,7 @@ The following format options are defined in this dataset:
 <pre>
   A.showFormats()
      format           level    template
-     text-orig-full	  word     {before}{text}{after}
+     text-orig-full   word     {before}{text}{after}
      text-orig-plain  word     {text}{punctuation}
 </pre>
   
