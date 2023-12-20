@@ -8,6 +8,8 @@ Feature group | Feature type | Data type | Available for node types
 
 This feature stores information about the referent (usually a pronoun) to which the current node refers. The value of the referent often crosses sentence and verse boundaries and is, to a certain extent, more of a discourse feature than a syntactic one.
 
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
+
 ## Feature values
 
 The [id](id.md#start) of the referent according to following format:
