@@ -14,8 +14,7 @@ An integer.
 
 ## Notes
 
-Please note that it is not save to assume verse number within a chapter is sequential without gaps (i.e. there are some 'missing' verses).
-
+Please note that it is not save to assume verse number within a chapter is sequential without gaps. The folling is a list of 'missing' verses: Matthew 17:21; 18:1;  23:14, Mark 7:16;  9:44&46; 11:26; 15:28, Luke 17:36;  23:17,  Acts 8:37; 15:34;  24:7;  28:29,  Romans 16:24, and a 'gap' after Mark 16:20 unit verse 99.
 
 ## Source description
 
