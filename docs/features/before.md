@@ -6,7 +6,9 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-This feature provides all the material pressent before a word. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
+This feature provides all the material pressent before a word. 
+
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values 
 
