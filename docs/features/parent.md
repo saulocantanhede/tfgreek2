@@ -54,7 +54,7 @@ The following image shows how feature parent operates on the various node types.
 
 <img src="images/parent_nodes_views.png" width="650">
 
-Also note that feature parent can also be used to identify a child node by calling function E.parent.t(...):
+Feature parent can also be used to identify a child node by calling function E.parent.t(...):
 <pre>
 E.parent.f(246649)
   (246648,)
