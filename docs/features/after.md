@@ -38,6 +38,14 @@ The following image shows the relation between these features.
 
 <img src="images/details_surface_features.png" width="400" >
 
+The following format options are defined in this dataset:
+<pre>
+  A.showFormats()
+     format           level    template
+     text-orig-full	  word     {before}{text}{after}
+     text-orig-plain  word     {text}{punctuation}
+</pre>
+  
 ## Source description
 
 Taken from XML attribute `after` of tag `w` (word).
