@@ -46,8 +46,19 @@ The parent-child relation can be checked using the following functions using the
    'wg'
 </pre>
 
-This output shows the word node has two parents phrase 246649 and wg:454459 
+This output shows the word node has two parents: a `phrase` and a `wg` node. This dual parent relation is consequence of the implementation of two viewtypes:
+   * WordGroup-view
+   * Phrase/Clause-view
 
+The following image shows how feature parent operates on the various node types. The node type 'subphrase' is not part of this parent-child relation schema.
+
+<img src="images/parent_nodes_views.png" width="600">
+
+Also note that feature parent can also be used to identify a child node by calling function E.parent.t(...):
+<pre>
+E.parent.f(246649)
+  (246648,)
+</pre>
 
 ## Source description
 
