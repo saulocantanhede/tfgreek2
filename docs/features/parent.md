@@ -27,11 +27,11 @@ w1 -parent> wg1
 Results = A.search(Query)
  0.24s 6 results</pre>
 
-Part of the results is shown in the following image when using the 'WordGroup' vieuw:
+Part of the results is shown in the following image when using the 'WordGroup-view:
 
 <img src="images/parent_query_wg_view.png" width="500">
 
-The same section is shown in the following image using the 'WordGroup' vieuw:
+The same section is shown in the following image using the 'Clause/phrase-view':
 
 <img src="images/parent_query_phrase_view.png" width="500">
 
@@ -48,7 +48,7 @@ The parent-child relation can be checked using the following functions using the
 
 This output shows the word node has two parents: a `phrase` and a `wg` node. This dual parent relation is consequence of the implementation of two viewtypes:
    * WordGroup-view
-   * Clause/Phrase-view
+   * Clause/phrase-view
 
 The following image shows how feature parent operates on the various node types. The node type 'subphrase' is not part of this parent-child relation schema.
 
