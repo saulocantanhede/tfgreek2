@@ -6,7 +6,9 @@ Feature group | Feature type | Data type | Available for node types
  
 ## Feature description
 
-Lexical domain according to Semantic Dictionary of Biblical Greek (SDBG). This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
+Lexical domain according to Semantic Dictionary of Biblical Greek (SDBG). 
+
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values
 

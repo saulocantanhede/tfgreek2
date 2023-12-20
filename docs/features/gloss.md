@@ -6,7 +6,9 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-English gloss based upon the [Berean Interlinear Bible](https://berean.bible/) offering a word-for-word translation of the Greek text, focusing on a direct correspondence between Greek and English words, while also making adjustments for English grammar and punctuation to enhance readability. It prioritizez literal accuracy over idiomatic or contextual fluency. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
+English gloss based upon the [Berean Interlinear Bible](https://berean.bible/) offering a word-for-word translation of the Greek text, focusing on a direct correspondence between Greek and English words, while also making adjustments for English grammar and punctuation to enhance readability. It prioritizes literal accuracy over idiomatic or contextual fluency. 
+
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Source description
 

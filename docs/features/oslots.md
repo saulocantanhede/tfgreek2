@@ -2,7 +2,7 @@
 
 Feature group | Feature type |  Data type | Available for node types
 ---  | --- | --- | ---
-[`Grid`](featuresbygroup.md#grid-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`string`](featuresbydatatype.md#string-datatype)  | -
+[`Grid`](featuresbygroup.md#grid-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`string`](featuresbydatatype.md#string-datatype)  | *not applicable*
 
 
 ## Feature description 

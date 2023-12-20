@@ -6,9 +6,12 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Strongs number. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`. 
+Strongs number. 
+
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Notes
+
 Note from [biblicalhumanities/Nestle1904](https://github.com/biblicalhumanities/Nestle1904/tree/master/morph) regarding absent strongs information:
 > It is well known that Strong's numbering system is inadequate for describing the full range of lemmas necessary for an accurate description of modern editions such as Nestle's 1904 edition. This is because Strong's numbering system is incomplete: It only contains the lemmas that were extant in the Textus Receptus, whereas the full range of lemmas needed for New Testament lexicography in all editions and manuscripts is not covered in its totaliy by the Strong's numbers.
 

@@ -6,7 +6,9 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Surface greek form of the word in unicode, contains all the material before and after it. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
+Surface greek form of the word in unicode, contains all the material before and after it. 
+
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Notes
 
@@ -20,7 +22,6 @@ See also the following related features:
 The following image shows the relation between these features.
 
 <img src="images/details_surface_features.png" width="400">
-
 
 ## Source description
 

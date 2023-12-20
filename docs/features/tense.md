@@ -6,7 +6,9 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Gramatical tense of a verb. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
+Gramatical tense of a verb. 
+
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values
 
@@ -21,7 +23,7 @@ future | Describing a simple or ongoing action in the future | 1626
 '' | Empty for any wordtype other than a verb | 109422
 
 ## Note
-The 'future perfect' tense (Describing a completed action in the future) is not found in the text.
+The 'future perfect' tense (describing a completed action in the future) is not found in the text.
 
 ## Source description
 

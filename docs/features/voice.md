@@ -6,7 +6,9 @@ Feature group |Feature type | Data type | Available for node types
  
 ## Feature description
 
-Gramatical voice of the verb. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
+Gramatical voice of a verb. 
+
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values
 

@@ -8,6 +8,8 @@ Feature group | Feature type | Data type | Available for node types
 
 Subject reference to one or more nodes.
 
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
+
 ## Feature values
 
 `word` node values.

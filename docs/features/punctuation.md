@@ -6,7 +6,9 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-This feature includes either a regular space character or a punctuation mark followed by a regular space character, occurring after a word. This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
+This feature includes either a regular space character or a punctuation mark followed by a regular space character, occurring after a word. 
+
+This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values 
 
@@ -36,6 +38,14 @@ See also the following related features:
 The following image shows the relation between these features.
 
 <img src="images/details_surface_features.png" width="400" >
+
+The following text-formating options are defined in this dataset using this feature:
+<pre>
+  A.showFormats()
+     format           level    template
+     text-orig-full   word     {before}{text}{after}
+     text-orig-plain  word     {text}{punctuation}
+</pre>
 
 ## Source description
 
