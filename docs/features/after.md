@@ -38,7 +38,7 @@ The following image shows the relation between these features.
 
 <img src="images/details_surface_features.png" width="400" >
 
-The following format options are defined in this dataset:
+The following text-formating options are defined in this dataset using this feature:
 <pre>
   A.showFormats()
      format           level    template
