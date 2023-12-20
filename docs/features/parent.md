@@ -8,6 +8,12 @@ Feature group | Feature type | Data type | Available for node types
 
 Edge between a node and its parent node.
 
+## Feature value
+
+## Notes
+
+Add a usage example.
+
 ## Source description
 
 Calculated.
