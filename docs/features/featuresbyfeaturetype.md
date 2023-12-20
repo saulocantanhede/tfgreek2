@@ -79,6 +79,6 @@ Name | Feature group | Data type | Available on node | Description | Examples
 
 Name | Feature group |Data type| Description| Examples
 ---|---|---|---|---
-[otext](otext.md) | [`Grid`](featuresbygroup.md#grid-features) | | configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
+[otext](otext.md) | [`Grid`](featuresbygroup.md#grid-features) | *not applicable* | Textformatting and corpus segmenting configuration used by the text API | *no data, only specifications*  
 
 
