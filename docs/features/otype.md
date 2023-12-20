@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Grid`](featuresbygroup.md#grid-features) | [`Node`](featuresbyfeaturetype.md#node-features) | Configuration | [`word`](featuresbynodetype.md#word-nodes) [`wg`](featuresbynodetype.md#wordgroup-nodes) [`Sentence`](featuresbynodetype.md#sentence-nodes) [`verse`](featuresbynodetype.md#verse-nodes) [`chapter`](featuresbynodetype.md#chapter-nodes) [`Book`](featuresbynodetype.md#book-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) 
+[`Grid`](featuresbygroup.md#grid-features) | [`Node`](featuresbyfeaturetype.md#node-features) | Configuration | [`word`](featuresbynodetype.md#word-nodes) [`wg`](featuresbynodetype.md#wordgroup-nodes) [`Sentence`](featuresbynodetype.md#sentence-nodes) [`verse`](featuresbynodetype.md#verse-nodes) [`chapter`](featuresbynodetype.md#chapter-nodes) [`Book`](featuresbynodetype.md#book-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`Group`](featuresbynodetype.md#group-nodes) [`Clause`](featuresbynodetype.md#clause-nodes) 
 
 ## Feature description
 
@@ -10,11 +10,12 @@ Types for text objects as they are represented by nodes.
  
 type | kind | description
 --- |--- |---
-[`w`](featuresbynodetype.md#word-nodes) | slot | single word, fills a *slot*;
+[`word`](featuresbynodetype.md#word-nodes) | slot | single word, fills a *slot*;
 [`wg`](featuresbynodetype.md#wordgroup-nodes) | functional | wordgroup, maybe with gaps
-[`Phrase`](featuresbynodetype.md#phrase-nodes) | functional | phrase, maybe with gaps
 [`subphrase`](featuresbynodetype.md#subphrase-nodes) | functional | subphrase, maybe with gaps
+[`Phrase`](featuresbynodetype.md#phrase-nodes) | functional | phrase, maybe with gaps
 [`Clause`](featuresbynodetype.md#clause-nodes) | functional | clause, maybe with gaps
+[`Group`](featuresbynodetype.md#group-nodes) | functional | group, maybe with gaps
 [`Sentence`](featuresbynodetype.md#sentence-nodes) |functional| clause, maybe with gaps
 [`verse`](featuresbynodetype.md#verse-nodes) |section | numbered unit of a chapter
 [`chapter`](featuresbynodetype.md#chapter-nodes) | section | numbered unit of a book
