@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-Node ID of a wordgroup as found ih the source XML data.
+Node ID of a wordgroup as found ih the source XML data (stripped from the trailing 'n'???).
 
 ## Feature values
 
