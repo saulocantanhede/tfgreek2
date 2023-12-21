@@ -12,7 +12,7 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      * [`Sectional`](features/featuresbygroup.md#sectional-features): encompasses attributes or elements related to divisions within the text.
      * [`Lexical`](features/featuresbygroup.md#lexical-features): focuses on aspects related to individual words, their meanings, and lexical properties.
      * [`Orthograpic`](features/featuresbygroup.md#Orthograpic-features): deals with features related to the visual representation of the text.
-     * [Textcritical features](features/featuresbygroup.md#textcritical-features): deals with features related to textual critical issue.
+     * [`Textcritical features`](features/featuresbygroup.md#textcritical-features): deals with features related to textual critical issue.
      * [`Morphological`](features/featuresbygroup.md#morphological-features):  involves attributes that describe the internal structure and form of words.
      * [`Syntactic`](features/featuresbygroup.md#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases. 
      * [`Relational`](features/featuresbygroup.md#relational-features):  encompasses attributes that describe various relationships or connections between elements in the text.
