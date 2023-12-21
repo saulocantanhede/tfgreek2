@@ -21,7 +21,7 @@ Value | Description | Frequency
 
 ## Source description
 
-External data? BOL?
+Based upon external data obtained from Bible Online Learner.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
