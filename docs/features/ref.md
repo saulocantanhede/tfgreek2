@@ -25,6 +25,9 @@ print ('word sequence number: ', ref.split("!")[1])
 word sequence number:  11
 </pre>
 
+## Notes
+
+This first three characters of this feature value are identical to feature [book_short](book_short.md#start).
 
 ## Source description
 
