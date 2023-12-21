@@ -40,13 +40,14 @@ JAS | James | 20
 JUD | Jude | 26
 REV | Revelation | 27
 
-## See also
+## Notes
 
-Feature [num](num.md) for nodetype 'book' contains the sequence number of the book.
+This value of this feature is identical to the first three characters of feature [ref](ref.md#start).
 
 ## Source description
 
 Based upon XML attribute `id` of tag `book`.
+
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
