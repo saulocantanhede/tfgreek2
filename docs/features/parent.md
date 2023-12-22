@@ -18,7 +18,7 @@ Any of the following:
 ## Notes
 
 The following query demonstrates a typical use of this feature. Here the parent feature is used twice in order to make sure wg2 is child of wg1 and w1 is child of wg1:
-
+*note: rewrite this to be a 'syntactic view' query*
 <pre>
 Query = '''
 wg1:wg type=modifier-scope
@@ -30,13 +30,13 @@ w1 -parent> wg1
 Results = A.search(Query)
  0.24s 6 results</pre>
 
-Part of the results is shown in the following image when using the 'WordGroup-view:
-
-<img src="images/parent_query_wg_view.png" width="500">
-
-The same section is shown in the following image using the 'Clause/phrase-view':
+Part of the results is shown in the following image when using the (default) [Syntactic view](syntactic-view.md#start):
 
 <img src="images/parent_query_phrase_view.png" width="500">
+
+The same section is shown in the following image using the [WordGroup view](wg-view.md#start):
+
+<img src="images/parent_query_wg_view.png" width="500">
 
 The parent-child relation can be checked using the following functions using the node numbers printed above
 
@@ -50,8 +50,9 @@ The parent-child relation can be checked using the following functions using the
 </pre>
 
 This output shows the word node has two parents: a `phrase` and a `wg` node. This dual parent relation is consequence of the implementation of two viewtypes:
-   * WordGroup-view: A.show() with option hiddenTypes={"clause","group","subphrase","phrase"}
-   * Clause/phrase-view: A.show() with option hiddenTypes={"wg"}
+   * [Syntactic view](syntactic-view.md#start) (default): A.show() with option hiddenTypes={"wg"}
+   * [WordGroup view](wg-view.md#start): A.show() with option hiddenTypes={"clause","group","subphrase","phrase"}
+
 
 The following image shows how feature parent operates on the various node types. The node type 'subphrase' is not part of this parent-child relation schema.
 
