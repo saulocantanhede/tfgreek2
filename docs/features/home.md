@@ -18,7 +18,7 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      * [`Relational`](featuresbygroup.md#relational-features):  encompasses attributes that describe various relationships or connections between elements in the text.
 * [Grouped by node type](featuresbynodetype.md#start):
      * [`word`](featuresbynodetype.md#word-nodes): represents individual words in the text.
-     * [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit. It can match any of the following:
+     * [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit. Each individual wordgroup node has an acompanying shadow node of one of the following types: 
          * [`subphrase`](featuresbynodetype.md#subphrase-nodes): Nodes pertaining to a subphrase unit.
          * [`phrase`](featuresbynodetype.md#phrase-nodes): Nodes pertaining to a phrase unit.
          * [`clause`](featuresbynodetype.md#clause-nodes): Nodes pertaining to a clause unit.
