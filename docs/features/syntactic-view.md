@@ -2,7 +2,7 @@
 
 *draft notes for now* 
 
-default view (need to be implemented).
+default view (need to be implemented). Utilizes the terms common in linguistic research.
 
 The two views are possible since in the database there is a replication of data.
 
