@@ -9,7 +9,7 @@
 @version=0.5.3
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-08T02:24:05Z
+@dateWritten=2023-12-22T03:08:20Z
 
 Βίβλος
 γενέσεως

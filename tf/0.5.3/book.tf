@@ -1,7 +1,7 @@
 @node
 @author=Evangelists and apostles
 @converters=Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda
-@description=book name (abbreviated), from ref attribute in xml
+@description=book name (full name)
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer), Andrews University
 @sourceFormat=XML lowfat
 @title=Greek New Testament
@@ -9,7 +9,7 @@
 @version=0.5.3
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-08T02:23:54Z
+@dateWritten=2023-12-22T03:08:08Z
 
 Matthew
 Matthew

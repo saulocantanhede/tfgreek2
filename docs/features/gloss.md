@@ -12,7 +12,9 @@ This feature is also populated for `phrase` or `subphrase`, but only if they con
 
 ## Source description
 
-Taken from XML attribute `gloss` of tag `w` (word). The source of this data is the [Berean Interlinear Bible](https://interlinearbible.com/). The Berean Bible and Majority Bible texts are officially placed into the public domain as of April 30, 2023.
+Taken from XML attribute `gloss` of tag `w` (word). 
+
+The source of this data is the [Berean Interlinear Bible](https://interlinearbible.com/). The Berean Bible and Majority Bible texts are officially placed into the public domain as of April 30, 2023.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
