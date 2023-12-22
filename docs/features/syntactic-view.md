@@ -1,5 +1,7 @@
 # Syntactic view <a name="start"></a>
 
+*draft notes for now* 
+
 default view (need to be implemented).
 
 The two views are possible since in the database there is a replication of data.
