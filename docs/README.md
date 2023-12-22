@@ -18,10 +18,11 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      * [`Relational`](features/featuresbygroup.md#relational-features):  encompasses attributes that describe various relationships or connections between elements in the text.
 * [Grouped by node type](features/featuresbynodetype.md#start):
      * [`word`](features/featuresbynodetype.md#word-nodes): represents individual words in the text.
-     * [`wg`](features/featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit.
-     * [`clause`](features/featuresbynodetype.md#clause-nodes): represents a clausal unit in the text.
-     * [`phrase`](features/featuresbynodetype.md#phrase-nodes): represents a phrasal unit in the text.
-     * [`subphrase`](features/featuresbynodetype.md#subphrase-nodes): represents a subphrasal unit in the text.
+     * [`wg`](features/featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit. Each individual wordgroup node has an acompanying shadow node of one of the following types: 
+         * [`subphrase`](featuresbynodetype.md#subphrase-nodes): Nodes pertaining to a subphrase unit.
+         * [`phrase`](featuresbynodetype.md#phrase-nodes): Nodes pertaining to a phrase unit.
+         * [`clause`](featuresbynodetype.md#clause-nodes): Nodes pertaining to a clause unit.
+         * [`group`](featuresbynodetype.md#group-nodes): Nodes pertaining to a phrase unit.
      * [`sentence`](features/featuresbynodetype.md#sentence-nodes): represents individual sentences in the text.
      * [`verse`](features/featuresbynodetype.md#verse-nodes): pertains to divisions within a larger textual unit, specificaly the biblical verse.
      * [`chapter`](features/featuresbynodetype.md#chapter-nodes): divisions within the text that group related content together, specificaly the biblical chapter.
