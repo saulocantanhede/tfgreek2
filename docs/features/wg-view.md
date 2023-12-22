@@ -1,6 +1,10 @@
 # WordGroup view <a name="start"></a>
 
-Can be switched to.
+*draft notes for now* 
+Can be switched to when prefered.
+
+
+The two views are possible since in the database there is a replication of data.
 
 WG is an agnostic presentation. 
 
