@@ -1,7 +1,7 @@
 @node
 @author=Evangelists and apostles
 @converters=Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda
-@description=morphological type (on w), syntactical type (on wg)
+@description=morphological type (on word), syntactical type (on sentence, group, clause, phrase or wg)
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer), Andrews University
 @sourceFormat=XML lowfat
 @title=Greek New Testament
@@ -9,7 +9,7 @@
 @version=0.5.3
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-08T02:24:15Z
+@dateWritten=2023-12-22T03:08:29Z
 
 common
 common
