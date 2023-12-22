@@ -1,8 +1,8 @@
 # WordGroup view <a name="start"></a>
 
 *draft notes for now* 
-Can be switched to when prefered.
 
+Can be switched to when prefered.
 
 The two views are possible since in the database there is a replication of data.
 
