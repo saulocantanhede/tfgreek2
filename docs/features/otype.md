@@ -19,13 +19,11 @@ The two main usages of this feature are:
 Generating a list of nodes of a certain type, e.g. `verse` nodes:
 <pre>
 for verse in F.otype.s('verse'):
-    "do something with verse nodes"
- </pre>
+    "do something with verse nodes" </pre>
 
  Determining the node type of a node id:
  <pre>
-  F.otype.v(node)
- </pre>
+  F.otype.v(node) </pre>
  
 For a more comprehensice list of usages for feature otype, see the [documentation on special node feature otype](https://annotation.github.io/text-fabric/tf/cheatsheet.html#special-node-feature-otype).
 The information which object occupies which slot is stored in the edge feature [oslots](oslots.md).
