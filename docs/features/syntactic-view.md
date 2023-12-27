@@ -16,7 +16,24 @@ Syntactical (this) | [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phra
 
 <sup>Note: the node types  [`Word`](featuresbynodetype.md#word-nodes), [`Sentence`](featuresbynodetype.md#sentence-nodes), [`verse`](featuresbynodetype.md#verse-nodes), [`chapter`](featuresbynodetype.md#chapter-nodes), and [`Book`](featuresbynodetype.md#book-nodes)` are common for both views.</sup>
 
+
+The following images show the different presentation of the syntax tree for the two views:
+
+### Syntactic view
+
+<img src="images/syntax_view.png" width="650">
+
+### Wordgroup view
+
+<img src="images/wgview.png" width="650">
+
 Understanding this distinction is especialy important when building queries that involve parent-child relations. E.g. when using the edge features [parent](parent.md#start) and [sibling](sibling.md#start). See following image for details:
+
+<img src="images/wordgroup_syntactic_view.png" width="600">
+
+### Impact parent and sibling 
+
+Understanding the distinctions between these two views is especialy important when building queries that involve parent-child relations. E.g. when using the edge features [parent](parent.md#start) and [sibling](sibling.md#start). See following image for details:
 
 <img src="images/wordgroup_syntactic_view.png" width="600">
 
