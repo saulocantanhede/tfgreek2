@@ -14,6 +14,8 @@ View | Associated node types |
 [Wordgroup](wg-view.md#start) | [`wg`](featuresbynodetype.md#wordgroup-nodes) 
 Syntactical (this) | [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`clause`](featuresbynodetype.md#clause-nodes) [`group`](featuresbynodetype.md#group-nodes)
 
+<sup>Note: the node types  [`Word`](featuresbynodetype.md#word-nodes), [`Sentence`](featuresbynodetype.md#sentence-nodes), [`verse`](featuresbynodetype.md#verse-nodes), [`chapter`](featuresbynodetype.md#chapter-nodes), and [`Book`](featuresbynodetype.md#book-nodes)` are common for both views.</sup>
+
 Understanding this distinction is especialy important when building queries that involve parent-child relations. E.g. when using the edge features [parent](parent.md#start) and [sibling](sibling.md#start). See following image for details:
 
 <img src="images/wordgroup_syntactic_view.png" width="600">
