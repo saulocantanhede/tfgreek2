@@ -17,6 +17,8 @@ Below are all node features listed:
 
 ## Word nodes 
 
+<sup>Note: this node type is associated with both the [WordGroup view](wg-view.md#start) and the [Syntactic view](syntactic-view.md#start).</sup>
+
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
 [after](after.md#start) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | All material found after a word | `. ` `; ` ` `
@@ -62,7 +64,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Wordgroup nodes 
 
-<sup>Note: these nodes are associated with the [WordGroup view](wg-view.md#start).</sup> 
+<sup>Note: this node type is only associated with the [WordGroup view](wg-view.md#start).</sup> 
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -80,7 +82,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Subphrase nodes
 
-<sup>Note: these nodes are associated with the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: this node typs is only associated with the [Syntactic view](syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -120,7 +122,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Phrase nodes
 
-<sup>Note: these nodes are associated with the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: thes node type is only associated with the [Syntactic view](syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -163,7 +165,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Clause nodes
 
-<sup>Note: these nodes are associated with the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: thes node type is only associated with the [Syntactic view](syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -180,7 +182,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Group nodes
 
-<sup>Note: these nodes are associated with the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: thes node type is only associated with the [Syntactic view](syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -194,6 +196,8 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 [type](type.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical type of noun or pronoun | `common` `personal`
 
 ## Sentence nodes 
+
+<sup>Note: this node type is associated with both the [WordGroup view](wg-view.md#start) and the [Syntactic view](syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -212,6 +216,8 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Verse nodes 
 
+<sup>Note: this node type is associated with both the [WordGroup view](wg-view.md#start) and the [Syntactic view](syntactic-view.md#start).</sup>
+
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
 [book](book.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (full) | `Luke` `Matthew`
@@ -221,14 +227,17 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Chapter nodes 
 
+<sup>Note: this node type is associated with both the [WordGroup view](wg-view.md#start) and the [Syntactic view](syntactic-view.md#start).</sup>
+
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
 [book](book.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) |  Book name (full) | `Luke` `Matthew`
 [chapter](chapter.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | Chapter | `1` `2`
 [otype](otype.md) | [`Grid`](featuresbygroup.md#grid-features) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | mapping between node number and associated objecttype | 
 
-
 ## Book nodes 
+
+<sup>Note: this node type is associated with both the [WordGroup view](wg-view.md#start) and the [Syntactic view](syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
