@@ -10,7 +10,7 @@ WG is an agnostic presentation.
 A.show() with option hiddenTypes={"clause","group","subphrase","phrase"}
 
 The relation between node types and view types is shown in the following table.
-View | Node types | 
+View | Associated node types | 
 ---|---
 wordgroup | [`wg`](featuresbynodetype.md#wordgroup-nodes) 
 Syntactical | [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`clause`](featuresbynodetype.md#clause-nodes) [`group`](featuresbynodetype.md#group-nodes)
