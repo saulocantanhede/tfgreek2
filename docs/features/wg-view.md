@@ -12,8 +12,8 @@ A.show() with option hiddenTypes={"clause","group","subphrase","phrase"}
 The relation between node types and view types is shown in the following table.
 View | Associated node types | 
 ---|---
-wordgroup | [`wg`](featuresbynodetype.md#wordgroup-nodes) 
-Syntactical | [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`clause`](featuresbynodetype.md#clause-nodes) [`group`](featuresbynodetype.md#group-nodes)
+Wordgroup (this view) | [`wg`](featuresbynodetype.md#wordgroup-nodes) 
+[Syntactical](syntactic-view.md#start) | [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`clause`](featuresbynodetype.md#clause-nodes) [`group`](featuresbynodetype.md#group-nodes)
 
 Understanding this distinction is especialy important when building queries that involve parent-child relations. E.g. when using the edge features [parent](parent.md#start) and [sibling](sibling.md#start). See following image for details:
 
