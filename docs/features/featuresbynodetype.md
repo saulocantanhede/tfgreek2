@@ -80,6 +80,8 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Subphrase nodes
 
+<sup>Note: these nodes are associated with the [Syntactic view](syntactic-view.md#start).</sup>
+
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
 [after](after.md#start) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | All material found after a word | `. ` `; ` ` `
@@ -117,6 +119,8 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 [voice](voice.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical voice of the verb |
 
 ## Phrase nodes
+
+<sup>Note: these nodes are associated with the [Syntactic view](syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -157,8 +161,9 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 [variant](variant.md#start) |  [`Lexical`](featuresbygroup.md#lexical-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | Lexical variant | `1` `2`
 [voice](voice.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical voice of the verb |
 
-
 ## Clause nodes
+
+<sup>Note: these nodes are associated with the [Syntactic view](syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -174,6 +179,8 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 [type](type.md#start) | [`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical type of noun or pronoun | `common` `personal`
 
 ## Group nodes
+
+<sup>Note: these nodes are associated with the [Syntactic view](syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
