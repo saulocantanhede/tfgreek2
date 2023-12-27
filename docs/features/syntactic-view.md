@@ -14,6 +14,11 @@ View | Node types |
 wordgroup | [`wg`](featuresbynodetype.md#wordgroup-nodes) 
 Syntactical | [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`clause`](featuresbynodetype.md#clause-nodes) [`group`](featuresbynodetype.md#group-nodes)
 
-Understanding this distinction is especialy important when building queries that involve parent-child relations. E.g. when using the edge features [parent](parent.md#start) and [sibling](sibling.md#start).
+Understanding this distinction is especialy important when building queries that involve parent-child relations. E.g. when using the edge features [parent](parent.md#start) and [sibling](sibling.md#start). See following image for details:
+
+<img src="images/wordgroup_syntactic_view.png" width="600">
+
+
+
 
 Other view: [WordGroup view](wg-view.md#start)
