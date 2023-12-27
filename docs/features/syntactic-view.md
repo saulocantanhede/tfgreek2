@@ -27,11 +27,11 @@ The following images show the different presentation of the syntax tree for the 
 
 <img src="images/wgview.png" width="650">
 
+### Impact parent and sibling 
+
 Understanding this distinction is especialy important when building queries that involve parent-child relations. E.g. when using the edge features [parent](parent.md#start) and [sibling](sibling.md#start). See following image for details:
 
 <img src="images/wordgroup_syntactic_view.png" width="600">
-
-### Impact parent and sibling 
 
 Understanding the distinctions between these two views is especialy important when building queries that involve parent-child relations. E.g. when using the edge features [parent](parent.md#start) and [sibling](sibling.md#start). See following image for details:
 
