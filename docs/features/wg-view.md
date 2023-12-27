@@ -19,4 +19,5 @@ Understanding this distinction is especialy important when building queries that
 
 <img src="images/wordgroup_syntactic_view.png" width="600">
 
-Other view: [Syntax view](syntactic-view.md#start)
+This image compares the parent (arrows) and sibling features (connector with circle) for the first phrase of the book of John (John 1:1) for the word group view and the [Syntax view](syntactic-view.md#start) for the data. The parent feature for a specific node can be obtained using *E.parent.f(node)* and the sibling feature can be calculated using *E.sibling.b(node)*, where node stands for the number of the node. The direction of the arrow indicates the parent node of a given node. The dotted lines indicate that the `wg` nodes share the same data as the `sentence`, `clause`, and `phrases`. The `subphrase`, `verse`, and `chapter` nodes are not nested in the calculation of the parent and sibling features.
+
