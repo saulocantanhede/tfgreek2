@@ -62,6 +62,8 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Wordgroup nodes 
 
+<sup>Note: these nodes are associated with the [WordGroup view](wg-view.md#start).</sup> 
+
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
 [appositioncontainer](appositioncontainer.md#start) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) |  appositioncontainer |
