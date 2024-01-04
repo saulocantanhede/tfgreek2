@@ -13,10 +13,10 @@ from tf.convert.helpers import XNEST, TNEST, TSIB
 # once without and once with slot reordering
 demoMode = False
 
-book_name = {'MAT': 'Matthew', 'MRK': 'Mark', 'LUK': 'Luke', 'JHN': 'John', 'ACT': 'Acts', 'ROM': 'Romans', '1CO': '1Corinthians',
-            '2CO': '2Corinthians', 'GAL': 'Galatians', 'EPH': 'Ephesians', 'PHP': 'Philippians', 'COL': 'Colossians',
-            '1TH': '1Thessalonians', '2TH': '2Thessalonians', '1TI': '1Timothy', '2TI': '2Timothy', 'TIT': 'Titus', 'PHM': 'Philemon',
-            'HEB': 'Hebrews', 'JAS': 'James', '1PE': '1Peter','2PE': '2Peter', '1JN': '1John', '2JN': '2John', '3JN': '3John',
+book_name = {'MAT': 'Matthew', 'MRK': 'Mark', 'LUK': 'Luke', 'JHN': 'John', 'ACT': 'Acts', 'ROM': 'Romans', '1CO': 'I_Corinthians',
+            '2CO': 'II_Corinthians', 'GAL': 'Galatians', 'EPH': 'Ephesians', 'PHP': 'Philippians', 'COL': 'Colossians',
+            '1TH': 'I_Thessalonians', '2TH': 'II_Thessalonians', '1TI': 'I_Timothy', '2TI': 'II_Timothy', 'TIT': 'Titus', 'PHM': 'Philemon',
+            'HEB': 'Hebrews', 'JAS': 'James', '1PE': 'I_Peter','2PE': 'II_Peter', '1JN': 'I_John', '2JN': 'II_John', '3JN': 'III_John',
             'JUD': 'Jude', 'REV': 'Revelation'}
 
 type_features = {"adjp": "AdjP",
@@ -38,6 +38,19 @@ role_features_word = {"io": "Cmpl",
                  "v": "Pred",
                  "s": "Subj",
                  "p": "PreC"}
+
+character_substitution = {'ά': 'ά',
+                          'έ': 'έ',
+                          'ή': 'ή',
+                          'ί': 'ί',
+                          'ΐ': 'ΐ',
+                          'ό': 'ό',
+                          'ύ': 'ύ',
+                          'ΰ': 'ΰ',
+                          'ώ': 'ώ'}
+
+punctuation_signs = r"[ ,.;·]"
+criticalsign_signs = r"[—()]"
 
 def convertTaskCustom(self):
     """Implementation of the "convert" task.
@@ -89,6 +102,7 @@ def convertTaskCustom(self):
     otext = {
         "fmt:text-orig-full": "{before}{text}{after}",
         "fmt:text-orig-plain": "{text}{punctuation}",
+        "fmt:lex-orig-plain": "{lemma}{punctuation}",
         "sectionTypes": "book,chapter,verse",
         "sectionFeatures": "book,chapter,verse",
         "levelConstraints": "clause < group",
@@ -109,12 +123,13 @@ def convertTaskCustom(self):
     featureMeta = (
         ("after", "material after the end of the word"),
         ("appositioncontainer", "1 if it is an apposition container"),
-        ("articular", "1 if the wg has an article"),
-        ("book", "book name (abbreviated), from ref attribute in xml"),
+        ("articular", "1 if the sentence, group, clause, phrase or wg has an article"),
+        ("book", "book name (full name)"),
+        ("bookshort", "book name (abbreviated) from ref attribute in xml"),
         ("case", "grammatical case"),
         ("chapter", "chapter number, from ref attribute in xml"),
-        ("class", "morphological class (on w); syntactical class (on wg)"),
-        ("clauseType", "clause type"),
+        ("class", "morphological class (on word); syntactical class (on sentence, group, clause, phrase or wg)"),
+        ("clausetype", "clause type"),
         ("cltype", "clause type"),
         ("crule", "clause rule (from xml attribute Rule)"),
         ("degree", "grammatical degree"),
@@ -130,7 +145,7 @@ def convertTaskCustom(self):
         ("ln", "ln"),
         ("mood", "verbal mood"),
         ("morph", "morphological code"),
-        ("nodeId", "node id (as in the XML source data"),
+        ("nodeid", "node id (as in the XML source data"),
         ("normalized", "lemma normalized"),
         (
             "num",
@@ -154,10 +169,10 @@ def convertTaskCustom(self):
         ("rule", "syntactical rule"),
         ("text", "the text of a word"),
         ("tense", "verbal tense"),
-        ("type", "morphological type (on w), syntactical type (on wg)"),
+        ("type", "morphological type (on word), syntactical type (on sentence, group, clause, phrase or wg)"),
         ("unicode", "word in unicode characters plus material after it"),
         ("verse", "verse number, from ref attribute in xml"),
-        ("voice", "verbal voice"),
+        ("voice", "verbal voice")
     )
     featureMeta = {k: dict(description=v) for (k, v) in featureMeta}
 
@@ -170,7 +185,7 @@ def convertTaskCustom(self):
     generic = self.generic
     generic["author"] = "Evangelists and apostles" #information about the authors and the version of the datasource
     generic["title"] = "Greek New Testament"
-    generic["institute"] = "ETCBC (Eep Talstra Centre for Bible and Computer)"
+    generic["institute"] = "ETCBC (Eep Talstra Centre for Bible and Computer), Andrews University"
     generic["converters"] = "Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda"
     generic["sourceFormat"] = "XML lowfat"
     generic["version"] = tfVersion
@@ -282,10 +297,10 @@ def getDirector(self):
             nest = False
 
         #condition for nesting extraNode phrase and clause
-        '''if extraNode is not None:
+        if extraNode is not None:
             nestablePhraseClause = extraNode[0] in {"phrase", "clause"}
         else:
-            nestablePhraseClause = False'''
+            nestablePhraseClause = False
 
         if curNode is not None:
             #parent features for curNode word and wg
@@ -295,10 +310,10 @@ def getDirector(self):
                     cv.edge(curNode, parentNode, parent=None)
             
             #parent features for extraNode phrase and clause
-            '''if len(cur['extraParent']):
+            if len(cur['extraParent']):
                 if nestablePhraseClause:
                     parentNode = cur['extraParent'][-1]
-                    cv.edge(extraNode, parentNode, parent=None)'''
+                    cv.edge(extraNode, parentNode, parent=None)
 
             #parent features for superNode phrase, clause, word, sentence and group
             if len(cur['superParentNode']):
@@ -309,12 +324,12 @@ def getDirector(self):
             cur[TNEST].append(curNode) #gleaning all the previous curNodes
 
             #gleaning all the previous extraNode
-            '''if curNode[0] == 'wg':
+            if curNode[0] == 'wg':
                 Node = extraNode
             else:
                 Node = curNode
 
-            cur['extraParent'].append(Node)'''
+            cur['extraParent'].append(Node)
 
             cur['superParentNode'].append(superNode) #gleaning all the previous superNodes
             
@@ -326,7 +341,7 @@ def getDirector(self):
                         cv.edge(sib, curNode, sibling=nSiblings - i)
                     siblings.append(curNode)
 
-            '''if len(cur['extraSib']):
+            if len(cur['extraSib']):
                 if nestablePhraseClause:
                     siblings = cur['extraSib'][-1]
                     nSiblings = len(siblings)
@@ -336,7 +351,7 @@ def getDirector(self):
                         else:
                             Node = curNode
                         cv.edge(sib, Node, sibling=nSiblings - i)
-                    siblings.append(Node)'''
+                    siblings.append(Node)
 
             if len(cur['superSib']):
                 if nest:
@@ -348,7 +363,7 @@ def getDirector(self):
 
             cur['superSib'].append([])        
             
-            '''cur['extraSib'].append([])'''
+            cur['extraSib'].append([])
 
             cur[TSIB].append([])
 
@@ -366,11 +381,11 @@ def getDirector(self):
             if len(cur[TSIB]):
                 cur[TSIB].pop()
         
-        '''if extraNode is not None:
+        if extraNode is not None:
             if len(cur['extraParent']):
                 cur['extraParent'].pop()
             if len(cur['extraSib']):
-                cur['extraSib'].pop()'''
+                cur['extraSib'].pop()
 
         if superNode is not None:
             if len(cur['superParentNode']):
@@ -427,9 +442,9 @@ def getDirector(self):
             atts["text"] = xnode.text #text shown in the conversor is provided by the text of the XML element
             
             unicode = atts.get('unicode')
-            after = atts.get('after') #renaming the after feature as punctuation
-
-            punctuation_signs = r"[ ,.;·]"
+            after = atts.get('after')
+            
+            #Definition of punctuation feature
             punctuation_matches = re.findall(punctuation_signs, after)
             atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
 
@@ -453,8 +468,6 @@ def getDirector(self):
             if unicode[-1] == "—":  # words that end with "—"
                 if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"}:
                     atts.update({'after': unicode[-2:], 'text': re.sub(r"[ ,.;·—()]", "", unicode)})
-                    punctuation_signs = r"[ ,.;·]"
-                    criticalsign_signs = r"[—()]"
                     punctuation_matches = re.findall(punctuation_signs, unicode)
                     criticalsign_matches = re.findall(criticalsign_signs, unicode)
                     atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
@@ -465,8 +478,6 @@ def getDirector(self):
             # words that end with two punctuation signs
             if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"} and unicode[-1] not in {"ὁ", "ὃ", "ὅ"}:
                 atts.update({'after': unicode[-2:], 'text': re.sub(r"[ ,.;·—()]", "", unicode)})
-                punctuation_signs = r"[ ,.;·]"
-                criticalsign_signs = r"[—()]"
                 punctuation_matches = re.findall(punctuation_signs, unicode)
                 criticalsign_matches = re.findall(criticalsign_signs, unicode)
                 atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
@@ -475,8 +486,6 @@ def getDirector(self):
             # words "ὁ", "ὃ", "ὅ"
             if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"} and unicode[-1] in {"ὁ", "ὃ", "ὅ"}:
                 atts['before'] = unicode[0]
-                punctuation_signs = r"[ ,.;·]"
-                criticalsign_signs = r"[—()]"
                 punctuation_matches = re.findall(punctuation_signs, unicode)
                 criticalsign_matches = re.findall(criticalsign_signs, unicode)
                 atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
@@ -492,7 +501,34 @@ def getDirector(self):
             # word that ends with "]"
             if unicode == "Ἐφέσῳ]":
                 atts.update({'after': "]", 'criticalsign': "]"})
+            
+            #updating lemma
+            lemma = atts.get('lemma')
+            txt = atts.get('text')
+            normalized = atts.get('normalized')
 
+            for character, replacement in character_substitution.items():
+                if character in lemma:
+                    lemma = lemma.replace(character, replacement)
+                    atts.update({'lemma': lemma})
+                if character in txt:
+                    txt = txt.replace(character, replacement)
+                    atts.update({'text': txt})
+                if character in unicode:
+                    unicode = unicode.replace(character, replacement)
+                    atts.update({'unicode': unicode})
+                if character in normalized:
+                    normalized = normalized.replace(character, replacement)
+                    atts.update({'normalized': normalized})
+
+            #dealing with variants in lemma
+            if "(I)" in lemma:
+                atts["variant"] = "1"
+                atts.update({'lemma': lemma[:-4]})
+            elif "(II)" in lemma:
+                atts["variant"] = "2"
+                atts.update({'lemma': lemma[:-5]})
+            
             #definition of attributes for the phrases and subphrases
             
             #atts_phrase={} #saving only specific features in the features of the phrase
@@ -538,9 +574,10 @@ def getDirector(self):
             ref = atts["ref"]
             (bRef, chRef, vRef, wRef) = SPLIT_REF.split(ref)
             if bRef in book_name:
-                atts["book_short"]=bRef
+                cur["bookshort"] = bRef
                 thisBook = book_name[bRef]
                 atts["book"] = thisBook
+            atts["bookshort"] = cur["bookshort"]
             atts["chapter"] = chRef
             atts["verse"] = vRef
             atts["num"] = wRef
@@ -599,7 +636,8 @@ def getDirector(self):
             if tag == "book":
                 cur["bookNum"] += 1
                 atts["num"] = cur["bookNum"]
-                atts["book_short"] = atts["id"] #defining the attribute book_short
+                atts["bookshort"] = atts["id"] #defining the attribute bookshort
+                cur["bookshort"] = atts["id"]
                 if atts["id"] in book_name: #including the attribute book for the whole name of the book
                     atts["book"] = book_name[atts["id"]]
                     cur['book'] = atts['book']
@@ -609,6 +647,7 @@ def getDirector(self):
                 cur["sentNum"] += 1
                 atts["num"] = cur["sentNum"]
                 atts['book'] = cur['book']
+                atts["bookshort"] = cur["bookshort"]
                 
             elif tag == "wg" and len(atts): #consider only wg tag with attributes
                 cls = atts.get("cls", None)
@@ -626,6 +665,7 @@ def getDirector(self):
                         cur["clNum"] += 1 #counting the number of the clauses
                         atts["num"] = cur["clNum"]
                         atts['book'] = cur['book']
+                        atts["bookshort"] = cur["bookshort"]
                             
                     else:
                         extraType = "phrase" #generate phrase container for the words within the wg tag
@@ -643,7 +683,7 @@ def getDirector(self):
                             atts["rela"] = "Appo"
 
                 else:
-                    if rule == "NpaNp":
+                    if rule == "NPofNP":
                         extraType = "phrase"
 
                         cur["phraseNum"] += 1 #counting the number of the phrases
@@ -656,6 +696,7 @@ def getDirector(self):
                         cur["clNum"] += 1
                         atts["num"] = cur["clNum"]
                         atts['book'] = cur['book']
+                        atts["bookshort"] = cur["bookshort"]
                     
                     #generate sentence container for specific attributes
                     elif type == "wrapper-clause-scope" or type == "modifier-clause-scope":
@@ -664,6 +705,7 @@ def getDirector(self):
                         cur["sentNum"] += 1 
                         atts["num"] = cur["sentNum"]
                         atts['book'] = cur['book']
+                        atts["bookshort"] = cur["bookshort"]
                     
                     elif rule in ["ClaCl", "ClCl", "ClClCl", "ClClClCl", "ClClClClCl", "ClClClClClCl", 
                                   "ClClClClClClCl", "ClClClClClClClCl", "ClClClClClClClClCl",
@@ -673,6 +715,7 @@ def getDirector(self):
                         cur["sentNum"] += 1 
                         atts["num"] = cur["sentNum"]
                         atts['book'] = cur['book']
+                        atts["bookshort"] = cur["bookshort"]
 
                     elif rule is not None and len(atts) == 1:
                         extraType = "sentence"
@@ -680,6 +723,7 @@ def getDirector(self):
                         cur["sentNum"] += 1
                         atts["num"] = cur["sentNum"]
                         atts['book'] = cur['book']
+                        atts["bookshort"] = cur["bookshort"]
 
                     #generate group container for specific attributes
                     elif type == "conjuncted-wg":
@@ -689,6 +733,7 @@ def getDirector(self):
                         cur["groupNum"] += 1
                         atts["num"] = cur["groupNum"]
                         atts['book'] = cur['book']
+                        atts["bookshort"] = cur["bookshort"]
 
                     elif type == "apposition-group":
                         extraType = "group"
@@ -697,6 +742,7 @@ def getDirector(self):
                         cur["groupNum"] += 1
                         atts["num"] = cur["groupNum"]
                         atts['book'] = cur['book']
+                        atts["bookshort"] = cur["bookshort"]
                     
                     else:
                         extraType = "phrase" #generate phrase container for the words that the clause feature is None
@@ -820,6 +866,7 @@ def getDirector(self):
                     cur['book'] = None
                     cur["chapter"] = None
                     cur["verse"] = None
+                    cur["bookshort"] = None
                     cur["sentNum"] = 0 #define number of the sentence
                     cur["groupNum"] = 0 #define number of the group
                     cur["clNum"] = 0 #define number of the clause
