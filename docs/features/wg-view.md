@@ -11,10 +11,10 @@ WG is an agnostic presentation.
 Swithing to a specific viewtype can be done using the command A.Viewtype(), which is specific to this dataset and automaticaly loaded upon invocation of the TF dataset.
 
 The relation between node types and view types is shown in the following table.
-View | Associated node types | 
+View | Invocation | Associated node types | 
 ---|---
-Wordgroup (this view) | [`wg`](featuresbynodetype.md#wordgroup-nodes) 
-[Syntactic](syntactic-view.md#start) | [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`clause`](featuresbynodetype.md#clause-nodes) [`group`](featuresbynodetype.md#group-nodes)
+Wordgroup (this view) | A.Viewtype('wg') | [`wg`](featuresbynodetype.md#wordgroup-nodes) 
+[Syntactic](syntactic-view.md#start) | A.Viewtype('syntax') [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`clause`](featuresbynodetype.md#clause-nodes) [`group`](featuresbynodetype.md#group-nodes)
 
 The following images show the different presentation of the syntax tree for the two views:
 
