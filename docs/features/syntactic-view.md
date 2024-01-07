@@ -6,13 +6,13 @@ default view (need to be implemented). Utilizes the terms common in linguistic r
 
 The two views are possible since in the database there is a replication of data.
 
-A.show() with option hiddenTypes={"wg"}
+Swithing to a specific viewtype can be done using the command A.view(), which is specific to this dataset and automaticaly loaded upon invocation of the TF dataset.
 
 The relation between node types and view types is shown in the following table.
-View | Associated node types | 
----|---
-[Wordgroup](wg-view.md#start) | [`wg`](featuresbynodetype.md#wordgroup-nodes) 
-Syntactical (this) | [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`clause`](featuresbynodetype.md#clause-nodes) [`group`](featuresbynodetype.md#group-nodes)
+View | Invocation | Associated node types | 
+--- | --- | ---
+[Wordgroup](wg-view.md#start) | A.Viewtype('wg') |  [`wg`](featuresbynodetype.md#wordgroup-nodes) 
+Syntactical (this) | A.Viewtype('syntax') | [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`clause`](featuresbynodetype.md#clause-nodes) [`group`](featuresbynodetype.md#group-nodes)
 
 <sup>Note: the node types  [`Word`](featuresbynodetype.md#word-nodes), [`Sentence`](featuresbynodetype.md#sentence-nodes), [`verse`](featuresbynodetype.md#verse-nodes), [`chapter`](featuresbynodetype.md#chapter-nodes), and [`Book`](featuresbynodetype.md#book-nodes)` are common for both views.</sup>
 
