@@ -7,7 +7,8 @@ Can be switched to when prefered.
 The two views are possible since in the database there is a replication of data.
 
 WG is an agnostic presentation. 
-A.show() with option hiddenTypes={"clause","group","subphrase","phrase"}
+
+Swithing to a specific viewtype can be done using the command A.Viewtype(), which is specific to this dataset and automaticaly loaded upon invocation of the TF dataset.
 
 The relation between node types and view types is shown in the following table.
 View | Associated node types | 
