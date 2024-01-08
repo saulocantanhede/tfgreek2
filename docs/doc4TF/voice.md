@@ -1,53 +1,29 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: voice</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#subphrase"><code>subphrase</code></A> <A HREF="featurebynodetype.md#phrase"><code>phrase</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>verbal voice</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>active</code></td>
-  <td>41484</td>
-</tr>
-<tr>
-  <td><code>passive</code></td>
-  <td>6986</td>
-</tr>
-<tr>
-  <td><code>middle</code></td>
-  <td>4816</td>
-</tr>
-<tr>
-  <td><code>middlepassive</code></td>
-  <td>3428</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: voice
+Data type|Feature type|Available for nodes
+---|---|---
+[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`phrase`](featurebynodetype.md#phrase)  [`subphrase`](featurebynodetype.md#subphrase)  [`word`](featurebynodetype.md#word) 
+## Description
+verbal voice
+## Feature Values
+### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
+Value|Occurenses
+---|---
+active|20174
+passive|3345
+middle|2358
+middlepassive|1669
+### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
+Value|Occurenses
+---|---
+active|20742
+passive|3493
+middle|2408
+middlepassive|1714
+### Frequency for nodetype [word](featurebynodetype.md#word)
+Value|Occurenses
+---|---
+active|20742
+passive|3493
+middle|2408
+middlepassive|1714

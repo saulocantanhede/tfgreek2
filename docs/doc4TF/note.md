@@ -1,41 +1,20 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: note</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#phrase"><code>phrase</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>annotation of linguistic nature</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>discontinuous discourse</code></td>
-  <td>2</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: note
+Data type|Feature type|Available for nodes
+---|---|---
+[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`phrase`](featurebynodetype.md#phrase)  [`subphrase`](featurebynodetype.md#subphrase)  [`word`](featurebynodetype.md#word) 
+## Description
+annotation of linguistic nature
+## Feature Values
+### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
+Value|Occurenses
+---|---
+discontinuous discourse|1
+### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
+Value|Occurenses
+---|---
+discontinuous discourse|1
+### Frequency for nodetype [word](featurebynodetype.md#word)
+Value|Occurenses
+---|---
+discontinuous discourse|1

@@ -1,12 +1,15 @@
 N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
-# Feature: lang
+# Feature: frame
 Data type|Feature type|Available for nodes
 ---|---|---
-[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`book`](featurebynodetype.md#book) 
+[`String`](featurebydatatype.md#string)|[`Edge`](featurebytype.md#edge)| [`word`](featurebynodetype.md#word) 
 ## Description
-language the text is in
+frame
 ## Feature Values
-### Frequency for nodetype [book](featurebynodetype.md#book)
+### Frequency for nodetype [word](featurebynodetype.md#word)
 Value|Occurenses
 ---|---
-el|27
+A0|25654
+A1|15570
+A2|2577
+AA2|92

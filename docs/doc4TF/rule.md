@@ -1,77 +1,78 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: rule</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#clause"><code>clause</code></A> <A HREF="featurebynodetype.md#wg"><code>wg</code></A> <A HREF="featurebynodetype.md#phrase"><code>phrase</code></A> <A HREF="featurebynodetype.md#group"><code>group</code></A> <A HREF="featurebynodetype.md#sentence"><code>sentence</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>syntactical rule</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>DetNP</code></td>
-  <td>31392</td>
-</tr>
-<tr>
-  <td><code>PrepNp</code></td>
-  <td>22088</td>
-</tr>
-<tr>
-  <td><code>NPofNP</code></td>
-  <td>13638</td>
-</tr>
-<tr>
-  <td><code>Conj-CL</code></td>
-  <td>11152</td>
-</tr>
-<tr>
-  <td><code>CLaCL</code></td>
-  <td>7658</td>
-</tr>
-<tr>
-  <td><code>sub-CL</code></td>
-  <td>6058</td>
-</tr>
-<tr>
-  <td><code>V2CL</code></td>
-  <td>5686</td>
-</tr>
-<tr>
-  <td><code>V-O</code></td>
-  <td>5450</td>
-</tr>
-<tr>
-  <td><code>DetCL</code></td>
-  <td>4022</td>
-</tr>
-<tr>
-  <td><code>Np-Appos</code></td>
-  <td>3816</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: rule
+Data type|Feature type|Available for nodes
+---|---|---
+[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`sentence`](featurebynodetype.md#sentence)  [`group`](featurebynodetype.md#group)  [`clause`](featurebynodetype.md#clause)  [`wg`](featurebynodetype.md#wg)  [`phrase`](featurebynodetype.md#phrase)  [`subphrase`](featurebynodetype.md#subphrase) 
+## Description
+syntactical rule
+## Feature Values
+### Frequency for nodetype [sentence](featurebynodetype.md#sentence)
+Value|Occurenses
+---|---
+Conj-CL|5574
+sub-CL|3015
+DetCL|2011
+ClCl|1552
+that-VP|889
+ClCl2|882
+PtclCL|468
+CLaCL|395
+AdvpCL|56
+V-O|51
+### Frequency for nodetype [group](featurebynodetype.md#group)
+Value|Occurenses
+---|---
+NP-CL|874
+CL-NP|15
+### Frequency for nodetype [clause](featurebynodetype.md#clause)
+Value|Occurenses
+---|---
+V2CL|2842
+V-O|2674
+V-ADV|1675
+ADV-V|1100
+O-V|1064
+Np2CL|780
+ADV-V-O|628
+S-V|626
+V-S|603
+V-O-ADV|531
+### Frequency for nodetype [wg](featurebynodetype.md#wg)
+Value|Occurenses
+---|---
+DetNP|15696
+PrepNp|11044
+NPofNP|6819
+Conj-CL|5576
+CLaCL|3829
+sub-CL|3029
+V2CL|2843
+V-O|2725
+DetCL|2011
+Np-Appos|1908
+### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
+Value|Occurenses
+---|---
+DetNP|15696
+PrepNp|11044
+NPofNP|6819
+CLaCL|3110
+Np-Appos|1908
+NpAdjp|1371
+AdjpNp|1368
+NpaNp|1366
+DetAdj|1282
+All-NP|846
+### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
+Value|Occurenses
+---|---
+DetNP|15696
+PrepNp|11044
+NPofNP|6819
+CLaCL|3110
+Np-Appos|1908
+NpAdjp|1371
+AdjpNp|1368
+NpaNp|1366
+DetAdj|1282
+All-NP|846

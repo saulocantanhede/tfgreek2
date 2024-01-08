@@ -1,77 +1,73 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: type</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#clause"><code>clause</code></A> <A HREF="featurebynodetype.md#subphrase"><code>subphrase</code></A> <A HREF="featurebynodetype.md#wg"><code>wg</code></A> <A HREF="featurebynodetype.md#phrase"><code>phrase</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A> <A HREF="featurebynodetype.md#group"><code>group</code></A> <A HREF="featurebynodetype.md#sentence"><code>sentence</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>morphological type (on w), syntactical type (on wg)</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>modifier-scope</code></td>
-  <td>59290</td>
-</tr>
-<tr>
-  <td><code>common</code></td>
-  <td>47288</td>
-</tr>
-<tr>
-  <td><code>wrapper-clause-scope</code></td>
-  <td>24332</td>
-</tr>
-<tr>
-  <td><code>personal</code></td>
-  <td>23042</td>
-</tr>
-<tr>
-  <td><code>wrapper-scope</code></td>
-  <td>22528</td>
-</tr>
-<tr>
-  <td><code>conjuncted-wg</code></td>
-  <td>16150</td>
-</tr>
-<tr>
-  <td><code>group</code></td>
-  <td>9914</td>
-</tr>
-<tr>
-  <td><code>proper</code></td>
-  <td>9278</td>
-</tr>
-<tr>
-  <td><code>demonstrative</code></td>
-  <td>3444</td>
-</tr>
-<tr>
-  <td><code>modifier-clause-scope</code></td>
-  <td>3424</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: type
+Data type|Feature type|Available for nodes
+---|---|---
+[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`sentence`](featurebynodetype.md#sentence)  [`group`](featurebynodetype.md#group)  [`clause`](featurebynodetype.md#clause)  [`wg`](featurebynodetype.md#wg)  [`phrase`](featurebynodetype.md#phrase)  [`subphrase`](featurebynodetype.md#subphrase)  [`word`](featurebynodetype.md#word) 
+## Description
+morphological type (on word), syntactical type (on sentence, group, clause, phrase or wg)
+## Feature Values
+### Frequency for nodetype [sentence](featurebynodetype.md#sentence)
+Value|Occurenses
+---|---
+wrapper-clause-scope|12039
+group|2525
+apposition-group|1
+### Frequency for nodetype [group](featurebynodetype.md#group)
+Value|Occurenses
+---|---
+conjuncted-wg|8075
+apposition-group|889
+### Frequency for nodetype [clause](featurebynodetype.md#clause)
+Value|Occurenses
+---|---
+wrapper-clause-scope|127
+group|43
+apposition-group|1
+### Frequency for nodetype [wg](featurebynodetype.md#wg)
+Value|Occurenses
+---|---
+modifier-scope|29645
+wrapper-clause-scope|12166
+wrapper-scope|11264
+conjuncted-wg|8075
+group|4957
+modifier-clause-scope|1712
+apposition-group|891
+### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
+Value|Occurenses
+---|---
+modifier-scope|29645
+wrapper-scope|11264
+personal|5888
+common|2473
+group|2389
+modifier-clause-scope|1712
+relative|1364
+demonstrative|744
+proper|743
+interrogative|480
+### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
+Value|Occurenses
+---|---
+modifier-scope|29645
+common|23644
+personal|11521
+wrapper-scope|11264
+proper|4639
+group|2389
+demonstrative|1722
+modifier-clause-scope|1712
+relative|1674
+interrogative|633
+### Frequency for nodetype [word](featurebynodetype.md#word)
+Value|Occurenses
+---|---
+common|23644
+personal|11521
+proper|4639
+demonstrative|1722
+relative|1674
+interrogative|633
+indefinite|552
+possessive|70
+adverbial|3

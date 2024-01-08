@@ -1,65 +1,39 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: typ</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#phrase"><code>phrase</code></A> <A HREF="featurebynodetype.md#wg"><code>wg</code></A> <A HREF="featurebynodetype.md#group"><code>group</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>this is XML attribute typ</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>NP</code></td>
-  <td>61822</td>
-</tr>
-<tr>
-  <td><code>PP</code></td>
-  <td>22338</td>
-</tr>
-<tr>
-  <td><code>conjuncted</code></td>
-  <td>16150</td>
-</tr>
-<tr>
-  <td><code>apposition</code></td>
-  <td>1778</td>
-</tr>
-<tr>
-  <td><code>VP</code></td>
-  <td>414</td>
-</tr>
-<tr>
-  <td><code>AdjP</code></td>
-  <td>336</td>
-</tr>
-<tr>
-  <td><code>AdvP</code></td>
-  <td>332</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: typ
+Data type|Feature type|Available for nodes
+---|---|---
+[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`group`](featurebynodetype.md#group)  [`wg`](featurebynodetype.md#wg)  [`phrase`](featurebynodetype.md#phrase)  [`subphrase`](featurebynodetype.md#subphrase) 
+## Description
+this is XML attribute typ
+## Feature Values
+### Frequency for nodetype [group](featurebynodetype.md#group)
+Value|Occurenses
+---|---
+conjuncted|8075
+apposition|889
+### Frequency for nodetype [wg](featurebynodetype.md#wg)
+Value|Occurenses
+---|---
+NP|30911
+PP|11169
+conjuncted|8075
+apposition|889
+VP|207
+AdjP|168
+AdvP|166
+### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
+Value|Occurenses
+---|---
+NP|30911
+PP|11169
+VP|207
+AdjP|168
+AdvP|166
+### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
+Value|Occurenses
+---|---
+NP|30911
+PP|11169
+VP|207
+AdjP|168
+AdvP|166

@@ -1,45 +1,23 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: crule</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#clause"><code>clause</code></A> <A HREF="featurebynodetype.md#wg"><code>wg</code></A> <A HREF="featurebynodetype.md#sentence"><code>sentence</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>clause rule (from xml attribute Rule)</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>ClCl</code></td>
-  <td>8616</td>
-</tr>
-<tr>
-  <td><code>ClCl2</code></td>
-  <td>2500</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: crule
+Data type|Feature type|Available for nodes
+---|---|---
+[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`sentence`](featurebynodetype.md#sentence)  [`clause`](featurebynodetype.md#clause)  [`wg`](featurebynodetype.md#wg) 
+## Description
+clause rule (from xml attribute Rule)
+## Feature Values
+### Frequency for nodetype [sentence](featurebynodetype.md#sentence)
+Value|Occurenses
+---|---
+ClCl|619
+ClCl2|219
+### Frequency for nodetype [clause](featurebynodetype.md#clause)
+Value|Occurenses
+---|---
+ClCl|3689
+ClCl2|1031
+### Frequency for nodetype [wg](featurebynodetype.md#wg)
+Value|Occurenses
+---|---
+ClCl|4308
+ClCl2|1250

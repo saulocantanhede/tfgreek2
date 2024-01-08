@@ -1,33 +1,36 @@
 N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
-# Feature: junction
+# Feature: parent
 Data type|Feature type|Available for nodes
 ---|---|---
-[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`sentence`](featurebynodetype.md#sentence)  [`clause`](featurebynodetype.md#clause)  [`wg`](featurebynodetype.md#wg)  [`phrase`](featurebynodetype.md#phrase)  [`subphrase`](featurebynodetype.md#subphrase) 
+[`String`](featurebydatatype.md#string)|[`Edge`](featurebytype.md#edge)| [`sentence`](featurebynodetype.md#sentence)  [`group`](featurebynodetype.md#group)  [`clause`](featurebynodetype.md#clause)  [`wg`](featurebynodetype.md#wg)  [`phrase`](featurebynodetype.md#phrase)  [`subphrase`](featurebynodetype.md#subphrase)  [`word`](featurebynodetype.md#word) 
 ## Description
-type of junction
+parent relationship between words
 ## Feature Values
 ### Frequency for nodetype [sentence](featurebynodetype.md#sentence)
 Value|Occurenses
 ---|---
-coordinate|493
-subordinate|404
+Link|16630
+### Frequency for nodetype [group](featurebynodetype.md#group)
+Value|Occurenses
+---|---
+Link|8964
 ### Frequency for nodetype [clause](featurebynodetype.md#clause)
 Value|Occurenses
 ---|---
-coordinate|8186
-subordinate|7449
+Link|30479
 ### Frequency for nodetype [wg](featurebynodetype.md#wg)
 Value|Occurenses
 ---|---
-coordinate|9367
-subordinate|8554
+Link|106867
 ### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
 Value|Occurenses
 ---|---
-subordinate|701
-coordinate|688
+Link|115729
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
 Value|Occurenses
 ---|---
-subordinate|701
-coordinate|688
+Link|115729
+### Frequency for nodetype [word](featurebynodetype.md#word)
+Value|Occurenses
+---|---
+Link|551116

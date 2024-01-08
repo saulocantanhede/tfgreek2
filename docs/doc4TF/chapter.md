@@ -1,77 +1,47 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: chapter</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>integer</code></td>
-  <td><A HREF="featurebynodetype.md#verse"><code>verse</code></A> <A HREF="featurebynodetype.md#chapter"><code>chapter</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>chapter number, from ref attribute in xml</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>1</code></td>
-  <td>12403</td>
-</tr>
-<tr>
-  <td><code>2</code></td>
-  <td>10434</td>
-</tr>
-<tr>
-  <td><code>3</code></td>
-  <td>9155</td>
-</tr>
-<tr>
-  <td><code>4</code></td>
-  <td>9136</td>
-</tr>
-<tr>
-  <td><code>5</code></td>
-  <td>8307</td>
-</tr>
-<tr>
-  <td><code>6</code></td>
-  <td>7157</td>
-</tr>
-<tr>
-  <td><code>9</code></td>
-  <td>6759</td>
-</tr>
-<tr>
-  <td><code>7</code></td>
-  <td>6685</td>
-</tr>
-<tr>
-  <td><code>11</code></td>
-  <td>6617</td>
-</tr>
-<tr>
-  <td><code>12</code></td>
-  <td>6571</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: chapter
+Data type|Feature type|Available for nodes
+---|---|---
+[`Integer`](featurebydatatype.md#integer)|[`Node`](featurebytype.md#node)| [`chapter`](featurebynodetype.md#chapter)  [`verse`](featurebynodetype.md#verse)  [`word`](featurebynodetype.md#word) 
+## Description
+chapter number, from ref attribute in xml
+## Feature Values
+### Frequency for nodetype [chapter](featurebynodetype.md#chapter)
+Value|Occurenses
+---|---
+1|27
+2|23
+3|23
+4|20
+5|17
+6|13
+7|10
+8|10
+9|10
+10|10
+### Frequency for nodetype [verse](featurebynodetype.md#verse)
+Value|Occurenses
+---|---
+1|691
+2|575
+3|522
+4|510
+5|469
+6|386
+11|365
+9|356
+7|354
+10|348
+### Frequency for nodetype [word](featurebynodetype.md#word)
+Value|Occurenses
+---|---
+1|11685
+2|9836
+3|8610
+4|8606
+5|7821
+6|6758
+9|6393
+7|6321
+11|6242
+12|6213

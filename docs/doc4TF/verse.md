@@ -1,77 +1,34 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: verse</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>integer</code></td>
-  <td><A HREF="featurebynodetype.md#verse"><code>verse</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>verse number, from ref attribute in xml</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>10</code></td>
-  <td>4928</td>
-</tr>
-<tr>
-  <td><code>12</code></td>
-  <td>4910</td>
-</tr>
-<tr>
-  <td><code>4</code></td>
-  <td>4800</td>
-</tr>
-<tr>
-  <td><code>9</code></td>
-  <td>4800</td>
-</tr>
-<tr>
-  <td><code>1</code></td>
-  <td>4794</td>
-</tr>
-<tr>
-  <td><code>3</code></td>
-  <td>4768</td>
-</tr>
-<tr>
-  <td><code>5</code></td>
-  <td>4757</td>
-</tr>
-<tr>
-  <td><code>11</code></td>
-  <td>4734</td>
-</tr>
-<tr>
-  <td><code>8</code></td>
-  <td>4727</td>
-</tr>
-<tr>
-  <td><code>2</code></td>
-  <td>4723</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: verse
+Data type|Feature type|Available for nodes
+---|---|---
+[`Integer`](featurebydatatype.md#integer)|[`Node`](featurebytype.md#node)| [`verse`](featurebynodetype.md#verse)  [`word`](featurebynodetype.md#word) 
+## Description
+verse number, from ref attribute in xml
+## Feature Values
+### Frequency for nodetype [verse](featurebynodetype.md#verse)
+Value|Occurenses
+---|---
+1|261
+2|260
+3|260
+4|260
+5|260
+6|260
+8|260
+7|259
+9|259
+10|259
+### Frequency for nodetype [word](featurebynodetype.md#word)
+Value|Occurenses
+---|---
+10|4669
+12|4655
+9|4541
+4|4540
+1|4533
+3|4508
+5|4497
+11|4478
+8|4467
+2|4463

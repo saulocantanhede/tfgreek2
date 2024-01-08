@@ -1,77 +1,47 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: domain</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#subphrase"><code>subphrase</code></A> <A HREF="featurebynodetype.md#phrase"><code>phrase</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>domain</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>092004</code></td>
-  <td>52258</td>
-</tr>
-<tr>
-  <td><code>089017</code></td>
-  <td>8740</td>
-</tr>
-<tr>
-  <td><code>093001</code></td>
-  <td>7342</td>
-</tr>
-<tr>
-  <td><code>033006</code></td>
-  <td>6446</td>
-</tr>
-<tr>
-  <td><code>012001</code></td>
-  <td>6000</td>
-</tr>
-<tr>
-  <td><code>089015</code></td>
-  <td>5620</td>
-</tr>
-<tr>
-  <td><code>092003</code></td>
-  <td>4888</td>
-</tr>
-<tr>
-  <td><code>069002</code></td>
-  <td>3714</td>
-</tr>
-<tr>
-  <td><code>092001</code></td>
-  <td>3690</td>
-</tr>
-<tr>
-  <td><code>089023</code></td>
-  <td>3560</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: domain
+Data type|Feature type|Available for nodes
+---|---|---
+[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`phrase`](featurebynodetype.md#phrase)  [`subphrase`](featurebynodetype.md#subphrase)  [`word`](featurebynodetype.md#word) 
+## Description
+domain
+## Feature Values
+### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
+Value|Occurenses
+---|---
+092004|3986
+089017|3949
+089015|2809
+033006|2791
+089023|1752
+013001|1556
+069002|1428
+089007|1291
+092003|1277
+092001|942
+### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
+Value|Occurenses
+---|---
+092004|26129
+089017|4370
+093001|3671
+033006|3223
+012001|3000
+089015|2810
+092003|2444
+069002|1857
+092001|1845
+089023|1780
+### Frequency for nodetype [word](featurebynodetype.md#word)
+Value|Occurenses
+---|---
+092004|26129
+089017|4370
+093001|3671
+033006|3223
+012001|3000
+089015|2810
+092003|2444
+069002|1857
+092001|1845
+089023|1780

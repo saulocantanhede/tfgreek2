@@ -1,57 +1,32 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: case</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#subphrase"><code>subphrase</code></A> <A HREF="featurebynodetype.md#phrase"><code>phrase</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>grammatical case</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>nominative</code></td>
-  <td>48394</td>
-</tr>
-<tr>
-  <td><code>accusative</code></td>
-  <td>46062</td>
-</tr>
-<tr>
-  <td><code>genitive</code></td>
-  <td>39030</td>
-</tr>
-<tr>
-  <td><code>dative</code></td>
-  <td>24252</td>
-</tr>
-<tr>
-  <td><code>vocative</code></td>
-  <td>1298</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: case
+Data type|Feature type|Available for nodes
+---|---|---
+[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`phrase`](featurebynodetype.md#phrase)  [`subphrase`](featurebynodetype.md#subphrase)  [`word`](featurebynodetype.md#word) 
+## Description
+grammatical case
+## Feature Values
+### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
+Value|Occurenses
+---|---
+nominative|9617
+accusative|6175
+dative|3268
+genitive|1411
+vocative|441
+### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
+Value|Occurenses
+---|---
+nominative|24197
+accusative|23031
+genitive|19515
+dative|12126
+vocative|649
+### Frequency for nodetype [word](featurebynodetype.md#word)
+Value|Occurenses
+---|---
+nominative|24197
+accusative|23031
+genitive|19515
+dative|12126
+vocative|649

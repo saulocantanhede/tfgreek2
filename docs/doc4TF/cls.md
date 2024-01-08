@@ -1,77 +1,67 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: cls</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#clause"><code>clause</code></A> <A HREF="featurebynodetype.md#subphrase"><code>subphrase</code></A> <A HREF="featurebynodetype.md#wg"><code>wg</code></A> <A HREF="featurebynodetype.md#phrase"><code>phrase</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A> <A HREF="featurebynodetype.md#sentence"><code>sentence</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>this is XML attribute cls</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>np</code></td>
-  <td>61822</td>
-</tr>
-<tr>
-  <td><code>cl</code></td>
-  <td>60304</td>
-</tr>
-<tr>
-  <td><code>noun</code></td>
-  <td>56910</td>
-</tr>
-<tr>
-  <td><code>verb</code></td>
-  <td>56714</td>
-</tr>
-<tr>
-  <td><code>det</code></td>
-  <td>39572</td>
-</tr>
-<tr>
-  <td><code>conj</code></td>
-  <td>36456</td>
-</tr>
-<tr>
-  <td><code>pron</code></td>
-  <td>32354</td>
-</tr>
-<tr>
-  <td><code>pp</code></td>
-  <td>22338</td>
-</tr>
-<tr>
-  <td><code>prep</code></td>
-  <td>21828</td>
-</tr>
-<tr>
-  <td><code>adj</code></td>
-  <td>16904</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: cls
+Data type|Feature type|Available for nodes
+---|---|---
+[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`sentence`](featurebynodetype.md#sentence)  [`clause`](featurebynodetype.md#clause)  [`wg`](featurebynodetype.md#wg)  [`phrase`](featurebynodetype.md#phrase)  [`subphrase`](featurebynodetype.md#subphrase)  [`word`](featurebynodetype.md#word) 
+## Description
+this is XML attribute cls
+## Feature Values
+### Frequency for nodetype [sentence](featurebynodetype.md#sentence)
+Value|Occurenses
+---|---
+cl|1476
+### Frequency for nodetype [clause](featurebynodetype.md#clause)
+Value|Occurenses
+---|---
+cl|28676
+### Frequency for nodetype [wg](featurebynodetype.md#wg)
+Value|Occurenses
+---|---
+np|30911
+cl|30152
+pp|11169
+vp|207
+adjp|168
+advp|166
+adv|7
+nump|7
+conj|1
+### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
+Value|Occurenses
+---|---
+np|30911
+verb|27546
+conj|18228
+pp|11169
+pron|8754
+adv|4391
+noun|3238
+adj|2344
+det|257
+vp|207
+### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
+Value|Occurenses
+---|---
+np|30911
+noun|28455
+verb|28357
+det|19786
+conj|18228
+pron|16177
+pp|11169
+prep|10914
+adj|8452
+adv|6154
+### Frequency for nodetype [word](featurebynodetype.md#word)
+Value|Occurenses
+---|---
+noun|28455
+verb|28357
+det|19786
+conj|18227
+pron|16177
+prep|10914
+adj|8452
+adv|6147
+ptcl|773
+num|476

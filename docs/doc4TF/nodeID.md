@@ -1,77 +1,47 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: nodeId</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>integer</code></td>
-  <td><A HREF="featurebynodetype.md#clause"><code>clause</code></A> <A HREF="featurebynodetype.md#wg"><code>wg</code></A> <A HREF="featurebynodetype.md#sentence"><code>sentence</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>node id (as in the XML source data</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>400010200010490</code></td>
-  <td>2</td>
-</tr>
-<tr>
-  <td><code>400010200120390</code></td>
-  <td>2</td>
-</tr>
-<tr>
-  <td><code>400010200130100</code></td>
-  <td>2</td>
-</tr>
-<tr>
-  <td><code>400010210050150</code></td>
-  <td>2</td>
-</tr>
-<tr>
-  <td><code>400010220140230</code></td>
-  <td>2</td>
-</tr>
-<tr>
-  <td><code>400010230010220</code></td>
-  <td>2</td>
-</tr>
-<tr>
-  <td><code>400020010140270</code></td>
-  <td>2</td>
-</tr>
-<tr>
-  <td><code>400020020010200</code></td>
-  <td>2</td>
-</tr>
-<tr>
-  <td><code>400020050010370</code></td>
-  <td>2</td>
-</tr>
-<tr>
-  <td><code>400020050090290</code></td>
-  <td>2</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: nodeid
+Data type|Feature type|Available for nodes
+---|---|---
+[`Integer`](featurebydatatype.md#integer)|[`Node`](featurebytype.md#node)| [`sentence`](featurebynodetype.md#sentence)  [`clause`](featurebynodetype.md#clause)  [`wg`](featurebynodetype.md#wg) 
+## Description
+node id (as in the XML source data
+## Feature Values
+### Frequency for nodetype [sentence](featurebynodetype.md#sentence)
+Value|Occurenses
+---|---
+400040070010120|1
+400040100010070|1
+400050030010120|1
+400050040010060|1
+400050050010080|1
+400050060010100|1
+400050070010060|1
+400050080010100|1
+400050100010120|1
+400050120010110|1
+### Frequency for nodetype [clause](featurebynodetype.md#clause)
+Value|Occurenses
+---|---
+400010200010490|1
+400010200120390|1
+400010200130100|1
+400010210050150|1
+400010220140230|1
+400010230010220|1
+400020010140270|1
+400020020010200|1
+400020050010370|1
+400020050090290|1
+### Frequency for nodetype [wg](featurebynodetype.md#wg)
+Value|Occurenses
+---|---
+400010200010490|1
+400010200120390|1
+400010200130100|1
+400010210050150|1
+400010220140230|1
+400010230010220|1
+400020010140270|1
+400020020010200|1
+400020050010370|1
+400020050090290|1

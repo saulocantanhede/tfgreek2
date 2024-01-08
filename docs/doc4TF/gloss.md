@@ -1,77 +1,47 @@
-<p>N1904 Greek New Testament Text-Fabric dataset <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.3</a></p>
-
-<h1>Feature: gloss</h1>
-
-<table>
-<thead>
-<tr>
-  <th>Data type</th>
-  <th>Available for node types</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>string</code></td>
-  <td><A HREF="featurebynodetype.md#subphrase"><code>subphrase</code></A> <A HREF="featurebynodetype.md#phrase"><code>phrase</code></A> <A HREF="featurebynodetype.md#word"><code>word</code></A></td>
-</tr>
-</tbody>
-</table>
-
-<h2>Description</h2>
-
-<p>short translation</p>
-
-<h2>Values</h2>
-
-<table>
-<thead>
-<tr>
-  <th>Value</th>
-  <th>Frequency</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td><code>the</code></td>
-  <td>19714</td>
-</tr>
-<tr>
-  <td><code>and</code></td>
-  <td>12424</td>
-</tr>
-<tr>
-  <td><code>-</code></td>
-  <td>10992</td>
-</tr>
-<tr>
-  <td><code>in</code></td>
-  <td>4640</td>
-</tr>
-<tr>
-  <td><code>And</code></td>
-  <td>4436</td>
-</tr>
-<tr>
-  <td><code>not</code></td>
-  <td>4084</td>
-</tr>
-<tr>
-  <td><code>of the</code></td>
-  <td>3102</td>
-</tr>
-<tr>
-  <td><code>for</code></td>
-  <td>3002</td>
-</tr>
-<tr>
-  <td><code>that</code></td>
-  <td>2996</td>
-</tr>
-<tr>
-  <td><code>you</code></td>
-  <td>2452</td>
-</tr>
-</tbody>
-</table>
-
-<p>Note: only the first 10 items are shown</p>
+N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+# Feature: gloss
+Data type|Feature type|Available for nodes
+---|---|---
+[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`phrase`](featurebynodetype.md#phrase)  [`subphrase`](featurebynodetype.md#subphrase)  [`word`](featurebynodetype.md#word) 
+## Description
+short translation
+## Feature Values
+### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
+Value|Occurenses
+---|---
+and|6198
+And|2204
+not|1624
+that|1205
+for|1071
+now|951
+then|875
+however|736
+you|668
+is|578
+### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
+Value|Occurenses
+---|---
+the|9857
+and|6212
+-|5496
+in|2320
+And|2218
+not|2042
+of the|1551
+for|1501
+that|1498
+you|1226
+### Frequency for nodetype [word](featurebynodetype.md#word)
+Value|Occurenses
+---|---
+the|9857
+and|6212
+-|5496
+in|2320
+And|2218
+not|2042
+of the|1551
+for|1501
+that|1498
+you|1226
