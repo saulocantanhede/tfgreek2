@@ -1,4 +1,4 @@
-# Feature: book_short <a name="start"></a>
+# Feature: bookshort <a name="start"></a>
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | --- 
@@ -10,7 +10,7 @@ Book name (abbreviated)
 
 ## Feature values
 
-This feature: book_short | feature: [book](book.md#README) | feature: [num](num.md)
+This feature: bookshort | feature: [book](book.md#README) | feature: [num](num.md)
 --- | --- | ---
 MAT | Matthew | 1
 MRK | Mark | 2
