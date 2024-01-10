@@ -12,15 +12,15 @@ Sequential number for node type.
 
 For node type:
   * [`book`](featuresbynodetype.md#book-nodes): Sequence within the Greek New Testament corpus (Matthew=1, Mark=2, ..., Revelation=27)
-  * [`chapter`](featuresbynodetype.md#chapter-nodes): Chapter number in book
+  * [`chapter`](featuresbynodetype.md#chapter-nodes): Chapter number in book.
   * [`phrase`](featuresbynodetype.md#phrase-nodes):
-  * [`sentence`](featuresbynodetype.md#sentence-nodes): Sentence number within chapter
+  * [`sentence`](featuresbynodetype.md#sentence-nodes): Sentence number within chapter.
   * [`subphrase`](featuresbynodetype.md#subphrase-nodes):
-  * [`word`](featuresbynodetype.md#word-nodes): Word numbered inside verse (?)
+  * [`word`](featuresbynodetype.md#word-nodes): Word numbered inside verse.
 
 ## Source description
 
-Calculated.
+Calculated (not in source xml).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
