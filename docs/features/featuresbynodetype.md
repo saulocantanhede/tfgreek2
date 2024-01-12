@@ -3,17 +3,17 @@
 
 This Text-Fabric dataset contains the following node types:
 * [137779 `word` nodes](#word-nodes): represents individual words in the text.
-* [106868 `wg` (wordgroup) nodes](#wordgroup-nodes): collection or grouping of words that form a cohesive unit. It can be any of the following:
-    * [72845 `subphrase` nodes](#subphrase-nodes)
-    * [113750 `phrase` nodes](#phrase-nodes)
-    * [30479 `clause` nodes](#clause-nodes)
-    * [8964 `group` nodes](#group-nodes)
-* [18609 `sentence` nodes](#sentence-nodes)
-* [7944 `verse` nodes](#verse-nodes)
-* [260 `chapter`nodes](#chapter-nodes)
-* [27 `book` nodes](#book-nodes)
+* [106868 `wg` (wordgroup) nodes](#wordgroup-nodes): each node represents a group of words that form a cohesive unit. Each is paired with one of the following node types:
+    * [72845 `subphrase` nodes](#subphrase-nodes): 
+    * [113750 `phrase` nodes](#phrase-nodes): 
+    * [30479 `clause` nodes](#clause-nodes): 
+    * [8964 `group` nodes](#group-nodes):
+* [18609 `sentence` nodes](#sentence-nodes): each node represents a single sentence.
+* [7944 `verse` nodes](#verse-nodes): each node represents a single verse.
+* [260 `chapter`nodes](#chapter-nodes): each node represents a single chapter.
+* [27 `book` nodes](#book-nodes): each node represents a single book.
 
-Below are all node features listed: 
+All node features are listed below grouped by node type: 
 
 ## Word nodes 
 
