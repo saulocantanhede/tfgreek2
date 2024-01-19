@@ -30,14 +30,25 @@ role_features_wg = {"io": "Cmpl",
                  "o2": "Objc",
                  "p": "PreC",
                  "s": "Subj",
-                 "vc": "Pred"}
+                 "vc": "PreC",
+                 "adv": "Cmpl"}
 
 role_features_word = {"io": "Cmpl",
                  "o": "Objc",
                  "o2": "Objc",
                  "v": "Pred",
                  "s": "Subj",
-                 "p": "PreC"}
+                 "p": "PreC",
+                 "adv": "Cmpl"}
+
+clause_features = {"ADV": "Cmpl",
+                   "IO": "Cmpl",
+                   "O": "Obj",
+                   "O2": "Obj",
+                   "P": "PreC",
+                   "S": "Subj",
+                   "V": "Pred",
+                   "VC": "PreC"}
 
 character_substitution = {'ά': 'ά',
                           'έ': 'έ',
@@ -51,6 +62,11 @@ character_substitution = {'ά': 'ά',
 
 punctuation_signs = r"[ ,.;·]"
 criticalsign_signs = r"[—()]"
+
+cl_dictionary = ["CLaCL", "CLa2CL", "CLandCL2", "CLandClClandClandClandCl",
+                 "ClCl", "ClClCl", "ClClClCl", "ClClClClCl", "ClClClClClCl", 
+                "ClClClClClClCl", "ClClClClClClClCl", "ClClClClClClClClCl",
+                "ClClClClClClClClCl", "ClClClClClClClClClCl", "ClClClClClClClClClClClCl", "ClCl2"]
 
 def convertTaskCustom(self):
     """Implementation of the "convert" task.
@@ -114,7 +130,7 @@ def convertTaskCustom(self):
         "articular",
         "chapter",
         "discontinuous",
-        "nodeId",
+        "nodeid",
         "num",
         "strong",
         "verse",
@@ -562,6 +578,11 @@ def getDirector(self):
             
             if role in role_features_word:
                 atts_phrase["function"] = role_features_word[role]
+            else: #when a phrase does not contain a function element it is classified as subphrase
+                extraType = "subphrase"
+
+                cur["subphraseNum"] += 1 #counting the number of the subphrases
+                atts_phrase["num"] = cur["subphraseNum"]
             
             if role == "apposition":
                 atts_phrase["rela"] = "Appo"
@@ -652,15 +673,30 @@ def getDirector(self):
             elif tag == "wg" and len(atts): #consider only wg tag with attributes
                 cls = atts.get("cls", None)
                 role = atts.get("role", None)
-                clauseType = atts.get("clauseType", None)
                 type = atts.get("type", None)
                 rule = atts.get("rule", None)
                 cltype = atts.get("cltype", None)
                 crule = atts.get("crule", None)
+                clausetype = atts.get("clauseType", None)
+                
+                #fixing features with capital letters in the middle of the word
+                atts["clauseType"] = atts.get("clauseType")
+                if atts["clauseType"] is not None:
+                    atts["clausetype"] = atts["clauseType"]
+                    del atts["clauseType"]
+                atts["nodeId"] = atts.get("nodeId")
+                if atts["nodeId"] is not None:
+                    atts["nodeid"] = atts["nodeId"]
+                    del atts["nodeId"]
 
                 if cls is not None:
                     if cls == "cl":
                         extraType = "clause" #generate clause container from the wg tag
+
+                        if rule is not None:
+                            std= "|".join(r'\b' + re.escape(keey) + r'\b' for keey in clause_features.keys())
+                            subs = lambda match: clause_features[match.group(0)]
+                            atts["function"] = re.sub(std, subs, rule)
                         
                         cur["clNum"] += 1 #counting the number of the clauses
                         atts["num"] = cur["clNum"]
@@ -678,6 +714,11 @@ def getDirector(self):
                         
                         if role in role_features_wg:
                             atts["function"] = role_features_wg[role]
+                        else: #when a phrase does not contain a function element it is classified as subphrase
+                            extraType = "subphrase"
+
+                            cur["subphraseNum"] += 1 #counting the number of the subphrases
+                            atts["num"] = cur["subphraseNum"]
                         
                         if role == "apposition":
                             atts["rela"] = "Appo"
@@ -690,9 +731,14 @@ def getDirector(self):
                         atts["num"] = cur["phraseNum"]
                     
                     #generate clause container for specific attributes
-                    elif clauseType == "nominalized" or cltype is not None or crule is not None:
+                    elif clausetype == "nominalized" or cltype is not None or crule is not None:
                         extraType = "clause"
-                        
+
+                        if rule is not None:
+                            std= "|".join(r'\b' + re.escape(keey) + r'\b' for keey in clause_features.keys())
+                            subs = lambda match: clause_features[match.group(0)]
+                            atts["function"] = re.sub(std, subs, rule)
+                                                                        
                         cur["clNum"] += 1
                         atts["num"] = cur["clNum"]
                         atts['book'] = cur['book']
@@ -707,9 +753,7 @@ def getDirector(self):
                         atts['book'] = cur['book']
                         atts["bookshort"] = cur["bookshort"]
                     
-                    elif rule in ["ClaCl", "ClCl", "ClClCl", "ClClClCl", "ClClClClCl", "ClClClClClCl", 
-                                  "ClClClClClClCl", "ClClClClClClClCl", "ClClClClClClClClCl",
-                                  "ClClClClClClClClCl", "ClClClClClClClClClCl", "ClClClClClClClClClClClCl", "ClCl2"]:
+                    elif rule in cl_dictionary:
                         extraType = "sentence"
 
                         cur["sentNum"] += 1 
@@ -752,6 +796,11 @@ def getDirector(self):
 
                         if role in role_features_wg:
                             atts["function"] = role_features_wg[role]
+                        else: #when a phrase does not contain a function element it is classified as subphrase
+                            extraType = "subphrase"
+
+                            cur["subphraseNum"] += 1 #counting the number of the subphrases
+                            atts["num"] = cur["subphraseNum"]
                         
                         if role == "apposition":
                             atts["rela"] = "Appo"
