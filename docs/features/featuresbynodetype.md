@@ -17,7 +17,7 @@ All node features are listed below grouped by node type:
 
 ## Word nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](wg-view.md#start) and the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](../syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -64,7 +64,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Wordgroup nodes 
 
-<sup>Note: this node type is only associated with the [WordGroup view](wg-view.md#start).</sup> 
+<sup>Note: this node type is only associated with the [WordGroup view](../wg-view.md#start).</sup> 
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -83,7 +83,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Subphrase nodes
 
-<sup>Note: this node typs is only associated with the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: this node typs is only associated with the [Syntactic view](../syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -123,7 +123,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Phrase nodes
 
-<sup>Note: thes node type is only associated with the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: thes node type is only associated with the [Syntactic view](../syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -166,7 +166,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Clause nodes
 
-<sup>Note: thes node type is only associated with the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: thes node type is only associated with the [Syntactic view](../syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -183,7 +183,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Group nodes
 
-<sup>Note: thes node type is only associated with the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: thes node type is only associated with the [Syntactic view](../syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -199,7 +199,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Sentence nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](wg-view.md#start) and the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](,,/syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -219,7 +219,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Verse nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](wg-view.md#start) and the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](../syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -230,7 +230,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Chapter nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](wg-view.md#start) and the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](../syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -240,7 +240,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Book nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](wg-view.md#start) and the [Syntactic view](syntactic-view.md#start).</sup>
+<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](,,/syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
