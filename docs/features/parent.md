@@ -30,7 +30,7 @@ w1 -parent> wg1
 Results = A.search(Query)
  0.24s 6 results</pre>
 
-Part of the results is shown in the following image when using the (default) [Syntactic view](syntactic-view.md#start):
+Part of the results is shown in the following image when using the (default) [Syntactic view](../syntactic-view.md#start):
 
 <img src="images/parent_query_phrase_view.png" width="500">
 
@@ -50,8 +50,8 @@ The parent-child relation can be checked using the following functions using the
 </pre>
 
 This output shows the word node has two parents: a `phrase` and a `wg` node. This dual parent relation is consequence of the implementation of two viewtypes:
-   * [Syntactic view](syntactic-view.md#start) (default): presents the syntax tree using linguistic terms like phrases and clauses.
-   * [WordGroup view](wg-view.md#start): presents the syntax tree in a more agnostic manner by means of word groups.
+   * [Syntactic view](../syntactic-view.md#start) (default): presents the syntax tree using linguistic terms like phrases and clauses.
+   * [WordGroup view](../wg-view.md#start): presents the syntax tree in a more agnostic manner by means of word groups.
 
 
 The following image shows how feature parent operates on the various node types. The node type 'subphrase' is not part of this parent-child relation schema.
