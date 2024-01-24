@@ -1,4 +1,4 @@
-# N1904 GNT Data Transcription
+# N1904 Text-Fabric Corpus Documentation
 
 ## The concept 'features' in Text-Fabric
 
