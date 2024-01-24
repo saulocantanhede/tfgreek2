@@ -1,4 +1,4 @@
-N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
 # Feature: domain
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -7,20 +7,20 @@ Data type|Feature type|Available for nodes
 domain
 ## Feature Values
 ### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
-Value|Occurenses
+Value|Occurences
 ---|---
-092004|3986
-089017|3949
-089015|2809
-033006|2791
-089023|1752
-013001|1556
-069002|1428
-089007|1291
+092004|3982
+033006|2788
+069002|1424
 092003|1277
-092001|942
+092001|941
+015004|889
+092006|822
+067002|790
+024001|686
+092007|624
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
-Value|Occurenses
+Value|Occurences
 ---|---
 092004|26129
 089017|4370
@@ -33,7 +33,7 @@ Value|Occurenses
 092001|1845
 089023|1780
 ### Frequency for nodetype [word](featurebynodetype.md#word)
-Value|Occurenses
+Value|Occurences
 ---|---
 092004|26129
 089017|4370
@@ -45,3 +45,6 @@ Value|Occurenses
 069002|1857
 092001|1845
 089023|1780
+ 
+
+Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 

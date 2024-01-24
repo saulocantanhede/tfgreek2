@@ -1,4 +1,4 @@
-N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
 # Feature: type
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -7,24 +7,24 @@ Data type|Feature type|Available for nodes
 morphological type (on word), syntactical type (on sentence, group, clause, phrase or wg)
 ## Feature Values
 ### Frequency for nodetype [sentence](featurebynodetype.md#sentence)
-Value|Occurenses
+Value|Occurences
 ---|---
 wrapper-clause-scope|12039
 group|2525
 apposition-group|1
 ### Frequency for nodetype [group](featurebynodetype.md#group)
-Value|Occurenses
+Value|Occurences
 ---|---
 conjuncted-wg|8075
 apposition-group|889
 ### Frequency for nodetype [clause](featurebynodetype.md#clause)
-Value|Occurenses
+Value|Occurences
 ---|---
 wrapper-clause-scope|127
 group|43
 apposition-group|1
 ### Frequency for nodetype [wg](featurebynodetype.md#wg)
-Value|Occurenses
+Value|Occurences
 ---|---
 modifier-scope|29645
 wrapper-clause-scope|12166
@@ -34,20 +34,20 @@ group|4957
 modifier-clause-scope|1712
 apposition-group|891
 ### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
-Value|Occurenses
+Value|Occurences
 ---|---
-modifier-scope|29645
-wrapper-scope|11264
-personal|5888
-common|2473
-group|2389
-modifier-clause-scope|1712
+modifier-scope|10484
+wrapper-scope|9535
+personal|5885
+common|2120
 relative|1364
+group|952
+modifier-clause-scope|755
 demonstrative|744
-proper|743
+proper|683
 interrogative|480
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
-Value|Occurenses
+Value|Occurences
 ---|---
 modifier-scope|29645
 common|23644
@@ -60,7 +60,7 @@ modifier-clause-scope|1712
 relative|1674
 interrogative|633
 ### Frequency for nodetype [word](featurebynodetype.md#word)
-Value|Occurenses
+Value|Occurences
 ---|---
 common|23644
 personal|11521
@@ -71,3 +71,6 @@ interrogative|633
 indefinite|552
 possessive|70
 adverbial|3
+ 
+
+Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 

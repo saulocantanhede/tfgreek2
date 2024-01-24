@@ -1,4 +1,4 @@
-N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
 # Feature: nodeid
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -7,7 +7,7 @@ Data type|Feature type|Available for nodes
 node id (as in the XML source data
 ## Feature Values
 ### Frequency for nodetype [sentence](featurebynodetype.md#sentence)
-Value|Occurenses
+Value|Occurences
 ---|---
 400040070010120|1
 400040100010070|1
@@ -20,7 +20,7 @@ Value|Occurenses
 400050100010120|1
 400050120010110|1
 ### Frequency for nodetype [clause](featurebynodetype.md#clause)
-Value|Occurenses
+Value|Occurences
 ---|---
 400010200010490|1
 400010200120390|1
@@ -33,7 +33,7 @@ Value|Occurenses
 400020050010370|1
 400020050090290|1
 ### Frequency for nodetype [wg](featurebynodetype.md#wg)
-Value|Occurenses
+Value|Occurences
 ---|---
 400010200010490|1
 400010200120390|1
@@ -45,3 +45,6 @@ Value|Occurenses
 400020020010200|1
 400020050010370|1
 400020050090290|1
+ 
+
+Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 

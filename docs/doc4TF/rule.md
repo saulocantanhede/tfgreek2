@@ -1,4 +1,4 @@
-N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
 # Feature: rule
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -7,25 +7,25 @@ Data type|Feature type|Available for nodes
 syntactical rule
 ## Feature Values
 ### Frequency for nodetype [sentence](featurebynodetype.md#sentence)
-Value|Occurenses
+Value|Occurences
 ---|---
 Conj-CL|5574
+CLaCL|3505
 sub-CL|3015
 DetCL|2011
 ClCl|1552
 that-VP|889
 ClCl2|882
 PtclCL|468
-CLaCL|395
 AdvpCL|56
 V-O|51
 ### Frequency for nodetype [group](featurebynodetype.md#group)
-Value|Occurenses
+Value|Occurences
 ---|---
 NP-CL|874
 CL-NP|15
 ### Frequency for nodetype [clause](featurebynodetype.md#clause)
-Value|Occurenses
+Value|Occurences
 ---|---
 V2CL|2842
 V-O|2674
@@ -38,7 +38,7 @@ S-V|626
 V-S|603
 V-O-ADV|531
 ### Frequency for nodetype [wg](featurebynodetype.md#wg)
-Value|Occurenses
+Value|Occurences
 ---|---
 DetNP|15696
 PrepNp|11044
@@ -51,28 +51,31 @@ V-O|2725
 DetCL|2011
 Np-Appos|1908
 ### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
-Value|Occurenses
+Value|Occurences
 ---|---
-DetNP|15696
-PrepNp|11044
-NPofNP|6819
-CLaCL|3110
-Np-Appos|1908
-NpAdjp|1371
-AdjpNp|1368
-NpaNp|1366
-DetAdj|1282
-All-NP|846
+PrepNp|9512
+DetNP|6507
+NPofNP|789
+Np-Appos|715
+NpaNp|697
+NpAdjp|634
+AdvpNp|520
+DetAdj|470
+AdjpNp|455
+All-NP|412
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
-Value|Occurenses
+Value|Occurences
 ---|---
 DetNP|15696
 PrepNp|11044
 NPofNP|6819
-CLaCL|3110
 Np-Appos|1908
 NpAdjp|1371
 AdjpNp|1368
 NpaNp|1366
 DetAdj|1282
 All-NP|846
+NpPp|676
+ 
+
+Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 

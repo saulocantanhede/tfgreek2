@@ -1,4 +1,4 @@
-N1904 Greek New Testament Text-Fabric dataset [saulocantanhede/tfgreek2 - 0.5.4](https://github.com/saulocantanhede/tfgreek2)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
 # Feature: role
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -7,19 +7,19 @@ Data type|Feature type|Available for nodes
 role
 ## Feature Values
 ### Frequency for nodetype [sentence](featurebynodetype.md#sentence)
-Value|Occurenses
+Value|Occurences
 ---|---
-adv|1896
-o|1280
-s|494
-apposition|445
+adv|2069
+o|1691
+s|496
+apposition|478
 o2|104
-p|70
+p|74
 aux|64
 io|62
-v|3
+v|9
 ### Frequency for nodetype [group](featurebynodetype.md#group)
-Value|Occurenses
+Value|Occurences
 ---|---
 o|122
 s|115
@@ -30,7 +30,7 @@ io|16
 apposition|10
 o2|2
 ### Frequency for nodetype [clause](featurebynodetype.md#clause)
-Value|Occurenses
+Value|Occurences
 ---|---
 adv|3442
 o|2573
@@ -43,7 +43,7 @@ aux|17
 io|4
 tail|2
 ### Frequency for nodetype [wg](featurebynodetype.md#wg)
-Value|Occurenses
+Value|Occurences
 ---|---
 adv|15981
 o|8822
@@ -56,33 +56,31 @@ aux|351
 o2|218
 topic|23
 ### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
-Value|Occurenses
+Value|Occurences
 ---|---
-v|25169
-adv|16205
-s|10200
-o|9519
-p|3508
-vc|2593
+v|24767
+adv|16032
+s|10198
+o|9108
+p|3504
 io|2576
-apposition|1012
-aux|956
 o2|229
+vc|10
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
-Value|Occurenses
+Value|Occurences
 ---|---
-v|25169
-adv|16205
-s|10200
-o|9519
-p|3508
+v|25163
+adv|16032
+s|10198
+o|9108
+p|3504
 vc|2593
 io|2576
-apposition|1012
+apposition|979
 aux|956
 o2|229
 ### Frequency for nodetype [word](featurebynodetype.md#word)
-Value|Occurenses
+Value|Occurences
 ---|---
 v|24767
 adv|5596
@@ -94,3 +92,6 @@ p|1904
 aux|705
 o2|141
 apposition|10
+ 
+
+Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
