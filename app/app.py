@@ -7,10 +7,10 @@ class TfApp(App):
 
     def Viewtype(app,ViewName):
         if ViewName=='wg':
-           OptionDict = {'hiddenTypes' : 'clause,phrase,subphrase', 'extraFeatures' : {'wg:subjrefspec','referent','id','framespec','word:type','gloss'}, 'condensed': {True}, 'queryFeatures': {False}, 'suppress' : {'book','chapter','verse'}}
+           OptionDict = {'hiddenTypes' : 'clause,phrase,subphrase', 'condensed': {True}, 'queryFeatures': {False}}
            displaySetup(app,**OptionDict)
            print ('setup for wg-view')
         if ViewName=='syntax':
-           OptionDict = {'hiddenTypes' : 'wg,subphrase', 'extraFeatures' : {'gloss','appositioncontainer','rela'}, 'condensed': {True}, 'queryFeatures': {False}, 'suppress' : {'book','chapter','verse','phrase:gloss'} }
+           OptionDict = {'hiddenTypes' : 'wg,subphrase', 'condensed': {True}, 'queryFeatures': {False}}
            displaySetup(app,**OptionDict)
            print ('setup for syntax-view')
