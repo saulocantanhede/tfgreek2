@@ -11,7 +11,7 @@ dataDisplay:
 docs:
   docPage: about
   featureBase: '{docBase}/transcription.md'
-  featurePage: transcription
+  featurePage: '{docBase}/features/<feature>.md'
 interfaceDefaults:
   fmt: text-orig-full
 provenanceSpec:
