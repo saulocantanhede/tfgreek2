@@ -26,7 +26,7 @@ ptcl | particle | 773
 pron | pronoun | 16177
 verb | verb | 28357
 
-For [`wg` (wordgroup)](featuresbynodetype.md#wordgroup-nodes) nodes:
+For [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup) nodes:
 
 Value | Phrase Category | frequency
 --- | --- | ---
