@@ -10,6 +10,8 @@ Book name (full)
 
 ## Feature values
 
+For any node type:
+
 This feature: book | feature: [bookshort](bookshort.md#readme) | feature: [num](num.md#readme)
 --- | --- | ---
 Matthew | MAT | 1
