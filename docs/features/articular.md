@@ -10,10 +10,35 @@ This feature indicates if a syntact unit contains an article.
 
 ## Feature values 
 
+For [`sentence`](featuresbynodetype.md#sentence-nodes) nodes:
 value | description | Frequency
 ---  | --- | --- 
 ` ` | no articular in syntactic unit | -
-`1` |  articular wg | 57544
+`1` |  articular wg | 2619
+
+For [`group`](featuresbynodetype.md#group-nodes) nodes:
+value | description | Frequency
+---  | --- | --- 
+` ` | no articular in syntactic unit | -
+`1` |  articular wg | 187
+
+For [`clause`](featuresbynodetype.md#clause-nodes) nodes:
+value | description | Frequency
+---  | --- | --- 
+` ` | no articular in syntactic unit | -
+`1` |  articular wg | 973
+
+For [`phrase`](featuresbynodetype.md#phrase-nodes) nodes:
+value | description | Frequency
+---  | --- | --- 
+` ` | no articular in syntactic unit | -
+`1` |  articular wg | 13079
+
+For [`subphrase`](featuresbynodetype.md#subphrase-nodes) nodes:
+value | description | Frequency
+---  | --- | --- 
+` ` | no articular in syntactic unit | -
+`1` |  articular wg | 24993
 
 ## Notes
 
