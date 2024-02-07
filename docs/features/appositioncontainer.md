@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | --- 
-[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`integer`](featuresbydatatype.md#integer-datatype) | [`wg`](featuresbynodetype.md#wordgroup-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)
+[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`integer`](featuresbydatatype.md#integer-datatype) | [`wg`](featuresbynodetype.md#wordgroup-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes)
 
 ## Feature description 
 
@@ -10,10 +10,24 @@ This feature indicates if a wordgroup or phrase contains an apposition.
 
 ## Feature values 
 
+For [`wg`](featuresbynodetype.md#wordgroup-nodes) nodes:
 Value | Description | Frequency
 ---  | --- | --- 
 ` ` | this entity has no appositioncontainer | -
-`1` | this entity has an appositioncontainer | 3816
+`1` | this entity has an appositioncontainer | 1908
+
+For [`phrase`](featuresbynodetype.md#phrase-nodes) nodes:
+Value | Description | Frequency
+---  | --- | --- 
+` ` | this entity has no appositioncontainer | -
+`1` | this entity has an appositioncontainer | 715
+
+For [`subphrase`](featuresbynodetype.md#subphrase-nodes) nodes:
+Value | Description | Frequency
+---  | --- | --- 
+` ` | this entity has no appositioncontainer | -
+`1` | this entity has an appositioncontainer | 1908
+
 
 ## Note
 
