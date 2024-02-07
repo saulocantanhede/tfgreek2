@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-For `word` nodes: Part of Speech. For `wg` (wordgroup) nodes: phrase catagory.
+For `word` nodes: Part of Speech (PoS). For `wg` (wordgroup) nodes: phrase catagory.
 
 ## Feature values
 
@@ -46,9 +46,9 @@ See also the description in [MACULA Greek Treebank for the Nestle 1904 Greek New
 
 ## Source description
 
-Taken from XML attribute `cls` of tag `w` (word).
+For word nodes: taken from XML attribute `class` of tag `w` (word).
 
-CHECK: Note that XML attribute `class` of tag `wg` (wordgroup) is mapped to Text-Fabric feature [`class`](class.md).
+For wg nodes: taken from XML attribute `class` of tag `wg` (wordgroup)
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
