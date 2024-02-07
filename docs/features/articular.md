@@ -13,32 +13,38 @@ This feature indicates if a syntact unit contains an article.
 For [`sentence`](featuresbynodetype.md#sentence-nodes) nodes:
 value | description | Frequency
 ---  | --- | --- 
-` ` | no articular in syntactic unit | -
-`1` |  articular wg | 2619
+` ` | no articular in sentence | -
+`1` | articular in sentence | 2619
 
 For [`group`](featuresbynodetype.md#group-nodes) nodes:
 value | description | Frequency
 ---  | --- | --- 
-` ` | no articular in syntactic unit | -
-`1` |  articular wg | 187
+` ` | no articular in group | -
+`1` | articular in group | 187
 
 For [`clause`](featuresbynodetype.md#clause-nodes) nodes:
 value | description | Frequency
 ---  | --- | --- 
-` ` | no articular in syntactic unit | -
-`1` |  articular wg | 973
+` ` | no articular in clause | -
+`1` | articular in clause | 973
+
+For [`wg`](featuresbynodetype.md#wordgroup-nodes) nodes:
+value | description | Frequency
+---  | --- | --- 
+` ` | no articular in wordgroup | -
+`1` | articular in wordgroup | 28772
 
 For [`phrase`](featuresbynodetype.md#phrase-nodes) nodes:
 value | description | Frequency
 ---  | --- | --- 
-` ` | no articular in syntactic unit | -
-`1` |  articular wg | 13079
+` ` | no articular in phrase | -
+`1` | articular in phrase | 13079
 
 For [`subphrase`](featuresbynodetype.md#subphrase-nodes) nodes:
 value | description | Frequency
 ---  | --- | --- 
-` ` | no articular in syntactic unit | -
-`1` |  articular wg | 24993
+` ` | no articular in subphrase | -
+`1` | articular in subphrase | 24993
 
 ## Notes
 
