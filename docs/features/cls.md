@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-For `word` nodes: Part of Speech (PoS). For `wg` (wordgroup) nodes: phrase catagory.
+For `word` nodes: Part of Speech (PoS). For other nodes: category.
 
 ## Feature values
 
