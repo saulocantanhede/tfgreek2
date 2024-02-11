@@ -1,4 +1,4 @@
-# Provenance and sourcedata of Nestle 1904 Greek New Testament
+# About Nestle 1904 Greek New Testament
 
 ## Provenance
 
