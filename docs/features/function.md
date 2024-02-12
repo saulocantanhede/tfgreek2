@@ -19,7 +19,7 @@ Objc|Object
 Subj|Subject
 PreC|Predicate-Complement
 
-### Frequency for nodetype [sentence](featurebynodetype.md#sentence-nodes)
+### Frequency for nodetype [sentence](featuresbynodetype.md#sentence-nodes)
 
 Value|Occurences
 ---|---
@@ -34,7 +34,7 @@ Pred-Obj-Cmpl|22
 Subj-Pred-Obj|20
 Pred-Obj-Subj|19
 
-### Frequency for nodetype [clause](featurebynodetype.md#clause-nodes)
+### Frequency for nodetype [clause](featuresbynodetype.md#clause-nodes)
 
 Value|Occurences
 ---|---
@@ -49,7 +49,7 @@ Pred-Obj-Cmpl|596
 Subj-PreC-PreC|595
 PreC-PreC|554
 
-### Frequency for nodetype [wg](featurebynodetype.md#wordgroup-nodes)
+### Frequency for nodetype [wg](featuresbynodetype.md#wordgroup-nodes)
 
 Value|Occurences
 ---|---
@@ -64,7 +64,7 @@ Obj-Pred|1077
 Cmpl-Pred-Obj|684
 Subj-Pred|639
 
-### Frequency for nodetype [phrase](featurebynodetype.md#phrase-nodes)
+### Frequency for nodetype [phrase](featuresbynodetype.md#phrase-nodes)
 
 Value|Occurences
 ---|---
@@ -74,7 +74,7 @@ Subj|10198
 Objc|9337
 PreC|3514
 
-### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase-nodes)
+### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase-nodes)
 
 Value|Occurences
 ---|---
@@ -84,7 +84,7 @@ Subj|10198
 Objc|9337
 PreC|3514
 
-### Frequency for nodetype [word](featurebynodetype.md#word-nodes)
+### Frequency for nodetype [word](featuresbynodetype.md#word-nodes)
 
 Value|Occurences
 ---|---
