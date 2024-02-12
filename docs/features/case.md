@@ -12,7 +12,7 @@ This feature is also populated for `phrase` or `subphrase`, but only if they con
 
 ## Feature values
 
-case | explanation | Frequency
+case | explanation | Frequency<sup>1</sup> 
 --- | --- | ---
 accusative | Generaly indicating the direct object of a verb | 23031
 dative | Generaly indicating indirect object of a verb | 12126
@@ -20,6 +20,8 @@ genitive | Generaly indicating possesion | 19515
 nominative | Generaly indicating the subject | 24197
 vocative | Adressee of speech | 649
 '' | empty for any other word type | 58261
+
+<sup>1</sup> Frequency figures are listed for word nodes only. 
 
 ## Source description
 
