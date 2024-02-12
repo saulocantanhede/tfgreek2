@@ -49,7 +49,7 @@ Pred-Obj-Cmpl|596
 Subj-PreC-PreC|595
 PreC-PreC|554
 
-### Frequency for nodetype [wg](featurebynodetype.md#wg-nodes)
+### Frequency for nodetype [wg](featurebynodetype.md#wordgroup-nodes)
 
 Value|Occurences
 ---|---
