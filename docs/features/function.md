@@ -2,29 +2,101 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`wg`](featuresbynodetype.md#wordgroup-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)
+[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`Sentence`](featuresbynodetype.md#sentence-nodes) [`Clause`](featuresbynodetype.md#clause-nodes) [`wg`](featuresbynodetype.md#wordgroup-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`word`](featuresbynodetype.md#word-nodes) 
 
 ## Feature description
 
-phrase function
+The syntactic function(s) of a word, group of words (phrase, clause, etc) or the composition of the (sub)sentence.
 
 ## Feature values
+The values of this feature consist of one or more of the following functions:
 
-value | explanation | Frequency
---- | --- | ---
-Pred 	| Predicate | 49554
-Subj | Subject | 19850
-Objc | Object |18974
-PreC | Predicate complement| 6906
-Cmpl | COmplement | 5086
+Value|Description
+---|---
+Pred|Predicate
+Cmpl|Complement
+Objc|Object
+Subj|Subject
+PreC|Predicate-Complement
 
-## Note
+### Frequency for nodetype [sentence](featurebynodetype.md#sentence-nodes)
 
+Value|Occurences
+---|---
+Pred-Obj|51
+Subj-PreC-PreC|42
+Cmpl-Pred|38
+Cmpl-Pred-Obj|34
+Subj-PreC|29
+PreC-Subj|28
+Subj-Cmpl|23
+Pred-Obj-Cmpl|22
+Subj-Pred-Obj|20
+Pred-Obj-Subj|19
 
+### Frequency for nodetype [clause](featurebynodetype.md#clause-nodes)
+
+Value|Occurences
+---|---
+Pred-Obj|2675
+Pred-Cmpl|1897
+Cmpl-Pred|1147
+Obj-Pred|1065
+Cmpl-Pred-Obj|650
+Subj-Pred|626
+Pred-Subj|603
+Pred-Obj-Cmpl|596
+Subj-PreC-PreC|595
+PreC-PreC|554
+
+### Frequency for nodetype [wg](featurebynodetype.md#wg-nodes)
+
+Value|Occurences
+---|---
+Cmpl|11056
+Subj|5740
+Objc|4524
+Pred-Obj|2726
+Pred-Cmpl|1909
+PreC|1610
+Cmpl-Pred|1185
+Obj-Pred|1077
+Cmpl-Pred-Obj|684
+Subj-Pred|639
+
+### Frequency for nodetype [phrase](featurebynodetype.md#phrase-nodes)
+
+Value|Occurences
+---|---
+Pred|24767
+Cmpl|18608
+Subj|10198
+Objc|9337
+PreC|3514
+
+### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase-nodes)
+
+Value|Occurences
+---|---
+Pred|24767
+Cmpl|18608
+Subj|10198
+Objc|9337
+PreC|3514
+
+### Frequency for nodetype [word](featurebynodetype.md#word-nodes)
+
+Value|Occurences
+---|---
+Pred|24767
+Cmpl|7552
+Objc|4813
+Subj|4458
+PreC|1904
 
 ## Source description
 
-Taken from (optional) XML attribute `?????` of tag `wg` (wordgroup).
+Based upon the (optional) XML attribute `function` of tag `wg` (wordgroup) or `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
