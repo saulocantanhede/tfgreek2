@@ -8,11 +8,29 @@ Feature group | Feature type | Data type | Available for node types
 
 Clause type for verbless, verb-elided, and minor clauses.
 
+
+
+Frequency for [sentence](featurebynodetype.md#sentence-nodes) nodes:
 value | description | Frequency
 ---  | --- | --- 
-`Verbless` | Verbless clause type| 1922
-`VerbElided` |  Verb-elided clause type | 2100
-`Minor` |  Minor clause type | 1664
+`Verbless` | Verbless clause type| 77
+`VerbElided` |  Verb-elided clause type | 47
+`Minor` |  Minor clause type | 1
+
+Frequency for [`clause`](featuresbynodetype.md#clause-nodes) nodes:
+value | description | Frequency
+---  | --- | --- 
+`Verbless` | Verbless clause type| 1003
+`VerbElided` |  Verb-elided clause type | 884
+`Minor` |  Minor clause type | 831
+
+Frequency for [`wg`](featuresbynodetype.md#wordgroup-nodes) nodes:
+
+value | description | Frequency
+---  | --- | --- 
+`Verbless` | Verbless clause type| 1050
+`VerbElided` |  Verb-elided clause type | 961
+`Minor` |  Minor clause type | 832
 
 ## Source description
 
