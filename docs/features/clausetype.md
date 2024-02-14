@@ -10,17 +10,17 @@ Clause type information.
 
 ## Feature values
 
-Frequency for nodetype [sentence](featuresbynodetype.md#sentence)
+Frequency for nodetype [sentence](featuresbynodetype.md#sentence-nodes)
 Value|Occurences
 ---|---
 nominalized|59
 
-Frequency for nodetype [clause](featuresbynodetype.md#clause)
+Frequency for nodetype [clause](featuresbynodetype.md#clause-nodes)
 Value|Occurences
 ---|---
 nominalized|5237
 
-Frequency for nodetype [wg](featurebynodetype.md#wordgroup)
+Frequency for nodetype [wg](featurebynodetype.md#wordgroup-nodes)
 Value|Occurences
 ---|---
 nominalized|5296
