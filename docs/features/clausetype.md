@@ -10,10 +10,20 @@ Clause type information.
 
 ## Feature values
 
-value | Description | Frequency
---- | --- | ---
-nominalized | | 10592
-' ' | | 
+Frequency for nodetype [sentence](featuresbynodetype.md#sentence)
+Value|Occurences
+---|---
+nominalized|59
+
+Frequency for nodetype [clause](featuresbynodetype.md#clause)
+Value|Occurences
+---|---
+nominalized|5237
+
+Frequency for nodetype [wg](featurebynodetype.md#wordgroup)
+Value|Occurences
+---|---
+nominalized|5296
 
 ## Source description
 
