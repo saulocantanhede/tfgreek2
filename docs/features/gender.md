@@ -12,12 +12,14 @@ This feature is also populated for `phrase` or `subphrase`, but only if they con
 
 ## Feature values
 
-Value | Description | Frequency
+Value | Description | Frequency<sup>1</sup>
 --- | --- | --- 
 feminine | grammatical gender is feminine | 18736
 masculine | grammatical gender is masculine | 41486
 neuter | grammatical gender is neuter | 13753
  '' | empty for any other wordtype | 63804
+ 
+<sup>1</sup> Frequency figures are listed for word nodes only. 
 
 ## Source description
 
