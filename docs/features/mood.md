@@ -12,7 +12,7 @@ This feature is also populated for `phrase` or `subphrase`, but only if they con
 
 ## Feature values 
 
-mood | Comment | Frequency
+mood | Comment | Frequency<sup>1</sup>
 --- | --- | ---
 `imperative` | expresses a command | 1877
 `indicative` | expresses an action being portrayed as real | 15617
@@ -21,6 +21,8 @@ mood | Comment | Frequency
 `optative` | expresses something is possible | 69
 `subjunctive` | expresses a probable or desired action | 1856
 ` ` | Any other wordtype | 109422
+
+<sup>1</sup> Frequency figures are listed for word nodes only. 
 
 ## Source description
 
