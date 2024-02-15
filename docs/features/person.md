@@ -12,12 +12,14 @@ This feature is also populated for `phrase` or `subphrase`, but only if they con
 
 ## Feature values
 
-Value | Description | Frequency
+Value | Description | Frequency<sup>1</sup>
 --- | --- | ---
 first | First person (either singular or plural) | 2943
 second | Second person (either singular or plural) | 3729
 third | Third person (either singular or plural) | 12747
 '' | Empty for any wordtypes other than verb | 118360
+
+<sup>1</sup> Frequency figures are listed for word nodes only.
 
 ## Note
 
