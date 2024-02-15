@@ -12,11 +12,13 @@ This feature is also populated for `phrase` or `subphrase`, but only if they con
 
 ## Feature values
 
-Value | Description | Frequency
+Value | Description | Frequency<sup>1</sup>
 --- | --- | ---
 plural | Plural form (either first, second, or third person) | 29091
 singular | Singular form (either first, second, or third person) | 69846
 '' | Empty for wordtypes other than verb | 38842
+
+<sup>1</sup> Frequency figures are listed for word nodes only. 
 
 ## Note
 
