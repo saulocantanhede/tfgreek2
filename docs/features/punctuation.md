@@ -12,7 +12,7 @@ This feature is also populated for `phrase` or `subphrase`, but only if they con
 
 ## Feature values 
 
-Value | Description | Unicode codepoint | Frequency
+Value | Description | Unicode codepoint | Frequency<sup>1</sup>
 ---  |  --- | --- | ---
 ` ` | Space | [`&#32`](https://www.codetable.net/decimal/32)  |  238522
 `, ` | Comma |  [`&#44`](https://www.codetable.net/decimal/44)   | 18878
@@ -25,6 +25,8 @@ Value | Description | Unicode codepoint | Frequency
 `.]] ` | | 8
 `·— ` | | 8
 etc.. | | another 11
+
+<sup>1</sup> Frequency figures are listed for word nodes only.
 
 ## Notes
 
