@@ -21,7 +21,7 @@ PreC|Predicate-Complement
 
 ### Frequency for nodetype [sentence](featuresbynodetype.md#sentence-nodes)
 
-Value|Occurences
+Value|Occurences<sup>1</sup>
 ---|---
 Pred-Obj|51
 Subj-PreC-PreC|42
@@ -34,9 +34,11 @@ Pred-Obj-Cmpl|22
 Subj-Pred-Obj|20
 Pred-Obj-Subj|19
 
+<sup>1</sup> Only the first 10 items are shown in this list. 
+
 ### Frequency for nodetype [clause](featuresbynodetype.md#clause-nodes)
 
-Value|Occurences
+Value|Occurences<sup>2</sup>
 ---|---
 Pred-Obj|2675
 Pred-Cmpl|1897
@@ -48,6 +50,8 @@ Pred-Subj|603
 Pred-Obj-Cmpl|596
 Subj-PreC-PreC|595
 PreC-PreC|554
+
+<sup>2</sup> Only the first 10 items are shown in this list. 
 
 ### Frequency for nodetype [wg](featuresbynodetype.md#wordgroup-nodes)
 
