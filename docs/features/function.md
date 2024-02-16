@@ -96,7 +96,7 @@ PreC|1904
 
 ## Source description
 
-Based upon the (optional) XML attribute `function` of tag `wg` (wordgroup) or `w` (word).
+Based upon the (optional) XML attribute `role` of tag `wg` (wordgroup) or `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
