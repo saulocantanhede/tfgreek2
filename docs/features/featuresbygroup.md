@@ -10,6 +10,7 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 * [Textcritical features](#textcritical-features): deals with features related to textual critical issue.
 * [Morphological features](#morphological-features): involves attributes that describe the internal structure and form of words.
 * [Syntactic features](#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases.
+* [Semantic features](#semantic-features): covers properties related to semantic roles. 
 * [Relational features](#relational-features): encompasses attributes that describe relationships or connections between nodes.
 
 ## Grid features
