@@ -29,7 +29,7 @@ A1 | Direct object or the entity directly affected by the action | 15570
 A2 | Indirect object or secondary entity affected by the action | 2577
 AA2 | Adverbial roles in a sentence | 92
 
-The values behind these identifires are in the following format:
+The values behind these identifiers are in the following format:
 
 ```
 An 'n' followed by a 11-digit unique id in the format
