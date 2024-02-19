@@ -15,7 +15,7 @@ This feature is also populated for `phrase` or `subphrase`, but only if they con
 
 ## Feature values
 
-This feature contains one or more refernces to [`id`](id.md#start)'s,  like in following example:
+This feature contains one or more references to [`id`](id.md#start)'s,  like in following example:
 
 ```
 A0:n63001005005;n63001001007 A1:n63001010014
