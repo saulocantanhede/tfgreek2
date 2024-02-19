@@ -87,8 +87,6 @@ Name | Data type | Feature type | Available on nodes | Description | Examples
 [cltype](cltype.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Clause type | `Verbless` `VerbElided`
 [crule](crule.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) [`clause`](featuresbynodetype.md#clause-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) | Clause rule | `ClCl` `ClCl2`
 [discontinuous](discontinuous.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes) | Discontinuous information | `1`
-[frame](frame.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes) | Reference to the id of subject, object or idirect object | `A0` `A1` `A2`
-[framespec](framespec.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes) | Reference to the id of subject, object or idirect object | `A0:n63001005005 A1:n63001010014`
 [junction](junction.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) [`clause`](featuresbynodetype.md#clause-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Junction information | `coordinate` `subordinate`
 [lang](lang.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`book`](bookgroupnodefeatures.md#readme) | Language of the corpus | `el`
 [referent](referent.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes) | Referent | `n40001011005`
@@ -97,6 +95,12 @@ Name | Data type | Feature type | Available on nodes | Description | Examples
 [subjrefspec](subjrefspec.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes)  | Subject reference | `n46003022002`
 [type](type.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) |  [`wg`](featuresbynodetype.md#wordgroup-nodes) | Syntactical type of wordgroup | `conjuncted-wg` `apposition-group`
 
+## Semantic features
+
+Name | Data type | Feature type | Available on nodes | Description | Examples
+--- | --- | --- | --- | --- | ---
+[frame](frame.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes) | Reference to the id of subject, object or idirect object | `A0` `A1` `A2`
+[framespec](framespec.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes) | Reference to the id of subject, object or idirect object | `A0:n63001005005 A1:n63001010014`
 
 ## Relational features
 
