@@ -13,9 +13,12 @@ docs:
   featureBase: '{docBase}/transcription.md'
   featurePage: '{docBase}/features/<feature>.md'
 interfaceDefaults:
-  fmt: text-orig-full
+  fmt: text-orig-full # used by tf browser
 provenanceSpec:
   corpus: Nestle 1904 Greek New Testament
+  org: saulocantanhede
+  repro: tfgreek2
+  branch: main
   doi: 10.5281/zenodo.notyet
   moduleSpecs: []
   version: 0.5.5
