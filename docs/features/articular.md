@@ -20,7 +20,7 @@ value | description | Frequency
 ` ` | no articular in sentence | -
 `1` | articular in sentence | 2619
 
-For [`group`](featuresbynodetype.md#group-nodes) nodes (used in [`syntax-view`](../syntax-view.md#start) and [`wg-view`](../wg-view.md#start)???):
+For [`group`](featuresbynodetype.md#group-nodes) nodes (used in [`syntax-view`](../syntax-view.md#start)):
 value | description | Frequency
 ---  | --- | --- 
 ` ` | no articular in group | -
