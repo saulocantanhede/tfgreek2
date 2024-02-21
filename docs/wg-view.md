@@ -19,8 +19,8 @@ The relation between node types and view types is shown in the following table.
 
 View | Invocation | Associated node types | 
 --- | --- | ---
-Wordgroup (this view) | A.Viewtype('wg') | [`wg`](featuresbynodetype.md#wordgroup-nodes) 
-[Syntactic](syntactic-view.md#start) | A.Viewtype('syntax') | [`subphrase`](features/featuresbynodetype.md#subphrase-nodes) [`phrase`](features/featuresbynodetype.md#phrase-nodes) [`clause`](features/featuresbynodetype.md#clause-nodes) [`group`](features/featuresbynodetype.md#group-nodes)
+wg (this view) | A.Viewtype('wg') | [`wg`](featuresbynodetype.md#wordgroup-nodes) 
+[syntax](syntactic-view.md#start) | A.Viewtype('syntax') | [`subphrase`](features/featuresbynodetype.md#subphrase-nodes) [`phrase`](features/featuresbynodetype.md#phrase-nodes) [`clause`](features/featuresbynodetype.md#clause-nodes) [`group`](features/featuresbynodetype.md#group-nodes)
 
 The following images show the different presentation of the syntax tree for the two views:
 
