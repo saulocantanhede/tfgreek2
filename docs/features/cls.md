@@ -34,9 +34,9 @@ For [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup) nodes:
 
 Value | Phrase Category | frequency
 --- | --- | ---
-adjp | adjectival phrase | 168
+adjp | adjective phrase | 168
 advp | adverbial phrase | 166
-np | noun phrase | 30911
+np | nominal phrase | 30911
 nump | numeral phrase | 7
 pp | prepositional phrase | 11169
 vp | verbal phrase | 207
@@ -49,7 +49,7 @@ For [`phrase`](featuresbynodetype.md#phrase-nodes) nodes:
 Value | Phrase Category | frequency
 --- | --- | ---
 verb | verbal phrase|	24772
-np	| noun phrase |10935
+np	| nominal phrase |10935
 pp | prepositional phrase |	9609
 pron ||	8751
 adv	| ? phrase | 4390
