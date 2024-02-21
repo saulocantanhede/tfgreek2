@@ -1,4 +1,8 @@
-# All Features <a name="start"></a>
+<a name="start"></a>
+[`Transcription`](../transcription.md#start) | [`Features`](../features.md#start) | [`Views`](../views.md#start) | [`Textformats`](../textformats.md#start) | [`Syntaxtrees`](../syntaxtrees.md#start) | [`Tutorial`](../../tutorial/README.md#start) | [`Usecases`](../usecases/README.md#start) |[`About`](../about.md#start)
+---  | --- | --- | --- | --- | --- | --- |---
+
+# Nestle 1904 GNT - All Features
 
 In Text-Fabric, a "feature" refers to attributes associated with nodes, which represent linguistic elements in the text, including words, word groups, sentences, and verses. These features contain additional information specific to these nodes, facilitating diverse linguistic analyses and data extraction.
 
