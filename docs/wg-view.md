@@ -3,7 +3,7 @@
 [`Transcription`](transcription.md#start) | [`Features`](features/README.md#start) | [`Views`](views.md#start) | [`Textformats`](textformats.md#start) | [`Syntaxtrees`](syntaxtrees.md#start) | [`Tutorial`](../tutorial/README.md#start) | [`Usecases`](usecases/README.md#start) |[`About`](about.md#start)
 ---  | --- | --- | --- | --- | --- | --- | ---
 
-# Nestle 1904 GNT - The wg-view
+# Nestle 1904 GNT - Viewtype: wg-view
 
 *draft notes for now* 
 
@@ -17,7 +17,7 @@ Swithing to a specific viewtype can be done using the command A.Viewtype(), whic
 
 The relation between node types and view types is shown in the following table.
 
-View | Invocation | Associated node types | 
+Viewtype | Invocation | Associated node types | 
 --- | --- | ---
 `wg-view` (this view) | A.Viewtype('wg') | [`wg`](featuresbynodetype.md#wordgroup-nodes) 
 [`syntax-view`](syntax-view.md#start) | A.Viewtype('syntax') | [`subphrase`](features/featuresbynodetype.md#subphrase-nodes) [`phrase`](features/featuresbynodetype.md#phrase-nodes) [`clause`](features/featuresbynodetype.md#clause-nodes) [`group`](features/featuresbynodetype.md#group-nodes)
