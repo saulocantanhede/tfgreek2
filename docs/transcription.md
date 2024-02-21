@@ -1,5 +1,5 @@
 <a name="start"></a>
-<small>`Transcription`</small> | [<small>`Features`</small>](features/README.md#start) | [<small>`Views`</small>](views.md#start) | [<small>`Textformats`</small>](textformats.md#start) | [<small>`Syntaxtrees`</small>](syntaxtrees.md#start) | [<small>`Tutorial`</small>](../tutorial/README.md#start) | [<small>`Usecases`</small>](usecases/README.md#start) |[<small>`About`</small>](about.md#start)
+`Transcription` | [`Features`](features/README.md#start) | [`Views`](views.md#start) | [`Textformats`](textformats.md#start) | [`Syntaxtrees`](syntaxtrees.md#start) | [`Tutorial`](../tutorial/README.md#start) | [`Usecases`](usecases/README.md#start) |[`About`](about.md#start)
 ---  | --- | --- | --- | --- | --- | --- | ---
 
 # Nestle 1904 GNT - Transcription
