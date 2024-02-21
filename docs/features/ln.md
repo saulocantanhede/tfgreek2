@@ -10,7 +10,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Louw-Nida lexical classification. 
+Louw-Nida lexical classification of the semantic domain. 
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
