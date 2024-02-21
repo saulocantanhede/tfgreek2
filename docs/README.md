@@ -11,6 +11,6 @@ The feature documentation for this corpus consist of the following:
 * View types:
     * [WordGroup view](wg-view.md#start):
     * [Syntax view](syntactic-view.md#start):
-* [Tutorial](https://nbviewer.org/github/saulocantanhede/tfgreek2/blob/main/docs/usecases/load_text_fabric.ipynb)tutorial]): starting
+* [Tutorial](https://nbviewer.org/github/saulocantanhede/tfgreek2/blob/main/tutorial/tutorial.ipynb): starting
 * [use cases]()  
 * [Provenance and legal](about.md#start)
