@@ -8,7 +8,7 @@ This page provides a high level overview of how the Nestle 1904 GNT corpus has b
 
 ## The concept 'features' in Text-Fabric
 
-Short description - [features](features.md#start) 
+Short description - [features](features/README.md#start) 
 
 ## Views
 
