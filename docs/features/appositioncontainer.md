@@ -14,19 +14,19 @@ This feature indicates if a wordgroup or phrase contains an apposition.
 
 ## Feature values 
 
-For [`wg`](featuresbynodetype.md#wordgroup-nodes) nodes (use [`wg`](../wg-view.md#start) view):
+For [`wg`](featuresbynodetype.md#wordgroup-nodes) nodes (use [`wg-view`](../wg-view.md#start)):
 Value | Description | Frequency
 ---  | --- | --- 
 ` ` | this entity has no appositioncontainer | -
 `1` | this entity has an appositioncontainer | 1908
 
-For [`phrase`](featuresbynodetype.md#phrase-nodes) nodes (use [`syntax`](../syntactic-view.md#start) view):
+For [`phrase`](featuresbynodetype.md#phrase-nodes) nodes (use [`syntax-view`](../syntactic-view.md#start)):
 Value | Description | Frequency
 ---  | --- | --- 
 ` ` | this entity has no appositioncontainer | -
 `1` | this entity has an appositioncontainer | 715
 
-For [`subphrase`](featuresbynodetype.md#subphrase-nodes) nodes (use [`syntax`](../syntactic-view.md#start) view):
+For [`subphrase`](featuresbynodetype.md#subphrase-nodes) nodes (use [`syntax-view`](../syntactic-view.md#start)):
 Value | Description | Frequency
 ---  | --- | --- 
 ` ` | this entity has no appositioncontainer | -
