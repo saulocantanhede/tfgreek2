@@ -5,7 +5,7 @@
 # Nestle 1904 GNT - Features (grouped by feature type)
 ###### *(or browse by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), or [feature group](featuresbygroup.md#start))*
 
-The features of this Text-Fabric dataset:
+The features of this Text-Fabric dataset can be grouped by the following feature types:
 
 * [Node features](#node-features): the fundamental units or entities in the data model.
 * [Edge features](#edge-features): relationships or links, establishing connections between nodes in the data model.
