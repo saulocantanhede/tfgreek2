@@ -2,7 +2,7 @@
 
 ## Provenance
 
-Greek New Testament, edited by Eberhard Nestle, published in 1904 by the British and Foreign Bible Society. See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up) a scan of the orginal publication: Nestle, Eberhard. Η Καινή Διαθήκη Novum Testamentum Graece (New York: Fleming H. Revell Company, 1904).  The 1913 reprint is available [here](https://archive.org/details/hkainediathekete00lond/). Transcription by [Diego Santos](https://sites.google.com/site/nestle1904/home), morphology by Ulrik Sandborg-Petersen, markup by Jonathan Robie. 
+Greek New Testament, edited by Eberhard Nestle, published in 1904 by the British and Foreign Bible Society. See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up) a scan of the orginal publication: Nestle, Eberhard. *Η Καινή Διαθήκη Novum Testamentum Graece* (New York: Fleming H. Revell Company, 1904).  The 1913 reprint is available [here](https://archive.org/details/hkainediathekete00lond/). Transcription by [Diego Santos](https://sites.google.com/site/nestle1904/home), morphology by Ulrik Sandborg-Petersen, markup by Jonathan Robie. 
 
 ## Sourcedata
 
