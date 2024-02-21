@@ -1,5 +1,7 @@
 # WordGroup view <a name="start"></a>
 
+<sup>[overview of the concept 'view'](views.md#start)</sup>
+
 *draft notes for now* 
 
 Can be switched to when prefered.
