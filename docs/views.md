@@ -33,3 +33,17 @@ This image compares the parent (arrows) and sibling features (connector with cir
 
 ## Implementation notes
 
+## Matching table
+
+For feature pair [cls](features/cls.md#start) and [typ](features/typ.md#start)
+cls (WG view) | typ (Syntax view)
+---|---
+adjp | AdjP
+advp | AdvP
+np | NP
+pp | PP
+vp | VP
+
+
+
+
