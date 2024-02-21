@@ -1,3 +1,7 @@
+<a name="start"></a>
+[<small>`Transcription`</small>](transcription.md#start) | [<small>`Features`</small>](features.md#start) | [<small>`Views`</small>](views.md#start) | <small>`Syntaxtrees`</small> | [<small>`Tutorial`</small>](../tutorial/README.md#start) | [<small>`Usecases`</small>](usecases/README.md#start) |[<small>`About`</small>](about.md#start)
+---  | --- | --- | --- | --- | --- | ---
+
 # Syntax tree presentation of Nestle 1904 GNT
 
 This Nestle 1904 Text-Fabric dataset allows for the rendering of syntax trees following a constituency grammar, which describes sentences in terms of constituent parts. These constituents are groups of words that function as a single unit (or abstraction) within a hierarchical structure. This approach emphasizes the grouping of words into phrases and how these phrases function together to create meaning. It is particularly useful for capturing nested structures like subordinate clauses. This use of constituency grammar allows also for querying complex nested sentence structures. It allows linguists, language learners, and researchers to analyzing the sentence's syntax, identifying grammatical patterns, and understanding how words function within the sentence.
