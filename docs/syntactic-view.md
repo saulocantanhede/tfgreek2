@@ -1,6 +1,8 @@
 # Syntactic view <a name="start"></a>
 
-<sup>[overview of the concept 'view'](view.md#start)</sup>
+<sup>[overview of the concept 'view'](views.md#start)</sup>
+
+
 *draft notes for now* 
 
 default view (need to be implemented). Utilizes the terms common in linguistic research.
