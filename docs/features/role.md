@@ -29,6 +29,19 @@ apposition | Apposition | 4878
 aux | Auxiliar | 2112
 o2 | Second object | 718
 
+## mapping between role and function feature
+
+role (wg-view) | function (syntax-view)
+---|---
+io | Cmpl
+o | Objc
+o2 | Objc
+p | PreD
+s | Subj
+vc (wg nodes) | Pred
+v (word nodes) | Pred
+apposition | Appo
+
 ## Note
 See also the description in [MACULA Greek Treebank for the Nestle 1904 Greek New Testament.pdf](https://nbviewer.org/github/biblicalhumanities/greek-new-testament/blob/master/syntax-trees/nestle1904/doc/Nestle%201904%20Treebank%20Documentation.pdf) on page 4 and 5 (section 2.2. Syntactic Categories at Word Level: Part of Speech Labels).
 
