@@ -8,10 +8,10 @@
 
 This database offers users two distinct views to represent the syntax trees. The relation between node types and view types is shown in the following table.
 
-Viewtypes | Description | Invocation | Associated node types | 
+Viewtype | Display syntax tree | Invocation | Associated node types | 
 --- | --- | --- | ---
-[`wg-view`](wg-view.md#start) | Display syntax tree in agnostic terms like word groups | A.Viewtype('wg') |  [`wg`](features/featuresbynodetype.md#wordgroup-nodes) 
-[`syntax-view`](syntax-view.md#start) | Display syntax tree in linguistic terms like phrases and clauses | A.Viewtype('syntax') | [`subphrase`](features/featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`clause`](features/featuresbynodetype.md#clause-nodes) [`group`](featuresbynodetype.md#group-nodes)
+[`wg-view`](wg-view.md#start) | In agnostic terms like word groups | A.Viewtype('wg') |  [`wg`](features/featuresbynodetype.md#wordgroup-nodes) 
+[`syntax-view`](syntax-view.md#start) | In linguistic terms like phrases and clauses | A.Viewtype('syntax') | [`subphrase`](features/featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`clause`](features/featuresbynodetype.md#clause-nodes) [`group`](featuresbynodetype.md#group-nodes)
 
 <sup>Note: the node types  [`Word`](features/featuresbynodetype.md#word-nodes), [`Sentence`](features/featuresbynodetype.md#sentence-nodes), [`verse`](featuresbynodetype.md#verse-nodes), [`chapter`](features/featuresbynodetype.md#chapter-nodes), and [`Book`](features/featuresbynodetype.md#book-nodes) are common for both views.</sup>
 
