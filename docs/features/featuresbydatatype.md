@@ -1,7 +1,7 @@
 # Features grouped by data type  <a name="start"></a>
 ###### *(or browse by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), or [feature type](featuresbyfeaturetype.md#start))*
 
-This is the key to the meaning of the features in this TextFabric dataset. The available features can be taken together in the following groups: 
+The features in this Text-Fabric dataset can be grouped according to their datatype in the following manner: 
 
 * [String datatype features](#string-datatype)
 * [Integer datatype features](#integer-datatype)
@@ -9,6 +9,7 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 * [Configuration data](featuresbydatatype.md#configuration-data)
 
 ## String datatype
+<sup>Python datatype: str</sup>
 
 Name | Feature group | Feature type | Available on node | Description | Examples
 --- | --- | --- | --- | --- | ---
@@ -50,6 +51,7 @@ Name | Feature group | Feature type | Available on node | Description | Examples
 [voice](voice.md#start) | [`Morphological`](featuresbygroup.md#morphological-features)| [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Gramatical voice of the verb | `active` `passive`
 
 ## Integer datatype
+<sup>Python datatype: int</sup>
 
 Name | Feature group | Feature type | Available on node | Description | Examples
 --- | --- | --- | --- | --- | ---
