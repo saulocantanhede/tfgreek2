@@ -1,4 +1,8 @@
-# Features grouped by feature group <a name="start"></a>
+<a name="start"></a>
+[<small>`Transcription`</small>](../transcription.md#start) | [<small>`Features`</small>](../features.md#start) | [<small>`Views`</small>](../views.md#start) | [<small>`syntaxtrees`</small>](../syntaxtrees.md#start) | [<small>`Tutorial`</small>](../../tutorial/README.md#start) | [<small>`Usecases`</small>](../usecases/README.md#start) |[<small>`About`</small>](../about.md#start)
+---  | --- | --- | --- | --- | --- | ---
+
+# Features grouped by feature group 
 ###### *(or browse by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), or [feature type](featuresbyfeaturetype.md#start))*
 
 This is the key to the meaning of the features in this TextFabric dataset. The available features can be grouped together as following: 
