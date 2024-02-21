@@ -1,3 +1,6 @@
+[<small>`Transcription`</small>](transcription.md#start) | [<small>`Features`</small>](features.md#start) | <small>`Views`</small> | [<small>`Views`</small>](views.md#start) | [<small>`Tutorial`</small>](../tutorial/README.md#start) | [<small>`Usecases`</small>](usecases/README.md#start) |[<small>`About`</small>](about.md#start)
+---  | --- | --- | --- | --- | --- | ---
+
 # Views <a name="start"></a>
 
 ## The view types
