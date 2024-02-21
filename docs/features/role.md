@@ -29,9 +29,9 @@ apposition | Apposition | 4878
 aux | Auxiliar | 2112
 o2 | Second object | 718
 
-## mapping between role and function feature
+## Mapping between role and function feature
 
-role (wg-view) | function (syntax-view)
+role [`wg-view`](../wg-view.md#start) | function [`syntax-view`](syntax-view.md#start)
 ---|---
 io | Cmpl
 o | Objc
