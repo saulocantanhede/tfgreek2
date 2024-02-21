@@ -1,4 +1,4 @@
-[<small>`Transcription`</small>](transcription.md#start) | [<small>`Features`</small>](features.md#start) | [<small>`views`</small>](views.md#start) | [<small>`About`</small>](about.md#start)
+[<small>`Transcription`</small>](transcription.md#start) | [<small>`Features`</small>](features.md#start) | [<small>`Views`</small>](views.md#start) | [<small>`About`</small>](about.md#start)
 ---  | --- | --- | --- 
 
 
