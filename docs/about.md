@@ -4,6 +4,8 @@
 
 # Nestle 1904 GNT - About
 
+This is the [text-fabric](https://annotation.github.io/text-fabric/tf/) version of the Nestle 1904 Greek New Testament, containing the Greek text augmented with linguistic annotations.
+
 ## About Text-Fabric
 
 Text-Fabric is a powerful Python library and framework designed to facilitate the analysis and manipulation of large-scale textual data, particularly in the context of ancient languages and biblical texts. It provides a comprehensive set of tools for processing and querying structured text data efficiently. Text-Fabric was developed by [Dirk Roorda](https://github.com/dirkroorda). The software package is accessible at [https://github.com/annotation/text-fabric](https://github.com/annotation/text-fabric).
@@ -13,6 +15,8 @@ Detailed information regarding Text-Fabric can be found at:
 * [Text-Fabric Handbook](https://annotation.github.io/text-fabric-book)
 
 ## Provenance
+
+On this repository: This dataset contains several versions in the directory [tf](../tf).
 
 Greek New Testament, edited by Eberhard Nestle, published in 1904 by the British and Foreign Bible Society. See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up) a scan of the orginal publication: Nestle, Eberhard. *Η Καινή Διαθήκη Novum Testamentum Graece* (New York: Fleming H. Revell Company, 1904).  The 1913 reprint is available [here](https://archive.org/details/hkainediathekete00lond/). Transcription by [Diego Santos](https://sites.google.com/site/nestle1904/home), morphology by Ulrik Sandborg-Petersen, markup by Jonathan Robie. 
 
