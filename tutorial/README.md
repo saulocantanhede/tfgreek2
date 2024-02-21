@@ -4,3 +4,5 @@
 
 # Tutorial
 
+[tutorial.ipynb](https://nbviewer.org/github/saulocantanhede/tfgreek2/tree/main/tutorial/tutorial.ipynb)
+
