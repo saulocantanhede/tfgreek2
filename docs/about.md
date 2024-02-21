@@ -1,3 +1,7 @@
+[<small>`Transcription`</small>](transcription.md#start) | [<small>`Features`</small>](features.md#start) | [<small>`views`</small>](vieuws.md#start) | [<small>`About`</small>](about.md#start)
+---  | --- | --- | --- 
+
+
 # About Nestle 1904 Greek New Testament
 
 ## Provenance
