@@ -7,7 +7,7 @@
 The dataset for this corpus is accompanied by extensive documentation, which is organized in the following way:
 
 * [Transcription](transcription.md#start): An overview of how the corpus data is organized.
-* [Features](features/README.md#start): lists of features by different groupings
+* [Features](features/README.md#start): lists of features by different groupings.
 * [Views](views.md#start): The viewtypes in this dataset.
 * [Textformats](textformats.md#start): the textformats used in this dataset.
 * [Syntaxtrees](syntaxtrees.md#start): info on syntaxtrees.
