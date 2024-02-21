@@ -18,7 +18,8 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      * [`Orthograpic`](featuresbygroup.md#Orthograpic-features): deals with features related to the visual representation of the text.
      * [`Textcritical`](featuresbygroup.md#textcritical-features): deals with features related to textual critical issue.
      * [`Morphological`](featuresbygroup.md#morphological-features):  involves attributes that describe the internal structure and form of words.
-     * [`Syntactic`](featuresbygroup.md#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases. 
+     * [`Syntactic`](featuresbygroup.md#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases.
+     * [`Semanticc`](featuresbygroup.md#semantic-features): covers properties related to semantic meaning and roles. 
      * [`Relational`](featuresbygroup.md#relational-features):  encompasses attributes that describe various relationships or connections between elements in the text.
 * [Grouped by node type](featuresbynodetype.md#start):
      * [`word`](featuresbynodetype.md#word-nodes): represents individual words in the text.
