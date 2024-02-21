@@ -1,4 +1,4 @@
-# Views
+# Views <a name="start"></a>
 
 This database offers the users two distinct views to represent the syntax trees:
    * [Syntactic view](syntactic-view.md#start) (default): presents the syntax tree using linguistic terms like phrases and clauses.
