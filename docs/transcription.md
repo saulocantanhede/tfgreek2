@@ -1,49 +1,25 @@
-# N1904 Text-Fabric Corpus Documentation
+# Nestle 1904 GNT Corpus Transcription<a name="start"></a>
+
+This page provides a high level overview of how the Nestle 1904 GNT corpus has been transcipted into a Text-Fabric dataset. 
 
 ## The concept 'features' in Text-Fabric
 
-Text-Fabric, true to its name, implements the concepts of 'warp' and 'weft', inspired by textile weaving, to represent its data. The 'warp' denotes the foundational structured data, encompassing linguistic annotations like words, and phrases, while the 'weft' refers to the additional layers of information, known as features. These features encompass linguistic data, annotations, and metadata, seamlessly woven into the 'warp' data, resulting in a clear separation between structure and content. This approach enables Text-Fabric to efficiently handle complex linguistic datasets with versatility.
 
 ## Views
 
-This database offers the users two distinct views to represent the syntax trees:
-   * [Syntactic view](syntactic-view.md#start) (default): presents the syntax tree using linguistic terms like phrases and clauses.
-   * [WordGroup view](wg-view.md#start): presents the syntax tree in a more agnostic manner by means of word groups.
+The concept of [views](views.md#start) is important to this dataset. This database offers the users two distinct views to represent the syntax trees:
+   * [Syntactic view](syntactic-view.md#start) (default): present syntax tree in linguistic terms like phrases and clauses.
+   * [WordGroup view](wg-view.md#start): present syntax tree in agnostic terms like word groups.
 
-## All Features <a name="start"></a>
+## Features 
 
 In Text-Fabric, a "feature" refers to attributes associated with nodes, which represent linguistic elements in the text, including words, word groups, sentences, and verses. These features contain additional information specific to these nodes, facilitating diverse linguistic analyses and data extraction.
+Text-Fabric, true to its name, implements the concepts of 'warp' and 'weft', inspired by textile weaving, to represent its data. The 'warp' denotes the foundational structured data, encompassing linguistic annotations like words, and phrases, while the 'weft' refers to the additional layers of information, known as features. These features encompass linguistic data, annotations, and metadata, seamlessly woven into the 'warp' data, resulting in a clear separation between structure and content. This approach enables Text-Fabric to efficiently handle complex linguistic datasets with versatility.
 
-The full featureset of this Text-Fabric dataset can be viewed by different grouping methods:
-* [Grouped by feature type](features/featuresbyfeaturetype.md#start)
-     * [`Node`](features/featuresbyfeaturetype.md#node-features): the fundamental units or entities in the data model.
-     * [`Edge`](features/featuresbyfeaturetype.md#edge-features): relationships or links, establishing connections between nodes in the data model.
-     * [`Config`](features/featuresbyfeaturetype.md#config-features): contains the configuration or settings that define the behavior and parameters of the data processing or analysis.
-* [Grouped by feature group](features/featuresbygroup.md#start):
-     * [`Grid`](features/featuresbygroup.md#grid-features): pertains to the arrangement and organization of the data.
-     * [`Sectional`](features/featuresbygroup.md#sectional-features): encompasses attributes or elements related to divisions within the text.
-     * [`Lexical`](features/featuresbygroup.md#lexical-features): focuses on aspects related to individual words, their meanings, and lexical properties.
-     * [`Orthograpic`](features/featuresbygroup.md#Orthograpic-features): deals with features related to the visual representation of the text.
-     * [`Textcritical`](features/featuresbygroup.md#textcritical-features): deals with features related to textual critical issue.
-     * [`Morphological`](features/featuresbygroup.md#morphological-features):  involves attributes that describe the internal structure and form of words.
-     * [`Syntactic`](features/featuresbygroup.md#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases. 
-     * [`Relational`](features/featuresbygroup.md#relational-features):  encompasses attributes that describe various relationships or connections between elements in the text.
-* [Grouped by node type](features/featuresbynodetype.md#start):
-     * [`word`](features/featuresbynodetype.md#word-nodes): represents individual words in the text.
-     * [`wg`](features/featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit. Each individual wordgroup node has an acompanying shadow node of one of the following types: 
-         * [`subphrase`](features/featuresbynodetype.md#subphrase-nodes): Nodes pertaining to a subphrase unit.
-         * [`phrase`](features/featuresbynodetype.md#phrase-nodes): Nodes pertaining to a phrase unit.
-         * [`clause`](features/featuresbynodetype.md#clause-nodes): Nodes pertaining to a clause unit.
-         * [`group`](features/featuresbynodetype.md#group-nodes): Nodes pertaining to a phrase unit.
-     * [`sentence`](features/featuresbynodetype.md#sentence-nodes): represents individual sentences in the text.
-     * [`verse`](features/featuresbynodetype.md#verse-nodes): pertains to divisions within a larger textual unit, specificaly the biblical verse.
-     * [`chapter`](features/featuresbynodetype.md#chapter-nodes): divisions within the text that group related content together, specificaly the biblical chapter.
-     * [`book`](features/featuresbynodetype.md#book-nodes): the highest-level division within the text, corresponding to a bible book.
-* [Grouped by datatype](features/featuresbydatatype.md#start):
-     * [`string`](features/featuresbydatatype.md#string-datatype): Datatype of feature is string.
-     * [`integer`](features/featuresbydatatype.md#integer-datatype): Datatype of feature is integer.
-     * [`configuration`](features/featuresbydatatype.md#configuration-data): Configuration data.
-
+    * [Grouped by feature group](features/featuresbygroup.md#start): e.g., [`Orthographic`](features/featuresbygroup.md#orthograpic-features), [`Syntactic`](features/featuresbygroup.md#syntactic-features).
+    * [Grouped by node type](features/featuresbynodetype.md#start): e.g., [`word`](features/featuresbynodetype.md#word-nodes), [`clause`](features/featuresbynodetype.md#clause-nodes).
+    * [Grouped by data type](features/featuresbydatatype.md#start): e.g., [`str`](features/featuresbydatatype.md#string-datatype), [`int`](features/featuresbydatatype.md#integer-datatype).
+    * [Grouped by feature type](features/featuresbyfeaturetype.md#start): e.g., [`node`](features/featuresbyfeaturetype.md#node-features), [`edge`](features/featuresbyfeaturetype.md#edge-features).
 
 ## Example use-cases of this Text-Fabric dataset
 
