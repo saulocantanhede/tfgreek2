@@ -4,9 +4,9 @@
 
 # Nestle 1904 GNT -  Feature: appositioncontainer
 
-Feature group | Feature type | Data type | Available for node types
----  | --- | --- | --- 
-[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`integer`](featuresbydatatype.md#integer-datatype) | [`wg`](featuresbynodetype.md#wordgroup-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes)
+Feature group | Feature type | Data type | Available for node types | Viewtype
+---  | --- | --- | --- | ---
+[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`integer`](featuresbydatatype.md#integer-datatype) | [`wg`](featuresbynodetype.md#wordgroup-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) | [`syntax`](../syntactic-view.md#start) [`wg`](../wg-view.md#start)
 
 ## Feature description 
 
