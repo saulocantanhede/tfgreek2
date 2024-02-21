@@ -10,7 +10,7 @@ The relation between the constituent parts can be depicted in a syntax tree that
 
 The following image provides a syntax tree for the Greek text of John 1:1 based on constituency grammar.
 
-<img src="features/images/syntax_tree.png">
+<img src="features/images/syntax_tree.png" width="400">
 
 ## Other implementations 
 
