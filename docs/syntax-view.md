@@ -24,7 +24,7 @@ syntax (this view) | A.Viewtype('syntax') | [`subphrase`](features/featuresbynod
 
 The following images show the different presentation of the syntax tree for the two views:
 
-### Syntactic view
+### Syntax view
 
 <img src="features/images/syntax_view.png" width="650">
 
