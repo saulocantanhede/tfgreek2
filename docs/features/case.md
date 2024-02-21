@@ -12,7 +12,7 @@ Feature group | Feature type | Data type | Available for node types
 
 Gramatical case for wordtypes noun, pronoun, adjective, article, or participle. 
 
-This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
+This feature is also populated for `phrase` or `subphrase` (used in [`syntax-view`](../syntax-view.md#start)), but only if they consist of just one `word` node.
 
 ## Feature values
 
