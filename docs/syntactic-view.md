@@ -1,6 +1,8 @@
-# Syntactic view <a name="start"></a>
+<a name="start"></a>
+[`Transcription`](transcription.md#start) | [`Features`](features/README.md#start) | [`Views`](views.md#start) | [`Textformats`](textformats.md#start) | [`Syntaxtrees`](syntaxtrees.md#start) | [`Tutorial`](../tutorial/README.md#start) | [`Usecases`](usecases/README.md#start) |[`About`](about.md#start)
+---  | --- | --- | --- | --- | --- | --- | ---
 
-<sup>[overview of the concept 'view'](views.md#start)</sup>
+# Nestle 1904 GNT - Syntactic view
 
 
 *draft notes for now* 
