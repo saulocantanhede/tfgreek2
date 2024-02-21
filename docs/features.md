@@ -21,5 +21,6 @@ Text-Fabric, true to its name, implements the concepts of 'warp' and 'weft', ins
 
 ## Implementation note
 
+Each feature is implemented by an individual text file with extention '.tf'.
 
 
