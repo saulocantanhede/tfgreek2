@@ -1,5 +1,5 @@
 <a name="start"></a>
-[<small>`Transcription`</small>](transcription.md#start) | [<small>`Features`</small>](features/README.md#start) | [<small>`Views`</small>](views.md#start) | [<small>`Textformats`</small>](textformats.md#start) | [<small>`Syntaxtrees`</small>](syntaxtrees.md#start) | [<small>`Tutorial`</small>](../tutorial/README.md#start) | [<small>`Usecases`</small>](usecases/README.md#start) |<small>`About`</small>
+[`Transcription`](transcription.md#start) | [`Features`](features/README.md#start) | [`Views`](views.md#start) | [`Textformats`](textformats.md#start) | [`Syntaxtrees`](syntaxtrees.md#start) | [`Tutorial`](../tutorial/README.md#start) | [`Usecases`](usecases/README.md#start) |`About`
 ---  | --- | --- | --- | --- | --- | --- | ---
 
 # Nestle 1904 GNT - About
