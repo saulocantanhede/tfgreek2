@@ -2,7 +2,7 @@
 [`Transcription`](transcription.md#start) | [`Features`](features/README.md#start) | [`Views`](views.md#start) | [`Textformats`](textformats.md#start) | [`Syntaxtrees`](syntaxtrees.md#start) | [`Tutorial`](../tutorial/README.md#start) | [`Usecases`](usecases/README.md#start) |[`About`](about.md#start)
 ---  | --- | --- | --- | --- | --- | --- | ---
 
-# Nestle 1904 GNT - The syntax-view
+# Nestle 1904 GNT - Viewtype: syntax-view
 
 
 *draft notes for now* 
