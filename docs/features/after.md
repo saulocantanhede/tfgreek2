@@ -1,6 +1,6 @@
 <a name="start"></a>
-[<small>`Transcription`</small>](../transcription.md#start) | [<small>`Features`</small>](../features.md#start) | [<small>`Views`</small>](../views.md#start) | [<small>`Syntaxtrees`</small>](../syntaxtrees.md#start) | [<small>`Tutorial`</small>](../../tutorial/README.md#start) | [<small>`Usecases`</small>](../usecases/README.md#start) |[<small>`About`</small>](../about.md#start)
----  | --- | --- | --- | --- | --- | ---
+[`Transcription`](../transcription.md#start) | [`Features`](../features.md#start) | [`Views`](../views.md#start) | [`Textformats`](../textformats.md#start) | [`Syntaxtrees`](../syntaxtrees.md#start) | [`Tutorial`](../../tutorial/README.md#start) | [`Usecases`](../usecases/README.md#start) |[`About`](../about.md#start)
+---  | --- | --- | --- | --- | --- | --- |---
 
 # Nestle 1904 GNT - Feature: after
 
