@@ -31,7 +31,7 @@ o2 | Second object | 718
 
 ## Mapping between role and function feature
 
-role [`wg-view`](../wg-view.md#start) | function [`syntax-view`](../syntax-view.md#start)
+feature `role` ([`wg-view`](../wg-view.md#start)) | feature [`function`](function.md#start) [`syntax-view`](../syntax-view.md#start)
 ---|---
 io | Cmpl
 o | Objc
