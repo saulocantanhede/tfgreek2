@@ -8,7 +8,7 @@
 
 This database offers users two distinct views to represent the syntax trees. The relation between node types and view types is shown in the following table.
 
-View | Description | Invocation | Associated node types | 
+Viewtypes | Description | Invocation | Associated node types | 
 --- | --- | --- | ---
 [wg](wg-view.md#start) | Dispaly syntax tree in agnostic terms like word groups | A.Viewtype('wg') |  [`wg`](features/featuresbynodetype.md#wordgroup-nodes) 
 [syntax](syntax-view.md#start) | Display syntax tree in linguistic terms like phrases and clauses | A.Viewtype('syntax') | [`subphrase`](features/featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`clause`](features/featuresbynodetype.md#clause-nodes) [`group`](featuresbynodetype.md#group-nodes)
