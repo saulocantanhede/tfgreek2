@@ -1,7 +1,8 @@
+<a name="start"></a>
 <small>`Transcription`</small> | [<small>`Features`</small>](features.md#start) | [<small>`Views`</small>](views.md#start) | [<small>`Syntaxtrees`</small>](syntaxtrees.md#start) | [<small>`Tutorial`</small>](../tutorial/README.md#start) | [<small>`Usecases`</small>](usecases/README.md#start) |[<small>`About`</small>](about.md#start)
 ---  | --- | --- | --- | --- | --- | ---
 
-# Nestle 1904 GNT Corpus Transcription<a name="start"></a>
+# Nestle 1904 GNT Corpus Transcription
 
 This page provides a high level overview of how the Nestle 1904 GNT corpus has been transcipted into a Text-Fabric dataset. 
 
