@@ -1,4 +1,4 @@
-# Nestle1904 Text-Fabric Corpus Documentation Overview
+# Nestle 1904 GNT - Documentation Overview
 
 The dataset for this corpus is accompanied by extensive documentation, which is organized in the following way:
 
