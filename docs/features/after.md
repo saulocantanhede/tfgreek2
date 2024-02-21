@@ -4,10 +4,9 @@
 
 # Nestle 1904 GNT - Feature: after
 
-Feature group | Feature type | Data type | Available for node types | Viewtype
----  | --- | --- | --- | ---
-[`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | [`syntax`](../syntactic-view.md#start) [`wg`](../wg-view.md#start)
-
+Feature group | Feature type | Data type | Available for node types 
+---  | --- | --- | --- 
+[`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) 
 ## Feature description 
 
 This feature includes all material found after a word: regular space character,  punctuation marks followed by a regular space character, and text-critical markers. 
