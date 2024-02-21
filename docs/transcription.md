@@ -6,7 +6,7 @@
 
 This page provides a high level overview of how the Nestle 1904 GNT corpus has been transcipted into a Text-Fabric dataset. 
 
-## The concept 'features' in Text-Fabric
+## The concept 'feature' in Text-Fabric
 
 Short description - [features](features/README.md#start) 
 
