@@ -24,7 +24,7 @@ For node type:
 
 ## Source description
 
-Calculated (not in source xml).
+Calculated (not in source XML data).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
