@@ -12,8 +12,8 @@ Short description - [features](features/README.md#start)
 ## Views
 
 The concept of [viewtypes](viewtypes.md#start) is important to this dataset. This database offers the users two distinct views to represent the syntax trees:
-   * [Syntactic view](syntactic-view.md#start) (default): present syntax tree in linguistic terms like phrases and clauses.
-   * [WordGroup view](wg-view.md#start): present syntax tree in agnostic terms like word groups.
+   * [syntax-view](syntax-view.md#start) (default): present syntax tree in linguistic terms like phrases and clauses.
+   * [wg-view](wg-view.md#start): present syntax tree in agnostic terms like word groups.
 
 ## Features 
 
