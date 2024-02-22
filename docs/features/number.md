@@ -10,7 +10,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Gramatical number of the verb (`word` node with feature [cls](cls.md#start)=verb).
+Gramatical number of any `word` node with feature [cls](cls.md#start) set to e.g. verb, noun, det, adj, pron.
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
@@ -26,7 +26,7 @@ singular | Singular form (either first, second, or third person) | 69846
 
 ## Note
 
-See also related feature [person](person.md).
+See also the related feature [person](person.md) (only on `word` node with feature [cls](cls.md#start)=verb).
 
 ## Source description
 
