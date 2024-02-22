@@ -4,9 +4,9 @@
 
 # Nestle 1904 GNT - Feature: frame
 
-Feature group | Feature type | Data type | Available for node types
----  | --- | --- | ---
-[`Semantic`](featuresbygroup.md#semantic-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`string`](featuresbydatatype.md#string-datatype)  |  [`word`](featuresbynodetype.md#word-nodes)
+Feature group | Feature type | Data type | Available for node types | Used by viewtypes
+---  | --- | --- | --- | ---
+[`Semantic`](featuresbygroup.md#semantic-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`string`](featuresbydatatype.md#string-datatype)  |  [`word`](featuresbynodetype.md#word-nodes) | [`syntax-view`](../syntax-view.md#start) [`wg-view`](../wg-view.md#start) 
 
 ## Feature description
 
