@@ -1,6 +1,5 @@
 <a name="start"></a>
-[`Transcription`](transcription.md#start) | [`Features`](features/README.md#start) | [`Views`](views.md#start) | [`Textformats`](textformats.md#start) | [`Syntaxtrees`](syntaxtrees.md#start) | [`Tutorial`](../tutorial/README.md#start) | [`Usecases`](usecases/README.md#start) | [`About`](about.md#start)
----  | --- | --- | --- | --- | --- | --- | ---
+[`Transcription`](transcription.md#start) | [`Features`](features/README.md#start) | [`Viewtypes`](viewtypes.md#start) | [`Textformats`](textformats.md#start) | [`Syntaxtrees`](syntaxtrees.md#start) | [`Tutorial`](../tutorial/README.md#start) | [`Usecases`](usecases/README.md#start) | [`About`](about.md#start)
 
 # Nestle 1904 GNT - Documentation Overview
 
@@ -8,7 +7,7 @@ The dataset for this corpus is accompanied by extensive documentation, which is 
 
 * [Transcription](transcription.md#start): An overview of how the corpus data is organized.
 * [Features](features/README.md#start): lists of features by different groupings.
-* [Views](views.md#start): The viewtypes in this dataset.
+* [Viewtypes](viewtypes.md#start): The viewtypes in this dataset.
 * [Textformats](textformats.md#start): the textformats used in this dataset.
 * [Syntaxtrees](syntaxtrees.md#start): info on syntaxtrees.
 * [Tutorial](../tutorial/README.md#start): starting to use this dataset.
