@@ -4,9 +4,9 @@
 
 # Nestle 1904 GNT - Feature: tense
 
-Feature group | Feature type | Data type | Available for node types
----  | --- | --- | ---
-[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)
+Feature group | Feature type | Data type | Available for node types | Used by viewtypes
+---  | --- | --- | --- | ---
+[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | [`syntax-view`](../syntax-view.md#start) [`wg-view`](../wg-view.md#start)
 
 ## Feature description
 
@@ -27,6 +27,7 @@ future | Describing a simple or ongoing action in the future | 1626
 '' | Empty for any wordtype other than a verb | 109422
 
 ## Note
+
 The 'future perfect' tense (describing a completed action in the future) is not found in the text.
 
 ## Source description
