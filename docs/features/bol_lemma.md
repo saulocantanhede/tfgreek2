@@ -4,9 +4,9 @@
 
 # Nestle 1904 GNT - Feature: bol_lemma
 
-Feature group | Feature type | Data type | Available for node types | Viewtype
+Feature group | Feature type | Data type | Available for node types | Used in viewtypes
 ---  | --- | --- | --- | ---
-[`Lexical`](featuresbygroup.md#lexical-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | [`wg-view`](../wg-view.md#start) [`syntax-view`](../syntax-view.md#start)
+[`Lexical`](featuresbygroup.md#lexical-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | [`syntax-view`](../syntax-view.md#start) [`wg-view`](../wg-view.md#start)
 
 ## Feature description
 
