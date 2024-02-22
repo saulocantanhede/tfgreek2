@@ -10,7 +10,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Number of the lexeme according to Strong. 
+Number of the lexeme according to Strong's numbering system. 
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
