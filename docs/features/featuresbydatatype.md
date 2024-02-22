@@ -12,7 +12,7 @@ The features in this Text-Fabric dataset can be grouped according to their datat
 * [Configuration data](featuresbydatatype.md#configuration-data)
 
 ## String datatype
-<sup>Python datatype: str</sup>
+<sup>Python datatype: [str](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)</sup>
 
 Name | Feature group | Feature type | Available on node | Description | Examples
 --- | --- | --- | --- | --- | ---
