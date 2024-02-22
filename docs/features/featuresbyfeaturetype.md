@@ -12,6 +12,8 @@ The features of this Text-Fabric dataset can be grouped by the following feature
 
 ## Node features
 
+###### *Use Text-Fabric Node feature methods: [N](https://annotation.github.io/text-fabric/tf/cheatsheet.html#n-nodes) and [F](https://annotation.github.io/text-fabric/tf/cheatsheet.html#f-node-features).*
+
 Name | Feature group | Data type | Available on node | Description | Examples
 ---|---|---|---|---|---
 [after](after.md#start) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) |[`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) |  Space or punctuation after word | ` ` `.`
@@ -69,7 +71,9 @@ Name | Feature group | Data type | Available on node | Description | Examples
 
 ## Edge features
 
-Name | Feature group | Data type | Available on node | Description | Examples
+###### *Use Text-Fabric Edge feature methods: [E](https://annotation.github.io/text-fabric/tf/cheatsheet.html#e-edge-features).*
+
+Name | Feature group | Data type | Available on node | Description | Exampes
 ---|---|---|---|---|---
 [frame](frame.md#start) | [`Semantic`](featuresbygroup.md#semantic-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) | Providing 'semantic role labeling' (SRL) | `A0` `A1` `A2`
 [oslots](oslots.md) | [`Grid`](featuresbygroup.md#grid-features) | [`string`](featuresbydatatype.md#string-datatype) | | The set of slots associated with an object | `1` `1-11` `2010-2015,2020-2030`
