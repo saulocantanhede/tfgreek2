@@ -1,5 +1,5 @@
 <a name="start"></a>
-[`Transcription`](../transcription.md#start) | [`Features`](README.md#start) | [`Viewtypes`](../viewtypes.md#start) |[`Textformats`](../textformats.md#start)|  [`Syntaxtrees`](../syntaxtrees.md#start) | [`Tutorial`](../../tutorial/README.md#start) | [`Usecases`](../usecases/README.md#start) |[`About`](../about.md#start)
+[`Transcription`](../transcription.md#start) | [`Features`](README.md#start) | [`Viewtypes`](../viewtypes.md#start) |[`Textformats`](../textformats.md#start)|  [`Syntaxtrees`](../syntaxtrees.md#start) | [`Tutorial`](../../tutorial/README.md#start) | [`Usecases`](../usecases/README.md#start) | [`About`](../about.md#start)
 ---  | --- | --- | --- | --- | --- | --- |---
 
 # Nestle 1904 GNT - Feature: bol_lemma
@@ -32,7 +32,7 @@ See also related feature [variant](variant.md#start).
 
 ## Source description
 
-External (from Bible Online Learner).
+Based upon external data obtained from [Bible Online Learner](https://learner.bible/).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
