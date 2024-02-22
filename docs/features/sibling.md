@@ -4,9 +4,9 @@
 
 # Nestle 1904 GNT - Feature: sibling
 
-Feature group | Feature type | Data type | Available for node types
----  | --- | --- | ---
-[`Relational`](featuresbygroup.md#relational-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`integer`](featuresbydatatype.md#integer-datatype)  | [`word`](featuresbynodetype.md#word-nodes)
+Feature group | Feature type | Data type | Available for node types | Used by viewtypes
+---  | --- | --- | --- | ---
+[`Relational`](featuresbygroup.md#relational-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`integer`](featuresbydatatype.md#integer-datatype)  | [`word`](featuresbynodetype.md#word-nodes) | [`syntax-view`](../syntax-view.md#start) [`wg-view`](../wg-view.md#start)
 
 ## Feature description
 
