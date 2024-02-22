@@ -1,6 +1,3 @@
-<a name="start"></a>
-[`Transcription`](transcription.md#start) | [`Features`](features/README.md#start) | [`Viewtypes`](viewtypes.md#start) | [`Textformats`](textformats.md#start) | [`Syntaxtrees`](syntaxtrees.md#start) | [`Tutorial`](../tutorial/README.md#start) | [`Usecases`](usecases/README.md#start) | [`About`](about.md#start)
-
 # Nestle 1904 GNT - Documentation Overview
 
 The dataset for this corpus is accompanied by extensive documentation, which is organized in the following way:
