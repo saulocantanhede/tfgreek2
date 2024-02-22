@@ -23,7 +23,7 @@ masculine | grammatical gender is masculine | 41486
 neuter | grammatical gender is neuter | 13753
  '' | empty for any other wordtype | 63804
  
-<sup>1</sup> Frequency figures are listed for word nodes only. 
+<sup>1</sup> Frequency figures are listed for `word` nodes only. 
 
 ## Source description
 
