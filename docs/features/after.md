@@ -6,7 +6,8 @@
 
 Feature group | Feature type | Data type | Available for node types | Viewtypes
 ---  | --- | --- | --- | ---
-[`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | [`wg-view`](wg-view.md#start) [`syntax-view`](syntax-view.md#start)
+[`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | [`wg-view`](../wg-view.md#start) [`syntax-view`](../syntax-view.md#start)
+
 ## Feature description 
 
 This feature includes all material found after a word: regular space character,  punctuation marks followed by a regular space character, and text-critical markers. 
