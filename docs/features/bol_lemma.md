@@ -10,7 +10,9 @@ Feature group | Feature type | Data type | Available for node types | Viewtype
 
 ## Feature description
 
-Lexical lemma (lexime) provided by [Bible Online Learner](http://www.dadel.org/). This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
+Lexical lemma (lexeme) provided by [Bible Online Learner](https://learner.bible). 
+
+This feature is also populated for `phrase` or `subphrase` only in case these contain just one `word`.
 
 ## Notes
 
