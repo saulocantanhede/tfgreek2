@@ -4,7 +4,7 @@
 
 # Nestle 1904 GNT - Feature: bookshort
 
-Feature group | Feature type | Data type | Available for node types | Used in viewtypes
+Feature group | Feature type | Data type | Available for node types | Used by viewtypes
 ---  | --- | --- | --- | ---
 [`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`group`](featuresbynodetype.md#group-nodes) [`wg`](featuresbynodetype.md#wg-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`clause`](featuresbynodetype.md#clause-nodes)  [`book`](featuresbynodetype.md#book-notes) | [`syntax-view`](../syntax-view.md#start) [`wg-view`](../wg-view.md#start)
 
