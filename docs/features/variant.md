@@ -25,7 +25,7 @@ Value | Description | Frequency
 
 ## Source description
 
-Based upon external data obtained from Bible Online Learner.
+Based upon external data obtained from [Bible Online Learner](https://learner.bible/).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
