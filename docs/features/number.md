@@ -26,7 +26,7 @@ singular | Singular form (either first, second, or third person) | 69846
 
 ## Note
 
-See also the related feature [person](person.md) (only on `word` node with feature [cls](cls.md#start)=verb).
+See also the related feature [person](person.md) available for `word` node where feature [cls](cls.md#start)=verb).
 
 ## Source description
 
