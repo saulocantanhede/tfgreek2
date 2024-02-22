@@ -4,9 +4,9 @@
 
 # Nestle 1904 GNT - Feature: lang
 
-Feature group | Feature type | Data type | Available for node types
----  | --- | --- | --- 
-[`Syntactic`](home.md#sytactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`book`](bookgroupnodefeatures.md#readme)
+Feature group | Feature type | Data type | Available for node types | Used by viewtypes
+---  | --- | --- | --- | ---
+[`Syntactic`](home.md#sytactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`book`](bookgroupnodefeatures.md#readme) | [`syntax-view`](../syntax-view.md#start) [`wg-view`](../wg-view.md#start)
 
 ## Feature description 
 
