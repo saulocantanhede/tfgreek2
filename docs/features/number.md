@@ -10,7 +10,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Gramatical number of the verb.
+Gramatical number of the verb (`word` node with feature [cls](cls.md#start)=verb).
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
