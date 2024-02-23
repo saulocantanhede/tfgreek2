@@ -37,8 +37,8 @@ This image compares the parent (arrows) and sibling features (connector with cir
 
 <table>
         <tr>
-            <th><pre><a href="wg-view.md#start">wg-view</a></pre></th>
-            <th><pre><a href="syntax-view.md#start">syntax-view</a></pre></th>
+            <th>wg-view</th>
+            <th>syntax-view</th>
         </tr>
         <tr>
             <td>feature <a href="cls.md#start">cls</a></td>
