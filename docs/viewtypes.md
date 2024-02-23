@@ -45,68 +45,68 @@ This image compares the parent (arrows) and sibling features (connector with cir
             <td>feature <a href="typ.md#start">typ</a></td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;adjp</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;AdjP</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;adjp</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AdjP</td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;advp</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;AdvP</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;advp</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AdvP</td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;np</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;NP</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;np</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NP</td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;vp</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;VP</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vp</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VP</td>
         </tr>
         <tr>
-            <td>feature <a href="type.md#start">type</a></td>
-            <td>feature <a href="typ.md#start">typ</a></td>
+            <td>&nbsp;&nbsp;feature <a href="type.md#start">type</a></td>
+            <td>&nbsp;&nbsp;feature <a href="typ.md#start">typ</a></td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;conjugated-wg</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;conjuncted</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;conjugated-wg</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;conjuncted</td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;apposition-group</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;apposition</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apposition-group</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apposition</td>
         </tr>
         <tr>
-            <td>feature <a href="role.md#start">role</a></td>
-            <td>feature <a href="function.md#start">function</a></td>
+            <td>&nbsp;&nbsp;feature <a href="role.md#start">role</a></td>
+            <td>&nbsp;&nbsp;feature <a href="function.md#start">function</a></td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;io</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;Cmpl</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;io</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cmpl</td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;o</td>
-            <td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;Objc</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o</td>
+            <td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Objc</td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;o2</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o2</td>
             <!-- merged -->
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;p</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;PreC</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PreC</td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;s</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;Subj</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;s</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subj</td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;vc (for wg node)</td>
-            <td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;Pred</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vc (for wg node)</td>
+            <td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pred</td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;v (for word node)</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v (for word node)</td>
             <!-- merged -->
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;apposition</td>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;Appo</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apposition</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Appo</td>
         </tr>
     </table>
 
