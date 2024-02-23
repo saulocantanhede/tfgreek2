@@ -86,7 +86,7 @@ This image compares the parent (arrows) and sibling features (connector with cir
         </tr>
         <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;o2</td>
-            <td></td>
+            <!-- merged -->
         </tr>
         <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;p</td>
@@ -102,7 +102,7 @@ This image compares the parent (arrows) and sibling features (connector with cir
         </tr>
         <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;v (for word node)</td>
-            <td></td>
+            <!-- merged -->
         </tr>
         <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;apposition</td>
