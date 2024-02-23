@@ -35,14 +35,80 @@ This image compares the parent (arrows) and sibling features (connector with cir
 
 ## Matching table
 
-For feature pair [cls](features/cls.md#start) and [typ](features/typ.md#start)
-cls (WG view) | typ (Syntax view)
----|---
-adjp | AdjP
-advp | AdvP
-np | NP
-pp | PP
-vp | VP
+<table>
+        <tr>
+            <th><pre><a href="wg-view.md#start">wg-view</a></pre></th>
+            <th><pre><a href="syntax-view.md#start">syntax-view</a></pre></th>
+        </tr>
+        <tr>
+            <td>feature <a href="cls.md#start">cls</a></td>
+            <td>feature <a href="typ.md#start">typ</a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;adjp</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;AdjP</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;advp</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;AdvP</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;np</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;NP</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;vp</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;VP</td>
+        </tr>
+        <tr>
+            <td>feature <a href="type.md#start">type</a></td>
+            <td>feature <a href="typ.md#start">typ</a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;conjugated-wg</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;conjuncted</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;apposition-group</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;apposition</td>
+        </tr>
+        <tr>
+            <td>feature <a href="role.md#start">role</a></td>
+            <td>feature <a href="function.md#start">function</a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;io</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;Cmpl</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;o</td>
+            <td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;Objc</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;o2</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;p</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;PreC</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;s</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;Subj</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;vc (for wg node)</td>
+            <td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;Pred</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;v (for word node)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;apposition</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;Appo</td>
+        </tr>
+    </table>
 
 ## Implementation notes
 
