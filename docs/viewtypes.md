@@ -112,7 +112,7 @@ This image compares the parent (arrows) and sibling features (connector with cir
 
 ## Implementation notes
 
-The implementation of this feature is done by adding a small portion of Python code to the app's [app.py](../app/app.py) file. The function of this file is to allows for functional enhancements which are required to effectively handle a corpus. The default view is defined by adding relevant parameters to the app's [config.yaml](app/config.yaml) file.
+The implementation of this viewtype concept is done by adding a small portion of Python code to the app's [app.py](../app/app.py) file. The function of this file is to allows for functional enhancements which are required to effectively handle a corpus. The default view is defined by adding relevant parameters to the app's [config.yaml](app/config.yaml) file.
 
 
 
