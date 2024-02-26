@@ -41,9 +41,32 @@ modifier-scope | | 29645x
 wrapper-clause-scope | | 12166 
 wrapper-scope	| | 11264 
 
+Frequency for nodetype `sentence`:
+
+Value | Description | Frequency
+---- | ---- | ---
+wrapper-clause-scope	|| 12039
+group	|| 2525
+apposition-group ||	1
+
+Frequency for nodetype `group`:
+
+Value | Description | Frequency
+---- | ---- | ---
+conjuncted-wg ||	8075
+apposition-group ||	889
+
+Frequency for nodetype `clause`:
+
+Value | Description | Frequency
+---- | ---- | ---
+wrapper-clause-scope ||	127
+group	|| 43
+apposition-group || 1
+
 ## Source description
 
-Taken from XML attribute `type` of tag `w` (word) and tag `wg` (wordgroup).
+Based upon XML attribute `type` of tag `w` (word) and tag `wg` (wordgroup).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
