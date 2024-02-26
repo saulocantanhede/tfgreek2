@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Book name (abbreviated) 
+Book name abbreviation as it is used in e.g. Paratext.
 
 ## Feature values
 
@@ -46,6 +46,8 @@ REV | Revelation | 27
 ## Notes
 
 This value of this feature is identical to the first three characters of feature [ref](ref.md#start).
+
+For mapping to OSIS Book abreviations, see [OSIS Book Abbreviations](https://wiki.crosswire.org/OSIS_Book_Abbreviations).
 
 ## Source description
 
