@@ -48,6 +48,8 @@ Revelation | REV | 27
 
 Feature [num](num.md#readme) for nodetype 'book' contains the sequence number of the book within the Greek New Testament corpus.
 
+For mapping to OSIS Book abreviations, see [OSIS Book Abbreviations](https://wiki.crosswire.org/OSIS_Book_Abbreviations).
+
 ## Source description
 
 Based upon XML attribute `id` of tag `book`.
