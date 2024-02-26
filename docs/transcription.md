@@ -3,11 +3,7 @@
 
 # Nestle 1904 GNT - Transcription
 
-This page provides a high level overview of how the Nestle 1904 GNT corpus has been transcipted into a Text-Fabric dataset. 
-
-
-
-
+This page offers a brief overview of the transcription of the Nestle 1904 Greek New Testament (GNT) corpus, detailing how the original Greek texts is available in Text-Fabric format for digital accessibility, and outlines the types of linguistic annotations that are available.
 
 ## Features 
 
