@@ -41,8 +41,8 @@ This image compares the parent (arrows) and sibling features (connector with cir
             <th>syntax-view</th>
         </tr>
         <tr>
-            <td>feature <a href="cls.md#start">cls</a></td>
-            <td>feature <a href="typ.md#start">typ</a></td>
+            <td>feature <a href="features/cls.md#start">cls</a></td>
+            <td>feature <a href="features/typ.md#start">typ</a></td>
         </tr>
         <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;adjp</td>
@@ -61,8 +61,8 @@ This image compares the parent (arrows) and sibling features (connector with cir
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VP</td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;feature <a href="type.md#start">type</a></td>
-            <td>&nbsp;&nbsp;feature <a href="typ.md#start">typ</a></td>
+            <td>&nbsp;&nbsp;feature <a href="features/type.md#start">type</a></td>
+            <td>&nbsp;&nbsp;feature <a href="features/typ.md#start">typ</a></td>
         </tr>
         <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;conjugated-wg</td>
@@ -73,8 +73,8 @@ This image compares the parent (arrows) and sibling features (connector with cir
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apposition</td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;feature <a href="role.md#start">role</a></td>
-            <td>&nbsp;&nbsp;feature <a href="function.md#start">function</a></td>
+            <td>&nbsp;&nbsp;feature <a href="features/role.md#start">role</a></td>
+            <td>&nbsp;&nbsp;feature <a href="features/function.md#start">function</a></td>
         </tr>
         <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;io</td>
