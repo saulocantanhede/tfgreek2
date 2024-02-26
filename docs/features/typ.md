@@ -24,33 +24,33 @@ Frequency for nodetype `wg`:
 
 Value | Description | Frequency
 ---- | ---- | ---
-NP	|| 30911
-PP	|| 11169
+NP	| nominal phrase | 30911
+PP	| prepositional phrase | 11169
 conjuncted	|| 8075
 apposition	|| 889
-VP	|| 207
-AdjP ||	168
-AdvP ||	166
+VP	| verbal phrase | 207
+AdjP | adjectival phrase |168
+AdvP | adverbial phrase |166
 
 Frequency for nodetype `phrase`:
 
 Value | Description | Frequency
 ---- | ---- | ---
-NP	|| 10935
-PP	|| 9609
-AdvP ||	154
-AdjP ||	60
-VP	|| 10
+NP | nominal phrase | 10935
+PP | prepositional phrase | 9609
+AdvP | adverbial phrase |	154
+AdjP | adjectival phrase |	60
+VP | verbal phrase | 10
 
 Frequency for nodetype `subphrase`:
 
 Value | Description | Frequency
 ---- | ---- | ---
-NP	|| 30911
-PP	|| 11169
-VP	|| 207
-AdjP ||	168
-AdvP || 166
+NP | nominal phrase | 30911
+PP | prepositional phrase| 11169
+VP | verbal phrase | 207
+AdjP | adjectival phrase | 168
+AdvP | adverbial phrase | 166
 
 ## Source description
 
