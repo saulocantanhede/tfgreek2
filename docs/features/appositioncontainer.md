@@ -19,11 +19,13 @@ Value | Description | Frequency
 ` ` | this word group contains no appositioncontainer | -
 `1` | this word group contains an appositioncontainer | 1908
 
+
 Frequency for nodetype [`phrase`](featuresbynodetype.md#phrase-nodes) (used in [`syntax-view`](../syntactic-view.md#start)):
 Value | Description | Frequency
 ---  | --- | --- 
 ` ` | this phrase contains no appositioncontainer | -
 `1` | this phrase contains an appositioncontainer | 715
+
 
 Frequency for nodetype [`subphrase`](featuresbynodetype.md#subphrase-nodes) (used in [`syntax-view`](../syntactic-view.md#start)):
 Value | Description | Frequency
