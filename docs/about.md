@@ -3,7 +3,7 @@
 
 # Nestle 1904 GNT - About
 
-This is the [Text-Fabric](https://annotation.github.io/text-fabric/tf/) version of the Nestle 1904 Greek New Testament, containing the Greek text augmented with linguistic annotations.
+This is the [Text-Fabric](https://annotation.github.io/text-fabric/tf/) version of the Nestle 1904 Greek New Testament, containing the Greek text augmented with linguistic annotations. This dataset was created as output of the  'GNT conversion project,' collaboration between the [Eep Talstra Centre for Bible and Computer (ETCBC)](https://github.com/ETCBC/) at the Vrije Universiteit (VU) Amsterdam, Netherlands, and the [Center of Biblical Languages and Computing (CBLC)](https://github.com/CenterBLC/) at Andrews University, USA.
 
 ## About Text-Fabric
 
