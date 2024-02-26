@@ -14,7 +14,7 @@ For `word` nodes: Gramatical type of noun or pronoun. For all other nodes: synta
 
 ## Feature values
 
-For `word` nodes:
+Frequency for nodetype `word`:
 
 Value | Description | Frequency
 ---- | ---- | ---
@@ -29,7 +29,7 @@ proper | Name of a person, place, thing, etc. | 4639
 relative |  | 1674
 '' | Empty for wordtypes other than noun or pronoun | 93321
 
-For `wg` (wordgroup) nodes:
+Frequency for nodetype `wg` (wordgroup):
 
 Value | Description | Frequency
 ---- | ---- | ---
