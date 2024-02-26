@@ -13,7 +13,7 @@ For `word` nodes: Part of Speech (PoS). For other nodes: category.
 
 ## Feature values
 
-For [`word`](featuresbynodetype.md#word-nodes) nodes:
+Frequency for nodetype [`word`](featuresbynodetype.md#word-nodes):
 
 value | Part of Speech | frequency
 --- | --- | ---
@@ -29,7 +29,7 @@ ptcl | particle | 773
 pron | pronoun | 16177
 verb | verb | 28357
 
-For [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup) nodes:
+Frequency for nodetype [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup) :
 
 Value | Phrase Category | frequency
 --- | --- | ---
@@ -43,7 +43,7 @@ adv | ? phrase | 7
 cl | ? phrase | 30152
 conj | conjuction phrase| 1
 
-For [`phrase`](featuresbynodetype.md#phrase-nodes) nodes:
+Frequency for nodetype [`phrase`](featuresbynodetype.md#phrase-nodes) :
 
 Value | Phrase Category | frequency
 --- | --- | ---
@@ -59,7 +59,7 @@ advp | adverbial phrase |	154
 ptcl |participle phrase |	87
 adjp | adjectival phrase | 168
 
-For [`subphrase`](featuresbynodetype.md#subphrase-nodes) nodes:
+Frequency for nodetype [`subphrase`](featuresbynodetype.md#subphrase-nodes) :
 
 Value | Phrase Category | frequency
 --- | --- | ---
@@ -74,13 +74,13 @@ prep| preposition | 10914
 adj | adjectival phrase | 8452
 adv	| adverbal | 6154
 
-For [`clause`](featuresbynodetype.md#clause-nodes) nodes:
+Frequency for nodetype [`clause`](featuresbynodetype.md#clause-nodes) :
 
 Value | Phrase Category | frequency
 --- | --- | ---
 cl | Clause | 28676
 
-For [`sentence`](featuresbynodetype.md#sentence-nodes) nodes:
+Frequency for nodetype [`sentence`](featuresbynodetype.md#sentence-nodes) :
 
 Value | Phrase Category | frequency
 --- | --- | ---
