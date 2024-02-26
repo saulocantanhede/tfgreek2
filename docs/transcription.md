@@ -7,7 +7,7 @@ This page offers a brief overview of the transcription of the Nestle 1904 Greek 
 
 ## Interworking/compatability
 
-This database is organized to reach a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/). Furter in regards to database structuring and nomenclature, it is intended to follow the implementation of the [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible.
+This database is organized to reach a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/). Furter in regards to database structuring and nomenclature, it is intended to follow the  [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible.
 
 ## Features 
 
