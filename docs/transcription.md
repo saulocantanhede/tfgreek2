@@ -5,6 +5,10 @@
 
 This page offers a brief overview of the transcription of the Nestle 1904 Greek New Testament (GNT) corpus, detailing how the original Greek texts is available in Text-Fabric format for digital accessibility, and outlines the types of linguistic annotations that are available.
 
+## Interworking/compatability
+
+This database is organized to reach a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/). Furter in regards to database structuring and nomenclature, it is intended to follow the implementation of the [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible.
+
 ## Features 
 
 In Text-Fabric, a "feature" refers to attributes associated with nodes, which represent linguistic elements in the text, including words, word groups, sentences, and verses. These features contain additional information specific to these nodes, facilitating diverse linguistic analyses and data extraction.
