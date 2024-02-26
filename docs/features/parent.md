@@ -18,8 +18,11 @@ Any of the following:
    * One node value - node has one parent
    * Two node values - node has two parents
 
+
+
 ## Notes
 
+Note that usualy any node would have just one parent. In our implementation however word nodes can have two parents, consequence of implementing the 'wg-view' and the 'syntax-view' within a single database.
 The following query demonstrates a typical use of this feature. Here the parent feature is used twice in order to make sure wg2 is child of wg1 and w1 is child of wg1:
 *note: rewrite this to be a 'syntactic view' query*
 <pre>
@@ -66,6 +69,8 @@ Feature parent can also be used to identify the child node(s) by calling functio
 E.parent.f(246649)
   (246648,)
 </pre>
+
+See also the related feature [parent](parent.md#start).
 
 ## Source description
 
