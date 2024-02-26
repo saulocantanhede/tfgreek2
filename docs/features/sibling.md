@@ -17,7 +17,7 @@ Edge between a node and its preceding sibling nodes;  labelled with the distance
 
 Add a usage example.
 
-Due to the size of the `.tf` file, this feature is not pressent on the usual location at GitHub (i.e. the tf/{version} directory). If this feature is required, please extract it from the `complete.zip` file which is part of [the release](https://github.com/saulocantanhede/tfgreek2/releases).
+Due to the large size of the .tf file, it is stored in a compressed format (zip file) in the usual location on GitHub, specifically in the tf/{version} directory. However, this feature file is also included in the 'complete.zip' file, which is part of the release. Depending on how Text-Fabric is invoked, either the 'complete.zip' file is downloaded or each individual .tf file is obtained separately. If the file has not been downloaded, it can be manually downloaded as a zip file.
 
 ## Source description
 
