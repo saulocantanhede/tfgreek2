@@ -31,10 +31,14 @@ class TfApp(App):
          # note: here the A is TF's advanced API which is the implied object passed as argument 'app' to this function.
     """
         if ViewName=='wg':
+           # Each key-value pair in dictionary OptionDict represents a specific setting or option for the wg-view.
            OptionDict = {'hiddenTypes' : 'clause,phrase,subphrase', 'condensed': {True}, 'queryFeatures': {False}}
+           # Pass the dictionary (with a variable number of pairs) to the displaySetup function to unpack and apply.
            displaySetup(app,**OptionDict)
            print ('setup for wg-view')
         if ViewName=='syntax':
+           # Each key-value pair in dictionary OptionDict represents a specific setting or option for the syntax-view.
            OptionDict = {'hiddenTypes' : 'wg,subphrase', 'condensed': {True}, 'queryFeatures': {False}}
+           # Pass the dictionary (with a variable number of pairs) to the displaySetup function to unpack and apply.
            displaySetup(app,**OptionDict)
            print ('setup for syntax-view')
