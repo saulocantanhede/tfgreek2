@@ -7,7 +7,7 @@ This page offers a brief overview of the transcription of the Nestle 1904 Greek 
 
 ## Nodes and slots
 
-In Text-Fabric, the text of a corpus is represented as a sequence of slots, the smallest linguistic units, implemented as 'nodes', each identified by a unique number. This database organization, often referred to as tokenization, can be based on any unit: ranging from symbols (e.g., on an Akkadian clay tablet), individual letters (e.g., from the Dead Sea Scrolls, where the text might lack letters and words or contain unintelligible parts), to individual words. In this Text-Fabric database, tokenization is based on individual words. This approach is logical both from exegetical and linguistic perspectives, especially since the Nestle 1904 corpus is a synthetic text without incomplete or 'missing' words due to damaged manuscripts.
+In Text-Fabric, the text of a corpus is represented as a sequence of slots, which are the smallest linguistic units, implemented as 'nodes', each identified by a unique number. This database organization, often referred to as tokenization, can be based on any unit: ranging from symbols (e.g., on an Akkadian clay tablet), individual letters (e.g., from the Dead Sea Scrolls, where the text might lack letters and words, or contain unintelligible parts), to individual words. In this Text-Fabric database, tokenization is based on individual words. Therefore, this database uses 'word' nodes as its slot type, which implies that the smallest linguistic unit that can be queried is a 'word'. This approach is logical from both exegetical and linguistic perspectives, particularly since the Nestle 1904 corpus is a synthetic text without incomplete or 'missing' words due to damaged manuscripts.
 
 ## Interworking/compatability
 
