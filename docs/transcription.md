@@ -5,13 +5,14 @@
 
 This page offers a brief overview of the transcription of the Nestle 1904 Greek New Testament (GNT) corpus, detailing how the original Greek texts is available in Text-Fabric format for digital accessibility, and outlines the types of linguistic annotations that are available.
 
+## The database organisation
+
+This database is organized to achieve a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/). Further in regards to nomenclature and datapresentation, it is intended to mimick the [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible, in terms of user experiance. These choices have consequences for the structuring of the Text-Fabric database build up from nodes and features.
+Text-Fabric, true to its name, implements the concepts of 'warp' and 'weft', inspired by textile weaving, to represent its data. The 'warp' denotes the foundational structured data, encompassing linguistic annotations like words, and phrases, while the 'weft' refers to the additional layers of information, known as features. These features encompass linguistic data, annotations, and metadata, seamlessly woven into the 'warp' data, resulting in a clear separation between structure and content. This approach enables Text-Fabric to efficiently handle complex linguistic datasets with versatility.
+
 ## Nodes and slots
 
 In Text-Fabric, the text of a corpus is represented as a sequence of slots, which are the smallest linguistic units, implemented as 'nodes', each identified by a unique number. This database organization, often referred to as tokenization, can be based on any unit: ranging from symbols (e.g., on an Akkadian clay tablet), individual letters (e.g., from the Dead Sea Scrolls, where the text might lack letters and words, or contain unintelligible parts), to individual words. In this Text-Fabric database, tokenization is based on individual words. Therefore, this database uses 'word' nodes as its slot type, which implies that the smallest linguistic unit that can be queried is a 'word'. This approach is logical from both exegetical and linguistic perspectives, particularly since the Nestle 1904 corpus is a synthetic text without incomplete or 'missing' words due to damaged manuscripts.
-
-## Interworking/compatability
-
-This database is organized to achieve a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/). Further in regards to nomenclature and datapresentation, it is intended to mimick the [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible, in terms of user experiance. These choices have consequences for the structuring of the Text-Fabric database build up from nodes and features.
 
 ## Features 
 
@@ -24,9 +25,11 @@ Feature descriptions listed by different groupings:
 * [Grouped by data type](features/featuresbydatatype.md#start): e.g., [`str`](features/featuresbydatatype.md#string-datatype), [`int`](features/featuresbydatatype.md#integer-datatype). The python datatype is relevant when building queries or when processing the data.
 * [Grouped by feature type](features/featuresbyfeaturetype.md#start): e.g., [`node`](features/featuresbyfeaturetype.md#node-features), [`edge`](features/featuresbyfeaturetype.md#edge-features).
 
-* ## The concept 'features' in Text-Fabric
+## Views
 
-Text-Fabric, true to its name, implements the concepts of 'warp' and 'weft', inspired by textile weaving, to represent its data. The 'warp' denotes the foundational structured data, encompassing linguistic annotations like words, and phrases, while the 'weft' refers to the additional layers of information, known as features. These features encompass linguistic data, annotations, and metadata, seamlessly woven into the 'warp' data, resulting in a clear separation between structure and content. This approach enables Text-Fabric to efficiently handle complex linguistic datasets with versatility.
+The concept of [viewtypes](viewtypes.md#start) is important to this dataset. This database offers the users two distinct views to represent the syntax trees:
+   * [syntax-view](syntax-view.md#start) (default): present syntax tree in linguistic terms like phrases and clauses.
+   * [wg-view](wg-view.md#start): present syntax tree in agnostic terms like word groups.
 
 ## Implementation note
 
@@ -35,11 +38,7 @@ Each Text-Fabric dataset stores all the data related to its features in a direct
 <img src="features/images/tf_data_format.png" width="600px">
 
 
-## Views
 
-The concept of [viewtypes](viewtypes.md#start) is important to this dataset. This database offers the users two distinct views to represent the syntax trees:
-   * [syntax-view](syntax-view.md#start) (default): present syntax tree in linguistic terms like phrases and clauses.
-   * [wg-view](wg-view.md#start): present syntax tree in agnostic terms like word groups.
 
 
 
