@@ -7,11 +7,15 @@ dataDisplay:
   - null
   - NA
   sectionSep1: ' '
+  sectionSep2: ':'
   textFormat: text-orig-full
 docs:
-  docPage: about
-  featureBase: '{docBase}/transcription.md'
-  featurePage: '{docBase}/features/<feature>.md'
+  docRoot: "https://github.com/saulocantanhede/tfgreek2"
+#  docRoot: "https://github.com"
+  docBase: "https://github.com/saulocantanhede/tfgreek2/tree/main/docs"
+  featureBase: "https://github.com/saulocantanhede/tfgreek2/tree/main/docs/features/<feature>.md"
+  docPage: "about"
+  featurePage : README
 interfaceDefaults:
   fmt: text-orig-full # used by tf browser
 provenanceSpec:
@@ -35,7 +39,7 @@ typeDisplay:
     label: '#{num}: '
     style: ''
   wg:
-    label: '#{num}: {type} {role} {rule} {junction}'
+    label: '#{num}: {role} {typ} {rule} {junction}'
     style: ""
     condense: true
   clause:
@@ -43,7 +47,11 @@ typeDisplay:
     style: ''
     condense: true
   phrase:
-    label: '#{num}: {function} {role} {rule} {type}'
+    label: '#{num}: {function} {type} {rule} '
+    style: ''
+    condense: true
+  subphrase:
+    label: '#{num}: {function} {type} {rule} '
     style: ''
     condense: true
   verse:
