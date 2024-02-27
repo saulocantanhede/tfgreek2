@@ -6,8 +6,8 @@
 ###### *(or browse by [feature type](featuresbyfeaturetype.md#start), [data type](featuresbydatatype.md#start), or [feature group](featuresbygroup.md#start))*
 
 In  Text-Fabric 'features' provide a mapping of nodes of a specific type to its associated additional information. This Text-Fabric dataset contains the following node types:
-* [137779 `word` nodes](#word-nodes): each node represents an individual word in the corpus. They consitute the slots in the database; the smallest linguistic entity.
-* [106868 `wg` (wordgroup) nodes](#wordgroup-nodes): these nodes represents groups of words that together form a cohesive unit. Each  wordgroup node is mirrored with one node of one of the following types:
+* [137779 `word` nodes](#word-nodes): each node represents an individual word in the corpus. They consitute the the smallest linguistic entity in a query as they form the slots in the database.
+* [106868 `wg` (wordgroup) nodes](#wordgroup-nodes): each node represents a group of words forming a cohesive unit. Each wordgroup node is mirrored with one node of one of the following types:
     * [72845 `subphrase` nodes](#subphrase-nodes): 
     * [113750 `phrase` nodes](#phrase-nodes): 
     * [30479 `clause` nodes](#clause-nodes): 
