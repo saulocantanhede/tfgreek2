@@ -36,15 +36,6 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      * [`integer`](featuresbydatatype.md#integer-datatype): Datatype of feature is integer.
      * [`configuration`](featuresbydatatype.md#configuration-data): Configuration data.
 
-## The concept 'features' in Text-Fabric
-
-Text-Fabric, true to its name, implements the concepts of 'warp' and 'weft', inspired by textile weaving, to represent its data. The 'warp' denotes the foundational structured data, encompassing linguistic annotations like words, and phrases, while the 'weft' refers to the additional layers of information, known as features. These features encompass linguistic data, annotations, and metadata, seamlessly woven into the 'warp' data, resulting in a clear separation between structure and content. This approach enables Text-Fabric to efficiently handle complex linguistic datasets with versatility.
-
 ## Usage note
 
-## Implementation note
-
-Each Text-Fabric dataset stores all the data related to its features in a directory ['/tf/{version}'](../../tf). The data for each individual feature is storedin a plain Unicode text files with the '.tf' extention, with the filename matching the Text-Fabric feature name.  These feature  files are readable using any ordinairy text editor. Each file begins with a header section containing metadata, indicated by lines starting with the '@' symbol and followed by a blank line. This is followed by lines with feature data, where in principle the value stored on a given line 'n' is the value of that feature for node 'n'. However, Text-Fabric also contains some data optimalizations handling long sequences of empty lines, and long sequences of equal featurevalues. The following image shows the content of the .tf file for faeture 'text', which is asociated with nodetype 'word':
-
-<img src="images/tf_data_format.png" width="600px">
 
