@@ -11,7 +11,7 @@ In Text-Fabric, the text of a corpus is represented as a sequence of slots, whic
 
 ## Interworking/compatability
 
-This database is organized to reach a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/). Furter in regards to database structuring and nomenclature, it is intended to follow the  [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible.
+This database is organized to achieve a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/). Further in regards to nomenclature and datapresentation, it is intended to mimick the [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible, in terms of user experiance. These choices have consequences for the structuring of the Text-Fabric database build up from nodes and features.
 
 ## Features 
 
