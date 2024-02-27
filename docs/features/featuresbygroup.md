@@ -6,11 +6,11 @@
 
 This is the key to the meaning of the features in this TextFabric dataset. The available features can be grouped together as following: 
 
-* [Grid features](#grid-features): pertains to the arrangement and organization of the data.
-* [Sectional features](#sectional-features): encompasses attributes or elements related to divisions within the text.
-* [Orthograpic features](#orthograpic-features): deals with features related to the visual representation of the text.
-* [Lexical features](#lexical-features): focuses on aspects related to individual words and lexical properties.
-* [Textcritical features](#textcritical-features): deals with features related to textual critical issue.
+* [Grid features](#grid-features): features pertaining to the arrangement and organization of the database.
+* [Sectional features](#sectional-features): features related to structural divisions within the text.
+* [Orthograpic features](#orthograpic-features): features related to the visual representation of the text.
+* [Lexical features](#lexical-features): features related to individual words and their lexical properties.
+* [Textcritical features](#textcritical-features): features related to textual critical issues.
 * [Morphological features](#morphological-features): involves attributes that describe the internal structure and form of words.
 * [Syntactic features](#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases.
 * [Semantic features](#semantic-features): covers properties related to semantic meaning and roles. 
@@ -18,6 +18,7 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 
 ## Grid features
 
+<sup>These features pertains to the arrangement and organization of the database.</sup>
 Name |  Feature type | Available on nodes | Description| Examples
 ---|---| ---|--- | ---
 [oslots](oslots.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | *not applicable*  | slot containment | `1` `1-11` `2010-2015,2020-2030`
@@ -26,6 +27,7 @@ Name |  Feature type | Available on nodes | Description| Examples
 
 ## Sectional features
 
+<sup>These features are related to structural divisions within the text.</sup>
 Name | Data type | Feature type | Available on nodes | Description | Examples
 ---|---|---|---|---|---
 [book](book.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) [`group`](featuresbynodetype.md#group-nodes) [`wg`](featuresbynodetype.md#wg-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`verse`](featuresbynodetype.md#verse-nodes)  [`book`](featuresbynodetype.md#book-nodes) | Full book name | `Matthew` `Mark` ... `Revelation`
@@ -37,10 +39,9 @@ Name | Data type | Feature type | Available on nodes | Description | Examples
 [ref](ref.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes)  [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Unique identity of a word | `1CO 10:1!1`
 [verse](verse.md#start) | [`integer`](featuresbydatatype.md#integer-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`verse`](featuresbynodetype.md#verse-nodes) | Verse number inside chapter | `1` `2`
 
-
-
 ## Orthograpic features
 
+<sup>These features are related to the visual representation of the text.</sup>
 Name |  Data type |Feature type | Available on nodes| Description | Examples
 --- | --- | --- | --- | --- | ---
 [after](after.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | All material found after a word | ` ` `. ` `; `
@@ -52,6 +53,7 @@ Name |  Data type |Feature type | Available on nodes| Description | Examples
 
 ## Lexical features
 
+<sup>These features are related to individual words and their lexical properties.</sup>
 Name |  Data type |Feature type | Available on nodes | Description | Examples
 ---|---|---|--- | ---| ---
 [bol_lemma](bol_lemma.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Lexical lemma provided by Bible Online Learner | `ὁ` `καί`
@@ -61,7 +63,7 @@ Name |  Data type |Feature type | Available on nodes | Description | Examples
 [variant](variant.md#start) | [`string`](featuresbydatatype.md#string-datatype) |  [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Lexical variant of the lemma | `1` `2`
 
 ## Textcritical features
-
+<sup>These features are related to textual critical issues</sup>
 Name |  Data type |Feature type | Available on nodes | Description | Examples
 ---|---|---|--- | ---| ---
 [criticalsign](criticalsign.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | text-critical signs | `(` `[` `)` `]`
