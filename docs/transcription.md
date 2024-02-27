@@ -24,16 +24,22 @@ Feature descriptions listed by different groupings:
 * [Grouped by data type](features/featuresbydatatype.md#start): e.g., [`str`](features/featuresbydatatype.md#string-datatype), [`int`](features/featuresbydatatype.md#integer-datatype).
 * [Grouped by feature type](features/featuresbyfeaturetype.md#start): e.g., [`node`](features/featuresbyfeaturetype.md#node-features), [`edge`](features/featuresbyfeaturetype.md#edge-features).
 
+* ## The concept 'features' in Text-Fabric
+
+Text-Fabric, true to its name, implements the concepts of 'warp' and 'weft', inspired by textile weaving, to represent its data. The 'warp' denotes the foundational structured data, encompassing linguistic annotations like words, and phrases, while the 'weft' refers to the additional layers of information, known as features. These features encompass linguistic data, annotations, and metadata, seamlessly woven into the 'warp' data, resulting in a clear separation between structure and content. This approach enables Text-Fabric to efficiently handle complex linguistic datasets with versatility.
+
+## Implementation note
+
+Each Text-Fabric dataset stores all the data related to its features in a directory ['/tf/{version}'](../../tf). The data for each individual feature is storedin a plain Unicode text files with the '.tf' extention, with the filename matching the Text-Fabric feature name.  These feature  files are readable using any ordinairy text editor. Each file begins with a header section containing metadata, indicated by lines starting with the '@' symbol and followed by a blank line. This is followed by lines with feature data, where in principle the value stored on a given line 'n' is the value of that feature for node 'n'. However, Text-Fabric also contains some data optimalizations handling long sequences of empty lines, and long sequences of equal featurevalues. The following image shows the content of the .tf file for faeture 'text', which is asociated with nodetype 'word':
+
+<img src="features/images/tf_data_format.png" width="600px">
+
+
 ## Views
 
 The concept of [viewtypes](viewtypes.md#start) is important to this dataset. This database offers the users two distinct views to represent the syntax trees:
    * [syntax-view](syntax-view.md#start) (default): present syntax tree in linguistic terms like phrases and clauses.
    * [wg-view](wg-view.md#start): present syntax tree in agnostic terms like word groups.
 
-## Example use-cases of this Text-Fabric dataset
 
-The following are several use-case examples that demonstrate the utilization of the Text-Fabric dataset. While Text-Fabric,  which is implemented as a Python package, can be employed in any stand-alone Python script, it is commonly utilized from within a [Jupyter Notebook](https://jupyter.org) — an interactive web-based computational environment enabling users to create and share documents with live code, visualizations, and text, thus facilitating the inclusion of explanatory notes alongside queries and results obtained from Text-Fabric.
 
-### Basic / general
-
-* [Load Text-Fabric in Jupyter notebook](https://nbviewer.org/github/saulocantanhede/tfgreek2/blob/main/docs/usecases/load_text_fabric.ipynb)
