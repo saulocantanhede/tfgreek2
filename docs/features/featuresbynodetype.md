@@ -21,7 +21,7 @@ All node features are listed below grouped by node type:
 
 ## Word nodes 
 
-<sup>The `word` nodes represents individual word in the corpus. The features associated with this node type are used in both the [`wg-view`](../wg-view.md#start) and the [`syntax-view`](../syntactic-view.md#start).</sup>
+<sup>The `word` nodes represents individual word in the corpus. The features associated with this node type are used in both the [`wg-view`](../wg-view.md#start) and the [`syntax-view`](../syntax-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -71,7 +71,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Wordgroup nodes 
 
-<sup>Note: this node type is only associated with the [WordGroup view](../wg-view.md#start).</sup> 
+<sup>The `wg` nodes represents a group of words and/or wordgroups forming a cohesive unit. This node type is only associated with the [`wg-view`](../wg-view.md#start).</sup> 
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -210,7 +210,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Sentence nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](,,/syntactic-view.md#start).</sup>
+<sup>The `sentence` nodes represents individual sentences in the corpus. This node type is associated with both the [`wg-view`](../wg-view.md#start) and the [`syntax-view`](,,/syntax-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -231,7 +231,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Verse nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](../syntactic-view.md#start).</sup>
+<sup>The `verse` nodes represents individual versus in the corpus. This node type is associated with both the [`wg-view`](../wg-view.md#start) and the [`syntax-view`](../syntax-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -242,7 +242,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Chapter nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](../syntactic-view.md#start).</sup>
+<sup>The `chapter` nodes represents individual chapters in the corpus. This node type is associated with both the [`wg-view`](../wg-view.md#start) and the [`syntax-view`](../syntax-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -252,7 +252,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Book nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](,,/syntactic-view.md#start).</sup>
+<sup>The `book` nodes represents individual books in the corpus. This node type is associated with both the [`wg-view`](../wg-view.md#start) and the [`syntax-view`](../syntax-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
