@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-This is XML attribute typ.
+This is XML attribute 'typ'.
 
 ## Feature values
 
