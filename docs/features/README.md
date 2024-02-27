@@ -26,7 +26,7 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
          * [`subphrase`](featuresbynodetype.md#subphrase-nodes): Nodes pertaining to a subphrase unit.
          * [`phrase`](featuresbynodetype.md#phrase-nodes): Nodes pertaining to a phrase unit.
          * [`clause`](featuresbynodetype.md#clause-nodes): Nodes pertaining to a clause unit.
-         * [`group`](featuresbynodetype.md#group-nodes): Nodes pertaining to a phrase unit.
+         * [`group`](featuresbynodetype.md#group-nodes): Nodes pertaining to a group unit.
      * [`sentence`](featuresbynodetype.md#sentence-nodes): represents individual sentences in the text.
      * [`verse`](featuresbynodetype.md#verse-nodes): pertains to divisions within a larger textual unit, specificaly the biblical verse.
      * [`chapter`](featuresbynodetype.md#chapter-nodes): divisions within the text that group related content together, specificaly the biblical chapter.
