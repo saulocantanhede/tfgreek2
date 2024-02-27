@@ -21,7 +21,7 @@ All node features are listed below grouped by node type:
 
 ## Word nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](../syntactic-view.md#start).</sup>
+<sup>The `word` nodes represents individual word in the corpus. The features associated with this node type are used in both the [`wg-view`](../wg-view.md#start) and the [`syntax-view`](../syntactic-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
