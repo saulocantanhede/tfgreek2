@@ -19,7 +19,7 @@ In Text-Fabric, the text of a corpus is represented as a sequence of slots, whic
 
 In Text-Fabric, the concept of 'feature' refers to the mapping of a node (e.g., the 'word' node) to its associated attributes with their values (e.g. in case of the 'word' node: the text itself and other details like gender, number or mood). Each node types like 'word', 'wg' (word groups), 'sentence', or 'verse' in this dataset has its own set of associated 'features' providing additional information specific to that nodetype.
 
-Since this Text-Fabric database contains over 50 features, listings are provided based on four different types of grouping in order to provide a clear functional overview:
+Since this Text-Fabric database contains over 50 features, four listings are provided, each based on a different types of grouping in order to provide a clear functional overview:
 * [Grouped by feature group](features/featuresbygroup.md#start): e.g., [`Orthographic`](features/featuresbygroup.md#orthograpic-features), [`Syntactic`](features/featuresbygroup.md#syntactic-features).
 * [Grouped by node type](features/featuresbynodetype.md#start): e.g., [`word`](features/featuresbynodetype.md#word-nodes), [`clause`](features/featuresbynodetype.md#clause-nodes).
 * [Grouped by data type](features/featuresbydatatype.md#start): e.g., [`str`](features/featuresbydatatype.md#string-datatype), [`int`](features/featuresbydatatype.md#integer-datatype). The python datatype is relevant when building queries or when processing the data.
