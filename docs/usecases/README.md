@@ -7,6 +7,11 @@ The following are several use-case examples that demonstrate the utilization of 
 
 ## Basic / general
 
+* [Load Text-Fabric in Jupyter notebook](https://nbviewer.org/github/saulocantanhede/tfgreek2/blob/main/docs/usecases/load_text_fabric.ipynb)
+
+
 ## Grammatical
 
 ## Advanced
+
+
