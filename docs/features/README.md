@@ -3,7 +3,7 @@
 
 # Nestle 1904 GNT - Features
 
-In Text-Fabric, a 'feature' refers to attributes associated with nodes, which represent linguistic elements in the text, including words, word groups, sentences, and verses. These features contain additional information specific to these nodes, facilitating diverse linguistic analyses and data extraction.
+In Text-Fabric, a 'feature' refers to attributes associated with a certain nodes type (like words, word groups, or sentences). The feature value provide additional information specific to that node.
 
 The full featureset of this Text-Fabric dataset can be viewed by different grouping methods:
 * [Grouped by feature type](featuresbyfeaturetype.md#start)
@@ -35,7 +35,5 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      * [`string`](featuresbydatatype.md#string-datatype): Datatype of feature is string.
      * [`integer`](featuresbydatatype.md#integer-datatype): Datatype of feature is integer.
      * [`configuration`](featuresbydatatype.md#configuration-data): Configuration data.
-
-## Usage note
 
 
