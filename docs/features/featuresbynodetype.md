@@ -1,14 +1,13 @@
 <a name="start"></a>
-[`Transcription`](../transcription.md#start) | [`Features`](README.md#start) | [`Viewtypes`](../viewtypes.md#start) | [`Syntaxtrees`](../syntaxtrees.md#start) | [`Tutorial`](../../tutorial/README.md#start) | [`Usecases`](../usecases/README.md#start) |[`About`](../about.md#start)
----  | --- | --- | --- | --- | --- | ---
+[`Transcription`](../transcription.md#start) | [`Features`](README.md#start) | [`Viewtypes`](../viewtypes.md#start) | [`Textformats`](../textformats.md#start) |  [`Syntaxtrees`](../syntaxtrees.md#start) | [`Tutorial`](../../tutorial/README.md#start) | [`Usecases`](../usecases/README.md#start) | [`About`](../about.md#start)
 
 # Nestle 1904 GNT - Features (grouped by node type) 
 
 ###### *(or browse by [feature type](featuresbyfeaturetype.md#start), [data type](featuresbydatatype.md#start), or [feature group](featuresbygroup.md#start))*
 
-This Text-Fabric dataset contains the following node types:
-* [137779 `word` nodes](#word-nodes): represents individual words in the text.
-* [106868 `wg` (wordgroup) nodes](#wordgroup-nodes): each node represents a group of words that form a cohesive unit. Each is paired with one of the following node types:
+In  Text-Fabric 'features' provide a mapping of nodes of a specific type to its associated additional information. This Text-Fabric dataset contains the following node types:
+* [137779 `word` nodes](#word-nodes): each node represents an individual word in the corpus. They consitute the the smallest linguistic entity in a query as they form the slots in the database.
+* [106868 `wg` (wordgroup) nodes](#wordgroup-nodes): each node represents a group of words forming a cohesive unit. Each individual word group node is accompanied by a shadow node of one of the following types:
     * [72845 `subphrase` nodes](#subphrase-nodes): 
     * [113750 `phrase` nodes](#phrase-nodes): 
     * [30479 `clause` nodes](#clause-nodes): 
@@ -22,7 +21,7 @@ All node features are listed below grouped by node type:
 
 ## Word nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](../syntactic-view.md#start).</sup>
+<sup>The `word` nodes represents individual word in the corpus. The features associated with this node type are used in both the [`wg-view`](../wg-view.md#start) and the [`syntax-view`](../syntax-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -72,7 +71,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Wordgroup nodes 
 
-<sup>Note: this node type is only associated with the [WordGroup view](../wg-view.md#start).</sup> 
+<sup>The `wg` nodes represents a group of words and/or wordgroups forming a cohesive unit. This node type is only associated with the [`wg-view`](../wg-view.md#start).</sup> 
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -211,7 +210,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Sentence nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](,,/syntactic-view.md#start).</sup>
+<sup>The `sentence` nodes represents individual sentences in the corpus. This node type is associated with both the [`wg-view`](../wg-view.md#start) and the [`syntax-view`](,,/syntax-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -232,7 +231,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Verse nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](../syntactic-view.md#start).</sup>
+<sup>The `verse` nodes represents individual versus in the corpus. This node type is associated with both the [`wg-view`](../wg-view.md#start) and the [`syntax-view`](../syntax-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -243,7 +242,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Chapter nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](../syntactic-view.md#start).</sup>
+<sup>The `chapter` nodes represents individual chapters in the corpus. This node type is associated with both the [`wg-view`](../wg-view.md#start) and the [`syntax-view`](../syntax-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -253,7 +252,7 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 
 ## Book nodes 
 
-<sup>Note: this node type is associated with both the [WordGroup view](../wg-view.md#start) and the [Syntactic view](,,/syntactic-view.md#start).</sup>
+<sup>The `book` nodes represents individual books in the corpus. This node type is associated with both the [`wg-view`](../wg-view.md#start) and the [`syntax-view`](../syntax-view.md#start).</sup>
 
 Feature | Feature group | Feature type | Data type | Short description | Examples
 --- | --- | --- | --- | --- | ---
@@ -263,9 +262,4 @@ Feature | Feature group | Feature type | Data type | Short description | Example
 [num](num.md#start) | [`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Sequence number (here: book number) | `1` `2`
 [otype](otype.md) | [`Grid`](featuresbygroup.md#grid-features) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | mapping between node number and associated objecttype | 
 
-
-
-
-
-
-
+###### *(or browse by [feature type](featuresbyfeaturetype.md#start), [data type](featuresbydatatype.md#start), or [feature group](featuresbygroup.md#start))*

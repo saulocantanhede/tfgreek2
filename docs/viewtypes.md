@@ -1,12 +1,12 @@
 <a name="start"></a>
 [`Transcription`](transcription.md#start) | [`Features`](features/README.md#start) | `Viewtypes` | [`Textformats`](textformats.md#start) | [`Syntaxtrees`](syntaxtrees.md#start) | [`Tutorial`](../tutorial/README.md#start) | [`Usecases`](usecases/README.md#start) |[`About`](about.md#start)
----  | --- | --- | --- | --- | --- | --- | ---
+
 
 # Nestle 1904 GNT - Viewtypes
 
 ## The view types
 
-This database offers users two distinct views to represent the syntax trees. The relation between node types and view types is shown in the following table.
+This database offers users two distinct views to represent the syntax trees. Each viewtype has some features associated with it, using a dedicated nomenclature. The relation between node types and view types is shown in the following table.
 
 Viewtype | Display syntax tree | Invocation | Associated node types | 
 --- | --- | --- | ---
@@ -35,17 +35,84 @@ This image compares the parent (arrows) and sibling features (connector with cir
 
 ## Matching table
 
-For feature pair [cls](features/cls.md#start) and [typ](features/typ.md#start)
-cls (WG view) | typ (Syntax view)
----|---
-adjp | AdjP
-advp | AdvP
-np | NP
-pp | PP
-vp | VP
+<table>
+        <tr>
+            <th>wg-view</th>
+            <th>syntax-view</th>
+        </tr>
+        <tr>
+            <td>feature <a href="features/cls.md#start">cls</a></td>
+            <td>feature <a href="features/typ.md#start">typ</a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;adjp</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AdjP</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;advp</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AdvP</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;np</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NP</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vp</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VP</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;feature <a href="features/type.md#start">type</a></td>
+            <td>&nbsp;&nbsp;feature <a href="features/typ.md#start">typ</a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;conjugated-wg</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;conjuncted</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apposition-group</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apposition</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;feature <a href="features/role.md#start">role</a></td>
+            <td>&nbsp;&nbsp;feature <a href="features/function.md#start">function</a></td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;io</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cmpl</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o</td>
+            <td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Objc</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o2</td>
+            <!-- merged -->
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PreC</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;s</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subj</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vc (for wg node)</td>
+            <td rowspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pred</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v (for word node)</td>
+            <!-- merged -->
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apposition</td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Appo</td>
+        </tr>
+    </table>
 
 ## Implementation notes
 
+The implementation of this viewtype concept is done by adding a small portion of Python code to the app's [app.py](../app/app.py) file. The function of this file is to allows for functional enhancements which are required to effectively handle a corpus. The default view is defined by adding relevant parameters to the app's [config.yaml](../app/config.yaml) file.
 
 
 

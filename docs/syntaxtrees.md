@@ -1,6 +1,5 @@
 <a name="start"></a>
 [`Transcription`](transcription.md#start) | [`Features`](features/README.md#start) | [`Viewtypes`](viewtypes.md#start) | [`Textformats`](textformats.md#start) | `Syntaxtrees`</small> | [<small>`Tutorial`](../tutorial/README.md#start) | [`Usecases`](usecases/README.md#start) |[`About`](about.md#start)
----  | --- | --- | --- | --- | --- | --- | ---
 
 # Nestle 1904 GNT - Syntaxtrees
 

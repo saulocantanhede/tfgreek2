@@ -1,6 +1,5 @@
 <a name="start"></a>
 [`Transcription`](../transcription.md#start) | [`Features`](../features/README.md#start) | [`Viewtypes`](../viewtypes.md#start) | [`Textformats`](../textformats.md#start) | [`Syntaxtrees`](../syntaxtrees.md#start) | [`Tutorial`](../../tutorial/README.md#start) | `Usecases` | [`About`](../about.md#start)
----  | --- | --- | --- | --- | --- | --- | ---
 
 # Nestle 1904 GNT - Usecases
 
@@ -8,6 +7,11 @@ The following are several use-case examples that demonstrate the utilization of 
 
 ## Basic / general
 
+* [Load Text-Fabric in Jupyter notebook](https://nbviewer.org/github/saulocantanhede/tfgreek2/blob/main/docs/usecases/load_text_fabric.ipynb)
+
+
 ## Grammatical
 
 ## Advanced
+
+
