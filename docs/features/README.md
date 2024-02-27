@@ -44,5 +44,5 @@ Text-Fabric, true to its name, implements the concepts of 'warp' and 'weft', ins
 
 ## Implementation note
 
-Each Text-Fabric dataset stores its features in a directory ['/tf/{version}'](../tf) containing plain Unicode text files with the '.tf' extention. The name of each individual file matches the name of its corresponding TF feature. These .tf feature files can be read using any ordinairy text editor.
+Each Text-Fabric dataset stores all data related to its features in a directory ['/tf/{version}'](../../tf) containing plain Unicode text files with the '.tf' extention. The name of each individual file matches the name of its corresponding TF feature. These .tf feature files can be read using any ordinairy text editor.
 
