@@ -87,4 +87,5 @@ Name | Feature group |Data type| Description| Examples
 ---|---|---|---|---
 [otext](otext.md) | [`Grid`](featuresbygroup.md#grid-features) | *not applicable* | Textformatting and corpus segmenting configuration used by the text API | *no data, only specifications*  
 
+###### *(or browse by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), or [feature group](featuresbygroup.md#start))*
 
