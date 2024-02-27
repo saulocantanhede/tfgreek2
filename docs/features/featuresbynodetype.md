@@ -5,9 +5,9 @@
 
 ###### *(or browse by [feature type](featuresbyfeaturetype.md#start), [data type](featuresbydatatype.md#start), or [feature group](featuresbygroup.md#start))*
 
-This Text-Fabric dataset contains the following node types:
-* [137779 `word` nodes](#word-nodes): represents individual words in the text.
-* [106868 `wg` (wordgroup) nodes](#wordgroup-nodes): each node represents a group of words that form a cohesive unit. Each is paired with one of the following node types:
+In  Text-Fabric 'features' provide additional information to nodes of a specific type. This Text-Fabric dataset contains the following node types:
+* [137779 `word` nodes](#word-nodes): these nodes represents individual words in the text (and constitute the slots in the database).
+* [106868 `wg` (wordgroup) nodes](#wordgroup-nodes): these nodes represents groups of words that form a cohesive unit. Each is paired with one of the following node types:
     * [72845 `subphrase` nodes](#subphrase-nodes): 
     * [113750 `phrase` nodes](#phrase-nodes): 
     * [30479 `clause` nodes](#clause-nodes): 
