@@ -11,10 +11,10 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 * [Orthograpic features](#orthograpic-features): features related to the visual representation of the text.
 * [Lexical features](#lexical-features): features related to individual words and their lexical properties.
 * [Textcritical features](#textcritical-features): features related to textual critical issues.
-* [Morphological features](#morphological-features): involves attributes that describe the internal structure and form of words.
-* [Syntactic features](#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases.
-* [Semantic features](#semantic-features): covers properties related to semantic meaning and roles. 
-* [Relational features](#relational-features): encompasses attributes that describe relationships or connections between nodes.
+* [Morphological features](#morphological-features): features related to the morphological form of words.
+* [Syntactic features](#syntactic-features): features related to the syntactical arrangement of words and phrases.
+* [Semantic features](#semantic-features): features related to semantic meaning and roles of words and phrases. 
+* [Relational features](#relational-features): features describing relationships or connections between nodes.
 
 ## Grid features
 
@@ -69,7 +69,7 @@ Name |  Data type |Feature type | Available on nodes | Description | Examples
 [criticalsign](criticalsign.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | text-critical signs | `(` `[` `)` `]`
 
 ## Morphological features
-
+<sup>These features are related to the morphological form of words.</sup>
 Name |  Data type | Feature type | Available on nodes | Description | Examples
 --- | --- | --- | --- | --- | ---
 [case](case.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Gramatical case | `nominative` `genitive` `dative`
@@ -84,7 +84,7 @@ Name |  Data type | Feature type | Available on nodes | Description | Examples
 [voice](voice.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Gramatical voice of the verb | `active` `passive`
 
 ## Syntactic features
-
+<sup>These features are related to the syntactical arrangement of words and phrases.</sup>
 Name | Data type | Feature type | Available on nodes | Description | Examples
 --- | --- | --- | --- | --- | ---
 [appostioncontainer](appositioncontainer.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes)  [`phrase`](featuresbynodetype.md#phrase-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes)  | Appostioncontainer information | `1` 
@@ -104,7 +104,7 @@ Name | Data type | Feature type | Available on nodes | Description | Examples
 [type](type.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) |  [`wg`](featuresbynodetype.md#wordgroup-nodes) | Syntactical type of wordgroup | `conjuncted-wg` `apposition-group`
 
 ## Semantic features
-
+<sup>These features are related to semantic meaning and roles of words and phrases.</sup>
 Name | Data type | Feature type | Available on nodes | Description | Examples
 --- | --- | --- | --- | --- | ---
 [domain](domain.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Lexical-Semantic domain according to SDBG | `092004`
@@ -113,7 +113,7 @@ Name | Data type | Feature type | Available on nodes | Description | Examples
 [ln](ln.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Louw-Nida lexical classification of semantic domains | `93.169a`
 
 ## Relational features
-
+<sup>These features describe the relationships or connections between nodes.</sup>
 Name | Data type | Feature type | Available on nodes |Description | Example
 --- | --- | --- | --- | --- | ---
 [note](note.md#start) | [`string`](featuresbydatatype.md#string-datatype) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | Annotation of linguistic nature | `discontinuous discourse`
