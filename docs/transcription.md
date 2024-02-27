@@ -5,6 +5,10 @@
 
 This page offers a brief overview of the transcription of the Nestle 1904 Greek New Testament (GNT) corpus, detailing how the original Greek texts is available in Text-Fabric format for digital accessibility, and outlines the types of linguistic annotations that are available.
 
+## Nodes and slots
+
+In Text-Fabric, the text of a corpus is represented as a sequence of slots, the smallest linguistic units, implemented as 'nodes', each identified by a unique number. This database organization, often referred to as tokenization, can be based on any unit: ranging from symbols (e.g., on an Akkadian clay tablet), individual letters (e.g., from the Dead Sea Scrolls, where the text might lack letters and words or contain unintelligible parts), to individual words. In this Text-Fabric database, tokenization is based on individual words. This approach is logical both from exegetical and linguistic perspectives, especially since the Nestle 1904 corpus is a synthetic text without incomplete or 'missing' words due to damaged manuscripts.
+
 ## Interworking/compatability
 
 This database is organized to reach a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/). Furter in regards to database structuring and nomenclature, it is intended to follow the  [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible.
