@@ -7,7 +7,8 @@ This is the [Text-Fabric](https://annotation.github.io/text-fabric/tf/) version 
 
 ## About Text-Fabric
 
-Text-Fabric is a powerful Python library and framework designed to facilitate the analysis and manipulation of large-scale textual data, particularly in the context of ancient languages and biblical texts. It provides a comprehensive set of tools for processing and querying structured text data efficiently. Text-Fabric was developed by [Dirk Roorda](https://github.com/dirkroorda). The software package is accessible at [https://github.com/annotation/text-fabric](https://github.com/annotation/text-fabric).
+
+Text-Fabric, as described by its developer [Dirk Roorda](https://github.com/dirkroorda), is a "data model, a file format, and a tool on the one hand, and a strategy, even an ethos on the other hand."<sup>1</sup> The Text-Fabric framework is designed to facilitate the analysis and manipulation of large-scale textual data, particularly in the context of ancient languages and biblical texts. The engine of Text-Fabric is its powerful Python library, which provides a comprehensive set of tools for processing and querying structured text data efficiently. The software package is accessible at [https://github.com/annotation/text-fabric](https://github.com/annotation/text-fabric).
 
 Detailed information regarding Text-Fabric can be found at:
 * [Text-Fabric Package description](https://annotation.github.io/text-fabric/tf/index.html)
@@ -35,3 +36,9 @@ In addition to datasets from Clear, MACULA contains data from the following data
 
 1. [Nestle1904](https://github.com/biblicalhumanities/Nestle1904) Greek New Testament, edited by Eberhard Nestle, published in 1904 by the British and Foreign Bible Society. Transcription by Diego Santos, morphology by Ulrik Sandborg-Petersen, markup by Jonathan Robie.
 2. Word sense data from the United Bible Societies [MARBLE](https://semanticdictionary.org/) project.
+
+## Footnotes
+
+<sup>1</sup> Dirk Roorda. "Coding the Hebrew Bible" in *Research Data Journal for the Humanities and Social Sciences Volume 3: Issue 1*, 30 [DOI: doi.org/10.1163/24523666-01000011](https://doi.org/10.1163/24523666-01000011)
+
+DOI: 
