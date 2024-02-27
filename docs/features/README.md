@@ -11,18 +11,18 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      * [`Edge`](featuresbyfeaturetype.md#edge-features): relationships or links, establishing connections between nodes in the data model.
      * [`Config`](featuresbyfeaturetype.md#config-features): contains the configuration or settings that define the behavior and parameters of the data processing or analysis.
 * [Grouped by feature group](featuresbygroup.md#start):
-     * [`Grid`](featuresbygroup.md#grid-features): pertains to the arrangement and organization of the data.
-     * [`Sectional`](featuresbygroup.md#sectional-features): encompasses attributes or elements related to divisions within the text.
-     * [`Lexical`](featuresbygroup.md#lexical-features): focuses on aspects related to individual words, their meanings, and lexical properties.
-     * [`Orthograpic`](featuresbygroup.md#Orthograpic-features): deals with features related to the visual representation of the text.
-     * [`Textcritical`](featuresbygroup.md#textcritical-features): deals with features related to textual critical issue.
-     * [`Morphological`](featuresbygroup.md#morphological-features):  involves attributes that describe the internal structure and form of words.
-     * [`Syntactic`](featuresbygroup.md#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases.
-     * [`Semantic`](featuresbygroup.md#semantic-features): covers properties related to semantic meaning and roles. 
-     * [`Relational`](featuresbygroup.md#relational-features):  encompasses attributes that describe various relationships or connections between elements in the text.
+     * [`Grid`](featuresbygroup.md#grid-features): features pertaining to the arrangement and organization of the database.
+     * [`Sectional`](featuresbygroup.md#sectional-features): features related to structural divisions within the text.
+     * [`Orthograpic`](featuresbygroup.md#Orthograpic-features): features related to the visual representation of the text.
+     * [`Lexical`](featuresbygroup.md#lexical-features): features related to individual words and their lexical properties.
+     * [`Textcritical`](featuresbygroup.md#textcritical-features): features related to textual critical issues.
+     * [`Morphological`](featuresbygroup.md#morphological-features): features related to the morphological form of words.
+     * [`Syntactic`](featuresbygroup.md#syntactic-features): features related to the syntactical arrangement of words and phrases.
+     * [`Semantic`](featuresbygroup.md#semantic-features): features related to semantic meaning and roles of words and phrases.
+     * [`Relational`](featuresbygroup.md#relational-features): features describing relationships or connections between nodes.
 * [Grouped by node type](featuresbynodetype.md#start):
      * [`word`](featuresbynodetype.md#word-nodes): represents individual words in the text.
-     * [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit. Each individual wordgroup node has an acompanying shadow node of one of the following types: 
+     * [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit. Each individual word group node is accompanied by a shadow node of one of the following types: 
          * [`subphrase`](featuresbynodetype.md#subphrase-nodes): Nodes pertaining to a subphrase unit.
          * [`phrase`](featuresbynodetype.md#phrase-nodes): Nodes pertaining to a phrase unit.
          * [`clause`](featuresbynodetype.md#clause-nodes): Nodes pertaining to a clause unit.
