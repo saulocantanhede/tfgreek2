@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-This feature is used to determine the mapping between objecttype associated and node number. 
+This feature provides a mapping between node number and associated objecttype. 
 
 ## Feature values
 
@@ -29,8 +29,8 @@ for verse in F.otype.s('verse'):
   F.otype.v(node) </pre>
  
 For a more comprehensice list of usages for feature otype, see the [documentation on special node feature otype](https://annotation.github.io/text-fabric/tf/cheatsheet.html#special-node-feature-otype).
-The information which object occupies a specific slot is stored in the edge feature [oslots](oslots.md).
 
+The information on which object occupies a specific slot is stored in the edge feature [oslots](oslots.md).
 
  ## Source description
 
