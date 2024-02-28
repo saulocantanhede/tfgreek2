@@ -12,9 +12,9 @@ The following image provides a basic representation of a syntax tree for the Gre
 
 <img src="features/images/syntax_tree.png" width="550">
 
-## This database implementations
+## This database implementation
 
-This database has implemented two ways to display the syntaxtree. 
+This database has implemented two different ways to display the syntaxtree. 
 
 ### Syntaxtree using the syntax-view
 The default way of presenting a syntax tree in this datatase is to mimicks the BHSA. That includes the use of nodes like clauses and phrases. This version of the syntaxtree is called [`syntax-view`](syntax-view.md#start). By default, the command A.show() will provide syntaxtrees according to this viewtype. In this viewtype the display of all `wg` and `subphrase` nodes are suppresses. The following image shows John 1:1 using this viewtype:
