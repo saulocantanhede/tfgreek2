@@ -7,8 +7,8 @@ This Nestle 1904 Text-Fabric dataset allows for the rendering of syntax trees fo
 
 The relation between the constituent parts can be depicted in a syntax tree that functions as a graphical representation of the syntactic structure. This structure is a hierarchical tree-like formation illustrating how different words in a sentence are grammatically connected to each other. In a syntax tree, each word (or morpheme) is represented as a node, and the relationships between words are depicted as branches or edges connecting these nodes. The tree starts with the main clause or the root node and branches out to represent subordinate clauses, phrases, and individual words. The tree structure reflects the hierarchical arrangement of grammatical elements within the sentence. The syntax tree provides valuable insights into the sentence's grammatical structure, including the roles of nouns, verbs, adjectives, prepositions, conjunctions, and other parts of speech. 
 
-## Theoretic xample
-The following image provides a syntax tree for the Greek text of John 1:1 based on a constituency grammar.
+## Theoretic example
+The following image provides a basic representation of a syntax tree for the Greek text of John 1:1 based on a constituency grammar.
 
 <img src="features/images/syntax_tree.png" width="550">
 
@@ -16,14 +16,13 @@ The following image provides a syntax tree for the Greek text of John 1:1 based 
 
 This database has implemented two ways to display the syntaxtree. 
 
-### Syntax view
-
-When the display of all word group nodes is turned off, the remaining nodes shows a syntax tree with all the relevant details in an easy-to-understand manner. The nomenclature used in this view has been addopted to mimick the way the BHSA would label clauses and phrases. 
+### Syntaxtree using the syntax-view
+The default way of presenting a syntax tree in this datatase is to mimicks the BHSA. That includes the use of nodes like clauses and phrases. This version of the syntaxtree is called [`syntax-view`](syntax-view.md#start). By default, the command A.show() will provide syntaxtrees according to this viewtype, which basicly suppresses the display of all `wg` and `subphrase` nodes. The following image shows John 1:1 in this viewtype:
 
 <img src="features/images/John_1_1_syntax-view.png" width="550px">
 
-### Word-group view
-When the display of word clauses, phrases and subphrases is switched off, the tree is presented as found in the XML source data.  The main visual difference is that in the display of the N1904LFT by default the syntactic details were displayed for each word group node.
+### Syntaxtree using the Word-group view
+The database also allows for the display of another type of syntax tree, based on the use of word groups instead of clauses and phrases. To switch to this [`wg-view`](wg-view.md#start) viewtype, use the command A.viewtype('wg'). The resulting syntax tree display closely represents the data as found in the XML source files. The following image shows John 1:1 in this view type:
 
 <img src="features/images/John_1_1_wg-view.png" width="550px">
 
