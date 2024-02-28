@@ -35,10 +35,10 @@ This image compares the parent (arrows) and sibling features (connector with cir
 
 ## Implementatation
 
-The following actions are performed by A.viewtype('syntax'):
-  * hides the display of wg (wordgroup) node types.
-  * Updates the label for sentence nodes
-  * Sets the display parameters 'condensed' to True and 'queryFeatures' to False, respectively.
+The following actions are performed when the command A.viewtype('syntax') is issued:
+  * wg (wordgroup) node types will be hidden.
+  * The label for sentence nodes is updates with features matching a syntax view
+  * The display parameter 'condensed' is set to True and 'queryFeatures' to False, respectively.
 
 The code for the A.viewtype() command is located in file [app.py](../app/app.py). 
 
