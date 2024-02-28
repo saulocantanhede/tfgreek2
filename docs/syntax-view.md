@@ -32,3 +32,14 @@ Understanding the distinctions between these views is especialy important when b
 <img src="features/images/wordgroup_syntactic_view.png" width="600">
 
 This image compares the parent (arrows) and sibling features (connector with circle) for the first phrase of the book of John (John 1:1) for the [WordGroup view](wg-view.md#start) and the Syntax view for the data. The parent feature for a specific node can be obtained using *E.parent.f(node)* and the sibling feature can be calculated using *E.sibling.b(node)*, where node stands for the number of the node. The direction of the arrow indicates the parent node of a given node. The dotted lines indicate that the [`wg`](features/featuresbynodetype.md#wordgroup-nodes) nodes share the same data as the [`sentence`](features/featuresbynodetype.md#sentence-nodes), [`clause`](features/featuresbynodetype.md#clause-nodes), and [`phrase`](features/featuresbynodetype.md#phrase-nodes). The [`subphrase`](features/featuresbynodetype.md#subphrase-nodes), [`verse`](featuresbynodetype.md#verse-nodes), and [`chapter`](features/featuresbynodetype.md#chapter-nodes) nodes are not nested in the calculation of the parent and sibling features.
+
+## Implementatation
+
+The following actions are performed by A.viewtype('syntax'):
+  * hides the display of wg (wordgroup) node types.
+  * Updates the label for sentence nodes
+  * Sets the display parameters 'condensed' to True and 'queryFeatures' to False, respectively.
+
+The code for the A.viewtype() command is located in file [app.py](../app/app.py). 
+
+In this file, the line 'app.viewtype('syntax')' within the \__init__() function is called after loading all corpus data and creating the API object, to set the default viewtype to 'syntax'.
