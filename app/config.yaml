@@ -33,25 +33,25 @@ provenanceSpec:
   webUrlLex: '{webBase}/word?version={version}&id=<lid>'
 typeDisplay:
   sentence:
-    label: '#{num}: {rule}'
+    label: '{rule}'
     style: ''
   group:
-    label: '#{num}: '
+    label: '{rule} {role} {type}'
     style: ''
   wg:
-    label: '#{num}: {role} {typ} {rule} {junction}'
+    label: '{rule} {role} {type} {junction}'
     style: ""
     condense: true
   clause:
-    label: '#{num}: {cls} {rule} {junction}'
+    label: '{crule} {function} {rule} {junction}'
     style: ''
     condense: true
   phrase:
-    label: '#{num}: {function} {type} {rule} '
+    label: '{cls} {function} {type}'
     style: ''
     condense: true
   subphrase:
-    label: '#{num}: {function} {type} {rule} '
+    label: '{cls}'
     style: ''
     condense: true
   verse:
