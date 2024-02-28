@@ -22,7 +22,7 @@ The default way of presenting a syntax tree in this datatase is to mimicks the B
 <img src="features/images/John_1_1_syntax-view.png" width="550px">
 
 ### Syntaxtree using the Word-group view
-The database also allows for the display of another type of syntax tree, based on the use of word groups instead of clauses and phrases. To switch to this [`wg-view`](wg-view.md#start) viewtype, use the command A.viewtype('wg'). The resulting syntax tree display closely represents the data as found in the XML source files. The following image shows John 1:1 in this view type:
+The database also allows for the display of another type of syntax tree, based on the use of word groups instead of clauses and phrases. To switch to this [`wg-view`](wg-view.md#start) viewtype, use the command A.viewtype('wg'). Selecting this viewtype basicly suppresses the display of all `subphrase`, `phrase`, `clause` and `group` nodes. The resulting syntax tree display closely represents the data as found in the XML source files. The following image shows John 1:1 in this view type:
 
 <img src="features/images/John_1_1_wg-view.png" width="550px">
 
