@@ -27,3 +27,12 @@ The following images show John 1:1 using the wg-view:
 
 <img src="features/images/John_1_1_wg-view.png" width="650">
 
+## Implementatation
+
+The following actions are performed by A.viewtype('wg'):
+  * hides the display of clause, phrase, subphrase, and group node types.
+  * Updates the label for sentence nodes
+  * sets the parameters 'condensed' to True and 'queryFeatures' to False, respectively.
+
+The code for the A.viewtype() command is located in file [app.py](../app/app.py).
+
