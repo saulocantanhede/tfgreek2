@@ -43,7 +43,7 @@ typeDisplay:
     style: ""
     condense: true
   clause:
-    label: '{crule} {function} {rule} {junction}'
+    label: '{crule} {function} {junction}'
     style: ''
     condense: true
   phrase:

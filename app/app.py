@@ -34,7 +34,7 @@ class TfApp(App):
            # modify some labels for sentence nodes (note: app.context.typeDisplay contains the data from config.yaml)
            app.context.labels['sentence'] = ('{rule}', ['rule'])
            # Each key-value pair in dictionary OptionDict represents a specific setting or option for the wg-view.
-           OptionDict = {'hiddenTypes' : 'clause,phrase,subphrase', 'condensed': {True}, 'queryFeatures': {False}, 'suppress' : {''}}
+           OptionDict = {'hiddenTypes' : 'clause,phrase,subphrase,group', 'condensed': {True}, 'queryFeatures': {False}, 'suppress' : {''}}
            # Pass the dictionary (with a variable number of pairs) to the displaySetup function to unpack and apply.
            displaySetup(app,**OptionDict)
            feedback+='[wg-view](https://github.com/saulocantanhede/tfgreek2/blob/main/docs/wg-view.md#start)'
