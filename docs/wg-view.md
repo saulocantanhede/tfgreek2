@@ -29,10 +29,10 @@ The following images show John 1:1 using the wg-view:
 
 ## Implementatation
 
-The following actions are performed by A.viewtype('wg'):
-  * hides the display of clause, phrase, subphrase, and group node types.
-  * Updates the label for sentence nodes
-  * sets the parameters 'condensed' to True and 'queryFeatures' to False, respectively.
+The following actions are performed when the command A.viewtype('wg') is issued:
+  * clause, phrase, subphrase, and group node types will be hidden.
+  * The label for sentence nodes is updates with features matching a wordgroup view
+  * The display parameter 'condensed' is set to True and 'queryFeatures' to False, respectively.
 
 The code for the A.viewtype() command is located in file [app.py](../app/app.py).
 
