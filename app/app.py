@@ -11,15 +11,14 @@ class TfApp(App):
             app (object): The Text-Fabric application instance.
             viewName (str): The name of the view type. Acceptable values are 'wg' and 'syntax'.
 
-        The function sets the parameters 'condensed' and 'queryFeatures' to True and False respectively.
+        The function sets the parameters 'condensed' to True and 'queryFeatures' to False, respectively.
         It further updates some display configurations based on the chosen view:
            1. If 'wg' (word-group) is selected:
-               - It hides the clause, phrase, and subphrase node types.
-               - Displays the setup specific for the word-group view.
+               - Updates the label for sentence nodes
+               - It hides the clause, phrase, subphrase, and group node types.
            2. If 'syntax' is selected:
+               - Updates the label for sentence nodes
                - It hides the word-group (wg) and subphrase types.
-               - Displays the setup specific for the syntactic view.
-
         Returns:
            The function does not return any value, but modifies the application's state.
            It prints a setup confirmation to the console.
