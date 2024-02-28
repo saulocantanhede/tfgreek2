@@ -23,13 +23,7 @@ Viewtype | Invocation | Associated node types |
 
 <sup>Note: the node types  [`Word`](features/featuresbynodetype.md#word-nodes), [`Sentence`](features/featuresbynodetype.md#sentence-nodes), [`verse`](features/featuresbynodetype.md#verse-nodes), [`chapter`](features/featuresbynodetype.md#chapter-nodes), and [`Book`](features/featuresbynodetype.md#book-nodes)` are common for both views.</sup>
 
-The following images show the different presentation of the syntax tree for the two views:
+The following images show John 1:1 using the wg-view:
 
-### Syntax view
-
-<img src="features/images/syntax_view.png" width="650">
-
-### Wordgroup view
-
-<img src="features/images/wgview.png" width="650">
+<img src="features/images/John_1_1_wg-view.png" width="650">
 
