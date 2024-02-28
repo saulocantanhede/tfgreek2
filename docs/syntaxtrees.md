@@ -10,7 +10,7 @@ The relation between the constituent parts can be depicted in a syntax tree that
 ## Theoretic xample
 The following image provides a syntax tree for the Greek text of John 1:1 based on a constituency grammar.
 
-<img src="features/images/syntax_tree.png" width="500">
+<img src="features/images/syntax_tree.png" width="550">
 
 ## This database implementations
 
@@ -20,12 +20,12 @@ This database has implemented two ways to display the syntaxtree.
 
 When the display of all word group nodes is turned off, the remaining nodes shows a syntax tree with all the relevant details in an easy-to-understand manner. The nomenclature used in this view has been addopted to mimick the way the BHSA would label clauses and phrases. 
 
-<img src="images/John_1_1_syntax-view.png" width="550px">
+<img src="features/images/John_1_1_syntax-view.png" width="550px">
 
 ### Word-group view
 When the display of word clauses, phrases and subphrases is switched off, the tree is presented as found in the XML source data.  The main visual difference is that in the display of the N1904LFT by default the syntactic details were displayed for each word group node.
 
-<img src="images/John_1_1_wg-view.png" width="550px">
+<img src="features/images/John_1_1_wg-view.png" width="550px">
 
 ## Other implementations 
 
