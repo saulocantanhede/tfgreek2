@@ -15,8 +15,8 @@ Swithing to a specific viewtype can be done using the command A.Viewtype(), whic
 The relation between node types and view types is shown in the following table.
 Viewtype | Invocation | Associated node types | 
 --- | --- | ---
-[`wg-view`](wg-view.md#start) | A.Viewtype('wg') |  [`wg`](features/featuresbynodetype.md#wordgroup-nodes) 
-`syntax-view` (this view) | A.Viewtype('syntax') | [`subphrase`](features/featuresbynodetype.md#subphrase-nodes) [`phrase`](features/featuresbynodetype.md#phrase-nodes) [`clause`](features/featuresbynodetype.md#clause-nodes) [`group`](features/featuresbynodetype.md#group-nodes)
+[`wg-view`](wg-view.md#start) | A.viewtype('wg') |  [`wg`](features/featuresbynodetype.md#wordgroup-nodes) 
+`syntax-view` (this view) | A.viewtype('syntax') | [`subphrase`](features/featuresbynodetype.md#subphrase-nodes) [`phrase`](features/featuresbynodetype.md#phrase-nodes) [`clause`](features/featuresbynodetype.md#clause-nodes) [`group`](features/featuresbynodetype.md#group-nodes)
 
 <sup>Note: the node types  [`Word`](features/featuresbynodetype.md#word-nodes), [`Sentence`](features/featuresbynodetype.md#sentence-nodes), [`verse`](features/featuresbynodetype.md#verse-nodes), [`chapter`](features/featuresbynodetype.md#chapter-nodes), and [`Book`](features/featuresbynodetype.md#book-nodes)` are common for both views.</sup>
 
