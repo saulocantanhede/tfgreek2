@@ -9,7 +9,7 @@ The following are several use-case examples that demonstrate the utilization of 
 
 * [Load Text-Fabric in Jupyter notebook](https://nbviewer.org/github/saulocantanhede/tfgreek2/blob/main/docs/usecases/load_text_fabric.ipynb)
 * [John 1:1 syntaxtrees using various viewtypes](https://nbviewer.org/github/saulocantanhede/tfgreek2/blob/main/docs/usecases/john1.ipynb)
-
+* [Gaps in verse numbering](https://nbviewer.org/github/saulocantanhede/tfgreek2/blob/main/docs/usecases/gaps_verse_numbers.ipynb)
 
 ## Grammatical
 
