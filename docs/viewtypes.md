@@ -112,7 +112,9 @@ This image compares the parent (arrows) and sibling features (connector with cir
 
 ## Implementation notes
 
-The implementation of this viewtype concept is done by adding a small portion of Python code to the app's [app.py](../app/app.py) file. The function of this file is to allows for functional enhancements which are required to effectively handle a corpus. The views are defined by adding labels to various node types, as specifies in the [config.yaml](../app/config.yaml) file. After loading all corpus data and creating the API object, A.viewtype('syntax') is called in ordeer to set the default viewtype to 'syntax'.
+The implementation of this viewtype concept is done by adding a small portion of Python code to the app's [app.py](../app/app.py) file. The function of this file is to allows for functional enhancements which are required to effectively handle a corpus. The views are defined by adding labels to various node types, as specifies in the [config.yaml](../app/config.yaml) file. After loading all corpus data and creating the API object, A.viewtype('syntax') is called in order to set the default viewtype to 'syntax'.
+
+If for some reason it is required to display all nodes with default labels, command A.displayReset() can be issued, which reset all labels to their definitions found in the [config.yaml](../app/config.yaml) file. 
 
 
 
