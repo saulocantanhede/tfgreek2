@@ -5,27 +5,26 @@ class TfApp(App):
 
     def viewtype(app,viewName):
         """
-        Configures and displays the Text-Fabric application with specified view options.
+        This function contains the code which will be executed upon entering the command A.viewtype().
 
         Parameters:
             app (object): The Text-Fabric application instance.
-            viewName (str): The name of the view type. Acceptable values are 'wg' and 'syntax'.
+            viewName (str): The name of the viewtype. Acceptable values are 'wg' and 'syntax'.
 
-        The function sets the parameters 'condensed' and 'queryFeatures' to True and False respectively.
+        The function sets the parameters 'condensed' to True and 'queryFeatures' to False, respectively.
         It further updates some display configurations based on the chosen view:
            1. If 'wg' (word-group) is selected:
-               - It hides the clause, phrase, and subphrase node types.
-               - Displays the setup specific for the word-group view.
+               - Updates the label for sentence nodes with wg related features.
+               - It hides the clause, phrase, subphrase, and group node types.
            2. If 'syntax' is selected:
-               - It hides the word-group (wg) and subphrase types.
-               - Displays the setup specific for the syntactic view.
-
+               - Updates the label for sentence nodes with syntax related features.
+               - It hides the word-group (wg) and subphrase node types.
         Returns:
            The function does not return any value, but modifies the application's state.
-           It prints a setup confirmation to the console.
+           It prints a setup confirmation and a documentation link explaining 'viewtype' to the console.
 
         Example Usage within Jupyter Notebook:
-             A.Viewtype('wg')
+             A.viewtype('wg')
 
              note: here the A is TF's advanced API which is the implied object passed as argument 'app' to this function.
         """

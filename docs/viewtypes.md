@@ -6,7 +6,7 @@
 
 ## The view types
 
-This database offers users two distinct views to represent the syntax trees. Each viewtype has some features associated with it, using a dedicated nomenclature. The relation between node types and view types is shown in the following table.
+This database offers users two distinct views to represent the [syntaxtrees](syntaxtrees.md#start). Each viewtype has some features associated with it, using a dedicated nomenclature. The relation between node types and view types is shown in the following table.
 
 Viewtype | Display syntax tree | Invocation | Associated node types | 
 --- | --- | --- | ---
@@ -112,7 +112,9 @@ This image compares the parent (arrows) and sibling features (connector with cir
 
 ## Implementation notes
 
-The implementation of this viewtype concept is done by adding a small portion of Python code to the app's [app.py](../app/app.py) file. The function of this file is to allows for functional enhancements which are required to effectively handle a corpus. The default view is defined by adding relevant parameters to the app's [config.yaml](../app/config.yaml) file.
+The implementation of this viewtype concept is done by adding a small portion of Python code to the app's [app.py](../app/app.py) file. The function of this file is to allows for functional enhancements which are required to effectively handle a corpus. The views are defined by adding labels to various node types, as specifies in the [config.yaml](../app/config.yaml) file. After loading all corpus data and creating the API object, [A.viewtype('syntax')](syntax-view.md#start) is called in order to set viewtype to 'syntax', making it the *de facto* default viewtype. 
+
+If for some reason it is necessary to display all nodes, the command  [A.displayReset()](https://annotation.github.io/text-fabric/tf/cheatsheet.html#displaying) can be issued. This also resets all node labels to their definitions found in the [config.yaml](../app/config.yaml) file. 
 
 
 
