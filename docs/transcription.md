@@ -5,7 +5,7 @@
 
 This page offers a brief overview of the transcription of the Nestle 1904 Greek New Testament (GNT) corpus, detailing how the original Greek texts is available in Text-Fabric format for digital accessibility, and outlines the types of linguistic annotations that are available.
 
-## The database organisation
+## The database organization
 
 A main design consideration while developing this database was to achieve a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/), which used the Nestle 1904 as its base text. A second requirement was that this database should have the capability to mimick the [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible, in terms of user experience, nomenclature and data presentation. 
 
