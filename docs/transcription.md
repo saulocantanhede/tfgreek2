@@ -7,7 +7,7 @@ This page offers a brief overview of the transcription of the Nestle 1904 Greek 
 
 ## The database organisation
 
-A main design consideration while developing this database was to achieve a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/), which used the Nestle 1904 as its base text. A second requirement was that this database should have the capability to mimick the [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible, in terms of user experiance, nomenclature and datapresentation. 
+A main design consideration while developing this database was to achieve a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/), which used the Nestle 1904 as its base text. A second requirement was that this database should have the capability to mimick the [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible, in terms of user experiance, nomenclature and data presentation. 
 
 Text-Fabric, true to its name, implements the concepts of 'warp' and 'weft', inspired by textile weaving, to represent its data. The 'warp' denotes the foundational structured data, encompassing linguistic annotations like words, and phrases, while the 'weft' refers to the additional layers of information, known as features. These features encompass linguistic data, annotations, and metadata, seamlessly woven into the 'warp' data, resulting in a clear separation between structure and content. This approach enables Text-Fabric to efficiently handle complex linguistic datasets with versatility.
 
