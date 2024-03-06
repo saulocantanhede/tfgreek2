@@ -7,6 +7,7 @@
 @fmt:text-orig-plain={text}{punctuation}
 @fmt:text-translit-plain={translit}{punctuation}
 @fmt:text-unaccent-plain={unaccent}{punctuation}
+@fmt:text-critical={unicode}
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer), Andrews University
 @levelConstraints=clause < group
 @sectionFeatures=book,chapter,verse
