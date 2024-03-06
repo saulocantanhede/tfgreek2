@@ -21,28 +21,16 @@ The following image shows the relation between these features.
 
 The following text-formating options are defined in this dataset:
 
-Format | Usage
---- | ---
-lex-orig-plain | Lexemes of the Greek surface text 
-lex-translit-plain | Transliteration of the lexemes of the Greek surface text 
-text-orig-full | The Greek surface text in unicode including text-critical markers
-text-orig-plain | The Greek surface text in unicode
-text-translit-plain | Transliteration of the Greek surface text
-text-unaccent-plain | The Greek surface text in unicode without accents
+Format | Usage | Template
+--- | --- | ---
+lex-orig-plain | Lexemes of the Greek surface text | {lemma}{punctuation}
+lex-translit-plain | Transliteration of the lexemes of the Greek surface text | {lextranslit}{punctuation}
+text-orig-full | The Greek surface text in unicode including text-critical markers | {before}{text}{after}
+text-orig-plain | The Greek surface text in unicode | {text}{punctuation}
+text-translit-plain | Transliteration of the Greek surface text | {translit}{punctuation}
+text-unaccent-plain | The Greek surface text in unicode without accents | {unaccent}{punctuation}
 
-The template for each format can easily been checked using the following command:
-
-<pre>
-  A.showFormats()
-     format              level    template
-     lex-orig-plain      word     {lemma}{punctuation}
-     lex-translit-plain  word     {lextranslit}{punctuation}
-     text-orig-full      word     {before}{text}{after}
-     text-orig-plain     word     {text}{punctuation}
-     text-translit-plain word     {translit}{punctuation}
-     text-unaccent-plain word     {unaccent}{punctuation}
-</pre>
-
+Each text-format is defined by a template which maps the format to individual features. This mapping can easily been checked using the following command A.showFormats().
 
 ## Example
 
