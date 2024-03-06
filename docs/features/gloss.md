@@ -9,9 +9,13 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-English gloss based upon the [Berean Interlinear Bible](https://berean.bible/) offering a word-for-word translation of the Greek text, focusing on a direct correspondence between Greek and English words, while also making adjustments for English grammar and punctuation to enhance readability. It prioritizes literal accuracy over idiomatic or contextual fluency. 
+English gloss based upon BGVB.
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
+
+## Note
+
+See also the related feature [trans](trans.md#start) wich contains the text from the [Berean Interlinear Bible](https://berean.bible/) for this Greek word. 
 
 ## Source description
 
