@@ -18,6 +18,21 @@ The following image shows the relation between these features.
 
 <img src="features/images/details_surface_features.png" width="400" >
 
+Text can be represented in multiple ways. In this Text-Fabric database a number of formats are defined. The formats are following a structured nameing schema of a string of keywords separated by `-`:
+
+`what`-`how`-`fullness`
+
+In our database the following combinations are used:
+
+keyword	| value | meaning
+--- | --- | ---
+what | text | words as they belong to the text
+what | lex | lexemes of the words
+how	| orig | the original Greek script (all Unicode)
+how	| unaccent | the original Greek script without accents
+how	| translit | transliteration into latin alphabeth
+fullness | full |	complete text with text-critical markers
+fullness | plain | complete text without text-critical markers
 
 The following text-formating options are defined in this dataset:
 
