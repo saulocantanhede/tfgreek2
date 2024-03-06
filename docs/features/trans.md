@@ -14,7 +14,7 @@ English translation based upon the [Berean Interlinear Bible](https://berean.bib
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 ## Notes
 
-See also the related feature [gloss](gloss.md#start) which contains the Enlgish translation of the lexeme.
+See also the related feature [gloss](gloss.md#start) which contains the English translation of the lexeme.
 
 ## Source description
 
