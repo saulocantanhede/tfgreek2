@@ -30,12 +30,16 @@ The following image shows the relation between these features.
 
 <img src="images/details_surface_features.png" width="400">
 
-The following text-formating options are defined in this dataset using this feature:
+The following [text-formating options](../textformats.md#start) are defined in this dataset using this feature:
 <pre>
   A.showFormats()
-     format           level    template
-     text-orig-full   word     {before}{text}{after}
-     text-orig-plain  word     {text}{punctuation}
+     format              level    template
+     lex-orig-plain      word     {lemma}{punctuation}
+     lex-translit-plain  word     {lextranslit}{punctuation}
+     text-orig-full      word     {before}{text}{after}
+     text-orig-plain     word     {text}{punctuation}
+     text-translit-plain word     {translit}{punctuation}
+     text-unaccent-plain word     {unaccent}{punctuation}
 </pre>
 
 ## Source description
