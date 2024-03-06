@@ -40,7 +40,7 @@ Format | Usage | Template
 --- | --- | ---
 lex-orig-plain | Lexemes of the Greek surface text | {lemma}{punctuation}
 lex-translit-plain | Transliteration of the lexemes of the Greek surface text | {lextranslit}{punctuation}
-text-orig-full | The Greek surface text in unicode including text-critical markers | {before}{text}{after}
+text-orig-full (default) | The Greek surface text in unicode including text-critical markers | {before}{text}{after}
 text-orig-plain | The Greek surface text in unicode | {text}{punctuation}
 text-translit-plain | Transliteration of the Greek surface text | {translit}{punctuation}
 text-unaccent-plain | The Greek surface text in unicode without accents | {unaccent}{punctuation}
