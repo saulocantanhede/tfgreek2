@@ -20,6 +20,18 @@ The following image shows the relation between these features.
 
 
 The following text-formating options are defined in this dataset:
+
+Format | Usage
+--- | ---
+lex-orig-plain | Lexemes of the Greek surface text 
+lex-translit-plain | Transliteration of the lexemes of the Greek surface text 
+text-orig-full | The Greek surface text in unicode including text-critical markers
+text-orig-plain | The Greek surface text in unicode
+text-translit-plain | Transliteration of the Greek surface text
+text-unaccent-plain | The Greek surface text in unicode without accents
+
+The template for each format can easily been checked using the following command:
+
 <pre>
   A.showFormats()
      format              level    template
@@ -34,16 +46,16 @@ The following text-formating options are defined in this dataset:
 
 ## Example
 
-This example illustrates how the different formats in this dataset affect the presentation of John 1:1.
+This example illustrates how the different formats in this dataset affect the presentation of Mark 1:1.
 
 ```
-# note: node 385605 is of type 'verse' and associated to John 1:1 
+# note: node 383782 is of type 'verse' and associated to Mark 1:1 
 for formats in T.formats:
-    print(f'fmt={formats}\t: {T.text(385605,formats)}')
-fmt=lex-orig-plain       : ἐν ἀρχή εἰμί ὁ λόγος,καί ὁ λόγος εἰμί πρός ὁ θεός,καί θεός εἰμί ὁ λόγος.
-fmt=lex-translit-plain   : en arkhe eimi o logos,kai o logos eimi pros o theos,kai theos eimi o logos.
-fmt=text-orig-full       : Ἐν ἀρχῇ ἦν ὁ Λόγος,καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν,καὶ Θεὸς ἦν ὁ Λόγος.
-fmt=text-orig-plain      : Ἐν ἀρχῇ ἦν ὁ Λόγος,καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν,καὶ Θεὸς ἦν ὁ Λόγος.
-fmt=text-translit-plain  : En arkhe en o Logos,kai o Logos en pros ton Theon,kai Theos en o Logos.
-fmt=text-unaccent-plain  : Εν αρχη ην ο Λογος,και ο Λογος ην προς τον Θεον,και Θεος ην ο Λογος.
+    print(f'fmt={formats}\t: {T.text(383782,formats)}')
+fmt=lex-orig-plain       : ἀρχή ὁ εὐαγγέλιον Ἰησοῦς Χριστός υἱός θεός.
+fmt=lex-translit-plain   : arkhe o euaggelion Iesous Khristos uios theos.
+fmt=text-orig-full       : Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ Χριστοῦ (Υἱοῦ Θεοῦ).
+fmt=text-orig-plain      : Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ Χριστοῦ Υἱοῦ Θεοῦ.
+fmt=text-translit-plain  : Arkhe tou euaggeliou Iesou Khristou Uiou Theou.
+fmt=text-unaccent-plain  : Αρχη του ευαγγελιου Ιησου Χριστου Υιου Θεου.
 ```
