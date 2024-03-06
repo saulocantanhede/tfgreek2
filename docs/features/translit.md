@@ -13,6 +13,40 @@ Transliteration of the Greek word surface text into latin characters.
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
+## Feature values 
+
+The following tables only show the first fifh entries with the highest frequency.
+
+For [`word`](featuresbynodetype.md#word-nodes) nodes (used in [`syntax-view`](../syntax-view.md#start) and  [`wg-view`](../wg-view.md#start)):
+
+Value	| Occurences
+--- | ---
+kai	| 8576
+en	| 3152
+o	| 3149
+to | 2885
+de | 2769
+
+For [`subphrase`](featuresbynodetype.md#subphrase-nodes) nodes (used in [`wg-view`](../wg-view.md#start)):
+
+Value	| Occurences
+--- | ---
+kai	| 8576
+en	| 3152
+o	| 3149
+to | 2885
+de | 2769
+
+For [`phrase`](featuresbynodetype.md#phrase-nodes) nodes (used in [`wg-view`](../wg-view.md#start)):
+
+Value	| Occurences
+--- | ---
+me |	976
+estin |	865
+auton	| 815
+auto | 768
+ouk	| 660
+
 ## Notes
 
 See also the following related features:
