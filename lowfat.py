@@ -2,6 +2,8 @@ from multiprocessing.resource_sharer import stop
 import re
 from lxml import etree
 from io import BytesIO
+from unidecode import unidecode
+import unicodedata as ud
 
 from tf.core.helpers import console
 from tf.core.files import initTree, unexpanduser as ux
@@ -118,7 +120,10 @@ def convertTaskCustom(self):
     otext = {
         "fmt:text-orig-full": "{before}{text}{after}",
         "fmt:text-orig-plain": "{text}{punctuation}",
+        "fmt:text-translit-plain": "{translit}{punctuation}",
+        "fmt:text-unaccent-plain": "{unaccent}{punctuation}",
         "fmt:lex-orig-plain": "{lemma}{punctuation}",
+        "fmt:lex-translit-plain": "{lextranslit}{punctuation}",
         "sectionTypes": "book,chapter,verse",
         "sectionFeatures": "book,chapter,verse",
         "levelConstraints": "clause < group",
@@ -158,6 +163,7 @@ def convertTaskCustom(self):
         ("junction", "type of junction"),
         ("lang", "language the text is in"),
         ("lemma", "lexical lemma"),
+        ("lemmatranslit", "transliteration of the word lemma"),
         ("ln", "ln"),
         ("mood", "verbal mood"),
         ("morph", "morphological code"),
@@ -185,8 +191,10 @@ def convertTaskCustom(self):
         ("rule", "syntactical rule"),
         ("text", "the text of a word"),
         ("tense", "verbal tense"),
+        ("translit", "transliteration of the word surface text"),
         ("type", "morphological type (on word), syntactical type (on sentence, group, clause, phrase or wg)"),
         ("unicode", "word in unicode characters plus material after it"),
+        ("unaccent", "word in unicode characters without accents and diacritical markers"),
         ("verse", "verse number, from ref attribute in xml"),
         ("voice", "verbal voice")
     )
@@ -202,7 +210,7 @@ def convertTaskCustom(self):
     generic["author"] = "Evangelists and apostles" #information about the authors and the version of the datasource
     generic["title"] = "Greek New Testament"
     generic["institute"] = "ETCBC (Eep Talstra Centre for Bible and Computer), Andrews University"
-    generic["converters"] = "Saulo de Oliveira Cantanhêde, Tony Jorg, Dirk Roorda"
+    generic["converters"] = "Saulo de Oliveira Cantanhêde, Tony Jurg, Dirk Roorda"
     generic["sourceFormat"] = "XML lowfat"
     generic["version"] = tfVersion
     generic["xmlVersion"] = xmlVersion
@@ -540,10 +548,22 @@ def getDirector(self):
             #dealing with variants in lemma
             if "(I)" in lemma:
                 atts["variant"] = "1"
-                atts.update({'lemma': lemma[:-4]})
+                lemma = lemma[:-4]
+                atts.update({'lemma': lemma})
             elif "(II)" in lemma:
                 atts["variant"] = "2"
-                atts.update({'lemma': lemma[:-5]})
+                lemma = lemma[:-5]
+                atts.update({'lemma': lemma})
+
+            #definition of transliteration and unaccent text
+            translit = unidecode(txt) #transliteration of the surface text
+            atts["translit"] = translit
+
+            lemmatranslit = unidecode(lemma) #transliteration of the word lemma
+            atts["lextranslit"] = lemmatranslit
+            
+            unaccent = ''.join(c for c in ud.normalize('NFKD', txt) if not ud.combining(c)) #unaccented of the surface text
+            atts["unaccent"] = unaccent
             
             #definition of attributes for the phrases and subphrases
             
@@ -693,7 +713,7 @@ def getDirector(self):
                     if cls == "cl":
                         extraType = "clause" #generate clause container from the wg tag
 
-                        if rule is not None:
+                        if rule is not None and any(keyword in rule for keyword in ["ADV", "IO", "O", "O2", "S", "VC"]):
                             std= "|".join(r'\b' + re.escape(keey) + r'\b' for keey in clause_features.keys())
                             subs = lambda match: clause_features[match.group(0)]
                             atts["function"] = re.sub(std, subs, rule)
@@ -734,7 +754,7 @@ def getDirector(self):
                     elif clausetype == "nominalized" or cltype is not None or crule is not None:
                         extraType = "clause"
 
-                        if rule is not None:
+                        if rule is not None and any(keyword in rule for keyword in ["ADV", "IO", "O", "O2", "S", "VC"]):
                             std= "|".join(r'\b' + re.escape(keey) + r'\b' for keey in clause_features.keys())
                             subs = lambda match: clause_features[match.group(0)]
                             atts["function"] = re.sub(std, subs, rule)

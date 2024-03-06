@@ -10,7 +10,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-The variant of the lemma (associated with feature [bol_lemma](bol_lemma.md#start)). 
+The variant of the lemma as shown in [Bible Online Learner](https://learner.bible/).
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 

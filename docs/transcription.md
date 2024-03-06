@@ -5,9 +5,9 @@
 
 This page offers a brief overview of the transcription of the Nestle 1904 Greek New Testament (GNT) corpus, detailing how the original Greek texts is available in Text-Fabric format for digital accessibility, and outlines the types of linguistic annotations that are available.
 
-## The database organisation
+## The database organization
 
-A main design consideration while developing this database was to achieve a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/), which used the Nestle 1904 as its base text. A second requirement was that this database should have the capability to mimick the [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible, in terms of user experiance, nomenclature and datapresentation. 
+A main design consideration while developing this database was to achieve a high level of compatibility with the [Bible Online Learner (Bible OL)](https://learner.bible/), which used the Nestle 1904 as its base text. A second requirement was that this database should have the capability to mimick the [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://etcbc.github.io/bhsa/), the ETCBC implementation of the Hebrew Bible, in terms of user experience, nomenclature and data presentation. 
 
 Text-Fabric, true to its name, implements the concepts of 'warp' and 'weft', inspired by textile weaving, to represent its data. The 'warp' denotes the foundational structured data, encompassing linguistic annotations like words, and phrases, while the 'weft' refers to the additional layers of information, known as features. These features encompass linguistic data, annotations, and metadata, seamlessly woven into the 'warp' data, resulting in a clear separation between structure and content. This approach enables Text-Fabric to efficiently handle complex linguistic datasets with versatility.
 
@@ -33,7 +33,7 @@ The concept of [viewtypes](viewtypes.md#start) is important to this dataset. Thi
 
 ## Implementation note
 
-Each Text-Fabric dataset stores all the data related to its features in a directory ['/tf/{version}'](../../tf). The data for each individual feature is storedin a plain Unicode text files with the '.tf' extention, with the filename matching the Text-Fabric feature name.  These feature  files are readable using any ordinairy text editor. Each file begins with a header section containing metadata, indicated by lines starting with the '@' symbol and followed by a blank line. This is followed by lines with feature data, where in principle the value stored on a given line 'n' is the value of that feature for node 'n'. However, Text-Fabric also contains some data optimalizations handling long sequences of empty lines, and long sequences of equal featurevalues. The following image shows the content of the .tf file for faeture 'text', which is asociated with nodetype 'word':
+Each Text-Fabric dataset stores all the data related to its features in a directory ['/tf/{version}'](../../tf). The data for each individual feature is stored in a plain Unicode text files with the '.tf' extention, with the filename matching the Text-Fabric feature name.  These feature  files are readable using any ordinairy text editor. Each file begins with a header section containing metadata, indicated by lines starting with the '@' symbol and followed by a blank line. This is followed by lines with feature data, where in principle the value stored on a given line 'n' is the value of that feature for node 'n'. However, Text-Fabric also contains some data optimalizations handling long sequences of empty lines, and long sequences of equal feature values. The following image shows the content of the .tf file for feature 'text', which is asociated with nodetype 'word':
 
 <img src="features/images/tf_data_format.png" width="600px">
 
