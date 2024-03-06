@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Normalized Greek text (changed accents and diacritics to their standard forms). Also trailing punctuations are removed.
+Normalized Greek lemma.
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
