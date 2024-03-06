@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-English translation based upon the [Berean Interlinear Bible](https://berean.bible/) offering a word-for-word translation of the Greek text, focusing on a direct correspondence between Greek and English words, while also making adjustments for English grammar and punctuation to enhance readability. It prioritizes literal accuracy over idiomatic or contextual fluency. 
+English translation based upon the [Berean Interlinear Bible](https://berean.bible/) offering a word-for-word translation of the Greek word surface text, focusing on a direct correspondence between Greek and English words, while also making adjustments for English grammar and punctuation to enhance readability. It prioritizes literal accuracy over idiomatic or contextual fluency. 
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 ## Notes
