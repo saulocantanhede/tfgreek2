@@ -6,10 +6,10 @@
 @sourceFormat=XML lowfat
 @title=Greek New Testament
 @valueType=str
-@version=0.5.3
+@version=0.5.5
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2023-12-01T05:25:07Z
+@dateWritten=2024-01-19T15:15:31Z
 
 βίβλος
 γένεσις
