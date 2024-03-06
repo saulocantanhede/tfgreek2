@@ -7,6 +7,7 @@ Surface text related features:
    * [after](features/after.md#start): All material found after a word.
    * [before](features/before.md#start): All material found before a word.
    * [criticalsign](features/criticalsign.md#start): Text-critical signs.
+   * [normalized](features/normalized.md#start): Normalized Greek text.
    * [punctuation](features/punctuation.md#start): Punctuations found after a word.
    * [text](features/text.md#start): Word without punctuations and text-critical signs.
    * [translit](features/translit.md#start): Transliteration of the word surface texts.
