@@ -22,6 +22,7 @@ See also the following related features:
    * [punctuation](punctuation.md#start): Punctuations found after a word.
    * [text](text.md#start): Word without punctuations and text-critical signs.
    * [translit](translit.md#start): Transliteration of the word surface texts.
+   * [unicode](unicode.md#start): Unicode presentation including all material before and after word.
 
 The following image shows the relation between these features.
 
