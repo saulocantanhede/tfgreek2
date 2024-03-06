@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.6)
 # Feature: type
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -37,11 +37,11 @@ apposition-group|891
 Value|Occurences
 ---|---
 modifier-scope|10484
-wrapper-scope|9535
+wrapper-scope|9732
 personal|5885
 common|2120
 relative|1364
-group|952
+group|961
 modifier-clause-scope|755
 demonstrative|744
 proper|683
@@ -73,4 +73,4 @@ possessive|70
 adverbial|3
  
 
-Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Created on Mar. 06, 2024 using [Doc4TF  version 0.4 (Feb. 20, 2024)](https://github.com/tonyjurg/Doc4TF) 

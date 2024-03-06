@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.6)
 # Feature: strong
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -10,15 +10,15 @@ strong number
 Value|Occurences
 ---|---
 846|2839
-3004|2214
+3004|2252
+1510|2251
 4771|1468
 1473|1247
 3756|1182
 3739|1111
 3361|779
-2192|699
-3778|650
-2064|633
+2192|707
+1096|663
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
 Value|Occurences
 ---|---
@@ -47,4 +47,4 @@ Value|Occurences
 1519|1766
  
 
-Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Created on Mar. 06, 2024 using [Doc4TF  version 0.4 (Feb. 20, 2024)](https://github.com/tonyjurg/Doc4TF) 

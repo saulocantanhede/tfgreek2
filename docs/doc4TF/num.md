@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.6)
 # Feature: num
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -63,40 +63,40 @@ Value|Occurences
 ---|---
 1|115
 4|99
+17|96
+7|95
 8|95
 13|95
-17|95
-7|94
-15|94
+15|95
+30|94
 27|93
-16|92
-23|92
+12|92
 ### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
 Value|Occurences
 ---|---
 1|23
 153|21
+157|21
+174|21
 46|20
-157|20
-174|20
+75|20
+79|20
+147|20
+148|20
 308|20
-355|20
-77|19
-95|19
-129|19
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
 Value|Occurences
 ---|---
-62|41
-153|41
-355|40
-308|38
-659|38
-45|37
-129|37
-155|37
-251|37
-878|37
+62|42
+147|40
+171|40
+79|39
+174|39
+245|39
+50|38
+77|38
+129|38
+153|38
 ### Frequency for nodetype [word](featurebynodetype.md#word)
 Value|Occurences
 ---|---
@@ -112,4 +112,4 @@ Value|Occurences
 10|7166
  
 
-Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Created on Mar. 06, 2024 using [Doc4TF  version 0.4 (Feb. 20, 2024)](https://github.com/tonyjurg/Doc4TF) 

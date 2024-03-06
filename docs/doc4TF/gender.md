@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.6)
 # Feature: gender
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -9,9 +9,9 @@ grammatical gender
 ### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
 Value|Occurences
 ---|---
-masculine|12217
-neuter|3054
-feminine|2117
+masculine|12430
+neuter|3066
+feminine|2162
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
 Value|Occurences
 ---|---
@@ -26,4 +26,4 @@ feminine|18736
 neuter|13753
  
 
-Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Created on Mar. 06, 2024 using [Doc4TF  version 0.4 (Feb. 20, 2024)](https://github.com/tonyjurg/Doc4TF) 

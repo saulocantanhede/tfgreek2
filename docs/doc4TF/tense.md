@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.6)
 # Feature: tense
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -9,11 +9,11 @@ verbal tense
 ### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
 Value|Occurences
 ---|---
-aorist|11288
-present|9324
-future|1421
-perfect|1421
-imperfect|1230
+aorist|11503
+present|11175
+future|1592
+imperfect|1547
+perfect|1450
 pluperfect|88
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
 Value|Occurences
@@ -35,4 +35,4 @@ perfect|1572
 pluperfect|88
  
 
-Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Created on Mar. 06, 2024 using [Doc4TF  version 0.4 (Feb. 20, 2024)](https://github.com/tonyjurg/Doc4TF) 

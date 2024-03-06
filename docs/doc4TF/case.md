@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.6)
 # Feature: case
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -9,10 +9,10 @@ grammatical case
 ### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
 Value|Occurences
 ---|---
-nominative|9460
-accusative|6110
-dative|3244
-genitive|1368
+nominative|9609
+accusative|6170
+dative|3265
+genitive|1408
 vocative|1
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
 Value|Occurences
@@ -32,4 +32,4 @@ dative|12126
 vocative|649
  
 
-Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Created on Mar. 06, 2024 using [Doc4TF  version 0.4 (Feb. 20, 2024)](https://github.com/tonyjurg/Doc4TF) 

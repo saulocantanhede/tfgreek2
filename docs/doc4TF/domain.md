@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.6)
 # Feature: domain
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -10,7 +10,8 @@ domain
 Value|Occurences
 ---|---
 092004|3982
-033006|2788
+033006|2791
+013001|1555
 069002|1424
 092003|1277
 092001|941
@@ -18,7 +19,6 @@ Value|Occurences
 092006|822
 067002|790
 024001|686
-092007|624
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
 Value|Occurences
 ---|---
@@ -47,4 +47,4 @@ Value|Occurences
 089023|1780
  
 
-Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Created on Mar. 06, 2024 using [Doc4TF  version 0.4 (Feb. 20, 2024)](https://github.com/tonyjurg/Doc4TF) 

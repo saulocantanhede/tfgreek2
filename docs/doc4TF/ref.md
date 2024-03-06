@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.6)
 # Feature: ref
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -10,6 +10,7 @@ biblical reference with word counting
 Value|Occurences
 ---|---
 1CO 10:1!1|1
+1CO 10:1!15|1
 1CO 10:1!17|1
 1CO 10:1!2|1
 1CO 10:1!21|1
@@ -18,7 +19,6 @@ Value|Occurences
 1CO 10:10!2|1
 1CO 10:10!6|1
 1CO 10:10!8|1
-1CO 10:11!1|1
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
 Value|Occurences
 ---|---
@@ -47,4 +47,4 @@ Value|Occurences
 1CO 10:1!18|1
  
 
-Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Created on Mar. 06, 2024 using [Doc4TF  version 0.4 (Feb. 20, 2024)](https://github.com/tonyjurg/Doc4TF) 

@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/master/tf) (version 0.5.5)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.6)
 # Feature: sibling
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -9,10 +9,10 @@ this is XML attribute sibling
 ### Frequency for nodetype [sentence](featurebynodetype.md#sentence)
 Value|Occurences
 ---|---
-1|10681
-2|8804
+1|10682
+2|8808
 3|8298
-4|8009
+4|8010
 5|7901
 6|7857
 7|7823
@@ -22,8 +22,8 @@ Value|Occurences
 ### Frequency for nodetype [group](featurebynodetype.md#group)
 Value|Occurences
 ---|---
-1|1420
-2|401
+1|1421
+2|402
 3|187
 4|102
 5|60
@@ -35,11 +35,11 @@ Value|Occurences
 ### Frequency for nodetype [clause](featurebynodetype.md#clause)
 Value|Occurences
 ---|---
-1|9481
-2|3366
-3|1448
-4|555
-5|159
+1|9487
+2|3375
+3|1451
+4|556
+5|160
 6|59
 7|27
 8|18
@@ -61,31 +61,31 @@ Value|Occurences
 ### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
 Value|Occurences
 ---|---
-1|12410
-2|5868
-3|2287
-4|628
+1|12711
+2|6001
+3|2327
+4|638
 5|138
 6|28
 7|5
 ### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
 Value|Occurences
 ---|---
-1|12410
-2|5868
-3|2287
-4|628
+1|12711
+2|6001
+3|2327
+4|638
 5|138
 6|28
 7|5
 ### Frequency for nodetype [word](featurebynodetype.md#word)
 Value|Occurences
 ---|---
-1|139026
-2|27524
-3|9260
-4|2114
-5|475
+1|139086
+2|27582
+3|9292
+4|2119
+5|477
 6|142
 7|56
 8|27
@@ -93,4 +93,4 @@ Value|Occurences
 10|13
  
 
-Created on Jan. 24, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Created on Mar. 06, 2024 using [Doc4TF  version 0.4 (Feb. 20, 2024)](https://github.com/tonyjurg/Doc4TF) 
