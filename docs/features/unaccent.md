@@ -21,6 +21,7 @@ See also the following related features:
    * [criticalsign](criticalsign.md#start): Text-critical signs.
    * [punctuation](punctuation.md#start): Punctuations found after a word.
    * [text](text.md#start): Word without punctuations and text-critical signs.
+   * [translit](translit.md#start): Transliteration of the word surface texts.
 
 The following image shows the relation between these features.
 
