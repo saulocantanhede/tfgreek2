@@ -9,6 +9,7 @@ Surface text related features:
    * [punctuation](features/punctuation.md#start): Punctuations found after a word.
    * [text](features/text.md#start): Word without punctuations and text-critical signs.
    * [unicode](features/unicode.md#start): Unicode presentation including all material before and after word.
+
 The following image shows the relation between these features.
 
 <img src="features/images/details_surface_features.png" width="400" >
