@@ -4,10 +4,13 @@
 # Nestle 1904 GNT - Textformats 
 
 Surface text related features:
+   * [after](features/after.md#start): All material found after a word.
    * [before](features/before.md#start): All material found before a word.
    * [criticalsign](features/criticalsign.md#start): Text-critical signs.
    * [punctuation](features/punctuation.md#start): Punctuations found after a word.
    * [text](features/text.md#start): Word without punctuations and text-critical signs.
+   * [translit](features/translit.md#start): Transliteration of the word surface texts.
+   * [unaccent](features/unaccent.md#start): word without accents and diacritical markers.
    * [unicode](features/unicode.md#start): Unicode presentation including all material before and after word.
 
 The following image shows the relation between these features.
