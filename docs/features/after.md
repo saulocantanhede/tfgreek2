@@ -38,6 +38,8 @@ See also the following related features:
    * [criticalsign](criticalsign.md#start): Text-critical signs.
    * [punctuation](punctuation.md#start): Punctuations found after a word.
    * [text](text.md#start): Word without punctuations and text-critical signs.
+   * [translit](translit.md#start): Transliteration of the word surface texts.
+   * [unaccent](unaccent.md#start): word without accents and diacritical markers.
    * [unicode](unicode.md#start): Unicode presentation including all material before and after word.
 
 The following image shows the relation between these features.
@@ -47,9 +49,13 @@ The following image shows the relation between these features.
 The following [text-formating options](../textformats.md#start) are defined in this dataset using this feature:
 <pre>
   A.showFormats()
-     format           level    template
-     text-orig-full   word     {before}{text}{after}
-     text-orig-plain  word     {text}{punctuation}
+     format              level    template
+     lex-orig-plain      word     {lemma}{punctuation}
+     lex-translit-plain  word     {lextranslit}{punctuation}
+     text-orig-full      word     {before}{text}{after}
+     text-orig-plain     word     {text}{punctuation}
+     text-translit-plain word     {translit}{punctuation}
+     text-unaccent-plain word     {unaccent}{punctuation}
 </pre>
   
 ## Source description
