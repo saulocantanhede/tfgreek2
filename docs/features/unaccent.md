@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Surface greek form of the word in unicode, contains all the material before and after it. 
+Surface greek form of the word in unicode characters without accents and diacritical markers, contains all the material before and after it. 
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
