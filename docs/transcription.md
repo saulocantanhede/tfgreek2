@@ -31,6 +31,10 @@ The concept of [viewtypes](viewtypes.md#start) is important to this dataset. Thi
    * [syntax-view](syntax-view.md#start) (default): present syntax tree in linguistic terms like phrases and clauses.
    * [wg-view](wg-view.md#start): present syntax tree in agnostic terms like word groups.
 
+### Textformats
+
+Text can be represented in multiple ways. In this Text-Fabric database a number of formats are defined. See also [textformats](textformats.md#start).
+
 ## Implementation note
 
 Each Text-Fabric dataset stores all the data related to its features in a directory ['/tf/{version}'](../../tf). The data for each individual feature is stored in a plain Unicode text files with the '.tf' extention, with the filename matching the Text-Fabric feature name.  These feature  files are readable using any ordinairy text editor. Each file begins with a header section containing metadata, indicated by lines starting with the '@' symbol and followed by a blank line. This is followed by lines with feature data, where in principle the value stored on a given line 'n' is the value of that feature for node 'n'. However, Text-Fabric also contains some data optimalizations handling long sequences of empty lines, and long sequences of equal feature values. The following image shows the content of the .tf file for feature 'text', which is asociated with nodetype 'word':
