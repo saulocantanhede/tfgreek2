@@ -10,54 +10,56 @@ dataDisplay:
   sectionSep2: ':'
   textFormat: text-orig-full
 docs:
-  docRoot: "https://github.com/saulocantanhede/tfgreek2"
-#  docRoot: "https://github.com"
-  docBase: "https://github.com/saulocantanhede/tfgreek2/tree/main/docs"
-  featureBase: "https://github.com/saulocantanhede/tfgreek2/tree/main/docs/features/<feature>.md"
-  docPage: "about"
-  featurePage : README
+  docBase: https://github.com/saulocantanhede/tfgreek2/tree/main/docs
+  docPage: about
+  docRoot: https://github.com/saulocantanhede/tfgreek2
+  featureBase: https://github.com/saulocantanhede/tfgreek2/tree/main/docs/features/<feature>.md
+  featurePage: README
 interfaceDefaults:
-  fmt: text-orig-full # used by tf browser
+  fmt: text-orig-full
 provenanceSpec:
-  corpus: Nestle 1904 Greek New Testament
-  org: saulocantanhede
-  repro: tfgreek2
   branch: main
+  corpus: Nestle 1904 Greek New Testament
   doi: 10.5281/zenodo.notyet
   moduleSpecs: []
-  version: 0.5.5
+  org: saulocantanhede
+  repro: tfgreek2
+  version: 0.5.6
   webBase: https://learner.bible/text/show_text/nestle1904/
   webHint: Show this on the website
   webLang: en
   webUrl: https://learner.bible/text/show_text/nestle1904/<1>/<2>/<3>
   webUrlLex: '{webBase}/word?version={version}&id=<lid>'
 typeDisplay:
-  sentence:
-    label: '{rule}'
+  clause:
+    condense: true
+    label: '{typ} {function} {rela} \\ {cls} {role} {junction}'
     style: ''
   group:
-    label: '{rule} {role} {type}'
+    label: '{typ} {function} {rela} \\ {type} {role} {rule}'
     style: ''
-  wg:
-    label: '{rule} {role} {type} {junction}'
-    style: ""
-    condense: true
-  clause:
-    label: '{crule} {function} {junction}'
-    style: ''
-    condense: true
   phrase:
-    label: '{cls} {function} {type}'
-    style: ''
     condense: true
+    label: '{typ} {function} {rela} \\ {type} {role} {rule}'
+    style: ''
+  sentence:
+    label: '{typ} {function} {rela} \\ {role} {rule}'
+    style: ''
   subphrase:
-    label: '{cls}'
+    label: '{typ} {function} {rela} \\ {type} {role} {rule}'
     style: ''
-    condense: true
   verse:
+    condense: true
     label: '{book} {chapter}:{verse}'
     style: ''
+  wg:
     condense: true
+    label: '{type} {role} {rule} {junction}'
+    style: ''
   word:
-    base: true
+    features:
+    - lemma
+    - sp
+    featuresBare:
+    - gloss
 writing: grc
