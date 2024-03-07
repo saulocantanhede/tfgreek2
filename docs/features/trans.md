@@ -12,9 +12,12 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 English translation based upon the [Berean Interlinear Bible](https://berean.bible/) offering a word-for-word translation of the Greek word surface text, focusing on a direct correspondence between Greek and English words, while also making adjustments for English grammar and punctuation to enhance readability. It prioritizes literal accuracy over idiomatic or contextual fluency. 
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
+
 ## Notes
 
-See also the related feature [gloss](gloss.md#start) which contains the English translation of the lexeme.
+See also the related feature [gloss](gloss.md#start) which contains the English translation of the lexeme. The following image shows their relation:
+
+<img src="images/gloss_versus_translation.png" width="600px">
 
 ## Source description
 
