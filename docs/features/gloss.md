@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-English gloss based upon Biblical Greek Vocabulary Builder (BGVB).
+English gloss.
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
@@ -19,9 +19,7 @@ See also the related feature [trans](trans.md#start) wich contains the text from
 
 ## Source description
 
-Taken from XML attribute `gloss` of tag `w` (word). 
-
-The source of this data is the [Berean Interlinear Bible](https://interlinearbible.com/). The Berean Bible and Majority Bible texts are officially placed into the public domain as of April 30, 2023.
+Based upon information taken from the Biblical Greek Vocabulary Builder (BGVB) developed by Oliver Glanz using the Bible OL data.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
