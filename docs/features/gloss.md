@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-English gloss based upon BGVB.
+English gloss based upon Biblical Greek Vocabulary Builder (BGVB).
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
