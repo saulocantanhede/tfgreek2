@@ -1,5 +1,5 @@
 from tf.advanced.app import App
-from tf.advanced.display import displaySetup
+from tf.advanced.display import displaySetup, displayReset
 
 class TfApp(App):
 
@@ -33,7 +33,7 @@ class TfApp(App):
            # modify some labels for sentence nodes (note: app.context.typeDisplay contains the data from config.yaml)
            app.context.labels['sentence'] = ('{rule}', ['rule'])
            # Each key-value pair in dictionary OptionDict represents a specific setting or option for the wg-view.
-           OptionDict = {'hiddenTypes' : 'clause,phrase,subphrase,group', 'condensed': {True}, 'queryFeatures': {False}, 'suppress' : {''}}
+           OptionDict = {'hiddenTypes' : 'clause,phrase,subphrase,group', 'condensed': {True}, 'queryFeatures': {False}, 'suppress' : {'book', 'chapter', 'verse'}}
            # Pass the dictionary (with a variable number of pairs) to the displaySetup function to unpack and apply.
            displaySetup(app,**OptionDict)
            feedback+='[wg-view](https://github.com/saulocantanhede/tfgreek2/blob/main/docs/wg-view.md#start)'
@@ -42,15 +42,18 @@ class TfApp(App):
            # modify some labels for sentence nodes
            app.context.labels['sentence'] = ('{function}', ['function'])
            # Each key-value pair in dictionary OptionDict represents a specific setting or option for the syntax-view.
-           OptionDict = {'hiddenTypes' : 'wg, subphrase', 'condensed': {True}, 'queryFeatures': {False},  'suppress' : {''}}
+           OptionDict = {'hiddenTypes' : 'wg', 'condensed': {True}, 'queryFeatures': {False},  'suppress' : {'book', 'chapter', 'verse'}, 'condenseType': 'sentence'}
            # Pass a dictionary (with a variable number of pairs) to the displaySetup function to unpack and apply.
            displaySetup(app,**OptionDict)
            feedback+='[syntax-view](https://github.com/saulocantanhede/tfgreek2/blob/main/docs/syntax-view.md#start)'
+        
+        if viewName=='reset': #reset display viewtype options configured previously
+            OptionDict = ['hiddenTypes', 'condensed', 'queryFeatures', 'suppress', 'condenseType']
+            displayReset(app, *OptionDict)
+            feedback='Reset display viewtype'
         app.dm(feedback)
 
     def __init__(app, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        app.viewtype('syntax')
+        app.viewtype('syntax') #default option as syntax view
         app.dm('See [here](https://github.com/saulocantanhede/tfgreek2/blob/main/docs/viewtypes.md#start) for more information on viewtypes')
-
-
