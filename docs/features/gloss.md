@@ -15,7 +15,9 @@ This feature is also populated for `phrase` or `subphrase`, but only if they con
 
 ## Note
 
-See also the related feature [trans](trans.md#start) wich contains the text from the [Berean Interlinear Bible](https://berean.bible/) for this Greek word. 
+See also the related feature [trans](trans.md#start) wich contains the text from the [Berean Interlinear Bible](https://berean.bible/) for this Greek word. The following image shows their relation:
+
+<img src="images/gloss_versus_translation.png" width="600px">
 
 ## Source description
 
