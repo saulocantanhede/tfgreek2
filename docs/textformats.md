@@ -18,7 +18,7 @@ The following image shows the relation between these features.
 
 <img src="features/images/details_surface_features.png" width="400" >
 
-Text can be represented in multiple ways. In this Text-Fabric database a number of formats are defined. The formats are following a structured nameing schema of a string of keywords separated by `-`:
+Text can be represented in multiple ways. In this Text-Fabric database, a number of formats are defined. The formats follow a structured naming schema consisting of a string of keywords separated by hyphens (-):
 
 `what`-`how`-`fullness`
 
