@@ -13,7 +13,7 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
 * [Grouped by feature group](featuresbygroup.md#start):
      * [`Grid`](featuresbygroup.md#grid-features): features pertaining to the arrangement and organization of the database.
      * [`Sectional`](featuresbygroup.md#sectional-features): features related to structural divisions within the text.
-     * [`Orthograpic`](featuresbygroup.md#Orthograpic-features): features related to the visual representation of the text.
+     * [`Orthograpic`](featuresbygroup.md#orthograpic-features): features related to the visual representation of the text.
      * [`Lexical`](featuresbygroup.md#lexical-features): features related to individual words and their lexical properties.
      * [`Textcritical`](featuresbygroup.md#textcritical-features): features related to textual critical issues.
      * [`Morphological`](featuresbygroup.md#morphological-features): features related to the morphological form of words.
