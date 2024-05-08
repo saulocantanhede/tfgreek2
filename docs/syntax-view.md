@@ -3,10 +3,7 @@
 
 # Nestle 1904 GNT - Viewtype: syntax-view
 
-
-*draft notes for now* 
-
-default view (need to be implemented). Utilizes the terms common in linguistic research.
+This is the default viewtype. This viewtype utilizes the terms common in linguistic research.
 
 The two views are possible since in the database there is a replication of data.
 
@@ -18,7 +15,7 @@ Viewtype | Invocation | Associated node types |
 [`wg-view`](wg-view.md#start) | A.viewtype('wg') |  [`wg`](features/featuresbynodetype.md#wordgroup-nodes) 
 `syntax-view` (this view) | A.viewtype('syntax') | [`subphrase`](features/featuresbynodetype.md#subphrase-nodes) [`phrase`](features/featuresbynodetype.md#phrase-nodes) [`clause`](features/featuresbynodetype.md#clause-nodes) [`group`](features/featuresbynodetype.md#group-nodes)
 
-<sup>Note: the node types  [`Word`](features/featuresbynodetype.md#word-nodes), [`Sentence`](features/featuresbynodetype.md#sentence-nodes), [`verse`](features/featuresbynodetype.md#verse-nodes), [`chapter`](features/featuresbynodetype.md#chapter-nodes), and [`Book`](features/featuresbynodetype.md#book-nodes)` are common for both views.</sup>
+<sup>Note: the node types  [`Word`](features/featuresbynodetype.md#word-nodes), [`Sentence`](features/featuresbynodetype.md#sentence-nodes), [`verse`](features/featuresbynodetype.md#verse-nodes), [`chapter`](features/featuresbynodetype.md#chapter-nodes), and [`Book`](features/featuresbynodetype.md#book-nodes) are common for both views.</sup>
 
 
 The following images show John 1:1 using the syntas-view:
