@@ -18,11 +18,13 @@ The following image shows the relation between these features.
 
 <img src="features/images/details_surface_features.png" width="400" >
 
-Text can be represented in multiple ways. In this Text-Fabric database, a number of formats are defined. The formats follow a structured naming schema consisting of a string of keywords separated by hyphens (-):
+Text can be represented in multiple ways. In this Text-Fabric database, a number of formats are defined, each with a unique name. The format names follow a structured naming schema consisting of a string of keywords separated by hyphens (-):
 
-`what`-`how`-`fullness`
+```
+ `what`-`how`-`fullness`
+```
 
-In our database the following combinations are used:
+In our database the following keywords are used:
 
 keyword	| value | meaning
 --- | --- | ---
@@ -34,7 +36,7 @@ how	| translit | transliteration into latin alphabeth
 fullness | full |	complete text with text-critical markers
 fullness | plain | complete text without text-critical markers
 
-The following text-formating options are defined in this dataset:
+Not all combinations are covered. The dataset includes the following defined text-formatting options:
 
 Format | Usage | Template
 --- | --- | ---
