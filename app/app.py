@@ -9,7 +9,7 @@ class TfApp(App):
 
         Parameters:
             app (object): The Text-Fabric application instance.
-            viewName (str): The name of the viewtype. Acceptable values are 'wg' and 'syntax'.
+            viewName (str): The name of the viewtype. Acceptable values are 'wg', 'syntax' and 'reset'.
 
         The function sets the parameters 'condensed' to True and 'queryFeatures' to False, respectively.
         It further updates some display configurations based on the chosen view:
@@ -19,6 +19,9 @@ class TfApp(App):
            2. If 'syntax' is selected:
                - Updates the label for sentence nodes with syntax related features.
                - It hides the word-group (wg) and subphrase node types.
+           3. If 'reset' is selected: 
+               - Reset display viewtype options configured previously.
+           
         Returns:
            The function does not return any value, but modifies the application's state.
            It prints a setup confirmation and a documentation link explaining 'viewtype' to the console.
