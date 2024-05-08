@@ -10,7 +10,7 @@ default view (need to be implemented). Utilizes the terms common in linguistic r
 
 The two views are possible since in the database there is a replication of data.
 
-Swithing to a specific viewtype can be done using the command A.Viewtype(), which is specific to this dataset and automaticaly loaded upon invocation of the TF dataset.
+Swithing to a specific viewtype can be done using the command A.viewtype(), which is specific to this dataset and automaticaly loaded upon invocation of the TF dataset.
 
 The relation between node types and view types is shown in the following table.
 Viewtype | Invocation | Associated node types | 
