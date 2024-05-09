@@ -39,9 +39,10 @@ role_features_word = {"io": "Cmpl",
                  "o": "Objc",
                  "o2": "Objc",
                  "v": "Pred",
+                 "vc": "PreC",
                  "s": "Subj",
                  "p": "PreC",
-                 "adv": "Cmpl"}
+                 "adv": "Adv"}
 
 clause_features = {"ADV": "Cmpl",
                    "IO": "Cmpl",
@@ -51,6 +52,12 @@ clause_features = {"ADV": "Cmpl",
                    "S": "Subj",
                    "V": "Pred",
                    "VC": "PreC"}
+
+pds = {'adj': 'adjv',
+       'adv': 'advb',
+       'det': 'art',
+       'noun': 'subs',
+       'ptcl': 'intj'}
 
 character_substitution = {'ά': 'ά',
                           'έ': 'έ',
@@ -69,6 +76,13 @@ cl_dictionary = ["CLaCL", "CLa2CL", "CLandCL2", "CLandClClandClandClandCl",
                  "ClCl", "ClClCl", "ClClClCl", "ClClClClCl", "ClClClClClCl", 
                 "ClClClClClClCl", "ClClClClClClClCl", "ClClClClClClClClCl",
                 "ClClClClClClClClCl", "ClClClClClClClClClCl", "ClClClClClClClClClClClCl", "ClCl2"]
+
+final_verbal_phrases = {'participle': 'PreC',
+                        'infinitive': 'PreC',
+                        'indicative': 'Pred',
+                        'subjunctive': 'Pred',
+                        'imperative': 'Pred',
+                        'optative': 'Pred'}
 
 def convertTaskCustom(self):
     """Implementation of the "convert" task.
@@ -123,7 +137,7 @@ def convertTaskCustom(self):
         "fmt:text-translit-plain": "{translit}{punctuation}",
         "fmt:text-unaccent-plain": "{unaccent}{punctuation}",
         "fmt:lex-orig-plain": "{lemma}{punctuation}",
-        "fmt:lex-translit-plain": "{lextranslit}{punctuation}",
+        "fmt:lex-translit-plain": "{lemmatranslit}{punctuation}",
         "sectionTypes": "book,chapter,verse",
         "sectionFeatures": "book,chapter,verse",
         "levelConstraints": "clause < group",
@@ -185,6 +199,7 @@ def convertTaskCustom(self):
         ("ref", "biblical reference with word counting"),
         ("referent", "number of referent"),
         ("sibling", "simbling relationship between words"),
+        ("sp", "part-of-speach"),
         ("strong", "strong number"),
         ("subjref", "number of subject referent"),
         ("role", "role"),
@@ -192,6 +207,7 @@ def convertTaskCustom(self):
         ("text", "the text of a word"),
         ("tense", "verbal tense"),
         ("translit", "transliteration of the word surface text"),
+        ("trans", "translation of the word surface text according to the Berean Interlinear Bible"),
         ("type", "morphological type (on word), syntactical type (on sentence, group, clause, phrase or wg)"),
         ("unicode", "word in unicode characters plus material after it"),
         ("unaccent", "word in unicode characters without accents and diacritical markers"),
@@ -560,11 +576,15 @@ def getDirector(self):
             atts["translit"] = translit
 
             lemmatranslit = unidecode(lemma) #transliteration of the word lemma
-            atts["lextranslit"] = lemmatranslit
+            atts["lemmatranslit"] = lemmatranslit
             
             unaccent = ''.join(c for c in ud.normalize('NFKD', txt) if not ud.combining(c)) #unaccented of the surface text
             atts["unaccent"] = unaccent
-            
+
+            #definition of translated text (surface text that follows the Berean Study Bible)
+            trans = atts.get("gloss")
+            atts["trans"] = trans
+                
             #definition of attributes for the phrases and subphrases
             
             #atts_phrase={} #saving only specific features in the features of the phrase
@@ -573,6 +593,12 @@ def getDirector(self):
             #obtaining class and role of word attributes for the phrase container
             cls = atts.get("cls", None)
             role = atts.get("role", None)
+
+            #defining the part-of-speach feature
+            if cls in pds:
+                atts["sp"] = pds[cls]
+            else:
+                atts["sp"] = cls
 
             #generate phrase and subphrase containers for the words as an extra node
             if role is not None:
@@ -749,7 +775,30 @@ def getDirector(self):
 
                         cur["phraseNum"] += 1 #counting the number of the phrases
                         atts["num"] = cur["phraseNum"]
-                    
+
+                    #conditions for the final verbal phrases (participle and infinitive)
+                    elif rule == 'Conj2VP' and role == 'v':
+                        extraType = 'clause'
+                        
+                        for mood, function in final_verbal_phrases.items():
+                            wg_elements = xnode.xpath(f"wg/w[@mood='{mood}']")
+                            if wg_elements:
+                                atts['function'] = function
+                        
+                        atts["num"] = cur["sentNum"]
+                        atts['book'] = cur['book']
+                        atts["bookshort"] = cur["bookshort"]
+
+                    elif role in {'tail', 'ellipsis', 'topic', 'aux'}:
+                        extraType = 'clause'
+
+                        if role == 'aux':
+                            atts["typ"] = "Voct"
+                        
+                        atts["num"] = cur["sentNum"]
+                        atts['book'] = cur['book']
+                        atts["bookshort"] = cur["bookshort"]
+
                     #generate clause container for specific attributes
                     elif clausetype == "nominalized" or cltype is not None or crule is not None:
                         extraType = "clause"
@@ -948,6 +997,7 @@ def getDirector(self):
                     cur["extraSib"] = [] #define dictionary that carries all the siblings with extraNodes
                     cur["superParentNode"] = [] #define dictionary that carries all the previous superNodes
                     cur['superSib'] = [] #define dictionary that carries all the siblings with superNodes
+                    cur['condition'] = None
                     walkNode(cv, cur, root)
 
                 xIdIndex = cur["xIdIndex"]
