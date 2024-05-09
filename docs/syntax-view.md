@@ -3,11 +3,9 @@
 
 # Nestle 1904 GNT - Viewtype: syntax-view
 
-This is the default viewtype. This viewtype utilizes the terms common in linguistic research.
+The syntax viewtype displays the syntax tree using separate node types for clauses, phrases and subphrases, while annotiting them with terms common for linguistic research. This is the default viewtype, so it is automaticaly set upon invocation of the TF dataset.
 
-The two views are possible since in the database there is a replication of data.
-
-Swithing to a specific viewtype can be done using the command A.viewtype(), which is specific to this dataset and automaticaly loaded upon invocation of the TF dataset.
+Swithing to a specific viewtype can be done by providing the proper argument to command A.viewtype(). This command is specific to this dataset and automaticaly loaded upon invocation of the TF dataset.
 
 The relation between node types and view types is shown in the following table.
 Viewtype | Invocation | Associated node types | 
