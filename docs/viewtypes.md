@@ -6,7 +6,7 @@
 
 ## The view types
 
-This database offers its users two distinct views to represent the [syntaxtrees](syntaxtrees.md#start). Each viewtype has some features associated with it, using a dedicated nomenclature. The relation between node types and view types is shown in the following table.
+This Text-Fabric database offers its users two distinct views to represent the [syntaxtrees](syntaxtrees.md#start). Each viewtype has some features associated with it, using a dedicated nomenclature. The relation between node types and view types is shown in the following table.
 
 Viewtype | Display syntax tree | Invocation | Associated node types | 
 --- | --- | --- | ---
