@@ -4,17 +4,11 @@
 
 # Nestle 1904 GNT - Viewtype: wg-view
 
-*draft notes for now* 
+The wordgroup viewtype is a syntactically agnostic presentation in where clauses, phrases and subprases are not respresented by distinct nodestypes. They all map to the same node type, namely wordgroup, while their syntactic function and properties are reflected by their respective feature values.
 
-Can be switched to when prefered.
+Swithing to a specific viewtype can be done by entering A.viewtype(), which is specific to this dataset and automaticaly loaded upon invocation of the TF dataset.
 
-The two views are possible since in the database there is a replication of data.
-
-WG is an agnostic presentation. 
-
-Swithing to a specific viewtype can be done using the command A.viewtype(), which is specific to this dataset and automaticaly loaded upon invocation of the TF dataset.
-
-The relation between node types and view types is shown in the following table.
+Selecting a viewtype defines which nodes are displayed. The relation between node types and view types is shown in the following table.
 
 Viewtype | Invocation | Associated node types | 
 --- | --- | ---
