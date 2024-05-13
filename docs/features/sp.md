@@ -58,7 +58,7 @@ num||476
 
 ## Source description
 
-Based upon XML attribute `id` of tag `wg`.
+Based upon XML attribute `cls` of tag `wg`.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
