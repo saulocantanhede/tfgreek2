@@ -12,7 +12,7 @@ The features of this Text-Fabric dataset can be grouped by the following feature
 
 ## Node features
 
-###### *Use Text-Fabric Node feature methods: [N](https://annotation.github.io/text-fabric/tf/cheatsheet.html#n-nodes) and [F](https://annotation.github.io/text-fabric/tf/cheatsheet.html#f-node-features).*
+###### *Use Text-Fabric Node feature methods: [N](https://annotation.github.io/text-fabric/tf/cheatsheet.html#n-nodes) and [F](https://annotation.github.io/text-fabric/tf/cheatsheet.html#f-node-features). See [tf.core.nodefeature](https://annotation.github.io/text-fabric/tf/core/nodefeature.html) for more details on Node features.*
 
 Name | Feature group | Data type | Available on node | Description | Examples
 ---|---|---|---|---|---
@@ -71,7 +71,7 @@ Name | Feature group | Data type | Available on node | Description | Examples
 
 ## Edge features
 
-###### *Use Text-Fabric Edge feature methods: [E](https://annotation.github.io/text-fabric/tf/cheatsheet.html#e-edge-features).*
+###### *Use Text-Fabric Edge feature methods: [E](https://annotation.github.io/text-fabric/tf/cheatsheet.html#e-edge-features). See [tf.core.edgefeature](https://annotation.github.io/text-fabric/tf/core/edgefeature.html) for more details on Edge features.*
 
 Name | Feature group | Data type | Available on node | Description | Exampes
 ---|---|---|---|---|---
