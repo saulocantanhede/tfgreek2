@@ -37,12 +37,20 @@ Text can be represented in multiple ways. In this Text-Fabric database a number 
 
 ## Implementation note
 
+### General
 Each Text-Fabric dataset stores all the data related to its features in a directory ['/tf/{version}'](../../tf). The data for each individual feature is stored in a plain Unicode text files with the '.tf' extention, with the filename matching the Text-Fabric feature name.  These feature  files are readable using any ordinairy text editor. Each file begins with a header section containing metadata, indicated by lines starting with the '@' symbol and followed by a blank line. This is followed by lines with feature data, where in principle the value stored on a given line 'n' is the value of that feature for node 'n'. However, Text-Fabric also contains some data optimalizations handling long sequences of empty lines, and long sequences of equal feature values. The following image shows the content of the .tf file for feature 'text', which is asociated with nodetype 'word':
 
 <img src="features/images/tf_data_format.png" width="600px">
 
+### Mapping of LowFat XML source to TF dataset
 
+This is a general overview of how the LowFat XML source data maps to Text-Fabrics dataset.
 
+*   TF *«slot» nodes* correspond to in XLM element content;
+*   TF *node types* generaly correspond to XML *element names (tags)*;
+*   TF *non-«slot» nodes* correspond to XML *elements in the source*;
+*   TF *node features* generaly correspond to XML *attributes*, albeit some with updated values;
+*   TF *edge features* correspond to *relationships* between XLM elements;
 
 
 
