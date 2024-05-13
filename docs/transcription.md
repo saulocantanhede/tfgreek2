@@ -50,7 +50,8 @@ This is a general overview of how the LowFat XML source data maps to Text-Fabric
 *   TF *node types* generaly correspond to XML *element names (tags)*;
 *   TF *non-«slot» nodes* correspond to XML *elements in the source*;
 *   TF *node features* generaly correspond to XML *attributes*, albeit some with updated values;
-*   TF *edge features* correspond to *relationships* between XLM elements;
+*   TF *edge features* correspond to *relationships* between XLM elements.
 
+See also the following image mapping LowFat XML to TF data:
 
-
+<img src="features/images/mapping.jpg" width="600px">
