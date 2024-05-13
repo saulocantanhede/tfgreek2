@@ -11,7 +11,9 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 Part-of-speech refers to the category into which words are classified based on their function in a sentence.
 
 ## Feature Values
-### Frequency for nodetype [phrase](featuresbynodetype.md#phrase-nodes)
+
+Frequency for [phrase](featuresbynodetype.md#phrase-nodes) nodes:
+
 Value | Description | Frequency
 --- | --- | ---
 verb| Verb |27355
@@ -25,7 +27,8 @@ conj|Conjunction|85
 num| Number |25
 prep| Preposition |4
 
-### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase-nodes)
+Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase-nodes):
+
 Value | Description | Frequency
 --- | --- | ---
 subs| Substantive |28455
@@ -39,7 +42,8 @@ advb| Adverbial |6147
 intj|Interjection |788
 num| Number |476
 
-### Frequency for nodetype [word](featuresbynodetype.md#word-nodes)
+
+Frequency for [word](featuresbynodetype.md#word-nodes) nodes:
 Value | Description | Frequency
 --- | --- | ---
 subs| Substantive |28455
@@ -53,12 +57,9 @@ advb| Adverbial |6147
 intj| Interjection |788
 num| Number |476
  
-## See also
-
-
 ## Source description
 
-Based upon XML attribute `cls` of tag `wg`.
+Based upon (modified) XML attribute `cls` of tag `wg`.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
