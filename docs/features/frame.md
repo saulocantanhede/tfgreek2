@@ -30,6 +30,9 @@ The following image shows the first returned clause (from Matthew 1:18):
 
 <img src="images/indirectobjecttree.png" width="600">
 
+Note that edges can be traversed in both directions, see the
+[docs](https://annotation.github.io/text-fabric/tf/core/edgefeature.html).
+
 See also related node feature [framespec](framespec.md#start).
 
 ## Source description
