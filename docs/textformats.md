@@ -3,7 +3,8 @@
 
 # Nestle 1904 GNT - Textformats 
 
-Surface text related features:
+Text-Fabric's data design allows for flexible representation of the corpus text but requires at least one text format to be specified as its default (in this dataset: text-orig-full). During the creation of the dataset, additional formats relevant to this corpus were defined, which are basically based on a subset of the following surface text-related features:
+
    * [after](features/after.md#start): All material found after a word.
    * [before](features/before.md#start): All material found before a word.
    * [criticalsign](features/criticalsign.md#start): Text-critical signs.
@@ -14,11 +15,11 @@ Surface text related features:
    * [unaccent](features/unaccent.md#start): word without accents and diacritical markers.
    * [unicode](features/unicode.md#start): Unicode presentation including all material before and after word.
 
-The following image shows the relation between these features.
+The relation between these features in relation to the surface text is shown in the following image.
 
 <img src="features/images/details_surface_features.png" width="400" >
 
-Text can be represented in multiple ways. In this Text-Fabric database, a number of formats are defined, each with a unique name. The format names follow a structured naming schema consisting of a string of keywords separated by hyphens (-):
+The text formats in this Text-Fabric database are identified by unique names that reflect their actual formats. These names follow a structured naming schema, consisting of a string of keywords separated by hyphens (-).
 
 ```
  `what`-`how`-`fullness`
@@ -36,7 +37,7 @@ how	| translit | transliteration into latin alphabeth
 fullness | full |	complete text with text-critical markers
 fullness | plain | complete text without text-critical markers
 
-Not all combinations are covered. The dataset includes the following defined text-formatting options:
+Not all possible combinations are defined or relevant. The following text-formatting options are defined:
 
 Format | Usage | Template
 --- | --- | ---
@@ -47,7 +48,7 @@ text-orig-plain | The Greek surface text in unicode | {text}{punctuation}
 text-translit-plain | Transliteration of the Greek surface text | {translit}{punctuation}
 text-unaccent-plain | The Greek surface text in unicode without accents | {unaccent}{punctuation}
 
-Each text-format is defined by a template which maps the format to individual features. This mapping can easily been checked using the following command A.showFormats().
+Each text format is implemented as a template that maps the format to individual features. This mapping can be easily checked using the following command: A.showFormats().
 
 ## Example
 
