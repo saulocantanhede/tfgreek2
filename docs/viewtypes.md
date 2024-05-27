@@ -6,7 +6,7 @@
 
 ## The view types
 
-This Text-Fabric database offers its users two distinct viewtypes to represent the [syntaxtrees](syntaxtrees.md#start). This is possible due to a partial data duplication with dedicated node types associated with each of these viewtypes. While most features are associated to both viewtypes, some features are associated to only one while using a dedicated nomenclature to match that vieuwtype. The association between node type and viewtype is shown in the following table.
+This Text-Fabric database offers its users two distinct view types to display the [syntaxtrees](syntaxtrees.md#start). This is possible due to a partial data duplication using dedicated node types that are associated with each of these view types. While most features are associated with both view types, some features are specifically tuned to a particular view type, for example, by using matching or dedicated nomenclature. The association between node type and view type is shown in the following table.
 
 Viewtype | Display syntax tree | Invocation | Associated node types | 
 --- | --- | --- | ---
@@ -19,7 +19,7 @@ Note that it is also possible to reset the display and show all nodes by enterin
 
 ## User impact
 
-The data duplication does not only impact the representation of syntaxtrees, controled by setting vieuwtype. It also impact the creation of queries Althoug the Text-Fabric dataset provides access to all nodes and features at all times, it is important to formulate syntactic queries that match either one of these data structures. The following figure provides two functionaly equivalent queries:
+The data duplication not only impacts the representation of syntax trees, controlled by setting the view type, but it also impacts the creation of queries. Although the Text-Fabric dataset provides access to all nodes and features at all times, it is important to formulate syntactic queries that match either one of these data structures. The following figure provides two functionally equivalent queries:
 
 <img src="features\images\compare_queries.png" width="600">
 
