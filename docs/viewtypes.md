@@ -4,7 +4,7 @@
 
 # Nestle 1904 GNT - Viewtypes
 
-## The view types
+## The viewtypes
 
 This Text-Fabric database offers its users two distinct view types to display the [syntaxtrees](syntaxtrees.md#start). This is possible due to a partial data duplication using dedicated node types that are associated with each of these view types. While most features are associated with both view types, some features are specifically tuned to a particular view type, for example, by using matching or dedicated nomenclature. The association between node type and view type is shown in the following table.
 
