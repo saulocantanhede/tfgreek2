@@ -4,9 +4,9 @@
 
 # Nestle 1904 GNT - Viewtypes
 
-## The view types
+## The viewtypes
 
-This Text-Fabric database offers its users two distinct views to represent the [syntaxtrees](syntaxtrees.md#start). Each viewtype has some features associated with it, using a dedicated nomenclature. The relation between node types and view types is shown in the following table.
+This Text-Fabric database offers its users two distinct view types to display the [syntaxtrees](syntaxtrees.md#start). This is possible due to a partial data duplication using dedicated node types that are associated with each of these view types. While most features are associated with both view types, some features are specifically tuned to a particular view type, for example, by using matching or dedicated nomenclature. The association between node type and view type is shown in the following table.
 
 Viewtype | Display syntax tree | Invocation | Associated node types | 
 --- | --- | --- | ---
@@ -19,11 +19,11 @@ Note that it is also possible to reset the display and show all nodes by enterin
 
 ## User impact
 
-It was found that both data designs with their repective views might have their uses, hence this Text-Fabric dataset providing both. As a result, syntactic queries can be constructed to match either one of these data structures. The following figure provides two functionaly equivalent queries:
+The data duplication not only impacts the representation of syntax trees, controlled by setting the view type, but it also impacts the creation of queries. Although the Text-Fabric dataset provides access to all nodes and features at all times, it is important to formulate syntactic queries that match either one of these data structures. The following figure provides two functionally equivalent queries:
 
 <img src="features\images\compare_queries.png" width="600">
 
-These queries, for example, can be used to investigate what is thrown down by fire or to determine the specific preposition used for this indication. This is because we specified word class instead of lexeme. The query searches for clauses or word groups containing the verb βάλλω (meaning 'to throw down') together with a complement phrase or adverbial word group containing the lemma πῦρ (meaning 'fire'). Both queries yield identical results in terms of verses (Matthew 3:10; 7:19, Mark 9:22, and Luke 3:9) and words. However, it is also important to note that different nodes are reported for clauses and phrases compared to word groups, as evidenced by the values of each tuple's first and third item.
+Both queries examine instances where 'fire' is thrown down, focusing on the preposition used by specifying 'prep' instead of a lexeme. These queries respectively search for clauses or word groups that contain the verb βάλλω ('to throw down')  and a complement phrase or adverbial word group with the lemma πῦρ ('fire'). Both queries yield the same verses (Matthew 3:10; 7:19, Mark 9:22, Luke 3:9) and words but return different tuple values. The differences arise from the query templates, differing only in the first and third lines ('clause' or 'phrase' vs. 'wg'), affecting the first and third tuple elements.
 
 ### Impact on using parent and sibling feature 
 
@@ -114,7 +114,7 @@ This image compares the parent (arrows) and sibling features (connector with cir
 
 ## Implementation notes
 
-The implementation of this viewtype concept is done by adding a small portion of Python code to the app's [app.py](../app/app.py) file. The function of this file is to allows for functional enhancements which are required to effectively handle a corpus. The views are defined by adding labels to various node types, as specifies in the [config.yaml](../app/config.yaml) file. After loading all corpus data and creating the API object, [A.viewtype('syntax')](syntax-view.md#start) is called in order to set viewtype to 'syntax', making it the *de facto* default viewtype. 
+The implementation of this viewtype concept is done by adding a small portion of Python code to the app's [app.py](../app/app.py) file. The function of this file is to allows for functional enhancements which are required to effectively handle a corpus. The viewtypes are defined by adding labels to various node types, as specifies in the [config.yaml](../app/config.yaml) file. After loading all corpus data and creating the API object, [A.viewtype('syntax')](syntax-view.md#start) is called in order to set viewtype to 'syntax', making it the *de facto* default viewtype. 
 
 If for some reason it is necessary to display all nodes, the command A.viewtype('reset') can be issued. This also resets all node labels to their definitions found in the [config.yaml](../app/config.yaml) file. 
 

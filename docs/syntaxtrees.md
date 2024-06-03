@@ -14,7 +14,7 @@ The following image provides a basic representation of a syntax tree for the Gre
 
 ## This database implementation
 
-This database has implemented  different ways to display the syntaxtree. They are demonstrated in the following [Jupyter Notebook](https://nbviewer.org/github/saulocantanhede/tfgreek2/blob/main/docs/usecases/john1.ipynb) and described below.
+This database has implemented different ways to display the syntaxtrees due to a partial data duplication using dedicated node types that associated with each of these syntaxtree types. The differences between the tree types are demonstrated in the following [Jupyter Notebook](https://nbviewer.org/github/saulocantanhede/tfgreek2/blob/main/docs/usecases/john1.ipynb) and described below.
 
 ### Syntaxtree using the syntax-view
 The default way of presenting a syntax tree in this datatase is to mimicks the BHSA. That includes the use of nodes like clauses and phrases. This version of the syntaxtree is called [`syntax-view`](syntax-view.md#start). By default, the command A.show() will provide syntaxtrees according to this viewtype. In this viewtype the display of all `wg` and `subphrase` nodes are suppresses. The following image shows John 1:1 using this viewtype:

@@ -8,57 +8,58 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 [`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)| [`syntax-view`](../syntax-view.md#start) [`wg-view`](../wg-view.md#start)
 ## Description
 
-Part-of-speech.
+Part-of-speech refers to the category into which words are classified based on their function in a sentence.
 
 ## Feature Values
-### Frequency for nodetype [phrase](featuresbynodetype.md#phrase-nodes)
-Value | Description | Frequency
---- | --- | ---
-verb||27355
-pron||8751
-advb||4384
-subs||2822
-adjv||2304
-art||257
-intj||90
-conj||85
-num||25
-prep||4
 
-### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase-nodes)
-Value | Description | Frequency
---- | --- | ---
-subs||28455
-verb||28357
-art||19786
-conj||18227
-pron||16177
-prep||10914
-adjv||8452
-advb||6147
-intj||788
-num||476
+Frequency for [phrase](featuresbynodetype.md#phrase-nodes) nodes:
 
-### Frequency for nodetype [word](featuresbynodetype.md#word-nodes)
 Value | Description | Frequency
 --- | --- | ---
-subs||28455
-verb||28357
-art||19786
-conj||18227
-pron||16177
-prep||10914
-adjv||8452
-advb||6147
-intj||788
-num||476
+`verb`| Verb |27355
+`pron`| Pronoun |8751
+`advb`| Adverbial |4384
+`subs`| Substantive|2822
+`adjv`| Adjective |2304
+`art`| Article |257
+`intj`| Interjection |90
+`conj`|Conjunction|85
+`num`| Number |25
+`prep`| Preposition |4
+
+Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase-nodes):
+
+Value | Description | Frequency
+--- | --- | ---
+`subs`| Substantive |28455
+`verb`| Verb |28357
+`art`| Article |19786
+`conj`| Conjunction |18227
+`pron`| Pronoun |16177
+`prep`| Preposition |10914
+`adjv`| Adjective |8452
+`advb`| Adverbial |6147
+`intj`|Interjection |788
+`num`| Number |476
+
+
+Frequency for [word](featuresbynodetype.md#word-nodes) nodes:
+Value | Description | Frequency
+--- | --- | ---
+`subs`| Substantive |28455
+`verb`| Verb |28357
+`art`| Article |19786
+`conj`| Conjunctio |18227
+`pron`| Pronoun |16177
+`prep`| Preposition |10914
+`adjv`| Adjective |8452
+`advb`| Adverbial |6147
+`intj`| Interjection |788
+`num`| Number |476
  
-## See also
-
-
 ## Source description
 
-Based upon XML attribute `cls` of tag `wg`.
+Based upon (modified) XML attribute `cls` of tag `wg`.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
