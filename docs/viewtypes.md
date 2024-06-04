@@ -23,7 +23,7 @@ The data duplication not only impacts the representation of syntax trees, contro
 
 <img src="features\images\compare_queries.png" width="600">
 
-Both queries examine instances where 'fire' is thrown down, focusing on the preposition used by specifying 'prep' instead of a lexeme. These queries respectively search for clauses or word groups that contain the verb βάλλω ('to throw down')  and a complement phrase or adverbial word group with the lemma πῦρ ('fire'). Both queries yield the same verses (Matthew 3:10; 7:19, Mark 9:22, Luke 3:9) and words but return different tuple values. The differences arise from the query templates, differing only in the first and third lines ('clause' or 'phrase' vs. 'wg'), affecting the first and third tuple elements.
+Both queries examine instances where 'fire' is thrown down, focusing on the preposition used by specifying 'prep' instead of a lexeme. These queries respectively search for clauses or word groups that contain the verb βάλλω ('to throw down')  and a complement phrase or adverbial word group with the lemma πῦρ ('fire'). Both queries yield the same verses (Matthew 3:10; 7:19, Mark 9:22, Luke 3:9) and words but return different tuple values. The differences arise from the query templates, differing only in the first and third lines ('clause' or 'phrase' vs. 'wg'), affecting the first and third tuple elements. Note that a tuple in Python is defined as an immutable, ordered collection of elements.
 
 ### Impact on using parent and sibling feature 
 
