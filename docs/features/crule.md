@@ -9,14 +9,30 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-clause rule (from xml attribute rule)
+clause rule (from xml attribute rule). This can be assigned to a `wg`, `clause` or `sentence` node.
 
 ## Feature values
 
+Frequency for nodetype `sentence`:
+
 value | explanation | Frequency
 --- | --- | ---
-ClCl | subordinate clause follows the main clause | 8616
-‎ClCl2 | subordinate clause precedes the main clause | 2500
+ClCl | subordinate clause follows the main clause | 619
+‎ClCl2 | subordinate clause precedes the main clause | 219
+
+Frequency for nodetype `clause`:
+
+value | explanation | Frequency
+--- | --- | ---
+ClCl | subordinate clause follows the main clause | 3689
+‎ClCl2 | subordinate clause precedes the main clause | 1031
+
+Frequency for nodetype `wg`:
+
+value | explanation | Frequency
+--- | --- | ---
+ClCl | subordinate clause follows the main clause | 4308
+‎ClCl2 | subordinate clause precedes the main clause | 1250
 
 ## Note
 
