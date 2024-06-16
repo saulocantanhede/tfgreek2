@@ -1,4 +1,4 @@
-N1904 Greek New Testament <a href="https://github.com/saulocantanhede/tfgreek2">saulocantanhede/tfgreek2 - 0.5.7</a>
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.8)
 # Feature: chapter
 Data type|Feature type|Available for nodes
 ---|---|---
