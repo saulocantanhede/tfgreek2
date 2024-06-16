@@ -9,17 +9,48 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description 
 
-This feature indicates details coordinating and subordinating clauses.
+This feature indicates details about coordinating and subordinating clauses.
 
 ## Feature values 
 
-value | description | Frequency<sup>1</sup>
+Frequency for nodetype `sentence`:
+
+value | description | Frequency
 ---  | --- | --- 
-`coordinate` | coordinate | 18734
-`subordinate` |  subordinate | 17108
+`coordinate` | coordinate | 1117
+`subordinate` |  subordinate | 989
 ` `  | empty | 
 
-<sup>1</sup> Frequency figures are listed for `wg` nodes only. 
+Frequency for nodetype `clause`:
+
+value | description | Frequency
+---  | --- | --- 
+`coordinate` | coordinate | 8186
+`subordinate` |  subordinate | 7449
+` `  | empty | 
+
+Frequency for nodetype `wg`:
+
+value | description | Frequency
+---  | --- | --- 
+`coordinate` | coordinate | 9367
+`subordinate` |  subordinate | 8554
+` `  | empty | 
+
+Frequency for nodetype `phrase`:
+
+value | description | Frequency
+---  | --- | --- 
+`subordinate` |  subordinate | 57
+` `  | empty | 
+
+Frequency for nodetype `subphrase`:
+
+value | description | Frequency
+---  | --- | --- 
+`subordinate` |  subordinate | 116
+`coordinate` | coordinate | 64
+` `  | empty | 
 
 ## Note
 See also the related feature [crule](crule.md).
