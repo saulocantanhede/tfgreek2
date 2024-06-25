@@ -33,6 +33,16 @@ To determine the sequence number of a word inside a sentence, the following snip
 ```
 Running this code returns `7`. Since the index starts with zero, this means this word is the eigth one in the verse.
 
+In a similair manner, finding the sequence number inside a book can be done using the following snippet:
+
+```python
+    # the node number of the word is stored in wordNode
+    wordNode=29588   # first word of Luke 1:2
+    sentenceNode=L.u(wordNode,otype='book') # returns a tuple
+    E.oslots.s(sentenceNode[0]).index(wordNode)
+```
+This returns `11` since this is the 12th word in the Gospel of Luke.
+
 ## Source description
 
 Calculated (not in source XML data).
