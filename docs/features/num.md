@@ -19,7 +19,19 @@ For node type:
   * [`phrase`](featuresbynodetype.md#phrase-nodes):
   * [`sentence`](featuresbynodetype.md#sentence-nodes): Sentence number within chapter.
   * [`subphrase`](featuresbynodetype.md#subphrase-nodes):
-  * [`word`](featuresbynodetype.md#word-nodes): Word numbered inside verse.
+  * [`word`](featuresbynodetype.md#word-nodes): Word numbered inside verse (matching the last part of feature [ref](ref.md).
+
+## Notes
+
+To determine the sequence number of a word inside a sentence, the following snippet can be used: 
+
+```python
+    # the node number of the word is stored in wordNode
+    wordNode=32048  # first word of Luke 3:24
+    sentenceNode=L.u(wordNode,otype='sentence') # returns a tuple
+    E.oslots.s(sentenceNode[0]).index(wordNode)
+```
+Running this code returns `7`.
 
 ## Source description
 
