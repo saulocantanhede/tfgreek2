@@ -5,13 +5,26 @@
 
 Feature group | Feature type | Data type | Available for node types | Used by viewtypes
 ---  | --- | --- | --- | ---
-[`Lexical`](featuresbygroup.md#lexical-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype)  | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes) | [`syntax-view`](../syntax-view.md#start) [`wg-view`](../wg-view.md#start) 
+[`Lexical`](featuresbygroup.md#lexical-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype)  | [`word`](featuresbynodetype.md#word-nodes)  | [`syntax-view`](../syntax-view.md#start) [`wg-view`](../wg-view.md#start) 
 
 ## Feature description
 
-English gloss.
+English gloss according to the Biblical Greek Vocabulary Builder (BGVB).
 
-This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
+Frequency for nodetype [word](featuresbynodetype.md#word-nodes
+
+Value|Occurences
+---|---
+the|19783
+and, also, likewise|8978
+he, she, it, himself, herself, itself; even, very; same|5550
+you|2892
+but, and|2787
+(with dat.) in|2743
+I|2567
+am, exist|2457
+say, tell|2255
+no, not|1622
 
 ## Note
 
