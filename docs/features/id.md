@@ -27,6 +27,10 @@ The letter 'n' followed by a 11-digit unique id in the format
             WWW => zero-padded word index (instance within the verse)
 ```
 
+## Notes
+
+See also related feature [ref](ref.md#start).
+
 ## Source description
 Taken from XML tag `xml:id` of `w` (word) node.
 
