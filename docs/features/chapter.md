@@ -15,6 +15,19 @@ Chapter number inside book.
 
 An integer.
 
+## Notes
+
+Not all nodetypes provide this feature. To determine the chapter for nodetypes `sentence`, `wg`, `phrase`, `subphrase`, or `group`, the following snippet can be used.
+
+```python
+    # the node number of the wordgroup is stored in wgNode
+    wgNode=390658   # this is a wg in Matt. 1:1
+    chapterNode=L.u(wgNode,otype='chapter')[0]  # returns a tuple
+    chapter=F.chapter.v(chapterNode)
+    print (chapter)
+```
+This returns `1` as the value for feature chapter.
+
 ## Source description
 
 Calculated from XML attribute `ref` of tag `w` (word).
