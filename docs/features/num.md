@@ -15,11 +15,11 @@ Sequential number for node type.
 
 For node type:
   * [`book`](featuresbynodetype.md#book-nodes): Sequence within the Greek New Testament corpus (Matthew=1, Mark=2, ..., Revelation=27)
-  * [`chapter`](featuresbynodetype.md#chapter-nodes): Chapter number in book.
-  * [`phrase`](featuresbynodetype.md#phrase-nodes):
-  * [`sentence`](featuresbynodetype.md#sentence-nodes): Sentence number within chapter.
-  * [`subphrase`](featuresbynodetype.md#subphrase-nodes):
-  * [`word`](featuresbynodetype.md#word-nodes): Word numbered inside verse (matching the last part of feature [ref](ref.md).
+  * [`chapter`](featuresbynodetype.md#chapter-nodes): Chapter number within a book.
+  * [`sentence`](featuresbynodetype.md#sentence-nodes): Sentence sequence number within a book.
+  * [`phrase`](featuresbynodetype.md#phrase-nodes): Phrase sequence number within a book.
+  * [`subphrase`](featuresbynodetype.md#subphrase-nodes): Subprrase sequence number within a book.
+  * [`word`](featuresbynodetype.md#word-nodes): Word numbered inside the verse (matching the last part of feature [ref](ref.md)).
 
 ## Notes
 
@@ -31,7 +31,7 @@ To determine the sequence number of a word inside a sentence, the following snip
     sentenceNode=L.u(wordNode,otype='sentence') # returns a tuple
     E.oslots.s(sentenceNode[0]).index(wordNode)
 ```
-Running this code returns `7`.
+Running this code returns `7`. Since the index starts with zero, this means this word is the eigth one in the verse.
 
 ## Source description
 
