@@ -49,6 +49,18 @@ ouk	| 660
 
 ## Notes
 
+This feature allows for easy writing of queries without the use of Greek characters. The following snippet provides an example:
+```python
+    logosQuery='''
+    verse 
+       word translit=logos
+    '''
+    logosResults=PLAY.search(logosQuery) # this will provide a list of tuples
+    T.text(logosResults[0][0]) # print the Greek text related to the first node in the first tuple (which is a verse node)
+```
+The query returns 63 results. the first one is printed by the last statement:
+`'ἔστω δὲ ὁ λόγος ὑμῶν ναὶ ναί,οὒ οὔ·τὸ δὲ περισσὸν τούτων ἐκ τοῦ πονηροῦ ἐστιν.'`
+
 See also the following related features:
    * [after](after.md#start): All material found after a word.
    * [before](before.md#start): All material found before a word.
