@@ -59,6 +59,7 @@ This feature allows for easy writing of queries without the use of Greek charact
     T.text(logosResults[0][0]) # print the Greek text related to the first node in the first tuple (which is a verse node)
 ```
 The query returns 63 results. the first one is printed by the last statement:
+
 `'ἔστω δὲ ὁ λόγος ὑμῶν ναὶ ναί,οὒ οὔ·τὸ δὲ περισσὸν τούτων ἐκ τοῦ πονηροῦ ἐστιν.'`
 
 See also the following related features:
