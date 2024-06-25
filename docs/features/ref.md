@@ -32,6 +32,8 @@ word sequence number:  11
 
 This first three characters of this feature value are identical to feature [book_short](book_short.md#start).
 
+See also related feature [id](id.md#start).
+
 ## Source description
 
 Based upon XML attribute `ref` of tag `w` (word).
