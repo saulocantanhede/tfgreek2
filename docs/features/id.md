@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-This feature provides a unique identifier for each individual word in the corpus. 
+This feature provides a unique identifier for each individual word in the corpus.
+
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values

@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-The `trans` feature provides an English translation based on the [Berean Interlinear Bible](https://berean.bible/). It offers a word-for-word translation of the Greek text, focusing on direct correspondence between Greek and English words while making adjustments for English grammar and punctuation to enhance readability. 
+The `trans` feature provides an English translation based on the [Berean Interlinear Bible](https://berean.bible/). It offers a word-for-word translation of the Greek text, focusing on direct correspondence between Greek and English words while making adjustments for English grammar and punctuation to enhance readability.
+
 This feature prioritizes literal accuracy over idiomatic or contextual fluency. This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Notes

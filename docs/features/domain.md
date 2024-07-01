@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used in vi
  
 ## Feature description
 
-The `domain` feature specifies the semantic domain according to the Semantic Dictionary of Biblical Greek (SDBG). This feature helps to categorize words based on their meanings and semantic fields. 
+The `domain` feature specifies the semantic domain according to the Semantic Dictionary of Biblical Greek (SDBG). This feature helps to categorize words based on their meanings and semantic fields.
+
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values

@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description 
 
-The `discontinuous` feature is set to `1` if the word is out of sequence in the XML source data in relation to the running text. This feature helps identify words that are repositioned due to the limitations of XML structure, which cannot accommodate overlapping structures. 
+The `discontinuous` feature is set to `1` if the word is out of sequence in the XML source data in relation to the running text. This feature helps identify words that are repositioned due to the limitations of XML structure, which cannot accommodate overlapping structures.
+
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values 

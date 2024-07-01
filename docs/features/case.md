@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-The `case` feature indicates the grammatical case for word types such as nouns, pronouns, adjectives, articles, or participles. 
+The `case` feature indicates the grammatical case for word types such as nouns, pronouns, adjectives, articles, or participles.
+
 This feature is also populated for `phrase` or `subphrase` nodes but only if they consist of just one `word` node.
 
 ## Feature values

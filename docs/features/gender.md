@@ -9,7 +9,8 @@ Feature group |Feature type | Data type | Available for node types | Used by vie
 
 ## Feature description
 
-The `gender` feature indicates the grammatical gender for word types such as nouns, adjectives, pronouns, participles, and definite articles. This feature helps in understanding the gender-based grammatical rules applied to these word types. 
+The `gender` feature indicates the grammatical gender for word types such as nouns, adjectives, pronouns, participles, and definite articles. This feature helps in understanding the gender-based grammatical rules applied to these word types.
+
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values

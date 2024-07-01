@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-The `frame` feature provides semantic role labeling (SRL) information, answering the question "Who does what to whom?" in the Nestle 1904 Greek New Testament. 
+The `frame` feature provides semantic role labeling (SRL) information, answering the question "Who does what to whom?" in the Nestle 1904 Greek New Testament.
+
 This feature is essential for understanding the semantic relationships within sentences.
 
 ## Feature values:

@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-The `ln` feature represents the Louw-Nida lexical classification of the semantic domain. This classification helps organize New Testament Greek vocabulary into meaningful categories based on context and meaning. 
+The `ln` feature represents the Louw-Nida lexical classification of the semantic domain. This classification helps organize New Testament Greek vocabulary into meaningful categories based on context and meaning.
+
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values:

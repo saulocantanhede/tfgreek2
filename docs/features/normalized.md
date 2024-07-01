@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-This feature provides the normalized Greek form of the surface text in the Nestle 1904 Greek New Testament. This feature is essential for consistent and accurate lexical analysis. 
+This feature provides the normalized Greek form of the surface text in the Nestle 1904 Greek New Testament. This feature is essential for consistent and accurate lexical analysis.
+
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Notes

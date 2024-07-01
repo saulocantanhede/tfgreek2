@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description 
 
-The `before` feature includes all material found before a word, such as punctuation marks and special characters. 
+The `before` feature includes all material found before a word, such as punctuation marks and special characters.
+
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values 

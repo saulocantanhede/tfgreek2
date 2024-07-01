@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-The `lemma` feature represents the lexical lemma according to the Bible Dictionary of Ancient Greek (BDAG) and/or ANLEX by Friberg, Friberg, and Miller. This feature helps in identifying the base form of a word as used in dictionaries. 
+The `lemma` feature represents the lexical lemma according to the Bible Dictionary of Ancient Greek (BDAG) and/or ANLEX by Friberg, Friberg, and Miller. This feature helps in identifying the base form of a word as used in dictionaries.
+
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Notes

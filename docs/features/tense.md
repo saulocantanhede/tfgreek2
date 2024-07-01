@@ -11,7 +11,6 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 The `tense` feature indicates the grammatical tense of a verb (`word` node with feature [cls](cls.md#start)=verb). This feature helps in identifying the time frame of the action described by the verb, such as past, present, or future.
 
-
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values

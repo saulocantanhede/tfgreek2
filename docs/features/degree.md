@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-The `degree` feature specifies the grammatical degree of a comparative or superlative adjective. This feature helps to identify and classify adjectives based on their degree of comparison. 
+The `degree` feature specifies the grammatical degree of a comparative or superlative adjective. This feature helps to identify and classify adjectives based on their degree of comparison.
+
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values

@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description 
 
-The `criticalsign` feature includes text-critical marks found before or after a word. 
+The `criticalsign` feature includes text-critical marks found before or after a word.
+
 This feature is also populated for `phrase` or `subphrase` nodes, but only if they consist of just one `word` node.
 
 ## Feature values 

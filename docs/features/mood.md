@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-The `mood` feature indicates the grammatical mood of a verb (`word` node with feature [cls](cls.md#start)=verb). This feature helps in understanding the mode of action expressed by the verb, whether it's a command, a statement of fact, a possibility, etc. 
+The `mood` feature indicates the grammatical mood of a verb (`word` node with feature [cls](cls.md#start)=verb). This feature helps in understanding the mode of action expressed by the verb, whether it's a command, a statement of fact, a possibility, etc.
+
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values 

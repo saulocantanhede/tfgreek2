@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-The `translit` feature provides a transliteration of Greek word surface text into Latin characters. This feature is useful for users who prefer or require Latin script for writing queries or studying the text. 
+The `translit` feature provides a transliteration of Greek word surface text into Latin characters. This feature is useful for users who prefer or require Latin script for writing queries or studying the text.
+
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values 

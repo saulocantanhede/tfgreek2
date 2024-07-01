@@ -9,7 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Surface Greek form of the word in Unicode characters without accents and diacritical markers. 
+Surface Greek form of the word in Unicode characters without accents and diacritical markers.
+
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Notes

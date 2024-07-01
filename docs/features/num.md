@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description 
 
-Sequential number for node type.
+This feature provides the sequential number for the various node type. The context depends on the node type (see next section).
 
 ## Feature values
 
