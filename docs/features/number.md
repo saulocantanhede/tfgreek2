@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Gramatical number of any `word` node with feature [cls](cls.md#start) set to e.g. verb, noun, det, adj, pron.
+The `number` feature indicates the grammatical number of any `word` node with the feature [cls](cls.md#start) set to a verb, noun, determiner, adjective, or pronoun. This feature helps in identifying whether the word is in singular or plural form.
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
@@ -29,7 +29,7 @@ See also the related feature [person](person.md) available for `word` node where
 
 ## Source description
 
-Taken from XML attribute `number` of tag `w` (word).
+This feature is derived from the XML attribute `number` of the tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

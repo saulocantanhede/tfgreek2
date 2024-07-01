@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description 
 
-Node ID of a wordgroup as found ih the source XML data (stripped from the trailing 'n'???).
+The `nodeId` feature represents the Node ID of a word group. This ID helps in identifying and referencing specific word groups, clauses, and sentences within the text.
 
 ## Feature values
 

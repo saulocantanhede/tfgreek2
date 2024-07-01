@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description 
 
-This feature indicates if a syntact unit contains an article.
+The `articular` feature indicates whether a syntactic unit (such as a sentence, group, clause, phrase, or subphrase) contains an article.
 
 ## Feature values 
 
@@ -57,7 +57,7 @@ The following example from John 1:1 demonstrates the function of this feature.
 
 ## Source description
 
-Taken from (optional) XML attribute `articular` of tag `wg` (wordgroup).
+This feature is derived from the (optional) XML attribute `articular` of tag `wg` (wordgroup).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

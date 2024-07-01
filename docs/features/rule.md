@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Syntactic rule of word or wordgroup.
+The `rule` feature specifies the syntactic rule for a word or wordgroup that was used to describe the constituency tree.
 
 ## Feature values
 
@@ -33,7 +33,7 @@ See also the description in [MACULA Greek Treebank for the Nestle 1904 Greek New
 
 ## Source description
 
-From the XML ...
+From the XML attribute `rule` of the tag `w` (word) or `wg` (wordgroup).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

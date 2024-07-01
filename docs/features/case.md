@@ -9,9 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Gramatical case for wordtypes noun, pronoun, adjective, article, or participle. 
-
-This feature is also populated for `phrase` or `subphrase` (used in [`syntax-view`](../syntax-view.md#start)), but only if they consist of just one `word` node.
+The `case` feature indicates the grammatical case for word types such as nouns, pronouns, adjectives, articles, or participles. 
+This feature is also populated for `phrase` or `subphrase` nodes but only if they consist of just one `word` node.
 
 ## Feature values
 
@@ -28,7 +27,7 @@ vocative | Adressee of speech | 649
 
 ## Source description
 
-Taken from XML attribute `case` of tag `w` (word).
+This feature is derived from the XML attribute `case` of the tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

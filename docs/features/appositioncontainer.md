@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description 
 
-This feature indicates if a wordgroup or phrase contains an apposition.
+The `appositioncontainer` feature indicates whether a word group or phrase contains an apposition. An apposition is a grammatical construction where two elements, typically noun phrases, are placed side by side, with one element serving to define or modify the other.
 
 ## Feature values 
 
@@ -41,7 +41,7 @@ The following image presents a nested apposition demonstrating this feature and 
 
 ## Source description
 
-Taken from (optional) XML attribute `appositioncontainer` of tag `wg` (wordgroup).
+This feature is derived from the (optional) XML attribute `appositioncontainer` of tag `wg` (wordgroup).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

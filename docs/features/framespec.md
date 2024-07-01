@@ -9,10 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Reference to the [id](id.md#start) of subject, object or idirect object. 
-
-This feature is populated for most verbs (24690 out of 24767), with the addition of a small number of references for other wordtypes.  It's functional equivalent edge feature is [frame](frame.md#start).
-
+The `framespec` feature provides references to the [id](id.md#start) of the subject, object, or indirect object. This feature is populated primarily for verbs (24690 out of 24767 occurrences), with a few references for other word types. Its functional equivalent edge feature is [frame](frame.md#start).
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values
@@ -57,9 +54,7 @@ See also the following related features:
 
 ## Source description
 
-Taken from (optional) XML attribute `frame` of tag `w` (word).
-
-Annotation data originates from [Clear Bible](https://github.com/Clear-Bible/macula-greek/tree/main/sources/Clear/annotations).
+This feature is derived from the (optional) XML attribute `frame` of the tag `w` (word). Annotation data originates from [Clear Bible](https://github.com/Clear-Bible/macula-greek/tree/main/sources/Clear/annotations).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

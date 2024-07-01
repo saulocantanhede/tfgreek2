@@ -9,8 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description 
 
-The word as it apears in the text without punctuations and text-critical signs. 
-
+he word as it appears in the text without punctuations and text-critical signs. 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Notes
@@ -23,8 +22,6 @@ See also the following related features:
    * [translit](translit.md#start): Transliteration of the word surface texts.
    * [unaccent](unaccent.md#start): word without accents and diacritical markers.
    * [unicode](unicode.md#start): Unicode presentation including all material before and after word.
-
-
 
 The following image shows the relation between these features.
 

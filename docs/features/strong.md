@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Number of the lexeme according to Strong's numbering system. 
+The `strong` feature provides the number of the lexeme according to Strong's numbering system. This system assigns a unique number to each root word in the original biblical languages, facilitating easier reference and study.
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
@@ -23,7 +23,7 @@ Note from [biblicalhumanities/Nestle1904](https://github.com/biblicalhumanities/
 
 ## Source description
 
-Taken from XML attribute `strongs` of tag `w` (word).
+This feature is derived from the XML attribute `strongs` of the tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

@@ -9,34 +9,43 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Unique identifier of a word inside the New Testament corpus.
-
+The `ref` feature provides a unique identifier for each individual word in the corpus. 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values
 
-A compound string indicating book (following the format of feature [bookshort](bookshort.md#start)), chapter, verse and sequence number of the word *inside the verse* according to following format:
+A compound string indicating book (following the format of feature [bookshort](bookshort.md#start)), chapter, verse and sequence number of the word *inside the verse* formatted as follows:
 
 <pre>
   MAT 1:2!11
 </pre>
 
-From this feature value the word sequence number inside the verse can be easily obtained by means of following Python code:
+This format consists of:
+- **Book**: The first three characters (e.g., `MAT` for Matthew)
+- **Chapter**: Following the book, the chapter number (e.g., `1`)
+- **Verse**: Following the chapter, the verse number (e.g., `2`)
+- **Word Sequence Number**: After the `!` symbol, the word sequence number within the verse (e.g., `11`)
+
+### Example
+
+To extract the word sequence number from the identifier `MAT 1:2!11`, use the following Python code:
+
+```python
 <pre>
 ref = "MAT 1:2!11"
 print ('word sequence number: ', ref.split("!")[1])
-word sequence number:  11
-</pre>
+# Output: Word sequence number:  11
+```
 
 ## Notes
 
-This first three characters of this feature value are identical to feature [book_short](book_short.md#start).
+This first three characters of this feature value are identical to the feature [book_short](book_short.md#start).
 
-See also related feature [id](id.md#start).
+See also the related feature [id](id.md#start).
 
 ## Source description
 
-Based upon XML attribute `ref` of tag `w` (word).
+The identifier is based on the XML attribute ref of the w (word) tag.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

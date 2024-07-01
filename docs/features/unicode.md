@@ -9,8 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Surface greek form of the word in unicode, contains all the material before and after it. 
-
+Surface greek form of the word in Unicode, containing all material before and after it. 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Notes
@@ -43,7 +42,7 @@ The following [text-formating options](../textformats.md#start) are defined in t
 
 ## Source description
 
-Taken from XML attribute `unicode` of tag `w` (word).
+Taken from the XML attribute `unicode` of tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

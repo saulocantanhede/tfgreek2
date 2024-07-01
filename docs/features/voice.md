@@ -9,7 +9,7 @@ Feature group |Feature type | Data type | Available for node types | Used by vie
  
 ## Feature description
 
-Gramatical voice of a verb (`word` node with feature [cls](cls.md#start)=verb). 
+The `voice` feature indicates the grammatical voice of a verb (`word` node with feature [cls](cls.md#start)=verb). This feature helps in identifying whether the subject of the verb is performing the action or receiving it.
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
@@ -31,7 +31,7 @@ The BOL dataset contians additional details.
 
 ## Source description
 
-Taken from XML attribute `voice` of tag `w` (word).
+This feature is derived from the XML attribute `voice` of the tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

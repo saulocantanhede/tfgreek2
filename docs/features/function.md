@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-The syntactic function(s) of a word, group of words (phrase, clause, etc) or the composition of the (sub)sentence.
+The `function` feature describes the syntactic functions of words, groups of words (phrases, clauses, etc.), or the composition of (sub)sentences.
 
 ## Feature values
 The values of this feature consist of one or more of the following functions:
@@ -103,7 +103,7 @@ PreC|1904
 
 ## Source description
 
-Based upon the (optional) XML attribute `role` of tag `wg` (wordgroup) or `w` (word).
+This feature is based upon the (optional) XML attribute `role` of the tag `wg` (wordgroup) or `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

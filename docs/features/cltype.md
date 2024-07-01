@@ -9,9 +9,9 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Clause type for verbless, verb-elided, and minor clauses.
+The `cltype` feature provides classification for different types of clauses, specifically focusing on verbless, verb-elided, and minor clauses.
 
-
+## Feature values
 
 Frequency for [sentence](featurebynodetype.md#sentence-nodes) nodes:
 value | description | Frequency
@@ -37,7 +37,7 @@ value | description | Frequency
 
 ## Source description
 
-Taken from XML attribute `cltype` of tag `wg` (wordgroup).
+This feature is derived from the XML attribute `cltype` of the tag `wg` (wordgroup).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

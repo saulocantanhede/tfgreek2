@@ -9,8 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description 
 
-This feature provides all the material pressent before a word. 
-
+The `before` feature includes all material found before a word, such as punctuation marks and special characters. 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values 
@@ -67,7 +66,7 @@ The following [text-formating options](../textformats.md#start) are defined in t
 
 ## Source description
 
-Determined from the value of XML tag `w` (word).
+The `before` feature is determined from the value of the XML tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

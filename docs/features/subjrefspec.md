@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Subject reference to a node formated as [id](id.md#start).
+The `subjref` feature indicates a subject reference to one or more nodes. This feature is essential for understanding the syntactic relationships and dependencies within the text. The subject reference points to a node formated as [id](id.md#start).
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
@@ -33,7 +33,7 @@ See also related feature [subjref](subjref.md#start)
 
 ## Source description
 
-Based upon (optional) XML attribute `subjref` of tag `w` (word).
+Based on the optional XML attribute `subjref` of the tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

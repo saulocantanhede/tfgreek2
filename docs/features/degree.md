@@ -9,8 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Grammatical degree of an comparative or superlative adjective. 
-
+The `degree` feature specifies the grammatical degree of a comparative or superlative adjective. This feature helps to identify and classify adjectives based on their degree of comparison. 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values
@@ -23,7 +22,7 @@ superlative | Superlative adjective | 400
 
 ## Source description
 
-Taken from (optional) XML attribute `degree` of tag `w` (word).
+This feature is derived from the (optional) XML attribute `degree` of the tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

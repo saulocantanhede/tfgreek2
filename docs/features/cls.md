@@ -9,8 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-For `word` nodes: Part of Speech (PoS). For other nodes: category.
-
+The `cls` feature provides the part of speech (PoS) for `word` nodes and the category for other nodes. 
 ## Feature values
 
 Frequency for nodetype [`word`](featuresbynodetype.md#word-nodes):
@@ -91,7 +90,7 @@ See also the description in [MACULA Greek Treebank for the Nestle 1904 Greek New
 
 ## Source description
 
-Taken from XML attribute `class` of tag `w` (word) and tag `wg` (wordgroup).
+This feature is derived from the XML attribute `class` of the tags `w` (word) and `wg` (wordgroup).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

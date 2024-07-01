@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Syntactic role of word or wordgroup.
+The `role` feature indicates the syntactic role of a word or word group within a sentence. It provides information about whether the word or group is acting as a subject, object, verb, etc.
 
 ## Feature values
 
@@ -46,7 +46,7 @@ See also the description in [MACULA Greek Treebank for the Nestle 1904 Greek New
 
 ## Source description
 
-From the XML ...
+This feature is derived from the XML attribute `role` of the tag `w` (word) or `wg` (wordgroup).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

@@ -9,7 +9,9 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-English gloss according to the Biblical Greek Vocabulary Builder (BGVB).
+This feature provides an English gloss for each Greek word, as per the Biblical Greek Vocabulary Builder (BGVB).
+
+## Feature values
 
 Frequency for nodetype [word](featuresbynodetype.md#word-nodes
 
@@ -34,7 +36,7 @@ See also the related feature [trans](trans.md#start) wich contains the text from
 
 ## Source description
 
-Based upon information taken from the Biblical Greek Vocabulary Builder (BGVB) developed by Oliver Glanz using the Bible OL data.
+The `gloss` feature is based on information from the Biblical Greek Vocabulary Builder (BGVB), developed by Oliver Glanz using Bible OL data.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

@@ -10,11 +10,12 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description 
 
-This feature includes all material found after a word: regular space character,  punctuation marks followed by a regular space character, and text-critical markers. 
-
+The `after` feature includes all material found after a word, such as regular space characters, punctuation marks followed by a space, and text-critical markers. This feature is essential for preserving the context and formatting of the text. 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values 
+
+All material found after a word. The frequency is provided by the table below.
 
 Value | Description | Unicode codepoint | Frequency<sup>1</sup>
 ---  |  --- | --- | ---
@@ -60,7 +61,8 @@ The following [text-formating options](../textformats.md#start) are defined in t
   
 ## Source description
 
-Taken from XML attribute `after` of tag `w` (word).
+The `after` feature is based on the XML attribute `after` of the `w` (word) tag.
+
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

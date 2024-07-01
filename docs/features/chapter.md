@@ -9,9 +9,9 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description  
 
-Chapter number inside book.
+This feature indicates the chapter number within a book.
 
-## Feature value
+## Feature values
 
 An integer.
 
@@ -24,13 +24,14 @@ Not all nodetypes provide this feature. To determine the chapter for nodetypes `
     wgNode=390658   # this is a wg in Matt. 1:1
     chapterNode=L.u(wgNode,otype='chapter')[0]  # returns a tuple
     chapter=F.chapter.v(chapterNode)
-    print (chapter)
+    print (chapter) # Output: 1
 ```
-This returns `1` as the value for feature chapter.
+
+This snippet returns 1 as the value for the chapter feature.
 
 ## Source description
 
-Calculated from XML attribute `ref` of tag `w` (word).
+The chapter information is calculated from the XML attribute ref of the w (word) tag.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

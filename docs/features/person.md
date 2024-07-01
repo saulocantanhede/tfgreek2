@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Gramatical person of a verb (`word` node with feature [cls](cls.md#start)=verb).
+The `person` feature indicates the grammatical person of a verb (`word` node with the feature [cls](cls.md#start)=verb). This feature helps in identifying whether the verb is in the first, second, or third person.
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
@@ -30,7 +30,7 @@ See also related feature [number](number.md).
 
 ## Source description
 
-Taken from XML attribute `person` of tag `w` (word).
+This feature is derived from the XML attribute `person` of the tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

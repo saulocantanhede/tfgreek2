@@ -10,7 +10,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-The variant of the lemma as shown in [Bible Online Learner](https://learner.bible/).
+The `variant` feature matches the variant of the lemma indicating a different sense, as shown in the [Bible Online Learner](https://learner.bible/). This feature helps identify the specific entry when two entries for a lemma are available (like in case of homonyms or polysemes).
 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
@@ -24,7 +24,7 @@ Value | Description | Frequency
 
 ## Source description
 
-Based upon external data obtained from [Bible Online Learner](https://learner.bible/).
+This feature is derived from external data obtained from [Bible Online Learner](https://learner.bible/).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

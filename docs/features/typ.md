@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-This is XML attribute 'typ'.
+This feature provides provides syntactic labels for textual elements like words and wordgroups based upon their syntactical functions and structures. This includes distinguishing between nominal phrases, prepositional phrases, verbal phrases, adjectival phrases, adverbial phrases, conjuncted phrases, and appositions, which are fundamental to interpreting the [syntaxtrees](syntaxtrees.md#start).
 
 ## Feature values
 
@@ -54,7 +54,7 @@ AdvP | adverbial phrase | 166
 
 ## Source description
 
-Taken from XML attribute `typ` of tag `w` (word) and tag `wg` (wordgroup).
+Taken from the XML attribute `typ` of tag `w` (word) and tag `wg` (wordgroup).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

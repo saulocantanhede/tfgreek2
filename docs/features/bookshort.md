@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Book name abbreviation as it is used in e.g. Paratext.
+The `bookshort` feature provides the abbreviation of the book name as it is used in various tools, such as [Paratext](https://paratext.org/). It allows for concise references and is often used in digital and print formats.
 
 ## Feature values
 
@@ -51,8 +51,7 @@ For mapping to OSIS Book abreviations, see [OSIS Book Abbreviations](https://wik
 
 ## Source description
 
-Based upon XML attribute `id` of tag `book`.
-
+This feature is based upon the XML attribute `id` of the tag `book`.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

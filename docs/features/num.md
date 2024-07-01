@@ -33,7 +33,7 @@ To determine the sequence number of a word inside a sentence, the following snip
 ```
 Running this code returns `7`. Since the index starts with zero, this means this word is the eigth one in the verse.
 
-In a similair manner, finding the sequence number inside a book can be done using the following snippet:
+To find the sequence number inside a book, use the following snippet:
 
 ```python
     # the node number of the word is stored in wordNode
@@ -45,7 +45,7 @@ This returns `11` since this is the 12th word in the Gospel of Luke.
 
 ## Source description
 
-Calculated (not in source XML data).
+The num feature is calculated and not present in the source XML data, but derived from the structure of the  corpus and is calculated based on the sequence of elements.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

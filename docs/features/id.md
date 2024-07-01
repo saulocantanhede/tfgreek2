@@ -9,13 +9,12 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-A uniqe identifier for each individual word in the corpus.
-
+This feature provides a unique identifier for each individual word in the corpus. 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values
 
-Id in the following format:
+The `id` is formatted as follows:
 
 ```
 The letter 'n' followed by a 11-digit unique id in the format
@@ -29,10 +28,11 @@ The letter 'n' followed by a 11-digit unique id in the format
 
 ## Notes
 
-See also related feature [ref](ref.md#start).
+See also the related feature [`ref`](ref.md#start).
 
 ## Source description
-Taken from XML tag `xml:id` of `w` (word) node.
+
+The ID is derived from the XML attribute `xml:id` of the `w` (word) node.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

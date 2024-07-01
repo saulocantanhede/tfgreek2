@@ -9,8 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Gramatical mood of a verb (`word` node with feature [cls](cls.md#start)=verb). 
-
+The `mood` feature indicates the grammatical mood of a verb (`word` node with feature [cls](cls.md#start)=verb). This feature helps in understanding the mode of action expressed by the verb, whether it's a command, a statement of fact, a possibility, etc. 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values 
@@ -29,7 +28,7 @@ mood | Comment | Frequency<sup>1</sup>
 
 ## Source description
 
-Taken from (optional) XML attribute `mood` of tag `w` (word).
+This feature is derived from the (optional) XML attribute `mood` of the tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

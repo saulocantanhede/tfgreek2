@@ -32,7 +32,7 @@ For a more comprehensice list of usages for feature otype, see the [documentatio
 
 The information on which object occupies a specific slot is stored in the edge feature [oslots](oslots.md).
 
- ## Source description
+## Source description
 
  Calculated during datacreation.
 

@@ -9,8 +9,7 @@ Feature group |Feature type | Data type | Available for node types | Used by vie
 
 ## Feature description
 
-Gramatical gender for wordtypes nouns, adjectives, pronouns, participles, and definite articles.
-
+The `gender` feature indicates the grammatical gender for word types such as nouns, adjectives, pronouns, participles, and definite articles. This feature helps in understanding the gender-based grammatical rules applied to these word types. 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values
@@ -26,7 +25,7 @@ neuter | grammatical gender is neuter | 13753
 
 ## Source description
 
-Taken from XML attribute `gender` of tag `w` (word).
+This feature is derived from the XML attribute `gender` of the tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

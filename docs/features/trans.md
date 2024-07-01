@@ -9,9 +9,8 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-English translation based upon the [Berean Interlinear Bible](https://berean.bible/) offering a word-for-word translation of the Greek word surface text, focusing on a direct correspondence between Greek and English words, while also making adjustments for English grammar and punctuation to enhance readability. It prioritizes literal accuracy over idiomatic or contextual fluency. 
-
-This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
+The `trans` feature provides an English translation based on the [Berean Interlinear Bible](https://berean.bible/). It offers a word-for-word translation of the Greek text, focusing on direct correspondence between Greek and English words while making adjustments for English grammar and punctuation to enhance readability. 
+This feature prioritizes literal accuracy over idiomatic or contextual fluency. This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Notes
 
@@ -21,9 +20,9 @@ See also the related feature [gloss](gloss.md#start) which contains the English 
 
 ## Source description
 
-Taken from XML attribute `gloss` of tag `w` (word). 
+The `trans` feature is based on the XML attribute `gloss` of the `w` (word) tag.
 
-The source of this data is the [Berean Interlinear Bible](https://interlinearbible.com/). The Berean Bible and Majority Bible texts are officially placed into the public domain as of April 30, 2023.
+The source of this data is the [Berean Interlinear Bible](https://interlinearbible.com/). The Berean Bible and Majority Bible texts were officially placed into the public domain as of April 30, 2023.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

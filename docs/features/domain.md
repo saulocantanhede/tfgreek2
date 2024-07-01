@@ -9,8 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used in vi
  
 ## Feature description
 
-Semantic domain according to Semantic Dictionary of Biblical Greek (SDBG). 
-
+The `domain` feature specifies the semantic domain according to the Semantic Dictionary of Biblical Greek (SDBG). This feature helps to categorize words based on their meanings and semantic fields. 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values
@@ -34,9 +33,7 @@ See also related feature [ln](ln.md#readme) (Louw-Nida lexical classification).
 
 ## Source description
 
-Taken from XML attribute `domain` of tag `w` (word). 
-
-The word sense data for this feature was compiled by the United Bible Societies MARBLE project. See [Macula-Greek Licence](https://github.com/Clear-Bible/macula-greek/blob/main/LICENSE.md).
+This feature is derived from the XML attribute `domain` of the tag `w` (word). The word sense data for this feature was compiled by the United Bible Societies MARBLE project. See [Macula-Greek Licence](https://github.com/Clear-Bible/macula-greek/blob/main/LICENSE.md).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

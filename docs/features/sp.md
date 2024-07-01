@@ -6,9 +6,10 @@
 Feature group | Feature type | Data type | Available for node types | Used by viewtypes
 ---  | --- | --- | --- | ---
 [`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) [`subphrase`](featuresbynodetype.md#subphrase-nodes) [`phrase`](featuresbynodetype.md#phrase-nodes)| [`syntax-view`](../syntax-view.md#start) [`wg-view`](../wg-view.md#start)
+
 ## Description
 
-Part-of-speech refers to the category into which words are classified based on their function in a sentence.
+The `sp` feature provides the part-of-speech (POS), which classifies words based on their function in a sentence.
 
 ## Feature Values
 
@@ -59,7 +60,7 @@ Value | Description | Frequency
  
 ## Source description
 
-Based upon (modified) XML attribute `cls` of tag `wg`.
+The `sp` feature is based on the modified XML attribute `cls` of the `wg` tag.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

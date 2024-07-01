@@ -9,7 +9,7 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
  
 ## Feature description
 
-Edge between a node and its parent node.
+The `parent` feature indicates the edge between a node and its parent node. It can be used to query upon hierarchical relationships within the syntactic structure.
 
 ## Feature value
 
@@ -22,10 +22,12 @@ Any of the following:
 
 ## Notes
 
-Note that usualy any node would have just one parent. In our implementation however word nodes can have two parents, consequence of implementing the 'wg-view' and the 'syntax-view' within a single database.
-The following query demonstrates a typical use of this feature. Here the parent feature is used twice in order to make sure wg2 is child of wg1 and w1 is child of wg1:
-*note: rewrite this to be a 'syntactic view' query*
-<pre>
+Usually, any node would have just one parent. However, in our implementation, word nodes can have two parents due to the inclusion of both the 'wg-view' and the 'syntax-view' within a single database.
+
+### Example Query
+The following query demonstrates a typical use of this feature, ensuring wg2 is a child of wg1 and w1 is a child of wg1:
+
+```python
 Query = '''
 wg1:wg type=modifier-scope
   w1:word lemma=ἐλπίς
@@ -34,47 +36,47 @@ wg2 -parent> wg1
 w1 -parent> wg1
 '''
 Results = A.search(Query)
- 0.24s 6 results</pre>
-
-Part of the results is shown in the following image when using the (default) [`syntax-view`](../syntax-view.md#start):
+ 0.24s 6 results
+```
+Part of the results is shown below in the (default) [`syntax-view`](../syntax-view.md#start):
 
 <img src="images/parent_query_phrase_view.png" width="500">
 
-The same section is shown in the following image using the [`wg-view`](../wg-view.md#start):
+The same section is shown in the [`wg-view`](../wg-view.md#start):
 
 <img src="images/parent_query_wg_view.png" width="500">
 
-The parent-child relation can be checked using the following functions using the node numbers printed above
+The parent-child relation can be checked using the following functions with the node numbers printed above:
 
-<pre>
+```python
  E.parent.f(82843)
    (454458, 246648)
  F.otype.v(246648)
    'phrase'
  F.otype.v(454458)
    'wg'
-</pre>
+```
 
-This output shows the word node has two parents: a `phrase` and a `wg` node. This dual parent relation is consequence of the implementation of two viewtypes:
-   * [`syntax-view`](../syntax-view.md#start) (default): presents the syntax tree using linguistic terms like phrases and clauses.
-   * [`wg-view`](../wg-view.md#start): presents the syntax tree in a more agnostic manner by means of word groups.
+This output shows the word node has two parents: a `phrase` and a `wg` node. This dual parent relation is a consequence of implementing two view types:
+   * [`syntax-view`](../syntax-view.md#start) (default): Presents the syntax tree using linguistic terms like phrases and clauses.
+   * [`wg-view`](../wg-view.md#start): Presents the syntax tree in a more agnostic manner by means of word groups.
 
 
-The following image shows how feature parent operates on the various node types. The node type 'subphrase' is not part of this parent-child relation schema.
+The following image shows how the `parent` feature operates on various node types. The node type 'subphrase' is not part of this parent-child relation schema.
 
 <img src="images/parent_nodes_views.png" width="650">
 
 Feature parent can also be used to identify the child node(s) by calling function E.parent.t(...):
-<pre>
+```python
 E.parent.f(246649)
   (246648,)
-</pre>
+```
 
-See also the related feature [parent](parent.md#start).
+See also the related feature [sibling](sibling.md#start).
 
 ## Source description
 
-Calculated.
+This feature is calculated during dataset creation.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*

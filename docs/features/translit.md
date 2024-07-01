@@ -9,13 +9,12 @@ Feature group | Feature type | Data type | Available for node types | Used by vi
 
 ## Feature description
 
-Transliteration of the Greek word surface text into latin characters.
-
+The `translit` feature provides a transliteration of Greek word surface text into Latin characters. This feature is useful for users who prefer or require Latin script for writing queries or studying the text. 
 This feature is also populated for `phrase` or `subphrase`, but only if they consist of just one `word` node.
 
 ## Feature values 
 
-The following tables only show the first fifh entries with the highest frequency.
+The following tables show the top five entries with the highest frequency for different node types.
 
 For [`word`](featuresbynodetype.md#word-nodes) nodes (used in [`syntax-view`](../syntax-view.md#start) and  [`wg-view`](../wg-view.md#start)):
 
@@ -50,6 +49,7 @@ ouk	| 660
 ## Notes
 
 This feature allows for easy writing of queries without the use of Greek characters. The following snippet provides an example:
+
 ```python
     logosQuery='''
     verse 
@@ -58,7 +58,7 @@ This feature allows for easy writing of queries without the use of Greek charact
     logosResults=PLAY.search(logosQuery) # this will provide a list of tuples
     T.text(logosResults[0][0]) # print the Greek text related to the first node in the first tuple (which is a verse node)
 ```
-The query returns 63 results. the first one is printed by the last statement:
+The query returns 63 results. The first one of this list is printed by the last statement:
 
 `'ἔστω δὲ ὁ λόγος ὑμῶν ναὶ ναί,οὒ οὔ·τὸ δὲ περισσὸν τούτων ἐκ τοῦ πονηροῦ ἐστιν.'`
 
@@ -88,7 +88,7 @@ The following [text-formating options](../textformats.md#start) are defined in t
 
 ## Source description
 
-Calculated from the XML attribute `unicode` of tag `w` (word).
+The translit feature is calculated from the XML attribute unicode of the w (word) tag.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [data type](featuresbydatatype.md#start), [feature group](featuresbygroup.md#start) or [feature type](featuresbyfeaturetype.md#start).*
