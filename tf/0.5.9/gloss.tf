@@ -1,7 +1,7 @@
 @node
 @author=Evangelists and apostles
 @converterSourceLocation=https://github.com/saulocantanhede/tfgreek2/tree/main/programs
-@converterVersion=0.5.7 (June 13, 2024)
+@converterVersion=0.5.9 (July 3, 2024)
 @converters=Saulo de Oliveira Cantanhêde, Tony Jurg, Dirk Roorda, Oliver Glanz
 @dataSource=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/lowfat
 @dataSourceFormat=XML lowfat tree data
@@ -12,7 +12,7 @@
 @source=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @title=Greek New Testament (Nestle 1904)
 @valueType=str
-@version=0.5.8
+@version=0.5.9
 @xmlSourceDate=February 9, 2023
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric

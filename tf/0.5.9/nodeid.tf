@@ -10,12 +10,12 @@
 @editors=Eberhart Nestle (1904)
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer) at Vrije Universiteit Amsterdam, CBLC (Center of Biblical Languages and Computing) at Andrews University
 @title=Greek New Testament (Nestle 1904)
-@valueType=int
+@valueType=str
 @version=0.5.9
 @xmlSourceDate=February 9, 2023
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2024-07-03T15:41:44Z
+@dateWritten=2024-07-05T16:52:07Z
 
 138125	400010200010490
 138127	400010200120390
