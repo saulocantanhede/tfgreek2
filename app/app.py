@@ -9,7 +9,7 @@ class TfApp(App):
 
         Parameters:
             app (object): The Text-Fabric application instance.
-            viewName (str): The name of the viewtype. Acceptable values are 'wg', 'syntax' and 'reset'.
+            viewName (str): The name of the viewtype. Acceptable values are 'wg' and 'syntax'.
 
         The function sets the parameters 'condensed' to True and 'queryFeatures' to False, respectively.
         It further updates some display configurations based on the chosen view:
@@ -19,9 +19,6 @@ class TfApp(App):
            2. If 'syntax' is selected:
                - Updates the label for sentence nodes with syntax related features.
                - It hides the word-group (wg) and subphrase node types.
-           3. If 'reset' is selected: 
-               - Reset display viewtype options configured previously.
-           
         Returns:
            The function does not return any value, but modifies the application's state.
            It prints a setup confirmation and a documentation link explaining 'viewtype' to the console.
@@ -36,7 +33,7 @@ class TfApp(App):
            # modify some labels for sentence nodes (note: app.context.typeDisplay contains the data from config.yaml)
            app.context.labels['sentence'] = ('{rule}', ['rule'])
            # Each key-value pair in dictionary OptionDict represents a specific setting or option for the wg-view.
-           OptionDict = {'hiddenTypes' : 'clause,phrase,subphrase,group', 'condensed': {True}, 'queryFeatures': {False}, 'suppress' : {'book', 'chapter', 'verse'}}
+           OptionDict = {'hiddenTypes' : 'clause,phrase,subphrase,group', 'condensed': {True}, 'queryFeatures': {False}, 'suppress' : {''}}
            # Pass the dictionary (with a variable number of pairs) to the displaySetup function to unpack and apply.
            displaySetup(app,**OptionDict)
            feedback+='[wg-view](https://github.com/saulocantanhede/tfgreek2/blob/main/docs/wg-view.md#start)'
@@ -45,7 +42,7 @@ class TfApp(App):
            # modify some labels for sentence nodes
            app.context.labels['sentence'] = ('{function}', ['function'])
            # Each key-value pair in dictionary OptionDict represents a specific setting or option for the syntax-view.
-           OptionDict = {'hiddenTypes' : 'wg', 'condensed': {True}, 'queryFeatures': {False},  'suppress' : {'book', 'chapter', 'verse'}, 'condenseType': 'sentence'}
+           OptionDict = {'hiddenTypes' : 'wg', 'condensed': {True}, 'queryFeatures': {False},  'suppress' : {''}, 'condenseType': 'verse'}
            # Pass a dictionary (with a variable number of pairs) to the displaySetup function to unpack and apply.
            displaySetup(app,**OptionDict)
            feedback+='[syntax-view](https://github.com/saulocantanhede/tfgreek2/blob/main/docs/syntax-view.md#start)'
