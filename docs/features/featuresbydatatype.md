@@ -71,7 +71,7 @@ Name | Feature group | Feature type | Available on node | Description | Examples
 
 Name | Feature type | Available on node | Description | Examples
 --- | --- | --- | --- | ---
-[subj_ref](subj_ref.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes) | Subject reference |
+[subjref](subjref.md#start) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes) | Subject reference |
 
 
 ## Configuration data
