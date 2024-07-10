@@ -1,5 +1,6 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/0158b08039fb672626b3f9c2774f4d97120826fb/tf) (version 0.5.9)
-# Overview features per datatype
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
+# Overview features by data type
+Overview by [name](featuresbyname.md), [node type](featuresbynodetype.md), or [feature type](featuresbytype.md).
 ## Integer
 
 Feature|Featuretype|Available on nodes|Description|Examples
@@ -27,6 +28,7 @@ Feature|Featuretype|Available on nodes|Description|Examples
 [`crule`](crule.md#readme)|[`Node`](featuresbytype.md#node)|[`sentence`](featuresbynodetype.md#sentence) [`clause`](featuresbynodetype.md#clause) [`wg`](featuresbynodetype.md#wg) |clause rule (from xml attribute Rule)|`ClCl` `ClCl2`
 [`degree`](degree.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |grammatical degree|`comparative` `superlative`
 [`domain`](domain.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |domain|`092004` `033006` `013001` `069002`
+[`frame`](frame.md#readme)|[`Edge`](featuresbytype.md#edge)|[`word`](featuresbynodetype.md#word) |frame|`A0` `A1` `A2` `AA2`
 [`framespec`](framespec.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |this is XML attribute framespec|`A0:n00000000000` `A1:n00000000000` `A0:n47010001004` `A0:n46003022002`
 [`function`](function.md#readme)|[`Node`](featuresbytype.md#node)|[`sentence`](featuresbynodetype.md#sentence) [`clause`](featuresbynodetype.md#clause) [`wg`](featuresbynodetype.md#wg) [`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |this is XML attribute function|`Pred-Obj` `Subj-PreC-PreC` `Cmpl-Pred` `Cmpl-Pred-Obj`
 [`gender`](gender.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |grammatical gender|`masculine` `neuter` `feminine`
@@ -43,7 +45,9 @@ Feature|Featuretype|Available on nodes|Description|Examples
 [`normalized`](normalized.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |lemma normalized|`αὐτόν` `μή` `αὐτῷ` `οὐκ`
 [`note`](note.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |annotation of linguistic nature|`discontinuous discourse`
 [`number`](number.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |grammatical number|`singular` `plural`
+[`oslots`](oslots.md#readme)|[`Edge`](featuresbytype.md#edge)||No feature description|No values
 [`otype`](otype.md#readme)|[`Node`](featuresbytype.md#node)||No feature description|No values
+[`parent`](parent.md#readme)|[`Edge`](featuresbytype.md#edge)|[`sentence`](featuresbynodetype.md#sentence) [`group`](featuresbynodetype.md#group) [`clause`](featuresbynodetype.md#clause) [`wg`](featuresbynodetype.md#wg) [`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |parent relationship between words|`Link`
 [`person`](person.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |grammatical person|`p3` `p2` `p1`
 [`punctuation`](punctuation.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |this is XML attribute punctuation|` ` `,` `.` `·`
 [`ref`](ref.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |biblical reference with word counting|`1CO 10:1!1` `1CO 10:1!15` `1CO 10:1!17` `1CO 10:1!2`
@@ -52,6 +56,7 @@ Feature|Featuretype|Available on nodes|Description|Examples
 [`role`](role.md#readme)|[`Node`](featuresbytype.md#node)|[`group`](featuresbynodetype.md#group) [`clause`](featuresbynodetype.md#clause) [`wg`](featuresbynodetype.md#wg) [`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |role|`o` `s` `p` `adv`
 [`rule`](rule.md#readme)|[`Node`](featuresbytype.md#node)|[`sentence`](featuresbynodetype.md#sentence) [`group`](featuresbynodetype.md#group) [`clause`](featuresbynodetype.md#clause) [`wg`](featuresbynodetype.md#wg) [`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) |syntactical rule|`Conj-CL` `CLaCL` `ClCl` `ClCl2`
 [`sp`](sp.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |part-of-speach|`verb` `pron` `advb` `subs`
+[`subjref`](subjref.md#readme)|[`Edge`](featuresbytype.md#edge)|[`word`](featuresbynodetype.md#word) |number of subject referent|`Link`
 [`subjrefspec`](subjrefspec.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |this is XML attribute subjrefspec|`n46003022002` `n66001009002` `n45001001001` `n47010001004`
 [`tense`](tense.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |verbal tense|`aorist` `present` `future` `imperfect`
 [`text`](text.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |the text of a word|`αὐτῷ` `μὴ` `οὐκ` `εἶπεν`
@@ -63,10 +68,6 @@ Feature|Featuretype|Available on nodes|Description|Examples
 [`unicode`](unicode.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |word in unicode characters plus material after it|`μὴ` `οὐκ` `αὐτῷ` `εἶπεν`
 [`variant`](variant.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |this is XML attribute variant|`2` `1`
 [`voice`](voice.md#readme)|[`Node`](featuresbytype.md#node)|[`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |verbal voice|`active` `passive` `middle` `middlepassive`
-[`frame`](frame.md#readme)|[`Edge`](featuresbytype.md#edge)|[`word`](featuresbynodetype.md#word) |frame|`A0` `A1` `A2` `AA2`
-[`oslots`](oslots.md#readme)|[`Edge`](featuresbytype.md#edge)||No feature description|No values
-[`parent`](parent.md#readme)|[`Edge`](featuresbytype.md#edge)|[`sentence`](featuresbynodetype.md#sentence) [`group`](featuresbynodetype.md#group) [`clause`](featuresbynodetype.md#clause) [`wg`](featuresbynodetype.md#wg) [`phrase`](featuresbynodetype.md#phrase) [`subphrase`](featuresbynodetype.md#subphrase) [`word`](featuresbynodetype.md#word) |parent relationship between words|`Link`
-[`subjref`](subjref.md#readme)|[`Edge`](featuresbytype.md#edge)|[`word`](featuresbynodetype.md#word) |number of subject referent|`Link`
 
 
-Created on Jul. 07, 2024 using [Doc4TF version 0.5.1 (June 16, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb)
+Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb)

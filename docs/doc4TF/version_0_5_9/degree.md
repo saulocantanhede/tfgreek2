@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/0158b08039fb672626b3f9c2774f4d97120826fb/tf) (version 0.5.9)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
 # Feature: degree
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -11,16 +11,22 @@ Value|Occurences
 ---|---
 comparative|119
 superlative|32
-### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
-Value|Occurences
----|---
-comparative|313
-superlative|200
-### Frequency for nodetype [word](featuresbynodetype.md#word)
-Value|Occurences
----|---
-comparative|313
-superlative|200
- 
 
-Created on Jul. 07, 2024 using [Doc4TF version 0.5.1 (June 16, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Total frequency of feature: 151.
+ ### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
+Value|Occurences
+---|---
+comparative|313
+superlative|200
+
+Total frequency of feature: 513.
+ ### Frequency for nodetype [word](featuresbynodetype.md#word)
+Value|Occurences
+---|---
+comparative|313
+superlative|200
+
+Total frequency of feature: 513.
+  
+
+Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

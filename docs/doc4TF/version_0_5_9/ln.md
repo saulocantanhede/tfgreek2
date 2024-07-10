@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/0158b08039fb672626b3f9c2774f4d97120826fb/tf) (version 0.5.9)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
 # Feature: ln
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -19,32 +19,38 @@ Value|Occurences
 13.4|535
 92.29|522
 15.81|471
-### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
-Value|Occurences
----|---
-92.24|19738
-92.11|4718
-89.92|2903
-89.87|2756
-33.69|2336
-69.3|1736
-92.1|1732
-92.7|1494
-12.1|1247
-92.29|1090
-### Frequency for nodetype [word](featuresbynodetype.md#word)
-Value|Occurences
----|---
-92.24|19738
-92.11|4718
-89.92|2903
-89.87|2756
-33.69|2336
-69.3|1736
-92.1|1732
-92.7|1494
-12.1|1247
-92.29|1090
- 
 
-Created on Jul. 07, 2024 using [Doc4TF version 0.5.1 (June 16, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Total frequency of feature: 43153. Note: table truncated.
+ ### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
+Value|Occurences
+---|---
+92.24|19738
+92.11|4718
+89.92|2903
+89.87|2756
+33.69|2336
+69.3|1736
+92.1|1732
+92.7|1494
+12.1|1247
+92.29|1090
+
+Total frequency of feature: 126879. Note: table truncated.
+ ### Frequency for nodetype [word](featuresbynodetype.md#word)
+Value|Occurences
+---|---
+92.24|19738
+92.11|4718
+89.92|2903
+89.87|2756
+33.69|2336
+69.3|1736
+92.1|1732
+92.7|1494
+12.1|1247
+92.29|1090
+
+Total frequency of feature: 126879. Note: table truncated.
+  
+
+Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

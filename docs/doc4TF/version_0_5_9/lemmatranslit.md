@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/0158b08039fb672626b3f9c2774f4d97120826fb/tf) (version 0.5.9)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
 # Feature: lemmatranslit
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -19,32 +19,38 @@ os|1115
 me|779
 tis|722
 ekho|707
-### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
-Value|Occurences
----|---
-o|19800
-kai|8978
-autos|5561
-su|2892
-de|2792
-en|2743
-ego|2567
-eimi|2457
-lego|2255
-eis|2102
-### Frequency for nodetype [word](featuresbynodetype.md#word)
-Value|Occurences
----|---
-o|19800
-kai|8978
-autos|5561
-su|2892
-de|2792
-en|2743
-ego|2567
-eimi|2457
-lego|2255
-eis|2102
- 
 
-Created on Jul. 07, 2024 using [Doc4TF version 0.5.1 (June 16, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Total frequency of feature: 46077. Note: table truncated.
+ ### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
+Value|Occurences
+---|---
+o|19800
+kai|8978
+autos|5561
+su|2892
+de|2792
+en|2743
+ego|2567
+eimi|2457
+lego|2255
+eis|2102
+
+Total frequency of feature: 137779. Note: table truncated.
+ ### Frequency for nodetype [word](featuresbynodetype.md#word)
+Value|Occurences
+---|---
+o|19800
+kai|8978
+autos|5561
+su|2892
+de|2792
+en|2743
+ego|2567
+eimi|2457
+lego|2255
+eis|2102
+
+Total frequency of feature: 137779. Note: table truncated.
+  
+
+Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

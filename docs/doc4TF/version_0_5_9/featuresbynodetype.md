@@ -1,8 +1,9 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/0158b08039fb672626b3f9c2774f4d97120826fb/tf) (version 0.5.9)
-# Overview features per nodetype
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
+# Overview features by node type
+Overview by [name](featuresbyname.md), [data type](featuresbydatatype.md), or [feature type](featuresbytype.md).
 ## book
 
-Feature|Featuretype|Datatype|Description|Examples
+Feature|Feature type|Data type|Description|Examples
 ---|---|---|---|---
 [`book`](book.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|book name (full name)|`Acts` `Colossians` `Ephesians` `Galatians`
 [`bookshort`](bookshort.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|book name (abbreviated) from ref attribute in xml|`1CO` `1JN` `1PE` `1TH`
@@ -10,20 +11,20 @@ Feature|Featuretype|Datatype|Description|Examples
 [`num`](num.md#readme)|[`Node`](featuresbytype.md#Node)|[`Integer`](featuresbydatatype.md#Integer)|generated number (not in xml): book: (Matthew=1, Mark=2, ..., Revelation=27); sentence: numbered per chapter; word: numbered per verse.|`1` `2` `3` `4`
 ## chapter
 
-Feature|Featuretype|Datatype|Description|Examples
+Feature|Feature type|Data type|Description|Examples
 ---|---|---|---|---
 [`book`](book.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|book name (full name)|`Acts` `Colossians` `Ephesians` `Galatians`
 [`chapter`](chapter.md#readme)|[`Node`](featuresbytype.md#Node)|[`Integer`](featuresbydatatype.md#Integer)|chapter number, from ref attribute in xml|`1` `2` `3` `4`
 ## verse
 
-Feature|Featuretype|Datatype|Description|Examples
+Feature|Feature type|Data type|Description|Examples
 ---|---|---|---|---
 [`book`](book.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|book name (full name)|`Acts` `Colossians` `Ephesians` `Galatians`
 [`chapter`](chapter.md#readme)|[`Node`](featuresbytype.md#Node)|[`Integer`](featuresbydatatype.md#Integer)|chapter number, from ref attribute in xml|`1` `2` `3` `4`
 [`verse`](verse.md#readme)|[`Node`](featuresbytype.md#Node)|[`Integer`](featuresbydatatype.md#Integer)|verse number, from ref attribute in xml|`1` `2` `3` `4`
 ## sentence
 
-Feature|Featuretype|Datatype|Description|Examples
+Feature|Feature type|Data type|Description|Examples
 ---|---|---|---|---
 [`articular`](articular.md#readme)|[`Node`](featuresbytype.md#Node)|[`Integer`](featuresbydatatype.md#Integer)|1 if the sentence, group, clause, phrase or wg has an article|`1`
 [`book`](book.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|book name (full name)|`Acts` `Colossians` `Ephesians` `Galatians`
@@ -40,7 +41,7 @@ Feature|Featuretype|Datatype|Description|Examples
 [`typems`](typems.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|morphological type (on word), syntactical type (on sentence, group, clause, phrase or wg)|`wrapper-clause-scope` `group`
 ## group
 
-Feature|Featuretype|Datatype|Description|Examples
+Feature|Feature type|Data type|Description|Examples
 ---|---|---|---|---
 [`articular`](articular.md#readme)|[`Node`](featuresbytype.md#Node)|[`Integer`](featuresbydatatype.md#Integer)|1 if the sentence, group, clause, phrase or wg has an article|`1`
 [`book`](book.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|book name (full name)|`Acts` `Colossians` `Ephesians` `Galatians`
@@ -53,7 +54,7 @@ Feature|Featuretype|Datatype|Description|Examples
 [`typems`](typems.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|morphological type (on word), syntactical type (on sentence, group, clause, phrase or wg)|`wrapper-clause-scope` `group`
 ## clause
 
-Feature|Featuretype|Datatype|Description|Examples
+Feature|Feature type|Data type|Description|Examples
 ---|---|---|---|---
 [`appositioncontainer`](appositioncontainer.md#readme)|[`Node`](featuresbytype.md#Node)|[`Integer`](featuresbydatatype.md#Integer)|1 if it is an apposition container|`1`
 [`articular`](articular.md#readme)|[`Node`](featuresbytype.md#Node)|[`Integer`](featuresbydatatype.md#Integer)|1 if the sentence, group, clause, phrase or wg has an article|`1`
@@ -74,7 +75,7 @@ Feature|Featuretype|Datatype|Description|Examples
 [`typems`](typems.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|morphological type (on word), syntactical type (on sentence, group, clause, phrase or wg)|`wrapper-clause-scope` `group`
 ## wg
 
-Feature|Featuretype|Datatype|Description|Examples
+Feature|Feature type|Data type|Description|Examples
 ---|---|---|---|---
 [`appositioncontainer`](appositioncontainer.md#readme)|[`Node`](featuresbytype.md#Node)|[`Integer`](featuresbydatatype.md#Integer)|1 if it is an apposition container|`1`
 [`articular`](articular.md#readme)|[`Node`](featuresbytype.md#Node)|[`Integer`](featuresbydatatype.md#Integer)|1 if the sentence, group, clause, phrase or wg has an article|`1`
@@ -96,7 +97,7 @@ Feature|Featuretype|Datatype|Description|Examples
 [`typems`](typems.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|morphological type (on word), syntactical type (on sentence, group, clause, phrase or wg)|`wrapper-clause-scope` `group`
 ## phrase
 
-Feature|Featuretype|Datatype|Description|Examples
+Feature|Feature type|Data type|Description|Examples
 ---|---|---|---|---
 [`after`](after.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|material after the end of the word|` ` `,` `.` `·`
 [`appositioncontainer`](appositioncontainer.md#readme)|[`Node`](featuresbytype.md#Node)|[`Integer`](featuresbydatatype.md#Integer)|1 if it is an apposition container|`1`
@@ -144,7 +145,7 @@ Feature|Featuretype|Datatype|Description|Examples
 [`voice`](voice.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|verbal voice|`active` `passive` `middle` `middlepassive`
 ## subphrase
 
-Feature|Featuretype|Datatype|Description|Examples
+Feature|Feature type|Data type|Description|Examples
 ---|---|---|---|---
 [`after`](after.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|material after the end of the word|` ` `,` `.` `·`
 [`appositioncontainer`](appositioncontainer.md#readme)|[`Node`](featuresbytype.md#Node)|[`Integer`](featuresbydatatype.md#Integer)|1 if it is an apposition container|`1`
@@ -193,7 +194,7 @@ Feature|Featuretype|Datatype|Description|Examples
 [`voice`](voice.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|verbal voice|`active` `passive` `middle` `middlepassive`
 ## word
 
-Feature|Featuretype|Datatype|Description|Examples
+Feature|Feature type|Data type|Description|Examples
 ---|---|---|---|---
 [`after`](after.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|material after the end of the word|` ` `,` `.` `·`
 [`before`](before.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|this is XML attribute before|`—` `(` `[[`
@@ -244,4 +245,4 @@ Feature|Featuretype|Datatype|Description|Examples
 [`voice`](voice.md#readme)|[`Node`](featuresbytype.md#Node)|[`String`](featuresbydatatype.md#String)|verbal voice|`active` `passive` `middle` `middlepassive`
 
 
-Created on Jul. 07, 2024 using [Doc4TF version 0.5.1 (June 16, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb)
+Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb)

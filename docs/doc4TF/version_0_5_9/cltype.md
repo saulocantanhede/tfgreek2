@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/0158b08039fb672626b3f9c2774f4d97120826fb/tf) (version 0.5.9)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
 # Feature: cltype
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -12,18 +12,24 @@ Value|Occurences
 Verbless|77
 VerbElided|47
 Minor|1
-### Frequency for nodetype [clause](featuresbynodetype.md#clause)
+
+Total frequency of feature: 125.
+ ### Frequency for nodetype [clause](featuresbynodetype.md#clause)
 Value|Occurences
 ---|---
 VerbElided|1003
 Verbless|884
 Minor|831
-### Frequency for nodetype [wg](featuresbynodetype.md#wg)
+
+Total frequency of feature: 2718.
+ ### Frequency for nodetype [wg](featuresbynodetype.md#wg)
 Value|Occurences
 ---|---
 VerbElided|1050
 Verbless|961
 Minor|832
- 
 
-Created on Jul. 07, 2024 using [Doc4TF version 0.5.1 (June 16, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Total frequency of feature: 2843.
+  
+
+Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

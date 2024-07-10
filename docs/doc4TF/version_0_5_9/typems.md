@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/0158b08039fb672626b3f9c2774f4d97120826fb/tf) (version 0.5.9)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
 # Feature: typems
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -11,18 +11,24 @@ Value|Occurences
 ---|---
 wrapper-clause-scope|5571
 group|375
-### Frequency for nodetype [group](featuresbynodetype.md#group)
+
+Total frequency of feature: 5946.
+ ### Frequency for nodetype [group](featuresbynodetype.md#group)
 Value|Occurences
 ---|---
 conjuncted-wg|8075
 apposition-group|870
-### Frequency for nodetype [clause](featuresbynodetype.md#clause)
+
+Total frequency of feature: 8945.
+ ### Frequency for nodetype [clause](featuresbynodetype.md#clause)
 Value|Occurences
 ---|---
 wrapper-clause-scope|6595
 group|2257
 apposition-group|21
-### Frequency for nodetype [wg](featuresbynodetype.md#wg)
+
+Total frequency of feature: 8873.
+ ### Frequency for nodetype [wg](featuresbynodetype.md#wg)
 Value|Occurences
 ---|---
 modifier-scope|29645
@@ -32,7 +38,9 @@ conjuncted-wg|8075
 group|4957
 modifier-clause-scope|1712
 apposition-group|891
-### Frequency for nodetype [phrase](featuresbynodetype.md#phrase)
+
+Total frequency of feature: 68710.
+ ### Frequency for nodetype [phrase](featuresbynodetype.md#phrase)
 Value|Occurences
 ---|---
 modifier-scope|10484
@@ -45,7 +53,9 @@ modifier-clause-scope|755
 demonstrative|744
 proper|683
 interrogative|480
-### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
+
+Total frequency of feature: 33293. Note: table truncated.
+ ### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
 Value|Occurences
 ---|---
 modifier-scope|29645
@@ -58,7 +68,9 @@ demonstrative|1722
 modifier-clause-scope|1712
 relative|1674
 interrogative|633
-### Frequency for nodetype [word](featuresbynodetype.md#word)
+
+Total frequency of feature: 89404. Note: table truncated.
+ ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
 common|23644
@@ -70,6 +82,8 @@ interrogative|633
 indefinite|552
 possessive|70
 adverbial|3
- 
 
-Created on Jul. 07, 2024 using [Doc4TF version 0.5.1 (June 16, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Total frequency of feature: 44458.
+  
+
+Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

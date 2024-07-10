@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/0158b08039fb672626b3f9c2774f4d97120826fb/tf) (version 0.5.9)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
 # Feature: rule
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -19,12 +19,16 @@ sub-CL|47
 ADV-V|37
 ADV-V-O|33
 S-P|29
-### Frequency for nodetype [group](featuresbynodetype.md#group)
+
+Total frequency of feature: 7173. Note: table truncated.
+ ### Frequency for nodetype [group](featuresbynodetype.md#group)
 Value|Occurences
 ---|---
 NP-CL|856
 CL-NP|14
-### Frequency for nodetype [clause](featuresbynodetype.md#clause)
+
+Total frequency of feature: 870.
+ ### Frequency for nodetype [clause](featuresbynodetype.md#clause)
 Value|Occurences
 ---|---
 CLaCL|3434
@@ -37,7 +41,9 @@ ClCl|1356
 ADV-V|1100
 O-V|1064
 that-VP|888
-### Frequency for nodetype [wg](featuresbynodetype.md#wg)
+
+Total frequency of feature: 37786. Note: table truncated.
+ ### Frequency for nodetype [wg](featuresbynodetype.md#wg)
 Value|Occurences
 ---|---
 DetNP|15696
@@ -50,7 +56,9 @@ V2CL|2843
 V-O|2725
 DetCL|2011
 Np-Appos|1908
-### Frequency for nodetype [phrase](featuresbynodetype.md#phrase)
+
+Total frequency of feature: 93234. Note: table truncated.
+ ### Frequency for nodetype [phrase](featuresbynodetype.md#phrase)
 Value|Occurences
 ---|---
 PrepNp|9512
@@ -63,7 +71,9 @@ AdvpNp|520
 DetAdj|470
 AdjpNp|455
 All-NP|412
-### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
+
+Total frequency of feature: 22930. Note: table truncated.
+ ### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
 Value|Occurences
 ---|---
 DetNP|15696
@@ -76,6 +86,8 @@ NpaNp|1351
 DetAdj|1282
 All-NP|846
 NpPp|676
- 
 
-Created on Jul. 07, 2024 using [Doc4TF version 0.5.1 (June 16, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Total frequency of feature: 47405. Note: table truncated.
+  
+
+Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

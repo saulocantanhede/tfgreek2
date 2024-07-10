@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/0158b08039fb672626b3f9c2774f4d97120826fb/tf) (version 0.5.9)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
 # Feature: case
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -14,22 +14,28 @@ accusative|6170
 dative|3265
 genitive|1408
 vocative|1
-### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
-Value|Occurences
----|---
-nominative|24197
-accusative|23031
-genitive|19515
-dative|12126
-vocative|649
-### Frequency for nodetype [word](featuresbynodetype.md#word)
-Value|Occurences
----|---
-nominative|24197
-accusative|23031
-genitive|19515
-dative|12126
-vocative|649
- 
 
-Created on Jul. 07, 2024 using [Doc4TF version 0.5.1 (June 16, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Total frequency of feature: 20453.
+ ### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
+Value|Occurences
+---|---
+nominative|24197
+accusative|23031
+genitive|19515
+dative|12126
+vocative|649
+
+Total frequency of feature: 79518.
+ ### Frequency for nodetype [word](featuresbynodetype.md#word)
+Value|Occurences
+---|---
+nominative|24197
+accusative|23031
+genitive|19515
+dative|12126
+vocative|649
+
+Total frequency of feature: 79518.
+  
+
+Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/0158b08039fb672626b3f9c2774f4d97120826fb/tf) (version 0.5.9)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
 # Feature: bookshort
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -19,7 +19,9 @@ Value|Occurences
 2PE|1
 2TH|1
 2TI|1
-### Frequency for nodetype [sentence](featuresbynodetype.md#sentence)
+
+Total frequency of feature: 27. Note: table truncated.
+ ### Frequency for nodetype [sentence](featuresbynodetype.md#sentence)
 Value|Occurences
 ---|---
 LUK|1150
@@ -32,7 +34,9 @@ REV|462
 ROM|460
 2CO|249
 HEB|241
-### Frequency for nodetype [group](featuresbynodetype.md#group)
+
+Total frequency of feature: 7939. Note: table truncated.
+ ### Frequency for nodetype [group](featuresbynodetype.md#group)
 Value|Occurences
 ---|---
 ACT|1288
@@ -45,7 +49,9 @@ MRK|753
 ROM|362
 HEB|325
 2CO|222
-### Frequency for nodetype [clause](featuresbynodetype.md#clause)
+
+Total frequency of feature: 8945. Note: table truncated.
+ ### Frequency for nodetype [clause](featuresbynodetype.md#clause)
 Value|Occurences
 ---|---
 LUK|6563
@@ -58,7 +64,9 @@ REV|2524
 ROM|1977
 HEB|1411
 2CO|1381
-### Frequency for nodetype [wg](featuresbynodetype.md#wg)
+
+Total frequency of feature: 42506. Note: table truncated.
+ ### Frequency for nodetype [wg](featuresbynodetype.md#wg)
 Value|Occurences
 ---|---
 LUK|8945
@@ -71,7 +79,9 @@ REV|3895
 ROM|2799
 HEB|1977
 2CO|1852
-### Frequency for nodetype [word](featuresbynodetype.md#word)
+
+Total frequency of feature: 59390. Note: table truncated.
+ ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
 LUK|19456
@@ -84,6 +94,8 @@ ROM|7100
 1CO|6820
 HEB|4955
 2CO|4469
- 
 
-Created on Jul. 07, 2024 using [Doc4TF version 0.5.1 (June 16, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Total frequency of feature: 137779. Note: table truncated.
+  
+
+Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

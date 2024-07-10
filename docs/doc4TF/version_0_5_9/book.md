@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/0158b08039fb672626b3f9c2774f4d97120826fb/tf) (version 0.5.9)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
 # Feature: book
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -19,7 +19,9 @@ II_Corinthians|1
 II_John|1
 II_Peter|1
 II_Thessalonians|1
-### Frequency for nodetype [chapter](featuresbynodetype.md#chapter)
+
+Total frequency of feature: 27. Note: table truncated.
+ ### Frequency for nodetype [chapter](featuresbynodetype.md#chapter)
 Value|Occurences
 ---|---
 Acts|28
@@ -32,7 +34,9 @@ Mark|16
 Romans|16
 Hebrews|13
 II_Corinthians|13
-### Frequency for nodetype [verse](featuresbynodetype.md#verse)
+
+Total frequency of feature: 260. Note: table truncated.
+ ### Frequency for nodetype [verse](featuresbynodetype.md#verse)
 Value|Occurences
 ---|---
 Luke|1149
@@ -45,7 +49,9 @@ Romans|432
 Revelation|405
 Hebrews|303
 II_Corinthians|256
-### Frequency for nodetype [sentence](featuresbynodetype.md#sentence)
+
+Total frequency of feature: 7944. Note: table truncated.
+ ### Frequency for nodetype [sentence](featuresbynodetype.md#sentence)
 Value|Occurences
 ---|---
 Luke|1150
@@ -58,7 +64,9 @@ Revelation|462
 Romans|460
 II_Corinthians|249
 Hebrews|241
-### Frequency for nodetype [group](featuresbynodetype.md#group)
+
+Total frequency of feature: 7939. Note: table truncated.
+ ### Frequency for nodetype [group](featuresbynodetype.md#group)
 Value|Occurences
 ---|---
 Acts|1288
@@ -71,7 +79,9 @@ I_Corinthians|431
 Romans|362
 Hebrews|325
 II_Corinthians|222
-### Frequency for nodetype [clause](featuresbynodetype.md#clause)
+
+Total frequency of feature: 8945. Note: table truncated.
+ ### Frequency for nodetype [clause](featuresbynodetype.md#clause)
 Value|Occurences
 ---|---
 Luke|6563
@@ -84,7 +94,9 @@ I_Corinthians|2210
 Romans|1977
 Hebrews|1411
 II_Corinthians|1381
-### Frequency for nodetype [wg](featuresbynodetype.md#wg)
+
+Total frequency of feature: 42506. Note: table truncated.
+ ### Frequency for nodetype [wg](featuresbynodetype.md#wg)
 Value|Occurences
 ---|---
 Luke|8945
@@ -97,7 +109,9 @@ I_Corinthians|3160
 Romans|2799
 Hebrews|1977
 II_Corinthians|1852
-### Frequency for nodetype [word](featuresbynodetype.md#word)
+
+Total frequency of feature: 59390. Note: table truncated.
+ ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
 Luke|19456
@@ -110,6 +124,8 @@ Romans|7100
 I_Corinthians|6820
 Hebrews|4955
 II_Corinthians|4469
- 
 
-Created on Jul. 07, 2024 using [Doc4TF version 0.5.1 (June 16, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Total frequency of feature: 137779. Note: table truncated.
+  
+
+Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

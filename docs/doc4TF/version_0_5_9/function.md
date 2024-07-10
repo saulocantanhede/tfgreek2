@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/0158b08039fb672626b3f9c2774f4d97120826fb/tf) (version 0.5.9)
+Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
 # Feature: function
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -19,7 +19,9 @@ Subj-Cmpl|23
 Pred-Obj-Cmpl|22
 Subj-Pred-Obj|20
 Pred-Obj-Subj|19
-### Frequency for nodetype [clause](featuresbynodetype.md#clause)
+
+Total frequency of feature: 778. Note: table truncated.
+ ### Frequency for nodetype [clause](featuresbynodetype.md#clause)
 Value|Occurences
 ---|---
 Pred-Obj|2675
@@ -32,7 +34,9 @@ Pred-Subj|603
 Pred-Obj-Cmpl|596
 Subj-PreC-PreC|595
 PreC-PreC|554
-### Frequency for nodetype [wg](featuresbynodetype.md#wg)
+
+Total frequency of feature: 21568. Note: table truncated.
+ ### Frequency for nodetype [wg](featuresbynodetype.md#wg)
 Value|Occurences
 ---|---
 Cmpl|11056
@@ -45,7 +49,9 @@ Cmpl-Pred|1185
 Obj-Pred|1077
 Cmpl-Pred-Obj|684
 Subj-Pred|639
-### Frequency for nodetype [phrase](featuresbynodetype.md#phrase)
+
+Total frequency of feature: 45276. Note: table truncated.
+ ### Frequency for nodetype [phrase](featuresbynodetype.md#phrase)
 Value|Occurences
 ---|---
 Pred|24767
@@ -54,7 +60,9 @@ Subj|10198
 Objc|9337
 PreC|6097
 Adv|5596
-### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
+
+Total frequency of feature: 69007.
+ ### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
 Value|Occurences
 ---|---
 Pred|24767
@@ -63,7 +71,9 @@ Subj|10198
 Objc|9337
 PreC|6097
 Adv|5596
-### Frequency for nodetype [word](featuresbynodetype.md#word)
+
+Total frequency of feature: 69007.
+ ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
 Pred|24767
@@ -72,6 +82,8 @@ Objc|4813
 PreC|4487
 Subj|4458
 Cmpl|1956
- 
 
-Created on Jul. 07, 2024 using [Doc4TF version 0.5.1 (June 16, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Total frequency of feature: 46077.
+  
+
+Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
