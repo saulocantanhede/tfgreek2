@@ -69,7 +69,7 @@ character_substitution = {'ά': 'ά',
                           'ΰ': 'ΰ',
                           'ώ': 'ώ'}
 
-punctuation_signs = r"[ ,.;·]"
+punctuation_signs = r"[,.;·]"
 criticalsign_signs = r"[—()]"
 
 cl_dictionary = ["CLaCL", "CLa2CL", "CLandCL2", "CLandClClandClandClandCl",
@@ -133,11 +133,11 @@ def convertTaskCustom(self):
     slotType = "word"
     otext = {
         "fmt:text-orig-full": "{before}{text}{after}",
-        "fmt:text-orig-plain": "{text}{punctuation}",
-        "fmt:text-translit-plain": "{translit}{punctuation}",
-        "fmt:text-unaccent-plain": "{unaccent}{punctuation}",
-        "fmt:lex-orig-plain": "{lemma}{punctuation}",
-        "fmt:lex-translit-plain": "{lemmatranslit}{punctuation}",
+        "fmt:text-orig-plain": "{text}{trailer}",
+        "fmt:text-translit-plain": "{translit}{trailer}",
+        "fmt:text-unaccent-plain": "{unaccent}{trailer}",
+        "fmt:lex-orig-plain": "{lemma}{trailer}",
+        "fmt:lex-translit-plain": "{lemmatranslit}{trailer}",
         "sectionTypes": "book,chapter,verse",
         "sectionFeatures": "book,chapter,verse",
         "levelConstraints": "clause < group",
@@ -149,7 +149,6 @@ def convertTaskCustom(self):
         "articular",
         "chapter",
         "discontinuous",
-        "nodeid",
         "num",
         "strong",
         "verse",
@@ -181,7 +180,7 @@ def convertTaskCustom(self):
         ("ln", "ln"),
         ("mood", "verbal mood"),
         ("morph", "morphological code"),
-        ("nodeid", "node id (as in the XML source data"),
+        ("nodeid", "node id (as in the XML source data)"),
         ("normalized", "lemma normalized"),
         (
             "num",
@@ -196,6 +195,7 @@ def convertTaskCustom(self):
         ("note", "annotation of linguistic nature"),
         ("parent", "parent relationship between words"),
         ("person", "grammatical person"),
+        ("punctuation", "punctuation found after a word"),
         ("ref", "biblical reference with word counting"),
         ("referent", "number of referent"),
         ("sibling", "simbling relationship between words"),
@@ -207,8 +207,10 @@ def convertTaskCustom(self):
         ("text", "the text of a word"),
         ("tense", "verbal tense"),
         ("translit", "transliteration of the word surface text"),
+        ("trailer", "material after the end of the word (excluding critical signs)"),
         ("trans", "translation of the word surface text according to the Berean Interlinear Bible"),
-        ("type", "morphological type (on word), syntactical type (on sentence, group, clause, phrase or wg)"),
+        ("typems", "morphological type (on word), syntactical type (on sentence, group, clause, phrase or wg)"),
+        ("typ", "syntactical type (on sentence, group, clause or phrase)"),
         ("unicode", "word in unicode characters plus material after it"),
         ("unaccent", "word in unicode characters without accents and diacritical markers"),
         ("verse", "verse number, from ref attribute in xml"),
@@ -224,13 +226,19 @@ def convertTaskCustom(self):
     xmlVersion = self.xmlVersion
     generic = self.generic
     generic["author"] = "Evangelists and apostles" #information about the authors and the version of the datasource
-    generic["title"] = "Greek New Testament"
-    generic["institute"] = "ETCBC (Eep Talstra Centre for Bible and Computer), Andrews University"
+    generic["editors"] = "Eberhart Nestle (1904)"
+    generic["title"] = "Greek New Testament (Nestle 1904)"
+    generic["institute"] = "ETCBC (Eep Talstra Centre for Bible and Computer) at Vrije Universiteit Amsterdam, CBLC (Center of Biblical Languages and Computing) at Andrews University"
     generic["converters"] = "Saulo de Oliveira Cantanhêde, Tony Jurg, Dirk Roorda"
-    generic["sourceFormat"] = "XML lowfat"
+    generic["converterSourceLocation"] = "https://github.com/saulocantanhede/tfgreek2/tree/main/programs"
+    generic["converterVersion"] = "0.5.9 (July 9, 2024)"
+    generic["dataSourceFormat"] = "XML lowfat tree data"
+    generic["dataSource"] = "MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/lowfat"
+    generic["dataSourceLocation"] = "https://github.com/saulocantanhede/tfgreek2/tree/main/xml/2022-11-01/gnt"
     generic["version"] = tfVersion
     generic["xmlVersion"] = xmlVersion
-    
+    generic["xmlSourceDate"] = "February 9, 2023"
+   
     initTree(tfPath, fresh=True, gentle=True)
 
     cv = self.getConverter()
@@ -483,16 +491,20 @@ def getDirector(self):
             
             unicode = atts.get('unicode')
             after = atts.get('after')
+
+            # Definition of trailer
+            trailer = " "
             
             #Definition of punctuation feature
             punctuation_matches = re.findall(punctuation_signs, after)
             atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
+            trailer = punctuation_matches[0] + " " if punctuation_matches else trailer
 
             # Definition of before feature
             if unicode[0] in {"—", "(", "["}:  # words that start with "—", "(", or "["
                 atts['before'] = unicode[0]
                 if unicode[0] == "—":
-                    atts['after'] = atts['punctuation'] = " "  # solving bug with letters in the after feature
+                    atts['after'] = atts['trailer'] = " "  # solving bug with letters in the after feature
                     atts['text'] = re.sub(r"[—]", "", unicode)
                 elif unicode[0] in {"(", "["}:
                     atts['criticalsign'] = unicode[0]
@@ -512,8 +524,9 @@ def getDirector(self):
                     criticalsign_matches = re.findall(criticalsign_signs, unicode)
                     atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
                     atts['criticalsign'] = criticalsign_matches[0] if criticalsign_matches else None
+                    trailer = punctuation_matches[0] + " " if punctuation_matches else trailer
                 else:
-                    atts.update({'after': unicode[-1], 'punctuation': " "})
+                    atts.update({'after': unicode[-1], 'trailer': " "})
 
             # words that end with two punctuation signs
             if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"} and unicode[-1] not in {"ὁ", "ὃ", "ὅ"}:
@@ -522,6 +535,7 @@ def getDirector(self):
                 criticalsign_matches = re.findall(criticalsign_signs, unicode)
                 atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
                 atts['criticalsign'] = criticalsign_matches[0] if criticalsign_matches else None
+                trailer = punctuation_matches[0] + " " if punctuation_matches else trailer
 
             # words "ὁ", "ὃ", "ὅ"
             if len(unicode) >= 2 and unicode[-2] in {" ", ",", ".", ";", "·", "—", "(", ")"} and unicode[-1] in {"ὁ", "ὃ", "ὅ"}:
@@ -530,6 +544,7 @@ def getDirector(self):
                 criticalsign_matches = re.findall(criticalsign_signs, unicode)
                 atts['punctuation'] = punctuation_matches[0] if punctuation_matches else None
                 atts['criticalsign'] = criticalsign_matches[0] if criticalsign_matches else None
+                trailer = punctuation_matches[0] + " " if punctuation_matches else trailer
 
             # words that end with "]]"
             if len(unicode) >= 3 and unicode[-2] in {"]"} and unicode[-3] not in {"ν"}:
@@ -541,7 +556,14 @@ def getDirector(self):
             # word that ends with "]"
             if unicode == "Ἐφέσῳ]":
                 atts.update({'after': "]", 'criticalsign': "]"})
-            
+
+            atts['trailer'] = trailer
+
+            # adding space after signs
+            after=atts.get('after')
+            if after != " ":
+                atts.update({'after': after + " "})
+
             #updating lemma
             lemma = atts.get('lemma')
             txt = atts.get('text')
@@ -632,6 +654,16 @@ def getDirector(self):
             
             if role == "apposition":
                 atts_phrase["rela"] = "Appo"
+
+            #updating gramatical person according to the BHSA nomenclature
+            person = atts.get("person")
+            atts['person'] = person
+            if person == 'first':
+                atts['person'] = 'p1'
+            elif person == 'second':
+                atts['person'] = 'p2'
+            elif person == 'third':
+                atts['person'] = 'p3'
             
             #save word attributes as features for the extra nodes
             extraNode = cv.node(extraType)
@@ -719,7 +751,7 @@ def getDirector(self):
             elif tag == "wg" and len(atts): #consider only wg tag with attributes
                 cls = atts.get("cls", None)
                 role = atts.get("role", None)
-                type = atts.get("type", None)
+                typems = atts.get("typems", None)
                 rule = atts.get("rule", None)
                 cltype = atts.get("cltype", None)
                 crule = atts.get("crule", None)
@@ -785,7 +817,7 @@ def getDirector(self):
                             if wg_elements:
                                 atts['function'] = function
                         
-                        atts["num"] = cur["sentNum"]
+                        atts["num"] = cur["clNum"]
                         atts['book'] = cur['book']
                         atts["bookshort"] = cur["bookshort"]
 
@@ -795,7 +827,7 @@ def getDirector(self):
                         if role == 'aux':
                             atts["typ"] = "Voct"
                         
-                        atts["num"] = cur["sentNum"]
+                        atts["num"] = cur["clNum"]
                         atts['book'] = cur['book']
                         atts["bookshort"] = cur["bookshort"]
 
@@ -814,32 +846,72 @@ def getDirector(self):
                         atts["bookshort"] = cur["bookshort"]
                     
                     #generate sentence container for specific attributes
-                    elif type == "wrapper-clause-scope" or type == "modifier-clause-scope":
-                        extraType = "sentence"
+                    elif typems == "wrapper-clause-scope" or typems == "modifier-clause-scope":
+                        
+                        wg_elements = xnode.xpath("//wg[not(parent::wg)]")
+                        if wg_elements:
+                            extraType = "clause"
+
+                            cur["clNum"] += 1 
+                            atts["num"] = cur["clNum"]
+                        else:
+                            extraType = "sentence"
+
+                            cur["sentNum"] += 1 
+                            atts["num"] = cur["sentNum"]
+
+                        '''extraType = "sentence"
 
                         cur["sentNum"] += 1 
-                        atts["num"] = cur["sentNum"]
+                        atts["num"] = cur["sentNum"]'''
+
                         atts['book'] = cur['book']
                         atts["bookshort"] = cur["bookshort"]
                     
                     elif rule in cl_dictionary:
-                        extraType = "sentence"
 
+                        wg_elements = xnode.xpath("//wg[not(parent::wg)]")
+                        if wg_elements:
+                            extraType = "clause"
+
+                            cur["clNum"] += 1 
+                            atts["num"] = cur["clNum"]
+                        else:
+                            extraType = "sentence"
+
+                            cur["sentNum"] += 1 
+                            atts["num"] = cur["sentNum"]
+
+                        '''extraType = "sentence"
                         cur["sentNum"] += 1 
-                        atts["num"] = cur["sentNum"]
+                        atts["num"] = cur["sentNum"]'''
+
                         atts['book'] = cur['book']
                         atts["bookshort"] = cur["bookshort"]
 
                     elif rule is not None and len(atts) == 1:
-                        extraType = "sentence"
+                        
+                        wg_elements = xnode.xpath("//wg[not(parent::wg)]")
+                        if wg_elements:
+                            extraType = "clause"
 
+                            cur["clNum"] += 1 
+                            atts["num"] = cur["clNum"]
+                        else:
+                            extraType = "sentence"
+
+                            cur["sentNum"] += 1 
+                            atts["num"] = cur["sentNum"]
+
+                        '''extraType = "sentence"
                         cur["sentNum"] += 1
-                        atts["num"] = cur["sentNum"]
+                        atts["num"] = cur["sentNum"]'''
+
                         atts['book'] = cur['book']
                         atts["bookshort"] = cur["bookshort"]
 
                     #generate group container for specific attributes
-                    elif type == "conjuncted-wg":
+                    elif typems == "conjuncted-wg":
                         extraType = "group"
                         atts["typ"] = "conjuncted"
 
@@ -848,7 +920,7 @@ def getDirector(self):
                         atts['book'] = cur['book']
                         atts["bookshort"] = cur["bookshort"]
 
-                    elif type == "apposition-group":
+                    elif typems == "apposition-group":
                         extraType = "group"
                         atts["typ"] = "apposition"
 
@@ -883,6 +955,9 @@ def getDirector(self):
 
             if len(cur['superParentNode']) == 1 and extraType != "sentence": #defining the sentence container at the beginning of the root
                 extraType = "sentence"
+
+                cur["sentNum"] += 1
+                atts["num"] = cur["sentNum"]
 
             if extraType is not None:
                 extraNode = cv.node(extraType)
@@ -997,7 +1072,6 @@ def getDirector(self):
                     cur["extraSib"] = [] #define dictionary that carries all the siblings with extraNodes
                     cur["superParentNode"] = [] #define dictionary that carries all the previous superNodes
                     cur['superSib'] = [] #define dictionary that carries all the siblings with superNodes
-                    cur['condition'] = None
                     walkNode(cv, cur, root)
 
                 xIdIndex = cur["xIdIndex"]
