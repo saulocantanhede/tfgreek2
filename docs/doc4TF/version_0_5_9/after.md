@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
+Doc4TF pages for TF dataset (unspecified) (version None)
 # Feature: after
 Data type|Feature type|Available for nodes
 ---|---|---
@@ -10,45 +10,45 @@ material after the end of the word
 Value|Occurences
 ---|---
 space|37661
-,|3892
-.|2724
-·|1187
-;|588
-,—|8
-).|4
-—|3
-,)|2
-·—|2
+, |3892
+. |2724
+· |1187
+; |588
+,— |8
+). |4
+— |3
+,) |2
+·— |2
 
 Total frequency of feature: 46077. Note: table truncated.
  ### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
 Value|Occurences
 ---|---
 space|119261
-,|9439
-.|5704
-·|2355
-;|969
-,—|18
-—|7
-).|6
-.]]|4
-·—|4
+, |9439
+. |5704
+· |2355
+; |969
+,— |18
+— |7
+). |6
+.]] |4
+·— |4
 
 Total frequency of feature: 137779. Note: table truncated.
  ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
 space|119261
-,|9439
-.|5704
-·|2355
-;|969
-,—|18
-—|7
-).|6
-.]]|4
-·—|4
+, |9439
+. |5704
+· |2355
+; |969
+,— |18
+— |7
+). |6
+.]] |4
+·— |4
 
 Total frequency of feature: 137779. Note: table truncated.
   

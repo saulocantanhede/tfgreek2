@@ -1,4 +1,4 @@
-Doc4TF pages for [Nestle 1904 Greek New Testament](https://github.com/saulocantanhede/tfgreek2/tree/main/tf) (version 0.5.9)
+Doc4TF pages for TF dataset (unspecified) (version None)
 # Feature: ln
 Data type|Feature type|Available for nodes
 ---|---|---
