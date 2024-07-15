@@ -1,7 +1,7 @@
 @edge
 @author=Evangelists and apostles
 @converterSourceLocation=https://github.com/saulocantanhede/tfgreek2/tree/main/programs
-@converterVersion=0.5.9 (July 3, 2024)
+@converterVersion=0.5.9 (July 9, 2024)
 @converters=Saulo de Oliveira Cantanhêde, Tony Jurg, Dirk Roorda
 @dataSource=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/lowfat
 @dataSourceFormat=XML lowfat tree data
@@ -14,7 +14,7 @@
 @xmlSourceDate=February 9, 2023
 @xmlVersion=2022-11-01
 @writtenBy=Text-Fabric
-@dateWritten=2024-07-05T16:52:12Z
+@dateWritten=2024-07-15T18:24:24Z
 
 137780	1-18299
 18300-29576
