@@ -2,7 +2,7 @@ Doc4TF pages for TF dataset (unspecified) (version None)
 # Feature: bookshort
 Data type|Feature type|Available for nodes
 ---|---|---
-[`String`](featuresbydatatype.md#string)|[`Node`](featuresbytype.md#node)| [`book`](featuresbynodetype.md#book)  [`sentence`](featuresbynodetype.md#sentence)  [`group`](featuresbynodetype.md#group)  [`clause`](featuresbynodetype.md#clause)  [`wg`](featuresbynodetype.md#wg)  [`word`](featuresbynodetype.md#word) 
+[`String`](featuresbydatatype.md#string)|[`Node`](featuresbytype.md#node)| [`book`](featuresbynodetype.md#book)  [`sentence`](featuresbynodetype.md#sentence)  [`group`](featuresbynodetype.md#group)  [`clause`](featuresbynodetype.md#clause)  [`wg`](featuresbynodetype.md#wg)  [`phrase`](featuresbynodetype.md#phrase)  [`subphrase`](featuresbynodetype.md#subphrase)  [`word`](featuresbynodetype.md#word) 
 ## Description
 book name (abbreviated) from ref attribute in xml
 ## Feature Values
@@ -24,18 +24,18 @@ Total frequency of feature: 27. Note: table truncated.
  ### Frequency for nodetype [sentence](featuresbynodetype.md#sentence)
 Value|Occurences
 ---|---
-LUK|1150
-MAT|1118
-JHN|1027
-ACT|878
-MRK|723
-1CO|519
-REV|462
-ROM|460
-2CO|249
+LUK|1155
+MAT|1133
+JHN|1038
+ACT|883
+MRK|727
+1CO|524
+REV|466
+ROM|465
+2CO|253
 HEB|241
 
-Total frequency of feature: 7939. Note: table truncated.
+Total frequency of feature: 8011. Note: table truncated.
  ### Frequency for nodetype [group](featuresbynodetype.md#group)
 Value|Occurences
 ---|---
@@ -69,18 +69,48 @@ Total frequency of feature: 42506. Note: table truncated.
  ### Frequency for nodetype [wg](featuresbynodetype.md#wg)
 Value|Occurences
 ---|---
-LUK|8945
-MAT|8165
-ACT|7770
-JHN|7207
-MRK|5363
-REV|3895
-1CO|3160
-ROM|2799
-HEB|1977
-2CO|1852
+LUK|15204
+ACT|14345
+MAT|14152
+JHN|11626
+MRK|8650
+REV|8171
+ROM|5471
+1CO|5218
+HEB|3822
+2CO|3485
 
-Total frequency of feature: 59390. Note: table truncated.
+Total frequency of feature: 106868. Note: table truncated.
+ ### Frequency for nodetype [phrase](featuresbynodetype.md#phrase)
+Value|Occurences
+---|---
+LUK|10162
+MAT|9538
+ACT|9186
+JHN|8871
+MRK|6077
+REV|3916
+1CO|3517
+ROM|3331
+HEB|2452
+2CO|2108
+
+Total frequency of feature: 69007. Note: table truncated.
+ ### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
+Value|Occurences
+---|---
+LUK|25710
+ACT|24963
+MAT|24271
+JHN|20051
+MRK|14560
+REV|14104
+ROM|9767
+1CO|8873
+HEB|6800
+2CO|6098
+
+Total frequency of feature: 185185. Note: table truncated.
  ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
@@ -98,4 +128,4 @@ HEB|4955
 Total frequency of feature: 137779. Note: table truncated.
   
 
-Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Created on Jul. 16, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

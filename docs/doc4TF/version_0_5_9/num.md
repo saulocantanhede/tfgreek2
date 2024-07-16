@@ -57,13 +57,13 @@ Value|Occurences
 24|27
 33|27
 19|26
-27|26
-41|26
-68|26
+30|26
 73|26
 7|25
+8|25
 10|25
 11|25
+13|25
 
 Total frequency of feature: 42506. Note: table truncated.
  ### Frequency for nodetype [wg](featuresbynodetype.md#wg)
@@ -72,8 +72,8 @@ Value|Occurences
 1|88
 4|72
 30|71
-17|70
 15|69
+17|69
 7|68
 13|68
 8|67
@@ -114,18 +114,18 @@ Total frequency of feature: 185185. Note: table truncated.
  ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
-1|7943
-2|7943
-3|7941
-4|7933
-5|7920
-6|7880
-7|7802
-8|7643
-9|7441
-10|7166
+132|32
+147|31
+439|31
+262|30
+45|29
+74|29
+155|29
+158|29
+177|29
+233|29
 
 Total frequency of feature: 137779. Note: table truncated.
   
 
-Created on Jul. 10, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
+Created on Jul. 16, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
