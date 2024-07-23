@@ -1,7 +1,7 @@
 @node
 @Author=Nestle & Aland
 @Converter=Oliver Glanz
-@Editors=Ulrik Sandborg Petersen, Eliran Wong, Oliver Glanz, BOL
+@Editors=Ulrik Sandborg Petersen, Eliran Wong, Oliver Glanz, Bible Online Learner
 @Name=NA1904
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
