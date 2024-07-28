@@ -231,7 +231,7 @@ def convertTaskCustom(self):
     generic["institute"] = "ETCBC (Eep Talstra Centre for Bible and Computer) at Vrije Universiteit Amsterdam, CBLC (Center of Biblical Languages and Computing) at Andrews University"
     generic["converters"] = "Saulo de Oliveira Cantanhêde, Tony Jurg, Dirk Roorda"
     generic["converterSourceLocation"] = "https://github.com/saulocantanhede/tfgreek2/tree/main/programs"
-    generic["converterVersion"] = "0.5.9 (July 9, 2024)"
+    generic["converterVersion"] = "1.0.0 (July 9, 2024)"
     generic["dataSourceFormat"] = "XML lowfat tree data"
     generic["dataSource"] = "MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/lowfat"
     generic["dataSourceLocation"] = "https://github.com/saulocantanhede/tfgreek2/tree/main/xml/2022-11-01/gnt"
@@ -605,8 +605,58 @@ def getDirector(self):
 
             #definition of translated text (surface text that follows the Berean Study Bible)
             trans = atts.get("gloss")
-            atts["trans"] = trans
-                
+            atts["trans"] = trans           
+
+            #updating gramatical person according to the BHSA nomenclature
+            person = atts.get("person")
+            atts['person'] = person
+            if person == 'first':
+                atts['person'] = 'p1'
+            elif person == 'second':
+                atts['person'] = 'p2'
+            elif person == 'third':
+                atts['person'] = 'p3'   
+
+            ref = atts["ref"]
+            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(ref)
+            if bRef in book_name:
+                cur["bookshort"] = bRef
+                thisBook = book_name[bRef]
+                atts["book"] = thisBook
+            atts["bookshort"] = cur["bookshort"]
+            atts["chapter"] = chRef
+            atts["verse"] = vRef
+            atts["num"] = wRef
+            thisChapterNum = atts["chapter"]
+            thisVerseNum = atts["verse"]
+            if thisChapterNum != cv.get("chapter", cur["chapter"]):
+                if cur.get("verse", None) is not None:
+                    cv.terminate(cur["verse"])
+                if cur.get("chapter", None) is not None:
+                    cv.terminate(cur["chapter"])
+
+                curChapter = cv.node("chapter")
+                cur["chapter"] = curChapter
+                cv.feature(curChapter, chapter=thisChapterNum, book=thisBook) #book feature added to the chapter node
+
+                curVerse = cv.node("verse")
+                cur["verse"] = curVerse
+                cv.feature(curVerse, verse=thisVerseNum, chapter=thisChapterNum, book=thisBook) #chapter and book features added to the verse node
+
+            elif thisVerseNum != cv.get("verse", cur["verse"]):
+                if cur.get("verse", None) is not None:
+                    cv.terminate(cur["verse"])
+
+                curVerse = cv.node("verse")
+                cur["verse"] = curVerse
+                cv.feature(curVerse, verse=thisVerseNum, chapter=thisChapterNum, book=thisBook) #chapter and book features added to the verse node
+
+            key = f"B{cur['bookNum']:>03}-C{chRef:>03}-V{vRef:>03}-W{wRef:>04}"
+
+            if demoMode:
+                if cur["sentNum"] == 1:
+                    key = None
+
             #definition of attributes for the phrases and subphrases
             
             #atts_phrase={} #saving only specific features in the features of the phrase
@@ -655,63 +705,13 @@ def getDirector(self):
             if role == "apposition":
                 atts_phrase["rela"] = "Appo"
 
-            #updating gramatical person according to the BHSA nomenclature
-            person = atts.get("person")
-            atts['person'] = person
-            if person == 'first':
-                atts['person'] = 'p1'
-            elif person == 'second':
-                atts['person'] = 'p2'
-            elif person == 'third':
-                atts['person'] = 'p3'
-            
             #save word attributes as features for the extra nodes
             extraNode = cv.node(extraType)
             if len(atts):
-                cv.feature(extraNode, **atts_phrase)     
-
-            ref = atts["ref"]
-            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(ref)
-            if bRef in book_name:
-                cur["bookshort"] = bRef
-                thisBook = book_name[bRef]
-                atts["book"] = thisBook
-            atts["bookshort"] = cur["bookshort"]
-            atts["chapter"] = chRef
-            atts["verse"] = vRef
-            atts["num"] = wRef
-            thisChapterNum = atts["chapter"]
-            thisVerseNum = atts["verse"]
-            if thisChapterNum != cv.get("chapter", cur["chapter"]):
-                if cur.get("verse", None) is not None:
-                    cv.terminate(cur["verse"])
-                if cur.get("chapter", None) is not None:
-                    cv.terminate(cur["chapter"])
-
-                curChapter = cv.node("chapter")
-                cur["chapter"] = curChapter
-                cv.feature(curChapter, chapter=thisChapterNum, book=thisBook) #book feature added to the chapter node
-
-                curVerse = cv.node("verse")
-                cur["verse"] = curVerse
-                cv.feature(curVerse, verse=thisVerseNum, chapter=thisChapterNum, book=thisBook) #chapter and book features added to the verse node
-
-            elif thisVerseNum != cv.get("verse", cur["verse"]):
-                if cur.get("verse", None) is not None:
-                    cv.terminate(cur["verse"])
-
-                curVerse = cv.node("verse")
-                cur["verse"] = curVerse
-                cv.feature(curVerse, verse=thisVerseNum, chapter=thisChapterNum, book=thisBook) #chapter and book features added to the verse node
-
-            key = f"B{cur['bookNum']:>03}-C{chRef:>03}-V{vRef:>03}-W{wRef:>04}"
-
-            if demoMode:
-                if cur["sentNum"] == 1:
-                    key = None
+                cv.feature(extraNode, **atts_phrase)
 
             curNode = cv.slot(key=key)
-            cv.feature(curNode, **atts)
+            cv.feature(curNode, **atts)  
 
             xId = atts.get("id", None)
             if xId is not None:
@@ -741,12 +741,6 @@ def getDirector(self):
                     atts["book"] = book_name[atts["id"]]
                     cur['book'] = atts['book']
                 del atts["id"]
-
-            elif tag == "sentence":
-                cur["sentNum"] += 1
-                atts["num"] = cur["sentNum"]
-                atts['book'] = cur['book']
-                atts["bookshort"] = cur["bookshort"]
                 
             elif tag == "wg" and len(atts): #consider only wg tag with attributes
                 cls = atts.get("cls", None)
@@ -756,8 +750,17 @@ def getDirector(self):
                 cltype = atts.get("cltype", None)
                 crule = atts.get("crule", None)
                 clausetype = atts.get("clauseType", None)
+
+                wg_ref = xnode.xpath("w[1]/@ref")
+                if len(wg_ref):
+                    (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                    if bRef in book_name:
+                        atts["book"] = book_name[bRef]
+                    atts["bookshort"] = bRef
+                    atts["chapter"] = chRef
+                    atts["verse"] = vRef
                 
-                #fixing features with capital letters in the middle of the word
+                #fixing features with capital letters in the middle of the name of the features
                 atts["clauseType"] = atts.get("clauseType")
                 if atts["clauseType"] is not None:
                     atts["clausetype"] = atts["clauseType"]
@@ -778,8 +781,14 @@ def getDirector(self):
                         
                         cur["clNum"] += 1 #counting the number of the clauses
                         atts["num"] = cur["clNum"]
-                        atts['book'] = cur['book']
-                        atts["bookshort"] = cur["bookshort"]
+                        wg_ref = xnode.xpath("wg//w[1]/@ref")
+                        if len(wg_ref):
+                            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                            if bRef in book_name:
+                                atts["book"] = book_name[bRef]
+                            atts["bookshort"] = bRef
+                            atts["chapter"] = chRef
+                            atts["verse"] = vRef
                             
                     else:
                         extraType = "phrase" #generate phrase container for the words within the wg tag
@@ -801,12 +810,29 @@ def getDirector(self):
                         if role == "apposition":
                             atts["rela"] = "Appo"
 
+                        wg_ref = xnode.xpath("wg//w[1]/@ref")
+                        if len(wg_ref):
+                            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                            if bRef in book_name:
+                                atts["book"] = book_name[bRef]
+                            atts["bookshort"] = bRef
+                            atts["chapter"] = chRef
+                            atts["verse"] = vRef
+
                 else:
                     if rule == "NPofNP":
                         extraType = "phrase"
 
                         cur["phraseNum"] += 1 #counting the number of the phrases
                         atts["num"] = cur["phraseNum"]
+                        wg_ref = xnode.xpath("wg//w[1]/@ref")
+                        if len(wg_ref):
+                            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                            if bRef in book_name:
+                                atts["book"] = book_name[bRef]
+                            atts["bookshort"] = bRef
+                            atts["chapter"] = chRef
+                            atts["verse"] = vRef
 
                     #conditions for the final verbal phrases (participle and infinitive)
                     elif rule == 'Conj2VP' and role == 'v':
@@ -817,9 +843,16 @@ def getDirector(self):
                             if wg_elements:
                                 atts['function'] = function
                         
+                        cur["clNum"] += 1
                         atts["num"] = cur["clNum"]
-                        atts['book'] = cur['book']
-                        atts["bookshort"] = cur["bookshort"]
+                        wg_ref = xnode.xpath("wg//w[1]/@ref")
+                        if len(wg_ref):
+                            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                            if bRef in book_name:
+                                atts["book"] = book_name[bRef]
+                            atts["bookshort"] = bRef
+                            atts["chapter"] = chRef
+                            atts["verse"] = vRef
 
                     elif role in {'tail', 'ellipsis', 'topic', 'aux'}:
                         extraType = 'clause'
@@ -827,9 +860,16 @@ def getDirector(self):
                         if role == 'aux':
                             atts["typ"] = "Voct"
                         
+                        cur["clNum"] += 1
                         atts["num"] = cur["clNum"]
-                        atts['book'] = cur['book']
-                        atts["bookshort"] = cur["bookshort"]
+                        wg_ref = xnode.xpath("wg//w[1]/@ref")
+                        if len(wg_ref):
+                            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                            if bRef in book_name:
+                                atts["book"] = book_name[bRef]
+                            atts["bookshort"] = bRef
+                            atts["chapter"] = chRef
+                            atts["verse"] = vRef
 
                     #generate clause container for specific attributes
                     elif clausetype == "nominalized" or cltype is not None or crule is not None:
@@ -842,9 +882,15 @@ def getDirector(self):
                                                                         
                         cur["clNum"] += 1
                         atts["num"] = cur["clNum"]
-                        atts['book'] = cur['book']
-                        atts["bookshort"] = cur["bookshort"]
-                    
+                        wg_ref = xnode.xpath("wg//w[1]/@ref")
+                        if len(wg_ref):
+                            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                            if bRef in book_name:
+                                atts["book"] = book_name[bRef]
+                            atts["bookshort"] = bRef
+                            atts["chapter"] = chRef
+                            atts["verse"] = vRef
+
                     #generate sentence container for specific attributes
                     elif typems == "wrapper-clause-scope" or typems == "modifier-clause-scope":
                         
@@ -854,20 +900,22 @@ def getDirector(self):
 
                             cur["clNum"] += 1 
                             atts["num"] = cur["clNum"]
+
                         else:
                             extraType = "sentence"
 
                             cur["sentNum"] += 1 
                             atts["num"] = cur["sentNum"]
 
-                        '''extraType = "sentence"
-
-                        cur["sentNum"] += 1 
-                        atts["num"] = cur["sentNum"]'''
-
-                        atts['book'] = cur['book']
-                        atts["bookshort"] = cur["bookshort"]
-                    
+                        wg_ref = xnode.xpath("wg//w[1]/@ref")
+                        if len(wg_ref):
+                            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                            if bRef in book_name:
+                                atts["book"] = book_name[bRef]
+                            atts["bookshort"] = bRef
+                            atts["chapter"] = chRef
+                            atts["verse"] = vRef
+                        
                     elif rule in cl_dictionary:
 
                         wg_elements = xnode.xpath("//wg[not(parent::wg)]")
@@ -876,19 +924,22 @@ def getDirector(self):
 
                             cur["clNum"] += 1 
                             atts["num"] = cur["clNum"]
+
                         else:
                             extraType = "sentence"
 
                             cur["sentNum"] += 1 
                             atts["num"] = cur["sentNum"]
 
-                        '''extraType = "sentence"
-                        cur["sentNum"] += 1 
-                        atts["num"] = cur["sentNum"]'''
-
-                        atts['book'] = cur['book']
-                        atts["bookshort"] = cur["bookshort"]
-
+                        wg_ref = xnode.xpath("wg//w[1]/@ref")
+                        if len(wg_ref):
+                            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                            if bRef in book_name:
+                                atts["book"] = book_name[bRef]
+                            atts["bookshort"] = bRef
+                            atts["chapter"] = chRef
+                            atts["verse"] = vRef
+                        
                     elif rule is not None and len(atts) == 1:
                         
                         wg_elements = xnode.xpath("//wg[not(parent::wg)]")
@@ -897,19 +948,22 @@ def getDirector(self):
 
                             cur["clNum"] += 1 
                             atts["num"] = cur["clNum"]
+
                         else:
                             extraType = "sentence"
 
                             cur["sentNum"] += 1 
                             atts["num"] = cur["sentNum"]
 
-                        '''extraType = "sentence"
-                        cur["sentNum"] += 1
-                        atts["num"] = cur["sentNum"]'''
-
-                        atts['book'] = cur['book']
-                        atts["bookshort"] = cur["bookshort"]
-
+                        wg_ref = xnode.xpath("wg//w[1]/@ref")
+                        if len(wg_ref):
+                            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                            if bRef in book_name:
+                                atts["book"] = book_name[bRef]
+                            atts["bookshort"] = bRef
+                            atts["chapter"] = chRef
+                            atts["verse"] = vRef
+                        
                     #generate group container for specific attributes
                     elif typems == "conjuncted-wg":
                         extraType = "group"
@@ -917,17 +971,29 @@ def getDirector(self):
 
                         cur["groupNum"] += 1
                         atts["num"] = cur["groupNum"]
-                        atts['book'] = cur['book']
-                        atts["bookshort"] = cur["bookshort"]
-
+                        wg_ref = xnode.xpath("wg//w[1]/@ref")
+                        if len(wg_ref):
+                            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                            if bRef in book_name:
+                                atts["book"] = book_name[bRef]
+                            atts["bookshort"] = bRef
+                            atts["chapter"] = chRef
+                            atts["verse"] = vRef
+                        
                     elif typems == "apposition-group":
                         extraType = "group"
                         atts["typ"] = "apposition"
 
                         cur["groupNum"] += 1
                         atts["num"] = cur["groupNum"]
-                        atts['book'] = cur['book']
-                        atts["bookshort"] = cur["bookshort"]
+                        wg_ref = xnode.xpath("wg//w[1]/@ref")
+                        if len(wg_ref):
+                            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                            if bRef in book_name:
+                                atts["book"] = book_name[bRef]
+                            atts["bookshort"] = bRef
+                            atts["chapter"] = chRef
+                            atts["verse"] = vRef
                     
                     else:
                         extraType = "phrase" #generate phrase container for the words that the clause feature is None
@@ -937,14 +1003,24 @@ def getDirector(self):
 
                         if role in role_features_wg:
                             atts["function"] = role_features_wg[role]
+
                         else: #when a phrase does not contain a function element it is classified as subphrase
                             extraType = "subphrase"
 
                             cur["subphraseNum"] += 1 #counting the number of the subphrases
                             atts["num"] = cur["subphraseNum"]
-                        
+
                         if role == "apposition":
                             atts["rela"] = "Appo"
+                        
+                        wg_ref = xnode.xpath("wg//w[1]/@ref")
+                        if len(wg_ref):
+                            (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                            if bRef in book_name:
+                                atts["book"] = book_name[bRef]
+                            atts["bookshort"] = bRef
+                            atts["chapter"] = chRef
+                            atts["verse"] = vRef
             
             else:
                 return (None, None) #consider only wg tag with attributes
@@ -958,6 +1034,15 @@ def getDirector(self):
 
                 cur["sentNum"] += 1
                 atts["num"] = cur["sentNum"]
+
+                wg_ref = xnode.xpath("wg//w[1]/@ref")
+                if len(wg_ref):
+                    (bRef, chRef, vRef, wRef) = SPLIT_REF.split(wg_ref[0])
+                    if bRef in book_name:
+                        atts["book"] = book_name[bRef]
+                    atts["bookshort"] = bRef
+                    atts["chapter"] = chRef
+                    atts["verse"] = vRef
 
             if extraType is not None:
                 extraNode = cv.node(extraType)
