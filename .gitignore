@@ -1,2 +1,3 @@
 *checkpoint.ipynb
 *.tfx
+.DS_Store
